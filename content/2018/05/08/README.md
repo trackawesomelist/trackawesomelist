@@ -10,7 +10,7 @@
 
 ### Applications / Directory Navigation
 
-*   [gcalcli (⭐2.9k)](https://github.com/insanum/gcalcli) - Google Calendar command line interface
+*   [gcalcli (⭐3k)](https://github.com/insanum/gcalcli) - Google Calendar command line interface
 
 ## [2. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -26,11 +26,11 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-persian-datetime-picker (⭐561)](https://github.com/talkhabi/vue-persian-datetime-picker) Persian material datepicker. Supports datetime, date, time, year, month.
+*   [vue-persian-datetime-picker (⭐574)](https://github.com/talkhabi/vue-persian-datetime-picker) Persian material datepicker. Supports datetime, date, time, year, month.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-next-level-scroll (⭐49)](https://github.com/Developmint/vue-next-level-scroll) - A component based and SSR ready approach to smooth scrolling using the modern Scroll behavior API
+*   [vue-next-level-scroll (⭐48)](https://github.com/Developmint/vue-next-level-scroll) - A component based and SSR ready approach to smooth scrolling using the modern Scroll behavior API
 
 ## [4. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
@@ -46,15 +46,15 @@
 
 ### Animation
 
-*   [SpriteKitEasingSwift (⭐112)](https://github.com/craiggrummitt/SpriteKitEasingSwift) - Better Easing for SpriteKit.
+*   [SpriteKitEasingSwift (⭐113)](https://github.com/craiggrummitt/SpriteKitEasingSwift) - Better Easing for SpriteKit.
 
 ### Images / Barcode
 
-*   [BlockiesSwift (⭐58)](https://github.com/Boilertalk/BlockiesSwift) - Unique blocky identicons/profile picture generator.
+*   [BlockiesSwift (⭐60)](https://github.com/Boilertalk/BlockiesSwift) - Unique blocky identicons/profile picture generator.
 
 ### Text / Barcode
 
-*   [Croc (⭐129)](https://github.com/JKalash/Croc) - A lightweight Emoji parsing and querying library.
+*   [Croc (⭐130)](https://github.com/JKalash/Croc) - A lightweight Emoji parsing and querying library.
 
 ## [6. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -97,7 +97,7 @@
 ### .NET / General-Purpose Machine Learning
 
 *   [GeneticSharp (⭐1.1k)](https://github.com/giacomelli/GeneticSharp) - Multi-platform genetic algorithm library for .NET Core and .NET Framework. The library has several implementations of GA operators, like: selection, crossover, mutation, reinsertion and termination.
-*   [ML.NET (⭐8.4k)](https://github.com/dotnet/machinelearning) - ML.NET is a cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers. ML.NET was originally developed in Microsoft Research and evolved into a significant framework over the last decade and is used across many product groups in Microsoft like Windows, Bing, PowerPoint, Excel and more.
+*   [ML.NET (⭐8.5k)](https://github.com/dotnet/machinelearning) - ML.NET is a cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers. ML.NET was originally developed in Microsoft Research and evolved into a significant framework over the last decade and is used across many product groups in Microsoft like Windows, Bing, PowerPoint, Excel and more.
 *   [Vulpes (⭐116)](https://github.com/fsprojects/Vulpes) - Deep belief and deep learning implementation written in F# and leverages CUDA GPU execution with Alea.cuBase.
 
 ## [10. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)

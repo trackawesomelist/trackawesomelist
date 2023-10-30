@@ -1,6 +1,6 @@
 # Awesome List Updates on May 03, 2020
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -11,14 +11,14 @@
 ### Tools / Libraries
 
 *   [granim.js (⭐5.2k)](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations.
-*   [tinygradient (⭐180)](https://github.com/mistic100/tinygradient) - Fast and small gradients manipulation.
-*   [TinyColor (⭐4.6k)](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
+*   [tinygradient (⭐183)](https://github.com/mistic100/tinygradient) - Fast and small gradients manipulation.
+*   [TinyColor (⭐4.8k)](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
 
 ## [2. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Elixir/Erlang / Data Visualization
 
-*   [Workbench (⭐100)](https://github.com/fremantle-industries/workbench) - From Idea to Execution - Manage your trading operation across a globally distributed cluster
+*   [Workbench (⭐103)](https://github.com/fremantle-industries/workbench) - From Idea to Execution - Manage your trading operation across a globally distributed cluster
 
 ## [3. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
@@ -36,11 +36,11 @@
 
 ### Database Drivers
 
-*   [ruby-pg (⭐686)](https://github.com/ged/ruby-pg) - Ruby interface to PostgreSQL 8.3 and later.
+*   [ruby-pg (⭐721)](https://github.com/ged/ruby-pg) - Ruby interface to PostgreSQL 8.3 and later.
 
 ### Robotics
 
-*   [Arli (⭐29)](https://github.com/kigster/arli) - Arli is the CLI tool for searching, installing, and packaging Arduino libraries with a project using a YAML-based Arlifile. It's a "Bundler for Arduino Development".
+*   [Arli (⭐28)](https://github.com/kigster/arli) - Arli is the CLI tool for searching, installing, and packaging Arduino libraries with a project using a YAML-based Arlifile. It's a "Bundler for Arduino Development".
 
 ### Web Servers
 
@@ -77,7 +77,7 @@
 ### Books / RFID NFC Tools
 
 *   2020, Jasper van Woudenberg, Colin O'Flynn: [The Hardware Hacking Handbook: Breaking Embedded Security with Hardware Attacks](https://nostarch.com/hardwarehacking)
-*   2018, Mark Carney: [Pentesting Hardware - A Practical Handbook (DRAFT) (⭐483)](https://github.com/unprovable/PentestHardware)
+*   2018, Mark Carney: [Pentesting Hardware - A Practical Handbook (DRAFT) (⭐486)](https://github.com/unprovable/PentestHardware)
 
 ### Websites / Blogs
 
@@ -92,15 +92,9 @@
 
 ### Components & Libraries / UI Components
 
-*   [@kouts/vue-modal (⭐101)](https://github.com/kouts/vue-modal) - A customizable, stackable and lightweight modal component that adheres to the guidelines set in WAI-ARIA Dialog (Modal) section of W3C.
+*   [@kouts/vue-modal (⭐116)](https://github.com/kouts/vue-modal) - A customizable, stackable and lightweight modal component that adheres to the guidelines set in WAI-ARIA Dialog (Modal) section of W3C.
 
-## [8. Awesome Flask](/content/mjhea0/awesome-flask/README.md)
-
-### Serverless / Testing
-
-*   [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
-
-## [9. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [8. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### PaaS / Other Tools
 
@@ -116,55 +110,55 @@
 
 ### Serverless / Other Tools
 
-*   [Chalice (⭐9.5k)](https://github.com/aws/chalice)
-*   [AWS Lambda](https://aws.amazon.com/lambda/) ([tutorial](https://iwpnd.pw/articles/2020-01/deploy-fastapi-to-aws-lambda), [code (⭐123)](https://github.com/iwpnd/fastapi-aws-lambda-example))
+*   [Chalice (⭐9.9k)](https://github.com/aws/chalice)
+*   [AWS Lambda](https://aws.amazon.com/lambda/) ([example (⭐125)](https://github.com/iwpnd/fastapi-aws-lambda-example))
 *   [Google Cloud Functions](https://cloud.google.com/functions/)
 
 ### Open Source Projects / Other Tools
 
 *   FastAPI CRUD Example:
-    *   [Async flavor (⭐312)](https://github.com/testdrivenio/fastapi-crud-async)
-    *   [Sync Flavor (⭐61)](https://github.com/testdrivenio/fastapi-crud-sync)
+    *   [Async flavor (⭐339)](https://github.com/testdrivenio/fastapi-crud-async)
+    *   [Sync Flavor (⭐70)](https://github.com/testdrivenio/fastapi-crud-sync)
 
-## [10. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+## [9. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
 ### Generic
 
 *   [IconSweets2](https://www.designbombs.com/iconsweets2/) - Is a huge set containing over 1,000 custom designed icons. IconSweets 2 will quench your icon thirst for all your iPhone, iPad & Android apps or new web projects.
 
-## [11. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
+## [10. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
 ### Media
 
 *   [Screenshot Plugin ★21 (⭐34)](https://github.com/wilsonvargas/ScreenshotPlugin) - A simple Screenshot plugin for Xamarin and Windows to get and save screenshot in yours apps.
 
-## [12. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [11. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
-### News / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### News / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [上下闻](https://news.mindynode.com/en/) <sup>[111](https://t.me/s/aboutrss/111)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/josherich/RSS-ORG)
 
-### Entertainment / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Entertainment / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [MusicButler](https://www.musicbutler.io/) <sup>[187](https://t.me/s/aboutrss/187)</sup> : lets you know when your favorite musicians and bands have released new music.
 *   [HK TV series feed for RSS Player](http://allenlow.com/blog/2019/09/22/%E6%B8%AF%E5%89%A7rss-player%E5%90%8E%E5%A4%87rss%E9%93%BE%E6%8E%A5%E5%88%86%E4%BA%AB/) <sup>[270](https://t.me/s/aboutrss/270)</sup>
 *   [7 RSS Feeds for the Movies Addict](https://www.makeuseof.com/tag/4-rss-feeds-for-the-movies-addict/) <sup>[338](https://t.me/s/aboutrss/338)</sup>
 
-### Jobs / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Jobs / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [远程工作职位的 rss 聚合](http://dynamic.yuanjingtech.com/rss/remote-work-jobs.xml) <sup>[320](https://t.me/s/aboutrss/320)</sup>
 
-### Tech or IT / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Tech or IT / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSS Kubernetes](https://t.me/rss_kubernetes) <sup>[401](https://t.me/s/aboutrss/401)</sup>
-*   [Chinese Security RSS (⭐924)](https://github.com/zhengjim/Chinese-Security-RSS/blob/master/README.md) <sup>[462](https://t.me/s/aboutrss/462)</sup>
-*   [CyberSecurityRSS (⭐1.5k)](https://github.com/zer0yu/CyberSecurityRSS) <sup>[463](https://t.me/s/aboutrss/463)</sup>
+*   [Chinese Security RSS (⭐1.1k)](https://github.com/zhengjim/Chinese-Security-RSS/blob/master/README.md) <sup>[462](https://t.me/s/aboutrss/462)</sup>
+*   [CyberSecurityRSS (⭐1.6k)](https://github.com/zer0yu/CyberSecurityRSS) <sup>[463](https://t.me/s/aboutrss/463)</sup>
 *   [favorite link](https://www.guanguans.cn/favorite-link/) <sup>[513](https://t.me/s/aboutrss/513)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/guanguans/favorite-link)
 *   [软件开发相关RSS源推荐](https://blog.liyaodong.com/posts/rss-list-for-software-development/) <sup>[557](https://t.me/s/aboutrss/557)</sup>
 
 ### Multi-subject / Crypto or Blockchain relevant
 
-*   [Feed43 Feeds List (⭐2.6k)](https://github.com/AboutRSS/ALL-about-RSS/blob/master/Feed43-Feeds-List.md) <sup>[t1](https://twitter.com/aboutRSS/status/1237224150634082305)</sup> : a **subproject** of 「ALL about RSS」.
+*   ~~[Feed43 Feeds List (⭐3.3k)](https://github.com/AboutRSS/ALL-about-RSS/blob/master/Feed43-Feeds-List.md) <sup>[t1](https://twitter.com/aboutRSS/status/1237224150634082305)</sup> : a **subproject** of 「ALL about RSS」.~~
 *   <strike>[Henix's feeds](https://henix.github.io/feeds/)</strike> <sup>[186](https://t.me/s/aboutrss/186)</sup>
 *   [rss-源共享](https://trello.com/b/lvMGhlNB/%F0%9F%8E%89rss-%E6%BA%90%E5%85%B1%E4%BA%AB) <sup>[191](https://t.me/s/aboutrss/191)</sup>
 *   [「一天世界」推荐的RSS订阅列表](https://blog.yitianshijie.net/2019/12/10/rss-feeds-recommendation/) <sup>[313](https://t.me/s/aboutrss/313)</sup>
@@ -172,7 +166,7 @@
 
 ### Aggregators of Indieblogs / Crypto or Blockchain relevant
 
-*   [中文独立博客列表 (⭐15k)](https://github.com/timqian/chinese-independent-blogs) <sup>[301](https://t.me/s/aboutrss/301), [417](https://t.me/s/aboutrss/417)</sup>
+*   [中文独立博客列表 (⭐17k)](https://github.com/timqian/chinese-independent-blogs) <sup>[301](https://t.me/s/aboutrss/301), [417](https://t.me/s/aboutrss/417)</sup>
 *   [BlogHub](https://bloghub.fun/) <sup>[417](https://t.me/s/aboutrss/417)</sup>
 *   [seekbetter.me 寻我](https://seekbetter.me/) <sup>[417](https://t.me/s/aboutrss/417)</sup>
 *   [BlogWe](https://blogwe.com/)

@@ -16,7 +16,7 @@
 
 ### UITableView / Barcode
 
-*   [QuickTableViewController (⭐536)](https://github.com/bcylin/QuickTableViewController) - A simple way to create a UITableView for settings.
+*   [QuickTableViewController (⭐547)](https://github.com/bcylin/QuickTableViewController) - A simple way to create a UITableView for settings.
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-a11y-dialog (⭐93)](https://github.com/morkro/vue-a11y-dialog) - A Vue.js component wrapper for the accessible dialog [`a11y-dialog`](https://github.com/edenspiekermann/a11y-dialog).
+*   [vue-a11y-dialog (⭐95)](https://github.com/morkro/vue-a11y-dialog) - A Vue.js component wrapper for the accessible dialog [`a11y-dialog`](https://github.com/edenspiekermann/a11y-dialog).
 *   [vue-slideout-panel (⭐169)](https://github.com/officert/vue-slideout-panel) - Stackable panel component for VueJS
 
 ---

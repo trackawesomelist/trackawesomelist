@@ -10,37 +10,37 @@
 
 ### Overview / YouTube
 
-*   [NewPipe (⭐23k)](https://github.com/TeamNewPipe/NewPipe): A libre lightweight streaming front-end for Android
+*   [NewPipe (⭐25k)](https://github.com/TeamNewPipe/NewPipe): A libre lightweight streaming front-end for Android
 
 ## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Mobile
 
-*   [cl-json (⭐7)](https://github.com/sharplispers/cl-json) - A highly customizable JSON encoder and decoder. [MIT](https://directory.fsf.org/wiki/License:Expat).
+*   [cl-json (⭐8)](https://github.com/sharplispers/cl-json) - A highly customizable JSON encoder and decoder. [MIT](https://directory.fsf.org/wiki/License:Expat).
 
 ## [3. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Entertainment
 
-*   [Flutter Ebook App (⭐2.2k)](https://github.com/JideGuru/FlutterEbookApp) — A simple Flutter app to read and download e-books by [Festus Olusegun](https://github.com/JideGuru)
+*   [Flutter Ebook App (⭐2.5k)](https://github.com/JideGuru/FlutterEbookApp) — A simple Flutter app to read and download e-books by [Festus Olusegun](https://github.com/JideGuru)
 
 ### Contents / Finance
 
-*   [Natrium (⭐728)](https://github.com/appditto/natrium_wallet_flutter) — A fast, robust & secure NANO Wallet by [Appditto](https://github.com/appditto)
+*   [Natrium (⭐783)](https://github.com/appditto/natrium_wallet_flutter) — A fast, robust & secure NANO Wallet by [Appditto](https://github.com/appditto)
 
 ### Contents / Health and Fitness
 
 *   [Feeel](https://gitlab.com/enjoyingfoss/feeel/) — A home workout app that respects your privacy by [Enjoying FOSS](https://gitlab.com/enjoyingfoss).
-*   [Watermaniac (⭐163)](https://github.com/artrmz/watermaniac) — an app that will help you track the amount of water you drink by [Artur Rymarz](https://github.com/artrmz)
-*   [wger (⭐218)](https://github.com/wger-project/flutter) - Flutter fitness/workout app for wger by the [wger project](https://github.com/wger-project).
+*   [Watermaniac (⭐168)](https://github.com/artrmz/watermaniac) — an app that will help you track the amount of water you drink by [Artur Rymarz](https://github.com/artrmz)
+*   [wger (⭐347)](https://github.com/wger-project/flutter) - Flutter fitness/workout app for wger by the [wger project](https://github.com/wger-project).
 
 ### Contents / Productivity
 
-*   [Time Cop (⭐689)](https://github.com/hamaluik/timecop) - A time tracking app that respects your privacy by [Kenton Hamaluik](https://github.com/hamaluik).
+*   [Time Cop (⭐746)](https://github.com/hamaluik/timecop) - A time tracking app that respects your privacy by [Kenton Hamaluik](https://github.com/hamaluik).
 
 ### Contents / Tools
 
-*   [You (⭐230)](https://github.com/MDSADABWASIM/You) — An app that checks what internet knows about you by [Md Sadab Wasim](https://github.com/MDSADABWASIM)
+*   [You (⭐245)](https://github.com/MDSADABWASIM/You) — An app that checks what internet knows about you by [Md Sadab Wasim](https://github.com/MDSADABWASIM)
 
 ## [4. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Weather
 
-- API: [weather-api (⭐270)](https://github.com/robertoduessmann/weather-api)
+- API: [weather-api (⭐319)](https://github.com/robertoduessmann/weather-api)
 
   Description: A RESTful free API to check the weather
 
@@ -73,9 +73,9 @@
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [DeepAR](https://developer.deepar.ai) — Augmented reality face filters for any platform with one SDK. Free plan provides up to 10 monthly active users (MAU) and tracking up to 4 faces
+*   [DeepAR](https://developer.deepar.ai) — Augmented reality face filters for any platform with one SDK. The free plan provides up to 10 monthly active users (MAU) and tracks up to 4 faces
 
 ## [8. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -89,13 +89,13 @@
 
 ### Development Environment
 
-*   [CakePHP Docker](https://github.com/cnizzardini/cakephp-docker) - A cakephp/app template for docker and kubernetes setup.
+*   🍰 [CakePHP Docker (⭐26)](https://github.com/cnizzardini/cakephp-docker) - A cakephp/app template for docker.
 
 ## [10. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
 ### Resources / Editors
 
-*   [HyperLap2D (⭐276)](https://github.com/rednblackgames/HyperLap2D) - Visual editor for complex 2D worlds and scenes with a runtime for libGDX.
+*   [HyperLap2D (⭐291)](https://github.com/rednblackgames/HyperLap2D) - Visual editor for complex 2D worlds and scenes with a runtime for libGDX.
 *   [Spine](http://esotericsoftware.com/) - Skeleton-based animation tool that focuses specifically on 2D animation for games.
 
 ---

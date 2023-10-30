@@ -23,7 +23,7 @@
 
 ### FPS
 
-*   [BStone (⭐253)](https://github.com/bibendovsky/bstone) - A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.
+*   [BStone (⭐273)](https://github.com/bibendovsky/bstone) - A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.
 
 ## [4. Awesome Rtc](/content/rtckit/awesome-rtc/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Nucleus (⭐346)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
+*   [Nucleus (⭐349)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
 
 ## [7. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -85,7 +85,7 @@
 
 ### Table of Contents / Streaming Engine
 
-*   [LightSaber (⭐62)](https://github.com/lsds/LightSaber) \[C++] - Multi-core Window-Based Stream Processing Engine. LightSaber uses code generation for efficient window aggregation.
+*   [LightSaber (⭐65)](https://github.com/lsds/LightSaber) \[C++] - Multi-core Window-Based Stream Processing Engine. LightSaber uses code generation for efficient window aggregation.
 
 ## [10. Amas](/content/sindresorhus/amas/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on May 19, 2019
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -35,12 +35,6 @@
 ### Examples
 
 *   [Shared React Components Boilerplate (⭐84)](https://github.com/shared-components/shared-react-components-example)
-
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Photo and Video Galleries
-
-*   [Quru Image Server](https://quruimageserver.com/) - High performance dynamically resizing image server offering directory based access control cropping, rotation, color management and other tools. ([Demo](https://quruimageserver.com), [Source Code (⭐87)](https://github.com/quru/qis)) `AGPL-3.0` `Python`
 
 ---
 

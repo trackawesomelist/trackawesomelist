@@ -1,53 +1,59 @@
 # Awesome List Updates on Nov 15, 2020
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Json](/content/burningtree/awesome-json/README.md)
+## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### MATLAB / PicoLisp
+
+*   [Introduction to MATLAB for Engineering Students](https://www.mccormick.northwestern.edu/documents/students/undergraduate/introduction-to-matlab.pdf) - David Houcque (PDF) (1.2, 2005)
+
+## [2. Awesome Json](/content/burningtree/awesome-json/README.md)
 
 ### Browser Extensions
 
 *   [JSON Viewer Pro](https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc) ([github (⭐463)](https://github.com/rbrahul/Awesome-JSON-Viewer) - An open source Chrome extension for browsing JSON with syntax highlighting and folding, or as a visual graph.
 
-## [2. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [3. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Books
 
 *   [Secure by Design](https://www.manning.com/books/secure-by-design?a_aid=danbjson\&a_bid=0b3fac80) - Shows how to use Domain-Driven Design to avoid security vulnerabilities.
 
-## [3. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
+## [4. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
 ### Swag
 
 *   [CircuitPython 6 release poster](https://www.adafruit.com/product/4713) - CircuitPython release version 6 poster.
 
-## [4. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/README.md)
+## [5. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/README.md)
 
 ### Written Guides / update
 
 *   [Automatically Manage Git Hooks with Direnv](https://knpw.rs/blog/direnv-git-hooks)
 
-## [5. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Unit Test, Testing / MIT
+### Unit Test, Testing / Apache License
 
 *   [ahven](http://ahven.stronglytyped.org/) - Ahven is a simple unit test library and framework for the Ada programming.
     language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
-## [6. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
+## [7. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
 ### Reading
 
-*   [tagesschau-widget (⭐0)](https://github.com/trbnhck/scriptable-scripts/tree/main/tagesschau-widget) - The latest article from the German news site *Tagesschau*.
+*   [tagesschau-widget](https://github.com/trbnhck/scriptable-scripts/tree/main/tagesschau-widget) - The latest article from the German news site *Tagesschau*.
 
     <img src="https://camo.githubusercontent.com/a90be978f61e852bddd16233548c44211d3f2de1a2ac5285c352e0c0bfe0d4f9/68747470733a2f2f696d6775722e636f6d2f696f65576869792e6a7067" width="400"/>
 
 ### Shopping
 
-*   [exchangeRate.js (⭐170)](https://github.com/Juniorchen2012/scriptable/blob/master/exchangeRate.js) - Currency exchange rates.
+*   [exchangeRate.js (⭐181)](https://github.com/Juniorchen2012/scriptable/blob/master/exchangeRate.js) - Currency exchange rates.
 *   [dm-toilet-paper.js](https://gist.github.com/marco79cgn/23ce08fd8711ee893a3be12d4543f2d2) - Toilet paper availability in a nearby drugstore.
 
     <img src="https://user-images.githubusercontent.com/9810829/96903902-b3418e80-1496-11eb-954c-1e2d9b8f9c69.JPG" width="400"/>
@@ -56,7 +62,7 @@
 
 *   [scriptdu.de](https://scriptdu.de) - Downloader and updater for scripts.
 
-## [7. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Communication and Coordination
 
@@ -944,7 +950,7 @@
 *   [ASTYX HIRES2019 DATASET](http://www.pinchofintelligence.com/visualising-lidar-and-radar-in-virtual-reality/) - Automotive Radar Dataset for Deep Learning Based 3D Object Detection.
 *   [Objectron (⭐2.1k)](https://github.com/google-research-datasets/Objectron/) - A collection of short, object-centric video clips, which are accompanied by AR session metadata that includes camera poses, sparse point-clouds and characterization of the planar surfaces in the surrounding environment.
 
-## [8. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [9. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### API / Forms
 

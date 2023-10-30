@@ -10,15 +10,15 @@
 
 ### Natural Language Processing
 
-*   [Text (⭐577)](https://github.com/threedaymonk/text) - A collection of text algorithms including Levenshtein distance, Metaphone, Soundex 2, Porter stemming & White similarity.
+*   [Text (⭐581)](https://github.com/threedaymonk/text) - A collection of text algorithms including Levenshtein distance, Metaphone, Soundex 2, Porter stemming & White similarity.
 
 ### Queues and Messaging
 
-*   [Que (⭐2.2k)](https://github.com/chanks/que) - A Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.
+*   [Que (⭐2.3k)](https://github.com/chanks/que) - A Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.
 
 ### Web Servers
 
-*   [TorqueBox (⭐473)](https://github.com/torquebox/torquebox) - A Ruby application server built on JBoss AS7 and JRuby.
+*   [TorqueBox (⭐471)](https://github.com/torquebox/torquebox) - A Ruby application server built on JBoss AS7 and JRuby.
 
 ## [2. Awesome Backbone](/content/sadcitizen/awesome-backbone/README.md)
 

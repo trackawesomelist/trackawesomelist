@@ -34,20 +34,20 @@
 
 ### Assets
 
-*   [Less Rails (⭐340)](https://github.com/metaskills/less-rails) - The dynamic stylesheet language for the Rails asset pipeline.
+*   [Less Rails (⭐339)](https://github.com/metaskills/less-rails) - The dynamic stylesheet language for the Rails asset pipeline.
 
 ### Code Analysis and Metrics
 
-*   [Brakeman (⭐6.7k)](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications.
-*   [Flay (⭐693)](https://github.com/seattlerb/flay) - Flay analyzes code for structural similarities. Differences in literal values, variable, class, method names, whitespace, programming style, braces vs do/end, etc are all ignored. Making this totally rad.
-*   [Flog (⭐842)](https://github.com/seattlerb/flog) - Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
+*   [Brakeman (⭐6.8k)](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications.
+*   [Flay (⭐709)](https://github.com/seattlerb/flay) - Flay analyzes code for structural similarities. Differences in literal values, variable, class, method names, whitespace, programming style, braces vs do/end, etc are all ignored. Making this totally rad.
+*   [Flog (⭐877)](https://github.com/seattlerb/flog) - Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
 *   [Rubycritic (⭐3.2k)](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter.
 *   [SimpleCov (⭐4.6k)](https://github.com/colszowka/simplecov) - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites.
 
 ### Core Extensions
 
-*   [ActiveSupport (⭐53k)](https://github.com/rails/rails/tree/master/activesupport) - A collection of utility classes and standard library extensions.
-*   [Ruby Facets (⭐785)](https://github.com/rubyworks/facets) - The premiere collection of general purpose method extensions and standard additions for Ruby.
+*   [ActiveSupport (⭐54k)](https://github.com/rails/rails/tree/master/activesupport) - A collection of utility classes and standard library extensions.
+*   [Ruby Facets (⭐786)](https://github.com/rubyworks/facets) - The premiere collection of general purpose method extensions and standard additions for Ruby.
 
 ### Dashboards
 
@@ -56,7 +56,7 @@
 ### Data Visualization
 
 *   [RailRoady (⭐1.7k)](https://github.com/preston/railroady) - Ruby on Rails 3/4 model and controller UML class diagram generator.
-*   [Rails Erd (⭐3.8k)](https://github.com/voormedia/rails-erd) - Generate Entity-Relationship Diagrams for Rails applications.
+*   [Rails Erd (⭐3.9k)](https://github.com/voormedia/rails-erd) - Generate Entity-Relationship Diagrams for Rails applications.
 
 ### Database Tools
 
@@ -74,11 +74,11 @@
 
 ### Email
 
-*   [LetterOpener (⭐3.5k)](https://github.com/ryanb/letter_opener) - Preview mail in the browser instead of sending.
+*   [LetterOpener (⭐3.6k)](https://github.com/ryanb/letter_opener) - Preview mail in the browser instead of sending.
 
 ### HTML/XML Parsing
 
-*   [ROXML (⭐221)](https://github.com/Empact/roxml) - Custom mapping and bidirectional marshalling between Ruby and XML using annotation-style class methods, via Nokogiri or LibXML.
+*   [ROXML (⭐222)](https://github.com/Empact/roxml) - Custom mapping and bidirectional marshalling between Ruby and XML using annotation-style class methods, via Nokogiri or LibXML.
 
 ### HTTP Clients and tools
 
@@ -88,22 +88,22 @@
 
 ### Internationalization
 
-*   [r18n (⭐506)](https://github.com/ai/r18n) - Advanced i18n library for Rails, Sinatra, desktop apps, models, works well with complex languages like Russian.
+*   [r18n (⭐507)](https://github.com/ai/r18n) - Advanced i18n library for Rails, Sinatra, desktop apps, models, works well with complex languages like Russian.
 
 ### Logging
 
-*   [HttpLog (⭐754)](https://github.com/trusche/httplog) - Log outgoing HTTP requests.
-*   [Logging (⭐516)](https://github.com/TwP/logging) - A flexible logging library for use in Ruby programs based on the design of Java's log4j library.
+*   [HttpLog (⭐765)](https://github.com/trusche/httplog) - Log outgoing HTTP requests.
+*   [Logging (⭐523)](https://github.com/TwP/logging) - A flexible logging library for use in Ruby programs based on the design of Java's log4j library.
 *   [Lograge (⭐3.3k)](https://github.com/roidrage/lograge) - An attempt to tame Rails' default policy to log everything.
 
 ### PDF
 
-*   [Kitabu (⭐654)](https://github.com/fnando/kitabu) - A framework for creating e-books from Markdown/Textile text markup using Ruby.
-*   [RGhost (⭐183)](https://github.com/shairontoledo/rghost) - RGhost is a document creation and conversion API.
+*   [Kitabu (⭐658)](https://github.com/fnando/kitabu) - A framework for creating e-books from Markdown/Textile text markup using Ruby.
+*   [RGhost (⭐184)](https://github.com/shairontoledo/rghost) - RGhost is a document creation and conversion API.
 
 ### Processes
 
-*   [childprocess (⭐542)](https://github.com/jarib/childprocess) - Cross-platform ruby library for managing child processes.
+*   [childprocess (⭐544)](https://github.com/jarib/childprocess) - Cross-platform ruby library for managing child processes.
 
 ### Robotics
 
@@ -113,12 +113,12 @@
 
 *   [Feed normalizer (⭐134)](https://github.com/aasmith/feed-normalizer) - Extensible Ruby wrapper for Atom and RSS parsers.
 *   [Feedjira (⭐2k)](https://github.com/feedjira/feedjira) - A feed fetching and parsing library.
-*   [Simple rss (⭐221)](https://github.com/cardmagic/simple-rss) - A simple, flexible, extensible, and liberal RSS and Atom reader.
+*   [Simple rss (⭐222)](https://github.com/cardmagic/simple-rss) - A simple, flexible, extensible, and liberal RSS and Atom reader.
 
 ### Search
 
-*   [ransack (⭐5.4k)](https://github.com/activerecord-hackery/ransack/) - Object-based searching.
-*   [Searchkick (⭐6.2k)](https://github.com/ankane/searchkick) - Searchkick learns what your users are looking for. As more people search, it gets smarter and the results get better. It’s friendly for developers - and magical for your users.
+*   [ransack (⭐5.5k)](https://github.com/activerecord-hackery/ransack/) - Object-based searching.
+*   [Searchkick (⭐6.3k)](https://github.com/ankane/searchkick) - Searchkick learns what your users are looking for. As more people search, it gets smarter and the results get better. It’s friendly for developers - and magical for your users.
 
 ### Testing
 
@@ -128,15 +128,15 @@
     *   [Fake Person (⭐116)](https://github.com/adamcooke/fake-person) - Uses some of the most popular given & surnames in the US & UK.
     *   [faker (⭐11k)](https://github.com/stympy/faker) - A library for generating fake data such as names, addresses, and phone numbers.
     *   [ffaker (⭐1.5k)](https://github.com/ffaker/ffaker) - A faster Faker, generates dummy data, rewrite of faker.
-    *   [Forgery (⭐789)](https://github.com/sevenwire/forgery) - Easy and customizable generation of forged data.
+    *   [Forgery (⭐791)](https://github.com/sevenwire/forgery) - Easy and customizable generation of forged data.
 
 ### Third-party APIs
 
-*   [wikipedia (⭐294)](https://github.com/kenpratt/wikipedia-client) - Ruby client for the Wikipedia API.
+*   [wikipedia (⭐295)](https://github.com/kenpratt/wikipedia-client) - Ruby client for the Wikipedia API.
 
 ### Web Crawling
 
-*   [LinkThumbnailer (⭐510)](https://github.com/gottfrois/link_thumbnailer) - Ruby gem that generates thumbnail images and videos from a given URL. Much like popular social website with link preview.
+*   [LinkThumbnailer (⭐511)](https://github.com/gottfrois/link_thumbnailer) - Ruby gem that generates thumbnail images and videos from a given URL. Much like popular social website with link preview.
 *   [Mechanize (⭐4.3k)](https://github.com/sparklemotion/mechanize) - Mechanize is a ruby library that makes automated web interaction easy.
 
 ---

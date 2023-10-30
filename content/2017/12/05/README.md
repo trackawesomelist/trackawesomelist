@@ -22,24 +22,24 @@
 
 ### Concurrency
 
-*   [alpaka (⭐3)](https://github.com/ComputationalRadiationPhysics/alpaka) - Abstraction library for parallel kernel acceleration. \[LGPLv3+]
+*   [alpaka (⭐4)](https://github.com/ComputationalRadiationPhysics/alpaka) - Abstraction library for parallel kernel acceleration. \[LGPLv3+]
 *   [cupla (⭐3)](https://github.com/ComputationalRadiationPhysics/cupla) - C++ API to run CUDA/C++ on OpenMP, Threads, TBB, ... through Alpaka. \[LGPLv3+]
 
 ## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Authentication
 
-*   [phoenix\_client\_ssl (⭐18)](https://github.com/jshmrtn/phoenix-client-ssl) - Client SSL Authentication Plugs for Phoenix and other Plug-based apps.
+*   [phoenix\_client\_ssl (⭐19)](https://github.com/jshmrtn/phoenix-client-ssl) - Client SSL Authentication Plugs for Phoenix and other Plug-based apps.
 
 ### Examples and funny stuff
 
-*   [real world example app (⭐880)](https://github.com/gothinkster/elixir-phoenix-realworld-example-app) - Elixir / Phoenix implementation of [RealWorld.io](https://realworld.io/) backend specs - a Medium clone.
+*   [real world example app (⭐884)](https://github.com/gothinkster/elixir-phoenix-realworld-example-app) - Elixir / Phoenix implementation of [RealWorld.io](https://realworld.io/) backend specs - a Medium clone.
 
 ## [5. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Articles / iOS
 
-*   [Raspberry Pi A to Z List (⭐922)](https://github.com/wtsxDev/Raspberry-Pi) - Comprehensive list with links to common questions & pitfalls.
+*   [Raspberry Pi A to Z List (⭐927)](https://github.com/wtsxDev/Raspberry-Pi) - Comprehensive list with links to common questions & pitfalls.
 
 ## [6. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Contents / Imaging
 
-*   [Papaya (⭐491)](https://github.com/rii-mango/Papaya) - Pure JavaScript medical research image viewer.
+*   [Papaya (⭐494)](https://github.com/rii-mango/Papaya) - Pure JavaScript medical research image viewer.
 
 ## [8. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
 

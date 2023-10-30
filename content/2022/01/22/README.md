@@ -10,13 +10,13 @@
 
 ### Libraries / Text processing
 
-*   [cpc (⭐92)](https://github.com/probablykasper/cpc) - Parses and calculates strings of math with support for units and unit conversion, from `1+2` to `1% of round(1 lightyear / 14!s to km/h)`.
+*   [cpc (⭐110)](https://github.com/probablykasper/cpc) - Parses and calculates strings of math with support for units and unit conversion, from `1+2` to `1% of round(1 lightyear / 14!s to km/h)`.
 
 ## [2. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
 ### Adapters / Client-side
 
-*   [Preact (⭐5)](https://github.com/jrson83/inertia-preact)
+*   [Preact (⭐6)](https://github.com/jrson83/inertia-preact)
 
 ## [3. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
@@ -83,27 +83,27 @@
 
 ### Libraries / APIs & Web Services
 
-*   [Blizzard.js (⭐134)](https://github.com/benweier/blizzard.js) - A Node.js library for interacting with the Blizzard Community Platform API.
-*   [HLTV (⭐312)](https://github.com/gigobyte/HLTV) - A Node.js library for interacting with the HLTV API.
-*   [liquipediapy (⭐49)](https://github.com/c00kie17/liquipediapy) - A Python library for interacting with the Liquipedia API.
-*   [valorant.js (⭐69)](https://github.com/liamcottle/valorant.js) - A Node.js library for interacting with the VALORANT APIs used in game.
+*   [Blizzard.js (⭐139)](https://github.com/benweier/blizzard.js) - A Node.js library for interacting with the Blizzard Community Platform API.
+*   [HLTV (⭐341)](https://github.com/gigobyte/HLTV) - A Node.js library for interacting with the HLTV API.
+*   [liquipediapy (⭐61)](https://github.com/c00kie17/liquipediapy) - A Python library for interacting with the Liquipedia API.
+*   [valorant.js (⭐98)](https://github.com/liamcottle/valorant.js) - A Node.js library for interacting with the VALORANT APIs used in game.
 
 ### Libraries / Data parsing and analysis
 
-*   [Cassiopeia (⭐464)](https://github.com/meraki-analytics/cassiopeia) - A Python framework for interacting with and analyzing data from the Riot Games League of Legends API.
+*   [Cassiopeia (⭐516)](https://github.com/meraki-analytics/cassiopeia) - A Python framework for interacting with and analyzing data from the Riot Games League of Legends API.
 
-### Unofficial documentations / Tournaments management
+### Unofficial documentation / Tournaments management
 
-*   [BNETDocs (⭐30)](https://github.com/BNETDocs/bnetdocs-web) - A documentation and discussion website for Blizzard and Battle.net protocols.
-*   [Rift Explorer (⭐502)](https://github.com/Pupix/rift-explorer) - An automatically generated documentation of Riot Games LCU API.
-*   [valorant-api-docs (⭐192)](https://github.com/techchrism/valorant-api-docs) - An automatically generated documentation of Valorant internal API.
+*   [BNETDocs (⭐31)](https://github.com/BNETDocs/bnetdocs-web) - A documentation and discussion website for Blizzard and Battle.net protocols.
+*   [Rift Explorer (⭐532)](https://github.com/Pupix/rift-explorer) - An automatically generated documentation of Riot Games LCU API.
+*   [valorant-api-docs (⭐375)](https://github.com/techchrism/valorant-api-docs) - An automatically generated documentation of Valorant internal API.
 
 ### Applications & Tools / Tournaments management
 
-*   [Esport Team Logos (⭐19)](https://github.com/lootmarket/esport-team-logos) - A database of Esports teams logos.
-*   [Boltobserv (⭐171)](https://github.com/boltgolt/boltobserv) - An external Counter-Strike: Global Offensive radar for observers.
+*   [Esport Team Logos (⭐21)](https://github.com/lootmarket/esport-team-logos) - A database of Esports teams logos.
+*   [Boltobserv (⭐209)](https://github.com/boltgolt/boltobserv) - An external Counter-Strike: Global Offensive radar for observers.
 *   [Open Dota (⭐1.4k)](https://github.com/odota/core) - A website for Dota 2 esports stats.
-*   [LeagueStats (⭐320)](https://github.com/vkaelin/LeagueStats) - A website for League of Legends summoners stats.
+*   [LeagueStats (⭐370)](https://github.com/vkaelin/LeagueStats) - A website for League of Legends summoners' stats.
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -121,15 +121,15 @@
 
 ### Overview / YouTube
 
-*   [mps-youtube (⭐7.4k)](https://github.com/mps-youtube/mps-youtube): Terminal based YouTube player and downloader
+*   [mps-youtube (⭐7.6k)](https://github.com/mps-youtube/mps-youtube): Terminal based YouTube player and downloader
 
 ## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### MIT / Commonsense Knowledgebase
 
-*   [Josh Tenenbaum](https://cocosci.mit.edu/josh) - ***MIT***, [Computational Cognitive Science Group (CoCoSci Group)](https://cocosci.mit.edu/) - ***Department of Brain and Cognitive Sciences, CSAIL, MIT***.
-*   [Leslie Kaelbling](https://people.csail.mit.edu/lpk/) - ***MIT***, [The Learning & Intelligent Systems Group](https://lis.csail.mit.edu/) - ***Department of Electrical Engineering and Computer Science, CSAIL, MIT***.
-*   [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/) - ***MIT***, [Computer-Aided Programming Group](http://groups.csail.mit.edu/cap/) - ***Department of Electrical Engineering and Computer Science, CSAIL, MIT***.
+*   [Josh Tenenbaum](https://cocosci.mit.edu/josh) - ***Department of Brain and Cognitive Sciences, CSAIL, MIT***, [Computational Cognitive Science Group (CoCoSci Group)](https://cocosci.mit.edu/) - ***MIT***.
+*   [Leslie Kaelbling](https://people.csail.mit.edu/lpk/) - ***Department of Electrical Engineering and Computer Science, CSAIL, MIT***, [The Learning & Intelligent Systems Group](https://lis.csail.mit.edu/) - ***MIT***.
+*   [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/) - ***Department of Electrical Engineering and Computer Science, CSAIL, MIT***, [Computer-Aided Programming Group](http://groups.csail.mit.edu/cap/) - ***MIT***.
 
 ---
 

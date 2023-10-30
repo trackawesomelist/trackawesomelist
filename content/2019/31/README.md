@@ -91,7 +91,7 @@
 
 ### Traffic Analysis/Inspection
 
-*   [Tcpflow (⭐1.4k)](https://github.com/simsong/tcpflow): A program that captures data transmitted as part of TCP connections (flows), and stores the data in a way that is convenient for protocol analysis or debugging. A program like 'tcpdump' shows a summary of packets seen on the wire, but usually doesn't store the data that's actually being transmitted. In contrast, tcpflow reconstructs the actual data streams and stores each flow in a separate file for later analysis. Yet, optionally, it can isolate pcap flows per tcp flow for granularized inspection. [Original link](http://www.circlemud.org/jelson/software/tcpflow/).
+*   [Tcpflow (⭐1.6k)](https://github.com/simsong/tcpflow): A program that captures data transmitted as part of TCP connections (flows), and stores the data in a way that is convenient for protocol analysis or debugging. A program like 'tcpdump' shows a summary of packets seen on the wire, but usually doesn't store the data that's actually being transmitted. In contrast, tcpflow reconstructs the actual data streams and stores each flow in a separate file for later analysis. Yet, optionally, it can isolate pcap flows per tcp flow for granularized inspection. [Original link](http://www.circlemud.org/jelson/software/tcpflow/).
 
 ## [8. Awesome Idris](/content/joaomilho/awesome-idris/week/README.md)
 
@@ -115,51 +115,51 @@
 
 ### Asynchronous Event Loop
 
-*   [promise-cpp (⭐595)](https://github.com/xhawk18/promise-cpp) - Header only library that implements Promise/A+ standard. \[Anti-996]
+*   [promise-cpp (⭐618)](https://github.com/xhawk18/promise-cpp) - Header only library that implements Promise/A+ standard. \[Anti-996]
 
 ### Configuration
 
-*   [inih (⭐2k)](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems. \[BSD-3-Clause]
-*   [inih (⭐415)](https://github.com/jtilly/inih) - Single header only C++ version of [inih (⭐2k)](https://github.com/benhoyt/inih). \[BSD-3-Clause]
-*   [iniparser (⭐870)](https://github.com/ndevilla/iniparser) - INI file parser. \[MIT]\*
-*   [libconfuse (⭐435)](https://github.com/martinh/libconfuse) - Small configuration file parser library for C. \[ISC]
-*   [simpleini (⭐850)](https://github.com/brofield/simpleini) - Cross-platform C++ library providing a simple API to read and write INI-style configuration files. \[MIT]
+*   [inih (⭐2.2k)](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems. \[BSD-3-Clause]
+*   [inih (⭐422)](https://github.com/jtilly/inih) - Single header only C++ version of [inih (⭐2.2k)](https://github.com/benhoyt/inih). \[BSD-3-Clause]
+*   [iniparser (⭐906)](https://github.com/ndevilla/iniparser) - INI file parser. \[MIT]\*
+*   [libconfuse (⭐445)](https://github.com/martinh/libconfuse) - Small configuration file parser library for C. \[ISC]
+*   [simpleini (⭐924)](https://github.com/brofield/simpleini) - Cross-platform C++ library providing a simple API to read and write INI-style configuration files. \[MIT]
 
 ### Font
 
 *   [Fontconfig](https://gitlab.freedesktop.org/fontconfig/fontconfig) - Font configuration and customization library. \[MIT] [website](https://www.freedesktop.org/wiki/Software/fontconfig/)
 *   [FreeType](https://www.freetype.org/) - FreeType is a freely available software library to render fonts. \[FTL & GPLv2]
-*   [otfcc (⭐405)](https://github.com/caryll/otfcc) - A C library and utility used for parsing and writing OpenType font files. \[Apache-2.0]
+*   [otfcc (⭐408)](https://github.com/caryll/otfcc) - A C library and utility used for parsing and writing OpenType font files. \[Apache-2.0]
 
 ### Game Engine
 
-*   [Corange (⭐1.6k)](https://github.com/orangeduck/Corange) - A game engine written in pure C, SDL and OpenGL. \[BSD]
+*   [Corange (⭐1.7k)](https://github.com/orangeduck/Corange) - A game engine written in pure C, SDL and OpenGL. \[BSD]
 *   [toy engine (⭐1.5k)](https://github.com/hugoam/toy) - toy is a thin and modular c++ game engine and offers simple expressive c++ idioms to design full featured 2D or 3D games in fast iterations.
 
 ### Graphics
 
-*   [LLGL (⭐1.6k)](https://github.com/LukasBanana/LLGL) - Low Level Graphics Library (LLGL) is a thin abstraction layer for the modern graphics APIs. \[BSD-3-Clause]
+*   [LLGL (⭐1.8k)](https://github.com/LukasBanana/LLGL) - Low Level Graphics Library (LLGL) is a thin abstraction layer for the modern graphics APIs. \[BSD-3-Clause]
 
 ### Image Processing
 
-*   [Leptonica (⭐1.4k)](https://github.com/DanBloomberg/leptonica) - Leptonica is an open source library containing software that is broadly useful for image processing and image analysis applications. \[BSD-2-Clause] [website](http://leptonica.org/index.html)
+*   [Leptonica (⭐1.5k)](https://github.com/DanBloomberg/leptonica) - Leptonica is an open source library containing software that is broadly useful for image processing and image analysis applications. \[BSD-2-Clause] [website](http://leptonica.org/index.html)
 
 ### Serialization
 
-*   [Cap'n Proto (⭐9.9k)](https://github.com/capnproto/capnproto) - Fast data interchange format and capability-based RPC system. \[MIT] [website](https://capnproto.org/)
+*   [Cap'n Proto (⭐11k)](https://github.com/capnproto/capnproto) - Fast data interchange format and capability-based RPC system. \[MIT] [website](https://capnproto.org/)
 
 ### Machine Learning
 
-*   [darknet (⭐24k)](https://github.com/pjreddie/darknet) - Open source neural network framework written in C and CUDA. \[PublicDomain] [website](https://pjreddie.com/darknet/)
+*   [darknet (⭐25k)](https://github.com/pjreddie/darknet) - Open source neural network framework written in C and CUDA. \[PublicDomain] [website](https://pjreddie.com/darknet/)
 
 ### Memory Allocation
 
-*   [tgc (⭐828)](https://github.com/orangeduck/tgc) - A tiny garbage collector for C written in \~500 LOC. \[BSD]
+*   [tgc (⭐873)](https://github.com/orangeduck/tgc) - A tiny garbage collector for C written in \~500 LOC. \[BSD]
 
 ### Networking
 
-*   [DPDK (⭐2.4k)](https://github.com/DPDK/dpdk) - Data Plane Development Kit, libraries and drivers for fast packet processing. \[BSD-3-Clause & GPL-2.0] [website](https://www.dpdk.org/)
-*   [PF\_RING™ (⭐2.4k)](https://github.com/ntop/PF_RING) - High-speed packet processing framework. \[LGPL-2.1] [website](https://www.ntop.org/products/packet-capture/pf_ring/)
+*   [DPDK (⭐2.7k)](https://github.com/DPDK/dpdk) - Data Plane Development Kit, libraries and drivers for fast packet processing. \[BSD-3-Clause & GPL-2.0] [website](https://www.dpdk.org/)
+*   [PF\_RING™ (⭐2.5k)](https://github.com/ntop/PF_RING) - High-speed packet processing framework. \[LGPL-2.1] [website](https://www.ntop.org/products/packet-capture/pf_ring/)
 
 ### Robotics
 
@@ -187,13 +187,13 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [Gossa (⭐698)](https://github.com/pldubouilh/gossa) - Gossa is a light and simple webserver for your files. `MIT` `Go`
+*   [Gossa (⭐779)](https://github.com/pldubouilh/gossa) - Gossa is a light and simple webserver for your files. `MIT` `Go`
 
 ## [14. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Visualization
 
-*   [jp\_doodle (⭐47)](https://github.com/AaronWatters/jp_doodle) - Infrastructure for building special purpose interactive diagrams in 2D and 3D.
+*   [jp\_doodle (⭐51)](https://github.com/AaronWatters/jp_doodle) - Infrastructure for building special purpose interactive diagrams in 2D and 3D.
 
 ## [15. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -283,27 +283,27 @@
 
 ## [21. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
-### Node.js / Angular
+### Node.js / Svelte
 
 *   [npm Weekly](https://www.npmjs.com/npm-weekly). What we’re working on, thinking about, and talking about NPM
 
-### Ruby / Angular
+### Ruby / Svelte
 
 *   [Ruby Articles](https://thoughtbot.com/blog/tags/ruby). Ruby posts by [Thoughtbot](https://thoughtbot.com)
 
-### Lua / Angular
+### Lua / Svelte
 
 *   [Lua Digest](https://luadigest.immortalin.com). A regular newsletter for the Lua Programming Language.
 
-### Open Source / Angular
+### Open Source / Svelte
 
 *   [NixOS Weekly](https://weekly.nixos.org). Latest News for [NixOS](https://nixos.org)
 
-### Devops / Angular
+### Devops / Svelte
 
 *   [Server Admin for Programmers](https://serversforhackers.com/). Teaching the server tech you need for development and production. Eliminating the frustration of server configuration.
 
-### Awesome news / Angular
+### Awesome news / Svelte
 
 *   [TED](https://www.ted.com/newsletter). Inspiration in your inbox by TED
 *   [KickStarter](https://www.kickstarter.com/newsletters). Projects We Love archive by KickStarter
@@ -334,9 +334,9 @@
 
 ## [25. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
-### HTTP Clients
+### HTTP Clients / Text-Based User Interfaces
 
-*   [unirest-java (⭐2.4k)](https://github.com/Kong/unirest-java) - Simplified, lightweight HTTP client library.
+*   [unirest-java (⭐2.5k)](https://github.com/Kong/unirest-java) - Simplified, lightweight HTTP client library.
 
 ## [26. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
 
@@ -545,8 +545,8 @@
 
 ### Text - Metadata/Text
 
-*   **BERT for Question answering** - Swift Core ML 3 implementation of BERT for Question answering [Download (⭐1.2k)](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/BERTSQUADFP16.mlmodel) | [Demo (⭐1.2k)](https://github.com/huggingface/swift-coreml-transformers#-bert) | [Reference (⭐73k)](https://github.com/huggingface/pytorch-transformers#run_squadpy-fine-tuning-on-squad-for-question-answering)
-*   **GPT-2** - OpenAI GPT-2 Text generation (Core ML 3) [Download (⭐1.2k)](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/gpt2-512.mlmodel) | [Demo (⭐1.2k)](https://github.com/huggingface/swift-coreml-transformers#-gpt-2) | [Reference (⭐73k)](https://github.com/huggingface/pytorch-transformers)
+*   **BERT for Question answering** - Swift Core ML 3 implementation of BERT for Question answering [Download (⭐1.5k)](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/BERTSQUADFP16.mlmodel) | [Demo (⭐1.5k)](https://github.com/huggingface/swift-coreml-transformers#-bert) | [Reference (⭐105k)](https://github.com/huggingface/pytorch-transformers#run_squadpy-fine-tuning-on-squad-for-question-answering)
+*   **GPT-2** - OpenAI GPT-2 Text generation (Core ML 3) [Download (⭐1.5k)](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/gpt2-512.mlmodel) | [Demo (⭐1.5k)](https://github.com/huggingface/swift-coreml-transformers#-gpt-2) | [Reference (⭐105k)](https://github.com/huggingface/pytorch-transformers)
 
 ## [32. Awesome Cloudflare](/content/irazasyed/awesome-cloudflare/week/README.md)
 
@@ -634,8 +634,8 @@
 
 ### Platforms
 
-*   [WebExtensions (⭐1.1k)](https://github.com/fregante/Awesome-WebExtensions#readme) - Cross-browser extension system.
-*   [Cloudflare (⭐398)](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
+*   [WebExtensions (⭐1.2k)](https://github.com/fregante/Awesome-WebExtensions#readme) - Cross-browser extension system.
+*   [Cloudflare (⭐450)](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
 
 ### Programming Languages
 
@@ -643,12 +643,12 @@
 
 ### Front-End Development
 
-*   [Angular (⭐8.9k)](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
-*   [Blazor (⭐7.7k)](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+*   [Angular (⭐9.1k)](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
+*   [Blazor (⭐8.1k)](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 
 ### Back-End Development
 
-*   [Dash (⭐1.8k)](https://github.com/ucg8j/awesome-dash#readme) - Python web app framework.
+*   [Dash (⭐1.9k)](https://github.com/ucg8j/awesome-dash#readme) - Python web app framework.
 
 ### Business
 
@@ -656,18 +656,18 @@
 
 ### Miscellaneous
 
-*   [FOSS Production Apps (⭐249)](https://github.com/DataDaoDe/awesome-foss-apps#readme)
+*   [FOSS Production Apps (⭐267)](https://github.com/DataDaoDe/awesome-foss-apps#readme)
 *   [Crypto Currency Tools & Algorithms (⭐3.7k)](https://github.com/Zheaoli/awesome-coins#readme) - Digital currency where encryption is used to regulate the generation of units and verify transfers.
 
 ## [37. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Code Analysis and Metrics
 
-*   [ameba (⭐463)](https://github.com/crystal-ameba/ameba) - A static code analysis tool
+*   [ameba (⭐482)](https://github.com/crystal-ameba/ameba) - A static code analysis tool
 
 ### HTTP
 
-*   [Cable (⭐112)](https://github.com/cable-cr/cable) - An ActionCable "port" to Crystal, framework agnostic, 100% compatible with the ActionCable JS Client
+*   [Cable (⭐114)](https://github.com/cable-cr/cable) - An ActionCable "port" to Crystal, framework agnostic, 100% compatible with the ActionCable JS Client
 
 ## [38. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
@@ -711,25 +711,25 @@
 
 ### Productivity / Note Taking and Lists
 
-*   [td-cli (⭐169)](https://github.com/darrikonn/td-cli) - A TODO manager to organize and manage your TODO's across multiple projects.
+*   [td-cli (⭐172)](https://github.com/darrikonn/td-cli) - A TODO manager to organize and manage your TODO's across multiple projects.
 
 ### Utilities / macOS
 
-*   [dark-mode (⭐635)](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
+*   [dark-mode (⭐641)](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
 
 ### Utilities / System Interaction Utilities
 
 *   [battery-level-cli (⭐26)](https://github.com/gillstrom/battery-level-cli) - Get current battery level.
-*   [brightness-cli (⭐195)](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows (⭐10)](https://github.com/sondreb/win-brightness)).
+*   [brightness-cli (⭐196)](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows (⭐10)](https://github.com/sondreb/win-brightness)).
 *   [yank (⭐1.5k)](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 *   [screensaver (⭐40)](https://github.com/gillstrom/screensaver) - Start the screensaver.
-*   [google-font-installer (⭐163)](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
+*   [google-font-installer (⭐167)](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
 
 ## [40. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Utils / Third-party APIs
 
-*   [swank-crew (⭐37)](https://github.com/brown/swank-crew) - distributed computation framework implemented using Swank Client. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [swank-crew (⭐36)](https://github.com/brown/swank-crew) - distributed computation framework implemented using Swank Client. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ## [41. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
@@ -743,7 +743,7 @@
 ### Courses / Others
 
 *   [Blazor First Look on LinkedIn Learning](https://www.linkedin.com/learning/blazor-first-look) - Blazor First Look on LinkedIn Learning. [Source code (⭐16)](https://github.com/Dedac/Beam) ![GitHub stars](https://img.shields.io/github/stars/Dedac/Beam?style=flat-square\&cacheSeconds=604800).
-*   [Free Blazor Training Course](https://www.devexpress.com/support/training/blazor/) - DevExpress Blazor free training course [Source code (⭐52)](https://github.com/DevExpress/blazor-training-samples) ![GitHub stars](https://img.shields.io/github/stars/DevExpress/blazor-training-samples?style=flat-square\&cacheSeconds=604800).
+*   [Free Blazor Training Course](https://www.devexpress.com/support/training/blazor/) - DevExpress Blazor free training course [Source code (⭐53)](https://github.com/DevExpress/blazor-training-samples) ![GitHub stars](https://img.shields.io/github/stars/DevExpress/blazor-training-samples?style=flat-square\&cacheSeconds=604800).
 
 ## [43. Awesome Ads](/content/cenoura/awesome-ads/week/README.md)
 
@@ -765,7 +765,7 @@
 
 ### DNS
 
-*   [namecheap.com](https://www.namecheap.com/domains/freedns/) — Free DNS. No limit on number of domains
+*   [namecheap.com](https://www.namecheap.com/domains/freedns/) — Free DNS. No limit on the number of domains
 
 ## [45. Awesome Imba](/content/koolamusic/awesome-imba/week/README.md)
 
@@ -788,11 +788,11 @@
 
 ### Paginator
 
-*   [react-laravel-paginex (⭐25)](https://github.com/lionix-team/react-laravel-paginex) - Laravel Pagination with ReactJS (customizable).
+*   [react-laravel-paginex (⭐27)](https://github.com/lionix-team/react-laravel-paginex) - Laravel Pagination with ReactJS (customizable).
 
 ### UI Layout / Syntax Highlight
 
-*   [react-spaces (⭐1.1k)](https://github.com/aeagle/react-spaces) - [demo/docs](https://www.allaneagle.com/react-spaces/demo/) - Nestable anchored, resizable, scrollable components.
+*   [react-spaces (⭐1.2k)](https://github.com/aeagle/react-spaces) - [demo/docs](https://www.allaneagle.com/react-spaces/demo/) - Nestable anchored, resizable, scrollable components.
 
 ## [47. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -814,8 +814,8 @@
 ### macOS-based defenses / Overlay and Virtual Private Networks (VPNs)
 
 *   [LuLu](https://objective-see.com/products/lulu.html) - Free macOS firewall.
-*   [Stronghold (⭐987)](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
-*   [macOS Fortress (⭐380)](https://github.com/essandess/macOS-Fortress) - Automated configuration of kernel-level, OS-level, and client-level security features including privatizing proxying and anti-virus scanning for macOS.
+*   [Stronghold (⭐1k)](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
+*   [macOS Fortress (⭐395)](https://github.com/essandess/macOS-Fortress) - Automated configuration of kernel-level, OS-level, and client-level security features including privatizing proxying and anti-virus scanning for macOS.
 
 ## [49. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
 

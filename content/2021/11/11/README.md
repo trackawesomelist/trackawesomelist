@@ -16,78 +16,76 @@
 
 ### GUI
 
-*   [DbGate (⭐2.2k)](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
+*   [DbGate (⭐2.9k)](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
 
 ## [3. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Command line interface (CLI) / Terminal / Shell
 
-*   [vesseract (⭐16)](https://github.com/barrack-obama/vesseract) - V wrapper for Tesseract-OCR (optical character recognition).
+*   [vesseract (⭐17)](https://github.com/barrack-obama/vesseract) - V wrapper for Tesseract-OCR (optical character recognition).
 
 ### Game development
 
-*   [engine (⭐37)](https://github.com/LouisSchmieder/engine) - WIP Vulkan in V.
+*   [engine (⭐38)](https://github.com/LouisSchmieder/engine) - WIP Vulkan in V.
 
 ## [4. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
-### Analytics
-
-*   [Filters (⭐56)](https://github.com/peterhinch/micropython-filters) - FIR filters using ARM Thumb assembler. Using an online utility you can go from a graph
-    of required frequency response to a filter implementation.
-
 ### Communications / GPS
 
-*   [Asynchronous GPS driver (⭐610)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/GPS.md) - Receive and parse GPS data as a uasyncio task.
+*   [Asynchronous GPS driver (⭐635)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/GPS.md) - Receive and parse GPS data as a uasyncio task.
 
 ### Communications / IoT
 
-*   [micropython-iot (⭐77)](https://github.com/peterhinch/micropython-iot) - An approach to designing IoT applications using ESP8266, ESP32 or Pyboard D endpoints.
+*   [micropython-iot (⭐80)](https://github.com/peterhinch/micropython-iot) - An approach to designing IoT applications using ESP8266, ESP32 or Pyboard D endpoints.
 
 ### Display / Fonts
 
-*   [writer (⭐296)](https://github.com/peterhinch/micropython-font-to-py/blob/master/writer/WRITER.md) - A simple way to render above Python fonts to displays whose driver is subclassed from `framebuf`.
+*   [writer (⭐311)](https://github.com/peterhinch/micropython-font-to-py/blob/master/writer/WRITER.md) - A simple way to render above Python fonts to displays whose driver is subclassed from `framebuf`.
 
 ### Display / GUI
 
-*   [micropython-nano-gui (⭐342)](https://github.com/peterhinch/micropython-nano-gui) - A tiny display-only GUI with a limited set of GUI objects (widgets) for displays whose display driver is subclassed from the `framebuf` class. With drivers for TFT, ePaper and OLED displays.
-*   [micro-gui (⭐144)](https://github.com/peterhinch/micropython-micro-gui) - Derived from nano-gui and supporting the same displays and hosts, this provides for user
-    input via push buttons or a navigation joystick and an optional rotary encoder.
+*   [micropython-nano-gui (⭐369)](https://github.com/peterhinch/micropython-nano-gui) - A tiny display-only GUI with a limited set of GUI objects (widgets) for displays whose display driver is subclassed from the `framebuf` class. With drivers for TFT, ePaper and OLED displays.
+*   [micro-gui (⭐167)](https://github.com/peterhinch/micropython-micro-gui) - Derived from nano-gui and supporting the same displays and hosts, this provides for user input via push buttons or a navigation joystick and an optional rotary encoder.
 
 ### IO / Rotary Encoder
 
-*   [encoders (⭐350)](https://github.com/peterhinch/micropython-samples/blob/master/encoders/ENCODERS.md) - Short document explaining issues around encoder technology.
-*   [asynchronous encoder driver (⭐610)](https://github.com/peterhinch/micropython-async/blob/master/v3/primitives/encoder.py) - Interface an encoder to uasyncio code.
+*   [encoders (⭐370)](https://github.com/peterhinch/micropython-samples/blob/master/encoders/ENCODERS.md) - Short document explaining issues around encoder technology.
+*   [asynchronous encoder driver (⭐635)](https://github.com/peterhinch/micropython-async/blob/master/v3/primitives/encoder.py) - Interface an encoder to uasyncio code.
+
+### Mathematics / Waveform Generator
+
+*   [Filters (⭐60)](https://github.com/peterhinch/micropython-filters) - FIR filters using ARM Thumb assembler. Using an online utility you can go from a graph of required frequency response to a filter implementation.
 
 ### Sensors / Temperature Digital
 
-*   [HTU21D (⭐610)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/HTU21D.md) - Asynchronous driver for HTU21D temperature and humidity sensor.
+*   [HTU21D (⭐635)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/HTU21D.md) - Asynchronous driver for HTU21D temperature and humidity sensor.
 
 ### Storage / EEPROM
 
-*   [micropython\_eeprom (⭐55)](https://github.com/peterhinch/micropython_eeprom) - Cross-platform MicroPython device drivers for memory chips (EEPROM, FRAM, Flash, PSRAM).
+*   [micropython\_eeprom (⭐64)](https://github.com/peterhinch/micropython_eeprom) - Cross-platform MicroPython device drivers for memory chips (EEPROM, FRAM, Flash, PSRAM).
 
 ### Debugging / SRAM
 
-*   [micropython-aiosentry (⭐7)](https://github.com/devbis/micropython-aiosentry) - Asynchronous Sentry.io micro client for MicroPython.
-*   [Asynchronous monitor (⭐23)](https://github.com/peterhinch/micropython-monitor) - Use a Raspberry Pico and a logic analyser or scope to monitor asynchronous code.
+*   [micropython-aiosentry (⭐9)](https://github.com/devbis/micropython-aiosentry) - Asynchronous Sentry.io micro client for MicroPython.
+*   [Asynchronous monitor (⭐26)](https://github.com/peterhinch/micropython-monitor) - Use a Raspberry Pico and a logic analyser or scope to monitor asynchronous code.
 
 ## [5. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Community Extensions
 
-*   [Useful Keycloak EventListenerProvider implementations and utilities (⭐61)](https://github.com/p2-inc/keycloak-events)
+*   [Useful Keycloak EventListenerProvider implementations and utilities (⭐93)](https://github.com/p2-inc/keycloak-events)
 
-## [6. Awesome Acg](/content/soruly/awesome-acg/README.md)
+## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Fortran / Phoenix
+
+*   [Exploring Modern Fortran Basics](https://www.manning.com/books/exploring-modern-fortran-basics) - Milan Curcic
+
+## [7. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
 ### Web
 
-*   [kalidoface (⭐300)](https://github.com/yeemachine/kalidoface) - Face and Body Tracking for Live2D / 3D models on the web. \[English]
-
-## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
-
-### Framework-agnostic Plugins / Integrations
-
-*   [vite-esbuild-typescript-checker](https://github.com/time4dev/vite-esbuild-typescript-checker) - Type checker (TypeScript, Vue SFC, etc.) based on the webpack 5 plugin.
+*   [kalidoface (⭐27)](https://github.com/yeemachine/kalidoface) - Face and Body Tracking for Live2D / 3D models on the web. \[English]
 
 ## [8. Tools](/content/lvwzhen/tools/README.md)
 
@@ -107,7 +105,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-stripe-js (⭐98)](https://github.com/ectoflow/vue-stripe-js) - Vue 3 components for Stripe.js
+*   [vue-stripe-js (⭐111)](https://github.com/ectoflow/vue-stripe-js) - Vue 3 components for Stripe.js
 
 ---
 

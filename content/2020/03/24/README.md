@@ -10,7 +10,7 @@
 
 ### Architecture
 
-*   [Burzum/CakeServiceLayer plugin (⭐63)](https://github.com/burzum/cakephp-service-layer) - Service layer and domain/business model implementation.
+*   🍰 [Burzum/CakeServiceLayer plugin (⭐65)](https://github.com/burzum/cakephp-service-layer) - Service layer and domain/business model implementation.
 
 ## [2. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
@@ -20,7 +20,7 @@
 
 ### Mobile / Android
 
-*   🔌 [Firecoil (⭐36)](https://github.com/rosariopfernandes/firecoil) - Load images from GCS in your Android app using the image loading library Coil.
+*   🔌 [Firecoil (⭐40)](https://github.com/rosariopfernandes/firecoil) - Load images from GCS in your Android app using the image loading library Coil.
 
 ## [3. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
@@ -37,7 +37,7 @@
 
 ### Articles/Guides/Tutorials
 
-*   [How to Grow Neat Software Architecture out of Jupyter Notebooks (⭐518)](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks) - Article and [video](https://www.youtube.com/watch?v=K4QN27IKr0g) about growing a neat software architecture from notebooks.
+*   [How to Grow Neat Software Architecture out of Jupyter Notebooks (⭐520)](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks) - Article and [video](https://www.youtube.com/watch?v=K4QN27IKr0g) about growing a neat software architecture from notebooks.
 
 ## [5. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -49,11 +49,11 @@
 
 ### Activity Indicator
 
-*   [ActivityIndicatorView (⭐1k)](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI.
+*   [ActivityIndicatorView (⭐1.1k)](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI.
 
 ### User Consent / Collection View Layout
 
-*   [PrivacyFlash Pro (⭐145)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your iOS app from its code
+*   [PrivacyFlash Pro (⭐148)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your iOS app from its code
 
 ---
 

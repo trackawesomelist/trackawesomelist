@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 07, 2023
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -25,27 +25,26 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-generate-html (⭐0)](https://github.com/gedouu/vite-plugin-generate-html) - Define separate output files for JavaScript and CSS bundles.
+*   [vite-plugin-generate-html (⭐5)](https://github.com/gedouu/vite-plugin-generate-html) - Define separate output files for JavaScript and CSS bundles.
 
 ### Vue / Integrations
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue (⭐229)](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue) - Official Vue 3 support.
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue-jsx (⭐229)](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
-*   ![v2](https://img.shields.io/badge/-v2-42b883) [@vitejs/plugin-vue2 (⭐466)](https://github.com/vitejs/vite-plugin-vue2) - Official Vue 2 support.
-*   ![v2](https://img.shields.io/badge/-v2-42b883) [@vitejs/plugin-vue2-jsx (⭐41)](https://github.com/vitejs/vite-plugin-vue2-jsx) - Official Vue 2 JSX support.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue-jsx (⭐319)](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [@vitejs/plugin-vue2 (⭐495)](https://github.com/vitejs/vite-plugin-vue2) - Official Vue 2 support.
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [@vitejs/plugin-vue2-jsx (⭐47)](https://github.com/vitejs/vite-plugin-vue2-jsx) - Official Vue 2 JSX support.
 
 ### React / Official
 
-*   [@vitejs/plugin-react (⭐298)](https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react) - Official React support that uses Babel.
-*   [@vitejs/plugin-react-swc (⭐467)](https://github.com/vitejs/vite-plugin-react-swc) - Official React support that uses SWC.
+*   [@vitejs/plugin-react (⭐377)](https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react) - Official React support that uses Babel.
+*   [@vitejs/plugin-react-swc (⭐575)](https://github.com/vitejs/vite-plugin-react-swc) - Official React support that uses SWC.
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [show-git-user (⭐2)](https://github.com/luisprgr/zsh-show-git-user) - When you need to work with multiple `git` users on the same machine this plugin will show which `git` user name is active in your prompt.
 *   [wsl (⭐0)](https://github.com/florentinl/omz-wsl) - Adds helper functions to make it easier to work in ZSH when running inside WSL.
-*   [zsh-watch (⭐0)](https://github.com/Thearas/zsh-watch) - Simple `watch` that supports alias and completion.
+*   [zsh-watch (⭐1)](https://github.com/Thearas/zsh-watch) - Simple `watch` that supports alias and completion.
 
 ## [5. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -77,7 +76,7 @@
 
 ### Language Tools / Telegram
 
-*   see the [Awesome Translations list (⭐79)](https://github.com/mbiesiad/awesome-translations#tools)
+*   see the [Awesome Translations list (⭐87)](https://github.com/mbiesiad/awesome-translations#tools)
 
 ### Image Search / Telegram
 
@@ -89,35 +88,23 @@
 *   [PhotoBucket](https://photobucket.com)
 *   [PimEyes](https://pimeyes.com) - an online face search engine that goes through the Internet to find pictures containing given faces.
 
-### Stock Images / Telegram
-
-*   See the [Awesome Stock Resources (⭐12k)](https://github.com/neutraltone/awesome-stock-resources) list.
-
 ## [7. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
 ### Development tools
 
 *   [Small-C Toolkit](https://github.com/humbertocsjr/Small-C.git) - A self-hosting Small-C Compiler Toolkit for DOS(8086) with: K\&R C Compiler, Make, Linker, Assembler. First released in 1982 by Jim E. Hendrix.
 
-## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
-
-## [9. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [8. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Libraries / Python
 
-*   [gtfs-segments (⭐11)](https://github.com/UTEL-UIUC/gtfs_segments) - Python package that represents GTFS data for buses in a concise tabular manner using segments.
+*   [gtfs-segments (⭐12)](https://github.com/UTEL-UIUC/gtfs_segments) - Python package that represents GTFS data for buses in a concise tabular manner using segments.
 
 ### GTFS Timetable Publishing Tools / Ruby
 
-*   [Timetable Kit (⭐19)](https://github.com/neroden/timetable_kit) - An open source Python 3.10 module and scripts depending on [GTFS Kit (⭐5)](https://github.com/mrcagney/gtfs_kit), designed to create complex printed/PDF timetables with flexible layouts. Currently only working out of the box for Amtrak's GTFS, but under active development.
+*   [Timetable Kit (⭐20)](https://github.com/neroden/timetable_kit) - An open source Python 3.10 module and scripts depending on [GTFS Kit (⭐12)](https://github.com/mrcagney/gtfs_kit), designed to create complex printed/PDF timetables with flexible layouts. Currently only working out of the box for Amtrak's GTFS, but under active development.
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -129,21 +116,22 @@
 
 ### Components & Libraries / Integrations
 
-*   [hugoVueSFC (⭐0)](https://github.com/indus/hugoVueSFC) - Vue Single-File Components (SFC) in [Hugo](https://gohugo.io/).
+*   [hugoVueSFC (⭐3)](https://github.com/indus/hugoVueSFC) - Vue Single-File Components (SFC) in [Hugo](https://gohugo.io/).
 
-## [11. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
+## [10. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
 ### Collaborative Web Editors
 
 *   [CryptPad](https://cryptpad.org/) CryptPad is a collaborative office suite that is end-to-end encrypted and open-source. It provides a full-fledged office suite with all the tools necessary for productive collaboration. Applications include: Rich Text, Spreadsheets, Code/Markdown, Kanban, Slides, Whiteboard and Forms.
 
-## [12. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [11. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Item Resource Files
 
 *   [Sitecore IAR Management (⭐0)](https://github.com/GAAOPS/Sitecore.IAR.Management) - PowerShell script for managing Item as resources.
-*   [Sitecore Item as Resource Explorer (⭐1)](https://github.com/GAAOPS/Sitecore.Protobuf.Browser) - WPF application which allows you to browse the Sitecore static databases files (.dat)
+*   [Sitecore Item as Resource Explorer (⭐2)](https://github.com/GAAOPS/Sitecore.Protobuf.Browser) - WPF application which allows you to browse the Sitecore static databases files (.dat)
 
 ---
 
+- Prev: [Jun 08, 2023](/content/2023/06/08/README.md)
 - Next: [Jun 06, 2023](/content/2023/06/06/README.md)

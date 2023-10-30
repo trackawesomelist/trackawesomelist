@@ -16,7 +16,7 @@
 
 ### Code Generation
 
-*   [Metalama](https://www.postsharp.net/metalama) - Only for C#. Metalama generates the boilerplate the code on the fly, during compilation, so that your source code remains clean. It is completely free for open-source projects, and their commercial-friendly free tier includes 3 aspects.
+*   [Metalama](https://www.postsharp.net/metalama) - Only for C#. Metalama generates the boilerplate of the code on the fly during compilation so that your source code remains clean. It is free for open-source projects, and its commercial-friendly free tier includes three aspects.
 
 ### Code Quality
 
@@ -24,15 +24,15 @@
 
 ### Mobile App Distribution and Feedback
 
-*   [TestApp.io](https://testapp.io) - Your go-to platform for making sure your mobile apps work like they should. Free plan: one app, analytics, unlimited versions & installs, and feedback collection.
-*   [Diawi](https://www.diawi.com) - Deploy iOS & Android apps directly to devices. Free plan: app uploads, password-protected links, 1-day expiration, 10 installations.
+*   [TestApp.io](https://testapp.io) - Your go-to platform for ensuring your mobile apps work as they should. Free plan: one app, analytics, unlimited versions & installs, and feedback collection.
+*   [Diawi](https://www.diawi.com) - Deploy iOS & Android apps directly to devices. Free plan: app uploads, password-protected links, 1-day expiration, ten installations.
 *   [InstallOnAir](https://www.installonair.com) - Distribute iOS & Android apps over the air. Free plan: unlimited uploads, private links, 2-day expiration for guests, 60 days for registered users.
-*   [GetUpdraft](https://www.getupdraft.com) - Distribute mobile apps for testing. Free plan includes: 1 app project, 3 app versions, 500 MB storage, and 100 app installations per month.
-*   [Appho.st](https://appho.st) - Mobile app hosting platform. Free plan includes: 5 apps, 50 monthly downloads, and a maximum file size of 100MB.
+*   [GetUpdraft](https://www.getupdraft.com) - Distribute mobile apps for testing. The free plan includes one app project, three app versions, 500 MB storage, and 100 app installations per month.
+*   [Appho.st](https://appho.st) - Mobile app hosting platform. The free plan includes five apps, 50 monthly downloads, and a maximum file size of 100 MB.
 
 ### Crash and Exception Handling
 
-*   [Embrace](https://embrace.io/) — Mobile app monitoring. Free for small teams up to 1 million user sessions per year.
+*   [Embrace](https://embrace.io/) — Mobile app monitoring. Free for small teams with up to 1 million user sessions per year.
 
 ## [3. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -58,23 +58,23 @@
 
 *   [Altern](https://altern.ai) - The place to discover new AI tools and products.
 
-### Prompt Engineering | Prompt Design | Prompt Craft / Text-related Generative Tools
+### Roadmaps, Tracks, Rails / Auxiliary tools and concepts
 
-*   \[🔥🔥] [Prompt Engineering Roadmap - roadmap.sh](https://roadmap.sh/prompt-engineering)
+*   [Prompt Engineering Roadmap - roadmap.sh](https://roadmap.sh/prompt-engineering)
 
 ## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Blogging Platforms
 
-*   [Mataroa](https://mataroa.blog/) - Mataroa is a naked blogging platform for minimalists. ([Source Code (⭐110)](https://github.com/mataroa-blog/mataroa)) `MIT` `Python`
+*   [Mataroa](https://mataroa.blog/) - Mataroa is a naked blogging platform for minimalists. ([Source Code (⭐122)](https://github.com/mataroa-blog/mataroa)) `MIT` `Python`
 
 ### Software / Learning and Courses
 
-*   [INGInious](https://inginious.org/?lang=en) `⚠` - Intelligent grader that allows secured and automated testing of code made by students. ([Source Code (⭐181)](https://github.com/UCL-INGI/INGInious), [Clients (⭐3)](https://github.com/UCL-INGI/INGInious-plugins)) `AGPL-3.0` `Python/Docker`
+*   [INGInious](https://inginious.org/?lang=en) `⚠` - Intelligent grader that allows secured and automated testing of code made by students. ([Source Code (⭐185)](https://github.com/UCL-INGI/INGInious), [Clients (⭐3)](https://github.com/UCL-INGI/INGInious-plugins)) `AGPL-3.0` `Python/Docker`
 
 ### Software / Search Engines
 
-*   [Websurfx (⭐347)](https://github.com/neon-mmd/websurfx) `⚠` - Aggregate results from other search engines (metasearch engine) without ads while keeping privacy and security in mind. It is extremely fast and provides a high level of customization (alternative to SearX). `AGPL-3.0` `Rust/Docker`
+*   [Websurfx (⭐412)](https://github.com/neon-mmd/websurfx) `⚠` - Aggregate results from other search engines (metasearch engine) without ads while keeping privacy and security in mind. It is extremely fast and provides a high level of customization (alternative to SearX). `AGPL-3.0` `Rust/Docker`
 
 ## [8. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -98,20 +98,21 @@
 
 ### (requires Neovim 0.5)
 
-*   [Wansmer/symbol-usage.nvim (⭐43)](https://github.com/Wansmer/symbol-usage.nvim) - Display references, definitions and implementations of document symbols.
+*   [Wansmer/symbol-usage.nvim (⭐89)](https://github.com/Wansmer/symbol-usage.nvim) - Display references, definitions and implementations of document symbols.
 
 ### Utility / Diagnostics
 
-*   [luckasRanarison/nvim-devdocs (⭐142)](https://github.com/luckasRanarison/nvim-devdocs) - Preview devdocs.io documentations directly in Markdown format.
+*   [luckasRanarison/nvim-devdocs (⭐161)](https://github.com/luckasRanarison/nvim-devdocs) - Preview devdocs.io documentations directly in Markdown format.
 
 ### Editing Support / Diagnostics
 
-*   [chrisgrieser/nvim-puppeteer (⭐2)](https://github.com/chrisgrieser/nvim-puppeteer) - Automatically convert strings to f-strings or template strings and back.
+*   [chrisgrieser/nvim-puppeteer (⭐43)](https://github.com/chrisgrieser/nvim-puppeteer) - Automatically convert strings to f-strings or template strings and back.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [chrisgrieser/nvim-kickstart-python (⭐2)](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your Neovim configuration for Python.
+*   [chrisgrieser/nvim-kickstart-python (⭐46)](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your Neovim configuration for Python.
 
 ---
 
+- Prev: [Sep 20, 2023](/content/2023/09/20/README.md)
 - Next: [Sep 18, 2023](/content/2023/09/18/README.md)

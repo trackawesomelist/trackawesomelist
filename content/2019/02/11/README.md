@@ -24,7 +24,7 @@
 
 ### Database Drivers/Clients
 
-*   [crystal-rethinkdb (⭐21)](https://github.com/kingsleyh/crystal-rethinkdb) - Driver for RethinkDB / RebirthDB
+*   [crystal-rethinkdb (⭐22)](https://github.com/kingsleyh/crystal-rethinkdb) - Driver for RethinkDB / RebirthDB
 
 ## [3. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 
@@ -32,37 +32,37 @@
 
 ### Lagos
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mazibayo" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/mazibayo" height="70px" width="70px" align="left" alt="" />
 
 **Adebayo Opesanya**\
 Topics: JavaScript, Node.js, TypeScript, Testing, Community\
 <https://twitter.com/mazibayo>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/AnayoOleru" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/AnayoOleru" height="70px" width="70px" align="left" alt="" />
 
 **Anayo Oleru**\
 Topics: JavaScript, Node.js, TypeScript, Testing, React, Redux, React Native, Open Source, PWAs\
 <https://twitter.com/AnayoOleru>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/codebeast" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/codebeast" height="70px" width="70px" align="left" alt="" />
 
 **Christian Nwamba**\
 Topics: JavaScript, React, Vue, Angular, PWAs, CSS, Standards\
 <https://twitter.com/codebeast>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ireaderinokun" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/ireaderinokun" height="70px" width="70px" align="left" alt="" />
 
 **Ire Aderinokun**\
 Topics: Progressive Web Apps, CSS, Standards\
 <https://twitter.com/ireaderinokun>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/unicodeveloper" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/unicodeveloper" height="70px" width="70px" align="left" alt="" />
 
 **Otemuyiwa Prosper**\
 Topics: JavaScript, React, Vue, Angular, PWAs, PHP, Laravel\
 <https://twitter.com/unicodeveloper>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/developerayo" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/developerayo" height="70px" width="70px" align="left" alt="" />
 
 **Shodipo Ayomide**\
 Topics: PHP, JavaScript, React, Vue.js, PWAs, Testing, Open Source, Performance\
@@ -90,7 +90,7 @@ Topics: PHP, JavaScript, React, Vue.js, PWAs, Testing, Open Source, Performance\
 
 ### Awesome TypeScript Essential Resources
 
-*   :octocat: [Clean Code concepts adapted for TypeScript (⭐7.4k)](https://github.com/labs42io/clean-code-typescript)
+*   :octocat: [Clean Code concepts adapted for TypeScript (⭐8.5k)](https://github.com/labs42io/clean-code-typescript)
 
 ## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -102,11 +102,11 @@ Topics: PHP, JavaScript, React, Vue.js, PWAs, Testing, Open Source, Performance\
 
 ### Colors
 
-*   [Gradients (⭐781)](https://github.com/Gradients/Gradients) - A curated collection of splendid 180+ gradients.
+*   [Gradients (⭐794)](https://github.com/Gradients/Gradients) - A curated collection of splendid 180+ gradients.
 
 ### UITableView / Barcode
 
-*   [DTTableViewManager (⭐454)](https://github.com/DenTelezhkin/DTTableViewManager) - Protocol-oriented UITableView management, powered by generics and associated types.
+*   [DTTableViewManager (⭐451)](https://github.com/DenTelezhkin/DTTableViewManager) - Protocol-oriented UITableView management, powered by generics and associated types.
 
 ## [10. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -117,7 +117,7 @@ Topics: PHP, JavaScript, React, Vue.js, PWAs, Testing, Open Source, Performance\
 *   [spark-guidance](https://www.adacore.com/books/implementation-guidance-spark) - Implementation Guidance for the Adoption of SPARK.
 *   [ada-safe-secure](https://www.adacore.com/uploads/technical-papers/SafeSecureAdav2015.pdf) - Safe and Secure Software. An invitation to Ada 2012.
 
-### Algorithms, Containers and Protocols / MIT
+### Algorithms, Containers and Protocols / Apache License
 
 *   [dequesterity](https://sourceforge.net/projects/dequesterity/) - Deque/buffer generics that consist of building blocks that may be combined in various ways to create higher abstraction buffers.
 *   [paraffin](https://sourceforge.net/projects/paraffin/) - A suite of Ada 2012 generics to facilitate iterative and recursive parallelism for multicore systems.

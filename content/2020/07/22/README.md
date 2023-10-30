@@ -16,12 +16,12 @@
 
 ### External Services
 
-*   [chess-com-box-py (⭐10)](https://github.com/sciencepal/chess-com-box-py) - Update a pinned gist to contain your Chess.com Ratings.
-*   [typeracer-box (⭐6)](https://github.com/tobimori/typeracer-box) - Update a pinned gist to contain your latest TypeRacer races
+*   [chess-com-box-py (⭐9)](https://github.com/sciencepal/chess-com-box-py) - Update a pinned gist to contain your Chess.com Ratings.
+*   [typeracer-box (⭐8)](https://github.com/tobimori/typeracer-box) - Update a pinned gist to contain your latest TypeRacer races
 
 ### GitHub
 
-*   [productive-box (⭐438)](https://github.com/maxam2017/productive-box) - Update a pinned gist to contain your most productive hours during the day.
+*   [productive-box (⭐452)](https://github.com/maxam2017/productive-box) - Update a pinned gist to contain your most productive hours during the day.
 
 ## [3. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -30,7 +30,7 @@
 *   [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) - Use function-based views to build a blog app.
 *   [LearnDjango](https://learndjango.com/) - Tutorials and premium courses on Django and Django REST Framework.
 *   [TestDriven](https://testdriven.io/blog/) - Multiple Django-specific tutorials on topics like Docker, payments, and more.
-*   [Django Styleguide (⭐3.6k)](https://github.com/HackSoftware/Django-Styleguide) - Styleguide for Django with best practices and examples.
+*   [Django Styleguide (⭐4.1k)](https://github.com/HackSoftware/Django-Styleguide) - Styleguide for Django with best practices and examples.
 
 ### Resources / Podcasts
 
@@ -40,7 +40,7 @@
 
 ### Chart
 
-*   [ChartView (⭐4.8k)](https://github.com/AppPear/ChartView) - Swift package for displaying beautiful charts effortlessly
+*   [ChartView (⭐5k)](https://github.com/AppPear/ChartView) - Swift package for displaying beautiful charts effortlessly
 
 ## [5. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -120,7 +120,7 @@
 
 ### Site Templates / Components
 
-*   [HowToKeepAngularDeploymentSizeSmall (⭐14)](https://github.com/younos1986/HowToKeepAngularDeploymentSizeSmall) - A sample included Homepage and Dashboard for Angular 7 and a demonestration of How To Keep Angular Deployment Size Small
+*   [HowToKeepAngularDeploymentSizeSmall (⭐17)](https://github.com/younos1986/HowToKeepAngularDeploymentSizeSmall) - A sample included Homepage and Dashboard for Angular 7 and a demonestration of How To Keep Angular Deployment Size Small
 
 ### Developer tools / Components
 
@@ -152,7 +152,7 @@
 
 ### Tools & Utilities / Others
 
-*   [Blazm.Bluetooth (⭐73)](https://github.com/EngstromJimmy/Blazm.Bluetooth) - ![last commit](https://img.shields.io/github/last-commit/EngstromJimmy/Blazm.Bluetooth?style=flat-square\&cacheSeconds=86400) A Blazor library for connecting to devices using Bluetooth.
+*   [Blazm.Bluetooth (⭐75)](https://github.com/EngstromJimmy/Blazm.Bluetooth) - ![last commit](https://img.shields.io/github/last-commit/EngstromJimmy/Blazm.Bluetooth?style=flat-square\&cacheSeconds=86400) A Blazor library for connecting to devices using Bluetooth.
 
 ## [11. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
@@ -164,23 +164,23 @@
 
 ### Packages / Application layer
 
-*   [ros2-ORB\_SLAM2 (⭐84)](https://github.com/alsora/ros2-ORB_SLAM2) - ROS2 node wrapping the ORB\_SLAM2 library. ![ros2-ORB\_SLAM2](https://img.shields.io/github/stars/alsora/ros2-ORB_SLAM2.svg)
+*   [ros2-ORB\_SLAM2 (⭐92)](https://github.com/alsora/ros2-ORB_SLAM2) - ROS2 node wrapping the ORB\_SLAM2 library. ![ros2-ORB\_SLAM2](https://img.shields.io/github/stars/alsora/ros2-ORB_SLAM2.svg)
 *   [basalt\_ros2 (⭐15)](https://github.com/berndpfrommer/basalt_ros2) - ROS2 wrapper for Basalt VIO. ![basalt\_ros2](https://img.shields.io/github/stars/berndpfrommer/basalt_ros2.svg)
-*   [slam\_gmapping (⭐71)](https://github.com/Project-MANAS/slam_gmapping) - Slam Gmapping for ROS2. ![slam\_gmapping](https://img.shields.io/github/stars/Project-MANAS/slam_gmapping.svg)
+*   [slam\_gmapping (⭐80)](https://github.com/Project-MANAS/slam_gmapping) - Slam Gmapping for ROS2. ![slam\_gmapping](https://img.shields.io/github/stars/Project-MANAS/slam_gmapping.svg)
 *   [slam\_toolbox (⭐1.1k)](https://github.com/SteveMacenski/slam_toolbox) - Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS. ![slam\_toolbox](https://img.shields.io/github/stars/SteveMacenski/slam_toolbox.svg)
-*   [lidarslam\_ros2 (⭐283)](https://github.com/rsasaki0109/lidarslam_ros2) - ROS2 package of 3D lidar slam using ndt/gicp registration and pose-optimization. ![lidarslam\_ros2](https://img.shields.io/github/stars/rsasaki0109/lidarslam_ros2.svg)
-*   [li\_slam\_ros2 (⭐169)](https://github.com/rsasaki0109/li_slam_ros2) - ROS2 package of tightly-coupled lidar inertial ndt/gicp slam referenced from LIO-SAM. ![li\_slam\_ros2](https://img.shields.io/github/stars/rsasaki0109/li_slam_ros2.svg)
+*   [lidarslam\_ros2 (⭐328)](https://github.com/rsasaki0109/lidarslam_ros2) - ROS2 package of 3D lidar slam using ndt/gicp registration and pose-optimization. ![lidarslam\_ros2](https://img.shields.io/github/stars/rsasaki0109/lidarslam_ros2.svg)
+*   [li\_slam\_ros2 (⭐191)](https://github.com/rsasaki0109/li_slam_ros2) - ROS2 package of tightly-coupled lidar inertial ndt/gicp slam referenced from LIO-SAM. ![li\_slam\_ros2](https://img.shields.io/github/stars/rsasaki0109/li_slam_ros2.svg)
 
 ### Packages / Driver layer
 
-*   [ros2\_ouster\_drivers (⭐103)](https://github.com/SteveMacenski/ros2_ouster_drivers) - ROS2 Drivers for the Ouster OS-1 Lidars. ![ros2\_ouster\_drivers](https://img.shields.io/github/stars/SteveMacenski/ros2_ouster_drivers)
+*   [ros2\_ouster\_drivers (⭐111)](https://github.com/SteveMacenski/ros2_ouster_drivers) - ROS2 Drivers for the Ouster OS-1 Lidars. ![ros2\_ouster\_drivers](https://img.shields.io/github/stars/SteveMacenski/ros2_ouster_drivers)
 
 ## [13. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Reading
 
 *   [Wardley maps - Topographical intelligence in business](https://medium.com/wardleymaps) - Creative Commons book by [Simon Wardley](https://twitter.com/swardley).
-    *   E-book - PDF and Kindle [downloads (⭐272)](https://github.com/andrewharmellaw/wardley-maps-book/releases).
+    *   E-book - PDF and Kindle [downloads (⭐278)](https://github.com/andrewharmellaw/wardley-maps-book/releases).
     *   Audiobook - MP3 [downloads](https://feststelltaste.github.io/wardley-maps-audiobook/).
     *   [Spanish Translation](https://mapasdewardley.com/estrategia/el-libro-de-simon-wardley/) - Mapas de Wardley. El uso de la inteligencia topográfica en la estrategia empresarial.
 *   [The Art of Strategy](https://medium.com/@erik_schon/the-art-of-strategy-ac4165c0c085) - Sun Tzu, Boyd & Wardley on situational awareness, OODA "Loops" and Wardley mapping by [Erik Schön](https://twitter.com/erik_schon). [PDF](https://leanpub.com/TheArtOfStrategy)/[Paperback](https://www.amazon.com/ART-STRATEGY-Towards-Business-Agility/dp/B086PTDZT1).
@@ -189,7 +189,7 @@
 
 ### Extensions
 
-*   [next-deploy (⭐47)](https://github.com/lone-cloud/next-deploy) - 🚀 Effortless deployment to AWS and GitHub Pages.
+*   [next-deploy (⭐46)](https://github.com/lone-cloud/next-deploy) - 🚀 Effortless deployment to AWS and GitHub Pages.
 
 ## [15. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 

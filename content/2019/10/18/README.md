@@ -15,12 +15,12 @@
 
 ### HTTP clients / Interfaces to other package managers
 
-*   [fast-http (⭐331)](https://github.com/fukamachi/fast-http) - A fast HTTP request/response parser for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [fast-http (⭐332)](https://github.com/fukamachi/fast-http) - A fast HTTP request/response parser for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ### HTTP Servers / Interfaces to other package managers
 
 *   [zaserve (⭐7)](https://github.com/gendl/aserve) - A portable fork of AllegroServe, by Franz Inc.  [LLGPL](http://opensource.franz.com/preamble.html).
-*   [cl-http2-protocol (⭐102)](https://github.com/akamai/cl-http2-protocol) - a pure Common Lisp transport agnostic implementation of the HTTP/2 protocol at draft-14. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-http2-protocol (⭐103)](https://github.com/akamai/cl-http2-protocol) - a pure Common Lisp transport agnostic implementation of the HTTP/2 protocol at draft-14. [MIT](https://opensource.org/licenses/MIT).
 
 ### HTTP Servers / Hunchentoot plugins
 
@@ -29,23 +29,23 @@
 
 ### Javascript / Isomorphic web frameworks
 
-*   ⭐ [Parenscript](https://common-lisp.net/project/parenscript/) - A translator from Common Lisp to Javascript. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). See [Trident-mode (⭐68)](https://github.com/johnmastro/trident-mode.el), an Emacs mode that provides live interaction with the browser.[unlicence](http://unlicense.org/).
+*   ⭐ [Parenscript](https://common-lisp.net/project/parenscript/) - A translator from Common Lisp to Javascript. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). See [Trident-mode (⭐71)](https://github.com/johnmastro/trident-mode.el), an Emacs mode that provides live interaction with the browser.[unlicence](http://unlicense.org/).
     *   [paren6 (⭐21)](https://github.com/BnMcGn/paren6/) - a set of ES6 macros for Parenscript.
 
 ### Others / Third-party APIs
 
-*   [avm (⭐52)](https://github.com/takagi/avm) - Efficient and expressive arrayed vector math library with multi-threading and CUDA support. [MIT](https://opensource.org/licenses/MIT).
+*   [avm (⭐53)](https://github.com/takagi/avm) - Efficient and expressive arrayed vector math library with multi-threading and CUDA support. [MIT](https://opensource.org/licenses/MIT).
 
 ### Utils / Third-party APIs
 
-*   [cl-coroutine (⭐58)](https://github.com/takagi/cl-coroutine) - a coroutine library. It uses the CL-CONT continuations library in its implementation. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-coroutine (⭐59)](https://github.com/takagi/cl-coroutine) - a coroutine library. It uses the CL-CONT continuations library in its implementation. [MIT](https://opensource.org/licenses/MIT).
 
 ### Actors pattern / Third-party APIs
 
-*   [erlangen (⭐63)](https://github.com/eugeneia/erlangen) - Distributed, asynchronous message passing system for Clozure Common Lisp. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
-*   [Actors (⭐9)](https://github.com/aarvid/Actors) package for LispWorks ([announce](https://www.reddit.com/r/Common_Lisp/comments/77vsft/david_mcclains_actors_package_for_lispworks/)) [MIT](https://opensource.org/licenses/MIT).
-*   [common-lisp-actors (⭐99)](https://github.com/naveensundarg/Common-Lisp-Actors) - a simple and easy to use Actor system. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
-*   [memento-mori (⭐30)](https://github.com/zkat/memento-mori)-  a library for writing robust, actor-based systems. It draws inspiration from Erlang/OTP, particularly its crash-first approach to high-availability systems, as well as Akka. [MIT](https://opensource.org/licenses/MIT).
+*   [erlangen (⭐65)](https://github.com/eugeneia/erlangen) - Distributed, asynchronous message passing system for Clozure Common Lisp. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [Actors (⭐11)](https://github.com/aarvid/Actors) package for LispWorks ([announce](https://www.reddit.com/r/Common_Lisp/comments/77vsft/david_mcclains_actors_package_for_lispworks/)) [MIT](https://opensource.org/licenses/MIT).
+*   [common-lisp-actors (⭐103)](https://github.com/naveensundarg/Common-Lisp-Actors) - a simple and easy to use Actor system. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [memento-mori (⭐32)](https://github.com/zkat/memento-mori)-  a library for writing robust, actor-based systems. It draws inspiration from Erlang/OTP, particularly its crash-first approach to high-availability systems, as well as Akka. [MIT](https://opensource.org/licenses/MIT).
 
 ### Date and time / Third-party APIs
 
@@ -55,7 +55,7 @@
 
 ### Messaging
 
-*   [PeerLinks](https://peerlinks.io) is a MIT licensed distributed group messaging platform with a focus on building trust networks between people and explicit invites to the channels. At the moment there is a [nodejs library (⭐197)](https://github.com/peerlinks/peerlinks), [Desktop Client (⭐197)](https://github.com/peerlinks/peerlinks).
+*   [PeerLinks](https://peerlinks.io) is a MIT licensed distributed group messaging platform with a focus on building trust networks between people and explicit invites to the channels. At the moment there is a [nodejs library (⭐199)](https://github.com/peerlinks/peerlinks), [Desktop Client (⭐199)](https://github.com/peerlinks/peerlinks).
 
 ## [3. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -67,7 +67,7 @@
 
 ### ORM/ODM Extensions
 
-*   [crecto (⭐342)](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
+*   [crecto (⭐340)](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
 
 ## [5. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
@@ -77,8 +77,11 @@
     ![](https://img.shields.io/github/stars/BlazeSoftware/atoms.svg?style=social\&label=Star)
     [Demo](https://www.blazeui.com/components/buttons/),
     [Docs](https://www.blazeui.com/getting-started/install/),
-    [Repo (⭐1.5k)](https://github.com/BlazeSoftware/atoms)
+    [Repo (⭐1.6k)](https://github.com/BlazeSoftware/atoms)
     \| #SCSS
+
+### Stalled Development
+
 *   [**Base**](https://getbase.org) - Rock solid, responsive HTML/CSS framework.\
     ![](https://img.shields.io/github/stars/getbase/base.svg?style=social\&label=Star)
     [Docs (⭐1.2k)](https://github.com/getbase/base/blob/master/readme.md#documentation),
@@ -122,14 +125,14 @@
 
 ### Düsseldorf
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/iamjoyheron" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/iamjoyheron" height="70px" width="70px" align="left" alt="" />
 
 **Joy Heron**\
 Topics: Clojure, Web Apps, Security\
 <https://twitter.com/iamjoyheron>
 ### Karlsruhe
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/robinweser" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/robinweser" height="70px" width="70px" align="left" alt="" />
 
 **Robin Weser**\
 Topics: CSS, CSS in JS, React\
@@ -165,7 +168,7 @@ Topics: CSS, CSS in JS, React\
 
 ### Data Visualization on Maps
 
-*   [stadiamaps.com](https://stadiamaps.com/) — Map tiles, routing, navigation, and other geospatial APIs. 2,500 free map views and API requests / day for non-commercial usage and testing.
+*   [stadiamaps.com](https://stadiamaps.com/) — Map tiles, routing, navigation, and other geospatial APIs. Two thousand five hundred free map views and API requests/day for non-commercial usage and testing.
 
 ## [13. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
@@ -208,7 +211,7 @@ Topics: CSS, CSS in JS, React\
 
 ### Static Code Analysis
 
-*   [IKOS (⭐1.8k)](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation. \[NOSA 1.3]
+*   [IKOS (⭐1.9k)](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation. \[NOSA 1.3]
 
 ## [20. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Games & Comics
 
-- API: [Hyrule Compendium (⭐111)](https://github.com/gadhagod/Hyrule-Compendium-API)
+- API: [Hyrule Compendium (⭐158)](https://github.com/gadhagod/Hyrule-Compendium-API)
 
   Description: Data on all interactive items from The Legend of Zelda: BOTW
 
@@ -31,26 +31,26 @@
 
 ### Others / Third-party APIs
 
-*   [Vellum (⭐65)](https://github.com/sirherrbatka/vellum) - Data Frames for Common Lisp. BSD\_2Clause.
+*   [Vellum (⭐68)](https://github.com/sirherrbatka/vellum) - Data Frames for Common Lisp. BSD\_2Clause.
 *   [rtg-math (⭐50)](https://github.com/cbaggers/rtg-math/) - a selection of the math routines most commonly needed for making realtime graphics in lisp (2, 3 and 4 component vectors, 3x3 and 4x4 matrices, quaternions, spherical and polar coordinates). BSD\_2Clause.
 
 ### Matrix libraries / Third-party APIs
 
-*   [lisp-matrix (⭐66)](https://github.com/blindglobe/lisp-matrix) - A matrix package. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+*   [lisp-matrix (⭐67)](https://github.com/blindglobe/lisp-matrix) - A matrix package. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 
 ### Statistics / Third-party APIs
 
-*   [common-lisp-stat (⭐166)](https://github.com/blindglobe/common-lisp-stat/) - Common Lisp statistics library. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+*   [common-lisp-stat (⭐168)](https://github.com/blindglobe/common-lisp-stat/) - Common Lisp statistics library. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 
 ### Utils / Third-party APIs
 
-*   [cmu-infix (⭐29)](https://github.com/rigetti/cmu-infix) - A library for writing infix mathematical notation in Common Lisp. See also [polisher (⭐4)](https://github.com/mrcdr/polisher).
+*   [cmu-infix (⭐31)](https://github.com/rigetti/cmu-infix) - A library for writing infix mathematical notation in Common Lisp. See also [polisher (⭐5)](https://github.com/mrcdr/polisher).
 
 ## [3. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### JupyterLab Extensions
 
-*   [elyra (⭐1.6k)](https://github.com/elyra-ai/elyra) - A visual editor for creating and running notebook (or Python script) pipelines locally or remotely.
+*   [elyra (⭐1.7k)](https://github.com/elyra-ai/elyra) - A visual editor for creating and running notebook (or Python script) pipelines locally or remotely.
 
 ## [4. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
 
@@ -62,11 +62,11 @@
 
 ### Dependency injection
 
-*   [clip (⭐217)](https://github.com/juxt/clip)
+*   [clip (⭐218)](https://github.com/juxt/clip)
 
 ### Date and Time
 
-*   [tick (⭐551)](https://github.com/juxt/tick): Clojure(Script) library, intended as replacement for clj-time
+*   [tick (⭐559)](https://github.com/juxt/tick): Clojure(Script) library, intended as replacement for clj-time
 
 ## [6. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
@@ -100,8 +100,8 @@
 
 ### Components & Libraries / UI Components
 
-*   [@vueform/slider (⭐207)](https://github.com/vueform/slider) - Vue 3 slider component with multihandles, tooltips merging and formatting.
-*   [@vueform/toggle (⭐82)](https://github.com/vueform/toggle) - Vue 3 toggle component with labels, custom slots and styling options.
+*   [@vueform/slider (⭐236)](https://github.com/vueform/slider) - Vue 3 slider component with multihandles, tooltips merging and formatting.
+*   [@vueform/toggle (⭐93)](https://github.com/vueform/toggle) - Vue 3 toggle component with labels, custom slots and styling options.
 
 ### Components & Libraries / Scaffold
 
@@ -125,7 +125,7 @@
 
 ### IDE and Code Editing
 
-*   [Prepros](https://prepros.io/) - Prepros can compile Sass, Less, Stylus, Pug/Jade, Haml, Slim, CoffeeScript and TypeScript out of the box, reloads your browsers and makes it really easy to develop & test your websites so you can focus on making them perfect. You can also add your own tools with just a few clicks.
+*   [Prepros](https://prepros.io/) - Prepros can compile Sass, Less, Stylus, Pug/Jade, Haml, Slim, CoffeeScript, and TypeScript out of the box, reloads your browsers and makes it easy to develop & test your websites so you can focus on making them perfect. You can also add your own tools with just a few clicks.
 
 ## [12. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 
@@ -141,7 +141,7 @@
 
 ### Third-Party Packages / Full-stack frameworks
 
-*   [Reactor (⭐554)](https://github.com/edelvalle/reactor/) - Phoenix LiveView, but for Django.
+*   [Reactor (⭐586)](https://github.com/edelvalle/reactor/) - Phoenix LiveView, but for Django.
 *   [Sockpuppet](https://sockpuppet.argpar.se/) - Build reactive applications with the Django tooling you already know and love.
 *   [Unicorn](https://www.django-unicorn.com/) - A reactive component framework that progressively enhances a normal Django view, makes AJAX calls in the background, and dynamically updates the DOM.
 

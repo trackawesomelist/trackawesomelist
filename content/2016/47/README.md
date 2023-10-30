@@ -212,13 +212,13 @@
 
 ### Applications / Themes
 
-*   [Eevee (⭐174)](https://github.com/pizn/eevee) - Based on Github page online editing blog platform. The project is based React, Ant Design and GitHub API.
+*   [Eevee (⭐175)](https://github.com/pizn/eevee) - Based on Github page online editing blog platform. The project is based React, Ant Design and GitHub API.
 
 ## [9. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Ahead-of-Time Compilation / Components
 
-*   [Code Example with Webpack (⭐315)](https://github.com/blacksonic/angular2-aot-webpack)
+*   [Code Example with Webpack (⭐313)](https://github.com/blacksonic/angular2-aot-webpack)
 *   [Code Example with Rollup (⭐81)](https://github.com/mgechev/angular2-ngc-rollup-build)
 
 ## [10. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
@@ -367,7 +367,7 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 ### Math / Other
 
-*   [Math snippets (⭐103)](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
+*   [Math snippets (⭐106)](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
 
 ## [25. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
@@ -454,11 +454,11 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 ### Frameworks, Libraries and Tools / Mail
 
-*   [SendGrid Client (⭐14)](https://github.com/0xdeafcafe/sendgrid-dotnet) - C# library for the SendGrid v3 mail endpoint.
+*   [SendGrid Client (⭐15)](https://github.com/0xdeafcafe/sendgrid-dotnet) - C# library for the SendGrid v3 mail endpoint.
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [PdfReport.Core (⭐320)](https://github.com/VahidN/PdfReport.Core) - PdfReport.Core is a code first reporting engine, which is built on top of the iTextSharp.LGPLv2.Core and EPPlus.Core libraries.
+*   [PdfReport.Core (⭐346)](https://github.com/VahidN/PdfReport.Core) - PdfReport.Core is a code first reporting engine, which is built on top of the iTextSharp.LGPLv2.Core and EPPlus.Core libraries.
 
 ## [28. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
@@ -470,7 +470,7 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 ### Distributed Programming
 
-*   [Skale (⭐396)](https://github.com/skale-me/skale-engine) - High performance distributed data processing in NodeJS.
+*   [Skale (⭐397)](https://github.com/skale-me/skale-engine) - High performance distributed data processing in NodeJS.
 
 ## [30. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/week/README.md)
 
@@ -488,7 +488,7 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 ### Timeline / Runner
 
-*   [TimelineJS v3 (⭐2.7k)](https://github.com/NUKnightLab/TimelineJS3) - A Storytelling Timeline built in JavaScript.
+*   [TimelineJS v3 (⭐2.8k)](https://github.com/NUKnightLab/TimelineJS3) - A Storytelling Timeline built in JavaScript.
 *   [timesheet.js (⭐6.9k)](https://github.com/sbstjn/timesheet.js) - JavaScript library for simple HTML5 & CSS3 time sheets.
 
 ### Notifications / Runner
@@ -499,7 +499,7 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 ### Java / Git
 
-*   [keywhiz (⭐2.5k)](https://github.com/square/keywhiz) - A system for distributing and managing secrets.
+*   [keywhiz (⭐2.6k)](https://github.com/square/keywhiz) - A system for distributing and managing secrets.
 
 ## [33. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -724,13 +724,13 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 ### Cryptography
 
-*   [mbedTLS (⭐4.2k)](https://github.com/ARMmbed/mbedtls) - An open source, portable, easy to use, readable and flexible SSL library, previously known as PolarSSL. \[Apache2] [website](https://tls.mbed.org/)
+*   [mbedTLS (⭐4.5k)](https://github.com/ARMmbed/mbedtls) - An open source, portable, easy to use, readable and flexible SSL library, previously known as PolarSSL. \[Apache2] [website](https://tls.mbed.org/)
 
 ## [41. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### UI / Barcode
 
-*   [HGCircularSlider (⭐2.4k)](https://github.com/HamzaGhazouani/HGCircularSlider) - A custom reusable circular slider control for iOS application.
+*   [HGCircularSlider (⭐2.5k)](https://github.com/HamzaGhazouani/HGCircularSlider) - A custom reusable circular slider control for iOS application.
 
 ## [42. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 

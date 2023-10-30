@@ -36,11 +36,11 @@
 
 ### Build Automation
 
-*   [Nuke (⭐1.9k)](https://github.com/nuke-build/nuke) - Cross-platform build automation system
+*   [Nuke (⭐2.1k)](https://github.com/nuke-build/nuke) - Cross-platform build automation system
 
 ### Image Processing
 
-*   [OpenCvSharp (⭐4.6k)](https://github.com/shimat/opencvsharp/) - Cross platform wrapper of OpenCV for .NET Framework.
+*   [OpenCvSharp (⭐4.8k)](https://github.com/shimat/opencvsharp/) - Cross platform wrapper of OpenCV for .NET Framework.
 
 ### Logging
 
@@ -48,19 +48,19 @@
 
 ### PDF
 
-*   [PdfiumViewer (⭐861)](https://github.com/pvginkel/PdfiumViewer) - PdfiumViewer is a PDF viewer based on the PDFium project.
+*   [PdfiumViewer (⭐897)](https://github.com/pvginkel/PdfiumViewer) - PdfiumViewer is a PDF viewer based on the PDFium project.
 
 ## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
-*   [CondenserDotNet (⭐160)](https://github.com/Drawaes/CondenserDotNet) - API Condenser / Reverse Proxy using Kestrel and Consul, Including light weight consul library.
+*   [CondenserDotNet (⭐167)](https://github.com/Drawaes/CondenserDotNet) - API Condenser / Reverse Proxy using Kestrel and Consul, Including light weight consul library.
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Swift / General-Purpose Machine Learning
 
-*   [Awesome Core ML Models (⭐5.8k)](https://github.com/likedan/Awesome-CoreML-Models) - A curated list of machine learning models in CoreML format.
+*   [Awesome Core ML Models (⭐5.9k)](https://github.com/likedan/Awesome-CoreML-Models) - A curated list of machine learning models in CoreML format.
 
 ## [7. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 

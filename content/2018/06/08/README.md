@@ -18,13 +18,7 @@
 
 *   [Debugger for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
 
-## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
-
-### Graphics
-
-*   [bs::framework (⭐1.7k)](https://github.com/GameFoundry/bsf) - Modern C++14 library for the development of real-time graphical applications. \[MIT]
-
-## [4. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
+## [3. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
 
 ### Programming Language Design Patterns
 
@@ -64,28 +58,30 @@
 *   [cloud-security](https://www.infoq.com/articles/cloud-security-architecture-intro) - Cloud security architecture intro.
 *   [owasp](https://www.owasp.org/index.php/Security_by_Design_Principles) - Security by Design Principles.
 
-## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Mobile
 
-*   [json-mop (⭐57)](https://github.com/gschjetne/json-mop) - A metaclass for bridging CLOS and JSON objects. [MIT](https://opensource.org/licenses/MIT).
-*   [arrow-macros (⭐107)](https://github.com/hipeta/arrow-macros) - Clojure-like threading macros. [MIT](https://opensource.org/licenses/MIT).
+*   [json-mop (⭐58)](https://github.com/gschjetne/json-mop) - A metaclass for bridging CLOS and JSON objects. [MIT](https://opensource.org/licenses/MIT).
+*   [arrow-macros (⭐113)](https://github.com/hipeta/arrow-macros) - Clojure-like threading macros. [MIT](https://opensource.org/licenses/MIT).
 
-### Deployment / Isomorphic web frameworks
-
-*   [heroku-buildpack-common-lisp](https://gitlab.com/duncan-bayne/heroku-buildpack-common-lisp) - A Heroku buildpack that uses Roswell to compile Common Lisp applications. LGPL3.
-
-## [6. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/README.md)
+## [5. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/README.md)
 
 ### Web Apps (frontend only) / [Codesandbox](https://github.com/CompuIves/codesandbox-client)
 
 *   GNU General Public License
 
+## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Lisp / TeX
+
+*   [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
+
 ## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Cache
 
-*   [Carlos (⭐639)](https://github.com/spring-media/Carlos) - A simple but flexible cache.
+*   [Carlos (⭐641)](https://github.com/spring-media/Carlos) - A simple but flexible cache.
 
 ## [8. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
@@ -97,11 +93,11 @@
 
 ### Game Disassemblies / Syntax highlighting packages
 
-*   [Pokémon Yellow (⭐577)](https://github.com/pret/pokeyellow)
-*   [Pokémon Gold and Silver (⭐397)](https://github.com/pret/pokegold)
-*   [pokegold-spaceworld (⭐297)](https://github.com/pret/pokegold-spaceworld) - Pokémon Gold and Silver 1997 Space World demo.
-*   [Link's Awakening DX (⭐740)](https://github.com/mojobojo/LADX-Disassembly)
-*   [Oracle of Ages (⭐131)](https://github.com/drenn1/ages-disasm)
+*   [Pokémon Yellow (⭐611)](https://github.com/pret/pokeyellow)
+*   [Pokémon Gold and Silver (⭐426)](https://github.com/pret/pokegold)
+*   [pokegold-spaceworld (⭐319)](https://github.com/pret/pokegold-spaceworld) - Pokémon Gold and Silver 1997 Space World demo.
+*   [Link's Awakening DX (⭐760)](https://github.com/mojobojo/LADX-Disassembly)
+*   [Oracle of Ages (⭐140)](https://github.com/drenn1/ages-disasm)
 *   [FX Hammer (⭐7)](https://github.com/DevEd2/FXHammer-Disasm)
 *   [Harvest Moon 3 (⭐16)](https://github.com/sanqui/hm3)
 

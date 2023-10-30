@@ -10,7 +10,7 @@
 
 ### Academic papers / Ruby
 
-*   [Gramacki et al. - "gtfs2vec - Learning GTFS Embeddings for comparing Public Transport Offer in Microregions"](https://github.com/CUTR-at-USF/awesome-transit/blob/master/README.md/2021) - Methology using Uber's H3 spatial index and machine learning to identify areas of "similar" public transit service quality in cities. Source code available [on GitHub (⭐5)](https://github.com/pwr-inf/gtfs2vec).
+*   [Gramacki et al. - "gtfs2vec - Learning GTFS Embeddings for comparing Public Transport Offer in Microregions"](https://github.com/CUTR-at-USF/awesome-transit/blob/master/README.md/2021) - Methology using Uber's H3 spatial index and machine learning to identify areas of "similar" public transit service quality in cities. Source code available [on GitHub (⭐7)](https://github.com/pwr-inf/gtfs2vec).
 
 ## [2. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
@@ -70,13 +70,13 @@
 
 ### Debugging
 
-*   [Scyther (⭐90)](https://github.com/bstillitano/Scyther) - A full-featured, in-app debugging menu packed full of useful tools including network logging, layout inspection, location spoofing, console logging and so much more.
+*   [Scyther (⭐93)](https://github.com/bstillitano/Scyther) - A full-featured, in-app debugging menu packed full of useful tools including network logging, layout inspection, location spoofing, console logging and so much more.
 
 ## [6. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
 ### Client Libraries
 
-*   [Subscan Go Utilities (⭐170)](https://github.com/itering/subscan-essentials) - SS58 and more, developed by Subscan.
+*   [Subscan Go Utilities (⭐178)](https://github.com/itering/subscan-essentials) - SS58 and more, developed by Subscan.
 
 ### Tools
 
@@ -134,26 +134,26 @@
 
 ### CBOR
 
-*   [CBORCoding (⭐23)](https://github.com/SomeRandomiOSDev/CBORCoding) :penguin: - Easy CBOR encoding and decoding for iOS, macOS, tvOS and watchOS.
+*   [CBORCoding (⭐26)](https://github.com/SomeRandomiOSDev/CBORCoding) :penguin: - Easy CBOR encoding and decoding for iOS, macOS, tvOS and watchOS.
 
 ## [10. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### Database
+### Database / Text-Based User Interfaces
 
-*   [ArangoDB (⭐191)](https://github.com/arangodb/arangodb-java-driver) - ArangoDB Java driver.
+*   [ArangoDB (⭐196)](https://github.com/arangodb/arangodb-java-driver) - ArangoDB Java driver.
 
-### Miscellaneous
+### Miscellaneous / Text-Based User Interfaces
 
 *   [JObfuscator![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg)](https://www.pelock.com/products/jobfuscator) - Source code obfuscator.
 
-### Monitoring
+### Monitoring / Text-Based User Interfaces
 
-*   [Sentry ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg) (⭐923)](https://github.com/getsentry/sentry-java) - Integration with [Sentry (⭐33k)](https://github.com/getsentry/sentry), an application error tracking and performance analysis platform.
+*   [Sentry ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg) (⭐1k)](https://github.com/getsentry/sentry-java) - Integration with [Sentry (⭐35k)](https://github.com/getsentry/sentry), an application error tracking and performance analysis platform.
 
 ### Template Engine / Other
 
-*   [Jamal (⭐30)](https://github.com/verhas/jamal) - Extendable template engine embedded into Maven/JavaDoc, supporting multiple extensions (Groovy, Ruby, JavaScript, JShell, PlantUml) with support for snippet handling.
-*   [jte (⭐472)](https://github.com/casid/jte) - Compiles to classes, and uses an easy syntax, several features to make development easier and provides fast execution and a small footprint.
+*   [Jamal (⭐49)](https://github.com/verhas/jamal) - Extendable template engine embedded into Maven/JavaDoc, supporting multiple extensions (Groovy, Ruby, JavaScript, JShell, PlantUml) with support for snippet handling.
+*   [jte (⭐605)](https://github.com/casid/jte) - Compiles to classes, and uses an easy syntax, several features to make development easier and provides fast execution and a small footprint.
 
 ### People / Other
 
@@ -163,7 +163,7 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-require-transform (⭐55)](https://github.com/WarrenJones/vite-plugin-require-transform) - Converts the code from require syntax to import.
+*   [vite-plugin-require-transform (⭐70)](https://github.com/WarrenJones/vite-plugin-require-transform) - Converts the code from require syntax to import.
 
 ## [12. Nginx Resources](/content/fcambus/nginx-resources/README.md)
 
@@ -186,13 +186,13 @@
 
 ### Tools & Software / Replay
 
-*   [warc2html (⭐29)](https://github.com/iipc/warc2html) - Converts WARC files to static HTML suitable for browsing offline or rehosting.
+*   [warc2html (⭐31)](https://github.com/iipc/warc2html) - Converts WARC files to static HTML suitable for browsing offline or rehosting.
 
 ## [15. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### RSS services powered by utilizing GitHub / Outline Processor Markup Language
 
-*   [Bubo reader (⭐95)](https://github.com/georgemandis/bubo-rss): a hyper-minimalist RSS and JSON feed reader you can deploy on Netlify or Glitch [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/georgemandis/bubo-rss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)([Deploy on Github (⭐29)](https://github.com/kevinfiol/reader)-personal fork)
+*   [Bubo reader (⭐141)](https://github.com/georgemandis/bubo-rss): a hyper-minimalist RSS and JSON feed reader you can deploy on Netlify or Glitch [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/georgemandis/bubo-rss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)([Deploy on Github (⭐0)](https://github.com/kevinfiol/reader)-personal fork)
 
 ## [16. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 

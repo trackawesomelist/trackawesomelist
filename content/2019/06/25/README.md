@@ -45,7 +45,7 @@
 
 ### HTTP
 
-*   [sse.cr (⭐22)](https://github.com/y2k2mt/sse.cr) - [Server-Sent Events](https://www.w3.org/TR/2009/WD-eventsource-20090421) client
+*   [sse.cr (⭐20)](https://github.com/y2k2mt/sse.cr) - [Server-Sent Events](https://html.spec.whatwg.org/multipage/server-sent-events.html) client
 
 ## [6. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
@@ -112,15 +112,15 @@
 
 ### Frameworks, Libraries and Tools / GUI
 
-*   [ShellProgressBar (⭐1.2k)](https://github.com/Mpdreamz/shellprogressbar) - library to create progress bars in console programs
+*   [ShellProgressBar (⭐1.4k)](https://github.com/Mpdreamz/shellprogressbar) - library to create progress bars in console programs
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [ReflectionMagic (⭐281)](https://github.com/ReflectionMagic/ReflectionMagic) - Framework to drastically simplify your private reflection code using C# dynamic
+*   [ReflectionMagic (⭐318)](https://github.com/ReflectionMagic/ReflectionMagic) - Framework to drastically simplify your private reflection code using C# dynamic
 
 ### Frameworks, Libraries and Tools / Template Engine
 
-*   [Scriban (⭐2.2k)](https://github.com/lunet-io/scriban) - A fast, powerful, safe and lightweight text templating language and engine for .NET.
+*   [Scriban (⭐2.6k)](https://github.com/lunet-io/scriban) - A fast, powerful, safe and lightweight text templating language and engine for .NET.
 
 ## [15. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
 

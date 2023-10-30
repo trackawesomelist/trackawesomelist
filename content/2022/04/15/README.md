@@ -20,7 +20,7 @@
 
 ## [3. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Algorithms, Containers and Protocols / MIT
+### Algorithms, Containers and Protocols / Apache License
 
 *   [chests (⭐3)](https://github.com/JeremyGrosser/chests) - Chests are bounded containers.
 
@@ -55,31 +55,31 @@
 
 ### Overview / YouTube
 
-*   [YouTube.js (⭐2.5k)](https://github.com/LuanRT/YouTube.js): Full-featured wrapper around the Innertube API, which is what YouTube itself uses
-*   [oleksis/youtube-dl-gui (⭐974)](https://github.com/oleksis/youtube-dl-gui): Cross-platform front-end GUI of the popular youtube-dl written in wxPython
+*   [YouTube.js (⭐2.6k)](https://github.com/LuanRT/YouTube.js): Full-featured wrapper around the Innertube API, which is what YouTube itself uses
+*   [oleksis/youtube-dl-gui (⭐1.2k)](https://github.com/oleksis/youtube-dl-gui): Cross-platform front-end GUI of the popular youtube-dl written in wxPython
 
 ### Overview / Google Translate
 
-*   [Crow Translate (⭐1.2k)](https://github.com/crow-translate/crow-translate): Simple and lightweight cross-platform translator that allows translation using LibreTranslate, Lingva, Google, Bing, and Yandex, as well as text-to-speech using Google
+*   [Crow Translate (⭐1.4k)](https://github.com/crow-translate/crow-translate): Simple and lightweight cross-platform translator that allows translation using LibreTranslate, Lingva, Google, Bing, and Yandex, as well as text-to-speech using Google
 
 ### Overview / Mastodon
 
-*   [Sengi (⭐427)](https://github.com/NicolasConstant/sengi): cross-platform multi-account Mastodon & Pleroma desktop client
-*   [TheDesk (⭐238)](https://github.com/cutls/TheDesk): cross-platform Mastodon & Misskey desktop client
-*   [Tusky (⭐2k)](https://github.com/tuskyapp/Tusky): lightweight Android Mastodon client
+*   [Sengi (⭐473)](https://github.com/NicolasConstant/sengi): cross-platform multi-account Mastodon & Pleroma desktop client
+*   [TheDesk (⭐260)](https://github.com/cutls/TheDesk): cross-platform Mastodon & Misskey desktop client
+*   [Tusky (⭐2.2k)](https://github.com/tuskyapp/Tusky): lightweight Android Mastodon client
 *   [Pinafore (⭐1k)](https://github.com/nolanlawson/pinafore): Alternative web client for Mastodon, focused on speed and simplicity **[Unmaintained](https://nolanlawson.com/2023/01/09/retiring-pinafore/)**
 *   [Hyperspace (⭐178)](https://github.com/hyperspacedev/hyperspace): cross-platform Mastodon client for the fediverse written in TypeScript and React **[In maintenance mode (⭐178)](https://github.com/hyperspacedev/hyperspace/issues/232)**
 
 ### Overview / Telegram
 
-*   [Telegram-FOSS (⭐2.1k)](https://github.com/Telegram-FOSS-Team/Telegram-FOSS): Unofficial, FOSS-friendly fork of the original Telegram client for Android
+*   [Telegram-FOSS (⭐2.2k)](https://github.com/Telegram-FOSS-Team/Telegram-FOSS): Unofficial, FOSS-friendly fork of the original Telegram client for Android
 
 ## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / React
 
-*   [vite-ant-design-pro (⭐66)](https://github.com/1247748612/vite-ant-design-pro) - React + antd + ProComponents + ReactQuery + ReactRouter6.
-*   [vite-react-proste (⭐10)](https://github.com/xyhxx/vite-react-proste) - React + TypeScript + `react-router-dom` + Recoil + SASS + Testing Library + `react-query` + ESLint + Stylelint + Prettier.
+*   [vite-ant-design-pro (⭐80)](https://github.com/1247748612/vite-ant-design-pro) - React + antd + ProComponents + ReactQuery + ReactRouter6.
+*   [vite-react-proste (⭐13)](https://github.com/xyhxx/vite-react-proste) - React + TypeScript + `react-router-dom` + Recoil + SASS + Testing Library + `react-query` + ESLint + Stylelint + Prettier.
 
 ## [9. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
 
@@ -95,7 +95,7 @@
 *   :earth\_americas: [elf (FreeBSD manual pages)](https://www.freebsd.org/cgi/man.cgi?elf\(5\))
 *   :earth\_americas: [FatELF: Universal binaries for Linux (HALTED)](https://icculus.org/fatelf)
 *   :pushpin: [Mach-O - A look at apple executable files](https://redmaple.tech/blogs/macho-files)
-*   :earth\_americas: [Mach-O file format reference (⭐636)](https://github.com/aidansteele/osx-abi-macho-file-format-reference)
+*   :earth\_americas: [Mach-O file format reference (⭐676)](https://github.com/aidansteele/osx-abi-macho-file-format-reference)
 *   :earth\_americas: [MITRE ATT\&CK | T1027.002 | obfuscated files or information: Software packing](https://attack.mitre.org/techniques/T1027/002)
 *   :pushpin: [Parsing mach-O files](https://lowlevelbits.org/parsing-mach-o-files)
 
@@ -119,7 +119,7 @@
 
 ### :bookmark_tabs: Datasets / Scientific Research
 
-*   [MaleX (⭐21)](https://github.com/Mayachitra-Inc/MaleX) - Curated dataset of malware and benign Windows executable samples for malware researchers containing 1,044,394 Windows executable binaries and corresponding image representations with 864,669 labelled as malware and 179,725 as benign.
+*   [MaleX (⭐28)](https://github.com/Mayachitra-Inc/MaleX) - Curated dataset of malware and benign Windows executable samples for malware researchers containing 1,044,394 Windows executable binaries and corresponding image representations with 864,669 labelled as malware and 179,725 as benign.
 
 ### :package: Packers / Before 2000
 
@@ -147,7 +147,7 @@
 
 ### Crates / Component Libraries
 
-*   [tailyew (⭐14)](https://github.com/fuzzycloud/tailyew) - Yew wrapper around DaisyUI (tailwindcss based) components.
+*   [tailyew (⭐15)](https://github.com/fuzzycloud/tailyew) - Yew wrapper around DaisyUI (tailwindcss based) components.
 
 ## [13. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 

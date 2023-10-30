@@ -1,6 +1,6 @@
 # Awesome List Updates on May 18, 2023
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -30,13 +30,13 @@ Topics: JavaScript, Node.js, JS Architecture\
 
 ### Hamburg
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/aemkei" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/aemkei" height="70px" width="70px" align="left" alt="" />
 
 **Martin Kleppe**\
 Topics: Weird JS\
 <https://twitter.com/aemkei>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/PalmaSwell" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/PalmaSwell" height="70px" width="70px" align="left" alt="" />
 
 **Mauricio Palma**\
 Topics: CSS, JavaScript\
@@ -46,7 +46,7 @@ Topics: CSS, JavaScript\
 
 ### Novi Sad
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/stn1slv" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/stn1slv" height="70px" width="70px" align="left" alt="" />
 
 **Stanislav Deviatov**\
 Topics: Kafka, Mulesoft, API Management, Integration Platforms\
@@ -56,7 +56,7 @@ Topics: Kafka, Mulesoft, API Management, Integration Platforms\
 
 ### Virginia Beach
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bytes__" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/bytes__" height="70px" width="70px" align="left" alt="" />
 
 **Kurtis Kemple**\
 Topics: React, React Native, GraphQL, Universal Components\
@@ -66,7 +66,7 @@ Topics: React, React Native, GraphQL, Universal Components\
 
 ### Boilerplates
 
-*   [Next.js Enterprise (⭐70)](https://github.com/Blazity/next-enterprise) - enterprise-grade boilerplate for high-performance, maintainable apps. Built with Tailwind CSS, RadixUI, TypeScript and more.
+*   [Next.js Enterprise (⭐4.5k)](https://github.com/Blazity/next-enterprise) - enterprise-grade boilerplate for high-performance, maintainable apps. Built with Tailwind CSS, RadixUI, TypeScript and more.
 
 ## [3. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
@@ -74,25 +74,19 @@ Topics: React, React Native, GraphQL, Universal Components\
 
 *   [Vert.x Auth SQL (⭐144)](https://github.com/eclipse-vertx/vertx-auth)  <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Vert.x authentication/authorisation based on the Vert.x SQL client and a relational database.
 
-## [4. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Learn / Articles
+### Inbox: Large Language Models (LLMs) / Autonomous LLM Agents
 
-*   [Build a Simple ChatGPT CLI with memory](https://getmetal.io/posts/07-tutorial-motorhead-cli)
+*   [101dotxyz/GPTeam (⭐1.4k)](https://github.com/101dotxyz/GPTeam): "GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals"
 
-## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
-
-### Inbox: Large Language Models / Autonomous LLM Agents
-
-*   [101dotxyz/GPTeam (⭐375)](https://github.com/101dotxyz/GPTeam): "GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals"
-
-### Inbox: Large Language Models / Text-related Generative Tools
+### Inbox: Large Language Models (LLMs) / Text-related Generative Tools
 
 *   [Plus AI for Google Slides](https://www.plusdocs.com/plus-ai-for-google-slides): Create AI-powered presentations in Google Slides
 
-## [6. Awesome Product Management](/content/dend/awesome-product-management/README.md)
+## [5. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [You Won't Regret Positive Feedback](https://zachholman.com/posts/positive-feedback/) - By [Zach Holman](https://zachholman.com).
 *   [A Minimum Viable Product Is Not a Product, It's a Process](https://www.ycombinator.com/library/4Q-a-minimum-viable-product-is-not-a-product-it-s-a-process) - By [Yevgeniy Brikman](https://www.ycombinator.com/blog/author/yevgeniy-brikman).
@@ -105,27 +99,30 @@ Topics: React, React Native, GraphQL, Universal Components\
 *   [The Art of Persuasion Hasn't Changed in 2,000 Years](https://hbr.org/2019/07/the-art-of-persuasion-hasnt-changed-in-2000-years) - By [Carmine Gallo](https://hbr.org/search?term=carmine%20gallo).
 *   [It's Time to Fight for a Dual Product Management Career Path](https://www.bringthedonuts.com/essays/dual-product-management-career-path/) - By [Ken Norton](https://www.bringthedonuts.com/).
 
-### Conferences / Screeb
+### Conferences / Obsidian
 
 *   [La Product Conf](https://www.laproductconf.com/) - Organized by Thiga, La Product Conf (LPC) takes place once a year with events in Paris (France) and Madrid (Spain). The speaker lineup features product leaders from Pinterest, Carrefour, Payfit, Google, Meetic and more.
 
-## [7. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
+## [6. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
 
 ### Browser-Based / Others
 
-*   [Double Damnation (⭐13)](https://github.com/TheYellowArchitect/doubledamnation) - Exclusively Co-Op Metroidvania with Smash Bros Melee Movement.
+*   [Double Damnation (⭐14)](https://github.com/TheYellowArchitect/doubledamnation) - Exclusively Co-Op Metroidvania with Smash Bros Melee Movement.
 
-## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [base16 (⭐28)](https://github.com/tinted-theming/base16-shell) - Adds a script to allow you to change your shell's default ANSI colors but most importantly, colors 17 to 21 of your shell's 256 colorspace (if supported by your terminal). This script makes it possible to honor the original bright colors of your shell (e.g. bright green is still green and so on) while providing additional base16 colors to applications such as [Vim](https://www.vim.org).
+*   [base16 (⭐36)](https://github.com/tinted-theming/base16-shell) - Adds a script to allow you to change your shell's default ANSI colors but most importantly, colors 17 to 21 of your shell's 256 colorspace (if supported by your terminal). This script makes it possible to honor the original bright colors of your shell (e.g. bright green is still green and so on) while providing additional base16 colors to applications such as [Vim](https://www.vim.org).
 
-## [9. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
-### AlgoKit Templates
+### AlgoKit Templates / Official
 
-*   [algokit-beaker-default-template (⭐3)](https://github.com/algorandfoundation/algokit-beaker-default-template) - Official AlgoKit beaker template provides a production-ready baseline for developing and deploying Beaker smart contracts.
+*   [algokit-beaker-default-template (⭐5)](https://github.com/algorandfoundation/algokit-beaker-default-template) - Official AlgoKit beaker template provides a production-ready baseline for developing and deploying Beaker smart contracts. Also serves as a reference for template builders on implementing smart-contract-only algokit templates.
+
+### AlgoKit Templates / Community
+
 *   [algokit-tealish-template (⭐0)](https://github.com/aorumbayev/algokit-tealish-template) - AlgoKit community template for quick starting a smart contract project with tealish and algojig.
 
 ---

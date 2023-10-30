@@ -20,11 +20,11 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Enums.NET (⭐1.4k)](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET is a high-performance type-safe .NET enum utility library
+*   [Enums.NET (⭐1.5k)](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET is a high-performance type-safe .NET enum utility library
 
 ### Frameworks, Libraries and Tools / Testing
 
-*   [NSpec (⭐249)](https://github.com/nspec/NSpec) - Battle hardened testing framework for C# that's heavily inspired by Mocha and RSpec.
+*   [NSpec (⭐255)](https://github.com/nspec/NSpec) - Battle hardened testing framework for C# that's heavily inspired by Mocha and RSpec.
 
 ## [3. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
@@ -38,7 +38,7 @@
 ### Developer
 
 *   [Dash](https://kapeli.com/dash) - Allows you to query Dash for Developer Documentation.
-*   [DevDocs (⭐637)](https://github.com/yannickglt/alfred-devdocs) - An Alternative to Dash. Allows you query [devdocs.io](https://devdocs.io/) for documentation.
+*   [DevDocs (⭐638)](https://github.com/yannickglt/alfred-devdocs) - An Alternative to Dash. Allows you query [devdocs.io](https://devdocs.io/) for documentation.
 
 ### Text Manipulation
 
@@ -46,7 +46,7 @@
 
 ### Scientific
 
-*   [Scientific Workflow (⭐102)](https://github.com/andrewning/alfred-workflows-scientific) - Workflows that are useful for scientists: e.g. LaTeX, importing references in bibtex.
+*   [Scientific Workflow (⭐103)](https://github.com/andrewning/alfred-workflows-scientific) - Workflows that are useful for scientists: e.g. LaTeX, importing references in bibtex.
 
 ### Miscellaneous
 

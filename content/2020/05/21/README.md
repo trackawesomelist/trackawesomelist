@@ -49,7 +49,7 @@
 
 ### Component bundles
 
-*   [Ant Design Blazor (⭐4.9k)](https://github.com/ant-design-blazor/ant-design-blazor) - ![GitHub stars](https://img.shields.io/github/stars/ant-design-blazor/ant-design-blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ant-design-blazor/ant-design-blazor?style=flat-square\&cacheSeconds=86400) A set of enterprise-class UI components based on Ant Design and Blazor. ([Docs as Demo](https://ant-design-blazor.github.io/)).
+*   [Ant Design Blazor (⭐5.2k)](https://github.com/ant-design-blazor/ant-design-blazor) - ![GitHub stars](https://img.shields.io/github/stars/ant-design-blazor/ant-design-blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ant-design-blazor/ant-design-blazor?style=flat-square\&cacheSeconds=86400) A set of enterprise-class UI components based on Ant Design and Blazor. ([Docs as Demo](https://ant-design-blazor.github.io/)).
 
 ## [8. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -81,14 +81,14 @@
 ### Overlay
 
 *   [sweetalert2 (⭐16k)](https://github.com/sweetalert2/sweetalert2) - [demo/docs](https://sweetalert2.github.io/) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
-*   [sweetalert2-react-content (⭐588)](https://github.com/sweetalert2/sweetalert2-react-content) - Official SweetAlert2 enhancer adding support for React elements as content
+*   [sweetalert2-react-content (⭐638)](https://github.com/sweetalert2/sweetalert2-react-content) - Official SweetAlert2 enhancer adding support for React elements as content
 
 ## [10. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI / Bottom Sheets
 
-*   [Rubber Bottom Sheet (⭐485)](https://github.com/mcrovero/rubber) <!--stargazers:mcrovero/rubber--> - Elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
-*   [Modal Bottom Sheet (⭐1.5k)](https://github.com/jamesblasco/modal_bottom_sheet) <!--stargazers:jamesblasco/modal_bottom_sheet--> - Modal bottom sheet with Material, Cupertino iOS13 or custom appareance by [Jaime Blasco](https://github.com/jamesblasco).
+*   [Rubber Bottom Sheet (⭐525)](https://github.com/mcrovero/rubber) <!--stargazers:mcrovero/rubber--> - Elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
+*   [Modal Bottom Sheet (⭐1.6k)](https://github.com/jamesblasco/modal_bottom_sheet) <!--stargazers:jamesblasco/modal_bottom_sheet--> - Modal bottom sheet with Material, Cupertino iOS13 or custom appareance by [Jaime Blasco](https://github.com/jamesblasco).
 
 ## [11. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -124,7 +124,7 @@
 
 ### Integrations
 
-*   [preact-custom-element (⭐296)](https://github.com/preactjs/preact-custom-element) - Generate/register a custom element from a preact component.
+*   [preact-custom-element (⭐321)](https://github.com/preactjs/preact-custom-element) - Generate/register a custom element from a preact component.
 
 ### Benchmarks
 
@@ -135,7 +135,7 @@
 
 ### Security
 
-- API: [Mozilla http scanner (⭐1.7k)](https://github.com/mozilla/http-observatory/blob/master/httpobs/docs/api.md)
+- API: [Mozilla http scanner (⭐1.8k)](https://github.com/mozilla/http-observatory/blob/master/httpobs/docs/api.md)
 
   Description: Mozilla observatory http scanner
 
@@ -146,7 +146,7 @@
   CORS: Unknown
 
 
-- API: [Mozilla tls scanner (⭐504)](https://github.com/mozilla/tls-observatory#api-endpoints)
+- API: [Mozilla tls scanner (⭐519)](https://github.com/mozilla/tls-observatory#api-endpoints)
 
   Description: Mozilla observatory tls scanner
 
@@ -168,13 +168,13 @@
 
 ### Neural Natural Language Generation
 
-*   [aitextgen (⭐1.7k)](https://github.com/minimaxir/aitextgen) - A robust Python tool for text-based AI training and generation using GPT-2.
+*   [aitextgen (⭐1.8k)](https://github.com/minimaxir/aitextgen) - A robust Python tool for text-based AI training and generation using GPT-2.
 
 ## [18. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Web utils
 
-*   [youtube-deno (⭐40)](https://github.com/akshgpt7/youtube-deno) - A Deno client library for the YouTube Data API for any interaction with YouTube.
+*   [youtube-deno (⭐42)](https://github.com/akshgpt7/youtube-deno) - A Deno client library for the YouTube Data API for any interaction with YouTube.
 
 ### Resources in Other Languages / Indonesian
 

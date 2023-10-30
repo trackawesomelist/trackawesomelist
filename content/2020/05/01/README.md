@@ -29,18 +29,14 @@
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [Mailcow](https://mailcow.email/) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. ([Source Code (⭐6.5k)](https://github.com/mailcow/mailcow-dockerized)) `GPL-2.0` `Docker/PHP`
-
-### Software / File Transfer - Single-click & Drag-n-drop Upload
-
-*   [Share (⭐103)](https://github.com/MrDemonWolf/share) - Simple yet advanced uploader - upload files, images and text with moderation tools for admins. Can be used for friends and family or just for you. Integration with ShareX and more. `MIT` `Nodejs`
+*   [Mailcow](https://mailcow.email/) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. ([Source Code (⭐7.1k)](https://github.com/mailcow/mailcow-dockerized)) `GPL-2.0` `Docker/PHP`
 
 ## [4. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
 ### Social
 
 *   [Social Media Icons Pack](https://www.fontfabric.com/fonts/social-media-icons-pack/) - Socialico is a package of 74 social media icons, combined within a single weight font.
-*   [Stackicons](http://stackicons.com/) - Over 60 icons for old social brands (last commit in [2014 (⭐973)](https://github.com/parkerbennett/stackicons), with multi-color option.
+*   [Stackicons](http://stackicons.com/) - Over 60 icons for old social brands (last commit in [2014 (⭐970)](https://github.com/parkerbennett/stackicons), with multi-color option.
 
 ## [5. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -52,7 +48,7 @@
 
 ### Map
 
-*   [react-svg-map (⭐206)](https://github.com/VictorCazanave/react-svg-map) - [demo](https://victorcazanave.github.io/react-svg-map/) - A set of components to display an interactive SVG map.
+*   [react-svg-map (⭐213)](https://github.com/VictorCazanave/react-svg-map) - [demo](https://victorcazanave.github.io/react-svg-map/) - A set of components to display an interactive SVG map.
 
 ---
 

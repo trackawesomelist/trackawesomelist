@@ -16,13 +16,13 @@
 
 ### Data Visualization / Graph Based approach
 
-*   Monte Carlo Tree Search Papers [awesome-monte-carlo-tree-search-papers (⭐486)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers).
+*   Monte Carlo Tree Search Papers [awesome-monte-carlo-tree-search-papers (⭐532)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers).
 
 ## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Mobile
 
-*   [rutils (⭐229)](https://github.com/vseloved/rutils) - radical yet reasonable syntactic utilities for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [rutils (⭐232)](https://github.com/vseloved/rutils) - radical yet reasonable syntactic utilities for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -104,13 +104,13 @@
 
 ### Others
 
-*   [Gilded Rose Original - C# (⭐344)](https://github.com/NotMyself/GildedRose)
+*   [Gilded Rose Original - C# (⭐368)](https://github.com/NotMyself/GildedRose)
 
 ## [10. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [Better code with DDD building blocks (⭐247)](https://github.com/asc-lab/better-code-with-ddd) - solution presents usage of DDD tactical patterns to achieve better readability and expressiveness of the code. Applying DDD patterns together with ubiquitous language closes the gap between language spoken by experts and the team and language used in the code.
+*   [Better code with DDD building blocks (⭐286)](https://github.com/asc-lab/better-code-with-ddd) - solution presents usage of DDD tactical patterns to achieve better readability and expressiveness of the code. Applying DDD patterns together with ubiquitous language closes the gap between language spoken by experts and the team and language used in the code.
 *   [Photostock CQRS-DDD Example (⭐7)](https://github.com/mr0zek/Photostock)
 
 ## [11. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
@@ -164,7 +164,7 @@
 
 ### Text
 
-*   [PostalCodeValidator (⭐211)](https://github.com/FormatterKit/PostalCodeValidator) - A validator for postal codes with support for 200+ regions.
+*   [PostalCodeValidator (⭐212)](https://github.com/FormatterKit/PostalCodeValidator) - A validator for postal codes with support for 200+ regions.
 
 ---
 

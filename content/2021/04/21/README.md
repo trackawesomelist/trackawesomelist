@@ -10,35 +10,31 @@
 
 ### Server Frameworks
 
-*   [Alfred (⭐443)](https://github.com/rknell/alfred) - Minimal ExpressJS-inspired server with routing and middlware.
+*   [Alfred (⭐500)](https://github.com/rknell/alfred) - Minimal ExpressJS-inspired server with routing and middlware.
 
-## [2. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [2. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
+
+### Tools / Reporting
+
+*   [gatling2allure (⭐6)](https://github.com/biski/gatling2allure) - Convert Gatling log to Allure report.
+
+## [3. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Commerce
 
 *   [Sitecore Commerce Engine USPS plugin (⭐1)](https://github.com/XCentium/SC-Plugin-USPS) - Allows the user to integrate USPS as a Fulfillment Method for shipping.
 
-## [3. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
-
-### Tools / Reporting
-
-*   [gatling2allure (⭐4)](https://github.com/biski/gatling2allure) - Convert Gatling log to Allure report.
-
-### Related / Awesome Lists
-
-*   [Awesome Software Quality (⭐2.1k)](https://github.com/ligurio/software-quality-wiki) - A list of free software testing and verification resources.
-
 ## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Utils / Other Tools
 
-*   [OpenTelemetry FastAPI Instrumentation (⭐407)](https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/instrumentation/opentelemetry-instrumentation-fastapi) - Library provides automatic and manual instrumentation of FastAPI web frameworks, instrumenting http requests served by applications utilizing the framework.
+*   [OpenTelemetry FastAPI Instrumentation (⭐481)](https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/instrumentation/opentelemetry-instrumentation-fastapi) - Library provides automatic and manual instrumentation of FastAPI web frameworks, instrumenting http requests served by applications utilizing the framework.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### BaaS
 
-*   [streamdata.io](https://streamdata.io/) — Turns any REST API into an event-driven streaming API. Free plan up to 1 million messages and 10 concurrent connections.
+*   [streamdata.io](https://streamdata.io/) — Turns any REST API into an event-driven streaming API. Free plan up to 1 million messages and ten concurrent connections.
 
 ## [6. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
@@ -50,11 +46,11 @@
 
 ### Python / Visualization
 
-*   [finvizfinance (⭐299)](https://github.com/lit26/finvizfinance) - Finviz analysis python library.
+*   [finvizfinance (⭐349)](https://github.com/lit26/finvizfinance) - Finviz analysis python library.
 
 ### Golang / Data Visualization
 
-*   [marketstore (⭐1.7k)](https://github.com/alpacahq/marketstore) - DataFrame Server for Financial Timeseries Data.
+*   [marketstore (⭐1.8k)](https://github.com/alpacahq/marketstore) - DataFrame Server for Financial Timeseries Data.
 
 ## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -100,13 +96,13 @@
 
 ### Motion / Stepper
 
-*   [ticlib (⭐11)](https://github.com/jphalip/ticlib) - Driver for Pololu Tic stepper motor controllers.
+*   [ticlib (⭐13)](https://github.com/jphalip/ticlib) - Driver for Pololu Tic stepper motor controllers.
 
 ## [13. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Network Protocols
 
-*   [stomp (⭐0)](https://github.com/spider-gazelle/stomp) - STOMP protocol
+*   [stomp (⭐1)](https://github.com/spider-gazelle/stomp) - STOMP protocol
 
 ---
 

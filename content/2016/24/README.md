@@ -71,9 +71,9 @@
 
 ### Tools / Libraries
 
-*   [Color Thief (⭐11k)](https://github.com/lokesh/color-thief) - Grab color palette from an image.
-*   [Colorify.js (⭐811)](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
-*   [Colofilter.css (⭐622)](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
+*   [Color Thief (⭐12k)](https://github.com/lokesh/color-thief) - Grab color palette from an image.
+*   [Colorify.js (⭐810)](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
+*   [Colofilter.css (⭐621)](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
 
 ### Tools / Web App
 
@@ -238,11 +238,11 @@
 
 ### Network / Barcode
 
-*   [Malibu (⭐10)](https://github.com/hyperoslo/Malibu) - A networking library built on promises.
+*   [Malibu (⭐11)](https://github.com/hyperoslo/Malibu) - A networking library built on promises.
 
 ### Blur / Barcode
 
-*   [VisualEffectView (⭐968)](https://github.com/efremidze/VisualEffectView) - UIVisualEffectView subclass with tint color.
+*   [VisualEffectView (⭐1k)](https://github.com/efremidze/VisualEffectView) - UIVisualEffectView subclass with tint color.
 
 ## [18. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -256,8 +256,8 @@
 
 ### For Electron / Other
 
-*   [fix-path (⭐261)](https://github.com/sindresorhus/fix-path) - Fix the $PATH on macOS when run from a GUI app. Useful when spawning a child process.
-*   [electron-osx-sign (⭐494)](https://github.com/electron-userland/electron-osx-sign) - Code-signing for macOS apps.
+*   [fix-path (⭐268)](https://github.com/sindresorhus/fix-path) - Fix the $PATH on macOS when run from a GUI app. Useful when spawning a child process.
+*   [electron-osx-sign (⭐518)](https://github.com/electron-userland/electron-osx-sign) - Code-signing for macOS apps.
 *   [electron-context-menu (⭐1.3k)](https://github.com/sindresorhus/electron-context-menu) - Extensible context menu.
 
 ### Components / Other
@@ -273,7 +273,7 @@
 
 ### Packages / Filesystem
 
-*   [chokidar (⭐9.9k)](https://github.com/paulmillr/chokidar) - Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on macOS.
+*   [chokidar (⭐10k)](https://github.com/paulmillr/chokidar) - Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on macOS.
 
 ### Packages / Automation
 

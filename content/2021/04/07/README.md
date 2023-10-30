@@ -17,16 +17,16 @@
 ### Other multimodal data formats / Ruby
 
 *   [Alliance for Parking Data Standards (APDS)](https://www.allianceforparkingdatastandards.org/) - Formed by the [International Parking Institute (IPI)](https://www.parking.org/), the [British Parking Association (BPA)](http://www.britishparking.co.uk/), and the [European Parking Association (EPA)](http://www.europeanparking.eu/), APDS is a not-for-profit organization with the mission to develop, promote, manage, and maintain a uniform global standard that will allow organizations to share parking data across platforms worldwide.  APDS Version 1.0 documents are [here](https://www.allianceforparkingdatastandards.org/resources).
-*   [CurbLR (⭐67)](https://github.com/curblr/curblr-spec) - A specification for curb regulations.
-*   [Dyno-Path (⭐1)](https://github.com/osplanning-data-standards/dyno-path) - (Under development - see [this post (⭐19)](https://github.com/osplanning-data-standards/GTFS-PLUS/pull/52#issuecomment-331231000)) Data for individual passenger *trajectories*.
-*   [GTFS-flex (⭐97)](https://github.com/MobilityData/gtfs-flex) - A data format that models flexible public transportation services as an extension to GTFS.
-*   [GTFS-ride (⭐43)](https://github.com/ODOT-PTS/GTFS-ride) - An open, fixed-route transit ridership data standard developed through a partnership between the Oregon Department of Transportation and Oregon State University.
-*   [General Modeling Network Specification (GMNS) (⭐83)](https://github.com/zephyr-data-specs/GMNS) - A format for sharing routable road network files designed to be used in multi-modal static and dynamic transportation planning and operations models. Volpe/FHWA partnership with Zephyr Foundation.
+*   [CurbLR (⭐69)](https://github.com/curblr/curblr-spec) - A specification for curb regulations.
+*   [Dyno-Path (⭐1)](https://github.com/osplanning-data-standards/dyno-path) - (Under development - see [this post (⭐20)](https://github.com/osplanning-data-standards/GTFS-PLUS/pull/52#issuecomment-331231000)) Data for individual passenger *trajectories*.
+*   [GTFS-flex (⭐104)](https://github.com/MobilityData/gtfs-flex) - A data format that models flexible public transportation services as an extension to GTFS.
+*   [GTFS-ride (⭐46)](https://github.com/ODOT-PTS/GTFS-ride) - An open, fixed-route transit ridership data standard developed through a partnership between the Oregon Department of Transportation and Oregon State University.
+*   [General Modeling Network Specification (GMNS) (⭐85)](https://github.com/zephyr-data-specs/GMNS) - A format for sharing routable road network files designed to be used in multi-modal static and dynamic transportation planning and operations models. Volpe/FHWA partnership with Zephyr Foundation.
 *   [General Travel Network Specification](https://zephyrtransport.org/trb17projects/7-general-travel-network-specification/) - A planned data specification for sharing travel demand model networks.
 *   [Managed and Tolled Lanes Feed Specification (MTLFS) (⭐9)](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - Proposal for a schema that comprise the Managed and Tolled Lanes Tolling Feed Specification (MTLFS) and defines the fields used in all of those files developed by [Santa Clara Valley Transportation Authority](http://www.vta.org/).
-*   [Mobility Data Specification (MDS) (⭐630)](https://github.com/openmobilityfoundation/mobility-data-specification) - A format to implement realtime data sharing, measurement and regulation for municipalities and mobility as a service providers. It is meant to ensure that governments have the ability to enforce, evaluate and manage providers. Maintained by the [Open Mobility Foundation](https://www.openmobilityfoundation.org/).
+*   [Mobility Data Specification (MDS) (⭐643)](https://github.com/openmobilityfoundation/mobility-data-specification) - A format to implement realtime data sharing, measurement and regulation for municipalities and mobility as a service providers. It is meant to ensure that governments have the ability to enforce, evaluate and manage providers. Maintained by the [Open Mobility Foundation](https://www.openmobilityfoundation.org/).
 *   [NeTex](http://netex-cen.eu/) - A general purpose XML format designed for the exchange of complex static transport data among distributed systems managed by the [CEN standards process](https://www.cen.eu/work/ENdev/how/Pages/default.aspx).
-*   [Open Sales and Distribution Model (OSDM) (⭐30)](https://github.com/UnionInternationalCheminsdeFer/OSDM) - Aims to substantially simplify the booking process for customers of rail trips and to lower complexity and distribution costs for distributors and railway carriers. Contains a specification of an offline model and on-line API. Maintained by the [International Union of Railways (UIC)](https://github.com/UnionInternationalCheminsdeFer).
+*   [Open Sales and Distribution Model (OSDM) (⭐35)](https://github.com/UnionInternationalCheminsdeFer/OSDM) - Aims to substantially simplify the booking process for customers of rail trips and to lower complexity and distribution costs for distributors and railway carriers. Contains a specification of an offline model and on-line API. Maintained by the [International Union of Railways (UIC)](https://github.com/UnionInternationalCheminsdeFer).
 *   [SAE Shared and Digital Mobility Committee](http://articles.sae.org/15799/) - Appears to be working on a data standard for car share and transportation network companies (TNCs) / rideshare.
 
 ## [3. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
@@ -63,7 +63,7 @@
 
 ### Issue Tracking and Project Management
 
-*   [Backlog](https://backlog.com) — Everything your team needs to release great projects in one platform. Free plan offers 1 Project with 10 users & 100MB storage.
+*   [Backlog](https://backlog.com) — Everything your team needs to release great projects in one platform. The free plan offers 1 Project with ten users & 100MB of storage.
 
 ### Analytics, Events and Statistics
 
@@ -95,9 +95,9 @@
 
 ## [11. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
-### Command-Line Tools / Newsletters
+### Command-Line Tools / Discovery
 
-*   [nix-tree (⭐381)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
+*   [nix-tree (⭐460)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -115,10 +115,10 @@
 
 ### Plugins
 
-*   🧩 [CSS Variables (⭐142)](https://github.com/mertasan/tailwindcss-variables) - Exports custom CSS variables (Dark Mode supported).
-*   🛑💼 [Filters (⭐161)](https://github.com/benface/tailwindcss-filters) - Adds `filter` utilities.
-*   🛑💼 [CSS Filters (⭐23)](https://github.com/Larsklopstra/tailwindcss-css-filters) - Adds `filter` and `backdrop-filter` utilities with defaults.
-*   🛑💼 [Blend Mode (⭐67)](https://github.com/hacknug/tailwindcss-blend-mode) - Adds `blend-mode` utilities.
+*   🧩 [CSS Variables (⭐177)](https://github.com/mertasan/tailwindcss-variables) - Exports custom CSS variables (Dark Mode supported).
+*   🛑💼 [Filters (⭐162)](https://github.com/benface/tailwindcss-filters) - Adds `filter` utilities.
+*   🛑💼 [CSS Filters (⭐24)](https://github.com/Larsklopstra/tailwindcss-css-filters) - Adds `filter` and `backdrop-filter` utilities with defaults.
+*   🛑💼 [Blend Mode (⭐66)](https://github.com/hacknug/tailwindcss-blend-mode) - Adds `blend-mode` utilities.
 *   🛑💼 [Colorize (⭐10)](https://github.com/philippbosch/tailwindcss-colorize) - Adds `filter` utilities.
 
 ### Learning

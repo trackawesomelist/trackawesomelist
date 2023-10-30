@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 04 - Jan 10, 2021
 
-58 awesome lists updated this week.
+57 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -44,7 +44,7 @@
 
 ### Hosted Readers / Outline Processor Markup Language
 
-*   [Feedly](https://feedly.com) <sup>[322](https://t.me/s/aboutrss/332), [759](https://t.me/s/aboutrss/759)</sup> ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)[![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/feedly-smart-news-reader/id396069556)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.devhd.feedly)
+*   [Feedly](https://feedly.com) <sup>[322](https://t.me/s/aboutrss/332), [759](https://t.me/s/aboutrss/759)</sup> ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)[![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/feedly-smart-news-reader/id396069556)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.devhd.feedly)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
     *   [Feedly Notifier](https://olsh.me/Feedly-Notifier/) <sup>[913](https://t.me/s/aboutrss/913)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/feedly-notifier/egikgfbhipinieabdmcpigejkaomgjgb)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/feedly-notifier/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/olsh/Feedly-Notifier/)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [已思 OhMyRSS](https://ohmyrss.com/) <sup>[390](https://t.me/s/aboutrss/390)</sup> ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/richshaw2015/oh-my-rss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [A RSS Reader Demo partially using blockchain](http://tool.ppkpub.org/rss/) <sup>[891](https://t.me/s/aboutrss/891)</sup> ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://www.chainnode.com/post/452368)
@@ -66,7 +66,7 @@
 
 ### specifically from (*a certain platform*) / ProductHunt
 
-*   [ProductHunt daily RSS feed (⭐28)](https://github.com/headllines/producthunt-daily-rss) <sup>[918](https://t.me/s/aboutrss/918)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/headllines/producthunt-daily-rss)
+*   [ProductHunt daily RSS feed (⭐32)](https://github.com/headllines/producthunt-daily-rss) <sup>[918](https://t.me/s/aboutrss/918)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/headllines/producthunt-daily-rss)
 
 ### specifically from (*a certain platform*) / YouTube
 
@@ -77,17 +77,17 @@
 
 *   [Spotifeed](https://spotifeed.timdorr.com/) <sup>[898](https://t.me/s/aboutrss/898)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/timdorr/spotifeed)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### Feed item filtering / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Feed item filtering / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Feed Control](https://feedcontrol.fivefilters.org/) <sup>[919](https://t.me/s/aboutrss/919)</sup>
 
-### Obtain translated RSS feed / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Obtain translated RSS feed / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [by Using Javascript](https://8430177.github.io/post/jiang-rss-yuan-fan-yi-cheng-zhi-ding-yu-yan-hou-fan-hui/) <sup>[904](https://t.me/s/aboutrss/904)</sup>
 
-### RSS Feed Finding/Detection / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### RSS Feed Finding/Detection / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [RSSAid (⭐641)](https://github.com/lt94/RSSAid/) <sup>[911](https://t.me/s/aboutrss/911)</sup> : Android-version RSSHub Radar [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://github.com/lt94/RSSAid/releases)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lt94/RSSAid/)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [RSSAid (⭐778)](https://github.com/lt94/RSSAid/) <sup>[911](https://t.me/s/aboutrss/911)</sup> : Android-version RSSHub Radar [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://github.com/lt94/RSSAid/releases)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lt94/RSSAid/)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Multi-subject / Crypto or Blockchain relevant
 
@@ -121,7 +121,7 @@
 
 ## [6. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
-### Game Development
+### Game Development / Text-Based User Interfaces
 
 *   [JBox2D](http://www.jbox2d.org/) - Port of the renowned C++ 2D physics engine.
 *   [libGDX](https://libgdx.com) - All-round cross-platform, high-level framework.
@@ -185,13 +185,13 @@
 
 ## [15. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
-### Tools / i18n frameworks for developers
+### Tools / Libraries and tools for developers
 
-*   [Polyglot (⭐331)](https://github.com/untra/polyglot) - A fast, painless, open-source internationalization plugin for Jekyll blogs.
+*   [Polyglot (⭐354)](https://github.com/untra/polyglot) - A fast, painless, open-source internationalization plugin for Jekyll blogs.
 
 ### Tools / Other tools
 
-*   [Globalize (⭐4.7k)](https://github.com/globalizejs/globalize) - A JavaScript library for internationalization and localization that leverage the official Unicode CLDR JSON data.
+*   [Globalize (⭐4.8k)](https://github.com/globalizejs/globalize) - A JavaScript library for internationalization and localization that leverage the official Unicode CLDR JSON data.
 
 ## [16. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -241,11 +241,11 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [filebrowser](https://filebrowser.org/) - Web File Browser with a Material Design web interface. ([Source Code (⭐20k)](https://github.com/filebrowser/filebrowser)) `Apache-2.0` `Go`
+*   [filebrowser](https://filebrowser.org/) - Web File Browser with a Material Design web interface. ([Source Code (⭐21k)](https://github.com/filebrowser/filebrowser)) `Apache-2.0` `Go`
 
 ### Software / Personal Dashboards
 
-*   [Your Spotify (⭐1.6k)](https://github.com/Yooooomi/your_spotify) `⚠` - Allows you to record your Spotify listening activity and have statistics about them served through a Web application. `MIT` `Nodejs/Docker`
+*   [Your Spotify (⭐1.9k)](https://github.com/Yooooomi/your_spotify) `⚠` - Allows you to record your Spotify listening activity and have statistics about them served through a Web application. `MIT` `Nodejs/Docker`
 
 ## [20. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
@@ -257,86 +257,85 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [CAEs for Data Assimilation (⭐25)](https://github.com/julianmack/Data_Assimilation) - Convolutional autoencoders for 3D image/field compression applied to reduced order [Data Assimilation](https://en.wikipedia.org/wiki/Data_assimilation).
+*   [CAEs for Data Assimilation (⭐29)](https://github.com/julianmack/Data_Assimilation) - Convolutional autoencoders for 3D image/field compression applied to reduced order [Data Assimilation](https://en.wikipedia.org/wiki/Data_assimilation).
 
 ## [22. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
-*   🧬 [Marker](https://github.com/RadishIO/tailwindcss-marker) - Provides utilities for styling lists and `<summary>` markers.
 *   🛑💼💙 [Line Clamp (⭐1.1k)](https://github.com/tailwindlabs/tailwindcss-line-clamp) - Provides utilities for visually truncating text after a fixed number of lines.
 
 ## [23. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
-*   [website-wasm (⭐47)](https://github.com/kamiyaa/website-wasm) - My personal website written in Rust via Yew/Wasm.
+*   [website-wasm (⭐52)](https://github.com/kamiyaa/website-wasm) - My personal website written in Rust via Yew/Wasm.
 
 ## [24. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Algorithms / Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
 
 *   [LIO-SAM :newspaper:](https://arxiv.org/pdf/2007.00258.pdf) - Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping.
-    *   [GitHub repository :octocat: (⭐2.2k)](https://github.com/TixiaoShan/LIO-SAM)
+    *   [GitHub repository :octocat: (⭐2.6k)](https://github.com/TixiaoShan/LIO-SAM)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=A0H8CoORZJU)
 
 ### Others / Object detection and object tracking
 
-*   [Bpy :octocat: (⭐793)](https://github.com/uhlik/bpy) - Point cloud importer/renderer/editor for Blender, Point Cloud visualizer.
-*   [Photogrammetry importer :octocat: (⭐640)](https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer) - Blender addon to import reconstruction results of several libraries.
+*   [Bpy :octocat: (⭐858)](https://github.com/uhlik/bpy) - Point cloud importer/renderer/editor for Blender, Point Cloud visualizer.
+*   [Photogrammetry importer :octocat: (⭐732)](https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer) - Blender addon to import reconstruction results of several libraries.
 
 ## [25. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Back-End Development
 
-*   [CDK (⭐1.8k)](https://github.com/kolomied/awesome-cdk#readme) - Open-source software development framework for defining cloud infrastructure in code.
+*   [CDK (⭐1.9k)](https://github.com/kolomied/awesome-cdk#readme) - Open-source software development framework for defining cloud infrastructure in code.
 
 ### Learn
 
-*   [YouTubers (⭐4.1k)](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
+*   [YouTubers (⭐4.5k)](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
 
 ### Content Management Systems
 
-*   [Silverstripe CMS (⭐44)](https://github.com/wernerkrauss/awesome-silverstripe-cms#readme) - PHP MVC framework that serves as a classic or headless CMS.
+*   [Silverstripe CMS (⭐46)](https://github.com/wernerkrauss/awesome-silverstripe-cms#readme) - PHP MVC framework that serves as a classic or headless CMS.
 
 ### Hardware
 
-*   [Robotic Tooling (⭐2.5k)](https://github.com/protontypes/awesome-robotic-tooling#readme) - Free and open tools for professional robotic development.
+*   [Robotic Tooling (⭐2.7k)](https://github.com/protontypes/awesome-robotic-tooling#readme) - Free and open tools for professional robotic development.
 
 ### Miscellaneous
 
-*   [Biological Visualizations (⭐121)](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
+*   [Biological Visualizations (⭐138)](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
 
 ## [26. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Official Resources
 
-*   [Release Notes (⭐56k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
+*   [Release Notes (⭐60k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
 
 ### React / Loaders
 
-*   [vite-plugin-svgr (⭐295)](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
+*   [vite-plugin-svgr (⭐386)](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
 
 ### Solid / Integrations
 
-*   [vite-plugin-solid (⭐335)](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
+*   [vite-plugin-solid (⭐375)](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
 
 ### Rollup Plugins / Included in Vite
 
-*   [@rollup/plugin-alias (⭐3.2k)](https://github.com/rollup/plugins/blob/master/packages/alias) - Define and resolve aliases for bundle dependencies.
-*   [@rollup/plugin-commonjs (⭐3.2k)](https://github.com/rollup/plugins/blob/master/packages/commonjs) - Convert CommonJS modules to ES6.
-*   [@rollup/plugin-dynamic-import-vars (⭐3.2k)](https://github.com/rollup/plugins/blob/master/packages/dynamic-import-vars) - Resolving dynamic imports that contain variables.
-*   [@rollup/plugin-json (⭐3.2k)](https://github.com/rollup/plugins/blob/master/packages/json) - Convert `.json` files to ES6 modules.
+*   [@rollup/plugin-alias (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/alias) - Define and resolve aliases for bundle dependencies.
+*   [@rollup/plugin-commonjs (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/commonjs) - Convert CommonJS modules to ES6.
+*   [@rollup/plugin-dynamic-import-vars (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/dynamic-import-vars) - Resolving dynamic imports that contain variables.
+*   [@rollup/plugin-json (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/json) - Convert `.json` files to ES6 modules.
 
 ### Rollup Plugins / Compatible with Vite
 
-*   [@rollup/plugin-dsv (⭐3.2k)](https://github.com/rollup/plugins/blob/master/packages/dsv) - Convert `.csv` and `.tsv` files into JavaScript modules with d3-dsv.
-*   [@rollup/plugin-graphql (⭐3.2k)](https://github.com/rollup/plugins/blob/master/packages/graphql) - Convert .gql/.graphql files to ES6 modules.
-*   [@rollup/plugin-replace (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/replace) - Replace strings in files while bundling.
+*   [@rollup/plugin-dsv (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/dsv) - Convert `.csv` and `.tsv` files into JavaScript modules with d3-dsv.
+*   [@rollup/plugin-graphql (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/graphql) - Convert .gql/.graphql files to ES6 modules.
+*   [@rollup/plugin-replace (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/replace) - Replace strings in files while bundling.
 
 ### Open Source / Community
 
-*   [VitePress (⭐7.7k)](https://github.com/vuejs/vitepress) - Static Site Generator powered by Vite and Vue.
+*   [VitePress (⭐9.2k)](https://github.com/vuejs/vitepress) - Static Site Generator powered by Vite and Vue.
 
 ## [27. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
@@ -346,7 +345,7 @@
 
 ### Modules / Static site generator
 
-*   [lume (⭐1.3k)](https://github.com/lumeland/lume) - A static site generator similar to Jekyll or Eleventy with support for multiple file formats.
+*   [lume (⭐1.4k)](https://github.com/lumeland/lume) - A static site generator similar to Jekyll or Eleventy with support for multiple file formats.
 
 ### Modules / Utils
 
@@ -354,14 +353,14 @@
 
 ### Showcases / XML
 
-*   [Deno Rest (⭐101)](https://github.com/vicky-gonsalves/deno_rest) - A Boilerplate for deno RESTful apis.
+*   [Deno Rest (⭐120)](https://github.com/vicky-gonsalves/deno_rest) - A Boilerplate for deno RESTful apis.
 *   [UsingDeno](https://usingdeno.com) - Curated list of Web Applications & Projects using Deno 🦕.
 
 ## [28. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Games & Comics
 
-- API: [Hyrule Compendium (⭐111)](https://github.com/gadhagod/Hyrule-Compendium-API)
+- API: [Hyrule Compendium (⭐158)](https://github.com/gadhagod/Hyrule-Compendium-API)
 
   Description: Data on all interactive items from The Legend of Zelda: BOTW
 
@@ -382,26 +381,26 @@
 
 ### Others / Third-party APIs
 
-*   [Vellum (⭐65)](https://github.com/sirherrbatka/vellum) - Data Frames for Common Lisp. BSD\_2Clause.
+*   [Vellum (⭐68)](https://github.com/sirherrbatka/vellum) - Data Frames for Common Lisp. BSD\_2Clause.
 *   [rtg-math (⭐50)](https://github.com/cbaggers/rtg-math/) - a selection of the math routines most commonly needed for making realtime graphics in lisp (2, 3 and 4 component vectors, 3x3 and 4x4 matrices, quaternions, spherical and polar coordinates). BSD\_2Clause.
 
 ### Matrix libraries / Third-party APIs
 
-*   [lisp-matrix (⭐66)](https://github.com/blindglobe/lisp-matrix) - A matrix package. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+*   [lisp-matrix (⭐67)](https://github.com/blindglobe/lisp-matrix) - A matrix package. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 
 ### Statistics / Third-party APIs
 
-*   [common-lisp-stat (⭐166)](https://github.com/blindglobe/common-lisp-stat/) - Common Lisp statistics library. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+*   [common-lisp-stat (⭐168)](https://github.com/blindglobe/common-lisp-stat/) - Common Lisp statistics library. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 
 ### Utils / Third-party APIs
 
-*   [cmu-infix (⭐29)](https://github.com/rigetti/cmu-infix) - A library for writing infix mathematical notation in Common Lisp. See also [polisher (⭐4)](https://github.com/mrcdr/polisher).
+*   [cmu-infix (⭐31)](https://github.com/rigetti/cmu-infix) - A library for writing infix mathematical notation in Common Lisp. See also [polisher (⭐5)](https://github.com/mrcdr/polisher).
 
 ## [30. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### JupyterLab Extensions
 
-*   [elyra (⭐1.6k)](https://github.com/elyra-ai/elyra) - A visual editor for creating and running notebook (or Python script) pipelines locally or remotely.
+*   [elyra (⭐1.7k)](https://github.com/elyra-ai/elyra) - A visual editor for creating and running notebook (or Python script) pipelines locally or remotely.
 
 ## [31. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
@@ -413,11 +412,11 @@
 
 ### Dependency injection
 
-*   [clip (⭐217)](https://github.com/juxt/clip)
+*   [clip (⭐218)](https://github.com/juxt/clip)
 
 ### Date and Time
 
-*   [tick (⭐551)](https://github.com/juxt/tick): Clojure(Script) library, intended as replacement for clj-time
+*   [tick (⭐559)](https://github.com/juxt/tick): Clojure(Script) library, intended as replacement for clj-time
 
 ### HTTP
 
@@ -465,11 +464,11 @@
 
 ### Tools for Teams and Collaboration
 
-*   [shtab.app](https://shtab.app/) - Project management service that makes collaboration in the office and remotely transparent with tracker based on AI.
+*   [shtab.app](https://shtab.app/) - Project management service that makes collaboration in the office remotely transparent with a tracker based on AI.
 
 ### IDE and Code Editing
 
-*   [Prepros](https://prepros.io/) - Prepros can compile Sass, Less, Stylus, Pug/Jade, Haml, Slim, CoffeeScript and TypeScript out of the box, reloads your browsers and makes it really easy to develop & test your websites so you can focus on making them perfect. You can also add your own tools with just a few clicks.
+*   [Prepros](https://prepros.io/) - Prepros can compile Sass, Less, Stylus, Pug/Jade, Haml, Slim, CoffeeScript, and TypeScript out of the box, reloads your browsers and makes it easy to develop & test your websites so you can focus on making them perfect. You can also add your own tools with just a few clicks.
 
 ## [37. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
 
@@ -485,29 +484,29 @@
 
 ### Communications / MDNS
 
-*   [micropython-mdns (⭐38)](https://github.com/cbrand/micropython-mdns) - A pure Python implementation of MDNS with support for Service Discovery.
+*   [micropython-mdns (⭐40)](https://github.com/cbrand/micropython-mdns) - A pure Python implementation of MDNS with support for Service Discovery.
 
 ## [39. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
-*   [mpi4jax (⭐258)](https://github.com/PhilipVinc/mpi4jax) - Combine MPI operations with your Jax code on CPUs and GPUs. <img src="https://img.shields.io/github/stars/PhilipVinc/mpi4jax?style=social" align="center">
+*   [mpi4jax (⭐316)](https://github.com/PhilipVinc/mpi4jax) - Combine MPI operations with your Jax code on CPUs and GPUs. <img src="https://img.shields.io/github/stars/PhilipVinc/mpi4jax?style=social" align="center">
 
 ## [40. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
-*   [tmux-easy-motion (⭐50)](https://github.com/IngoMeyer441/tmux-easy-motion) vim-easymotion like navigation for tmux.
+*   [tmux-easy-motion (⭐61)](https://github.com/IngoMeyer441/tmux-easy-motion) vim-easymotion like navigation for tmux.
 
 ## [41. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Utils / Other Tools
 
-*   [FastAPI CRUDRouter (⭐1k)](https://github.com/awtkns/fastapi-crudrouter) - A FastAPI router that automatically creates and documents CRUD routes for your models.
-*   [FastAPI MQTT (⭐150)](https://github.com/sabuhish/fastapi-mqtt) - An extension for the MQTT protocol.
-*   [Starlette Context (⭐316)](https://github.com/tomwojcik/starlette-context) - Allows you to store and access the request data anywhere in your project, useful for logging.
-*   [Starlette OpenTracing (⭐63)](https://github.com/acidjunk/starlette-opentracing) - Opentracing support for Starlette and FastAPI.
-*   [Starlette Prometheus (⭐236)](https://github.com/perdy/starlette-prometheus) - Prometheus integration for FastAPI and Starlette.
+*   [FastAPI CRUDRouter (⭐1.2k)](https://github.com/awtkns/fastapi-crudrouter) - A FastAPI router that automatically creates and documents CRUD routes for your models.
+*   [FastAPI MQTT (⭐183)](https://github.com/sabuhish/fastapi-mqtt) - An extension for the MQTT protocol.
+*   [Starlette Context (⭐358)](https://github.com/tomwojcik/starlette-context) - Allows you to store and access the request data anywhere in your project, useful for logging.
+*   [Starlette OpenTracing (⭐65)](https://github.com/acidjunk/starlette-opentracing) - Opentracing support for Starlette and FastAPI.
+*   [Starlette Prometheus (⭐254)](https://github.com/perdy/starlette-prometheus) - Prometheus integration for FastAPI and Starlette.
 
 ### Tutorials / Other Tools
 
@@ -517,21 +516,15 @@
 
 ### Others
 
-*   [Blazor Weather (⭐234)](https://github.com/danroth27/BlazorWeather) - ![stars](https://img.shields.io/github/stars/danroth27/BlazorWeather?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/danroth27/BlazorWeather?style=flat-square\&cacheSeconds=86400) A Blazor Weather sample app that shows the current weather for your current location and a collection of pinned locations. Demonstrated at .NET Conf 2019 by Daniel Roth. [Demo](https://aka.ms/blazorweather).
+*   [Blazor Weather (⭐243)](https://github.com/danroth27/BlazorWeather) - ![stars](https://img.shields.io/github/stars/danroth27/BlazorWeather?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/danroth27/BlazorWeather?style=flat-square\&cacheSeconds=86400) A Blazor Weather sample app that shows the current weather for your current location and a collection of pinned locations. Demonstrated at .NET Conf 2019 by Daniel Roth. [Demo](https://aka.ms/blazorweather).
 
-## [43. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
-
-### Tools
-
-*   [Almonit Browser Extension](https://almonit.com/#/extension/) - Resolves ENS domains, this let users access .eth websites while offering maximum decentralization. [Source (⭐17)](https://github.com/almonit/almonit-plugin)
-
-## [44. Awesome Gpt3](/content/elyase/awesome-gpt3/week/README.md)
+## [43. Awesome Gpt3](/content/elyase/awesome-gpt3/week/README.md)
 
 ### Products / Other
 
 *   [Tailwind CSS code generator](https://themesberg.com/blog/tailwind-css/gpt-3-tailwind-css-ai-code-generator)
 
-## [45. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [44. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Label / Form
 
@@ -563,29 +556,29 @@
 
 
 
-## [46. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
+## [45. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
 ### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
-*   [λληνικά (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gr-GR)
+*   [λληνικά (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gr-GR)
 
-## [47. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [46. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Admin
 
-*   [django-material-admin (⭐290)](https://github.com/MaistrenkoAnton/django-material-admin) - Material design for django administration.
+*   [django-material-admin (⭐301)](https://github.com/MaistrenkoAnton/django-material-admin) - Material design for django administration.
 
 ### Third-Party Packages / Full-stack frameworks
 
-*   [Reactor (⭐554)](https://github.com/edelvalle/reactor/) - Phoenix LiveView, but for Django.
+*   [Reactor (⭐586)](https://github.com/edelvalle/reactor/) - Phoenix LiveView, but for Django.
 *   [Sockpuppet](https://sockpuppet.argpar.se/) - Build reactive applications with the Django tooling you already know and love.
 *   [Unicorn](https://www.django-unicorn.com/) - A reactive component framework that progressively enhances a normal Django view, makes AJAX calls in the background, and dynamically updates the DOM.
 
 ### Projects / Open Source Projects
 
-*   [Healthchecks (⭐6.2k)](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool written in Python & Django.
+*   [Healthchecks (⭐6.7k)](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool written in Python & Django.
 
-## [48. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [47. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
@@ -593,13 +586,13 @@
 
 ### GTFS Validators / Ruby
 
-*   [Transport Validator (⭐28)](https://github.com/etalab/transport-validator/) - An open-source validator implemented in [Rust](https://www.rust-lang.org/). Used by the [French National Access Point](https://transport.data.gouv.fr/validation/).
+*   [Transport Validator (⭐30)](https://github.com/etalab/transport-validator/) - An open-source validator implemented in [Rust](https://www.rust-lang.org/). Used by the [French National Access Point](https://transport.data.gouv.fr/validation/).
 
 ### GTFS Realtime Convertors / Ruby
 
-*   [GTFS-realtime to SIRI-Lite (⭐20)](https://github.com/etalab/transpo-rt/) - A [Rust](https://www.rust-lang.org/) webserver to convert multiple GTFS-RT feeds to a SIRI-Lite API.
+*   [GTFS-realtime to SIRI-Lite (⭐21)](https://github.com/etalab/transpo-rt/) - A [Rust](https://www.rust-lang.org/) webserver to convert multiple GTFS-RT feeds to a SIRI-Lite API.
 
-## [49. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [48. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / Imaging
 
@@ -607,7 +600,7 @@
 
 ### Contents / Libraries
 
-*   [FHIR .NET API (⭐719)](https://github.com/FirelyTeam/firely-net-sdk) - The official .NET API for HL7 FHIR.
+*   [FHIR .NET API (⭐735)](https://github.com/FirelyTeam/firely-net-sdk) - The official .NET API for HL7 FHIR.
 *   [HAPI FHIR (⭐1.7k)](https://github.com/hapifhir/hapi-fhir) - Java API for HL7 FHIR Clients and Servers.
 
 ### Contents / Asset Management
@@ -616,29 +609,29 @@
 
 ### Contents / Logistics
 
-*   [ID3C (⭐21)](https://github.com/seattleflu/id3c) - Data logistics system enabling real-time genomic epidemiology.
+*   [ID3C (⭐22)](https://github.com/seattleflu/id3c) - Data logistics system enabling real-time genomic epidemiology.
 
-## [50. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [49. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Forms
 
-*   [Sitecore-Forms-Extensions (⭐55)](https://github.com/bartverdonck/Sitecore-Forms-Extensions) - Adds some functionality to the forms creator, such as sending mails, timespan validation, subscribing a list, conditions, Azure Blob storage provider and many more.
+*   [Sitecore-Forms-Extensions (⭐57)](https://github.com/bartverdonck/Sitecore-Forms-Extensions) - Adds some functionality to the forms creator, such as sending mails, timespan validation, subscribing a list, conditions, Azure Blob storage provider and many more.
 
 ### SXA (Sitecore Experience Accelerator)
 
 *   [SXA Securty Headers (⭐8)](https://github.com/GuitarRich/SXA.SecurityHeaders) - Shows how to implemenmt response security headers on an exaple of SXA, but they are truly Helix-generic.
 
-## [51. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [50. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Web Frameworks
 
 *   [Donkey (⭐281)](https://github.com/AppsFlyer/donkey) - Modern Clojure HTTP server and client built for ease of use and performance.
 
-## [52. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [51. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
-*   [Peer to Peer game of telephone (⭐67)](https://github.com/ably-labs/depict-it) - A party game for 4 to 8 players (ideally!) where you mutate a phrase through drawings and captions, to make up funny scenarios with your friends. The project is an example of how to build a Peer-to-Peer game with Vue.
+*   [Peer to Peer game of telephone (⭐70)](https://github.com/ably-labs/depict-it) - A party game for 4 to 8 players (ideally!) where you mutate a phrase through drawings and captions, to make up funny scenarios with your friends. The project is an example of how to build a Peer-to-Peer game with Vue.
 
 ### Resources / Books
 
@@ -646,32 +639,32 @@
 
 ### Components & Libraries / UI Components
 
-*   [@vueform/slider (⭐207)](https://github.com/vueform/slider) - Vue 3 slider component with multihandles, tooltips merging and formatting.
-*   [@vueform/toggle (⭐82)](https://github.com/vueform/toggle) - Vue 3 toggle component with labels, custom slots and styling options.
+*   [@vueform/slider (⭐236)](https://github.com/vueform/slider) - Vue 3 slider component with multihandles, tooltips merging and formatting.
+*   [@vueform/toggle (⭐93)](https://github.com/vueform/toggle) - Vue 3 toggle component with labels, custom slots and styling options.
 
 ### Components & Libraries / Scaffold
 
 *   [vue-composable-starter (⭐50)](https://github.com/Tahul/vue-composable-starter) - 🪝 Minimalist starting point for your next Vue composable.
 
-## [53. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [52. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Companies / Robotics Capture the Flag (RCTF)
 
 *   [Mission Robotics](https://missionrobotics.us/) - Hardware and Software for a new era of Marine Intelligence.
 
-## [54. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
+## [53. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
 ### Governance
 
 *   [Inherent trade-offs in the fair determination of risk scores](https://arxiv.org/abs/1609.05807) 🎓
 
-## [55. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [54. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Training
 
 *   [Practical DevSecOps](https://www.practical-devsecops.com) - *Practical DevSecOps* - Learn DevSecOps concepts, tools, and techniques from industry experts with practical DevSecOps using state of the art browser-based labs.
 
-## [56. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [55. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Foundations of Mathematics / Transition To Pure Rigour Math
 
@@ -682,17 +675,17 @@
 *   [Evan Chen](https://web.evanchen.cc/coursework.html) - MIT. 2012 \~ 2018. Covers Combinatorics, Number Theory, Honors Algebra, Set Theory, Real Analysis, Graph Theory, and more.
 *   [Dexter Chua](https://dec41.user.srcf.net/notes/) - Harvard. 2013 \~ 2018. Covers Analysis, Probability, Linear Algebra, Complex Analysis, Numerical Analysis, Statistics, Optimization, Algebraic Topology, Quantum Field Theory, and more.
 
-## [57. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [56. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
-*   [nextjs-starter (⭐418)](https://github.com/pbteja1998/nextjs-starter) - An SEO Optimized Next.js 10 starter kit template with React 17 + Typescript + Tailwind CSS 2 + React Query 3 + (GitHub Auth + Passwordless Auth) using (NextAuth.js and Fauna DB), ESLint, Prettier, Pre-commit hook with Husky. Can have different layouts for different pages.
+*   [nextjs-starter (⭐425)](https://github.com/pbteja1998/nextjs-starter) - An SEO Optimized Next.js 10 starter kit template with React 17 + Typescript + Tailwind CSS 2 + React Query 3 + (GitHub Auth + Passwordless Auth) using (NextAuth.js and Fauna DB), ESLint, Prettier, Pre-commit hook with Husky. Can have different layouts for different pages.
 
-## [58. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [57. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### PlayCanvas
 
-*   [Engine (⭐8.3k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
+*   [Engine (⭐8.7k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
 *   [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 compliant model viewer.
 *   [PCUI](http://playcanvas.github.io/pcui/) - Open source front-end framework used by the PlayCanvas toolset.
 

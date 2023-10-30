@@ -146,19 +146,6 @@
 
 ## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
-### Libraries/Frameworks / Data Science
-
-*   [holgerbrandl/krangl (⭐563)](https://github.com/holgerbrandl/krangl) - krangl is a {K}otlin library for data w{rangl}ing.
-*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
-
-### Libraries/Frameworks / Logging
-
-*   [Foso/Cabret-Log (⭐192)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
-
-### Libraries/Frameworks / Mail
-
-*   [bluefireoly/SimpleKotlinMail (⭐58)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
-
 ### Projects / Web
 
 *   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
@@ -261,4 +248,5 @@
 
 ---
 
+- Prev: [Oct 28, 2023](/content/2023/10/28/README.md)
 - Next: [Oct 26, 2023](/content/2023/10/26/README.md)

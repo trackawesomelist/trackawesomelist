@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 30, 2017
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -11,10 +11,6 @@
 ### Functional Programming
 
 *   [All I needed for FP I learned in High School Algebra](https://www.youtube.com/watch?v=epT1xgxSpFU) by **Eric Normand** \[33:05]
-
-### Cryptocurrencies
-
-*   [Delivering Liberty, at Scale](https://www.youtube.com/watch?v=AecPrwqjbGw) by **Andreas Antonopoulos** \[30:15]
 
 ## [2. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 
@@ -91,23 +87,13 @@
 
 ### PlaygroundBooks
 
-*   [Spacetime Rhapsody (⭐22)](https://github.com/hollisliu/Spacetime-Rhapsody) - A Swift Playground visualizing gravity based on Einstein's Theory of General Relativity. 🌟
+*   [Spacetime Rhapsody (⭐25)](https://github.com/hollisliu/Spacetime-Rhapsody) - A Swift Playground visualizing gravity based on Einstein's Theory of General Relativity. 🌟
 
 ### UIKit And Graphics / SpriteKit
 
-*   [Astronomy (⭐24)](https://github.com/cl7/Astronomy) - A 3D earth model written in swift playground using SceneKit.
+*   [Astronomy (⭐29)](https://github.com/cl7/Astronomy) - A 3D earth model written in swift playground using SceneKit.
 
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Communication - Social Networks and Forums
-
-*   [twister](http://twister.net.co/) - Fully decentralized P2P microblogging platform leveraging the free software implementations of Bitcoin and BitTorrent protocols. ([Source Code (⭐1.4k)](https://github.com/miguelfreitas/twister-core)) `MIT` `C++`
-
-### Software / Groupware
-
-*   [Kolab](https://kolab.org/) - Kolab community is a unified communication and collaboration system. ([Source Code](https://git.kolab.org/)) `GPL-2.0/LGPL-2.1/GPL-3.0` `C++/Python/PHP`
-
-## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Lambda
 

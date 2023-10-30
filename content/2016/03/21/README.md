@@ -16,7 +16,7 @@
 
 ### Tools / Administration
 
-*   [mongodb-tools (⭐291)](https://github.com/jwilder/mongodb-tools) - Three neat Python scripts to work with collections and indexes
+*   [mongodb-tools (⭐292)](https://github.com/jwilder/mongodb-tools) - Three neat Python scripts to work with collections and indexes
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Packages / Libraries
 
-*   [Wavesurfer.js (⭐6.9k)](https://github.com/katspaugh/wavesurfer.js) - Interactive navigable audio visualization using Web Audio and Canvas.
+*   [Wavesurfer.js (⭐7.6k)](https://github.com/katspaugh/wavesurfer.js) - Interactive navigable audio visualization using Web Audio and Canvas.
 
 ## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

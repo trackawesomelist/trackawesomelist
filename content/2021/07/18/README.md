@@ -10,7 +10,7 @@
 
 ### Science & Math
 
-- API: [inspirehep.net (⭐24)](https://github.com/inspirehep/rest-api-doc)
+- API: [inspirehep.net (⭐34)](https://github.com/inspirehep/rest-api-doc)
 
   Description: High Energy Physics info. system
 
@@ -45,7 +45,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-tips (⭐52)](https://github.com/yingpengsha/vite-plugin-tips) - Provide better development server status tips on the page.
+*   [vite-plugin-tips (⭐58)](https://github.com/yingpengsha/vite-plugin-tips) - Provide better development server status tips on the page.
 
 ## [6. Awesome Rss Feeds](/content/plenaryapp/awesome-rss-feeds/README.md)
 

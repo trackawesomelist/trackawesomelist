@@ -47,7 +47,7 @@
 
 ### Apps / Media
 
-*   [Wagtail Alt Generator (⭐78)](https://github.com/marteinn/wagtail-alt-generator) - A module for generating image description and tags based on computer vision.
+*   [Wagtail Alt Generator (⭐80)](https://github.com/marteinn/wagtail-alt-generator) - A module for generating image description and tags based on computer vision.
 
 ## [5. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
-*   [Three glslify example (⭐76)](https://github.com/mattdesl/three-glslify-example) - Example on how to use three.js with glslify.
+*   [Three glslify example (⭐77)](https://github.com/mattdesl/three-glslify-example) - Example on how to use three.js with glslify.
 
 ### Interactive / Other
 

@@ -25,7 +25,7 @@
 
 ### Javascript / Isomorphic web frameworks
 
-*   [Valtan (⭐204)](https://github.com/cxxxr/valtan) -  Common Lisp to JavaScript compiler.
+*   [Valtan (⭐205)](https://github.com/cxxxr/valtan) -  Common Lisp to JavaScript compiler.
 *   [JACL](https://tailrecursion.com/JACL/) - an experimental Lisp system for the Web browser platform to explore new techniques for developing large Single Page Applications with Lisp.
 
 ### Others / Email
@@ -34,17 +34,17 @@
 
 ### Actors pattern / Third-party APIs
 
-*   👍 [Sento (⭐154)](https://github.com/mdbergmann/cl-gserver) - Sento (formerly cl-gserver) is a 'message passing' library/framework with actors similar to Erlang or Akka. It supports creating systems that should work reactive, require parallel computing and event based message handling. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
+*   👍 [Sento (⭐162)](https://github.com/mdbergmann/cl-gserver) - Sento (formerly cl-gserver) is a 'message passing' library/framework with actors similar to Erlang or Akka. It supports creating systems that should work reactive, require parallel computing and event based message handling. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ### Caching / Third-party APIs
 
-*   [function-cache (⭐44)](https://github.com/AccelerationNet/function-cache) -  A Common Lisp function caching / memoization library. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [function-cache (⭐45)](https://github.com/AccelerationNet/function-cache) -  A Common Lisp function caching / memoization library. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ## [3. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Bindings
 
-*   [Raw Node.js Vulkan API (⭐10)](https://github.com/hydra2s/node-vulkan-api) - A new Vulkan bindings for Node.JS, similar with LWJGL-3 or NVK.
+*   [Raw Node.js Vulkan API](https://github.com/hydra2s/node-vulkan-api) - A new Vulkan bindings for Node.JS, similar with LWJGL-3 or NVK.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -58,8 +58,8 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue2-text-annotation (⭐4)](https://github.com/HC200ok/vue2-text-annotation) - A \[Vue 2.x] component for text annotation and manual data masking
-*   [vue-auth-ui (⭐18)](https://github.com/ndrbrt/vue-auth-ui) - Pre-built set of components for user authentication
+*   [vue2-text-annotation (⭐3)](https://github.com/HC200ok/vue2-text-annotation) - A \[Vue 2.x] component for text annotation and manual data masking
+*   [vue-auth-ui (⭐19)](https://github.com/ndrbrt/vue-auth-ui) - Pre-built set of components for user authentication
 
 ## [5. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
@@ -71,11 +71,11 @@
 
 ### Table of Contents / Streaming Engine
 
-*   [Bytewax (⭐456)](https://github.com/bytewax/bytewax) \[Python] - data parallel, distributed, stateful stream processing framework.
+*   [Bytewax (⭐738)](https://github.com/bytewax/bytewax) \[Python] - data parallel, distributed, stateful stream processing framework.
 
 ### Table of Contents / Online Machine Learning
 
-*   [River (⭐4.2k)](https://github.com/online-ml/river) \[Python] - online machine learning library.
+*   [River (⭐4.4k)](https://github.com/online-ml/river) \[Python] - online machine learning library.
 
 ## [7. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
@@ -83,7 +83,7 @@
 
 *   [RFC #4122: UUID - Security Considerations](https://www.rfc-editor.org/rfc/rfc4122#section-6) - “Do not assume that UUIDs are hard to guess; they should not be used as security capabilities (identifiers whose mere possession grants access)”. UUIDs are designed to be unique, not to be random or unpredictable: do not use UUIDs as a secret.
 *   [Awesome Identifiers](https://adileo.github.io/awesome-identifiers/) - A benchmark of all identifier formats.
-*   [Awesome GUID (⭐12)](https://github.com/secretGeek/AwesomeGUID) - Funny take on the global aspect of unique identifiers.
+*   [Awesome GUID (⭐13)](https://github.com/secretGeek/AwesomeGUID) - Funny take on the global aspect of unique identifiers.
 
 ## [8. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
@@ -102,7 +102,7 @@
 ### Applications / Social networks
 
 *   Mastodon
-    *   [Rustodon (⭐791)](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server in Rust
+    *   [Rustodon (⭐832)](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server in Rust
 
 ## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Image Synthesis / DALL-E 2
 
-*   [lucidrains/DALLE2-pytorch (⭐9.7k)](https://github.com/lucidrains/DALLE2-pytorch): Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch
+*   [lucidrains/DALLE2-pytorch (⭐10k)](https://github.com/lucidrains/DALLE2-pytorch): Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch
 
 ## [13. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
@@ -158,14 +158,14 @@
 
 ## [15. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [goenv (cda0) (⭐1)](https://github.com/CDA0/zsh-goenv/blob/master/zsh-goenv.plugin.zsh) - Plugin for installing, updating and loading `goenv`.
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [meganerd (⭐0)](https://github.com/meganerd/meganerd-zsh/) - Inspired by jonathan. Includes decorators for `git` status, user\@hostname, current directory, time and the last command's exit status.
-*   [paroape (⭐0)](https://github.com/ParoaPe/ParoaPe-zsh-theme) - Based on [lpha3cho (⭐36)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters)
+*   [paroape (⭐2)](https://github.com/ParoaPe/ParoaPe-zsh-theme) - Based on [lpha3cho (⭐38)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters)
 
 ---
 

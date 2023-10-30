@@ -30,13 +30,13 @@
 
 ### Command Line / XML
 
-*   [argsd (⭐12)](https://github.com/burner/argsd) - A command line and config file parser for DLang
+*   [argsd (⭐14)](https://github.com/burner/argsd) - A command line and config file parser for DLang
 
 ## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UI / Barcode
 
-*   [ShadowView (⭐404)](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView.
+*   [ShadowView (⭐410)](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView.
 
 ## [6. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Tools
 
-*   [gapid (⭐2.1k)](https://github.com/google/gapid) - Graphics API Debugger, can trace and replay Android OpenGL ES and Vulkan applications. \[Apache License 2.0]
+*   [gapid (⭐2.2k)](https://github.com/google/gapid) - Graphics API Debugger, can trace and replay Android OpenGL ES and Vulkan applications. \[Apache License 2.0]
 
 ---
 

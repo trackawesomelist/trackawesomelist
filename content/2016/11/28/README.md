@@ -14,17 +14,17 @@
 
 ### Protocols
 
-*   [grpc-elixir (⭐1.2k)](https://github.com/tony612/grpc-elixir) - The Elixir implementation of gRPC.
+*   [grpc-elixir (⭐1.3k)](https://github.com/tony612/grpc-elixir) - The Elixir implementation of gRPC.
 
 ### Editors
 
 *   [ilexir (⭐8)](https://github.com/dm1try/ilexir) - IDE-like things for Elixir in Neovim.
-*   [nvim (⭐23)](https://github.com/dm1try/nvim) - Neovim host for writing plugins in Elixir.
+*   [nvim (⭐25)](https://github.com/dm1try/nvim) - Neovim host for writing plugins in Elixir.
 
 ### Styleguides
 
 *   [christopheradams/elixir\_style\_guide (⭐4.2k)](https://github.com/christopheradams/elixir_style_guide) - A community-driven style guide for Elixir.
-*   [lexmag/elixir-style-guide (⭐512)](https://github.com/lexmag/elixir-style-guide) - An opinionated Elixir style guide.
+*   [lexmag/elixir-style-guide (⭐513)](https://github.com/lexmag/elixir-style-guide) - An opinionated Elixir style guide.
 
 ## [2. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 

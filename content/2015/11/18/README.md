@@ -40,7 +40,7 @@
 
 ### Data Visualization
 
-*   [Plotly.js (⭐15k)](https://github.com/plotly/plotly.js) The open source javascript graphing library that powers plotly.
+*   [Plotly.js (⭐16k)](https://github.com/plotly/plotly.js) The open source javascript graphing library that powers plotly.
 
 ## [5. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 

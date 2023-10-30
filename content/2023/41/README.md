@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 09 - Oct 15, 2023
 
-27 awesome lists updated this week.
+28 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -172,7 +172,7 @@
 
 
 
-### Meeting Summary
+### Meeting Assistant
 
 - Name: [Wudpecker](https://www.thataicollection.com/redirect/wudpecker?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
@@ -248,9 +248,9 @@
 
 ### Shell Script Development
 
-*   [bats (⭐4.3k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System
-*   [bunit (⭐192)](https://github.com/rafritts/bunit) - A unit testing framework for Bash scripts
-*   [modernish (⭐697)](https://github.com/modernish/modernish) - library with various features for shell scripting
+*   [bats (⭐4.3k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
+*   [bunit (⭐192)](https://github.com/rafritts/bunit) - A unit testing framework for Bash scripts.
+*   [modernish (⭐697)](https://github.com/modernish/modernish) - Library with various features for shell scripting.
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -268,14 +268,13 @@
 
 *   [Conceptual Framework for Autonomous Cognitive Entities](https://arxiv.org/abs/2310.06775): a paper that "introduces the Autonomous Cognitive Entity (ACE) model, a novel framework for a cognitive architecture, enabling machines and software agents to operate more independently"
 *   [Mindstorms in Natural Language-Based Societies of Mind](https://arxiv.org/abs/2305.17066): a paper that evaluates the natural language-based societies of mind (NLSOMs), leveraging mindstorms in them to solve some practical AI tasks
-*   [AutoGen | Microsoft](https://microsoft.github.io/autogen/): multi-agent conversation framework as a high-level abstraction by Microsoft \[[github (⭐8.3k)](https://github.com/microsoft/autogen)]
-*   [OpenBMB/ChatDev (⭐13k)](https://github.com/OpenBMB/ChatDev): create customized software using natural language idea (through llm-powered multi-agent collaboration)
+*   [AutoGen | Microsoft](https://microsoft.github.io/autogen/): multi-agent conversation framework as a high-level abstraction by Microsoft \[[github (⭐14k)](https://github.com/microsoft/autogen)]
+*   [OpenBMB/ChatDev (⭐16k)](https://github.com/OpenBMB/ChatDev): create customized software using natural language idea (through llm-powered multi-agent collaboration)
 
 ## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [alias-snippet-toolkit (⭐0)](https://github.com/tapyu/zsh-alias-snippet-toolkit) - Creates snippets, expand alias/snippets, and remind you about them.
 *   [php-version-switcher (⭐1)](https://github.com/Akollade/php-version-switcher.plugin.zsh) - Changes php versions if a `.php-version` file is found.
 *   [zautoload (⭐1)](https://github.com/Doc0x1/zautoload) - Autoloader for ZSH config files.
 
@@ -1041,11 +1040,11 @@
 *   [CNCjs](https://cnc.js.org/) - A web-based interface for CNC milling controller running Grbl, Smoothieware, or TinyG. ([Source Code (⭐2.1k)](https://github.com/cncjs/cncjs/)) `MIT` `Nodejs`
 *   [Fluidd](https://docs.fluidd.xyz/) - Lightweight & responsive user interface for Klipper, the 3D printer firmware. ([Source Code (⭐1.1k)](https://github.com/fluidd-core/fluidd)) `GPL-3.0` `Docker/Nodejs`
 *   [Mainsail](https://docs.mainsail.xyz/) - A modern and responsive user interface for the Klipper 3D printer firmware. Control and monitor your printer from everywhere, from any device. ([Source Code (⭐1.3k)](https://github.com/mainsail-crew/mainsail)) `GPL-3.0` `Docker/Python`
-*   [Octoprint](https://octoprint.org/) - A snappy web interface for controlling consumer 3D printers. ([Source Code (⭐7.6k)](https://github.com/OctoPrint/OctoPrint)) `AGPL-3.0` `Docker/Python`
+*   [Octoprint](https://octoprint.org/) - A snappy web interface for controlling consumer 3D printers. ([Source Code (⭐7.7k)](https://github.com/OctoPrint/OctoPrint)) `AGPL-3.0` `Docker/Python`
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Owncast](https://owncast.online/) - Decentralized single-user live video streaming and chat server for running your own live streams similar in style to the large mainstream options. ([Source Code (⭐8.2k)](https://github.com/owncast/owncast)) `MIT` `Go`
+*   [Owncast](https://owncast.online/) - Decentralized single-user live video streaming and chat server for running your own live streams similar in style to the large mainstream options. ([Source Code (⭐8.3k)](https://github.com/owncast/owncast)) `MIT` `Go`
 
 ### Software / Money, Budgeting & Management
 
@@ -1053,7 +1052,7 @@
 
 ### Software / Recipe Management
 
-*   [Specifically Clementines](https://davideshay.github.io/groceries/) - Grocery shopping app (previously Groceries), providing reliable sync with multiple users/devices (web/Android/iOS), recipes and integration with Tandoor. ([Demo](https://www.specificallyclementines.com/), [Source Code (⭐180)](https://github.com/davideshay/groceries)) `MIT` `Docker`
+*   [Specifically Clementines](https://davideshay.github.io/groceries/) - Grocery shopping app (previously Groceries), providing reliable sync with multiple users/devices (web/Android/iOS), recipes and integration with Tandoor. ([Demo](https://www.specificallyclementines.com/), [Source Code (⭐182)](https://github.com/davideshay/groceries)) `MIT` `Docker`
 
 ## [17. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -1196,7 +1195,7 @@
 
 ### Examples
 
-*   [gowebly/gowebly (⭐117)](https://github.com/gowebly/gowebly#readme) - Clean project banner with logo. Useful badges and links (languages switcher, test cover, docs). Clear description of what the project does with quickstart, understandable feature list, links to the introduction video and article, well-documented CLI command examples, project philosophy notes ("motivation to create"), tables with project components, links to addons and helpers, list of stargazers, and more.
+*   [gowebly/gowebly (⭐150)](https://github.com/gowebly/gowebly#readme) - Clean project banner with logo. Useful badges and links (languages switcher, test cover, docs). Clear description of what the project does with quickstart, understandable feature list, links to the introduction video and article, well-documented CLI command examples, project philosophy notes ("motivation to create"), tables with project components, links to addons and helpers, list of stargazers, and more.
 
 ## [23. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
@@ -1231,58 +1230,60 @@
 
 *   [Airbrake](https://airbrake.io) - Error monitoring in production.
 
-## [26. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [26. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Arduino
+
+*   [Arduino Projects Book](https://www.eitkw.com/wp-content/uploads/2020/03/Arduino_Projects_Book.pdf) - Scott Fitzgerald and Michael Shiloh (PDF)
+
+### C# / Non-X86
+
+*   [Learning C# Language](https://riptutorial.com/Download/csharp-language.pdf) - Compiled from StackOverflow Documentation (PDF)
+
+### Go / Phoenix
+
+*   [Gin Web Framework](https://chenyitian.gitbooks.io/gin-web-framework/content/)
+
+### JavaScript / Next.js
+
+*   [Next.js 13 Crash Course 2023: Learn App Directory, React Server Components & More](https://www.youtube.com/watch?v=Y6KDk5iyrYE) - Brad Traversy (Traversy Media)
+
+### Jenkins / Vue.js
+
+*   [Jenkins Starter Guide Ebook](https://bugfender.com/wp-content/themes/bugfender-wordpress-theme/assets/docs/Jenkins-Starter-Guide-Ebook.pdf) (PDF)
+*   [Learning Jenkins](https://riptutorial.com/Download/jenkins.pdf) Compiled from StackOverflow Documentation (PDF)
+
+### SQL (implementation agnostic) / Play Scala
+
+*   [Oracle Database Notes for Professionals](https://goalkicker.com/OracleDatabaseBook/OracleDatabaseNotesForProfessionals.pdf) Compiled from StackOverflow Documentation (PDF)
+
+## [27. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [nvimtools/none-ls.nvim (⭐424)](https://github.com/nvimtools/none-ls.nvim) - Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
+*   [nvimtools/none-ls.nvim (⭐622)](https://github.com/nvimtools/none-ls.nvim) - Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 
 ### Search / Diagnostics
 
-*   [nvimdev/hlsearch.nvim (⭐27)](https://github.com/nvimdev/hlsearch.nvim) - Auto remove search highlight and rehighlight when using n or N.
+*   [nvimdev/hlsearch.nvim (⭐32)](https://github.com/nvimdev/hlsearch.nvim) - Auto remove search highlight and rehighlight when using n or N.
 
 ### Note Taking / Diagnostics
 
-*   [gsuuon/note.nvim (⭐7)](https://github.com/gsuuon/note.nvim) - Daily tasks with deep-linking and project spaces.
+*   [gsuuon/note.nvim (⭐20)](https://github.com/gsuuon/note.nvim) - Daily tasks with deep-linking and project spaces.
 
 ### Utility / Diagnostics
 
-*   [JMarkin/gentags.lua (⭐2)](https://github.com/JMarkin/gentags.lua) - Auto generate tag files by ctags.
+*   [JMarkin/gentags.lua (⭐10)](https://github.com/JMarkin/gentags.lua) - Auto generate tag files by ctags.
 
 ### Remote Development / Diagnostics
 
-*   [niuiic/remote.nvim (⭐0)](https://github.com/niuiic/remote.nvim) - Edit remote files with local configuration.
+*   [niuiic/remote.nvim (⭐21)](https://github.com/niuiic/remote.nvim) - Edit remote files with local configuration.
 
-## [27. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [28. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
 
-### Cloud Computing
+### Image Generator
 
-*   [Openstack CERN Admin guide](https://clouddocs.web.cern.ch/index.html)
-
-### Data Science
-
-*   [Data Mining Concepts and Techniques](https://ia800702.us.archive.org/7/items/datamining_201811/DS-book%20u5.pdf) - Jiawei Han, Micheline Kamber, Jian Pei (PDF) (:card\_file\_box: archived)
-
-### Machine Learning
-
-*   [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf) - François Fleuret (PDF)
-
-### Mathematics
-
-*   [A Cool Brisk Walk Through Discrete Mathematics](http://stephendavies.org/brisk.pdf) - Stephen Davies (PDF)
-*   [A Quick Steep Climb Up Linear Algebra](http://stephendavies.org/quick.pdf) - Stephen Davies (PDF)
-
-### Object Oriented Programming
-
-*   [OOP – Learn Object Oriented Thinking and Programming](https://files.bruckner.cz/be2a5b2104bf393da7092a4200903cc0/PecinovskyOOP.pdf) - Rudolf Pecinovsky (PDF)
-
-### Professional Development
-
-*   [How to Stand Out as a Software Engineer (⭐0)](https://github.com/lvndry/how-to-stand-out-as-a-software-engineer/blob/main/how_to_stand_out_as_a_software_engineer.pdf) - Landry Monga (PDF)
-
-### Quantum Computing
-
-*   [Quantum Information Theory](https://markwilde.com/qit-notes.pdf) - Mark M. Wilde (PDF)
+*   [Midjourney AI](https://www.midjourneyai.ai/) - Just enter your prompt and click the generate button.No code required to generate your image!
 
 ---
 

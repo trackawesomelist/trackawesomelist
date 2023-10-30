@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 18 - Dec 24, 2017
 
-34 awesome lists updated this week.
+33 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Machine Learning
 
-*   [shainet (⭐175)](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal)
+*   [shainet (⭐178)](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal)
 
 ## [2. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -41,11 +41,11 @@
 
 ### Text / Barcode
 
-*   [Sprinter (⭐167)](https://github.com/nicklockwood/Sprinter) - A library for formatting strings.
+*   [Sprinter (⭐166)](https://github.com/nicklockwood/Sprinter) - A library for formatting strings.
 
 ### UI / Barcode
 
-*   [CountryPickerView (⭐465)](https://github.com/kizitonwose/CountryPickerView) - A simple, customizable view for efficiently collecting country information in iOS apps.
+*   [CountryPickerView (⭐475)](https://github.com/kizitonwose/CountryPickerView) - A simple, customizable view for efficiently collecting country information in iOS apps.
 
 ## [7. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
@@ -56,13 +56,13 @@
 
 ## [8. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
-### Optimization / NLP
+### Optimization / Others
 
-*   [Bayesian Optimization (⭐6.8k)](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
+*   [Bayesian Optimization (⭐7k)](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
 
 ### Statistics / NLP
 
-*   [stockstats (⭐1.1k)](https://github.com/jealous/stockstats) - Supply a wrapper `StockDataFrame` based on the `pandas.DataFrame` with inline stock statistics/indicators support.
+*   [stockstats (⭐1.2k)](https://github.com/jealous/stockstats) - Supply a wrapper `StockDataFrame` based on the `pandas.DataFrame` with inline stock statistics/indicators support.
 
 ## [9. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
@@ -106,7 +106,7 @@
 
 ### Others / Particles
 
-*   [Turbulenz (⭐3.9k)](https://github.com/turbulenz/turbulenz_engine) - Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
+*   [Turbulenz (⭐4.3k)](https://github.com/turbulenz/turbulenz_engine) - Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
 
 ## [15. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -118,7 +118,7 @@
 
 ### CSharp / Data Visualization
 
-*   [QuantConnect (⭐7.4k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage.
+*   [QuantConnect (⭐8k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage.
 
 ## [17. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -182,17 +182,7 @@
 *   [Caffe2 - A New Lightweight, Modular, and Scalable Deep Learning Framework (⭐8.4k)](https://github.com/caffe2/caffe2)
 *   [deeplearn.js - Hardware-accelerated deep learning and linear algebra (NumPy) library for the web (⭐8.5k)](https://github.com/PAIR-code/deeplearnjs)
 
-## [22. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
-
-### Startpages / Telegram
-
-*   [start.me](https://www.start.me)
-
-### Note-taking / Telegram
-
-*   [Calculist](https://app.calculist.io/)
-
-## [23. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [22. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
@@ -240,17 +230,17 @@
 *   [Internet Archive’s Netlabels Collection](https://archive.org/details/netlabels) - [:copyright:](https://creativecommons.org/) Netlabels collection hosts complete, freely downloadable/streamable.
 *   [Jamendo](https://www.jamendo.com/start) - [:copyright:](https://creativecommons.org/) Independent music community with a large collect of creative commons licensed music.
 
-## [24. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [23. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks
 
-*   [Chimp (⭐789)](https://github.com/xolvio/chimp) - Develop acceptance tests & end-to-end tests with realtime feedback.
+*   [Chimp (⭐797)](https://github.com/xolvio/chimp) - Develop acceptance tests & end-to-end tests with realtime feedback.
 
-## [25. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [24. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Command Line Tools
 
-*   [asciinema](https://asciinema.org/) - Terminal session recorder. ([GNU GPLv3 (⭐11k)](https://github.com/asciinema/asciinema/blob/develop/LICENSE))
+*   [asciinema](https://asciinema.org/) - Terminal session recorder. ([GNU GPLv3 (⭐12k)](https://github.com/asciinema/asciinema/blob/develop/LICENSE))
 
 ### Software / Operating Systems
 
@@ -258,7 +248,7 @@
 
 ### Software / Web Applications
 
-*   [Lobsters](https://lobste.rs/) - Link aggregation and discussion with downvote explanations. ([BSD 3-clause (⭐3.4k)](https://github.com/lobsters/lobsters/blob/master/LICENSE))
+*   [Lobsters](https://lobste.rs/) - Link aggregation and discussion with downvote explanations. ([BSD 3-clause (⭐3.5k)](https://github.com/lobsters/lobsters/blob/master/LICENSE))
 
 ### Hardware / Companies
 
@@ -269,23 +259,23 @@
 *   [Framasoft](https://framasoft.org/) - Network dedicated to globally promoting free software, innovative projects, and a world of sharing and cooperation.
 *   [Snowdrift.coop](https://snowdrift.coop/) - Crowdmatching for public goods.
 
-## [26. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [25. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 
 *   [simplebeerservice :fire::fire: (⭐317)](https://github.com/awslabs/simplebeerservice) - Cloud-connected kegerator that streams live sensor data to AWS.
 
-## [27. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [26. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / String
 
-*   [striptags (⭐469)](https://github.com/ericnorris/striptags) - An implementation of PHP's strip\_tags in Node.js.
+*   [striptags (⭐485)](https://github.com/ericnorris/striptags) - An implementation of PHP's strip\_tags in Node.js.
 
 ### Modules / Other
 
-*   [uuid (⭐13k)](https://github.com/kelektiv/node-uuid) - Generate RFC-compliant UUIDs in JavaScript.
+*   [uuid (⭐14k)](https://github.com/kelektiv/node-uuid) - Generate RFC-compliant UUIDs in JavaScript.
 
-## [28. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [27. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### CLI and REPL
 
@@ -296,41 +286,41 @@
     3.  Make script executable: `chmod +x script.ts`
     4.  Run directly: `./script.ts` :)
 
-## [29. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [28. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 
 *   [Weekly Music Visualizations](https://github.com/surayashivji/WeeklyGraphics) Weekly music visualization experiments built with Three.js and p5.js by Suraya Shivji.
 
-## [30. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [29. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Date and Time
 
-*   [nodatime (⭐2.3k)](https://github.com/nodatime/nodatime) - Better date and time API for .NET <http://nodatime.org>.
+*   [nodatime (⭐2.6k)](https://github.com/nodatime/nodatime) - Better date and time API for .NET <http://nodatime.org>.
 
 ### Frameworks, Libraries and Tools / IDE
 
-*   [Mono (⭐2.7k)](https://github.com/mono/monodevelop) - MonoDevelop enables developers to quickly write desktop and web applications on Linux, Windows and Mac OS X. It also makes it easy for developers to port .NET applications created with Visual Studio to Linux and Mac OS X maintaining a single code base for all platforms.
-*   [SharpDevelop (⭐1.9k)](https://github.com/icsharpcode/SharpDevelop) - SharpDevelop is a free Integrated Development Environment (IDE) for C#, VB.NET, Boo, IronPython, IronRuby and F# projects on Microsoft's .NET platform. It is written (almost) entirely in C#, and comes with features you would expect in an IDE plus a few more.
+*   [Mono (⭐2.8k)](https://github.com/mono/monodevelop) - MonoDevelop enables developers to quickly write desktop and web applications on Linux, Windows and Mac OS X. It also makes it easy for developers to port .NET applications created with Visual Studio to Linux and Mac OS X maintaining a single code base for all platforms.
+*   [SharpDevelop (⭐2k)](https://github.com/icsharpcode/SharpDevelop) - SharpDevelop is a free Integrated Development Environment (IDE) for C#, VB.NET, Boo, IronPython, IronRuby and F# projects on Microsoft's .NET platform. It is written (almost) entirely in C#, and comes with features you would expect in an IDE plus a few more.
 
 ### Frameworks, Libraries and Tools / ORM
 
-*   [Dapper (⭐15k)](https://github.com/StackExchange/Dapper) - Simple object mapper for .NET.
-    *   [Dapper-FluentMap (⭐403)](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
-    *   [Dommel (⭐430)](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
-    *   [MicroOrm.Dapper.Repositories (⭐546)](https://github.com/phnx47/MicroOrm.Dapper.Repositories) - CRUD for Dapper.
+*   [Dapper (⭐17k)](https://github.com/StackExchange/Dapper) - Simple object mapper for .NET.
+    *   [Dapper-FluentMap (⭐426)](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
+    *   [Dommel (⭐513)](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
+    *   [MicroOrm.Dapper.Repositories (⭐608)](https://github.com/phnx47/MicroOrm.Dapper.Repositories) - CRUD for Dapper.
 
 ### Frameworks, Libraries and Tools / Testing
 
-*   [xBehave.net (⭐387)](https://github.com/xbehave/xbehave.net) - An xUnit.net extension for describing your tests using natural language. <http://xbehave.github.io>
+*   [xBehave.net (⭐383)](https://github.com/xbehave/xbehave.net) - An xUnit.net extension for describing your tests using natural language. <http://xbehave.github.io>
 
-## [31. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [30. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Read-Write
 
-*   [stempeg (⭐75)](https://github.com/faroit/stempeg) [:octocat: (⭐75)](https://github.com/faroit/stempeg) [:package:](https://pypi.python.org/pypi/stempeg/) - read/write of STEMS multistream audio.
+*   [stempeg (⭐79)](https://github.com/faroit/stempeg) [:octocat: (⭐79)](https://github.com/faroit/stempeg) [:package:](https://pypi.python.org/pypi/stempeg/) - read/write of STEMS multistream audio.
 
-## [32. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [31. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Music, Radio and Podcasts / Others
 
@@ -340,7 +330,7 @@
 
 *   [Taskade](https://taskade.com/) - Collaborative notes, task lists, and outlines. Sign up is optional.
 
-## [33. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [32. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -348,18 +338,18 @@
 
 ### Go / Natural Language Processing
 
-*   [sentences (⭐361)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
+*   [sentences (⭐378)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
 
-## [34. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Video
 
-*   [Vireo (⭐899)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
+*   [Vireo (⭐910)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
 
 ### Articles
 
-*   [C++Now 2017 Presentations (⭐470)](https://github.com/boostcon/cppnow_presentations_2017) - Presentation materials presented at C++Now 2017.
-*   [C++Now 2016 Presentations (⭐80)](https://github.com/boostcon/cppnow_presentations_2016) - Presentation materials presented at C++Now 2016.
+*   [C++Now 2017 Presentations (⭐473)](https://github.com/boostcon/cppnow_presentations_2017) - Presentation materials presented at C++Now 2017.
+*   [C++Now 2016 Presentations (⭐79)](https://github.com/boostcon/cppnow_presentations_2016) - Presentation materials presented at C++Now 2016.
 
 ---
 

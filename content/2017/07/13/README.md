@@ -49,11 +49,11 @@
 
 ### Converters
 
-*   [sass.cr (⭐32)](https://github.com/straight-shoota/sass.cr) - Compile SASS/SCSS to CSS ([libsass (⭐4.3k)](https://github.com/sass/libsass/) binding)
+*   [sass.cr (⭐35)](https://github.com/straight-shoota/sass.cr) - Compile SASS/SCSS to CSS ([libsass (⭐4.3k)](https://github.com/sass/libsass/) binding)
 
 ### Email
 
-*   [crystal-email (⭐112)](https://github.com/arcage/crystal-email) - Simple e-mail sending library
+*   [crystal-email (⭐109)](https://github.com/arcage/crystal-email) - Simple e-mail sending library
 
 ## [5. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [v-money (⭐751)](https://github.com/vuejs-tips/v-money) - Tiny (<2k gzipped) input/directive mask for currency
+*   [v-money (⭐758)](https://github.com/vuejs-tips/v-money) - Tiny (<2k gzipped) input/directive mask for currency
 
 ---
 

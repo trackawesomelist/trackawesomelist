@@ -2,13 +2,13 @@
 
 🚀 A curated list of awesome resources for product/program managers to learn and grow.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dend/awesome-product-management/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dend/awesome-product-management](https://github.com/dend/awesome-product-management) · ⭐ 1.1K · 🏷️ Learn
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dend/awesome-product-management/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dend/awesome-product-management](https://github.com/dend/awesome-product-management) · ⭐ 1.2K · 🏷️ Learn
 
 [ Daily / [Weekly](/content/dend/awesome-product-management/week/README.md) / [Overview](/content/dend/awesome-product-management/readme/README.md) ]
 
 ## [Jun 09, 2023](/content/2023/06/09/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [How to Deliver More Software Projects on Time](https://www.inc.com/mark-suster/how-to-deliver-more-software-projects-on-time.html) - By [Mark Suster](https://www.linkedin.com/in/marksuster/).
 *   [Shipping is a Feature: Some Guiding Principles for People That Build Things](https://a16z.com/2014/04/16/shipping-is-a-feature-some-guiding-principals-for-people-that-build-things/) - By [Michael Copeland](https://www.linkedin.com/in/mcopeland/).
@@ -23,7 +23,7 @@
 
 ## [May 18, 2023](/content/2023/05/18/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [You Won't Regret Positive Feedback](https://zachholman.com/posts/positive-feedback/) - By [Zach Holman](https://zachholman.com).
 *   [A Minimum Viable Product Is Not a Product, It's a Process](https://www.ycombinator.com/library/4Q-a-minimum-viable-product-is-not-a-product-it-s-a-process) - By [Yevgeniy Brikman](https://www.ycombinator.com/blog/author/yevgeniy-brikman).
@@ -36,25 +36,25 @@
 *   [The Art of Persuasion Hasn't Changed in 2,000 Years](https://hbr.org/2019/07/the-art-of-persuasion-hasnt-changed-in-2000-years) - By [Carmine Gallo](https://hbr.org/search?term=carmine%20gallo).
 *   [It's Time to Fight for a Dual Product Management Career Path](https://www.bringthedonuts.com/essays/dual-product-management-career-path/) - By [Ken Norton](https://www.bringthedonuts.com/).
 
-### Conferences / Screeb
+### Conferences / Obsidian
 
 *   [La Product Conf](https://www.laproductconf.com/) - Organized by Thiga, La Product Conf (LPC) takes place once a year with events in Paris (France) and Madrid (Spain). The speaker lineup features product leaders from Pinterest, Carrefour, Payfit, Google, Meetic and more.
 
 ## [Apr 22, 2023](/content/2023/04/22/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [The Tools Don't Matter](https://www.bringthedonuts.com/essays/the-tools-dont-matter/) - By [Ken Norton](https://www.bringthedonuts.com/).
 
 ## [Mar 01, 2023](/content/2023/03/01/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [Remote teams](https://managershandbook.notion.site/Remote-teams-5ca3f257580040718fde6eb25c47e134) - By Notion Team.
 
 ## [Feb 21, 2023](/content/2023/02/21/README.md)
 
-### Books / Screeb
+### Books / Obsidian
 
 *   [Outcomes over Output: Why Customer Behavior Is the Key Metric for Business Success](https://www.senseandrespondpress.com/managing-outcomes) - By Joshua Seiden.
 *   [Difficult Conversations](https://www.stoneandheen.com/difficult-conversations) - By Douglas Stone.
@@ -62,42 +62,42 @@
 
 ## [Feb 11, 2023](/content/2023/02/11/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [Is It Possible to Work Remotely as a Product Manager?](https://productschool.com/blog/job-search-advice/remote-product-manager) - By [Roy Cobby](https://www.linkedin.com/in/roycobby/).
 
 ## [Sep 15, 2022](/content/2022/09/15/README.md)
 
-### Books / Screeb
+### Books / Obsidian
 
 *   [Shape Up](https://basecamp.com/shapeup) - By Ryan Singer.
 
 ## [Aug 30, 2022](/content/2022/08/30/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [Coaching Tools – The Plan](https://svpg.com/coaching-tools-the-plan/) - By [Marty Cagan](https://www.svpg.com/team/marty-cagan/).
 
 ## [Aug 04, 2022](/content/2022/08/04/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [Is your company product-led, sales-led, or marketing-led?](https://philippcannons.com/is-your-company-product-led-sales-led-or-marketing-led/) - By [Philipp Cannons](https://philippcannons.com).
 *   [Getting to the Product Manager interview stage](https://glenngillen.com/getting-the-pm-interview/) - By Glenn Gillen.
 
 ## [May 21, 2022](/content/2022/05/21/README.md)
 
-### Books / Screeb
+### Books / Obsidian
 
 *   [The Power of Habit: Why We Do What We Do in Life and Business](https://www.barnesandnoble.com/w/the-power-of-habit-charles-duhigg/1103588638) - By Charles Duhigg.
 
 ## [May 20, 2022](/content/2022/05/20/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [Guide to building a product roadmap](https://hellonext.co/blog/how-to-build-great-product-roadmap) - By Hellonext, Inc.
 
-### Books / Screeb
+### Books / Obsidian
 
 *   [Good Strategy, Bad Strategy](https://www.barnesandnoble.com/w/good-strategy-bad-strategy-richard-rumelt/1101087922?ean=9780307886231) - By Richard Rumelt.
 *   [Crossing The Chasm](https://www.barnesandnoble.com/w/crossing-the-chasm-3rd-edition-geoffrey-a-moore/1116092388?ean=9780062292988) - By Geoffrey A. Moore.
@@ -105,48 +105,48 @@
 
 ## [Feb 08, 2022](/content/2022/02/08/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [Want To Build An Incredible Product? Strive For The Delta Of “Wow”](https://medium.com/@waynechang/want-to-build-an-incredible-product-strive-for-the-delta-of-wow-f184b716af18) - By [Wayne Chang](https://chang.com/).
 
 ## [Sep 03, 2021](/content/2021/09/03/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [The Black Box of Product Management](https://blackboxofpm.com/the-black-box-of-product-management-3feb65db6ddb) - By [Brandon Chu](https://medium.com/@brandonmchu).
 
 ## [Sep 01, 2021](/content/2021/09/01/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [Why Product Operations is the Next Iteration in Product Management](https://productcraft.com/perspectives/why-product-operations-is-the-next-iteration-in-product-management/) - By [Christine Itwaru](https://productschool.com/product-leaders/christine-itwaru).
 
 ## [Aug 13, 2021](/content/2021/08/13/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [So You Wanted to be a Product Manager](https://stackoverflow.blog/2020/01/09/humor-so-you-wanted-to-be-a-product-manager/) - By [Scott C. Reynolds](https://stackoverflow.blog/author/sreynolds/).
 
 ## [Aug 07, 2021](/content/2021/08/07/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [Do you really understand the concept of product value?](https://www.productboard.com/blog/do-you-really-understand-the-concept-of-product-value/) - by [Hubert Palan](https://www.linkedin.com/in/hubertpalan/).
 *   [How to Calculate Customer Lifetime Value](https://blog.hubspot.com/service/how-to-calculate-customer-lifetime-value) - By [Clint Fontanella](https://www.linkedin.com/in/clint-fontanella-973271140/).
 
-### Books / Screeb
+### Books / Obsidian
 
 *   [The Art of Doing Science and Engineering: Learning to Learn](https://en.wikipedia.org/wiki/The_Art_of_Doing_Science_and_Engineering) - By Richard W. Hamming.
 
 ## [Aug 01, 2021](/content/2021/08/01/README.md)
 
-### Books / Screeb
+### Books / Obsidian
 
 *   [An Elegant Puzzle](https://lethain.com/elegant-puzzle/) - By Will Larson.
 
 ## [Jul 25, 2021](/content/2021/07/25/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [Product Management Mental Models for Everyone](https://blackboxofpm.com/product-management-mental-models-for-everyone-31e7828cb50b) - By [Brandon Chu](https://medium.com/@brandonmchu).
 *   [Virtuous Cycles, Platforms, Flywheels, Snowballs, and Tidal Waves](https://ceklog.kindel.com/2021/03/30/virtuous-cycles-platforms-flywheels-snowballs-and-tidal-waves/) - By [Charlie Kindel](https://www.linkedin.com/in/ckindel/).
@@ -157,17 +157,17 @@
 *   [Breaking into Product Management — Should you even consider it?](https://medium.com/@sshubhi/breaking-into-product-management-a-guide-c6fa3bc59449) - By [Shubhi Saxena](https://medium.com/@sshubhi).
 *   [How to Work With Software Engineers](https://www.bringthedonuts.com/essays/how-to-work-with-software-engineers.html) - By [Ken Norton](https://www.bringthedonuts.com/).
 
-### Books / Screeb
+### Books / Obsidian
 
 *   [Intercom on Product Management](https://www.intercom.com/resources/books/intercom-product-management)
 
 ## [Jul 22, 2021](/content/2021/07/22/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [PM at Microsoft](https://web.archive.org/web/20180220022153/https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) - By [Steven Sinofsky](https://en.wikipedia.org/wiki/Steven_Sinofsky).
 
-### Books / Screeb
+### Books / Obsidian
 
 *   [The Customer-Driven Playbook](https://www.oreilly.com/library/view/the-customer-driven-playbook/9781491981269/) - By Jessica Rich and Travis Lowdermilk.
 *   [Escaping The Build Trap](https://www.oreilly.com/library/view/escaping-the-build/9781491973783/) - By Melissa Perri.
@@ -175,58 +175,58 @@
 
 ## [Nov 09, 2020](/content/2020/11/09/README.md)
 
-### Additional resources / Screeb
+### Additional resources / Obsidian
 
 *   [Mobbin](https://mobbin.design/) - Hand-picked collection of mobile app design patterns.
 
 ## [May 12, 2020](/content/2020/05/12/README.md)
 
-### Books / Screeb
+### Books / Obsidian
 
 *   [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507) - By Marty Cagan.
 
 ## [May 02, 2020](/content/2020/05/02/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [On narratives](https://ceklog.kindel.com/?s=narratives) - By [Charlie Kindel](https://www.linkedin.com/in/ckindel/).
 
 ## [Jan 25, 2020](/content/2020/01/25/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [The dark side of expertise](https://lwn.net/Articles/809556/) - By Jake Edge.
 
-### Books / Screeb
+### Books / Obsidian
 
 *   [Creative Selection](http://creativeselection.io/) - By Ken Kocienda.
 
 ## [Nov 15, 2019](/content/2019/11/15/README.md)
 
-### Additional resources / Screeb
+### Additional resources / Obsidian
 
 *   [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
 
 ## [Jun 20, 2019](/content/2019/06/20/README.md)
 
-### Books / Screeb
+### Books / Obsidian
 
 *   [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X/) - By Jake Knapp, John Zeratsky, Braden Kowitz.
 
 ## [May 26, 2019](/content/2019/05/26/README.md)
 
-### Books / Screeb
+### Books / Obsidian
 
 *   [Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity](https://www.amazon.com/Radical-Candor-Kickass-Without-Humanity/dp/1250103509) - By Kim Scott.
 
-### Conferences / Screeb
+### Conferences / Obsidian
 
 *   [Industry](https://industryconference.com/) - Over 3 days, attendees will learn from renowned product leaders and share the latest methods, tools, and frameworks that they use to build, launch and scale world-class software products. Building world-class software products is hard. At INDUSTRY you will see how others manage product in different environments, from fast-paced startups to complex large enterprises.
 *   [ProductCon](https://www.productschool.com/productcon/) - Organized by Product School, ProductCon takes place five times a year with events in San Francisco, Los Angeles, New York, Seattle and London. The speaker lineup features product leaders from Google, Slack, Amazon, Airbnb, Netflix, Facebook and more. You’ll learn best practices behind the most successful products, and new trends in AI, VR, IoT and Blockchain. You’ll also have the opportunity to interact with all our sponsor companies interested in recruiting PMs.
 
 ## [Apr 24, 2019](/content/2019/04/24/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [The Quintessential Guide For Building An Unforgettable First-time User Experience](https://hackernoon.com/the-quintessential-guide-for-building-an-unforgettable-first-time-user-experience-19720a7447d2) - By [Wayne Chang](https://chang.com/).
 *   [One door at a time](https://m.signalvnoise.com/one-door-at-a-time/) - By [Jason Fried](https://world.hey.com/jason).
@@ -246,7 +246,7 @@
 *   [Speed as a habit](http://firstround.com/review/speed-as-a-habit/) - By [Dave Girouard](https://www.linkedin.com/in/davegirouard).
 *   [A Comprehensive Guide To Product Design](https://www.smashingmagazine.com/2018/01/comprehensive-guide-product-design/) - By [Nick Babich](https://www.smashingmagazine.com/author/nickbabich).
 
-### Books / Screeb
+### Books / Obsidian
 
 *   [Switch: How to Change Things When Change Is Hard](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752) - By Chip Heath and Dan Heath.
 *   [Made to Stick: Why Some Ideas Survive and Others Die](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287) - By Chip Heath and Dan Heath.
@@ -263,7 +263,7 @@
 *   [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221) - By John Doerr.
 *   [The Design of Everyday Things: Revised and Expanded Edition](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654) - By Don Norman.
 
-### Communities / Screeb
+### Communities / Obsidian
 
 *   [Women in Product](https://www.womenpm.org/) (*using [Facebook](https://facebook.com)*)
 *   [Product School](https://www.productschool.com/) (*using [Slack](https://slack.com/)*)

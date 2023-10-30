@@ -20,11 +20,11 @@
 
 *   [Tinkers Construct](https://minecraft.curseforge.com/projects/tinkers-construct) - Tinkers' Construct is a mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else.
 *   [Immersive Engineering](https://minecraft.curseforge.com/projects/immersive-engineering) - Immersive Engineering is a tech mod with a certain charm, based on the ideas and concepts, and with most assets created by Damien Hazard.
-*   [Botania (⭐1.1k)](https://github.com/Vazkii/Botania) - Botania is a tech mod in essence. The theme is natural magic.
+*   [Botania (⭐1.2k)](https://github.com/Vazkii/Botania) - Botania is a tech mod in essence. The theme is natural magic.
 
 ### Mods / Energy
 
-*   [Applied Energistics 2 (⭐1.2k)](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world.
+*   [Applied Energistics 2 (⭐1.3k)](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world.
 *   [RFTools](https://minecraft.curseforge.com/projects/rftools) - RFTools is a mod containing various tools that are related to RF (Redflux) or technology in general.
 
 ### Mods / Farming And Food
@@ -33,15 +33,15 @@
 
 ### Server Plugins / Building
 
-*   [AntiCheatReloaded (⭐98)](https://github.com/Rammelkast/AntiCheatReloaded) - AntiCheatReloaded helps server admins easily identify and block malicious users by monitoring and analyzing the behaviour of their players.
-*   [ViaVersion (⭐910)](https://github.com/MylesIsCool/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
+*   [AntiCheatReloaded (⭐102)](https://github.com/Rammelkast/AntiCheatReloaded) - AntiCheatReloaded helps server admins easily identify and block malicious users by monitoring and analyzing the behaviour of their players.
+*   [ViaVersion (⭐1k)](https://github.com/MylesIsCool/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
 *   [AdvancedKitsReloaded (⭐10)](https://github.com/TryHardDood/AdvancedKitsReloaded) - AdvancedKitsReloaded is a Kit managing plugin for Minecraft servers which runs Bukkit, CraftBukkit, Spigot and Paper (>1.8). With this plugin you can easily create/edit/delete your kits and you can customize it as much as you'd like.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Frameworks
 
-*   [ETL (⭐1.6k)](https://github.com/ETLCPP/etl) - Embedded Template Library. \[MIT]
+*   [ETL (⭐1.8k)](https://github.com/ETLCPP/etl) - Embedded Template Library. \[MIT]
 
 ---
 

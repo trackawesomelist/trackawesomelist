@@ -43,13 +43,13 @@
 
 ### Style Guides / Components
 
-*   [Shared TSLint & codelyzer rules by fulls1z3 (⭐176)](https://github.com/ng-seed/angular-tslint-rules)
+*   [Shared TSLint & codelyzer rules by fulls1z3 (⭐173)](https://github.com/ng-seed/angular-tslint-rules)
 
 ## [7. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Implementations
 
-*   [CPython (⭐52k)](https://github.com/python/cpython) - **Default, most widely used implementation of the Python programming language written in C.**
+*   [CPython (⭐54k)](https://github.com/python/cpython) - **Default, most widely used implementation of the Python programming language written in C.**
 
 ## [8. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Color Palettes / Web App
 
-*   [Color Name List (⭐1.9k)](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
+*   [Color Name List (⭐2.2k)](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
 
 ## [10. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
@@ -93,7 +93,7 @@
 
 *   [**Basscss**](https://basscss.com) - Low-level CSS toolkit.\
     ![](https://img.shields.io/github/stars/basscss/basscss.svg?style=social\&label=Star)
-    [Repo (⭐5.7k)](https://github.com/basscss/basscss/)
+    [Repo (⭐5.8k)](https://github.com/basscss/basscss/)
 *   [**Cutestrap**](https://www.cutestrap.com) - Sassy, opinionated CSS framework, a tiny alternative to Bootstrap.\
     ![](https://img.shields.io/github/stars/tylerchilds/cutestrap.svg?style=social\&label=Star)
     [Repo (⭐1.6k)](https://github.com/tylerchilds/cutestrap)
@@ -104,8 +104,8 @@
     [Repo (⭐1.4k)](https://github.com/nathansmith/unsemantic)
 *   [**Centurion**](https://www.centurionframework.com) - Web-based framework for rapid prototyping and building larger web projects.\
     ![](https://img.shields.io/github/stars/justinhough/Centurion.svg?style=social\&label=Star)
-    [Docs (⭐326)](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
-    [Repo (⭐326)](https://github.com/justinhough/Centurion)
+    [Docs (⭐327)](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
+    [Repo (⭐327)](https://github.com/justinhough/Centurion)
 
 ## [14. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
@@ -136,7 +136,7 @@
 
 ### DevTools / Other external resources
 
-*   [rails-dashboard (⭐137)](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
+*   [rails-dashboard (⭐144)](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
 
 ## [18. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
@@ -188,11 +188,11 @@
 
 ### Frameworks, Libraries and Tools / Database
 
-*   [DBreeze (⭐445)](https://github.com/hhblaze/DBreeze) - C# .NET MONO NOSQL (key value store embedded) ACID multi-paradigm database management system.
-*   [JsonFlatFileDataStore (⭐323)](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data.
-*   [NoDb (⭐178)](https://github.com/joeaudette/NoDb) - "no database" file system storage for .NET Core/ASP.NET Core because not every project needs a database.
-*   [marten (⭐1.9k)](https://github.com/JasperFx/marten) - Postgresql as a Document Database and Event Store for .NET Applications <http://jasperfx.github.io/marten>.
-*   [yessql (⭐1k)](https://github.com/sebastienros/yessql) - .NET document database working on any RDBMS.
+*   [DBreeze (⭐481)](https://github.com/hhblaze/DBreeze) - C# .NET MONO NOSQL (key value store embedded) ACID multi-paradigm database management system.
+*   [JsonFlatFileDataStore (⭐389)](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data.
+*   [NoDb (⭐182)](https://github.com/joeaudette/NoDb) - "no database" file system storage for .NET Core/ASP.NET Core because not every project needs a database.
+*   [marten (⭐2.5k)](https://github.com/JasperFx/marten) - Postgresql as a Document Database and Event Store for .NET Applications <http://jasperfx.github.io/marten>.
+*   [yessql (⭐1.1k)](https://github.com/sebastienros/yessql) - .NET document database working on any RDBMS.
 
 ### Frameworks, Libraries and Tools / SDKs
 
@@ -245,13 +245,13 @@
 
 ### CLI
 
-*   [Argh! (⭐1.1k)](https://github.com/adishavit/argh) - A minimalist, frustration-free, header-only argument handler. \[BSD]
+*   [Argh! (⭐1.2k)](https://github.com/adishavit/argh) - A minimalist, frustration-free, header-only argument handler. \[BSD]
 
 ## [29. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Frameworks
 
-*   [Mono (⭐10k)](https://github.com/mono/mono) - Open source ECMA CLI, C#, F#, VB and .NET implementation
+*   [Mono (⭐11k)](https://github.com/mono/mono) - Open source ECMA CLI, C#, F#, VB and .NET implementation
 
 ### Tools
 
@@ -275,7 +275,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vuejs-dialog (⭐353)](https://github.com/Godofbrowser/vuejs-dialog) - A lightweight, promise based alert, prompt and confirm dialog.
+*   [vuejs-dialog (⭐350)](https://github.com/Godofbrowser/vuejs-dialog) - A lightweight, promise based alert, prompt and confirm dialog.
 
 ### Components & Libraries / UI Utilities
 
@@ -364,7 +364,7 @@ Webpage: <https://www.facebook.com/cafelinne/>
 ### Example Projects
 
 *   [Monitor your keycloak with prometheus (⭐64)](https://github.com/larscheid-schmitzhermes/keycloak-monitoring-prometheus)
-*   [Custom User Storage Provider .ear with jboss-cli setup (⭐89)](https://github.com/thomasdarimont/keycloak-user-storage-provider-demo)
+*   [Custom User Storage Provider .ear with jboss-cli setup (⭐90)](https://github.com/thomasdarimont/keycloak-user-storage-provider-demo)
 
 ---
 

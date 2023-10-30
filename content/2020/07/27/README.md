@@ -34,7 +34,7 @@
 
 ### Finance
 
-- API: [Real Time Finance (⭐46)](https://github.com/Real-time-finance/finance-websocket-API/)
+- API: [Real Time Finance (⭐58)](https://github.com/Real-time-finance/finance-websocket-API/)
 
   Description: Websocket API to access realtime stock data
 
@@ -48,7 +48,7 @@
 
 ## [6. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
-### Authentication / SAML
+### SAML / Macaroons
 
 *   [What's the Difference Between OAuth, OpenID Connect, and SAML?](https://www.okta.com/identity-101/whats-the-difference-between-oauth-openid-connect-and-saml/) - Identity is hard. Another take on the different protocol is always welcome to help makes sense of it all.
 
@@ -56,19 +56,19 @@
 
 ### Components & Libraries / UI Components
 
-*   [ckeditor4-vue (⭐62)](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js.
+*   [ckeditor4-vue (⭐68)](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js.
 
 ## [8. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Database
 
-*   [ObjectBox (⭐392)](https://github.com/objectbox/objectbox-swift) - ObjectBox is a superfast, light-weight object persistence framework.
+*   [ObjectBox (⭐399)](https://github.com/objectbox/objectbox-swift) - ObjectBox is a superfast, light-weight object persistence framework.
 
 ## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Database Drivers/Clients
 
-*   [cryomongo (⭐59)](https://github.com/elbywan/cryomongo) - MongoDB driver
+*   [cryomongo (⭐66)](https://github.com/elbywan/cryomongo) - MongoDB driver
 
 ---
 

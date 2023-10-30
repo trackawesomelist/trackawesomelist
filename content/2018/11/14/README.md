@@ -10,7 +10,7 @@
 
 ### Dependency Injection
 
-*   [Dependencies (⭐28)](https://github.com/marcguilera/dependencies.dart) - A simple and modular dependency injection system which doesn't use mirrors.
+*   [Dependencies (⭐30)](https://github.com/marcguilera/dependencies.dart) - A simple and modular dependency injection system which doesn't use mirrors.
 
 ## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Heimdall](https://heimdall.site/) - Heimdall is an elegant solution to organise all your web applications. ([Source Code (⭐6k)](https://github.com/linuxserver/Heimdall)) `MIT` `PHP`
+*   [Heimdall](https://heimdall.site/) - Heimdall is an elegant solution to organise all your web applications. ([Source Code (⭐6.6k)](https://github.com/linuxserver/Heimdall)) `MIT` `PHP`
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Networking
 
-*   [libpcap (⭐2.2k)](https://github.com/the-tcpdump-group/libpcap) - A portable C/C++ library for network traffic capture. \[BSD] [website](https://www.tcpdump.org/)
+*   [libpcap (⭐2.3k)](https://github.com/the-tcpdump-group/libpcap) - A portable C/C++ library for network traffic capture. \[BSD] [website](https://www.tcpdump.org/)
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

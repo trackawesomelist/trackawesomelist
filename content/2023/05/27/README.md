@@ -10,36 +10,36 @@
 
 ### Tools / Services
 
-*   [Gorilla (⭐633)](https://github.com/ShishirPatil/gorilla): An API store for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)
+*   [Gorilla (⭐8.4k)](https://github.com/ShishirPatil/gorilla): An API store for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Unofficial
 
-*   [Crystal Shards for Ruby Gems (⭐18k)](https://github.com/crystal-lang/crystal/wiki/Crystal-Shards-for-Ruby-Gems) - A list of Ruby Gems and their Crystal Shards equivalents
+*   [Crystal Shards for Ruby Gems (⭐19k)](https://github.com/crystal-lang/crystal/wiki/Crystal-Shards-for-Ruby-Gems) - A list of Ruby Gems and their Crystal Shards equivalents
 
 ## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Miscellaneous
 
 *   [nodgui](https://notabug.org/cage/nodgui) - Bindings for the Tk toolkit, based on Ltk, with syntax sugar and additional widgets. [LLGPL](http://opensource.franz.com/preamble.html).
-    *   🎨 supports [tk custom themes](https://wiki.tcl-lang.org/page/List+of+ttk+Themes), such as [ttkthemes](https://ttkthemes.readthedocs.io/en/latest/themes.html) and [Forest-ttk-theme (⭐155)](https://github.com/rdbende/Forest-ttk-theme).
+    *   🎨 supports [tk custom themes](https://wiki.tcl-lang.org/page/List+of+ttk+Themes), such as [ttkthemes](https://ttkthemes.readthedocs.io/en/latest/themes.html) and [Forest-ttk-theme (⭐218)](https://github.com/rdbende/Forest-ttk-theme).
 
 ### Deployment / Isomorphic web frameworks
 
-*   [common-lisp-heroku-example (⭐4)](https://github.com/fstamour/common-lisp-heroku-example) -  Example of Common Lisp server on Heroku using Docker.
+*   [common-lisp-heroku-example (⭐5)](https://github.com/fstamour/common-lisp-heroku-example) -  Example of Common Lisp server on Heroku using Docker.
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### JSON
 
-*   [jsonvalue (⭐151)](https://github.com/Andrew-M-C/go.jsonvalue) - A fast and convinient library for unstructured JSON data, replacing `encoding/json`.
+*   [jsonvalue (⭐159)](https://github.com/Andrew-M-C/go.jsonvalue) - A fast and convenient library for unstructured JSON data, replacing `encoding/json`.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Astronomy
 
-*   [cds-astro/aladin-lite (⭐53)](https://github.com/cds-astro/aladin-lite) - Web application for visualizing spatial and planetary image surveys in different projections
+*   [cds-astro/aladin-lite (⭐71)](https://github.com/cds-astro/aladin-lite) - Web application for visualizing spatial and planetary image surveys in different projections
 
 ## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -70,8 +70,9 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [maxmx03/FluoroMachine.nvim (⭐64)](https://github.com/maxmx03/FluoroMachine.nvim) - Synthwave x Fluoromachine port.
+*   [maxmx03/FluoroMachine.nvim (⭐116)](https://github.com/maxmx03/FluoroMachine.nvim) - Synthwave x Fluoromachine port.
 
 ---
 
+- Prev: [May 28, 2023](/content/2023/05/28/README.md)
 - Next: [May 26, 2023](/content/2023/05/26/README.md)

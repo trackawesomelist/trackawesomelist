@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 18, 2017
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -98,7 +98,17 @@
 
 *   [Functional Programming: What? Why? When?](https://vimeo.com/97514630) by **Robert C. Martin** \[58:26]
 
-## [3. Awesome Opengl](/content/eug/awesome-opengl/README.md)
+## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Erlang / Phoenix
+
+*   [Stuff Goes Bad: Erlang in Anger](https://www.erlang-in-anger.com) - Fred Herbert (PDF)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Build applications in Python the antitextbook (⭐543)](http://github.com/thewhitetulip/build-app-with-python-antitextbook) (3.x) (HTML, PDF, EPUB, Mobi)
+
+## [4. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 
 ### Debug
 
@@ -107,7 +117,7 @@
 
 ### References
 
-*   [OpenGL API Tables](http://web.eecs.umich.edu/\~sugih/courses/eecs487/common/notes/APITables.xml) - Quick reference of API's for several OpenGL and GLSL versions.
+*   [OpenGL API Tables](http://web.eecs.umich.edu/~sugih/courses/eecs487/common/notes/APITables.xml) - Quick reference of API's for several OpenGL and GLSL versions.
 *   [OpenGL Cheat Sheet](https://www.khronos.org/files/opengl43-quick-reference-card.pdf) - Quick reference card of OpenGL 4.3 commands and syntax.
 
 ### Talks
@@ -130,15 +140,15 @@
 
 ### Related lists
 
-*   [awesome-webgl (⭐1.1k)](https://github.com/sjfricke/awesome-webgl) - A curated list of awesome WebGL libraries, resources and much more.
+*   [awesome-webgl (⭐1.2k)](https://github.com/sjfricke/awesome-webgl) - A curated list of awesome WebGL libraries, resources and much more.
 
-## [4. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
+## [5. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 
 ### Web / Frameworks
 
 *   [Database and Persistence](https://wiki.haskell.org/Web/Databases_and_Persistence) - Official Website Resources.
 
-## [5. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
+## [6. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 
 ### Libraries / Python
 
@@ -148,14 +158,14 @@
 
 *   [GitHub Flavored Markdown Specifications](https://github.github.com/gfm/) - The formal spec for GitHub's Markdown, based on CommonMark.
 
-## [6. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [7. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Conferences / Ruby
 
 *   [Explore DDD - USA](http://exploreddd.com/)
 *   [Kandddinsky - Germany](http://kandddinsky.com/)
 
-## [7. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/README.md)
+## [8. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/README.md)
 
 ### Identity Applications / Public Blockchain Identity
 
@@ -192,13 +202,13 @@
 *   [lumo](https://lumoenergy.com.au) - Energy provider. Experiment with blockchain.
 *   [PowerLedger](https://powerledger.io) - Decentralised energy marketpace.
 
-## [8. Awesome R](/content/qinwf/awesome-R/README.md)
+## [9. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Podcasts / Book/monograph Lists and Reviews
 
 *   [R Weekly](https://rweekly.org) - Weekly news updates about the R community.
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 

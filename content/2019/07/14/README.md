@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 14, 2019
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,9 +10,9 @@
 
 ### Applications
 
-*   [croc (⭐22k)](https://github.com/schollz/croc): Easily and securely send files and folders from one computer to another in command line.
+*   [croc (⭐23k)](https://github.com/schollz/croc): Easily and securely send files and folders from one computer to another in command line.
 *   [norcal](https://github.com/substack/norcal): P2P command-line calendar in Node.js. Can sync, link, embed, and edit offline.
-*   [twtxt (⭐38)](https://github.com/getwtxt/getwtxt): Decentralized microblogging platform "for hackers" based on text files. The user is "followed" and "mentioned" by referencing the URL to their twtxt.txt file and a nickname.
+*   [twtxt (⭐40)](https://github.com/getwtxt/getwtxt): Decentralized microblogging platform "for hackers" based on text files. The user is "followed" and "mentioned" by referencing the URL to their twtxt.txt file and a nickname.
 
 ## [2. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
@@ -28,13 +28,13 @@
 
 ### Data Visualization / Graph Based approach
 
-*   Graph Classification [awesome-graph-classification (⭐4.5k)](https://github.com/benedekrozemberczki/awesome-graph-classification).
+*   Graph Classification [awesome-graph-classification (⭐4.6k)](https://github.com/benedekrozemberczki/awesome-graph-classification).
 
 ## [4. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Notification
 
-*   [simple-react-notifications (⭐61)](https://github.com/alexpermyakov/simple-react-notifications) - [demo](https://alexpermyakov.github.io/simple-react-notifications/) - Tiny notification library (1kb gzip).
+*   [simple-react-notifications (⭐60)](https://github.com/alexpermyakov/simple-react-notifications) - [demo](https://alexpermyakov.github.io/simple-react-notifications/) - Tiny notification library (1kb gzip).
 
 ## [5. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -108,13 +108,7 @@
 *   [Discord](https://discordapp.com/invite/cnFmDyA) - Official Discord.
 *   [Waves Community Forum](https://forum.wavesplatform.com/) - Official forum.
 
-## [7. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
-
-### Apps
-
-*   [ToDo List Demo](https://ipfs.io/ipfs/QmSGQrmvHe6fFiWdV2H8YnhLaoX4qe5nYEmJfUFx6LdUYa/) - A ToDo List demo app that uses windows.ipfs. [Source (⭐16)](https://github.com/ipfs-shipyard/demo-ipfs-todo)
-
-## [8. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+## [7. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Streaming SQL
 
@@ -129,26 +123,26 @@
 *   [jubatus](http://jubat.us/en/) \[C++] - distributed processing framework and streaming machine learning library.
 *   [millwheel](http://research.google.com/pubs/pub41378.html) - framework for building low-latency data-processing applications that is widely used at Google.
 
-## [9. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [8. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Open Source Projects / Operating Systems
 
 *   [Elementary OS](https://www.patreon.com/elementary) - Ubuntu variant.
 *   [FreeDOS](https://www.patreon.com/freedos) - MS-DOS compatible operating system.
 
-## [10. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+## [9. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Python / Trading & Backtesting
 
 *   [Backtesting.py](https://kernc.github.io/backtesting.py/) - Backtest trading strategies in Python
 
-## [11. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
+## [10. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
 ### Become an Appium Pro
 
 *   [Optimizing WebDriverAgent Startup Performance](https://appiumpro.com/editions/77)
 
-## [12. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [11. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Programming / JavaScript
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 10, 2016
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -36,13 +36,19 @@
 *   [Ace](https://ace.c9.io/#nav=about) - Ace is an embeddable code editor written in JavaScript
 *   [Behave.js](http://jakiestfu.github.io/Behave.js/) - lightweight library for adding IDE style behaviors to plain text areas
 
-## [3. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)
+## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Go / Phoenix
+
+*   [Learning Go](https://miek.nl/go/)
+
+## [4. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)
 
 ### Traffic Analysis/Inspection
 
-*   [potiron (⭐73)](https://github.com/CIRCL/potiron): Normalizes, indexes, enriches and visualizes network captures.
+*   [potiron (⭐77)](https://github.com/CIRCL/potiron): Normalizes, indexes, enriches and visualizes network captures.
 
-## [4. Tips](/content/git-tips/tips/README.md)
+## [5. Tips](/content/git-tips/tips/README.md)
 
 ## Dry run. (any command that supports dry-run flag should do.)
 
@@ -50,19 +56,19 @@
 git clean -fd --dry-run
 ```
 
-## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Job queues
 
 *   [bull (⭐14k)](https://github.com/OptimalBits/bull) - Persistent job and message queue.
 
-## [6. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
+## [7. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 
 ### Open Source
 
 *   [Syncano (⭐5)](https://github.com/Syncano/syncano-fuse-example) - Simple example of integration Syncano with Fuse.
 
-## [7. Awesome Computer History](/content/watson/awesome-computer-history/README.md)
+## [8. Awesome Computer History](/content/watson/awesome-computer-history/README.md)
 
 ### Videos / Documentaries
 
@@ -73,7 +79,7 @@ git clean -fd --dry-run
 
 *   [The Origins of Linux - Linus Torvalds](https://www.youtube.com/watch?v=WVTWCPoUt8w) (2001) - Linus Torvalds tells the story of how he went from writing code as a graduate student to become an icon for open source software.
 
-## [8. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
+## [9. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Modules / Array
 
@@ -82,9 +88,9 @@ git clean -fd --dry-run
 ### Modules / Function
 
 *   [identity-function](https://github.com/substack/identity-function) - Always return the input argument.
-*   [mem (⭐977)](https://github.com/sindresorhus/mem) - An optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
+*   [mem (⭐1k)](https://github.com/sindresorhus/mem) - An optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
 
-## [9. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
+## [10. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 
 ### Table of Contents / Books
 

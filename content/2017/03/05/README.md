@@ -16,17 +16,13 @@
 
 ### General / Other
 
-*   [Pentest Cheat Sheets (⭐3k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
+*   [Pentest Cheat Sheets (⭐3.5k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
 
 ## [3. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
-### Languages
-
-*   [Malbolge](http://www.lscheffer.com/malbolge.shtml) - Named after the 8th level of hell, is designed to be as difficult as possible to program.
-
 ### Resources
 
-*   [Esofiles (⭐87)](https://github.com/graue/esofiles) - The Esoteric Files Archive, an archive of implementations of esoteric programming languages and examples.
+*   [Esofiles (⭐89)](https://github.com/graue/esofiles) - The Esoteric Files Archive, an archive of implementations of esoteric programming languages and examples.
 
 ## [4. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
@@ -62,7 +58,7 @@
 
 ### Contents / Backups
 
-*   [pg\_probackup (⭐569)](https://github.com/postgrespro/pg_probackup) – A fork of pg\_arman, improved by @PostgresPro, supports incremental backups, backups from replica, multithreaded backup and restore, and anonymous backup without archive command.
+*   [pg\_probackup (⭐594)](https://github.com/postgrespro/pg_probackup) – A fork of pg\_arman, improved by @PostgresPro, supports incremental backups, backups from replica, multithreaded backup and restore, and anonymous backup without archive command.
 
 ### Contents / Extensions
 

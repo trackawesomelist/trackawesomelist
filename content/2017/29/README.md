@@ -19,7 +19,7 @@
 
 ### Packages / Network
 
-*   [DHCP (⭐279)](https://github.com/infusion/node-dhcp) - DHCP client and server.
+*   [DHCP (⭐287)](https://github.com/infusion/node-dhcp) - DHCP client and server.
 
 ## [3. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
 
@@ -104,8 +104,8 @@
 
 ### Containers / Docker
 
-*   [Ggr (⭐287)](https://github.com/aerokube/ggr) - A lightweight load balancer used to create big Selenium clusters.
-*   [Selenoid (⭐2.2k)](https://github.com/aerokube/selenoid) - A lightweight Selenium hub implementation launching browsers in Docker containers.
+*   [Ggr (⭐302)](https://github.com/aerokube/ggr) - A lightweight load balancer used to create big Selenium clusters.
+*   [Selenoid (⭐2.4k)](https://github.com/aerokube/selenoid) - A lightweight Selenium hub implementation launching browsers in Docker containers.
 
 ## [10. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
@@ -145,11 +145,11 @@
 
 ### Machine Learning and Data Science
 
-*   [Spreads (⭐397)](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams. Spreads library is optimized for performance and memory usage. It is several times faster than other open source projects.
+*   [Spreads (⭐401)](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams. Spreads library is optimized for performance and memory usage. It is several times faster than other open source projects.
 
 ### Queue
 
-*   [CAP (⭐6k)](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for RabbitMQ or Kafka.
+*   [CAP (⭐6.2k)](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for RabbitMQ or Kafka.
 
 ## [16. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
@@ -186,18 +186,18 @@
 
 ### Web / Web Application Firewall
 
-*   [ironbee (⭐294)](https://github.com/ironbee/ironbee) - IronBee is an open source project to build a universal web application security sensor. IronBee as a framework for developing a system for securing web applications - a framework for building a web application firewall (WAF).
+*   [ironbee (⭐296)](https://github.com/ironbee/ironbee) - IronBee is an open source project to build a universal web application security sensor. IronBee as a framework for developing a system for securing web applications - a framework for building a web application firewall (WAF).
 
 ### Big Data / Development
 
-*   [Apache Metron (incubating) (⭐837)](https://github.com/apache/incubator-metron) - Metron integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
-*   [Apache Spot (incubating) (⭐340)](https://github.com/apache/incubator-spot) - Apache Spot is open source software for leveraging insights from flow and packet analysis.
+*   [Apache Metron (incubating) (⭐839)](https://github.com/apache/incubator-metron) - Metron integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
+*   [Apache Spot (incubating) (⭐342)](https://github.com/apache/incubator-spot) - Apache Spot is open source software for leveraging insights from flow and packet analysis.
 
 ## [20. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### QA Tools / Runner
 
-*   [prettier (⭐45k)](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+*   [prettier (⭐47k)](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 
 ## [21. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
@@ -214,7 +214,7 @@
 ### Applications / Episodes
 
 *   [Mazda AIO Tweaks](https://mazdatweaks.com/) - All-in-one installer/uninstaller for many available Mazda MZD Infotainment System tweaks.
-*   [mazda\_getInfo (⭐146)](https://github.com/shipcod3/mazda_getInfo) - A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (known bug in the CMU).
+*   [mazda\_getInfo (⭐151)](https://github.com/shipcod3/mazda_getInfo) - A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (known bug in the CMU).
 
 ## [23. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
@@ -258,7 +258,6 @@
 ### Forums / Audio
 
 *   [Dhamma Wheel](https://dhammawheel.com/) - Discussion on a wide variety of topics pertaining to Theravada Buddhism.
-*   [Dhammaloka Community](http://community.dhammaloka.org.au/forum.php) - Ask and learn from the members of Dhammaloka City Centre in Australia.
 
 ### Suttas / Individual Suttas
 
@@ -272,7 +271,7 @@
 
 ### Sample Projects / JVM languages
 
-*   [Event Sourcing and CQRS Sample (⭐441)](https://github.com/pilloPl/event-source-cqrs-sample) - Sample event sourced application with Command Query Responsibility Segregation
+*   [Event Sourcing and CQRS Sample (⭐461)](https://github.com/pilloPl/event-source-cqrs-sample) - Sample event sourced application with Command Query Responsibility Segregation
 
 ## [29. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
@@ -324,7 +323,7 @@
 
 ### Build Tools
 
-*   [PlatformIO (⭐6.7k)](https://github.com/platformio/platformio-core) - A console tool to build code with different development platforms.
+*   [PlatformIO (⭐6.9k)](https://github.com/platformio/platformio-core) - A console tool to build code with different development platforms.
 
 ### CMS
 
@@ -349,7 +348,7 @@
 
 ### Environment Management
 
-*   [pyenv (⭐31k)](https://github.com/pyenv/pyenv) - Simple Python version management.
+*   [pyenv (⭐32k)](https://github.com/pyenv/pyenv) - Simple Python version management.
 
 ### Forms
 
@@ -370,12 +369,12 @@
 
 ### Package Repositories
 
-*   [localshop (⭐387)](https://github.com/jazzband/localshop) - Local PyPI server (custom packages and auto-mirroring of pypi).
+*   [localshop (⭐390)](https://github.com/jazzband/localshop) - Local PyPI server (custom packages and auto-mirroring of pypi).
 
 ### RESTful API
 
 *   Pyramid
-    *   [cornice (⭐376)](https://github.com/Cornices/cornice) - A RESTful framework for Pyramid.
+    *   [cornice (⭐374)](https://github.com/Cornices/cornice) - A RESTful framework for Pyramid.
 
 ### Science
 
@@ -390,13 +389,13 @@
 ### Testing
 
 *   Test Runners
-    *   [green (⭐759)](https://github.com/CleanCut/green) - A clean, colorful test runner.
+    *   [green (⭐767)](https://github.com/CleanCut/green) - A clean, colorful test runner.
     *   [mamba](http://nestorsalceda.github.io/mamba/) - The definitive testing tool for Python. Born under the banner of BDD.
     *   [tox](https://tox.readthedocs.io/en/latest/) - Auto builds and tests distributions in multiple Python versions
 
 ### Third-party APIs
 
-*   [django-wordpress (⭐337)](https://github.com/istrategylabs/django-wordpress) - WordPress models and views for Django.
+*   [django-wordpress (⭐339)](https://github.com/istrategylabs/django-wordpress) - WordPress models and views for Django.
 
 ## [31. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -486,28 +485,28 @@
 
 ### Authentication
 
-*   [LoginKit (⭐654)](https://github.com/IcaliaLabs/LoginKit) - LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.
+*   [LoginKit (⭐660)](https://github.com/IcaliaLabs/LoginKit) - LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.
 
 ### Chat
 
-*   [MessageKit (⭐5.6k)](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController.
+*   [MessageKit (⭐5.8k)](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController.
 
 ### Fonts
 
-*   [Inkwell (⭐151)](https://github.com/ninjaprox/Inkwell) - An inkwell to use custom fonts on the fly.
+*   [Inkwell (⭐152)](https://github.com/ninjaprox/Inkwell) - An inkwell to use custom fonts on the fly.
 
 ### Images / Barcode
 
-*   [gifu (⭐2.9k)](https://github.com/kaishin/gifu) - Highly performant animated GIF support for iOS.
+*   [gifu (⭐3k)](https://github.com/kaishin/gifu) - Highly performant animated GIF support for iOS.
 
 ### UI / Barcode
 
 *   [DeckTransition (⭐2.2k)](https://github.com/HarshilShah/DeckTransition) - A library to recreate the iOS 10 Apple Music now playing transition.
-*   [InstantSearch iOS (⭐571)](https://github.com/algolia/instantsearch-ios) - A library of widgets and helpers to build instant-search features on iOS.
+*   [InstantSearch iOS (⭐587)](https://github.com/algolia/instantsearch-ios) - A library of widgets and helpers to build instant-search features on iOS.
 
 ### UITableView / Barcode
 
-*   [SwipeCellKit (⭐6k)](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app.
+*   [SwipeCellKit (⭐6.1k)](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app.
 
 ## [36. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
@@ -617,23 +616,23 @@
 
 ### Boilerplates
 
-*   [Next Simple Starter (⭐910)](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
-*   [NextJS Starter (⭐1.3k)](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication.
+*   [Next Simple Starter (⭐920)](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
+*   [NextJS Starter (⭐1.4k)](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication.
 *   [RAN! (⭐2.2k)](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
-*   [Next Simple Blog (⭐553)](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports.
+*   [Next Simple Blog (⭐557)](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports.
 
 ### Apps
 
 *   [NextJS GOT (⭐32)](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
-*   [Relate (⭐330)](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
-*   [Password (⭐112)](https://github.com/dotcypress/password) - One password, right way.
-*   [Next Todos (⭐123)](https://github.com/lipp/next-todos) - Todo list written in Next.js.
-*   [Hacker News (⭐45)](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js.
+*   [Relate (⭐331)](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
+*   [Password (⭐113)](https://github.com/dotcypress/password) - One password, right way.
+*   [Next Todos (⭐122)](https://github.com/lipp/next-todos) - Todo list written in Next.js.
+*   [Hacker News (⭐44)](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js.
 *   [Jet Chat (⭐9)](https://github.com/lipp/jet-chat) - Jet and Next.js powered Chat demo.
 *   [Nextgram (⭐49)](https://github.com/arunoda/nextgram) - Sample Next.js v2 app for showing off its capabilities.
-*   [Rauchg Blog (⭐959)](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer.
+*   [Rauchg Blog (⭐1k)](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer.
 *   [Next JPH (⭐34)](https://github.com/renatorib/next-jph) - JsonPlaceholder sample app made with Next.js.
-*   [Mailto (⭐170)](https://github.com/dawsbot/mailto) - HTML mailto's made easy.
+*   [Mailto (⭐181)](https://github.com/dawsbot/mailto) - HTML mailto's made easy.
 *   [Plate (⭐49)](https://github.com/knipferrc/plate) - The task management app to rule them all.
 *   [Dashboard (⭐1.2k)](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
 *   [Trello Resume (⭐16)](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information.
@@ -659,22 +658,22 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-deepset (⭐93)](https://github.com/bhoriuchi/vue-deepset) - Interact with deeply nested fields in Vue/Vuex objects/state with v-model in Vue 1.x and 2.x
-*   [jsx-v-model (⭐154)](https://github.com/nickmessing/babel-plugin-jsx-v-model) - A Babel plugin that brings `v-model` to JSX.
+*   [vue-deepset (⭐92)](https://github.com/bhoriuchi/vue-deepset) - Interact with deeply nested fields in Vue/Vuex objects/state with v-model in Vue 1.x and 2.x
+*   [jsx-v-model (⭐155)](https://github.com/nickmessing/babel-plugin-jsx-v-model) - A Babel plugin that brings `v-model` to JSX.
 
 ## [46. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CLI Utilities
 
-*   [colorls (⭐4.5k)](https://github.com/athityakumar/colorls) - Beautifies the `ls` command, with color and font-awesome icons.
+*   [colorls (⭐4.6k)](https://github.com/athityakumar/colorls) - Beautifies the `ls` command, with color and font-awesome icons.
 
 ### Configuration
 
-*   [Chamber (⭐198)](https://github.com/thekompanee/chamber) - Surprisingly customizable convention-based approach to managing your app's configuration.
+*   [Chamber (⭐199)](https://github.com/thekompanee/chamber) - Surprisingly customizable convention-based approach to managing your app's configuration.
 
 ### Third-party APIs
 
-*   [Restforce (⭐760)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
+*   [Restforce (⭐780)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
 
 ## [47. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -1198,7 +1197,7 @@
 
 ### Frameworks, Libraries and Tools / Application Templates
 
-*   [QuickApp (⭐1.1k)](https://github.com/emonney/QuickApp) - ASP.NET Core / Angular4 startup project template with complete login, user and role management.
+*   [QuickApp (⭐1.2k)](https://github.com/emonney/QuickApp) - ASP.NET Core / Angular4 startup project template with complete login, user and role management.
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 

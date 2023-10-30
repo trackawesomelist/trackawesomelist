@@ -14,7 +14,7 @@
 
 ### Miscellaneous
 
-*   [gimei\_ex (⭐6)](https://github.com/ma2gedev/gimei_ex) - Elixir port of gimei library.
+*   [gimei\_ex (⭐7)](https://github.com/ma2gedev/gimei_ex) - Elixir port of gimei library.
 
 ## [2. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
 

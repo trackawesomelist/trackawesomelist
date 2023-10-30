@@ -46,10 +46,10 @@
 
 ### Compression
 
-*   [Brotli (⭐12k)](https://github.com/google/brotli) - Brotli compression format. Developed by Google. \[MIT]
+*   [Brotli (⭐13k)](https://github.com/google/brotli) - Brotli compression format. Developed by Google. \[MIT]
 *   [FiniteStateEntropy (⭐1.2k)](https://github.com/Cyan4973/FiniteStateEntropy) - New generation entropy codecs : Finite State Entropy and Huff0.
 *   [LZFSE (⭐1.7k)](https://github.com/lzfse/lzfse) - LZFSE compression library and command line tool. Developed by Apple.
-*   [zstd (⭐20k)](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm. Developed by Facebook. \[BSD]
+*   [zstd (⭐21k)](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm. Developed by Facebook. \[BSD]
 
 ### Build Systems
 
@@ -77,7 +77,7 @@
 
 ### Libraries / Cryptography
 
-*   [sfackler/rust-native-tls (⭐399)](https://github.com/sfackler/rust-native-tls) — Bindings for native TLS libraries
+*   [sfackler/rust-native-tls (⭐427)](https://github.com/sfackler/rust-native-tls) — Bindings for native TLS libraries
 
 ## [11. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
@@ -156,34 +156,34 @@
 
 ### Errors and Exception Handling
 
-*   [exceptional (⭐280)](https://github.com/expede/exceptional) - Helpers for happy-path programming & exception handling.
-*   [happy (⭐43)](https://github.com/vic/happy) - Happy path programming, alternative to elixir `with` form.
+*   [exceptional (⭐282)](https://github.com/expede/exceptional) - Helpers for happy-path programming & exception handling.
+*   [happy (⭐44)](https://github.com/vic/happy) - Happy path programming, alternative to elixir `with` form.
 
 ### Geolocation
 
-*   [geoip (⭐100)](https://github.com/navinpeiris/geoip) - Find geolocation for a given IP, hostname or `Plug.Conn`.
+*   [geoip (⭐109)](https://github.com/navinpeiris/geoip) - Find geolocation for a given IP, hostname or `Plug.Conn`.
 
 ### Images
 
-*   [thumbnex (⭐63)](https://github.com/talklittle/thumbnex) - Create thumbnails from images and video screenshots.
+*   [thumbnex (⭐65)](https://github.com/talklittle/thumbnex) - Create thumbnails from images and video screenshots.
 
 ### Instrumenting / Monitoring
 
-*   [elixometer (⭐818)](https://github.com/pinterest/elixometer) - A light Elixir wrapper around exometer.
-*   [erlang-metrics (⭐68)](https://github.com/benoitc/erlang-metrics) - A generic interface to different metrics systems in Erlang.
-*   [exometer (⭐519)](https://github.com/Feuerlabs/exometer) - Basic measurement objects and probe behavior in Erlang.
+*   [elixometer (⭐823)](https://github.com/pinterest/elixometer) - A light Elixir wrapper around exometer.
+*   [erlang-metrics (⭐69)](https://github.com/benoitc/erlang-metrics) - A generic interface to different metrics systems in Erlang.
+*   [exometer (⭐523)](https://github.com/Feuerlabs/exometer) - Basic measurement objects and probe behavior in Erlang.
 *   [folsom\_ddb (⭐5)](https://github.com/dalmatinerdb/folsom_ddb) - DalmatinerDB backend to store folsom metrics.
-*   [instream (⭐213)](https://github.com/mneudert/instream) - InfluxDB driver for Elixir.
-*   [instrumental (⭐9)](https://github.com/undeadlabs/instrumental-ex) - An Elixir client for [Instrumental](https://instrumentalapp.com/).
-*   [prometheus (⭐330)](https://github.com/deadtrickster/prometheus.erl) - [Prometheus.io](https://prometheus.io) monitoring system and time series database client in Erlang.
+*   [instream (⭐217)](https://github.com/mneudert/instream) - InfluxDB driver for Elixir.
+*   [instrumental (⭐10)](https://github.com/undeadlabs/instrumental-ex) - An Elixir client for [Instrumental](https://instrumentalapp.com/).
+*   [prometheus (⭐334)](https://github.com/deadtrickster/prometheus.erl) - [Prometheus.io](https://prometheus.io) monitoring system and time series database client in Erlang.
 
 ### Miscellaneous
 
-*   [spotify\_ex (⭐144)](https://github.com/jsncmgs1/spotify_ex) - An Elixir wrapper for the Spotify Web API.
+*   [spotify\_ex (⭐146)](https://github.com/jsncmgs1/spotify_ex) - An Elixir wrapper for the Spotify Web API.
 
 ### Natural Language Processing (NLP)
 
-*   [Paasaa (⭐108)](https://github.com/minibikini/paasaa) - Natural language detection for Elixir.
+*   [Paasaa (⭐111)](https://github.com/minibikini/paasaa) - Natural language detection for Elixir.
 
 ### ORM and Datamapping
 
@@ -191,15 +191,15 @@
 
 ### Protocols
 
-*   [SMPPEX (⭐0)](https://github.com/savonarola/smppex) - SMPP 3.4 protocol and framework implementation in Elixir.
+*   [SMPPEX (⭐1)](https://github.com/savonarola/smppex) - SMPP 3.4 protocol and framework implementation in Elixir.
 
 ### Statistics
 
-*   [numerix (⭐179)](https://github.com/safwank/Numerix) - A collection of useful mathematical functions with a slant towards statistics, linear algebra and machine learning.
+*   [numerix (⭐180)](https://github.com/safwank/Numerix) - A collection of useful mathematical functions with a slant towards statistics, linear algebra and machine learning.
 
 ### Templating
 
-*   [expug (⭐78)](https://github.com/rstacruz/expug) - Pug templates for Elixir.
+*   [expug (⭐80)](https://github.com/rstacruz/expug) - Pug templates for Elixir.
 
 ### Third Party APIs
 
@@ -207,15 +207,15 @@
 
 ### Utilities
 
-*   [retry (⭐416)](https://github.com/safwank/ElixirRetry) - Simple Elixir macros for linear retry, exponential backoff and wait with composable delays.
+*   [retry (⭐426)](https://github.com/safwank/ElixirRetry) - Simple Elixir macros for linear retry, exponential backoff and wait with composable delays.
 
 ### Validations
 
-*   [exop (⭐209)](https://github.com/madeinussr/exop) - A library that allows to encapsulate business logic and validate params with predefined contract.
+*   [exop (⭐212)](https://github.com/madeinussr/exop) - A library that allows to encapsulate business logic and validate params with predefined contract.
 
 ### Video
 
-*   [ffmpex (⭐197)](https://github.com/talklittle/ffmpex) - FFmpeg command line wrapper.
+*   [ffmpex (⭐206)](https://github.com/talklittle/ffmpex) - FFmpeg command line wrapper.
 
 ## [19. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
@@ -233,7 +233,7 @@
 
 ### Pattern Matching
 
-*   [Akar (⭐175)](https://github.com/missingfaktor/akar)
+*   [Akar (⭐174)](https://github.com/missingfaktor/akar)
 
 ## [22. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 
@@ -292,19 +292,19 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [Fable (⭐2.6k)](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler
+*   [Fable (⭐2.7k)](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler
 
 ### Database
 
-*   [Ignite (⭐4.5k)](https://github.com/apache/ignite) - Distributed in-memory platform: document database with SQL and LINQ support; distributed computations; distributed services and events.
+*   [Ignite (⭐4.6k)](https://github.com/apache/ignite) - Distributed in-memory platform: document database with SQL and LINQ support; distributed computations; distributed services and events.
 
 ### IoC
 
-*   [Scrutor (⭐3k)](https://github.com/khellang/Scrutor) - Assembly scanning extensions for Microsoft.Extensions.DependencyInjection.
+*   [Scrutor (⭐3.2k)](https://github.com/khellang/Scrutor) - Assembly scanning extensions for Microsoft.Extensions.DependencyInjection.
 
 ### Markdown Processors
 
-*   [markdig (⭐3.6k)](https://github.com/lunet-io/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET.
+*   [markdig (⭐3.8k)](https://github.com/lunet-io/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET.
 
 ### ORM
 
@@ -372,19 +372,19 @@
 
 ### Internationalization
 
-*   [Termit (⭐509)](https://github.com/pawurb/termit) - Translations with speech synthesis in your terminal.
+*   [Termit (⭐508)](https://github.com/pawurb/termit) - Translations with speech synthesis in your terminal.
 
 ## [35. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Python / Symfony2
 
-*   [Flask-Potion (⭐489)](https://github.com/biosustain/potion) - Flask-Potion is a powerful Flask extension for building RESTful JSON APIs. It also provides several Clients for easier access to the API.
+*   [Flask-Potion (⭐488)](https://github.com/biosustain/potion) - Flask-Potion is a powerful Flask extension for building RESTful JSON APIs. It also provides several Clients for easier access to the API.
 
 ## [36. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Honey Pot / Honey Net
 
-*   [HoneyPy (⭐435)](https://github.com/foospidy/HoneyPy) - HoneyPy is a low to medium interaction honeypot. It is intended to be easy to: deploy, extend functionality with plugins, and apply custom configurations.
+*   [HoneyPy (⭐438)](https://github.com/foospidy/HoneyPy) - HoneyPy is a low to medium interaction honeypot. It is intended to be easy to: deploy, extend functionality with plugins, and apply custom configurations.
 
 ## [37. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 

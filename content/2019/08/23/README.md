@@ -40,7 +40,7 @@
 
 ### Related / Other
 
-*   [awesome-nodejs (⭐51k)](https://github.com/sindresorhus/awesome-nodejs)
+*   [awesome-nodejs (⭐53k)](https://github.com/sindresorhus/awesome-nodejs)
 
 ## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -54,42 +54,34 @@
 
 *   [timewords (⭐27)](https://github.com/tokenmill/timewords)
 
-## [7. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
-
-### Libraries / Python
-
-*   [Mongo-Thingy (⭐66)](https://github.com/numberly/mongo-thingy) - Powerful schema-less ODM for MongoDB and Python (sync + async)
-
-### Tools / Monitoring
-
-*   [Mongoop (⭐38)](https://github.com/Lujeni/mongoop) - Long operations monitoring and alerting
-*   [Motop (⭐67)](https://github.com/tart/motop) - MongoDB top clone
-*   [mtop (⭐51)](https://github.com/beaufour/mtop) - Another top clone
-
-### Tools / Web
-
-*   [Mongoku (⭐1.2k)](https://github.com/huggingface/Mongoku) - MongoDB client for the web
-
-## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
-
-### JSON
-
-*   [SwiftyJSONAccelerator (⭐933)](https://github.com/insanoid/SwiftyJSONAccelerator) - macOS app to generate Swift 5 models for JSON (with Codeable).
-
-## [9. Awesome Osint](/content/jivoi/awesome-osint/README.md)
-
-### Image Search / Telegram
-
-*   [Lycos Image Search](http://search.lycos.com)
+## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Infographics and Data Visualization / Telegram
 
 *   [LocalFocus](https://www.localfocus.nl)
 *   [Visualize Free](http://visualizefree.com)
 
-### Productivity Tools / Telegram
+## [8. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
-*   [Leechblock NG](https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng)
+### Libraries / Python
+
+*   [Mongo-Thingy (⭐67)](https://github.com/numberly/mongo-thingy) - Powerful schema-less ODM for MongoDB and Python (sync + async)
+
+### Tools / Monitoring
+
+*   [Mongoop (⭐39)](https://github.com/Lujeni/mongoop) - Long operations monitoring and alerting
+*   [Motop (⭐67)](https://github.com/tart/motop) - MongoDB top clone
+*   [mtop (⭐50)](https://github.com/beaufour/mtop) - Another top clone
+
+### Tools / Web
+
+*   [Mongoku (⭐1.2k)](https://github.com/huggingface/Mongoku) - MongoDB client for the web
+
+## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+
+### JSON
+
+*   [SwiftyJSONAccelerator (⭐941)](https://github.com/insanoid/SwiftyJSONAccelerator) - macOS app to generate Swift 5 models for JSON (with Codeable).
 
 ## [10. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
 
@@ -107,7 +99,7 @@
 
 ### Software / Automation
 
-*   [ActiveWorkflow (⭐695)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents. `MIT` `Ruby`
+*   [ActiveWorkflow (⭐741)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents. `MIT` `Ruby`
 
 ## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

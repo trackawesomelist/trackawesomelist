@@ -39,7 +39,7 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [Prism (⭐5.4k)](https://github.com/PrismLibrary/Prism) - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Windows 10 UWP, and Xamarin Forms.
+*   [Prism (⭐5.8k)](https://github.com/PrismLibrary/Prism) - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Windows 10 UWP, and Xamarin Forms.
 
 ### Articles / Workflow
 
@@ -61,25 +61,25 @@
 
 ### Image - Metadata/Text
 
-*   **PhotoAssessment** - Photo Assessment using Core ML and Metal. [Download (⭐55)](https://github.com/yulingtianxia/PhotoAssessment/blob/master/PhotoAssessment-Sample/Sources/NIMANasnet.mlmodel) | [Demo (⭐55)](https://github.com/yulingtianxia/PhotoAssessment) | [Reference](https://arxiv.org/abs/1709.05424)
-*   **PoseEstimation** - Estimating human pose from a picture for mobile. [Download (⭐942)](https://github.com/edvardHua/PoseEstimationForMobile/tree/master/release) | [Demo (⭐633)](https://github.com/tucan9389/PoseEstimation-CoreML) | [Reference (⭐942)](https://github.com/edvardHua/PoseEstimationForMobile)
-*   **RN1015k500** - Predict the location where a picture was taken. [Download](https://s3.amazonaws.com/aws-bigdata-blog/artifacts/RN1015k500/RN1015k500.mlmodel) | [Demo (⭐53)](https://github.com/awslabs/MXNet2CoreML_iOS_sample_app) | [Reference](https://aws.amazon.com/blogs/ai/estimating-the-location-of-images-using-mxnet-and-multimedia-commons-dataset-on-aws-ec2)
+*   **PhotoAssessment** - Photo Assessment using Core ML and Metal. [Download (⭐60)](https://github.com/yulingtianxia/PhotoAssessment/blob/master/PhotoAssessment-Sample/Sources/NIMANasnet.mlmodel) | [Demo (⭐60)](https://github.com/yulingtianxia/PhotoAssessment) | [Reference](https://arxiv.org/abs/1709.05424)
+*   **PoseEstimation** - Estimating human pose from a picture for mobile. [Download (⭐969)](https://github.com/edvardHua/PoseEstimationForMobile/tree/master/release) | [Demo (⭐649)](https://github.com/tucan9389/PoseEstimation-CoreML) | [Reference (⭐969)](https://github.com/edvardHua/PoseEstimationForMobile)
+*   **RN1015k500** - Predict the location where a picture was taken. [Download](https://s3.amazonaws.com/aws-bigdata-blog/artifacts/RN1015k500/RN1015k500.mlmodel) | [Demo (⭐54)](https://github.com/awslabs/MXNet2CoreML_iOS_sample_app) | [Reference](https://aws.amazon.com/blogs/ai/estimating-the-location-of-images-using-mxnet-and-multimedia-commons-dataset-on-aws-ec2)
 *   **Nudity** - Classifies an image either as NSFW (nude) or SFW (not nude)
-    [Download](https://drive.google.com/open?id=0B5TjkH3njRqncDJpdDB1Tkl2S2s) | [Demo (⭐99)](https://github.com/ph1ps/Nudity-CoreML) | [Reference (⭐5.6k)](https://github.com/yahoo/open_nsfw)
+    [Download](https://drive.google.com/open?id=0B5TjkH3njRqncDJpdDB1Tkl2S2s) | [Demo (⭐103)](https://github.com/ph1ps/Nudity-CoreML) | [Reference (⭐5.7k)](https://github.com/yahoo/open_nsfw)
 
 ### Image - Image
 
-*   **HED** - Detect nested edges from a color image. [Download (⭐99)](https://github.com/s1ddok/HED-CoreML/blob/master/HED-CoreML/Models/HED_so.mlmodel) | [Demo (⭐99)](https://github.com/s1ddok/HED-CoreML) | [Reference](http://dl.acm.org/citation.cfm?id=2654889)
-*   **AnimeScale2x** - Process a bicubic-scaled anime-style artwork [Download (⭐447)](https://github.com/imxieyi/waifu2x-ios/blob/master/waifu2x/models/anime_noise0_model.mlmodel) | [Demo (⭐447)](https://github.com/imxieyi/waifu2x-ios) | [Reference](https://arxiv.org/abs/1501.00092)
+*   **HED** - Detect nested edges from a color image. [Download (⭐103)](https://github.com/s1ddok/HED-CoreML/blob/master/HED-CoreML/Models/HED_so.mlmodel) | [Demo (⭐103)](https://github.com/s1ddok/HED-CoreML) | [Reference](http://dl.acm.org/citation.cfm?id=2654889)
+*   **AnimeScale2x** - Process a bicubic-scaled anime-style artwork [Download (⭐510)](https://github.com/imxieyi/waifu2x-ios/blob/master/waifu2x/models/anime_noise0_model.mlmodel) | [Demo (⭐510)](https://github.com/imxieyi/waifu2x-ios) | [Reference](https://arxiv.org/abs/1501.00092)
 
 ### Text - Metadata/Text
 
-*   **DocumentClassification** - Classify news articles into 1 of 5 categories. [Download (⭐39)](https://github.com/toddkramer/DocumentClassifier/blob/master/Sources/DocumentClassification.mlmodel) | [Demo (⭐39)](https://github.com/toddkramer/DocumentClassifier) | [Reference (⭐39)](https://github.com/toddkramer/DocumentClassifier/)
+*   **DocumentClassification** - Classify news articles into 1 of 5 categories. [Download (⭐43)](https://github.com/toddkramer/DocumentClassifier/blob/master/Sources/DocumentClassification.mlmodel) | [Demo (⭐43)](https://github.com/toddkramer/DocumentClassifier) | [Reference (⭐43)](https://github.com/toddkramer/DocumentClassifier/)
 *   **NamesDT** - Gender Classification using DecisionTreeClassifier [Download (⭐34)](https://github.com/cocoa-ai/NamesCoreMLDemo/blob/master/Names/Resources/NamesDT.mlmodel) | [Demo (⭐34)](https://github.com/cocoa-ai/NamesCoreMLDemo) | [Reference](http://nlpforhackers.io/)
 
 ### Miscellaneous
 
-*   **Exermote** - Predicts the exercise, when iPhone is worn on right upper arm. [Download (⭐121)](https://github.com/Lausbert/Exermote/tree/master/ExermoteInference) | [Demo (⭐121)](https://github.com/Lausbert/Exermote/tree/master/ExermoteInference) | [Reference](http://lausbert.com/2017/08/03/exermote/)
+*   **Exermote** - Predicts the exercise, when iPhone is worn on right upper arm. [Download (⭐123)](https://github.com/Lausbert/Exermote/tree/master/ExermoteInference) | [Demo (⭐123)](https://github.com/Lausbert/Exermote/tree/master/ExermoteInference) | [Reference](http://lausbert.com/2017/08/03/exermote/)
 *   [Netron](https://lutzroeder.github.io/Netron)
 *   [Caffe](https://apple.github.io/coremltools/generated/coremltools.converters.caffe.convert.html)
 *   [Keras](https://apple.github.io/coremltools/generated/coremltools.converters.keras.convert.html)
@@ -87,21 +87,21 @@
 *   [Scikit-learn](https://apple.github.io/coremltools/generated/coremltools.converters.sklearn.convert.html)
 *   [MXNet](https://aws.amazon.com/blogs/ai/bring-machine-learning-to-ios-apps-using-apache-mxnet-and-apple-core-ml/)
 *   [LibSVM](https://apple.github.io/coremltools/generated/coremltools.converters.libsvm.convert.html)
-*   [Torch7 (⭐375)](https://github.com/prisma-ai/torch2coreml)
-*   [TensorFlow Slim Models (⭐75k)](https://github.com/tensorflow/models/tree/master/research/slim/README.md) - Another collection of TensorFlow Models.
+*   [Torch7 (⭐380)](https://github.com/prisma-ai/torch2coreml)
+*   [TensorFlow Slim Models (⭐76k)](https://github.com/tensorflow/models/tree/master/research/slim/README.md) - Another collection of TensorFlow Models.
 *   [MXNet Model Zoo](https://mxnet.incubator.apache.org/model_zoo/) - Collection of MXNet models.
 *   [LaMem (⭐17)](https://github.com/MiyainNYC/Visual-Memorability-through-Caffe) Score the memorability of pictures.
-*   [ILGnet (⭐100)](https://github.com/BestiVictory/ILGnet) The aesthetic evaluation of images.
-*   [Colorization (⭐3k)](https://github.com/richzhang/colorization) Automatic colorization using deep neural networks.
-*   [Illustration2Vec (⭐658)](https://github.com/rezoo/illustration2vec) Estimating a set of tags and extracting semantic feature vectors from given illustrations.
+*   [ILGnet (⭐106)](https://github.com/BestiVictory/ILGnet) The aesthetic evaluation of images.
+*   [Colorization (⭐3.2k)](https://github.com/richzhang/colorization) Automatic colorization using deep neural networks.
+*   [Illustration2Vec (⭐667)](https://github.com/rezoo/illustration2vec) Estimating a set of tags and extracting semantic feature vectors from given illustrations.
 *   [CTPN (⭐1.3k)](https://github.com/tianzhi0549/CTPN) Detecting text in natural image.
 *   [Image Analogy (⭐1.4k)](https://github.com/msracver/Deep-Image-Analogy) Find semantically-meaningful dense correspondences between two input images.
-*   [iLID (⭐85)](https://github.com/twerkmeister/iLID) Automatic spoken language identification.
-*   [Fashion Detection (⭐448)](https://github.com/liuziwei7/fashion-detection) Cloth detection from images.
-*   [Saliency (⭐182)](https://github.com/imatge-upc/saliency-2016-cvpr) The prediction of salient areas in images has been traditionally addressed with hand-crafted features.
-*   [Face Detection (⭐22)](https://github.com/DolotovEvgeniy/DeepPyramid) Detect face from image.
-*   [mtcnn (⭐499)](https://github.com/CongWeilin/mtcnn-caffe) Joint Face Detection and Alignment.
-*   [deephorizon (⭐34)](https://github.com/scottworkman/deephorizon) Single image horizon line estimation.
+*   [iLID (⭐86)](https://github.com/twerkmeister/iLID) Automatic spoken language identification.
+*   [Fashion Detection (⭐462)](https://github.com/liuziwei7/fashion-detection) Cloth detection from images.
+*   [Saliency (⭐183)](https://github.com/imatge-upc/saliency-2016-cvpr) The prediction of salient areas in images has been traditionally addressed with hand-crafted features.
+*   [Face Detection (⭐23)](https://github.com/DolotovEvgeniy/DeepPyramid) Detect face from image.
+*   [mtcnn (⭐498)](https://github.com/CongWeilin/mtcnn-caffe) Joint Face Detection and Alignment.
+*   [deephorizon (⭐35)](https://github.com/scottworkman/deephorizon) Single image horizon line estimation.
 
 ## [6. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

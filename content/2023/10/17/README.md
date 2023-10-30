@@ -166,7 +166,7 @@
 
 ## [13. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### OS and Kernels / MIT
+### OS and Kernels / Apache License
 
 *   [ironclad](https://ironclad.cx/) - A kernel for several architectures striving for POSIX compatibility, used on several distributions like [Gloire (⭐33)](https://github.com/streaksu/Gloire).
 
@@ -260,7 +260,7 @@
 
 ### Search and Analytic Databases
 
-*   [clickhouse-go (⭐2.6k)](https://github.com/ClickHouse/clickhouse-go/) - ClickHouse SQL client for Go with a `database/sql` compability.
+*   [clickhouse-go (⭐2.6k)](https://github.com/ClickHouse/clickhouse-go/) - ClickHouse SQL client for Go with a `database/sql` compatibility.
 
 ### File Handling
 
@@ -415,50 +415,23 @@
 
 ## [25. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
-### Projects / API Management
-
-*   [Gravitee.io API Management (⭐68) (⭐69)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-*   [WSO2 API Manager (⭐766) (⭐766)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
-
-### Projects / API Design
-
-*   [OpenAPI Diff (⭐665) (⭐667)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
-*   [OpenAPI Style Validator (⭐176) (⭐177)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
-*   [Zally (⭐823) (⭐825)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
-
 ### Projects / API Documentation
 
 *   [DapperDox (⭐386) (⭐386)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
-*   [OpenAPI Explorer (⭐231) (⭐232)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
 *   [Redoc (⭐21k) (⭐21k)](https://github.com/Redocly/redoc) - An open-source tool for generating documentation from OpenAPI (fka Swagger) definitions, with customizable themes, language support, and branding.
 *   [Stoplight Elements (⭐1.2k) (⭐1.2k)](https://github.com/stoplightio/elements) - Beautiful API documentation powered by OpenAPI and Markdown. Use these UI components to create API reference documentation, or more complete documentation with Markdown articles covering tutorials, how-to guides, etc.
 
 ### Projects / API Gateway
 
-*   [Apinto (⭐970) (⭐972)](https://github.com/eolinker/goku) - A Golang-based microservice gateway that provides dynamic routing, service orchestration, multi-tenancy management, and API access control.
 *   [Kong API Gateway (⭐36k) (⭐36k)](https://github.com/Kong/kong) - A cloud-native, platform-agnostic, and scalable API Gateway that supports plugins for easy integration with third-party services.
 *   [Spring Cloud Gateway (⭐4.2k) (⭐4.2k)](https://github.com/spring-cloud/spring-cloud-gateway) - An API Gateway built on top of the Spring ecosystem, providing advanced routing and filtering features for Spring applications.
 
 ### Projects / API Testing
 
-*   MQ clients
-    *   [JMSToolBox (⭐180) (⭐180)](https://github.com/jmstoolbox/jmstoolbox) - Universal JMS client designed to interact with a wide range of JMS-based message brokers.
-    *   [kcat (⭐5k) (⭐5k)](https://github.com/edenhill/kcat) - Generic non-JVM producer and consumer for Apache Kafka, functioning as a netcat for Kafka.
-    *   [MQTT Explorer (⭐2.5k) (⭐2.5k)](https://github.com/thomasnordquist/MQTT-Explorer) - All-round MQTT client with a structured topic overview, suitable for debugging and testing MQTT-based systems.
-    *   [Offset Explorer](https://www.kafkatool.com) - GUI application for managing and using Apache Kafka clusters, formerly known as Kafka Tool.
-    *   [Service Bus Explorer (⭐1.8k) (⭐1.8k)](https://github.com/paolosalvatori/ServiceBusExplorer) - GUI app for Azure Service Bus, offering advanced features like import/export functionality and the ability to test topic, queues, subscriptions, relay services, notification hubs, and events hubs.
-*   Mocking tools
-    *   [Microcks (⭐981) (⭐986)](https://github.com/microcks/microcks) - Open-source Kubernetes-native tool for API mocking and testing, supporting AsyncAPI, OpenAPI, Postman Collections, etc.
-    *   [Mockable](https://www.mockable.io/) - Simple configurable service to mock out RESTful API or SOAP web-services.
-    *   [Mockoon (⭐5.4k) (⭐5.4k)](https://github.com/mockoon/mockoon) - Easy-to-use tool for designing and running mock REST APIs.
-    *   [MockServer (⭐4.2k) (⭐4.3k)](https://github.com/mock-server/mockserver) - Easy mocking of any system you integrate with via HTTP or HTTPS.
-    *   [Mocky (⭐1.9k) (⭐2k)](https://github.com/MockyAbstract/Mocky) - Free and unlimited online service for generating custom HTTP responses.
-    *   [Prism (⭐3.7k) (⭐3.8k)](https://github.com/stoplightio/prism) - Open-source HTTP mock server that can mimic your API's behavior as if you already built it.
-    *   [WireMock (⭐5.7k) (⭐5.8k)](https://github.com/tomakehurst/wiremock) - Mock your APIs for fast, robust, and comprehensive testing.
 *   Testing tools and frameworks
     *   [Apache JMeter (⭐7.4k) (⭐7.4k)](https://github.com/apache/jmeter) - Open-source Java-based load testing tool that can be used to test the performance and scalability of web applications, databases, and other network services.
     *   [Gatling (⭐6k) (⭐6.1k)](https://github.com/gatling/gatling) - An open-source load testing tool that allows users to write and run load tests as code, providing detailed performance reports to optimize system performance.
-    *   [Karate (⭐7.3k) (⭐7.4k)](https://github.com/intuit/karate) - Open-source tool that combines API test-automation, mocks, performance-testing, and even UI automation into a single, unified framework.
+    *   [Karate (⭐7.4k) (⭐7.4k)](https://github.com/intuit/karate) - Open-source tool that combines API test-automation, mocks, performance-testing, and even UI automation into a single, unified framework.
     *   [Pyresttest (⭐1.1k) (⭐1.1k)](https://github.com/svanoort/pyresttest) - Java DSL for easy testing of REST services.
     *   [REST Assured (⭐6.5k) (⭐6.5k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
     *   [Schemathesis (⭐1.8k) (⭐1.9k)](https://github.com/schemathesis/schemathesis) - Python library for property-based testing of API schemas.
@@ -468,16 +441,6 @@
 
 *   [Drools (⭐5.5k) (⭐5.5k)](https://github.com/apache/incubator-kie-drools) - Open-source tool that supports Decision Model and Notation (DMN) models at Conformance level 3 with an Eclipse IDE plugin for core development.
 *   [NxBRE (⭐128) (⭐128)](https://github.com/ddossot/NxBRE) - Open-source rule engine specifically designed for the .NET platform.
-*   [OpenL Tablets (⭐131) (⭐131)](https://github.com/openl-tablets/openl-tablets) - Open-source business rules engine (BRE, BRMS) and decision management system that allows users to define, manage, and execute business rules and decision tables.
-
-### Projects / Data Mapping Solution
-
-*   [AltasMap (⭐164) (⭐165)](https://github.com/atlasmap/atlasmap) - A web-based data mapping solution that simplifies integration between Java, XML, CSV, and JSON data sources. Its interactive user interface makes configuring integrations easy.
-*   [JSLT (⭐567) (⭐568)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
-
-### Projects / ESB
-
-*   [WSO2 Enterprise Integrator (⭐352) (⭐353)](https://github.com/wso2/product-ei) - An API-centric, cloud-native, and distributed integration platform designed to provide a robust solution for software engineers.
 
 ### Projects / ETL
 
@@ -488,16 +451,12 @@
 *   [Apache Kafka (⭐26k) (⭐26k)](https://github.com/apache/kafka) - A distributed messaging system designed for high-throughput and fault-tolerance. Enables real-time data processing and stream processing applications with its distributed architecture and efficient data storage.
 *   [BlazingMQ (⭐2.3k) (⭐2.3k)](https://github.com/bloomberg/blazingmq) - A distributed message queueing platform with a focus on efficiency, reliability, and a rich feature set for modern-day workflows.
 *   [Centrifugo (⭐7.4k) (⭐7.4k)](https://github.com/centrifugal/centrifugo) - An open-source, scalable real-time messaging server that allows you to build interactive applications where events are delivered to online users with minimal delay.
-*   [Redpanda (⭐7.8k) (⭐7.9k)](https://github.com/vectorizedio/redpanda) - A streaming platform that is Kafka-compatible and does not require Zookeeper or JVM. Offers high-performance and low-latency messaging and supports stream processing and analytics.
 
 ### Projects / Workflow engine
 
 *   [Apache Airflow (⭐32k) (⭐32k)](https://github.com/apache/airflow) - A platform that allows you to create, schedule, and monitor workflows programmatically, making it easier to manage and automate complex data pipelines.
-*   [Bonita (⭐139) (⭐140)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
 *   [Conductor (⭐11k) (⭐11k)](https://github.com/Netflix/conductor) - A cloud-based orchestration engine designed to run and manage workflows in a microservices architecture.
-*   [Elsa Core (⭐5k) (⭐5.1k)](https://github.com/elsa-workflows/elsa-core) - A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments.
 *   [Flowable (⭐6.8k) (⭐6.8k)](https://github.com/flowable/flowable-engine) - A set of open-source business process engines that are compact and efficient, making it easier to automate business processes in a scalable and reliable way.
-*   [Temporal (⭐8.2k) (⭐8.3k)](https://github.com/temporalio/temporal) - An open-source platform that uses a workflow-as-code approach to make your applications more reliable and scalable.
 
 ### Resources / API Specification
 
@@ -506,7 +465,7 @@
 ### Resources / Data Formats
 
 *   [NDJSON (⭐590) (⭐590)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
-*   [Protocol Buffers (⭐61k) (⭐61k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
+*   [Protocol Buffers (⭐61k) (⭐62k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
 *   [YAML (⭐271) (⭐271)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
 ## [26. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
@@ -565,94 +524,22 @@
 
 *   [Obsidian Rocks](https://obsidian.rocks/). Obsidian (the private and flexible writing app that adapts to the way you think) tips and tricks.
 
-## [31. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [31. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
-### Libraries/Frameworks / Extensions
+### Gift Ideas
 
-*   [Kotlin/kotlinx.support (⭐54)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
-
-### Libraries/Frameworks / Graphics
-
-*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
-
-### Libraries/Frameworks / Data Science
-
-*   [holgerbrandl/krangl (⭐563)](https://github.com/holgerbrandl/krangl) - krangl is a {K}otlin library for data w{rangl}ing.
-*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
-
-### Libraries/Frameworks / Logging
-
-*   [Foso/Cabret-Log (⭐192)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
-
-### Libraries/Frameworks / Mail
-
-*   [bluefireoly/SimpleKotlinMail (⭐58)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
-
-### Projects / Web
-
-*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
-
-### Projects / Build tools
-
-*   [gradle/kotlin-dsl-samples (⭐3.7k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
-*   [nebula-plugins/nebula-kotlin-plugin (⭐57)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
-
-### Projects / Misc
-
-*   [kpspemu/kpspemu (⭐69)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
-*   [chrislo27/RhythmHeavenRemixEditor (⭐421)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
-
-### Projects / Desktop
-
-*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
-
-### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
-
-### Projects / Android
-
-*   [skydoves/githubfollows (⭐295)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
-
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-
-### Android / Projects
-
-*   [hanjoongcho/aaf-easyphotomap (⭐39)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
-*   [mustafaberkaymutlu/uv-index (⭐67)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
-*   [hanjoongcho/aaf-easypassword (⭐34)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
-
-### Android / Extensions
-
-*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
-
-### Android / Tests
-
-*   [agoda-com/Kakao (⭐1.1k)](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
-
-### Kotlin JavaScript / JavaScript
-
-*   [pixijs/pixi-native (⭐85)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
-*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
-*   [Foso/MpApt (⭐238)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
-
-### Kotlin JavaScript / Build Tools
-
-*   [Kotlin/kotlin-frontend-plugin (⭐567)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
-
-### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐319)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-### Kotlin Native / Projects
-
-*   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
+*   [Lazy Cards](https://lazy.cards/) - Lazy Cards is a convenient and thoughtful service that offers AI-written greeting cards for various occasions `#free`
+*   [Magic Type AI](https://www.magictype.ai/) - Write greetings, poetry and rap lyrics using AI. `#free`
+*   [Outdone](https://www.outdone.io/) - Outdone is a gift recommender that simplifies the process of shopping for special occasions `#free`
+*   [Perfectgift](https://perfectgift.ai/) - PerfectGift.AI is an AI-powered tool that generates personalized gift ideas for any occasion by utilizing advanced Artificial Intelligence algorithms. `#free`
+*   [Santa AI](https://www.santa.artflow.ai/) - Create your own unique Santa video greeting `#free`
+*   [Silly Robot Cards](https://www.sillyrobotcards.com/) - Customized greeting card design with unique touch. `#paid`
+*   [Smart Gift AI](https://smartgiftai.com/) - AI-powered gifting platform `#free`
+*   [Snappy](https://snappygifts.com/home) - Send personalized choices—for any budget or occasion, now or later—and let the recipient pick the gift they want.`#free`
+*   [Spread Positivity Today](https://spreadpositivitytoday.com/) - Send a Note. Spread Joy. `#free`
+*   [Text2present](https://text2present.com/) - Text2present.com is an AI-powered tool that enables users to effortlessly create customized presents for their friends, family, and acquaintances. `#free`
+*   [Write-a-card](https://write-a-card.co/) - Content generation for greeting cards. `#paid`
+*   [Your GiftWhisperer](https://yourgiftwhisperer.com/) - Discover the perfect personlized Gift! `#free`
 
 ## [32. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
@@ -802,9 +689,6 @@
 | Players | Min. Age |       Time |
 | ------: | -------: | ---------: |
 |     2–4 |      12+ | 60–120 Min |
-
-### Party
-
 ### [The Forever War](https://boardgamegeek.com/boardgame/5043/forever-war)
 
 > The Forever War is a science fiction board game, based on the novel "Forever War" by Joe Haldeman. It features squad-level combat in the third millennium. Combat occurs on airless portal planets, where small infantry ground units vie with each other for victory among the frozen wastes. A player can never be sure of whom or what he will find when his troops near the battlefield. Units are equipped with weapons of the latest technology, and embark on their starships. Only weeks or months pass for them, traveling at near-light speeds, but decades pass in the universe surrounding them. The enemy these units meet on the battlefield could be technologically decades ahead or behind them when the battle is joined.
@@ -814,6 +698,9 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 4 |       12 |  60m |
+
+### Party
+
 ### [Jenga](https://en.wikipedia.org/wiki/Jenga)
 
 > Jenga is a game of physical skill created by British board game designer and author Leslie Scott and marketed by Hasbro. Players take turns removing one block at a time from a tower constructed of 54 blocks.
@@ -823,9 +710,6 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 5 |        6 | 10-15m |
-
-### Contribute
-
 ### [Mouse Trap](https://en.wikipedia.org/wiki/Mouse_Trap_\(board_game\))
 
 > Mouse Trap (originally Mouse Trap Game) is a board game first published by Ideal in 1963 for two to four players. It is one of the first mass-produced three-dimensional board games.The basic premise of Mouse Trap has been consistent over time, but the turn-based gameplay has changed. Its concept was first invented by Marvin Glass and designer Gordon Barlow from Marvin's company
@@ -835,8 +719,6 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 4 |        6 | 30-35m |
-
-Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
 
 ## [34. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -854,14 +736,14 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [history-sync (vitobotta) (⭐4)](https://github.com/vitobotta/zsh-history-sync/) - Syncs your ZSH history across computers using a `git` private repository.
+*   [history-sync (vitobotta) (⭐4)](https://github.com/vitobotta/zsh-history-sync/) - Syncs your ZSH history across computers using a `git` private repository. Uses `openssl` to encrypt the history.
 *   [history-sync (wulfgarpro) (⭐212)](https://github.com/wulfgarpro/history-sync) - An [oh-my-zsh](https://ohmyz.sh/) plugin for [GPG](https://www.gnupg.org/) encrypted, Internet synchronized ZSH history using `git`.
 
 ## [37. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ### Shell Script Development
 
-*   [bashunit (⭐119)](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts
+*   [bashunit (⭐119)](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts.
 
 ## [38. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
@@ -875,220 +757,17 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [Chat with Wardley YouTube content](https://wardleygpt.streamlit.app/) - Have a chat with all of Simon's YouTube content.
 
-## [40. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [40. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### Algorithms & Data Structures
+### C++ / Non-X86
 
-*   [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/) - Robert Sedgewick, Kevin Wayne
+*   [Learn C++ Programming Language](http://www.tutorialspoint.com/cplusplus/cpp_tutorial.pdf) - Tutorials Point (PDF)
 
-### Artificial Intelligence
+### Go / Phoenix
 
-*   [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cam Davidson-Pilon (HTML, Jupyter Notebook)
-
-### Graphics Programming
-
-*   [OpenGL](https://www.songho.ca/opengl/index.html) - Concepts and illustrations
-*   [Tutorials for modern OpenGL](https://www.opengl-tutorial.org)
-
-### Graphical User Interfaces
-
-*   [Search User Interfaces](https://searchuserinterfaces.com/book/) - Marti A. Hearst
-
-### IDE and editors
-
-*   [A Byte of Vim](https://www.swaroopch.com/notes/vim/) - Swaroop (PDF)
-*   [Learn Vim Progressively](https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/) - Yann Esposito
-*   [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com) - Steve Losh
-*   [The Craft of Text Editing or A Cookbook for an Emacs](https://www.finseth.com/craft/) - Craig A. Finseth (HTML, PDF, ePUB, Kindle, PostScript, LaTeX)
-*   [Vi Improved -- Vim](https://www.truth.sk/vim/vimbook-OPL.pdf) - Steve Oualline (PDF)
-*   [Vim Regular Expressions 101](https://vimregex.com) - Oleg Raisky
-*   [Visual Studio .NET Tips and Tricks](https://www.infoq.com/minibooks/vsnettt) - Minh T. Nguyen (PDF)
-
-### Information Retrieval
-
-*   [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
-
-### Licensing
-
-*   [The Public Domain: Enclosing the Commons of the Mind](https://www.thepublicdomain.org/download/) - James Boyle
-
-### Machine Learning
-
-*   [A Brief Introduction to Neural Networks](https://www.dkriesel.com/en/science/neural_networks)
-*   [Deep Learning](https://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio, Aaron Courville
-*   [Dive into Deep Learning](https://d2l.ai)
-*   [Gaussian Processes for Machine Learning](https://www.gaussianprocess.org/gpml/) - Carl Edward Rasmussen, Christopher K.I. Williams
-*   [Introduction to Machine Learning](https://arxiv.org/abs/0904.3664v1) - Amnon Shashua
-*   [Machine Learning](https://www.intechopen.com/books/machine_learning)
-*   [Machine Learning, Neural and Statistical Classification](https://www1.maths.leeds.ac.uk/~charles/statlog/) - D. Michie, D.J. Spiegelhalter, C.C. Taylor
-*   [Probabilistic Models in the Study of Language](https://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
-
-### Mathematics
-
-*   [Advanced Algebra](https://www.math.stonybrook.edu/~aknapp/download/a2-alg-inside.pdf) - Anthony W. Knapp (PDF)
-*   [Basic Algebra](https://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf) - Anthony W. Knapp (PDF)
-*   [Basics of Algebra, Topology, and Differential Calculus](https://www.cis.upenn.edu/~jean/math-basics.pdf) (PDF)
-*   [Calculus Made Easy](https://www.gutenberg.org/ebooks/33283) - Silvanus P. Thompson (PDF)
-*   [CK-12 Probability and Statistics - Advanced](https://www.ck12.org/book/Probability-and-Statistics---Advanced-%2528Second-Edition%2529/)
-*   [Collaborative Statistics](https://cnx.org/contents/5e0744f9-9e79-4348-9237-ed012213a2d6%4040.9)
-*   [Computational Geometry](https://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/)
-*   [Discrete Mathematics: An Open Introduction](https://discrete.openmathbooks.org/dmoi3.html) - Oscar Levin
-*   [Essentials of Metaheuristics](https://cs.gmu.edu/~sean/book/metaheuristics/) - Sean Luke
-*   [Introduction to Probability and Statistics Spring 2014](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
-*   [Introduction to Statistical Thought](https://people.math.umass.edu/~lavine/Book/book.html) - Michael Lavine
-*   [Lecture Notes of Linear Algebra](https://home.iitk.ac.in/~psraj/mth102/lecture_notes.html) - Dr. P. Shunmugaraj, IIT Kanpur (PDF)
-*   [Mathematical Logic - an Introduction](https://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
-*   [Mathematics, MTH101A](https://home.iitk.ac.in/~psraj/mth101/) - P. Shunmugaraj, IIT Kanpur
-*   [Online Statistics Education](https://onlinestatbook.com) - David Lane
-*   [Statistics Done Wrong](https://www.statisticsdonewrong.com) - Alex Reinhart
-*   [Think Bayes: Bayesian Statistics Made Simple](https://www.greenteapress.com/thinkbayes/) - Allen B. Downey
-*   [Think Stats: Probability and Statistics for Programmers](https://greenteapress.com/thinkstats/) - Allen B. Downey (using Python)
-*   [Vector Calculus](https://www.mecmath.net) - Michael Corral
-
-### Mathematics For Computer Science
-
-*   [Discrete Structures for Computer Science: Counting, Recursion, and Probability](https://cglab.ca/~michiel/DiscreteStructures/) - Michiel Smid
-
-### Misc
-
-*   [A MACHINE MADE THIS BOOK ten sketches of computer science](https://ocaml-book.com/s/popbook.pdf) - JOHN WHITINGTON (PDF)
-*   [Asterisk™: The Definitive Guide](https://solmu.org/pub/help/Asterisk/3nd_Edition_for_Asterisk_1.8) - Leif Madsen, Jim Van Meggelen, Russell Bryant (HTML)
-*   [Barcode Overview](https://www.tec-it.com/download/PDF/Barcode_Reference_EN.pdf) (PDF)
-*   [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts](https://www.wisdom.weizmann.ac.il/~playbook/) - David Harel, Rami Marelly
-*   [Confessions of an Unintentional CTO: Lessons in Growing a Web App](https://www.jackkinsella.ie/books/confessions_of_an_unintentional_cto) - Jack Kinsella
-*   [DevDocs](https://devdocs.io) - Documents for Developers in 1 place
-*   [Digital Signal Processing For Communications](https://www.sp4comm.org) - Paolo Prandoni, Martin Vetterli
-*   [Digital Signal Processing For Engineers and Scientists](https://www.dspguide.com) - Steven W. Smith
-*   ["DYNAMIC LINKED LIBRARIES": Paradigms of the GPL license in contemporary software](https://www.lulu.com/shop/http://www.lulu.com/shop/luis-enr%C3%ADquez-a/dynamic-linked-libraries-paradigms-of-the-gpl-license-in-contemporary-software/ebook/product-21419788.html) - Luis A. Enríquez
-*   [Hacknot: Essays on Software Development](https://www.lulu.com/shop/ed-johnson/hacknot-essays-on-software-development/ebook/product-17544641.html) - Ed Johnson
-*   [How Computers Work](https://www.fastchip.net/howcomputerswork/p1.html) - R. Young
-*   [How to Think Like a Computer Scientist](https://openbookproject.net/thinkcs/) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey, Chris Meyers
-*   [Image Processing in C: Analyzing and Enhancing Digital Images](https://homepages.inf.ed.ac.uk/rbf/BOOKS/PHILLIPS/) - Dwayne Phillips
-*   [Linked Data Patterns: A pattern catalogue for modelling, publishing, and consuming Linked Data](https://patterns.dataincubator.org/book/) - Leigh Dodds, Ian Davis
-*   [Modeling Reactive Systems with Statecharts](https://www.wisdom.weizmann.ac.il/~harel/reactive_systems.html) - D. Harel, M. Politi
-*   [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/) - David Easley, Jon Kleinberg
-*   [Philosophy of Computer Science](https://www.cse.buffalo.edu/~rapaport/Papers/phics.pdf) (PDF)
-*   [Programming with Unicode](https://unicodebook.readthedocs.org)
-
-### Networking
-
-*   [An Introduction to Computer Networks](https://intronetworks.cs.luc.edu) (HTML, PDF, Kindle)
-*   [Bits, Signals, and Packets: An Introduction to Digital Communications and Networks](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/readings/)
-*   [Code Connected vol.1](https://hintjens.wdfiles.com/local--files/main%3Afiles/cc1pe.pdf) (PDF) (book on ZeroMQ)
-*   [Distributed systems for fun and profit](https://book.mixu.net/distsys/single-page.html)
-*   [HTTP2 Explained](https://daniel.haxx.se/http2/) - Daniel Stenberg
-*   [ZeroMQ Guide](https://zguide.zeromq.org)
-
-### Open Source Ecosystem
-
-*   [Data Journalism Handbook](https://datajournalismhandbook.org)
-*   [Free Software, Free Society: Selected Essays of Richard M. Stallman](https://shop.fsf.org/product/free-software-free-society-2/)
-*   [Getting Started with InnerSource](https://www.oreilly.com/programming/free/getting-started-with-innersource.csp) (email address *requested*, not required)
-*   [Getting started with Open source development](https://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf) (PDF)
-*   [Innovation Happens Elsewhere](https://dreamsongs.com/IHE/IHE.html) - Ron Goldman, Richard P. Gabriel
-*   [Producing Open Source Software](https://producingoss.com) - Karl Fogel
-*   [The Architecture of Open Source Applications: Vol. 1: Elegance, Evolution, and a Few Fearless Hacks; Vol. 2: Structure, Scale, and a Few More Feerless Hacks](https://www.aosabook.org/en/index.html)
-*   [The Art of Community](https://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf) - Jono Bacon (PDF)
-*   [The Future of the Internet](https://futureoftheinternet.org) - Jonathan Zittrain
-*   [The Open Source Way](https://www.theopensourceway.org/book/)
-*   [The Wealth of Networks: How Social Production Transforms Markets and Freedom](https://cyber.law.harvard.edu/wealth_of_networks/Main_Page) - Yochai Benkler
-
-### Operating Systems
-
-*   [A short introduction to operating systems (2001)](https://markburgess.org/os/os.pdf) - Mark Burgess (PDF)
-*   [Computer Science from the Bottom Up](https://www.bottomupcs.com) - Ian Wienand (PDF)
-*   [How to write a simple operating system in assembly language](https://mikeos.sourceforge.net/write-your-own-os.html) - Mike Saunders (HTML)
-*   [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) - Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (PDF)
-*   [Practical File System Design: The Be File System](https://www.nobius.org/~dbg/practical-file-system-design.pdf) - Dominic Giampaolo (PDF)
-*   [Project Oberon: The Design of an Operating System, a Compiler, and a Computer](https://people.inf.ethz.ch/wirth/ProjectOberon/index.html) - Niklaus Wirth, Jürg Gutknecht (PDF)
-*   [The Little Book of Semaphores](https://greenteapress.com/semaphores/) - Allen B. Downey (PDF)
-*   [Think OS: A Brief Introduction to Operating Systems](https://www.greenteapress.com/thinkos/index.html) - Allen B. Downey (PDF)
-*   [Writing a Simple Operating System from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) - Nick Blundell (PDF)
-
-### Partial Evaluation
-
-*   [Partial Evaluation and Automatic Program Generation](https://www.itu.dk/people/sestoft/pebook/) - Neil D. Jones, C.K. Gomard, Peter Sestoft (PDF)
-
-### Programming
-
-*   [Introduction to Computer Science](https://www.cse.iitd.ernet.in/~suban/CSL102/) - Prof. Subhashis Banerjee, IIT Delhi
-*   [Introduction to Computing](https://www.computingbook.org) - David Evans
-
-### Theoretical Computer Science
-
-*   [Programming Languages: Application and Interpretation (2nd Edition)](https://cs.brown.edu/~sk/Publications/Books/ProgLangs/) - Shriram Krishnamurthi
-*   [Building Blocks for Theoretical Computer Science](https://mfleck.cs.illinois.edu/building-blocks/index.html) - Margaret M. Fleck
-*   [Homotopy Type Theory: Univalent Foundations of Mathematics](https://homotopytypetheory.org/book/) (PDF)
-*   [Introduction to Theory of Computation](https://cglab.ca/~michiel/TheoryOfComputation/) - Anil Maheshwari, Michiel Smid (PDF)
-*   [Models of Computation](https://cs.brown.edu/people/jes/book/) - John E. Savage
-*   [Programming in Martin-Löf's Type Theory](https://www.cse.chalmers.se/research/group/logic/book/) - Bengt Nordstroem
-*   [Semantics with Applications: A Formal Introduction](https://www.cs.ru.nl/~herman/onderwijs/semantics2019/wiley.pdf) - Hanne Riis Nielson, Flemming Nielson (PDF)
-
-### Programming Paradigms
-
-*   [Flow based Programming](https://jpaulmorrison.com/fbp/) - J Paul Morrison
-*   [Introduction to Functional Programming](https://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/) - J. Harrison
-
-### Quantum Computing
-
-*   [Introduction to Classical and Quantum Computing](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf) - Thomas G. Wong (PDF)
-
-### Regular Expressions
-
-*   [RexEgg](https://www.rexegg.com)
-*   [The 30 Minute Regex Tutorial](https://www.codeproject.com/Articles/9099/The-Minute-Regex-Tutorial) - Jim Hollenhorst
-
-### Reverse Engineering
-
-*   [BIOS Disassembly Ninjutsu Uncovered 1st Edition](https://bioshacking.blogspot.co.uk/2012/02/bios-disassembly-ninjutsu-uncovered-1st.html) - Darmawan Salihun (PDF)
-
-### Security & Privacy
-
-*   [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us)
-*   [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/index.html)
-*   [Intrusion Detection Systems with Snort](https://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf) (PDF)
-*   [OWASP Top 10 for .NET Developers](https://www.troyhunt.com/2011/12/free-ebook-owasp-top-10-for-net.html)
-*   [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html)
-
-### Software Architecture
-
-*   [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Thomas Fielding
-*   [Best Kept Secrets of Peer Code Review](https://smartbear.com/lp/ebook/collaborator/secrets-of-peer-code-review/)
-*   [Data-Oriented Design](https://www.dataorienteddesign.com/dodmain/dodmain.html)
-*   [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly)
-*   [How to Design Programs](https://www.htdp.org)
-*   [How to Write Unmaintainable Code](https://mindprod.com/jgloss/unmain.html)
-*   [Kanban and Scrum - making the most of both](https://www.infoq.com/minibooks/kanban-scrum-minibook)
-*   [Object-Oriented Reengineering Patterns](https://scg.unibe.ch/download/oorp/) - S. Demeyer, S. Ducasse, O. Nierstrasz
-*   [Scrum and XP from the Trenches](https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2)
-*   [Software Architecture Patterns](https://www.oreilly.com/programming/free/software-architecture-patterns.csp) (email address *requested*, not required)
-*   [Software Engineering for Internet Applications](https://philip.greenspun.com/seia/)
-
-### Standards
-
-*   [Linux Standard Base](https://refspecs.linuxfoundation.org/lsb.shtml)
-
-### Version Control Systems
-
-*   [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html) - Mark Lodato
-*   [Conversational Git](https://blog.anvard.org/conversational-git/) - Alan Hohn
-*   [git - the simple guide](https://rogerdudler.github.io/git-guide/) - Roger Dudler (HTML)
-*   [Git for Computer Scientists](https://eagain.net/articles/git-for-computer-scientists/) - Tommi Virtanen
-*   [Git Immersion](https://gitimmersion.com) - Jim Weirich (HTML)
-*   [Git In The Trenches](https://cbx33.github.io/gitt/index.html) - Peter Savage
-*   [Git Notes for Professionals](https://goalkicker.com/GitBook) - Compiled from StackOverflow Documentation (PDF)
-*   [Introduction to Git and Github - Tutorial](https://cse.unl.edu/~cbourke/gitTutorial.pdf) - Dr. Chris Bourke (PDF)
-*   [Learn Git - Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/command-line/introduction) - Tobias Günther
-*   [Pro Git](https://git-scm.com/book/en/) - Scott Chacon, Ben Straub (HTML, PDF, EPUB, Kindle)
-*   [Subversion Version Control](https://ptgmedia.pearsoncmg.com/images/0131855182/downloads/Nagel_book.pdf) - William Nagel (PDF)
-*   [Think Like (a) Git: A Guide for the Perplexed](https://think-like-a-git.net) - Sam Livingston-Gray
-
-### Web Performance
-
-*   [Book of Speed](https://www.bookofspeed.com) - Stoyan Stefanov
-*   [Designing for Performance](https://designingforperformance.com) - Lara Hogan
-*   [Mature Optimization](https://carlos.bueno.org/optimization/mature-optimization.pdf) - Carlos Bueno (PDF)
+*   [Golang tutorial series](https://golangbot.com/learn-golang-series/) - Naveen Ramanathan
 
 ---
 
+- Prev: [Oct 18, 2023](/content/2023/10/18/README.md)
 - Next: [Oct 16, 2023](/content/2023/10/16/README.md)

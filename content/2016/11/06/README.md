@@ -22,7 +22,7 @@
 
 ### Misc
 
-*   [Jot (⭐568)](https://github.com/anakic/jot) - a library for persisting and restoring application state (a better alternative to .settings files).
+*   [Jot (⭐587)](https://github.com/anakic/jot) - a library for persisting and restoring application state (a better alternative to .settings files).
 
 ## [4. Awesome Redux](/content/brillout/awesome-redux/README.md)
 
@@ -42,8 +42,8 @@
 
 *   [/r/Angular2 Subreddit](https://www.reddit.com/r/Angular2/)
 *   [AngularJS on Google+](https://plus.google.com/+AngularJS)
-*   [Adventures in Angular](https://devchat.tv/adv-in-angular) podcast
-*   [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies
+*   [Adventures in Angular](https://devchat.tv/adv-in-angular) podcast.
+*   [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies.
 
 ### Series / Components
 
@@ -86,8 +86,8 @@
 
 ### Angular 2 in Cordova / Components
 
-*   [Cordova Framework](https://cordova.apache.org/) Official Website for Apache Cordova
-*   [Cordova Documentation](https://cordova.apache.org/docs/en/latest/) Official Documentation for Apache Cordova
+*   [Cordova Framework](https://cordova.apache.org/) Official Website for Apache Cordova.
+*   [Cordova Documentation](https://cordova.apache.org/docs/en/latest/) Official Documentation for Apache Cordova.
 
 ### Babel Seed Projects / Components
 
@@ -95,7 +95,7 @@
 
 ### Babel Demo, Samples, and Examples / Components
 
-*   [angular2-es6-todomvc (⭐129)](https://github.com/blacksonic/angular2-esnext-todomvc) Angular 2 TodoMVC implementation with ES6.
+*   [angular2-es6-todomvc (⭐130)](https://github.com/blacksonic/angular2-esnext-todomvc) Angular 2 TodoMVC implementation with ES6.
 
 ### Meteor General Resources / Components
 
@@ -113,7 +113,7 @@
 
 ### Science
 
-*   [bcbio-nextgen (⭐923)](https://github.com/chapmanb/bcbio-nextgen) - Providing best-practice pipelines for fully automated high throughput sequencing analysis.
+*   [bcbio-nextgen (⭐940)](https://github.com/chapmanb/bcbio-nextgen) - Providing best-practice pipelines for fully automated high throughput sequencing analysis.
 *   [PyDy](http://www.pydy.org/) - Short for Python Dynamics, used to assist with workflow in the modeling of dynamic motion.
 *   [Zipline (⭐16k)](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
 

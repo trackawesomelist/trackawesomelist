@@ -10,7 +10,7 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [InvoicePlane (⭐2.2k)](https://github.com/InvoicePlane/InvoicePlane) - Manage quotes, invoices, payments and customers for your small business. `MIT` `PHP`
+*   [InvoicePlane (⭐2.3k)](https://github.com/InvoicePlane/InvoicePlane) - Manage quotes, invoices, payments and customers for your small business. `MIT` `PHP`
 
 ## [2. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/README.md)
 
@@ -22,7 +22,7 @@
 
 ### UI
 
-*   [Beautiful\_Popup (⭐566)](https://github.com/jaweii/Flutter_beautiful_popup) <!--stargazers:jaweii/Flutter_beautiful_popup--> - Beautify your app popup by [jaweii](https://github.com/jaweii).
+*   [Beautiful\_Popup (⭐608)](https://github.com/jaweii/Flutter_beautiful_popup) <!--stargazers:jaweii/Flutter_beautiful_popup--> - Beautify your app popup by [jaweii](https://github.com/jaweii).
 
 ---
 

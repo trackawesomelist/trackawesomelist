@@ -57,17 +57,17 @@
 
 ### CLI Builders
 
-*   [Cling (⭐8)](https://github.com/devnote-dev/cling) - A modular, non-macro-based command line interface library
+*   [Cling (⭐16)](https://github.com/devnote-dev/cling) - A modular, non-macro-based command line interface library
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Math
 
-*   [DirectXMath (⭐1.3k)](https://github.com/microsoft/DirectXMath) - An all inline SIMD C++ linear algebra library for use in games and graphics apps.
+*   [DirectXMath (⭐1.4k)](https://github.com/microsoft/DirectXMath) - An all inline SIMD C++ linear algebra library for use in games and graphics apps.
 
 ### Reflection
 
-*   [TSMP (⭐63)](https://github.com/fabian-jung/tsmp) - An intrusion and macro-free C++20 library for static reflection. It uses libclang to extract reflection data from your source code and makes it usable via template specialization. \[MIT]
+*   [TSMP (⭐71)](https://github.com/fabian-jung/tsmp) - An intrusion and macro-free C++20 library for static reflection. It uses libclang to extract reflection data from your source code and makes it usable via template specialization. \[MIT]
 
 ### Websites
 
@@ -78,7 +78,7 @@
 
 ### API Builder and Discovery
 
-*   [Alba (⭐732)](https://github.com/okuramasafumi/alba) - A JSON serializer for Ruby, JRuby and TruffleRuby.
+*   [Alba (⭐806)](https://github.com/okuramasafumi/alba) - A JSON serializer for Ruby, JRuby and TruffleRuby.
 
 ### CMS
 
@@ -86,41 +86,36 @@
 
 ### Third-party APIs
 
-*   [Notion Ruby Client (⭐94)](https://github.com/orbit-love/notion-ruby-client) - A Ruby wrapper for the Notion API.
+*   [Notion Ruby Client (⭐103)](https://github.com/orbit-love/notion-ruby-client) - A Ruby wrapper for the Notion API.
 
 ## [8. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 
-*   [croner (⭐1k)](https://github.com/hexagon/croner) - Cron library with advanced scheduling features, well-documented API, and zero dependencies.
+*   [croner (⭐1.3k)](https://github.com/hexagon/croner) - Cron library with advanced scheduling features, well-documented API, and zero dependencies.
 
 ## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Photo and Video Galleries
 
-*   [Nextcloud Memories (⭐1.4k)](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app. ([Demo](https://memories-demo.radialapps.com/)) `AGPL-3.0` `PHP`
-*   [SPIS (⭐11)](https://github.com/gbbirkisson/spis) - A simple, lightweight and fast media server with decent mobile support. `GPL-3.0` `Rust`
+*   [SPIS (⭐39)](https://github.com/gbbirkisson/spis) - A simple, lightweight and fast media server with decent mobile support. `GPL-3.0` `Docker/Rust`
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Miscellaneous
 
-*   [BinShare.net](https://binshare.net) - Create & share code or binaries. Avaliable to share as an beautiful image e.g. for Twitter / Facebook post or as a link e.g for chats or forums.
+*   [BinShare.net](https://binshare.net) - Create & share code or binaries. Available to share as a beautiful image e.g. for Twitter / Facebook post or as a link e.g. for chats or forums.
 
 ## [11. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ### Learning / Check Also
 
-*   [Web Configs (⭐2)](https://github.com/jonathandion/web-configs) - Monorepo for all common configurations for building web apps.
-*   [My Neovim Config (⭐39)](https://github.com/jonathandion/web-dev.nvim) - Small Neovim configuration written in Lua that is specifically designed for web development.
+*   [Web Configs (⭐5)](https://github.com/jonathandion/web-configs) - Monorepo for all common configurations for building web apps.
+*   [My Neovim Config (⭐52)](https://github.com/jonathandion/web-dev.nvim) - Small Neovim configuration written in Lua that is specifically designed for web development.
 
 ## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
-
-*   [ask (⭐17)](https://github.com/Michaelwmx/zsh-ask) - Serves as a ChatGPT API frontend, enabling you to interact with ChatGPT directly from the ZSH shell using only `cURL` and `jq`.
-
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [userandnode (⭐0)](https://github.com/timhilton/userandnode) - A clean theme with decorators for username, node version, current directory, and `git` info.
 
@@ -135,10 +130,6 @@
 ### Programming Languages / [Other](#other-1)
 
 *   [PC-lint](https://pclintplus.com/) :copyright: — Static analysis for C/C++. Runs natively under Windows/Linux/MacOS. Analyzes code for virtually any platform, supporting C11/C18 and C++17.
-
-### Multiple languages / [Other](#other-1)
-
-*   [Bearer](https://bearer.com) — Open-Source static code analysis tool to discover,  filter and prioritize security risks and vulnerabilities  leading to sensitive data exposures (PII, PHI, PD).  Highly configurable and easily extensible,  built for security and engineering teams.
 
 ---
 

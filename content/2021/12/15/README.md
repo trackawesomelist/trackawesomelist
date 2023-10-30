@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 15, 2021
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -36,9 +36,9 @@
 
 ## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
-*   [driftctl (⭐2.2k)](https://github.com/snyk/driftctl) - Detect, track, and alert on infrastructure drift
+*   [driftctl (⭐2.3k)](https://github.com/snyk/driftctl) - Detect, track, and alert on infrastructure drift
 
 ## [5. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
@@ -50,17 +50,11 @@
     [Repo (⭐11k)](https://github.com/picturepan2/spectre)
     \| #SCSS
 
-## [6. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
-
-### Featured On
-
-*   [Kubernetes explained](https://blog.brainboard.co/kubernetes-explained)
-
-## [7. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
+## [6. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
 ### Developer tools and frameworks
 
-*   [OrbitDB (⭐7.6k)](https://github.com/orbitdb/orbit-db) is a serverless, distributed, peer-to-peer database. OrbitDB uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers. It's an eventually consistent database that uses CRDTs for conflict-free database merges making OrbitDB an excellent choice for decentralized apps (dApps), blockchain applications and offline-first web applications.
+*   [OrbitDB (⭐7.7k)](https://github.com/orbitdb/orbit-db) is a serverless, distributed, peer-to-peer database. OrbitDB uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers. It's an eventually consistent database that uses CRDTs for conflict-free database merges making OrbitDB an excellent choice for decentralized apps (dApps), blockchain applications and offline-first web applications.
 *   [RenderJS](http://www.renderjs.org) is a JavaScript library which provides an easy way to define gadgets (aka mashups) in pure HTML5, without requiring any application server. It is suitable for the development of mobile applications, desktop applications.
 
 ### Networking
@@ -73,21 +67,21 @@
 
 ### Dead
 
-*   [Telehash](http://telehash.org/) a new encrypted P2P JSON-based protocol enabling developers to quickly build apps that are distributed and private (see the [protocol (⭐485)](https://github.com/telehash/telehash.org/blob/master/protocol.md) spec)
+*   [Telehash](http://telehash.org/) a new encrypted P2P JSON-based protocol enabling developers to quickly build apps that are distributed and private (see the [protocol (⭐484)](https://github.com/telehash/telehash.org/blob/master/protocol.md) spec)
 
-## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Testing
 
 *   [xgouchet/Elmyr (⭐80)](https://github.com/xgouchet/Elmyr) - A utility to make Kotlin/Java tests random yet reproducible
 
-## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [8. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Deployment / Distribution / Collection View Layout
 
 *   [Runway](https://runway.team) - Easier mobile releases for teams. Integrates across tools (version control, project management, CI, app stores, crash reporting, etc.) to provide a single source of truth for mobile teams to come together around during release cycles. Equal parts automation and collaboration.
 
-## [10. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
+## [9. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Meshing / Triangular and tetrahedral meshing
 
@@ -112,19 +106,19 @@
 *   [Mmg](https://www.mmgtools.org/) - Robust, open-source & multidisciplinary software for remeshing.
     (C, LGPL 3, [GitHub (⭐285)](https://github.com/MmgTools/mmg))
 
-## [11. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [iter-ops (⭐102)](https://github.com/vitaly-t/iter-ops) - Operations with iterable objects
+*   :octocat: [iter-ops (⭐113)](https://github.com/vitaly-t/iter-ops) - Operations with iterable objects
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-datepicker-next (⭐91)](https://github.com/mengxiong10/vue-datepicker-next) - Vue 3.x component for datepicker / timepicker / datetimepicker / calendar
+*   [vue-datepicker-next (⭐111)](https://github.com/mengxiong10/vue-datepicker-next) - Vue 3.x component for datepicker / timepicker / datetimepicker / calendar
 
-## [13. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
+## [12. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
 ### Books
 

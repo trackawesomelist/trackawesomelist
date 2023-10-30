@@ -32,7 +32,7 @@
 
 ### Software / Web Applications
 
-*   [Etherpad](http://etherpad.org/) - Collaborative document editing in real-time. ([Apache License 2.0 (⭐13k)](https://github.com/ether/etherpad-lite/blob/develop/LICENSE))
+*   [Etherpad](http://etherpad.org/) - Collaborative document editing in real-time. ([Apache License 2.0 (⭐14k)](https://github.com/ether/etherpad-lite/blob/develop/LICENSE))
 
 ## [5. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 

@@ -30,15 +30,15 @@
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [wsl2-ssh-pageant (⭐1)](https://github.com/antoinemartin/wsl2-ssh-pageant-oh-my-zsh-plugin) - Use your Yubikey stored GPG keys from WSL. This packages the instructions from [wsl2-ssh-pageant repo (⭐338)](https://github.com/BlackReloaded/wsl2-ssh-pageant) as a ZSH plugin.
+*   [wsl2-ssh-pageant (⭐1)](https://github.com/antoinemartin/wsl2-ssh-pageant-oh-my-zsh-plugin) - Use your Yubikey stored GPG keys from WSL. This packages the instructions from [wsl2-ssh-pageant repo (⭐344)](https://github.com/BlackReloaded/wsl2-ssh-pageant) as a ZSH plugin.
 
 ## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
-*   💼 [Background Unsplash (⭐14)](https://github.com/shorwood/tailwindcss-unsplash) - Apply [unsplash.com](https://unsplash.com) images as background.
+*   💼 [Background Unsplash (⭐15)](https://github.com/shorwood/tailwindcss-unsplash) - Apply [unsplash.com](https://unsplash.com) images as background.
 
 ## [5. Awesome Math](/content/rossant/awesome-math/README.md)
 
@@ -55,9 +55,9 @@
 
 ### Templates / Vue 3
 
-*   [vue3-mobile-template (⭐32)](https://github.com/parajs/vue3-mobile-template) - Vue3 + TS + Vue-Router4 + Vuex4 + Vant + Vue-use + Vue-i18n Mobile Template.
-*   [vue3-template (⭐60)](https://github.com/lecoueyl/vue3-template) - Vue 3 / Tailwind CSS / vue-router / PNPM / ESlint Airbnb / Stylelint / GitHub pages actions / Netlify.
-*   [Vitecamp (⭐304)](https://github.com/nekobc1998923/vitecamp) - Vue3 / Element Plus / Axios / Vue Router / Pinia / Windi CSS / icones / i18n / Markdown / Svg / ESLint Airbnb Style / Components and APIs auto importing.
+*   [vue3-mobile-template (⭐35)](https://github.com/parajs/vue3-mobile-template) - Vue3 + TS + Vue-Router4 + Vuex4 + Vant + Vue-use + Vue-i18n Mobile Template.
+*   [vue3-template (⭐74)](https://github.com/lecoueyl/vue3-template) - Vue 3 / Tailwind CSS / vue-router / PNPM / ESlint Airbnb / Stylelint / GitHub pages actions / Netlify.
+*   [Vitecamp (⭐317)](https://github.com/nekobc1998923/vitecamp) - Vue3 / Element Plus / Axios / Vue Router / Pinia / Windi CSS / icones / i18n / Markdown / Svg / ESLint Airbnb Style / Components and APIs auto importing.
 
 ## [7. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Libraries / New Libraries
 
-*   [EvoJAX (⭐633)](https://github.com/google/evojax) - Hardware-Accelerated Neuroevolution <img src="https://img.shields.io/github/stars/google/evojax?style=social" align="center">
+*   [EvoJAX (⭐705)](https://github.com/google/evojax) - Hardware-Accelerated Neuroevolution <img src="https://img.shields.io/github/stars/google/evojax?style=social" align="center">
 
 ## [10. Awesome Evm Security](/content/kareniel/awesome-evm-security/README.md)
 
@@ -110,7 +110,7 @@
 
 ### Adapters / Server-side
 
-*   [Echo (⭐2)](https://github.com/kohkimakimoto/inertia-echo)
+*   [Echo (⭐8)](https://github.com/kohkimakimoto/inertia-echo)
 
 ### Resources / Examples
 

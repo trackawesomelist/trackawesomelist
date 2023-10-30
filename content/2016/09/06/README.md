@@ -16,7 +16,7 @@
 
 ### Go Clients
 
-*   [resty (⭐7.3k)](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
+*   [resty (⭐8.1k)](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Humanizer (⭐7.2k)](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities.
+*   [Humanizer (⭐8k)](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities.
 
 ## [5. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 
@@ -40,11 +40,11 @@
 
 ### Libraries and Tools / C
 
-*   [vircar (⭐132)](https://github.com/dn5/vircar) - a Virtual car userspace that sends CAN messages based on SocketCAN
+*   [vircar (⭐138)](https://github.com/dn5/vircar) - a Virtual car userspace that sends CAN messages based on SocketCAN
 
 ### Libraries and Tools / Go
 
-*   [CAN Simulator (⭐58)](https://github.com/carloop/simulator-program) - A Go based CAN simulator for the Raspberry Pi to be used with PiCAN2 or the open source [CAN Simulator board (⭐158)](https://github.com/carloop/simulator)
+*   [CAN Simulator (⭐59)](https://github.com/carloop/simulator-program) - A Go based CAN simulator for the Raspberry Pi to be used with PiCAN2 or the open source [CAN Simulator board (⭐166)](https://github.com/carloop/simulator)
 
 ---
 

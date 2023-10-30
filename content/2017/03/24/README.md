@@ -23,7 +23,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [sweet-modal-vue (⭐760)](https://github.com/adeptoas/sweet-modal-vue) - The sweetest library to happen to modals. Now available for Vue.js.
+*   [sweet-modal-vue (⭐759)](https://github.com/adeptoas/sweet-modal-vue) - The sweetest library to happen to modals. Now available for Vue.js.
 
 ## [4. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
@@ -92,7 +92,7 @@
 
 ### Apps / E-commerce
 
-*   [longclaw (⭐351)](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
+*   [longclaw (⭐365)](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
 
 ---
 

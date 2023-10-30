@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 13, 2021
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -30,7 +30,7 @@
 
 ### Integrations with Third Party Services / Mouse Events
 
-*   [react-slack-notification (⭐11)](https://github.com/Nilanth/react-slack-notification) - Send messages and error logs to a Slack channel directly.
+*   [react-slack-notification (⭐13)](https://github.com/Nilanth/react-slack-notification) - Send messages and error logs to a Slack channel directly.
 
 ## [4. Awesome Observables](/content/sindresorhus/awesome-observables/README.md)
 
@@ -52,13 +52,13 @@
 
 ### Text / Barcode
 
-*   [Regex by sindresorhus (⭐314)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
+*   [Regex by sindresorhus (⭐318)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
 
 ## [7. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Regex
 
-*   [sindresorhus/Regex (⭐314)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
+*   [sindresorhus/Regex (⭐318)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
 
 ## [8. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -161,7 +161,7 @@
 
 ## [10. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
-### Tools / i18n frameworks for developers
+### Tools / Libraries and tools for developers
 
 *   [WPML](https://wpml.org/) - A WordPress plugin that allows running multilingual websites with a single WordPress install.
 
@@ -261,6 +261,33 @@
 ### Development Projects / APIs
 
 *   [TCGdex (⭐30)](https://github.com/tcgdex/cards-database) - Multi languages Pokémon TCG API.
+
+## [15. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### BeanShell / Non-X86
+
+*   [Beanshell Simple Java Scripting Manual](http://www.beanshell.org/manual/bshmanual.pdf) - beanshell.org (PDF)
+*   [BeanShell User's Manual](http://www.beanshell.org/manual/bshmanual.html) - beanshell.org (HTML)
+
+### Haskell / Spock Framework
+
+*   [A Gentle Introduction to Haskell Version 98](https://www.haskell.org/tutorial/) - Paul Hudak, John Peterson, Joseph Fasel
+*   [Haskell no panic](http://lisperati.com/haskell/) - Conrad Barski
+*   [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/) - Yann Esposito
+*   [Speeding Through Haskell](http://www.sthaskell.com) - Arya Popescu
+*   [The Haskell School of Music - From Signals to Symphonies](https://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf) - Paul Hudak (PDF)
+*   [Yet Another Haskell Tutorial](http://hal3.name/docs/daume02yaht.pdf) - Hal Daum ́e III (PDF)
+
+### Prolog / Zend
+
+*   [Adventure in Prolog](http://www.amzi.com/AdventureInProlog/) - Dennis Merritt
+*   [Concise Intro to Prolog](https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Prolog.html) - David Matuszek
+*   [Expert Systems in Prolog](http://www.amzi.com/ExpertSystemsInProlog/) - David Matuszek
+*   [GNU Prolog Manual](http://www.gprolog.org/manual/gprolog.pdf) - Daniel Diaz (PDF)
+*   [Prolog Tutorial](https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html) - J. R. Fisher
+*   [Simply Logical: Intelligent Reasoning by Example](https://book.simply-logical.space) - Peter Flach
+*   [The First 10 Prolog Programming Contests](https://dtai.cs.kuleuven.be/ppcbook) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon
+*   [The Power of Prolog](https://www.metalevel.at/prolog) - Markus Triska
 
 ---
 

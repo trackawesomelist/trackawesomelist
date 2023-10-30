@@ -29,7 +29,7 @@
 
 ### CLI
 
-*   [RunInfoBuilder (⭐40)](https://github.com/rushfive/RunInfoBuilder) - A unique command line parser, utilizing object trees for commands.
+*   [RunInfoBuilder (⭐41)](https://github.com/rushfive/RunInfoBuilder) - A unique command line parser, utilizing object trees for commands.
 
 ## [3. Awesome](/content/craftcms/awesome/README.md)
 
@@ -41,7 +41,7 @@
 
 ### UI
 
-*   [Snaplist (⭐416)](https://github.com/ariedov/flutter_snaplist) <!--stargazers:ariedov/flutter_snaplist--> - Create snappable list views by [David Leibovych](https://github.com/ariedov)
+*   [Snaplist (⭐438)](https://github.com/ariedov/flutter_snaplist) <!--stargazers:ariedov/flutter_snaplist--> - Create snappable list views by [David Leibovych](https://github.com/ariedov)
 
 ## [5. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -126,7 +126,7 @@ RewriteRule ^robots.txt - [L]
 
 ### Data validation / Third-party APIs
 
-*   [clavier (⭐16)](https://github.com/mmontone/clavier) - General purpose validation library for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [clavier (⭐17)](https://github.com/mmontone/clavier) - General purpose validation library for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ## [12. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -146,7 +146,6 @@ RewriteRule ^robots.txt - [L]
 
 ### In Portuguese
 
-*   [Elemencast](https://elemencast.github.io) - A proposta é levar ao ouvinte drops de conteúdo diversos a respeito do universo Front-End, NodeJs, Programação Funcional etc.
 *   [Naruhodo!](https://www.b9.com.br/podcasts/naruhodo/) - O Podcast tem uma proposta de explicar diversos temas, usando ciência, filosofia, história entre outros para embasar as respostas.
 
 ### In Bahasa Indonesia
@@ -157,7 +156,7 @@ RewriteRule ^robots.txt - [L]
 
 ### Software / Screencasting
 
-*   [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool. ([GNU GPLv3 (⭐22k)](https://github.com/ShareX/ShareX/blob/master/LICENSE.txt))
+*   [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool. ([GNU GPLv3 (⭐25k)](https://github.com/ShareX/ShareX/blob/master/LICENSE.txt))
 
 ---
 

@@ -1,43 +1,30 @@
 # Awesome List Updates on Nov 15, 2022
 
-17 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
-
-### Julia / FrameWorks
-
-*   [DataFrames.jl (⭐1.6k)](https://github.com/JuliaData/DataFrames.jl) - In-memory tabular data in Julia
-*   [TSFrames.jl (⭐76)](https://github.com/xKDR/TSFrames.jl) - Handle timeseries data on top of the powerful and mature DataFrames.jl
-
-## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+## [1. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Advanced Console UIs
 
-*   [bubbletea (⭐18k)](https://github.com/charmbracelet/bubbletea) - Go framework to build terminal apps, based on The Elm Architecture.
+*   [bubbletea (⭐20k)](https://github.com/charmbracelet/bubbletea) - Go framework to build terminal apps, based on The Elm Architecture.
 
-## [3. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
-
-### Projects / API Gateway
-
-*   [Apinto (⭐761)](https://github.com/eolinker/goku) - A Golang-based microservice gateway that provides dynamic routing, service orchestration, multi-tenancy management, and API access control.
-
-## [4. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [2. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Testing
 
 *   [tepi](https://deno.land/x/tepi) - A .http Test Runner
 
-## [5. Awesome Acg](/content/soruly/awesome-acg/README.md)
+## [3. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
 ### Image Processing
 
-*   [Anime Segmentation (⭐150)](https://github.com/SkyTNT/anime-segmentation) - High-accuracy segmentation for anime character. \[English]
+*   [Anime Segmentation (⭐456)](https://github.com/SkyTNT/anime-segmentation) - High-accuracy segmentation for anime character. \[English]
 
-## [6. Awesome Video](/content/krzemienski/awesome-video/README.md)
+## [4. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
 ### Learning / Talks Presentations Podcasts
 
@@ -46,13 +33,13 @@
 
 ### Players / MPEG
 
-*   [elements/packages/mux-player (⭐146)](https://github.com/muxinc/elements/tree/main/packages/mux-player)  - `<mux-player>` is the official Mux-flavored video player web component. The player UI is built on [Media Chrome (⭐758)](https://github.com/muxinc/media-chrome) and [`<mux-video>`](https://github.com/muxinc/elements/tree/main/packages/mux-video) drives the core video logic used to play Mux Video content.
+*   [elements/packages/mux-player (⭐150)](https://github.com/muxinc/elements/tree/main/packages/mux-player)  - `<mux-player>` is the official Mux-flavored video player web component. The player UI is built on [Media Chrome (⭐797)](https://github.com/muxinc/media-chrome) and [`<mux-video>`](https://github.com/muxinc/elements/tree/main/packages/mux-video) drives the core video logic used to play Mux Video content.
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 
-*   [Vue 3 + Laravel v9 - Boilerplate / Starter kit (⭐21)](https://github.com/fsgreco/vue3-laravel-api) An implementation of the **Laravel Breeze** application / authentication starter kit frontend in Vue.js v3. How a library can become a framework with the help of **pinia** and **vue-router**.
+*   [Vue 3 + Laravel v9 - Boilerplate / Starter kit (⭐27)](https://github.com/fsgreco/vue3-laravel-api) An implementation of the **Laravel Breeze** application / authentication starter kit frontend in Vue.js v3. How a library can become a framework with the help of **pinia** and **vue-router**.
 
 ### Projects Using Vue.js / Open Source
 
@@ -60,55 +47,55 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-awesome-sidebar (⭐31)](https://github.com/amirkian007/vue-awesome-sidebar) - A modern and fast sidebar menu component for vue(3x) capable with vue-router.
-*   [vue-web-terminal (⭐97)](https://github.com/tzfun/vue-web-terminal) - 💻 A feature-rich and powerful web terminal plugin for vue2 & vue3.(功能强大的网页命令行终端插件)
+*   [vue-awesome-sidebar (⭐36)](https://github.com/amirkian007/vue-awesome-sidebar) - A modern and fast sidebar menu component for vue(3x) capable with vue-router.
+*   [vue-web-terminal (⭐142)](https://github.com/tzfun/vue-web-terminal) - 💻 A feature-rich and powerful web terminal plugin for vue2 & vue3.(功能强大的网页命令行终端插件)
 
 ### Components & Libraries / Utilities
 
-*   [@skirtle/vue-vnode-utils (⭐3)](https://github.com/skirtles-code/vue-vnode-utils) - Helper functions for working with slot VNodes inside render functions in Vue 3
+*   [@skirtle/vue-vnode-utils (⭐5)](https://github.com/skirtles-code/vue-vnode-utils) - Helper functions for working with slot VNodes inside render functions in Vue 3
 
 ### Components & Libraries / Scaffold
 
-*   [Vue3-SPA-starter-template (⭐39)](https://github.com/M-Media-Group/Vue3-SPA-starter-template) - A starter kit with Router, Pinia, i18n, Stripe, Event Bus, SEO meta and schema tag handling, and more.
+*   [Vue3-SPA-starter-template (⭐43)](https://github.com/M-Media-Group/Vue3-SPA-starter-template) - A starter kit with Router, Pinia, i18n, Stripe, Event Bus, SEO meta and schema tag handling, and more.
 
-## [8. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
+## [6. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
 ### Rust / [Smarty Template Support](https://marketplace.visualstudio.com/items?itemName=aswinkumar863.smarty-template-support)
 
 *   [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) - Linting, auto-completion, code formatting, snippets and more
 
-## [9. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [7. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [cargo-breaking (⭐111)](https://github.com/iomentum/cargo-breaking) — cargo-breaking compares a crate's public API between two different branches, shows what changed, and suggests the next version according to semver.
-*   [cargo-show-asm (⭐357)](https://github.com/pacak/cargo-show-asm) — cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
+*   [cargo-show-asm (⭐454)](https://github.com/pacak/cargo-show-asm) — cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
 
-## [10. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [8. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Artificial Intelligence (AI)
 
 *   [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
 
-## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Science Logology / Philosophy of Science
 
 *   [The Meaning of "Theory"](https://jamacoartney.net/Abend%20\(2008\).pdf) - ***Sociological Theory***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=4876642889050563131\&hl=en\&as_sdt=0,5)]. A philosophical account on the definition of "theory" in social science (also can be generalized to natural science).
 
-## [12. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [10. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Books / SRAM
 
 *   [MicroPython for the Raspberry Pi Pico W: A gentle introduction to programming digital circuits with Python](https://www.amazon.com/MicroPython-Raspberry-Pico-introduction-programming/dp/B0BKSCV18D) - By Miguel Grinberg. ISBN 9798361302710.
 
-## [13. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [11. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Testing / Barcode
 
-*   [SBTUITestTunnel (⭐293)](https://github.com/Subito-it/SBTUITestTunnel) - UI testing library for interact with network requests, stub CLLocationManager and UNUserNotificationCenter, and fine grain scrolling in table/collection/scroll views
+*   [SBTUITestTunnel (⭐310)](https://github.com/Subito-it/SBTUITestTunnel) - UI testing library for interact with network requests, stub CLLocationManager and UNUserNotificationCenter, and fine grain scrolling in table/collection/scroll views
 
-## [14. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Collections / Generative Adversarial Networks (GANs)
 
@@ -116,15 +103,15 @@
 
 ### Inbox: Music and Audio projects / Generative Adversarial Networks (GANs)
 
-*   [MubertAI/Mubert-Text-to-Music (⭐2.6k)](https://github.com/MubertAI/Mubert-Text-to-Music): a simple notebook demonstrating prompt-based music generation via Mubert API
+*   [MubertAI/Mubert-Text-to-Music (⭐2.7k)](https://github.com/MubertAI/Mubert-Text-to-Music): a simple notebook demonstrating prompt-based music generation via Mubert API
 
-## [15. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [13. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Kubernetes / Angular
+### Kubernetes / Svelte
 
 *   [Upcoming Kubernetes Events Newsletter](https://kube.events/newsletter). A weekly newsletter on curated meetups, conferences, training and webinars on Kubernetes.
 
-## [16. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [14. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Resources / Documentation
 
@@ -138,11 +125,11 @@
 
 ### Libraries / PHP
 
-*   [PHP Driver (⭐808)](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
+*   [PHP Driver (⭐841)](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
 
 ### Libraries / Scala
 
-*   [driver-scala (⭐2.5k)](https://github.com/mongodb/mongo-java-driver/tree/master/driver-scala) - Official Scala driver
+*   [driver-scala (⭐2.6k)](https://github.com/mongodb/mongo-java-driver/tree/master/driver-scala) - Official Scala driver
 
 ### Tools / Deployment
 
@@ -151,15 +138,15 @@
 
 ### Tools / Development
 
-*   [C# Analyzer (⭐8)](https://github.com/mongodb/mongo-csharp-analyzer) - View the MongoDB Query API equivalents of your builder expressions in Visual Studio
+*   [C# Analyzer (⭐15)](https://github.com/mongodb/mongo-csharp-analyzer) - View the MongoDB Query API equivalents of your builder expressions in Visual Studio
 *   [MongoDB Atlas App Services](https://www.mongodb.com/atlas/app-services) - MongoDB Inc. solution to run code without the operational overhead
 
 ### Tools / Shell
 
-*   [MongoDB Atlas CLI (⭐137)](https://github.com/mongodb/mongodb-atlas-cli) - Official Atlas API command-line client
-*   [mongosh (⭐238)](https://github.com/mongodb-js/mongosh) - Official command-line client
+*   [MongoDB Atlas CLI (⭐149)](https://github.com/mongodb/mongodb-atlas-cli) - Official Atlas API command-line client
+*   [mongosh (⭐269)](https://github.com/mongodb-js/mongosh) - Official command-line client
 
-## [17. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [15. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Books
 

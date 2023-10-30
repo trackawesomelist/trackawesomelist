@@ -10,13 +10,13 @@
 
 ### Development / Npm
 
-*   [updates (⭐87)](https://github.com/silverwind/updates) - Flexible npm dependency update tool.
+*   [updates (⭐89)](https://github.com/silverwind/updates) - Flexible npm dependency update tool.
 
 ## [2. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Network Vulnerability Scanners / Wireless Network Tools
 
-*   [celerystalk (⭐376)](https://github.com/sethsec/celerystalk) - Asynchronous enumeration and vulnerability scanner that "runs all the tools on all the hosts" in a configurable manner.
+*   [celerystalk (⭐390)](https://github.com/sethsec/celerystalk) - Asynchronous enumeration and vulnerability scanner that "runs all the tools on all the hosts" in a configurable manner.
 
 ## [3. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Frameworks, Libraries and Tools / API
 
-*   [Flurl (⭐3.3k)](https://github.com/tmenier/Flurl) - Fluent URL builder and testable HTTP for .NET <https://flurl.dev>.
+*   [Flurl (⭐3.8k)](https://github.com/tmenier/Flurl) - Fluent URL builder and testable HTTP for .NET <https://flurl.dev>.
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

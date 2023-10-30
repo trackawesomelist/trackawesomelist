@@ -45,7 +45,7 @@
 
 ### For Electron / Other
 
-*   [electron-store (⭐4k)](https://github.com/sindresorhus/electron-store) - Save and load data like user preferences, app state, cache, etc.
+*   [electron-store (⭐4.2k)](https://github.com/sindresorhus/electron-store) - Save and load data like user preferences, app state, cache, etc.
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Software / Communication
 
-*   [Tox](https://tox.chat/) - Encrypted and distributed messaging platform with voice, video, and screen sharing. ([GNU GPLv3 (⭐1.8k)](https://github.com/TokTok/c-toxcore/blob/master/COPYING))
+*   [Tox](https://tox.chat/) - Encrypted and distributed messaging platform with voice, video, and screen sharing. ([GNU GPLv3 (⭐2k)](https://github.com/TokTok/c-toxcore/blob/master/COPYING))
 
 ---
 

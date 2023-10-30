@@ -41,19 +41,19 @@
 
 ### Packages / Application layer
 
-*   [vision\_opencv (⭐444)](https://github.com/ros-perception/vision_opencv/tree/ros2) - Packages for interfacing ROS2 with OpenCV. ![vision\_opencv](https://img.shields.io/github/stars/ros-perception/vision_opencv.svg)
+*   [vision\_opencv (⭐458)](https://github.com/ros-perception/vision_opencv/tree/ros2) - Packages for interfacing ROS2 with OpenCV. ![vision\_opencv](https://img.shields.io/github/stars/ros-perception/vision_opencv.svg)
 
 ## [3. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Development Tools
 
-*   [Quantum++ (⭐390)](https://github.com/vsoftco/qpp) - High performance modern C++11 quantum computing library.
+*   [Quantum++ (⭐445)](https://github.com/vsoftco/qpp) - High performance modern C++11 quantum computing library.
 
 ## [4. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
-### Services
+### Services & Platforms
 
-*   [Peergos](https://peergos.org) - Your private, but social, space online. Store and edit documents and media. Share files or folders with friends. [Source (⭐1.6k)](https://github.com/Peergos/Peergos)
+*   [Peergos](https://peergos.org) - Your private, but social, space online. Store and edit documents and media. Share files or folders with friends.
 
 ## [5. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
@@ -61,14 +61,14 @@
 
 *   JavaScript
     *   [by @jiayihu (⭐2.2k)](https://github.com/jiayihu/pretty-algorithms)
-    *   [by @felipernb (⭐3.6k)](https://github.com/felipernb/algorithms.js)
-    *   [by @nzakas (⭐8.8k)](https://github.com/nzakas/computer-science-in-javascript)
-    *   [by @duereg (⭐918)](https://github.com/duereg/js-algorithms)
-    *   [by @mgechev (⭐7.6k)](https://github.com/mgechev/javascript-algorithms)
-    *   [by @trekhleb (⭐166k)](https://github.com/trekhleb/javascript-algorithms)
-    *   [by @ManrajGrover (⭐187)](https://github.com/ManrajGrover/algorithms-js)
-    *   [by @amejiarosario (⭐7.2k)](https://github.com/amejiarosario/dsa.js)
-    *   [by @zonayedpca (⭐95)](https://github.com/zonayedpca/AlgoDS.js)
+    *   [by @felipernb (⭐3.7k)](https://github.com/felipernb/algorithms.js)
+    *   [by @nzakas (⭐8.9k)](https://github.com/nzakas/computer-science-in-javascript)
+    *   [by @duereg (⭐920)](https://github.com/duereg/js-algorithms)
+    *   [by @mgechev (⭐7.7k)](https://github.com/mgechev/javascript-algorithms)
+    *   [by @trekhleb (⭐175k)](https://github.com/trekhleb/javascript-algorithms)
+    *   [by @ManrajGrover (⭐190)](https://github.com/ManrajGrover/algorithms-js)
+    *   [by @amejiarosario (⭐7.4k)](https://github.com/amejiarosario/dsa.js)
+    *   [by @zonayedpca (⭐98)](https://github.com/zonayedpca/AlgoDS.js)
 
 ---
 

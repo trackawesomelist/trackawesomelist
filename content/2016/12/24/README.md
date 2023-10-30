@@ -93,13 +93,13 @@
 *   [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.
 *   [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal home budget software.
 *   [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
-*   [Ledger (⭐4.6k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
+*   [Ledger (⭐4.7k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Debug
 
-*   [backward-cpp (⭐3.1k)](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++. \[MIT]
+*   [backward-cpp (⭐3.3k)](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++. \[MIT]
 
 ## [6. Awesome Qt](/content/JesseTG/awesome-qt/README.md)
 

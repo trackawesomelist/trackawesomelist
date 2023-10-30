@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 24, 2020
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,19 +10,19 @@
 
 ### GTFS Realtime Utilities / Ruby
 
-*   [manual-gtfsrt (⭐2)](https://github.com/pailakka/manual-gtfsrt) - A Go-based tool that serves a GTFS-RT feed created from editable JSON.
+*   [manual-gtfsrt (⭐5)](https://github.com/pailakka/manual-gtfsrt) - A Go-based tool that serves a GTFS-RT feed created from editable JSON.
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Network perimeter defenses / Evidence collection
 
-*   [Gatekeeper (⭐934)](https://github.com/AltraMayor/gatekeeper) - First open source Distributed Denial of Service (DDoS) protection system.
+*   [Gatekeeper (⭐1k)](https://github.com/AltraMayor/gatekeeper) - First open source Distributed Denial of Service (DDoS) protection system.
 
 ## [3. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Sample Projects / PHP
 
-*   [DDD CQRS Todo Sample (⭐300)](https://github.com/ferrius/ddd-cqrs-example) - DDD CQRS ADR hexagonal architecture implementation built with PHP 7 and Symfony 5.
+*   [DDD CQRS Todo Sample (⭐333)](https://github.com/ferrius/ddd-cqrs-example) - DDD CQRS ADR hexagonal architecture implementation built with PHP 7 and Symfony 5.
 
 ## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -34,13 +34,13 @@
 
 ### CLI Utils
 
-*   [climate (⭐12)](https://github.com/Sija/climate.cr) - Tiny tool to make your CLI output 🌈  coloured
+*   [climate (⭐14)](https://github.com/Sija/climate.cr) - Tiny tool to make your CLI output 🌈  coloured
 
 ## [6. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Tools and session management
 
-*   [dmux (⭐255)](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
+*   [dmux (⭐270)](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Frameworks, Libraries and Tools / GUI
 
-*   [Lara (⭐121)](https://github.com/integrativesoft/lara) - Lara Web Engine is a library for developing Web user interfaces in C#
+*   [Lara (⭐139)](https://github.com/integrativesoft/lara) - Lara Web Engine is a library for developing Web user interfaces in C#
 
 ## [12. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
 
@@ -84,19 +84,9 @@
 
 ### Image Processing
 
-*   [PyMatting (⭐1.4k)](http://github.com/pymatting/pymatting) - A library for alpha matting.
+*   [PyMatting (⭐1.5k)](http://github.com/pymatting/pymatting) - A library for alpha matting.
 
-## [14. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
-
-### Services
-
-*   [Robonomics Network](https://robonomics.network/) - Ethereum network infrastructure for cyber-physical systems' integration into Smart Cities and Industry 4.0
-
-### Tools
-
-*   [IPFS Setup Action](https://github.com/marketplace/actions/ipfs-setup-action) - A GitHub Action to install and initialize go-ipfs to provision a cross-platform test environment on GitHub's CI platform. [Source (⭐14)](https://github.com/ibnesayeed/setup-ipfs)
-
-## [15. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [14. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Tooling
 
@@ -104,13 +94,13 @@
 *   [OpenML](https://www.openml.org) - An inclusive movement to build an open, organized, online ecosystem for machine learning.
 *   [Spark Machine Learning](https://spark.apache.org/mllib/) - Spark’s ML library consisting of common learning algorithms and utilities.
 
-## [16. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Sheetson](https://sheetson.com) - Instantly turn any Google Sheets into RESTful API. Free plan available.
+*   [Sheetson](https://sheetson.com) - Instantly turn any Google Sheets into a RESTful API. Free plan available.
 
-## [17. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
+## [16. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Packages / Libraries
 
@@ -118,9 +108,9 @@
 
 ### Packages / Apps
 
-*   [Web Audio Metronome (⭐531)](https://github.com/cwilso/metronome) - metronome app that uses the Web Audio scheduler and setTimeout scheduler
+*   [Web Audio Metronome (⭐546)](https://github.com/cwilso/metronome) - metronome app that uses the Web Audio scheduler and setTimeout scheduler
 
-## [18. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [17. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Articles
 

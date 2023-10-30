@@ -10,7 +10,7 @@
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
-*   [Alloy (⭐2.5k)](https://github.com/AlloyTeam/eslint-config-alloy) - Progressive ESLint config for your React/Vue/TypeScript projects.
+*   [Alloy (⭐2.6k)](https://github.com/AlloyTeam/eslint-config-alloy) - Progressive ESLint config for your React/Vue/TypeScript projects.
 
 ## [2. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
 

@@ -16,9 +16,15 @@
 
 ### IR Tools Collection / Log Analysis Tools
 
-*   [SysmonSearch (⭐393)](https://github.com/JPCERTCC/SysmonSearch) - SysmonSearch makes Windows event log analysis more effective and less time consuming by aggregation of event logs.
+*   [SysmonSearch (⭐402)](https://github.com/JPCERTCC/SysmonSearch) - SysmonSearch makes Windows event log analysis more effective and less time consuming by aggregation of event logs.
 
-## [3. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Lua / PicoLisp
+
+*   [Lua 5.3 Reference Manual](http://www.lua.org/manual/5.3/)
+
+## [4. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### Podcasts / Misc
 
@@ -28,7 +34,7 @@
 
 *   [Mara Averick](https://twitter.com/dataandme)
 
-## [4. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [5. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Popular Packages / Media & Document Management
 
@@ -38,7 +44,7 @@
 
 *   [CodePier](https://codepier.io?ref=awesome-laravel)
 
-## [5. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [6. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Libraries
 
@@ -49,7 +55,7 @@
 
 *   [TensorFlow Estimators: Managing Simplicity vs. Flexibility in High-Level Machine Learning Frameworks](https://arxiv.org/pdf/1708.02637.pdf)
 
-## [6. Awesome](/content/craftcms/awesome/README.md)
+## [7. Awesome](/content/craftcms/awesome/README.md)
 
 ### Presentations / Tutorials
 
@@ -78,19 +84,19 @@
 *   [Nissin Foods](http://nissinfoods.com/)
 *   [Reddit Inc.](https://www.redditinc.com/)
 
-## [7. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [8. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries / Algebraic Data Types
 
-*   [MojiScript (⭐149)](https://github.com/joelnet/MojiScript)- an async-first, opinionated, and functional language designed to have 100% compatibility with JavaScript engines
+*   [MojiScript (⭐148)](https://github.com/joelnet/MojiScript)- an async-first, opinionated, and functional language designed to have 100% compatibility with JavaScript engines
 
-## [8. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+## [9. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 
 ### Asia / India 🇮🇳
 
 ### Johannesburg
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/riggaroo" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/riggaroo" height="70px" width="70px" align="left" alt="" />
 
 **Rebecca Franks**\
 Topics: Android, Android Things, Firebase, IoT\
@@ -100,7 +106,7 @@ Topics: Android, Android Things, Firebase, IoT\
 
 ### Höchst im Odenwald
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/TimPietrusky" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/TimPietrusky" height="70px" width="70px" align="left" alt="" />
 
 **Tim Pietrusky**\
 Topics: JS Art, JS Music, JavaScript\
@@ -110,178 +116,178 @@ Topics: JS Art, JS Music, JavaScript\
 
 ### Athens
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/NickPalladinos" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/NickPalladinos" height="70px" width="70px" align="left" alt="" />
 
 **Nick Palladinos**\
 Topics: F#\
 <https://twitter.com/NickPalladinos>
 ### Cork
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/DaveJ" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/DaveJ" height="70px" width="70px" align="left" alt="" />
 
 **Dave Jeffery**\
 Topics: JavaScript, Electron, Node.js\
 <https://twitter.com/DaveJ>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/eoins" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/eoins" height="70px" width="70px" align="left" alt="" />
 
 **Eoin Shanaghy**\
 Topics: Java, Elixir, Node.js\
 <https://twitter.com/eoins>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sugrue" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/sugrue" height="70px" width="70px" align="left" alt="" />
 
 **James Sugrue**\
 Topics: Swift, JavaScript, Java\
 <https://twitter.com/sugrue>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/tech_fort" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/tech_fort" height="70px" width="70px" align="left" alt="" />
 
 **Joe Minichino**\
 Topics: Artificial Intelligence, Machine Learning, Databases, JavaScript, Python\
 <https://twitter.com/tech_fort>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/aetheon" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/aetheon" height="70px" width="70px" align="left" alt="" />
 
 **Oscar Brito**\
 Topics: Linux, Node.js, JavaScript, Python\
 <https://twitter.com/aetheon>
 ### Dublin
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/dhigit9" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/dhigit9" height="70px" width="70px" align="left" alt="" />
 
 **Anton Whalley**\
 Topics: Node.js, Decentralization, FreeBSD, Open Source\
 <https://twitter.com/dhigit9>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/augeva" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/augeva" height="70px" width="70px" align="left" alt="" />
 
 **Augusto Evangelisti**\
 Topics: Testing, Agile, Bitcoin\
 <https://twitter.com/augeva>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/barryosull" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/barryosull" height="70px" width="70px" align="left" alt="" />
 
 **Barry O'Sullivan**\
 Topics: PHP, Testing, Domain-Driven Design, Event Sourcing\
 <https://twitter.com/barryosull>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/real_ate" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/real_ate" height="70px" width="70px" align="left" alt="" />
 
 **Chris Manson**\
 Topics: JavaScript, Ember, React\
 <https://twitter.com/real_ate>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/cianmm" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/cianmm" height="70px" width="70px" align="left" alt="" />
 
 **Cian Mac Mahon**\
 Topics: JavaScript, React\
 <https://twitter.com/cianmm>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/claudiopro" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/claudiopro" height="70px" width="70px" align="left" alt="" />
 
 **Claudio Procida**\
 Topics: JavaScript, React, Node.js, Diversity\
 <https://twitter.com/claudiopro>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/donovanh" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/donovanh" height="70px" width="70px" align="left" alt="" />
 
 **Donovan Hutchinson**\
 Topics: HTML, CSS, JavaScript\
 <https://twitter.com/donovanh>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/opinionatedpie" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/opinionatedpie" height="70px" width="70px" align="left" alt="" />
 
 **Ingrid Epure**\
 Topics: Security, Psychology\
 <https://twitter.com/opinionatedpie>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/johnbrett_" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/johnbrett_" height="70px" width="70px" align="left" alt="" />
 
 **John Brett**\
 Topics: JavaScript, hapi, Nomad Work, Bitcoin\
 <https://twitter.com/johnbrett_>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/loige" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/loige" height="70px" width="70px" align="left" alt="" />
 
 **Luciano Mammino**\
 Topics: Node.js, Design Patterns, Serverless, JSON Web Tokens, Universal JavaScript\
 <https://twitter.com/loige>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/Lynsey_Duncan" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/Lynsey_Duncan" height="70px" width="70px" align="left" alt="" />
 
 **Lynsey Duncan**\
 Topics: UX, UI, Design Systems\
 <https://twitter.com/Lynsey_Duncan>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/princessmaja" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/princessmaja" height="70px" width="70px" align="left" alt="" />
 
 **Maja Grubic**\
 Topics: Node.js, JavaScript, React, Monitoring, D3, SVG\
 <https://twitter.com/princessmaja>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mariocasciaro" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/mariocasciaro" height="70px" width="70px" align="left" alt="" />
 
 **Mario Casciaro**\
 Topics: Node.js, JavaScript, Design Patterns, Startups\
 <https://twitter.com/mariocasciaro>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/micflan" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/micflan" height="70px" width="70px" align="left" alt="" />
 
 **Michael Flanagan**\
 Topics: PHP, JavaScript, REST, Testing\
 <https://twitter.com/micflan>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mustafaturan" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/mustafaturan" height="70px" width="70px" align="left" alt="" />
 
 **Mustafa Turan**\
 Topics: Elixir, Ruby, Functional Programming\
 <https://twitter.com/mustafaturan>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/PadraigOBrien" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/PadraigOBrien" height="70px" width="70px" align="left" alt="" />
 
 **Padraig O'Brien**\
 Topics: Serverless, Big Data, Databases\
 <https://twitter.com/PadraigOBrien>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/CatKlavier" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/CatKlavier" height="70px" width="70px" align="left" alt="" />
 
 **Panpan Lin**\
 Topics: JavaScript, GraphQL, Swift, Hackathons\
 <https://twitter.com/CatKlavier>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/patocallaghan" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/patocallaghan" height="70px" width="70px" align="left" alt="" />
 
 **Pat O'Callaghan**\
 Topics: JavaScript, Node.js, Ember\
 <https://twitter.com/patocallaghan>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/serifritsch" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/serifritsch" height="70px" width="70px" align="left" alt="" />
 
 **Serena Fritsch**\
 Topics: JavaScript, Ember, Developer Workflows\
 <https://twitter.com/serifritsch>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/malyw" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/malyw" height="70px" width="70px" align="left" alt="" />
 
 **Serg Hospodarets**\
 Topics: JavaScript, CSS, CSS Houdini\
 <https://twitter.com/malyw>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/tomwillfixit" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/tomwillfixit" height="70px" width="70px" align="left" alt="" />
 
 **Thomas Shaw**\
 Topics: Docker, Jenkins, Devops\
 <https://twitter.com/tomwillfixit>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/brikis98" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/brikis98" height="70px" width="70px" align="left" alt="" />
 
 **Yevgeniy Brikman**\
 Topics: Terraform, Devops, Scalability\
 <https://twitter.com/brikis98>
 ### Galway
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/markconroy" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/markconroy" height="70px" width="70px" align="left" alt="" />
 
 **Mark Conroy**\
 Topics: Frontend, Drupal, Web Development\
@@ -291,49 +297,49 @@ Topics: Frontend, Drupal, Web Development\
 
 ### Amsterdam
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/kureevalexey" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/kureevalexey" height="70px" width="70px" align="left" alt="" />
 
 **Alexey Kureev**\
 Topics: React Native\
 <https://twitter.com/kureevalexey>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/carmenpopoviciu" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/carmenpopoviciu" height="70px" width="70px" align="left" alt="" />
 
 **Carmen Popoviciu**\
 Topics: Angular, JavaScript, Machine Learning, Neural Networks, Polymer, Web Components\
 <https://twitter.com/carmenpopoviciu>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/chidinmako" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/chidinmako" height="70px" width="70px" align="left" alt="" />
 
 **Chidinma Kalu**\
 Topics: JavaScript, TypeScript, Python, Machine Learning\
 <https://twitter.com/chidinmako>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/JoubranJad" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/JoubranJad" height="70px" width="70px" align="left" alt="" />
 
 **Jad Joubran**\
 Topics: Progressive Web Apps, Web Performance, JavaScript\
 <https://twitter.com/JoubranJad>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/udezekene" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/udezekene" height="70px" width="70px" align="left" alt="" />
 
 **Kene Udeze**\
 Topics: Design, CSS, Accessibility, Inclusive Design\
 <https://twitter.com/udezekene>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mweststrate" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/mweststrate" height="70px" width="70px" align="left" alt="" />
 
 **Michel Weststrate**\
 Topics: MobX, React, mobx-state-tree, Typescript, Open Source\
 <https://twitter.com/mweststrate>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/narendra_shetty" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/narendra_shetty" height="70px" width="70px" align="left" alt="" />
 
 **Narendra Shetty**\
 Topics: React, Progressive Web Apps\
 <https://twitter.com/narendra_shetty>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ppk" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/ppk" height="70px" width="70px" align="left" alt="" />
 
 **Peter-Paul Koch**\
 Topics: HTML, CSS, JavaScript, Cross-Browser Compatibility\
@@ -343,20 +349,20 @@ Topics: HTML, CSS, JavaScript, Cross-Browser Compatibility\
 
 ### St. Petersburg
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/pepelsbey_" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/pepelsbey_" height="70px" width="70px" align="left" alt="" />
 
 **Vadim Makeev**\
 Topics: HTML, CSS, Web Standards, Accessibility\
 <https://twitter.com/pepelsbey_>
 ### Belgrade
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/simalexan" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/simalexan" height="70px" width="70px" align="left" alt="" />
 
 **Aleksandar Simovic**\
 Topics: Serverless\
 <https://twitter.com/simalexan>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/slobodan_" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/slobodan_" height="70px" width="70px" align="left" alt="" />
 
 **Slobodan Stojanović**\
 Topics: Serverless, Offline Web, Chat Bots\
@@ -366,7 +372,7 @@ Topics: Serverless, Offline Web, Chat Bots\
 
 ### Alicante
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/flaviocorpa" height="70px" width="70px" align="left" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/flaviocorpa" height="70px" width="70px" align="left" />
 
 **Flavio Corpa**\
 Topics: JavaScript, Functional Programming\
@@ -376,21 +382,21 @@ Topics: JavaScript, Functional Programming\
 
 ### Chernivtsi
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/denysdovhan" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/denysdovhan" height="70px" width="70px" align="left" alt="" />
 
 **Denys Dovhan**\
 Topics: JavaScript, DevTools, Shell scripting\
 <https://twitter.com/denysdovhan>
 ### Kharkiv
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/xanf_ua" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/xanf_ua" height="70px" width="70px" align="left" alt="" />
 
 **Illya Klymov**\
 Topics: Teaching, Coaching, JavaScript\
 <https://twitter.com/xanf_ua>
 ### Vinnytsia
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/denar90_" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/denar90_" height="70px" width="70px" align="left" alt="" />
 
 **Artem Denysov**\
 Topics: Web Performance, Dev Tools\
@@ -400,133 +406,133 @@ Topics: Web Performance, Dev Tools\
 
 ### London
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/lady_ada_king" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/lady_ada_king" height="70px" width="70px" align="left" alt="" />
 
 **Ada Rose Cannon**\
 Topics: HTML, CSS, JavaScript, WebVR, Web Technologies, Progressive Web Apps\
 <https://twitter.com/lady_ada_king>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/cirpo" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/cirpo" height="70px" width="70px" align="left" alt="" />
 
 **Alessandro Cinelli**\
 Topics: JavaScript\
 <https://twitter.com/cirpo>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/alex_lobera" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/alex_lobera" height="70px" width="70px" align="left" alt="" />
 
 **Alex Lobera**\
 Topics: JavaScript, React, Redux, GraphQL\
 <https://twitter.com/alex_lobera>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/iotwatch" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/iotwatch" height="70px" width="70px" align="left" alt="" />
 
 **Alexandra Deschamps-Sonsino**\
 Topics: Internet of Things, Smart Homes, Connected Devices\
 <https://twitter.com/iotwatch>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/craftui" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/craftui" height="70px" width="70px" align="left" alt="" />
 
 **Alla Kholmatova**\
 Topics: Design Systems\
 <https://twitter.com/craftui>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/triblondon" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/triblondon" height="70px" width="70px" align="left" alt="" />
 
 **Andrew Betts**\
 Topics: Networks, Performance, Web\
 <https://twitter.com/triblondon>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/lithinn" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/lithinn" height="70px" width="70px" align="left" alt="" />
 
 **Anna Doubková**\
 Topics: React, Testing\
 <https://twitter.com/lithinn>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bodil" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/bodil" height="70px" width="70px" align="left" alt="" />
 
 **Bodil Stokke**\
 Topics: Programming, Functional Programming\
 <https://twitter.com/bodil>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/chris_noring" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/chris_noring" height="70px" width="70px" align="left" alt="" />
 
 **Chris Noring**\
 Topics: JavaScript, RxJS, Angular, React\
 <https://twitter.com/chris_noring>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/areaweb" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/areaweb" height="70px" width="70px" align="left" alt="" />
 
 **Cristiano Rastelli**\
 Topics: CSS, CSS in JS\
 <https://twitter.com/areaweb>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/dan_abramov" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/dan_abramov" height="70px" width="70px" align="left" alt="" />
 
 **Dan Abramov**\
 Topics: JavaScript, React, Redux, Tooling\
 <https://twitter.com/dan_abramov>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/Folletto" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/Folletto" height="70px" width="70px" align="left" alt="" />
 
 **Davide 'Folletto' Casali**\
 Topics: Design, User Experience, Management, Leadership, Startups\
 <https://twitter.com/Folletto>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/gerardsans" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/gerardsans" height="70px" width="70px" align="left" alt="" />
 
 **Gerard Sans**\
 Topics: Angular, React, GraphQL, CSS Animations, RxJS\
 <https://twitter.com/gerardsans>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/gojkoadzic" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/gojkoadzic" height="70px" width="70px" align="left" alt="" />
 
 **Gojko Adzic**\
 Topics: Testing, Requirements, Serverless\
 <https://twitter.com/gojkoadzic>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jevakallio" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/jevakallio" height="70px" width="70px" align="left" alt="" />
 
 **Jani Eväkallio**\
 Topics: Self-Development, Programming\
 <https://twitter.com/jevakallio>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/MicheleBertoli" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/MicheleBertoli" height="70px" width="70px" align="left" alt="" />
 
 **Michele Bertoli**\
 Topics: React, Testing\
 <https://twitter.com/MicheleBertoli>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/_philpl" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/_philpl" height="70px" width="70px" align="left" alt="" />
 
 **Phil Plückthun**\
 Topics: React, CSS in JS\
 <https://twitter.com/_philpl>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/saniyusuf" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/saniyusuf" height="70px" width="70px" align="left" alt="" />
 
 **Sani Yusuf**\
 Topics: Ionic, Angular, JavaScript, Progressive Web Apps\
 <https://twitter.com/saniyusuf>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sebawita" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/sebawita" height="70px" width="70px" align="left" alt="" />
 
 **Sebastian Witalec**\
 Topics: NativeScript, Angular, Bots, JavaScript\
 <https://twitter.com/sebawita>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/yaili" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/yaili" height="70px" width="70px" align="left" alt="" />
 
 **Inayaili de León**\
 Topics: Design Systems, Responsive Web Design, Design Leadership, UI\
 <https://twitter.com/yaili>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/heydonworks" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/heydonworks" height="70px" width="70px" align="left" alt="" />
 
 **Heydon Pickering**\
 Topics: Accessibility, Performance, Web\
 <https://twitter.com/heydonworks>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ninjanails" height="70px" width="auto" align="left" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/ninjanails" height="70px" width="auto" align="left" />
 
 **Seren Davies**\
 Topics: Accessibility\
@@ -536,29 +542,23 @@ Topics: Accessibility\
 
 ### Palo Alto
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/paul_irish" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/paul_irish" height="70px" width="70px" align="left" alt="" />
 
 **Paul Irish**\
 Topics: Developer Tools\
 <https://twitter.com/paul_irish>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/_chenglou" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/_chenglou" height="70px" width="70px" align="left" alt="" />
 
 **Cheng Lou**\
 Topics: ReasonML, React, Software Philosophy\
 <https://twitter.com/_chenglou>
 
-## [9. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [10. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Testing
 
-*   [kaocha (⭐737)](https://github.com/lambdaisland/kaocha)
-
-## [10. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
-
-### OS Images
-
-*   [SARPi](http://sarpi.fatdog.nl/index.php?p=sarpi) - Stands for the Slackware ARM on Raspberry Pi.
+*   [kaocha (⭐749)](https://github.com/lambdaisland/kaocha)
 
 ## [11. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -574,13 +574,13 @@ Topics: ReasonML, React, Software Philosophy\
 
 ### Emulators / Experimental/Proof of Concepts
 
-*   [mGBA (⭐4.5k)](https://github.com/mgba-emu/mgba) - Modern cross platform GBA emulator which also runs GB/GBC games.
+*   [mGBA (⭐4.8k)](https://github.com/mgba-emu/mgba) - Modern cross platform GBA emulator which also runs GB/GBC games.
 
 ## [13. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Miscellaneous
 
-*   [Speakers (⭐759)](https://github.com/karlhorky/awesome-speakers#readme) - Conference and meetup speakers in the programming and design community.
+*   [Speakers (⭐764)](https://github.com/karlhorky/awesome-speakers#readme) - Conference and meetup speakers in the programming and design community.
 
 ## [14. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -614,7 +614,7 @@ Topics: ReasonML, React, Software Philosophy\
 
 ### Ask these people anything!
 
-*   [Omar Bahareth (⭐3)](https://github.com/obahareth/ama) - Head of Software Engineering at [Tam](https://tamhub.com), mentor, full-stack developer, currently heavily into Ruby and Elixir, and slowly getting into Go and Rust. Located in Saudi Arabia.
+*   [Omar Bahareth (⭐4)](https://github.com/obahareth/ama) - Head of Software Engineering at [Tam](https://tamhub.com), mentor, full-stack developer, currently heavily into Ruby and Elixir, and slowly getting into Go and Rust. Located in Saudi Arabia.
 
 ## [19. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 

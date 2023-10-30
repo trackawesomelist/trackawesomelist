@@ -39,22 +39,22 @@
 
 ### Auth
 
-*   [FastAPI Azure Auth (⭐231)](https://github.com/Intility/fastapi-azure-auth) - Azure AD authentication for your APIs with single and multi tenant support.
-*   [FastAPI Users (⭐2.5k)](https://github.com/fastapi-users/fastapi-users) - Account management, authentication, authorization.
+*   [FastAPI Azure Auth (⭐293)](https://github.com/Intility/fastapi-azure-auth) - Azure AD authentication for your APIs with single and multi tenant support.
+*   [FastAPI Users (⭐3.2k)](https://github.com/fastapi-users/fastapi-users) - Account management, authentication, authorization.
 
 ### Boilerplate / Other Tools
 
-*   [FastAPI template (⭐665)](https://github.com/s3rius/FastAPI-template) - Flexible, lightweight FastAPI project generator. It includes support for SQLAlchemy, multiple databases, CI/CD, Docker, and Kubernetes.
+*   [FastAPI template (⭐1k)](https://github.com/s3rius/FastAPI-template) - Flexible, lightweight FastAPI project generator. It includes support for SQLAlchemy, multiple databases, CI/CD, Docker, and Kubernetes.
 
 ### Open Source Projects / Other Tools
 
-*   [Bunnybook (⭐201)](https://github.com/pietrobassi/bunnybook) - A tiny social network built with FastAPI, React+RxJs, Neo4j, PostgreSQL, and Redis.
+*   [Bunnybook (⭐224)](https://github.com/pietrobassi/bunnybook) - A tiny social network built with FastAPI, React+RxJs, Neo4j, PostgreSQL, and Redis.
 
 ## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Typing
 
-*   👍 [Coalton (⭐776)](https://github.com/coalton-lang/coalton/) - an efficient, statically typed functional programming language that supercharges Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   👍 [Coalton (⭐857)](https://github.com/coalton-lang/coalton/) - an efficient, statically typed functional programming language that supercharges Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ## [6. Awesome Slim](/content/nekofar/awesome-slim/README.md)
 
@@ -95,25 +95,25 @@
 
 ### Tools / Testing Tools
 
-*   [eslint-dashboard (⭐14)](https://github.com/fengzilong/eslint-dashboard) - Interactive ESLint workflow that lives in your terminal.
+*   [eslint-dashboard (⭐15)](https://github.com/fengzilong/eslint-dashboard) - Interactive ESLint workflow that lives in your terminal.
 
 ## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [Silverback (⭐164)](https://github.com/BEagle1984/silverback) - Framework to build event-driven applications (support for Kafka, RabbitMQ, MQTT).
+*   [Silverback (⭐226)](https://github.com/BEagle1984/silverback) - Framework to build event-driven applications (support for Kafka, RabbitMQ, MQTT).
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Monitoring
 
-*   [economize.cloud](https://economize.cloud) — Economize helps demystify cloud infrastructure costs by organizing cloud resources, optimize and report the same. Free for up to $5000 spends on Google Cloud Platform every month.
+*   [economize.cloud](https://economize.cloud) — Economize helps demystify cloud infrastructure costs by organizing cloud resources to optimize and report the same. Free for up to $5,000 spent on Google Cloud Platform every month.
 
 ## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Operating systems
 
-*   [0x59616e/SteinsOS (⭐90)](https://github.com/0x59616e/SteinsOS)  — An OS for armv8-a architecture.
+*   [0x59616e/SteinsOS (⭐99)](https://github.com/0x59616e/SteinsOS)  — An OS for armv8-a architecture.
 
 ## [11. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 
@@ -146,10 +146,6 @@
 ### Web3XR / Galleries
 
 *   [RareRooms](https://www.rarerooms.io/) - Allows you to create immersive NFT galleries with support for multiple different chains/marketplaces.
-
-### Web3XR / Realms
-
-*   [Webaverse](https://webaverse.com/) - An open-source virtual world powered by Ethereum with support for custom avatars. Focused on digital ownership, an open economy, and interoperability.
 
 ---
 

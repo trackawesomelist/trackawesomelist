@@ -10,7 +10,7 @@
 
 ### Code Analysis and Metrics
 
-*   [ameba (⭐463)](https://github.com/crystal-ameba/ameba) - A static code analysis tool
+*   [ameba (⭐482)](https://github.com/crystal-ameba/ameba) - A static code analysis tool
 
 ## [2. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -52,9 +52,9 @@
 
 ## [6. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### HTTP Clients
+### HTTP Clients / Text-Based User Interfaces
 
-*   [unirest-java (⭐2.4k)](https://github.com/Kong/unirest-java) - Simplified, lightweight HTTP client library.
+*   [unirest-java (⭐2.5k)](https://github.com/Kong/unirest-java) - Simplified, lightweight HTTP client library.
 
 ## [7. Awesome Indie](/content/mezod/awesome-indie/README.md)
 

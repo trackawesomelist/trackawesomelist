@@ -16,22 +16,22 @@
 
 ### Automation
 
-*   [Runbook (⭐696)](https://github.com/braintree/runbook) - A framework and Ruby DSL for progressive system automation.
+*   [Runbook (⭐707)](https://github.com/braintree/runbook) - A framework and Ruby DSL for progressive system automation.
 
 ### Game Development and Graphics
 
-*   [Mittsu (⭐486)](https://github.com/jellymann/mittsu) - Mittsu makes 3D graphics easier by providing an abstraction over OpenGL, and is based heavily off of THREE.js.
+*   [Mittsu (⭐499)](https://github.com/jellymann/mittsu) - Mittsu makes 3D graphics easier by providing an abstraction over OpenGL, and is based heavily off of THREE.js.
 
 ### Machine Learning
 
-*   [TensorFlow (⭐350)](https://github.com/ankane/tensorflow) - The end-to-end machine learning platform for Ruby.
-*   [Torch.rb (⭐553)](https://github.com/ankane/torch.rb) - Deep learning for Ruby, powered by LibTorch.
+*   [TensorFlow (⭐358)](https://github.com/ankane/tensorflow) - The end-to-end machine learning platform for Ruby.
+*   [Torch.rb (⭐579)](https://github.com/ankane/torch.rb) - Deep learning for Ruby, powered by LibTorch.
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 
-*   [Reforms.js (⭐14)](https://github.com/empla/reforms) - Vue 3 and Bootstrap forms and cards generator. Validation, multiple fields, grouping, schema and more.
+*   [Reforms.js (⭐15)](https://github.com/empla/reforms) - Vue 3 and Bootstrap forms and cards generator. Validation, multiple fields, grouping, schema and more.
 
 ## [4. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -55,13 +55,13 @@
 
 ### Development / Books
 
-*   [just (⭐12k)](https://github.com/casey/just) - Modern `make`-like command runner.
+*   [just (⭐13k)](https://github.com/casey/just) - Modern `make`-like command runner.
 
 ## [8. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Authentication and Authorization
 
-*   [ADmad/JwtAuth plugin](https://github.com/ADmad/cakephp-jwt-auth) - A plugin for authenticating using JSON Web Tokens.
+*   [ADmad/JwtAuth plugin (⭐165)](https://github.com/ADmad/cakephp-jwt-auth) - A plugin for authenticating using JSON Web Tokens.
 
 ### ORM / Database / Datamapping
 
@@ -69,31 +69,27 @@
 
 ### Search
 
-*   [Cake/ElasticSearch plugin (⭐85)](https://github.com/cakephp/elastic-search) - Alternative ORM using [Elasticsearch](https://www.elastic.co/) as its backend.
+*   🍰 [Cake/ElasticSearch plugin (⭐86)](https://github.com/cakephp/elastic-search) - Alternative ORM using [Elasticsearch](https://www.elastic.co/) as its backend.
 
 ### Security
 
-*   [Recaptcha plugin](https://github.com/ctlabvn/Recaptcha) - Simple, lightweight Google Recaptcha v2.
+*   🍰 [Recaptcha plugin (⭐20)](https://github.com/ctlabvn/Recaptcha) - Simple, lightweight Google Recaptcha v2.
 
 ### Templating
 
-*   [TwigView plugin (⭐11)](https://github.com/cakephp/twig-view) - A plugin to use the Twig Templating Language for views.
+*   🍰 [TwigView plugin (⭐12)](https://github.com/cakephp/twig-view) - A plugin to use the Twig Templating Language for views.
 
 ## [9. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Standalone apps / Playground
 
-*   :octocat: [App Outlet (⭐360)](https://github.com/app-outlet/app-outlet) - An universal linux app store for AppImages/Flatpaks/Snaps written in TypeScript + Angular
+*   :octocat: [App Outlet (⭐380)](https://github.com/app-outlet/app-outlet) - An universal linux app store for AppImages/Flatpaks/Snaps written in TypeScript + Angular
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### Testing
-
-*   [Bird Eats Bug](https://www.birdeatsbug.com/) — Report bugs faster (and better). Record your screen with Bird browser extension, it will auto-capture technical data that engineers need to debug. Free tier suitable for small teams.
-
 ### Issue Tracking and Project Management
 
-*   [Zube](https://zube.io) — Project management with free plan for 4 Projects & 4 users. GitHub integration available.
+*   [Zube](https://zube.io) — Project management with free plan for 4 Projects & 4 users. GitHub integration is available.
 
 ### IDE and Code Editing
 
@@ -113,7 +109,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [AckslD/nvim-revJ.lua (⭐106)](https://github.com/AckslD/nvim-revJ.lua) - Neovim Lua plugin for doing the opposite of join-line (J) for arguments.
+*   [AckslD/nvim-revJ.lua (⭐107)](https://github.com/AckslD/nvim-revJ.lua) - Neovim Lua plugin for doing the opposite of join-line (J) for arguments.
 
 ---
 

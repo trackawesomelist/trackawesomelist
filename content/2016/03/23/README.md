@@ -20,7 +20,7 @@
 
 ### Modules / String
 
-*   [pad-left (⭐43)](https://github.com/jonschlinkert/pad-left) - Left pad a string with zeros or a specified string.
+*   [pad-left (⭐44)](https://github.com/jonschlinkert/pad-left) - Left pad a string with zeros or a specified string.
 
 ---
 

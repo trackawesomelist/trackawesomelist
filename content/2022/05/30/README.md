@@ -28,11 +28,11 @@
 *   [NASDAQ:DATA](https://data.nasdaq.com/) - Nasdaq Data Link A premier source for financial, economic and alternative datasets.
 *   [National Centers for Environmental Information](https://www.ncei.noaa.gov/)
 
-## [3. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### Private Module Registries / Miscellaneous
+### C / Non-X86
 
-*   [terrareg (⭐59)](https://github.com/matthewjohn/terrareg) - Private Terraform module registry with UI and git-backed indexing/import
+*   [Introduction to Programming and Data Structures in C](https://codeahoy.com/learn/cprogramming/toc/) - CodeAhoy (HTML)
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -44,20 +44,19 @@
 
 ### Version Manager / Diagnostics
 
-*   [MordechaiHadad/bob (⭐634)](https://github.com/MordechaiHadad/bob) - A cross platform and easy to use Neovim version manager.
+*   [MordechaiHadad/bob (⭐895)](https://github.com/MordechaiHadad/bob) - A cross platform and easy to use Neovim version manager.
 
 ## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [goenv (heyvito) (⭐1)](https://github.com/heyvito/goenv.zsh) - Automatically reads `.goenv` files in the current directory and sets `GOPRIVATE` environment variables.
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [IP Geolocation API](https://www.abstractapi.com/ip-geolocation-api) — IP Geolocation API from Abstract - Extensive free plan allowing 20,000 requests per month.
-*   [Frontend Zero to One](https://www.fezto.xyz/) — Launch an app immediately from your OpenAPI or Swagger spec, see how partners experience your API. Free. Paid tier for customizations and code.
+*   [IP Geolocation API](https://www.abstractapi.com/ip-geolocation-api) — IP Geolocation API from Abstract - Extensive free plan allowing 20,000 monthly requests.
 
 ## [8. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -79,7 +78,7 @@
 
 ### CLI
 
-*   [sqlite-utils (⭐1.1k)](https://github.com/simonw/sqlite-utils) - CLI tools for manipulating SQLite database files - inserting data, running queries, creating indexes, configuring full-text search and more.
+*   [sqlite-utils (⭐1.3k)](https://github.com/simonw/sqlite-utils) - CLI tools for manipulating SQLite database files - inserting data, running queries, creating indexes, configuring full-text search and more.
 
 ### API / Samples
 
@@ -87,11 +86,11 @@
 
 ### Application platforms / Samples
 
-*   [Appsmith (⭐26k)](https://github.com/appsmithorg/appsmith) - Powerful open source low code framework to build internal applications really quickly.
+*   [Appsmith (⭐29k)](https://github.com/appsmithorg/appsmith) - Powerful open source low code framework to build internal applications really quickly.
 
 ### SQL / Über SQL
 
-*   [Trino (⭐7.5k)](https://github.com/trinodb/trino) - Trino is a distributed SQL query engine designed to query large data sets distributed over one or more heterogeneous data sources.
+*   [Trino (⭐8.6k)](https://github.com/trinodb/trino) - Trino is a distributed SQL query engine designed to query large data sets distributed over one or more heterogeneous data sources.
 
 ## [11. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -116,7 +115,7 @@
 
 ### UI
 
-*   [Slicy (⭐8)](https://github.com/wqferr/slicy) - A newer 9patch/9slice library fixing some issues with Patchy.
+*   [Slicy (⭐9)](https://github.com/wqferr/slicy) - A newer 9patch/9slice library fixing some issues with Patchy.
 
 ---
 

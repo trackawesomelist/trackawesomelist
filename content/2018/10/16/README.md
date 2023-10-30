@@ -26,7 +26,7 @@
 
 ### Streaming / Barcode
 
-*   [HaishinKit (⭐2.5k)](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.
+*   [HaishinKit (⭐2.6k)](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.
 
 ## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -41,19 +41,19 @@
 
 ### UI / Calendar
 
-*   [Calendar Widget (⭐223)](https://github.com/pinkfish/flutter_calendar) <!--stargazers:pinkfish/flutter_calendar--> - Calendar widget by [David Bennett](https://github.com/pinkfish)
+*   [Calendar Widget (⭐236)](https://github.com/pinkfish/flutter_calendar) <!--stargazers:pinkfish/flutter_calendar--> - Calendar widget by [David Bennett](https://github.com/pinkfish)
 
 ## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### Networking
+### Networking / Text-Based User Interfaces
 
-*   [TLS Channel (⭐152)](https://github.com/marianobarrios/tls-channel) - Implements a ByteChannel interface over SSLEngine, enabling easy-to-use (socket-like) TLS.
+*   [TLS Channel (⭐161)](https://github.com/marianobarrios/tls-channel) - Implements a ByteChannel interface over SSLEngine, enabling easy-to-use (socket-like) TLS.
 
 ## [6. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
-*   [Home Assistant (⭐4.7k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
+*   [Home Assistant (⭐5.1k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
 
 ## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -93,11 +93,11 @@
 
 ### Tracker Aggregators / Public Trackers
 
-*   [rats-search (⭐1.2k)](https://github.com/DEgITx/rats-search) P2P Bittorrent search engine
+*   [rats-search (⭐1.3k)](https://github.com/DEgITx/rats-search) P2P Bittorrent search engine
 
 ### Audiobooks / Third Party Hosts
 
-*   [AAXtoMP3 (⭐1k)](https://github.com/KrumpetPirate/AAXtoMP3) Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS
+*   [AAXtoMP3 (⭐1.1k)](https://github.com/KrumpetPirate/AAXtoMP3) Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS
 
 ### Ripping, Transcoding, Converting, Encoding / Third Party Hosts
 
@@ -105,7 +105,7 @@
 
 ### File Renaming and Tagging / Third Party Hosts
 
-*   [Beets (⭐11k)](https://github.com/beetbox/beets) beets is a music library manager
+*   [Beets (⭐12k)](https://github.com/beetbox/beets) beets is a music library manager
 *   [MediaInfo](https://mediaarea.net/en/MediaInfo) MediaInfo is a convenient unified display of the most relevant technical and tag data for video and audio files.
 *   [iFlicks2](https://iflicksapp.com/) Useful for adding metadata to movies and TV shows
 
@@ -128,11 +128,11 @@
 
 ### JSON
 
-*   [jsonista (⭐381)](https://github.com/metosin/jsonista)
+*   [jsonista (⭐383)](https://github.com/metosin/jsonista)
 
 ### Async processing
 
-*   [manifold (⭐969)](https://github.com/ztellman/manifold)
+*   [manifold (⭐977)](https://github.com/ztellman/manifold)
 
 ### WebSocket
 
@@ -158,9 +158,9 @@
 
 ### Frameworks, Libraries and Tools / Cryptography
 
-*   [BCrypt.Net (⭐635)](https://github.com/BcryptNet/bcrypt.net) - Bringing updates to the original bcrypt package.
-*   [multiformats (⭐45)](https://github.com/multiformats/cs-multihash) - A general purpose hashing library, but a library to encode/decode Multihashes which is a "container" describing what hash algorithm the digest is calculated with.
-*   [nsec (⭐293)](https://github.com/ektrah/nsec) - NSec is a new cryptographic library for .NET Core based on libsodium.
+*   [BCrypt.Net (⭐740)](https://github.com/BcryptNet/bcrypt.net) - Bringing updates to the original bcrypt package.
+*   [multiformats (⭐47)](https://github.com/multiformats/cs-multihash) - A general purpose hashing library, but a library to encode/decode Multihashes which is a "container" describing what hash algorithm the digest is calculated with.
+*   [nsec (⭐338)](https://github.com/ektrah/nsec) - NSec is a new cryptographic library for .NET Core based on libsodium.
 
 ## [17. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

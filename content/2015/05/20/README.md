@@ -10,7 +10,7 @@
 
 ### Web Frameworks
 
-*   [gServ (⭐48)](https://github.com/javaConductor/gserv) - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.).
+*   [gServ (⭐50)](https://github.com/javaConductor/gserv) - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.).
 
 ## [2. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 

@@ -58,13 +58,13 @@
 
 ## [6. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### Distribution
+### Distribution / Text-Based User Interfaces
 
-*   [Artipie (⭐339)](https://github.com/artipie/artipie) - Binary artifact management toolkit which hosts them on the file system or S3.
+*   [Artipie (⭐415)](https://github.com/artipie/artipie) - Binary artifact management toolkit which hosts them on the file system or S3.
 
 ### Security / Other
 
-*   [Password4j (⭐258)](https://github.com/Password4j/password4j) - User-friendly cryptographic library that supports Argon2, Bcrypt, Scrypt, PBKDF2 and various other cryptographic hash functions.
+*   [Password4j (⭐299)](https://github.com/Password4j/password4j) - User-friendly cryptographic library that supports Argon2, Bcrypt, Scrypt, PBKDF2 and various other cryptographic hash functions.
 
 ---
 

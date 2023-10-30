@@ -42,10 +42,6 @@
 
 *   [oncyber](https://oncyber.io/) - Offers both free and collectible gallery spaces to display NFTs across multiple different chains.
 
-### Web3XR / Realms
-
-*   [Cryptovoxels](https://www.cryptovoxels.com/) - A virtual world powered by Ethereum where players can buy land, build stores, display art, and more.
-
 ## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Image Synthesis / Generative Adversarial Networks (GANs)
@@ -56,7 +52,7 @@
 
 ### Design and UI
 
-*   [framer.com](https://www.framer.com/) - Framer helps you iterate and animate interface ideas for your next app, website, or product—starting with powerful layouts. For anyone validating Framer as a professional prototyping tool: unlimited viewers, up to 2 editors, up to 3 projects.
+*   [framer.com](https://www.framer.com/) - Framer helps you iterate and animate interface ideas for your next app, website, or product—starting with powerful layouts. For anyone validating Framer as a professional prototyping tool: unlimited viewers, up to 2 editors, and up to 3 projects.
 
 ## [9. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
@@ -68,13 +64,13 @@
 
 ### Username Check / Telegram
 
-*   [Snoop (⭐1.9k)](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
+*   [Snoop (⭐2.2k)](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
 
 ## [11. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### ASM / Sources
 
-*   [DeadCScroll (⭐11)](https://github.com/gb-archive/DeadCScroll) - A detailed tutorial on how to make the screen wobble, among other "raster effects"
+*   [DeadCScroll (⭐15)](https://github.com/gb-archive/DeadCScroll) - A detailed tutorial on how to make the screen wobble, among other "raster effects"
 
 ## [12. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

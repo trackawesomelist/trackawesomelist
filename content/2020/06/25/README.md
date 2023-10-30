@@ -58,29 +58,19 @@
 *   [python3-aur](https://xyne.archlinux.ca/projects/python3-aur) - AUR-related modules and helper utilities (aurploader, aurquery, aurtomatic).
 *   [raur](https://gitlab.com/davidbittner/raur) - Rust library for accessing Aurweb RPC interface.
 
-## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Password Managers
-
-*   [Passbolt](https://www.passbolt.com/) - Password manager dedicated for managing passwords in a collaborative way on any Web server, using a MySQL database backend. ([Source Code (⭐3.8k)](https://github.com/passbolt/passbolt_api)) `AGPL-3.0` `PHP`
-
-## [3. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md)
+## [2. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md)
 
 ### Resources / Tools
 
 *   [Akita (⭐22)](https://github.com/esse-dev/akita) - A browser extension that gives you insight into your involvement with Web Monetization.
 
     > Akita presents your top visited monetized sites, how much time you're spending on them, and how much you're contributing (or could contribute) to them.
-*   [Open Monetization Wallet (⭐12)](https://github.com/signalnerve/openmonetizationwallet) - Tools for managing your vanity Web Monetization wallet.
 
-    > Open Monetization Wallet (OMW) makes it easier to accept payments with the Web Monetization API at scale. Some features:
-    >
-    > *   Custom wallet URLs: own your own "Payment Pointer", e.g. $wallet.signalnerve.com, instead of $pay.stronghold.co/abcdef123
-    > *   Change between wallets/providers with no downtime
-    > *   Logs of incoming payment requests
-    > *   Revenue sharing between multiple wallets, e.g. for multiple team members
-    > *   Infinitely scalable with serverless technology
-    > *   Free and open-source
+## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Password Managers
+
+*   [Passbolt](https://www.passbolt.com/) - Password manager dedicated for managing passwords in a collaborative way on any Web server, using a MySQL database backend. ([Source Code (⭐4k)](https://github.com/passbolt/passbolt_api)) `AGPL-3.0` `PHP/deb/K8S/Docker`
 
 ## [4. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -99,11 +89,11 @@
 
 ### Calendar / Barcode
 
-*   [HorizonCalendar (⭐2.3k)](https://github.com/airbnb/HorizonCalendar) - A declarative, performant, iOS calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.
+*   [HorizonCalendar (⭐2.5k)](https://github.com/airbnb/HorizonCalendar) - A declarative, performant, iOS calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.
 
 ### Walkthrough / Barcode
 
-*   [SuggestionsKit (⭐64)](https://github.com/huemae/SuggestionsKit) - Library for educating users about features in app.
+*   [SuggestionsKit (⭐68)](https://github.com/huemae/SuggestionsKit) - Library for educating users about features in app.
 
 ## [7. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
@@ -122,7 +112,7 @@
 
 ### Individual components / Others
 
-*   [Texnomic.Blazor.hCaptcha (⭐3)](https://github.com/Texnomic/hCaptcha) - ![last commit](https://img.shields.io/github/last-commit/Texnomic/hCaptcha?style=flat-square\&cacheSeconds=86400) hCaptcha Component for Server-Side Blazor.
+*   [Texnomic.Blazor.hCaptcha (⭐6)](https://github.com/Texnomic/hCaptcha) - ![last commit](https://img.shields.io/github/last-commit/Texnomic/hCaptcha?style=flat-square\&cacheSeconds=86400) hCaptcha Component for Server-Side Blazor.
 
 ---
 

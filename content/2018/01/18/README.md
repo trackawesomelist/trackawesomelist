@@ -74,19 +74,19 @@
 
 ### Boilerplates
 
-*   [Next Blog Firestore (⭐258)](https://github.com/suevalov/next-blog-firestore) - Blog with simple CMS built with Next.js, Firebase Firestore, styled-components and mobx-state-tree.
+*   [Next Blog Firestore (⭐265)](https://github.com/suevalov/next-blog-firestore) - Blog with simple CMS built with Next.js, Firebase Firestore, styled-components and mobx-state-tree.
 
 ## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Date / Runner
 
-*   [date-fns (⭐31k)](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library.
+*   [date-fns (⭐32k)](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library.
 
 ## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
-*   [cl-charms (⭐135)](https://github.com/HiTECNOLOGYs/cl-charms) - an
+*   [cl-charms (⭐139)](https://github.com/HiTECNOLOGYs/cl-charms) - an
     interface to `libcurses` in Common Lisp. It provides both a raw,
     low-level interface to libcurses via CFFI, and a more higher-level
     lispier interface. [MIT](https://opensource.org/licenses/MIT).
@@ -122,8 +122,8 @@
 
 ### Related lists
 
-*   [Awesome Music Listening (⭐95)](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music.
-*   [Awesome sheet music (⭐585)](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
+*   [Awesome Music Listening (⭐105)](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music.
+*   [Awesome sheet music (⭐644)](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
 
 ## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -136,11 +136,11 @@
 
 ### Concurrency
 
-*   [GroupWork (⭐42)](https://github.com/quanvo87/GroupWork) :penguin: - Easy concurrent, asynchronous tasks.
+*   [GroupWork (⭐41)](https://github.com/quanvo87/GroupWork) :penguin: - Easy concurrent, asynchronous tasks.
 
 ### Gesture
 
-*   [ShowTime (⭐470)](https://github.com/KaneCheshire/ShowTime) - Show off your iOS taps and gestures for demos and videos with just one line of code.
+*   [ShowTime (⭐485)](https://github.com/KaneCheshire/ShowTime) - Show off your iOS taps and gestures for demos and videos with just one line of code.
 
 ### UICollectionView / Barcode
 

@@ -32,13 +32,13 @@
 
 ### Device Input / Mouse Events
 
-*   [react-hook-mighty-mouse (⭐107)](https://github.com/mkosir/react-hook-mighty-mouse) - [demo](https://mkosir.github.io/react-hook-mighty-mouse) - Hook that tracks mouse events on selected element.
+*   [react-hook-mighty-mouse (⭐113)](https://github.com/mkosir/react-hook-mighty-mouse) - [demo](https://mkosir.github.io/react-hook-mighty-mouse) - Hook that tracks mouse events on selected element.
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Personal Dashboards
 
-*   [Homer (⭐7k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `HTML5`
+*   [Homer (⭐7.9k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `Docker/K8S/Nodejs`
 
 ## [5. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 

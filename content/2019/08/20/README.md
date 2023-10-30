@@ -24,7 +24,7 @@
 
 ### Software / URL Shorteners
 
-*   [Simple-URL-Shortener (⭐36)](https://github.com/azlux/Simple-URL-Shortener) - KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies. ([Demo](https://u.azlux.fr)) `MIT` `PHP`
+*   [Simple-URL-Shortener (⭐38)](https://github.com/azlux/Simple-URL-Shortener) - KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies. ([Demo](https://u.azlux.fr)) `MIT` `PHP`
 
 ## [3. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/README.md)
 
@@ -49,17 +49,17 @@
 ### Other Tools / Telegram
 
 *   [Greynoise](https://greynoise.io/) - "Anti-Threat Intelligence" Greynoise characterizes the background noise of the internet, so the user can focus on what is actually important.
-    *   [pygreynoise (⭐139)](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
+    *   [pygreynoise (⭐142)](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
 
 ## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Command Line
 
-*   [nef (⭐260)](https://github.com/bow-swift/nef) - A set of command line tools that lets you have compile time verification of your documentation written as Xcode Playground.
+*   [nef (⭐265)](https://github.com/bow-swift/nef) - A set of command line tools that lets you have compile time verification of your documentation written as Xcode Playground.
 
 ### Keyboard / Barcode
 
-*   [Ribbon (⭐295)](https://github.com/chriszielinski/Ribbon) - 🎀 A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.
+*   [Ribbon (⭐297)](https://github.com/chriszielinski/Ribbon) - 🎀 A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.
 
 ## [8. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
 

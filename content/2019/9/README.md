@@ -16,7 +16,7 @@
 
 ### conversion
 
-*   [togeojson (⭐330)](https://github.com/tmcw/togeojson): convert GPX & KML to geojson
+*   [togeojson (⭐343)](https://github.com/tmcw/togeojson): convert GPX & KML to geojson
 
 ## [3. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
@@ -62,55 +62,55 @@
 
 ### Admin Panels
 
-*   [ajenti (⭐7k)](https://github.com/ajenti/ajenti) - The admin panel your servers deserve.
-*   [wooey (⭐1.9k)](https://github.com/wooey/wooey) - A Django app which creates automatic web UIs for Python scripts.
+*   [ajenti (⭐7.2k)](https://github.com/ajenti/ajenti) - The admin panel your servers deserve.
+*   [wooey (⭐2k)](https://github.com/wooey/wooey) - A Django app which creates automatic web UIs for Python scripts.
 
 ### Audio
 
 *   Audio
-    *   [audioread (⭐430)](https://github.com/beetbox/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
-    *   [audioFlux (⭐392)](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
-    *   [dejavu (⭐6k)](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition.
-    *   [kapre (⭐874)](https://github.com/keunwoochoi/kapre) - Keras Audio Preprocessors.
-    *   [librosa (⭐5.8k)](https://github.com/librosa/librosa) - Python library for audio and music analysis.
-    *   [matchering (⭐881)](https://github.com/sergree/matchering) - A library for automated reference audio mastering.
+    *   [audioread (⭐442)](https://github.com/beetbox/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
+    *   [audioFlux (⭐1.8k)](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
+    *   [dejavu (⭐6.1k)](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition.
+    *   [kapre (⭐891)](https://github.com/keunwoochoi/kapre) - Keras Audio Preprocessors.
+    *   [librosa (⭐6k)](https://github.com/librosa/librosa) - Python library for audio and music analysis.
+    *   [matchering (⭐986)](https://github.com/sergree/matchering) - A library for automated reference audio mastering.
     *   [mingus](http://bspaans.github.io/python-mingus/) - An advanced music theory and notation package with MIDI file and playback support.
-    *   [pyAudioAnalysis (⭐5.2k)](https://github.com/tyiannak/pyAudioAnalysis) - Audio feature extraction, classification, segmentation and applications.
-    *   [pydub (⭐7k)](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface.
-    *   [TimeSide (⭐347)](https://github.com/Parisson/TimeSide) - Open web audio processing framework.
+    *   [pyAudioAnalysis (⭐5.3k)](https://github.com/tyiannak/pyAudioAnalysis) - Audio feature extraction, classification, segmentation and applications.
+    *   [pydub (⭐7.4k)](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface.
+    *   [TimeSide (⭐351)](https://github.com/Parisson/TimeSide) - Open web audio processing framework.
 *   Metadata
     *   [beets (⭐12k)](https://github.com/beetbox/beets) - A music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
-    *   [eyeD3 (⭐443)](https://github.com/nicfit/eyeD3) - A tool for working with audio files, specifically MP3 files containing ID3 metadata.
-    *   [mutagen (⭐1.2k)](https://github.com/quodlibet/mutagen) - A Python module to handle audio metadata.
-    *   [tinytag (⭐588)](https://github.com/devsnd/tinytag) - A library for reading music meta data of MP3, OGG, FLAC and Wave files.
+    *   [eyeD3 (⭐479)](https://github.com/nicfit/eyeD3) - A tool for working with audio files, specifically MP3 files containing ID3 metadata.
+    *   [mutagen (⭐1.3k)](https://github.com/quodlibet/mutagen) - A Python module to handle audio metadata.
+    *   [tinytag (⭐606)](https://github.com/devsnd/tinytag) - A library for reading music meta data of MP3, OGG, FLAC and Wave files.
 
 ### Authentication
 
 *   JWT
-    *   [pyjwt (⭐4.5k)](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python.
+    *   [pyjwt (⭐4.6k)](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python.
     *   [python-jose (⭐1.3k)](https://github.com/mpdavis/python-jose/) - A JOSE implementation in Python.
     *   [python-jwt (⭐213)](https://github.com/davedoesdev/python-jwt) - A module for generating and verifying JSON Web Tokens.
 
 ### Build Tools
 
-*   [pybuilder (⭐1.5k)](https://github.com/pybuilder/pybuilder) - A continuous build tool written in pure Python.
+*   [pybuilder (⭐1.6k)](https://github.com/pybuilder/pybuilder) - A continuous build tool written in pure Python.
 
 ### Built-in Classes Enhancement
 
-*   [DottedDict (⭐161)](https://github.com/carlosescri/DottedDict) - A library that provides a method of accessing lists and dicts with a dotted path notation.
+*   [DottedDict (⭐168)](https://github.com/carlosescri/DottedDict) - A library that provides a method of accessing lists and dicts with a dotted path notation.
 
 ### CMS
 
-*   [feincms (⭐850)](https://github.com/feincms/feincms) - One of the most advanced Content Management Systems built on Django.
-*   [Kotti (⭐393)](https://github.com/Kotti/Kotti) - A high-level, Pythonic web application framework built on Pyramid.
+*   [feincms (⭐868)](https://github.com/feincms/feincms) - One of the most advanced Content Management Systems built on Django.
+*   [Kotti (⭐400)](https://github.com/Kotti/Kotti) - A high-level, Pythonic web application framework built on Pyramid.
 *   [mezzanine (⭐4.6k)](https://github.com/stephenmcd/mezzanine) - A powerful, consistent, and flexible content management platform.
 *   [plone](https://plone.org/) - A CMS built on top of the open source application server Zope.
 *   [quokka (⭐2.2k)](https://github.com/rochacbruno/quokka) - Flexible, extensible, small CMS powered by Flask and MongoDB.
 
 ### Caching
 
-*   [beaker (⭐504)](https://github.com/bbangert/beaker) - A WSGI middleware for sessions and caching.
-*   [pylibmc (⭐466)](https://github.com/lericson/pylibmc) - A Python wrapper around the [libmemcached](https://libmemcached.org/libMemcached.html) interface.
+*   [beaker (⭐507)](https://github.com/bbangert/beaker) - A WSGI middleware for sessions and caching.
+*   [pylibmc (⭐470)](https://github.com/lericson/pylibmc) - A Python wrapper around the [libmemcached](https://libmemcached.org/libMemcached.html) interface.
 *   [python-diskcache](http://www.grantjenks.com/docs/diskcache/) - SQLite and file backed cache backend with faster lookups than memcached and redis.
 
 ### ChatOps Tools
@@ -120,16 +120,16 @@
 ### Code Analysis
 
 *   Code Formatters
-    *   [black (⭐32k)](https://github.com/python/black) - The uncompromising Python code formatter.
-    *   [isort (⭐5.7k)](https://github.com/timothycrosley/isort) - A Python utility / library to sort imports.
+    *   [black (⭐33k)](https://github.com/python/black) - The uncompromising Python code formatter.
+    *   [isort (⭐5.9k)](https://github.com/timothycrosley/isort) - A Python utility / library to sort imports.
     *   [yapf (⭐13k)](https://github.com/google/yapf) - Yet another Python code formatter from Google.
 
 ### Command-line Tools
 
 *   CLI Enhancements
-    *   [httpie (⭐27k)](https://github.com/jakubroztocil/httpie) - A command line HTTP client, a user-friendly cURL replacement.
+    *   [httpie (⭐28k)](https://github.com/jakubroztocil/httpie) - A command line HTTP client, a user-friendly cURL replacement.
     *   [iredis (⭐2.3k)](https://github.com/laixintao/iredis) - Redis CLI with autocompletion and syntax highlighting.
-    *   [kube-shell (⭐2.2k)](https://github.com/cloudnativelabs/kube-shell) - An integrated shell for working with the Kubernetes CLI.
+    *   [kube-shell (⭐2.3k)](https://github.com/cloudnativelabs/kube-shell) - An integrated shell for working with the Kubernetes CLI.
     *   [litecli (⭐1.8k)](https://github.com/dbcli/litecli) - SQLite CLI with autocompletion and syntax highlighting.
     *   [mycli (⭐11k)](https://github.com/dbcli/mycli) - MySQL CLI with autocompletion and syntax highlighting.
     *   [pgcli (⭐11k)](https://github.com/dbcli/pgcli) - PostgreSQL CLI with autocompletion and syntax highlighting.
@@ -142,62 +142,62 @@
 ### Concurrency and Parallelism
 
 *   [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html) - (Python standard library) A high-level interface for asynchronously executing callables.
-*   [scoop (⭐587)](https://github.com/soravux/scoop) - Scalable Concurrent Operations in Python.
+*   [scoop (⭐595)](https://github.com/soravux/scoop) - Scalable Concurrent Operations in Python.
 
 ### Configuration
 
-*   [configobj (⭐290)](https://github.com/DiffSK/configobj) - INI file parser with validation.
+*   [configobj (⭐294)](https://github.com/DiffSK/configobj) - INI file parser with validation.
 *   [configparser](https://docs.python.org/3/library/configparser.html) - (Python standard library) INI file parser.
 
 ### Cryptography
 
 *   [passlib](https://passlib.readthedocs.io/en/stable/) - Secure password storage/hashing library, very high level.
-*   [pynacl (⭐953)](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
+*   [pynacl (⭐981)](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
 
 ### Database
 
-*   [pickleDB (⭐768)](https://github.com/patx/pickledb) - A simple and lightweight key-value store for Python.
-*   [tinydb (⭐5.8k)](https://github.com/msiemens/tinydb) - A tiny, document-oriented database.
-*   [ZODB (⭐596)](https://github.com/zopefoundation/ZODB) - A native object database for Python. A key-value and object graph database.
+*   [pickleDB (⭐791)](https://github.com/patx/pickledb) - A simple and lightweight key-value store for Python.
+*   [tinydb (⭐5.9k)](https://github.com/msiemens/tinydb) - A tiny, document-oriented database.
+*   [ZODB (⭐612)](https://github.com/zopefoundation/ZODB) - A native object database for Python. A key-value and object graph database.
 
 ### Database Drivers
 
 *   Asynchronous Clients
-    *   [motor (⭐2.1k)](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
+    *   [motor (⭐2.2k)](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
 
 ### Debugging Tools
 
 *   Tracing
-    *   [lptrace (⭐690)](https://github.com/khamidou/lptrace) - [strace](http://man7.org/linux/man-pages/man1/strace.1.html) for Python programs.
-    *   [manhole (⭐335)](https://github.com/ionelmc/python-manhole) - Debugging UNIX socket connections and present the stacktraces for all threads and an interactive prompt.
+    *   [lptrace (⭐692)](https://github.com/khamidou/lptrace) - [strace](http://man7.org/linux/man-pages/man1/strace.1.html) for Python programs.
+    *   [manhole (⭐341)](https://github.com/ionelmc/python-manhole) - Debugging UNIX socket connections and present the stacktraces for all threads and an interactive prompt.
     *   [pyringe (⭐1.6k)](https://github.com/google/pyringe) - Debugger capable of attaching to and injecting code into Python processes.
-    *   [python-hunter (⭐719)](https://github.com/ionelmc/python-hunter) - A flexible code tracing toolkit.
+    *   [python-hunter (⭐738)](https://github.com/ionelmc/python-hunter) - A flexible code tracing toolkit.
 
 ### Deep Learning
 
 *   [caffe (⭐33k)](https://github.com/BVLC/caffe) - A fast open framework for deep learning..
-*   [keras (⭐58k)](https://github.com/keras-team/keras) - A high-level neural networks library and capable of running on top of either TensorFlow or Theano.
+*   [keras (⭐59k)](https://github.com/keras-team/keras) - A high-level neural networks library and capable of running on top of either TensorFlow or Theano.
 *   [mxnet (⭐20k)](https://github.com/dmlc/mxnet) - A deep learning framework designed for both efficiency and flexibility.
-*   [pytorch (⭐64k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+*   [pytorch (⭐69k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 *   [SerpentAI (⭐6.5k)](https://github.com/SerpentAI/SerpentAI) - Game agent framework. Use any video game as a deep learning sandbox.
-*   [tensorflow (⭐172k)](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
+*   [tensorflow (⭐176k)](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
 
 ### Distributed Computing
 
 *   Batch Processing
     *   [dask (⭐11k)](https://github.com/dask/dask) - A flexible parallel computing library for analytic computing.
-    *   [luigi (⭐16k)](https://github.com/spotify/luigi) - A module that helps you build complex pipelines of batch jobs.
+    *   [luigi (⭐17k)](https://github.com/spotify/luigi) - A module that helps you build complex pipelines of batch jobs.
     *   [mrjob (⭐2.6k)](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or Amazon Web Services.
     *   [PySpark](https://pypi.org/project/pyspark/) - [Apache Spark](https://spark.apache.org/) Python API.
-    *   [Ray (⭐25k)](https://github.com/ray-project/ray/) - A system for parallel and distributed Python that unifies the machine learning ecosystem.
+    *   [Ray (⭐27k)](https://github.com/ray-project/ray/) - A system for parallel and distributed Python that unifies the machine learning ecosystem.
 *   Stream Processing
-    *   [faust (⭐6.5k)](https://github.com/robinhood/faust) - A stream processing library, porting the ideas from [Kafka Streams](https://kafka.apache.org/documentation/streams/) to Python.
+    *   [faust (⭐6.6k)](https://github.com/robinhood/faust) - A stream processing library, porting the ideas from [Kafka Streams](https://kafka.apache.org/documentation/streams/) to Python.
     *   [streamparse (⭐1.5k)](https://github.com/Parsely/streamparse) - Run Python code against real-time streams of data via [Apache Storm](http://storm.apache.org/).
 
 ### Documentation
 
-*   [pdoc (⭐1.5k)](https://github.com/mitmproxy/pdoc) - Epydoc replacement to auto generate API documentation for Python libraries.
-*   [pycco (⭐816)](https://github.com/pycco-docs/pycco) - The literate-programming-style documentation generator.
+*   [pdoc (⭐1.6k)](https://github.com/mitmproxy/pdoc) - Epydoc replacement to auto generate API documentation for Python libraries.
+*   [pycco (⭐826)](https://github.com/pycco-docs/pycco) - The literate-programming-style documentation generator.
 
 ### Downloader
 
@@ -210,29 +210,29 @@
     *   [elpy (⭐1.8k)](https://github.com/jorgenschaefer/elpy) - Emacs Python Development Environment.
 *   IDE
     *   [PyCharm](https://www.jetbrains.com/pycharm/) - Commercial Python IDE by JetBrains. Has free community edition available.
-    *   [spyder (⭐7.5k)](https://github.com/spyder-ide/spyder) - Open Source Python IDE.
+    *   [spyder (⭐7.7k)](https://github.com/spyder-ide/spyder) - Open Source Python IDE.
 
 ### GUI Development
 
-*   [Gooey (⭐17k)](https://github.com/chriskiehl/Gooey) - Turn command line programs into a full GUI application with one line.
+*   [Gooey (⭐18k)](https://github.com/chriskiehl/Gooey) - Turn command line programs into a full GUI application with one line.
 
 ### Miscellaneous
 
-*   [boltons (⭐6.1k)](https://github.com/mahmoud/boltons) - A set of pure-Python utilities.
+*   [boltons (⭐6.2k)](https://github.com/mahmoud/boltons) - A set of pure-Python utilities.
 *   [tryton](http://www.tryton.org/) - A general purpose business framework.
 
 ### Natural Language Processing
 
 *   Chinese
-    *   [funNLP (⭐48k)](https://github.com/fighting41love/funNLP) - A collection of tools and datasets for Chinese NLP.
-    *   [jieba (⭐30k)](https://github.com/fxsjy/jieba) - The most popular Chinese text segmentation library.
-    *   [pkuseg-python (⭐6.1k)](https://github.com/lancopku/pkuseg-python) - A toolkit for Chinese word segmentation in various domains.
-    *   [snownlp (⭐6k)](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
+    *   [funNLP (⭐52k)](https://github.com/fighting41love/funNLP) - A collection of tools and datasets for Chinese NLP.
+    *   [jieba (⭐31k)](https://github.com/fxsjy/jieba) - The most popular Chinese text segmentation library.
+    *   [pkuseg-python (⭐6.2k)](https://github.com/lancopku/pkuseg-python) - A toolkit for Chinese word segmentation in various domains.
+    *   [snownlp (⭐6.1k)](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
 
 ### Network Virtualization
 
-*   [mininet (⭐4.8k)](https://github.com/mininet/mininet) - A popular network emulator and API written in Python.
-*   [napalm (⭐2k)](https://github.com/napalm-automation/napalm) - Cross-vendor API to manipulate network devices.
+*   [mininet (⭐4.9k)](https://github.com/mininet/mininet) - A popular network emulator and API written in Python.
+*   [napalm (⭐2.1k)](https://github.com/napalm-automation/napalm) - Cross-vendor API to manipulate network devices.
 
 ### ORM
 
@@ -240,16 +240,16 @@
     *   [Django Models](https://docs.djangoproject.com/en/dev/topics/db/models/) - The Django ORM.
     *   [SQLAlchemy](https://www.sqlalchemy.org/) - The Python SQL Toolkit and Object Relational Mapper.
         *   [awesome-sqlalchemy (⭐2.6k)](https://github.com/dahlia/awesome-sqlalchemy)
-    *   [dataset (⭐4.3k)](https://github.com/pudo/dataset) - Store Python dicts in a database - works with SQLite, MySQL, and PostgreSQL.
+    *   [dataset (⭐4.6k)](https://github.com/pudo/dataset) - Store Python dicts in a database - works with SQLite, MySQL, and PostgreSQL.
     *   [orator (⭐1.4k)](https://github.com/sdispater/orator) -  The Orator ORM provides a simple yet beautiful ActiveRecord implementation.
     *   [orm (⭐1.7k)](https://github.com/encode/orm) - An async ORM.
-    *   [peewee (⭐9.9k)](https://github.com/coleifer/peewee) - A small, expressive ORM.
-    *   [pony (⭐3.2k)](https://github.com/ponyorm/pony/) - ORM that provides a generator-oriented interface to SQL.
-    *   [pydal (⭐445)](https://github.com/web2py/pydal/) - A pure Python Database Abstraction Layer.
+    *   [peewee (⭐10k)](https://github.com/coleifer/peewee) - A small, expressive ORM.
+    *   [pony (⭐3.3k)](https://github.com/ponyorm/pony/) - ORM that provides a generator-oriented interface to SQL.
+    *   [pydal (⭐454)](https://github.com/web2py/pydal/) - A pure Python Database Abstraction Layer.
 
 ### Package Repositories
 
-*   [devpi (⭐675)](https://github.com/devpi/devpi) - PyPI server and packaging/testing/release tool.
+*   [devpi (⭐713)](https://github.com/devpi/devpi) - PyPI server and packaging/testing/release tool.
 
 ### Processes
 
@@ -257,38 +257,38 @@
 
 ### Recommender Systems
 
-*   [lightfm (⭐4.3k)](https://github.com/lyst/lightfm) - A Python implementation of a number of popular recommendation algorithms.
-*   [spotlight (⭐2.8k)](https://github.com/maciejkula/spotlight) - Deep recommender models using PyTorch.
-*   [Surprise (⭐5.7k)](https://github.com/NicolasHug/Surprise) - A scikit for building and analyzing recommender systems.
+*   [lightfm (⭐4.4k)](https://github.com/lyst/lightfm) - A Python implementation of a number of popular recommendation algorithms.
+*   [spotlight (⭐2.9k)](https://github.com/maciejkula/spotlight) - Deep recommender models using PyTorch.
+*   [Surprise (⭐5.9k)](https://github.com/NicolasHug/Surprise) - A scikit for building and analyzing recommender systems.
 *   [tensorrec (⭐1.2k)](https://github.com/jfkirk/tensorrec) - A Recommendation Engine Framework in TensorFlow.
 
 ### Search
 
 *   [django-haystack (⭐3.4k)](https://github.com/django-haystack/django-haystack) - Modular search for Django.
-*   [pysolr (⭐635)](https://github.com/django-haystack/pysolr) - A lightweight Python wrapper for [Apache Solr](https://lucene.apache.org/solr/).
+*   [pysolr (⭐641)](https://github.com/django-haystack/pysolr) - A lightweight Python wrapper for [Apache Solr](https://lucene.apache.org/solr/).
 *   [whoosh](http://whoosh.readthedocs.io/en/latest/) - A fast, pure Python search engine library.
 
 ### Serialization
 
-*   [marshmallow (⭐6.5k)](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
-*   [pysimdjson (⭐581)](https://github.com/TkTech/pysimdjson) - A Python bindings for [simdjson (⭐17k)](https://github.com/lemire/simdjson).
-*   [python-rapidjson (⭐473)](https://github.com/python-rapidjson/python-rapidjson) - A Python wrapper around [RapidJSON (⭐13k)](https://github.com/Tencent/rapidjson).
+*   [marshmallow (⭐6.6k)](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
+*   [pysimdjson (⭐589)](https://github.com/TkTech/pysimdjson) - A Python bindings for [simdjson (⭐17k)](https://github.com/lemire/simdjson).
+*   [python-rapidjson (⭐481)](https://github.com/python-rapidjson/python-rapidjson) - A Python wrapper around [RapidJSON (⭐13k)](https://github.com/Tencent/rapidjson).
 
 ### Specific Formats Processing
 
 *   PDF
     *   [PDFMiner (⭐5k)](https://github.com/euske/pdfminer) - A tool for extracting information from PDF documents.
-    *   [PyPDF2 (⭐5.4k)](https://github.com/mstamy2/PyPDF2) - A library capable of splitting, merging and transforming PDF pages.
+    *   [PyPDF2 (⭐5.9k)](https://github.com/mstamy2/PyPDF2) - A library capable of splitting, merging and transforming PDF pages.
     *   [ReportLab](https://www.reportlab.com/opensource/) - Allowing Rapid creation of rich PDF documents.
 
 ### Static Site Generator
 
 *   [lektor (⭐3.7k)](https://github.com/lektor/lektor) - An easy to use static CMS and blog engine.
-*   [nikola (⭐2.4k)](https://github.com/getnikola/nikola) - A static website and blog generator.
+*   [nikola (⭐2.5k)](https://github.com/getnikola/nikola) - A static website and blog generator.
 
 ### Tagging
 
-*   [django-taggit (⭐3k)](https://github.com/jazzband/django-taggit) - Simple tagging for Django.
+*   [django-taggit (⭐3.1k)](https://github.com/jazzband/django-taggit) - Simple tagging for Django.
 
 ### Template Engine
 
@@ -298,7 +298,7 @@
 
 *   Unique identifiers
     *   [hashids (⭐1.4k)](https://github.com/davidaurelio/hashids-python) - Implementation of [hashids](http://hashids.org) in Python.
-    *   [shortuuid (⭐1.8k)](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
+    *   [shortuuid (⭐1.9k)](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
 
 ### Video
 
@@ -311,14 +311,14 @@
 *   [django-storages (⭐2.4k)](https://github.com/jschneier/django-storages) - A collection of custom storage back ends for Django.
 *   [fanstatic](http://www.fanstatic.org/en/latest/) - Packages, optimizes, and serves static file dependencies as Python packages.
 *   [fileconveyor](http://wimleers.com/fileconveyor) - A daemon to detect and sync files to CDNs, S3 and FTP.
-*   [flask-assets (⭐436)](https://github.com/miracle2k/flask-assets) - Helps you integrate webassets into your Flask app.
-*   [webassets (⭐914)](https://github.com/miracle2k/webassets) - Bundles, optimizes, and manages unique cache-busting URLs for static resources.
+*   [flask-assets (⭐439)](https://github.com/miracle2k/flask-assets) - Helps you integrate webassets into your Flask app.
+*   [webassets (⭐918)](https://github.com/miracle2k/webassets) - Bundles, optimizes, and manages unique cache-busting URLs for static resources.
 
 ### Web Crawling
 
 *   [feedparser](https://pythonhosted.org/feedparser/) - Universal feed parser.
 *   [grab (⭐2.3k)](https://github.com/lorien/grab) - Site scraping framework.
-*   [MechanicalSoup (⭐4.3k)](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
+*   [MechanicalSoup (⭐4.4k)](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
 *   [robobrowser (⭐3.7k)](https://github.com/jmcarp/robobrowser) - A simple, Pythonic library for browsing the web without a standalone web browser.
 *   [scrapy](https://scrapy.org/) - A fast high-level screen scraping and web crawling framework.
 
@@ -337,10 +337,10 @@
 ### Packages / Examples
 
 *   [turtlebot2\_demo (⭐87)](https://github.com/ros2/turtlebot2_demo) - TurtleBot 2 demos using ROS 2. ![turtlebot2\_demo](https://img.shields.io/github/stars/ros2/turtlebot2_demo.svg)
-*   [examples/rclcpp (⭐508)](https://github.com/ros2/examples/tree/master/rclcpp) - C++ examples. ![ros2/examples](https://img.shields.io/github/stars/ros2/examples.svg)
-*   [examples/rclpy (⭐508)](https://github.com/ros2/examples/tree/master/rclpy) - Python examples. ![ros2/examples](https://img.shields.io/github/stars/ros2/examples.svg)
-*   [rcljava\_examples (⭐7)](https://github.com/esteve/ros2_java_examples/tree/master/rcljava_examples) - Package containing examples of how to use the rcljava API. ![ros2\_java\_examples](https://img.shields.io/github/stars/esteve/ros2_java_examples.svg)
-*   [ros2\_talker\_android, ros2\_listener\_android (⭐25)](https://github.com/esteve/ros2_android_examples) - Example Android apps for the ROS2 Java bindings. ![ros2\_android\_examples](https://img.shields.io/github/stars/esteve/ros2_android_examples.svg)
+*   [examples/rclcpp (⭐539)](https://github.com/ros2/examples/tree/master/rclcpp) - C++ examples. ![ros2/examples](https://img.shields.io/github/stars/ros2/examples.svg)
+*   [examples/rclpy (⭐539)](https://github.com/ros2/examples/tree/master/rclpy) - Python examples. ![ros2/examples](https://img.shields.io/github/stars/ros2/examples.svg)
+*   [rcljava\_examples (⭐9)](https://github.com/esteve/ros2_java_examples/tree/master/rcljava_examples) - Package containing examples of how to use the rcljava API. ![ros2\_java\_examples](https://img.shields.io/github/stars/esteve/ros2_java_examples.svg)
+*   [ros2\_talker\_android, ros2\_listener\_android (⭐27)](https://github.com/esteve/ros2_android_examples) - Example Android apps for the ROS2 Java bindings. ![ros2\_android\_examples](https://img.shields.io/github/stars/esteve/ros2_android_examples.svg)
 
 ### Packages / Benchmarking
 
@@ -350,35 +350,35 @@
 ### Packages / Containerization
 
 *   [docker-ros2-ospl-ce (⭐9)](https://github.com/Adlink-ROS/docker-ros2-ospl-ce) - A dockerfile to build a ROS2 + OpenSplice CE container. ![docker-ros2-ospl-ce](https://img.shields.io/github/stars/Adlink-ROS/docker-ros2-ospl-ce.svg)
-*   [ros2\_java\_docker (⭐4)](https://github.com/esteve/ros2_java_docker) - Dockerfiles for building ros2\_java with OpenJDK and Android. ![ros2\_java\_docker](https://img.shields.io/github/stars/esteve/ros2_java_docker.svg)
+*   [ros2\_java\_docker (⭐5)](https://github.com/esteve/ros2_java_docker) - Dockerfiles for building ros2\_java with OpenJDK and Android. ![ros2\_java\_docker](https://img.shields.io/github/stars/esteve/ros2_java_docker.svg)
 
 ### Packages / Ecosystem
 
-*   [rosbag2 (⭐190)](https://github.com/ros2/rosbag2) - ROS2 native rosbag. ![rosbag2](https://img.shields.io/github/stars/ros2/rosbag2.svg)
-*   [rviz (⭐186)](https://github.com/ros2/rviz) - 3D Robot Visualizer. ![rviz](https://img.shields.io/github/stars/ros2/rviz.svg)
-*   [ros2cli (⭐119)](https://github.com/ros2/ros2cli) - ROS 2 command line tools. ![ros2cli](https://img.shields.io/github/stars/ros2/ros2cli.svg)
+*   [rosbag2 (⭐206)](https://github.com/ros2/rosbag2) - ROS2 native rosbag. ![rosbag2](https://img.shields.io/github/stars/ros2/rosbag2.svg)
+*   [rviz (⭐201)](https://github.com/ros2/rviz) - 3D Robot Visualizer. ![rviz](https://img.shields.io/github/stars/ros2/rviz.svg)
+*   [ros2cli (⭐126)](https://github.com/ros2/ros2cli) - ROS 2 command line tools. ![ros2cli](https://img.shields.io/github/stars/ros2/ros2cli.svg)
 *   [orocos\_kinematics\_dynamics (⭐9)](https://github.com/ros2/orocos_kinematics_dynamics) - Orocos Kinematics and Dynamics C++ library. ![orocos\_kinematics\_dynamics](https://img.shields.io/github/stars/ros2/orocos_kinematics_dynamics.svg)
 *   [pydds (⭐21)](https://github.com/atolab/pydds) - Simple DDS Python API for Vortex Lite and for OpenSplice. ![pydds](https://img.shields.io/github/stars/atolab/pydds.svg)
 
 ### Packages / Application layer
 
-*   [ros2\_control (⭐266)](https://github.com/ros-controls/ros2_control) - `ros2_control` is a proof of concept on how new features within ROS 2 can be elaborated and used in the context of robot control (`ros2_controllers`). ![ros2\_control](https://img.shields.io/github/stars/ros-controls/ros2_control.svg)
-*   [ros2\_controllers (⭐178)](https://github.com/ros-controls/ros2_controllers) - Description of ros\_controllers. ![ros2\_controllers](https://img.shields.io/github/stars/ros-controls/ros2_controllers.svg)
-*   [geometry2 (⭐71)](https://github.com/ros2/geometry2) - A set of ROS packages for keeping track of coordinate transforms. ![geometry2](https://img.shields.io/github/stars/ros2/geometry2.svg)
-*   [cartographer (⭐39)](https://github.com/ros2/cartographer) - Real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations. ![cartographer](https://img.shields.io/github/stars/ros2/cartographer.svg)
-*   [teleop\_twist\_keyboard (⭐19)](https://github.com/ros2/teleop_twist_keyboard) - Generic Keyboard Teleop for ROS2. ![teleop\_twist\_keyboard](https://img.shields.io/github/stars/ros2/teleop_twist_keyboard.svg)
-*   [teleop\_twist\_joy (⭐25)](https://github.com/ros2/teleop_twist_joy) - Simple joystick teleop for twist robots. ![teleop\_twist\_joy](https://img.shields.io/github/stars/ros2/teleop_twist_joy.svg)
+*   [ros2\_control (⭐303)](https://github.com/ros-controls/ros2_control) - `ros2_control` is a proof of concept on how new features within ROS 2 can be elaborated and used in the context of robot control (`ros2_controllers`). ![ros2\_control](https://img.shields.io/github/stars/ros-controls/ros2_control.svg)
+*   [ros2\_controllers (⭐203)](https://github.com/ros-controls/ros2_controllers) - Description of ros\_controllers. ![ros2\_controllers](https://img.shields.io/github/stars/ros-controls/ros2_controllers.svg)
+*   [geometry2 (⭐81)](https://github.com/ros2/geometry2) - A set of ROS packages for keeping track of coordinate transforms. ![geometry2](https://img.shields.io/github/stars/ros2/geometry2.svg)
+*   [cartographer (⭐41)](https://github.com/ros2/cartographer) - Real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations. ![cartographer](https://img.shields.io/github/stars/ros2/cartographer.svg)
+*   [teleop\_twist\_keyboard (⭐20)](https://github.com/ros2/teleop_twist_keyboard) - Generic Keyboard Teleop for ROS2. ![teleop\_twist\_keyboard](https://img.shields.io/github/stars/ros2/teleop_twist_keyboard.svg)
+*   [teleop\_twist\_joy (⭐28)](https://github.com/ros2/teleop_twist_joy) - Simple joystick teleop for twist robots. ![teleop\_twist\_joy](https://img.shields.io/github/stars/ros2/teleop_twist_joy.svg)
 *   [diagnostics (⭐1)](https://github.com/bponsler/diagnostics/tree/ros2-devel) - Forked version of the original ROS1 Diagnostics for ROS 2 (currently diagnostics\_updater only). ![diagnostics](https://img.shields.io/github/stars/bponsler/diagnostics.svg)
 *   [robot\_state\_publisher (⭐2)](https://github.com/bponsler/robot_state_publisher/tree/publish-robot-model) - Forked version of the original ROS Robot State Publisher with all modifications to compile within a ROS2 Ecosystem. ![robot\_state\_publisher](https://img.shields.io/github/stars/bponsler/robot_state_publisher.svg)
-*   [common\_interfaces (⭐135)](https://github.com/ros2/common_interfaces) - A set of packages which contain common interface files (.msg and .srv). ![common\_interfaces](https://img.shields.io/github/stars/ros2/common_interfaces.svg)
+*   [common\_interfaces (⭐150)](https://github.com/ros2/common_interfaces) - A set of packages which contain common interface files (.msg and .srv). ![common\_interfaces](https://img.shields.io/github/stars/ros2/common_interfaces.svg)
 *   [ros2\_object\_map (⭐13)](https://github.com/intel/ros2_object_map) - "Mark tag of objects on map when SLAM". ![ros2\_object\_map](https://img.shields.io/github/stars/intel/ros2_object_map.svg)
-*   [ros2\_object\_analytics (⭐97)](https://github.com/intel/ros2_object_analytics) - Object Analytics (OA) is ROS2 wrapper for realtime object detection, localization and tracking. ![ros2\_object\_analytics](https://img.shields.io/github/stars/intel/ros2_object_analytics.svg)
+*   [ros2\_object\_analytics (⭐96)](https://github.com/intel/ros2_object_analytics) - Object Analytics (OA) is ROS2 wrapper for realtime object detection, localization and tracking. ![ros2\_object\_analytics](https://img.shields.io/github/stars/intel/ros2_object_analytics.svg)
 *   [ros2\_intel\_movidius\_ncs (⭐26)](https://github.com/intel/ros2_intel_movidius_ncs) - ROS2 wrapper for Movidius™ Neural Compute Stick (NCS) Neuronal Compute API. ![ros2\_intel\_movidius\_ncs](https://img.shields.io/github/stars/intel/ros2_intel_movidius_ncs.svg)
 *   [ros2\_moving\_object (⭐4)](https://github.com/intel/ros2_moving_object) - Addressing moving objects based on messages generated by Object Analytics `ros2_object_analytics`. ![ros2\_moving\_object](https://img.shields.io/github/stars/intel/ros2_moving_object.svg)
-*   [ros2\_openvino\_toolkit (⭐138)](https://github.com/intel/ros2_openvino_toolkit) - ROS2 wrapper for CV API of OpenVINO™ (human vision emulation). ![ros2\_openvino\_toolkit](https://img.shields.io/github/stars/intel/ros2_openvino_toolkit.svg)
-*   [ros2\_grasp\_library (⭐141)](https://github.com/intel/ros2_grasp_library) - Probably a grasp library :). ![ros2\_grasp\_library](https://img.shields.io/github/stars/intel/ros2_grasp_library.svg)
-*   [ros2\_message\_filters (⭐20)](https://github.com/intel/ros2_message_filters) - ros2\_message\_filters blends various messages based on the conditions that filter needs to met and derives from ROS2 porting of ROS message\_filters. ![ros2\_message\_filters](https://img.shields.io/github/stars/intel/ros2_message_filters.svg)
-*   [ros2-tensorflow (⭐47)](https://github.com/alsora/ros2-tensorflow) - ROS2 nodes for computer vision tasks in Tensorflow. ![ros2-tensorflow](https://img.shields.io/github/stars/alsora/ros2-tensorflow.svg)
+*   [ros2\_openvino\_toolkit (⭐141)](https://github.com/intel/ros2_openvino_toolkit) - ROS2 wrapper for CV API of OpenVINO™ (human vision emulation). ![ros2\_openvino\_toolkit](https://img.shields.io/github/stars/intel/ros2_openvino_toolkit.svg)
+*   [ros2\_grasp\_library (⭐146)](https://github.com/intel/ros2_grasp_library) - Probably a grasp library :). ![ros2\_grasp\_library](https://img.shields.io/github/stars/intel/ros2_grasp_library.svg)
+*   [ros2\_message\_filters (⭐21)](https://github.com/intel/ros2_message_filters) - ros2\_message\_filters blends various messages based on the conditions that filter needs to met and derives from ROS2 porting of ROS message\_filters. ![ros2\_message\_filters](https://img.shields.io/github/stars/intel/ros2_message_filters.svg)
+*   [ros2-tensorflow (⭐49)](https://github.com/alsora/ros2-tensorflow) - ROS2 nodes for computer vision tasks in Tensorflow. ![ros2-tensorflow](https://img.shields.io/github/stars/alsora/ros2-tensorflow.svg)
 *   [pid (⭐7)](https://github.com/UTNuclearRoboticsPublic/pid) - A PID controller for ROS2. ![pid](https://img.shields.io/github/stars/UTNuclearRoboticsPublic/pid.svg)
 
 ### Packages / "System" bindings
@@ -388,83 +388,83 @@
 
 ### Packages / Client libraries
 
-*   [rclnodejs (⭐251)](https://github.com/RobotWebTools/rclnodejs) - ROS Client Library for Node.js. ![rclnodejs](https://img.shields.io/github/stars/RobotWebTools/rclnodejs.svg)
+*   [rclnodejs (⭐259)](https://github.com/RobotWebTools/rclnodejs) - ROS Client Library for Node.js. ![rclnodejs](https://img.shields.io/github/stars/RobotWebTools/rclnodejs.svg)
 *   [rclada (⭐7)](https://github.com/ada-ros/rclada) - ROS Client Library for Ada. ![rclada](https://img.shields.io/github/stars/ada-ros/rclada.svg)
-*   [rclcpp (⭐376)](https://github.com/ros2/rclcpp) - ROS Client Library for C++. ![rclcpp](https://img.shields.io/github/stars/ros2/rclcpp.svg)
-*   [rclgo (⭐52)](https://github.com/juaruipav/rclgo) - ROS Client Library for Go. ![rclgo](https://img.shields.io/github/stars/juaruipav/rclgo.svg)
-*   [rclpy (⭐180)](https://github.com/ros2/rclpy) - ROS Client Library for Python. ![rclpy](https://img.shields.io/github/stars/ros2/rclpy.svg)
+*   [rclcpp (⭐411)](https://github.com/ros2/rclcpp) - ROS Client Library for C++. ![rclcpp](https://img.shields.io/github/stars/ros2/rclcpp.svg)
+*   [rclgo (⭐51)](https://github.com/juaruipav/rclgo) - ROS Client Library for Go. ![rclgo](https://img.shields.io/github/stars/juaruipav/rclgo.svg)
+*   [rclpy (⭐198)](https://github.com/ros2/rclpy) - ROS Client Library for Python. ![rclpy](https://img.shields.io/github/stars/ros2/rclpy.svg)
 *   [rcljava (⭐14)](https://github.com/esteve/ros2_java/tree/master/rcljava) - ROS Client Library for Java. ![rcljava](https://img.shields.io/github/stars/esteve/ros2_java.svg)
-*   [rclobjc (⭐19)](https://github.com/esteve/ros2_objc) - ROS Client Library for Objective C (for iOS). ![rclobjc](https://img.shields.io/github/stars/esteve/ros2_objc.svg)
-*   [rclc (⭐72)](https://github.com/ros2/rclc) - ROS Client Library for C. ![rclc](https://img.shields.io/github/stars/ros2/rclc.svg)
-*   [ros2\_dotnet (⭐101)](https://github.com/esteve/ros2_dotnet) - .NET bindings for ROS2. ![ros2\_dotnet](https://img.shields.io/github/stars/esteve/ros2_dotnet.svg)
+*   [rclobjc (⭐21)](https://github.com/esteve/ros2_objc) - ROS Client Library for Objective C (for iOS). ![rclobjc](https://img.shields.io/github/stars/esteve/ros2_objc.svg)
+*   [rclc (⭐87)](https://github.com/ros2/rclc) - ROS Client Library for C. ![rclc](https://img.shields.io/github/stars/ros2/rclc.svg)
+*   [ros2\_dotnet (⭐105)](https://github.com/esteve/ros2_dotnet) - .NET bindings for ROS2. ![ros2\_dotnet](https://img.shields.io/github/stars/esteve/ros2_dotnet.svg)
 
 ### Packages / Driver layer
 
-*   [cozmo\_driver\_ros2 (⭐3)](https://github.com/FurqanHabibi/cozmo_driver_ros2) - Unofficial Anki Cozmo node for ROS2. ![cozmo\_driver\_ros2](https://img.shields.io/github/stars/FurqanHabibi/cozmo_driver_ros2.svg)
+*   [cozmo\_driver\_ros2 (⭐4)](https://github.com/FurqanHabibi/cozmo_driver_ros2) - Unofficial Anki Cozmo node for ROS2. ![cozmo\_driver\_ros2](https://img.shields.io/github/stars/FurqanHabibi/cozmo_driver_ros2.svg)
 *   [sphero\_ros2 (⭐1)](https://github.com/athackst/sphero_ros2) - ROS2 sphero driver. ![sphero\_ros2](https://img.shields.io/github/stars/athackst/sphero_ros2.svg)
-*   [flock2 (⭐51)](https://github.com/clydemcqueen/flock2) - ROS2 driver for DJI Tello drones. ![flock2](https://img.shields.io/github/stars/clydemcqueen/flock2.svg)
+*   [flock2 (⭐54)](https://github.com/clydemcqueen/flock2) - ROS2 driver for DJI Tello drones. ![flock2](https://img.shields.io/github/stars/clydemcqueen/flock2.svg)
 *   [ros2\_raspicam\_node (⭐8)](https://github.com/Misterblue/ros2_raspicam_node) - ROS2 node for Raspberry Pi camera. ![ros2\_raspicam\_node](https://img.shields.io/github/stars/Misterblue/ros2_raspicam_node.svg)
 *   [joystick\_drivers (⭐5)](https://github.com/ros2/joystick_drivers) - ROS2 drivers for joysticks. ![joystick\_drivers](https://img.shields.io/github/stars/ros2/joystick_drivers.svg)
 *   [joystick\_drivers\_from\_scratch (⭐0)](https://github.com/ros2/joystick_drivers_from_scratch) - Joystick driver packages for ROS 2. ![joystick\_drivers\_from\_scratch](https://img.shields.io/github/stars/ros2/joystick_drivers_from_scratch.svg)
-*   [joystick\_ros2 (⭐24)](https://github.com/FurqanHabibi/joystick_ros2) - Joystick driver for ROS2, support all platforms: Linux, macOS, Windows. ![joystick\_ros2](https://img.shields.io/github/stars/FurqanHabibi/joystick_ros2.svg)
+*   [joystick\_ros2 (⭐26)](https://github.com/FurqanHabibi/joystick_ros2) - Joystick driver for ROS2, support all platforms: Linux, macOS, Windows. ![joystick\_ros2](https://img.shields.io/github/stars/FurqanHabibi/joystick_ros2.svg)
 *   [ros2\_teleop\_keyboard (⭐6)](https://github.com/rohbotics/ros2_teleop_keyboard) - Teleop Twist Keyboard for ROS2. ![ros2\_teleop\_keyboard](https://img.shields.io/github/stars/rohbotics/ros2_teleop_keyboard.svg)
 *   [ros\_astra\_camera (⭐9)](https://github.com/ros2/ros_astra_camera) - ROS2 wrapper for Astra camera. ![ros\_astra\_camera](https://img.shields.io/github/stars/ros2/ros_astra_camera.svg)
-*   [ros2\_usb\_camera (⭐58)](https://github.com/klintan/ros2_usb_camera) - ROS2 General USB camera driver. ![ros\_astra\_camera](https://img.shields.io/github/stars/klintan/ros2_usb_camera.svg)
+*   [ros2\_usb\_camera (⭐59)](https://github.com/klintan/ros2_usb_camera) - ROS2 General USB camera driver. ![ros\_astra\_camera](https://img.shields.io/github/stars/klintan/ros2_usb_camera.svg)
 *   [ros2\_android\_drivers (⭐2)](https://github.com/esteve/ros2_android_drivers) - Collection of ROS2 drivers for several Android sensors. ![ros2\_android\_drivers](https://img.shields.io/github/stars/esteve/ros2_android_drivers.svg)
-*   [ros2\_intel\_realsense (⭐131)](https://github.com/intel/ros2_intel_realsense) - ROS2 Wrapper for Intel® RealSense™ Devices. ![ros2\_intel\_realsense](https://img.shields.io/github/stars/intel/ros2_intel_realsense.svg)
+*   [ros2\_intel\_realsense (⭐136)](https://github.com/intel/ros2_intel_realsense) - ROS2 Wrapper for Intel® RealSense™ Devices. ![ros2\_intel\_realsense](https://img.shields.io/github/stars/intel/ros2_intel_realsense.svg)
 *   [raspicam2\_node (⭐38)](https://github.com/christianrauch/raspicam2_node) - ROS2 node for camera module of Raspberry Pi. ![raspicam2\_node](https://img.shields.io/github/stars/christianrauch/raspicam2_node.svg)
 *   [FIROS2 (⭐9)](https://github.com/eProsima/FIROS2) - ROS2 integrable tool focused in the intercommunication between ROS2 and FIWARE. ![FIROS2](https://img.shields.io/github/stars/eProsima/FIROS2.svg)
 *   [lino2\_upper (⭐0)](https://github.com/linorobot2/lino2_upper) - Linorobot on ROS2. ![lino2\_upper](https://img.shields.io/github/stars/linorobot2/lino2_upper.svg)
 *   [RysROS2 (⭐4)](https://github.com/GroupOfRobots/RysROS2) - ROS2 software stack for MiniRys robots. ![RysROS2](https://img.shields.io/github/stars/GroupOfRobots/RysROS2.svg)
-*   [px4\_to\_ros (⭐26)](https://github.com/eProsima/px4_to_ros) - ROS2/ROS packages for communicate PX4 with ROS. ![px4\_to\_ros](https://img.shields.io/github/stars/eProsima/px4_to_ros.svg)
+*   [px4\_to\_ros (⭐27)](https://github.com/eProsima/px4_to_ros) - ROS2/ROS packages for communicate PX4 with ROS. ![px4\_to\_ros](https://img.shields.io/github/stars/eProsima/px4_to_ros.svg)
 *   [multiwii\_ros2 (⭐6)](https://github.com/christianrauch/multiwii_ros2) - ROS2 Node for MultiWii and Cleanflight flight controllers. ![multiwii\_ros2](https://img.shields.io/github/stars/christianrauch/multiwii_ros2.svg)
 *   [ydlidar\_ros2 (⭐1)](https://github.com/Adlink-ROS/ydlidar_ros2) - ROS2 wrapper for ydlidar. ![ydlidar\_ros2](https://img.shields.io/github/stars/Adlink-ROS/ydlidar_ros2.svg)
 
 ### Packages / Client libraries common
 
-*   [rcl (⭐98)](https://github.com/ros2/rcl) - Library to support implementation of language specific ROS Client Libraries. ![rcl](https://img.shields.io/github/stars/ros2/rcl.svg)
-*   [system\_tests (⭐27)](https://github.com/ros2/system_tests) - Tests for rclcpp and rclpy. ![system\_tests](https://img.shields.io/github/stars/ros2/system_tests.svg)
-*   [rcl\_interfaces (⭐28)](https://github.com/ros2/rcl_interfaces) - A repository for messages and services used by the ROS client libraries. ![rcl\_interfaces](https://img.shields.io/github/stars/ros2/rcl_interfaces.svg)
+*   [rcl (⭐105)](https://github.com/ros2/rcl) - Library to support implementation of language specific ROS Client Libraries. ![rcl](https://img.shields.io/github/stars/ros2/rcl.svg)
+*   [system\_tests (⭐29)](https://github.com/ros2/system_tests) - Tests for rclcpp and rclpy. ![system\_tests](https://img.shields.io/github/stars/ros2/system_tests.svg)
+*   [rcl\_interfaces (⭐30)](https://github.com/ros2/rcl_interfaces) - A repository for messages and services used by the ROS client libraries. ![rcl\_interfaces](https://img.shields.io/github/stars/ros2/rcl_interfaces.svg)
 
 ### Packages / IDL generators
 
 *   [rosidl\_generator\_java (⭐14)](https://github.com/esteve/ros2_java/tree/master/rosidl_generator_java) - Generate the ROS interfaces in Java. ![ros2\_java](https://img.shields.io/github/stars/esteve/ros2_java.svg)
-*   [rosidl\_generator\_objc (⭐19)](https://github.com/esteve/ros2_objc/tree/master/rosidl_generator_objc) - Generate the ROS interfaces in Objective C. ![ros2\_objc](https://img.shields.io/github/stars/esteve/ros2_objc.svg)
-*   [rosidl\_generator\_cpp (⭐52)](https://github.com/ros2/rosidl/tree/master/rosidl_generator_cpp) - Generate the ROS interfaces in C++. ![rosidl](https://img.shields.io/github/stars/ros2/rosidl.svg)
-*   [rosidl\_generator\_c (⭐52)](https://github.com/ros2/rosidl/tree/master/rosidl_generator_c) - Generate the ROS interfaces in C. ![rosidl](https://img.shields.io/github/stars/ros2/rosidl.svg)
-*   [rosidl (⭐52)](https://github.com/ros2/rosidl) - Packages which provide the ROS IDL (.msg) definition and code generation. ![rosidl](https://img.shields.io/github/stars/ros2/rosidl.svg)
+*   [rosidl\_generator\_objc (⭐21)](https://github.com/esteve/ros2_objc/tree/master/rosidl_generator_objc) - Generate the ROS interfaces in Objective C. ![ros2\_objc](https://img.shields.io/github/stars/esteve/ros2_objc.svg)
+*   [rosidl\_generator\_cpp (⭐57)](https://github.com/ros2/rosidl/tree/master/rosidl_generator_cpp) - Generate the ROS interfaces in C++. ![rosidl](https://img.shields.io/github/stars/ros2/rosidl.svg)
+*   [rosidl\_generator\_c (⭐57)](https://github.com/ros2/rosidl/tree/master/rosidl_generator_c) - Generate the ROS interfaces in C. ![rosidl](https://img.shields.io/github/stars/ros2/rosidl.svg)
+*   [rosidl (⭐57)](https://github.com/ros2/rosidl) - Packages which provide the ROS IDL (.msg) definition and code generation. ![rosidl](https://img.shields.io/github/stars/ros2/rosidl.svg)
 *   [rosidl\_dds (⭐5)](https://github.com/ros2/rosidl_dds) - Generate the DDS interfaces for ROS interfaces. ![rosidl\_dds](https://img.shields.io/github/stars/ros2/rosidl_dds.svg)
 
 ### Packages / RMW (ROS middleware)
 
-*   [rmw (⭐84)](https://github.com/ros2/rmw/tree/master/rmw) - Contains the ROS middleware API. ![rmw](https://img.shields.io/github/stars/ros2/rmw.svg)
+*   [rmw (⭐87)](https://github.com/ros2/rmw/tree/master/rmw) - Contains the ROS middleware API. ![rmw](https://img.shields.io/github/stars/ros2/rmw.svg)
 *   [rmw\_connext\_cpp (⭐26)](https://github.com/ros2/rmw_connext/tree/master/rmw_connext_cpp) - Implement the ROS middleware interface using RTI Connext static code generation in C++. ![rmw\_connext\_cpp](https://img.shields.io/github/stars/ros2/rmw_connext.svg)
-*   [rmw\_fastrtps\_cpp (⭐127)](https://github.com/ros2/rmw_fastrtps/tree/master/rmw_fastrtps_cpp) - Implement the ROS middleware interface using eProsima FastRTPS static code generation in C++. ![rmw\_fastrtps\_cpp](https://img.shields.io/github/stars/ros2/rmw_fastrtps.svg)
-*   [rmw\_dps (⭐22)](https://github.com/ros2/rmw_dps) - Implementation of the ROS Middleware (rmw) Interface using Intel's Distributed Publish & Subscribe. ![rmw\_dps](https://img.shields.io/github/stars/ros2/rmw_dps.svg)
+*   [rmw\_fastrtps\_cpp (⭐131)](https://github.com/ros2/rmw_fastrtps/tree/master/rmw_fastrtps_cpp) - Implement the ROS middleware interface using eProsima FastRTPS static code generation in C++. ![rmw\_fastrtps\_cpp](https://img.shields.io/github/stars/ros2/rmw_fastrtps.svg)
+*   [rmw\_dps (⭐23)](https://github.com/ros2/rmw_dps) - Implementation of the ROS Middleware (rmw) Interface using Intel's Distributed Publish & Subscribe. ![rmw\_dps](https://img.shields.io/github/stars/ros2/rmw_dps.svg)
 *   [rmw\_opensplice\_cpp (⭐11)](https://github.com/ros2/rmw_opensplice/tree/master/rmw_opensplice_cpp) - Implement the ROS middleware interface using PrismTech OpenSplice static code generation in C++. ![rmw\_opensplice\_cpp](https://img.shields.io/github/stars/ros2/rmw_opensplice.svg)
 *   [rmw\_coredx (⭐0)](https://github.com/tocinc/rmw_coredx) - CoreDX DDS integration layer for ROS2. ![tocinc/rmw\_coredx](https://img.shields.io/github/stars/tocinc/rmw_coredx.svg)
 *   [rmw\_freertps (⭐1)](https://github.com/ros2/rmw_freertps) - RMW implementation using freertps. ![tocinc/rmw\_coredx](https://img.shields.io/github/stars/ros2/rmw_freertps.svg)
-*   [rcutils (⭐46)](https://github.com/ros2/rcutils) - Common C functions and data structures used in ROS 2. ![rmw](https://img.shields.io/github/stars/ros2/rcutils.svg)
-*   [rmw\_cyclonedds (⭐82)](https://github.com/atolab/rmw_cyclonedds) - ROS2 RMW layer for Eclipse Cyclone DDS. ![rmw\_cyclonedds](https://img.shields.io/github/stars/atolab/rmw_cyclonedds.svg)
+*   [rcutils (⭐50)](https://github.com/ros2/rcutils) - Common C functions and data structures used in ROS 2. ![rmw](https://img.shields.io/github/stars/ros2/rcutils.svg)
+*   [rmw\_cyclonedds (⭐87)](https://github.com/atolab/rmw_cyclonedds) - ROS2 RMW layer for Eclipse Cyclone DDS. ![rmw\_cyclonedds](https://img.shields.io/github/stars/atolab/rmw_cyclonedds.svg)
 
 ### Packages / DDS communication mechanism implementations
 
 *   [freertps (⭐87)](https://github.com/ros2/freertps) - A free, portable, minimalist, work-in-progress RTPS implementation. ![freertps](https://img.shields.io/github/stars/ros2/freertps.svg)
-*   [Fast-RTPS (⭐1.6k)](https://github.com/eProsima/Fast-RTPS) - Implementation of RTPS Standard (RTPS is the wire interoperability protocol for DDS). ![Fast-RTPS](https://img.shields.io/github/stars/eProsima/Fast-RTPS.svg)
-*   [OpenSplice (⭐239)](https://github.com/ADLINK-IST/opensplice) - Implementation of the OMG DDS Standard. ![opensplice](https://img.shields.io/github/stars/ADLINK-IST/opensplice.svg) :heavy\_dollar\_sign:
+*   [Fast-RTPS (⭐1.7k)](https://github.com/eProsima/Fast-RTPS) - Implementation of RTPS Standard (RTPS is the wire interoperability protocol for DDS). ![Fast-RTPS](https://img.shields.io/github/stars/eProsima/Fast-RTPS.svg)
+*   [OpenSplice (⭐243)](https://github.com/ADLINK-IST/opensplice) - Implementation of the OMG DDS Standard. ![opensplice](https://img.shields.io/github/stars/ADLINK-IST/opensplice.svg) :heavy\_dollar\_sign:
 *   [CoreDX DDS](http://www.twinoakscomputing.com/coredx) - Implementation of Twin Oaks Computing, Inc.. :heavy\_dollar\_sign:
 *   [cdds (⭐7)](https://github.com/atolab/cdds) - Cyclone DDS is developed completely in the open and is undergoing the acceptance process to become part of Eclipse IoT. ![cdds](https://img.shields.io/github/stars/atolab/cdds.svg)
-*   [Micro-XRCE-DDS) (⭐108)](https://github.com/eProsima/Micro-XRCE-DDS) - An XRCE DDS implementation (supported by microROS). ![Micro-XRCE-DDS](https://img.shields.io/github/stars/eProsima/Micro-XRCE-DDS.svg)
+*   [Micro-XRCE-DDS) (⭐116)](https://github.com/eProsima/Micro-XRCE-DDS) - An XRCE DDS implementation (supported by microROS). ![Micro-XRCE-DDS](https://img.shields.io/github/stars/eProsima/Micro-XRCE-DDS.svg)
 
 ### Packages / Build system (Linux)
 
-*   [meta-ros2 (⭐17)](https://github.com/erlerobot/meta-ros2) - ROS 2 Layer for OpenEmbedded Linux. ![meta-ros2](https://img.shields.io/github/stars/erlerobot/meta-ros2.svg)
+*   [meta-ros2 (⭐18)](https://github.com/erlerobot/meta-ros2) - ROS 2 Layer for OpenEmbedded Linux. ![meta-ros2](https://img.shields.io/github/stars/erlerobot/meta-ros2.svg)
 
 ### Packages / Build system (ROS2)
 
-*   [ci (⭐40)](https://github.com/ros2/ci) - ROS 2 CI Infrastructure. ![ci](https://img.shields.io/github/stars/ros2/ci.svg)
+*   [ci (⭐43)](https://github.com/ros2/ci) - ROS 2 CI Infrastructure. ![ci](https://img.shields.io/github/stars/ros2/ci.svg)
 *   [ament\_cmake\_export\_jars (⭐14)](https://github.com/esteve/ros2_java/tree/master/ament_cmake_export_jars) - The ability to export Java archives to downstream packages in the ament buildsystem in CMake. ![ros2\_java](https://img.shields.io/github/stars/esteve/ros2_java.svg)
-*   [rmw\_implementation\_cmake (⭐84)](https://github.com/ros2/rmw/tree/master/rmw_implementation_cmake) - CMake functions which can discover and enumerate available implementations. ![rmw](https://img.shields.io/github/stars/ros2/rmw.svg)
+*   [rmw\_implementation\_cmake (⭐87)](https://github.com/ros2/rmw/tree/master/rmw_implementation_cmake) - CMake functions which can discover and enumerate available implementations. ![rmw](https://img.shields.io/github/stars/ros2/rmw.svg)
 *   [rmw\_implementation (⭐19)](https://github.com/ros2/rmw_implementation) - CMake infrastructure and dependencies for rmw implementations. ![rmw](https://img.shields.io/github/stars/ros2/rmw_implementation.svg)
 
 ### Papers / ROSCon 2015
@@ -494,11 +494,11 @@
 ### UI / UI Helpers
 
 *   [Liquid Pull To Refresh (⭐1.1k)](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) <!--stargazers:aagarwal1012/Liquid-Pull-To-Refresh--> - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
-*   [Offline (⭐842)](https://github.com/jogboms/flutter_offline) <!--stargazers:jogboms/flutter_offline--> - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
+*   [Offline (⭐880)](https://github.com/jogboms/flutter_offline) <!--stargazers:jogboms/flutter_offline--> - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
 
 ### UI / Calendar
 
-*   [Table Calendar (⭐1.5k)](https://github.com/aleksanderwozniak/table_calendar) <!--stargazers:aleksanderwozniak/table_calendar--> - Calendar organized neatly into a Table, with vertical autosizing by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
+*   [Table Calendar (⭐1.6k)](https://github.com/aleksanderwozniak/table_calendar) <!--stargazers:aleksanderwozniak/table_calendar--> - Calendar organized neatly into a Table, with vertical autosizing by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
 
 ### 🇨🇮 Côte d'Ivoire (Ivory Coast) / Misc
 
@@ -616,11 +616,11 @@
 
 ### Entertainment / Social Media
 
-*   [facebook-cli (⭐384)](https://github.com/specious/facebook-cli) - Facebook command line interface.
+*   [facebook-cli (⭐386)](https://github.com/specious/facebook-cli) - Facebook command line interface.
 
 ### Utilities / macOS
 
-*   [active-win-cli (⭐52)](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
+*   [active-win-cli (⭐55)](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
 
 ### Utilities / Terminal Sharing Utilities
 
@@ -630,7 +630,7 @@
 
 ### Files and Directories / File Managers
 
-*   [nnn (⭐16k)](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
+*   [nnn (⭐17k)](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
 
 ### Files and Directories / Files
 
@@ -639,18 +639,18 @@
 ### Files and Directories / Directory Navigation
 
 *   [autojump (⭐15k)](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line.
-*   [goto (⭐832)](https://github.com/iridakos/goto) - Directory aliases for the shell with autocomplete.
+*   [goto (⭐844)](https://github.com/iridakos/goto) - Directory aliases for the shell with autocomplete.
 
 ### Files and Directories / Search
 
-*   [happyfinder (⭐326)](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
-*   [find-up-cli (⭐30)](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
-*   [ripgrep (⭐38k)](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
-*   [fzf (⭐52k)](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
+*   [happyfinder (⭐329)](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
+*   [find-up-cli (⭐31)](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
+*   [ripgrep (⭐40k)](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
+*   [fzf (⭐54k)](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
 
 ### Images / Image Conversion
 
-*   [imgp (⭐947)](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator.
+*   [imgp (⭐965)](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator.
 
 ## [18. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -843,7 +843,7 @@
 
 ### Chat
 
-*   [Real-time Chat with Firebase (⭐675)](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
+*   [Real-time Chat with Firebase (⭐708)](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
 
 ### Network / Barcode
 
@@ -851,19 +851,19 @@
 
 ### UI / Barcode
 
-*   [GradientProgressBar (⭐515)](https://github.com/fxm90/GradientProgressBar) - An animated gradient progress bar.
+*   [GradientProgressBar (⭐527)](https://github.com/fxm90/GradientProgressBar) - An animated gradient progress bar.
 
 ### Alert / Barcode
 
-*   [Loaf (⭐1k)](https://github.com/schmidyy/Loaf) - A simple framework for easy iOS Toasts.
+*   [Loaf (⭐1.1k)](https://github.com/schmidyy/Loaf) - A simple framework for easy iOS Toasts.
 
 ### Tab / Barcode
 
-*   [CircleBar (⭐824)](https://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
+*   [CircleBar (⭐854)](https://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
 
 ### UITableView / Barcode
 
-*   [CollapsibleTableSectionViewController (⭐349)](https://github.com/jeantimex/CollapsibleTableSectionViewController) - A library to support collapsible sections in a table view.
+*   [CollapsibleTableSectionViewController (⭐353)](https://github.com/jeantimex/CollapsibleTableSectionViewController) - A library to support collapsible sections in a table view.
 
 ## [28. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
 
@@ -1009,7 +1009,7 @@
 ### Tools
 
 *   [ParaText (⭐1.1k)](https://github.com/wiseio/paratext) - CSV parsing at 2.5 GB per second.
-*   [Rainbow CSV plugins (⭐455)](https://github.com/mechatroner/rainbow_csv#rainbow-csv-in-other-editors) - Collection of text editor plugins for CSV/TSV syntax highlighting. Available for [Vim (⭐455)](https://github.com/mechatroner/rainbow_csv), [VS Code](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv), [Atom](https://atom.io/packages/rainbow-csv), [Sublime Text](https://packagecontrol.io/packages/rainbow_csv) and other editors.
+*   [Rainbow CSV plugins (⭐518)](https://github.com/mechatroner/rainbow_csv#rainbow-csv-in-other-editors) - Collection of text editor plugins for CSV/TSV syntax highlighting. Available for [Vim (⭐518)](https://github.com/mechatroner/rainbow_csv), [VS Code](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv), [Atom](https://atom.io/packages/rainbow-csv), [Sublime Text](https://packagecontrol.io/packages/rainbow_csv) and other editors.
 
 ## [37. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
 
@@ -1063,7 +1063,7 @@
 
 ### GDScript/C# editor support / Godot version unknown
 
-*   [Kakoune (⭐7)](https://github.com/Skytrias/gdscript-kak) - Syntax highlighting.
+*   [Kakoune (⭐8)](https://github.com/Skytrias/gdscript-kak) - Syntax highlighting.
 
 ## [40. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
 
@@ -1130,14 +1130,14 @@
 ### Free eBooks
 
 *   [The Anatomy of Domain-Driven Design - The Infographic](https://leanpub.com/theanatomyofdomain-drivendesign) - An infographic on the anatomy of Domain-Driven Design.
-*   [Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure](https://dotnet.microsoft.com/download/thank-you/aspnet-ebook) - Provides end-to-end guidance on building monolithic web applications using DDD, ASP.NET Core, and Azure. [eShopOnWeb sample (⭐8.1k)](https://github.com/dotnet-architecture/eShopOnWeb)
+*   [Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure](https://dotnet.microsoft.com/download/thank-you/aspnet-ebook) - Provides end-to-end guidance on building monolithic web applications using DDD, ASP.NET Core, and Azure. [eShopOnWeb sample (⭐9.2k)](https://github.com/dotnet-architecture/eShopOnWeb)
 *   [CQRS Journey](https://msdn.microsoft.com/en-us/library/jj554200.aspx) - Exploring CQRS and Event Sourcing.
 *   [DDD Reference](http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf) - A summary of the patterns and definitions of DDD.
 *   [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly) - Domain Driven Design Quickly is a short, quick-readable summary and introduction to the fundamentals of DDD.
 *   [Effective Aggregate Design](http://dddcommunity.org/library/vernon_2011/) -  In this three-part series, Vaughn Vernon walks through some common design pitfalls, discusses the pros and cons of various aggregate modeling choices, and provides rules of thumb to guide modeling of aggregates.
 *   [Getting Started with DDD when Surrounded by Legacy Systems](http://domainlanguage.com/wp-content/uploads/2016/04/GettingStartedWithDDDWhenSurroundedByLegacySystemsV1.pdf) - Describes three strategies for getting started with DDD when you have a big commitment to legacy systems.
 *   [Living Documentation by Design, with Domain-Driven Design](https://leanpub.com/livingdocumentation) - Discover how a Living Documentation can help you in all aspects of your projects, from the business goals to the business domain knowledge, architecture and design, processes and deployment, even if you hate writing documentation.
-*   [.NET Microservices: Architecture for Containerized .NET Applications](https://dotnet.microsoft.com/download/thank-you/microservices-architecture-ebook) - An introduction to developing microservices-based applications and managing them using containers. [eShopOnContainers sample (⭐22k)](https://github.com/dotnet-architecture/eShopOnContainers)
+*   [.NET Microservices: Architecture for Containerized .NET Applications](https://dotnet.microsoft.com/download/thank-you/microservices-architecture-ebook) - An introduction to developing microservices-based applications and managing them using containers. [eShopOnContainers sample (⭐24k)](https://github.com/dotnet-architecture/eShopOnContainers)
 *   [The Semantic JavaScript Backend for Event-Driven Development](https://docs.wolkenkit.io/1.1.0/downloads/brochure/) - A 68 pages long free ebook on what DDD, CQRS and event-sourcing are, and how they fit each other.
 
 ### Training Courses
@@ -1146,62 +1146,62 @@
 
 ### Community Resources
 
-*   [Awesome Event Storming (⭐1.8k)](https://github.com/mariuszgil/awesome-eventstorming) - awesome list that focuses only on Event Storming.
+*   [Awesome Event Storming (⭐2k)](https://github.com/mariuszgil/awesome-eventstorming) - awesome list that focuses only on Event Storming.
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [CQRS-DDD Example (⭐124)](https://github.com/dcomartin/DDD-CQRS-ES-Example) - Domain Driven Design, CQRS, & Event Sourcing Example using GetEventStore, CommonDomain, NServiceBus, Entity Framework, SQL Server, SignalR.
-*   [ContosoUniversityCore (⭐567)](https://github.com/jbogard/ContosoUniversityCore) - ContosoUniversity on ASP.NET Core with Full .NET Framework.
-*   [DDDInventoryItemFSharp (⭐182)](https://github.com/eulerfx/DDDInventoryItemFSharp) - An idiomatic F# implementation of Domain-Driven Design
-*   [DDDSkeletonNet (⭐172)](https://github.com/andras-nemes/DDDSkeletonNet) (C#) - a .NET skeleton project to introduce the concepts of Domain Driven Design and loosely coupled layers.
-*   [EmailMaker (⭐10)](https://github.com/xhafan/emailmaker) - Email marketing ASP.NET Core MVC and ASP.NET MVC demo app demonstrating [CoreDdd (⭐69)](https://github.com/xhafan/coreddd) usage
-*   [eShopOnContainersDDD (⭐253)](https://github.com/volak/eShopOnContainersDDD) - eShop fullstack example featuring catalog, basket, checkout, and order bounded contexts
-*   [Fohjin (⭐685)](https://github.com/MarkNijhof/Fohjin) - Example project that accompanies Mark Nijhof's [CQRS](https://leanpub.com/cqrs) book.
+*   [CQRS-DDD Example (⭐129)](https://github.com/dcomartin/DDD-CQRS-ES-Example) - Domain Driven Design, CQRS, & Event Sourcing Example using GetEventStore, CommonDomain, NServiceBus, Entity Framework, SQL Server, SignalR.
+*   [ContosoUniversityCore (⭐586)](https://github.com/jbogard/ContosoUniversityCore) - ContosoUniversity on ASP.NET Core with Full .NET Framework.
+*   [DDDInventoryItemFSharp (⭐183)](https://github.com/eulerfx/DDDInventoryItemFSharp) - An idiomatic F# implementation of Domain-Driven Design
+*   [DDDSkeletonNet (⭐180)](https://github.com/andras-nemes/DDDSkeletonNet) (C#) - a .NET skeleton project to introduce the concepts of Domain Driven Design and loosely coupled layers.
+*   [EmailMaker (⭐12)](https://github.com/xhafan/emailmaker) - Email marketing ASP.NET Core MVC and ASP.NET MVC demo app demonstrating [CoreDdd (⭐69)](https://github.com/xhafan/coreddd) usage
+*   [eShopOnContainersDDD (⭐301)](https://github.com/volak/eShopOnContainersDDD) - eShop fullstack example featuring catalog, basket, checkout, and order bounded contexts
+*   [Fohjin (⭐695)](https://github.com/MarkNijhof/Fohjin) - Example project that accompanies Mark Nijhof's [CQRS](https://leanpub.com/cqrs) book.
 *   [FsUno (⭐75)](https://github.com/thinkbeforecoding/FsUno) - Event sourcing implementation sample in F#.
-*   [IDDD Samples in .NET (⭐837)](https://github.com/VaughnVernon/IDDD_Samples_NET) - These are the sample Bounded Contexts for C#.NET from the book "Implementing Domain-Driven Design" by Vaughn Vernon.
-*   [NLayerAppV3 (⭐152)](https://github.com/cesarcastrocuba/nlayerappv3) (.Net Core Preview 2) - a N-Layered Architecture Sample Project.
-*   [Reactive Trader Cloud (⭐1.7k)](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Reactive Trader Cloud by Adaptive Consulting.
-*   [Sample .NET Core CQRS REST API (⭐2.2k)](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
-*   [SimpleCQRS (⭐2k)](https://github.com/gregoryyoung/m-r) - Greg Young's "Simplest Thing" CQRS with Event Sourcing project.
-*   [TodoMVC-DDD-CQRS-EventSourcing (⭐224)](https://github.com/volak/TodoMVC-DDD-CQRS-EventSourcing) - Implementation of basic Todo app via tastejs/todomvc in C#/Typescript with eventsourcing, cqrs, and domain driven design
+*   [IDDD Samples in .NET (⭐893)](https://github.com/VaughnVernon/IDDD_Samples_NET) - These are the sample Bounded Contexts for C#.NET from the book "Implementing Domain-Driven Design" by Vaughn Vernon.
+*   [NLayerAppV3 (⭐154)](https://github.com/cesarcastrocuba/nlayerappv3) (.Net Core Preview 2) - a N-Layered Architecture Sample Project.
+*   [Reactive Trader Cloud (⭐1.8k)](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Reactive Trader Cloud by Adaptive Consulting.
+*   [Sample .NET Core CQRS REST API (⭐2.5k)](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
+*   [SimpleCQRS (⭐2.1k)](https://github.com/gregoryyoung/m-r) - Greg Young's "Simplest Thing" CQRS with Event Sourcing project.
+*   [TodoMVC-DDD-CQRS-EventSourcing (⭐246)](https://github.com/volak/TodoMVC-DDD-CQRS-EventSourcing) - Implementation of basic Todo app via tastejs/todomvc in C#/Typescript with eventsourcing, cqrs, and domain driven design
 
 ### Sample Projects / Haskell
 
 *   [Eventuria gsd (⭐50)](https://github.com/Eventuria/gsd) - Haskell todo list reactive application with DDD, CQRS and Event Sourcing, FRP.
 
-### Sample Projects / JavaScript
+### Sample Projects / JavaScript / TypeScript
 
 *   [wolkenkit Sample Applications](https://docs.wolkenkit.io/latest/media/sample-applications/wolkenkit-boards/) - A collection of DDD sample applications, such as TodoMVC, a geocaching app, collaborative boards etc.
 
 ### Sample Projects / JVM languages
 
-*   [Event Sourcing Example (⭐84)](https://github.com/Pragmatists/eventsourcing-java-example) - A simplified (in memory) example of Event Sourcing and CQRS implementation for Java code (modeled for banking domain use cases).
-*   [IDDD Samples (⭐3.2k)](https://github.com/VaughnVernon/IDDD_Samples) - These are the sample Bounded Contexts from the book "Implementing Domain-Driven Design" by Vaughn Vernon.
+*   [Event Sourcing Example (⭐93)](https://github.com/Pragmatists/eventsourcing-java-example) - A simplified (in memory) example of Event Sourcing and CQRS implementation for Java code (modeled for banking domain use cases).
+*   [IDDD Samples (⭐3.5k)](https://github.com/VaughnVernon/IDDD_Samples) - These are the sample Bounded Contexts from the book "Implementing Domain-Driven Design" by Vaughn Vernon.
 
 ### Sample Projects / PHP
 
-*   [DDD Wish List (⭐195)](https://github.com/franzose/symfony-ddd-wishlist) - A sample application in PHP built with Symfony 3 and Vue.js.
-*   [DDD Playground (⭐565)](https://github.com/jorge07/ddd-playground/) - Sample implementation in PHP.
+*   [DDD Wish List (⭐199)](https://github.com/franzose/symfony-ddd-wishlist) - A sample application in PHP built with Symfony 3 and Vue.js.
+*   [DDD Playground (⭐584)](https://github.com/jorge07/ddd-playground/) - Sample implementation in PHP.
 
 ### Libraries and Frameworks / .NET
 
-*   [Aggregates.NET (⭐381)](https://github.com/volak/Aggregates.NET) - .NET event sourced domain driven design model via NServicebus and GetEventStore.
-*   [AggregateSource (⭐255)](https://github.com/yreynhout/aggregateSource) - Lightweight infrastructure for doing eventsourcing using aggregates.
+*   [Aggregates.NET (⭐437)](https://github.com/volak/Aggregates.NET) - .NET event sourced domain driven design model via NServicebus and GetEventStore.
+*   [AggregateSource (⭐257)](https://github.com/yreynhout/aggregateSource) - Lightweight infrastructure for doing eventsourcing using aggregates.
 *   [Akka.NET](http://getakka.net/) - Akka.NET is a toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono.
 *   [ASP.NET Boilerplate](http://aspnetboilerplate.com/) - ASP.NET MVC, Web API and ASP.NET Core based application framework to create NLayered, Domain Driven Designed web Applications implementing best practices.
 *   [Cedar.CommandHandling](https://github.com/damianh/Cedar.CommandHandling) - Middleware to handling commands over HTTP; typically used in CQRS applications.
-*   [Cirqus (⭐226)](https://github.com/d60/Cirqus) - d60 event sourcing + CQRS framework.
+*   [Cirqus (⭐232)](https://github.com/d60/Cirqus) - d60 event sourcing + CQRS framework.
 *   [CoreDdd (⭐69)](https://github.com/xhafan/coreddd) - Set of open-source .NET libraries helping with DDD and CQRS, with NHibernate persistence
-*   [CQRS on Azure (⭐25)](https://github.com/MerrionComputing/CQRSAzure) CQRS on Windows Azure.
+*   [CQRS on Azure (⭐26)](https://github.com/MerrionComputing/CQRSAzure) CQRS on Windows Azure.
 *   [Dolittle](https://dolittle.com) - Build better applications with Dolittle. An Event Sourced, Microservice platform oriented around DDD with developer productivity and simplicity front and center.
-*   [EventFlow (⭐2.1k)](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET <http://geteventflow.net/>.
-*   [Its.Cqrs (⭐75)](https://github.com/jonsequitur/Its.Cqrs) - A set of libraries for CQRS and Event Sourcing, with a Domain-Driven Design flavor.
-*   [MassTransit (⭐4.9k)](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET.
-*   [NServiceBus (⭐1.9k)](https://github.com/Particular/NServiceBus) - Service bus for .NET.
-*   [shriek-fx (⭐666)](https://github.com/ElderJames/shriek-fx) - An simple,elegant and useful Domain-Driven Design and CQRS framework developed using .NET Core 2.0.
+*   [EventFlow (⭐2.2k)](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET <http://geteventflow.net/>.
+*   [Its.Cqrs (⭐77)](https://github.com/jonsequitur/Its.Cqrs) - A set of libraries for CQRS and Event Sourcing, with a Domain-Driven Design flavor.
+*   [MassTransit (⭐5.8k)](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET.
+*   [NServiceBus (⭐2k)](https://github.com/Particular/NServiceBus) - Service bus for .NET.
+*   [shriek-fx (⭐665)](https://github.com/ElderJames/shriek-fx) - An simple,elegant and useful Domain-Driven Design and CQRS framework developed using .NET Core 2.0.
 *   [SqlStreamStore (⭐4)](https://github.com/damianh/SqlStreamStore) - .NET Stream Store library targeting SQL based implementations.
-*   [Stringly.Typed (⭐44)](https://github.com/mission202/Stringly.Typed) - Making it easier to convert strings to/from .NET types.
-*   [Xer.Cqrs (⭐98)](https://github.com/jeyjeyemem/Xer.Cqrs) - A simple library for creating applications based on the CQRS pattern with support for attribute routing and hosted handlers. Developed in C# targeting .NET Standard 1.0.
+*   [Stringly.Typed (⭐45)](https://github.com/mission202/Stringly.Typed) - Making it easier to convert strings to/from .NET types.
+*   [Xer.Cqrs (⭐99)](https://github.com/jeyjeyemem/Xer.Cqrs) - A simple library for creating applications based on the CQRS pattern with support for attribute routing and hosted handlers. Developed in C# targeting .NET Standard 1.0.
 
 ### Libraries and Frameworks / Databases
 
@@ -1209,11 +1209,11 @@
 
 ### Libraries and Frameworks / Elixir
 
-*   [Event Bus (⭐651)](https://github.com/otobus/event_bus) - Traceable, extendable and minimalist event bus implementation for Elixir with built-in event store and event watcher based on ETS.
+*   [Event Bus (⭐674)](https://github.com/otobus/event_bus) - Traceable, extendable and minimalist event bus implementation for Elixir with built-in event store and event watcher based on ETS.
 
-### Libraries and Frameworks / JavaScript
+### Libraries and Frameworks / JavaScript / TypeScript
 
-*   [cqrs.js](http://cqrs.js.org) - CQRS implementations in node.js.  Includes [node-eventstore (⭐535)](https://github.com/adrai/node-eventstore), [node-cqrs-domain (⭐269)](https://github.com/adrai/node-cqrs-domain), [node-eventdenormalizer (⭐38)](https://github.com/adrai/node-cqrs-eventdenormalizer), [node-cqrs-saga (⭐59)](https://github.com/adrai/node-cqrs-saga).
+*   [cqrs.js](http://cqrs.js.org) - CQRS implementations in node.js.  Includes [node-eventstore (⭐539)](https://github.com/adrai/node-eventstore), [node-cqrs-domain (⭐269)](https://github.com/adrai/node-cqrs-domain), [node-eventdenormalizer (⭐37)](https://github.com/adrai/node-cqrs-eventdenormalizer), [node-cqrs-saga (⭐60)](https://github.com/adrai/node-cqrs-saga).
 
 ### Libraries and Frameworks / JVM
 
@@ -1235,13 +1235,12 @@
 
 ### Climate, Environment and Weather
 
-*   [bomrang (⭐101)](https://github.com/ropensci/bomrang) - Australian Government Bureau of Meteorology Data from R.
-*   [frostline (⭐115)](https://github.com/waldoj/frostline) - A dataset, API, and python parser for USDA plant hardiness zones.
-*   [GSODR (⭐80)](https://github.com/ropensci/GSODR) - Global summary daily weather data in R.
-*   [iem (⭐109)](https://github.com/akrherz/iem) - Code that makes the Iowa Environmental Mesonet run.
-*   [PyETo (⭐114)](https://github.com/woodcrafty/PyETo) - Python package for calculating reference/potential evapotranspiration (ETo).
-*   [pyTSEB (⭐96)](https://github.com/hectornieto/pyTSEB) - A python two source energy balance model for estimation of evapotranspiration with remote sensing data.
-*   [soilDB (⭐60)](https://github.com/ncss-tech/soilDB) - R library for simplified access to NCSS soil databases.
+*   [frostline (⭐126)](https://github.com/waldoj/frostline) - A dataset, API, and python parser for USDA plant hardiness zones.
+*   [GSODR (⭐82)](https://github.com/ropensci/GSODR) - Global summary daily weather data in R.
+*   [iem (⭐124)](https://github.com/akrherz/iem) - Code that makes the Iowa Environmental Mesonet run.
+*   [PyETo (⭐130)](https://github.com/woodcrafty/PyETo) - Python package for calculating reference/potential evapotranspiration (ETo).
+*   [pyTSEB (⭐115)](https://github.com/hectornieto/pyTSEB) - A python two source energy balance model for estimation of evapotranspiration with remote sensing data.
+*   [soilDB (⭐67)](https://github.com/ncss-tech/soilDB) - R library for simplified access to NCSS soil databases.
 
 ### Crop Modeling, Phenotyping, and Pathology
 
@@ -1250,29 +1249,21 @@
 ### Data Standardization, Interoperability and APIs
 
 *   [AgGateway’s ADAPT Toolkit](https://adaptframework.org) - Open Source project providing tools to simplify communication between growers, their machines, and their partners.
-*   [agworld\_api\_client (⭐4)](https://github.com/agworld/agworld_api_client) - Example Agworld API Ruby client library that is compliant with specification defined by jsonapi.org.
 *   [API-Code-Samples (⭐9)](https://github.com/aWhereAPI/API-Code-Samples) - Contains aWhere's API platform code samples.
 *   [ClearAg-API-Examples (⭐0)](https://github.com/IterisClearAg/ClearAg-API-Examples) - A collection of code examples using the ClearAg APIs.
 *   [Open Ag Data Alliance](https://github.com/oada) - OADA is an open project designed to bring interoperability, security, and privacy to agricultural data.
-*   [MyJohnDeereAPI-OAuth-CS-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-CS-Client) - C Sharp MyJohnDeere API client implementation.
-*   [MyJohnDeereAPI-OAuth-Java-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-Java-Client) - Java MyJohnDeere API client implementation.
-*   [MyJohnDeereAPI-OAuth-NodeJS-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-NodeJS-Client) - Node.js MyJohnDeere API client implementation.
-*   [MyJohnDeereAPI-OAuth-PHP-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-PHP-Client) - PHP MyJohnDeere API client implementation.
-*   [MyJohnDeereAPI-OAuth-Python-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-Python-Client) - Python MyJohnDeere API client implementation.
-*   [MyJohnDeereAPI-OAuth-Python3-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-Python3-Client) - Python3 MyJohnDeere API client implementation.
-*   [MyJohnDeereAPI-OAuth-Ruby-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-Ruby-Client) - Ruby MyJohnDeere API client implementation.
-*   [SampleData (⭐25)](https://github.com/JohnDeere/SampleData) - Sample datacards, shapefiles, and other files you can use for testing.
+*   [SampleData (⭐26)](https://github.com/JohnDeere/SampleData) - Sample datacards, shapefiles, and other files you can use for testing.
 
 ### Farm Management Systems and Record Keeping
 
 *   [AgroSense](https://bitbucket.org/corizon/agrosense) - Free and open source farm management suite built with Java.
-*   [farmOS (⭐550)](https://github.com/farmOS/farmOS) - Web-based farm record keeping application built with Drupal and PHP.
-*   [Ekylibre (⭐294)](https://github.com/ekylibre/ekylibre) - Farm management information system for farmers and small enterprises built with Ruby on Rails and PostgreSQL/PostGIS.
-*   [Tania (⭐586)](https://github.com/Tanibox/tania-core) - Free and open source farming management system for everyone built with Go and Vue.js.
+*   [farmOS (⭐632)](https://github.com/farmOS/farmOS) - Web-based farm record keeping application built with Drupal and PHP.
+*   [Ekylibre (⭐315)](https://github.com/ekylibre/ekylibre) - Farm management information system for farmers and small enterprises built with Ruby on Rails and PostgreSQL/PostGIS.
+*   [Tania (⭐653)](https://github.com/Tanibox/tania-core) - Free and open source farming management system for everyone built with Go and Vue.js.
 
 ### Geospatial and GIS / GIS Resources
 
-*   [Awesome GIS (⭐3.1k)](https://github.com/sshuair/awesome-gis) - Awesome GIS is a list collecting abundant GIS related sources.
+*   [Awesome GIS (⭐3.6k)](https://github.com/sshuair/awesome-gis) - Awesome GIS is a list collecting abundant GIS related sources.
 
 ### Geospatial and GIS / GIS Platforms
 
@@ -1280,25 +1271,25 @@
 
 ### Geospatial and GIS / Shapefiles
 
-*   [pyshp (⭐974)](https://github.com/GeospatialPython/pyshp) - Reads and writes ESRI Shapefiles in pure Python.
-*   [rgeo-shapefile (⭐92)](https://github.com/rgeo/rgeo-shapefile) - RGeo Shapefile is an optional module for RGeo for reading geospatial data from ESRI shapefiles in Ruby.
+*   [pyshp (⭐1k)](https://github.com/GeospatialPython/pyshp) - Reads and writes ESRI Shapefiles in pure Python.
+*   [rgeo-shapefile (⭐95)](https://github.com/rgeo/rgeo-shapefile) - RGeo Shapefile is an optional module for RGeo for reading geospatial data from ESRI shapefiles in Ruby.
 
 ### IoT, Hardware / Shapefiles
 
-*   [AgOpenGPS (⭐369)](https://github.com/farmerbriantee/AgOpenGPS) - Ag precision mapping and section control software.
-*   [DRO-Matic (⭐202)](https://github.com/drolsen/DRO-Matic) - Fully Automated Hydroponic OS for DIY DRO-Matic cabinets - Nutrient dosing, irrigation, topoffs, timers, EC & pH drift fixing.
-*   [OpenMinder (⭐26)](https://github.com/autogrow/openminder) - Open Source Rootzone Monitoring, API and open source hat for the RaspberryPi.
+*   [AgOpenGPS (⭐450)](https://github.com/farmerbriantee/AgOpenGPS) - Ag precision mapping and section control software.
+*   [DRO-Matic (⭐215)](https://github.com/drolsen/DRO-Matic) - Fully Automated Hydroponic OS for DIY DRO-Matic cabinets - Nutrient dosing, irrigation, topoffs, timers, EC & pH drift fixing.
+*   [OpenMinder (⭐30)](https://github.com/autogrow/openminder) - Open Source Rootzone Monitoring, API and open source hat for the RaspberryPi.
 
 ### Knowledgebases and Learning Resources / Shapefiles
 
-*   [Harvest Helper (⭐68)](https://github.com/damwhit/harvest_helper) -  Provides growing, harvesting and recipe information for the 45 plants in the database as well as a JSON API.
-*   [OpenFarm (⭐900)](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge built with Ruby on Rails.
+*   [Harvest Helper (⭐77)](https://github.com/damwhit/harvest_helper) -  Provides growing, harvesting and recipe information for the 45 plants in the database as well as a JSON API.
+*   [OpenFarm (⭐942)](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge built with Ruby on Rails.
 
 ### Remote Sensing and Imagery / Shapefiles
 
-*   [Awesome Sentinel (⭐438)](https://github.com/Fernerkundung/awesome-sentinel) - A curated list of awesome tools, tutorials and APIs related to data from the Copernicus Sentinel Satellites.
-*   [Raster Vision (⭐1.7k)](https://github.com/azavea/raster-vision) - Deep learning for aerial/satellite imagery.
-*   [Sen2Agri (⭐103)](https://github.com/Sen2Agri/Sen2Agri-System) - Software system processing high resolution satellite images for agricultural purposes.
+*   [Awesome Sentinel (⭐492)](https://github.com/Fernerkundung/awesome-sentinel) - A curated list of awesome tools, tutorials and APIs related to data from the Copernicus Sentinel Satellites.
+*   [Raster Vision (⭐1.9k)](https://github.com/azavea/raster-vision) - Deep learning for aerial/satellite imagery.
+*   [Sen2Agri (⭐110)](https://github.com/Sen2Agri/Sen2Agri-System) - Software system processing high resolution satellite images for agricultural purposes.
 
 ## [44. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -1391,7 +1382,7 @@
 
 ### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
-*   [Deutsch (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/de-DE)
+*   [Deutsch (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/de-DE)
 
 ## [48. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
@@ -1405,11 +1396,11 @@
 
 ### Hardware / Motor Controllers
 
-*   [grblShield (⭐130)](https://github.com/synthetos/grblShield) - All the stepper motor control hardware needed to turn an [Arduino](https://www.arduino.cc) into a G-code-based motion controller using the grbl firmware. ([adafruit](https://www.adafruit.com/product/1750))
-*   [TinyG (⭐831)](https://github.com/synthetos/TinyG) - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
+*   [grblShield (⭐129)](https://github.com/synthetos/grblShield) - All the stepper motor control hardware needed to turn an [Arduino](https://www.arduino.cc) into a G-code-based motion controller using the grbl firmware. ([adafruit](https://www.adafruit.com/product/1750))
+*   [TinyG (⭐844)](https://github.com/synthetos/TinyG) - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
 *   [Raspberry Pi CNC Hat](https://wiki.protoneer.co.nz/Raspberry_Pi_CNC) - Raspberry Pi add-on board w/ stepper controllers and a microcontroller running grbl. Interfaces with the Pi's serial pins.
 
-### Hardware / Accessories
+### Hardware / Accessories and Adapters
 
 *   [WiFi232](http://biosrhythm.com/?page_id=1453) - Wifi to RS-232 serial via a DB25 plug. Control your serial plotter wirelessly.
 *   [Plotter Cable Pinout](http://sites.music.columbia.edu/cmc/chiplotle/plotter_cable.pdf) - Schematic for a plotter cable that will work for most HP and Roland plotters. Search eBay or Amazon for `DB9 to DB25 Serial Null Modem Cable` or similar to find them for sale.
@@ -1421,34 +1412,34 @@
 
 ### Software / HPGL
 
-*   [Chiplotle (⭐28)](https://github.com/drepetto/chiplotle) - Python library for generating HPGL and interfacing with serial plotters.
+*   [Chiplotle (⭐31)](https://github.com/drepetto/chiplotle) - Python library for generating HPGL and interfacing with serial plotters.
 *   [HPGL Reference Guide](https://www.isoplotec.co.jp/HPGL/eHPGL.htm) - HTML-based HPGL Reference.
 *   [HP 7475A Interfacing and Programming Manual](https://archive.org/details/HP7475AInterfacingandProgrammingManual) - Scanned PDF manual that contains a full HPGL reference.
-*   [djipco/hpgl (⭐35)](https://github.com/djipco/hpgl) - A Node.js library to communicate with HPGL-compatible plotters and printers.
+*   [djipco/hpgl (⭐36)](https://github.com/djipco/hpgl) - A Node.js library to communicate with HPGL-compatible plotters and printers.
 *   [hp2xx](https://www.gnu.org/software/hp2xx) - GNU tool to convert HPGL into other vector and raster formats. Can also be used as a previewing in X11.
-*   [vec (⭐19)](https://github.com/anachrocomputer/vec) - Example C code for generating HPGL, with a turtle graphics interface.
+*   [vec (⭐23)](https://github.com/anachrocomputer/vec) - Example C code for generating HPGL, with a turtle graphics interface.
 *   [d3-hpgl (⭐19)](https://github.com/aubergene/d3-hpgl) - An adapter for the HTML Canvas API so you can output HPGL using the popular [D3](https://d3js.org) library.
-*   [HPGL Viewer (⭐13)](https://github.com/drskullster/HPGLViewer) - An HPGL Viewer using JavaScript and HTML5 canvas.
+*   [HPGL Viewer (⭐15)](https://github.com/drskullster/HPGLViewer) - An HPGL Viewer using JavaScript and HTML5 canvas.
 *   [HPGL Sender (⭐9)](https://github.com/LgHS/hpgl-sender) - A web interface for previewing HPGL and sending it to your plotter.
 
 ### Software / G-code
 
-*   [grbl (⭐5k)](https://github.com/grbl/grbl) - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino.
-*   [cncjs (⭐2k)](https://github.com/cncjs/cncjs) - A web-based interface controlling CNC machines running grbl, TinyG, or other G-code-based firmware.
-*   [Universal-G-Code-Sender (⭐1.6k)](https://github.com/winder/Universal-G-Code-Sender) - Java-based grbl-compatible cross-platform G-code sender.
+*   [grbl (⭐5.1k)](https://github.com/grbl/grbl) - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino.
+*   [cncjs (⭐2.1k)](https://github.com/cncjs/cncjs) - A web-based interface controlling CNC machines running grbl, TinyG, or other G-code-based firmware.
+*   [Universal-G-Code-Sender (⭐1.7k)](https://github.com/winder/Universal-G-Code-Sender) - Java-based grbl-compatible cross-platform G-code sender.
 *   [ChiliPeppr Hardware Fiddle](http://chilipeppr.com) - Modular web-based workspaces to visualize G-code and control hardware.
 
-### Software / Plotter-Specific
+### Software / Plotter Control
 
-*   [axi (⭐245)](https://github.com/fogleman/axi) - Unofficial Python library for the AxiDraw v3.
-*   [xy (⭐67)](https://github.com/fogleman/xy) - Utilities for the Makeblock XY Plotter Robot Kit.
-*   [LaserGRBL (⭐977)](https://github.com/arkypita/LaserGRBL) - Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements.
-*   [PenPlotter (⭐108)](https://github.com/RickMcConney/PenPlotter) - Polargraph controller that uses repetier firmware.
-*   [Makelangelo-firmware (⭐147)](https://github.com/MarginallyClever/Makelangelo-firmware) - Firmware for the Makelangelo polargraph robot.
-*   [RoboPaint (⭐117)](https://github.com/evil-mad/robopaint) - Software for the WaterColorBot.
-*   [AxiTurtle (⭐12)](https://github.com/ralphcrutzen/AxiTurtle) - Turtle graphics for AxiDraw in Processing.
-*   [GRBL-Plotter (⭐507)](https://github.com/svenhb/GRBL-Plotter) - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.
-*   [saxi (⭐396)](https://github.com/nornagon/saxi) - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.
+*   [axi (⭐261)](https://github.com/fogleman/axi) - Unofficial Python library for the AxiDraw v3.
+*   [xy (⭐68)](https://github.com/fogleman/xy) - Utilities for the Makeblock XY Plotter Robot Kit.
+*   [LaserGRBL (⭐1k)](https://github.com/arkypita/LaserGRBL) - Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements.
+*   [PenPlotter (⭐111)](https://github.com/RickMcConney/PenPlotter) - Polargraph controller that uses repetier firmware.
+*   [Makelangelo-firmware (⭐151)](https://github.com/MarginallyClever/Makelangelo-firmware) - Firmware for the Makelangelo polargraph robot.
+*   [RoboPaint (⭐122)](https://github.com/evil-mad/robopaint) - Software for the WaterColorBot.
+*   [AxiTurtle (⭐13)](https://github.com/ralphcrutzen/AxiTurtle) - Turtle graphics for AxiDraw in Processing.
+*   [GRBL-Plotter (⭐552)](https://github.com/svenhb/GRBL-Plotter) - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.
+*   [saxi (⭐420)](https://github.com/nornagon/saxi) - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.
 
 ### Software / Vector Creation
 
@@ -1456,36 +1447,36 @@
 *   [p5.js](https://p5js.org) - "JavaScript library that makes coding accessible for artists, designers, educators, and beginners".
 *   [Paper.js](http://paperjs.org) - "The Swiss Army Knife of Vector Graphics Scripting".
 *   [ln (⭐3.2k)](https://github.com/fogleman/ln) - Vector-based 3D renderer written in Go.
-*   [autotrace (⭐373)](https://github.com/autotrace/autotrace) - Converts bitmap images to vector graphics.
-*   [stipplegen (⭐382)](https://github.com/evil-mad/stipplegen) - Creates interesting stippled drawings from bitmap images. ([blog post](https://www.evilmadscientist.com/2012/stipplegen2))
-*   [SquiggleDraw (⭐294)](https://github.com/gwygonik/SquiggleDraw/commits/master) - "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves".
+*   [autotrace (⭐406)](https://github.com/autotrace/autotrace) - Converts bitmap images to vector graphics.
+*   [stipplegen (⭐392)](https://github.com/evil-mad/stipplegen) - Creates interesting stippled drawings from bitmap images. ([blog post](https://www.evilmadscientist.com/2012/stipplegen2))
+*   [SquiggleDraw (⭐301)](https://github.com/gwygonik/SquiggleDraw/commits/master) - "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves".
 *   [svgurt](https://svgurt.com) - Web-based PNG to SVG creative noodler.
-*   [maptrace (⭐117)](https://github.com/mzucker/maptrace) - Produce watertight polygonal vector maps by tracing raster images.
-*   [Drawbot\_image\_to\_gcode\_v2 (⭐141)](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) - Creates G-code for use on drawbots.
-*   [blackstripes (⭐87)](https://github.com/fullscreennl/blackstripes-python-extensions) - Turns a PNG image into a SVG line drawing.
-*   [Ribbon (⭐229)](https://github.com/fogleman/ribbon) - Ribbon diagrams of proteins in written in Go.
+*   [maptrace (⭐119)](https://github.com/mzucker/maptrace) - Produce watertight polygonal vector maps by tracing raster images.
+*   [Drawbot\_image\_to\_gcode\_v2 (⭐147)](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) - Creates G-code for use on drawbots.
+*   [blackstripes (⭐88)](https://github.com/fullscreennl/blackstripes-python-extensions) - Turns a PNG image into a SVG line drawing.
+*   [Ribbon (⭐235)](https://github.com/fogleman/ribbon) - Ribbon diagrams of proteins in written in Go.
 *   [penplot (⭐262)](https://github.com/mattdesl/penplot) - A development environment for plotter art in JavaScript.
 *   [penkit (⭐130)](https://github.com/paulgb/penkit) - A Python library for creating line-based SVG graphics.
-*   [generativeExamples (⭐59)](https://github.com/digitalcoleman/generativeExamples) - Example Processing code that generates plottable PDFs.
+*   [generativeExamples (⭐60)](https://github.com/digitalcoleman/generativeExamples) - Example Processing code that generates plottable PDFs.
 *   [Let's make map](https://svg-exporter.netlify.com) - Web-based tool to export an SVG map from Mapzen tiles.
 *   [SuperformulaSVG for web](https://jasonwebb.github.io/SuperformulaSVG-for-web) - A generative line art web app.
-*   [scribbleplot (⭐40)](https://github.com/bleeptrack/scribbleplot) - Scribbly image transformations in Processing.
+*   [scribbleplot (⭐44)](https://github.com/bleeptrack/scribbleplot) - Scribbly image transformations in Processing.
 *   [Maker.js](https://maker.js.org) - Library for creating 2D vector drawings for CNC and laser cutter machines.
 *   [Turtletoy](https://turtletoy.net) - Browser-based JavaScript turtle graphics API with SVG export.
 
 ### Software / Vector Utilities
 
-*   [svgsort (⭐230)](https://github.com/inconvergent/svgsort) - Path planning for plotting SVG files, reduces time spent moving with the pen up.
-*   [svgo (⭐19k)](https://github.com/svg/svgo) - Node.js-based tool for optimizing SVG files.
-*   [Polargraph Optimizer (⭐56)](https://github.com/ezheidtmann/polargraph-optimizer) - Optimize drawing plan for a polargraph.
+*   [svgsort (⭐236)](https://github.com/inconvergent/svgsort) - Path planning for plotting SVG files, reduces time spent moving with the pen up.
+*   [svgo (⭐20k)](https://github.com/svg/svgo) - Node.js-based tool for optimizing SVG files.
+*   [Polargraph Optimizer (⭐57)](https://github.com/ezheidtmann/polargraph-optimizer) - Optimize drawing plan for a polargraph.
 *   [penkit-optimize (⭐130)](https://github.com/paulgb/penkit/tree/master/optimizer) - An SVG optimizer that uses a vehicle routing solver to minimize plot time.
-*   [svg-crowbar (⭐835)](https://github.com/NYTimes/svg-crowbar) - Chrome-only bookmarklet for extracting SVG from an HTML document.
+*   [svg-crowbar (⭐837)](https://github.com/NYTimes/svg-crowbar) - Chrome-only bookmarklet for extracting SVG from an HTML document.
 
 ### Software / Fonts
 
 *   [Summary of single line fonts](http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml) - Good information and links to other resources and fonts.
 *   [Hershey Vector Font](http://paulbourke.net/dataformats/hershey) - `.fnt` format of vector fonts from the 60s. Includes a good overview of the original data format of the fonts.
-*   [hershey-fonts (⭐48)](https://github.com/kamalmostafa/hershey-fonts) - C library and original font data for the Hershey fonts.
+*   [hershey-fonts (⭐49)](https://github.com/kamalmostafa/hershey-fonts) - C library and original font data for the Hershey fonts.
 
 ### Inspiration, Instruction, and Research / Fonts
 
@@ -1504,7 +1495,7 @@
 
 ### Documentation tools / Components
 
-*   [ng-app-counter (⭐91)](https://github.com/Jamaks/ng-app-counter) : Count the number of Modules, Lazy Modules, Pipes, Providers, Directives, Components used in an Angular application.
+*   [ng-app-counter (⭐90)](https://github.com/Jamaks/ng-app-counter) : Count the number of Modules, Lazy Modules, Pipes, Providers, Directives, Components used in an Angular application.
 
 ### Developer tools / Components
 
@@ -1522,13 +1513,13 @@
 
 ### Deployment / Isomorphic web frameworks
 
-*   [cl-aws-runtime-test (⭐33)](https://github.com/y2q-actionman/cl-aws-custom-runtime-test) - An example of using Common Lisp (SBCL) as a custom runtime on AWS lambda. WTFPL.
+*   [cl-aws-runtime-test (⭐36)](https://github.com/y2q-actionman/cl-aws-custom-runtime-test) - An example of using Common Lisp (SBCL) as a custom runtime on AWS lambda. WTFPL.
 
 ## [51. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Mod Loaders / Archives
 
-*   [RopeMC (⭐5)](https://github.com/RopeMC/RopeMC) - A lightweight, reflection based mod loader which aims to be user friendly and later version independent.
+*   [RopeMC (⭐8)](https://github.com/RopeMC/RopeMC) - A lightweight, reflection based mod loader which aims to be user friendly and later version independent.
 
 ## [52. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
@@ -1574,23 +1565,23 @@
 
 ### Frameworks, Libraries and Tools / Bot
 
-*   [BotSharp (⭐1.3k)](https://github.com/SciSharp/BotSharp) - The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm.
-*   [Telegram.Bot (⭐2.4k)](https://github.com/TelegramBots/Telegram.Bot) - C# Telegram Bot API library.
-*   [Funogram (⭐81)](https://github.com/Dolfik1/Funogram) - F# Telegram Bot Api library.
+*   [BotSharp (⭐1.6k)](https://github.com/SciSharp/BotSharp) - The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm.
+*   [Telegram.Bot (⭐2.8k)](https://github.com/TelegramBots/Telegram.Bot) - C# Telegram Bot API library.
+*   [Funogram (⭐94)](https://github.com/Dolfik1/Funogram) - F# Telegram Bot Api library.
 
 ### Frameworks, Libraries and Tools / Build Automation
 
-*   [cake-build (⭐3.4k)](https://github.com/cake-build/cake) - Cross platform build automation system.
+*   [cake-build (⭐3.7k)](https://github.com/cake-build/cake) - Cross platform build automation system.
 *   [Colorful.Console (⭐1.2k)](https://github.com/tomakita/Colorful.Console) - Style your C# console output!
 
 ### Frameworks, Libraries and Tools / Distributed Computing
 
-*   [AspNetCore.Diagnostics.HealthChecks (⭐3.1k)](https://github.com/xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
-    *   [BeatPulse (⭐613)](https://github.com/Xabaril/BeatPulse) - Enable load balancers to montior the status of deployed Web applications
+*   [AspNetCore.Diagnostics.HealthChecks (⭐3.7k)](https://github.com/xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
+    *   [BeatPulse (⭐606)](https://github.com/Xabaril/BeatPulse) - Enable load balancers to montior the status of deployed Web applications
 
 ### Frameworks, Libraries and Tools / Security
 
-*   [JWT Simple Server (⭐190)](https://github.com/Xabaril/JWTSimpleServer) - A lightweight, dynamic jwt server for ASP.NET Core.
+*   [JWT Simple Server (⭐191)](https://github.com/Xabaril/JWTSimpleServer) - A lightweight, dynamic jwt server for ASP.NET Core.
 
 ## [54. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -1620,7 +1611,7 @@
 
 ### Text - Metadata/Text
 
-*   **Personality Detection** - Predict personality based on user documents (sentences). [Download (⭐15)](https://github.com/novinfard/profiler-sentiment-analysis/tree/master/ios_app/ProfilerSA/ML%20Models) | [Demo (⭐15)](https://github.com/novinfard/profiler-sentiment-analysis/) | [Reference (⭐15)](https://github.com/novinfard/profiler-sentiment-analysis/blob/master/dissertation-v6.pdf)
+*   **Personality Detection** - Predict personality based on user documents (sentences). [Download (⭐17)](https://github.com/novinfard/profiler-sentiment-analysis/tree/master/ios_app/ProfilerSA/ML%20Models) | [Demo (⭐17)](https://github.com/novinfard/profiler-sentiment-analysis/) | [Reference (⭐17)](https://github.com/novinfard/profiler-sentiment-analysis/blob/master/dissertation-v6.pdf)
 
 ### Miscellaneous
 
@@ -1630,43 +1621,43 @@
 
 ### Platforms
 
-*   [Robot Operating System 2.0 (⭐1.3k)](https://github.com/fkromer/awesome-ros2#readme) - Set of software libraries and tools that help you build robot apps.
+*   [Robot Operating System 2.0 (⭐1.4k)](https://github.com/fkromer/awesome-ros2#readme) - Set of software libraries and tools that help you build robot apps.
 
 ### Programming Languages
 
-*   [Q# (⭐139)](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
+*   [Q# (⭐146)](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
 
 ### Front-End Development
 
-*   [CSS (⭐4.4k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
+*   [CSS (⭐4.6k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
     *   [Critical-Path Tools (⭐1.1k)](https://github.com/addyosmani/critical-path-css-tools#readme)
     *   [Scalability (⭐1.5k)](https://github.com/davidtheclark/scalable-css-reading-list#readme)
-    *   [Must-Watch Talks (⭐4.5k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
-    *   [Protips (⭐25k)](https://github.com/AllThingsSmitty/css-protips#readme)
-    *   [Frameworks (⭐6.1k)](https://github.com/troxler/awesome-css-frameworks#readme)
+    *   [Must-Watch Talks (⭐4.6k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
+    *   [Protips (⭐26k)](https://github.com/AllThingsSmitty/css-protips#readme)
+    *   [Frameworks (⭐6.6k)](https://github.com/troxler/awesome-css-frameworks#readme)
 
 ### Gaming
 
-*   [PICO-8 (⭐2.3k)](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
-*   [Minecraft (⭐319)](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
+*   [PICO-8 (⭐2.4k)](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
+*   [Minecraft (⭐351)](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
 
 ### Databases
 
-*   [NoSQL Guides (⭐213)](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
+*   [NoSQL Guides (⭐227)](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
 
 ### Learn
 
-*   [CSS Learning (⭐2.9k)](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
+*   [CSS Learning (⭐3.1k)](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
 
 ### Decentralized Systems
 
-*   [EOSIO (⭐70)](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
+*   [EOSIO (⭐72)](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
 
 ### Miscellaneous
 
-*   [Board Games (⭐217)](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
-*   [Scientific Computing (⭐1k)](https://github.com/nschloe/awesome-scientific-computing#readme) - Solving complex scientific problems using computers.
-*   [Amazon Sellers (⭐228)](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
+*   [Board Games (⭐244)](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
+*   [Scientific Computing (⭐1.1k)](https://github.com/nschloe/awesome-scientific-computing#readme) - Solving complex scientific problems using computers.
+*   [Amazon Sellers (⭐257)](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
 
 ## [58. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -1724,7 +1715,7 @@
 
 ### Authentication and OAuth
 
-*   [OmniAuth (⭐7.7k)](https://github.com/omniauth/omniauth) - A library that standardizes multi-provider authentication utilizing Rack middleware.
+*   [OmniAuth (⭐7.8k)](https://github.com/omniauth/omniauth) - A library that standardizes multi-provider authentication utilizing Rack middleware.
 
 ### CMS
 
@@ -1758,11 +1749,11 @@
 
 ### Networking
 
-*   [Dnsruby (⭐186)](https://github.com/alexdalitz/dnsruby) - A pure Ruby DNS client library which implements a stub resolver. It aims to comply with all DNS RFCs.
+*   [Dnsruby (⭐189)](https://github.com/alexdalitz/dnsruby) - A pure Ruby DNS client library which implements a stub resolver. It aims to comply with all DNS RFCs.
 
 ### PDF
 
-*   [InvoicePrinter (⭐849)](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing in Ruby (built on top of Prawn).
+*   [InvoicePrinter (⭐861)](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing in Ruby (built on top of Prawn).
 
 ### Queues and Messaging
 
@@ -1775,7 +1766,7 @@
 
 ### Scheduling
 
-*   [Sidekiq-Cron (⭐1.7k)](https://github.com/ondrejbartas/sidekiq-cron) - A scheduling add-on for Sidekiq.
+*   [Sidekiq-Cron (⭐1.8k)](https://github.com/ondrejbartas/sidekiq-cron) - A scheduling add-on for Sidekiq.
 
 ### Social Networking
 
@@ -1803,13 +1794,13 @@
 
 ### Boilerplates / Themes
 
-*   [Create React App + Ant Design (⭐580)](https://github.com/ant-design/create-react-app-antd) - Use antd in create-react-app without ejecting
+*   [Create React App + Ant Design (⭐584)](https://github.com/ant-design/create-react-app-antd) - Use antd in create-react-app without ejecting
 
 ## [68. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Game Engine
 
-*   [Halley (⭐3.3k)](https://github.com/amzeratul/halley) - A lightweight game engine written in C++14 with a "true" entity-component system. \[Apache 2.0]
+*   [Halley (⭐3.4k)](https://github.com/amzeratul/halley) - A lightweight game engine written in C++14 with a "true" entity-component system. \[Apache 2.0]
 
 ---
 

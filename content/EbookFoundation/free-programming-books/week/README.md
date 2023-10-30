@@ -13,6 +13,24 @@
 - [Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
 - [Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md)
 
+## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
+
+### Java / Bootstrap
+
+*   [Hibernate Notes for Professionals](https://books.goalkicker.com/HibernateBook) - Compiled from StackOverflow Documentation (PDF)
+
+### Linux / TeX
+
+*   [Linux Notes for Professionals](https://books.goalkicker.com/LinuxBook) - Compiled from StackOverflow Documentation (PDF)
+
+### .NET Framework / PicoLisp
+
+*   [Entity Framework Notes for Professionals](https://books.goalkicker.com/EntityFrameworkBook) - Compiled from StackOverflow Documentation (PDF)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Programming Basics with Python](https://python-book.softuni.org) - Svetlin Nakov & Team
+
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
 ### C++ / Non-X86
@@ -307,7 +325,7 @@
 
 ### Python / Constraint Logic Programming (extended Prolog)
 
-*   [Learn Python 3 (⭐158)](https://github.com/animator/learn-python) - Ankit Mahato (PDF, HTML, Markdown)
+*   [Learn Python 3 (⭐159)](https://github.com/animator/learn-python) - Ankit Mahato (PDF, HTML, Markdown)
 *   [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/) - LearnXinYMinutes (HTML)
 
 ## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
@@ -535,7 +553,7 @@
 
 ### PHP / Laravel
 
-*   [Laravel Tips and Tricks (⭐148)](https://github.com/bobbyiliev/laravel-tips-and-tricks-ebook) - Bobby Iliev (Markdown, PDF)
+*   [Laravel Tips and Tricks (⭐150)](https://github.com/bobbyiliev/laravel-tips-and-tricks-ebook) - Bobby Iliev (Markdown, PDF)
 
 ### Python / Constraint Logic Programming (extended Prolog)
 
@@ -1020,8 +1038,8 @@
 
 ### Visual Prolog / Vulkan
 
-*   [Vulkan Tutorial Java (⭐142)](https://github.com/Naitsirc98/Vulkan-Tutorial-Java) - Cristian Herrera, et al. (Java)
-*   [Vulkan Tutorial RS (⭐622)](https://github.com/bwasty/vulkan-tutorial-rs) - Benjamin Wasty, et al. (:construction: *in process*) (Rust)
+*   [Vulkan Tutorial Java (⭐144)](https://github.com/Naitsirc98/Vulkan-Tutorial-Java) - Cristian Herrera, et al. (Java)
+*   [Vulkan Tutorial RS (⭐623)](https://github.com/bwasty/vulkan-tutorial-rs) - Benjamin Wasty, et al. (:construction: *in process*) (Rust)
 *   [Vulkano](https://vulkano.rs/guide/introduction) - Tomaka, et al. (HTML) (Rust)
 
 ## [Aug 22 - Aug 28, 2022](/content/2022/34/README.md)
@@ -1121,7 +1139,7 @@
 
 ### C++ / Non-X86
 
-*   [A Complete Guide to Standard C++ Algorithms (⭐800)](https://github.com/HappyCerberus/book-cpp-algorithms) - Šimon Tóth (PDF, LaTeX)
+*   [A Complete Guide to Standard C++ Algorithms (⭐814)](https://github.com/HappyCerberus/book-cpp-algorithms) - Šimon Tóth (PDF, LaTeX)
 
 ### HTML and CSS / Spock Framework
 
@@ -1137,7 +1155,7 @@
 
 ### Rust / Sinatra
 
-*   [From JavaScript to Rust ebook (⭐1.2k)](https://github.com/wasmflow/node-to-rust/raw/HEAD/from-javascript-to-rust.pdf) - Jarrod Overson (PDF)
+*   [From JavaScript to Rust ebook (⭐1.3k)](https://github.com/wasmflow/node-to-rust/raw/HEAD/from-javascript-to-rust.pdf) - Jarrod Overson (PDF)
 
 ## [Jul 11 - Jul 17, 2022](/content/2022/28/README.md)
 
@@ -1674,7 +1692,7 @@
 
 ### Graphs / GraphQL
 
-*   [Fullstack GraphQL (⭐590)](https://github.com/GraphQLCollege/fullstack-graphql)
+*   [Fullstack GraphQL (⭐593)](https://github.com/GraphQLCollege/fullstack-graphql)
 
 ### JavaScript / Ember.js
 
@@ -1866,7 +1884,7 @@
 
 ### SQL (implementation agnostic) / Play Scala
 
-*   [Introduction to SQL (⭐237)](https://github.com/bobbyiliev/introduction-to-sql) - Bobby Iliev (Markdown, PDF)
+*   [Introduction to SQL (⭐239)](https://github.com/bobbyiliev/introduction-to-sql) - Bobby Iliev (Markdown, PDF)
 
 ## [May 03 - May 09, 2021](/content/2021/18/README.md)
 
@@ -1951,7 +1969,7 @@
 
 ### .NET Core / PicoLisp
 
-*   [Clean Code .NET (⭐6.4k)](https://github.com/thangchung/clean-code-dotnet)
+*   [Clean Code .NET (⭐6.5k)](https://github.com/thangchung/clean-code-dotnet)
 *   [Entity Framework Core Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/entity-frame-work-core-succinctly) - Ricardo Peres
 *   [.NET documentation - Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/)
 *   [Using .NET Core, Docker, and Kubernetes Succinctly](https://www.syncfusion.com/ebooks/using-netcore-docker-and-kubernetes-succinctly) - Michele Aponte
@@ -2106,7 +2124,7 @@
 
 ### JavaScript / Node.js
 
-*   [Full Stack JavaScript: Learn Backbone.js, Node.js and MongoDB (⭐512)](https://github.com/azat-co/fullstack-javascript) - Azat Mardan
+*   [Full Stack JavaScript: Learn Backbone.js, Node.js and MongoDB (⭐511)](https://github.com/azat-co/fullstack-javascript) - Azat Mardan
 *   [Practical Node.js: Building Real-World Scalable Web Apps (⭐3.8k)](https://github.com/azat-co/practicalnode) - Azat Mardan
 
 ### Nim / PicoLisp
@@ -2189,7 +2207,7 @@
 
 *   [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html) - Axel Rauschmayer (HTML)
 *   [Book of Modern Frontend Tooling (⭐2.5k)](https://github.com/tooling/book-of-modern-frontend-tooling) - Various (HTML)
-*   [Clean Code JavaScript (⭐86k)](https://github.com/ryanmcdermott/clean-code-javascript) - Ryan McDermott (HTML)
+*   [Clean Code JavaScript (⭐87k)](https://github.com/ryanmcdermott/clean-code-javascript) - Ryan McDermott (HTML)
 *   [Crockford's JavaScript](http://www.crockford.com/javascript/) - Douglas Crockford (HTML)
 *   [Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js) - Axel Rauschmayer (HTML)
 *   [Designing Scalable JavaScript Applications](https://www.manning.com/books/designing-scalable-javascript-applications) - Emmit Scott (PDF+livebook)
@@ -2294,7 +2312,7 @@
 
 ### Ruby / Ruby on Rails
 
-*   [Api on Rails 6 (⭐356)](https://github.com/madeindjs/api_on_rails) - Alexandre Rousseau
+*   [Api on Rails 6 (⭐357)](https://github.com/madeindjs/api_on_rails) - Alexandre Rousseau
 *   [Ruby on Rails Notes for Professionals](https://goalkicker.com/RubyOnRailsBook/) - Compiled from StackOverflow Documentation (PDF)
 
 ### SQL (implementation agnostic) / Play Scala
@@ -3004,7 +3022,7 @@
 
 ### C / Non-X86
 
-*   [Bare-metal programming for ARM (⭐514)](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](http://umanovskis.se/files/arm-baremetal-ebook.pdf)
+*   [Bare-metal programming for ARM (⭐523)](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](http://umanovskis.se/files/arm-baremetal-ebook.pdf)
 
 ## [Jan 07 - Jan 13, 2019](/content/2019/1/README.md)
 
@@ -3803,7 +3821,7 @@
 
 ### Unix / Deno
 
-*   [Unix as IDE (⭐343)](https://github.com/mrzool/unix-as-ide) - Tom Ryder (epub, mobi)
+*   [Unix as IDE (⭐346)](https://github.com/mrzool/unix-as-ide) - Tom Ryder (epub, mobi)
 
 ## [Sep 26 - Oct 02, 2016](/content/2016/39/README.md)
 
@@ -4066,7 +4084,7 @@
 
 ### Ruby / Sinatra
 
-*   [Sinatra Book (⭐666)](https://github.com/sinatra/sinatra-book)
+*   [Sinatra Book (⭐667)](https://github.com/sinatra/sinatra-book)
 
 ## [Dec 14 - Dec 20, 2015](/content/2015/50/README.md)
 
@@ -4235,7 +4253,7 @@
 
 ### VHDL / Deno
 
-*   [Free Range VHDL (⭐202)](https://github.com/fabriziotappero/Free-Range-VHDL-book) - Bryan Mealy, Fabrizio Tappero (TeX and PDF)
+*   [Free Range VHDL (⭐204)](https://github.com/fabriziotappero/Free-Range-VHDL-book) - Bryan Mealy, Fabrizio Tappero (TeX and PDF)
 
 ## [Nov 16 - Nov 22, 2015](/content/2015/46/README.md)
 
@@ -4916,7 +4934,7 @@
 
 ### Erlang / Phoenix
 
-*   [Erlang Handbook (⭐295)](https://github.com/esl/erlang-handbook/raw/master/output/ErlangHandbook.pdf) (PDF)
+*   [Erlang Handbook (⭐296)](https://github.com/esl/erlang-handbook/raw/master/output/ErlangHandbook.pdf) (PDF)
 
 ### HTML and CSS / Spock Framework
 
@@ -4942,7 +4960,7 @@
 
 ### Perl / PicoLisp
 
-*   [SDL::Manual Writing Games in Perl (⭐62)](https://github.com/PerlGameDev/SDL_Manual)
+*   [SDL::Manual Writing Games in Perl (⭐63)](https://github.com/PerlGameDev/SDL_Manual)
 
 ## [Nov 18 - Nov 24, 2013](/content/2013/46/README.md)
 

@@ -28,7 +28,7 @@
 
 ### Modules / Date & Time
 
-*   [akamai-time-reference (⭐2)](https://github.com/jucrouzet/akamai-time-reference) - Get reference time using Akamai's time reference service.
+*   [akamai-time-reference (⭐3)](https://github.com/jucrouzet/akamai-time-reference) - Get reference time using Akamai's time reference service.
 
 ## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -52,13 +52,13 @@
 
 ### Framework Components
 
-*   [absinthe\_plug (⭐248)](https://github.com/absinthe-graphql/absinthe_plug) - Plug support for Absinthe.
+*   [absinthe\_plug (⭐250)](https://github.com/absinthe-graphql/absinthe_plug) - Plug support for Absinthe.
 
 ## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Gesture
 
-*   [SwiftyGestureRecognition (⭐161)](https://github.com/b3ll/SwiftyGestureRecognition) - UIGestureRecognizers in Xcode Playgrounds.
+*   [SwiftyGestureRecognition (⭐162)](https://github.com/b3ll/SwiftyGestureRecognition) - UIGestureRecognizers in Xcode Playgrounds.
 
 ## [10. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

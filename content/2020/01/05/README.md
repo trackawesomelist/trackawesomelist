@@ -16,11 +16,11 @@
 
 ### Productivity / Time Tracking
 
-*   [utt (⭐273)](https://github.com/larose/utt) - Simple time tracking tool.
+*   [utt (⭐279)](https://github.com/larose/utt) - Simple time tracking tool.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
 *   [ip-api](https://ip-api.com) — IP Geolocation API, Free for non-commercial use, no API key required, limited to 45 req/minute from the same IP address for the free plan.
 

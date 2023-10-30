@@ -1,18 +1,12 @@
 # Awesome List Updates on Oct 24, 2021
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### Tools for Teams and Collaboration
-
-*   [vspace](https://vvv.space/) — Free links manager with private/public spaces, includes slack and google docs integration and chrome plugin.
-
-## [2. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+## [1. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
 - Name: [Circle CI](https://circleci.com/)
 
@@ -41,24 +35,24 @@
 
 
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Audio and Music
 
-*   [pdeljanov/Symphonia (⭐1.6k)](https://github.com/pdeljanov/Symphonia) — A pure Rust audio decoding and media demuxing library supporting AAC, FLAC, MP3, MP4, OGG, Vorbis, and WAV.
+*   [pdeljanov/Symphonia (⭐1.8k)](https://github.com/pdeljanov/Symphonia) — A pure Rust audio decoding and media demuxing library supporting AAC, FLAC, MP3, MP4, OGG, Vorbis, and WAV.
 
-## [4. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
+## [3. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
 ### Dates and Time
 
 *   [RFC-3339 vs ISO-8601](https://ijmacd.github.io/rfc3339-iso8601/) - An giant list of formats from the two standards, how they overlaps, and live examples.
 
-## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Mocks and Fakes
 
-*   [bluegroundltd/kfactory (⭐52)](https://github.com/bluegroundltd/kfactory) - Fixture factory in Kotlin
-*   [moove-it/fakeit (⭐523)](https://github.com/moove-it/fakeit) - Generates realistic fake data — like names, emails, dates, countries — to be used in your Android development environment.
+*   [bluegroundltd/kfactory (⭐55)](https://github.com/bluegroundltd/kfactory) - Fixture factory in Kotlin
+*   [moove-it/fakeit (⭐530)](https://github.com/moove-it/fakeit) - Generates realistic fake data — like names, emails, dates, countries — to be used in your Android development environment.
 
 ### Libraries/Frameworks / Misc
 
@@ -66,29 +60,29 @@
 
 ### Android / Tests
 
-*   [KakaoCup/Compose (⭐83)](https://github.com/KakaoCup/Compose) - Nice and simple DSL for Espresso Compose UI testing in Kotlin
+*   [KakaoCup/Compose (⭐97)](https://github.com/KakaoCup/Compose) - Nice and simple DSL for Espresso Compose UI testing in Kotlin
 
-## [6. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+## [5. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [modelos\_vol\_derivativos (⭐38)](https://github.com/ysaporito/modelos_vol_derivativos) - "Modelos de Volatilidade para Derivativos" book's Jupyter notebooks
+*   [modelos\_vol\_derivativos (⭐52)](https://github.com/ysaporito/modelos_vol_derivativos) - "Modelos de Volatilidade para Derivativos" book's Jupyter notebooks
 
-## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Mathematics
 
-*   [WPF-Math (⭐509)](https://github.com/ForNeVeR/wpf-math) - a .NET library for rendering mathematical formulae using the LaTeX typesetting style, for the WPF framework
+*   [WPF-Math (⭐567)](https://github.com/ForNeVeR/wpf-math) - a .NET library for rendering mathematical formulae using the LaTeX typesetting style, for the WPF framework
 
 ### Office
 
-*   [Toxy (⭐311)](https://github.com/nissl-lab/toxy) - .NET text extraction framework supports a few file formats
+*   [Toxy (⭐328)](https://github.com/nissl-lab/toxy) - .NET text extraction framework supports a few file formats
 
 ### ORM
 
-*   [SqlSugar (⭐4.4k)](https://github.com/donet5/SqlSugar) - Another ORM library supports many RDBMS including MySql, SqlServer, Sqlite, Oracle, Postgresql
+*   [SqlSugar (⭐4.6k)](https://github.com/donet5/SqlSugar) - Another ORM library supports many RDBMS including MySql, SqlServer, Sqlite, Oracle, Postgresql
 
-## [8. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [7. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Bloggers / Book Deals (Affiliated) 🛍
 
@@ -98,13 +92,13 @@
 
 *   [MapLight](https://www.maplight.org/data-series) - provides a variety of data free of charge for uses that are freely available to the general public. Click on a data set below to learn more
 
-## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Utility / Barcode
 
-*   [Rugby (⭐529)](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
+*   [Rugby (⭐590)](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
 
-## [10. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Continuous Integration
 
@@ -282,14 +276,14 @@
 
 
 
-## [11. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [10. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Resources / Books
 
 *   [Two Scoops of Django 3.x: Best Practices for the Django Web Framework](https://www.feldroy.com/books/two-scoops-of-django-3-x)
 *   [A Wedge of Django: Covers Python 3.8 and Django 3.x](https://www.feldroy.com/books/a-wedge-of-django)
 
-## [12. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [11. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Strategy
 

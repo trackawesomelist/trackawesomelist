@@ -78,7 +78,7 @@
 
 ### Breda
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/detonite" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/detonite" height="70px" width="70px" align="left" alt="" />
 
 **Job van Achterberg**\
 Topics: Accessibility\
@@ -88,7 +88,7 @@ Topics: Accessibility\
 
 ### Kingston
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/svinkle" height="70px" width="70px" align="left" alt="">
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/svinkle" height="70px" width="70px" align="left" alt="">
 
 **Scott Vinkle**\
 Topics: Accessibility\
@@ -98,41 +98,41 @@ Topics: Accessibility\
 
 ### Buffalo
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/aardrian" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/aardrian" height="70px" width="70px" align="left" alt="" />
 
 **Adrian Roselli**\
 Topics: Accessibility\
 <https://twitter.com/aardrian>
 ### Chapel Hill
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/shepazu" height="70px" width="70px" align="left" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/shepazu" height="70px" width="70px" align="left" />
 
 **Doug Schepers**\
 Topics: Data visualization, Accessibility, SVG\
 <https://twitter.com/shepazu>
 ### Madison
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/cariefisher" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/cariefisher" height="70px" width="70px" align="left" alt="" />
 
 **Carie Fisher**\
 Topics: Accessibility\
 <https://twitter.com/cariefisher>
 ### Redwood City
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jessebeach" height="70px" width="70px" align="left" alt="">
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/jessebeach" height="70px" width="70px" align="left" alt="">
 
 **Jesse Beach**\
 Topics: Accessibility, React\
 <https://twitter.com/jessebeach>
 ### Seattle
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/DevWithTheHair" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/DevWithTheHair" height="70px" width="70px" align="left" alt="" />
 
 **Jaime Lopez**\
 Topics: iOS, Swift, Software Architecture, Development Processes\
 <https://twitter.com/DevWithTheHair>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ShellELittle" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/ShellELittle" height="70px" width="70px" align="left" alt="" />
 
 **Shell Little**\
 Topics: Accessibility\
@@ -172,7 +172,7 @@ Topics: Accessibility\
 
 ### GTFS Analysis Tools / Ruby
 
-*   [Peartree (⭐193)](https://github.com/kuanb/peartree) - A Python library for converting transit data into a directed graph for network analysis.
+*   [Peartree (⭐194)](https://github.com/kuanb/peartree) - A Python library for converting transit data into a directed graph for network analysis.
 *   [transitr (⭐20)](https://github.com/tmelliott/transitr) - An R package for constructing and modelling a transit network in real time to obtain vehicle ETAs
 
 ## [8. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
@@ -195,7 +195,7 @@ Topics: Accessibility\
 
 ### Intermediate
 
-#### [1 Million Women To Tech Summer of Code (⭐625)](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
+#### [1 Million Women To Tech Summer of Code (⭐623)](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
 
 **Free** programming course material for beginner, intermediate and advanced levels\
 *(Python, JavaScript, Data Science, artificial intelligence, machine learning, AR & VR)*
@@ -259,7 +259,7 @@ Topics: Accessibility\
 
 ### Other Tools / Telegram
 
-*   [Photon (⭐9.6k)](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
+*   [Photon (⭐10k)](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
 
 ---
 

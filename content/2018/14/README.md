@@ -21,19 +21,19 @@
 
 ### Other Data
 
-*   [KeyPathKit (⭐410)](https://github.com/vincent-pradeilles/KeyPathKit) - KeyPathKit provides a seamless syntax to manipulate data using typed keypaths.
+*   [KeyPathKit (⭐416)](https://github.com/vincent-pradeilles/KeyPathKit) - KeyPathKit provides a seamless syntax to manipulate data using typed keypaths.
 
 ### Socket / Barcode
 
-*   [sockets (⭐575)](https://github.com/vapor-community/sockets) :penguin: - TCP, UDP; Client, Server; Linux, OS X.
+*   [sockets (⭐574)](https://github.com/vapor-community/sockets) :penguin: - TCP, UDP; Client, Server; Linux, OS X.
 
 ### Quality / Barcode
 
-*   [IBLinter (⭐947)](https://github.com/IBDecodable/IBLinter) - A linter tool for Interface Builder.
+*   [IBLinter (⭐952)](https://github.com/IBDecodable/IBLinter) - A linter tool for Interface Builder.
 
 ### Text / Barcode
 
-*   [MarkdownKit (⭐710)](https://github.com/bmoliveira/MarkdownKit) - A simple and customizable Markdown Parser.
+*   [MarkdownKit (⭐739)](https://github.com/bmoliveira/MarkdownKit) - A simple and customizable Markdown Parser.
 
 ## [4. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -73,29 +73,29 @@
 
 ### Command-Line Productivity
 
-*   [q (⭐61)](https://github.com/cal2195/q) - Vim like macro registers for your Bash and Zsh Shell
+*   [q (⭐62)](https://github.com/cal2195/q) - Vim like macro registers for your Bash and Zsh Shell
 
 ### For Developers / Directory Navigation
 
-*   [licins (⭐21)](https://github.com/dogoncouch/licins) - Insert commented software licenses into source code.
+*   [licins (⭐22)](https://github.com/dogoncouch/licins) - Insert commented software licenses into source code.
 
 ### System Utilities / Directory Navigation
 
-*   [progress (⭐5.9k)](https://github.com/Xfennec/progress) - Linux tool to show progress for `cp`, `rm`, `dd`, and more...
-*   [stronghold (⭐981)](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal.
+*   [progress (⭐7.4k)](https://github.com/Xfennec/progress) - Linux tool to show progress for `cp`, `rm`, `dd`, and more...
+*   [stronghold (⭐1k)](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal.
 *   [xiringuito (⭐1.1k)](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [adb-export (⭐96)](https://github.com/sromku/adb-export) - Export Android content providers to CSV format
+*   [adb-export (⭐97)](https://github.com/sromku/adb-export) - Export Android content providers to CSV format
 
 ### Games / Directory Navigation
 
-*   [piu-piu (⭐685)](https://github.com/vaniacer/piu-piu-SH) - Horizontal scroller game in bash with multiplayer mode!
+*   [piu-piu (⭐698)](https://github.com/vaniacer/piu-piu-SH) - Horizontal scroller game in bash with multiplayer mode!
 
 ### Shell Script Development / Directory Navigation
 
-*   [phases (⭐12)](https://github.com/sorokine/phases) - Minimally invasive bash preprocessor, select sections of your script to run
+*   [phases (⭐13)](https://github.com/sorokine/phases) - Minimally invasive bash preprocessor, select sections of your script to run
 
 ## [9. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -111,7 +111,7 @@
 
 ### ORM/ODM Extensions
 
-*   [granite (⭐269)](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite
+*   [granite (⭐287)](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite
 
 ## [11. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
@@ -159,7 +159,7 @@
 
 ### Tools / Community Chat Rooms
 
-*   [svd2rust (⭐553)](https://github.com/japaric/svd2rust) Generate Rust structs with register mappings from SVD files.
+*   [svd2rust (⭐598)](https://github.com/japaric/svd2rust) Generate Rust structs with register mappings from SVD files.
 *   [bindgen](https://crates.io/crates/bindgen) Automatically generates Rust FFI bindings to C and C++ libraries. - ![crates.io](https://img.shields.io/crates/v/bindgen.svg)
 *   [cortex-m semihosting (⭐0)](https://github.com/japaric/cortex-m-semihosting) Semihosting for ARM Cortex-M processors
 
@@ -338,29 +338,29 @@
 
 ### Software / VPN
 
-*   [sshuttle (⭐9.9k)](https://github.com/sshuttle/sshuttle) - Poor man's VPN.
+*   [sshuttle (⭐10k)](https://github.com/sshuttle/sshuttle) - Poor man's VPN. `LGPL-2.1` `Python`
 
 ## [21. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
 ### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
-*   [Polskie (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pl-PL)
+*   [Polskie (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pl-PL)
 
 ## [22. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Containers
 
-*   [Colony (⭐358)](https://github.com/mattreecebentley/plf_colony) - An unordered "bag"-type container which outperforms std containers in high-modification scenarios while maintaining permanent pointers to non-erased elements regardless of insertion/erasure. \[zLib] [website](http://www.plflib.org/colony.htm)
-*   [plf::list (⭐124)](https://github.com/mattreecebentley/plf_list) - A std::list implementation which removes range splicing in order to enable cache-friendlier structure, yielding significant performance gains. \[zLib] [website](http://www.plflib.org/list.htm)
-*   [plf::stack (⭐54)](https://github.com/mattreecebentley/plf_stack) - A replacement container for the std::stack container adaptor, with better performance than any std container in a stack context. \[zLib] [website](http://www.plflib.org/stack.htm)
+*   [Colony (⭐368)](https://github.com/mattreecebentley/plf_colony) - An unordered "bag"-type container which outperforms std containers in high-modification scenarios while maintaining permanent pointers to non-erased elements regardless of insertion/erasure. \[zLib] [website](http://www.plflib.org/colony.htm)
+*   [plf::list (⭐132)](https://github.com/mattreecebentley/plf_list) - A std::list implementation which removes range splicing in order to enable cache-friendlier structure, yielding significant performance gains. \[zLib] [website](http://www.plflib.org/list.htm)
+*   [plf::stack (⭐56)](https://github.com/mattreecebentley/plf_stack) - A replacement container for the std::stack container adaptor, with better performance than any std container in a stack context. \[zLib] [website](http://www.plflib.org/stack.htm)
 
 ### Debug
 
-*   [Nanotimer (⭐113)](https://github.com/mattreecebentley/plf_nanotimer) - A simple low-overhead cross-platform timer class for benchmarking. \[zLib] [website](http://www.plflib.org/nanotimer.htm)
+*   [Nanotimer (⭐118)](https://github.com/mattreecebentley/plf_nanotimer) - A simple low-overhead cross-platform timer class for benchmarking. \[zLib] [website](http://www.plflib.org/nanotimer.htm)
 
 ### Sorting
 
-*   [Timsort (⭐273)](https://github.com/gfx/cpp-TimSort) - A templated stable sorting function which outperforms quicksort-based algorithms including std::sort, for reversed or semi-sorted data. \[MIT]
+*   [Timsort (⭐280)](https://github.com/gfx/cpp-TimSort) - A templated stable sorting function which outperforms quicksort-based algorithms including std::sort, for reversed or semi-sorted data. \[MIT]
 
 ## [23. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
@@ -374,7 +374,7 @@
 
 *   [ack](https://beyondgrep.com) - A tool like grep, optimized for programmers. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [archey-osx](http://obihann.github.io/archey-osx/) - An archey script for OS X. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/obihann/archey-osx) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [autojump (⭐15k)](https://github.com/wting/autojump/wiki) - Replace `cd` with an intelligent autojump to easily navigate directories from the command line. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wting/autojump) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [autojump (⭐16k)](https://github.com/wting/autojump/wiki) - Replace `cd` with an intelligent autojump to easily navigate directories from the command line. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wting/autojump) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [ccat (⭐3.1k)](https://github.com/jingweno/ccat) - The colorizing cat which works similar to cat but displays content with syntax highlighting. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jingweno/ccat) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [25. Awesome Python](/content/vinta/awesome-python/week/README.md)
@@ -382,14 +382,14 @@
 ### Interactive Interpreter
 
 *   [Jupyter Notebook (IPython)](https://jupyter.org) - A rich toolkit to help you make the most out of using Python interactively.
-    *   [awesome-jupyter (⭐3.2k)](https://github.com/markusschanta/awesome-jupyter)
+    *   [awesome-jupyter (⭐3.4k)](https://github.com/markusschanta/awesome-jupyter)
 
 ## [26. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / Python
 
 *   [Flask-Stupe (⭐27)](https://github.com/numberly/flask-stupe) - Flask extension that adds PyMongo support to Flask
-*   [Motor (⭐2.1k)](https://github.com/mongodb/motor) - Official non-blocking Python driver for Tornado or asyncio
+*   [Motor (⭐2.2k)](https://github.com/mongodb/motor) - Official non-blocking Python driver for Tornado or asyncio
 
 ## [27. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -517,19 +517,19 @@
 
 ### Endpoint / Forensics
 
-*   [Logdissect (⭐127)](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
+*   [Logdissect (⭐131)](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
 
 ## [40. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Command Line Tools
 
-*   [Logdissect (⭐122)](https://github.com/dogoncouch/logdissect/) - CLI utility and Python API for analyzing log files and other data. ([MIT (⭐122)](https://github.com/dogoncouch/logdissect/blob/master/LICENSE))
+*   [Logdissect (⭐129)](https://github.com/dogoncouch/logdissect/) - CLI utility and Python API for analyzing log files and other data. ([MIT (⭐129)](https://github.com/dogoncouch/logdissect/blob/master/LICENSE))
 
 ## [41. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [TypeGQL (⭐419)](https://github.com/prismake/typegql) - Set of tools for creating GraphQL schema directly from typed TypeScript class.
+*   :octocat: [TypeGQL (⭐422)](https://github.com/prismake/typegql) - Set of tools for creating GraphQL schema directly from typed TypeScript class.
 
 ## [42. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
@@ -545,11 +545,11 @@
 
 ### Frameworks, Libraries and Tools / Compilers, Transpilers and Languages
 
-*   [Fable (⭐2.5k)](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler.
+*   [Fable (⭐2.7k)](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler.
 
 ## [44. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
-### United States 🇺🇸 / Massachusetts   <a id="massachusetts">  </a>
+### United States 🇺🇸 / Massachusetts <a id="massachusetts"></a>
 
 #### The Bun Shop
 
@@ -615,7 +615,7 @@
 *   [Transport API](https://www.transportapi.com/) - REST API for aggregated transit data for the United Kingdom.  Fee-based access.
 *   [TransLoc OpenAPI](https://market.mashape.com/transloc/openapi-1-2) - REST API for real-time vehicle, route, stop, and arrival data for over 60 transit systems in the United States that have purchased TransLoc's AVL hardware and software.
 *   [NextBus API](http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf) - REST API for real-time vehicle, route, stop, and arrival data for agencies that have puchased NextBus's hardware and/or software.
-*   [CityBikes](http://api.citybik.es) - REST API for aggregated bikeshare data from around the world. Powered by [pyBikes (⭐502)](https://github.com/eskerda/pybikes).
+*   [CityBikes](http://api.citybik.es) - REST API for aggregated bikeshare data from around the world. Powered by [pyBikes (⭐516)](https://github.com/eskerda/pybikes).
 
 ### Software for Creating APIs
 
@@ -649,7 +649,7 @@
 
 ### Machine Learning and Data Science
 
-*   [GeneticSharp (⭐1.1k)](https://github.com/giacomelli/GeneticSharp) - Multi-platform genetic algorithm library for .NET Core and .NET Framework. The library has several implementations of GA operators, like: selection, crossover, mutation, reinsertion and termination.
+*   [GeneticSharp (⭐1.2k)](https://github.com/giacomelli/GeneticSharp) - Multi-platform genetic algorithm library for .NET Core and .NET Framework. The library has several implementations of GA operators, like: selection, crossover, mutation, reinsertion and termination.
 
 ## [51. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 

@@ -23,45 +23,45 @@
 
 ### Network Tools / Intentionally Vulnerable Systems as Docker Containers
 
-*   [Zarp (⭐1.3k)](https://github.com/hatRiot/zarp) - Network attack tool centered around the exploitation of local networks.
-*   [dnstwist (⭐3.7k)](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting typo squatting, phishing and corporate espionage.
+*   [Zarp (⭐1.4k)](https://github.com/hatRiot/zarp) - Network attack tool centered around the exploitation of local networks.
+*   [dnstwist (⭐4.2k)](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting typo squatting, phishing and corporate espionage.
 
 ### Network Tools / Protocol Analyzers and Sniffers
 
-*   [Netzob (⭐674)](https://github.com/netzob/netzob) - Reverse engineering, traffic generation and fuzzing of communication protocols.
+*   [Netzob (⭐727)](https://github.com/netzob/netzob) - Reverse engineering, traffic generation and fuzzing of communication protocols.
 
 ### Network Tools / Proxies and Machine-in-the-Middle (MITM) Tools
 
-*   [Morpheus (⭐771)](https://github.com/r00t-3xp10it/morpheus) - Automated ettercap TCP/IP Hijacking tool.
-*   [SSH MITM (⭐1.5k)](https://github.com/jtesta/ssh-mitm) - Intercept SSH connections with a proxy; all plaintext passwords and sessions are logged to disk.
+*   [Morpheus (⭐818)](https://github.com/r00t-3xp10it/morpheus) - Automated ettercap TCP/IP Hijacking tool.
+*   [SSH MITM (⭐1.6k)](https://github.com/jtesta/ssh-mitm) - Intercept SSH connections with a proxy; all plaintext passwords and sessions are logged to disk.
 
 ## [4. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
 ### :sparkles: Tutorials
 
-*   [How to *evolve* neural networks in Ruby using the Machine Learning Workbench (⭐18)](https://github.com/giuse/machine_learning_workbench/blob/master/examples/neuroevolution.rb)
+*   [How to *evolve* neural networks in Ruby using the Machine Learning Workbench (⭐19)](https://github.com/giuse/machine_learning_workbench/blob/master/examples/neuroevolution.rb)
 
 ### Machine Learning Libraries / Frameworks
 
-*   [machine\_learning\_workbench (⭐18)](https://github.com/giuse/machine_learning_workbench) -
+*   [machine\_learning\_workbench (⭐19)](https://github.com/giuse/machine_learning_workbench) -
     Growing machine learning framework written in pure Ruby, high performance computing using
-    [Numo](https://github.com/ruby-numo/), CUDA bindings through [Cumo (⭐90)](https://github.com/sonots/cumo).
+    [Numo](https://github.com/ruby-numo/), CUDA bindings through [Cumo (⭐92)](https://github.com/sonots/cumo).
     Currently implementating neural networks, evolutionary strategies, vector quantization, and plenty of
     examples and utilities.
 *   [Deep NeuroEvolution (⭐126)](https://github.com/giuse/DNE) -
-    Experimental setup based on the [machine\_learning\_workbench (⭐18)](https://github.com/giuse/machine_learning_workbench)
+    Experimental setup based on the [machine\_learning\_workbench (⭐19)](https://github.com/giuse/machine_learning_workbench)
     towards searching for deep neural networks (rather than training) using evolutionary algorithms. Applications to the
-    [OpenAI Gym (⭐31k)](https://github.com/openai/gym) using [PyCall (⭐894)](https://github.com/mrkn/pycall.rb).
+    [OpenAI Gym (⭐33k)](https://github.com/openai/gym) using [PyCall (⭐996)](https://github.com/mrkn/pycall.rb).
 
 ### Machine Learning Libraries / Neural networks
 
-*   [machine\_learning\_workbench (⭐18)](https://github.com/giuse/machine_learning_workbench/tree/master/lib/machine_learning_workbench/neural_network) -
+*   [machine\_learning\_workbench (⭐19)](https://github.com/giuse/machine_learning_workbench/tree/master/lib/machine_learning_workbench/neural_network) -
     Framework including pure-Ruby implementation of both feed-forward and recurrent neural networks
     (fully connected). Training available using neuroevolution (Natural Evolution Strategies algorithms).
 
 ### Machine Learning Libraries / Evolutionary algorithms
 
-*   [machine\_learning\_workbench (⭐18)](https://github.com/giuse/machine_learning_workbench/tree/master/lib/machine_learning_workbench/optimizer/natural_evolution_strategies) -
+*   [machine\_learning\_workbench (⭐19)](https://github.com/giuse/machine_learning_workbench/tree/master/lib/machine_learning_workbench/optimizer/natural_evolution_strategies) -
     Framework including pure-Ruby implementations of Natural Evolution Strategy algorithms
     (black-box optimization), specifically Exponential NES (XNES),
     Separable NES (sNES), Block-Diagonal NES (BDNES) and more.
@@ -77,11 +77,11 @@
 
 ### Frameworks, Libraries and Tools / Mail
 
-*   [netDumbster (⭐107)](https://github.com/cmendible/netDumbster) - a .Net Fake SMTP Server used for testing. Clone of the popular Dumbster.
+*   [netDumbster (⭐114)](https://github.com/cmendible/netDumbster) - a .Net Fake SMTP Server used for testing. Clone of the popular Dumbster.
 
 ### Frameworks, Libraries and Tools / Serialization
 
-*   [CsvHelper (⭐3.9k)](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files.
+*   [CsvHelper (⭐4.3k)](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files.
 
 ## [6. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
@@ -93,7 +93,7 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [Testura.Code (⭐274)](https://github.com/Testura/Testura.Code) - Wrapper around the Roslyn API and used for generation, saving and compiling C# code. It provides methods and helpers to generate classes, methods, statements and expressions.
+*   [Testura.Code (⭐281)](https://github.com/Testura/Testura.Code) - Wrapper around the Roslyn API and used for generation, saving and compiling C# code. It provides methods and helpers to generate classes, methods, statements and expressions.
 
 ## [8. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
 

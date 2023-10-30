@@ -42,13 +42,13 @@
 
 ### Deployment Examples
 
-*   [Keycloak deployment with CDK on AWS with Fargate (⭐71)](https://github.com/aws-samples/cdk-keycloak)
+*   [Keycloak deployment with CDK on AWS with Fargate (⭐79)](https://github.com/aws-samples/cdk-keycloak)
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Syntax / Diagnostics
 
-*   [nvim-treesitter/nvim-treesitter-textobjects (⭐1.2k)](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - Create your own textobjects using tree-sitter queries.
+*   [nvim-treesitter/nvim-treesitter-textobjects (⭐1.5k)](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - Create your own textobjects using tree-sitter queries.
 
 ## [6. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 
@@ -64,13 +64,13 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Fes.js (⭐1.1k)](https://github.com/WeBankFinTech/fes.js/blob/master/README.en-US.md) - An easy-to-use front-end application framework based on vue3.
+*   [Fes.js (⭐1.2k)](https://github.com/WeBankFinTech/fes.js/blob/master/README.en-US.md) - An easy-to-use front-end application framework based on vue3.
 
 ## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [RetroShare](https://retroshare.cc) - Secured and decentralized communication system. Offers decentralized chat, forums, messaging, file transfer. ([Source Code (⭐1.5k)](https://github.com/RetroShare/RetroShare)) `GPL-2.0` `C++`
+*   [RetroShare](https://retroshare.cc) - Secured and decentralized communication system. Offers decentralized chat, forums, messaging, file transfer. ([Source Code (⭐1.6k)](https://github.com/RetroShare/RetroShare)) `GPL-2.0` `C++`
 
 ## [9. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 

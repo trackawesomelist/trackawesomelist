@@ -16,7 +16,7 @@
 
 ### Standalone / Hash functions
 
-*   [blackbox (⭐6.4k)](https://github.com/StackExchange/blackbox) - safely store secrets in Git/Mercurial/Subversion.
+*   [blackbox (⭐6.5k)](https://github.com/StackExchange/blackbox) - safely store secrets in Git/Mercurial/Subversion.
 
 ### Web-tools / Git
 

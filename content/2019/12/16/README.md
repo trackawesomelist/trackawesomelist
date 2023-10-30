@@ -10,7 +10,7 @@
 
 ### Image - Metadata/Text
 
-*   **DepthPrediction** - Predict the depth from a single image. [Download](https://developer.apple.com/machine-learning/models/) | [Demo (⭐112)](https://github.com/tucan9389/DepthPrediction-CoreML) | [Reference (⭐1.1k)](https://github.com/iro-cp/FCRN-DepthPrediction)
+*   **DepthPrediction** - Predict the depth from a single image. [Download](https://developer.apple.com/machine-learning/models/) | [Demo (⭐125)](https://github.com/tucan9389/DepthPrediction-CoreML) | [Reference (⭐1.1k)](https://github.com/iro-cp/FCRN-DepthPrediction)
 
 ## [2. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Image
 
-*   [BSZoomGridScrollView (⭐150)](https://github.com/boraseoksoon/BSZoomGridScrollView) - iOS customizable grid style scrollView UI library to display your UIImage array input, designed primarily for SwiftUI as well as to interoperate with UIKit.
+*   [BSZoomGridScrollView (⭐156)](https://github.com/boraseoksoon/BSZoomGridScrollView) - iOS customizable grid style scrollView UI library to display your UIImage array input, designed primarily for SwiftUI as well as to interoperate with UIKit.
 
 ## [4. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
@@ -40,13 +40,13 @@
 
 ### Development Environment
 
-*   [GitHub Actions (⭐21k)](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
+*   [GitHub Actions (⭐23k)](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
 
 ## [7. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Dynamic Analysis Tools
 
-*   [Android Malware Sandbox (⭐247)](https://github.com/Areizen/Android-Malware-Sandbox)
+*   [Android Malware Sandbox (⭐252)](https://github.com/Areizen/Android-Malware-Sandbox)
 
 ## [8. Awesome Video](/content/krzemienski/awesome-video/README.md)
 

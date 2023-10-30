@@ -30,20 +30,14 @@
 
 *   [Custom Resources with AWS CDK](https://medium.com/cyberark-engineering/custom-resources-with-aws-cdk-d9a8fad6b673?source=friends_link\&sk=549fcf9d998bbea304bdd8d834aca9e6) - By Roy Ben-Yosef.
 
-## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
-
-### Plugins
-
-*   🛑💼 [Caret Color (⭐12)](https://github.com/naoray/tailwind-caret-color) - Adds `caret` color utilities.
-
-## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [5. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Database
 
-*   [next.jdbc (⭐668)](https://github.com/seancorfield/next-jdbc)
-*   [clojure.java.jdbc (⭐702)](https://github.com/clojure/java.jdbc)
+*   [next.jdbc (⭐674)](https://github.com/seancorfield/next-jdbc)
+*   [clojure.java.jdbc (⭐709)](https://github.com/clojure/java.jdbc)
 
-## [7. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [6. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
@@ -51,11 +45,17 @@
 *   [Breach](https://www.carbonite.com/podcasts/breach/) - A podcast exploring data breaches and cybersecurity by Carbonite.
 *   [Land of Giants](https://www.vox.com/land-of-the-giants-podcast) - Facebook. Apple. Amazon. Netflix. Google. This podcast examine how it got its power, what it's doing with it, and what might happen to in the future.
 
+## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### JavaScript / Vue.js
+
+*   [30 Days Of Vue](https://www.newline.co/30-days-of-vue) - Hassan Djirdeh (HTML; *email required for PDF*)
+
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-gauge (⭐11)](https://github.com/chrisheanan/vue-gauge) - Vue.js component to create animated svg gauge charts
+*   [vue-gauge (⭐12)](https://github.com/chrisheanan/vue-gauge) - Vue.js component to create animated svg gauge charts
 
 ## [9. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Gaming
 
-*   [Games of Coding (⭐1.6k)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
+*   [Games of Coding (⭐1.7k)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
 
 ---
 

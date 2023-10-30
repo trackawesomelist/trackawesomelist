@@ -86,8 +86,8 @@
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [Flutter-animation-set (⭐271)](https://github.com/efoxTeam/flutter-animation-set) <!--stargazers:efoxTeam/flutter-animation-set--> - Easy to build an animation set by [efoxTeam](https://github.com/efoxTeam)
-*   [Staggered Animations (⭐1.2k)](https://github.com/mobiten/flutter_staggered_animations) <!--stargazers:mobiten/flutter_staggered_animations--> - Easily add staggered animations to your ListView, GridView, Column and Row by [mobiten](https://mobiten.com/)
+*   [Flutter-animation-set (⭐273)](https://github.com/efoxTeam/flutter-animation-set) <!--stargazers:efoxTeam/flutter-animation-set--> - Easy to build an animation set by [efoxTeam](https://github.com/efoxTeam)
+*   [Staggered Animations (⭐1.4k)](https://github.com/mobiten/flutter_staggered_animations) <!--stargazers:mobiten/flutter_staggered_animations--> - Easily add staggered animations to your ListView, GridView, Column and Row by [mobiten](https://mobiten.com/)
 
 ## [4. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 

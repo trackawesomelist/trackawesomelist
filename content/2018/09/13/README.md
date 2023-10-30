@@ -16,7 +16,7 @@
 
 ### Templates / Preferences
 
-*   [The Gorgeous Login (⭐1.6k)](https://github.com/huextrat/TheGorgeousLogin) <!--stargazers:huextrat/TheGorgeousLogin--> - Design and smooth login template by [Hugo Extrat](https://github.com/huextrat)
+*   [The Gorgeous Login (⭐1.7k)](https://github.com/huextrat/TheGorgeousLogin) <!--stargazers:huextrat/TheGorgeousLogin--> - Design and smooth login template by [Hugo Extrat](https://github.com/huextrat)
 
 ## [3. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -39,17 +39,17 @@
 
 ### Artifact Repos
 
-*   [central.sonatype.org](https://central.sonatype.org) — The default artifact repository for Apache Maven, SBT and other build systems.
-*   [cloudsmith.io](https://cloudsmith.io) — Simple, secure and centralised repository service for Java/Maven, RedHat, Debian, Python, Ruby, Vagrant +more. Free tier + free for open source.
+*   [central.sonatype.org](https://central.sonatype.org) — The default artifact repository for Apache Maven, SBT, and other build systems.
+*   [cloudsmith.io](https://cloudsmith.io) — Simple, secure, and centralized repository service for Java/Maven, RedHat, Debian, Python, Ruby, Vagrant, and more. Free tier + free for open source.
 *   [jitpack.io](https://jitpack.io/) — Maven repository for JVM and Android projects on GitHub, free for public projects.
 
 ### Translation Management
 
-*   [Loco](https://localise.biz/) — Free up to 2000 translations, Unlimited translators, 10 languages/project, 1000 translatable assets/project
+*   [Loco](https://localise.biz/) — Free up to 2000 translations, Unlimited translators, ten languages/project, 1000 translatable assets/project
 
 ### DNS
 
-*   [noip](https://www.noip.com/) — a dynamic dns service that allows up to 3 hostnames free with confirmation every 30 days
+*   [noip](https://www.noip.com/) — a dynamic DNS service that allows up to 3 hostnames free with confirmation every 30 days
 
 ### Issue Tracking and Project Management
 

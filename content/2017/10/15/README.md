@@ -16,7 +16,7 @@
 
 ### Contents / Components
 
-*   [Preact Level List (⭐5)](https://github.com/juliangruber/preact-level-list) - Live updating leveldb list component for Preact.
+*   [Preact Level List (⭐4)](https://github.com/juliangruber/preact-level-list) - Live updating leveldb list component for Preact.
 
 ## [3. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

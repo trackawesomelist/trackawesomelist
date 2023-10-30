@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 05, 2020
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Boilerplates
 
-*   [Devii (⭐482)](https://github.com/vriad/devii) - A Medium-inspired dev blog starter built with Next.js, React, and TypeScript, with Markdown rendering, syntax highlighting, SEO/meta tags, and RSS feed generation out of the box.
+*   [Devii (⭐495)](https://github.com/vriad/devii) - A Medium-inspired dev blog starter built with Next.js, React, and TypeScript, with Markdown rendering, syntax highlighting, SEO/meta tags, and RSS feed generation out of the box.
 
 ## [2. Awesome Calculators](/content/xxczaki/awesome-calculators/README.md)
 
@@ -22,18 +22,18 @@
 
 ### Packages / Text
 
-*   [StegCloak (⭐2.9k)](https://github.com/kurolabs/stegcloak) - Conceal secrets within strings, in plain sight.
+*   [StegCloak (⭐3k)](https://github.com/kurolabs/stegcloak) - Conceal secrets within strings, in plain sight.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Monitoring
 
-*   [nixstats.com](https://nixstats.com) - Free for one server. E-Mail Notifications, public status page, 60 second interval and more.
-*   [uptimetoolbox.com](https://uptimetoolbox.com/) — Free monitoring for 5 websites, 60 second intervals, public statuspage.
+*   [nixstats.com](https://nixstats.com) - Free for one server. E-Mail Notifications, public status page, 60-second interval, and more.
+*   [uptimetoolbox.com](https://uptimetoolbox.com/) — Free monitoring for five websites, 60-second intervals, public statuspage.
 
 ### Forms
 
-*   [Formcake.com](https://formcake.com) - Form backend for devs, free plan allows unlimited forms, 100 submissions, Zapier integration. No libraries or dependencies required.
+*   [Formcake.com](https://formcake.com) - Form backend for devs, free plan allows unlimited forms, 100 submissions, Zapier integration. No libraries or dependencies are required.
 
 ## [5. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Deprecated
 
-*   [Gemini (⭐1.5k)](https://github.com/gemini-testing/gemini) - Feature rich framework with support for [Selenium (⭐25k)](https://github.com/SeleniumHQ/selenium) and  [CasperJS (⭐7.3k)](https://github.com/casperjs/casperjs). Gemini is deprecated, use hermione instead.
+*   [Gemini (⭐1.5k)](https://github.com/gemini-testing/gemini) - Feature rich framework with support for [Selenium (⭐27k)](https://github.com/SeleniumHQ/selenium) and  [CasperJS (⭐7.2k)](https://github.com/casperjs/casperjs). Gemini is deprecated, use hermione instead.
 *   [OcularJS (⭐7)](https://github.com/mmacartney10/ocularjs) - uses [PhantomJS (⭐29k)](https://github.com/ariya/phantomjs).
 
 ## [8. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
@@ -93,25 +93,19 @@
 *   [BigClive](http://bigclive.com) - [YouTube channel](https://www.youtube.com/user/bigclivedotcom) about teardowns (including dangerous products), circuit reverse-engineering and tutorials.
 *   [Strange Parts](https://strangeparts.com) - [YouTube channel](https://www.youtube.com/channel/UCO8DQrSp5yEP937qNqTooOw) about electronics, manufacturing, making, world travel, living in and making things in China.
 
-## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
-
-### Third Party APIs
-
-*   [telegex (⭐64)](https://github.com/Hentioe/telegex) - Telegram bot library for Elixir.
-
-## [10. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Utility / Docker Container Actions
 
 *   [Setup Kubernetes tools (⭐41)](https://github.com/yokawasa/action-setup-kube-tools) - Install Kubernetes tools (kubectl, kustomize, helm, kubeval, conftest, and yq) on the runner.
 *   [Setup Elastic Cloud Control Tool (⭐4)](https://github.com/yokawasa/action-setup-ecctl) - Install a specific version of ecctl on the runner.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vuesence-sliding-header (⭐42)](https://github.com/altrusl/vuesence-sliding-header) - Sliding header(s) for top navigation bar(s).
-*   [vue-picture-cut (⭐73)](https://github.com/987153776/vue-picture-cut) - image cropper：scale, flip, rotate, edge check, rectangle clip, ellipse clip
+*   [vue-picture-cut (⭐79)](https://github.com/987153776/vue-picture-cut) - image cropper：scale, flip, rotate, edge check, rectangle clip, ellipse clip
 
 ---
 

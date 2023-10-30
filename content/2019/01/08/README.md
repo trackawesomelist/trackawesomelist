@@ -23,12 +23,12 @@
 
 ### Machine Learning Libraries / Frameworks
 
-*   [shogun (⭐2.9k)](https://github.com/shogun-toolbox/shogun) - Polyfunctional and mature
-    machine learning toolbox with [Ruby bindings (⭐2.9k)](https://github.com/shogun-toolbox/shogun/tree/develop/src/interfaces/ruby).
+*   [shogun (⭐3k)](https://github.com/shogun-toolbox/shogun) - Polyfunctional and mature
+    machine learning toolbox with [Ruby bindings (⭐3k)](https://github.com/shogun-toolbox/shogun/tree/develop/src/interfaces/ruby).
 
 ### Machine Learning Libraries / Deep learning
 
-*   [tensor\_stream (⭐506)](https://github.com/jedld/tensor_stream) -
+*   [tensor\_stream (⭐508)](https://github.com/jedld/tensor_stream) -
     Ground-up and standalone reimplementation of TensorFlow for Ruby.
 
 ### Articles, Posts, Talks, and Presentations / Vector search
@@ -59,7 +59,7 @@
 
 ### PlaygroundBooks
 
-*   [AudioKit Playground Book (⭐188)](https://github.com/audiokit/Playgrounds) - A set of playgrounds using AudioKit designed for the iPad Playgrounds app.
+*   [AudioKit Playground Book (⭐189)](https://github.com/audiokit/Playgrounds) - A set of playgrounds using AudioKit designed for the iPad Playgrounds app.
 
 ### Audio / SpriteKit
 

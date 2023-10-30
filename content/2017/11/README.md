@@ -10,7 +10,7 @@
 
 ### Command-Line Productivity
 
-*   [fz (⭐441)](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
+*   [fz (⭐466)](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
 
 ## [2. Tools](/content/lvwzhen/tools/week/README.md)
 
@@ -23,7 +23,7 @@
 
 ### Applications / Themes
 
-*   [Productivity Application (⭐244)](https://github.com/dhruv-kumar-jha/productivity-frontend) - Kanban style, Trello inspired Productivity application built using React, Ant Design and other fantastic modules.
+*   [Productivity Application (⭐245)](https://github.com/dhruv-kumar-jha/productivity-frontend) - Kanban style, Trello inspired Productivity application built using React, Ant Design and other fantastic modules.
 
 ## [4. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
@@ -117,7 +117,17 @@
 
 *   [Functional Programming: What? Why? When?](https://vimeo.com/97514630) by **Robert C. Martin** \[58:26]
 
-## [6. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
+## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Erlang / Phoenix
+
+*   [Stuff Goes Bad: Erlang in Anger](https://www.erlang-in-anger.com) - Fred Herbert (PDF)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Build applications in Python the antitextbook (⭐543)](http://github.com/thewhitetulip/build-app-with-python-antitextbook) (3.x) (HTML, PDF, EPUB, Mobi)
+
+## [7. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
 
 ### Debug
 
@@ -126,7 +136,7 @@
 
 ### References
 
-*   [OpenGL API Tables](http://web.eecs.umich.edu/\~sugih/courses/eecs487/common/notes/APITables.xml) - Quick reference of API's for several OpenGL and GLSL versions.
+*   [OpenGL API Tables](http://web.eecs.umich.edu/~sugih/courses/eecs487/common/notes/APITables.xml) - Quick reference of API's for several OpenGL and GLSL versions.
 *   [OpenGL Cheat Sheet](https://www.khronos.org/files/opengl43-quick-reference-card.pdf) - Quick reference card of OpenGL 4.3 commands and syntax.
 
 ### Talks
@@ -149,15 +159,15 @@
 
 ### Related lists
 
-*   [awesome-webgl (⭐1.1k)](https://github.com/sjfricke/awesome-webgl) - A curated list of awesome WebGL libraries, resources and much more.
+*   [awesome-webgl (⭐1.2k)](https://github.com/sjfricke/awesome-webgl) - A curated list of awesome WebGL libraries, resources and much more.
 
-## [7. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
+## [8. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 
 ### Web / Frameworks
 
 *   [Database and Persistence](https://wiki.haskell.org/Web/Databases_and_Persistence) - Official Website Resources.
 
-## [8. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [9. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Libraries / Python
 
@@ -167,14 +177,14 @@
 
 *   [GitHub Flavored Markdown Specifications](https://github.github.com/gfm/) - The formal spec for GitHub's Markdown, based on CommonMark.
 
-## [9. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [10. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Conferences / Ruby
 
 *   [Explore DDD - USA](http://exploreddd.com/)
 *   [Kandddinsky - Germany](http://kandddinsky.com/)
 
-## [10. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/week/README.md)
+## [11. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/week/README.md)
 
 ### Identity Applications / Public Blockchain Identity
 
@@ -211,97 +221,97 @@
 *   [lumo](https://lumoenergy.com.au) - Energy provider. Experiment with blockchain.
 *   [PowerLedger](https://powerledger.io) - Decentralised energy marketpace.
 
-## [11. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [12. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Podcasts / Book/monograph Lists and Reviews
 
 *   [R Weekly](https://rweekly.org) - Weekly news updates about the R community.
 
-## [12. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [13. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2017
 
 *   [Lin Clark: **A Cartoon Intro to Fiber**](https://www.youtube.com/watch?v=ZCuYPiUIONs) \[31:47]
 
-## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Miscellaneous
 
-*   [{fmt} (⭐17k)](https://github.com/fmtlib/fmt) :zap: - Small, safe and fast formatting library for C++. \[Simplified BSD] [website](https://fmt.dev)
+*   [{fmt} (⭐18k)](https://github.com/fmtlib/fmt) :zap: - Small, safe and fast formatting library for C++. \[Simplified BSD] [website](https://fmt.dev)
 
-## [14. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [15. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / S3
 
 *   [anomalizer/ngx\_aws\_auth :fire::fire: (⭐455)](https://github.com/anomalizer/ngx_aws_auth) - Implements proxying of authenticated requests.
 
-## [15. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [16. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Open Source
 
 *   [Firebase (⭐58)](https://github.com/fuse-compound/Fuse.Firebase) - Firebase bindings for Fuse.
 *   [UnityAds Sample (⭐9)](https://github.com/englekk/Fusetools_UnityAdsSample) - Simple example of integration UnityAds with Fuse.
 
-## [16. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [17. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Programming Fonts
 
 *   **Linux:** copy the files on \~/.fonts and `sudo fc-cache -f -v`
 *   **Windows:** copy the files on c:/windows/fonts/
 
-## [17. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [18. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Vue.js in Bahasa Indonesia](https://www.sekolahkoding.com/track/belajar-vue-js) on sekolahkoding.com
 *   [Bootstrapping your first Vue.js application using vue-cli](https://afropolymath.svbtle.com/bootstrapping-your-first-vue-js-project/) by [@afropolymath](https://twitter.com/afropolymath)
 
-## [18. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [19. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Common Awesome Lists
 
-*   [Movies For Hacker (⭐9.7k)](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
+*   [Movies For Hacker (⭐9.9k)](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
 
-## [19. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [20. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 
 *   [Vissonance](https://tariqksoliman.github.io/Vissonance/) A collection of audio visualizers built in THREE.js.
 
-## [20. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [21. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Code Analysis and Metrics
 
-*   [.NET Compiler Platform ("Roslyn") Analyzers (⭐1.4k)](https://github.com/dotnet/roslyn-analyzers) - A number of Roslyn diagnostic analyzers initially developed to help flesh out the design and implementation of the static analysis APIs.
+*   [.NET Compiler Platform ("Roslyn") Analyzers (⭐1.5k)](https://github.com/dotnet/roslyn-analyzers) - A number of Roslyn diagnostic analyzers initially developed to help flesh out the design and implementation of the static analysis APIs.
 
-## [21. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [22. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### ORM/ODM Extensions
 
 *   Multi-tenancy
-    *   [Acts As Tennant (⭐1.3k)](https://github.com/ErwinM/acts_as_tenant) - Add multi-tenancy to a Rails app through a shared database strategy.
+    *   [Acts As Tennant (⭐1.4k)](https://github.com/ErwinM/acts_as_tenant) - Add multi-tenancy to a Rails app through a shared database strategy.
     *   [Apartment (⭐2.6k)](https://github.com/influitive/apartment) - Multi-tenancy for Rails and ActiveRecord.
     *   [Milia (⭐337)](https://github.com/jekuno/milia) - Non-invasive multi-tenancy for Rails which supports Devise authentication out of the box.
 
-## [22. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [23. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Blog posts
 
 *   [TensorFlow Android Guide](https://blog.mindorks.com/android-tensorflow-machine-learning-example-ff0e9b2654cc) - Android TensorFlow Machine Learning Example.
 
-## [23. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [24. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Samples
 
-*   [SDF Font Demo (⭐204)](https://github.com/kocsis1david/font-demo) - Text rendering in Vulkan by estimating signed distance. \[MIT]
+*   [SDF Font Demo (⭐211)](https://github.com/kocsis1david/font-demo) - Text rendering in Vulkan by estimating signed distance. \[MIT]
 
-## [24. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
+## [25. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
 
 ### Contents / Appendix: More than Top 100
 
 *   A character-level decoder without explicit segmentation for neural machine translation (2016), J. Chung et al. [\[pdf\]](https://arxiv.org/pdf/1603.06147)
 
-## [25. Awesome Standard](/content/standard/awesome-standard/week/README.md)
+## [26. Awesome Standard](/content/standard/awesome-standard/week/README.md)
 
 ### automatic code formatters
 
@@ -311,36 +321,36 @@
 
 *   **[docker-standard](https://hub.docker.com/r/geniousphp/standard-js/)** - Standardjs Docker image to easily and quickly lint and report javascript files. Very useful in Docker based build systems.
 
-## [26. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [27. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Parsing
 
-*   [xlsx-populate (⭐862)](https://github.com/dtjohnson/xlsx-populate) - Read/write Excel XLSX.
+*   [xlsx-populate (⭐890)](https://github.com/dtjohnson/xlsx-populate) - Read/write Excel XLSX.
 
-## [27. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [28. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Build Automation
 
-*   [dotnet-docker (⭐3.5k)](https://github.com/dotnet/dotnet-docker) - The base Docker images for working with .NET Core and the .NET Core Tools.
+*   [dotnet-docker (⭐4k)](https://github.com/dotnet/dotnet-docker) - The base Docker images for working with .NET Core and the .NET Core Tools.
 
 ### Frameworks, Libraries and Tools / SDKs
 
-*   [azure-event-hubs-dotnet (⭐88)](https://github.com/azure/azure-event-hubs-dotnet) - .NET Standard client library for Azure Event Hubs.
+*   [azure-event-hubs-dotnet (⭐89)](https://github.com/azure/azure-event-hubs-dotnet) - .NET Standard client library for Azure Event Hubs.
 
-## [28. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [29. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Authentication and Authorization
 
 *   [SocialConnect Auth (⭐511)](https://github.com/socialConnect/auth) - An open source social sign (OAuth1\OAuth2\OpenID\OpenIDConnect).
 *   [TwitterOAuth (⭐4.2k)](https://github.com/abraham/twitteroauth) - A Twitter OAuth library.
 
-## [29. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [30. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Videos / Other
 
 *   [Electron: Building Cross Platform Desktop Apps - Lynda](https://www.lynda.com/Electron-tutorials/Electron-Building-Cross-Platform-Desktop-Apps/518051-2.html) 💲
 
-## [30. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [31. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Animation / Paid Books
 
@@ -364,7 +374,7 @@
 
 *   [Yahoo! Emoticons](http://michael-designs.com/yahoo-emoticons-jquery-plugin/) - Yahoo! Emoticons JQuery Plugin.
 
-## [31. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
+## [32. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
 ### Orchestration / Extensions
 
@@ -374,7 +384,7 @@
 
 *   [tmux](https://tmux.github.io/) the awesome terminal multiplexer.
 
-## [32. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [33. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Community / Particles
 
@@ -383,12 +393,6 @@
 *   [Freenode IRC](http://webchat.freenode.net/?channels=webgl)
 *   [Google Group](https://groups.google.com/forum/#!forum/webgl-dev-list)
 *   [Google Plus](https://plus.google.com/communities/114915309361980512257)
-
-## [33. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
-
-### Programming / Go
-
-*   [we love golang](https://www.welovegolang.com/)
 
 ## [34. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
 
@@ -634,7 +638,7 @@
 
 ### Logging
 
-*   [timber (⭐217)](https://github.com/timberio/timber-elixir) - Structured logging platform; turns raw text logs into rich structured events.
+*   [timber (⭐214)](https://github.com/timberio/timber-elixir) - Structured logging platform; turns raw text logs into rich structured events.
 
 ## [44. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
@@ -646,7 +650,7 @@
 
 ### Text Processing
 
-*   [postagga (⭐156)](https://github.com/turbopape/postagga)
+*   [postagga (⭐157)](https://github.com/turbopape/postagga)
 
 ### Debugging
 
@@ -656,7 +660,7 @@
 
 ### Libraries
 
-*   [FPO.js (⭐450)](https://github.com/getify/fpo) – FP library for JavaScript by Kyle Simpson (aka getify). Supports named-argument style methods.
+*   [FPO.js (⭐449)](https://github.com/getify/fpo) – FP library for JavaScript by Kyle Simpson (aka getify). Supports named-argument style methods.
 
 ## [47. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 

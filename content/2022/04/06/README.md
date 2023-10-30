@@ -10,7 +10,7 @@
 
 ### Apps / Media
 
-*   [Rent Free Media (⭐61)](https://github.com/RentFreeMedia/rentfreemedia) - A media distribution framework built on Django and Wagtail. Premium / subscription-based publishing like Patreon or Substack.
+*   [Rent Free Media (⭐62)](https://github.com/RentFreeMedia/rentfreemedia) - A media distribution framework built on Django and Wagtail. Premium / subscription-based publishing like Patreon or Substack.
 
 ## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -20,7 +20,7 @@
 
 ## [3. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Mobile / Angular
+### Mobile / Svelte
 
 *   [Flutter Digest](https://flutter-digest.com/). 🇫🇷 A weekly French newsletter about Flutter and Dart.
 *   [Android Croissants](https://android-croissants.com/). 🇫🇷 Every Monday morning, receive the latest news, tutorials, tips… about Android.
@@ -29,7 +29,7 @@
 
 ### Testing
 
-*   [preflight.com](https://preflight.com) - No-code automated web testing. Record tests on your browser that are resilient to UI changes and run them on Windows machines. Integrate with your CI/CD. The free plan includes 50 test runs per month with video, HTML sessions and more.
+*   [preflight.com](https://preflight.com) - No-code automated web testing. Record tests on your browser that are resilient to UI changes and run them on Windows machines. Could you integrate with your CI/CD? The free plan includes 50 monthly test runs with video, HTML sessions, and more.
 
 ## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -43,25 +43,25 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [miniserve (⭐4.7k)](https://github.com/svenstaro/miniserve) - CLI tool to serve files and dirs over HTTP. `MIT` `Rust`
+*   [miniserve (⭐5.1k)](https://github.com/svenstaro/miniserve) - CLI tool to serve files and dirs over HTTP. `MIT` `Rust`
 
 ### Software / Wikis
 
-*   [Wikmd (⭐223)](https://github.com/Linbreux/wikmd) - Modern and simple file based wiki that uses Markdown and Git. `MIT` `Python`
+*   [Wikmd (⭐244)](https://github.com/Linbreux/wikmd) - Modern and simple file based wiki that uses Markdown and Git. `MIT` `Python/Docker`
 
 ## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### 3rd party GTFS URL directories
 
 *   [~~OpenMobilityData~~ (Deprecated)](https://openmobilitydata.org/) - List of GTFS and [GTFS-RT](https://openmobilitydata.org/search?q=gtfsrt) feeds. [Archives and validates](https://openmobilitydata.org/p/capital-metro/24) the GTFS feeds and allows you to preview both [GTFS](https://openmobilitydata.org/p/capital-metro/24/latest) and [GTFS-RT](https://openmobilitydata.org/p/capital-metro/495) through the browser. Formerly TransitFeeds.com. [MobilityData announced](https://database.mobilitydata.org/#h.u71vp6xgkckf) it is end-of-life as of early 2022 with a shutdown date to be determined.
-*   [The Mobility Database](https://database.mobilitydata.org/) - JSON and CSV files [on GitHub (⭐132)](https://github.com/MobilityData/mobility-database-catalogs) that is a repository of 1300+ mobility datasets across the world. Contains contents of OpenMobilityData/TransitFeeds.com.
+*   [The Mobility Database](https://database.mobilitydata.org/) - JSON and CSV files [on GitHub (⭐171)](https://github.com/MobilityData/mobility-database-catalogs) that is a repository of 1300+ mobility datasets across the world. Contains contents of OpenMobilityData/TransitFeeds.com.
 *   [Transitland](https://transit.land/) - Community editable list of many transit agency GTFS datasets. Also provides an API to access the data as JSON/GeoJSON and a playground to try out the data.
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [simple-vue-camera (⭐37)](https://github.com/BastiaanJansen/simple-vue-camera) - A simple to use, but extensive, camera component for Vue 3 with Typescript support to create great camera experiences.
+*   [simple-vue-camera (⭐47)](https://github.com/BastiaanJansen/simple-vue-camera) - A simple to use, but extensive, camera component for Vue 3 with Typescript support to create great camera experiences.
 
 ## [8. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -73,23 +73,23 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-electron (⭐347)](https://github.com/electron-vite/vite-plugin-electron) - Integrate Vite and Electron.
+*   [vite-plugin-electron (⭐471)](https://github.com/electron-vite/vite-plugin-electron) - Integrate Vite and Electron.
 
 ## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Editable data grid / spreadsheet
 
-*   [fortune-sheet (⭐1.8k)](https://github.com/ruilisi/fortune-sheet) - An online spreedsheet component that provides out-of-the-box features just like Excel.
+*   [fortune-sheet (⭐2k)](https://github.com/ruilisi/fortune-sheet) - An online spreedsheet component that provides out-of-the-box features just like Excel.
 
 ## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Databases
 
-*   [Sequel Ace (⭐5.5k)](https://github.com/Sequel-Ace/Sequel-Ace) - The maintained "sequel" to the longtime macOS tool Sequel Pro. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Sequel-Ace/Sequel-Ace)
+*   [Sequel Ace (⭐5.9k)](https://github.com/Sequel-Ace/Sequel-Ace) - The maintained "sequel" to the longtime macOS tool Sequel Pro. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Sequel-Ace/Sequel-Ace)
 
 ## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [radius (⭐1)](https://github.com/erikcc02/radius-zsh-theme) - Includes `git` status, username, hostname, and directory decorations, plus [desk (⭐2.5k)](https://github.com/jamesob/desk) support.
 *   [refpx (⭐0)](https://github.com/refpx/refpx-zsh-theme) - Includes `git` status, last command status, user\@hostname and directory decorations.

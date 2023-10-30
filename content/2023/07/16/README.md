@@ -10,11 +10,11 @@
 
 ### (requires Neovim 0.5)
 
-*   [creativenull/diagnosticls-configs-nvim (⭐66)](https://github.com/creativenull/diagnosticls-configs-nvim) - An unofficial collection of linters and formatters configured for diagnostic-languageserver to work with builtin LSP.
+*   [creativenull/diagnosticls-configs-nvim (⭐89)](https://github.com/creativenull/diagnosticls-configs-nvim) - An unofficial collection of linters and formatters configured for diagnostic-languageserver to work with builtin LSP.
 
 ### Debugging / Diagnostics
 
-*   [niuiic/dap-utils (⭐2)](https://github.com/niuiic/dap-utils.nvim) - Utilities to provide a better experience for using nvim-dap.
+*   [niuiic/dap-utils (⭐24)](https://github.com/niuiic/dap-utils.nvim) - Utilities to provide a better experience for using nvim-dap.
 
 ## [2. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -38,17 +38,17 @@
 
 ### Software / Photo and Video Galleries
 
-*   [Chevereto](https://chevereto.com/) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. ([Source Code (⭐177)](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP`
+*   [Chevereto](https://chevereto.com/) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. ([Source Code (⭐225)](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP/Docker`
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Hook0](https://www.hook0.com/) - Hook0 is an open source Webhooks-as-a-service (WaaS) that makes it easy for online products to provide webhooks. Dispatch up to 3,000 events/month with 7 days of history retention for free.
+*   [Hook0](https://www.hook0.com/) - Hook0 is an open-source Webhooks-as-a-service (WaaS) that makes it easy for online products to provide webhooks. Dispatch up to 3,000 events/month with seven days of history retention for free.
 
 ### Email
 
-*   [Queuemail.dev](https://queuemail.dev) — Reliable email delivery API. Free tier (10,000 emails/per month). Send asynchronously. Use several SMTP servers. Blacklists, Loging, Tracking, Webhooks, and more...
+*   [Queuemail.dev](https://queuemail.dev) — Reliable email delivery API. Free tier (10,000 emails/per month). Send asynchronously. Use several SMTP servers. Blacklists, Logging, Tracking, Webhooks, and more.
 
 ### Issue Tracking and Project Management
 
@@ -56,7 +56,7 @@
 
 ### Analytics, Events and Statistics
 
-*   [Aptabase](https://aptabase.com) — Open Source, Privacy-Friendly and Simple Analytics for Mobile and Desktop Apps. SDKs for Swift, Kotlin, React Native, Flutter, Electron and many others. Free for up to 20.000 events per month.
+*   [Aptabase](https://aptabase.com) — Open Source, Privacy-Friendly, and Simple Analytics for Mobile and Desktop Apps. SDKs for Swift, Kotlin, React Native, Flutter, Electron, and many others. Free for up to 20,000 events per month.
 
 ## [6. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 

@@ -1,12 +1,18 @@
 # Awesome List Updates on Oct 01, 2023
 
-2 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+## [1. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
+
+### Useful Stack Overflow questions & answers
+
+*   [Effortless export from GitHub Wiki](https://stackoverflow.com/questions/18759738/effortless-export-from-github-wiki)
+
+## [2. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
 ### Hosting:
 
@@ -17,9 +23,6 @@
 
 
 ### Remote Jobs:
-
-- Website: <https://jobstache.com>
-
 
 - Website: <https://jobsinjs.com>
 
@@ -40,7 +43,7 @@
 
 
 
-## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Education and Career Development
 

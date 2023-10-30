@@ -119,7 +119,7 @@ Additional lists you might find useful:
 *   [Acl plugin (⭐111)](https://github.com/cakephp/acl/) - Managing ACL as database approach.
 *   [ADmad/JwtAuth plugin (⭐165)](https://github.com/ADmad/cakephp-jwt-auth) - A plugin for authenticating using JSON Web Tokens.
 *   🍰 [ADmad/SocialAuth plugin (⭐47)](https://github.com/ADmad/cakephp-social-auth) - A plugin which allows you to authenticate using social providers like Facebook/Google/Twitter etc. using [SocialConnect/auth (⭐538)](https://github.com/SocialConnect/auth) social sign on library.
-*   [ApiTokenAuthenticator plugin (⭐3)](https://github.com/rrd108/api-token-authenticator) - A simple token authentication plugin for CakePHP REST APIs.
+*   🍰 [ApiTokenAuthenticator plugin (⭐3)](https://github.com/rrd108/api-token-authenticator) - A simple token authentication plugin for CakePHP REST APIs.
 *   🍰 [Authentication plugin (⭐108)](https://github.com/cakephp/authentication) - Official CakePHP authentication middleware plugin.
 *   🍰 [Authorization plugin (⭐67)](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.
 *   🍰 [CakeDC/Users plugin (⭐513)](https://github.com/CakeDC/users) - Complete user management (admin panel, remember me, etc), Social login (FB, Twitter, LinkedIn, Google, Instagram), RBAC, API and more.
@@ -141,7 +141,7 @@ Additional lists you might find useful:
 *   🍰 [CakeDC/PHPStan (⭐23)](https://github.com/CakeDC/cakephp-phpstan) - A PHPStan extension to resolve CakePHP magic around getter return types for the static analyzer.
 *   🍰 [IdeHelper plugin (⭐176)](https://github.com/dereuromark/cakephp-ide-helper) - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code.
 *   🍰 [IdeHelperExtra plugin (⭐2)](https://github.com/dereuromark/cakephp-ide-helper-extra) - Useful IdeHelper addons for other plugins or custom use cases.
-*   [TestHelper plugin (⭐7)](https://github.com/dereuromark/cakephp-test-helper) - Provides testing enhancements and TDD support as browser backend.
+*   🍰 [TestHelper plugin (⭐7)](https://github.com/dereuromark/cakephp-test-helper) - Provides testing enhancements and TDD support as browser backend.
 
 ## Debugging
 
@@ -330,7 +330,7 @@ Additional lists you might find useful:
 *   🍰 [Expose plugin (⭐7)](https://github.com/dereuromark/cakephp-expose) - Expose entities through additional UUIDs instead of their AIID primary keys to obfuscate those IDs and data associated with these numerically ordered values.
 *   🍰 [Muffin/Obfuscate plugin (⭐36)](https://github.com/usemuffin/obfuscate) - Primary key obfuscation/shortening using UUIDs, HashIds, Optimus, Tiny and/or custom obfuscation strategies.
 *   🍰 [Muffin/Throttle plugin (⭐60)](https://github.com/usemuffin/throttle) - A plugin for rate limiting (API) requests.
-*   [Recaptcha plugin (⭐20)](https://github.com/ctlabvn/Recaptcha) - Simple, lightweight Google Recaptcha v2.
+*   🍰 [Recaptcha plugin (⭐20)](https://github.com/ctlabvn/Recaptcha) - Simple, lightweight Google Recaptcha v2.
 
 ## SEO
 

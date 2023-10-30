@@ -2,7 +2,7 @@
 
 A curated list of data engineering tools for software developers
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/igorbarinov/awesome-data-engineering/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) · ⭐ 4.6K · 🏷️ Big Data
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/igorbarinov/awesome-data-engineering/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) · ⭐ 5.1K · 🏷️ Big Data
 
 [ [Daily](/content/igorbarinov/awesome-data-engineering/README.md) / Weekly / [Overview](/content/igorbarinov/awesome-data-engineering/readme/README.md) ]
 
@@ -50,11 +50,11 @@ A curated list of data engineering tools for software developers
 
 ### Realtime
 
-*   [Eventsim (⭐422)](https://github.com/Interana/eventsim) Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.
+*   [Eventsim (⭐452)](https://github.com/Interana/eventsim) Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.
 
 ## [Jul 20 - Jul 26, 2015](/content/2015/29/README.md)
 
 ### Prometheus
 
-*   [Prometheus.io (⭐45k)](https://github.com/prometheus/prometheus) An open-source service monitoring system and time series database
-*   [HAProxy Exporter (⭐578)](https://github.com/prometheus/haproxy_exporter) Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption
+*   [Prometheus.io (⭐49k)](https://github.com/prometheus/prometheus) An open-source service monitoring system and time series database
+*   [HAProxy Exporter (⭐600)](https://github.com/prometheus/haproxy_exporter) Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption

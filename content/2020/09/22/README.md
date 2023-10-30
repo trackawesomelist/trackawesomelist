@@ -10,7 +10,7 @@
 
 ### Remote Sensing and Imagery / Shapefiles
 
-*   [Awesome Vegetation Index (⭐29)](https://github.com/px39n/Awesome-Vegetation-Index) - List of reference, applications of common Vegetation Indices for Multi-spectral, hyper-spectral and UAV images.
+*   [Awesome Vegetation Index (⭐44)](https://github.com/px39n/Awesome-Vegetation-Index) - List of reference, applications of common Vegetation Indices for Multi-spectral, hyper-spectral and UAV images.
 
 ## [2. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 
@@ -28,14 +28,14 @@
 
 ### Players / MPEG
 
-*   [adrg/libvlc-go (⭐351)](https://github.com/adrg/libvlc-go)  - Go bindings for libVLC and high-level media player interface.
+*   [adrg/libvlc-go (⭐356)](https://github.com/adrg/libvlc-go)  - Go bindings for libVLC and high-level media player interface.
 
 ## [5. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
 ### Contents / Components
 
 *   [Preact Dock (⭐21)](https://github.com/TimDaub/preact-touchable-dock) - Simple DnD and touch-enabled Dock for Preact apps.
-*   [Preact Particles (⭐5.4k)](https://github.com/matteobruni/tsparticles#preact) - Lightweight component to easily add cool particles animations to websites.
+*   [Preact Particles (⭐5.9k)](https://github.com/matteobruni/tsparticles#preact) - Lightweight component to easily add cool particles animations to websites.
 
 ## [6. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
 
@@ -61,10 +61,6 @@
 
 *   [What makes a Senior Dev](https://news.ycombinator.com/item?id=11341567) - “Time, man. You gotta do your fucking time.”
 
-### Engineering / Systems Complexity
-
-*   [Living with Complexity, by Donald A. Norman](https://amzn.com/0262014866/?tag=kevideld-20) - In which we learn that, based on [Tesler's law of the conservation of complexity](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity), “the total complexity of a system is a constant: as you make the person's interaction simpler, the hidden complexity behind the scenes increases. Make one part of the system simpler, said Tesler, and the rest of the system gets more complex.”
-
 ### Engineering / Technology
 
 *   “Lots of people make the mistake of thinking there's only two vectors you can go to improve performance, high or wide. High - throw hardware at the problem, on a single machine. Wide - add more machines. [There's a third direction you can go, I call it *going deep*.](https://news.ycombinator.com/item?id=8902739)”
@@ -89,17 +85,17 @@
 
 ### Schema / Changes
 
-*   [Prisma Migrate (⭐770)](https://github.com/prisma/migrate) - Declarative database schema migration tool that uses a declarative data modeling syntax to describe your database schema.
+*   [Prisma Migrate (⭐766)](https://github.com/prisma/migrate) - Declarative database schema migration tool that uses a declarative data modeling syntax to describe your database schema.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [tsParticles (⭐5.4k)](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations
+*   [tsParticles (⭐5.9k)](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations
 
 ### Components & Libraries / Utilities
 
-*   [rexios (⭐6)](https://github.com/Scrum/rexios) - Utils normalize url, data, params for axios when using rest api request.
+*   [rexios (⭐5)](https://github.com/Scrum/rexios) - Utils normalize url, data, params for axios when using rest api request.
 
 ## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -127,13 +123,13 @@
 
 ### Buttons
 
-*   [reactive-button (⭐110)](https://github.com/arifszn/reactive-button) - [demo](https://arifszn.github.io/reactive-button/docs/playground) - [docs](https://arifszn.github.io/reactive-button) - A beautiful animated button component with progress indicator.
+*   [reactive-button (⭐119)](https://github.com/arifszn/reactive-button) - [demo](https://arifszn.github.io/reactive-button/docs/playground) - [docs](https://arifszn.github.io/reactive-button) - A beautiful animated button component with progress indicator.
 
 ## [14. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
-*   [Pipe (⭐30)](https://github.com/pipe-fun/pipe) - This is a Rust / Wasm client web app which is a task control center.
+*   [Pipe (⭐31)](https://github.com/pipe-fun/pipe) - This is a Rust / Wasm client web app which is a task control center.
 
 ## [15. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 

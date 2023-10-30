@@ -11,7 +11,7 @@ A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 ### Nginx + njs
 
 *   [njs scripting language reference and examples](https://nginx.org/en/docs/njs/)
-*   [Collection of njs use cases (⭐5)](https://github.com/f5devcentral/nginx-njs-usecases)
+*   [Collection of njs use cases (⭐6)](https://github.com/f5devcentral/nginx-njs-usecases)
 *   [JavaScript embedded on NGINX - Getting started with njs](https://www.bluedoa.com/javascript-embedded-on-nginx-getting-started-with-njs/)
 *   [Create Nginx extensions in JavaScript](https://dev.to/metal3d/create-nginx-extensions-in-javascript-3310)
 *   [Make your nginx config even more modular and reusable with njs 0.7.7](https://www.nginx.com/blog/make-nginx-config-even-more-modular-reusable-njs-0-7-7/)
@@ -109,11 +109,10 @@ A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 ### Nginx + Lua
 
 *   [Nginx, Lua, and beyond](https://agentzh.org/misc/slides/nginx-lua-and-beyond.pdf)
-*   [Augmenting APIs with Nginx and Lua](https://tech.3scale.net/2013/01/09/augment-your-api-without-touching-it)
 *   [Adding OAuth Support to Nginx via Lua](https://chairnerd.seatgeek.com/oauth-support-for-nginx-with-lua/)
 *   [Scripting libdrizzle with Lua inside Nginx](https://agentzh.org/misc/slides/libdrizzle-lua-nginx.pdf)
 *   [Scaling TextRazor in the Cloud with Nginx and Lua](https://www.textrazor.com/blog/2013/03/scaling-textrazor-in-the-cloud-with-nginx-and-lua.html)
-*   [LSSO - Lua + Nginx SSO System with an OAuth Backend (⭐45)](https://github.com/pirogoeth/lsso)
+*   [LSSO - Lua + Nginx SSO System with an OAuth Backend (⭐44)](https://github.com/pirogoeth/lsso)
 *   [Measuring Nginx Cache Performance using Lua and Redis](https://charlesleifer.com/blog/measuring-nginx-cache-performance-using-lua-and-redis/)
 
 ### OpenResty
@@ -121,7 +120,6 @@ A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 *   [Lapis - A web framework for Lua or MoonScript powered by OpenResty](https://leafo.net/lapis/)
 *   [Nginx image processing server with OpenResty and Lua](https://leafo.net/posts/creating_an_image_server.html)
 *   [SysAdvent 2014 - OpenResty, Nginx and Lua](https://sysadvent.blogspot.com/2014/12/day-22-largely-unappreciated.html) ([Source (⭐9)](https://github.com/lusis/sysadvent-2014))
-*   [OpenResty (Nginx) with dynamically generated certificates](https://blog.dutchcoders.io/openresty-with-dynamic-generated-certificates/)
 *   [Ceryx - A dynamic reverse proxy](https://ide.sourcelair.com/blog/articles/75/ceryx-dynamic-nginx)
 *   [An Introduction To OpenResty](https://openmymind.net/An-Introduction-To-OpenResty-Nginx-Lua/)
 *   [Programming OpenResty (written by the OpenResty creator)](https://openresty.gitbooks.io/programming-openresty/content/)
@@ -235,10 +233,6 @@ A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 *   [NGINX as a WebSockets Proxy](https://www.nginx.com/blog/websocket-nginx/)
 *   [HTTP Keepalive Connections and Web Performance ](https://www.nginx.com/blog/http-keepalives-and-web-performance/)
 
-### Modules development
-
-*   [Developing Nginx Modules](https://www.airpair.com/nginx/extending-nginx-tutorial)
-
 ### Hacks
 
 *   [Nginx JSON hacks](https://web.archive.org/web/20140921162448/http://www.gabrielweinberg.com/blog/2011/07/nginx-json-hacks.html)
@@ -293,10 +287,6 @@ A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 ### Configuration
 
 *   [Nginx HTTP server boilerplate configs (⭐11k)](https://github.com/h5bp/server-configs-nginx)
-
-### APIs
-
-*   [Simple API with Nginx and PostgreSQL](http://rny.io/nginx/postgresql/2013/07/26/simple-api-with-nginx-and-postgresql.html)
 
 ### Talks
 

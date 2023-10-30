@@ -10,16 +10,16 @@
 
 ### Libraries / Python
 
-*   [Djongo (⭐1.7k)](https://github.com/nesdis/djongo) - MongoDB connector for Django compatible with Django ORM
+*   [Djongo (⭐1.8k)](https://github.com/nesdis/djongo) - MongoDB connector for Django compatible with Django ORM
 
 ## [2. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Tools & Software / Acquisition
 
-*   [ArchiveBox (⭐16k)](https://github.com/pirate/ArchiveBox) - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly `Bookmark Archiver`). *(In Development)*
+*   [ArchiveBox (⭐17k)](https://github.com/pirate/ArchiveBox) - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly `Bookmark Archiver`). *(In Development)*
 *   [ArchiveWeb.Page](https://archiveweb.page) - A plugin for Chrome and other Chromium based browsers that lets you interactively archive web pages, replay them, and export them as WARC data. Also available as an Electron based desktop application.
-*   [Browsertrix Crawler (⭐326)](https://github.com/webrecorder/browsertrix-crawler) - A Chrome based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container.
-*   [Brozzler (⭐582)](https://github.com/internetarchive/brozzler) - A distributed web crawler (爬虫) that uses a real browser (Chrome or Chromium) to fetch pages and embedded urls and to extract links. *(Stable)*
+*   [Browsertrix Crawler (⭐410)](https://github.com/webrecorder/browsertrix-crawler) - A Chrome based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container.
+*   [Brozzler (⭐598)](https://github.com/internetarchive/brozzler) - A distributed web crawler (爬虫) that uses a real browser (Chrome or Chromium) to fetch pages and embedded urls and to extract links. *(Stable)*
 
 ## [3. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
@@ -37,31 +37,30 @@
 
 ### Editor Plugins
 
-*   [Conjure (Neovim) (⭐1.3k)](https://github.com/Olical/conjure)
+*   [Conjure (Neovim) (⭐1.4k)](https://github.com/Olical/conjure)
 
 ## [5. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
 ### Applications
 
-*   [Aether (⭐1.1k)](https://github.com/aethereans/aether-app): P2P ephemeral public communities. Open source, self-governing
-*   [Airshare (⭐607)](https://github.com/KuroLabs/Airshare): CLI tool and module for transferring data between 2 machines in a local network, P2P, using Multicast-DNS. Works completely offline.
-    communities with auditable moderation and mod elections.
+*   [Aether (⭐1.2k)](https://github.com/aethereans/aether-app): P2P ephemeral public communities. Open source, self-governing
+*   [Airshare (⭐613)](https://github.com/KuroLabs/Airshare): CLI tool and module for transferring data between 2 machines in a local network, P2P, using Multicast-DNS. Works completely offline.
 *   [Dropub ☠️](https://dropub.com): Share files for free on the internet. It's like Dropbox meets BitTorrent.
 *   [Friends ☠️ (⭐3.2k)](https://github.com/moose-team/friends): P2P chat powered by the web. This project is alpha quality.
-*   [Hyperpad (⭐197)](https://github.com/hackergrrl/hyperpad): Peer-to-peer collaborative text editor.
-*   [instant.io (⭐3.2k)](https://github.com/webtorrent/instant.io): Streaming file transfer over WebTorrent (torrents on the web).
-*   [IPFS bin ☠️ (⭐131)](https://github.com/victorb/ipfsbin): Pastebin application for sharing code and text documents to other people.
-*   [IPFS Desktop (⭐5.1k)](https://github.com/ipfs/ipfs-desktop): A native application to run your own IPFS Node.
-*   [iWant ☠️ (⭐289)](https://github.com/nirvik/iWant): Commandline tool for searching and downloading files in LAN network, without any central server.
+*   [Hyperpad (⭐196)](https://github.com/hackergrrl/hyperpad): Peer-to-peer collaborative text editor.
+*   [instant.io (⭐3.3k)](https://github.com/webtorrent/instant.io): Streaming file transfer over WebTorrent (torrents on the web).
+*   [IPFS bin ☠️ (⭐132)](https://github.com/victorb/ipfsbin): Pastebin application for sharing code and text documents to other people.
+*   [IPFS Desktop (⭐5.3k)](https://github.com/ipfs/ipfs-desktop): A native application to run your own IPFS Node.
+*   [iWant ☠️ (⭐290)](https://github.com/nirvik/iWant): Commandline tool for searching and downloading files in LAN network, without any central server.
 *   [ORC ☠️](https://orc.network/): Onion Routed Cloud, a decentralized, anonymous, file storage platform. It uses the Tor network.
-*   [Peertransfer ☠️ (⭐284)](https://github.com/pguth/peertransfer): Send a file p2p and e2e encrypted using nothing but your browser.
+*   [Peertransfer ☠️ (⭐289)](https://github.com/pguth/peertransfer): Send a file p2p and e2e encrypted using nothing but your browser.
 *   [YaCy](https://yacy.net/): Free distributed search engine, built on principles of P2P networks.
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Testing
 
-*   [serpro69/kotlin-faker (⭐337)](https://github.com/serpro69/kotlin-faker) - Port of ruby faker gem written in kotlin
+*   [serpro69/kotlin-faker (⭐365)](https://github.com/serpro69/kotlin-faker) - Port of ruby faker gem written in kotlin
 
 ## [7. Awesome Mdbootstrap](/content/mdbootstrap/awesome-mdbootstrap/README.md)
 
@@ -123,9 +122,9 @@
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [WebScraping.AI](https://webscraping.ai) - Simple Web Scraping API with built-in parsing, Chrome rendering and proxies. 2000 free API calls per month.
+*   [WebScraping.AI](https://webscraping.ai) - Simple Web Scraping API with built-in parsing, Chrome rendering, and proxies. Two thousand free API calls per month.
 
 ## [11. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
@@ -157,14 +156,14 @@
 
 ### Contents / Social Network
 
-*   [Harpy (⭐1.9k)](https://github.com/robertodoering/harpy) - A Twitter app built with Flutter [Roberto Doering (⭐1.9k)](https://github.com/robertodoering/harpy)
+*   [Harpy (⭐2k)](https://github.com/robertodoering/harpy) - A Twitter app built with Flutter [Roberto Doering (⭐2k)](https://github.com/robertodoering/harpy)
 
 ## [14. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Display / LCD TFT
 
 *   [micropython-ili9341 (⭐1)](https://github.com/mcauser/deshipu-micropython-ili9341) - Collection of drivers for TFT displays, ILI9341, SH1106, SSD1606, ST7735.
-*   [SSD1963-TFT-Library-for-PyBoard-and-RP2040 (⭐25)](https://github.com/robert-hh/SSD1963-TFT-Library-for-PyBoard-and-RP2040) - SSD1963 TFT Library for Pyboard and Raspberry Pi Pico.
+*   [SSD1963-TFT-Library-for-PyBoard-and-RP2040 (⭐27)](https://github.com/robert-hh/SSD1963-TFT-Library-for-PyBoard-and-RP2040) - SSD1963 TFT Library for Pyboard and Raspberry Pi Pico.
 
 ### Display / OLED
 
@@ -176,7 +175,7 @@
 
 ### IO / Rotary Encoder
 
-*   [encodermenu (⭐87)](https://github.com/sgall17a/encodermenu) - Simple GUI menu for MicroPython using a rotary encoder and basic display.
+*   [encodermenu (⭐94)](https://github.com/sgall17a/encodermenu) - Simple GUI menu for MicroPython using a rotary encoder and basic display.
 
 ### Motion / Servo
 

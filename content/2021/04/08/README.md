@@ -28,7 +28,7 @@
 
 ### Contents / Imaging
 
-*   [OHIF (⭐2.4k)](https://github.com/OHIF/Viewers) - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker.
+*   [OHIF (⭐2.5k)](https://github.com/OHIF/Viewers) - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker.
 
 ### Contents / Dental
 
@@ -36,18 +36,18 @@
 
 ### Contents / Frameworks
 
-*   [API Server (⭐103)](https://github.com/smart-on-fhir/api-server) - FHIR Server to support patient- and clinician-facing apps.
+*   [API Server (⭐104)](https://github.com/smart-on-fhir/api-server) - FHIR Server to support patient- and clinician-facing apps.
 *   [Clinical Meteor project](https://github.com/clinical-meteor) - Meteor for FDA, HIPAA, and HL7 compliant applications.
 
 ### Contents / Libraries
 
-*   [Archie (⭐48)](https://github.com/openehr/archie) - OpenEHR Library written in Java.
+*   [Archie (⭐47)](https://github.com/openehr/archie) - OpenEHR Library written in Java.
 *   [DCMTK](https://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit.
-*   [dicom (⭐823)](https://github.com/suyashkumar/dicom) - High Performance DICOM Medical Image Parser in GoLang.
-*   [Fellow Oak DICOM (⭐908)](https://github.com/fo-dicom/fo-dicom) - DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono, and Unity.
-*   [FHIR protocol buffers (⭐721)](https://github.com/google/fhir) - A Google implementation of protocol buffers for FHIR.
-*   [php-fhir (⭐96)](https://github.com/dcarbone/php-fhir) - Tools for creating PHP classes from the HL7 FHIR Specification.
-*   [pynetdicom (⭐430)](https://github.com/pydicom/pynetdicom) - A Python implementation of the DICOM networking protocol.
+*   [dicom (⭐834)](https://github.com/suyashkumar/dicom) - High Performance DICOM Medical Image Parser in GoLang.
+*   [Fellow Oak DICOM (⭐929)](https://github.com/fo-dicom/fo-dicom) - DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono, and Unity.
+*   [FHIR protocol buffers (⭐732)](https://github.com/google/fhir) - A Google implementation of protocol buffers for FHIR.
+*   [php-fhir (⭐101)](https://github.com/dcarbone/php-fhir) - Tools for creating PHP classes from the HL7 FHIR Specification.
+*   [pynetdicom (⭐437)](https://github.com/pydicom/pynetdicom) - A Python implementation of the DICOM networking protocol.
 
 ### Contents / Data
 
@@ -71,7 +71,7 @@
 
 ### Editor Plugins
 
-*   [clojure-lsp (multiple editors) (⭐990)](https://github.com/clojure-lsp/clojure-lsp)
+*   [clojure-lsp (multiple editors) (⭐1k)](https://github.com/clojure-lsp/clojure-lsp)
 
 ## [5. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
@@ -137,7 +137,7 @@
 
 ### Hosting and media
 
-*   [Gemini Space](https://gemini.circumlunar.space/) is heavier than gopher, lighter than the web, will not replace either, strives for maximum power to weight ratio and takes user privacy very seriously. More [Resources / Awsome Gemini (⭐743)](https://github.com/kr1sp1n/awesome-gemini)
+*   [Gemini Space](https://gemini.circumlunar.space/) is heavier than gopher, lighter than the web, will not replace either, strives for maximum power to weight ratio and takes user privacy very seriously. More [Resources / Awsome Gemini (⭐790)](https://github.com/kr1sp1n/awesome-gemini)
 
 ## [9. Awesome Math](/content/rossant/awesome-math/README.md)
 

@@ -10,11 +10,11 @@
 
 ### Resources / Visual Effects
 
-*   [gdx-vfx (⭐163)](https://github.com/crashinvaders/gdx-vfx) - Flexible post-processing shader visual effects based on libgdx-contribs-postprocessing.
+*   [gdx-vfx (⭐170)](https://github.com/crashinvaders/gdx-vfx) - Flexible post-processing shader visual effects based on libgdx-contribs-postprocessing.
 
 ### Resources / Others
 
-*   [gdx-dbgagent (⭐26)](https://github.com/PokeMMO/gdx-dbgagent) - Java Agent for debugging common issues, like objects not being disposed and constants such as Color.WHITE being modified.
+*   [gdx-dbgagent (⭐27)](https://github.com/PokeMMO/gdx-dbgagent) - Java Agent for debugging common issues, like objects not being disposed and constants such as Color.WHITE being modified.
 
 ## [2. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -57,21 +57,20 @@
 
 *   [Executives ratify decisions made on the spot](https://twitter.com/kdeldycke/status/1088001688722644992) - Refines the concept above adapting [Tolstoy's thesis to business](https://news.ycombinator.com/item?id=18089716).
 *   [Army Leadership and the Profession](https://fas.org/irp/doddir/army/adp6_22.pdf) - Establishes and describes what leaders should be and do.
-*   [US Air Force's Strategic Leadership Studies](http://leadership.au.af.mil/sls-skil.htm) - A reference of leadership's competencies and skills.
 *   [How CEOs Manage Time](https://hbr.org/2018/07/the-leaders-calendar) - A study on what CEO of large companies spent their time on, and how. Opens a new window into what leadership is all about and into its many components and dimensions.
 *   [Operations and Internal Communication Strategies For Effective CEOs](https://www.sametab.com/blog/operations-and-internal-communication-strategies-for-effective-ceos) - After insisting on the importance of context and narratives, the author provide an interesting template (good for inspiration) of ritual and recurring internal communication devices.
 
 ### Roles / Engineering Managers
 
-*   [Identify what makes a great manager](https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/) - Google tried to prove managers don't matter. Instead, it discovered [10 Traits of the Very Best Ones](https://www.inc.com/scott-mautz/google-tried-to-prove-managers-dont-matter-instead-they-discovered-10-traits-of-very-best-ones.html).
+*   [Identify what makes a great manager](https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/) - Google tried to prove managers don't matter. Instead, it discovered [10 Traits of the Very Best Ones](https://web.archive.org/web/20200811104655/https://www.inc.com/scott-mautz/google-tried-to-prove-managers-dont-matter-instead-they-discovered-10-traits-of-very-best-ones.html).
 *   [As a product manager, how do you earn the respect and trust of your team?](https://twitter.com/johncutlefish/status/1124938723093766144)
 *   [Great PMs don't spend their time on solutions](https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions/) - Not on solutions, no. But on customer's problems.
 *   [Things I have learnt as the software engineering lead of a multinational](https://minnenratta.wordpress.com/2017/01/25/things-i-have-learnt-as-the-software-engineering-lead-of-a-multinational/) - Some interesting points here, some others needs to be challenged.
 
 ### Recruitment / Interview
 
-*   [Back-End Developer Interview Questions (⭐13k)](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A great source of inspiration.
-*   [Reverse interview (⭐25k)](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview. Be prepared to answer them as a manager.
+*   [Back-End Developer Interview Questions (⭐14k)](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A great source of inspiration.
+*   [Reverse interview (⭐26k)](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview. Be prepared to answer them as a manager.
 
 ### Motivation / Negotiation
 
@@ -79,8 +78,7 @@
 
 ### Culture / Procrastination
 
-*   [hacker-laws (⭐24k)](https://github.com/dwmkerr/hacker-laws) - Laws, Theories, Principles and Patterns that developers will find useful.
-*   [Adaptation vs adaptability](https://people.clas.ufl.edu/ulan/files/Conrad.pdf) - There is a spectrum between perfect efficiency and being completely flexible. This article explores ecosystems and the flows of material and energy between different organisms within the ecosystem. ([hinted by HN comment](https://news.ycombinator.com/item?id=20963513))
+*   [hacker-laws (⭐25k)](https://github.com/dwmkerr/hacker-laws) - Laws, Theories, Principles and Patterns that developers will find useful.
 
 ### Cognitive Tools / Collections
 
@@ -93,7 +91,6 @@
 ### Team Dynamics / Behavioral
 
 *   [A conversation with Elon Musk about Starship](https://youtu.be/cIQ36Kt7UVg?t=203) - In a team with very talented contributors, everyone's is a chief engineer: you are expected to challenge the status-quo and questions other department's constraints. This allow smart engineers to avoid the trap of optimizing for something that should not exist in the first place.
-*   [Symptoms of Groupthink](https://courses.washington.edu/psii101/Powerpoints/Symptoms%20of%20Groupthink.htm) - Overconfidence, tunnel vision and conformity pressure can led a group astray.
 *   [It's Not Sabotage, They're Drowning](https://shermanonsoftware.com/2019/11/15/its-not-sabotage-theyre-drowning/) - Some kind of push backs shouldn't be interpreted as intentional sabotage, but as drowning people sinking the lifeboat in an attempt to save themselves.
 
 ### Remote Work / Technical Debt
@@ -102,7 +99,7 @@
 
 ### Product Management / Standups
 
-*   [Awesome Product Management (⭐898)](https://github.com/dend/awesome-product-management) - A reference. All the missing pieces are found below.
+*   [Awesome Product Management (⭐1.1k)](https://github.com/dend/awesome-product-management) - A reference. All the missing pieces are found below.
 
 ### Product Management / Hiring PMs
 
@@ -137,10 +134,6 @@
 *   [Developers mentoring other developers: practices I've seen work well](https://blog.pragmaticengineer.com/developers-mentoring-other-developers/) - Discusses mentorship practices that work well engineer-to-engineer.
 *   [Developer Roadmaps](https://roadmap.sh/roadmaps) - Very high-level guides and paths to learn different practice and tools.
 
-### Communication / Reading
-
-*   [How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) - Outlines a practical and efficient three-pass method for reading research papers.
-
 ### Communication / Documentation
 
 *   [What nobody tells you about documentation](https://www.divio.com/blog/documentation/) - There is four kinds of documentation: tutorials, how-to guides, explanation and reference. Each with their own structure and mode of writing.
@@ -149,8 +142,7 @@
 ### Communication / Writing
 
 *   [How to Write a Technical Paper](https://pdfs.semanticscholar.org/441f/ac7c2020e1c8f0d32adffca697bbb8a198a1.pdf) - Serves as a guideline on how to write a good technical paper, in the form of a typical journal publication.
-*   [Learning Technical Writing Using the Engineering Method](https://www.cs.tufts.edu/\~nr/pubs/learn.pdf) - An alternative approach, involving a weekly meeting of a writing group. An interesting dynamic to gather feedback and experience.
-*   [Algorithm for writing a scientific manuscript](https://iubmb.onlinelibrary.wiley.com/doi/full/10.1002/bmb.20329) - A process to guide the preparation and refinement of manuscripts.
+*   [Learning Technical Writing Using the Engineering Method](https://www.cs.tufts.edu/~nr/pubs/learn.pdf) - An alternative approach, involving a weekly meeting of a writing group. An interesting dynamic to gather feedback and experience.
 *   [Write an Excellent Programming Blog](https://speakerdeck.com/pycon2016/a-jesse-jiryu-davis-write-an-excellent-programming-blog) - Tips on structure and style to produce great blog posts.
 
 ### Communication / Style
@@ -205,7 +197,7 @@
 
 ### Transportation
 
-- API: [Transport for Berlin, Germany (⭐107)](https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md)
+- API: [Transport for Berlin, Germany (⭐117)](https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md)
 
   Description: Third-party VBB API
 
@@ -232,34 +224,34 @@
 
 ### Audio Tools
 
-*   [matchering (⭐927)](https://github.com/sergree/matchering) - сontainerized web application and library for automated reference audio mastering.
+*   [matchering (⭐1.1k)](https://github.com/sergree/matchering) - сontainerized web application and library for automated reference audio mastering.
 
 ## [7. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### ASM / Music drivers and trackers
 
-*   [Game Boy Assembly Programming for the Modern Game Developer (⭐111)](https://github.com/ahrnbom/gbapfomgd) - An e-book about making Game Boy games in Assembly.
+*   [Game Boy Assembly Programming for the Modern Game Developer (⭐124)](https://github.com/ahrnbom/gbapfomgd) - An e-book about making Game Boy games in Assembly.
 
 ### ASM / Boilerplates and libraries
 
-*   [GingerBread (⭐108)](https://github.com/ahrnbom/gingerbread) - A software library for making your own Game Boy games. It is made to be used alongside the book [Game Boy Assembly Programming for the Modern Game Developer (⭐111)](https://github.com/ahrnbom/gbapfomgd) which also doubles as documentation.
+*   [GingerBread (⭐114)](https://github.com/ahrnbom/gingerbread) - A software library for making your own Game Boy games. It is made to be used alongside the book [Game Boy Assembly Programming for the Modern Game Developer (⭐124)](https://github.com/ahrnbom/gbapfomgd) which also doubles as documentation.
 
 ## [8. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
 ### Contents / Libraries
 
-*   [Preact-urql (⭐8k)](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - Use [urql (⭐8k)](https://github.com/FormidableLabs/urql) with Preact core + hooks.
+*   [Preact-urql (⭐8.2k)](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - Use [urql (⭐8.2k)](https://github.com/FormidableLabs/urql) with Preact core + hooks.
 
 ## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Miscellaneous
 
-*   [cl-jpeg (⭐19)](https://github.com/sharplispers/cl-jpeg) - Baseline JPEG encoder and decoder library. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [cl-jpeg (⭐20)](https://github.com/sharplispers/cl-jpeg) - Baseline JPEG encoder and decoder library. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### Developer utilities / Third-party APIs
 
 *   [flight-recorder (⭐13)](https://github.com/vseloved/flight-recorder) - a robust REPL history facility.
-*   [cl-flamegraph (⭐61)](https://github.com/40ants/cl-flamegraph) - A wrapper around SBCL's statistical profiler, to generate FlameGraph charts for Common Lisp programs. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [cl-flamegraph (⭐65)](https://github.com/40ants/cl-flamegraph) - A wrapper around SBCL's statistical profiler, to generate FlameGraph charts for Common Lisp programs. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ---
 

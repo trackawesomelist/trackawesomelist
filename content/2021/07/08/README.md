@@ -10,7 +10,7 @@
 
 ### Programming Languages / Node.js
 
-*   [node2nix (⭐444)](https://github.com/svanderburg/node2nix) - Generate Nix expression from a `package.json` (or `package-lock.json`) (to be stored as files).
+*   [node2nix (⭐468)](https://github.com/svanderburg/node2nix) - Generate Nix expression from a `package.json` (or `package-lock.json`) (to be stored as files).
 
 ## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Animations / Other
 
-*   [smoothState.js (⭐4.5k)](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery.
+*   [smoothState.js (⭐4.4k)](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery.
 *   [Mo.js](http://mojs.io) - Motion graphics toolbelt for the web.
 
 ## [4. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
@@ -40,11 +40,11 @@
 
 ### Software / Community-Supported Agriculture (CSA)
 
-*   [ACP Admin](https://acp-admin.ch/) - CSA administration. Manage members, subscriptions, deliveries, drop-off locations, member participation, invoices and emails. ([Source Code (⭐21)](https://github.com/acp-admin/acp-admin/)) `MIT` `Ruby`
+*   [ACP Admin](https://acp-admin.ch/) - CSA administration. Manage members, subscriptions, deliveries, drop-off locations, member participation, invoices and emails (documentation in French). ([Source Code (⭐25)](https://github.com/acp-admin/acp-admin/)) `MIT` `Ruby`
 
 ### Software / Groupware
 
-*   [Tracim (⭐190)](https://github.com/tracim/tracim) - Collaborative Platform for team collaboration: file,threads,notes,agenda,etc. `AGPL-3.0/LGPL-3.0/MIT` `Python`
+*   [Tracim (⭐192)](https://github.com/tracim/tracim) - Collaborative Platform for team collaboration: file,threads,notes,agenda,etc. `AGPL-3.0/LGPL-3.0/MIT` `Python`
 
 ## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
 

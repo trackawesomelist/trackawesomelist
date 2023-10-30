@@ -14,9 +14,9 @@
 
 ### Machine Learning Libraries / Frameworks
 
-*   [aws-sdk-machinelearning (⭐3.4k)](https://github.com/aws/aws-sdk-ruby) -
+*   [aws-sdk-machinelearning (⭐3.5k)](https://github.com/aws/aws-sdk-ruby) -
     Machine Learning API of the Amazon Web Services.
-*   [azure\_mgmt\_machine\_learning (⭐273)](https://github.com/Azure/azure-sdk-for-ruby) -
+*   [azure\_mgmt\_machine\_learning (⭐274)](https://github.com/Azure/azure-sdk-for-ruby) -
     Machine Learning API of the Microsoft Azure.
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)

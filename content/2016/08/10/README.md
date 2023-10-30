@@ -18,9 +18,9 @@ git push --force-with-lease <remote-name> <branch-name>
 
 ### Concurrency
 
-*   [CUB (⭐73)](https://github.com/NVlabs/cub) - CUB provides state-of-the-art, reusable software components for every layer of the CUDA programming mode. \[New BSD]
+*   [CUB (⭐70)](https://github.com/NVlabs/cub) - CUB provides state-of-the-art, reusable software components for every layer of the CUDA programming mode. \[New BSD]
 *   [moderngpu (⭐1.5k)](https://github.com/moderngpu/moderngpu) - moderngpu is a productivity library for general-purpose computing on GPUs. It is a header-only C++ library written for CUDA. The unique value of the library is in its accelerated primitives for solving irregularly parallel problems. \[FreeBSD & Copyright, Sean Baxter]
-*   [NCCL (⭐2.2k)](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. \[BSD]
+*   [NCCL (⭐2.4k)](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. \[BSD]
 
 ## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -32,21 +32,21 @@ git push --force-with-lease <remote-name> <branch-name>
 
 ### BSON
 
-*   [BSONMap (⭐8)](https://github.com/Nebo15/bsoneach) - Elixir package that applies a function to each document in a BSON file and has a low memory consumption.
+*   [BSONMap (⭐9)](https://github.com/Nebo15/bsoneach) - Elixir package that applies a function to each document in a BSON file and has a low memory consumption.
 
 ### Chatting
 
-*   [chatty (⭐34)](https://github.com/alco/chatty) - A basic IRC client that is most useful for writing a bot.
-*   [cog (⭐920)](https://github.com/operable/cog) - Cog is an open chatops platform that gives you a secure, collaborative command line right in your chat window.
+*   [chatty (⭐35)](https://github.com/alco/chatty) - A basic IRC client that is most useful for writing a bot.
+*   [cog (⭐921)](https://github.com/operable/cog) - Cog is an open chatops platform that gives you a secure, collaborative command line right in your chat window.
 *   [ExIrc (⭐147)](https://github.com/bitwalker/exirc) - IRC client adapter for Elixir projects.
-*   [Guri (⭐19)](https://github.com/elvio/guri) - Automate tasks using chat messages.
-*   [kaguya (⭐73)](https://github.com/Luminarys/Kaguya) - A small, powerful, and modular IRC bot.
-*   [slacker (⭐82)](https://github.com/koudelka/slacker) - A bot library for the Slack chat service.
+*   [Guri (⭐20)](https://github.com/elvio/guri) - Automate tasks using chat messages.
+*   [kaguya (⭐74)](https://github.com/Luminarys/Kaguya) - A small, powerful, and modular IRC bot.
+*   [slacker (⭐83)](https://github.com/koudelka/slacker) - A bot library for the Slack chat service.
 *   [yocingo (⭐39)](https://github.com/Yawolf/yocingo) - Create your own Telegram Bot.
 
 ### Examples and funny stuff
 
-*   [magnetissimo (⭐2.8k)](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
+*   [magnetissimo (⭐2.9k)](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
 
 ### Logging
 
@@ -60,12 +60,12 @@ git push --force-with-lease <remote-name> <branch-name>
 
 ### Project Generators
 
-*   [crystal\_lib (⭐139)](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
+*   [crystal\_lib (⭐137)](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
 
 ### Template Engine
 
-*   [Kilt (⭐147)](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
-*   [Slang (⭐231)](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
+*   [Kilt (⭐149)](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
+*   [Slang (⭐232)](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
 
 ## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

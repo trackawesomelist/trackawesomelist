@@ -19,7 +19,7 @@
 
 ### Text / Barcode
 
-*   [Parsey (⭐57)](https://github.com/rxwei/Parsey) - Parser combinator framework that supports source location tracking, backtracking prevention, and rich error messages.
+*   [Parsey (⭐58)](https://github.com/rxwei/Parsey) - Parser combinator framework that supports source location tracking, backtracking prevention, and rich error messages.
 
 ## [3. Awesome Design](/content/gztchan/awesome-design/README.md)
 

@@ -10,21 +10,21 @@
 
 ### Code Formatting
 
-*   [Standard (⭐2.3k)](https://github.com/testdouble/standard) - Ruby Style Guide, with linter & automatic code fixer
+*   [Standard (⭐2.4k)](https://github.com/testdouble/standard) - Ruby Style Guide, with linter & automatic code fixer
 
 ## [2. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Creating GIFs
 
-*   [Gifski (⭐6.7k)](https://github.com/sindresorhus/Gifski#readme) - **FREE** - More vivid colors than the rest, but still keep size low.
+*   [Gifski (⭐7.1k)](https://github.com/sindresorhus/Gifski#readme) - **FREE** - More vivid colors than the rest, but still keep size low.
 *   [LICEcap](https://www.cockos.com/licecap/) - **FREE** - Less intuitive, more features.
-*   [terminalizer (⭐14k)](https://github.com/faressoft/terminalizer) - **FREE** - Record your terminal and generate animated gif images or share a web player.
+*   [terminalizer (⭐15k)](https://github.com/faressoft/terminalizer) - **FREE** - Record your terminal and generate animated gif images or share a web player.
 
 ## [3. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Python / Financial Instruments and Pricing
 
-*   [pynance (⭐223)](https://github.com/GriffinAustin/pynance) - Lightweight Python library for assembling and analysing financial data.
+*   [pynance (⭐256)](https://github.com/GriffinAustin/pynance) - Lightweight Python library for assembling and analysing financial data.
 
 ## [4. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
@@ -34,15 +34,15 @@
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bitwarden (game4move78) (⭐17)](https://github.com/Game4Move78/zsh-bitwarden) - Adds functions to manage [bitwarden](https://bitwarden.com/) sessions.
+*   [bitwarden (game4move78) (⭐18)](https://github.com/Game4Move78/zsh-bitwarden) - Adds functions to manage [bitwarden](https://bitwarden.com/) sessions.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Code Generation
 
-*   [tabnine.com](https://www.tabnine.com/) — Tabnine helps developers create better software, faster by providing insights learned from all the code in the world. Plugin available.
+*   [tabnine.com](https://www.tabnine.com/) — Tabnine helps developers create better software faster by providing insights learned from all the code in the world. Plugin available.
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [cpea2506/one\_monokai.nvim (⭐77)](https://github.com/cpea2506/one_monokai.nvim) - One Monokai theme written in Lua.
+*   [cpea2506/one\_monokai.nvim (⭐109)](https://github.com/cpea2506/one_monokai.nvim) - One Monokai theme written in Lua.
 
 ## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -81,15 +81,15 @@
 
 ## [11. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
-*   [atmos (⭐391)](https://github.com/cloudposse/atmos) - A universal tool that converts deep merged YAML to module inputs. :alien:
+*   [atmos (⭐433)](https://github.com/cloudposse/atmos) - A universal tool that converts deep merged YAML to module inputs. :alien:
 
 ## [12. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-simple-vconsole (⭐5)](https://github.com/venojs/vite-plugin-simple-vconsole) - A debug console view inside your app to make mobile debugging easier, for both SPA and MPA.
+*   [vite-plugin-simple-vconsole (⭐6)](https://github.com/venojs/vite-plugin-simple-vconsole) - A debug console view inside your app to make mobile debugging easier, for both SPA and MPA.
 
 ---
 

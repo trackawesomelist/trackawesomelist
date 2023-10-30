@@ -23,7 +23,7 @@
 
 ### Applications
 
-*   [LCVPN (⭐512)](https://github.com/kanocz/lcvpn): Light decentralized VPN in golang.
+*   [LCVPN (⭐517)](https://github.com/kanocz/lcvpn): Light decentralized VPN in golang.
 *   [Meshbird (⭐3.5k)](https://github.com/meshbird/meshbird): Meshbird enables distributed private networking across geographically dispersed datacenters.
 *   [nuTorrent ☠️ (⭐231)](https://github.com/LeeChSien/nuTorrent): A Pure Javascript BitTorrent Client. Built with Electron and React.
 
@@ -87,7 +87,7 @@
 
 ### Contents / Components
 
-*   [Pimg (⭐100)](https://github.com/ooade/pimg) - Progressive Image Component; Used for lazy loading images.
+*   [Pimg (⭐101)](https://github.com/ooade/pimg) - Progressive Image Component; Used for lazy loading images.
 
 ## [9. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -109,15 +109,15 @@
 
 ### Date and Time
 
-*   [cocktail (⭐178)](https://github.com/peek-travel/cocktail) - Elixir date recurrence library based on iCalendar events.
+*   [cocktail (⭐202)](https://github.com/peek-travel/cocktail) - Elixir date recurrence library based on iCalendar events.
 
 ### Examples and funny stuff
 
-*   [feedx (⭐11)](https://github.com/erneestoc/feedx) - Add social feed functionality to current applications. Exemplify OTP umbrella app, with 3 apps. Thin phoenix controllers.
+*   [feedx (⭐12)](https://github.com/erneestoc/feedx) - Add social feed functionality to current applications. Exemplify OTP umbrella app, with 3 apps. Thin phoenix controllers.
 
 ### Framework Components
 
-*   [plug\_canonical\_host (⭐32)](https://github.com/remiprev/plug_canonical_host) - Plug to ensure all requests are served from a single canonical host.
+*   [plug\_canonical\_host (⭐35)](https://github.com/remiprev/plug_canonical_host) - Plug to ensure all requests are served from a single canonical host.
 
 ### HTML
 
@@ -125,7 +125,7 @@
 
 ### Queue
 
-*   [gen\_rmq (⭐178)](https://github.com/meltwater/gen_rmq) - Set of behaviours meant to be used to create RabbitMQ consumers and publishers.
+*   [gen\_rmq (⭐181)](https://github.com/meltwater/gen_rmq) - Set of behaviours meant to be used to create RabbitMQ consumers and publishers.
 
 ### Security
 
@@ -137,7 +137,7 @@
 
 ### Third Party APIs
 
-*   [shopify (⭐94)](https://github.com/nsweeting/shopify) - Easily access the Shopify API.
+*   [shopify (⭐99)](https://github.com/nsweeting/shopify) - Easily access the Shopify API.
 
 ### Translations and Internationalizations
 
@@ -253,7 +253,7 @@
 
 ### Contents / Tools
 
-*   [MIDI to PICO-8 (⭐57)](https://github.com/andmatand/midi-to-pico8) - A tool to convert MIDI files to PICO-8 music.
+*   [MIDI to PICO-8 (⭐59)](https://github.com/andmatand/midi-to-pico8) - A tool to convert MIDI files to PICO-8 music.
 
 ## [14. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
@@ -263,11 +263,11 @@
 
 ### Bug bounty / Other
 
-*   [Awesome bug bounty resources by EdOverflow (⭐4.5k)](https://github.com/EdOverflow/bugbounty-cheatsheet)
+*   [Awesome bug bounty resources by EdOverflow (⭐5.2k)](https://github.com/EdOverflow/bugbounty-cheatsheet)
 
 ### General / Other
 
-*   [Movies For Hackers (⭐9.3k)](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
+*   [Movies For Hackers (⭐9.8k)](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
 
 ## [15. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -278,7 +278,7 @@
 
 ### Resources / Other Lists
 
-*   [Awesome Humane Tech (⭐2.8k)](https://github.com/engagingspaces/awesome-humane-tech) - List of projects focusing on ethics, transparency, and privacy.
+*   [Awesome Humane Tech (⭐2.9k)](https://github.com/engagingspaces/awesome-humane-tech) - List of projects focusing on ethics, transparency, and privacy.
 
 ## [16. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
@@ -294,8 +294,8 @@
 
 ### System
 
-*   [baked\_file\_system (⭐170)](https://github.com/schovi/baked_file_system) - Virtual file system implementation
-*   [hardware (⭐71)](https://github.com/crystal-community/hardware) - Get CPU, Memory and Network informations of the running OS and its processes
+*   [baked\_file\_system (⭐171)](https://github.com/schovi/baked_file_system) - Virtual file system implementation
+*   [hardware (⭐70)](https://github.com/crystal-community/hardware) - Get CPU, Memory and Network informations of the running OS and its processes
 
 ## [18. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -317,11 +317,11 @@
 
 ### Debug
 
-*   [CodeXL (⭐974)](https://github.com/GPUOpen-Tools/CodeXL) - AMD's tool suite that includes debugger, profiler and frame/shader analysis.
+*   [CodeXL (⭐986)](https://github.com/GPUOpen-Tools/CodeXL) - AMD's tool suite that includes debugger, profiler and frame/shader analysis.
 
 ### Libraries
 
-*   [assimp (⭐8.3k)](https://github.com/assimp/assimp) - Portable library to import 3D models in a uniform manner.
+*   [assimp (⭐9.4k)](https://github.com/assimp/assimp) - Portable library to import 3D models in a uniform manner.
 
 ### Videos
 
@@ -354,21 +354,21 @@
 
 ### Applications / Directory Navigation
 
-*   [gcalcli (⭐2.9k)](https://github.com/insanum/gcalcli) - Google Calendar command line interface
+*   [gcalcli (⭐3k)](https://github.com/insanum/gcalcli) - Google Calendar command line interface
 
 ## [25. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-persian-datetime-picker (⭐561)](https://github.com/talkhabi/vue-persian-datetime-picker) Persian material datepicker. Supports datetime, date, time, year, month.
+*   [vue-persian-datetime-picker (⭐574)](https://github.com/talkhabi/vue-persian-datetime-picker) Persian material datepicker. Supports datetime, date, time, year, month.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-next-level-scroll (⭐49)](https://github.com/Developmint/vue-next-level-scroll) - A component based and SSR ready approach to smooth scrolling using the modern Scroll behavior API
+*   [vue-next-level-scroll (⭐48)](https://github.com/Developmint/vue-next-level-scroll) - A component based and SSR ready approach to smooth scrolling using the modern Scroll behavior API
 
 ### Components & Libraries / Utilities
 
-*   [vue-router-user-roles (⭐241)](https://github.com/anthonygore/vue-router-user-roles) - Protects routes based on user roles. Add your own authentication.
+*   [vue-router-user-roles (⭐242)](https://github.com/anthonygore/vue-router-user-roles) - Protects routes based on user roles. Add your own authentication.
 
 ## [26. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
@@ -427,7 +427,7 @@
 ### .NET / General-Purpose Machine Learning
 
 *   [GeneticSharp (⭐1.1k)](https://github.com/giacomelli/GeneticSharp) - Multi-platform genetic algorithm library for .NET Core and .NET Framework. The library has several implementations of GA operators, like: selection, crossover, mutation, reinsertion and termination.
-*   [ML.NET (⭐8.4k)](https://github.com/dotnet/machinelearning) - ML.NET is a cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers. ML.NET was originally developed in Microsoft Research and evolved into a significant framework over the last decade and is used across many product groups in Microsoft like Windows, Bing, PowerPoint, Excel and more.
+*   [ML.NET (⭐8.5k)](https://github.com/dotnet/machinelearning) - ML.NET is a cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers. ML.NET was originally developed in Microsoft Research and evolved into a significant framework over the last decade and is used across many product groups in Microsoft like Windows, Bing, PowerPoint, Excel and more.
 *   [Vulpes (⭐116)](https://github.com/fsprojects/Vulpes) - Deep belief and deep learning implementation written in F# and leverages CUDA GPU execution with Alea.cuBase.
 
 ## [30. Bots](/content/hackerkid/bots/week/README.md)
@@ -480,13 +480,13 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Container Security (⭐10)](https://github.com/kai5263499/container-security-awesome) - A curated list of awesome resources related to container building and runtime security
+*   [Awesome Container Security (⭐11)](https://github.com/kai5263499/container-security-awesome) - A curated list of awesome resources related to container building and runtime security
 
 ## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Animation
 
-*   [SpriteKitEasingSwift (⭐112)](https://github.com/craiggrummitt/SpriteKitEasingSwift) - Better Easing for SpriteKit.
+*   [SpriteKitEasingSwift (⭐113)](https://github.com/craiggrummitt/SpriteKitEasingSwift) - Better Easing for SpriteKit.
 
 ### Core Data
 
@@ -494,28 +494,28 @@
 
 ### Images / Barcode
 
-*   [BlockiesSwift (⭐58)](https://github.com/Boilertalk/BlockiesSwift) - Unique blocky identicons/profile picture generator.
+*   [BlockiesSwift (⭐60)](https://github.com/Boilertalk/BlockiesSwift) - Unique blocky identicons/profile picture generator.
 *   [ImageDetect (⭐301)](https://github.com/Feghal/ImageDetect) - Detect and crop faces, barcodes and texts in image with iOS 11 Vision API.
 
 ### Logging / Barcode
 
-*   [TraceLog (⭐51)](https://github.com/tonystone/tracelog) :penguin: - Dead Simple: logging the way it's meant to be!  Runs on iOS, macOS, and Linux.
+*   [TraceLog (⭐52)](https://github.com/tonystone/tracelog) :penguin: - Dead Simple: logging the way it's meant to be!  Runs on iOS, macOS, and Linux.
 
 ### Webserver / Barcode
 
-*   [Curassow (⭐397)](https://github.com/kylef-archive/Curassow) :penguin: - HTTP server using the pre-fork worker model.
+*   [Curassow (⭐396)](https://github.com/kylef-archive/Curassow) :penguin: - HTTP server using the pre-fork worker model.
 
 ### Scripting / Barcode
 
-*   [Swift for Scripting (⭐234)](https://github.com/artemnovichkov/Swift-For-Scripting) - A hand-curated collection of useful and informative scripting material.
+*   [Swift for Scripting (⭐266)](https://github.com/artemnovichkov/Swift-For-Scripting) - A hand-curated collection of useful and informative scripting material.
 
 ### Text / Barcode
 
-*   [Croc (⭐129)](https://github.com/JKalash/Croc) - A lightweight Emoji parsing and querying library.
+*   [Croc (⭐130)](https://github.com/JKalash/Croc) - A lightweight Emoji parsing and querying library.
 
 ### Template / Barcode
 
-*   [Stencil (⭐2.2k)](https://github.com/stencilproject/Stencil) - Simple and powerful template language.
+*   [Stencil (⭐2.3k)](https://github.com/stencilproject/Stencil) - Simple and powerful template language.
 
 ### Transition / Barcode
 
@@ -589,15 +589,15 @@
 
 ### Assets
 
-*   [Bundle Transformer (⭐120)](https://github.com/Taritsyn/BundleTransformer) - Modular extension for [Microsoft ASP.NET Web Optimization Framework](https://www.nuget.org/packages/Microsoft.AspNet.Web.Optimization). Its modules supports LESS, Sass, CoffeeScript, TypeScript, Mustache, Handlebars, Autoprefixer along with a bunch of different JS and CSS minifiers.
+*   [Bundle Transformer (⭐123)](https://github.com/Taritsyn/BundleTransformer) - Modular extension for [Microsoft ASP.NET Web Optimization Framework](https://www.nuget.org/packages/Microsoft.AspNet.Web.Optimization). Its modules supports LESS, Sass, CoffeeScript, TypeScript, Mustache, Handlebars, Autoprefixer along with a bunch of different JS and CSS minifiers.
 
 ### Compilers, Transpilers and Languages
 
-*   [Mond (⭐311)](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API.
+*   [Mond (⭐319)](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API.
 
 ### Compression
 
-*   [DotNetZip.Semverd (⭐499)](https://github.com/haf/DotNetZip.Semverd) - An open-source project that delivers a .NET library for handling ZIP files, and some associated tools. (fork of [**Unmaintained** DotNetZip](https://archive.codeplex.com/?p=dotnetzip))
+*   [DotNetZip.Semverd (⭐512)](https://github.com/haf/DotNetZip.Semverd) - An open-source project that delivers a .NET library for handling ZIP files, and some associated tools. (fork of [**Unmaintained** DotNetZip](https://archive.codeplex.com/?p=dotnetzip))
 
 ### Cryptography
 
@@ -605,20 +605,20 @@
 
 ### ETL
 
-*   [Cinchoo ETL (⭐657)](https://github.com/Cinchoo/ChoETL) - ETL Framework for .NET (Read / Write CSV, Flat, Xml, JSON, Key-Value formatted files)
+*   [Cinchoo ETL (⭐701)](https://github.com/Cinchoo/ChoETL) - ETL Framework for .NET (Read / Write CSV, Flat, Xml, JSON, Key-Value formatted files)
 *   [Reactive ETL](https://archive.codeplex.com/?p=reactiveetl) - Reactive ETL is a rewrite of Rhino ETL using the reactive extensions for .NET
 
 ### Event aggregator and messenger
 
-*   [Xer.Cqrs (⭐98)](https://github.com/XerProjects/Xer.Cqrs) - A simple library for creating applications based on the CQRS pattern with support for attribute routing and hosted handlers. Developed in C# targeting .NET Standard 1.0.
+*   [Xer.Cqrs (⭐99)](https://github.com/XerProjects/Xer.Cqrs) - A simple library for creating applications based on the CQRS pattern with support for attribute routing and hosted handlers. Developed in C# targeting .NET Standard 1.0.
 
 ### GUI
 
-*   [Office Ribbon (⭐680)](https://github.com/RibbonWinForms/RibbonWinForms) - A library that implements MS Office Ribbon for WinForms.
+*   [Office Ribbon (⭐698)](https://github.com/RibbonWinForms/RibbonWinForms) - A library that implements MS Office Ribbon for WinForms.
 
 ### HTTP
 
-*   [Refit (⭐7.2k)](https://github.com/reactiveui/refit) - The automatic type-safe REST library for Xamarin and .NET
+*   [Refit (⭐7.6k)](https://github.com/reactiveui/refit) - The automatic type-safe REST library for Xamarin and .NET
 
 ### Minification
 
@@ -642,7 +642,7 @@
 
 ### Reactive Programming
 
-*   [Rx.NET (⭐6k)](https://github.com/dotnet/reactive) - The Reactive Extensions (Rx) is a library for composing asynchronous and event-based programs using observable sequences and LINQ-style query operators
+*   [Rx.NET (⭐6.2k)](https://github.com/dotnet/reactive) - The Reactive Extensions (Rx) is a library for composing asynchronous and event-based programs using observable sequences and LINQ-style query operators
 
 ### Testing
 
@@ -656,7 +656,7 @@
 
 *   [WebSocket4NET](https://archive.codeplex.com/?p=websocket4net) - WebSocket client for .NET 2.0+, Xamarin, Mono, Silverlight, Windows Phone, & WinRT
 *   [Crossertech](https://crosser.io/) - Provides a great set of tools for you to build real-time applications on the Microsoft.NET plattform and much more. **\[$]**
-*   [WampSharp (⭐382)](https://github.com/Code-Sharp/WampSharp) - A C# implementation of [The Web Application Messaging Protocol](https://wamp-proto.org/) - a protocol that provides messaging patterns of Remote Procedure Calls and Publish/Subscribe over WebSockets.
+*   [WampSharp (⭐384)](https://github.com/Code-Sharp/WampSharp) - A C# implementation of [The Web Application Messaging Protocol](https://wamp-proto.org/) - a protocol that provides messaging patterns of Remote Procedure Calls and Publish/Subscribe over WebSockets.
 
 ---
 

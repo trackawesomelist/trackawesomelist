@@ -10,7 +10,7 @@
 
 ### Interfaces to Multiple Backends
 
-*   [go-transaction-manager (⭐46)](https://github.com/avito-tech/go-transaction-manager) - Transaction manager with multiple adapters (sql, sqlx, gorm, mongo, ...) controls transaction boundaries.
+*   [go-transaction-manager (⭐79)](https://github.com/avito-tech/go-transaction-manager) - Transaction manager with multiple adapters (sql, sqlx, gorm, mongo, ...) controls transaction boundaries.
 
 ## [2. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -27,17 +27,17 @@
 ### Editor Plugins
 
 *   Lite-XL
-    *   [lite-plugin-crystal (⭐3)](https://github.com/Tamnac/lite-plugin-crystal) - Crystal support for the [Lite-XL](https://lite-xl.com/en/) editor
+    *   [lite-plugin-crystal (⭐5)](https://github.com/Tamnac/lite-plugin-crystal) - Crystal support for the [Lite-XL](https://lite-xl.com/en/) editor
 
 ## [4. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Computer Science
 
-*   [Generative AI (⭐770)](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generate a wide range of unique content in text, image and audio format.
+*   [Generative AI (⭐3.2k)](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generate a wide range of unique content in text, image and audio format.
 
 ### Decentralized Systems
 
-*   [ZeroNet (⭐21)](https://github.com/zolagonano/awesome-zeronet#readme) - A decentralized web-like network of peer-to-peer users.
+*   [ZeroNet (⭐47)](https://github.com/zolagonano/awesome-zeronet#readme) - A decentralized web-like network of peer-to-peer users.
 
 ## [5. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 

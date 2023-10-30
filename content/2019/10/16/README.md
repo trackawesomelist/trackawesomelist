@@ -24,7 +24,7 @@
 
 ### BaaS
 
-*   [backendless.com](https://backendless.com/) — Mobile and Web Baas, with 1 GB file storage free, push notifications 50000/month, and 1000 data objects in table.
+*   [backendless.com](https://backendless.com/) — Mobile and Web Baas, with 1 GB file storage free, push notifications of 50,000/month, and 1000 data objects in the table.
 
 ## [3. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Open Source / Casual
 
-*   [Bob Box (⭐38)](https://github.com/fireslime/bounce_box) - A simple casual game that you can play with one finger. Tap to stop, avoid obstacles! By [FireSlime](https://fireslime.xyz)
+*   [Bob Box (⭐39)](https://github.com/fireslime/bounce_box) - A simple casual game that you can play with one finger. Tap to stop, avoid obstacles! By [FireSlime](https://fireslime.xyz)
 
 ### Open Source / Endless Runner
 

@@ -10,17 +10,17 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Embedbase (⭐414)](https://github.com/different-ai/embedbase): The native Software 3.0 stack for building AI-powered applications. ![GitHub Repo stars](https://img.shields.io/github/stars/different-ai/embedbase?style=social)
+*   [Embedbase (⭐438)](https://github.com/different-ai/embedbase): The native Software 3.0 stack for building AI-powered applications. ![GitHub Repo stars](https://img.shields.io/github/stars/different-ai/embedbase?style=social)
 
 ## [2. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / Scanning / Pentesting
 
-*   [Cognito Scanner (⭐20)](https://github.com/padok-team/cognito-scanner) - CLI tool to pentest Cognito AWS instance. It implements three attacks: unwanted account creation, account oracle and identity pool escalation
+*   [Cognito Scanner (⭐24)](https://github.com/padok-team/cognito-scanner) - CLI tool to pentest Cognito AWS instance. It implements three attacks: unwanted account creation, account oracle and identity pool escalation
 
 ### Network / Monitoring / Logging
 
-*   [Substation (⭐202)](https://github.com/brexhq/substation) - Substation is a cloud native data pipeline and transformation toolkit written in Go.
+*   [Substation (⭐229)](https://github.com/brexhq/substation) - Substation is a cloud native data pipeline and transformation toolkit written in Go.
 
 ### Network / IDS / IPS / Host IDS / Host IPS
 
@@ -88,4 +88,5 @@
 
 ---
 
+- Prev: [Sep 04, 2023](/content/2023/09/04/README.md)
 - Next: [Sep 02, 2023](/content/2023/09/02/README.md)

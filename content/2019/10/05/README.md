@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 05, 2019
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,21 +10,15 @@
 
 ### Network Protocols
 
-*   [telnet.cr (⭐10)](https://github.com/spider-gazelle/telnet.cr) - Telnet protocol
+*   [telnet.cr (⭐11)](https://github.com/spider-gazelle/telnet.cr) - Telnet protocol
 
-## [2. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
-
-### Data Manipulation / Data Frames
-
-*   [pandas\_flavor (⭐276)](https://github.com/Zsailer/pandas_flavor) - A package that allows writing your own flavor of Pandas easily.
-
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - IRC
 
-*   [ngircd](https://ngircd.barton.de/) - Free, portable and lightweight Internet Relay Chat server for small or private networks. ([Source Code (⭐364)](https://github.com/ngircd/ngircd)) `GPL-2.0` `C`
+*   [ngircd](https://ngircd.barton.de/) - Free, portable and lightweight Internet Relay Chat server for small or private networks. ([Source Code (⭐385)](https://github.com/ngircd/ngircd)) `GPL-2.0` `C/deb`
 
-## [4. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
+## [3. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
 
 ### Databases
 
@@ -69,32 +63,32 @@
 *   [Mitteilungen der Österreichischen Gesellschaft für Tropenmedizin und Parasitologie](https://www.zobodat.at/publikation_series.php?id=1351) - 23 open access volumes (1971-2001) of the scientific journal of the Austrian Society for Tropical Medicine and Parasitology.
 *   [Parasitologia Hungarica](http://publication.nhmus.hu/parasitologia/bannales.php?volume=1) - 31 open-access volumes (1960-1998) of Parasitologia Hungarica, a scientific journal hosted by the Hungarian Natural History Museum.
 
-## [5. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
+## [4. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 
 ### Inspiration / Games
 
 *   [Void Golf](https://cactusmancer.itch.io/void-golf) - Shoot giant pieces of space rock into black holes, using gravitational fields, physics-defying walls and wormholes in a minimalist top-down view.
 
-## [6. Awesome](/content/Awesome-Windows/Awesome/README.md)
+## [5. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
 ### Online Storage
 
 *   [pCloud](https://www.pcloud.com) - A swiss based privacy first cloud provider. Also offers one time payment lifetime plans.
 *   [Sync](https://www.sync.com/) - Encrypted file storage that stores all files in canadian datacenters
 
-## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Design and Product / Design Tools
 
 *   [Pencil2D](https://www.pencil2d.org) - A easy, intuitive tool to make 2D hand-drawn animations. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/pencil2d/pencil) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [8. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [7. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Open Source Apps / Navigation Demos
 
 *   [TensorFlow.js Starter (⭐9)](https://github.com/t73liu/tfjs-starter) - TensorFlow\.js starter app using MobileNet to predict image class. [Blog post](https://t73liu.github.io/posts/experimenting-with-tfjs/) for additional context.
 
-## [9. Awesome C](/content/inputsh/awesome-c/README.md)
+## [8. Awesome C](/content/inputsh/awesome-c/README.md)
 
 ### Build Systems
 
@@ -109,7 +103,7 @@
 
 *   [CommonMark (⭐4.7k)](https://github.com/commonmark/commonmark-spec) - C implementation of the CommonMark spec. [`Various Licenses`](https://github.com/commonmark/commonmark-spec/blob/master/LICENSE)
 
-## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Articles
 

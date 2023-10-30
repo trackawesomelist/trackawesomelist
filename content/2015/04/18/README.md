@@ -50,14 +50,14 @@
 
 ### Search
 
-*   [chewy (⭐1.8k)](https://github.com/toptal/chewy) - High-level Elasticsearch Ruby framework based on the official elasticsearch-ruby client.
+*   [chewy (⭐1.9k)](https://github.com/toptal/chewy) - High-level Elasticsearch Ruby framework based on the official elasticsearch-ruby client.
 
 ## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Validations
 
-*   [uk\_postcode (⭐9)](https://github.com/KushalP/uk_postcode) - UK postcode parsing and validation library.
-*   [vex (⭐564)](https://github.com/CargoSense/vex) - An extensible data validation library for Elixir.
+*   [uk\_postcode (⭐10)](https://github.com/KushalP/uk_postcode) - UK postcode parsing and validation library.
+*   [vex (⭐577)](https://github.com/CargoSense/vex) - An extensible data validation library for Elixir.
 
 ---
 

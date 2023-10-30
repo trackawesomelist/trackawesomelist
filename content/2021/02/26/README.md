@@ -10,7 +10,7 @@
 
 ### Specs and Standards / MPEG
 
-*   [ISO Base Media File Format Reference Software (⭐97)](https://github.com/MPEGGroup/isobmff)  -
+*   [ISO Base Media File Format Reference Software (⭐99)](https://github.com/MPEGGroup/isobmff)  -
 *   [MPEG About](https://www.mpegstandards.org/about-mpeg/)  -
 *   [MPEG High Efficiency Image File Format (HEIF)](https://nokiatech.github.io/heif/)  -
 *   [MPEG Meetings](https://www.mpegstandards.org/meetings/)  -
@@ -34,11 +34,11 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Funexpected Flash Tools (⭐18)](https://github.com/funexpected/flash-tools) - Adobe Animate (Flash) plugin that allows you to export a project for a Godot Engine.
+*   [Funexpected Flash Tools (⭐19)](https://github.com/funexpected/flash-tools) - Adobe Animate (Flash) plugin that allows you to export a project for a Godot Engine.
 
 ### Modules / Godot 3.2+
 
-*   [Flash Module (⭐29)](https://github.com/funexpected/godot-flash-module) - Use Adobe Animate (Flash) projects in Godot.
+*   [Flash Module (⭐33)](https://github.com/funexpected/godot-flash-module) - Use Adobe Animate (Flash) projects in Godot.
 
 ## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -68,19 +68,19 @@
 
 ### Design and UI
 
-*   [Plasmic](https://www.plasmic.app/) - A fast, easy to use, powerful web design tool and page builder that integrates into your codebase. Build responsive pages or complex components; optionally extend with code; and publish to production sites and apps.
+*   [Plasmic](https://www.plasmic.app/) - A fast, easy-to-use, robust web design tool and page builder that integrates into your codebase. Build responsive pages or complex components; optionally extend with code; and publish to production sites and apps.
 
 ## [8. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Performance Monitoring
 
-*   [RoRvsWild (⭐227)](https://github.com/BaseSecrete/rorvswild) - Performances and exceptions monitoring for Rails developers.
+*   [RoRvsWild (⭐249)](https://github.com/BaseSecrete/rorvswild) - Performances and exceptions monitoring for Rails developers.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-lunar-calendar-pro (⭐71)](https://github.com/wangdaodao/vue-lunar-calendar-pro) - A vue component for lunar calendar. Uses calendar.js for date operations.
+*   [vue-lunar-calendar-pro (⭐75)](https://github.com/wangdaodao/vue-lunar-calendar-pro) - A vue component for lunar calendar. Uses calendar.js for date operations.
 
 ---
 

@@ -8,16 +8,15 @@
 
 ## [1. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
-### Services
+### Pinning services
 
-*   [Eternum](https://www.eternum.io/) - Paid pinning service with an easy-to-use API.
 *   [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
 
 ## [2. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Runtime / Playground
 
-*   [typescript-is (⭐928)](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
+*   [typescript-is (⭐944)](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
 
 ## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -80,11 +79,11 @@ Webpage: <http://www.cafevitoria.com/>
 
 ### Misc
 
-*   [monads (⭐47)](https://github.com/alex-lairan/monads) - Monad implementation
+*   [monads (⭐46)](https://github.com/alex-lairan/monads) - Monad implementation
 
 ### Testing
 
-*   [vcr (⭐57)](https://github.com/spoved/vcr.cr) - A HTTP capture and replay implementation for crystal
+*   [vcr (⭐59)](https://github.com/spoved/vcr.cr) - A HTTP capture and replay implementation for crystal
 
 ### Third-party APIs
 
@@ -110,7 +109,7 @@ Webpage: <http://www.cafevitoria.com/>
 
 ### Software / Content Management Systems (CMS)
 
-*   [Contao](https://contao.org/) - Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications. ([Source Code (⭐277)](https://github.com/contao/contao/)) `LGPL-3.0` `PHP`
+*   [Contao](https://contao.org/) - Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications. ([Source Code (⭐297)](https://github.com/contao/contao/)) `LGPL-3.0` `PHP`
 
 ## [10. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -159,33 +158,28 @@ Webpage: <http://www.cafevitoria.com/>
 ### React Development Tools
 
 *   [reactotron (⭐14k)](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
-*   [eslint-plugin-react (⭐8.4k)](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
-
-### React Component Libraries
-
-*   [blueprint (⭐20k)](https://github.com/palantir/blueprint) - A React-based Palantir's UI toolkit for the web
-*   [semantic-ui-react (⭐13k)](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration
+*   [eslint-plugin-react (⭐8.7k)](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
 
 ### React Styling
 
-*   [styled-components (⭐39k)](https://github.com/styled-components/styled-components) - Visual primitives for the component age
-*   [emotion (⭐16k)](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition
-*   [jss (⭐6.9k)](https://github.com/cssinjs/jss) - authoring tool for CSS which uses JavaScript as a host language
+*   [styled-components (⭐40k)](https://github.com/styled-components/styled-components) - Visual primitives for the component age
+*   [emotion (⭐17k)](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition
+*   [jss (⭐7k)](https://github.com/cssinjs/jss) - authoring tool for CSS which uses JavaScript as a host language
 
 ### React Testing
 
-*   [jest (⭐42k)](https://github.com/facebook/jest) - Delightful JavaScript Testing
+*   [jest (⭐43k)](https://github.com/facebook/jest) - Delightful JavaScript Testing
 
 ### React Awesome Components
 
-*   [react-datepicker (⭐7.3k)](https://github.com/Hacker0x01/react-datepicker/) - A simple and reusable datepicker component for React
-*   [react-loading-skeleton (⭐3.3k)](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app
+*   [react-datepicker (⭐7.6k)](https://github.com/Hacker0x01/react-datepicker/) - A simple and reusable datepicker component for React
+*   [react-loading-skeleton (⭐3.6k)](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app
 
 ### React Components Sandboxes
 
-*   [storybook (⭐78k)](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation
+*   [storybook (⭐81k)](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation
 *   [react-styleguidist (⭐11k)](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
-*   [react-cosmos (⭐7.8k)](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
+*   [react-cosmos (⭐7.9k)](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
 
 ---
 

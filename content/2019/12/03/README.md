@@ -10,7 +10,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [Writing](https://josephernest.github.io/writing/) - Lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported). No lag when writing. ([Source Code (⭐991)](https://github.com/josephernest/writing)) `MIT` `Javascript`
+*   [Writing](https://josephernest.github.io/writing/) - Lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported). No lag when writing. ([Source Code (⭐1k)](https://github.com/josephernest/writing)) `MIT` `Javascript`
 
 ## [2. Magictools](/content/ellisonleao/magictools/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Visitor Session Recording
 
-*   [FullStory.com](https://www.fullstory.com) — 1,000 sessions/month with 1 month data retention and 3 user seats. More information [here](https://help.fullstory.com/hc/en-us/articles/360020623354-FullStory-Free-Edition).
+*   [FullStory.com](https://www.fullstory.com) — 1,000 sessions/month with one month data retention and three user seats. More information [here](https://help.fullstory.com/hc/en-us/articles/360020623354-FullStory-Free-Edition).
 
 ## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -34,13 +34,13 @@
 
 ### Miscellaneous / Third Party Hosts
 
-*   [k8s-usenet (⭐75)](https://github.com/aldoborrero/k8s-usenet) A collection of Helm (Kubernetes) charts related to different Usenet services (sabnzbd, radarr, sonarr...).
+*   [k8s-usenet (⭐76)](https://github.com/aldoborrero/k8s-usenet) A collection of Helm (Kubernetes) charts related to different Usenet services (sabnzbd, radarr, sonarr...).
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [Vue Expenses (⭐206)](https://github.com/simplyvinay/vue-expenses) - Expense tracking app made with Vue.js, Vuetify and ASP.NET Core
+*   [Vue Expenses (⭐219)](https://github.com/simplyvinay/vue-expenses) - Expense tracking app made with Vue.js, Vuetify and ASP.NET Core
 
 ---
 

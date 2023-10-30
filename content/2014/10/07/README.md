@@ -17,7 +17,7 @@
 ### API / Runner
 
 *   [amygdala (⭐392)](https://github.com/lincolnloop/amygdala) - RESTful HTTP client for JavaScript powered web applications.
-*   [jquery.rest (⭐618)](https://github.com/jpillora/jquery.rest) - A jQuery plugin for easy consumption of RESTful APIs.
+*   [jquery.rest (⭐614)](https://github.com/jpillora/jquery.rest) - A jQuery plugin for easy consumption of RESTful APIs.
 
 ## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -33,16 +33,16 @@
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### [dotzsh](https://github.com/dotphiles/dotzsh) / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### [dotzsh](https://github.com/dotphiles/dotzsh) / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   Load the plugin module in `.zshrc`
 
-### [Oh-My-Zsh](http://ohmyz.sh/) / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### [Oh-My-Zsh](http://ohmyz.sh/) / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   `cd ~/.oh-my-zsh/custom/plugins`
 *   `git clone repo`
 
-### [Prezto](https://github.com/sorin-ionescu/prezto) / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### [Prezto](https://github.com/sorin-ionescu/prezto) / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   Clone the plugin into your prezto modules directory
 *   Add the plugin to your `.zpreztorc` file

@@ -16,7 +16,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [SwiftBar (⭐2.2k)](https://github.com/swiftbar/SwiftBar/) - Powerful macOS menu bar customization tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/swiftbar/SwiftBar/)
+*   [SwiftBar (⭐2.3k)](https://github.com/swiftbar/SwiftBar/) - Powerful macOS menu bar customization tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/swiftbar/SwiftBar/)
 
 ## [3. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 
@@ -28,7 +28,7 @@
 
 ### React Styling
 
-*   [linaria (⭐10k)](https://github.com/callstack/linaria) - Zero-Runtime CSS in JS library
+*   [linaria (⭐11k)](https://github.com/callstack/linaria) - Zero-Runtime CSS in JS library
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

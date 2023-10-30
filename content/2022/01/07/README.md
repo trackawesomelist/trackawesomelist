@@ -47,7 +47,7 @@
 
 ### Showcases
 
-*   [Demo.Playwright (⭐170)](https://github.com/MarcusFelling/Demo.Playwright) - Various testing scenarios with Playwright, using the official test-runner and scripts authored in TypeScript.
+*   [Demo.Playwright (⭐173)](https://github.com/MarcusFelling/Demo.Playwright) - Various testing scenarios with Playwright, using the official test-runner and scripts authored in TypeScript.
 
 ## [4. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
@@ -59,13 +59,13 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vest (⭐2.1k)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
+*   [vest (⭐2.2k)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
 
 ## [6. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
 ### Development Utilities
 
-*   [bitExpert/phpstan-magento (⭐95)](https://github.com/bitExpert/phpstan-magento) - Magento specific extension for PHPStan
+*   [bitExpert/phpstan-magento (⭐121)](https://github.com/bitExpert/phpstan-magento) - Magento specific extension for PHPStan
 
 ### Company Blogs / Progressive Web Application
 
@@ -107,13 +107,13 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [consoleau/kassava (⭐109)](https://github.com/consoleau/kassava) - This library provides some useful kotlin extension functions for implementing toString() and equals() without all of the boilerplate.
+*   [consoleau/kassava (⭐110)](https://github.com/consoleau/kassava) - This library provides some useful kotlin extension functions for implementing toString() and equals() without all of the boilerplate.
 
 ## [12. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Overlays / Webinterface
 
-*   [nixpkgs-firefox-darwin (⭐13)](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - Automatically updated Firefox binary packages for macOS.
+*   [nixpkgs-firefox-darwin (⭐18)](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - Automatically updated Firefox binary packages for macOS.
 
 ## [13. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -133,7 +133,7 @@
 *   [OpenBCI](https://openbci.com/) - Brain computer interface.
 *   [OpenSPIM](https://openspim.org/) - Open Access platform for Three-dimensional (3D) microscopy.
 *   [mesoSPIM](http://mesospim.org/) - Open-source light-sheet microscopes for imaging in cleared tissue.
-*   [openUC2 (⭐342)](https://github.com/openUC2/UC2-GIT) - Open-source modular microscopy toolbox.
+*   [openUC2 (⭐374)](https://github.com/openUC2/UC2-GIT) - Open-source modular microscopy toolbox.
 *   [OpenFlexure](https://openflexure.org/) - Open-source, 3D-printed microscope, including a precise mechanical stage.
 
 ### Talks
@@ -175,13 +175,13 @@
 
 *   [Building open source hardware](https://books.google.nl/books?id=wg27BQAAQBAJ\&lpg=PP1\&dq=open%20source%20hardware\&pg=PP1##v=onepage\&q=open%20source%20hardware\&f=false) - Book by Alicia Gibb, on building open source hardware from 2014.
 *   [Open-source Lab](https://books.google.nl/books?id=0bOKAAAAQBAJ\&lpg=PP1\&dq=open%20source%20hardware\&pg=PP1##v=onepage\&q=open%20source%20hardware\&f=false) - Book by Josua m. Pearce, how to build your own hardware and reduce costs.
-*   [Free to Make](https://books.google.nl/books?id=jz1bCwAAQBAJ\&lpg=PA93\&dq=open%20source%20hardware\&pg=PP1##v=onepage\&q=open%20source%20hardware\&f=false) -  Book by Dale Dougherty, how the maker movement is chaning our schools, our jobs, and our minds.
+*   [Free to Make](https://books.google.nl/books?id=jz1bCwAAQBAJ\&lpg=PA93\&dq=open%20source%20hardware\&pg=PP1##v=onepage\&q=open%20source%20hardware\&f=false) -  Book by Dale Dougherty, how the maker movement is changing our schools, our jobs, and our minds.
 *   [The bridge](https://www.nae.edu/174695/Fall-Bridge-on-Open-Source-Hardware) - Issue of the national academy of engineering on open source hardware.
 
 ### Related awesome
 
-*   [Awesome Open Electronics (⭐399)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
-*   [Awesome Open (⭐62)](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.
+*   [Awesome Open Electronics (⭐452)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
+*   [Awesome Open (⭐69)](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.
 
 ## [15. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -207,7 +207,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-remove-console (⭐80)](https://github.com/xiaoxian521/vite-plugin-remove-console) - A vite plugin that deletes console.log in the production environment.
+*   [vite-plugin-remove-console (⭐104)](https://github.com/xiaoxian521/vite-plugin-remove-console) - A vite plugin that deletes console.log in the production environment.
 
 ---
 

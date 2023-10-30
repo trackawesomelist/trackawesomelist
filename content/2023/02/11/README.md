@@ -16,7 +16,7 @@
 
 ### Data conversion tools
 
-*   [gpxstudio (⭐370)](https://github.com/gpxstudio/gpxstudio.github.io) - Online and open source GPX file editor.
+*   [gpxstudio (⭐388)](https://github.com/gpxstudio/gpxstudio.github.io) - Online and open source GPX file editor.
 *   [img2geojson (⭐12)](https://github.com/caseymm/img2geojson/) - Drag an image onto a map, trace the paths you need, and export as GeoJSON.
 
 ### Helpers
@@ -36,13 +36,13 @@
 
 ### Security and PKI
 
-*   [openapi.security](https://openapi.security/) - Free tool to quickly check the security of any OpenAPI / Swagger based API. No signup required.
+*   [openapi.security](https://openapi.security/) - Free tool to quickly check the security of any OpenAPI / Swagger-based API. You don't need to sign up.
 
 ## [4. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Health and Social Science
 
-*   [Digital Humanities (⭐103)](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
+*   [Digital Humanities (⭐145)](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
 
 ## [5. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -54,8 +54,8 @@
 
 ### Neovim Lua Development / Diagnostics
 
-*   [folke/neodev.nvim (⭐1.2k)](https://github.com/folke/neodev.nvim) - Dev setup for init.lua and plugin development with full signature help, docs and completion for the Neovim Lua API.
-*   [nvim-neorocks/luarocks-tag-release (⭐16)](https://github.com/nvim-neorocks/luarocks-tag-release) - A GitHub action that publishes your Neovim plugins to LuaRocks.
+*   [folke/neodev.nvim (⭐1.5k)](https://github.com/folke/neodev.nvim) - Dev setup for init.lua and plugin development with full signature help, docs and completion for the Neovim Lua API.
+*   [nvim-neorocks/luarocks-tag-release (⭐33)](https://github.com/nvim-neorocks/luarocks-tag-release) - A GitHub action that publishes your Neovim plugins to LuaRocks.
 
 ## [7. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
 
@@ -85,9 +85,9 @@
 
 *   [Capstone](https://www.capstone-engine.org/) - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
 *   [Coredump (⭐7)](https://github.com/memflow/memflow-coredump) - Access Microsoft Windows Coredump files.
-*   [Kvm (⭐19)](https://github.com/memflow/memflow-kvm) - KVM memflow connector.
+*   [Kvm (⭐22)](https://github.com/memflow/memflow-kvm) - KVM memflow connector.
 *   [Pcileech (⭐13)](https://github.com/memflow/memflow-pcileech) - Access pcileech interface.
-*   [Qemu\_procfs (⭐25)](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
+*   [Qemu\_procfs (⭐31)](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
 *   [Unicorn](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
 
 ### Optics and Extra Info / Unikernel-like
@@ -115,7 +115,7 @@
 
 ## [11. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [Is It Possible to Work Remotely as a Product Manager?](https://productschool.com/blog/job-search-advice/remote-product-manager) - By [Roy Cobby](https://www.linkedin.com/in/roycobby/).
 

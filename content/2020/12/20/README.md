@@ -10,13 +10,13 @@
 
 ### Integrations
 
-*   [Apple Social Identity Provider for Keycloak (⭐100)](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider)
+*   [Apple Social Identity Provider for Keycloak (⭐104)](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider)
 
 ## [2. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Community / NumPyro
 
-*   [JAX GitHub Discussions (⭐22k)](https://github.com/google/jax/discussions)
+*   [JAX GitHub Discussions (⭐25k)](https://github.com/google/jax/discussions)
 *   [Reddit](https://www.reddit.com/r/JAX/)
 
 ## [3. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
@@ -99,7 +99,7 @@
 
 ### Testing / Misc
 
-*   [dmg-acid2 (⭐108)](https://github.com/mattcurrie/dmg-acid2) and [cgb-acid2 (⭐60)](https://github.com/mattcurrie/cgb-acid2) - Basic PPU rendering tests.
+*   [dmg-acid2 (⭐115)](https://github.com/mattcurrie/dmg-acid2) and [cgb-acid2 (⭐67)](https://github.com/mattcurrie/cgb-acid2) - Basic PPU rendering tests.
 
 ## [5. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
@@ -129,10 +129,10 @@
 
 ### Reading
 
-*   [scriptable-news-Widget.js (⭐99)](https://github.com/Saudumm/scriptable-News-Widget) - The latest posts from a feed or a WordPress blog.
+*   [scriptable-news-Widget.js (⭐108)](https://github.com/Saudumm/scriptable-News-Widget) - The latest posts from a feed or a WordPress blog.
 
     <img src="https://raw.githubusercontent.com/Saudumm/scriptable-News-Widget/main/images/widgets.jpg" width="800"/>
-*   [sonntagsfrage (⭐23)](https://github.com/henningtillmann/sonntagsfrage) - The latest German political poll results.
+*   [sonntagsfrage (⭐25)](https://github.com/henningtillmann/sonntagsfrage) - The latest German political poll results.
 
     <img src="https://raw.githubusercontent.com/henningtillmann/sonntagsfrage/main/screenshot-1.png" width="400"/>
 
@@ -144,16 +144,16 @@
 
 ## [10. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
-### Base / Reset / Normalize
+### Stalled Development
 
 *   [**modern-css-reset**](https://github.com/hankchizljaw/modern-css-reset) - Tiny little reset that you can use as the basis of your CSS projects.\
     ![](https://img.shields.io/github/stars/hankchizljaw/modern-css-reset.svg?style=social\&label=Star)
-    [Repo (⭐2.7k)](https://github.com/hankchizljaw/modern-css-reset)
+    [Repo (⭐2.9k)](https://github.com/hankchizljaw/modern-css-reset)
     \| #CSS
 
 ## [11. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
-### Tools / i18n frameworks for developers
+### Tools / Libraries and tools for developers
 
 *   [Ruby I18n](https://guides.rubyonrails.org/i18n.html) - Rails internationalization (i18n) API.
 *   [Quasar I18n](https://quasar.dev/options/app-internationalization) - App internationalization (i18n) in Quasar framework.
@@ -161,7 +161,7 @@
 
 ### Tools / Machine translation for developers
 
-*   [SwiftGoogleTranslate (⭐78)](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use cloud translation API by Google in Swift.
+*   [SwiftGoogleTranslate (⭐83)](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use cloud translation API by Google in Swift.
 
 ### Articles / Introductions to internationalization
 
@@ -201,7 +201,7 @@
 
 ### Work
 
-*   [Creative Technology (⭐285)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
+*   [Creative Technology (⭐329)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
 
 ---
 

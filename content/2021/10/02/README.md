@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 02, 2021
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Tools
 
-*   [Pimod (⭐93)](https://github.com/Nature40/pimod) - Reconfigure Raspberry Pi images with an easy, Docker-like configuration file.
+*   [Pimod (⭐100)](https://github.com/Nature40/pimod) - Reconfigure Raspberry Pi images with an easy, Docker-like configuration file.
 
 ## [3. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-use-popperjs (⭐22)](https://github.com/iendeavor/vue-use-popperjs) - Vue 2 & 3 popper hook powered by @popperjs
+*   [vue-use-popperjs (⭐25)](https://github.com/iendeavor/vue-use-popperjs) - Vue 2 & 3 popper hook powered by @popperjs
 
 ## [5. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 
@@ -40,8 +40,8 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Streamlit (⭐24k)](https://github.com/streamlit/streamlit): Streamlit is an framework to create beautiful data apps in hours, not weeks.
-*   [Optuna (⭐8.1k)](https://github.com/optuna/optuna): Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.
+*   [Streamlit (⭐27k)](https://github.com/streamlit/streamlit): Streamlit is an framework to create beautiful data apps in hours, not weeks.
+*   [Optuna (⭐8.6k)](https://github.com/optuna/optuna): Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.
 
 ### Books / Misc
 
@@ -49,81 +49,57 @@
 *   [Teachable Machine](https://teachablemachine.withgoogle.com/) - Train Machine Learning models on the fly to recognize your own images, sounds, & poses.
 *   [Model Zoo](https://modelzoo.co/) - Discover open source deep learning code and pretrained models.
 
-## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### C# / Non-X86
+
+*   [Creating Mobile Apps with Xamarin.Forms C#](https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/) - Charles Petzold
+*   [Mastering Xamarin UI Development, Second Edition](https://www.packtpub.com/free-ebook/mastering-xamarin-ui-development-second-edition/9781788995511) - Steven F. Daniel (Packt account *required*)
+
+### Jenkins / Vue.js
+
+*   [Jenkins User Handbook](https://www.jenkins.io/user-handbook.pdf) (PDF)
+
+### Kotlin / Vue.js
+
+*   [Learning Kotlin](https://riptutorial.com/Download/kotlin.pdf) - Compiled from StackOverflow Documentation (PDF)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Learn Python the Right Way](https://learnpythontherightway.com)
+
+### TypeScript / Vapor
+
+*   [Tackling TypeScript: Upgrading from JavaScript](https://exploringjs.com/tackling-ts/toc.html) - Axel Rauschmayer
+
+## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Game development
 
 *   [Godot](https://godotengine.org/)
-    *   [godot-rust/gdnative (⭐3.4k)](https://github.com/godot-rust/gdnative) \[[gdnative](https://crates.io/crates/gdnative)] - Rust bindings to the Godot game engine [![CI](https://github.com/godot-rust/gdnative/actions/workflows/full-ci.yml/badge.svg)](https://github.com/godot-rust/gdnative/actions/workflows/full-ci.yml)
+    *   [godot-rust/gdnative (⭐3.5k)](https://github.com/godot-rust/gdnative) \[[gdnative](https://crates.io/crates/gdnative)] - Rust bindings to the Godot game engine [![CI](https://github.com/godot-rust/gdnative/actions/workflows/full-ci.yml/badge.svg)](https://github.com/godot-rust/gdnative/actions/workflows/full-ci.yml)
 
-## [8. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [9. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Bounties and Rewards / Miscellaneous
 
 *   [GLM Rewards Program](https://blog.golemproject.net/community-incentives-program/) - A program that incentivizes activity within development, support, content creation, and more.
 *   [Gitcoin Bounties](https://gitcoin.co/golemfactory/bounties) - A collection of open bounties and hackathons hosted on Gitcoin.
 
-## [9. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [10. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Open source / MIT
 
-*   [hac (⭐78)](https://github.com/zertovitch/hac) - HAC Ada Compiler - a small, quick Ada compiler fully in Ada.
+*   [hac (⭐93)](https://github.com/zertovitch/hac) - HAC Ada Compiler - a small, quick Ada compiler fully in Ada.
 
-### Editors / MIT
+### Editors / Apache License
 
-*   [lea (⭐17)](https://github.com/zertovitch/lea) - LEA, a Lightweight Editor for Ada, aims to provide an easy, script-world-like, "look & feel" for developing Ada projects of any size and level, while enabling access to full-scale development tools like GNAT. LEA includes HAC, the HAC Ada Compiler.
+*   [lea (⭐18)](https://github.com/zertovitch/lea) - LEA, a Lightweight Editor for Ada, aims to provide an easy, script-world-like, "look & feel" for developing Ada projects of any size and level, while enabling access to full-scale development tools like GNAT. LEA includes HAC, the HAC Ada Compiler.
 
-## [10. Awesome Git Addons](/content/stevemao/awesome-git-addons/README.md)
+## [11. Awesome Git Addons](/content/stevemao/awesome-git-addons/README.md)
 
 ### [git-branchcut](https://github.com/dlsrb6342/git-branchcut)
 
-### set the current git repository user to the home profile
-
-    $ git profile use work
-
-Currently there will be no output in case of success
-
-TBD - PR Welcome!
-
-TBD - PR Welcome!
-
-Interactive UI and fuzzy-search for Git branches.
-
-![git-jump interface demo](https://raw.githubusercontent.com/mykolaharmash/git-jump/main/img/demo.gif)
-
-    git project open shoppinglist
-
-<!---->
-
-    git project add shoppinglist milk
-
-<!---->
-
-    $ git project board
-
-     Project: shoppinglist 
-    +-----------+------+
-    |   OPEN    | DONE |
-    +-----------+------+
-    | something | love |
-    +-----------+------+
-    | coffee    |      |
-    +-----------+      +
-    | sugar     |      |
-    +-----------+      +
-    | milk      |      |
-    +-----------+------+
-
-<!---->
-
-    $ git project status
-
-    Project: shoppinglist
-      0|  ⭐  something
-      1|  ⭐  coffee
-      2|  ⭐  sugar
-      3|  ⭐  milk
-      4|  ✅  love
 ### Delete branches with string pattern
 
     $ git branchcut execute -p "feature/*"
@@ -131,38 +107,38 @@ Interactive UI and fuzzy-search for Git branches.
     Deleted branch feature/test (was 257725f).
     Deleted branch feature/impl (was 8120c0b).
 
-## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
-*   [Krayin](https://krayincrm.com/) - Free and Opensource Laravel CRM Application. ([Demo](https://demo.krayincrm.com/), [Source Code (⭐1.5k)](https://github.com/krayin/laravel-crm)) `MIT` `PHP`
+*   [Krayin](https://krayincrm.com/) - Free and Opensource Laravel CRM Application. ([Demo](https://demo.krayincrm.com/), [Source Code (⭐3.5k)](https://github.com/krayin/laravel-crm)) `MIT` `PHP`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [QuickShare (⭐392)](https://github.com/ihexxa/quickshare) - Quick and simple file sharing between different devices. `LGPL-3.0` `Go`
+*   [QuickShare (⭐437)](https://github.com/ihexxa/quickshare) - Quick and simple file sharing between different devices. `LGPL-3.0` `Docker/Go`
 
 ### Software / Photo and Video Galleries
 
-*   [Mejiro (⭐131)](https://github.com/dmpop/mejiro) - An easy-to-use PHP web application for instant photo publishing. `GPL-3.0` `PHP`
+*   [Mejiro (⭐135)](https://github.com/dmpop/mejiro) - An easy-to-use PHP web application for instant photo publishing. `GPL-3.0` `PHP`
 
 ### Software / Ticketing
 
-*   [GlitchTip](https://glitchtip.com) - Open source error-tracking app. GlitchTip collects errors reported by your app. ([Source Code](https://gitlab.com/glitchtip/glitchtip)) `MIT` `Python`
+*   [GlitchTip](https://glitchtip.com) - Open source error-tracking app. GlitchTip collects errors reported by your app. ([Source Code](https://gitlab.com/glitchtip/glitchtip)) `MIT` `Python/Docker/K8S`
 
-## [12. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
+## [13. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Articles / Third-party articles
 
 *   [PyTest MonkeyType Introduction](https://dev.to/ldrscke/type-annotate-an-existing-python-django-codebase-with-monkeytype-254i) - Type Annotate an existing Python Django Codebase with MonkeyType.
 *   [Type Check Your Django Application](https://kracekumar.com/post/type_check_your_django_app/) - An article based on two recent talks on adding type checks to Django.
 
-## [13. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+## [14. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Readings
 
 *   [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.oreilly.com/library/view/streaming-systems/9781491983867/) by Reuven Lax, Slava Chernyak, and Tyler Akidau
 
-## [14. Public Apis](/content/public-apis/public-apis/README.md)
+## [15. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Art & Design
 
@@ -518,7 +494,7 @@ Interactive UI and fuzzy-search for Git branches.
 
 
 
-## [15. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [16. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Books / Visualization Tools
 
@@ -531,21 +507,21 @@ Interactive UI and fuzzy-search for Git branches.
 
 *   [Chip Huyen's Blog](https://huyenchip.com/blog/) - ML Engineering, MLOps, and the use of ML in startups
 
-## [16. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+## [17. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Justice Sworn](https://sandypuggames.itch.io/justice-sworn) -  Ironsworn in a side scrolling beat-em-up setting
 
-## [17. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [18. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [huggingface.co](https://huggingface.co) - Build, train and deploy NLP models for Pytorch, TensorFlow, and JAX. Free up to 30k input characters/mo.
+*   [huggingface.co](https://huggingface.co) - Build, train, and deploy NLP models for Pytorch, TensorFlow, and JAX. Free up to 30k input characters/mo.
 
 ### Log Management
 
-*   [logtail.com](https://logtail.com/) — ClickHouse-based SQL-compatible log management. Free up to 1 GB per month, 3 days retention.
+*   [logtail.com](https://logtail.com/) — ClickHouse-based SQL-compatible log management. Free up to 1 GB per month, three days retention.
 
 ---
 

@@ -176,11 +176,11 @@
 
 ### Apps / E-commerce
 
-*   [longclaw (⭐351)](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
+*   [longclaw (⭐365)](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
 
 ### Apps / Misc
 
-*   [Wagtail Gridder (⭐63)](https://github.com/wharton/wagtailgridder) - Grid card layout similar to Google image search results, with an expanded area for card details.
+*   [Wagtail Gridder (⭐62)](https://github.com/wharton/wagtailgridder) - Grid card layout similar to Google image search results, with an expanded area for card details.
 
 ## [18. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
@@ -200,7 +200,7 @@
 
 #### [Hexlet.io](https://en.hexlet.io)
 
-**Mixed** Self paced, interactive projects to learn JavaScript, C, Regular Expressions and computer science in general.\
+**Mixed** self paced, interactive projects to learn JavaScript, C, Regular Expressions and computer science in general\
 *(JavaScript, Regular Expressions, Bash, computer science, Ansible)*
 
 ## [21. Tips](/content/git-tips/tips/week/README.md)
@@ -242,17 +242,17 @@ git log -S'<a term in the source>'
 
 ### Frameworks, Libraries and Tools / Profiling
 
-*   [MiniProfiler (⭐2.6k)](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET websites.
+*   [MiniProfiler (⭐2.8k)](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET websites.
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [Rebus (⭐1.9k)](https://github.com/rebus-org/Rebus) - Simple and lean service bus implementation for .NET.
+*   [Rebus (⭐2.1k)](https://github.com/rebus-org/Rebus) - Simple and lean service bus implementation for .NET.
 
 ## [26. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### E-Commerce and Payments
 
-*   [SimplCommerce (⭐3.9k)](https://github.com/simplcommerce/simplcommerce) - Super simple ecommerce system built on .NET Core. Simple to use and easy to customize. Thanks to .NET Core, you can run the SimplCommerce on Windows, Linux. With various RDBMS: Microsoft SQL Server, PostgreSQL, MySQL
+*   [SimplCommerce (⭐4k)](https://github.com/simplcommerce/simplcommerce) - Super simple ecommerce system built on .NET Core. Simple to use and easy to customize. Thanks to .NET Core, you can run the SimplCommerce on Windows, Linux. With various RDBMS: Microsoft SQL Server, PostgreSQL, MySQL
 
 ### Queue
 
@@ -262,7 +262,7 @@ git log -S'<a term in the source>'
 
 ### Management System
 
-*   [jamf.com](https://www.jamf.com/) —  Device management for iPads, iPhones and Macs, 3 devices free
+*   [jamf.com](https://www.jamf.com/) —  Device management for iPads, iPhones, and Macs, three devices free
 
 ## [28. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -301,7 +301,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 ### Resources / Community
 
-*   [vue-requests (⭐69)](https://github.com/vuejs/vue-requests) - Request a Vue.js module you wish existed or get ideas for modules
+*   [vue-requests (⭐70)](https://github.com/vuejs/vue-requests) - Request a Vue.js module you wish existed or get ideas for modules
 
 ### Resources / Official Examples
 
@@ -319,16 +319,16 @@ Webpage: <http://www.lerdevagar.com/>
 
 ### Components & Libraries / UI Components
 
-*   [vuedals (⭐107)](https://github.com/javisperez/vuedals) - A VueJS (2.x) Plugin for multiple modals windows with a single component instance.
-*   [sweet-modal-vue (⭐760)](https://github.com/adeptoas/sweet-modal-vue) - The sweetest library to happen to modals. Now available for Vue.js.
+*   [vuedals (⭐108)](https://github.com/javisperez/vuedals) - A VueJS (2.x) Plugin for multiple modals windows with a single component instance.
+*   [sweet-modal-vue (⭐759)](https://github.com/adeptoas/sweet-modal-vue) - The sweetest library to happen to modals. Now available for Vue.js.
 *   [vue-masked-input (⭐453)](https://github.com/niksmr/vue-masked-input) - Masked input component for Vue.js.
 *   [vue-text-mask (⭐8.2k)](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript.
 *   [vue-ip-input (⭐25)](https://github.com/lakb248/vue-ip-input) - An ip input implemented by vuejs.
-*   [vue-numeric (⭐437)](https://github.com/kevinongko/vue-numeric) - Input field component to display currency value based on Vue.
+*   [vue-numeric (⭐454)](https://github.com/kevinongko/vue-numeric) - Input field component to display currency value based on Vue.
 
 ### Components & Libraries / Utilities
 
-*   [vue-super (⭐34)](https://github.com/rpkilby/vue-super) - A simple plugin to call methods on parent components.
+*   [vue-super (⭐35)](https://github.com/rpkilby/vue-super) - A simple plugin to call methods on parent components.
 
 ## [31. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
@@ -353,7 +353,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 ### Errors and Exception Handling
 
-*   [OK (⭐589)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
+*   [OK (⭐591)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
 
 ## [35. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -398,7 +398,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 ### QA Tools / Runner
 
-*   [JavaScript Standard Style (⭐28k)](https://github.com/feross/standard) - Opinionated, no-configuration style guide, style checker, and formatter
+*   [JavaScript Standard Style (⭐29k)](https://github.com/feross/standard) - Opinionated, no-configuration style guide, style checker, and formatter
 
 ## [39. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
 
@@ -485,11 +485,11 @@ Webpage: <http://www.lerdevagar.com/>
 
 ### Search
 
-*   [hermes (⭐38)](https://github.com/imdrasil/hermes.cr) - Data Mapper pattern implementation for ElastiSearch
+*   [hermes (⭐37)](https://github.com/imdrasil/hermes.cr) - Data Mapper pattern implementation for ElastiSearch
 
 ### Task management
 
-*   [sam (⭐86)](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
+*   [sam (⭐89)](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
 
 ## [45. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 

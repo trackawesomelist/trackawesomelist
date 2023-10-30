@@ -10,7 +10,7 @@
 
 ### Community
 
-*   [German Open Transport Meetup (⭐34)](https://github.com/transportkollektiv/meetup/wiki) - You can participate in a [biweekly](https://hackmd.okfn.de/opentransportmeetup#) meetup of the German-speaking open transport community.
+*   [German Open Transport Meetup (⭐36)](https://github.com/transportkollektiv/meetup/wiki) - You can participate in a [biweekly](https://hackmd.okfn.de/opentransportmeetup#) meetup of the German-speaking open transport community.
 
 ## [2. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Books
 
-*   [Free Mathematics Books (⭐281k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
+*   [Free Mathematics Books (⭐295k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 
 ## [4. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Sample Projects / Idris
 
-*   [OrderTaking (⭐116)](http://github.com/andorp/order-taking) - Dependently typed implementation of the Domain Modeling Made Functional book. An example project how to formalize Bounded Context and Workflow diagram with dependent types. A NodeJS deployable demo.
+*   [OrderTaking (⭐127)](http://github.com/andorp/order-taking) - Dependently typed implementation of the Domain Modeling Made Functional book. An example project how to formalize Bounded Context and Workflow diagram with dependent types. A NodeJS deployable demo.
 
 ## [6. Public Apis](/content/public-apis/public-apis/README.md)
 

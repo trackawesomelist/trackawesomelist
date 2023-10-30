@@ -88,7 +88,7 @@
 
 ### Text Processing
 
-*   [beagle (⭐49)](https://github.com/tokenmill/beagle)
+*   [beagle (⭐50)](https://github.com/tokenmill/beagle)
 
 ## [5. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -104,9 +104,9 @@
 
 ## [7. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Miscellaneous / Angular
+### Miscellaneous / Svelte
 
-*   [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates). A weekly newsletter focussing on latest in mobile, web, AI, UI/UX, jobs/carrers and anything related to developers and the industry.
+*   [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates). A weekly newsletter focussing on latest in mobile, web, AI, UI/UX, jobs/careers and anything related to developers and the industry.
 
 ## [8. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 

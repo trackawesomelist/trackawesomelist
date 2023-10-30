@@ -10,11 +10,11 @@
 
 ### API
 
-*   [ServiceStack (⭐5.2k)](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
+*   [ServiceStack (⭐5.3k)](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
 
 ### Scheduling
 
-*   [NCrontab (⭐786)](https://github.com/atifaziz/NCrontab) - Class library for parsing & formatting [crontab](http://crontab.org/) expressions as well as calculating occurrences of time based on a crontab schedule
+*   [NCrontab (⭐820)](https://github.com/atifaziz/NCrontab) - Class library for parsing & formatting [crontab](http://crontab.org/) expressions as well as calculating occurrences of time based on a crontab schedule
 
 ---
 

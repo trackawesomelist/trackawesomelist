@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 31, 2021
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -26,11 +26,11 @@
 
 ### Templates / React
 
-*   [react-ts-vite-template (⭐101)](https://github.com/fabien-ml/react-ts-vite-template) - React, TypeScript, Jest, Testing Library, Cypress, ESLint, Prettier, Husky.
+*   [react-ts-vite-template (⭐114)](https://github.com/fabien-ml/react-ts-vite-template) - React, TypeScript, Jest, Testing Library, Cypress, ESLint, Prettier, Husky.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-content (⭐112)](https://github.com/originjs/origin.js/tree/main/packages/vite-plugin-content) - Convert `yaml`, `xml`, `ini`, `toml`, `csv`, `plist` and `properties` files to ES6 modules.
+*   [vite-plugin-content (⭐119)](https://github.com/originjs/origin.js/tree/main/packages/vite-plugin-content) - Convert `yaml`, `xml`, `ini`, `toml`, `csv`, `plist` and `properties` files to ES6 modules.
 
 ## [4. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
@@ -66,7 +66,17 @@
 
 *   [Lens (⭐16)](https://github.com/syeopite/lens) - A multiformat internationalization (i18n) shard for Crystal. Supports Gettext, Ruby YAML, etc.
 
-## [8. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
+## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Arduino
+
+*   [Arduino Programming Notebook](https://unglue.it/work/152452) - Brian Evans (PDF) (:card\_file\_box: *archived at unglue.it*)
+
+### Linux / TeX
+
+*   [Ubuntu Server Guide](https://help.ubuntu.com/20.04/serverguide/serverguide.pdf) (PDF)
+
+## [9. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
 
 ### APIs and SDKs
 
@@ -75,7 +85,7 @@
 *   [ArcGIS Enterprise SDK](https://developers.arcgis.com/enterprise-sdk/) - Guides, API reference and sample code to extent ArcGIS Enterprise.
 *   [ArcGIS Pro SDK for Microsoft .NET](https://pro.arcgis.com/en/pro-app/latest/sdk/) - Documentation, tutorials, API reference, FAQ, etc. to extend ArcGIS Pro Desktop.
 *   [ArcGIS REST APIs](https://developers.arcgis.com/rest/) - General documentation about ArcGIS REST APIs: location services, content management, portal administration, and more.
-*   [ArcGIS REST APIs collections (⭐67)](https://github.com/esri-es/ArcGIS-REST-API) - Postman collections to work with some of the REST APIs: location services, hosted feature layers, ArcGIS Online, ArcGIS Hub, etc.
+*   [ArcGIS REST APIs collections (⭐68)](https://github.com/esri-es/ArcGIS-REST-API) - Postman collections to work with some of the REST APIs: location services, hosted feature layers, ArcGIS Online, ArcGIS Hub, etc.
 *   [ArcGIS REST JS](https://developers.arcgis.com/arcgis-rest-js/) - Key concepts, tutorials and API reference of a collection of JavaScript modules for accessing location services, ArcGIS Online, and ArcGIS Enterprise REST APIs.
 *   [ArcGIS Urban API](https://developers.arcgis.com/arcgis-urban-api/) - Public GraphQL web service that can be used to interact with ArcGIS Urban data directly.
 *   [ArcObjects SDK for .Net](https://desktop.arcgis.com/en/arcobjects/latest/net/webframe.htm#RoadmapToExtendingArcObjects.htm) - Documentation about the .Net SDK for the library of Component Object Model (COM) components that make up the foundation of ArcGIS.
@@ -97,8 +107,8 @@
 ### Spatial Analysis
 
 *   [Spatial analysis service](https://developers.arcgis.com/rest/analysis/api-reference/getting-started.htm) - Process spatial datasets to discover relationships and patterns.
-*   [Esri/gis-tools-for-hadoop (⭐503)](https://github.com/Esri/gis-tools-for-hadoop) - Collection of GIS tools for spatial analysis of big data.
-*   [Esri/spatial-framework-for-hadoop (⭐346)](https://github.com/Esri/spatial-framework-for-hadoop) - Allows developers and data scientists to use the Hadoop data processing system for spatial data analysis.
+*   [Esri/gis-tools-for-hadoop (⭐504)](https://github.com/Esri/gis-tools-for-hadoop) - Collection of GIS tools for spatial analysis of big data.
+*   [Esri/spatial-framework-for-hadoop (⭐348)](https://github.com/Esri/spatial-framework-for-hadoop) - Allows developers and data scientists to use the Hadoop data processing system for spatial data analysis.
 *   [Turf.js](https://www.npmjs.com/package/@turf/simplify) - Geospatial analysis for browsers and Node.js.
 
 ### Code samples and snippets
@@ -121,8 +131,8 @@
 *   [arcgis-js-api-starter-apps (⭐3)](https://github.com/hhkaos/arcgis-js-api-starter-apps) - Collection of boilerplates to get started with the ArcGIS API for JavaScript 4.x.
 *   [Esri/arcgis-js-vscode-snippets (⭐12)](https://github.com/Esri/arcgis-js-vscode-snippets) - Collection of Visual Studio Code snippets for common code patterns for the ArcGIS API for JavaScript.
 *   [Esri/developer-support (⭐254)](https://github.com/Esri/developer-support) - Community samples to help be successful with all ArcGIS developer products (Python, NET, JavaScript, Android…).
-*   [Esri/jsapi-resources (⭐638)](https://github.com/Esri/jsapi-resources) - A collection of resources for developers using the ArcGIS API for JavaScript.
-*   [esri-loader Examples (⭐442)](https://github.com/Esri/esri-loader#examples) - Examples of how to use the ArcGIS API for JavaScript via esri-loader in applications built with React, Angular, Vue, and other frameworks.
+*   [Esri/jsapi-resources (⭐643)](https://github.com/Esri/jsapi-resources) - A collection of resources for developers using the ArcGIS API for JavaScript.
+*   [esri-loader Examples (⭐443)](https://github.com/Esri/esri-loader#examples) - Examples of how to use the ArcGIS API for JavaScript via esri-loader in applications built with React, Angular, Vue, and other frameworks.
 *   [esrinederland/CoolMaps (⭐15)](https://github.com/esrinederland/CoolMaps) - Shows cool example maps you can use.
 *   [esrinederland/CoolScripts (⭐21)](https://github.com/esrinederland/CoolScripts) - Esri Netherlands scripts and snippets for reuse.
 *   [RalucaNicola/code-snippets-arcgis-api-js (⭐16)](https://github.com/RalucaNicola/code-snippets-arcgis-api-js) - A collection of code snippets for ArcGIS API for JavaScript.
@@ -134,16 +144,16 @@
 *   [Distillery](http://shancarter.github.io/distillery/) - Web application to simplify and project TopoJSON.
 *   [Feature Service Layer](https://developers.arcgis.com/rest/services-reference/enterprise/query-feature-service-layer-.htm) - Use the `maxAllowableOffset` parameter to return generalized geometries with the `query` operation.
 *   [Generalize method](https://bit.ly/2VNPkuO) - GeometryEngine can produce a geometry with fewer vertices programatically. Several APIs supports it: JavaScript, iOS, Android, .NET, Qt and Java.
-*   [gdal (⭐3.8k)](https://github.com/OSGeo/gdal) - Translator library for raster and vector geospatial data formats.
-*   [geojson2svg (⭐52)](https://github.com/w8r/geojson2svg) - Render GeoJSON into SVG using inline or external stylesheet.
+*   [gdal (⭐3.9k)](https://github.com/OSGeo/gdal) - Translator library for raster and vector geospatial data formats.
+*   [geojson2svg (⭐53)](https://github.com/w8r/geojson2svg) - Render GeoJSON into SVG using inline or external stylesheet.
 *   [geojsonio (⭐148)](https://github.com/ropensci/geojsonio) - Convert many data formats to and from GeoJSON and TopoJSON.
 *   [gtfs2geojson (⭐25)](https://github.com/node-geojson/gtfs2geojson) - Convert GTFS data into GeoJSON.
 *   [Koop](https://koopjs.github.io) - JavaScript toolkit for connecting spatial APIs. Transform geospatial data on the fly and serve as GeoJSON, vector tiles, feature services and more.
 *   [loam (⭐188)](https://github.com/azavea/loam) - JavaScript wrapper for GDAL in the browser.
 *   [PostGIS ST\_Simplify](https://postgis.net/docs/ST_Simplify.html) - This operation returns a "simplified" version of the given geometry using the Douglas-Peucker algorithm.
-*   [terraformer (⭐124)](https://github.com/terraformer-js/terraformer) - Convert ArcGIS JSON to and from GeoJSON, convert WKT geometries to and from GeoJSON geometries, and other formats.
+*   [terraformer (⭐127)](https://github.com/terraformer-js/terraformer) - Convert ArcGIS JSON to and from GeoJSON, convert WKT geometries to and from GeoJSON geometries, and other formats.
 *   [togeojson](https://mapbox.github.io/togeojson/) - Convert KML and GPX to GeoJSON, without the fuss.
-*   [tokml (⭐167)](https://github.com/mapbox/tokml) - Convert GeoJSON to KML.
+*   [tokml (⭐170)](https://github.com/mapbox/tokml) - Convert GeoJSON to KML.
 
 ### Data integration tools
 
@@ -192,9 +202,9 @@
 
 ### Helpers
 
-*   [arcgis-js-api-camera-helper (⭐4)](https://github.com/gavinr/arcgis-js-api-camera-helper) - Web application to get the camera position JSON object for 3D web apps in the ArcGIS API for JavaScript 4.x.
-*   [arcgis-js-api-extent-helper (⭐4)](https://github.com/gavinr/arcgis-js-api-extent-helper) -  Web application to get the map extent JSON object for web apps in the ArcGIS API for JavaScript 4.x.
-*   [esri-loader (⭐442)](https://github.com/Esri/esri-loader) - A tiny library to help you lazy-load the ArcGIS API for JavaScript (i.e. from the CDN) in applications built with popular JavaScript frameworks and bundlers.
+*   [arcgis-js-api-camera-helper](https://github.com/gavinr/arcgis-js-api-camera-helper) - Web application to get the camera position JSON object for 3D web apps in the ArcGIS API for JavaScript 4.x.
+*   [arcgis-js-api-extent-helper](https://github.com/gavinr/arcgis-js-api-extent-helper) -  Web application to get the map extent JSON object for web apps in the ArcGIS API for JavaScript 4.x.
+*   [esri-loader (⭐443)](https://github.com/Esri/esri-loader) - A tiny library to help you lazy-load the ArcGIS API for JavaScript (i.e. from the CDN) in applications built with popular JavaScript frameworks and bundlers.
 *   [esri-loader-hooks (⭐28)](https://github.com/tomwayson/esri-loader-hooks) - Custom React hooks for using the ArcGIS API for JavaScript with esri-loader.
 
 ### Map and data exploration
@@ -216,10 +226,10 @@
 
 ### Specifications
 
-*   [Cartographic Information Model spec (⭐56)](https://github.com/Esri/cim-spec) - Map content specification used to persist and transfer cartographic descriptions of GIS datasets represented in JSON.
+*   [Cartographic Information Model spec (⭐58)](https://github.com/Esri/cim-spec) - Map content specification used to persist and transfer cartographic descriptions of GIS datasets represented in JSON.
 *   [Common data types](https://developers.arcgis.com/documentation/common-data-types/geometry-objects.htm) - JSON formats of the geometry and spatial reference objects as returned by ArcGIS REST API: Point, Multipoint, Polyline, Polygon and Envelope.
 *   [GeoServices spec (⭐99)](https://github.com/koopjs/FeatureServer) - Open Web Foundation REST-based API that provides a complete access to structured geospatial data used by Esri.
-*   [Indexed 3D Scene Layers (⭐289)](https://github.com/Esri/i3s-spec) - Service and package standard of containers for arbitrarily large amounts of geographic data.
+*   [Indexed 3D Scene Layers (⭐290)](https://github.com/Esri/i3s-spec) - Service and package standard of containers for arbitrarily large amounts of geographic data.
 *   [Shapefile Format](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) - Spec for the geospatial vector data format for GIS software.
 *   [Spatial reference specifications](https://developers.arcgis.com/documentation/spatial-references/#spatial-reference-specifications) - List of  Well-Known ID (WKID) integer value or a text string definition referred to as Well-Known Text (WKT) to define a spatial reference.
 *   [Tile Package Specification (⭐15)](https://github.com/Esri/tile-package-spec) - Compressed file containing a set of tiles and a tiling scheme, which can be used as a basemap in ArcGIS applications.
@@ -228,24 +238,24 @@
 
 ### Starter apps and CLIs
 
-*   [@arcgis/cli (⭐136)](https://github.com/Esri/arcgis-js-cli) - Quickly scaffold various applications for the ArcGIS API for JavaScript.
+*   [@arcgis/cli (⭐137)](https://github.com/Esri/arcgis-js-cli) - Quickly scaffold various applications for the ArcGIS API for JavaScript.
 *   [generator-esri-appbuilder-js (⭐179)](https://github.com/Esri/generator-esri-appbuilder-js) - Yeoman generator to help customize Esri's Web AppBuilder.
 *   [koop-cli (⭐11)](https://github.com/koopjs/koop-cli) - Tool to scaffold Koop applications and plugins.
-*   Check the [contributing guidelines for this repo (⭐152)](https://github.com/Esri/awesome-arcgis-developer/blob/main/CONTRIBUTING.md).
+*   Check the [contributing guidelines for this repo (⭐157)](https://github.com/Esri/awesome-arcgis-developer/blob/main/CONTRIBUTING.md).
 
-## [9. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [10. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### For Developers / Directory Navigation
 
-*   [gita (⭐1.2k)](https://github.com/nosarthur/gita) - A command-line tool to manage multiple git repos.
+*   [gita (⭐1.3k)](https://github.com/nosarthur/gita) - A command-line tool to manage multiple git repos.
 
 ### Downloading and Serving / Directory Navigation
 
-*   [xh (⭐3.4k)](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
+*   [xh (⭐3.8k)](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 
 ### Applications / Directory Navigation
 
-*   [ticker (⭐4.4k)](https://github.com/achannarasappa/ticker) — Terminal stock ticker with live updates and position tracking
+*   [ticker (⭐4.6k)](https://github.com/achannarasappa/ticker) — Terminal stock ticker with live updates and position tracking
 
 ---
 

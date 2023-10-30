@@ -43,7 +43,7 @@
 
 ### OS Images
 
-*   [DietPi (⭐3.7k)](https://github.com/Fourdee/DietPi) - Minimal image designed to fit on a 2GB SD card, with tons of configurable settings and scripts.
+*   [DietPi (⭐1)](https://github.com/Fourdee/DietPi) - Minimal image designed to fit on a 2GB SD card, with tons of configurable settings and scripts.
 
 ## [7. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Misc
 
-*   [DeviceId (⭐572)](https://github.com/MatthewKing/DeviceId) - Generate a 'device ID' that can be used to uniquely identify a computer.
+*   [DeviceId (⭐607)](https://github.com/MatthewKing/DeviceId) - Generate a 'device ID' that can be used to uniquely identify a computer.
 
 ## [10. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 

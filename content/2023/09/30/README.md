@@ -30,7 +30,7 @@
 
 ### Authorization / AWS policy tools
 
-*   [aws-lint-iam-policies (⭐20)](https://github.com/welldone-cloud/aws-lint-iam-policies) - Runs IAM policy linting checks against either a single AWS account or all accounts of an AWS Organization. Reports on policies that violate security best practices or contain errors. Supports both identity-based and resource-based policies.
+*   [aws-lint-iam-policies (⭐23)](https://github.com/welldone-cloud/aws-lint-iam-policies) - Runs IAM policy linting checks against either a single AWS account or all accounts of an AWS Organization. Reports on policies that violate security best practices or contain errors. Supports both identity-based and resource-based policies.
 
 ---
 

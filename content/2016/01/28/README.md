@@ -82,7 +82,7 @@
 
 ### ORM
 
-*   [phalcon-boundmodels (⭐3)](https://github.com/SidRoberts/phalcon-boundmodels) - Automatically get models based on dispatcher parameters within the Phalcon framework
+*   [phalcon-boundmodels (⭐4)](https://github.com/SidRoberts/phalcon-boundmodels) - Automatically get models based on dispatcher parameters within the Phalcon framework
 
 ## [5. Awesome Backbone](/content/sadcitizen/awesome-backbone/README.md)
 
@@ -94,7 +94,7 @@
 
 ### serialization
 
-*   [rgeo-geojson (⭐179)](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
+*   [rgeo-geojson (⭐180)](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
 
 ## [7. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
@@ -124,7 +124,7 @@
 ### Benchmark / Runner
 
 *   [benchmark.js (⭐5.4k)](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
-*   [matcha (⭐558)](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
+*   [matcha (⭐555)](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
 
 ## [11. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
 
@@ -143,7 +143,7 @@
 
 ### Applications / Directory Navigation
 
-*   [hn-cli (⭐456)](https://github.com/rafaelrinaldi/hn-cli) - Browse Hacker News from the comfort of your Terminal
+*   [hn-cli (⭐458)](https://github.com/rafaelrinaldi/hn-cli) - Browse Hacker News from the comfort of your Terminal
 
 ---
 

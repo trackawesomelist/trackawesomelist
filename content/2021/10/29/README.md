@@ -10,17 +10,17 @@
 
 ### Datastores / Online resources
 
-*   [LunaSec (⭐1.3k)](https://github.com/lunasec-io/lunasec) - Database for PII with automatic encryption/tokenization, sandboxed components for handling data, and centralized authorization controls.
+*   [LunaSec (⭐1.4k)](https://github.com/lunasec-io/lunasec) - Database for PII with automatic encryption/tokenization, sandboxed components for handling data, and centralized authorization controls.
 
 ## [2. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Package and Build Management
 
-*   [Coq Platform (⭐147)](https://github.com/coq/platform) - Curated collection of packages to support Coq use in industry, education, and research.
+*   [Coq Platform (⭐160)](https://github.com/coq/platform) - Curated collection of packages to support Coq use in industry, education, and research.
 
 ### Projects / Verified Software
 
-*   [Tarjan and Kosaraju (⭐9)](https://github.com/math-comp/tarjan) - Verified implementations of algorithms for topological sorting and finding strongly connected components in finite graphs.
+*   [Tarjan and Kosaraju (⭐11)](https://github.com/math-comp/tarjan) - Verified implementations of algorithms for topological sorting and finding strongly connected components in finite graphs.
 
 ## [3. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Books / Visualization Tools
 
-*   [Designing Cloud Data Platforms](https://www.manning.com/books/designing-cloud-data-platforms) - Early access
+*   [Designing Cloud Data Platforms](https://www.manning.com/books/designing-cloud-data-platforms) - Early Access
 
 ## [7. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
@@ -96,23 +96,23 @@
 
 ### Programming Languages / Rust
 
-*   [nix-cargo-integration (⭐136)](https://github.com/yusdacra/nix-cargo-integration) - A library that allows easy and effortless integration for Cargo projects.
+*   [nix-cargo-integration (⭐149)](https://github.com/yusdacra/nix-cargo-integration) - A library that allows easy and effortless integration for Cargo projects.
 
 ## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Form Components / Input Types
 
-*   [@lunasec/react-sdk (⭐1.3k)](https://github.com/lunasec-io/lunasec) - [docs](https://www.lunasec.io/docs/) - Secure, hardened form components that encrypt/tokenize all data automatically.
+*   [@lunasec/react-sdk (⭐1.4k)](https://github.com/lunasec-io/lunasec) - [docs](https://www.lunasec.io/docs/) - Secure, hardened form components that encrypt/tokenize all data automatically.
 
 ### Data Store / Mouse Events
 
-*   [zustand](https://zustand.surge.sh/) - [docs (⭐30k)](https://github.com/pmndrs/zustand) - A fast bearbones state-management solution using simplified flux principles and boilerplate-free hook api.
+*   [zustand](https://zustand.surge.sh/) - [docs (⭐36k)](https://github.com/pmndrs/zustand) - A fast bearbones state-management solution using simplified flux principles and boilerplate-free hook api.
 
 ## [10. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Beginner
 
-*   [Beginner's Guide (⭐240)](https://github.com/antz22/ultimate-guide-to-flutter) <!--stargazers:antz22/ultimate-guide-to-flutter--> - Comprehensive guide to the basics of Flutter and Firebase by [Anthony](https://github.com/antz22)
+*   [Beginner's Guide (⭐284)](https://github.com/antz22/ultimate-guide-to-flutter) <!--stargazers:antz22/ultimate-guide-to-flutter--> - Comprehensive guide to the basics of Flutter and Firebase by [Anthony](https://github.com/antz22)
 
 ## [11. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -147,11 +147,11 @@
 ### Centralized
 
 *   [Signal](https://signal.org/) - Extreme focus on privacy, combined with all of the features you expect. Strong encryption by design. 100% Open Source.
-    *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Molly (⭐866)](https://github.com/mollyim/mollyim-android) - Signal-compatible fork client with some security enhancements.
+    *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Molly (⭐1k)](https://github.com/mollyim/mollyim-android) - Signal-compatible fork client with some security enhancements.
 
 ### Android / iOS
 
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [FairEmail (⭐1.8k)](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [FairEmail (⭐2.2k)](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android.
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [K9](https://k9mail.app/) - Open Source Email App for Android.
 
 ## [15. Public Apis](/content/public-apis/public-apis/README.md)
@@ -300,7 +300,7 @@
   CORS: Yes
 
 
-- API: [PokéAPI (GraphQL) (⭐123)](https://github.com/mazipan/graphql-pokeapi)
+- API: [PokéAPI (GraphQL) (⭐144)](https://github.com/mazipan/graphql-pokeapi)
 
   Description: The Unofficial GraphQL for PokeAPI
 

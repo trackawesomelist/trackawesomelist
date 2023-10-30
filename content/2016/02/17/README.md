@@ -61,11 +61,11 @@
 
 ### Modules / CLI
 
-*   [abbrev (⭐150)](https://github.com/isaacs/abbrev-js) - Calculate the set of unique abbreviations for a given set of strings.
+*   [abbrev (⭐158)](https://github.com/isaacs/abbrev-js) - Calculate the set of unique abbreviations for a given set of strings.
 
 ### Modules / Module management
 
-*   [pkg-conf (⭐115)](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
+*   [pkg-conf (⭐113)](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
 *   [normalize-pkg (⭐18)](https://github.com/jonschlinkert/normalize-pkg) - Normalize values in package.json to improve compatibility, programmatic readability and usefulness with third party libs.
 
 ## [8. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)

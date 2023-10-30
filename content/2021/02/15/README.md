@@ -38,13 +38,13 @@
 
 ### Demos / Godot 3.2+
 
-*   [Godot experiments (⭐396)](https://github.com/MrEliptik/godot_experiments) - Several 2D, 3D and VR experiments.
+*   [Godot experiments (⭐455)](https://github.com/MrEliptik/godot_experiments) - Several 2D, 3D and VR experiments.
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
-*   [Native script (⭐5.1k)](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using NativeScript
+*   [Native script (⭐5.2k)](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using NativeScript
 *   [Vue Native (⭐8.3k)](https://github.com/GeekyAnts/vue-native-core) - Build cross platform native mobile apps using JavaScript
 
 ## [6. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
@@ -57,13 +57,13 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-checkly (⭐40)](https://github.com/checkly/terraform-provider-checkly) - Manage [Checkly](https://www.checklyhq.com) resources for API & E2E monitoring.
+*   [terraform-provider-checkly (⭐41)](https://github.com/checkly/terraform-provider-checkly) - Manage [Checkly](https://www.checklyhq.com) resources for API & E2E monitoring.
 
 ## [8. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### JAMstack
 
-*   [Next.js Starter kit using GraphQL and Sitecore Experience Edge for Content Hub (⭐8)](https://github.com/konabos/Next.js-Starter-kit-using-GraphQL-and-Sitecore-Content-Hub-Content-as-a-Service) - This is a great example of Sitecore Experience Edge Content as-a-Service approach using NextJS upon React, using a demo instance of the latest Content Hub.
+*   [Next.js Starter kit using GraphQL and Sitecore Experience Edge for Content Hub (⭐9)](https://github.com/konabos/Next.js-Starter-kit-using-GraphQL-and-Sitecore-Content-Hub-Content-as-a-Service) - This is a great example of Sitecore Experience Edge Content as-a-Service approach using NextJS upon React, using a demo instance of the latest Content Hub.
 
 ---
 

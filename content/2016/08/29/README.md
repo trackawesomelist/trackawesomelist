@@ -28,19 +28,19 @@
 
 ### Internationalization
 
-*   [Termit (⭐509)](https://github.com/pawurb/termit) - Translations with speech synthesis in your terminal.
+*   [Termit (⭐508)](https://github.com/pawurb/termit) - Translations with speech synthesis in your terminal.
 
 ## [5. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Python / Symfony2
 
-*   [Flask-Potion (⭐489)](https://github.com/biosustain/potion) - Flask-Potion is a powerful Flask extension for building RESTful JSON APIs. It also provides several Clients for easier access to the API.
+*   [Flask-Potion (⭐488)](https://github.com/biosustain/potion) - Flask-Potion is a powerful Flask extension for building RESTful JSON APIs. It also provides several Clients for easier access to the API.
 
 ## [6. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / Honey Pot / Honey Net
 
-*   [HoneyPy (⭐435)](https://github.com/foospidy/HoneyPy) - HoneyPy is a low to medium interaction honeypot. It is intended to be easy to: deploy, extend functionality with plugins, and apply custom configurations.
+*   [HoneyPy (⭐438)](https://github.com/foospidy/HoneyPy) - HoneyPy is a low to medium interaction honeypot. It is intended to be easy to: deploy, extend functionality with plugins, and apply custom configurations.
 
 ## [7. Es6 Tools](/content/addyosmani/es6-tools/README.md)
 

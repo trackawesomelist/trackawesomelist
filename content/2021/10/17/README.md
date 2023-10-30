@@ -6,16 +6,11 @@
 
 
 
-## [1. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
+## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### Rust / Flask
+### COBOL / Non-X86
 
-*   [Rust by Example 日本語版](https://doc.rust-jp.rs/rust-by-example-ja) - Rustコミュニティ(翻訳)
-*   [The Rust Programming Language 日本語版](https://doc.rust-jp.rs/book-ja) - Steve Klabnik, Carol Nichols, Rustコミュニティ(翻訳) ([PDF](https://doc.rust-jp.rs/book-ja-pdf/book.pdf))
-
-### TypeScript / Flask
-
-*   [仕事ですぐに使えるTypeScript](https://future-architect.github.io/typescript-guide) - フューチャー株式会社（Future Corporation） ([PDF](https://future-architect.github.io/typescript-guide/typescript-guide.pdf))
+*   [ILE COBOL Programmer's Guide](https://www.ibm.com/docs/de/ssw_ibm_i_74/pdf/sc092539.pdf) (PDF)
 
 ## [2. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
 
@@ -37,9 +32,9 @@
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Hybiscus](https://hybiscus.dev/) - Build pdf reports using a simple declarative API. Free tier includes upto 100 single page reports per month with the ability to customise color pallet and fonts.
+*   [Hybiscus](https://hybiscus.dev/) - Build pdf reports using a simple declarative API. The free tier includes up to 100 single-page reports per month with the ability to customize color palettes and fonts.
 
 ## [6. Public Apis](/content/public-apis/public-apis/README.md)
 

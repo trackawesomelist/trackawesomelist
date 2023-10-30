@@ -10,7 +10,14 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
+*   [asdf (kiurchv) (⭐15)](https://github.com/kiurchv/asdf.plugin.zsh) - Integration and completions for [asdf (⭐19k)](https://github.com/asdf-vm/asdf), the extendable version manager, with support for Ruby, Node.js, Elixir, Erlang and more.
+*   [asdf (zimfw) (⭐5)](https://github.com/zimfw/asdf) - Initializes [asdf (⭐19k)](https://github.com/asdf-vm/asdf), installing it using `git` if not installed yet. Also, bypasses the shims if you're using the [direnv (⭐474)](https://github.com/asdf-community/asdf-direnv) plugin, as suggested by the plugin [pro-tips (⭐474)](https://github.com/asdf-community/asdf-direnv/#pro-tips).
 *   [zload (⭐14)](https://github.com/mollifier/zload) - Hot Reload for ZSH functions. Enables rapid development.
+
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [sdkman (matthieusb) (⭐54)](https://github.com/matthieusb/zsh-sdkman) - Add tab completions for [sdkman](https://sdkman.io/).
+*   [sdkman (yongxingzhao) (⭐0)](https://github.com/yongxingzhao/zsh-sdkman) - Add tab completions for [sdkman](https://sdkman.io/).
 
 ## [Oct 23, 2023](/content/2023/10/23/README.md)
 
@@ -184,7 +191,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [containers (⭐3)](https://github.com/redxtech/zsh-containers) - provides aliases and better interoperability between \[podman(<https://podman.io>)] and [docker](https://docker.com) commands based on which you have installed.
+*   [containers (⭐3)](https://github.com/redxtech/zsh-containers) - Provides aliases and better interoperability between \[podman(<https://podman.io>)] and [docker](https://docker.com) commands based on which you have installed.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -563,7 +570,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf-dir-navigator (⭐32)](https://github.com/KulkarniKaustubh/fzf-dir-navigator) - This is a cool and user-friendly directory navigation plugin for `zsh` using `fzf`.
+*   [fzf-dir-navigator (⭐32)](https://github.com/KulkarniKaustubh/fzf-dir-navigator) - This is a cool and user-friendly directory navigation plugin for `zsh` using `fzf` that allows the user to switch to any directory from anywhere and to anywhere. It also maintains a history of recently visited directories. Additionally, you can use hotkeys to move back and forth between directories in the shell session.
 *   [lsd (wintermi) (⭐2)](https://github.com/wintermi/zsh-lsd) - Override `ls` and `tree` commands with [lsd (⭐11k)](https://github.com/Peltoche/lsd).
 *   [lsd (z-shell) (⭐6)](https://github.com/z-shell/zsh-lsd) - Replaces `ls` with [lsd (⭐11k)](https://github.com/Peltoche/lsd).
 *   [penmux (⭐2)](https://github.com/mfulz/zsh-penmux) - A session manager plugin meant to be used for penetration testing sessions and tracking the terminal sessions to be used in reports.
@@ -591,7 +598,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [asdf (⭐5)](https://github.com/zimfw/asdf) - Initializes [asdf (⭐19k)](https://github.com/asdf-vm/asdf), installing it using `git` if not installed yet. Also, bypasses the shims if you're using the [direnv (⭐474)](https://github.com/asdf-community/asdf-direnv) plugin, as suggested by the plugin [pro-tips (⭐474)](https://github.com/asdf-community/asdf-direnv/#pro-tips).
 *   [pins (⭐1)](https://github.com/mehalter/zsh-pins) - ZSH plugin for pinning directories. Like a CLI folder bookmark manager with tab completions.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -2445,7 +2451,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [asciidoctor (⭐4)](https://github.com/sparsick/asciidoctor-zsh) - A plugin for AsciiDoctor.
 *   [asdf-direnv (⭐7)](https://github.com/redxtech/zsh-asdf-direnv) - Integration and completions for [asdf (⭐19k)](https://github.com/asdf-vm/asdf) and [direnv (⭐474)](https://github.com/asdf-community/asdf-direnv).
 *   [asdf-prompt (⭐7)](https://github.com/CurryEleison/zsh-asdf-prompt) - Provides a function usable in prompts that displays version information for your current tool versions.
-*   [asdf (⭐15)](https://github.com/kiurchv/asdf.plugin.zsh) - Integration and completions for [asdf (⭐19k)](https://github.com/asdf-vm/asdf), the extendable version manager, with support for Ruby, Node.js, Elixir, Erlang and more.
 *   [assume-role (⭐5)](https://github.com/weizard/assume-role) - ZSH plugin to allow you to assume AWS IAM roles easily. Includes completions.
 *   [async (⭐717)](https://github.com/mafredri/zsh-async) - Library for running asynchronous tasks in ZSH without requiring any external tools. Allows you to run multiple asynchronous jobs, enforce unique jobs (multiple instances of the same job will not run), flush all currently running jobs and create multiple workers (each with their own jobs).
 *   [atom-plugin (⭐5)](https://github.com/CorradoRossi/oh-my-zsh-atom-plugin) - Based on the [Sublime (⭐3)](https://github.com/valentinocossar/sublime) plugin, lets you launch a file or folder in [Atom](https://atom.io) from [iTerm 2](https://iterm2.com).
@@ -3595,7 +3600,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [saturn (⭐5)](https://github.com/gantoreno/saturn-prompt) - A soft & minimalistic prompt for those who love space and want to have a bit of it on their terminal, featuring cool emojis & highly customizable prompt elements (such as icons, colors, time format, and more).
 *   [schminitz](https://gist.github.com/schminitz/9931af23bbb59e772eec) - Shows if `vim` is running in the background when using `:sh` command.
 *   [scythe (⭐0)](https://github.com/kostoskistefan/scythe) - Powerline-reminiscent theme. Includes `git`, last command exit status and directory decorations.
-*   [sdkman (⭐54)](https://github.com/matthieusb/zsh-sdkman) - Add tab completions for [sdkman](https://sdkman.io/).
 *   [seashell (⭐27)](https://github.com/jottenlips/seasonal-zshthemes) - Minimal theme with sea-inspired emoji decorations. Includes `git` status decorations.
 *   [seeker (⭐47)](https://github.com/tonyseek/oh-my-zsh-seeker-theme) - This theme uses many special unicode characters to be fancy, but it may cause some problems without well supported fonts.
 *   [seltzer (⭐0)](https://github.com/GrantSeltzer/seltzer.zsh-theme) - Inspired by the dieter theme, uses color-coding to provide information.

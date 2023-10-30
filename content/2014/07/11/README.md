@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 11, 2014
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,19 +16,19 @@
 
 ### Build tools, setup and CI
 
-*   [Lazybones (⭐614)](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates.
+*   [Lazybones (⭐615)](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates.
 
 ### Web Frameworks
 
-*   [Grails (⭐446)](https://github.com/grails/grails) - A powerful web application framework based on the Groovy language
-*   [Gaelyk (⭐221)](https://github.com/gaelyk/gaelyk) - A lightweight Groovy toolkit for Google App Engine Java
+*   [Grails (⭐445)](https://github.com/grails/grails) - A powerful web application framework based on the Groovy language
+*   [Gaelyk (⭐220)](https://github.com/gaelyk/gaelyk) - A lightweight Groovy toolkit for Google App Engine Java
 *   [Glide (⭐53)](https://github.com/kdabir/glide) - Create awesome apps on Google App Engine in a snap
 *   [Ratpack (⭐1.9k)](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications
 
 ### Database
 
-*   [Gmongo (⭐183)](https://github.com/poiati/gmongo) - A Groovy wrapper to the mongodb Java driver
-*   [Gstorm (⭐79)](https://github.com/kdabir/gstorm) - A simple ORM for simple databases and CSV files to be used in groovy scripts
+*   [Gmongo (⭐182)](https://github.com/poiati/gmongo) - A Groovy wrapper to the mongodb Java driver
+*   [Gstorm (⭐81)](https://github.com/kdabir/gstorm) - A simple ORM for simple databases and CSV files to be used in groovy scripts
 
 ### Rich Application
 
@@ -36,7 +36,7 @@
 
 ### Testing
 
-*   [Spock (⭐3.3k)](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework.
+*   [Spock (⭐3.4k)](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework.
 *   [Geb (⭐1.1k)](https://github.com/geb/geb) - Very Groovy Browser Automation
 
 ## [3. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
@@ -44,17 +44,39 @@
 ### Machine Learning
 
 *   [brain (⭐8k)](https://github.com/harthur/brain) - Neural networks in JavaScript.
-*   [convnetjs (⭐10k)](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
-*   [Decider (⭐385)](https://github.com/danielsdeleo/Decider) - Flexible and Extensible Machine Learning in Ruby.
-*   [MLPNeuralNet (⭐898)](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X.
+*   [convnetjs (⭐11k)](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
+*   [Decider (⭐386)](https://github.com/danielsdeleo/Decider) - Flexible and Extensible Machine Learning in Ruby.
+*   [MLPNeuralNet (⭐895)](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X.
 *   [nupic (⭐6.3k)](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing: a brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms.
-*   [scikit-learn (⭐52k)](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python.
+*   [scikit-learn (⭐54k)](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python.
 
 ### Applications
 
-*   [Snowplow (⭐6.2k)](https://github.com/snowplow/snowplow) - enterprise-strength web and event analytics, powered by Hadoop, Kinesis, Redshift and Postgres.
+*   [Snowplow (⭐6.5k)](https://github.com/snowplow/snowplow) - enterprise-strength web and event analytics, powered by Hadoop, Kinesis, Redshift and Postgres.
 
-## [4. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Ada
+
+*   [Ada Reference Manual - ISO/IEC 8652:2012(E) Language and Standard Libraries](http://www.ada-auth.org/standards/12rm/RM-Final.pdf) (PDF)
+
+### Alef
+
+*   [Alef Language Reference Manual](http://doc.cat-v.org/plan_9/2nd_edition/papers/alef/ref)
+
+### Chapel / Non-X86
+
+*   [Chapel Tutorial](http://faculty.knox.edu/dbunde/teaching/chapel/)
+
+### Limbo / TeX
+
+*   [Inferno Programming With Limbo](http://doc.cat-v.org/inferno/books/inferno_programming_with_limbo/)
+
+### OpenMP / PicoLisp
+
+*   [OpenMP Application Programming Interface Standard Version 4.0](http://www.openmp.org/mp-documents/OpenMP4.0.0.pdf) (PDF)
+
+## [5. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Redis
 
@@ -62,7 +84,7 @@
 
 ### JSON
 
-*   [cheshire (⭐1.4k)](https://github.com/dakrone/cheshire)
+*   [cheshire (⭐1.5k)](https://github.com/dakrone/cheshire)
 
 ### Security
 
@@ -86,22 +108,22 @@
 *   [clojure-doc](http://clojure-doc.org/)
 *   [The Clojure Toolbox](http://www.clojure-toolbox.com/)
 
-## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Filesystem
 
-*   [cpy (⭐401)](https://github.com/sindresorhus/cpy) - Copy files.
+*   [cpy (⭐415)](https://github.com/sindresorhus/cpy) - Copy files.
 *   [del (⭐1.3k)](https://github.com/sindresorhus/del) - Delete files/folders using globs.
-*   [globby (⭐2.3k)](https://github.com/sindresorhus/globby) - Glob files with support for multiple patterns.
+*   [globby (⭐2.4k)](https://github.com/sindresorhus/globby) - Glob files with support for multiple patterns.
 
 ### Packages / Image
 
-*   [sharp (⭐25k)](https://github.com/lovell/sharp) - The fastest module for resizing JPEG, PNG, WebP and TIFF images.
+*   [sharp (⭐26k)](https://github.com/lovell/sharp) - The fastest module for resizing JPEG, PNG, WebP and TIFF images.
 
 ### Packages / Humanize
 
-*   [pretty-bytes (⭐994)](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: `1337` → `1.34 kB`.
-*   [pretty-ms (⭐917)](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
+*   [pretty-bytes (⭐1k)](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: `1337` → `1.34 kB`.
+*   [pretty-ms (⭐933)](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
 
 ### Packages / Node.js management
 
@@ -109,7 +131,7 @@
 
 ### Packages / Miscellaneous
 
-*   [cheerio (⭐26k)](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+*   [cheerio (⭐27k)](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 
 ### Resources / Tutorials
 
@@ -119,7 +141,7 @@
 
 *   [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
 
-## [6. Awesome Erlang](/content/drobakowski/awesome-erlang/README.md)
+## [7. Awesome Erlang](/content/drobakowski/awesome-erlang/README.md)
 
 ### Web Frameworks
 
@@ -165,7 +187,7 @@
 
 *   [Learn You Some Erlang](http://learnyousomeerlang.com/) - Learn you some Erlang - for great good! A very thorough resource covering everything from beginning Erlang programming to large-scale development and deployment.
 
-## [7. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
+## [8. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 
 ### Benchmarking
 

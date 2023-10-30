@@ -16,14 +16,14 @@
 
 ### Similar lists / Videos
 
-*   [Awesome Open (⭐57)](https://github.com/paulhendricks/awesome-open):
+*   [Awesome Open (⭐69)](https://github.com/paulhendricks/awesome-open):
     A curated list of organizations, projects and initiatives that maintain open codebases and datasets
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Framework Components
 
-*   [multiverse (⭐90)](https://github.com/Nebo15/multiverse) - Plug that allows to add version compatibility layers via API Request/Response Gateways.
+*   [multiverse (⭐92)](https://github.com/Nebo15/multiverse) - Plug that allows to add version compatibility layers via API Request/Response Gateways.
 
 ### Geolocation
 
@@ -31,11 +31,11 @@
 
 ### Security
 
-*   [ssl\_verify\_fun (⭐88)](https://github.com/deadtrickster/ssl_verify_fun.erl) - Collection of ssl verification functions for Erlang.
+*   [ssl\_verify\_fun (⭐96)](https://github.com/deadtrickster/ssl_verify_fun.erl) - Collection of ssl verification functions for Erlang.
 
 ### Third Party APIs
 
-*   [digitalocean (⭐12)](https://github.com/lukeed/elixir-digitalocean) - Elixir wrapper for the Digital Ocean API v2.
+*   [digitalocean (⭐13)](https://github.com/lukeed/elixir-digitalocean) - Elixir wrapper for the Digital Ocean API v2.
 
 ### Websites
 
@@ -63,7 +63,7 @@
 
 ### Configuration
 
-*   [cr-dotenv (⭐95)](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
+*   [cr-dotenv (⭐94)](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
 
 ### Web Frameworks
 
@@ -73,13 +73,13 @@
 
 ### Developer
 
-*   [mdi (⭐41)](https://github.com/importre/alfred-mdi) - Find [Material Design Icons (⭐48k)](https://github.com/google/material-design-icons).
+*   [mdi (⭐41)](https://github.com/importre/alfred-mdi) - Find [Material Design Icons (⭐49k)](https://github.com/google/material-design-icons).
 
 ## [8. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Bindings
 
-*   [Vulkan-hpp (⭐2.5k)](https://github.com/KhronosGroup/Vulkan-Hpp) Open-Source Vulkan C++ API originated from NVIDIA and [the blog](https://developer.nvidia.com/open-source-vulkan-c-api) about it.
+*   [Vulkan-hpp (⭐2.7k)](https://github.com/KhronosGroup/Vulkan-Hpp) Open-Source Vulkan C++ API originated from NVIDIA and [the blog](https://developer.nvidia.com/open-source-vulkan-c-api) about it.
 
 ## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

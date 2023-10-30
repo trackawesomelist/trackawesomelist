@@ -10,7 +10,7 @@
 
 ### Third-Party Packages / Models
 
-*   [django-recurrence (⭐432)](https://github.com/django-recurrence/django-recurrence) - Utility for working with recurring dates in Django.
+*   [django-recurrence (⭐440)](https://github.com/django-recurrence/django-recurrence) - Utility for working with recurring dates in Django.
 
 ## [2. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
@@ -75,13 +75,13 @@
 
 ### BaaS
 
-*   [Salesforce Developer Program](https://developer.salesforce.com/signup) — Build apps Lightning fast with drag and drop tools. Customize your data model with clicks. Go further with Apex code. Integrate with anything using powerful APIs. Stay protected with enterprise-grade security. Customize UI with clicks or any leading-edge web framework. Free Developer Program gives access to the full Lightining Platform.
+*   [Salesforce Developer Program](https://developer.salesforce.com/signup) — Build apps Lightning fast with drag-and-drop tools. Customize your data model with clicks. Go further with Apex code. Integrate with anything using powerful APIs. Stay protected with enterprise-grade security. Customize UI with clicks or any leading-edge web framework. Free Developer Program gives access to the full Lightning Platform.
 
 ## [7. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Projects / Godot 3.2+
 
-*   [Arrow (⭐598)](https://github.com/mhgolkar/Arrow) - A tool to design game narratives with nodes.
+*   [Arrow (⭐650)](https://github.com/mhgolkar/Arrow) - A tool to design game narratives with nodes.
 
 ## [8. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -93,7 +93,7 @@
 
 ### Calendar
 
-*   [scriptable-calendar-widget (⭐102)](https://github.com/rudotriton/scriptable-calendar-widget) - Customizable calendar.
+*   [scriptable-calendar-widget (⭐113)](https://github.com/rudotriton/scriptable-calendar-widget) - Customizable calendar.
 
     <img src="https://raw.githubusercontent.com/rudotriton/scriptable-calendar-widget/main/assets/scriptable-calendar-widget.jpg" width="400"/>
 
@@ -103,11 +103,11 @@
 
 *   [*Apple Augmented Reality by Tutorials* by Chris Language](https://www.raywenderlich.com/books/apple-augmented-reality-by-tutorials/v1.0)
 
-## [11. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [11. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
-### Web / Development
+### Tools / Community providers
 
-*   [KICS (⭐1.6k)](https://github.com/Checkmarx/kics) - Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
+*   [KICS (⭐1.7k)](https://github.com/Checkmarx/kics) - Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
 
 ## [12. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/README.md)
 

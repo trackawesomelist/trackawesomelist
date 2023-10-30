@@ -6,43 +6,40 @@
 
 
 
-## [1. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [1. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
+
+### Examples
+
+*   [facebook/hhvm (⭐18k)](https://github.com/facebook/hhvm/wiki)
+
+## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Spreadsheets and Documents
 
-*   [CAXLSX (⭐415)](https://github.com/caxlsx/caxlsx) - A community maintained excel xlsx generation library. [AXLSX (⭐2.6k)](https://github.com/randym/axlsx) - The original.
+*   [CAXLSX (⭐442)](https://github.com/caxlsx/caxlsx) - A community maintained excel xlsx generation library. [AXLSX (⭐2.6k)](https://github.com/randym/axlsx) - The original.
 
-## [2. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [3. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
-### Command-Line Tools / Newsletters
+### Command-Line Tools / Discovery
 
-*   [deadnix (⭐250)](https://github.com/astro/deadnix) - Scan Nix files for dead code.
+*   [deadnix (⭐293)](https://github.com/astro/deadnix) - Scan Nix files for dead code.
 
-## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
 
 *   [A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT | arxiv](https://arxiv.org/abs/2303.04226)
 *   [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT | arxiv](https://arxiv.org/abs/2302.09419)
 
-### Inbox: Large Language Models / Embeddings and Semantic Search
+### Inbox: Large Language Models (LLMs) / Embeddings and Semantic Search
 
 *   [BLIP+CLIP | CLIP Interrogator | Kaggle](https://www.kaggle.com/code/leonidkulyk/lb-0-45836-blip-clip-clip-interrogator): a Kaggle notebook for image description and captioning (imate-to-text)
-
-## [4. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
-
-### Legend / Model Assets
-
-*   Other
-    *   📚 - Article, Blog, Collection, List, Tutorial(s)
-        🔥 - - Hot, Amazing Resource!
-    *   🌎 - Website
 
 ## [5. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
-*   [Macige (⭐68)](https://github.com/tramlinehq/macige) - CI workflow generator for mobile app development, [Live Demo](https://macige.tramline.app).
+*   [Macige (⭐75)](https://github.com/tramlinehq/macige) - CI workflow generator for mobile app development, [Live Demo](https://macige.tramline.app).
 
 ## [6. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -68,13 +65,16 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-azapi (⭐119)](https://github.com/Azure/terraform-provider-azapi) - Provider for Azure Resource Manager Rest API
-*   [terraform-provider-azuredevops (⭐295)](https://github.com/microsoft/terraform-provider-azuredevops) - Provider for Azure DevOps (VSTS).
-*   [terraform-provider-terracurl (⭐96)](https://github.com/devops-rob/terraform-provider-terracurl) - Provider to make managed and unmanaged API calls to your target endpoint.
+*   [terraform-provider-azapi (⭐137)](https://github.com/Azure/terraform-provider-azapi) - Provider for Azure Resource Manager Rest API
+*   [terraform-provider-azuredevops (⭐327)](https://github.com/microsoft/terraform-provider-azuredevops) - Provider for Azure DevOps (VSTS).
 
-### Tools / Vendor supported providers
+### Providers / Community providers
 
-*   [aztfexport (⭐1.2k)](https://github.com/Azure/aztfexport) - A tool to bring existing Azure resources under Terraform's management.
+*   [terraform-provider-terracurl (⭐107)](https://github.com/devops-rob/terraform-provider-terracurl) - Provider to make managed and unmanaged API calls to your target endpoint.
+
+### Tools / Community providers
+
+*   [aztfexport (⭐1.3k)](https://github.com/Azure/aztfexport) - A tool to bring existing Azure resources under Terraform's management.
 
 ---
 

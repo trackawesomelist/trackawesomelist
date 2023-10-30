@@ -56,7 +56,7 @@
 
 ### Software / URL Shorteners
 
-*   [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains. ([Source Code (⭐7.1k)](https://github.com/thedevs-network/kutt)) `MIT` `Nodejs`
+*   [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains. ([Source Code (⭐7.6k)](https://github.com/thedevs-network/kutt)) `MIT` `Nodejs/Docker`
 
 ## [9. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
@@ -88,19 +88,19 @@
 
 ### GTFS Realtime / Ruby
 
-*   [GTFS-realtime Autodoc](https://laidig.github.io/gtfs-rt-autodoc/index.html) - Automatically generated documentation for GTFS-realtime, generated from the official [GTFS-realtime protocol buffer specification (⭐414)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto) and including some extensions.
+*   [GTFS-realtime Autodoc](https://laidig.github.io/gtfs-rt-autodoc/index.html) - Automatically generated documentation for GTFS-realtime, generated from the official [GTFS-realtime protocol buffer specification (⭐446)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto) and including some extensions.
 
 ## [12. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
-*   [tmuxpair (⭐42)](https://github.com/goerz/tmuxpair) Command line script for setting up a temporary tmux session for pair programming
+*   [tmuxpair (⭐43)](https://github.com/goerz/tmuxpair) Command line script for setting up a temporary tmux session for pair programming
 
 ## [13. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### UI
 
-*   [XamEffects ★53 (⭐252)](https://github.com/mrxten/XamEffects) - Touch effect for Xamarin.Forms.
+*   [XamEffects ★53 (⭐251)](https://github.com/mrxten/XamEffects) - Touch effect for Xamarin.Forms.
 
 ## [14. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -119,17 +119,6 @@
 
 ## [16. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
-### Base / Reset / Normalize
-
-*   [**sanitize.css**](https://csstools.github.io/sanitize.css/) - The best-practices CSS foundation.\
-    ![](https://img.shields.io/github/stars/csstools/sanitize.css.svg?style=social\&label=Star)
-    [Repo (⭐4.9k)](https://github.com/csstools/sanitize.css)
-    \| #CSS
-*   [**minireset.css**](https://jgthms.com/minireset.css/) - Tiny modern CSS reset.\
-    ![](https://img.shields.io/github/stars/jgthms/minireset.css.svg?style=social\&label=Star)
-    [Repo (⭐2.6k)](https://github.com/jgthms/minireset.css)
-    \| #Sass
-
 ### Very Lightweight
 
 *   [**Pure**](https://purecss.io) - Set of small, responsive CSS modules that you can use in every web project.\
@@ -138,23 +127,17 @@
     [Docs](https://purecss.io/start/),
     [Repo (⭐23k)](https://github.com/pure-css/pure)
     \| #CSS
-*   [**Milligram**](https://milligram.io) - Minimalist CSS framework.\
-    ![](https://img.shields.io/github/stars/milligram/milligram.svg?style=social\&label=Star)
-    [Demo](https://milligram.io/showcase.html),
-    [Docs](https://milligram.io/#getting-started),
-    [Repo (⭐9.9k)](https://github.com/milligram/milligram)
-    \| #Sass
 *   [**Picnic CSS**](https://picnicss.com) - Lightweight and beautiful library.\
     ![](https://img.shields.io/github/stars/franciscop/picnic.svg?style=social\&label=Star)
     [Demo](https://picnicss.com/tests),
     [Docs](https://picnicss.com/documentation),
-    [Repo (⭐3.6k)](https://github.com/franciscop/picnic)
+    [Repo (⭐3.7k)](https://github.com/franciscop/picnic)
     \| #SCSS
 *   [**Chota**](https://jenil.github.io/chota/) - Really small CSS framework.\
     ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social\&label=Star)
     [Demo](https://raw.githack.com/jenil/chota/master/test/index.html),
     [Docs](https://jenil.github.io/chota/#docs),
-    [Repo (⭐1k)](https://github.com/jenil/chota)
+    [Repo (⭐1.3k)](https://github.com/jenil/chota)
     \| #CSS
 
 ### General Purpose
@@ -163,13 +146,13 @@
     ![](https://img.shields.io/github/stars/twbs/bootstrap.svg?style=social\&label=Star)
     [Demo](https://getbootstrap.com/docs/4.0/examples/),
     [Docs](https://getbootstrap.com/docs/4.0/),
-    [Repo (⭐161k)](https://github.com/twbs/bootstrap)
+    [Repo (⭐165k)](https://github.com/twbs/bootstrap)
     \| #SCSS
 *   [**Bulma**](https://bulma.io) - Modern CSS framework based on Flexbox.\
     ![](https://img.shields.io/github/stars/jgthms/bulma.svg?style=social\&label=Star)
     [Demo](https://bulma.io/expo/),
     [Docs](https://bulma.io/documentation/overview/start/),
-    [Repo (⭐46k)](https://github.com/jgthms/bulma)
+    [Repo (⭐48k)](https://github.com/jgthms/bulma)
     \| #Sass
 *   [**UIkit**](https://getuikit.com) - Lightweight and modular front-end framework for developing fast and powerful web interfaces.\
     ![](https://img.shields.io/github/stars/uikit/uikit.svg?style=social\&label=Star)
@@ -191,36 +174,53 @@
     [Docs](https://material.io/develop/web/getting-started),
     [Repo (⭐17k)](https://github.com/material-components/material-components-web)
     \| #SCSS
-*   [**MUI**](https://www.muicss.com) - Lightweight CSS framework that follows Google's Material Design guidelines.\
-    ![](https://img.shields.io/github/stars/muicss/mui.svg?style=social\&label=Star)
-    [Docs](https://www.muicss.com/docs/v1/getting-started/introduction),
-    [Repo (⭐4.5k)](https://github.com/muicss/mui)
-    \| #SCSS
 
 ### Utility-based
 
 *   [**Tailwind CSS**](https://tailwindcss.com) - Utility-first CSS framework for rapid UI development.\
     ![](https://img.shields.io/github/stars/tailwindlabs/tailwindcss.svg?style=social\&label=Star)
     [Docs](https://tailwindcss.com/docs),
-    [Repo (⭐63k)](https://github.com/tailwindlabs/tailwindcss)
+    [Repo (⭐72k)](https://github.com/tailwindlabs/tailwindcss)
     \| #CSS
 
 ### Specialized
 
 *   [**98.css**](https://jdan.github.io/98.css/) - CSS library for building interfaces that look like Windows 98.\
     ![](https://img.shields.io/github/stars/jdan/98.css.svg?style=social\&label=Star)
-    [Repo (⭐7.7k)](https://github.com/jdan/98.css)
+    [Repo (⭐8.2k)](https://github.com/jdan/98.css)
     \| #CSS
 *   [**Gutenberg**](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.\
     ![](https://img.shields.io/github/stars/BafS/Gutenberg.svg?style=social\&label=Star)
     [Demo](https://bafs.github.io/Gutenberg/),
-    [Docs (⭐4.5k)](https://github.com/BafS/Gutenberg#what-does-the-framework-do-)
+    [Docs (⭐4.7k)](https://github.com/BafS/Gutenberg#what-does-the-framework-do-)
     \| #SCSS
 *   [**Bojler**](https://bojler.slicejack.com) - Email framework for developing responsive and lightweight email templates.\
     ![](https://img.shields.io/github/stars/Slicejack/bojler.svg?style=social\&label=Star)
     [Docs](https://bojler.slicejack.com/documentation/getting-started/),
-    [Repo (⭐976)](https://github.com/Slicejack/bojler)
+    [Repo (⭐1k)](https://github.com/Slicejack/bojler)
     \| #SCSS
+
+### Stalled Development
+
+*   [**Milligram**](https://milligram.io) - Minimalist CSS framework.\
+    ![](https://img.shields.io/github/stars/milligram/milligram.svg?style=social\&label=Star)
+    [Demo](https://milligram.io/showcase.html),
+    [Docs](https://milligram.io/#getting-started),
+    [Repo (⭐10k)](https://github.com/milligram/milligram)
+    \| #Sass
+*   [**sanitize.css**](https://csstools.github.io/sanitize.css/) - The best-practices CSS foundation.\
+    ![](https://img.shields.io/github/stars/csstools/sanitize.css.svg?style=social\&label=Star)
+    [Repo (⭐5.1k)](https://github.com/csstools/sanitize.css)
+    \| #CSS
+*   [**MUI**](https://www.muicss.com) - Lightweight CSS framework that follows Google's Material Design guidelines.\
+    ![](https://img.shields.io/github/stars/muicss/mui.svg?style=social\&label=Star)
+    [Docs](https://www.muicss.com/docs/v1/getting-started/introduction),
+    [Repo (⭐4.5k)](https://github.com/muicss/mui)
+    \| #SCSS
+*   [**minireset.css**](https://jgthms.com/minireset.css/) - Tiny modern CSS reset.\
+    ![](https://img.shields.io/github/stars/jgthms/minireset.css.svg?style=social\&label=Star)
+    [Repo (⭐2.7k)](https://github.com/jgthms/minireset.css)
+    \| #Sass
 
 ## [17. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
@@ -237,43 +237,47 @@
 *   [Task automation with npm run](https://web.archive.org/web/20180302164842/http://substack.net/task_automation_with_npm_run)
 *   [How to use npm as a build tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
 
-### Support / `pre`   and   `post`   scripts
+### Support / `pre` and `post` scripts
 
 *   [npm.community](https://npm.community/c/support)
 
-## [19. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
-
-### Collaboration and Project Management / Telegram
-
-*   [~~Todoyu~~](http://www.todoyu.com) - Original project discontinued - now maintained at [Todoyu-PHP7.x (⭐15)](https://github.com/AlexEdimensionz/Todoyu-PHP7.x)
-
-## [20. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [19. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Other Awesome Lists
 
-*   [example-ios-apps (⭐827)](https://github.com/jogendra/example-ios-apps) - An amazing list for people who are beginners and learning ios development and for ios developers who need any example app or feature.
+*   [example-ios-apps (⭐920)](https://github.com/jogendra/example-ios-apps) - An amazing list for people who are beginners and learning ios development and for ios developers who need any example app or feature.
 
 ### Tab / Barcode
 
-*   [ESTabBarController (⭐4.9k)](https://github.com/eggswift/ESTabBarController) - A highly customizable TabBarController component, which is inherited from UITabBarController.
+*   [ESTabBarController (⭐5k)](https://github.com/eggswift/ESTabBarController) - A highly customizable TabBarController component, which is inherited from UITabBarController.
 
-## [21. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [20. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### File Upload
 
 *   [PaperClip (⭐9.1k)](https://github.com/thoughtbot/paperclip) - Easy file attachment management for ActiveRecord. Deprecated as of May 14, 2018.
 
-## [22. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [21. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Finding Elements By Image, Part 2](https://appiumpro.com/editions/33)
 
+## [22. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Elixir / Non-X86
+
+*   [The Ultimate Guide To Elixir For Object-Oriented Programmers](http://www.binarywebpark.com/ultimate-guide-elixir-object-oriented-programmers) - Bruce Park (HTML)
+
+### HTML and CSS / Spock Framework
+
+*   [Learn to Code HTML & CSS](https://learn.shayhowe.com) - Shay Howe
+
 ## [23. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Top / Game Engine resources
 
-*   [Taskist (⭐811)](https://github.com/huextrat/Taskist) <!--stargazers:huextrat/Taskist--> - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat)
+*   [Taskist (⭐873)](https://github.com/huextrat/Taskist) <!--stargazers:huextrat/Taskist--> - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat)
 
 ## [24. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -283,21 +287,21 @@
 
 ### Resources / Examples
 
-*   [ASP.NET Core Vue Starter CLI 3.0 (⭐541)](https://github.com/SoftwareAteliers/asp-net-core-vue-starter) A Vue starter template using Vue CLI 3.0 with custom configuration (default TypeScript, Vue, Router, Vuex, Vuetify) integrated with ASP.​NET Core by [@SoftwareAteliers](https://github.com/SoftwareAteliers) (September 2018)
+*   [ASP.NET Core Vue Starter CLI 3.0 (⭐546)](https://github.com/SoftwareAteliers/asp-net-core-vue-starter) A Vue starter template using Vue CLI 3.0 with custom configuration (default TypeScript, Vue, Router, Vuex, Vuetify) integrated with ASP.​NET Core by [@SoftwareAteliers](https://github.com/SoftwareAteliers) (September 2018)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue2-scrollspy (⭐135)](https://github.com/ibufu/vue2-scrollspy) - A scrollspy plugin and animated scroll-to.
+*   [vue2-scrollspy (⭐137)](https://github.com/ibufu/vue2-scrollspy) - A scrollspy plugin and animated scroll-to.
 
 ## [25. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Libraries and Tools / C
 
-*   [dbcc (⭐254)](https://github.com/howerj/dbcc) - "dbcc is a program for converting a DBC file primarily into into C code that can serialize and deserialize CAN messages." With existing DBC files from a vehicle, this file allows you to convert them to C code that extracts the CAN messages and properties of the CAN environment.
+*   [dbcc (⭐295)](https://github.com/howerj/dbcc) - "dbcc is a program for converting a DBC file primarily into into C code that can serialize and deserialize CAN messages." With existing DBC files from a vehicle, this file allows you to convert them to C code that extracts the CAN messages and properties of the CAN environment.
 
 ### Libraries and Tools / Python
 
-*   [CanCat (⭐168)](https://github.com/atlas0fd00m/CanCat) - A "swiss-army knife" for interacting with live CAN data. Primary API interface in Python, but written in C++.
+*   [CanCat (⭐176)](https://github.com/atlas0fd00m/CanCat) - A "swiss-army knife" for interacting with live CAN data. Primary API interface in Python, but written in C++.
 
 ## [26. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -373,39 +377,39 @@
 
 ### Command-Line Productivity
 
-*   [fd (⭐26k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
+*   [fd (⭐28k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
 *   [Lmod](https://lmod.readthedocs.io/en/latest/) - Lua-based Environment Modules that enhances Tcl-based modules while being backward compatible (compare to modules)
-*   [shell-history (⭐100)](https://github.com/pawamoy/shell-history) - Visualize your shell usage with Highcharts
+*   [shell-history (⭐103)](https://github.com/pawamoy/shell-history) - Visualize your shell usage with Highcharts
 *   [surfraw](https://gitlab.com/surfraw/Surfraw) - browse specific site and search the web from your terminal without browser.
 
 ### Customization / Directory Navigation
 
-*   [polyglot (⭐148)](https://github.com/agkozak/polyglot) - An informative Git prompt that works in bash, zsh, ksh, mksh, pdksh, dash, yash, and busybox sh
+*   [polyglot (⭐159)](https://github.com/agkozak/polyglot) - An informative Git prompt that works in bash, zsh, ksh, mksh, pdksh, oksh, dash, yash, busybox sh, and osh
 
 ### For Developers / Directory Navigation
 
-*   [add-gitignore (⭐563)](https://github.com/TejasQ/add-gitignore) - Interactive CLI that generates a .gitignore for your project based on your needs.
+*   [add-gitignore (⭐585)](https://github.com/TejasQ/add-gitignore) - Interactive CLI that generates a .gitignore for your project based on your needs.
 *   [mr](https://myrepos.branchable.com) - Multiple Repository management tool
 
 ### System Utilities / Directory Navigation
 
-*   [rng (⭐28)](https://github.com/nickolasburr/rng) - Copy range of lines from file or stdin to stdout.
+*   [rng (⭐30)](https://github.com/nickolasburr/rng) - Copy range of lines from file or stdin to stdout.
 *   [wifi-wand (⭐60)](https://github.com/keithrbennett/wifiwand) - a Ruby command line application for managing WiFi on MacOS (install by `gem install wifi-wand`)
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [korkut (⭐352)](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line.
+*   [korkut (⭐357)](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line.
 
 ### Applications / Directory Navigation
 
-*   [md2png (⭐24)](https://github.com/weaming/md2png) - Convert markdown to PNG image
-*   [whales (⭐353)](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications
+*   [md2png (⭐26)](https://github.com/weaming/md2png) - Convert markdown to PNG image
+*   [whales (⭐357)](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications
 
 ## [30. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
-*   [ETL (⭐1.6k)](https://github.com/ETLCPP/etl) - Embedded Template Library. \[MIT]
+*   [ETL (⭐1.8k)](https://github.com/ETLCPP/etl) - Embedded Template Library. \[MIT]
 
 ### Podcasts
 
@@ -435,11 +439,11 @@
 
 ### Visualization
 
-*   [itk-jupyter-widgets (⭐516)](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) - Interactive widgets to visualize images in 2D and 3D.
+*   [itk-jupyter-widgets (⭐539)](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) - Interactive widgets to visualize images in 2D and 3D.
 
 ### Testing
 
-*   [ipytest (⭐249)](https://github.com/chmp/ipytest) - Test runner for running unit tests from within a notebook.
+*   [ipytest (⭐269)](https://github.com/chmp/ipytest) - Test runner for running unit tests from within a notebook.
 
 ### Community Resources
 
@@ -455,7 +459,7 @@
 
 ### Misc
 
-*   [retriable.cr (⭐36)](https://github.com/Sija/retriable.cr) - Simple DSL to retry failed code blocks
+*   [retriable.cr (⭐37)](https://github.com/Sija/retriable.cr) - Simple DSL to retry failed code blocks
 
 ### DevOps
 
@@ -476,15 +480,15 @@
 
 ### DNS
 
-*   [luadns.com](https://www.luadns.com/) — Free DNS hosting, 3 domains, all features with reasonable limits
+*   [luadns.com](https://www.luadns.com/) — Free DNS hosting, three domains, all features with reasonable limits
 
-### DBaaS
+### Managed Data Services
 
 *   [elephantsql.com](https://www.elephantsql.com/) — PostgreSQL as a service, 20 MB free
 
 ### Storage and Media Processing
 
-*   [embed.ly](https://embed.ly/) — Provides APIs for embedding media in a webpage, responsive image scaling, extracting elements from a webpage. Free for up to 5,000 URLs/month at 15 requests/second
+*   [embed.ly](https://embed.ly/) — Provides APIs for embedding media in a webpage, responsive image scaling, and extracting elements from a webpage. Free for up to 5,000 URLs/month at 15 requests/second
 
 ## [37. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -494,19 +498,19 @@
 
 ### Frameworks, Libraries and Tools / Caching
 
-*   [Faster (⭐5.3k)](https://github.com/Microsoft/FASTER/tree/master/cs) - Fast key-value store from Microsoft Research.
+*   [Faster (⭐5.7k)](https://github.com/Microsoft/FASTER/tree/master/cs) - Fast key-value store from Microsoft Research.
 
 ### Frameworks, Libraries and Tools / Logging
 
-*   [serilog (⭐5.8k)](https://github.com/serilog/serilog) - Simple .NET logging with fully-structured events.
-    *   [serilog-aspnetcore (⭐986)](https://github.com/serilog/serilog-aspnetcore) - Serilog integration for ASP.NET Core 2+.
-    *   [Serilog.Exceptions (⭐407)](https://github.com/RehanSaeed/Serilog.Exceptions) - Serilog.Exceptions is an add-on to [Serilog](https://serilog.net/) to log exception details and custom properties that are not output in Exception.ToString().
-    *   [Serilog.Settings.Configuration (⭐321)](https://github.com/serilog/serilog-settings-configuration) - A Serilog configuration provider that reads from Microsoft.Extensions.Configuration.
+*   [serilog (⭐6.6k)](https://github.com/serilog/serilog) - Simple .NET logging with fully-structured events.
+    *   [serilog-aspnetcore (⭐1.2k)](https://github.com/serilog/serilog-aspnetcore) - Serilog integration for ASP.NET Core 2+.
+    *   [Serilog.Exceptions (⭐456)](https://github.com/RehanSaeed/Serilog.Exceptions) - Serilog.Exceptions is an add-on to [Serilog](https://serilog.net/) to log exception details and custom properties that are not output in Exception.ToString().
+    *   [Serilog.Settings.Configuration (⭐397)](https://github.com/serilog/serilog-settings-configuration) - A Serilog configuration provider that reads from Microsoft.Extensions.Configuration.
 
 ### Frameworks, Libraries and Tools / Scheduler and Job
 
-*   [LiquidState (⭐219)](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET.
-*   [NCrontab (⭐731)](https://github.com/atifaziz/NCrontab) - Crontab for .NET.
+*   [LiquidState (⭐233)](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET.
+*   [NCrontab (⭐820)](https://github.com/atifaziz/NCrontab) - Crontab for .NET.
 
 ## [38. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -533,11 +537,11 @@
 
 ### Mod Loaders / Archives
 
-*   [Meddle (⭐27)](https://github.com/FyberOptic/Meddle) - Everything related to modding 1.9/1.10 snapshots in one place.
+*   [Meddle (⭐28)](https://github.com/FyberOptic/Meddle) - Everything related to modding 1.9/1.10 snapshots in one place.
 
 ### Mods / Skins And Capes
 
-*   [Custom Skin Loader (⭐400)](https://github.com/xfl03/MCCustomSkinLoader) - Custom Skin Loader for Minecraft.
+*   [Custom Skin Loader (⭐447)](https://github.com/xfl03/MCCustomSkinLoader) - Custom Skin Loader for Minecraft.
 
 ### Mods / Maps
 
@@ -551,11 +555,11 @@
 
 *   [Tinkers Construct](https://minecraft.curseforge.com/projects/tinkers-construct) - Tinkers' Construct is a mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else.
 *   [Immersive Engineering](https://minecraft.curseforge.com/projects/immersive-engineering) - Immersive Engineering is a tech mod with a certain charm, based on the ideas and concepts, and with most assets created by Damien Hazard.
-*   [Botania (⭐1.1k)](https://github.com/Vazkii/Botania) - Botania is a tech mod in essence. The theme is natural magic.
+*   [Botania (⭐1.2k)](https://github.com/Vazkii/Botania) - Botania is a tech mod in essence. The theme is natural magic.
 
 ### Mods / Energy
 
-*   [Applied Energistics 2 (⭐1.2k)](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world.
+*   [Applied Energistics 2 (⭐1.3k)](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world.
 *   [RFTools](https://minecraft.curseforge.com/projects/rftools) - RFTools is a mod containing various tools that are related to RF (Redflux) or technology in general.
 
 ### Mods / Farming And Food
@@ -564,8 +568,8 @@
 
 ### Server Plugins / Building
 
-*   [AntiCheatReloaded (⭐98)](https://github.com/Rammelkast/AntiCheatReloaded) - AntiCheatReloaded helps server admins easily identify and block malicious users by monitoring and analyzing the behaviour of their players.
-*   [ViaVersion (⭐910)](https://github.com/MylesIsCool/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
+*   [AntiCheatReloaded (⭐102)](https://github.com/Rammelkast/AntiCheatReloaded) - AntiCheatReloaded helps server admins easily identify and block malicious users by monitoring and analyzing the behaviour of their players.
+*   [ViaVersion (⭐1k)](https://github.com/MylesIsCool/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
 *   [AdvancedKitsReloaded (⭐10)](https://github.com/TryHardDood/AdvancedKitsReloaded) - AdvancedKitsReloaded is a Kit managing plugin for Minecraft servers which runs Bukkit, CraftBukkit, Spigot and Paper (>1.8). With this plugin you can easily create/edit/delete your kits and you can customize it as much as you'd like.
 
 ### Web Applications / Building

@@ -28,35 +28,35 @@
 
 ### Search Engines
 
-*   [librengine (⭐50)](https://github.com/liameno/librengine) - Privacy Web Search Engine
+*   [librengine (⭐59)](https://github.com/liameno/librengine) - Privacy Web Search Engine
 
 ## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / VPN
 
-*   [Headscale (⭐13k)](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools.
+*   [Headscale (⭐15k)](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools. `BSD-3-Clause` `Go`
 
 ## [6. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Status Bar
 
-*   [tmux-plugin-playerctl (⭐8)](https://github.com/richin13/tmux-plugin-playerctl) Display [MPRIS](https://www.freedesktop.org/wiki/Specifications/mpris-spec/) metadata in Tmux (Spotify, Clementine, VLC, etc)
+*   [tmux-plugin-playerctl (⭐10)](https://github.com/richin13/tmux-plugin-playerctl) Display [MPRIS](https://www.freedesktop.org/wiki/Specifications/mpris-spec/) metadata in Tmux (Spotify, Clementine, VLC, etc)
 
 ## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Patterns
 
-*   [SwiftUI Atom Properties (⭐206)](https://github.com/ra1028/swiftui-atom-properties) - A Reactive Data-Binding and Dependency Injection Library for SwiftUI x Concurrency.
+*   [SwiftUI Atom Properties (⭐228)](https://github.com/ra1028/swiftui-atom-properties) - A Reactive Data-Binding and Dependency Injection Library for SwiftUI x Concurrency.
 
 ## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Database
 
-*   [pm-dev/kotlin-gremlin-ogm (⭐30)](https://github.com/pm-dev/kotlin-gremlin-ogm) - Kotlin-gremlin-ogm is a type-safe object/graph mapping library for Gremlin enabled graph databases.
+*   [pm-dev/kotlin-gremlin-ogm (⭐31)](https://github.com/pm-dev/kotlin-gremlin-ogm) - Kotlin-gremlin-ogm is a type-safe object/graph mapping library for Gremlin enabled graph databases.
 
 ### Libraries/Frameworks / Tools
 
-*   [saveourtool/diktat (⭐438)](https://github.com/saveourtool/diktat) - Strict coding standard for Kotlin and a custom set of rules for detecting and autofixing code smells.
+*   [saveourtool/diktat (⭐461)](https://github.com/saveourtool/diktat) - Strict coding standard for Kotlin and a custom set of rules for detecting and autofixing code smells.
 
 ## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -68,13 +68,13 @@
 
 ### Packages / Driver layer
 
-*   [odrive\_ros2\_control (⭐161)](https://github.com/Factor-Robotics/odrive_ros2_control) - ODrive driver for ros2\_control.
+*   [odrive\_ros2\_control (⭐188)](https://github.com/Factor-Robotics/odrive_ros2_control) - ODrive driver for ros2\_control.
 
 ## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue3-easy-data-table (⭐341)](https://github.com/HC200ok/vue3-easy-data-table) - A easy-to-use data table component made with Vue.js 3.x, referring to the API and UI of data table component in Vuetify 2.
+*   [vue3-easy-data-table (⭐443)](https://github.com/HC200ok/vue3-easy-data-table) - A easy-to-use data table component made with Vue.js 3.x, referring to the API and UI of data table component in Vuetify 2.
 
 ## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -95,23 +95,23 @@
 
 ### Libraries / Community
 
-*   [vavite (⭐307)](https://github.com/cyco130/vavite) - A tool for developing and building server-side applications with live reloading capabilities.
+*   [vavite (⭐383)](https://github.com/cyco130/vavite) - A tool for developing and building server-side applications with live reloading capabilities.
 
 ## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Flutter Related and Building IOS Apps without Mac
 
-*   [FlutLab](https://flutlab.io/) - FlutLab is a modern Flutter online IDE and the best place to create, debug, and build cross-platform projects. Build iOS (Without Mac) and Android apps with Flutter.
-*   [CodeMagic](https://codemagic.io/) - Codemagic is a fully hosted and managed CI/CD for mobile apps. You can build, test, deploy with a GUI based CI/CD tool. Free tier offers 500 free minutes/month, and Mac Mini instance with 2.3Ghz and 8gb of RAM.
+*   [FlutLab](https://flutlab.io/) - FlutLab is a modern Flutter online IDE and the best place to create, debug, and build cross-platform projects. Build iOS (Without a Mac) and Android apps with Flutter.
+*   [CodeMagic](https://codemagic.io/) - Codemagic is a fully hosted and managed CI/CD for mobile apps. You can build, test, and deploy with a GUI-based CI/CD tool. The free tier offers 500 free minutes/month and a Mac Mini instance with 2.3 GHz and 8 GB of RAM.
 *   [FlutterFlow](https://flutterflow.io/) -  FlutterFlow is a browser-based drag-and-drop interface to build mobile app using flutter.
 
 ### Game Development
 
-*   [itch.io](https://itch.io/game-assets) — Free/Paid assets like sprites, tile sets, character packs, ...
+*   [itch.io](https://itch.io/game-assets) — Free/Paid assets like sprites, tile sets, and character packs.
 *   [GameDevMarket](https://gamedevmarket.net) — Free/Paid assets like 2D, 3D, Audio, GUI.
-*   [OpenGameArt](https://opengameart.org) — OpenSource Game Assets like music, sounds, sprites, gifs, ...
+*   [OpenGameArt](https://opengameart.org) — OpenSource Game Assets like music, sounds, sprites, and gifs.
 *   [CraftPix](https://craftpix.net) — Free/Paid assets like 2D, 3D, Audio, GUI, backgrounds, icons, tile sets, game kits.
-*   [ArtStation](https://www.artstation.com/) - MarketPlace for Free/Paid 2D, 3D assets & audios, icons, tile sets, game kits,..., Also, It can be used for showcasing your art portfolio.
+*   [ArtStation](https://www.artstation.com/) - MarketPlace for Free/Paid 2D, 3D assets & audios, icons, tile sets, game kits. Also, It can be used for showcasing your art portfolio.
 
 ---
 

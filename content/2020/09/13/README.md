@@ -30,7 +30,7 @@
 
 ### Misc
 
-*   [Fugen (⭐74)](https://github.com/almazrafi/Fugen) - A command line tool for exporting resources and generating code from your Figma files.
+*   [Fugen (⭐78)](https://github.com/almazrafi/Fugen) - A command line tool for exporting resources and generating code from your Figma files.
 
 ## [5. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -50,7 +50,7 @@
 
 ## [7. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Mobile / Angular
+### Mobile / Svelte
 
 *   [Mobile Developers Cafe](https://mobiledeveloperscafe.com). A weekly newsletter for Mobile Developers - iOS, Android, Flutter & React Native.
 
@@ -63,10 +63,6 @@
 ### Server / Backend / Outline Processor Markup Language
 
 *   [ARSSE](https://thearsse.com/) <sup>[793](https://t.me/s/aboutrss/793)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://code.mensbeam.com/MensBeam/arsse)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
-
-### Other Apps / Outline Processor Markup Language
-
-*   [Posidon launcher](https://posidon.io/launcher) : <sup>[806](https://t.me/s/aboutrss/806)</sup> : a minimal, one page homescreen with a vertical scrolling feed [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=posidon.launcher)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lposidon/posidonLauncher)
 
 ### Telegram / Telegram RSS bots
 
@@ -94,7 +90,7 @@
 *   [PushAlert](https://pushalert.co/blog/introducing-automated-rss-push-and-newsletter-push-notifications/) <sup>[797](https://t.me/s/aboutrss/797)</sup>
 *   [PushEngage](https://blog.pushengage.com/fully-automate-your-browser-push-campaigns-with-wordpress-or-rss-feed/) <sup>[797](https://t.me/s/aboutrss/797)</sup>
 
-### RSS2CMS / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### RSS2CMS / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [PressForward](https://pressforward.org/) <sup>[804](https://t.me/s/aboutrss/804)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/PressForward/pressforward)
 

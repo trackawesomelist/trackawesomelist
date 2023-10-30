@@ -56,8 +56,8 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [P (⭐2.7k)](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming.
-*   [Roslyn-linq-rewrite (⭐708)](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
+*   [P (⭐2.8k)](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming.
+*   [Roslyn-linq-rewrite (⭐716)](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
 
 ## [6. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 
@@ -97,7 +97,7 @@
 
 ### Web Programming • Libraries
 
-*   [regl (⭐4.9k)](https://github.com/regl-project/regl) - Functional WebGL.
+*   [regl (⭐5k)](https://github.com/regl-project/regl) - Functional WebGL.
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 

@@ -124,7 +124,7 @@
 
 ### Coding Style
 
-*   [C++ Core Guidelines (⭐38k)](https://github.com/isocpp/CppCoreGuidelines) - "Official" set of C++ guidelines, reviewed by the author of C++.
+*   [C++ Core Guidelines (⭐40k)](https://github.com/isocpp/CppCoreGuidelines) - "Official" set of C++ guidelines, reviewed by the author of C++.
 
 ## [4. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

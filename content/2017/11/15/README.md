@@ -20,17 +20,17 @@
 
 ### Rust / Git
 
-*   [proteus (⭐406)](https://github.com/wireapp/proteus) - Axolotl protocol implementation, without header keys, in Rust.
+*   [proteus (⭐410)](https://github.com/wireapp/proteus) - Axolotl protocol implementation, without header keys, in Rust.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Authentication
 
-*   [ReCaptcha (⭐250)](https://github.com/fjcaetano/ReCaptcha) - \[In]visible ReCaptcha for iOS.
+*   [ReCaptcha (⭐258)](https://github.com/fjcaetano/ReCaptcha) - \[In]visible ReCaptcha for iOS.
 
 ## [4. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
-### United States 🇺🇸 / New York   <a id="new-york">  </a>
+### United States 🇺🇸 / New York <a id="new-york"></a>
 
 #### Houndstooth Coffee
 

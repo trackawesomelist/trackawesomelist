@@ -8,7 +8,7 @@
 
 ## [1. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [dyzsh (⭐0)](https://github.com/daotoyi/dyzsh-zsh-theme) - Based on astro. Includes decorators for `git` branch & hash, current directory, user, host & time.
 
@@ -20,12 +20,12 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Bagisto (⭐6k)](https://github.com/bagisto/bagisto) - A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
+*   [Bagisto (⭐8.4k)](https://github.com/bagisto/bagisto) - A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
 *   [vue-birthday-reminder (⭐2)](https://github.com/ymzEmre/vue-birthday-reminder) - It is a birthday reminder web application using with Vue3.
 
 ### Components & Libraries / UI Components
 
-*   [vue-material-design-icons (⭐130)](https://github.com/robcresswell/vue-material-design-icons "vue-material-design-icons on GitHub") - A collection of SVG Material Design icons as single file components.
+*   [vue-material-design-icons (⭐143)](https://github.com/robcresswell/vue-material-design-icons "vue-material-design-icons on GitHub") - A collection of SVG Material Design icons as single file components.
 
 ### Components & Libraries / Frameworks
 
@@ -42,19 +42,19 @@
 
 ### UI / Barcode
 
-*   [BottomSheet (⭐141)](https://github.com/joomcode/BottomSheet) - Powerful Bottom Sheet component with content based size, interactive dismissal and navigation controller support.
+*   [BottomSheet (⭐206)](https://github.com/joomcode/BottomSheet) - Powerful Bottom Sheet component with content based size, interactive dismissal and navigation controller support.
 
 ## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Analysis Tools / Ruby
 
-*   [transit\_service\_analyst (⭐3)](https://github.com/psrc/transit_service_analyst) - A Python library to support transit service analysis.
+*   [transit\_service\_analyst (⭐7)](https://github.com/psrc/transit_service_analyst) - A Python library to support transit service analysis.
 
 ## [6. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Miscellaneous / React
 
-*   [schemathesis (⭐1.7k)](https://github.com/schemathesis/schemathesis) - Runs arbitrary queries matching a GraphQL schema to find server errors.
+*   [schemathesis (⭐1.9k)](https://github.com/schemathesis/schemathesis) - Runs arbitrary queries matching a GraphQL schema to find server errors.
 
 ## [7. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -66,26 +66,29 @@
 
 ### Visualization
 
-*   [ipyregulartable (⭐84)](https://github.com/jpmorganchase/ipyregulartable) - High performance, editable, stylable datagrids in Jupyter.
-*   [Perspective (⭐6.1k)](https://github.com/finos/perspective) - Data visualization and analytics component, especially for large/streaming datasets.
+*   [Perspective (⭐6.6k)](https://github.com/finos/perspective) - Data visualization and analytics component, especially for large/streaming datasets.
+
+### Tables
+
+*   [ipyregulartable (⭐92)](https://github.com/jpmorganchase/ipyregulartable) - High performance, editable, stylable datagrids in Jupyter.
 
 ### Rendering/Publishing/Conversion
 
-*   [jupyterlab\_nbconvert\_nocode (⭐13)](https://github.com/timkpaine/jupyterlab_nbconvert_nocode) - NBConvert exporters for PDF/HTML export without code cells.
+*   [jupyterlab\_nbconvert\_nocode (⭐14)](https://github.com/timkpaine/jupyterlab_nbconvert_nocode) - NBConvert exporters for PDF/HTML export without code cells.
 
 ### JupyterLab Extensions
 
-*   [jupyterlab\_autoversion (⭐62)](https://github.com/timkpaine/jupyterlab_autoversion) - Automatically version notebooks in JupyterLab.
-*   [jupyterlab\_commands (⭐44)](https://github.com/timkpaine/jupyterlab_commands) - Add arbitrary python commands to the JupyterLab command palette.
+*   [jupyterlab\_autoversion (⭐63)](https://github.com/timkpaine/jupyterlab_autoversion) - Automatically version notebooks in JupyterLab.
+*   [jupyterlab\_commands (⭐45)](https://github.com/timkpaine/jupyterlab_commands) - Add arbitrary python commands to the JupyterLab command palette.
 
 ### Testing
 
-*   [nbcelltests (⭐72)](https://github.com/jpmorganchase/nbcelltests) - Cell-by-cell testing for notebooks in Jupyter.
+*   [nbcelltests (⭐79)](https://github.com/jpmorganchase/nbcelltests) - Cell-by-cell testing for notebooks in Jupyter.
 *   [sphinxcontrib-jupyter (⭐72)](https://github.com/QuantEcon/sphinxcontrib-jupyter) - Sphinx extension for generating Jupyter notebooks.
 
 ## [9. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### C# / Angular
+### C# / Svelte
 
 *   [ASP.NET Core News](https://aspnetcore.news/). A weekly newsletter about everything ASP.NET Core, Blazor, SignalR, and similar.
 
@@ -101,7 +104,7 @@
 *   [Reams](https://reams.app/) <sup>[1194](https://t.me/s/aboutrss/1194)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/admbtlr/reams)[![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/reams/id1229027127)
 *   [RSS News Ticker](https://ticker.salz-amt.co.at/) <sup>[1199](https://t.me/s/aboutrss/1199)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/rss-news-ticker/id1548190121)
 
-### RSS Feed Finding/Detection / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### RSS Feed Finding/Detection / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Feedbro](https://nodetics.com/feedbro/) <sup>[321](https://t.me/s/aboutrss/321)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/feedbro/mefgmmbdailogpfhfblcnnjfmnpnmdfa)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/firefox/addon/feedbroreader/)
 *   RSS Manager <sup>[1169](https://t.me/s/aboutrss/1169)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/firefox/addon/rss-manager/)
@@ -141,6 +144,7 @@
 ### universally from / multiple sources
 
 *   [RSSHub](https://docs.rsshub.app/) <sup>[300](https://t.me/s/aboutrss/300), [352](https://t.me/s/aboutrss/352), [405](https://t.me/s/aboutrss/405), [422](https://t.me/s/aboutrss/422), [428](https://t.me/s/aboutrss/428), [443](https://t.me/s/aboutrss/443), [471](https://t.me/s/aboutrss/471), [474](https://t.me/s/aboutrss/474), [610](https://t.me/s/aboutrss/610), [800](https://t.me/s/aboutrss/800), [836](https://t.me/aboutrss/836), [892](https://t.me/aboutrss/892), [962](https://t.me/aboutrss/962), [982](https://t.me/s/aboutrss/982), [983](https://t.me/s/aboutrss/983), [1038](https://t.me/s/aboutrss/1038), [1040](https://t.me/s/aboutrss/1040), [1091](https://t.me/s/aboutrss/1091)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/DIYgod/RSSHub)
+    *   [RSSbot (⭐27)](https://github.com/yindaheng98/RSSBot): connecting RSS feed generated by RSSHub and TTRSS <sup>[1337](https://t.me/s/aboutrss/1337)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yindaheng98/RSSBot)
 
 ### universally from / webpage/html
 
@@ -160,7 +164,7 @@
 
 ### specifically from (*a certain platform*) / Wechat Subscription Accounts (微信公众号)
 
-*   [Liuli (⭐741)](https://github.com/liuli-io/liuli) <sup>[1167](https://t.me/s/aboutrss/1167)</sup>
+*   [Liuli (⭐818)](https://github.com/liuli-io/liuli) <sup>[1167](https://t.me/s/aboutrss/1167)</sup>
 
 ### RSS2KINDLE / Docsify
 
@@ -170,27 +174,23 @@
 
 *   [rssto.email](https://rssto.email/) <sup>[1159](https://t.me/s/aboutrss/1159)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/aksh-at/rsstoemail)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### RSS2NEWSLETTER / Docsify
-
-*   [Subworthy](https://subworthy.com/) <sup>[1163](https://t.me/s/aboutrss/1163)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
-
-### RSS2Pocket / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### RSS2Pocket / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Curated](https://withcurated.com/) <sup>[1098](https://t.me/s/aboutrss/1098)</sup>
 
-### Combine multiple feeds into one / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Combine multiple feeds into one / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSSUnify](https://feederss.com/index.html) <sup>[1189](https://t.me/s/aboutrss/1189)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### Retrieve old items from a RSS feed / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Retrieve old items from a RSS feed / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [rerss](https://rerss.xyz/) <sup>[1160](https://t.me/s/aboutrss/1160)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### TOC Support / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### TOC Support / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   Simple Outliner: show TOC in Inoreader / Feedly @ Chrome <sup>[1186](https://t.me/s/aboutrss/1186)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/smart-toc-%E6%99%BA%E8%83%BD%E7%BD%91%E9%A1%B5%E5%A4%A7%E7%BA%B2/ppdjhggfcaenclmimmdigbcglfoklgaf)
 
-### 🧩 API / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### 🧩 API / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Thirdplace Discovery: Feed discovery HTML JSON API](https://discovery.thirdplace.no/) <sup>[1202](https://t.me/s/aboutrss/1202)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://git.sr.ht/~thirdplace)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 

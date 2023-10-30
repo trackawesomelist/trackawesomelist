@@ -14,13 +14,13 @@
 
 ### Misc Components / Components
 
-*   [@ngneat/transloco (⭐1.7k)](https://github.com/ngneat/transloco) - 🚀 😍 The internationalization (i18n) library for Angular
+*   [@ngneat/transloco (⭐1.8k)](https://github.com/ngneat/transloco) - 🚀 😍 The internationalization (i18n) library for Angular
 
 ## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Reporter / Visibility Reporter
 
-*   [react-intersection-observer (⭐4.1k)](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API.
+*   [react-intersection-observer (⭐4.4k)](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API.
 
 ## [3. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
@@ -36,13 +36,13 @@
 
 ### Planning Data Specifications / Transportation
 
-*   [GMNS (⭐83)](https://github.com/zephyr-data-specs/GMNS) - The General Modeling Network Specification defines a common human and machine readable format for sharing routable road network files.
+*   [GMNS (⭐86)](https://github.com/zephyr-data-specs/GMNS) - The General Modeling Network Specification defines a common human and machine readable format for sharing routable road network files.
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-fullscreen (⭐410)](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen, support Vue2 and Vue3.
+*   [vue-fullscreen (⭐416)](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen, support Vue2 and Vue3.
 
 ## [6. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -77,7 +77,7 @@
 *   [Kribrum](https://kribrum.io/)
 *   [WATools](https://watools.io/)
 *   [Profil3r](https://github.com/Rog3rSm1th/Profil3r)
-*   [Oblivion (⭐393)](https://github.com/loseys/Oblivion)
+*   [Oblivion (⭐421)](https://github.com/loseys/Oblivion)
 
 ### Social Media Tools / VKontakte
 
@@ -132,7 +132,7 @@
 *   [Insecam](http://insecam.org/)
 *   [YouTube Metadata](https://mattw.io/youtube-metadata/)
 *   [YouTube Geofind](https://mattw.io/youtube-geofind/)
-*   [Video Stabilization Methods (⭐219)](https://github.com/yaochih/awesome-video-stabilization)
+*   [Video Stabilization Methods (⭐254)](https://github.com/yaochih/awesome-video-stabilization)
 
 ### Geospatial Research and Mapping Tools / Telegram
 
@@ -157,7 +157,7 @@
 ### Other Tools / Telegram
 
 *   [OSINT.SH](https://osint.sh/) - Information Gathering Toolset.
-*   [FOCA (⭐2.3k)](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
+*   [FOCA (⭐2.5k)](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 
 ### OSINT Videos / Telegram
 
@@ -192,11 +192,11 @@
 
 ### Audio Related Packages / Transformations - General DSP
 
-*   [sound\_field\_analysis](https://appliedacousticschalmers.github.io/sound_field_analysis-py/) [:octocat: (⭐71)](https://github.com/AppliedAcousticsChalmers/sound_field_analysis-py) [:package:](https://pypi.org/project/sound-field-analysis/) - Analyze, visualize and process sound field data recorded by spherical microphone arrays.
+*   [sound\_field\_analysis](https://appliedacousticschalmers.github.io/sound_field_analysis-py/) [:octocat: (⭐75)](https://github.com/AppliedAcousticsChalmers/sound_field_analysis-py) [:package:](https://pypi.org/project/sound-field-analysis/) - Analyze, visualize and process sound field data recorded by spherical microphone arrays.
 
 ### Audio Related Packages / Realtime applications
 
-*   [ReTiSAR (⭐53)](https://github.com/AppliedAcousticsChalmers/ReTiSAR) [:octocat: (⭐53)](https://github.com/AppliedAcousticsChalmers/ReTiSAR) - Binarual rendering of streamed or IR-based high-order spherical microphone array signals.
+*   [ReTiSAR (⭐55)](https://github.com/AppliedAcousticsChalmers/ReTiSAR) [:octocat: (⭐55)](https://github.com/AppliedAcousticsChalmers/ReTiSAR) - Binarual rendering of streamed or IR-based high-order spherical microphone array signals.
 
 ## [9. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 

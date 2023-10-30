@@ -67,11 +67,11 @@
 
 ### Protocols
 
-*   [protox (⭐238)](https://github.com/ahamez/protox) - Elixir implementation for Protocol Buffers.
+*   [protox (⭐245)](https://github.com/ahamez/protox) - Elixir implementation for Protocol Buffers.
 
 ### Third Party APIs
 
-*   [dockerex (⭐18)](https://github.com/hisea/dockerex) - Lightweight Docker Remote API Client with SSL/TLS login/connection support.
+*   [dockerex (⭐19)](https://github.com/hisea/dockerex) - Lightweight Docker Remote API Client with SSL/TLS login/connection support.
 
 ## [8. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 

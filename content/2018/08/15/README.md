@@ -25,7 +25,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [keras (⭐58k)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow (⭐174k)](https://github.com/tensorflow/tensorflow), [CNTK (⭐17k)](https://github.com/Microsoft/CNTK) and [Theano (⭐9.7k)](https://github.com/Theano/Theano).
+*   [keras (⭐59k)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow (⭐178k)](https://github.com/tensorflow/tensorflow), [CNTK (⭐17k)](https://github.com/Microsoft/CNTK) and [Theano (⭐9.8k)](https://github.com/Theano/Theano).
 
 ## [3. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
@@ -37,7 +37,7 @@
 
 ### Traffic Capture
 
-*   [Netis Packet Agent (⭐919)](https://github.com/Netis/packet-agent): It is a remote data capture utility through GRE tunnel, which makes you easily capture packets from an NIC interface, encapsulate them with GRE and send them to a remote machine for monitoring and analysis.
+*   [Netis Packet Agent (⭐929)](https://github.com/Netis/packet-agent): It is a remote data capture utility through GRE tunnel, which makes you easily capture packets from an NIC interface, encapsulate them with GRE and send them to a remote machine for monitoring and analysis.
 
 ## [5. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
 
@@ -50,7 +50,7 @@
 ### Boilerplates
 
 *   [NextJS TypeScript Starter Kit (⭐343)](https://github.com/deptno/next.js-typescript-starter-kit) - :tada: TypeScript + NextJS, Styled-jsx, Redux, PostCSS, configurable SEO
-*   [Typescript Monorepo Next Example (⭐42)](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
+*   [Typescript Monorepo Next Example (⭐43)](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -62,8 +62,8 @@
 
 ### Frameworks, Libraries and Tools / Blockchain
 
-*   [BTCPayServer (⭐3.8k)](https://github.com/btcpayserver/btcpayserver) - A cross platform, self-hosted server compatible with Bitpay API.
-*   [NBXplorer (⭐262)](https://github.com/dgarage/NBXplorer) - A Bitcoin and Altcoin lightweight block explorer.
+*   [BTCPayServer (⭐5.5k)](https://github.com/btcpayserver/btcpayserver) - A cross platform, self-hosted server compatible with Bitpay API.
+*   [NBXplorer (⭐292)](https://github.com/dgarage/NBXplorer) - A Bitcoin and Altcoin lightweight block explorer.
 
 ## [9. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 

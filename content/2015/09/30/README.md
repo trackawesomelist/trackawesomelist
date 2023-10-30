@@ -20,7 +20,7 @@
 
 ### Email
 
-*   [echo (⭐30)](https://github.com/zmoshansky/echo) - A meta-notification system; Echo checks notification preferences & dispatches notifications.
+*   [echo (⭐29)](https://github.com/zmoshansky/echo) - A meta-notification system; Echo checks notification preferences & dispatches notifications.
 
 ## [3. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Source Generator
 
-*   [awesome-LINQ (⭐386)](https://github.com/aloisdg/awesome-linq) - A curated collection of awesome LINQ libraries, tools, and more.
+*   [awesome-LINQ (⭐392)](https://github.com/aloisdg/awesome-linq) - A curated collection of awesome LINQ libraries, tools, and more.
 
 ---
 

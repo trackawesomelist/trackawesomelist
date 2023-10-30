@@ -11,7 +11,7 @@
 ### Storage / Runner
 
 *   [lawnchair.js (⭐2.1k)](https://github.com/brianleroux/lawnchair/) - Simple client-side JSON storage.
-*   [sql.js (⭐100)](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten.
+*   [sql.js (⭐112)](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten.
 
 ### Color / Runner
 
@@ -33,19 +33,19 @@
 
 ### Security
 
-*   [VPN Manager (⭐148)](https://github.com/deanishe/alfred-vpn-manager) - Control [Tunnelblick](https://tunnelblick.net/) and [Viscosity](https://www.sparklabs.com/viscosity/) OpenVPN connections.
+*   [VPN Manager (⭐150)](https://github.com/deanishe/alfred-vpn-manager) - Control [Tunnelblick](https://tunnelblick.net/) and [Viscosity](https://www.sparklabs.com/viscosity/) OpenVPN connections.
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Other / Third-party APIs
 
-*   [corona (⭐47)](https://github.com/eudoxia0/corona) -  Create and manage virtual machines from Common Lisp <http://eudoxia.me/corona> [MIT](https://opensource.org/licenses/MIT).
+*   [corona (⭐48)](https://github.com/eudoxia0/corona) -  Create and manage virtual machines from Common Lisp <http://eudoxia.me/corona> [MIT](https://opensource.org/licenses/MIT).
 
 ## [5. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Boilerplates
 
-*   [NextJS in Firebase with Bootstrap (⭐25)](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions.
+*   [NextJS in Firebase with Bootstrap (⭐26)](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions.
 
 ---
 

@@ -10,12 +10,12 @@
 
 ### Incident Response tools / Sandboxes
 
-*   [LogonTracer (⭐2.3k)](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log.
+*   [LogonTracer (⭐2.5k)](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log.
 *   [Volatility](https://www.volatilityfoundation.org/) - Advanced memory forensics framework.
 
 ### Security monitoring / Network Security Monitoring (NSM)
 
-*   [Real Intelligence Threat Analysis (RITA) (⭐2.1k)](https://github.com/activecm/rita) - Open source framework for network traffic analysis that ingests Zeek logs and detects beaconing, DNS tunneling, and more.
+*   [Real Intelligence Threat Analysis (RITA) (⭐2.3k)](https://github.com/activecm/rita) - Open source framework for network traffic analysis that ingests Zeek logs and detects beaconing, DNS tunneling, and more.
 
 ## [2. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 
@@ -36,15 +36,15 @@
 
 ### ASM / Syntax highlighting packages
 
-*   [rgbds-vscode (⭐50)](https://github.com/DonaldHays/rgbds-vscode) - Visual Studio Code language extension for RGBDS GBZ80 Assembly.
-*   [kupman (⭐4)](https://github.com/dubvulture/gbdev) and some other projects.
+*   [rgbds-vscode (⭐55)](https://github.com/DonaldHays/rgbds-vscode) - Visual Studio Code language extension for RGBDS GBZ80 Assembly.
+*   [kupman (⭐5)](https://github.com/dubvulture/gbdev) and some other projects.
 
 ### C / Syntax highlighting packages
 
 *   [GBDK Programming Video Tutorials](https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo) - A series of video tutorials introducing beginners to programming with GBDK.
-*   [GB raycaster, Vision-8 (⭐12)](https://github.com/haroldo-ok/really-old-stuff/tree/master/gameboy) - and some other projects.
-*   [Dino's Offline Adventure (⭐54)](https://github.com/gingemonster/DinosOfflineAdventure) - A clone of the Google Chrome offline game.
-*   [dino-gb (⭐21)](https://github.com/rnegron/dino-gb) - Another clone of the Chrome game.
+*   [GB raycaster, Vision-8 (⭐13)](https://github.com/haroldo-ok/really-old-stuff/tree/master/gameboy) - and some other projects.
+*   [Dino's Offline Adventure (⭐56)](https://github.com/gingemonster/DinosOfflineAdventure) - A clone of the Google Chrome offline game.
+*   [dino-gb (⭐22)](https://github.com/rnegron/dino-gb) - Another clone of the Chrome game.
 
 ### Websites / Syntax highlighting packages
 
@@ -54,7 +54,7 @@
 
 ### ORM and Datamapping
 
-*   [pillar (⭐64)](https://github.com/sofakingworld/pillar) - Clickhouse HTTP based client.
+*   [pillar (⭐72)](https://github.com/sofakingworld/pillar) - Clickhouse HTTP based client.
 
 ## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Movie Paradise (⭐23)](https://github.com/wwwenjie/Movie-Paradise) - A responsive movie preview web app built by Vue and Vuetify
+*   [Movie Paradise (⭐22)](https://github.com/wwwenjie/Movie-Paradise) - A responsive movie preview web app built by Vue and Vuetify
 
 ## [9. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md)
 
@@ -98,14 +98,13 @@
 ### Resources / Community
 
 *   [@GrantForTheWeb on Twitter](https://twitter.com/GrantForTheWeb)
-*   [@CinnamonVideo on Twitter](https://twitter.com/CinnamonVideo)
 *   [Web Monetization tag on DEV](https://dev.to/t/webmonetization)
 
 ## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [tslog (⭐1.1k)](https://github.com/fullstack-build/tslog) - A powerful logging library with native TypeScript support: beautiful interpolation, native V8 stack trace, secret masking, support for requestIds based on AsyncLocalStorage
+*   :octocat: [tslog (⭐1.2k)](https://github.com/fullstack-build/tslog) - A powerful logging library with native TypeScript support: beautiful interpolation, native V8 stack trace, secret masking, support for requestIds based on AsyncLocalStorage
 
 ## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -117,7 +116,7 @@
 
 ### Libraries / Parsing
 
-*   [Folyd/robotstxt (⭐74)](https://github.com/Folyd/robotstxt) - A native Rust port of Google's robots.txt parser and matcher C++ library
+*   [Folyd/robotstxt (⭐78)](https://github.com/Folyd/robotstxt) - A native Rust port of Google's robots.txt parser and matcher C++ library
 
 ---
 

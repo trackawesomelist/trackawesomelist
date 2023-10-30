@@ -1,36 +1,30 @@
 # Awesome List Updates on Dec 19, 2021
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
-
-### Projects / Messaging
-
-*   [Redpanda (⭐6.8k)](https://github.com/vectorizedio/redpanda) - A streaming platform that is Kafka-compatible and does not require Zookeeper or JVM. Offers high-performance and low-latency messaging and supports stream processing and analytics.
-
-## [2. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [1. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Testing
 
 *   [Loadmill](https://www.loadmill.com/) - Generate tests from user behavior.
 
-## [3. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [2. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Articles
 
 *   [A collection of notes that summarize EmberConf 2021](https://alexdiliberto.com/posts/emberconf-2021-notes/)
 
-## [4. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [3. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Resources / Course Material
 
 *   [Floating-Point Numbers and Formal Proof (⭐6)](https://github.com/thery/FlocqLecture) - Introductory course on Coq real numbers and floating-point numbers from the Flocq library.
 
-## [5. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [4. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### JavaScript tools / Maps
 
@@ -42,7 +36,7 @@
 
 *   [Graphin (⭐782)](https://github.com/antvis/Graphin) - Graph visualization library powered by React & Typescript (built on top of G6, maintained by Alibaba.
 
-## [6. Public Apis](/content/public-apis/public-apis/README.md)
+## [5. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Anime
 
@@ -72,17 +66,17 @@
 
 
 
-## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Stanford / Commonsense Knowledgebase
 
-*   [Michael Frank](https://web.stanford.edu/~mcfrank/) - ***Stanford***, [The Stanford Language and Cognition Lab](http://langcog.stanford.edu/) - ***Department of Psychology, Stanford***.
+*   [Michael Frank](https://web.stanford.edu/~mcfrank/) - ***Department of Psychology, Stanford***, [The Stanford Language and Cognition Lab](http://langcog.stanford.edu/) - ***Stanford***.
 
-## [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Social Media Tools / Instagram
 
-*   [Sterra (⭐370)](https://github.com/novitae/sterraxcyl)
+*   [Sterra (⭐407)](https://github.com/novitae/sterraxcyl)
 
 ---
 

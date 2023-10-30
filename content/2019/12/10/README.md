@@ -16,7 +16,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [CodeceptJS UI (⭐80)](https://github.com/codecept-js/ui) - Cypress-liked UI for ✔️ CodeceptJS end 2 end tests ✔️.
+*   [CodeceptJS UI (⭐79)](https://github.com/codecept-js/ui) - Cypress-liked UI for ✔️ CodeceptJS end 2 end tests ✔️.
 
 ## [3. Awesome Frc](/content/andrewda/awesome-frc/README.md)
 
@@ -27,7 +27,7 @@
 ### Repositories / Java/Kotlin
 
 *   [Sertain (⭐6)](https://github.com/SouthEugeneRoboticsTeam/sertain) - A framework which builds upon WPILib and makes programming a robot in Kotlin beautiful.
-*   [FalconLibrary (⭐28)](https://github.com/FRC5190/FalconLibrary) - A library for programming robots in Kotlin, made by Team 5190.
+*   [FalconLibrary (⭐25)](https://github.com/FRC5190/FalconLibrary) - A library for programming robots in Kotlin, made by Team 5190.
 *   [Lib5K (⭐6)](https://github.com/frc5024/lib5k) - A robotics library developed by team 5024
 
 ## [4. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
@@ -47,7 +47,7 @@
 
 ### Neural Natural Language Generation
 
-*   [PPLM (⭐1k)](https://github.com/uber-research/PPLM) - Plug and Play Language Model implementation. Allows to steer topic and attributes of GPT-2 models.
+*   [PPLM (⭐1.1k)](https://github.com/uber-research/PPLM) - Plug and Play Language Model implementation. Allows to steer topic and attributes of GPT-2 models.
 
 ## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -59,7 +59,7 @@
 
 ### Contents / Shopping
 
-*   [Rapidinho (⭐194)](https://github.com/gdgluanda/rapidinho) - Unofficial delivery app for Rapidinho made by [GDG Luanda
+*   [Rapidinho (⭐196)](https://github.com/gdgluanda/rapidinho) - Unofficial delivery app for Rapidinho made by [GDG Luanda
     ](https://github.com/gdgluanda).
 
 ## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
@@ -70,7 +70,7 @@
 
 ### Layout
 
-*   [EasyAnchor (⭐449)](https://github.com/onmyway133/EasyAnchor) - Declarative, extensible, powerful Auto Layout.
+*   [EasyAnchor (⭐452)](https://github.com/onmyway133/EasyAnchor) - Declarative, extensible, powerful Auto Layout.
 
 ### Push Notification Providers
 
@@ -78,11 +78,11 @@
 
 ### Permissions
 
-*   [SPPermissions (⭐5.2k)](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.
+*   [SPPermissions (⭐5.3k)](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.
 
 ### UI
 
-*   [DrawerKit (⭐774)](https://github.com/babylonhealth/DrawerKit) - DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.
+*   [DrawerKit (⭐778)](https://github.com/babylonhealth/DrawerKit) - DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.
 
 ### Pull to Refresh
 
@@ -117,7 +117,7 @@
 
 ### Science and Data analysis
 
-*   [num.cr (⭐132)](https://github.com/crystal-data/num.cr) - Numerical computing library supporting N-Dimensional data
+*   [num.cr (⭐140)](https://github.com/crystal-data/num.cr) - Numerical computing library supporting N-Dimensional data
 
 ## [12. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -135,7 +135,7 @@
 ### High Availability / Miscellaneous
 
 *   [M3DB (⭐4.4k)](https://github.com/m3db/m3) - Scalable long-term remote storage for Prometheus.
-*   [VictoriaMetrics (⭐8k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - Cost-effective easy to operate remote storage for Prometheus.
+*   [VictoriaMetrics (⭐8.6k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - Cost-effective easy to operate remote storage for Prometheus.
 
 ---
 

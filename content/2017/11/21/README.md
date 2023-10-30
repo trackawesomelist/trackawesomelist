@@ -17,12 +17,12 @@
 
 ### PlaygroundBooks
 
-*   [Tree Trouble Playbook (⭐22)](https://github.com/joelrorseth/Tree-Trouble) - An interactive Swift Playground Book about Binary Search Trees.
+*   [Tree Trouble Playbook (⭐23)](https://github.com/joelrorseth/Tree-Trouble) - An interactive Swift Playground Book about Binary Search Trees.
 *   [Auto Pong (⭐12)](https://github.com/cardoso/AutoPong) - A tutorial to implement a pong based on a simple AI.
 *   [Neural Network Playground (⭐378)](https://github.com/hetelek/Neural-Network-Playground) - A neural network Swift playground, with no third party dependencies.
 *   [Window Manager Playground (⭐40)](https://github.com/steventroughtonsmith/windowmanager-playgroundbook) - Playground for an experimental window manager.
-*   [Numsw (⭐132)](https://github.com/sonsongithub/numsw) - A swift playground book that mimics some of the features of numpy and jupyter notebook.
-*   [File Browser Playground (⭐203)](https://github.com/steventroughtonsmith/files-playgroundbook) - Simple File Browser for Swift Playgrounds on iOS.
+*   [Numsw (⭐133)](https://github.com/sonsongithub/numsw) - A swift playground book that mimics some of the features of numpy and jupyter notebook.
+*   [File Browser Playground (⭐205)](https://github.com/steventroughtonsmith/files-playgroundbook) - Simple File Browser for Swift Playgrounds on iOS.
 *   [Geometry with Swift (⭐8)](https://github.com/dbbudd/Geometry-Swift-PlaygroundBook) - In this course your students will learn the fundamentals of Swift 3 programming, using geometry as their context for learning.
 
 ## [3. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
@@ -47,7 +47,7 @@
 
 ### Geolocation
 
-*   [geocoder (⭐110)](https://github.com/knrz/geocoder) - A simple, efficient geocoder/reverse geocoder with a built-in cache.
+*   [geocoder (⭐112)](https://github.com/knrz/geocoder) - A simple, efficient geocoder/reverse geocoder with a built-in cache.
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -77,7 +77,7 @@ Webpage: <http://www.jimmymonkey.com/>
 | ---- | ----- | ------------------------------------------------------------------------------------------------------ | ------------------- |
 | ✔    | ✔     | [9 one-north gateway, #01-51 one-north residences, Singapore 138643](https://goo.gl/maps/oJ85HFm9QKQ2) | Daily 7:00AM–6.00PM |
 
-See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐93)](https://github.com/otobrglez/awesome-workplaces-slovenia)
+See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐95)](https://github.com/otobrglez/awesome-workplaces-slovenia)
 
 ## [9. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 

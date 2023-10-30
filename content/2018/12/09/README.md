@@ -44,16 +44,16 @@
 
 ## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### JVM and JDK
+### JVM and JDK / Text-Based User Interfaces
 
 *   [Avian (⭐1.2k)](https://github.com/ReadyTalk/avian) - JVM with JIT, AOT modes and iOS port.
-*   [OpenJ9 (⭐3k)](https://github.com/eclipse/openj9) - High performance, enterprise-calibre, flexibly licensed, openly-governed cross-platform JVM extending and augmenting the runtime technology components from the Eclipse OMR and OpenJDK project.
+*   [OpenJ9 (⭐3.2k)](https://github.com/eclipse/openj9) - High performance, enterprise-calibre, flexibly licensed, openly-governed cross-platform JVM extending and augmenting the runtime technology components from the Eclipse OMR and OpenJDK project.
 
 ## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### State management / Standard
 
-*   [Bloc (⭐9.9k)](https://github.com/felangel/bloc) <!--stargazers:felangel/bloc--> - Collection of packages that help implement the BLoC design pattern by [Felix Angelov](https://github.com/felangel)
+*   [Bloc (⭐11k)](https://github.com/felangel/bloc) <!--stargazers:felangel/bloc--> - Collection of packages that help implement the BLoC design pattern by [Felix Angelov](https://github.com/felangel)
 
 ## [7. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Software / Password Managers
 
-*   [PassIt](https://passit.io/) - Simple password manage with sharing features by group and user, but no administration interface. ([Demo](https://app.passit.io/), [Source Code](https://gitlab.com/passit)) `AGPL-3.0` `Python`
+*   [PassIt](https://passit.io/) - Simple password manage with sharing features by group and user, but no administration interface. ([Demo](https://app.passit.io/), [Source Code](https://gitlab.com/passit)) `AGPL-3.0` `Docker/Django`
 *   [Psono](https://psono.com/) - A promising password managers fully featured for teams. ([Demo](https://www.psono.pw), [Source Code](https://gitlab.com/psono)) `Apache-2.0` `Python`
 
 ## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
@@ -82,7 +82,7 @@
 
 ### Apps / Misc
 
-*   [Wagtail Tag Manager (⭐68)](https://github.com/jberghoef/wagtail-tag-manager) - A Wagtail addon that allows for easier and GDPR compliant administration of scripts and tags.
+*   [Wagtail Tag Manager (⭐69)](https://github.com/jberghoef/wagtail-tag-manager) - A Wagtail addon that allows for easier and GDPR compliant administration of scripts and tags.
 
 ### Open-source sites / Lists
 
@@ -93,10 +93,10 @@
 ### Endpoint / Mobile / Android / iOS
 
 *   [Mobile Security Wiki](https://mobilesecuritywiki.com/) - A collection of mobile security resources.
-*   [Apktool (⭐16k)](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files.
-*   [jadx (⭐35k)](https://github.com/skylot/jadx) - Command line and GUI tools for produce Java source code from Android Dex and Apk files.
-*   [enjarify (⭐866)](https://github.com/Storyyeller/enjarify) - A tool for translating Dalvik bytecode to equivalent Java bytecode.
-*   [Android Storage Extractor (⭐12)](https://github.com/51j0/Android-Storage-Extractor) - A tool to extract local data storage of an Android application in one click.
+*   [Apktool (⭐17k)](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files.
+*   [jadx (⭐37k)](https://github.com/skylot/jadx) - Command line and GUI tools for produce Java source code from Android Dex and Apk files.
+*   [enjarify (⭐891)](https://github.com/Storyyeller/enjarify) - A tool for translating Dalvik bytecode to equivalent Java bytecode.
+*   [Android Storage Extractor (⭐13)](https://github.com/51j0/Android-Storage-Extractor) - A tool to extract local data storage of an Android application in one click.
 
 ## [12. Awesome Wicket](/content/PhantomYdn/awesome-wicket/README.md)
 

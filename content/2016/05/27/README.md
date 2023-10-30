@@ -10,13 +10,13 @@
 
 ### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
-*   [Português do Brasil (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR)
+*   [Português do Brasil (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR)
 
 ## [2. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)
 
 ### Traffic Analysis/Inspection
 
-*   [PcapPlusPlus (⭐2k)](https://github.com/seladb/PcapPlusPlus): PcapPlusPlus a multiplatform C++ network sniffing and packet parsing and manipulation framework. It's meant to be lightweight, efficient and easy to use. It's a C++ wrapper for popular engines like libpcap, WinPcap, DPDK and PF\_RING. It also contains parsing and edit capabilities for many protocols including Ethernet, IPv4, IPv6, ARP, VLAN, MPLS, PPPoE, GRE, TCP, UDP, ICMP, DNS as well as layer 7 protocols like HTTP and SSL/TLS
+*   [PcapPlusPlus (⭐2.3k)](https://github.com/seladb/PcapPlusPlus): PcapPlusPlus a multiplatform C++ network sniffing and packet parsing and manipulation framework. It's meant to be lightweight, efficient and easy to use. It's a C++ wrapper for popular engines like libpcap, WinPcap, DPDK and PF\_RING. It also contains parsing and edit capabilities for many protocols including Ethernet, IPv4, IPv6, ARP, VLAN, MPLS, PPPoE, GRE, TCP, UDP, ICMP, DNS as well as layer 7 protocols like HTTP and SSL/TLS
 
 ## [3. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Documentation
 
-*   [Sandcastle (⭐2k)](https://github.com/EWSoftware/SHFB) - Sandcastle Help File Builder similar to NDoc
+*   [Sandcastle (⭐2.1k)](https://github.com/EWSoftware/SHFB) - Sandcastle Help File Builder similar to NDoc
 
 ---
 

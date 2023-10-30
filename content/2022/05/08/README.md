@@ -10,13 +10,13 @@
 
 ### Android
 
-*   [RethinkDNS + Firewall (⭐1.5k)](https://github.com/celzero/rethink-app) - An open-source, no-root firewall and DNS changer, with anti-censorship capabilities for Android 6+.
+*   [RethinkDNS + Firewall (⭐1.8k)](https://github.com/celzero/rethink-app) - An open-source, no-root firewall and DNS changer, with anti-censorship capabilities for Android 6+.
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Hex](https://hex.tech/) - a collaborative data platform for notebooks, data apps and knowledge libraries. Free community version with up to 3 authors and 5 projects. One compute profile per author with 4GB RAM.
+*   [Hex](https://hex.tech/) - a collaborative data platform for notebooks, data apps, and knowledge libraries. Free community version with up to 3 authors and five projects. One compute profile per author with 4GB RAM.
 
 ## [3. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
@@ -34,9 +34,9 @@
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [thm (⭐2)](https://github.com/thm-unix/thm-zshtheme) - Includes decorators for virtualenv, current directory and `git` status.
+*   [thm (⭐3)](https://github.com/thm-unix/thm-zshtheme) - Includes decorators for virtualenv, current directory and `git` status.
 
 ## [6. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -50,11 +50,11 @@
 
 ### Spreadsheet / Runner
 
-*   [Jspreadsheet CE (⭐6.3k)](https://github.com/jspreadsheet/ce) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with other spreadsheet software.
+*   [Jspreadsheet CE (⭐6.4k)](https://github.com/jspreadsheet/ce) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with other spreadsheet software.
 
 ### I18n And L10n / Runner
 
-*   [attranslate (⭐293)](https://github.com/fkirc/attranslate) - A JavaScript-tool for synchronizing translation-files, including JSON/YAML/XML and other formats.
+*   [attranslate (⭐286)](https://github.com/fkirc/attranslate) - A JavaScript-tool for synchronizing translation-files, including JSON/YAML/XML and other formats.
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Third-party APIs
 
-*   [go-hibp (⭐7)](https://github.com/wneessen/go-hibp) - Simple Go binding to the "Have I Been Pwned" APIs.
+*   [go-hibp (⭐8)](https://github.com/wneessen/go-hibp) - Simple Go binding to the "Have I Been Pwned" APIs.
 
 ## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -114,7 +114,7 @@
 
 ### IoT
 
-*   [PresenceLight (⭐405)](https://github.com/isaacrlevin/PresenceLight) - ![stars](https://img.shields.io/github/stars/isaacrlevin/PresenceLight?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/isaacrlevin/PresenceLight?style=flat-square\&cacheSeconds=86400) PresenceLight is a solution to broadcast your various statuses to a Phillips Hue or LIFX light bulb. Some statuses you can broadcast are: your availability in Microsoft Teams, your current Windows 10 theme, and a theme or color of your choosing. [Blog post](https://www.isaaclevin.com/post/presence-light). [Demo video](https://www.youtube.com/playlist?list=PL_IEvQa-oTVtB3fKUclJNNJ1r-Sxtjc-m).
+*   [PresenceLight (⭐407)](https://github.com/isaacrlevin/PresenceLight) - ![stars](https://img.shields.io/github/stars/isaacrlevin/PresenceLight?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/isaacrlevin/PresenceLight?style=flat-square\&cacheSeconds=86400) PresenceLight is a solution to broadcast your various statuses to a Phillips Hue or LIFX light bulb. Some statuses you can broadcast are: your availability in Microsoft Teams, your current Windows 10 theme, and a theme or color of your choosing. [Blog post](https://www.isaaclevin.com/post/presence-light). [Demo video](https://www.youtube.com/playlist?list=PL_IEvQa-oTVtB3fKUclJNNJ1r-Sxtjc-m).
 
 ## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -126,16 +126,12 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [ntfy](https://ntfy.sh/) - Push notifications to phone or desktop using HTTP PUT/POST, with Android app, CLI and web app, similar to Pushover and Gotify. ([Demo](https://ntfy.sh/app), [Source Code (⭐11k)](https://github.com/binwiederhier/ntfy), [Clients (⭐321)](https://github.com/binwiederhier/ntfy-android)) `Apache-2.0/GPL-2.0` `Go`
-*   [Typebot](https://typebot.io) - Typebot is a conversational app builder as an alternative to Typeform or Landbot. ([Source Code (⭐2.2k)](https://github.com/baptisteArno/typebot.io)) `AGPL-3.0` `Docker`
+*   [ntfy](https://ntfy.sh/) - Push notifications to phone or desktop using HTTP PUT/POST, with Android app, CLI and web app, similar to Pushover and Gotify. ([Demo](https://ntfy.sh/app), [Source Code (⭐14k)](https://github.com/binwiederhier/ntfy), [Clients (⭐376)](https://github.com/binwiederhier/ntfy-android)) `Apache-2.0/GPL-2.0` `Go/Docker/K8S`
+*   [Typebot](https://typebot.io) - Conversational app builder (alternative to Typeform or Landbot). ([Source Code (⭐3.9k)](https://github.com/baptisteArno/typebot.io)) `AGPL-3.0` `Docker`
 
 ### Software / Pastebins
 
-*   [paaster](https://paaster.io) - Paaster is a secure by default end-to-end encrypted pastebin built with the objective of simplicity. ([Source Code (⭐312)](https://github.com/WardPearce/paaster)) `GPL-3.0` `Docker`
-
-### Software / Photo and Video Galleries
-
-*   [Immich (⭐11k)](https://github.com/alextran1502/immich) - Self-hosted photo and video backup solution directly from your mobile phone. `MIT` `Docker`
+*   [paaster](https://paaster.io) - Paaster is a secure by default end-to-end encrypted pastebin built with the objective of simplicity. ([Source Code (⭐367)](https://github.com/WardPearce/paaster)) `GPL-3.0` `Docker`
 
 ## [15. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
@@ -147,7 +143,7 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-copy-files (⭐6)](https://github.com/mistjs/vite-plugin-copy-files) - Move files to the location of the corresponding package directory.
+*   [vite-plugin-copy-files (⭐8)](https://github.com/mistjs/vite-plugin-copy-files) - Move files to the location of the corresponding package directory.
 
 ## [17. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

@@ -8,21 +8,29 @@
 
 ## [1. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### CSS / Angular
+### CSS / Svelte
 
 *   [Tailwind Weekly](https://tailwindweekly.com/). Weekly newsletter about all things TailwindCSS.
 
-## [2. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
+## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### Bash / 理論計算機科学
+### Haskell / Spock Framework
 
-*   [Bashのよくある間違い](https://yakst.com/ja/posts/2929) - GreyCat, @yakstcom(翻訳)
+*   [Parallel and Concurrent Programming in Haskell](https://www.oreilly.com/library/view/parallel-and-concurrent/9781449335939/) - Simon Marlow
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Hadoop with Python](https://www.oreilly.com/learning/hadoop-with-python) - Zachary Radtka, Donald Miner
+
+### Smalltalk / Play Scala
+
+*   [Dynamic Web Development with Seaside](http://book.seaside.st/book/table-of-contents) - S. Ducasse, L. Renggli, C. D. Shaffer, R. Zaccone
 
 ## [3. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Starters & Themes
 
-*   🚀 [Shopify Theme Lab (⭐655)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue and Tailwind CSS.
+*   🚀 [Shopify Theme Lab (⭐687)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue and Tailwind CSS.
 
 ## [4. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
@@ -81,17 +89,17 @@
 
 ### Apps / SEO and SMO
 
-*   [Wagtail Yoast (⭐29)](https://github.com/Aleksi44/wagtailyoast) - A tool to improve readability of your texts with SEO recommendations.
+*   [Wagtail Yoast (⭐30)](https://github.com/Aleksi44/wagtailyoast) - A tool to improve readability of your texts with SEO recommendations.
 
 ### Apps / Media
 
-*   [Wagtail SVG (⭐32)](https://github.com/Aleksi44/wagtailsvg) - A Wagtail module for managing SVG files within the admin.
+*   [Wagtail SVG (⭐35)](https://github.com/Aleksi44/wagtailsvg) - A Wagtail module for managing SVG files within the admin.
 
 ## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Misc / Other
 
-*   [javascript-algorithms (⭐169k)](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
+*   [javascript-algorithms (⭐175k)](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 
 ## [13. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
 
@@ -113,14 +121,14 @@
 
 ### Open Sources Intelligence (OSINT) / Penetration Testing Report Templates
 
-*   [Depix (⭐23k)](https://github.com/beurtschipper/Depix) - Tool for recovering passwords from pixelized screenshots (by de-pixelating text).
+*   [Depix (⭐25k)](https://github.com/beurtschipper/Depix) - Tool for recovering passwords from pixelized screenshots (by de-pixelating text).
 
 ## [16. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Threat intelligence / Threat signature packages and collections
 
 *   [FireEye's Red Team Tool Countermeasures (⭐2.6k)](https://github.com/fireeye/red_team_tool_countermeasures) - Collection of Snort and YARA rules to detect attacks carried out with FireEye's own Red Team tools, first released after FireEye disclosed a breach in December 2020.
-*   [YARA Rules (⭐3.5k)](https://github.com/Yara-Rules/rules) - Project covering the need for IT security researchers to have a single repository where different Yara signatures are compiled, classified and kept as up to date as possible.
+*   [YARA Rules (⭐3.7k)](https://github.com/Yara-Rules/rules) - Project covering the need for IT security researchers to have a single repository where different Yara signatures are compiled, classified and kept as up to date as possible.
 
 ---
 

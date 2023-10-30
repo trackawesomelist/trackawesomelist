@@ -26,18 +26,18 @@
 
 ### Libraries / Data visualization
 
-*   [mazznoer/colorgrad-rs (⭐221)](https://github.com/mazznoer/colorgrad-rs) \[[colorgrad](https://crates.io/crates/colorgrad)] — Rust color scales library for data visualization, charts, games, maps, generative art and others.
+*   [mazznoer/colorgrad-rs (⭐247)](https://github.com/mazznoer/colorgrad-rs) \[[colorgrad](https://crates.io/crates/colorgrad)] — Rust color scales library for data visualization, charts, games, maps, generative art and others.
 
 ### Libraries / Encoding
 
 *   NetCDF
-    *   [georust/netcdf (⭐63)](https://github.com/georust/netcdf) \[[netcdf](https://crates.io/crates/netcdf)] — Medium-level netCDF bindings for Rust, allowing easy reading and writing of array-like structures to a file.
+    *   [georust/netcdf (⭐66)](https://github.com/georust/netcdf) \[[netcdf](https://crates.io/crates/netcdf)] — Medium-level netCDF bindings for Rust, allowing easy reading and writing of array-like structures to a file.
 
 ## [4. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Tools / Helper tools to add annotations to existing code
 
-*   [jsonschema-gentypes (⭐13)](https://github.com/camptocamp/jsonschema-gentypes) - Generate Python types based on TypedDict from a JSON Schema.
+*   [jsonschema-gentypes (⭐22)](https://github.com/camptocamp/jsonschema-gentypes) - Generate Python types based on TypedDict from a JSON Schema.
 
 ### Articles / Third-party articles
 
@@ -47,13 +47,13 @@
 
 ### Exploitation Tools / Unikernel-like
 
-*   [AFL++ (⭐3.6k)](https://github.com/AFLplusplus/AFLplusplus) - AFL++ is a superior fork to Google's AFL - more speed, more and better mutations, more and better instrumentation, custom module support, etc.
+*   [AFL++ (⭐4k)](https://github.com/AFLplusplus/AFLplusplus) - AFL++ is a superior fork to Google's AFL - more speed, more and better mutations, more and better instrumentation, custom module support, etc.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Email
 
-*   [EForw](https://www.eforw.com) – Free email forwarding for 1 domain. Receive and send emails from your domain.
+*   [EForw](https://www.eforw.com) – Free email forwarding for one domain. Receive and send emails from your domain.
 
 ## [7. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -71,11 +71,11 @@
 
 ## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [fvm (⭐0)](https://github.com/olrtg/zsh-fvm) - Adds tab completions for the [Flutter Version Manager (FVM)](https://fvm.app/).
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [prowpt (⭐0)](https://github.com/alpaca-honke/prowpt) - Simple, lightweight, and customizable Powerline-like prompt, with decorators for `git` information, user, hostname, current directory, time and exit status of the last command.
 

@@ -10,7 +10,7 @@
 
 ### Hardware / Game Engine resources
 
-*   [Matrix2 (⭐20)](https://github.com/bus710/matrix2) - Sense Hat's LED matrix control game by [bus710](https://github.com/bus710)
+*   [Matrix2 (⭐22)](https://github.com/bus710/matrix2) - Sense Hat's LED matrix control game by [bus710](https://github.com/bus710)
 
 ## [2. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -20,7 +20,7 @@
 
 ### For Electron / Other
 
-*   [trilogy (⭐249)](https://github.com/citycide/trilogy) - TypeScript SQLite database layer with support for both native C++ and pure JavaScript backends.
+*   [trilogy (⭐254)](https://github.com/citycide/trilogy) - TypeScript SQLite database layer with support for both native C++ and pure JavaScript backends.
 
 ## [3. Creative Commons Media](/content/shime/creative-commons-media/README.md)
 
@@ -54,7 +54,7 @@
 
 ## [8. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Books / Screeb
+### Books / Obsidian
 
 *   [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X/) - By Jake Knapp, John Zeratsky, Braden Kowitz.
 

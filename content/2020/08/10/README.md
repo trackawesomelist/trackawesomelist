@@ -62,7 +62,7 @@
 
 *   [Dots (⭐5)](https://github.com/josconno/dots) - A turing-complete language using "." symbol only.
 *   [Japt (⭐72)](https://github.com/ETHproductions/japt) - Reduced JavaScript for golfing.
-*   [Jelly (⭐763)](https://github.com/DennisMitchell/jellylanguage) - Golfing language based on J.
+*   [Jelly (⭐779)](https://github.com/DennisMitchell/jellylanguage) - Golfing language based on J.
 
 ## [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Extensions
 
-*   [next-joi (⭐112)](https://github.com/codecoolture/next-joi) - Validate Next.js API Routes, with *joi*.
+*   [next-joi (⭐113)](https://github.com/codecoolture/next-joi) - Validate Next.js API Routes, with *joi*.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

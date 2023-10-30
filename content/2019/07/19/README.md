@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 19, 2019
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,13 +16,7 @@
 
 
 
-## [2. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
-
-### Software / Automation
-
-*   [Bolt](https://puppet.com/products/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable. ([Source Code (⭐451)](https://github.com/puppetlabs/bolt)) `Apache-2.0` `Ruby`
-
-## [3. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
+## [2. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 
 ### Cassandra
 
@@ -100,13 +94,13 @@
 *   [Stack Overflow: cql](https://stackoverflow.com/questions/tagged/cql)
 *   [Stack Overflow: spark-cassandra-connector](https://stackoverflow.com/questions/tagged/spark-cassandra-connector)
 
-## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Design and Product / Design Tools
 
 *   [Amadine](https://amadine.com) - A vector drawing app that has everything a graphic designer needs wrapped in an uncluttered and intuitive interface.
 
-## [5. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
+## [4. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 
 ### Applications
 
@@ -116,15 +110,15 @@
 
 *   [Encouraging Wellness in a Remote Workpalce](https://dev.to/desi/encouraging-wellness-in-a-remote-workplace-17m5) - By Desi Rottman.
 
-## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Style Guides
 
-*   [Airbnb (⭐1.9k)](https://github.com/airbnb/swift) - Airbnb's Official Style Guide.
+*   [Airbnb (⭐2.1k)](https://github.com/airbnb/swift) - Airbnb's Official Style Guide.
 
 ### Mock / Barcode
 
-*   [AutoMockable (⭐40)](https://github.com/vincent-pradeilles/AutoMocker) - A framework that leverages the type system to let you easily create mocked instances of your data types.
+*   [AutoMockable (⭐42)](https://github.com/vincent-pradeilles/AutoMocker) - A framework that leverages the type system to let you easily create mocked instances of your data types.
 
 ---
 

@@ -10,11 +10,11 @@
 
 ### Algorithms and Data structures
 
-*   [loom (⭐219)](https://github.com/asonge/loom) - A CRDT library with δ-CRDT support.
+*   [loom (⭐223)](https://github.com/asonge/loom) - A CRDT library with δ-CRDT support.
 
 ### Debugging
 
-*   [eflame (⭐412)](https://github.com/proger/eflame) - Flame Graph profiler for Erlang.
+*   [eflame (⭐413)](https://github.com/proger/eflame) - Flame Graph profiler for Erlang.
 
 ### Feeds
 
@@ -22,26 +22,26 @@
 
 ### Macros
 
-*   [rulex (⭐12)](https://github.com/awetzel/rulex) - Simple rule handler using Elixir pattern matching.
+*   [rulex (⭐13)](https://github.com/awetzel/rulex) - Simple rule handler using Elixir pattern matching.
 
 ### ORM and Datamapping
 
-*   [datomex (⭐44)](https://github.com/edubkendo/datomex) - Elixir driver for the Datomic REST API.
+*   [datomex (⭐46)](https://github.com/edubkendo/datomex) - Elixir driver for the Datomic REST API.
 
 ### Testing
 
-*   [blacksmith (⭐189)](https://github.com/batate/blacksmith) - Data generation framework for Elixir.
-*   [factory\_girl\_elixir (⭐42)](https://github.com/sinetris/factory_girl_elixir) - Minimal implementation of Ruby's factory\_girl in Elixir.
+*   [blacksmith (⭐190)](https://github.com/batate/blacksmith) - Data generation framework for Elixir.
+*   [factory\_girl\_elixir (⭐43)](https://github.com/sinetris/factory_girl_elixir) - Minimal implementation of Ruby's factory\_girl in Elixir.
 
 ### Text and Numbers
 
-*   [simetric (⭐59)](https://github.com/lexmag/simetric) - String similarity metrics for Elixir.
+*   [simetric (⭐60)](https://github.com/lexmag/simetric) - String similarity metrics for Elixir.
 
 ## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### GUI
 
-*   [AvalonEdit (⭐1.6k)](https://github.com/icsharpcode/AvalonEdit) - The WPF-based text editor component used in SharpDevelop
+*   [AvalonEdit (⭐1.7k)](https://github.com/icsharpcode/AvalonEdit) - The WPF-based text editor component used in SharpDevelop
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

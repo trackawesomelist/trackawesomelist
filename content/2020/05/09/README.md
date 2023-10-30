@@ -16,7 +16,7 @@
 
 ### Golang / Data Visualization
 
-*   [Kelp (⭐991)](https://github.com/stellar/kelp) - Kelp is an open-source Golang algorithmic cryptocurrency trading bot that runs on centralized exchanges and Stellar DEX (command-line usage and desktop GUI).
+*   [Kelp (⭐1k)](https://github.com/stellar/kelp) - Kelp is an open-source Golang algorithmic cryptocurrency trading bot that runs on centralized exchanges and Stellar DEX (command-line usage and desktop GUI).
 
 ## [3. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -75,14 +75,14 @@
 
 ### WebSocket
 
-*   [CableReady (⭐670)](https://github.com/hopsoft/cable_ready) - CableReady completes the ActionCable story and expands the utility of web sockets in your Rails app.
+*   [CableReady (⭐701)](https://github.com/hopsoft/cable_ready) - CableReady completes the ActionCable story and expands the utility of web sockets in your Rails app.
 *   [StimulusReflex (⭐2.1k)](https://github.com/hopsoft/stimulus_reflex) - Build reactive applications with the Rails tooling you already know and love.
 
 ## [7. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### Imagery
+### Imagery / Text-Based User Interfaces
 
-*   [image-comparison (⭐258)](https://github.com/romankh3/image-comparison) - Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
+*   [image-comparison (⭐299)](https://github.com/romankh3/image-comparison) - Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
 
 ## [8. Services Engineering](/content/mmcgrana/services-engineering/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Cards
 
-*   [Shuffle (⭐775)](https://github.com/mac-gallagher/Shuffle) - A multi-directional card swiping library inspired by Tinder
+*   [Shuffle (⭐810)](https://github.com/mac-gallagher/Shuffle) - A multi-directional card swiping library inspired by Tinder
 
 ---
 

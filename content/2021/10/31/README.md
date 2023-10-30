@@ -11,8 +11,8 @@
 ### Awesome macros usage
 
 *   [core.async (⭐1.9k)](https://github.com/clojure/core.async) - transforms AST into CSP programs
-*   [cloroutine (⭐203)](https://github.com/leonoel/cloroutine) - suspends and continuations (coroutines)
-*   [missionary (⭐494)](https://github.com/leonoel/missionary) - a reactive dataflow programming toolkit
+*   [cloroutine (⭐205)](https://github.com/leonoel/cloroutine) - suspends and continuations (coroutines)
+*   [missionary (⭐513)](https://github.com/leonoel/missionary) - a reactive dataflow programming toolkit
 *   [photon (⭐7)](https://github.com/venantius/photon) - realtime web, like Meteor, but for Clojure(Script)
 *   [metaclj (⭐77)](https://github.com/brandonbloom/metaclj) - staged compilation
 *   [proteus (⭐109)](https://github.com/ztellman/proteus) - introduce mutable variables (don't use, just learn how to map your mind into immutable world)
@@ -23,21 +23,27 @@
 
 *   [Game Boy home of Flavor](https://web.archive.org/web/20210427064949/www.personal.triticom.com/~erm/GameBoy/) - Some full games and sources.
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### Software / Media Streaming - Audio Streaming
+### C / Non-X86
 
-*   [Raveberry (⭐664)](https://github.com/raveberry/raveberry) - A multi-user music server with a focus on participation. ([Demo](https://demo.raveberry.party/)) `LGPL-3.0` `Python`
+*   [C for Python Programmers](http://www.cburch.com/books/cpy/) - Carl Burch
+
+### Elixir / Ecto
+
+*   [The Little Ecto Cookbook](https://dashbit.co/ebooks/the-little-ecto-cookbook) - José Valim, Dashbit (PDF) (email address *required*)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [A Practical Introduction to Python Programming](https://www.brianheinold.net/python/) - Brian Heinold (HTML, PDF, Exercises sources)
+
+## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Personal Dashboards
 
-*   [Dashy (⭐11k)](https://github.com/lissy93/dashy) - Feature-rich homepage for your homelab, with easy YAML configuration. ([Demo](https://demo.dashy.to/)) `MIT` `Nodejs/Docker`
+*   [Dashy (⭐13k)](https://github.com/lissy93/dashy) - Feature-rich homepage for your homelab, with easy YAML configuration. ([Demo](https://demo.dashy.to/)) `MIT` `Nodejs/Docker`
 
-### Software / Software Development - Testing
-
-*   [DeepfakeHTTP (⭐469)](https://github.com/xnbox/DeepfakeHTTP) - A web server that uses HTTP dumps as a source for responses. `MIT` `Java`
-
-## [4. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
+## [5. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 
 ### Programming / Python
 
@@ -47,36 +53,30 @@
 
 *   [NeuroElectro](https://neuroelectro.org/) - Searchable database of neurons and their electrophysiological properties (extracted from literature)
 
-## [5. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
+## [6. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
 
 ### Installation
 
 *   [Running locally](https://nodered.org/docs/getting-started/local)
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [ZenRows](https://www.zenrows.com/) — Web Scraping API & proxy server that bypasses any anti-bot solution while offering javascript rendering, rotating proxies, and geotargeting. Free tier of 1000 API calls.
+*   [ZenRows](https://www.zenrows.com/) — Web Scraping API & proxy server that bypasses any anti-bot solution while offering javascript rendering, rotating proxies, and geotargeting. The free tier of 1000 API calls.
 
-## [7. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [8. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 
-*   [Ditox.js (⭐61)](https://github.com/mnasyrov/ditox) - Powerful dependency injection container for building modular apps. +TS
-*   [RxEffects (⭐30)](https://github.com/mnasyrov/rx-effects) - Reactive state and effect management with RxJS. +TS
-
-## [8. Awesome React Components](/content/brillout/awesome-react-components/README.md)
-
-### Infinite Scroll
-
-*   [af-virtual-scroll (⭐63)](https://github.com/nowaalex/af-virtual-scroll) - [demo/docs](https://af-virtual-scroll.vercel.app/docs/why) - Render large scrollable lists and tables.
+*   [Ditox.js (⭐78)](https://github.com/mnasyrov/ditox) - Powerful dependency injection container for building modular apps. +TS
+*   [RxEffects (⭐33)](https://github.com/mnasyrov/rx-effects) - Reactive state and effect management with RxJS. +TS
 
 ## [9. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [TaskoMask (⭐448)](https://github.com/hamed-shirbandi/TaskoMask) - Task management system based on .NET Core with DDD, CQRS and Event Sourcing Concepts.
+*   [TaskoMask (⭐576)](https://github.com/hamed-shirbandi/TaskoMask) - Task management system based on .NET Core with DDD, CQRS and Event Sourcing Concepts.
 
 ## [10. Public Apis](/content/public-apis/public-apis/README.md)
 

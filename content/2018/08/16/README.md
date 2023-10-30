@@ -10,7 +10,7 @@
 
 ### System Utilities / Directory Navigation
 
-*   [hblock (⭐1.2k)](https://github.com/hectorm/hblock) - Hosts-file based adblocker
+*   [hblock (⭐1.3k)](https://github.com/hectorm/hblock) - Hosts-file based adblocker
 
 ### Shell Package Management / Directory Navigation
 
@@ -32,39 +32,39 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Kalimdor.js (⭐527)](https://github.com/JasonShin/kalimdorjs) - Machine Learning library for the Web, Node and Developers!
+*   :octocat: [Kalimdor.js (⭐533)](https://github.com/JasonShin/kalimdorjs) - Machine Learning library for the Web, Node and Developers!
 
 ## [5. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Media
 
-*   [FFmpeg (⭐858)](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
+*   [FFmpeg (⭐892)](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
 
 ## [6. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Speech Processing
 
-*   [Parselmouth (⭐855)](https://github.com/YannickJadoul/Parselmouth) [:octocat: (⭐855)](https://github.com/YannickJadoul/Parselmouth) [:package:](https://pypi.org/project/praat-parselmouth/) - Python interface to the [Praat](http://www.praat.org) phonetics and speech analysis, synthesis, and manipulation software.
+*   [Parselmouth (⭐894)](https://github.com/YannickJadoul/Parselmouth) [:octocat: (⭐894)](https://github.com/YannickJadoul/Parselmouth) [:package:](https://pypi.org/project/praat-parselmouth/) - Python interface to the [Praat](http://www.praat.org) phonetics and speech analysis, synthesis, and manipulation software.
 
 ## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Go / General-Purpose Machine Learning
 
-*   [eaopt (⭐840)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
+*   [eaopt (⭐848)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [19 Questions (⭐16)](https://github.com/fulldecent/19-questions) - A machine learning / bayesian inference assigning attributes to objects.
+*   [19 Questions (⭐15)](https://github.com/fulldecent/19-questions) - A machine learning / bayesian inference assigning attributes to objects.
 
 ## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Logging
 
-*   [bunyan (⭐92)](https://github.com/bunyan-logger/bunyan) - Bunyan: An Elixir Logger.
+*   [bunyan (⭐91)](https://github.com/bunyan-logger/bunyan) - Bunyan: An Elixir Logger.
 
 ### XML
 
-*   [saxy (⭐243)](https://github.com/qcam/saxy) - Saxy is an XML parser and encoder in Elixir that focuses on speed and standard compliance.
+*   [saxy (⭐244)](https://github.com/qcam/saxy) - Saxy is an XML parser and encoder in Elixir that focuses on speed and standard compliance.
 
 ## [9. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 

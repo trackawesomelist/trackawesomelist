@@ -6,47 +6,152 @@
 
 
 
-## [1. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
-
-### 0 - 言語非依存 / アクセシビリティ
-
-*   [アクセシビリティのための設計](https://msdn.microsoft.com/ja-jp/library/windows/apps/hh700407.aspx) - MSDN Library
-
-### C++ / 理論計算機科学
-
-*   [cpprefjp - C++ Reference Site in Japanese](https://cpprefjp.github.io)
-
-### LaTeX / Svelte
-
-*   [TeX/LaTeX入門](https://ja.wikibooks.org/wiki/TeX/LaTeX%E5%85%A5%E9%96%80) - Wikibooks
-
-### Maven / Svelte
-
-*   [What is Maven? (⭐45)](https://github.com/KengoTODA/what-is-maven) - Kengo TODA
-
-### Perl / Svelte
-
-*   [Perl](https://ja.wikibooks.org/wiki/Perl) - Wikibooks
-
-### Scheme / Flask
-
-*   [Scheme](https://ja.wikibooks.org/wiki/Scheme) - Wikibooks
-
-## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [1. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Java / General-Purpose Machine Learning
 
 *   [aerosolve (⭐4.8k)](https://github.com/airbnb/aerosolve) - A machine learning library by Airbnb designed from the ground up to be human friendly.
 
+## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Android
+
+*   [CodePath Android Cliffnotes (⭐28k)](https://github.com/codepath/android_guides/wiki)
+*   [Expert Android and Eclipse development knowledge](http://www.vogella.com/tutorials/android.html)
+*   [Styling Android](https://blog.stylingandroid.com)
+
+### Assembly Language / Non-X86
+
+*   [Machine Language for Beginners](https://archive.org/details/ataribooks-machine-language-for-beginners) - Richard Mansfield
+
+### AutoHotkey / Non-X86
+
+*   [AutoHotkey Official Documentation](https://autohotkey.com/docs/AutoHotkey.htm) ([CHM](https://autohotkey.com/download/1.1/AutoHotkeyHelp.zip))
+
+### Autotools / Non-X86
+
+*   [Autotools Mythbuster](https://autotools.io/index.html)
+
+### C / Non-X86
+
+*   [C Programming](https://en.wikibooks.org/wiki/Programming%3AC) - Wikibooks
+
+### C++ / Non-X86
+
+*   [CS106X Programming Abstractions in C++](http://web.stanford.edu/class/cs106x/)
+
+### CoffeeScript / Non-X86
+
+*   [Smooth CoffeeScript](http://autotelicum.github.io/Smooth-CoffeeScript/SmoothCoffeeScript.html)
+
+### Go / Phoenix
+
+*   [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
+*   [The Go Tutorial](http://tour.golang.org)
+
+### Groovy / Gradle
+
+*   [Gradle User Guide](https://docs.gradle.org/current/userguide/userguide.html) - Hans Dockter, Adam Murdoch ([PDF](https://docs.gradle.org/current/userguide/userguide.pdf))
+
+### Groovy / Grails
+
+*   [The Grails Framework - Reference Documentation](http://grails.github.io/grails-doc/latest/) - Graeme Rocher, Peter Ledbrook, Marc Palmer, Jeff Brown, Luke Daley, Burt Beckwith, Lari Hotari ([PDF](http://grails.github.io/grails-doc/latest/guide/single.pdf))
+
+### HTML and CSS / Spock Framework
+
+*   [GA Dash](https://dash.generalassemb.ly)
+
+### LaTeX / TeX / LaTeX
+
+*   [The Not So Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/lshort.pdf) (PDF)
+
+### Linux / TeX
+
+*   [GNU Autoconf, Automake and Libtool](http://www.sourceware.org/autobook/download.html)
+*   [Learning Debian GNU/Linux](http://www.oreilly.com/openbook/debian/book/index.html)
+*   [The Debian Administrator's Handbook](https://debian-handbook.info)
+*   [The Linux Development Platform](http://ptgmedia.pearsoncmg.com/imprint_downloads/informit/perens/0130091154.pdf) (PDF)
+
+### Markdown / PicoLisp
+
+*   [Learn Markdown](https://www.gitbook.com/book/gitbookio/markdown/details) - Sammy P., Aaron O. (PDF) (EPUB) (MOBI)
+
+### MATLAB / PicoLisp
+
+*   [An Introduction to MATLAB](http://www.maths.dundee.ac.uk/software/MatlabNotes.pdf) (PDF)
+*   [Experiments with MATLAB](http://www.mathworks.com/moler/exm/index.html?requestedDomain=www.mathworks.com\&nocookie=true)
+*   [Numerical Computing with MATLAB](http://www.mathworks.com/moler/index_ncm.html?requestedDomain=www.mathworks.com\&nocookie=true)
+
+### Maven / PicoLisp
+
+*   [Maven by Example](http://books.sonatype.com/mvnex-book/reference/public-book.html)
+*   [Maven: The Complete Reference](http://books.sonatype.com/mvnref-book/reference/public-book.html)
+*   [Repository Management with Nexus](http://books.sonatype.com/nexus-book/reference/)
+
+### .NET Framework / PicoLisp
+
+*   [Entity Framework](http://weblogs.asp.net/zeeshanhirani/my-christmas-present-to-the-entity-framework-community)
+
+### NoSQL / PicoLisp
+
+*   [CouchDB: The Definitive Guide](http://guide.couchdb.org)
+
+### Perl / PicoLisp
+
+*   [Beginning Perl](https://www.perl.org/books/beginning-perl/)
+*   [Impatient Perl](https://www.perl.org/books/impatient-perl/)
+*   [Web Client Programming with Perl](http://www.oreilly.com/openbook/webclient/)
+
+### PureScript / Constraint Logic Programming (extended Prolog)
+
+*   [PureScript By Example](https://leanpub.com/purescript/read) - Phil Freeman
+
+### Python / Flask
+
+*   [Explore Flask](https://exploreflask.com) - Robert Picard
+
+### Ruby / Tornado
+
+*   [Just Enough Ruby to Get By](http://jasonkim.ca/projects/just_enough_ruby_to_get_by/)
+*   [Programming Ruby](http://ruby-doc.com/docs/ProgrammingRuby/)
+
+### Sage / Sinatra
+
+*   [The Sage Manuals](http://www.sagemath.org/doc/)
+
+### Scala / Sinatra
+
+*   [Effective Scala](https://twitter.github.io/effectivescala/)
+*   [Learning Scala in small bites](http://matt.might.net/articles/learning-scala-in-small-bites/)
+
+### SQL Server / Play Scala
+
+*   [Best of SQLServerCentral.com Vol 7](http://www.red-gate.com/community/books/ssc-7) \*(RedGate, By SQLServerCentral Authors)
+*   [Introducing Microsoft SQL Server 2008 R2](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#IntroducingMicrosoftSQLServer2008R2)
+*   [Introducing Microsoft SQL Server 2012](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#IntroducingMicrosoftSQLServer2012)
+*   [SQL Server 2012 Tutorials: Reporting Services](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#SQLServer2012Tutorials%3AReportingServices)
+
+### Standard ML / Play Scala
+
+*   [Programming in Standard ML '97](http://homepages.inf.ed.ac.uk/stg/NOTES/) - Stephen Gilmore, University of Edinburgh
+
+### Unix / Deno
+
+*   [Unix for Poets](http://web.stanford.edu/class/cs124/kwc-unix-for-poets.pdf) - Kenneth Ward Church (PDF)
+
+### Windows Phone / Vulkan
+
+*   [Windows Phone 8 Development Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/windowsphone8) - Matteo Pagani (PDF)
+
 ## [3. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
-*   [spot (⭐900)](https://github.com/rauchg/spot) - Tiny file search utility
+*   [spot (⭐914)](https://github.com/rauchg/spot) - Tiny file search utility
 
 ### Customization / Directory Navigation
 
-*   [Gogh - Color Scheme (⭐7.5k)](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal
+*   [Gogh - Color Scheme (⭐7.9k)](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal
 
 ### For Developers / Directory Navigation
 
@@ -58,7 +163,7 @@
 
 ### Shell Package Management / Directory Navigation
 
-*   [bash-it (⭐13k)](https://github.com/Bash-it/bash-it) - A community Bash framework
+*   [bash-it (⭐14k)](https://github.com/Bash-it/bash-it) - A community Bash framework
 
 ### Shell Script Development / Directory Navigation
 
@@ -74,7 +179,7 @@
 
 ### Version Control / Git
 
-*   [dev-time (⭐179)](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
+*   [dev-time (⭐181)](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
 
 ## [6. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/week/README.md)
 
@@ -98,7 +203,7 @@
 
 ### Colors
 
-*   [SwiftHEXColors (⭐688)](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor.
+*   [SwiftHEXColors (⭐690)](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor.
 
 ### JSON
 
@@ -106,7 +211,7 @@
 
 ### XML
 
-*   [AEXML (⭐979)](https://github.com/tadija/AEXML) - xml wrapper.
+*   [AEXML (⭐980)](https://github.com/tadija/AEXML) - xml wrapper.
 
 ### Images / Barcode
 
@@ -114,12 +219,12 @@
 
 ### Network / Barcode
 
-*   [ResponseDetective (⭐2k)](https://github.com/netguru/ResponseDetective) - A non-intrusive framework for intercepting any outgoing requests and incoming responses between your app and server for debugging purposes.
+*   [ResponseDetective (⭐1.9k)](https://github.com/netguru/ResponseDetective) - A non-intrusive framework for intercepting any outgoing requests and incoming responses between your app and server for debugging purposes.
 
 ### UI / Barcode
 
 *   [BreakOutToRefresh (⭐2.5k)](https://github.com/dasdom/BreakOutToRefresh) - A playable pull to refresh view using SpriteKit.
-*   [FloatRatingView (⭐543)](https://github.com/glenyi/FloatRatingView) - Floating rating system.
+*   [FloatRatingView (⭐545)](https://github.com/glenyi/FloatRatingView) - Floating rating system.
 
 ### Menu / Barcode
 
@@ -129,11 +234,11 @@
 ### Transition / Barcode
 
 *   [PinterestSwift (⭐1.9k)](https://github.com/demonnico/PinterestSwift) - Pinterest style transition.
-*   [StarWars.iOS (⭐3.7k)](https://github.com/Yalantis/StarWars.iOS) - Transition animation to crumble view-controller into tiny pieces.
+*   [StarWars.iOS (⭐3.8k)](https://github.com/Yalantis/StarWars.iOS) - Transition animation to crumble view-controller into tiny pieces.
 
 ### Utility / Barcode
 
-*   [Swiftx (⭐219)](https://github.com/typelift/Swiftx) - Functional data types and functions for any project.
+*   [Swiftx (⭐218)](https://github.com/typelift/Swiftx) - Functional data types and functions for any project.
 
 ## [10. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -182,7 +287,7 @@
 
 ### Database Drivers
 
-*   [TinyTDS (⭐594)](https://github.com/rails-sqlserver/tiny_tds) - FreeTDS bindings for Ruby using DB-Library.
+*   [TinyTDS (⭐599)](https://github.com/rails-sqlserver/tiny_tds) - FreeTDS bindings for Ruby using DB-Library.
 
 ## [15. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -230,7 +335,7 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Incident Response (⭐6.2k)](https://github.com/meirwah/awesome-incident-response) - A curated list of resources for incident response.
+*   [Awesome Incident Response (⭐6.6k)](https://github.com/meirwah/awesome-incident-response) - A curated list of resources for incident response.
 
 ## [22. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
@@ -269,18 +374,18 @@
 
 ### Traffic Capture
 
-*   [clj-net-pcap (⭐62)](https://github.com/ruedigergad/clj-net-pcap): `clj-net-pcap` is a packet capturing library for Clojure. clj-net-pcap uses jNetPcap and adds convenience functionality around jNetPcap for easing the usability. A [paper on clj-net-pcap](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=\&arnumber=6903107) was published in scope of COMPSACW 2014.
+*   [clj-net-pcap (⭐64)](https://github.com/ruedigergad/clj-net-pcap): `clj-net-pcap` is a packet capturing library for Clojure. clj-net-pcap uses jNetPcap and adds convenience functionality around jNetPcap for easing the usability. A [paper on clj-net-pcap](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=\&arnumber=6903107) was published in scope of COMPSACW 2014.
 *   [Yaf](https://tools.netsa.cert.org/yaf/yaf.html): It's a reliable piece of software, quite solid and able to generate flow records from pcap. This is very nice for indexing huge pcap or even doing packet capture. The recent version can even extract payloads and put in the flow records.
 
 ### Traffic Analysis/Inspection
 
 *   [AIEngine](https://bitbucket.org/camp0/aiengine): is a next generation interactive/programmable packet inspection engine with capabilities of learning without any human intervention, NIDS functionality, DNS domain classification, network collector and many others. AIEngine also helps network/security professionals to identify traffic and develop signatures for use them on NIDS, Firewalls, Traffic classifiers and so on.
-*   [HttpSniffer (⭐171)](https://github.com/caesar0301/http-sniffer): A multi-threading tool to sniff TCP flow statistics and embedded HTTP headers from PCAP file. Each TCP flow carrying HTTP is exported to text file in JSON format.
+*   [HttpSniffer (⭐180)](https://github.com/caesar0301/http-sniffer): A multi-threading tool to sniff TCP flow statistics and embedded HTTP headers from PCAP file. Each TCP flow carrying HTTP is exported to text file in JSON format.
 *   [Libnids](http://libnids.sourceforge.net/): designed by Rafal Wojtczuk, is an implementation of an E-component of Network Intrusion Detection System. It emulates the IP stack of Linux 2.0.x. Libnids offers IP defragmentation, TCP stream assembly and TCP port scan detection. The most valuable feature of libnids is reliability. A number of tests were conducted, which proved that libnids predicts behaviour of protected Linux hosts as closely as possible.
 *   [NetDude](http://netdude.sourceforge.net/): (NETwork DUmp data Displayer and Editor). From their webpage, "it is a GUI-based tool that allows you to make detailed changes to packets in tcpdump tracefiles."
 *   [Ntop](http://www.ntop.org/): Ntop is a network traffic probe that shows the network usage, similar to what the popular top Unix command does. ntop is based on libpcap and it has been written in a portable way in order to virtually run on every Unix platform and on Win32 as well.
-*   [Pcap2har (⭐220)](https://github.com/andrewf/pcap2har): A program to convert .pcap network capture files to HTTP Archive files using library dpkt.
-*   [pkt2flow (⭐138)](https://github.com/caesar0301/pkt2flow): A simple utility to classify packets into flows. It's so simple that only one task is aimed to finish.  For Deep Packet Inspection or flow classification, it's so common to analyze the feature of one specific flow. I have make the attempt to use made-ready tools like tcpflows, tcpslice, tcpsplit, but all these tools try to either decrease the trace volume (under requirement) or resemble the packets into flow payloads (over requirement). I have not found a simple tool to classify the packets into flows without further processing.
+*   [Pcap2har (⭐230)](https://github.com/andrewf/pcap2har): A program to convert .pcap network capture files to HTTP Archive files using library dpkt.
+*   [pkt2flow (⭐151)](https://github.com/caesar0301/pkt2flow): A simple utility to classify packets into flows. It's so simple that only one task is aimed to finish.  For Deep Packet Inspection or flow classification, it's so common to analyze the feature of one specific flow. I have make the attempt to use made-ready tools like tcpflows, tcpslice, tcpsplit, but all these tools try to either decrease the trace volume (under requirement) or resemble the packets into flow payloads (over requirement). I have not found a simple tool to classify the packets into flows without further processing.
 *   [Scapy](http://www.secdev.org/projects/scapy/): Scapy is a powerful interactive packet manipulation program. It is able to forge or decode packets of a wide number of protocols, send them on the wire, capture them, match requests and replies, and much more. It can easily handle most classical tasks like scanning, tracerouting, probing, unit tests, attacks or network discovery (it can replace hping, 85% of nmap, arpspoof, arp-sk, arping, tcpdump, tethereal, p0f, etc.). It also performs very well at a lot of other specific tasks that most other tools can't handle, like sending invalid frames, injecting your own 802.11 frames, combining technics (VLAN hopping+ARP cache poisoning, VOIP decoding on WEP encrypted channel, ...), etc.
 *   [Sniff](http://www.thedumbterminal.co.uk/software/sniff.html): Makes output from the tcpdump program easier to read and parse.
 *   [TCP-Reduce](http://ita.ee.lbl.gov/html/contrib/tcp-reduce.html): TCP-Reduce is a collection of Bourne shell scripts for reducing tcpdump traces to one-line summaries of each TCP connection present in the trace. The scripts look only at TCP SYN/FIN/RST packets. Connections without SYN packets in the trace (such as those on- going at the beginning of the trace) will not appear in the summary. Garbaged packets (those missing some of their contents) are reported to stderr as bogon's and are discarded. Occasionally the script gets fooled by retransmissions with altered sequence numbers, and reports erroneous huge connection sizes - always check large connections (say 100 MB or more) for plausibility.
@@ -299,20 +404,20 @@
 ### Related Projects / Analysis
 
 *   [Haka](http://www.haka-security.org/): An open source security oriented language which allows to describe protocols and apply security policies on (live) captured traffic. The scope of Haka language is twofold. First of all, it allows to write security rules in order to filter/alter/drop unwanted packets and log and report malicious activities. Second, Haka features a grammar enabling to specify network protocols and their underlying state machine.
-*   [RIPE-NCC Hadoop for PCAP (⭐202)](https://github.com/RIPE-NCC/hadoop-pcap): A Hadoop library to read packet capture (PCAP) files. Bundles the code used to read PCAPs. Can be used within MapReduce jobs to natively read PCAP files. Also features a Hive Serializer/Deserializer (SerDe) to query PCAPs using SQL like commands.
+*   [RIPE-NCC Hadoop for PCAP (⭐201)](https://github.com/RIPE-NCC/hadoop-pcap): A Hadoop library to read packet capture (PCAP) files. Bundles the code used to read PCAPs. Can be used within MapReduce jobs to natively read PCAP files. Also features a Hive Serializer/Deserializer (SerDe) to query PCAPs using SQL like commands.
 
 ## [25. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### ORM
 
-*   [AsyncPoco (⭐127)](https://github.com/tmenier/AsyncPoco) - A long-"awaited" fully asynchronous PetaPoco fork
-*   [NPoco (⭐821)](https://github.com/schotime/NPoco) - Simple microORM that maps the results of a query onto a POCO object. Based on Schotime's branch of PetaPoco
+*   [AsyncPoco (⭐128)](https://github.com/tmenier/AsyncPoco) - A long-"awaited" fully asynchronous PetaPoco fork
+*   [NPoco (⭐829)](https://github.com/schotime/NPoco) - Simple microORM that maps the results of a query onto a POCO object. Based on Schotime's branch of PetaPoco
 
 ## [26. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Machine Learning
 
-*   [BidMach (⭐912)](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
+*   [BidMach (⭐914)](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
 
 ## [27. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
 
@@ -341,14 +446,10 @@
 *   [NGINX as a WebSockets Proxy](https://www.nginx.com/blog/websocket-nginx/)
 *   [HTTP Keepalive Connections and Web Performance ](https://www.nginx.com/blog/http-keepalives-and-web-performance/)
 
-### Modules development
-
-*   [Developing Nginx Modules](https://www.airpair.com/nginx/extending-nginx-tutorial)
-
 ### Hacks
 
 *   [Nginx JSON hacks](https://web.archive.org/web/20140921162448/http://www.gabrielweinberg.com/blog/2011/07/nginx-json-hacks.html)
-*   [Capture and delay unwanted requests (⭐26)](https://github.com/p0pr0ck5/lua-resty-tarpit)
+*   [Capture and delay unwanted requests (⭐25)](https://github.com/p0pr0ck5/lua-resty-tarpit)
 
 ### Nginx + Lua
 
@@ -378,7 +479,7 @@
 
 ### Audio and Sounds
 
-*   [synthex (⭐42)](https://github.com/bitgamma/synthex) - A signal synthesis library.
+*   [synthex (⭐44)](https://github.com/bitgamma/synthex) - A signal synthesis library.
 
 ### Authentication
 
@@ -390,7 +491,7 @@
 
 ### Caching
 
-*   [lru\_cache (⭐35)](https://github.com/arago/lru_cache) - Simple LRU Cache, implemented with ets.
+*   [lru\_cache (⭐36)](https://github.com/arago/lru_cache) - Simple LRU Cache, implemented with ets.
 
 ### Examples and funny stuff
 
@@ -399,7 +500,7 @@
 
 ### Framework Components
 
-*   [exdjango (⭐17)](https://github.com/nicksanders/exdjango) - A few elixir libraries for working with django.
+*   [exdjango (⭐18)](https://github.com/nicksanders/exdjango) - A few elixir libraries for working with django.
 
 ### Geolocation
 
@@ -407,7 +508,7 @@
 
 ### HTTP
 
-*   [yuri (⭐11)](https://github.com/kemonomachi/yuri) - Simple struct for representing URIs.
+*   [yuri (⭐12)](https://github.com/kemonomachi/yuri) - Simple struct for representing URIs.
 
 ### Images
 
@@ -423,7 +524,7 @@
 
 ### OTP
 
-*   [erlexec (⭐481)](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
+*   [erlexec (⭐496)](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
 
 ### Queue
 
@@ -431,17 +532,17 @@
 
 ### Text and Numbers
 
-*   [bencode (⭐16)](https://github.com/gausby/bencode) - A Bencode encoder and decoder for Elixir. The decoder will return the checksum value of the info dictionary, if an info dictionary was found in the input.
+*   [bencode (⭐17)](https://github.com/gausby/bencode) - A Bencode encoder and decoder for Elixir. The decoder will return the checksum value of the info dictionary, if an info dictionary was found in the input.
 *   [elixir-range-extras (⭐8)](https://github.com/lnikkila/elixir-range-extras) - Elixir range utilities: constant-time random sampling and set operations.
 
 ### Third Party APIs
 
-*   [apns (⭐70)](https://github.com/chvanikoff/apns4ex) - Apple Push Notifications Service client library for elixir.
+*   [apns (⭐71)](https://github.com/chvanikoff/apns4ex) - Apple Push Notifications Service client library for elixir.
 *   [zanox (⭐1)](https://github.com/rafaelss/zanox) - Zanox API.
 
 ### YAML
 
-*   [fast\_yaml (⭐49)](https://github.com/processone/fast_yaml) - Fast YAML is an Erlang wrapper for libyaml "C" library.
+*   [fast\_yaml (⭐48)](https://github.com/processone/fast_yaml) - Fast YAML is an Erlang wrapper for libyaml "C" library.
 
 ### Screencasts
 

@@ -47,13 +47,13 @@
 
 ### Apps / Static site generation
 
-*   [Wagtail-bakery (⭐156)](https://github.com/moorinteractive/wagtail-bakery) - A set of helpers for baking your Django Wagtail site out as flat files.
+*   [Wagtail-bakery (⭐161)](https://github.com/moorinteractive/wagtail-bakery) - A set of helpers for baking your Django Wagtail site out as flat files.
 
 ## [4. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Packages / Libraries
 
-*   [Meyda (⭐1.2k)](https://github.com/meyda/meyda) - Audio feature extraction library including a variety of widely used audio features.
+*   [Meyda (⭐1.3k)](https://github.com/meyda/meyda) - Audio feature extraction library including a variety of widely used audio features.
 
 ### Packages / Apps
 
@@ -108,7 +108,7 @@
 
 ### Universal Seed Projects / Components
 
-*   [ng-seed/universal (⭐702)](https://github.com/ng-seed/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3
+*   [ng-seed/universal (⭐704)](https://github.com/ng-seed/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3
 
 ### TypeScript Seed Projects / Components
 
@@ -118,7 +118,7 @@
 
 ### For Developers / Directory Navigation
 
-*   [tag (⭐587)](https://github.com/aykamko/tag) - Instantly jump to your ag matches.
+*   [tag (⭐590)](https://github.com/aykamko/tag) - Instantly jump to your ag matches.
 
 ## [11. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 

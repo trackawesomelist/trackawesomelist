@@ -10,13 +10,13 @@
 
 ### Parser / Package managers
 
-*   [Arwalk/zig-protobuf (⭐66)](https://github.com/Arwalk/zig-protobuf) - Implementation of Protocol Buffers v3 leveraging Zig's comptime.
+*   [Arwalk/zig-protobuf (⭐99)](https://github.com/Arwalk/zig-protobuf) - Implementation of Protocol Buffers v3 leveraging Zig's comptime.
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-router-webcache (⭐6)](https://github.com/Kolobok12309/vue-router-webcache) - Enable spa routing while in google/yandex/etc webcache.
+*   [vue-router-webcache (⭐7)](https://github.com/Kolobok12309/vue-router-webcache) - Enable spa routing while in google/yandex/etc webcache.
 
 ## [3. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
@@ -34,16 +34,11 @@
 
 ### Applications
 
-*   [SocialHome (⭐336)](https://github.com/jaywink/socialhome): Federated personal profile with social networking functionality. Users can create rich content using Markdown and even HTML/JS/CSS. All content can be pinned to the user profile and all content will federate to contacts in the federated social web.
+*   [SocialHome (⭐341)](https://github.com/jaywink/socialhome): Federated personal profile with social networking functionality. Users can create rich content using Markdown and even HTML/JS/CSS. All content can be pinned to the user profile and all content will federate to contacts in the federated social web.
 *   [Steemit](https://steemit.com/): Blockchain-based social media platform where anyone can earn rewards.
-*   [Ticktack ☠ (⭐55)](https://github.com/ticktackim/ticktack-workplan): Decentralized social platform for people to share knowledge and exchange value, with P2P messaging encrypted feature. Built on top of Secure Scuttlebutt (SSB).
+*   [Ticktack ☠ (⭐56)](https://github.com/ticktackim/ticktack-workplan): Decentralized social platform for people to share knowledge and exchange value, with P2P messaging encrypted feature. Built on top of Secure Scuttlebutt (SSB).
 
 ## [6. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
-
-### Recruitment / Coding Challenge
-
-*   [How to Freaking Find Great Developers By Having Them Read Code](https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/) - “Instead of writing code, consider having the candidate read existing code and talk about how it works. 1) Reading code is 95% of what a developer does as part of their job. 2) A candidate can tell you a lot about their programming skill in the first five minutes of reading. 3) Stress is your enemy because it raises adrenaline which lowers IQ by several points, causing you to miss good candidates.”
-*   [FizzBuzz 2.0: Pragmatic Programming Questions for Software Engineers](https://triplebyte.com/blog/fizzbuzz-2-0-pragmatic-programming-questions-for-software-engineers) - Five multiple-choice questions to easily separate the real software engineers from the rest.
 
 ### Meetings / Technical Debt
 
@@ -52,7 +47,6 @@
 
 ### Meetings / Standups
 
-*   [Your daily standups should be async. Here's why](https://www.cadencework.com/blog/async-standups.html) - “Daily, real-time meetings aren't practical for remote teams” might be the best practical reason.
 *   [The Good, the Bad and the Ugly Standup](https://kristoff.it/blog/good-bad-ugly-standup/) - Author experienced 3 formats of stand-ups before ending with one working for his team, and concludes that “the details that make up a good meeting are subtle and the pursuit of an artificial standard of aesthetics will prevent you from doing the necessary experimentation to improve from an ugly equilibrium”.
 *   [We Cancelled Standups and Let The Team Build. Here's What Happened…](https://www.usehaystack.io/blog/we-cancelled-standups-and-let-the-team-build-heres-what-happened) - Team felt burned out by long, daily status update meetings masquerading as standups. Eliminating these faux standups got the team back on track.
 
@@ -68,18 +62,18 @@
 
 ### System Utilities / Directory Navigation
 
-*   [btop (⭐9.9k)](https://github.com/aristocratos/btop) - Linux/OSX/FreeBSD resource monitor
-*   [lsd (⭐8.9k)](https://github.com/Peltoche/lsd) - LSDeluxe, rewrite of GNU ls with lot of added features like colors, icons, tree-view and more formatting options.
+*   [btop (⭐12k)](https://github.com/aristocratos/btop) - Linux/OSX/FreeBSD resource monitor
+*   [lsd (⭐9.9k)](https://github.com/Peltoche/lsd) - LSDeluxe, rewrite of GNU ls with lot of added features like colors, icons, tree-view and more formatting options.
 
 ## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Maps
 
-*   [goradd/maps (⭐22)](https://github.com/goradd/maps) - Go 1.18+ generic map interface for maps; safe maps; ordered maps; ordered, safe maps; etc.
+*   [goradd/maps (⭐25)](https://github.com/goradd/maps) - Go 1.18+ generic map interface for maps; safe maps; ordered maps; ordered, safe maps; etc.
 
 ### SQL Query Builders
 
-*   [sg (⭐3)](https://github.com/go-the-way/sg) - A SQL Gen for generating standard SQLs(supports: CRUD) written in Go.
+*   [sg (⭐4)](https://github.com/go-the-way/sg) - A SQL Gen for generating standard SQLs(supports: CRUD) written in Go.
 
 ### Logging
 
@@ -87,30 +81,30 @@
 
 ### Microsoft Excel
 
-*   [exl (⭐17)](https://github.com/go-the-way/exl) - Excel binding to struct written in Go.(Only supports Go1.18+)
+*   [exl (⭐21)](https://github.com/go-the-way/exl) - Excel binding to struct written in Go.(Only supports Go1.18+)
 
 ### Parsers/Encoders/Decoders
 
 *   [encdec (⭐8)](https://github.com/mickep76/encdec) - Package provides a generic interface to encoders and decoders.
-*   [go-fasttld (⭐17)](https://github.com/elliotwutingfeng/go-fasttld) - High performance effective top level domains (eTLD) extraction module.
+*   [go-fasttld (⭐19)](https://github.com/elliotwutingfeng/go-fasttld) - High performance effective top level domains (eTLD) extraction module.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Email
 
-*   [EmailLabs.io](https://emaillabs.io/en) — Send up to 9,000 Emails for free every month, up to 300 emails per day.
+*   [EmailLabs.io](https://emaillabs.io/en) — Send up to 9,000 Emails for free every month, up to 300 emails daily.
 
 ## [10. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### SQL / Parsers
 
-*   [SQLGlot (⭐2.9k)](https://github.com/tobymao/sqlglot) - Pure Python SQL parser, transpiler, and builder.
+*   [SQLGlot (⭐3.8k)](https://github.com/tobymao/sqlglot) - Pure Python SQL parser, transpiler, and builder.
 
 ## [11. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
-### Authentication / OAuth2 & OpenID
+### OAuth2 & OpenID / Macaroons
 
-*   [ZITADEL (⭐3.2k)](https://github.com/zitadel/zitadel) - An Open-Source solution built with Go and Angular to manage all your systems, users and service accounts together with their roles and external identities. ZITADEL provides you with OIDC, OAuth 2.0, login & register flows, passwordless and MFA authentication. All this is built on top of eventsourcing in combination with CQRS to provide a great audit trail.
+*   [ZITADEL (⭐5k)](https://github.com/zitadel/zitadel) - An Open-Source solution built with Go and Angular to manage all your systems, users and service accounts together with their roles and external identities. ZITADEL provides you with OIDC, OAuth 2.0, login & register flows, passwordless and MFA authentication. All this is built on top of eventsourcing in combination with CQRS to provide a great audit trail.
 
 ## [12. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 

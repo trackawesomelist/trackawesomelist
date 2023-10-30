@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 08, 2018
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -29,7 +29,7 @@
 
 ### Packages / Filesystem
 
-*   [move-file (⭐191)](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
+*   [move-file (⭐198)](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
 
 ## [5. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
@@ -53,25 +53,19 @@
 
 *   [clack-static-asset-middleware (⭐1)](https://github.com/fisxoj/clack-static-asset-middleware) - a cache-busting static asset middleware for the clack. [MIT](https://opensource.org/licenses/MIT).
 
-## [8. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
-
-### UI
-
-*   [Syncfusion Components](https://www.syncfusion.com/xamarin-ui-controls) - Rich set of UI components and file format libraries for Xamarin.Forms, Xamarin.iOS and Xamarin.Android applications.
-
-## [9. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [8. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Numbers
 
 *   [Brick\Math (⭐1.4k)](https://github.com/brick/math) - A library providing large number support: `BigInteger`, `BigDecimal` and `BigRational`.
 
-## [10. Awesome D3](/content/wbkd/awesome-d3/README.md)
+## [9. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
 ### Charts
 
 *   [chart-parts (⭐600)](https://github.com/Microsoft/chart-parts) - A flexible, React-friendly, Grammar of Graphics for data visualization
 
-## [11. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
+## [10. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
 ### Become an Appium Pro
 

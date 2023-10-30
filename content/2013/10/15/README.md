@@ -10,7 +10,6 @@
 
 ### Clojure / Non-X86
 
-*   [A Brief Beginner’s Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/)
 *   [Data Sorcery with Clojure](http://data-sorcery.org/contents/)
 *   [Modern cljs (⭐2.9k)](https://github.com/magomimmo/modern-cljs)
 

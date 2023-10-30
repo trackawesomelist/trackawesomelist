@@ -28,8 +28,8 @@
 
 ### Starter Kits / Workflow
 
-*   [bitwarden-core (⭐11k)](https://github.com/bitwarden/core) - The core infrastructure backend (API, database, etc) <https://bitwarden.com>.
-*   [generator-aspnet (⭐887)](https://github.com/OmniSharp/generator-aspnet) - yo generator for ASP.NET Core.
+*   [bitwarden-core (⭐13k)](https://github.com/bitwarden/core) - The core infrastructure backend (API, database, etc) <https://bitwarden.com>.
+*   [generator-aspnet (⭐880)](https://github.com/OmniSharp/generator-aspnet) - yo generator for ASP.NET Core.
 
 ## [5. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Machine Learning
 
-*   [mlpack (⭐4.4k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
+*   [mlpack (⭐4.6k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
 
 ---
 

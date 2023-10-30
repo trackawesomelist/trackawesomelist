@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 11 - Jan 17, 2016
 
-41 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -98,7 +98,7 @@ git commit --amend --reset-author --no-edit
 
 ### Files / Runner
 
-*   [diff2html (⭐2.4k)](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
+*   [diff2html (⭐2.5k)](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
 
 ## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -114,7 +114,7 @@ git commit --amend --reset-author --no-edit
 
 ### Others
 
-*   [.Net Code Katas (⭐17)](https://github.com/AlanBarber/CodeKatas)
+*   [.Net Code Katas (⭐19)](https://github.com/AlanBarber/CodeKatas)
 
 ## [10. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
@@ -126,7 +126,7 @@ git commit --amend --reset-author --no-edit
 
 ### Concurrency
 
-*   [ArrayFire (⭐4.1k)](https://github.com/arrayfire/arrayfire) - A general purpose GPU library. \[BSD]
+*   [ArrayFire (⭐4.2k)](https://github.com/arrayfire/arrayfire) - A general purpose GPU library. \[BSD]
 
 ## [12. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
 
@@ -259,14 +259,13 @@ git commit --amend --reset-author --no-edit
 
 ### Articles
 
-*   [Small focused modules (⭐124)](https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328)
+*   [Small focused modules (⭐128)](https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328)
 *   [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/) *(Must read!)*
 *   [Semver: Tilde and Caret](https://nodesource.com/blog/semver-tilde-and-caret/)
 *   [Offline installation of npm packages](https://addyosmani.com/blog/using-npm-offline/)
 
 ### Web
 
-*   [node-modules](http://node-modules.com) - Personalized package search based on your GitHub social graph.
 *   [NodeICO](https://nodei.co/) - Package badges.
 *   [Libraries.io](https://libraries.io/npm) - Package discovery.
 *   [npm-stat](http://npm-stat.com) - Statistics charts for packages.
@@ -283,35 +282,35 @@ git commit --amend --reset-author --no-edit
 
 ### Publishing
 
-*   [np (⭐6.8k)](https://github.com/sindresorhus/np) - A better `npm publish`.
-*   [publish-please (⭐744)](https://github.com/inikulin/publish-please) - Publish packages safely and gracefully.
+*   [np (⭐7.2k)](https://github.com/sindresorhus/np) - A better `npm publish`.
+*   [publish-please (⭐741)](https://github.com/inikulin/publish-please) - Publish packages safely and gracefully.
 *   [npm-release (⭐102)](https://github.com/phuu/npm-release) - Making releasing to npm so easy a kitten could probably do it™.
 *   [pkgfiles (⭐83)](https://github.com/timoxley/pkgfiles) - List all files which would be published in a package.
-*   [semantic-release (⭐17k)](https://github.com/semantic-release/semantic-release) - Fully automated package publishing.
+*   [semantic-release (⭐18k)](https://github.com/semantic-release/semantic-release) - Fully automated package publishing.
 
 ### Registry
 
-*   [npm-name (⭐270)](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
-*   [package-json (⭐208)](https://github.com/sindresorhus/package-json) - Get the package.json of a package from the npm registry.
-*   [npm-keyword (⭐47)](https://github.com/sindresorhus/npm-keyword) - Get a list of npm packages with a certain keyword.
-*   [dpn (⭐25)](https://github.com/gillstrom/dpn) - Get the dependents of a user's npm packages.
+*   [npm-name (⭐271)](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
+*   [package-json (⭐215)](https://github.com/sindresorhus/package-json) - Get the package.json of a package from the npm registry.
+*   [npm-keyword (⭐49)](https://github.com/sindresorhus/npm-keyword) - Get a list of npm packages with a certain keyword.
+*   [dpn (⭐26)](https://github.com/gillstrom/dpn) - Get the dependents of a user's npm packages.
 
 ### Other
 
-*   [npm-home (⭐179)](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
-*   [gh-home (⭐182)](https://github.com/sindresorhus/gh-home) - Open the GitHub page of a package.
-*   [david (⭐957)](https://github.com/alanshaw/david) - Check if your package dependencies are out of date.
-*   [npm-check (⭐6.3k)](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update.
-*   [npm-shrinkwrap (⭐779)](https://github.com/uber/npm-shrinkwrap) - A consistent shrinkwrap tool.
+*   [npm-home (⭐183)](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
+*   [gh-home (⭐187)](https://github.com/sindresorhus/gh-home) - Open the GitHub page of a package.
+*   [david (⭐960)](https://github.com/alanshaw/david) - Check if your package dependencies are out of date.
+*   [npm-check (⭐6.4k)](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update.
+*   [npm-shrinkwrap (⭐776)](https://github.com/uber/npm-shrinkwrap) - A consistent shrinkwrap tool.
 *   [npm-windows-upgrade (⭐2.5k)](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows.
-*   [pkg-up (⭐134)](https://github.com/sindresorhus/pkg-up) - Find the closest package.json file.
-*   [read-pkg-up (⭐226)](https://github.com/sindresorhus/read-pkg-up) - Read the closest package.json file.
-*   [normalize-package-data (⭐166)](https://github.com/npm/normalize-package-data) - Normalize package metadata.
-*   [pkg-conf (⭐115)](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
-*   [npm-run-path (⭐92)](https://github.com/sindresorhus/npm-run-path) - Run locally installed binaries in the terminal by name like with global ones.
+*   [pkg-up (⭐147)](https://github.com/sindresorhus/pkg-up) - Find the closest package.json file.
+*   [read-pkg-up (⭐236)](https://github.com/sindresorhus/read-pkg-up) - Read the closest package.json file.
+*   [normalize-package-data (⭐177)](https://github.com/npm/normalize-package-data) - Normalize package metadata.
+*   [pkg-conf (⭐114)](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
+*   [npm-run-path (⭐94)](https://github.com/sindresorhus/npm-run-path) - Run locally installed binaries in the terminal by name like with global ones.
 *   [local-npm (⭐1.1k)](https://github.com/nolanlawson/local-npm) - Use npm [offline](https://addyosmani.com/blog/using-npm-offline/).
-*   [npe (⭐86)](https://github.com/zeke/npe) - CLI for inspecting and editing properties in package.json.
-*   [engine-deps (⭐21)](https://github.com/samccone/engine-deps) - Manage Node.js version specific dependencies with ease.
+*   [npe (⭐92)](https://github.com/zeke/npe) - CLI for inspecting and editing properties in package.json.
+*   [engine-deps (⭐20)](https://github.com/samccone/engine-deps) - Manage Node.js version specific dependencies with ease.
 
 ### Command aliases
 
@@ -320,7 +319,7 @@ git commit --amend --reset-author --no-edit
 *   `npm it` → `npm install && npm test`
 *   `npm r` → `npm uninstall`
 
-### FAQ / `pre`   and   `post`   scripts
+### FAQ / `pre` and `post` scripts
 
 *   [Check in node\_modules vs. shrinkwrap](http://stackoverflow.com/questions/11459733/check-in-node-modules-vs-shrinkwrap)
 *   [What is the difference between Bower and npm?](http://stackoverflow.com/questions/18641899/what-is-the-difference-between-bower-and-npm)
@@ -328,13 +327,13 @@ git commit --amend --reset-author --no-edit
 *   [Find the version of an installed npm package](http://stackoverflow.com/questions/10972176/find-the-version-of-an-installed-npm-package)
 *   [What's the difference between dependencies, devDependencies, and peerDependencies in package.json?](http://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies)
 
-### Community / `pre`   and   `post`   scripts
+### Community / `pre` and `post` scripts
 
 *   [`#npm` on Freenode](http://webchat.freenode.net/?channels=npm)
 *   [Reddit](https://www.reddit.com/r/npm)
 *   [Twitter](https://twitter.com/npmjs)
 
-### Documentation / `pre`   and   `post`   scripts
+### Documentation / `pre` and `post` scripts
 
 *   [Official](https://docs.npmjs.com)
 *   [Troubleshooting (⭐17k)](https://github.com/npm/npm/wiki/Troubleshooting)
@@ -344,7 +343,7 @@ git commit --amend --reset-author --no-edit
 *   [npm run script](https://docs.npmjs.com/cli/run-script)
 *   [Stats API (⭐328)](https://github.com/npm/download-counts)
 
-### Support / `pre`   and   `post`   scripts
+### Support / `pre` and `post` scripts
 
 *   [Twitter](https://twitter.com/npm_support)
 *   [Contact form](https://www.npmjs.com/support)
@@ -374,7 +373,7 @@ git commit --amend --reset-author --no-edit
 
 ### Distributed Computing
 
-*   [Orleans (⭐9.3k)](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns. It was created by Microsoft Research.
+*   [Orleans (⭐9.5k)](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns. It was created by Microsoft Research.
 
 ## [28. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
@@ -445,17 +444,33 @@ git commit --amend --reset-author --no-edit
 
 *   [Data Science Interview Questions for Top Tech Companies](https://www.dezyre.com/article/-data-science-interview-questions-for-top-tech-companies/189)
 
-## [32. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [32. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Force.com / Phoenix
+
+*   [Heroku Postgres](https://web.archive.org/web/20131209081736/http://media.developerforce.com/workbooks/HerokuPostgres_Workbooks_Web_Final.pdf) (PDF) *(:card\_file\_box: archived)*
+
+### Objective-C / PicoLisp
+
+*   [Programming With Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
+
+### Ruby / Tornado
+
+*   [Introduction to Programming with Ruby](https://launchschool.com/books/ruby) - Launch School
+*   [Object Oriented Programming with Ruby](https://launchschool.com/books/oo_ruby) - Launch School
+*   [Why's (Poignant) Guide to Ruby](http://poignant.guide)
+
+## [33. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Utilities
 
 *   [Frodo (⭐1.5k)](https://github.com/android10/frodo) - Android Library for Logging RxJava Observables and Subscribers.
 
-## [33. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [34. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
-*   [supermemo (⭐17)](https://github.com/edubkendo/supermemo) - An Elixir implementation of the [Supermemo 2 algorithm](https://www.supermemo.com/english/ol/sm2.htm).
+*   [supermemo (⭐18)](https://github.com/edubkendo/supermemo) - An Elixir implementation of the [Supermemo 2 algorithm](https://www.supermemo.com/english/ol/sm2.htm).
 
 ### Applications
 
@@ -463,38 +478,38 @@ git commit --amend --reset-author --no-edit
 
 ### Cloud Infrastructure and Management
 
-*   [fleet\_api (⭐7)](https://github.com/jordan0day/fleet-api) - A simple wrapper for the Fleet (CoreOS) API. Can be used with etcd tokens or via direct node URLs.
+*   [fleet\_api (⭐8)](https://github.com/jordan0day/fleet-api) - A simple wrapper for the Fleet (CoreOS) API. Can be used with etcd tokens or via direct node URLs.
 
 ### Files and Directories
 
-*   [exfswatch (⭐237)](https://github.com/falood/exfswatch) - A file change watcher wrapper based on **fs**.
+*   [exfswatch (⭐238)](https://github.com/falood/exfswatch) - A file change watcher wrapper based on **fs**.
 
 ### Framework Components
 
 *   [phoenix\_slime (⭐305)](https://github.com/slime-lang/phoenix_slime) - Slim template support for Phoenix.
-*   [plug\_redirect\_https (⭐6)](https://github.com/stocks29/plug_redirect_https) - Plug to redirect http requests to https requests behind a reverse proxy.
+*   [plug\_redirect\_https (⭐7)](https://github.com/stocks29/plug_redirect_https) - Plug to redirect http requests to https requests behind a reverse proxy.
 
 ### Games
 
-*   [entice (⭐115)](https://github.com/entice/entice) - A distributed Entity-Component-System framework, providing its own example MMORPG server.
+*   [entice (⭐116)](https://github.com/entice/entice) - A distributed Entity-Component-System framework, providing its own example MMORPG server.
 
 ### HTTP
 
-*   [spell (⭐64)](https://github.com/MyMedsAndMe/spell) - Spell is a [Web Application Messaging Protocol](http://wamp-proto.org/) (WAMP) client implementation in Elixir.
+*   [spell (⭐65)](https://github.com/MyMedsAndMe/spell) - Spell is a [Web Application Messaging Protocol](http://wamp-proto.org/) (WAMP) client implementation in Elixir.
 
 ### Logging
 
 *   [exsentry](https://github.com/appcues/exsentry) - Error logging to [Sentry](https://getsentry.com/).
-*   [honeybadger (⭐170)](https://github.com/honeybadger-io/honeybadger-elixir) - Error logging to [Honeybadger](https://www.honeybadger.io/).
+*   [honeybadger (⭐171)](https://github.com/honeybadger-io/honeybadger-elixir) - Error logging to [Honeybadger](https://www.honeybadger.io/).
 
 ### ORM and Datamapping
 
-*   [arc\_ecto (⭐251)](https://github.com/stavro/arc_ecto) - Arc.Ecto provides an integration with Arc and Ecto.
+*   [arc\_ecto (⭐252)](https://github.com/stavro/arc_ecto) - Arc.Ecto provides an integration with Arc and Ecto.
 *   [exnumerator (⭐64)](https://github.com/KamilLelonek/exnumerator) - Elixir enumerable type definition in a simple way to be used with any database.
 
 ### Queue
 
-*   [elixir\_nsq (⭐83)](https://github.com/wistia/elixir_nsq) - NSQ client library for Elixir.
+*   [elixir\_nsq (⭐85)](https://github.com/wistia/elixir_nsq) - NSQ client library for Elixir.
 
 ### Utilities
 
@@ -514,13 +529,13 @@ git commit --amend --reset-author --no-edit
 
 *   [Meet Elixir](https://www.pluralsight.com/courses/meet-elixir) - Walk through some features and concepts of Elixir by José Valim.
 
-## [34. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [35. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### TypeScript Seed Projects / Components
 
 *   [Angular 2 reconnecting websockets quickstart (⭐8)](https://github.com/mkusz/ng2_websockets_quickstart) - Simple counter using 2-way or 1-way reconnecting websockets communication
 
-## [35. Awesome Network Js](/content/Kikobeats/awesome-network-js/week/README.md)
+## [36. Awesome Network Js](/content/Kikobeats/awesome-network-js/week/README.md)
 
 ### High level
 
@@ -533,33 +548,33 @@ git commit --amend --reset-author --no-edit
 
 *   [bonjour (⭐584)](https://github.com/watson/bonjour) – A Bonjour/Zeroconf protocol implementation.
 
-## [36. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [37. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Mobile Development
 
-*   [mobisplash-cli (⭐65)](https://github.com/SamVerschueren/mobisplash-cli) - Mobile app splash screen generator.
+*   [mobisplash-cli (⭐66)](https://github.com/SamVerschueren/mobisplash-cli) - Mobile app splash screen generator.
 
 ### Files and Directories / Deleting, Copying, and Renaming
 
-*   [cpy-cli (⭐301)](https://github.com/sindresorhus/cpy-cli) - Copies files.
+*   [cpy-cli (⭐315)](https://github.com/sindresorhus/cpy-cli) - Copies files.
 
 ### Files and Directories / Files
 
 *   [file-type-cli (⭐68)](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
 
-## [37. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [38. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line apps
 
-*   [mobisplash (⭐65)](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator.
-*   [diff2html-cli (⭐432)](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
+*   [mobisplash (⭐66)](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator.
+*   [diff2html-cli (⭐456)](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
 
 ### Resources / Community
 
 *   [Reddit](https://www.reddit.com/r/node)
 *   [Twitter](https://twitter.com/nodejs)
 
-## [38. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [39. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Denmark 🇩🇰 / Copenhagen
 
@@ -684,7 +699,7 @@ Webpage: <http://www.poiscafe.com/>
 | ---- | ----- | ---------------------------------------------------------------------- | ---------- |
 | ✔    | ✔     | [Rua S. João da Praça, 93-95 Lisboa](https://goo.gl/maps/Wj6aHXwyWYU2) |            |
 
-### United States 🇺🇸 / California   <a id="california">  </a>
+### United States 🇺🇸 / California <a id="california"></a>
 
 #### Red Rock Coffee
 
@@ -713,7 +728,7 @@ Webpage: <http://dolcecasacafe.com/>
 | ---- | ----- | ----------------------------------------------------------------------- | -------------------------------------- |
 | ✔    | ✔     | [4947 N Damen Ave, Chicago, IL 60625](https://goo.gl/maps/eNmG3ETExt92) | Mon-Fri 7:00-16:00, Sat-Sun 8:00-15:00 |
 
-### United States 🇺🇸 / Maryland   <a id="maryland">  </a>
+### United States 🇺🇸 / Maryland <a id="maryland"></a>
 
 #### The Perfect Cup
 
@@ -725,7 +740,7 @@ Webpage: <http://www.perfectcupchicago.com/>
 | ---- | ----- | ----------------------------------------------------------------------- | -------------------------------------- |
 | ✔    | ✔     | [4700 N Damen Ave, Chicago, IL 60625](https://goo.gl/maps/CVzWt8xiXyG2) | Mon-Fri 6:30-20:00, Sat-Sun 7:00-20:00 |
 
-## [39. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [40. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -737,23 +752,23 @@ Webpage: <http://www.perfectcupchicago.com/>
 
 ### Search
 
-*   [algolia.com](https://www.algolia.com/) — Hosted search-as-you-type (instant). Free hacker plan up to 10,000 documents and 100,000 operations. Bigger free plans available for community/Open Source projects
+*   [algolia.com](https://www.algolia.com/) — Hosted search solution with typo-tolerance, relevance, and UI libraries to easily create search experiences. The free "Build" plan includes 1M documents and 10K searches/month. Also offers [developer documentation search](https://docsearch.algolia.com/) for free.
 
 ### Issue Tracking and Project Management
 
-*   [bitrix24.com](https://www.bitrix24.com/) — Intranet and project management tool. Free plan has 5GB for unlimited users.
+*   [bitrix24.com](https://www.bitrix24.com/) — Intranet and project management tool. The free plan has 5GB for unlimited users.
 
-## [40. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [41. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
-*   [direnv (⭐9.9k)](https://github.com/direnv/direnv) - An environment switcher for the shell, compare with autoenv
+*   [direnv (⭐10k)](https://github.com/direnv/direnv) - An environment switcher for the shell, compare with autoenv
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [Beets (⭐11k)](https://github.com/beetbox/beets) - Music library manager and MusicBrainz tagger
+*   [Beets (⭐12k)](https://github.com/beetbox/beets) - Music library manager and MusicBrainz tagger
 
-## [41. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [42. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Apps / Network
 

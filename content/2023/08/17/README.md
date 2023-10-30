@@ -16,7 +16,7 @@
 
 ### Exploit Development Tools / Zealandia
 
-*   [H26Forge (⭐187)](https://github.com/h26forge/h26forge) - Domain-specific infrastructure for analyzing, generating, and manipulating syntactically correct but semantically spec-non-compliant video files.
+*   [H26Forge (⭐217)](https://github.com/h26forge/h26forge) - Domain-specific infrastructure for analyzing, generating, and manipulating syntactically correct but semantically spec-non-compliant video files.
 
 ## [3. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 
@@ -41,11 +41,11 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [goast (⭐52)](https://github.com/m-mizutani/goast) — Go AST (Abstract Syntax Tree) based static analysis tool with Rego.
+*   [goast (⭐54)](https://github.com/m-mizutani/goast) — Go AST (Abstract Syntax Tree) based static analysis tool with Rego.
 
 ### Multiple languages / [Other](#other-1)
 
-*   [oxc (⭐1.5k)](https://github.com/web-infra-dev/oxc) — The Oxidation Compiler is creating a suite of high-performance tools for the JavaScript / TypeScript language re-written in Rust.
+*   [oxc (⭐3.1k)](https://github.com/web-infra-dev/oxc) — The Oxidation Compiler is creating a suite of high-performance tools for the JavaScript / TypeScript language re-written in Rust.
 
 ## [7. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Tools / Services
 
-*   [Llama2 Embedding Server (⭐390)](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service): Llama2 Embeddings FastAPI Service using LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/Dicklesworthstone/llama_embeddings_fastapi_service?style=social)
+*   [Llama2 Embedding Server (⭐623)](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service): Llama2 Embeddings FastAPI Service using LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/Dicklesworthstone/llama_embeddings_fastapi_service?style=social)
 
 ## [9. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -87,10 +87,11 @@
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [PDF Factory](https://pdf-factory.com) - PDF Automation API, visual template editor, dynamic data integration and PDF rendering with an API. Free plan comes with 1 template, 100 PDFs/month.
+*   [PDF Factory](https://pdf-factory.com) - PDF Automation API, visual template editor, dynamic data integration, and PDF rendering with an API. The free plan comes with one template, 100 PDFs/month.
 
 ---
 
+- Prev: [Aug 18, 2023](/content/2023/08/18/README.md)
 - Next: [Aug 16, 2023](/content/2023/08/16/README.md)

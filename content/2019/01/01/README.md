@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 01, 2019
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### DevSecOps / Service meshes
 
-*   [Clair (⭐9.3k)](https://github.com/coreos/clair) - Static analysis tool to probe for vulnerabilities introduced via application container (e.g., Docker) images.
+*   [Clair (⭐9.7k)](https://github.com/coreos/clair) - Static analysis tool to probe for vulnerabilities introduced via application container (e.g., Docker) images.
 *   [Gauntlt](http://gauntlt.org/) - Pentest applications during routine continuous integration build pipelines.
 *   [SonarQube](https://sonarqube.org) - Continuous inspection tool that provides detailed reports during automated testing and alerts on newly introduced security vulnerabilities.
 
@@ -22,7 +22,7 @@
 
 ### Functional
 
-*   [hybrids (⭐2.8k)](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
+*   [hybrids (⭐2.9k)](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
 
 ## [3. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 
@@ -30,25 +30,25 @@
 
 ### Portland
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/joeseifi" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/joeseifi" height="70px" width="70px" align="left" alt="" />
 
 **Joe Seifi**\
 Topics: CSS-in-JS, JavaScript, React\
 <https://twitter.com/joeseifi>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/kyleshevlin" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/kyleshevlin" height="70px" width="70px" align="left" alt="" />
 
 **Kyle Shevlin**\
 Topics: React, Redux, JavaScript\
 <https://twitter.com/kyleshevlin>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/micahgodbolt" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/micahgodbolt" height="70px" width="70px" align="left" alt="" />
 
 **Micah Godbolt**\
 Topics: Frontend Architecture, CSS, Design Systems\
 <https://twitter.com/micahgodbolt>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/shanselman" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/shanselman" height="70px" width="70px" align="left" alt="" />
 
 **Scott Hanselman**\
 Topics: .NET, Azure\
@@ -71,17 +71,23 @@ Topics: React, Socket.IO, Storybook, Accessibility\
 
 *   [ASGI (Asynchronous Server Gateway Interface)](https://asgi.readthedocs.io/en/latest/) - A spiritual successor to WSGI, intended to provide a standard interface between async-capable Python web servers, frameworks, and applications.
 
-## [5. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### Machine Learning / MIT
+### HTML and CSS / Spock Framework
+
+*   [CSS Animation 101 (⭐4.6k)](https://github.com/cssanimation/css-animation-101)
+
+## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+
+### Machine Learning / Apache License
 
 *   [fuzzyml](https://sourceforge.net/projects/fuzzyml/) - Fuzzy machine learning framework.
 
-### Patterns / MIT
+### Patterns / Apache License
 
 *   [ada-promises (⭐6)](https://github.com/briot/Ada-promises) - Implementing promises in Ada. Type-safe, efficient, thread-safe.
 
-## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Math
 

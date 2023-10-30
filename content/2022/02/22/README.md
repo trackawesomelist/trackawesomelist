@@ -27,7 +27,7 @@
 
 ### Overview / YouTube
 
-*   [yattee (⭐1.2k)](https://github.com/yattee/yattee): Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped, supports sponsorblock
+*   [yattee (⭐1.5k)](https://github.com/yattee/yattee): Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped, supports sponsorblock
 
 ### Overview / Imgur
 
@@ -37,25 +37,21 @@
 
 ### Projects / Wallets
 
-*   [QRCode Generator (⭐20)](https://github.com/emg110/algorand-qrcode)
+*   [QRCode Generator (⭐19)](https://github.com/emg110/algorand-qrcode)
 
 ## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [SimpleX Chat (⭐3k)](https://github.com/simplex-chat/simplex-chat) - The most private and secure chat and applications platform - now with double ratchet E2E encryption. `AGPL-3.0` `Haskell`
+*   [SimpleX Chat (⭐4.4k)](https://github.com/simplex-chat/simplex-chat) - The most private and secure chat and applications platform - now with double ratchet E2E encryption. `AGPL-3.0` `Haskell`
 
 ### Software / Communication - Email - Webmail Clients
 
-*   [SnappyMail](https://snappymail.eu/) - Simple, modern, lightweight & fast web-based email client. (It is an actively developed fork of RainLoop). ([Demo](https://snappymail.eu/demo/), [Source Code (⭐574)](https://github.com/the-djmaze/snappymail)) `AGPL-3.0` `PHP`
+*   [SnappyMail](https://snappymail.eu/) - Simple, modern, lightweight & fast web-based email client (fork of RainLoop). ([Demo](https://snappymail.eu/demo/), [Source Code (⭐701)](https://github.com/the-djmaze/snappymail)) `AGPL-3.0` `PHP`
 
 ### Software / Content Management Systems (CMS)
 
 *   [Neos](https://www.neos.io) - Neos or TYPO3 Neos (for version 1) is a modern, open source CMS. ([Source Code](https://github.com/neos)) `GPL-3.0` `PHP`
-
-### Software / Learning and Courses
-
-*   [Vocascan](https://vocascan.com/) - A highly configurable vocabulary trainer. ([Source Code (⭐26)](https://github.com/vocascan/vocascan-server), [Clients (⭐4)](https://github.com/vocascan/vocascan-desktop)) `Apache-2.0` `Nodejs`
 
 ## [6. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
@@ -101,47 +97,50 @@
     *   [DGIdb](https://www.dgidb.org/) - A database of drug-gene interactions and the druggable genome.
     *   [Comparative Toxicogenomics Database](http://ctdbase.org/) - A database of Chemical-gene interactions, Chemical-disease associations, Gene-disease associations, and Chemical-phenotype associations.
     *   [SNAP](https://snap.stanford.edu/biodata/datasets/10002/10002-ChG-Miner.html#:~:text=Dataset%20information,or%20activation%20of%20the%20drug.) - A dataset which contains Drug-gene interactions.
+    *   [Comparative Toxicogenomics Database](https://ctdbase.org/) - A database for drug-target interactions.
+    *   [Therapeutics Data Commons](https://tdcommons.ai/) - A database for a lot of tasks such as drug-target, drug-response, drug-drug interaction.
 *   Chemical Protein Interaction
     *   [STITCH](http://stitch.embl.de/) - A database of Chemical Protein Interaction.
+    *   [BindingDB](https://www.bindingdb.org/rwd/bind/index.jsp) - A database of compounds and targes.
 
 ### Machine Learning Tasks and Models / Drug Repurposing
 
-*   [DRKG (⭐476)](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.
+*   [DRKG (⭐503)](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [shift-select (⭐51)](https://github.com/jirutka/zsh-shift-select) - Emacs shift-select mode for ZSH - select text in the command line using Shift, as in many text editors, browsers and other GUI programs.
+*   [shift-select (⭐68)](https://github.com/jirutka/zsh-shift-select) - Emacs shift-select mode for ZSH - select text in the command line using Shift, as in many text editors, browsers and other GUI programs.
 *   [zservice-py3http (⭐4)](https://github.com/z-shell/zservice-py3http) - Serve a given directory with Python 3's http server from the standard library.
 
 ## [9. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / News and Magazine
 
-*   [Hacki (⭐565)](https://github.com/Livinglist/Hacki) - A Hacker News reader by [Jiaqi Feng](https://github.com/Livinglist).
+*   [Hacki (⭐776)](https://github.com/Livinglist/Hacki) - A Hacker News reader by [Jiaqi Feng](https://github.com/Livinglist).
 
 ## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
-*   [vite-vue-ts-storybook (⭐68)](https://github.com/Miguel-Bento-Github/vite-vue-ts-storybook) - Vue 3 / i18n / Typescript / Vite / Storybook / ESLint / Prettier.
+*   [vite-vue-ts-storybook (⭐73)](https://github.com/Miguel-Bento-Github/vite-vue-ts-storybook) - Vue 3 / i18n / Typescript / Vite / Storybook / ESLint / Prettier.
 
 ### WordPress / Community
 
-*   [wordpress-vite-assets (⭐77)](https://github.com/idleberg/php-wordpress-vite-assets) - Integration for WordPress themes.
+*   [wordpress-vite-assets (⭐103)](https://github.com/idleberg/php-wordpress-vite-assets) - Integration for WordPress themes.
 
 ## [11. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 
-*   [evosax (⭐263)](https://github.com/RobertTLange/evosax) - JAX-Based Evolution Strategies <img src="https://img.shields.io/github/stars/RobertTLange/evosax?style=social" align="center">
+*   [evosax (⭐365)](https://github.com/RobertTLange/evosax) - JAX-Based Evolution Strategies <img src="https://img.shields.io/github/stars/RobertTLange/evosax?style=social" align="center">
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Monitoring
 
-*   [cronitor.io](https://cronitor.io/) - Performance insights and uptime monitoring for cron jobs, websites, APIs and more. Free tier with 5 monitors.
+*   [cronitor.io](https://cronitor.io/) - Performance insights and uptime monitoring for cron jobs, websites, APIs and more. A free tier with five monitors.
 
 ## [13. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/README.md)
 
@@ -170,7 +169,7 @@
 
 ### Snippet / Diagnostics
 
-*   [ellisonleao/carbon-now.nvim (⭐92)](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from Neovim.
+*   [ellisonleao/carbon-now.nvim (⭐118)](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from Neovim.
 
 ## [17. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -189,7 +188,7 @@
 
 ### Featured (new releases)
 
-*   🔧 [(Unofficial) Firebase Admin SDK for PHP (⭐1.9k)](https://github.com/kreait/firebase-php) - The Firebase Admin PHP SDK enables access to Firebase services from privileged environments (such as servers or cloud) in PHP.
+*   🔧 [(Unofficial) Firebase Admin SDK for PHP (⭐2k)](https://github.com/kreait/firebase-php) - The Firebase Admin PHP SDK enables access to Firebase services from privileged environments (such as servers or cloud) in PHP.
 
 ### Mobile
 
@@ -205,7 +204,7 @@
 
 ## [20. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
-### Videos / Vendor supported providers
+### Videos / IDE
 
 *   [Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)](https://www.youtube.com/watch?v=7xngnjfIlK4) - Complete course from beginner to pro, with no cloud provider focus, with a general approach
 
@@ -213,11 +212,11 @@
 
 ### Cryptography
 
-*   [CryptoNet (⭐53)](https://github.com/maythamfahmi/CryptoNet) - .NET simple crypto library. Native c#.
+*   [CryptoNet (⭐75)](https://github.com/maythamfahmi/CryptoNet) - .NET simple crypto library. Native c#.
 
 ### Image Processing
 
-*   [PixelViewer (⭐96)](https://github.com/carina-studio/PixelViewer) - Cross-platform (Windows/macOS/Linux) image viewer which supports reading raw Luminance/YUV/RGB/ARGB/Bayer pixels data from file and rendering it. 10/16-bit YUV and viewing image frame sequence are also supported (v1.99+).
+*   [PixelViewer (⭐137)](https://github.com/carina-studio/PixelViewer) - Cross-platform (Windows/macOS/Linux) image viewer which supports reading raw Luminance/YUV/RGB/ARGB/Bayer pixels data from file and rendering it. 10/16-bit YUV and viewing image frame sequence are also supported (v1.99+).
 
 ---
 

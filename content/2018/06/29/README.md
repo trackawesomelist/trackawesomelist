@@ -31,11 +31,11 @@
 
 ### API / Runner
 
-*   [axios (⭐100k)](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js.
+*   [axios (⭐102k)](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js.
 
 ### Animations / Other
 
-*   [particles.js (⭐27k)](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
+*   [particles.js (⭐28k)](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
 
 ## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -92,7 +92,7 @@
 
 ### Frameworks, Libraries and Tools / ORM
 
-*   [nhibernate-core (⭐2k)](https://github.com/nhibernate/nhibernate-core) - NHibernate Object Relational Mapper.
+*   [nhibernate-core (⭐2.1k)](https://github.com/nhibernate/nhibernate-core) - NHibernate Object Relational Mapper.
 
 ---
 

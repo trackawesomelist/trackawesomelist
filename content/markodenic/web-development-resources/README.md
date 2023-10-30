@@ -108,9 +108,6 @@ Awesome Web Development Resources.
 
 ### Remote Jobs:
 
-- Website: <https://jobstache.com>
-
-
 - Website: <https://jobsinjs.com>
 
 
@@ -285,11 +282,6 @@ Awesome Web Development Resources.
 - Website: [Codepng](https://codepng.app/)
 
   Description: Convert your source code into awesome shareable images
-
-
-- Website: [yuyu.ai](https://yuyu.ai/)
-
-  Description: Is a frontend ai tool to generate html and css instantly from a jpg or png file.
 
 
 
@@ -622,14 +614,6 @@ Awesome Web Development Resources.
 
 
 
-## [Aug 22, 2022](/content/2022/08/22/README.md)
-
-### Chrome Extensions:
-
-- Website: [GitHunt](https://chrome.google.com/webstore/detail/githunt/khpcnaokfebphakjgdgpinmglconplhp?hl=en)
-
-
-
 ## [Aug 20, 2022](/content/2022/08/20/README.md)
 
 ### CSS Generators:
@@ -807,9 +791,6 @@ Awesome Web Development Resources.
 
 
 - Website: <https://eloquentjavascript.net/>
-
-
-- Website: <https://skillcombo.com/courses/development/web-development/free/>
 
 
 

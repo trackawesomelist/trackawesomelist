@@ -16,7 +16,7 @@
 
 ### Storage / Bluetooth / NFC / Beacon
 
-*   [Moor (⭐1.8k)](https://github.com/simolus3/moor) - Moor is an easy to use, reactive, typesafe persistence library for Dart & Flutter by [
+*   [Moor (⭐2k)](https://github.com/simolus3/moor) - Moor is an easy to use, reactive, typesafe persistence library for Dart & Flutter by [
     Simon Binder](https://github.com/simolus3)
 
 ## [3. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/README.md)
@@ -90,13 +90,13 @@
 
 ### Sensors / Soil Moisture
 
-*   [MicroPython-MiFlora (⭐3)](https://github.com/matthias-bs/MicroPython-MiFlora) - Xiaomi Mi Flora (aka flower care) BLE plant sensors (soil moisture/conductivity/light intensity/temperature).
+*   [MicroPython-MiFlora (⭐4)](https://github.com/matthias-bs/MicroPython-MiFlora) - Xiaomi Mi Flora (aka flower care) BLE plant sensors (soil moisture/conductivity/light intensity/temperature).
 
 ## [8. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Authentication and Authorization
 
-*   [ADmad/SocialAuth plugin](https://github.com/ADmad/cakephp-social-auth) - A plugin which allows you to authenticate using social providers like Facebook/Google/Twitter etc. using [SocialConnect/auth (⭐520)](https://github.com/SocialConnect/auth) social sign on library.
+*   🍰 [ADmad/SocialAuth plugin (⭐47)](https://github.com/ADmad/cakephp-social-auth) - A plugin which allows you to authenticate using social providers like Facebook/Google/Twitter etc. using [SocialConnect/auth (⭐538)](https://github.com/SocialConnect/auth) social sign on library.
 
 ## [9. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -141,19 +141,19 @@ git push origin HEAD
 
 ### Resources / Examples
 
-*   [Vue simulating (⭐972)](https://github.com/GoodManWEN/GoodManWEN.github.io) - A website simulating linux system's GUI, using theme of Deepin distro. Using vue + tailwindcss + animate.css.
+*   [Vue simulating (⭐986)](https://github.com/GoodManWEN/GoodManWEN.github.io) - A website simulating linux system's GUI, using theme of Deepin distro. Using vue + tailwindcss + animate.css.
 
 ### Components & Libraries / UI Components
 
-*   [vue-concise-carousel (⭐10)](https://github.com/jambonn/vue-concise-carousel) - Vue Concise Carousel with True SSR. Works for Vue 2 & 3.
+*   [vue-concise-carousel (⭐14)](https://github.com/jambonn/vue-concise-carousel) - Vue Concise Carousel with True SSR. Works for Vue 2 & 3.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue3-lazyload (⭐25)](https://github.com/jambonn/vue-lazyload) - Vue module for lazy-loading images in your vue 3 applications.
+*   [vue3-lazyload (⭐26)](https://github.com/jambonn/vue-lazyload) - Vue module for lazy-loading images in your vue 3 applications.
 
 ### Components & Libraries / Scaffold
 
-*   [Vuetify-tailwind-animate-starter (⭐6)](https://github.com/GoodManWEN/vuetify-tailwind-animate-starter) - A vue-cli starter template for vuetify + tailwindcss + animate.css.
+*   [Vuetify-tailwind-animate-starter (⭐5)](https://github.com/GoodManWEN/vuetify-tailwind-animate-starter) - A vue-cli starter template for vuetify + tailwindcss + animate.css.
 
 ---
 

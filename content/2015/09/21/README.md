@@ -60,7 +60,7 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [bashmanager (⭐86)](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
+*   [bashmanager (⭐89)](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
 
 ## [6. Awesome Promises](/content/wbinnssmith/awesome-promises/README.md)
 

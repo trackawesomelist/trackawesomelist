@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 14, 2018
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -30,7 +30,96 @@
 
 *   [Ali Spittel (⭐10)](https://github.com/aspittel/ama) - Teaching code, Python and JavaScript developer, blogger.
 
-## [5. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
+## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Ada
+
+*   [Ada Programming](https://en.wikibooks.org/wiki/Ada_Programming) - Wikibooks
+
+### Assembly Language / Blazor
+
+*   [x86 Assembly](https://en.wikibooks.org/wiki/X86_Assembly) - Wikibooks
+
+### Awk / Non-X86
+
+*   [An Awk Primer](https://en.wikibooks.org/wiki/An_Awk_Primer) - Wikibooks
+
+### C# / Non-X86
+
+*   [C# Programming](https://en.wikibooks.org/wiki/C_Sharp_Programming) - Wikibooks
+
+### Clojure / Non-X86
+
+*   [Clojure Programming](https://en.wikibooks.org/wiki/Clojure_Programming) - Wikibooks
+
+### Erlang / Phoenix
+
+*   [Erlang Programming](https://en.wikibooks.org/wiki/Erlang_Programming) - Wikibooks (HTML)
+
+### F Sharp / Phoenix
+
+*   [F# Programming](https://en.wikibooks.org/wiki/F_Sharp_Programming) - Wikibooks
+
+### Haskell / Spock Framework
+
+*   [Haskell](https://en.wikibooks.org/wiki/Haskell) - Wikibooks
+
+### Julia / Vue.js
+
+*   [Introducing Julia](https://en.wikibooks.org/wiki/Introducing_Julia) - Wikibooks
+
+### LaTeX / TeX / LaTeX
+
+*   [LaTeX](https://en.wikibooks.org/wiki/LaTeX) - Wikibooks
+
+### Linux / TeX
+
+*   [Ad Hoc Data Analysis From The Unix Command Line](https://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line) - Wikibooks
+
+### Lua / PicoLisp
+
+*   [Lua Programming](https://en.wikibooks.org/wiki/Lua_Programming) - Wikibooks
+
+### MATLAB / PicoLisp
+
+*   [MATLAB Programming](https://en.wikibooks.org/wiki/MATLAB_Programming) - Wikibooks
+
+### .NET Framework / PicoLisp
+
+*   [Game Creation with XNA](https://en.wikibooks.org/wiki/Game_Creation_with_XNA) - Wikibooks
+
+### Octave / PicoLisp
+
+*   [Octave Programming](https://en.wikibooks.org/wiki/Octave_Programming_Tutorial) - Wikibooks
+
+### OpenSCAD / PicoLisp
+
+*   [OpenSCAD User Manual](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual) - Wikibooks
+
+### PHP / PicoLisp
+
+*   [PHP Programming](https://en.wikibooks.org/wiki/PHP_Programming) - Wikibooks
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [A Beginner's Python Tutorial](https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial) - Wikibooks
+*   [Python Programming](https://en.wikibooks.org/wiki/Python_Programming) - Wikibooks (2.7)
+*   [Python Programming](https://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) - Wikibooks (PDF) (2.6)
+
+### R / Tornado
+
+*   [R Programming](https://en.wikibooks.org/wiki/R_Programming) - Wikibooks
+
+### Scheme / Play Scala
+
+*   [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours) - Wikibooks
+
+### xBase (dBase / Clipper / Harbour) / Vulkan
+
+*   [Application Development with Harbour](https://en.wikibooks.org/wiki/Application_Development_with_Harbour) - Wikibooks
+*   [Clipper Tutorial: a Guide to Open Source Clipper(s)](https://en.wikibooks.org/wiki/Clipper_Tutorial%3A_a_Guide_to_Open_Source_Clipper\(s\)) - Wikibooks
+
+## [6. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 
 ### Packages / Language Bindings
 
@@ -124,19 +213,19 @@
 
 *   [Cromwell (⭐881)](https://github.com/broadinstitute/cromwell#spark-backend) <img src="https://img.shields.io/github/last-commit/broadinstitute/cromwell.svg"> - Workflow management system with [Spark backend (⭐881)](https://github.com/broadinstitute/cromwell#spark-backend).
 
-## [6. Awesome Code Review](/content/joho/awesome-code-review/README.md)
+## [7. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 
 ### Tools
 
 *   [Rubberduck](https://www.rubberduck.io) Browser extension to adds code-aware navigation to GitHub pull requests.
 
-## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [8. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Service Level Agreement
 
 *   [SLOs & You: A Guide To Service Level Objectives](https://www.circonus.com/2018/07/a-guide-to-service-level-objectives/)
 
-## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Accompanying Repos
 

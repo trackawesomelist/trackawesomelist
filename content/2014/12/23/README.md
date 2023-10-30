@@ -10,7 +10,7 @@
 
 ### Validation
 
-*   [validator.dart (⭐62)](https://github.com/karan/validator.dart) - String validation and sanitization for Dart.
+*   [validator.dart (⭐65)](https://github.com/karan/validator.dart) - String validation and sanitization for Dart.
 
 ---
 

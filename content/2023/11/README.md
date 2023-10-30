@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 13 - Mar 19, 2023
 
-59 awesome lists updated this week.
+60 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,15 +16,15 @@
 
 ### 3D
 
-*   [Menori (⭐88)](https://github.com/rozenmad/Menori) - Library for 3D rendering with LÖVE.
+*   [Menori (⭐102)](https://github.com/rozenmad/Menori) - Library for 3D rendering with LÖVE.
 
 ### Helpers
 
-*   [Manami (⭐28)](https://github.com/MikuAuahDark/NPad93/blob/master/manami.lua) - An improved "reflowprint" with UTF-8, multicolor, and justify support.
+*   [Manami (⭐30)](https://github.com/MikuAuahDark/NPad93/blob/master/manami.lua) - An improved "reflowprint" with UTF-8, multicolor, and justify support.
 
 ### UI
 
-*   [Inky (⭐20)](https://github.com/Keyslam/Inky) - Any-purpose GUI framework.
+*   [Inky (⭐25)](https://github.com/Keyslam/Inky) - Any-purpose GUI framework.
 
 ## [3. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Contents / Health and Fitness
 
-*   [Meditation App (⭐9)](https://github.com/Re4ch-Jay/Meditation_App) - An app that makes you calm, relief, relax, and focus 🧘 by [Phat Panhareach](https://github.com/Re4ch-Jay/).
+*   [Meditation App (⭐14)](https://github.com/Re4ch-Jay/Meditation_App) - An app that makes you calm, relief, relax, and focus 🧘 by [Phat Panhareach](https://github.com/Re4ch-Jay/).
 
 ## [6. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
@@ -71,13 +71,13 @@
 
 *   [Who Owns the Generative AI Platform? | Andreessen Horowitz](https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/): this article discusses the generative AI market and presents an interesting technology stack of the area
 
-### Inbox: Large Language Models / Contribute to Our Repository
+### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
-*   [logspace-ai/langflow (⭐7.2k)](https://github.com/logspace-ai/langflow): a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows
+*   [logspace-ai/langflow (⭐13k)](https://github.com/logspace-ai/langflow): a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows
 
-### Inbox: Large Language Models / Embeddings and Semantic Search
+### Inbox: Large Language Models (LLMs) / Embeddings and Semantic Search
 
-*   [facebookresearch/faiss (⭐22k)](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors
+*   [facebookresearch/faiss (⭐25k)](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors
 *   [Optimize Your Chatbot’s Conversational Intelligence Using GPT-3 | by Amogh Agastya | Better Programming](https://betterprogramming.pub/how-to-give-your-chatbot-the-power-of-neural-search-with-openai-ebcff5194170): tutorial presenting semantic search concepts
 
 ### Inbox: Games and AI / Generative Adversarial Networks (GANs)
@@ -128,21 +128,20 @@
 
 ### Modules / Utils
 
-*   [croner (⭐1k)](https://github.com/hexagon/croner) - Cron library with advanced scheduling features, well-documented API, and zero dependencies.
+*   [croner (⭐1.3k)](https://github.com/hexagon/croner) - Cron library with advanced scheduling features, well-documented API, and zero dependencies.
 
 ## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Photo and Video Galleries
 
-*   [Nextcloud Memories (⭐1.4k)](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app. ([Demo](https://memories-demo.radialapps.com/)) `AGPL-3.0` `PHP`
-*   [SPIS (⭐11)](https://github.com/gbbirkisson/spis) - A simple, lightweight and fast media server with decent mobile support. `GPL-3.0` `Rust`
+*   [SPIS (⭐39)](https://github.com/gbbirkisson/spis) - A simple, lightweight and fast media server with decent mobile support. `GPL-3.0` `Docker/Rust`
 
 ## [15. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Learning / Check Also
 
-*   [Web Configs (⭐2)](https://github.com/jonathandion/web-configs) - Monorepo for all common configurations for building web apps.
-*   [My Neovim Config (⭐39)](https://github.com/jonathandion/web-dev.nvim) - Small Neovim configuration written in Lua that is specifically designed for web development.
+*   [Web Configs (⭐5)](https://github.com/jonathandion/web-configs) - Monorepo for all common configurations for building web apps.
+*   [My Neovim Config (⭐52)](https://github.com/jonathandion/web-dev.nvim) - Small Neovim configuration written in Lua that is specifically designed for web development.
 
 ## [16. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
@@ -156,25 +155,21 @@
 
 *   [PC-lint](https://pclintplus.com/) :copyright: — Static analysis for C/C++. Runs natively under Windows/Linux/MacOS. Analyzes code for virtually any platform, supporting C11/C18 and C++17.
 
-### Multiple languages / [Other](#other-1)
-
-*   [Bearer](https://bearer.com) — Open-Source static code analysis tool to discover,  filter and prioritize security risks and vulnerabilities  leading to sensitive data exposures (PII, PHI, PD).  Highly configurable and easily extensible,  built for security and engineering teams.
-
 ## [18. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### CLI Builders
 
-*   [Cling (⭐8)](https://github.com/devnote-dev/cling) - A modular, non-macro-based command line interface library
+*   [Cling (⭐16)](https://github.com/devnote-dev/cling) - A modular, non-macro-based command line interface library
 
 ### Database Drivers/Clients
 
-*   [surrealdb.cr (⭐4)](https://github.com/yorci/surrealdb.cr) - Unoffical SurrealDB HTTP & Websocket Client
+*   [surrealdb.cr (⭐6)](https://github.com/yorci/surrealdb.cr) - Unoffical SurrealDB HTTP & Websocket Client
 
 ## [19. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### API Builder and Discovery
 
-*   [Alba (⭐732)](https://github.com/okuramasafumi/alba) - A JSON serializer for Ruby, JRuby and TruffleRuby.
+*   [Alba (⭐806)](https://github.com/okuramasafumi/alba) - A JSON serializer for Ruby, JRuby and TruffleRuby.
 
 ### CMS
 
@@ -182,15 +177,15 @@
 
 ### Core Extensions
 
-*   [MemoWise (⭐506)](https://github.com/panorama-ed/memo_wise) - Memoize any instance/class/module method, including support for frozen objects - rigorously tested and benchmarked on all Rubies - fast performance of memoized reads.
+*   [MemoWise (⭐513)](https://github.com/panorama-ed/memo_wise) - Memoize any instance/class/module method, including support for frozen objects - rigorously tested and benchmarked on all Rubies - fast performance of memoized reads.
 
 ### Third-party APIs
 
-*   [Notion Ruby Client (⭐94)](https://github.com/orbit-love/notion-ruby-client) - A Ruby wrapper for the Notion API.
+*   [Notion Ruby Client (⭐103)](https://github.com/orbit-love/notion-ruby-client) - A Ruby wrapper for the Notion API.
 
 ### Video
 
-*   [VideoInfo (⭐402)](https://github.com/thibaudgg/video_info) - Get video info from Dailymotion, Vimeo, Wistia, and YouTube URLs.
+*   [VideoInfo (⭐406)](https://github.com/thibaudgg/video_info) - Get video info from Dailymotion, Vimeo, Wistia, and YouTube URLs.
 
 ## [20. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
@@ -207,7 +202,7 @@
 
 ### Integration / Community
 
-*   [cool-stack (⭐13)](https://github.com/tdsoftpl/cool-stack) - Template repository integrating Directus & Remix into a full-stack monorepo.
+*   [cool-stack (⭐19)](https://github.com/tdsoftpl/cool-stack) - Template repository integrating Directus & Remix into a full-stack monorepo.
 
 ## [22. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
@@ -251,19 +246,19 @@
 
 ### Crates / Component Libraries
 
-*   [yew-bootstrap (⭐10)](https://github.com/isosphere/yew-bootstrap) - A Yew wrapper for the Bootstrap 5 component library.
+*   [yew-bootstrap (⭐23)](https://github.com/isosphere/yew-bootstrap) - A Yew wrapper for the Bootstrap 5 component library.
 
 ## [25. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Neuledge (⭐206)](https://github.com/neuledge/engine-js) - Neuledge is a universal language for databases that provides state-of-the-art tools for data modeling, business logic representation, and schema validation.
+*   :octocat: [Neuledge (⭐236)](https://github.com/neuledge/engine-js) - Neuledge is a universal language for databases that provides state-of-the-art tools for data modeling, business logic representation, and schema validation.
 
 ## [26. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Languages / Go
 
-*   [conduit (⭐22)](https://github.com/algorand/conduit) - Algorand's data pipeline framework.
+*   [conduit (⭐30)](https://github.com/algorand/conduit) - Algorand's data pipeline framework.
 
 ## [27. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
@@ -275,7 +270,7 @@
 
 ### Networking
 
-*   [Boost.Asio (⭐945)](https://github.com/boostorg/asio) :zap: - A cross-platform C++ library for network and low-level I/O programming. \[Boost] [website](https://boost.org/libs/asio)
+*   [Boost.Asio (⭐1k)](https://github.com/boostorg/asio) :zap: - A cross-platform C++ library for network and low-level I/O programming. \[Boost] [website](https://boost.org/libs/asio)
 
 ### Audio
 
@@ -283,48 +278,48 @@
 
 ### CLI
 
-*   [Boost.Program\_options (⭐80)](https://github.com/boostorg/program_options) - A library to obtain program options via conventional methods such as command line and config file. \[Boost] [website](https://boost.org/libs/program_options)
+*   [Boost.Program\_options (⭐83)](https://github.com/boostorg/program_options) - A library to obtain program options via conventional methods such as command line and config file. \[Boost] [website](https://boost.org/libs/program_options)
 
 ### Debug
 
-*   [Boost.Test (⭐134)](https://github.com/boostorg/test) - Boost Test Library. \[Boost] [website](https://boost.org/libs/test)
+*   [Boost.Test (⭐143)](https://github.com/boostorg/test) - Boost Test Library. \[Boost] [website](https://boost.org/libs/test)
 
 ### Image Processing
 
-*   [Boost.GIL (⭐159)](https://github.com/boostorg/gil) - Generic Image Library. \[Boost] [website](https://boost.org/libs/gil)
+*   [Boost.GIL (⭐167)](https://github.com/boostorg/gil) - Generic Image Library. \[Boost] [website](https://boost.org/libs/gil)
 
 ### Inter-process communication
 
-*   [Boost.Interprocess (⭐97)](https://github.com/boostorg/interprocess) - Header-only Boost library that supports kernel-level shared memory and memory-mapped files, with in-built synchronization mechanisms (semaphores, mutexes, and more). \[Boost] [website](https://boost.org/libs/interprocess)
+*   [Boost.Interprocess (⭐106)](https://github.com/boostorg/interprocess) - Header-only Boost library that supports kernel-level shared memory and memory-mapped files, with in-built synchronization mechanisms (semaphores, mutexes, and more). \[Boost] [website](https://boost.org/libs/interprocess)
 
 ### XML
 
-*   [Boost.PropertyTree (⭐40)](https://github.com/boostorg/property_tree) - A property tree parser/generator that can be used to parse XML/JSON/INI/Info files. \[Boost] [website](https://boost.org/libs/property_tree)
+*   [Boost.PropertyTree (⭐42)](https://github.com/boostorg/property_tree) - A property tree parser/generator that can be used to parse XML/JSON/INI/Info files. \[Boost] [website](https://boost.org/libs/property_tree)
 
 ### Logging
 
-*   [Boost.Log (⭐160)](https://github.com/boostorg/log) - Designed to be very modular and extensible. \[Boost] [website](https://boost.org/libs/log)
+*   [Boost.Log (⭐165)](https://github.com/boostorg/log) - Designed to be very modular and extensible. \[Boost] [website](https://boost.org/libs/log)
 
 ### Math
 
-*   [Boost.Multiprecision (⭐151)](https://github.com/boostorg/multiprecision) - provides higher-range/precision integer, rational and floating-point types in C++, header-only or with GMP/MPFR/LibTomMath backends. \[Boost] [website](https://boost.org/libs/multiprecision)
-*   [DirectXMath (⭐1.3k)](https://github.com/microsoft/DirectXMath) - An all inline SIMD C++ linear algebra library for use in games and graphics apps.
+*   [Boost.Multiprecision (⭐158)](https://github.com/boostorg/multiprecision) - provides higher-range/precision integer, rational and floating-point types in C++, header-only or with GMP/MPFR/LibTomMath backends. \[Boost] [website](https://boost.org/libs/multiprecision)
+*   [DirectXMath (⭐1.4k)](https://github.com/microsoft/DirectXMath) - An all inline SIMD C++ linear algebra library for use in games and graphics apps.
 
 ### Reflection
 
-*   [TSMP (⭐63)](https://github.com/fabian-jung/tsmp) - An intrusion and macro-free C++20 library for static reflection. It uses libclang to extract reflection data from your source code and makes it usable via template specialization. \[MIT]
+*   [TSMP (⭐71)](https://github.com/fabian-jung/tsmp) - An intrusion and macro-free C++20 library for static reflection. It uses libclang to extract reflection data from your source code and makes it usable via template specialization. \[MIT]
 
 ### Scripting
 
-*   [Boost.Python (⭐398)](https://github.com/boostorg/python) - A C++ library which enables seamless interoperability between C++ and the Python programming language. \[Boost] [website](https://boost.org/libs/python)
+*   [Boost.Python (⭐420)](https://github.com/boostorg/python) - A C++ library which enables seamless interoperability between C++ and the Python programming language. \[Boost] [website](https://boost.org/libs/python)
 
 ### Serialization
 
-*   [Boost.Serialization (⭐106)](https://github.com/boostorg/serialization) - Boost Serialization Library. \[Boost] [website](https://boost.org/libs/serialization)
+*   [Boost.Serialization (⭐110)](https://github.com/boostorg/serialization) - Boost Serialization Library. \[Boost] [website](https://boost.org/libs/serialization)
 
 ### Miscellaneous
 
-*   [Boost.Signals2 (⭐56)](https://github.com/boostorg/signals2) - An implementation of a managed signals and slots system. \[Boost] [website](https://boost.org/libs/signals2)
+*   [Boost.Signals2 (⭐58)](https://github.com/boostorg/signals2) - An implementation of a managed signals and slots system. \[Boost] [website](https://boost.org/libs/signals2)
 
 ### Websites
 
@@ -333,17 +328,17 @@
 
 ### Other Awesome Projects
 
-*   [awesome-hpp (⭐2.5k)](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries.
+*   [awesome-hpp (⭐2.9k)](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries.
 
 ## [29. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
-*   [broot (⭐8.7k)](https://github.com/Canop/broot) A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then `cd` to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading [dystroy.org/broot](https://dystroy.org/broot/) [![Latest Version](https://img.shields.io/crates/v/broot.svg)](https://crates.io/crates/broot)
+*   [broot (⭐9.3k)](https://github.com/Canop/broot) A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then `cd` to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading [dystroy.org/broot](https://dystroy.org/broot/) [![Latest Version](https://img.shields.io/crates/v/broot.svg)](https://crates.io/crates/broot)
 
 ### Applications / System tools
 
-*   [lsd (⭐9.9k)](https://github.com/lsd-rs/lsd) — An ls with a lot of pretty colors and awesome icons [![build](https://github.com/lsd-rs/lsd/workflows/CICD/badge.svg?branch=master)](https://github.com/lsd-rs/lsd/actions)
+*   [lsd (⭐11k)](https://github.com/lsd-rs/lsd) — An ls with a lot of pretty colors and awesome icons [![build](https://github.com/lsd-rs/lsd/workflows/CICD/badge.svg?branch=master)](https://github.com/lsd-rs/lsd/actions)
 
 ## [30. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
 
@@ -359,7 +354,7 @@
 
 ### Projects
 
-*   [Raspberry Pi Setup (⭐10)](https://github.com/atao/raspberrypi-setup) - ⚡ Quickly setup my Raspberry Pi.
+*   [Raspberry Pi Setup (⭐19)](https://github.com/atao/raspberrypi-setup) - ⚡ Quickly setup my Raspberry Pi.
 
 ## [32. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
 
@@ -371,7 +366,7 @@
 
 ### Utility / Diagnostics
 
-*   [zdcthomas/yop.nvim (⭐59)](https://github.com/zdcthomas/yop.nvim) - Easily create your own operators (like `d` and `y`).
+*   [zdcthomas/yop.nvim (⭐67)](https://github.com/zdcthomas/yop.nvim) - Easily create your own operators (like `d` and `y`).
 
 ## [34. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -381,11 +376,11 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [cmatrix (⭐3.2k)](https://github.com/abishekvashok/cmatrix/) - CMatrix is based on the screensaver from The Matrix website. It shows text flying in and out in a terminal like as seen in "The Matrix" movie. It can scroll lines all at the same rate or asynchronously and at a user-defined speed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/abishekvashok/cmatrix/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [cmatrix (⭐3.5k)](https://github.com/abishekvashok/cmatrix/) - CMatrix is based on the screensaver from The Matrix website. It shows text flying in and out in a terminal like as seen in "The Matrix" movie. It can scroll lines all at the same rate or asynchronously and at a user-defined speed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/abishekvashok/cmatrix/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / File Organization Tools
 
-*   [Modal File Manager (⭐54)](https://github.com/raguay/ModalFileManager/) - A lightweight, minimal dual-pane file manager with Vim style hotkeys. It can be customized with themes and extensions that are downloaded from GitHub using a built in interface. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://GitHub.com/raguay/ModalFileManager) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Modal File Manager (⭐76)](https://github.com/raguay/ModalFileManager/) - A lightweight, minimal dual-pane file manager with Vim style hotkeys. It can be customized with themes and extensions that are downloaded from GitHub using a built in interface. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://GitHub.com/raguay/ModalFileManager) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [35. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
@@ -431,50 +426,40 @@
 
 ### Clients
 
-*   [Keycloak Mock Library (⭐98)](https://github.com/TNG/keycloak-mock)
+*   [Keycloak Mock Library (⭐107)](https://github.com/TNG/keycloak-mock)
 
 ## [39. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Authentication and OAuth
 
-*   [go-jose (⭐129)](https://github.com/go-jose/go-jose) - Fairly complete implementation of the JOSE working group's JSON Web Token, JSON Web Signatures, and JSON Web Encryption specs.
+*   [go-jose (⭐166)](https://github.com/go-jose/go-jose) - Fairly complete implementation of the JOSE working group's JSON Web Token, JSON Web Signatures, and JSON Web Encryption specs.
 
 ### NoSQL Database Drivers
 
-*   [redis (⭐17k)](https://github.com/redis/go-redis) - Redis client for Golang.
+*   [redis (⭐18k)](https://github.com/redis/go-redis) - Redis client for Golang.
 
 ### JSON
 
-*   [htmljson (⭐3)](https://github.com/nikolaydubina/htmljson) - Rich rendering of JSON as HTML in Go.
+*   [htmljson (⭐4)](https://github.com/nikolaydubina/htmljson) - Rich rendering of JSON as HTML in Go.
 
 ### Science and Data Analysis
 
-*   [gograph (⭐25)](https://github.com/hmdsefi/gograph) -  A golang generic graph library that provides mathematical graph-theory and algorithms.
+*   [gograph (⭐36)](https://github.com/hmdsefi/gograph) - A golang generic graph library that provides mathematical graph-theory and algorithms.
 
 ### Third-party APIs
 
-*   [go-openai (⭐5.2k)](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, DALL·E, Whisper API library for Go.
+*   [go-openai (⭐6.5k)](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, DALL·E, Whisper API library for Go.
 
 ### Utilities
 
-*   [watchhttp (⭐23)](https://github.com/nikolaydubina/watchhttp) - Run command periodically and expose latest STDOUT or its rich delta as HTTP endpoint.
+*   [watchhttp (⭐25)](https://github.com/nikolaydubina/watchhttp) - Run command periodically and expose latest STDOUT or its rich delta as HTTP endpoint.
 
 ## [40. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 
 ### Overview / YouTube
 
-*   [Poketube (⭐63)](https://github.com/ashley0143/poketube): The privacy-friendly youtube front-end built with the InnerTube API
+*   [Poketube (⭐74)](https://github.com/ashley0143/poketube): The privacy-friendly youtube front-end built with the InnerTube API
     *   Official instance: <https://poketube.fun>
-
-### Overview / Imgur
-
-*   [Omgur](https://gitlab.wuhoo.xyz/jerry/omgur): Omgur is a free and open-source alternative Imgur front-end focused on privacy. Inspired by the Invidious, Nitter, and Teddit projects.
-    *   No JavaScript or ads
-    *   All requests go through the Omgur backend, client never talks to Imgur
-    *   Prevents Imgur from tracking your IP or JavaScript fingerprint
-    *   Lightweight
-    *   Self-hostable
-    *   Mirror of the original repository on Github: [https://github.com/geraldwuhoo/omgur (⭐11)](https://github.com/geraldwuhoo/omgur)
 
 ### Overview / Bandcamp
 
@@ -487,18 +472,18 @@
 
 ### Overview / Medium
 
-*   [Libmedium (⭐20)](https://github.com/realaravinth/libmedium): Alternative front-end to Medium.com
+*   [Libmedium (⭐30)](https://github.com/realaravinth/libmedium): Alternative front-end to Medium.com
     *   Official website: <https://libmedium.batsense.net>
 
 ### Overview / Other services
 
-*   [Wikiless (⭐34)](https://github.com/Metastem/wikiless): A free open source alternative Wikipedia front-end focused on privacy
+*   [Wikiless (⭐87)](https://github.com/Metastem/wikiless): A free open source alternative Wikipedia front-end focused on privacy
     *   Official instance: <https://wikiless.org/>
-    *   Public instances: [https://github.com/Metastem/wikiless (⭐34)](https://github.com/Metastem/wikiless)
+    *   Public instances: [https://github.com/Metastem/wikiless (⭐87)](https://github.com/Metastem/wikiless)
 
 ### Redirection / Other services
 
-*   [Redirector (⭐1.1k)](https://github.com/einaregilsson/Redirector): Web browser extension (Firefox, Vivaldi, Chrome, Opera, Edge) to redirect URLs based on regex or wildcard patterns.
+*   [Redirector (⭐1.2k)](https://github.com/einaregilsson/Redirector): Web browser extension (Firefox, Vivaldi, Chrome, Opera, Edge) to redirect URLs based on regex or wildcard patterns.
     *   [Firefox Add-On: Redirector](https://addons.mozilla.org/firefox/addon/redirector/)
     *   [Chrome Extension: Redirector](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd)
 
@@ -519,35 +504,35 @@
 
 ## [42. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [What The Diff](https://whatthediff.ai) - AI-powered code review assistant. The free plan has a limit of 25,000 tokens per month (\~10 PRs).
+*   [What The Diff](https://whatthediff.ai) - AI-powered code review assistant. The free plan has a limit of 25,000 monthly tokens (\~10 PRs).
 
 ### CI and CD
 
-*   [deploybot.com](https://www.deploybot.com/) — 1 repository with 10 deployments, free for Open Source
+*   [deploybot.com](https://www.deploybot.com/) — 1 repository with ten deployments, free for Open Source
 
 ### Font
 
-*   [FontsKey](https://www.fontskey.com/) - Provides free fonts for personal use and commercial paid fonts, and can enter text for quick filtering.
+*   [FontsKey](https://www.fontskey.com/) - Provides free and commercial paid fonts for personal use and can enter text for quick filtering.
 
 ### Miscellaneous
 
-*   [BinShare.net](https://binshare.net) - Create & share code or binaries. Avaliable to share as an beautiful image e.g. for Twitter / Facebook post or as a link e.g for chats or forums.
+*   [BinShare.net](https://binshare.net) - Create & share code or binaries. Available to share as a beautiful image e.g. for Twitter / Facebook post or as a link e.g. for chats or forums.
 
 ### Other Free Resources
 
-*   [AdminMart](https://adminmart.com/) — High Quality Free and Premium Admin Dashboard and Website Templates created with Angular, Bootstrap, React, VueJs, NextJs and NuxtJs!
+*   [AdminMart](https://adminmart.com/) — High-Quality Free and Premium Admin Dashboard and Website Templates created with Angular, Bootstrap, React, VueJs, NextJS, and NuxtJS!
 
 ## [43. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
-*   [vite-vue-lib-template (⭐7)](https://github.com/ehsan-shv/vite-vue-lib-template) - Vue 3, Eslint, Prettier, Conventional Commit, Pre-commit, Lint-staged, Semantic-release, TypeScript.
+*   [vite-vue-lib-template (⭐8)](https://github.com/ehsan-shv/vite-vue-lib-template) - Vue 3, Eslint, Prettier, Conventional Commit, Pre-commit, Lint-staged, Semantic-release, TypeScript.
 
 ### Solid / Integrations
 
-*   [vite-plugin-solid-svg (⭐38)](https://github.com/jfgodoy/vite-plugin-solid-svg) - Import SVG files as Solid.js Components.
+*   [vite-plugin-solid-svg (⭐49)](https://github.com/jfgodoy/vite-plugin-solid-svg) - Import SVG files as Solid.js Components.
 
 ## [44. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/week/README.md)
 
@@ -566,7 +551,7 @@
 
 ### Resources / Tutorials & workshops
 
-*   [Polars: um simples mas prático tutorial](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb) - Tutorial in the format of an ipynb notebook that illustrates several features of Polars in Portuguese by [@barbosarafael](https://github.com/barbosarafael). Associated github repository is [here (⭐37)](https://github.com/barbosarafael/polars_python_test).
+*   [Polars: um simples mas prático tutorial](https://nbviewer.org/github/barbosarafael/polars_python_test/blob/main/01-notebook/01-polars_notebook.ipynb) - Tutorial in the format of an ipynb notebook that illustrates several features of Polars in Portuguese by [@barbosarafael](https://github.com/barbosarafael). Associated github repository is [here (⭐36)](https://github.com/barbosarafael/polars_python_test).
 
 ### Resources / Blog posts
 
@@ -614,34 +599,38 @@
 
 ## [50. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [asdf (⭐5)](https://github.com/zimfw/asdf) - Initializes [asdf (⭐17k)](https://github.com/asdf-vm/asdf), installing it using `git` if not installed yet. Also, bypasses the shims if you're using the [direnv (⭐430)](https://github.com/asdf-community/asdf-direnv) plugin, as suggested by the plugin [pro-tips (⭐430)](https://github.com/asdf-community/asdf-direnv/#pro-tips).
-*   [ask (⭐17)](https://github.com/Michaelwmx/zsh-ask) - Serves as a ChatGPT API frontend, enabling you to interact with ChatGPT directly from the ZSH shell using only `cURL` and `jq`.
-*   [fzf-dir-navigator (⭐25)](https://github.com/KulkarniKaustubh/fzf-dir-navigator) - This is a cool and user-friendly directory navigation plugin for `zsh` using `fzf`.
-*   [lsd (wintermi) (⭐2)](https://github.com/wintermi/zsh-lsd) - Override `ls` and `tree` commands with [lsd (⭐9.8k)](https://github.com/Peltoche/lsd).
-*   [lsd (z-shell) (⭐4)](https://github.com/z-shell/zsh-lsd) - Replaces `ls` with [lsd (⭐9.8k)](https://github.com/Peltoche/lsd).
-*   [penmux (⭐0)](https://github.com/mfulz/zsh-penmux) - A session manager plugin meant to be used for penetration testing sessions and tracking the terminal sessions to be used in reports.
-*   [pins (⭐2)](https://github.com/mehalter/zsh-pins) - ZSH plugin for pinning directories. Like a CLI folder bookmark manager with tab completions.
+*   [fzf-dir-navigator (⭐32)](https://github.com/KulkarniKaustubh/fzf-dir-navigator) - This is a cool and user-friendly directory navigation plugin for `zsh` using `fzf` that allows the user to switch to any directory from anywhere and to anywhere. It also maintains a history of recently visited directories. Additionally, you can use hotkeys to move back and forth between directories in the shell session.
+*   [lsd (wintermi) (⭐2)](https://github.com/wintermi/zsh-lsd) - Override `ls` and `tree` commands with [lsd (⭐11k)](https://github.com/Peltoche/lsd).
+*   [lsd (z-shell) (⭐6)](https://github.com/z-shell/zsh-lsd) - Replaces `ls` with [lsd (⭐11k)](https://github.com/Peltoche/lsd).
+*   [penmux (⭐2)](https://github.com/mfulz/zsh-penmux) - A session manager plugin meant to be used for penetration testing sessions and tracking the terminal sessions to be used in reports.
+*   [pins (⭐1)](https://github.com/mehalter/zsh-pins) - ZSH plugin for pinning directories. Like a CLI folder bookmark manager with tab completions.
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [aofxta (⭐0)](https://github.com/aofxta/aofxta.zsh-theme/) - Includes decorators for last command's execution time, `git` information, current directory and current time.
 *   [avoleo (⭐0)](https://github.com/flameleo11/avoleo-zsh-theme) - Features a date and time prompt for each command, as well as a command number in history. In addition, it uses special symbols '⠾' and '⡶' to display `git` information if applicable in the current path. It also supports custom colors based on the Gnome-Terminal default color palette.
-*   [cybensis (⭐0)](https://github.com/cybensis/cybensis-zsh-theme) - Based on [af-magic (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/af-magic.zsh-theme). Includes decorators for `git` information, `hg` information, and python virtualenv.
-*   [kali-like (⭐1)](https://github.com/clamy54/kali-like-zsh-theme) - Inspired by the Kali Linux default ZSH theme. Includes decorators for user\@host, current directory and `git` information.
-*   [lkdev (⭐2)](https://github.com/lolkekdev/lkdev-CustomZsh) -
-*   [madas (⭐2)](https://github.com/Madasish/madas-zsh-theme) - Inspired by af-magic. Includes decorators for `git` status, user\@host, and whether the last command failed.
-*   [rkj-logik (⭐0)](https://github.com/logik93/rkj-logik.zsh-theme) - Based on omz's [rkj (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/rkj.zsh-theme). Includes decorators for user\@host, current directory, time & date.
+*   [cybensis (⭐0)](https://github.com/cybensis/cybensis-zsh-theme) - Based on [af-magic (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/af-magic.zsh-theme). Includes decorators for `git` information, `hg` information, and python virtualenv.
+*   [kali-like (⭐2)](https://github.com/clamy54/kali-like-zsh-theme) - Inspired by the Kali Linux default ZSH theme. Includes decorators for user\@host, current directory and `git` information.
+*   [madas (⭐1)](https://github.com/Madasish/madas-zsh-theme) - Inspired by af-magic. Includes decorators for `git` status, user\@host, and whether the last command failed.
+*   [rkj-logik (⭐0)](https://github.com/logik93/rkj-logik.zsh-theme) - Based on omz's [rkj (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/rkj.zsh-theme). Includes decorators for user\@host, current directory, time & date.
 *   [userandnode (⭐0)](https://github.com/timhilton/userandnode) - A clean theme with decorators for username, node version, current directory, and `git` info.
 
 ## [51. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Files and Directories / Search
 
-*   [skim (⭐4.2k)](https://github.com/lotabout/skim) - A general fuzzy finder written in rust, similar to fzf.
+*   [skim (⭐4.4k)](https://github.com/lotabout/skim) - A general fuzzy finder written in rust, similar to fzf.
 
-## [52. Awesome Chatgpt](/content/Kamigami55/awesome-chatgpt/week/README.md)
+## [52. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/week/README.md)
+
+### Useful links with tips & tricks
+
+*   [Git And GitHub Course - Master Git And GitHub - GitHub Wiki](https://www.learnvern.com/git-and-github-tutorial/wiki)
+*   [How To Use GitHub Wikis For Collaborative Documentation](https://labs.inn.org/2014/05/19/applying-git-to-github-wikis/)
+
+## [53. Awesome Chatgpt](/content/Kamigami55/awesome-chatgpt/week/README.md)
 
 ### Use ChatGPT Anywhere / Chatbots
 
@@ -655,21 +644,21 @@
 
 *   [Useful ChatGPT Prompts](https://www.explainthis.io/en/chatgpt): A comprehensive list of useful ChatGPT prompts to help you get the most out of ChatGPT.
 
-## [53. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [54. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Web
 
-*   [v-tiktok (⭐6)](https://github.com/walkingdevel/v-tiktok) - A V library for downloading TikTok videos.
+*   [v-tiktok (⭐8)](https://github.com/walkingdevel/v-tiktok) - A V library for downloading TikTok videos.
 
 ### Patterns / IntelliJ & CLion & GoLand etc
 
 *   [MVU.v (⭐5)](https://github.com/ArtemkaKun/MVU.v) - MVU pattern (The Elm Architecture) implemented in V programming language.
 
-## [54. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [55. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Audio
 
-*   [micropython-dfplayer (⭐1)](https://github.com/redoxcode/micropython-dfplayer) - Library to control the DFPlayer mini MP3 player module.
+*   [micropython-dfplayer (⭐3)](https://github.com/redoxcode/micropython-dfplayer) - Library to control the DFPlayer mini MP3 player module.
 
 ### Communications / RC receiver
 
@@ -677,17 +666,17 @@
 
 ### Display / LCD Character
 
-*   [micropython-i2c-lcd (⭐6)](https://github.com/brainelectronics/micropython-i2c-lcd) - MicroPython package to control HD44780 LCD displays 1602 and 2004 via I2C.
+*   [micropython-i2c-lcd (⭐10)](https://github.com/brainelectronics/micropython-i2c-lcd) - MicroPython package to control HD44780 LCD displays 1602 and 2004 via I2C.
 
 ### Motion / Servo
 
-*   [micropython-servo (⭐4)](https://github.com/redoxcode/micropython-servo) - Library to control RC servos using direct PWM output in a tidy way.
+*   [micropython-servo (⭐6)](https://github.com/redoxcode/micropython-servo) - Library to control RC servos using direct PWM output in a tidy way.
 
 ### Motion / Stepper
 
 *   [micropython-stepper (⭐3)](https://github.com/redoxcode/micropython-stepper) - Library to control common stepper drivers in a tidy way.
 
-## [55. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
+## [56. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
 
 ### Music / Text
 
@@ -735,7 +724,7 @@
 *   [Pock (⭐9.9k)](https://github.com/pock/pock) - Display macOS Dock in Touch Bar. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 *   [Touch Emoji (⭐46)](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
-## [56. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [57. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### Dataset / Web
 
@@ -744,36 +733,36 @@
 *   [Hogwarts Legacy Reviews](https://www.kaggle.com/datasets/georgescutelnicu/hogwarts-legacy-reviews) - A list of Hogwarts Legacy reviews.
 *   [Most Played Games of All Time](https://www.kaggle.com/datasets/faisaljanjua0555/most-played-games-of-all-time) - Steam game stats.
 
-## [57. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [58. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Icons
 
-*   [Lucide (⭐4.1k)](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+*   [Lucide (⭐6.3k)](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 
-## [58. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [59. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Backups
 
-*   [Dar](http://dar.linux.free.fr/) - Which stands for Disk ARchive, is a robust and rich featured archiving and backup software of the tar style. ([Source Code (⭐90)](https://github.com/Edrusb/DAR)) `GPL-2.0` `C++`
+*   [Dar](http://dar.linux.free.fr/) - Which stands for Disk ARchive, is a robust and rich featured archiving and backup software of the tar style. ([Source Code (⭐111)](https://github.com/Edrusb/DAR)) `GPL-2.0` `C++`
 
 ### Software / Identity Management - Single Sign-On (SSO)
 
-*   [Authelia](https://www.authelia.com/) - The Single Sign-On Multi-Factor portal for web apps. ([Source Code (⭐16k)](https://github.com/authelia/authelia)) `Apache-2.0` `Go`
+*   [Authelia](https://www.authelia.com/) - The Single Sign-On Multi-Factor portal for web apps. ([Source Code (⭐17k)](https://github.com/authelia/authelia)) `Apache-2.0` `Go`
 
 ### Software / Monitoring
 
-*   [Status (⭐13)](https://github.com/dani3l0/Status) - Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. ([Demo](https://status-ksk5.onrender.com/)) `MIT` `Python`
+*   [Status (⭐38)](https://github.com/dani3l0/Status) - Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. ([Demo](https://status-ksk5.onrender.com/)) `MIT` `Python`
 
 ### Software / Software Containers
 
-*   [Podman](https://podman.io) - Daemonless container engine for developing, managing, and running OCI Containers on your Linux System. Containers can either be run as root or in rootless mode. Simply put: `alias docker=podman`. ([Source Code (⭐18k)](https://github.com/containers/podman)) `Apache-2.0` `Go`
-*   [systemd-nspawn](https://www.freedesktop.org/software/systemd/man/systemd-nspawn.html) - Lightweight, chroot-like, environment to run an OS or command directly under systemd. ([Source Code (⭐11k)](https://github.com/systemd/systemd)) `GPL-2.0` `C`
+*   [Podman](https://podman.io) - Daemonless container engine for developing, managing, and running OCI Containers on your Linux System. Containers can either be run as root or in rootless mode. Simply put: `alias docker=podman`. ([Source Code (⭐19k)](https://github.com/containers/podman)) `Apache-2.0` `Go`
+*   [systemd-nspawn](https://www.freedesktop.org/software/systemd/man/systemd-nspawn.html) - Lightweight, chroot-like, environment to run an OS or command directly under systemd. ([Source Code (⭐12k)](https://github.com/systemd/systemd)) `GPL-2.0` `C`
 
 ### Software / VPN
 
-*   [PiVPN](https://www.pivpn.io/) - The simplest way to setup and manage a VPN, designed for Raspberry Pi. ([Source Code (⭐6.1k)](https://github.com/pivpn/pivpn)) `MIT` `Shell`
+*   [PiVPN](https://www.pivpn.io/) - The simplest way to setup and manage a VPN, designed for Raspberry Pi. ([Source Code (⭐6.4k)](https://github.com/pivpn/pivpn)) `MIT` `Shell`
 
-## [59. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [60. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Documentation
 

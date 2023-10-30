@@ -60,7 +60,7 @@
 
 ### Algorithms and Data structures
 
-*   [exconstructor (⭐268)](https://github.com/appcues/exconstructor) - An Elixir library for generating struct constructors that handle external data with ease.
+*   [exconstructor (⭐274)](https://github.com/appcues/exconstructor) - An Elixir library for generating struct constructors that handle external data with ease.
 
 ---
 

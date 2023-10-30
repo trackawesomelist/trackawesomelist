@@ -38,7 +38,7 @@
 
 ### Machine Learning and Data Science
 
-*   [Spreads (⭐397)](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams. Spreads library is optimized for performance and memory usage. It is several times faster than other open source projects.
+*   [Spreads (⭐401)](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams. Spreads library is optimized for performance and memory usage. It is several times faster than other open source projects.
 
 ## [6. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 

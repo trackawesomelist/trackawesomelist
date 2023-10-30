@@ -10,7 +10,7 @@
 
 ### Data Visualization
 
-*   [Ruby/GraphViz (⭐603)](https://github.com/glejeune/Ruby-Graphviz) - Ruby interface to the GraphViz graphing tool.
+*   [Ruby/GraphViz (⭐605)](https://github.com/glejeune/Ruby-Graphviz) - Ruby interface to the GraphViz graphing tool.
 
 ## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

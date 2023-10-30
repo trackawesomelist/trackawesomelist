@@ -16,11 +16,11 @@
 
 ### Chatting
 
-*   [ExMustang (⭐69)](https://github.com/techgaun/ex_mustang) - A simple, clueless slackbot and collection of responders.
+*   [ExMustang (⭐68)](https://github.com/techgaun/ex_mustang) - A simple, clueless slackbot and collection of responders.
 
 ### Date and Time
 
-*   [crontab (⭐83)](https://github.com/jshmrtn/crontab) - A Cron Expressions Parser, Composer & Date Candidate Finder.
+*   [crontab (⭐86)](https://github.com/jshmrtn/crontab) - A Cron Expressions Parser, Composer & Date Candidate Finder.
 
 ### Testing
 

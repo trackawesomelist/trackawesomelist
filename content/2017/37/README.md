@@ -16,9 +16,9 @@
 
 ### Helpers
 
-*   [Alfy (⭐2.5k)](https://github.com/sindresorhus/alfy) - Node.js library to create Alfred workflows with ease.
-*   [AwGo (⭐829)](https://github.com/deanishe/awgo) - Full-featured library for Go to build lightning-fast workflows in a jiffy.
-*   [Fuzzy Search (⭐88)](https://github.com/deanishe/alfred-fuzzy) - Add fuzzy search to any Script Filter.
+*   [Alfy (⭐2.6k)](https://github.com/sindresorhus/alfy) - Node.js library to create Alfred workflows with ease.
+*   [AwGo (⭐838)](https://github.com/deanishe/awgo) - Full-featured library for Go to build lightning-fast workflows in a jiffy.
+*   [Fuzzy Search (⭐89)](https://github.com/deanishe/alfred-fuzzy) - Add fuzzy search to any Script Filter.
 
 ## [3. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
@@ -31,20 +31,20 @@
 
 ### Scripts / GitHub
 
-*   [GitHub Commit Whitespace (⭐307)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Whitespace#readme) - Adds button to hide whitespace diffs from commits.
-*   [GitHub Image Viewer (⭐307)](https://github.com/jerone/UserScripts/tree/master/Github_Image_Viewer#readme) - Preview images from within the file listing.
-*   [GitHub User Info (⭐307)](https://github.com/jerone/UserScripts/tree/master/Github_User_Info#readme) - Show user information on avatar hover.
-*   [Github Commit Diff (⭐307)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - Adds button to show diff (or patch) file for commit.
-*   [Github News Feed Filter (⭐307)](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter#readme) - Add filters for Github homepage news feed items.
-*   [Github Pages Linker (⭐307)](https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme) - Add a link to Github Pages (gh-pages) when available.
-*   [Github Pull Request From Link (⭐307)](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - Make pull request branches linkable.
-*   [Github Reply Comments (⭐307)](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
+*   [GitHub Commit Whitespace (⭐316)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Whitespace#readme) - Adds button to hide whitespace diffs from commits.
+*   [GitHub Image Viewer (⭐316)](https://github.com/jerone/UserScripts/tree/master/Github_Image_Viewer#readme) - Preview images from within the file listing.
+*   [GitHub User Info (⭐316)](https://github.com/jerone/UserScripts/tree/master/Github_User_Info#readme) - Show user information on avatar hover.
+*   [Github Commit Diff (⭐316)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - Adds button to show diff (or patch) file for commit.
+*   [Github News Feed Filter (⭐316)](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter#readme) - Add filters for Github homepage news feed items.
+*   [Github Pages Linker (⭐316)](https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme) - Add a link to Github Pages (gh-pages) when available.
+*   [Github Pull Request From Link (⭐316)](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - Make pull request branches linkable.
+*   [Github Reply Comments (⭐316)](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
 
 ## [5. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tools / Other
 
-*   [Habu (⭐765)](https://github.com/portantier/habu) - Python Network Hacking Toolkit
+*   [Habu (⭐818)](https://github.com/portantier/habu) - Python Network Hacking Toolkit
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -124,7 +124,7 @@ Webpage: <http://tartine.pt/>
 
 ### Miscellaneous / Symfony2
 
-*   [swagger-codegen (⭐15k)](https://github.com/swagger-api/swagger-codegen) - Auto generation of client libraries or server stubs given an OpenAPI specification (formerly known as the Swagger Specification).
+*   [swagger-codegen (⭐16k)](https://github.com/swagger-api/swagger-codegen) - Auto generation of client libraries or server stubs given an OpenAPI specification (formerly known as the Swagger Specification).
 
 ## [13. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
@@ -142,7 +142,7 @@ Webpage: <http://tartine.pt/>
 
 ### Machine Learning
 
-*   [crystal-fann (⭐82)](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artifical Neural Network) binding
+*   [crystal-fann (⭐79)](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artifical Neural Network) binding
 
 ### Web Frameworks
 
@@ -152,23 +152,23 @@ Webpage: <http://tartine.pt/>
 
 ### CLI
 
-*   [PDCurses (⭐882)](https://github.com/wmcbrine/PDCurses) - Public domain curses library with both source code and pre-compiled library available. \[PublicDomain]
+*   [PDCurses (⭐920)](https://github.com/wmcbrine/PDCurses) - Public domain curses library with both source code and pre-compiled library available. \[PublicDomain]
 
 ### Debug
 
-*   [utest.h (⭐636)](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++. \[Unlicense]
+*   [utest.h (⭐687)](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++. \[Unlicense]
 
 ### Internationalization
 
-*   [utf8.h (⭐1.4k)](https://github.com/sheredom/utf8.h) - Single header utf8 string functions for C and C++. \[Unlicense]
+*   [utf8.h (⭐1.5k)](https://github.com/sheredom/utf8.h) - Single header utf8 string functions for C and C++. \[Unlicense]
 
 ### JSON
 
-*   [json.h (⭐581)](https://github.com/sheredom/json.h) - A simple one header/one source solution to parsing JSON in C and C++. \[Unlicense]
+*   [json.h (⭐630)](https://github.com/sheredom/json.h) - A simple one header/one source solution to parsing JSON in C and C++. \[Unlicense]
 
 ### Networking
 
-*   [curlcpp (⭐574)](https://github.com/JosephP91/curlcpp) - An object oriented C++ wrapper for CURL(libcurl). \[MIT]
+*   [curlcpp (⭐591)](https://github.com/JosephP91/curlcpp) - An object oriented C++ wrapper for CURL(libcurl). \[MIT]
 *   [wdt (⭐2.8k)](https://github.com/facebook/wdt) - An embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths. \[BSD-3-Clause]
 
 ## [17. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
@@ -224,7 +224,7 @@ Webpage: <http://tartine.pt/>
 
 ### Apps / Misc
 
-*   [Wagtail Condensed Inline Panel (⭐86)](https://github.com/wagtail/wagtail-condensedinlinepanel) - Drop-in replacement for Wagtail's InlinePanel suited for large number of inlines (collapsible with drag and drop support).
+*   [Wagtail Condensed Inline Panel (⭐85)](https://github.com/wagtail/wagtail-condensedinlinepanel) - Drop-in replacement for Wagtail's InlinePanel suited for large number of inlines (collapsible with drag and drop support).
 
 ## [25. Awesome Sdn](/content/sdnds-tw/awesome-sdn/week/README.md)
 
@@ -236,18 +236,18 @@ Webpage: <http://tartine.pt/>
 
 ### Audio Related Packages / Read-Write
 
-*   [mutagen](https://mutagen.readthedocs.io/) [:octocat: (⭐1.2k)](https://github.com/quodlibet/mutagen) [:package:](https://pypi.python.org/pypi/mutagen) - Reads and writes all kind of audio metadata for various formats.
+*   [mutagen](https://mutagen.readthedocs.io/) [:octocat: (⭐1.3k)](https://github.com/quodlibet/mutagen) [:package:](https://pypi.python.org/pypi/mutagen) - Reads and writes all kind of audio metadata for various formats.
 
 ### Audio Related Packages / Feature extraction
 
-*   [speechpy (⭐872)](https://github.com/astorfi/speechpy) [:octocat: (⭐872)](https://github.com/astorfi/speechpy) [:package:](https://pypi.python.org/pypi/speechpy) - Library for Speech Processing and Recognition, mostly feature extraction for now.
+*   [speechpy (⭐879)](https://github.com/astorfi/speechpy) [:octocat: (⭐879)](https://github.com/astorfi/speechpy) [:package:](https://pypi.python.org/pypi/speechpy) - Library for Speech Processing and Recognition, mostly feature extraction for now.
 
 ## [27. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Icons / Homogeneous Icons
 
-*   [Numix Circle (⭐838)](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
-*   [Numix Square (⭐151)](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme.
+*   [Numix Circle (⭐846)](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
+*   [Numix Square (⭐154)](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme.
 
 ## [28. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
@@ -262,11 +262,6 @@ Webpage: <http://tartine.pt/>
 *   [Alleba (Philippines)](http://www.alleba.com) - Philippines search engine
 *   [Baidu (China)](http://www.baidu.com) - The major search engine used in China
 
-### Visual Search and Clustering Search Engines
-
-*   [Carrot2](http://search.carrot2.org) - Organizes your search results into topics.
-*   [Yippy](http://yippy.com) - Search using multiple sources at once
-
 ## [30. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Official Examples
@@ -279,8 +274,8 @@ Webpage: <http://tartine.pt/>
 
 ### Components & Libraries / UI Components
 
-*   [@hscmap/vue-window (⭐294)](https://github.com/michitaro/vue-window) - Window UI Component for vue2.
-*   [vue-gallery (⭐440)](https://github.com/RobinCK/vue-gallery) - VueJS responsive and customizable image and video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers. Based on blueimp-gallery
+*   [@hscmap/vue-window (⭐295)](https://github.com/michitaro/vue-window) - Window UI Component for vue2.
+*   [vue-gallery (⭐457)](https://github.com/RobinCK/vue-gallery) - VueJS responsive and customizable image and video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers. Based on blueimp-gallery
 
 ## [31. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
@@ -328,20 +323,20 @@ Webpage: <http://tartine.pt/>
 
 ### Build Automation
 
-*   [Nuke (⭐1.9k)](https://github.com/nuke-build/nuke) - Cross-platform build automation system
+*   [Nuke (⭐2.1k)](https://github.com/nuke-build/nuke) - Cross-platform build automation system
 
 ### Event aggregator and messenger
 
 *   [Rx Event Aggregator](https://mikebridge.github.io/articles/csharp-domain-event-aggregator/) - Super-simple Reactive-Extension code from Reactive.EventAggregator
-*   [TinyMessenger (⭐270)](https://github.com/grumpydev/TinyMessenger) - A lightweight event aggregator/messenger for loosely coupled communication.
+*   [TinyMessenger (⭐278)](https://github.com/grumpydev/TinyMessenger) - A lightweight event aggregator/messenger for loosely coupled communication.
 
 ### Image Processing
 
-*   [OpenCvSharp (⭐4.6k)](https://github.com/shimat/opencvsharp/) - Cross platform wrapper of OpenCV for .NET Framework.
+*   [OpenCvSharp (⭐4.8k)](https://github.com/shimat/opencvsharp/) - Cross platform wrapper of OpenCV for .NET Framework.
 
 ### IoC
 
-*   [TinyIoC (⭐814)](https://github.com/grumpydev/TinyIoC) - An easy to use, hassle free, Inversion of Control Container for small projects, libraries and beginners alike.
+*   [TinyIoC (⭐822)](https://github.com/grumpydev/TinyIoC) - An easy to use, hassle free, Inversion of Control Container for small projects, libraries and beginners alike.
 
 ### Logging
 
@@ -349,44 +344,44 @@ Webpage: <http://tartine.pt/>
 
 ### Misc
 
-*   [HidLibrary (⭐519)](https://github.com/mikeobrien/HidLibrary) - This library enables you to enumerate and communicate with Hid compatible USB devices in .NET.
+*   [HidLibrary (⭐542)](https://github.com/mikeobrien/HidLibrary) - This library enables you to enumerate and communicate with Hid compatible USB devices in .NET.
 
 ### MVVM
 
-*   [MVVM Dialogs (⭐538)](https://github.com/FantasticFiasco/mvvm-dialogs) - Framework simplifying the concept of opening dialogs from a view model when using MVVM in WPF or UWP.
+*   [MVVM Dialogs (⭐576)](https://github.com/FantasticFiasco/mvvm-dialogs) - Framework simplifying the concept of opening dialogs from a view model when using MVVM in WPF or UWP.
 
 ### Office
 
-*   [ExcelDataReader (⭐3.5k)](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files (2.0-2007).
+*   [ExcelDataReader (⭐3.6k)](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files (2.0-2007).
 
 ### PDF
 
-*   [PdfiumViewer (⭐861)](https://github.com/pvginkel/PdfiumViewer) - PdfiumViewer is a PDF viewer based on the PDFium project.
+*   [PdfiumViewer (⭐897)](https://github.com/pvginkel/PdfiumViewer) - PdfiumViewer is a PDF viewer based on the PDFium project.
 
 ## [37. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
-*   [CondenserDotNet (⭐160)](https://github.com/Drawaes/CondenserDotNet) - API Condenser / Reverse Proxy using Kestrel and Consul, Including light weight consul library.
-*   [JSON API .NET Core (⭐589)](https://github.com/Research-Institute/json-api-dotnet-core) - Framework for building json:api compliant APIs with the goal of eliminating RESTful boilerplate.
+*   [CondenserDotNet (⭐167)](https://github.com/Drawaes/CondenserDotNet) - API Condenser / Reverse Proxy using Kestrel and Consul, Including light weight consul library.
+*   [JSON API .NET Core (⭐629)](https://github.com/Research-Institute/json-api-dotnet-core) - Framework for building json:api compliant APIs with the goal of eliminating RESTful boilerplate.
 
 ### Frameworks, Libraries and Tools / Blockchain
 
-*   [NBitcoin (⭐1.7k)](https://github.com/MetacoSA/NBitcoin) - Comprehensive Bitcoin library for the .NET framework.
+*   [NBitcoin (⭐1.8k)](https://github.com/MetacoSA/NBitcoin) - Comprehensive Bitcoin library for the .NET framework.
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [Blogifier.Core (⭐1.1k)](https://github.com/blogifierdotnet/Blogifier.Core) - ASP.NET applications to provide common blogging functionality.
+*   [Blogifier.Core (⭐1.2k)](https://github.com/blogifierdotnet/Blogifier.Core) - ASP.NET applications to provide common blogging functionality.
 
 ### Frameworks, Libraries and Tools / Functional Programming
 
-*   [Giraffe (⭐1.8k)](https://github.com/dustinmoris/Giraffe) - A native functional ASP.NET Core web framework for F# developers.
+*   [Giraffe (⭐2k)](https://github.com/dustinmoris/Giraffe) - A native functional ASP.NET Core web framework for F# developers.
 
 ## [38. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Swift / General-Purpose Machine Learning
 
-*   [Awesome Core ML Models (⭐5.8k)](https://github.com/likedan/Awesome-CoreML-Models) - A curated list of machine learning models in CoreML format.
+*   [Awesome Core ML Models (⭐5.9k)](https://github.com/likedan/Awesome-CoreML-Models) - A curated list of machine learning models in CoreML format.
 
 ## [39. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 

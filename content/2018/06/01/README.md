@@ -36,14 +36,14 @@
 
 ### ASM / Boilerplates and libraries
 
-*   [rgbds-template (⭐36)](https://github.com/nezticle/rgbds-template) - Basic hello-world example for Game Boy using RGBDS.
+*   [rgbds-template (⭐38)](https://github.com/nezticle/rgbds-template) - Basic hello-world example for Game Boy using RGBDS.
 *   [Game Boy Assembly Language Primer](http://www.devrs.com/gb/files/galp.zip) - Simple template code with memory defines, copy routines and IBM font tilemap.
-*   [bootstrap.gb (⭐30)](https://github.com/yenatch/bootstrap.gb) - An example Game Boy project.
-*   [Gameboy Boilerplate (⭐26)](https://github.com/junebug12851/GameboyBoilerplateProj) - Boilerplate project to move quicker into the actual assembly code for your game.
+*   [bootstrap.gb (⭐31)](https://github.com/yenatch/bootstrap.gb) - An example Game Boy project.
+*   [Gameboy Boilerplate (⭐28)](https://github.com/junebug12851/GameboyBoilerplateProj) - Boilerplate project to move quicker into the actual assembly code for your game.
 
 ### C / Syntax highlighting packages
 
-*   [Simplified GBDK examples (⭐157)](https://github.com/mrombout/gbdk_playground)
+*   [Simplified GBDK examples (⭐169)](https://github.com/mrombout/gbdk_playground)
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -60,12 +60,12 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [Carter (⭐1.5k)](https://github.com/CarterCommunity/Carter) - Carter is a library that allows Nancy-esque routing for use with ASP.Net Core.
-*   [Chromely (⭐2.9k)](https://github.com/mattkol/Chromely) - Lightweight Alternative to Electron.NET, Electron for .NET/.NET Core.
+*   [Carter (⭐1.9k)](https://github.com/CarterCommunity/Carter) - Carter is a library that allows Nancy-esque routing for use with ASP.Net Core.
+*   [Chromely (⭐3k)](https://github.com/mattkol/Chromely) - Lightweight Alternative to Electron.NET, Electron for .NET/.NET Core.
 
 ### Frameworks, Libraries and Tools / Template Engine
 
-*   [Portable.Xaml (⭐152)](https://github.com/cwensley/Portable.Xaml) - Portable .NET library for reading/writing xaml files.
+*   [Portable.Xaml (⭐151)](https://github.com/cwensley/Portable.Xaml) - Portable .NET library for reading/writing xaml files.
 
 ---
 

@@ -28,11 +28,11 @@
 
 ### QA Tools / Runner
 
-*   [husky (⭐29k)](https://github.com/typicode/husky) - Prevents bad git commit, git push and more.
+*   [husky (⭐30k)](https://github.com/typicode/husky) - Prevents bad git commit, git push and more.
 
 ### Modals and Popups / Other
 
-*   [keukenhof (⭐17)](https://github.com/Alexandrshy/keukenhof) - Lightweight, no dependencies, accessibility enabled TypeScript library for creating modal windows.
+*   [keukenhof (⭐18)](https://github.com/Alexandrshy/keukenhof) - Lightweight, no dependencies, accessibility enabled TypeScript library for creating modal windows.
 
 ## [5. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Software / Feed Readers
 
-*   [reader (⭐295)](https://github.com/lemon24/reader) - A Python feed reader web app and library (so you can use it to build your own), with only standard library and pure-Python dependencies. `BSD-3-Clause` `Python`
+*   [reader (⭐366)](https://github.com/lemon24/reader) - A Python feed reader web app and library (so you can use it to build your own), with only standard library and pure-Python dependencies. `BSD-3-Clause` `Python`
 
 ## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

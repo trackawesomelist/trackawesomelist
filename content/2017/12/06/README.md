@@ -28,7 +28,7 @@
 
 ### Community / Interfaces to other package managers
 
-*   [antik](https://www.common-lisp.net/project/antik/) -  a foundation for scientific and engineering computation in Common Lisp. GPL. Also [mgl-mat (⭐62)](https://github.com/melisgl/mgl-mat) and [LLA (⭐86)](https://github.com/tpapp/lla).
+*   [antik](https://www.common-lisp.net/project/antik/) -  a foundation for scientific and engineering computation in Common Lisp. GPL. Also [mgl-mat (⭐65)](https://github.com/melisgl/mgl-mat) and [LLA (⭐87)](https://github.com/tpapp/lla).
 
 ## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -41,11 +41,11 @@
 
 ### Modules / Array
 
-*   [group-array (⭐52)](https://github.com/doowb/group-array) - Group array of objects into lists.
+*   [group-array (⭐54)](https://github.com/doowb/group-array) - Group array of objects into lists.
 
 ### Modules / Date & Time
 
-*   [time-stamp (⭐110)](https://github.com/jonschlinkert/time-stamp) - Get a formatted timestamp.
+*   [time-stamp (⭐112)](https://github.com/jonschlinkert/time-stamp) - Get a formatted timestamp.
 
 ## [7. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 

@@ -17,15 +17,15 @@
 ### JupyterLab Extensions
 
 *   [celltags (⭐112)](https://github.com/jupyterlab/jupyterlab-celltags) - Extension to organise and execute notebooks using cell tags.
-*   [google-drive (⭐386)](https://github.com/jupyterlab/jupyterlab-google-drive) - Extension for Google Drive integration.
-*   [toc (⭐727)](https://github.com/jupyterlab/jupyterlab-toc) - Extension that provides a table of contents for notebooks.
-*   [voyager (⭐287)](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
+*   [google-drive (⭐394)](https://github.com/jupyterlab/jupyterlab-google-drive) - Extension for Google Drive integration.
+*   [toc (⭐726)](https://github.com/jupyterlab/jupyterlab-toc) - Extension that provides a table of contents for notebooks.
+*   [voyager (⭐291)](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
 
 ## [3. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### System and Customization
 
-*   [Dynamic Wallpaper Editor (⭐194)](https://github.com/maoschanz/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers
+*   [Dynamic Wallpaper Editor (⭐201)](https://github.com/maoschanz/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers
 
 ## [4. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Swift / General-Purpose Machine Learning
 
-*   [PredictionBuilder (⭐12)](https://github.com/denissimon/prediction-builder-swift) - A library for machine learning that builds predictions using a linear regression.
+*   [PredictionBuilder (⭐11)](https://github.com/denissimon/prediction-builder-swift) - A library for machine learning that builds predictions using a linear regression.
 
 ## [6. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
@@ -92,19 +92,19 @@
 
 ### Frameworks, Libraries and Tools / Security
 
-*   [Jwt.Net (⭐1.9k)](https://github.com/jwt-dotnet/jwt) - Jwt.Net, a JWT (JSON Web Token) implementation for .NET.
+*   [Jwt.Net (⭐2k)](https://github.com/jwt-dotnet/jwt) - Jwt.Net, a JWT (JSON Web Token) implementation for .NET.
 
 ## [14. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Automation / Code libraries and bindings
 
-*   [python-dshield (⭐21)](https://github.com/rshipp/python-dshield) - Pythonic interface to the Internet Storm Center/DShield API.
-*   [python-sandboxapi (⭐121)](https://github.com/InQuest/python-sandboxapi) - Minimal, consistent Python API for building integrations with malware sandboxes.
-*   [python-stix2 (⭐299)](https://github.com/oasis-open/cti-python-stix2) - Python APIs for serializing and de-serializing Structured Threat Information eXpression (STIX) JSON content, plus higher-level APIs for common tasks.
+*   [python-dshield (⭐22)](https://github.com/rshipp/python-dshield) - Pythonic interface to the Internet Storm Center/DShield API.
+*   [python-sandboxapi (⭐124)](https://github.com/InQuest/python-sandboxapi) - Minimal, consistent Python API for building integrations with malware sandboxes.
+*   [python-stix2 (⭐317)](https://github.com/oasis-open/cti-python-stix2) - Python APIs for serializing and de-serializing Structured Threat Information eXpression (STIX) JSON content, plus higher-level APIs for common tasks.
 
 ### Threat intelligence / Threat hunting
 
-*   [ThreatIngestor (⭐652)](https://github.com/InQuest/ThreatIngestor) - Extendable tool to extract and aggregate IOCs from threat feeds including Twitter, RSS feeds, or other sources.
+*   [ThreatIngestor (⭐709)](https://github.com/InQuest/ThreatIngestor) - Extendable tool to extract and aggregate IOCs from threat feeds including Twitter, RSS feeds, or other sources.
 
 ## [15. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

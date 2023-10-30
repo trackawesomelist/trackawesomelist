@@ -1,35 +1,35 @@
 # Awesome List Updates on Aug 29, 2023
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome V](/content/vlang/awesome-v/README.md)
+## [1. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
+
+### Text / Developer tools
+
+*   [Prediction Guard](https://www.predictionguard.com/) - Seamlessly integrate private, controlled, and compliant Large Language Models (LLM) functionality.
+
+## [2. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Interpreters/Compilers
 
-*   [cotowali (⭐576)](https://github.com/cotowali/cotowali) - A statically typed scripting language that transpiles into POSIX sh.
+*   [cotowali (⭐583)](https://github.com/cotowali/cotowali) - A statically typed scripting language that transpiles into POSIX sh.
 
 ### Utilities
 
-*   [emoji-mart-desktop (⭐7)](https://github.com/ttytm/emoji-mart-desktop) - An emoji picker created with V, webview and SvelteKit.
+*   [emoji-mart-desktop (⭐9)](https://github.com/ttytm/emoji-mart-desktop) - An emoji picker created with V, webview and SvelteKit.
 
 ### User Interface toolkits
 
-*   [V-WebUI (⭐64)](https://github.com/webui-dev/v-webui) - A wrapper for WebUI. A lightweight library that allows you to use any web browser as a GUI, with V in the backend and HTML5 in the frontend.
-*   [webview (⭐25)](https://github.com/ttytm/webview) - Bindings for webview. A tiny library to build modern cross-platform GUI applications. It allows to combine V with modern web technologies to design a graphical user interface.
+*   [V-WebUI (⭐79)](https://github.com/webui-dev/v-webui) - A wrapper for WebUI. A lightweight library that allows you to use any web browser as a GUI, with V in the backend and HTML5 in the frontend.
+*   [webview (⭐32)](https://github.com/ttytm/webview) - Bindings for webview. A tiny library to build modern cross-platform GUI applications. It allows to combine V with modern web technologies to design a graphical user interface.
 
 ### Online IDEs with V / IntelliJ & CLion & GoLand etc
 
 *   [VOSCA V Playground](https://play.vosca.dev)
-
-## [2. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
-
-### Resources / Protocols
-
-*   [OpenMessaging (⭐282)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
 
 ## [3. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Software / Communication - Video Conferencing
 
-*   [Janus](https://janus.conf.meetecho.com/) - General-purpose, lightweight, minimalist WebRTC Server. ([Demo](https://janus.conf.meetecho.com/demos.html), [Source Code (⭐7.3k)](https://github.com/meetecho/janus-gateway)) `GPL-3.0` `C`
+*   [Janus](https://janus.conf.meetecho.com/) - General-purpose, lightweight, minimalist WebRTC Server. ([Demo](https://janus.conf.meetecho.com/demos.html), [Source Code (⭐7.4k)](https://github.com/meetecho/janus-gateway)) `GPL-3.0` `C`
 
 ### Software / Feed Readers
 
@@ -52,13 +52,13 @@
 
 ### CMS
 
-*   [TinaCMS](https://tina.io/) — Replacing Forestry.io. Open source Git-backed headless CMS that supports Markdown, MDX and JSON. Basic offer is free with two users available.
+*   [TinaCMS](https://tina.io/) — Replacing Forestry.io. Open source Git-backed headless CMS that supports Markdown, MDX, and JSON. The basic offer is free with two users available.
 
 ## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vanilla
 
-*   [vite-vanilla-js-template (⭐0)](https://github.com/Barata-Ribeiro/vite-vanilla-js-template) - Starter template ESlint, Prettier, PostCSS, Nesting, Autoprefixer, CSS Nano, CSS Reset.
+*   [vite-vanilla-js-template (⭐4)](https://github.com/Barata-Ribeiro/vite-vanilla-js-template) - Starter template ESlint, Prettier, PostCSS, Nesting, Autoprefixer, CSS Nano, CSS Reset.
 
 ## [7. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Note Taking / Diagnostics
 
-*   [IlyasYOY/obs.nvim (⭐15)](https://github.com/IlyasYOY/obs.nvim) - Your Obsidian notes at the speed of thought.
+*   [IlyasYOY/obs.nvim (⭐37)](https://github.com/IlyasYOY/obs.nvim) - Your Obsidian notes at the speed of thought.
 
 ## [9. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
 
@@ -128,7 +128,7 @@
 
 - Name: The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living
 
-  Author: Ryan Holding, Stephan Hanselman
+  Author: Ryan Holiday, Stephan Hanselman
 
   Goodreads Rating: [4.34](https://www.goodreads.com/book/show/29093292-the-daily-stoic)
 
@@ -328,79 +328,7 @@
 
 
 
-## [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Libraries/Frameworks / Logging
-
-*   [Foso/Cabret-Log (⭐192)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
-
-### Libraries/Frameworks / Mail
-
-*   [bluefireoly/SimpleKotlinMail (⭐56)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
-
-### Projects / Web
-
-*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
-
-### Projects / Build tools
-
-*   [gradle/kotlin-dsl-samples (⭐3.7k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
-*   [nebula-plugins/nebula-kotlin-plugin (⭐57)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
-
-### Projects / Misc
-
-*   [kpspemu/kpspemu (⭐68)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
-*   [chrislo27/RhythmHeavenRemixEditor (⭐418)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
-
-### Projects / Desktop
-
-*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
-
-### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
-
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐185)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-
-### Android / Projects
-
-*   [hanjoongcho/aaf-easyphotomap (⭐40)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
-*   [mustafaberkaymutlu/uv-index (⭐66)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
-*   [hanjoongcho/aaf-easypassword (⭐33)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
-
-### Android / Extensions
-
-*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
-
-### Android / Tests
-
-*   [agoda-com/Kakao (⭐1.1k)](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
-
-### Kotlin JavaScript / JavaScript
-
-*   [pixijs/pixi-native (⭐85)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
-*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
-*   [Foso/MpApt (⭐238)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
-
-### Kotlin JavaScript / Build Tools
-
-*   [Kotlin/kotlin-frontend-plugin (⭐566)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
-
-### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐322)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-### Kotlin Native / Projects
-
-*   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
-
-## [13. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Discussions and Philosophy / Critical Views about Generative AI
 
@@ -408,9 +336,9 @@
 
 ### Inbox: Speech-to-text (STT) and spoken content analysis / Generative Adversarial Networks (GANs)
 
-*   [facebookresearch/seamless\_communication (⭐4.1k)](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
+*   [facebookresearch/seamless\_communication (⭐5.7k)](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
 
-## [14. Awesome Construct](/content/ConstructCommunity/awesome-construct/README.md)
+## [13. Awesome Construct](/content/ConstructCommunity/awesome-construct/README.md)
 
 ### Export
 
@@ -418,4 +346,5 @@
 
 ---
 
+- Prev: [Aug 30, 2023](/content/2023/08/30/README.md)
 - Next: [Aug 28, 2023](/content/2023/08/28/README.md)

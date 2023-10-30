@@ -16,7 +16,7 @@
 
 ### Contents / Tools
 
-*   [P8Coder (⭐89)](https://github.com/movAX13h/P8Coder) - A programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
+*   [P8Coder (⭐94)](https://github.com/movAX13h/P8Coder) - A programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
 
 ## [3. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Querying / Symfony2
 
-*   [rest-assured (⭐6.2k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
+*   [rest-assured (⭐6.5k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
 
 ## [6. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
@@ -78,7 +78,7 @@
 
 *   [Algorithms](http://algs4.cs.princeton.edu/home/) - Problems explained with Java, OO good practices, visualizations, and free online resources.
 *   [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) - The basic concepts and usages of data structures.
-*   [Elementary Algorithms (⭐5.6k)](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
+*   [Elementary Algorithms (⭐5.8k)](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
 *   [Grokking Algorithms](http://www.manning.com/bhargava) - An illustrated book on algorithms with practical examples.
 *   [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms) - Essential!
 *   [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - The Book.
@@ -100,7 +100,7 @@
 
 ### Database
 
-*   [LevelDB (⭐33k)](https://github.com/google/leveldb) - A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. \[BSD]
+*   [LevelDB (⭐34k)](https://github.com/google/leveldb) - A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. \[BSD]
 
 ## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -120,27 +120,27 @@
 
 ### Frameworks
 
-*   [kitto (⭐952)](https://github.com/kittoframework/kitto) - A framework for interactive dashboards.
+*   [kitto (⭐950)](https://github.com/kittoframework/kitto) - A framework for interactive dashboards.
 
 ### Instrumenting / Monitoring
 
-*   [appsignal-elixir (⭐249)](https://github.com/appsignal/appsignal-elixir/) - Collects error and performance data from your Elixir applications and sends it to [AppSignal](https://appsignal.com/).
-*   [prometheus-phoenix (⭐66)](https://github.com/deadtrickster/prometheus-phoenix) - Phoenix instrumenter for prometheus.ex.
+*   [appsignal-elixir (⭐262)](https://github.com/appsignal/appsignal-elixir/) - Collects error and performance data from your Elixir applications and sends it to [AppSignal](https://appsignal.com/).
+*   [prometheus-phoenix (⭐67)](https://github.com/deadtrickster/prometheus-phoenix) - Phoenix instrumenter for prometheus.ex.
 *   [prometheus\_process\_collector (⭐47)](https://github.com/deadtrickster/prometheus_process_collector) - Prometheus collector which exports the current state of process metrics including cpu, memory, file descriptor usage and native threads count as well as the process start and up times.
 
 ### Macros
 
-*   [pit (⭐27)](https://github.com/vic/pit) - Transform values as they flow inside a pipe.
+*   [pit (⭐29)](https://github.com/vic/pit) - Transform values as they flow inside a pipe.
 
 ### Third Party APIs
 
-*   [darkskyx (⭐13)](https://github.com/techgaun/darkskyx) - A Darksky.com (formerly forecast.io) API client for Elixir.
-*   [elixirfm (⭐8)](https://github.com/jrichocean/Elixirfm) - Last.fm API wrapper for Elixir.
+*   [darkskyx (⭐14)](https://github.com/techgaun/darkskyx) - A Darksky.com (formerly forecast.io) API client for Elixir.
+*   [elixirfm (⭐9)](https://github.com/jrichocean/Elixirfm) - Last.fm API wrapper for Elixir.
 *   [ex\_codeship (⭐0)](https://github.com/securingsincity/ex_codeship) - API Client for Codeship.
 
 ### Books
 
-*   [Getting Started - Elixir (⭐102)](https://github.com/potatogopher/elixir-getting-started) - PDF, MOBI, and EPUB documents for Elixir's Getting Started tutorial (2016).
+*   [Getting Started - Elixir (⭐101)](https://github.com/potatogopher/elixir-getting-started) - PDF, MOBI, and EPUB documents for Elixir's Getting Started tutorial (2016).
 
 ### Editors
 
@@ -168,7 +168,7 @@
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [ShareX (⭐22k)](https://github.com/ShareX/ShareX) - Free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from. <https://getsharex.com>
+*   [ShareX (⭐26k)](https://github.com/ShareX/ShareX) - Free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from. <https://getsharex.com>
 
 ### Videos / Workflow
 

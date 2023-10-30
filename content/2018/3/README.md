@@ -131,25 +131,25 @@
 
 ### Frameworks, Libraries and Tools / API
 
-*   [OData (⭐825)](https://github.com/OData/WebApi/tree/feature/netcore) - The Open Data Protocol (OData) enables the creation of HTTP-based data services, which allow resources identified using Uniform Resource Identifiers (URIs) and defined in an abstract data model, to be published and edited by Web clients using simple HTTP messages.
+*   [OData (⭐844)](https://github.com/OData/WebApi/tree/feature/netcore) - The Open Data Protocol (OData) enables the creation of HTTP-based data services, which allow resources identified using Uniform Resource Identifiers (URIs) and defined in an abstract data model, to be published and edited by Web clients using simple HTTP messages.
 
 ### Frameworks, Libraries and Tools / Application Templates
 
-*   [ASP.NET-MVC-Template (⭐890)](https://github.com/NikolayIT/ASP.NET-MVC-Template) - A ready-to-use templates for ASP.NET MVC 5 and ASP.NET Core with repositories, services, models mapping and DI and StyleCop warnings fixed.
-*   [AddFeatureFolders (⭐241)](https://github.com/OdeToCode/AddFeatureFolders) - Enable feature folders for MVC controllers and views in ASP.NET Core.
-*   [Angular Visual Studio Webpack Starter (⭐490)](https://github.com/damienbod/AngularWebpackVisualStudio) - Template for Webpack, Visual Studio, ASP.NET Core and Angular. Both the client and the server side of the application are implemented inside one ASP.NET Core project which makes it easier to deploy.
+*   [ASP.NET-MVC-Template (⭐986)](https://github.com/NikolayIT/ASP.NET-MVC-Template) - A ready-to-use templates for ASP.NET MVC 5 and ASP.NET Core with repositories, services, models mapping and DI and StyleCop warnings fixed.
+*   [AddFeatureFolders (⭐246)](https://github.com/OdeToCode/AddFeatureFolders) - Enable feature folders for MVC controllers and views in ASP.NET Core.
+*   [Angular Visual Studio Webpack Starter (⭐486)](https://github.com/damienbod/AngularWebpackVisualStudio) - Template for Webpack, Visual Studio, ASP.NET Core and Angular. Both the client and the server side of the application are implemented inside one ASP.NET Core project which makes it easier to deploy.
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
-*   [IdentityServer (⭐8.9k)](https://github.com/IdentityServer/IdentityServer4) - IdentityServer for ASP.NET Core 1.0 & 2.0
-    *   [IdentityServer4.EntityFramework (⭐242)](https://github.com/IdentityServer/IdentityServer4.EntityFramework) - EntityFramework persistence layer
-    *   [IdentityServer4.MongoDB (⭐110)](https://github.com/diogodamiani/IdentityServer4.MongoDB) - MongoDB persistence layer
+*   [IdentityServer (⭐9.1k)](https://github.com/IdentityServer/IdentityServer4) - IdentityServer for ASP.NET Core 1.0 & 2.0
+    *   [IdentityServer4.EntityFramework (⭐240)](https://github.com/IdentityServer/IdentityServer4.EntityFramework) - EntityFramework persistence layer
+    *   [IdentityServer4.MongoDB (⭐109)](https://github.com/diogodamiani/IdentityServer4.MongoDB) - MongoDB persistence layer
     *   [IdentityServer4.EntityFrameworkCore (⭐42)](https://github.com/2020IP/TwentyTwenty.IdentityServer4.EntityFrameworkCore) - Entity Framework Core persistence layer
-    *   [IdentityServer4.Templates (⭐664)](https://github.com/IdentityServer/IdentityServer4.Templates) - dotnet cli templates for IdentityServer4.
+    *   [IdentityServer4.Templates (⭐687)](https://github.com/IdentityServer/IdentityServer4.Templates) - dotnet cli templates for IdentityServer4.
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [NuGetPackageExplorer (⭐2.1k)](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer) - Create, update and deploy Nuget Packages with a GUI.
+*   [NuGetPackageExplorer (⭐2.3k)](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer) - Create, update and deploy Nuget Packages with a GUI.
 
 ## [16. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -220,7 +220,7 @@
 
 ### Boilerplates
 
-*   [Next Blog Firestore (⭐258)](https://github.com/suevalov/next-blog-firestore) - Blog with simple CMS built with Next.js, Firebase Firestore, styled-components and mobx-state-tree.
+*   [Next Blog Firestore (⭐265)](https://github.com/suevalov/next-blog-firestore) - Blog with simple CMS built with Next.js, Firebase Firestore, styled-components and mobx-state-tree.
 
 ### Videos
 
@@ -230,7 +230,7 @@
 
 ### Date / Runner
 
-*   [date-fns (⭐31k)](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library.
+*   [date-fns (⭐32k)](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library.
 
 ## [20. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
@@ -277,18 +277,18 @@
 
 ### Related lists
 
-*   [Awesome Music Listening (⭐95)](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music.
-*   [Awesome sheet music (⭐585)](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
+*   [Awesome Music Listening (⭐105)](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music.
+*   [Awesome sheet music (⭐644)](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
 
 ## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Concurrency
 
-*   [GroupWork (⭐42)](https://github.com/quanvo87/GroupWork) :penguin: - Easy concurrent, asynchronous tasks.
+*   [GroupWork (⭐41)](https://github.com/quanvo87/GroupWork) :penguin: - Easy concurrent, asynchronous tasks.
 
 ### Gesture
 
-*   [ShowTime (⭐470)](https://github.com/KaneCheshire/ShowTime) - Show off your iOS taps and gestures for demos and videos with just one line of code.
+*   [ShowTime (⭐485)](https://github.com/KaneCheshire/ShowTime) - Show off your iOS taps and gestures for demos and videos with just one line of code.
 
 ### UICollectionView / Barcode
 
@@ -298,7 +298,7 @@
 
 ### Image Processing
 
-*   [ruby-vips (⭐781)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
+*   [ruby-vips (⭐792)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
 
 ## [24. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
@@ -308,7 +308,7 @@
 
 ### Libraries / JavaScript
 
-*   [mongration (⭐81)](https://github.com/awapps/mongration) - Node.js migration framework
+*   [mongration (⭐82)](https://github.com/awapps/mongration) - Node.js migration framework
 
 ### Tools / Deployment
 
@@ -318,7 +318,7 @@
 
 ### Development Environment
 
-*   [Oven (⭐140)](https://github.com/CakeDC/oven) - Setup your favorite framework with 1 file and 1 click.
+*   [Oven (⭐141)](https://github.com/CakeDC/oven) - Setup your favorite framework with 1 file and 1 click.
 
 ## [26. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
 
@@ -341,13 +341,13 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Threat Detection and Hunting (⭐2.7k)](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources.
+*   [Awesome Threat Detection and Hunting (⭐3k)](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources.
 
 ## [29. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### To third parties
 
-*   [cl-influxdb (⭐21)](https://github.com/mmaul/cl-influxdb/) - an interface to the Time Series Database InfluxDB. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-influxdb (⭐22)](https://github.com/mmaul/cl-influxdb/) - an interface to the Time Series Database InfluxDB. [MIT](https://opensource.org/licenses/MIT).
 
 ### Miscellaneous
 
@@ -355,18 +355,18 @@
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
-*   [cl-charms (⭐135)](https://github.com/HiTECNOLOGYs/cl-charms) - an
+*   [cl-charms (⭐139)](https://github.com/HiTECNOLOGYs/cl-charms) - an
     interface to `libcurses` in Common Lisp. It provides both a raw,
     low-level interface to libcurses via CFFI, and a more higher-level
     lispier interface. [MIT](https://opensource.org/licenses/MIT).
 
 ### REPLs / Third-party APIs
 
-*   [cl-repl (⭐138)](https://github.com/koji-kojiro/cl-repl) - an ipython-like REPL. With completion, shell commands, magic commands, debugger, etc. [MIT](https://opensource.org/licenses/MIT). With [colorthemes (⭐12)](https://github.com/koji-kojiro/lem-pygments-colorthemes).
+*   [cl-repl (⭐139)](https://github.com/koji-kojiro/cl-repl) - an ipython-like REPL. With completion, shell commands, magic commands, debugger, etc. [MIT](https://opensource.org/licenses/MIT). With [colorthemes (⭐12)](https://github.com/koji-kojiro/lem-pygments-colorthemes).
 
 ### Apps / Third-party APIs
 
-*   [lake (⭐83)](https://github.com/takagi/lake) - a GNU make like build utility. [MIT](https://opensource.org/licenses/MIT).
+*   [lake (⭐82)](https://github.com/takagi/lake) - a GNU make like build utility. [MIT](https://opensource.org/licenses/MIT).
 
 ## [30. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
@@ -376,6 +376,10 @@
 *   [Cables communication](http://dee.su/cables) implements secure and anonymous communication using email-like addresses, pioneered in Liberté Linux. Cables communication is Liberté's pivotal component for enabling anyone to communicate safely and covertly in hostile environments.
 *   [Mailpile](http://www.mailpile.is/) is free software, a web-mail program that you run on your own computer, so your data stays under your control. Because it is free software (a.k.a. open source), you can look under the hood and see how it works, or even modify it to make it better suit your particular needs. Mailpile is designed for speed and vast amounts of e-mail, it is flexible and themeable and has support for strong encryption built in from the very start.
 *   [Matrix](http://matrix.org/) is an open standard for decentralised communication, providing simple HTTP APIs and open source reference implementations for securely distributing and persisting JSON over an open federation of servers. You can use Matrix for any project where you need a common data fabric to link together fragmented silos of communication.
+
+### Protocols
+
+*   [Webmentions](http://indiewebcamp.com/webmention) are an interesting method of notify another site that a *comment* /post on your own site is written in response to a post on their site. The site receiving the webmention notification can then verify the request and gather the message adding into a conversation flow in their post.[This project (⭐41)](http://github.com/glennjones/webmentions) is working on a unified API.
 
 ### Uncategorised
 
@@ -387,7 +391,7 @@
 *   [Commotion Wireless](https://commotionwireless.net) is an open-source communication tool that uses mobile phones, computers, and other wireless devices to create decentralized mesh networks.
 *   [The Cryptosphere](http://cryptosphere.org/) is a global peer-to-peer cryptosystem for publishing and securely distributing both data and HTML5/JS applications pseudonymously with no central point of failure. It's built on top of the next-generation [Networking and Cryptography (NaCl) library](http://nacl.cr.yp.to/) and the Git data model. [Code (⭐1.2k)](https://github.com/cryptosphere/cryptosphere)
 *   [DNSChain (⭐1.7k)](https://github.com/okTurtles/dnschain) aims to fix web security by Man-in-the-Middle proofing connections. It's a secure, decentralized PKI (public key infrastructure) that makes blockchain tech (like Namecoin, Blockstore, etc.) usable for arbitrary devices.
-*   [Firestr (⭐347)](http://github.com/mempko/firestr) is a simple decentralized communication and computation platform. Apps are written in Lua and are pushed to peers where they automatically run and connect. All communication is P2P and encrypted.
+*   [Firestr (⭐348)](http://github.com/mempko/firestr) is a simple decentralized communication and computation platform. Apps are written in Lua and are pushed to peers where they automatically run and connect. All communication is P2P and encrypted.
 *   [Freedom Box](http://freedomboxfoundation.org/) is about privacy, control, ease of use and dehierarchicalization. Inspired by Eben Moglen's vision of a small, cheap and simple computer that serves freedom in the home. We are building a Debian based platform for distributed applications.
 *   [Freenet](http://freenetproject.org) is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship. Freenet is decentralised to make it less vulnerable to attack, and if used in "darknet" mode, where users only connect to their friends, is very difficult to detect.
 *   [Friendica (⭐1.2k)](https://github.com/friendica/friendica) is a decentralised network which focuses on federation of social networking sites and projects into a common stream.
@@ -398,8 +402,8 @@
 *   The [Hubzilla](https://hubzilla.org) is a decentralised identity and communications platform which provides internet-wide single-sign-on with nomadic identity, internet-wide access control, communications, content management and personal cloud storage.
 *   [Hyperboria](http://hyperboria.net/) is a global decentralized network of "nodes" running cjdns software. The goal of Hyperboria is to provide an alternative to the internet with the principles of security, scalability and decentralization at the core. Anyone can participate in the network by locating a peer that is already connected.
 *   [I2P](http://www.i2p2.de/) is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties.
-*   [KA Lite (⭐456)](https://github.com/learningequality/ka-lite) is an open-source, lightweight, pure-Python web server and web app for serving Khan Academy content (videos and exercises) -- including progress tracking, coach reports, and gamification -- without needing persistent internet connectivity.
-*   [KadNode (⭐390)](http://github.com/mwarning/KadNode) delegates DNS requests (\*.p2p) from any application and tries to resolve it using the BitTorrent Mainline DHT. Own addresses can be announced and combined with public/secret keys. KadNode can be used as a decentralized DynDNS system, but also covers many other use cases.
+*   [KA Lite (⭐455)](https://github.com/learningequality/ka-lite) is an open-source, lightweight, pure-Python web server and web app for serving Khan Academy content (videos and exercises) -- including progress tracking, coach reports, and gamification -- without needing persistent internet connectivity.
+*   [KadNode (⭐395)](http://github.com/mwarning/KadNode) delegates DNS requests (\*.p2p) from any application and tries to resolve it using the BitTorrent Mainline DHT. Own addresses can be announced and combined with public/secret keys. KadNode can be used as a decentralized DynDNS system, but also covers many other use cases.
 *   [Keybits](http://keybits.net) makes it easy to run your own personal server. Setup and maintenance is made simple by using Docker and Ansible. (Similar to Sovereign but using Docker to 'containerize' applications.)
 *   [Known](http://withknown.com/) is a simple way to share your story with a variety of media, from any device. Aligned with the indie web movement, Known sites can be installed on your own server, and each one will operate as a node in a global social network, together with other indie web platforms. Known is fully extensible and supports microblogging, photos, articles, events, location check-ins and bookmarks out of the box. It is a responsive web platform that works on anything with a web browser.
 *   [LibraryBox](http://jasongriffey.net/librarybox/)  is an open source, portable digital file distribution tool based on inexpensive hardware that enables delivery of educational, healthcare, and other vital information to individuals off the grid.
@@ -407,7 +411,7 @@
 *   The [MaidSafe](http://maidsafe.net) network is a fully distributed platform on which application developers can build distributed applications. The network is made up by individual users who contribute storage, computing power and bandwidth to what is a global, public cloud.
 *   [MediaCrush](https://mediacru.sh) is free software (as in freedom and as in beer) for hosting media on the web. It's designed from the ground up to protect users' privacy and it losslessly compresses media whenever possible. It supports more than 500 formats of images, video and audio. If ffmpeg accepts it, MediaCrush can process it. It also converts GIFs to HTML5 video.
 *   [GNU MediaGoblin](http://mediagoblin.org) (also shortened to MediaGoblin or GMG) is a free, decentralized Web platform (server software) for hosting and sharing digital media, aimed at providing an extensible, adaptive, and freedom-respectful software alternative to major media publishing services such as Flickr, deviantArt, YouTube, etc.-- [Wikipedia](http://en.wikipedia.org/wiki/MediaGoblin)
-*   [MettaNode (⭐26)](https://github.com/berkus/mettanode) is a tool for fully decentralized communications - grab data you like and store it forever, share data with your friends, start chats, voice or video calls, form groups by interest, transparently keep all your notes between all of your devices; all based on a simple ideas of [UIA](http://pdos.csail.mit.edu/uia/). It is still in its infancy and only base transport protocol is done, work is now going on on overlay routing network. Final target is to have a bunch of clients for desktop and mobile platforms (Win, Mac, Linux, Android, iOS) as well as own operating system implementation ([Metta (⭐69)](https://github.com/berkus/metta/wiki)) running together.
+*   [MettaNode (⭐26)](https://github.com/berkus/mettanode) is a tool for fully decentralized communications - grab data you like and store it forever, share data with your friends, start chats, voice or video calls, form groups by interest, transparently keep all your notes between all of your devices; all based on a simple ideas of [UIA](http://pdos.csail.mit.edu/uia/). It is still in its infancy and only base transport protocol is done, work is now going on on overlay routing network. Final target is to have a bunch of clients for desktop and mobile platforms (Win, Mac, Linux, Android, iOS) as well as own operating system implementation ([Metta (⭐70)](https://github.com/berkus/metta/wiki)) running together.
 *   [Mixmaster](http://mixmaster.sourceforge.net/) is a remailer network. It represents the second generation of remailers. Mixmaster can be used via a web sites like [Anonymouse](http://anonymouse.org/) or as a stand-alone client.
 *   [Mixminion](http://mixminion.net/) is a new remailer approach. The so-called type III remailer allows it to receive and send anonymous messages. However the development has stalled and the current software needs improvement.
 *   [NameCoin](http://namecoin.info/) is a decentralized naming system based on Bitcoin technology.
@@ -438,10 +442,9 @@
 *   [SyncNet](http://jack.minardi.org/software/syncnet-a-decentralized-web-browser/) is a decentralized web browser built on top of BitTorrent Sync and (soon) Colored Coins for name resolution. Every time you access a site, you store all of its contents on your machine. The next user to request the site can get the contents from both your machine and the original server. As more people access a page, it becomes available from more machines, reducing the load on the original server.
 *   [Syncthing](http://syncthing.net/) replaces Dropbox and BitTorrent Sync with something open, trustworthy and decentralized. Your data is your data alone and you deserve to choose where it is stored, if it is shared with some third party and how it's transmitted over the Internet.
 *   [Syndie](http://syndie.i2p2.de/)  is an open source system for operating distributed forums offering a secure and consistent interface to various anonymous and non-anonymous content networks.
-*   [Tent](https://tent.io/) is a protocol that puts users back in control. Users should control the data they create, choose who can access it, and change service providers without losing their social graph.Tent is a protocol, not a platform. Like email, anyone can build Tent apps or host Tent servers, all Tent servers can talk to each other, and there is no central authority to restrict users or developers.
 *   Dyne's [Tomb](https://tomb.dyne.org/) the crypto-undertaker is free software for easy encryption and backup of personal files, written in a single ZShell script that is easy to review and links commonly shared components (such as cryptsetup), unlike [TrueCrypt](#Truecrypt).  Tomb implements and encourages OPSEC best-practice, and comes with bind and execution hooks, steganography of keys and fast search over filenames and contents, and a graphical user interface.
 *   [Tor](https://www.torproject.org/) protects you by bouncing your communications around a distributed network of relays run by volunteers all around the world: it prevents somebody watching your Internet connection from learning what sites you visit, and it prevents the sites you visit from learning your physical location.
-*   [Tribler (⭐4.2k)](https://github.com/Tribler/tribler/wiki) Aims to create a censorship-free Internet. Already deployed, used and incrementally improved for 8-years. Tribler uses an upcoming IETF Internet Standard for [video streaming](http://datatracker.ietf.org/doc/draft-ietf-ppsp-peer-protocol/) and is backward compatible with Bittorrent. Future aim is using smartphones to even bypass Internet kill switches. An early proof-of-principle [Tribler-mobile](https://play.google.com/store/apps/details?id=org.tribler.mobile) is available on the Android Market. [Key principle](http://www.foxnews.com/tech/2012/02/10/forget-megaupload-researchers-call-new-file-sharing-network-invincible/): 'the only way to take it down is to take The Internet down'. [Overview paper](http://sigmm.org/records/records1201/featured03.html).
+*   [Tribler (⭐4.3k)](https://github.com/Tribler/tribler/wiki) Aims to create a censorship-free Internet. Already deployed, used and incrementally improved for 8-years. Tribler uses an upcoming IETF Internet Standard for [video streaming](http://datatracker.ietf.org/doc/draft-ietf-ppsp-peer-protocol/) and is backward compatible with Bittorrent. Future aim is using smartphones to even bypass Internet kill switches. An early proof-of-principle [Tribler-mobile](https://play.google.com/store/apps/details?id=org.tribler.mobile) is available on the Android Market. [Key principle](http://www.foxnews.com/tech/2012/02/10/forget-megaupload-researchers-call-new-file-sharing-network-invincible/): 'the only way to take it down is to take The Internet down'. [Overview paper](http://sigmm.org/records/records1201/featured03.html).
 *   [Trovebox](https://github.com/photo) is an open source photo sharing webapp (like Instagram), which you can self-host. iOS and Android apps also open source. Uses cloud or local storage for the actual photos. Originally known as OpenPhoto; see also [theopenphotoproject.org](http://theopenphotoproject.org).
 *   [TrueCrypt](http://www.truecrypt.org/) Free open source disk encryption software for Windows 7/Vista/XP/Mac OSX/ & Linux. Creates a virtual encrypted disk within a file and mounts it as a real disk. Encrypts an entire partition or storage device such as USB flash drive or hard drive. Encrypts a partition or drive where Windows is installed (pre-boot authentication). Encryption is automatic, real-time (on-the-fly) and transparent. Parallelization and pipelining allow data to be read and written as fast as if the drive was not encrypted. Encryption can be hardware-accelerated on modern processors. Provides plausible deniability, in case an adversary forces you to reveal the password: Hidden volume (steganography) and hidden operating system. More information on [documentation page](http://www.truecrypt.org/docs/)
 *   [UBOS](http://ubos.net/) is a new Linux distro for personal servers and IoT devices. Installing and maintaining web applications tends to take a lot of time; UBOS aims to make this much simpler.
@@ -450,12 +453,8 @@
 *   [Village Telco](http://villagetelco.org) is a an easy-to-use, scalable, standards-based, wireless, local, DIY, telephone company toolkit.  Their mission is to making voice and data communication affordable and accessible to anyone.
 *   [Wave](http://incubator.apache.org/wave/) is a distributed, near-real-time, rich collaboration platform that allows users to work together in new and exciting ways. Wave allows for flexible modes of communication, blending chat, email and collaborative document editing in to one seamless environment.
 *   [Webfist](http://webfist.org/) is a fallback for when providers don't support WebFinger natively. It lets you do WebFinger lookups for email addresses even if the owner of the domain name isn't playing along. WebFist works because of a judo move on an existing infrastructure: DKIM.
-*   [Webmentions](http://indiewebcamp.com/webmention) are an interesting method of notify another site that a *comment* /post on your own site is written in response to a post on their site. The site receiving the webmention notification can then verify the request and gather the message adding into a conversation flow in their post.[This project (⭐40)](http://github.com/glennjones/webmentions) is working on a unified API.
-*   [Yaap it !](http://yaap.it/) is another client-side encrypted burn-after-reading sharing service. It's written in JavaScript and you can install it on you own server: [https://github.com/SeyZ/yaapit (⭐27)](https://github.com/SeyZ/yaapit)
 *   [Yaler](https://yaler.net/) is a simple, open and scalable relay infrastructure for secure Web and SSH access to embedded systems located behind a firewall, NAT or mobile network router.
-*   [Zero Bin](http://0bin.net/) is an open source alternative for pastebin with burn-after-read function & client side encryption. Source code is also available on github [https://github.com/sametmax/0bin (⭐1.3k)](https://github.com/sametmax/0bin)
 *   [ZeroTier One](https://www.zerotier.com/) is an open source application that creates huge distributed Ethernet networks. It makes use of supernodes, but these run the same code as ordinary nodes and end-to-end encryption protects all unicast traffic. Semi-commercial with a freemium model.
-*   [arkOS](https://arkos.io) is an operating system and software stack to easily host your own websites, email addresses, cloud services and more. It uses a graphical interface (called Genesis) to do all of this, with a focus on end-user experience and simple design. Presently in active development, it is currently functional on the Raspberry Pi with new services and platforms in the works.
 *   [dn42](https://dn42.net/Home) is a big dynamic VPN network, which employs Internet technologies (BGP, whois database, DNS, etc). Participants connect to each other using network tunnels (GRE, OpenVPN, Tinc, IPsec), and exchange routes thanks to the Border Gateway Protocol. Network addresses are assigned in the 172.22.0.0/15 range, and private AS numbers are used: see registry. See the About page for more information.
 *   [eDonkey network](http://en.wikipedia.org/wiki/EDonkey_network) is a decentralized, mostly server-based, peer-to-peer file sharing network best suited to share big files among users, and to provide long term availability of files
 *   The [ePlug](http://kenCode.de/projects) is a tiny circuit board that resides inside of 'ePlug Certified' electrical outlets. Decentralized Meshnet, distributed computing, 6 gig WiFi. ISP's, CDN's and racks of servers, switches and wire no longer needed.
@@ -463,9 +462,16 @@
 *   [gitsync (⭐53)](https://github.com/raybejjani/gitsync) is a git repository synchronisation and discovery tool. Its goal is to allow developers to coordinate without a central master repository.
 *   [pubsubhubbub](https://code.google.com/p/pubsubhubbub/) is a simple, open, server-to-server webhook-based pubsub (publish/subscribe) protocol for any web accessible resources.
 *   [pump.io](http://pump.io/) Described as "a stream server that does most of what people really want from a social network". It's a social stream with support for federated comunication.
-*   [qaul.net (⭐277)](https://github.com/WachterJud/qaul.net) implements a redundant, open communication principle, in which wireless-enabled computers and mobile devices can directly form a spontaneous network. Chat functions, file sharing and voice chat is possible independent of internet and cellular networks.
+*   [qaul.net (⭐303)](https://github.com/WachterJud/qaul.net) implements a redundant, open communication principle, in which wireless-enabled computers and mobile devices can directly form a spontaneous network. Chat functions, file sharing and voice chat is possible independent of internet and cellular networks.
 *   [Storj](http://storj.io/) is an open source project actively developing a completely decentralized, secure and efficient cloud storage service that integrates a peer-to-peer protocols based on Bitcoin.
 *   [wlan slovenija](http://dev.wlan-si.net/) is developing technologies for easy deployment of community wireless mesh networks. The main idea is that power is in numbers so deployment should be so easy that anybody can do it, that anybody can start a new wireless mesh network and create a new community.
+
+### Dead
+
+*   [Zero Bin](http://0bin.net/) is an open source alternative for pastebin with burn-after-read function & client side encryption. Source code is also available on github [https://github.com/sametmax/0bin (⭐1.3k)](https://github.com/sametmax/0bin)
+*   [Yaap it !](http://yaap.it/) is another client-side encrypted burn-after-reading sharing service. It's written in JavaScript and you can install it on you own server: [https://github.com/SeyZ/yaapit (⭐27)](https://github.com/SeyZ/yaapit)
+*   [Tent](https://tent.io/) is a protocol that puts users back in control. Users should control the data they create, choose who can access it, and change service providers without losing their social graph.Tent is a protocol, not a platform. Like email, anyone can build Tent apps or host Tent servers, all Tent servers can talk to each other, and there is no central authority to restrict users or developers.
+*   [arkOS](https://arkos.io) is an operating system and software stack to easily host your own websites, email addresses, cloud services and more. It uses a graphical interface (called Genesis) to do all of this, with a focus on end-user experience and simple design. Presently in active development, it is currently functional on the Raspberry Pi with new services and platforms in the works.
 
 ## [31. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
@@ -509,17 +515,17 @@
 
 ### Frameworks
 
-*   [Yomm2 (⭐257)](https://github.com/jll63/yomm2) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11 (⭐115)](https://github.com/jll63/yomm11) \[Boost]
+*   [Yomm2 (⭐310)](https://github.com/jll63/yomm2) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11 (⭐116)](https://github.com/jll63/yomm11) \[Boost]
 
 ### Graphics
 
-*   [magnum (⭐4.4k)](https://github.com/mosra/magnum) - Lightweight and modular C++11/C++14 graphics middleware for games and data visualization. \[MIT] [website](http://magnum.graphics)
+*   [magnum (⭐4.5k)](https://github.com/mosra/magnum) - Lightweight and modular C++11/C++14 graphics middleware for games and data visualization. \[MIT] [website](http://magnum.graphics)
 
 ## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Search
 
-*   [giza\_sphinxsearch (⭐18)](https://github.com/Tyler-pierce/giza_sphinxsearch) - Client for Sphinx Search compatible with Manticore.
+*   [giza\_sphinxsearch (⭐19)](https://github.com/Tyler-pierce/giza_sphinxsearch) - Client for Sphinx Search compatible with Manticore.
 
 ### Statistics
 
@@ -527,7 +533,7 @@
 
 ### Text and Numbers
 
-*   [nanoid (⭐191)](https://github.com/railsmechanic/nanoid) - Elixir port of NanoID, a secure and URL-friendly unique ID generator.
+*   [nanoid (⭐194)](https://github.com/railsmechanic/nanoid) - Elixir port of NanoID, a secure and URL-friendly unique ID generator.
 
 ## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 

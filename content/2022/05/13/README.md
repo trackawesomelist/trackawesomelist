@@ -10,7 +10,7 @@
 
 ### Templates / React
 
-*   [Viact (⭐36)](https://github.com/MR-Mostafa/Viact) - React + TypeScript + ESLint + Prettier + Support RTL + mock REST API Viact + Storybook, ErrorBoundary, UnoCss and more.
+*   [Viact (⭐39)](https://github.com/MR-Mostafa/Viact) - React + TypeScript + ESLint + Prettier + Support RTL + mock REST API Viact + Storybook, ErrorBoundary, UnoCss and more.
 
 ## [2. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -34,15 +34,15 @@
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [IP2Location.io](https://www.ip2location.io/) — Freemium, fast and reliable IP geolocation API to determine geolocation data like city, coordinates, ISP and so on. Free plan is available with 30k credits per month. Subscribe paid plans for more advanced features or contact us for a personalized plan.
+*   [IP2Location.io](https://www.ip2location.io/) — Freemium, fast and reliable IP geolocation API to determine geolocation data like city, coordinates, ISP, etc. The free plan is available with 30k credits per month. Subscribe to paid plans for more advanced features or contact us for a personalized plan.
 
 ## [5. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ### Shell Script Development
 
-*   [DevOps-Bash-tools (⭐969)](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Shell Scripts and Advanced Bash environment
+*   [DevOps-Bash-tools (⭐1.9k)](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Shell Scripts and Advanced Bash environment.
 
 ## [6. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 

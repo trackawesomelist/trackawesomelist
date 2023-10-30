@@ -48,7 +48,7 @@
 
 ### Spotify / Third Party Hosts
 
-*   [EZBlocker (⭐1.7k)](https://github.com/Xeroday/Spotify-Ad-Blocker/) a Spotify Ad Blocker written in C# for Windows 7/8/10.
+*   [EZBlocker (⭐1.8k)](https://github.com/Xeroday/Spotify-Ad-Blocker/) a Spotify Ad Blocker written in C# for Windows 7/8/10.
 
 ### iTunes / Third Party Hosts
 
@@ -80,7 +80,7 @@
 
 ### Automation / Third Party Hosts
 
-*   [Pulsarr (⭐169)](https://github.com/roboticsound/Pulsarr) Browser extension (currently Chrome & Firefox) for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
+*   [Pulsarr (⭐178)](https://github.com/roboticsound/Pulsarr) Browser extension (currently Chrome & Firefox) for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
 
 ### Mobile Apps / Third Party Hosts
 
@@ -157,12 +157,12 @@
 ### Clients
 
 *   [Official Keycloak Node.js Admin Client](https://github.com/keycloak/keycloak-admin-client/) ("Extremely Experimental")
-*   [Keycloak Node.js TypeScript Admin Client by Canner (⭐617)](https://github.com/Canner/keycloak-admin/)
+*   [Keycloak Node.js TypeScript Admin Client by Canner (⭐614)](https://github.com/Canner/keycloak-admin/)
 *   [Keycloak Go Client by Cloudtrust (⭐23)](https://github.com/cloudtrust/keycloak-client)
 
 ### Integrations
 
-*   [Official Keycloak Node.js Connect Adapter (⭐590)](https://github.com/keycloak/keycloak-nodejs-connect)
+*   [Official Keycloak Node.js Connect Adapter (⭐612)](https://github.com/keycloak/keycloak-nodejs-connect)
 
 ## [8. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
@@ -205,13 +205,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-my-photos (⭐54)](https://github.com/am283721/vue-my-photos) - A simple dependency-free image lightbox component with filtering capabilities
+*   [vue-my-photos (⭐53)](https://github.com/am283721/vue-my-photos) - A simple dependency-free image lightbox component with filtering capabilities
 
 ## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [Netron (⭐22k)](https://github.com/lutzroeder/netron) - Visualizer for machine learning models.
+*   [Netron (⭐24k)](https://github.com/lutzroeder/netron) - Visualizer for machine learning models.
 
 ## [14. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
@@ -223,7 +223,7 @@
 
 ### Frameworks, Libraries and Tools / Build Automation
 
-*   [Dockerize.NET (⭐169)](https://github.com/brthor/Dockerize.NET) - .NET Cli Tool to package your .NET Core Application into a docker image: 'dotnet dockerize'
+*   [Dockerize.NET (⭐175)](https://github.com/brthor/Dockerize.NET) - .NET Cli Tool to package your .NET Core Application into a docker image: 'dotnet dockerize'
 
 ## [16. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -254,7 +254,7 @@
 
 ### Compression
 
-*   [libarchive (⭐2.2k)](https://github.com/libarchive/libarchive) - Multi-format archive and compression library. \[New BSD] [website](http://www.libarchive.org/)
+*   [libarchive (⭐2.6k)](https://github.com/libarchive/libarchive) - Multi-format archive and compression library. \[New BSD] [website](http://www.libarchive.org/)
 
 ### Scripting
 
@@ -262,7 +262,7 @@
 
 ### Static Code Analysis
 
-*   [cpplint (⭐1.3k)](https://github.com/cpplint/cpplint) - A C++ style checker following Google's C++ style guide.
+*   [cpplint (⭐1.4k)](https://github.com/cpplint/cpplint) - A C++ style checker following Google's C++ style guide.
 
 ## [19. Public Apis](/content/public-apis/public-apis/README.md)
 

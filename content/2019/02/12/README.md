@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 12, 2019
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Images / Barcode
 
-*   [JLStickerTextView (⭐480)](https://github.com/Textcat/JLStickerTextView) - A UIImageView allow you to add multiple Label (multiple line text support) on it, you can edit, rotate, resize the Label as you want with one finger ,then render the text on Image.
+*   [JLStickerTextView (⭐483)](https://github.com/Textcat/JLStickerTextView) - A UIImageView allow you to add multiple Label (multiple line text support) on it, you can edit, rotate, resize the Label as you want with one finger ,then render the text on Image.
 
 ## [3. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
@@ -69,13 +69,13 @@
 
 ### Scala / Natural Language Processing
 
-*   [Spark NLP (⭐3.2k)](https://github.com/JohnSnowLabs/spark-nlp) - Natural language processing library built on top of Apache Spark ML to provide simple, performant, and accurate NLP annotations for machine learning pipelines, that scale easily in a distributed environment.
+*   [Spark NLP (⭐3.4k)](https://github.com/JohnSnowLabs/spark-nlp) - Natural language processing library built on top of Apache Spark ML to provide simple, performant, and accurate NLP annotations for machine learning pipelines, that scale easily in a distributed environment.
 
 ## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Misc / Other
 
-*   [ky (⭐9.8k)](https://github.com/sindresorhus/ky) - Tiny and elegant HTTP client based on the browser Fetch API.
+*   [ky (⭐10k)](https://github.com/sindresorhus/ky) - Tiny and elegant HTTP client based on the browser Fetch API.
 
 ## [8. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
@@ -99,7 +99,13 @@
 
 *   [deno-globrex (⭐7)](https://github.com/hayd/deno-globrex) - Port of globrex to deno, glob to regular expression.
 
-## [11. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
+## [11. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### C / Non-X86
+
+*   [Bare-metal programming for ARM (⭐523)](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](http://umanovskis.se/files/arm-baremetal-ebook.pdf)
+
+## [12. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 
 ### CMS / Blogs
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 12, 2018
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -88,13 +88,7 @@
 
 *   [NetLytics (⭐10)](https://github.com/marty90/netlytics/) - Analytics platform to process network data on Spark.
 
-## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
-
-### Articles and Posts / Runner
-
-*   [How JavaScript works](https://blog.sessionstack.com/tagged/tutorial) - A series of articles about the building blocks of JavaScript.
-
-## [5. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
+## [4. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
 ### Others / Web
 

@@ -20,7 +20,7 @@
 
 ### Queues and Messaging
 
-*   [Backburner (⭐421)](https://github.com/nesquena/backburner) - Backburner is a beanstalkd-powered job queue that can handle a very high volume of jobs.
+*   [Backburner (⭐422)](https://github.com/nesquena/backburner) - Backburner is a beanstalkd-powered job queue that can handle a very high volume of jobs.
 
 ---
 

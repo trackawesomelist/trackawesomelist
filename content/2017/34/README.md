@@ -68,7 +68,7 @@
 
 ### OS / XML
 
-*   [XOmB (⭐332)](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D
+*   [XOmB (⭐334)](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D
 
 ## [6. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -80,22 +80,22 @@
 
 ### Theoretical Computer Science / Languages
 
-*   [Let's build a compiler in Swift (⭐160)](https://github.com/mkchoi212/LBAC-Swift) - Let's Build a Compiler by Jack Crenshaw translated to Swift Playgrounds. 🌟
+*   [Let's build a compiler in Swift (⭐161)](https://github.com/mkchoi212/LBAC-Swift) - Let's Build a Compiler by Jack Crenshaw translated to Swift Playgrounds. 🌟
 
 ### UIKit And Graphics / Metal
 
-*   [Metalbrot (⭐82)](https://github.com/jtbandes/metalbrot-playground) - Interactive playground that draws the Mandelbrot fractal with Metal. 🌟
+*   [Metalbrot (⭐84)](https://github.com/jtbandes/metalbrot-playground) - Interactive playground that draws the Mandelbrot fractal with Metal. 🌟
 
 ### Playground Sets / SpriteKit
 
 *   [Mgrebenets's Playgrounds (⭐9)](https://github.com/mgrebenets/playgrounds) - Various playgrounds.c 🌟
-*   [Cocoa With Love Playgrounds (⭐89)](https://github.com/mattgallagher/CocoaWithLovePlaygrounds) - Playground versions of select articles from Cocoa with Love.  🌟
+*   [Cocoa With Love Playgrounds (⭐88)](https://github.com/mattgallagher/CocoaWithLovePlaygrounds) - Playground versions of select articles from Cocoa with Love.  🌟
 
 ### Miscellaneous / SpriteKit
 
-*   [Pixel Art Maker (⭐94)](https://github.com/BenEmdon/PixelArtMaker) - A playground where you can make pixel art.
-*   [SwiftCoin (⭐32)](https://github.com/Thomvis/Swiftcoin) - A simplistic blockchain & cryptocurrency in a playground.
-*   [SentimentlySwift (⭐12)](https://github.com/benbahrenburg/SentimentlySwift) - Sentiment analysis in Swift.
+*   [Pixel Art Maker (⭐102)](https://github.com/BenEmdon/PixelArtMaker) - A playground where you can make pixel art.
+*   [SwiftCoin (⭐31)](https://github.com/Thomvis/Swiftcoin) - A simplistic blockchain & cryptocurrency in a playground.
+*   [SentimentlySwift (⭐13)](https://github.com/benbahrenburg/SentimentlySwift) - Sentiment analysis in Swift.
 
 ## [8. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -131,7 +131,7 @@
 
 ### Database
 
-*   [JsonFlatFileDataStore (⭐364)](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
+*   [JsonFlatFileDataStore (⭐389)](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
 
 ## [14. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -267,7 +267,7 @@
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
-*   [RamdaScript (⭐132)](https://github.com/yosbelms/ramdascript) - A Lisp that compiles to opinionated JavaScript on top of RamdaJS
+*   [RamdaScript (⭐131)](https://github.com/yosbelms/ramdascript) - A Lisp that compiles to opinionated JavaScript on top of RamdaJS
 
 ## [22. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
 
@@ -294,27 +294,27 @@
 ### Miscellaneous
 
 *   [Caffe Model Zoo (⭐33k)](https://github.com/BVLC/caffe/wiki/Model-Zoo) - Big list of models in Caffe format.
-*   [TensorFlow Models (⭐75k)](https://github.com/tensorflow/models) - Models for TensorFlow.
-*   [See the guide (⭐5.5k)](https://github.com/likedan/Awesome-CoreML-Models/blob/master/.github/CONTRIBUTING.md)
+*   [TensorFlow Models (⭐76k)](https://github.com/tensorflow/models) - Models for TensorFlow.
+*   [See the guide (⭐5.8k)](https://github.com/likedan/Awesome-CoreML-Models/blob/master/.github/CONTRIBUTING.md)
 *   Distributed under the MIT license. See LICENSE for more information.
 
 ## [26. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### AI
 
-*   [CoreML-Models (⭐5.8k)](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
+*   [CoreML-Models (⭐6k)](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
 
 ### Events
 
-*   [Observable (⭐367)](https://github.com/roberthein/Observable) - The easiest way to observe values.
+*   [Observable (⭐368)](https://github.com/roberthein/Observable) - The easiest way to observe values.
 
 ### Images / Barcode
 
-*   [ZImageCropper (⭐222)](https://github.com/ZaidPathan/ZImageCropper) - Crop image in any shape.
+*   [ZImageCropper (⭐228)](https://github.com/ZaidPathan/ZImageCropper) - Crop image in any shape.
 
 ### UITableView / Barcode
 
-*   [AZTableViewController (⭐72)](https://github.com/AfrozZaheer/AZTableViewController) - Elegant and easy way to integrate pagination with placeholder views.
+*   [AZTableViewController (⭐73)](https://github.com/AfrozZaheer/AZTableViewController) - Elegant and easy way to integrate pagination with placeholder views.
 *   [HGPlaceholders (⭐2.2k)](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show placeholders and Empty States for any UITableView/UICollectionView in your project.
 
 ## [27. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
@@ -422,7 +422,7 @@
 
 ### Angular / Themes
 
-*   [NG-ZORRO (⭐8.3k)](https://github.com/NG-ZORRO/ng-zorro-antd) - Ant Design of Angular.
+*   [NG-ZORRO (⭐8.6k)](https://github.com/NG-ZORRO/ng-zorro-antd) - Ant Design of Angular.
 
 ### Components / Themes
 
@@ -430,7 +430,7 @@
 
 ### Boilerplates / Themes
 
-*   [Ng-Alain (⭐4.4k)](https://github.com/cipchk/ng-alain) - Angular Admin UI built on Ant Design (with ng-zorro-antd).
+*   [Ng-Alain (⭐4.5k)](https://github.com/cipchk/ng-alain) - Angular Admin UI built on Ant Design (with ng-zorro-antd).
 
 ## [29. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
@@ -470,11 +470,10 @@
 *   [bower-rails (⭐1.5k)](https://github.com/rharriso/bower-rails) - Bower support for Rails projects.
 *   [Rails Assets](https://rails-assets.org) - Bundler to Bower proxy.
 *   [Torba (⭐166)](https://github.com/torba-rb/torba) - Bower-less bundler for Sprockets.
-*   [Webpacker (⭐5.3k)](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScript modules in Rails.
 
 ### Email
 
-*   [Maily (⭐686)](https://github.com/markets/maily) - A Rails Engine to manage, test and navigate through all your email templates of your app, being able to preview them directly in your browser.
+*   [Maily (⭐692)](https://github.com/markets/maily) - A Rails Engine to manage, test and navigate through all your email templates of your app, being able to preview them directly in your browser.
 
 ### File Upload
 
@@ -487,7 +486,7 @@
 
 ### Profiler and Optimization
 
-*   [batch-loader (⭐972)](https://github.com/exaspark/batch-loader) – A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
+*   [batch-loader (⭐987)](https://github.com/exaspark/batch-loader) – A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
 
 ## [34. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
@@ -499,7 +498,7 @@
 
 ### Web / Scanning / Pentesting
 
-*   [OWASP Testing Checklist v4](https://www.owasp.org/index.php/Testing_Checklist) -  List of some controls to test during a web vulnerability assessment. Markdown version may be found [here (⭐8)](https://github.com/amocrenco/owasp-testing-checklist-v4-markdown/blob/master/README.md).
+*   [OWASP Testing Checklist v4](https://www.owasp.org/index.php/Testing_Checklist) -  List of some controls to test during a web vulnerability assessment. Markdown version may be found [here (⭐10)](https://github.com/amocrenco/owasp-testing-checklist-v4-markdown/blob/master/README.md).
 
 ## [36. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -509,11 +508,11 @@
 
 ### Examples and funny stuff
 
-*   [exercism-crystal (⭐67)](https://github.com/exercism/crystal) - Exercism exercises
+*   [exercism-crystal (⭐73)](https://github.com/exercism/crystal) - Exercism exercises
 
 ### Game Development
 
-*   [CrSFML (⭐330)](https://github.com/oprypin/crsfml) - Bindings to [SFML](https://www.sfml-dev.org/) multimedia/game library
+*   [CrSFML (⭐335)](https://github.com/oprypin/crsfml) - Bindings to [SFML](https://www.sfml-dev.org/) multimedia/game library
 
 ### HTTP
 
@@ -521,21 +520,20 @@
 
 ### Image processing
 
-*   [stumpy\_png (⭐99)](https://github.com/stumpycr/stumpy_png) - Read and write PNG images
+*   [stumpy\_png (⭐103)](https://github.com/stumpycr/stumpy_png) - Read and write PNG images
 
 ### Network Protocols
 
-*   [jwt (⭐199)](https://github.com/crystal-community/jwt) - Implementation of JWT (JSON Web Token)
-*   [msgpack-crystal (⭐128)](https://github.com/crystal-community/msgpack-crystal) - MessagePack library
+*   [jwt (⭐201)](https://github.com/crystal-community/jwt) - Implementation of JWT (JSON Web Token)
+*   [msgpack-crystal (⭐132)](https://github.com/crystal-community/msgpack-crystal) - MessagePack library
 
 ### Package Management
 
-*   [shards (⭐733)](https://github.com/crystal-lang/shards) - Dependency manager for the Crystal
+*   [shards (⭐745)](https://github.com/crystal-lang/shards) - Dependency manager for the Crystal
 
 ### Web Frameworks
 
 *   [kemal (⭐3.5k)](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
-*   [Crystal weekly newsletters](http://crystalweekly.com/)
 *   [Reddit](https://www.reddit.com/r/crystal_programming/)
 *   [Stackoverflow](https://stackoverflow.com/tags/crystal-lang/info)
 
@@ -545,7 +543,7 @@
 
 ### Official Documentation Translations
 
-*   [icr (⭐493)](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
+*   [icr (⭐498)](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
 
 ### Editor Plugins
 
@@ -554,10 +552,10 @@
 *   TextMate
     *   [Crystal.tmbundle (⭐18)](https://github.com/crystal-lang-tools/Crystal.tmbundle) - Crystal syntax highlighting, compile, format command, snippets
 *   Vim
-    *   [vim-crystal (⭐396)](https://github.com/vim-crystal/vim-crystal) - Vim filetype support for Crystal
+    *   [vim-crystal (⭐407)](https://github.com/vim-crystal/vim-crystal) - Vim filetype support for Crystal
     *   [vim-slang (⭐12)](https://github.com/elorest/vim-slang) - Vim filetype support for Slang Templating Engine
 *   Visual Studio Code
-    *   [vscode-crystal-lang (⭐249)](https://github.com/crystal-lang-tools/vscode-crystal-lang) - Formatter, linter and syntax highlighting for `cr` and `ecr` files
+    *   [vscode-crystal-lang (⭐258)](https://github.com/crystal-lang-tools/vscode-crystal-lang) - Formatter, linter and syntax highlighting for `cr` and `ecr` files
 
 ## [37. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -575,7 +573,7 @@
 
 ### Frameworks, Libraries and Tools / Mail
 
-*   [StrongGrid (⭐152)](https://github.com/Jericho/StrongGrid) - Client for SendGrid's v3 API. Not only allows you to send emails, but also allows you to bulk import contacts, manage lists and segments, create custom fields for your lists, etc. Also includes a parser for SendGrid Webhooks.
+*   [StrongGrid (⭐165)](https://github.com/Jericho/StrongGrid) - Client for SendGrid's v3 API. Not only allows you to send emails, but also allows you to bulk import contacts, manage lists and segments, create custom fields for your lists, etc. Also includes a parser for SendGrid Webhooks.
 
 ## [39. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 

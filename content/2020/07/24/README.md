@@ -53,7 +53,7 @@
 
 ### TextField & TextView / Collection View Layout
 
-*   [Streamoji (⭐245)](https://github.com/getstream/Streamoji) - Custom emoji rendering library with support for GIFs and images, UITextView extension.
+*   [Streamoji (⭐250)](https://github.com/getstream/Streamoji) - Custom emoji rendering library with support for GIFs and images, UITextView extension.
 
 ## [3. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
@@ -64,8 +64,8 @@
 
 ### Libraries / Elixir
 
-*   [mongodb (⭐543)](https://github.com/kobil-systems/mongodb) - Community Elixir driver
-*   [mongodb\_ecto (⭐349)](https://github.com/kobil-systems/mongodb_ecto) - Adapter for the Ecto database wrapper
+*   [mongodb (⭐555)](https://github.com/kobil-systems/mongodb) - Community Elixir driver
+*   [mongodb\_ecto (⭐358)](https://github.com/kobil-systems/mongodb_ecto) - Adapter for the Ecto database wrapper
 
 ### Libraries / PHP
 
@@ -95,21 +95,21 @@
 ### Data Visualization / Runner
 
 *   [Frappe Charts (⭐15k)](https://github.com/frappe/charts) - GitHub-inspired simple and modern SVG charts for the web with zero dependencies.
-*   [Frappe Gantt (⭐3.7k)](https://github.com/frappe/gantt) - A simple, interactive, modern gantt chart library for the web.
+*   [Frappe Gantt (⭐3.9k)](https://github.com/frappe/gantt) - A simple, interactive, modern gantt chart library for the web.
 
 ## [6. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Form Components / Rich Text Editor
 
-*   [ckeditor4-react (⭐86)](https://github.com/ckeditor/ckeditor4-react) - An official CKEditor 4 rich text editor wrapper.
-*   [ckeditor5-react (⭐376)](https://github.com/ckeditor/ckeditor5-react) - An official CKEditor 5 rich text editor wrapper.
+*   [ckeditor4-react (⭐88)](https://github.com/ckeditor/ckeditor4-react) - An official CKEditor 4 rich text editor wrapper.
+*   [ckeditor5-react (⭐392)](https://github.com/ckeditor/ckeditor5-react) - An official CKEditor 5 rich text editor wrapper.
 
 ## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Integrations / Components
 
-*   [ckeditor5-angular (⭐184)](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+
-*   [ckeditor4-angular (⭐44)](https://github.com/ckeditor/ckeditor4-angular) - An official CKEditor 4 rich text editor component for Angular 2+
+*   [ckeditor5-angular (⭐191)](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+
+*   [ckeditor4-angular (⭐49)](https://github.com/ckeditor/ckeditor4-angular) - An official CKEditor 4 rich text editor component for Angular 2+
 
 ## [8. Awesome Corda](/content/chainstack/awesome-corda/README.md)
 
@@ -133,11 +133,11 @@
 
 ### Applications / System tools
 
-*   [gitui (⭐13k)](https://github.com/extrawurst/gitui) - Blazing fast terminal client for git written in Rust. [![build](https://github.com/extrawurst/gitui/workflows/CI/badge.svg?branch=master)](https://github.com/extrawurst/gitui/actions)
+*   [gitui (⭐14k)](https://github.com/extrawurst/gitui) - Blazing fast terminal client for git written in Rust. [![build](https://github.com/extrawurst/gitui/workflows/CI/badge.svg?branch=master)](https://github.com/extrawurst/gitui/actions)
 
 ### Libraries / Macro
 
-*   [Linq-in-Rust (⭐97)](https://github.com/StardustDL/Linq-in-Rust) - Macro and methods for C#-LINQ-like expressions. [![CI](https://github.com/StardustDL/Linq-in-Rust/workflows/CI/badge.svg?branch=master)](https://github.com/StardustDL/Linq-in-Rust/actions?query=workflow%3ACI)
+*   [Linq-in-Rust (⭐107)](https://github.com/StardustDL/Linq-in-Rust) - Macro and methods for C#-LINQ-like expressions. [![CI](https://github.com/StardustDL/Linq-in-Rust/workflows/CI/badge.svg?branch=master)](https://github.com/StardustDL/Linq-in-Rust/actions?query=workflow%3ACI)
 
 ## [12. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 
@@ -179,7 +179,7 @@
 
 ### Apps / Outline Processor Markup Language
 
-*   [Readrops (⭐179)](https://github.com/readrops/Readrops) <sup>[690](https://t.me/s/aboutrss/690)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.readrops.app)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/readrops/Readrops)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Readrops (⭐209)](https://github.com/readrops/Readrops) <sup>[690](https://t.me/s/aboutrss/690)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.readrops.app)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/readrops/Readrops)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Self Hosted Readers / Outline Processor Markup Language
 
@@ -205,12 +205,12 @@
 
 *   [RSS订阅源](https://www.wechatrss.com/) <sup>[409](https://t.me/s/aboutrss/409), [410](https://t.me/s/aboutrss/410), [728](https://t.me/s/aboutrss/728)</sup>
 
-### Full Article Extractors / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Full Article Extractors / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [morss.it](https://morss.it/) <sup>[713](https://t.me/s/aboutrss/713)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://git.pictuga.com/pictuga/morss)
 *   [fulltextrssplz](https://fulltextrssplz.whtsky.me/) <sup>[717](https://t.me/s/aboutrss/717)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/whtsky/fulltextrssplz)
 
-### iOS Shortcut / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### iOS Shortcut / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [播客转换 RSS](https://sharecuts.cn/shortcut/7620) <sup>[726](https://t.me/s/aboutrss/726)</sup>
 

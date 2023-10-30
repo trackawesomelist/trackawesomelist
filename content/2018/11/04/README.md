@@ -56,15 +56,15 @@
 
 ### Graphics
 
-*   [TinySpline (⭐992)](https://github.com/msteinbeck/tinyspline) - A small, yet powerful ANSI C library for interpolating, transforming, and querying arbitrary NURBS, B-Splines, and Bézier curves. \[MIT]
+*   [TinySpline (⭐1k)](https://github.com/msteinbeck/tinyspline) - A small, yet powerful ANSI C library for interpolating, transforming, and querying arbitrary NURBS, B-Splines, and Bézier curves. \[MIT]
 
 ### JSON
 
-*   [LIBUCL (⭐1.5k)](https://github.com/vstakhov/libucl) :zap: - Universal configuration library parser. \[BSD-2-Clause]
+*   [LIBUCL (⭐1.6k)](https://github.com/vstakhov/libucl) :zap: - Universal configuration library parser. \[BSD-2-Clause]
 
 ### Multimedia
 
-*   [libav (⭐973)](https://github.com/libav/libav) - A collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata. \[LGPL v2.1+ and others] [website](https://www.libav.org/)
+*   [libav (⭐999)](https://github.com/libav/libav) - A collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata. \[LGPL v2.1+ and others] [website](https://www.libav.org/)
 
 ### Networking
 
@@ -74,7 +74,7 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [Cinchoo ETL (⭐583)](https://github.com/Cinchoo/ChoETL) - ETL Framework for .NET (Parser / Writer for CSV, Flat, Xml, JSON, Key-Value formatted files).
+*   [Cinchoo ETL (⭐701)](https://github.com/Cinchoo/ChoETL) - ETL Framework for .NET (Parser / Writer for CSV, Flat, Xml, JSON, Key-Value formatted files).
 
 ## [6. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 

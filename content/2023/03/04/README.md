@@ -1,18 +1,24 @@
 # Awesome List Updates on Mar 04, 2023
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [1. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
+
+### Useful Stack Overflow questions & answers
+
+*   [How HTML5 Boilerplate converts GitHub Wiki to its website?](https://stackoverflow.com/questions/8624865/how-html5-boilerplate-converts-github-wiki-to-its-website)
+
+## [2. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Community Extensions
 
-*   [Keycloak Metrics based on Micrometer (⭐14)](https://github.com/kokuwaio/keycloak-event-metrics)
+*   [Keycloak Metrics based on Micrometer (⭐19)](https://github.com/kokuwaio/keycloak-event-metrics)
 
-## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
 
@@ -22,13 +28,13 @@
 
 *   \[🔥🔥🔥] [Prompt book for data lovers II - Google Slides](https://docs.google.com/presentation/d/1V8d6TIlKqB1j5xPFH7cCmgKOV_fMs4Cb4dwgjD5GIsg/edit#slide=id.g1834b964b0f_3_4): An open source exploration on text-to-image and data visualization
 
-## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Tools / Misc
 
 *   [Humanloop](https://humanloop.com) – Humanloop is a platform for prompt experimentation, finetuning models for better performance, cost optimization, and collecting model generated data and user feedback.
 
-## [4. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [5. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Books / Visualization Tools
 

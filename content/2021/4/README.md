@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 25 - Jan 31, 2021
 
-59 awesome lists updated this week.
+58 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -34,54 +34,60 @@
 
 ### Platforms
 
-*   [DOS (⭐335)](https://github.com/balintkissdev/awesome-dos#readme) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
+*   [DOS (⭐369)](https://github.com/balintkissdev/awesome-dos#readme) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
 
 ## [4. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 
 ### Overview / Twitter
 
-*   [Nitter (⭐6.9k)](https://github.com/zedeus/nitter): Alternative Twitter front-end - Lightweight, no ads, no tracking, no JavaScript required
+*   [Nitter (⭐7.9k)](https://github.com/zedeus/nitter): Alternative Twitter front-end - Lightweight, no ads, no tracking, no JavaScript required
     *   Official instance: [nitter.net](https://nitter.net)
-    *   Public instances: [https://github.com/zedeus/nitter/wiki/Instances (⭐6.9k)](https://github.com/zedeus/nitter/wiki/Instances)
+    *   Public instances: [https://github.com/zedeus/nitter/wiki/Instances (⭐7.9k)](https://github.com/zedeus/nitter/wiki/Instances)
     *   Example: Troy Hunt on [Twitter](https://twitter.com/troyhunt) and [Nitter](https://nitter.net/troyhunt)
 
 ### Overview / Reddit
 
-*   [Updoot (⭐60)](https://github.com/adityam49/Updoot): Android, alternative front-end for Reddit
+*   [Updoot (⭐63)](https://github.com/adityam49/Updoot): Android, alternative front-end for Reddit
 
 ### Overview / Hacker News
 
-*   [HN-search (⭐457)](https://github.com/algolia/hn-search): Algolia Hacker News search
+*   [HN-search (⭐476)](https://github.com/algolia/hn-search): Algolia Hacker News search
     *   Example: [Highest rated submissions of the past 24 hours](https://hn.algolia.com/?sort=byPopularity\&page=0\&dateRange=last24h\&type=all)
 
-## [5. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Standard ML / Play Scala
+
+*   [ML for the Working Programmer, 2nd Edition](https://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html) - Lawrence C. Paulson
+
+## [6. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
-*   [vue-vben-admin (⭐18k)](https://github.com/anncwb/vue-vben-admin) - Background management template based on Vue3, Ant-Design-Vue, TypeScript.
+*   [vue-vben-admin (⭐20k)](https://github.com/anncwb/vue-vben-admin) - Background management template based on Vue3, Ant-Design-Vue, TypeScript.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-pwa (⭐2k)](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA.
+*   [vite-plugin-pwa (⭐2.3k)](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA.
 
 ### Rollup Plugins / Covered by default in Vite
 
-*   [@rollup/plugin-babel (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/babel) - Compile your files with Babel.
-*   [@rollup/plugin-buble (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/buble) - Compile ES2015 with buble.
-*   [@rollup/plugin-data-uri (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/data-uri) - Import modules from Data URIs.
-*   [@rollup/plugin-html (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/html) - Create HTML files to serve Rollup bundles.
-*   [@rollup/plugin-node-resolve (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/node-resolve) - Locate and bundle third-party dependencies in node\_modules.
-*   [@rollup/plugin-sucrase (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile TypeScript, Flow, JSX, etc with Sucrase.
-*   [@rollup/plugin-wasm (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/wasm) - Import WebAssembly code with Rollup.
-*   [@rollup/plugin-url (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/url) - Import files as data-URIs or ES Modules.
+*   [@rollup/plugin-babel (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/babel) - Compile your files with Babel.
+*   [@rollup/plugin-buble (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/buble) - Compile ES2015 with buble.
+*   [@rollup/plugin-data-uri (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/data-uri) - Import modules from Data URIs.
+*   [@rollup/plugin-html (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/html) - Create HTML files to serve Rollup bundles.
+*   [@rollup/plugin-node-resolve (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/node-resolve) - Locate and bundle third-party dependencies in node\_modules.
+*   [@rollup/plugin-sucrase (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile TypeScript, Flow, JSX, etc with Sucrase.
+*   [@rollup/plugin-wasm (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/wasm) - Import WebAssembly code with Rollup.
+*   [@rollup/plugin-url (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/url) - Import files as data-URIs or ES Modules.
 
 ### Rollup Plugins / Compatible with Vite
 
-*   [@rollup/plugin-eslint (⭐3.2k)](https://github.com/rollup/plugins/blob/master/packages/eslint) - Verify entry point and all imported files with ESLint.
-*   [@rollup/plugin-legacy (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/legacy) - Add export declarations to legacy non-module scripts.
-*   [@rollup/plugin-yaml (⭐3.2k)](https://github.com/rollup/plugins/blob/master/packages/yaml) - Convert YAML files to ES6 modules.
+*   [@rollup/plugin-eslint (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/eslint) - Verify entry point and all imported files with ESLint.
+*   [@rollup/plugin-legacy (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/legacy) - Add export declarations to legacy non-module scripts.
+*   [@rollup/plugin-yaml (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/yaml) - Convert YAML files to ES6 modules.
 
-## [6. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [7. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### App Releases / Casual
 
@@ -93,23 +99,23 @@
 *   Ripple Effect Puzzle - [Android](https://play.google.com/store/apps/details?id=com.tbuonomo.rippleeffectpuzzle), [iOS](https://apps.apple.com/us/app/id1521454937) - A sophisticated variation of Sudoku.
     By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
-## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Databases
 
-*   [Another Redis Desktop Manager (⭐26k)](https://github.com/qishibo/AnotherRedisDesktopManager) - A faster, better and more stable redis desktop manager.[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://directory.apache.org/sources.html)![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Another Redis Desktop Manager (⭐27k)](https://github.com/qishibo/AnotherRedisDesktopManager) - A faster, better and more stable redis desktop manager.[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://directory.apache.org/sources.html)![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Artificial Intelligence
 
-*   [oneDNN (⭐3.2k)](https://github.com/oneapi-src/oneDNN) - An open-source cross-platform performance library for deep learning applications. \[Apache] [website](https://01.org/onednn)
+*   [oneDNN (⭐3.3k)](https://github.com/oneapi-src/oneDNN) - An open-source cross-platform performance library for deep learning applications. \[Apache] [website](https://01.org/onednn)
 
 ### Machine Learning
 
-*   [oneDAL (⭐559)](https://github.com/oneapi-src/oneDAL) - A powerful machine learning library that helps speed up big data analysis. \[Apache]
+*   [oneDAL (⭐574)](https://github.com/oneapi-src/oneDAL) - A powerful machine learning library that helps speed up big data analysis. \[Apache]
 
-## [9. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
+## [10. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
 
 ### Design tools
 
@@ -117,32 +123,32 @@
 *   [Marvel](https://marvelapp.com/) - Marvel has everything you need to bring ideas to life and transform how you create digital products with your team. Placing the power of design in everyone’s hands.
 *   [UXPin](https://www.uxpin.com/) - Design and manage your entire UX/UI project in one tool.
 
-## [10. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
+## [11. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
 ### Topic Areas / Uncategorized
 
 *   [Data.Table and Dplyr Tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#reshape-data) - A detailed comparison of R packages data.table and dplyr. Author: Atrebas.
 *   [data.table: A gentle introduction](https://atrebas.github.io/post/2020-06-17-datatable-introduction/) - A quick introduction to data.table. The main objective is to present the data.table syntax, showing how to perform basic, but essential, data wrangling tasks. Author: Atrebas.
 
-## [11. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
+## [12. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
 
 ### Farm Management Systems and Record Keeping
 
-*   [Soil Mate (⭐8)](https://github.com/Open-Source-Agriculture/soil_mate) - Helper app designed to assist the collection of soil data.
+*   [Soil Mate (⭐11)](https://github.com/Open-Source-Agriculture/soil_mate) - Helper app designed to assist the collection of soil data.
 
-## [12. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [13. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries
 
-*   [NumPyro (⭐1.7k)](https://github.com/pyro-ppl/numpyro) - Probabilistic programming based on the Pyro library. <img src="https://img.shields.io/github/stars/pyro-ppl/numpyro?style=social" align="center">
-*   [Chex (⭐529)](https://github.com/deepmind/chex) - Utilities to write and test reliable JAX code. <img src="https://img.shields.io/github/stars/deepmind/chex?style=social" align="center">
-*   [Optax (⭐1k)](https://github.com/deepmind/optax) - Gradient processing and optimization library. <img src="https://img.shields.io/github/stars/deepmind/optax?style=social" align="center">
-*   [JAX, M.D. (⭐899)](https://github.com/google/jax-md) - Accelerated, differential molecular dynamics. <img src="https://img.shields.io/github/stars/google/jax-md?style=social" align="center">
+*   [NumPyro (⭐1.9k)](https://github.com/pyro-ppl/numpyro) - Probabilistic programming based on the Pyro library. <img src="https://img.shields.io/github/stars/pyro-ppl/numpyro?style=social" align="center">
+*   [Chex (⭐624)](https://github.com/deepmind/chex) - Utilities to write and test reliable JAX code. <img src="https://img.shields.io/github/stars/deepmind/chex?style=social" align="center">
+*   [Optax (⭐1.2k)](https://github.com/deepmind/optax) - Gradient processing and optimization library. <img src="https://img.shields.io/github/stars/deepmind/optax?style=social" align="center">
+*   [JAX, M.D. (⭐1k)](https://github.com/google/jax-md) - Accelerated, differential molecular dynamics. <img src="https://img.shields.io/github/stars/google/jax-md?style=social" align="center">
 
 ### Libraries / New Libraries
 
-*   [jax-unirep (⭐95)](https://github.com/ElArkk/jax-unirep) - Library implementing the [UniRep model](https://www.nature.com/articles/s41592-019-0598-1) for protein machine learning applications. <img src="https://img.shields.io/github/stars/ElArkk/jax-unirep?style=social" align="center">
-*   [jax-cosmo (⭐121)](https://github.com/DifferentiableUniverseInitiative/jax_cosmo) - Differentiable cosmology library. <img src="https://img.shields.io/github/stars/DifferentiableUniverseInitiative/jax_cosmo?style=social" align="center">
+*   [jax-unirep (⭐96)](https://github.com/ElArkk/jax-unirep) - Library implementing the [UniRep model](https://www.nature.com/articles/s41592-019-0598-1) for protein machine learning applications. <img src="https://img.shields.io/github/stars/ElArkk/jax-unirep?style=social" align="center">
+*   [jax-cosmo (⭐144)](https://github.com/DifferentiableUniverseInitiative/jax_cosmo) - Differentiable cosmology library. <img src="https://img.shields.io/github/stars/DifferentiableUniverseInitiative/jax_cosmo?style=social" align="center">
 
 ### Videos / NumPyro
 
@@ -156,18 +162,11 @@
 
 *   [Plugging Into JAX by Nick Doiron](https://medium.com/swlh/plugging-into-jax-16c120ec3302) - Compares Flax, Haiku, and Objax on the Kaggle flower classification challenge.
 
-## [13. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [14. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / I/O
 
 *   [agcom/knio2 (⭐2)](https://github.com/agcom/knio2) - Kotlinx coroutines extensions for Java NIO.2
-
-## [14. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
-
-### Apps
-
-*   [ipfs.ink (⭐108)](https://github.com/kpcyrd/ipfs.ink) - Publish and render markdown essays to and from ipfs.
-*   [Watchit (⭐265)](https://github.com/ZorrillosDev/watchit-desktop) - A movie platform with a decentralized network approach.
 
 ## [15. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -197,7 +196,7 @@
 
 ### Tools / Testing Tools
 
-*   [generator-eslint (⭐196)](https://github.com/eslint/generator-eslint) - Generate ESLint
+*   [generator-eslint (⭐197)](https://github.com/eslint/generator-eslint) - Generate ESLint
     plugin and rules with [Yeoman](http://yeoman.io/).
 
 ## [17. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
@@ -470,15 +469,15 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ## [23. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
-### Python / Angular
+### Python / Svelte
 
 *   [Data Science Simplified](https://mathdatasimplified.com/). A daily Python and data science snippet.
 
-### Awesome news / Angular
+### Awesome news / Svelte
 
 *   [Senior Mindset](https://seniormindset.com). Get a series of curated essays on the mindset of a senior software engineer.
 
-### Miscellaneous / Angular
+### Miscellaneous / Svelte
 
 *   [Kleroteria](https://www.kleroteria.org). A free, unique "lottery" newsletter where a subscriber is picked whose email submission is sent to all of the other subscribers. Subject matter varies in both topic and quality.
 
@@ -579,29 +578,29 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Python / General-Purpose Machine Learning
 
-*   [Synthia (⭐37)](https://github.com/dmey/synthia) - Multidimensional synthetic data generation in Python.
+*   [Synthia (⭐42)](https://github.com/dmey/synthia) - Multidimensional synthetic data generation in Python.
 
 ### Python / Neural Networks
 
-*   [sequitur (⭐339)](https://github.com/shobrook/sequitur) PyTorch library for creating and training sequence autoencoders in just two lines of code
+*   [sequitur (⭐364)](https://github.com/shobrook/sequitur) PyTorch library for creating and training sequence autoencoders in just two lines of code
 
 ## [29. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [QuickMocker](https://quickmocker.com/) — Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, import from OpenAPI (Swagger) Specifications in JSON format, proxy requests, restrict endpoint by IP address and authorization header. Free account provides 1 random subdomain, 10 endpoints, 5 RegExp URL paths, 50 shortcodes per endpoint, 100 requests per day, 50 history records in requests log.
+*   [QuickMocker](https://quickmocker.com/) — Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, import from OpenAPI (Swagger) Specifications in JSON format, proxy requests, restrict endpoint by IP address and authorization header. The free account provides one random subdomain, ten endpoints, 5 RegExp URL paths, 50 shortcodes per endpoint, 100 requests per day, and 50 history records in the requests log.
 
 ### Monitoring
 
-*   [Grafana Cloud](https://grafana.com/products/cloud/) - Grafana Cloud is a composable observability platform, integrating metrics and logs with Grafana. Free: 3 users, 10 dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention)
+*   [Grafana Cloud](https://grafana.com/products/cloud/) - Grafana Cloud is a composable observability platform that integrates metrics and logs with Grafana. Free: 3 users, ten dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention)
+
+### Feature Toggles Management Platforms
+
+*   [Molasses](https://www.molasses.app) - Powerful feature flags and A/B testing. Free up to 3 environments with five feature flags each.
 
 ### Forms
 
-*   [Form.taxi](https://form.taxi/) — Endpoint for HTML forms submissions. With notifications, spam blocker and GDPR-compliant data processing. Free plan for basic usage.
-
-### Analytics, Events and Statistics
-
-*   [Molasses](https://www.molasses.app) - Powerful feature flags and A/B testing. Free up to 3 environments with 5 feature flags each.
+*   [Form.taxi](https://form.taxi/) — Endpoint for HTML forms submissions. With notifications, spam blockers, and GDPR-compliant data processing. Free plan for basic usage.
 
 ## [30. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
@@ -635,8 +634,8 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Resources / Examples
 
-*   [vue3-webpack (⭐23)](https://github.com/boussadjra/vue3-webpack) vue 3 + webpack 4 starter.
-*   [laravel-vue-3-starter (⭐62)](https://github.com/boussadjra/laravel-vue-3-starter) a pre-configured project using Laravel 8 and Vue 3.
+*   [vue3-webpack (⭐24)](https://github.com/boussadjra/vue3-webpack) vue 3 + webpack 4 starter.
+*   [laravel-vue-3-starter (⭐61)](https://github.com/boussadjra/laravel-vue-3-starter) a pre-configured project using Laravel 8 and Vue 3.
 
 ### Resources / Blog Posts
 
@@ -644,19 +643,19 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Components & Libraries / UI Components
 
-*   [vue-bottom-sheet (⭐138)](https://github.com/webzlodimir/vue-bottom-sheet) - A swipeable bottom sheet component for Vue.js created with Hammer.js
+*   [vue-bottom-sheet (⭐163)](https://github.com/webzlodimir/vue-bottom-sheet) - A swipeable bottom sheet component for Vue.js created with Hammer.js
 
 ### Components & Libraries / Scaffold
 
-*   [vuejs-generate (⭐2)](https://github.com/tomosterlund/generate-vue-component) - An easy CLI for generating Vue components, stores, store modules & unit tests.
+*   [vuejs-generate (⭐3)](https://github.com/tomosterlund/generate-vue-component) - An easy CLI for generating Vue components, stores, store modules & unit tests.
 
 ## [35. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Performance Testing / RPC Frameworks
 
 *   [JMeter gRPC Plugin (⭐42)](https://github.com/zalopay-oss/jmeter-grpc-plugin) - JMeter plugin supports load test gRPC.
-*   [JMeter gRPC Request (⭐149)](https://github.com/zalopay-oss/jmeter-grpc-request) - JMeter gRPC Request load test plugin.
-*   [JMeter Dubbo Plugin (⭐551)](https://github.com/thubbo/jmeter-plugins-for-apache-dubbo) - JMeter plugin for Apache Dubbo.
+*   [JMeter gRPC Request (⭐163)](https://github.com/zalopay-oss/jmeter-grpc-request) - JMeter gRPC Request load test plugin.
+*   [JMeter Dubbo Plugin (⭐558)](https://github.com/thubbo/jmeter-plugins-for-apache-dubbo) - JMeter plugin for Apache Dubbo.
 
 ### Tools / Plugins
 
@@ -672,11 +671,11 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Projects / Godot 3.2+
 
-*   [ProtonGraph (⭐1.1k)](https://github.com/protongraph/protongraph) - Node-based tool for procedural content creation. Like visual scripting, but for 3D model generation (needs custom engine modules).
+*   [ProtonGraph (⭐1.2k)](https://github.com/protongraph/protongraph) - Node-based tool for procedural content creation. Like visual scripting, but for 3D model generation (needs custom engine modules).
 
 ### Plugins and scripts / Various Godot versions
 
-*   [HTerrain (⭐1.3k)](https://github.com/Zylann/godot_heightmap_plugin) - Heightmap-based terrain. Supports texture painting, colouring, holes, level of detail and grass (Godot 3.x).
+*   [HTerrain (⭐1.4k)](https://github.com/Zylann/godot_heightmap_plugin) - Heightmap-based terrain. Supports texture painting, colouring, holes, level of detail and grass (Godot 3.x).
 
 ### Plugins and scripts / Godot 3.2+
 
@@ -866,13 +865,12 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Exporters / Databases
 
-*   [Consol exporter (⭐399)](https://github.com/prometheus/consul_exporter) - The exporter for Consul metrics.
-*   [Memcached exporter (⭐147)](https://github.com/prometheus/memcached_exporter) - The Memcached exporter periodically scrapes Memcached stats.
-*   [MySQL server exporter (⭐1.7k)](https://github.com/prometheus/mysqld_exporter) - The MySQL server exporter periodically scrapes MySQL stats.
+*   [Memcached exporter (⭐160)](https://github.com/prometheus/memcached_exporter) - The Memcached exporter periodically scrapes Memcached stats.
+*   [MySQL server exporter (⭐1.8k)](https://github.com/prometheus/mysqld_exporter) - The MySQL server exporter periodically scrapes MySQL stats.
 
 ### Exporters / Hardware related
 
-*   [Node/system metrics exporter (⭐8.5k)](https://github.com/prometheus/node_exporter) - The Node exporter periodically scrapes system stats.
+*   [Node/system metrics exporter (⭐9k)](https://github.com/prometheus/node_exporter) - The Node exporter periodically scrapes system stats.
 
 ### Exporters / HTTP
 
@@ -880,17 +878,17 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Exporters / Other monitoring systems
 
-*   [AWS CloudWatch exporter (⭐755)](https://github.com/prometheus/cloudwatch_exporter) - The exporter for Amazon AWS CloudWatch metrics.
-*   [Collectd exporter (⭐229)](https://github.com/prometheus/collectd_exporter) - The exporter for Collectd metrics.
-*   [Graphite exporter (⭐299)](https://github.com/prometheus/graphite_exporter) - The exporter for Graphite metrics.
-*   [InfluxDB (⭐211)](https://github.com/prometheus/influxdb_exporter) - The exporter for InfluxDB metrics.
-*   [JMX exporter (⭐2.5k)](https://github.com/prometheus/jmx_exporter) - The exporter for JMX metrics.
-*   [SNMP exporter (⭐1.2k)](https://github.com/prometheus/snmp_exporter) - The exporter for SNMP metrics.
-*   [StatsD exporter (⭐819)](https://github.com/prometheus/statsd_exporter) - The exporter for StatsD metrics.
+*   [AWS CloudWatch exporter (⭐783)](https://github.com/prometheus/cloudwatch_exporter) - The exporter for Amazon AWS CloudWatch metrics.
+*   [Collectd exporter (⭐233)](https://github.com/prometheus/collectd_exporter) - The exporter for Collectd metrics.
+*   [Graphite exporter (⭐305)](https://github.com/prometheus/graphite_exporter) - The exporter for Graphite metrics.
+*   [InfluxDB (⭐226)](https://github.com/prometheus/influxdb_exporter) - The exporter for InfluxDB metrics.
+*   [JMX exporter (⭐2.6k)](https://github.com/prometheus/jmx_exporter) - The exporter for JMX metrics.
+*   [SNMP exporter (⭐1.3k)](https://github.com/prometheus/snmp_exporter) - The exporter for SNMP metrics.
+*   [StatsD exporter (⭐837)](https://github.com/prometheus/statsd_exporter) - The exporter for StatsD metrics.
 
 ### Exporters / Miscellaneous
 
-*   [Blackbox (⭐3.5k)](https://github.com/prometheus/blackbox_exporter) - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP.
+*   [Blackbox (⭐3.7k)](https://github.com/prometheus/blackbox_exporter) - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP.
 
 ## [46. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
@@ -902,7 +900,7 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Development tools / Web Servers
 
-*   [datanymizer/datanymizer (⭐407)](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules [![build badge](https://github.com/datanymizer/datanymizer/workflows/CI/badge.svg?branch=main)](https://github.com/datanymizer/datanymizer/actions?query=workflow%3ACI+branch%3Amain)
+*   [datanymizer/datanymizer (⭐452)](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules [![build badge](https://github.com/datanymizer/datanymizer/workflows/CI/badge.svg?branch=main)](https://github.com/datanymizer/datanymizer/actions?query=workflow%3ACI+branch%3Amain)
 
 ### Libraries / Automotive
 
@@ -910,15 +908,15 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Libraries / Configuration
 
-*   [andoriyu/uclicious (⭐14)](https://github.com/andoriyu/uclicious) \[[uclicious](https://crates.io/crates/uclicious)] — [libUCL (⭐1.5k)](https://github.com/vstakhov/libucl) based feature-rich configuration library. [![CircleCI](https://circleci.com/gh/vstakhov/libucl.svg?style=svg)](https://app.circleci.com/pipelines/github/vstakhov/libucl)
+*   [andoriyu/uclicious (⭐14)](https://github.com/andoriyu/uclicious) \[[uclicious](https://crates.io/crates/uclicious)] — [libUCL (⭐1.6k)](https://github.com/vstakhov/libucl) based feature-rich configuration library. [![CircleCI](https://circleci.com/gh/vstakhov/libucl.svg?style=svg)](https://app.circleci.com/pipelines/github/vstakhov/libucl)
 
 ### Libraries / Cryptography
 
-*   [cossacklabs/themis (⭐1.7k)](https://github.com/cossacklabs/themis) \[[themis](https://crates.io/crates/themis)] — a high-level cryptographic library for solving typical data security tasks, best fit for multi-platform apps. [![build badge](https://circleci.com/gh/cossacklabs/themis/tree/master.svg?style=shield)](https://app.circleci.com/pipelines/github/cossacklabs/themis)
+*   [cossacklabs/themis (⭐1.8k)](https://github.com/cossacklabs/themis) \[[themis](https://crates.io/crates/themis)] — a high-level cryptographic library for solving typical data security tasks, best fit for multi-platform apps. [![build badge](https://circleci.com/gh/cossacklabs/themis/tree/master.svg?style=shield)](https://app.circleci.com/pipelines/github/cossacklabs/themis)
 
 ### Libraries / Date and time
 
-*   [time-rs/time (⭐795)](https://github.com/time-rs/time) — [![build badge](https://github.com/time-rs/time/workflows/Build/badge.svg)](https://github.com/time-rs/time/actions)
+*   [time-rs/time (⭐883)](https://github.com/time-rs/time) — [![build badge](https://github.com/time-rs/time/workflows/Build/badge.svg)](https://github.com/time-rs/time/actions)
 
 ## [48. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -928,13 +926,13 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Logging / Barcode
 
-*   [Puppy (⭐111)](https://github.com/sushichop/Puppy) :penguin: - A flexible logging library that supports multiple transports and platforms.
+*   [Puppy (⭐127)](https://github.com/sushichop/Puppy) :penguin: - A flexible logging library that supports multiple transports and platforms.
 
 ## [49. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Chatwoot](https://www.chatwoot.com) - Self-hosted customer communication platform, an alternative to Intercom & Zendesk. ([Source Code (⭐15k)](https://github.com/chatwoot/chatwoot)) `MIT` `Ruby`
+*   [Chatwoot](https://www.chatwoot.com) - Self-hosted customer communication platform (alternative to Intercom & Zendesk). ([Source Code (⭐17k)](https://github.com/chatwoot/chatwoot)) `MIT` `Ruby/Docker/K8S`
 
 ## [50. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
 
@@ -971,11 +969,11 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 ### Tools
 
 *   🌍🔧 [brands-tail-color](https://brands-tail-color.vercel.app/) - Configuration generator using various brands' colors.
-*   💼 [@ngneat/tailwind (⭐601)](https://github.com/ngneat/tailwind) - Tailwind CSS integration for Angular.
+*   💼 [@ngneat/tailwind](https://github.com/ngneat/tailwind) - Tailwind CSS integration for Angular.
 
 ### UI Libraries, Components & Templates
 
-*   🧩 [Daisy UI (⭐20k)](https://github.com/saadeghi/daisyui) - UI Components for Tailwind CSS.
+*   🧩 [Daisy UI (⭐25k)](https://github.com/saadeghi/daisyui) - UI Components for Tailwind CSS.
 
 ## [53. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
 
@@ -988,42 +986,36 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [GRR Rapid Response (⭐4.4k)](https://github.com/google/grr) - Incident response framework focused on remote live forensics. It consists of a python agent (client) that is installed on target systems, and a python server infrastructure that can manage and talk to the agent. Besides the included Python API client, [PowerGRR (⭐54)](https://github.com/swisscom/PowerGRR) provides an API client library in PowerShell working on Windows, Linux and macOS for GRR automation and scripting.
+*   [GRR Rapid Response (⭐4.5k)](https://github.com/google/grr) - Incident response framework focused on remote live forensics. It consists of a python agent (client) that is installed on target systems, and a python server infrastructure that can manage and talk to the agent. Besides the included Python API client, [PowerGRR (⭐56)](https://github.com/swisscom/PowerGRR) provides an API client library in PowerShell working on Windows, Linux and macOS for GRR automation and scripting.
 
-## [55. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
-
-### PDF Management / Telegram
-
-*   [PDF Shelter](https://pdfshelter.com/) - Unlimited, privacy-aware, PDF tools running locally on browser
-
-## [56. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [55. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Databases / Data Sources
 
-*   [anime-offline-database (⭐573)](https://github.com/manami-project/anime-offline-database/) - A JSON based offline anime database containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more. \[English]
+*   [anime-offline-database (⭐707)](https://github.com/manami-project/anime-offline-database/) - A JSON based offline anime database containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more. \[English]
 
-## [57. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
+## [56. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
 *   [blog-box (⭐2)](https://github.com/Aveek-Saha/blog-box) - Update a pinned gist to show your latest dev.to blog post.
-*   [medium-stat-box (⭐37)](https://github.com/kylemocode/medium-stat-box) - Update a pinned gist to show your medium stats and latest articles.
+*   [medium-stat-box (⭐38)](https://github.com/kylemocode/medium-stat-box) - Update a pinned gist to show your medium stats and latest articles.
 
 ### GitHub
 
-*   [lang-box (⭐40)](https://github.com/inokawa/lang-box) - Update a pinned gist to contain languages of your recent commits in GitHub
+*   [lang-box (⭐44)](https://github.com/inokawa/lang-box) - Update a pinned gist to contain languages of your recent commits in GitHub
 
-## [58. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [57. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### WSGI Servers
 
-*   [gunicorn (⭐8.8k)](https://github.com/benoitc/gunicorn) - Pre-forked, ported from Ruby's Unicorn project.
+*   [gunicorn (⭐9k)](https://github.com/benoitc/gunicorn) - Pre-forked, ported from Ruby's Unicorn project.
 
-## [59. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [58. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Animations / Components
 
-*   [ng-particles (⭐5.3k)](https://github.com/matteobruni/tsparticles/blob/master/components/angular) - A component to easily add Particles animations to your Angular application
+*   [ng-particles (⭐5.9k)](https://github.com/matteobruni/tsparticles/blob/master/components/angular) - A component to easily add Particles animations to your Angular application
 
 ---
 

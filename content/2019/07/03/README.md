@@ -10,7 +10,7 @@
 
 ### Top / Game Engine resources
 
-*   [Enigma (⭐389)](https://github.com/AmitJoki/Enigma) - Privacy chat with end-to-end encryption by [AmitJoki](https://github.com/AmitJoki)
+*   [Enigma (⭐395)](https://github.com/AmitJoki/Enigma) - Privacy chat with end-to-end encryption by [AmitJoki](https://github.com/AmitJoki)
 
 ## [2. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
@@ -30,21 +30,21 @@
 
 ### TOML
 
-*   [TOMLDecoder (⭐62)](https://github.com/dduan/TOMLDecoder) - Latest TOML standard, decoded.
+*   [TOMLDecoder (⭐66)](https://github.com/dduan/TOMLDecoder) - Latest TOML standard, decoded.
 
 ### Files
 
-*   [Pathos (⭐110)](https://github.com/dduan/Pathos) :penguin: - Efficient Unix file management.
+*   [Pathos (⭐111)](https://github.com/dduan/Pathos) :penguin: - Efficient Unix file management.
 
 ### UITableView / Barcode
 
-*   [DiffableDataSources (⭐780)](https://github.com/ra1028/DiffableDataSources) - 💾 A library for backporting UITableView/UICollectionViewDiffableDataSource.
+*   [DiffableDataSources (⭐830)](https://github.com/ra1028/DiffableDataSources) - 💾 A library for backporting UITableView/UICollectionViewDiffableDataSource.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Cryptocurrencies
 
-*   [zcash (⭐4.7k)](https://github.com/zcash/zcash) — Zcash is an implementation of the "Zerocash" protocol.
+*   [zcash (⭐4.8k)](https://github.com/zcash/zcash) — Zcash is an implementation of the "Zerocash" protocol.
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -67,19 +67,19 @@
 
 ### C / Git
 
-*   [milagro-crypto-c (⭐29)](https://github.com/apache/incubator-milagro-crypto-c) - Small, self-contained and fast open source crypto library. It supports RSA, ECDH, ECIES, ECDSA, AES-GCM, SHA2, SHA3 and Pairing-Based Cryptography.
+*   [milagro-crypto-c (⭐34)](https://github.com/apache/incubator-milagro-crypto-c) - Small, self-contained and fast open source crypto library. It supports RSA, ECDH, ECIES, ECDSA, AES-GCM, SHA2, SHA3 and Pairing-Based Cryptography.
 
 ## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Rapidbay (⭐518)](https://github.com/hauxir/rapidbay/) - Self-hosted torrent videostreaming service/torrent client that allows searching and playing videos from torrents in the browser or from a Chromecast/AppleTV/Smart TV. `MIT` `Python/Docker`
+*   [Rapidbay (⭐597)](https://github.com/hauxir/rapidbay/) - Self-hosted torrent videostreaming service/torrent client that allows searching and playing videos from torrents in the browser or from a Chromecast/AppleTV/Smart TV. `MIT` `Python/Docker`
 
 ## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [the-elements-of-statistical-learning (⭐376)](https://github.com/maitbayev/the-elements-of-statistical-learning) - This repository contains Jupyter notebooks implementing the algorithms found in the book and summary of the textbook.
+*   [the-elements-of-statistical-learning (⭐384)](https://github.com/maitbayev/the-elements-of-statistical-learning) - This repository contains Jupyter notebooks implementing the algorithms found in the book and summary of the textbook.
 
 ## [11. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 

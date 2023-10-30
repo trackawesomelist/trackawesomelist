@@ -22,7 +22,7 @@
 
 ### HTTP Clients
 
-*   [httpx (⭐10k)](https://github.com/encode/httpx) - A next generation HTTP client for Python.
+*   [httpx (⭐11k)](https://github.com/encode/httpx) - A next generation HTTP client for Python.
 
 ## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -38,15 +38,15 @@
 
 ### Command-Line Productivity
 
-*   [eureka (⭐595)](https://github.com/simeg/eureka/) - :bulb: CLI tool to input and store your ideas without leaving the terminal
-*   [gitmux (⭐358)](https://github.com/arl/gitmux) - Show Git status in Tmux status bar
+*   [eureka (⭐651)](https://github.com/simeg/eureka/) - :bulb: CLI tool to input and store your ideas without leaving the terminal
+*   [gitmux (⭐420)](https://github.com/arl/gitmux) - Show Git status in Tmux status bar
 *   [parallel](https://www.gnu.org/software/parallel/) - Build and execute shell command lines from standard input in parallel
 *   [tmux](https://tmux.github.io/) - Amazing terminal multiplexer
 
 ### Customization / Directory Navigation
 
-*   [geometry (⭐857)](https://github.com/geometry-zsh/geometry) - A minimal ZSH theme where any function can be added to the left prompt or (async) right prompt on the fly.
-*   [synth-shell (⭐604)](https://github.com/andresgongora/synth-shell) - Greeter with a customizable status report and a fancy bash prompt
+*   [geometry (⭐875)](https://github.com/geometry-zsh/geometry) - A minimal ZSH theme where any function can be added to the left prompt or (async) right prompt on the fly.
+*   [synth-shell (⭐704)](https://github.com/andresgongora/synth-shell) - Greeter with a customizable status report and a fancy bash prompt
 
 ### System Utilities / Directory Navigation
 
@@ -65,14 +65,14 @@
 
 ### Dialog
 
-*   [Plato (⭐957)](https://github.com/uber-research/plato-research-dialogue-system) - This is the Plato Research Dialogue System, a flexible platform for developing conversational AI agents.
-*   [RNNLG (⭐492)](https://github.com/shawnwun/RNNLG) - RNNLG is an open source benchmark toolkit for Natural Language Generation (NLG) in spoken dialogue system application domains.
+*   [Plato (⭐970)](https://github.com/uber-research/plato-research-dialogue-system) - This is the Plato Research Dialogue System, a flexible platform for developing conversational AI agents.
+*   [RNNLG (⭐488)](https://github.com/shawnwun/RNNLG) - RNNLG is an open source benchmark toolkit for Natural Language Generation (NLG) in spoken dialogue system application domains.
 
 ## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Graphics
 
-*   [ZXing.Net (⭐2.1k)](https://github.com/micjahn/ZXing.Net/) - .Net port of the original java-based barcode reader and generator library zxing.
+*   [ZXing.Net (⭐2.4k)](https://github.com/micjahn/ZXing.Net/) - .Net port of the original java-based barcode reader and generator library zxing.
 
 ## [8. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 

@@ -55,7 +55,7 @@
 
 ### Packages / Testing
 
-*   [Jest (⭐42k)](https://github.com/facebook/jest) - Painless JavaScript testing.
+*   [Jest (⭐43k)](https://github.com/facebook/jest) - Painless JavaScript testing.
 
 ## [4. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Frameworks, Libraries and Tools / Testing
 
-*   [moq.netcore (⭐4.8k)](https://github.com/Moq/moq4) - Most popular and friendly mocking framework for .NET.
+*   [moq.netcore (⭐5.4k)](https://github.com/Moq/moq4) - Most popular and friendly mocking framework for .NET.
 
 ## [8. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Resources / Tutorials
 
-*   [Jayway Vue.js 2 workshop. Build an e-commerce site with vue-router, vuex and vue-resource (⭐322)](https://github.com/jayway/vue-js-workshop)
+*   [Jayway Vue.js 2 workshop. Build an e-commerce site with vue-router, vuex and vue-resource (⭐321)](https://github.com/jayway/vue-js-workshop)
 
 ## [11. Computer Science](/content/ossu/computer-science/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 20, 2020
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Miscellaneous
 
-*   [captcha-image (⭐4)](https://github.com/tpkahlon/captcha-image) - Allows you to generate a random captcha image with options.
+*   [captcha-image (⭐7)](https://github.com/tpkahlon/captcha-image) - Allows you to generate a random captcha image with options.
 
 ## [2. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -24,9 +24,9 @@
 
 *   [Vim](https://vim.sourceforge.io/) — the ubiquitous text editor
     *   [autozimu/LanguageClient-neovim (⭐3.5k)](https://github.com/autozimu/LanguageClient-neovim) — [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
-    *   [crates.nvim (⭐492)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
-    *   [rust-tools.nvim (⭐1.8k)](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp
-    *   [rust.vim (⭐3.5k)](https://github.com/rust-lang/rust.vim) — provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
+    *   [crates.nvim (⭐595)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
+    *   [rust-tools.nvim (⭐2k)](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp
+    *   [rust.vim (⭐3.6k)](https://github.com/rust-lang/rust.vim) — provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
     *   [vim-racer (⭐627)](https://github.com/racer-rust/vim-racer) — allows vim to use [Racer (⭐3.4k)](https://github.com/racer-rust/racer) for Rust code completion and navigation.
 
 ## [4. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
@@ -46,7 +46,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [v-idle (⭐64)](https://github.com/malekim/v-idle) - A Vue.js plugin to detect idle/non-active users.
+*   [v-idle (⭐66)](https://github.com/malekim/v-idle) - A Vue.js plugin to detect idle/non-active users.
 
 ## [7. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Related / Other
 
-*   [awesome-electronjs-hacking (⭐467)](https://github.com/doyensec/awesome-electronjs-hacking)
+*   [awesome-electronjs-hacking (⭐509)](https://github.com/doyensec/awesome-electronjs-hacking)
 
 ## [9. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
@@ -110,7 +110,7 @@
 
 ### Sensors / Light
 
-*   [bh1750 (⭐47)](https://github.com/PinkInk/upylib/tree/master/bh1750) - BH1750 I2C digital light sensor driver.
+*   [bh1750 (⭐48)](https://github.com/PinkInk/upylib/tree/master/bh1750) - BH1750 I2C digital light sensor driver.
 
 ## [12. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
 
@@ -130,15 +130,9 @@
 
 ### Modules / Web utils
 
-*   [ts-prometheus (⭐24)](https://github.com/marcopacini/ts-prometheus) - A prometheus client.
+*   [ts-prometheus (⭐28)](https://github.com/marcopacini/ts-prometheus) - A prometheus client.
 
-## [14. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
-
-### Software / Distributed Filesystems
-
-*   [Minio](https://minio.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code (⭐39k)](https://github.com/minio/minio)) `AGPL-3.0` `Go`
-
-## [15. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [14. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Date and Time
 
@@ -146,27 +140,27 @@
 
 ### Text and Numbers
 
-*   [smile (⭐5)](https://github.com/danigulyas/smile) - Small lib for converting emoji mappers to emoji characters, like in Slack messages.
+*   [smile (⭐4)](https://github.com/danigulyas/smile) - Small lib for converting emoji mappers to emoji characters, like in Slack messages.
 
-## [16. Awesome List](/content/sindresorhus/awesome/README.md)
+## [15. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Front-End Development
 
-*   [Building Blocks for Web Apps (⭐110)](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - Standalone features to be integrated into web apps.
+*   [Building Blocks for Web Apps (⭐129)](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - Standalone features to be integrated into web apps.
 
-## [17. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [16. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
-*   [Shopify (⭐431)](https://github.com/Shopify/web-foundation/blob/main/packages/eslint-plugin/README.md) - Shareable config for [Shopify's style guide (⭐251)](https://github.com/Shopify/javascript).
+*   [Shopify (⭐436)](https://github.com/Shopify/web-foundation/blob/main/packages/eslint-plugin/README.md) - Shareable config for [Shopify's style guide (⭐250)](https://github.com/Shopify/javascript).
 
 ### Plugins / Compatibility
 
-*   [Compat (⭐2.9k)](https://github.com/amilajack/eslint-plugin-compat) - Lint browser compatibility of APIs used ([caniuse](http://caniuse.com/#search=fetch) as an ESLint plugin).
+*   [Compat (⭐3k)](https://github.com/amilajack/eslint-plugin-compat) - Lint browser compatibility of APIs used ([caniuse](http://caniuse.com/#search=fetch) as an ESLint plugin).
 
 ### Plugins / Practices and Specific ES Features
 
-*   [boundaries (⭐351)](https://github.com/javierbrea/eslint-plugin-boundaries) - Ensures that your architecture boundaries are respected by the elements in your project checking file structure and dependencies.
+*   [boundaries (⭐359)](https://github.com/javierbrea/eslint-plugin-boundaries) - Ensures that your architecture boundaries are respected by the elements in your project checking file structure and dependencies.
 
 ---
 

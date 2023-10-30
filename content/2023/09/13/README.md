@@ -20,11 +20,11 @@
 
 ### Community Extensions
 
-*   [embesozzi/keycloak-webauthn-conditional-mediation WebAuthn Support for Passkeys (⭐2)](https://github.com/embesozzi/keycloak-webauthn-conditional-mediation)
+*   [embesozzi/keycloak-webauthn-conditional-mediation WebAuthn Support for Passkeys (⭐5)](https://github.com/embesozzi/keycloak-webauthn-conditional-mediation)
 
 ### Example Projects
 
-*   [Keycloak enviornment with WebAuthn Support for Stepup Auth with MFA Biometrics and Passkeys (by embesozzi) (⭐8)](https://github.com/embesozzi/keycloak-workshop-stepup-mfa-biometrics)
+*   [Keycloak enviornment with WebAuthn Support for Stepup Auth with MFA Biometrics and Passkeys (by embesozzi) (⭐12)](https://github.com/embesozzi/keycloak-workshop-stepup-mfa-biometrics)
 
 ## [3. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
@@ -46,85 +46,9 @@
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
-### Libraries/Frameworks / Graphics
-
-*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
-
-### Libraries/Frameworks / Data Science
-
-*   [holgerbrandl/krangl (⭐563)](https://github.com/holgerbrandl/krangl) - krangl is a {K}otlin library for data w{rangl}ing.
-*   [sekwiatkowski/Komputation (⭐293)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
-
-### Libraries/Frameworks / Logging
-
-*   [Foso/Cabret-Log (⭐191)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
-
-### Libraries/Frameworks / Mail
-
-*   [bluefireoly/SimpleKotlinMail (⭐56)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
-
-### Projects / Web
-
-*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
-
-### Projects / Build tools
-
-*   [gradle/kotlin-dsl-samples (⭐3.7k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
-*   [nebula-plugins/nebula-kotlin-plugin (⭐57)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
-
-### Projects / Misc
-
-*   [kpspemu/kpspemu (⭐70)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
-*   [chrislo27/RhythmHeavenRemixEditor (⭐420)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
-
-### Projects / Desktop
-
-*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
-
-### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
-
 ### Android / Libraries
 
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-*   [Blueprint (⭐28)](https://github.com/popovanton0/Blueprint) - 📐 A library that draws a blueprint on top of your Jetpack Compose composables. It visualizes dimensions, like paddings and sizes.
-
-### Android / Projects
-
-*   [hanjoongcho/aaf-easyphotomap (⭐40)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
-*   [mustafaberkaymutlu/uv-index (⭐66)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
-*   [hanjoongcho/aaf-easypassword (⭐34)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
-
-### Android / Extensions
-
-*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
-
-### Android / Tests
-
-*   [agoda-com/Kakao (⭐1.1k)](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
-
-### Kotlin JavaScript / JavaScript
-
-*   [pixijs/pixi-native (⭐85)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
-*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
-*   [Foso/MpApt (⭐238)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
-
-### Kotlin JavaScript / Build Tools
-
-*   [Kotlin/kotlin-frontend-plugin (⭐566)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
-
-### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐320)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-### Kotlin Native / Projects
-
-*   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
+*   [Blueprint (⭐77)](https://github.com/popovanton0/Blueprint) - 📐 A library that draws a blueprint on top of your Jetpack Compose composables. It visualizes dimensions, like paddings and sizes.
 
 ## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -148,14 +72,14 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Rivet (⭐842)](https://github.com/Ironclad/rivet): An IDE for creating complex AI agents and prompt chaining, and embedding it in your application. ![GitHub Repo stars](https://img.shields.io/github/stars/Ironclad/rivet?style=social)
-*   [RestGPT (⭐763)](https://github.com/Yifan-Song793/RestGPT): An LLM-based autonomous agent controlling real-world applications via RESTful APIs ![GitHub Repo stars](https://img.shields.io/github/stars/Yifan-Song793/RestGPT?style=social)
+*   [Rivet (⭐1.8k)](https://github.com/Ironclad/rivet): An IDE for creating complex AI agents and prompt chaining, and embedding it in your application. ![GitHub Repo stars](https://img.shields.io/github/stars/Ironclad/rivet?style=social)
+*   [RestGPT (⭐907)](https://github.com/Yifan-Song793/RestGPT): An LLM-based autonomous agent controlling real-world applications via RESTful APIs ![GitHub Repo stars](https://img.shields.io/github/stars/Yifan-Song793/RestGPT?style=social)
 
 ## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Game Development
 
-*   [Raylib-cr (⭐46)](https://github.com/sol-vin/raylib-cr) - Direct bindings to [Raylib](https://raylib.com), which supports Linux, Windows, and Mac
+*   [Raylib-cr (⭐52)](https://github.com/sol-vin/raylib-cr) - Direct bindings to [Raylib](https://raylib.com), which supports Linux, Windows, and Mac
 
 ## [10. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
@@ -173,57 +97,23 @@
 
 ## [11. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
-### Projects / API Management
-
-*   [Gravitee.io API Management (⭐54) (⭐49)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-*   [WSO2 API Manager (⭐759) (⭐756)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
-
-### Projects / API Design
-
-*   [OpenAPI Diff (⭐646) (⭐642)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
-*   [OpenAPI Style Validator (⭐174) (⭐172)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
-
-### Projects / API Documentation
-
-*   [OpenAPI Explorer (⭐224) (⭐222)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
-
 ### Projects / API Gateway
 
-*   [Apinto (⭐932) (⭐925)](https://github.com/eolinker/goku) - A Golang-based microservice gateway that provides dynamic routing, service orchestration, multi-tenancy management, and API access control.
-*   [Ocelot (⭐7.8k) (⭐7.8k)](https://github.com/ThreeMammals/Ocelot) - A .NET API Gateway that provides a simple and elegant way to manage APIs with its intuitive routing and middleware configuration.
-
-### Projects / API Testing
-
-*   MQ clients
-    *   [JMSToolBox (⭐178) (⭐177)](https://github.com/jmstoolbox/jmstoolbox) - Universal JMS client designed to interact with a wide range of JMS-based message brokers.
-    *   [kcat (⭐4.9k) (⭐4.9k)](https://github.com/edenhill/kcat) - Generic non-JVM producer and consumer for Apache Kafka, functioning as a netcat for Kafka.
-    *   [MQTT Explorer (⭐2.4k) (⭐2.5k)](https://github.com/thomasnordquist/MQTT-Explorer) - All-round MQTT client with a structured topic overview, suitable for debugging and testing MQTT-based systems.
-    *   [Offset Explorer](https://www.kafkatool.com) - GUI application for managing and using Apache Kafka clusters, formerly known as Kafka Tool.
-    *   [Service Bus Explorer (⭐1.8k) (⭐1.8k)](https://github.com/paolosalvatori/ServiceBusExplorer) - GUI app for Azure Service Bus, offering advanced features like import/export functionality and the ability to test topic, queues, subscriptions, relay services, notification hubs, and events hubs.
-*   Mocking tools
-    *   [Microcks (⭐932) (⭐928)](https://github.com/microcks/microcks) - Open-source Kubernetes-native tool for API mocking and testing, supporting AsyncAPI, OpenAPI, Postman Collections, etc.
-    *   [Mockable](https://www.mockable.io/) - Simple configurable service to mock out RESTful API or SOAP web-services.
-    *   [Mockoon (⭐5.3k) (⭐5.3k)](https://github.com/mockoon/mockoon) - Easy-to-use tool for designing and running mock REST APIs.
-    *   [MockServer (⭐4.2k) (⭐4.3k)](https://github.com/mock-server/mockserver) - Easy mocking of any system you integrate with via HTTP or HTTPS.
-    *   [Mocky (⭐1.9k) (⭐2k)](https://github.com/MockyAbstract/Mocky) - Free and unlimited online service for generating custom HTTP responses.
-    *   [Prism (⭐3.7k) (⭐3.7k)](https://github.com/stoplightio/prism) - Open-source HTTP mock server that can mimic your API's behavior as if you already built it.
-    *   [WireMock (⭐5.7k) (⭐5.7k)](https://github.com/tomakehurst/wiremock) - Mock your APIs for fast, robust, and comprehensive testing.
+*   [Ocelot (⭐7.8k) (⭐7.9k)](https://github.com/ThreeMammals/Ocelot) - A .NET API Gateway that provides a simple and elegant way to manage APIs with its intuitive routing and middleware configuration.
 
 ### Projects / Messaging
 
-*   [Eclipse Mosquitto (⭐7.7k) (⭐7.7k)](https://github.com/eclipse/mosquitto) - A lightweight open-source message broker that implements the MQTT protocol. Designed for low-power devices and supports message encryption and authentication.
+*   [Eclipse Mosquitto (⭐7.7k) (⭐7.8k)](https://github.com/eclipse/mosquitto) - A lightweight open-source message broker that implements the MQTT protocol. Designed for low-power devices and supports message encryption and authentication.
 *   [RabbitMQ (⭐11k) (⭐11k)](https://github.com/rabbitmq/rabbitmq-server) - An open-source message broker that implements AMQP and supports multiple messaging protocols and patterns. Offers reliable and efficient message delivery and supports clustering and high availability.
 
 ### Projects / Workflow engine
 
 *   [Activiti (⭐9.6k) (⭐9.6k)](https://github.com/Activiti/Activiti) - A lightweight and Java-centric open-source engine for executing BPMN (Business Process Model and Notation) workflows.
-*   [Camunda (⭐3.5k) (⭐3.5k)](https://github.com/camunda/camunda-bpm-platform) - An open-source workflow and decision automation platform that helps you automate business processes and decisions in a flexible and scalable way.
-*   [Conductor (⭐10k) (⭐10k)](https://github.com/Netflix/conductor) - A cloud-based orchestration engine designed to run and manage workflows in a microservices architecture.
-*   [Temporal (⭐8k) (⭐8k)](https://github.com/temporalio/temporal) - An open-source platform that uses a workflow-as-code approach to make your applications more reliable and scalable.
+*   [Camunda (⭐3.5k) (⭐3.6k)](https://github.com/camunda/camunda-bpm-platform) - An open-source workflow and decision automation platform that helps you automate business processes and decisions in a flexible and scalable way.
 
 ### Resources / Protocols
 
-*   [OpenMessaging (⭐281) (⭐282)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
+*   [OpenMessaging (⭐281) (⭐281)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
 
 ## [12. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
@@ -247,7 +137,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [ribru17/bamboo.nvim (⭐118)](https://github.com/ribru17/bamboo.nvim) - A warm green theme.
+*   [ribru17/bamboo.nvim (⭐143)](https://github.com/ribru17/bamboo.nvim) - A warm green theme.
 
 ## [14. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
@@ -269,4 +159,5 @@
 
 ---
 
+- Prev: [Sep 14, 2023](/content/2023/09/14/README.md)
 - Next: [Sep 12, 2023](/content/2023/09/12/README.md)

@@ -22,7 +22,7 @@
 
 ### Frameworks, Libraries and Tools / Database Drivers
 
-*   [confluent-kafka-dotnet (⭐2.4k)](https://github.com/confluentinc/confluent-kafka-dotnet) - Confluent's Apache Kafka .NET client.
+*   [confluent-kafka-dotnet (⭐2.6k)](https://github.com/confluentinc/confluent-kafka-dotnet) - Confluent's Apache Kafka .NET client.
 
 ## [4. Awesome Atom](/content/mehcode/awesome-atom/README.md)
 

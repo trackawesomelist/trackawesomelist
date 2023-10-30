@@ -41,48 +41,48 @@
 
 ### Others / Third-party APIs
 
-*   [Ciao (⭐18)](https://github.com/kjinho/ciao) - an easy-to-use Common Lisp OAuth 2.0 client library. It is a port of the Racket OAuth 2.0 Client to Common Lisp. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
+*   [Ciao (⭐19)](https://github.com/kjinho/ciao) - an easy-to-use Common Lisp OAuth 2.0 client library. It is a port of the Racket OAuth 2.0 Client to Common Lisp. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Database
 
-*   [libpqxx (⭐793)](https://github.com/jtv/libpqxx) - The official C++ client API for PostgreSQL. \[BSD-3-Clause]
+*   [libpqxx (⭐851)](https://github.com/jtv/libpqxx) - The official C++ client API for PostgreSQL. \[BSD-3-Clause]
 
 ### Miscellaneous
 
-*   [jwt-cpp (⭐618)](https://github.com/Thalhammer/jwt-cpp) - A header only library for creating and validating JSON web tokens in C++. \[MIT]
+*   [jwt-cpp (⭐689)](https://github.com/Thalhammer/jwt-cpp) - A header only library for creating and validating JSON web tokens in C++. \[MIT]
 
 ## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Cryptocurrencies
 
-*   [cairo (⭐882)](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation. This is also the native language of [StarkNet](https://www.starknet.io/), a ZK-Rollup using STARK proofs ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/starkware-libs/cairo/CI?style=flat-square\&logo=github)
-*   [sigma-rust (⭐58)](https://github.com/ergoplatform/sigma-rust) — Rust implementation of ErgoTree interpreter and wallet-related features.
+*   [cairo (⭐1.1k)](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation. This is also the native language of [StarkNet](https://www.starknet.io/en), a ZK-Rollup using STARK proofs ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/starkware-libs/cairo/CI?style=flat-square\&logo=github)
+*   [sigma-rust (⭐62)](https://github.com/ergoplatform/sigma-rust) — Rust implementation of ErgoTree interpreter and wallet-related features.
 
 ## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Web
 
-*   [Ahoo-Wang/CoSec (⭐17)](https://github.com/Ahoo-Wang/CoSec) - RBAC-based And Policy-based Multi-Tenant Security Framework.
+*   [Ahoo-Wang/CoSec (⭐21)](https://github.com/Ahoo-Wang/CoSec) - RBAC-based And Policy-based Multi-Tenant Security Framework.
 
 ## [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Related Awesome Lists / Galleries
 
-*   [chaosreactor/awesome-generative-ai (⭐18)](https://github.com/chaosreactor/awesome-generative-ai): An awesome list of low- and no-code generative AI resources
+*   [chaosreactor/awesome-generative-ai (⭐26)](https://github.com/chaosreactor/awesome-generative-ai): An awesome list of low- and no-code generative AI resources
 
 ## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Software Development - FaaS & Serverless
 
-*   [Coolify](https://coolify.io/) - An open-source & self-hostable Heroku / Netlify alternative (and even more). ([Demo](https://demo.coolify.io/), [Source Code (⭐7.7k)](https://github.com/coollabsio/coolify)) `Apache-2.0` `Docker`
+*   [Coolify](https://coolify.io/) - An open-source & self-hostable Heroku / Netlify alternative (and even more). ([Source Code (⭐9.5k)](https://github.com/coollabsio/coolify)) `Apache-2.0` `Docker`
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Analytics, Events and Statistics
 
-*   [Hightouch](https://hightouch.com/) - Hightouch is a Reverse ETL platform that helps you sync your customer data from your data warehouse to your CRM, marketing, and support tools. Free tier that offers you one destination to sync data to.
+*   [Hightouch](https://hightouch.com/) - Hightouch is a Reverse ETL platform that helps you sync customer data from your data warehouse to your CRM, marketing, and support tools. The free tier offers you one destination to sync data to.
 
 ## [13. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

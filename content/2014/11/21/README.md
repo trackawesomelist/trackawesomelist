@@ -21,7 +21,7 @@
 
 ### GIS
 
-*   [NetTopologySuite (⭐1.2k)](https://github.com/NetTopologySuite/NetTopologySuite/)  A .NET GIS solution that is fast and reliable for the .NET platform
+*   [NetTopologySuite (⭐1.3k)](https://github.com/NetTopologySuite/NetTopologySuite/)  A .NET GIS solution that is fast and reliable for the .NET platform
 
 ## [3. Es6 Tools](/content/addyosmani/es6-tools/README.md)
 

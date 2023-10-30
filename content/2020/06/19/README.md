@@ -27,7 +27,7 @@
 
 ### Database Drivers/Clients
 
-*   [crystal-ldap (⭐13)](https://github.com/spider-gazelle/crystal-ldap) - LDAP client
+*   [crystal-ldap (⭐15)](https://github.com/spider-gazelle/crystal-ldap) - LDAP client
 
 ## [4. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 
@@ -39,39 +39,38 @@
 
 ### Plugins / Code Quality
 
-*   [Unicorn (⭐3.2k)](https://github.com/sindresorhus/eslint-plugin-unicorn) - Various awesome ESLint rules.
+*   [Unicorn (⭐3.3k)](https://github.com/sindresorhus/eslint-plugin-unicorn) - Various awesome ESLint rules.
 
 ### Plugins / Compatibility
 
-*   [ecmascript-compat (⭐46)](https://github.com/robatwilliams/es-compat) - Disable ECMAScript language features not supported by your browserslist targets.
-*   [es (⭐95)](https://github.com/mysticatea/eslint-plugin-es) - Disable specific ECMAScript language versions or individual features.
+*   [ecmascript-compat (⭐49)](https://github.com/robatwilliams/es-compat) - Disable ECMAScript language features not supported by your browserslist targets.
+*   [es (⭐96)](https://github.com/mysticatea/eslint-plugin-es) - Disable specific ECMAScript language versions or individual features.
 *   [es5 (⭐54)](https://github.com/nkt/eslint-plugin-es5) - ESLint plugin for ES5 users (forbid ES2015+ usage).
 *   [ie11 (⭐15)](https://github.com/Volox/eslint-plugin-ie11) - Detect unsupported ES6 features in IE11.
 
 ### Plugins / Deprecation
 
-*   [deprecate (⭐67)](https://github.com/AlexMost/eslint-plugin-deprecate) - Mark functions or modules as deprecated and get lint messages when they are used.
-*   [deprecation (⭐167)](https://github.com/gund/eslint-plugin-deprecation) - Identifies use of
+*   [deprecate (⭐70)](https://github.com/AlexMost/eslint-plugin-deprecate) - Mark functions or modules as deprecated and get lint messages when they are used.
+*   [deprecation (⭐175)](https://github.com/gund/eslint-plugin-deprecation) - Identifies use of
     jsdoc `@deprecated` functions.
-*   [disable (⭐56)](https://github.com/mradionov/eslint-plugin-disable) - Disable specified plugins using file path patterns and inline comments.
+*   [disable (⭐57)](https://github.com/mradionov/eslint-plugin-disable) - Disable specified plugins using file path patterns and inline comments.
 
 ### Plugins / Embedded
 
-*   [HTML (⭐394)](https://github.com/BenoitZugmeyer/eslint-plugin-html) - Linting for JavaScript inside of HTML `<script>` tags.
-*   [Markdown (⭐318)](https://github.com/eslint/eslint-plugin-markdown) - Linting for JavaScript inside of Markdown.
+*   [HTML (⭐397)](https://github.com/BenoitZugmeyer/eslint-plugin-html) - Linting for JavaScript inside of HTML `<script>` tags.
+*   [Markdown (⭐324)](https://github.com/eslint/eslint-plugin-markdown) - Linting for JavaScript inside of Markdown.
 
 ### Plugins / Frameworks
 
-*   [Meteor (⭐116)](https://github.com/dferber90/eslint-plugin-meteor) - Meteor specific linting rules.
 *   React
-    *   [JSX a11y (⭐4)](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Accessibility rules on JSX elements.
+    *   [JSX a11y (⭐6)](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Accessibility rules on JSX elements.
     *   [React (⭐8.5k)](https://github.com/yannickcr/eslint-plugin-react) - Linting rules for React and JSX.
-    *   [React Hooks (⭐208k)](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) - Linting rules for React Hooks.
-    *   [React Native (⭐691)](https://github.com/Intellicode/eslint-plugin-react-native) - React Native specific linting rules.
+    *   [React Hooks (⭐210k)](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) - Linting rules for React Hooks.
+    *   [React Native (⭐699)](https://github.com/Intellicode/eslint-plugin-react-native) - React Native specific linting rules.
     *   [React-Redux (⭐72)](https://github.com/DianaSuvorova/eslint-plugin-react-redux) - React-Redux specific linting rules.
 *   Vue
     *   [VueJS (⭐4.1k)](https://github.com/vuejs/eslint-plugin-vue) - Plugin for VueJS.
-    *   [VueJS Scoped CSS (⭐77)](https://github.com/future-architect/eslint-plugin-vue-scoped-css) - Plugin for Scoped CSS in VueJS.
+    *   [VueJS Scoped CSS (⭐81)](https://github.com/future-architect/eslint-plugin-vue-scoped-css) - Plugin for Scoped CSS in VueJS.
 
 ### Plugins / Languages and Environments
 
@@ -79,25 +78,25 @@
 *   Flow
     *   [Flow (⭐1.1k)](https://github.com/gajus/eslint-plugin-flowtype) - Flow type linting rules.
     *   [Flow Errors (⭐407)](https://github.com/amilajack/eslint-plugin-flowtype-errors) - Run Flow as an ESLint plugin.
-*   [Node (⭐924)](https://github.com/mysticatea/eslint-plugin-node) - Additional ESLint's rules for Node.js.
+*   [Node (⭐933)](https://github.com/mysticatea/eslint-plugin-node) - Additional ESLint's rules for Node.js.
 *   [SQL (⭐78)](https://github.com/gajus/eslint-plugin-sql) - SQL linting rules for ESLint.
-*   [TypeScript (⭐13k)](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin) - Linting rules for TypeScript.
+*   [TypeScript (⭐14k)](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin) - Linting rules for TypeScript.
 
 ### Plugins / Libraries
 
 *   Lodash
-    *   [Lodash (⭐256)](https://github.com/wix/eslint-plugin-lodash) - Lodash specific linting rules.
+    *   [Lodash (⭐257)](https://github.com/wix/eslint-plugin-lodash) - Lodash specific linting rules.
     *   [Lodash/fp (⭐147)](https://github.com/jfmengels/eslint-plugin-lodash-fp) - Lodash/fp specific linting rules.
     *   [Lodash template (⭐16)](https://github.com/ota-meshi/eslint-plugin-lodash-template) - Plugin for Lodash template/Underscore template.
     *   [Microtemplates (⭐4)](https://github.com/platinumazure/eslint-plugin-microtemplates) (Used in Lodash and Underscore.js)
 
 ### Plugins / Misc
 
-*   [PutOut (⭐494)](https://github.com/coderaiser/putout/tree/master/packages/eslint-plugin-putout) - an ESLint plugin integrates [putout (⭐494)](https://github.com/coderaiser/putout) linter into ESLint.
+*   [PutOut (⭐507)](https://github.com/coderaiser/putout/tree/master/packages/eslint-plugin-putout) - an ESLint plugin integrates [putout (⭐507)](https://github.com/coderaiser/putout) linter into ESLint.
 
 ### Plugins / Practices and Specific ES Features
 
-*   [Immutable (⭐908)](https://github.com/jhusain/eslint-plugin-immutable) - Disable all mutation in JavaScript.
+*   [Immutable (⭐909)](https://github.com/jhusain/eslint-plugin-immutable) - Disable all mutation in JavaScript.
 
 ### Plugins / Performance
 
@@ -107,12 +106,12 @@
 
 ### Plugins / Testing Tools
 
-*   [Cypress (⭐635)](https://github.com/cypress-io/eslint-plugin-cypress) - Linting rules for Cypress.
+*   [Cypress (⭐649)](https://github.com/cypress-io/eslint-plugin-cypress) - Linting rules for Cypress.
 *   Jest
     *   [Enforcing practices (⭐1k)](https://github.com/jest-community/eslint-plugin-jest) - Linting rules for Jest.
-    *   [Enforcing consistent formatting (⭐134)](https://github.com/dangreenisrael/eslint-plugin-jest-formatting) - Formatting rules for Jest.
+    *   [Enforcing consistent formatting (⭐138)](https://github.com/dangreenisrael/eslint-plugin-jest-formatting) - Formatting rules for Jest.
     *   [Jest-async](https://www.npmjs.com/package/eslint-plugin-jest-async) - Async linting rule for Jest.
-    *   [Jest-DOM (⭐325)](https://github.com/testing-library/eslint-plugin-jest-dom) - Linting rules for Jest-DOM.
+    *   [Jest-DOM (⭐327)](https://github.com/testing-library/eslint-plugin-jest-dom) - Linting rules for Jest-DOM.
 
 ## [6. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/README.md)
 
@@ -124,19 +123,15 @@
 
 ### CDN / Meetups
 
-*   [Cloudflare CDN](https://www.cloudflare.com/cdn/) - A content delivery network that uses next-gen tech to deliver a fast, reliable, CDN services
+*   [Cloudflare CDN](https://www.cloudflare.com/cdn/) - A content delivery network that uses next-gen tech to deliver fast, reliable, CDN services
 
 ## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UI / Barcode
 
-*   [ContainerController (⭐427)](https://github.com/mrustaa/ContainerController) - UI Component. This is a copy swipe-panel from app: Apple Maps, Stocks
+*   [ContainerController (⭐439)](https://github.com/mrustaa/ContainerController) - UI Component. This is a copy swipe-panel from app: Apple Maps, Stocks
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### Web Hosting
-
-*   [txti.es](https://txti.es/) — Quickly create web pages with markdown.
 
 ### Issue Tracking and Project Management
 
@@ -146,7 +141,7 @@
 
 ### Driver crates / Other
 
-*   [AnyLeaf](https://crates.io/crates/anyleaf) - I2C - pH sensor module - [github (⭐3)](https://github.com/AnyLeaf/ph-rust) - ![crates.io](https://img.shields.io/crates/v/anyleaf.svg)
+*   [AnyLeaf](https://crates.io/crates/anyleaf) - I2C - pH sensor module - [github (⭐4)](https://github.com/AnyLeaf/ph-rust) - ![crates.io](https://img.shields.io/crates/v/anyleaf.svg)
 
 ## [11. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Device / Bluetooth / NFC / Beacon
 
-*   [NFC Manager (⭐123)](https://github.com/okadan/flutter-nfc-manager) <!--stargazers:okadan/flutter-nfc-manager--> - Generic NFC plugin for iOS and Android by [Naoki Okada](https://github.com/okadan)
+*   [NFC Manager (⭐150)](https://github.com/okadan/flutter-nfc-manager) <!--stargazers:okadan/flutter-nfc-manager--> - Generic NFC plugin for iOS and Android by [Naoki Okada](https://github.com/okadan)
 
 ## [2. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
@@ -37,43 +37,49 @@
 
 ### Cloud Data Warehousing / Playground
 
-*   [DDB-Table (⭐138)](https://github.com/neuledge/ddb-table) Strongly typed querys and tables for AWS DynamoDB
+*   [DDB-Table (⭐129)](https://github.com/neuledge/ddb-table) Strongly typed querys and tables for AWS DynamoDB
 
 ### Validation / Playground
 
-*   [computed-types (⭐348)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
+*   [computed-types (⭐359)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
 
-## [4. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### TypeScript / Deno
+
+*   [Deno Manual](https://deno.land/manual)
+
+## [5. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Notifications and Messages / Code Coverage
 
 *   [Reply to Stale Bots (⭐15)](https://github.com/c-hive/fresh-bot)
 
-## [5. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [6. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Devices and Wearables / Wealth
 
 *   [Dreem](https://dreem.com/) - Consumer-grade EEG used to monitor and optimize sleep; it also has pulse oxymeter, bone conduction audio, accelerometer and sonometer.
 
-## [6. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [7. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Reverse Engineering
 
-*   [Noia (⭐87)](https://github.com/0x742/noia) - Simple Android application sandbox file browser tool
+*   [Noia (⭐90)](https://github.com/0x742/noia) - Simple Android application sandbox file browser tool
 
-## [7. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [8. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### API / Forms
 
 *   [Formcake](https://formcake.com) - A form backend built for developers: Zapier integrations, zero dependencies, a simple API, and unlimited forms.
 
-## [8. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+## [9. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
 ### Websites
 
 *   Beta Testing - <https://betatesting.com/beta-testing>
 
-## [9. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
+## [10. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
 
 ### Getting Started
 
@@ -313,54 +319,54 @@
 *   [Pathable](https://github.com/Urigo/awesome-meteor/blob/master/README.md/Pathable) - Events managment suite
 *   [MaestroQA](https://www.maestroqa.com/) - Quality assurance software
 
-## [10. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [11. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Operation System / Server Infrastructure and High Performance Computing
 
 *   [mass (⭐255)](https://github.com/maas/maas) - Self-service, remote installation of Windows, CentOS, ESXi and Ubuntu on real servers turns your data centre into a bare metal cloud.
 
-## [11. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [12. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Gaming
 
-*   [Flame (⭐722)](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
+*   [Flame (⭐786)](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
 
 ### Media
 
-*   [Audiovisual (⭐129)](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
+*   [Audiovisual (⭐146)](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
 
 ### Miscellaneous
 
-*   [WP-CLI (⭐168)](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
+*   [WP-CLI (⭐172)](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
 
-## [12. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
+## [13. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
 
 ### Featured On
 
 *   [Google Cloud](https://cloud.google.com/community/)
 
-## [13. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
+## [14. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
 
 ### Code and Package Repositories
 
 *   [PowerShell Test Gallery](https://www.poshtestgallery.com/) - A test version of the PowerShell Gallery. Useful when developing new modules.
 
-## [14. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [15. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [Coder for Raspberry Pi](http://googlecreativelab.github.io/coder/) - A open source project by Googlers to turn a Raspberry Pi into a simple, tiny, personal web server and web-based development environment.
-*   [Network Presence Detector (⭐365)](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) - Setup a Pi Zero to scan for devices on a WiFi network and use that to determine who is "home".
-*   [P4wnP1 (⭐3.5k)](https://github.com/mame82/P4wnP1) - P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W (required for HID backdoor). ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-0.png)
-*   [PoisonTap (⭐5.9k)](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-0.png)
+*   [Network Presence Detector (⭐368)](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) - Setup a Pi Zero to scan for devices on a WiFi network and use that to determine who is "home".
+*   [P4wnP1 (⭐3.8k)](https://github.com/mame82/P4wnP1) - P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W (required for HID backdoor). ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-0.png)
+*   [PoisonTap (⭐6k)](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-0.png)
 
-## [15. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [16. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Deployment / Distribution / Collection View Layout
 
 *   [Appcircle.io](https://appcircle.io) — Automated mobile CI/CD/CT for iOS with online device simulators
 
-## [16. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [17. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Frameworks / Runtimes
 
@@ -389,7 +395,7 @@
 
 *   [Building Microservices? Here is What You Should Know](https://cloudncode.blog/2016/07/22/msa-getting-started/) - A practical overview, based on real-world experience, of what one would need to know in order to build microservices.
 
-## [17. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [18. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Component abstraction crates / Other
 
@@ -402,9 +408,9 @@
 
 ### Driver crates / WIP
 
-*   [ublox-cellular-rs (⭐13)](https://github.com/BlackbirdHQ/ublox-cellular-rs) - Serial - Cellular driver for the full Ublox cellular serial based family
+*   [ublox-cellular-rs (⭐15)](https://github.com/BlackbirdHQ/ublox-cellular-rs) - Serial - Cellular driver for the full Ublox cellular serial based family
 
-## [18. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [19. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -425,27 +431,27 @@
 
 ### 🔱 Workflow Automation / 酷Q Plugin
 
-*   [feedpushr (⭐263)](https://github.com/ncarlier/feedpushr) <sup>[692](https://t.me/s/aboutrss/692)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ncarlier/feedpushr)
+*   [feedpushr (⭐288)](https://github.com/ncarlier/feedpushr) <sup>[692](https://t.me/s/aboutrss/692)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ncarlier/feedpushr)
 
 ### specifically from (*a certain platform*) / Instagram
 
-*   [Bibliogram](https://bibliogram.art/) <sup>[677](https://t.me/s/aboutrss/677)</sup>[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/cloudrac3r/bibliogram)
-    *   [bibliogram.nopyta.org](https://bibliogram.snopyta.org/) <sup>[680](https://t.me/s/aboutrss/680)</sup>
+*   ~~[Bibliogram](https://bibliogram.art/)~~ <sup>[677](https://t.me/s/aboutrss/677)</sup>[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/cloudrac3r/bibliogram)
+    *   ~~[bibliogram.nopyta.org](https://bibliogram.snopyta.org/)~~ <sup>[680](https://t.me/s/aboutrss/680)</sup>
 
 ### RSS2MAIL / Docsify
 
 *   [Feed2Mail](https://www.feed2mail.com/) <sup>[687](https://t.me/s/aboutrss/687)</sup>
 
-### Feed Analytics / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Feed Analytics / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Feedio](https://feedio.co) <sup>[678](https://t.me/s/aboutrss/678)</sup>
 
-### Society / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Society / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [一些法律相关信息的 RSS 订阅地址](https://blackwinmin.github.io/posts/law_rss/) <sup>[681](https://t.me/s/aboutrss/681)</sup>
-*   [品葱精选 (⭐0)](https://github.com/Project-Gutenberg/Pincong) <sup>[685](https://t.me/s/aboutrss/685)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Project-Gutenberg/Pincong)
+*   [品葱精选 (⭐1)](https://github.com/Project-Gutenberg/Pincong) <sup>[685](https://t.me/s/aboutrss/685)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Project-Gutenberg/Pincong)
 
-### Tech or IT / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Tech or IT / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Techblast](http://techblast.scripting.com/) <sup>[691](https://t.me/s/aboutrss/691)</sup>
 
@@ -457,23 +463,23 @@
 ### Turn YouTube into Podcast / Crypto or Blockchain relevant
 
 *   [Listenbox](https://listenbox.app) <sup>[683](https://t.me/s/aboutrss/683)</sup>
-*   [YouCast (⭐209)](https://github.com/i3arnon/YouCast) <sup>[684](https://t.me/s/aboutrss/684)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/i3arnon/YouCast)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [YouCast (⭐228)](https://github.com/i3arnon/YouCast) <sup>[684](https://t.me/s/aboutrss/684)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/i3arnon/YouCast)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-## [19. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
+## [20. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
 ### Official resources
 
-*   [Official Prometheus demo](https://demo.do.prometheus.io) - Official Prometheus demo site managed by Cloud Alchemy Ansible roles updating daily using configuration from [Prometheus repository (⭐75)](https://github.com/prometheus/demo-site).
+*   [Official Prometheus demo](https://demo.do.prometheus.io) - Official Prometheus demo site managed by Cloud Alchemy Ansible roles updating daily using configuration from [Prometheus repository (⭐80)](https://github.com/prometheus/demo-site).
 
 ### Deployment tools
 
-*   [Cloud Alchemy Ansible roles](https://github.com/cloudalchemy) - Ansible roles to manage Prometheus, Alertmanager, Grafana, and commond Prometheus exporters.
+*   [Cloud Alchemy Ansible roles](https://github.com/cloudalchemy) - Ansible roles to manage Prometheus, Alertmanager, Grafana, and common Prometheus exporters.
 
 ### Alertmanager / Miscellaneous
 
 *   [Monitoring mixins](https://monitoring.mixins.dev) - Community managed bundles of alerts, recording rules, and Grafana dashboards.
 
-## [20. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
+## [21. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
 
 ### Support Communities
 
@@ -688,35 +694,25 @@ Language: English \ <br>
 Notable Channels: `#business`, `#game-design`, `#math`, `#mechanics`, `#playtesting`, `#visual-design`, `#world-design`, `#writing`, `#game-critique`, `#mechanics-critique`, `#projects` \
 Language: English
 
-## [21. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
+## [22. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
 
 ### Resources / Tools
 
 *   [Akita (⭐22)](https://github.com/esse-dev/akita) - A browser extension that gives you insight into your involvement with Web Monetization.
 
     > Akita presents your top visited monetized sites, how much time you're spending on them, and how much you're contributing (or could contribute) to them.
-*   [Open Monetization Wallet (⭐12)](https://github.com/signalnerve/openmonetizationwallet) - Tools for managing your vanity Web Monetization wallet.
 
-    > Open Monetization Wallet (OMW) makes it easier to accept payments with the Web Monetization API at scale. Some features:
-    >
-    > *   Custom wallet URLs: own your own "Payment Pointer", e.g. $wallet.signalnerve.com, instead of $pay.stronghold.co/abcdef123
-    > *   Change between wallets/providers with no downtime
-    > *   Logs of incoming payment requests
-    > *   Revenue sharing between multiple wallets, e.g. for multiple team members
-    > *   Infinitely scalable with serverless technology
-    > *   Free and open-source
-
-## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [23. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Calendar / Barcode
 
-*   [HorizonCalendar (⭐2.3k)](https://github.com/airbnb/HorizonCalendar) - A declarative, performant, iOS calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.
+*   [HorizonCalendar (⭐2.5k)](https://github.com/airbnb/HorizonCalendar) - A declarative, performant, iOS calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.
 
 ### Walkthrough / Barcode
 
-*   [SuggestionsKit (⭐64)](https://github.com/huemae/SuggestionsKit) - Library for educating users about features in app.
+*   [SuggestionsKit (⭐68)](https://github.com/huemae/SuggestionsKit) - Library for educating users about features in app.
 
-## [23. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [24. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Component bundles
 
@@ -724,79 +720,79 @@ Language: English
 
 ### Individual components / Charts
 
-*   [ChartJs.Blazor (⭐592)](https://github.com/mariusmuntean/ChartJs.Blazor) - ![stars](https://img.shields.io/github/stars/mariusmuntean/ChartJs.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=86400) Brings [ChartJs (⭐61k)](https://github.com/chartjs/Chart.js) charts to Blazor.
-*   [Blazor-ApexCharts (⭐354)](https://github.com/joadan/Blazor-ApexCharts) - ![stars](https://img.shields.io/github/stars/joadan/Blazor-ApexCharts?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/joadan/Blazor-ApexCharts?style=flat-square\&cacheSeconds=86400) Blazor wrapper for ApexCharts. [Demo](https://joadan.github.io/Blazor-ApexCharts/basic-charts).
-*   [Plotly.Blazor (⭐252)](https://github.com/LayTec-AG/Plotly.Blazor) - ![stars](https://img.shields.io/github/stars/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=86400) Brings the charting library [plotly.js (⭐16k)](https://github.com/plotly/plotly.js) with over 40 chart types to Blazor ([Demo](https://plotly-blazor.azurewebsites.net/)).
-*   [GG.Net Data Visualization (⭐74)](https://github.com/pablofrommars/GGNet) - ![stars](https://img.shields.io/github/stars/pablofrommars/GGNet?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/pablofrommars/GGNet?style=flat-square\&cacheSeconds=86400) Interactive and flexible charts for Blazor Web Apps. Taking its inspiration from the highly popular ggpplot2 R package, GG.Net provides natively rich features for your Data Analysis Workflow. Build publication quality charts with just a few lines of code. [Website](https://pablofrommars.github.io/).
+*   [ChartJs.Blazor (⭐619)](https://github.com/mariusmuntean/ChartJs.Blazor) - ![stars](https://img.shields.io/github/stars/mariusmuntean/ChartJs.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/akorchev/razor.radzen.com?style=flat-square\&cacheSeconds=86400) Brings [ChartJs (⭐62k)](https://github.com/chartjs/Chart.js) charts to Blazor.
+*   [Blazor-ApexCharts (⭐495)](https://github.com/joadan/Blazor-ApexCharts) - ![stars](https://img.shields.io/github/stars/joadan/Blazor-ApexCharts?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/joadan/Blazor-ApexCharts?style=flat-square\&cacheSeconds=86400) Blazor wrapper for ApexCharts. [Demo](https://joadan.github.io/Blazor-ApexCharts/basic-charts).
+*   [Plotly.Blazor (⭐289)](https://github.com/LayTec-AG/Plotly.Blazor) - ![stars](https://img.shields.io/github/stars/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/LayTec-AG/Plotly.Blazor?style=flat-square\&cacheSeconds=86400) Brings the charting library [plotly.js (⭐16k)](https://github.com/plotly/plotly.js) with over 40 chart types to Blazor ([Demo](https://plotly-blazor.azurewebsites.net/)).
+*   [GG.Net Data Visualization (⭐75)](https://github.com/pablofrommars/GGNet) - ![stars](https://img.shields.io/github/stars/pablofrommars/GGNet?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/pablofrommars/GGNet?style=flat-square\&cacheSeconds=86400) Interactive and flexible charts for Blazor Web Apps. Taking its inspiration from the highly popular ggpplot2 R package, GG.Net provides natively rich features for your Data Analysis Workflow. Build publication quality charts with just a few lines of code. [Website](https://pablofrommars.github.io/).
 
 ### Individual components / Date & time
 
-*   [BlazorDateRangePicker (⭐149)](https://github.com/jdtcn/BlazorDateRangePicker) - ![stars](https://img.shields.io/github/stars/jdtcn/BlazorDateRangePicker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jdtcn/BlazorDateRangePicker?style=flat-square\&cacheSeconds=86400) A date range picker component library for Blazor. [Demo](https://BlazorDateRangePicker.azurewebsites.net/).
+*   [BlazorDateRangePicker (⭐159)](https://github.com/jdtcn/BlazorDateRangePicker) - ![stars](https://img.shields.io/github/stars/jdtcn/BlazorDateRangePicker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jdtcn/BlazorDateRangePicker?style=flat-square\&cacheSeconds=86400) A date range picker component library for Blazor. [Demo](https://BlazorDateRangePicker.azurewebsites.net/).
 
 ### Individual components / Modal, Toast & Notifications
 
-*   [Blazored.Modal (⭐679)](https://github.com/Blazored/Modal) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Modal?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Modal?style=flat-square\&cacheSeconds=86400) A JavaScript free modal library for Blazor and Razor Components applications.
+*   [Blazored.Modal (⭐717)](https://github.com/Blazored/Modal) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Modal?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Modal?style=flat-square\&cacheSeconds=86400) A JavaScript free modal library for Blazor and Razor Components applications.
 
 ### Individual components / Others
 
-*   [Texnomic.Blazor.hCaptcha (⭐3)](https://github.com/Texnomic/hCaptcha) - ![last commit](https://img.shields.io/github/last-commit/Texnomic/hCaptcha?style=flat-square\&cacheSeconds=86400) hCaptcha Component for Server-Side Blazor.
+*   [Texnomic.Blazor.hCaptcha (⭐6)](https://github.com/Texnomic/hCaptcha) - ![last commit](https://img.shields.io/github/last-commit/Texnomic/hCaptcha?style=flat-square\&cacheSeconds=86400) hCaptcha Component for Server-Side Blazor.
 
-## [24. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [25. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Realtime Utilities / Ruby
 
-*   [manual-gtfsrt (⭐2)](https://github.com/pailakka/manual-gtfsrt) - A Go-based tool that serves a GTFS-RT feed created from editable JSON.
+*   [manual-gtfsrt (⭐5)](https://github.com/pailakka/manual-gtfsrt) - A Go-based tool that serves a GTFS-RT feed created from editable JSON.
 
-## [25. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [26. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Network perimeter defenses / Evidence collection
 
-*   [Gatekeeper (⭐934)](https://github.com/AltraMayor/gatekeeper) - First open source Distributed Denial of Service (DDoS) protection system.
+*   [Gatekeeper (⭐1k)](https://github.com/AltraMayor/gatekeeper) - First open source Distributed Denial of Service (DDoS) protection system.
 
-## [26. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [27. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Sample Projects / PHP
 
-*   [DDD CQRS Todo Sample (⭐300)](https://github.com/ferrius/ddd-cqrs-example) - DDD CQRS ADR hexagonal architecture implementation built with PHP 7 and Symfony 5.
+*   [DDD CQRS Todo Sample (⭐333)](https://github.com/ferrius/ddd-cqrs-example) - DDD CQRS ADR hexagonal architecture implementation built with PHP 7 and Symfony 5.
 
-## [27. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [28. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Models
 
 *   [django-polymorphic (⭐1.5k)](https://github.com/django-polymorphic/django-polymorphic) - Django-polymorphic simplifies using inherited models in Django projects.
 
-## [28. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [29. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### CLI Utils
 
-*   [climate (⭐12)](https://github.com/Sija/climate.cr) - Tiny tool to make your CLI output 🌈  coloured
+*   [climate (⭐14)](https://github.com/Sija/climate.cr) - Tiny tool to make your CLI output 🌈  coloured
 
-## [29. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [30. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
-*   [dmux (⭐255)](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
+*   [dmux (⭐270)](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
 
-## [30. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [31. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Intermediate
 
 *   [Lisp Tips (⭐102)](https://github.com/lisp-tips/lisp-tips/issues/) - A blog with useful tips and tricks. A continuation of [Common Lisp tips](http://lisptips.com/).
 *   [Lisp project of the day](http://40ants.com/lisp-project-of-the-day/) - A blog showcasing many Lisp libraries.
 
-## [31. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [32. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Meaning of Symbols:
 
 *   :information\_source: indicates that the community does not recommend to use this tool for new projects anymore. The icon links to the discussion issue.
 
-## [32. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [33. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / EHR
 
 *   [GNUmed](https://www.gnumed.de/documentation/) - Electronic Medical Record software.
 
-## [33. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [34. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :safety_vest: Community Prisma Tools
 
@@ -810,34 +806,24 @@ Language: English
 *   [Starter Template for NestJS and Prisma (⭐19)](https://github.com/fivethree-team/nestjs-prisma-starter)
 *   [prisma-relay-cursor-connection (⭐220)](https://github.com/devoxa/prisma-relay-cursor-connection)
 
-## [34. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [35. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / GUI
 
-*   [Lara (⭐121)](https://github.com/integrativesoft/lara) - Lara Web Engine is a library for developing Web user interfaces in C#
+*   [Lara (⭐139)](https://github.com/integrativesoft/lara) - Lara Web Engine is a library for developing Web user interfaces in C#
 
-## [35. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
+## [36. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
 
 ### Codelabs/Courses
 
 *   [Build Actions for Google Assistant using Actions Builder (Level 1)](https://codelabs.developers.google.com/codelabs/actions-builder-1/index.html)
 *   [Build Actions for Google Assistant using Actions Builder (Level 2)](https://codelabs.developers.google.com/codelabs/actions-builder-2/index.html)
 
-## [36. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [37. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Image Processing
 
-*   [PyMatting (⭐1.4k)](http://github.com/pymatting/pymatting) - A library for alpha matting.
-
-## [37. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
-
-### Services
-
-*   [Robonomics Network](https://robonomics.network/) - Ethereum network infrastructure for cyber-physical systems' integration into Smart Cities and Industry 4.0
-
-### Tools
-
-*   [IPFS Setup Action](https://github.com/marketplace/actions/ipfs-setup-action) - A GitHub Action to install and initialize go-ipfs to provision a cross-platform test environment on GitHub's CI platform. [Source (⭐14)](https://github.com/ibnesayeed/setup-ipfs)
+*   [PyMatting (⭐1.5k)](http://github.com/pymatting/pymatting) - A library for alpha matting.
 
 ## [38. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
@@ -1020,23 +1006,23 @@ Language: English
 
 ### Godot script editor syntax themes / Godot version unknown
 
-*   [Godot syntax themes (⭐244)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
+*   [Godot syntax themes (⭐271)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
 
 ## [40. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Password Managers
 
-*   [Passbolt](https://www.passbolt.com/) - Password manager dedicated for managing passwords in a collaborative way on any Web server, using a MySQL database backend. ([Source Code (⭐3.8k)](https://github.com/passbolt/passbolt_api)) `AGPL-3.0` `PHP`
+*   [Passbolt](https://www.passbolt.com/) - Password manager dedicated for managing passwords in a collaborative way on any Web server, using a MySQL database backend. ([Source Code (⭐4k)](https://github.com/passbolt/passbolt_api)) `AGPL-3.0` `PHP/deb/K8S/Docker`
 
 ### Software / Search Engines
 
-*   [sist2 (⭐547)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. `GPL-3.0` `C`
+*   [sist2 (⭐643)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. `GPL-3.0` `C/Docker`
 
 ## [41. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Utils
 
-*   [Moon (⭐182)](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
+*   [Moon (⭐186)](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
 
 ## [42. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
@@ -1081,31 +1067,29 @@ Language: English
 *   [Standard (⭐28k)](https://github.com/feross/standard) - JavaScript Standard Style.
 *   [Superlint (⭐4)](https://github.com/supermind/superlint) - JavaScript Supermind Style.
 *   [XO (⭐7.2k)](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️.
-*   [Healthier (⭐79)](https://github.com/KidkArolis/healthier) - Code style agnostic version of Standard, perfect companion to Prettier.
+*   [Healthier (⭐80)](https://github.com/KidkArolis/healthier) - Code style agnostic version of Standard, perfect companion to Prettier.
 
 ### Parsers / Testing Tools
 
-*   [Babel (⭐3k)](https://github.com/babel/babel-eslint) - Use Babel's parser for linting all Babel features.
-*   [TypeScript (⭐13k)](https://github.com/typescript-eslint/typescript-eslint) - A TypeScript parser that produces output compatible with ESLint.
-*   [BrightScript (⭐43)](https://github.com/RokuRoad/eslint-plugin-roku) - BrightScript plugin for Roku development. Includes Parser and Rules.
+*   [TypeScript (⭐14k)](https://github.com/typescript-eslint/typescript-eslint) - A TypeScript parser that produces output compatible with ESLint.
+*   [BrightScript (⭐44)](https://github.com/RokuRoad/eslint-plugin-roku) - BrightScript plugin for Roku development. Includes Parser and Rules.
 
 ### Globals / Testing Tools
 
-*   [Restricted Globals (⭐16)](https://github.com/sidoshi/eslint-restricted-globals) - Expect `window` qualifier on globals that may otherwise be confusable as local variables.
-*   [ES and browser globals (⭐279)](https://github.com/sindresorhus/globals) (originally from ESLint)
+*   [ES and browser globals (⭐283)](https://github.com/sindresorhus/globals) (originally from ESLint)
 *   [chai globals (⭐2)](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
 
 ## [47. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Documentation
 
-*   [Game Boy Project Report](http://www.cs.columbia.edu/~sedwards/classes/2019/4840-spring/reports/GameBoy.pdf) - Report of an hardware [emulator (⭐2)](https://github.com/kitsuneh/SVGameBoy) (on a Terasic DE1-SoC Board) developed as final project for the CSEE4840 Embedded Systems Design course at Columbia University.
+*   [Game Boy Project Report](http://www.cs.columbia.edu/~sedwards/classes/2019/4840-spring/reports/GameBoy.pdf) - Report of an hardware [emulator (⭐3)](https://github.com/kitsuneh/SVGameBoy) (on a Terasic DE1-SoC Board) developed as final project for the CSEE4840 Embedded Systems Design course at Columbia University.
 
 ## [48. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
-*   [leroyguillaume/keycloak-bcrypt (⭐100)](https://github.com/leroyguillaume/keycloak-bcrypt)
+*   [leroyguillaume/keycloak-bcrypt (⭐110)](https://github.com/leroyguillaume/keycloak-bcrypt)
 
 ### Integrations
 
@@ -1120,7 +1104,7 @@ Language: English
 
 ### Resources / Examples
 
-*   [vuetify-i18n-boilerplate (⭐14)](https://github.com/Morgbn/vuetify-i18n-boilerplate) - [Demo](https://morgbn.github.io/vuetify-i18n-boilerplate) - A boilerplate to quickly start a Vue project using Vuetify, Vue-i18n, Vuex and Vue-router
+*   [vuetify-i18n-boilerplate (⭐12)](https://github.com/Morgbn/vuetify-i18n-boilerplate) - [Demo](https://morgbn.github.io/vuetify-i18n-boilerplate) - A boilerplate to quickly start a Vue project using Vuetify, Vue-i18n, Vuex and Vue-router
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -1150,11 +1134,11 @@ Language: English
 
 ### Applications
 
-*   [asm-cli-rust (⭐257)](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell written in rust.
-*   [denoland/deno (⭐90k)](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
-*   [kytan (⭐394)](https://github.com/changlan/kytan) — High Performance Peer-to-Peer VPN
+*   [asm-cli-rust (⭐272)](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell written in rust.
+*   [denoland/deno (⭐91k)](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
+*   [kytan (⭐420)](https://github.com/changlan/kytan) — High Performance Peer-to-Peer VPN
 *   [linkerd/linkerd2-proxy (⭐1.8k)](https://github.com/linkerd/linkerd2-proxy) — Ultralight service mesh for Kubernetes.
-*   [rx (⭐2.8k)](https://github.com/cloudhead/rx) — Vi inspired Modern Pixel Art Editor
+*   [rx (⭐2.9k)](https://github.com/cloudhead/rx) — Vi inspired Modern Pixel Art Editor
 
 ## [53. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
@@ -1218,7 +1202,7 @@ Language: English
 
 ### Files and Directories
 
-*   [waffle (⭐629)](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
+*   [waffle (⭐651)](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
 
 ## [58. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
@@ -1309,16 +1293,16 @@ Language: English
 
 ### CI and CD
 
-*   [appcircle.io](https://appcircle.io) — Automated mobile CI/CD/CT for iOS and Android with online device emulators. 20 minutes build timeout (60 mins for Open Source) with single concurrency for free.
+*   [appcircle.io](https://appcircle.io) — Automated mobile CI/CD/CT for iOS and Android with online emulators. 20-minute build timeout (60 minutes for Open Source) with single concurrency for free.
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Sheetson](https://sheetson.com) - Instantly turn any Google Sheets into RESTful API. Free plan available.
-*   [Sofodata](https://www.sofodata.com/) - Create secure RESTful APIs from CSV files. Upload a CSV file and instantly access the data via its API allowing faster application development. Free plan includes 2 APIs and 2,500 API calls per month. No credit card required.
+*   [Sheetson](https://sheetson.com) - Instantly turn any Google Sheets into a RESTful API. Free plan available.
+*   [Sofodata](https://www.sofodata.com/) - Create secure RESTful APIs from CSV files. Upload a CSV file and instantly access the data via its API allowing faster application development. The free plan includes 2 APIs and 2,500 API calls per month. You don't need a credit card.
 
 ### Testing
 
-*   [qase.io](https://qase.io) - Test management system for Dev and QA teams. Manage test cases, compose test runs, perform test runs, track defects and measure impact. The free tier includes all core features, with 500Mb available for attachments and up to 3 users.
+*   [qase.io](https://qase.io) - Test management system for Dev and QA teams. Manage test cases, compose test runs, perform tests, track defects, and measure impact. The free tier includes all core features, with 500MB available for attachments and up to 3 users.
 
 ### IDE and Code Editing
 
@@ -1332,7 +1316,7 @@ Language: English
 
 ### Python / Git
 
-*   [django-cryptography (⭐294)](https://github.com/georgemarshall/django-cryptography) - Easily encrypt data in Django.
+*   [django-cryptography (⭐329)](https://github.com/georgemarshall/django-cryptography) - Easily encrypt data in Django.
 
 ### Web-sites / Git
 
@@ -1342,12 +1326,12 @@ Language: English
 
 ### Packages / Libraries
 
-*   [@magenta/music (⭐1.8k)](https://github.com/magenta/magenta-js/tree/master/music) - A JavaScript library to use machine learning models and generate music in the browser, by having some neat abstractions over the Webaudio API.
+*   [@magenta/music (⭐1.9k)](https://github.com/magenta/magenta-js/tree/master/music) - A JavaScript library to use machine learning models and generate music in the browser, by having some neat abstractions over the Webaudio API.
 *   [soundfont-player](https://www.npmjs.com/package/soundfont-player) - A soundfont loader/player to play MIDI sounds using WebAudio API.
 
 ### Packages / Apps
 
-*   [Web Audio Metronome (⭐531)](https://github.com/cwilso/metronome) - metronome app that uses the Web Audio scheduler and setTimeout scheduler
+*   [Web Audio Metronome (⭐546)](https://github.com/cwilso/metronome) - metronome app that uses the Web Audio scheduler and setTimeout scheduler
 
 ## [65. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
 

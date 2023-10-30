@@ -10,7 +10,7 @@
 
 ### Configuration
 
-*   [sweetconfig (⭐2)](https://github.com/d0rc/sweetconfig) - Read YAML configuration files from any point at your app.
+*   [sweetconfig (⭐3)](https://github.com/d0rc/sweetconfig) - Read YAML configuration files from any point at your app.
 
 ## [2. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 

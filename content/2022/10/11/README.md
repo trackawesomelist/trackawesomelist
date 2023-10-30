@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 11, 2022
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -8,9 +8,9 @@
 
 ## [1. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bubblified (varaki) (⭐0)](https://github.com/varaki/bubblified-varaki.zsh-theme) - Based on [bubblified (hohmannr) (⭐67)](https://github.com/hohmannr/bubblified). Changes color when root. Includes decorators to show user\@host and current directory.
+*   [bubblified (varaki) (⭐0)](https://github.com/varaki/bubblified-varaki.zsh-theme) - Based on [bubblified (hohmannr) (⭐69)](https://github.com/hohmannr/bubblified). Changes color when root. Includes decorators to show user\@host and current directory.
 *   [gitbash (⭐0)](https://github.com/eddieantonio/gitbash-zsh-theme/) - Mimics the default prompt from [Git for Windows](https://gitforwindows.org/). Includes `git` status, user\@host and current directory decorators.
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
@@ -37,19 +37,19 @@
 
 ### Android / Multiplatform
 
-*   [Reedyuk/blue-falcon (⭐249)](https://github.com/Reedyuk/blue-falcon) - A unified Bluetooth library for Android and iOS.
+*   [Reedyuk/blue-falcon (⭐269)](https://github.com/Reedyuk/blue-falcon) - A unified Bluetooth library for Android and iOS.
 
 ## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Goroutines
 
-*   [go-actor (⭐52)](https://github.com/vladopajic/go-actor) - A tiny library for writing concurrent programs using actor model.
+*   [go-actor (⭐74)](https://github.com/vladopajic/go-actor) - A tiny library for writing concurrent programs using actor model.
 
 ## [7. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
 ### Tools
 
-*   [Ansible Semaphore (⭐6.2k)](https://github.com/ansible-semaphore/semaphore) - Ansible Semaphore is a modern UI for Ansible.
+*   [Ansible Semaphore (⭐7.3k)](https://github.com/ansible-semaphore/semaphore) - Ansible Semaphore is a modern UI for Ansible.
 
 ### Playbooks, Roles and Collections / French
 
@@ -59,22 +59,22 @@
 
 ### Templates / Electron
 
-*   [Vitron (⭐5)](https://github.com/tada5hi/vitron) - Build beautiful (win, linux, mac) desktop apps for modern web projects with vite and electron.
+*   [Vitron (⭐11)](https://github.com/tada5hi/vitron) - Build beautiful (win, linux, mac) desktop apps for modern web projects with vite and electron.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-patch-env (⭐4)](https://github.com/KeJunMao/vite-plugin-patch-env) - Patch environment variables from the system into Vite.
-*   [vite-plugin-conditional-compile (⭐32)](https://github.com/KeJunMao/vite-plugin-conditional-compile) - Conditional compilation syntax based on environment variables.
+*   [vite-plugin-patch-env (⭐7)](https://github.com/KeJunMao/vite-plugin-patch-env) - Patch environment variables from the system into Vite.
+*   [vite-plugin-conditional-compile (⭐41)](https://github.com/KeJunMao/vite-plugin-conditional-compile) - Conditional compilation syntax based on environment variables.
 
 ## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Editing Support / Diagnostics
 
-*   [smjonas/live-command.nvim (⭐340)](https://github.com/smjonas/live-command.nvim) - Text editing with immediate visual feedback: preview commands such as `:norm`, `:g`, macros and more.
+*   [smjonas/live-command.nvim (⭐398)](https://github.com/smjonas/live-command.nvim) - Text editing with immediate visual feedback: preview commands such as `:norm`, `:g`, macros and more.
 
 ### Comment / Diagnostics
 
-*   [JoosepAlviste/nvim-ts-context-commentstring (⭐812)](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) - Sets the `commentstring` option based on the cursor location in the file. The location is checked via treesitter queries.
+*   [JoosepAlviste/nvim-ts-context-commentstring (⭐899)](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) - Sets the `commentstring` option based on the cursor location in the file. The location is checked via treesitter queries.
 
 ## [10. Awesome Plone](/content/collective/awesome-plone/README.md)
 
@@ -86,61 +86,61 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [activeWorkflow (⭐652)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents (using Rails 6.0).
-*   [airCasting](https://github.com/HabitatMap/AirCasting) - A platform for recording, mapping, and sharing health and environmental data using your smartphone (using Rails 6.1). - [:earth\_africa:](https://www.habitatmap.org/aircasting)
-*   [alaveteli (⭐335)](https://github.com/mysociety/alaveteli) - A platform for making public freedom of information requests - using Rails 7.0 - [:earth\_africa:](https://alaveteli.org)
-*   [api.rss](https://github.com/davidesantangelo/api.rss) - A RSS feed conversion (to API) app (using Rails 6.0).
-*   [autolab](https://github.com/autolab/Autolab) - A course management app (using Rails 6.0). - [:earth\_africa:](https://autolabproject.com/)
+*   [activeWorkflow (⭐732)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents (using Rails 6.0).
+*   [airCasting (⭐56)](https://github.com/HabitatMap/AirCasting) - A platform for recording, mapping, and sharing health and environmental data using your smartphone (using Rails 6.1). - [:earth\_africa:](https://www.habitatmap.org/aircasting)
+*   [alaveteli (⭐366)](https://github.com/mysociety/alaveteli) - A platform for making public freedom of information requests - using Rails 7.0 - [:earth\_africa:](https://alaveteli.org)
+*   [api.rss (⭐345)](https://github.com/davidesantangelo/api.rss) - A RSS feed conversion (to API) app (using Rails 6.0).
+*   [autolab (⭐700)](https://github.com/autolab/Autolab) - A course management app (using Rails 6.0). - [:earth\_africa:](https://autolabproject.com/)
 *   [beatstream (⭐123)](https://github.com/Darep/Beatstream) - A music streaming app - using Rails 3.2
-*   [bike\_index (⭐244)](https://github.com/bikeindex/bike_index) - A bike registry tracking app (using Rails 6.0). - [:earth\_africa:](https://bikeindex.org)
-*   [calagator (⭐413)](https://github.com/calagator/calagator) - A community calendaring app (using Rails 5.2).
-*   [campo (⭐446)](https://github.com/chloerei/campo) - A forum app (using Rails 4.1).
-*   [chatwoot (⭐14k)](https://github.com/chatwoot/chatwoot) - A simple and elegant live chat software (using Rails 6.1).
-*   [codetriage](https://github.com/codetriage/codetriage) - An open source project finder app (using Rails 7.0). - [:earth\_africa:](https://www.codetriage.com/)
-*   [coursemology2 (⭐128)](https://github.com/Coursemology/coursemology2) - Learning platform app (using Rails 6.0).
+*   [bike\_index (⭐248)](https://github.com/bikeindex/bike_index) - A bike registry tracking app (using Rails 6.0). - [:earth\_africa:](https://bikeindex.org)
+*   [calagator (⭐423)](https://github.com/calagator/calagator) - A community calendaring app (using Rails 5.2).
+*   [campo (⭐445)](https://github.com/chloerei/campo) - A forum app (using Rails 4.1).
+*   [chatwoot (⭐16k)](https://github.com/chatwoot/chatwoot) - A simple and elegant live chat software (using Rails 6.1).
+*   [codetriage (⭐1.4k)](https://github.com/codetriage/codetriage) - An open source project finder app (using Rails 7.0). - [:earth\_africa:](https://www.codetriage.com/)
+*   [coursemology2 (⭐139)](https://github.com/Coursemology/coursemology2) - Learning platform app (using Rails 6.0).
 *   [crabgrass-core](https://0xacab.org/liberate/crabgrass) - A collaboration platform for activist groups (using Rails 5.2).
-*   [crowdtiltOpen (⭐592)](https://github.com/Crowdtilt/CrowdtiltOpen) - A crowdfunding platform - using Rails 6.1
-*   [cw-ovp (⭐22)](https://github.com/x1wins/CW-OVP) - video packaging to \*.m3u8 for HLS (HTTP Live Streaming) with FFMPEG on website (using Rails 6.0).
-*   [danbooru](https://github.com/danbooru/danbooru) - A taggable image board app (using Rails 7.0).
-*   [dgidb (⭐90)](https://github.com/dgidb/dgidb) - A drug gene interaction platform - using Rails 6.0
+*   [crowdtiltOpen (⭐595)](https://github.com/Crowdtilt/CrowdtiltOpen) - A crowdfunding platform - using Rails 6.1
+*   [cw-ovp (⭐25)](https://github.com/x1wins/CW-OVP) - video packaging to \*.m3u8 for HLS (HTTP Live Streaming) with FFMPEG on website (using Rails 6.0).
+*   [danbooru (⭐2k)](https://github.com/danbooru/danbooru) - A taggable image board app (using Rails 7.0).
+*   [dgidb (⭐93)](https://github.com/dgidb/dgidb) - A drug gene interaction platform - using Rails 6.0
 *   [diaspora (⭐13k)](https://github.com/diaspora/diaspora) - A social networking app - using Rails 6.1 - [:earth\_africa:](https://diasporafoundation.org)
-*   [discourse (⭐37k)](https://github.com/discourse/discourse) - A platform for community discussion (using Rails 7.0). - [:earth\_africa:](https://try.discourse.org/)
-*   [ekylibre (⭐303)](https://github.com/ekylibre/ekylibre) - A farm management app (using Rails 5.0).
-*   [expertiza](https://github.com/expertiza/expertiza) - A learning material sharing app (using Rails 5.1).
+*   [discourse (⭐39k)](https://github.com/discourse/discourse) - A platform for community discussion (using Rails 7.0). - [:earth\_africa:](https://try.discourse.org/)
+*   [ekylibre (⭐326)](https://github.com/ekylibre/ekylibre) - A farm management app (using Rails 5.0).
+*   [expertiza (⭐178)](https://github.com/expertiza/expertiza) - A learning material sharing app (using Rails 5.1).
 *   [fairmondo (⭐108)](https://github.com/fairmondo/fairmondo) - A marketplace app (using Rails 5.1). - [:earth\_africa:](https://www.fairmondo.de)
-*   [fat-free-crm](https://github.com/fatfreecrm/fat_free_crm) - An open source, Ruby on Rails customer relationship management platform (CRM) (using Rails 6.1). - [:earth\_africa:](http://www.fatfreecrm.com/)
-*   [feedbin (⭐3.1k)](https://github.com/feedbin/feedbin) - A RSS reader app (using Rails 7.0). - [:earth\_africa:](https://feedbin.com)
-*   [forem (⭐20k)](https://github.com/forem/forem) - Social platform app specialized for web development (using Rails 7.0). - [:earth\_africa:](https://www.forem.com)
-*   [fromthepage](https://github.com/benwbrum/fromthepage) - A wiki-like app for crowdsourcing transcription of handwritten documents (using Rails 6.0). - [:earth\_africa:](https://www.fromthepage.com/)
-*   [gitlabhq](https://github.com/gitlabhq/gitlabhq) - A code collaboration app (using Rails 6.1).
-*   [growstuff (⭐391)](https://github.com/Growstuff/growstuff) - A data management app for food gardeners (using Rails 6.1). - [:earth\_africa:](https://www.growstuff.org/)
-*   [hackershare (⭐432)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers (using Rails 7.0). - [:earth\_africa:](https://hackershare.dev/en)
-*   [hitobito (⭐289)](https://github.com/hitobito/hitobito) - An event organization app (using Rails 6.1). - [:earth\_africa:](https://hitobito.com/en)
-*   [inaturalist](https://github.com/inaturalist/inaturalist) - A community app for nature and related stuff (using Rails 6.1). - [:earth\_africa:](https://www.inaturalist.org)
-*   [lobsters](https://github.com/lobsters/lobsters) - A link aggregation app (using Rails 7.0). - [:earth\_africa:](https://lobste.rs)
+*   [fat-free-crm (⭐3.5k)](https://github.com/fatfreecrm/fat_free_crm) - An open source, Ruby on Rails customer relationship management platform (CRM) (using Rails 6.1). - [:earth\_africa:](http://www.fatfreecrm.com/)
+*   [feedbin (⭐3.2k)](https://github.com/feedbin/feedbin) - A RSS reader app (using Rails 7.0). - [:earth\_africa:](https://feedbin.com)
+*   [forem (⭐21k)](https://github.com/forem/forem) - Social platform app specialized for web development (using Rails 7.0). - [:earth\_africa:](https://www.forem.com)
+*   [fromthepage (⭐164)](https://github.com/benwbrum/fromthepage) - A wiki-like app for crowdsourcing transcription of handwritten documents (using Rails 6.0). - [:earth\_africa:](https://www.fromthepage.com/)
+*   [gitlabhq (⭐23k)](https://github.com/gitlabhq/gitlabhq) - A code collaboration app (using Rails 6.1).
+*   [growstuff (⭐406)](https://github.com/Growstuff/growstuff) - A data management app for food gardeners (using Rails 6.1). - [:earth\_africa:](https://www.growstuff.org/)
+*   [hackershare (⭐506)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers (using Rails 7.0). - [:earth\_africa:](https://hackershare.dev/en)
+*   [hitobito (⭐313)](https://github.com/hitobito/hitobito) - An event organization app (using Rails 6.1). - [:earth\_africa:](https://hitobito.com/en)
+*   [inaturalist (⭐585)](https://github.com/inaturalist/inaturalist) - A community app for nature and related stuff (using Rails 6.1). - [:earth\_africa:](https://www.inaturalist.org)
+*   [lobsters (⭐3.6k)](https://github.com/lobsters/lobsters) - A link aggregation app (using Rails 7.0). - [:earth\_africa:](https://lobste.rs)
 *   [loomio (⭐2.2k)](https://github.com/loomio/loomio) - A collaborative decision-making app (using Rails 6.1). - [:earth\_africa:](https://www.loomio.com/)
-*   [openFarm (⭐912)](https://github.com/openfarmcc/OpenFarm) - A database for information about farming and gardening (using Rails 5.2). -
-*   [openproject (⭐6.5k)](https://github.com/opf/openproject) - A project management app (using Rails 7.0). - [:earth\_africa:](https://www.openproject.org)
-*   [openstreetmap-website (⭐1.7k)](https://github.com/openstreetmap/openstreetmap-website) - A map viewing app (using Rails 7.0). - [:earth\_africa:](https://www.openstreetmap.org)
-*   [otwarchive (⭐1k)](https://github.com/otwcode/otwarchive) - A social networking app for fans - using Rails 6.0 - [:earth\_africa:](https://archiveofourown.org)
-*   [passwordPusher (⭐1.1k)](https://github.com/pglombardo/PasswordPusher) - A password delivery app (using Rails 6.1). - [:earth\_africa:](https://pwpush.com)
-*   [planningalerts-app (⭐82)](https://github.com/openaustralia/planningalerts) - A planned applications tracking app (using Rails 6.1). - [:earth\_africa:](https://www.planningalerts.org.au)
-*   [popHealth (⭐128)](https://github.com/pophealth/popHealth) - A population health reporting app (using Rails 4.1).
+*   [openFarm (⭐1.3k)](https://github.com/openfarmcc/OpenFarm) - A database for information about farming and gardening (using Rails 5.2). -
+*   [openproject (⭐7.4k)](https://github.com/opf/openproject) - A project management app (using Rails 7.0). - [:earth\_africa:](https://www.openproject.org)
+*   [openstreetmap-website (⭐1.9k)](https://github.com/openstreetmap/openstreetmap-website) - A map viewing app (using Rails 7.0). - [:earth\_africa:](https://www.openstreetmap.org)
+*   [otwarchive (⭐1.1k)](https://github.com/otwcode/otwarchive) - A social networking app for fans - using Rails 6.0 - [:earth\_africa:](https://archiveofourown.org)
+*   [passwordPusher (⭐1.4k)](https://github.com/pglombardo/PasswordPusher) - A password delivery app (using Rails 6.1). - [:earth\_africa:](https://pwpush.com)
+*   [planningalerts-app (⭐84)](https://github.com/openaustralia/planningalerts) - A planned applications tracking app (using Rails 6.1). - [:earth\_africa:](https://www.planningalerts.org.au)
+*   [popHealth (⭐126)](https://github.com/pophealth/popHealth) - A population health reporting app (using Rails 4.1).
 *   [publify (⭐1.8k)](https://github.com/publify/publify) - A blogging app (using Rails 6.1).
-*   [quant (⭐140)](https://github.com/jdjkelly/quant) - A personal health tracker (using Rails 4.1).
-*   [racing\_on\_rails](https://github.com/scottwillson/racing_on_rails) - A bike racing organization app (using Rails 6.1).
-*   [rapidFTR](https://github.com/rapidftr/RapidFTR) - An information provider app for aid workers (using Rails 4.0).
+*   [quant (⭐138)](https://github.com/jdjkelly/quant) - A personal health tracker (using Rails 4.1).
+*   [racing\_on\_rails (⭐40)](https://github.com/scottwillson/racing_on_rails) - A bike racing organization app (using Rails 6.1).
+*   [rapidFTR (⭐286)](https://github.com/rapidftr/RapidFTR) - An information provider app for aid workers (using Rails 4.0).
 *   [redmine (⭐2.5k)](https://github.com/edavis10/redmine) - A project management app (using Rails 6.1). - [:earth\_africa:](http://demo.redmine.org)
-*   [theodinproject (⭐2.3k)](https://github.com/TheOdinProject/theodinproject) - A teaching & learning platform (using Rails 6.1). - [:earth\_africa:](https://www.theodinproject.com/)
+*   [theodinproject (⭐2.8k)](https://github.com/TheOdinProject/theodinproject) - A teaching & learning platform (using Rails 6.1). - [:earth\_africa:](https://www.theodinproject.com/)
 *   [tracks (⭐1.1k)](https://github.com/TracksApp/tracks) - A goal tracking app (using Rails 6.0). - [:earth\_africa:](https://www.getontracks.org)
-*   [vglist (⭐131)](https://github.com/connorshea/vglist) - A video game library tracking web app (using Rails 7.0). - [:earth\_africa:](https://vglist.co/)
-*   [websiteOne](https://github.com/AgileVentures/WebsiteOne) - A project tracking app (using Rails 6.1).
+*   [vglist (⭐138)](https://github.com/connorshea/vglist) - A video game library tracking web app (using Rails 7.0). - [:earth\_africa:](https://vglist.co/)
+*   [websiteOne (⭐141)](https://github.com/AgileVentures/WebsiteOne) - A project tracking app (using Rails 6.1).
 
 ## [12. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Blogging/news
 
-*   [wagtail-live (⭐30)](https://github.com/wagtail/wagtail-live) - Build live blogs with Wagtail.
+*   [wagtail-live (⭐34)](https://github.com/wagtail/wagtail-live) - Build live blogs with Wagtail.
 
 ## [13. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
@@ -158,11 +158,11 @@
 
 ### Projects
 
-*   [tchatche.rs (⭐111)](https://github.com/nag763/tchatchers) - A Websocket chat based application built in Yew and Axum.
+*   [tchatche.rs (⭐138)](https://github.com/nag763/tchatchers) - A Websocket chat based application built in Yew and Axum.
 
 ### Crates / Utils
 
-*   [Yew-Template (⭐27)](https://github.com/INSAgenda/yew-template) - A crate for separating HTML and Rust code when using Yew.
+*   [Yew-Template (⭐30)](https://github.com/INSAgenda/yew-template) - A crate for separating HTML and Rust code when using Yew.
 
 ## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -170,7 +170,26 @@
 
 *   [Pure Paste](https://sindresorhus.com/pure-paste) - Paste as plain text by default. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1611378436)
 
-## [17. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [17. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### C++ / Non-X86
+
+*   [C++ Annotations](https://fbb-git.gitlab.io/cppannotations) - Frank B. Brokken (HTML, PDF)
+*   [C++ For Programmers](https://tfetimes.com/wp-content/uploads/2015/04/c-for-c-programmers.pdf) - JT Kalnay (PDF)
+
+### DBMS / Non-X86
+
+*   [Data Management for Analytics and Applications (2021)](https://bookdown.org/kokkodis/book/) - Marios Kokkodis
+
+### Limbo / TeX
+
+*   [Limbo’s documentation](http://resibots.eu/limbo/#limbo-s-documentation)
+
+### Raspberry Pi / Tornado
+
+*   [The Official Raspberry Pi Project Book 2 (2016)](https://magpi.raspberrypi.com/books/projects-2) (PDF)
+
+## [18. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Books / Visualization Tools
 

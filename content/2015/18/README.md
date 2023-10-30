@@ -45,13 +45,13 @@
 
 ### Customization / Directory Navigation
 
-*   [gittify (⭐60)](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases
+*   [gittify (⭐61)](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Machine Learning
 
-*   [MeTA (⭐663)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT] [website](https://meta-toolkit.org/)
+*   [MeTA (⭐676)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT] [website](https://meta-toolkit.org/)
 
 ## [8. Awesome Gametalks](/content/hzoo/awesome-gametalks/week/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [mlxtend (⭐4.4k)](https://github.com/rasbt/mlxtend) - A library consisting of useful tools for data science and machine learning tasks.
+*   [mlxtend (⭐4.5k)](https://github.com/rasbt/mlxtend) - A library consisting of useful tools for data science and machine learning tasks.
 
 ## [10. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
@@ -239,15 +239,15 @@ A weekly newsletter about PHP, security, and the community.
 
 ### Logging
 
-*   [rogger (⭐8)](https://github.com/duartejc/rogger) - Elixir logger to publish log messages in RabbitMQ.
+*   [rogger (⭐9)](https://github.com/duartejc/rogger) - Elixir logger to publish log messages in RabbitMQ.
 
 ### Queue
 
-*   [amqp (⭐640)](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
+*   [amqp (⭐646)](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
 
 ### XML
 
-*   [exml (⭐24)](https://github.com/expelledboy/exml) - Most simple Elixir wrapper for xmerl xpath.
+*   [exml (⭐25)](https://github.com/expelledboy/exml) - Most simple Elixir wrapper for xmerl xpath.
 
 ### Books
 

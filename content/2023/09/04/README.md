@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 04, 2023
 
-11 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -54,33 +54,33 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-html-injection (⭐2)](https://github.com/altrusl/vite-plugin-html-injection) - Inject HTML, JavaScript and CSS code snippets into the `index.html`.
+*   [vite-plugin-html-injection (⭐4)](https://github.com/altrusl/vite-plugin-html-injection) - Inject HTML, JavaScript and CSS code snippets into the `index.html`.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-module-list (⭐0)](https://github.com/davidbonnet/vite-plugin-module-list) - Automatically import the modules found in a specified folder.
+*   [vite-plugin-module-list (⭐2)](https://github.com/davidbonnet/vite-plugin-module-list) - Automatically import the modules found in a specified folder.
 
 ### Vue / Integrations
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue (⭐291)](https://github.com/vitejs/vite-plugin-vue) - Official Vue 3 support.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue (⭐319)](https://github.com/vitejs/vite-plugin-vue) - Official Vue 3 support.
 
 ### React / Routing
 
-*   [generouted (⭐608)](https://github.com/oedotme/generouted) - Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.
+*   [generouted (⭐662)](https://github.com/oedotme/generouted) - Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.
 
 ### React / SSG
 
-*   [vite-react-ssg (⭐5)](https://github.com/Daydreamer-riri/vite-react-ssg) - Static-site generation for React.
+*   [vite-react-ssg (⭐7)](https://github.com/Daydreamer-riri/vite-react-ssg) - Static-site generation for React.
 
 ### Solid / Routing
 
-*   [generouted (⭐608)](https://github.com/oedotme/generouted/tree/main/packages/solid-router) - Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.
+*   [generouted (⭐662)](https://github.com/oedotme/generouted/tree/main/packages/solid-router) - Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.
 
 ## [6. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Build and software organization tools
 
-*   [EasyBuild](https://easybuild.io/) - EasyBuild builds software and modulefiles for High Performance Computing (HPC) systems in an efficient way. ([Source Code (⭐298)](https://github.com/easybuilders/easybuild-easyconfigs)) `GPL-2.0` `Python`
+*   [EasyBuild](https://easybuild.io/) - EasyBuild builds software and modulefiles for High Performance Computing (HPC) systems in an efficient way. ([Source Code (⭐299)](https://github.com/easybuilders/easybuild-easyconfigs)) `GPL-2.0` `Python`
 
 ### Software / Configuration Management Database
 
@@ -89,26 +89,26 @@
 ### Software / Editors
 
 *   [TextMate](https://macromates.com/) - A graphical text editor for OS X. ([Source Code (⭐14k)](https://github.com/textmate/textmate/)) `GPL-3.0` `C++`
-*   [VSCodium](https://vscodium.com/) - An open source cross-platform extensible code editor based on [VS Code by Microsoft](https://code.visualstudio.com/) removing their non-free additions. ([Source Code (⭐21k)](https://github.com/VSCodium/vscodium)) `MIT` `TypeScript`
+*   [VSCodium](https://vscodium.com/) - An open source cross-platform extensible code editor based on [VS Code by Microsoft](https://code.visualstudio.com/) removing their non-free additions. ([Source Code (⭐22k)](https://github.com/VSCodium/vscodium)) `MIT` `TypeScript`
 
 ### Software / Identity Management - Tools and web interfaces
 
-*   [ZITADEL](https://zitadel.com/) - Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management. ([Source Code (⭐4.5k)](https://github.com/zitadel/zitadel)) `Apache-2.0` `Go/Docker/K8S`
+*   [ZITADEL](https://zitadel.com/) - Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management. ([Source Code (⭐4.7k)](https://github.com/zitadel/zitadel)) `Apache-2.0` `Go/Docker/K8S`
+
+### Software / Miscellaneous
+
+*   [phpList](https://www.phplist.org/) - Newsletter and email marketing software. ([Source Code (⭐656)](https://github.com/phpList/phplist3)) `AGPL-3.0` `PHP`
 
 ### Software / Monitoring
 
 *   [Observium Community Edition](http://www.observium.org/) - Network monitoring and management platform that provides real-time insight into network health and performance. `QPL-1.0` `PHP`
-
-### Software / Newsletters
-
-*   [phpList](https://www.phplist.org/) - Newsletter and email marketing software. ([Source Code (⭐645)](https://github.com/phpList/phplist3)) `AGPL-3.0` `PHP`
 
 ### Software / Version control
 
 *   [Darcs](https://darcs.net/) - Cross-platform version control system, like git, mercurial or svn but with a very different approach: focus on changes rather than snapshots. ([Source Code](https://darcs.net/releases/)) `GPL-2.0` `Haskell`
 *   [Fossil](https://www.fossil-scm.org/) - Distributed version control with built-in wiki and bug tracking. ([Source Code](https://www.fossil-scm.org/home/dir?ci=trunk)) `BSD-2-Clause` `C`
 *   [Git](https://git-scm.com/) - Distributed revision control and source code management (SCM) with an emphasis on speed. ([Source Code (⭐47k)](https://github.com/git/git)) `GPL-2.0` `C`
-*   [Subversion](https://subversion.apache.org/) - Client-server revision control system.([Source Code](https://svn.apache.org/repos/asf/subversion/trunk/)) `Apache-2.0` `C`
+*   [Subversion](https://subversion.apache.org/) - Client-server revision control system. ([Source Code](https://svn.apache.org/repos/asf/subversion/trunk/)) `Apache-2.0` `C`
 
 ### Software / Virtualization
 
@@ -120,8 +120,6 @@
 *   `CDDL-1.0` - [Common Development and Distribution License 1.0](https://spdx.org/licenses/CDDL-1.0.html)
 *   `EPL-1.0` - [Eclipse Public License 1.0](https://spdx.org/licenses/EPL-1.0.html)
 *   `GFDL-1.2` - [GNU Free Documentation License 1.2](https://spdx.org/licenses/GFDL-1.2.html)
-*   `LGPL-2.0` - [GNU Library General Public License v2 only](https://spdx.org/licenses/LGPL-2.0.html)
-*   `LGPL-2.1` - [GNU Lesser General Public License v2.1 only](https://spdx.org/licenses/LGPL-2.1.html)
 *   `NLPL` - [No Limit Public License](https://spdx.org/licenses/NLPL.html)
 *   `QPL-1.0` - [Q Public License 1.0](https://spdx.org/licenses/QPL-1.0.html)
 *   `Vim` - [Vim License](https://spdx.org/licenses/Vim.html)
@@ -130,39 +128,15 @@
 
 ### Libraries
 
-*   [hyogwa (⭐37)](https://github.com/ENvironmentSet/hyogwa) - Natural 🌿 effect system that fits TypeScript; Write codes as you write **plain typescript code**.
+*   [hyogwa (⭐44)](https://github.com/ENvironmentSet/hyogwa) - Natural 🌿 effect system that fits TypeScript; Write codes as you write **plain typescript code**.
 
 ## [8. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Programming Languages / Zig
 
-*   [zon2nix (⭐21)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
+*   [zon2nix (⭐46)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
 
-## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Android / Libraries
-
-*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
-
-### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐322)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-## [10. Ai Collection](/content/ai-collection/ai-collection/README.md)
-
-### Avatars
-
-- Name: [BetterPic](https://www.betterpic.io)
-
-  Title: Generate AI Headshots and Portraits
-
-  Description: Get professional headshots in minutes with our AI-photographer. Headshots made easy: pick styles, upload photos, and receive hundreds of results. Done in less than 2 hours.
-
-  Offer Free Version: :x:
-
-
-
-## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -170,4 +144,5 @@
 
 ---
 
+- Prev: [Sep 05, 2023](/content/2023/09/05/README.md)
 - Next: [Sep 03, 2023](/content/2023/09/03/README.md)

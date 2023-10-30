@@ -22,9 +22,9 @@
 
 ### Status Bar
 
-*   [tmux-mpv-info (⭐1)](https://github.com/Feqzz/tmux-mpv-info) Displays the current song playing with MPV in your tmux status bar.
-*   [tmux-spotify-info (⭐74)](https://github.com/jdxcode/tmux-spotify-info) Spotify track info on your status bar (OSX)
-*   [tmux-spotify-info (⭐4)](https://github.com/Feqzz/tmux-spotify-info) Spotify track info on your status bar (Linux)
+*   [tmux-mpv-info (⭐3)](https://github.com/Feqzz/tmux-mpv-info) Displays the current song playing with MPV in your tmux status bar.
+*   [tmux-spotify-info (⭐76)](https://github.com/jdxcode/tmux-spotify-info) Spotify track info on your status bar (OSX)
+*   [tmux-spotify-info (⭐7)](https://github.com/Feqzz/tmux-spotify-info) Spotify track info on your status bar (Linux)
 *   [tmux-weather-info-yr (⭐1)](https://github.com/Feqzz/tmux-weather-info-yr) Displays the current temperature and weather based on your location via yr.no
 
 ## [4. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
@@ -48,25 +48,25 @@
 
 ## [7. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
-### Deployment Tools / Newsletters
+### Deployment Tools / Discovery
 
-*   [Colmena (⭐558)](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
+*   [Colmena (⭐724)](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
 
 ### Programming Languages / Crystal
 
-*   [crystal2nix (⭐11)](https://github.com/nix-community/crystal2nix) - Convert `shard.lock` into Nix expressions.
+*   [crystal2nix (⭐12)](https://github.com/nix-community/crystal2nix) - Convert `shard.lock` into Nix expressions.
 
 ## [8. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Bundle Analyzer / Meetups
 
-*   [BundleStats (⭐347)](https://github.com/relative-ci/bundle-stats) - Generate bundle report(bundle size, assets, modules, packages) and compare the results between different builds
+*   [BundleStats (⭐354)](https://github.com/relative-ci/bundle-stats) - Generate bundle report(bundle size, assets, modules, packages) and compare the results between different builds
 
 ## [9. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Crates / Component Libraries
 
-*   [tailwind-yew-builder (⭐67)](https://github.com/matiu2/tailwind-yew-builder) - Builds Tailwind CSS for Yew using docker-compose. Also supports Trunk.
+*   [tailwind-yew-builder (⭐70)](https://github.com/matiu2/tailwind-yew-builder) - Builds Tailwind CSS for Yew using docker-compose. Also supports Trunk.
 
 ## [10. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Tools / Online Analyzers
 
-*   [Pithus](https://beta.pithus.org/) - Open-Source APK analyzer. Still in Beta for the moment and limited to static analysis for the moment. Possible to hunt malwares with Yara rules. More [here](https://beta.pithus.org/about/).
+*   [Pithus](https://beta.pithus.org/) - Open-Source APK analyzer. Still in Beta for the moment and limited to static analysis for the moment. Possible to hunt malware with Yara rules. More [here](https://beta.pithus.org/about/).
 
 ## [14. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -135,11 +135,11 @@
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [dasel (⭐3.9k)](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq (⭐24k)](https://github.com/stedolan/jq) / [yq (⭐2.1k)](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
+*   [dasel (⭐4.2k)](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq (⭐25k)](https://github.com/stedolan/jq) / [yq (⭐2.2k)](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
 
 ### Applications / Directory Navigation
 
-*   [editly (⭐3.8k)](https://github.com/mifi/editly) - Command line video editor
+*   [editly (⭐4.1k)](https://github.com/mifi/editly) - Command line video editor
 
 ---
 

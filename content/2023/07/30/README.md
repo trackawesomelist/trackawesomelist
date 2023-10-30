@@ -39,7 +39,7 @@
 
 ### MIDI Tools & Libraries
 
-*   [Polyrhythmix (⭐246)](http://github.com/dredozubov/polyrhythmix) - MIDI drums
+*   [Polyrhythmix (⭐266)](http://github.com/dredozubov/polyrhythmix) - MIDI drums
     generator, designed for polyrhythmic parts
 
 ## [5. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
@@ -52,10 +52,10 @@
 
 ### Software / Configuration Management
 
-*   [Ansible](https://www.ansible.com/) - Provisioning, configuration management, and application-deployment tool. ([Source Code (⭐58k)](https://github.com/ansible/ansible))
-*   [Chef](https://www.chef.io/products/chef-infra) - Configuration management tool using a pure-Ruby, domain-specific language (DSL) for writing system configuration "recipes". ([Source Code (⭐7.3k)](https://github.com/chef/chef))
-*   [Puppet](https://www.puppet.com/) - Software configuration management tool which includes its own declarative language to describe system configuration. ([Source Code (⭐7k)](https://github.com/puppetlabs/puppet))
-*   [Salt](https://docs.saltproject.io/) - Event-driven IT automation, remote task execution, and configuration management software. ([Source Code (⭐13k)](https://github.com/saltstack/salt))
+*   [Ansible](https://www.ansible.com/) - Provisioning, configuration management, and application-deployment tool. ([Source Code (⭐59k)](https://github.com/ansible/ansible)) `GPL-3.0` `Python`
+*   [Chef](https://www.chef.io/products/chef-infra) - Configuration management tool using a pure-Ruby, domain-specific language (DSL) for writing system configuration "recipes". ([Source Code (⭐7.3k)](https://github.com/chef/chef)) `Apache-2.0` `Ruby`
+*   [Puppet](https://www.puppet.com/) - Software configuration management tool which includes its own declarative language to describe system configuration. ([Source Code (⭐7.1k)](https://github.com/puppetlabs/puppet)) `Apache-2.0` `Ruby/C`
+*   [Salt](https://docs.saltproject.io/) - Event-driven IT automation, remote task execution, and configuration management software. ([Source Code (⭐13k)](https://github.com/saltstack/salt)) `Apache-2.0` `Python`
 
 ### Websites / Web
 
@@ -63,4 +63,5 @@
 
 ---
 
+- Prev: [Jul 31, 2023](/content/2023/07/31/README.md)
 - Next: [Jul 29, 2023](/content/2023/07/29/README.md)

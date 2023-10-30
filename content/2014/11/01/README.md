@@ -20,7 +20,7 @@
 
 ### Web server Benchmarks / Meetups
 
-*   [wrk (⭐34k)](https://github.com/wg/wrk) - A HTTP benchmarking tool (with optional Lua scripting for request generation, response
+*   [wrk (⭐35k)](https://github.com/wg/wrk) - A HTTP benchmarking tool (with optional Lua scripting for request generation, response
     processing, and custom reporting)
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)

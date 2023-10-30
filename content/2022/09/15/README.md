@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 15, 2022
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -8,53 +8,28 @@
 
 ## [1. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
-### Articles
-
-*   2020-08-03: [How to Create a Unity Game on IPFS using Pinata](https://medium.com/pinata/how-to-create-a-unity-game-on-ipfs-using-pinata-d0af18a5bd44)
-*   2019-08-14: [Managing storage in a Java application with IPFS](https://kauri.io/article/3e8494f4f56f48c4bb77f1f925c6d926)
-*   2019-07-22: [10+ Resources Every IPFS Developer Should Know About](https://medium.com/@vaibhavsaini_67863/10-resources-to-get-started-with-ipfs-5f429dc8a841)
-*   2019-05-12: [The Complete Beginner's Guide to Deploying Your First Static Website to IPFS](https://dev.to/agentofuser/the-complete-beginner-s-guide-to-deploying-your-first-static-website-to-ipfs-33po)
-*   2019-03-10: [The Case for a Decentralized Social Network](https://medium.com/npfoss/the-case-for-a-decentralized-social-network-2683b727abf5)
-*   2019-01-30: [Ultimate Guide to Filecoin Breaking Down Filecoin Whitepaper & Economics](https://medium.com/swlh/ultimate-guide-to-filecoin-breaking-down-filecoin-whitepaper-economics-9212541a5895)
-*   2018-08-06: [Content Identifiers in IPFS](https://pascalprecht.github.io/posts/content-identifiers-in-ipfs/)
-*   2018-07-11: [On future-proof cryptographic hashes](https://pascalprecht.github.io/posts/future-proofed-hashes-with-multihash/)
-*   2017-08-21: [Understanding the IPFS White Paper part 2](https://decentralized.blog/understanding-the-ipfs-white-paper-part-2.html)
-*   2017-08-10: [Understanding the IPFS White Paper part 1](https://decentralized.blog/understanding-the-ipfs-white-paper-part-1.html)
-*   2017-05-05: [Decentralized indexes for public genomic data (⭐8)](https://github.com/luizirber/2017-recomb)
-*   2017-03-31: [Using IPFS for IoT Communications](https://medium.com/@chrismatthieu/using-ipfs-for-iot-communications-b49c2139783a)
-*   2016-09-12: [IPFS: The Internet Democratised](https://medium.com/@tonywillenberg/web-3-0-a-truly-democratised-internet-f4b06cb4077b)
-*   2016-05-20: [Changelog Podcast](https://changelog.com/podcast/204/)
-*   2015-09-18: [The InterPlanetary File System Wants to Create a Permanent Web](http://motherboard.vice.com/read/the-interplanetary-file-system-wants-to-create-a-permanent-web)
-*   2015-09-13: [Introduction to IPFS](http://whatdoesthequantsay.com/2015/09/13/ipfs-introduction-by-example)
-*   2015-09-08: [HTTP is obsolete. It's time for the distributed, permanent web](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html)
-*   [Downloading nodejs versions with nvm/n over IPFS](https://ipfs.io/ipfs/QmTkzDwWqPbnAh5YiV5VwcTLnGdwSNsNTn2aDxdXBFca7D/example#/ipfs/QmUx363UFtgiQqkHHsPK3TSDmwoALDo2hrbMWbcxjH2vFc)
-
 ### Tools
 
-*   [ipfs-encrypted-share (⭐17)](https://github.com/whs/ipfs-encrypted-share) - Easy to use encrypted file uploader.
-
-### Videos
-
-*   [IPFS Alpha - Why we must redistribute the web](https://www.youtube.com/watch?v=skMTdSEaCtA)
+*   [ipfs-encrypted-share (⭐21)](https://github.com/whs/ipfs-encrypted-share) - Easy to use encrypted file uploader.
 
 ## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Algorithms and Data structures
 
-*   [aja (⭐121)](https://github.com/sabiwara/aja) - High performance persistent vectors and ordered maps.
+*   [aja (⭐146)](https://github.com/sabiwara/aja) - High performance persistent vectors and ordered maps.
 
 ### Artificial Intelligence
 
-*   [m2cgen (⭐2.5k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Elixir code with zero dependencies.
+*   [m2cgen (⭐2.6k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Elixir code with zero dependencies.
 
 ### Configuration
 
 *   [enux (⭐2)](https://github.com/massivefermion/enux) - utility package for loading, validating and documenting your app's configuration variables from env, json and jsonc files at runtime and injecting them into your environment.
-*   [skogsra (⭐97)](https://github.com/gmtprime/skogsra) - Library to manage OS environment variables and application configuration options with ease.
+*   [skogsra (⭐103)](https://github.com/gmtprime/skogsra) - Library to manage OS environment variables and application configuration options with ease.
 
 ### Cryptography
 
-*   [nimble\_totp (⭐324)](https://github.com/dashbitco/nimble_totp) - Allows implementation of Time-based One-Time Passwords (TOTP) for 2FA.
+*   [nimble\_totp (⭐353)](https://github.com/dashbitco/nimble_totp) - Allows implementation of Time-based One-Time Passwords (TOTP) for 2FA.
 
 ### Files and Directories
 
@@ -66,11 +41,11 @@
 
 ### Networking
 
-*   [Firezone (⭐4.2k)](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
+*   [Firezone (⭐5.4k)](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
 
 ### Protocols
 
-*   [borsh (⭐5)](https://github.com/alexfilatov/borsh) - Elixir implementation of the [BORSH](https://borsh.io) binary serializer.
+*   [borsh (⭐6)](https://github.com/alexfilatov/borsh) - Elixir implementation of the [BORSH](https://borsh.io) binary serializer.
 
 ### Text and Numbers
 
@@ -84,7 +59,7 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-zip-pack (⭐8)](https://github.com/7th-Cyborg/vite-plugin-zip-pack) - Pack distribution/build folder into a zip file.
+*   [vite-plugin-zip-pack (⭐18)](https://github.com/7th-Cyborg/vite-plugin-zip-pack) - Pack distribution/build folder into a zip file.
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -97,25 +72,31 @@
 *   [The Prompter | vicc | Substack](https://theprompter.substack.com/): a newsletter about news, tips and thoughts around prompt engineering
 *   [(19) Nikhil Agrawal 📌 on Twitter](https://twitter.com/HeyNikhila/status/1570005481896255490): 11 AI Images Prompt websites to level up the image quality
 
-## [5. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Prolog / Zend
+
+*   [The Art of Prolog, Second Edition](https://mitpress.mit.edu/9780262691635/the-art-of-prolog/) - Leon S. Sterling, Ehud Y. Shapiro (Open Access)
+
+## [6. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Community / Talk
 
 *   [Functional Programming Slack channel](https://fpslack.com/) – Community with a friendly channel for JavaScript as well as many other channels about functional programming in general.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Scaffold
 
-*   [Vitectron (⭐12)](https://github.com/hyroge/vite-vue-electron) - Powerful & Modern Vue Desktop Application Template with TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x.
+*   [Vitectron (⭐13)](https://github.com/hyroge/vite-vue-electron) - Powerful & Modern Vue Desktop Application Template with TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x.
 
-## [7. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [8. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Run Elm / Outdated Boilerplates
 
-*   [Elm Watch (⭐113)](https://github.com/lydell/elm-watch) - `elm make` in watch mode. Fast and reliable.
+*   [Elm Watch (⭐122)](https://github.com/lydell/elm-watch) - `elm make` in watch mode. Fast and reliable.
 
-## [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [9. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### File Search
 
@@ -146,7 +127,7 @@
 
 *   [VPN Comparison by That One Privacy Guy](https://thatoneprivacysite.net/) - is a summary list of top best VPN services.
 
-## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
@@ -156,17 +137,17 @@
 
 *   [ASP.NET Core updates in .NET 7 Release Candidate 1](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-rc-1/) - September 14, 2022 - .NET 7 Release Candidate 1 (RC1) is now available and includes many great new improvements to ASP.NET Core.
 
-## [10. Awesome Product Management](/content/dend/awesome-product-management/README.md)
+## [11. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Books / Screeb
+### Books / Obsidian
 
 *   [Shape Up](https://basecamp.com/shapeup) - By Ryan Singer.
 
-## [11. Awesome Go](/content/avelino/awesome-go/README.md)
+## [12. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Relational Database Drivers
 
-*   [ydb-go-sdk (⭐92)](https://github.com/ydb-platform/ydb-go-sdk) - native and database/sql driver YDB (Yandex Database)
+*   [ydb-go-sdk (⭐107)](https://github.com/ydb-platform/ydb-go-sdk) - native and database/sql driver YDB (Yandex Database)
 
 ---
 

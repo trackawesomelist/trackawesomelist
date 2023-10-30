@@ -10,26 +10,26 @@
 
 ### Game Development
 
-*   [Ebitengine (⭐8.3k)](https://github.com/hajimehoshi/ebiten) - dead simple 2D game engine in Go.
-*   [fantasyname (⭐19)](https://github.com/s0rg/fantasyname) - Fantasy names generator.
+*   [Ebitengine (⭐8.9k)](https://github.com/hajimehoshi/ebiten) - dead simple 2D game engine in Go.
+*   [fantasyname (⭐20)](https://github.com/s0rg/fantasyname) - Fantasy names generator.
 
 ### Logging
 
-*   [xylog (⭐14)](https://github.com/xybor-x/xylog) - Leveled and structured logging, dynamic fields, high performance, zone management, simple configuration, and readable syntax.
+*   [xylog (⭐15)](https://github.com/xybor-x/xylog) - Leveled and structured logging, dynamic fields, high performance, zone management, simple configuration, and readable syntax.
 
 ### Package Management
 
-*   [gup (⭐184)](https://github.com/nao1215/gup) - Update binaries installed by "go install".
+*   [gup (⭐226)](https://github.com/nao1215/gup) - Update binaries installed by "go install".
 
 ### Third-party APIs
 
-*   [go-restcountries (⭐3)](https://github.com/chriscross0/go-restcountries) - Go library for the [REST Countries API](https://countrylayer.com/).
+*   [go-restcountries (⭐4)](https://github.com/chriscross0/go-restcountries) - Go library for the [REST Countries API](https://countrylayer.com/).
 
 ## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fd-plugin (⭐2)](https://github.com/MohamedElashri/fd-zsh) - Adds aliases for [fd (⭐28k)](https://github.com/sharkdp/fd), a modern replacement for `find`.
+*   [fd-plugin (⭐4)](https://github.com/MohamedElashri/fd-zsh) - Adds aliases for [fd (⭐29k)](https://github.com/sharkdp/fd), a modern replacement for `find`.
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -37,7 +37,29 @@
 
 *   [date\_range\_formatter (⭐31)](https://github.com/darkleaf/date_range_formatter) - The simple tool to make work with date ranges in Ruby more enjoyable.
 
-## [4. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Arduino
+
+*   [Arduino-docs : A beginner's guide](https://arduino-doc.readthedocs.io/en/latest/) - Paramesh Chandra (HTML)
+
+### C# / Non-X86
+
+*   [Xamarin Community Toolkit Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/xamarin-community-toolkit-succinctly) - Alessandro Del Sole
+
+### JavaScript / Wicket
+
+*   [Modern JavaScript](https://www.modernjs.com) - Daniel Rubio
+
+### Python / Django
+
+*   [Django Rest Framework](https://riptutorial.com/Download/django-rest-framework.pdf) - Compiled from StackOverflow Documentation (PDF)
+
+### Python / Pandas
+
+*   [Best Pandas Tutorial | Learn with 50 Examples](https://www.listendata.com/2017/12/python-pandas-tutorial.html) - Ekta Aggarwal (HTML)
+
+## [5. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
 ### Remote Jobs:
 
@@ -45,24 +67,24 @@
 
 
 
-## [5. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [6. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Frameworks / SRAM
 
-*   [meerkat (⭐6)](https://github.com/crdietrich/meerkat) - I2C Data Acquisition for MicroPython and Raspberry Pi.
+*   [meerkat (⭐7)](https://github.com/crdietrich/meerkat) - I2C Data Acquisition for MicroPython and Raspberry Pi.
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
-*   [kbin](https://kbin.pub/) - Federated content aggregator and microblogging platform. ([Source Code (⭐94)](https://github.com/ernestwisniewski/kbin)) `AGPL-3.0` `PHP/Nodejs/Docker`
-*   [qpixel](https://codidact.com/) - Q\&A-based community knowledge-sharing software. ([Source Code (⭐274)](https://github.com/codidact/qpixel)) `AGPL-3.0` `Ruby`
+*   [kbin](https://kbin.pub/) - Federated content aggregator and microblogging platform. ([Source Code (⭐702)](https://github.com/ernestwisniewski/kbin)) `AGPL-3.0` `PHP/Nodejs/Docker`
+*   [qpixel](https://codidact.com/) - Q\&A-based community knowledge-sharing software. ([Source Code (⭐323)](https://github.com/codidact/qpixel)) `AGPL-3.0` `Ruby`
 
 ### Software / Software Development - Project Management
 
-*   [Gerrit](https://www.gerritcodereview.com/) - A code review and project management tool for Git based projects. ([Source Code (⭐771)](https://github.com/GerritCodeReview/gerrit)) `Apache-2.0` `Java/Docker`
+*   [Gerrit](https://www.gerritcodereview.com/) - A code review and project management tool for Git based projects. ([Source Code (⭐830)](https://github.com/GerritCodeReview/gerrit)) `Apache-2.0` `Java/Docker`
 
-## [7. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [8. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Party
 
@@ -77,21 +99,15 @@
 | ------: | -------: | ---------: |
 |   2 - 6 |       14 | around 45m |
 
-## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-### (requires Neovim 0.5)
-
-*   [glepnir/lspsaga.nvim (⭐2.8k)](https://github.com/glepnir/lspsaga.nvim) - A light-weight LSP plugin based on Neovim's built-in LSP with a highly performant UI.
-
 ## [9. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### File Management and Sharing
 
-*   [Paperless-ngx (⭐8.2k)](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless based on paperless-ng
+*   [Paperless-ngx (⭐11k)](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless based on paperless-ng
 
 ### Quora
 
-*   [Quetre (⭐331)](https://github.com/zyachel/quetre) - Quetre is an alternative front-end to Quora. It enables you to see answers without ads, trackers, and other such bloat.
+*   [Quetre (⭐356)](https://github.com/zyachel/quetre) - Quetre is an alternative front-end to Quora. It enables you to see answers without ads, trackers, and other such bloat.
 
 ## [10. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
@@ -129,7 +145,7 @@
 
 ### CI and CD
 
-*   [Make](https://www.make.com/en) — Workflow automation tool which lets you connect apps and automate workflows using UI, it supports many apps and most popular APIs. Free for public GitHub repositories, and free tier with 100 Mb, 1000 Operations and 15 minutes of minimum interval.
+*   [Make](https://www.make.com/en) — The workflow automation tool lets you connect apps and automate workflows using UI. It supports many apps and the most popular APIs. Free for public GitHub repositories, and free tier with 100 Mb, 1000 Operations, and 15 minutes of minimum interval.
 
 ### Security and PKI
 

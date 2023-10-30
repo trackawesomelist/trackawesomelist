@@ -17,21 +17,21 @@
 
 ### HTTP
 
-*   [Groovy-wslite (⭐394)](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy
+*   [Groovy-wslite (⭐397)](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy
 
 ### Transpilers
 
-*   [Grooscript (⭐219)](https://github.com/chiquitinxx/grooscript) - Converts your Groovy code to Javascript
+*   [Grooscript (⭐220)](https://github.com/chiquitinxx/grooscript) - Converts your Groovy code to Javascript
 
 ### Static Web
 
-*   [Grain (⭐151)](https://github.com/sysgears/grain) - Static Web Site Building Framework For Groovy
-*   [Gaiden (⭐162)](https://github.com/kobo/gaiden) - Gaiden is a tool that makes it easy to create documentation with Markdown.
+*   [Grain (⭐154)](https://github.com/sysgears/grain) - Static Web Site Building Framework For Groovy
+*   [Gaiden (⭐166)](https://github.com/kobo/gaiden) - Gaiden is a tool that makes it easy to create documentation with Markdown.
 
 ### Language Utilities
 
 *   [Functionalgroovy (⭐67)](https://github.com/mperry/functionalgroovy) - Functional programming in Groovy
-*   [Groovy-stream (⭐67)](https://github.com/timyates/groovy-stream) - A collection of classes to give a fluent builder for Streams (Lazy Groovy Generators)
+*   [Groovy-stream (⭐66)](https://github.com/timyates/groovy-stream) - A collection of classes to give a fluent builder for Streams (Lazy Groovy Generators)
 *   [Flipside (⭐21)](https://github.com/johnnywey/flipside) - Simple Groovy options library
 
 ---

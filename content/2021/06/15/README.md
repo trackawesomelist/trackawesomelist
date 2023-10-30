@@ -10,53 +10,53 @@
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [Flare (⭐4.8k)](https://github.com/fireeye/flare-vm) - A fully customizable, Windows-based security distribution for malware analysis, incident response, penetration testing.
-*   [Kuiper (⭐633)](https://github.com/DFIRKuiper/Kuiper) - Digital Forensics Investigation Platform
-*   [Velociraptor (⭐1.9k)](https://github.com/Velocidex/velociraptor) - Endpoint visibility and collection tool
+*   [Flare (⭐5.1k)](https://github.com/fireeye/flare-vm) - A fully customizable, Windows-based security distribution for malware analysis, incident response, penetration testing.
+*   [Kuiper (⭐662)](https://github.com/DFIRKuiper/Kuiper) - Digital Forensics Investigation Platform
+*   [Velociraptor (⭐2.2k)](https://github.com/Velocidex/velociraptor) - Endpoint visibility and collection tool
 
 ### IR Tools Collection / Evidence Collection
 
-*   [artifactcollector (⭐186)](https://github.com/forensicanalysis/artifactcollector) - The artifactcollector project provides a software that collects forensic artifacts on systems.
-*   [Forensic Artifacts (⭐860)](https://github.com/ForensicArtifacts/artifacts) - Digital Forensics Artifact Repository
+*   [artifactcollector (⭐197)](https://github.com/forensicanalysis/artifactcollector) - The artifactcollector project provides a software that collects forensic artifacts on systems.
+*   [Forensic Artifacts (⭐901)](https://github.com/ForensicArtifacts/artifacts) - Digital Forensics Artifact Repository
 *   [Live Response Collection](https://www.brimorlabs.com/tools/) - Automated tool that collects volatile data from Windows, OSX, and \*nix based operating systems.
 
 ### IR Tools Collection / Knowledge Bases
 
-*   [Digital Forensics Artifact Knowledge Base (⭐52)](https://github.com/ForensicArtifacts/artifacts-kb) - Digital Forensics Artifact Knowledge Base
-*   [Windows Events Attack Samples (⭐1.9k)](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Windows Events Attack Samples
-*   [Windows Registry Knowledge Base (⭐129)](https://github.com/libyal/winreg-kb) - Windows Registry Knowledge Base
+*   [Digital Forensics Artifact Knowledge Base (⭐57)](https://github.com/ForensicArtifacts/artifacts-kb) - Digital Forensics Artifact Knowledge Base
+*   [Windows Events Attack Samples (⭐2k)](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Windows Events Attack Samples
+*   [Windows Registry Knowledge Base (⭐135)](https://github.com/libyal/winreg-kb) - Windows Registry Knowledge Base
 
 ### IR Tools Collection / Log Analysis Tools
 
-*   [LogonTracer (⭐2.4k)](https://github.com/JPCERTCC/LogonTracer) - Tool to investigate malicious Windows logon by visualizing and analyzing Windows event log.
-*   [Sigma (⭐6.4k)](https://github.com/SigmaHQ/sigma) - Generic signature format for SIEM systems already containing an extensive ruleset.
+*   [LogonTracer (⭐2.5k)](https://github.com/JPCERTCC/LogonTracer) - Tool to investigate malicious Windows logon by visualizing and analyzing Windows event log.
+*   [Sigma (⭐6.7k)](https://github.com/SigmaHQ/sigma) - Generic signature format for SIEM systems already containing an extensive ruleset.
 
 ### IR Tools Collection / Memory Analysis Tools
 
-*   [Volatility 3 (⭐1.5k)](https://github.com/volatilityfoundation/volatility3) - The volatile memory extraction framework (successor of Volatility)
+*   [Volatility 3 (⭐1.7k)](https://github.com/volatilityfoundation/volatility3) - The volatile memory extraction framework (successor of Volatility)
 
 ### IR Tools Collection / Other Lists
 
-*   [Awesome Forensics (⭐2.9k)](https://github.com/cugu/awesome-forensics) - A curated list of awesome forensic analysis tools and resources.
-*   [Didier Stevens Suite (⭐1.6k)](https://github.com/DidierStevens/DidierStevensSuite) - Tool collection
+*   [Awesome Forensics (⭐3.1k)](https://github.com/cugu/awesome-forensics) - A curated list of awesome forensic analysis tools and resources.
+*   [Didier Stevens Suite (⭐1.7k)](https://github.com/DidierStevens/DidierStevensSuite) - Tool collection
 
 ### IR Tools Collection / Playbooks
 
-*   [ThreatHunter-Playbook (⭐3.5k)](https://github.com/OTRF/ThreatHunter-Playbook) - Playbook to aid the development of techniques and hypothesis for hunting campaigns.
+*   [ThreatHunter-Playbook (⭐3.6k)](https://github.com/OTRF/ThreatHunter-Playbook) - Playbook to aid the development of techniques and hypothesis for hunting campaigns.
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
-*   [Ghidra (⭐40k)](https://github.com/NationalSecurityAgency/ghidra) - Software Reverse Engineering Framework.
-*   [Rizin (⭐1.9k)](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset
+*   [Ghidra (⭐43k)](https://github.com/NationalSecurityAgency/ghidra) - Software Reverse Engineering Framework.
+*   [Rizin (⭐2.1k)](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset
 
 ### IR Tools Collection / Scanner Tools
 
-*   [Fenrir (⭐571)](https://github.com/Neo23x0/Fenrir) - Simple IOC scanner. It allows scanning any Linux/Unix/OSX system for IOCs in plain bash. Created by the creators of THOR and LOKI.
-*   [Spyre (⭐143)](https://github.com/spyre-project/spyre) - Simple YARA-based IOC scanner written in Go
+*   [Fenrir (⭐602)](https://github.com/Neo23x0/Fenrir) - Simple IOC scanner. It allows scanning any Linux/Unix/OSX system for IOCs in plain bash. Created by the creators of THOR and LOKI.
+*   [Spyre (⭐144)](https://github.com/spyre-project/spyre) - Simple YARA-based IOC scanner written in Go
 
 ### IR Tools Collection / Windows Evidence Collection
 
-*   [Hoarder (⭐149)](https://github.com/muteb/Hoarder) - Collecting the most valuable artifacts for forensics or incident response investigations.
+*   [Hoarder (⭐177)](https://github.com/muteb/Hoarder) - Collecting the most valuable artifacts for forensics or incident response investigations.
 
 ## [2. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
@@ -77,8 +77,8 @@
 
 ### Example Projects
 
-*   [Examples from Keycloak Book: Keycloak - Identity and Access Management for Modern Applications (⭐196)](https://github.com/PacktPublishing/Keycloak-Identity-and-Access-Management-for-Modern-Applications)
-*   [Example of adding API Key authentication to Keycloak (⭐75)](https://github.com/zak905/keycloak-api-key-demo)
+*   [Examples from Keycloak Book: Keycloak - Identity and Access Management for Modern Applications (⭐213)](https://github.com/PacktPublishing/Keycloak-Identity-and-Access-Management-for-Modern-Applications)
+*   [Example of adding API Key authentication to Keycloak (⭐86)](https://github.com/zak905/keycloak-api-key-demo)
 
 ### Miscellaneous
 
@@ -100,7 +100,7 @@
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### DBaaS
+### Managed Data Services
 
 *   [HarperDb](https://harperdb.io/) — Serverless cloud database, with dynamic schema based on JSON, 3000 IOPS with 1GB storage
 
@@ -108,7 +108,7 @@
 
 ### Visualization
 
-*   [Evidently (⭐3.3k)](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
+*   [Evidently (⭐3.8k)](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
 
 ## [8. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 

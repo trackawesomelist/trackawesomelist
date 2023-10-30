@@ -14,7 +14,7 @@
 
 ### Scala / Sinatra
 
-*   [Scala for Perl 5 Programmers (⭐116)](https://github.com/garu/scala-for-perl5-programmers) - Breno G. de Oliveira
+*   [Scala for Perl 5 Programmers (⭐115)](https://github.com/garu/scala-for-perl5-programmers) - Breno G. de Oliveira
 *   [tetrix in Scala](http://eed3si9n.com/tetrix-in-scala-html5-book)
 
 ---

@@ -8,7 +8,7 @@
 
 ## [1. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
-### Strategy
+### Family
 
 ### [Talisman](https://boardgamegeek.com/boardgame/714/talisman)
 
@@ -25,7 +25,7 @@
 
 ### Libraries/Frameworks / Database
 
-*   [Litote/kmongo (⭐780)](https://github.com/Litote/kmongo) - KMongo - Kotlin toolkit for Mongo
+*   [Litote/kmongo (⭐795)](https://github.com/Litote/kmongo) - KMongo - Kotlin toolkit for Mongo
 
 ## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
@@ -43,12 +43,12 @@
 
 ### Emulators
 
-*   [Blzhawk (⭐1.7k)](https://github.com/TASEmulators/BizHawk) - BizHawk is a multi-system emulator written in C#. BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.
-*   [Ryujinx (⭐23k)](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
+*   [Blzhawk (⭐1.9k)](https://github.com/TASEmulators/BizHawk) - BizHawk is a multi-system emulator written in C#. BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.
+*   [Ryujinx (⭐25k)](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 
 ### Image Processing
 
-*   [MagicScaler (⭐462)](https://github.com/saucecontrol/PhotoSauce) - High-performance image processing pipeline for .NET, focused on making complex imaging tasks simple.
+*   [MagicScaler (⭐486)](https://github.com/saucecontrol/PhotoSauce) - High-performance image processing pipeline for .NET, focused on making complex imaging tasks simple.
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Proxy and VPN Tools / File Sharing
 
-*   [Mullvad VPN](https://mullvad.net) - Privacy focused VPN that requires no personal information for use, keeps no logs, and allows payments with Bitcoin Cash, Monero and more.
+*   [Mullvad VPN](https://mullvad.net) - Privacy focused VPN that requires no personal information for use, keeps no logs, and allows payments with Bitcoin Cash, Monero and more. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mullvad/mullvadvpn-app)
 
 ## [7. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

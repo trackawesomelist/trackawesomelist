@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 13, 2023
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -45,24 +45,30 @@
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [asdf (⭐5)](https://github.com/zimfw/asdf) - Initializes [asdf (⭐17k)](https://github.com/asdf-vm/asdf), installing it using `git` if not installed yet. Also, bypasses the shims if you're using the [direnv (⭐430)](https://github.com/asdf-community/asdf-direnv) plugin, as suggested by the plugin [pro-tips (⭐430)](https://github.com/asdf-community/asdf-direnv/#pro-tips).
-*   [pins (⭐2)](https://github.com/mehalter/zsh-pins) - ZSH plugin for pinning directories. Like a CLI folder bookmark manager with tab completions.
+*   [pins (⭐1)](https://github.com/mehalter/zsh-pins) - ZSH plugin for pinning directories. Like a CLI folder bookmark manager with tab completions.
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [aofxta (⭐0)](https://github.com/aofxta/aofxta.zsh-theme/) - Includes decorators for last command's execution time, `git` information, current directory and current time.
 *   [avoleo (⭐0)](https://github.com/flameleo11/avoleo-zsh-theme) - Features a date and time prompt for each command, as well as a command number in history. In addition, it uses special symbols '⠾' and '⡶' to display `git` information if applicable in the current path. It also supports custom colors based on the Gnome-Terminal default color palette.
-*   [rkj-logik (⭐0)](https://github.com/logik93/rkj-logik.zsh-theme) - Based on omz's [rkj (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/rkj.zsh-theme). Includes decorators for user\@host, current directory, time & date.
+*   [rkj-logik (⭐0)](https://github.com/logik93/rkj-logik.zsh-theme) - Based on omz's [rkj (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/rkj.zsh-theme). Includes decorators for user\@host, current directory, time & date.
 
 ## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Files and Directories / Search
 
-*   [skim (⭐4.2k)](https://github.com/lotabout/skim) - A general fuzzy finder written in rust, similar to fzf.
+*   [skim (⭐4.4k)](https://github.com/lotabout/skim) - A general fuzzy finder written in rust, similar to fzf.
 
-## [7. Awesome Chatgpt](/content/Kamigami55/awesome-chatgpt/README.md)
+## [7. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
+
+### Useful links with tips & tricks
+
+*   [Git And GitHub Course - Master Git And GitHub - GitHub Wiki](https://www.learnvern.com/git-and-github-tutorial/wiki)
+*   [How To Use GitHub Wikis For Collaborative Documentation](https://labs.inn.org/2014/05/19/applying-git-to-github-wikis/)
+
+## [8. Awesome Chatgpt](/content/Kamigami55/awesome-chatgpt/README.md)
 
 ### Use ChatGPT Anywhere / Chatbots
 
@@ -76,21 +82,21 @@
 
 *   [Useful ChatGPT Prompts](https://www.explainthis.io/en/chatgpt): A comprehensive list of useful ChatGPT prompts to help you get the most out of ChatGPT.
 
-## [8. Awesome V](/content/vlang/awesome-v/README.md)
+## [9. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Web
 
-*   [v-tiktok (⭐6)](https://github.com/walkingdevel/v-tiktok) - A V library for downloading TikTok videos.
+*   [v-tiktok (⭐8)](https://github.com/walkingdevel/v-tiktok) - A V library for downloading TikTok videos.
 
 ### Patterns / IntelliJ & CLion & GoLand etc
 
 *   [MVU.v (⭐5)](https://github.com/ArtemkaKun/MVU.v) - MVU pattern (The Elm Architecture) implemented in V programming language.
 
-## [9. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [10. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Audio
 
-*   [micropython-dfplayer (⭐1)](https://github.com/redoxcode/micropython-dfplayer) - Library to control the DFPlayer mini MP3 player module.
+*   [micropython-dfplayer (⭐3)](https://github.com/redoxcode/micropython-dfplayer) - Library to control the DFPlayer mini MP3 player module.
 
 ### Communications / RC receiver
 
@@ -98,17 +104,17 @@
 
 ### Display / LCD Character
 
-*   [micropython-i2c-lcd (⭐6)](https://github.com/brainelectronics/micropython-i2c-lcd) - MicroPython package to control HD44780 LCD displays 1602 and 2004 via I2C.
+*   [micropython-i2c-lcd (⭐10)](https://github.com/brainelectronics/micropython-i2c-lcd) - MicroPython package to control HD44780 LCD displays 1602 and 2004 via I2C.
 
 ### Motion / Servo
 
-*   [micropython-servo (⭐4)](https://github.com/redoxcode/micropython-servo) - Library to control RC servos using direct PWM output in a tidy way.
+*   [micropython-servo (⭐6)](https://github.com/redoxcode/micropython-servo) - Library to control RC servos using direct PWM output in a tidy way.
 
 ### Motion / Stepper
 
 *   [micropython-stepper (⭐3)](https://github.com/redoxcode/micropython-stepper) - Library to control common stepper drivers in a tidy way.
 
-## [10. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
+## [11. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
 
 ### Music / Text
 
@@ -156,7 +162,7 @@
 *   [Pock (⭐9.9k)](https://github.com/pock/pock) - Display macOS Dock in Touch Bar. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 *   [Touch Emoji (⭐46)](https://github.com/ilyalesik/touch-emoji) - Emoji picker for MacBook Pro Touch Bar.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
-## [11. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
+## [12. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
 ### Dataset / Web
 
@@ -165,36 +171,36 @@
 *   [Hogwarts Legacy Reviews](https://www.kaggle.com/datasets/georgescutelnicu/hogwarts-legacy-reviews) - A list of Hogwarts Legacy reviews.
 *   [Most Played Games of All Time](https://www.kaggle.com/datasets/faisaljanjua0555/most-played-games-of-all-time) - Steam game stats.
 
-## [12. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [13. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Icons
 
-*   [Lucide (⭐4.1k)](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+*   [Lucide (⭐6.3k)](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 
-## [13. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [14. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Backups
 
-*   [Dar](http://dar.linux.free.fr/) - Which stands for Disk ARchive, is a robust and rich featured archiving and backup software of the tar style. ([Source Code (⭐90)](https://github.com/Edrusb/DAR)) `GPL-2.0` `C++`
+*   [Dar](http://dar.linux.free.fr/) - Which stands for Disk ARchive, is a robust and rich featured archiving and backup software of the tar style. ([Source Code (⭐111)](https://github.com/Edrusb/DAR)) `GPL-2.0` `C++`
 
 ### Software / Identity Management - Single Sign-On (SSO)
 
-*   [Authelia](https://www.authelia.com/) - The Single Sign-On Multi-Factor portal for web apps. ([Source Code (⭐16k)](https://github.com/authelia/authelia)) `Apache-2.0` `Go`
+*   [Authelia](https://www.authelia.com/) - The Single Sign-On Multi-Factor portal for web apps. ([Source Code (⭐17k)](https://github.com/authelia/authelia)) `Apache-2.0` `Go`
 
 ### Software / Monitoring
 
-*   [Status (⭐13)](https://github.com/dani3l0/Status) - Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. ([Demo](https://status-ksk5.onrender.com/)) `MIT` `Python`
+*   [Status (⭐38)](https://github.com/dani3l0/Status) - Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. ([Demo](https://status-ksk5.onrender.com/)) `MIT` `Python`
 
 ### Software / Software Containers
 
-*   [Podman](https://podman.io) - Daemonless container engine for developing, managing, and running OCI Containers on your Linux System. Containers can either be run as root or in rootless mode. Simply put: `alias docker=podman`. ([Source Code (⭐18k)](https://github.com/containers/podman)) `Apache-2.0` `Go`
-*   [systemd-nspawn](https://www.freedesktop.org/software/systemd/man/systemd-nspawn.html) - Lightweight, chroot-like, environment to run an OS or command directly under systemd. ([Source Code (⭐11k)](https://github.com/systemd/systemd)) `GPL-2.0` `C`
+*   [Podman](https://podman.io) - Daemonless container engine for developing, managing, and running OCI Containers on your Linux System. Containers can either be run as root or in rootless mode. Simply put: `alias docker=podman`. ([Source Code (⭐19k)](https://github.com/containers/podman)) `Apache-2.0` `Go`
+*   [systemd-nspawn](https://www.freedesktop.org/software/systemd/man/systemd-nspawn.html) - Lightweight, chroot-like, environment to run an OS or command directly under systemd. ([Source Code (⭐12k)](https://github.com/systemd/systemd)) `GPL-2.0` `C`
 
 ### Software / VPN
 
-*   [PiVPN](https://www.pivpn.io/) - The simplest way to setup and manage a VPN, designed for Raspberry Pi. ([Source Code (⭐6.1k)](https://github.com/pivpn/pivpn)) `MIT` `Shell`
+*   [PiVPN](https://www.pivpn.io/) - The simplest way to setup and manage a VPN, designed for Raspberry Pi. ([Source Code (⭐6.4k)](https://github.com/pivpn/pivpn)) `MIT` `Shell`
 
-## [14. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [15. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Documentation
 

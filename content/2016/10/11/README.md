@@ -10,8 +10,8 @@
 
 ### Game Disassemblies / Syntax highlighting packages
 
-*   [Pokémon Red/Blue (⭐3.4k)](https://github.com/pret/pokered)
-*   [Pokémon Crystal (⭐1.8k)](https://github.com/pret/pokecrystal)
+*   [Pokémon Red/Blue (⭐3.6k)](https://github.com/pret/pokered)
+*   [Pokémon Crystal (⭐1.9k)](https://github.com/pret/pokecrystal)
 
 ### Related projects / Syntax highlighting packages
 
@@ -83,7 +83,7 @@ Webpage: <http://www.moustache.pt/>
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
-*   [Quack (⭐319)](https://github.com/quack/quack) - A multi-paradigm programming language with gradual and duck typing that targets PHP and JS.
+*   [Quack (⭐324)](https://github.com/quack/quack) - A multi-paradigm programming language with gradual and duck typing that targets PHP and JS.
 
 ## [7. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
@@ -113,7 +113,7 @@ git cherry -v
 
 ### UI / Barcode
 
-*   [TagListView (⭐2.5k)](https://github.com/ElaWorkshop/TagListView) - Simple but highly customizable iOS tag list view.
+*   [TagListView (⭐2.6k)](https://github.com/ElaWorkshop/TagListView) - Simple but highly customizable iOS tag list view.
 
 ## [10. Magictools](/content/ellisonleao/magictools/README.md)
 

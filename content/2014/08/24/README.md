@@ -12,21 +12,21 @@
 
 *   [John McCutchan, Loreena Lee: **A Trip Down Memory Lane with Gmail and DevTools**](https://www.youtube.com/watch?v=x9Jlu_h_Lyw\&feature=youtu.be) \[42:09]
 
-## [2. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
-
-### Data Visualization / Graph Based approach
-
-*   Analytics [awesome-analytics (⭐3.4k)](https://github.com/onurakpolat/awesome-analytics).
-
-## [3. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
+## [2. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 
 ### Analytics dashboards
 
-*   Other awesome lists [awesome-awesomeness (⭐29k)](https://github.com/bayandin/awesome-awesomeness).
-*   Even more lists [awesome (⭐223k)](https://github.com/sindresorhus/awesome).
-*   Another list? [list (⭐8.5k)](https://github.com/jnv/lists).
-*   WTF! [awesome-awesome-awesome (⭐1.7k)](https://github.com/t3chnoboy/awesome-awesome-awesome).
 *   Analytics [awesome-bigdata (⭐11k)](https://github.com/onurakpolat/awesome-bigdata).
+
+## [3. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+
+### Data Visualization / Graph Based approach
+
+*   Other awesome lists [awesome-awesomeness (⭐30k)](https://github.com/bayandin/awesome-awesomeness).
+*   Even more lists [awesome (⭐254k)](https://github.com/sindresorhus/awesome).
+*   Another list? [list (⭐9k)](https://github.com/jnv/lists).
+*   WTF! [awesome-awesome-awesome (⭐1.8k)](https://github.com/t3chnoboy/awesome-awesome-awesome).
+*   Analytics [awesome-analytics (⭐3.6k)](https://github.com/onurakpolat/awesome-analytics).
 
 ---
 

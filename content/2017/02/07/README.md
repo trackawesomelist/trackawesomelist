@@ -54,7 +54,7 @@
 
 ### Templating
 
-*   [exgen (⭐32)](https://github.com/rwdaigle/exgen) - A templating library for quickly generating Elixir projects.
+*   [exgen (⭐34)](https://github.com/rwdaigle/exgen) - A templating library for quickly generating Elixir projects.
 
 ### Third Party APIs
 

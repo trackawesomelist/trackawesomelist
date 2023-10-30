@@ -19,18 +19,13 @@
 *   [yo (⭐3.7k)](https://github.com/yeoman/yo) - Scaffolding tool for running Yeoman generators.
 *   [boilr (⭐1.6k)](https://github.com/tmrts/boilr) - Create projects from boilerplate templates.
 *   [cookiecutter (⭐20k)](https://github.com/audreyr/cookiecutter) - Create projects from templates.
-*   [mevn-cli (⭐805)](http://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
-*   [scaffold-static (⭐119)](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla JS.
+*   [scaffold-static (⭐123)](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla JS.
 
 ## [3. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Software / Backups
-
-*   [Duplicati](http://www.duplicati.com) - Multiple backends, encryption, web-ui and multi-OS backup tool.
-
 ### Software / Identity Management - Tools and web interfaces
 
-*   [easy-rsa (⭐3.6k)](https://github.com/OpenVPN/easy-rsa) - bash script to build and manage a PKI CA.
+*   [easy-rsa (⭐3.7k)](https://github.com/OpenVPN/easy-rsa) - Bash script to build and manage a PKI CA. `GPL-2.0` `Shell`
 
 ### Repositories / Web
 
@@ -127,7 +122,7 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [SYM (⭐536)](https://github.com/zqqf16/SYM) - GUI Application to symbolicate iOS crash log. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zqqf16/SYM)
+*   [SYM (⭐555)](https://github.com/zqqf16/SYM) - GUI Application to symbolicate iOS crash log. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zqqf16/SYM)
 
 ## [12. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

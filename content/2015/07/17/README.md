@@ -16,7 +16,7 @@
 
 *   [dproto (⭐1)](https://github.com/dalmatinerdb/dproto) - Protocols for DalmatinerDB.
 *   [dqe (⭐9)](https://github.com/dalmatinerdb/dqe) - DalmatinerDB query engine.
-*   [elastix (⭐253)](https://github.com/werbitzky/elastix) - A simple Elastic REST client written in Elixir.
+*   [elastix (⭐252)](https://github.com/werbitzky/elastix) - A simple Elastic REST client written in Elixir.
 
 ## [2. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Prometheus
 
-*   [HAProxy Exporter (⭐578)](https://github.com/prometheus/haproxy_exporter) Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption
+*   [HAProxy Exporter (⭐600)](https://github.com/prometheus/haproxy_exporter) Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption
 
 ## [4. Amas](/content/sindresorhus/amas/README.md)
 
@@ -40,7 +40,7 @@
 
 ### HTTP Clients and tools
 
-*   [Http-2 (⭐873)](https://github.com/igrigorik/http-2) - Pure Ruby implementation of HTTP/2 protocol
+*   [Http-2 (⭐877)](https://github.com/igrigorik/http-2) - Pure Ruby implementation of HTTP/2 protocol
 
 ## [6. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

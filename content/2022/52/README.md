@@ -84,7 +84,7 @@
 
 ### :package: Packers / After 2010
 
-*   [SimpleDPack (⭐79)](https://github.com/YuriSizuku/SimpleDpack) - A very simple windows EXE packing tool for learning or investigating PE structure.
+*   [SimpleDPack (⭐92)](https://github.com/YuriSizuku/SimpleDpack) - A very simple windows EXE packing tool for learning or investigating PE structure.
 
 ### :wrench: Tools / Before 2000
 
@@ -93,20 +93,20 @@
 
 ## [6. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Sound / MIT
+### Sound / Apache License
 
 *   [coreland-openal-ada (⭐3)](https://github.com/io7m/coreland-openal-ada) - Ada binding to OpenAL.
 
-### Simulation / MIT
+### Simulation / Apache License
 
-*   [mars-mpl (⭐4)](https://github.com/Jellix/mars_mpl) - Mars Polar Lander (Crash) Simulator ([gtkada (⭐77)](https://github.com/AdaCore/gtkada), [aicwl](http://www.dmitry-kazakov.de/ada/aicwl.htm)).
-*   [doppler-effect-sample2 (⭐2)](https://github.com/moriyasum/GtkAda_OpenAL_Doppler_Effect_Sample2) - Moving airplane causes Stereo Sound Doppler effect ([gtkada (⭐77)](https://github.com/AdaCore/gtkada)).
+*   [mars-mpl (⭐4)](https://github.com/Jellix/mars_mpl) - Mars Polar Lander (Crash) Simulator ([gtkada (⭐79)](https://github.com/AdaCore/gtkada), [aicwl](http://www.dmitry-kazakov.de/ada/aicwl.htm)).
+*   [doppler-effect-sample2 (⭐2)](https://github.com/moriyasum/GtkAda_OpenAL_Doppler_Effect_Sample2) - Moving airplane causes Stereo Sound Doppler effect ([gtkada (⭐79)](https://github.com/AdaCore/gtkada)).
 
 ## [7. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Image processing
 
-*   [ffmpeg (⭐13)](https://github.com/spider-gazelle/ffmpeg) - FFmpeg bindings that works with StumpyPNG to extract frames
+*   [ffmpeg (⭐17)](https://github.com/spider-gazelle/ffmpeg) - FFmpeg bindings that works with StumpyPNG to extract frames
 
 ### Third-party APIs
 
@@ -116,31 +116,31 @@
 
 ### Misc
 
-*   [BetterCodable (⭐1.5k)](https://github.com/marksands/BetterCodable) - Level up your `Codable` structs through property wrappers. The goal of these property wrappers is to avoid implementing a custom `init(from decoder: Decoder)` throws and suffer through boilerplate.
+*   [BetterCodable (⭐1.6k)](https://github.com/marksands/BetterCodable) - Level up your `Codable` structs through property wrappers. The goal of these property wrappers is to avoid implementing a custom `init(from decoder: Decoder)` throws and suffer through boilerplate.
 
 ### Utility / Barcode
 
-*   [Periphery (⭐4.1k)](https://github.com/peripheryapp/periphery) - A tool to identify unused code in Swift projects.
+*   [Periphery (⭐4.5k)](https://github.com/peripheryapp/periphery) - A tool to identify unused code in Swift projects.
 
 ## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Database
 
-*   [ctripcorp/SQLlin (⭐143)](https://github.com/ctripcorp/SQLlin) - A DSL SQLite library for Kotlin Multiplatform
+*   [ctripcorp/SQLlin (⭐165)](https://github.com/ctripcorp/SQLlin) - A DSL SQLite library for Kotlin Multiplatform
 
 ### Libraries/Frameworks / Multiplatform
 
-*   [ctripcorp/mmkv-kotlin (⭐79)](https://github.com/ctripcorp/mmkv-kotlin) - The Kotlin Multiplatform wrapper for MMKV
+*   [ctripcorp/mmkv-kotlin (⭐94)](https://github.com/ctripcorp/mmkv-kotlin) - The Kotlin Multiplatform wrapper for MMKV
 
 ## [10. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Finance
 
-*   [MMAS: Money Tracker (⭐166)](https://github.com/floranguyen0/mmas-money-tracker) - An optimized application for daily expense tracking and finance management by [Flora](https://github.com/floranguyen0).
+*   [MMAS: Money Tracker (⭐231)](https://github.com/floranguyen0/mmas-money-tracker) - An optimized application for daily expense tracking and finance management by [Flora](https://github.com/floranguyen0).
 
 ### Contents / Personalization
 
-*   [Spooky (⭐89)](https://github.com/juniorise/spooky-mb) - First diary with Material 3 design by [Juniorise](https://github.com/juniorise).
+*   [Spooky (⭐138)](https://github.com/juniorise/spooky-mb) - First diary with Material 3 design by [Juniorise](https://github.com/juniorise).
 
 ## [11. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
 
@@ -162,15 +162,14 @@
 
 ### Themes
 
-*   [tokyo-night-tmux (⭐68)](https://github.com/janoamaral/tokyo-night-tmux) tokyo-night theme for tmux
+*   [tokyo-night-tmux (⭐108)](https://github.com/janoamaral/tokyo-night-tmux) tokyo-night theme for tmux
 
 ## [14. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
-*   [mal-box (⭐1)](https://github.com/jckli/mal-box) - Update a pinned gist to contain your latest activity from MyAnimeList.
-*   [mdl-watching-box](https://github.com/facalz/mdl-watching-box) - Update a pinned gist to contain your currently watching.
-*   [shodan-exposure-box (⭐4)](https://github.com/ChrisCarini/shodan-exposure-box) - Update a pinned gist containing the top used ports as observed by [Shodan](https://www.shodan.io/).
+*   [mal-box (⭐2)](https://github.com/jckli/mal-box) - Update a pinned gist to contain your latest activity from MyAnimeList.
+*   [shodan-exposure-box (⭐3)](https://github.com/ChrisCarini/shodan-exposure-box) - Update a pinned gist containing the top used ports as observed by [Shodan](https://www.shodan.io/).
 *   [stackoverflow-stats-box (⭐1)](https://github.com/Pudding124/stackoverflow-stats-box) - Update a pinned gist to show stack overflow stats.
 *   [trivia-box (⭐0)](https://github.com/ChrisCarini/trivia-box) - Update a pinned gist with a daily trivia question from Open Trivia DB.
 
@@ -206,30 +205,30 @@
 
 ### Command-Line Productivity
 
-*   [arttime (⭐489)](https://github.com/reportaman/arttime) - Beauty of text art meets functionality of clock, timer, pomodoro++ time manager
-*   [await (⭐56)](https://github.com/slavaGanzin/await) - single binary that run list of commands in parallel and waits for their termination
-*   [lf (⭐5.3k)](https://github.com/gokcehan/lf) - Terminal file manager written in Go, inspired by ranger
+*   [arttime (⭐632)](https://github.com/reportaman/arttime) - Beauty of text art meets functionality of clock, timer, pomodoro++ time manager
+*   [await (⭐81)](https://github.com/slavaGanzin/await) - single binary that run list of commands in parallel and waits for their termination
+*   [lf (⭐5.9k)](https://github.com/gokcehan/lf) - Terminal file manager written in Go, inspired by ranger
 
 ### Customization / Directory Navigation
 
-*   [aphrodite-terminal-theme (⭐73)](https://github.com/win0err/aphrodite-terminal-theme) — Minimalistic Aphrodite theme (prompt) for sexy terminals that works in bash, fish and zsh
+*   [aphrodite-terminal-theme (⭐82)](https://github.com/win0err/aphrodite-terminal-theme) — Minimalistic Aphrodite theme (prompt) for sexy terminals that works in bash, fish and zsh
 
 ### For Developers / Directory Navigation
 
 *   [1Password SSH Agent](https://developer.1password.com/docs/ssh/) - Authenticate Git and SSH workflows with biometric unlock using 1Password
-*   [nve (⭐606)](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions.
+*   [nve (⭐614)](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions.
 *   [trunk](https://www.npmjs.com/package/@trunkio/launcher) - Blazingly fast meta code checker and formatter
-*   [vmn (⭐53)](https://github.com/final-israel/vmn) - git-based automatic versioning and state recovery solution agnostic to language or architecture
+*   [vmn (⭐55)](https://github.com/final-israel/vmn) - git-based automatic versioning and state recovery solution agnostic to language or architecture
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [dzr (⭐112)](https://github.com/yne/dzr) - Cross-platform Deezer.com audio player.
+*   [dzr (⭐136)](https://github.com/yne/dzr) - Cross-platform Deezer.com audio player.
 
 ## [18. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Geographic
 
-*   [H3 (⭐227)](https://github.com/uber/h3-go) - Go bindings for H3, a hierarchical hexagonal geospatial indexing system.
+*   [H3 (⭐243)](https://github.com/uber/h3-go) - Go bindings for H3, a hierarchical hexagonal geospatial indexing system.
 
 ## [19. Awesome Snmp](/content/eozer/awesome-snmp/week/README.md)
 
@@ -247,25 +246,26 @@
 
 ### Miscellaneous
 
-*   [pspsdk (⭐712)](https://github.com/pspdev/pspsdk) - An open-source SDK for PSP homebrew development. \[BSD/GNU GPL3]
+*   [pspsdk (⭐754)](https://github.com/pspdev/pspsdk) - An open-source SDK for PSP homebrew development. \[BSD/GNU GPL3]
 
 ## [22. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 
-### Databases / Genome
+### Databases / Interaction
 
-*   [NCI60](https://dtp.cancer.gov/discovery_development/nci-60/) A database which focus on 60 cancer cell lines with many drugs.
-*   [Genomics of Drug Sensitivity in Cancer (GDSC)](https://www.cancerrxgene.org/) - A database of drug sensitibity which has 1000 human cancer cell lines and 100s compounds.
-*   [Cancer Cell Line Encyclopedia](https://sites.broadinstitute.org/ccle/) - A database of cancer cell lines. This has 1000 cell lines.
+*   Drug (-Cell line) Response
+    *   [NCI60](https://dtp.cancer.gov/discovery_development/nci-60/) A database which focus on 60 cancer cell lines with many drugs.
+    *   [Genomics of Drug Sensitivity in Cancer (GDSC)](https://www.cancerrxgene.org/) - A database of drug sensitibity which has 1000 human cancer cell lines and 100s compounds.
+    *   [Cancer Cell Line Encyclopedia](https://sites.broadinstitute.org/ccle/) - A database of cancer cell lines. This has 1000 cell lines.
 
 ## [23. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Integration / Community
 
-*   [Nuxt Directus (⭐152)](https://github.com/directus-community/nuxt-directus) - First-Class Nuxt 3 Module for connecting with an Directus instance.
+*   [Nuxt Directus (⭐211)](https://github.com/directus-community/nuxt-directus) - First-Class Nuxt 3 Module for connecting with an Directus instance.
 
 ### Extensions / Community
 
-*   [Directus LogSnag (⭐16)](https://github.com/Intevel/directus-logsnag) - Sending your events from Directus directly to your phone using LogSnag.
+*   [Directus LogSnag (⭐20)](https://github.com/Intevel/directus-logsnag) - Sending your events from Directus directly to your phone using LogSnag.
 
 ### Articles / Educational
 
@@ -284,11 +284,11 @@
 
 ### Community / Interfaces to other package managers
 
-*   [alien-works-delivery (⭐31)](https://github.com/borodust/alien-works-delivery) - WIP system for delivering Common Lisp applications as executable bundles. For now it only supports AppImage format for Linux and MSIX for Windows, but .APK for Android and later MacOSX and iOS bundle formats are planned too.
+*   [alien-works-delivery (⭐32)](https://github.com/borodust/alien-works-delivery) - WIP system for delivering Common Lisp applications as executable bundles. For now it only supports AppImage format for Linux and MSIX for Windows, but .APK for Android and later MacOSX and iOS bundle formats are planned too.
 
 ### Actors pattern / Third-party APIs
 
-*   [lisp-actors (⭐61)](https://github.com/dbmcclain/Lisp-Actors), an "ongoing investigation into the use of the Actor model in Common Lisp, which has had the benefit of real-world application".
+*   [lisp-actors (⭐63)](https://github.com/dbmcclain/Lisp-Actors), an "ongoing investigation into the use of the Actor model in Common Lisp, which has had the benefit of real-world application".
     *   it was part of the [Emotiq blockchain (⭐97)](https://github.com/emotiq/emotiq/blob/dev/src/test/blockchain-test.lisp) (a discontinued project)
     *   does remoting, includes a threading abstraction layer library similar to Bordeaux-Threads.
     *   ! it lacks unit tests.
@@ -302,7 +302,7 @@
 ### VM-Hardening
 
 *   [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security) - The following list of actionable items can help to improve security on the Qubes platform, and by extension Kicksecure ™ for Qubes users.
-*   [Qubes-VM-hardening (⭐64)](https://github.com/tasket/Qubes-VM-hardening) - Leverage Qubes template non-persistence to fend off malware at VM startup: Lock-down, quarantine and check contents of /rw private storage that affect the execution environment.
+*   [Qubes-VM-hardening (⭐67)](https://github.com/tasket/Qubes-VM-hardening) - Leverage Qubes template non-persistence to fend off malware at VM startup: Lock-down, quarantine and check contents of /rw private storage that affect the execution environment.
 
 ### Clearnet & Anonymous Networking / Anonymity
 
@@ -332,7 +332,7 @@
 
 ### Helpers
 
-*   [YAS (⭐0)](https://github.com/kithf/yas) - Yet Another Screen manager.
+*   [YAS (⭐2)](https://github.com/kithf/yas) - Yet Another Screen manager.
 
 ## [30. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
@@ -344,7 +344,7 @@
 
 ### Libraries
 
-*   [Fortuna (⭐520)](https://github.com/awslabs/fortuna) - AWS library for Uncertainty Quantification in Deep Learning. <img src="https://img.shields.io/github/stars/awslabs/fortuna?style=social" align="center">
+*   [Fortuna (⭐733)](https://github.com/awslabs/fortuna) - AWS library for Uncertainty Quantification in Deep Learning. <img src="https://img.shields.io/github/stars/awslabs/fortuna?style=social" align="center">
 
 ## [32. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/week/README.md)
 
@@ -370,35 +370,35 @@
 
 ### Plugin Manager
 
-*   [folke/lazy.nvim (⭐5.1k)](https://github.com/folke/lazy.nvim) - A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more 💤.
+*   [folke/lazy.nvim (⭐7.8k)](https://github.com/folke/lazy.nvim) - A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more 💤.
 
 ### Completion / Diagnostics
 
-*   [zbirenbaum/copilot.lua (⭐1k)](https://github.com/zbirenbaum/copilot.lua) - Fully featured Lua replacement for [GitHub/copilot.vim (⭐5.4k)](https://github.com/github/copilot.vim).
+*   [zbirenbaum/copilot.lua (⭐1.5k)](https://github.com/zbirenbaum/copilot.lua) - Fully featured Lua replacement for [GitHub/copilot.vim (⭐6.3k)](https://github.com/github/copilot.vim).
 
 ### Project / Diagnostics
 
-*   [pluffie/neoproj (⭐27)](https://github.com/pluffie/neoproj) - Small yet powerful project (and session) manager.
-*   [natecraddock/workspaces.nvim (⭐153)](https://github.com/natecraddock/workspaces.nvim) - Manage workspace directories.
+*   [pluffie/neoproj (⭐51)](https://github.com/pluffie/neoproj) - Small yet powerful project (and session) manager.
+*   [natecraddock/workspaces.nvim (⭐206)](https://github.com/natecraddock/workspaces.nvim) - Manage workspace directories.
 
 ### Keybinding / Diagnostics
 
-*   [Nexmean/caskey.nvim (⭐62)](https://github.com/Nexmean/caskey.nvim) - Utility to keymappings configuration using declarative cascading trees, optionally integrates with `which-key`.
+*   [Nexmean/caskey.nvim (⭐67)](https://github.com/Nexmean/caskey.nvim) - Utility to keymappings configuration using declarative cascading trees, optionally integrates with `which-key`.
 
 ### Editing Support / Diagnostics
 
-*   [chrisgrieser/nvim-various-textobjs (⭐233)](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of about a dozen custom text objects.
+*   [chrisgrieser/nvim-various-textobjs (⭐325)](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of about a dozen custom text objects.
 
 ## [35. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf-tab-widgets (⭐1)](https://github.com/tom-power/fzf-tab-widgets) - Adds widgets for [fzf-tab (⭐2.1k)](https://github.com/Aloxaf/fzf-tab).
+*   [fzf-tab-widgets (⭐3)](https://github.com/tom-power/fzf-tab-widgets) - Adds widgets for [fzf-tab (⭐2.4k)](https://github.com/Aloxaf/fzf-tab).
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [minimal-terminal (⭐37)](https://github.com/Lissy93/minimal-terminal-prompt) - Includes decorators for username\@host, current directory, `git` information and the last command's exit code.
-*   [softblobby (⭐0)](https://github.com/gsalami00/softblobby/) - A theme for people who love unicorns, pink and purple. Includes decorators for `git` information, current directory, time and username.
+*   [minimal-terminal (⭐42)](https://github.com/Lissy93/minimal-terminal-prompt) - Includes decorators for username\@host, current directory, `git` information and the last command's exit code.
+*   [softblobby (⭐2)](https://github.com/gsalami00/softblobby/) - A theme for people who love unicorns, pink and purple. Includes decorators for `git` information, current directory, time and username.
 
 ## [36. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
@@ -429,7 +429,7 @@
 
 ## [39. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
-### Inbox: Large Language Models / ChatGPT
+### Inbox: Large Language Models (LLMs) / ChatGPT
 
 *   [("Publicly announced ChatGPT variants and competitors: a thread" / Twitter](https://twitter.com/goodside/status/1606611869661384706): a Twitter thread by [@goodside](https://twitter.com/goodside) with alternatives to ChatGPT
 
@@ -441,27 +441,27 @@
 
 ### Software Engineering
 
-*   [Falsehoods about Quantum Technology (⭐0)](https://github.com/gottfriedsz/falsehoods-quantum) - Common misconceptions about quantum technology and computers.
+*   [Falsehoods about Quantum Technology (⭐2)](https://github.com/gottfriedsz/falsehoods-quantum) - Common misconceptions about quantum technology and computers.
 
 ## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
-*   [Teamplify](https://teamplify.com) - improve team development processes with Team Analytics and Smart Daily Standup. Includes full-featured Time Off management for remote-first teams. Free for small teams up to 5 users.
+*   [Teamplify](https://teamplify.com) - improve team development processes with Team Analytics and Smart Daily Standup. Includes full-featured Time Off management for remote-first teams. Free for small groups of up to 5 users.
 
 ### Data Visualization on Maps
 
-*   [locationiq.com](https://locationiq.com/) — Geocoding, Maps, and Routing APIs. 5000 requests/day for free.
+*   [locationiq.com](https://locationiq.com/) — Geocoding, Maps, and Routing APIs. Five thousand requests/day for free.
 
 ### Other Free Resources
 
-*   [Free Code Tools](https://freecodetools.org/) — Effective code tools which are 100% free. Markdown editor, Code minifier/beautifier, QR code generator, Open Graph Generator, Twitter card Generator and more.
+*   [Free Code Tools](https://freecodetools.org/) — Effective code tools which are 100% free. Markdown editor, Code minifier/beautifier, QR code generator, Open Graph Generator, Twitter card Generator, and more.
 
 ## [42. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Security
 
-*   [Password Cracking (⭐272)](https://github.com/n0kovo/awesome-password-cracking#readme) - The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
+*   [Password Cracking (⭐379)](https://github.com/n0kovo/awesome-password-cracking#readme) - The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
 
 ## [43. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/week/README.md)
 
@@ -473,13 +473,13 @@
 
 ### Device / Augmented Reality
 
-*   [Device Calendar (⭐209)](https://github.com/builttoroam/device_calendar) - Plugin for modifying calendars on the user's device by [Built to Roam](http://builttoroam.com)
+*   [Device Calendar (⭐222)](https://github.com/builttoroam/device_calendar) - Plugin for modifying calendars on the user's device by [Built to Roam](http://builttoroam.com)
 
 ## [45. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
-*   🎨💼 [Accent (⭐6)](https://github.com/enjidev/tailwindcss-accent) - Adds `accent` colors for more dynamic and flexible color utilization.
+*   🎨💼 [Accent (⭐11)](https://github.com/enjidev/tailwindcss-accent) - Adds `accent` colors for more dynamic and flexible color utilization.
 
 ### Tools
 
@@ -487,5 +487,5 @@
 
 ---
 
-- Prev: [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
+- Prev: [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 - Next: [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)

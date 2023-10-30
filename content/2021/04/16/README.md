@@ -53,7 +53,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Smashing](https://smashing.github.io/) - Smashing, the spiritual successor to Dashing, is a Sinatra based framework that lets you build excellent dashboards. It looks especially great on TVs. ([Source Code (⭐3.1k)](https://github.com/Smashing/smashing)) `MIT` `Ruby`
+*   [Smashing](https://smashing.github.io/) - Smashing, the spiritual successor to Dashing, is a Sinatra based framework that lets you build excellent dashboards. It looks especially great on TVs. ([Source Code (⭐3.2k)](https://github.com/Smashing/smashing)) `MIT` `Ruby`
 
 ## [4. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Projects
 
-*   [Oxfeed (⭐10)](https://github.com/sanpii/oxfeed) - A feed reader written in Rust with a Yew frontend.
+*   [Oxfeed (⭐11)](https://github.com/sanpii/oxfeed) - A feed reader written in Rust with a Yew frontend.
 
 ## [6. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 
@@ -84,19 +84,19 @@
 
 ### Tools & Software / Utilities
 
-*   [httrack2warc (⭐24)](https://github.com/nla/httrack2warc) - Convert HTTrack archives to WARC format (Java).
+*   [httrack2warc (⭐26)](https://github.com/nla/httrack2warc) - Convert HTTrack archives to WARC format (Java).
 
 ## [9. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Python / Trading & Backtesting
 
-*   [bta-lib (⭐409)](https://github.com/mementum/bta-lib) - Technical Analysis library in pandas for backtesting algotrading and quantitative analysis.
+*   [bta-lib (⭐419)](https://github.com/mementum/bta-lib) - Technical Analysis library in pandas for backtesting algotrading and quantitative analysis.
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
-*   [Help you learn more efficiently vue3 source code - mini-vue (⭐9.1k)](https://github.com/cuixiaorui/mini-vue) by cuixiaorui
+*   [Help you learn more efficiently vue3 source code - mini-vue (⭐9.5k)](https://github.com/cuixiaorui/mini-vue) by cuixiaorui
 
 ## [11. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 

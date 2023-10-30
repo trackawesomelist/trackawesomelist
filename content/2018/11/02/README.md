@@ -36,7 +36,7 @@
 
 ### Seedboxes / Seedbox Setup Tools and Guides
 
-*   [MediaServer-DockerComposeFiles (⭐114)](https://github.com/vaeyo/MediaServer-DockerComposeFiles) Docker-Compose Files for Media Server Related Apps \[Radarr, Sonarr, Plex, rTorrent, NZBGet, Ombi, Emby, etc]
+*   [MediaServer-DockerComposeFiles (⭐125)](https://github.com/vaeyo/MediaServer-DockerComposeFiles) Docker-Compose Files for Media Server Related Apps \[Radarr, Sonarr, Plex, rTorrent, NZBGet, Ombi, Emby, etc]
 
 ### Usenet / Seedbox Setup Tools and Guides
 
@@ -48,8 +48,8 @@
 
 ### Usenet Indexers / Usenet Indexing Software
 
-*   [nZEDb (⭐590)](https://github.com/nZEDb/nZEDb) a fork of nnplus(2011) | NNTP / Usenet / Newsgroup indexer.
-*   [newznab-tmux (⭐159)](https://github.com/NNTmux/newznab-tmux) Laravel based usenet indexer
+*   [nZEDb (⭐601)](https://github.com/nZEDb/nZEDb) a fork of nnplus(2011) | NNTP / Usenet / Newsgroup indexer.
+*   [newznab-tmux (⭐187)](https://github.com/NNTmux/newznab-tmux) Laravel based usenet indexer
 *   [newznab](http://www.newznab.com/) newznab is a usenet indexing application, that makes building a usenet community easy.
 
 ### Usenet Clients / Free Indexers
@@ -60,7 +60,7 @@
 ### DDL Tools / Free Indexers
 
 *   [Persepolis](https://persepolisdm.github.io/) Front-end for aria2.
-*   [axel (⭐2.3k)](https://github.com/axel-download-accelerator/axel) light command line download accelerator
+*   [axel (⭐2.5k)](https://github.com/axel-download-accelerator/axel) light command line download accelerator
 *   [uGet](https://ugetdm.com/) Open Source Download Manager
 
 ### Custom Google Search Engines / Free Indexers
@@ -90,8 +90,8 @@
 
 ### Subtitles Automation / Third Party Hosts
 
-*   [Bazarr (⭐1.8k)](https://github.com/morpheus65535/bazarr) Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
-*   [autosub (⭐3.8k)](https://github.com/agermanidis/autosub) Command-line utility for auto-generating subtitles for any video file using speech recognition
+*   [Bazarr (⭐2.1k)](https://github.com/morpheus65535/bazarr) Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
+*   [autosub (⭐4k)](https://github.com/agermanidis/autosub) Command-line utility for auto-generating subtitles for any video file using speech recognition
 
 ### Mobile Apps / Third Party Hosts
 

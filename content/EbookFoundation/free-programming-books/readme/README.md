@@ -425,7 +425,7 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [256-Color VGA Programming in C](http://www.brackeen.com/vga/) - David Brackeen
 *   [A Tutorial on Pointers and Arrays in C](https://web.archive.org/web/20180827131006/http://home.earthlink.net/~momotuk/pointers.pdf) - Ted Jensen (PDF) *(:card\_file\_box: archived)*
 *   [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms/) - Paulo Feofiloff (HTML)
-*   [Bare-metal programming for ARM (⭐514)](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](http://umanovskis.se/files/arm-baremetal-ebook.pdf)
+*   [Bare-metal programming for ARM (⭐523)](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](http://umanovskis.se/files/arm-baremetal-ebook.pdf)
 *   [Beej's Guide to C Programming](http://beej.us/guide/bgc/) - Brian "Beej Jorgensen" Hall (HTML, PDF)
 *   [Beej's Guide to the GNU Debugger (GDB)](http://beej.us/guide/bggdb/) - Brian "Beej Jorgensen" Hall (HTML)
 *   [Build Your Own Lisp](http://www.buildyourownlisp.com) - Daniel Holden
@@ -497,7 +497,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### <a id="cpp"></a>C++
 
-*   [A Complete Guide to Standard C++ Algorithms (⭐800)](https://github.com/HappyCerberus/book-cpp-algorithms) - Šimon Tóth (PDF, LaTeX)
+*   [A Complete Guide to Standard C++ Algorithms (⭐814)](https://github.com/HappyCerberus/book-cpp-algorithms) - Šimon Tóth (PDF, LaTeX)
 *   [An Introduction to the USA Computing Olympiad, C++ Edition](https://darrenyao.com/usacobook/cpp.pdf) - Darren Yao (PDF)
 *   [C++ Annotations](https://fbb-git.gitlab.io/cppannotations) - Frank B. Brokken (HTML, PDF)
 *   [C++ Core Guidelines (⭐40k)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) - `edt.:` Bjarne Stroustrup, Herb Sutter
@@ -694,7 +694,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 *   [BEAM Wisdoms](http://beam-wisdoms.clau.se/en/latest/) (HTML)
 *   [Concurrent Programming in ERLANG](http://www.erlang.org/download/erlang-book-part1.pdf) (PDF)
-*   [Erlang Handbook (⭐295)](https://github.com/esl/erlang-handbook/raw/master/output/ErlangHandbook.pdf) (PDF)
+*   [Erlang Handbook (⭐296)](https://github.com/esl/erlang-handbook/raw/master/output/ErlangHandbook.pdf) (PDF)
 *   [Erlang Programming](https://en.wikibooks.org/wiki/Erlang_Programming) - Wikibooks (HTML)
 *   [Getting Started with Erlang User's Guide](http://www.erlang.org/doc/getting_started/users_guide.html) (HTML)
 *   [Learn You Some Erlang For Great Good](http://learnyousomeerlang.com) - Fred Hebert (HTML)
@@ -801,7 +801,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### GraphQL
 
-*   [Fullstack GraphQL (⭐590)](https://github.com/GraphQLCollege/fullstack-graphql)
+*   [Fullstack GraphQL (⭐593)](https://github.com/GraphQLCollege/fullstack-graphql)
 *   [GraphQL or Bust](https://nordicapis.com/wp-content/uploads/GraphQL-or-Bust-v2.2.pdf) - Nordic APIs (PDF)
 *   [Learning graphqL](https://riptutorial.com/Download/graphql.pdf) - Compiled from StackOverflow Documentation (PDF)
 
@@ -990,6 +990,7 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [Effective Java, Third Edition](https://ia801009.us.archive.org/16/items/effectivejava2017addisonwesley/Effective%20Java%20%282017%2C%20Addison-Wesley%29.pdf) - Joshua Bloch (PDF) *(:card\_file\_box: archived)*
 *   [Essential Java](https://www.programming-books.io/essential/java/) - Krzysztof Kowalczyk, StackOverflow Contributors
 *   [Google's Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+*   [Hibernate Notes for Professionals](https://books.goalkicker.com/HibernateBook) - Compiled from StackOverflow Documentation (PDF)
 *   [Introduction to Computer Science "booksite"](https://introcs.cs.princeton.edu/java/cs/) - Robert Sedgewick, Kevin Wayne (HTML)
 *   [Introduction to Computer science using Java](http://www.programmedlessons.org/Java9/index.html) - Bradley Kjell
 *   [Introduction to Programming in Java](http://introcs.cs.princeton.edu/java/home/) - Robert Sedgewick, Kevin Wayne
@@ -1063,7 +1064,7 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html) - Axel Rauschmayer (HTML)
 *   [Book of Modern Frontend Tooling (⭐2.5k)](https://github.com/tooling/book-of-modern-frontend-tooling) - Various (HTML)
 *   [Building Front-End Web Apps with Plain JavaScript](https://web-engineering.info/JsFrontendApp-Book) - Gerd Wagner (HTML,PDF)
-*   [Clean Code JavaScript (⭐86k)](https://github.com/ryanmcdermott/clean-code-javascript) - Ryan McDermott (HTML)
+*   [Clean Code JavaScript (⭐87k)](https://github.com/ryanmcdermott/clean-code-javascript) - Ryan McDermott (HTML)
 *   [Crockford's JavaScript](http://www.crockford.com/javascript/) - Douglas Crockford (HTML)
 *   [Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js) - Axel Rauschmayer (HTML)
 *   [Designing Scalable JavaScript Applications](https://www.manning.com/books/designing-scalable-javascript-applications) - Emmit Scott (PDF+livebook)
@@ -1227,7 +1228,7 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [An Introduction to libuv](https://nikhilm.github.io/uvbook/) - Nikhil Marathe ([PDF](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.pdf) - [ePub](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.epub))
 *   [Essential Node.js](https://www.programming-books.io/essential/nodejs/) - Krzysztof Kowalczyk, StackOverflow Contributors
 *   [From Containers to Kubernetes with Node.js](https://www.digitalocean.com/community/books/from-containers-to-kubernetes-with-node-js-ebook) - Kathleen Juell (PDF, EPUB)
-*   [Full Stack JavaScript: Learn Backbone.js, Node.js and MongoDB (⭐512)](https://github.com/azat-co/fullstack-javascript) - Azat Mardan
+*   [Full Stack JavaScript: Learn Backbone.js, Node.js and MongoDB (⭐511)](https://github.com/azat-co/fullstack-javascript) - Azat Mardan
 *   [How To Code in Node.js - eBook](https://www.digitalocean.com/community/books/how-to-code-in-node-js-ebook) - David Landup, Marcus Sanatan @ Stack Abuse, Digital Ocean (PDF, EPUB)
 *   [Introduction to Node.js](https://nodejs.dev/en/learn/) (HTML)
 *   [Mastering Node (⭐1.8k)](https://github.com/visionmedia/masteringnode) - visionmedia ([PDF (⭐1.8k)](https://github.com/visionmedia/masteringnode/blob/master/book.pdf))
@@ -1388,6 +1389,7 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/index.html)
 *   [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/)
 *   [Linux Newbie Administrator Guide](http://lnag.sourceforge.net)
+*   [Linux Notes for Professionals](https://books.goalkicker.com/LinuxBook) - Compiled from StackOverflow Documentation (PDF)
 *   [Linux Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/linux) (PDF, Kindle) (email address *requested*, not required)
 *   [Secure Programming HOWTO - Creating Secure Software](http://www.dwheeler.com/secure-programs/) - D. A. Wheeler (HTML, PDF)
 *   [Ten Steps to Linux Survival: Bash for Windows People](http://dullroar.com/book/TenStepsToLinuxSurvival.html) - Jim Lehmer
@@ -1523,7 +1525,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### .NET Core
 
-*   [Clean Code .NET (⭐6.4k)](https://github.com/thangchung/clean-code-dotnet)
+*   [Clean Code .NET (⭐6.5k)](https://github.com/thangchung/clean-code-dotnet)
 *   [Entity Framework Core Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/entity-frame-work-core-succinctly) - Ricardo Peres
 *   [.NET documentation - Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/)
 *   [Using .NET Core, Docker, and Kubernetes Succinctly](https://www.syncfusion.com/ebooks/using-netcore-docker-and-kubernetes-succinctly) - Michele Aponte
@@ -1534,6 +1536,7 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [Application Security in .NET Succinctly](https://www.syncfusion.com/ebooks/application_security_in_net_succinctly) - Stan Drapkin
 *   [Cryptography in .NET Succinctly](https://www.syncfusion.com/ebooks/cryptography_in_net_succinctly) - Dirk Strauss
 *   [Entity Framework](http://weblogs.asp.net/zeeshanhirani/my-christmas-present-to-the-entity-framework-community)
+*   [Entity Framework Notes for Professionals](https://books.goalkicker.com/EntityFrameworkBook) - Compiled from StackOverflow Documentation (PDF)
 *   [Essential .NET Framework](https://www.programming-books.io/essential/netframework/) - Krzysztof Kowalczyk, StackOverflow Contributors
 *   [Game Creation with XNA](https://en.wikibooks.org/wiki/Game_Creation_with_XNA) - Wikibooks
 *   [Getting the Most from LINQPad Succinctly](https://www.syncfusion.com/ebooks/getting-the-most-from-linqpad-succinctly) - José Roberto Olivas Mendoza
@@ -1653,7 +1656,7 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [Perl one-liners cookbook](https://learnbyexample.github.io/learn_perl_oneliners/) - Sundeep Agarwal
 *   [Perl Training Australia - Course Notes](http://perltraining.com.au/notes.html)
 *   [Plack Handbook](http://handbook.plackperl.org)
-*   [SDL::Manual Writing Games in Perl (⭐62)](https://github.com/PerlGameDev/SDL_Manual)
+*   [SDL::Manual Writing Games in Perl (⭐63)](https://github.com/PerlGameDev/SDL_Manual)
 *   [Template Toolkit Documentation](http://template-toolkit.org/docs/index.html)
 *   [The DBIx-Class Book (⭐74)](https://github.com/castaway/dbix-class-book)
 *   [The PDL Book](http://sourceforge.net/projects/pdl/files/PDL_2013/PDL-Book/PDL-Book-20130322.pdf/download) (PDF)
@@ -1702,7 +1705,7 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [Laravel: Code Bright](http://daylerees.com/codebright) - Dayle Rees
 *   [Laravel: Code Happy](http://daylerees.com/codehappy) - Dayle Rees
 *   [Laravel: Code Smart](https://daylerees.com/codesmart/) - Dayle Rees
-*   [Laravel Tips and Tricks (⭐148)](https://github.com/bobbyiliev/laravel-tips-and-tricks-ebook) - Bobby Iliev (Markdown, PDF)
+*   [Laravel Tips and Tricks (⭐150)](https://github.com/bobbyiliev/laravel-tips-and-tricks-ebook) - Bobby Iliev (Markdown, PDF)
 *   [Learning Laravel](https://riptutorial.com/Download/laravel.pdf) - Compiled from StackOverflow Documentation (PDF)
 
 #### Symfony
@@ -1839,7 +1842,7 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [Introduction to Python for Econometrics, Statistics and Numerical Analysis](https://www.kevinsheppard.com/files/teaching/python/notes/python_introduction_2020.pdf) - Kevin Sheppard (PDF) (3.8)
 *   [Introduction to Scientific Programming with Python](https://library.oapen.org/bitstream/id/56d27e73-e92a-4398-8198-239be7aacc93/2020_Book_IntroductionToScientificProgra.pdf) - Joakim Sundnes (PDF)
 *   [Invent Your Own Computer Games With Python](https://inventwithpython.com/invent4thed/) - Al Sweigart (3.4)
-*   [Learn Python 3 (⭐158)](https://github.com/animator/learn-python) - Ankit Mahato (PDF, HTML, Markdown)
+*   [Learn Python 3 (⭐159)](https://github.com/animator/learn-python) - Ankit Mahato (PDF, HTML, Markdown)
 *   [Learn Python, Break Python](http://learnpythonbreakpython.com)
 *   [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/) - LearnXinYMinutes (HTML)
 *   [Learn Python Programming, Second Edition](https://www.packtpub.com/free-ebooks/learn-python-programming-second-edition) - Fabrizio Romano (Packt account *required*)
@@ -1864,6 +1867,7 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [Pro Python Advanced coding techniques and tools](https://archive.org/download/python-books/Apress.Pro.Python.Advanced.Coding.Techniques.And.Tools.Jun.2010.ISBN.1430227575.pdf) - Marty Alchin (PDF)
 *   [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds3/index.html) - Bradley N. Miller, David L. Ranum (3.x)
 *   [Program Arcade Games With Python And Pygame](http://programarcadegames.com) (3.3)
+*   [Programming Basics with Python](https://python-book.softuni.org) - Svetlin Nakov & Team
 *   [Programming Computer Vision with Python](http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf) (PDF)
 *   [Programming for Non-Programmers, Release 2.6.2](https://web.archive.org/web/20180921063136/http://buildingskills.itmaybeahack.com/book/programming-2.6/latex/ProgrammingforNon-Programmers.pdf) - Steven F. Lott (PDF) (2.6) *(:card\_file\_box: archived)*
 *   [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org) - Marc Lichtman (3.x)
@@ -2104,7 +2108,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### Ruby on Rails
 
-*   [Api on Rails 6 (⭐356)](https://github.com/madeindjs/api_on_rails) - Alexandre Rousseau
+*   [Api on Rails 6 (⭐357)](https://github.com/madeindjs/api_on_rails) - Alexandre Rousseau
 *   [Building REST APIs with Rails](https://www.softcover.io/read/06acc071/api_on_rails) - Abraham Kuri Vargas
 *   [Essential Ruby on Rails](https://www.programming-books.io/essential/rubyonrails/) - Krzysztof Kowalczyk, StackOverflow Contributors
 *   [Kestrels, Quirky Birds, and Hopeless Egocentricity](https://leanpub.com/combinators/read) - Reg Braithwaite
@@ -2123,14 +2127,14 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### Sinatra
 
-*   [Sinatra Book (⭐666)](https://github.com/sinatra/sinatra-book)
+*   [Sinatra Book (⭐667)](https://github.com/sinatra/sinatra-book)
 
 ### Rust
 
 *   [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro) - Steve J Donovan
 *   [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book)
 *   [Easy Rust](https://dhghomon.github.io/easy_rust/) - David McLeod (HTML, PDF)
-*   [From JavaScript to Rust ebook (⭐1.2k)](https://github.com/wasmflow/node-to-rust/raw/HEAD/from-javascript-to-rust.pdf) - Jarrod Overson (PDF)
+*   [From JavaScript to Rust ebook (⭐1.3k)](https://github.com/wasmflow/node-to-rust/raw/HEAD/from-javascript-to-rust.pdf) - Jarrod Overson (PDF)
 *   [Guide to Rustc Development](https://rustc-dev-guide.rust-lang.org)
 *   [Learn Rust in Y minutes](https://learnxinyminutes.com/docs/rust/)
 *   [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists) - Alexis Beingessner
@@ -2268,7 +2272,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 *   [Developing Time-Oriented Database Applications in SQL](https://www2.cs.arizona.edu/~rts/tdbbook.pdf) - Richard T. Snodgrass (PDF)
 *   [Essential SQL](https://www.programming-books.io/essential/sql) - Krzysztof Kowalczyk and  Stack Overflow Documentation project (HTML)
-*   [Introduction to SQL (⭐237)](https://github.com/bobbyiliev/introduction-to-sql) - Bobby Iliev (Markdown, PDF)
+*   [Introduction to SQL (⭐239)](https://github.com/bobbyiliev/introduction-to-sql) - Bobby Iliev (Markdown, PDF)
 *   [Learning SQL](https://riptutorial.com/Download/sql.pdf) - Compiled from StackOverflow Documentation (PDF)
 *   [Oracle Database Notes for Professionals](https://goalkicker.com/OracleDatabaseBook/OracleDatabaseNotesForProfessionals.pdf) Compiled from StackOverflow Documentation (PDF)
 *   [Oracle8i Concepts: Chapter 15 - SQL and PL/SQL](https://docs.oracle.com/cd/A87860_01/doc/server.817/a76965/c14sqlpl.htm#5943) - Lefty Leverenz, Diana Rehfield, Cathy Baird (HTML)
@@ -2396,7 +2400,7 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [Beej's Guide to Unix Interprocess Communication](http://beej.us/guide/bgipc/) - Brian "Beej Jorgensen" Hall (HTML,PDF)
 *   [Commentary on the Sixth Edition UNIX Operating System](http://www.lemis.com/grog/Documentation/Lions/) - J. Lions
 *   [INTRODUCTION TO UNIX](https://homepages.uc.edu/~thomam/Intro_Unix_Text/TOC.html) - Mark A. Thomas
-*   [Unix as IDE (⭐343)](https://github.com/mrzool/unix-as-ide) - Tom Ryder (epub, mobi)
+*   [Unix as IDE (⭐346)](https://github.com/mrzool/unix-as-ide) - Tom Ryder (epub, mobi)
 *   [UNIX Commands and Concepts](http://www.cs.bu.edu/teaching/unix/reference/) - Robert I. Pitts
 *   [Unix for Poets](http://web.stanford.edu/class/cs124/kwc-unix-for-poets.pdf) - Kenneth Ward Church (PDF)
 *   [Unix Programming Tools](http://cslibrary.stanford.edu/107/UnixProgrammingTools.pdf) - Parlante, Zelenski (PDF)
@@ -2415,7 +2419,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### VHDL
 
-*   [Free Range VHDL (⭐202)](https://github.com/fabriziotappero/Free-Range-VHDL-book) - Bryan Mealy, Fabrizio Tappero (TeX and PDF)
+*   [Free Range VHDL (⭐204)](https://github.com/fabriziotappero/Free-Range-VHDL-book) - Bryan Mealy, Fabrizio Tappero (TeX and PDF)
 *   [VHDL Tutorial](http://www.seas.upenn.edu/~ese171/vhdl/vhdl_primer.html)
 *   [VHDL Tutorial: Learn By Example](http://esd.cs.ucr.edu/labs/tutorial/)
 
@@ -2432,8 +2436,8 @@ Books on general-purpose programming that don't focus on a specific language are
 #### Vulkan
 
 *   [Vulkan Tutorial](https://vulkan-tutorial.com) - Alexander Overvoorde (EPUB, HTML, PDF) (C++)
-*   [Vulkan Tutorial Java (⭐142)](https://github.com/Naitsirc98/Vulkan-Tutorial-Java) - Cristian Herrera, et al. (Java)
-*   [Vulkan Tutorial RS (⭐622)](https://github.com/bwasty/vulkan-tutorial-rs) - Benjamin Wasty, et al. (:construction: *in process*) (Rust)
+*   [Vulkan Tutorial Java (⭐144)](https://github.com/Naitsirc98/Vulkan-Tutorial-Java) - Cristian Herrera, et al. (Java)
+*   [Vulkan Tutorial RS (⭐623)](https://github.com/bwasty/vulkan-tutorial-rs) - Benjamin Wasty, et al. (:construction: *in process*) (Rust)
 *   [Vulkano](https://vulkano.rs/guide/introduction) - Tomaka, et al. (HTML) (Rust)
 
 ### Web Services

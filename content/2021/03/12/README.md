@@ -15,53 +15,63 @@
 *   [splash R package (⭐5)](https://github.com/ML4LHS/splash): Splashing a User Interface onto H2O MOJO Files.  More info [here](https://twitter.com/kdpsinghlab/status/1367809740705792008).
 *   [h2oparsnip R package (⭐19)](https://github.com/stevenpawley/h2oparsnip): Set of wrappers to bind h2o algorthms with the [parsnip](https://parsnip.tidymodels.org/) package.
 
-## [2. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
+## [2. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
+
+### Stalled Development
+
+*   [**Propeller**](https://propeller.in) - Front-end responsive framework based on Google's Material Design standards & Bootstrap.\
+    ![](https://img.shields.io/github/stars/digicorp/propeller.svg?style=social\&label=Star)
+    [Docs](https://propeller.in/frameworks/open-source/get-started/),
+    [Repo (⭐1.1k)](https://github.com/digicorp/propeller)
+    \| #SCSS
+
+## [3. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
 ### Forms / Normal Forms
 
 *   [SheetDB](https://sheetdb.io/) - Turn a Google Spreadsheet into a JSON API.
 
-## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Text & Rich Content / Image Picker
 
-*   [Code Field (⭐162)](https://github.com/BertrandBev/code_field) - Customizable code field widget supporting syntax highlighting by [Bertrand Bevillard](https://github.com/BertrandBev)
+*   [Code Field (⭐189)](https://github.com/BertrandBev/code_field) - Customizable code field widget supporting syntax highlighting by [Bertrand Bevillard](https://github.com/BertrandBev)
 
-## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Form Widgets / Calendar
 
 *   [Date Range Picker (⭐11k)](https://github.com/dangrossman/daterangepicker) - creates a dropdown menu from which a user can select a range of dates.
 
-## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Gokapi (⭐664)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. `GPL-3.0` `Go`
+*   [Gokapi (⭐815)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. `GPL-3.0` `Go/Docker`
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Conversion Tools](https://conversiontools.io/) - Online File Converter for documents, images, video, audio, eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans). Free tier is limited by file size and number of conversions per day.
+*   [Conversion Tools](https://conversiontools.io/) - Online File Converter for documents, images, video, audio, and eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans). The free tier is limited by file size and number of conversions per day.
 
 ### Storage and Media Processing
 
-*   [imagekit.io](https://imagekit.io) – Image CDN with automatic optimization, real-time transformation, and storage that you can integrate with existing setup in minutes. Free plan includes up to 20GB bandwidth per month.
+*   [imagekit.io](https://imagekit.io) – Image CDN with automatic optimization, real-time transformation, and storage that you can integrate with existing setup in minutes. The free plan includes up to 20GB of bandwidth per month.
 
-## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [8. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Miscellaneous
 
-*   [react-darkreader (⭐261)](https://github.com/Turkyden/react-darkreader) - A React Hook for adding a dark / night mode to your site inspired by darkreader.
+*   [react-darkreader (⭐271)](https://github.com/Turkyden/react-darkreader) - A React Hook for adding a dark / night mode to your site inspired by darkreader.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-typical (⭐157)](https://github.com/Turkyden/vue-typical) 🐡 Vue Animated typing in \~400 bytes of JavaScript.
+*   [vue-typical (⭐160)](https://github.com/Turkyden/vue-typical) 🐡 Vue Animated typing in \~400 bytes of JavaScript.
 
-## [9. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
+## [10. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
 
 ### Keyboard / Text
 
@@ -70,21 +80,6 @@
 ### Menubar / Text
 
 *   [xbar (⭐17k)](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar.  ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
-
-## [10. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
-
-### Stalled Development
-
-*   [**Wing**](https://kbrsh.github.io/wing/) - Beautiful CSS framework designed for minimalists.\
-    ![](https://img.shields.io/github/stars/kbrsh/wing.svg?style=social\&label=Star)
-    [Docs](https://kbrsh.github.io/wing/#installation),
-    [Repo (⭐2k)](https://github.com/kbrsh/wing)
-    \| #Stylus
-*   [**Propeller**](https://propeller.in) - Front-end responsive framework based on Google's Material Design standards & Bootstrap.\
-    ![](https://img.shields.io/github/stars/digicorp/propeller.svg?style=social\&label=Star)
-    [Docs](https://propeller.in/frameworks/open-source/get-started/),
-    [Repo (⭐1.1k)](https://github.com/digicorp/propeller)
-    \| #SCSS
 
 ## [11. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

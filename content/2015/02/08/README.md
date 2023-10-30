@@ -16,17 +16,17 @@
 
 ### Algorithms and Data structures
 
-*   [structurez (⭐12)](https://github.com/hamiltop/structurez) - A playground for data structures in Elixir.
+*   [structurez (⭐13)](https://github.com/hamiltop/structurez) - A playground for data structures in Elixir.
 
 ### Audio and Sounds
 
-*   [erlaudio (⭐24)](https://github.com/asonge/erlaudio) - Erlang PortAudio bindings.
+*   [erlaudio (⭐25)](https://github.com/asonge/erlaudio) - Erlang PortAudio bindings.
 
 ### Cryptography
 
-*   [cipher (⭐59)](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
-*   [exgpg (⭐17)](https://github.com/rozap/exgpg) - Use gpg from Elixir.
-*   [pot (⭐229)](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
+*   [cipher (⭐60)](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
+*   [exgpg (⭐18)](https://github.com/rozap/exgpg) - Use gpg from Elixir.
+*   [pot (⭐231)](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
 
 ### Documentation
 
@@ -34,7 +34,7 @@
 
 ### Email
 
-*   [gen\_smtp (⭐651)](https://github.com/Vagabond/gen_smtp) - A generic Erlang SMTP server and client that can be extended via callback modules.
+*   [gen\_smtp (⭐661)](https://github.com/Vagabond/gen_smtp) - A generic Erlang SMTP server and client that can be extended via callback modules.
 
 ### Examples and funny stuff
 
@@ -50,34 +50,34 @@
 
 ### Geolocation
 
-*   [geolix (⭐175)](https://github.com/mneudert/geolix) - MaxMind GeoIP2 database reader/decoder.
+*   [geolix (⭐183)](https://github.com/mneudert/geolix) - MaxMind GeoIP2 database reader/decoder.
 
 ### ORM and Datamapping
 
-*   [esqlite (⭐116)](https://github.com/mmzeeman/esqlite) - Erlang NIF for sqlite.
-*   [sqlitex (⭐118)](https://github.com/mmmries/sqlitex) - An Elixir wrapper around esqlite. Allows access to sqlite3 databases.
-*   [tds (⭐102)](https://github.com/livehelpnow/tds) - MSSQL / TDS Database driver for Elixir.
+*   [esqlite (⭐119)](https://github.com/mmzeeman/esqlite) - Erlang NIF for sqlite.
+*   [sqlitex (⭐119)](https://github.com/mmmries/sqlitex) - An Elixir wrapper around esqlite. Allows access to sqlite3 databases.
+*   [tds (⭐106)](https://github.com/livehelpnow/tds) - MSSQL / TDS Database driver for Elixir.
 *   [yar (⭐8)](https://github.com/dantswain/yar) - Yet another Redis client for Elixir.
 
 ### Templating
 
-*   [mustachex (⭐16)](https://github.com/jui/mustachex) - Mustache for Elixir - Logic-less templates.
+*   [mustachex (⭐17)](https://github.com/jui/mustachex) - Mustache for Elixir - Logic-less templates.
 
 ### Text and Numbers
 
-*   [secure\_random (⭐95)](https://github.com/patricksrobertson/secure_random.ex) - Convenience library for random base64 strings modeled after my love for Ruby's SecureRandom.
-*   [slugger (⭐156)](https://github.com/h4cc/slugger) - Slugger can generate slugs from given strings that can be used in URLs or file names.
+*   [secure\_random (⭐96)](https://github.com/patricksrobertson/secure_random.ex) - Convenience library for random base64 strings modeled after my love for Ruby's SecureRandom.
+*   [slugger (⭐158)](https://github.com/h4cc/slugger) - Slugger can generate slugs from given strings that can be used in URLs or file names.
 
 ### Third Party APIs
 
-*   [bitpay (⭐31)](https://github.com/bitpay/elixir-client) - Elixir core library for connecting to bitpay.com.
+*   [bitpay (⭐30)](https://github.com/bitpay/elixir-client) - Elixir core library for connecting to bitpay.com.
 *   [everyoneapi (⭐1)](https://github.com/knewter/everyoneapi) - API Client for EveryoneAPI.com.
 *   [exjira (⭐6)](https://github.com/mattweldon/exjira) - JIRA client library for Elixir.
 *   [tagplay (⭐0)](https://github.com/tagplay/elixir-tagplay) - Elixir client for Tagplay API.
 
 ### YAML
 
-*   [yamerl (⭐194)](https://github.com/yakaz/yamerl) - YAML 1.2 parser in Erlang.
+*   [yamerl (⭐195)](https://github.com/yakaz/yamerl) - YAML 1.2 parser in Erlang.
 
 ### Websites
 

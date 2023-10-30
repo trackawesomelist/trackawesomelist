@@ -10,13 +10,13 @@
 
 ### TextField / Barcode
 
-*   [iTextField ⌨️ (⭐94)](https://github.com/benjaminsage/iTextField) - A fully-wrapped `UITextField` that works entirely in SwiftUI 🦅.
+*   [iTextField ⌨️ (⭐99)](https://github.com/benjaminsage/iTextField) - A fully-wrapped `UITextField` that works entirely in SwiftUI 🦅.
 
 ## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Framework bindings / integrations / Mouse Events
 
-*   [react-lottie-player (⭐389)](https://github.com/mifi/react-lottie-player) - [demo](https://mifi.github.io/react-lottie-player/) - Declarative lottie animation player.
+*   [react-lottie-player (⭐430)](https://github.com/mifi/react-lottie-player) - [demo](https://mifi.github.io/react-lottie-player/) - Declarative lottie animation player.
 
 ## [3. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Other Free Resources
 
-*   [simplebackups.io](https://simplebackups.io/) — Backup automation service for servers and databases (MySQL, PostgreSQL, MongoDB) stored directly into cloud storage providers (AWS, DigitalOcean, Backblaze...). Provides free plan for 1 backup.
+*   [simplebackups.io](https://simplebackups.io/) — Backup automation service for servers and databases (MySQL, PostgreSQL, MongoDB) stored directly into cloud storage providers (AWS, DigitalOcean, and Backblaze). Provides a free plan for 1 backup.
 
 ## [5. Awesome Qt](/content/JesseTG/awesome-qt/README.md)
 
@@ -50,29 +50,29 @@
 
 ### Websites / Blogs
 
-*   [Awesome Flutter tips (⭐2.8k)](https://github.com/erluxman/awesomefluttertips/) - Tips to help developers increase productivity by [erluxman](https://twitter.com/erluxman/).
+*   [Awesome Flutter tips (⭐2.9k)](https://github.com/erluxman/awesomefluttertips/) - Tips to help developers increase productivity by [erluxman](https://twitter.com/erluxman/).
 
 ### State management / Standard
 
-*   [Provider (⭐4.6k)](https://github.com/rrousselGit/provider) <!--stargazers:rrousselGit/provider--> - State-management library for Flutter by [Remi Rousselet](https://github.com/rrousselGit)
+*   [Provider (⭐4.8k)](https://github.com/rrousselGit/provider) <!--stargazers:rrousselGit/provider--> - State-management library for Flutter by [Remi Rousselet](https://github.com/rrousselGit)
 
 ## [8. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Version Control
 
-*   [jupyter-nbrequirements (⭐14)](https://github.com/thoth-station/jupyter-nbrequirements/) - Dependency management and optimization in Jupyter Notebooks.
+*   [jupyter-nbrequirements (⭐15)](https://github.com/thoth-station/jupyter-nbrequirements/) - Dependency management and optimization in Jupyter Notebooks.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-datagrid (⭐172)](https://github.com/revolist/vue-datagrid) - Vue grid wrapper for powerful webcomponent revo-grid with excel like rich edit and behavior.
+*   [vue-datagrid (⭐186)](https://github.com/revolist/vue-datagrid) - Vue grid wrapper for powerful webcomponent revo-grid with excel like rich edit and behavior.
 
 ## [10. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Generators / Meetups
 
-*   [AtBuild (⭐32)](https://github.com/jarred-sumner/atbuild) - JavaScript code generation tool that lets you write JavaScript that outputs JavaScript. Good for unrolling loops and writing libraries that compile away the runtime
+*   [AtBuild (⭐34)](https://github.com/jarred-sumner/atbuild) - JavaScript code generation tool that lets you write JavaScript that outputs JavaScript. Good for unrolling loops and writing libraries that compile away the runtime
 
 ---
 

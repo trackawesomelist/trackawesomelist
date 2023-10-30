@@ -22,7 +22,7 @@
 
 ### Tools / App Vulnerability Scanners
 
-*   [QARK (⭐3k)](https://github.com/linkedin/qark/) - QARK by LinkedIn is for app developers to scan app for security issues
+*   [QARK (⭐3k)](https://github.com/linkedin/qark/) - QARK by LinkedIn is for app developers to scan apps for security issues
 
 ## [4. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

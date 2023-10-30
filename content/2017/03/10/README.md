@@ -45,22 +45,22 @@
 
 ### Apps / Blogging/news
 
-*   [Django Wagtail Feeds (⭐53)](https://github.com/chrisdev/django-wagtail-feeds) - Add support for RSS Feeds, Facebook Instant Articles and Apple News Publisher to your Wagtail CMS Projects.
+*   [Django Wagtail Feeds (⭐56)](https://github.com/chrisdev/django-wagtail-feeds) - Add support for RSS Feeds, Facebook Instant Articles and Apple News Publisher to your Wagtail CMS Projects.
 
 ### Apps / Widgets
 
-*   [wagtailgmaps (⭐77)](https://github.com/springload/wagtailgmaps) - Simple Google Maps address formatter for Wagtail fields.
-*   [wagtail-markdown (⭐154)](https://github.com/torchbox/wagtail-markdown) - Markdown fields and blocks for Wagtail.
+*   [wagtailgmaps (⭐81)](https://github.com/springload/wagtailgmaps) - Simple Google Maps address formatter for Wagtail fields.
+*   [wagtail-markdown (⭐166)](https://github.com/torchbox/wagtail-markdown) - Markdown fields and blocks for Wagtail.
 
 ### Apps / SEO and SMO
 
-*   [wagtail-metadata (⭐101)](https://github.com/takeflight/wagtail-metadata) - A tool to assist with metadata for social media and search engines.
-*   [wagtail-metadata-mixin (⭐45)](https://github.com/bashu/wagtail-metadata-mixin) - OpenGraph, Twitter Card and Google+ snippet tags for Wagtail CMS pages.
-*   [wagtail-schema.org (⭐60)](https://github.com/takeflight/wagtail-schema.org) - Schema.org JSON-LD tags for Wagtail sites.
+*   [wagtail-metadata (⭐105)](https://github.com/takeflight/wagtail-metadata) - A tool to assist with metadata for social media and search engines.
+*   [wagtail-metadata-mixin (⭐46)](https://github.com/bashu/wagtail-metadata-mixin) - OpenGraph, Twitter Card and Google+ snippet tags for Wagtail CMS pages.
+*   [wagtail-schema.org (⭐63)](https://github.com/takeflight/wagtail-schema.org) - Schema.org JSON-LD tags for Wagtail sites.
 
 ### Apps / Analytics
 
-*   [Wagtail Analytics (⭐207)](https://github.com/tomdyson/wagalytics) - A Google Analytics dashboard in your Wagtail admin.
+*   [Wagtail Analytics (⭐211)](https://github.com/tomdyson/wagalytics) - A Google Analytics dashboard in your Wagtail admin.
 
 ### Apps / Customer experience
 
@@ -68,8 +68,8 @@
 
 ### Apps / Testing
 
-*   [Wagtail Accessibility (⭐30)](https://github.com/takeflight/wagtail-accessibility) – A plugin to assist with accessibility when developing in Wagtail.
-*   [Wagtail Factories (⭐88)](https://github.com/mvantellingen/wagtail-factories) - Factory boy classes for Wagtail.
+*   [Wagtail Accessibility (⭐28)](https://github.com/takeflight/wagtail-accessibility) – A plugin to assist with accessibility when developing in Wagtail.
+*   [Wagtail Factories (⭐95)](https://github.com/mvantellingen/wagtail-factories) - Factory boy classes for Wagtail.
 
 ## [7. BEM Resources](/content/sturobson/BEM-resources/README.md)
 
@@ -87,12 +87,12 @@
 
 ### Authentication
 
-*   [ueberauth\_microsoft (⭐29)](https://github.com/swelham/ueberauth_microsoft) - A Microsoft strategy for Überauth.
+*   [ueberauth\_microsoft (⭐33)](https://github.com/swelham/ueberauth_microsoft) - A Microsoft strategy for Überauth.
 
 ### Cloud Infrastructure and Management
 
 *   [Gandi (⭐0)](https://github.com/Ahamtech/elixir-Gandi) - Gandi Wrapper for Leaseweb infrastructure.
-*   [Leaseweb (⭐1)](https://github.com/Ahamtech/elixir-leaseweb) - Elixir Wrapper for Leaseweb infrastructure.
+*   [Leaseweb (⭐2)](https://github.com/Ahamtech/elixir-leaseweb) - Elixir Wrapper for Leaseweb infrastructure.
 
 ### Documentation
 
@@ -100,8 +100,8 @@
 
 ### Framework Components
 
-*   [plug\_and\_play (⭐14)](https://github.com/henrik/plug_and_play) - Set up a Plug application with less boilerplate.
-*   [rummage\_phoenix (⭐149)](https://github.com/Excipients/rummage_phoenix) - A support framework for searching, sorting and paginating models in Phoenix, with HTML support.
+*   [plug\_and\_play (⭐15)](https://github.com/henrik/plug_and_play) - Set up a Plug application with less boilerplate.
+*   [rummage\_phoenix (⭐150)](https://github.com/Excipients/rummage_phoenix) - A support framework for searching, sorting and paginating models in Phoenix, with HTML support.
 
 ### HTTP
 
@@ -144,13 +144,13 @@
 
 ### Node.js / Authentication
 
-*   [steam-login (⭐53)](https://github.com/cpancake/steam-login) - Simple Connect / Express Steam authentication library.
+*   [steam-login (⭐57)](https://github.com/cpancake/steam-login) - Simple Connect / Express Steam authentication library.
 
 ## [14. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
 
 ### Data sets
 
-*   [EuroRomCom Data (⭐17)](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists.
+*   [EuroRomCom Data (⭐18)](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists.
 
 ### On Youtube
 

@@ -14,7 +14,7 @@
 
 ## [2. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
-### Reinforcement Learning / NLP
+### Reinforcement Learning / Others
 
 *   [Dopamine (⭐10k)](https://github.com/google/dopamine) - A research framework for fast prototyping of reinforcement learning algorithms.
 
@@ -22,13 +22,13 @@
 
 *   [weightedcalcs (⭐101)](https://github.com/jsvine/weightedcalcs) - A pandas-based utility to calculate weighted means, medians, distributions, standard deviations, and more.
 
-### Distributed Computing / NLP
+### Distributed Computing / Synthetic Data
 
-*   [PaddlePaddle (⭐20k)](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning.
+*   [PaddlePaddle (⭐21k)](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning.
 
-### Evaluation / NLP
+### Evaluation / Synthetic Data
 
-*   [sklearn-evaluation (⭐0)](https://github.com/edublancas/sklearn-evaluation) - Model evaluation made easy: plots, tables, and markdown reports. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [sklearn-evaluation (⭐2)](https://github.com/edublancas/sklearn-evaluation) - Model evaluation made easy: plots, tables, and markdown reports. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -44,20 +44,20 @@
     spell Checker.
 *   [textidote](https://sylvainhalle.github.io/textidote/) - Spelling, grammar and
     style checking on LaTeX documents.
-*   [Vale (⭐2.7k)](https://github.com/errata-ai/vale) - Free, open-source linter for
+*   [Vale (⭐3.3k)](https://github.com/errata-ai/vale) - Free, open-source linter for
     prose built with speed and extensibility in mind.
-*   [write-good (⭐4.7k)](https://github.com/btford/write-good) - Naive linter for English
+*   [write-good (⭐4.8k)](https://github.com/btford/write-good) - Naive linter for English
     prose.
 
 ## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI / UI Helpers
 
-*   [ShowCaseView (⭐1.1k)](https://github.com/simformsolutions/flutter_showcaseview) <!--stargazers:simformsolutions/flutter_showcaseview--> - Way to showcase your app features on iOS and Android by [Simform](https://github.com/simformsolutions)
+*   [ShowCaseView (⭐1.2k)](https://github.com/simformsolutions/flutter_showcaseview) <!--stargazers:simformsolutions/flutter_showcaseview--> - Way to showcase your app features on iOS and Android by [Simform](https://github.com/simformsolutions)
 
 ### UI / Effect
 
-*   [Liquid Swipe (⭐987)](https://github.com/iamSahdeep/liquid_swipe_flutter) - Liquid swipe to your stacked containers by [Sahdeep Singh](https://github.com/iamSahdeep)
+*   [Liquid Swipe (⭐1.1k)](https://github.com/iamSahdeep/liquid_swipe_flutter) - Liquid swipe to your stacked containers by [Sahdeep Singh](https://github.com/iamSahdeep)
 
 ## [6. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -121,7 +121,7 @@
 
 ### Windows Utilities / Web Exploitation Books
 
-*   [WinPwn (⭐2.6k)](https://github.com/SecureThisShit/WinPwn) - Internal penetration test script to perform local and domain reconnaissance, privilege escalation and exploitation.
+*   [WinPwn (⭐3k)](https://github.com/SecureThisShit/WinPwn) - Internal penetration test script to perform local and domain reconnaissance, privilege escalation and exploitation.
 
 ## [10. Awesome Ads](/content/cenoura/awesome-ads/README.md)
 
@@ -133,7 +133,7 @@
 
 ### Packages / Static site generators
 
-*   [Charge (⭐409)](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator using JSX and MDX.
+*   [Charge (⭐419)](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator using JSX and MDX.
 
 ### Resources / Tutorials
 
@@ -162,23 +162,23 @@
 
 ### Front-End Development
 
-*   [KnockoutJS (⭐93)](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
-*   [Dojo Toolkit (⭐80)](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
+*   [KnockoutJS (⭐94)](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
+*   [Dojo Toolkit (⭐81)](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
 
 ### Back-End Development
 
-*   [Vagrant (⭐577)](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
-*   [Pyramid (⭐537)](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
-*   [Phalcon (⭐604)](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
-*   [Dropwizard (⭐86)](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
-*   [Lumen (⭐321)](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
+*   [Vagrant (⭐583)](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
+*   [Pyramid (⭐540)](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
+*   [Phalcon (⭐606)](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
+*   [Dropwizard (⭐90)](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
+*   [Lumen (⭐323)](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
 *   [Serverless Framework (⭐2.1k)](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
 
 ## [15. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Integrations
 
-*   [@riotjs/custom-elements (⭐33)](https://github.com/riot/custom-elements) - Simple API to create vanilla custom elements with Riot.js.
+*   [@riotjs/custom-elements (⭐34)](https://github.com/riot/custom-elements) - Simple API to create vanilla custom elements with Riot.js.
 
 ## [16. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
@@ -190,7 +190,7 @@
 
 ### Database
 
-*   [DB4O-GPL ★8 (⭐27)](https://github.com/iboxdb/db4o-gpl) -  Object-Oriented Database, Embedded and Remote connections supported.
+*   [DB4O-GPL ★8 (⭐28)](https://github.com/iboxdb/db4o-gpl) -  Object-Oriented Database, Embedded and Remote connections supported.
 
 ## [18. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 

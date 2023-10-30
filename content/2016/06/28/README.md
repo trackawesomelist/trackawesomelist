@@ -10,13 +10,13 @@
 
 ### Images / Barcode
 
-*   [Moa (⭐330)](https://github.com/evgenyneu/moa) - An image download extension of the image view for iOS, tvOS and macOS.
+*   [Moa (⭐333)](https://github.com/evgenyneu/moa) - An image download extension of the image view for iOS, tvOS and macOS.
 
 ## [2. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 
 ### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
-*   [Italiano (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/it-IT)
+*   [Italiano (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/it-IT)
 
 ## [3. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Scripts / GitHub
 
-*   [GitHub Monospace Editor (⭐8)](https://github.com/devxoul/github-monospace-editor) - Provide MonoSpace font on GitHub textareas.
+*   [GitHub Monospace Editor (⭐9)](https://github.com/devxoul/github-monospace-editor) - Provide MonoSpace font on GitHub textareas.
 *   [GitHub PR Approvals (⭐1)](https://github.com/stowball/github-pr-approvals) - Require approvals in GitHub PRs before merging is allowed.
 
 ### Additional Catalogues / YouTube

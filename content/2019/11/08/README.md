@@ -10,13 +10,13 @@
 
 ### Software / Build and software organization tools
 
-*   [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+*   [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers. ([Source Code (⭐3.6k)](https://github.com/spack/spack)) `MIT/Apache-2.0` `Python`
 
 ## [2. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Libraries and Frameworks / Python
 
-*   [Eventsoucing in Python (⭐1.2k)](https://github.com/johnbywater/eventsourcing) - Mature, stable Python library for event sourcing and DDD. Supports wide variety of databases, different kinds of orderings of domain events, application level encryption, snapshotting, optimistic concurrency control, and process events. Applications, and entire systems of applications, can be defined independently of infrastructure, and run in different ways (single threaded, multi-threaded, clocked, stepping, multi-process, actor model) and with different infrastructure.
+*   [Eventsoucing in Python (⭐1.3k)](https://github.com/johnbywater/eventsourcing) - Mature, stable Python library for event sourcing and DDD. Supports wide variety of databases, different kinds of orderings of domain events, application level encryption, snapshotting, optimistic concurrency control, and process events. Applications, and entire systems of applications, can be defined independently of infrastructure, and run in different ways (single threaded, multi-threaded, clocked, stepping, multi-process, actor model) and with different infrastructure.
 
 ## [3. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Zeithub (⭐60)](https://github.com/m0g/zeithub) - Open source time tracking, invoicing & expenses management for freelancers
+*   [Zeithub (⭐63)](https://github.com/m0g/zeithub) - Open source time tracking, invoicing & expenses management for freelancers
 
 ## [7. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Math
 
-*   [CNL (⭐577)](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. \[Boost]
+*   [CNL (⭐588)](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. \[Boost]
 
 ## [9. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -71,21 +71,21 @@
 
 ### Bean Mapping
 
-*   [reMap (⭐103)](https://github.com/remondis-it/remap) - Lambda and method handle-based mapping which requires code and not annotations if objects have different names.
+*   [reMap (⭐112)](https://github.com/remondis-it/remap) - Lambda and method handle-based mapping which requires code and not annotations if objects have different names.
 
 ### Bytecode Manipulation
 
-*   [Perses (⭐62)](https://github.com/nicolasmanic/perses) - Dynamically injects failure/latency at the bytecode level according to principles of chaos engineering.
+*   [Perses (⭐64)](https://github.com/nicolasmanic/perses) - Dynamically injects failure/latency at the bytecode level according to principles of chaos engineering.
 
-### Database
+### Database / Text-Based User Interfaces
 
 *   [druid](https://druid.apache.org) - High-performance, column-oriented, distributed data store.
 
-### IDE
+### IDE / Text-Based User Interfaces
 
 *   [jGRASP](https://www.jgrasp.org) - Created to provide software visualizations that work in conjunction with the debugger such as Control Structure Diagrams, UML class diagrams and Object Viewer.
 
-### Introspection
+### Introspection / Text-Based User Interfaces
 
 *   [Objenesis](http://objenesis.org) - Allows dynamic instantiation without default constructor, e.g. constructors which have required arguments, side effects or throw exceptions.
 

@@ -1,18 +1,12 @@
 # Awesome List Updates on Dec 16, 2017
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
-
-### Cryptocurrencies
-
-*   [Bitcoin: Where the Laws of Mathematics Prevail](https://www.youtube.com/watch?v=HaJ1hvon0E0) by **Andreas Antonopoulos** \[23:47]
-
-## [2. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [1. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Machine Learning
 
@@ -20,20 +14,20 @@
 *   [H2O](https://www.h2o.ai/) - Fast statistical, machine learning & math runtime.
 *   [Smile (⭐5.6k)](https://github.com/haifengl/smile) - Statistical Machine Intelligence & Learning Engine.
 
-## [3. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
+## [2. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
 
 ### Tools and Apps / Task Management
 
 *   [Pomolectron (⭐575)](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
 
-## [4. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
+## [3. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
 ### Experiments
 
 *   [Andantino](https://alpcanaydin.github.io/andantino/) Listen some notes and try to find same notes on the keyboard.
 *   [ShowCQTBar](https://mfcc64.github.io/html5-showcqtbar/) - Audio spectrum visualization with musical scale.
 
-## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Code Analysis
 
@@ -56,26 +50,26 @@
 *   [PHP Migration (⭐194)](https://github.com/monque/PHP-Migration) - A static analyzer for PHP version migration.
 *   [PHPStan (⭐11k)](https://github.com/phpstan/phpstan) - A PHP Static Analysis Tool.
 
-## [6. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Examples
 
 *   [Cloud Foundry (⭐2)](https://github.com/amdelamar/vertx-cloudfoundry) - An example Vert.x for deploying to a [Cloud Foundry](https://www.cloudfoundry.org/) service provider.
 
-## [7. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [6. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
 *   [Particles in a Simplex Noise Flow Field](https://codepen.io/DonKarlssonSan/post/particles-in-simplex-noise-flow-field) - Perlin noise flow field tutorial.
 *   [Flow Fields, Part 1](https://www.bit-101.com/blog/2017/10/23/flow-fields-part-i/) [Part 2](https://www.bit-101.com/blog/2017/10/28/flow-fields-part-ii/) - Introduction to flow fields also known as vector fields.
 
-## [8. Inspire](/content/noahbuscher/inspire/README.md)
+## [7. Inspire](/content/noahbuscher/inspire/README.md)
 
 ### Backends / Every awesome web app needs an awesome backend.
 
 *   [Hasura](https://hasura.io) - Platform to build and deploy app backends fast.
 
-## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Lambda
 

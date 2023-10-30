@@ -15,7 +15,7 @@
 
 ### Algorithms
 
-*   [πfs (⭐6.1k)](https://github.com/philipl/pifs) - Pi-based storage system, store your data by searching a matching sequence in pi.
+*   [πfs (⭐6.4k)](https://github.com/philipl/pifs) - Pi-based storage system, store your data by searching a matching sequence in pi.
 *   [Stacksort](https://gkoberger.github.io/stacksort) - Sorts a list by searching answers in Stack Overflow and executing code snippets until is sorted.
 
 ### Resources
@@ -83,7 +83,7 @@
 
 ### Applications / Text processing
 
-*   [phiresky/ripgrep-all (⭐5.5k)](https://github.com/phiresky/ripgrep-all) — ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+*   [phiresky/ripgrep-all (⭐5.8k)](https://github.com/phiresky/ripgrep-all) — ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 
 ## [8. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

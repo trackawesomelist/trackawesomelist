@@ -10,7 +10,7 @@
 
 ### Dependency Injection
 
-*   [DIKit (⭐97)](https://github.com/Liftric/DIKit) - Dependency Injection Framework for Swift, inspired by KOIN.
+*   [DIKit (⭐101)](https://github.com/Liftric/DIKit) - Dependency Injection Framework for Swift, inspired by KOIN.
 
 ### Quality / Barcode
 
@@ -42,7 +42,7 @@
 
 ### Monetization / Preferences
 
-*   [Admob Flutter (⭐418)](https://github.com/kmcgill88/admob_flutter) - Admob plugin that shows banner ads using native platform views by [Youssef Kababe](https://github.com/YoussefKababe) & [Kevin McGill](https://github.com/kmcgill88).
+*   [Admob Flutter (⭐428)](https://github.com/kmcgill88/admob_flutter) - Admob plugin that shows banner ads using native platform views by [Youssef Kababe](https://github.com/YoussefKababe) & [Kevin McGill](https://github.com/kmcgill88).
 
 ## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 

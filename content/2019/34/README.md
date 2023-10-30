@@ -95,9 +95,9 @@
 
 ## [7. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
-### Miscellaneous / Angular
+### Miscellaneous / Svelte
 
-*   [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates). A weekly newsletter focussing on latest in mobile, web, AI, UI/UX, jobs/carrers and anything related to developers and the industry.
+*   [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates). A weekly newsletter focussing on latest in mobile, web, AI, UI/UX, jobs/careers and anything related to developers and the industry.
 
 ## [8. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
@@ -129,7 +129,7 @@
 
 ### Related / Other
 
-*   [awesome-nodejs (⭐51k)](https://github.com/sindresorhus/awesome-nodejs)
+*   [awesome-nodejs (⭐53k)](https://github.com/sindresorhus/awesome-nodejs)
 
 ## [12. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -139,19 +139,19 @@
 
 ### Text Processing
 
-*   [beagle (⭐49)](https://github.com/tokenmill/beagle)
+*   [beagle (⭐50)](https://github.com/tokenmill/beagle)
 
 ## [13. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / Python
 
-*   [Mongo-Thingy (⭐66)](https://github.com/numberly/mongo-thingy) - Powerful schema-less ODM for MongoDB and Python (sync + async)
+*   [Mongo-Thingy (⭐67)](https://github.com/numberly/mongo-thingy) - Powerful schema-less ODM for MongoDB and Python (sync + async)
 
 ### Tools / Monitoring
 
-*   [Mongoop (⭐38)](https://github.com/Lujeni/mongoop) - Long operations monitoring and alerting
+*   [Mongoop (⭐39)](https://github.com/Lujeni/mongoop) - Long operations monitoring and alerting
 *   [Motop (⭐67)](https://github.com/tart/motop) - MongoDB top clone
-*   [mtop (⭐51)](https://github.com/beaufour/mtop) - Another top clone
+*   [mtop (⭐50)](https://github.com/beaufour/mtop) - Another top clone
 
 ### Tools / Web
 
@@ -248,9 +248,9 @@
 
 ### CLOS extensions
 
-*   [inlined-generic-function (⭐109)](https://github.com/guicho271828/inlined-generic-function) -
+*   [inlined-generic-function (⭐108)](https://github.com/guicho271828/inlined-generic-function) -
     Bringing the speed of Static Dispatch to CLOS. [LLGPL](http://opensource.franz.com/preamble.html).
-*   [static-dispatch (⭐68)](https://github.com/alex-gutev/static-dispatch) - allows standard generic function dispatch to be performed statically (at compile time) rather than dynamically (runtime). This is similar to what is known as "overloading" in languages such as C++ and Java. [MIT](https://opensource.org/licenses/MIT).
+*   [static-dispatch (⭐70)](https://github.com/alex-gutev/static-dispatch) - allows standard generic function dispatch to be performed statically (at compile time) rather than dynamically (runtime). This is similar to what is known as "overloading" in languages such as C++ and Java. [MIT](https://opensource.org/licenses/MIT).
 
 ### Reference
 
@@ -262,7 +262,7 @@
 
 ### Configuration / Third-party APIs
 
-*   [chameleon (⭐15)](https://github.com/sheepduke/chameleon/) - a configuration management library shipped with profile support. [MIT](https://opensource.org/licenses/MIT).
+*   [chameleon (⭐17)](https://github.com/sheepduke/chameleon/) - a configuration management library shipped with profile support. [MIT](https://opensource.org/licenses/MIT).
 
 ### Logging / Third-party APIs
 
@@ -373,38 +373,38 @@
 
 ### Parallax / Syntax Highlight
 
-*   [react-parallax-tilt (⭐711)](https://github.com/mkosir/react-parallax-tilt) - [demo](https://mkosir.github.io/react-parallax-tilt) - Easily apply parallax tilt hover effect on components.
+*   [react-parallax-tilt (⭐816)](https://github.com/mkosir/react-parallax-tilt) - [demo](https://mkosir.github.io/react-parallax-tilt) - Easily apply parallax tilt hover effect on components.
 
 ## [30. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
 ### Related Resources / Vector search
 
 *   <a name="lightgbm"></a>
-    [LightGBM (⭐15k)](https://github.com/microsoft/LightGBM)
+    [LightGBM (⭐16k)](https://github.com/microsoft/LightGBM)
 *   <a name="xgboost"></a>
-    [XGBoost (⭐24k)](https://github.com/dmlc/xgboost)
+    [XGBoost (⭐25k)](https://github.com/dmlc/xgboost)
 
 ## [31. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
-*   [Before After (⭐738)](https://github.com/xsahil03x/before_after) <!--stargazers:xsahil03x/before_after--> - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
+*   [Before After (⭐792)](https://github.com/xsahil03x/before_after) <!--stargazers:xsahil03x/before_after--> - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
 
 ### UI / Drawers
 
-*   [Flutter Inner Drawer (⭐444)](https://github.com/Dn-a/flutter_inner_drawer) <!--stargazers:Dn-a/flutter_inner_drawer--> - Easy way to create an internal drawer (left / right) where you can enter a list-menu or other by [Di Natale Antonino](https://github.com/Dn-a).
+*   [Flutter Inner Drawer (⭐476)](https://github.com/Dn-a/flutter_inner_drawer) <!--stargazers:Dn-a/flutter_inner_drawer--> - Easy way to create an internal drawer (left / right) where you can enter a list-menu or other by [Di Natale Antonino](https://github.com/Dn-a).
 
 ### UI / UI Helpers
 
-*   [Infinite Listview (⭐255)](https://github.com/fluttercommunity/flutter_infinite_listview) <!--stargazers:fluttercommunity/flutter_infinite_listview--> - Infinite scroll in both directions by [Simon Lightfoot](https://github.com/slightfoot).
+*   [Infinite Listview (⭐277)](https://github.com/fluttercommunity/flutter_infinite_listview) <!--stargazers:fluttercommunity/flutter_infinite_listview--> - Infinite scroll in both directions by [Simon Lightfoot](https://github.com/slightfoot).
 
 ### UI / Cupertino Design
 
-*   [Peek & Pop (⭐227)](https://github.com/aliyigitbireroglu/flutter-peek-and-pop) <!--stargazers:aliyigitbireroglu/flutter-peek-and-pop--> - Peek & Pop implementation based on the iOS functionality by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu)
+*   [Peek & Pop (⭐234)](https://github.com/aliyigitbireroglu/flutter-peek-and-pop) <!--stargazers:aliyigitbireroglu/flutter-peek-and-pop--> - Peek & Pop implementation based on the iOS functionality by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu)
 
 ### Text & Rich Content / Image Picker
 
-*   [Parsed Text (⭐212)](https://github.com/fayeed/flutter_parsed_text) <!--stargazers:fayeed/flutter_parsed_text--> - Interactive text based on content recognition, also supports Regex by [Fayeed Pawaskar](https://github.com/fayeed/)
+*   [Parsed Text (⭐214)](https://github.com/fayeed/flutter_parsed_text) <!--stargazers:fayeed/flutter_parsed_text--> - Interactive text based on content recognition, also supports Regex by [Fayeed Pawaskar](https://github.com/fayeed/)
 
 ### 🇧🇷 Brazil / Misc
 
@@ -422,7 +422,7 @@
 
 ### Software / Automation
 
-*   [ActiveWorkflow (⭐695)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents. `MIT` `Ruby`
+*   [ActiveWorkflow (⭐741)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents. `MIT` `Ruby`
 
 ### Software / Communication - Custom Communication Systems
 
@@ -432,13 +432,9 @@
 
 *   [elixire](https://elixi.re) - Simple yet advanced screenshot uploading and link shortening service. ([Source Code](https://gitlab.com/elixire/elixire), [Clients](https://gitlab.com/elixire/elixiremanager)) `AGPL-3.0` `Python`
 
-### Software / Polls and Events
-
-*   [dudle](http://primelife.ercim.eu/results/opensource/63-dudle) - Online scheduling application. ([Demo](https://dudle.inf.tu-dresden.de/), [Source Code (⭐308)](https://github.com/kellerben/dudle)) `AGPL-3.0` `Ruby`
-
 ### Software / URL Shorteners
 
-*   [Simple-URL-Shortener (⭐36)](https://github.com/azlux/Simple-URL-Shortener) - KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies. ([Demo](https://u.azlux.fr)) `MIT` `PHP`
+*   [Simple-URL-Shortener (⭐38)](https://github.com/azlux/Simple-URL-Shortener) - KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies. ([Demo](https://u.azlux.fr)) `MIT` `PHP`
 
 ## [33. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/week/README.md)
 
@@ -505,41 +501,33 @@
 
 ## [36. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
-### Image Search / Telegram
-
-*   [Lycos Image Search](http://search.lycos.com)
-
 ### Infographics and Data Visualization / Telegram
 
 *   [LocalFocus](https://www.localfocus.nl)
 *   [Visualize Free](http://visualizefree.com)
 
-### Productivity Tools / Telegram
-
-*   [Leechblock NG](https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng)
-
 ### Other Tools / Telegram
 
 *   [Greynoise](https://greynoise.io/) - "Anti-Threat Intelligence" Greynoise characterizes the background noise of the internet, so the user can focus on what is actually important.
-    *   [pygreynoise (⭐139)](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
+    *   [pygreynoise (⭐142)](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
 
 ## [37. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Command Line
 
-*   [nef (⭐260)](https://github.com/bow-swift/nef) - A set of command line tools that lets you have compile time verification of your documentation written as Xcode Playground.
+*   [nef (⭐265)](https://github.com/bow-swift/nef) - A set of command line tools that lets you have compile time verification of your documentation written as Xcode Playground.
 
 ### JSON
 
-*   [SwiftyJSONAccelerator (⭐933)](https://github.com/insanoid/SwiftyJSONAccelerator) - macOS app to generate Swift 5 models for JSON (with Codeable).
+*   [SwiftyJSONAccelerator (⭐941)](https://github.com/insanoid/SwiftyJSONAccelerator) - macOS app to generate Swift 5 models for JSON (with Codeable).
 
 ### Keyboard / Barcode
 
-*   [Ribbon (⭐295)](https://github.com/chriszielinski/Ribbon) - 🎀 A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.
+*   [Ribbon (⭐297)](https://github.com/chriszielinski/Ribbon) - 🎀 A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.
 
 ### UI / Barcode
 
-*   [MultiSelectSegmentedControl (⭐292)](https://github.com/yonat/MultiSelectSegmentedControl) - UISegmentedControl remake that supports selecting multiple segments, vertical stacking, combining text and images.
+*   [MultiSelectSegmentedControl (⭐298)](https://github.com/yonat/MultiSelectSegmentedControl) - UISegmentedControl remake that supports selecting multiple segments, vertical stacking, combining text and images.
 
 ## [38. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
@@ -598,7 +586,7 @@
 
 ### I18n And L10n / Runner
 
-*   [ttag (⭐312)](https://github.com/ttag-org/ttag) - Modern javascript i18n localization library based on ES6 tagged templates and the good old GNU gettext.
+*   [ttag (⭐322)](https://github.com/ttag-org/ttag) - Modern javascript i18n localization library based on ES6 tagged templates and the good old GNU gettext.
 
 ## [47. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 

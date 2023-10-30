@@ -22,19 +22,19 @@
 
 ### Containers
 
-*   [runv (⭐822)](https://github.com/hyperhq/runv)\
+*   [runv (⭐827)](https://github.com/hyperhq/runv)\
     Hypervisor-based (KVM, Xen, QEMU) Runtime for OCI. Security by isolation.
 
 ### Filesystem
 
-*   [skopeo (⭐5.3k)](https://github.com/projectatomic/skopeo)\
+*   [skopeo (⭐6.4k)](https://github.com/projectatomic/skopeo)\
     Work with remote images registries - retrieving information, images, signing content.
 *   [dgr (⭐246)](https://github.com/blablacar/dgr)\
     Command line utility designed to build and to configure at runtime App Containers Images (ACI) and App Container Pods (POD) based on convention over configuration.
 
 ### Security / Tools
 
-*   [gvisor (⭐13k)](https://github.com/google/gvisor)\
+*   [gvisor (⭐14k)](https://github.com/google/gvisor)\
     gVisor is a user-space kernel, written in Go, that implements a substantial portion of the Linux system surface. It includes an Open Container Initiative (OCI) runtime called runsc that provides an isolation boundary between the application and the host kernel. The runsc runtime integrates with Docker and Kubernetes, making it simple to run sandboxed containers.
 
 ## [4. Awesome Adafruitio](/content/adafruit/awesome-adafruitio/README.md)
@@ -84,15 +84,15 @@
 
 ### Tools / Chinese
 
-*   [Tesseract (⭐47k)](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine.
-*   [Negative-captcha (⭐784)](https://github.com/subwindow/negative-captcha) - A plugin to make the process of creating a negative captcha in Rails much less painful.
+*   [Tesseract (⭐54k)](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine.
+*   [Negative-captcha (⭐793)](https://github.com/subwindow/negative-captcha) - A plugin to make the process of creating a negative captcha in Rails much less painful.
 *   [Django-simple-captcha (⭐1.3k)](https://github.com/mbi/django-simple-captcha) - An extremely simple, yet highly customizable Django application to add captcha images to any Django form.
-*   [Securimage (⭐545)](https://github.com/dapphp/securimage) - PHP CAPTCHA Script.
-*   [Captcha\_solver (⭐193)](https://github.com/lorien/captcha_solver) - Univeral API to captcha solving services.
+*   [Securimage (⭐559)](https://github.com/dapphp/securimage) - PHP CAPTCHA Script.
+*   [Captcha\_solver (⭐224)](https://github.com/lorien/captcha_solver) - Univeral API to captcha solving services.
 
 ### Other / Chinese
 
-*   [VisualCaptcha (⭐405)](https://github.com/emotionLoop/visualCaptcha) - A collection of all the different versions/repos of visualCaptcha.
+*   [VisualCaptcha (⭐406)](https://github.com/emotionLoop/visualCaptcha) - A collection of all the different versions/repos of visualCaptcha.
 
 ## [7. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 

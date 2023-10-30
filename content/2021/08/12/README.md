@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 12, 2021
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -64,7 +64,7 @@
 
 ### Libraries/Frameworks / Web
 
-*   [aPureBase/KGraphQL (⭐274)](https://github.com/aPureBase/KGraphQL) - A GraphQL implementation written in Kotlin
+*   [aPureBase/KGraphQL (⭐286)](https://github.com/aPureBase/KGraphQL) - A GraphQL implementation written in Kotlin
 
 ## [7. Awesome Chatops](/content/exAspArk/awesome-chatops/README.md)
 
@@ -92,50 +92,44 @@
 
 ### Projects / Libraries
 
-*   [Bignums (⭐21)](https://github.com/coq/bignums) - Library of arbitrarily large numbers.
+*   [Bignums (⭐23)](https://github.com/coq/bignums) - Library of arbitrarily large numbers.
 
 ### Projects / Package and Build Management
 
-*   [Coq Nix Toolbox (⭐26)](https://github.com/coq-community/coq-nix-toolbox) - Nix helper scripts to automate local builds and continuous integration for Coq.
+*   [Coq Nix Toolbox (⭐29)](https://github.com/coq-community/coq-nix-toolbox) - Nix helper scripts to automate local builds and continuous integration for Coq.
 
 ### Projects / Tools
 
-*   [Autosubst 2 (⭐13)](https://github.com/uds-psl/autosubst2) - Tool that generates Coq code for handling binders in syntax, such as for renaming and substitutions.
-*   [coq-scripts (⭐7)](https://github.com/JasonGross/coq-scripts) - Scripts for dealing with Coq files, including tabulating proof times.
+*   [Autosubst 2 (⭐15)](https://github.com/uds-psl/autosubst2) - Tool that generates Coq code for handling binders in syntax, such as for renaming and substitutions.
+*   [coq-scripts (⭐8)](https://github.com/JasonGross/coq-scripts) - Scripts for dealing with Coq files, including tabulating proof times.
 
 ### Projects / Verified Software
 
-*   [RISC-V Specification in Coq (⭐83)](https://github.com/mit-plv/riscv-coq) - Definition of the RISC-V processor instruction set architecture and extensions.
+*   [RISC-V Specification in Coq (⭐89)](https://github.com/mit-plv/riscv-coq) - Definition of the RISC-V processor instruction set architecture and extensions.
 *   [Vélus](http://velus.inria.fr) - Verified compiler for a Lustre/Scade-like dataflow synchronous language.
 
-## [11. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
-
-### Apps
-
-*   [Terrive](https://ipfs.io/ipns/terrive.one) - A Photo and Video Sharing Platform that uses the HIVE blockchain as a database and Immutable Image/Video Hosting. [Source (⭐7)](https://github.com/appukuttan66/terrive)
-
-## [12. Tools](/content/lvwzhen/tools/README.md)
+## [11. Tools](/content/lvwzhen/tools/README.md)
 
 ### Font
 
 *   [Brick](https://brick.im/)
 
-## [13. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
+## [12. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ### Contents / Imaging
 
-*   [DICOMcloud (⭐196)](https://github.com/DICOMcloud/DICOMcloud) - A standalone DICOMweb server with RESTful implementation of the DICOMweb/WADO services.
-*   [DICOM Server (⭐334)](https://github.com/microsoft/dicom-server) - OSS Implementation of DICOMweb standard.
+*   [DICOMcloud (⭐200)](https://github.com/DICOMcloud/DICOMcloud) - A standalone DICOMweb server with RESTful implementation of the DICOMweb/WADO services.
+*   [DICOM Server (⭐355)](https://github.com/microsoft/dicom-server) - OSS Implementation of DICOMweb standard.
 *   [Fiji](https://imagej.net/software/fiji/) - Open-source platform for biological-image analysis.
 
 ### Contents / Frameworks
 
-*   [FHIR Proxy (⭐65)](https://github.com/microsoft/fhir-proxy) - secure application that acts as an intermediary in the transfer of FHIR data to and from Azure API.
+*   [FHIR Proxy (⭐66)](https://github.com/microsoft/fhir-proxy) - secure application that acts as an intermediary in the transfer of FHIR data to and from Azure API.
 *   [FHIR Works on AWS (⭐291)](https://github.com/awslabs/fhir-works-on-aws-deployment) - FHIR Works on AWS deployment.
 
 ### Contents / Integration
 
-*   [FHIR Converter (⭐305)](https://github.com/microsoft/FHIR-Converter) - an open source project that enables conversion of health data from legacy formats to FHIR.
+*   [FHIR Converter (⭐313)](https://github.com/microsoft/FHIR-Converter) - an open source project that enables conversion of health data from legacy formats to FHIR.
 
 ### Contents / Hardware
 
@@ -145,23 +139,23 @@
 
 *   [OpenSAFELY](https://www.opensafely.org) - Secure analytics platform for Electronic Health Records in the NHS.
 
-## [14. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [13. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Games
 
-*   [Space Empires (⭐77)](https://github.com/satyamx64/space_empires) - A 4X Space themed strategy game by [Satyam Sharma](https://github.com/satyamx64)
+*   [Space Empires (⭐83)](https://github.com/satyamx64/space_empires) - A 4X Space themed strategy game by [Satyam Sharma](https://github.com/satyamx64)
 
-## [15. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [14. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Learn
 
-*   [Awesome Elm PLTD (⭐44)](https://github.com/pd-andy/awesome-elm-pltd) - Useful resources for programming language theory & development in Elm.
+*   [Awesome Elm PLTD (⭐45)](https://github.com/pd-andy/awesome-elm-pltd) - Useful resources for programming language theory & development in Elm.
 
 ### Beyond the DOM / Games
 
-*   [elm-posix (⭐87)](https://github.com/albertdahlin/elm-posix) - Write CLI programs using Elm
+*   [elm-posix (⭐86)](https://github.com/albertdahlin/elm-posix) - Write CLI programs using Elm
 
-## [16. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [15. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Lambda
 

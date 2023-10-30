@@ -10,7 +10,7 @@
 
 ### CLI Utils
 
-*   [tallboy (⭐49)](https://github.com/epoch/tallboy) - Generate ASCII character tables with support for spanning cells over multiple columns
+*   [tallboy (⭐53)](https://github.com/epoch/tallboy) - Generate ASCII character tables with support for spanning cells over multiple columns
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -22,14 +22,14 @@
 
 ### Proprietary Extensions / Progressive Web Application
 
-*   [ScandiPWA Theme (⭐511)](https://github.com/scandipwa/base-theme) - Magento 2.3+ PWA theme based on React and Redux
+*   [ScandiPWA Theme (⭐524)](https://github.com/scandipwa/base-theme) - Magento 2.3+ PWA theme based on React and Redux
 
 ## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / IDEs
 
 *   [Eclipse](https://www.eclipse.org/)
-    *   [Eclipse Corrosion (⭐201)](https://github.com/eclipse-corrosion/corrosion)
+    *   [Eclipse Corrosion (⭐207)](https://github.com/eclipse-corrosion/corrosion)
 
 ## [5. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 

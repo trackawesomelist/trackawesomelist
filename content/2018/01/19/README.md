@@ -60,7 +60,7 @@
 
 ### Apps / Third-party APIs
 
-*   [lake (⭐83)](https://github.com/takagi/lake) - a GNU make like build utility. [MIT](https://opensource.org/licenses/MIT).
+*   [lake (⭐82)](https://github.com/takagi/lake) - a GNU make like build utility. [MIT](https://opensource.org/licenses/MIT).
 
 ## [7. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
@@ -102,11 +102,11 @@
 
 ### Frameworks, Libraries and Tools / API
 
-*   [OData (⭐825)](https://github.com/OData/WebApi/tree/feature/netcore) - The Open Data Protocol (OData) enables the creation of HTTP-based data services, which allow resources identified using Uniform Resource Identifiers (URIs) and defined in an abstract data model, to be published and edited by Web clients using simple HTTP messages.
+*   [OData (⭐844)](https://github.com/OData/WebApi/tree/feature/netcore) - The Open Data Protocol (OData) enables the creation of HTTP-based data services, which allow resources identified using Uniform Resource Identifiers (URIs) and defined in an abstract data model, to be published and edited by Web clients using simple HTTP messages.
 
 ### Frameworks, Libraries and Tools / Application Templates
 
-*   [ASP.NET-MVC-Template (⭐890)](https://github.com/NikolayIT/ASP.NET-MVC-Template) - A ready-to-use templates for ASP.NET MVC 5 and ASP.NET Core with repositories, services, models mapping and DI and StyleCop warnings fixed.
+*   [ASP.NET-MVC-Template (⭐986)](https://github.com/NikolayIT/ASP.NET-MVC-Template) - A ready-to-use templates for ASP.NET MVC 5 and ASP.NET Core with repositories, services, models mapping and DI and StyleCop warnings fixed.
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

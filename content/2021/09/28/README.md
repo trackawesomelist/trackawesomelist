@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 28, 2021
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -8,7 +8,7 @@
 
 ## [1. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Cryptography / MIT
+### Cryptography / Apache License
 
 *   [blake2s (⭐1)](https://github.com/lkujaw/blake2s) - SPARK83 implementation of the BLAKE2s hash function.
 
@@ -22,7 +22,7 @@
 
 ### Admin Interface
 
-*   [MotorAdmin (⭐568)](https://github.com/motor-admin/motor-admin-rails) - A low-code Admin panel and Business Intelligence Rails engine. No DSL - configurable from the UI.
+*   [MotorAdmin (⭐624)](https://github.com/motor-admin/motor-admin-rails) - A low-code Admin panel and Business Intelligence Rails engine. No DSL - configurable from the UI.
 
 ## [4. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
@@ -40,16 +40,16 @@
 
 ### Applications / System tools
 
-*   [crabz (⭐256)](https://github.com/sstadick/crabz) - Multi-threaded compression and decompression CLI tool [![Build Status](https://github.com/sstadick/crabz/workflows/Check/badge.svg)](https://github.com/sstadick/crabz/actions?query=workflow%3ACheck)
+*   [crabz (⭐279)](https://github.com/sstadick/crabz) - Multi-threaded compression and decompression CLI tool [![Build Status](https://github.com/sstadick/crabz/workflows/Check/badge.svg)](https://github.com/sstadick/crabz/actions?query=workflow%3ACheck)
 
 ### Libraries / Compression
 
 *   gzp
-    *   [sstadick/gzp (⭐135)](https://github.com/sstadick/gzp/) - multi-threaded encoding and decoding of deflate formats and snappy
+    *   [sstadick/gzp (⭐140)](https://github.com/sstadick/gzp/) - multi-threaded encoding and decoding of deflate formats and snappy
 
 ### Libraries / Domain driven design
 
-*   [serverlesstechnology/cqrs (⭐220)](https://github.com/serverlesstechnology/cqrs) \[[cqrs-es](https://crates.io/crates/cqrs-es)] — A framework for CQRS and event sourcing with [user guide](https://doc.rust-cqrs.org/)
+*   [serverlesstechnology/cqrs (⭐277)](https://github.com/serverlesstechnology/cqrs) \[[cqrs-es](https://crates.io/crates/cqrs-es)] — A framework for CQRS and event sourcing with [user guide](https://doc.rust-cqrs.org/)
 
 ## [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -61,47 +61,41 @@
 
 ### Application Frameworks
 
-*   [Plastic (⭐42)](https://github.com/sang-hyeon/Plastic) - Plastic provides encapsulation of things like Domain, Application Rules, Business Rules or Business Logic in Application. For this, Command pattern is used.
+*   [Plastic (⭐48)](https://github.com/sang-hyeon/Plastic) - Plastic provides encapsulation of things like Domain, Application Rules, Business Rules or Business Logic in Application. For this, Command pattern is used.
 
 ### Calendar
 
-*   [Stream (⭐40)](https://github.com/GetStream/stream-chat-net) Official .NET API client for Stream Chat, a service for building chat applications.
+*   [Stream (⭐46)](https://github.com/GetStream/stream-chat-net) Official .NET API client for Stream Chat, a service for building chat applications.
 
 ### Graphics
 
 *   [ScottPlot](https://swharden.com/scottplot/) - A plotting library to interactively displays large datasets. Line plots, bar charts, pie graphs, scatter plots, and more. It supports WinForms, WPF, Avalonia, Console.
 
-## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
-
-### React / Official
-
-*   [@vitejs/plugin-react (⭐56k)](https://github.com/vitejs/vite/tree/main/packages/plugin-react) - The all-in-one Vite plugin for React projects.
-
-## [10. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Networking
 
 *   [mac-address (⭐2)](https://github.com/automatico/mac-address) - Library for working with MAC addresses
 
-## [11. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+## [10. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
-*   [xnbox/DeepfakeHTTP (⭐458)](https://github.com/xnbox/DeepfakeHTTP#readme) - Original hero section. Clear navigation. Minimalist design. Appendices.
+*   [xnbox/DeepfakeHTTP (⭐496)](https://github.com/xnbox/DeepfakeHTTP#readme) - Original hero section. Clear navigation. Minimalist design. Appendices.
 
-## [12. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [11. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Integrations
 
 *   [Micrometer Keycloak extension (⭐6)](https://github.com/micrometer-metrics/micrometer-keycloak)
 
-## [13. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [12. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### UI Libraries, Components & Templates
 
-*   📁 [OhMySMTP Templates (⭐174)](https://github.com/ohmysmtp/templates) - Set of Transactional HTML Email Templates, built with Maizzle
+*   📁 [OhMySMTP Templates (⭐187)](https://github.com/ohmysmtp/templates) - Set of Transactional HTML Email Templates, built with Maizzle
 
-## [14. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [13. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Secure Development Guidelines
 
@@ -115,24 +109,24 @@
 
 *   [SecureFlag Knowledge Base](https://knowledge-base.secureflag.com/) - *OWASP* - A repository of information about software vulnerabilities and how to prevent them.
 
-## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Duply.co](https://duply.co) — Create dynamic images from API & URL, design template once and reuse it. Free tier offers 70 images/month creation from API & URL and Up to 100 through Form.
+*   [Duply.co](https://duply.co) — Create dynamic images from API & URL, design template once and reuse it. The free tier offers 70 images/month creation from API & URL and Up to 100 through Form.
 
-## [16. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [15. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 
 *   [deno-config (⭐4)](https://github.com/yooneskh/deno-config) - Utility to streamline deno app configuration management through cli, .env and json files
-*   [solc (⭐72)](https://github.com/deno-web3/solc) - 💎 Solidity bindings for Deno.
+*   [solc (⭐73)](https://github.com/deno-web3/solc) - 💎 Solidity bindings for Deno.
 
-## [17. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [16. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [Context Note (⭐643)](https://github.com/betterRunner/context-note) - A free open source note-taking 📝 chrome extension: take you notes on the web with their context.
+*   [Context Note (⭐670)](https://github.com/betterRunner/context-note) - A free open source note-taking 📝 chrome extension: take you notes on the web with their context.
 
 ---
 

@@ -14,15 +14,15 @@
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Text Modes / MIT
+### Text Modes / Apache License
 
-*   [ob-ada-spark (⭐7)](https://github.com/rocher/ob-ada-spark/) - Ada/SPARK support for org-babel : Evaluate source code blocks with Gnu Emacs and org files.
+*   [ob-ada-spark (⭐8)](https://github.com/rocher/ob-ada-spark/) - Ada/SPARK support for org-babel : Evaluate source code blocks with Gnu Emacs and org files.
 
 ## [3. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Deployment / Distribution / Collection View Layout
 
-*   [ios-uploader (⭐114)](https://github.com/simonnilsson/ios-uploader) - Easy to use, cross-platform tool to upload iOS apps to App Store Connect.
+*   [ios-uploader (⭐126)](https://github.com/simonnilsson/ios-uploader) - Easy to use, cross-platform tool to upload iOS apps to App Store Connect.
 
 ## [4. Magictools](/content/ellisonleao/magictools/README.md)
 
@@ -34,17 +34,17 @@
 
 ### Software / Database Management
 
-*   [CloudBeaver](https://cloudbeaver.io/) - Self-hosted management of databases, supports PostgreSQL, MySQL, SQLite and more. A web/hosted version of DBeaver. ([Source Code (⭐2.2k)](https://github.com/dbeaver/cloudbeaver)) `Apache-2.0` `Nodejs`
+*   [CloudBeaver](https://cloudbeaver.io/) - Self-hosted management of databases, supports PostgreSQL, MySQL, SQLite and more. A web/hosted version of DBeaver. ([Source Code (⭐2.6k)](https://github.com/dbeaver/cloudbeaver)) `Apache-2.0` `Docker`
 
 ### Software / Miscellaneous
 
-*   [Koillection](https://koillection.github.io/) - Koillection is a service allowing users to manage any kind of collections. ([Source Code (⭐308)](https://github.com/koillection/koillection)) `MIT` `PHP`
+*   [Koillection](https://koillection.github.io/) - Koillection is a service allowing users to manage any kind of collections. ([Source Code (⭐376)](https://github.com/benjaminjonard/koillection)) `MIT` `Docker/PHP`
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Dev Tools
 
-*   [vue-unicorn-log (⭐7)](https://github.com/webdevnerdstuff/vue-unicorn-log) - A Vue 2 magical 🦄 plugin to make coloring the (devtools) console output easier and more flexible. [Vue 3 version (⭐1)](https://github.com/webdevnerdstuff/vue3-unicorn-log) version also available..
+*   [vue-unicorn-log (⭐8)](https://github.com/webdevnerdstuff/vue-unicorn-log) - A Vue 2 magical 🦄 plugin to make coloring the (devtools) console output easier and more flexible. [Vue 3 version (⭐1)](https://github.com/webdevnerdstuff/vue3-unicorn-log) version also available..
 
 ### Components & Libraries / Scaffold
 
@@ -54,20 +54,20 @@
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [shaunsingh/nyoom.nvim (⭐878)](https://github.com/shaunsingh/nyoom.nvim) - Blazing fast, configurable, minimal and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience.
+*   [shaunsingh/nyoom.nvim (⭐1.1k)](https://github.com/shaunsingh/nyoom.nvim) - Blazing fast, configurable, minimal and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience.
 
 ## [8. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Python / Financial Instruments and Pricing
 
-*   [Q-Fin (⭐303)](https://github.com/RomanMichaelPaolucci/Q-Fin) - A Python library for mathematical finance.
-*   [Quantsbin (⭐363)](https://github.com/quantsbin/Quantsbin) - Tools for pricing and plotting of vanilla option prices, greeks and various other analysis around them.
+*   [Q-Fin (⭐340)](https://github.com/RomanMichaelPaolucci/Q-Fin) - A Python library for mathematical finance.
+*   [Quantsbin (⭐411)](https://github.com/quantsbin/Quantsbin) - Tools for pricing and plotting of vanilla option prices, greeks and various other analysis around them.
 
 ### Python / Trading & Backtesting
 
-*   [TuneTA (⭐257)](https://github.com/jmrichardson/tuneta) - TuneTA optimizes technical indicators using a distance correlation measure to a user defined target feature such as next day return.
-*   [AutoTrader (⭐587)](https://github.com/kieran-mackle/AutoTrader) - A Python-based development platform for automated trading systems - from backtesting to optimisation to livetrading.
-*   [qf-lib (⭐318)](https://github.com/quarkfin/qf-lib) - QF-Lib is a Python library that provides high quality tools for quantitative finance.
+*   [TuneTA (⭐329)](https://github.com/jmrichardson/tuneta) - TuneTA optimizes technical indicators using a distance correlation measure to a user defined target feature such as next day return.
+*   [AutoTrader (⭐709)](https://github.com/kieran-mackle/AutoTrader) - A Python-based development platform for automated trading systems - from backtesting to optimisation to livetrading.
+*   [qf-lib (⭐383)](https://github.com/quarkfin/qf-lib) - QF-Lib is a Python library that provides high quality tools for quantitative finance.
 
 ### JavaScript / Data Visualization
 
@@ -79,16 +79,15 @@
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [QuantFinance (⭐214)](https://github.com/PythonCharmers/QuantFinance) - Training materials in quantitative finance.
-*   [MarketAnalysis](https://github.com/Poseyy/MarketAnalysis) - Implementing many different methods and popular analysis tools in Python.
-*   [IPythonScripts (⭐109)](https://github.com/mgroncki/IPythonScripts) - Tutorials about Quantitative Finance in Python and QuantLib: Pricing, xVAs, Hedging, Portfolio Optimisation, Machine Learning and Deep Learning.
-*   [Computational-Finance-Course (⭐229)](https://github.com/LechGrzelak/Computational-Finance-Course) - Materials for the course of Computational Finance.
+*   [QuantFinance (⭐268)](https://github.com/PythonCharmers/QuantFinance) - Training materials in quantitative finance.
+*   [IPythonScripts (⭐122)](https://github.com/mgroncki/IPythonScripts) - Tutorials about Quantitative Finance in Python and QuantLib: Pricing, xVAs, Hedging, Portfolio Optimisation, Machine Learning and Deep Learning.
+*   [Computational-Finance-Course (⭐254)](https://github.com/LechGrzelak/Computational-Finance-Course) - Materials for the course of Computational Finance.
 
 ## [9. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Databases
 
-*   [Supabase](https://supabase.io/) - Open source Firebase alternative ([Limited (⭐51k)](https://github.com/supabase/supabase/issues/4934) [self-hosting (⭐51k)](https://github.com/supabase/supabase/issues/4440#issuecomment-992108832))
+*   [Supabase](https://supabase.io/) - Open source Firebase alternative ([Limited (⭐58k)](https://github.com/supabase/supabase/issues/4934) [self-hosting (⭐58k)](https://github.com/supabase/supabase/issues/4440#issuecomment-992108832))
 
 ### Home Assistants
 
@@ -101,7 +100,7 @@
 
 ### Miscellaneous Data Structures and Algorithms
 
-*   [go18ds (⭐32)](https://github.com/daichi-m/go18ds) - Go Data Structures using Go 1.18 generics.
+*   [go18ds (⭐35)](https://github.com/daichi-m/go18ds) - Go Data Structures using Go 1.18 generics.
 
 ## [11. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 

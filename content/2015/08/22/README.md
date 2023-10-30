@@ -17,8 +17,8 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [ansi (⭐454)](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
-*   [mo (⭐477)](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
+*   [ansi (⭐510)](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
+*   [mo (⭐494)](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

@@ -10,21 +10,21 @@
 
 ### Modules / Math
 
-*   [is-even (⭐166)](https://github.com/jonschlinkert/is-even) - A good way to tell if a number is even or not (avoids type issues). Uses `is-odd` and `is-number` under the hood.
-*   [is-odd (⭐228)](https://github.com/jonschlinkert/is-odd) - A good way to tell if a number is odd or not (avoids type issues). Uses `is-number` under the hood.
+*   [is-even (⭐179)](https://github.com/jonschlinkert/is-even) - A good way to tell if a number is even or not (avoids type issues). Uses `is-odd` and `is-number` under the hood.
+*   [is-odd (⭐271)](https://github.com/jonschlinkert/is-odd) - A good way to tell if a number is odd or not (avoids type issues). Uses `is-number` under the hood.
 *   [easy-math.js (⭐7)](https://github.com/kingzez/easy-math.js) - A tiny easy math library including addition, multiplication, subtraction, and division.
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Software Development - IDE & Tools
 
-*   [HttPlaceholder (⭐83)](https://github.com/dukeofharen/httplaceholder) - Quickly mock away any webservice using HttPlaceholder. HttPlaceholder lets you specify what the request should look like and what response needs to be returned. `MIT` `C#`
+*   [HttPlaceholder (⭐82)](https://github.com/dukeofharen/httplaceholder) - Quickly mock away any webservice using HttPlaceholder. HttPlaceholder lets you specify what the request should look like and what response needs to be returned. `MIT` `C#`
 
 ## [3. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Image Processing
 
-*   [pywal (⭐7.1k)](https://github.com/dylanaraps/pywal) - A tool that generates color schemes from images.
+*   [pywal (⭐7.3k)](https://github.com/dylanaraps/pywal) - A tool that generates color schemes from images.
 
 ## [4. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 
@@ -42,7 +42,7 @@
 
 ### GitHub
 
-*   [github-stats-box (⭐94)](https://github.com/bokub/github-stats-box) - Update a pinned gist to contain your GitHub statistics.
+*   [github-stats-box (⭐105)](https://github.com/bokub/github-stats-box) - Update a pinned gist to contain your GitHub statistics.
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -52,7 +52,7 @@
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
 *   [Invantive Cloud](https://cloud.invantive.com/) — Access over 70 (cloud)platforms such as Exact Online, Twinfield, ActiveCampaign or Visma using Invantive SQL or OData4 (typically Power BI or Power Query). Includes data replication and exchange. Free plan for developers and implementation consultants. Free for specific platforms with limitations in data volumes.
 
@@ -103,13 +103,13 @@
 
 ### Boilerplates
 
-*   [Next.js and Netlify Blogging Template (⭐384)](https://github.com/wutali/nextjs-netlify-blog-template) - A perfect boilerplate for building a blog website on Netlify stacks with standard features like tagging, CMS, and shortcodes.
+*   [Next.js and Netlify Blogging Template (⭐405)](https://github.com/wutali/nextjs-netlify-blog-template) - A perfect boilerplate for building a blog website on Netlify stacks with standard features like tagging, CMS, and shortcodes.
 
 ## [14. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Component Libraries
 
-*   [Smart Web Components (⭐330)](https://github.com/HTMLElements/smart-webcomponents) - Web components for business applications.
+*   [Smart Web Components (⭐391)](https://github.com/HTMLElements/smart-webcomponents) - Web components for business applications.
 
 ### Tools
 

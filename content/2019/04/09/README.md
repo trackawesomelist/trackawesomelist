@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 09, 2019
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,7 +12,7 @@
 
 *   [iconmonstr](http://iconmonstr.com/) - Discover over 3000  free simple icons in varius collections.
 *   [TheNounProject](https://thenounproject.com/) - Search over 150,000 icons designed by creators from arround the world.
-*   [svg-icon (⭐978)](https://github.com/leungwensen/svg-icon) - An ultimate svg icons collection done right, with over 4,000 SVG icons out of the box.
+*   [svg-icon (⭐1k)](https://github.com/leungwensen/svg-icon) - An ultimate svg icons collection done right, with over 4,000 SVG icons out of the box.
 *   [icons8](https://icons8.com/) - 63,900 Free Flat Icons.
 *   [flaticon](https://www.flaticon.com/) - 1,468,000 vector icons grouped in 30,310 packs.
 
@@ -29,7 +29,6 @@
 *   [Marka](http://fian.my.id/marka/) - 36 Beautiful transformable icons.
 *   [Octicons](https://octicons.github.com/) - All GitHub's icons.
 *   [RPG-Awesome](https://nagoshiashumari.github.io/Rpg-Awesome/) - A fantasy themed font and CSS toolkit.
-*   [Google Material Design Icons, by Google](https://design.google.com/icons/) - Official Google Material Design Icons.
 *   [pictonic](https://pictonic.co) - Over 260+ free icons.
 *   [zondicons](http://www.zondicons.com/) - A set of free premium SVG icons for you to use on your digital products.
 
@@ -126,11 +125,11 @@
 
 ### Application Skeleton
 
-*   [Webird (⭐101)](https://github.com/perchlabs/webird) - Webird was created to merge the latest PHP and Node.js innovations into a single application stack
+*   [Webird (⭐99)](https://github.com/perchlabs/webird) - Webird was created to merge the latest PHP and Node.js innovations into a single application stack
 
 ### CMS & Blogs
 
-*   [Yona CMS (⭐370)](https://github.com/alexander-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure
+*   [Yona CMS (⭐368)](https://github.com/alexander-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure
 
 ### Config
 
@@ -152,7 +151,7 @@
 
 *   [Gab](https://gab.com/phalcon) - Phalcon on Gab
 
-### E-Books / Slides
+### E-Books / Communities
 
 *   [Phalcon PDF Documentation](https://buildmedia.readthedocs.org/media/pdf/phalcon-php-framework-documentation/latest/phalcon-php-framework-documentation.pdf) - Phalcon Framework Documentation
 
@@ -167,19 +166,19 @@
 ### Applications
 
 *   [Pijul](https://pijul.org) — A patch-based distributed version control system
-*   [Servo (⭐23k)](https://github.com/servo/servo) — A prototype web browser engine
+*   [Servo (⭐24k)](https://github.com/servo/servo) — A prototype web browser engine
 
 ### Applications / Utilities
 
-*   [fcsonline/tmux-thumbs (⭐662)](https://github.com/fcsonline/tmux-thumbs) — A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator.
+*   [fcsonline/tmux-thumbs (⭐754)](https://github.com/fcsonline/tmux-thumbs) — A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator.
 
 ### Applications / Virtualization
 
-*   [firecracker-microvm/firecracker (⭐22k)](https://github.com/firecracker-microvm/firecracker) — A lightweight virtual machine for container workload [Firecracker Microvm](https://firecracker-microvm.github.io/)
+*   [firecracker-microvm/firecracker (⭐23k)](https://github.com/firecracker-microvm/firecracker) — A lightweight virtual machine for container workload [Firecracker Microvm](https://firecracker-microvm.github.io/)
 
 ### Applications / Web Servers
 
-*   [TheWaWaR/simple-http-server (⭐892)](https://github.com/TheWaWaR/simple-http-server) — simple static http server
+*   [TheWaWaR/simple-http-server (⭐2k)](https://github.com/TheWaWaR/simple-http-server) — simple static http server
 
 ### Development tools / Debugging
 
@@ -199,37 +198,33 @@
 
 *   [static\_assertions](https://crates.io/crates/static_assertions) — Compile-time assertions to ensure that invariants are met
 
-### Libraries / Automotive
-
-*   [oefd/tokio-socketcan (⭐32)](https://github.com/oefd/tokio-socketcan) [\[tokio-socketcan\]](https://crates.io/crates/tokio-socketcan)] — Linux SocketCAN support for tokio based on the socketcan crate
-
 ### Libraries / Configuration
 
-*   [Kixunil/configure\_me (⭐52)](https://github.com/Kixunil/configure_me) \[[configure\_me](https://crates.io/crates/configure_me)] — library for processing application configuration easily
+*   [Kixunil/configure\_me (⭐54)](https://github.com/Kixunil/configure_me) \[[configure\_me](https://crates.io/crates/configure_me)] — library for processing application configuration easily
 
 ### Libraries / GUI
 
 *   [IUP](http://webserver2.tecgraf.puc-rio.br/iup/)
-    *   [Kiss-ui (⭐343)](https://github.com/KISS-UI/kiss-ui) — A simple UI framework built on IUP
+    *   [Kiss-ui (⭐341)](https://github.com/KISS-UI/kiss-ui) — A simple UI framework built on IUP
 
 ### Libraries / Network programming
 
 *   Low level
-    *   [actix/actix (⭐7.9k)](https://github.com/actix/actix) — Actor library for Rust
-    *   [dylanmckay/protocol (⭐168)](https://github.com/dylanmckay/protocol) — Custom TCP/UDP protocol definitions
-    *   [libpnet/libpnet (⭐1.9k)](https://github.com/libpnet/libpnet) — A cross-platform, low level networking
-    *   [smoltcp-rs/smoltcp (⭐3k)](https://github.com/smoltcp-rs/smoltcp) — A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems
-    *   [tokio-rs/tokio (⭐21k)](https://github.com/tokio-rs/tokio) — A network application framework for rapid development and highly scalable production deployments of clients and servers.
+    *   [actix/actix (⭐8.1k)](https://github.com/actix/actix) — Actor library for Rust
+    *   [dylanmckay/protocol (⭐175)](https://github.com/dylanmckay/protocol) — Custom TCP/UDP protocol definitions
+    *   [libpnet/libpnet (⭐2k)](https://github.com/libpnet/libpnet) — A cross-platform, low level networking
+    *   [smoltcp-rs/smoltcp (⭐3.2k)](https://github.com/smoltcp-rs/smoltcp) — A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems
+    *   [tokio-rs/tokio (⭐22k)](https://github.com/tokio-rs/tokio) — A network application framework for rapid development and highly scalable production deployments of clients and servers.
 
 ### Libraries / Parsing
 
-*   [ptal/oak (⭐140)](https://github.com/ptal/oak) — A typed PEG parser generator (compiler plugin)
+*   [ptal/oak (⭐139)](https://github.com/ptal/oak) — A typed PEG parser generator (compiler plugin)
 
 ### Libraries / Web programming
 
 *   Client-side / WASM
     *   [cargo-web](https://crates.io/crates/cargo-web) — A Cargo subcommand for the client-side Web
-    *   [leptos (⭐9k)](https://github.com/leptos-rs/leptos) — Leptos is a full-stack, isomorphic Rust web framework leveraging fine-grained reactivity to build declarative user interfaces.[![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/leptos)
+    *   [leptos (⭐12k)](https://github.com/leptos-rs/leptos) — Leptos is a full-stack, isomorphic Rust web framework leveraging fine-grained reactivity to build declarative user interfaces.[![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/leptos)
     *   [sauron (⭐1.8k)](https://github.com/ivanceras/sauron) - Client side web framework which closely adheres to The Elm Architecture.
     *   [seed](https://seed-rs.org/) — A Rust framework for creating web apps
     *   [stdweb](https://crates.io/crates/stdweb) — A standard library for the client-side Web
@@ -243,11 +238,11 @@
 
 ### Game Engine
 
-*   [Spring (⭐3.2k)](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. \[GPLv2/GPLv3] [website](https://springrts.com/)
+*   [Spring (⭐3.3k)](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. \[GPLv2/GPLv3] [website](https://springrts.com/)
 
 ### Reflection
 
-*   [Magic Enum (⭐3.7k)](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. \[MIT]
+*   [Magic Enum (⭐4k)](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. \[MIT]
 
 ## [7. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
 
@@ -277,13 +272,7 @@
 *   [Axcept](https://axcept.io) - Testing for the whole team. Up to 100 tests in parallel. Endpoint Mocking. Code Coverage.
 *   [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons and regressions.
 
-## [10. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
-
-### Programming / Full-Stack
-
-*   [Full-Stack Developer Jobs](https://fullstackjob.com/) - Job board for Full-Stack Developers
-
-## [11. Awesome Math](/content/rossant/awesome-math/README.md)
+## [10. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Foundations of Mathematics / Category Theory
 
@@ -306,7 +295,7 @@
 
 *   [Theory of Functions of a Real Variable](http://www.math.harvard.edu/~shlomo/docs/Real_Variables.pdf) - Shlomo Sternberg
 
-## [12. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [11. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### MOOCs
 

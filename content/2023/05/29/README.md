@@ -30,13 +30,13 @@
 
 ### Applications
 
-*   [Rio (⭐1.1k)](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
+*   [Rio (⭐2.3k)](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 
 ## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### API
 
-*   [Cloud Storage (⭐32)](https://github.com/managedcode/Storage):- This library provides a universal interface for accessing and manipulating data in different cloud blob storage providers (Azure Storage, AWS S3, Google Cloud Storage. It makes it easy to switch between providers or to use multiple providers simultaneously, without having to learn and use multiple APIs.
+*   [Cloud Storage (⭐46)](https://github.com/managedcode/Storage):- This library provides a universal interface for accessing and manipulating data in different cloud blob storage providers (Azure Storage, AWS S3, Google Cloud Storage. It makes it easy to switch between providers or to use multiple providers simultaneously, without having to learn and use multiple APIs.
 
 ## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -60,16 +60,13 @@
 
 ### Color / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.hipatterns (⭐2.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-hipatterns.md) - Module of `mini.nvim` to highlight patterns in text with configurable highlighters. Works asynchronously with configurable debounce delay.
+*   [echasnovski/mini.nvim#mini.hipatterns (⭐2.9k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-hipatterns.md) - Module of `mini.nvim` to highlight patterns in text with configurable highlighters. Works asynchronously with configurable debounce delay.
 
 ### Utility / Diagnostics
 
 *   [reggie/licenses.nvim](https://git.sr.ht/~reggie/licenses.nvim) - Insert and write license headers and/or files.
 
-### Preconfigured Configuration / Diagnostics
-
-*   [OxygeNvim/OxygeNvim (⭐19)](https://github.com/OxygeNvim/OxygeNvim) - A configuration for all kinds of development with rock solid defaults.
-
 ---
 
+- Prev: [May 30, 2023](/content/2023/05/30/README.md)
 - Next: [May 28, 2023](/content/2023/05/28/README.md)

@@ -10,11 +10,11 @@
 
 ### JavaScript / FrameWorks
 
-*   [IndicatorTS (⭐122)](https://github.com/cinar/indicatorts) - Indicator is a TypeScript module providing various stock technical analysis indicators, strategies, and a backtest framework for trading.
+*   [IndicatorTS (⭐162)](https://github.com/cinar/indicatorts) - Indicator is a TypeScript module providing various stock technical analysis indicators, strategies, and a backtest framework for trading.
 
 ### Golang / Data Visualization
 
-*   [IndicatorGo (⭐238)](https://github.com/cinar/indicator) - IndicatorGo is a Golang module providing various stock technical analysis indicators, strategies, and a backtest framework for trading.
+*   [IndicatorGo (⭐300)](https://github.com/cinar/indicator) - IndicatorGo is a Golang module providing various stock technical analysis indicators, strategies, and a backtest framework for trading.
 
 ## [2. Magictools](/content/ellisonleao/magictools/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Terminal / Development
 
-*   [shellfirm (⭐667)](https://github.com/kaplanelad/shellfirm) - It is a handy utility to help avoid running dangerous commands with an extra approval step. You will immediately get a small prompt challenge that will double verify your action when risky patterns are detected.
+*   [shellfirm (⭐693)](https://github.com/kaplanelad/shellfirm) - It is a handy utility to help avoid running dangerous commands with an extra approval step. You will immediately get a small prompt challenge that will double verify your action when risky patterns are detected.
 
 ## [4. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Machine Learning / General Purpose Machine Learning
 
-*   [sklearn-expertsys (⭐485)](https://github.com/tmadl/sklearn-expertsys) - Highly interpretable classifiers for scikit learn. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [sklearn-expertsys (⭐484)](https://github.com/tmadl/sklearn-expertsys) - Highly interpretable classifiers for scikit learn. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -82,12 +82,12 @@
 
 ### Templates / Vue 3
 
-*   [vite-quasar-starter (⭐44)](https://github.com/fyeeme/vite-quasar) - Vite 2.x + Vue 3.x + quasar 2.x starter.
+*   [vite-quasar-starter (⭐47)](https://github.com/fyeeme/vite-quasar) - Vite 2.x + Vue 3.x + quasar 2.x starter.
 
 ### Rollup Plugins / Compatible with Vite
 
-*   [rollup-plugin-graphql-codegen (⭐49)](https://github.com/rxliuli/liuli-tools/tree/master/libs/rollup-plugin-graphql-codegen) - Generating type definitions for GraphQL tag template strings in worker\_threads.
-*   [rollup-plugin-i18next-dts-gen (⭐49)](https://github.com/rxliuli/liuli-tools/tree/master/libs/rollup-plugin-i18next-dts-gen) - Generating type definitions from i18n JSON files are used for code hinting and validation.
+*   [rollup-plugin-graphql-codegen (⭐57)](https://github.com/rxliuli/liuli-tools/tree/master/libs/rollup-plugin-graphql-codegen) - Generating type definitions for GraphQL tag template strings in worker\_threads.
+*   [rollup-plugin-i18next-dts-gen (⭐57)](https://github.com/rxliuli/liuli-tools/tree/master/libs/rollup-plugin-i18next-dts-gen) - Generating type definitions from i18n JSON files are used for code hinting and validation.
 
 ---
 

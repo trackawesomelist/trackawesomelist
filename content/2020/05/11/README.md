@@ -132,7 +132,7 @@
 
 ### Software / Command Line Tools
 
-*   [GNU stow](https://www.gnu.org/software/stow/) - GNU Stow is a symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place. ([GNU GPLv3 (⭐12k)](https://github.com/ranger/ranger/blob/master/README.md))
+*   [GNU stow](https://www.gnu.org/software/stow/) - GNU Stow is a symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place. ([GNU GPLv3 (⭐14k)](https://github.com/ranger/ranger/blob/master/README.md))
 
 ### Software / Text Editors
 
@@ -144,7 +144,7 @@
 
 *   [Berkeley EECS](http://inst.eecs.berkeley.edu/classes-eecs.html) - Comprehensive EE & CS course website archives.
 *   [Dr. Jacob Baker](http://cmosedu.com) - Courses and tutorials, professor at The University of Nevada, Las Vegas.
-*   [Dr. Abraham](https://www.cerc.utexas.edu/\~jaa/teaching.html), [Dr. McDermot](http://users.ece.utexas.edu/\~mcdermot/), and [Dr. Valvano](http://users.ece.utexas.edu/\~valvano/) - Courses materials, professors at UT Austin
+*   [Dr. Abraham](https://www.cerc.utexas.edu/~jaa/teaching.html), [Dr. McDermot](http://users.ece.utexas.edu/~mcdermot/), and [Dr. Valvano](http://users.ece.utexas.edu/~valvano/) - Courses materials, professors at UT Austin
 
 ### Simulators / Analog and Mixed Signal Circuit Simulators
 
@@ -208,7 +208,7 @@
 
 ### Apps / Outline Processor Markup Language
 
-*   [FeedMe (⭐786)](https://github.com/seazon/FeedMe/) <sup>[135](https://t.me/s/aboutrss/135), [136](https://t.me/s/aboutrss/136), [161](https://t.me/s/aboutrss/161), [331](https://t.me/s/aboutrss/331), [342](https://t.me/s/aboutrss/342)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.seazon.feedme)
+*   [FeedMe (⭐909)](https://github.com/seazon/FeedMe/) <sup>[135](https://t.me/s/aboutrss/135), [136](https://t.me/s/aboutrss/136), [161](https://t.me/s/aboutrss/161), [331](https://t.me/s/aboutrss/331), [342](https://t.me/s/aboutrss/342)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.seazon.feedme)
 
 ### RSSHub / Outline Processor Markup Language
 
@@ -216,7 +216,7 @@
 
 ### TTRSS / Outline Processor Markup Language
 
-*   [Tiny Tiny RSS Feedlish Theme (⭐36)](https://github.com/Gravemind/tt-rss-feedlish-theme) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Gravemind/tt-rss-feedlish-theme)
+*   [Tiny Tiny RSS Feedlish Theme (⭐37)](https://github.com/Gravemind/tt-rss-feedlish-theme) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Gravemind/tt-rss-feedlish-theme)
 
 ### universally from / multiple sources
 
@@ -232,7 +232,7 @@
 *   [Blogtrottr](https://blogtrottr.com/) <sup>[449](https://t.me/s/aboutrss/449)</sup>
 *   [Cortado](https://cortadomail.com/) <sup>[578](https://t.me/s/aboutrss/578)</sup>
 
-### WordPress plugins / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### WordPress plugins / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Ultimate Category Excluder](https://wordpress.org/plugins/ultimate-category-excluder/) <sup>[582](https://t.me/s/aboutrss/582)</sup> : Exclude category from Feeds
 

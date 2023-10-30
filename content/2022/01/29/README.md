@@ -10,26 +10,26 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-watch-and-run (⭐291)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-watch-and-run) - Watch some files (glob) and trigger a command. To enable any tool to have a watch mode.
+*   [vite-plugin-watch-and-run (⭐315)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-watch-and-run) - Watch some files (glob) and trigger a command. To enable any tool to have a watch mode.
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### ORM/ODM Extensions
 
 *   Misc
-    *   [arel\_extensions (⭐141)](https://github.com/faveod/arel-extensions) - Extending Arel: more "rubyish" syntax, functions for strings, dates, math... and add native extensions for some DBs.
-    *   [ActiveRecord::Turntable (⭐210)](https://github.com/drecom/activerecord-turntable) - A database sharding extension for ActiveRecord.
-    *   [ActiveValidators (⭐304)](https://github.com/franckverrot/activevalidators) - An exhaustive collection of off-the-shelf and tested ActiveModel/ActiveRecord validations.
-    *   [DeepPluck (⭐412)](https://github.com/khiav223577/deep_pluck) - Allow you to pluck attributes from nested associations without loading a bunch of records.
+    *   [arel\_extensions (⭐142)](https://github.com/faveod/arel-extensions) - Extending Arel: more "rubyish" syntax, functions for strings, dates, math... and add native extensions for some DBs.
+    *   [ActiveRecord::Turntable (⭐211)](https://github.com/drecom/activerecord-turntable) - A database sharding extension for ActiveRecord.
+    *   [ActiveValidators (⭐305)](https://github.com/franckverrot/activevalidators) - An exhaustive collection of off-the-shelf and tested ActiveModel/ActiveRecord validations.
+    *   [DeepPluck (⭐455)](https://github.com/khiav223577/deep_pluck) - Allow you to pluck attributes from nested associations without loading a bunch of records.
     *   [Enumerize (⭐1.7k)](https://github.com/brainspec/enumerize) - Enumerated attributes with I18n and ActiveRecord/Mongoid/MongoMapper support.
-    *   [Goldiloader (⭐1.4k)](https://github.com/salsify/goldiloader) - Automatic ActiveRecord eager loading.
-    *   [Rating (⭐63)](https://github.com/wbotelhos/rating) - A true Bayesian rating system with scope and cache enabled.
+    *   [Goldiloader (⭐1.5k)](https://github.com/salsify/goldiloader) - Automatic ActiveRecord eager loading.
+    *   [Rating (⭐66)](https://github.com/wbotelhos/rating) - A true Bayesian rating system with scope and cache enabled.
 
 ## [3. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Local
 
-*   [Photok (⭐305)](https://github.com/leonlatsch/Photok) - Photok is a free Photo-Safe. It stores your photos encrypted on your device and hides them from others.
+*   [Photok (⭐350)](https://github.com/leonlatsch/Photok) - Photok is a free Photo-Safe. It stores your photos encrypted on your device and hides them from others.
 *   [ImageGlass](https://imageglass.org/) - ImageGlass is a lightweight software application whose purpose is to help you view images in a clean and intuitive working environment.
 
 ### Desktop / Alternative clients/modifications of Discord:
@@ -41,8 +41,8 @@
 
 ### Others
 
-*   [asmbf (⭐93)](https://github.com/kspalaiologos/asmbf) - The only true brainfuck assembler toolkit.
-*   [MalbolgeLisp (⭐356)](https://github.com/kspalaiologos/malbolge-lisp) - A Lisp interpreter in Malbolge Unshackled.
+*   [asmbf (⭐96)](https://github.com/kspalaiologos/asmbf) - The only true brainfuck assembler toolkit.
+*   [MalbolgeLisp (⭐382)](https://github.com/kspalaiologos/malbolge-lisp) - A Lisp interpreter in Malbolge Unshackled.
 
 ### Community
 

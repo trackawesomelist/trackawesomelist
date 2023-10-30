@@ -58,7 +58,7 @@
 
 ### Software / Booking and Scheduling
 
-*   [Cal.com](https://cal.com/) - The open-source online appointment scheduling system. ([Demo](https://app.cal.com/bailey), [Source Code (⭐20k)](https://github.com/calcom/cal.com)) `MIT` `Nodejs`
+*   [Cal.com](https://cal.com/) - The open-source online appointment scheduling system. ([Demo](https://app.cal.com/bailey), [Source Code (⭐24k)](https://github.com/calcom/cal.com)) `MIT` `Nodejs`
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Open-Source Projects
 
-*   [GitProfile (⭐788)](https://github.com/arifszn/gitprofile) - Automatic portfolio builder based on GitHub profiles, built with React.js and Tailwind CSS.
+*   [GitProfile (⭐1k)](https://github.com/arifszn/gitprofile) - Automatic portfolio builder based on GitHub profiles, built with React.js and Tailwind CSS.
 
 ## [6. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -80,11 +80,11 @@
 
 
 
-## [7. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
+## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### Erlang / 理論計算機科学
+### Erlang / Phoenix
 
-*   [Learn you some Erlang for great good!](https://www.ymotongpoo.com/works/lyse-ja/) - Fred Hebert, Yoshifumi Yamaguchi (HTML)
+*   [Learn You Some Erlang For Great Good](http://learnyousomeerlang.com) - Fred Hebert (HTML)
 
 ## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -96,43 +96,35 @@
 
 ### Templates / Vue 3
 
-*   [vivu-npm (⭐41)](https://github.com/logustra/vivu-npm) - Starter template to build component library.
+*   [vivu-npm (⭐40)](https://github.com/logustra/vivu-npm) - Starter template to build component library.
 
 ## [10. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [arsmn/fiber-swagger (⭐247)](https://github.com/arsmn/fiber-swagger) - Fiber middleware to automatically generate RESTful API documentation with Swagger 2.0.
-*   [arsmn/fiber-casbin (⭐57)](https://github.com/arsmn/fiber-casbin) - Casbin middleware for Fiber.
-*   [shareed2k/fiber\_tracing (⭐9)](https://github.com/shareed2k/fiber_tracing) - Middleware trace requests on Fiber framework with OpenTracing API.
-*   [shareed2k/fiber\_limiter (⭐13)](https://github.com/shareed2k/fiber_limiter) - Limiter using redis as store for rate limit with two algorithms for choosing sliding window, gcra leaky bucket.
-*   [arsmn/fastgql (⭐82)](https://github.com/arsmn/fastgql) - Go library for building GraphQL servers without any fuss, but with fasthttp support.
-*   [kiyonlin/fiber\_limiter (⭐3)](https://github.com/kiyonlin/fiber_limiter) - Limiter is based on rate which forks of golang.org/x/time/rate.
-*   [juandiii/go-jwk-security (⭐7)](https://github.com/juandiii/go-jwk-security) - JWT middleware for fiber.
-*   [ansrivas/fiberprometheus (⭐107)](https://github.com/ansrivas/fiberprometheus) - Prometheus middleware for gofiber.
-*   [LdDl/fiber-long-poll (⭐15)](https://github.com/LdDl/fiber-long-poll) - Golang long polling library for fasthttp-based web framework called Fiber.
-*   [K0enM/fiber\_vhost (⭐5)](https://github.com/K0enM/fiber_vhost) - Vhost (Virtual host) middleware for Fiber that enables the use of virtual hosts based on the Host Header.
-*   [sacsand/gofiber-firebaseauth (⭐18)](https://github.com/sacsand/gofiber-firebaseauth) - Fiber Firebase Auth Middleware.
-*   [theArtechnology/fiber-inertia (⭐11)](https://github.com/theArtechnology/fiber-inertia) - This is a Inertia.js server-side adapter based on inertia-laravel, but for Fiber Framework.
+*   [shareed2k/fiber\_tracing (⭐10)](https://github.com/shareed2k/fiber_tracing) - Middleware trace requests on Fiber framework with OpenTracing API.
+*   [shareed2k/fiber\_limiter (⭐14)](https://github.com/shareed2k/fiber_limiter) - Limiter using redis as store for rate limit with two algorithms for choosing sliding window, gcra leaky bucket.
+*   [ansrivas/fiberprometheus (⭐117)](https://github.com/ansrivas/fiberprometheus) - Prometheus middleware for gofiber.
+*   [sacsand/gofiber-firebaseauth (⭐21)](https://github.com/sacsand/gofiber-firebaseauth) - Fiber Firebase Auth Middleware.
 *   [aschenmaker/fiber-health-check (⭐9)](https://github.com/aschenmaker/fiber-health-check) - Health-check middleware support health-check for Fiber️ framework.
-*   [elastic/apmfiber (⭐390)](https://github.com/elastic/apm-agent-go/tree/master/module/apmfiber) - APM Agent for Go Fiber.
+*   [elastic/apmfiber (⭐397)](https://github.com/elastic/apm-agent-go/tree/master/module/apmfiber) - APM Agent for Go Fiber.
 *   [eozer/fiber\_ldapauth (⭐2)](https://github.com/eozer/fiber_ldapauth) - LDAP Authentication Middleware for Fiber.
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [gofiber/boilerplate (⭐280)](https://github.com/gofiber/boilerplate) - Official fiber boilerplate.
-*   [fiber-boilerplate (⭐211)](https://github.com/thomasvvugt/fiber-boilerplate) - A boilerplate for the Fiber web framework.
-*   [sujit-baniya/fiber-boilerplate (⭐285)](https://github.com/sujit-baniya/fiber-boilerplate) - Boilerplate on the top of fiber web framework with many middlewares and features.
-*   [create-go-app/fiber-go-template (⭐599)](https://github.com/create-go-app/fiber-go-template) - Fiber backend template for Create Go App CLI.
-*   [embedmode/fiberseed (⭐28)](https://github.com/embedmode/fiberseed) - Fiber boilerplate api with many middlewares.
+*   [gofiber/boilerplate (⭐312)](https://github.com/gofiber/boilerplate) - Official fiber boilerplate.
+*   [fiber-boilerplate (⭐230)](https://github.com/thomasvvugt/fiber-boilerplate) - A boilerplate for the Fiber web framework.
+*   [sujit-baniya/fiber-boilerplate (⭐312)](https://github.com/sujit-baniya/fiber-boilerplate) - Boilerplate on the top of fiber web framework with many middlewares and features.
+*   [create-go-app/fiber-go-template (⭐694)](https://github.com/create-go-app/fiber-go-template) - Fiber backend template for Create Go App CLI.
+*   [embedmode/fiberseed (⭐34)](https://github.com/embedmode/fiberseed) - Fiber boilerplate api with many middlewares.
 
 ### 📁 Recipes / 🌱 Third Party
 
 *   [kiyonlin/fiblar-demo (⭐1)](https://github.com/kiyonlin/fiblar-demo) - Fiber v1 + angular demo.
-*   [koddr/tutorial-go-fiber-rest-api (⭐250)](https://github.com/koddr/tutorial-go-fiber-rest-api) - Tutorial for building a restful api with fiber.
-*   [firebase007/go-rest-api-with-fiber (⭐45)](https://github.com/firebase007/go-rest-api-with-fiber) - Demo project with fiber, logging, basicAuth and postgresql.
+*   [koddr/tutorial-go-fiber-rest-api (⭐289)](https://github.com/koddr/tutorial-go-fiber-rest-api) - Tutorial for building a restful api with fiber.
+*   [firebase007/go-rest-api-with-fiber (⭐49)](https://github.com/firebase007/go-rest-api-with-fiber) - Demo project with fiber, logging, basicAuth and postgresql.
 *   [chawk/go\_fiber\_quickstart (⭐18)](https://github.com/chawk/go_fiber_quickstart) - Fiber quick start example project.
-*   [EricLau1/go-fiber-auth-api (⭐42)](https://github.com/EricLau1/go-fiber-auth-api) - Golang Authentication API with Fiber MongoDB and JWT.
+*   [EricLau1/go-fiber-auth-api (⭐50)](https://github.com/EricLau1/go-fiber-auth-api) - Golang Authentication API with Fiber MongoDB and JWT.
 
 ### 🤖 Benchmarks / 🌱 Third Party
 
@@ -144,73 +136,73 @@
 
 ### Problem Solving / Reinforcement Learning
 
-*   [SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning](http://proceedings.mlr.press/v139/lee21g.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=8840831494454574191\&hl=en\&as_sdt=0,5)].
+*   [SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning](http://proceedings.mlr.press/v139/lee21g.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=8840831494454574191\&hl=en\&as_sdt=0,5)]. \[[Code (⭐113)](https://github.com/pokaxpoka/sunrise)].
 
-## [12. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [12. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
-### Social Media Tools / Facebook
+### Open Sources Intelligence (OSINT) / Penetration Testing Report Templates
 
-*   [Facebook Friend List Scraper (⭐155)](https://github.com/narkopolo/fb_friend_list_scraper) - Tool for scraping large Facebook friend lists without being rate-limited.
+*   [Facebook Friend List Scraper (⭐193)](https://github.com/narkopolo/fb_friend_list_scraper) - Tool to scrape names and usernames from large friend lists on Facebook, without being rate limited.
 
 ## [13. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Python / Trading & Backtesting
 
-*   [TA-Lib (⭐7.9k)](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (<http://ta-lib.org/>).
-*   [zipline (⭐16k)](https://github.com/quantopian/zipline) - Pythonic algorithmic trading library.
+*   [TA-Lib (⭐8.4k)](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (<http://ta-lib.org/>).
+*   [zipline (⭐17k)](https://github.com/quantopian/zipline) - Pythonic algorithmic trading library.
 
 ### Python / Data Sources
 
 *   [pystlouisfed (⭐10)](https://github.com/TomasKoutek/pystlouisfed) - Python client for Federal Reserve Bank of St. Louis API - FRED, ALFRED, GeoFRED and FRASER.
-*   [python-bcb (⭐42)](https://github.com/wilsonfreitas/python-bcb) - Python interface to Brazilian Central Bank web services.
+*   [python-bcb (⭐53)](https://github.com/wilsonfreitas/python-bcb) - Python interface to Brazilian Central Bank web services.
 
 ### R / Numerical Libraries & Data Structures
 
-*   [xts (⭐204)](https://github.com/joshuaulrich/xts) - eXtensible Time Series: Provide for uniform handling of R's different time-based data classes by extending zoo, maximizing native format information preservation and allowing for user level customization and extension, while simplifying cross-class interoperability.
-*   [data.table (⭐3.3k)](https://github.com/Rdatatable/data.table) - Extension of data.frame: Fast aggregation of large data (e.g. 100GB in RAM), fast ordered joins, fast add/modify/delete of columns by group using no copies at all, list columns and a fast file reader (fread). Offers a natural and flexible syntax, for faster development.
+*   [xts (⭐211)](https://github.com/joshuaulrich/xts) - eXtensible Time Series: Provide for uniform handling of R's different time-based data classes by extending zoo, maximizing native format information preservation and allowing for user level customization and extension, while simplifying cross-class interoperability.
+*   [data.table (⭐3.4k)](https://github.com/Rdatatable/data.table) - Extension of data.frame: Fast aggregation of large data (e.g. 100GB in RAM), fast ordered joins, fast add/modify/delete of columns by group using no copies at all, list columns and a fast file reader (fread). Offers a natural and flexible syntax, for faster development.
 
 ### R / Data Sources
 
-*   [Rblpapi (⭐152)](https://github.com/Rblp/Rblpapi) - An R Interface to 'Bloomberg' is provided via the 'Blp API'.
+*   [Rblpapi (⭐157)](https://github.com/Rblp/Rblpapi) - An R Interface to 'Bloomberg' is provided via the 'Blp API'.
 *   [Rbitcoin (⭐57)](https://github.com/jangorecki/Rbitcoin) - Unified markets API interface (bitstamp, kraken, btce, bitmarket).
 *   [GetTDData (⭐18)](https://github.com/msperlin/GetTDData) - Downloads and aggregates data for Brazilian government issued bonds directly from the website of Tesouro Direto.
-*   [GetHFData (⭐35)](https://github.com/msperlin/GetHFData) - Downloads and aggregates high frequency trading data for Brazilian instruments directly from Bovespa ftp site.
+*   [GetHFData (⭐37)](https://github.com/msperlin/GetHFData) - Downloads and aggregates high frequency trading data for Brazilian instruments directly from Bovespa ftp site.
 *   [Reddit WallstreetBets API](https://dashboard.nbshare.io/apps/reddit/api/) - Provides daily top 50 stocks from reddit (subreddit) Wallstreetbets and their sentiments via the API.
-*   [td (⭐11)](https://github.com/eddelbuettel/td) - Interfaces the 'twelvedata' API for stocks and (digital and standard) currencies.
-*   [rbcb (⭐75)](https://github.com/wilsonfreitas/rbcb) - R interface to Brazilian Central Bank web services.
+*   [td (⭐12)](https://github.com/eddelbuettel/td) - Interfaces the 'twelvedata' API for stocks and (digital and standard) currencies.
+*   [rbcb (⭐79)](https://github.com/wilsonfreitas/rbcb) - R interface to Brazilian Central Bank web services.
 
 ### R / Financial Instruments and Pricing
 
-*   [portfolio (⭐13)](https://github.com/dgerlanc/portfolio) - Analysing equity portfolios.
+*   [portfolio (⭐15)](https://github.com/dgerlanc/portfolio) - Analysing equity portfolios.
 *   [credule (⭐5)](https://github.com/blenezet/credule) - Credit Default Swap Functions.
-*   [PortfolioAnalytics (⭐66)](https://github.com/braverock/PortfolioAnalytics) - Portfolio Analysis, Including Numerical Methods for Optimizationof Portfolios.
+*   [PortfolioAnalytics (⭐72)](https://github.com/braverock/PortfolioAnalytics) - Portfolio Analysis, Including Numerical Methods for Optimizationof Portfolios.
 *   [fmbasics (⭐10)](https://github.com/imanuelcostigan/fmbasics) - Financial Market Building Blocks.
-*   [R-fixedincome (⭐38)](https://github.com/wilsonfreitas/R-fixedincome) - Fixed income tools for R.
+*   [R-fixedincome (⭐40)](https://github.com/wilsonfreitas/R-fixedincome) - Fixed income tools for R.
 
 ### R / Trading
 
-*   [TTR (⭐302)](https://github.com/joshuaulrich/TTR) - Technical Trading Rules.
+*   [TTR (⭐311)](https://github.com/joshuaulrich/TTR) - Technical Trading Rules.
 
 ### R / Risk Analysis
 
-*   [PerformanceAnalytics (⭐190)](https://github.com/braverock/PerformanceAnalytics) - Econometric tools for performance and risk analysis.
+*   [PerformanceAnalytics (⭐199)](https://github.com/braverock/PerformanceAnalytics) - Econometric tools for performance and risk analysis.
 
 ### R / Time Series
 
-*   [rugarch (⭐15)](https://github.com/alexiosg/rugarch) - Univariate GARCH Models.
-*   [rmgarch (⭐8)](https://github.com/alexiosg/rmgarch) - Multivariate GARCH Models.
+*   [rugarch (⭐16)](https://github.com/alexiosg/rugarch) - Univariate GARCH Models.
+*   [rmgarch (⭐10)](https://github.com/alexiosg/rmgarch) - Multivariate GARCH Models.
 
 ### R / Calendars
 
-*   [bizdays (⭐46)](https://github.com/wilsonfreitas/R-bizdays) - Business days calculations and utilities
+*   [bizdays (⭐50)](https://github.com/wilsonfreitas/R-bizdays) - Business days calculations and utilities
 
 ### Julia / FrameWorks
 
-*   [Miletus.jl (⭐77)](https://github.com/JuliaComputing/Miletus.jl) - A financial contract definition, modeling language, and valuation framework.
+*   [Miletus.jl (⭐78)](https://github.com/JuliaComputing/Miletus.jl) - A financial contract definition, modeling language, and valuation framework.
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [Machine-Learning-for-Asset-Managers (⭐318)](https://github.com/emoen/Machine-Learning-for-Asset-Managers) - Implementation of code snippets, exercises and application to live data from Machine Learning for Asset Managers (Elements in Quantitative Finance) written by Prof. Marcos López de Prado.
+*   [Machine-Learning-for-Asset-Managers (⭐362)](https://github.com/emoen/Machine-Learning-for-Asset-Managers) - Implementation of code snippets, exercises and application to live data from Machine Learning for Asset Managers (Elements in Quantitative Finance) written by Prof. Marcos López de Prado.
 
 ---
 

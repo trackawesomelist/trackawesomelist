@@ -16,22 +16,22 @@
 
 ### Mobile Games / Android
 
-*   [Pimple Popper (⭐27)](https://github.com/Crazy-Marvin/PimplePopper) - Game to pop pimples using the awesome Godot Engine.
+*   [Pimple Popper (⭐26)](https://github.com/Crazy-Marvin/PimplePopper) - Game to pop pimples using the awesome Godot Engine.
 
 ## [3. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Status Bar
 
-*   [tmux-clima (⭐3)](https://github.com/vascomfnunes/tmux-clima) Displays the current temperature and weather condition using the OpenWeather API.
-*   [tmux-cpu (⭐344)](https://github.com/tmux-plugins/tmux-cpu) Show CPU load with easy icons
-*   [tmux-kripto (⭐1)](https://github.com/vascomfnunes/tmux-kripto) Add a cryptocurrency stock price to the statusbar.
+*   [tmux-clima (⭐4)](https://github.com/vascomfnunes/tmux-clima) Displays the current temperature and weather condition using the OpenWeather API.
+*   [tmux-cpu (⭐361)](https://github.com/tmux-plugins/tmux-cpu) Show CPU load with easy icons
+*   [tmux-kripto (⭐2)](https://github.com/vascomfnunes/tmux-kripto) Add a cryptocurrency stock price to the statusbar.
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Neovim Lua Development / Diagnostics
 
-*   [nanotee/luv-vimdocs (⭐68)](https://github.com/nanotee/luv-vimdocs) - The luv docs in vimdoc format.
-*   [milisims/nvim-luaref (⭐116)](https://github.com/milisims/nvim-luaref) - A reference for builtin Lua functions.
+*   [nanotee/luv-vimdocs (⭐69)](https://github.com/nanotee/luv-vimdocs) - The luv docs in vimdoc format.
+*   [milisims/nvim-luaref (⭐117)](https://github.com/milisims/nvim-luaref) - A reference for builtin Lua functions.
 
 ## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -43,30 +43,30 @@
 
 ### Samples
 
-*   [Hello triangle, (⭐42)](https://github.com/maierfelix/VK_KHR_ray_tracing) based on Vulkan Ray Tracing extensions. \[MIT]
+*   [Hello triangle, (⭐41)](https://github.com/maierfelix/VK_KHR_ray_tracing) based on Vulkan Ray Tracing extensions. \[MIT]
 
 ## [7. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Templates / Godot 3.2+
 
-*   [Godot First Person Camera (⭐43)](https://github.com/tavurth/godot-simple-fps-camera) - A simple FPS starter with jumping, movement, flashlight and a player character with animations.
+*   [Godot First Person Camera (⭐45)](https://github.com/tavurth/godot-simple-fps-camera) - A simple FPS starter with jumping, movement, flashlight and a player character with animations.
 
 ## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Emulators
 
 *   ZX Spectrum
-    *   [rustzx/rustzx (⭐175)](https://github.com/rustzx/rustzx) — [![RustZX CI](https://github.com/rustzx/rustzx/actions/workflows/ci.yml/badge.svg)](https://github.com/rustzx/rustzx/actions/workflows/ci.yml)
+    *   [rustzx/rustzx (⭐184)](https://github.com/rustzx/rustzx) — [![RustZX CI](https://github.com/rustzx/rustzx/actions/workflows/ci.yml/badge.svg)](https://github.com/rustzx/rustzx/actions/workflows/ci.yml)
 
 ### Libraries / Authentication
 
-*   [constantoine/totp-rs (⭐76)](https://github.com/constantoine/totp-rs) \[[totp-rs](https://crates.io/crates/totp-rs)] — 2fa library to generate and verify TOTP-based tokens ![Build Status](https://github.com/constantoine/totp-rs/workflows/Rust/badge.svg)
+*   [constantoine/totp-rs (⭐106)](https://github.com/constantoine/totp-rs) \[[totp-rs](https://crates.io/crates/totp-rs)] — 2fa library to generate and verify TOTP-based tokens ![Build Status](https://github.com/constantoine/totp-rs/workflows/Rust/badge.svg)
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### CI and CD
 
-*   [Spacelift](https://spacelift.io/) - Management platform for Infrastructure as Code. Free plan features: IaC collaboration, Terraform module registry, ChatOps integration, Continuous resource compliance with Open Policy Agent, SSO with SAML 2.0 and access to public worker pools: up to 200 minutes/month
+*   [Spacelift](https://spacelift.io/) - Management platform for Infrastructure as Code. Free plan features: IaC collaboration, Terraform module registry, ChatOps integration, Continuous resource compliance with Open Policy Agent, SSO with SAML 2.0, and access to public worker pools: up to 200 minutes/month
 
 ## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Geocoding
 
-- API: [SLF (⭐2)](https://github.com/slftool/slftool.github.io/blob/master/API.md)
+- API: [SLF (⭐5)](https://github.com/slftool/slftool.github.io/blob/master/API.md)
 
   Description: German city, country, river, database
 
@@ -106,15 +106,14 @@
 
 ### Extensions / Community
 
-*   [Search Sync (⭐92)](https://github.com/dimitrov-adrian/directus-extension-searchsync) - Sync data into a search engine index, supports Algolia, ElasticSearch & MeiliSearch.
-*   [Dictionary (⭐26)](https://github.com/georgexchelebiev/directus-dictionary) - Save key-value pairs as JSON blobs with a progress indicator for completeness.
-*   [WordPress-like Slug (⭐66)](https://github.com/dimitrov-adrian/directus-extension-wpslug-interface) - Slug/Permalink interface with support for pre- and suffixes.
-*   [Link Meta (⭐21)](https://github.com/dimitrov-adrian/directus-extension-linkmeta) - Stores hyperlink metadata into Directus.
-*   [Group Modal (⭐41)](https://github.com/dimitrov-adrian/directus-extension-group-modal-interface) - Group interface fields into a modal that can be opened with a button.
-*   [Display Link (⭐44)](https://github.com/jacoborus/directus-extension-display-link) - Display URLs with an "open in new tab" button.
-*   [SQL Panel (⭐17)](https://github.com/harish2704/directus-sql-panel) - Panel component which shows result of stored SQL query as a table.
-*   [Websocket Subscribe (⭐92)](https://github.com/br41nslug/directus-websocket-subscribe) - An extension to subscribe to Directus updates over a websocket.
-*   [SVG Map Picker Interface (⭐23)](https://github.com/dimitrov-adrian/directus-extension-svgmap-picker-interface) - Select a value from a SVG Map box.
+*   [Search Sync (⭐105)](https://github.com/dimitrov-adrian/directus-extension-searchsync) - Sync data into a search engine index, supports Algolia, ElasticSearch & MeiliSearch.
+*   [Dictionary (⭐33)](https://github.com/georgexchelebiev/directus-dictionary) - Save key-value pairs as JSON blobs with a progress indicator for completeness.
+*   [WordPress-like Slug (⭐77)](https://github.com/dimitrov-adrian/directus-extension-wpslug-interface) - Slug/Permalink interface with support for pre- and suffixes.
+*   [Link Meta (⭐24)](https://github.com/dimitrov-adrian/directus-extension-linkmeta) - Stores hyperlink metadata into Directus.
+*   [Group Modal (⭐49)](https://github.com/dimitrov-adrian/directus-extension-group-modal-interface) - Group interface fields into a modal that can be opened with a button.
+*   [Display Link (⭐53)](https://github.com/jacoborus/directus-extension-display-link) - Display URLs with an "open in new tab" button.
+*   [SQL Panel (⭐19)](https://github.com/harish2704/directus-sql-panel) - Panel component which shows result of stored SQL query as a table.
+*   [SVG Map Picker Interface (⭐30)](https://github.com/dimitrov-adrian/directus-extension-svgmap-picker-interface) - Select a value from a SVG Map box.
 
 ## [12. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -176,21 +175,21 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-compression-plugin (⭐46)](https://github.com/XeryYue/vite-compression-plugin) - Use Node.js stream compress file to gzip or more.
+*   [vite-compression-plugin (⭐63)](https://github.com/XeryYue/vite-compression-plugin) - Use Node.js stream compress file to gzip or more.
 
 ## [14. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Internationalisation / Checkbox
 
-*   [svelte-fluent (⭐60)](https://github.com/nubolab-ffwd/svelte-fluent) - Components for easy integration of [Fluent](https://projectfluent.org/) localization.
-*   [svelte-i18n (⭐935)](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte.
-*   [sveltekit-i18n (⭐226)](https://github.com/jarda-svoboda/sveltekit-i18n) - For integrating [i18n](https://www.npmjs.com/package/i18n) style localization in SvelteKit.
+*   [svelte-fluent (⭐69)](https://github.com/nubolab-ffwd/svelte-fluent) - Components for easy integration of [Fluent](https://projectfluent.org/) localization.
+*   [svelte-i18n (⭐1.1k)](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte.
+*   [sveltekit-i18n (⭐330)](https://github.com/jarda-svoboda/sveltekit-i18n) - For integrating [i18n](https://www.npmjs.com/package/i18n) style localization in SvelteKit.
 
 ## [15. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Toolkit
 
-*   [Nussknacker (⭐419)](https://github.com/TouK/nussknacker) \[Scala] - A visual tool to define and run real-time decision algorithms.
+*   [Nussknacker (⭐494)](https://github.com/TouK/nussknacker) \[Scala] - A visual tool to define and run real-time decision algorithms.
 
 ---
 

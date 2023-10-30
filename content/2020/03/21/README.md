@@ -17,34 +17,34 @@
 
 ### UI
 
-*   [Xamarin.Forms.Breadcrumb (⭐141)](https://github.com/IeuanWalker/Xamarin.Forms.Breadcrumb) - A control that automatically generated a breadcrumb control
+*   [Xamarin.Forms.Breadcrumb (⭐143)](https://github.com/IeuanWalker/Xamarin.Forms.Breadcrumb) - A control that automatically generated a breadcrumb control
 *   [SimpleStaticMap (⭐2)](https://github.com/galadril/Xam.Plugin.SimpleStaticMap) - Just a simple static map control based on the Static API of Google Maps for your Xamarin Forms project
 
 ### XPlat APIs
 
-*   [Shiny ★428 (⭐1.2k)](https://github.com/shinyorg/shiny) - A Xamarin Framework for Backgrounding & Device Hardware Services.
+*   [Shiny ★428 (⭐1.3k)](https://github.com/shinyorg/shiny) - A Xamarin Framework for Backgrounding & Device Hardware Services.
 
 ## [3. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
-*   [covplot (⭐17)](https://github.com/jbowens/covplot) - Live graphs of worldwide CoVID-19 data.
+*   [covplot (⭐19)](https://github.com/jbowens/covplot) - Live graphs of worldwide CoVID-19 data.
 
 ## [4. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [DotNet CQRS Intro (⭐138)](https://github.com/asc-lab/dotnet-cqrs-intro) - Examples of implementation CQRS with Event Sourcing - evolutionary approach (no CQRS, separate models and commands with the same model, separate models and commands with separate models, separate storage engines, event sourcing).
+*   [DotNet CQRS Intro (⭐141)](https://github.com/asc-lab/dotnet-cqrs-intro) - Examples of implementation CQRS with Event Sourcing - evolutionary approach (no CQRS, separate models and commands with the same model, separate models and commands with separate models, separate storage engines, event sourcing).
 
 ### Sample Projects / JVM languages
 
-*   [Java CQRS Intro (⭐175)](https://github.com/asc-lab/java-cqrs-intro) - Examples of implementation CQRS with Event Sourcing - evolutionary approach (no CQRS, separate models and commands with the same model, separate models and commands with separate models, separate storage engines, event sourcing).
+*   [Java CQRS Intro (⭐183)](https://github.com/asc-lab/java-cqrs-intro) - Examples of implementation CQRS with Event Sourcing - evolutionary approach (no CQRS, separate models and commands with the same model, separate models and commands with separate models, separate storage engines, event sourcing).
 
 ## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Validation / Runner
 
-*   [Funval (⭐347)](https://github.com/neuledge/funval) - Data validation using functions interfaces (support TypeScript).
+*   [Funval (⭐359)](https://github.com/neuledge/funval) - Data validation using functions interfaces (support TypeScript).
 
 ## [6. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 

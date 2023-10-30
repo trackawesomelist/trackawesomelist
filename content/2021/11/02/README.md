@@ -10,21 +10,20 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue2-gmap-custom-marker (⭐132)](https://github.com/eregnier/vue2-gmap-custom-marker) - Vue google map custom marker component
+*   [vue2-gmap-custom-marker (⭐134)](https://github.com/eregnier/vue2-gmap-custom-marker) - Vue google map custom marker component
 *   [vue-leaflet-custom-marker (⭐3)](https://github.com/eregnier/vue-leaflet-custom-marker) - Vue leaflet for open street map custom marker component
 
 ## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Open Source / Community
 
-*   [îles (⭐964)](https://github.com/ElMassimo/iles) - Islands of Interactivity with Vue3, multi-framework.
+*   [îles (⭐1k)](https://github.com/ElMassimo/iles) - Islands of Interactivity with Vue3, multi-framework.
 
 ## [3. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Books / iOS
 
 *   [Essentials - AIY Voice Projects](https://magpi.raspberrypi.com/books/essentials-aiy-v1) - Using Google's AIY Project Kit, learn how to use artificial intelligence with your Raspberry Pi. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-0.png)
-*   [Essentials - Camera Module Guide](https://magpi.raspberrypi.com/books/essentials_camera_v1) - How to use your Raspberry Pi Foundation's Camera Module with your Raspberry Pi.
 *   [Essentials - Code Music with Sonic Pi](https://magpi.raspberrypi.com/books/essentials-sonic-pi-v1) - Learn how to create music by coding with Sonic Pi on your Raspberry Pi.
 *   [Essentials - Conquer the Command Line (Version 2)](https://magpi.raspberrypi.com/books/command-line-second-edition) - Learn how to command and conquer the command line on the Raspberry Pi using Raspbian, simplify complex tasks while you automate simple ones.
 *   [Essentials - GPIO Zero Electronics](https://magpi.raspberrypi.com/books/essentials-gpio-zero-v1) - Create electronic creations using the GPIO pins and the GPIO Zero library on your Raspberry Pi.
@@ -50,7 +49,7 @@
 
 ### Monitoring
 
-*   [netdata.cloud](https://www.netdata.cloud/) — Netdata is an open source tool designed to collect real-time metrics.Great fast growing product. It can also be found in github!
+*   [netdata.cloud](https://www.netdata.cloud/) — Netdata is an open-source tool to collect real-time metrics. It's a growing product and can also be found on GitHub!
 
 ## [7. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
 
@@ -142,13 +141,13 @@
 
 ### Libs
 
-*   [makallio85/YamlRoute plugin](https://github.com/makallio85/yaml-route) - Configure routes with simple YAML files.
+*   🍰 [makallio85/YamlRoute plugin (⭐6)](https://github.com/makallio85/yaml-route) - Configure routes with simple YAML files.
 
 ## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Game Development
 
-*   [libktx/ktx (⭐1.2k)](https://github.com/libktx/ktx) - Kotlin utilities for LibGDX applications.
+*   [libktx/ktx (⭐1.3k)](https://github.com/libktx/ktx) - Kotlin utilities for LibGDX applications.
 
 ## [10. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 

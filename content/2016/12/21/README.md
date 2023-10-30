@@ -10,13 +10,13 @@
 
 ### Cryptography
 
-*   [Themis (⭐1.7k)](https://github.com/cossacklabs/themis) - crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms. \[Apache2]
+*   [Themis (⭐1.8k)](https://github.com/cossacklabs/themis) - crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms. \[Apache2]
 
 ## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Functional programming
 
-*   [Optional (⭐817)](https://github.com/nlkl/Optional) - A robust option type for C#
+*   [Optional (⭐846)](https://github.com/nlkl/Optional) - A robust option type for C#
 
 ## [3. Awesome Json](/content/burningtree/awesome-json/README.md)
 
@@ -36,12 +36,12 @@
 
 ### Web frameworks / Clack plugins
 
-*   [Caveman (⭐740)](https://github.com/fukamachi/caveman) - A powerful web framework. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [Caveman (⭐749)](https://github.com/fukamachi/caveman) - A powerful web framework. [LLGPL](http://opensource.franz.com/preamble.html).
     Example projects: [Quickdocs](https://github.com/quickdocs)
 
 ### Javascript / Isomorphic web frameworks
 
-*   [JSCL (⭐824)](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
+*   [JSCL (⭐849)](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
 
 ## [5. Amas](/content/sindresorhus/amas/README.md)
 
@@ -74,14 +74,14 @@
 
 ### CSS Regression Testing / Dart
 
-*   [WebdriverCSS (⭐626)](https://github.com/webdriverio/webdrivercss) - Regression testing tool for [WebdriverIO](http://webdriver.io) (currently deprecated, please use [wdio-screenshot](https://www.npmjs.com/package/wdio-screenshot) for the time being).
+*   [WebdriverCSS (⭐622)](https://github.com/webdriverio/webdrivercss) - Regression testing tool for [WebdriverIO](http://webdriver.io) (currently deprecated, please use [wdio-screenshot](https://www.npmjs.com/package/wdio-screenshot) for the time being).
 
 ### Driver / Desktop (browsers)
 
-*   [Firefox (⭐25k)](https://github.com/SeleniumHQ/selenium/wiki/FirefoxDriver) - Firefox driver (for FF < v48) is included in the selenium-server-standalone.jar available in the downloads.
-*   [Geckodriver (⭐6.2k)](https://github.com/mozilla/geckodriver) - Firefox driver (for FF > v48), supported with Selenium >= v3
+*   [Firefox (⭐27k)](https://github.com/SeleniumHQ/selenium/wiki/FirefoxDriver) - Firefox driver (for FF < v48) is included in the selenium-server-standalone.jar available in the downloads.
+*   [Geckodriver (⭐6.7k)](https://github.com/mozilla/geckodriver) - Firefox driver (for FF > v48), supported with Selenium >= v3
 *   [Edgedriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) - Microsoft Webdriver server for Edge
-*   [Safari (⭐25k)](https://github.com/SeleniumHQ/selenium/wiki/SafariDriver) - The SafariDriver is implemented as a Safari browser extension. The driver inverts the traditional client/server relationship and communicates with the WebDriver client using WebSockets (only supported for Safari <= v9, all new Safari version comming with macOS Sierra come with an integrated SafariDriver that is closed source by Apple).
+*   [Safari (⭐27k)](https://github.com/SeleniumHQ/selenium/wiki/SafariDriver) - The SafariDriver is implemented as a Safari browser extension. The driver inverts the traditional client/server relationship and communicates with the WebDriver client using WebSockets (only supported for Safari <= v9, all new Safari version comming with macOS Sierra come with an integrated SafariDriver that is closed source by Apple).
 
 ## [7. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -111,7 +111,7 @@
 
 ### Samples
 
-*   [Vulkan-Forward-Plus-Renderer (⭐610)](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer) - VFPR - a Vulkan Forward Plus Renderer. \[MIT]
+*   [Vulkan-Forward-Plus-Renderer (⭐628)](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer) - VFPR - a Vulkan Forward Plus Renderer. \[MIT]
 
 ---
 

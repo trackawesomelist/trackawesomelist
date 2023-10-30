@@ -10,7 +10,7 @@
 
 ### Software / Web Applications
 
-*   [Inventaire](https://inventaire.io/welcome) - Share books with friends and communities. ([GNU AGPLv3 (⭐351)](https://github.com/inventaire/inventaire/blob/master/LICENSE.md))
+*   [Inventaire](https://inventaire.io/welcome) - Share books with friends and communities. ([GNU AGPLv3 (⭐386)](https://github.com/inventaire/inventaire/blob/master/LICENSE.md))
 
 ## [2. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
 
@@ -23,7 +23,7 @@
 
 ### Libraries / JavaScript
 
-*   [CASL Mongoose (⭐4.7k)](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
+*   [CASL Mongoose (⭐5.2k)](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
 
 ## [4. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
@@ -61,11 +61,11 @@
 
 ### Image / Backend-Driven
 
-*   [Image Cropper (⭐889)](https://github.com/hnvn/flutter_image_cropper) <!--stargazers:hnvn/flutter_image_cropper--> - Crop your images support ratio, rotation, zoom by [HungHD](https://github.com/hnvn)
+*   [Image Cropper (⭐924)](https://github.com/hnvn/flutter_image_cropper) <!--stargazers:hnvn/flutter_image_cropper--> - Crop your images support ratio, rotation, zoom by [HungHD](https://github.com/hnvn)
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [SpinKit (⭐2.7k)](https://github.com/jogboms/flutter_spinkit) <!--stargazers:jogboms/flutter_spinkit--> - Animated loading indicators by [Jeremiah Ogbomo](https://twitter.com/jogboms)
+*   [SpinKit (⭐2.8k)](https://github.com/jogboms/flutter_spinkit) <!--stargazers:jogboms/flutter_spinkit--> - Animated loading indicators by [Jeremiah Ogbomo](https://twitter.com/jogboms)
 
 ---
 

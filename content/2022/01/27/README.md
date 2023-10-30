@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 27, 2022
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,11 +20,11 @@
 
 ### Community Extensions
 
-*   [Keycloak Metrics SPI (⭐416)](https://github.com/aerogear/keycloak-metrics-spi)
+*   [Keycloak Metrics SPI (⭐453)](https://github.com/aerogear/keycloak-metrics-spi)
 
 ### Themes
 
-*   [Keywind: Component-based theme built with Tailwind CSS (⭐332)](https://github.com/lukin/keywind)
+*   [Keywind: Component-based theme built with Tailwind CSS (⭐477)](https://github.com/lukin/keywind)
 
 ### Commercial Offerings
 
@@ -63,7 +63,7 @@
 
 ### Wrappers
 
-*   [lmdb (⭐38)](https://github.com/antimer/lmdb) - Bindings to [LMDB](http://www.lmdb.tech/doc/), the Lightning Memory-mapped Database, an ACID key-value database with MultiVersion Concurrency Control.
+*   [lmdb (⭐40)](https://github.com/antimer/lmdb) - Bindings to [LMDB](http://www.lmdb.tech/doc/), the Lightning Memory-mapped Database, an ACID key-value database with MultiVersion Concurrency Control.
 
 ### Miscellaneous
 
@@ -72,16 +72,16 @@
 
 ### Community / Interfaces to other package managers
 
-*   [MGL (⭐517)](https://github.com/melisgl/mgl) - a machine learning library for backpropagation neural networks, boltzmann machines, gaussian processes and more. [MIT](https://opensource.org/licenses/MIT).
+*   [MGL (⭐551)](https://github.com/melisgl/mgl) - a machine learning library for backpropagation neural networks, boltzmann machines, gaussian processes and more. [MIT](https://opensource.org/licenses/MIT).
     *   some parts originally contributed by Ravenpack International.
-    *   used by its [author](https://github.com/melisgl) to [win (⭐128)](https://github.com/melisgl/higgsml) the Higgs Boson Machine Learning Challenge.
+    *   used by its [author](https://github.com/melisgl) to [win (⭐129)](https://github.com/melisgl/higgsml) the Higgs Boson Machine Learning Challenge.
     *   more about the author: he also won the Google [AI Challenge](https://en.wikipedia.org/wiki/AI_Challenge) in 2010 using Common Lisp, but without MGL, as no machine learning was needed. A [related talk](https://www.youtube.com/watch?v=7sgERtZkycU) (59', 2013).
 
 ## [8. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Network Tools / Network Reconnaissance Tools
 
-*   [netdiscover (⭐153)](https://github.com/netdiscover-scanner/netdiscover) - Network address discovery scanner, based on ARP sweeps, developed mainly for those wireless networks without a DHCP server.
+*   [netdiscover (⭐195)](https://github.com/netdiscover-scanner/netdiscover) - Network address discovery scanner, based on ARP sweeps, developed mainly for those wireless networks without a DHCP server.
 
 ### Network Vulnerability Scanners / Web Vulnerability Scanners
 
@@ -89,7 +89,7 @@
 
 ### Web Exploitation / Social Engineering Tools
 
-*   [gobuster (⭐7k)](https://github.com/OJ/gobuster) - Lean multipurpose brute force search/fuzzing tool for Web (and DNS) reconnaissance.
+*   [gobuster (⭐8.3k)](https://github.com/OJ/gobuster) - Lean multipurpose brute force search/fuzzing tool for Web (and DNS) reconnaissance.
 
 ## [9. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -102,24 +102,18 @@
 
 *   [algovanity](https://algovanity.com/) - Algorand Vanity Address Generator from [Ripe (⭐14)](https://github.com/Ripe/algovanity).
 
-## [10. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
-
-### 0 - 言語非依存 / 機械学習
-
-*   [機械学習帳](https://chokkan.github.io/mlnote) - 岡崎直観 (Naoaki Okazaki)
-
-## [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Image Synthesis / Promptism
 
 *   [disco-diffusion/Local\_Disco\_Diffusion\_v4\_1.ipynb at main · Midgraph/disco-diffusion](https://github.com/Midgraph/disco-diffusion/blob/main/Local_Disco_Diffusion_v4_1.ipynb)
 
-## [12. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+## [11. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### GUI
 
-*   [Snektron/vulkan-zig (⭐243)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator.
-*   [Avokadoen/zig\_vulkan (⭐36)](https://github.com/Avokadoen/zig_vulkan) - Toy renderer using Vulkan and GLFW.
+*   [Snektron/vulkan-zig (⭐301)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator.
+*   [Avokadoen/zig\_vulkan (⭐40)](https://github.com/Avokadoen/zig_vulkan) - Toy renderer using Vulkan and GLFW.
 
 ---
 

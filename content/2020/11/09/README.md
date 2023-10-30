@@ -26,7 +26,7 @@
 
 ## [4. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Additional resources / Screeb
+### Additional resources / Obsidian
 
 *   [Mobbin](https://mobbin.design/) - Hand-picked collection of mobile app design patterns.
 
@@ -48,7 +48,7 @@
 
 ### Third-Party Packages / Forms
 
-*   [django-formtools (⭐655)](https://github.com/jazzband/django-formtools) - For form previous and multi-step forms, previously part of Django until 1.8.
+*   [django-formtools (⭐701)](https://github.com/jazzband/django-formtools) - For form previous and multi-step forms, previously part of Django until 1.8.
 
 ## [8. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Plugins / Misc
 
-*   [Woke (⭐25)](https://github.com/amwmedia/eslint-plugin-woke) - Helps catch insensitive words, promoting an inclusive codebase.
+*   [Woke (⭐27)](https://github.com/amwmedia/eslint-plugin-woke) - Helps catch insensitive words, promoting an inclusive codebase.
 
 ## [11. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -74,7 +74,7 @@
 
 *   [Wardley Maps for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=damonsk.vscode-wardley-maps) - Render and edit Wardley maps within Visual Studio Code. This VSCode extention leverages the engine from OnlineWardleyMaps.com. Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
 
-### Templates / Commercial Enterprise Platforms
+### Templates / Development
 
 *   [Wardley Mapping Tools and Techniques](https://hiredthought.com/2017/10/11/wardley-mapping-tools-and-techniques/) - A semi-serious reflection on the problem space of tools for mapping, and an overview of all sorts of mapping tools and techniques.
 
@@ -100,20 +100,20 @@
 
 ### Individual components / CSS
 
-*   [BlazorAnimation (⭐89)](https://github.com/aboudoux/BlazorAnimation) - ![stars](https://img.shields.io/github/stars/aboudoux/BlazorAnimation?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aboudoux/BlazorAnimation?style=flat-square\&cacheSeconds=86400) A Blazor component based on animate.css to easly animate your content. [Demo](http://blazoranimation.boudoux.fr/).
+*   [BlazorAnimation (⭐110)](https://github.com/aboudoux/BlazorAnimation) - ![stars](https://img.shields.io/github/stars/aboudoux/BlazorAnimation?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aboudoux/BlazorAnimation?style=flat-square\&cacheSeconds=86400) A Blazor component based on animate.css to easly animate your content. [Demo](http://blazoranimation.boudoux.fr/).
 
 ## [13. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Server-side (Cloud Functions, BigQuery etc) / iOS
 
-*   💡 [Express Server on Cloud Functions (⭐636)](https://github.com/jthegedus/firebase-gcp-examples/tree/main/functions-express) - Host an Express server on Cloud Functions.
-*   💡 [Compiled Code with Cloud Functions (⭐636)](https://github.com/jthegedus/firebase-gcp-examples/tree/main/functions-w-parcel) - Compile your Flow, TypeScript or ReasonML to the correct Node runtime using Babel, TypeScript Compiler or ParcelJS.
+*   💡 [Express Server on Cloud Functions (⭐646)](https://github.com/jthegedus/firebase-gcp-examples/tree/main/functions-express) - Host an Express server on Cloud Functions.
+*   💡 [Compiled Code with Cloud Functions (⭐646)](https://github.com/jthegedus/firebase-gcp-examples/tree/main/functions-w-parcel) - Compile your Flow, TypeScript or ReasonML to the correct Node runtime using Babel, TypeScript Compiler or ParcelJS.
 
 ## [14. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Apps
 
-*   [IPGit (⭐57)](https://github.com/meyer1994/ipgit) - Remote Git repository that mirrors your code to IPFS
+*   [IPGit (⭐67)](https://github.com/meyer1994/ipgit) - Remote Git repository that mirrors your code to IPFS
 
 ## [15. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [ishan9299/modus-theme-vim (⭐132)](https://github.com/ishan9299/modus-theme-vim) - This is a color scheme developed by Protesilaos Stavrou for emacs.
+*   [ishan9299/modus-theme-vim (⭐145)](https://github.com/ishan9299/modus-theme-vim) - This is a color scheme developed by Protesilaos Stavrou for emacs.
 
 ## [3. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -34,11 +34,7 @@
 
 ### Themes
 
-*   [dracula/tmux (⭐439)](https://github.com/dracula/tmux) 🧛🏻‍♂️ The official [dracula theme](https://draculatheme.com/) for tmux
-
-### Plugins
-
-*   [tmux-notify (⭐82)](https://github.com/ChanderG/tmux-notify) A plugin to notify you when processes complete.
+*   [dracula/tmux (⭐513)](https://github.com/dracula/tmux) 🧛🏻‍♂️ The official [dracula theme](https://draculatheme.com/) for tmux
 
 ## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -60,20 +56,20 @@
 
 ### BaaS
 
-*   [restspace.io](https://restspace.io/) - Configure a server with services for auth, data, files, email API, templates etc, then compose into pipelines and transform data.
+*   [restspace.io](https://restspace.io/) - Configure a server with services for auth, data, files, email API, templates, and more, then compose into pipelines and transform data.
 
 ## [9. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Neural Natural Language Generation
 
-*   [PaperRobot: Incremental Draft Generation of Scientific Ideas (⭐457)](https://github.com/EagleW/PaperRobot) - We present a PaperRobot who performs as an automatic research assistant.
-*   [Question Generation using hugstransformers (⭐897)](https://github.com/patil-suraj/question_generation) - Question generation is the task of automatically generating questions from a text paragraph.
+*   [PaperRobot: Incremental Draft Generation of Scientific Ideas (⭐468)](https://github.com/EagleW/PaperRobot) - We present a PaperRobot who performs as an automatic research assistant.
+*   [Question Generation using hugstransformers (⭐981)](https://github.com/patil-suraj/question_generation) - Question generation is the task of automatically generating questions from a text paragraph.
 
 ## [10. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Libraries
 
-*   [Simple IO (⭐26)](https://github.com/Lysxia/coq-simple-io) - Input/output monad with user-definable primitive operations.
+*   [Simple IO (⭐27)](https://github.com/Lysxia/coq-simple-io) - Input/output monad with user-definable primitive operations.
 
 ### Projects / Package and Build Management
 
@@ -81,14 +77,14 @@
 
 ### Projects / Tools
 
-*   [hs-to-coq (⭐69)](https://github.com/plclub/hs-to-coq) - Converter from Haskell code to equivalent Coq code.
-*   [Roosterize (⭐14)](https://github.com/EngineeringSoftware/roosterize) - Tool for suggesting lemma names in Coq projects.
+*   [hs-to-coq (⭐70)](https://github.com/plclub/hs-to-coq) - Converter from Haskell code to equivalent Coq code.
+*   [Roosterize (⭐15)](https://github.com/EngineeringSoftware/roosterize) - Tool for suggesting lemma names in Coq projects.
 
 ## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### C / General-Purpose Machine Learning
 
-*   [libonnx (⭐483)](https://github.com/xboot/libonnx) - A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
+*   [libonnx (⭐503)](https://github.com/xboot/libonnx) - A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
 
 ## [12. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 

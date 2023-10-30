@@ -10,7 +10,7 @@
 
 ### Configuration
 
-*   [confex (⭐297)](https://github.com/Nebo15/confex) - Helper module that provides a nice way to read environment configuration at runtime.
+*   [confex (⭐295)](https://github.com/Nebo15/confex) - Helper module that provides a nice way to read environment configuration at runtime.
 
 ### Cryptography
 
@@ -18,15 +18,15 @@
 
 ### Deployment
 
-*   [ansible-elixir-stack (⭐293)](https://github.com/HashNuke/ansible-elixir-stack) - 1-command setup & deploys to servers, with first-class support for Phoenix apps.
-*   [bottler (⭐38)](https://github.com/rubencaro/bottler) - Bottler is a collection of tools that aims to help you generate releases, ship them to your servers, install them there, and get them live on production.
+*   [ansible-elixir-stack (⭐294)](https://github.com/HashNuke/ansible-elixir-stack) - 1-command setup & deploys to servers, with first-class support for Phoenix apps.
+*   [bottler (⭐39)](https://github.com/rubencaro/bottler) - Bottler is a collection of tools that aims to help you generate releases, ship them to your servers, install them there, and get them live on production.
 *   [edeliver (⭐2k)](https://github.com/boldpoker/edeliver) - Deployment for Elixir and Erlang.
-*   [exdm (⭐11)](https://github.com/joeyates/exdm) - Deploy Elixir applications via mix tasks.
-*   [heroku-buildpack-elixir (⭐798)](https://github.com/HashNuke/heroku-buildpack-elixir) - Heroku buildpack to deploy Elixir apps to Heroku.
+*   [exdm (⭐12)](https://github.com/joeyates/exdm) - Deploy Elixir applications via mix tasks.
+*   [heroku-buildpack-elixir (⭐800)](https://github.com/HashNuke/heroku-buildpack-elixir) - Heroku buildpack to deploy Elixir apps to Heroku.
 
 ### Video
 
-*   [silent\_video (⭐16)](https://github.com/talklittle/silent_video) - Convert GIFs and videos to silent videos, optimized for mobile playback.
+*   [silent\_video (⭐19)](https://github.com/talklittle/silent_video) - Convert GIFs and videos to silent videos, optimized for mobile playback.
 
 ## [2. Github Cheat Sheet](/content/tiimgreen/github-cheat-sheet/README.md)
 

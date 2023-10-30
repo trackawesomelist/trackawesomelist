@@ -10,7 +10,6 @@
 
 ### Forth / Phoenix
 
-*   [Programming Forth](http://www.mpeforth.com/arena/ProgramForth.pdf) (PDF)
 *   [Starting Forth](http://home.iae.nl/users/mhx/sf.html)
 
 ---

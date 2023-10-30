@@ -23,25 +23,25 @@
 
 ### TensorFlow / General-Purpose Machine Learning
 
-*   [Awesome Keras (⭐10)](https://github.com/markusschanta/awesome-keras) - A curated list of awesome Keras projects, libraries and resources.
+*   [Awesome Keras (⭐12)](https://github.com/markusschanta/awesome-keras) - A curated list of awesome Keras projects, libraries and resources.
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Databases Implemented in Go
 
-*   [dolt (⭐15k)](https://github.com/dolthub/dolt) - Dolt – It's Git for Data.
+*   [dolt (⭐16k)](https://github.com/dolthub/dolt) - Dolt – It's Git for Data.
 
 ## [5. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### Zig development tools / HTTP
 
-*   [korandoru/setup-zig (⭐6)](https://github.com/korandoru/setup-zig) - Set up a specific version of Zig environment on GitHub Actions.
+*   [korandoru/setup-zig (⭐9)](https://github.com/korandoru/setup-zig) - Set up a specific version of Zig environment on GitHub Actions.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Design and UI
 
-*   [okso.app](https://okso.app) - Minimalistic online drawing app. Allows creating fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed).
+*   [okso.app](https://okso.app) - Minimalistic online drawing app. Allows to create fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed).
 
 ## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -62,10 +62,6 @@
 *   [Chart.js](http://www.chartjs.org) - a javascript library that allows you to create charts easly
 *   [D3js](https://d3js.org) - is a powerful data visualization javascript library.
 
-### Communication Tools / Telegram
-
-*   [Telegram](https://telegram.org) - is a secure and fast cloud-based mobile and desktop messaging platform.
-
 ### Social Network Analysis / Telegram
 
 *   [Gephi](https://gephi.org) - is an open-source graph and network visualization software.
@@ -84,7 +80,7 @@
 
 ### Compression
 
-*   [bzip3 (⭐545)](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2. \[LGPL]
+*   [bzip3 (⭐576)](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2. \[LGPL]
 
 ## [10. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [BentoML (⭐4.9k)](https://github.com/bentoml/bentoml): Toolkit for package and deploy machine learning models for serving in production
+*   [BentoML (⭐5.6k)](https://github.com/bentoml/bentoml): Toolkit for package and deploy machine learning models for serving in production
 
 ## [3. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
@@ -114,7 +114,7 @@
 
 ### Extensions
 
-*   [Next UserAgent (⭐326)](https://github.com/tokuda109/next-useragent) - UserAgent parser for Next.js
+*   [Next UserAgent (⭐325)](https://github.com/tokuda109/next-useragent) - UserAgent parser for Next.js
 
 ## [11. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
 

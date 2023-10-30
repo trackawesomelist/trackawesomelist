@@ -10,7 +10,7 @@
 
 ### Color Palettes / Web App
 
-*   [Color Name List (⭐1.9k)](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
+*   [Color Name List (⭐2.2k)](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
 
 ## [2. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
@@ -55,8 +55,8 @@
     [Repo (⭐1.4k)](https://github.com/nathansmith/unsemantic)
 *   [**Centurion**](https://www.centurionframework.com) - Web-based framework for rapid prototyping and building larger web projects.\
     ![](https://img.shields.io/github/stars/justinhough/Centurion.svg?style=social\&label=Star)
-    [Docs (⭐326)](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
-    [Repo (⭐326)](https://github.com/justinhough/Centurion)
+    [Docs (⭐327)](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
+    [Repo (⭐327)](https://github.com/justinhough/Centurion)
 
 ## [8. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 

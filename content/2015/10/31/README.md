@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 31, 2015
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Cloud Infrastructure and Management
 
-*   [IElixir (⭐343)](https://github.com/pprzetacznik/IElixir) - Jupyter's kernel for Elixir programming language.
+*   [IElixir (⭐347)](https://github.com/pprzetacznik/IElixir) - Jupyter's kernel for Elixir programming language.
 
 ## [3. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)
 
@@ -62,6 +62,12 @@
 ### Featured Projects / Slides and Notes
 
 *   [Flexbox tester](http://madebymike.com.au/demos/flexbox-tester/) - Understand how to calculate the width of flex items.
+
+## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Java / Wicket
+
+*   [Official Free Online Guide for Apache Wicket framework](http://wicket.apache.org/learn/#guide)
 
 ---
 

@@ -14,7 +14,7 @@
 
 ## [2. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
-### VSCode / Angular
+### VSCode / Svelte
 
 *   [vscode.email](https://vscode.email/). A Newsletter for News and Tips on VS Code & IDEs.
 
@@ -44,13 +44,13 @@
 
 ### Software / VPN
 
-*   [Headscale (⭐13k)](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools.
+*   [Headscale (⭐15k)](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools. `BSD-3-Clause` `Go`
 
 ## [7. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Status Bar
 
-*   [tmux-plugin-playerctl (⭐8)](https://github.com/richin13/tmux-plugin-playerctl) Display [MPRIS](https://www.freedesktop.org/wiki/Specifications/mpris-spec/) metadata in Tmux (Spotify, Clementine, VLC, etc)
+*   [tmux-plugin-playerctl (⭐10)](https://github.com/richin13/tmux-plugin-playerctl) Display [MPRIS](https://www.freedesktop.org/wiki/Specifications/mpris-spec/) metadata in Tmux (Spotify, Clementine, VLC, etc)
 
 ## [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -70,27 +70,27 @@
 
 ### Packages / Driver layer
 
-*   [odrive\_ros2\_control (⭐161)](https://github.com/Factor-Robotics/odrive_ros2_control) - ODrive driver for ros2\_control.
+*   [odrive\_ros2\_control (⭐188)](https://github.com/Factor-Robotics/odrive_ros2_control) - ODrive driver for ros2\_control.
 
 ## [10. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Editors / Mobile Editors
 
-*   [StreetComplete (⭐3.1k)](https://github.com/westnordost/StreetComplete) - App for improving OSM by answering simple questions. ([Android](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete) / [Wiki](https://wiki.openstreetmap.org/wiki/StreetComplete))
-*   [Vespucci](https://vespucci.io/) - Advanced full-data-model editor for Android. ([Android](https://play.google.com/store/apps/details?id=de.blau.android) / [Source Code (⭐289)](https://github.com/MarcusWolschon/osmeditor4android) / [Wiki](https://wiki.openstreetmap.org/wiki/Vespucci))
-*   [OSM Go! (⭐81)](https://github.com/DoFabien/OsmGo) - OSM Go! is an Android application and a Progressive Web Applications (PWA) for contributing to OpenStreetMap. ([Android](https://play.google.com/store/apps/details?id=fr.dogeo.osmgo) / [WebApp](https://osmgo.com/#/main) / [Source Code (⭐81)](https://github.com/DoFabien/OsmGo) / [Wiki](https://wiki.openstreetmap.org/wiki/Osm_Go!))
+*   [StreetComplete (⭐3.4k)](https://github.com/westnordost/StreetComplete) - App for improving OSM by answering simple questions. ([Android](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete) / [Wiki](https://wiki.openstreetmap.org/wiki/StreetComplete))
+*   [Vespucci](https://vespucci.io/) - Advanced full-data-model editor for Android. ([Android](https://play.google.com/store/apps/details?id=de.blau.android) / [Source Code (⭐322)](https://github.com/MarcusWolschon/osmeditor4android) / [Wiki](https://wiki.openstreetmap.org/wiki/Vespucci))
+*   [OSM Go! (⭐96)](https://github.com/DoFabien/OsmGo) - OSM Go! is an Android application and a Progressive Web Applications (PWA) for contributing to OpenStreetMap. ([Android](https://play.google.com/store/apps/details?id=fr.dogeo.osmgo) / [WebApp](https://osmgo.com/#/main) / [Source Code (⭐96)](https://github.com/DoFabien/OsmGo) / [Wiki](https://wiki.openstreetmap.org/wiki/Osm_Go!))
 
 ## [11. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue3-easy-data-table (⭐341)](https://github.com/HC200ok/vue3-easy-data-table) - A easy-to-use data table component made with Vue.js 3.x, referring to the API and UI of data table component in Vuetify 2.
-*   [vountdown (⭐1)](https://github.com/logustra/vountdown) - A minimalist countdown component
+*   [vue3-easy-data-table (⭐443)](https://github.com/HC200ok/vue3-easy-data-table) - A easy-to-use data table component made with Vue.js 3.x, referring to the API and UI of data table component in Vuetify 2.
+*   [vountdown (⭐2)](https://github.com/logustra/vountdown) - A minimalist countdown component
 *   [vinscroll (⭐2)](https://github.com/logustra/vinscroll) - A minimalist infinite scroll component
 
 ### Components & Libraries / Utilities
 
-*   [excel-to-json (⭐8)](https://github.com/Aaronlamz/excel-to-json) -  A easy tool is created to convert Excel to JSON for i18n.
+*   [excel-to-json (⭐9)](https://github.com/Aaronlamz/excel-to-json) -  A easy tool is created to convert Excel to JSON for i18n.
 
 ## [12. Awesome Qr Code](/content/make-github-pseudonymous-again/awesome-qr-code/week/README.md)
 
@@ -117,13 +117,7 @@
 
 *   [The Elisabeth Bruyère School of Social Innovation](https://innovationsocialeusp.ca/en/school) - Canada's first school of social innovation.
 
-## [16. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/week/README.md)
-
-### Word Processors
-
-*   [Marktext (⭐37k)](https://github.com/marktext/marktext) - Markdown text editor.
-
-## [17. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [16. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Manuals and Ephemera / Manuals
 
@@ -134,13 +128,13 @@
 
 *   [Auerbach On Digital Plotters And Image Digitizers (1972)](https://archive.org/details/auerbachondigitalplottersandimagedigitizers) - A book about plotters and digitizers.
 
-## [18. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [17. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Books / Hash functions
 
 *   [Applied Cryptography: Protocols, Algorithms and Source Code in C](https://www.wiley.com/en-ie/Applied+Cryptography%3A+Protocols%2C+Algorithms+and+Source+Code+in+C%2C+20th+Anniversary+Edition-p-9781119439028) - This cryptography classic provides you with a comprehensive survey of modern cryptography.
 
-## [19. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [18. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Training/Documentation
 
@@ -149,9 +143,7 @@
     *   [Wikipedia's List of Web Archiving Initiatives](https://en.wikipedia.org/wiki/List_of_Web_archiving_initiatives)
     *   [Glossary of Archive-It and Web Archiving Terms](https://support.archive-it.org/hc/en-us/articles/208111686-Glossary-of-Archive-It-and-Web-Archiving-Terms)
     *   [The Web Archiving Lifecycle Model](https://archive-it.org/blog/post/announcing-the-web-archiving-life-cycle-model/) - The Web Archiving Lifecycle Model is an attempt to incorporate the technological and programmatic arms of the web archiving into a framework that will be relevant to any organization seeking to archive content from the web. Archive-It, the web archiving service from the Internet Archive, developed the model based on its work with memory institutions around the world.
-    *   [Training materials: module for beginners (8 sessions)](https://netpreserve.org/web-archiving/training-materials/)
-    *   [UNT Web Archiving Course 2022 (⭐14)](https://github.com/vphill/web-archiving-course)
-    *   [Continuing Education to Advance Web Archiving (CEDWARC)](https://cedwarc.github.io/)
+    *   [Retrieving and Archiving Information from Websites by Wael Eskandar and Brad Murray](https://kit.exposingtheinvisible.org/en/web-archive.html/)
 
 ### Tools & Software / WARC I/O Libraries
 
@@ -159,73 +151,79 @@
 
 ### Tools & Software / Analysis
 
-*   [Archives Research Compute Hub (⭐5)](https://github.com/internetarchive/arch) - Web application for distributed compute analysis of Archive-It web archive collections. *(Stable)*
+*   [Archives Research Compute Hub (⭐11)](https://github.com/internetarchive/arch) - Web application for distributed compute analysis of Archive-It web archive collections. *(Stable)*
 
-## [20. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [19. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
-*   [terramate (⭐1.4k)](https://github.com/mineiros-io/terramate) - Tool for managing multiple Terraform stacks that comes with support for change detection and code generation
+*   [terramate (⭐2.6k)](https://github.com/mineiros-io/terramate) - Tool for managing multiple Terraform stacks that comes with support for change detection and code generation
 
-## [21. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [20. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Database
 
-*   [pm-dev/kotlin-gremlin-ogm (⭐30)](https://github.com/pm-dev/kotlin-gremlin-ogm) - Kotlin-gremlin-ogm is a type-safe object/graph mapping library for Gremlin enabled graph databases.
+*   [pm-dev/kotlin-gremlin-ogm (⭐31)](https://github.com/pm-dev/kotlin-gremlin-ogm) - Kotlin-gremlin-ogm is a type-safe object/graph mapping library for Gremlin enabled graph databases.
 
 ### Libraries/Frameworks / Tools
 
 *   [L-Briand/TT (⭐1)](https://github.com/L-Briand/TT) - A powerful key:value template processor.
-*   [saveourtool/diktat (⭐438)](https://github.com/saveourtool/diktat) - Strict coding standard for Kotlin and a custom set of rules for detecting and autofixing code smells.
-*   [SonarSource/sonarlint-intellij (⭐530)](https://github.com/SonarSource/sonarlint-intellij) - An IDE extension that helps you detect and fix quality issues as you write code.
-*   [Kotlin/kotlin-interactive-shell (⭐548)](https://github.com/Kotlin/kotlin-interactive-shell) - Kotlin Language Interactive Shell
+*   [saveourtool/diktat (⭐461)](https://github.com/saveourtool/diktat) - Strict coding standard for Kotlin and a custom set of rules for detecting and autofixing code smells.
+*   [SonarSource/sonarlint-intellij (⭐556)](https://github.com/SonarSource/sonarlint-intellij) - An IDE extension that helps you detect and fix quality issues as you write code.
+*   [Kotlin/kotlin-interactive-shell (⭐564)](https://github.com/Kotlin/kotlin-interactive-shell) - Kotlin Language Interactive Shell
 
 ### Libraries/Frameworks / Misc
 
 *   [mobiletoly/urlsome (⭐4)](https://github.com/mobiletoly/urlsome) - URL builder library for Kotlin
-*   [kotlin-telegram-bot/kotlin-telegram-bot (⭐670)](https://github.com/kotlin-telegram-bot/kotlin-telegram-bot) - A wrapper for the Telegram Bot API written in Kotlin.
+*   [kotlin-telegram-bot/kotlin-telegram-bot (⭐718)](https://github.com/kotlin-telegram-bot/kotlin-telegram-bot) - A wrapper for the Telegram Bot API written in Kotlin.
 
 ### Android / Frameworks
 
-*   [codenameone/CodenameOne (⭐1.5k)](https://github.com/codenameone/CodenameOne) - Open source cross platform mobile development framework that offers write once run anywhere native development for iOS (iPhone/iPad), Android, Windows & more using Kotlin & Java
+*   [codenameone/CodenameOne (⭐1.6k)](https://github.com/codenameone/CodenameOne) - Open source cross platform mobile development framework that offers write once run anywhere native development for iOS (iPhone/iPad), Android, Windows & more using Kotlin & Java
 
-## [22. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [21. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Cloud Services / SaaS / Tutorials & Demo
 
 *   [Perforce BlazeMeter](https://www.blazemeter.com/) - Performance engineering platform with JMeter and Selenium support.
 
-## [23. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [22. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Machine Learning
 
-*   [ONNX runtime (⭐9.3k)](https://github.com/microsoft/onnxruntime) - C and C++ library for training and inference ONNX models. ONNX is a standard that AI models can be converted into, regardless of the library they are trained with. \[MIT] [website](https://onnxruntime.ai/)
+*   [ONNX runtime (⭐11k)](https://github.com/microsoft/onnxruntime) - C and C++ library for training and inference ONNX models. ONNX is a standard that AI models can be converted into, regardless of the library they are trained with. \[MIT] [website](https://onnxruntime.ai/)
 
-## [24. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [23. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Tutorials / Other Tools
 
 *   [Multitenancy with FastAPI, SQLAlchemy and PostgreSQL](https://mergeboard.com/blog/6-multitenancy-fastapi-sqlalchemy-postgresql/) - Learn how to make FastAPI applications multi-tenant ready.
 
+## [24. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Standard ML / Play Scala
+
+*   [The Standard ML Basis Library](https://smlfamily.github.io/Basis/index.html) - Emden R. Gansner, John H. Reppy (HTML)
+
 ## [25. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Developer
 
-*   [JetBrains (⭐579)](https://github.com/bchatard/alfred-jetbrains) - Open project with one of JetBrains' products.
+*   [JetBrains (⭐596)](https://github.com/bchatard/alfred-jetbrains) - Open project with one of JetBrains' products.
 
 ## [26. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Patterns
 
-*   [SwiftUI Atom Properties (⭐206)](https://github.com/ra1028/swiftui-atom-properties) - A Reactive Data-Binding and Dependency Injection Library for SwiftUI x Concurrency.
+*   [SwiftUI Atom Properties (⭐228)](https://github.com/ra1028/swiftui-atom-properties) - A Reactive Data-Binding and Dependency Injection Library for SwiftUI x Concurrency.
 
 ### Keyboard / Barcode
 
-*   [ISEmojiView (⭐458)](https://github.com/isaced/ISEmojiView) - Emoji Keyboard for iOS
+*   [ISEmojiView (⭐487)](https://github.com/isaced/ISEmojiView) - Emoji Keyboard for iOS
 
 ### Tab / Barcode
 
-*   [TabBar (⭐203)](https://github.com/onl1ner/TabBar) - Highly customizable tab bar for SwiftUI applications.
+*   [TabBar (⭐296)](https://github.com/onl1ner/TabBar) - Highly customizable tab bar for SwiftUI applications.
 
 ## [27. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -259,7 +257,7 @@
 
 ### GUI
 
-*   [Malewicz (⭐50)](https://github.com/mgramin/malewicz) - Yet Another WEB client for DB schema exploring and performance analysis, but originally created specifically for hacking and extending.
+*   [Malewicz (⭐60)](https://github.com/mgramin/malewicz) - Yet Another WEB client for DB schema exploring and performance analysis, but originally created specifically for hacking and extending.
 
 ### Data / Scripts
 
@@ -269,37 +267,30 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Shapash (⭐2.2k)](https://github.com/MAIF/shapash) : Shapash is a Python library that provides several types of visualization that display explicit labels that everyone can understand.
-*   [Eurybia (⭐177)](https://github.com/MAIF/eurybia): Eurybia monitors data and model drift over time and securizes model deployment with data validation.
-*   [Colossal-AI (⭐29k)](https://github.com/hpcaitech/ColossalAI): An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
+*   [Shapash (⭐2.4k)](https://github.com/MAIF/shapash) : Shapash is a Python library that provides several types of visualization that display explicit labels that everyone can understand.
+*   [Eurybia (⭐186)](https://github.com/MAIF/eurybia): Eurybia monitors data and model drift over time and securizes model deployment with data validation.
+*   [Colossal-AI (⭐32k)](https://github.com/hpcaitech/ColossalAI): An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
 
 ## [31. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
 
 ### SCALE Codec
 
-*   [C++ (⭐2)](https://github.com/soramitsu/scale-codec-cpp) - Maintained by Soramitsu.
+*   [C++ (⭐3)](https://github.com/soramitsu/scale-codec-cpp) - Maintained by Soramitsu.
 *   JavaScript / TypeScript implementations:
-    *   [paritytech/parity-scale-codec-ts (⭐40)](https://github.com/paritytech/parity-scale-codec-ts) - Maintained by Parity Technologies.
+    *   [paritytech/parity-scale-codec-ts (⭐52)](https://github.com/paritytech/parity-scale-codec-ts) - Maintained by Parity Technologies.
     *   [polkadot-js/api (⭐1k)](https://github.com/polkadot-js/api/tree/master/packages/types) - Maintained by Polkadot-JS.
-    *   [scale-ts (⭐10)](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts) - Maintained by Josep M Sobrepere.
-    *   [soramitsu/scale-codec-js-library (⭐2)](https://github.com/soramitsu/scale-codec-js-library) - Maintained by Soramitsu.
+    *   [scale-ts (⭐11)](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts) - Maintained by Josep M Sobrepere.
+    *   [soramitsu/scale-codec-js-library (⭐3)](https://github.com/soramitsu/scale-codec-js-library) - Maintained by Soramitsu.
 
 ## [32. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
-
-### General Search
-
-*   [Gigablast](http://gigablast.com) - provides large-scale, high-performance, real-time information retrieval technology and services for partner sites.
-*   [Goodsearch](http://www.goodsearch.com) - a search engine for shopping deals online.
-*   [SurfCanyon](http://www.surfcanyon.com) - a real-time contextual search technology that observes user behavior in order to disambiguate intent "on the fly," and then automatically bring forward to page one relevant results that might otherwise have remain buried.
 
 ### Pastebins
 
 *   [doxbin](https://doxbin.net/) - A dox style pastebin ran by hackers
-*   [Skidbin](https://skidbin.net/) - A dox style pastebin ran by hackers
 
 ### Social Media Tools / Instagram
 
-*   [Osintgram (⭐6.8k)](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.
+*   [Osintgram (⭐7.4k)](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.
 
 ### Social Media Tools / Telegram
 
@@ -326,43 +317,43 @@
 
 ### Templates / Electron
 
-*   [electron-vite-vue (⭐2.6k)](https://github.com/electron-vite/electron-vite-vue) - Electron + Vite + Vue template.
-*   [electron-vite-react (⭐970)](https://github.com/electron-vite/electron-vite-react) - Electron + Vite + React template.
-*   [electron-vite-boilerplate (⭐185)](https://github.com/electron-vite/electron-vite-boilerplate) - Support SerialPort, SQLite3 and node C/C++ addons.
-*   [electron-vite-quick-start (⭐49)](https://github.com/yingpengsha/electron-vite-quick-start) - Full stack uses Vite to run Electron application, including main process.
-*   [electron-vite-template (⭐279)](https://github.com/umbrella22/electron-vite-template) - Electron 13, Vue 3 and TypeScript. Make your desktop development easier.
-*   [fast-vite-electron (⭐110)](https://github.com/ArcherGu/fast-vite-electron) - Vue3 + Vite + Electron with esbuild.
-*   [fast-vite-nestjs-electron (⭐152)](https://github.com/ArcherGu/fast-vite-nestjs-electron) - Vue3 + Vite + Electron + Nestjs with esbuild.
-*   [vite-plugin-electron-quick-start (⭐27)](https://github.com/electron-vite/vite-plugin-electron-quick-start) - Template for Electron projects.
-*   [vite-electron-builder (⭐1.8k)](https://github.com/cawa-93/vite-electron-builder/) - Electron apps using Vite for both back and front-end, with automatic releases.
-*   [vite-reactts-electron-starter (⭐231)](https://github.com/maxstue/vite-reactts-electron-starter) - React, Tailwind CSS, TypeScript and Electron.
-*   [Vitectron (⭐12)](https://github.com/hyroge/vitectron) - TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x.
+*   [electron-vite-vue (⭐3.2k)](https://github.com/electron-vite/electron-vite-vue) - Electron + Vite + Vue template.
+*   [electron-vite-react (⭐1.3k)](https://github.com/electron-vite/electron-vite-react) - Electron + Vite + React template.
+*   [electron-vite-boilerplate (⭐193)](https://github.com/electron-vite/electron-vite-boilerplate) - Support SerialPort, SQLite3 and node C/C++ addons.
+*   [electron-vite-quick-start (⭐51)](https://github.com/yingpengsha/electron-vite-quick-start) - Full stack uses Vite to run Electron application, including main process.
+*   [electron-vite-template (⭐318)](https://github.com/umbrella22/electron-vite-template) - Electron 13, Vue 3 and TypeScript. Make your desktop development easier.
+*   [fast-vite-electron (⭐133)](https://github.com/ArcherGu/fast-vite-electron) - Vue3 + Vite + Electron with esbuild.
+*   [fast-vite-nestjs-electron (⭐189)](https://github.com/ArcherGu/fast-vite-nestjs-electron) - Vue3 + Vite + Electron + Nestjs with esbuild.
+*   [vite-plugin-electron-quick-start (⭐42)](https://github.com/electron-vite/vite-plugin-electron-quick-start) - Template for Electron projects.
+*   [vite-electron-builder (⭐2k)](https://github.com/cawa-93/vite-electron-builder/) - Electron apps using Vite for both back and front-end, with automatic releases.
+*   [vite-reactts-electron-starter (⭐253)](https://github.com/maxstue/vite-reactts-electron-starter) - React, Tailwind CSS, TypeScript and Electron.
+*   [Vitectron (⭐13)](https://github.com/hyroge/vitectron) - TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-progress (⭐172)](https://github.com/jeddygong/vite-plugin-progress) - Display with progress bar when building.
+*   [vite-plugin-progress (⭐192)](https://github.com/jeddygong/vite-plugin-progress) - Display with progress bar when building.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-head (⭐4)](https://github.com/KesionX/vite-plugin-head) - Modify, add, delete `Metadata` in the head element.
+*   [vite-plugin-head (⭐7)](https://github.com/KesionX/vite-plugin-head) - Modify, add, delete `Metadata` in the head element.
 
 ### Libraries / Community
 
-*   [vavite (⭐307)](https://github.com/cyco130/vavite) - A tool for developing and building server-side applications with live reloading capabilities.
+*   [vavite (⭐383)](https://github.com/cyco130/vavite) - A tool for developing and building server-side applications with live reloading capabilities.
 
 ## [36. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### PDF
 
-*   [Kevsoft.PDFtk (⭐23)](https://github.com/kevbite/Kevsoft.PDFtk) - A wrapper to drive the awesome pdftk binary, which can fill PDF forms, get field information, concatenate multiple documents or pages, split documents, add or replace stamps, and can attach files to or download files from pages.
+*   [Kevsoft.PDFtk (⭐25)](https://github.com/kevbite/Kevsoft.PDFtk) - A wrapper to drive the awesome pdftk binary, which can fill PDF forms, get field information, concatenate multiple documents or pages, split documents, add or replace stamps, and can attach files to or download files from pages.
 
 ### Scheduling
 
-*   [NCrontab.Scheduler (⭐10)](https://github.com/thomasgalliker/NCrontab.Scheduler) - Simple task scheduler library for scheduling NCrontab-based tasks
+*   [NCrontab.Scheduler (⭐14)](https://github.com/thomasgalliker/NCrontab.Scheduler) - Simple task scheduler library for scheduling NCrontab-based tasks
 
 ### Source Generator
 
-*   [Supernova.Enum.Generators (⭐104)](https://github.com/EngRajabi/Enum.Source.Generator) - A C# source generator to create an enumeration class from an enum type. With this package, you can work on enums very, very fast without using reflection.
+*   [Supernova.Enum.Generators (⭐126)](https://github.com/EngRajabi/Enum.Source.Generator) - A C# source generator to create an enumeration class from an enum type. With this package, you can work on enums very, very fast without using reflection.
 
 ## [37. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -372,23 +363,23 @@
 
 ### Flutter Related and Building IOS Apps without Mac
 
-*   [FlutLab](https://flutlab.io/) - FlutLab is a modern Flutter online IDE and the best place to create, debug, and build cross-platform projects. Build iOS (Without Mac) and Android apps with Flutter.
-*   [CodeMagic](https://codemagic.io/) - Codemagic is a fully hosted and managed CI/CD for mobile apps. You can build, test, deploy with a GUI based CI/CD tool. Free tier offers 500 free minutes/month, and Mac Mini instance with 2.3Ghz and 8gb of RAM.
+*   [FlutLab](https://flutlab.io/) - FlutLab is a modern Flutter online IDE and the best place to create, debug, and build cross-platform projects. Build iOS (Without a Mac) and Android apps with Flutter.
+*   [CodeMagic](https://codemagic.io/) - Codemagic is a fully hosted and managed CI/CD for mobile apps. You can build, test, and deploy with a GUI-based CI/CD tool. The free tier offers 500 free minutes/month and a Mac Mini instance with 2.3 GHz and 8 GB of RAM.
 *   [FlutterFlow](https://flutterflow.io/) -  FlutterFlow is a browser-based drag-and-drop interface to build mobile app using flutter.
 
 ### Game Development
 
-*   [itch.io](https://itch.io/game-assets) — Free/Paid assets like sprites, tile sets, character packs, ...
+*   [itch.io](https://itch.io/game-assets) — Free/Paid assets like sprites, tile sets, and character packs.
 *   [GameDevMarket](https://gamedevmarket.net) — Free/Paid assets like 2D, 3D, Audio, GUI.
-*   [OpenGameArt](https://opengameart.org) — OpenSource Game Assets like music, sounds, sprites, gifs, ...
+*   [OpenGameArt](https://opengameart.org) — OpenSource Game Assets like music, sounds, sprites, and gifs.
 *   [CraftPix](https://craftpix.net) — Free/Paid assets like 2D, 3D, Audio, GUI, backgrounds, icons, tile sets, game kits.
-*   [ArtStation](https://www.artstation.com/) - MarketPlace for Free/Paid 2D, 3D assets & audios, icons, tile sets, game kits,..., Also, It can be used for showcasing your art portfolio.
+*   [ArtStation](https://www.artstation.com/) - MarketPlace for Free/Paid 2D, 3D assets & audios, icons, tile sets, game kits. Also, It can be used for showcasing your art portfolio.
 
 ## [38. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Tools
 
-*   [ansible-doc-extractor (⭐13)](https://github.com/xlab-steampunk/ansible-doc-extractor) - A tool that extracts documentation from Ansible modules in the HTML form.
+*   [ansible-doc-extractor (⭐14)](https://github.com/xlab-steampunk/ansible-doc-extractor) - A tool that extracts documentation from Ansible modules in the HTML form.
 
 ### Blog posts and opinions
 
@@ -413,12 +404,12 @@
 
 ## [41. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [acenoster (⭐5)](https://github.com/HiDe-Techno-Tips/Acenoster-ZSH-Theme) - A multi-purpose theme with very detailed `git` and `mercurial` support. Also includes decorators for AWS profile name, virtual environment name if any, number of background tasks, current directory and previous command's exit code if non-zero.
 *   [cryo-long (⭐0)](https://github.com/cryocaustik/cryo-long-zsh-theme) - Variant of [cryo (⭐1)](https://github.com/cryocaustik/cryo-zsh-theme/) with added decorators for hostname and current directory.
-*   [gal (⭐1)](https://github.com/x6r/gal) - Minimalist theme based on [gallois (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/commits/master/themes/gallois.zsh-theme).
-*   [headline (⭐130)](https://github.com/Moarram/headline) - A responsive ZSH theme featuring Git status information and a colored line above the prompt.
+*   [gal (⭐1)](https://github.com/x6r/gal) - Minimalist theme based on [gallois (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/commits/master/themes/gallois.zsh-theme).
+*   [headline (⭐175)](https://github.com/Moarram/headline) - A responsive ZSH theme featuring Git status information and a colored line above the prompt.
 *   [majemoji (⭐1)](https://github.com/metalogica/majemoji) - Adds a random emoji to each session's prompt. Includes `git` status decorations.
 
 ## [42. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
@@ -426,12 +417,12 @@
 ### Self-hosted
 
 *   [Nextcloud](https://nextcloud.com/) - The open source self-hosted productivity platform that keeps you in control. It has a [*Photos*](https://github.com/nextcloud/photos) plugin to help you organize and visualize your photos.
-*   [Immich (WIP) (⭐11k)](https://github.com/alextran1502/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
-*   [LibrePhotos (⭐5.5k)](https://github.com/LibrePhotos/librephotos) - Active [OwnPhotos (⭐2.7k)](https://github.com/hooram/ownphotos) fork. Self hosted alternative to Google Photos.
+*   [Immich (WIP) (⭐20k)](https://github.com/alextran1502/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+*   [LibrePhotos (⭐6k)](https://github.com/LibrePhotos/librephotos) - Active [OwnPhotos (⭐2.7k)](https://github.com/hooram/ownphotos) fork. Self hosted alternative to Google Photos.
 
 ### Search Engines
 
-*   [librengine (⭐50)](https://github.com/liameno/librengine) - Privacy Web Search Engine
+*   [librengine (⭐59)](https://github.com/liameno/librengine) - Privacy Web Search Engine
 
 ## [43. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
 
@@ -493,7 +484,7 @@ Repository with Clojure examples of OWASP top 10 vulnerabilities.
 
 ### Resources / Visual Effects
 
-*   [gdx-graph (⭐21)](https://github.com/MarcinSc/gdx-graph) - Provides a GUI to design your rendering pipeline and shaders, and a library to easily incorporate them into your games.
+*   [gdx-graph (⭐29)](https://github.com/MarcinSc/gdx-graph) - Provides a GUI to design your rendering pipeline and shaders, and a library to easily incorporate them into your games.
 
 ---
 

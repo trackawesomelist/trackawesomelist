@@ -22,7 +22,7 @@
 
 ### Source Code Repos
 
-*   [projectlocker.com](https://projectlocker.com) — One free private project (Git and Subversion) with 50 MB space
+*   [projectlocker.com](https://projectlocker.com) — One free private project (Git and Subversion) with 50 MB of space
 
 ## [4. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [urchin (⭐209)](https://github.com/tlevine/urchin) - An idiomatic shell testing framework that uses only shell commands
+*   [urchin (⭐210)](https://github.com/tlevine/urchin) - An idiomatic shell testing framework that uses only shell commands
 
 ## [7. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
 

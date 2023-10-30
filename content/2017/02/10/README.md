@@ -58,7 +58,7 @@
 
 ### Tools/Debugging / Chrome Specific Tools/Debugger
 
-*   [Webgl Insight (⭐900)](https://github.com/3Dparallax/insight) - Chrome extension WebGL debugging toolkit providing a variety of capabilities.
+*   [Webgl Insight (⭐907)](https://github.com/3Dparallax/insight) - Chrome extension WebGL debugging toolkit providing a variety of capabilities.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Development
 
-*   [Test database (⭐3.3k)](https://github.com/datacharmer/test_db) - A sample MySQL database with an integrated test suite, used to test applications and servers
+*   [Test database (⭐3.6k)](https://github.com/datacharmer/test_db) - A sample MySQL database with an integrated test suite, used to test applications and servers
 
 ## [2. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Shodan Search Queries (⭐4.1k)](https://github.com/jakejarvis/awesome-shodan-queries) - A collection of interesting, funny, and depressing search queries to plug into Shodan.io.
+*   [Awesome Shodan Search Queries (⭐4.5k)](https://github.com/jakejarvis/awesome-shodan-queries) - A collection of interesting, funny, and depressing search queries to plug into Shodan.io.
 
 ## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -58,8 +58,8 @@
 
 ### PlaygroundBooks
 
-*   [Image Filtering (⭐77)](https://github.com/lennet/image-filtering) - A Swift playgroundbook about Image Filtering. 🍁🌟
-*   [Neural Network (⭐57)](https://github.com/lennet/neuralnetwork) - A Swift PlaygroundBook about Neural Networks. 🍁
+*   [Image Filtering (⭐79)](https://github.com/lennet/image-filtering) - A Swift playgroundbook about Image Filtering. 🍁🌟
+*   [Neural Network (⭐60)](https://github.com/lennet/neuralnetwork) - A Swift PlaygroundBook about Neural Networks. 🍁
 
 ## [10. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/README.md)
 
@@ -89,21 +89,21 @@
 ### Containers
 
 *   [robin-hood-hashing (⭐1.4k)](https://github.com/martinus/robin-hood-hashing) - Fast & memory efficient hashtable based on robin hood hashing for C++14. \[MIT]
-*   [robin-map (⭐961)](https://github.com/Tessil/robin-map) - Fast hash map and hash set using robin hood hashing. \[MIT]
+*   [robin-map (⭐1.1k)](https://github.com/Tessil/robin-map) - Fast hash map and hash set using robin hood hashing. \[MIT]
 
 ### Math
 
-*   [GLM (⭐7.6k)](https://github.com/g-truc/glm) - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. \[MIT] [website](https://glm.g-truc.net/)
+*   [GLM (⭐8k)](https://github.com/g-truc/glm) - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. \[MIT] [website](https://glm.g-truc.net/)
 
 ## [12. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Decorators / Components
 
-*   [segal-decorators (⭐48)](https://github.com/danrevah/segal-decorators) Bunch of useful decorators for the web!
+*   [segal-decorators (⭐52)](https://github.com/danrevah/segal-decorators) Bunch of useful decorators for the web!
 
 ### Pipes / Components
 
-*   [ngx-pipes (⭐1.5k)](https://github.com/danrevah/ngx-pipes) Bunch of useful pipes for Angular and beyond!
+*   [ngx-pipes (⭐1.6k)](https://github.com/danrevah/ngx-pipes) Bunch of useful pipes for Angular and beyond!
 
 ## [13. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
@@ -121,7 +121,7 @@
 
 ### UI / Barcode
 
-*   [BadgeHub (⭐784)](https://github.com/jogendra/BadgeHub) - Make any UIView a full fledged animated notification center. It is a way to quickly add a notification badge icon to a UIView.
+*   [BadgeHub (⭐810)](https://github.com/jogendra/BadgeHub) - Make any UIView a full fledged animated notification center. It is a way to quickly add a notification badge icon to a UIView.
 *   [LoadingShimmer (⭐1.5k)](https://github.com/jogendra/LoadingShimmer) - An easy way to add a shimmering effect to any view with just one line of code. It is useful as an unobtrusive loading indicator.
 
 ## [16. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
@@ -148,7 +148,7 @@
 
 ### Component Collections / Material Design
 
-*   [shards-react (⭐748)](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium.
+*   [shards-react (⭐755)](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium.
 
 ### Inspect / Lazy Load
 

@@ -101,8 +101,8 @@
 
 ### Contents / Frameworks
 
-*   [Intervention Engine FHIR Server (⭐103)](https://github.com/intervention-engine/fhir) - Generic FHIR server implementation in GoLang.
-*   [Swift-SMART (⭐120)](https://github.com/smart-on-fhir/Swift-SMART) - Swift SMART on FHIR framework for iOS and OS X.
+*   [Intervention Engine FHIR Server (⭐104)](https://github.com/intervention-engine/fhir) - Generic FHIR server implementation in GoLang.
+*   [Swift-SMART (⭐121)](https://github.com/smart-on-fhir/Swift-SMART) - Swift SMART on FHIR framework for iOS and OS X.
 
 ---
 

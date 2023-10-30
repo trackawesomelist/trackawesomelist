@@ -163,7 +163,7 @@
 
 ### UI / Barcode
 
-*   [KMPlaceholderTextView (⭐791)](https://github.com/MoZhouqi/KMPlaceholderTextView) - A UITextView subclass that adds support for multiline placeholder.
+*   [KMPlaceholderTextView (⭐802)](https://github.com/MoZhouqi/KMPlaceholderTextView) - A UITextView subclass that adds support for multiline placeholder.
 
 ## [10. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
@@ -227,7 +227,7 @@
 
 ### Cloud
 
-*   [AWS SDK for Ruby (⭐3.4k)](https://github.com/aws/aws-sdk-ruby) - The official AWS SDK for Ruby.
+*   [AWS SDK for Ruby (⭐3.5k)](https://github.com/aws/aws-sdk-ruby) - The official AWS SDK for Ruby.
 
 ### DevOps Tools
 
@@ -235,7 +235,7 @@
 
 ### HTML/XML Parsing
 
-*   [HTML::Pipeline (⭐2.2k)](https://github.com/jch/html-pipeline) - HTML processing filters and utilities.
+*   [HTML::Pipeline (⭐2.3k)](https://github.com/jch/html-pipeline) - HTML processing filters and utilities.
 
 ### Queues and Messaging
 
@@ -245,16 +245,16 @@
 
 ### Applications
 
-*   [tty2048 (⭐155)](https://github.com/lexmag/tty2048) - Terminal-based 2048 game written in Elixir.
+*   [tty2048 (⭐154)](https://github.com/lexmag/tty2048) - Terminal-based 2048 game written in Elixir.
 
 ### Files and Directories
 
 *   [librex (⭐34)](https://github.com/ricn/librex) - Elixir library to convert office documents to other formats using LibreOffice.
-*   [zarex (⭐24)](https://github.com/ricn/zarex) - Filename sanitization for Elixir.
+*   [zarex (⭐25)](https://github.com/ricn/zarex) - Filename sanitization for Elixir.
 
 ### Framework Components
 
-*   [plug\_require\_header (⭐26)](https://github.com/DevL/plug_require_header) - Require and extract HTTP headers and handle missing ones.
+*   [plug\_require\_header (⭐27)](https://github.com/DevL/plug_require_header) - Require and extract HTTP headers and handle missing ones.
 
 ### Testing
 
@@ -264,17 +264,17 @@
 
 ### Packages / Filesystem
 
-*   [istextorbinary (⭐102)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
+*   [istextorbinary (⭐107)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
 
 ### Packages / Network
 
-*   [getmac (⭐315)](https://github.com/bevry/getmac) - Get the computer MAC address.
+*   [getmac (⭐321)](https://github.com/bevry/getmac) - Get the computer MAC address.
 
 ## [16. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Frameworks
 
-*   [Tigon (⭐278)](https://github.com/caskdata/tigon) - High Throughput Real-time Stream Processing Framework.
+*   [Tigon (⭐279)](https://github.com/caskdata/tigon) - High Throughput Real-time Stream Processing Framework.
 
 ## [17. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 

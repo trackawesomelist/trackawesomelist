@@ -10,13 +10,13 @@
 
 ### Software / Command Line Tools
 
-*   [asciinema](https://asciinema.org/) - Terminal session recorder. ([GNU GPLv3 (⭐11k)](https://github.com/asciinema/asciinema/blob/develop/LICENSE))
+*   [asciinema](https://asciinema.org/) - Terminal session recorder. ([GNU GPLv3 (⭐12k)](https://github.com/asciinema/asciinema/blob/develop/LICENSE))
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Machine Learning
 
-*   [shainet (⭐175)](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal)
+*   [shainet (⭐178)](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal)
 
 ## [3. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
@@ -40,8 +40,8 @@
 
 ### Frameworks, Libraries and Tools / IDE
 
-*   [Mono (⭐2.7k)](https://github.com/mono/monodevelop) - MonoDevelop enables developers to quickly write desktop and web applications on Linux, Windows and Mac OS X. It also makes it easy for developers to port .NET applications created with Visual Studio to Linux and Mac OS X maintaining a single code base for all platforms.
-*   [SharpDevelop (⭐1.9k)](https://github.com/icsharpcode/SharpDevelop) - SharpDevelop is a free Integrated Development Environment (IDE) for C#, VB.NET, Boo, IronPython, IronRuby and F# projects on Microsoft's .NET platform. It is written (almost) entirely in C#, and comes with features you would expect in an IDE plus a few more.
+*   [Mono (⭐2.8k)](https://github.com/mono/monodevelop) - MonoDevelop enables developers to quickly write desktop and web applications on Linux, Windows and Mac OS X. It also makes it easy for developers to port .NET applications created with Visual Studio to Linux and Mac OS X maintaining a single code base for all platforms.
+*   [SharpDevelop (⭐2k)](https://github.com/icsharpcode/SharpDevelop) - SharpDevelop is a free Integrated Development Environment (IDE) for C#, VB.NET, Boo, IronPython, IronRuby and F# projects on Microsoft's .NET platform. It is written (almost) entirely in C#, and comes with features you would expect in an IDE plus a few more.
 
 ---
 

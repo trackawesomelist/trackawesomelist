@@ -8,15 +8,15 @@
 
 ## [1. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
-### Development / Newsletters
+### Development / Discovery
 
-*   [pre-commit-hooks.nix (⭐313)](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
+*   [pre-commit-hooks.nix (⭐365)](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
 
 ## [2. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
-- API: [jsDelivr (⭐159)](https://github.com/jsdelivr/data.jsdelivr.com)
+- API: [jsDelivr (⭐184)](https://github.com/jsdelivr/data.jsdelivr.com)
 
   Description: Package info and download stats on jsDelivr CDN
 
@@ -46,28 +46,28 @@
 
 ### Images / Barcode
 
-*   [Brightroom (⭐2.9k)](https://github.com/muukii/Brightroom) - An image editor and engine using CoreImage.
+*   [Brightroom (⭐3k)](https://github.com/muukii/Brightroom) - An image editor and engine using CoreImage.
 
 ### Network / Barcode
 
-*   [CodyFire (⭐252)](https://github.com/CodyFlame/CodyFire) - Powerful Codable API requests builder and manager for iOS. Based on Alamofire.
+*   [CodyFire (⭐251)](https://github.com/CodyFlame/CodyFire) - Powerful Codable API requests builder and manager for iOS. Based on Alamofire.
 
 ### Alert / Barcode
 
-*   [SPAlert (⭐1.8k)](https://github.com/ivanvorobei/SPAlert) - Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets.
+*   [SPAlert (⭐2k)](https://github.com/ivanvorobei/SPAlert) - Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets.
 
 ### Button / Barcode
 
-*   [IGStoryButtonKit (⭐34)](https://github.com/KaoruMuta/IGStoryButtonKit) - Easy-to-use button with rich animation inspired by instagram stories.
+*   [IGStoryButtonKit (⭐36)](https://github.com/KaoruMuta/IGStoryButtonKit) - Easy-to-use button with rich animation inspired by instagram stories.
 
 ### Permissions / Barcode
 
-*   [SPPermission (⭐5.2k)](https://github.com/ivanvorobei/SPPermissions) - Simple request permission with native UI and interactive animation.
+*   [SPPermission (⭐5.4k)](https://github.com/ivanvorobei/SPPermissions) - Simple request permission with native UI and interactive animation.
 
 ### Transition / Barcode
 
-*   [SPLarkController (⭐967)](https://github.com/ivanvorobei/SPLarkController) - Custom transition between two controller. Translate to top.
-*   [SPStorkController (⭐2.6k)](https://github.com/ivanvorobei/SPStorkController) - Now playing controller from Apple Music. Customisable height.
+*   [SPLarkController (⭐972)](https://github.com/ivanvorobei/SPLarkController) - Custom transition between two controller. Translate to top.
+*   [SPStorkController (⭐2.7k)](https://github.com/ivanvorobei/SPStorkController) - Now playing controller from Apple Music. Customisable height.
 
 ## [4. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
@@ -92,7 +92,7 @@
 ### Cache
 
 *   [Cache Tuner (⭐0)](https://github.com/KayeeNL/CacheTuner) - The module is an implementation of the rules given in Sitecore Caching guide.
-*   [Caching Manager (⭐1)](https://github.com/jbluemink/SitecoreCachingManager) - A console for easy Sitecore 10 cache management.
+*   [Caching Manager (⭐2)](https://github.com/jbluemink/SitecoreCachingManager) - A console for easy Sitecore 10 cache management.
 *   [Cache Processing Instance (⭐2)](https://github.com/ParTech/Cache-Processing-Instance) - A proof-of-concept for a dedicated HTML cache processing instance.
 
 ## [7. Awesome Flask](/content/mjhea0/awesome-flask/README.md)
@@ -111,17 +111,17 @@
 
 ### Source Code Repos
 
-*   [RocketGit](https://rocketgit.com) — Repository Hosting based on Git. Unlimited Public & Private repositories.
+*   [RocketGit](https://rocketgit.com) — Repository Hosting based on Git. Unlimited Public and private repositories.
 
 ### Analytics, Events and Statistics
 
-*   [Similar Web](https://similarweb.com) — Analytics for Web & Mobile Apps. Free Plan offers 5 results per metric, 1 month of mobile app data & 3 months of website data.
+*   [Similar Web](https://similarweb.com) — Analytics for Web & Mobile Apps. Free Plan offers five results per metric, one month of mobile app data & 3 months of website data.
 
 ## [10. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
 
-### WWDC Students Submissions / Functional Reactive Programming
+### WWDC Students Submissions
 
-*   [2020 (⭐206)](https://github.com/wwdc/2020)
+*   [2020 (⭐203)](https://github.com/wwdc/2020)
 
 ## [11. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
@@ -139,7 +139,7 @@
 
 ### Table of Contents / Streaming SQL
 
-*   [ksqlDB (⭐5.5k)](https://github.com/confluentinc/ksql) \[Java] - A cloud-native, source-available [database](https://ksqldb.io/) purpose-built for stream processing applications
+*   [ksqlDB (⭐5.6k)](https://github.com/confluentinc/ksql) \[Java] - A cloud-native, source-available [database](https://ksqldb.io/) purpose-built for stream processing applications
 *   [Materialize](https://materialize.com) \[Rust] - A source-available streaming SQL engine for maintaining materialized views on data from message brokers and databases.
 
 ---

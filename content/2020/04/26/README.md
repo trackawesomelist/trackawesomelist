@@ -25,7 +25,7 @@
 
 ### Automation
 
-*   [ActiveWorkflow (⭐695)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents.
+*   [ActiveWorkflow (⭐733)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents.
 
 ### Captchas and anti-spam
 
@@ -33,27 +33,27 @@
 
 ### Data Processing and ETL
 
-*   [ruby-stemmer (⭐253)](https://github.com/aurelian/ruby-stemmer) - It Provides Snowball algorithm for stemming purposes.
+*   [ruby-stemmer (⭐252)](https://github.com/aurelian/ruby-stemmer) - It Provides Snowball algorithm for stemming purposes.
 
 ### Git Tools
 
-*   [git\_curate (⭐416)](https://github.com/matt-harvey/git_curate) - Peruse and delete git branches ergonomically.
+*   [git\_curate (⭐420)](https://github.com/matt-harvey/git_curate) - Peruse and delete git branches ergonomically.
 
 ### Optimizations
 
-*   [fast\_underscore (⭐29)](https://github.com/kddeisz/fast_underscore) - Provides a C-optimized method for transforming a string from any capitalization into underscore-separated
+*   [fast\_underscore (⭐32)](https://github.com/kddeisz/fast_underscore) - Provides a C-optimized method for transforming a string from any capitalization into underscore-separated
 
 ## [3. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [LightProxy (⭐2.9k)](https://github.com/alibaba/lightproxy) - Web debugging proxy.
+*   [LightProxy (⭐3k)](https://github.com/alibaba/lightproxy) - Web debugging proxy.
 
 ## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Misc
 
-*   [gphoto2-web.cr (⭐6)](https://github.com/Sija/gphoto2-web.cr) - Web API for libgphoto2
+*   [gphoto2-web.cr (⭐5)](https://github.com/Sija/gphoto2-web.cr) - Web API for libgphoto2
 
 ## [5. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
@@ -72,7 +72,7 @@
 
 ### universally from / multiple sources
 
-*   [RSS-Bridge (⭐5.7k)](https://github.com/RSS-Bridge/rss-bridge/wiki) <sup>[257](https://t.me/s/aboutrss/257), [469](https://t.me/s/aboutrss/469), [478](https://t.me/s/aboutrss/478)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/RSS-Bridge/rss-bridge)
+*   [RSS-Bridge (⭐6.3k)](https://github.com/RSS-Bridge/rss-bridge/wiki) <sup>[257](https://t.me/s/aboutrss/257), [469](https://t.me/s/aboutrss/469), [478](https://t.me/s/aboutrss/478)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/RSS-Bridge/rss-bridge)
 
 ## [7. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Others
 
-*   [CSS-only-chat (⭐5.9k)](https://github.com/kkuchta/css-only-chat) - A truly monstrous async web chat using no JS whatsoever on the frontend.
+*   [CSS-only-chat (⭐6.5k)](https://github.com/kkuchta/css-only-chat) - A truly monstrous async web chat using no JS whatsoever on the frontend.
 
 ### Community
 
@@ -92,7 +92,7 @@
 
 ### Libraries
 
-*   [Number Words (⭐191)](https://github.com/tokenmill/numberwords) - Convert a number to an approximated text expression: from '0.23' to 'less than a quarter'.
+*   [Number Words (⭐194)](https://github.com/tokenmill/numberwords) - Convert a number to an approximated text expression: from '0.23' to 'less than a quarter'.
 
 ## [9. Machine Learning Tutorials](/content/ujjwalkarn/Machine-Learning-Tutorials/README.md)
 
@@ -994,7 +994,7 @@
 
 ### Carousel
 
-*   [react-instagram-zoom-slider (⭐69)](https://github.com/skozer/react-instagram-zoom-slider) - [demo](https://skozer.github.io/react-instagram-zoom-slider/) - A slider component with pinch to zoom capabilities inspired by Instagram.
+*   [react-instagram-zoom-slider (⭐72)](https://github.com/skozer/react-instagram-zoom-slider) - [demo](https://skozer.github.io/react-instagram-zoom-slider/) - A slider component with pinch to zoom capabilities inspired by Instagram.
 
 ---
 

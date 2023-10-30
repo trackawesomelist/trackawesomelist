@@ -22,7 +22,7 @@
 
 ### Repositories / Python
 
-*   [pynetworktables (⭐56)](https://github.com/robotpy/pynetworktables) - Port to allow access of NetworkTables in Python.
+*   [pynetworktables (⭐57)](https://github.com/robotpy/pynetworktables) - Port to allow access of NetworkTables in Python.
 
 ## [4. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/README.md)
 
@@ -47,12 +47,12 @@
 ### Plugins / Libraries
 
 *   GraphQL
-    *   [dotansimha/graphql-eslint (⭐685)](https://github.com/dotansimha/graphql-eslint) - Validates, prettifies and checks your GraphQL operations and GraphQL schema for best-practices.
+    *   [dotansimha/graphql-eslint (⭐696)](https://github.com/dotansimha/graphql-eslint) - Validates, prettifies and checks your GraphQL operations and GraphQL schema for best-practices.
     *   [apollostack/eslint-plugin-graphql (⭐1.2k)](https://github.com/apollostack/eslint-plugin-graphql) - Check your GraphQL query strings against a schema.
 
 ### Parsers / Testing Tools
 
-*   [GraphQL (⭐685)](https://github.com/dotansimha/graphql-eslint) - Parser for the GraphQL AST. Includes parser, plugin, processor (for non-graphql files) and rules.
+*   [GraphQL (⭐696)](https://github.com/dotansimha/graphql-eslint) - Parser for the GraphQL AST. Includes parser, plugin, processor (for non-graphql files) and rules.
 
 ## [7. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -78,11 +78,11 @@
 
 ### Examples and funny stuff
 
-*   [phoenix-ecto-encryption-example (⭐255)](https://github.com/dwyl/phoenix-ecto-encryption-example) - A comprehensive example/tutorial showing people how to use Ecto Types to transparently encrypt/decrypt data in a Phoenix 1.4 app.
+*   [phoenix-ecto-encryption-example (⭐264)](https://github.com/dwyl/phoenix-ecto-encryption-example) - A comprehensive example/tutorial showing people how to use Ecto Types to transparently encrypt/decrypt data in a Phoenix 1.4 app.
 
 ### ORM and Datamapping
 
-*   [ecto\_psql\_extras (⭐327)](https://github.com/pawurb/ecto_psql_extras) - Ecto PostgreSQL database performance insights.
+*   [ecto\_psql\_extras (⭐344)](https://github.com/pawurb/ecto_psql_extras) - Ecto PostgreSQL database performance insights.
 
 ### Testing
 
@@ -94,13 +94,13 @@
 
 ### Utilities
 
-*   [uef-lib (⭐14)](https://github.com/DOBRO/uef-lib) - Useful Erlang Functions Library that provides modules for manipulating lists, binaries, maps, numbers, date and time. It  contains some functions optimized for performance in specific cases (e.g. for file I/O operations or binary transformations).
+*   [uef-lib (⭐15)](https://github.com/DOBRO/uef-lib) - Useful Erlang Functions Library that provides modules for manipulating lists, binaries, maps, numbers, date and time. It  contains some functions optimized for performance in specific cases (e.g. for file I/O operations or binary transformations).
 
 ## [10. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Libraries / JavaScript
 
-*   [DeriveJS (⭐54)](https://github.com/yuval-a/derivejs) - Reactive ODM that uses Javascript Proxies to enable transparent DB persistence
+*   [DeriveJS (⭐2)](https://github.com/yuval-a/derivejs) - Reactive ODM that uses Javascript Proxies to enable transparent DB persistence
 
 ## [11. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -123,7 +123,7 @@
 
 ### Software Tools / Analysis Tools
 
-*   [Binwalk (⭐9.3k)](https://github.com/ReFirmLabs/binwalk) - Searches a binary for "interesting" stuff, as well as extracts arbitrary files.
+*   [Binwalk (⭐9.7k)](https://github.com/ReFirmLabs/binwalk) - Searches a binary for "interesting" stuff, as well as extracts arbitrary files.
 
 ### Conferences / YouTube Channels
 
@@ -151,7 +151,6 @@
 
 *   [GNU Health](https://www.gnuhealth.org) - Electronic Medical Record, Hospital Management, and Health Information System.
 *   [FreeMedForms EMR](https://freemedforms.com/fr/start) - Electronic Medical Record software.
-*   [HOSxP](https://hosxp.net/joomla25/) - Thai Hospital Information System that aims to ease the healthcare workflow of health centers and central hospitals.
 *   [LibreHealth EHR](https://librehealth.io/projects/lh-ehr/) - Clinically-focused Electronic Health Record System.
 *   [OpenClinic (⭐25)](https://github.com/jact/openclinic) - Medical Records System.
 *   [OpenEMR](https://www.open-emr.org) - Electronic Health Records and Medical Practice Management application.
@@ -160,11 +159,10 @@
 
 ### Contents / Specifications
 
+*   [Continuity of Care Document](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=7) - Continuity of Care Document specifications
+*   [HL7 Version 2](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=185) - Specifications for all versions of HL7v2
 *   [Open mHealth](https://www.openmhealth.org) - Open Standard For Mobile Health Data.
 *   [SMART on FHIR](https://docs.smarthealthit.org/) - Open standards based technology platform.
-*   [Continuity of Care Document](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=7) - Continuity of Care Document specifications (free account required).
-*   [Continuity of Care Record](httsp://hitsp.org/ConstructSet_Details.aspx?\&PrefixAlpha=4\&PrefixNumeric=32) - Specifications for the older form of CCD - sometimes called a "C32".
-*   [HL7 Version 2](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=185) - Specifications for all versions of HL7v2 (free account required).
 
 ### Contents / Imaging
 
@@ -183,7 +181,7 @@
 
 *   [FHIRBase](https://fhirbase.github.io) - Storage based on the FHIR Standard.
 *   [Opal](https://opal.openhealthcare.org.uk/) - Framework for building clinical applications.
-*   [Spark (⭐224)](https://github.com/FirelyTeam/spark) - Public domain FHIR server developed in C#.
+*   [Spark (⭐227)](https://github.com/FirelyTeam/spark) - Public domain FHIR server developed in C#.
 
 ### Contents / Libraries
 
@@ -191,17 +189,17 @@
 
 ### Contents / Integration
 
-*   [NextGen Connect Integration Engine (⭐714)](https://github.com/nextgenhealthcare/connect) - The swiss army knife of healthcare integration.
+*   [NextGen Connect Integration Engine (⭐737)](https://github.com/nextgenhealthcare/connect) - The swiss army knife of healthcare integration.
 
 ### Contents / Bioinformatics
 
-*   [Bcbio (⭐933)](https://github.com/bcbio/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis.
+*   [Bcbio (⭐941)](https://github.com/bcbio/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis.
 *   [Wregex](https://ehubio.ehu.eus/wregex/) - Amino acid motif searching software with optional Position-Specific Scoring Matrix.
 
 ### Contents / Data
 
 *   [cTAKES](https://ctakes.apache.org/) - Natural Language Processing System for extraction of information from Electronic Medical Record clinical free-text.
-*   [Snow Owl (⭐234)](https://github.com/b2ihealthcare/snow-owl) - Highly scalable, open source terminology server with revision-control capabilities and collaborative authoring platform features.
+*   [Snow Owl (⭐238)](https://github.com/b2ihealthcare/snow-owl) - Highly scalable, open source terminology server with revision-control capabilities and collaborative authoring platform features.
 
 ## [17. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -211,13 +209,13 @@
 
 ## [18. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [IP.City](https://ip.city) — 100 free IP geolocation requests per day
+*   [IP.City](https://ip.city) — 100 Free IP geolocation requests per day
 
 ### Monitoring
 
-*   [Pingmeter.com](https://pingmeter.com/) - 5 uptime monitors with 10 minutes interval. Monitor SSH, HTTP, HTTPS, and any custom TCP ports.
+*   [Pingmeter.com](https://pingmeter.com/) - 5 uptime monitors with 10-minute interval. Monitor SSH, HTTP, HTTPS, and any custom TCP ports.
 
 ### Analytics, Events and Statistics
 
@@ -225,14 +223,14 @@
 
 ### Visitor Session Recording
 
-*   [Reactflow.com](https://www.reactflow.com/) — Per site: 1,000 pages views/day, 3 heatmaps, 3 widgets, free bug tracking
+*   [Reactflow.com](https://www.reactflow.com/) — Per site: 1,000 pages views/day, three heatmaps, three widgets, free bug tracking
 *   [howuku.com](https://howuku.com) — Track user interaction, engagement, and event. Free for up to 5,000 visits/month
 
 ## [19. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Tooling / Frameworks
 
-*   [Trunk (⭐2.4k)](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust Wasm application to the web.
+*   [Trunk (⭐2.8k)](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust Wasm application to the web.
 
 ## [20. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

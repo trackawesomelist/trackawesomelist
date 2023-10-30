@@ -82,45 +82,44 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Learning Platforms:
 
-| Website                                                            |
-| ------------------------------------------------------------------ |
-| <https://tutoriac.com/>                                            |
-| <https://www.freecodecamp.org/>                                    |
-| <https://www.lambdatest.com/learning-hub/>                         |
-| <https://codecademy.com>                                           |
-| <https://javascript30.com>                                         |
-| <https://www.frontendmentor.io>                                    |
-| <https://testautomationu.applitools.com>                           |
-| <https://www.coursera.org>                                         |
-| <https://www.edx.org/>                                             |
-| <https://khanacademy.org>                                          |
-| <https://sololearn.com>                                            |
-| <https://www.scaler.com/topics/>                                   |
-| <https://www.theodinproject.com>                                   |
-| <https://javascript.info/>                                         |
-| <https://vueschool.io/>                                            |
-| <https://www.guru99.com/>                                          |
-| <https://trailhead.salesforce.com/>                                |
-| <https://ocw.mit.edu/>                                             |
-| <https://open.appacademy.io/>                                      |
-| <https://web.dev/>                                                 |
-| <https://scrimba.com>                                              |
-| <https://thegymnasium.com>                                         |
-| <https://www.amigoscode.com>                                       |
-| <https://cssbattle.dev/>                                           |
-| <https://bento.io/>                                                |
-| <https://fullstackopen.com/en/>                                    |
-| <https://upskillcourses.com/courses>                               |
-| <https://www.geeksforgeeks.org/web-development/>                   |
-| <https://hackdesign.org/lessons>                                   |
-| <https://javatpoint.com>                                           |
-| <https://learn.microsoft.com/en-gb/training/>                      |
-| <https://www.codementor.io/events>                                 |
-| <https://eloquentjavascript.net/>                                  |
-| <https://skillcombo.com/courses/development/web-development/free/> |
-| <https://code.org/>                                                |
-| <https://www.interviewbit.com/>                                    |
-| <https://css-tricks.com/>                                          |
+| Website                                          |
+| ------------------------------------------------ |
+| <https://tutoriac.com/>                          |
+| <https://www.freecodecamp.org/>                  |
+| <https://www.lambdatest.com/learning-hub/>       |
+| <https://codecademy.com>                         |
+| <https://javascript30.com>                       |
+| <https://www.frontendmentor.io>                  |
+| <https://testautomationu.applitools.com>         |
+| <https://www.coursera.org>                       |
+| <https://www.edx.org/>                           |
+| <https://khanacademy.org>                        |
+| <https://sololearn.com>                          |
+| <https://www.scaler.com/topics/>                 |
+| <https://www.theodinproject.com>                 |
+| <https://javascript.info/>                       |
+| <https://vueschool.io/>                          |
+| <https://www.guru99.com/>                        |
+| <https://trailhead.salesforce.com/>              |
+| <https://ocw.mit.edu/>                           |
+| <https://open.appacademy.io/>                    |
+| <https://web.dev/>                               |
+| <https://scrimba.com>                            |
+| <https://thegymnasium.com>                       |
+| <https://www.amigoscode.com>                     |
+| <https://cssbattle.dev/>                         |
+| <https://bento.io/>                              |
+| <https://fullstackopen.com/en/>                  |
+| <https://upskillcourses.com/courses>             |
+| <https://www.geeksforgeeks.org/web-development/> |
+| <https://hackdesign.org/lessons>                 |
+| <https://javatpoint.com>                         |
+| <https://learn.microsoft.com/en-gb/training/>    |
+| <https://www.codementor.io/events>               |
+| <https://eloquentjavascript.net/>                |
+| <https://code.org/>                              |
+| <https://www.interviewbit.com/>                  |
+| <https://css-tricks.com/>                        |
 
 [⬆ back to top](#table-of-contents)
 
@@ -200,7 +199,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | <https://www.remotehub.com>           |
 | <https://startup.jobs/remote-jobs>    |
 | <https://remotescout.ch>              |
-| <https://jobstache.com>               |
 | <https://jobsinjs.com>                |
 | <https://devemploy.com>               |
 | <https://echojobs.io>                 |
@@ -508,7 +506,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Visbug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc/related)                                                 |
 | [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US)                                        |
 | [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)                                   |
-| [GitHunt](https://chrome.google.com/webstore/detail/githunt/khpcnaokfebphakjgdgpinmglconplhp?hl=en)                                                 |
 | [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)                     |
 | [Hackertab.dev - All Developer news in 1 tab](https://chrome.google.com/webstore/detail/hackertabdev-developer-ne/ocoipcahhaedjhnpoanfflhbdcpmalmp) |
 | [Vue Developer Tools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)                                    |
@@ -610,7 +607,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [JSONT](https://www.jsont.run/)                                                  | A simple and powerful JSON formatting tool                                                                   |
 | [JSON Crack](https://jsoncrack.com/)                                             | A simple tool to visualize JSON Code in a neat tree structure                                                |
 | [Codepng](https://codepng.app/)                                                  | Convert your source code into awesome shareable images                                                       |
-| [yuyu.ai](https://yuyu.ai/)                                                      | Is a frontend ai tool to generate html and css instantly from a jpg or png file.                             |
 | [tablebackend.com](https://tablebackend.com/)                                    | A backend for your simple projects using oowerful canvas-based data grid for handling millions of rows.      |
 
 [⬆ back to top](#table-of-contents)

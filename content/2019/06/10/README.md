@@ -26,7 +26,7 @@
 
 ### Scala / Symfony2
 
-*   [Chaos (⭐250)](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala.
+*   [Chaos (⭐251)](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala.
 
 ## [4. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Extensions
 
-*   [Terraform For Next.js (⭐52)](https://github.com/ematipico/terraform-nextjs-plugin) - Deploy your application using Terraform
+*   [Terraform For Next.js (⭐51)](https://github.com/ematipico/terraform-nextjs-plugin) - Deploy your application using Terraform
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -82,9 +82,9 @@
 
 ### Decompilers
 
-*   [JD-GUI (⭐12k)](https://github.com/java-decompiler/jd-gui)
+*   [JD-GUI (⭐13k)](https://github.com/java-decompiler/jd-gui)
 *   Python
-    *   [uncompyle6 (⭐2.9k)](https://github.com/rocky/python-uncompyle6) - decompiler for the over 20 releases and 20 years of CPython.
+    *   [uncompyle6 (⭐3.3k)](https://github.com/rocky/python-uncompyle6) - decompiler for the over 20 releases and 20 years of CPython.
 
 ### Binary files examination and editing / Hex editors
 
@@ -117,17 +117,17 @@
 
 ### For Electron / Other
 
-*   [electron-better-ipc (⭐657)](https://github.com/sindresorhus/electron-better-ipc) - Simplified IPC communication.
+*   [electron-better-ipc (⭐676)](https://github.com/sindresorhus/electron-better-ipc) - Simplified IPC communication.
 
 ## [15. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Programming Languages
 
-*   [Pascal (⭐1.5k)](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
+*   [Pascal (⭐1.6k)](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
 
 ### Security
 
-*   [Fuzzing (⭐662)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+*   [Fuzzing (⭐700)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 
 ---
 

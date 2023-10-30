@@ -27,11 +27,11 @@
 
 #### [Programming Historian](https://programminghistorian.org/en/lessons/)
 
-**Free** Peer reviewed introductory courses for digital humanists.\
+**Free** peer reviewed introductory courses for digital humanists\
 *(Python, R, Unity, QGIS, HTML, Regular Expressions)*
 #### [Software Carpentry](https://software-carpentry.org/lessons/)
 
-**Free** Foundational coding and data science skills for researchers.\
+**Free** foundational coding and data science skills for researchers\
 *(Python, R, OpenRefine, Unix Shell, Git)*
 
 ## [4. Awesome Android](/content/JStumpp/awesome-android/README.md)

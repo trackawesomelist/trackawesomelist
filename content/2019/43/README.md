@@ -22,13 +22,14 @@
 
 ### Applications
 
-*   [jedisct1/flowgger (⭐769)](https://github.com/awslabs/flowgger) — A fast, simple and lightweight data collector
+*   [jedisct1/flowgger (⭐794)](https://github.com/awslabs/flowgger) — A fast, simple and lightweight data collector
 
 ### Libraries / GUI
 
 *   [Flutter](https://flutter.dev/)
-    *   [flutter-rs (⭐2k)](https://github.com/flutter-rs/flutter-rs) — Build flutter desktop app in dart & rust.
-    *   [fzyzcjy/flutter\_rust\_bridge (⭐2.6k)](https://github.com/fzyzcjy/flutter_rust_bridge) — High-level memory-safe binding generator for Flutter/Dart <-> Rust
+    *   [cunarist/rinf (⭐494)](https://github.com/cunarist/rinf) — Rust as your Flutter backend, Flutter as your Rust frontend [![Build Test](https://github.com/cunarist/rinf/actions/workflows/build_test.yaml/badge.svg)](https://github.com/cunarist/rinf/actions/workflows/build_test.yaml?query=branch%3Amain)
+    *   [flutter-rs (⭐2.1k)](https://github.com/flutter-rs/flutter-rs) — Build flutter desktop app in dart & rust.
+    *   [fzyzcjy/flutter\_rust\_bridge (⭐2.9k)](https://github.com/fzyzcjy/flutter_rust_bridge) — High-level memory-safe binding generator for Flutter/Dart <-> Rust
 
 ## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -50,7 +51,7 @@
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [Modular Monolith (⭐7.5k)](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith .NET application with Domain-Driven Design approach.
+*   [Modular Monolith (⭐8.9k)](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith .NET application with Domain-Driven Design approach.
 
 ## [7. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
@@ -68,7 +69,7 @@
 
 ### IR Tools Collection / Memory Analysis Tools
 
-*   [MalConfScan (⭐450)](https://github.com/JPCERTCC/MalConfScan) - MalConfScan is a Volatility plugin extracts configuration data of known malware. Volatility is an open-source memory forensics framework for incident response and malware analysis. This tool searches for malware in memory images and dumps configuration data. In addition, this tool has a function to list strings to which malicious code refers.
+*   [MalConfScan (⭐457)](https://github.com/JPCERTCC/MalConfScan) - MalConfScan is a Volatility plugin extracts configuration data of known malware. Volatility is an open-source memory forensics framework for incident response and malware analysis. This tool searches for malware in memory images and dumps configuration data. In addition, this tool has a function to list strings to which malicious code refers.
 
 ## [10. Awesome Cordova](/content/busterc/awesome-cordova/week/README.md)
 
@@ -84,9 +85,9 @@
 
 ### Compression
 
-*   [Crystar (⭐37)](https://github.com/naqvis/crystar) - Readers and writers of Tar archive format
+*   [Crystar (⭐38)](https://github.com/naqvis/crystar) - Readers and writers of Tar archive format
 *   [snappy (⭐17)](https://github.com/naqvis/snappy) -  Snappy compression format reader/writer for Crystal
-*   [zstd.cr (⭐38)](https://github.com/didactic-drunk/zstd.cr) - Bindings for [Zstandard (⭐20k)](https://github.com/facebook/zstd) compression library
+*   [zstd.cr (⭐39)](https://github.com/didactic-drunk/zstd.cr) - Bindings for [Zstandard (⭐21k)](https://github.com/facebook/zstd) compression library
 
 ## [12. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
@@ -153,11 +154,11 @@
 
 ### Tools / Dynamic Analysis Tools
 
-*   [ARTist](https://artist.cispa.saarland) - a flexible open source instrumentation and hybrid analysis framework for Android apps and Android's java middleware. It is based on the Android Runtime's (ART) compiler and modifies code during on-device compilation.
+*   [ARTist](https://artist.cispa.saarland) - a flexible open-source instrumentation and hybrid analysis framework for Android apps and Android's Java middleware. It is based on the Android Runtime's (ART) compiler and modifies code during on-device compilation.
 
 ### Tools / Reverse Engineering
 
-*   [apk-mitm (⭐2.7k)](https://github.com/shroudedcode/apk-mitm) - A CLI application that prepares Android APK files for HTTPS inspection
+*   [apk-mitm (⭐2.9k)](https://github.com/shroudedcode/apk-mitm) - A CLI application that prepares Android APK files for HTTPS inspection
 
 ## [17. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -239,7 +240,7 @@
 
 ### Frameworks • Libraries • Ecosystems
 
-*   [Canvas-sketch (⭐4.5k)](https://github.com/mattdesl/canvas-sketch) \[Cross-platform] - HTML5 framework for making generative artwork in JavaScript and the browser.
+*   [Canvas-sketch (⭐4.7k)](https://github.com/mattdesl/canvas-sketch) \[Cross-platform] - HTML5 framework for making generative artwork in JavaScript and the browser.
 
 ### Sound Programming Languages
 
@@ -279,54 +280,54 @@
 
 ### Bindings
 
-*   [racket-vulkan (⭐41)](https://github.com/zyrolasting/racket-vulkan) - Racket bindings for Vulkan with [detailed implementation notes](https://sagegerard.com/racket-vulkan-notes-index.html). \[MIT]
+*   [racket-vulkan (⭐43)](https://github.com/zyrolasting/racket-vulkan) - Racket bindings for Vulkan with [detailed implementation notes](https://sagegerard.com/racket-vulkan-notes-index.html). \[MIT]
 
 ## [30. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shells
 
-*   [ksh93 (⭐464)](https://github.com/att/ast) - Korn Shell
-*   [mksh (⭐176)](https://github.com/MirBSD/mksh) - MirBSD Korn Shell
-*   [oksh (⭐278)](https://github.com/ibara/oksh) - Portable OpenBSD ksh
+*   [ksh93 (⭐480)](https://github.com/att/ast) - Korn Shell
+*   [mksh (⭐182)](https://github.com/MirBSD/mksh) - MirBSD Korn Shell
+*   [oksh (⭐295)](https://github.com/ibara/oksh) - Portable OpenBSD ksh
 *   [pdksh](https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/bin/ksh/) - Public domain Korn shell
-*   [shell++ (⭐115)](https://github.com/alexst07/shell-plus-plus) - Friendly and modern functional and object oriented shell script language
+*   [shell++ (⭐131)](https://github.com/alexst07/shell-plus-plus) - Friendly and modern functional and object oriented shell script language
 *   [tcsh](https://www.tcsh.org/) - C shell with file name completion and command line editing
 *   [xonsh](https://xon.sh) - Python-ish, BASHwards-looking shell language and command prompt
 
 ### Command-Line Productivity
 
-*   [autoenv (⭐5.1k)](https://github.com/inishchith/autoenv) - Directory-based environments
-*   [browsh (⭐15k)](https://github.com/browsh-org/browsh) - The modern text-based browser
-*   [googlr (⭐35)](https://github.com/Astranno/googlr) - Command line tool that lets you search Google from your terminal.
-*   [mcfly (⭐4.7k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scot!
-*   [sqlline (⭐543)](https://github.com/julianhyde/sqlline) - Shell for issuing SQL to relational databases via JDBC (multiline, completion, highlighting, dialect support)
-*   [td-cli (⭐155)](https://github.com/darrikonn/td-cli) - A todo command line manager to organize and manage your todos across multiple projects.
+*   [autoenv (⭐5.2k)](https://github.com/inishchith/autoenv) - Directory-based environments
+*   [browsh (⭐16k)](https://github.com/browsh-org/browsh) - The modern text-based browser
+*   [googlr (⭐41)](https://github.com/Astranno/googlr) - Command line tool that lets you search Google from your terminal.
+*   [mcfly (⭐5.1k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scot!
+*   [sqlline (⭐569)](https://github.com/julianhyde/sqlline) - Shell for issuing SQL to relational databases via JDBC (multiline, completion, highlighting, dialect support)
+*   [td-cli (⭐169)](https://github.com/darrikonn/td-cli) - A todo command line manager to organize and manage your todos across multiple projects.
 
 ### Command-Line Productivity / Directory Navigation
 
-*   [z.lua (⭐2.6k)](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits
+*   [z.lua (⭐2.7k)](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits
 
 ### For Developers / Directory Navigation
 
 *   [ack](https://beyondgrep.com/) - A grep-like search tool optimized for source code.
-*   [bitwise (⭐484)](https://github.com/mellowcandle/bitwise) - Terminal based interactive bit manipulator in curses.
-*   [forgit (⭐3.7k)](https://github.com/wfxr/forgit) - Utility tool for `git` taking advantage of fuzzy finder fzf.
-*   [overcommit (⭐3.7k)](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
-*   [wipe-modules (⭐327)](https://github.com/bntzio/wipe-modules) - A little agent that removes the node\_modules folder of non-active projects
+*   [bitwise (⭐560)](https://github.com/mellowcandle/bitwise) - Terminal based interactive bit manipulator in curses.
+*   [forgit (⭐3.9k)](https://github.com/wfxr/forgit) - Utility tool for `git` taking advantage of fuzzy finder fzf.
+*   [overcommit (⭐3.8k)](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
+*   [wipe-modules (⭐335)](https://github.com/bntzio/wipe-modules) - A little agent that removes the node\_modules folder of non-active projects
 
 ### System Utilities / Directory Navigation
 
-*   [bat (⭐39k)](https://github.com/sharkdp/bat) - A `cat` clone with wings
-*   [exa (⭐20k)](https://github.com/ogham/exa) - A modern version of `ls`.
-*   [nmtui (⭐270)](https://github.com/NetworkManager/NetworkManager) - Text User Interface for controlling NetworkManager
+*   [bat (⭐42k)](https://github.com/sharkdp/bat) - A `cat` clone with wings
+*   [exa (⭐22k)](https://github.com/ogham/exa) - A modern version of `ls`.
+*   [nmtui (⭐293)](https://github.com/NetworkManager/NetworkManager) - Text User Interface for controlling NetworkManager
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [jo (⭐4.3k)](https://github.com/jpmens/jo) - A small utility to create JSON objects from command-line arguments.
+*   [jo (⭐4.4k)](https://github.com/jpmens/jo) - A small utility to create JSON objects from command-line arguments.
 
 ### Applications / Directory Navigation
 
-*   [jrnl (⭐5.7k)](https://github.com/jrnl-org/jrnl) - A simple command line journal application that stores your journal in a plain text file
+*   [jrnl (⭐5.9k)](https://github.com/jrnl-org/jrnl) - A simple command line journal application that stores your journal in a plain text file
 
 ### Shell Package Management / Directory Navigation
 
@@ -334,9 +335,9 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [bashful (⭐575)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
-*   [Bashlets (⭐64)](https://github.com/reale/bashlets) - A modular extensible toolbox for Bash
-*   [Fishtape (⭐314)](https://github.com/jorgebucaran/fishtape) - TAP producer and test harness for fish
+*   [bashful (⭐581)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
+*   [Bashlets (⭐67)](https://github.com/reale/bashlets) - A modular extensible toolbox for Bash
+*   [Fishtape (⭐325)](https://github.com/jorgebucaran/fishtape) - TAP producer and test harness for fish
 
 ## [31. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
@@ -398,7 +399,7 @@
 
 ### Keyboard
 
-*   [Ribbon (⭐295)](https://github.com/chriszielinski/Ribbon) - A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.
+*   [Ribbon (⭐296)](https://github.com/chriszielinski/Ribbon) - A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.
 
 ### Extensions (Xcode 8+) / Collection View Layout
 
@@ -408,11 +409,11 @@
 
 ### Others
 
-*   [The Goose Game Kata (⭐7)](https://github.com/xpeppers/goose-game-kata)
+*   [The Goose Game Kata (⭐9)](https://github.com/xpeppers/goose-game-kata)
 *   [Salary slip kata (⭐17)](https://github.com/sandromancuso/salaryslipkata)
-*   [RPG Game kata (⭐582)](https://github.com/ardalis/kata-catalog/blob/master/katas/RPG%20Combat.md)
-*   [Train Reservation kata (⭐104)](https://github.com/emilybache/KataTrainReservation)
-*   [Password-strength Checker TDD Kata (⭐5)](https://github.com/xpepper/PasswordStrengthChecker)
+*   [RPG Game kata (⭐655)](https://github.com/ardalis/kata-catalog/blob/master/katas/RPG%20Combat.md)
+*   [Train Reservation kata (⭐112)](https://github.com/emilybache/KataTrainReservation)
+*   [Password-strength Checker TDD Kata (⭐6)](https://github.com/xpepper/PasswordStrengthChecker)
 
 ## [38. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -472,26 +473,26 @@
 
 ### Audio Related Packages / Transformations - General DSP
 
-*   [SFS-Python](http://www.sfstoolbox.org) [:octocat: (⭐60)](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) - Sound Field Synthesis Toolbox.
+*   [SFS-Python](http://www.sfstoolbox.org) [:octocat: (⭐63)](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) - Sound Field Synthesis Toolbox.
 
 ### Audio Related Packages / Speech Processing
 
 *   [deepspeech (⭐22k)](https://github.com/mozilla/DeepSpeech) [:octocat: (⭐22k)](https://github.com/mozilla/DeepSpeech) [:package:](https://pypi.org/project/deepspeech/) - Pretrained automatic speech recognition.
-*   [persephone](https://persephone.readthedocs.io/en/latest/) [:octocat: (⭐148)](https://github.com/persephone-tools/persephone) [:package:](https://pypi.org/project/persephone/) - Automatic phoneme transcription tool.
-*   [pypesq (⭐278)](https://github.com/vBaiCai/python-pesq) [:octocat: (⭐278)](https://github.com/vBaiCai/python-pesq) - Wrapper for the PESQ score calculation.
-*   [pystoi (⭐259)](https://github.com/mpariente/pystoi) [:octocat: (⭐259)](https://github.com/mpariente/pystoi) [:package:](https://pypi.org/project/pystoi) - Short Term Objective Intelligibility measure (STOI).
+*   [persephone](https://persephone.readthedocs.io/en/latest/) [:octocat: (⭐153)](https://github.com/persephone-tools/persephone) [:package:](https://pypi.org/project/persephone/) - Automatic phoneme transcription tool.
+*   [pypesq (⭐291)](https://github.com/vBaiCai/python-pesq) [:octocat: (⭐291)](https://github.com/vBaiCai/python-pesq) - Wrapper for the PESQ score calculation.
+*   [pystoi (⭐272)](https://github.com/mpariente/pystoi) [:octocat: (⭐272)](https://github.com/mpariente/pystoi) [:package:](https://pypi.org/project/pystoi) - Short Term Objective Intelligibility measure (STOI).
 *   [SIDEKIT](http://lium.univ-lemans.fr/sidekit/) [:package:](https://pypi.python.org/pypi/SIDEKIT/) - Speaker and Language recognition.
 
 ### Audio Related Packages / Environmental Sounds
 
-*   [sed\_eval](http://tut-arg.github.io/sed_eval) [:octocat: (⭐112)](https://github.com/TUT-ARG/sed_eval) [:package:](https://pypi.org/project/sed_eval/) - Evaluation toolbox for Sound Event Detection
+*   [sed\_eval](http://tut-arg.github.io/sed_eval) [:octocat: (⭐119)](https://github.com/TUT-ARG/sed_eval) [:package:](https://pypi.org/project/sed_eval/) - Evaluation toolbox for Sound Event Detection
 
 ### Audio Related Packages / Perceptial Models - Auditory Models
 
-*   [cochlea (⭐101)](https://github.com/mrkrd/cochlea) [:octocat: (⭐101)](https://github.com/mrkrd/cochlea) [:package:](https://pypi.python.org/pypi/cochlea/) - Inner ear models.
-*   [Loudness (⭐34)](https://github.com/deeuu/loudness) [:octocat: (⭐34)](https://github.com/deeuu/loudness) - Perceived loudness, includes Zwicker, Moore/Glasberg model.
-*   [pyloudnorm](https://www.christiansteinmetz.com/projects-blog/pyloudnorm) [:octocat: (⭐428)](https://github.com/csteinmetz1/pyloudnorm) - Audio loudness meter and normalization, implements ITU-R BS.1770-4.
-*   [Sound Field Synthesis Toolbox](http://www.sfstoolbox.org) [:octocat: (⭐60)](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) - Sound Field Synthesis Toolbox.
+*   [cochlea (⭐104)](https://github.com/mrkrd/cochlea) [:octocat: (⭐104)](https://github.com/mrkrd/cochlea) [:package:](https://pypi.python.org/pypi/cochlea/) - Inner ear models.
+*   [Loudness (⭐33)](https://github.com/deeuu/loudness) [:octocat: (⭐33)](https://github.com/deeuu/loudness) - Perceived loudness, includes Zwicker, Moore/Glasberg model.
+*   [pyloudnorm](https://www.christiansteinmetz.com/projects-blog/pyloudnorm) [:octocat: (⭐474)](https://github.com/csteinmetz1/pyloudnorm) - Audio loudness meter and normalization, implements ITU-R BS.1770-4.
+*   [Sound Field Synthesis Toolbox](http://www.sfstoolbox.org) [:octocat: (⭐63)](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) - Sound Field Synthesis Toolbox.
 
 ## [41. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
@@ -507,25 +508,25 @@
 
 ### Status Bar
 
-*   [tmux-network-bandwidth (⭐63)](https://github.com/xamut/tmux-network-bandwidth) Show
+*   [tmux-network-bandwidth (⭐68)](https://github.com/xamut/tmux-network-bandwidth) Show
     network bandwidth
-*   [tmux-weather (⭐43)](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
+*   [tmux-weather (⭐49)](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
 
 ## [43. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Awesome JMeter (⭐591)](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
+*   [Awesome JMeter (⭐634)](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
 
 ## [44. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### QA Tools / Runner
 
-*   [Pre-evaluate code at buildtime (⭐120)](https://github.com/kentcdodds/preval.macro) - Pre-evaluate your front end javascript code at build-time
+*   [Pre-evaluate code at buildtime (⭐125)](https://github.com/kentcdodds/preval.macro) - Pre-evaluate your front end javascript code at build-time
 
 ### String / Runner
 
-*   [plexis (⭐145)](https://github.com/plexis-js/plexis) - Lo-fi, powerful, community-driven string manipulation library.
+*   [plexis (⭐146)](https://github.com/plexis-js/plexis) - Lo-fi, powerful, community-driven string manipulation library.
 
 ### Control Flow / Runner
 
@@ -533,11 +534,11 @@
 
 ### Routing / Runner
 
-*   [navaid (⭐739)](https://github.com/lukeed/navaid) - A navigation aid (aka, router) for the browser in 850 bytes\~!
+*   [navaid (⭐748)](https://github.com/lukeed/navaid) - A navigation aid (aka, router) for the browser in 850 bytes\~!
 
 ### API / Runner
 
-*   [wretch (⭐3.9k)](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax.
+*   [wretch (⭐4.2k)](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax.
 
 ## [45. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -570,25 +571,21 @@
 ### Dialog
 
 *   [NNDIAL (⭐346)](https://github.com/shawnwun/NNDIAL) - NNDial is an open source toolkit for building end-to-end trainable task-oriented dialogue models.
-*   [TGen (⭐203)](https://github.com/UFAL-DSG/tgen) - Statistical NLG for spoken dialogue systems.
+*   [TGen (⭐204)](https://github.com/UFAL-DSG/tgen) - Statistical NLG for spoken dialogue systems.
 
 ## [49. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
-### Software / Media Streaming - Video Streaming
-
-*   [Bluecherry](https://www.bluecherrydvr.com/) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. ([Source Code (⭐149)](https://github.com/bluecherrydvr/bluecherry-apps)) `GPL-2.0` `PHP`
-
 ### Software / Polls and Events
 
-*   [hitobito](https://hitobito.com/en) - A web application to manage complex group hierarchies with members, events and a lot more. ([Demo](https://demo.hitobito.com/en/users/sign_in), [Source Code (⭐299)](https://github.com/hitobito/hitobito)) `AGPL-3.0` `Ruby`
+*   [hitobito](https://hitobito.com/en) - A web application to manage complex group hierarchies with members, events and a lot more. ([Demo](https://demo.hitobito.com/en/users/sign_in), [Source Code (⭐318)](https://github.com/hitobito/hitobito)) `AGPL-3.0` `Ruby`
 
 ### Software / Software Development - Project Management
 
-*   [UVDesk](https://www.uvdesk.com/) - UVDesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine. ([Demo](https://demo.uvdesk.com/), [Source Code (⭐1.4k)](https://github.com/uvdesk/community-skeleton)) `MIT` `PHP`
+*   [UVDesk](https://www.uvdesk.com/) - UVDesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine. ([Demo](https://demo.uvdesk.com/), [Source Code (⭐3.3k)](https://github.com/uvdesk/community-skeleton)) `MIT` `PHP`
 
-### External Links / Wikis
+### Software / Video Surveillance
 
-*   Mirrors: [GitHub.com (⭐133k)](https://github.com/awesome-selfhosted/awesome-selfhosted), [Gitlab.com](https://gitlab.com/awesome-selfhosted/awesome-selfhosted)
+*   [Bluecherry](https://www.bluecherrydvr.com/) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. ([Source Code (⭐158)](https://github.com/bluecherrydvr/bluecherry-apps)) `GPL-2.0` `PHP`
 
 ## [50. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -598,7 +595,7 @@
 
 ## [51. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
-### United States 🇺🇸 / South Carolina   <a id="south-carolina-">  </a>
+### United States 🇺🇸 / South Carolina <a id="south-carolina-"></a>
 
 #### Peace Coffee
 
@@ -614,7 +611,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 ### Uncategorised
 
-*   [git-bug (⭐7.7k)](https://github.com/MichaelMure/git-bug) is a distributed, offline-first bug tracker embedded in git.
+*   [git-bug (⭐7.8k)](https://github.com/MichaelMure/git-bug) is a distributed, offline-first bug tracker embedded in git.
 
 ## [53. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -627,8 +624,8 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 ### Internationalization / Image Picker
 
-*   [GenLang (⭐93)](https://github.com/KingWu/gen_lang) <!--stargazers:KingWu/gen_lang--> - Code generator for Internationalization by [King Wu](https://github.com/KingWu)
-*   [Flutter Translate (⭐331)](https://github.com/bratan/flutter_translate) <!--stargazers:bratan/flutter_translate--> - Internationalization (i18n) library by [Florin Bratan](http://bratan.me)
+*   [GenLang (⭐99)](https://github.com/KingWu/gen_lang) <!--stargazers:KingWu/gen_lang--> - Code generator for Internationalization by [King Wu](https://github.com/KingWu)
+*   [Flutter Translate (⭐355)](https://github.com/bratan/flutter_translate) <!--stargazers:bratan/flutter_translate--> - Internationalization (i18n) library by [Florin Bratan](http://bratan.me)
 
 ### 🇰🇷 Korea / Misc
 
@@ -674,7 +671,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 ### Form Logic / Mouse Events
 
-*   [react-final-form (⭐7.2k)](https://github.com/final-form/react-final-form) - Subscription-based form state management
+*   [react-final-form (⭐7.3k)](https://github.com/final-form/react-final-form) - Subscription-based form state management
 
 ## [59. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
@@ -684,9 +681,8 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 ### Extensions and Utilities
 
-*   [8th Wall](https://www.8thwall.com/docs/web/#getting-started-with-playcanvas) - Markerless AR runtime.
 *   [playcanvas-node (⭐4)](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
-*   [tween.js (⭐9.2k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
+*   [tween.js (⭐9.5k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
 
 ### Interactive Experiences
 
@@ -698,7 +694,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 ### Resources / Educational
 
 *   [Classy Class-Based Views](https://ccbv.co.uk/) - Detailed descriptions of methods/properties/attributes for each generic class-based view.
-*   [Classy Django Forms (⭐22)](https://github.com/ana-balica/classy-django-forms) - Detailed descriptions of methods/properties/attributes for each form class.
+*   [Classy Django Forms (⭐24)](https://github.com/ana-balica/classy-django-forms) - Detailed descriptions of methods/properties/attributes for each form class.
 *   [Classy Django REST Framework](http://www.cdrf.co) - Detailed descriptions with methods/attributes for DRF class-based views and serializers.
 
 ### Resources / Community
@@ -718,29 +714,23 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 *   [Django Chat](https://djangochat.com/) - A weekly podcast from William Vincent and Django Fellow Carlton Gibson with discussions of core Django concepts and regular guests.
 *   [Podcast Init](https://www.pythonpodcast.com/) - A popular Python podcast that features Django guests on occasion.
 
-### Hosting / PaaS (Platforms-as-a-Service)
-
-*   [Dokku](http://dokku.viewdocs.io/dokku/)
-*   [Render](https://render.com/)
-
 ### Hosting / IaaS (Infrastructure-as-a-Service)
 
 *   [Digital Ocean](https://www.digitalocean.com)
-*   [Linode](https://www.linode.com/)
 *   [Amazon Lightsail](https://aws.amazon.com/lightsail/)
 
 ### Projects / Boilerplate
 
 *   [cookiecutter-django (⭐11k)](https://github.com/pydanny/cookiecutter-django/) - A full-bodied starter project, highly customizable.
-*   [DRFx (⭐424)](https://github.com/wsvincent/drfx/) - A DRF starter with user auth, Pipenv, and other goodies.
+*   [DRFx (⭐452)](https://github.com/wsvincent/drfx/) - A DRF starter with user auth, Pipenv, and other goodies.
 *   [docker-django (⭐177)](https://github.com/erroneousboat/docker-django/) - A quick starter guide for Django and Docker together.
-*   [wemake-django-template (⭐1.7k)](https://github.com/wemake-services/wemake-django-template/) - Bleeding edge Django template focused on code quality and security.
-*   [django-webpack-starter (⭐57)](https://github.com/khadegd/django-webpack-starter) - Django Webpack starter template for using Webpack 4.
+*   [wemake-django-template (⭐1.8k)](https://github.com/wemake-services/wemake-django-template/) - Bleeding edge Django template focused on code quality and security.
+*   [django-webpack-starter (⭐58)](https://github.com/khadegd/django-webpack-starter) - Django Webpack starter template for using Webpack 4.
 
 ### Projects / Open Source Projects
 
-*   [Blog app with users and forms (⭐933)](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users/)
-*   [Behavior-Driven Development with Aloe (⭐28)](https://github.com/testdrivenio/django-aloe-bdd/)
+*   [Blog app with users and forms (⭐990)](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users/)
+*   [Behavior-Driven Development with Aloe (⭐32)](https://github.com/testdrivenio/django-aloe-bdd/)
 
 ### Django REST Framework / DRF Resources
 
@@ -755,7 +745,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 ### CI / Tools & Plugins
 
-*   [JMeter Maven Plugin (⭐419)](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build.
+*   [JMeter Maven Plugin (⭐425)](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build.
 
 ### Distributed Testing / Tutorials & Demo
 
@@ -767,7 +757,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 ### Related / Awesome Lists
 
-*   [Awesome Testing (⭐1.3k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
+*   [Awesome Testing (⭐1.4k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
 
 ## [62. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
 
@@ -827,15 +817,15 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 ### Projects Using Vue.js / Open Source
 
-*   [Pychat (⭐217)](https://github.com/akoidan/pychat) - Self-hosted webrtc video chat (an alternative to Slack)
+*   [Pychat (⭐226)](https://github.com/akoidan/pychat) - Self-hosted webrtc video chat (an alternative to Slack)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-html-to-paper (⭐285)](https://github.com/mycurelabs/vue-html-to-paper) - Vue mixin for paper printing html elements to paper.
+*   [vue-html-to-paper (⭐291)](https://github.com/mycurelabs/vue-html-to-paper) - Vue mixin for paper printing html elements to paper.
 
 ### Components & Libraries / Utilities
 
-*   [vue-uuid (⭐68)](https://github.com/VitorLuizC/vue-uuid) - Adds UUID to Vue instance.
+*   [vue-uuid (⭐69)](https://github.com/VitorLuizC/vue-uuid) - Adds UUID to Vue instance.
 
 ## [65. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -958,18 +948,17 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 ## [72. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Clarifai](https://www.clarifai.com) — Image API for custom face recognition and detection. Able to train AI models. Free plan has 5000 calls per month.
-*   [Diggernaut](https://www.diggernaut.com/) — Cloud based web scraping and data extraction platform for turning any website to the dataset or to work with it as with an API. Free plan includes 5K page requests monthly.
-*   [dreamfactory.com](https://dreamfactory.com/) — Open source REST API backend for mobile, web, and IoT applications. Hook up any SQL/NoSQL database, file storage system, or external service and it instantly creates a comprehensive REST API platform with live documentation, user management,...
-*   [FreeGeoIP.app](https://freegeoip.app/) - Completely free Geo IP information (JSON, CSV, XML). No registration required, 15000 queries per hour rate limit.
-*   [MailboxValidator](https://www.mailboxvalidator.com) — Email verification service using real mail server connection to confirm valid email. Free API plan has 300 verifications per month.
-*   [OCR.Space](https://ocr.space/) — An OCR API which parses image and pdf files returning the text results in JSON format. 25,000 requests per month free.
+*   [Clarifai](https://www.clarifai.com) — Image API for custom face recognition and detection. Able to train AI models. The free plan has 5,000 calls per month.
+*   [Diggernaut](https://www.diggernaut.com/) — Cloud-based web scraping and data extraction platform for turning any website to the dataset or working with it as an API. The free plan includes 5K page requests monthly.
+*   [dreamfactory.com](https://dreamfactory.com/) — Open source REST API backend for mobile, web, and IoT applications. Hook up any SQL/NoSQL database, file storage system, or external service, and it instantly creates a comprehensive REST API platform with live documentation and user management.
+*   [MailboxValidator](https://www.mailboxvalidator.com) — Email verification service using real mail server connection to confirm valid email. The free API plan has 300 verifications per month.
+*   [OCR.Space](https://ocr.space/) — An OCR API parses image and pdf files that return the text results in JSON format. Twenty-five thousand requests per month are free.
 *   [Pixela](https://pixe.la/) - Free daystream database service. All operations are performed by API. Visualization with heat maps and line graphs is also possible.
 *   [Postman](https://postman.com) — Simplify workflows and create better APIs – faster – with Postman, a collaboration platform for API development. Use the Postman App for free forever. Postman cloud features are also free forever with certain limits.
-*   [ProxyCrawl](https://proxycrawl.com/) — Crawl and scrape websites without the need of proxies, infrastructure or browsers. We solve captchas for you and prevent you being blocked. The first 1000 calls are free of charge.
-*   [RequestBin.com](https://requestbin.com) — Create a free endpoint to which you can send HTTP requests. Any HTTP requests sent to that endpoint will be recorded with the associated payload and headers so you can observe requests from webhooks and other services.
+*   [ProxyCrawl](https://proxycrawl.com/) — Crawl and scrape websites without proxies, infrastructure, or browsers. We solve captchas for you and prevent you from being blocked. The first 1000 calls are free of charge.
+*   [RequestBin.com](https://requestbin.com) — Create a free endpoint to which you can send HTTP requests. Any HTTP requests sent to that endpoint will be recorded with the associated payload and headers so you can observe recommendations from webhooks and other services.
 
 ### Security and PKI
 

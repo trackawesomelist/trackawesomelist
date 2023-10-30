@@ -40,13 +40,13 @@
 
 ### Misc
 
-*   [Guard (⭐702)](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
+*   [Guard (⭐709)](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
 
 ## [7. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries / Lenses
 
-*   [shades (⭐403)](https://github.com/jamesmcnamara/shades) – A lodash-inspired lens-like library for Javascript.
+*   [shades (⭐406)](https://github.com/jamesmcnamara/shades) – A lodash-inspired lens-like library for Javascript.
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
@@ -98,7 +98,7 @@
 
 ### Tracker Frameworks / Seedbox Setup Tools and Guides
 
-*   [NexusPHP (⭐398)](https://github.com/ZJUT/NexusPHP) BitTorrent private tracker scripts written in PHP.
+*   [NexusPHP (⭐406)](https://github.com/ZJUT/NexusPHP) BitTorrent private tracker scripts written in PHP.
 
 ### DDL Link Sites / Free Indexers
 
@@ -135,8 +135,8 @@
 
 ### Packages / Command-line apps
 
-*   [cash-cli (⭐202)](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
-*   [discharge (⭐530)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
+*   [cash-cli (⭐213)](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
+*   [discharge (⭐536)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
 
 ### Packages / Debugging / Profiling
 
@@ -144,25 +144,25 @@
 
 ### Packages / Command-line utilities
 
-*   [Cliffy (⭐328)](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
+*   [Cliffy (⭐336)](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
 
 ### Packages / Real-time
 
-*   [rpc-websockets (⭐507)](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
+*   [rpc-websockets (⭐529)](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
 
 ### Packages / Security
 
-*   [themis (⭐1.7k)](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
+*   [themis (⭐1.8k)](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
 
 ### Packages / Authorization
 
-*   [node-casbin (⭐2.2k)](https://github.com/casbin/node-casbin) - Authorization library that supports access control models like ACL, RBAC and ABAC.
+*   [node-casbin (⭐2.4k)](https://github.com/casbin/node-casbin) - Authorization library that supports access control models like ACL, RBAC and ABAC.
 
 ## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Patterns
 
-*   [CleanArchitectureRxSwift (⭐3.7k)](https://github.com/sergdort/CleanArchitectureRxSwift) - Example of Clean Architecture of iOS app using RxSwift.
+*   [CleanArchitectureRxSwift (⭐3.8k)](https://github.com/sergdort/CleanArchitectureRxSwift) - Example of Clean Architecture of iOS app using RxSwift.
 
 ## [13. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

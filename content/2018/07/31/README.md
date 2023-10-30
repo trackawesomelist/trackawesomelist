@@ -16,7 +16,7 @@
 
 ### Network Protocols
 
-*   [crystal-json-socket (⭐12)](https://github.com/foi/crystal-json-socket) - JSON-socket client & server implementation. Inspired by and compatible with [node-json-socket (⭐155)](https://github.com/sebastianseilund/node-json-socket/) and [ruby-json-socket (⭐3)](https://github.com/foi/ruby-json-socket)
+*   [crystal-json-socket (⭐13)](https://github.com/foi/crystal-json-socket) - JSON-socket client & server implementation. Inspired by and compatible with [node-json-socket (⭐154)](https://github.com/sebastianseilund/node-json-socket/) and [ruby-json-socket (⭐4)](https://github.com/foi/ruby-json-socket)
 
 ## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -28,8 +28,8 @@
 
 ### Related Lists
 
-*   [awesome-pcaptools (⭐2.6k)](https://github.com/caesar0301/awesome-pcaptools) - Useful in network traffic analysis.
-*   [awesome-malware-analysis (⭐9.3k)](https://github.com/rshipp/awesome-malware-analysis) - Some overlap here for artifact analysis.
+*   [awesome-pcaptools (⭐2.8k)](https://github.com/caesar0301/awesome-pcaptools) - Useful in network traffic analysis.
+*   [awesome-malware-analysis (⭐10k)](https://github.com/rshipp/awesome-malware-analysis) - Some overlap here for artifact analysis.
 
 ## [5. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
@@ -58,30 +58,30 @@
 
 ### Honeypots / Supply chain security
 
-*   [CanaryTokens (⭐1.3k)](https://github.com/thinkst/canarytokens) - Self-hostable honeytoken generator and reporting dashboard; demo version available at [CanaryTokens.org](https://canarytokens.org/).
+*   [CanaryTokens (⭐1.5k)](https://github.com/thinkst/canarytokens) - Self-hostable honeytoken generator and reporting dashboard; demo version available at [CanaryTokens.org](https://canarytokens.org/).
 
 ### Host-based tools / Tarpits
 
-*   [Artillery (⭐949)](https://github.com/BinaryDefense/artillery) - Combination honeypot, filesystem monitor, and alerting system designed to protect Linux and Windows operating systems.
+*   [Artillery (⭐961)](https://github.com/BinaryDefense/artillery) - Combination honeypot, filesystem monitor, and alerting system designed to protect Linux and Windows operating systems.
 
 ### Preparedness training and wargaming / Firewall appliances or distributions
 
-*   [DumpsterFire (⭐904)](https://github.com/TryCatchHCF/DumpsterFire) - Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events for Blue Team drills and sensor/alert mapping.
+*   [DumpsterFire (⭐932)](https://github.com/TryCatchHCF/DumpsterFire) - Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events for Blue Team drills and sensor/alert mapping.
 
 ### Tor Onion service defenses / Threat signature packages and collections
 
 *   [OnionBalance](https://onionbalance.readthedocs.io/) - Provides load-balancing while also making Onion services more resilient and reliable by eliminating single points-of-failure.
-*   [Vanguards (⭐166)](https://github.com/mikeperry-tor/vanguards) - Version 3 Onion service guard discovery attack mitigation script (intended for eventual inclusion in Tor core).
+*   [Vanguards (⭐182)](https://github.com/mikeperry-tor/vanguards) - Version 3 Onion service guard discovery attack mitigation script (intended for eventual inclusion in Tor core).
 
 ### Windows-based defenses / Overlay and Virtual Private Networks (VPNs)
 
-*   [NotRuler (⭐85)](https://github.com/sensepost/notruler) - Detect both client-side rules and VBScript enabled forms used by the [Ruler (⭐1.9k)](https://github.com/sensepost/ruler) attack tool when attempting to compromise a Microsoft Exchange server.
+*   [NotRuler (⭐90)](https://github.com/sensepost/notruler) - Detect both client-side rules and VBScript enabled forms used by the [Ruler (⭐2k)](https://github.com/sensepost/ruler) attack tool when attempting to compromise a Microsoft Exchange server.
 
 ## [9. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### GUI
 
-*   [OmniDB (⭐3k)](https://github.com/OmniDB/OmniDB) - Web tool for database management.
+*   [OmniDB (⭐3.1k)](https://github.com/OmniDB/OmniDB) - Web tool for database management.
 
 ### API / Samples
 
@@ -135,7 +135,7 @@
 
 ### UI
 
-*   [Flushbar (⭐898)](https://github.com/AndreHaueisen/flushbar) <!--stargazers:AndreHaueisen/flushbar--> - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen)
+*   [Flushbar (⭐933)](https://github.com/AndreHaueisen/flushbar) <!--stargazers:AndreHaueisen/flushbar--> - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen)
 
 ### Device / Augmented Reality
 
@@ -145,7 +145,7 @@
 
 ### Algorithms and Data structures
 
-*   [jumper (⭐7)](https://github.com/whitfin/jumper) - Jump consistent hash implementation in Elixir (without NIFs).
+*   [jumper (⭐12)](https://github.com/whitfin/jumper) - Jump consistent hash implementation in Elixir (without NIFs).
 *   [matrex (⭐472)](https://github.com/versilov/matrex) - A blazing fast matrix library for Elixir/Erlang with C implementation using CBLAS.
 
 ### Chatting
@@ -163,7 +163,7 @@
 
 ### Static Page Generation
 
-*   [glayu (⭐75)](https://github.com/pablomartinezalvarez/glayu) - A static site generator for mid-sized sites.
+*   [glayu (⭐76)](https://github.com/pablomartinezalvarez/glayu) - A static site generator for mid-sized sites.
 
 ### Third Party APIs
 
@@ -171,11 +171,11 @@
 
 ### Translations and Internationalizations
 
-*   [gettext (⭐405)](https://github.com/elixir-lang/gettext) - Internationalization and localization support for Elixir.
+*   [gettext (⭐419)](https://github.com/elixir-lang/gettext) - Internationalization and localization support for Elixir.
 
 ### Validations
 
-*   [is (⭐19)](https://github.com/bydooweedoo/is) - Fast, extensible and easy to use data structure validation for elixir with nested structures support.
+*   [is (⭐20)](https://github.com/bydooweedoo/is) - Fast, extensible and easy to use data structure validation for elixir with nested structures support.
 
 ## [13. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -198,92 +198,36 @@
 
 ### Utility / Barcode
 
-*   [EtherWalletKit (⭐136)](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
+*   [EtherWalletKit (⭐139)](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
 
 ## [15. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Apps
 
-*   [a js video player (⭐181)](https://github.com/ipfs/website/tree/master/content/docs/examples/webapps/play) - [Demo](https://ipfs.io/ipfs/QmVc6zuAneKJzicnJpfrqCH9gSy6bz54JhcypfJYhGUFQu/play#/ipfs/QmTKZgRNwDNZwHtJSjCp6r5FYefzpULfy37JvMt9DwvXs)
-*   [a markdown renderer (⭐181)](https://github.com/ipfs/website/tree/master/content/docs/examples/webapps/markdown-viewer) - [Demo](https://ipfs.io/ipfs/QmSrCRJmzE4zE1nAfWPbzVfanKQNBhp7ZWmMnEdbiLvYNh/mdown#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u)
-*   [a qr-code renderer (⭐181)](https://github.com/ipfs/website/tree/master/content/docs/examples/webapps/qr-render) - [Demo](https://ipfs.io/ipfs/QmccqhJg5wm5kNjAP4k4HrYxoqaXUGNuotDUqfvYBx8jrR/qr#enter%20text%20here)
-*   [akasha](http://akasha.world/) - A Next-Generation Social Media Network, powered by Ethereum and embedded into IPFS.
-*   [Arbore](http://arbo.re) - A friend-to-friend file-sharing app build on top of IPFS.
-*   [beets (⭐11k)](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS
-*   [Blokaly](https://github.com/blokaly) - A badge issuing, sharing and display platform based on IPFS.
-*   [Boards](https://ipfs.io/ipns/boards.ydns.eu) - Distributed social platform that runs in the browser. [Source (⭐219)](https://github.com/fazo96/ipfs-boards)
-*   [Cohort (⭐19)](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS.
-*   [dapple (⭐296)](https://github.com/nexusdev/dapple) - Dapple is a Solidity developer multitool designed to manage the growing complexity of interconnected smart contract systems.
-*   [Ethlance](http://ethlance.com) - First completely decentralised job market platform built on Ethereum and IPFS. [Source (⭐667)](https://github.com/madvas/ethlance)
-*   [git-ipfs-rehost (⭐188)](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
-*   [Global Upload](https://globalupload.io/) - File transportation service for IPFS, upload files to the future of distributed web.
-*   [Hardbin (⭐211)](https://github.com/jes/hardbin) - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment
-*   [HydrusNetwork (⭐1.5k)](https://github.com/hydrusnetwork/hydrus) - A booru-style media tagging application with a multitude of features, recently added basic ipfs support.
-*   [InterPlanetary Wayback (⭐503)](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
-*   [Interplanetary Wiki (⭐101)](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
+*   [Hardbin (⭐247)](https://github.com/jes/hardbin) - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment
+*   [InterPlanetary Wayback (⭐561)](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
+*   [Interplanetary Wiki (⭐100)](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
 *   [IPFessay](https://gitlab.com/stavros/IPFessay) - A simple way to publish uncensorable essays on IPFS.
-*   [IPFS Event Drop (⭐9)](https://github.com/travisperson/ipfs-event-drops) - An app that allows for improved visualization of ipfs events.
-*   [ipfs-md-wiki (⭐102)](https://github.com/daijiale/ipfs-md-wiki) - Build your wiki system base on ipfs and markdown.
-*   [ipfs-share (⭐67)](https://github.com/rameshvarun/ipfs-share) - Pastebin/Image host/File sharing application
-*   [ipfs.pics (⭐1.1k)](https://github.com/ipfspics/ipfspics-server) - Upload and share pics.
-*   [IPFSBin (⭐131)](https://github.com/victorbjelkholm/ipfsbin) - Pastebin clone build.
-*   [killcord](https://killcord.io/) - A censorship resistant deadman's switch [Source (⭐466)](https://github.com/nomasters/killcord)
-*   [markup.rocks](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Source (⭐21)](https://github.com/davidar/markup.rocks)
-*   [Orbit](https://orbit.chat) - Distributed, peer-to-peer chat application on IPFS. [Source (⭐1.6k)](https://github.com/haadcode/orbit)
-*   [Origin Protocol](https://demo.originprotocol.com/) - Distributed sharing economy marketplace with images, metadata, and ERC 725 data stored on IPFS. [Source (⭐647)](https://github.com/OriginProtocol/demo-dapp)
-*   [Pathephone](https://pathephone.github.io) - Distributed music streaming app.
-*   [Peer Bandwidth Demo](https://ipfs.io/ipfs/QmVaVXbLdw4R5NqAiiQoTWtitxo5g7FS31PQmCLbH9p8Fu/) - An demo app that uses window\.ipfs, provided by the IPFS Companion web extension to get and graph bandwidth info for your IPFS node [Source (⭐18)](https://github.com/tableflip/ipfs-peer-bw-example)
-*   [Peer Map Demo](https://ipfs.io/ipfs/QmRPGCmLKH2dQmNiPRsiuYS9EhhJL1Gmkz5F75gKY1K4Bm/) - A map of IPv4 IPFS peers that uses window\.ipfs [Source (⭐13)](https://github.com/tableflip/ipfs-peer-map-example)
-*   [Playback](https://mafintosh.github.io/playback/) - IPFS playback support. This allows casting a video in IPFS to a Chromecast.
-*   [PubSub Chat Demo](https://ipfs.io/ipfs/QmWZ3u5S7RjFXKfW6dSZhj7CozcvpqJxm48RYMmKkWcmNQ/) - A \~76KB demo chat app that uses window\.ipfs, provided by the IPFS Companion web extension [Source (⭐31)](https://github.com/tableflip/ipfs-pubsub-chat-example)
 *   [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
-*   [Temporal (⭐226)](https://github.com/RTradeLtd/Temporal) - Temporal is an easy to use API and platform for integrating IPFS and other distributed/decentralized storage technologies into enterprise applications
-*   [Textile Photos](https://www.textile.photos) - Textile Photos is a secure, mobile digital wallet for your photos. [Source (⭐240)](https://github.com/textileio/textile-mobile)
-*   [ujo](http://ujomusic.com/) - A blockchain marketplace for musicians.
-
-### Datasets
-
-*   [haveibeenpwnd.com passwords](https://ipfs.io/ipfs/QmSRBDMksX7c5dfheGsYDdWrLdve5hBvXDQm7Yrov7KMJv)  [Source (⭐182)](https://github.com/ipfs/archives/issues/157)
-*   [IETF RFC Archive](https://ipfs.io/ipfs/QmNvTjdqEPjZVWCvRWsFJA1vK7TTw1g9JP6we1WBJTRADM)  [Source (⭐182)](https://github.com/ipfs/archives/issues/18)
-*   [MDSConnect](https://ipfs.io/ipfs/QmcvfB6pAqUfTnuAK8zFKVxbdhopnBPveJrDcy1JAA7HX5)  [Source (⭐182)](https://github.com/ipfs/archives/issues/152)
-*   [Old Internet Files](https://ipfs.io/ipfs/QmbsZEvJE8EU51HCUHQg2aem9JNFmFHdva3tGVYutdCXHp)  [Source (⭐182)](https://github.com/ipfs/archives/issues/176)
-*   [World Wide Web History Project](https://ipfs.io/ipfs/QmRTSA1UFHSx3z7taNRwUVM8AjB2EQwKvyZu3BfJg9QRtZ)  [Source (⭐182)](https://github.com/ipfs/archives/issues/159)
-*   [yarchive.net](https://ipfs.io/ipfs/QmdA5WkDNALetBn4iFeSepHjdLGJdxPBwZyY47ir1bZGAK)  [Source (⭐182)](https://github.com/ipfs/archives/issues/76)
 
 ### Tools
 
-*   [Blockwatch](https://ipfs.io/ipfs/QmdikpwcyeBuGaVzWzSzPuqvBfTGD8jPAVydcCjYHsBUxo/index.html) - Monitor the current block number of the Ethereum blockchain, and set alerts (stored locally using PouchDB in your browser) for when certain block heights are passed. [Source (⭐2)](https://github.com/MidnightLightning/ethereum-blockwatch)
-*   [cachewarmer (⭐61)](https://github.com/BrendanBenshoof/cachewarmer) - Donate ipfs gateways to cache other people's content
-*   [git-remote-ipfs (⭐206)](https://github.com/cryptix/git-remote-ipfs) - push/pull repositories from/to IPFS
-*   [http2ipfs (⭐45)](https://github.com/jbenet/http2ipfs-web) - This is a simple webtool to add URLs to an IPFS node.
-*   [ipcat (⭐20)](https://github.com/noffle/ipcat) - :cat2: Retrieve IPFS object data and send it to stdout.
-*   [ipfs-add-from-encrypted (⭐45)](https://github.com/TroyWilson1/ipfs-add-from-encrypted) - Encrypt a file or directory with AES256 then add to IPFS
-*   [ipfs-add-from-url (⭐24)](https://github.com/maxlath/ipfs-add-from-url) - Add a file to IPFS from a URL instead of a file path
-*   [ipfs-chrome-extension (⭐68)](https://github.com/dylanPowers/ipfs-chrome-extension) - Chrome extension to redirect ipfs.io traffic to local gateway
-*   [ipfs-chrome-station (⭐55)](https://github.com/fbaiodias/ipfs-chrome-station) - Chrome extension to redirect ipfs.io traffic to local gateway
-*   [ipfs-companion (⭐1.8k)](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources.
-*   [ipfs-gui (⭐52)](https://github.com/marcin212/ipfs-gui) - Windows UI integration and IPFS installer
-*   [ipfs-linux-service (⭐64)](https://github.com/dylanPowers/ipfs-linux-service) - IPFS Linux Init Daemon
-*   [ipfs-mount (⭐134)](https://github.com/richardschneider/net-ipfs-mount) - Mount IPFS as a mapped drive on Windows
-*   [ipfs-paste (⭐33)](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS
-*   [ipfs-screencap (⭐50)](https://github.com/jbenet/ipfs-screencap) - Capture screenshots, publish them to IPFS, and copy the link to the clipboard.
-*   [ipfscrape (⭐260)](https://github.com/victorbjelkholm/ipfscrape) - Scrape a webpage with all assets and put it in IPFS
-*   [ipget (⭐278)](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
-*   [IPLD Explorer](https://explore.ipld.io) - Explore the Merkle Forest from the comfort of your browser [Source (⭐95)](https://github.com/ipfs-shipyard/ipld-explorer)
-*   [IPRedirect (⭐8)](https://github.com/JayBrown/IPRedirect) - Browser userscript for redirecting IPFS/IPNS addresses to your local gateway. This should work on any browser that hasn't had an extension written for it yet and has support for userscripts.
-*   [ipscend (⭐259)](https://github.com/diasdavid/ipscend) - Tool for hosting web apps and static websites in IPFS
-*   [pinbot (⭐22)](https://github.com/whyrusleeping/pinbot) - Pin content via IRC
-*   [Siderus Orion](https://orion.siderus.io) - Easy to use IPFS desktop client for macOS, Windows and Linux [Source (⭐120)](https://github.com/Siderus/Orion)
-
-### Discussions
-
-*   [CRDTs discussion (⭐385)](https://github.com/ipfs/notes/issues/23)
+*   [git-ipfs-rehost (⭐196)](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
+*   [git-remote-ipfs (⭐220)](https://github.com/cryptix/git-remote-ipfs) - push/pull repositories from/to IPFS.
+*   [http2ipfs (⭐43)](https://github.com/jbenet/http2ipfs-web) - This is a simple webtool to add URLs to an IPFS node.
+*   [ipfs-add-from-encrypted (⭐52)](https://github.com/TroyWilson1/ipfs-add-from-encrypted) - Encrypt a file or directory with AES256 then add to IPFS.
+*   [ipfs-companion (⭐2k)](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources.
+*   [ipfs-mount (⭐140)](https://github.com/richardschneider/net-ipfs-mount) - Mount IPFS as a mapped drive on Windows.
+*   [ipfs-paste (⭐32)](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS.
+*   [ipfs-screencap (⭐49)](https://github.com/jbenet/ipfs-screencap) - Capture screenshots, publish them to IPFS, and copy the link to the clipboard.
+*   [ipget (⭐350)](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
+*   [IPRedirect (⭐7)](https://github.com/JayBrown/IPRedirect) - Browser userscript for redirecting IPFS/IPNS addresses to your local gateway. This should work on any browser that hasn't had an extension written for it yet and has support for userscripts.
 
 ## [16. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Mathematics
 
-*   [AutoDiff (⭐72)](https://github.com/alexshtf/autodiff) - A library that provides fast, accurate and automatic differentiation (computes derivative / gradient) of mathematical functions.
+*   [AutoDiff (⭐82)](https://github.com/alexshtf/autodiff) - A library that provides fast, accurate and automatic differentiation (computes derivative / gradient) of mathematical functions.
 
 ### Frameworks, Libraries and Tools / SDKs
 
@@ -332,13 +276,13 @@
 
 ### Resources / Examples
 
-*   [Vue + TypeScript Cookbook (⭐271)](https://github.com/ffxsam/vue-typescript-cookbook/blob/master/README.md) - A small cookbook covering some less-than-obvious solutions for people getting started with Vue + TypeScript
+*   [Vue + TypeScript Cookbook (⭐274)](https://github.com/ffxsam/vue-typescript-cookbook/blob/master/README.md) - A small cookbook covering some less-than-obvious solutions for people getting started with Vue + TypeScript
 
 ## [23. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Boilerplates / Themes
 
-*   [Typescript React With Mobx Starter (⭐353)](https://github.com/YDJ-FE/ts-react-webpack) - a starter-template with typescript, react, mobx, antd and webpack).
+*   [Typescript React With Mobx Starter (⭐365)](https://github.com/YDJ-FE/ts-react-webpack) - a starter-template with typescript, react, mobx, antd and webpack).
 
 ---
 

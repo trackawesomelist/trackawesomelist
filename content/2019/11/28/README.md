@@ -63,7 +63,6 @@
 
 ### Storage and Media Processing
 
-*   [easyDB.io](https://easydb.io/) — one-click, hosted database provider. They provide a database for the programming language of your choice for development purposes. The DB is ephemeral and will be deleted after 24 or 72 hours on the free tier.
 *   [npoint.io](https://www.npoint.io/) — JSON store with collaborative schema editing
 
 ## [8. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
@@ -86,7 +85,7 @@
 
 ### Artificial Intelligence
 
-*   [Wargus (⭐296)](https://github.com/Wargus/wargus) - Real-time strategy game. [Website](https://wargus.github.io/).
+*   [Wargus (⭐303)](https://github.com/Wargus/wargus) - Real-time strategy game. [Website](https://wargus.github.io/).
 
 ---
 

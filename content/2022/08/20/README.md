@@ -20,7 +20,7 @@
 
 ### Health
 
-*   [Covid iOS Widget (⭐1)](https://github.com/Hider-alt/covid-widget) - Covid-19 cases graph of a selected country.
+*   [Covid iOS Widget (⭐5)](https://github.com/Hider-alt/covid-widget) - Covid-19 cases graph of a selected country.
 
     <img src="https://raw.githubusercontent.com/Hider-alt/covid-widget/main/img/Mockup.png" width="800">
 
@@ -28,23 +28,23 @@
 
 ### Contents / Tools
 
-*   [NetworkArch (⭐12)](https://github.com/ivirtex/networkarch-flutter) - Network-oriented app that allows you to diagnose your wireless connections by [ivirtex](https://github.com/ivirtex)
+*   [NetworkArch (⭐15)](https://github.com/ivirtex/networkarch-flutter) - Network-oriented app that allows you to diagnose your wireless connections by [ivirtex](https://github.com/ivirtex)
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Email
 
-*   [Takeout](https://takeout.bysourfruit.com) - A constantly updated email service that makes sending emails extremely easy. 500 transactional emails/month free.
+*   [Takeout](https://takeout.bysourfruit.com) - A constantly updated email service that makes sending emails easy. Five hundred transactional emails/month free.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [zredis-cmd (⭐4)](https://github.com/z-shell/zredis-cmd) - Utilizes variable sharing done by [zredis (⭐1)](https://github.com/zdharma-continuum/zredis) plugin to implement remote command execution.
 
 ## [6. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Common Section / Angular
+### General Section / Svelte
 
 *   [Embedsys Weekly](https://embedsysweekly.com/). A weekly selection of embedded software and hardware articles.
 
@@ -58,7 +58,7 @@
 
 ### Relational Database Drivers
 
-*   [KSQL (⭐221)](https://github.com/VinGarcia/ksql) - A Simple and Powerful Golang SQL Library
+*   [KSQL (⭐240)](https://github.com/VinGarcia/ksql) - A Simple and Powerful Golang SQL Library
 
 ## [9. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 

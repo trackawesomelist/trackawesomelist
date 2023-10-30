@@ -10,7 +10,7 @@
 
 ### Frameworks, Libraries and Tools / IOC
 
-*   [AutoDI (⭐87)](https://github.com/Keboo/AutoDI) - Super-fast compile-time dependency injection using IL weaving.
+*   [AutoDI (⭐95)](https://github.com/Keboo/AutoDI) - Super-fast compile-time dependency injection using IL weaving.
 
 ## [2. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
@@ -46,11 +46,11 @@
 
 ### Automation
 
-*   [Danger (⭐5.1k)](https://github.com/danger/danger) - Automate your team's conventions surrounding code review.
+*   [Danger (⭐5.2k)](https://github.com/danger/danger) - Automate your team's conventions surrounding code review.
 
 ### Cryptocurrencies and Blockchains
 
-*   [Blockchain Lite (⭐203)](https://github.com/openblockchains/blockchain.lite.rb) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
+*   [Blockchain Lite (⭐208)](https://github.com/openblockchains/blockchain.lite.rb) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -62,11 +62,11 @@
 
 ### Webserver / Barcode
 
-*   [Lightning (⭐315)](https://github.com/skylab-inc/Lightning) :penguin: - Multiplatform Single-threaded Non-blocking Web and Networking Framework.
+*   [Lightning (⭐314)](https://github.com/skylab-inc/Lightning) :penguin: - Multiplatform Single-threaded Non-blocking Web and Networking Framework.
 
 ### Utility / Barcode
 
-*   [URLQueryItemEncoder (⭐61)](https://github.com/pitiphong-p/URLQueryItemEncoder) - An Encoder for encoding any Encodable value into an array of URLQueryItem.
+*   [URLQueryItemEncoder (⭐63)](https://github.com/pitiphong-p/URLQueryItemEncoder) - An Encoder for encoding any Encodable value into an array of URLQueryItem.
 
 ## [6. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Networking
 
-*   [evpp (⭐3.3k)](https://github.com/Qihoo360/evpp) - C++ high performance networking with TCP/UDP/HTTP protocols. \[BSD]
+*   [evpp (⭐3.4k)](https://github.com/Qihoo360/evpp) - C++ high performance networking with TCP/UDP/HTTP protocols. \[BSD]
 
 ## [8. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -108,7 +108,7 @@
 
 ### Audio and Video Tools / File Sharing
 
-*   [SpotMenu (⭐2.8k)](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kmikiy/SpotMenu) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [SpotMenu (⭐2.9k)](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kmikiy/SpotMenu) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ---
 

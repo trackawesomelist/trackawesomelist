@@ -12,11 +12,11 @@
 
 #### [Codecademy](https://www.codecademy.com/)
 
-**Free** platform for learning to code in web technologies\
-*(HTML, CSS, JavaScript, jQuery, Python, Ruby, Rails, PHP)*
+**Freemium** platform for learning to code in many different programming languages\
+*(HTML, CSS, JavaScript, jQuery, Python, Ruby, Rails, PHP, C++, Java)*
 #### [Khan Academy's Hour of Code](https://www.khanacademy.org/hourofcode)
 
-**Free** interactive 1-hour course to learn the very basics of web development\
+**Free** interactive 1-hour courses to learn the very basics of web development\
 *(HTML, CSS, JavaScript, SQL)*
 #### [Treehouse](https://teamtreehouse.com/)
 
@@ -28,31 +28,23 @@
 *(CSS)*
 #### Udemy [Programming](https://www.udemy.com/courses/search/?q=programming), [Development](https://www.udemy.com/courses/Development/)
 
-**Freemium** marketplace of courses from third party providers. Quality may vary.\
+**Freemium** marketplace of courses from third party providers - quality may vary\
 *(HTML, CSS, JavaScript, Ruby, Rails, Python, iOS, Android)*
 #### [Code Avengers](https://www.codeavengers.com/)
 
-**Freemium** platform for basic web and app develoment courses\
-*(HTML, CSS, JavaScript)*
-#### [learn.shayhowe.com](https://learn.shayhowe.com/)
-
-**Free** beginner to intermediate guides on web development\
+**Freemium** platform for basic web and app development courses\
 *(HTML, CSS, JavaScript)*
 #### [HTML Dog](https://www.htmldog.com/)
 
 **Free** beginner and intermediate guides on web development\
 *(HTML, CSS, JavaScript)*
-#### Degreed [Web Development](https://degreed.com/learning/web%20development), [Programming](https://degreed.com/learning/programming)
-
-**Mixed** directory of courses, videos and other learning resources for web development and programming. Quality may vary.\
-*(HTML, CSS, JavaScript, AngularJS, Rails)*
 
 ### Intermediate
 
 #### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
 
 **Free** intermediate to advanced courses on how to program drawings, animations, games and webpages and more advanced computer science topics\
-*(HTML, CSS, JavaScript, algorithms, cryptography)*
+*(HTML, CSS, JavaScript, SQL, algorithms, cryptography)*
 #### [Udacity](https://www.udacity.com/)
 
 **Free** platform for computer science and web development courses\
@@ -73,17 +65,9 @@
 
 **Free** crowdsourced mentorship platform of programming exercises and code reviews\
 *(Clojure, CoffeeScript, C++, C#, Elixir, Erlang, F#, Go, Haskell, JavaScript, Common Lisp, Lua, Objective-C, OCaml, Perl 5, PL/SQL, Python, Ruby, Scala, Swift)*
-#### [Stanford on iTunes U](https://itunes.stanford.edu/)
-
-**Free** programming and mobile development courses on iTunes from Stanford University\
-*(programming, startups, iOS)*
-#### [PluralSight](https://www.pluralsight.com/tag/developer?pageSize=48\&sort=popular)
-
-**Paid** platform for web development courses\
-*(JavaScript, AngularJS, Java)*
 #### [CodeChef Problems](https://www.codechef.com/problems/easy/)
 
-**Free** intermediate to advanced programming problems\
+**Freemium** intermediate to advanced programming problems\
 *(programming)*
 #### [CodingBat](https://codingbat.com/)
 
@@ -92,15 +76,11 @@
 
 ### Advanced
 
-#### [MIT Courseware](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering\&subcat=computerscience)
-
-**Free** courses from MIT on advanced computer science topics\
-*(varied and extensive computer science topics, C, C++, ..)*
 #### [Coursera](https://www.coursera.org/courses?categories=cs-ai,cs-programming,cs-systems,cs-theory,infotech)
 
-**Free** platform for courses from universities and organizations worldwide\
+**Mixed** platform for courses from universities and organizations worldwide\
 *(varied computer science subjects including theory and programming, data science, algorithms, ...)*
-#### [Awesome CS Courses (⭐44k)](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
+#### [Awesome CS Courses (⭐48k)](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
 
 **Free** university-level courses scoured from around the internet.\
 *(varied and extensive computer science topics, ...)*
@@ -113,11 +93,11 @@
 
 ### Database Tools
 
-*   [Upsert (⭐659)](https://github.com/seamusabshere/upsert) - Upsert on MySQL, PostgreSQL, and SQLite3. Transparently creates functions (UDF) for MySQL and PostgreSQL; on SQLite3, uses INSERT OR IGNORE.
+*   [Upsert (⭐657)](https://github.com/seamusabshere/upsert) - Upsert on MySQL, PostgreSQL, and SQLite3. Transparently creates functions (UDF) for MySQL and PostgreSQL; on SQLite3, uses INSERT OR IGNORE.
 
 ### Profiler and Optimization
 
-*   [benchmark-ips (⭐1.6k)](https://github.com/evanphx/benchmark-ips) - Provides iteration per second benchmarking for Ruby.
+*   [benchmark-ips (⭐1.7k)](https://github.com/evanphx/benchmark-ips) - Provides iteration per second benchmarking for Ruby.
 
 ## [3. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
@@ -129,7 +109,7 @@
 
 ### Framework Components
 
-*   [addict (⭐648)](https://github.com/trenpixster/addict) - User authentication for Phoenix Framework.
+*   [addict (⭐649)](https://github.com/trenpixster/addict) - User authentication for Phoenix Framework.
 
 ### Books
 

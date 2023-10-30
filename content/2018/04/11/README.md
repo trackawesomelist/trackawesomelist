@@ -34,7 +34,7 @@
 
 ### Modules / Array
 
-*   [array.chunk (⭐10)](https://github.com/zhiyelee/array.chunk) - Split array/TypedArray to chunks of given size.
+*   [array.chunk (⭐11)](https://github.com/zhiyelee/array.chunk) - Split array/TypedArray to chunks of given size.
 
 ## [5. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
 

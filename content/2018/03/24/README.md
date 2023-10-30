@@ -10,7 +10,7 @@
 
 ### Command-Line Productivity
 
-*   [CloudClip (⭐69)](https://github.com/skywind3000/CloudClip) - Your own clipboard in the cloud, copy and paste text with gist between different systems
+*   [CloudClip (⭐70)](https://github.com/skywind3000/CloudClip) - Your own clipboard in the cloud, copy and paste text with gist between different systems
 
 ## [2. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -22,8 +22,8 @@
 
 ### IR Tools Collection / Adversary Emulation
 
-*   [AutoTTP (⭐234)](https://github.com/jymcheong/AutoTTP) - Automated Tactics Techniques & Procedures. Re-running complex sequences manually for regression tests, product evaluations, generate data for researchers.
-*   [Red Team Automation (RTA) (⭐971)](https://github.com/endgameinc/RTA) - RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT\&CK.
+*   [AutoTTP (⭐238)](https://github.com/jymcheong/AutoTTP) - Automated Tactics Techniques & Procedures. Re-running complex sequences manually for regression tests, product evaluations, generate data for researchers.
+*   [Red Team Automation (RTA) (⭐993)](https://github.com/endgameinc/RTA) - RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT\&CK.
 
 ## [4. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 

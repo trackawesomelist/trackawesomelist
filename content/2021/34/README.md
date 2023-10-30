@@ -10,12 +10,12 @@
 
 ### Game development
 
-*   [raylib.v (⭐46)](https://github.com/irishgreencitrus/raylib.v) - Updated V bindings for [raylib](https://www.raylib.com) with plans for complete cross-platform support.
+*   [raylib.v (⭐49)](https://github.com/irishgreencitrus/raylib.v) - Updated V bindings for [raylib](https://www.raylib.com) with plans for complete cross-platform support.
 *   [vraylib (⭐47)](https://github.com/MajorHard/vraylib) - V wrapper (bindings) for raylib, the C game development framework.
 
 ### Operating system
 
-*   [mmap (⭐5)](https://github.com/jdonnerstag/vlang-mmap) - Provide native V-lang support for memory-mapping on Linux and Windows.
+*   [mmap (⭐6)](https://github.com/jdonnerstag/vlang-mmap) - Provide native V-lang support for memory-mapping on Linux and Windows.
 
 ## [2. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
@@ -53,13 +53,13 @@
 
 ### Deployment Examples
 
-*   [Keycloak deployment with CDK on AWS with Fargate (⭐71)](https://github.com/aws-samples/cdk-keycloak)
+*   [Keycloak deployment with CDK on AWS with Fargate (⭐79)](https://github.com/aws-samples/cdk-keycloak)
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Syntax / Diagnostics
 
-*   [nvim-treesitter/nvim-treesitter-textobjects (⭐1.2k)](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - Create your own textobjects using tree-sitter queries.
+*   [nvim-treesitter/nvim-treesitter-textobjects (⭐1.5k)](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - Create your own textobjects using tree-sitter queries.
 
 ## [8. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
@@ -71,145 +71,141 @@
 
 *   [DataStax Astra](https://dtsx.io/38htEun) - DataStax Astra Cassandra as a Service running on the Kubernetes operator Cassandra available on AWS and GCP.
 
-## [9. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Communication - Custom Communication Systems
+
+*   [RetroShare](https://retroshare.cc) - Secured and decentralized communication system. Offers decentralized chat, forums, messaging, file transfer. ([Source Code (⭐1.6k)](https://github.com/RetroShare/RetroShare)) `GPL-2.0` `C++`
+
+## [10. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Switzerland
 
 *   [histHub](https://histhub.ch/) - The platform manages authority files on Swiss history.
 
-## [10. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [11. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Arcanum](https://www.drivethrurpg.com/product/368750/Arcanum-High-Magic-for-Ironsworn) - High magic for Ironsworn
 *   [Spiritbound](https://mstrocks.itch.io/spiritbound) - A Studio Ghibli hack of Ironsworn
 
-## [11. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [12. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Jobs / Other external resources
 
 *   [rails jobs on gorails.com](https://jobs.gorails.com)
 *   [rails jobs on weworkremotely.com](https://weworkremotely.com/remote-ruby-on-rails-jobs)
 
-## [12. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [13. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Animations / Checkbox
 
-*   [svelte-typewriter (⭐206)](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
+*   [svelte-typewriter (⭐210)](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
 
-## [13. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [14. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Backend / Redux / ELM / Dependency Injection
 
-*   [NETCoreSync (⭐65)](https://github.com/aldycool/NETCoreSync) - Centralized database synchronization framework for multiple clients, built on top of [Moor (⭐1.8k)](https://github.com/simolus3/moor) library by [Aldy J](https://github.com/aldycool)
+*   [NETCoreSync (⭐73)](https://github.com/aldycool/NETCoreSync) - Centralized database synchronization framework for multiple clients, built on top of [Moor (⭐2k)](https://github.com/simolus3/moor) library by [Aldy J](https://github.com/aldycool)
 
 ### Utilities / Game Engine resources
 
-*   [Dart Code Metrics (⭐735)](https://github.com/dart-code-checker/dart-code-metrics) <!--stargazers:dart-code-checker/dart-code-metrics--> - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for the Dart analyzer by [Dart Code Checker team](https://github.com/dart-code-checker).
+*   [Dart Code Metrics (⭐863)](https://github.com/dart-code-checker/dart-code-metrics) <!--stargazers:dart-code-checker/dart-code-metrics--> - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for the Dart analyzer by [Dart Code Checker team](https://github.com/dart-code-checker).
 
-## [14. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [15. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Image Synthesis / Promptism
 
 *   [Smooth Transitioning Between Position / Rotation / Zoom and Text Inputs by Keyframing Parameters: A Proof of Concept \[15,000 Frames\] : deepdream](https://www.reddit.com/r/deepdream/comments/pagqjx/smooth_transitioning_between_position_rotation/)
 
-## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / To-Do Lists
 
 *   [Focused Work: Focus Timer](https://focusedwork.app) - A simple, flexible Focus Timer. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/focused-work-focus-timer/id1523968394?uo=4)
 
-## [16. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [17. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Authentication / Identifiers
 
 *   [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/) - An overview and comparison of all token-based authentication schemes for end-user APIs.
 
-### Authentication / SAML
+### Authorization / Open-source policy frameworks
+
+*   [Oso (⭐3.2k)](https://github.com/osohq/oso) - A batteries-included library for building authorization in your application.
+
+### SAML / Macaroons
 
 *   [SAML is insecure by design](https://joonas.fi/2021/08/saml-is-insecure-by-design/) - Not only weird, SAML is also insecure by design, as it relies on signatures based on XML canonicalization, not XML byte stream. Which means you can exploit XML parser/encoder differences.
 
-### Authorization / Open-source policy frameworks
-
-*   [Oso (⭐3k)](https://github.com/osohq/oso) - A batteries-included library for building authorization in your application.
-
-## [17. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [18. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Containers
 
-*   [youki (⭐3.8k)](https://github.com/containers/youki)\
+*   [youki (⭐4.9k)](https://github.com/containers/youki)\
     A container runtime written in Rust.
 
-## [18. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [19. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
 *   [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project): General purpose platform for creating interconnected websites featuring a decentralized identity, communications, and permissions framework built using common webserver technology.
 
-## [19. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [20. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-tauri (⭐119)](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
+*   [vite-plugin-tauri (⭐134)](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 
-## [20. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [21. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Automation / DSL
 
-*   [jmeter-java-dsl](https://abstracta.github.io/jmeter-java-dsl/) - Simple API to run JMeter performance tests in an VCS and programmers friendly way.
+*   [jmeter-java-dsl](https://abstracta.github.io/jmeter-java-dsl/) - Simple Java API to run JMeter performance tests in an VCS and programmers friendly way.
 
-## [21. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
+## [22. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
 ### Resources / Other
 
 *   [Jetbrains plugin](https://plugins.jetbrains.com/plugin/17435-inertia-js-support) - PhpStorm/Intellij Ultimate plugin for Inertia.js.
 
-## [22. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [23. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Official Venues / Skeumorphic Icons
 
 *   [Apps for GNOME](https://apps.gnome.org/)
 
-## [23. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [24. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Files and Directories / Files
 
-*   [RecoverPy (⭐755)](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
+*   [RecoverPy (⭐818)](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
 
-## [24. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/week/README.md)
+## [25. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/week/README.md)
 
 ### Clarity Resources / Contracts
 
 *   [CityCoin (⭐71)](https://github.com/citycoins/citycoin) - An implementation of PoX lite using STX transfers to mint new coins using proportional probabilities.
 
-## [25. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [26. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Template engine
 
-*   [handlebars (⭐24)](https://github.com/alosaur/handlebars) - Handlebars template engine for deno
+*   [handlebars (⭐26)](https://github.com/alosaur/handlebars) - Handlebars template engine for deno
 *   [mustache (⭐7)](https://github.com/alosaur/mustache) - Mustache template engine for deno
 
-## [26. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [27. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Equity and Environmental Justice
 
 *   [Opportunity Atlas](https://www.opportunityatlas.org/) - These [datasets provided by Opportunity Insights](https://opportunityinsights.org/data/?geographic_level=0\&topic=0\&paper_id=1652#resource-listing) allow you to analyze social mobility and a variety of other outcomes from life expectancy to patent rates by neighborhood, college, parental income level, and racial background.
 
-## [27. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [28. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Videos / Other Tools
 
 *   [Building a Stock Screener with FastAPI](https://www.youtube.com/watch?v=5GorMC2lPpk) - A you build a web-based stock screener with FastAPI, you'll be introduced to many of FastAPI's features, including Pydantic models, dependency injection, background tasks, and SQLAlchemy integration.
-
-## [28. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
-
-### Software / Communication - Custom Communication Systems
-
-*   [RetroShare](https://retroshare.cc) - Secured and decentralized communication system. Offers decentralized chat, forums, messaging, file transfer. ([Source Code (⭐1.5k)](https://github.com/RetroShare/RetroShare)) `GPL-2.0` `C++`
-
-### Software / File Transfer - Peer-to-peer Filesharing
-
-*   [exatorrent (⭐1.7k)](https://github.com/varbhat/exatorrent) - BitTorrent client written in Go that can be run locally or hosted on a remote server, and supports streaming via HTTP. `GPL-3.0` `Go`
 
 ## [29. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -223,18 +219,27 @@
 
 *   [flat.social](https://flat.social/) - Create fun virtual spaces for online meetings, team activities and virtual socials.
 
-## [31. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [31. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Clojure / Non-X86
+
+*   [Clojure in Small Pieces](https://web.archive.org/web/20201013022918/http://daly.axiom-developer.org/clojure.pdf) - Rich Hickey, Timothy Daly (PDF) *(:card\_file\_box: archived)* [(:card\_file\_box: *unglued*)](https://unglue.it/work/489419/)
+
+### Fortran / Phoenix
+
+*   [Fortran 90 Tutorial](http://www.cs.mtu.edu/~shene/COURSES/cs201/NOTES/fortran.html) - C.-K. Shene at Michigan Technological University (HTML)
+*   [Fortran information & resources](https://www.fortranplus.co.uk/fortran-information/) - fortranplus.co.uk (HTML)
+*   [FORTRAN Performance Tuning co-Guide (1998)](https://www.ibiblio.org/pub/languages/fortran/unct.html) - Timothy C. Prince (HTML)
+*   [Modern Fortran Tutorial](https://masuday.github.io/fortran_tutorial/) - Yutaka Masuda (HTML)
+*   [Professional Programmer’s Guide to Fortran77 (2005)](https://www.star.le.ac.uk/~cgp/prof77.pdf) - Clive G. Page (PDF)
+*   [Self Study Guide 2: Programming in Fortran 95](http://www.mrao.cam.ac.uk/~rachael/compphys/SelfStudyF95.pdf) - Dr Rachael Padman (PDF)
+
+## [32. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / Public Domain
 
 *   [NYPL Digital Collections](https://digitalcollections.nypl.org/) - [:copyright:](https://www.nypl.org/help/about-nypl/legal-notices/website-terms-and-conditions) 180.000 items are Public Domain since January 6th 2016 [Public Domain Collections: Free to Share & Reuse](https://www.nypl.org/research/collections/digital-collections/public-domain)
 *   [Project Apollo Archive](https://www.flickr.com/people/projectapolloarchive/?rb=1) - [:copyright:](https://creativecommons.org/publicdomain/mark/1.0/) High-resolution Apollo imagery scanned by NASA's Johnson Space Center.
-
-## [32. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
-
-### Private Module Registries / Miscellaneous
-
-*   [terraform-registry (⭐47)](https://github.com/philips-labs/terraform-registry) - Serve terraform provider registry backed by GitHub releases.
 
 ## [33. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
@@ -274,7 +279,7 @@
 
 ### Internationalization
 
-*   [crystal-i18n (⭐20)](https://github.com/crystal-i18n/i18n) - An internationalization library inspired by Ruby-I18n
+*   [crystal-i18n (⭐18)](https://github.com/crystal-i18n/i18n) - An internationalization library inspired by Ruby-I18n
 *   [i18n.cr (⭐24)](https://github.com/vladfaust/i18n.cr) - Internationalization shard
 
 ## [35. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
@@ -285,7 +290,7 @@
 
   Fees: No fees
 
-  Lightning: No
+  Lightning: Yes
 
   Directly to Your Wallet: Yes
 
@@ -305,16 +310,16 @@
 
 ### Other Lists / Books
 
-*   [Awesome Jupyter (⭐2.9k)](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion)
-*   [Awesome LaTeX (⭐1.1k)](https://github.com/egeerardyn/awesome-LaTeX/#readme)
-*   [Awesome Markdown (⭐610)](https://github.com/BubuAnabelas/awesome-markdown/#readme)
+*   [Awesome Jupyter (⭐3.5k)](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion)
+*   [Awesome LaTeX (⭐1.2k)](https://github.com/egeerardyn/awesome-LaTeX/#readme)
+*   [Awesome Markdown (⭐687)](https://github.com/BubuAnabelas/awesome-markdown/#readme)
 *   [Delightful Open Science](https://codeberg.org/teaserbot-labs/delightful-open-science)
 
 ## [38. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Make your life easier
 
-*   [DeepfakeHTTP (⭐454)](https://github.com/xnbox/DeepfakeHTTP) - DeepfakeHTTP is a web server that uses HTTP dumps as a source for responses. This tool allows you to test clients against REST, GraphQL, and other APIs.
+*   [DeepfakeHTTP (⭐485)](https://github.com/xnbox/DeepfakeHTTP) - DeepfakeHTTP is a web server that uses HTTP dumps as a source for responses. This tool allows you to test clients against REST, GraphQL, and other APIs.
 
 ## [39. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
@@ -343,7 +348,7 @@
 
 ### Projects / Tools
 
-*   [coq-tools (⭐34)](https://github.com/JasonGross/coq-tools) - Scripts for manipulating Coq developments.
+*   [coq-tools (⭐35)](https://github.com/JasonGross/coq-tools) - Scripts for manipulating Coq developments.
     *   [`find-bug.py`](https://github.com/JasonGross/coq-tools/blob/master/find-bug.py) - Automatically minimizes source files producing an error, creating small test cases for Coq bugs.
     *   [`absolutize-imports.py`](https://github.com/JasonGross/coq-tools/blob/master/absolutize-imports.py) - Processes source files to make loading of dependencies robust against shadowing of file names.
     *   [`inline-imports.py`](https://github.com/JasonGross/coq-tools/blob/master/inline-imports.py) - Creates stand-alone source files from developments by inlining the loading of all dependencies.
@@ -376,7 +381,7 @@
 
 ### Responsive / Syntax Highlight
 
-*   [cdbreact (⭐34)](https://github.com/Devwares-Team/cdbreact) - [demo](https://www.devwares.com/product/contrast) - [docs](https://www.devwares.com/docs/contrast/react/index) - Elegant UI Kit library and reusable components for building mobile-first, responsive websites and web apps.
+*   [cdbreact (⭐44)](https://github.com/Devwares-Team/cdbreact) - [demo](https://www.devwares.com/product/contrast) - [docs](https://www.devwares.com/docs/contrast/react/index) - Elegant UI Kit library and reusable components for building mobile-first, responsive websites and web apps.
 
 ## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -388,7 +393,7 @@
 
 ### Python / Reinforcement Learning
 
-*   [RLlib (⭐25k)](https://github.com/ray-project/ray) - RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
+*   [RLlib (⭐27k)](https://github.com/ray-project/ray) - RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
 
 ## [48. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
@@ -398,15 +403,16 @@
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [TransitWand (⭐35)](https://github.com/conveyal/transit-wand) - An open source web and mobile application for collecting transit data. Use it to create GTFS feeds, capture passenger counts or generate GIS datasets.
+*   [TransitWand (⭐37)](https://github.com/conveyal/transit-wand) - An open source web and mobile application for collecting transit data. Use it to create GTFS feeds, capture passenger counts or generate GIS datasets.
 
 ## [49. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Persistent object databases
 
-*   [bknr.datastore (⭐85)](https://github.com/hanshuebner/bknr-datastore) - a CLOS-based lisp-only database in RAM with transaction logging persistence. [Manual](https://www.common-lisp.net/project/bknr/html/documentation.html). [licence](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html).
+*   [bknr.datastore (⭐90)](https://github.com/hanshuebner/bknr-datastore) - a CLOS-based lisp-only database in RAM with transaction logging persistence. [Manual](https://www.common-lisp.net/project/bknr/html/documentation.html). [licence](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html).
     *   see also this [good introductory blog post](https://ashok-khanna.medium.com/persistent-in-memory-data-storage-in-common-lisp-b-k-n-r-37f8ae76042f)
-    *   an example web application using bknr.datastore: [screenshotbot-oss (⭐161)](https://github.com/screenshotbot/screenshotbot-oss).
+    *   an example web application using bknr.datastore: [screenshotbot-oss (⭐169)](https://github.com/screenshotbot/screenshotbot-oss).
+    *   See also [bknr.cluster (⭐8)](https://github.com/tdrhq/bknr.cluster), if you want a highly-available replicated version of bknr.datastore.
 
 ### Utils / Third-party APIs
 
@@ -414,7 +420,7 @@
 
 ### Command-line options parsers / Third-party APIs
 
-*   👍 [Clingon (⭐86)](https://github.com/dnaeon/clingon) - a rich command-line options parser system.
+*   👍 [Clingon (⭐103)](https://github.com/dnaeon/clingon) - a rich command-line options parser system.
     *   it may have the richest feature set: subcommands, generation of bash completion, support for various kinds of options (integers, booleans, counter, enums…), extensible…
 
 ## [50. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
@@ -444,7 +450,7 @@
 
 ### Starter apps and CLIs
 
-*   Take a look at [previously logged issues (⭐152)](https://github.com/ArcGIS/awesome-arcgis-developer/issues).
+*   Take a look at [previously logged issues (⭐157)](https://github.com/ArcGIS/awesome-arcgis-developer/issues).
 
 ## [53. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -511,7 +517,7 @@
   CORS: Yes
 
 
-- API: [CORS Proxy (⭐17)](https://github.com/burhanuday/cors-proxy)
+- API: [CORS Proxy (⭐27)](https://github.com/burhanuday/cors-proxy)
 
   Description: Get around the dreaded CORS error by using this proxy as a middle man
 
@@ -652,7 +658,7 @@
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [boardgame.io (⭐9.5k)](https://github.com/boardgameio/boardgame.io) - State management and multiplayer networking for turn-based games.
+*   :tada: [boardgame.io (⭐9.7k)](https://github.com/boardgameio/boardgame.io) - State management and multiplayer networking for turn-based games.
 *   :tada: [Solar2D](https://solar2d.com/) - A Lua based game engine with focus on ease of iterations and usage.
 
 ## [55. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
@@ -662,7 +668,7 @@
 *   **Bmon**: (Bandwidth Monitor) is a tool similar to nload that shows the traffic load over all the network interfaces on the system. The output also consists of a graph and a section with packet level details. [Screenshot](https://www.binarytides.com/blog/wp-content/uploads/2014/03/bmon-640x480.png)
 *   **Bwm-ng**: (Bandwidth Monitor Next Generation) is another very simple real time network load monitor that reports a summary of the speed at which data is being transferred in and out of all available network interfaces on the system. [Screenshot](https://a.fsdn.com/con/app/proj/bwmng/screenshots/10965.jpg/245/183/1)
 *   **CBM**: (Color Bandwidth Meter) A tiny little simple bandwidth monitor that displays the traffic volume through network interfaces. No further options, just the traffic stats are display and updated in realtime. [Screenshot](https://www.binarytides.com/blog/wp-content/uploads/2014/03/cbm.png)
-*   **Collectl**: reports system statistics in a style that is similar to dstat, and like dstat it gathers statistics about various different system resources like cpu, memory, network etc. Over here is a simple example of how to use it to report network usage/bandwidth. [Screenshot](https://www.cse.wustl.edu/\~jain/cse567-08/ftp/hw/collectl.png)
+*   **Collectl**: reports system statistics in a style that is similar to dstat, and like dstat it gathers statistics about various different system resources like cpu, memory, network etc. Over here is a simple example of how to use it to report network usage/bandwidth. [Screenshot](https://www.cse.wustl.edu/~jain/cse567-08/ftp/hw/collectl.png)
 *   **Dstat**: is a versatile tool (written in python) that can monitor different system statistics and report them in a batch style mode or log the data to a csv or similar file. This example shows how to use dstat to report network bandwidth [Screenshot](https://www.tecmint.com/wp-content/uploads/2016/09/Dstat-Linux-Monitoring.png)
 *   **Ifstat**: reports the network bandwidth in a batch style mode. The output is in a format that is easy to log and parse using other programs or utilities. [Screenshot](https://community.linuxmint.com/img/screenshots/ifstat.png)
 *   **Iftop**: measures the data flowing through individual socket connections, and it works in a manner that is different from Nload. Iftop uses the pcap library to capture the packets moving in and out of the network adapter, and then sums up the size and count to find the total bandwidth under use. Although iftop reports the bandwidth used by individual connections, it cannot report the process name/id involved in the particular socket connection. But being based on the pcap library, iftop is able to filter the traffic and report bandwidth usage over selected host connections as specified by the filter. [Screenshot](https://www.binarytides.com/blog/wp-content/uploads/2014/03/iftop.png)
@@ -681,9 +687,9 @@
 ### Traffic Capture
 
 *   [Libpcap/Tcpdump](https://www.tcpdump.org/): The official site of tcpdump, a powerful command-line packet analyzer; and libpcap, a portable C/C++ library for network traffic capture.
-*   [Ngrep (⭐693)](https://github.com/jpr5/ngrep/): strives to provide most of GNU grep's common features, applying them to the network layer. ngrep is a pcap-aware tool that will allow you to specify extended regular or hexadecimal expressions to match against data payloads of packets. It currently recognizes TCP, UDP and ICMP across Ethernet, PPP, SLIP, FDDI, Token Ring and null interfaces, and understands bpf filter logic in the same fashion as more common packet sniffing tools, such as tcpdump and snoop. [Screenshot](https://www.cyberciti.biz/media/new/cms/2012/12/ngrep.png)
+*   [Ngrep (⭐759)](https://github.com/jpr5/ngrep/): strives to provide most of GNU grep's common features, applying them to the network layer. ngrep is a pcap-aware tool that will allow you to specify extended regular or hexadecimal expressions to match against data payloads of packets. It currently recognizes TCP, UDP and ICMP across Ethernet, PPP, SLIP, FDDI, Token Ring and null interfaces, and understands bpf filter logic in the same fashion as more common packet sniffing tools, such as tcpdump and snoop. [Screenshot](https://www.cyberciti.biz/media/new/cms/2012/12/ngrep.png)
 *   [n2disk](https://www.ntop.org/products/traffic-recording-replay/n2disk/) (Commercial): A multi-Gigabit network traffic recorder with indexing capabilities. n2disk is a network traffic recorder application. With n2disk you can capture full- sized network packets at multi-Gigabit rate (above 10 Gigabit/s on adequate hardware) from a live network interface, and write them into files without any packet loss.
-*   [OpenFPC (⭐63)](https://github.com/leonward/OpenFPC): OpenFPC is a set of scripts that combine to provide a lightweight full-packet network traffic recorder & buffering tool. Its design goal is to allow non-expert users to deploy a distributed network traffic recorder on COTS hardware while integrating into existing alert and log tools.
+*   [OpenFPC (⭐65)](https://github.com/leonward/OpenFPC): OpenFPC is a set of scripts that combine to provide a lightweight full-packet network traffic recorder & buffering tool. Its design goal is to allow non-expert users to deploy a distributed network traffic recorder on COTS hardware while integrating into existing alert and log tools.
 *   [PF\_RING](https://www.ntop.org/products/packet-capture/pf_ring/): PF\_RING is a new type of network socket that dramatically improves the packet capture speed. Available for Linux kernels 2.6.32 and newer. No need to patch the kernel. PF\_RING-aware drivers for increased packet capture acceleration.
 *   [TTT](https://www2.sonycsl.co.jp/person/kjc/kjc/software.html#ttt): (Tele Traffic Tapper) is yet another descendant of tcpdump but it is capable of real-time, graphical, and remote traffic-monitoring. ttt won't replace tcpdump, rather, it helps you find out what to look into with tcpdump. ttt monitors the network and automatically picks up the main contributors of the traffic within the time window. The graphs are updated every second by default.
 
@@ -693,20 +699,20 @@
 *   [DPDK](https://www.dpdk.org/): is a set of libraries and drivers for fast packet processing. It was designed to run on any processors. The first supported CPU was Intel x86 and it is now extended to IBM Power 8, EZchip TILE-Gx and ARM. It runs mostly in Linux userland. A FreeBSD port is available for a subset of DPDK features.
 *   [ECap](https://web.archive.org/web/20170715080351/https://bitbucket.org/nathanj/ecap/wiki/Home): (External Capture) is a distributed network sniffer with a web front- end. Ecap was written many years ago in 2005, but a post on the tcpdump-workers mailing list requested a similar application... so here it is. It would be fun to update it and work on it again if there's any interest.
 *   [EtherApe](https://etherape.sourceforge.io/): is a graphical network monitor for Unix modeled after etherman. Featuring link layer, ip and TCP modes, it displays network activity graphically. Hosts and links change in size with traffic. Color coded protocols display. It supports Ethernet, FDDI, Token Ring, ISDN, PPP and SLIP devices. It can filter traffic to be shown, and can read traffic from a file as well as live from the network.
-*   [Ipsumdump (⭐31)](https://github.com/kohler/ipsumdump): summarizes TCP/IP dump files into a self-describing ASCII format easily readable by humans and programs. Ipsumdump can read packets from network interfaces, from tcpdump files, and from existing ipsumdump files. It will transparently uncompress tcpdump or ipsumdump files when necessary. It can randomly sample traffic, filter traffic based on its contents, anonymize IP addresses, and sort packets from multiple dumps by timestamp. Also, it can optionally create a tcpdump file containing actual packet data. It's also convenient to work with CLICK as a inserted module.
+*   [Ipsumdump (⭐33)](https://github.com/kohler/ipsumdump): summarizes TCP/IP dump files into a self-describing ASCII format easily readable by humans and programs. Ipsumdump can read packets from network interfaces, from tcpdump files, and from existing ipsumdump files. It will transparently uncompress tcpdump or ipsumdump files when necessary. It can randomly sample traffic, filter traffic based on its contents, anonymize IP addresses, and sort packets from multiple dumps by timestamp. Also, it can optionally create a tcpdump file containing actual packet data. It's also convenient to work with CLICK as a inserted module.
 *   [ITA](https://web.archive.org/web/20181016104652/http://ita.ee.lbl.gov/html/traces.html): The Internet Traffic Archive is a moderated repository to support widespread access to traces of Internet network traffic, sponsored by ACM SIGCOMM. The traces can be used to study network dynamics, usage characteristics, and growth patterns, as well as providing the grist for trace- driven simulations. The archive is also open to programs for reducing raw trace data to more manageable forms, for generating synthetic traces, and for analyzing traces.
-*   [Libcrafter (⭐284)](https://github.com/pellegre/libcrafter): is a high level library for C++ designed to make easier the creation and decoding of network packets. It is able to craft or decode packets of most common network protocols, send them on the wire, capture them and match requests and replies.
-*   [Libnet (⭐758)](https://github.com/libnet/libnet): is a collection of routines to help with the construction and handling of network packets. It provides a portable framework for low-level network packet shaping, handling and injection. Libnet features portable packet creation interfaces at the IP layer and link layer, as well as a host of supplementary and complementary functionality. Using libnet, quick and simple packet assembly applications can be whipped up with little effort.
+*   [Libcrafter (⭐290)](https://github.com/pellegre/libcrafter): is a high level library for C++ designed to make easier the creation and decoding of network packets. It is able to craft or decode packets of most common network protocols, send them on the wire, capture them and match requests and replies.
+*   [Libnet (⭐827)](https://github.com/libnet/libnet): is a collection of routines to help with the construction and handling of network packets. It provides a portable framework for low-level network packet shaping, handling and injection. Libnet features portable packet creation interfaces at the IP layer and link layer, as well as a host of supplementary and complementary functionality. Using libnet, quick and simple packet assembly applications can be whipped up with little effort.
 *   [Multitail](https://www.vanheusden.com/multitail/): now has a colorscheme included for monitoring the tcpdump output. It can also filter, convert timestamps to timestrings and much more.
 *   [Netsniff-ng](https://www.github.com/borkmann/netsniff-ng): Netsniff-ng is a toolkit of free Linux networking utilities, a Swiss army knife for your daily Linux network plumbing if you will.
 *   [Network Expect](https://www.netexpect.org/): is a framework that allows to easily build tools that can interact with network traffic. Following a script, traffic can be injected into the network, and decisions can be taken, and acted upon, based on received network traffic. An interpreted language provides branching and high-level control structures to direct the interaction with the network. Network Expect uses libpcap for packet capture and libwireshark (from the Wireshark project) for packet dissection tasks. (GPL, BSD/Linux/OSX).
 *   [Ntopng](https://www.ntop.org/products/traffic-analysis/ntop/): Ntopng is the next generation version of the original ntop, a network traffic probe that shows the network usage, similar to what the popular top Unix command does. ntop is based on libpcap and it has been written in a portable way in order to virtually run on every Unix platform, MacOSX and on Win32 as well.
 *   [pyshark](https://kiminewt.github.io/pyshark/): A Python wrapper for tshark, allowing python packet parsing using wireshark dissectors. There are quite a few python packet parsing modules, this one is different because it doesn't actually parse any packets, it simply uses tshark's (wireshark command-line utility) ability to export XMLs to use its parsing.
 *   [Sanitize](https://web.archive.org/web/20190210101529/http://ita.ee.lbl.gov/html/contrib/sanitize.html): Sanitize is a collection of five Bourne shell scripts for reducing tcpdump traces in order to address security and privacy concerns, by renumbering hosts and stripping out packet contents. Each script takes as input a tcpdump trace file and generates to stdout a reduced, ASCII file in fixed-column format.
-*   [Socket Sentry (⭐1)](https://github.com/rhasselbaum/socket-sentry): Socket Sentry is a real-time network traffic monitor for KDE Plasma in the same spirit as tools like iftop and netstat.
-*   [Tcpreplay (⭐928)](https://github.com/appneta/tcpreplay): Replays a pcap file on an interface using libnet.
+*   [Socket Sentry (⭐2)](https://github.com/rhasselbaum/socket-sentry): Socket Sentry is a real-time network traffic monitor for KDE Plasma in the same spirit as tools like iftop and netstat.
+*   [Tcpreplay (⭐1k)](https://github.com/appneta/tcpreplay): Replays a pcap file on an interface using libnet.
 *   [Tcpslice (⭐6)](https://github.com/pyke369/tcpsplice): Tcpslice is a tool for extracting portions of packet trace files generated using tcpdump's -w flag. It can combine multiple trace files, and/or extract portions of one or more traces based on time.
-*   [Tcpsplit (⭐3)](https://github.com/pmcgleenon/tcpsplit): A tool to break a single libpcap packet trace into some number of sub- traces, breaking the trace along TCP connection boundaries so that a TCP connection doesn't end up split across two sub-traces. This is useful for making large trace files tractable for in- depth analysis and for subsetting a trace for developing analysis on only part of a trace.
+*   [Tcpsplit (⭐4)](https://github.com/pmcgleenon/tcpsplit): A tool to break a single libpcap packet trace into some number of sub- traces, breaking the trace along TCP connection boundaries so that a TCP connection doesn't end up split across two sub-traces. This is useful for making large trace files tractable for in- depth analysis and for subsetting a trace for developing analysis on only part of a trace.
 *   [Tcpstat](https://frenchfries.net/paul/tcpstat/): Tcpstat reports certain network interface statistics much like vmstat does for system statistics. tcpstat gets its information by either monitoring a specific interface, or by reading previously saved tcpdump data from a file.
 *   [WAND](https://research.wand.net.nz/): A wonderful collection of tools built on libtrace to process network traffic, which is from The University of Waikato. I love this project!
 *   [WinPcap](https://www.winpcap.org/): An extract of a message from Guy Harris on state of WinPcap and WinDump.
@@ -715,8 +721,8 @@
 ### File Extraction
 
 *   [Snort](https://www.snort.org/): is an open source network intrusion prevention and detection system (IDS/IPS) developed by Sourcefire, now owned by Cisco. Combining the benefits of signature, protocol and anomaly- based inspection, Snort is the most widely deployed IDS/IPS technology worldwide.
-*   [Dsniff](https://www.monkey.org/\~dugsong/dsniff/): Dsniff is a collection of tools for network auditing and penetration testing. dsniff, filesnarf, mailsnarf, msgsnarf, urlsnarf, and webspy passively monitor a network for interesting data (passwords, e-mail, files, etc.). arpspoof, dnsspoof, and macof facilitate the interception of network traffic normally unavailable to an attacker (e.g, due to layer-2 switching). sshmitm and webmitm implement active monkey-in-the-middle attacks against redirected SSH and HTTPS sessions by exploiting weak bindings in ad-hoc PKI.
-*   [Foremost (⭐38)](https://github.com/jonstewart/foremost): is a console program to recover files based on their headers, footers, and internal data structures. This process is commonly referred to as data carving. Foremost can work on image files, such as those generated by dd, Safeback, Encase, etc, or directly on a drive. The headers and footers can be specified by a configuration file or you can use command line switches to specify built-in file types. These built-in types look at the data structures of a given file format allowing for a more reliable and faster recovery.
+*   [Dsniff](https://www.monkey.org/~dugsong/dsniff/): Dsniff is a collection of tools for network auditing and penetration testing. dsniff, filesnarf, mailsnarf, msgsnarf, urlsnarf, and webspy passively monitor a network for interesting data (passwords, e-mail, files, etc.). arpspoof, dnsspoof, and macof facilitate the interception of network traffic normally unavailable to an attacker (e.g, due to layer-2 switching). sshmitm and webmitm implement active monkey-in-the-middle attacks against redirected SSH and HTTPS sessions by exploiting weak bindings in ad-hoc PKI.
+*   [Foremost (⭐42)](https://github.com/jonstewart/foremost): is a console program to recover files based on their headers, footers, and internal data structures. This process is commonly referred to as data carving. Foremost can work on image files, such as those generated by dd, Safeback, Encase, etc, or directly on a drive. The headers and footers can be specified by a configuration file or you can use command line switches to specify built-in file types. These built-in types look at the data structures of a given file format allowing for a more reliable and faster recovery.
 *   [Justniffer](https://onotelli.github.io/justniffer/): Justniffer is a network protocol analyzer that captures network traffic and produces logs in a customized way, can emulate Apache web server log files, track response times and extract all "intercepted" files from the HTTP traffic.
 *   [NetworkMiner](https://www.netresec.com/index.ashx?page=NetworkMiner): NetworkMiner is a Network Forensic Analysis Tool (NFAT) for Windows (but also works in Linux / Mac OS X / FreeBSD). NetworkMiner can be used as a passive network sniffer/packet capturing tool in order to detect operating systems, sessions, hostnames, open ports etc. without putting any traffic on the network. NetworkMiner can also parse PCAP files for off-line analysis and to regenerate/ reassemble transmitted files and certificates from PCAP files.
 
@@ -745,29 +751,29 @@
 
 ### Packages / Ecosystem
 
-*   [ROS2 For Unity (⭐265)](https://github.com/RobotecAI/ros2-for-unity) - An asset package which enables high-performance communication between Unity3D simulations and ROS2 ecosystem. ![ros2-for-unity](https://img.shields.io/github/stars/RobotecAI/ros2-for-unity.svg)
+*   [ROS2 For Unity (⭐298)](https://github.com/RobotecAI/ros2-for-unity) - An asset package which enables high-performance communication between Unity3D simulations and ROS2 ecosystem. ![ros2-for-unity](https://img.shields.io/github/stars/RobotecAI/ros2-for-unity.svg)
 
 ### Packages / Client libraries
 
-*   [ros2cs (⭐60)](https://github.com/RobotecAI/ros2cs) - an alternative to ros2\_dotnet, a ROS2 C# interface supporting full range of messages and modern ROS2. ![ros2cs](https://img.shields.io/github/stars/RobotecAI/ros2cs.svg)
+*   [ros2cs (⭐69)](https://github.com/RobotecAI/ros2cs) - an alternative to ros2\_dotnet, a ROS2 C# interface supporting full range of messages and modern ROS2. ![ros2cs](https://img.shields.io/github/stars/RobotecAI/ros2cs.svg)
 
 ## [58. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / System tools
 
-*   [bottom (⭐6.8k)](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ClementTsang/bottom/ci/master)](https://github.com/ClementTsang/bottom/actions?query=branch%3Amaster)
+*   [bottom (⭐7.7k)](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ClementTsang/bottom/ci/master)](https://github.com/ClementTsang/bottom/actions?query=branch%3Amaster)
 
 ### Applications / Task scheduling
 
-*   [delicate (⭐588)](https://github.com/BinChengZhao/delicate) — A lightweight and distributed task scheduling platform written in rust. [![Build Status](https://github.com/BinChengZhao/delicate/workflows/CI/badge.svg)](https://github.com/BinChengZhao/delicate/actions)
+*   [delicate (⭐616)](https://github.com/BinChengZhao/delicate) — A lightweight and distributed task scheduling platform written in rust. [![Build Status](https://github.com/BinChengZhao/delicate/workflows/CI/badge.svg)](https://github.com/BinChengZhao/delicate/actions)
 
 ### Applications / Video
 
-*   [harlanc/xiu (⭐734)](https://github.com/harlanc/xiu) — A powerful and secure live server by pure rust (rtmp/httpflv/hls/relay). [![crates.io](https://img.shields.io/crates/v/xiu.svg)](https://crates.io/crates/xiu)
+*   [harlanc/xiu (⭐1k)](https://github.com/harlanc/xiu) — A powerful and secure live server by pure rust (rtmp/httpflv/hls/relay). [![crates.io](https://img.shields.io/crates/v/xiu.svg)](https://crates.io/crates/xiu)
 
 ### Libraries / GUI
 
-*   [emoon/rust\_minifb (⭐836)](https://github.com/emoon/rust_minifb) — minifb is a cross-platform window setup with optional bitmap rendering. It also comes with easy mouse and keyboard input. Primarily designed for prototyping
+*   [emoon/rust\_minifb (⭐876)](https://github.com/emoon/rust_minifb) — minifb is a cross-platform window setup with optional bitmap rendering. It also comes with easy mouse and keyboard input. Primarily designed for prototyping
 
 ## [59. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -809,7 +815,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-timer-hook (⭐134)](https://github.com/riderx/vue-timer-hook) - Vue 3 Timer module inspired by react-timer-hook
+*   [vue-timer-hook (⭐154)](https://github.com/riderx/vue-timer-hook) - Vue 3 Timer module inspired by react-timer-hook
 
 ### Components & Libraries / UI Layout
 
@@ -817,14 +823,14 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Materio-vuetify-vuejs-admin-template-free (⭐527)](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template. [Live demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template-free/demo/dashboard)
-*   [Fes.js (⭐1.1k)](https://github.com/WeBankFinTech/fes.js/blob/master/README.en-US.md) - An easy-to-use front-end application framework based on vue3.
+*   [Materio-vuetify-vuejs-admin-template-free (⭐629)](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template. [Live demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template-free/demo/dashboard)
+*   [Fes.js (⭐1.2k)](https://github.com/WeBankFinTech/fes.js/blob/master/README.en-US.md) - An easy-to-use front-end application framework based on vue3.
 
 ## [64. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Changes
 
-*   [Bytebase (⭐5.1k)](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
+*   [Bytebase (⭐7k)](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
 
 ## [65. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 

@@ -76,7 +76,7 @@
 
 ### Modules / Object
 
-*   [deep-object-diff (⭐818)](https://github.com/mattphillips/deep-object-diff) - Deep diff two JavaScript Objects while preserving the data structure. Including nested structures of Arrays and Objects.
+*   [deep-object-diff (⭐945)](https://github.com/mattphillips/deep-object-diff) - Deep diff two JavaScript Objects while preserving the data structure. Including nested structures of Arrays and Objects.
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

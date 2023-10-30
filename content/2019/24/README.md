@@ -264,7 +264,7 @@
 
 ### Software / Algorithms
 
-*   [Linkcomm - Link Communities in Complex Networks (⭐87)](https://github.com/bagrow/linkcomm) - Community detection algorithms, available in C++, Python [and R](https://CRAN.R-project.org/package=linkcomm).
+*   [Linkcomm - Link Communities in Complex Networks (⭐91)](https://github.com/bagrow/linkcomm) - Community detection algorithms, available in C++, Python [and R](https://CRAN.R-project.org/package=linkcomm).
 
 ### Software / Python
 
@@ -327,32 +327,32 @@
 ### Projects Using Vue.js / Open Source
 
 *   [Thermal](https://thermal.codecarrot.net) - One stop to all Git repository.
-*   [QMK Configurator (⭐539)](https://github.com/qmk/qmk_configurator) - QMK Firmware Keyboard Configuration UI in Vue.js.
+*   [QMK Configurator (⭐587)](https://github.com/qmk/qmk_configurator) - QMK Firmware Keyboard Configuration UI in Vue.js.
 
 ### Components & Libraries / UI Components
 
-*   [@innologica/vue-stackable-modal (⭐36)](https://github.com/Innologica/vue-stackable-modal) - Library for modal dialogs which can be stacked. Fully customizable and very easy to use.
+*   [@innologica/vue-stackable-modal (⭐37)](https://github.com/Innologica/vue-stackable-modal) - Library for modal dialogs which can be stacked. Fully customizable and very easy to use.
 *   [simple-vue2-datetimepicker (⭐3)](https://github.com/jamespjarvis/simple-vue2-datetimepicker) - A simple, easy to use vue.js component for date and time picking. :new:
 *   [vue-business-hours (⭐49)](https://github.com/sbarry50/vue-business-hours) - Vue component for selecting business hours in an administration panel or dashboard.
-*   [material-vue-daterange-picker (⭐68)](https://github.com/ly525/material-vue-daterange-picker) - a daterange picker of Material Design style for Vuejs 2.x, which is compatible with vuetify and friendly for mobile.
+*   [material-vue-daterange-picker (⭐69)](https://github.com/ly525/material-vue-daterange-picker) - a daterange picker of Material Design style for Vuejs 2.x, which is compatible with vuetify and friendly for mobile.
 
 ### Components & Libraries / Frameworks
 
-*   [CabloyJS (⭐778)](https://github.com/zhennann/cabloy) The Ultimate NodeJS Full Stack Business Development Platform, based on KoaJS & EggJS & VueJS & Framework7
+*   [CabloyJS (⭐848)](https://github.com/zhennann/cabloy) The Ultimate NodeJS Full Stack Business Development Platform, based on KoaJS & EggJS & VueJS & Framework7
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-backtotop (⭐181)](https://github.com/caiofsouza/vue-backtotop) - A Back-to-top component for Vue.js, which scroll page to the top when clicked.
+*   [vue-backtotop (⭐182)](https://github.com/caiofsouza/vue-backtotop) - A Back-to-top component for Vue.js, which scroll page to the top when clicked.
 
 ## [17. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Github Libraries / Randomized Algorithms
 
 *   C++
-    *   [by @xtaci (⭐4.8k)](https://github.com/xtaci/algorithms)
-    *   [by @PetarV- (⭐600)](https://github.com/PetarV-/Algorithms)
+    *   [by @xtaci (⭐5k)](https://github.com/xtaci/algorithms)
+    *   [by @PetarV- (⭐617)](https://github.com/PetarV-/Algorithms)
     *   [by @faheel (⭐491)](https://github.com/faheel/Algos)
-    *   [by @sslotin (⭐140)](http://github.com/sslotin/algo)
+    *   [by @sslotin (⭐154)](http://github.com/sslotin/algo)
 
 ## [18. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
@@ -364,7 +364,7 @@
 
 ### Miscellaneous
 
-*   [bruck (⭐486)](https://github.com/Heydon/bruck) - Prototyping system built with web components and the Houdini Paint API.
+*   [bruck (⭐487)](https://github.com/Heydon/bruck) - Prototyping system built with web components and the Houdini Paint API.
 *   [webcomponents.org](http://webcomponents.org/) - Discuss & share web components.
 
 ## [20. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
@@ -388,7 +388,7 @@
 
 ### Other
 
-*   [luna (⭐983)](https://github.com/rvpanoz/luna) - App to manage npm dependencies.
+*   [luna (⭐995)](https://github.com/rvpanoz/luna) - App to manage npm dependencies.
 *   [emma-cli (⭐1.2k)](https://github.com/maticzav/emma-cli) - Interactive CLI package search utility.
 
 ## [23. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
@@ -419,20 +419,20 @@
 
 ### UI
 
-*   [Direct Select (⭐575)](https://github.com/LanarsInc/direct-select-flutter) - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
+*   [Direct Select (⭐641)](https://github.com/LanarsInc/direct-select-flutter) - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
 
 ### Charts / Image Picker
 
-*   [FL Chart (⭐5.2k)](https://github.com/imaNNeoFighT/fl_chart) <!--stargazers:imaNNeoFighT/fl_chart--> - Draw fantastic charts in Flutter by [Iman Khoshabi](http://www.ikhoshabi.com)
+*   [FL Chart (⭐5.7k)](https://github.com/imaNNeoFighT/fl_chart) <!--stargazers:imaNNeoFighT/fl_chart--> - Draw fantastic charts in Flutter by [Iman Khoshabi](http://www.ikhoshabi.com)
 
 ### Monetization / Preferences
 
-*   [Facebook Audience Network (⭐148)](https://github.com/dreamsoftin/facebook_audience_network) - Facebook Audience Network Ad plugin that shows banner, interstitial, in-stream video, rewarded video & natvie ads by [Dreamsoft Innovations](https://github.com/dreamsoftin).
-*   [Square In-App Payments SDK (⭐317)](https://github.com/square/in-app-payments-flutter-plugin) <!--stargazers:square/in-app-payments-flutter-plugin--> - Take payments by embedding a card entry form in your app that produces nonces from customer-provided card information or digital wallets by [Square](https://github.com/orgs/square)
+*   [Facebook Audience Network (⭐152)](https://github.com/dreamsoftin/facebook_audience_network) - Facebook Audience Network Ad plugin that shows banner, interstitial, in-stream video, rewarded video & natvie ads by [Dreamsoft Innovations](https://github.com/dreamsoftin).
+*   [Square In-App Payments SDK (⭐326)](https://github.com/square/in-app-payments-flutter-plugin) <!--stargazers:square/in-app-payments-flutter-plugin--> - Take payments by embedding a card entry form in your app that produces nonces from customer-provided card information or digital wallets by [Square](https://github.com/orgs/square)
 
 ### Top / Game Engine resources
 
-*   [Reply (⭐562)](https://github.com/flschweiger/reply) <!--stargazers:flschweiger/reply--> - 'Reply' Material Design case study by [Frederik Schweiger](https://github.com/flschweiger)
+*   [Reply (⭐564)](https://github.com/flschweiger/reply) <!--stargazers:flschweiger/reply--> - 'Reply' Material Design case study by [Frederik Schweiger](https://github.com/flschweiger)
 
 ## [27. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
@@ -451,14 +451,14 @@
 
 ### Cross-platform development
 
-*   [universal\_io (⭐2)](https://github.com/terrier989/universal_io) - *dart:io* that also works in the browser.
-*   [universal\_html (⭐138)](https://github.com/terrier989/universal_html) - *dart:html* that also works in the VM/Flutter.
+*   [universal\_io (⭐82)](https://github.com/terrier989/universal_io) - *dart:io* that also works in the browser.
+*   [universal\_html (⭐170)](https://github.com/terrier989/universal_html) - *dart:html* that also works in the VM/Flutter.
 
 ## [30. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Prodmodel (⭐54)](https://github.com/prodmodel/prodmodel) - Build tool for data science pipelines.
+*   [Prodmodel (⭐55)](https://github.com/prodmodel/prodmodel) - Build tool for data science pipelines.
 
 ### Julia / General-Purpose Machine Learning
 
@@ -466,15 +466,15 @@
 
 ### Julia / Natural Language Processing
 
-*   [Word Tokenizers (⭐88)](https://github.com/JuliaText/WordTokenizers.jl) - Tokenizers for Natural Language Processing in Julia
+*   [Word Tokenizers (⭐91)](https://github.com/JuliaText/WordTokenizers.jl) - Tokenizers for Natural Language Processing in Julia
 *   [Corpus Loaders (⭐32)](https://github.com/JuliaText/CorpusLoaders.jl) - A Julia package providing a variety of loaders for various NLP corpora.
-*   [Embeddings (⭐73)](https://github.com/JuliaText/Embeddings.jl) - Functions and data dependencies for loading various word embeddings
-*   [Languages (⭐48)](https://github.com/JuliaText/Languages.jl) - Julia package for working with various human languages
+*   [Embeddings (⭐74)](https://github.com/JuliaText/Embeddings.jl) - Functions and data dependencies for loading various word embeddings
+*   [Languages (⭐50)](https://github.com/JuliaText/Languages.jl) - Julia package for working with various human languages
 *   [WordNet (⭐31)](https://github.com/JuliaText/WordNet.jl) - A Julia package for Princeton's WordNet
 
 ### Julia / Misc Stuff / Presentations
 
-*   [DataDeps (⭐134)](https://github.com/oxinabox/DataDeps.jl) - Reproducible data setup for reproducible science.
+*   [DataDeps (⭐140)](https://github.com/oxinabox/DataDeps.jl) - Reproducible data setup for reproducible science.
 
 ## [31. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
@@ -521,7 +521,7 @@
 
 ### Apps / Widgets
 
-*   [wagtail-instance-selector (⭐53)](https://github.com/ixc/wagtail-instance-selector) - A `ForeignKey` widget to create and select related items. Similar to Django's `raw_id_fields`.
+*   [wagtail-instance-selector (⭐54)](https://github.com/ixc/wagtail-instance-selector) - A `ForeignKey` widget to create and select related items. Similar to Django's `raw_id_fields`.
 
 ## [36. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
 
@@ -544,7 +544,7 @@
 
 ### Scala / Symfony2
 
-*   [Chaos (⭐250)](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala.
+*   [Chaos (⭐251)](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala.
 
 ## [39. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -600,7 +600,7 @@
 
 ### Extensions
 
-*   [Terraform For Next.js (⭐52)](https://github.com/ematipico/terraform-nextjs-plugin) - Deploy your application using Terraform
+*   [Terraform For Next.js (⭐51)](https://github.com/ematipico/terraform-nextjs-plugin) - Deploy your application using Terraform
 
 ## [44. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -633,9 +633,9 @@
 
 ### Decompilers
 
-*   [JD-GUI (⭐12k)](https://github.com/java-decompiler/jd-gui)
+*   [JD-GUI (⭐13k)](https://github.com/java-decompiler/jd-gui)
 *   Python
-    *   [uncompyle6 (⭐2.9k)](https://github.com/rocky/python-uncompyle6) - decompiler for the over 20 releases and 20 years of CPython.
+    *   [uncompyle6 (⭐3.3k)](https://github.com/rocky/python-uncompyle6) - decompiler for the over 20 releases and 20 years of CPython.
 
 ### Binary files examination and editing / Hex editors
 
@@ -668,28 +668,28 @@
 
 ### For Electron / Other
 
-*   [debugtron (⭐973)](https://github.com/pd4d10/debugtron) - Debug in-production Electron-based apps.
-*   [electron-better-ipc (⭐657)](https://github.com/sindresorhus/electron-better-ipc) - Simplified IPC communication.
-*   [electron-chrome-extension (⭐123)](https://github.com/getstation/electron-chrome-extension) - Add support for Chrome extensions.
+*   [debugtron (⭐1.1k)](https://github.com/pd4d10/debugtron) - Debug in-production Electron-based apps.
+*   [electron-better-ipc (⭐676)](https://github.com/sindresorhus/electron-better-ipc) - Simplified IPC communication.
+*   [electron-chrome-extension (⭐129)](https://github.com/getstation/electron-chrome-extension) - Add support for Chrome extensions.
 
 ## [50. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Programming Languages
 
-*   [Pascal (⭐1.5k)](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
+*   [Pascal (⭐1.6k)](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
 
 ### Theory
 
-*   [Algorithms (⭐14k)](https://github.com/tayllan/awesome-algorithms#readme)
-    *   [Education (⭐502)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
+*   [Algorithms (⭐15k)](https://github.com/tayllan/awesome-algorithms#readme)
+    *   [Education (⭐533)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
 
 ### Gaming
 
-*   [Game Datasets (⭐500)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
+*   [Game Datasets (⭐563)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
 
 ### Security
 
-*   [Fuzzing (⭐662)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+*   [Fuzzing (⭐700)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 
 ---
 

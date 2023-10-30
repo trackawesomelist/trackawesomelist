@@ -10,7 +10,7 @@
 
 ### Packages / RMW (ROS middleware)
 
-*   [rmw\_zenoh (⭐24)](https://github.com/atolab/rmw_zenoh) - ROS2 RMW layer for [zenoh](https://zenoh.io).
+*   [rmw\_zenoh (⭐27)](https://github.com/atolab/rmw_zenoh) - ROS2 RMW layer for [zenoh](https://zenoh.io).
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -22,55 +22,42 @@
 
 ### Front-End Development
 
-*   [MDBootstrap (⭐33)](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) - Templates, layouts, components, and widgets to rapidly build websites.
+*   [MDBootstrap (⭐38)](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) - Templates, layouts, components, and widgets to rapidly build websites.
 
 ## [4. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ### Github Libraries / Randomized Algorithms
 
 *   PHP
-    *   [by @TheAlgorithms (⭐1.1k)](https://github.com/TheAlgorithms/PHP)
+    *   [by @TheAlgorithms (⭐1.4k)](https://github.com/TheAlgorithms/PHP)
 
 ## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
-*   [Leon](https://getleon.ai) - Open-source personal assistant who can live on your server. ([Source Code (⭐13k)](https://github.com/leon-ai/leon)) `MIT` `Nodejs`
-
-### Software / Communication - Custom Communication Systems
-
-*   [Freenet](https://freenetproject.org/index.html) - Anonymously share files, browse and publish *freesites* (web sites accessible only through Freenet) and chat on forums. ([Source Code (⭐894)](https://github.com/freenet/fred)) `GPL-2.0` `Java`
+*   [Leon](https://getleon.ai) - Open-source personal assistant who can live on your server. ([Source Code (⭐14k)](https://github.com/leon-ai/leon)) `MIT` `Nodejs`
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [wildduck](https://wildduck.email/) - Scalable no-SPOF IMAP/POP3 mail server. ([Source Code (⭐1.7k)](https://github.com/nodemailer/wildduck)) `EUPL-1.2` `Nodejs`
+*   [wildduck](https://wildduck.email/) - Scalable no-SPOF IMAP/POP3 mail server. ([Source Code (⭐1.8k)](https://github.com/nodemailer/wildduck)) `EUPL-1.2` `Nodejs/Docker`
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Commento](https://gitlab.com/commento/commento) - Commento is a discussion platform that you can embed on your blog, news articles, and any place where you want your readers to add comments. `MIT` `Go`
-*   [Teddit](https://teddit.net) `⚠` - Alternative Reddit front-end focused on privacy. ([Source Code](https://codeberg.org/teddit/teddit)) `AGPL-3.0` `Nodejs`
+*   [Teddit](https://teddit.net) `⚠` - Alternative Reddit front-end focused on privacy. ([Source Code](https://codeberg.org/teddit/teddit)) `AGPL-3.0` `Nodejs/Docker`
 
 ### Software / Community-Supported Agriculture (CSA)
 
-*   [teikei (⭐49)](https://github.com/teikei/teikei) - A web application that maps out community-supported agriculture based on crowdsourced data. ([Demo](https://ernte-teilen.org/karte/#/)) `AGPL-3.0` `Nodejs`
+*   [teikei (⭐50)](https://github.com/teikei/teikei) - A web application that maps out community-supported agriculture based on crowdsourced data. ([Demo](https://ernte-teilen.org/karte/#/)) `AGPL-3.0` `Nodejs`
 
 ### Software / Feed Readers
 
-*   [newsdash (⭐46)](https://github.com/buzz/newsdash) - A news dashboard inspired by iGoogle and Netvibes. `AGPL-3.0` `Nodejs`
-
-### Software / File Transfer & Synchronization
-
-*   [myDrive (⭐2.9k)](https://github.com/subnub/myDrive) - Fully featured online storage solution, upload/download files, photo/video viewer, and more, all through the web client. `GPL-3.0` `Nodejs`
+*   [newsdash (⭐53)](https://github.com/buzz/newsdash) - A news dashboard inspired by iGoogle and Netvibes. `AGPL-3.0` `Docker/Nodejs`
 
 ### Software / Games
 
-*   [QuakeJS (⭐87)](https://github.com/begleysm/quakejs) - QuakeJS is a port of ioquake3 to Javascript that can be played in a browser. `MIT` `Nodejs`
-*   [The Battle for Wesnoth (⭐4.4k)](https://github.com/wesnoth/wesnoth) - The Battle for Wesnoth is an Open Source, turn-based tactical strategy game with a high fantasy theme, featuring both singleplayer and online/hotseat multiplayer combat. `GPL-2.0` `C++`
-*   [Zero-K](https://zero-k.info/) - Open Source on Springrts engine. Zero-K is a traditional real time strategy game with a focus on player creativity through terrain manipulation, physics, and a large roster of unique units - all while being balanced to support competitive play. ([Source Code (⭐566)](https://github.com/ZeroK-RTS/Zero-K)) `GPL-2.0` `Lua`
-
-### Software / Groupware
-
-*   [BlueMind](https://www.bluemind.net/en/) - Groupware with email, calendar, addressbooks, exchange active sync, exchange MAPI protocol support. ([Source Code](https://forge.bluemind.net/stash/projects/BM/repos/bluemind-public/browse)) `AGPL-3.0` `Java`
+*   [QuakeJS (⭐99)](https://github.com/begleysm/quakejs) - QuakeJS is a port of ioquake3 to Javascript that can be played in a browser. `MIT` `Nodejs`
+*   [The Battle for Wesnoth (⭐4.7k)](https://github.com/wesnoth/wesnoth) - The Battle for Wesnoth is an Open Source, turn-based tactical strategy game with a high fantasy theme, featuring both singleplayer and online/hotseat multiplayer combat. `GPL-2.0` `C++/deb`
+*   [Zero-K](https://zero-k.info/) - Open Source on Springrts engine. Zero-K is a traditional real time strategy game with a focus on player creativity through terrain manipulation, physics, and a large roster of unique units - all while being balanced to support competitive play. ([Source Code (⭐589)](https://github.com/ZeroK-RTS/Zero-K)) `GPL-2.0` `Lua`
 
 ### Software / Internet of Things (IoT)
 
@@ -78,38 +65,34 @@
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [OpenTripPlanner](https://www.opentripplanner.org/) - Multimodal trip planning software based on OpenStreetMap data and consuming published GTFS-formatted data to suggest routes using local public transit systems. ([Source Code (⭐1.9k)](https://github.com/opentripplanner/OpenTripPlanner)) `LGPL-3.0` `Java/Javascript`
+*   [OpenTripPlanner](https://www.opentripplanner.org/) - Multimodal trip planning software based on OpenStreetMap data and consuming published GTFS-formatted data to suggest routes using local public transit systems. ([Source Code (⭐2k)](https://github.com/opentripplanner/OpenTripPlanner)) `LGPL-3.0` `Java/Javascript`
 
 ### Software / Miscellaneous
 
-*   [CyberChef (⭐21k)](https://github.com/gchq/CyberChef) - Perform all manner of operations within a web browser such as AES, DES and Blowfish encryption and decryption, creating hexdumps, calculating hashes, and much more. ([Demo](https://gchq.github.io/CyberChef)) `Apache-2.0` `Javascript`
-*   [revealjs](https://revealjs.com) - Framework for easily creating beautiful presentations using HTML. ([Demo](https://revealjs.com/), [Source Code (⭐64k)](https://github.com/hakimel/reveal.js)) `MIT` `Javascript`
+*   [CyberChef (⭐23k)](https://github.com/gchq/CyberChef) - Perform all manner of operations within a web browser such as AES, DES and Blowfish encryption and decryption, creating hexdumps, calculating hashes, and much more. ([Demo](https://gchq.github.io/CyberChef)) `Apache-2.0` `Javascript`
+*   [revealjs](https://revealjs.com) - Framework for easily creating beautiful presentations using HTML. ([Demo](https://revealjs.com/), [Source Code (⭐65k)](https://github.com/hakimel/reveal.js)) `MIT` `Javascript`
 
 ### Software / Note-taking & Editors
 
-*   [draw.io](https://draw.io) - Diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. ([Source Code (⭐34k)](https://github.com/jgraph/drawio)) `Apache-2.0` `Javascript`
+*   [draw.io](https://draw.io) - Diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. ([Source Code (⭐36k)](https://github.com/jgraph/drawio)) `Apache-2.0` `Javascript/Docker`
 
 ### Software / Photo and Video Galleries
 
-*   [HomeGallery](https://home-gallery.org) - Self-hosted open-source web gallery to browse personal photos and videos featuring tagging, mobile-friendly, and AI powered image discovery. ([Demo](https://demo.home-gallery.org), [Source Code (⭐416)](https://github.com/xemle/home-gallery)) `MIT` `Nodejs`
-
-### Software / Polls and Events
-
-*   [Croodle (⭐154)](https://github.com/jelhan/croodle) - Croodle is an end-to-end encrypted web application to schedule a date or to do a poll on any topic. `MIT` `Javascript`
+*   [HomeGallery](https://home-gallery.org) - Self-hosted open-source web gallery to browse personal photos and videos featuring tagging, mobile-friendly, and AI powered image discovery. ([Demo](https://demo.home-gallery.org), [Source Code (⭐540)](https://github.com/xemle/home-gallery)) `MIT` `Nodejs/Docker`
 
 ### Software / Proxy
 
-*   [socks5-proxy-server (⭐54)](https://github.com/nskondratev/socks5-proxy-server) - SOCKS5 proxy server with built-in authentication and Telegram-bot for user management and user statistics on data spent (handy when you pay per GB of data). It is dockerised and simple to install. `Apache-2.0` `Nodejs`
+*   [socks5-proxy-server (⭐61)](https://github.com/nskondratev/socks5-proxy-server) - SOCKS5 proxy server with built-in authentication and Telegram-bot for user management and user statistics on data spent (handy when you pay per GB of data). It is dockerised and simple to install. `Apache-2.0` `Docker`
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Email
 
-*   [Mailtie.com](https://mailtie.com/) - Free Email Forwarding for Your Domain. No registration required. Free Forever.
+*   [Mailtie.com](https://mailtie.com/) - Free Email Forwarding for Your Domain. You don't need to register. Free Forever.
 
 ### Forms
 
-*   [Formsubmit.co](https://formsubmit.co/) — Easy form endpoints for your HTML forms. Free Forever. No registration required.
+*   [Formsubmit.co](https://formsubmit.co/) — Easy form endpoints for your HTML forms. Free Forever. No registration is required.
 
 ---
 

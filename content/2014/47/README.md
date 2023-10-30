@@ -27,7 +27,7 @@
 
 ### GIS
 
-*   [NetTopologySuite (⭐1.2k)](https://github.com/NetTopologySuite/NetTopologySuite/)  A .NET GIS solution that is fast and reliable for the .NET platform
+*   [NetTopologySuite (⭐1.3k)](https://github.com/NetTopologySuite/NetTopologySuite/)  A .NET GIS solution that is fast and reliable for the .NET platform
 
 ## [4. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
@@ -98,7 +98,7 @@
 
 ### Data Visualization
 
-*   [Banana (⭐667)](https://github.com/LucidWorks/banana) - visualize logs and time-stamped data stored in Solr. Port of Kibana.
+*   [Banana (⭐672)](https://github.com/LucidWorks/banana) - visualize logs and time-stamped data stored in Solr. Port of Kibana.
 
 ## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -118,14 +118,14 @@
 
 ### JSON
 
-*   [JsonCpp (⭐7.2k)](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON. \[MIT]
+*   [JsonCpp (⭐7.5k)](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON. \[MIT]
 
 ### Miscellaneous
 
-*   [QtVerbalExpressions (⭐58)](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. \[MIT]
-*   [Serial Communication Library (⭐1.8k)](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++. \[MIT]
+*   [QtVerbalExpressions (⭐59)](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. \[MIT]
+*   [Serial Communication Library (⭐1.9k)](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++. \[MIT]
 *   [sigslot](http://sigslot.sourceforge.net/) - C++ Signal/Slot Library. \[PublicDomain]
-*   [ZXing (⭐31k)](https://github.com/zxing/zxing/) - An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. \[Apache]
+*   [ZXing (⭐32k)](https://github.com/zxing/zxing/) - An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. \[Apache]
 
 ### Online Compiler
 
@@ -139,9 +139,9 @@
 
 ### Algorithms and Data structures
 
-*   [bloomex (⭐111)](https://github.com/gmcabrita/bloomex) - A pure Elixir implementation of Scalable Bloom Filters.
+*   [bloomex (⭐112)](https://github.com/gmcabrita/bloomex) - A pure Elixir implementation of Scalable Bloom Filters.
 *   [ezcryptex (⭐0)](https://github.com/stocks29/ezcryptex) - Thin layer on top of Cryptex.
-*   [murmur (⭐39)](https://github.com/gmcabrita/murmur) - A pure Elixir implementation of the non-cryptographic hash Murmur3.
+*   [murmur (⭐40)](https://github.com/gmcabrita/murmur) - A pure Elixir implementation of the non-cryptographic hash Murmur3.
 *   [sfmt (⭐70)](https://github.com/jj1bdx/sfmt-erlang/) - SIMD-oriented Fast Mersenne Twister (SFMT) for Erlang.
 *   [tinymt (⭐26)](https://github.com/jj1bdx/tinymt-erlang/) - Tiny Mersenne Twister (TinyMT) for Erlang.
 
@@ -151,7 +151,7 @@
 
 ### Date and Time
 
-*   [block\_timer (⭐9)](https://github.com/adamkittelson/block_timer) - Macros to use :timer.apply\_after and :timer.apply\_interval with a block.
+*   [block\_timer (⭐10)](https://github.com/adamkittelson/block_timer) - Macros to use :timer.apply\_after and :timer.apply\_interval with a block.
 
 ### Documentation
 
@@ -159,7 +159,7 @@
 
 ### Framework Components
 
-*   [blaguth (⭐19)](https://github.com/lexmag/blaguth) - Basic Access Authentication in Plug applications.
+*   [blaguth (⭐20)](https://github.com/lexmag/blaguth) - Basic Access Authentication in Plug applications.
 
 ### HTTP
 
@@ -175,39 +175,39 @@
 
 ### Macros
 
-*   [pipes (⭐326)](https://github.com/batate/elixir-pipes) - Macros for more flexible composition with the Elixir Pipe operator.
+*   [pipes (⭐327)](https://github.com/batate/elixir-pipes) - Macros for more flexible composition with the Elixir Pipe operator.
 
 ### Markdown
 
-*   [cmark (⭐90)](https://github.com/asaaki/cmark.ex) - Elixir NIF for CommonMark (in C), a parser following the CommonMark spec.
+*   [cmark (⭐92)](https://github.com/asaaki/cmark.ex) - Elixir NIF for CommonMark (in C), a parser following the CommonMark spec.
 
 ### Miscellaneous
 
-*   [exlibris (⭐10)](https://github.com/pragdave/exlibris) - A collection of random library functions.
+*   [exlibris (⭐11)](https://github.com/pragdave/exlibris) - A collection of random library functions.
 *   [funnel (⭐31)](https://github.com/chatgris/funnel) - Streaming Elixir API built upon ElasticSearch's percolation.
 *   [mixstar (⭐12)](https://github.com/ma2gedev/mix-star) - MixStar starred GitHub repository that depends on your project.
 *   [netrc (⭐4)](https://github.com/ma2gedev/netrcex) - Reads netrc files implemented in Elixir.
 
 ### ORM and Datamapping
 
-*   [diver (⭐47)](https://github.com/novabyte/diver) - A HBase driver for Erlang/Elixir using Jinterface and the Asynchbase Java client to query the database.
+*   [diver (⭐48)](https://github.com/novabyte/diver) - A HBase driver for Erlang/Elixir using Jinterface and the Asynchbase Java client to query the database.
 
 ### PDF
 
-*   [gutenex (⭐240)](https://github.com/SenecaSystems/gutenex) - Native PDF generation for Elixir.
+*   [gutenex (⭐241)](https://github.com/SenecaSystems/gutenex) - Native PDF generation for Elixir.
 
 ### Protocols
 
-*   [elixir\_radius (⭐11)](https://github.com/bearice/elixir-radius) - RADIUS Protocol on Elixir.
+*   [elixir\_radius (⭐12)](https://github.com/bearice/elixir-radius) - RADIUS Protocol on Elixir.
 
 ### Queue
 
 *   [exq (⭐1.4k)](https://github.com/akira/exq) - Job processing library for Elixir - compatible with Resque/Sidekiq.
-*   [work\_queue (⭐39)](https://github.com/pragdave/work_queue) - Simple implementation of the hungry-consumer model in Elixir.
+*   [work\_queue (⭐40)](https://github.com/pragdave/work_queue) - Simple implementation of the hungry-consumer model in Elixir.
 
 ### Testing
 
-*   [blitzy (⭐82)](https://github.com/benjamintanweihao/blitzy) - A simple HTTP load tester in Elixir.
+*   [blitzy (⭐84)](https://github.com/benjamintanweihao/blitzy) - A simple HTTP load tester in Elixir.
 *   [katt (⭐116)](https://github.com/for-GET/katt) - KATT (Klarna API Testing Tool) is an HTTP-based API testing tool for Erlang.
 *   [kovacs (⭐5)](https://github.com/antp/kovacs) - A simple ExUnit test runner.
 *   [ponos (⭐154)](https://github.com/klarna/ponos) - Ponos is an Erlang application that exposes a flexible load generator API.
@@ -216,20 +216,20 @@
 ### Text and Numbers
 
 *   [elixilorem (⭐9)](https://github.com/mgamini/elixilorem) - Lorem Ipsum generator for Elixir.
-*   [hashids (⭐265)](https://github.com/alco/hashids-elixir) - Hashids lets you obfuscate numerical identifiers via reversible mapping.
+*   [hashids (⭐271)](https://github.com/alco/hashids-elixir) - Hashids lets you obfuscate numerical identifiers via reversible mapping.
 *   [ltsvex (⭐10)](https://github.com/ma2gedev/ltsvex) - LTSV parser implementation in Elixir.
-*   [pretty\_hex (⭐6)](https://github.com/polsab/pretty_hex) - A binary hex dumping library in Elixir.
+*   [pretty\_hex (⭐7)](https://github.com/polsab/pretty_hex) - A binary hex dumping library in Elixir.
 
 ### Third Party APIs
 
-*   [dogstatsd (⭐38)](https://github.com/adamkittelson/dogstatsd-elixir) - An Elixir client for [DogStatsd](https://www.datadoghq.com/).
+*   [dogstatsd (⭐39)](https://github.com/adamkittelson/dogstatsd-elixir) - An Elixir client for [DogStatsd](https://www.datadoghq.com/).
 *   [forcex (⭐51)](https://github.com/jeffweiss/forcex) - Elixir library for the Force.com REST API.
 *   [pathway (⭐4)](https://github.com/novabyte/pathway) - An Erlang/Elixir client for the [Trak.io](http://trak.io/) REST API.
 *   [traitify\_elixir (⭐2)](https://github.com/traitify/traitify_elixir) - An Elixir client library for the Traitify Developer's API.
 
 ### Editors
 
-*   [Alchemist (⭐901)](https://github.com/tonini/alchemist.el) - Elixir Tooling Integration Into Emacs.
+*   [Alchemist (⭐905)](https://github.com/tonini/alchemist.el) - Elixir Tooling Integration Into Emacs.
 *   [Notepad++ (⭐7)](https://github.com/Hades32/elixir-udl-npp) - Elixir syntax highlighting for Notepad++.
 
 ### Screencasts

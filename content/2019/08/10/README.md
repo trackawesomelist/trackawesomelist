@@ -36,7 +36,7 @@
 
 ### Resources / Setup and Deployment
 
-*   [Packr (⭐2.4k)](https://github.com/libGDX/packr) - Packages your JAR, assets and a JVM for distribution on Windows, Linux and macOS.
+*   [Packr (⭐2.5k)](https://github.com/libGDX/packr) - Packages your JAR, assets and a JVM for distribution on Windows, Linux and macOS.
 
 ## [5. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
@@ -54,16 +54,16 @@
 
 ### Development / Text Editors
 
-*   [micro (⭐22k)](https://github.com/zyedidia/micro) - A simple and intuitive editor.
+*   [micro (⭐23k)](https://github.com/zyedidia/micro) - A simple and intuitive editor.
 
 ### Productivity / Time Tracking
 
-*   [Timewarrior (⭐973)](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
+*   [Timewarrior (⭐1k)](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
 *   [Watson (⭐2.3k)](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
 
 ### Files and Directories / Search
 
-*   [fd (⭐27k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
+*   [fd (⭐29k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
 
 ## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

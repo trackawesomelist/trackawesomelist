@@ -31,17 +31,17 @@
 
 ### Related Projects / Themes
 
-*   [Ant Visualization](https://antv.alipay.com/) - Professional data visualization specification that aims to put several years of valuable data pattern group work in the process of exploring data visualization to share with all people who need data visualization theory. AntV consists of few parts, data, design specifications and rules for use of the chart, ([Read more (⭐125)](https://github.com/antvis/feedback)).
+*   [Ant Visualization](https://antv.alipay.com/) - Professional data visualization specification that aims to put several years of valuable data pattern group work in the process of exploring data visualization to share with all people who need data visualization theory. AntV consists of few parts, data, design specifications and rules for use of the chart, ([Read more (⭐123)](https://github.com/antvis/feedback)).
 
 ### Boilerplates / Themes
 
-*   [CL React (⭐179)](https://github.com/chenliang2016/CLReactAntDesign) - Based on Ant Design front-end framework structures for enterprise back-office software.
+*   [CL React (⭐177)](https://github.com/chenliang2016/CLReactAntDesign) - Based on Ant Design front-end framework structures for enterprise back-office software.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Camera / Barcode
 
-*   [BarcodeScanner (⭐1.6k)](https://github.com/hyperoslo/BarcodeScanner) - A simple and beautiful barcode scanner view controller.
+*   [BarcodeScanner (⭐1.7k)](https://github.com/hyperoslo/BarcodeScanner) - A simple and beautiful barcode scanner view controller.
 
 ## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -133,7 +133,7 @@
 
 ### Apps
 
-*   [vkQuake (⭐1.5k)](https://github.com/Novum/vkQuake) - Vulkan Quake port based on QuakeSpasm. \[GPL]
+*   [vkQuake (⭐1.6k)](https://github.com/Novum/vkQuake) - Vulkan Quake port based on QuakeSpasm. \[GPL]
 
 ---
 

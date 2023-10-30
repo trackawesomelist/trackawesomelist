@@ -18,7 +18,7 @@
 
 ### Network / Security Information & Event Management
 
-*   [LogESP (⭐166)](https://github.com/dogoncouch/LogESP) - Open Source SIEM (Security Information and Event Management system).
+*   [LogESP (⭐176)](https://github.com/dogoncouch/LogESP) - Open Source SIEM (Security Information and Event Management system).
 
 ## [3. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
@@ -53,8 +53,8 @@
 *   [**NES.css**](https://nostalgic-css.github.io/NES.css/) - NES-style CSS Framework.\
     ![](https://img.shields.io/github/stars/nostalgic-css/NES.css.svg?style=social\&label=Star)
     [Demo](https://nostalgic-css.github.io/NES.css/),
-    [Docs (⭐19k)](https://github.com/nostalgic-css/NES.css#installation),
-    [Repo (⭐19k)](https://github.com/nostalgic-css/NES.css)
+    [Docs (⭐20k)](https://github.com/nostalgic-css/NES.css#installation),
+    [Repo (⭐20k)](https://github.com/nostalgic-css/NES.css)
     \| #SCSS
 
 ## [6. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/README.md)

@@ -22,7 +22,7 @@
 
 ### Miscellaneous
 
-*   [CakeDC/Enum plugin (⭐27)](https://github.com/CakeDC/enum) - A plugin to add enumeration list support to your app.
+*   🍰 [CakeDC/Enum plugin (⭐26)](https://github.com/CakeDC/enum) - A plugin to add enumeration list support to your app.
 
 ## [4. Magictools](/content/ellisonleao/magictools/README.md)
 
@@ -58,19 +58,19 @@
 
 ### i18n / Mouse Events
 
-*   [react-localized (⭐8)](https://github.com/fakundo/react-localized) - Internationalization for React components based on `gettext` format.
+*   [react-localized (⭐9)](https://github.com/fakundo/react-localized) - Internationalization for React components based on `gettext` format.
 
 ## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Downloader (⭐584)](https://github.com/bezzad/Downloader) - Downloader is a modern, fluent, asynchronous, testable and portable library for .NET. This is a multipart downloader with asynchronous progress events.
+*   [Downloader (⭐967)](https://github.com/bezzad/Downloader) - Downloader is a modern, fluent, asynchronous, testable and portable library for .NET. This is a multipart downloader with asynchronous progress events.
 
 ## [9. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Python / Risk Analysis
 
-*   [risktools (⭐19)](https://github.com/bbcho/risktools-dev) - Risk tools for use within the crude and crude products trading space with partial implementation of R's PerformanceAnalytics.
+*   [risktools (⭐20)](https://github.com/bbcho/risktools-dev) - Risk tools for use within the crude and crude products trading space with partial implementation of R's PerformanceAnalytics.
 
 ---
 

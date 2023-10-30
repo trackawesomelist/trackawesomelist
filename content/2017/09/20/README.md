@@ -22,12 +22,12 @@
 
 ### Contents / Extensions
 
-*   [pgMemento (⭐341)](https://github.com/pgMemento/pgMemento) - Provides an audit trail for your data inside a PostgreSQL database using triggers and server-side functions written in PL/pgSQL.
+*   [pgMemento (⭐350)](https://github.com/pgMemento/pgMemento) - Provides an audit trail for your data inside a PostgreSQL database using triggers and server-side functions written in PL/pgSQL.
 
 ### Contents / Optimization
 
-*   [pgtune (⭐1.6k)](https://github.com/le0pard/pgtune) - Online version of PostgreSQL configuration wizard.
-*   [pgconfig.org (⭐88)](https://github.com/sebastianwebber/pgconfig) - PostgreSQL Online Configuration Tool (also based on pgtune).
+*   [pgtune (⭐1.7k)](https://github.com/le0pard/pgtune) - Online version of PostgreSQL configuration wizard.
+*   [pgconfig.org (⭐89)](https://github.com/sebastianwebber/pgconfig) - PostgreSQL Online Configuration Tool (also based on pgtune).
 
 ## [4. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-threejs (⭐741)](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js.
+*   [vue-threejs (⭐761)](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js.
 
 ## [6. BEM Resources](/content/sturobson/BEM-resources/README.md)
 
@@ -69,8 +69,8 @@
 
 ### Hardware
 
-*   [keyboard (⭐3.3k)](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
-*   [mouse (⭐744)](https://github.com/boppreh/mouse) - Hook and simulate global mouse events on Windows and Linux.
+*   [keyboard (⭐3.4k)](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
+*   [mouse (⭐772)](https://github.com/boppreh/mouse) - Hook and simulate global mouse events on Windows and Linux.
 
 ---
 

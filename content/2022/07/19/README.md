@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 19, 2022
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Algorithms and Data structures
 
-*   [Akade.IndexedSet (⭐21)](https://github.com/akade/Akade.IndexedSet) - A convenient data structure supporting efficient in-memory indexing and querying, including range queries and fuzzy string matching.
+*   [Akade.IndexedSet (⭐29)](https://github.com/akade/Akade.IndexedSet) - A convenient data structure supporting efficient in-memory indexing and querying, including range queries and fuzzy string matching.
 
 ### Books
 
@@ -23,7 +23,7 @@
 
 ### Software / Pastebins
 
-*   [Wastebin (⭐95)](https://github.com/matze/wastebin) - Lightweight, minimal and fast pastebin with an SQLite backend. ([Demo](https://bin.bloerg.net)) `MIT` `Rust`
+*   [Wastebin (⭐133)](https://github.com/matze/wastebin) - Lightweight, minimal and fast pastebin with an SQLite backend. ([Demo](https://bin.bloerg.net)) `MIT` `Rust/Docker`
 
 ## [3. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Traffic Capture
 
-*   [Deepfence PacketStreamer (⭐763)](https://github.com/deepfence/PacketStreamer): High-performance remote packet capture and collection tool, distributed tcpdump for cloud native environments.
+*   [Deepfence PacketStreamer (⭐1.6k)](https://github.com/deepfence/PacketStreamer): High-performance remote packet capture and collection tool, distributed tcpdump for cloud native environments.
 
 ## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Templates / React
 
-*   [ViteRC (⭐28)](https://github.com/potreco/viterc) - React 18 + TypeScript + ESLint (Airbnb) + Prettier + Husky + Jest + Absolute imports + Commit linting.
+*   [ViteRC (⭐37)](https://github.com/potreco/viterc) - React 18 + TypeScript + ESLint (Airbnb) + Prettier + Husky + Jest + Absolute imports + Commit linting.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -108,13 +108,23 @@
 
 
 
-## [8. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
+## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### JavaScript / Wicket
+
+*   [JavaScript (ES2015+) Enlightenment](https://frontendmasters.com/guides/javascript-enlightenment/) - Cody Lindley (HTML)
+
+### JavaScript / React
+
+*   [React Enlightenment](https://www.reactenlightenment.com) - Cody Lindley (HTML)
+
+## [9. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 
 ### Communication
 
-*   [Mouseless Messenger (⭐67)](https://github.com/stephancasas/alfred-mouseless-messenger)
+*   [Mouseless Messenger (⭐81)](https://github.com/stephancasas/alfred-mouseless-messenger)
 
-## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Office
 
@@ -141,7 +151,7 @@
 ### Audio and Video Tools / File Sharing
 
 *   [FreeTube](https://freetubeapp.io/) - Open source desktop YouTube client built with privacy in mind. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/FreeTubeApp/FreeTube) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [MacYTDL (⭐296)](https://github.com/section83/MacYTDL) -  A macOS GUI front-end for the youtube-dl video downloader. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/section83/MacYTDL) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [MacYTDL (⭐341)](https://github.com/section83/MacYTDL) -  A macOS GUI front-end for the youtube-dl video downloader. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/section83/MacYTDL) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [MusicBrainz Picard](https://picard.musicbrainz.org/) -  Cross-platform music tagger written in Python. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/metabrainz/picard) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Browsers / File Sharing

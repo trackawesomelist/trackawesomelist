@@ -10,13 +10,13 @@
 
 ### Commonsense / Intuitive Physics
 
-*   [Intuitive Physics Reading List (⭐6)](https://github.com/lishiqianhugh/Intuitive_Physics_Reading_List) - ***GitHub***. A reading list on intuitive physics, maintained actively by Shiqian Li.
+*   [Intuitive Physics Reading List (⭐9)](https://github.com/lishiqianhugh/Intuitive_Physics_Reading_List) - ***GitHub***. A reading list on intuitive physics, maintained actively by Shiqian Li.
 
 ## [2. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Online Analyzers
 
-*   [Koodous](https://koodous.com) - Performs static/dynamic malware analysis over a vast repository of Android samples and check them against public and private Yara rules.
+*   [Koodous](https://koodous.com) - Performs static/dynamic malware analysis over a vast repository of Android samples and checks them against public and private Yara rules.
 
 ### Exploits/Vulnerabilities/Bugs / Malware
 
@@ -32,23 +32,23 @@
 
 ### Documentation
 
-*   [doxygen (⭐4.8k)](https://github.com/doxygen/doxygen) :zap: - The de facto standard tool for generating documentation from annotated C++ sources. \[GPL2] [website](https://www.doxygen.org)
-*   [Sphinx (⭐5.4k)](https://github.com/sphinx-doc/sphinx) - Sphinx makes it easy to create intelligent and beautiful documentation. \[BSD-2-Clause] [website](https://www.sphinx-doc.org)
+*   [doxygen (⭐5k)](https://github.com/doxygen/doxygen) :zap: - The de facto standard tool for generating documentation from annotated C++ sources. \[GPL2] [website](https://www.doxygen.org)
+*   [Sphinx (⭐5.7k)](https://github.com/sphinx-doc/sphinx) - Sphinx makes it easy to create intelligent and beautiful documentation. \[BSD-2-Clause] [website](https://www.sphinx-doc.org)
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Cryptocurrencies
 
-*   [madara (⭐192)](https://github.com/keep-starknet-strange/madara) - Kaioshin is a ⚡ blazing fast ⚡ Starknet sequencer, based on substrate and written in Rust 🦀. [![GitHub Workflow Status](https://github.com/keep-starknet-strange/madara/actions/workflows/test.yml/badge.svg)](https://github.com/keep-starknet-strange/madara/actions/workflows/test.yml)
+*   [madara (⭐336)](https://github.com/keep-starknet-strange/madara) - Kaioshin is a ⚡ blazing fast ⚡ Starknet sequencer, based on substrate and written in Rust 🦀. [![GitHub Workflow Status](https://github.com/keep-starknet-strange/madara/actions/workflows/test.yml/badge.svg)](https://github.com/keep-starknet-strange/madara/actions/workflows/test.yml)
 
 ### Applications / System tools
 
-*   [nushell/nushell (⭐25k)](https://github.com/nushell/nushell) - A new type of shell
-*   [supercilex/fuc (⭐206)](https://github.com/supercilex/fuc) - Fast `cp` and `rm` commands
+*   [nushell/nushell (⭐27k)](https://github.com/nushell/nushell) - A new type of shell
+*   [supercilex/fuc (⭐246)](https://github.com/supercilex/fuc) - Fast `cp` and `rm` commands
 
 ### Libraries / Video
 
-*   [ffmpeg-sidecar (⭐71)](https://github.com/nathanbabcock/ffmpeg-sidecar) — Wrap a standalone FFmpeg binary in an intuitive Iterator interface. [![Build Status](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml/badge.svg)](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml)
+*   [ffmpeg-sidecar (⭐103)](https://github.com/nathanbabcock/ffmpeg-sidecar) — Wrap a standalone FFmpeg binary in an intuitive Iterator interface. [![Build Status](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml/badge.svg)](https://github.com/nathanbabcock/ffmpeg-sidecar/actions/workflows/rust.yml)
 
 ## [6. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 

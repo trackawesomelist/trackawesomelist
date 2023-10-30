@@ -10,10 +10,10 @@
 
 ### C# / General
 
-*   [SteamKit2 (⭐2.1k)](https://github.com/SteamRE/SteamKit) - .NET library designed to interoperate with Valve's Steam network.
-*   [SteamAuth (⭐215)](https://github.com/geel9/SteamAuth) - A C# library that provides vital Steam Mobile Authenticator functionality.
-*   [SteamBot (⭐1.2k)](https://github.com/Jessecar96/SteamBot) - Automated bot software for interacting with steam trade.
-*   [SteamTradeOffersBot (⭐46)](https://github.com/waylaidwanderer/SteamTradeOffersBot) - SteamBot fork which focuses on trade offers.
+*   [SteamKit2 (⭐2.3k)](https://github.com/SteamRE/SteamKit) - .NET library designed to interoperate with Valve's Steam network.
+*   [SteamAuth (⭐238)](https://github.com/geel9/SteamAuth) - A C# library that provides vital Steam Mobile Authenticator functionality.
+*   [SteamBot (⭐1.3k)](https://github.com/Jessecar96/SteamBot) - Automated bot software for interacting with steam trade.
+*   [SteamTradeOffersBot (⭐49)](https://github.com/waylaidwanderer/SteamTradeOffersBot) - SteamBot fork which focuses on trade offers.
 *   [SteamStandardProject (⭐2)](https://github.com/ObsidianMinor/SteamStandardProject) - A collection of .NET Standard libraries using common types that provide functionality in one or more parts of Steam.
 
 ### C# / Misc
@@ -50,7 +50,7 @@
 
 ### Related projects / Syntax highlighting packages
 
-*   [ArduinoBoy (⭐257)](https://github.com/trash80/Arduinoboy) - Serial communication (MIDI) from an Arduino to the Game Boy for music applications such as LittleSoundDJ, Nanoloop, and mGB.
+*   [ArduinoBoy (⭐277)](https://github.com/trash80/Arduinoboy) - Serial communication (MIDI) from an Arduino to the Game Boy for music applications such as LittleSoundDJ, Nanoloop, and mGB.
 
 ## [6. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Santander
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/erikras" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/erikras" height="70px" width="70px" align="left" alt="" />
 
 **Erik Rasmussen**\
 Topics: React, Redux, Redux-Form, Forms\
@@ -68,52 +68,52 @@ Topics: React, Redux, Redux-Form, Forms\
 
 ### Boston
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ericwbailey" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/ericwbailey" height="70px" width="70px" align="left" alt="" />
 
 **Eric Bailey**\
 Topics: Accessibility\
 <https://twitter.com/ericwbailey>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bahmutov" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/bahmutov" height="70px" width="70px" align="left" alt="" />
 
 **Gleb Bahmutov**\
 Topics: Computer Science, JavaScript, Reactive Programming\
 <https://twitter.com/bahmutov>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/leaverou" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/leaverou" height="70px" width="70px" align="left" alt="" />
 
 **Lea Verou**\
 Topics: CSS, HTML\
 <https://twitter.com/leaverou>
 ### Denver
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mirisuzanne" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/mirisuzanne" height="70px" width="70px" align="left" alt="" />
 
 **Miriam Suzanne**\
 Topics: CSS, Sass, Architecture, Design Systems\
 <https://twitter.com/mirisuzanne>
 ### Philadelphia
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/lispardi" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/lispardi" height="70px" width="70px" align="left" alt="" />
 
 **Lis Pardi**\
 Topics: Web\
 <https://twitter.com/lispardi>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/rtfeldman" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/rtfeldman" height="70px" width="70px" align="left" alt="" />
 
 **Richard Feldman**\
 Topics: Elm\
 <https://twitter.com/rtfeldman>
 ### Pittsburgh
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/brad_frost" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/brad_frost" height="70px" width="70px" align="left" alt="" />
 
 **Brad Frost**\
 Topics: Web Design, Atomic Design, Web Development\
 <https://twitter.com/brad_frost>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/linclark" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/linclark" height="70px" width="70px" align="left" alt="" />
 
 **Lin Clark**\
 Topics: React, WebAssembly, Browsers Internals\
@@ -123,25 +123,25 @@ Topics: React, WebAssembly, Browsers Internals\
 
 ### São Paulo
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/carolcode" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/carolcode" height="70px" width="70px" align="left" alt="" />
 
 **Caroline Soares**\
 Topics: Frontend development, woman's inspiration, JavaScript, CSS\
 <https://twitter.com/carolcode>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/fembernardo" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/fembernardo" height="70px" width="70px" align="left" alt="" />
 
 **Fernanda Bernardo**\
 Topics: CSS, JavaScript, HTML\
 <https://twitter.com/fembernardo>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/JoaoVictor_AC" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/JoaoVictor_AC" height="70px" width="70px" align="left" alt="" />
 
 **João Victor Dias**\
 Topics: Computer Vision, Keras, CNN, R, Data Science path\
 <https://twitter.com/JoaoVictor_AC>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sseraphini" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/sseraphini" height="70px" width="70px" align="left" alt="" />
 
 **Sibelius Seraphini**\
 Topics: React, React Native, Node.js, GraphQL, Relay Modern, Open Source, Machine Learning, Blockchain\
@@ -155,19 +155,19 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 
 ### Frameworks
 
-*   [abseil-cpp (⭐12k)](https://github.com/abseil/abseil-cpp) - Abseil C++ Common Libraries. \[Apache2]
+*   [abseil-cpp (⭐13k)](https://github.com/abseil/abseil-cpp) - Abseil C++ Common Libraries. \[Apache2]
 
 ### JSON
 
-*   [json-c (⭐2.7k)](https://github.com/json-c/json-c) - A JSON implementation in C. \[MIT]
+*   [json-c (⭐2.8k)](https://github.com/json-c/json-c) - A JSON implementation in C. \[MIT]
 
 ### Logging
 
-*   [glog (⭐6.1k)](https://github.com/google/glog) - C++ implementation of the Google logging module.
+*   [glog (⭐6.4k)](https://github.com/google/glog) - C++ implementation of the Google logging module.
 
 ### PDF
 
-*   [libharu (⭐1.5k)](https://github.com/libharu/libharu) - A free, cross platform, open-sourced software library for generating PDF. \[zlib]
+*   [libharu (⭐1.6k)](https://github.com/libharu/libharu) - A free, cross platform, open-sourced software library for generating PDF. \[zlib]
 *   [MuPDF](https://mupdf.com/) - A lightweight PDF, XPS, and E-book viewer. \[AGPL/Commercial]
 
 ## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
@@ -190,32 +190,32 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 
 ### HTML / Barcode
 
-*   [SwiftSoup (⭐3.9k)](https://github.com/scinfu/SwiftSoup) :penguin: - HTML Parser, with best of DOM, CSS, and jquery.
+*   [SwiftSoup (⭐4.1k)](https://github.com/scinfu/SwiftSoup) :penguin: - HTML Parser, with best of DOM, CSS, and jquery.
 
 ### UI / Barcode
 
-*   [AGCircularPicker (⭐619)](https://github.com/agilie/AGCircularPicker) - Helpful component for creating a controller aimed to manage any calculated parameter.
-*   [KALoader (⭐106)](https://github.com/Kirillzzy/KALoader) - Beautiful animated placeholders for showing loading of data.
-*   [MediaBrowser (⭐635)](https://github.com/younatics/MediaBrowser) - Simple iOS photo and video browser with optional grid view, captions and selections.
+*   [AGCircularPicker (⭐624)](https://github.com/agilie/AGCircularPicker) - Helpful component for creating a controller aimed to manage any calculated parameter.
+*   [KALoader (⭐107)](https://github.com/Kirillzzy/KALoader) - Beautiful animated placeholders for showing loading of data.
+*   [MediaBrowser (⭐645)](https://github.com/younatics/MediaBrowser) - Simple iOS photo and video browser with optional grid view, captions and selections.
 
 ### Payment / Barcode
 
-*   [iCard (⭐336)](https://github.com/eliakorkmaz/iCard) - Bank Card Generator using SnapKit DSL.
+*   [iCard (⭐339)](https://github.com/eliakorkmaz/iCard) - Bank Card Generator using SnapKit DSL.
 
 ### UICollectionView / Barcode
 
-*   [FSPagerView (⭐6.8k)](https://github.com/WenchaoD/FSPagerView) - Elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
-*   [GravitySlider (⭐998)](https://github.com/ApplikeySolutions/GravitySlider) - Beautiful alternative to the standard UICollectionView flow layout.
+*   [FSPagerView (⭐6.9k)](https://github.com/WenchaoD/FSPagerView) - Elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
+*   [GravitySlider (⭐1k)](https://github.com/ApplikeySolutions/GravitySlider) - Beautiful alternative to the standard UICollectionView flow layout.
 *   [ShelfView-iOS (⭐268)](https://github.com/tdscientist/ShelfView-iOS) - iOS custom view to display books on shelf.
 
 ### UITableView / Barcode
 
-*   [GridView (⭐839)](https://github.com/KyoheiG3/GridView) - Can be customized as a time table, spreadsheet, paging and more.
+*   [GridView (⭐846)](https://github.com/KyoheiG3/GridView) - Can be customized as a time table, spreadsheet, paging and more.
 *   [ParallaxHeader (⭐1k)](https://github.com/romansorochak/ParallaxHeader) - Simple way to add parallax header to UIScrollView/UITableView.
 
 ### Utility / Barcode
 
-*   [LifetimeTracker (⭐2.8k)](https://github.com/krzysztofzablocki/LifetimeTracker) - Surface retain cycle / memory issues right as you develop your application.
+*   [LifetimeTracker (⭐2.9k)](https://github.com/krzysztofzablocki/LifetimeTracker) - Surface retain cycle / memory issues right as you develop your application.
 
 ---
 

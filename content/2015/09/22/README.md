@@ -16,7 +16,7 @@
 
 ### Ask these people anything!
 
-*   [Vladimir Agafonkin (⭐6)](https://github.com/mourner/ama) - Engineer at [Mapbox](https://www.mapbox.com/), creator of [Leaflet](http://leafletjs.com/) and a bunch of [other open source libraries (⭐361)](https://github.com/mourner/projects). Building the future of interactive maps.
+*   [Vladimir Agafonkin (⭐6)](https://github.com/mourner/ama) - Engineer at [Mapbox](https://www.mapbox.com/), creator of [Leaflet](http://leafletjs.com/) and a bunch of [other open source libraries (⭐375)](https://github.com/mourner/projects). Building the future of interactive maps.
 
 ## [3. BEM Resources](/content/sturobson/BEM-resources/README.md)
 
@@ -140,12 +140,12 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Android Security Awesome (⭐6.9k)](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources.
-*   [Awesome CTF (⭐8.1k)](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and software.
-*   [Awesome Hacking (⭐10k)](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources.
-*   [Awesome Honeypots (⭐7k)](https://github.com/paralax/awesome-honeypots) - An awesome list of honeypot resources.
-*   [Awesome PCAP Tools (⭐2.7k)](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces.
-*   [Awesome Pentest (⭐18k)](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things.
+*   [Android Security Awesome (⭐7.2k)](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources.
+*   [Awesome CTF (⭐8.5k)](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and software.
+*   [Awesome Hacking (⭐11k)](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources.
+*   [Awesome Honeypots (⭐7.4k)](https://github.com/paralax/awesome-honeypots) - An awesome list of honeypot resources.
+*   [Awesome PCAP Tools (⭐2.8k)](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces.
+*   [Awesome Pentest (⭐19k)](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things.
 
 ## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -171,13 +171,12 @@
 
 ### XML
 
-*   [sweet\_xml (⭐335)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
+*   [sweet\_xml (⭐347)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
 
 ## [11. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Community
 
-*   `#angular2` channel on Freenode IRC Server
 *   [Gitter Channel](https://gitter.im/angular/angular)
 *   [Angular Group on Facebook](https://www.facebook.com/groups/angular2/)
 
@@ -196,7 +195,7 @@
 ### Integrations / Components
 
 *   [nativescript-angular (⭐1.2k)](https://github.com/NativeScript/nativescript-angular)
-*   [react-native-renderer (⭐788)](https://github.com/angular/react-native-renderer)
+*   [react-native-renderer (⭐789)](https://github.com/angular/react-native-renderer)
 
 ### Universal General Resources / Components
 
@@ -204,10 +203,10 @@
 
 ### Dart General Resources / Components
 
-*   [Dart](https://www.dartlang.org/) Official Website for Dart
+*   [Dart](https://www.dartlang.org/) Official Website for Dart.
 *   [Dartpad](https://dartpad.dartlang.org/) Dartpad lets play with Dart on-line, in a zero-install, zero configuration environment.
 *   [Pub](https://pub.dartlang.org/) Repository of packages of software for the Dart programming language.
-*   [Dartisans](https://plus.google.com/communities/114566943291919232850) The Official Dart Google+ community
+*   [Dartisans](https://plus.google.com/communities/114566943291919232850) The Official Dart Google+ community.
 *   [Dart Slack Channel](https://dartlang-slack.herokuapp.com/) The Official Dart Slack channel.
 
 ### Dart Seed Projects / Components
@@ -216,13 +215,13 @@
 
 ### Dart Demo, Samples, and Examples / Components
 
-*   [Hackernews App (⭐11)](https://github.com/andresaraujo/ng2_hackernews) A HackerNews application made with Angular 2 for Dart
+*   [Hackernews App (⭐11)](https://github.com/andresaraujo/ng2_hackernews) A HackerNews application made with Angular 2 for Dart.
 *   [Router Demo (⭐1)](https://github.com/andresaraujo/ng2_dart_router_demo) A basic example of Angular 2 router.
 
 ### Babel General Resources / Components
 
-*   [Babel](https://babeljs.io/) Official Website for Babel
-*   [REPL](https://babeljs.io/repl/) Official Babel REPL that runs entirely in your browser
+*   [Babel](https://babeljs.io/) Official Website for Babel.
+*   [REPL](https://babeljs.io/repl/) Official Babel REPL that runs entirely in your browser.
 
 ### NativeScript General Resources / Components
 

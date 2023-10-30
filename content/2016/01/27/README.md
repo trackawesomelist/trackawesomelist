@@ -16,13 +16,13 @@
 
 ### Applications / Directory Navigation
 
-*   [fanyi (⭐1.2k)](https://github.com/afc163/fanyi) - Translate English to Chinese in terminal
+*   [fanyi (⭐1.3k)](https://github.com/afc163/fanyi) - Translate English to Chinese in terminal
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Editors / Runner
 
-*   [Trumbowyg (⭐3.8k)](https://github.com/Alex-D/Trumbowyg) - A lightweight and amazing WYSIWYG JavaScript editor.
+*   [Trumbowyg (⭐3.9k)](https://github.com/Alex-D/Trumbowyg) - A lightweight and amazing WYSIWYG JavaScript editor.
 
 ## [4. Amas](/content/sindresorhus/amas/README.md)
 
@@ -34,8 +34,8 @@
 
 ### Algorithms and Data structures
 
-*   [combination (⭐28)](https://github.com/seantanly/elixir-combination) - Elixir library to generate combinations and permutations from Enumerable collection.
-*   [paratize (⭐26)](https://github.com/seantanly/elixir-paratize) - Elixir library providing some handy parallel processing (execution) facilities that support configuring number of workers and timeout.
+*   [combination (⭐30)](https://github.com/seantanly/elixir-combination) - Elixir library to generate combinations and permutations from Enumerable collection.
+*   [paratize (⭐27)](https://github.com/seantanly/elixir-paratize) - Elixir library providing some handy parallel processing (execution) facilities that support configuring number of workers and timeout.
 
 ### Testing
 

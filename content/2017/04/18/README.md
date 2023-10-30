@@ -16,20 +16,20 @@
 
 ### Command Line Applications
 
-*   [optimus (⭐0)](https://github.com/savonarola/optimus) - Command-line option parser for Elixir inspired by [clap.rs](https://clap.rs/).
+*   [optimus (⭐5)](https://github.com/savonarola/optimus) - Command-line option parser for Elixir inspired by [clap.rs](https://clap.rs/).
 
 ### Feature Flags and Toggles
 
-*   [flippant (⭐89)](https://github.com/sorentwo/flippant) - Feature flipping for the Elixir world.
-*   [molasses (⭐74)](https://github.com/securingsincity/molasses) - A feature toggle library using redis or SQL (using Ecto) as a backing service.
+*   [flippant (⭐94)](https://github.com/sorentwo/flippant) - Feature flipping for the Elixir world.
+*   [molasses (⭐75)](https://github.com/securingsincity/molasses) - A feature toggle library using redis or SQL (using Ecto) as a backing service.
 
 ### Geolocation
 
-*   [geonames (⭐19)](https://github.com/pareeohnos/geonames-elixir) - A simple Elixir wrapper around the GeoNames API.
+*   [geonames (⭐20)](https://github.com/pareeohnos/geonames-elixir) - A simple Elixir wrapper around the GeoNames API.
 
 ### HTTP
 
-*   [ivar (⭐14)](https://github.com/swelham/ivar) - A lightweight wrapper around HTTPoison that provides a fluent and composable way to build http requests.
+*   [ivar (⭐15)](https://github.com/swelham/ivar) - A lightweight wrapper around HTTPoison that provides a fluent and composable way to build http requests.
 
 ### ORM and Datamapping
 
@@ -37,13 +37,13 @@
 
 ### Release Management
 
-*   [mix\_docker (⭐334)](https://github.com/Recruitee/mix_docker) - Put your Elixir app production release inside minimal docker image.
+*   [mix\_docker (⭐333)](https://github.com/Recruitee/mix_docker) - Put your Elixir app production release inside minimal docker image.
 
 ## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Development Environment
 
-*   [Docker](https://github.com/stefanvangastel/docker-cakephp) - CakePHP in a docker container environment.
+*   [Docker (⭐31)](https://github.com/stefanvangastel/docker-cakephp) - CakePHP in a docker container environment.
 
 ## [4. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 

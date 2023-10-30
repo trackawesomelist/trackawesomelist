@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 22, 2017
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,11 +16,11 @@
 
 ### Text / Barcode
 
-*   [Sprinter (⭐167)](https://github.com/nicklockwood/Sprinter) - A library for formatting strings.
+*   [Sprinter (⭐166)](https://github.com/nicklockwood/Sprinter) - A library for formatting strings.
 
 ### UI / Barcode
 
-*   [CountryPickerView (⭐465)](https://github.com/kizitonwose/CountryPickerView) - A simple, customizable view for efficiently collecting country information in iOS apps.
+*   [CountryPickerView (⭐475)](https://github.com/kizitonwose/CountryPickerView) - A simple, customizable view for efficiently collecting country information in iOS apps.
 
 ## [3. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
@@ -31,21 +31,15 @@
 
 ## [4. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
-### Optimization / NLP
+### Optimization / Others
 
-*   [Bayesian Optimization (⭐6.8k)](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
+*   [Bayesian Optimization (⭐7k)](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
 
 ### Statistics / NLP
 
-*   [stockstats (⭐1.1k)](https://github.com/jealous/stockstats) - Supply a wrapper `StockDataFrame` based on the `pandas.DataFrame` with inline stock statistics/indicators support.
+*   [stockstats (⭐1.2k)](https://github.com/jealous/stockstats) - Supply a wrapper `StockDataFrame` based on the `pandas.DataFrame` with inline stock statistics/indicators support.
 
-## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
-
-### Note-taking / Telegram
-
-*   [Calculist](https://app.calculist.io/)
-
-## [6. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [5. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Software / Operating Systems
 

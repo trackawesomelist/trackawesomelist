@@ -32,15 +32,15 @@
 
 ### Networking
 
-*   [RubyDNS (⭐689)](https://github.com/ioquatix/rubydns) - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
+*   [RubyDNS (⭐698)](https://github.com/ioquatix/rubydns) - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
 
 ### State Machines
 
-*   [MicroMachine (⭐520)](https://github.com/soveran/micromachine) - A minimal finite state machine implementation in less than 50 lines of code.
+*   [MicroMachine (⭐522)](https://github.com/soveran/micromachine) - A minimal finite state machine implementation in less than 50 lines of code.
 
 ### View helpers
 
-*   [Bh (⭐831)](https://github.com/fullscreen/bh) - Bootstrap Helpers for Ruby.
+*   [Bh (⭐832)](https://github.com/fullscreen/bh) - Bootstrap Helpers for Ruby.
 *   [gon (⭐3k)](https://github.com/gazay/gon) - If you need to send some data to your js files and you don't want to do this with long way through views and parsing - use gon.
 *   [PluggableJs (⭐53)](https://github.com/peresleguine/pluggable_js) - Page-specific javascript for Rails applications with the ability of passing data from a controller.
 
@@ -48,13 +48,13 @@
 
 ### GLSL Editors
 
-*   [GLSLbin](http://glslb.in) - Fragment shader sandbox supporting [glslify (⭐2k)](https://github.com/glslify/glslify).
+*   [GLSLbin](http://glslb.in) - Fragment shader sandbox supporting [glslify (⭐2.1k)](https://github.com/glslify/glslify).
 *   [ShaderFrog](https://shaderfrog.com/) - WebGL Shader Editor and Composer.
 
 ### 2D / Firefox Specific Tools/Debugger
 
-*   [Planck.js (⭐4.4k)](https://github.com/shakiba/planck.js) - 2D physics engine for cross-platform HTML5 game development.
-*   [Stage.js (⭐2.2k)](https://github.com/shakiba/stage.js) - 2D Library for cross-platform HTML5 game development.
+*   [Planck.js (⭐4.6k)](https://github.com/shakiba/planck.js) - 2D physics engine for cross-platform HTML5 game development.
+*   [Stage.js (⭐2.3k)](https://github.com/shakiba/stage.js) - 2D Library for cross-platform HTML5 game development.
 
 ### Maps and Visualizations / Particles
 
@@ -64,13 +64,13 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [Mac-CLI (⭐8.5k)](https://github.com/guarinogabriel/Mac-CLI) - The ultimate tool to manage your Mac. Automatize the usage of your OS X system. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/guarinogabriel/Mac-CLI) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Mac-CLI (⭐8.6k)](https://github.com/guarinogabriel/Mac-CLI) - The ultimate tool to manage your Mac. Automatize the usage of your OS X system. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/guarinogabriel/Mac-CLI) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Machine Learning
 
-*   [ai4cr (⭐27)](https://github.com/drhuffman12/ai4cr) - Artificial Intelligence (based on [https://github.com/SergioFierens/ai4r (⭐710)](https://github.com/SergioFierens/ai4r))
+*   [ai4cr (⭐27)](https://github.com/drhuffman12/ai4cr) - Artificial Intelligence (based on [https://github.com/SergioFierens/ai4r (⭐712)](https://github.com/SergioFierens/ai4r))
 
 ## [6. Bots](/content/hackerkid/bots/README.md)
 
@@ -2119,7 +2119,7 @@
 
 ### Alert / Barcode
 
-*   [Swift-Prompts (⭐734)](https://github.com/GabrielAlva/Swift-Prompts) - Design custom prompts with a great scope of options to choose from.
+*   [Swift-Prompts (⭐733)](https://github.com/GabrielAlva/Swift-Prompts) - Design custom prompts with a great scope of options to choose from.
 
 ## [10. Awesome Framer](/content/podo/awesome-framer/README.md)
 

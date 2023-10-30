@@ -10,7 +10,7 @@
 
 ### Command-Line Productivity
 
-*   [fz (⭐441)](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
+*   [fz (⭐466)](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
 
 ## [2. Tools](/content/lvwzhen/tools/README.md)
 
@@ -23,7 +23,7 @@
 
 ### Applications / Themes
 
-*   [Productivity Application (⭐244)](https://github.com/dhruv-kumar-jha/productivity-frontend) - Kanban style, Trello inspired Productivity application built using React, Ant Design and other fantastic modules.
+*   [Productivity Application (⭐245)](https://github.com/dhruv-kumar-jha/productivity-frontend) - Kanban style, Trello inspired Productivity application built using React, Ant Design and other fantastic modules.
 
 ---
 

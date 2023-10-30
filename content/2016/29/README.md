@@ -10,8 +10,8 @@
 
 ### Frameworks, Libraries and Tools / Build Automation
 
-*   [msbuild (⭐4.8k)](https://github.com/Microsoft/msbuild) - The Microsoft Build Engine is a platform for building applications.
-*   [vsts-agent (⭐1.4k)](https://github.com/Microsoft/vsts-agent/blob/master/README.md) - Visual Studio Team Services Build and Release Agent.
+*   [msbuild (⭐5k)](https://github.com/Microsoft/msbuild) - The Microsoft Build Engine is a platform for building applications.
+*   [vsts-agent (⭐1.6k)](https://github.com/Microsoft/vsts-agent/blob/master/README.md) - Visual Studio Team Services Build and Release Agent.
 
 ## [2. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
@@ -120,7 +120,7 @@
 
 ### CLI
 
-*   [zsh-better-npm-completion (⭐411)](https://github.com/lukechilds/zsh-better-npm-completion) - Better ZSH completion for npm.
+*   [zsh-better-npm-completion (⭐432)](https://github.com/lukechilds/zsh-better-npm-completion) - Better ZSH completion for npm.
 
 ## [8. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -181,7 +181,7 @@
 
 *   [Angular 2 with OpenID Connect Implicit Flow from Damien Bowden](https://damienbod.com/2016/03/02/angular2-openid-connect-implicit-flow-with-identityserver4/)
 *   [Angular 2 bootstrap4 OAuth2 Webpack from Michael Oryl (⭐194)](https://github.com/michaeloryl/angular2-bootstrap4-oauth2-webpack)
-*   [Angular 2 authentication sample from auth0-blog (⭐972)](https://github.com/auth0-blog/angular2-authentication-sample)
+*   [Angular 2 authentication sample from auth0-blog (⭐970)](https://github.com/auth0-blog/angular2-authentication-sample)
 
 ## [15. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
@@ -194,7 +194,7 @@
 
 ### Network Protocols
 
-*   [fast\_irc.cr (⭐20)](https://github.com/RX14/fast_irc.cr) - Fast IRC parser/generator
+*   [fast\_irc.cr (⭐19)](https://github.com/RX14/fast_irc.cr) - Fast IRC parser/generator
 
 ## [17. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
@@ -297,7 +297,7 @@
 
 ### UI / Barcode
 
-*   [WSTagsField (⭐1.2k)](https://github.com/whitesmith/WSTagsField) - An iOS text field that represents different Tags.
+*   [WSTagsField (⭐1.3k)](https://github.com/whitesmith/WSTagsField) - An iOS text field that represents different Tags.
 
 ## [25. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
@@ -307,7 +307,7 @@
 
 ### Samples
 
-*   [Vulkan Quake port based on QuakeSpasm (⭐1.5k)](https://github.com/Novum/vkQuake).
+*   [Vulkan Quake port based on QuakeSpasm (⭐1.6k)](https://github.com/Novum/vkQuake).
 
 ## [26. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -317,16 +317,16 @@
 
 ### Testing Frameworks / Runner
 
-*   [casperjs (⭐7.3k)](https://github.com/casperjs/casperjs) - Navigation scripting & testing utility for PhantomJS and SlimerJS.
+*   [casperjs (⭐7.2k)](https://github.com/casperjs/casperjs) - Navigation scripting & testing utility for PhantomJS and SlimerJS.
 
 ### Data Visualization / Runner
 
-*   [d3 (⭐105k)](https://github.com/d3/d3) - A JavaScript visualization library for HTML and SVG.
+*   [d3 (⭐106k)](https://github.com/d3/d3) - A JavaScript visualization library for HTML and SVG.
 *   [c3 (⭐9.3k)](https://github.com/c3js/c3) - D3-based reusable chart library.
 
 ### Documentation / Runner
 
-*   [dox (⭐2.1k)](https://github.com/tj/dox) is a JavaScript documentation generator written with node. Dox no longer generates an opinionated structure or style for your docs, it simply gives you a JSON representation, allowing you to use markdown and JSDoc-style tags.
+*   [dox (⭐2.2k)](https://github.com/tj/dox) is a JavaScript documentation generator written with node. Dox no longer generates an opinionated structure or style for your docs, it simply gives you a JSON representation, allowing you to use markdown and JSDoc-style tags.
 *   [YUIDoc](http://yui.github.io/yuidoc/) is a Node.js application that generates API documentation from comments in source, using a syntax similar to tools like Javadoc and Doxygen.
 *   [coddoc](http://doug-martin.github.io/coddoc/) is a jsdoc parsing library. Coddoc is different in that it is easily extensible by allowing users to add tag and code parsers through the use of coddoc.addTagHandler and coddoc.addCodeHandler. coddoc also parses source code to be used in APIs.
 *   [sphinx](http://www.sphinx-doc.org/) a tool that makes it easy to create intelligent and beautiful documentation
@@ -342,7 +342,7 @@
 
 ### String / Runner
 
-*   [jsurl (⭐521)](https://github.com/Mikhus/domurl) - Lightweight URL manipulation with JavaScript.
+*   [jsurl (⭐531)](https://github.com/Mikhus/domurl) - Lightweight URL manipulation with JavaScript.
 
 ### Sliders / Runner
 
@@ -356,16 +356,13 @@
 ### Misc / Other
 
 *   [grid (⭐3.6k)](https://github.com/hootsuite/grid) - Drag and drop library for two-dimensional, resizable and responsive lists.
-
-### Podcasts / Other
-
-*   [MaximAbramchuck/awesome-interviews (⭐55k)](https://github.com/MaximAbramchuck/awesome-interview-questions)
+*   [MaximAbramchuck/awesome-interviews (⭐57k)](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
 ## [27. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / Python
 
-*   [μMongo (⭐432)](https://github.com/Scille/umongo) - Driver-independent (async/sync) ODM based on marshmallow
+*   [μMongo (⭐439)](https://github.com/Scille/umongo) - Driver-independent (async/sync) ODM based on marshmallow
 
 ## [28. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
@@ -384,36 +381,36 @@
 ### Keyboard
 
 *   [RSKKeyboardAnimationObserver (⭐45)](https://github.com/ruslanskorb/RSKKeyboardAnimationObserver) - Showing / dismissing keyboard animation in simple UIViewController category.
-*   [RFKeyboardToolbar (⭐421)](https://github.com/ruddfawcett/RFKeyboardToolbar) - This is a flexible UIView and UIButton subclass to add customized buttons and toolbars to your UITextFields/UITextViews.
+*   [RFKeyboardToolbar (⭐422)](https://github.com/ruddfawcett/RFKeyboardToolbar) - This is a flexible UIView and UIButton subclass to add customized buttons and toolbars to your UITextFields/UITextViews.
 *   [IQKeyboardManager (⭐16k)](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView.
-*   [NgKeyboardTracker (⭐805)](https://github.com/meiwin/NgKeyboardTracker) - Objective-C library for tracking keyboard in iOS apps.
+*   [NgKeyboardTracker (⭐802)](https://github.com/meiwin/NgKeyboardTracker) - Objective-C library for tracking keyboard in iOS apps.
 *   [MMNumberKeyboard (⭐957)](https://github.com/matmartinez/MMNumberKeyboard) - A simple keyboard to use with numbers and, optionally, a decimal point.
 *   [TPKeyboardAvoiding (⭐5.8k)](https://github.com/michaeltyson/TPKeyboardAvoiding) - A drop-in universal solution for moving text fields out of the way of the keyboard in iOS
-*   [YYKeyboardManager (⭐481)](https://github.com/ibireme/YYKeyboardManager) - iOS utility class allows you to access keyboard view and track keyboard animation.
+*   [YYKeyboardManager (⭐484)](https://github.com/ibireme/YYKeyboardManager) - iOS utility class allows you to access keyboard view and track keyboard animation.
 
 ### Utility / Collection View Layout
 
 *   [Underscore.m (⭐1.5k)](https://github.com/robb/Underscore.m) - A DSL for Data Manipulation.
-*   [XExtensionItem (⭐86)](https://github.com/tumblr/XExtensionItem) - Easier sharing of structured data between iOS applications and share extensions.
-*   [ReflectableEnum (⭐332)](https://github.com/fastred/ReflectableEnum) - Reflection for enumerations in Objective-C.
+*   [XExtensionItem (⭐87)](https://github.com/tumblr/XExtensionItem) - Easier sharing of structured data between iOS applications and share extensions.
+*   [ReflectableEnum (⭐330)](https://github.com/fastred/ReflectableEnum) - Reflection for enumerations in Objective-C.
 *   [ObjectiveSugar (⭐2.2k)](https://github.com/supermarin/ObjectiveSugar) - ObjectiveC additions for humans. Ruby style.
 *   [OpinionatedC (⭐52)](https://github.com/leoschweizer/OpinionatedC) - Because Objective-C should have inherited more from Smalltalk.
-*   [YOLOKit (⭐662)](https://github.com/mxcl/YOLOKit) - Getting square objects down round holes.
-*   [BFKit (⭐803)](https://github.com/FabrizioBrancati/BFKit) - An Objective-C collection of useful classes to develop Apps faster.
-*   [AppVersionMonitor (⭐257)](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.
+*   [YOLOKit (⭐664)](https://github.com/mxcl/YOLOKit) - Getting square objects down round holes.
+*   [BFKit (⭐801)](https://github.com/FabrizioBrancati/BFKit) - An Objective-C collection of useful classes to develop Apps faster.
+*   [AppVersionMonitor (⭐258)](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.
 *   [libextobjc (⭐4.5k)](https://github.com/jspahrsummers/libextobjc) - A Cocoa library to extend the Objective-C programming language.
-*   [YAML.framework (⭐237)](https://github.com/mirek/YAML.framework) - Proper YAML support for Objective-C based on `LibYAML`.
+*   [YAML.framework (⭐242)](https://github.com/mirek/YAML.framework) - Proper YAML support for Objective-C based on `LibYAML`.
 
 ## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
 *   [ueberauth\_cas (⭐14)](https://github.com/marceldegraaf/ueberauth_cas) - Central Authentication Service strategy for Überauth.
-*   [ueberauth\_line (⭐3)](https://github.com/alexfilatov/ueberauth_line) - LINE Strategy for Überauth.
+*   [ueberauth\_line (⭐4)](https://github.com/alexfilatov/ueberauth_line) - LINE Strategy for Überauth.
 
 ### Cloud Infrastructure and Management
 
-*   [nomad (⭐79)](https://github.com/sashaafm/nomad) - Create cloud portable Elixir and Phoenix apps. Write once, use everywhere.
+*   [nomad (⭐81)](https://github.com/sashaafm/nomad) - Create cloud portable Elixir and Phoenix apps. Write once, use everywhere.
 
 ### HTTP
 
@@ -425,7 +422,7 @@
 
 ### Release Management
 
-*   [eliver (⭐54)](https://github.com/glasnoster/eliver) - Interactive semantic versioning for Elixir packages.
+*   [eliver (⭐55)](https://github.com/glasnoster/eliver) - Interactive semantic versioning for Elixir packages.
 
 ### Testing
 
@@ -433,16 +430,16 @@
 
 ### Text and Numbers
 
-*   [stemmer (⭐145)](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
+*   [stemmer (⭐148)](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
 
 ### Third Party APIs
 
 *   [airbax (⭐5)](https://github.com/adjust/airbax) - Exception tracking from Elixir to Airbrake.
-*   [diplomat (⭐93)](https://github.com/peburrows/diplomat) - A [Google Cloud Datastore](https://cloud.google.com/datastore/) client.
+*   [diplomat (⭐94)](https://github.com/peburrows/diplomat) - A [Google Cloud Datastore](https://cloud.google.com/datastore/) client.
 
 ### Utilities
 
-*   [erlang-history (⭐496)](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell.
+*   [erlang-history (⭐495)](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell.
 
 ## [32. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
@@ -475,7 +472,7 @@
 
 ### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
-*   [日本語 (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ja-JP)
+*   [日本語 (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ja-JP)
 
 ## [36. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -532,7 +529,7 @@
 
 ### Modules / Browser
 
-*   [image-promise (⭐139)](https://github.com/bfred-it/image-promise) - Load one or more `<img>`s in a Promise.
+*   [image-promise (⭐144)](https://github.com/bfred-it/image-promise) - Load one or more `<img>`s in a Promise.
 *   [get-media-size (⭐12)](https://github.com/bfred-it/get-media-size) - Get the original size of any `img`/`video`/`svg`/`canvas` tags or canvas context.
 
 ### Modules / CLI
@@ -567,15 +564,15 @@
 
 ### Apps / Security
 
-*   [wagtailenforcer (⭐43)](https://github.com/springload/wagtailenforcer) - If you need to enforce security protocols on your Wagtail site you've come to the right place.
+*   [wagtailenforcer (⭐44)](https://github.com/springload/wagtailenforcer) - If you need to enforce security protocols on your Wagtail site you've come to the right place.
 
 ### Apps / Forms
 
-*   [Wagtail ReCaptcha (⭐50)](https://github.com/springload/wagtail-django-recaptcha) - wagtail-django-captcha provides an easy way to integrate the [django-recaptcha (⭐881)](https://github.com/praekelt/django-recaptcha) field when using the Wagtail formbuilder.
+*   [Wagtail ReCaptcha (⭐52)](https://github.com/springload/wagtail-django-recaptcha) - wagtail-django-captcha provides an easy way to integrate the [django-recaptcha (⭐914)](https://github.com/praekelt/django-recaptcha) field when using the Wagtail formbuilder.
 
 ### Apps / Misc
 
-*   [wagtailmenus (⭐350)](https://github.com/rkhleics/wagtailmenus) - An extension for Torchbox's Wagtail CMS to help you manage and render multi-level navigation and simple flat menus in a consistent, flexible way.
+*   [wagtailmenus (⭐362)](https://github.com/rkhleics/wagtailmenus) - An extension for Torchbox's Wagtail CMS to help you manage and render multi-level navigation and simple flat menus in a consistent, flexible way.
 
 ### Resources / Presentations
 
@@ -584,7 +581,7 @@
 
 ### Resources / Showcases
 
-*   [Contributed apps and website code (⭐14k)](https://github.com/torchbox/wagtail/wiki/Contributed-apps-and-website-code) - A provisional directory of third-party contributed Wagtail websites and apps.
+*   [Contributed apps and website code (⭐15k)](https://github.com/torchbox/wagtail/wiki/Contributed-apps-and-website-code) - A provisional directory of third-party contributed Wagtail websites and apps.
 
 ## [45. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 

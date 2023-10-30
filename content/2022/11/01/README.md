@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 01, 2022
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Monitoring
 
-*   [appspector.com](https://appspector.com/) - Mission control, for remote iOS/Android/Flutter debugging. Free for small traffic usage (64MB of logs).
+*   [appspector.com](https://appspector.com/) - Mission control for remote iOS/Android/Flutter debugging. Free for small traffic usage (64MB of logs).
 
 ## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -24,11 +24,11 @@
 
 ### Apps / Games
 
-*   [GameHub (⭐1.9k)](https://github.com/tkashkin/GameHub) - A unified library for all your games.
+*   [GameHub (⭐2k)](https://github.com/tkashkin/GameHub) - A unified library for all your games.
 
 ### Apps / Productivity
 
-*   [TextSnatcher (⭐332)](https://github.com/RajSolai/TextSnatcher) - Copy text from Images with ease.
+*   [TextSnatcher (⭐459)](https://github.com/RajSolai/TextSnatcher) - Copy text from Images with ease.
 
 ## [4. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Modules / Web framework
 
-*   [wren (⭐74)](https://github.com/zaiste/wren) - A small, but powerful HTTP library with a functional spin for creating composable web apps, built for convenience and simplicity
+*   [wren (⭐73)](https://github.com/zaiste/wren) - A small, but powerful HTTP library with a functional spin for creating composable web apps, built for convenience and simplicity
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Audio and Video Tools / File Sharing
 
-*   [Aegisub (⭐2.4k)](https://github.com/Aegisub/Aegisub) - Free, cross-platform open source tool for creating and modifying subtitles. Aegisub makes it quick and easy to time subtitles to audio, and features many powerful tools for styling them, including a built-in real-time video preview. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Aegisub/Aegisub/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Aegisub (⭐2.7k)](https://github.com/Aegisub/Aegisub) - Free, cross-platform open source tool for creating and modifying subtitles. Aegisub makes it quick and easy to time subtitles to audio, and features many powerful tools for styling them, including a built-in real-time video preview. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Aegisub/Aegisub/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [LMMS](https://lmms.io) - Formerly "Linux MultiMedia Studio", LMMS is a powerful Digital Audio Workstation designed like FL Studio (formerly Fruity Loops). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/lmms/lmms) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Menu Bar Tools
@@ -71,7 +71,7 @@
 
 ### Utilities / Quality of Life Improvements
 
-*   [Grayscale Mode (⭐72)](https://github.com/rkbhochalya/grayscale-mode) - An open source macOS app that lets you quickly toggle grayscale filter right from your menu bar or using a keyboard shortcut (⌥⌘G). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rkbhochalya/grayscale-mode) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Grayscale Mode (⭐75)](https://github.com/rkbhochalya/grayscale-mode) - An open source macOS app that lets you quickly toggle grayscale filter right from your menu bar or using a keyboard shortcut (⌥⌘G). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rkbhochalya/grayscale-mode) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / System Related Tools
 
@@ -107,19 +107,19 @@
 
 ## [9. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
-### Authentication / Password-less
+### Multi-factor auth / Identifiers
+
+*   [SMS Multifactor Authentication in Antarctica](https://brr.fyi/posts/sms-mfa) - Doesn't work because there are no cellphone towers at stations in Antarctica.
+
+### Password-less auth / SMS-based
 
 *   [Magic Links – Are they Actually Outdated?](https://zitadel.com/blog/magic-links) - What are magic links, their origin, pros and cons.
 
-### Authentication / Multi-Factor
+### OAuth2 & OpenID / Macaroons
 
-*   [SMS Multifactor Authentication in Antarctica](https://brr.fyi/posts/sms-mfa) - Doesn't work because there are no cell phone towers at stations in Antarctica.
+*   [Logto (⭐6.4k)](https://github.com/logto-io/logto) - Build the sign-in, auth, and user identity with this OIDC-based identity service.
 
-### Authentication / OAuth2 & OpenID
-
-*   [Logto (⭐5.6k)](https://github.com/logto-io/logto) - Build the sign-in, auth, and user identity with this OIDC-based identity service.
-
-### Authentication / SAML
+### SAML / Macaroons
 
 *   [The SSO Wall of Shame](https://sso.tax) - A documented rant on the exessive pricing practiced by SaaS providers to activate SSO on their product. The author's point is, as a core security feature, SSO should be reasonnably priced and not part of an exclusive tier.
 
@@ -131,6 +131,55 @@
     *   Algorithms class covering recursion, randomization, amortization, graph algorithms, network flows and hardness. The lecture notes by Prof. Erikson are comprehensive enough to be a book by themselves. Highly recommended!
     *   [Lecture Notes](http://web.engr.illinois.edu/\~jeffe/teaching/algorithms/all-algorithms.pdf)
     *   [Labs and Exams](http://web.engr.illinois.edu/\~jeffe/teaching/algorithms/all-hwex.pdf)
+
+## [11. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### ASP.NET
+
+*   [.NET Framework Notes for Professionals](https://books.goalkicker.com/DotNETFrameworkBook/DotNETFrameworkNotesForProfessionals.pdf) - Compiled from StackOverflow Documentation (PDF)
+
+### DBMS / Non-X86
+
+*   [Database Management System](https://mrcet.com/downloads/digital_notes/ECE/III%20Year/DATABASE%20MANAGEMENT%20SYSTEMS.pdf) - Malla Reddy College of Engineering and Technology (PDF)
+
+### Graphs / Neo4J
+
+*   [Knowledge Graphs: Data in Context for Responsive Businesses](https://neo4j.com/knowledge-graphs-data-in-context-for-responsive-businesses/) - Jesús Barrasa, Amy E. Hodler, Jim Webber (PDF) *(email requested)*
+
+### JavaScript / Wicket
+
+*   [Airbnb JavaScript Style Guide](https://airbnb.io/javascript/) - Airbnb (HTML)
+
+### JavaScript / Hydrogen
+
+*   [Build a Hydrogen storefront](https://shopify.dev/custom-storefronts/hydrogen/getting-started/tutorial) (HTML)
+
+### JavaScript / Node.js
+
+*   [Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting/index.html) - Axel Rauschmayer (HTML)
+
+### JavaScript / React
+
+*   [Redux Tutorial](https://www.tutorialspoint.com/redux/) - Tutorial Point (HTML, PDF)
+
+### JavaScript / Remix
+
+*   [Developer Blog Tutorial](https://remix.run/docs/en/v1/tutorials/blog)
+*   [Jokes App Tutorial](https://remix.run/docs/en/v1/tutorials/jokes)
+
+### Python / Django
+
+*   [All-Auth](https://django-allauth.readthedocs.io/en/latest/overview.html) (HTML)
+*   [AutoComplete-Light](https://django-autocomplete-light.readthedocs.io/en/master/tutorial.html) (HTML)
+*   [Django Filters](https://django-filter.readthedocs.io/en/stable/) (HTML)
+*   [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/4.1.x/django.pdf) (PDF) (4.1)
+*   [Django Storages](https://django-storages.readthedocs.io/en/latest/) (HTML)
+*   [Django Tinymce](https://django-tinymce.readthedocs.io/en/latest/) (HTML)
+*   [Social Auth App](https://python-social-auth.readthedocs.io/en/latest/) (HTML)
+
+### Scala / Sinatra
+
+*   [Scala with Cats 2](https://www.scalawithcats.com) - Noel Welsh, Dave Gurnell (PDF, HTML, EPUB)
 
 ---
 

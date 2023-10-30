@@ -16,7 +16,7 @@
 
 ### Scheduling
 
-*   [FluentScheduler (⭐2.5k)](https://github.com/fluentscheduler/FluentScheduler) - Task scheduler with fluent interface that runs automated jobs from your application
+*   [FluentScheduler (⭐2.6k)](https://github.com/fluentscheduler/FluentScheduler) - Task scheduler with fluent interface that runs automated jobs from your application
 
 ## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Modules / CLI
 
-*   [glob (⭐7.7k)](https://github.com/isaacs/node-glob) - Glob functionality for node.js.
+*   [glob (⭐8.1k)](https://github.com/isaacs/node-glob) - Glob functionality for node.js.
 
 ## [7. Amas](/content/sindresorhus/amas/README.md)
 

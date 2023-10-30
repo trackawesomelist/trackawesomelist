@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 23, 2016
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -99,12 +99,6 @@
 ### E-commerce
 
 *   [django-shop (⭐3k)](https://github.com/awesto/django-shop) - A Django based shop system.
-
-## [7. Awesome Music](/content/ciconia/awesome-music/README.md)
-
-### Music Notation
-
-*   [Tunefl (⭐22)](https://github.com/tiredpixel/tunefl) - LilyPond mini-score engraving and sharing service for musicians.
 
 ---
 

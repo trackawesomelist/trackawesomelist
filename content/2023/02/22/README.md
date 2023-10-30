@@ -20,7 +20,7 @@
 
 ### Anti-tracking / Alternative clients/modifications of Discord:
 
-*   [LibRedirect (⭐2.3k)](https://github.com/libredirect/libredirect) - A simple web extension that redirects Twitter, YouTube, Google Maps and many more requests to privacy friendly alternatives. Former Privacy Redirect is no longer maintained, LibRedirect is a maintained fork.
+*   [LibRedirect (⭐2.7k)](https://github.com/libredirect/libredirect) - A simple web extension that redirects Twitter, YouTube, Google Maps and many more requests to privacy friendly alternatives. Former Privacy Redirect is no longer maintained, LibRedirect is a maintained fork.
 
 ### Privacy vs Security vs Anonimity / Alternative clients/modifications of Discord:
 
@@ -53,19 +53,19 @@
 
 ### Editing Support / Diagnostics
 
-*   [bennypowers/splitjoin.nvim (⭐60)](https://github.com/bennypowers/splitjoin.nvim) - Split and join various syntax structures.
+*   [bennypowers/splitjoin.nvim (⭐70)](https://github.com/bennypowers/splitjoin.nvim) - Split and join various syntax structures.
 
 ## [6. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / YouTube
 
-*   [TubeArchivist (⭐2.4k)](https://github.com/tubearchivist/tubearchivist): A self hosted YouTube media server
+*   [TubeArchivist (⭐2.8k)](https://github.com/tubearchivist/tubearchivist): A self hosted YouTube media server
 
 ## [7. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ### Downloading, Installing, Upgrading, and Building
 
-*   [Qubes OS 4.2 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.1.2 Weekly Build download.
+*   [Qubes OS 4.2 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.2 Weekly Build download.
 
 ## [8. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Crates / Utils
 
-*   [yew-nested-router (⭐6)](https://github.com/ctron/yew-nested-router) - A router that supported nesting, with Yew 0.20.
+*   [yew-nested-router (⭐5)](https://github.com/ctron/yew-nested-router) - A router that supported nesting, with Yew 0.20.
 
 ## [10. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 

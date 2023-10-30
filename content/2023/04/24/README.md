@@ -8,7 +8,7 @@
 
 ## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Science Logology / Democratization
+### Science Logology / Democratization of Science
 
 *   [How to Make More Published Research True](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4204808/) - ***PLoS Medicine***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=10945341175996677908\&hl=en\&as_sdt=0,10)].
 
@@ -22,17 +22,17 @@
 
 ### HTML
 
-*   [meseeks (⭐290)](https://github.com/mischov/meeseeks#html) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
+*   [meseeks (⭐300)](https://github.com/mischov/meeseeks#html) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
 
 ### XML
 
-*   [meeseeks (⭐290)](https://github.com/mischov/meeseeks#xml) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
+*   [meeseeks (⭐300)](https://github.com/mischov/meeseeks#xml) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Logging
 
-*   [slog-formatter (⭐15)](https://github.com/samber/slog-formatter) - Common formatters for slog and helpers to build your own.
+*   [slog-formatter (⭐48)](https://github.com/samber/slog-formatter) - Common formatters for slog and helpers to build your own.
 
 ## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -44,42 +44,42 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [vite-vue-ultimate-starter (⭐2)](https://github.com/kaandesu/vite-vue-ultimate-starter) - Open source Vue3 template built with Vite that out of the box provides PWA mode, ts, Vue Router, Tailwind CSS, DaisyUI, Playwright, vitest, github pages workflow and many more.
+*   [vite-vue-ultimate-starter (⭐4)](https://github.com/kaandesu/vite-vue-ultimate-starter) - Open source Vue3 template built with Vite that out of the box provides PWA mode, ts, Vue Router, Tailwind CSS, DaisyUI, Playwright, vitest, github pages workflow and many more.
 
 ## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Database
 
-*   [Atomic-Server (⭐396)](https://github.com/atomicdata-dev/atomic-server/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml)
+*   [Atomic-Server (⭐537)](https://github.com/atomicdata-dev/atomic-server/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml)
 
 ### Libraries / Data structures
 
-*   [greyblake/nutype](https://github.com/greyblake/nutype) \[[nutype](https://crates.io/crates/nutype)] — define newtype structures with validation constraints. [![build status](https://github.com/greyblake/nutype/actions/workflows/ci.yml/badge.svg)](https://github.com/greyblake/nutype/actions)
+*   [greyblake/nutype (⭐849)](https://github.com/greyblake/nutype) \[[nutype](https://crates.io/crates/nutype)] — define newtype structures with validation constraints. [![build status](https://github.com/greyblake/nutype/actions/workflows/ci.yml/badge.svg)](https://github.com/greyblake/nutype/actions)
 
 ### Libraries / Distributed systems
 
 *   Other
-    *   [build-trust/ockam (⭐3.2k)](https://github.com/build-trust/ockam) \[[ockam](https://crates.io/crates/ockam)] - End-to-End Encryption, Mutual Authentication, and ABAC for distributed applications [![build badge](https://github.com/build-trust/ockam/workflows/Rust/badge.svg)](https://github.com/build-trust/ockam)
+    *   [build-trust/ockam (⭐3.7k)](https://github.com/build-trust/ockam) \[[ockam](https://crates.io/crates/ockam)] - End-to-End Encryption, Mutual Authentication, and ABAC for distributed applications [![build badge](https://github.com/build-trust/ockam/workflows/Rust/badge.svg)](https://github.com/build-trust/ockam)
 
 ## [8. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Gaming
 
-*   [GameMaker (⭐109)](https://github.com/bytecauldron/awesome-gamemaker#readme) - Game engine.
+*   [GameMaker (⭐150)](https://github.com/bytecauldron/awesome-gamemaker#readme) - Game engine.
 
 ### Learn
 
-*   [Certificates (⭐493)](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
+*   [Certificates (⭐821)](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
 
 ### Miscellaneous
 
-*   [GitHub Wiki (⭐64)](https://github.com/MyHoneyBadger/awesome-github-wiki#readme) - Comprehensive documentation on GitHub beyond README.
+*   [GitHub Wiki (⭐124)](https://github.com/MyHoneyBadger/awesome-github-wiki#readme) - Comprehensive documentation on GitHub beyond README.
 
 ## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Utility / Diagnostics
 
-*   [LukasPietzschmann/telescope-tabs (⭐132)](https://github.com/LukasPietzschmann/telescope-tabs) - Quickly navigate between tabs using telescope.
+*   [LukasPietzschmann/telescope-tabs (⭐171)](https://github.com/LukasPietzschmann/telescope-tabs) - Quickly navigate between tabs using telescope.
 
 ---
 

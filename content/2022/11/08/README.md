@@ -18,27 +18,27 @@
 
 ### Network / Barcode
 
-*   [RxNetworks (⭐160)](https://github.com/yangKJ/RxNetworks) - Network API With RxSwift + Moya + HandyJSON + Plugins.
+*   [RxNetworks (⭐191)](https://github.com/yangKJ/RxNetworks) - Network API With RxSwift + Moya + HandyJSON + Plugins.
 
 ## [2. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Emulators / Experimental/Proof of Concepts
 
-*   [Gambatte (⭐2)](https://github.com/gb-archive/gambatte) - Cross-platform and accurate emulator.
+*   [Gambatte (⭐3)](https://github.com/gb-archive/gambatte) - Cross-platform and accurate emulator.
 
 ### Tools / Music drivers and trackers
 
-*   [GBSoundSystem (⭐2)](https://github.com/gbdev/GBSoundSystem) - A modernized audio driver for GameBoy Tracker (aka the Paragon 5 music player).
+*   [GBSoundSystem (⭐5)](https://github.com/gbdev/GBSoundSystem) - A modernized audio driver for GameBoy Tracker (aka the Paragon 5 music player).
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [ranjithshegde/ccls.nvim (⭐43)](https://github.com/ranjithshegde/ccls.nvim) - Use off-spec extensions of ccls LSP and browse AST.
+*   [ranjithshegde/ccls.nvim (⭐54)](https://github.com/ranjithshegde/ccls.nvim) - Use off-spec extensions of ccls LSP and browse AST.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [NFrid/markdown-togglecheck (⭐10)](https://github.com/NFrid/markdown-togglecheck) - Simple Neovim plugin for toggling check boxes using Treesitter.
+*   [NFrid/markdown-togglecheck (⭐15)](https://github.com/NFrid/markdown-togglecheck) - Simple Neovim plugin for toggling check boxes using Treesitter.
 
 ### Neovim Lua Development / Diagnostics
 
@@ -58,7 +58,7 @@
 
 ## [6. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
-### Resources / Roguelike
+### Resources / Simulation
 
 *   [Game UI Database](https://www.gameuidatabase.com/) - The ultimate screen reference tool for game interface designers. Explore over 500 games and 19,000 individual images, and filter by screen type, material, layout, texture, shapes, patterns, genres and more!
 
@@ -70,27 +70,27 @@
 
 ### Complete Game Sources / Voxel Editors
 
-*   :tada: [OpenRA (⭐12k)](https://github.com/OpenRA/OpenRA)
+*   :tada: [OpenRA (⭐13k)](https://github.com/OpenRA/OpenRA)
 
 ## [8. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Design Systems
 
-*   [Astro Space UX Design System (⭐41)](https://github.com/RocketCommunicationsInc/astro) - Set of components to build rich space app experiences with established interaction patterns.
+*   [Astro Space UX Design System (⭐73)](https://github.com/RocketCommunicationsInc/astro) - Set of components to build rich space app experiences with established interaction patterns.
 *   [Auro Design System](https://auro.alaskaair.com) - Alaska Airlines design system to innovate on ideas and collaborate on the future.
-*   [FAST Components (⭐8k)](https://github.com/microsoft/fast/tree/master/packages/web-components) - Library of Web Components based on the FAST design language.
+*   [FAST Components (⭐8.6k)](https://github.com/microsoft/fast/tree/master/packages/web-components) - Library of Web Components based on the FAST design language.
 *   [Nord](https://nordhealth.design) - Nordhealth’s design system for products, digital experiences and brand.
 *   [U-M Library Design System](https://design-system.lib.umich.edu) - University of Michigan Library Design System.
 
 ## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bepoptimist (⭐1)](https://github.com/sheoak/zsh-bepoptimist/) Remaps vi-mode for the French [bépo](http://bepo.fr/wiki/Accueil) keyboard.
+*   [bepoptimist (⭐1)](https://github.com/sheoak/zsh-bepoptimist/) - Remaps vi-mode for the French bépo keyboard.
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [happy-coding (⭐1)](https://github.com/lexhuismans/happy-coding/) - Stripped down version of [passion (⭐178)](https://github.com/ChesterYue/ohmyzsh-theme-passion). Includes decorators for time, `git` branch, last command execution time and last command exit status.
+*   [happy-coding (⭐1)](https://github.com/lexhuismans/happy-coding/) - Stripped down version of [passion (⭐227)](https://github.com/ChesterYue/ohmyzsh-theme-passion). Includes decorators for time, `git` branch, last command execution time and last command exit status.
 
 ---
 

@@ -20,7 +20,7 @@
 
 ## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [nova (⭐0)](https://github.com/body20002/nova) - Includes `git` status decroations. Overrides `LS_COLORS` and `LSCOLORS` settings.
 
@@ -28,19 +28,19 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Soketi](https://soketi.app/) - Soketi is a free, open-source Pusher drop-in alternative. ([Source Code (⭐3.6k)](https://github.com/soketi/soketi)) `MIT` `Nodejs`
+*   [Soketi](https://soketi.app/) - Simple, fast, and resilient open-source WebSockets server (drop-in alternative to Pusher). ([Source Code (⭐4k)](https://github.com/soketi/soketi)) `MIT` `Nodejs/Docker/K8S`
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Matrix libraries / Third-party APIs
 
-*   [magicl (⭐208)](https://github.com/quil-lang/magicl) - Matrix Algebra proGrams In Common Lisp based on BLAS/LAPACK and Expokit, by Rigetti Computing. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [magicl (⭐219)](https://github.com/quil-lang/magicl) - Matrix Algebra proGrams In Common Lisp based on BLAS/LAPACK and Expokit, by Rigetti Computing. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ## [5. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
 ### Projects
 
-*   [OpenMV (⭐2k)](https://github.com/openmv/openmv) - Open-source, low-cost machine vision platform.
+*   [OpenMV (⭐2.2k)](https://github.com/openmv/openmv) - Open-source, low-cost machine vision platform.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -52,21 +52,21 @@
 
 ### Crates / Components
 
-*   [yew-oauth2 (⭐24)](https://github.com/ctron/yew-oauth2/) - A plain Yew OAuth2/OpenIDConnect component, not tied to any CSS framework.
+*   [yew-oauth2 (⭐29)](https://github.com/ctron/yew-oauth2/) - A plain Yew OAuth2/OpenIDConnect component, not tied to any CSS framework.
 
 ## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Standard CLI
 
-*   [carapace-spec (⭐6)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
+*   [carapace-spec (⭐8)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
 
 ### Functional
 
-*   [valor (⭐12)](https://github.com/phelmkamp/valor) - Generic option and result types that optionally contain a value.
+*   [valor (⭐14)](https://github.com/phelmkamp/valor) - Generic option and result types that optionally contain a value.
 
 ### Goroutines
 
-*   [async-job (⭐6)](https://github.com/lab210-dev/async-job) - AsyncJob is an asynchronous queue job manager with light code, clear and speed.
+*   [async-job (⭐7)](https://github.com/lab210-dev/async-job) - AsyncJob is an asynchronous queue job manager with light code, clear and speed.
 
 ## [9. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/README.md)
 
@@ -213,10 +213,6 @@
 ### Pastebins
 
 *   [GitHub gist](https://gist.github.com)
-
-### Wikis / Telegram
-
-*   [Torchpad](http://torchpad.com/)
 
 ---
 

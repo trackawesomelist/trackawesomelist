@@ -16,7 +16,7 @@
 
 ### Talks
 
-*   [Phosphorum (⭐360)](https://github.com/phalcon/forum) - The source for official Phalcon Forum
+*   [Phosphorum (⭐366)](https://github.com/phalcon/forum) - The source for official Phalcon Forum
 
 ## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Shell Package Management / Directory Navigation
 
-*   [dotfiler (⭐233)](https://github.com/svetlyak40wt/dotfiler) – Shell agnostic git based dotfiles package manager, written in Python.
+*   [dotfiler (⭐232)](https://github.com/svetlyak40wt/dotfiler) – Shell agnostic git based dotfiles package manager, written in Python.
 
 ## [10. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
@@ -107,11 +107,11 @@
 
 ### Math
 
-*   [MIRACL (⭐559)](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. \[AGPL]
+*   [MIRACL (⭐583)](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. \[AGPL]
 
 ### Miscellaneous
 
-*   [access\_profiler (⭐68)](https://github.com/arvidn/access_profiler) - A tool to count accesses to member variables in c++ programs. \[GPL3]
+*   [access\_profiler (⭐69)](https://github.com/arvidn/access_profiler) - A tool to count accesses to member variables in c++ programs. \[GPL3]
 
 ## [14. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -177,7 +177,7 @@
 
 ### Testing
 
-*   [hypermock (⭐23)](https://github.com/stevegraham/hypermock) - HTTP request stubbing and expectation Elixir library.
+*   [hypermock (⭐24)](https://github.com/stevegraham/hypermock) - HTTP request stubbing and expectation Elixir library.
 
 ### Text and Numbers
 
@@ -189,15 +189,15 @@
 
 ### YAML
 
-*   [yaml\_elixir (⭐154)](https://github.com/KamilLelonek/yaml-elixir) - Yaml parser for Elixir based on native Erlang implementation.
+*   [yaml\_elixir (⭐160)](https://github.com/KamilLelonek/yaml-elixir) - Yaml parser for Elixir based on native Erlang implementation.
 
 ## [20. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Awesome TypeScript Essential Resources
 
 *   :books: [Handbook - Welcome to TypeScript](http://www.typescriptlang.org/Handbook) the official resource for learning TypeScript
-*   :octocat: [Microsoft/TypeScript on Github (⭐91k)](https://github.com/Microsoft/TypeScript) fork TypeScript on Github! Or... just read the code
-*   :octocat:[The official TypeScript Roadmap (⭐91k)](https://github.com/Microsoft/TypeScript/wiki/Roadmap)
+*   :octocat: [Microsoft/TypeScript on Github (⭐95k)](https://github.com/Microsoft/TypeScript) fork TypeScript on Github! Or... just read the code
+*   :octocat:[The official TypeScript Roadmap (⭐95k)](https://github.com/Microsoft/TypeScript/wiki/Roadmap)
 *   :books: [TypeScript Team Blog](http://blogs.msdn.com/b/typescript/) with announcements and recent updates
 
 ### Build Systems / Playground
@@ -394,11 +394,11 @@ git worktree add --detach <path> HEAD
 
 ### Java / General-Purpose Machine Learning
 
-*   [H2O (⭐6.3k)](https://github.com/h2oai/h2o-3) - ML engine that supports distributed learning on Hadoop, Spark or your laptop via APIs in R, Python, Scala, REST/JSON.
+*   [H2O (⭐6.5k)](https://github.com/h2oai/h2o-3) - ML engine that supports distributed learning on Hadoop, Spark or your laptop via APIs in R, Python, Scala, REST/JSON.
 
 ### Scala / General-Purpose Machine Learning
 
-*   [H2O Sparkling Water (⭐943)](https://github.com/h2oai/sparkling-water) - H2O and Spark interoperability.
+*   [H2O Sparkling Water (⭐954)](https://github.com/h2oai/sparkling-water) - H2O and Spark interoperability.
 
 ---
 

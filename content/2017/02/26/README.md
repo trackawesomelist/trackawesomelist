@@ -27,13 +27,13 @@
 
 ### State Machines
 
-*   [state\_machines (⭐694)](https://github.com/state-machines/state_machines) - Adds support for creating state machines for attributes on any Ruby class.
+*   [state\_machines (⭐727)](https://github.com/state-machines/state_machines) - Adds support for creating state machines for attributes on any Ruby class.
 
 ## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Industrial Control System Security (⭐25)](https://github.com/mpesen/awesome-industrial-control-system-security) - A curated list of resources related to Industrial Control System (ICS) security.
+*   [Awesome Industrial Control System Security (⭐27)](https://github.com/mpesen/awesome-industrial-control-system-security) - A curated list of resources related to Industrial Control System (ICS) security.
 
 ## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Related projects / Syntax highlighting packages
 
-*   [ArduinoGameBoy (⭐127)](https://github.com/drhelius/arduinogameboy) - Arduino based Game Boy cartridge reader and writer.
+*   [ArduinoGameBoy (⭐133)](https://github.com/drhelius/arduinogameboy) - Arduino based Game Boy cartridge reader and writer.
 
 ## [11. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Tools/Debugging / Chrome Specific Tools/Debugger
 
-*   [GLSL Shader Editor Extension (⭐592)](https://github.com/spite/ShaderEditorExtension) - Chrome DevTools extension to help you edit shaders live in the browser.
+*   [GLSL Shader Editor Extension (⭐604)](https://github.com/spite/ShaderEditorExtension) - Chrome DevTools extension to help you edit shaders live in the browser.
 
 ### Tools/Debugging / Firefox Specific Tools/Debugger
 
@@ -139,17 +139,17 @@
 
 ### Related lists / Particles
 
-*   [awesome (⭐223k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
-*   [awesome-opengl (⭐1.7k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
-*   [awesome-vulkan (⭐2.6k)](https://github.com/vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem.
-*   [gamedev (⭐10k)](https://github.com/ellisonleao/magictools) - Awesome list about game development.
+*   [awesome (⭐264k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
+*   [awesome-opengl (⭐1.9k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
+*   [awesome-vulkan (⭐2.9k)](https://github.com/vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem.
+*   [gamedev (⭐12k)](https://github.com/ellisonleao/magictools) - Awesome list about game development.
 *   [graphics-resources (⭐1.7k)](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
 
 ## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [netmq (⭐2.6k)](https://github.com/zeromq/netmq) - 100% native C# implementation of ZeroMQ for .NET.
+*   [netmq (⭐2.8k)](https://github.com/zeromq/netmq) - 100% native C# implementation of ZeroMQ for .NET.
 
 ## [13. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 

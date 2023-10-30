@@ -22,7 +22,7 @@
 
 ### Runtimes/Frontends
 
-*   [JupyterLab Desktop (⭐2.7k)](https://github.com/jupyterlab/jupyterlab-desktop) - A desktop application for JupyterLab, based on Electron.
+*   [JupyterLab Desktop (⭐3k)](https://github.com/jupyterlab/jupyterlab-desktop) - A desktop application for JupyterLab, based on Electron.
 
 ## [4. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
@@ -75,42 +75,42 @@
 
 ### Templates
 
-*   [Creating a NetBSD VM (⭐227)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md) - Creating a NetBSD VM.
-*   [Customizing Fedora minimal templates (⭐227)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/fedora-minimal-template-customization.md) - FEDORA Packages Recommendations.
-*   [Customizing Windows 7 templates (⭐227)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-template-customization.md) - Disable/Uninstall unnecessary features/services.
+*   [Creating a NetBSD VM (⭐249)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md) - Creating a NetBSD VM.
+*   [Customizing Fedora minimal templates (⭐249)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/fedora-minimal-template-customization.md) - FEDORA Packages Recommendations.
+*   [Customizing Windows 7 templates (⭐249)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-template-customization.md) - Disable/Uninstall unnecessary features/services.
 *   [Debian templates](https://www.qubes-os.org/doc/templates/debian/) - The Debian template is an officially supported template in Qubes OS.
 *   [Fedora templates](https://www.qubes-os.org/doc/templates/fedora/) - The Fedora template is the default template in Qubes OS.
 *   [Minimal templates](https://www.qubes-os.org/doc/templates/minimal/) - The minimal templates are lightweight versions of their standard template counterparts.
-*   [Pentesting: BlackArch (⭐227)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/blackarch.md) - BlackArch Linux is an Arch Linux-based distribution for penetration testers and security researchers.
-*   [Pentesting: Kali (⭐227)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/kali.md) - How to create a Kali Linux VM.
-*   [Pentesting: PTF (⭐227)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/ptf.md) - "The PenTesters Framework (PTF) is a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing.
-*   [Template: CentOS (⭐227)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/centos.md) - You can install the CentOS template, provided by Qubes in ready to use binary package.
-*   [Template: Gentoo (⭐227)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/gentoo.md) -  You can install the Gentoo template, provided by Qubes in ready to use binary package.
-*   [Template: Ubuntu (⭐227)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md) - If you would like to use Ubuntu Linux distribution in your AppVMs, you can build and install one of the available Ubuntu templates.
-*   [Template: Whonix (⭐227)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md) -Whonix in Qubes replaces the deprecated TorVM service used in earlier versions of Qubes.
-*   [Template: Windows (⭐227)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md) - Simple Windows install
+*   [Pentesting: BlackArch (⭐249)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/blackarch.md) - BlackArch Linux is an Arch Linux-based distribution for penetration testers and security researchers.
+*   [Pentesting: Kali (⭐249)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/kali.md) - How to create a Kali Linux VM.
+*   [Pentesting: PTF (⭐249)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/ptf.md) - "The PenTesters Framework (PTF) is a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing.
+*   [Template: CentOS (⭐249)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/centos.md) - You can install the CentOS template, provided by Qubes in ready to use binary package.
+*   [Template: Gentoo (⭐249)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/gentoo.md) -  You can install the Gentoo template, provided by Qubes in ready to use binary package.
+*   [Template: Ubuntu (⭐249)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md) - If you would like to use Ubuntu Linux distribution in your AppVMs, you can build and install one of the available Ubuntu templates.
+*   [Template: Whonix (⭐249)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md) -Whonix in Qubes replaces the deprecated TorVM service used in earlier versions of Qubes.
+*   [Template: Windows (⭐249)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md) - Simple Windows install
     *   [Windows Qubes](https://www.qubes-os.org/doc/windows/)
 *   [Templates](https://www.qubes-os.org/doc/templates/) - In Getting Started, we covered the distinction in Qubes OS between where you install your software and where you run your software.
 *   [Template implementation](https://www.qubes-os.org/doc/template-implementation/) - Describes template implementation.
 *   [Template manager](https://www.qubes-os.org/doc/template-manager/) -  A template manager application.
-*   [Tips for Using Linux in an HVM (⭐227)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/linux-hvm-tips.md) - Tips for Linux in HVM domain.
+*   [Tips for Using Linux in an HVM (⭐249)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/linux-hvm-tips.md) - Tips for Linux in HVM domain.
 *   [Xfce templates](https://www.qubes-os.org/doc/templates/xfce/) - If you would like to use Xfce (more lightweight compared to GNOME desktop environment) Linux distribution in your Qubes, you can install one of the available Xfce templates for Fedora, CentOS or Gentoo.
 
 ### VM-Hardening
 
-*   [Anonymizing your MAC Address (⭐227)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md) - Although the MAC address is not the only metadata broadcast by network hardware, changing your hardware's default MAC Address could be an important step in protecting privacy.
+*   [Anonymizing your MAC Address (⭐249)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md) - Although the MAC address is not the only metadata broadcast by network hardware, changing your hardware's default MAC Address could be an important step in protecting privacy.
 *   [Data leaks](https://www.qubes-os.org/doc/data-leaks/) - Firewalling in Qubes is not intended to be a leak-prevention mechanism.
 *   [Device handling security](https://www.qubes-os.org/doc/device-handling-security/) - Any additional ability a VM gains is additional attack surface.
     *   [Dom0 secure updates](https://www.qubes-os.org/doc/dom0-secure-updates/)
 *   [Firewall](https://www.qubes-os.org/doc/firewall/) - Every Qube in Qubes is connected to the network via a FirewallVM, which is used to enforce network-level policies.
-*   [Reducing the fingerprint of the text-based web browser w3m (⭐227)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/w3m.md) - You can reduce the amount of information w3m gives about itself and the environment it is running in (and, by extension, you).
-*   [Running Tails in Qubes (⭐227)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/tails.md) - Tails stands for The Amnesic Incognito Live System.
-*   [Signal (⭐227)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/signal.md) - It uses end-to-end encryption to secure all communications.
+*   [Reducing the fingerprint of the text-based web browser w3m (⭐249)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/w3m.md) - You can reduce the amount of information w3m gives about itself and the environment it is running in (and, by extension, you).
+*   [Running Tails in Qubes (⭐249)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/tails.md) - Tails stands for The Amnesic Incognito Live System.
+*   [Signal (⭐249)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/signal.md) - It uses end-to-end encryption to secure all communications.
 *   [Split GPG](https://www.qubes-os.org/doc/split-gpg/) - Split GPG implements a concept similar to having a smart card with your private GPG keys, except that the role of the “smart card” is played by another Qubes app Qube.
-*   [Split SSH (⭐227)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/split-ssh.md) - Split SSH implements a concept similar to having a smart card with your private SSH keys, except that the role of the “smart card” is played by another Qubes AppVM.
-*   [Split dm-crypt (⭐24)](https://github.com/rustybird/qubes-split-dm-crypt) - Instead of directly attaching an encrypted LUKS1 partition from a source VM such as sys-usb to a destination VM and decrypting it there.
+*   [Split SSH (⭐249)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/split-ssh.md) - Split SSH implements a concept similar to having a smart card with your private SSH keys, except that the role of the “smart card” is played by another Qubes AppVM.
+*   [Split dm-crypt (⭐23)](https://github.com/rustybird/qubes-split-dm-crypt) - Instead of directly attaching an encrypted LUKS1 partition from a source VM such as sys-usb to a destination VM and decrypting it there.
 *   [U2F proxy](https://www.qubes-os.org/doc/u2f-proxy/) - The Qubes U2F Proxy is a secure proxy intended to make use of U2F two-factor authentication devices with web browsers without exposing the browser to the full USB stack, not unlike the USB keyboard and mouse proxies implemented in Qubes.
-*   [Using Multi-Factor Authentication with Qubes (⭐227)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/multifactor-authentication.md) - This page concerns multi-factor authentication for logging into external services, not for logging into Qubes itself.
+*   [Using Multi-Factor Authentication with Qubes (⭐249)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/multifactor-authentication.md) - This page concerns multi-factor authentication for logging into external services, not for logging into Qubes itself.
 *   [Using OnlyKey with Qubes OS](https://docs.crp.to/qubes.html) - The following setup instructions walk through the process of configuring dom0 and a USB qube so that OnlyKey will function as a keyboard and be able to communicate with the OnlyKey app (required for TOTP).
 *   [Qrexec: secure communication across domains](https://www.qubes-os.org/doc/qrexec/) - The qrexec framework is used by core Qubes components to implement communication between domains.
 *   [Qrexec: socket-based services](https://www.qubes-os.org/doc/qrexec-socket-services/) - The qrexec allows implementing services not only as executable files, but also as Unix sockets.
@@ -157,19 +157,19 @@
 
 ### Templates / TikZ
 
-*   [LaTeX Beamer Theme Overview (⭐14)](https://github.com/UweZiegenhagen/LaTeX-Beamer-Theme-Overview/blob/main/OVERVIEW.md) - Visual overview of beamer themes included in TeXLive
+*   [LaTeX Beamer Theme Overview (⭐19)](https://github.com/UweZiegenhagen/LaTeX-Beamer-Theme-Overview/blob/main/OVERVIEW.md) - Visual overview of beamer themes included in TeXLive
 
 ## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Miscellaneous
 
-*   [F-Droid](https://f-droid.org) - Server tools for maintaining an F-Droid repository system. ([Source Code](https://gitlab.com/fdroid/fdroidserver)) `AGPL-3.0` `Python/Docker`
+*   [F-Droid](https://f-droid.org) - Server tools for maintaining an F-Droid repository system. ([Source Code](https://gitlab.com/fdroid/fdroidserver)) `AGPL-3.0` `Python/Docker/deb`
 
 ## [7. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Querying / Symfony2
 
-*   [RestQA (⭐59)](https://github.com/restqa/restqa) - A REST API testing Framework based on BDD / Gherkin to manage microservice local testing.
+*   [RestQA (⭐72)](https://github.com/restqa/restqa) - A REST API testing Framework based on BDD / Gherkin to manage microservice local testing.
 
 ## [8. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -182,13 +182,13 @@
 
 ### 3D / Godot 3.2+
 
-*   [Boom (⭐20)](https://github.com/FelicePollano/Boom) - A very simple, old fashion FPS, work-in-progress but playable.
+*   [Boom (⭐25)](https://github.com/FelicePollano/Boom) - A very simple, old fashion FPS, work-in-progress but playable.
 
 ## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### ToDos
 
-*   [ididit! (⭐134)](https://github.com/Jinjinov/Ididit) - ![stars](https://img.shields.io/github/stars/Jinjinov/Ididit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Jinjinov/Ididit?style=flat-square\&cacheSeconds=86400) The procrastination friendly habit tracker. ake notes, manage tasks, track habits. [Demo](https://app.ididit.today/).
+*   [ididit! (⭐173)](https://github.com/Jinjinov/Ididit) - ![stars](https://img.shields.io/github/stars/Jinjinov/Ididit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Jinjinov/Ididit?style=flat-square\&cacheSeconds=86400) The procrastination friendly habit tracker. ake notes, manage tasks, track habits. [Demo](https://app.ididit.today/).
 
 ### Articles / Others
 
@@ -205,7 +205,7 @@
 
 ### File Explorer / Diagnostics
 
-*   [stevearc/oil.nvim (⭐650)](https://github.com/stevearc/oil.nvim) - Edit your filesystem like a buffer.
+*   [stevearc/oil.nvim (⭐1.3k)](https://github.com/stevearc/oil.nvim) - Edit your filesystem like a buffer.
 
 ## [13. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
@@ -213,18 +213,18 @@
 
 *   Code::Stats (<https://codestats.net/>)
     *   [codestats-box (⭐5)](https://github.com/Ancientwood/codestats-box) - Update a pinned gist to contain your daily Code::Stats.
-    *   [codestats-box-python (⭐7)](https://github.com/aksh1618/codestats-box-python) - A Python implementation of codestats-box. Update a pinned gist to contain your Code::Stats stats.
+    *   [codestats-box-python (⭐8)](https://github.com/aksh1618/codestats-box-python) - A Python implementation of codestats-box. Update a pinned gist to contain your Code::Stats stats.
 *   LeetCode (<https://leetcode.com/>)
-    *   [leetcode-box (⭐9)](https://github.com/puiiyuen/leetcode-box) - Update a pinned gist to show your LeetCode stats.
+    *   [leetcode-box (⭐10)](https://github.com/puiiyuen/leetcode-box) - Update a pinned gist to show your LeetCode stats.
     *   [leetcode-solved-box (⭐0)](https://github.com/Pudding124/leetcode-solved-box) - Update a pinned gist to show leetcode solved problem.
     *   [leetcode-skills-box (⭐0)](https://github.com/tbeachill/leetcode-skills-box) - Update a pinned gist to show your top leetcode skills.
 *   Spotify (<https://spotify.com/>)
-    *   [spotify-box (⭐110)](https://github.com/izayl/spotify-box) - Update a pinned gist to contain your weekly top tracks on Spotify.
-    *   [spotify-box (⭐8)](https://github.com/Aveek-Saha/spotify-box) - Update a pinned gist to show your weekly/monthly/all-time top Spotify tracks/artists.
+    *   [spotify-box (⭐113)](https://github.com/izayl/spotify-box) - Update a pinned gist to contain your weekly top tracks on Spotify.
+    *   [spotify-box (⭐9)](https://github.com/Aveek-Saha/spotify-box) - Update a pinned gist to show your weekly/monthly/all-time top Spotify tracks/artists.
     *   [spotify-gist (⭐4)](https://github.com/mporracindie/spotify-gist) - Update a pinned gist to contain your monthly top artist on Spotify.
 *   WakaTime (<https://wakatime.com/>)
-    *   [waka-box (⭐1.2k)](https://github.com/matchai/waka-box) - Update a pinned gist to contain your weekly WakaTime stats.
-    *   [waka-box-go (⭐155)](https://github.com/YouEclipse/waka-box-go) - A Golang implementation of waka-box. Update a pinned gist to contain your weekly WakaTime stats.
+    *   [waka-box (⭐1.3k)](https://github.com/matchai/waka-box) - Update a pinned gist to contain your weekly WakaTime stats.
+    *   [waka-box-go (⭐158)](https://github.com/YouEclipse/waka-box-go) - A Golang implementation of waka-box. Update a pinned gist to contain your weekly WakaTime stats.
 
 ---
 

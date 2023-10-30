@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 05 - Dec 11, 2016
 
-45 awesome lists updated this week.
+44 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,11 +22,11 @@
 
 ### Source Code Repos
 
-*   [codebasehq.com](https://www.codebasehq.com/) — One free project with 100 MB space and 2 users
+*   [codebasehq.com](https://www.codebasehq.com/) — One free project with 100 MB space and two users
 
 ### Tools for Teams and Collaboration
 
-*   [gitter.im](https://gitter.im/) — Chat, for GitHub. Unlimited public and private rooms, free for teams up to 25
+*   [gitter.im](https://gitter.im/) — Chat, for GitHub. Unlimited public and private rooms, free for teams of up to 25
 *   [hangouts.google.com](https://hangouts.google.com/) — One place for all your conversations, for free, need a Google account
 
 ### Code Search and Browsing
@@ -35,7 +35,7 @@
 
 ### CI and CD
 
-*   [codefresh.io](https://codefresh.io) — Free-for-Life plan: 1 build, 1 environment, shared servers, unlimited public repos
+*   [codefresh.io](https://codefresh.io) — Free-for-Life plan: 1 build, one environment, shared servers, unlimited public repos
 
 ### Monitoring
 
@@ -55,7 +55,7 @@
 
 ### Programming Tools / Lenses
 
-*   [eslint-plugin-fp (⭐947)](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming
+*   [eslint-plugin-fp (⭐966)](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming
 
 ## [6. Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/week/README.md)
 
@@ -82,28 +82,19 @@
 
 *   [NeuPy - Theano based Python library for ANN and Deep Learning](http://neupy.com)
 
-## [9. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
-
-### Beginner
-
-#### [GitHub Learning Lab](https://lab.github.com/)
-
-**Free** Self paced, interactive projects to learn Git and GitHub. Created and maintained by GitHub's training team.\
-*(Git, GitHub)*
-
-## [10. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
+## [9. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
 ### Infomation for people who are new to GitHub
 
 *   [On-Demand GitHub Training](https://services.github.com/on-demand/) - Self-paced, interactive projects created and maintained by GitHub's own Training team.
 
-## [11. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [10. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line apps
 
-*   [wifi-password (⭐281)](https://github.com/kevva/wifi-password-cli) - Get the current wifi password.
+*   [wifi-password (⭐285)](https://github.com/kevva/wifi-password-cli) - Get the current wifi password.
 
-## [12. Awesome Frege](/content/sfischer13/awesome-frege/week/README.md)
+## [11. Awesome Frege](/content/sfischer13/awesome-frege/week/README.md)
 
 ### Libraries / Android
 
@@ -114,25 +105,25 @@
 
 *   [Fervor (⭐0)](https://github.com/mchav/fervor) - Server for local directories.
 
-## [13. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [12. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Miscellaneous / Symfony2
 
 *   [Lumber (⭐2.1k)](https://github.com/ForestAdmin/lumber) - Generate the admin interface of your application.
 
-## [14. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [13. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [Pi4j Project](http://pi4j.com) - Java I/O library the Raspberry Pi.
 
-## [15. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [14. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Utility / Collection View Layout
 
 *   [ContactsWrapper (⭐22)](https://github.com/abdullahselek/ContactsWrapper) - Easy to use wrapper for both contacts and contacts group with Objective-C.
 
-## [16. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
+## [15. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
 ### Automation
 
@@ -146,7 +137,7 @@
 
 *   [Spanish Forum](http://www.emesn.com/autoitforum/)
 
-## [17. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [16. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / S companies
 
@@ -164,18 +155,18 @@
 
 *   Nick Craver <https://nickcraver.com/blog/>
 
-## [18. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [17. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Training Courses
 
-*   [Mixter (⭐282)](https://github.com/DevLyon/mixter) - CQRS and Event Sourcing Koans.
+*   [Mixter (⭐286)](https://github.com/DevLyon/mixter) - CQRS and Event Sourcing Koans.
 
 ### Community Resources
 
 *   [Software Engineering Stack Exchange](http://softwareengineering.stackexchange.com/questions/tagged/domain-driven-design) - Software Engineering Stack Exchange questions tagged *domain-driven-design*.
 *   [Code Review Stack Exchange](http://codereview.stackexchange.com/questions/tagged/ddd) - Code Review Stack Exchange questions tagged *domain-driven-design*.
 
-## [19. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [18. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Libraries
 
@@ -189,13 +180,13 @@
 
 *   [js-schema (⭐392)](https://github.com/molnarg/js-schema) - A new way of describing object schemas in JavaScript. It has a clean and simple syntax, and it is capable of serializing to/from the popular JSON Schema format.
 
-## [20. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [19. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Companies
 
 *   [PAL Robotics](http://pal-robotics.com)
 
-## [21. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [20. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
@@ -207,25 +198,25 @@
 
 
 
-## [22. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [21. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Other / Other Resources
 
 *   [Forensics (⭐2.2k)](https://github.com/Cugu/awesome-forensics)
 
-## [23. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [22. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Professional Groups / Research Groups (Other)
 
 *   [Digital Humanities](http://cmb.huma-num.fr/) - Interdisciplinary group of researchers at the Marc Bloch Centre in Berlin, with many network science projects.
 
-## [24. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [23. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Build Systems
 
 *   [Conan](https://conan.io/) - C/C++ Package Manager, open sourced. \[MIT]
 
-## [25. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [24. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Programming Languages / Compilers
 
@@ -240,25 +231,25 @@
     *   This course introduces fundamental principles and techniques of software development. Students learn how to write software that is safe from bugs, easy to understand, and ready for change. Topics include specifications and invariants; testing, test-case generation, and coverage; state machines; abstract data types and representation independence; design patterns for object-oriented programming; concurrent programming, including message passing and shared concurrency, and defending against races and deadlock; and functional programming with immutable data and higher-order functions.
     *   [Lectures Notes/Assignments](http://web.mit.edu/6.005/www/fa16/)
 
-## [26. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [25. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Articles
 
 *   ["Top ten reasons why I won’t use your open source project"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) - *Adam Stacoviak*
 
-## [27. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [26. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Vuex For The Clueless — The Missing Primer On Vue’s Application Data Store](https://medium.com/js-dojo/vuex-for-the-clueless-the-missing-primer-on-vues-application-data-store-33fa51ffc3af#.2j25xpfui)
 
-## [28. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [27. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### Testing
 
 *   [phalcon-docker-nginx (⭐25)](https://github.com/viebig/phalcon-docker-nginx) - Phalcon 3, PHP7, Docker sample starter application
 
-## [29. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [28. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -270,14 +261,14 @@
 
 ### ORM and Datamapping
 
-*   [ecto\_mnesia (⭐239)](https://github.com/Nebo15/ecto_mnesia) - Ecto adapter for Mnesia Erlang term database.
-*   [ecto\_paging (⭐13)](https://github.com/Nebo15/ecto_paging) - Cursor-based pagination for Ecto.
+*   [ecto\_mnesia (⭐240)](https://github.com/Nebo15/ecto_mnesia) - Ecto adapter for Mnesia Erlang term database.
+*   [ecto\_paging (⭐14)](https://github.com/Nebo15/ecto_paging) - Cursor-based pagination for Ecto.
 
 ### Utilities
 
-*   [dress (⭐62)](https://github.com/veelenga/dress) - Cli app that makes your stdout fancy.
+*   [dress (⭐61)](https://github.com/veelenga/dress) - Cli app that makes your stdout fancy.
 
-## [30. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [29. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Literature / Citizen Science Theory
 
@@ -290,7 +281,7 @@
 *   [Coalesce: Center for Biological Arts](https://www.buffalo.edu/genomeenvironmentmicrobiome/coalesce.html) - A bioart studio-lab at SUNY Buffalo.
 *   [MIT Media Lab](http://www.media.mit.edu/) - An interdisciplinary art, science and technology research center that is part of the Massachusetts Institute of Technology.
 
-## [31. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [30. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Go / Erlang
 
@@ -330,13 +321,13 @@
 *   [SECO](http://ceur-ws.org/Vol-746/IWSECO2011-6-DengYu.pdf) :small\_orange\_diamond:<sup>PDF</sup> - Understanding software ecosystems: a strategic modeling approach.
 *   [Your Server as a Function](http://monkey.org/~marius/funsrv.pdf) :small\_orange\_diamond:<sup>PDF</sup> - Describes three abstractions which combine to present a powerful programming model for building safe, modular, and efficient server software: Composable futures, services and filters.
 
-## [32. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [31. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Community
 
 *   [Telegram](https://telegram.me/symfony_php) - Symfony group on Telegram.
 
-## [33. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [32. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Articles, Posts, Talks, and Presentations / Constituency Parsing
 
@@ -363,32 +354,32 @@
     Linear Algebra, Visualization and Scientific Computing for Ruby.
 *   [iRuby (⭐728)](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formelly IPython).
 
-## [34. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
+## [33. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
 
 ### Examples
 
 *   [OKR Goals Examples](https://www.atiim.com/okr-goals-examples/): A comprehensive list of OKR goal examples for all kind of teams and levels.
 
-## [35. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [34. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Documentation
 
 *   [An introduction to distributed systems (⭐8.2k)](https://github.com/aphyr/distsys-class) - Kyle Kingsbury (author of Jepsen).
 
-## [36. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [35. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
-*   [WebGL Lessons — ThreeJS Shaders (⭐357)](https://github.com/Jam3/jam3-lesson-webgl-shader-threejs) - Using custom vertex and fragment shaders in ThreeJS.
+*   [WebGL Lessons — ThreeJS Shaders (⭐360)](https://github.com/Jam3/jam3-lesson-webgl-shader-threejs) - Using custom vertex and fragment shaders in ThreeJS.
 *   [ThreeJS post-proces example (⭐24)](https://github.com/Jam3/threejs-post-process-example) - example of post-processing effects in ThreeJS.
 
-## [37. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [36. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Science and Data analysis
 
 *   [predict.cr (⭐17)](https://github.com/RX14/predict.cr) - Satellite prediction library using the sgp4 model
 
-## [38. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [37. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### R / Numerical Libraries & Data Structures
 
@@ -403,13 +394,13 @@
 *   [IBrokers](https://cran.r-project.org/web/packages/IBrokers/index.html) - Provides native R access to Interactive Brokers Trader Workstation API.
 *   [Quandl](https://www.quandl.com/tools/r) - Get Financial Data Directly Into R.
 
-## [39. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [38. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Web-tools / Git
 
 *   [CyberChef](https://gchq.github.io/CyberChef/) - a web app for encryption, encoding, compression, and data analysis.
 
-## [40. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [39. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### operations
 
@@ -422,18 +413,18 @@
 
 ### conversion
 
-*   [topojson (⭐4.4k)](https://github.com/topojson/topojson): convert GeoJSON to & from TopoJSON, join data from CSV
+*   [topojson (⭐4.5k)](https://github.com/topojson/topojson): convert GeoJSON to & from TopoJSON, join data from CSV
 
 ### data
 
-*   [world-atlas (⭐965)](https://github.com/topojson/world-atlas): customizable simplified versions of natural earth data
-*   [us-atlas (⭐811)](https://github.com/topojson/us-atlas): geojson & topojson for United States features
+*   [world-atlas (⭐975)](https://github.com/topojson/world-atlas): customizable simplified versions of natural earth data
+*   [us-atlas (⭐825)](https://github.com/topojson/us-atlas): geojson & topojson for United States features
 
-## [41. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [40. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [SmartFormat.NET (⭐871)](https://github.com/scottrippey/SmartFormat.NET) - An extensible replacement for string.Format.
+*   [SmartFormat.NET (⭐985)](https://github.com/scottrippey/SmartFormat.NET) - An extensible replacement for string.Format.
 
 ### Articles / Workflow
 
@@ -442,19 +433,19 @@
     *   [How to export HTML to PDF in ASP.NET Core](https://code.msdn.microsoft.com/How-to-export-HTML-to-PDF-c5afd0ce)
     *   [Vue.js server side rendering with ASP.NET Core](http://mgyongyosi.com/2016/Vuejs-server-side-rendering-with-aspnet-core/)
 
-## [42. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [41. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### JavaScript tools / Maps
 
 *   [CARTO (⭐2.6k)](https://github.com/CartoDB/cartodb) - CARTO is an open source tool that allows for the storage and visualization of geospatial data on the web.
 
-## [43. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [42. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Programming / JavaScript
 
 *   [Vue.js Jobs](https://vuejobs.com/)
 
-## [44. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [43. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / CloudFormation
 
@@ -496,7 +487,7 @@
 
 *   [CodeBuild](https://aws.amazon.com/codebuild/) - Build and test code.
 
-## [45. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+## [44. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Other useful repositories
 

@@ -10,15 +10,15 @@
 
 ### Templates / Vue 3
 
-*   [antd-vue3-admin (⭐3)](https://github.com/Zuojiangtao/antd-vue3-admin) - A starter template based on Vue3, Vite4, TS5 and Ant-Design-Vue4.
+*   [antd-vue3-admin (⭐7)](https://github.com/Zuojiangtao/antd-vue3-admin) - A starter template based on Vue3, Vite4, TS5 and Ant-Design-Vue4.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-remix (⭐12)](https://github.com/yracnet/vite-plugin-remix) - Seamless integration of the Remix/Remixjs framework.
+*   [vite-plugin-remix (⭐14)](https://github.com/yracnet/vite-plugin-remix) - Seamless integration of the Remix/Remixjs framework.
 
 ### Frameworks / Community
 
-*   [vite-plugin-vercel (⭐52)](https://github.com/magne4000/vite-plugin-vercel) - Vercel adapter.
+*   [vite-plugin-vercel (⭐58)](https://github.com/magne4000/vite-plugin-vercel) - Vercel adapter.
 
 ## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -37,17 +37,17 @@
 
 ### React Component Libraries
 
-*   [shadcn-ui (⭐30k)](https://github.com/shadcn-ui/ui) - Beautifully designed components built using Radix UI and Tailwind CSS
+*   [shadcn-ui (⭐34k)](https://github.com/shadcn-ui/ui) - Beautifully designed components built using Radix UI and Tailwind CSS
 
 ### React Awesome Components
 
-*   [puck (⭐2.5k)](https://github.com/measuredco/puck) - The visual editor for React
+*   [puck (⭐3.4k)](https://github.com/measuredco/puck) - The visual editor for React
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Dependency Management / Diagnostics
 
-*   [piersolenski/telescope-import.nvim (⭐5)](https://github.com/piersolenski/telescope-import.nvim) - Import modules faster based on what you've already imported in your project.
+*   [piersolenski/telescope-import.nvim (⭐42)](https://github.com/piersolenski/telescope-import.nvim) - Import modules faster based on what you've already imported in your project.
 
 ## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -74,4 +74,5 @@
 
 ---
 
+- Prev: [Sep 09, 2023](/content/2023/09/09/README.md)
 - Next: [Sep 07, 2023](/content/2023/09/07/README.md)

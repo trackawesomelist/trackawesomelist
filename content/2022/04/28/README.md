@@ -8,14 +8,14 @@
 
 ## [1. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
-*   [terraform-docs (⭐3.5k)](https://github.com/terraform-docs/terraform-docs) - Quick utility to generate docs from terraform modules.
-*   [terrascan (⭐4k)](https://github.com/accurics/terrascan) - Collection of security and best practice test for static code analysis of terraform templates
-*   [tfaction (⭐177)](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow
-*   [tfsec (⭐5.9k)](https://github.com/aquasecurity/tfsec) - Terraform static analysis tool that supports terraform <0.12 & >=0.12 & directly integrates with HCL parser for better results.
-*   [tflint (⭐3.9k)](https://github.com/terraform-linters/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
-*   [validIaC (⭐198)](https://github.com/gofireflyio/validiac) - ValidIaC combines the best open-source tools to help ensure Terraform best practices, hygiene & security.
+*   [terraform-docs (⭐3.7k)](https://github.com/terraform-docs/terraform-docs) - Quick utility to generate docs from terraform modules.
+*   [terrascan (⭐4.2k)](https://github.com/accurics/terrascan) - Collection of security and best practice test for static code analysis of terraform templates
+*   [tfaction (⭐206)](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow
+*   [tflint (⭐4.2k)](https://github.com/terraform-linters/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
+*   [tfsec (⭐6.3k)](https://github.com/aquasecurity/tfsec) - Terraform static analysis tool that supports terraform <0.12 & >=0.12 & directly integrates with HCL parser for better results.
+*   [validIaC (⭐209)](https://github.com/gofireflyio/validiac) - ValidIaC combines the best open-source tools to help ensure Terraform best practices, hygiene & security.
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -65,26 +65,21 @@
 
 ## [6. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
-### Authentication / OAuth2 & OpenID
+### OAuth2 & OpenID / Macaroons
 
-*   [a12n-server (⭐383)](https://github.com/curveball/a12n-server) - A simple authentication system which only implements the relevant parts of the OAuth2 standards.
+*   [a12n-server (⭐402)](https://github.com/curveball/a12n-server) - A simple authentication system which only implements the relevant parts of the OAuth2 standards.
 
 ## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
-*   💼 [Grid Areas (⭐63)](https://github.com/SavvyWombat/tailwindcss-grid-areas) - Adds `grid-areas` and `grid-area` utilities.
+*   💼 [Grid Areas (⭐84)](https://github.com/SavvyWombat/tailwindcss-grid-areas) - Adds `grid-areas` and `grid-area` utilities.
 
 ### Tools
 
-*   💼🔧 [tailwindcss-webpack-plugin (⭐27)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Out-of-the-box Tailwind CSS, supports "Design in Devtools" mode and visualizes Tailwind CSS configuration.
+*   💼🔧 [tailwindcss-webpack-plugin (⭐31)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Out-of-the-box Tailwind CSS, supports "Design in Devtools" mode and visualizes Tailwind CSS configuration.
 
 ## [8. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
-
-### Engineering to Management Transition
-
-*   [On being an Engineering Manager](https://ruiper.es/f746f5b7fff042c0a2565b6e36d236a4) - Some of these points needs nuance, but others are a good taste of things to come for first-time managers.
-*   [The One Minute Manager Meets the Monkey](https://amzn.com/0688103804/?tag=kevideld-20) - The author use a parable in which problems are monkeys. Unexperienced managers let monkeys being transferred to them, accumulates on their back and compounds. From this, the book teach you how to change from taking on responsibilities to delegating them so you don't become a bottleneck.
 
 ### Onboarding / Negotiation
 
@@ -106,7 +101,7 @@
 
 ### Database Tools
 
-*   [dynago (⭐8)](https://github.com/twharmon/dynago) - Simplify working with AWS DynamoDB.
+*   [dynago (⭐10)](https://github.com/twharmon/dynago) - Simplify working with AWS DynamoDB.
 
 ---
 

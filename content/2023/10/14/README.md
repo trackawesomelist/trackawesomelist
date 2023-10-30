@@ -32,7 +32,7 @@
 
 
 
-### Meeting Summary
+### Meeting Assistant
 
 - Name: [Wudpecker](https://www.thataicollection.com/redirect/wudpecker?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 

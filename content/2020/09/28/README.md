@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 28, 2020
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Invoice / Electronic invoices
 
-*   [Factur-X (⭐100)](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
+*   [Factur-X (⭐116)](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
 
 ## [2. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Development tools / Services
 
-*   [deps.rs (⭐383)](https://github.com/deps-rs/deps.rs) — Detect outdated or insecure dependencies
+*   [deps.rs (⭐395)](https://github.com/deps-rs/deps.rs) — Detect outdated or insecure dependencies
 
 ## [4. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
@@ -108,35 +108,29 @@
 
 ## [8. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Build and Package / MIT
+### Build and Package / Apache License
 
 *   [ada4cmake (⭐4)](https://github.com/mosteo/ada4cmake) - CMake macros for simple gnat project inclusion.
 
-## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
-
-### Tools
-
-*   🌍 [tailzilla.app](https://tailzilla.app) - Online playground for Tailwind CSS.
-
-## [10. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
+## [9. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
 ### Tools / Plugins
 
-*   [gatling-sbt-plugin (⭐105)](https://github.com/gatling/gatling-sbt-plugin) - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
+*   [gatling-sbt-plugin (⭐106)](https://github.com/gatling/gatling-sbt-plugin) - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
 
-## [11. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [10. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Related awesomeness / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [ethical.net](https://ethical.net/resources/) - Ethical alternatives & resources.
 
-## [12. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+## [11. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Python / Financial Instruments and Pricing
 
-*   [FinancePy (⭐1.4k)](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
+*   [FinancePy (⭐1.7k)](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
 
-## [13. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/README.md)
+## [12. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/README.md)
 
 ### Documentation
 
@@ -146,7 +140,7 @@
 
 *   [Octo (⭐571)](http://github.com/johnearnest/Octo/) - A high-level assembler for CHIP-8, Super-CHIP and XO-CHIP, complete with an environment for testing programs, and tools for sharing your creations.
 
-## [14. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [13. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Video Tutorials / Components
 
@@ -162,21 +156,21 @@
 
 *   Dart
     *   Stagehand
-        *   [dart-lang/stagehand (⭐663)](https://github.com/dart-lang/stagehand)
+        *   [dart-lang/stagehand (⭐659)](https://github.com/dart-lang/stagehand)
 
-## [15. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [14. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Web
 
 *   🔧 [Remote Styles with Remote Config (⭐64)](https://github.com/firebaseextended/remote-styles/) - Dynamic/Conditional loading of CSS stored in Remote Config. ([Launch post](https://medium.com/firebase-developers/introducing-remote-styles-conditional-css-loading-made-easy-daddbbcce050)).
 
-## [16. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
+## [15. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
 
 ### Feature management
 
 *   [Unleash (⭐7.4k)](https://github.com/Unleash/unleash) - Free open-source feature flag & toggle service. SDKs for all major languages.
 
-## [17. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
+## [16. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
 
 ### Scripts / GitHub
 

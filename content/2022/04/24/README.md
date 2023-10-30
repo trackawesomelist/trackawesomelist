@@ -16,21 +16,21 @@
 
 ### Runtime / Playground
 
-*   [SunTori (⭐5)](https://github.com/LancerComet/SunTori) - A JSON de/serializer to ensure everything is safe at runtime.
+*   [SunTori (⭐6)](https://github.com/LancerComet/SunTori) - A JSON de/serializer to ensure everything is safe at runtime.
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [def (⭐9)](https://github.com/thevinter/def) - Allows you to specify and run a default command in any directory of your choice.
+*   [def (⭐10)](https://github.com/thevinter/def) - Allows you to specify and run a default command in any directory of your choice.
 *   [kubectl (⭐6)](https://github.com/mattbangert/kubectl-zsh-plugin) - ZSH plugin for managing `kubectl`.
 *   [skaffold (⭐1)](https://github.com/todie/skaffold.plugin.zsh) - ZSH integration and completions for [skaffold](https://skaffold.dev) local kubernetes development environment.
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bosh (thomasmitchell) (⭐8)](https://github.com/thomasmitchell/bosh-complete) - Tab completion for [BOSH (⭐2k)](https://github.com/cloudfoundry/bosh)].
+*   [bosh (thomasmitchell) (⭐9)](https://github.com/thomasmitchell/bosh-complete) - Tab completion for [BOSH (⭐2k)](https://github.com/cloudfoundry/bosh)].
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [skill (asafaeirad) (⭐10)](https://github.com/ASafaeirad/oh-my-zsh-skill-theme) - Includes decorations for working directory, `git` working branch, working directory status and tracking branch status.
 *   [skill (frontendmonster) (⭐10)](https://github.com/frontendmonster/oh-my-zsh-skill-theme) - Optimized for a dark terminal, displays `git` status decorations.
@@ -57,12 +57,12 @@
 
 ### WSL Tools / WSL Utilities
 
-*   [wslu (⭐2.8k)](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystem, such as enabling sound in WSL and creating your favorite linux GUI application shortcuts on Windows 10. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
-*   [wslpy (⭐62)](https://github.com/wslutilities/wslpy) - A Python3 library for WSL specific tasks. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [wslu (⭐2.9k)](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystem, such as enabling sound in WSL and creating your favorite linux GUI application shortcuts on Windows 10. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [wslpy (⭐67)](https://github.com/wslutilities/wslpy) - A Python3 library for WSL specific tasks. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ### WSL Tools / Miscellaneous Tools
 
-*   [setup-wsl (⭐84)](https://github.com/Vampire/setup-wsl) - A GitHub action to install and setup a Linux distribution for the Windows Subsystem for Linux (WSL). ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [setup-wsl (⭐89)](https://github.com/Vampire/setup-wsl) - A GitHub action to install and setup a Linux distribution for the Windows Subsystem for Linux (WSL). ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ### Intellectual Property Notices / Miscellaneous Tools
 
@@ -73,7 +73,7 @@
 
 ### Libraries
 
-*   [fp-multik (⭐5)](https://github.com/lulldev/fp-multik) - JS/TS lightweight value-multimethod util
+*   [fp-multik (⭐6)](https://github.com/lulldev/fp-multik) - JS/TS lightweight value-multimethod util
 
 ## [6. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
@@ -81,15 +81,15 @@
 
 *   Firebase
     *   [AppCheck (⭐6)](https://github.com/mattmilan-dev/capacitor-firebase-appcheck) - Allows usage of native AppCheck tokens.
-    *   [Dynamic Links (⭐19)](https://github.com/Pantrist-dev/capacitor-firebase-dynamic-links) - Firebase Dynamic Links.
+    *   [Dynamic Links (⭐22)](https://github.com/Pantrist-dev/capacitor-firebase-dynamic-links) - Firebase Dynamic Links.
     *   [Push (⭐27)](https://github.com/EinfachHans/capacitor-firebase-push) - This Plugin it used for Firebase Push Messages. It support Data.
 *   [Photo library (⭐1)](https://github.com/diiiary/capacitor-plugin-photo-library) - Get all the images from system album.
 
 ### Tools / Incompatible
 
-*   [Docgen (⭐10)](https://github.com/ionic-team/capacitor-docgen) - Docs Readme Markdown and JSON Generator for Capacitor Plugins.
-*   [Plugin generator (⭐54)](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin.
-*   [Assets (⭐397)](https://github.com/ionic-team/capacitor-assets) - Local Capacitor icon/splash screen resource generation tool.
+*   [Docgen (⭐11)](https://github.com/ionic-team/capacitor-docgen) - Docs Readme Markdown and JSON Generator for Capacitor Plugins.
+*   [Plugin generator (⭐57)](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin.
+*   [Assets (⭐432)](https://github.com/ionic-team/capacitor-assets) - Local Capacitor icon/splash screen resource generation tool.
 
 ### Learning / Offical guides
 
@@ -116,9 +116,9 @@
 
 ### Demo apps / Case study
 
-*   [capacitor-testapp (⭐25)](https://github.com/ionic-team/capacitor-testapp) - The Capacitor TestApp is used to develop new features and verify bug fixes in Capacitor and the official plugins.
-*   [capacitor-plugin-demo (⭐61)](https://github.com/robingenz/capacitor-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor plugins.
-*   [capacitor-firebase-plugin-demo (⭐10)](https://github.com/robingenz/capacitor-firebase-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor Firebase plugins.
+*   [capacitor-testapp (⭐30)](https://github.com/ionic-team/capacitor-testapp) - The Capacitor TestApp is used to develop new features and verify bug fixes in Capacitor and the official plugins.
+*   [capacitor-plugin-demo (⭐66)](https://github.com/robingenz/capacitor-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor plugins.
+*   [capacitor-firebase-plugin-demo (⭐11)](https://github.com/robingenz/capacitor-firebase-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor Firebase plugins.
 
 ## [7. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Type / React
 
-*   [pothos (⭐1.8k)](https://github.com/hayes/pothos) - Pothos is a plugin based GraphQL schema builder for typescript. It makes building graphql schemas in typescript easy, fast and enjoyable.
+*   [pothos (⭐2.1k)](https://github.com/hayes/pothos) - Pothos is a plugin based GraphQL schema builder for typescript. It makes building graphql schemas in typescript easy, fast and enjoyable.
 
 ## [9. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 

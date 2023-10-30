@@ -10,14 +10,14 @@
 
 ### Blur / Barcode
 
-*   [VisualEffectView (⭐968)](https://github.com/efremidze/VisualEffectView) - UIVisualEffectView subclass with tint color.
+*   [VisualEffectView (⭐1k)](https://github.com/efremidze/VisualEffectView) - UIVisualEffectView subclass with tint color.
 
 ## [2. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### For Electron / Other
 
-*   [fix-path (⭐261)](https://github.com/sindresorhus/fix-path) - Fix the $PATH on macOS when run from a GUI app. Useful when spawning a child process.
-*   [electron-osx-sign (⭐494)](https://github.com/electron-userland/electron-osx-sign) - Code-signing for macOS apps.
+*   [fix-path (⭐268)](https://github.com/sindresorhus/fix-path) - Fix the $PATH on macOS when run from a GUI app. Useful when spawning a child process.
+*   [electron-osx-sign (⭐518)](https://github.com/electron-userland/electron-osx-sign) - Code-signing for macOS apps.
 
 ### Components / Other
 
@@ -32,7 +32,7 @@
 
 ### Packages / Filesystem
 
-*   [chokidar (⭐9.9k)](https://github.com/paulmillr/chokidar) - Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on macOS.
+*   [chokidar (⭐10k)](https://github.com/paulmillr/chokidar) - Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on macOS.
 
 ## [4. Awesome Tap](/content/sindresorhus/awesome-tap/README.md)
 

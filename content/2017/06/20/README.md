@@ -10,7 +10,7 @@
 
 ### Software / Web Applications
 
-*   [Gogs](https://gogs.io/) - Lightweight, cross-platform, self-hosted Git service. ([MIT (⭐41k)](https://github.com/gogits/gogs/blob/master/LICENSE))
+*   [Gogs](https://gogs.io/) - Lightweight, cross-platform, self-hosted Git service. ([MIT (⭐43k)](https://github.com/gogits/gogs/blob/master/LICENSE))
 *   [MediaGoblin](http://mediagoblin.org/) - Publishing platform for all types of media. ([GNU AGPLv3](http://mediagoblin.org/))
 *   [MediaWiki](https://www.mediawiki.org) - Wiki software that can organize and serve large amounts of frequently accessed data. ([GNU GPLv2+](https://www.mediawiki.org/wiki/Copyright))
 

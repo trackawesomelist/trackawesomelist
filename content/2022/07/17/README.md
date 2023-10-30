@@ -10,7 +10,7 @@
 
 ### Device Farms / Desktop GUI Automation (non-browser-centric)
 
-*   [OpenSTF (⭐1.7k)](https://github.com/DeviceFarmer/stf) - A framework for running your own device farm, geared toward Android, but also iOS.
+*   [OpenSTF (⭐2.1k)](https://github.com/DeviceFarmer/stf) - A framework for running your own device farm, geared toward Android, but also iOS.
 
 ### Specifications / Desktop GUI Automation (non-browser-centric)
 
@@ -22,11 +22,11 @@
 
 ## [2. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Common Section / Angular
+### General Section / Svelte
 
 *   [Pointer](https://www.pointer.io/). A window into what current and future CTOs are reading and thinking about. Super high quality engineering-related content only.
 
-### Miscellaneous / Angular
+### Miscellaneous / Svelte
 
 *   [rendezvous with cassidoo](https://cassidoo.co/newsletter/). A free weekly tech newsletter with the latest web development articles, a practice technical interview question of the week, a joke, some non-technical content, and more, arriving every Sunday night/Monday morning depending on where you are in the world.
 
@@ -34,17 +34,17 @@
 
 ### Boilerplate / Other Tools
 
-*   [fastapi-starter-project (⭐47)](https://github.com/mirzadelic/fastapi-starter-project) - A project template which uses FastAPI, SQLModel, Alembic, Pytest, Docker, GitHub Actions CI.
+*   [fastapi-starter-project (⭐68)](https://github.com/mirzadelic/fastapi-starter-project) - A project template which uses FastAPI, SQLModel, Alembic, Pytest, Docker, GitHub Actions CI.
 
 ## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Upgini (⭐206)](https://github.com/upgini/upgini): Free automated data & feature enrichment library for machine learning - automatically searches through thousands of ready-to-use features from public and community shared data sources and enriches your training dataset with only the accuracy improving features.
+*   [Upgini (⭐249)](https://github.com/upgini/upgini): Free automated data & feature enrichment library for machine learning - automatically searches through thousands of ready-to-use features from public and community shared data sources and enriches your training dataset with only the accuracy improving features.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [github (⭐2)](https://github.com/Debdut/github.zsh-theme/) - A GitHub-inspired theme. Shows decorators for (truncated) current directory, hostname and `git` status. Includes both light and dark modes and detects system settings for that on macOS and Linux.
 
@@ -56,9 +56,9 @@
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [A11yWatch](https://a11ywatch.com) - Powerful web accessibility tool at scale. Free site-wide web acessibility testing and beyond that resets daily.
+*   [A11yWatch](https://a11ywatch.com) - Powerful web accessibility tool at scale. Free site-wide web accessibility testing and beyond that resets daily.
 
 ### Tools for Teams and Collaboration
 
@@ -68,13 +68,13 @@
 
 ### Error Handling
 
-*   [errors (⭐1.6k)](https://github.com/cockroachdb/errors) - Go error library with error portability over the network.
+*   [errors (⭐1.8k)](https://github.com/cockroachdb/errors) - Go error library with error portability over the network.
 
 ## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Function extensions
 
-*   [nhooks (⭐13)](https://github.com/atlas-engineer/nhooks) - an enhanced implementation of hooks (extension points) with crucial improvements.
+*   [nhooks (⭐12)](https://github.com/atlas-engineer/nhooks) - an enhanced implementation of hooks (extension points) with crucial improvements.
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -84,15 +84,14 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Anu (⭐742)](https://github.com/jd-solanki/anu) - Build better interfaces faster. DX focused utility based vue component library ⚛️
+*   [Anu (⭐952)](https://github.com/jd-solanki/anu) - Build better interfaces faster. DX focused utility based vue component library ⚛️
 
 ## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Video Conferencing
 
-*   [BigBlueButton](https://bigbluebutton.org/) - Supports real-time sharing of audio, video, slides (with whiteboard controls), chat, and the screen. Instructors can engage remote students with polling, emojis, and breakout rooms. ([Demo](https://demo.bigbluebutton.org/gl), [Source Code (⭐8k)](https://github.com/bigbluebutton/bigbluebutton)) `LGPL-3.0` `Java`
-*   [Jitsi Video Bridge](https://jitsi.org/Projects/JitsiVideobridge) - WebRTC compatible Selective Forwarding Unit (SFU) that allows for multiuser video communication. ([Source Code (⭐2.7k)](https://github.com/jitsi/jitsi-videobridge)) `Apache-2.0` `Java`
-*   [LiveKit](https://livekit.io/) - Modern, scalable WebRTC conferencing platform with client SDKs. ([Demo](https://livekit.io/playground), [Source Code (⭐5k)](https://github.com/livekit/livekit-server)) `Apache-2.0` `Go`
+*   [BigBlueButton](https://bigbluebutton.org/) - Supports real-time sharing of audio, video, slides (with whiteboard controls), chat, and the screen. Instructors can engage remote students with polling, emojis, and breakout rooms. ([Demo](https://demo.bigbluebutton.org/gl), [Source Code (⭐8.1k)](https://github.com/bigbluebutton/bigbluebutton)) `LGPL-3.0` `Java`
+*   [Jitsi Video Bridge](https://jitsi.org/Projects/JitsiVideobridge) - WebRTC compatible Selective Forwarding Unit (SFU) that allows for multiuser video communication. ([Source Code (⭐2.8k)](https://github.com/jitsi/jitsi-videobridge)) `Apache-2.0` `Java/deb`
 
 ---
 

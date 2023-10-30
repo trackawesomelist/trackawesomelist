@@ -10,12 +10,12 @@
 
 ### Projects / Puzzles and Games
 
-*   [Coqoban (⭐20)](https://github.com/coq-community/coqoban) - Coq implementation of Sokoban, the Japanese warehouse keepers' game.
-*   [Hanoi (⭐22)](https://github.com/thery/hanoi) - The Tower of Hanoi puzzle in Coq, including generalizations and theorems about configurations.
+*   [Coqoban (⭐21)](https://github.com/coq-community/coqoban) - Coq implementation of Sokoban, the Japanese warehouse keepers' game.
+*   [Hanoi (⭐23)](https://github.com/thery/hanoi) - The Tower of Hanoi puzzle in Coq, including generalizations and theorems about configurations.
 *   [Mini-Rubik (⭐3)](https://github.com/thery/minirubik) - Coq formalization and solver of the 2x2x2 version of the Rubik's Cube puzzle.
-*   [Name the Biggest Number (⭐51)](https://github.com/codyroux/name-the-biggest-number) - Repository for submitting proven contenders for the title of biggest number in Coq.
+*   [Name the Biggest Number (⭐56)](https://github.com/codyroux/name-the-biggest-number) - Repository for submitting proven contenders for the title of biggest number in Coq.
 *   [Natural Number Game (⭐6)](https://github.com/uncomputable/natural-number-game) - Coq version of the natural number game developed for the Lean prover.
-*   [Sudoku (⭐18)](https://github.com/coq-community/sudoku) - Formalization and solver of the Sudoku number-placement puzzle in Coq.
+*   [Sudoku (⭐20)](https://github.com/coq-community/sudoku) - Formalization and solver of the Sudoku number-placement puzzle in Coq.
 *   [T2048 (⭐22)](https://github.com/thery/T2048) - Coq version of the 2048 sliding tile game.
 
 ## [2. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
@@ -28,7 +28,7 @@
 
 ### ChatGPT API
 
-*   [pyChatGPT - a Python client for the unofficial ChatGPT API (⭐858)](https://github.com/terry3041/pyChatGPT)
+*   [pyChatGPT - a Python client for the unofficial ChatGPT API (⭐1.3k)](https://github.com/terry3041/pyChatGPT)
 
 ## [4. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
@@ -40,11 +40,11 @@
 
 ### Editor plugins / VS Code
 
-*   [vscode-vlang (⭐363)](https://github.com/vlang/vscode-vlang) - V Language extension for Visual Studio Code.
+*   [vscode-vlang (⭐374)](https://github.com/vlang/vscode-vlang) - V Language extension for Visual Studio Code.
 
 ### Editor plugins / IntelliJ & CLion & GoLand etc
 
-*   [IntelliJ V (⭐160)](https://github.com/intellij-v/intellij-v) - Plugin for IntelliJ IDEA and other JetBrains IDEs.
+*   [IntelliJ V (⭐173)](https://github.com/intellij-v/intellij-v) - Plugin for IntelliJ IDEA and other JetBrains IDEs.
 
 ### Online IDEs with V / IntelliJ & CLion & GoLand etc
 
@@ -53,13 +53,13 @@
 
 ### Programming contests / IntelliJ & CLion & GoLand etc
 
-*   [Advent of Code 2022 (⭐23)](https://github.com/vlang/adventofcode) - Solution of Advent of Code 2022 in V.
+*   [Advent of Code 2022 (⭐22)](https://github.com/vlang/adventofcode) - Solution of Advent of Code 2022 in V.
 
 ## [6. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Communications / Ethernet
 
-*   [Official WIZnet5k (⭐0)](https://github.com/andrewleech/wiznet_ioLibrary_Driver) - Driver for the WIZnet5x00 series of Ethernet controllers.
+*   [Official WIZnet5k (⭐2)](https://github.com/andrewleech/wiznet_ioLibrary_Driver) - Driver for the WIZnet5x00 series of Ethernet controllers.
 
 ### Community / SRAM
 
@@ -73,13 +73,13 @@
 
 ### Shells / On Host
 
-*   [mpbridge (⭐24)](https://github.com/AmirHmZz/mpbridge) - A file system bridge to synchronize and manage files on a device running MicroPython.
+*   [mpbridge (⭐28)](https://github.com/AmirHmZz/mpbridge) - A file system bridge to synchronize and manage files on a device running MicroPython.
 
 ## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### GraphQL
 
-*   [ZeroQL (⭐169)](https://github.com/byme8/ZeroQL) - high-performance C#-friendly GraphQL client. It supports Linq-like syntax. It doesn't require Reflection.Emit or expressions. As a result, the runtime provides performance very close to a raw HTTP call.
+*   [ZeroQL (⭐210)](https://github.com/byme8/ZeroQL) - high-performance C#-friendly GraphQL client. It supports Linq-like syntax. It doesn't require Reflection.Emit or expressions. As a result, the runtime provides performance very close to a raw HTTP call.
 
 ## [8. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
@@ -91,39 +91,39 @@
 
 ### Class Based
 
-*   [element-js (⭐13)](https://github.com/webtides/element-js) - Simple and lightweight base classes for web components with a beautiful API.
+*   [element-js (⭐16)](https://github.com/webtides/element-js) - Simple and lightweight base classes for web components with a beautiful API.
 
 ### Meta Frameworks
 
 *   [Enhance](https://enhance.dev/docs/) - Web standards-based HTML framework for building lightweight web applications.
 *   [luna-js (⭐5)](https://github.com/webtides/luna-js) - SSR framework that makes working with the WebComponents standard a breeze.
 *   [Rocket](https://rocket.modern-web.dev) - Modern web setup for static sites with a sprinkle of JavaScript.
-*   [Web Components Compiler (⭐46)](https://github.com/ProjectEvergreen/wcc) - Compiler to make server-side rendering of native web components easier.
-*   [WebC (⭐1.1k)](https://github.com/11ty/webc) - Framework-independent standalone HTML serializer for generating markup for web components.
+*   [Web Components Compiler (⭐57)](https://github.com/ProjectEvergreen/wcc) - Compiler to make server-side rendering of native web components easier.
+*   [WebC (⭐1.2k)](https://github.com/11ty/webc) - Framework-independent standalone HTML serializer for generating markup for web components.
 
 ## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [idanarye/nvim-buffls (⭐5)](https://github.com/idanarye/nvim-buffls) - Add LSP functionality to specific Neovim buffers.
+*   [idanarye/nvim-buffls (⭐9)](https://github.com/idanarye/nvim-buffls) - Add LSP functionality to specific Neovim buffers.
 
 ### Note Taking / Diagnostics
 
-*   [RutaTang/quicknote.nvim (⭐33)](https://github.com/RutaTang/quicknote.nvim) - Quickly take notes, in-place.
+*   [RutaTang/quicknote.nvim (⭐85)](https://github.com/RutaTang/quicknote.nvim) - Quickly take notes, in-place.
 
 ### Terminal Integration / Diagnostics
 
-*   [idanarye/nvim-channelot (⭐3)](https://github.com/idanarye/nvim-channelot) - Operate Neovim jobs from Lua coroutines.
+*   [idanarye/nvim-channelot (⭐5)](https://github.com/idanarye/nvim-channelot) - Operate Neovim jobs from Lua coroutines.
 
 ### Code Runner / Diagnostics
 
-*   [idanarye/nvim-moonicipal (⭐9)](https://github.com/idanarye/nvim-moonicipal) - Task runner with focus on rapidly changing personal tasks.
+*   [idanarye/nvim-moonicipal (⭐11)](https://github.com/idanarye/nvim-moonicipal) - Task runner with focus on rapidly changing personal tasks.
 
 ## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
-*   [Speedster (⭐8.1k)](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/speedster) -Automatically apply SOTA optimization techniques to achieve the maximum inference speed-up on your hardware. \[DEEP LEARNING]
+*   [Speedster (⭐8.3k)](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/speedster) -Automatically apply SOTA optimization techniques to achieve the maximum inference speed-up on your hardware. \[DEEP LEARNING]
 
 ## [12. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

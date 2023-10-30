@@ -28,7 +28,7 @@
 
 ### Image Processing
 
-*   [pyvips (⭐494)](https://github.com/libvips/pyvips) - A fast image processing library with low memory needs.
+*   [pyvips (⭐522)](https://github.com/libvips/pyvips) - A fast image processing library with low memory needs.
 
 ## [5. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Date and Time
 
-*   [clojure.java-time (⭐437)](https://github.com/dm3/clojure.java-time) - Java 8 Date-Time API
+*   [clojure.java-time (⭐440)](https://github.com/dm3/clojure.java-time) - Java 8 Date-Time API
 
 ## [7. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 

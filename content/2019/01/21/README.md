@@ -10,7 +10,7 @@
 
 ### Tools / Neural Networks
 
-*   [layer (⭐556)](https://github.com/cloudkj/layer) - Neural network inference from the command line
+*   [layer (⭐558)](https://github.com/cloudkj/layer) - Neural network inference from the command line
 
 ## [2. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -26,19 +26,19 @@
 
 ### Programming Languages
 
-*   [OCaml (⭐2.4k)](https://github.com/ocaml-community/awesome-ocaml#readme)
+*   [OCaml (⭐2.6k)](https://github.com/ocaml-community/awesome-ocaml#readme)
 
 ### Front-End Development
 
-*   [Aurelia (⭐305)](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
+*   [Aurelia (⭐307)](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
 
 ### Entertainment
 
-*   [Email Newsletters (⭐3.3k)](https://github.com/zudochkin/awesome-newsletters#readme)
+*   [Email Newsletters (⭐3.5k)](https://github.com/zudochkin/awesome-newsletters#readme)
 
 ### Hardware
 
-*   [Electronics (⭐4.7k)](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
+*   [Electronics (⭐5.1k)](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
 
 ## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Debug
 
-*   [check (⭐951)](https://github.com/libcheck/check) - Check is a unit testing framework for C. \[LGPL-2.1] [website](https://libcheck.github.io/check/)
+*   [check (⭐992)](https://github.com/libcheck/check) - Check is a unit testing framework for C. \[LGPL-2.1] [website](https://libcheck.github.io/check/)
 
 ### Math
 
@@ -77,15 +77,15 @@
 
 ### Boilerplates
 
-*   [iOS project template (⭐391)](https://github.com/messeb/ios-project-template) - iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger.
+*   [iOS project template (⭐396)](https://github.com/messeb/ios-project-template) - iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger.
 
 ### Events
 
-*   [Tomorrowland (⭐115)](https://github.com/lilyball/Tomorrowland) - Lightweight Promises.
+*   [Tomorrowland (⭐116)](https://github.com/lilyball/Tomorrowland) - Lightweight Promises.
 
 ### Utility / Barcode
 
-*   [TSAO (⭐137)](https://github.com/lilyball/swift-tsao) - Type-Safe Associated Objects.
+*   [TSAO (⭐138)](https://github.com/lilyball/swift-tsao) - Type-Safe Associated Objects.
 
 ## [9. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -151,17 +151,17 @@
 
 ### Apps / Widgets
 
-*   [wagtail-autocomplete (⭐102)](https://github.com/wagtail/wagtail-autocomplete) - Autocompleting choosers for `ForeignKey`, `ParentalKey`, and `ManyToMany` fields.
+*   [wagtail-autocomplete (⭐109)](https://github.com/wagtail/wagtail-autocomplete) - Autocompleting choosers for `ForeignKey`, `ParentalKey`, and `ManyToMany` fields.
 
 ### Apps / Testing
 
-*   [Wagtail Foliage (⭐16)](https://github.com/harrislapiroff/wagtail-foliage) - Utilities for programmatically building page trees in Wagtail.
+*   [Wagtail Foliage (⭐17)](https://github.com/harrislapiroff/wagtail-foliage) - Utilities for programmatically building page trees in Wagtail.
 
 ### Apps / Misc
 
-*   [Wagtail Cache (⭐68)](https://github.com/coderedcorp/wagtail-cache) - A simple page cache for Wagtail using the Django cache middleware.
+*   [Wagtail Cache (⭐73)](https://github.com/coderedcorp/wagtail-cache) - A simple page cache for Wagtail using the Django cache middleware.
 *   [Wagtail GraphQL (⭐39)](https://github.com/tr11/wagtail-graphql) - App to automatically add GraphQL support to a Wagtail website.
-*   [Wagtail Orderable (⭐56)](https://github.com/elton2048/wagtail-orderable) - Mixin support for drag-and-drop ordering in admin panel.
+*   [Wagtail Orderable (⭐58)](https://github.com/elton2048/wagtail-orderable) - Mixin support for drag-and-drop ordering in admin panel.
 
 ### Resources / Getting started
 

@@ -10,33 +10,33 @@
 
 ### Reverse Engineering / Reverse Engineering Tools
 
-*   [pwndbg (⭐5.2k)](https://github.com/pwndbg/pwndbg) - GDB plug-in that eases debugging with GDB, with a focus on features needed by low-level software developers, hardware hackers, reverse-engineers, and exploit developers.
+*   [pwndbg (⭐6.1k)](https://github.com/pwndbg/pwndbg) - GDB plug-in that eases debugging with GDB, with a focus on features needed by low-level software developers, hardware hackers, reverse-engineers, and exploit developers.
 
 ## [2. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### API Gateway / Symfony2
 
-*   [Express Gateway (⭐2.8k)](https://github.com/ExpressGateway/express-gateway) - Microservices API Gateway built on top of ExpressJS (Node.js).
+*   [Express Gateway (⭐2.9k)](https://github.com/ExpressGateway/express-gateway) - Microservices API Gateway built on top of ExpressJS (Node.js).
 
 ## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Logging
 
-*   [Karambolo.Extensions.Logging.File (⭐112)](https://github.com/adams85/filelogger) - A lightweight library which implements file logging for the built-in .NET Core logging framework (Microsoft.Extensions.Logging).
+*   [Karambolo.Extensions.Logging.File (⭐128)](https://github.com/adams85/filelogger) - A lightweight library which implements file logging for the built-in .NET Core logging framework (Microsoft.Extensions.Logging).
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Sheller (⭐99)](https://github.com/twitchax/Sheller) - A .NET library that makes shelling out commands super easy and fluent.
+*   [Sheller (⭐106)](https://github.com/twitchax/Sheller) - A .NET library that makes shelling out commands super easy and fluent.
 
 ### Frameworks, Libraries and Tools / Networking
 
-*   [AspNetCore.Proxy (⭐399)](https://github.com/twitchax/AspNetCore.Proxy) - ASP.NET Core Proxies made easy.
+*   [AspNetCore.Proxy (⭐458)](https://github.com/twitchax/AspNetCore.Proxy) - ASP.NET Core Proxies made easy.
 
 ## [4. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
 ### Containers / Kubernetes
 
-*   [Moon (⭐176)](https://github.com/aerokube/moon) - A commercial closed-source enterprise Selenium implementation using Kubernetes to launch browsers
+*   [Moon (⭐187)](https://github.com/aerokube/moon) - A commercial closed-source enterprise Selenium implementation using Kubernetes to launch browsers
 
 ## [5. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
@@ -62,13 +62,13 @@
 
 ### Ask these organizations anything!
 
-*   [Nikita Voloboev (⭐33)](https://github.com/nikitavoloboev/ama) - Loves [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing) things. Building [Learn Anything](https://learn-anything.xyz), [Enpicom](https://www.enpicom.com) and [tools](https://wiki.nikitavoloboev.xyz/sharing/my-github).
+*   [Nikita Voloboev (⭐34)](https://github.com/nikitavoloboev/ama) - Loves [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing) things. Building [Learn Anything](https://learn-anything.xyz), [Enpicom](https://www.enpicom.com) and [tools](https://wiki.nikitavoloboev.xyz/sharing/my-github).
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [IP2Location](https://www.ip2location.com) — Freemium IP geolocation service. LITE database is available for free download. Import the database in server and perform local query to determine city, coordinates and ISP information.
+*   [IP2Location](https://www.ip2location.com) — Freemium IP geolocation service. LITE database is available for free download. Import the database in the server and perform a local query to determine the city, coordinates, and ISP information.
 
 ---
 

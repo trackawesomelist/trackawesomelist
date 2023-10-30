@@ -123,7 +123,7 @@
 
 ### Packages / Frameworks
 
-*   [Tone.js (⭐12k)](https://github.com/Tonejs/Tone.js) - A framework for making interactive music in the browser.
+*   [Tone.js (⭐13k)](https://github.com/Tonejs/Tone.js) - A framework for making interactive music in the browser.
 
 ### Packages / MIDI
 
@@ -131,7 +131,7 @@
 
 ### Packages / Apps
 
-*   [LoopDrop App (⭐815)](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
+*   [LoopDrop App (⭐819)](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
 
 ## [7. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -347,7 +347,7 @@
 
 ### Application Skeleton
 
-*   [MVC (⭐805)](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
+*   [MVC (⭐810)](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
 
 ### Command Line
 
@@ -363,7 +363,7 @@
 
 ### Ask these people anything!
 
-*   [Vladimir Agafonkin (⭐6)](https://github.com/mourner/ama) - Engineer at [Mapbox](https://www.mapbox.com/), creator of [Leaflet](http://leafletjs.com/) and a bunch of [other open source libraries (⭐361)](https://github.com/mourner/projects). Building the future of interactive maps.
+*   [Vladimir Agafonkin (⭐6)](https://github.com/mourner/ama) - Engineer at [Mapbox](https://www.mapbox.com/), creator of [Leaflet](http://leafletjs.com/) and a bunch of [other open source libraries (⭐375)](https://github.com/mourner/projects). Building the future of interactive maps.
 
 ### Ask these organizations anything!
 
@@ -492,12 +492,12 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Android Security Awesome (⭐6.9k)](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources.
-*   [Awesome CTF (⭐8.1k)](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and software.
-*   [Awesome Hacking (⭐10k)](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources.
-*   [Awesome Honeypots (⭐7k)](https://github.com/paralax/awesome-honeypots) - An awesome list of honeypot resources.
-*   [Awesome PCAP Tools (⭐2.7k)](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces.
-*   [Awesome Pentest (⭐18k)](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things.
+*   [Android Security Awesome (⭐7.2k)](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources.
+*   [Awesome CTF (⭐8.5k)](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and software.
+*   [Awesome Hacking (⭐11k)](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources.
+*   [Awesome Honeypots (⭐7.4k)](https://github.com/paralax/awesome-honeypots) - An awesome list of honeypot resources.
+*   [Awesome PCAP Tools (⭐2.8k)](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces.
+*   [Awesome Pentest (⭐19k)](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things.
 
 ## [23. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
@@ -533,17 +533,16 @@
 
 ### ORM and Datamapping
 
-*   [ectophile (⭐41)](https://github.com/gjaldon/ectophile) - Ecto extension to instantly support file uploads in models.
+*   [ectophile (⭐42)](https://github.com/gjaldon/ectophile) - Ecto extension to instantly support file uploads in models.
 
 ### XML
 
-*   [sweet\_xml (⭐335)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
+*   [sweet\_xml (⭐347)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
 
 ## [26. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Community
 
-*   `#angular2` channel on Freenode IRC Server
 *   [Gitter Channel](https://gitter.im/angular/angular)
 *   [Angular Group on Facebook](https://www.facebook.com/groups/angular2/)
 *   [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
@@ -563,7 +562,7 @@
 ### Integrations / Components
 
 *   [nativescript-angular (⭐1.2k)](https://github.com/NativeScript/nativescript-angular)
-*   [react-native-renderer (⭐788)](https://github.com/angular/react-native-renderer)
+*   [react-native-renderer (⭐789)](https://github.com/angular/react-native-renderer)
 
 ### Universal General Resources / Components
 
@@ -571,7 +570,7 @@
 
 ### TypeScript General Resources / Components
 
-*   [TypeScript Repository (GitHub) (⭐90k)](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
+*   [TypeScript Repository (GitHub) (⭐95k)](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
 
 ### TypeScript Seed Projects / Components
 
@@ -579,11 +578,11 @@
 
 ### Dart General Resources / Components
 
-*   [Dart](https://www.dartlang.org/) Official Website for Dart
+*   [Dart](https://www.dartlang.org/) Official Website for Dart.
 *   [Dartpad](https://dartpad.dartlang.org/) Dartpad lets play with Dart on-line, in a zero-install, zero configuration environment.
 *   [Dart Organization (GitHub)](https://github.com/dart-lang) Official GitHub Organization for Dart
 *   [Pub](https://pub.dartlang.org/) Repository of packages of software for the Dart programming language.
-*   [Dartisans](https://plus.google.com/communities/114566943291919232850) The Official Dart Google+ community
+*   [Dartisans](https://plus.google.com/communities/114566943291919232850) The Official Dart Google+ community.
 *   [Dart Slack Channel](https://dartlang-slack.herokuapp.com/) The Official Dart Slack channel.
 
 ### Dart Seed Projects / Components
@@ -592,18 +591,18 @@
 
 ### Dart Demo, Samples, and Examples / Components
 
-*   [Hackernews App (⭐11)](https://github.com/andresaraujo/ng2_hackernews) A HackerNews application made with Angular 2 for Dart
+*   [Hackernews App (⭐11)](https://github.com/andresaraujo/ng2_hackernews) A HackerNews application made with Angular 2 for Dart.
 *   [Router Demo (⭐1)](https://github.com/andresaraujo/ng2_dart_router_demo) A basic example of Angular 2 router.
 
 ### Traceur General Resources / Components
 
-*   [Traceur Repository (GitHub) (⭐8.2k)](https://github.com/google/traceur-compiler) Official GitHub Repo for Traceur
+*   [Traceur Repository (GitHub) (⭐8.2k)](https://github.com/google/traceur-compiler) Official GitHub Repo for Traceur.
 
 ### Babel General Resources / Components
 
-*   [Babel](https://babeljs.io/) Official Website for Babel
-*   [REPL](https://babeljs.io/repl/) Official Babel REPL that runs entirely in your browser
-*   [Babel Repository (GitHub) (⭐42k)](https://github.com/babel/babel) Official GitHub Repo for Babel
+*   [Babel](https://babeljs.io/) Official Website for Babel.
+*   [REPL](https://babeljs.io/repl/) Official Babel REPL that runs entirely in your browser.
+*   [Babel Repository (GitHub) (⭐43k)](https://github.com/babel/babel) Official GitHub Repo for Babel.
 
 ### NativeScript General Resources / Components
 
@@ -619,7 +618,7 @@
 
 ### React Native Projects / Components
 
-*   [Angular 2 React Native Renderer (GitHub) (⭐788)](https://github.com/angular/react-native-renderer)
+*   [Angular 2 React Native Renderer (GitHub) (⭐789)](https://github.com/angular/react-native-renderer)
 
 ## [27. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
 
@@ -792,7 +791,7 @@ Drawing on his unsurpassed experience teaching new users, professional data scie
 
 ### Shell Script Development / Directory Navigation
 
-*   [bashmanager (⭐86)](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
+*   [bashmanager (⭐89)](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
 
 ## [33. Awesome Promises](/content/wbinnssmith/awesome-promises/week/README.md)
 

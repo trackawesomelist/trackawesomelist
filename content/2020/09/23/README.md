@@ -11,13 +11,13 @@
 ### Development tools / IDEs
 
 *   [Kakoune](http://kakoune.org/)
-    *   [kak-lsp/kak-lsp (⭐516)](https://github.com/kak-lsp/kak-lsp/) — [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
+    *   [kak-lsp/kak-lsp (⭐538)](https://github.com/kak-lsp/kak-lsp/) — [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
 
 ## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
-*   💼 [Leading Trim (⭐61)](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize (⭐1.2k)](https://github.com/seek-oss/capsize).
+*   💼 [Leading Trim (⭐73)](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize (⭐1.3k)](https://github.com/seek-oss/capsize).
 
 ## [3. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -29,7 +29,7 @@
 
 ### GraphQL
 
-*   [graphene (⭐7.6k)](https://github.com/graphql-python/graphene/) - GraphQL framework for Python.
+*   [graphene (⭐7.7k)](https://github.com/graphql-python/graphene/) - GraphQL framework for Python.
 
 ## [5. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Auth
 
-*   [FastAPI Simple Security (⭐175)](https://github.com/mrtolkien/fastapi_simple_security) - Out-of-the-box API key security manageable through path operations.
+*   [FastAPI Simple Security (⭐226)](https://github.com/mrtolkien/fastapi_simple_security) - Out-of-the-box API key security manageable through path operations.
 
 ## [9. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-highcharts (⭐44)](https://github.com/smithalan92/vue3-highcharts) - A Highcharts.JS wrapper component for Vue 3
+*   [vue3-highcharts (⭐43)](https://github.com/smithalan92/vue3-highcharts) - A Highcharts.JS wrapper component for Vue 3
 
 ### Components & Libraries / Integrations
 

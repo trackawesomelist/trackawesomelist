@@ -6,12 +6,6 @@ Useful resources for Silverstripe CMS and framework
 
 [ Daily / [Weekly](/content/wernerkrauss/awesome-silverstripe-cms/week/README.md) / [Overview](/content/wernerkrauss/awesome-silverstripe-cms/readme/README.md) ]
 
-## [Oct 20, 2023](/content/2023/10/20/README.md)
-
-### Site Search
-
-*   [Elastic search (⭐0)](https://github.com/firesphere/silverstripe-elastic) - Interface for Elastic search, supports Elasticsearch 8+ version. API similar, identical where possible, to the Solr search module.
-
 ## [Jul 27, 2023](/content/2023/07/27/README.md)
 
 ### Virtualisation / Docker

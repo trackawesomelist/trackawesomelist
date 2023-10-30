@@ -10,44 +10,44 @@
 
 ### Components & Libraries / Scaffold
 
-*   [Vutron (⭐78)](https://github.com/jooy2/vutron) - Quick start templates for Vite + Electron + Vue 3 + Vuetify + TypeScript.
+*   [Vutron (⭐121)](https://github.com/jooy2/vutron) - Quick start templates for Vite + Electron + Vue 3 + Vuetify + TypeScript.
 
 ## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
-*   [vue-xs-admin (⭐49)](https://github.com/jsxiaosi/vue-xs-admin) - Based on Vue3, Vite3 ElementPlus, TypeScript, Pinia, VueRouter.
-*   [vue-component-template (⭐20)](https://github.com/houtaroy/vue-component-template) - Vue 3, TSX, ESLint, Prettier.
+*   [vue-xs-admin (⭐63)](https://github.com/jsxiaosi/vue-xs-admin) - Based on Vue3, Vite3 ElementPlus, TypeScript, Pinia, VueRouter.
+*   [vue-component-template (⭐21)](https://github.com/houtaroy/vue-component-template) - Vue 3, TSX, ESLint, Prettier.
 
 ### Templates / Electron
 
-*   [vite-electron-plugin (⭐44)](https://github.com/electron-vite/vite-electron-plugin) - High-performance, esbuild-based Vite Electron plugin.
+*   [vite-electron-plugin (⭐52)](https://github.com/electron-vite/vite-electron-plugin) - High-performance, esbuild-based Vite Electron plugin.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-svgo (⭐12)](https://github.com/r3dDoX/vite-plugin-svgo) - Load SVGs as plain string and transform with SVGO library.
+*   [vite-plugin-svgo (⭐15)](https://github.com/r3dDoX/vite-plugin-svgo) - Load SVGs as plain string and transform with SVGO library.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-css-export (⭐14)](https://github.com/shixuanhong/vite-plugin-css-export) - Export variables from CSS to JS, and support nested rules.
+*   [vite-plugin-css-export (⭐17)](https://github.com/shixuanhong/vite-plugin-css-export) - Export variables from CSS to JavaScript, and support nested rules.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-externals-extension (⭐3)](https://github.com/XiSenao/vite-plugin-externals-extension) - External links plugin which supports ESM and UMD.
+*   [vite-plugin-externals-extension (⭐5)](https://github.com/XiSenao/vite-plugin-externals-extension) - External links plugin which supports ESM and UMD.
 
 ### Vue / Ecosystem
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [unplugin-vue-i18n (⭐186)](https://github.com/intlify/bundle-tools/tree/main/packages/unplugin-vue-i18n) - Integration for Vue I18n.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [unplugin-vue-i18n (⭐211)](https://github.com/intlify/bundle-tools/tree/main/packages/unplugin-vue-i18n) - Integration for Vue I18n.
 
 ### Preact / Presets
 
-*   [@preact/preset-vite (⭐196)](https://github.com/preactjs/preset-vite) - Preact preset. HMR, automatic Preact inject, removal of DevTools in prod.
+*   [@preact/preset-vite (⭐214)](https://github.com/preactjs/preset-vite) - Preact preset. HMR, automatic Preact inject, removal of DevTools in prod.
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Marks / Diagnostics
 
-*   [cbochs/grapple.nvim (⭐177)](https://github.com/cbochs/grapple.nvim) - Provides tagging, cursor tracking, and immediate navigation to important project files.
+*   [cbochs/grapple.nvim (⭐224)](https://github.com/cbochs/grapple.nvim) - Provides tagging, cursor tracking, and immediate navigation to important project files.
 
 ## [4. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
@@ -57,15 +57,15 @@
 
 ### Server Frameworks
 
-*   [Dart Frog (⭐1k)](https://github.com/VeryGoodOpenSource/dart_frog) -  A fast, minimalistic backend framework for Dart.
+*   [Dart Frog (⭐1.5k)](https://github.com/VeryGoodOpenSource/dart_frog) -  A fast, minimalistic backend framework for Dart.
 
 ### Template
 
-*   [mason (⭐609)](https://github.com/felangel/mason) - Tools which allow developers to create and consume reusable templates called bricks.
+*   [mason (⭐806)](https://github.com/felangel/mason) - Tools which allow developers to create and consume reusable templates called bricks.
 
 ### Utilities
 
-*   [Basics (⭐149)](https://github.com/google/dart-basics) -  A Dart library containing convenient extension methods on basic Dart objects.
+*   [Basics (⭐154)](https://github.com/google/dart-basics) -  A Dart library containing convenient extension methods on basic Dart objects.
 
 ### Testing
 
@@ -73,7 +73,7 @@
 
 ### IDEs, Editors, and Plugins
 
-*   [Dart Barrel File Generator (⭐20)](https://github.com/mikededo/dartBarrelFileGenerator) - VSCode extension that generates barrel files for Dart projects.
+*   [Dart Barrel File Generator (⭐23)](https://github.com/mikededo/dartBarrelFileGenerator) - VSCode extension that generates barrel files for Dart projects.
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -87,9 +87,9 @@
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### DBaaS
+### Managed Data Services
 
-*   [xata.io](https://xata.io) - Xata is a serverless database with built-in powerful search and analytics. One API, multiple type-safe client libraries, and optimized for your development workflow. Free-forever tier is sufficient for hobby developers which comes with 3 units of Xata, please refer to website for unit definition.
+*   [xata.io](https://xata.io) - Xata is a serverless database with built-in powerful search and analytics. One API, multiple type-safe client libraries, and optimized for your development workflow. The free-forever tier is sufficient for hobby developers which comes with three units of Xata, please refer to the website for unit definition.
 
 ## [7. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

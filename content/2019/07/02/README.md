@@ -41,7 +41,7 @@
 
 ### Guide & Interviews / Game Engine resources
 
-*   [Interview Questions (⭐325)](https://github.com/whatsupcoders/Flutter-Interview-Questions) - List of helpful questions you can use to interview potential candidates by [Whatsupcoders (⭐41)](https://github.com/whatsupcoders/Whatsupcoders-flutter)
+*   [Interview Questions (⭐336)](https://github.com/whatsupcoders/Flutter-Interview-Questions) - List of helpful questions you can use to interview potential candidates by [Whatsupcoders (⭐41)](https://github.com/whatsupcoders/Whatsupcoders-flutter)
 
 ### 🇯🇵 Japan / Misc
 
@@ -59,11 +59,11 @@
 
 ### UICollectionView / Barcode
 
-*   [CheckmarkCollectionViewCell (⭐62)](https://github.com/yonat/CheckmarkCollectionViewCell) - UICollectionViewCell with checkbox when it isSelected and empty circle when not - like Photos.app 'Select' mode.
+*   [CheckmarkCollectionViewCell (⭐64)](https://github.com/yonat/CheckmarkCollectionViewCell) - UICollectionViewCell with checkbox when it isSelected and empty circle when not - like Photos.app 'Select' mode.
 
 ### Validation / Barcode
 
-*   [ValidatedPropertyKit (⭐917)](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮.
+*   [ValidatedPropertyKit (⭐955)](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮.
 
 ## [6. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
 

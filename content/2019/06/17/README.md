@@ -33,7 +33,7 @@
 
 ## [5. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
-### United States 🇺🇸 / Seattle, WA   <a id="seattle-wa">  </a>
+### United States 🇺🇸 / Seattle, WA <a id="seattle-wa"></a>
 
 #### Zeitgeist
 
@@ -49,27 +49,27 @@ Webpage: <http://zeitgeistcoffee.com/>
 
 ### Applications / Cryptocurrencies
 
-*   [ChainX (⭐271)](https://github.com/chainx-org/ChainX) — Fully Decentralized Interchain Crypto Asset Management on Polkadot.
+*   [ChainX (⭐275)](https://github.com/chainx-org/ChainX) — Fully Decentralized Interchain Crypto Asset Management on Polkadot.
 *   [Grin (⭐5k)](https://github.com/mimblewimble/grin/) — Evolution of the MimbleWimble protocol
 *   [Nervos CKB (⭐1.1k)](https://github.com/nervosnetwork/ckb) — Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network.
-*   [Polkadot (⭐6.8k)](https://github.com/paritytech/polkadot) — Heterogeneous multi‑chain technology with pooled security
-*   [Substrate (⭐8.2k)](https://github.com/paritytech/substrate) — Generic modular blockchain template written in Rust
+*   [Polkadot (⭐7k)](https://github.com/paritytech/polkadot) — Heterogeneous multi‑chain technology with pooled security
+*   [Substrate (⭐8.3k)](https://github.com/paritytech/substrate) — Generic modular blockchain template written in Rust
 
 ## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI / UI Helpers
 
-*   [Scroll To Index (⭐415)](https://github.com/quire-io/scroll-to-index) <!--stargazers:quire-io/scroll-to-index--> - Scroll to specified child element with given index for SliverList/ListView by [Jerry Chen](https://github.com/jerrywell/).
+*   [Scroll To Index (⭐440)](https://github.com/quire-io/scroll-to-index) <!--stargazers:quire-io/scroll-to-index--> - Scroll to specified child element with given index for SliverList/ListView by [Jerry Chen](https://github.com/jerrywell/).
 
 ### Charts / Image Picker
 
-*   [Bezier Chart (⭐428)](https://github.com/aeyrium/bezier-chart) <!--stargazers:aeyrium/bezier-chart--> - Beautiful bezier line chart widget for flutter that is highly interactive and configurable by [Diego Velasquez](https://twitter.com/diegoveloper)
+*   [Bezier Chart (⭐440)](https://github.com/aeyrium/bezier-chart) <!--stargazers:aeyrium/bezier-chart--> - Beautiful bezier line chart widget for flutter that is highly interactive and configurable by [Diego Velasquez](https://twitter.com/diegoveloper)
 
 ## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Sliders / Runner
 
-*   [Embla Carousel (⭐3.1k)](https://github.com/davidcetinkaya/embla-carousel) - An extensible low level carousel for the web, written in TypeScript.
+*   [Embla Carousel (⭐3.6k)](https://github.com/davidcetinkaya/embla-carousel) - An extensible low level carousel for the web, written in TypeScript.
 
 ## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -81,7 +81,7 @@ Webpage: <http://zeitgeistcoffee.com/>
 
 ### Misc
 
-*   [pinger (⭐10)](https://github.com/spider-gazelle/pinger) - Ping IP addresses and DNS entries without requiring sudo
+*   [pinger (⭐11)](https://github.com/spider-gazelle/pinger) - Ping IP addresses and DNS entries without requiring sudo
 
 ### Third-party APIs
 

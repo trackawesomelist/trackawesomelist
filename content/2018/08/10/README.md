@@ -10,11 +10,11 @@
 
 ### Packages / Command-line utilities
 
-*   [sparkly (⭐417)](https://github.com/sindresorhus/sparkly) - Generate sparklines `▁▂▃▅▂▇`.
+*   [sparkly (⭐421)](https://github.com/sindresorhus/sparkly) - Generate sparklines `▁▂▃▅▂▇`.
 
 ### Packages / Weird
 
-*   [cat-ascii-faces (⭐240)](https://github.com/melaniecebula/cat-ascii-faces) - `₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”`.
+*   [cat-ascii-faces (⭐244)](https://github.com/melaniecebula/cat-ascii-faces) - `₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”`.
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -49,7 +49,7 @@ Free
 
 ### Community Extensions
 
-*   [Script based ProtocolMapper extension for SAML (⭐7)](https://github.com/cloudtrust/keycloak-client-mappers)
+*   [Script based ProtocolMapper extension for SAML (⭐8)](https://github.com/cloudtrust/keycloak-client-mappers)
 
 ## [6. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -59,7 +59,7 @@ Free
 
 ### Miscellaneous
 
-*   [Jupyter (⭐3.3k)](https://github.com/markusschanta/awesome-jupyter#readme) - Create and share documents that contain code, equations, visualizations and narrative text.
+*   [Jupyter (⭐3.5k)](https://github.com/markusschanta/awesome-jupyter#readme) - Create and share documents that contain code, equations, visualizations and narrative text.
 
 ## [7. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -75,9 +75,9 @@ Free
 
 ### Processes / Other
 
-*   [ch.vorburger.exec (⭐26)](https://github.com/vorburger/ch.vorburger.exec) - Convenient API around Apache Commons Exec.
-*   [zt-exec (⭐820)](https://github.com/zeroturnaround/zt-exec) - Provides a unified API to Apache Commons Exec and ProcessBuilder.
-*   [zt-process-killer (⭐116)](https://github.com/zeroturnaround/zt-process-killer) - Stops processes started from Java or the system processes via PID.
+*   [ch.vorburger.exec (⭐29)](https://github.com/vorburger/ch.vorburger.exec) - Convenient API around Apache Commons Exec.
+*   [zt-exec (⭐852)](https://github.com/zeroturnaround/zt-exec) - Provides a unified API to Apache Commons Exec and ProcessBuilder.
+*   [zt-process-killer (⭐119)](https://github.com/zeroturnaround/zt-process-killer) - Stops processes started from Java or the system processes via PID.
 
 ## [9. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -90,17 +90,17 @@ Free
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [AnimatedTextKit (⭐1.4k)](https://github.com/aagarwal1012/Animated-Text-Kit) <!--stargazers:aagarwal1012/Animated-Text-Kit--> - A collection of cool text animations by [Ayush Agarwal](https://github.com/aagarwal1012/)
+*   [AnimatedTextKit (⭐1.5k)](https://github.com/aagarwal1012/Animated-Text-Kit) <!--stargazers:aagarwal1012/Animated-Text-Kit--> - A collection of cool text animations by [Ayush Agarwal](https://github.com/aagarwal1012/)
 
 ### Top / Game Engine resources
 
-*   [Trace (⭐976)](https://github.com/trentpiercy/trace) <!--stargazers:trentpiercy/trace--> - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy)
+*   [Trace (⭐1k)](https://github.com/trentpiercy/trace) <!--stargazers:trentpiercy/trace--> - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy)
 
 ## [11. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Python / Symfony2
 
-*   [Falcon (⭐9k)](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
+*   [Falcon (⭐9.2k)](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
 
 ---
 

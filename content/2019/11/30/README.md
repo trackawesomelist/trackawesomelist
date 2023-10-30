@@ -38,7 +38,7 @@
 
 ### Contents / Games
 
-*   [Hangman (⭐18)](https://github.com/jerald-jacob/Flutter-Apps/tree/master/Hangman)-Hangman game word hunting by [Jerald jacob](https://github.com/jerald-jacob/)
+*   [Hangman (⭐19)](https://github.com/jerald-jacob/Flutter-Apps/tree/master/Hangman)-Hangman game word hunting by [Jerald jacob](https://github.com/jerald-jacob/)
 
 ## [4. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [MacSystemColors (⭐31)](https://github.com/kaunteya/MacSystemColors) - Mac app that shows all system colors in light and dark mode for Cocoa developers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/kaunteya/MacSystemColors)
+*   [MacSystemColors (⭐33)](https://github.com/kaunteya/MacSystemColors) - Mac app that shows all system colors in light and dark mode for Cocoa developers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/kaunteya/MacSystemColors)
 
 ---
 

@@ -33,11 +33,11 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [KChat (⭐111)](https://github.com/php-kchat/kchat) - PHP Based Live Chat Application. `Apache-2.0` `PHP`
+*   [KChat (⭐120)](https://github.com/php-kchat/kchat) - PHP Based Live Chat Application. `Apache-2.0` `PHP`
 
 ### Software / Internet of Things (IoT)
 
-*   [DeviceHive](https://www.devicehive.com/) - Open Source IoT Platform with a wide range of integration options. ([Demo](https://playground.devicehive.com/), [Source Code (⭐300)](https://github.com/devicehive/devicehive-java-server)) `Apache-2.0` `Java`
+*   [DeviceHive](https://www.devicehive.com/) - Open Source IoT Platform with a wide range of integration options. ([Demo](https://playground.devicehive.com/), [Source Code (⭐320)](https://github.com/devicehive/devicehive-java-server)) `Apache-2.0` `Java/Docker/K8S`
 
 ## [5. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -49,11 +49,11 @@
 
 ### Frameworks, Libraries and Tools / Exceptions
 
-*   [Sentry (⭐424)](https://github.com/getsentry/sentry-dotnet) - .NET SDK for Sentry, an Open-source error tracking that helps developers monitor and fix crashes in real time.
+*   [Sentry (⭐511)](https://github.com/getsentry/sentry-dotnet) - .NET SDK for Sentry, an Open-source error tracking that helps developers monitor and fix crashes in real time.
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [NuGet Trends (⭐118)](https://github.com/NuGetTrends/nuget-trends) - Website with statistics of NuGet packages download count.
+*   [NuGet Trends (⭐130)](https://github.com/NuGetTrends/nuget-trends) - Website with statistics of NuGet packages download count.
 
 ---
 

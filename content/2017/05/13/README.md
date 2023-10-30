@@ -78,7 +78,7 @@
 
 ### Task management
 
-*   [cake (⭐67)](https://github.com/axvm/cake) - Production-ready Make-like utility tool
+*   [cake (⭐68)](https://github.com/axvm/cake) - Production-ready Make-like utility tool
 
 ## [6. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Scala / Natural Language Processing
 
-*   [Montague (⭐53)](https://github.com/Workday/upshot-montague) - Montague is a semantic parsing library for Scala with an easy-to-use DSL.
+*   [Montague (⭐54)](https://github.com/Workday/upshot-montague) - Montague is a semantic parsing library for Scala with an easy-to-use DSL.
 
 ## [9. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/README.md)
 

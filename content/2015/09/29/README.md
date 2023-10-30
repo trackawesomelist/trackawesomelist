@@ -23,7 +23,7 @@
 
 ### JavaScript Clients
 
-*   [traverson (⭐428)](https://github.com/basti1302/traverson) - A Hypermedia API/HATEOAS Client for Node.js and the Browser
+*   [traverson (⭐433)](https://github.com/basti1302/traverson) - A Hypermedia API/HATEOAS Client for Node.js and the Browser
 
 ## [4. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/README.md)
 
@@ -60,7 +60,7 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 
 ### Math / Barcode
 
-*   [DDMathParser (⭐838)](https://github.com/davedelong/DDMathParser) - DDMathParser makes it easy to parse a String and evaluate it as a mathematical expression.
+*   [DDMathParser (⭐842)](https://github.com/davedelong/DDMathParser) - DDMathParser makes it easy to parse a String and evaluate it as a mathematical expression.
 
 ### Testing / Barcode
 

@@ -28,7 +28,7 @@
 
 ### Minification
 
-*   [Web Markup Minifier (⭐409)](https://github.com/Taritsyn/WebMarkupMin) - .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
+*   [Web Markup Minifier (⭐417)](https://github.com/Taritsyn/WebMarkupMin) - .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
 
 ## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Packages / Command-line apps
 
-*   [jscpd (⭐3.1k)](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
+*   [jscpd (⭐3.2k)](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
 
 ## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

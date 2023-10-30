@@ -17,28 +17,28 @@
 ### Frameworks, Libraries and Tools / IOC
 
 *   [Inyector (⭐13)](https://github.com/davidrevoledo/Inyector) - Dependency Injection Automation for AspNetCore
-*   [Lamar (⭐452)](https://github.com/JasperFx/lamar) - Fast Inversion of Control Tool and Sundry Items of Roslyn Chicanery.
-*   [LightInject (⭐551)](https://github.com/seesharper/LightInject) - Ultra lightweight IoC container.
+*   [Lamar (⭐521)](https://github.com/JasperFx/lamar) - Fast Inversion of Control Tool and Sundry Items of Roslyn Chicanery.
+*   [LightInject (⭐604)](https://github.com/seesharper/LightInject) - Ultra lightweight IoC container.
 
 ### Frameworks, Libraries and Tools / Logging
 
-*   [common-logging (⭐645)](https://github.com/net-commons/common-logging) - Portable logging abstraction for .NET.
+*   [common-logging (⭐650)](https://github.com/net-commons/common-logging) - Portable logging abstraction for .NET.
 
 ## [3. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Data Manipulation / Pipelines
 
-*   [dopanda (⭐466)](https://github.com/dovpanda-dev/dovpanda) -  Hints and tips for using pandas in an analysis environment. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
+*   [dopanda (⭐465)](https://github.com/dovpanda-dev/dovpanda) -  Hints and tips for using pandas in an analysis environment. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
-*   [nefarious (⭐754)](https://github.com/lardbit/nefarious) - Web application that automates downloading Movies and TV Shows. `GPL-3.0` `Python`
+*   [nefarious (⭐826)](https://github.com/lardbit/nefarious) - Web application that automates downloading Movies and TV Shows. `GPL-3.0` `Python`
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Misago](https://misago-project.org/) - Misago is fully featured modern forum application that is fast, scalable and responsive. ([Source Code (⭐2.3k)](https://github.com/rafalp/Misago)) `GPL-2.0` `Python`
+*   [Misago](https://misago-project.org/) - Misago is fully featured modern forum application that is fast, scalable and responsive. ([Source Code (⭐2.4k)](https://github.com/rafalp/Misago)) `GPL-2.0` `Docker`
 
 ## [5. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
 
@@ -57,13 +57,13 @@
 
 ### Software / Build and software organization tools
 
-*   [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+*   [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers. ([Source Code (⭐3.6k)](https://github.com/spack/spack)) `MIT/Apache-2.0` `Python`
 
 ## [8. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Libraries and Frameworks / Python
 
-*   [Eventsoucing in Python (⭐1.2k)](https://github.com/johnbywater/eventsourcing) - Mature, stable Python library for event sourcing and DDD. Supports wide variety of databases, different kinds of orderings of domain events, application level encryption, snapshotting, optimistic concurrency control, and process events. Applications, and entire systems of applications, can be defined independently of infrastructure, and run in different ways (single threaded, multi-threaded, clocked, stepping, multi-process, actor model) and with different infrastructure.
+*   [Eventsoucing in Python (⭐1.3k)](https://github.com/johnbywater/eventsourcing) - Mature, stable Python library for event sourcing and DDD. Supports wide variety of databases, different kinds of orderings of domain events, application level encryption, snapshotting, optimistic concurrency control, and process events. Applications, and entire systems of applications, can be defined independently of infrastructure, and run in different ways (single threaded, multi-threaded, clocked, stepping, multi-process, actor model) and with different infrastructure.
 
 ## [9. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
@@ -97,13 +97,13 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Zeithub (⭐60)](https://github.com/m0g/zeithub) - Open source time tracking, invoicing & expenses management for freelancers
+*   [Zeithub (⭐63)](https://github.com/m0g/zeithub) - Open source time tracking, invoicing & expenses management for freelancers
 
 ## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Math
 
-*   [CNL (⭐577)](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. \[Boost]
+*   [CNL (⭐588)](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. \[Boost]
 
 ## [14. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
@@ -115,27 +115,27 @@
 
 ### Bean Mapping
 
-*   [reMap (⭐103)](https://github.com/remondis-it/remap) - Lambda and method handle-based mapping which requires code and not annotations if objects have different names.
+*   [reMap (⭐112)](https://github.com/remondis-it/remap) - Lambda and method handle-based mapping which requires code and not annotations if objects have different names.
 
 ### Bytecode Manipulation
 
-*   [Perses (⭐62)](https://github.com/nicolasmanic/perses) - Dynamically injects failure/latency at the bytecode level according to principles of chaos engineering.
+*   [Perses (⭐64)](https://github.com/nicolasmanic/perses) - Dynamically injects failure/latency at the bytecode level according to principles of chaos engineering.
 
-### Database
+### Database / Text-Based User Interfaces
 
 *   [druid](https://druid.apache.org) - High-performance, column-oriented, distributed data store.
 
-### IDE
+### IDE / Text-Based User Interfaces
 
 *   [jGRASP](https://www.jgrasp.org) - Created to provide software visualizations that work in conjunction with the debugger such as Control Structure Diagrams, UML class diagrams and Object Viewer.
 
-### Introspection
+### Introspection / Text-Based User Interfaces
 
 *   [Objenesis](http://objenesis.org) - Allows dynamic instantiation without default constructor, e.g. constructors which have required arguments, side effects or throw exceptions.
 
-### Networking
+### Networking / Text-Based User Interfaces
 
-*   [ServiceTalk (⭐814)](https://github.com/apple/servicetalk) - Framework built on Netty with APIs tailored to specific protocols and support for multiple programming paradigms.
+*   [ServiceTalk (⭐856)](https://github.com/apple/servicetalk) - Framework built on Netty with APIs tailored to specific protocols and support for multiple programming paradigms.
 
 ### People / Twitter
 
@@ -236,7 +236,7 @@
 
 ### RESTful
 
-*   [REST API (⭐83)](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon
+*   [REST API (⭐85)](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon
 
 ### Shop & Ecommerce
 
@@ -256,18 +256,18 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [dowel (⭐28)](https://github.com/rlworkgroup/dowel) - A little logger for machine learning research. Output any object to the terminal, CSV, TensorBoard, text logs on disk, and more with just one call to `logger.log()`.
+*   [dowel (⭐31)](https://github.com/rlworkgroup/dowel) - A little logger for machine learning research. Output any object to the terminal, CSV, TensorBoard, text logs on disk, and more with just one call to `logger.log()`.
 
 ### Python / Reinforcement Learning
 
 *   [garage (⭐1.7k)](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research
-*   [metaworld (⭐905)](https://github.com/rlworkgroup/metaworld) - An open source robotics benchmark for meta- and multi-task reinforcement learning
+*   [metaworld (⭐969)](https://github.com/rlworkgroup/metaworld) - An open source robotics benchmark for meta- and multi-task reinforcement learning
 
 ## [25. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### WSL Tools / Terminals
 
-*   [Windows Terminal (⭐89k)](https://github.com/microsoft/terminal) - The new open-source Windows Terminal. ![github\_project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [Windows Terminal (⭐90k)](https://github.com/microsoft/terminal) - The new open-source Windows Terminal. ![github\_project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [26. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
@@ -291,21 +291,21 @@
 
 ### Mods / Building
 
-*   [WorldEdit (⭐2.7k)](https://github.com/EngineHub/WorldEdit) - WorldEdit is an open source in-game map editor available for Bukkit, Forge, MinecraftEdu, and many other platforms.
+*   [WorldEdit (⭐2.9k)](https://github.com/EngineHub/WorldEdit) - WorldEdit is an open source in-game map editor available for Bukkit, Forge, MinecraftEdu, and many other platforms.
 
 ### Server Plugins / Building
 
-*   [WorldGuard (⭐729)](https://github.com/EngineHub/WorldGuard) - WorldGuard lets you and players guard areas of land against griefers and undesirables, as well as tweak and disable various gameplay features of Minecraft.
-*   [CraftBook (⭐281)](https://github.com/EngineHub/CraftBook) - CraftBook lets you create magically extending bridges, compact Redstone circuits, complex Minecart mechanics, and much more — all without a client mod and fully customizable by the server.
+*   [WorldGuard (⭐764)](https://github.com/EngineHub/WorldGuard) - WorldGuard lets you and players guard areas of land against griefers and undesirables, as well as tweak and disable various gameplay features of Minecraft.
+*   [CraftBook (⭐293)](https://github.com/EngineHub/CraftBook) - CraftBook lets you create magically extending bridges, compact Redstone circuits, complex Minecart mechanics, and much more — all without a client mod and fully customizable by the server.
 
 ### Web Applications / Building
 
-*   [Blessing Skin Server (⭐620)](https://github.com/bs-community/blessing-skin-server) - A web application brings your custom skins back in offline Minecraft servers.
+*   [Blessing Skin Server (⭐704)](https://github.com/bs-community/blessing-skin-server) - A web application brings your custom skins back in offline Minecraft servers.
 *   [WorldEdit Golf](https://worldedit.golf/) - Challenge others in a competition to use WorldEdit in as few commands as possible.
 
 ### Development / Launchers
 
-*   [SchematicWebViewer (⭐42)](https://github.com/EngineHub/SchematicWebViewer) - A JavaScript/TypeScript library for rendering and viewing Minecraft schematic files on the web.
+*   [SchematicWebViewer (⭐48)](https://github.com/EngineHub/SchematicWebViewer) - A JavaScript/TypeScript library for rendering and viewing Minecraft schematic files on the web.
 
 ## [30. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
 
@@ -319,15 +319,15 @@
 
 ### Monitoring/Statistics/Perfomance / Zabbix
 
-*   [Mamonsu (⭐175)](https://github.com/postgrespro/mamonsu) - Monitoring agent for PostgreSQL.
+*   [Mamonsu (⭐181)](https://github.com/postgrespro/mamonsu) - Monitoring agent for PostgreSQL.
 *   [pg\_monz (⭐162)](https://github.com/pg-monz/pg_monz) - This is the Zabbix monitoring template for PostgreSQL Database.
-*   [ZabbixDBA (⭐81)](https://github.com/anetrusov/ZabbixDBA) - ZabbixDBA is fast, flexible, and continuously developing plugin to monitor your RDBMS.
+*   [ZabbixDBA (⭐87)](https://github.com/anetrusov/ZabbixDBA) - ZabbixDBA is fast, flexible, and continuously developing plugin to monitor your RDBMS.
 
 ## [32. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Others
 
-*   [Blazor Tour of Heroes](https://github.com/georgemathieson/blazor-tour-of-heroes) - Blazor Tour of Heroes, using [Blazor-State (⭐432)](https://github.com/TimeWarpEngineering/blazor-state)(State Management architecture utilizing the MediatR pipeline) for the Redux style state.
+*   [Blazor Tour of Heroes](https://github.com/georgemathieson/blazor-tour-of-heroes) - Blazor Tour of Heroes, using [Blazor-State (⭐473)](https://github.com/TimeWarpEngineering/blazor-state)(State Management architecture utilizing the MediatR pipeline) for the Redux style state.
 
 ## [33. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
@@ -419,33 +419,33 @@
 
 ### Productivity
 
-*   [Todoist (⭐327)](https://github.com/moranje/alfred-workflow-todoist) - Add tasks to Todoist.
+*   [Todoist (⭐326)](https://github.com/moranje/alfred-workflow-todoist) - Add tasks to Todoist.
 
 ## [36. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
-*   [Image Sequence Animator (⭐134)](https://github.com/aliyigitbireroglu/flutter-image-sequence-animator) <!--stargazers:aliyigitbireroglu/flutter-image-sequence-animator--> - A simple widget for animating a set of images with full custom controls as an alternative to using a GIF file by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
+*   [Image Sequence Animator (⭐144)](https://github.com/aliyigitbireroglu/flutter-image-sequence-animator) <!--stargazers:aliyigitbireroglu/flutter-image-sequence-animator--> - A simple widget for animating a set of images with full custom controls as an alternative to using a GIF file by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
 
 ### Desktop / Game Engine resources
 
-*   [Golang Desktop Embedder (⭐5.5k)](https://github.com/go-flutter-desktop/go-flutter) <!--stargazers:go-flutter-desktop/go-flutter--> - Golang embedder for desktop by [Pierre Champion](https://github.com/pchampio)
+*   [Golang Desktop Embedder (⭐5.6k)](https://github.com/go-flutter-desktop/go-flutter) <!--stargazers:go-flutter-desktop/go-flutter--> - Golang embedder for desktop by [Pierre Champion](https://github.com/pchampio)
 
 ## [37. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authorization
 
-*   [ActionPolicy (⭐1.1k)](https://github.com/palkan/action_policy) - Authorization framework for Ruby and Rails applications. Composable, extensible and performant.
+*   [ActionPolicy (⭐1.2k)](https://github.com/palkan/action_policy) - Authorization framework for Ruby and Rails applications. Composable, extensible and performant.
 
 ### Web Crawling
 
-*   [Spidr (⭐759)](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
+*   [Spidr (⭐766)](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
 
 ## [38. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
-*   [Nitro 🚀 (⭐253)](https://github.com/williamluke4/nitro) - An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗
+*   [Nitro 🚀 (⭐263)](https://github.com/williamluke4/nitro) - An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗
 *   [Next Graphql Apollo Typescript\_Boostrap - Pobocha (⭐85)](https://github.com/Sebastp/Next-react-graphql-apollo_Boostrap) - React + GraphQL + Next.js + Apollo + Scss + Typescript + Prettier & EsLint boilerplate
 
 ## [39. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
@@ -517,26 +517,26 @@
 
 ### Evaluation
 
-*   [NLG-eval (⭐1.1k)](https://github.com/Maluuba/nlg-eval) - Evaluation code for various unsupervised automated metrics for Natural Language Generation.
-*   [VizSeq (⭐411)](https://github.com/facebookresearch/vizseq) - A Visual Analysis Toolkit for Text Generation Tasks.
+*   [NLG-eval (⭐1.2k)](https://github.com/Maluuba/nlg-eval) - Evaluation code for various unsupervised automated metrics for Natural Language Generation.
+*   [VizSeq (⭐434)](https://github.com/facebookresearch/vizseq) - A Visual Analysis Toolkit for Text Generation Tasks.
 
 ### Grammar
 
 *   [GrammaticalFramework](http://www.grammaticalframework.org/) - A programming language for multilingual grammar applications.
-*   [CCGweb (⭐5)](https://github.com/texttheater/ccgweb) - A Web platform for parsing and annotation.
+*   [CCGweb (⭐6)](https://github.com/texttheater/ccgweb) - A Web platform for parsing and annotation.
 
 ### Narrative Generation
 
-*   [Tracery (⭐2k)](https://github.com/galaxykate/tracery) - A story-grammar generation library for JavaScript.
+*   [Tracery (⭐2.1k)](https://github.com/galaxykate/tracery) - A story-grammar generation library for JavaScript.
 
 ### Neural Natural Language Generation
 
-*   [Image Caption Generator (⭐144)](https://github.com/neural-nuts/image-caption-generator) - A Neural Network based generative model for captioning images using Tensorflow.
-*   [Summary Generation From Structured Data (⭐185)](https://github.com/akanimax/natural-language-summary-generation-from-structured-data) - For converting information present in the form of structured data into natural language text.
+*   [Image Caption Generator (⭐145)](https://github.com/neural-nuts/image-caption-generator) - A Neural Network based generative model for captioning images using Tensorflow.
+*   [Summary Generation From Structured Data (⭐183)](https://github.com/akanimax/natural-language-summary-generation-from-structured-data) - For converting information present in the form of structured data into natural language text.
 
 ### Products
 
-*   [Accelerated Text (⭐669)](https://github.com/tokenmill/accelerated-text) - Automatically generate multiple natural language descriptions of your data varying in wording and structure.
+*   [Accelerated Text (⭐734)](https://github.com/tokenmill/accelerated-text) - Automatically generate multiple natural language descriptions of your data varying in wording and structure.
 *   [Twine](http://twinery.org/) - An open-source tool for telling interactive, nonlinear stories.
 
 ### Realizers
@@ -545,8 +545,8 @@
 
 ### Templating Languages
 
-*   [calyx (⭐59)](https://github.com/maetl/calyx) - A Ruby library for generating text with recursive template grammars.
-*   [nalgene (⭐55)](https://github.com/spro/nalgene) - Natural language generation language.
+*   [calyx (⭐60)](https://github.com/maetl/calyx) - A Ruby library for generating text with recursive template grammars.
+*   [nalgene (⭐54)](https://github.com/spro/nalgene) - Natural language generation language.
 *   [StringTemplate](https://www.stringtemplate.org/) - Java template engine (with ports for C##, Objective-C, JavaScript, Scala) for generating source code, web pages, emails, or any other formatted text output.
 
 ## [42. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
@@ -564,7 +564,7 @@
 
 ### Utilities / Theming and Customization
 
-*   [QuickWall (⭐184)](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
+*   [QuickWall (⭐185)](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
 
 ### Command Line Learning / Internet Speedtest
 
@@ -572,8 +572,8 @@
 
 ### Data Manipulation / JSON
 
-*   [strip-json-comments-cli (⭐61)](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
-*   [GROQ (⭐170)](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
+*   [strip-json-comments-cli (⭐64)](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
+*   [GROQ (⭐178)](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
 
 ## [44. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
@@ -586,7 +586,7 @@
 ### Asynchronous Programming
 
 *   [asyncio](https://docs.python.org/3/library/asyncio.html) - (Python standard library) Asynchronous I/O, event loop, coroutines and tasks.
-    *   [awesome-asyncio (⭐3.9k)](https://github.com/timofurrer/awesome-asyncio)
+    *   [awesome-asyncio (⭐4.1k)](https://github.com/timofurrer/awesome-asyncio)
 *   [Twisted](https://twistedmatrix.com/trac/) - An event-driven networking engine.
 
 ### GraphQL
@@ -596,28 +596,28 @@
 
 ### Network Virtualization
 
-*   [pox (⭐598)](https://github.com/noxrepo/pox) - A Python-based SDN control applications, such as OpenFlow SDN controllers.
+*   [pox (⭐601)](https://github.com/noxrepo/pox) - A Python-based SDN control applications, such as OpenFlow SDN controllers.
 
 ### Processes
 
-*   [delegator.py (⭐1.6k)](https://github.com/amitt001/delegator.py) - [Subprocesses](https://docs.python.org/3/library/subprocess.html) for Humans 2.0.
+*   [delegator.py (⭐1.7k)](https://github.com/amitt001/delegator.py) - [Subprocesses](https://docs.python.org/3/library/subprocess.html) for Humans 2.0.
 
 ### RESTful API
 
 *   Framework agnostic
     *   [apistar (⭐5.6k)](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3.
-    *   [falcon (⭐9k)](https://github.com/falconry/falcon) - A high-performance framework for building cloud APIs and web app backends.
-    *   [fastapi (⭐56k)](https://github.com/tiangolo/fastapi) - A modern, fast, web framework for building APIs with Python 3.6+ based on standard Python type hints.
+    *   [falcon (⭐9.2k)](https://github.com/falconry/falcon) - A high-performance framework for building cloud APIs and web app backends.
+    *   [fastapi (⭐60k)](https://github.com/tiangolo/fastapi) - A modern, fast, web framework for building APIs with Python 3.6+ based on standard Python type hints.
     *   [hug (⭐6.7k)](https://github.com/hugapi/hug) - A Python 3 framework for cleanly exposing APIs.
-    *   [sandman2 (⭐1.9k)](https://github.com/jeffknupp/sandman2) - Automated REST APIs for existing database-driven systems.
+    *   [sandman2 (⭐2k)](https://github.com/jeffknupp/sandman2) - Automated REST APIs for existing database-driven systems.
     *   [sanic (⭐17k)](https://github.com/huge-success/sanic) - A Python 3.6+ web server and web framework that's written to go fast.
     *   [vibora](https://vibora.io/) - Fast, efficient and asynchronous Web framework inspired by Flask.
 
 ### Task Queues
 
-*   [huey (⭐4.4k)](https://github.com/coleifer/huey) - Little multi-threaded task queue.
-*   [mrq (⭐874)](https://github.com/pricingassistant/mrq) - A distributed worker task queue in Python using Redis & gevent.
-*   [rq (⭐8.8k)](https://github.com/rq/rq) - Simple job queues for Python.
+*   [huey (⭐4.5k)](https://github.com/coleifer/huey) - Little multi-threaded task queue.
+*   [mrq (⭐873)](https://github.com/pricingassistant/mrq) - A distributed worker task queue in Python using Redis & gevent.
+*   [rq (⭐9k)](https://github.com/rq/rq) - Simple job queues for Python.
 
 ### Web Frameworks
 
@@ -627,14 +627,14 @@
 ### WebSocket
 
 *   [channels (⭐5.6k)](https://github.com/django/channels) - Developer-friendly asynchrony for Django.
-*   [websockets (⭐4.5k)](https://github.com/aaugustin/websockets) - A library for building WebSocket servers and clients with a focus on correctness and simplicity.
+*   [websockets (⭐4.6k)](https://github.com/aaugustin/websockets) - A library for building WebSocket servers and clients with a focus on correctness and simplicity.
 
 ### WSGI Servers
 
 *   [bjoern (⭐2.9k)](https://github.com/jonashaag/bjoern) - Asynchronous, very fast and written in C.
 *   [uWSGI](https://uwsgi-docs.readthedocs.io/en/latest/) - A project aims at developing a full stack for building hosting services, written in C.
-*   [waitress (⭐1.2k)](https://github.com/Pylons/waitress) - Multi-threaded, powers Pyramid.
-*   [werkzeug (⭐6.3k)](https://github.com/pallets/werkzeug) - A WSGI utility library for Python that powers Flask and can easily be embedded into your own projects.
+*   [waitress (⭐1.3k)](https://github.com/Pylons/waitress) - Multi-threaded, powers Pyramid.
+*   [werkzeug (⭐6.4k)](https://github.com/pallets/werkzeug) - A WSGI utility library for Python that powers Flask and can easily be embedded into your own projects.
 
 ## [46. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -674,13 +674,13 @@
 
 ### Cloud platform security / Security Orchestration, Automation, and Response (SOAR)
 
-*   [Prowler (⭐7.9k)](https://github.com/toniblyx/prowler) - Tool based on AWS-CLI commands for Amazon Web Services account security assessment and hardening.
-*   [Scout Suite (⭐5.2k)](https://github.com/nccgroup/ScoutSuite) - Open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments.
+*   [Prowler (⭐8.5k)](https://github.com/toniblyx/prowler) - Tool based on AWS-CLI commands for Amazon Web Services account security assessment and hardening.
+*   [Scout Suite (⭐5.6k)](https://github.com/nccgroup/ScoutSuite) - Open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments.
 
 ### Phishing awareness and reporting / Firewall appliances or distributions
 
-*   [CertSpotter (⭐594)](https://github.com/SSLMate/certspotter) - Certificate Transparency log monitor from SSLMate that alerts you when a SSL/TLS certificate is issued for one of your domains.
-*   [mailspoof (⭐91)](https://github.com/serain/mailspoof) - Scans SPF and DMARC records for issues that could allow email spoofing.
+*   [CertSpotter (⭐668)](https://github.com/SSLMate/certspotter) - Certificate Transparency log monitor from SSLMate that alerts you when a SSL/TLS certificate is issued for one of your domains.
+*   [mailspoof (⭐94)](https://github.com/serain/mailspoof) - Scans SPF and DMARC records for issues that could allow email spoofing.
 *   [phishing\_catcher (⭐1.5k)](https://github.com/x0rz/phishing_catcher) - Configurable script to watch for issuances of suspicious TLS certificates by domain name in the Certificate Transparency Log (CTL) using the [CertStream](https://certstream.calidog.io/) service.
 
 ## [49. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
@@ -727,7 +727,7 @@
 
 ### File Format Analysis Tools / Zealandia
 
-*   [ExifTool](https://www.sno.phy.queensu.ca/\~phil/exiftool/) - Platform-independent Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files.
+*   [ExifTool](https://www.sno.phy.queensu.ca/~phil/exiftool/) - Platform-independent Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files.
 *   [peepdf](https://eternal-todo.com/tools/peepdf-pdf-analysis-tool) - Python tool to explore PDF files in order to find out if the file can be harmful or not.
 
 ## [50. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)

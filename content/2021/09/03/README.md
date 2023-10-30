@@ -10,17 +10,17 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [SwiftPlantUML (⭐340)](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) - Generate and view class diagrams from Xcode for Swift code. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [SwiftPlantUML (⭐379)](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) - Generate and view class diagrams from Xcode for Swift code. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [Interface X (⭐64)](https://github.com/empathyco/x) - UI Search\&Discovery components to rapidly build beautiful search experiences
+*   [Interface X (⭐72)](https://github.com/empathyco/x) - UI Search\&Discovery components to rapidly build beautiful search experiences
 
 ## [3. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [The Black Box of Product Management](https://blackboxofpm.com/the-black-box-of-product-management-3feb65db6ddb) - By [Brandon Chu](https://medium.com/@brandonmchu).
 
@@ -58,8 +58,8 @@
 
 ### Audio
 
-*   [dr\_libs (⭐966)](https://github.com/mackron/dr_libs) - Single file audio decoding libraries for C and C++. \[Unlicense]
-*   [miniaudio (⭐2.8k)](https://github.com/mackron/miniaudio) - Single file audio playback and capture library. \[Unlicense] [website](https://miniaud.io/)
+*   [dr\_libs (⭐1k)](https://github.com/mackron/dr_libs) - Single file audio decoding libraries for C and C++. \[Unlicense]
+*   [miniaudio (⭐3.2k)](https://github.com/mackron/miniaudio) - Single file audio playback and capture library. \[Unlicense] [website](https://miniaud.io/)
 
 ## [8. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 

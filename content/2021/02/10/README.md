@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 10, 2021
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Books
 
-- API: [Crossref Metadata Search (⭐642)](https://github.com/CrossRef/rest-api-doc)
+- API: [Crossref Metadata Search (⭐695)](https://github.com/CrossRef/rest-api-doc)
 
   Description: Books & Articles Metadata
 
@@ -38,7 +38,7 @@
 
 ### Frameworks
 
-*   [C++ Workflow (⭐11k)](https://github.com/sogou/workflow) :zap: - C++ Parallel Computing and Asynchronous Networking Engine. \[Apache2]
+*   [C++ Workflow (⭐12k)](https://github.com/sogou/workflow) :zap: - C++ Parallel Computing and Asynchronous Networking Engine. \[Apache2]
 
 ## [5. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
@@ -50,36 +50,28 @@
 
 ### Utility / Barcode
 
-*   [SwiftPlantUML (⭐434)](https://github.com/MarcoEidinger/SwiftPlantUML) - A command-line tool and Swift Package to generate UML class from your Swift source code. Also available as Xcode Source Editor Extension.
+*   [SwiftPlantUML (⭐493)](https://github.com/MarcoEidinger/SwiftPlantUML) - A command-line tool and Swift Package to generate UML class from your Swift source code. Also available as Xcode Source Editor Extension.
 
 ## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### GUI
 
-*   [Ruby-GNOME (⭐365)](https://github.com/ruby-gnome/ruby-gnome) - Ruby language bindings for the GNOME development environment.
+*   [Ruby-GNOME (⭐370)](https://github.com/ruby-gnome/ruby-gnome) - Ruby language bindings for the GNOME development environment.
 
 ## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Hub (⭐5.8k)](https://github.com/activeloopai/Hub) - Fastest unstructured dataset management for TensorFlow/PyTorch. Stream & version-control data. Store even petabyte-scale data in a single numpy-like array on the cloud accessible on any machine. Visit [activeloop.ai](https://activeloop.ai) for more info.
+*   [Hub (⭐6.8k)](https://github.com/activeloopai/Hub) - Fastest unstructured dataset management for TensorFlow/PyTorch. Stream & version-control data. Store even petabyte-scale data in a single numpy-like array on the cloud accessible on any machine. Visit [activeloop.ai](https://activeloop.ai) for more info.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Email
 
-*   [Bump](https://bump.email/) - Free 10 Bump email addresses, 1 custom domain
+*   [Bump](https://bump.email/) - Free 10 Bump email addresses, one custom domain
 *   [temp-mail.io](https://temp-mail.io) — Free disposable temporary email service with multiple emails at once and forwarding
 
-## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
-
-### Project Management Tools / Telegram
-
-*   [ClickUp](https://www.clickup.com) - Heavy-weight Task Management
-*   [Scrumfast](https://www.scrumfast.com) - Light-weight, Free Project Management Tool
-*   [Trello](https://www.trello.com) - Free Team Project Board
-
-## [11. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
+## [10. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 
 ### Official resources
 
@@ -118,7 +110,7 @@
 
 *   [Salt Formulas](http://www.yet.org/2016/09/salt-formulas/) In-depth blogpost about Salt Formulas. :gem:
 
-## [12. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [11. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Inspired by Elm / Games
 

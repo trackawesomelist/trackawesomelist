@@ -10,7 +10,7 @@
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [docker-mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. Only configuration files, no SQL database. ([Source Code (⭐11k)](https://github.com/docker-mailserver/docker-mailserver)) `MIT` `Docker`
+*   [docker-mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. Only configuration files, no SQL database. ([Source Code (⭐12k)](https://github.com/docker-mailserver/docker-mailserver)) `MIT` `Docker`
 
 ## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -23,7 +23,7 @@
 
 ### Libraries/Frameworks / Database
 
-*   [darkredz/Zeko-SQL-Builder (⭐88)](https://github.com/darkredz/Zeko-SQL-Builder) - Zeko SQL Builder is a high-performance lightweight SQL query library written for Kotlin language
+*   [darkredz/Zeko-SQL-Builder (⭐92)](https://github.com/darkredz/Zeko-SQL-Builder) - Zeko SQL Builder is a high-performance lightweight SQL query library written for Kotlin language
 
 ## [4. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -49,16 +49,12 @@
 
 ### Terminal-based / programmable RSS readers / Outline Processor Markup Language
 
-*   [EAF RSS (⭐17)](https://github.com/emacs-eaf/eaf-rss-reader) <sup>[1124](https://t.me/s/aboutrss/1124)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/emacs-eaf/eaf-rss-reader)
+*   [EAF RSS (⭐20)](https://github.com/emacs-eaf/eaf-rss-reader) <sup>[1124](https://t.me/s/aboutrss/1124)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/emacs-eaf/eaf-rss-reader)
 
 ### RSS services powered by utilizing Notion / Outline Processor Markup Language
 
-*   [NotionFeeder (⭐210)](https://github.com/ravgeetdhillon/notion-feeder) <sup>[1126](https://t.me/s/aboutrss/1126)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ravgeetdhillon/notion-feeder)
+*   [NotionFeeder (⭐245)](https://github.com/ravgeetdhillon/notion-feeder) <sup>[1126](https://t.me/s/aboutrss/1126)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ravgeetdhillon/notion-feeder)
 *   [Notion-Feed](https://notion-feed.com/) <sup>[1149](https://t.me/s/aboutrss/1149)</sup>
-
-### RSS services powered by utilizing Obsidian / Outline Processor Markup Language
-
-*   [Obisidian-RSS (⭐230)](https://github.com/joethei/obsidian-rss) <sup>[1141](https://t.me/s/aboutrss/1141)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/joethei/obsidian-rss)
 
 ### 😎 Services that support RSS / Outline Processor Markup Language
 
@@ -74,7 +70,7 @@
 
 ### universally from / multiple sources
 
-*   [RSSerpent (⭐211)](https://github.com/RSSerpent/RSSerpent) <sup>[1063](https://t.me/s/aboutrss/1063), [1117](https://t.me/s/aboutrss/1117)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/RSSerpent/RSSerpent)
+*   [RSSerpent (⭐212)](https://github.com/RSSerpent/RSSerpent) <sup>[1063](https://t.me/s/aboutrss/1063), [1117](https://t.me/s/aboutrss/1117)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/RSSerpent/RSSerpent)
 
 ### universally from / search results
 
@@ -82,7 +78,7 @@
 
 ### specifically from (*a certain platform*) / YouTube
 
-*   [YouTube RSS Finder (⭐40)](https://github.com/teddy-gustiaux/youtube-rss-finder) <sup>[925](https://t.me/s/aboutrss/925)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/youtube-rss-finder/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/teddy-gustiaux/youtube-rss-finder)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [YouTube RSS Finder (⭐41)](https://github.com/teddy-gustiaux/youtube-rss-finder) <sup>[925](https://t.me/s/aboutrss/925)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/youtube-rss-finder/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/teddy-gustiaux/youtube-rss-finder)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### specifically from (*a certain platform*) / Links on social streams
 
@@ -111,7 +107,6 @@
 
 ### RSS2NEWSLETTER / Docsify
 
-*   [Bulletyn](http://bulletyn.co/) <sup>[1138](https://t.me/s/aboutrss/1138)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Taco Digest](https://tacodigest.com/) <sup>[1146](https://t.me/s/aboutrss/1146)</sup>
 
 ### RSS2WIDGET / For website
@@ -126,7 +121,7 @@
 
 *   [Renewed Tab](https://renewedtab.com/en/) <sup>[1113](https://t.me/s/aboutrss/1113)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/renewed-tab/laljofodhebajcajogbolahbjdcnfgkf)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/addon/renewed-tab/)
 
-### Change RSS feed into vertical text view / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Change RSS feed into vertical text view / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [tategaki.de](https://tategaki.de/feed?url=https://feeds.feedburner.com/allaboutrss) <sup>[1100](https://t.me/s/aboutrss/1100)</sup>
 
@@ -134,7 +129,7 @@
 
 *   [qBittorrent](https://www.qbittorrent.org) <sup>[1104](https://t.me/s/aboutrss/1104)</sup>
 
-### Social Newwork Based on RSS Feed / Crypto or Blockchain relevant
+### Social Network Based on RSS Feed / Crypto or Blockchain relevant
 
 *   [flus](https://flus.fr/) <sup>[1106](https://t.me/s/aboutrss/1106)</sup>
 

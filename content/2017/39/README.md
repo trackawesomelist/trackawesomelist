@@ -10,27 +10,27 @@
 
 ### C / Git
 
-*   [themis (⭐1.6k)](https://github.com/cossacklabs/themis) - High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many languages and platforms, suitable for client-server infastructures.
+*   [themis (⭐1.7k)](https://github.com/cossacklabs/themis) - High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many languages and platforms, suitable for client-server infastructures.
 
 ### Go / Git
 
-*   [goThemis (⭐1.6k)](https://github.com/cossacklabs/themis/wiki/Go-Howto) - Go wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+*   [goThemis (⭐1.7k)](https://github.com/cossacklabs/themis/wiki/Go-Howto) - Go wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ### Java / Git
 
-*   [Java Themis (⭐1.6k)](https://github.com/cossacklabs/themis/wiki/Java-and-Android-Howto) - Java/Android wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+*   [Java Themis (⭐1.7k)](https://github.com/cossacklabs/themis/wiki/Java-and-Android-Howto) - Java/Android wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ### PHP / Git
 
-*   [PHP Themis (⭐1.6k)](https://github.com/cossacklabs/themis/wiki/PHP-Howto) - PHP wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+*   [PHP Themis (⭐1.7k)](https://github.com/cossacklabs/themis/wiki/PHP-Howto) - PHP wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ### Python / Git
 
-*   [pythemis (⭐1.6k)](https://github.com/cossacklabs/themis/wiki/Python-Howto) - Python wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+*   [pythemis (⭐1.7k)](https://github.com/cossacklabs/themis/wiki/Python-Howto) - Python wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ### Ruby / Git
 
-*   [Ruby Themis (⭐1.6k)](https://github.com/cossacklabs/themis/wiki/Ruby-Howto) - Ruby wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+*   [Ruby Themis (⭐1.7k)](https://github.com/cossacklabs/themis/wiki/Ruby-Howto) - Ruby wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ## [2. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -69,27 +69,19 @@
 
 *   [nag2mqtt (⭐6)](https://github.com/DE-IBH/nag2mqtt) - Nagios event broker to MQTT gateway.
 
-## [4. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
-
-### Stalled Development
-
-*   [**Flexbox Grid**](https://flexboxgrid.com) - Grid based on CSS3 flexbox.\
-    ![](https://img.shields.io/github/stars/kristoferjoseph/flexboxgrid.svg?style=social\&label=Star)
-    [Repo (⭐9.3k)](https://github.com/kristoferjoseph/flexboxgrid)
-
-## [5. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
+## [4. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
 
 ### Videos / Old recordings
 
 *   [A Computer Animated Hand](https://www.youtube.com/watch?v=Jjbax5HYHLQ) (1972) - One of the earliest examples of computer animation
 
-## [6. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [5. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Hardware / Companies
 
 *   [Raptor Computing Systems](https://raptorcs.com/) - Desktops, motherboards, and other parts utilizing the IBM POWER9 processor and OpenBMC firmware.
 
-## [7. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [6. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Elastic Container Service
 
@@ -99,25 +91,25 @@
 
 *   [opsworks-cookbooks :fire::fire::fire::fire: (⭐1.1k)](https://github.com/aws/opsworks-cookbooks) - Chef Cookbooks.
 
-## [8. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [7. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Utility / Collection View Layout
 
-*   [VTAcknowledgementsViewController (⭐864)](https://github.com/vtourraine/VTAcknowledgementsViewController) - Ready to use “Acknowledgements”/“Licenses”/“Credits” view controller for CocoaPods.
+*   [VTAcknowledgementsViewController (⭐862)](https://github.com/vtourraine/VTAcknowledgementsViewController) - Ready to use “Acknowledgements”/“Licenses”/“Credits” view controller for CocoaPods.
 
-## [9. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [8. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / StreamField
 
-*   [wagtail-inventory (⭐49)](https://github.com/cfpb/wagtail-inventory) - Search Wagtail pages by the StreamField blocks they contain.
+*   [wagtail-inventory (⭐56)](https://github.com/cfpb/wagtail-inventory) - Search Wagtail pages by the StreamField blocks they contain.
 
-## [10. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [9. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Services
 
 *   [ipinfo.io](https://ipinfo.io) - JSON IP and GeoIP REST API.
 
-## [11. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
+## [10. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
 
 ### Official resources
 
@@ -137,7 +129,7 @@
 
 *   [Vagrant: Up and Running](https://www.amazon.com/Vagrant-Running-Virtualized-Development-Environments/dp/1449335837) by Mitchell Hashimoto.
 
-## [12. Awesome Design Principles](/content/robinstickel/awesome-design-principles/week/README.md)
+## [11. Awesome Design Principles](/content/robinstickel/awesome-design-principles/week/README.md)
 
 ### Articles about Design Principles
 
@@ -154,7 +146,7 @@
 *   [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) - Long list with well explained principles by Joshua Porter
 *   [Principles of Product Design](http://bokardo.com/principles-of-product-design/) - Long list with well explained principles by Joshua Porter
 
-## [13. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
+## [12. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 
 ### Contents / Plugins and addons
 
@@ -164,52 +156,52 @@
 
 *   [graforlock/choo-bandwagon (⭐13)](https://github.com/graforlock/choo-bandwagon)
 
-## [14. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [13. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Libraries and Mixins / Grid
 
 *   [Waffle Grid](https://lucasgruwez.github.io/waffle-grid/) - Easy to use flexbox grid system.
 
-## [15. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [14. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
-*   [Tell don't ask kata (⭐22)](https://github.com/gabrieletondi/tell-dont-ask-kata)
+*   [Tell don't ask kata (⭐26)](https://github.com/gabrieletondi/tell-dont-ask-kata)
 
-## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Design and Product / Other Tools
 
 *   [ImageAlpha](https://pngmini.com/) - Compress images with PNG format and remove transparency. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/pornel/ImageAlpha) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [17. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [16. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Transformations - General DSP
 
 *   [AudioTSM](https://audiotsm.readthedocs.io/) [:octocat: (⭐75)](https://github.com/Muges/audiotsm) [:package:](https://pypi.python.org/pypi/audiotsm/) - real-time audio time-scale modification procedures.
 
-## [18. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [17. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Code Analysis and Linter
 
-*   [yagni (⭐218)](https://github.com/venantius/yagni)
-*   [lein-bikeshed (⭐176)](https://github.com/dakrone/lein-bikeshed)
-*   [spectrum (⭐593)](https://github.com/arohner/spectrum)
-*   [cloverage (⭐490)](https://github.com/cloverage/cloverage)
+*   [yagni (⭐220)](https://github.com/venantius/yagni)
+*   [lein-bikeshed (⭐178)](https://github.com/dakrone/lein-bikeshed)
+*   [spectrum (⭐594)](https://github.com/arohner/spectrum)
+*   [cloverage (⭐494)](https://github.com/cloverage/cloverage)
 
-## [19. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [18. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Projects / Dedicated
 
 *   [grade (⭐42)](https://github.com/influxdata/grade) - Track Go benchmark performance over time by storing results in InfluxDB
 
-## [20. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [19. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### operations
 
 *   [geo\_assigner (⭐2)](https://github.com/stadt-karlsruhe/geo_assigner): Copy a property to all intersecting features
 
-## [21. Awesome Inspectit](/content/inspectit-labs/awesome-inspectit/week/README.md)
+## [20. Awesome Inspectit](/content/inspectit-labs/awesome-inspectit/week/README.md)
 
 ### Official Resources
 
@@ -232,37 +224,37 @@
 
 *   [Grafana Dashboards for inspectIT (⭐1)](https://github.com/inspectit-labs/dashboards) - GitHub repository containing Grafana dashboards for visualizing data from inspectIT.
 
-## [22. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [21. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Literature / Education
 
 *   [The Serverless Framework: Quick Start](http://codemore.teachable.com/p/serverless-framework-qs-node) - Video course which provides a quick start for the Serverless Framework.
 *   [Intro to the Serverless Framework](http://codemore.teachable.com/p/serverless-framework-node) - Introduction course for the Serverless Framework.
 
-## [23. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
+## [22. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
 
 ### Reset and Normalize / Editor's Draft :black_nib:
 
 *   [MiniReset.css (⭐2.6k)](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset.
 
-## [24. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [23. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### 2017 / Book/monograph Lists and Reviews
 
 *   [awesome-rshiny (⭐674)](https://github.com/grabear/awesome-rshiny)
 
-## [25. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [24. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
-*   [phox (⭐17)](https://github.com/herschel666/phox) - Create a static photo blog.
+*   [phox (⭐18)](https://github.com/herschel666/phox) - Create a static photo blog.
 
 ### Apps
 
-*   [Server Authentication with JWT (⭐106)](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation.
+*   [Server Authentication with JWT (⭐107)](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation.
 *   [Cookie handler with server render (⭐15)](https://github.com/estrada9166/cookie-handler-next.js) - Cookie handler with server render, access the cookie before render.
 
-## [26. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [25. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / A companies
 
@@ -324,13 +316,13 @@
 
 *   Srinivas Tamada <https://www.9lessons.info/>
 
-## [27. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [26. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Programming
 
 *   [Wallaroo](http://www.wallaroolabs.com/community) - The ultrafast and elastic data processing engine. Big or fast data - no fuss, no Java needed.
 
-## [28. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [27. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Maps and Visualizations / Particles
 
@@ -341,19 +333,19 @@
 *   [Blend4Web](https://www.blend4web.com/en/) - Tool for interactive 3D visualization on the Internet.
 *   [PlayCanvas](https://playcanvas.com/) - Game engine platform to build interactive experiences.
 
-## [29. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [28. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Libraries Visualization
 
 *   [wavesurfer.js](https://wavesurfer-js.org/) - A customizable audio waveform visualization, built on top of Web Audio API and HTML5 Canvas
 
-## [30. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [29. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Models/Projects
 
 *   [Unsupervised Object Counting (⭐82)](https://github.com/akosiorek/attend_infer_repeat) - Implementation of ["Attend, Infer, Repeat"](https://papers.nips.cc/paper/6230-attend-infer-repeat-fast-scene-understanding-with-generative-models)
 
-## [31. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [30. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Plugins / IRC
 
@@ -364,21 +356,21 @@
 *   South America
     *   Brazil - [packagist.com.br](https://packagist.com.br)
 
-## [32. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [31. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Database Drivers
 
-*   [progaudi.tarantool (⭐45)](https://github.com/progaudi/progaudi.tarantool) - .NET client for Tarantool NoSql database.
+*   [progaudi.tarantool (⭐46)](https://github.com/progaudi/progaudi.tarantool) - .NET client for Tarantool NoSql database.
 
 ### Frameworks, Libraries and Tools / Logging
 
-*   [log4net (⭐684)](https://github.com/apache/logging-log4net) - log4net is a port of the excellent Apache log4j™ framework to the Microsoft® .NET runtime.
+*   [log4net (⭐771)](https://github.com/apache/logging-log4net) - log4net is a port of the excellent Apache log4j™ framework to the Microsoft® .NET runtime.
 
-## [33. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [32. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Git Tools
 
-*   [RepoZ (⭐887)](https://github.com/awaescher/RepoZ) - A Git repository information aggregator with Windows Explorer & CLI-enhancements
+*   [RepoZ (⭐930)](https://github.com/awaescher/RepoZ) - A Git repository information aggregator with Windows Explorer & CLI-enhancements
 
 ### IoC
 
@@ -388,41 +380,41 @@
 
 *   [Utf8Json (⭐2.3k)](https://github.com/neuecc/Utf8Json) - Fast and Zero Allocation JSON Serializer for C#(.NET, .NET Core, Unity and Xamarin), this serializer write/read directly to UTF8 binary so boostup performance.
 
-## [34. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [33. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Infrastructure
 
-*   [Fastly Extension (⭐116)](https://github.com/fastly/fastly-magento2) - Magento 2 fastly integration.
+*   [Fastly Extension (⭐125)](https://github.com/fastly/fastly-magento2) - Magento 2 fastly integration.
 
 ### List of trustworthy Extension Developers / Progressive Web Application
 
 *   [Unirgy](http://www.unirgy.com/)
 
-## [35. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [34. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### Dashboard
 
 *   [PhalconTime (⭐6)](https://github.com/Videles/PhalconTime) - TimeKeeping tool / Dashboard skeleton
 
-## [36. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [35. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Others / Web project skeletons and generators
 
 *   [find-port (⭐18)](https://github.com/eudoxia0/find-port) -  Programmatically find open ports. [MIT](https://opensource.org/licenses/MIT).
 
-## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [36. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Utilities
 
-*   [VueGL (⭐621)](https://github.com/vue-gl/vue-gl) - Vue.js components rendering 3D graphics reactively via three.js
+*   [VueGL (⭐645)](https://github.com/vue-gl/vue-gl) - Vue.js components rendering 3D graphics reactively via three.js
 
-## [38. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [37. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / CLI
 
-*   [png-to-ico (⭐127)](https://github.com/steambap/png-to-ico) - Convert png to windows ico format.
+*   [png-to-ico (⭐141)](https://github.com/steambap/png-to-ico) - Convert png to windows ico format.
 
-## [39. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [38. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Tools / Linters
 
@@ -433,7 +425,7 @@
 *   [how-to-markdown (⭐202)](https://github.com/workshopper/how-to-markdown) - This workshopper will teach you how to use Markdown.
 *   [Markdown Guide](https://www.markdownguide.org) - A concise, barebones guide to Markdown.
 
-## [40. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [39. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### GNOME Communities / Skeumorphic Icons
 
@@ -445,7 +437,7 @@
 *   [`@gnome` on Twitter](https://twitter.com/gnome)
 *   [`GNOMEDesktop` on Youtube](https://www.youtube.com/user/GNOMEDesktop)
 
-## [41. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
+## [40. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
 
 ### What is Data Science?
 
@@ -484,7 +476,7 @@
 *   [Titanic Challenge](https://www.kaggle.com/c/titanic) - Predict survival on the Titanic.
 *   [Water Pump Challenge](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/) - Predict the operating condition of water pumps in Africa.
 
-## [42. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
+## [41. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
 
 ### Community / Transactions
 
@@ -494,6 +486,24 @@
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/hbase)
 *   [Twitter](https://twitter.com/HBase)
 
+## [42. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### C# / Non-X86
+
+*   [Data Structures and Algorithms with Object-Oriented Design Patterns in C#](https://web.archive.org/web/20161220072449/http://www.brpreiss.com/books/opus6/) - Bruno Preiss *(:card\_file\_box: archived)*
+
+### Go / Phoenix
+
+*   [Let's learn Go!](http://go-book.readthedocs.io/en/latest/)
+
+### TrueOS / PicoLisp
+
+*   [TrueOS® Users Handbook](https://www.trueos.org/handbook/trueos.html)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [The Coder's Apprentice: Learning Programming with Python 3](http://www.spronck.net/pythonbook/) - Pieter Spronck (PDF) (3.x)
+
 ## [43. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authorization
@@ -502,7 +512,7 @@
 
 ### CLI Utilities
 
-*   [TablePrint (⭐882)](https://github.com/arches/table_print) - Slice your data from multiple DB tables into a single CLI view.
+*   [TablePrint (⭐892)](https://github.com/arches/table_print) - Slice your data from multiple DB tables into a single CLI view.
 
 ## [44. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 

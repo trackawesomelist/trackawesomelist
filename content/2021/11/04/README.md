@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 04, 2021
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Keras Tuner (⭐2.7k)](https://github.com/keras-team/keras-tuner) - An easy-to-use, scalable hyperparameter optimization framework that solves the pain points of hyperparameter search.
+*   [Keras Tuner (⭐2.8k)](https://github.com/keras-team/keras-tuner) - An easy-to-use, scalable hyperparameter optimization framework that solves the pain points of hyperparameter search.
 
 ## [3. Awesome Kde](/content/francoism90/awesome-kde/README.md)
 
@@ -159,11 +159,11 @@
 
 ### Others
 
-*   [FFmpegBlazor (⭐101)](https://github.com/sps014/FFmpegBlazor) - ![stars](https://img.shields.io/github/stars/sps014/FFmpegBlazor?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/sps014/FFmpegBlazor?style=flat-square\&cacheSeconds=86400) FFmpegBlazor provides ability to utilize ffmpeg.wasm from Blazor Wasm C#. [ffmpeg.wasm (⭐10k)](https://github.com/ffmpegwasm/ffmpeg.wasm) ![stars](https://img.shields.io/github/stars/ffmpegwasm/ffmpeg.wasm?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/ffmpegwasm/ffmpeg.wasm?style=flat-square\&cacheSeconds=86400)  is a pure Webassembly / Javascript port of FFmpeg. It enables video & audio record, convert and stream right inside browsers.
+*   [FFmpegBlazor (⭐109)](https://github.com/sps014/FFmpegBlazor) - ![stars](https://img.shields.io/github/stars/sps014/FFmpegBlazor?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/sps014/FFmpegBlazor?style=flat-square\&cacheSeconds=86400) FFmpegBlazor provides ability to utilize ffmpeg.wasm from Blazor Wasm C#. [ffmpeg.wasm (⭐12k)](https://github.com/ffmpegwasm/ffmpeg.wasm) ![stars](https://img.shields.io/github/stars/ffmpegwasm/ffmpeg.wasm?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/ffmpegwasm/ffmpeg.wasm?style=flat-square\&cacheSeconds=86400)  is a pure Webassembly / Javascript port of FFmpeg. It enables video & audio record, convert and stream right inside browsers.
 
 ### Real-World applications / Others
 
-*   [Try .NET (⭐2.6k)](https://github.com/dotnet/try) - ![GitHub stars](https://img.shields.io/github/stars/dotnet/try?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dotnet/try?style=flat-square\&cacheSeconds=86400) Try .NET provides developers and content authors with tools to create interactive experiences.
+*   [Try .NET (⭐2.7k)](https://github.com/dotnet/try) - ![GitHub stars](https://img.shields.io/github/stars/dotnet/try?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dotnet/try?style=flat-square\&cacheSeconds=86400) Try .NET provides developers and content authors with tools to create interactive experiences.
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -191,11 +191,11 @@
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [shaeinst/roshnivim (⭐157)](https://github.com/shaeinst/roshnivim) - Roshnivim, can be called neovim's distro, is a predefined configs so that you don't need 1000hr to setup neovim as an IDE.
+*   [shaeinst/roshnivim (⭐173)](https://github.com/shaeinst/roshnivim) - Roshnivim, can be called neovim's distro, is a predefined configs so that you don't need 1000hr to setup neovim as an IDE.
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
 *   [PrefectCloud](https://www.prefect.io/cloud/) — A complete platform for dataflow automation. All plans include 20,000 free runs every month. That's enough to power ETL for most small businesses.
 
@@ -225,7 +225,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐6.5k)](https://github.com/DouyinFE/semi-design)
+  Source code \*: [:octocat: (⭐7.2k)](https://github.com/DouyinFE/semi-design)
 
 
 - : [Singapore Government Design System](https://www.designsystem.tech.gov.sg/)
@@ -236,9 +236,15 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐87)](https://github.com/govtechsg/sgds)
+  Source code \*: [:octocat: (⭐107)](https://github.com/govtechsg/sgds)
 
 
+
+## [13. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Java / Bootstrap
+
+*   [Java Masters](https://javamasters.io/servlets) - Java Masters (HTML)
 
 ---
 

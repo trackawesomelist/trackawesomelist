@@ -16,7 +16,7 @@
 
 ### Web Frameworks
 
-*   [Syro (⭐132)](https://github.com/soveran/syro/) - Simple router for web applications.
+*   [Syro (⭐136)](https://github.com/soveran/syro/) - Simple router for web applications.
 
 ## [3. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
@@ -41,7 +41,7 @@
 
 ### GUI
 
-*   [ScintillaNET (⭐919)](https://github.com/jacobslusser/ScintillaNET) - Windows Forms control for the Scintilla text editor component (Scintilla is used by Notepad++)
+*   [ScintillaNET (⭐940)](https://github.com/jacobslusser/ScintillaNET) - Windows Forms control for the Scintilla text editor component (Scintilla is used by Notepad++)
 
 ### Image Processing
 
@@ -49,15 +49,15 @@
 
 ### Media
 
-*   [NAudio (⭐4.6k)](https://github.com/naudio/NAudio) - Playback, decode and encode audio in a variety of file formats such as MP3, MP4, WAV, AIFF, Speex, etc.
+*   [NAudio (⭐4.9k)](https://github.com/naudio/NAudio) - Playback, decode and encode audio in a variety of file formats such as MP3, MP4, WAV, AIFF, Speex, etc.
 
 ### Protocols
 
-*   [SSH.NET (⭐3.3k)](https://github.com/sshnet/SSH.NET) - A Secure Shell (SSH) library for .NET, optimized for parallelism. Provides SSH commands, SFTP/SCP uploads and downloads, and SOCKS4/SOCKS5/HTTP proxies.
+*   [SSH.NET (⭐3.5k)](https://github.com/sshnet/SSH.NET) - A Secure Shell (SSH) library for .NET, optimized for parallelism. Provides SSH commands, SFTP/SCP uploads and downloads, and SOCKS4/SOCKS5/HTTP proxies.
 
 ### Web Browsers
 
-*   [CefSharp (⭐9.3k)](https://github.com/cefsharp/CefSharp/) - HTML5, CSS3 and JS web browser powered by Chromium, for WinForms and WPF
+*   [CefSharp (⭐9.4k)](https://github.com/cefsharp/CefSharp/) - HTML5, CSS3 and JS web browser powered by Chromium, for WinForms and WPF
 
 ## [7. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/README.md)
 

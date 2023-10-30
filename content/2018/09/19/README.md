@@ -52,7 +52,7 @@
 
 ### Applications / Episodes
 
-*   [CANalyzat0r (⭐656)](https://github.com/schutzwerk/CANalyzat0r) - A security analysis toolkit for proprietary car protocols.
+*   [CANalyzat0r (⭐681)](https://github.com/schutzwerk/CANalyzat0r) - A security analysis toolkit for proprietary car protocols.
 
 ## [6. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Joinville
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/nexwire" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/nexwire" height="70px" width="70px" align="left" alt="" />
 
 **Marcelo Camargo**\
 Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda Calculus\

@@ -1,18 +1,24 @@
 # Awesome List Updates on Nov 19, 2022
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [1. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
+
+### Useful links with tips & tricks
+
+*   [How To Add Images To A GitHub Wiki](http://mikehadlow.blogspot.com/2014/03/how-to-add-images-to-github-wiki.html)
+
+## [2. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Community / Ephemera
 
 *   \#PenPlotter - Mastodon/ActivityPub hashtag that plotter folks are mostly congregating under.
 
-## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / RSS
 
@@ -20,32 +26,32 @@
 
 ### Utilities / General Tools
 
-*   [DevToysMac (⭐7.2k)](https://github.com/ObuchiYuki/DevToysMac) - Offline toolbox that helps developers in daily tasks. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [DevToysMac (⭐7.6k)](https://github.com/ObuchiYuki/DevToysMac) - Offline toolbox that helps developers in daily tasks. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Testing
 
-*   [Ninja-Squad/springmockk (⭐420)](https://github.com/Ninja-Squad/springmockk) - SpringMockK: MockBean and SpyBean, but for MockK instead of Mockito
+*   [Ninja-Squad/springmockk (⭐443)](https://github.com/Ninja-Squad/springmockk) - SpringMockK: MockBean and SpyBean, but for MockK instead of Mockito
 
-## [4. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
+## [5. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
 
 ### Reporting Systems
 
 *   [NORS](https://wwwn.cdc.gov/norsdashboard/) - A web platform that provides human foodborne, waterborne, and other enteric infectious disease outbreaks  for the United States. Available from 1971.
 
-## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fnm (⭐0)](https://github.com/zap-zsh/fnm) - Adds tab completions for Fast Node Manager [fnm (⭐12k)](https://github.com/Schniz/fnm).
+*   [fnm (⭐0)](https://github.com/zap-zsh/fnm) - Adds tab completions for Fast Node Manager [fnm (⭐14k)](https://github.com/Schniz/fnm).
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [easytocloud (⭐0)](https://github.com/easytocloud/oh-my-easytocloud) - Based on [agnoster (⭐3.7k)](https://github.com/agnoster/agnoster-zsh-theme), with an added AWS environment decorator.
+*   [easytocloud (⭐0)](https://github.com/easytocloud/oh-my-easytocloud) - Based on [agnoster (⭐3.8k)](https://github.com/agnoster/agnoster-zsh-theme). Includes decorators for AWS environment, `git` status, username and the current directory.
 *   [malev (⭐0)](https://github.com/mvinan/malev-zsh-theme) - Has minimalist and normal variants. Includes decorators for hostname, directory, `git` status and the last command's exit status.
 
-## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [7. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Crash Courses
 

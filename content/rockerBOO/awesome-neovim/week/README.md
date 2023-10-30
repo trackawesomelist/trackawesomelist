@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ [Daily](/content/rockerBOO/awesome-neovim/README.md) / Weekly / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
+
+### (requires Neovim 0.5)
+
+*   [mrcjkb/haskell-tools.nvim (⭐309)](https://github.com/mrcjkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
+
+### Snippet / Diagnostics
+
+*   [mrcjkb/haskell-snippets.nvim (⭐9)](https://github.com/mrcjkb/haskell-snippets.nvim) - Haskell snippets for LuaSnip, powered by Tree-sitter and LSP.
+
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
 ### (requires Neovim 0.5)
@@ -88,7 +98,7 @@ Collections of awesome neovim plugins.
 
 ### Note Taking / Diagnostics
 
-*   [gsuuon/note.nvim (⭐7)](https://github.com/gsuuon/note.nvim) - Daily tasks with deep-linking and project spaces.
+*   [gsuuon/note.nvim (⭐20)](https://github.com/gsuuon/note.nvim) - Daily tasks with deep-linking and project spaces.
 
 ### Utility / Diagnostics
 
@@ -96,7 +106,7 @@ Collections of awesome neovim plugins.
 
 ### Remote Development / Diagnostics
 
-*   [niuiic/remote.nvim (⭐0)](https://github.com/niuiic/remote.nvim) - Edit remote files with local configuration.
+*   [niuiic/remote.nvim (⭐21)](https://github.com/niuiic/remote.nvim) - Edit remote files with local configuration.
 
 ## [Oct 02 - Oct 08, 2023](/content/2023/40/README.md)
 
@@ -137,7 +147,7 @@ Collections of awesome neovim plugins.
 
 ### Cursorline / Diagnostics
 
-*   [sontungexpt/stcursorword (⭐15)](https://github.com/sontungexpt/stcursorword) - Highlight the word under the cursor (Improved and compact version of nvim-cursorline).
+*   [sontungexpt/stcursorword (⭐16)](https://github.com/sontungexpt/stcursorword) - Highlight the word under the cursor (Improved and compact version of nvim-cursorline).
 
 ### Git / Diagnostics
 
@@ -1094,10 +1104,6 @@ Collections of awesome neovim plugins.
 *   [nvim-zh/colorful-winsep.nvim (⭐308)](https://github.com/nvim-zh/colorful-winsep.nvim) - A configurable color split line.
 
 ## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
-
-### (requires Neovim 0.5)
-
-*   [MrcJkb/haskell-tools.nvim (⭐300)](https://github.com/MrcJkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
 
 ### Motion / Diagnostics
 

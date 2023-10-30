@@ -56,7 +56,7 @@
 
 ### Miscellaneous
 
-*   [bruck (⭐486)](https://github.com/Heydon/bruck) - Prototyping system built with web components and the Houdini Paint API.
+*   [bruck (⭐487)](https://github.com/Heydon/bruck) - Prototyping system built with web components and the Houdini Paint API.
 *   [webcomponents.org](http://webcomponents.org/) - Discuss & share web components.
 
 ## [5. Awesome Msr](/content/dspinellis/awesome-msr/README.md)
@@ -80,7 +80,7 @@
 
 ### Other
 
-*   [luna (⭐983)](https://github.com/rvpanoz/luna) - App to manage npm dependencies.
+*   [luna (⭐995)](https://github.com/rvpanoz/luna) - App to manage npm dependencies.
 *   [emma-cli (⭐1.2k)](https://github.com/maticzav/emma-cli) - Interactive CLI package search utility.
 
 ## [8. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
@@ -117,7 +117,7 @@
 
 ### Monetization / Preferences
 
-*   [Facebook Audience Network (⭐148)](https://github.com/dreamsoftin/facebook_audience_network) - Facebook Audience Network Ad plugin that shows banner, interstitial, in-stream video, rewarded video & natvie ads by [Dreamsoft Innovations](https://github.com/dreamsoftin).
+*   [Facebook Audience Network (⭐152)](https://github.com/dreamsoftin/facebook_audience_network) - Facebook Audience Network Ad plugin that shows banner, interstitial, in-stream video, rewarded video & natvie ads by [Dreamsoft Innovations](https://github.com/dreamsoftin).
 
 ## [13. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
@@ -130,8 +130,8 @@
 
 ### For Electron / Other
 
-*   [debugtron (⭐973)](https://github.com/pd4d10/debugtron) - Debug in-production Electron-based apps.
-*   [electron-chrome-extension (⭐123)](https://github.com/getstation/electron-chrome-extension) - Add support for Chrome extensions.
+*   [debugtron (⭐1.1k)](https://github.com/pd4d10/debugtron) - Debug in-production Electron-based apps.
+*   [electron-chrome-extension (⭐129)](https://github.com/getstation/electron-chrome-extension) - Add support for Chrome extensions.
 
 ## [15. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -143,7 +143,7 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Prodmodel (⭐54)](https://github.com/prodmodel/prodmodel) - Build tool for data science pipelines.
+*   [Prodmodel (⭐55)](https://github.com/prodmodel/prodmodel) - Build tool for data science pipelines.
 
 ---
 

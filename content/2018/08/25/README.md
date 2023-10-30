@@ -16,9 +16,9 @@
 
 ### Libraries / Artificial Intelligence
 
-*   [innoave/genevo (⭐127)](https://github.com/innoave/genevo) — Execute genetic algorithm (GA) simulations in a customizable and extensible way.
+*   [innoave/genevo (⭐145)](https://github.com/innoave/genevo) — Execute genetic algorithm (GA) simulations in a customizable and extensible way.
 *   [m-decoster/RsGenetic (⭐74)](https://github.com/m-decoster/RsGenetic) — Genetic Algorithm library in Rust. In maintenance mode.
-*   [autumnai/leaf (⭐5.5k)](https://github.com/autumnai/leaf) — Open Machine Intelligence framework.. Abandoned project. The most updated fork is [spearow/juice (⭐1k)](https://github.com/spearow/juice).
+*   [autumnai/leaf (⭐5.5k)](https://github.com/autumnai/leaf) — Open Machine Intelligence framework.. Abandoned project. The most updated fork is [spearow/juice (⭐1.1k)](https://github.com/spearow/juice).
 
 ## [3. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Business Intelligence
 
-*   [Metabase (⭐30k)](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company.
+*   [Metabase (⭐32k)](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company.
 
 ## [4. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
@@ -134,16 +134,16 @@
 
 ### Database
 
-*   [nanodbc (⭐280)](https://github.com/nanodbc/nanodbc) - A small C++ wrapper for the native C ODBC API. \[MIT]
+*   [nanodbc (⭐292)](https://github.com/nanodbc/nanodbc) - A small C++ wrapper for the native C ODBC API. \[MIT]
 *   [ODB](https://www.codesynthesis.com/products/odb/) - An open-source, cross-platform, and cross-database object-relational mapping (ORM) system for C++. \[GPLv2]
 
 ### Game Engine
 
-*   [Acid (⭐1.5k)](https://github.com/Equilibrium-Games/Acid) - A high speed C++17 Vulkan game engine. \[MIT]
+*   [Acid (⭐1.6k)](https://github.com/Equilibrium-Games/Acid) - A high speed C++17 Vulkan game engine. \[MIT]
 
 ### Math
 
-*   [TinyExpr (⭐1.3k)](https://github.com/codeplea/tinyexpr) - A C library for parsing and evaluating math expressions from strings. \[zlib]
+*   [TinyExpr (⭐1.4k)](https://github.com/codeplea/tinyexpr) - A C library for parsing and evaluating math expressions from strings. \[zlib]
 
 ---
 

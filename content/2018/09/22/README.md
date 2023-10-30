@@ -32,7 +32,7 @@
 
 ### Software / Utilities
 
-*   [Search Deflector](https://spikespaz.com/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. ([MIT (⭐878)](https://github.com/spikespaz/search-deflector/blob/master/LICENSE))
+*   [Search Deflector](https://spikespaz.com/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. ([MIT (⭐888)](https://github.com/spikespaz/search-deflector/blob/master/LICENSE))
 
 ## [5. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

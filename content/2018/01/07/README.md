@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 07, 2018
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Protocols
 
-*   [DNS (⭐374)](https://github.com/kapetan/dns) - A library for parsing and serializing DNS messages. Includes a basic DNS client and server.
+*   [DNS (⭐389)](https://github.com/kapetan/dns) - A library for parsing and serializing DNS messages. Includes a basic DNS client and server.
 
 ## [2. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
@@ -18,25 +18,19 @@
 
 *   [Tensorflow FastText (⭐306)](https://github.com/apcode/tensorflow_fasttext) - A simple embedding based text classifier inspired by Facebook's fastText.
 
-## [3. Awesome Osint](/content/jivoi/awesome-osint/README.md)
-
-### Social Media Tools / Twitter
-
-*   [Spoonbill](http://spoonbill.io)
-
-## [4. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [3. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Lambda
 
 *   [trek10inc/aws-lambda-debugger :fire::fire: (⭐290)](https://github.com/trek10inc/aws-lambda-debugger) - Remote debugging tool for Lambda functions running on Node 6.10
 
-## [5. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Web / Scanning / Pentesting
 
-*   [Infection Monkey (⭐6.2k)](https://github.com/guardicore/monkey) - A semi automatic pen testing tool for mapping/pen-testing networks. Simulates a human attacker.
+*   [Infection Monkey (⭐6.3k)](https://github.com/guardicore/monkey) - A semi automatic pen testing tool for mapping/pen-testing networks. Simulates a human attacker.
 
-## [6. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
+## [5. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 
 ### Tools / Editors
 
@@ -60,11 +54,11 @@
 
 *   [GitHub's Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
-## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### CLOS extensions
 
-*   [defclass-std (⭐35)](https://github.com/EuAndreh/defclass-std) - a shortcut macro to write DEFCLASS forms quickly. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [defclass-std (⭐36)](https://github.com/EuAndreh/defclass-std) - a shortcut macro to write DEFCLASS forms quickly. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ---
 

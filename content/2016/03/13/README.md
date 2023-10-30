@@ -16,14 +16,14 @@
 
 ### Libraries
 
-*   [fnuc (⭐13)](https://github.com/algesten/fnuc) – A functional library for CoffeeScript (and JavaScript) to facilitate functional composition and higher order functions.
+*   [fnuc (⭐15)](https://github.com/algesten/fnuc) – A functional library for CoffeeScript (and JavaScript) to facilitate functional composition and higher order functions.
 *   [curry (⭐85)](https://github.com/thisables/curry) – Curry your functions using function bind syntax.
-*   [compose-function (⭐56)](https://github.com/stoeffel/compose-function) – Compose a new function from smaller functions.
-*   [functionize (⭐48)](https://github.com/paldepind/functionize) – A collection of functions which aid in making non-functional libraries functional.
-*   [lambdajs (⭐145)](https://github.com/loop-recur/lambdajs) – The full ECMAScript API done a functional way.
+*   [compose-function (⭐57)](https://github.com/stoeffel/compose-function) – Compose a new function from smaller functions.
+*   [functionize (⭐50)](https://github.com/paldepind/functionize) – A collection of functions which aid in making non-functional libraries functional.
+*   [lambdajs (⭐144)](https://github.com/loop-recur/lambdajs) – The full ECMAScript API done a functional way.
 *   [fp-dom](https://github.com/fp-dom/) – Making the DOM functional.
 *   [trifl (⭐36)](https://github.com/algesten/trifl) – A functional user interface library with unidirectional dataflow and a virtual dom.
-*   [funcy (⭐249)](https://github.com/bramstein/funcy) – An experiment in adding functional pattern matching to JavaScript. *Experimental*  :triangular\_flag\_on\_post:
+*   [funcy (⭐247)](https://github.com/bramstein/funcy) – An experiment in adding functional pattern matching to JavaScript. *Experimental*  :triangular\_flag\_on\_post:
 *   [\_part\_ (⭐41)](https://github.com/AutoSponge/_part_) – A micro library that encourages functional programming by making native methods available as partially applied functions.
 
 ### Libraries / Data Structures
@@ -33,26 +33,26 @@
 
 ### Libraries / Algebraic Data Types
 
-*   [daggy (⭐696)](https://github.com/puffnfresh/daggy) – Library for creating tagged constructors.
-*   [fantasy-combinators (⭐64)](https://github.com/fantasyland/fantasy-combinators) – Common combinators.
+*   [daggy (⭐695)](https://github.com/puffnfresh/daggy) – Library for creating tagged constructors.
+*   [fantasy-combinators (⭐66)](https://github.com/fantasyland/fantasy-combinators) – Common combinators.
 *   [fantasy-birds (⭐85)](https://github.com/fantasyland/fantasy-birds) – Port of the Haskell package Data.Aviary.Birds. Everything for your combinatory needs.
 
 ### Libraries / Lenses
 
-*   [lenses (⭐212)](https://github.com/DrBoolean/lenses) – Composable [kmett (⭐1.9k)](https://github.com/ekmett/lens) style lenses.
-*   [optics (⭐84)](https://github.com/flunc/optics) – Profunctor optics (Lens, Prism, iso).
+*   [lenses (⭐211)](https://github.com/DrBoolean/lenses) – Composable [kmett (⭐2k)](https://github.com/ekmett/lens) style lenses.
+*   [optics (⭐86)](https://github.com/flunc/optics) – Profunctor optics (Lens, Prism, iso).
 *   [ramda-lens (⭐182)](https://github.com/ramda/ramda-lens) – :ram: :mag\_right: Lens library built on Ramda.
 *   [fantasy-lenses (⭐108)](https://github.com/fantasyland/fantasy-lenses) – Composable, immutable getters and setters. (Profunctor lenses WIP)
-*   [nanoscope (⭐177)](https://github.com/5outh/nanoscope) – Lenses with dotty support.
+*   [nanoscope (⭐176)](https://github.com/5outh/nanoscope) – Lenses with dotty support.
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
-*   [ClojureScript (⭐9k)](https://github.com/clojure/clojurescript) – Compiles [Clojure](http://clojure.org/), a hosted Lisp with immutable persistent data structures, to JavaScript.
+*   [ClojureScript (⭐9.1k)](https://github.com/clojure/clojurescript) – Compiles [Clojure](http://clojure.org/), a hosted Lisp with immutable persistent data structures, to JavaScript.
 *   [Elm](http://elm-lang.org/) – A type-safe functional programming language for declaratively creating web browser-based graphical user interfaces. Implemented in Haskell.
 *   [PureScript](http://www.purescript.org/) – A small strongly typed programming language that compiles to JavaScript.
 *   [Idris](http://www.idris-lang.org/) – A general purpose pure functional programming language with dependent types.
 *   [GHCJS (⭐2.6k)](https://github.com/ghcjs/ghcjs) – [Haskell](https://www.haskell.org/) to JavaScript compiler, based on GHC.
-*   [ElixirScript (⭐1.5k)](https://github.com/bryanjos/elixirscript) – Compiles a subset of [Elixir](http://elixir-lang.org/), a dynamic, functional language designed for building scalable and maintainable applications, to JavaScript.
+*   [ElixirScript (⭐1.6k)](https://github.com/bryanjos/elixirscript) – Compiles a subset of [Elixir](http://elixir-lang.org/), a dynamic, functional language designed for building scalable and maintainable applications, to JavaScript.
 *   [Js\_of\_ocaml](http://ocsigen.org/js_of_ocaml/) – Compiles [OCaml](http://ocaml.org/) bytecode to JavaScript, making it possible to run OCaml programs in the browser.
 *   [Scala.js](http://www.scala-js.org/) – Compiles [Scala](http://www.scala-lang.org/) to JavaScript.
 *   [LiveScript](http://gkz.github.io/LiveScript/) – LiveScript has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate.
@@ -68,19 +68,19 @@
 ### Resources / Examples and Exercises
 
 *   [functional-frontend-architecture (⭐1.4k)](https://github.com/paldepind/functional-frontend-architecture) – A functional frontend framework. Based on Ramda + union-type-js + Flyd + Snabbdom
-*   [cube-composer (⭐1.9k)](https://github.com/sharkdp/cube-composer) – A puzzle game inspired by functional programming.
-*   [FP Youtube Search (⭐58)](https://github.com/jaysoo/example-fp-youtube-search) – YouTube search app with ReactJS, Redux, and FP concepts
+*   [cube-composer (⭐2k)](https://github.com/sharkdp/cube-composer) – A puzzle game inspired by functional programming.
+*   [FP Youtube Search (⭐57)](https://github.com/jaysoo/example-fp-youtube-search) – YouTube search app with ReactJS, Redux, and FP concepts
 *   [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/) – Learn to apply techniques from the forefront of computer science research to solve practical problems in Javascript. Discover functional programming and see it demonstrated step-by-step with how to build an example web app using abstract interfaces like Monads, Functors, Monoids and Applicatives. (*commercial*)
 
 ### Community / Related Lists
 
-*   [Awesome FRP JS (⭐284)](https://github.com/stoeffel/awesome-frp-js) – A curated list of awesome (functional) reactive programming stuff in JavaScript.
+*   [Awesome FRP JS (⭐286)](https://github.com/stoeffel/awesome-frp-js) – A curated list of awesome (functional) reactive programming stuff in JavaScript.
 
 ## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / Scanning / Pentesting
 
-*   [pig (⭐442)](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool.
+*   [pig (⭐452)](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool.
 
 ## [4. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/README.md)
 
@@ -92,11 +92,11 @@
 
 ### Email
 
-*   [gmail (⭐47)](https://github.com/craigp/elixir-gmail) - A simple Gmail REST API client for Elixir.
+*   [gmail (⭐48)](https://github.com/craigp/elixir-gmail) - A simple Gmail REST API client for Elixir.
 
 ### Logging
 
-*   [slack\_logger\_backend (⭐32)](https://github.com/craigp/slack_logger_backend) - A logger backend for posting errors to Slack.
+*   [slack\_logger\_backend (⭐33)](https://github.com/craigp/slack_logger_backend) - A logger backend for posting errors to Slack.
 
 ## [6. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/README.md)
 

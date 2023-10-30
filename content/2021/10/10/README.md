@@ -13,11 +13,26 @@
 *   [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/)
 *   [Deep Learning with PyTorch](https://www.simonandschuster.com/books/Deep-Learning-with-PyTorch/Eli-Stevens/9781617295263)
 
-## [2. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
+## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### Go / 理論計算機科学
+### C++ / Non-X86
 
-*   [とほほの Go 言語入門](https://www.tohoho-web.com/ex/golang.html) - 杜甫々
+*   [Working Draft, Standard for Programming Language C++, 2021 Revision](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/n4885.pdf) - Thomas Köppe (PDF) *(:construction: in process)*
+
+### CMake / Non-X86
+
+*   [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/) - Henry Schreiner (HTML)
+*   [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html) (HTML)
+*   [Quick CMake tutorial](https://www.jetbrains.com/help/clion/quick-cmake-tutorial.html) (HTML)
+
+### JavaScript / Node.js
+
+*   [From Containers to Kubernetes with Node.js](https://www.digitalocean.com/community/books/from-containers-to-kubernetes-with-node-js-ebook) - Kathleen Juell (PDF, EPUB)
+*   [Mastering Node (⭐1.8k)](https://github.com/visionmedia/masteringnode) - visionmedia ([PDF (⭐1.8k)](https://github.com/visionmedia/masteringnode/blob/master/book.pdf))
+
+### Kotlin / Vue.js
+
+*   [Kotlin Quick Reference](https://kotlin-quick-reference.com) - Alvin Alexander (gitbook)
 
 ## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -41,17 +56,17 @@
 
 ### Web Hosting
 
-*   [FreeFlarum](https://freeflarum.com/) - Community powered free Flarum hosting for up to 250 users (donate to remove watermark from footer).
+*   [FreeFlarum](https://freeflarum.com/) - Community-powered free Flarum hosting for up to 250 users (donate to remove the watermark from the footer).
 
 ## [7. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
 ### Resources / Controllers
 
-*   [gdx-controllers (⭐52)](https://github.com/libgdx/gdx-controllers) - Adds support to gamepads and joysticks.
+*   [gdx-controllers (⭐61)](https://github.com/libgdx/gdx-controllers) - Adds support to gamepads and joysticks.
 
 ### Resources / Others
 
-*   [gdx-jnigen (⭐40)](https://github.com/libgdx/gdx-jnigen) - Small library that allows C/C++ code to be written inline with Java source code.
+*   [gdx-jnigen (⭐42)](https://github.com/libgdx/gdx-jnigen) - Small library that allows C/C++ code to be written inline with Java source code.
 
 ## [8. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -95,7 +110,7 @@
 
 ### Reference Resources / Workato
 
-*   [Custom Connector Docs (⭐39)](https://github.com/workato/custom_connector_docs) - Source files for Workato custom connector documentation.
+*   [Custom Connector Docs (⭐40)](https://github.com/workato/custom_connector_docs) - Source files for Workato custom connector documentation.
 
 ### Learning Resources / Workato
 
@@ -119,7 +134,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-color-input (⭐15)](https://github.com/gVguy/vue-color-input) – Vue 3 color picker component whose goal is to replace `<input type="color">`
+*   [vue-color-input (⭐19)](https://github.com/gVguy/vue-color-input) – Vue 3 color picker component whose goal is to replace `<input type="color">`
 
 ## [12. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
@@ -135,7 +150,7 @@
 
 ### Libraries / Asynchronous
 
-*   [async-std](https://async.rs/) [\[async-std\]](https://crates.io/crates/async-std) - Async version of the Rust standard library [![CI](https://github.com/async-rs/async-std/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/async-rs/async-std/actions/workflows/ci.yml)
+*   [async-std](https://async.rs/) \[[async-std](https://crates.io/crates/async-std)] - Async version of the Rust standard library [![CI](https://github.com/async-rs/async-std/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/async-rs/async-std/actions/workflows/ci.yml)
 
 ## [14. Awesome Open Company](/content/opencompany/awesome-open-company/README.md)
 
@@ -147,7 +162,7 @@
 
 ### Fuzzy Finder / Diagnostics
 
-*   [jvgrootveld/telescope-zoxide (⭐187)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐11k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
+*   [jvgrootveld/telescope-zoxide (⭐220)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐12k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 
 ## [16. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -221,7 +236,7 @@
 
 ### Cryptocurrency
 
-- API: [Ethplorer (⭐747)](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API)
+- API: [Ethplorer (⭐802)](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API)
 
   Description: Ethereum tokens, balances, addresses, history of transactions, contracts, and custom structures
 

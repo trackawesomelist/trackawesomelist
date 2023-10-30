@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 17, 2022
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -17,7 +17,7 @@
 
 ### Books / Visualization Tools
 
-*   [Data Mesh in Action](https://www.manning.com/books/data-mesh-in-action) - Early access
+*   [Data Mesh in Action](https://www.manning.com/books/data-mesh-in-action) - Early Access
 
 ## [3. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -30,15 +30,15 @@
 ### Programming Languages / PHP
 
 *   [composer-plugin-nixify (⭐14)](https://github.com/stephank/composer-plugin-nixify) - Composer plugin to help with Nix packaging.
-*   [nix-shell (⭐89)](https://github.com/loophp/nix-shell/) - Nix shells for PHP development.
+*   [nix-shell (⭐112)](https://github.com/loophp/nix-shell/) - Nix shells for PHP development.
 
-### NixOS Modules / Scala
+### NixOS Modules / Zig
 
-*   [base16.nix (⭐98)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐233)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
+*   [base16.nix (⭐124)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐312)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [kubecolor (trejo08) (⭐4)](https://github.com/trejo08/kubecolor-zsh) - Prints colorized outputs from  `kubectl`. Includes helper functions.
 *   [kubectl-config-switcher (⭐0)](https://github.com/chmouel/kubectl-config-switcher/) - Switch between config files in `~/.kube` via the `KUBECTL` environment variable.
@@ -49,19 +49,13 @@
 
 *   [CityGML](https://www.ogc.org/standards/citygml) - The CityGML standard defines a conceptual model and exchange format for the representation, storage and exchange of virtual 3D city models. It enables an interdisciplinary common operating platform for civic systems.
 
-## [7. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
-
-### Papers / 2020
-
-*   [Auditing radicalization pathways on YouTube](https://dl.acm.org/doi/pdf/10.1145/3351095.3372879) - (FAT\*) *Studies the reachability of radical channels from each others, using random walks on static channel recommendations.*
-
-## [8. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [7. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### Other tools / Misc
 
 *   [Graphviz](https://graphviz.org/) - Open source graph visualization command line tool and library. From input text to SVG,PDF,interactive web graph browser.
 
-## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [8. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Companies with "remote DNA"
 
@@ -210,7 +204,7 @@
 *   [Zapier](https://zapier.com/about/)
 *   [ZipRecruiter](https://www.ziprecruiter.com/careers) - Perl/Catalyst shop that has some of the best Perl devs working remotely.
 
-## [10. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
+## [9. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
 ### Tools / CLIs
 
@@ -242,17 +236,16 @@
     *   [mib2c](https://net-snmp.sourceforge.io/docs/man/mib2c.html) - A MIB conversion utility that can translate MIB structures into other forms, such as C-code.
     *   [mib2c-update](https://net-snmp.sourceforge.io/docs/man/mib2c-update.html) - This a script to merge custom code into updated mib2c code.
 
-## [11. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
+## [10. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
 ### Videos
 
 *   [Getting started with Ansible](https://youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70) - YouTube tutorial series by LearnLinuxTV.
 
-## [12. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+## [11. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
 ### IDE and Code Editing
 
-*   [Xamarin IDE](https://xamarin.com/student) \[FREE] - IDE for using C# for iOS, Android, Mac & Windows platforms.
 *   [Visual Studio Community 2017](https://visualstudio.microsoft.com/vs/community/) \[FREE] - IDE for C#,Javascript, C++ and others. Latest release includes Xamarin.
 *   [MATLAB](https://in.mathworks.com/products/matlab/student.html) \[DISCOUNT] - MATLAB is a high-level technical computing language and interactive environment for algorithm development, data visualization, data analysis, and numerical computation.
 *   [Repl](https://replit.com/site/github-students) \[FREE] - An online IDE that lets you instantly code in over fifty languages.Hacker plan, includes unlimited private repls and multiplayer invites. Free for one year available via [Github Student Developer Pack](https://education.github.com/pack)
@@ -335,18 +328,18 @@
 *   [Thinkful](https://www.thinkful.com/getstarted/software-engineering/intro-course/) \[FREE] - Learn Fundamentals of Web Development to launch your career as a developer.1 month of access to a web development course.
 *   [Arduino Education](https://www.arduino.cc/education/github-students) \[FREE] - Empower scientists and artists of the future with creative STEM programs.Free Arduino Create Maker plan for 6 months and discounts on selected hardware.
 
-## [13. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [12. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Code Quality
 
-*   [GitHub (⭐221)](https://github.com/github/eslint-plugin-github) - Misc. rules from GitHub.
+*   [GitHub (⭐226)](https://github.com/github/eslint-plugin-github) - Misc. rules from GitHub.
 *   [@mysticatea/eslint-plugin (⭐25)](https://github.com/mysticatea/eslint-plugin) - Misc. rules.
 *   [@brettz9/eslint-plugin (⭐1)](https://github.com/brettz9/eslint-plugin) - Misc. rules. of `@mysticatea` without the personal config.
 
 ### Plugins / Languages and Environments
 
 *   [Babel (⭐42k)](https://github.com/babel/babel/tree/main/eslint/babel-eslint-plugin) - Adds replacements for built-in rules to include Babel features.
-*   [eslint-plugin-eslint-plugin (⭐147)](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) - An ESLint plugin for linting ESLint plugins.
+*   [eslint-plugin-eslint-plugin (⭐150)](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) - An ESLint plugin for linting ESLint plugins.
 
 ### Plugins / Misc
 
@@ -354,15 +347,15 @@
 
 ### Plugins / Practices and Specific ES Features
 
-*   [ESLint Comments (⭐315)](https://github.com/mysticatea/eslint-plugin-eslint-comments) - Best practices about ESLint directive comments (`/*eslint-disable*/`, etc.).
-*   [eslint-plugin-write-good-comments (⭐21)](https://github.com/kantord/eslint-plugin-write-good-comments) - Enforce good writing style in comments.
-*   [import (⭐4.8k)](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names.
+*   [ESLint Comments (⭐323)](https://github.com/mysticatea/eslint-plugin-eslint-comments) - Best practices about ESLint directive comments (`/*eslint-disable*/`, etc.).
+*   [eslint-plugin-write-good-comments (⭐22)](https://github.com/kantord/eslint-plugin-write-good-comments) - Enforce good writing style in comments.
+*   [import (⭐4.9k)](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names.
 
 ### Tools / Testing Tools
 
-*   [eslint-define-config (⭐202)](https://github.com/Shinigami92/eslint-define-config) - Provide a `defineConfig` function for `.eslintrc.js` files.
+*   [eslint-define-config (⭐218)](https://github.com/Shinigami92/eslint-define-config) - Provide a `defineConfig` function for `.eslintrc.js` files.
 
-## [14. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
+## [13. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
 ### Resource Packs / Building
 

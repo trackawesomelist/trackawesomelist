@@ -10,7 +10,7 @@
 
 ### Third-Party Packages / Commands
 
-*   [django-liquidb (⭐14)](https://github.com/Gusakovskiy/django-liquidb) - Django application to simplify migration management and changes in states of db scheme.
+*   [django-liquidb (⭐15)](https://github.com/Gusakovskiy/django-liquidb) - Django application to simplify migration management and changes in states of db scheme.
 
 ## [2. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Security / Runner
 
-*   [sanitize-html (⭐3.3k)](https://github.com/apostrophecms/sanitize-html) - sanitize-html provides a simple HTML sanitizer with a clear API.
+*   [sanitize-html (⭐3.4k)](https://github.com/apostrophecms/sanitize-html) - sanitize-html provides a simple HTML sanitizer with a clear API.
 
 ## [4. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Boilerplates
 
-*   [superplate (⭐2.5k)](https://github.com/pankod/superplate) - superplate creates Next.js app in seconds with TypeScript, styled-components, SWR, Storybook, and 35+ plugin.
+*   [superplate (⭐2.6k)](https://github.com/pankod/superplate) - superplate creates Next.js app in seconds with TypeScript, styled-components, SWR, Storybook, and 35+ plugin.
 
 ## [6. Awesome Xai](/content/altamiracorp/awesome-xai/README.md)
 
@@ -169,28 +169,28 @@
 
 *   [asakusaSatellite (⭐101)](https://github.com/codefirst/AsakusaSatellite) - A realtime chat application for developers (using Rails 6.0). - [:earth\_africa:](https://www.codefirst.org/AsakusaSatellite/)
 *   [catarse (⭐1.6k)](https://github.com/catarse/catarse) - A crowdfunding platform for creative projects (using Rails 4.2). - [:earth\_africa:](https://www.catarse.me/)
-*   [commudle](https://github.com/commudle/commudle) - A community management app (using Rails 5.2).
-*   [kanban (⭐639)](https://github.com/seanomlor/kanban) - A Trello clone (using Rails 4.2).
-*   [opensourcefriday](https://github.com/github/opensourcefriday) - A project contribution tracking app (using Rails 6.0). - [:earth\_africa:](https://opensourcefriday.com)
+*   [commudle (⭐250)](https://github.com/commudle/commudle) - A community management app (using Rails 5.2).
+*   [kanban (⭐640)](https://github.com/seanomlor/kanban) - A Trello clone (using Rails 4.2).
+*   [opensourcefriday (⭐1.1k)](https://github.com/github/opensourcefriday) - A project contribution tracking app (using Rails 6.0). - [:earth\_africa:](https://opensourcefriday.com)
 *   [peatio (⭐3.6k)](https://github.com/peatio/peatio) - A crypto currency exchange app (using Rails 4.0).
-*   [reservations (⭐134)](https://github.com/YaleSTC/reservations) - An inventory management app (using Rails 6.0). - [:earth\_africa:](http://yalestc.github.io/reservations/)
+*   [reservations (⭐138)](https://github.com/YaleSTC/reservations) - An inventory management app (using Rails 6.0). - [:earth\_africa:](http://yalestc.github.io/reservations/)
 *   [rletters](https://codeberg.org/rletters/rletters) - A frontend for database of journal articles for researchers (using Rails 6.0).
 *   [sanataro (⭐52)](https://github.com/kaznum/sanataro) - An account tracker (using Rails 4.2).
 
 ### Gems / Other external resources
 
-*   [actioncable](https://github.com/rails/rails/tree/main/actioncable) - A gem to integrate websocket with a Rails app [:red\_circle:](https://rubygems.org/gems/actioncable) - [Action Cable Overview](https://guides.rubyonrails.org/action_cable_overview.html)
-*   [actionmailbox](https://github.com/rails/rails/tree/main/actionmailbox) - A gem to handle incoming emails within a Rails app [:red\_circle:](https://rubygems.org/gems/actionmailbox) - [Action Mailbox Basics](https://guides.rubyonrails.org/action_mailbox_basics.html)
-*   [actionmailer](https://github.com/rails/rails/tree/main/actionmailer) - A gem to compose, deliver & test emails within a Rails app [:red\_circle:](https://rubygems.org/gems/actionmailer) - [Action Mailer Basics](https://guides.rubyonrails.org/action_mailer_basics.html)
-*   [actionpack](https://github.com/rails/rails/tree/main/actionpack) - A gem to manage requests & responses within a Rails app [:red\_circle:](https://rubygems.org/gems/actionpack)
-*   [actiontext](https://github.com/rails/rails/tree/main/actiontext) - A gem to integrate rich text editor into a Rails app [:red\_circle:](https://rubygems.org/gems/actiontext) - [Action Text Overview](https://guides.rubyonrails.org/action_text_overview.html)
-*   [actionview](https://github.com/rails/rails/tree/main/actionview) - A gem to handle view templates within a Rails app [:red\_circle:](https://rubygems.org/gems/actionview) - [Action View Overview](https://guides.rubyonrails.org/action_view_overview.html)
-*   [activejob](https://github.com/rails/rails/tree/main/activejob) - A gem to handle background jobs within a Rails app [:red\_circle:](https://rubygems.org/gems/activejob) - [Active Job Basics](https://guides.rubyonrails.org/active_job_basics.html)
-*   [activemodel](https://github.com/rails/rails/tree/main/activemodel) - A gem to define a set of interfaces to use in model classes within a Rails app [:red\_circle:](https://rubygems.org/gems/activemodel) - [Active Model Basics](https://guides.rubyonrails.org/active_model_basics.html)
-*   [activerecord](https://github.com/rails/rails/tree/main/activerecord) - A gem to connect model classes with relational databases within a Rails app [:red\_circle:](https://rubygems.org/gems/activerecord) - [Active Record Basics](https://guides.rubyonrails.org/active_record_basics.html)
-*   [activestorage](https://github.com/rails/rails/tree/main/activestorage) - A gem to handle file uploads to cloud storage providers within a Rails app [:red\_circle:](https://rubygems.org/gems/activestorage) - [Active Storage Overview](https://guides.rubyonrails.org/active_storage_overview.html)
-*   [activesupport](https://github.com/rails/rails/tree/main/activesupport) - A gem to provide some extensions to support a Rails app [:red\_circle:](https://rubygems.org/gems/activesupport) - [Active Support Core Extensions](https://guides.rubyonrails.org/active_support_core_extensions.html)
-*   [railties](https://github.com/rails/rails/tree/main/railties) - A gem to handle gems & engines used in a Rails app to work together [:red\_circle:](https://rubygems.org/gems/railties)
+*   [actioncable (⭐54k)](https://github.com/rails/rails/tree/main/actioncable) - A gem to integrate websocket with a Rails app [:red\_circle:](https://rubygems.org/gems/actioncable) - [Action Cable Overview](https://guides.rubyonrails.org/action_cable_overview.html)
+*   [actionmailbox (⭐54k)](https://github.com/rails/rails/tree/main/actionmailbox) - A gem to handle incoming emails within a Rails app [:red\_circle:](https://rubygems.org/gems/actionmailbox) - [Action Mailbox Basics](https://guides.rubyonrails.org/action_mailbox_basics.html)
+*   [actionmailer (⭐54k)](https://github.com/rails/rails/tree/main/actionmailer) - A gem to compose, deliver & test emails within a Rails app [:red\_circle:](https://rubygems.org/gems/actionmailer) - [Action Mailer Basics](https://guides.rubyonrails.org/action_mailer_basics.html)
+*   [actionpack (⭐54k)](https://github.com/rails/rails/tree/main/actionpack) - A gem to manage requests & responses within a Rails app [:red\_circle:](https://rubygems.org/gems/actionpack)
+*   [actiontext (⭐54k)](https://github.com/rails/rails/tree/main/actiontext) - A gem to integrate rich text editor into a Rails app [:red\_circle:](https://rubygems.org/gems/actiontext) - [Action Text Overview](https://guides.rubyonrails.org/action_text_overview.html)
+*   [actionview (⭐54k)](https://github.com/rails/rails/tree/main/actionview) - A gem to handle view templates within a Rails app [:red\_circle:](https://rubygems.org/gems/actionview) - [Action View Overview](https://guides.rubyonrails.org/action_view_overview.html)
+*   [activejob (⭐54k)](https://github.com/rails/rails/tree/main/activejob) - A gem to handle background jobs within a Rails app [:red\_circle:](https://rubygems.org/gems/activejob) - [Active Job Basics](https://guides.rubyonrails.org/active_job_basics.html)
+*   [activemodel (⭐54k)](https://github.com/rails/rails/tree/main/activemodel) - A gem to define a set of interfaces to use in model classes within a Rails app [:red\_circle:](https://rubygems.org/gems/activemodel) - [Active Model Basics](https://guides.rubyonrails.org/active_model_basics.html)
+*   [activerecord (⭐54k)](https://github.com/rails/rails/tree/main/activerecord) - A gem to connect model classes with relational databases within a Rails app [:red\_circle:](https://rubygems.org/gems/activerecord) - [Active Record Basics](https://guides.rubyonrails.org/active_record_basics.html)
+*   [activestorage (⭐54k)](https://github.com/rails/rails/tree/main/activestorage) - A gem to handle file uploads to cloud storage providers within a Rails app [:red\_circle:](https://rubygems.org/gems/activestorage) - [Active Storage Overview](https://guides.rubyonrails.org/active_storage_overview.html)
+*   [activesupport (⭐54k)](https://github.com/rails/rails/tree/main/activesupport) - A gem to provide some extensions to support a Rails app [:red\_circle:](https://rubygems.org/gems/activesupport) - [Active Support Core Extensions](https://guides.rubyonrails.org/active_support_core_extensions.html)
+*   [railties (⭐54k)](https://github.com/rails/rails/tree/main/railties) - A gem to handle gems & engines used in a Rails app to work together [:red\_circle:](https://rubygems.org/gems/railties)
 
 ## [9. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 
@@ -202,7 +202,7 @@
 
 ### Integrations
 
-*   [axe-playwright (⭐135)](https://github.com/abhinaba-ghosh/axe-playwright) - Custom commands for Playwright to run accessibility (a11y) checks with axe-core.
+*   [axe-playwright (⭐144)](https://github.com/abhinaba-ghosh/axe-playwright) - Custom commands for Playwright to run accessibility (a11y) checks with axe-core.
 
 ## [11. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
@@ -214,7 +214,7 @@
 
 ### UI Libraries, Components & Templates
 
-*   🧩 [Tailwind Cards (⭐494)](https://github.com/hasinhayder/tailwind-cards) - Growing collection of text/image cards.
+*   🧩 [Tailwind Cards (⭐535)](https://github.com/hasinhayder/tailwind-cards) - Growing collection of text/image cards.
 
 ## [13. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
@@ -239,8 +239,8 @@
 
 ### Contents / News and Magazine
 
-*   [NewsApp (⭐176)](https://github.com/j-j-gajjar/FLUTTER_NewsApp) - Live News Using API with Many API filterrs by [J-J-GAJJAR](https://github.com/j-j-gajjar).
-*   [InNews (⭐17)](https://github.com/akashlilhare/news_app) - Live News in eight different categories by [Akash Lilhare](https://github.com/akashlilhare).
+*   [NewsApp (⭐196)](https://github.com/j-j-gajjar/FLUTTER_NewsApp) - Live News Using API with Many API filterrs by [J-J-GAJJAR](https://github.com/j-j-gajjar).
+*   [InNews (⭐16)](https://github.com/akashlilhare/news_app) - Live News in eight different categories by [Akash Lilhare](https://github.com/akashlilhare).
 
 ## [16. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
@@ -258,7 +258,7 @@
 
 ### UI / Bottom bars
 
-*   [Google Nav Bar (⭐530)](https://github.com/sooxt98/google_nav_bar) <!--stargazers:sooxt98/google_nav_bar--> - A modern google style nav bar for flutter by [Sooxt98](http://github.com/sooxt98)
+*   [Google Nav Bar (⭐577)](https://github.com/sooxt98/google_nav_bar) <!--stargazers:sooxt98/google_nav_bar--> - A modern google style nav bar for flutter by [Sooxt98](http://github.com/sooxt98)
 
 ---
 

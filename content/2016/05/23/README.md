@@ -29,11 +29,11 @@
 
 ### Authentication and OAuth
 
-*   [Rodauth (⭐1.4k)](https://github.com/jeremyevans/rodauth) - Authentication and account management framework for Rack applications.
+*   [Rodauth (⭐1.5k)](https://github.com/jeremyevans/rodauth) - Authentication and account management framework for Rack applications.
 
 ### Documentation
 
-*   [Hanna (⭐29)](https://github.com/rdoc/hanna-nouveau) - An RDoc formatter built with simplicity, beauty and ease of browsing in mind.
+*   [Hanna (⭐33)](https://github.com/rdoc/hanna-nouveau) - An RDoc formatter built with simplicity, beauty and ease of browsing in mind.
 
 ## [5. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Boilerplates / Other
 
-*   [bozon (⭐757)](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
+*   [bozon (⭐759)](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
 
 ## [7. Awesome R](/content/qinwf/awesome-R/README.md)
 

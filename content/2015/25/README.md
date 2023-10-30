@@ -65,7 +65,7 @@
 
 ### C++ / Natural Language Processing
 
-*   [MeTA (⭐661)](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
+*   [MeTA (⭐672)](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
 
 ### JavaScript / Data Analysis / Data Visualization
 
@@ -73,7 +73,7 @@
 
 ### Python / Computer Vision
 
-*   [Vigranumpy (⭐384)](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
+*   [Vigranumpy (⭐391)](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
 
 ## [8. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -90,7 +90,7 @@
 ### MVVM
 
 *   [MVVMCross (⭐3.8k)](https://github.com/MvvmCross/MvvmCross) - Cross-platform mvvm mobile development framework for WPF, Silverlight for WP7 and WP8, Mono for Android, MonoTouch for iOS, Windows Universal projects (WPA8.1 and Windows 8.1 Store apps). Makes extensive use of Portable Class Libraries (PCL) to provide maintainable cross platform C# native applications.
-*   [Stylet (⭐889)](https://github.com/canton7/stylet/) - Minimal MVVM framework inspired by Caliburn Micro, with good documentation, high test coverage, and its own IoC container
+*   [Stylet (⭐911)](https://github.com/canton7/stylet/) - Minimal MVVM framework inspired by Caliburn Micro, with good documentation, high test coverage, and its own IoC container
 
 ## [10. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -148,7 +148,7 @@
 
 ### Web Frameworks
 
-*   [Hobbit (⭐271)](https://github.com/patriciomacadden/hobbit) - A minimalistic microframework built on top of Rack.
+*   [Hobbit (⭐272)](https://github.com/patriciomacadden/hobbit) - A minimalistic microframework built on top of Rack.
 
 ## [18. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -248,9 +248,9 @@
 
 ### Command-Line Productivity
 
-*   [fzf (⭐49k)](https://github.com/junegunn/fzf) - A command-line fuzzy finder
+*   [fzf (⭐53k)](https://github.com/junegunn/fzf) - A command-line fuzzy finder
 *   [marker (⭐1.9k)](https://github.com/pindexis/marker) - Bookmark your shell commands
-*   [thefuck (⭐75k)](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
+*   [thefuck (⭐78k)](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
 
 ### Customization / Directory Navigation
 
@@ -258,35 +258,35 @@
 
 ### For Developers / Directory Navigation
 
-*   [git-open (⭐3k)](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser
+*   [git-open (⭐3.1k)](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser
 
 ### System Utilities / Directory Navigation
 
-*   [htop (⭐5.7k)](https://github.com/hishamhm/htop) - A ncurses based interactive process viewer which aims to be a better `top`
-*   [powertop (⭐721)](https://github.com/fenrus75/powertop) - Battery/Power usage and device stats monitoring command-line tool, with tune-up options.
+*   [htop (⭐5.8k)](https://github.com/hishamhm/htop) - A ncurses based interactive process viewer which aims to be a better `top`
+*   [powertop (⭐817)](https://github.com/fenrus75/powertop) - Battery/Power usage and device stats monitoring command-line tool, with tune-up options.
 *   [procdog (⭐74)](https://github.com/jlevy/procdog) - Lightweight command-line control of long-lived processes like servers
 
 ### Games / Directory Navigation
 
-*   [minesweeper (⭐49)](https://github.com/feherke/Bash-script/tree/master/minesweeper) - Bash implementation of minesweeper
+*   [minesweeper (⭐52)](https://github.com/feherke/Bash-script/tree/master/minesweeper) - Bash implementation of minesweeper
 
 ## [22. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Date and Time
 
-*   [calendar (⭐454)](https://github.com/lau/calendar) - Calendar is a date and time library for Elixir.
+*   [calendar (⭐458)](https://github.com/lau/calendar) - Calendar is a date and time library for Elixir.
 
 ### Files and Directories
 
-*   [elixgrep (⭐27)](https://github.com/bbense/elixgrep) - A framework for doing Hadoop style Map/Reduce operations on collections of files.
+*   [elixgrep (⭐28)](https://github.com/bbense/elixgrep) - A framework for doing Hadoop style Map/Reduce operations on collections of files.
 
 ### Logging
 
-*   [metrix (⭐51)](https://github.com/rwdaigle/metrix) - Log custom app metrics to stdout for use by Librato and other downstream processors.
+*   [metrix (⭐50)](https://github.com/rwdaigle/metrix) - Log custom app metrics to stdout for use by Librato and other downstream processors.
 
 ### Third Party APIs
 
-*   [exstagram (⭐12)](https://github.com/arthurcolle/exstagram) - Elixir library for Instagram v1 API.
+*   [exstagram (⭐13)](https://github.com/arthurcolle/exstagram) - Elixir library for Instagram v1 API.
 
 ## [23. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
@@ -298,7 +298,7 @@
 
 ### Templating Engines / Runner
 
-*   [xtemplate (⭐555)](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
+*   [xtemplate (⭐558)](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
 
 ### Control Flow / Runner
 
@@ -306,7 +306,7 @@
 
 ### Scroll / Other
 
-*   [ScrollMenu (⭐204)](https://github.com/s-yadav/ScrollMenu) - A new interface to replace old boring scrollbar.
+*   [ScrollMenu (⭐203)](https://github.com/s-yadav/ScrollMenu) - A new interface to replace old boring scrollbar.
 
 ## [25. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 

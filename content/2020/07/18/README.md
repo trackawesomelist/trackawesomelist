@@ -10,17 +10,17 @@
 
 ### Back-end API / Playground
 
-*   :octocat: [tinyhttp (⭐2.4k)](https://github.com/talentlessguy/tinyhttp) - A modern Express-like web framework for Node.js, written in TypeScript and compiled to Native ESM.
+*   :octocat: [tinyhttp (⭐2.5k)](https://github.com/talentlessguy/tinyhttp) - A modern Express-like web framework for Node.js, written in TypeScript and compiled to Native ESM.
 
 ## [2. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Key-value Data Model
 
-*   [GhostDB (⭐729)](https://github.com/jakekgrog/GhostDB) - a distributed, in-memory, general purpose key-value data store that delivers microsecond performance at any scale.
+*   [GhostDB (⭐737)](https://github.com/jakekgrog/GhostDB) - a distributed, in-memory, general purpose key-value data store that delivers microsecond performance at any scale.
 
 ### Data Ingestion
 
-*   [Apache Pulsar (⭐12k)](https://github.com/apache/pulsar) - a distributed pub-sub messaging platform with a very flexible messaging model and an intuitive client API.
+*   [Apache Pulsar (⭐13k)](https://github.com/apache/pulsar) - a distributed pub-sub messaging platform with a very flexible messaging model and an intuitive client API.
 
 ## [3. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 
@@ -82,23 +82,23 @@ Language: English
 
 ## [5. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
-*   [terraformer (⭐10k)](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure. Infrastructure to Code. Supported many providers.
+*   [terraformer (⭐11k)](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure. Infrastructure to Code. Supported many providers.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Audio
 
-*   [AudioFile (⭐771)](https://github.com/adamstark/AudioFile) - A simple C++ library for reading and writing audio files. \[MIT]
+*   [AudioFile (⭐822)](https://github.com/adamstark/AudioFile) - A simple C++ library for reading and writing audio files. \[MIT]
 
 ### CSV
 
-*   [csv2 (⭐413)](https://github.com/p-ranav/csv2) - Fast CSV parser for modern C++. \[MIT]
+*   [csv2 (⭐468)](https://github.com/p-ranav/csv2) - Fast CSV parser for modern C++. \[MIT]
 
 ### GUI
 
-*   [Elements (⭐2.6k)](https://github.com/cycfi/elements) - Lightweight, fine-grained, resolution independent, modular GUI library. \[MIT]
+*   [Elements (⭐2.7k)](https://github.com/cycfi/elements) - Lightweight, fine-grained, resolution independent, modular GUI library. \[MIT]
 
 ## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -137,15 +137,15 @@ Language: English
 
 ### Examples and funny stuff
 
-*   [phoenix-chat-example (⭐673)](https://github.com/dwyl/phoenix-chat-example) - A step-by-step example/tutorial for building a Chat app in Phoenix for complete beginners. Covers testing, docs and deployement. Phoenix `1.5.3`.
-*   [phoenix-liveview-counter-tutorial (⭐279)](https://github.com/dwyl/phoenix-liveview-counter-tutorial) - complete beginners step-by-step tutorial building a real time counter in Phoenix `1.5.3` and LiveView `0.14.1`.
-*   [phoenix-todo-list-tutorial (⭐144)](https://github.com/dwyl/phoenix-todo-list-tutorial) - A complete beginners step-by-step tutorial for building a Todo List from scratch in Phoenix `1.5.3`.
+*   [phoenix-chat-example (⭐698)](https://github.com/dwyl/phoenix-chat-example) - A step-by-step example/tutorial for building a Chat app in Phoenix for complete beginners. Covers testing, docs and deployement. Phoenix `1.5.3`.
+*   [phoenix-liveview-counter-tutorial (⭐316)](https://github.com/dwyl/phoenix-liveview-counter-tutorial) - complete beginners step-by-step tutorial building a real time counter in Phoenix `1.5.3` and LiveView `0.14.1`.
+*   [phoenix-todo-list-tutorial (⭐167)](https://github.com/dwyl/phoenix-todo-list-tutorial) - A complete beginners step-by-step tutorial for building a Todo List from scratch in Phoenix `1.5.3`.
 
 ## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### HTTP Servers / Hunchentoot plugins
 
-*   [hunchentoot-errors (⭐8)](https://github.com/mmontone/hunchentoot-errors) - Augments Hunchentoot error pages and logs with request and session information. [MIT](https://opensource.org/licenses/MIT).
+*   [hunchentoot-errors (⭐9)](https://github.com/mmontone/hunchentoot-errors) - Augments Hunchentoot error pages and logs with request and session information. [MIT](https://opensource.org/licenses/MIT).
 
 ## [12. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
 

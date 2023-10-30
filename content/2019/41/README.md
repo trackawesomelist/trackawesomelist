@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 14 - Oct 20, 2019
 
-80 awesome lists updated this week.
+78 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Dataset / Web
 
-*   [The Quick, Draw! Dataset (⭐5.4k)](https://github.com/googlecreativelab/quickdraw-dataset) - Collection of 50 million drawings across 345 categories.
+*   [The Quick, Draw! Dataset (⭐5.6k)](https://github.com/googlecreativelab/quickdraw-dataset) - Collection of 50 million drawings across 345 categories.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -33,7 +33,7 @@
 ### Related projects / Syntax highlighting packages
 
 *   [Work Master OS](https://translate.google.com/translate?hl=\&sl=ru\&tl=en\&u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20081226145726%2Fhttp%3A%2F%2Fworkmaster.ru%2Findex.php%3Fp%3D8\&sandbox=1) - Russian multi tasking operating system.
-*   [GBCamcorder (⭐85)](https://github.com/furrtek/GBCamcorder) - Lo-Fi portable video recorder using a GameBoy Camera cartridge.
+*   [GBCamcorder (⭐86)](https://github.com/furrtek/GBCamcorder) - Lo-Fi portable video recorder using a GameBoy Camera cartridge.
 
 ## [5. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Hash Cracking Tools / Zealandia
 
-*   [hate\_crack (⭐1.4k)](https://github.com/trustedsec/hate_crack) - Tool for automating cracking methodologies through Hashcat.
+*   [hate\_crack (⭐1.5k)](https://github.com/trustedsec/hate_crack) - Tool for automating cracking methodologies through Hashcat.
 
 ## [7. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
 
@@ -125,25 +125,19 @@
 
 *   [Alcali](https://alcali.dev/) - A web based tool for monitoring and administrating Saltstack Salt.
 
-## [13. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
-
-### Development / Devops
-
-*   [isitfit](http://github.com/autofitcloud/isitfit) - Manage AWS EC2 rightsizing.
-
-## [14. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
+## [13. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
 
 ### Projects Using Seed
 
 *   [benxu.dev/blog (⭐0)](https://github.com/AlterionX/benxu-dev) - A relatively simple open source personal blog. Built on [`Seed`](https://seed-rs.org/), [`maud`](https://maud.lambda.xyz), [`Rocket`](https://rocket.rs), and [`Diesel`](https://diesel.rs).
 
-## [15. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Personal Dashboards
 
-*   [Homer (⭐7k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `HTML5`
+*   [Homer (⭐7.9k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `Docker/K8S/Nodejs`
 
-## [16. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [15. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / ReactJS
 
@@ -153,7 +147,7 @@
 
 *   [Top 10 TypeScript Interview Questions and Answers for Beginner Web Developers 2019](https://www.positronx.io/typescript-interview-questions-answers-2109/)
 
-## [17. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
+## [16. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
 
 ### Arch-based distros / Specific purpose
 
@@ -195,13 +189,13 @@
 
 *   [Termux Arch](https://termuxarch.github.io/TermuxArch/) - Run Arch Linux ARM on your mobile phone with Termux.
 
-## [18. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [17. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Javascript / Isomorphic web frameworks
 
 *   [remote-js (⭐33)](https://github.com/ceramic/remote-js) - send JavaScript from Common Lisp to a browser. [MIT](https://opensource.org/licenses/MIT).
 
-## [19. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
+## [18. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
 
 ### Tools / Repair or Validate CSV
 
@@ -212,20 +206,20 @@
 *   [Tabular Data Resource](http://frictionlessdata.io/specs/tabular-data-resource/) - A [Data Resource](http://frictionlessdata.io/specs/data-resource/) specialized for describing tabular data like CSV files or spreadsheets
 *   [CSVY](https://csvy.org/) - A standard for adding a YAML header to CSV files to describe their format
 
-## [20. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [19. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### HAL implementation crates / GigaDevice
 
 *   [`gd32vf103-hal`](https://github.com/luojia65/gd32vf103-hal) - ![crates.io](https://img.shields.io/crates/v/gd32vf103-hal.svg)
     *   (WIP) Hardware abstract layer (HAL) for the GD32VF103 RISC-V microcontroller
 
-## [21. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
+## [20. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
 
 ### Newsletters
 
 *   [Talking to Computers](https://talkingtocomputers.substack.com/welcome) - A monthly newsletter about building for voice, on Alexa, Google Assistant, and elsewhere for developers, designers, and the tech-curious.
 
-## [22. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [21. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Code examples / Custom Dialog
 
@@ -236,41 +230,41 @@
 *   [Fragmented](https://fragmentedpodcast.com/) is the Android developer podcast where Donn Felker and Kaushik Gopal talk about building good software and becoming better Android developers.
 *   [Android Central](https://www.androidcentral.com/podcast) - is a weekly Android podcast hosted by the Android Central team.
 
-## [23. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
+## [22. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
 
 ### Software
 
 *   [ZOKRI](https://zokri.com/)
 
-## [24. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
+## [23. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
 
 ### Guidelines
 
 *   [Handbook on European data protection law ](https://publications.europa.eu/en/publication-detail/-/publication/5b0cfa83-63f3-11e8-ab9c-01aa75ed71a1) - Handbook issued by EU.
 
-## [25. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [24. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### JupyterLab Extensions
 
-*   [code\_formatter (⭐680)](https://github.com/ryantam626/jupyterlab_code_formatter) - A universal code formatter.
-*   [nb\_black (⭐341)](https://github.com/dnanhkhoa/nb_black) - Extension to keep Python code automatically formatted using [black (⭐32k)](https://github.com/psf/black).
+*   [code\_formatter (⭐735)](https://github.com/ryantam626/jupyterlab_code_formatter) - A universal code formatter.
+*   [nb\_black (⭐355)](https://github.com/dnanhkhoa/nb_black) - Extension to keep Python code automatically formatted using [black (⭐33k)](https://github.com/psf/black).
 *   [python-bytecode (⭐60)](https://github.com/jtpio/jupyterlab-python-bytecode) - Explore CPython Bytecode in JupyterLab.
-*   [quickopen (⭐74)](https://github.com/parente/jupyterlab-quickopen) - Quickly open a file in JupyterLab by typing part of its name.
-*   [sidecar (⭐216)](https://github.com/jupyter-widgets/jupyterlab-sidecar) - A sidecar output widget for JupyterLab.
-*   [sql (⭐390)](https://github.com/pbugnion/jupyterlab-sql) - SQL GUI for JupyterLab.
-*   [system-monitor (⭐281)](https://github.com/jtpio/jupyterlab-system-monitor) - Extension to display system metrics.
-*   [theme-darcula (⭐178)](https://github.com/telamonian/theme-darcula) - A handsome Darcula theme for Jupyterlab.
-*   [topbar (⭐4)](https://github.com/jtpio/jupyterlab-topbar) - Top Bar extension for JupyterLab.
-*   [vim (⭐942)](https://github.com/jwkvam/jupyterlab-vim) - Vim notebook cell bindings.
+*   [quickopen (⭐76)](https://github.com/parente/jupyterlab-quickopen) - Quickly open a file in JupyterLab by typing part of its name.
+*   [sidecar (⭐227)](https://github.com/jupyter-widgets/jupyterlab-sidecar) - A sidecar output widget for JupyterLab.
+*   [sql (⭐396)](https://github.com/pbugnion/jupyterlab-sql) - SQL GUI for JupyterLab.
+*   [system-monitor (⭐293)](https://github.com/jtpio/jupyterlab-system-monitor) - Extension to display system metrics.
+*   [theme-darcula (⭐185)](https://github.com/telamonian/theme-darcula) - A handsome Darcula theme for Jupyterlab.
+*   [topbar (⭐5)](https://github.com/jtpio/jupyterlab-topbar) - Top Bar extension for JupyterLab.
+*   [vim (⭐949)](https://github.com/jwkvam/jupyterlab-vim) - Vim notebook cell bindings.
 
-## [26. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [25. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
+*   [Dragões de Garagem](http://dragoesdegaragem.com/) - Um podcast de divulgação científica, do desejo de falar sobre ciência de forma acessível e descontraída, incentivando a curiosidade e o pensamento crítico.
 *   [Zone Of Front-Enders](https://zofe.com.br/) - Podcast com enfoque no desenvolvimento front-end da web.
-*   [Dragões de Garagem](http://dragoesdegaragem.com/) - Um podcast de divulgação científica,  do desejo de falar sobre ciência de forma acessível e descontraída, incentivando a curiosidade e o pensamento crítico.
 
-## [27. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/week/README.md)
+## [26. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/week/README.md)
 
 ### France / Lyon
 
@@ -288,31 +282,25 @@
 
 *   [p5.js Contributors Conference](https://p5js.org/community/) - Whilst most work happens online, every now and then artists, designers, developers and educators get together to advance the p5.js project.
 
-## [28. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
-
-### Resources / Learning
-
-*   [Nix Shorts (⭐372)](https://github.com/justinwoo/nix-shorts/) - A collection of short notes about Nix.
-
-## [29. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [27. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Images, Maps and Charts / Paid Books
 
 *   [Slick (⭐28k)](https://github.com/kenwheeler/slick) - The last carousel you'll ever need.
 
-## [30. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [28. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Example Projects
 
 *   [Keycloak Theme Development Kit (⭐49)](https://github.com/anthonny/kit-keycloak-theme)
 
-## [31. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [29. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Closed Source / Other
 
 *   [Notion](https://notion.so) - All-in-one workspace for your notes, tasks, wikis, and databases.
 
-## [32. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [30. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### React Native / Misc
 
@@ -330,72 +318,72 @@
 
 *   [Data Visualization Society](https://www.datavisualizationsociety.com/) - The Data Visualization Society is an organization dedicated to fostering community for data visualization professionals.
 
-## [33. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [31. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / DSL
 
-*   [Apache Beam (⭐6.8k)](https://github.com/apache/beam) \[Java, Python, SQL, Scala, Go] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs), open sourced by Google.
+*   [Apache Beam (⭐7.1k)](https://github.com/apache/beam) \[Java, Python, SQL, Scala, Go] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs), open sourced by Google.
 
 ### Table of Contents / Closed Source
 
 *   [Cloud Dataflow](https://cloud.google.com/dataflow/)\[Java, Python, SQL, Scala] - Google's managed stream and batch data processing engine. Supports running Beam pipelines.
 
-## [34. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [32. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Scripting
 
 *   [Testing with Groovy](https://static.packt-cdn.com/downloads/Testingwithgroovy.pdf) - Using JMeter and Groovy for load testing.
 
-## [35. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [33. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Form Components / Date / Time picker
 
-*   [react-timezone-select (⭐142)](https://github.com/ndom91/react-timezone-select) - [demo](https://ndom91.github.io/react-timezone-select/) - Dynamic, succinct timezone select. Based on `react-select`.
+*   [react-timezone-select (⭐175)](https://github.com/ndom91/react-timezone-select) - [demo](https://ndom91.github.io/react-timezone-select/) - Dynamic, succinct timezone select. Based on `react-select`.
 
 ### Form Components / Input Types
 
-*   [react-payment-inputs (⭐309)](https://github.com/medipass/react-payment-inputs) - [demo](https://medipass.github.io/react-payment-inputs/?path=/story/usepaymentinputs--basic-no-styles) - A zero-dependency container to help with payment card input fields.
+*   [react-payment-inputs (⭐321)](https://github.com/medipass/react-payment-inputs) - [demo](https://medipass.github.io/react-payment-inputs/?path=/story/usepaymentinputs--basic-no-styles) - A zero-dependency container to help with payment card input fields.
 
 ### Device Input / Mouse Events
 
-*   [react-hook-mighty-mouse (⭐107)](https://github.com/mkosir/react-hook-mighty-mouse) - [demo](https://mkosir.github.io/react-hook-mighty-mouse) - Hook that tracks mouse events on selected element.
+*   [react-hook-mighty-mouse (⭐113)](https://github.com/mkosir/react-hook-mighty-mouse) - [demo](https://mkosir.github.io/react-hook-mighty-mouse) - Hook that tracks mouse events on selected element.
 
 ### Form Logic / Mouse Events
 
-*   [react-hook-form (⭐34k)](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
+*   [react-hook-form (⭐37k)](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
 
-## [36. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [34. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Books / Voxel Editors
 
 *   [Learn OpenGL: Beginner's guide to 3D rendering and game development with OpenGL and C++](https://www.amazon.de/Learn-OpenGL-Beginners-rendering-development/dp/1789340365/ref=sr_1_1_sspa?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91\&keywords=OpenGl+3d+game\&qid=1570646865\&sr=8-1-spons\&psc=1\&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTzM3UzZDT1ZYUzdCJmVuY3J5cHRlZElkPUEwMDIzMjkxMzJENlFTWkJNQzVCNCZlbmNyeXB0ZWRBZElkPUEwMzgyNTgzMUdUOElZTUtNUjlONCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 
-## [37. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [35. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Frameworks • Libraries • Ecosystems
 
 *   [Phaser](https://phaser.io/) \[Cross-platform] - HTML5 framework for building games, uses both a Canvas and WebGL renderer.
 
-## [38. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
+## [36. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
 ### Methodology / Scalability and Resilience
 
 *   [Technical Debt, by Fowler](https://martinfowler.com/bliki/TechnicalDebt.html) - Cost and impact of accumulating technical debt.
 
-## [39. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [37. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Math
 
 *   [CAI NEURAL API (⭐287)](https://github.com/joaopauloschuler/neural-api). `[FPC]` `[Delphi]` Cross-platform Neural Network API optimized for AVX, AVX2 and AVX512 instruction sets plus OpenCL capable devices including AMD, Intel and NVIDIA.
 
-## [40. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [38. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
 *   [react-native-modern-datepicker ★12 (⭐400)](https://github.com/HosseinShabani/react-native-modern-datepicker) - React Native Modern Datepicker
 *   [radio-buttons-react-native ★11 (⭐76)](https://github.com/sramezani/radio-buttons-react-native) - Animated radio buttons component for react native
 
-## [41. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
+## [39. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
 ### Tutorials / Color
 
@@ -405,7 +393,7 @@
 
 *   [Aseprite](http://aseprite.org/) - Paid and source-available, works on Linux, macOS and Windows. Awesome UI with a lot of nifty tools to ease pixel art creation.
 
-## [42. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [40. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Reactive Programming / Runner
 
@@ -413,15 +401,15 @@
 
 ### Storage / Runner
 
-*   [crumbsjs (⭐233)](https://github.com/nirtz89/crumbsjs) - A lightweight vanilla ES6 cookies and local storage JavaScript library.
+*   [crumbsjs (⭐232)](https://github.com/nirtz89/crumbsjs) - A lightweight vanilla ES6 cookies and local storage JavaScript library.
 
-## [43. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
+## [41. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
 
 ### Communities
 
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/gatsby)
 
-## [44. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [42. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### MOOCs
 
@@ -433,7 +421,7 @@
 *   [Q# Blog](https://devblogs.microsoft.com/qsharp/) - Microsoft Quantum development updates.
 *   [Shtetl-Optimized](https://www.scottaaronson.com/blog/) - Scott Aaronson's thoughts on quantum computing matters.
 
-## [45. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [43. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Official Docs & Quickstarts
 
@@ -444,25 +432,25 @@
 
 ### Web
 
-*   🔌 [React Firebase Hooks (⭐3.2k)](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase services.
-*   🔌 [Firebase UI (⭐4.2k)](https://github.com/firebase/firebaseui-web) - FirebaseUI is an open-source JavaScript library for Web that provides simple, customizable UI bindings on top of Firebase SDKs to eliminate boilerplate code and promote best practices.
+*   🔌 [React Firebase Hooks (⭐3.4k)](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase services.
+*   🔌 [Firebase UI (⭐4.3k)](https://github.com/firebase/firebaseui-web) - FirebaseUI is an open-source JavaScript library for Web that provides simple, customizable UI bindings on top of Firebase SDKs to eliminate boilerplate code and promote best practices.
 *   🔌 [Firebase UI for React (⭐1.2k)](https://github.com/firebase/firebaseui-web-react) - React Wrapper for firebaseUI Web.
 *   🔌 [GeoFire for JavaScript (⭐1.4k)](https://github.com/firebase/geofire-js) - Realtime location queries with Firebase.
 *   💡 [FirePad (⭐3.8k)](https://github.com/FirebaseExtended/firepad) - Collaborative Text Editor Powered by Firebase.
-*   🔌 [Ember Fire (⭐692)](https://github.com/firebase/emberFire) - Official Ember data adapter for Firebase.
-*   🔌 [Firebase Dart (⭐411)](https://github.com/FirebaseExtended/firebase-dart) - Dart wrapper for Firebase.
-*   🔌 [PolymerFire (⭐459)](https://github.com/FirebaseExtended/polymerfire) - Polymer Web Components for Firebase.
-*   🔌 [VueFire (⭐3.5k)](https://github.com/vuejs/vuefire) - Firebase bindings for Vue.js.
-*   🔌 [Angular Fire 2 (⭐7.4k)](https://github.com/angular/angularfire2) - Official library for Firebase and Angular.
+*   🔌 [Ember Fire (⭐690)](https://github.com/firebase/emberFire) - Official Ember data adapter for Firebase.
+*   🔌 [Firebase Dart (⭐409)](https://github.com/FirebaseExtended/firebase-dart) - Dart wrapper for Firebase.
+*   🔌 [PolymerFire (⭐460)](https://github.com/FirebaseExtended/polymerfire) - Polymer Web Components for Firebase.
+*   🔌 [VueFire (⭐3.7k)](https://github.com/vuejs/vuefire) - Firebase bindings for Vue.js.
+*   🔌 [Angular Fire 2 (⭐7.5k)](https://github.com/angular/angularfire2) - Official library for Firebase and Angular.
 *   🔌 [Re-base (⭐2.1k)](https://github.com/tylermcginnis/re-base) - Relay inspired library for building React.js + Firebase applications.
 *   🔌 [React Redux Firebase (⭐2.5k)](https://github.com/prescottprue/react-redux-firebase) - Redux bindings for Firebase. Includes Higher Order Component for use with React.
 *   🔌 [GatsbyJS Firebase Data Source](https://www.gatsbyjs.org/packages/) - Query your Firebase data right into your statically generated pages with Gatsby.
-*   🔌 [Apollo Link Firebase (⭐412)](https://github.com/Canner/apollo-link-firebase) - Provides a local GraphQL interface to RealtimeDB. DB syncs locally to device, Apollo Link provides querying into the local DB.
+*   🔌 [Apollo Link Firebase (⭐411)](https://github.com/Canner/apollo-link-firebase) - Provides a local GraphQL interface to RealtimeDB. DB syncs locally to device, Apollo Link provides querying into the local DB.
 *   🔌 [BuckleScript Bindings for Firebase (⭐42)](https://github.com/avohq/bs-firebase) - BuckleScript bindings for Firebase for use in ReasonML projects.
-*   💡 [Angular Firebase PWA (⭐927)](https://github.com/codediodeio/angular-firestarter) - Is an Angular PWA powered by Firebase. It can serve as a foundation to learn this stack and roll out more complex features.
-*   🔌 [FireSQL (⭐345)](https://github.com/jsayol/FireSQL) - Query Firestore using SQL syntax. Issues the minimum amount of queries necessary in order to get the data that you request.
+*   💡 [Angular Firebase PWA (⭐945)](https://github.com/codediodeio/angular-firestarter) - Is an Angular PWA powered by Firebase. It can serve as a foundation to learn this stack and roll out more complex features.
+*   🔌 [FireSQL (⭐344)](https://github.com/jsayol/FireSQL) - Query Firestore using SQL syntax. Issues the minimum amount of queries necessary in order to get the data that you request.
 *   📖 [Hosting Version History](https://firebase.google.com/docs/hosting/deploying#set_limit_for_retained_versions) - Automatic deletion of older versions of your site deployments.
-*   🔌 [Firestorter (⭐374)](https://github.com/IjzerenHein/firestorter) - Use Firestore in React with zero effort, using MobX (also for react-native).
+*   🔌 [Firestorter (⭐377)](https://github.com/IjzerenHein/firestorter) - Use Firestore in React with zero effort, using MobX (also for react-native).
 *   💡 [Nextbase (⭐14)](https://github.com/martyan/nextbase) - Boilerplate of Next.js, Redux & Firebase for developers who want a quick start project.
 
 ### Mobile
@@ -470,20 +458,20 @@
 *   📖 [Firebase Flutter Documentation](https://firebase.google.com/docs/flutter/setup) - Official Firebase Flutter Setup.
 *   🔌 [NativeScript plugin Firebase (⭐1k)](https://github.com/EddyVerbruggen/nativescript-plugin-firebase) - NativeScript plugin for Firebase.
 *   🔌 [React Native Firebase (⭐11k)](https://github.com/invertase/react-native-firebase) - Well-tested feature rich modular Firebase implementation for React Native. Supports both iOS & Android platforms.
-*   💡 [Expo Native Firebase (⭐209)](https://github.com/EvanBacon/expo-native-firebase) - Native Firebase Expo App (iOS, Android) Demo for Firestore, Notifications, Analytics, Storage, Messaging, Database.
+*   💡 [Expo Native Firebase (⭐208)](https://github.com/EvanBacon/expo-native-firebase) - Native Firebase Expo App (iOS, Android) Demo for Firestore, Notifications, Analytics, Storage, Messaging, Database.
 
 ### Mobile / Android
 
-*   🔌 [GeoFire for Java (⭐670)](https://github.com/firebase/geofire-java) - Realtime location queries with Firebase.
+*   🔌 [GeoFire for Java (⭐671)](https://github.com/firebase/geofire-java) - Realtime location queries with Firebase.
 *   🔌 [Firebase UI (⭐4.5k)](https://github.com/firebase/firebaseui-android) - Optimized UI components for Firebase.
 *   🔌 [FireXtensions (⭐29)](https://github.com/rosariopfernandes/firextensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
 
 ### Mobile / iOS
 
-*   🔌 [GeoFire for Objective-C (⭐441)](https://github.com/firebase/geofire-objc) - Realtime location queries with Firebase.
-*   🔌 [Firebase UI (⭐1.4k)](https://github.com/firebase/firebaseui-ios) - iOS UI bindings for Firebase.
+*   🔌 [GeoFire for Objective-C (⭐440)](https://github.com/firebase/geofire-objc) - Realtime location queries with Firebase.
+*   🔌 [Firebase UI (⭐1.5k)](https://github.com/firebase/firebaseui-ios) - iOS UI bindings for Firebase.
 *   💡 [MLKit - ARCore (⭐11)](https://github.com/FirebaseExtended/MLKit-ARCore) - Example detecting objects and tags them with 3D labels in Augmented Reality. Uses Firebase ML Kit, ARCore and Firebase RTDB.
-*   💡 [MLKit - ARKit (⭐31)](https://github.com/FirebaseExtended/MLKit-ARKit) - Example detecting objects using Firebase ML Kit and tags them with 3D labels in Augmented Reality.
+*   💡 [MLKit - ARKit (⭐32)](https://github.com/FirebaseExtended/MLKit-ARKit) - Example detecting objects using Firebase ML Kit and tags them with 3D labels in Augmented Reality.
 
 ### Server-side (Cloud Functions, BigQuery etc) / iOS
 
@@ -494,25 +482,25 @@
 *   📹 [Official Cloud Function #Firecasts](https://www.youtube.com/watch?v=2mjfI0FYP7Y\&list=PLl-K7zZEsYLm9A9rcHb1IkyQUu6QwbjdM) - YouTube video series about understanding how Cloud Functions work.
 *   📝 [Firebase Hosting for Cloud Run Services](https://firebase.googleblog.com/2019/04/firebase-hosting-and-cloud-run.html) - Dynamic content with Hosting Rewrites & Cloud Run Services.
 *   📝 [Scheduled (Cron) Cloud Functions for Firebase](https://firebase.googleblog.com/2019/04/schedule-cloud-functions-firebase-cron.html) - Firebase-native Cron triggers for Firebase Cloud Functions.
-*   🔌 [Integrify (⭐104)](https://github.com/anishkny/integrify) - Enforce referential and data integrity in Firestore using pre-canned Cloud Functions triggers.
+*   🔌 [Integrify (⭐106)](https://github.com/anishkny/integrify) - Enforce referential and data integrity in Firestore using pre-canned Cloud Functions triggers.
 
 ### CLI & Editor / iOS
 
-*   🔧 [VSCode Firebase Explorer (⭐140)](https://github.com/jsayol/vscode-firebase-explorer) - Explore and manage your Firebase projects.
-*   🔧 [Firebase Tools (⭐3.7k)](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools.
+*   🔧 [VSCode Firebase Explorer (⭐141)](https://github.com/jsayol/vscode-firebase-explorer) - Explore and manage your Firebase projects.
+*   🔧 [Firebase Tools (⭐3.8k)](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools.
 *   🔧 [Firebase CI (⭐72)](https://github.com/prescottprue/firebase-ci) - Simplified Firebase interaction for continuous integration.
 *   🔧 [Firebase Firestore Snippets (⭐13)](https://github.com/peterhdd/firebase-firestore-snippets) - Contains the snippet for both Firebase and Firestore in VS Code editor.
-*   🔧 [Fuego (⭐184)](https://github.com/sgarciac/fuego) - Firestore client CLI supporting document add/update/query with filtering and pagination.
-*   🔧 [Firestore Rules Generator (⭐193)](https://github.com/FirebaseExtended/protobuf-rules-gen) - Official (but experimental) Firebase Rules Generator for Cloud Firestore based on Google's Protocol Buffer format.
+*   🔧 [Fuego (⭐191)](https://github.com/sgarciac/fuego) - Firestore client CLI supporting document add/update/query with filtering and pagination.
+*   🔧 [Firestore Rules Generator (⭐194)](https://github.com/FirebaseExtended/protobuf-rules-gen) - Official (but experimental) Firebase Rules Generator for Cloud Firestore based on Google's Protocol Buffer format.
 *   🔧 [Firepit (⭐26)](https://github.com/abehaskins/firepit) - Firepit is a standalone, portable version of the Firebase CLI which has no depedencies (including Node.js).
-*   🔧 [Fireward (⭐230)](https://github.com/bijoutrouvaille/fireward) - Easy to use language for Firestore rules, similar to Firebase Bolt.
+*   🔧 [Fireward (⭐235)](https://github.com/bijoutrouvaille/fireward) - Easy to use language for Firestore rules, similar to Firebase Bolt.
 
 ### Other / iOS
 
-*   🔌 [FireDrill (⭐58)](https://github.com/scottlepp/fire-drill) - Find, Edit, Add, Remove, Import, Export, and Report on your Firebase data.
-*   💡 [Unity Solutions (⭐117)](https://github.com/FirebaseExtended/unity-solutions) - Use Firebase tools to incorporate common features into your games.
+*   🔌 [FireDrill (⭐60)](https://github.com/scottlepp/fire-drill) - Find, Edit, Add, Remove, Import, Export, and Report on your Firebase data.
+*   💡 [Unity Solutions (⭐120)](https://github.com/FirebaseExtended/unity-solutions) - Use Firebase tools to incorporate common features into your games.
 *   🔌 [Firebase AIR Native Extension (⭐56)](https://github.com/myflashlab/Firebase-ANE) - Firebase ANE collection give you access to the Google Firebase project in your AdobeAir projects supported on both Android and iOS with 100% identical ActionScript API.
-*   🔌 [QtFirebase (⭐269)](https://github.com/Larpon/QtFirebase) - An effort to bring Google's Firebase C++ API to Qt + QML.
+*   🔌 [QtFirebase (⭐278)](https://github.com/Larpon/QtFirebase) - An effort to bring Google's Firebase C++ API to Qt + QML.
 *   📝 [StackBlitz to Firebase Hosting Deployments](https://medium.com/@ericsimons/announcing-split-second-static-deploys-for-firebase-7440d8e84879) - StackBlitz (online code editor) to Firebase Hosting static deployments.
 *   🔧 [Flamelink](https://flamelink.io/) - CMS for Firebase. Supports Firestore, RealtimeDatabase & Storage.
 *   📹 [Firebase Summit 2018](https://www.youtube.com/watch?v=lN0VXVXsj9k\&list=PLl-K7zZEsYLnqdlmz7iFe9Lb6cRU3Nv4R) - All Firebase Summit 2018 talks.
@@ -526,7 +514,7 @@
 
 *   📹 ru [@firebase\_ru - Telegram friendly chat](https://t.me/firebase_ru)
 
-## [46. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [44. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### History
 
@@ -576,13 +564,13 @@
 
 
 
-## [47. Awesome Splunk](/content/sduff/awesome-splunk/week/README.md)
+## [45. Awesome Splunk](/content/sduff/awesome-splunk/week/README.md)
 
 ### Visualisations / IT Service Intelligence
 
 *   [Event Timeline Viz](https://splunkbase.splunk.com/app/4370/) - Interactive timeline with call-outs for events.
 
-## [48. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [46. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Forensics
 
@@ -785,13 +773,13 @@
 *   [SababaSec (⭐15)](https://github.com/SababaSec/ctf-writeups) - A collection of CTF write-ups by the SababaSec team
 *   [Shell Storm](http://shell-storm.org/repo/CTF/) - CTF challenge archive maintained by Jonathan Salwan.
 
-## [49. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [47. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### JavaScript
 
 *   [jsFuck (⭐7.1k)](https://github.com/aemkei/jsfuck)
 
-## [50. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Community
 
@@ -801,7 +789,7 @@
 
 *   [Add Push Notifications to Your Vue Chat App Using CometChat and Firebase](https://www.cometchat.com/tutorials/vue-chat-push-notifications/)
 
-## [51. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [49. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -813,19 +801,19 @@
 *   [Applied Alerting Philosophy](https://www.youtube.com/watch?v=JhxfZ0VIPP0)
 *   [Observations on Observability](https://blog.colinbreck.com/observations-on-observability/)
 
-## [52. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [50. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Testing / Matchers
 
-*   [XMLUnit (⭐276)](https://github.com/xmlunit/xmlunit) - Simplifies testing for XML output.
+*   [XMLUnit (⭐283)](https://github.com/xmlunit/xmlunit) - Simplifies testing for XML output.
 
-## [53. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [51. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### API Gateway / Symfony2
 
-*   [KrakenD (⭐5.4k)](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middleware. Written in Go.
+*   [KrakenD (⭐5.7k)](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middleware. Written in Go.
 
-## [54. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [52. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### CLI Utils
 
@@ -833,79 +821,78 @@
 
 ### Misc
 
-*   [zaru\_crystal (⭐10)](https://github.com/szTheory/zaru_crystal) - Filename sanitization
+*   [zaru\_crystal (⭐9)](https://github.com/szTheory/zaru_crystal) - Filename sanitization
 
 ### Network Protocols
 
-*   [connect-proxy (⭐5)](https://github.com/spider-gazelle/connect-proxy) - Connect method style of HTTP tunnelling / HTTP proxy
+*   [connect-proxy (⭐6)](https://github.com/spider-gazelle/connect-proxy) - Connect method style of HTTP tunnelling / HTTP proxy
 
-## [55. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [53. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### E-Books / Others
 
-*   [Archives (⭐7.7k)](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018 (⭐7.7k)](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
+*   [Archives (⭐8.1k)](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018 (⭐8.1k)](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
 
 ### Courses / Others
 
 *   [Blazor and Razor Components in a nutshell](https://www.udemy.com/course/blazor-and-razor-components-in-a-nutshell/) - October 2019 - Learn how to use a framework that allows you to run your compiled code directly in the browser on top of WebAssembly, a course on Udemy.
 *   [Blazor on ASP.NET Core 3.0](https://www.skillshare.com/site/join?teacherRef=102575464\&t=Blazor-on-ASP.NET-Core-3.0\&sku=1662883580) - October 2019 - Blazor on ASP.NET Core 3.0, a course on SkillShare.
 
-## [56. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [54. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Multi-purpose toolkits
 
 *   [PETSc](https://www.mcs.anl.gov/petsc/) - Parallel solution of scientific applications modeled by PDEs.
     (C, 2-clause BSD, [GitLab](https://gitlab.com/petsc/petsc))
 
-## [57. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [55. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Games
 
-*   [Binbo (⭐107)](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
+*   [Binbo (⭐112)](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
 
 ### Miscellaneous
 
-*   [Apex (⭐275)](https://github.com/bjro/apex) - Awesome Print for Elixir.
+*   [Apex (⭐276)](https://github.com/bjro/apex) - Awesome Print for Elixir.
 
-## [58. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [56. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Dynamic type checkers
 
-*   [pydantic (⭐12k)](https://github.com/samuelcolvin/pydantic) - Data parsing using Python type hinting. Supports dataclasses.
-*   [typeguard (⭐1.1k)](https://github.com/agronholm/typeguard) - Another one runtime type checker.
+*   [pydantic (⭐15k)](https://github.com/samuelcolvin/pydantic) - Data parsing using Python type hinting. Supports dataclasses.
+*   [typeguard (⭐1.2k)](https://github.com/agronholm/typeguard) - Another one runtime type checker.
 
-## [59. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [57. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line apps
 
-*   [npkill (⭐7.2k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
+*   [npkill (⭐7.6k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
 
-## [60. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [58. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### NewSQL Databases
 
-*   [KarelDB (⭐382)](https://github.com/rayokota/kareldb) - a relational database backed by Apache Kafka.
+*   [KarelDB (⭐383)](https://github.com/rayokota/kareldb) - a relational database backed by Apache Kafka.
 
-## [61. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [59. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Tech / Aggregator
 
-*   [Free & Open Source Jobs](https://www.fossjobs.net/)
 *   [Relocate.me](https://relocate.me/) - Verified relocation packages
 
-## [62. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [60. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Email
 
 *   [Sender](https://www.sender.net) Up to 15 000 emails/month, up to 2,500 subscribers
 
-## [63. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [61. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Companies with "remote DNA"
 
 *   [DareCode](https://www.darecode.com) - Big-data, fast-data, micro-services. Projects with real DevOps and OpenSource orientation.
 
-## [64. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [62. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Utility / Docker Container Actions
 
@@ -934,7 +921,7 @@
 
 *   [GitHub Actions Branding Cheat Sheet](https://haya14busa.github.io/github-action-brandings/)
 
-## [65. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [63. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Testing & Debugging
 
@@ -949,7 +936,7 @@
 
 *   [Laravel Template with Vue (⭐880)](https://github.com/wmhello/laravel_template_with_vue)
 
-## [66. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
+## [64. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
 
 ### Museums & Collections
 
@@ -963,31 +950,31 @@
 
 *   [Annals of Parasitology](https://annals-parasitology.eu/go.live.php/PL-H54/archive.html) - Open-access scientific journal of the Polish Parasitological Society, formerly *Wiadomości Parazytologiczne*, that publishes issues quarterly. Open archives start from 2002.
 
-## [67. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [65. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### GUI
 
-*   [trikl (⭐142)](https://github.com/lambdaisland/trikl)
+*   [trikl (⭐143)](https://github.com/lambdaisland/trikl)
 
-## [68. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [66. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Talks
 
 *   [Burnout And Your Meat Computer - Electromagnetic Field 2018](https://www.youtube.com/watch?v=gcYRhATiyO4) - By Jessica Rose.
 
-## [69. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [67. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Cortex (⭐7.9k)](https://github.com/cortexlabs/cortex) - Open source platform for deploying machine learning models in production.
+*   [Cortex (⭐8k)](https://github.com/cortexlabs/cortex) - Open source platform for deploying machine learning models in production.
 
-## [70. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [68. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Agency Tools
 
 *   [TBEST](https://tbest.org/) - TBEST (Transit Boardings Estimation and Simulation Tool) is an effort to develop a multi-faceted GIS-based modeling, planning and analysis tool which integrates socio-economic, land use, and transit network data into a platform for scenario-based transit ridership estimation and analysis. Funded by the Florida Department of Transportation. Free to use but not open-source.
 
-## [71. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [69. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
@@ -995,19 +982,19 @@
 
 ### Tools
 
-*   [Orangetool (⭐101)](https://github.com/Moduland/Orangetool) - Control functions for Single-Board computers in Python.
+*   [Orangetool (⭐103)](https://github.com/Moduland/Orangetool) - Control functions for Single-Board computers in Python.
 
 ### Projects
 
 *   [StreamPi](https://stream-pi.com/) - A robust alternative to the Elgato Stream Deck, that can launch apps, scripts, websites and control applications like OBS.
 
-## [72. Awesome Gideros](/content/stetso/awesome-gideros/week/README.md)
+## [70. Awesome Gideros](/content/stetso/awesome-gideros/week/README.md)
 
 ### Useful Lua-Libraries / Plugins
 
 *   [bump (⭐769)](https://github.com/kikito/bump.lua) - Simple, flexible and fast library for collision detection using axis-aligned bounding boxes (from version 2017.8 onwards Gideros contains a C-port of the library with the same API that should be used instead [cbump](https://wiki.giderosmobile.com/index.php/Bump).
 
-## [73. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [71. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Dictionaries
 
@@ -1093,7 +1080,7 @@
 
 
 
-## [74. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [72. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Markdown Tools
 
@@ -1109,13 +1096,13 @@
 
 ### Utilities / Window Management
 
-*   [yabai (⭐16k)](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. A rewrite of chunkwm, it provides a more seamless integration with the operating system. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/koekeishiya/yabai/wiki)
+*   [yabai (⭐18k)](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. A rewrite of chunkwm, it provides a more seamless integration with the operating system. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/koekeishiya/yabai/wiki)
 
 ### Utilities / System Related Tools
 
 *   [Background Music (⭐14k)](https://github.com/kyleneideck/BackgroundMusic) - Automatically pause your music, set individual apps' volumes and record system audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kyleneideck/BackgroundMusic)
 
-## [75. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [73. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Family
 
@@ -1141,7 +1128,7 @@
 | ------: | -------: | -----: |
 |   2 - 4 |       12 | 60-90m |
 
-## [76. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
+## [74. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
 ### Companies / Materials
 
@@ -1194,17 +1181,17 @@
 
 *   [U.N Climate Change National Inventory Submissions](https://unfccc.int/process-and-meetings/transparency-and-reporting/reporting-and-review-under-the-convention/greenhouse-gas-inventories-annex-i-parties/national-inventory-submissions-2019) - This contains country specific climate reports from several U.N countries. It has data from 2003 onwards.
 
-## [77. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [75. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Top / Game Engine resources
 
-*   [Timy Messenger (⭐1.9k)](https://github.com/janoodleFTW/timy-messenger) <!--stargazers:janoodleFTW/timy-messenger--> - Group messaging app with a focus on organizing events by [Miguel Beltran](https://github.com/miquelbeltran) and [Franz Heinfling](https://github.com/fheinfling)
+*   [Timy Messenger (⭐2k)](https://github.com/janoodleFTW/timy-messenger) <!--stargazers:janoodleFTW/timy-messenger--> - Group messaging app with a focus on organizing events by [Miguel Beltran](https://github.com/miquelbeltran) and [Franz Heinfling](https://github.com/fheinfling)
 
 ### 🇮🇩 Indonesia / Misc
 
 *   Telegram [Flutter Indonesia](https://t.me/flutter_id)
 
-## [78. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [76. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tools / Other
 
@@ -1214,7 +1201,7 @@
 
 *   [HackingLab](https://www.hacking-lab.com/)
 
-## [79. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
+## [77. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
 ### Terminal Emulation Applications
 
@@ -1224,7 +1211,7 @@
 
 *   [kubebox (⭐2k)](https://github.com/astefanutti/kubebox) - Terminal console for Kubernetes.
 
-## [80. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [78. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### How to Use
 

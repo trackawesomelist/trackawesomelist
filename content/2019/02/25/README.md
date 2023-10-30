@@ -31,7 +31,7 @@
 
 ### Authentication and OAuth
 
-*   [OmniAuth (⭐7.7k)](https://github.com/omniauth/omniauth) - A library that standardizes multi-provider authentication utilizing Rack middleware.
+*   [OmniAuth (⭐7.8k)](https://github.com/omniauth/omniauth) - A library that standardizes multi-provider authentication utilizing Rack middleware.
 
 ### CMS
 
@@ -65,11 +65,11 @@
 
 ### Networking
 
-*   [Dnsruby (⭐186)](https://github.com/alexdalitz/dnsruby) - A pure Ruby DNS client library which implements a stub resolver. It aims to comply with all DNS RFCs.
+*   [Dnsruby (⭐189)](https://github.com/alexdalitz/dnsruby) - A pure Ruby DNS client library which implements a stub resolver. It aims to comply with all DNS RFCs.
 
 ### PDF
 
-*   [InvoicePrinter (⭐849)](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing in Ruby (built on top of Prawn).
+*   [InvoicePrinter (⭐861)](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing in Ruby (built on top of Prawn).
 
 ### Queues and Messaging
 
@@ -103,13 +103,13 @@
 
 ### Boilerplates / Themes
 
-*   [Create React App + Ant Design (⭐580)](https://github.com/ant-design/create-react-app-antd) - Use antd in create-react-app without ejecting
+*   [Create React App + Ant Design (⭐584)](https://github.com/ant-design/create-react-app-antd) - Use antd in create-react-app without ejecting
 
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Game Engine
 
-*   [Halley (⭐3.3k)](https://github.com/amzeratul/halley) - A lightweight game engine written in C++14 with a "true" entity-component system. \[Apache 2.0]
+*   [Halley (⭐3.4k)](https://github.com/amzeratul/halley) - A lightweight game engine written in C++14 with a "true" entity-component system. \[Apache 2.0]
 
 ---
 

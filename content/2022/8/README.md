@@ -10,13 +10,13 @@
 
 ### Metrics Monitor - EMAIL / Meetups
 
-*   [WebPerformance Report](https://webperformancereport.com/) - Web performance report every week in your inbox. Get a Personalized Report on the Status of the Ecommerce or Website that you want to monitor in terms of Web performance and Web optimization, Core Web Vitals are included.
+*   [WebPerformance Report](https://webperformancereport.com/) - Web performance report every week in your inbox. Get a Personalized Report on the Status of the E-commerce or Website that you want to monitor in terms of Web performance and Web optimization, Core Web Vitals are included.
 
 ## [2. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### JupyterLab Extensions
 
-*   [stickyland (⭐280)](https://github.com/xiaohk/stickyland) - Break the linear presentation of notebooks with sticky cells.
+*   [stickyland (⭐445)](https://github.com/xiaohk/stickyland) - Break the linear presentation of notebooks with sticky cells.
 
 ### Hosted Notebook Solutions
 
@@ -27,123 +27,119 @@
 
 ### Other Tools / Telegram
 
-*   [DuckDuckGo URL scraper (⭐15)](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
+*   [DuckDuckGo URL scraper (⭐16)](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
 
 ## [4. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Back-End Development
 
-*   [Slim (⭐18)](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
+*   [Slim (⭐23)](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
-*   [Vue 3 TypeScript Library Template (⭐3)](https://github.com/TinkoLiu/vue3-ts-lib-template) A simple but complete library template for Vue 3, supports generating `.vue.d.ts`
+*   [Vue 3 TypeScript Library Template (⭐4)](https://github.com/TinkoLiu/vue3-ts-lib-template) A simple but complete library template for Vue 3, supports generating `.vue.d.ts`
 
 ### Projects Using Vue.js / Open Source
 
-*   [Balancer (⭐138)](https://github.com/balancer-labs/frontend-v2) - A Decentralized Finance app that runs on Ethereum.
+*   [Balancer (⭐166)](https://github.com/balancer-labs/frontend-v2) - A Decentralized Finance app that runs on Ethereum.
 
 ### Components & Libraries / UI Components
 
 *   [control-knob (⭐8)](https://github.com/slipmatio/control-knob) - Rotary control knob component for Vue 3 that behaves like audio app controls.
 *   [vue-nav-tab (⭐2)](https://github.com/kien5436/vue-nav-tab) Tab components for Vue.js 3 project
-*   [vue-dropify (⭐16)](https://github.com/khofaai/vue-dropify) - A Simple image dropzone component for Vuejs
+*   [vue-dropify (⭐17)](https://github.com/khofaai/vue-dropify) - A Simple image dropzone component for Vuejs
 
 ### Components & Libraries / Frameworks
 
-*   [petite-vue (⭐7.7k)](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement.
+*   [petite-vue (⭐8.3k)](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement.
 
 ### Components & Libraries / Scaffold
 
-*   [electron-vite-template (⭐276)](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. **It's fast!**
+*   [electron-vite-template (⭐318)](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. **It's fast!**
 
 ## [6. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
-*   [Rust algorithms (⭐49)](https://github.com/Jondolf/rust-algorithms) - A website with interactive implementations of various algorithms.
+*   [Rust algorithms (⭐67)](https://github.com/Jondolf/rust-algorithms) - A website with interactive implementations of various algorithms.
 
 ### Alternatives / Frameworks
 
-*   [Dioxus (⭐8.1k)](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
-*   [Sycamore (⭐2.1k)](https://github.com/sycamore-rs/sycamore) - A reactive library for creating web apps in Rust and WebAssembly.
+*   [Dioxus (⭐14k)](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
+*   [Sycamore (⭐2.4k)](https://github.com/sycamore-rs/sycamore) - A reactive library for creating web apps in Rust and WebAssembly.
 
 ## [7. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
-### Security monitoring / Firewall appliances or distributions
+### Security monitoring / Post-engagement analysis and reporting
 
-*   [Starbase (⭐258)](https://github.com/JupiterOne/starbase) - Collects assets and relationships from services and systems into an intuitive graph view to offer graph-based security analysis for everyone.
+*   [Starbase (⭐294)](https://github.com/JupiterOne/starbase) - Collects assets and relationships from services and systems into an intuitive graph view to offer graph-based security analysis for everyone.
 
 ## [8. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Admin
 
-*   [SQLAlchemy Admin (⭐782)](https://github.com/aminalaee/sqladmin) - Admin Panel for FastAPI/Starlette that works with SQLAlchemy models.
+*   [SQLAlchemy Admin (⭐1.1k)](https://github.com/aminalaee/sqladmin) - Admin Panel for FastAPI/Starlette that works with SQLAlchemy models.
 
 ### Utils / Other Tools
 
-*   [FastAPI Opentracing (⭐19)](https://github.com/wesdu/fastapi-opentracing) - Opentracing middleware and database tracing support for FastAPI.
+*   [FastAPI Opentracing (⭐21)](https://github.com/wesdu/fastapi-opentracing) - Opentracing middleware and database tracing support for FastAPI.
 
 ### Official Resources / Other Tools
 
 *   [Discord](https://discord.com/invite/VQjSZaeJmf) - Chat with other FastAPI users.
 
-### Tutorials / Other Tools
-
-*   [How to monitor your FastAPI service](https://guitton.co/posts/fastapi-monitoring) - Explains how to implement Application Performance Monitoring (APM) using OpenTelemetry and Datadog/Jaeger.
-
 ### Docker Images / Other Tools
 
-*   [inboard (⭐121)](https://github.com/br3ndonland/inboard) - Docker images to power your FastAPI apps and help you ship faster.
-*   [uvicorn-gunicorn-fastapi-docker (⭐2.1k)](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python 3.7 and 3.6 with performance auto-tuning.
-*   [uvicorn-gunicorn-poetry (⭐26)](https://github.com/max-pfeiffer/uvicorn-gunicorn-poetry) - This Docker image provides a platform to run FastAPI using Gunicorn with Uvicorn workers. It provides Poetry for managing dependencies and setting up a virtual environment in the container.
-*   [uvicorn-poetry (⭐21)](https://github.com/max-pfeiffer/uvicorn-poetry) - This Docker image provides a platform to run FastAPI with Uvicorn on Kubernetes container orchestration system. It provides Poetry for managing dependencies and setting up a virtual environment in the container.
+*   [inboard (⭐145)](https://github.com/br3ndonland/inboard) - Docker images to power your FastAPI apps and help you ship faster.
+*   [uvicorn-gunicorn-fastapi-docker (⭐2.3k)](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python 3.7 and 3.6 with performance auto-tuning.
+*   [uvicorn-gunicorn-poetry (⭐31)](https://github.com/max-pfeiffer/uvicorn-gunicorn-poetry) - This Docker image provides a platform to run FastAPI using Gunicorn with Uvicorn workers. It provides Poetry for managing dependencies and setting up a virtual environment in the container.
+*   [uvicorn-poetry (⭐28)](https://github.com/max-pfeiffer/uvicorn-poetry) - This Docker image provides a platform to run FastAPI with Uvicorn on Kubernetes container orchestration system. It provides Poetry for managing dependencies and setting up a virtual environment in the container.
 
 ### Open Source Projects / Other Tools
 
-*   [FastAPI Websocket Broadcast (⭐113)](https://github.com/kthwaite/fastapi-websocket-broadcast) - Websocket 'broadcast' demo.
+*   [FastAPI Websocket Broadcast (⭐118)](https://github.com/kthwaite/fastapi-websocket-broadcast) - Websocket 'broadcast' demo.
 
 ## [9. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [Pyxel (⭐11k)](https://github.com/kitao/pyxel) - a retro game engine for Python.
+*   :tada: [Pyxel (⭐13k)](https://github.com/kitao/pyxel) - a retro game engine for Python.
 
 ## [10. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Communications / Modbus
 
-*   [micropython-modbus (⭐47)](https://github.com/brainelectronics/micropython-modbus) - ModBus TCP and RTU library supporting client and host mode. Based on pycom-modbus from Pycom.
+*   [micropython-modbus (⭐64)](https://github.com/brainelectronics/micropython-modbus) - ModBus TCP and RTU library supporting client and host mode. Based on pycom-modbus from Pycom.
 
 ### Communications / Serial
 
-*   [I2C Slave (⭐610)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/I2C.md) - Uses the Pyboard's I2C slave mode to implement a full duplex asynchronous link. Principal use case is for ESP8266 which has only one UART.
+*   [I2C Slave (⭐635)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/I2C.md) - Uses the Pyboard's I2C slave mode to implement a full duplex asynchronous link. Principal use case is for ESP8266 which has only one UART.
 
 ### Communications / WiFi
 
-*   [Micropython-ESP-WiFi-Manager (⭐16)](https://github.com/brainelectronics/Micropython-ESP-WiFi-Manager) - WiFi Manager to configure and connect to networks.
+*   [Micropython-ESP-WiFi-Manager (⭐21)](https://github.com/brainelectronics/Micropython-ESP-WiFi-Manager) - WiFi Manager to configure and connect to networks.
 
 ### Display / GUI
 
-*   [TFT-GUI (⭐78)](https://github.com/peterhinch/micropython-tft-gui) - A fast touch GUI for large displays based on SSD1963 controller with XPT2046 touch controller.
+*   [TFT-GUI (⭐82)](https://github.com/peterhinch/micropython-tft-gui) - A fast touch GUI for large displays based on SSD1963 controller with XPT2046 touch controller.
 
 ### Storage / Flash
 
-*   [micropython-winbond (⭐3)](https://github.com/brainelectronics/micropython-winbond) - Interact with Winbond W25Q Flash chips via SPI.
+*   [micropython-winbond (⭐4)](https://github.com/brainelectronics/micropython-winbond) - Interact with Winbond W25Q Flash chips via SPI.
 
 ## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [ziggy42/kolor (⭐71)](https://github.com/ziggy42/kolor) - A library to print colored strings, with Kotlin.
+*   [ziggy42/kolor (⭐73)](https://github.com/ziggy42/kolor) - A library to print colored strings, with Kotlin.
 
 ## [12. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### UI Libraries
 
-*   [AgnosticUI (⭐623)](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
+*   [AgnosticUI (⭐670)](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
 
 ## [13. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
 
@@ -153,14 +149,14 @@
 
 ### Tools / Ansible
 
-*   [comtrya (⭐272)](https://github.com/comtrya/comtrya) - Configuration management for localhost, written in Rust, for Linux,
+*   [comtrya (⭐370)](https://github.com/comtrya/comtrya) - Configuration management for localhost, written in Rust, for Linux,
     BSD, macOS, and Windows
 
 ## [14. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
-*   [Icons8 Line Awesome (⭐1.1k)](https://github.com/icons8/line-awesome) - Swap Font Awesome for modern line icons in one line of code.
+*   [Icons8 Line Awesome (⭐1.2k)](https://github.com/icons8/line-awesome) - Swap Font Awesome for modern line icons in one line of code.
 
 ## [15. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 
@@ -197,7 +193,7 @@
 
 ### Status Bar
 
-*   [tmux-window-name (⭐108)](https://github.com/ofirgall/tmux-window-name) Names your tmux windows smartly.
+*   [tmux-window-name (⭐135)](https://github.com/ofirgall/tmux-window-name) Names your tmux windows smartly.
 
 ## [17. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
@@ -210,8 +206,8 @@
 ### Libraries / APIs & Web Services
 
 *   SteamID - A library for manipulating Steam IDs.
-    *   [Node.js (⭐59)](https://github.com/DoctorMcKay/node-steamid)
-    *   [PHP (⭐6)](https://github.com/DoctorMcKay/php-steamid)
+    *   [Node.js (⭐65)](https://github.com/DoctorMcKay/node-steamid)
+    *   [PHP (⭐8)](https://github.com/DoctorMcKay/php-steamid)
 
 ## [19. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
@@ -237,7 +233,7 @@
 
 ## [22. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
-### Technology in General / Angular
+### Technology in General / Svelte
 
 *   [Unzip.dev](https://unzip.dev/). Developer trends newsletter, unpacking one trend at a time.
 
@@ -251,7 +247,7 @@
 
 ### Software / Make your life easier
 
-*   [Keploy (⭐1.6k)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks(test data) from API calls.
+*   [Keploy (⭐2.1k)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks(test data) from API calls.
 
 ## [25. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
 
@@ -287,7 +283,7 @@
 
 *   [SVG.js](https://svgjs.dev/) - Dependency-free lightweight library for creating, manipulating, and animating SVG.
 *   [Components AI](https://components.ai/) - Experimental computational design platform for exploring generative space.
-*   [DrawingBotV3 (⭐203)](https://github.com/SonarSonic/DrawingBotV3) - Cross-platform software for converting images to line drawings.
+*   [DrawingBotV3 (⭐235)](https://github.com/SonarSonic/DrawingBotV3) - Cross-platform software for converting images to line drawings.
 
 ### Software / Vector Utilities
 
@@ -327,7 +323,7 @@
 
 ### Audio
 
-*   [Beatbump (⭐731)](https://github.com/snuffyDev/Beatbump) - Alternative frontend for YouTube Music; no ads and custom API wrapper.
+*   [Beatbump (⭐845)](https://github.com/snuffyDev/Beatbump) - Alternative frontend for YouTube Music; no ads and custom API wrapper.
 
 ### Decentralized
 
@@ -335,21 +331,22 @@
 
 ### Alternative Frontends
 
-*   [Nitter (⭐7.4k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
-    *   [Fritter (⭐1.3k)](https://github.com/jonjomckay/fritter/) - A free, open-source Nitter client for Android.
+*   [Nitter (⭐8.5k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
+    *   [Fritter (⭐1.4k)](https://github.com/jonjomckay/fritter/) - A free, open-source Nitter client for Android (feed no longer available).
+        *   *   [Squawker (⭐281)](https://github.com/j-fbriere/squawker) - An active fork of Fritter that fixes the feed.
 
 ## [33. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome SOAR (⭐607)](https://github.com/correlatedsecurity/Awesome-SOAR) - A curated Cyber "Security Orchestration, Automation and Response (SOAR)" resources list.
-*   [Awesome Security Hardening (⭐4.3k)](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, best practices, checklists, benchmarks, tools and other resources.
+*   [Awesome SOAR (⭐651)](https://github.com/correlatedsecurity/Awesome-SOAR) - A curated Cyber "Security Orchestration, Automation and Response (SOAR)" resources list.
+*   [Awesome Security Hardening (⭐4.6k)](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, best practices, checklists, benchmarks, tools and other resources.
 
 ### Other Awesome Lists / Other Common Awesome Lists
 
-*   [Awesome Self-Hosted (⭐133k)](https://github.com/awesome-selfhosted/awesome-selfhosted)
-*   [Awesome Analytics (⭐3.6k)](https://github.com/0xnr/awesome-analytics)
-*   [Awesome Sysadmin (⭐18k)](https://github.com/awesome-foss/awesome-sysadmin)
+*   [Awesome Self-Hosted (⭐151k)](https://github.com/awesome-selfhosted/awesome-selfhosted)
+*   [Awesome Analytics (⭐3.7k)](https://github.com/0xnr/awesome-analytics)
+*   [Awesome Sysadmin (⭐20k)](https://github.com/awesome-foss/awesome-sysadmin)
 
 ## [34. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
@@ -365,14 +362,14 @@
 
 ### Visualizations
 
-*   [fastest-bus-analysis-in-the-west (⭐15)](https://github.com/vta/fastest-bus-analysis-in-the-west) - A python Pandas script that combines Ridership/APC, Swiftly speed and dwell data, bus stop inventory, GTFS, and geospatial shapes to create a stop by stop, route by route, time grouping filterable dataset for cross-analyses.  The dataset is then visualized in [Tableau](https://public.tableau.com/profile/vivek7797#!/vizhome/stopsandspeedanalyses/Story1) to help VTA Planners find places to make bus and rail network faster and more reliable through speedups methods like stop consolidation and dedicated lanes.
-*   [gtfs-visualizations (⭐111)](https://github.com/cmichi/gtfs-visualizations) - Open-source NodeJS application for visualizing the routes of GTFS datasets.
+*   [fastest-bus-analysis-in-the-west (⭐16)](https://github.com/vta/fastest-bus-analysis-in-the-west) - A python Pandas script that combines Ridership/APC, Swiftly speed and dwell data, bus stop inventory, GTFS, and geospatial shapes to create a stop by stop, route by route, time grouping filterable dataset for cross-analyses.  The dataset is then visualized in [Tableau](https://public.tableau.com/profile/vivek7797#!/vizhome/stopsandspeedanalyses/Story1) to help VTA Planners find places to make bus and rail network faster and more reliable through speedups methods like stop consolidation and dedicated lanes.
+*   [gtfs-visualizations (⭐114)](https://github.com/cmichi/gtfs-visualizations) - Open-source NodeJS application for visualizing the routes of GTFS datasets.
 *   [MIT COAXS](http://mittransportanalyst.github.io/) - Co-creative Planning of Transit Corridors using Accessibility-Based Stakeholder Engagement (shows route scenarios using [OpenTripPlanner Analyst](http://www.opentripplanner.org/analyst/)).
 *   [MOTIS](https://motis-project.de/) - Intermodal Mobility Information System including [visualization](https://europe.motis-project.de/)
 *   [MTA Frequency](http://www.tyleragreen.com/maps/new_york/) - Frequency visualization of subways and buses in New York City built using [Transitland](https://transit.land/).
 *   [SEPTA Rail OTP Report](https://apps.phor.net/septa/) - An online on-time performance reporing & drill down tool using GTFS.
-*   [Toronto Transit Explorer (⭐34)](https://github.com/sidewalklabs/totx) - A Java application that visualizes transit, biking and walking accessibility across the city of Toronto. Live version hosted [here](https://totx.sidewalklabs.com/). Uses a modified version of [R5 (⭐218)](https://github.com/conveyal/r5) for routing.
-*   [TransitFlow (⭐268)](https://github.com/transitland/transitland-processing-animation) Animate GTFS data around the world using Processing and Transitland.
+*   [Toronto Transit Explorer (⭐35)](https://github.com/sidewalklabs/totx) - A Java application that visualizes transit, biking and walking accessibility across the city of Toronto. Live version hosted [here](https://totx.sidewalklabs.com/). Uses a modified version of [R5 (⭐227)](https://github.com/conveyal/r5) for routing.
+*   [TransitFlow (⭐271)](https://github.com/transitland/transitland-processing-animation) Animate GTFS data around the world using Processing and Transitland.
 *   [TRAVIC Transit Visualization Client](http://tracker.geops.ch/) - Visualizes vehicles moving based on static GTFS data (and sometimes realtime data). Supports over 260 cities.  Github account for geOps organization is [here](https://github.com/geops).
 *   [Traze](https://traze.app/) by [Veridict](https://www.veridict.com) - Visualization of public transport vehicles from all over the world. Collaborate with other users to get real-time updates even when it is not available from the agency. Based on a number of sources, including GTFS and GTFS-RT. (Previously known as [Livemap24](https://www.livemap24.com)).
 *   [Visualizing MBTA Data](http://mbtaviz.github.io/) - Interactive graphs that show how people use Boston's subway system.
@@ -386,17 +383,17 @@
 
 ### Overview / YouTube
 
-*   [yattee (⭐1.2k)](https://github.com/yattee/yattee): Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped, supports sponsorblock
-*   [ytcast (⭐672)](https://github.com/MarcoLucidi01/ytcast): Cast YouTube videos to your smart TV from the command line. This program does roughly the same thing as the "Play on TV" button that appears on the player bar when you visit youtube.com with Chrome or when you use the YouTube smartphone app
+*   [yattee (⭐1.5k)](https://github.com/yattee/yattee): Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped, supports sponsorblock
+*   [ytcast (⭐684)](https://github.com/MarcoLucidi01/ytcast): Cast YouTube videos to your smart TV from the command line. This program does roughly the same thing as the "Play on TV" button that appears on the player bar when you visit youtube.com with Chrome or when you use the YouTube smartphone app
 
 ### Overview / YouTube Music
 
-*   [ytmdesktop (⭐2.7k)](https://github.com/ytmdesktop/ytmdesktop): Cross-platform (Windows, Mac, and Linux) desktop app for YouTube Music. Has a (proprietary?) remote control app for Android
+*   [ytmdesktop (⭐2.9k)](https://github.com/ytmdesktop/ytmdesktop): Cross-platform (Windows, Mac, and Linux) desktop app for YouTube Music. Has a (proprietary?) remote control app for Android
 *   [AudioTube](https://invent.kde.org/plasma-mobile/audiotube): Client for YouTube Music. Plasma-mobile project with an interface designed for Linux phones
 
 ### Overview / Twitter
 
-*   [Fritter (⭐1.1k)](https://github.com/jonjomckay/fritter): A free, open-source Twitter client for Android
+*   [Fritter (⭐1.3k)](https://github.com/jonjomckay/fritter): A free, open-source Twitter client for Android
 
 ### Overview / Imgur
 
@@ -404,7 +401,7 @@
 
 ### Redirection / Other services
 
-*   [libredirect (⭐2.1k)](https://github.com/libredirect/libredirect): A web extension that redirects popular sites to alternative privacy-friendly frontends and backends. Actively maintained fork of Privacy Redirect that supports Youtube, Youtube Music, Twitter, TikTok, Imgur, Reddit, Searx, Google Translate, Google Maps, Wikipedia, and Medium
+*   [libredirect (⭐2.5k)](https://github.com/libredirect/libredirect): A web extension that redirects popular sites to alternative privacy-friendly frontends and backends. Actively maintained fork of Privacy Redirect that supports Youtube, Youtube Music, Twitter, TikTok, Imgur, Reddit, Searx, Google Translate, Google Maps, Wikipedia, and Medium
     *   [Firefox Add-On](https://addons.mozilla.org/firefox/addon/libredirect/)
     *   [Chrome Extension](https://libredirect.github.io/download_chromium.html)
 
@@ -424,25 +421,21 @@
 
 ### Projects / Wallets
 
-*   [QRCode Generator (⭐20)](https://github.com/emg110/algorand-qrcode)
+*   [QRCode Generator (⭐19)](https://github.com/emg110/algorand-qrcode)
 
 ## [38. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [SimpleX Chat (⭐3k)](https://github.com/simplex-chat/simplex-chat) - The most private and secure chat and applications platform - now with double ratchet E2E encryption. `AGPL-3.0` `Haskell`
+*   [SimpleX Chat (⭐4.4k)](https://github.com/simplex-chat/simplex-chat) - The most private and secure chat and applications platform - now with double ratchet E2E encryption. `AGPL-3.0` `Haskell`
 
 ### Software / Communication - Email - Webmail Clients
 
-*   [SnappyMail](https://snappymail.eu/) - Simple, modern, lightweight & fast web-based email client. (It is an actively developed fork of RainLoop). ([Demo](https://snappymail.eu/demo/), [Source Code (⭐574)](https://github.com/the-djmaze/snappymail)) `AGPL-3.0` `PHP`
+*   [SnappyMail](https://snappymail.eu/) - Simple, modern, lightweight & fast web-based email client (fork of RainLoop). ([Demo](https://snappymail.eu/demo/), [Source Code (⭐701)](https://github.com/the-djmaze/snappymail)) `AGPL-3.0` `PHP`
 
 ### Software / Content Management Systems (CMS)
 
 *   [Neos](https://www.neos.io) - Neos or TYPO3 Neos (for version 1) is a modern, open source CMS. ([Source Code](https://github.com/neos)) `GPL-3.0` `PHP`
-
-### Software / Learning and Courses
-
-*   [Vocascan](https://vocascan.com/) - A highly configurable vocabulary trainer. ([Source Code (⭐26)](https://github.com/vocascan/vocascan-server), [Clients (⭐4)](https://github.com/vocascan/vocascan-desktop)) `Apache-2.0` `Nodejs`
 
 ## [39. Awesome Snmp](/content/eozer/awesome-snmp/week/README.md)
 
@@ -512,57 +505,60 @@
     *   [DGIdb](https://www.dgidb.org/) - A database of drug-gene interactions and the druggable genome.
     *   [Comparative Toxicogenomics Database](http://ctdbase.org/) - A database of Chemical-gene interactions, Chemical-disease associations, Gene-disease associations, and Chemical-phenotype associations.
     *   [SNAP](https://snap.stanford.edu/biodata/datasets/10002/10002-ChG-Miner.html#:~:text=Dataset%20information,or%20activation%20of%20the%20drug.) - A dataset which contains Drug-gene interactions.
+    *   [Comparative Toxicogenomics Database](https://ctdbase.org/) - A database for drug-target interactions.
+    *   [Therapeutics Data Commons](https://tdcommons.ai/) - A database for a lot of tasks such as drug-target, drug-response, drug-drug interaction.
 *   Chemical Protein Interaction
     *   [STITCH](http://stitch.embl.de/) - A database of Chemical Protein Interaction.
+    *   [BindingDB](https://www.bindingdb.org/rwd/bind/index.jsp) - A database of compounds and targes.
 
 ### Machine Learning Tasks and Models / Drug Repurposing
 
-*   [DRKG (⭐476)](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.
+*   [DRKG (⭐503)](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.
 
 ## [41. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Entertainment
 
-*   [Doddle- (become an artist in a minute) (⭐74)](https://github.com/NaserElziadna/doddle) - 💚Amazing magical doodle drawing app/game provide a creative doodle world for you 🖌💛🌸💚 [Naser Elziadna](https://github.com/NaserElziadna)
+*   [Doddle- (become an artist in a minute) (⭐103)](https://github.com/NaserElziadna/doddle) - 💚Amazing magical doodle drawing app/game provide a creative doodle world for you 🖌💛🌸💚 [Naser Elziadna](https://github.com/NaserElziadna)
 
 ### Contents / News and Magazine
 
-*   [Hacki (⭐565)](https://github.com/Livinglist/Hacki) - A Hacker News reader by [Jiaqi Feng](https://github.com/Livinglist).
+*   [Hacki (⭐776)](https://github.com/Livinglist/Hacki) - A Hacker News reader by [Jiaqi Feng](https://github.com/Livinglist).
 
 ## [42. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
-*   [evosax (⭐263)](https://github.com/RobertTLange/evosax) - JAX-Based Evolution Strategies <img src="https://img.shields.io/github/stars/RobertTLange/evosax?style=social" align="center">
-*   [SymJAX (⭐106)](https://github.com/SymJAX/SymJAX) - Symbolic CPU/GPU/TPU programming. <img src="https://img.shields.io/github/stars/SymJAX/SymJAX?style=social" align="center">
-*   [mcx (⭐324)](https://github.com/rlouf/mcx) - Express & compile probabilistic programs for performant inference. <img src="https://img.shields.io/github/stars/rlouf/mcx?style=social" align="center">
+*   [evosax (⭐365)](https://github.com/RobertTLange/evosax) - JAX-Based Evolution Strategies <img src="https://img.shields.io/github/stars/RobertTLange/evosax?style=social" align="center">
+*   [SymJAX (⭐111)](https://github.com/SymJAX/SymJAX) - Symbolic CPU/GPU/TPU programming. <img src="https://img.shields.io/github/stars/SymJAX/SymJAX?style=social" align="center">
+*   [mcx (⭐323)](https://github.com/rlouf/mcx) - Express & compile probabilistic programs for performant inference. <img src="https://img.shields.io/github/stars/rlouf/mcx?style=social" align="center">
 
 ## [43. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [SaturnCloud](https://saturncloud.io/) - Data science cloud environment, that allows to run Jupyter notebooks and Dask clusters. 30 hours free computation and 3 hours of Dask per month.
+*   [SaturnCloud](https://saturncloud.io/) - Data science cloud environment that allows running Jupyter notebooks and Dask clusters. Thirty hours of free computation and 3 hours of Dask per month.
 
 ### Tools for Teams and Collaboration
 
-*   [Stickies](https://stickies.app/) - Visual collaboration app used for brainstorming, content curation, and notes. Free for up to 3 Walls, unlimited users, 1 GB storage.
+*   [Stickies](https://stickies.app/) - Visual collaboration app used for brainstorming, content curation, and notes. Free for up to 3 Walls, unlimited users, and 1 GB storage.
 
 ### Translation Management
 
-*   [Lecto](https://lecto.ai/) - Machine Translation API with Free tier (30 free requests, 1000 translated characters per request). Integrated with Loco Translate Wordpress plugin.
+*   [Lecto](https://lecto.ai/) - Machine Translation API with Free tier (30 free requests, 1000 translated characters per request). Integrated with the Loco Translate Wordpress plugin.
 
 ### Monitoring
 
-*   [cronitor.io](https://cronitor.io/) - Performance insights and uptime monitoring for cron jobs, websites, APIs and more. Free tier with 5 monitors.
+*   [cronitor.io](https://cronitor.io/) - Performance insights and uptime monitoring for cron jobs, websites, APIs and more. A free tier with five monitors.
 
 ### Domain
 
-*   [eu.org](https://nic.eu.org) — Free eu.org domain. Request is usually approved in 14 days.
+*   [eu.org](https://nic.eu.org) — Free eu.org domain. The request is usually approved in 14 days.
 *   [pp.ua](https://nic.ua/) — Free pp.ua subdomains.
 
 ### Issue Tracking and Project Management
 
-*   [Shake](https://www.shakebugs.com/) - In-app bug reporting and feedback tool for mobile apps. Free plan, 10 bug reports per app/per month.
+*   [Shake](https://www.shakebugs.com/) - In-app bug reporting and feedback tool for mobile apps. Free plan, ten bug reports per app/month.
 *   [SuperPM](https://superpm.app/) - Versatile project management platform. Free for up to 3 projects, unlimited users, 1 GB storage.
 
 ## [44. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
@@ -592,7 +588,7 @@
 
 ### Snippet / Diagnostics
 
-*   [ellisonleao/carbon-now.nvim (⭐92)](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from Neovim.
+*   [ellisonleao/carbon-now.nvim (⭐118)](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from Neovim.
 
 ## [48. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -611,7 +607,7 @@
 
 ### Featured (new releases)
 
-*   🔧 [(Unofficial) Firebase Admin SDK for PHP (⭐1.9k)](https://github.com/kreait/firebase-php) - The Firebase Admin PHP SDK enables access to Firebase services from privileged environments (such as servers or cloud) in PHP.
+*   🔧 [(Unofficial) Firebase Admin SDK for PHP (⭐2k)](https://github.com/kreait/firebase-php) - The Firebase Admin PHP SDK enables access to Firebase services from privileged environments (such as servers or cloud) in PHP.
 
 ### Mobile
 
@@ -627,7 +623,7 @@
 
 ## [51. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
-### Videos / Vendor supported providers
+### Videos / IDE
 
 *   [Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)](https://www.youtube.com/watch?v=7xngnjfIlK4) - Complete course from beginner to pro, with no cloud provider focus, with a general approach
 
@@ -635,32 +631,32 @@
 
 ### Cryptography
 
-*   [CryptoNet (⭐53)](https://github.com/maythamfahmi/CryptoNet) - .NET simple crypto library. Native c#.
+*   [CryptoNet (⭐75)](https://github.com/maythamfahmi/CryptoNet) - .NET simple crypto library. Native c#.
 
 ### Image Processing
 
-*   [PixelViewer (⭐96)](https://github.com/carina-studio/PixelViewer) - Cross-platform (Windows/macOS/Linux) image viewer which supports reading raw Luminance/YUV/RGB/ARGB/Bayer pixels data from file and rendering it. 10/16-bit YUV and viewing image frame sequence are also supported (v1.99+).
+*   [PixelViewer (⭐137)](https://github.com/carina-studio/PixelViewer) - Cross-platform (Windows/macOS/Linux) image viewer which supports reading raw Luminance/YUV/RGB/ARGB/Bayer pixels data from file and rendering it. 10/16-bit YUV and viewing image frame sequence are also supported (v1.99+).
 
 ## [53. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [pyenv (mattberther) (⭐42)](https://github.com/mattberther/zsh-pyenv) - Inspired by [zsh-rbenv (⭐2)](https://github.com/ecortinas/zsh-rbenv). Installs, updates or loads `pyenv`, and adds extra functionality.
-*   [pyenv (xlshiz) (⭐2)](https://github.com/xlshiz/pyenv-zsh-plugin) - Loads [pyenv (⭐32k)](https://github.com/pyenv/pyenv) into the current shell and provides prompt info via the `pyenv_prompt_info` function. Also loads [pyenv-virtualenv (⭐5.5k)](https://github.com/pyenv/pyenv-virtualenv) if available.
-*   [pyenv-lazy (⭐37)](https://github.com/davidparsson/zsh-pyenv-lazy) - Lazy load [pyenv (⭐32k)](https://github.com/pyenv/pyenv). The initial `eval "$(pyenv init -)"` is executed the first time `pyenv` is called.
+*   [pyenv (mattberther) (⭐42)](https://github.com/mattberther/zsh-pyenv) - Inspired by **zsh-rbenv**. Installs, updates or loads `pyenv`, and adds extra functionality.
+*   [pyenv (xlshiz) (⭐2)](https://github.com/xlshiz/pyenv-zsh-plugin) - Loads [pyenv (⭐34k)](https://github.com/pyenv/pyenv) into the current shell and provides prompt info via the `pyenv_prompt_info` function. Also loads [pyenv-virtualenv (⭐5.7k)](https://github.com/pyenv/pyenv-virtualenv) if available.
+*   [pyenv-lazy (⭐40)](https://github.com/davidparsson/zsh-pyenv-lazy) - Lazy load [pyenv (⭐34k)](https://github.com/pyenv/pyenv). The initial `eval "$(pyenv init -)"` is executed the first time `pyenv` is called.
 *   [pyvenv-fast (⭐2)](https://github.com/ACmyles/pyvenv-fast) - Launch a Python `venv` with one command. Designed for use with [dotpyvenv (⭐7)](https://github.com/jeanpantoja/dotpyvenv).
-*   [shift-select (⭐51)](https://github.com/jirutka/zsh-shift-select) - Emacs shift-select mode for ZSH - select text in the command line using Shift, as in many text editors, browsers and other GUI programs.
-*   [unwrap (⭐2)](https://github.com/foxleigh81/unwrap-zsh-plugin) - Allows you to remove a directory without removing the contents - it puts them in the directory's parent directory.
+*   [shift-select (⭐68)](https://github.com/jirutka/zsh-shift-select) - Emacs shift-select mode for ZSH - select text in the command line using Shift, as in many text editors, browsers and other GUI programs.
+*   [unwrap (⭐3)](https://github.com/foxleigh81/unwrap-zsh-plugin) - Allows you to remove a directory without removing the contents - it puts them in the directory's parent directory.
 *   [zservice-py3http (⭐4)](https://github.com/z-shell/zservice-py3http) - Serve a given directory with Python 3's http server from the standard library.
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [gardenctl (⭐0)](https://github.com/holgerkoser/gardenctl) - Tab completions for the [Gardener (⭐20)](https://github.com/gardener/gardenctl-v2) command-line interface, as well as some aliases for common gardenctl commands
-*   [mac (⭐153)](https://github.com/scriptingosx/mac-zsh-completions) - Completions files for macOS specific commands and third party tools.
+*   [gardenctl (⭐0)](https://github.com/holgerkoser/gardenctl) - Tab completions for the [Gardener (⭐21)](https://github.com/gardener/gardenctl-v2) command-line interface, as well as some aliases for common gardenctl commands
+*   [mac (⭐167)](https://github.com/scriptingosx/mac-zsh-completions) - Completions files for macOS specific commands and third party tools.
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bernkastel (⭐1)](https://github.com/JamesLaverack/bernkastel) - Based on [ys (⭐159k)](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/ys.zsh-theme). Includes decorations for kubernetes context, current directory, last command exit status and `git` status.
+*   [bernkastel (⭐1)](https://github.com/JamesLaverack/bernkastel) - Based on [ys (⭐164k)](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/ys.zsh-theme). Includes decorations for kubernetes context, current directory, last command exit status and `git` status.
 *   [boxy (⭐0)](https://github.com/evil-tim/boxy-zsh-theme) - Works well with solarized terminal colors. Includes decorators for `username@hostname`, current directory, `git` status, return code for last command, and time last command was run.
 *   [devj121 (⭐0)](https://github.com/cjeonguk/devj121-zsh-theme) - Includes `git` decorations with branch glyphs.
 
@@ -668,14 +664,14 @@
 
 ### JSON
 
-*   [Sextant (⭐35)](https://github.com/KittyMac/Sextant) :penguin: - High performance JSONPath queries
+*   [Sextant (⭐42)](https://github.com/KittyMac/Sextant) :penguin: - High performance JSONPath queries
 
 ## [55. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
-*   [bartib (⭐337)](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
-*   [lowcharts (⭐113)](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs in terminal
+*   [bartib (⭐426)](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
+*   [lowcharts (⭐138)](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs in terminal
 
 ### Customization / Directory Navigation
 
@@ -683,79 +679,75 @@
 
 ### System Utilities / Directory Navigation
 
-*   [tiptop (⭐1.3k)](https://github.com/nschloe/tiptop) - Graphical command-line system monitor.
+*   [tiptop (⭐1.4k)](https://github.com/nschloe/tiptop) - Graphical command-line system monitor.
 
 ### Shell Script Development / Directory Navigation
 
 *   [bashly](https://bashly.dannyb.co/) - Bash command line framework and CLI generator
-*   [bash-modules (⭐97)](https://github.com/vlisivka/bash-modules) - functions for developing with [unofficial strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/) enabled.
-*   [composure (⭐303)](https://github.com/erichs/composure) - Compose, document, version and organize your shell functions
-*   [dispatch (⭐88)](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - A command line argument parser in 50 lines of portable shell script.
-*   [getopts.fish (⭐201)](https://github.com/jorgebucaran/getopts.fish) - CLI parser for fish
+*   [bash-modules (⭐113)](https://github.com/vlisivka/bash-modules) - functions for developing with [unofficial strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/) enabled.
+*   [composure (⭐311)](https://github.com/erichs/composure) - Compose, document, version and organize your shell functions
+*   [dispatch (⭐89)](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - A command line argument parser in 50 lines of portable shell script.
+*   [getopts.fish (⭐208)](https://github.com/jorgebucaran/getopts.fish) - CLI parser for fish
 
 ## [56. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
 
 ### Native / FPS
 
-*   [Darkest Hour (⭐54)](https://github.com/DarklightGames/DarkestHour) - World War 2 online multiplayer tactical shooter based on Red Orchestra: Ostfront.
+*   [Darkest Hour (⭐55)](https://github.com/DarklightGames/DarkestHour) - World War 2 online multiplayer tactical shooter based on Red Orchestra: Ostfront.
 *   [Urban Terror (⭐74)](https://github.com/FrozenSand/UrbanTerror4) - Free multiplayer first person shooter that will run on any Quake III Arena compatible engine.
 
 ## [57. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Forms
 
-*   [httpin (⭐168)](https://github.com/ggicci/httpin) - Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc.
+*   [httpin (⭐206)](https://github.com/ggicci/httpin) - Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc.
 
 ### HTTP Clients
 
-*   [go-cleanhttp (⭐297)](https://github.com/hashicorp/go-cleanhttp) - Get easily stdlib HTTP client, which does not share any state with other clients.
+*   [go-cleanhttp (⭐328)](https://github.com/hashicorp/go-cleanhttp) - Get easily stdlib HTTP client, which does not share any state with other clients.
 
 ### Server Applications
 
-*   [Wish (⭐2.1k)](https://github.com/charmbracelet/wish) - Make SSH apps, just like that!
+*   [Wish (⭐2.3k)](https://github.com/charmbracelet/wish) - Make SSH apps, just like that!
 
 ## [58. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Get Started
 
-*   [create-vitawind (⭐123)](https://github.com/huibizhang/vitawind/tree/package/create-vitawind) - Scaffolding for TailwindCSS project.
+*   [create-vitawind (⭐138)](https://github.com/huibizhang/vitawind/tree/package/create-vitawind) - Scaffolding for TailwindCSS project.
 
 ### Templates / Vanilla
 
-*   [vite-vanilla-tailwind-v3 (⭐30)](https://github.com/huibizhang/template-vite-vanilla-tailwind-v3) - Starter template for Tailwindcss and prettier-plugin-tailwindcss build-in.
+*   [vite-vanilla-tailwind-v3 (⭐38)](https://github.com/huibizhang/template-vite-vanilla-tailwind-v3) - Starter template for Tailwindcss and prettier-plugin-tailwindcss build-in.
 
 ### Templates / Vue 3
 
-*   [vite-vue3-typescript-webcomponent (⭐13)](https://github.com/skysign/vite-vue3-typescript-webcomponent) - Vue 3 / Typescript / boiler plate to develop Web Component.
-*   [vite-vue-ts-storybook (⭐68)](https://github.com/Miguel-Bento-Github/vite-vue-ts-storybook) - Vue 3 / i18n / Typescript / Vite / Storybook / ESLint / Prettier.
+*   [vite-vue3-typescript-webcomponent (⭐19)](https://github.com/skysign/vite-vue3-typescript-webcomponent) - Vue 3 / Typescript / boiler plate to develop Web Component.
+*   [vite-vue-ts-storybook (⭐73)](https://github.com/Miguel-Bento-Github/vite-vue-ts-storybook) - Vue 3 / i18n / Typescript / Vite / Storybook / ESLint / Prettier.
 *   [Vitawind Creator](https://vitawind.vercel.app/scaffolding/creator/) - Create TailwindCSS project rapidly.
-*   [vue3-ts-vite-vitest-todo (⭐6)](https://github.com/hefengxian/vue3-ts-vite-vitest-todo) - Vue 3 / TypeScript / Vite / Vitest with full tests / Composition API / Pure TS/TSX.
+*   [vue3-ts-vite-vitest-todo (⭐10)](https://github.com/hefengxian/vue3-ts-vite-vitest-todo) - Vue 3 / TypeScript / Vite / Vitest with full tests / Composition API / Pure TS/TSX.
 
 ### Templates / Vue 2
 
-*   [vite-vue2-ts-starter (⭐29)](https://github.com/logue/vite-vue2-ts-starter) - Vue2 TypeScript startar template using vue-property-decorator, vue-router, Vuex.
-
-### Templates / React
-
-*   [vite-react-ts-extended (⭐84)](https://github.com/laststance/vite-react-ts-extended) - React, TypeScript, TailwindCSS, MSW, Axios, Jest, React Testing Library, ESLint, Prettier, GitHub Actions.
+*   [vite-vue2-ts-starter (⭐30)](https://github.com/logue/vite-vue2-ts-starter) - Vue2 TypeScript starter template using vue-property-decorator, vue-router, Vuex.
 
 ### Templates / Svelte
 
-*   [SvelteKit (⭐15k)](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps.
+*   [SvelteKit (⭐16k)](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps.
 
 ### Templates / Others
 
 *   [vit-singlefile-gzip](https://github.com/MillerRen/vite-singlefile-gzip.git) - Starter template for embedded.
-*   [11st-Starter-Kit (⭐328)](https://github.com/stefanfrede/11st-starter-kit) - 11ty, powered by Vite with Tailwind CSS and Alpine.js.
+*   [11st-Starter-Kit (⭐346)](https://github.com/stefanfrede/11st-starter-kit) - 11ty, powered by Vite with Tailwind CSS and Alpine.js.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-image-presets (⭐211)](https://github.com/ElMassimo/vite-plugin-image-presets) - Define presets to automatically create and optimize responsive images.
+*   [vite-plugin-image-presets (⭐227)](https://github.com/ElMassimo/vite-plugin-image-presets) - Define presets to automatically create and optimize responsive images.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-chunk-split (⭐195)](https://github.com/sanyuan0704/vite-plugin-chunk-split) - Automatically code splitting, support unbundle in production.
-*   [vite-plugin-static-copy (⭐140)](https://github.com/sapphi-red/vite-plugin-static-copy) - Copy files and folders.
+*   [vite-plugin-chunk-split (⭐242)](https://github.com/sanyuan0704/vite-plugin-chunk-split) - Automatically code splitting, support unbundle in production.
+*   [vite-plugin-static-copy (⭐174)](https://github.com/sapphi-red/vite-plugin-static-copy) - Copy files and folders.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -763,15 +755,15 @@
 
 ### WordPress / Community
 
-*   [wordpress-vite-assets (⭐77)](https://github.com/idleberg/php-wordpress-vite-assets) - Integration for WordPress themes.
+*   [wordpress-vite-assets (⭐103)](https://github.com/idleberg/php-wordpress-vite-assets) - Integration for WordPress themes.
 
 ## [59. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### System 1 & System 2 / Neural-Symbolic AI
 
-*   [Grounded Language Learning Fast and Slow](https://arxiv.org/pdf/2009.01719.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=17735027444431750346\&hl=en\&as_sdt=0,5)]. \[[Project (⭐51)](https://github.com/deepmind/dm_fast_mapping?s=05)].
+*   [Grounded Language Learning Fast and Slow](https://arxiv.org/pdf/2009.01719.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=17735027444431750346\&hl=en\&as_sdt=0,5)]. \[[Project (⭐52)](https://github.com/deepmind/dm_fast_mapping?s=05)].
 
-### Causality / Democratization
+### Causality / Democratization of Science
 
 *   [Do six-month-old infants perceive causality?](http://fitelson.org/woodward/leslie.pdf) - ***Cognition***, 1987. \[[All Versions](https://scholar.google.com/scholar?cluster=14270905342434182186\&hl=en\&as_sdt=0,5)].
 

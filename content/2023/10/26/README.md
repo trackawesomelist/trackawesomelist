@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 26, 2023
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -47,13 +47,52 @@
 
 *   [vue3-ui-preloader (⭐0)](https://github.com/gbast0s/vue3-ui-preloader) - Vue3 Pre Loader components for vue.js projects with playground.
 
-## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [7. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+
+### 3D
+
+*
+
+### Art
+
+*   [seaart.ai](https://www.seaart.ai/) - AI image generation tool with advanced configurations available, tons of ready to use models and image enhancements, text to img , img to text and much. `#freemium`
+
+### Code Assistant
+
+*   [Blackbox](https://blackbox.dev/) - Blackbox is an AI-powered code editor that helps developers write code faster and more efficiently. `#freemium`
+
+### Cooking
+
+*   [dishgen](https://www.dishgen.com/) - DishGen is a smart recipe assistant that can simplify healthy cooking for you. `#freemium`
+
+### General Writing
+
+*   [QuillBot](https://quillbot.com/) - An AI writing assistance, paraphrasing tool, Plagiarism Checker, Citation generator `#free`
+
+### Image Generator
+
+*   [Imagine](https://www.imagine.art) - Text to image with AI Art Generator `#freemium`
+*   [Wepik AI](https://wepik.com/ai) - Text to Image Converter `#free`
+
+### Logo Generator
+
+*   [LogoAi](https://www.logoai.com/logo-maker) - AI-powered logo maker and online design tool. `#freemium`
+
+### Models
+
+*   [Qwen (⭐5.7k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
+
+### Spreadsheets
+
+*   [AI Excel Bot](https://aiexcelbot.com) - Write Excel and Google Sheets Formulas Faster With AI `#freemium`
+
+## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Design and Product / Other Tools
 
 *   [Aspect](https://aspect.bildhuus.com) - Photo organization application with support for peer-to-peer based synchronization across devices. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [8. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [9. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Strategy
 
@@ -66,9 +105,6 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |       2 |        6 |  30m |
-
-### Party
-
 ### [Raiders of the North Sea](https://boardgamegeek.com/boardgame/170042/raiders-north-sea)
 
 > Raiders of the North Sea is set in the central years of the Viking Age. As Viking warriors, players seek to impress the Chieftain by raiding unsuspecting settlements. To do so, players need to assemble a crew, collect provisions, and journey north to plunder gold, iron and livestock. Glory can be found in battle, even at the hands of the Valkyrie, so gather your warriors because it's raiding season.
@@ -78,6 +114,9 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 4 |       12 |  80m |
+
+### Party
+
 ### [Star Wars: The Deckbuilding Game](https://en.wikipedia.org/wiki/Star_Wars:_The_Deckbuilding_Game)
 
 > Star Wars is a deckbuilding game released by Fantasy Flight Games and Asmodee.Each player controls a base that represent that player's life pool, and is able to obtain another base if theirs is destroyed. The object is to destroy three bases to win the game, which is achieved by attacking the opposing player.On their turn, a player uses the resources from the five cards in their hand to obtain new cards from a central "galaxy row", which contains cards of the Empire and Rebel factions. The player may only select from cards of their faction, and the galaxy row is reconstituted with cards from the "galaxy deck".One innovate game mechanic is the ability of a player to attack cards still in the galaxy row before they have been obtained by other players, known as sabotage for the Rebel faction and bounty hunting for the Empire faction. These provide a reward to the player taking that action, and also deny other players from obtaining targeted cards.Throughout the game, a Force meter records the balance in The Force, which may alter the effect of cards in favour of a particular faction.
@@ -120,7 +159,7 @@
 
 Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
 
-## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Courses and Educational Materials / Deforum
 
@@ -135,13 +174,13 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 *   [Prompt Engineering Guide | Learn Prompting: Your Guide to Communicating with AI](https://learnprompting.org/docs/intro)
 *   [Short Courses | Learn Generative AI from DeepLearning.AI](https://www.deeplearning.ai/short-courses/)
 
-## [10. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [11. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Form / Checkbox
 
 *   [Superforms](https://superforms.rocks) - SvelteKit library for handling server and client validation, and client-side display of forms.
 
-## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
@@ -151,7 +190,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [ASP.NET Core updates in .NET 8 Release Candidate 2](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-rc-2/) - October 10, 2023 - This is the last release candidate that we plan to share before the final .NET 8 release later this year. Most of the planned features and changes for .NET 8 are part of this release candidate and are ready for you to try out.
 
-## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -161,13 +200,13 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [coffebar/transfer.nvim (⭐3)](https://github.com/coffebar/transfer.nvim) - Sync and diff with remote server using rsync and OpenSSH.
 
-## [13. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [14. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Testing / Zabbix
 
 *   [pgTAP (⭐866)](https://github.com/theory/pgtap) - Unit Testing for PostgreSQL.
 
-## [14. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [15. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
 ### Graphs / Gremlin
 
@@ -175,4 +214,5 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ---
 
+- Prev: [Oct 27, 2023](/content/2023/10/27/README.md)
 - Next: [Oct 25, 2023](/content/2023/10/25/README.md)

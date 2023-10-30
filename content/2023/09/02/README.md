@@ -10,7 +10,7 @@
 
 ### Web
 
-*   [west (⭐8)](https://github.com/Dracks/West) - A wrapper of vweb to work in a similar way as nestjs works with modules and dependency injection.
+*   [west (⭐9)](https://github.com/Dracks/West) - A wrapper of vweb to work in a similar way as nestjs works with modules and dependency injection.
 
 ## [2. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [starfish-vue3-lowcode (⭐150)](https://github.com/haixin-fang/starfish-vue3-lowcode) - Vue3 visual lowcode form designer, convenient and quick to complete all kinds of form design!
+*   [starfish-vue3-lowcode (⭐168)](https://github.com/haixin-fang/starfish-vue3-lowcode) - Vue3 visual lowcode form designer, convenient and quick to complete all kinds of form design!
 
 ### Components & Libraries / UI Components
 
@@ -46,14 +46,15 @@
 
 ### Components & Libraries / Integrations
 
-*   [vue-tg (⭐11)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
+*   [vue-tg (⭐21)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
 
 ## [4. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Terminal / CLI tools
 
-*   [decompose](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments. By [@s0rg](https://github.com/s0rg)
+*   [decompose (⭐50)](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments. By [@s0rg](https://github.com/s0rg)
 
 ---
 
+- Prev: [Sep 03, 2023](/content/2023/09/03/README.md)
 - Next: [Sep 01, 2023](/content/2023/09/01/README.md)

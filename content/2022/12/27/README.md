@@ -10,7 +10,7 @@
 
 ### Helpers
 
-*   [YAS (⭐0)](https://github.com/kithf/yas) - Yet Another Screen manager.
+*   [YAS (⭐2)](https://github.com/kithf/yas) - Yet Another Screen manager.
 
 ## [2. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Libraries
 
-*   [Fortuna (⭐520)](https://github.com/awslabs/fortuna) - AWS library for Uncertainty Quantification in Deep Learning. <img src="https://img.shields.io/github/stars/awslabs/fortuna?style=social" align="center">
+*   [Fortuna (⭐733)](https://github.com/awslabs/fortuna) - AWS library for Uncertainty Quantification in Deep Learning. <img src="https://img.shields.io/github/stars/awslabs/fortuna?style=social" align="center">
 
 ## [4. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Plugins
 
-*   🎨💼 [Accent (⭐6)](https://github.com/enjidev/tailwindcss-accent) - Adds `accent` colors for more dynamic and flexible color utilization.
+*   🎨💼 [Accent (⭐11)](https://github.com/enjidev/tailwindcss-accent) - Adds `accent` colors for more dynamic and flexible color utilization.
 
 ## [6. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -48,17 +48,17 @@
 
 ### Plugin Manager
 
-*   [folke/lazy.nvim (⭐5.1k)](https://github.com/folke/lazy.nvim) - A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more 💤.
+*   [folke/lazy.nvim (⭐7.8k)](https://github.com/folke/lazy.nvim) - A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more 💤.
 
 ### Editing Support / Diagnostics
 
-*   [chrisgrieser/nvim-various-textobjs (⭐233)](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of about a dozen custom text objects.
+*   [chrisgrieser/nvim-various-textobjs (⭐325)](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of about a dozen custom text objects.
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [softblobby (⭐0)](https://github.com/gsalami00/softblobby/) - A theme for people who love unicorns, pink and purple. Includes decorators for `git` information, current directory, time and username.
+*   [softblobby (⭐2)](https://github.com/gsalami00/softblobby/) - A theme for people who love unicorns, pink and purple. Includes decorators for `git` information, current directory, time and username.
 
 ## [9. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

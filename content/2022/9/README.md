@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 28 - Mar 06, 2022
 
-55 awesome lists updated this week.
+56 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,31 +10,37 @@
 
 ### 2D / Godot 3.2+
 
-*   [Everplast (⭐43)](https://github.com/WraithWinterly/Everplast) - Unique 2D platforming experience filled with rage, rush, speed, and spray.
+*   [Everplast (⭐51)](https://github.com/WraithWinterly/Everplast) - Unique 2D platforming experience filled with rage, rush, speed, and spray.
 
-## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [2. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+
+### Authentication & Identity
+
+*   [FusionAuth](https://fusionauth.io/) - Security-centric authentication as a Service, including self-hosting.
+
+## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Database
 
-*   [square/sqldelight (⭐5.2k)](https://github.com/square/sqldelight) - Generates Java models from CREATE TABLE statements.
+*   [square/sqldelight (⭐5.5k)](https://github.com/square/sqldelight) - Generates Java models from CREATE TABLE statements.
 
 ### Libraries/Frameworks / Graphics
 
-*   [kotlin-graphics/openvr (⭐32)](https://github.com/kotlin-graphics/openvr) - OpenVR binding
+*   [kotlin-graphics/openvr (⭐34)](https://github.com/kotlin-graphics/openvr) - OpenVR binding
 
-## [3. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [4. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Social Media Tools / Facebook
 
 *   [Find my Facebook ID](https://randomtools.io)
 
-## [4. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
+## [5. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
 
 ### Other projects / Other
 
 *   [JuNest (⭐1.8k)](https://github.com/fsquillace/junest) - A lightweight Arch Linux-based distro that runs, without root privileges, upon any Linux distro.
 
-## [5. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
+## [6. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
 ### JavaScript References
 
@@ -45,7 +51,7 @@
 
 *   [JavaScript30](https://javascript30.com) - Video course with 30 small and self-contained tutorials to build neat little things with plain JavaScript.
 
-## [6. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
+## [7. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
 ### :books: Literature / Scientific Research
 
@@ -72,31 +78,31 @@
 
 ### :wrench: Tools / Before 2000
 
-*   [FUU (⭐41)](https://github.com/crackinglandia/fuu) - Fast Universal Unpacker.
+*   [FUU (⭐42)](https://github.com/crackinglandia/fuu) - Fast Universal Unpacker.
 
-## [7. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [8. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Resources in Other Languages / Kurdish (Central)
 
 *   [deno.land](https://denoland-ckb.deno.dev/)
 
-## [8. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [9. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
 *   Neural Network Libraries
-    *   [FedJAX (⭐220)](https://github.com/google/fedjax) - Federated learning in JAX, built on Optax and Haiku. <img src="https://img.shields.io/github/stars/google/fedjax?style=social" align="center">
-    *   [Equivariant MLP (⭐215)](https://github.com/mfinzi/equivariant-MLP) - Construct equivariant neural network layers. <img src="https://img.shields.io/github/stars/mfinzi/equivariant-MLP?style=social" align="center">
-    *   [jax-resnet (⭐88)](https://github.com/n2cholas/jax-resnet/) - Implementations and checkpoints for ResNet variants in Flax. <img src="https://img.shields.io/github/stars/n2cholas/jax-resnet?style=social" align="center">
-    *   [Parallax (⭐155)](https://github.com/srush/parallax) - Immutable Torch Modules for JAX. <img src="https://img.shields.io/github/stars/srush/parallax?style=social" align="center">
+    *   [FedJAX (⭐240)](https://github.com/google/fedjax) - Federated learning in JAX, built on Optax and Haiku. <img src="https://img.shields.io/github/stars/google/fedjax?style=social" align="center">
+    *   [Equivariant MLP (⭐232)](https://github.com/mfinzi/equivariant-MLP) - Construct equivariant neural network layers. <img src="https://img.shields.io/github/stars/mfinzi/equivariant-MLP?style=social" align="center">
+    *   [jax-resnet (⭐96)](https://github.com/n2cholas/jax-resnet/) - Implementations and checkpoints for ResNet variants in Flax. <img src="https://img.shields.io/github/stars/n2cholas/jax-resnet?style=social" align="center">
+    *   [Parallax (⭐157)](https://github.com/srush/parallax) - Immutable Torch Modules for JAX. <img src="https://img.shields.io/github/stars/srush/parallax?style=social" align="center">
 
-## [9. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [10. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Security
 
 *   [DJ Checkup](https://djcheckup.com) - Runs several checks on your deployed Django site to check for common security mistakes.
 
-## [10. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
+## [11. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 
 ### Explore another notebook / What just happened?
 
@@ -114,20 +120,20 @@
     *   [Review: Andrew Ng's Machine Learning Course](https://towardsdatascience.com/review-andrew-ngs-machine-learning-course-b905aafdb7d9)
     *   [The user reviews on Coursera](https://www.coursera.org/learn/machine-learning/reviews)
 
-## [11. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
+## [12. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
 
 ### Reset and Normalize / Editor's Draft :black_nib:
 
 *   [CSS Checker (⭐536)](https://github.com/ruilisi/css-checker) - Find and Reduce Similar & Duplicated CSS Scripts.
 
-## [12. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [13. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
-*   [amplication/amplication (⭐9.4k)](https://github.com/amplication/amplication#readme) - Clear project logo. Brief explanation. All features explained. Clean documentation. Useful links (website, docs, discord). List of contributors with their pictures and usernames.
-*   [emalderson/thephish (⭐731)](https://github.com/emalderson/ThePhish#readme) - Project logo, informative badges, useful TOC, clear description, screenshots, step-by-step installation and configuration guide, contributor guidelines, code of conduct, UML diagrams, coherent tags, issue and pull request templates, well-documented and well-commented code, examples.
+*   [amplication/amplication (⭐13k)](https://github.com/amplication/amplication#readme) - Clear project logo. Brief explanation. All features explained. Clean documentation. Useful links (website, docs, discord). List of contributors with their pictures and usernames.
+*   [emalderson/thephish (⭐953)](https://github.com/emalderson/ThePhish#readme) - Project logo, informative badges, useful TOC, clear description, screenshots, step-by-step installation and configuration guide, contributor guidelines, code of conduct, UML diagrams, coherent tags, issue and pull request templates, well-documented and well-commented code, examples.
 
-## [13. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [14. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Community
 
@@ -164,25 +170,35 @@
 
 *   [CircuitPython community on Reddit](https://www.reddit.com/r/circuitpython/) - Dedicated home of CircuitPython on reddit [r/circuitpython/](https://www.reddit.com/r/circuitpython/).
 
-## [14. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [15. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### HTML and CSS / Spock Framework
+
+*   [Learning sass](https://riptutorial.com/Download/sass.pdf) - Compiled from Stack Overflow documentation (PDF)
+
+### JavaScript / React Native
+
+*   [The Ultimate Guide to React Native Optimization](https://www.callstack.com/blog/download-the-ultimate-guide-to-react-native-optimization-ebook) (PDF) *(email requested, not required)*
+
+## [16. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Inbox: Music and Audio projects / Generative Adversarial Networks (GANs)
 
 *   [AI Image to sound \[Melobytes.com\]](https://melobytes.com/en/app/ai_image2sound)
 
-## [15. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [17. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Community Resources / Blogs and Scholarship
 
 *   [The Web as History](https://www.uclpress.co.uk/products/84010) - An open-source book that provides a conceptual overview to web archiving research, as well as several case studies.
 
-## [16. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [18. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Online services
 
 *   [HeadSpin](https://www.headspin.io/) - HeadSpin's Regression testing gives you a powerful comparison tool for analysing degradation across new app builds, OS releases, feature additions, locations, and more.
 
-## [17. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [19. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### System 1 & System 2 / Dual-Coding Theory
 
@@ -202,28 +218,28 @@
 
 *   [Perception of partly occluded objects in infancy](https://www.harvardlds.org/wp-content/uploads/2017/01/Perception-of-partly-occluded-objects-in-infancy-1.pdf) - ***Cognitive Psychology***, 1983. \[[All Versions](https://scholar.google.com/scholar?cluster=4182861116190610992\&hl=en\&as_sdt=0,5)].
 
-## [18. Awesome Snmp](/content/eozer/awesome-snmp/week/README.md)
+## [20. Awesome Snmp](/content/eozer/awesome-snmp/week/README.md)
 
 ### Tools / GUIs
 
 *   [Unbrowse SNMP](https://www.unleashnetworks.com/products/unbrowse-snmp.html) - Unbrowse SNMP is a tool that helps to compile cryptic MIB files into an easy GUI view, retrieve and set MIB variables on devices, import snmpwalk dumps, receive traps, chart counters, and much more.
 
-## [19. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [21. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### Animation
 
-*   [Aseprite loader (⭐19)](https://github.com/elloramir/love-ase) - Complete ase/aseprite file loader (no json).
+*   [Aseprite loader (⭐23)](https://github.com/elloramir/love-ase) - Complete ase/aseprite file loader (no json).
 
 ### Distribution
 
-*   [love-packager (⭐8)](https://github.com/simplifylabs/love-packager) - Simple CLI to package your LÖVE Game in seconds.
+*   [love-packager (⭐9)](https://github.com/simplifylabs/love-packager) - Simple CLI to package your LÖVE Game in seconds.
 
-## [20. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [22. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Official plugins
 
-*   [Device (⭐357)](https://github.com/ionic-team/capacitor-plugins/tree/main/device) - Exposes internal information about the device, such as the model and operating system version, along with user information such as unique IDs.
-*   [File system (⭐357)](https://github.com/ionic-team/capacitor-plugins/tree/main/filesystem) - Provides a NodeJS-like API for working with files on the device.
+*   [Device (⭐398)](https://github.com/ionic-team/capacitor-plugins/tree/main/device) - Exposes internal information about the device, such as the model and operating system version, along with user information such as unique IDs.
+*   [File system (⭐398)](https://github.com/ionic-team/capacitor-plugins/tree/main/filesystem) - Provides a NodeJS-like API for working with files on the device.
 
 ### Learning / Crash Courses
 
@@ -254,49 +270,49 @@
 *   [Reddit](https://www.reddit.com/r/capacitor) - Official Reddit community.
 *   [Stack Overflow](https://stackoverflow.com/tags/capacitor) - Official Stack Overflow community.
 
-## [21. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [23. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Tools / Helper tools to add annotations to existing code
 
-*   [autotyping (⭐119)](https://github.com/JelleZijlstra/autotyping) - Automatically add simple return type annotations for functions (bool, None, Optional).
+*   [autotyping (⭐155)](https://github.com/JelleZijlstra/autotyping) - Automatically add simple return type annotations for functions (bool, None, Optional).
 
-## [22. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [24. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
-*   [Vue3-Starter (⭐21)](https://github.com/cerino-ligutom/Vue3-Starter) A boilerplate with an opinion on how to structure your files/folders with a few examples such as **Vue Router** navigation guards, theming with **TailwindCSS**, form validation w/ **Vuelidate**, localization with **Fluent**, etc.
+*   [Vue3-Starter (⭐22)](https://github.com/cerino-ligutom/Vue3-Starter) A boilerplate with an opinion on how to structure your files/folders with a few examples such as **Vue Router** navigation guards, theming with **TailwindCSS**, form validation w/ **Vuelidate**, localization with **Fluent**, etc.
 
 ### Components & Libraries / UI Components
 
-*   [vue-json-viewer (⭐481)](https://github.com/chenfengjw163/vue-json-viewer) - A JSON Tree View Support for incremental update components, base on Vue2 and Vue3.
+*   [vue-json-viewer (⭐511)](https://github.com/chenfengjw163/vue-json-viewer) - A JSON Tree View Support for incremental update components, base on Vue2 and Vue3.
 
 ### Components & Libraries / Utilities
 
-*   [tolgee/vue (⭐187)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
+*   [tolgee/vue (⭐199)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
 
-## [23. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [25. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Sample GTFS and GTFS Realtime datasets used for software testing
 
-*   [sample-gtfs-feed (⭐7)](https://github.com/public-transport/sample-gtfs-feed) - An imaginary GTFS data set used for testing.
+*   [sample-gtfs-feed (⭐8)](https://github.com/public-transport/sample-gtfs-feed) - An imaginary GTFS data set used for testing.
 
 ### GTFS Converters / Ruby
 
 *   [GTFS-route-shapes (⭐15)](https://github.com/kotrc/GTFS-route-shapes) - A Python script to generate a single geoJSON shape for each transit route in a GTFS archive.
 *   [hafas-generate-gtfs (⭐6)](https://github.com/derhuerst/hafas-generate-gtfs) *(work-in-progress)* – A Javascript tool to generate GTFS dumps from HAFAS endpoints.
 
-## [24. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [26. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Web frameworks / Clack plugins
 
-*   [radiance (⭐286)](https://github.com/Shirakumo/radiance) - A web application environment and framework . [zlib](https://directory.fsf.org/wiki/License:Zlib).
-*   👍 [Snooze (⭐191)](https://github.com/joaotavora/snooze) - A RESTful web framework. Web server agnostic. Currently has support for Hunchentoot and Clack. Routes are just functions and HTTP conditions are just Lisp conditions. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [radiance (⭐290)](https://github.com/Shirakumo/radiance) - A web application environment and framework . [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   👍 [Snooze (⭐197)](https://github.com/joaotavora/snooze) - A RESTful web framework. Web server agnostic. Currently has support for Hunchentoot and Clack. Routes are just functions and HTTP conditions are just Lisp conditions. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### Developer utilities / Third-party APIs
 
-*   [journal (⭐32)](https://github.com/melisgl/journal) - a library for logging, tracing, record-and-replay testing and persistence. MIT.
+*   [journal (⭐38)](https://github.com/melisgl/journal) - a library for logging, tracing, record-and-replay testing and persistence. MIT.
 
-## [25. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [27. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Dating Apps
 
@@ -316,29 +332,29 @@
 
 *   [Simplytranslate](https://git.sr.ht/~metalune/simplytranslate_web) - Alternative front-end for Google Translate and LibreTranslate. [Demo](https://simplytranslate.org/)
 
-## [26. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [28. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Security tools
 
-*   [ObserverWard (⭐664)](https://github.com/0x727/ObserverWard) — Community based web technologies analysis tool.
+*   [ObserverWard (⭐819)](https://github.com/0x727/ObserverWard) — Community based web technologies analysis tool.
 
 ### Libraries / GUI
 
-*   [slint-ui/slint (⭐8.2k)](https://github.com/slint-ui/slint) \[[slint](https://crates.io/crates/slint)] — [Slint](https://slint-ui.com) is a toolkit to efficiently develop fluid graphical user interfaces for embedded devices and desktop applications. [![Build Status](https://github.com/slint-ui/slint/workflows/CI/badge.svg?branch=master)](https://github.com/slint-ui/slint/actions?query=workflow%3ACI)
+*   [slint-ui/slint (⭐10k)](https://github.com/slint-ui/slint) [slint](https://crates.io/crates/slint) — [Slint](https://slint.dev/) is a toolkit to efficiently develop fluid graphical user interfaces for embedded devices and desktop applications. [![Build Status](https://github.com/slint-ui/slint/workflows/CI/badge.svg?branch=master)](https://github.com/slint-ui/slint/actions?query=workflow%3ACI)
 
-## [27. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [29. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### GUI
 
-*   [Slint (⭐8.2k)](https://github.com/slint-ui/slint) - Lightweight GUI toolkit for desktop and embedded. \[GPL/Free/Commercial] [website](https://slint-ui.com)
+*   [Slint (⭐10k)](https://github.com/slint-ui/slint) - Lightweight GUI toolkit for desktop and embedded. \[GPL/Free/Commercial] [website](https://slint-ui.com)
 
-## [28. Awesome Slack](/content/matiassingers/awesome-slack/week/README.md)
+## [30. Awesome Slack](/content/matiassingers/awesome-slack/week/README.md)
 
 ### :hammer_and_wrench:   Libraries and SDKs / PowerShell
 
 *   [PSSlack (⭐259)](https://github.com/RamblingCookieMonster/PSSlack) -  PowerShell module for simple Slack integration.
 
-## [29. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [31. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Global
 
@@ -348,21 +364,21 @@
 
 *   [chgov](https://www.chgov.bar.admin.ch/) - Minutes of the Federal Council (1848-1963).
 
-## [30. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [32. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Mad science
 
 *   [webtorrent (⭐28k)](https://github.com/webtorrent/webtorrent) - Streaming torrent client for Node.js and the browser.
-*   [PDFKit (⭐8.8k)](https://github.com/foliojs/pdfkit) - PDF generation library.
-*   [xlsx (⭐33k)](https://github.com/SheetJS/sheetjs) - Pure JS Excel spreadsheet reader and writer.
+*   [PDFKit (⭐9k)](https://github.com/foliojs/pdfkit) - PDF generation library.
+*   [xlsx (⭐34k)](https://github.com/SheetJS/sheetjs) - Pure JS Excel spreadsheet reader and writer.
 
 ### Packages / Command-line apps
 
 *   [http-server (⭐13k)](https://github.com/http-party/http-server) - Simple, zero-config command-line HTTP server.
-*   [pen (⭐326)](https://github.com/hatashiro/pen) - Live Markdown preview in the browser from your favorite editor.
+*   [pen (⭐325)](https://github.com/hatashiro/pen) - Live Markdown preview in the browser from your favorite editor.
 *   [trymodule (⭐1.1k)](https://github.com/victorb/trymodule) - Try out npm packages in the terminal.
-*   [themer (⭐5.1k)](https://github.com/themerdev/themer) - Generate themes for your editor, terminal, wallpaper, Slack, and more.
-*   [taskbook (⭐8.7k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
+*   [themer (⭐5.3k)](https://github.com/themerdev/themer) - Generate themes for your editor, terminal, wallpaper, Slack, and more.
+*   [taskbook (⭐8.8k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 
 ### Packages / Functional programming
 
@@ -370,8 +386,8 @@
 
 ### Packages / HTTP
 
-*   [node-fetch (⭐8.3k)](https://github.com/node-fetch/node-fetch) - `window.fetch` for Node.js.
-*   [axios (⭐100k)](https://github.com/axios/axios) - Promise based HTTP client (works in the browser too).
+*   [node-fetch (⭐8.5k)](https://github.com/node-fetch/node-fetch) - `window.fetch` for Node.js.
+*   [axios (⭐102k)](https://github.com/axios/axios) - Promise based HTTP client (works in the browser too).
 
 ### Packages / Debugging / Profiling
 
@@ -379,7 +395,7 @@
 
 ### Packages / Logging
 
-*   [consola (⭐4.3k)](https://github.com/unjs/consola) - Console logger.
+*   [consola (⭐4.7k)](https://github.com/unjs/consola) - Console logger.
 
 ### Packages / Command-line utilities
 
@@ -387,7 +403,7 @@
 
 ### Packages / Build tools
 
-*   [pkg (⭐23k)](https://github.com/vercel/pkg) - Package your Node.js project into an executable.
+*   [pkg (⭐24k)](https://github.com/vercel/pkg) - Package your Node.js project into an executable.
 
 ### Packages / Hardware
 
@@ -400,12 +416,12 @@
 
 ### Packages / Web frameworks
 
-*   [Next.js (⭐106k)](https://github.com/vercel/next.js) - Minimalistic framework for server-rendered universal JavaScript web apps.
+*   [Next.js (⭐113k)](https://github.com/vercel/next.js) - Minimalistic framework for server-rendered universal JavaScript web apps.
 *   [Micro (⭐10k)](https://github.com/vercel/micro) - Minimalistic microservice framework with an async approach.
-*   [LoopBack (⭐4.5k)](https://github.com/loopbackio/loopback-next) - Powerful framework for creating REST APIs and easily connecting to backend data sources.
-*   [TypeGraphQL (⭐7.8k)](https://github.com/MichalLytek/type-graphql) - Modern framework for creating GraphQL APIs with TypeScript, using classes and decorators.
-*   [Tinyhttp (⭐2.4k)](https://github.com/tinyhttp/tinyhttp) - Modern and fast Express-like web framework.
-*   [Ts.ED (⭐2.5k)](https://github.com/tsedio/tsed) - Intituive TypeScript framework for building server-side apps on top of Express.js or Koa.js.
+*   [LoopBack (⭐4.7k)](https://github.com/loopbackio/loopback-next) - Powerful framework for creating REST APIs and easily connecting to backend data sources.
+*   [TypeGraphQL (⭐7.9k)](https://github.com/MichalLytek/type-graphql) - Modern framework for creating GraphQL APIs with TypeScript, using classes and decorators.
+*   [Tinyhttp (⭐2.5k)](https://github.com/tinyhttp/tinyhttp) - Modern and fast Express-like web framework.
+*   [Ts.ED (⭐2.6k)](https://github.com/tsedio/tsed) - Intituive TypeScript framework for building server-side apps on top of Express.js or Koa.js.
 
 ### Packages / Documentation
 
@@ -413,33 +429,33 @@
 
 ### Packages / Filesystem
 
-*   [proper-lockfile (⭐207)](https://github.com/moxystudio/node-proper-lockfile) - Inter-process and inter-machine lockfile utility.
+*   [proper-lockfile (⭐219)](https://github.com/moxystudio/node-proper-lockfile) - Inter-process and inter-machine lockfile utility.
 
 ### Packages / Real-time
 
-*   [µWebSockets (⭐15k)](https://github.com/uNetworking/uWebSockets) - Highly scalable WebSocket server & client library.
-*   [Aedes (⭐1.6k)](https://github.com/moscajs/aedes) - Barebone MQTT server that can run on any stream server.
+*   [µWebSockets (⭐16k)](https://github.com/uNetworking/uWebSockets) - Highly scalable WebSocket server & client library.
+*   [Aedes (⭐1.7k)](https://github.com/moscajs/aedes) - Barebone MQTT server that can run on any stream server.
 
 ### Packages / URL
 
-*   [humanize-url (⭐246)](https://github.com/sindresorhus/humanize-url) - Humanize a URL: <https://sindresorhus.com> → sindresorhus.com.
+*   [humanize-url (⭐244)](https://github.com/sindresorhus/humanize-url) - Humanize a URL: <https://sindresorhus.com> → sindresorhus.com.
 
 ### Packages / Data validation
 
 *   [joi (⭐20k)](https://github.com/sideway/joi) - Object schema description language and validator for JavaScript objects.
-*   [schema-inspector (⭐498)](https://github.com/schema-inspector/schema-inspector) - JSON API sanitization and validation.
+*   [schema-inspector (⭐500)](https://github.com/schema-inspector/schema-inspector) - JSON API sanitization and validation.
 *   [ajv (⭐13k)](https://github.com/ajv-validator/ajv) - The fastest JSON Schema validator. Supports v5, v6 and v7 proposals.
 
 ### Packages / Parsing
 
-*   [remark (⭐6.3k)](https://github.com/remarkjs/remark) - Markdown processor powered by plugins.
-*   [x-ray (⭐5.7k)](https://github.com/matthewmueller/x-ray) - Web scraping utility.
-*   [nearley (⭐3.4k)](https://github.com/kach/nearley) - Simple, fast, powerful parsing for JavaScript.
+*   [remark (⭐6.8k)](https://github.com/remarkjs/remark) - Markdown processor powered by plugins.
+*   [x-ray (⭐5.8k)](https://github.com/matthewmueller/x-ray) - Web scraping utility.
+*   [nearley (⭐3.5k)](https://github.com/kach/nearley) - Simple, fast, powerful parsing for JavaScript.
 *   [google-libphonenumber (⭐1.3k)](https://github.com/ruimarinho/google-libphonenumber) - Parse, format, store and validate phone numbers.
 
 ### Packages / Humanize
 
-*   [ms (⭐4.6k)](https://github.com/vercel/ms) - Tiny millisecond conversion utility.
+*   [ms (⭐4.8k)](https://github.com/vercel/ms) - Tiny millisecond conversion utility.
 
 ### Packages / Database
 
@@ -448,12 +464,12 @@
 
 ### Packages / Testing
 
-*   [nyc (⭐5.3k)](https://github.com/istanbuljs/nyc) - Code coverage tool built on istanbul that works with subprocesses.
-*   [tap (⭐2.2k)](https://github.com/tapjs/node-tap) - TAP test framework.
+*   [nyc (⭐5.4k)](https://github.com/istanbuljs/nyc) - Code coverage tool built on istanbul that works with subprocesses.
+*   [tap (⭐2.3k)](https://github.com/tapjs/node-tap) - TAP test framework.
 *   [trevor (⭐2.1k)](https://github.com/vadimdemedes/trevor) - Run tests against multiple versions of Node.js without switching versions manually or pushing to Travis CI.
 *   [Nock (⭐12k)](https://github.com/nock/nock) - HTTP mocking and expectations.
-*   [CodeceptJS (⭐3.9k)](https://github.com/codeceptjs/CodeceptJS) - End-to-end testing.
-*   [Puppeteer (⭐83k)](https://github.com/puppeteer/puppeteer) - Headless Chrome.
+*   [CodeceptJS (⭐4k)](https://github.com/codeceptjs/CodeceptJS) - End-to-end testing.
+*   [Puppeteer (⭐85k)](https://github.com/puppeteer/puppeteer) - Headless Chrome.
 
 ### Packages / Minifiers
 
@@ -463,11 +479,11 @@
 ### Packages / Email
 
 *   [Nodemailer (⭐16k)](https://github.com/nodemailer/nodemailer) - The fastest way to handle email.
-*   [email-templates (⭐3.5k)](https://github.com/forwardemail/email-templates) - Create, preview, and send custom email templates.
+*   [email-templates (⭐3.6k)](https://github.com/forwardemail/email-templates) - Create, preview, and send custom email templates.
 
 ### Packages / Job queues
 
-*   [agenda (⭐8.9k)](https://github.com/agenda/agenda) - MongoDB-backed job scheduling.
+*   [agenda (⭐9k)](https://github.com/agenda/agenda) - MongoDB-backed job scheduling.
 *   [node-resque (⭐1.3k)](https://github.com/actionhero/node-resque) - Redis-backed job queue.
 
 ### Packages / Natural language processing
@@ -476,20 +492,20 @@
 
 ### Packages / AST
 
-*   [Acorn (⭐9.4k)](https://github.com/acornjs/acorn) - Tiny, fast JavaScript parser.
+*   [Acorn (⭐9.8k)](https://github.com/acornjs/acorn) - Tiny, fast JavaScript parser.
 
 ### Packages / Static site generators
 
-*   [docsify (⭐24k)](https://github.com/docsifyjs/docsify) - Markdown documentation site generator with no statically built HTML files.
+*   [docsify (⭐25k)](https://github.com/docsifyjs/docsify) - Markdown documentation site generator with no statically built HTML files.
 
 ### Packages / Content management systems
 
 *   [Factor (⭐1.4k)](https://github.com/FactorJS/factor) - Vue.js dashboard framework and headless CMS.
-*   [AdminBro (⭐7k)](https://github.com/SoftwareBrothers/adminjs) - Auto-generated admin panel with CRUD for all your resources.
+*   [AdminBro (⭐7.4k)](https://github.com/SoftwareBrothers/adminjs) - Auto-generated admin panel with CRUD for all your resources.
 
 ### Packages / Serialization
 
-*   [protobuf (⭐9.1k)](https://github.com/protobufjs/protobuf.js) - Implementation of Protocol Buffers.
+*   [protobuf (⭐9.3k)](https://github.com/protobufjs/protobuf.js) - Implementation of Protocol Buffers.
 
 ### Packages / Miscellaneous
 
@@ -497,8 +513,8 @@
 
 ### Resources / Tutorials
 
-*   [Node.js Best Practices (⭐89k)](https://github.com/goldbergyoni/nodebestpractices) - Summary and curation of the top-ranked content on Node.js best practices, available in multiple languages.
-*   [Portable Node.js guide (⭐1.3k)](https://github.com/ehmicky/cross-platform-node-guide) - Practical guide on how to write portable/cross-platform Node.js code.
+*   [Node.js Best Practices (⭐93k)](https://github.com/goldbergyoni/nodebestpractices) - Summary and curation of the top-ranked content on Node.js best practices, available in multiple languages.
+*   [Portable Node.js guide (⭐1.4k)](https://github.com/ehmicky/cross-platform-node-guide) - Practical guide on how to write portable/cross-platform Node.js code.
 
 ### Resources / Newsletters
 
@@ -537,9 +553,9 @@
 ### Resources / Miscellaneous
 
 *   [nodebots](https://nodebots.io) - Robots powered by JavaScript.
-*   [Module Requests & Ideas (⭐543)](https://github.com/sindresorhus/project-ideas) - Request a JavaScript module you wish existed or get ideas for modules.
+*   [Module Requests & Ideas (⭐539)](https://github.com/sindresorhus/project-ideas) - Request a JavaScript module you wish existed or get ideas for modules.
 
-## [31. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [33. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Anti-Malware
 
@@ -632,7 +648,7 @@
   CORS: No
 
 
-- API: [When is next MCU film (⭐130)](https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md)
+- API: [When is next MCU film (⭐170)](https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md)
 
   Description: Upcoming MCU film information
 
@@ -700,31 +716,31 @@
 
 
 
-## [32. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [34. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
-### ZSH on Windows / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### ZSH on Windows / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   `ConEmu`/`zsh` out-of-the-box configured to restore previously opened tabs and shell working directories after `ConEmu` restart
 *   `MSYS2` included, `zsh` and necessary software preinstalled, uses zsh-grml-config
-*   Uses [Antigen (⭐7.6k)](https://github.com/zsh-users/antigen) for ZSH theme and config management
+*   Uses [Antigen (⭐7.7k)](https://github.com/zsh-users/antigen) for ZSH theme and config management
 *   Git-for-Windows repo with proper `git` and `git lfs` support for `MSYS2` environment is configured, `git` client already installed.
-*   Non-blocking ZSH prompt status updates thanks to [agkozak-zsh-prompt (⭐250)](https://github.com/agkozak/agkozak-zsh-prompt)
+*   Non-blocking ZSH prompt status updates thanks to [agkozak-zsh-prompt (⭐252)](https://github.com/agkozak/agkozak-zsh-prompt)
 *   Command-not-found handler customized for `MSYS2` suggests what package to install
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [github-folders (⭐0)](https://github.com/buzuloiu/zsh-github-folders) - Organizes your github checkouts for you.
+*   [github-folders (⭐0)](https://github.com/buzuloiu/zsh-github-folders) - Organizes your GitHub checkouts for you.
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [cmder (⭐13)](https://github.com/potasiyam/cmder-zsh-theme) - A ZSH theme that matches the theme of Cmder, a popular terminal emulator for windows. Includes `node` and `git` status decorations.
 *   [cn (⭐0)](https://github.com/shinqcn/cn-zsh/) - Includes `username`, `directory` and `git` status decorations.
 *   [flux (⭐0)](https://github.com/jmg-duarte/flux-zsh) - A no-nonsense minimalist theme with `git` status decorations.
 *   [linear (⭐4)](https://github.com/MrYazdan/zsh-linear-theme) - Reminiscent of Powerline. Includes segments with `git` status, Pythonvirtualenv, current directory and current time.
-*   [my (⭐0)](https://github.com/fabiendelpierre/my-zsh-theme/) - Variant of [kolo (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#kolo).
-*   [snowflake (⭐2)](https://github.com/angelina-tsuboi/snowflake-zsh-theme) - An elegant, simple, and neat ZSH theme including an aesthetically pleasing cool color palette that harmonizes with dark themes.
+*   [my (⭐0)](https://github.com/fabiendelpierre/my-zsh-theme/) - Variant of [kolo (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#kolo).
+*   [snowflake (⭐3)](https://github.com/angelina-tsuboi/snowflake-zsh-theme) - An elegant, simple, and neat ZSH theme including an aesthetically pleasing cool color palette that harmonizes with dark themes.
 
-## [33. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [35. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -738,25 +754,15 @@
 
 *   [Dev Café](https://dev-cafe.fr/) - Tous les lundis, retrouvez l'actualité tech' vue par un développeur ! Hosted by Edouard Marquez.
 
-## [34. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
-
-### Authentication & Identity
-
-*   [FusionAuth](https://fusionauth.io/) - Security-centric authentication as a Service, including self-hosting.
-
-### Computer Vision
-
-*   [Scanbot SDK](https://scanbot.io/) - Structured data extraction from images for applications.
-
-## [35. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
+## [36. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 
 ### Overview / Reddit
 
-*   [junipf/reddit-frontend (⭐21)](https://github.com/junipf/reddit-frontend): A reddit front-end written in React
+*   [junipf/reddit-frontend (⭐26)](https://github.com/junipf/reddit-frontend): A reddit front-end written in React
     *   Official instance: <https://jpf-reddit.netlify.app>
-*   [Roffline (⭐63)](https://github.com/Darkle/Roffline): A self-hosted offline Reddit server. It allows you to browse Reddit posts (including any media in the post) while offline. It is targeted at people that have intermittent internet
+*   [Roffline (⭐67)](https://github.com/Darkle/Roffline): A self-hosted offline Reddit server. It allows you to browse Reddit posts (including any media in the post) while offline. It is targeted at people that have intermittent internet
 
-## [36. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [37. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Sensor Processing / Perception Pipeline
 
@@ -766,42 +772,42 @@
 
 *   [AliceVision (⭐2.5k)](https://github.com/alicevision/AliceVision) - A Photogrammetric Computer Vision Framework which provides a 3D Reconstruction and Camera Tracking algorithms.
 
-## [37. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [38. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Service Level Agreement
 
 *   [Best practices for setting SLOs and SLIs for modern, complex systems](https://newrelic.com/blog/best-practices/best-practices-for-setting-slos-and-slis-for-modern-complex-systems)
 
-## [38. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [39. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Utility
 
-*   [vaker (⭐18)](https://github.com/ChAoSUnItY/vaker) - A light-weight compile-time-generated data faker written in V.
+*   [vaker (⭐19)](https://github.com/ChAoSUnItY/vaker) - A light-weight compile-time-generated data faker written in V.
 
-## [39. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [40. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Database Schema Migration
 
-*   [godfish (⭐4)](https://github.com/rafaelespinoza/godfish) - Database migration manager, works with native query language. Support for cassandra, mysql, postgres, sqlite3.
+*   [godfish (⭐5)](https://github.com/rafaelespinoza/godfish) - Database migration manager, works with native query language. Support for cassandra, mysql, postgres, sqlite3.
 
 ### Email
 
-*   [truemail-go (⭐43)](https://github.com/truemail-rb/truemail-go) - Configurable Golang email validator/verifier. Verify email via Regex, DNS, SMTP and even more.
+*   [truemail-go (⭐66)](https://github.com/truemail-rb/truemail-go) - Configurable Golang email validator/verifier. Verify email via Regex, DNS, SMTP and even more.
 
 ### File Handling
 
-*   [gofs (⭐220)](https://github.com/no-src/gofs) - A file synchronization tool out of the box.
+*   [gofs (⭐364)](https://github.com/no-src/gofs) - A cross-platform real-time file synchronization tool out of the box.
 
 ### Utilities
 
-*   [lo (⭐11k)](https://github.com/samber/lo) - A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+*   [lo (⭐14k)](https://github.com/samber/lo) - A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 
 ### Web Frameworks
 
 *   [Beego (⭐30k)](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
-*   [Huma (⭐200)](https://github.com/danielgtaylor/huma/) - Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI.
+*   [Huma (⭐232)](https://github.com/danielgtaylor/huma/) - Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI.
 
-## [40. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [41. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Websites
 
@@ -850,20 +856,20 @@
 
 ### Related Awesome Lists / Randomized Algorithms
 
-*   [Theoretical Computer Science (⭐375)](https://github.com/mostafatouny/awesome-theoretical-computer-science/blob/main/README.md) - The interdisciplinary of Mathematics and Computer Science, Distinguished by its emphasis on mathematical technique and rigour.
+*   [Theoretical Computer Science (⭐489)](https://github.com/mostafatouny/awesome-theoretical-computer-science/blob/main/README.md) - The interdisciplinary of Mathematics and Computer Science, Distinguished by its emphasis on mathematical technique and rigour.
 
-## [41. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [42. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Ironsworn Foes & Fights](https://drive.google.com/drive/folders/1tB_Hyw_b1GEtTV5MRugL-YmNP74NfJUp) - An Ironsworn hack adding more mechanical context to fights
 *   [Threads of Destiny](https://wraithdrof.itch.io/threads-of-destiny) - Create a destiny deck to weave plot threads into your characters story
 
-## [42. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [43. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
-*   [Realworld example (⭐691)](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly. It utilizes Yew's latest `function components` and `hooks`. It also supports desktop application powered by [Tauri (⭐62k)](https://github.com/tauri-apps/tauri).
+*   [Realworld example (⭐760)](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly. It utilizes Yew's latest `function components` and `hooks`. It also supports desktop application powered by [Tauri (⭐68k)](https://github.com/tauri-apps/tauri).
 *   [Marc Portfolio](https://gitlab.com/marcempunkt/maeurerdev) - A software developer portfolio, [Live Demo](https://maeurer.dev/).
 
 ### Crates / Component Libraries
@@ -872,33 +878,33 @@
 
 ### Crates / Utils
 
-*   [Tailwind RS (⭐69)](https://github.com/oovm/tailwind-rs) - Tailwind style tracer in rust, JIT + AOT interpreter.
+*   [Tailwind RS (⭐71)](https://github.com/oovm/tailwind-rs) - Tailwind style tracer in rust, JIT + AOT interpreter.
 
 ### Articles / Frameworks
 
 *   [A code walkthrough video of Yew with a real-world app with Christopher Hunt and Kiki Carter](https://www.youtube.com/watch?v=ilrGIJGdqRo)
 
-## [43. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [44. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Admin
 
-*   [FastAPI Admin (⭐1.7k)](https://github.com/fastapi-admin/fastapi-admin) - Functional admin panel that provides a user interface for performing CRUD operations on your data. Currently only works with the Tortoise ORM.
-*   [Piccolo Admin (⭐203)](https://github.com/piccolo-orm/piccolo_admin) - A powerful and modern admin GUI, using the Piccolo ORM.
+*   [FastAPI Admin (⭐2k)](https://github.com/fastapi-admin/fastapi-admin) - Functional admin panel that provides a user interface for performing CRUD operations on your data. Currently only works with the Tortoise ORM.
+*   [Piccolo Admin (⭐241)](https://github.com/piccolo-orm/piccolo_admin) - A powerful and modern admin GUI, using the Piccolo ORM.
 
-## [44. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [45. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Wallets
 
 *   [Pera Wallet](https://github.com/perawallet) - Secure, open source and community driven wallet for both mobile and desktop devices. Maintained by the team behind official Algorand Wallet.
 *   [Method Wallet](https://methodwallet.app/) - Algorand Wallet you'll love.
 
-## [45. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [46. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Online Resources / Other Lists Online
 
 *   [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/) - An open-source inventory of tools, resources, CTF platforms and Operating Systems about CyberSecurity. ([Source](https://gitlab.com/rawsec/rawsec-cybersecurity-list))
 
-## [46. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [47. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Operating Systems / Online resources
 
@@ -906,104 +912,97 @@
 
 ### Web / Scanning / Pentesting
 
-*   [Scanmycode CE (Community Edition) (⭐447)](https://github.com/marcinguy/scanmycode-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report. Currently supports: PHP, Java, Scala, Python, Ruby, Javascript, GO, Secret Scanning, Dependency Confusion, Trojan Source, Open Source and Proprietary Checks (total ca. 1000 checks)
+*   [Scanmycode CE (Community Edition) (⭐541)](https://github.com/marcinguy/scanmycode-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report. Currently supports: PHP, Java, Scala, Python, Ruby, Javascript, GO, Secret Scanning, Dependency Confusion, Trojan Source, Open Source and Proprietary Checks (total ca. 1000 checks)
 
-## [47. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [48. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### API / Forms
 
 *   [Fetch Forms](https://www.fetchforms.io/) - Create forms with the speed of a form builder and use them in your applications by calling a simple API.
 
-## [48. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [49. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Other / [Other](#other-1)
 
 *   [jsonlint](https://jsonlint.com/) — A JSON parser and validator with a CLI. Standalone version of jsonlint.com
 *   [Spectral](https://stoplight.io/open-source/spectral) — A flexible JSON/YAML linter, with out-of-the-box support for OpenAPI v2/v3 and AsyncAPI v2.
 
-## [49. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
+## [50. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
 
 ### Volunteering
 
 *   [Extinction Rebellion](https://rebellion.global/) - Extinction Rebellion is a decentralised, international and politically non-partisan movement using non-violent direct action and civil disobedience to persuade governments to act justly on the Climate and Ecological Emergency.
 
-## [50. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [51. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Lua Colorscheme / Diagnostics
 
-*   [lalitmee/cobalt2.nvim (⭐61)](https://github.com/lalitmee/cobalt2.nvim) - A port of cobalt2 colorscheme using colorbuddy.
+*   [lalitmee/cobalt2.nvim (⭐75)](https://github.com/lalitmee/cobalt2.nvim) - A port of cobalt2 colorscheme using colorbuddy.
 
 ### Utility / Diagnostics
 
-*   [gaborvecsei/cryptoprice.nvim (⭐16)](https://github.com/gaborvecsei/cryptoprice.nvim) - Check the price of the defined cryptocurrencies.
+*   [gaborvecsei/cryptoprice.nvim (⭐19)](https://github.com/gaborvecsei/cryptoprice.nvim) - Check the price of the defined cryptocurrencies.
 
 ### Git / Diagnostics
 
-*   [AckslD/nvim-gfold.lua (⭐34)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐239)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
+*   [AckslD/nvim-gfold.lua (⭐33)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐253)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [nvoid-lua/nvoid (⭐84)](https://github.com/nvoid-lua/nvoid) - Simple Neovim config written in Lua with all the modern features available in any **IDE**
+*   [nvoid-lua/nvoid (⭐91)](https://github.com/nvoid-lua/nvoid) - Simple Neovim config written in Lua with all the modern features available in any **IDE**
 
-## [51. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [52. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
-*   [Akar Icons (⭐380)](https://github.com/artcoholic/akar-icons) - Perfectly rounded icon library made for designers and developers as React components.
+*   [Akar Icons (⭐390)](https://github.com/artcoholic/akar-icons) - Perfectly rounded icon library made for designers and developers as React components.
 
-## [52. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [53. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / 🧬 Core
 
-*   [BasicAuth (⭐26k)](https://github.com/gofiber/fiber/tree/master/middleware/basicauth) - Basic auth middleware provides an HTTP basic authentication. It calls the next handler for valid credentials and 401 Unauthorized for missing or invalid credentials.
-*   [Cache (⭐26k)](https://github.com/gofiber/fiber/tree/master/middleware/cache) - Intercept and cache responses.
-*   [Compress (⭐26k)](https://github.com/gofiber/fiber/tree/master/middleware/compress) - 	Compression middleware for Fiber, it supports `deflate`, `gzip` and `brotli` by default.
-*   [CORS (⭐26k)](https://github.com/gofiber/fiber/tree/master/middleware/cors) - Enable cross-origin resource sharing (CORS) with various options.
-*   [CSRF (⭐26k)](https://github.com/gofiber/fiber/tree/master/middleware/csrf) - Protect from CSRF exploits.
-*   [Encrypt Cookie (⭐26k)](https://github.com/gofiber/fiber/tree/master/middleware/encryptcookie) - Encrypt middleware which encrypts cookie values.
-*   [ETag (⭐26k)](https://github.com/gofiber/fiber/tree/master/middleware/etag) - ETag middleware that lets caches be more efficient and save bandwidth, as a web server does not need to resend a full response if the content has not changed.
-*   [Expvar (⭐26k)](https://github.com/gofiber/fiber/tree/master/middleware/expvar) - Expvar middleware that serves via its HTTP server runtime exposed variants in the JSON format.
-*   [Favicon (⭐26k)](https://github.com/gofiber/fiber/tree/master/middleware/favicon) - Ignore favicon from logs or serve from memory if a file path is provided.
-*   [FileSystem (⭐26k)](https://github.com/gofiber/fiber/tree/master/middleware/filesystem) - FileSystem middleware for Fiber, special thanks and credits to Alireza Salary.
-*   [Limiter (⭐26k)](https://github.com/gofiber/fiber/tree/master/middleware/limiter) - Rate-limiting middleware. Use to limit repeated requests to public APIs and/or endpoints such as password reset.
-*   [Logger (⭐26k)](https://github.com/gofiber/fiber/tree/master/middleware/logger) - HTTP request/response logger.
-*   [Monitor (⭐26k)](https://github.com/gofiber/fiber/tree/master/middleware/monitor) - Monitor middleware that reports server metrics, inspired by express-status-monitor.
-*   [Pprof (⭐26k)](https://github.com/gofiber/fiber/tree/master/middleware/pprof) - Pprof middleware that serves via its HTTP server runtime profiling data in the format expected by the pprof visualization tool.
-*   [Proxy (⭐26k)](https://github.com/gofiber/fiber/tree/master/middleware/proxy) - Allows you to proxy requests to a multiple servers.
-*   [Recover (⭐26k)](https://github.com/gofiber/fiber/tree/master/middleware/recover) - Recover middleware recovers from panics anywhere in the stack chain and handles the control to the centralized ErrorHandler.
-*   [RequestID (⭐26k)](https://github.com/gofiber/fiber/tree/master/middleware/requestid) - Adds a requestid to every request.
-*   [Session (⭐26k)](https://github.com/gofiber/fiber/tree/master/middleware/session) - Session middleware. NOTE: This middleware uses our Storage package.
-*   [Skip (⭐26k)](https://github.com/gofiber/fiber/tree/master/middleware/skip) - Skip middleware that skips a wrapped handler is a predicate is true.
-*   [Timeout (⭐26k)](https://github.com/gofiber/fiber/tree/master/middleware/timeout) - Adds a max time for a request and forwards to ErrorHandler if it is exceeded.
+*   [BasicAuth (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/basicauth) - Basic auth middleware provides an HTTP basic authentication. It calls the next handler for valid credentials and 401 Unauthorized for missing or invalid credentials.
+*   [Cache (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/cache) - Intercept and cache responses.
+*   [Compress (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/compress) - 	Compression middleware for Fiber, it supports `deflate`, `gzip` and `brotli` by default.
+*   [CORS (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/cors) - Enable cross-origin resource sharing (CORS) with various options.
+*   [CSRF (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/csrf) - Protect from CSRF exploits.
+*   [Encrypt Cookie (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/encryptcookie) - Encrypt middleware which encrypts cookie values.
+*   [ETag (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/etag) - ETag middleware that lets caches be more efficient and save bandwidth, as a web server does not need to resend a full response if the content has not changed.
+*   [Expvar (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/expvar) - Expvar middleware that serves via its HTTP server runtime exposed variants in the JSON format.
+*   [Favicon (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/favicon) - Ignore favicon from logs or serve from memory if a file path is provided.
+*   [FileSystem (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/filesystem) - FileSystem middleware for Fiber, special thanks and credits to Alireza Salary.
+*   [Limiter (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/limiter) - Rate-limiting middleware. Use to limit repeated requests to public APIs and/or endpoints such as password reset.
+*   [Logger (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/logger) - HTTP request/response logger.
+*   [Monitor (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/monitor) - Monitor middleware that reports server metrics, inspired by express-status-monitor.
+*   [Pprof (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/pprof) - Pprof middleware that serves via its HTTP server runtime profiling data in the format expected by the pprof visualization tool.
+*   [Proxy (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/proxy) - Allows you to proxy requests to a multiple servers.
+*   [Recover (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/recover) - Recover middleware recovers from panics anywhere in the stack chain and handles the control to the centralized ErrorHandler.
+*   [RequestID (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/requestid) - Adds a requestid to every request.
+*   [Session (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/session) - Session middleware. NOTE: This middleware uses our Storage package.
+*   [Skip (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/skip) - Skip middleware that skips a wrapped handler is a predicate is true.
+*   [Timeout (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/timeout) - Adds a max time for a request and forwards to ErrorHandler if it is exceeded.
 
 ### ⚙️ Middlewares / 🔗 External
 
-*   [adaptor (⭐180)](https://github.com/gofiber/adaptor) - Converter for net/http handlers to/from Fiber request handlers.
-*   [helmet (⭐82)](https://github.com/gofiber/helmet) - Helps secure your apps by setting various HTTP headers.
-*   [jwt (⭐403)](https://github.com/gofiber/jwt) - JWT returns a JSON Web Token (JWT) auth middleware.
-*   [keyauth (⭐76)](https://github.com/gofiber/keyauth) - Key auth middleware provides a key based authentication.
-*   [redirect (⭐15)](https://github.com/gofiber/redirect) - Redirect middleware for Fiber.
-*   [rewrite (⭐12)](https://github.com/gofiber/rewrite) - Rewrite middleware rewrites the URL path based on provided rules. It can be helpful for backward compatibility or just creating cleaner and more descriptive links.
-*   [storage (⭐175)](https://github.com/gofiber/storage) - Premade storage drivers that implement the Storage interface, designed to be used with various Fiber middlewares.
-*   [template (⭐201)](https://github.com/gofiber/template) - This package contains 8 template engines that can be used with Fiber v1.10.x Go version 1.13 or higher is required.
-*   [websocket (⭐308)](https://github.com/gofiber/websocket) - Based on Fasthttp WebSocket for Fiber with Locals support!
+*   [storage (⭐210)](https://github.com/gofiber/storage) - Premade storage drivers that implement the Storage interface, designed to be used with various Fiber middlewares.
+*   [template (⭐216)](https://github.com/gofiber/template) - This package contains 8 template engines that can be used with Fiber v1.10.x Go version 1.13 or higher is required.
 
 ### ⚙️ Middlewares / ‍💻 Contrib
 
-*   [fibersentry (⭐91)](https://github.com/gofiber/contrib/tree/main/fibersentry) - Sentry support for Fiber.
-*   [fiberzap (⭐91)](https://github.com/gofiber/contrib/tree/main/fiberzap) - Zap logging support for Fiber.
-*   [otelfiber (⭐91)](https://github.com/gofiber/contrib/tree/main/otelfiber) - OpenTelemetry support for Fiber.
-*   [paseto (⭐91)](https://github.com/gofiber/contrib/tree/main/paseto) - PASETO returns a Web Token (PASETO) auth middleware.
-*   [swagger (⭐91)](https://github.com/gofiber/contrib/tree/main/swagger) - Swagger middleware for Fiber. The middleware handles Swagger UI.
+*   [fibersentry (⭐133)](https://github.com/gofiber/contrib/tree/main/fibersentry) - Sentry support for Fiber.
+*   [fiberzap (⭐133)](https://github.com/gofiber/contrib/tree/main/fiberzap) - Zap logging support for Fiber.
+*   [otelfiber (⭐133)](https://github.com/gofiber/contrib/tree/main/otelfiber) - OpenTelemetry support for Fiber.
+*   [paseto (⭐133)](https://github.com/gofiber/contrib/tree/main/paseto) - PASETO returns a Web Token (PASETO) auth middleware.
+*   [swagger (⭐133)](https://github.com/gofiber/contrib/tree/main/swagger) - Swagger middleware for Fiber. The middleware handles Swagger UI.
 
 ### 📁 Recipes / 🌱 Third Party
 
-*   [gofiber/recipes (⭐2.3k)](https://github.com/gofiber/recipes) - Official Fiber cookbook.
+*   [gofiber/recipes (⭐2.5k)](https://github.com/gofiber/recipes) - Official Fiber cookbook.
 
 ### 🛠️ Tools / 🌱 Third Party
 
-*   [go-dawn/dawn (⭐8)](https://github.com/go-dawn/dawn) - Dawn is an opinionated web framework that provides rapid development capabilities which on top of Fiber.
-*   [tompston/gomakeme (⭐7)](https://github.com/tompston/gomakeme) - Generate boilerplate + endpoints for Fiber or Gin REST APIs.
+*   [go-dawn/dawn (⭐11)](https://github.com/go-dawn/dawn) - Dawn is an opinionated web framework that provides rapid development capabilities which on top of Fiber.
+*   [tompston/gomakeme (⭐8)](https://github.com/tompston/gomakeme) - Generate boilerplate + endpoints for Fiber or Gin REST APIs.
 
 ### 📖 Articles / 🌱 Third Party
 
@@ -1016,43 +1015,43 @@
 *   [Fiber v1.8. What's new, updated and re-thinked?](https://dev.to/koddr/fiber-v1-8-what-s-new-updated-and-re-thinked-339h)
 *   [Fiber released v1.7! What's new and is it still fast, flexible and friendly?](https://dev.to/koddr/fiber-v2-is-out-now-what-s-new-and-is-he-still-fast-flexible-and-friendly-3ipf)
 
-## [53. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [54. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
-*   [ruttl.com](https://ruttl.com/) — The best all-in-one feedback tool to collect digital feedback and review websites, PDF's and images.
+*   [ruttl.com](https://ruttl.com/) — The best all-in-one feedback tool to collect digital feedback and review websites, PDFs, and images.
 
 ### Monitoring
 
-*   [RoboMiri.com](https://robomiri.com/) - RoboMiri is a stable uptime monitor that offer a wide range of monitors: cronjob, keyword, website, port, ping. 25 uptime checks with a 3 minutes interval checks for free. Alerts via Phone Call, SMS, Email and Web Hook.
+*   [RoboMiri.com](https://robomiri.com/) - RoboMiri is a stable uptime monitor that offers a wide range of monitors: cronjob, keyword, website, port, ping. Twenty-five uptime checks with 3-minute interval checks for free. Alerts via Phone Call, SMS, Email, and Webhooks.
 
 ### PaaS
 
-*   [Serverless Cloud](https://www.serverless.com/cloud) - Serverless Cloud lets you build Serverless APIs, DBs and Storage by using infrastrucure *from* code approach(no yaml, no infrastructure configuration). The product is provided by Serverless Inc. and currently under public preview.
+*   [Serverless Cloud](https://www.serverless.com/cloud) - Serverless Cloud lets you build Serverless APIs, DBs, and Storage by using infrastructure *from* the code approach(no YAML, no infrastructure configuration). Serverless Inc. provides the product and it is currently under public preview.
 
-### DBaaS
+### Managed Data Services
 
 *   [redislabs](https://redislabs.com/try-free/) - Free 30MB redis instance
 
 ### Issue Tracking and Project Management
 
-*   [teleretro.com](https://www.teleretro.com/) — Simple and fun retrospective tool with icebreakers, gifs and emojis. Free plan includes 3 retros and unlimited members.
+*   [teleretro.com](https://www.teleretro.com/) — Simple and fun retrospective tool with icebreakers, gifs and emojis. The free plan includes three retros and unlimited members.
 
 ### IDE and Code Editing
 
-*   [PHPSandbox](https://phpsandbox.io/) — Online developement environment for PHP.
+*   [PHPSandbox](https://phpsandbox.io/) — Online development environment for PHP
 
 ### Analytics, Events and Statistics
 
 *   [Census](https://www.getcensus.com/) — Reverse ETL & Operational Analytics Platform. Sync 10 fields from your data warehouse to 60+ SaaS like Salesforce, Zendesk, or Amplitude.
 
-## [54. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [55. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Tools - Miscellaneous / React
 
-*   [amplication (⭐9.7k)](https://github.com/amplication/amplication): Amplication is an open‑source low code development tool. It builds database applications with REST API and GraphQL for CRUD with relations, sorting, filtering, pagination.
+*   [amplication (⭐13k)](https://github.com/amplication/amplication): Amplication is an open‑source low code development tool. It builds database applications with REST API and GraphQL for CRUD with relations, sorting, filtering, pagination.
 
-## [55. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [56. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Big Data
 

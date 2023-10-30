@@ -10,7 +10,7 @@
 
 ### editors & viewers
 
-*   [gjv (⭐75)](https://github.com/anandthakker/gjv): electron app enables viewing GeoJSON locally and hack on it with turf; works offline
+*   [gjv (⭐76)](https://github.com/anandthakker/gjv): electron app enables viewing GeoJSON locally and hack on it with turf; works offline
 
 ### data
 
@@ -33,7 +33,7 @@
 
 ### Scripting
 
-*   [ChakraCore (⭐8.9k)](https://github.com/Microsoft/ChakraCore) -A JavaScript engine by Microsoft that can be embedded into nodejs. \[MIT]
+*   [ChakraCore (⭐9k)](https://github.com/Microsoft/ChakraCore) -A JavaScript engine by Microsoft that can be embedded into nodejs. \[MIT]
 
 ### Compiler
 
@@ -123,12 +123,12 @@
 
 ### API
 
-*   [ServiceStack (⭐5.2k)](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
+*   [ServiceStack (⭐5.3k)](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
 
 ### Scheduling
 
-*   [FluentScheduler (⭐2.5k)](https://github.com/fluentscheduler/FluentScheduler) - Task scheduler with fluent interface that runs automated jobs from your application
-*   [NCrontab (⭐786)](https://github.com/atifaziz/NCrontab) - Class library for parsing & formatting [crontab](http://crontab.org/) expressions as well as calculating occurrences of time based on a crontab schedule
+*   [FluentScheduler (⭐2.6k)](https://github.com/fluentscheduler/FluentScheduler) - Task scheduler with fluent interface that runs automated jobs from your application
+*   [NCrontab (⭐820)](https://github.com/atifaziz/NCrontab) - Class library for parsing & formatting [crontab](http://crontab.org/) expressions as well as calculating occurrences of time based on a crontab schedule
 
 ## [12. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
@@ -229,12 +229,12 @@
 
 ### Modules / CLI
 
-*   [abbrev (⭐150)](https://github.com/isaacs/abbrev-js) - Calculate the set of unique abbreviations for a given set of strings.
-*   [glob (⭐7.7k)](https://github.com/isaacs/node-glob) - Glob functionality for node.js.
+*   [abbrev (⭐158)](https://github.com/isaacs/abbrev-js) - Calculate the set of unique abbreviations for a given set of strings.
+*   [glob (⭐8.1k)](https://github.com/isaacs/node-glob) - Glob functionality for node.js.
 
 ### Modules / Module management
 
-*   [pkg-conf (⭐115)](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
+*   [pkg-conf (⭐113)](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
 *   [normalize-pkg (⭐18)](https://github.com/jonschlinkert/normalize-pkg) - Normalize values in package.json to improve compatibility, programmatic readability and usefulness with third party libs.
 
 ## [21. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
@@ -277,7 +277,7 @@
 
 ### Samples
 
-*   [vkcube (⭐95)](https://github.com/krh/vkcube) - 'vkcube' sample from krh, works under X, wayland and VT console with
+*   [vkcube (⭐108)](https://github.com/krh/vkcube) - 'vkcube' sample from krh, works under X, wayland and VT console with
     drm/kms.
 
 ## [23. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
@@ -361,7 +361,7 @@
 
 ### Authentication
 
-*   [goth (⭐259)](https://github.com/peburrows/goth) - OAuth 2.0 library for server to server applications via Google Cloud APIs.
+*   [goth (⭐267)](https://github.com/peburrows/goth) - OAuth 2.0 library for server to server applications via Google Cloud APIs.
 
 ### Examples and funny stuff
 
@@ -369,11 +369,11 @@
 
 ### Third Party APIs
 
-*   [stripity\_stripe (⭐814)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
+*   [stripity\_stripe (⭐873)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
 
 ### Editors
 
-*   [atom-iex (⭐14)](https://github.com/indiejames/atom-iex) - Run an IEx session in Atom.
+*   [atom-iex (⭐15)](https://github.com/indiejames/atom-iex) - Run an IEx session in Atom.
 
 ## [34. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -413,11 +413,11 @@
 
 ### Developer
 
-*   [caniuse (⭐408)](https://github.com/willfarrell/alfred-caniuse-workflow) - Caniuse.com workflow to query HTML / CSS support.
+*   [caniuse (⭐409)](https://github.com/willfarrell/alfred-caniuse-workflow) - Caniuse.com workflow to query HTML / CSS support.
 *   [CDN (⭐65)](https://github.com/willfarrell/alfred-cdn-workflow) - Check which CDNs a package is hosted on.
 *   [Colors](http://www.packal.org/workflow/colors) - Convert color formats & access the OS X color panel.
-*   [Font Awesome (⭐803)](https://github.com/ruedap/alfred2-font-awesome-workflow) - Quickly look up font awesome icons and add the desired one to your clipboard.
-*   [Package Managers (⭐689)](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Repo Search.
+*   [Font Awesome (⭐808)](https://github.com/ruedap/alfred2-font-awesome-workflow) - Quickly look up font awesome icons and add the desired one to your clipboard.
+*   [Package Managers (⭐694)](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Repo Search.
 *   [VagrantUP (⭐40)](https://github.com/m1keil/alfred-vagrant-workflow) - List and control Vagrant environments with Alfred2.
 
 ### System

@@ -16,21 +16,21 @@
 
 ### Email
 
-*   [Sup (⭐867)](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client.
+*   [Sup (⭐866)](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client.
 
 ### HTML/XML Parsing
 
-*   [Ox (⭐848)](https://github.com/ohler55/ox) - A fast XML parser and Object marshaller.
+*   [Ox (⭐861)](https://github.com/ohler55/ox) - A fast XML parser and Object marshaller.
 
 ### RSS
 
-*   [Stringer (⭐3.6k)](https://github.com/swanson/stringer) - A self-hosted, anti-social RSS reader.
+*   [Stringer (⭐3.7k)](https://github.com/swanson/stringer) - A self-hosted, anti-social RSS reader.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Integrated Development Environment
 
-*   [color\_coded (⭐871)](https://github.com/jeaye/color_coded) - A vim plugin for libclang-based highlighting. \[MIT]
+*   [color\_coded (⭐872)](https://github.com/jeaye/color_coded) - A vim plugin for libclang-based highlighting. \[MIT]
 
 ## [4. Awesome Backbone](/content/sadcitizen/awesome-backbone/README.md)
 

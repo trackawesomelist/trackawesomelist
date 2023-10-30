@@ -99,13 +99,12 @@
 ### Tutorials / Articles / Automation
 
 *   [E-commerce front-end for Vue.js, Nuxt.js and Snipcart](https://www.sanity.io/blog/e-commerce-vue-nuxt-snipcart)
-*   [Building Paul The Octopus](https://www.tomango.co.uk/thinks/paul-the-octopus-2018/)
 
 ## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Media
 
-*   [LibVLCSharp (⭐1.2k)](https://github.com/videolan/libvlcsharp) - Xamarin bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
+*   [LibVLCSharp (⭐1.3k)](https://github.com/videolan/libvlcsharp) - Xamarin bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
 
 ### Source Generator
 

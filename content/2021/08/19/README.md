@@ -10,7 +10,7 @@
 
 ### Game
 
-*   [FNA (⭐1.8k)](https://github.com/FNA-XNA/FNA) - FNA is an XNA4 reimplementation that focuses solely on developing a fully accurate XNA4 runtime for the desktop
+*   [FNA (⭐2.4k)](https://github.com/FNA-XNA/FNA) - FNA is an XNA4 reimplementation that focuses solely on developing a fully accurate XNA4 runtime for the desktop
 
 ## [2. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -167,7 +167,7 @@
 
 ### JupyterLab Extensions
 
-*   [tabnine (⭐29)](https://github.com/codota/tabnine-jupyterlab) - Tabnine AI auto completer extension.
+*   [tabnine (⭐32)](https://github.com/codota/tabnine-jupyterlab) - Tabnine AI auto completer extension.
 
 ## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -180,7 +180,7 @@
 ### Tools for Teams and Collaboration
 
 *   [Discord](https://discord.com/) — Chat with public/private rooms. Markdown text, voice, video, and screen sharing capabilities. Free for unlimited users.
-*   [Telegram](https://telegram.org/) — Telegram is for everyone who wants fast and reliable messaging and calls. Business users and small teams may like the large groups, usernames, desktop apps and powerful file sharing options.
+*   [Telegram](https://telegram.org/) — Telegram is for everyone who wants fast, reliable messaging and calls. Business users and small teams may like the large groups, usernames, desktop apps, and powerful file-sharing options.
 
 ## [10. Awesome Math](/content/rossant/awesome-math/README.md)
 

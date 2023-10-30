@@ -22,20 +22,20 @@
 
 ### System administration / Third-party APIs
 
-*   [cl-unix-cybernetics (⭐177)](https://github.com/cl-unix-cybernetics/cl-unix-cybernetics) (previously Adams) - UNIX system administration in Common Lisp. Not unlike Ansible, Chef or Puppet. [ISC](https://en.wikipedia.org/wiki/ISC_license).
+*   [cl-unix-cybernetics (⭐178)](https://github.com/cl-unix-cybernetics/cl-unix-cybernetics) (previously Adams) - UNIX system administration in Common Lisp. Not unlike Ansible, Chef or Puppet. [ISC](https://en.wikipedia.org/wiki/ISC_license).
     *   You describe your systems (hosts) using resources having properties. The properties are then probed and synchronized using only /bin/sh on the remote host, and /usr/bin/ssh on the control host.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Image Processing
 
-*   [BitmapPlusPLus (⭐14)](https://github.com/baderouaich/BitmapPlusPlus) - Simple and Fast header only Bitmap C++ library. \[MIT]
+*   [BitmapPlusPLus (⭐19)](https://github.com/baderouaich/BitmapPlusPlus) - Simple and Fast header only Bitmap C++ library. \[MIT]
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Distributed Systems
 
-*   [Dragonfly (⭐1.4k)](https://github.com/dragonflyoss/Dragonfly2) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures.
+*   [Dragonfly (⭐1.7k)](https://github.com/dragonflyoss/Dragonfly2) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -59,7 +59,7 @@
 
 ### Resources / Miscellaneous
 
-*   [appdwarf (⭐12)](https://github.com/Phantop/appdwarf) - A tool to convert an AppDir or an existing AppImage file, either as a local file or from a URL, into a highly compressed portable image using dwarfs.
+*   [appdwarf (⭐15)](https://github.com/Phantop/appdwarf) - A tool to convert an AppDir or an existing AppImage file, either as a local file or from a URL, into a highly compressed portable image using dwarfs.
 
 ## [7. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
@@ -81,11 +81,11 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [svrana/neosolarized.nvim (⭐102)](https://github.com/svrana/neosolarized.nvim) - Dark solarized colorscheme using colorbuddy for easy customization.
+*   [svrana/neosolarized.nvim (⭐136)](https://github.com/svrana/neosolarized.nvim) - Dark solarized colorscheme using colorbuddy for easy customization.
 
 ### Editing Support / Diagnostics
 
-*   [altermo/ultimate-autopair.nvim (⭐90)](https://github.com/altermo/ultimate-autopair.nvim) - Autopair with extensions.
+*   [altermo/ultimate-autopair.nvim (⭐329)](https://github.com/altermo/ultimate-autopair.nvim) - Autopair with extensions.
 
 ---
 

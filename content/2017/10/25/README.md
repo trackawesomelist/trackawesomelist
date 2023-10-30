@@ -22,8 +22,8 @@
 
 ### Learning Swift: Advanced Topics
 
-*   [Swift Regular Expressions (⭐10)](https://github.com/ogulcan/SwiftRegEx) - A playground to learn regular expressions with Swift.
-*   [Network Stack (⭐34)](https://github.com/AndrejKolar/NetworkStack) - Clean & simple Swift networking stack playground.
+*   [Swift Regular Expressions (⭐12)](https://github.com/ogulcan/SwiftRegEx) - A playground to learn regular expressions with Swift.
+*   [Network Stack (⭐35)](https://github.com/AndrejKolar/NetworkStack) - Clean & simple Swift networking stack playground.
 
 ### Apple's Playgrounds / Functional Reactive Programming
 
@@ -31,7 +31,7 @@
 
 ### Theoretical Computer Science / Algorithms and Data Structures
 
-*   [A Star (⭐33)](https://github.com/Dev1an/A-Star) - Protocol oriented A\* pathfinding algorithm implementation in Swift 4.🍁
+*   [A Star (⭐35)](https://github.com/Dev1an/A-Star) - Protocol oriented A\* pathfinding algorithm implementation in Swift 4.🍁
 
 ### UIKit And Graphics / Animations
 
@@ -41,7 +41,7 @@
 
 ### Web / Scanning / Pentesting
 
-*   [ACSTIS (⭐276)](https://github.com/tijme/angularjs-csti-scanner) - ACSTIS helps you to scan certain web applications for AngularJS Client-Side Template Injection (sometimes referred to as CSTI, sandbox escape or sandbox bypass). It supports scanning a single request but also crawling the entire web application for the AngularJS CSTI vulnerability.
+*   [ACSTIS (⭐284)](https://github.com/tijme/angularjs-csti-scanner) - ACSTIS helps you to scan certain web applications for AngularJS Client-Side Template Injection (sometimes referred to as CSTI, sandbox escape or sandbox bypass). It supports scanning a single request but also crawling the entire web application for the AngularJS CSTI vulnerability.
 
 ## [5. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
 

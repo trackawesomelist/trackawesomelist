@@ -12,23 +12,23 @@
 
 *   [Making Your Appium Tests Fast and Reliable, Part 7: Disabling Animations](https://appiumpro.com/editions/25)
 
-## [2. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [2. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+
+### Data Visualization
+
+*   [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - High-performance plugin-based React chart for Bootstrap and Material Design.
+
+## [3. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Middleware
 
 *   [Gravitee.io](https://gravitee.io) - An OSS API Platform including an API Gateway and an OAuth2 / OIDC authorization server based on Vert.x Core / Vert.x Web and other modules.
 
-## [3. Awesome Material](/content/sachin1092/awesome-material/README.md)
+## [4. Awesome Material](/content/sachin1092/awesome-material/README.md)
 
 ### Components
 
 *   [DevExtreme Reactive](https://devexpress.github.io/devextreme-reactive/react) - High-performance plugin-based React components for Material Design.
-
-## [4. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
-
-### JavaScript tools / React
-
-*   [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - High-performance plugin-based React chart for Bootstrap and Material Design.
 
 ## [5. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 

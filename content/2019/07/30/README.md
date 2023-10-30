@@ -10,7 +10,7 @@
 
 ### Platforms
 
-*   [WebExtensions (⭐1.1k)](https://github.com/fregante/Awesome-WebExtensions#readme) - Cross-browser extension system.
+*   [WebExtensions (⭐1.2k)](https://github.com/fregante/Awesome-WebExtensions#readme) - Cross-browser extension system.
 
 ### Programming Languages
 
@@ -18,11 +18,11 @@
 
 ### Front-End Development
 
-*   [Angular (⭐8.9k)](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
+*   [Angular (⭐9.1k)](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
 
 ### Back-End Development
 
-*   [Dash (⭐1.8k)](https://github.com/ucg8j/awesome-dash#readme) - Python web app framework.
+*   [Dash (⭐1.9k)](https://github.com/ucg8j/awesome-dash#readme) - Python web app framework.
 
 ### Business
 
@@ -30,14 +30,14 @@
 
 ### Miscellaneous
 
-*   [FOSS Production Apps (⭐249)](https://github.com/DataDaoDe/awesome-foss-apps#readme)
+*   [FOSS Production Apps (⭐267)](https://github.com/DataDaoDe/awesome-foss-apps#readme)
 *   [Crypto Currency Tools & Algorithms (⭐3.7k)](https://github.com/Zheaoli/awesome-coins#readme) - Digital currency where encryption is used to regulate the generation of units and verify transfers.
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### HTTP
 
-*   [Cable (⭐112)](https://github.com/cable-cr/cable) - An ActionCable "port" to Crystal, framework agnostic, 100% compatible with the ActionCable JS Client
+*   [Cable (⭐114)](https://github.com/cable-cr/cable) - An ActionCable "port" to Crystal, framework agnostic, 100% compatible with the ActionCable JS Client
 
 ## [3. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
@@ -61,25 +61,25 @@
 
 ### Productivity / Note Taking and Lists
 
-*   [td-cli (⭐169)](https://github.com/darrikonn/td-cli) - A TODO manager to organize and manage your TODO's across multiple projects.
+*   [td-cli (⭐172)](https://github.com/darrikonn/td-cli) - A TODO manager to organize and manage your TODO's across multiple projects.
 
 ### Utilities / macOS
 
-*   [dark-mode (⭐635)](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
+*   [dark-mode (⭐641)](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
 
 ### Utilities / System Interaction Utilities
 
 *   [battery-level-cli (⭐26)](https://github.com/gillstrom/battery-level-cli) - Get current battery level.
-*   [brightness-cli (⭐195)](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows (⭐10)](https://github.com/sondreb/win-brightness)).
+*   [brightness-cli (⭐196)](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows (⭐10)](https://github.com/sondreb/win-brightness)).
 *   [yank (⭐1.5k)](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 *   [screensaver (⭐40)](https://github.com/gillstrom/screensaver) - Start the screensaver.
-*   [google-font-installer (⭐163)](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
+*   [google-font-installer (⭐167)](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
 
 ## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Utils / Third-party APIs
 
-*   [swank-crew (⭐37)](https://github.com/brown/swank-crew) - distributed computation framework implemented using Swank Client. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [swank-crew (⭐36)](https://github.com/brown/swank-crew) - distributed computation framework implemented using Swank Client. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ## [6. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
@@ -93,7 +93,7 @@
 ### Courses / Others
 
 *   [Blazor First Look on LinkedIn Learning](https://www.linkedin.com/learning/blazor-first-look) - Blazor First Look on LinkedIn Learning. [Source code (⭐16)](https://github.com/Dedac/Beam) ![GitHub stars](https://img.shields.io/github/stars/Dedac/Beam?style=flat-square\&cacheSeconds=604800).
-*   [Free Blazor Training Course](https://www.devexpress.com/support/training/blazor/) - DevExpress Blazor free training course [Source code (⭐52)](https://github.com/DevExpress/blazor-training-samples) ![GitHub stars](https://img.shields.io/github/stars/DevExpress/blazor-training-samples?style=flat-square\&cacheSeconds=604800).
+*   [Free Blazor Training Course](https://www.devexpress.com/support/training/blazor/) - DevExpress Blazor free training course [Source code (⭐53)](https://github.com/DevExpress/blazor-training-samples) ![GitHub stars](https://img.shields.io/github/stars/DevExpress/blazor-training-samples?style=flat-square\&cacheSeconds=604800).
 
 ## [8. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 

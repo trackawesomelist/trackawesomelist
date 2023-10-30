@@ -55,7 +55,7 @@
 
 ### Serialization
 
-*   [vproto (⭐49)](https://github.com/emily33901/vproto) - Protobuf compiler and runtime in V.
+*   [vproto (⭐50)](https://github.com/emily33901/vproto) - Protobuf compiler and runtime in V.
 
 ## [6. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [echarts-for-vue (⭐73)](https://github.com/ambit-tsai/echarts-for-vue) - ECharts Wrapper Component For Vue 3 and 2
+*   [echarts-for-vue (⭐76)](https://github.com/ambit-tsai/echarts-for-vue) - ECharts Wrapper Component For Vue 3 and 2
 
 ### Components & Libraries / Utilities
 
@@ -96,14 +96,14 @@
 
 ### Shell
 
-*   [xonsh (⭐6.9k)](https://github.com/xonsh/xonsh/) - A Python-powered, cross-platform, Unix-gazing shell language and command prompt.
+*   [xonsh (⭐7.1k)](https://github.com/xonsh/xonsh/) - A Python-powered, cross-platform, Unix-gazing shell language and command prompt.
 
 ## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Command Line Tools
 
 *   [xonsh](https://xon.sh/contents.html) - Python-powered, cross-platform, Unix-gazing shell language and command prompt. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://sourceforge.net/projects/zsh/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [xxh (⭐4.4k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://sourceforge.net/projects/zsh/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [xxh (⭐4.7k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://sourceforge.net/projects/zsh/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Communication / Email Clients
 

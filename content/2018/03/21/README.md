@@ -16,13 +16,13 @@
 
 ### Media
 
-*   [Xabe.FFmpeg (⭐660)](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from C# application. **\[$]**
+*   [Xabe.FFmpeg (⭐684)](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from C# application. **\[$]**
 
 ## [3. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Security
 
-*   [wagtail-2fa (⭐73)](https://github.com/labd/wagtail-2fa) - Add two-factor authentication to Wagtail by integrating it with django-otp.
+*   [wagtail-2fa (⭐76)](https://github.com/labd/wagtail-2fa) - Add two-factor authentication to Wagtail by integrating it with django-otp.
 
 ## [4. Tips](/content/git-tips/tips/README.md)
 

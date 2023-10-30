@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 06, 2021
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -8,9 +8,9 @@
 
 ## [1. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Scraper's Proxy](https://scrapersproxy.com) — Simple HTTP proxy API made for scraping. Scrape anonymously without having to worry about restrictions, blocks or captchas. First 100 successfully scrape's per month free including javascript rendering (more available if you contact support).
+*   [Scraper's Proxy](https://scrapersproxy.com) — Simple HTTP proxy API for scraping. Scrape anonymously without having to worry about restrictions, blocks, or captchas. First 100 successful scrapes per month free including javascript rendering (more available if you contact support).
 
 ## [2. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
@@ -35,8 +35,8 @@
 ### Testing Frameworks / Bare metal / kernel development
 
 *   [silly](https://gitlab.com/AntonMeep/silly) - Better test runner for the D programming language. No nonsense.
-*   [dunit (⭐63)](https://github.com/nomad-software/dunit) - Advanced unit testing & mocking toolkit
-*   [unit-threaded (⭐120)](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
+*   [dunit (⭐62)](https://github.com/nomad-software/dunit) - Advanced unit testing & mocking toolkit
+*   [unit-threaded (⭐121)](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
 
 ## [5. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
@@ -47,28 +47,28 @@
 
 ### Grid
 
-*   [svelte-grid-responsive (⭐49)](https://github.com/andrelmlins/svelte-grid-responsive) - Bootstrap-inspired responsive grid system.
+*   [svelte-grid-responsive (⭐51)](https://github.com/andrelmlins/svelte-grid-responsive) - Bootstrap-inspired responsive grid system.
 
 ### Form / Checkbox
 
-*   [svelte-forms-lib (⭐566)](https://github.com/tjinauyeung/svelte-forms-lib) - A lightweight library for managing forms.
+*   [svelte-forms-lib (⭐586)](https://github.com/tjinauyeung/svelte-forms-lib) - A lightweight library for managing forms.
 
 ### WebGL / Checkbox
 
-*   [svelthree (⭐430)](https://github.com/vatro/svelthree) - Component library for declarative construction of reactive and reusable three.js scene graphs.
+*   [svelthree (⭐454)](https://github.com/vatro/svelthree) - Component library for declarative construction of reactive and reusable three.js scene graphs.
 
 ### Portal / Checkbox
 
-*   [svelte-portal (⭐328)](https://github.com/romkor/svelte-portal) - Component for rendering outside the DOM of parent component.
-*   [svelte-teleport (⭐22)](https://github.com/nasso/svelte-teleport) - A component to teleport elements across the DOM.
+*   [svelte-portal (⭐369)](https://github.com/romkor/svelte-portal) - Component for rendering outside the DOM of parent component.
+*   [svelte-teleport (⭐24)](https://github.com/nasso/svelte-teleport) - A component to teleport elements across the DOM.
 
 ### Routers / Checkbox
 
-*   [svelte-router-spa (⭐471)](https://github.com/jorgegorka/svelte-router) - Router adds routing to your Single Page Applications (SPA). Includes localisation, guards and nested layouts.
-*   [svelte-routing (⭐1.8k)](https://github.com/EmilTholin/svelte-routing) - A declarative Svelte routing library with SSR support.
-*   [tinro (⭐664)](https://github.com/AlexxNB/tinro) - A tiny, dependency free and highly declarative router.
-*   [svelte-spa-router (⭐1.3k)](https://github.com/ItalyPaleAle/svelte-spa-router) - Optimized for Single Page Applications (SPA) with hash based routing and support for parameters.
-*   [svelte-client-router (⭐13)](https://github.com/arthurgermano/svelte-client-router) - Svelte Client Router is everything you need and think when routing SPA's.
+*   [svelte-router-spa (⭐495)](https://github.com/jorgegorka/svelte-router) - Router adds routing to your Single Page Applications (SPA). Includes localisation, guards and nested layouts.
+*   [svelte-routing (⭐1.9k)](https://github.com/EmilTholin/svelte-routing) - A declarative Svelte routing library with SSR support.
+*   [tinro (⭐668)](https://github.com/AlexxNB/tinro) - A tiny, dependency free and highly declarative router.
+*   [svelte-spa-router (⭐1.4k)](https://github.com/ItalyPaleAle/svelte-spa-router) - Optimized for Single Page Applications (SPA) with hash based routing and support for parameters.
+*   [svelte-client-router (⭐14)](https://github.com/arthurgermano/svelte-client-router) - Svelte Client Router is everything you need and think when routing SPA's.
 
 ### Frameworks / Checkbox
 
@@ -79,13 +79,13 @@
 
 ### Docs / Checkbox
 
-*   [svelte-docster (⭐8)](https://github.com/TheComputerM/svelte-docster) - Generate metadata about your Svelte files from jsdoc.
+*   [svelte-docster (⭐9)](https://github.com/TheComputerM/svelte-docster) - Generate metadata about your Svelte files from jsdoc.
 
 ## [6. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
 ### AppImage developer tools / Deployment tools for Electron applications
 
-*   [Appnativefy (⭐140)](https://github.com/sarweshparajuli/appnativefy) - Create AppImage with embedded Electron browser from any website.
+*   [Appnativefy (⭐142)](https://github.com/sarweshparajuli/appnativefy) - Create AppImage with embedded Electron browser from any website.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -137,7 +137,7 @@
 
 ### Related / Download helper
 
-*   [Import-Script.js (⭐165)](https://github.com/supermamon/scriptable-scripts/blob/master/Import-Script.js) - Script to download code (i.e., from Pastebin, GitHub) into Scriptable.
+*   [Import-Script.js (⭐193)](https://github.com/supermamon/scriptable-scripts/blob/master/Import-Script.js) - Script to download code (i.e., from Pastebin, GitHub) into Scriptable.
 
 ### Related / Articles
 
@@ -157,7 +157,7 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Nitter](https://nitter.net) `⚠` - A alternative front end to twitter. ([Source Code (⭐7.4k)](https://github.com/zedeus/nitter)) `AGPL-3.0` `Nimble`
+*   [Nitter](https://nitter.net) `⚠` - A alternative front end to twitter. ([Source Code (⭐8.5k)](https://github.com/zedeus/nitter)) `AGPL-3.0` `Nim/Docker`
 
 ## [11. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -166,14 +166,7 @@
 *   [easy\_perception\_deployment (⭐51)](https://github.com/ros-industrial/easy_perception_deployment) - Package that accelerates training and deployment of Computer Vision models for industries. ![easy\_perception\_deployment](https://img.shields.io/github/stars/ros-industrial/easy_perception_deployment.svg)
 *   [easy\_manipulation\_deployment (⭐45)](https://github.com/ros-industrial/easy_manipulation_deployment) - Package that integrates perception elements to establish an end-to-end pick and place task. ![easy\_manipulation\_deployment](https://img.shields.io/github/stars/ros-industrial/easy_manipulation_deployment.svg)
 
-## [12. Awesome Osint](/content/jivoi/awesome-osint/README.md)
-
-### Language Tools / Telegram
-
-*   [IloveTyping](https://ilovetyping.com/english-to-hindi-typing) - Translate English to Hindi
-*   [Inasentence](https://inasentence.me/) - Find Sentences from Words
-
-## [13. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [12. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### CI/CD
 
@@ -190,20 +183,20 @@
 *   [Envkey](https://www.envkey.com/) - Environment management with syncing mechanism for all apps.
 *   [Vault](https://www.vaultproject.io/) - API driven secret key management.
 
-## [14. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [13. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 
-*   [jaxlie (⭐164)](https://github.com/brentyi/jaxlie) - Lie theory library for rigid body transformations and optimization. <img src="https://img.shields.io/github/stars/brentyi/jaxlie?style=social" align="center">
-*   [BRAX (⭐1.6k)](https://github.com/google/brax) - Differentiable physics engine to simulate environments along with learning algorithms to train agents for these environments. <img src="https://img.shields.io/github/stars/google/brax?style=social" align="center">
+*   [jaxlie (⭐186)](https://github.com/brentyi/jaxlie) - Lie theory library for rigid body transformations and optimization. <img src="https://img.shields.io/github/stars/brentyi/jaxlie?style=social" align="center">
+*   [BRAX (⭐1.8k)](https://github.com/google/brax) - Differentiable physics engine to simulate environments along with learning algorithms to train agents for these environments. <img src="https://img.shields.io/github/stars/google/brax?style=social" align="center">
 
-## [15. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [14. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Form Components / Image Editing
 
-*   [react-avatar-generator (⭐54)](https://github.com/JosephSmith127/react-avatar-generator) - Generate fun kaleidoscope for user avatars.
+*   [react-avatar-generator (⭐57)](https://github.com/JosephSmith127/react-avatar-generator) - Generate fun kaleidoscope for user avatars.
 
-## [16. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
+## [15. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
 
 ### Deprecated / Community Newsletters
 

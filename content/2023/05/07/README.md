@@ -8,18 +8,17 @@
 
 ## [1. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Software / DNS - Control Panels
+### Software / DNS - Control Panels & Domain Management
 
-*   [Atomia DNS](https://atomiadns.com/) - DNS management system. ([Source Code (⭐358)](https://github.com/atomia/atomiadns/)) `ISC` `Perl`
-*   [Poweradmin](https://www.poweradmin.org/) - Web-based DNS control panel for PowerDNS server. ([Source Code (⭐511)](https://github.com/poweradmin/poweradmin)) `GPL-3.0` `PHP`
+*   [Poweradmin](https://www.poweradmin.org/) - Web-based DNS control panel for PowerDNS server. ([Source Code (⭐532)](https://github.com/poweradmin/poweradmin)) `GPL-3.0` `PHP`
 
 ## [2. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
 
-### [GitHub to Linear (⭐18)](https://github.com/delucis/github-to-linear) <a href="https://chrome.google.com/webstore/detail/github-to-linear/hlambaminaoofejligodincejhcbljik"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-GB/firefox/addon/github-to-linear/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### [GitHub to Linear (⭐20)](https://github.com/delucis/github-to-linear) <a href="https://chrome.google.com/webstore/detail/github-to-linear/hlambaminaoofejligodincejhcbljik"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-GB/firefox/addon/github-to-linear/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 View and create Linear tickets from any GitHub PR or issue.
 
-Installs: 28 | Stars: 18 | Last update: 12 Apr 2023
+Installs: 52 | Stars: 20 | Last update: 12 Apr 2023
 
 ## [3. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 

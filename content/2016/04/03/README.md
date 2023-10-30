@@ -33,7 +33,7 @@
 
 ### Modules / Array
 
-*   [unordered-array-remove (⭐118)](https://github.com/mafintosh/unordered-array-remove) - Efficiently remove an element from an unordered array without doing a splice.
+*   [unordered-array-remove (⭐117)](https://github.com/mafintosh/unordered-array-remove) - Efficiently remove an element from an unordered array without doing a splice.
 
 ## [3. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 

@@ -17,7 +17,7 @@
 
 ### Animations / Checkbox
 
-*   [svelte-typewriter (⭐206)](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
+*   [svelte-typewriter (⭐210)](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
 
 ## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -29,7 +29,7 @@
 
 ### Utilities / Game Engine resources
 
-*   [Dart Code Metrics (⭐735)](https://github.com/dart-code-checker/dart-code-metrics) <!--stargazers:dart-code-checker/dart-code-metrics--> - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for the Dart analyzer by [Dart Code Checker team](https://github.com/dart-code-checker).
+*   [Dart Code Metrics (⭐863)](https://github.com/dart-code-checker/dart-code-metrics) <!--stargazers:dart-code-checker/dart-code-metrics--> - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for the Dart analyzer by [Dart Code Checker team](https://github.com/dart-code-checker).
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -49,19 +49,19 @@
 
 *   [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/) - An overview and comparison of all token-based authentication schemes for end-user APIs.
 
-### Authentication / SAML
-
-*   [SAML is insecure by design](https://joonas.fi/2021/08/saml-is-insecure-by-design/) - Not only weird, SAML is also insecure by design, as it relies on signatures based on XML canonicalization, not XML byte stream. Which means you can exploit XML parser/encoder differences.
-
 ### Authorization / Open-source policy frameworks
 
-*   [Oso (⭐3k)](https://github.com/osohq/oso) - A batteries-included library for building authorization in your application.
+*   [Oso (⭐3.2k)](https://github.com/osohq/oso) - A batteries-included library for building authorization in your application.
+
+### SAML / Macaroons
+
+*   [SAML is insecure by design](https://joonas.fi/2021/08/saml-is-insecure-by-design/) - Not only weird, SAML is also insecure by design, as it relies on signatures based on XML canonicalization, not XML byte stream. Which means you can exploit XML parser/encoder differences.
 
 ## [8. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 
 ### Containers
 
-*   [youki (⭐3.8k)](https://github.com/containers/youki)\
+*   [youki (⭐4.9k)](https://github.com/containers/youki)\
     A container runtime written in Rust.
 
 ## [9. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
@@ -99,7 +99,7 @@
   CORS: Yes
 
 
-- API: [CORS Proxy (⭐17)](https://github.com/burhanuday/cors-proxy)
+- API: [CORS Proxy (⭐27)](https://github.com/burhanuday/cors-proxy)
 
   Description: Get around the dreaded CORS error by using this proxy as a middle man
 
@@ -143,13 +143,13 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-tauri (⭐119)](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
+*   [vite-plugin-tauri (⭐134)](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 
 ## [12. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Automation / DSL
 
-*   [jmeter-java-dsl](https://abstracta.github.io/jmeter-java-dsl/) - Simple API to run JMeter performance tests in an VCS and programmers friendly way.
+*   [jmeter-java-dsl](https://abstracta.github.io/jmeter-java-dsl/) - Simple Java API to run JMeter performance tests in an VCS and programmers friendly way.
 
 ## [13. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
@@ -173,7 +173,7 @@
 
 ### Files and Directories / Files
 
-*   [RecoverPy (⭐755)](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
+*   [RecoverPy (⭐818)](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
 
 ## [17. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/README.md)
 
@@ -185,7 +185,7 @@
 
 ### Modules / Template engine
 
-*   [handlebars (⭐24)](https://github.com/alosaur/handlebars) - Handlebars template engine for deno
+*   [handlebars (⭐26)](https://github.com/alosaur/handlebars) - Handlebars template engine for deno
 *   [mustache (⭐7)](https://github.com/alosaur/mustache) - Mustache template engine for deno
 
 ## [19. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)

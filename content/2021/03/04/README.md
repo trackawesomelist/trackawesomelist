@@ -10,7 +10,7 @@
 
 ### Auth
 
-*   [FastAPI Cloud Auth (⭐262)](https://github.com/tokusumi/fastapi-cloudauth) - Simple integration between FastAPI and cloud authentication services (AWS Cognito, Auth0, Firebase Authentication).
+*   [FastAPI Cloud Auth (⭐291)](https://github.com/tokusumi/fastapi-cloudauth) - Simple integration between FastAPI and cloud authentication services (AWS Cognito, Auth0, Firebase Authentication).
 
 ## [2. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Applications
 
-*   [Hardbin (⭐218)](https://github.com/jes/hardbin): Encrypted pastebin using IPFS.
+*   [Hardbin (⭐240)](https://github.com/jes/hardbin): Encrypted pastebin using IPFS.
 
 ### Other
 
@@ -73,9 +73,9 @@
 
 *   [GitGud](https://gitgud.io) — Unlimited private and public repositories. Free forever. Powered by GitLab & Sapphire. CI/CD not provided.
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [JSON IP](https://getjsonip.com) — Returns the Public IP address of the client it is requested from. No registration required for free tier. Using CORS data can be requested using client side JS directly from browser. Useful for services monitoring change in client and server IPs. Unlimited Requests.
+*   [JSON IP](https://getjsonip.com) — Returns the Public IP address of the client it is requested from. No registration is required for the free tier. Using CORS, data can be requested using client-side JS directly from the browser. Useful for services monitoring change in client and server IPs. Unlimited Requests.
 
 ## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Software / Other
 
-*   [IP2Trace (⭐12)](https://github.com/ip2location/ip2location-traceroute) - A traceroute tools that displaying geolocation information using IP2Location database. ([MIT (⭐12)](https://github.com/ip2location/ip2location-traceroute/blob/master/LICENSE))
+*   [IP2Trace (⭐19)](https://github.com/ip2location/ip2location-traceroute) - A traceroute tools that displaying geolocation information using IP2Location database. ([MIT (⭐19)](https://github.com/ip2location/ip2location-traceroute/blob/master/LICENSE))
 
 ## [13. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 

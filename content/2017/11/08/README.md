@@ -32,7 +32,7 @@
 
 ### URI handling / Isomorphic web frameworks
 
-*   [quri (⭐98)](https://github.com/fukamachi/quri) - Another URI library for
+*   [quri (⭐101)](https://github.com/fukamachi/quri) - Another URI library for
     Common Lisp. Supports userinfo, IPv6 hostname, encoding/decoding
     utilities,… [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
@@ -50,11 +50,11 @@
 
 ### Cartridges / Opcodes
 
-*   [AntonioND's docs (⭐178)](https://github.com/AntonioND/giibiiadvance/tree/master/docs) - Corrected schematics and infos on cartridge header data.
+*   [AntonioND's docs (⭐182)](https://github.com/AntonioND/giibiiadvance/tree/master/docs) - Corrected schematics and infos on cartridge header data.
 
 ### Related projects / Syntax highlighting packages
 
-*   [papiGB (⭐13)](https://github.com/diegovalverde/papiGB) - Game Boy Classic fully functional FPGA implementation from scratch.
+*   [papiGB (⭐15)](https://github.com/diegovalverde/papiGB) - Game Boy Classic fully functional FPGA implementation from scratch.
 
 ## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -64,7 +64,7 @@
 
 ### HTTP
 
-*   [raxx (⭐396)](https://github.com/CrowdHailer/raxx) - Interface for HTTP webservers, frameworks and clients.
+*   [raxx (⭐397)](https://github.com/CrowdHailer/raxx) - Interface for HTTP webservers, frameworks and clients.
 
 ### Third Party APIs
 
@@ -104,7 +104,7 @@
 
 ### Tyre
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sarasoueidan" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/sarasoueidan" height="70px" width="70px" align="left" alt="" />
 
 **Sara Soueidan**\
 Topics: Animations, CSS, SVG\
@@ -114,7 +114,7 @@ Topics: Animations, CSS, SVG\
 
 ### Leighton Buzzard
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/cjforms" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/cjforms" height="70px" width="70px" align="left" alt="" />
 
 **Caroline Jarrett**\
 Topics: Forms Usability, User Research\

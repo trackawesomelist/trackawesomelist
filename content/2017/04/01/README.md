@@ -16,7 +16,7 @@
 
 ### Framework Components
 
-*   [kemal-session (⭐50)](https://github.com/kemalcr/kemal-session) - Session handler for Kemal
+*   [kemal-session (⭐49)](https://github.com/kemalcr/kemal-session) - Session handler for Kemal
 
 ## [3. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Sandboxes
 
-*   [Bubblewrap (⭐2.8k)](https://github.com/projectatomic/bubblewrap)\
+*   [Bubblewrap (⭐3.2k)](https://github.com/projectatomic/bubblewrap)\
     Run applications in a sandbox using Linux namespaces without root privileges, with user namespacing provided via setuid binary.
 
 ## [5. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
@@ -141,7 +141,7 @@
 
 ## [6. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
-### United States 🇺🇸 / California   <a id="california">  </a>
+### United States 🇺🇸 / California <a id="california"></a>
 
 #### The Cow's End Cafe
 
@@ -162,8 +162,8 @@
 
 ### Contents / EHR
 
-*   [Odoo Medical (⭐246)](https://github.com/OCA/vertical-medical) - Universal Health and Hospital Information System.
-*   [openMAXIMS (⭐56)](https://github.com/IMS-MAXIMS/openMAXIMS) - Full Patient Administration System designed for the NHS.
+*   [Odoo Medical (⭐248)](https://github.com/OCA/vertical-medical) - Universal Health and Hospital Information System.
+*   [openMAXIMS (⭐57)](https://github.com/IMS-MAXIMS/openMAXIMS) - Full Patient Administration System designed for the NHS.
 
 ### Contents / Prescribing
 
@@ -171,11 +171,11 @@
 
 ### Contents / Frameworks
 
-*   [ResearchKit (⭐5.5k)](https://github.com/ResearchKit/ResearchKit) - Software framework that makes it easy to create apps for medical research or for other research projects.
+*   [ResearchKit (⭐5.6k)](https://github.com/ResearchKit/ResearchKit) - Software framework that makes it easy to create apps for medical research or for other research projects.
 
 ### Contents / Libraries
 
-*   [Python HL7 (⭐252)](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects.
+*   [Python HL7 (⭐258)](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects.
 
 ### Contents / PHR
 
@@ -196,7 +196,7 @@
 
 ### Contents / Bioinformatics
 
-*   [ADAM (⭐949)](https://github.com/bigdatagenomics/adam) - Genomics analysis platform.
+*   [ADAM (⭐953)](https://github.com/bigdatagenomics/adam) - Genomics analysis platform.
 *   [Galaxy](https://galaxyproject.org/) - Open web-based platform for data intensive biomedical research.
 
 ---

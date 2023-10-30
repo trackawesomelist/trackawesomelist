@@ -48,17 +48,17 @@
 
 ### Documentation
 
-*   [phoenix\_swagger (⭐636)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
+*   [phoenix\_swagger (⭐654)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
 
 ### Images
 
-*   [ex\_image\_info (⭐89)](https://github.com/rNoz/ex_image_info) - An Elixir library to parse images (binaries) and get the dimensions, detected mime-type and overall validity for a set of image formats.
+*   [ex\_image\_info (⭐92)](https://github.com/rNoz/ex_image_info) - An Elixir library to parse images (binaries) and get the dimensions, detected mime-type and overall validity for a set of image formats.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Web Hosting
 
-*   [pantheon.io](https://pantheon.io/) — Drupal and WordPress hosting, automated DevOps and scalable infrastructure. Free for developers and agencies. No custom domain.
+*   [pantheon.io](https://pantheon.io/) — Drupal and WordPress hosting, automated DevOps, and scalable infrastructure. Free for developers and agencies. No custom domain.
 
 ## [4. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 

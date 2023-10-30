@@ -16,7 +16,7 @@
 
 ### Libraries
 
-*   [react-on-lambda (⭐257)](https://github.com/sultan99/react-on-lambda) - Replace JSX in React with functions (currying, compositions and etc).
+*   [react-on-lambda (⭐259)](https://github.com/sultan99/react-on-lambda) - Replace JSX in React with functions (currying, compositions and etc).
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Non-JavaScript Libraries / Themes
 
-*   [syn-antd](https://gitlab.com/synqrinus/syn-antd) - Ant Design wrapper for [ClojureScript](https://clojurescript.org/) and [Reagent (⭐4.6k)](https://github.com/reagent-project/reagent) using [shadow-cljs](http://shadow-cljs.org/) with tree-shaking support. As with other ClojureScript libraries, it cross-compiles to JavaScript.
+*   [syn-antd](https://gitlab.com/synqrinus/syn-antd) - Ant Design wrapper for [ClojureScript](https://clojurescript.org/) and [Reagent (⭐4.7k)](https://github.com/reagent-project/reagent) using [shadow-cljs](http://shadow-cljs.org/) with tree-shaking support. As with other ClojureScript libraries, it cross-compiles to JavaScript.
 
 ## [7. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
@@ -81,13 +81,13 @@
 
 ### Package Management
 
-*   [Sleet (⭐304)](https://github.com/emgarten/sleet/) - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
+*   [Sleet (⭐313)](https://github.com/emgarten/sleet/) - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
 
 ## [11. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Integrations
 
-*   [remount (⭐635)](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
+*   [remount (⭐671)](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
 
 ## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

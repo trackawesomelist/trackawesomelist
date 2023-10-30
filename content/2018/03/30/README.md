@@ -68,7 +68,7 @@
 ### Developer Tools / Command Line Tools
 
 *   [bash-it (⭐14k)](https://github.com/Bash-it/bash-it) - Shameless ripoff of oh-my-zsh for bash. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Glances (⭐23k)](https://github.com/nicolargo/glances) - Glances is a cross-platform curses-based system monitoring tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/nicolargo/glances)
+*   [Glances (⭐24k)](https://github.com/nicolargo/glances) - Glances is a cross-platform curses-based system monitoring tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/nicolargo/glances)
 *   [htop (⭐5.8k)](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/hishamhm/htop)
 *   [lnav](http://lnav.org) - A log file navigator. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tstack/lnav) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [ndm](https://720kb.github.io/ndm/) - Manage [npm](http://npmjs.org/) straight from the couch. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/720kb/ndm) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -111,7 +111,7 @@
 
 ### Security Tools / File Sharing
 
-*   [KextViewer](https://objective-see.com/products/kextviewr.html) - View all modules on that are loaded in the OS kernel.
+*   [KextViewer](https://objective-see.com/products/kextviewr.html) - View all modules on that are loaded in the OS kernel. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/objective-see/KextViewr)
 *   [LockDown](https://objective-see.com/products/lockdown.html) - Open-source tool for El Capitan that audits and remediates security configuration settings. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://bitbucket.org/objective-see/lockdown) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Clipboard Tools
@@ -154,18 +154,18 @@
 
 ### Frameworks, Libraries and Tools / Functional Programming
 
-*   [DynamicData (⭐1.4k)](https://github.com/RolandPheasant/DynamicData) - Reactive collections based on Rx.NET.
+*   [DynamicData (⭐1.6k)](https://github.com/RolandPheasant/DynamicData) - Reactive collections based on Rx.NET.
 
 ### Frameworks, Libraries and Tools / Template Engine
 
-*   [dotliquid (⭐936)](https://github.com/dotliquid/dotliquid) - .NET Port of Tobias Lütke's Liquid template language.
-*   [fluid (⭐913)](https://github.com/sebastienros/fluid) - Open-source .NET template engine that is as close as possible to the Liquid template language.
+*   [dotliquid (⭐994)](https://github.com/dotliquid/dotliquid) - .NET Port of Tobias Lütke's Liquid template language.
+*   [fluid (⭐1.2k)](https://github.com/sebastienros/fluid) - Open-source .NET template engine that is as close as possible to the Liquid template language.
 
 ## [6. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Shell Script Development / See also
 
-*   [awesome-cli-apps (⭐11k)](https://github.com/agarrharr/awesome-cli-apps)
+*   [awesome-cli-apps (⭐12k)](https://github.com/agarrharr/awesome-cli-apps)
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

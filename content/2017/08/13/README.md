@@ -16,7 +16,7 @@
 
 ### Boilerplates / Themes
 
-*   [CRA-TS-Antd (⭐108)](https://github.com/comerc/cra-ts-antd) - Create-React-App + TypeScript + Ant-Design (without Eject).
+*   [CRA-TS-Antd (⭐112)](https://github.com/comerc/cra-ts-antd) - Create-React-App + TypeScript + Ant-Design (without Eject).
 
 ## [3. Awesome Linux](/content/inputsh/awesome-linux/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Linters / More
 
-*   [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier (⭐4.5k)](https://github.com/prettier/prettier-vscode).
+*   [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier (⭐4.8k)](https://github.com/prettier/prettier-vscode).
 
 ---
 

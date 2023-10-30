@@ -8,10 +8,6 @@
 
 ## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### General Search
-
-*   [Yahoo! Search](http://www.yahoo.com)
-
 ### Company Research / Telegram
 
 *   [OpenCorporates](https://opencorporates.com) - Global search of registered corporate entities and their associated individual officers or investors.
@@ -22,7 +18,7 @@
 
 ## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [pifabs (⭐0)](https://github.com/pifabs/pifabs-zsh-theme) - Minimal theme with decorators for `git` status, username, host and working directory.
 
@@ -33,7 +29,7 @@
 *   [DotJobs](https://dotjobs.net/) - A job board for the Substrate and Polkadot ecosystem projects, maintained by [Stateless.Money](https://stateless.money/).
 *   [Developer Hub GitHub](https://github.com/substrate-developer-hub/) - Substrate Developer Hub repositories.
 *   [Ecosystem Projects](https://substrate.io/ecosystem/projects/) - Projects and teams building with Substrate.
-*   [Polkadot Stack (⭐789)](https://github.com/w3f/Grants-Program/blob/master/docs/polkadot_stack.md) - An `awesome list` maintained by our friends at [Web3 Foundation](https://web3.foundation/).
+*   [Polkadot Stack (⭐851)](https://github.com/w3f/Grants-Program/blob/master/docs/polkadot_stack.md) - An `awesome list` maintained by our friends at [Web3 Foundation](https://web3.foundation/).
 
 ### Support
 
@@ -50,27 +46,27 @@
 
 ### Templates
 
-*   [Base (⭐783)](https://github.com/substrate-developer-hub/substrate-node-template) - Minimal FRAME-based
-    node, derived from [upstream (⭐8.1k)](https://github.com/paritytech/substrate/tree/master/bin/node-template).
-*   [Frontier (⭐446)](https://github.com/paritytech/frontier/tree/master/template) - Fronter enabled EVM and Ethereum RPC compatible Substrate node, ready for hacking.
-*   [Front-End (⭐272)](https://github.com/substrate-developer-hub/substrate-front-end-template) - Polkadot-JS API and [React](https://reactjs.org/) app to build front-ends for Substrate-based chains.
-*   [Parachain (⭐179)](https://github.com/substrate-developer-hub/substrate-parachain-template) - Cumulus enabled Substrate node, derived from [upstream (⭐596)](https://github.com/paritytech/cumulus/tree/master/parachain-template).
+*   [Base (⭐821)](https://github.com/substrate-developer-hub/substrate-node-template) - Minimal FRAME-based
+    node, derived from [upstream (⭐8.3k)](https://github.com/paritytech/substrate/tree/master/bin/node-template).
+*   [Frontier (⭐478)](https://github.com/paritytech/frontier/tree/master/template) - Fronter enabled EVM and Ethereum RPC compatible Substrate node, ready for hacking.
+*   [Front-End (⭐278)](https://github.com/substrate-developer-hub/substrate-front-end-template) - Polkadot-JS API and [React](https://reactjs.org/) app to build front-ends for Substrate-based chains.
+*   [Parachain (⭐188)](https://github.com/substrate-developer-hub/substrate-parachain-template) - Cumulus enabled Substrate node, derived from [upstream (⭐629)](https://github.com/paritytech/cumulus/tree/master/parachain-template).
 *   [`substrate-stencil`](https://github.com/kaichaosun/substrate-stencil) - A template for a Substrate node that includes staking and governance capabilities.
 
 ### FRAME Pallets
 
-*   [Chainlink Feed Pallet (⭐138)](https://github.com/smartcontractkit/chainlink-polkadot) - Chainlink feed token interface.
-*   [Official in Substrate (⭐8.1k)](https://github.com/paritytech/substrate/tree/master/frame) - Large collection, Parity maintained.
-*   [Open Runtime Module Library (ORML) (⭐385)](https://github.com/open-web3-stack/open-runtime-module-library) - Community maintained collection of Substrate runtime modules.
-*   [Sunshine Bounty (⭐44)](https://github.com/sunshine-protocol/sunshine-bounty/tree/master/pallets) - Distributed autonomous organization (DAO) for administering a bounty program.
-*   [Sunshine Identity (⭐32)](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/identity/pallet) - Keybase-inspired identity management.
-*   [Sunshine Faucet (⭐32)](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/faucet/pallet) - Dispense resources for a development chain.
+*   [Chainlink Feed Pallet (⭐136)](https://github.com/smartcontractkit/chainlink-polkadot) - Chainlink feed token interface.
+*   [Official in Substrate (⭐8.3k)](https://github.com/paritytech/substrate/tree/master/frame) - Large collection, Parity maintained.
+*   [Open Runtime Module Library (ORML) (⭐400)](https://github.com/open-web3-stack/open-runtime-module-library) - Community maintained collection of Substrate runtime modules.
+*   [Sunshine Bounty (⭐43)](https://github.com/sunshine-protocol/sunshine-bounty/tree/master/pallets) - Distributed autonomous organization (DAO) for administering a bounty program.
+*   [Sunshine Identity (⭐33)](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/identity/pallet) - Keybase-inspired identity management.
+*   [Sunshine Faucet (⭐33)](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/faucet/pallet) - Dispense resources for a development chain.
 
 ### Framework Extensions
 
-*   [Bridges (⭐228)](https://github.com/paritytech/parity-bridges-common) - A collection of tools for cross-chain communication.
-*   [Cumulus (⭐596)](https://github.com/paritytech/cumulus) - A set of tools for writing Substrate-based Polkadot parachains.
-*   [Frontier (⭐446)](https://github.com/paritytech/frontier) - End-to-end Ethereum emulation for Substrate chains.
+*   [Bridges (⭐242)](https://github.com/paritytech/parity-bridges-common) - A collection of tools for cross-chain communication.
+*   [Cumulus (⭐629)](https://github.com/paritytech/cumulus) - A set of tools for writing Substrate-based Polkadot parachains.
+*   [Frontier (⭐478)](https://github.com/paritytech/frontier) - End-to-end Ethereum emulation for Substrate chains.
 *   [IntegriTEE](https://book.integritee.network/) - Trusted off-chain execution framework that uses [Intel SGX](https://en.wikipedia.org/wiki/Software_Guard_Extensions) trusted execution environments.
 
 ### Client Libraries
@@ -78,17 +74,17 @@
 *   [.Net API (⭐32)](https://github.com/usetech-llc/polkadot_api_dotnet) - Maintained by [Usetech](https://usetech.com/blockchain/).
 *   [`subxt`](https://github.com/paritytech/substrate-subxt) - Official Rust client.
 *   [C++ API (⭐17)](https://github.com/usetech-llc/polkadot_api_cpp) - Maintained by Usetech.
-*   [Go RPC Client (⭐173)](https://github.com/centrifuge/go-substrate-rpc-client/) - Maintained by [Centrifuge](https://centrifuge.io/).
+*   [Go RPC Client (⭐175)](https://github.com/centrifuge/go-substrate-rpc-client/) - Maintained by [Centrifuge](https://centrifuge.io/).
 *   [Kotlin Client (⭐16)](https://github.com/NodleCode/substrate-client-kotlin) - Maintained by [Nodle.io](https://github.com/NodleCode).
 *   [Polkadot-JS API (⭐1k)](https://github.com/polkadot-js/api/) - Semi-official JavaScript library for Substrate-based chains.
-*   [Python Interface (⭐199)](https://github.com/polkascan/py-substrate-interface) - Maintained by [Polkascan Foundation](https://polkascan.org/).
-*   [Rust API Client (⭐210)](https://github.com/scs/substrate-api-client) - Rust client maintained by [Supercomputers Systems AG](https://www.scs.ch/).
+*   [Python Interface (⭐210)](https://github.com/polkascan/py-substrate-interface) - Maintained by [Polkascan Foundation](https://polkascan.org/).
+*   [Rust API Client (⭐216)](https://github.com/scs/substrate-api-client) - Rust client maintained by [Supercomputers Systems AG](https://www.scs.ch/).
 
 ### Mobile
 
-*   [Fearless Utils Android (⭐16)](https://github.com/soramitsu/fearless-utils-Android) - Android Substrate tools.
-*   [Fearless Utils iOS (⭐8)](https://github.com/soramitsu/fearless-utils-iOS) - iOS Substrate tools.
-*   [React-Native-Substrate-Sign (⭐22)](https://github.com/paritytech/react-native-substrate-sign) - Rust library for React Native.
+*   [Fearless Utils Android (⭐17)](https://github.com/soramitsu/fearless-utils-Android) - Android Substrate tools.
+*   [Fearless Utils iOS (⭐7)](https://github.com/soramitsu/fearless-utils-iOS) - iOS Substrate tools.
+*   [React-Native-Substrate-Sign (⭐23)](https://github.com/paritytech/react-native-substrate-sign) - Rust library for React Native.
 
 ### Tools
 
@@ -108,32 +104,31 @@
 *   [`subwasm`](https://github.com/chevdor/subwasm) - CLI to inspect a runtime WASM blob offline. It shows information, metadata and can compare runtimes. It can also help you fetch a runtime directly from a node.
 *   [`sup`](https://github.com/clearloop/sup) - Command line tool for generating or upgrading a Substrate node.
 *   [Aleph.im](https://aleph.im) - Scalable, decentralized database, file storage, and computation services for Substrate chains and more.
-*   [Archive (⭐191)](https://github.com/paritytech/substrate-archive) - Indexing engine for Substrate chains.
+*   [Archive (⭐189)](https://github.com/paritytech/substrate-archive) - Indexing engine for Substrate chains.
 *   [Dev Hub Utils (⭐3)](https://github.com/danforbes/substrate-devhub-utils) - *Unofficial* utilities for working with official Substrate Developer Hub resources.
 *   [Europa (⭐71)](https://github.com/patractlabs/europa) - A sandbox for the Substrate runtime execution environment.
-*   [Fork Off Substrate (⭐105)](https://github.com/maxsam4/fork-off-substrate) - Script to help bootstrap a new chain with the state of a running chain.
-*   [fudge (⭐22)](https://github.com/centrifuge/fudge) - Core lib for accessing and (arbitrarily) manipulating substrate databases, including the building and importing of local blocks.
+*   [Fork Off Substrate (⭐106)](https://github.com/maxsam4/fork-off-substrate) - Script to help bootstrap a new chain with the state of a running chain.
+*   [fudge (⭐21)](https://github.com/centrifuge/fudge) - Core lib for accessing and (arbitrarily) manipulating substrate databases, including the building and importing of local blocks.
 *   [Gantree Library (⭐12)](https://github.com/gantree-io/gantree-lib-nodejs) - A suite of technologies for managing Substrate-powered parachain networks via rapid spin-up & tear-down.
 *   [Halva (⭐34)](https://github.com/halva-suite/halva) - A toolchain for improving the experience of developing on Substrate.
-*   [Hydra (⭐46)](https://github.com/Joystream/hydra) - A GraphQL framework for Substrate nodes.
+*   [Hydra (⭐47)](https://github.com/Joystream/hydra) - A GraphQL framework for Substrate nodes.
 *   [Jupiter (⭐52)](https://github.com/patractlabs/jupiter) - Testnet for smart contracts written for the FRAME Contracts pallet and ink!.
 *   [Megaclite (⭐1)](https://github.com/patractlabs/megaclite) - Zero-knowledge tools for the Polkadot ecosystem.
-*   [Parity Signer](https://www.parity.io/signer/) - Upcycle an unused mobile phone into an air-gapped hardware wallet.
 *   [Polkadot Tool Index](https://wiki.polkadot.network/docs/build-tools-index) - List of tools available for your development with Polkadot and any Substrate chain including Block Explorers, Wallets, Network Monitoring & Reporting, Clients, Benchmarking, Fuzzing, Forking, SCALE Codec, CLI Tools and much more.
 *   [Polkadot-JS Apps UI](https://polkadot.js.org/apps/) - Semi-official block explorer & front-end for Substrate-based chains.
-*   [Polkadot-JS Extension (⭐886)](https://github.com/polkadot-js/extension) - Browser extension for interacting with Substrate-based chains.
+*   [Polkadot-JS Extension (⭐894)](https://github.com/polkadot-js/extension) - Browser extension for interacting with Substrate-based chains.
 *   [Polkascan](https://polkascan.io/) - Multi-chain block explorer maintained by Polkascan Foundation.
 *   [Proxy Hot Wallet Demo (⭐19)](https://github.com/emostov/proxy-hot-wallet) - A demonstration of a secure, convenient, and flexible hot wallet architecture built on Substrate primitives.
-*   [Redspot (⭐65)](https://github.com/patractlabs/redspot) - A [Truffle](https://www.trufflesuite.com/truffle)-like toolkit for smart contracts for the FRAME Contracts pallet and ink!.
-*   [Sidecar (⭐201)](https://github.com/paritytech/substrate-api-sidecar) - REST service that runs alongside Substrate nodes.
-*   [Staking Rewards Collector (⭐69)](https://github.com/w3f/staking-rewards-collector) - A script to parse and output staking rewards for a given Kusama or Polkadot address and cross-reference them with daily price data.
+*   [Redspot (⭐63)](https://github.com/patractlabs/redspot) - A [Truffle](https://www.trufflesuite.com/truffle)-like toolkit for smart contracts for the FRAME Contracts pallet and ink!.
+*   [Sidecar (⭐211)](https://github.com/paritytech/substrate-api-sidecar) - REST service that runs alongside Substrate nodes.
+*   [Staking Rewards Collector (⭐72)](https://github.com/w3f/staking-rewards-collector) - A script to parse and output staking rewards for a given Kusama or Polkadot address and cross-reference them with daily price data.
 *   [Subscan](https://www.subscan.io/) - Multi-network explorer for Substrate-based chains.
 *   [Subsquid](https://subsquid.io) - An indexing framework (SDK + infrastructure) to quickly and easily turn Substrate and EVM on-chain data into APIs and host them.
 *   [Substate (⭐5)](https://github.com/arrudagates/substate) - 100% no-std/wasm compatible Substrate storage key generator library for Rust.
-*   [Substrate debug-kit (⭐96)](https://github.com/paritytech/substrate-debug-kit) - A collection of tools and libraries for debugging Substrate-based chains.
+*   [Substrate debug-kit (⭐94)](https://github.com/paritytech/substrate-debug-kit) - A collection of tools and libraries for debugging Substrate-based chains.
 *   [Substrate Docker Builders (⭐17)](https://github.com/ETeissonniere/substrate-nodeops) - A set of Dockerfiles and GitHub Actions to auto-build and push a Docker image for Substrate-based chains.
 *   [Substrate Faucet Bot (⭐3)](https://github.com/starkleytech/substrate-faucet) - Python-based faucet for development purposes.
-*   [Substrate Graph (⭐28)](https://github.com/playzero/substrate-graph) - GraphQL indexer for Substrate-based chains.
+*   [Substrate Graph (⭐29)](https://github.com/playzero/substrate-graph) - GraphQL indexer for Substrate-based chains.
 *   [TxWrapper (⭐60)](https://github.com/paritytech/txwrapper) - Helpful library for offline transaction creation.
 *   [VSCode Substrate](https://marketplace.visualstudio.com/items?itemName=paritytech.vscode-substrate) - Plugin for Visual Studio Code.
 
@@ -143,24 +138,24 @@
 
 ### Alternative Implementations
 
-*   [Gossamer (⭐382)](https://github.com/ChainSafe/gossamer) - A Polkadot client implemented in Go; from [ChainSafe](https://chainsafe.io/).
+*   [Gossamer (⭐391)](https://github.com/ChainSafe/gossamer) - A Polkadot client implemented in Go; from [ChainSafe](https://chainsafe.io/).
 *   [Kagome](https://kagome.readthedocs.io/en/latest/) - A C++17 implementation of the Polkadot client; from [Soramitsu](http://www.soramitsu.co.jp/).
 *   [LimeChain AssemblyScript Runtime (⭐12)](https://github.com/LimeChain/as-substrate-runtime) - An account-based Substrate proof-of-concept runtime written in AssemblyScript; from [LimeChain](https://limechain.tech/).
 
 ### SCALE Codec
 
 *   [Codec Definition](https://docs.substrate.io/v3/advanced/scale-codec/) - Official codec documentation.
-*   [Go (⭐52)](https://github.com/itering/scale.go) - Maintained by [Itering](https://www.itering.com/).
-*   [Haskell (⭐180)](https://github.com/airalab/hs-web3/tree/master/src/Codec) - Maintained by [Robonomics Network](https://robonomics.network/).
-*   [Java (⭐54)](https://github.com/emeraldpay/polkaj/tree/master/polkaj-scale) - Maintained by [Emerald](https://emerald.cash/).
-*   [Parity SCALE Codec (⭐202)](https://github.com/paritytech/parity-scale-codec) - Reference implementation written in Rust.
+*   [Go (⭐54)](https://github.com/itering/scale.go) - Maintained by [Itering](https://www.itering.com/).
+*   [Haskell (⭐181)](https://github.com/airalab/hs-web3/tree/master/src/Codec) - Maintained by [Robonomics Network](https://robonomics.network/).
+*   [Java (⭐55)](https://github.com/emeraldpay/polkaj/tree/master/polkaj-scale) - Maintained by [Emerald](https://emerald.cash/).
+*   [Parity SCALE Codec (⭐214)](https://github.com/paritytech/parity-scale-codec) - Reference implementation written in Rust.
 *   [Ruby (⭐18)](https://github.com/itering/scale.rb) - Maintained by Itering.
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [jbyuki/carrot.nvim (⭐22)](https://github.com/jbyuki/carrot.nvim) - Markdown evaluator Lua code blocks.
+*   [jbyuki/carrot.nvim (⭐25)](https://github.com/jbyuki/carrot.nvim) - Markdown evaluator Lua code blocks.
 
 ## [5. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
@@ -184,7 +179,7 @@
 
 ### Templates
 
-*   [Yew PWA Minimal (⭐36)](https://github.com/fkohlgrueber/yew-pwa-minimal) - A minimal Progressive Web App using Yew.
+*   [Yew PWA Minimal (⭐46)](https://github.com/fkohlgrueber/yew-pwa-minimal) - A minimal Progressive Web App using Yew.
 
 ---
 

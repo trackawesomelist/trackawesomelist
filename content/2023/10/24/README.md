@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 24, 2023
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -23,20 +23,6 @@
 
 ## [2. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
-### Projects / API Management
-
-*   [Gravitee.io API Management (⭐75) (⭐69)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-*   [WSO2 API Manager (⭐768) (⭐766)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
-
-### Projects / API Design
-
-*   [OpenAPI Diff (⭐670) (⭐667)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
-*   [Zally (⭐826) (⭐825)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
-
-### Projects / API Gateway
-
-*   [Apinto (⭐981) (⭐972)](https://github.com/eolinker/goku) - A Golang-based microservice gateway that provides dynamic routing, service orchestration, multi-tenancy management, and API access control.
-
 ### Projects / API Testing
 
 *   MQ clients
@@ -53,10 +39,6 @@
     *   [Mocky (⭐1.9k) (⭐2k)](https://github.com/MockyAbstract/Mocky) - Free and unlimited online service for generating custom HTTP responses.
     *   [Prism (⭐3.7k) (⭐3.8k)](https://github.com/stoplightio/prism) - Open-source HTTP mock server that can mimic your API's behavior as if you already built it.
     *   [WireMock (⭐5.7k) (⭐5.8k)](https://github.com/tomakehurst/wiremock) - Mock your APIs for fast, robust, and comprehensive testing.
-
-### Projects / Data Mapping Solution
-
-*   [JSLT (⭐570) (⭐568)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
 
 ### Projects / ESB
 
@@ -112,20 +94,65 @@
 
 *   [VidocqH/auto-indent.nvim (⭐2)](https://github.com/VidocqH/auto-indent.nvim) - Auto indent cursor when cursor at the first column and press `<TAB>` key like VSCode.
 
-## [7. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
+## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### Language Agnostic / React.js
+### COBOL / Non-X86
 
-*   [Compiler](https://www.redhat.com/en/compiler-podcast) - Angela Andrews, Brent Simoneaux, Red Hat (podcast)
+*   [GNU COBOL Programmers Guide](https://edoras.sdsu.edu/doc/GNU_Cobol_Programmers_Guide_2.1.pdf) - Gary L. Cutler (PDF)
 
-## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+### Fortran / Phoenix
+
+*   [Fortran](https://personalpages.manchester.ac.uk/staff/david.d.apsley/lectures/fortran/fortranA.pdf) -  David Apsley (PDF)
+
+### Graphs / GraphQL
+
+*   [GraphQL or Bust](https://nordicapis.com/wp-content/uploads/GraphQL-or-Bust-v2.2.pdf) - Nordic APIs (PDF)
+
+## [8. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+
+### Pricing
+
+*   `#opensource`
+
+### 3D
+
+*   [Any Image to 3D](https://www.csm.ai/any-image-to-3d) - Simplifies the process of converting 2D images into fully detailed 3D models, catering to industries like gaming, robotics, mixed reality, VFX, and e-commerce. `#free`
+*   [OctoEverywhere](https://octoeverywhere.com/) - OctoEverywhere is a 3D printing failure detection assistant that uses computer vision algorithms to detect printing errors such as spaghetti, layer shifts, adhesion issues, and more `#paid`
+*   [Spyne](https://www.spyne.ai/) - Spyne is helping used-car dealerships and marketplaces create engaging VDPs with 360° views and images that sell better. `#paid`
+*   [Pool Planner AI](https://poolplannerai.com/) - Visualize Your Dream Pool Design `#paid`
+*   [Omnia](https://www.theomnia.io/) - Create 3D models based on text prompts or uploaded images. `#paid`
+*   [Heroify](https://www.heroify.lol/) - Generate high-quality 3D graphics for landing pages. `#paid`
+*   [Tafi Avatar](https://www.maketafi.com/ai) - Text-to-3D Character Engine. `#paid`
+*   [Unity](https://unity.com/ai) - Craft interactive, dynamic 3D content for AR, VR, mobile, desktop, and web platforms. `#paid`
+
+### Art
+
+*   [lexical.Art](https://lexica.art) -AI image generation tool that allows you to create images from text descriptions. `#free`
+
+### Dating
+
+*   [Candy.ai](https://candy.ai/discover) - Your dream companion awaits! Create your Virtual Girlfriend, shape her personality and bring her to life in one click. 100% powered by Artificial Intelligence. `#freemium`
+*   [DatePlanner.ai](https://dateplanner.ai/) - Online dating is competitive. Stand out with thoughtful date ideas and interesting conversation topics. `#paid`
+
+### Models
+
+*   [LiteLLM](https://litellm.ai/) - An open-source library to simplify LLM completion + embedding calls. `#free` `#opensource`
+*   [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - A foundational, 65-billion-parameter large language model by Meta. `#opensource` `#free`
+*   [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. `#opensource` `#free`
+*   [OPT](https://opt.alpa.ai/) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. `#opensource` `#free`
+
+### Text to Speech
+
+*   [ElevenLabs](https://elevenlabs.io/) - AI-powered text-to-speech and voice cloning technology.`#freemium`
+
+## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / FFI
 
 *   Prolog
     *   [mthom/scryer-prolog (⭐1.8k)](https://github.com/mthom/scryer-prolog/) — Scryer Prolog is a free software ISO Prolog system written in Rust
 
-## [9. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [10. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Party
 
@@ -174,9 +201,6 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |       2 |       14 | 480m |
-
-### Contribute
-
 ### [Calico](https://boardgamegeek.com/boardgame/283155/calico)
 
 > Calico is a puzzly tile-laying game of quilts and cats. In Calico, players compete to sew the coziest quilt as they collect and place patches of different colors and patterns. Each quilt has a particular pattern that must be followed, and players are also trying to create color and pattern combinations that are not only aesthetically pleasing, but also able to attract the cuddliest cats! Turns are simple. Select a single patch tile from your hand and sew it into your quilt, then draw another patch into your hand from the three available. If you are able to create a color group, you may sew a button onto your quilt. If you are able to create a pattern combination that is attractive to any of the cats, it will come over and curl up on your quilt! At the end of the game, you score points for buttons, cats, and how well you were able to complete your unique quilt pattern.
@@ -187,17 +211,15 @@
 | ------: | -------: | -----: |
 |   1 - 4 |       10 | 30-45m |
 
-Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
-
-## [10. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
+## [11. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
 
 ### [Le Git Graph (⭐1.8k)](https://github.com/NirmalScaria/le-git-graph) <a href="https://chrome.google.com/webstore/detail/le-git-graph-commits-grap/joggkdfebigddmaagckekihhfncdobff"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/le-git-graph-github-git-graph/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Browser extension to add git graph to GitHub website.
 
-Installs: 5309 | Stars: 1849 | Last update: 29 Sep 2023
+Installs: 5318 | Stars: 1886 | Last update: 29 Sep 2023
 
-## [11. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [12. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Other Development Tools / Wallets
 
@@ -205,4 +227,5 @@ Installs: 5309 | Stars: 1849 | Last update: 29 Sep 2023
 
 ---
 
+- Prev: [Oct 25, 2023](/content/2023/10/25/README.md)
 - Next: [Oct 23, 2023](/content/2023/10/23/README.md)

@@ -15,12 +15,12 @@
 ### Software / Command Line Tools
 
 *   [Cygwin](http://cygwin.com/) - Unix-like environment for Windows, providing access to a number of tools commonly found on Linux systems. ([GNU GPLv3](https://cygwin.com/COPYING))
-*   [PuTTY](http://www.chiark.greenend.org.uk/\~sgtatham/putty/) - Remote terminal emulator that connects over SSH, Telnet, SCP, and rlogin protocols as well as raw socket connections. ([MIT](http://www.chiark.greenend.org.uk/\~sgtatham/putty/licence.html))
+*   [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/) - Remote terminal emulator that connects over SSH, Telnet, SCP, and rlogin protocols as well as raw socket connections. ([MIT](http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html))
 
 ### Software / Communication
 
-*   [Mail-in-a-Box](https://mailinabox.email/) - Easy-to-deploy mail server package for cloud computers. ([CC0 (⭐11k)](https://github.com/mail-in-a-box/mailinabox/blob/master/LICENSE))
-*   [ProtonMail](https://protonmail.com/) - Secure web-based email service. ([MIT (⭐3.5k)](https://github.com/ProtonMail/WebClient/blob/public/license.md))
+*   [Mail-in-a-Box](https://mailinabox.email/) - Easy-to-deploy mail server package for cloud computers. ([CC0 (⭐12k)](https://github.com/mail-in-a-box/mailinabox/blob/master/LICENSE))
+*   [ProtonMail](https://protonmail.com/) - Secure web-based email service. ([MIT (⭐3.8k)](https://github.com/ProtonMail/WebClient/blob/public/license.md))
 
 ### Software / File Management
 
@@ -31,8 +31,8 @@
 
 *   [Blender](https://www.blender.org/) - 3D creation suite for modeling, simulation, and animation. ([GNU GPLv2+](https://www.blender.org/about/license/))
 *   [GIMP](http://www.gimp.org/) - Image manipulation software. ([GNU GPLv3](https://www.gimp.org/about/COPYING))
-*   [Inkscape](https://inkscape.org) - Professional vector graphics editor for all platforms. ([GNU GPL](https://bazaar.launchpad.net/\~inkscape.dev/inkscape/trunk/view/head:/COPYING))
-*   [Piskel](http://www.piskelapp.com/) - Online sprite editor. ([Apache License 2.0 (⭐27)](https://github.com/juliandescottes/piskel/blob/master/LICENSE))
+*   [Inkscape](https://inkscape.org) - Professional vector graphics editor for all platforms. ([GNU GPL](https://bazaar.launchpad.net/~inkscape.dev/inkscape/trunk/view/head:/COPYING))
+*   [Piskel](http://www.piskelapp.com/) - Online sprite editor. ([Apache License 2.0 (⭐28)](https://github.com/juliandescottes/piskel/blob/master/LICENSE))
 
 ### Software / Office
 
@@ -40,21 +40,21 @@
 
 ### Software / Payments
 
-*   [Electrum](https://electrum.org) - Lightweight Bitcoin client that provides wallet recovery, decentralized servers, and offline storage. ([MIT (⭐6k)](https://github.com/spesmilo/electrum/blob/master/LICENCE))
+*   [Electrum](https://electrum.org) - Lightweight Bitcoin client that provides wallet recovery, decentralized servers, and offline storage. ([MIT (⭐6.5k)](https://github.com/spesmilo/electrum/blob/master/LICENCE))
 
 ### Software / Scientific Work
 
-*   [DocEar](http://www.docear.org/) - Literature management using mind mapping technology. ([GNU GPLv2+ (⭐279)](https://github.com/Docear/Desktop/blob/master/docear_framework/license.txt))
-*   [JabRef](https://www.jabref.org) - Manages references and attached PDFs using BibTeX/BibLaTeX. Includes support for LibreOffice. ([MIT (⭐2.8k)](https://github.com/JabRef/jabref/blob/master/LICENSE.md))
+*   [DocEar](http://www.docear.org/) - Literature management using mind mapping technology. ([GNU GPLv2+ (⭐287)](https://github.com/Docear/Desktop/blob/master/docear_framework/license.txt))
+*   [JabRef](https://www.jabref.org) - Manages references and attached PDFs using BibTeX/BibLaTeX. Includes support for LibreOffice. ([MIT (⭐3.1k)](https://github.com/JabRef/jabref/blob/master/LICENSE.md))
 
 ### Software / Screencasting
 
-*   [OBS Studio](https://obsproject.com/) - Screen recorder and video streaming application for all platforms. ([GNU GPLv2 (⭐42k)](https://github.com/jp9000/obs-studio/blob/master/COPYING))
+*   [OBS Studio](https://obsproject.com/) - Screen recorder and video streaming application for all platforms. ([GNU GPLv2 (⭐49k)](https://github.com/jp9000/obs-studio/blob/master/COPYING))
 *   [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) - Highly customisable GUI screencasting program. ([GNU GPLv3](http://www.maartenbaert.be/simplescreenrecorder/#license))
 
 ### Software / Text Editors
 
-*   [Atom](https://atom.io/) - Hackable text and source code editor. ([MIT](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md))
+*   [Atom](https://atom.io/) - Hackable text and source code editor. (Archived) ([MIT](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md))
 *   [Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more. ([GNU GPL](http://www.free-soft.org/gpl_history/emacs_gpl.html))
 *   [GNU nano](https://www.nano-editor.org/) - Simple text editor for the command line. ([GNU GPL](https://www.nano-editor.org/dist/v2.7/README))
 *   [Notepad++](https://notepad-plus-plus.org/) - Extensible text and source code editor. ([GNU GPLv2+](https://raw.githubusercontent.com/notepad-plus-plus/notepad-plus-plus/master/LICENSE))
@@ -65,9 +65,9 @@
 
 ### Software / Video
 
-*   [NewPipe](https://newpipe.schabi.org/) - Lightweight YouTube frontend for Android. ([GNU GPLv3 (⭐21k)](https://github.com/TeamNewPipe/NewPipe/blob/master/LICENSE))
+*   [NewPipe](https://newpipe.schabi.org/) - Lightweight YouTube frontend for Android. ([GNU GPLv3 (⭐25k)](https://github.com/TeamNewPipe/NewPipe/blob/master/LICENSE))
 *   [VLC](http://www.videolan.org/vlc/) - Multimedia player that supports a variety of audio and video formats. ([GNU GPLv3](http://www.videolan.org/videolan/))
-*   [youtube-dl](https://rg3.github.io/youtube-dl/) - Feature-rich command line program to download videos from YouTube and other video sites. ([Unlicense (⭐114k)](https://github.com/rg3/youtube-dl/blob/master/LICENSE))
+*   [youtube-dl](https://rg3.github.io/youtube-dl/) - Feature-rich command line program to download videos from YouTube and other video sites. ([Unlicense (⭐121k)](https://github.com/rg3/youtube-dl/blob/master/LICENSE))
 
 ### Software / Virtualization
 
@@ -178,20 +178,20 @@
 
 ### Miscellaneous
 
-*   [WebScreenshot (⭐2.3k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) - Take screenshots directly to imgur.
+*   [WebScreenshot (⭐2.4k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) - Take screenshots directly to imgur.
 
 ### System
 
-*   [AppFreeze (⭐2.3k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/AppFreeze) - Pauses and resumes execution of the frontmost app.
+*   [AppFreeze (⭐2.4k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/AppFreeze) - Pauses and resumes execution of the frontmost app.
 
 ### Web
 
-*   [BugNot (⭐2.3k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/BugNot) - Get logins from bugmenot.
-*   [IncognitoClone (⭐2.3k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/IncognitoClone) - Opens Chrome’s frontmost tab in an incognito window.
+*   [BugNot (⭐2.4k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/BugNot) - Get logins from bugmenot.
+*   [IncognitoClone (⭐2.4k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/IncognitoClone) - Opens Chrome’s frontmost tab in an incognito window.
 
 ### Helpers
 
-*   [OneUpdater (⭐2.3k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater) - Minimal Configuration method in adding auto-updating to your workflow.
+*   [OneUpdater (⭐2.4k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater) - Minimal Configuration method in adding auto-updating to your workflow.
 
 ## [8. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/README.md)
 
@@ -312,7 +312,7 @@
 
 ### Libraries
 
-*   [GLFM (⭐452)](https://github.com/brackeen/glfm) - Supplies an OpenGL ES context and input events for mobile devices and the web.
+*   [GLFM (⭐502)](https://github.com/brackeen/glfm) - Supplies an OpenGL ES context and input events for mobile devices and the web.
 
 ---
 

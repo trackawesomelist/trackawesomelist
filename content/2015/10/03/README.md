@@ -44,7 +44,7 @@
 
 ### Third Party APIs
 
-*   [elixtagram (⭐81)](https://github.com/zensavona/elixtagram) - Instagram API client for Elixir.
+*   [elixtagram (⭐82)](https://github.com/zensavona/elixtagram) - Instagram API client for Elixir.
 
 ## [7. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 

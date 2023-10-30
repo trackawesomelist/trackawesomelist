@@ -1,12 +1,50 @@
 # Awesome List Updates on Oct 30 - Nov 05, 2023
 
-6 awesome lists updated this week.
+10 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [1. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+
+### Text / Models
+
+*   [Stable Beluga](https://huggingface.co/stabilityai/StableBeluga1-Delta) - A finetuned LLamma 65B model
+*   [Stable Beluga 2](https://huggingface.co/stabilityai/StableBeluga2) - A finetuned LLamma2 70B model
+
+### Other / Music
+
+*   [Petals (⭐7.8k)](https://github.com/bigscience-workshop/petals) - BitTorrent style platform for running AI models in a distributed way
+
+### Learning resources / Music
+
+*   [OpenAI Cookbook (⭐50k)](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
+*   [Robert Miles AI Safety](https://www.youtube.com/@RobertMilesAI) - Youtube channel about AI safety
+
+## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+
+### Driver crates / WIP
+
+*   [AD9850](https://crates.io/crates/ad9850) - Embedded driver for the AD9850 DDS synthesizer chip - ![crates.io](https://img.shields.io/crates/v/ad9850.svg)
+
+## [3. Awesome Go](/content/avelino/awesome-go/week/README.md)
+
+### Caches
+
+*   [coherence-go-client (⭐7)](https://github.com/oracle/coherence-go-client) - Full implementation of Oracle Coherence cache API for Go applications using gRPC as network transport.
+
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### (requires Neovim 0.5)
+
+*   [mrcjkb/haskell-tools.nvim (⭐309)](https://github.com/mrcjkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
+
+### Snippet / Diagnostics
+
+*   [mrcjkb/haskell-snippets.nvim (⭐9)](https://github.com/mrcjkb/haskell-snippets.nvim) - Haskell snippets for LuaSnip, powered by Tree-sitter and LSP.
+
+## [5. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Strategy
 
@@ -29,7 +67,7 @@
 | ------: | -------: | ---: |
 |       4 |       15 |  30m |
 
-## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
@@ -53,29 +91,48 @@
 *   [\[2309.17288\] AutoAgents: A Framework for Automatic Agent Generation](https://arxiv.org/abs/2309.17288)
 *   [Exploring Multi-Persona Prompting for Better Outputs](https://www.prompthub.us/blog/exploring-multi-persona-prompting-for-better-outputs): "method of prompt engineering that instructs the LLM to summon multiple personas and have them work together to solve a task"
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
 *   [Servas (⭐371)](https://github.com/beromir/Servas) - A self-hosted bookmark management tool. It allows organization with tags, groups, and a list specifically for later access. It supports multiple users with 2FA. Companion browser extensions are available for Firefox and Chrome. ([Clients (⭐371)](https://github.com/beromir/Servas#browser-extensions)) `GPL-3.0` `Docker/Nodejs/PHP`
 
-## [4. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [8. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [skydio/revup (⭐258)](https://github.com/Skydio/revup#readme) - Project logo. Animated GIF demo + GIFs for major stages of the step-by-step tutorial. Concise explanation, installation instructions, and contribution section.
 
-## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
+*   [asdf (kiurchv) (⭐15)](https://github.com/kiurchv/asdf.plugin.zsh) - Integration and completions for [asdf (⭐19k)](https://github.com/asdf-vm/asdf), the extendable version manager, with support for Ruby, Node.js, Elixir, Erlang and more.
+*   [asdf (zimfw) (⭐5)](https://github.com/zimfw/asdf) - Initializes [asdf (⭐19k)](https://github.com/asdf-vm/asdf), installing it using `git` if not installed yet. Also, bypasses the shims if you're using the [direnv (⭐474)](https://github.com/asdf-community/asdf-direnv) plugin, as suggested by the plugin [pro-tips (⭐474)](https://github.com/asdf-community/asdf-direnv/#pro-tips).
 *   [zload (⭐14)](https://github.com/mollifier/zload) - Hot Reload for ZSH functions. Enables rapid development.
 
-## [6. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-### Machine Learning
+*   [sdkman (matthieusb) (⭐54)](https://github.com/matthieusb/zsh-sdkman) - Add tab completions for [sdkman](https://sdkman.io/).
+*   [sdkman (yongxingzhao) (⭐0)](https://github.com/yongxingzhao/zsh-sdkman) - Add tab completions for [sdkman](https://sdkman.io/).
 
-*   [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) - Christopher M. Bishop (PDF)
+## [10. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Java / Bootstrap
+
+*   [Hibernate Notes for Professionals](https://books.goalkicker.com/HibernateBook) - Compiled from StackOverflow Documentation (PDF)
+
+### Linux / TeX
+
+*   [Linux Notes for Professionals](https://books.goalkicker.com/LinuxBook) - Compiled from StackOverflow Documentation (PDF)
+
+### .NET Framework / PicoLisp
+
+*   [Entity Framework Notes for Professionals](https://books.goalkicker.com/EntityFrameworkBook) - Compiled from StackOverflow Documentation (PDF)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Programming Basics with Python](https://python-book.softuni.org) - Svetlin Nakov & Team
 
 ---
 

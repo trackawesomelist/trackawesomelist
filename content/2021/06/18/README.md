@@ -1,46 +1,40 @@
 # Awesome List Updates on Jun 18, 2021
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
-
-### PaaS
-
-*   [FlashDrive.io](https://flashdrive.io) - Deploy any code directly from Git with lot of supported languages out of the box and Docker support. $100 free credits for everyone + $1000 free credits per year with student program (ask [support@flashdrive.io](https://github.com/AchoArnold/discount-for-student-dev/blob/master/README.md/mailto:support@flashdrive.io))
-
-## [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [1. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [stevearc/aerial.nvim (⭐910)](https://github.com/stevearc/aerial.nvim) - A code outline window for skimming and quick navigation.
+*   [stevearc/aerial.nvim (⭐1.1k)](https://github.com/stevearc/aerial.nvim) - A code outline window for skimming and quick navigation.
 
-## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Libraries / Community
 
-*   [vite-ssr (⭐724)](https://github.com/frandiox/vite-ssr) - Simplified Server Side Rendering with an SPA-like developer experience. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883)
+*   [vite-ssr (⭐776)](https://github.com/frandiox/vite-ssr) - Simplified Server Side Rendering with an SPA-like developer experience. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883)
 
 ### Frameworks / Community
 
-*   [vitedge (⭐696)](https://github.com/frandiox/vitedge) - Edge-side rendering with fullstack utilities. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883)
+*   [vitedge (⭐713)](https://github.com/frandiox/vitedge) - Edge-side rendering with fullstack utilities. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883)
 
-## [4. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [3. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Platforms and Software Resources / Geospatial Data and Visualization
 
 *   [CARTO](https://carto.com/) - CARTO is a world leading Location Intelligence platform, enabling organizations to host & use spatial data and enable analysis for more efficient delivery routes, better behavioural marketing, strategic store placements, and much more.
 
-## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Evidently (⭐3.4k)](https://github.com/evidentlyai/evidently): Interactive reports to analyze machine learning models during validation or production monitoring.
+*   [Evidently (⭐3.8k)](https://github.com/evidentlyai/evidently): Interactive reports to analyze machine learning models during validation or production monitoring.
 
-## [6. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
+## [5. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
 ### Websites / Archives
 
@@ -97,18 +91,18 @@
 
 *   [Tabula](https://www.curseforge.com/minecraft/mc-mods/tabula-minecraft-modeler) - Minecraft Mod that faciliates creating 3D Models.
 *   [Mod Coder Pack](https://minecraft.fandom.com/wiki/Programs_and_editors/Mod_Coder_Pack) - Tool for properly decompiling Minecraft.
-*   [BON 2 (⭐172)](https://github.com/tterrag1098/BON2) - A rewrite of the Bearded Octo Nemesis project with support for ForgeGradle.
-*   [Bearded Octo Nemesis (⭐131)](https://github.com/immibis/bearded-octo-nemesis) - Tool for deobfuscating with support for SRG mappings and especially the Mod Coder Pack.
+*   [BON 2 (⭐181)](https://github.com/tterrag1098/BON2) - A rewrite of the Bearded Octo Nemesis project with support for ForgeGradle.
+*   [Bearded Octo Nemesis (⭐130)](https://github.com/immibis/bearded-octo-nemesis) - Tool for deobfuscating with support for SRG mappings and especially the Mod Coder Pack.
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
-*   [vuestic-admin (⭐9.3k)](https://github.com/epicmaxco/vuestic-admin) - Vue Admin Dashboard built with Vue 3 and `vuestic-ui`.
+*   [vuestic-admin (⭐9.6k)](https://github.com/epicmaxco/vuestic-admin) - Vue Admin Dashboard built with Vue 3 and `vuestic-ui`.
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
 *   [Iploka](https://iploka.com/) — IP to Geolocation API - Forever free plan for developers with 10k requests per month limit.
 

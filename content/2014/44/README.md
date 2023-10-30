@@ -20,7 +20,7 @@
 
 ### Web server Benchmarks / Meetups
 
-*   [wrk (⭐34k)](https://github.com/wg/wrk) - A HTTP benchmarking tool (with optional Lua scripting for request generation, response
+*   [wrk (⭐35k)](https://github.com/wg/wrk) - A HTTP benchmarking tool (with optional Lua scripting for request generation, response
     processing, and custom reporting)
 
 ## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
@@ -55,11 +55,11 @@
 
 ### Validation / Runner
 
-*   [validatr (⭐279)](https://github.com/jaymorrow/validatr/) - Cross Browser HTML5 Form Validation.
+*   [validatr (⭐280)](https://github.com/jaymorrow/validatr/) - Cross Browser HTML5 Form Validation.
 
-### Podcasts / Other
+### Misc / Other
 
-*   [peterkokot/awesome-dojo (⭐80)](https://github.com/peterkokot/awesome-dojo)
+*   [peterkokot/awesome-dojo (⭐81)](https://github.com/peterkokot/awesome-dojo)
 
 ## [7. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
@@ -91,11 +91,11 @@
 
 ### Data Visualization
 
-*   [Ruby/GraphViz (⭐603)](https://github.com/glejeune/Ruby-Graphviz) - Ruby interface to the GraphViz graphing tool.
+*   [Ruby/GraphViz (⭐605)](https://github.com/glejeune/Ruby-Graphviz) - Ruby interface to the GraphViz graphing tool.
 
 ### Database Drivers
 
-*   [SQLite3 (⭐690)](https://github.com/sparklemotion/sqlite3-ruby) - Ruby bindings for the SQLite3 embedded database.
+*   [SQLite3 (⭐703)](https://github.com/sparklemotion/sqlite3-ruby) - Ruby bindings for the SQLite3 embedded database.
 
 ### Date and Time Processing
 
@@ -103,28 +103,28 @@
 
 ### Machine Learning
 
-*   [rb-libsvm (⭐277)](https://github.com/febeling/rb-libsvm) - Ruby language bindings for LIBSVM. SVM is a machine learning and classification algorithm.
+*   [rb-libsvm (⭐278)](https://github.com/febeling/rb-libsvm) - Ruby language bindings for LIBSVM. SVM is a machine learning and classification algorithm.
 
 ### ORM/ODM
 
-*   [ActiveRecord (⭐53k)](https://github.com/rails/rails/tree/master/activerecord) - Object-relational mapping in Rails.
+*   [ActiveRecord (⭐54k)](https://github.com/rails/rails/tree/master/activerecord) - Object-relational mapping in Rails.
 
 ### Scientific
 
 *   Numerical arrays
-    *   [NMatrix (⭐463)](https://github.com/sciruby/nmatrix) - Fast numerical linear algebra library for Ruby.
-    *   [Numo::NArray (⭐374)](https://github.com/ruby-numo/numo-narray) - N-dimensional Numerical Array for Ruby.
+    *   [NMatrix (⭐467)](https://github.com/sciruby/nmatrix) - Fast numerical linear algebra library for Ruby.
+    *   [Numo::NArray (⭐387)](https://github.com/ruby-numo/numo-narray) - N-dimensional Numerical Array for Ruby.
     *   [mdarray (⭐36)](https://github.com/rbotafogo/mdarray) - Multi dimensional array implemented for JRuby inspired by NumPy.
-*   [SciRuby (⭐981)](https://github.com/sciruby/sciruby) - Tools for scientific computation in Ruby/Rails.
-    *   [IRuby (⭐762)](https://github.com/SciRuby/iruby) - A Ruby kernel for Jupyter.
-    *   [statsample (⭐94)](https://github.com/sciruby/statsample) - A suite for basic and advanced statistics on Ruby.
+*   [SciRuby (⭐986)](https://github.com/sciruby/sciruby) - Tools for scientific computation in Ruby/Rails.
+    *   [IRuby (⭐790)](https://github.com/SciRuby/iruby) - A Ruby kernel for Jupyter.
+    *   [statsample (⭐95)](https://github.com/sciruby/statsample) - A suite for basic and advanced statistics on Ruby.
     *   [statsample-timeseries (⭐13)](https://github.com/sciruby/statsample-timeseries) - Bioruby Statsample TimeSeries.
     *   [statsample-glm (⭐22)](https://github.com/sciruby/statsample-glm) - Generalized Linear Models extension for Statsample.
-    *   [distribution (⭐43)](https://github.com/sciruby/distribution) - Statistical Distributions multi library wrapper.
+    *   [distribution (⭐46)](https://github.com/sciruby/distribution) - Statistical Distributions multi library wrapper.
     *   [minimization (⭐16)](https://github.com/sciruby/minimization) - Minimization algorithms on pure Ruby.
 *   Specific
-    *   [BioRuby (⭐368)](https://github.com/bioruby/bioruby) - Library for developing bioinformatics software.
-    *   [bloomfilter-rb (⭐467)](https://github.com/igrigorik/bloomfilter-rb) - BloomFilter(s) in Ruby: Native counting filter + Redis counting/non-counting filters.
+    *   [BioRuby (⭐370)](https://github.com/bioruby/bioruby) - Library for developing bioinformatics software.
+    *   [bloomfilter-rb (⭐468)](https://github.com/igrigorik/bloomfilter-rb) - BloomFilter(s) in Ruby: Native counting filter + Redis counting/non-counting filters.
     *   [decisiontree (⭐1.4k)](https://github.com/igrigorik/decisiontree) - A ruby library which implements ID3 (information gain) algorithm for decision tree learning.
 
 ### Video

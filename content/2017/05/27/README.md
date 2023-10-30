@@ -10,7 +10,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-model-autoset (⭐18)](https://github.com/outluch/vue-model-autoset) - A Vue.js plugin to workaround Vue limitation in observing dynamically added properties with v-model directive
+*   [vue-model-autoset (⭐17)](https://github.com/outluch/vue-model-autoset) - A Vue.js plugin to workaround Vue limitation in observing dynamically added properties with v-model directive
 
 ## [2. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 
@@ -41,11 +41,11 @@
 
 *   [Vert.x Web Accesslog (⭐24)](https://github.com/romanpierson/vertx-web-accesslog) - Just a simple handler to be used in Vert.x Web to generate access logs.
 
-## [6. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
+## [6. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
-### Alternatives / Music
+### Software / Audio
 
-*   [mStream](http://mstream.io/) - Suite of software for syncing and streaming music across multiple devices.
+*   [mStream](http://mstream.io/) - Suite of software for syncing and streaming music across multiple devices. ([GNU GPLv3 (⭐2k)](https://github.com/IrosTheBeggar/mStream/blob/master/LICENSE))
 
 ---
 

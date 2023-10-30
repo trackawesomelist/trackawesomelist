@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 29, 2021
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,11 +10,11 @@
 
 ### Artificial Intelligence
 
-*   [oneDNN (⭐3.2k)](https://github.com/oneapi-src/oneDNN) - An open-source cross-platform performance library for deep learning applications. \[Apache] [website](https://01.org/onednn)
+*   [oneDNN (⭐3.3k)](https://github.com/oneapi-src/oneDNN) - An open-source cross-platform performance library for deep learning applications. \[Apache] [website](https://01.org/onednn)
 
 ### Machine Learning
 
-*   [oneDAL (⭐559)](https://github.com/oneapi-src/oneDAL) - A powerful machine learning library that helps speed up big data analysis. \[Apache]
+*   [oneDAL (⭐574)](https://github.com/oneapi-src/oneDAL) - A powerful machine learning library that helps speed up big data analysis. \[Apache]
 
 ## [2. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Farm Management Systems and Record Keeping
 
-*   [Soil Mate (⭐8)](https://github.com/Open-Source-Agriculture/soil_mate) - Helper app designed to assist the collection of soil data.
+*   [Soil Mate (⭐11)](https://github.com/Open-Source-Agriculture/soil_mate) - Helper app designed to assist the collection of soil data.
 
 ## [5. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 
@@ -59,15 +59,15 @@ Language: English, 中文
 
 ### Libraries
 
-*   [NumPyro (⭐1.7k)](https://github.com/pyro-ppl/numpyro) - Probabilistic programming based on the Pyro library. <img src="https://img.shields.io/github/stars/pyro-ppl/numpyro?style=social" align="center">
-*   [Chex (⭐529)](https://github.com/deepmind/chex) - Utilities to write and test reliable JAX code. <img src="https://img.shields.io/github/stars/deepmind/chex?style=social" align="center">
-*   [Optax (⭐1k)](https://github.com/deepmind/optax) - Gradient processing and optimization library. <img src="https://img.shields.io/github/stars/deepmind/optax?style=social" align="center">
-*   [JAX, M.D. (⭐899)](https://github.com/google/jax-md) - Accelerated, differential molecular dynamics. <img src="https://img.shields.io/github/stars/google/jax-md?style=social" align="center">
+*   [NumPyro (⭐1.9k)](https://github.com/pyro-ppl/numpyro) - Probabilistic programming based on the Pyro library. <img src="https://img.shields.io/github/stars/pyro-ppl/numpyro?style=social" align="center">
+*   [Chex (⭐624)](https://github.com/deepmind/chex) - Utilities to write and test reliable JAX code. <img src="https://img.shields.io/github/stars/deepmind/chex?style=social" align="center">
+*   [Optax (⭐1.2k)](https://github.com/deepmind/optax) - Gradient processing and optimization library. <img src="https://img.shields.io/github/stars/deepmind/optax?style=social" align="center">
+*   [JAX, M.D. (⭐1k)](https://github.com/google/jax-md) - Accelerated, differential molecular dynamics. <img src="https://img.shields.io/github/stars/google/jax-md?style=social" align="center">
 
 ### Libraries / New Libraries
 
-*   [jax-unirep (⭐95)](https://github.com/ElArkk/jax-unirep) - Library implementing the [UniRep model](https://www.nature.com/articles/s41592-019-0598-1) for protein machine learning applications. <img src="https://img.shields.io/github/stars/ElArkk/jax-unirep?style=social" align="center">
-*   [jax-cosmo (⭐121)](https://github.com/DifferentiableUniverseInitiative/jax_cosmo) - Differentiable cosmology library. <img src="https://img.shields.io/github/stars/DifferentiableUniverseInitiative/jax_cosmo?style=social" align="center">
+*   [jax-unirep (⭐96)](https://github.com/ElArkk/jax-unirep) - Library implementing the [UniRep model](https://www.nature.com/articles/s41592-019-0598-1) for protein machine learning applications. <img src="https://img.shields.io/github/stars/ElArkk/jax-unirep?style=social" align="center">
+*   [jax-cosmo (⭐144)](https://github.com/DifferentiableUniverseInitiative/jax_cosmo) - Differentiable cosmology library. <img src="https://img.shields.io/github/stars/DifferentiableUniverseInitiative/jax_cosmo?style=social" align="center">
 
 ### Videos / NumPyro
 
@@ -87,26 +87,19 @@ Language: English, 中文
 
 *   [agcom/knio2 (⭐2)](https://github.com/agcom/knio2) - Kotlinx coroutines extensions for Java NIO.2
 
-## [8. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
-
-### Apps
-
-*   [ipfs.ink (⭐108)](https://github.com/kpcyrd/ipfs.ink) - Publish and render markdown essays to and from ipfs.
-*   [Watchit (⭐265)](https://github.com/ZorrillosDev/watchit-desktop) - A movie platform with a decentralized network approach.
-
-## [9. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [8. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Projects / Godot 3.2+
 
-*   [ProtonGraph (⭐1.1k)](https://github.com/protongraph/protongraph) - Node-based tool for procedural content creation. Like visual scripting, but for 3D model generation (needs custom engine modules).
+*   [ProtonGraph (⭐1.2k)](https://github.com/protongraph/protongraph) - Node-based tool for procedural content creation. Like visual scripting, but for 3D model generation (needs custom engine modules).
 
-## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Web Servers
 
-*   [datanymizer/datanymizer (⭐407)](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules [![build badge](https://github.com/datanymizer/datanymizer/workflows/CI/badge.svg?branch=main)](https://github.com/datanymizer/datanymizer/actions?query=workflow%3ACI+branch%3Amain)
+*   [datanymizer/datanymizer (⭐452)](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules [![build badge](https://github.com/datanymizer/datanymizer/workflows/CI/badge.svg?branch=main)](https://github.com/datanymizer/datanymizer/actions?query=workflow%3ACI+branch%3Amain)
 
-## [11. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [10. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Ethics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -121,7 +114,7 @@ Language: English, 中文
 
 *   [Social Media Awareness Toolkit](https://www.smat-app.com/about) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/smat-project) - An open and intuitive way to scrutinize what’s trending on internet platforms.
 
-## [12. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [11. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Practices and Specific ES Features
 
@@ -134,14 +127,14 @@ Language: English, 中文
 
 ### Tools / Testing Tools
 
-*   [generator-eslint (⭐196)](https://github.com/eslint/generator-eslint) - Generate ESLint
+*   [generator-eslint (⭐197)](https://github.com/eslint/generator-eslint) - Generate ESLint
     plugin and rules with [Yeoman](http://yeoman.io/).
 
-## [13. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [12. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Text
 
-*   [TwitterTextEditor (⭐2.8k)](https://github.com/twitter/TwitterTextEditor) - A standalone, flexible API that provides a full featured rich text editor for iOS applications.
+*   [TwitterTextEditor (⭐2.9k)](https://github.com/twitter/TwitterTextEditor) - A standalone, flexible API that provides a full featured rich text editor for iOS applications.
 
 ---
 

@@ -65,7 +65,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [@formkit/auto-animate (⭐7.5k)](https://github.com/formkit/auto-animate) Add motion to your apps with a single line of code
+*   [@formkit/auto-animate (⭐9.8k)](https://github.com/formkit/auto-animate) Add motion to your apps with a single line of code
 
 ## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -79,18 +79,18 @@
 
 ### Responsive / Syntax Highlight
 
-*   [ant-design (⭐85k)](https://github.com/ant-design/ant-design) - [demo/docs](https://ant.design/docs/react/introduce) - A UI Design Language from China. Individual [components](http://react-component.github.io/) available.
-*   [ChatUI (⭐1.8k)](https://github.com/alibaba/ChatUI) - [demo/docs](https://chatui.io/) - The UI design language and React library for Conversational UI
-*   [fluentui (⭐15k)](https://github.com/microsoft/fluentui) - UX frameworks for creating beautiful, cross-platform apps that share code, design, and interaction behavior.
-*   [geist-ui (⭐3.8k)](https://github.com/geist-org/geist-ui) - Modern and minimalist React UI library.
-*   [grommet (⭐8.2k)](https://github.com/grommet/grommet) - The most advanced UX framework for enterprise applications.
-*   [Mantine (⭐19k)](https://github.com/mantinedev/mantine) - [demo/docs](https://mantine.dev/) - A fully featured library with 100+ hooks and components with native dark theme support
+*   [ant-design (⭐88k)](https://github.com/ant-design/ant-design) - [demo/docs](https://ant.design/docs/react/introduce) - A UI Design Language from China. Individual [components](http://react-component.github.io/) available.
+*   [ChatUI (⭐2.2k)](https://github.com/alibaba/ChatUI) - [demo/docs](https://chatui.io/) - The UI design language and React library for Conversational UI
+*   [fluentui (⭐16k)](https://github.com/microsoft/fluentui) - UX frameworks for creating beautiful, cross-platform apps that share code, design, and interaction behavior.
+*   [geist-ui (⭐4k)](https://github.com/geist-org/geist-ui) - Modern and minimalist React UI library.
+*   [grommet (⭐8.3k)](https://github.com/grommet/grommet) - The most advanced UX framework for enterprise applications.
+*   [Mantine (⭐22k)](https://github.com/mantinedev/mantine) - [demo/docs](https://mantine.dev/) - A fully featured library with 100+ hooks and components with native dark theme support
 *   [orbit (⭐1.3k)](https://github.com/kiwicom/orbit) - Components for building travel oriented projects.
 *   [radix-ui](https://www.radix-ui.com/) - Unstyled, accessible components for building high‑quality design systems and web apps.
 *   [react-foundation (⭐601)](https://github.com/digiaonline/react-foundation) - Foundation as React components.
-*   [reakit (⭐6.6k)](https://github.com/ariakit/ariakit) - [demo/docs](https://reakit.io/docs/button/) Toolkit for building accessible rich web apps
-*   [semi-design (⭐6.9k)](https://github.com/DouyinFE/semi-design) - [demo/docs](https://semi.design/) - A modern, comprehensive, flexible design system.
-*   [shineout (⭐831)](https://github.com/sheinsight/shineout) - [demo](https://shine.wiki/1.4.x/en/components/GetStart) - Chinese-friendly set of components: form elements, navigation, table, tree, tree select drop-down etc.
+*   [reakit (⭐7.2k)](https://github.com/ariakit/ariakit) - [demo/docs](https://reakit.io/docs/button/) Toolkit for building accessible rich web apps
+*   [semi-design (⭐7.3k)](https://github.com/DouyinFE/semi-design) - [demo/docs](https://semi.design/) - A modern, comprehensive, flexible design system.
+*   [shineout (⭐884)](https://github.com/sheinsight/shineout) - [demo](https://shine.wiki/1.4.x/en/components/GetStart) - Chinese-friendly set of components: form elements, navigation, table, tree, tree select drop-down etc.
 
 ## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -100,7 +100,7 @@
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [git-clean-branch (⭐1)](https://github.com/gobriansteele/git-clean-branch) - Cleans up dead `git` branches.
 
@@ -116,7 +116,7 @@
 
 ### Utilities
 
-*   [nativefs (⭐23)](https://github.com/EngineerSmith/nativefs) - Read and write files outside of LÖVE's allowed paths.
+*   [nativefs (⭐27)](https://github.com/EngineerSmith/nativefs) - Read and write files outside of LÖVE's allowed paths.
 
 ## [10. Awesome Plone](/content/collective/awesome-plone/README.md)
 
@@ -196,7 +196,7 @@
 
 ## [11. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Open Source / Angular
+### Open Source / Svelte
 
 *   [Console Weekly](https://console.substack.com/). Discover cool open-source projects and an interview with one of the developers every week.
 
@@ -204,15 +204,15 @@
 
 ### (requires Neovim 0.5)
 
-*   [amrbashir/nvim-docs-view (⭐79)](https://github.com/amrbashir/nvim-docs-view) - Display LSP hover documentation in a side panel.
+*   [amrbashir/nvim-docs-view (⭐102)](https://github.com/amrbashir/nvim-docs-view) - Display LSP hover documentation in a side panel.
 
 ### Snippet / Diagnostics
 
-*   [smjonas/snippet-converter.nvim (⭐136)](https://github.com/smjonas/snippet-converter.nvim) - Convert snippets between the most common snippet formats and modify them using a few lines of Lua code.
+*   [smjonas/snippet-converter.nvim (⭐154)](https://github.com/smjonas/snippet-converter.nvim) - Convert snippets between the most common snippet formats and modify them using a few lines of Lua code.
 
 ### Formatting / Diagnostics
 
-*   [lukas-reineke/lsp-format.nvim (⭐442)](https://github.com/lukas-reineke/lsp-format.nvim) - A wrapper around Neovims native LSP formatting.
+*   [lukas-reineke/lsp-format.nvim (⭐495)](https://github.com/lukas-reineke/lsp-format.nvim) - A wrapper around Neovims native LSP formatting.
 
 ## [13. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -224,25 +224,25 @@
 
 ### Tools / Misc
 
-*   [Qdrant](https://qdrant.tech) – Qdrant is [open source (⭐6.3k)](https://github.com/qdrant/qdrant) vector similarity search engine with extended filtering support, written in Rust.
+*   [Qdrant](https://qdrant.tech) – Qdrant is [open source (⭐13k)](https://github.com/qdrant/qdrant) vector similarity search engine with extended filtering support, written in Rust.
 
 ## [15. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Database
 
-*   [Qdrant (⭐10k)](https://github.com/qdrant/qdrant) - An open source vector similarity search engine with extended filtering support [![Tests](https://github.com/qdrant/qdrant/workflows/Tests/badge.svg)](https://github.com/qdrant/qdrant/actions)
+*   [Qdrant (⭐13k)](https://github.com/qdrant/qdrant) - An open source vector similarity search engine with extended filtering support [![Tests](https://github.com/qdrant/qdrant/workflows/Tests/badge.svg)](https://github.com/qdrant/qdrant/actions)
 
 ## [16. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Utility / Barcode
 
-*   [SwiftBoost (⭐140)](https://github.com/sparrowcode/SwiftBoost) - Collection of Swift-extensions to boost development process.
+*   [SwiftBoost (⭐173)](https://github.com/sparrowcode/SwiftBoost) - Collection of Swift-extensions to boost development process.
 
 ## [17. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Tools - Miscellaneous / React
 
-*   [microfiber (⭐22)](https://github.com/anvilco/graphql-introspection-tools) - Query and manipulate GraphQL introspection query results in useful ways.
+*   [microfiber (⭐26)](https://github.com/anvilco/graphql-introspection-tools) - Query and manipulate GraphQL introspection query results in useful ways.
 
 ---
 

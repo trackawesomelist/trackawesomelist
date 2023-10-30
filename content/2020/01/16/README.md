@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 16, 2020
 
-19 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,13 +12,13 @@
 
 *   Security Working Group
     *   [Discourse threads tagged "wg-security"](https://discourse.ros.org/tags/wg-security)
-    *   [ros-security/community (⭐12)](https://github.com/ros-security/community) - Outlines the governance of the ROS 2 Security Working Group.
+    *   [ros-security/community (⭐13)](https://github.com/ros-security/community) - Outlines the governance of the ROS 2 Security Working Group.
 
 ## [2. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Collaboration Tools / Malware Analysis Books
 
-*   [Lair (⭐374)](https://github.com/lair-framework/lair/wiki) - Reactive attack collaboration framework and web application built with meteor.
+*   [Lair (⭐372)](https://github.com/lair-framework/lair/wiki) - Reactive attack collaboration framework and web application built with meteor.
 
 ## [3. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-tinybox (⭐94)](https://github.com/NickKaramoff/vue-tinybox) - a tiny (only 2.5 KB minzipped) and slick lightbox gallery. Optimized for both desktop and mobile.
+*   [vue-tinybox (⭐95)](https://github.com/NickKaramoff/vue-tinybox) - a tiny (only 2.5 KB minzipped) and slick lightbox gallery. Optimized for both desktop and mobile.
 
 ## [7. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
@@ -64,9 +64,9 @@
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### DBaaS
+### Managed Data Services
 
-*   [restdb.io](https://restdb.io/) - a fast and simple NoSQL cloud database service. With restdb.io you get schema, relations, automatic REST API (with MongoDB-like queries) and an efficient multi-user admin UI for working with data. Free plan allows 3 users, 2500 records and 1 API requests per second.
+*   [restdb.io](https://restdb.io/) - a fast and straightforward NoSQL cloud database service. With restdb.io you get schema, relations, automatic REST API (with MongoDB-like queries), and an efficient multi-user admin UI for working with data. The free plan allows 3 users, 2500 records, and 1 API request per second.
 
 ## [10. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -105,10 +105,10 @@
 
 ## [15. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### Financial
+### Financial / Text-Based User Interfaces
 
-*   [Parity (⭐498)](https://github.com/paritytrading/parity) - Platform for trading venues.
-*   [Philadelphia (⭐283)](https://github.com/paritytrading/philadelphia) - Low-latency financial information exchange.
+*   [Parity (⭐501)](https://github.com/paritytrading/parity) - Platform for trading venues.
+*   [Philadelphia (⭐298)](https://github.com/paritytrading/philadelphia) - Low-latency financial information exchange.
 
 ## [16. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/README.md)
 
@@ -186,15 +186,15 @@
 
 ### Table
 
-*   [material-table (⭐3.4k)](https://github.com/mbrn/material-table) - [demo/docs](https://material-table.com/) - Built on Material UI, plus: grouping, tree data, expandable rows, export, inline editing
+*   [material-table (⭐3.5k)](https://github.com/mbrn/material-table) - [demo/docs](https://material-table.com/) - Built on Material UI, plus: grouping, tree data, expandable rows, export, inline editing
 
 ### Chart
 
-*   [react-charty (⭐66)](https://github.com/99ff00/react-charty) - [demo](https://99ff00.github.io/react-charty/) - Small but powerful interactive data viz with multiple chart types, animations, zooming, theming.
+*   [react-charty (⭐69)](https://github.com/99ff00/react-charty) - [demo](https://99ff00.github.io/react-charty/) - Small but powerful interactive data viz with multiple chart types, animations, zooming, theming.
 
 ### Miscellaneous
 
-*   [react-awesome-query-builder (⭐1.5k)](https://github.com/ukrbublik/react-awesome-query-builder) - [demo](https://ukrbublik.github.io/react-awesome-query-builder/) - Visual query builder from form fields, with SQL, MongoDB and JSON export
+*   [react-awesome-query-builder (⭐1.7k)](https://github.com/ukrbublik/react-awesome-query-builder) - [demo](https://ukrbublik.github.io/react-awesome-query-builder/) - Visual query builder from form fields, with SQL, MongoDB and JSON export
 
 ### Form Components / Input Types
 
@@ -202,14 +202,14 @@
 
 ### Form Components / Sortable List
 
-*   [sortablejs (⭐27k)](https://github.com/SortableJS/Sortable) - Lists reorderable by drag-and-drop, within and among lists.
+*   [sortablejs (⭐28k)](https://github.com/SortableJS/Sortable) - Lists reorderable by drag-and-drop, within and among lists.
 
 ### Form Components / Rich Text Editor
 
-*   [react-ace (⭐3.8k)](https://github.com/securingsincity/react-ace) - Ace (Advanced Code Editor) wraper.
-*   [react-draft-wysiwyg (⭐6k)](https://github.com/jpuri/react-draft-wysiwyg) - WYSIWYG editor build on top of [DraftJS](https://draftjs.org/).
-*   [react-medium-editor (⭐498)](https://github.com/wangzuo/react-medium-editor) - medium-editor wrapper.
-*   [react-quill (⭐5.8k)](https://github.com/zenoamaro/react-quill) - Quill wrapper.
+*   [react-ace (⭐3.9k)](https://github.com/securingsincity/react-ace) - Ace (Advanced Code Editor) wraper.
+*   [react-draft-wysiwyg (⭐6.2k)](https://github.com/jpuri/react-draft-wysiwyg) - WYSIWYG editor build on top of [DraftJS](https://draftjs.org/).
+*   [react-medium-editor (⭐501)](https://github.com/wangzuo/react-medium-editor) - medium-editor wrapper.
+*   [react-quill (⭐6.2k)](https://github.com/zenoamaro/react-quill) - Quill wrapper.
 *   [react-trumbowyg (⭐142)](https://github.com/RD17/react-trumbowyg) - [Trumbowyg](https://alex-d.github.io/Trumbowyg/) wrapper.
 
 ### Form Components / Image Editing
@@ -222,32 +222,32 @@
 
 ### Form Components / Syntax Highlight
 
-*   [react-syntax-highlighter (⭐3.2k)](https://github.com/conorhastings/react-syntax-highlighter) - Syntax highlighting component with Prismjs or Highlightjs AST using inline styles.
+*   [react-syntax-highlighter (⭐3.6k)](https://github.com/conorhastings/react-syntax-highlighter) - Syntax highlighting component with Prismjs or Highlightjs AST using inline styles.
 
 ### UI Layout / Syntax Highlight
 
-*   [golden-layout (⭐5.9k)](https://github.com/deepstreamIO/golden-layout) - A multi-screen JavaScript Layout manager.
-*   [hedron (⭐860)](https://github.com/JSBros/hedron) - A no-frills flexbox grid system, powered by styled-components.
-*   [m-react-splitters (⭐152)](https://github.com/martinnov92/React-Splitters) - Splitter component, written in TypeScript.
+*   [golden-layout (⭐6k)](https://github.com/deepstreamIO/golden-layout) - A multi-screen JavaScript Layout manager.
+*   [hedron (⭐861)](https://github.com/JSBros/hedron) - A no-frills flexbox grid system, powered by styled-components.
+*   [m-react-splitters (⭐157)](https://github.com/martinnov92/React-Splitters) - Splitter component, written in TypeScript.
 *   [react-masonry-component (⭐1.4k)](https://github.com/eiriklv/react-masonry-component) - Wrapper for @desandro's Masonry.
 *   [react-stonecutter (⭐1.2k)](https://github.com/dantrain/react-stonecutter) - Animated grid layout component.
 
 ### UI Animation / Syntax Highlight
 
-*   [data-driven-motion (⭐532)](https://github.com/tkh44/data-driven-motion) - Easily animate your data.
+*   [data-driven-motion (⭐538)](https://github.com/tkh44/data-driven-motion) - Easily animate your data.
 *   [react-anime (⭐1.5k)](https://github.com/stelatech/react-anime) - A super easy animation library.
 *   [react-mt-svg-lines (⭐356)](https://github.com/moarwick/react-mt-svg-lines) - Wrapper to animate the line stroke in SVGs.
-*   [react-spring (⭐26k)](https://github.com/react-spring/react-spring) - A spring physics based animation library.
+*   [react-spring (⭐27k)](https://github.com/react-spring/react-spring) - A spring physics based animation library.
 *   [react-transitive-number (⭐210)](https://github.com/Lapple/react-transitive-number) - Apply transition effect to numeric strings, a la old Groupon timers.
-*   [react-particles-bg (⭐580)](https://github.com/lindelof/particles-bg) - Particles backgrounds.
+*   [react-particles-bg (⭐612)](https://github.com/lindelof/particles-bg) - Particles backgrounds.
 
 ### Responsive / Syntax Highlight
 
 *   [atlaskit](https://atlaskit.atlassian.com/packages) - Atlassian's official UI library, with components from *badge* to *tree table*.
-*   [carbon (⭐6.5k)](https://github.com/carbon-design-system/carbon) - [demo/docs](https://www.carbondesignsystem.com/) - A design system built by IBM.
-*   [chakra-ui (⭐32k)](https://github.com/chakra-ui/chakra-ui) - [demo/docs](https://chakra-ui.com) - Simple, Modular & Accessible UI Components for your React Applications.
+*   [carbon (⭐7.1k)](https://github.com/carbon-design-system/carbon) - [demo/docs](https://www.carbondesignsystem.com/) - A design system built by IBM.
+*   [chakra-ui (⭐35k)](https://github.com/chakra-ui/chakra-ui) - [demo/docs](https://chakra-ui.com) - Simple, Modular & Accessible UI Components for your React Applications.
 *   [evergreen (⭐12k)](https://github.com/segmentio/evergreen) - [demo/docs](https://evergreen.segment.com) - Evergreen React UI Framework by Segment.
-*   [gestalt (⭐4.1k)](https://github.com/pinterest/gestalt) - [demo/docs](https://pinterest.github.io/gestalt/#/) - A set of components that supports Pinterest’s design language.
+*   [gestalt (⭐4.2k)](https://github.com/pinterest/gestalt) - [demo/docs](https://pinterest.github.io/gestalt/#/) - A set of components that supports Pinterest’s design language.
 
 ### Responsive / Material Design
 
@@ -262,7 +262,22 @@
 ### Component Collections / Material Design
 
 *   [blueprint (⭐20k)](https://github.com/palantir/blueprint) - [demo](https://blueprintjs.com/) - [docs](https://blueprintjs.com/docs/) - UI toolkit for building complex, data-dense web interfaces for desktop (not mobile) applications.
-*   [rsuite (⭐7.5k)](https://github.com/rsuite/rsuite) - [demo/docs](https://rsuitejs.com/) - Suite of components for "enterprise system products".
+*   [rsuite (⭐7.8k)](https://github.com/rsuite/rsuite) - [demo/docs](https://rsuitejs.com/) - Suite of components for "enterprise system products".
+
+## [20. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Java / Bootstrap
+
+*   [Data Structures in Java for the Principled Programmer (2007)](https://web.archive.org/web/20190302130416/http://dept.cs.williams.edu/~bailey/JavaStructures/Book_files/JavaStructures.pdf) - Duane A. Bailey (PDF) *(:card\_file\_box: archived)*
+*   [Playing with Java Microservices on Kubernetes and OpenShift](https://leanpub.com/playing-with-java-microservices-on-k8s-and-ocp) - Nebrass Lamouchi *(Leanpub account or valid email requested)*
+
+### Scala / Sinatra
+
+*   [Pure functional HTTP APIs in Scala](https://leanpub.com/pfhais/read) - Jens Grassel
+
+### Windows 8 / Vulkan
+
+*   [Programming Windows Store Apps with HTML, CSS, and JavaScript, Second Edition](https://web.archive.org/web/20150624142410/http://download.microsoft.com/download/6/6/5/665AF7A6-2184-45DC-B9DA-C89185B01937/Microsoft_Press_eBook_Programming_Windows_8_Apps_HTML_CSS_JavaScript_2E_PDF.pdf) - Kraig Brockschmidt (PDF) *(:card\_file\_box: archived)*
 
 ---
 

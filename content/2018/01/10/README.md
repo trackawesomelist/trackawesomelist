@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 10, 2018
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -28,20 +28,13 @@
 
 *   [doc.ai](https://doc.ai/about) - doc.ai aims to decentralize precision medicine on the blockchain by using AI.
 
-## [2. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
-
-### Software / Cloud Orchestration
-
-*   [StackStorm](https://stackstorm.com/) - Event Driven Operations and ChatOps platform for infrastructure management. Written in Python.
-*   [Terraform](https://www.terraform.io/) - Terraform works with many cloud providers and creates infrastructure from code.
-
-## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-ip (⭐23)](https://github.com/peteringram0/vue-ip) - An ip address input with port and material design support
+*   [vue-ip (⭐25)](https://github.com/peteringram0/vue-ip) - An ip address input with port and material design support
 
-## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### To third parties
 
@@ -53,9 +46,9 @@
 
 ### Miscellaneous
 
-*   [cl-webkit (⭐47)](https://github.com/joachifm/cl-webkit) - A binding to WebKitGTK+. Also adds web browsing capabilities to an application, leveraging the full power of the WebKit browsing engine. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-webkit (⭐48)](https://github.com/joachifm/cl-webkit) - A binding to WebKitGTK+. Also adds web browsing capabilities to an application, leveraging the full power of the WebKit browsing engine. [MIT](https://opensource.org/licenses/MIT).
 
-## [5. Awesome D3](/content/wbkd/awesome-d3/README.md)
+## [4. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
 ### Charts
 
@@ -73,31 +66,31 @@
 
 *   [swoopy-drag (⭐119)](https://github.com/1wheel/swoopy-drag) - Artisanal label placement for d3 graphics
 
-## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UI / Barcode
 
 *   [Fluid Slider (⭐1.9k)](https://github.com/Ramotion/fluid-slider) - A slider widget with a popup bubble displaying the precise value selected.
 
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Templates
 
-*   [Serenity (⭐2.3k)](https://github.com/volkanceylan/Serenity) - Serenity is an ASP.NET MVC / TypeScript application platform designed to simplify and shorten development of data-centric business applications with a service based architecture.
+*   [Serenity (⭐2.5k)](https://github.com/volkanceylan/Serenity) - Serenity is an ASP.NET MVC / TypeScript application platform designed to simplify and shorten development of data-centric business applications with a service based architecture.
 
-## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### HTTP
 
-*   [gun (⭐837)](https://github.com/ninenines/gun) - HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.
+*   [gun (⭐855)](https://github.com/ninenines/gun) - HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.
 
-## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Database Tools
 
 *   [migrate (⭐31)](https://github.com/vladfaust/migrate.cr) - A simpler database migration tool with transactions
 
-## [10. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [9. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### People
 

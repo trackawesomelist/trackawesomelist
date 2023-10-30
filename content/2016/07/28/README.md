@@ -90,7 +90,7 @@
 
 ### Command-Line Productivity
 
-*   [aliases (⭐442)](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for bash
+*   [aliases (⭐472)](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for bash
 
 ## [6. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
@@ -137,17 +137,16 @@
 ### Applications / Episodes
 
 *   [Kayak](http://kayak.2codeornot2code.org/) - Java application for CAN bus diagnosis and monitoring.
-*   [UDSim (⭐226)](https://github.com/zombieCraig/UDSim/) - GUI tool that can monitor a CAN bus and automatically learn the devices attached to it by watching communications.
+*   [UDSim (⭐245)](https://github.com/zombieCraig/UDSim/) - GUI tool that can monitor a CAN bus and automatically learn the devices attached to it by watching communications.
 *   [RomRaider](http://www.romraider.com/) - An open source tuning suite for the Subaru engine control unit that lets you view and log data and tune the ECU.
-*   [O2OO](https://www.vanheusden.com/O2OO/) - Works with the ELM327 to record data to a SQLite database for graphing purposes. It also supports reading GPS data. You can connect this to your car and have it map out using Google Maps KML data where you drive.
 
 ### Libraries and Tools / Python
 
-*   [c0f (⭐78)](https://github.com/zombieCraig/c0f/) - A fingerprinting tool for CAN communications that can be used to find a specific signal on a CAN network when testing interactions with a vehicle.
+*   [c0f (⭐80)](https://github.com/zombieCraig/c0f/) - A fingerprinting tool for CAN communications that can be used to find a specific signal on a CAN network when testing interactions with a vehicle.
 
 ### Libraries and Tools / Go
 
-*   [CANNiBUS (⭐99)](https://github.com/Hive13/CANiBUS/) - A Go server that allows a room full of researchers to simultaneously work on the same vehicle, whether for instructional purposes or team reversing sessions.
+*   [CANNiBUS (⭐101)](https://github.com/Hive13/CANiBUS/) - A Go server that allows a room full of researchers to simultaneously work on the same vehicle, whether for instructional purposes or team reversing sessions.
 
 ### Libraries and Tools / JavaScript
 
@@ -159,17 +158,17 @@
 ### Coordinated disclosure / JavaScript
 
 *   Security
-    *   [Application Security (⭐5.5k)](https://github.com/paragonie/awesome-appsec)
-    *   [Security (⭐9.5k)](https://github.com/sbilly/awesome-security)
-    *   [Capture the Flag (⭐7.8k)](https://github.com/apsdehal/awesome-ctf)
-    *   [Malware Analysis (⭐9.5k)](https://github.com/rshipp/awesome-malware-analysis)
-    *   [Android Security (⭐6.7k)](https://github.com/ashishb/android-security-awesome)
-    *   [Hacking (⭐9.7k)](https://github.com/carpedm20/awesome-hacking)
-    *   [Honeypots (⭐6.7k)](https://github.com/paralax/awesome-honeypots)
-    *   [Incident Response (⭐6k)](https://github.com/meirwah/awesome-incident-response)
+    *   [Application Security (⭐5.7k)](https://github.com/paragonie/awesome-appsec)
+    *   [Security (⭐10k)](https://github.com/sbilly/awesome-security)
+    *   [Capture the Flag (⭐8.2k)](https://github.com/apsdehal/awesome-ctf)
+    *   [Malware Analysis (⭐10k)](https://github.com/rshipp/awesome-malware-analysis)
+    *   [Android Security (⭐7.1k)](https://github.com/ashishb/android-security-awesome)
+    *   [Hacking (⭐10k)](https://github.com/carpedm20/awesome-hacking)
+    *   [Honeypots (⭐7.1k)](https://github.com/paralax/awesome-honeypots)
+    *   [Incident Response (⭐6.4k)](https://github.com/meirwah/awesome-incident-response)
 *   Meta
-    *   [awesome (⭐238k)](https://github.com/sindresorhus/awesome)
-    *   [lists (⭐8.8k)](https://github.com/jnv/lists)
+    *   [awesome (⭐262k)](https://github.com/sindresorhus/awesome)
+    *   [lists (⭐9.1k)](https://github.com/jnv/lists)
 
 ---
 

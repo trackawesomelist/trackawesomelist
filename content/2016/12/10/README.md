@@ -16,11 +16,11 @@
 
 ### Source Code Repos
 
-*   [codebasehq.com](https://www.codebasehq.com/) — One free project with 100 MB space and 2 users
+*   [codebasehq.com](https://www.codebasehq.com/) — One free project with 100 MB space and two users
 
 ### Tools for Teams and Collaboration
 
-*   [gitter.im](https://gitter.im/) — Chat, for GitHub. Unlimited public and private rooms, free for teams up to 25
+*   [gitter.im](https://gitter.im/) — Chat, for GitHub. Unlimited public and private rooms, free for teams of up to 25
 *   [hangouts.google.com](https://hangouts.google.com/) — One place for all your conversations, for free, need a Google account
 
 ### Code Search and Browsing
@@ -29,7 +29,7 @@
 
 ### CI and CD
 
-*   [codefresh.io](https://codefresh.io) — Free-for-Life plan: 1 build, 1 environment, shared servers, unlimited public repos
+*   [codefresh.io](https://codefresh.io) — Free-for-Life plan: 1 build, one environment, shared servers, unlimited public repos
 
 ### Monitoring
 
@@ -49,13 +49,13 @@
 
 ### Programming Tools / Lenses
 
-*   [eslint-plugin-fp (⭐947)](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming
+*   [eslint-plugin-fp (⭐966)](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming
 
 ## [5. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Training Courses
 
-*   [Mixter (⭐282)](https://github.com/DevLyon/mixter) - CQRS and Event Sourcing Koans.
+*   [Mixter (⭐286)](https://github.com/DevLyon/mixter) - CQRS and Event Sourcing Koans.
 
 ## [6. Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/README.md)
 

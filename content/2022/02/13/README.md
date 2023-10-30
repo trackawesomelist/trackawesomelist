@@ -16,13 +16,13 @@
 
 ### CLI
 
-*   [usql (⭐7.9k)](https://github.com/xo/usql) - A universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, and many other databases including NoSQL and non-relational databases!
+*   [usql (⭐8.3k)](https://github.com/xo/usql) - A universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, and many other databases including NoSQL and non-relational databases!
 
 ### SQL / Analyzers
 
 *   [SQLCheck (⭐2.3k)](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns.
-*   [SQLFluff (⭐5.8k)](https://github.com/sqlfluff/sqlfluff) - Dialect-flexible and configurable SQL linter.
-*   [TSQLLint (⭐175)](https://github.com/tsqllint/tsqllint) - A tool for describing, identifying, and reporting the presence of anti-patterns in TSQL scripts.
+*   [SQLFluff (⭐6.6k)](https://github.com/sqlfluff/sqlfluff) - Dialect-flexible and configurable SQL linter.
+*   [TSQLLint (⭐193)](https://github.com/tsqllint/tsqllint) - A tool for describing, identifying, and reporting the presence of anti-patterns in TSQL scripts.
 
 ### SQL / Extensions
 
@@ -35,28 +35,24 @@
 
 ### SQL / Formatters
 
-*   [CodeBuff (⭐416)](https://github.com/antlr/codebuff) - Language-agnostic pretty-printing through machine learning.
-*   [pgFormatter (⭐1.4k)](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier.
+*   [CodeBuff (⭐421)](https://github.com/antlr/codebuff) - Language-agnostic pretty-printing through machine learning.
+*   [pgFormatter (⭐1.5k)](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier.
 *   [Poor SQL](https://poorsql.com) - Instant free and open-source T-SQL formatting.
-*   [SQL Formatter (⭐1.5k)](https://github.com/zeroturnaround/sql-formatter) - JavaScript library for pretty-printing SQL queries.
+*   [SQL Formatter (⭐1.8k)](https://github.com/zeroturnaround/sql-formatter) - JavaScript library for pretty-printing SQL queries.
 
 ### SQL / Parsers
 
 *   [General SQL Parser](https://www.sqlparser.com) - Parsing, formatting, modification and analysis for SQL.
-*   [jOOQ (⭐5.4k)](https://github.com/jOOQ/jOOQ) - Parses SQL, translates it to other dialects, and allows for expression tree transformations.
-*   [JSqlParser (⭐4.2k)](https://github.com/JSQLParser/JSqlParser) - Parses an SQL statement and translate it into a hierarchy of Java classes.
-*   [More SQL Parsing! (⭐191)](https://github.com/klahnakoski/mo-sql-parsing) - Parse SQL into JSON.
-*   [sqlparse (⭐3.2k)](https://github.com/andialbrecht/sqlparse) - Non-validating SQL parser for Python.
+*   [jOOQ (⭐5.7k)](https://github.com/jOOQ/jOOQ) - Parses SQL, translates it to other dialects, and allows for expression tree transformations.
+*   [JSqlParser (⭐4.6k)](https://github.com/JSQLParser/JSqlParser) - Parses an SQL statement and translate it into a hierarchy of Java classes.
+*   [More SQL Parsing! (⭐221)](https://github.com/klahnakoski/mo-sql-parsing) - Parse SQL into JSON.
+*   [sqlparse (⭐3.4k)](https://github.com/andialbrecht/sqlparse) - Non-validating SQL parser for Python.
 
-## [3. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
+## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### 0 - 言語非依存 / ネットワーキング
+### Rust / Sinatra
 
-*   [プロフェッショナルIPv6 第2版](https://dforest.watch.impress.co.jp/library/p/proipv6/11948/ao-ipv6-2-book-20211220.pdf) - 小川晃通 (PDF)
-
-### TypeScript / Flask
-
-*   [サバイバルTypeScript](https://typescriptbook.jp) - YYTypeScript
+*   [Easy Rust](https://dhghomon.github.io/easy_rust/) - David McLeod (HTML, PDF)
 
 ## [4. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
@@ -68,7 +64,7 @@
 
 ### Authentication & Identity
 
-*   [SuperTokens](https://supertokens.io/) - Open-source and hosted email & Oauth authentication with prebuilt UI.
+*   [SuperTokens](https://supertokens.io/) - Open-source and hosted email & Oauth authentication with prebuilt UI. ![SuperTokens](https://img.shields.io/github/contributors-anon/supertokens/supertokens-core?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -94,7 +90,7 @@
 
 *   [Microsoft Azure](https://azure.microsoft.com)
     *   [Virtual Machines](https://azure.microsoft.com/services/virtual-machines/) - 1 B1S Linux VM, 1 B1S Windows VM (12mo)
-    *   [App Service](https://azure.microsoft.com/services/app-service/) - 10 web, mobile or API apps (60 CPU minutes / day)
+    *   [App Service](https://azure.microsoft.com/services/app-service/) - 10 web, mobile, or API apps (60 CPU minutes/day)
     *   [Functions](https://azure.microsoft.com/services/functions/) - 1 million requests per month
     *   [DevTest Labs](https://azure.microsoft.com/services/devtest-lab/) - Enable fast, easy, and lean dev-test environments
     *   [Active Directory](https://azure.microsoft.com/services/active-directory/) - 500,000 objects
@@ -102,13 +98,13 @@
     *   [Azure DevOps](https://azure.microsoft.com/services/devops/) - 5 active users, unlimited private Git repos
     *   [Azure Pipelines](https://azure.microsoft.com/services/devops/pipelines/) — 10 free parallel jobs with unlimited minutes for open source for Linux, macOS, and Windows
     *   [Microsoft IoT Hub](https://azure.microsoft.com/services/iot-hub/) - 8,000 messages per day
-    *   [Load Balancer](https://azure.microsoft.com/services/load-balancer/) - 1 free public load balanced IP (VIP)
+    *   [Load Balancer](https://azure.microsoft.com/services/load-balancer/) - 1 free public load-balanced IP (VIP)
     *   [Notification Hubs](https://azure.microsoft.com/services/notification-hubs/) - 1 million push notifications
     *   [Bandwidth](https://azure.microsoft.com/pricing/details/bandwidth/) - 15GB Inbound(12mo) & 5GB egress per month
     *   [Cosmos DB](https://azure.microsoft.com/services/cosmos-db/) - 5GB storage and 400 RUs of provisioned throughput
-    *   [Static Web Apps](https://azure.microsoft.com/pricing/details/app-service/static/) — Build, deploy and host static apps and serverless functions, with free SSL, Authentication/Authorization and custom domains
+    *   [Static Web Apps](https://azure.microsoft.com/pricing/details/app-service/static/) — Build, deploy, and host static apps and serverless functions with free SSL, Authentication/Authorization, and custom domains
     *   [Storage](https://azure.microsoft.com/services/storage/) - 5GB LRS File or Blob storage (12mo)
-    *   [Cognitive Services](https://azure.microsoft.com/services/cognitive-services/) - AI/ML APIs (Computer Vision, Translator, Face detection, Bots...) with free tier including limited transactions
+    *   [Cognitive Services](https://azure.microsoft.com/services/cognitive-services/) - AI/ML APIs (Computer Vision, Translator, Face detection, Bots, etc) with free tier including limited transactions
     *   [Cognitive Search](https://azure.microsoft.com/services/search/#features) - AI-based search and indexation service, free for 10,000 documents
     *   [Azure Kubernetes Service](https://azure.microsoft.com/services/kubernetes-service/) - Managed Kubernetes service, free cluster management
     *   [Event Grid](https://azure.microsoft.com/services/event-grid/) - 100K ops/month
@@ -118,7 +114,7 @@
 
 ### Crash Courses
 
-*   [Algorand School (⭐71)](https://github.com/cusma/algorand-school) - Algorand School crash course slide deck.
+*   [Algorand School (⭐72)](https://github.com/cusma/algorand-school) - Algorand School crash course slide deck.
 
 ## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -128,35 +124,35 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [ripgrep (rg) (⭐38k)](https://github.com/BurntSushi/ripgrep) - Very fast text searching tool similar to (but faster than) ack, ag or grep ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [ripgrep (rg) (⭐41k)](https://github.com/BurntSushi/ripgrep) - Very fast text searching tool similar to (but faster than) ack, ag or grep ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [11. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Verified Software
 
-*   [Jasmin (⭐155)](https://github.com/jasmin-lang/jasmin) - Formalized language and verified compiler for high-assurance and high-speed cryptography.
+*   [Jasmin (⭐180)](https://github.com/jasmin-lang/jasmin) - Formalized language and verified compiler for high-assurance and high-speed cryptography.
 
 ## [12. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Security
 
-*   [Executable Packing (⭐776)](https://github.com/dhondta/awesome-executable-packing#readme) - Packing and unpacking executable formats.
+*   [Executable Packing (⭐902)](https://github.com/dhondta/awesome-executable-packing#readme) - Packing and unpacking executable formats.
 
 ### Decentralized Systems
 
-*   [Algorand (⭐126)](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
+*   [Algorand (⭐157)](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-search-input (⭐20)](https://github.com/kouts/vue-search-input) - A Vue 3 search input component, inspired by the global search input of Storybook and GitHub.
+*   [vue-search-input (⭐23)](https://github.com/kouts/vue-search-input) - A Vue 3 search input component, inspired by the global search input of Storybook and GitHub.
 
 ## [14. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Status Bar
 
-*   [tmux-df (⭐21)](https://github.com/tassaron/tmux-df) - Show available disk space (output of df command)
+*   [tmux-df (⭐24)](https://github.com/tassaron/tmux-df) - Show available disk space (output of df command)
 
 ## [15. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
@@ -173,10 +169,10 @@
 *   [Enigma Virtual Box](https://www.enigmaprotector.com/en/aboutvb.html) - Application virtualization system for Windows.
 *   [EXE Bundle](https://www.webtoolmaster.com/exebundle.htm) - Bundles application files into a single PE32 file.
 *   [EXE Stealth](http://www.webtoolmaster.com/packer.htm) - Anti-cracking protection and licensing tool for PE files featuring compression and encryption polymorphic technology.
-*   [hXOR-Packer (⭐36)](https://github.com/rurararura/hXOR-Packer) - PE packer with Huffman compression and XOR encryption.
+*   [hXOR-Packer (⭐40)](https://github.com/rurararura/hXOR-Packer) - PE packer with Huffman compression and XOR encryption.
 *   [LIAPP](https://liapp.lockincomp.com) - Easiest and most powerful mobile app security solution.
 *   [MPRESS](https://www.autohotkey.com/mpress/mpress_web.htm) - Compresses (using LZMA) and protects PE, .NET or Mach-O programs against reverse engineering.
-*   [Papaw (⭐26)](https://github.com/dimkr/papaw) - Permissively-licensed packer for ELF executables using LZMA Zstandard or Deflate compression.
+*   [Papaw (⭐34)](https://github.com/dimkr/papaw) - Permissively-licensed packer for ELF executables using LZMA Zstandard or Deflate compression.
 *   [ZProtect](http://www.jiami.net) - Renames metadata entities and supports advanced obfuscation methods that harden protection scheme and foil reverse engineering altogether.
 
 ### :package: Packers / Between 2000 and 2010
@@ -201,7 +197,7 @@
 
 ### :wrench: Tools / Before 2000
 
-*   [APKiD (⭐1.5k)](https://github.com/rednaga/APKiD) - Android application Identifier for packers, protectors, obfuscators and oddities - PEiD for Android.
+*   [APKiD (⭐1.7k)](https://github.com/rednaga/APKiD) - Android application Identifier for packers, protectors, obfuscators and oddities - PEiD for Android.
 *   [BinUnpack](https://doi.org/10.1145/3243734.3243771) - Unpacking approach free from tedious memory access monitoring, therefore introducing very small runtime overhead.
 
 ---

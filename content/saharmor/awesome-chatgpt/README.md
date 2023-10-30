@@ -2,7 +2,7 @@
 
 Selected ChatGPT demos, tools, articles, and more ✨
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/saharmor/awesome-chatgpt/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 saharmor/awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt) · ⭐ 542 · 🏷️ ChatGPT
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/saharmor/awesome-chatgpt/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 saharmor/awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt) · ⭐ 557 · 🏷️ ChatGPT
 
 [ Daily / [Weekly](/content/saharmor/awesome-chatgpt/week/README.md) / [Overview](/content/saharmor/awesome-chatgpt/readme/README.md) ]
 
@@ -10,7 +10,7 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ### Coding
 
-*   [I Don't Care About Commit Message (VS Code Extension) (⭐75)](https://github.com/mefengl/vscode-i-dont-care-about-commit-message): Yet another AI git commit plugin, but without the need for manual confirmation.
+*   [I Don't Care About Commit Message (VS Code Extension) (⭐110)](https://github.com/mefengl/vscode-i-dont-care-about-commit-message): Yet another AI git commit plugin, but without the need for manual confirmation.
 
 ## [Jun 05, 2023](/content/2023/06/05/README.md)
 
@@ -35,7 +35,7 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ### Assistants
 
-*   [ai-commit - Automagically generate conventional commit messages with AI (⭐115)](https://github.com/guanguans/ai-commit)
+*   [ai-commit - Automagically generate conventional commit messages with AI (⭐159)](https://github.com/guanguans/ai-commit)
 
 ## [Feb 11, 2023](/content/2023/02/11/README.md)
 
@@ -66,7 +66,7 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ### Prompting
 
-*   ⭐️ [A comprehensive repository for everything prompt engineering, ChatGPT included (⭐34k)](https://github.com/dair-ai/Prompt-Engineering-Guide)
+*   ⭐️ [A comprehensive repository for everything prompt engineering, ChatGPT included (⭐35k)](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
 ### Assistants
 
@@ -86,7 +86,7 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ### ChatGPT API
 
-*   [pyChatGPT - a Python client for the unofficial ChatGPT API (⭐1.2k)](https://github.com/terry3041/pyChatGPT)
+*   [pyChatGPT - a Python client for the unofficial ChatGPT API (⭐1.3k)](https://github.com/terry3041/pyChatGPT)
 
 ## [Dec 26, 2022](/content/2022/12/26/README.md)
 
@@ -98,7 +98,7 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ### Using ChatGPT in other apps
 
-*   [GPT AI Assistant using LINE and Vercel (⭐6k)](https://github.com/memochou1993/gpt-ai-assistant)
+*   [GPT AI Assistant using LINE and Vercel (⭐6.2k)](https://github.com/memochou1993/gpt-ai-assistant)
 
 ## [Dec 19, 2022](/content/2022/12/19/README.md)
 
@@ -110,12 +110,12 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ### Using ChatGPT in other apps
 
-*   [ChatGPT for Slack bot (⭐353)](https://github.com/pedrorito/ChatGPTSlackBot)
+*   [ChatGPT for Slack bot (⭐361)](https://github.com/pedrorito/ChatGPTSlackBot)
 
 ### Coding
 
-*   [Explain runtime error message with ChatGPT (⭐497)](https://github.com/shobrook/stackexplain)
-*   ⭐️ [PR code review using ChatGPT (⭐546)](https://github.com/kxxt/chatgpt-action)
+*   [Explain runtime error message with ChatGPT (⭐504)](https://github.com/shobrook/stackexplain)
+*   ⭐️ [PR code review using ChatGPT (⭐551)](https://github.com/kxxt/chatgpt-action)
 
 ### Other
 
@@ -131,7 +131,7 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ### Using ChatGPT in other apps
 
-*   [GPT-3.5 powered terminal commands (⭐506)](https://github.com/Methexis-Inc/terminal-copilot)
+*   [GPT-3.5 powered terminal commands (⭐523)](https://github.com/Methexis-Inc/terminal-copilot)
 
 ## [Dec 10, 2022](/content/2022/12/10/README.md)
 
@@ -139,20 +139,20 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 *   [A Chrome extension that presents ChatGPT results next to Google Search](https://twitter.com/zohaibahmed/status/1599191505025261569)
 *   [OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust (⭐1.8k)](https://github.com/sonnylazuardi/chatgpt-desktop)
-*   [ChatGPT for Mac: access from menu bar (⭐5.6k)](https://github.com/vincelwt/chatgpt-mac)
+*   [ChatGPT for Mac: access from menu bar (⭐5.7k)](https://github.com/vincelwt/chatgpt-mac)
 *   [ChatGPT Chrome extension](https://twitter.com/kazuki_sf_/status/1598955169576013825)
 *   [ChatGPT WhatsApp bot](https://twitter.com/danielgross/status/1598735800497119232)
 *   [ChatGPT Telegram bot](https://twitter.com/altryne/status/1598822052760195072)
-*   [ChatGPT Twitter bot (⭐686)](https://github.com/transitive-bullshit/chatgpt-twitter-bot)
+*   [ChatGPT Twitter bot (⭐696)](https://github.com/transitive-bullshit/chatgpt-twitter-bot)
 *   [docGPT, ChatGPT for Google Doc](https://twitter.com/cesarhuret/status/1599602487102562304)
 *   [A browser extension that augments your ChatGPT prompts with web results](https://twitter.com/hahahahohohe/status/1599839969396154369)
-*   [ChatGPT Discord bot (⭐2.3k)](https://github.com/Zero6992/chatGPT-discord-bot)
-*   [A GPTChat based GitHub robot for dialogue, code reviews, etc. (⭐358)](https://github.com/oceanlvr/ChatGPT-ProBot)
+*   [ChatGPT Discord bot (⭐2.4k)](https://github.com/Zero6992/chatGPT-discord-bot)
+*   [A GPTChat based GitHub robot for dialogue, code reviews, etc. (⭐368)](https://github.com/oceanlvr/ChatGPT-ProBot)
 
 ### Assistants
 
-*   ⭐️ [Summarize web pages using OpenAI ChatGPT (⭐656)](https://github.com/clmnin/summarize.site)
-*   [emailGPT - a quick and easy interface to generate emails with ChatGPT (⭐212)](https://github.com/lucasmccabe/emailGPT)
+*   ⭐️ [Summarize web pages using OpenAI ChatGPT (⭐683)](https://github.com/clmnin/summarize.site)
+*   [emailGPT - a quick and easy interface to generate emails with ChatGPT (⭐217)](https://github.com/lucasmccabe/emailGPT)
 
 ### Coding
 
@@ -183,7 +183,7 @@ Selected ChatGPT demos, tools, articles, and more ✨
 ### Conversational
 
 *   [An artist trains a chatbot using past notes and diaries to talk to her inner child](https://twitter.com/michellehuang42/status/1597005489413713921)
-*   [ChatGPT-conversation: talk to ChatGPT using your voice (⭐617)](https://github.com/platelminto/chatgpt-conversation)
+*   [ChatGPT-conversation: talk to ChatGPT using your voice (⭐633)](https://github.com/platelminto/chatgpt-conversation)
 
 ### Other
 
@@ -194,7 +194,7 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ### ChatGPT API
 
-*   [TLS-based ChatGPT API with auto token regeneration, conversation tracking, etc. (⭐4.1k)](https://github.com/rawandahmad698/PyChatGPT)
+*   [TLS-based ChatGPT API with auto token regeneration, conversation tracking, etc. (⭐4.2k)](https://github.com/rawandahmad698/PyChatGPT)
 *   [Node.js client for the unofficial ChatGPT API](https://twitter.com/transitive_bs/status/1599913925373399040)
 
 ### Other

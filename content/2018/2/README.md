@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 08 - Jan 14, 2018
 
-39 awesome lists updated this week.
+37 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -79,7 +79,7 @@
 
 ### Utilities / System Related Tools
 
-*   [Juice (⭐731)](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/brianmichel/Juice) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Juice (⭐742)](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/brianmichel/Juice) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
@@ -192,77 +192,70 @@
 
 *   [NetLytics (⭐10)](https://github.com/marty90/netlytics/) - Analytics platform to process network data on Spark.
 
-## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
-
-### Articles and Posts / Runner
-
-*   [How JavaScript works](https://blog.sessionstack.com/tagged/tutorial) - A series of articles about the building blocks of JavaScript.
-
-## [12. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [11. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Others / Web
 
 *   [WinSpy](https://autohotkey.com/boards/viewtopic.php?f=6\&t=28220) - by Alguimist - Useful window spy / information tool written in AHK.
 
-## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
-*   [Headphones (⭐3.2k)](https://github.com/rembo10/headphones) - Automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, µTorrent, Deluge and Blackhole. `GPL-3.0` `Python`
-*   [Sonarr](https://sonarr.tv/) - Automatic TV Shows downloader and manager for Usenet and BitTorrent. It can grab, sort and rename new episodes and automatically upgrade the quality of files already downloaded when a better quality format becomes available. ([Source Code (⭐8.6k)](https://github.com/Sonarr/Sonarr)) `GPL-3.0` `C#`
+*   [Headphones (⭐3.3k)](https://github.com/rembo10/headphones) - Automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, µTorrent, Deluge and Blackhole. `GPL-3.0` `Python`
+*   [Sonarr](https://sonarr.tv/) - Automatic TV Shows downloader and manager for Usenet and BitTorrent. It can grab, sort and rename new episodes and automatically upgrade the quality of files already downloaded when a better quality format becomes available. ([Source Code (⭐9.2k)](https://github.com/Sonarr/Sonarr)) `GPL-3.0` `C#/Docker`
 
 ### Software / Blogging Platforms
 
-*   [Antville](https://antville.org) - Free, open source project aimed at the development of a high performance, feature rich weblog hosting software. ([Source Code (⭐59)](https://github.com/antville/antville)) `Apache-2.0` `Javascript`
+*   [Antville](https://antville.org) - Free, open source project aimed at the development of a high performance, feature rich weblog hosting software. ([Source Code (⭐65)](https://github.com/antville/antville)) `Apache-2.0` `Javascript`
 
 ### Software / Communication - Custom Communication Systems
 
-*   [TextBelt (⭐2.6k)](https://github.com/typpo/textbelt) `⚠` - Outgoing SMS API that uses carrier-specific gateways to deliver your text messages for free, and without ads. `MIT` `Javascript`
+*   [TextBelt (⭐2.8k)](https://github.com/typpo/textbelt) `⚠` - Outgoing SMS API that uses carrier-specific gateways to deliver your text messages for free, and without ads. `MIT` `Javascript`
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
-*   [Mautic](https://www.mautic.org/) - Mautic is marketing automation software (email, social and more). ([Source Code (⭐5.8k)](https://github.com/mautic/mautic)) `GPL-3.0` `PHP`
+*   [Mautic](https://www.mautic.org/) - Mautic is marketing automation software (email, social and more). ([Source Code (⭐6.2k)](https://github.com/mautic/mautic)) `GPL-3.0` `PHP`
 *   [Schleuder](https://schleuder.nadir.org/) - GPG-enabled mailing list manager with resending-capabilities. ([Source Code](https://0xacab.org/schleuder/schleuder/tree/master)) `GPL-3.0` `Ruby`
-*   [Sympa](https://www.sympa.org/) - Mailing list manager. `GPL-2.0` `Perl`
 
 ### Software / Communication - IRC
 
-*   [Weechat](https://weechat.org/) - Fast, light and extensible chat client. `GPL-3.0` `C`
+*   [Weechat](https://weechat.org/) - Fast, light and extensible chat client. ([Source Code (⭐2.7k)](https://github.com/weechat/weechat)) `GPL-3.0` `C/Docker/deb`
 
 ### Software / Communication - Social Networks and Forums
 
 *   [Elgg](https://elgg.org/) - Powerful open source social networking engine. ([Source Code (⭐1.6k)](https://github.com/Elgg/Elgg)) `GPL-2.0` `PHP`
-*   [HumHub](https://www.humhub.org/) - Flexible kit for private social networks. ([Source Code (⭐6.1k)](https://github.com/humhub/humhub)) `AGPL-3.0` `PHP`
+*   [HumHub](https://www.humhub.org/) - Flexible kit for private social networks. ([Source Code (⭐6.2k)](https://github.com/humhub/humhub)) `AGPL-3.0` `PHP`
 
 ### Software / Communication - XMPP - Web Clients
 
-*   [JSXC](https://jsxc.org) - Real-time XMPP web chat application with video calls, file transfer and encrypted communication. There are also versions for Nextcloud/Owncloud and SOGo. ([Source Code (⭐684)](https://github.com/jsxc/jsxc)) `MIT` `Javascript`
+*   [JSXC](https://jsxc.org) - Real-time XMPP web chat application with video calls, file transfer and encrypted communication. There are also versions for Nextcloud/Owncloud and SOGo. ([Source Code (⭐691)](https://github.com/jsxc/jsxc)) `MIT` `Javascript`
 
 ### Software / Content Management Systems (CMS)
 
-*   [REDAXO](https://www.redaxo.org) - Simple, flexible and useful content management system (documentation only available in German). ([Source Code (⭐305)](https://github.com/redaxo/redaxo)) `MIT` `PHP`
-*   [TYPO3](https://typo3.org/) - Powerful and advanced CMS with a large community. ([Source Code (⭐922)](https://github.com/TYPO3/TYPO3.CMS)) `GPL-2.0` `PHP`
+*   [REDAXO](https://www.redaxo.org) - Simple, flexible and useful content management system (documentation only available in German). ([Source Code (⭐311)](https://github.com/redaxo/redaxo)) `MIT` `PHP/Docker`
+*   [TYPO3](https://typo3.org/) - Powerful and advanced CMS with a large community. ([Source Code (⭐962)](https://github.com/TYPO3/typo3)) `GPL-2.0` `PHP`
 
 ### Software / Feed Readers
 
-*   [Temboz (⭐65)](https://github.com/fazalmajid/temboz) - Two-column feed reader emphasizing filtering capabilities to manage information overload. `MIT` `Python`
+*   [Temboz (⭐70)](https://github.com/fazalmajid/temboz) - Two-column feed reader emphasizing filtering capabilities to manage information overload. `MIT` `Python`
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
-*   [Transmission](https://transmissionbt.com/) - Fast, easy, Free Bittorrent client. ([Source Code (⭐9.8k)](https://github.com/transmission/transmission)) `GPL-3.0` `C`
+*   [Transmission](https://transmissionbt.com/) - Fast, easy, free Bittorrent client. ([Source Code (⭐11k)](https://github.com/transmission/transmission)) `GPL-3.0` `C++/deb`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Plik (⭐1.2k)](https://github.com/root-gg/plik) - Plik is a scalable and friendly temporary file upload system. ([Demo](https://plik.root.gg/)) `MIT` `Go`
+*   [Plik (⭐1.3k)](https://github.com/root-gg/plik) - Plik is a scalable and friendly temporary file upload system. ([Demo](https://plik.root.gg/)) `MIT` `Go/Docker`
 
 ### Software / Miscellaneous
 
-*   [DomainMOD](https://domainmod.org) - Application to manage your domains and other internet assets in a central location. DomainMOD includes a Data Warehouse framework that allows you to import your WHM/cPanel web server data so that you can view, export, and report on your data. ([Demo](https://demo.domainmod.org), [Source Code (⭐380)](https://github.com/domainmod/domainmod)) `GPL-3.0` `PHP`
-*   [google-webfonts-helper (⭐11k)](https://github.com/majodev/google-webfonts-helper) `⚠` - Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets. ([Demo](https://gwfh.mranftl.com/fonts)) `MIT` `Nodejs`
+*   [DomainMOD](https://domainmod.org) - Application to manage your domains and other internet assets in a central location. DomainMOD includes a Data Warehouse framework that allows you to import your WHM/cPanel web server data so that you can view, export, and report on your data. ([Demo](https://demo.domainmod.org), [Source Code (⭐406)](https://github.com/domainmod/domainmod)) `GPL-3.0` `PHP`
+*   [google-webfonts-helper (⭐12k)](https://github.com/majodev/google-webfonts-helper) `⚠` - Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets. ([Demo](https://gwfh.mranftl.com/fonts)) `MIT` `Nodejs`
 
 ### Software / Money, Budgeting & Management
 
-*   [Invoice Ninja](https://www.invoiceninja.org/) - Powerful tool to invoice clients online. ([Demo](https://app.invoiceninja.com/invoices/create), [Source Code (⭐7.1k)](https://github.com/invoiceninja/invoiceninja)) `AAL` `PHP`
+*   [Invoice Ninja](https://www.invoiceninja.org/) - Powerful tool to invoice clients online. ([Demo](https://app.invoiceninja.com/invoices/create), [Source Code (⭐7.4k)](https://github.com/invoiceninja/invoiceninja)) `AAL` `PHP/Docker/K8S`
 
 ### Software / Note-taking & Editors
 
@@ -270,43 +263,39 @@
 
 ### Software / Office Suites
 
-*   [Infinoted (⭐550)](https://github.com/gobby/gobby/wiki/Dedicated%20Server) - Server for [Gobby (⭐550)](https://github.com/gobby/gobby/wiki), a multi-platform collaborative text editor. ([Source Code (⭐550)](https://github.com/gobby/gobby)) `MIT` `C++`
+*   [Infinoted (⭐558)](https://github.com/gobby/gobby/wiki/Dedicated%20Server) - Server for [Gobby (⭐558)](https://github.com/gobby/gobby/wiki), a multi-platform collaborative text editor. ([Source Code (⭐558)](https://github.com/gobby/gobby)) `MIT` `C++`
 
 ### Software / Pastebins
 
-*   [Sup3rS3cretMes5age (⭐418)](https://github.com/algolia/sup3rS3cretMes5age) - Very simple (to deploy and to use) secret message service using Hashicorp Vault as a secrets storage. `MIT` `Go`
-
-### Software / Proxy
-
-*   [PHP-Proxy](https://www.php-proxy.com/) - Web proxy script built specifically to be fast, easy to modify and to support video sites such as YouTube. ([Demo](https://unblockvideos.com/), [Source Code (⭐758)](https://github.com/Athlon1600/php-proxy-app)) `MIT` `PHP`
+*   [Sup3rS3cretMes5age (⭐432)](https://github.com/algolia/sup3rS3cretMes5age) - Very simple (to deploy and to use) secret message service using Hashicorp Vault as a secrets storage. `MIT` `Go`
 
 ### Software / Software Development - Project Management
 
-*   [Gitea](https://gitea.io) - Community managed fork of Gogs, lightweight code hosting solution. ([Demo](https://try.gitea.io), [Source Code (⭐37k)](https://github.com/go-gitea/gitea)) `MIT` `Go`
+*   [Gitea](https://gitea.io) - Community managed, lightweight code hosting solution (fork of Gogs). ([Demo](https://try.gitea.io), [Source Code (⭐39k)](https://github.com/go-gitea/gitea)) `MIT` `Go/Docker/K8S`
 
 ### Software / Ticketing
 
-*   [Zammad](https://zammad.org/) - Easy to use but powerful open-source support and ticketing system. ([Source Code (⭐3.4k)](https://github.com/zammad/zammad)) `AGPL-3.0` `Ruby`
+*   [Zammad](https://zammad.org/) - Easy to use but powerful open-source support and ticketing system. ([Source Code (⭐3.7k)](https://github.com/zammad/zammad)) `AGPL-3.0` `Ruby/deb`
 
 ### Software / Wikis
 
-*   [Dokuwiki](https://www.dokuwiki.org/DokuWiki) - Easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain text files, therefore no database is required. ([Source Code (⭐3.7k)](https://github.com/splitbrain/dokuwiki)) `GPL-2.0` `PHP`
+*   [Dokuwiki](https://www.dokuwiki.org/DokuWiki) - Easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain text files, therefore no database is required. ([Source Code (⭐3.8k)](https://github.com/dokuwiki/dokuwiki)) `GPL-2.0` `PHP`
 *   [Gitit (⭐2.1k)](https://github.com/jgm/gitit) - Wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface. `GPL-2.0` `Haskell`
 *   [Gollum (⭐13k)](https://github.com/gollum/gollum) - Simple, Git-powered wiki with a sweet API and local frontend. `MIT` `Ruby`
 
-## [14. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [13. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Make your life easier
 
 *   [Xmind](http://www.xmind.net/) - The best (free) Mindmapping tool for documenting your tests.
 
-## [15. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [14. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Other extensions / [Smarty Template Support](https://marketplace.visualstudio.com/items?itemName=aswinkumar863.smarty-template-support)
 
 *   [phpfmt](https://marketplace.visualstudio.com/items?itemName=kokororin.vscode-phpfmt) - phpfmt for Visual Studio Code
 
-## [16. Awesome Lumen](/content/unicodeveloper/awesome-lumen/week/README.md)
+## [15. Awesome Lumen](/content/unicodeveloper/awesome-lumen/week/README.md)
 
 ### Written
 
@@ -316,13 +305,13 @@
 
 *   [Lumen Passport (⭐651)](https://github.com/dusterio/lumen-passport) - Making Laravel Passport work with Lumen.
 
-## [17. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [16. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Productivity
 
 *   [Cold Turkey](https://getcoldturkey.com) - The only blocker for distracting websites that actually works. (even doesn't let you uninstall it when blocking is active).
 
-## [18. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
+## [17. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
 ### Blockchains for AI algorithms / Blockchain, AI and Machine Learning
 
@@ -344,14 +333,7 @@
 
 *   [doc.ai](https://doc.ai/about) - doc.ai aims to decentralize precision medicine on the blockchain by using AI.
 
-## [19. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
-
-### Software / Cloud Orchestration
-
-*   [StackStorm](https://stackstorm.com/) - Event Driven Operations and ChatOps platform for infrastructure management. Written in Python.
-*   [Terraform](https://www.terraform.io/) - Terraform works with many cloud providers and creates infrastructure from code.
-
-## [20. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [18. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -359,9 +341,9 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-ip (⭐23)](https://github.com/peteringram0/vue-ip) - An ip address input with port and material design support
+*   [vue-ip (⭐25)](https://github.com/peteringram0/vue-ip) - An ip address input with port and material design support
 
-## [21. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [19. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts
 
@@ -379,7 +361,7 @@
 
 *   [swoopy-drag (⭐119)](https://github.com/1wheel/swoopy-drag) - Artisanal label placement for d3 graphics
 
-## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [20. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### 2D
 
@@ -389,20 +371,20 @@
 
 *   [Fluid Slider (⭐1.9k)](https://github.com/Ramotion/fluid-slider) - A slider widget with a popup bubble displaying the precise value selected.
 
-## [23. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [21. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Templates
 
 *   [kendo-ui-core (⭐2.5k)](https://github.com/telerik/kendo-ui-core) - An HTML5, jQuery-based widget library for building modern web apps. <http://www.telerik.com/kendo-ui>.
-*   [Serenity (⭐2.3k)](https://github.com/volkanceylan/Serenity) - Serenity is an ASP.NET MVC / TypeScript application platform designed to simplify and shorten development of data-centric business applications with a service based architecture.
+*   [Serenity (⭐2.5k)](https://github.com/volkanceylan/Serenity) - Serenity is an ASP.NET MVC / TypeScript application platform designed to simplify and shorten development of data-centric business applications with a service based architecture.
 
-## [24. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [22. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Database Tools
 
 *   [migrate (⭐31)](https://github.com/vladfaust/migrate.cr) - A simpler database migration tool with transactions
 
-## [25. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [23. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### People
 
@@ -412,7 +394,7 @@
 
 *   [decimals](https://github.com/rumbu13/decimal) - Decimal library for D.
 
-## [26. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [24. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Libraries / Perl
 
@@ -438,31 +420,31 @@
 
 *   [Stack Overflow Markdown Documentation (archived)](https://web.archive.org/web/20160724152503/https://stackoverflow.com/documentation/markdown/topics) - Well organized Markdown documentation.
 
-## [27. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [25. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Command Line Applications
 
-*   [ex\_prompt (⭐29)](https://github.com/behind-design/ex_prompt) - Helper package to add interactivity to your command line applications as easy as possible.
+*   [ex\_prompt (⭐30)](https://github.com/behind-design/ex_prompt) - Helper package to add interactivity to your command line applications as easy as possible.
 
 ### Cryptography
 
-*   [ntru\_elixir (⭐13)](https://github.com/alisinabh/ntru_elixir) - Elixir wrapper for libntru. A post quantum cryptography system.
+*   [ntru\_elixir (⭐14)](https://github.com/alisinabh/ntru_elixir) - Elixir wrapper for libntru. A post quantum cryptography system.
 
 ### Debugging
 
-*   [rexbug (⭐226)](https://github.com/nietaki/rexbug) - An Elixir wrapper for the `redbug` production-friendly Erlang tracing debugger.
+*   [rexbug (⭐232)](https://github.com/nietaki/rexbug) - An Elixir wrapper for the `redbug` production-friendly Erlang tracing debugger.
 
 ### Deployment
 
-*   [akd (⭐51)](https://github.com/annkissam/akd) - Capistrano like, Configurable, and easy to set up Elixir Deployment Automation Framework.
+*   [akd (⭐52)](https://github.com/annkissam/akd) - Capistrano like, Configurable, and easy to set up Elixir Deployment Automation Framework.
 
 ### Framework Components
 
-*   [plug\_checkup (⭐70)](https://github.com/ggpasqualino/plug_checkup) - Plug for adding simple health checks to your app.
+*   [plug\_checkup (⭐71)](https://github.com/ggpasqualino/plug_checkup) - Plug for adding simple health checks to your app.
 
 ### HTTP
 
-*   [gun (⭐837)](https://github.com/ninenines/gun) - HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.
+*   [gun (⭐855)](https://github.com/ninenines/gun) - HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.
 
 ### Miscellaneous
 
@@ -474,8 +456,8 @@
 
 ### Templating
 
-*   [calliope (⭐193)](https://github.com/nurugger07/calliope) - An Elixir HAML parser.
-*   [slime (⭐346)](https://github.com/slime-lang/slime) - An Elixir library for rendering slim-like templates.
+*   [calliope (⭐194)](https://github.com/nurugger07/calliope) - An Elixir HAML parser.
+*   [slime (⭐357)](https://github.com/slime-lang/slime) - An Elixir library for rendering slim-like templates.
 
 ### Text and Numbers
 
@@ -483,7 +465,7 @@
 
 ### Third Party APIs
 
-*   [gringotts (⭐451)](https://github.com/aviabird/gringotts) - A complete payment library for Elixir and Phoenix Framework similar to [ActiveMerchant (⭐4.5k)](https://github.com/activemerchant/active_merchant) from the Ruby world.
+*   [gringotts (⭐462)](https://github.com/aviabird/gringotts) - A complete payment library for Elixir and Phoenix Framework similar to [ActiveMerchant (⭐4.5k)](https://github.com/activemerchant/active_merchant) from the Ruby world.
 
 ### Books
 
@@ -491,23 +473,23 @@
 
 ### Editors
 
-*   [vim-mix-format (⭐216)](https://github.com/mhinz/vim-mix-format) - Async `mix format` for Vim and Neovim.
+*   [vim-mix-format (⭐219)](https://github.com/mhinz/vim-mix-format) - Async `mix format` for Vim and Neovim.
 
 ### Screencasts
 
 *   [ElixirCasts.io](https://elixircasts.io/) - Simple screencasts to help you learn Elixir and Phoenix.
 
-## [28. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
+## [26. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 
 ### Contents / Projects using choo
 
 *   [busca (⭐10)](https://github.com/afk-mcz/busca) - A small web-extension to search the current tab on reddit.
 
-## [29. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [27. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### ASM / Music drivers and trackers
 
-*   [assemblydigest (⭐72)](https://github.com/assemblydigest/gameboy) - Exploring Game Boy programming techniques:
+*   [assemblydigest (⭐73)](https://github.com/assemblydigest/gameboy) - Exploring Game Boy programming techniques:
     *   [Making an Empty Game Boy ROM (in Wiz)](http://assemblydigest.tumblr.com/post/77203696711/tutorial-making-an-empty-game-boy-rom-in-wiz)
     *   [Making Art for the Game Boy](http://assemblydigest.tumblr.com/post/77404621743/tutorial-making-art-for-the-game-boy)
 
@@ -516,7 +498,7 @@
 *   [Archive of related files](http://gbdev.gg8.se/files/)
 *   [The Game Boy Archive](https://github.com/gb-archive) - A library of Game Boy related software, hardware and literature. Aimed to mirror and preserve old and fragmented contributions from the last three decades.
 
-## [30. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [28. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Continuous Integration
 
@@ -532,7 +514,7 @@
 *   [React Native in Arabic: Build a newspaper app](https://www.youtube.com/playlist?list=PLk-CkzAysw4BLLNtATmnZOA8E8I6TP8MS) - (Free) A simple to follow video series in Arabic showing you how to build a newspaper app with React Native.
 *   [Building Youtube UI in 30 Minutes](https://www.youtube.com/watch?v=LdKtugH-sb8) - A quick tutorial showing how to build Youtube Mobile app's UI using React Native. This tutorial helps in getting started with coding designs from scratch.
 
-## [31. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [29. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Literature / Citizen Science Practice
 
@@ -540,13 +522,13 @@
 *   [How to Run a Feminist Science Lab Meeting](https://civiclaboratory.nl/2017/03/31/how-to-run-a-feminist-science-lab-meeting/) - A guide by the Civic Laboratory in St. John's, Newfoundland
 *   [First-Ever Video May Show Pig-Like Animals Mourning Their Dead](https://news.nationalgeographic.com/2017/12/animals-grieving-peccaries-death-mourning/) - An example of an important scientific discovery being made by someone who was not an institutional academic (an 8-year-old boy).  The boy received lead author credit in a scientific paper.
 
-## [32. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [30. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Tools
 
 *   [Make a README](https://www.makeareadme.com/) - A guide to writing READMEs. Includes an editable template with live Markdown rendering.
 
-## [33. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
+## [31. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
 
 ### General / UX
 
@@ -560,13 +542,13 @@
 
     An annual conference organized by accelerator Y Combinator and targeted at female founders and entrepreneurs. The event features talks and panels, including sessions where female founders share their experiences and offer startup guidance.
 
-## [34. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [32. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C, C++
 
-*   [cmacro (⭐845)](https://github.com/eudoxia0/cmacro) - Lisp macros for C. [MIT](https://opensource.org/licenses/MIT).
-*   [C-mera (⭐366)](https://github.com/kiselgra/c-mera) - a source-to-source compiler that utilizes Lisp's macro system for meta programming of C-like languages. [GPL3](http://www.gnu.org/copyleft/gpl.html).
-*   [lispc (⭐519)](https://github.com/eratosthenesia/lispc) - a powerful "lispsy" macrolanguage for C. [MIT](https://opensource.org/licenses/MIT).
+*   [cmacro (⭐861)](https://github.com/eudoxia0/cmacro) - Lisp macros for C. [MIT](https://opensource.org/licenses/MIT).
+*   [C-mera (⭐376)](https://github.com/kiselgra/c-mera) - a source-to-source compiler that utilizes Lisp's macro system for meta programming of C-like languages. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [lispc (⭐523)](https://github.com/eratosthenesia/lispc) - a powerful "lispsy" macrolanguage for C. [MIT](https://opensource.org/licenses/MIT).
 
 ### To third parties
 
@@ -575,7 +557,7 @@
 ### Tools
 
 *   [pileup](http://nikodemus.github.io/pileup/) - a portable, performant, and thread-safe binary heap for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
-*   [sycamore (⭐109)](https://github.com/ndantam/sycamore) -  a fast, purely functional data structure library. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [sycamore (⭐107)](https://github.com/ndantam/sycamore) -  a fast, purely functional data structure library. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### Objective-C
 
@@ -583,7 +565,7 @@
 
 ### Miscellaneous
 
-*   [cl-webkit (⭐47)](https://github.com/joachifm/cl-webkit) - A binding to WebKitGTK+. Also adds web browsing capabilities to an application, leveraging the full power of the WebKit browsing engine. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-webkit (⭐48)](https://github.com/joachifm/cl-webkit) - A binding to WebKitGTK+. Also adds web browsing capabilities to an application, leveraging the full power of the WebKit browsing engine. [MIT](https://opensource.org/licenses/MIT).
 
 ### Beginner
 
@@ -597,13 +579,13 @@
 
 *   [cl-devel2](https://hub.docker.com/r/eshamster/cl-devel2/) - a Docker container for Common Lisp development environment. Ships SBCL, CCL, Roswell and Emacs25 with Slime.
 
-## [35. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [33. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Service Level Agreement
 
 *   [Consequences of SLO violations — CRE life lessons](https://cloudplatform.googleblog.com/2018/01/consequences-of-SLO-violations-CRE-life-lessons.html)
 
-## [36. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [34. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Lisbon
 
@@ -634,27 +616,27 @@ Webpage: apadariaportuguesa.pt
 
 Wifi pw: `portuguesa`
 
-## [37. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [35. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### NgRx / Components
 
 *   [Making chained API Calls using @ngrx/Effects](https://gist.github.com/peterbsmith2/ce94c0a5ddceb99bab24a761731d1f07)
 
-## [38. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [36. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Videos
 
 *   [Image recognition in Go using TensorFlow](https://youtu.be/P8MZ1Z2LHrw) -  by Alex Pliutau
 
-## [39. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
-*   [FunctionalPlus (⭐1.8k)](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C++. Write concise and readable C++ code. \[MIT]
+*   [FunctionalPlus (⭐1.9k)](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C++. Write concise and readable C++ code. \[MIT]
 
 ### Artificial Intelligence
 
-*   [frugally-deep (⭐956)](https://github.com/Dobiasd/frugally-deep) - Header-only library for using Keras models in C++. \[MIT]
+*   [frugally-deep (⭐994)](https://github.com/Dobiasd/frugally-deep) - Header-only library for using Keras models in C++. \[MIT]
 
 ### Containers
 
@@ -662,7 +644,7 @@ Wifi pw: `portuguesa`
 
 ### Cryptography
 
-*   [Tiny AES in C (⭐3.6k)](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C. \[PublicDomain]
+*   [Tiny AES in C (⭐3.8k)](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C. \[PublicDomain]
 
 ### Logging
 
@@ -670,11 +652,11 @@ Wifi pw: `portuguesa`
 
 ### Machine Learning
 
-*   [xgboost (⭐24k)](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow. \[Apache2]
+*   [xgboost (⭐25k)](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow. \[Apache2]
 
 ### Other Awesome Projects
 
-*   [AwesomePerfCpp (⭐2.2k)](https://github.com/fenbf/AwesomePerfCpp) - A curated list of awesome C/C++ performance optimization resources.
+*   [AwesomePerfCpp (⭐2.3k)](https://github.com/fenbf/AwesomePerfCpp) - A curated list of awesome C/C++ performance optimization resources.
 
 ---
 

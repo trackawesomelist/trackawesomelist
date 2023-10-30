@@ -61,7 +61,7 @@
 
 ### Issue Tracking and Project Management
 
-*   [ubertesters.com](https://ubertesters.com/) — Test platform, integration and crowdtesters, 2 projects, 5 members
+*   [ubertesters.com](https://ubertesters.com/) — Test platform, integration and crowd testers, 2 projects, five members
 
 ## [6. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 
@@ -125,7 +125,7 @@
 
 ### For Electron / Other
 
-*   [elemon (⭐71)](https://github.com/manidlou/elemon) - Live-reload your app during development.
+*   [elemon (⭐72)](https://github.com/manidlou/elemon) - Live-reload your app during development.
 
 ## [9. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
@@ -143,17 +143,17 @@
 
 ### Trading
 
-*   [Lean (⭐7.4k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. <https://www.quantconnect.com/lean/>
+*   [Lean (⭐8k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. <https://www.quantconnect.com/lean/>
 
 ### Source Generator
 
-*   [ASP.NET Core Library and Framework Support (⭐208)](https://github.com/jpsingleton/ANCLAFS) - A list of what .NET libraries and frameworks are currently supported by ASP.NET Core and .NET Core).
+*   [ASP.NET Core Library and Framework Support (⭐209)](https://github.com/jpsingleton/ANCLAFS) - A list of what .NET libraries and frameworks are currently supported by ASP.NET Core and .NET Core).
 
 ## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Other Awesome Projects
 
-*   [C++ links (⭐3.6k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
+*   [C++ links (⭐3.7k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
 
 ---
 

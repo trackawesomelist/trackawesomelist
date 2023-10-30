@@ -20,7 +20,7 @@
 
 ### Frameworks, Libraries and Tools / Mail
 
-*   [SmtpServer (⭐508)](https://github.com/cosullivan/SmtpServer) - Library to create your own SMTP server.
+*   [SmtpServer (⭐598)](https://github.com/cosullivan/SmtpServer) - Library to create your own SMTP server.
 
 ### Videos / Workflow
 
@@ -83,16 +83,16 @@
 ### Official resources
 
 *   [Website](https://prometheus.io/) - Official Prometheus project website.
-*   [GitHub repository (⭐47k)](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration.
+*   [GitHub repository (⭐48k)](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration.
 *   [Documentation](https://prometheus.io/docs/introduction/overview/) - Official Prometheus documentation.
 *   [Blog](https://prometheus.io/blog/) - Official Prometheus blog.
 
 ### Tutorials
 
-*   [How To Install Prometheus using Docker on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-install-prometheus-using-docker-on-centos-7) - Walkthough on how to install Prometheus on CentOS 7.
-*   [How to Use Prometheus to Monitor Your CentOS 7 Server](https://www.digitalocean.com/community/tutorials/how-to-use-prometheus-to-monitor-your-centos-7-server) - Walkthough on how to monitor a CentOS 7 server using Prometheus.
+*   [How To Install Prometheus using Docker on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-install-prometheus-using-docker-on-centos-7) - Walkthrough on how to install Prometheus on CentOS 7.
+*   [How to Use Prometheus to Monitor Your CentOS 7 Server](https://www.digitalocean.com/community/tutorials/how-to-use-prometheus-to-monitor-your-centos-7-server) - Walkthrough on how to monitor a CentOS 7 server using Prometheus.
 *   [How To Add a Prometheus Dashboard to Grafana](https://www.digitalocean.com/community/tutorials/how-to-add-a-prometheus-dashboard-to-grafana) - Walkthrough on how to add a Prometheus dashboard to Grafana.
-*   [Instructions and example code for a Prometheus workshop (⭐99)](https://github.com/juliusv/prometheus_workshop) - Instructions and example code for a Prometheus workshop by Julius Volz.
+*   [Instructions and example code for a Prometheus workshop (⭐100)](https://github.com/juliusv/prometheus_workshop) - Instructions and example code for a Prometheus workshop by Julius Volz.
 *   [Checking if SSH is responding with Prometheus](https://www.robustperception.io/checking-if-ssh-is-responding-with-prometheus/) - Walkthrough on how to use the Blackbox Exporter to check if SSH is responding by Brian Brazil.
 *   [Monitor your GitHub Repos with Docker and Prometheus](https://www.brianchristner.io/monitor-your-github-repos-with-docker/) - Monitor your GitHub Repos with Docker and Prometheus.
 *   [Docker daemon metrics in Prometheus](https://medium.com/lucjuggery/docker-daemon-metrics-in-prometheus-7c359c7ff550) - Docker daemon metrics in Prometheus by Luc Juggery.

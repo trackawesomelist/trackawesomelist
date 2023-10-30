@@ -12,15 +12,15 @@
 
 *   [Codrops](https://tympanus.net/codrops/). Weekly news about qualitative new projects and libraries in web development and design.
 
-### Data Visualization / Angular
+### Data Visualization / Svelte
 
 *   [Generative Collective](https://generative.substack.com/). News, tutorials, articles and inspirations covering the generative / functional arts every Saturday morning.
 
-### GraphQL / Angular
+### GraphQL / Svelte
 
 *   [GraphQL Weekly](https://www.graphqlweekly.com/). A weekly newsletter highlighting resources and news from the GraphQL community.
 
-### Go / Angular
+### Go / Svelte
 
 *   [GoNotícias](https://gonoticias.substack.com/). A weekly newsletter about the Go programming language in Portuguese.
 
@@ -28,7 +28,7 @@
 
 ### Official
 
-*   [Adapty (⭐301)](https://github.com/adaptyteam/AdaptySDK-iOS) - Integrate in-app subscriptions and a/b testing for them with 3 lines of code.
+*   [Adapty (⭐344)](https://github.com/adaptyteam/AdaptySDK-iOS) - Integrate in-app subscriptions and a/b testing for them with 3 lines of code.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Apps / Outline Processor Markup Language
 
-*   [Homura (⭐266)](https://github.com/Saul-Mirone/homura) <sup>[866](https://t.me/s/aboutrss/866)</sup> ![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Saul-Mirone/homura)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Homura (⭐269)](https://github.com/Saul-Mirone/homura) <sup>[866](https://t.me/s/aboutrss/866)</sup> ![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Saul-Mirone/homura)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   咕咚订阅 (RSS Plus) <sup>[884](https://t.me/s/aboutrss/884)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](http://d.firim.pro/gulz)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Hosted Readers / Outline Processor Markup Language
@@ -114,23 +114,23 @@
 
 *   [Planet Pluto](https://feedreader.github.io/) <sup>[887](https://t.me/s/aboutrss/887)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/feedreader)
 
-### RSS2CMS / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### RSS2CMS / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [CyberSEO](https://www.cyberseo.net/) <sup>[869](https://t.me/s/aboutrss/869)</sup>
 
-### 🧩 API / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### 🧩 API / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Pipfeed news extract API](https://pipfeed.com/news-extract-api/) <sup>[874](https://t.me/s/aboutrss/874)</sup>
 
-### Full Article Extractors / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Full Article Extractors / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [简悦](http://ksria.com/simpread/docs/#/RSSReader) <sup>[880](https://t.me/s/aboutrss/880)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Kenshin/simpread/)
 
-### Entertainment / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Entertainment / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [蜜柑计划 - Mikan Project](https://mikanani.me/)
 
-### Tech or IT / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Tech or IT / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Feed picker for Microsoft products](https://support.microsoft.com/en-us/rss-feed-picker) <sup>[879](https://t.me/s/aboutrss/879)</sup>
 

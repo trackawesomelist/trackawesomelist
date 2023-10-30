@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 09, 2023
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,59 +22,51 @@
 
 ### Resources / Blog posts
 
-*   [LazyFrame vs DataFrame in Polars – Performance Comparison](https://stuffbyyuki.com/lazyframe-vs-dataframe-in-polars-performance-comparison/) - A blog post that introduces what LazyFrame is in Polars and its performance gain compared to DataFrame by [@StuffbyYuki](https://github.com/StuffbyYuki). Code used is available on Github [here (⭐2)](https://github.com/StuffbyYuki/Python-Polars-Tips-and-Tricks/tree/main/lazyframe_vs_dataframe).
+*   [LazyFrame vs DataFrame in Polars – Performance Comparison](https://stuffbyyuki.com/lazyframe-vs-dataframe-in-polars-performance-comparison/) - A blog post that introduces what LazyFrame is in Polars and its performance gain compared to DataFrame by [@StuffbyYuki](https://github.com/StuffbyYuki). Code used is available on Github [here (⭐7)](https://github.com/StuffbyYuki/Python-Polars-Tips-and-Tricks/tree/main/lazyframe_vs_dataframe).
 
 ## [4. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ### Open Source Projects / Knowledge Management
 
-*   [Anything LLM (⭐376)](https://github.com/Mintplex-Labs/anything-llm): A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces. ![GitHub Repo stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social)
+*   [Anything LLM (⭐2.5k)](https://github.com/Mintplex-Labs/anything-llm): A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces. ![GitHub Repo stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [Cheshire Cat (⭐686)](https://github.com/cheshire-cat-ai/core): Custom AGI boT with ready-to-use chat integration and plugins development platform. ![GitHub Repo stars](https://img.shields.io/github/stars/cheshire-cat-ai/core?style=social)
-*   [Got Chaat Bot (⭐3)](https://github.com/parker84/GoT-chat-bot): Repo for creating GoT Chatbots (ex: talk with Tyrion Lannister) ![GitHub Repo stars](https://img.shields.io/github/stars/parker84/GoT-chat-bot?style=social)
+*   [Cheshire Cat (⭐917)](https://github.com/cheshire-cat-ai/core): Custom AGI boT with ready-to-use chat integration and plugins development platform. ![GitHub Repo stars](https://img.shields.io/github/stars/cheshire-cat-ai/core?style=social)
+*   [Got Chaat Bot (⭐11)](https://github.com/parker84/GoT-chat-bot): Repo for creating GoT Chatbots (ex: talk with Tyrion Lannister) ![GitHub Repo stars](https://img.shields.io/github/stars/parker84/GoT-chat-bot?style=social)
 
-### Alternatives / Articles
+### Other LLM Frameworks / Videos Playlists
 
-*   [ReLLM](https://github.com/r2d4/rellm): Regular Expressions for Language Model Completions. ![GitHub Repo stars](https://img.shields.io/github/stars/r2d4/rellm?style=social)
-*   [OpenDAN (⭐744)](https://github.com/fiatrete/OpenDAN-Personal-AI-OS): open source Personal AI OS , which consolidates various AI modules in one place for your personal use. ![GitHub Repo stars](https://img.shields.io/github/stars/fiatrete/OpenDAN-Personal-AI-OS?style=social)
+*   [ReLLM (⭐427)](https://github.com/r2d4/rellm): Regular Expressions for Language Model Completions. ![GitHub Repo stars](https://img.shields.io/github/stars/r2d4/rellm?style=social)
+*   [OpenDAN (⭐1.3k)](https://github.com/fiatrete/OpenDAN-Personal-AI-OS): open source Personal AI OS , which consolidates various AI modules in one place for your personal use. ![GitHub Repo stars](https://img.shields.io/github/stars/fiatrete/OpenDAN-Personal-AI-OS?style=social)
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Database
 
-*   [Neon (⭐8.4k)](https://github.com/neondatabase/neon) Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
+*   [Neon (⭐10k)](https://github.com/neondatabase/neon) Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 
 ## [6. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Style
 
-*   [perfectionist sorting (⭐128)](https://github.com/azat-io/eslint-plugin-perfectionist) - Sort objects, imports, TypeScript types, enums, JSX props, etc.
+*   [perfectionist sorting (⭐834)](https://github.com/azat-io/eslint-plugin-perfectionist) - Sort objects, imports, TypeScript types, enums, JSX props, etc.
 
-## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
-
-## [8. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
+## [7. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
 ### Playbooks, Roles and Collections / French
 
 *   [redhat-cop](https://github.com/search?q=topic%3Aansible+org%3Aredhat-cop\&type=Repositories\&s=updated\&o=desc) - Repositories with ansible topic of the Red Hat Communities of Practice project.
 
-## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
 
-*   [A survey of Generative AI Applications | arxiv](https://arxiv.org/abs/2306.02781): "rur survey aims to serve as a valuable resource for researchers and practitioners to navigate the rapidly expanding landscape of generative AI"
+*   [A survey of Generative AI Applications | arxiv](https://arxiv.org/abs/2306.02781): "this survey aims to serve as a valuable resource for researchers and practitioners to navigate the rapidly expanding landscape of generative AI"
 
-## [10. Awesome Product Management](/content/dend/awesome-product-management/README.md)
+## [9. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [How to Deliver More Software Projects on Time](https://www.inc.com/mark-suster/how-to-deliver-more-software-projects-on-time.html) - By [Mark Suster](https://www.linkedin.com/in/marksuster/).
 *   [Shipping is a Feature: Some Guiding Principles for People That Build Things](https://a16z.com/2014/04/16/shipping-is-a-feature-some-guiding-principals-for-people-that-build-things/) - By [Michael Copeland](https://www.linkedin.com/in/mcopeland/).
@@ -89,4 +81,5 @@
 
 ---
 
+- Prev: [Jun 10, 2023](/content/2023/06/10/README.md)
 - Next: [Jun 08, 2023](/content/2023/06/08/README.md)

@@ -10,20 +10,20 @@
 
 ### Database Drivers
 
-*   PostgreSQL - [awesome-postgres (⭐8.5k)](https://github.com/dhamaniasad/awesome-postgres)
+*   PostgreSQL - [awesome-postgres (⭐8.8k)](https://github.com/dhamaniasad/awesome-postgres)
     *   [psycopg2](http://initd.org/psycopg/) - The most popular PostgreSQL adapter for Python.
-    *   [queries (⭐253)](https://github.com/gmr/queries) - A wrapper of the psycopg2 library for interacting with PostgreSQL.
+    *   [queries (⭐259)](https://github.com/gmr/queries) - A wrapper of the psycopg2 library for interacting with PostgreSQL.
 
 ### E-commerce
 
-*   [merchant (⭐999)](https://github.com/agiliq/merchant) - A Django app to accept payments from various payment processors.
+*   [merchant (⭐1k)](https://github.com/agiliq/merchant) - A Django app to accept payments from various payment processors.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Serialization
 
-*   [cereal (⭐3.6k)](https://github.com/USCiLab/cereal) - A C++11 library for serialization. \[BSD]
-*   [SimpleBinaryEncoding (⭐2.8k)](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. \[Apache2]
+*   [cereal (⭐3.8k)](https://github.com/USCiLab/cereal) - A C++11 library for serialization. \[BSD]
+*   [SimpleBinaryEncoding (⭐2.9k)](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. \[Apache2]
 
 ### Web Application Framework
 

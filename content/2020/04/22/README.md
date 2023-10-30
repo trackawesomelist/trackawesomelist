@@ -209,7 +209,7 @@
 ### Components & Libraries / Utilities
 
 *   [vue-timed-content (⭐7)](https://github.com/dannyfeliz/vue-timed-content) - Shows or hides content based on a given time range and timezone.
-*   [vue-live (⭐196)](https://github.com/vue-styleguidist/vue-live) - A component to demo components, inspired by react-live.
+*   [vue-live (⭐217)](https://github.com/vue-styleguidist/vue-live) - A component to demo components, inspired by react-live.
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-middleware (⭐7)](https://github.com/grafikri/vue-middleware) - Middleware for Vue.
+*   [vue-middleware (⭐8)](https://github.com/grafikri/vue-middleware) - Middleware for Vue.
 
 ## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Projects
 
-*   [Lomorage (⭐139)](https://github.com/lomorage/homepage) - Private photo cloud host on Raspberry Pi, with Android/iOS/Web client.
+*   [Lomorage (⭐172)](https://github.com/lomorage/homepage) - Private photo cloud host on Raspberry Pi, with Android/iOS/Web client.
 
 ## [5. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
 
@@ -46,19 +46,19 @@
 
 ### Libraries/Frameworks / API Clients
 
-*   [JetBrains/space-kotlin-sdk (⭐43)](https://github.com/JetBrains/space-kotlin-sdk) - Kotlin client for JetBrains Space HTTP API
+*   [JetBrains/space-kotlin-sdk (⭐44)](https://github.com/JetBrains/space-kotlin-sdk) - Kotlin client for JetBrains Space HTTP API
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### DBaaS
+### Managed Data Services
 
-*   [FaunaDB](https://fauna.com/) — Serverless cloud database, with native GraphQL, multi-model access and daily free tiers up to 100 MB
+*   [FaunaDB](https://fauna.com/) — Serverless cloud database with native GraphQL, multi-model access, and daily free tiers up to 100 MB
 
-## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [9. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### Skeleton
+### Python / Constraint Logic Programming (extended Prolog)
 
-*   [MixerApi/Bake](https://github.com/mixerapi/bake) - Bake theme for generating RESTful controllers.
+*   [Hands-On Natural Language Processing with Python](https://www.packtpub.com/free-ebook/hands-on-natural-language-processing-with-python/9781789139495) - Rajesh Arumugam, Rajalingappaa Shanmugamani (Packt account *required*)
 
 ---
 

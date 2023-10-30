@@ -2,13 +2,13 @@
 
 List of Golang books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dariubs/GoBooks/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dariubs/GoBooks](https://github.com/dariubs/GoBooks) · ⭐ 14K · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dariubs/GoBooks/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dariubs/GoBooks](https://github.com/dariubs/GoBooks) · ⭐ 15K · 🏷️ Books
 
 [ [Daily](/content/dariubs/GoBooks/README.md) / Weekly / [Overview](/content/dariubs/GoBooks/readme/README.md) ]
 
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
-### **Starter Books** / [Shipping Go](https://www.manning.com/books/shipping-go)
+### Starter Books / 2023 - [Shipping Go](https://www.manning.com/books/shipping-go)
 
 *   Develop better software based on feedback from customers
 *   Create a development pipeline that turns feedback into features
@@ -20,7 +20,7 @@ List of Golang books
 
 ## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)
 
-### **Advanced Books** / [Beyond Effective Go: Part 1 - Achieving High-Performance Code](https://coreyscott.dev/book/)
+### Advanced Books / 2022 - [Beyond Effective Go: Part 1 - Achieving High-Performance Code](https://coreyscott.dev/book/)
 
 *   Understand the differences between Concurrency and Parallelism.
 *   Identify and avoid concurrency issues like deadlock, starvation, livelock, and data races.
@@ -32,7 +32,7 @@ List of Golang books
 
 ## [Jul 18 - Jul 24, 2022](/content/2022/29/README.md)
 
-### **Advanced Books** / [Practical Go: Building Scalable Network and Non-Network Applications](https://practicalgobook.net)
+### Advanced Books / 2021 - [Practical Go: Building Scalable Network and Non-Network Applications](https://practicalgobook.net)
 
 *   Writing command line applications
 *   Writing a HTTP services and clients
@@ -45,7 +45,7 @@ List of Golang books
 
 ## [May 30 - Jun 05, 2022](/content/2022/22/README.md)
 
-### **Starter Books** / [Go, from the beginning](https://leanpub.com/go-from-the-beginning) *Free*
+### Starter Books / 2022 - [Go, from the beginning](https://leanpub.com/go-from-the-beginning) *Free*
 
 *   Build Console apps
 *   Create Web APIs
@@ -57,14 +57,14 @@ List of Golang books
 
 ## [Mar 14 - Mar 20, 2022](/content/2022/11/README.md)
 
-### **Starter Books** / [Pro Go](https://link.springer.com/book/10.1007/978-1-4842-7355-5)
+### Starter Books / 2022 - [Pro Go](https://link.springer.com/book/10.1007/978-1-4842-7355-5)
 
 *   Gain a solid understanding of the Go language and tools
 *   Gain in-depth knowledge of the Go standard library
 *   Use Go for concurrent/parallel tasks
 *   Use Go for client- and server-side development
 
-### **Advanced Books** / [Everyday Go](https://openfaas.gumroad.com/l/everyday-golang)
+### Advanced Books / 2021 - [Everyday Go](https://openfaas.gumroad.com/l/everyday-golang)
 
 *   Learn unit testing
 *   Make lovely CLIs
@@ -75,7 +75,7 @@ List of Golang books
 
 ## [Mar 07 - Mar 13, 2022](/content/2022/10/README.md)
 
-### **Web Development** / [Wasm Cooking with Golang](https://k33g.gumroad.com/l/wasmcooking)
+### Web Development / [Wasm Cooking with Golang](https://k33g.gumroad.com/l/wasmcooking)
 
 *   Wasm & Go in your browser
 *   Wasm & Go with Node.js
@@ -84,7 +84,7 @@ List of Golang books
 
 ## [Jul 26 - Aug 01, 2021](/content/2021/30/README.md)
 
-### **Starter Books** / [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://www.oreilly.com/library/view/learning-go/9781492077206/)
+### Starter Books / 2021 - [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://www.amazon.de/-/en/Jon-Bodner/dp/1492077216)
 
 *   Learn how to write idiomatic code in Go and design a Go project
 *   Understand the reasons for the design decisions in Go

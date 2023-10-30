@@ -16,12 +16,12 @@
 
 ### Integrations
 
-*   [expect-axe-playwright (⭐14)](https://github.com/Widen/expect-axe-playwright) - Expect matchers to perform Axe accessibility tests in your Playwright tests.
+*   [expect-axe-playwright (⭐16)](https://github.com/Widen/expect-axe-playwright) - Expect matchers to perform Axe accessibility tests in your Playwright tests.
 
 ### Utils
 
-*   [expect-playwright (⭐140)](https://github.com/playwright-community/expect-playwright) - Expect utility matcher functions to simplify expect statements for the usage with Playwright Test or Jest Playwright.
-*   [eslint-plugin-playwright (⭐124)](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
+*   [expect-playwright (⭐141)](https://github.com/playwright-community/expect-playwright) - Expect utility matcher functions to simplify expect statements for the usage with Playwright Test or Jest Playwright.
+*   [eslint-plugin-playwright (⭐132)](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
 
 ## [3. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
@@ -37,13 +37,13 @@
 
 ### Tools & Software / Curation
 
-*   [Zotero Robust Links Extension](https://robustlinks.mementoweb.org/zotero/) - A [Zotero](https://www.zotero.org/) extension that submits to and reads from web archives. Source [on GitHub (⭐12)](https://github.com/lanl/Zotero-Robust-Links-Extension). Supercedes [leonkt/zotero-memento (⭐224)](https://github.com/leonkt/zotero-memento).
+*   [Zotero Robust Links Extension](https://robustlinks.mementoweb.org/zotero/) - A [Zotero](https://www.zotero.org/) extension that submits to and reads from web archives. Source [on GitHub (⭐12)](https://github.com/lanl/Zotero-Robust-Links-Extension). Supercedes [leonkt/zotero-memento (⭐245)](https://github.com/leonkt/zotero-memento).
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Color / Diagnostics
 
-*   [folke/twilight.nvim (⭐834)](https://github.com/folke/twilight.nvim) - Dim inactive portions of the code you're editing using TreeSitter.
+*   [folke/twilight.nvim (⭐944)](https://github.com/folke/twilight.nvim) - Dim inactive portions of the code you're editing using TreeSitter.
 
 ## [6. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 
@@ -65,19 +65,19 @@
 
 ### FIAT
 
-*   [Debitum (⭐62)](https://github.com/Marmo/debitum) - With Debitum you can track all kinds of IOUs, be it money or lent items.
+*   [Debitum (⭐70)](https://github.com/Marmo/debitum) - With Debitum you can track all kinds of IOUs, be it money or lent items.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Design and UI
 
-*   [Unicorn Platform](https://unicornplatform.com/) - Effortless landing page builder with hosting. 1 website for free.
+*   [Unicorn Platform](https://unicornplatform.com/) - Effortless landing page builder with hosting. One website for free.
 
 ## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Get Started
 
-*   [create-vite (⭐56k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
+*   [create-vite (⭐60k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
 
 ### Libraries / Community
 

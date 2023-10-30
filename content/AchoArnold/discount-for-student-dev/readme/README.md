@@ -11,7 +11,7 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 # discount-for-student-dev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who happen to be students.
-This list is greatly inspired by the [free-for-dev list (⭐72k)](https://github.com/ripienaar/free-for-dev).
+This list is greatly inspired by the [free-for-dev list (⭐75k)](https://github.com/ripienaar/free-for-dev).
 
 You can help by sending Pull Requests to add more services. Please read the [contribution guidelines](https://github.com/AchoArnold/discount-for-student-dev/blob/master/README.md/contributing.md) first.
 Once I have a good set of links in this README file, I'll look into a better layout for the information and links (help with that is appreciated too).
@@ -316,6 +316,7 @@ If you're not inclined to make PRs you can tweet me at [@acho\_arnold](https://t
 *   [Appfigures](https://appfigures.com/landing/github-student) \[FREE] - App Store analytics, optimization, and intelligence. Free access to the Grow plan for 1 year.
 
 *   [Scrapinghub](https://education.github.com/pack) \[FREE] - Scrapinghub's Scrapy Cloud is a battle-tested cloud platform for running web crawlers. Manage and automate your web spiders at scale.1 Free Forever Scrapy Cloud Unit - unlimited team members, projects or requests. Unlimited crawl time and 120 day data retention.
+    [Crawlbase](https://crawlbase.com/) \[FREE / CREDIT] Crawlbase, a web scraping and web crawling tool, is generously offering 5000 successful requests for free over a three-month period to students, who can take advantage of this opportunity by using the discount code 'SDNT2023'.
 
 *   [Typeform](https://education.github.com/pack) \[FREE] - Interactive forms, surveys & quizzes to engage and grow your audience.Free professional plan for 1 year.
 

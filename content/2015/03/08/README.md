@@ -78,7 +78,7 @@
 
 *   [clj-bigml (⭐49)](https://github.com/bigmlcom/clj-bigml)
 *   [Deeplearning4j (⭐13k)](https://github.com/deeplearning4j/deeplearning4j)
-*   [Enclog (⭐137)](https://github.com/jimpil/enclog)
+*   [Enclog (⭐136)](https://github.com/jimpil/enclog)
 
 ## [4. Es6 Tools](/content/addyosmani/es6-tools/README.md)
 

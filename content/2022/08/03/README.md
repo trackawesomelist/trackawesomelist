@@ -22,45 +22,39 @@
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
-*   [phpList](https://phplist.org) - Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. ([Source Code (⭐619)](https://github.com/phpList/phplist3)) `AGPL-3.0` `PHP`
-
-### Software / Communication - Social Networks and Forums
-
-*   [Anahita](https://www.getanahita.com/) - Open Source Social Networking Framework and Platform. ([Source Code (⭐410)](https://github.com/anahitasocial/anahita)) `GPL-3.0` `PHP`
+*   [phpList](https://phplist.org) - Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. ([Source Code (⭐663)](https://github.com/phpList/phplist3)) `AGPL-3.0` `PHP`
 
 ### Software / Communication - Video Conferencing
 
-*   [plugNmeet](https://www.plugnmeet.org/) - Scalable, High Performance, Open source web conferencing system. ([Demo](https://demo.plugnmeet.com/login.html), [Source Code (⭐114)](https://github.com/mynaparrot/plugNmeet-server)) `MIT` `Docker/Go`
+*   [plugNmeet](https://www.plugnmeet.org/) - Scalable, High Performance, Open source web conferencing system. ([Demo](https://demo.plugnmeet.com/login.html), [Source Code (⭐151)](https://github.com/mynaparrot/plugNmeet-server)) `MIT` `Docker/Go`
 
 ### Software / Community-Supported Agriculture (CSA)
 
-*   [OpenOlitor](https://openolitor.org/) - Administration platform for Community Supported Agriculture groups. ([Source Code (⭐16)](https://github.com/OpenOlitor/openolitor-server)) `AGPL-3.0` `Scala`
+*   [OpenOlitor](https://openolitor.org/) - Administration platform for Community Supported Agriculture groups. ([Source Code (⭐17)](https://github.com/OpenOlitor/openolitor-server)) `AGPL-3.0` `Scala`
 
 ### Software / Document Management
 
-*   [Teedy](https://teedy.io/) - Lightweight document management system packed with all the features you can expect from big expensive solutions (Ex SismicsDocs). ([Demo](https://demo.teedy.io/), [Source Code (⭐1.5k)](https://github.com/sismics/docs)) `GPL-2.0` `Docker/Java`
+*   [Teedy](https://teedy.io/) - Lightweight document management system packed with all the features you can expect from big expensive solutions (Ex SismicsDocs). ([Demo](https://demo.teedy.io/), [Source Code (⭐1.6k)](https://github.com/sismics/docs)) `GPL-2.0` `Docker/Java`
 
 ### Software / File Transfer & Synchronization
 
-*   [Unison](https://www.cis.upenn.edu/~bcpierce/unison/) - Unison is a file-synchronization tool for OSX, Unix, and Windows. ([Source Code (⭐3k)](https://github.com/bcpierce00/unison)) `GPL-3.0` `OCaml`
+*   [Unison](https://www.cis.upenn.edu/~bcpierce/unison/) - Unison is a file-synchronization tool for OSX, Unix, and Windows. ([Source Code (⭐3.3k)](https://github.com/bcpierce00/unison)) `GPL-3.0` `deb/OCaml`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Pomf (⭐817)](https://github.com/Pomf/Pomf) - Pomf is a simple file uploading and sharing platform. `MIT` `PHP`
-*   [XBackBone](https://xbackbone.app/) - A simple, fast and lightweight file manager with instant sharing tools integration, like ShareX (a free and open-source screenshot utility for Windows). ([Source Code (⭐796)](https://github.com/SergiX44/XBackBone)) `AGPL-3.0` `PHP`
+*   [XBackBone](https://xbackbone.app/) - A simple, fast and lightweight file manager with instant sharing tools integration, like ShareX (a free and open-source screenshot utility for Windows). ([Source Code (⭐869)](https://github.com/SergiX44/XBackBone)) `AGPL-3.0` `PHP/Docker`
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [TagSpaces](https://www.tagspaces.org/) - TagSpaces is an offline, cross-platform file manager and organiser that also can function as a note taking app. The WebDAV version of the application can be installed on top of a WebDAV servers such as Nextcloud or ownCloud. ([Demo](https://demo.tagspaces.com), [Source Code (⭐3k)](https://github.com/tagspaces/tagspaces)) `AGPL-3.0` `Nodejs`
+*   [TagSpaces](https://www.tagspaces.org/) - TagSpaces is an offline, cross-platform file manager and organiser that also can function as a note taking app. The WebDAV version of the application can be installed on top of a WebDAV servers such as Nextcloud or ownCloud. ([Demo](https://demo.tagspaces.com), [Source Code (⭐3.2k)](https://github.com/tagspaces/tagspaces)) `AGPL-3.0` `Nodejs`
 
 ### Software / Miscellaneous
 
-*   [Libre Translate](https://libretranslate.com/) - Free and Open Source Machine Translation API, entirely self-hosted. ([Source Code (⭐4.2k)](https://github.com/LibreTranslate/LibreTranslate)) `AGPL-3.0` `Docker/Python`
+*   [Libre Translate](https://libretranslate.com/) - Free and Open Source Machine Translation API, entirely self-hosted. ([Source Code (⭐5.2k)](https://github.com/LibreTranslate/LibreTranslate)) `AGPL-3.0` `Docker/Python`
 
 ### Software / Recipe Management
 
-*   [Mealie](https://hay-kot.github.io/mealie/) - Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app. ([Demo](https://demo.mealie.io/login), [Source Code (⭐3.2k)](https://github.com/hay-kot/mealie)) `MIT` `Python`
-*   [Tandoor Recipes](https://docs.tandoor.dev/) - Django application to manage, tag and search recipes using either built-in models or external storage providers hosting PDFs, Images or other files. ([Demo](https://app.tandoor.dev/accounts/login/?demo), [Source Code (⭐4k)](https://github.com/vabene1111/recipes/)) `MIT` `Python`
+*   [Tandoor Recipes](https://docs.tandoor.dev/) - Django application to manage, tag and search recipes using either built-in models or external storage providers hosting PDFs, Images or other files. ([Demo](https://app.tandoor.dev/accounts/login/?demo), [Source Code (⭐4.4k)](https://github.com/TandoorRecipes/recipes)) `MIT` `Python/Docker/K8S`
 
 ## [4. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
@@ -85,25 +79,25 @@
 
 ### Android / Boilerplate
 
-*   [bufferapp/android-clean-architecture-mvi-boilerplate (⭐981)](https://github.com/bufferapp/android-clean-architecture-mvi-boilerplate) - A clean architecture boilerplate using android written in Kotlin and using the Model-View-Intent pattern
+*   [bufferapp/android-clean-architecture-mvi-boilerplate (⭐983)](https://github.com/bufferapp/android-clean-architecture-mvi-boilerplate) - A clean architecture boilerplate using android written in Kotlin and using the Model-View-Intent pattern
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [sake (⭐601)](https://github.com/alajmo/sake) - sake is a command runner for local and remote hosts.
+*   [sake (⭐617)](https://github.com/alajmo/sake) - sake is a command runner for local and remote hosts.
 
 ## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Code Analysis
 
-*   [excellent\_migrations (⭐157)](https://github.com/Artur-Sulej/excellent_migrations) - Detecting potentially dangerous operations in database migrations.
+*   [excellent\_migrations (⭐169)](https://github.com/Artur-Sulej/excellent_migrations) - Detecting potentially dangerous operations in database migrations.
 
 ## [9. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Network Tools / Network Reconnaissance Tools
 
-*   [ScanCannon (⭐368)](https://github.com/johnnyxmas/ScanCannon) - POSIX-compliant BASH script to quickly enumerate large networks by calling `masscan` to quickly identify open ports and then `nmap` to gain details on the systems/services on those ports.
+*   [ScanCannon (⭐394)](https://github.com/johnnyxmas/ScanCannon) - POSIX-compliant BASH script to quickly enumerate large networks by calling `masscan` to quickly identify open ports and then `nmap` to gain details on the systems/services on those ports.
 
 ## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

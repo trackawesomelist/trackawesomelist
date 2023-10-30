@@ -10,20 +10,20 @@
 
 ### Template Engine
 
-*   [SmartFormat (⭐942)](https://github.com/axuno/SmartFormat) - A lightweight text templating library written in C# which can be a drop-in replacement for string.Format
+*   [SmartFormat (⭐985)](https://github.com/axuno/SmartFormat) - A lightweight text templating library written in C# which can be a drop-in replacement for string.Format
 
 ## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Artificial Intelligence
 
 *   [Axon (⭐1.3k)](https://github.com/elixir-nx/axon) - Nx-powered Neural Networks.
-*   [Nx (⭐2.2k)](https://github.com/elixir-nx/nx) - Multi-dimensional arrays (tensors) and numerical definitions for Elixir.
+*   [Nx (⭐2.3k)](https://github.com/elixir-nx/nx) - Multi-dimensional arrays (tensors) and numerical definitions for Elixir.
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Third-party APIs
 
-*   [whatsapp-sdk (⭐99)](https://github.com/ignacio-chiazzo/ruby_whatsapp_sdk) - Ruby client for the Whatsapp API.
+*   [whatsapp-sdk (⭐115)](https://github.com/ignacio-chiazzo/ruby_whatsapp_sdk) - Ruby client for the Whatsapp API.
 
 ## [4. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
@@ -53,38 +53,33 @@
 
 ### Communications / Web
 
-*   [thimble (⭐7)](https://github.com/DavesCodeMusings/thimble) - A tiny web framework for MicroPython.
+*   [thimble (⭐8)](https://github.com/DavesCodeMusings/thimble) - A tiny web framework for MicroPython.
 
 ## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [z4kn4fein/kotlin-semver (⭐48)](https://github.com/z4kn4fein/kotlin-semver) - Semantic Versioning library for Kotlin Multiplatform.
+*   [z4kn4fein/kotlin-semver (⭐63)](https://github.com/z4kn4fein/kotlin-semver) - Semantic Versioning library for Kotlin Multiplatform.
 
 ## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Uploady (⭐37)](https://github.com/farisc0de/Uploady) - Uploady is a simple file uploader script with multi file upload support. `MIT` `PHP`
+*   [Uploady (⭐53)](https://github.com/farisc0de/Uploady) - Uploady is a simple file uploader script with multi file upload support. `MIT` `PHP`
 
 ### Software / Miscellaneous
 
-*   [Lama-Cleaner (⭐11k)](https://github.com/Sanster/lama-cleaner) `⚠` - A free and open-source inpainting tool powered by SOTA AI model. `Apache-2.0` `Python/Docker`
+*   [Lama-Cleaner (⭐14k)](https://github.com/Sanster/lama-cleaner) `⚠` - A free and open-source inpainting tool powered by SOTA AI model. `Apache-2.0` `Python/Docker`
 
 ### Software / Personal Dashboards
 
-*   [Homepage by benphelps (⭐6.3k)](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. `GPL-3.0` `Docker/Nodejs`
-*   [Homepage by tomershvueli (⭐284)](https://github.com/tomershvueli/homepage) - Simple, standalone, self-hosted PHP page that is your window to your server and the web. `MIT` `PHP`
-
-### Software / Polls and Events
-
-*   [OhMyForms](https://ohmyform.com/) - An open source alternative to TypeForm that can create stunning mobile-ready forms, surveys and questionnaires. ([Source Code (⭐2.3k)](https://github.com/ohmyform/ohmyform)) `AGPL-3.0` `Docker`
+*   [Homepage by tomershvueli (⭐292)](https://github.com/tomershvueli/homepage) - Simple, standalone, self-hosted PHP page that is your window to your server and the web. `MIT` `PHP`
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### BaaS
 
-*   [engagespot.co](https://engagespot.co/) — Notification infrastructure for developers. Free for upto 100 monthly active users.
+*   [engagespot.co](https://engagespot.co/) — Notification infrastructure for developers. Free for up to 100 monthly active users.
 
 ## [10. Colorful](/content/Siddharth11/Colorful/README.md)
 
@@ -92,19 +87,13 @@
 
 *   [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
 
-## [11. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
-
-### Rust / Data Visualization
-
-*   [Barter (⭐283)](https://github.com/barter-rs/barter-rs) - Open-source Rust framework for building event-driven live-trading & backtesting systems
-
-## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Science Logology / Literature Visualization
 
 *   [cite2vec: Citation-Driven Document Exploration via Word Embeddings](https://matthewberger.github.io/papers/cite2vec.pdf) - ***IEEE Transactions on Visualization and Computer Graphics***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=6949650208780085923\&hl=en\&as_sdt=0,5)].
 
-## [13. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [12. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Free Courses
 
@@ -114,7 +103,7 @@
 
 *   [Women Who Code - Data Science](https://www.womenwhocode.com/datascience)
 
-## [14. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [13. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image
 
@@ -128,11 +117,21 @@
 
 *   [science on Instagram: “Human evolution generated by AI Stable Diffusion”](https://www.instagram.com/reel/CjnYBJbqABH/?igshid=YmMyMTA2M2Y%3D)
 
-## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### JSON
 
-*   [Glaze (⭐418)](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and interface library for modern C++. \[MIT]
+*   [Glaze (⭐576)](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and interface library for modern C++. \[MIT]
+
+## [15. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Python Idioms](https://bennuttall.com/files/python-idioms-2014-01-16.pdf) (PDF)
+
+### Ruby / Ruby on Rails
+
+*   [Rails Style Guide](https://rails.rubystyle.guide) - Bozhidar Batsov
 
 ---
 

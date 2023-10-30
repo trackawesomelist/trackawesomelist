@@ -16,7 +16,7 @@
 
 ### Artificial Intelligence
 
-*   [Beaver (⭐62)](https://github.com/beaver-lodge/beaver) - Beaver is a LLVM/MLIR Toolkit in Elixir and Zig.
+*   [Beaver (⭐92)](https://github.com/beaver-lodge/beaver) - Beaver is a LLVM/MLIR Toolkit in Elixir and Zig.
 
 ### Miscellaneous
 
@@ -42,15 +42,15 @@
 
 ### Extensions and Utilities
 
-*   [PlayBuild (⭐8)](https://github.com/wearekuva/playbuild) - An integrated bundler and package manager with support for TypeScript & JSX.
+*   [PlayBuild (⭐9)](https://github.com/wearekuva/playbuild) - An integrated bundler and package manager with support for TypeScript & JSX.
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Encoding
 
 *   TOML
-    *   [tamasfe/taplo (⭐745)](https://github.com/tamasfe/taplo) \[[taplo](https://crates.io/crates/taplo)] — A TOML toolkit written in Rust [![CI](https://github.com/tamasfe/taplo/workflows/Continuous%20integration/badge.svg)](https://github.com/tamasfe/taplo/actions?query=workflow%3A%22Continuous+integration%22)
-    *   [toml-rs/toml (⭐415)](https://github.com/toml-rs/toml) — [![CI](https://github.com/toml-rs/toml/actions/workflows/ci.yml/badge.svg)](https://github.com/toml-rs/toml/actions/workflows/ci.yml)
+    *   [tamasfe/taplo (⭐915)](https://github.com/tamasfe/taplo) \[[taplo](https://crates.io/crates/taplo)] — A TOML toolkit written in Rust [![CI](https://github.com/tamasfe/taplo/workflows/Continuous%20integration/badge.svg)](https://github.com/tamasfe/taplo/actions?query=workflow%3A%22Continuous+integration%22)
+    *   [toml-rs/toml (⭐501)](https://github.com/toml-rs/toml) — [![CI](https://github.com/toml-rs/toml/actions/workflows/ci.yml/badge.svg)](https://github.com/toml-rs/toml/actions/workflows/ci.yml)
 
 ## [7. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 

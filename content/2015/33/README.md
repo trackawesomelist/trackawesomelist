@@ -17,9 +17,9 @@
 
 ### Specifications
 
-*   [Open Container Specifications (⭐2.6k)](https://github.com/opencontainers/specs)\
+*   [Open Container Specifications (⭐2.9k)](https://github.com/opencontainers/specs)\
     This project is where the Open Container Initiative Specifications are written. This is a work in progress.
-*   [App Container basics (⭐8.9k)](https://github.com/coreos/rkt/blob/master/Documentation/app-container.md)\
+*   [App Container basics (⭐8.8k)](https://github.com/coreos/rkt/blob/master/Documentation/app-container.md)\
     App Container (appc) is an open specification that defines several aspects of how to run applications in containers: an image format, runtime environment, and discovery protocol.
 
 ### Clouds
@@ -29,22 +29,22 @@
 
 ### Hypervisors
 
-*   [LXD (⭐3.5k)](https://github.com/lxc/lxd)\
+*   [LXD (⭐4k)](https://github.com/lxc/lxd)\
     Daemon based on liblxc offering a REST API to manage LXC containers.
 *   [OpenVZ](https://openvz.org/)\
     OpenVZ is container-based virtualization for Linux. OpenVZ creates multiple secure, isolated Linux containers (otherwise known as VEs or VPSs) on a single physical server enabling better server utilization and ensuring that applications do not conflict.
 
 ### Containers
 
-*   [runc (⭐9.7k)](https://github.com/opencontainers/runc)\
+*   [runc (⭐11k)](https://github.com/opencontainers/runc)\
     runc is a CLI tool for spawning and running containers according to the OCS specification.
-*   [Rocket (⭐8.9k)](https://github.com/coreos/rkt)\
+*   [Rocket (⭐8.8k)](https://github.com/coreos/rkt)\
     rkt (pronounced "rock-it") is a CLI for running app containers on Linux. rkt is designed to be composable, secure, and fast. Based on AppC specification.
-*   [LXC (⭐3.8k)](https://github.com/lxc/lxc)\
+*   [LXC (⭐4.1k)](https://github.com/lxc/lxc)\
     LXC is the well known set of tools, templates, library and language bindings. It's pretty low level, very flexible and covers just about every containment feature supported by the upstream kernel.
 *   [Vagga (⭐1.8k)](https://github.com/tailhook/vagga)\
     Vagga is a fully-userspace container engine inspired by Vagrant and Docker, specialized for development environments.
-*   [libct (⭐100)](https://github.com/xemul/libct)\
+*   [libct (⭐101)](https://github.com/xemul/libct)\
     Libct is a containers management library which provides convenient API for frontend programs to rule a container during its whole lifetime.
 *   [libvirt](https://libvirt.org/drvlxc.html)\
     A big toolkit to interact with the virtualization capabilities of recent versions of Linux (and other OSes).
@@ -53,7 +53,7 @@
 
 *   [Firejail](https://l3net.wordpress.com/projects/firejail/)\
     Firejail is a SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities.
-*   [Subuser (⭐873)](https://github.com/subuser-security/subuser)\
+*   [Subuser (⭐881)](https://github.com/subuser-security/subuser)\
     Securing the Linux desktop with Docker.
 *   [Snappy](https://wiki.ubuntu.com/SecurityTeam/Specifications/SnappyConfinement)\
     Snappy Ubuntu Core is a new rendition of Ubuntu with transactional updates - a minimal server image with the same libraries as today’s Ubuntu, but applications are provided through a simpler mechanism.
@@ -68,7 +68,7 @@
     Process network namespace management. Part of the iproute2.
 *   [unshare](http://man7.org/linux/man-pages/man1/unshare.1.html)\
     Run program with some namespaces unshared from parent. Part of the util-linux.
-*   [python-nsenter (⭐137)](https://github.com/zalando/python-nsenter)\
+*   [python-nsenter (⭐136)](https://github.com/zalando/python-nsenter)\
     This Python package allows entering Linux kernel namespaces (mount, IPC, net, PID, user and UTS) by doing the "setns" syscall.
 *   [butter](https://pypi.python.org/pypi/butter)\
     Python library to interface to low level linux features (inotify, fanotify, timerfd, signalfd, eventfd, containers) with asyncio support.
@@ -252,34 +252,34 @@
 
 ### E-commerce
 
-*   [alipay (⭐322)](https://github.com/lxneng/alipay) - Unofficial Alipay API for Python.
+*   [alipay (⭐324)](https://github.com/lxneng/alipay) - Unofficial Alipay API for Python.
 
 ### HTML Manipulation
 
 *   [html5lib (⭐1k)](https://github.com/html5lib/html5lib-python) - A standards-compliant library for parsing and serializing HTML documents and fragments.
 *   [lxml](http://lxml.de/) - A very fast, easy-to-use and versatile library for handling HTML and XML.
 *   [pyquery (⭐2.2k)](https://github.com/gawel/pyquery) - A jQuery-like library for parsing HTML.
-*   [xmltodict (⭐5.1k)](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON.
+*   [xmltodict (⭐5.2k)](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON.
 
 ### Processes
 
-*   [sh (⭐6.5k)](https://github.com/amoffat/sh) - A full-fledged subprocess replacement for Python.
+*   [sh (⭐6.6k)](https://github.com/amoffat/sh) - A full-fledged subprocess replacement for Python.
 
 ### Science
 
 *   [astropy](http://www.astropy.org/) - A community Python library for Astronomy.
-*   [bccb (⭐567)](https://github.com/chapmanb/bcbb) - Collection of useful code related to biological analysis.
+*   [bccb (⭐572)](https://github.com/chapmanb/bcbb) - Collection of useful code related to biological analysis.
 *   [Biopython](http://biopython.org/wiki/Main_Page) - Biopython is a set of freely available tools for biological computation.
 *   [cclib](http://cclib.github.io/) - A library for parsing and interpreting the results of computational chemistry packages.
 *   [NumPy](http://www.numpy.org/) - A fundamental package for scientific computing with Python.
-*   [PyMC (⭐7.4k)](https://github.com/pymc-devs/pymc3) - Markov Chain Monte Carlo sampling toolkit.
-*   [statsmodels (⭐8.3k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
-*   [SymPy (⭐10k)](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
+*   [PyMC (⭐7.6k)](https://github.com/pymc-devs/pymc3) - Markov Chain Monte Carlo sampling toolkit.
+*   [statsmodels (⭐8.7k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
+*   [SymPy (⭐11k)](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
 
 ### Third-party APIs
 
-*   [google-api-python-client (⭐6.4k)](https://github.com/google/google-api-python-client) - Google APIs Client Library for Python.
-*   [gspread (⭐6.4k)](https://github.com/burnash/gspread) - Google Spreadsheets Python API.
+*   [google-api-python-client (⭐6.7k)](https://github.com/google/google-api-python-client) - Google APIs Client Library for Python.
+*   [gspread (⭐6.5k)](https://github.com/burnash/gspread) - Google Spreadsheets Python API.
 *   [twython (⭐1.9k)](https://github.com/ryanmcgrath/twython) - A Python wrapper for the Twitter API.
 
 ## [9. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
@@ -330,7 +330,7 @@
 
 ### SDK and API Clients
 
-*   [Azure PowerShell (⭐3.6k)](https://github.com/Azure/azure-powershell) - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
+*   [Azure PowerShell (⭐3.8k)](https://github.com/Azure/azure-powershell) - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
 
 ## [13. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -438,25 +438,25 @@
 
 ### Software for Creating APIs
 
-*   [OneBusAway](http://onebusaway.org/) - A Java app that consumes GTFS and GTFS-Realtime (along with [other formats (⭐186)](https://github.com/OneBusAway/onebusaway-application-modules/wiki/Real-Time-Data-Configuration-Guide)) and turns them into an easy to use [REST API](http://developer.onebusaway.org/modules/onebusaway-application-modules/current/api/where/index.html).
+*   [OneBusAway](http://onebusaway.org/) - A Java app that consumes GTFS and GTFS-Realtime (along with [other formats (⭐191)](https://github.com/OneBusAway/onebusaway-application-modules/wiki/Real-Time-Data-Configuration-Guide)) and turns them into an easy to use [REST API](http://developer.onebusaway.org/modules/onebusaway-application-modules/current/api/where/index.html).
 
 ### Web Apps (open source)
 
 *   [Instabus](http://instabus.org) - Realtime map of Austin's (CapMetro) public transit. Has no server/backend dependency at all and runs completely on GitHub pages.
 *   [OpenTripPlanner Client GWT (⭐8)](https://github.com/mecatran/OpenTripPlanner-client-gwt) - A Google Web Toolkit-based web interface for OpenTripPlanner
 *   [HRT BUS Web app (⭐18)](https://github.com/Code4HR/hrt-bus-api) - HRT Bus API publishes real time bus data from Hampton Roads Transit through an application programming interface for developers to make apps from it.
-*   [Transit-Map (⭐330)](https://github.com/vasile/transit-map) - Web app that animates vehicles (markers) on a map using the public transport timetables to interpolate their positions along the routes (polylines).
+*   [Transit-Map (⭐339)](https://github.com/vasile/transit-map) - Web app that animates vehicles (markers) on a map using the public transport timetables to interpolate their positions along the routes (polylines).
 
 ### GTFS Realtime Libraries & Demo Apps / Ruby
 
 *   [GTFS-realtime Alerts Producer Web Application (⭐1)](https://github.com/OneBusAway/onebusaway-service-alerts) - A Java-based web application for producing GTFS-realtime Service Alerts.
 *   [GTFS-realtime Exporter (⭐13)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-exporter/wiki) - A Java-based tool that assists in producing and sharing a GTFS-relatime feed.
-*   [GTFS-realtime Alerts Producer Demo (⭐9)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-alerts-producer-demo/wiki) - A Java-based demo project for producing GTFS-realtime Service Alerts.
-*   [GTFS-realtime TripUpdates & VehiclePositions Producer Demo (⭐10)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-trip-updates-producer-demo/wiki) - A Java-based demo project for producing GTFS-realtime TripUpdates (estimated arrivals) and Vehicle Positions.
+*   [GTFS-realtime Alerts Producer Demo (⭐8)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-alerts-producer-demo/wiki) - A Java-based demo project for producing GTFS-realtime Service Alerts.
+*   [GTFS-realtime TripUpdates & VehiclePositions Producer Demo (⭐9)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-trip-updates-producer-demo/wiki) - A Java-based demo project for producing GTFS-realtime TripUpdates (estimated arrivals) and Vehicle Positions.
 
 ### GTFS Libraries / Java
 
-*   [OneBusAway GTFS Modules (⭐111)](https://github.com/OneBusAway/onebusaway-gtfs-modules/wiki) - A Java-based library for reading, writing, and transforming public transit data in the GTFS format, including database support.
+*   [OneBusAway GTFS Modules (⭐116)](https://github.com/OneBusAway/onebusaway-gtfs-modules/wiki) - A Java-based library for reading, writing, and transforming public transit data in the GTFS format, including database support.
 
 ### GTFS Converters / Ruby
 
@@ -466,9 +466,9 @@
 
 *   [Syncromatics API to GTFS-realtime (⭐2)](https://github.com/CUTR-at-USF/bullrunner-gtfs-realtime-generator) - A Java-based command-line utility to convert from the [Syncromatics API](http://www.syncromatics.com/) format to GTFS-realtime TripUpdates and VehiclePositons.
 *   [KV6,15,17, and ARNU to GTFS-realtime (⭐1)](https://github.com/bliksemlabs/bliksemintegration-realtime) - Java-based tool to process incoming KV6,15,17 and ARNU and match them to static transit data present in a RID integration database. It then proceeds to export this data as ARNU RITinfo, GTFS(realtime) and KV78turbo
-*   [WMATA BusPositions API to GTFS-realtime (⭐11)](https://github.com/kurtraschke/wmata-gtfsrealtime) - Java-based tool to convert from WMATA's [BusPositions API](https://developer.wmata.com/docs/services/54763629281d83086473f231/operations/5476362a281d830c946a3d68) and Alert RSS feeds from [MetroAlerts](http://www.wmata.com/rider_tools/metro_service_status/rail_bus.cfm?) to GTFS-realtime TripUpdates, VehiclePositions, and Alerts feeds.
+*   [WMATA BusPositions API to GTFS-realtime (⭐12)](https://github.com/kurtraschke/wmata-gtfsrealtime) - Java-based tool to convert from WMATA's [BusPositions API](https://developer.wmata.com/docs/services/54763629281d83086473f231/operations/5476362a281d830c946a3d68) and Alert RSS feeds from [MetroAlerts](http://www.wmata.com/rider_tools/metro_service_status/rail_bus.cfm?) to GTFS-realtime TripUpdates, VehiclePositions, and Alerts feeds.
 *   [SEPTA API to GTFS-realtime (⭐2)](https://github.com/kurtraschke/septa-gtfsrealtime) - Java-based tool to convert [SEPTA's](http://www.septa.org/) [real-time bus and rail data](http://www3.septa.org/hackathon/) to GTFS-realtime
-*   [CTA API to GTFS-realtime (⭐5)](https://github.com/kurtraschke/ctatt-gtfsrealtime) - Java-based tool to convert [CTA's](http://www.transitchicago.com/) [Train Tracker data](http://www.transitchicago.com/developers/traintracker.aspx) to GTFS-realtime.
+*   [CTA API to GTFS-realtime (⭐4)](https://github.com/kurtraschke/ctatt-gtfsrealtime) - Java-based tool to convert [CTA's](http://www.transitchicago.com/) [Train Tracker data](http://www.transitchicago.com/developers/traintracker.aspx) to GTFS-realtime.
 *   [Detroit DOT to GTFS-realtime (⭐2)](https://github.com/prashtx/ddot-avl) - Extract real-time info from [DDOT's](http://www.detroitmi.gov/How-Do-I/Locate-Transportation/Bus-Schedules) TransitMaster installation (database) and convert to GTFS-realtime
 *   [Live Transit Event Trigger (⭐4)](https://github.com/ipublic/live_transit_event_trigger) - Extracts data from [Ride On's](http://www.montgomerycountymd.gov/dot-transit/) OrbCAD database and export as GTFS-realtime.
 *   [SoundTransit to GTFS-realtime (⭐3)](https://github.com/bdferris/onebusaway-sound-transit-realtime) - Convert text file feed from [Sound Transit](http://www.soundtransit.org/) to GTFS-realtime
@@ -552,17 +552,17 @@
 
 ### Containers
 
-*   [LSHBOX (⭐276)](https://github.com/RSIA-LIESMARS-WHU/LSHBOX) - A c++ toolbox of locality-sensitive hashing (LSH), provides several popular LSH algorithms, also support Python and MATLAB. \[GPL]
+*   [LSHBOX (⭐279)](https://github.com/RSIA-LIESMARS-WHU/LSHBOX) - A c++ toolbox of locality-sensitive hashing (LSH), provides several popular LSH algorithms, also support Python and MATLAB. \[GPL]
 
 ### Physics
 
-*   [Box2D (⭐6.5k)](https://github.com/erincatto/Box2D) - A 2D physics engine for games. \[BSD-like]
+*   [Box2D (⭐6.8k)](https://github.com/erincatto/Box2D) - A 2D physics engine for games. \[BSD-like]
 
 ## [21. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [react-native (⭐109k)](https://github.com/facebook/react-native) - A framework for building native apps with React.
+*   [react-native (⭐112k)](https://github.com/facebook/react-native) - A framework for building native apps with React.
 
 ## [22. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
@@ -733,7 +733,7 @@ git cherry -v master <branch-to-be-merged>
 
 ### Distributed Filesystem
 
-*   [Seaweed-FS (⭐16k)](https://github.com/chrislusf/seaweedfs) - simple and highly scalable distributed file system.
+*   [Seaweed-FS (⭐17k)](https://github.com/chrislusf/seaweedfs) - simple and highly scalable distributed file system.
 
 ---
 

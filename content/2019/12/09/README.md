@@ -112,7 +112,7 @@
 
 ### TextField & TextView / Collection View Layout
 
-*   [CocoaTextField (⭐267)](https://github.com/edgar-zigis/CocoaTextField) - UITextField created according to the Material.IO guidelines of 2019.
+*   [CocoaTextField (⭐269)](https://github.com/edgar-zigis/CocoaTextField) - UITextField created according to the Material.IO guidelines of 2019.
 
 ## [6. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 
@@ -120,7 +120,7 @@
 
 ### Jakarta
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/fransallen" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/fransallen" height="70px" width="70px" align="left" alt="" />
 
 **Frans Allen**\
 Topics: CDN, Cloud, SaaS, DNS, Web Performance & Security\
@@ -130,19 +130,19 @@ Topics: CDN, Cloud, SaaS, DNS, Web Performance & Security\
 
 ### Copenhagen
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mafintosh" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/mafintosh" height="70px" width="70px" align="left" alt="" />
 
 **Mathias Buus**\
 Topics: Peer to Peer, Node.js\
 <https://twitter.com/mafintosh>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/enthusiasto" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/enthusiasto" height="70px" width="70px" align="left" alt="" />
 
 **Olga Dmitricenko**\
 Topics: Virtual Reality, Web Image Processing\
 <https://twitter.com/enthusiasto>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/tereza_sokol" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/tereza_sokol" height="70px" width="70px" align="left" alt="" />
 
 **Tereza Sokol**\
 Topics: Elm, Visualizations\
@@ -152,7 +152,7 @@ Topics: Elm, Visualizations\
 
 ### Framework Components
 
-*   [shrine.cr (⭐75)](https://github.com/jetrockets/shrine.cr) - File Attachment toolkit for Crystal applications. Heavily inspired by Shrine for Ruby
+*   [shrine.cr (⭐74)](https://github.com/jetrockets/shrine.cr) - File Attachment toolkit for Crystal applications. Heavily inspired by Shrine for Ruby
 
 ---
 

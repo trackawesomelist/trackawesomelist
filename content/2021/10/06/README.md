@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 06, 2021
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### GUI
 
-*   [Sequel Ace (⭐5.3k)](https://github.com/Sequel-Ace/Sequel-Ace) - a Mac database management application for working with MySQL databases.
+*   [Sequel Ace (⭐5.8k)](https://github.com/Sequel-Ace/Sequel-Ace) - a Mac database management application for working with MySQL databases.
 
 ## [3. Awesome K6](/content/grafana/awesome-k6/README.md)
 
@@ -28,31 +28,31 @@
 
 ### Projects Using Vue.js / Commercial Products
 
-*   [NocoDB (⭐36k)](https://github.com/nocodb/nocodb) - An opensource Airtable alternative.
+*   [NocoDB (⭐38k)](https://github.com/nocodb/nocodb) - An opensource Airtable alternative.
 
 ## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Image / Backend-Driven
 
-*   [Lottie (⭐889)](https://github.com/xvrh/lottie-flutter) <!--stargazers:xvrh/lottie-flutter--> - Use airbnb's popular [After Effects Animation library](https://airbnb.design/lottie/) by [xvrh (⭐889)](https://github.com/xvrh/lottie-flutter)
+*   [Lottie (⭐990)](https://github.com/xvrh/lottie-flutter) <!--stargazers:xvrh/lottie-flutter--> - Use airbnb's popular [After Effects Animation library](https://airbnb.design/lottie/) by [xvrh (⭐990)](https://github.com/xvrh/lottie-flutter)
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / System tools
 
-*   [bustd (⭐192)](https://github.com/vrmiguel/bustd) - Lightweight process killer daemon to handle out-of-memory scenarios on Linux. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/vrmiguel/bustd/build-and-test)](https://github.com/vrmiguel/bustd/actions?query=branch%3Amaster)
-*   [ouch (⭐1.4k)](https://github.com/ouch-org/ouch) - Painless compression and decompression on the command-line [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ouch-org/ouch/build-and-test)](https://github.com/ouch-org/ouch/actions?query=branch%3Amaster)
+*   [bustd (⭐199)](https://github.com/vrmiguel/bustd) - Lightweight process killer daemon to handle out-of-memory scenarios on Linux. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/vrmiguel/bustd/build-and-test)](https://github.com/vrmiguel/bustd/actions?query=branch%3Amaster)
+*   [ouch (⭐1.6k)](https://github.com/ouch-org/ouch) - Painless compression and decompression on the command-line [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ouch-org/ouch/build-and-test)](https://github.com/ouch-org/ouch/actions?query=branch%3Amaster)
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Mocky](https://designer.mocky.io/) - A simple web app to generate custom HTTP responses for mocking HTTP request. Also available as [open source (⭐1.9k)](https://github.com/julien-lafont/Mocky).
+*   [Mocky](https://designer.mocky.io/) - A simple web app to generate custom HTTP responses for mocking HTTP requests. Also available as [open source (⭐2k)](https://github.com/julien-lafont/Mocky).
 
 ### Miscellaneous
 
-*   [Carbon.now.sh](https://carbon.now.sh) - create and share code snippet in an aesthetic screenshot-like image format. Usually used to aesthetically share/show-off code snippet on Twitter or blog posts.
-*   [QuickType.io](https://quicktype.io/) - Quickly auto generate models/class/type/interface and serializers from JSON, schema, and GraphQL for working with data quickly & safely in any programming language. Convert JSON into gorgeous, typesafe code in any language.
+*   [Carbon.now.sh](https://carbon.now.sh) - create and share code snippets in an aesthetic screenshot-like image format. Usually used to aesthetically share/show off code snippets on Twitter or blog posts.
+*   [QuickType.io](https://quicktype.io/) - Quickly auto-generate models/class/type/interface and serializers from JSON, schema, and GraphQL for working with data quickly & safely in any programming language. Convert JSON into gorgeous, typesafe code in any language.
 *   [ray.so](https://ray.so/) - Create beautiful images of your code snippets.
 
 ## [8. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
@@ -79,13 +79,13 @@
 
 *   [IMSC HRM validator (⭐7)](https://github.com/sandflow/imscHRM)  - Validator for the IMSC Hypothetical Render Model (HRM), which constrains TTML document complexity
 *   [imscJS: IMSC/TTML/SMPTE-TT/EBU-TT-D renderer (⭐75)](https://github.com/sandflow/imscJS/)  - Renders IMSC/TTML/SMPTE-TT/EBU-TT-D subtitles and captions to HTML
-*   [ttconv: subtitle/caption format converter (⭐119)](https://github.com/sandflow/ttconv)  - Converts EBU STL, IMSC/TTML/SMPTE-TT/EBU-TT-D and 608/SCC into IMSC, WebVTT and SRT
+*   [ttconv: subtitle/caption format converter (⭐126)](https://github.com/sandflow/ttconv)  - Converts EBU STL, IMSC/TTML/SMPTE-TT/EBU-TT-D and 608/SCC into IMSC, WebVTT and SRT
 
 ## [12. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Streaming Library
 
-*   [YoMo (⭐1.4k)](https://github.com/yomorun/yomo) \[Go] - An open source Streaming Serverless Framework for building Low-latency Geo-distributed system. YoMo Built atop [QUIC Transport Protocol](https://en.wikipedia.org/wiki/QUIC) and Functional Reactive Programming interface.
+*   [YoMo (⭐1.5k)](https://github.com/yomorun/yomo) \[Go] - An open source Streaming Serverless Framework for building Low-latency Geo-distributed system. YoMo Built atop [QUIC Transport Protocol](https://en.wikipedia.org/wiki/QUIC) and Functional Reactive Programming interface.
 
 ## [13. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -253,6 +253,33 @@
   CORS: Unknown
 
 
+
+## [14. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### HTML and CSS / Spock Framework
+
+*   [HTML5 Canvas Notes for Professionals](https://goalkicker.com/HTML5CanvasBook/) - Compiled from StackOverflow documentation (PDF)
+*   [HTML5 Notes for Professionals](https://goalkicker.com/HTML5Book/) - Compiled from StackOverflow documentation (PDF)
+
+### JavaScript / Electron
+
+*   [Electron Succinctly, Syncfusion](https://www.syncfusion.com/succinctly-free-ebooks/electron-succinctly) (PDF, Kindle) (email address requested, not required)
+
+### JavaScript / React
+
+*   [How To Code in React.js](https://www.digitalocean.com/community/books/how-to-code-in-react-js-ebook) - Joe Morgan
+
+### JavaScript / Svelte
+
+*   [Svelte Tutorial](https://svelte.dev/tutorial/basics) - Svelte.dev
+
+### MongoDB / PicoLisp
+
+*   [Learning MongoDB](https://riptutorial.com/Download/mongodb.pdf) - Based on Unaffiliated  Stack Overflow Documentation (PDF)
+*   [MongoDB Koans (⭐178)](https://github.com/chicagoruby/MongoDB_Koans)
+*   [MongoDB Notes for Professionals](https://goalkicker.com/MongoDBBook/) - Compiled from StackOverflow Documentation (PDF)
+*   [MongoDB Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/mongodb) (PDF, Kindle) (email address *requested*, not required)
+*   [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/)
 
 ---
 

@@ -16,11 +16,11 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐504)](https://github.com/SimpleMachines/SMF2.1)) `BSD-3-Clause` `PHP`
+*   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐536)](https://github.com/SimpleMachines/SMF)) `BSD-3-Clause` `PHP`
 
 ### Software / Pastebins
 
-*   [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code (⭐153)](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python`
+*   [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code (⭐163)](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python`
 
 ## [3. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -32,16 +32,16 @@
 
 ### JSON
 
-*   [ObjectMapper (⭐9k)](https://github.com/tristanhimmelman/ObjectMapper) - JSON object mapper.
+*   [ObjectMapper (⭐9.1k)](https://github.com/tristanhimmelman/ObjectMapper) - JSON object mapper.
 
 ### System / Barcode
 
-*   [LaunchAtLogin (⭐1.3k)](https://github.com/sindresorhus/LaunchAtLogin) - Easily add 'Launch at Login' functionality to your sandboxed macOS app.
+*   [LaunchAtLogin (⭐1.4k)](https://github.com/sindresorhus/LaunchAtLogin) - Easily add 'Launch at Login' functionality to your sandboxed macOS app.
 
 ### Testing / Barcode
 
-*   [SnapshotTest (⭐43)](https://github.com/parski/SnapshotTest) - Snapshot testing tool for iOS and tvOS.
-*   [XCTest (⭐1k)](https://github.com/apple/swift-corelibs-xctest) - The XCTest Project, A Swift core library for providing unit test support.
+*   [SnapshotTest (⭐41)](https://github.com/parski/SnapshotTest) - Snapshot testing tool for iOS and tvOS.
+*   [XCTest (⭐1.1k)](https://github.com/apple/swift-corelibs-xctest) - The XCTest Project, A Swift core library for providing unit test support.
 
 ### UI / Barcode
 
@@ -51,7 +51,7 @@
 
 ### Assets
 
-*   [Sprockets (⭐889)](https://github.com/rails/sprockets) - Rack-based asset packaging system.
+*   [Sprockets (⭐905)](https://github.com/rails/sprockets) - Rack-based asset packaging system.
 
 ### Code Analysis and Metrics
 
@@ -67,7 +67,7 @@
 
 ### Music and Sound
 
-*   [Coltrane (⭐2.2k)](https://github.com/pedrozath/coltrane) - A music theory library with a command-line interface.
+*   [Coltrane (⭐2.3k)](https://github.com/pedrozath/coltrane) - A music theory library with a command-line interface.
 
 ### ORM/ODM
 
@@ -109,7 +109,7 @@
 
 ### Plex Scripts and Tools / Third Party Hosts
 
-*   [Kitana (⭐387)](https://github.com/pannal/Kitana) Kitana exposes your Plex plugin interfaces "to the outside world".
+*   [Kitana (⭐444)](https://github.com/pannal/Kitana) Kitana exposes your Plex plugin interfaces "to the outside world".
 
 ### Music / Third Party Hosts
 
@@ -153,7 +153,7 @@
 
 ### Bytecode Manipulation
 
-*   [Mixin (⭐1.1k)](https://github.com/SpongePowered/Mixin) - Manipulate bytecode at runtime using real Java code.
+*   [Mixin (⭐1.2k)](https://github.com/SpongePowered/Mixin) - Manipulate bytecode at runtime using real Java code.
 
 ## [12. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
@@ -211,7 +211,7 @@
 
 *   [EasyDokkaPlugin (⭐13)](https://github.com/Vorlonsoft/EasyDokkaPlugin) - Gradle script plugin to generate documentation by Dokka documentation engine for Java and Kotlin
 *   [GradleMavenPush (⭐21)](https://github.com/Vorlonsoft/GradleMavenPush) - Gradle script plugin to upload Gradle Artifacts to Maven repositories
-*   [sshoogr (⭐347)](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH.
+*   [sshoogr (⭐350)](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH.
 
 ## [15. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
@@ -222,14 +222,14 @@
 ### Samples
 
 *   [LunarG's Samples (⭐1.3k)](https://github.com/LunarG/VulkanSamples)
-*   [Vulkan Basic Graphics Samples (⭐21)](https://github.com/vcoda/basic-graphics-samples) - Collection of simple graphics samples that are written using Magma library.
+*   [Vulkan Basic Graphics Samples (⭐26)](https://github.com/vcoda/basic-graphics-samples) - Collection of simple graphics samples that are written using Magma library.
 
 ### Khronos
 
 *   Quick Reference Sheets
     *   [Vulkan 1.0 Quick Reference Sheets](https://www.khronos.org/registry/vulkan/specs/1.0/refguide/Vulkan-1.0-web.pdf)
     *   [Vulkan 1.1 Quick Reference Sheets](https://www.khronos.org/registry/vulkan/specs/1.1/refguide/Vulkan-1.1-web.pdf)
-*   [Conformance Tests (CTS) (⭐438)](https://github.com/KhronosGroup/Vulkan-CTS)
+*   [Conformance Tests (CTS) (⭐463)](https://github.com/KhronosGroup/Vulkan-CTS)
 *   Conferences and Presentations
     *   [GDC 2016 Presentations](https://www.khronos.org/developers/library/2016-gdc)
     *   [2016 UK Chapter: Moving to Vulkan](https://www.khronos.org/developers/library/2016-uk-chapter-moving-to-vulkan)

@@ -26,7 +26,7 @@
 
 ### Templates / Preferences
 
-*   [Starter Kit (⭐674)](https://github.com/KingWu/flutter_starter_kit) <!--stargazers:KingWu/flutter_starter_kit--> - App Store implementation to learn Bloc, RxDart, Sqflite, Fluro and Dio. by [King Wu](https://github.com/KingWu)
+*   [Starter Kit (⭐704)](https://github.com/KingWu/flutter_starter_kit) <!--stargazers:KingWu/flutter_starter_kit--> - App Store implementation to learn Bloc, RxDart, Sqflite, Fluro and Dio. by [King Wu](https://github.com/KingWu)
 
 ### Presentation material / Game Engine resources
 
@@ -61,13 +61,13 @@
 
 ### Payment / Barcode
 
-*   [MFCard (⭐361)](https://github.com/MobileFirstInc/MFCard) - Easily integrate Credit Card payments in iOS App.
+*   [MFCard (⭐363)](https://github.com/MobileFirstInc/MFCard) - Easily integrate Credit Card payments in iOS App.
 
 ## [8. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Editor Plugins
 
-*   [vim-cljfmt (Vim) (⭐152)](https://github.com/venantius/vim-cljfmt)
+*   [vim-cljfmt (Vim) (⭐151)](https://github.com/venantius/vim-cljfmt)
 *   [vim-eastwood (Vim) (⭐85)](https://github.com/venantius/vim-eastwood)
 
 ## [9. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
@@ -109,7 +109,7 @@
 ### Supported Distributions / Fedora Remix for WSL
 
 *   [Fedora Remix for WSL Homepage](https://www.whitewaterfoundry.com/fedora-remix-for-wsl/)
-*   [Fedora Remix for WSL GitHub (⭐546)](https://github.com/WhitewaterFoundry/WSLFedoraRemix) ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [Fedora Remix for WSL GitHub (⭐583)](https://github.com/WhitewaterFoundry/WSLFedoraRemix) ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ### Supported Distributions / Pengwin Enterprise
 

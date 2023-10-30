@@ -10,13 +10,13 @@
 
 ### Text / Barcode
 
-*   [Notepad (⭐826)](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
+*   [Notepad (⭐850)](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
 
 ## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Geolocation
 
-*   [geohax (⭐11)](https://github.com/evuez/geohax) - Geohash encoding and decoding with neighbors finder.
+*   [geohax (⭐10)](https://github.com/evuez/geohax) - Geohash encoding and decoding with neighbors finder.
 
 ## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -42,7 +42,7 @@
 
 ### For Electron / Other
 
-*   [electron-about-window (⭐403)](https://github.com/rhysd/electron-about-window) - 'About This App' window.
+*   [electron-about-window (⭐405)](https://github.com/rhysd/electron-about-window) - 'About This App' window.
 
 ## [6. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 

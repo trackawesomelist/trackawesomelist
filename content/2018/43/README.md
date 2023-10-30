@@ -35,7 +35,7 @@
 
 ### UI
 
-*   [Snaplist (⭐416)](https://github.com/ariedov/flutter_snaplist) <!--stargazers:ariedov/flutter_snaplist--> - Create snappable list views by [David Leibovych](https://github.com/ariedov)
+*   [Snaplist (⭐438)](https://github.com/ariedov/flutter_snaplist) <!--stargazers:ariedov/flutter_snaplist--> - Create snappable list views by [David Leibovych](https://github.com/ariedov)
 
 ## [4. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
@@ -90,7 +90,7 @@ RewriteRule ^robots.txt - [L]
 
 ### Software / Screencasting
 
-*   [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool. ([GNU GPLv3 (⭐22k)](https://github.com/ShareX/ShareX/blob/master/LICENSE.txt))
+*   [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool. ([GNU GPLv3 (⭐25k)](https://github.com/ShareX/ShareX/blob/master/LICENSE.txt))
 
 ## [10. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/week/README.md)
 
@@ -175,17 +175,17 @@ RewriteRule ^robots.txt - [L]
 
 ### Command-Line Productivity
 
-*   [fselect (⭐3.4k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
-*   [loop (⭐614)](https://github.com/Miserlou/Loop) - Write and control complex loops with as one-liners
-*   [xsv (⭐9.1k)](https://github.com/BurntSushi/xsv) - a fast CSV command line toolkit written in Rust
+*   [fselect (⭐3.5k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
+*   [loop (⭐636)](https://github.com/Miserlou/Loop) - Write and control complex loops with as one-liners
+*   [xsv (⭐9.4k)](https://github.com/BurntSushi/xsv) - a fast CSV command line toolkit written in Rust
 
 ### Downloading and Serving / Directory Navigation
 
-*   [shell2http (⭐1k)](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control
+*   [shell2http (⭐1.1k)](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control
 
 ### Applications / Directory Navigation
 
-*   [carbon-now-cli (⭐5.4k)](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
+*   [carbon-now-cli (⭐5.5k)](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 
 ### Games / Directory Navigation
 
@@ -235,7 +235,7 @@ RewriteRule ^robots.txt - [L]
 
 ### Utilities / Productivity
 
-*   [Z (⭐15k)](https://github.com/rupa/z) - Powerful way to navigate easily by typing only a string of directory name in terminal instead of typing exact location of director.
+*   [Z (⭐16k)](https://github.com/rupa/z) - Powerful way to navigate easily by typing only a string of directory name in terminal instead of typing exact location of director.
 
 ## [18. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
@@ -339,11 +339,11 @@ RewriteRule ^robots.txt - [L]
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [ml5 (⭐6k)](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web!
+*   [ml5 (⭐6.2k)](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web!
 
 ### Python / Reinforcement Learning
 
-*   [Coach (⭐2.2k)](https://github.com/NervanaSystems/coach) - Reinforcement Learning Coach by Intel® AI Lab enables easy experimentation with state of the art Reinforcement Learning algorithms
+*   [Coach (⭐2.3k)](https://github.com/NervanaSystems/coach) - Reinforcement Learning Coach by Intel® AI Lab enables easy experimentation with state of the art Reinforcement Learning algorithms
 
 ## [29. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
@@ -438,13 +438,31 @@ RewriteRule ^robots.txt - [L]
 
 *   [Keyboard Visibility Event (⭐15)](https://github.com/viniciusmo/keyboard-visibility-event-android/) - A DSL to handle soft keyboard visibility change event.
 
-## [31. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [31. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Eiffel / Non-X86
+
+*   [A Functional Pattern System for Object-Oriented Design](http://homepages.mcs.vuw.ac.nz/~tk/fps/fps-sans-escher.pdf) - Thomas Kuhne (PDF)
+
+### Java / Bootstrap
+
+*   [Object-Oriented Programming in JavaTM Textbook](http://computing.southern.edu/halterman/OOPJ/) - Rick Halterman (PDF per Chapter)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Tiny Python 3.6 Notebook (⭐1.4k)](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - Matt Harrison (3.6)
+
+### Standard ML / Play Scala
+
+*   [The Definition of Standard ML (Revised)](http://sml-family.org/sml97-defn.pdf) - SMLFamily GitHub project (PDF)
+
+## [32. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Misc / Firmwares for ESP based Devices
 
 *   [snowboy2mqtt (⭐6)](https://github.com/hobbyquaker/snowboy2mqtt) - Publish MQTT Messages on Snowboy Hotword Detection.
 
-## [32. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
+## [33. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
 
 ### Communities / Other
 
@@ -456,13 +474,13 @@ RewriteRule ^robots.txt - [L]
 
     A podcast hosted by [Guy Raz](https://twitter.com/guyraz) where startup founders tell their story.
 
-## [33. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [34. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Libraries / Drivers
 
 *   [mrpierrot/cycle-net ★0 (⭐2)](https://github.com/mrpierrot/cycle-net) - A Cycle.js driver for Node.js HTTP(S)/WS(S)/Socket.io server
 
-## [34. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [35. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Online services
 
@@ -472,13 +490,13 @@ RewriteRule ^robots.txt - [L]
 
 *   [dpxdt (⭐1.4k)](https://github.com/bslatkin/dpxdt) - End-to-end testing with Python.
 
-## [35. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [36. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [How To Test On Real iOS Devices With Appium, Part 1](https://appiumpro.com/editions/40)
 
-## [36. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [37. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -486,9 +504,7 @@ RewriteRule ^robots.txt - [L]
 
 ### In Portuguese
 
-*   [Elemencast](https://elemencast.github.io) - A proposta é levar ao ouvinte drops de conteúdo diversos a respeito do universo Front-End, NodeJs, Programação Funcional etc.
 *   [Galera do Rau](http://galeradorau.com.br/category/podcast/galera-do-rau/) - Quatro professores, extremamente nerds, divertidos e com muita história pra contar.
-*   [Like a Boss](https://www.likeaboss.com.br) - O podcast Like a Boss é um podcast para empreendedores. Líderes e fundadores de startups e empresas de sucesso sentam com os dois hosts do programa.
 *   [Naruhodo!](https://www.b9.com.br/podcasts/naruhodo/) - O Podcast tem uma proposta de explicar diversos temas, usando ciência, filosofia, história entre outros para embasar as respostas.
 *   [Rapadura Cast](https://cinemacomrapadura.com.br/cat/rapaduracast-podcast/) - Podcast da galera do Cinema com rapadura, considerado hoje referência sobre cultura pop no Brasil.
 *   [Rede Geek](http://www.redegeek.com.br/podcast/) - Podcast destinado ao público geek sobre diversos assuntos como, tecnologia, ciência, história e outros.
@@ -498,33 +514,33 @@ RewriteRule ^robots.txt - [L]
 *   [Developer Muslim](https://devmuslim.id/) - Jurnal seorang developer muslim
 *   [Teman Macet](http://temanmacet.com/) - Tentang programming dan industri informatika.
 
-## [37. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [38. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Web / MIT
+### Web / Apache License
 
-*   [aws (⭐114)](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
+*   [aws (⭐116)](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
 
-### Algorithms, Containers and Protocols / MIT
+### Algorithms, Containers and Protocols / Apache License
 
 *   [booch95](https://sourceforge.net/projects/booch95/) - The Ada 95 Booch components are a port of Grady Booch's C++ components.
 
-### Networking and Communication Middleware / MIT
+### Networking and Communication Middleware / Apache License
 
 *   [anet](https://www.codelabs.ch/anet/) - Anet is a networking library for the Ada programming language.
 
-## [38. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
+## [39. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
 
 ### Learning and MOOCs
 
 *   [Low-Resource Eclipse Attacks on Ethereum’s Peer-to-Peer Network](https://www.cs.bu.edu/\~goldbe/projects/eclipseEth.pdf)
 
-## [39. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [40. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Tools / Presentations
 
 *   [gitpitch (⭐5.5k)](https://github.com/gitpitch/gitpitch/) - Markdown Presentations For Everyone on GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs. ![Globe](https://img.icons8.com/color/24/globe.png "Globe")
 
-## [40. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [41. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Visual Programming Languages
 
@@ -542,17 +558,17 @@ RewriteRule ^robots.txt - [L]
 
 *   [Linear Interpolation](https://mattdesl.svbtle.com/linear-interpolation) - Introduction to linear interpolation (also known as mix/lerp).
 
-## [41. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [42. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Articles about Data
 
 *   [Creating a Default Record When a belongsTo Request Errors](https://shipshape.io/blog/ember-data-belongs-to-find-or-create/)
 
-## [42. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [43. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Non-deterministic, logic programming
 
-*   [Screamer (⭐209)](https://github.com/nikodemus/screamer) - augment Common
+*   [Screamer (⭐216)](https://github.com/nikodemus/screamer) - augment Common
     Lisp with practically all of the functionality of both Prolog and
     constraint logic programming
     languages. [Blog post](https://chriskohlhepp.wordpress.com/reasoning-systems/specification-driven-programming-in-common-lisp/)
@@ -561,9 +577,9 @@ RewriteRule ^robots.txt - [L]
 
 ### Data validation / Third-party APIs
 
-*   [clavier (⭐16)](https://github.com/mmontone/clavier) - General purpose validation library for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [clavier (⭐17)](https://github.com/mmontone/clavier) - General purpose validation library for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
-## [43. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [44. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Tutorials
 
@@ -574,83 +590,77 @@ RewriteRule ^robots.txt - [L]
 
 *   [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/)
 
-## [44. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+## [45. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
 ### Europe / Ukraine 🇺🇦
 
 ### Kyiv
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/shvaikalesh" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/shvaikalesh" height="70px" width="70px" align="left" alt="" />
 
 **Aleksey Shvayka**\
 Topics: Browsers, Web Standards, Open Source, Front End, Smalltalk\
 [https://twitter.com/shvaikalesh\_](https://twitter.com/shvaikalesh)
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/listochkin" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/listochkin" height="70px" width="70px" align="left" alt="" />
 
 **Andrey Listochkin**\
 Topics: Rust, JavaScript, Skills, Architecture\
 <https://twitter.com/listochkin>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/eagleeye_s" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/eagleeye_s" height="70px" width="70px" align="left" alt="" />
 
 **Andrii Shumada**\
 Topics: JavaScript, Node.js, Streams\
 <https://twitter.com/eagleeye_s>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/SilentImp" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/SilentImp" height="70px" width="70px" align="left" alt="" />
 
 **Anton Nemtsev**\
 Topics: HTML, CSS, Web Standards\
 <https://twitter.com/SilentImp>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/yavorsky_" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/yavorsky_" height="70px" width="70px" align="left" alt="" />
 
 **Artem Yavorsky**\
 Topics: Babel, ECMAScript, Compilers\
 <https://twitter.com/yavorsky_>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/roman01la" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/roman01la" height="70px" width="70px" align="left" alt="" />
 
 **Roman Liutikov**\
 Topics: ClojureScript, React, Compilers\
 <https://twitter.com/roman01la>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/tshemsedinov" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/tshemsedinov" height="70px" width="70px" align="left" alt="" />
 
 **Timur Shemsedinov**\
 Topics: Node.js, Programming, JavaScript, Highload\
 <https://twitter.com/tshemsedinov>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mourner" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/mourner" height="70px" width="70px" align="left" alt="" />
 
 **Vladimir Agafonkin**\
 Topics: Maps, Algorithms\
 <https://twitter.com/mourner>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/akella" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/akella" height="70px" width="70px" align="left" alt="" />
 
 **Yuri Artyukh**\
 Topics: HTML, CSS, JavaScript, WebGL\
 <https://twitter.com/akella>
 
-## [45. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
+## [46. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
 
 ### Boxes
 
 *   [Cloudsmith](https://cloudsmith.io) - A fully managed package management SaaS with support for Vagrant repositories (and many others).
 
-## [46. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
-
-### Apps
-
-*   [3Box](https://3box.io) - Create and manage your Ethereum Profile, and your personal data. Use the 3box-js library to integrate profiles into your dapp. [Source (⭐416)](https://github.com/uport-project/3box)
-
 ## [47. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Regular Expression
 
-*   [CTRE (⭐2.8k)](https://github.com/hanickadot/compile-time-regular-expressions) - A Compile time PCRE (almost) compatible regular expression matcher. \[MIT]
+*   [CTRE (⭐3k)](https://github.com/hanickadot/compile-time-regular-expressions) - A Compile time PCRE (almost) compatible regular expression matcher. \[MIT]
 
 ## [48. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -662,13 +672,13 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Extensions
 
-*   [next-mdx-blog (⭐69)](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project
+*   [next-mdx-blog (⭐71)](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project
 
 ## [50. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### CLI
 
-*   [RunInfoBuilder (⭐40)](https://github.com/rushfive/RunInfoBuilder) - A unique command line parser, utilizing object trees for commands.
+*   [RunInfoBuilder (⭐41)](https://github.com/rushfive/RunInfoBuilder) - A unique command line parser, utilizing object trees for commands.
 
 ### Machine Learning and Data Science
 
@@ -729,7 +739,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Xamarin.Forms
 
-*   [Sharpnado.Presentation.Forms ★28 (⭐600)](https://github.com/roubachof/Sharpnado.Presentation.Forms) - HorizontalListView, TaskViewLoader, and Paginator.
+*   [Sharpnado.Presentation.Forms ★28 (⭐598)](https://github.com/roubachof/Sharpnado.Presentation.Forms) - HorizontalListView, TaskViewLoader, and Paginator.
 
 ## [56. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -747,7 +757,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Standalone / Hash functions
 
-*   [sops (⭐11k)](https://github.com/mozilla/sops) - sops is an editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault and PGP.
+*   [sops (⭐13k)](https://github.com/mozilla/sops) - sops is an editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault and PGP.
 
 ### Java / Git
 
@@ -769,15 +779,15 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐504)](https://github.com/SimpleMachines/SMF2.1)) `BSD-3-Clause` `PHP`
-
-### Software / Media Streaming - Video Streaming
-
-*   [Zoneminder](https://www.zoneminder.com/) - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras. ([Source Code (⭐4.2k)](https://github.com/ZoneMinder/ZoneMinder)) `GPL-2.0` `PHP`
+*   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐536)](https://github.com/SimpleMachines/SMF)) `BSD-3-Clause` `PHP`
 
 ### Software / Pastebins
 
-*   [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code (⭐153)](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python`
+*   [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code (⭐163)](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python`
+
+### Software / Video Surveillance
+
+*   [Zoneminder](https://www.zoneminder.com/) - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras. ([Source Code (⭐4.4k)](https://github.com/ZoneMinder/ZoneMinder)) `GPL-2.0` `PHP/deb`
 
 ## [62. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -793,40 +803,40 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### JSON
 
-*   [ObjectMapper (⭐9k)](https://github.com/tristanhimmelman/ObjectMapper) - JSON object mapper.
+*   [ObjectMapper (⭐9.1k)](https://github.com/tristanhimmelman/ObjectMapper) - JSON object mapper.
 
 ### Multi Database
 
-*   [PersistenceKit (⭐150)](https://github.com/Teknasyon-Teknoloji/PersistenceKit) - Store and retrieve Codable objects to various persistence layers, in a couple lines of code!
+*   [PersistenceKit (⭐155)](https://github.com/Teknasyon-Teknoloji/PersistenceKit) - Store and retrieve Codable objects to various persistence layers, in a couple lines of code!
 
 ### Images / Barcode
 
-*   [Rough (⭐97)](https://github.com/bakhtiyork/Rough) - Rough lets you draw in a sketchy, hand-drawn-like, style.
+*   [Rough (⭐99)](https://github.com/bakhtiyork/Rough) - Rough lets you draw in a sketchy, hand-drawn-like, style.
 
 ### System / Barcode
 
-*   [LaunchAtLogin (⭐1.3k)](https://github.com/sindresorhus/LaunchAtLogin) - Easily add 'Launch at Login' functionality to your sandboxed macOS app.
+*   [LaunchAtLogin (⭐1.4k)](https://github.com/sindresorhus/LaunchAtLogin) - Easily add 'Launch at Login' functionality to your sandboxed macOS app.
 
 ### Testing / Barcode
 
-*   [SnapshotTest (⭐43)](https://github.com/parski/SnapshotTest) - Snapshot testing tool for iOS and tvOS.
-*   [XCTest (⭐1k)](https://github.com/apple/swift-corelibs-xctest) - The XCTest Project, A Swift core library for providing unit test support.
+*   [SnapshotTest (⭐41)](https://github.com/parski/SnapshotTest) - Snapshot testing tool for iOS and tvOS.
+*   [XCTest (⭐1.1k)](https://github.com/apple/swift-corelibs-xctest) - The XCTest Project, A Swift core library for providing unit test support.
 
 ### UI / Barcode
 
-*   [CircularProgress (⭐528)](https://github.com/sindresorhus/CircularProgress) - Circular progress indicator for your macOS app.
-*   [DockProgress (⭐1k)](https://github.com/sindresorhus/DockProgress) - Show progress in your macOS app's Dock icon.
+*   [CircularProgress (⭐545)](https://github.com/sindresorhus/CircularProgress) - Circular progress indicator for your macOS app.
+*   [DockProgress (⭐1.1k)](https://github.com/sindresorhus/DockProgress) - Show progress in your macOS app's Dock icon.
 *   [Preferences (⭐1.3k)](https://github.com/sindresorhus/Preferences) - Add a preferences window to your macOS app in minutes.
 
 ### Walkthrough / Barcode
 
-*   [OnboardKit (⭐487)](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app.
+*   [OnboardKit (⭐508)](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app.
 
 ## [64. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Assets
 
-*   [Sprockets (⭐889)](https://github.com/rails/sprockets) - Rack-based asset packaging system.
+*   [Sprockets (⭐905)](https://github.com/rails/sprockets) - Rack-based asset packaging system.
 
 ### Code Analysis and Metrics
 
@@ -834,7 +844,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Dashboards
 
-*   [Blazer (⭐3.6k)](https://github.com/ankane/blazer) - Simple data viewer using only SQL. Output to table, chart, and maps.
+*   [Blazer (⭐3.7k)](https://github.com/ankane/blazer) - Simple data viewer using only SQL. Output to table, chart, and maps.
 
 ### Email
 
@@ -850,12 +860,12 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Measurements
 
-*   [Measured (⭐274)](https://github.com/Shopify/measured) - Wrapper objects which encapsulate measurements and their associated units in Ruby.
-*   [Ruby Units (⭐450)](https://github.com/olbrich/ruby-units) - Provides classes and methods to perform unit math and conversions.
+*   [Measured (⭐276)](https://github.com/Shopify/measured) - Wrapper objects which encapsulate measurements and their associated units in Ruby.
+*   [Ruby Units (⭐498)](https://github.com/olbrich/ruby-units) - Provides classes and methods to perform unit math and conversions.
 
 ### Music and Sound
 
-*   [Coltrane (⭐2.2k)](https://github.com/pedrozath/coltrane) - A music theory library with a command-line interface.
+*   [Coltrane (⭐2.3k)](https://github.com/pedrozath/coltrane) - A music theory library with a command-line interface.
 
 ### ORM/ODM
 
@@ -942,11 +952,11 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Tracker Proxies / Public Trackers
 
-*   [Jackett (⭐8.1k)](https://github.com/Jackett/Jackett) API Support for your favorite torrent trackers.
+*   [Jackett (⭐9.3k)](https://github.com/Jackett/Jackett) API Support for your favorite torrent trackers.
 
 ### Torrent Clients / Public Trackers
 
-*   [peerflix (⭐6k)](https://github.com/mafintosh/peerflix) Streaming torrent client for node.js
+*   [peerflix (⭐6.1k)](https://github.com/mafintosh/peerflix) Streaming torrent client for node.js
 
 ### Torrent Clients / WebTorrent Clients
 
@@ -968,16 +978,16 @@ Topics: HTML, CSS, JavaScript, WebGL\
 ### DDL Tools / Free Indexers
 
 *   [FilePursuit](https://filepursuit.com) :star2: FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
-*   [annie (⭐19k)](https://github.com/iawia002/annie) Fast, simple and clean video downloader
+*   [annie (⭐21k)](https://github.com/iawia002/annie) Fast, simple and clean video downloader
 *   [aria2](https://aria2.github.io/) a lightweight multi-protocol & multi-source command-line download utility.
-*   [ripme (⭐3.2k)](https://github.com/RipMeApp/ripme) A album/video downloader with support for over 80 sites
-*   [rdcli (⭐103)](https://github.com/ston3o/rdcli) The simple way to download and unrestrict DDL files, torrents and magnets using Real-Debrid
-*   [get\_iplayer (⭐1.7k)](https://github.com/get-iplayer/get_iplayer) A utility for downloading TV and radio programmes from BBC iPlayer
+*   [ripme (⭐3.4k)](https://github.com/RipMeApp/ripme) A album/video downloader with support for over 80 sites
+*   [rdcli (⭐114)](https://github.com/ston3o/rdcli) The simple way to download and unrestrict DDL files, torrents and magnets using Real-Debrid
+*   [get\_iplayer (⭐1.8k)](https://github.com/get-iplayer/get_iplayer) A utility for downloading TV and radio programmes from BBC iPlayer
 *   [curl](https://en.wikipedia.org/wiki/CURL) `curl` is a command-line tool for downloading data using a variety of protocols. Easily installable on most operating systems.
 
 ### FTP Indexers / Free Indexers
 
-*   [Davos (⭐131)](https://github.com/linuxserver/davos) Web-based FTP automation for Linux servers.
+*   [Davos (⭐144)](https://github.com/linuxserver/davos) Web-based FTP automation for Linux servers.
 
 ### DDL Search Engines and Crawlers / Free Indexers
 
@@ -1002,7 +1012,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Plex Scripts and Tools / Third Party Hosts
 
-*   [Kitana (⭐387)](https://github.com/pannal/Kitana) Kitana exposes your Plex plugin interfaces "to the outside world".
+*   [Kitana (⭐444)](https://github.com/pannal/Kitana) Kitana exposes your Plex plugin interfaces "to the outside world".
 
 ### Music / Third Party Hosts
 
@@ -1034,7 +1044,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 *   [Ubooquity](http://vaemendis.net/ubooquity/) Ubooquity is a free home server for your comics and ebooks library
 *   [COPS (⭐1.3k)](https://github.com/seblucas/cops) Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, etc.)
-*   [Calibre-Web (⭐7.7k)](https://github.com/janeczku/calibre-web) Web app for browsing, reading and downloading eBooks stored in a Calibre database
+*   [Calibre-Web (⭐9.3k)](https://github.com/janeczku/calibre-web) Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
 ### Audiobooks / Third Party Hosts
 
@@ -1064,7 +1074,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Bytecode Manipulation
 
-*   [Mixin (⭐1.1k)](https://github.com/SpongePowered/Mixin) - Manipulate bytecode at runtime using real Java code.
+*   [Mixin (⭐1.2k)](https://github.com/SpongePowered/Mixin) - Manipulate bytecode at runtime using real Java code.
 
 ## [71. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
@@ -1074,11 +1084,11 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Contents / Server
 
-*   [Greenplum Database (⭐5.6k)](https://github.com/greenplum-db/gpdb) - Open source fork of PostgreSQL for large data volumes.
+*   [Greenplum Database (⭐5.8k)](https://github.com/greenplum-db/gpdb) - Open source fork of PostgreSQL for large data volumes.
 
 ### Contents / Utilities
 
-*   [pgbadger (⭐2.9k)](https://github.com/darold/pgbadger) - Fast PostgreSQL Log Analyzer.
+*   [pgbadger (⭐3k)](https://github.com/darold/pgbadger) - Fast PostgreSQL Log Analyzer.
 *   [sqlcheck (⭐2.3k)](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns. Such anti-patterns often slow down queries. Addressing them will, therefore, help accelerate queries.
 
 ## [72. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
@@ -1142,7 +1152,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 *   [EasyDokkaPlugin (⭐13)](https://github.com/Vorlonsoft/EasyDokkaPlugin) - Gradle script plugin to generate documentation by Dokka documentation engine for Java and Kotlin
 *   [GradleMavenPush (⭐21)](https://github.com/Vorlonsoft/GradleMavenPush) - Gradle script plugin to upload Gradle Artifacts to Maven repositories
-*   [sshoogr (⭐347)](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH.
+*   [sshoogr (⭐350)](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH.
 
 ## [74. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
@@ -1153,14 +1163,14 @@ Topics: HTML, CSS, JavaScript, WebGL\
 ### Samples
 
 *   [LunarG's Samples (⭐1.3k)](https://github.com/LunarG/VulkanSamples)
-*   [Vulkan Basic Graphics Samples (⭐21)](https://github.com/vcoda/basic-graphics-samples) - Collection of simple graphics samples that are written using Magma library.
+*   [Vulkan Basic Graphics Samples (⭐26)](https://github.com/vcoda/basic-graphics-samples) - Collection of simple graphics samples that are written using Magma library.
 
 ### Khronos
 
 *   Quick Reference Sheets
     *   [Vulkan 1.0 Quick Reference Sheets](https://www.khronos.org/registry/vulkan/specs/1.0/refguide/Vulkan-1.0-web.pdf)
     *   [Vulkan 1.1 Quick Reference Sheets](https://www.khronos.org/registry/vulkan/specs/1.1/refguide/Vulkan-1.1-web.pdf)
-*   [Conformance Tests (CTS) (⭐438)](https://github.com/KhronosGroup/Vulkan-CTS)
+*   [Conformance Tests (CTS) (⭐463)](https://github.com/KhronosGroup/Vulkan-CTS)
 *   Conferences and Presentations
     *   [GDC 2016 Presentations](https://www.khronos.org/developers/library/2016-gdc)
     *   [2016 UK Chapter: Moving to Vulkan](https://www.khronos.org/developers/library/2016-uk-chapter-moving-to-vulkan)

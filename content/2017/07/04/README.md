@@ -6,11 +6,11 @@
 
 
 
-## [1. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
+## [1. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
-### Alternatives / Music
+### Software / Audio
 
-*   [Libre.fm](https://libre.fm/) - Stream, download, remix, and share music for free.
+*   [Libre.fm](https://libre.fm/) - Stream, download, remix, and share music for free. ([GNU AGPLv3](https://git.gnu.io/gnu/gnu-fm/blob/master/COPYING))
 
 ## [2. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Writing, running scripts / Third-party APIs
 
-*   👍 [Roswell (⭐1.6k)](https://github.com/roswell/roswell#scripting-with-roswell) -
+*   👍 [Roswell (⭐1.7k)](https://github.com/roswell/roswell#scripting-with-roswell) -
     a lisp installer and scripting environment (helper, launcher,
     installer) and more. [MIT](https://opensource.org/licenses/MIT).
 
@@ -50,7 +50,7 @@
 ### Example Projects
 
 *   [Red Hat Single Sign-On Labs (⭐13)](https://github.com/RedHatWorkshops/red-hat-sso)
-*   [Spring Boot Keycloak Tutorial (⭐192)](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial)
+*   [Spring Boot Keycloak Tutorial (⭐197)](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial)
 
 ## [7. Inspire](/content/noahbuscher/inspire/README.md)
 

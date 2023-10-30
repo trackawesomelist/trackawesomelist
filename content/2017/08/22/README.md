@@ -26,7 +26,7 @@
 
 ### Frameworks, Libraries and Tools / Mail
 
-*   [StrongGrid (⭐152)](https://github.com/Jericho/StrongGrid) - Client for SendGrid's v3 API. Not only allows you to send emails, but also allows you to bulk import contacts, manage lists and segments, create custom fields for your lists, etc. Also includes a parser for SendGrid Webhooks.
+*   [StrongGrid (⭐165)](https://github.com/Jericho/StrongGrid) - Client for SendGrid's v3 API. Not only allows you to send emails, but also allows you to bulk import contacts, manage lists and segments, create custom fields for your lists, etc. Also includes a parser for SendGrid Webhooks.
 
 ## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -38,11 +38,10 @@
 *   [bower-rails (⭐1.5k)](https://github.com/rharriso/bower-rails) - Bower support for Rails projects.
 *   [Rails Assets](https://rails-assets.org) - Bundler to Bower proxy.
 *   [Torba (⭐166)](https://github.com/torba-rb/torba) - Bower-less bundler for Sprockets.
-*   [Webpacker (⭐5.3k)](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScript modules in Rails.
 
 ### Profiler and Optimization
 
-*   [batch-loader (⭐972)](https://github.com/exaspark/batch-loader) – A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
+*   [batch-loader (⭐987)](https://github.com/exaspark/batch-loader) – A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
 
 ## [5. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
@@ -54,7 +53,7 @@
 
 ### Web / Scanning / Pentesting
 
-*   [OWASP Testing Checklist v4](https://www.owasp.org/index.php/Testing_Checklist) -  List of some controls to test during a web vulnerability assessment. Markdown version may be found [here (⭐8)](https://github.com/amocrenco/owasp-testing-checklist-v4-markdown/blob/master/README.md).
+*   [OWASP Testing Checklist v4](https://www.owasp.org/index.php/Testing_Checklist) -  List of some controls to test during a web vulnerability assessment. Markdown version may be found [here (⭐10)](https://github.com/amocrenco/owasp-testing-checklist-v4-markdown/blob/master/README.md).
 
 ## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -64,11 +63,11 @@
 
 ### Examples and funny stuff
 
-*   [exercism-crystal (⭐67)](https://github.com/exercism/crystal) - Exercism exercises
+*   [exercism-crystal (⭐73)](https://github.com/exercism/crystal) - Exercism exercises
 
 ### Game Development
 
-*   [CrSFML (⭐330)](https://github.com/oprypin/crsfml) - Bindings to [SFML](https://www.sfml-dev.org/) multimedia/game library
+*   [CrSFML (⭐335)](https://github.com/oprypin/crsfml) - Bindings to [SFML](https://www.sfml-dev.org/) multimedia/game library
 
 ### HTTP
 
@@ -76,21 +75,20 @@
 
 ### Image processing
 
-*   [stumpy\_png (⭐99)](https://github.com/stumpycr/stumpy_png) - Read and write PNG images
+*   [stumpy\_png (⭐103)](https://github.com/stumpycr/stumpy_png) - Read and write PNG images
 
 ### Network Protocols
 
-*   [jwt (⭐199)](https://github.com/crystal-community/jwt) - Implementation of JWT (JSON Web Token)
-*   [msgpack-crystal (⭐128)](https://github.com/crystal-community/msgpack-crystal) - MessagePack library
+*   [jwt (⭐201)](https://github.com/crystal-community/jwt) - Implementation of JWT (JSON Web Token)
+*   [msgpack-crystal (⭐132)](https://github.com/crystal-community/msgpack-crystal) - MessagePack library
 
 ### Package Management
 
-*   [shards (⭐733)](https://github.com/crystal-lang/shards) - Dependency manager for the Crystal
+*   [shards (⭐745)](https://github.com/crystal-lang/shards) - Dependency manager for the Crystal
 
 ### Web Frameworks
 
 *   [kemal (⭐3.5k)](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
-*   [Crystal weekly newsletters](http://crystalweekly.com/)
 *   [Reddit](https://www.reddit.com/r/crystal_programming/)
 *   [Stackoverflow](https://stackoverflow.com/tags/crystal-lang/info)
 
@@ -100,7 +98,7 @@
 
 ### Official Documentation Translations
 
-*   [icr (⭐493)](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
+*   [icr (⭐498)](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
 
 ### Editor Plugins
 
@@ -109,10 +107,10 @@
 *   TextMate
     *   [Crystal.tmbundle (⭐18)](https://github.com/crystal-lang-tools/Crystal.tmbundle) - Crystal syntax highlighting, compile, format command, snippets
 *   Vim
-    *   [vim-crystal (⭐396)](https://github.com/vim-crystal/vim-crystal) - Vim filetype support for Crystal
+    *   [vim-crystal (⭐407)](https://github.com/vim-crystal/vim-crystal) - Vim filetype support for Crystal
     *   [vim-slang (⭐12)](https://github.com/elorest/vim-slang) - Vim filetype support for Slang Templating Engine
 *   Visual Studio Code
-    *   [vscode-crystal-lang (⭐249)](https://github.com/crystal-lang-tools/vscode-crystal-lang) - Formatter, linter and syntax highlighting for `cr` and `ecr` files
+    *   [vscode-crystal-lang (⭐258)](https://github.com/crystal-lang-tools/vscode-crystal-lang) - Formatter, linter and syntax highlighting for `cr` and `ecr` files
 
 ---
 

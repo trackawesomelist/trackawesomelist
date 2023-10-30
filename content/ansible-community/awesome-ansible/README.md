@@ -2,7 +2,7 @@
 
 Awesome Ansible List
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ansible-community/awesome-ansible/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ansible-community/awesome-ansible](https://github.com/ansible-community/awesome-ansible) · ⭐ 958 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ansible-community/awesome-ansible/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ansible-community/awesome-ansible](https://github.com/ansible-community/awesome-ansible) · ⭐ 998 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/ansible-community/awesome-ansible/week/README.md) / [Overview](/content/ansible-community/awesome-ansible/readme/README.md) ]
 
@@ -23,7 +23,7 @@ Awesome Ansible List
 
 ### Tools
 
-*   [Automation Controller](https://www.ansible.com/products/controller) - Automation Controller (formally Ansible Tower) by Red Hat helps you scale IT automation, manage complex deployments and speed productivity. Extend the power of Ansible to your entire team.
+*   [Automation Controller](https://www.ansible.com/products/controller) - Automation Controller (formerly Ansible Tower) by Red Hat helps you scale IT automation, manage complex deployments and speed productivity. Extend the power of Ansible to your entire team.
 *   [Packer Ansible Provisioner](https://www.packer.io/plugins/provisioners/ansible/ansible-local) - This Provisioner can be used to automate VM Image creation via Packer with Ansible.
 
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
@@ -42,7 +42,7 @@ Awesome Ansible List
 
 ### Editor and IDE Integrations / French
 
-*   [Ansible Language Server (⭐198)](https://github.com/ansible/ansible-language-server) - Language Server that adds support for Ansible, to compatible Editors.
+*   [Ansible Language Server (⭐212)](https://github.com/ansible/ansible-language-server) - Language Server that adds support for Ansible, to compatible Editors.
 *   [Emacs - Ansible client for Language Server Protocol](https://emacs-lsp.github.io/lsp-mode/page/lsp-ansible/) - Emacs support for Ansible Language Server Protocol.
 *   [VS Code - official Ansible Extension](https://marketplace.visualstudio.com/items?itemName=redhat.ansible) - Adds language support for Ansible to Visual Studio Code and OpenVSX compatible editors by leveraging ansible-language-server.
 
@@ -50,7 +50,7 @@ Awesome Ansible List
 
 ### Tools
 
-*   [Ansible Semaphore (⭐6.2k)](https://github.com/ansible-semaphore/semaphore) - Ansible Semaphore is a modern UI for Ansible.
+*   [Ansible Semaphore (⭐7.3k)](https://github.com/ansible-semaphore/semaphore) - Ansible Semaphore is a modern UI for Ansible.
 
 ### Playbooks, Roles and Collections / French
 
@@ -66,7 +66,7 @@ Awesome Ansible List
 
 ### Tools
 
-*   [ansible-doc-extractor (⭐13)](https://github.com/xlab-steampunk/ansible-doc-extractor) - A tool that extracts documentation from Ansible modules in the HTML form.
+*   [ansible-doc-extractor (⭐14)](https://github.com/xlab-steampunk/ansible-doc-extractor) - A tool that extracts documentation from Ansible modules in the HTML form.
 
 ### Blog posts and opinions
 
@@ -83,15 +83,15 @@ Awesome Ansible List
 
 ### Tools
 
-*   [php-ansible Library (⭐194)](https://github.com/maschmann/php-ansible) - OOP-Wrapper for Ansible, making Ansible available in PHP.
-*   [TD4A (⭐195)](https://github.com/cidrblock/td4a) - Design aid for building and testing jinja2 templates, combines data in yaml format with a jinja2 template and render the output.
-*   [Ansible Playbook Grapher (⭐456)](https://github.com/haidaraM/ansible-playbook-grapher) - Command line tool to create a graph representing your Ansible playbook plays, tasks and roles.
+*   [php-ansible Library (⭐196)](https://github.com/maschmann/php-ansible) - OOP-Wrapper for Ansible, making Ansible available in PHP.
+*   [TD4A (⭐198)](https://github.com/cidrblock/td4a) - Design aid for building and testing jinja2 templates, combines data in yaml format with a jinja2 template and render the output.
+*   [Ansible Playbook Grapher (⭐479)](https://github.com/haidaraM/ansible-playbook-grapher) - Command line tool to create a graph representing your Ansible playbook plays, tasks and roles.
 
 ## [Apr 01, 2022](/content/2022/04/01/README.md)
 
 ### Playbooks, Roles and Collections / French
 
-*   [BlueBanquise (⭐75)](https://github.com/bluebanquise/bluebanquise) - An ansible coherent roles collection to deploy clusters.
+*   [BlueBanquise (⭐77)](https://github.com/bluebanquise/bluebanquise) - An ansible coherent roles collection to deploy clusters.
 
 ## [Mar 30, 2022](/content/2022/03/30/README.md)
 
@@ -122,14 +122,14 @@ Awesome Ansible List
 ### Tools
 
 *   [ansible-bender](https://ansible-community.github.io/ansible-bender/build/html/index.html) - Tool which bends containers using Ansible playbooks and turns them into container images.
-*   [ansible-runner (⭐819)](https://github.com/ansible/ansible-runner) - A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported.
+*   [ansible-runner (⭐842)](https://github.com/ansible/ansible-runner) - A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported.
 *   [ansible-builder](https://ansible-builder.readthedocs.io/en/latest/) - Using Ansible content that depends on non-default dependencies can be tricky. Packages must be installed on each node, play nicely with other software installed on the host system, and be kept in sync.
 
 ## [Oct 01, 2021](/content/2021/10/01/README.md)
 
 ### Tools
 
-*   [squest](https://hewlettpackard.github.io/squest/) - Self-service portal for Ansible Tower job templates.
+*   [squest](https://hewlettpackard.github.io/squest/) - Self-service portal for Automation Controller job templates.
 
 ## [Sep 20, 2021](/content/2021/09/20/README.md)
 
@@ -156,7 +156,7 @@ Awesome Ansible List
 
 ### Tools
 
-*   [ansible-navigator (⭐253)](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
+*   [ansible-navigator (⭐265)](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
 
 ## [Apr 03, 2021](/content/2021/04/03/README.md)
 
@@ -205,8 +205,8 @@ Awesome Ansible List
 
 ### Tools
 
-*   [Ansible Later (⭐82)](https://github.com/thegeeklab/ansible-later) - Another best practice scanner. Checks Playbooks and Roles for best practices and behavior that could potentially be improved.
-*   [Ansible Doctor (⭐91)](https://github.com/thegeeklab/ansible-doctor) - Simple annotation like documentation generator for Ansible roles based on Jinja2 templates.
+*   [Ansible Later (⭐84)](https://github.com/thegeeklab/ansible-later) - Another best practice scanner. Checks Playbooks and Roles for best practices and behavior that could potentially be improved.
+*   [Ansible Doctor (⭐92)](https://github.com/thegeeklab/ansible-doctor) - Simple annotation like documentation generator for Ansible roles based on Jinja2 templates.
 
 ## [Sep 01, 2020](/content/2020/09/01/README.md)
 
@@ -234,7 +234,7 @@ Awesome Ansible List
 
 ### Tutorials
 
-*   [Ansible Tutorial by leucos (⭐2.1k)](https://github.com/leucos/ansible-tuto) - 12 Step Tutorial for Ansible.
+*   [Ansible Tutorial by leucos (⭐2.2k)](https://github.com/leucos/ansible-tuto) - 12 Step Tutorial for Ansible.
 
 ### Videos
 
@@ -243,19 +243,19 @@ Awesome Ansible List
 
 ### Tools
 
-*   [Excel Ansible Inventory (⭐92)](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) - Turn any Excel Spreadsheet into an Ansible Inventory.
+*   [Excel Ansible Inventory (⭐93)](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) - Turn any Excel Spreadsheet into an Ansible Inventory.
 
 ## [Aug 20, 2020](/content/2020/08/20/README.md)
 
 ### Playbooks, Roles and Collections / French
 
-*   [Ansible playbook for Linux machine setup (⭐34)](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook for setting up a self-updating, hardened Debian/Ubuntu machine with Docker daemon.
+*   [Ansible playbook for Linux machine setup (⭐40)](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook for setting up a self-updating, hardened Debian/Ubuntu machine with Docker daemon.
 
 ## [Nov 26, 2019](/content/2019/11/26/README.md)
 
 ### Playbooks, Roles and Collections / French
 
-*   [T.A.D.S. boilerplate (⭐673)](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
+*   [T.A.D.S. boilerplate (⭐679)](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
 
 ## [Aug 30, 2019](/content/2019/08/30/README.md)
 
@@ -292,8 +292,8 @@ Awesome Ansible List
 
 ### Tools
 
-*   [AWX (⭐12k)](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Tower, a commercial derivative of AWX.
-*   [Ansible cmdb (⭐2.2k)](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML page.
+*   [AWX (⭐12k)](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Automation Controller, a commercial derivative of AWX.
+*   [Ansible cmdb (⭐2.3k)](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML page.
 
 ### Blog posts and opinions
 

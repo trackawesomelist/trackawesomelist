@@ -105,25 +105,25 @@
 
 ### Java / Misc
 
-*   [JavaSteam (⭐65)](https://github.com/Longi94/JavaSteam) - Java library that provides an interface to directly interact with Valve's Steam servers.
+*   [JavaSteam (⭐75)](https://github.com/Longi94/JavaSteam) - Java library that provides an interface to directly interact with Valve's Steam servers.
 
 ## [13. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
 ### Database
 
-*   [LiteDB ★4245 (⭐7.5k)](https://github.com/mbdavid/LiteDB) -  A .NET NoSQL Document Store in a single data file.
+*   [LiteDB ★4245 (⭐7.6k)](https://github.com/mbdavid/LiteDB) -  A .NET NoSQL Document Store in a single data file.
 
 ## [14. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Carousel
 
-*   [pure-react-carousel (⭐1.5k)](https://github.com/express-labs/pure-react-carousel) - Built from scratch and not highly opinionated.
+*   [pure-react-carousel (⭐1.6k)](https://github.com/express-labs/pure-react-carousel) - Built from scratch and not highly opinionated.
 
 ## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Networking
 
-*   [KCP (⭐13k)](https://github.com/skywind3000/kcp/blob/master/README.en.md) - A fast and reliable ARQ protocol that helps applications to reduce network latency. \[MIT]
+*   [KCP (⭐14k)](https://github.com/skywind3000/kcp/blob/master/README.en.md) - A fast and reliable ARQ protocol that helps applications to reduce network latency. \[MIT]
 
 ---
 

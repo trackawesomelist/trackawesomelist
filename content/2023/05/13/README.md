@@ -1,6 +1,6 @@
 # Awesome List Updates on May 13, 2023
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Browser-Based / Arcade
 
-*   [111 one-button games (⭐38)](https://github.com/abagames/111-one-button-games-in-2021) - One button games are famous for realizing various actions with one button.
+*   [111 one-button games (⭐37)](https://github.com/abagames/111-one-button-games-in-2021) - One button games are famous for realizing various actions with one button.
 
 ## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -18,45 +18,39 @@
 
 *   📚 [Tailkits](https://tailkits.com/) - Curated Tailwind CSS components, templates, UI kits, resources, tools & more.
 
-## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / Frameworks
-
-*   [Tailwind Elemetns for Vue](https://tailwind-elements.com/docs/standard/integrations/vue-integration/) -  Vue integration with Tailwind Elements - a free, open-source UI Kit
-
-## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Programming Languages Support / Diagnostics
 
-*   [dmmulroy/tsc.nvim (⭐117)](https://github.com/dmmulroy/tsc.nvim) - Asynchronous project-wide TypeScript type-checking using the TypeScript compiler (TSC) with results loaded into a quickfix list.
+*   [dmmulroy/tsc.nvim (⭐175)](https://github.com/dmmulroy/tsc.nvim) - Asynchronous project-wide TypeScript type-checking using the TypeScript compiler (TSC) with results loaded into a quickfix list.
 
-## [5. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+## [4. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ### Tools / Agents
 
-*   [AgentGPT (⭐23k)](https://github.com/reworkd/AgentGPT): AI Agents with Langchain & OpenAI (Vercel / Nextjs) ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)
-*   [BabyAGI UI (⭐779)](https://github.com/miurla/babyagi-ui): Make it easier to run and develop with babyagi in a web app, like a ChatGPT ![GitHub Repo stars](https://img.shields.io/github/stars/miurla/babyagi-ui?style=social)
+*   [AgentGPT (⭐27k)](https://github.com/reworkd/AgentGPT): AI Agents with Langchain & OpenAI (Vercel / Nextjs) ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)
+*   [BabyAGI UI (⭐1.1k)](https://github.com/miurla/babyagi-ui): Make it easier to run and develop with babyagi in a web app, like a ChatGPT ![GitHub Repo stars](https://img.shields.io/github/stars/miurla/babyagi-ui?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [SmartPilot (⭐29)](https://github.com/jaredkirby/SmartPilot): A Python program leveraging OpenAI's language models to generate, analyze, and select the best answer to a given question ![GitHub Repo stars](https://img.shields.io/github/stars/jaredkirby/SmartPilot?style=social)
+*   [SmartPilot (⭐41)](https://github.com/jaredkirby/SmartPilot): A Python program leveraging OpenAI's language models to generate, analyze, and select the best answer to a given question ![GitHub Repo stars](https://img.shields.io/github/stars/jaredkirby/SmartPilot?style=social)
 
-### Alternatives / Articles
+### Other LLM Frameworks / Videos Playlists
 
 *   [Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents): Provides a natural language API on top of transformers
-*   [LLM Agents (⭐677)](https://github.com/mpaepper/llm_agents): Build agents which are controlled by LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/mpaepper/llm_agents?style=social)
+*   [LLM Agents (⭐803)](https://github.com/mpaepper/llm_agents): Build agents which are controlled by LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/mpaepper/llm_agents?style=social)
 
-### Complement to this list / Articles
+### Complement to this list / Videos Playlists
 
-*   [Open LLMs (⭐5.7k)](https://github.com/eugeneyan/open-llms): A list of open LLMs available for commercial use ![GitHub Repo stars](https://img.shields.io/github/stars/eugeneyan/open-llms?style=social)
+*   [Open LLMs (⭐8.2k)](https://github.com/eugeneyan/open-llms): A list of open LLMs available for commercial use ![GitHub Repo stars](https://img.shields.io/github/stars/eugeneyan/open-llms?style=social)
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Miscellaneous
 
-*   [Domain Forward](https://domain-forward.com/) - One simple tool to forward any URL or Domain. Free up to 5 domains and 200k requests per month.
+*   [Domain Forward](https://domain-forward.com/) - A straightforward tool to forward any URL or Domain. Free up to 5 domains and 200k requests per month.
 
-## [7. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [6. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Articles
 
@@ -74,22 +68,22 @@
 *   [Build and Deploy: TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel (2023)](https://youtu.be/ytkG7RT6SvU)
 *   [NextJS 13 Tutorial: Create a Static Blog from Markdown Files](https://youtu.be/Hiabp1GY8fA)
 
-## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [conda-init (⭐0)](https://github.com/commiyou/conda-init-zsh-plugin) - Cleans up environment variables so `conda` doesn't mess up `tmux`.
-*   [web-search (anant-mishra1729) (⭐0)](https://github.com/Anant-mishra1729/web-search/) - Adds aliases for searching with Google, Bing, Wiki, YouTube, Yahoo, Duck Duck Go, GitHub, StackOverflow and other services straight from the command line.
+*   [web-search (anant-mishra1729) (⭐2)](https://github.com/Anant-mishra1729/web-search/) - Adds aliases for searching with Google, Bing, Wiki, YouTube, Yahoo, Duck Duck Go, GitHub, Stack Overflow and other services straight from the command line.
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [cross-compiler (⭐0)](https://github.com/Freed-Wu/zsh-completions-for-cross-compilers) - In cross compilations, there are many tools like x86\_64-w64-mingw32-gcc, x86\_64-linux-android32-clang, arm-none-eabi-gcc, etc. This plugin provides zsh completions for them.
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [dfrx (⭐4)](https://github.com/Dofoerix/Dfrx-Prompt-Theme) - Oh-My-Posh theme. Includes decorators for current directory, execution time of last command, root status, and the time.
+*   [dfrx (⭐5)](https://github.com/Dofoerix/Dfrx-Prompt-Theme) - Oh-My-Posh theme. Includes decorators for current directory, execution time of last command, root status, and the time.
 
-## [9. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [8. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Web Frameworks
 

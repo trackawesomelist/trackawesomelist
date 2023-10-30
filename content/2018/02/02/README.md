@@ -40,18 +40,18 @@
 
 ### Tools and frameworks
 
-*   [Look-alike (⭐29)](https://github.com/kdzwinel/Look-alike) - Chrome Extension for taking and comparing screenshots.
-*   [Differencify (⭐613)](https://github.com/NimaSoroush/differencify) - A library for visual regression testing using [Puppeteer (⭐81k)](https://github.com/GoogleChrome/puppeteer).
+*   [Look-alike (⭐33)](https://github.com/kdzwinel/Look-alike) - Chrome Extension for taking and comparing screenshots.
+*   [Differencify (⭐624)](https://github.com/NimaSoroush/differencify) - A library for visual regression testing using [Puppeteer (⭐84k)](https://github.com/GoogleChrome/puppeteer).
 
 ### Blog posts
 
-*   [Make visual regression testing easier](https://medium.com/@nima.soroush.h/make-visual-regression-testing-easier-4a3dc7073737) - Introduction to [Differencify (⭐613)](https://github.com/NimaSoroush/differencify) and how to use it.
+*   [Make visual regression testing easier](https://medium.com/@nima.soroush.h/make-visual-regression-testing-easier-4a3dc7073737) - Introduction to [Differencify (⭐624)](https://github.com/NimaSoroush/differencify) and how to use it.
 
 ## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [Nuclear (⭐10k)](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
+*   [Nuclear (⭐11k)](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
 
 ### Community / Other
 
@@ -80,8 +80,8 @@
 
 ### Packages / MIDI
 
-*   [JZZ (⭐443)](https://github.com/jazz-soft/JZZ) - MIDI library for Node.js and all major browsers.
-*   [JZZ-midi-Gear (⭐11)](https://github.com/jazz-soft/JZZ-midi-Gear) - Retrieve your MIDI device model and manufacturer.
+*   [JZZ (⭐476)](https://github.com/jazz-soft/JZZ) - MIDI library for Node.js and all major browsers.
+*   [JZZ-midi-Gear (⭐12)](https://github.com/jazz-soft/JZZ-midi-Gear) - Retrieve your MIDI device model and manufacturer.
 
 ## [10. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 

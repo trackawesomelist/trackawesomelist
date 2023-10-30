@@ -8,7 +8,7 @@
 
 ## [1. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
-### United States 🇺🇸 / Seattle, WA   <a id="seattle-wa">  </a>
+### United States 🇺🇸 / Seattle, WA <a id="seattle-wa"></a>
 
 #### Bellevue Public Library
 
@@ -75,7 +75,7 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [rebash (⭐66)](https://github.com/jandob/rebash) - Scripting library/framework. Features: imports, exceptions, doc-tests ...
+*   [rebash (⭐67)](https://github.com/jandob/rebash) - Scripting library/framework. Features: imports, exceptions, doc-tests ...
 
 ## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Examples and funny stuff
 
-*   [oop (⭐292)](https://github.com/wojtekmach/oop) - OOP in Elixir.
+*   [oop (⭐294)](https://github.com/wojtekmach/oop) - OOP in Elixir.
 
 ## [7. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 

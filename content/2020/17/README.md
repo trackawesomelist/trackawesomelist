@@ -10,13 +10,13 @@
 
 ### Open Source / Other
 
-*   [LightProxy (⭐2.9k)](https://github.com/alibaba/lightproxy) - Web debugging proxy.
+*   [LightProxy (⭐3k)](https://github.com/alibaba/lightproxy) - Web debugging proxy.
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Misc
 
-*   [gphoto2-web.cr (⭐6)](https://github.com/Sija/gphoto2-web.cr) - Web API for libgphoto2
+*   [gphoto2-web.cr (⭐5)](https://github.com/Sija/gphoto2-web.cr) - Web API for libgphoto2
 
 ## [3. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Others
 
-*   [CSS-only-chat (⭐5.9k)](https://github.com/kkuchta/css-only-chat) - A truly monstrous async web chat using no JS whatsoever on the frontend.
+*   [CSS-only-chat (⭐6.5k)](https://github.com/kkuchta/css-only-chat) - A truly monstrous async web chat using no JS whatsoever on the frontend.
 
 ### Community
 
@@ -44,7 +44,7 @@
 
 ### Libraries
 
-*   [Number Words (⭐191)](https://github.com/tokenmill/numberwords) - Convert a number to an approximated text expression: from '0.23' to 'less than a quarter'.
+*   [Number Words (⭐194)](https://github.com/tokenmill/numberwords) - Convert a number to an approximated text expression: from '0.23' to 'less than a quarter'.
 
 ## [6. Machine Learning Tutorials](/content/ujjwalkarn/Machine-Learning-Tutorials/week/README.md)
 
@@ -938,7 +938,7 @@
 
 ### Beginner
 
-*   [Roadmap to Flutter Development (⭐4.3k)](https://github.com/olexale/flutter_roadmap) <!--stargazers:olexale/flutter_roadmap--> - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by [Olexandr Leuschenko](https://github.com/olexale).
+*   [Roadmap to Flutter Development (⭐4.7k)](https://github.com/olexale/flutter_roadmap) <!--stargazers:olexale/flutter_roadmap--> - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by [Olexandr Leuschenko](https://github.com/olexale).
 
 ## [14. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -950,16 +950,16 @@
 
 ### Contents / Backups
 
-*   [wal-g (⭐2.5k)](https://github.com/wal-g/wal-g) - The successor of WAL-E rewritten in Go. Currently supports cloud object storage services by AWS (S3), Google Cloud (GCS), Azure, as well as OpenStack Swift, MinIO, and file system storages. Supports block-level incremental backups, offloading backup tasks to a standby server, provides parallelization and throttling options. In addition to Postgres, WAL-G can be used for MySQL and MongoDB databases.
+*   [wal-g (⭐2.6k)](https://github.com/wal-g/wal-g) - The successor of WAL-E rewritten in Go. Currently supports cloud object storage services by AWS (S3), Google Cloud (GCS), Azure, as well as OpenStack Swift, MinIO, and file system storages. Supports block-level incremental backups, offloading backup tasks to a standby server, provides parallelization and throttling options. In addition to Postgres, WAL-G can be used for MySQL and MongoDB databases.
 
 ### Contents / CLI
 
-*   [pgsh (⭐516)](https://github.com/sastraxi/pgsh) - Branch your PostgreSQL Database like Git
-*   [schemaspy (⭐2.5k)](https://github.com/schemaspy/schemaspy) - SchemaSpy is a JAVA JDBC-compliant tool for generating your database to HTML documentation, including Entity Relationship diagrams
+*   [pgsh (⭐523)](https://github.com/sastraxi/pgsh) - Branch your PostgreSQL Database like Git
+*   [schemaspy (⭐2.6k)](https://github.com/schemaspy/schemaspy) - SchemaSpy is a JAVA JDBC-compliant tool for generating your database to HTML documentation, including Entity Relationship diagrams
 
 ### Contents / Monitoring
 
-*   [PMM (⭐332)](https://github.com/percona/pmm) - Percona Monitoring and Management (PMM) is a Free and Open Source platform for monitoring and managing PostgreSQL, MySQL, and MongoDB.
+*   [PMM (⭐361)](https://github.com/percona/pmm) - Percona Monitoring and Management (PMM) is a Free and Open Source platform for monitoring and managing PostgreSQL, MySQL, and MongoDB.
 *   [pgmetrics](https://pgmetrics.io/) - pgmetrics is an open-source, zero-dependency, single-binary tool that can collect a lot of information and statistics from a running PostgreSQL server and display it in easy-to-read text format or export it as JSON and CSV for scripting.
 *   [okmeter.io](https://okmeter.io/pg) - Commercial SaaS agent-based monitoring with a very detailed PostgreSQL plugin. It automatically gathers 100s of stats, displays dashboards on every aspect and sends alerts when something goes wrong (Commercial Software).
 
@@ -970,21 +970,21 @@
 ### Contents / Optimization
 
 *   [pg\_flame (⭐1.5k)](https://github.com/mgartner/pg_flame) - A flamegraph generator for query plans.
-*   [TimescaleDB Tune (⭐336)](https://github.com/timescale/timescaledb-tune) - a program for tuning a TimescaleDB database to perform its best based on the host's resources such as memory and number of CPUs.
+*   [TimescaleDB Tune (⭐347)](https://github.com/timescale/timescaledb-tune) - a program for tuning a TimescaleDB database to perform its best based on the host's resources such as memory and number of CPUs.
 
 ### Contents / Utilities
 
-*   [Hasura GraphQL Engine (⭐29k)](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+*   [Hasura GraphQL Engine (⭐30k)](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 *   [pg\_activity (⭐2.1k)](https://github.com/dalibo/pg_activity) - top like application for PostgreSQL server activity monitoring.
 *   [PgBouncer](http://www.pgbouncer.org/) - Lightweight connection pooler for PostgreSQL.
 *   [pgpool-II](https://www.pgpool.net/mediawiki/index.php/Main_Page) - Middleware that provides connection pooling, replication, load balancing and limiting exceeding connections.
 
 ### Contents / Language bindings
 
-*   Go: [pq (⭐7.9k)](https://github.com/lib/pq), [pgx (⭐6.8k)](https://github.com/jackc/pgx)
-*   Node: [node-postgres (⭐11k)](https://github.com/brianc/node-postgres), [pg-promise (⭐3.3k)](https://github.com/vitaly-t/pg-promise), [pogi (⭐139)](https://github.com/holdfenytolvaj/pogi), [slonik (⭐3.7k)](https://github.com/gajus/slonik), [postgres (⭐4.5k)](https://github.com/porsager/postgres)
+*   Go: [pq (⭐8.1k)](https://github.com/lib/pq), [pgx (⭐7.3k)](https://github.com/jackc/pgx)
+*   Node: [node-postgres (⭐11k)](https://github.com/brianc/node-postgres), [pg-promise (⭐3.3k)](https://github.com/vitaly-t/pg-promise), [pogi (⭐138)](https://github.com/holdfenytolvaj/pogi), [slonik (⭐3.9k)](https://github.com/gajus/slonik), [postgres (⭐4.6k)](https://github.com/porsager/postgres)
 *   Python: [psycopg2](https://pypi.org/project/psycopg2/), [asyncpg](https://pypi.org/project/asyncpg/)
-*   Ruby: [pg (⭐669)](https://github.com/ged/ruby-pg)
+*   Ruby: [pg (⭐695)](https://github.com/ged/ruby-pg)
 
 ### Resources / Articles
 
@@ -1014,7 +1014,7 @@
 
 ### Third-Party Packages / Logging
 
-*   [django-guid (⭐338)](https://github.com/JonasKs/django-guid) - Inject a GUID (Correlation-ID) into every log message in a Django request.
+*   [django-guid (⭐371)](https://github.com/JonasKs/django-guid) - Inject a GUID (Correlation-ID) into every log message in a Django request.
 
 ## [18. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
@@ -1032,7 +1032,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [bayeso (⭐76)](https://github.com/jungtaekkim/bayeso) - A simple, but essential Bayesian optimization package, written in Python.
+*   [bayeso (⭐80)](https://github.com/jungtaekkim/bayeso) - A simple, but essential Bayesian optimization package, written in Python.
 
 ## [21. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -1044,7 +1044,7 @@
 
 ### Projects
 
-*   [Minesweeper (⭐27)](https://github.com/jgpaiva/minesweeper) - Minesweeper built with Rust, Yew and WebAssembly.
+*   [Minesweeper (⭐28)](https://github.com/jgpaiva/minesweeper) - Minesweeper built with Rust, Yew and WebAssembly.
 
 ## [23. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -1080,7 +1080,7 @@
 
 ### Linter
 
-*   [AnyLint (⭐118)](https://github.com/Flinesoft/AnyLint) - Lint anything by combining the power of Swift & regular expressions.
+*   [AnyLint (⭐119)](https://github.com/Flinesoft/AnyLint) - Lint anything by combining the power of Swift & regular expressions.
 
 ### Database
 
@@ -1102,7 +1102,7 @@
 
 ### Software / Communication - SIP
 
-*   [SIP3](https://sip3.io/) - VoIP troubleshooting and monitoring platform. ([Demo](https://demo.sip3.io), [Source Code](https://github.com/sip3io/)) `Apache-2.0` `Kotlin`
+*   [SIP3](https://sip3.io/) - VoIP troubleshooting and monitoring platform. ([Demo](https://demo.sip3.io), [Source Code](https://github.com/sip3io/)) `Apache-2.0` `Java`
 
 ### Software / Feed Readers
 
@@ -1110,7 +1110,7 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Streama (⭐9.3k)](https://github.com/streamaserver/streama) - Self hosted streaming media server. `MIT` `Java`
+*   [Streama (⭐9.4k)](https://github.com/streamaserver/streama) - Self hosted streaming media server. `MIT` `Java`
 
 ## [29. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
@@ -1140,7 +1140,7 @@
 
 ## [32. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
-### PDF
+### PDF / Text-Based User Interfaces
 
 *   [Eclipse BIRT](https://www.eclipse.org/birt) - Report engine for creating PDF and other formats (DOCX, XLSX, HTML, etc) using Eclipse-based visual editor.
 
@@ -1245,21 +1245,21 @@
 
 ### Plugins
 
-*   [tmux-tilish (⭐311)](https://github.com/jabirali/tmux-tilish) Turn tmux into a dynamic window manager with intuitive keybindings (inspired by i3wm/sway)
+*   [tmux-tilish (⭐325)](https://github.com/jabirali/tmux-tilish) Turn tmux into a dynamic window manager with intuitive keybindings (inspired by i3wm/sway)
 
 ## [42. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Database
 
-*   [nessie (⭐517)](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
+*   [nessie (⭐519)](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
 
 ### Modules / Utils
 
-*   [evt (⭐414)](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
+*   [evt (⭐427)](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
 
 ### Tools / XML
 
-*   [denoify (⭐859)](https://github.com/garronej/denoify) - For NPM module authors that would like to support Deno but do not want to write and maintain a port.
+*   [denoify (⭐878)](https://github.com/garronej/denoify) - For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 
 ## [43. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
@@ -1287,7 +1287,7 @@
 
 ### Decentralized Systems
 
-*   [Waves (⭐72)](https://github.com/msmolyakov/awesome-waves#readme) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
+*   [Waves (⭐76)](https://github.com/msmolyakov/awesome-waves#readme) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
 
 ## [45. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -1304,7 +1304,7 @@
 
 ### Integrations
 
-*   [playwright-github-action (⭐270)](https://github.com/microsoft/playwright-github-action) - GitHub Action to install all the required dependencies.
+*   [playwright-github-action (⭐281)](https://github.com/microsoft/playwright-github-action) - GitHub Action to install all the required dependencies.
 
 ## [47. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
@@ -1320,7 +1320,7 @@
 
 ### Applications / Cryptocurrencies
 
-*   [Joystream (⭐1.3k)](https://github.com/Joystream/joystream) — A user governed video platform
+*   [Joystream (⭐1.4k)](https://github.com/Joystream/joystream) — A user governed video platform
 
 ### Development tools / Web Servers
 
@@ -1341,13 +1341,13 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Veniqa (⭐1k)](https://github.com/Viveckh/Veniqa) - An E-commerce solution with a shopping client and admin panel written in Vue.
-*   [tato music player (⭐64)](https://github.com/tatoMa/neteast-cloud-music-player) - A mobile first, handwritten, responsive web app for music fans written in Vue and Vuetify.
+*   [Veniqa (⭐1.1k)](https://github.com/Viveckh/Veniqa) - An E-commerce solution with a shopping client and admin panel written in Vue.
+*   [tato music player (⭐68)](https://github.com/tatoMa/neteast-cloud-music-player) - A mobile first, handwritten, responsive web app for music fans written in Vue and Vuetify.
 
 ### Components & Libraries / Utilities
 
 *   [vue-timed-content (⭐7)](https://github.com/dannyfeliz/vue-timed-content) - Shows or hides content based on a given time range and timezone.
-*   [vue-live (⭐196)](https://github.com/vue-styleguidist/vue-live) - A component to demo components, inspired by react-live.
+*   [vue-live (⭐217)](https://github.com/vue-styleguidist/vue-live) - A component to demo components, inspired by react-live.
 
 ## [51. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
@@ -1376,12 +1376,12 @@
 ### MVVM
 
 *   [UpdateControls](https://updatecontrols.net/cs/) - Update Controls does not require that you implement `INotifyPropertyChanged` or declare a `DependencyProperty`. It connects controls directly to CLR properties. This makes it perfect for the Model/View/ViewModel pattern.
-*   [Toms Toolbox (⭐86)](https://github.com/tom-englert/TomsToolbox) - Visual Composition framework to easily build modularized MVVM applications based on the [Managed Extensibility Framework (MEF)](https://docs.microsoft.com/en-us/dotnet/framework/mef/).
+*   [Toms Toolbox (⭐93)](https://github.com/tom-englert/TomsToolbox) - Visual Composition framework to easily build modularized MVVM applications based on the [Managed Extensibility Framework (MEF)](https://docs.microsoft.com/en-us/dotnet/framework/mef/).
 
 ### ORM
 
-*   [EntityFramework.Exceptions (⭐829)](https://github.com/Giorgi/EntityFramework.Exceptions) - Use typed Exceptions for Entity Framework Core when your SQL query violates database constraints in SqlServer, MySql, PostgreSQL or SQLite
-*   [SmartSql (⭐956)](https://github.com/dotnetcore/SmartSql) - SmartSql = MyBatis + Cache（Memory | Redis）+ ZooKeeper + R / W Splitting + Dynamic Repository ....
+*   [EntityFramework.Exceptions (⭐1k)](https://github.com/Giorgi/EntityFramework.Exceptions) - Use typed Exceptions for Entity Framework Core when your SQL query violates database constraints in SqlServer, MySql, PostgreSQL or SQLite
+*   [SmartSql (⭐1k)](https://github.com/dotnetcore/SmartSql) - SmartSql = MyBatis + Cache（Memory | Redis）+ ZooKeeper + R / W Splitting + Dynamic Repository ....
 
 ### PDF
 
@@ -1389,33 +1389,33 @@
 
 ### Protocols
 
-*   [DnsClient.NET (⭐665)](https://github.com/MichaCo/DnsClient.NET) - A simple yet very powerful and high performant open source library for the .NET Framework to do DNS lookups.
+*   [DnsClient.NET (⭐711)](https://github.com/MichaCo/DnsClient.NET) - A simple yet very powerful and high performant open source library for the .NET Framework to do DNS lookups.
 
 ### Serialization
 
-*   [Ceras (⭐451)](https://github.com/rikimaru0345/Ceras) - Ceras is a binary serializer. It converts any object into a byte\[] and back. It goes above and beyond in terms of features, speed, and comfort. Supports reference loops, large/complicated inheritance chains, splitting objects into parts and more.
-*   [Protobuf.NET (⭐4.2k)](https://github.com/protobuf-net/protobuf-net) - Protocol buffers is the name of the binary serialization format used by Google for much of their data communications
+*   [Ceras (⭐464)](https://github.com/rikimaru0345/Ceras) - Ceras is a binary serializer. It converts any object into a byte\[] and back. It goes above and beyond in terms of features, speed, and comfort. Supports reference loops, large/complicated inheritance chains, splitting objects into parts and more.
+*   [Protobuf.NET (⭐4.4k)](https://github.com/protobuf-net/protobuf-net) - Protocol buffers is the name of the binary serialization format used by Google for much of their data communications
 
 ### Testing
 
 *   [SpecFlow (⭐2.1k)](https://github.com/SpecFlowOSS/SpecFlow) - Binding business requirements to .Net code
-*   [xUnit.net (⭐3.7k)](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
+*   [xUnit.net (⭐3.8k)](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
 *   [ReportPortal](https://reportportal.io) - AI-powered Test Automation Dashboard. Acquire, aggregate and analyze test reports to ascertain release health.
 
 ### Visual Studio Plugins
 
-*   [Web Essentials (⭐53)](https://github.com/madskristensen/WebEssentials2019) - Web Essentials extends Visual Studio with lots of new features that web developers have been missing for many years
-*   [SideWaffle (⭐654)](https://github.com/ligershark/side-waffle) - A collection of Item Templates for Visual Studio 2012/2013/2015 that makes any web developer's life much easier
+*   [Web Essentials (⭐51)](https://github.com/madskristensen/WebEssentials2019) - Web Essentials extends Visual Studio with lots of new features that web developers have been missing for many years
+*   [SideWaffle (⭐655)](https://github.com/ligershark/side-waffle) - A collection of Item Templates for Visual Studio 2012/2013/2015 that makes any web developer's life much easier
 
 ## [53. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Carousel
 
-*   [react-instagram-zoom-slider (⭐69)](https://github.com/skozer/react-instagram-zoom-slider) - [demo](https://skozer.github.io/react-instagram-zoom-slider/) - A slider component with pinch to zoom capabilities inspired by Instagram.
+*   [react-instagram-zoom-slider (⭐72)](https://github.com/skozer/react-instagram-zoom-slider) - [demo](https://skozer.github.io/react-instagram-zoom-slider/) - A slider component with pinch to zoom capabilities inspired by Instagram.
 
 ### Photo / Image
 
-*   [react-imgix (⭐331)](https://github.com/imgix/react-imgix) - Add fast, responsive images as an image, picture, or background!
+*   [react-imgix (⭐344)](https://github.com/imgix/react-imgix) - Add fast, responsive images as an image, picture, or background!
 
 ## [54. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
 
@@ -1438,7 +1438,7 @@
 ### Pattern libraries articles / Storybook addons
 
 *   [How packaging makes it dead simple to share UI components](https://blog.hichroma.com/how-packaging-makes-it-dead-simple-to-share-ui-components-29912593539d)
-*   [Storybook design system (⭐1.6k)](https://github.com/storybookjs/design-system)
+*   [Storybook design system (⭐1.8k)](https://github.com/storybookjs/design-system)
 *   [Storybook Docs sneak peek](https://medium.com/storybookjs/storybook-docs-sneak-peak-5be78445094a)
 
 ## [55. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
@@ -1451,13 +1451,13 @@
 
 ### Side-channel Tools / Reverse Engineering Tools
 
-*   [TRRespass (⭐107)](https://github.com/vusec/trrespass) - Many-sided rowhammer tool suite able to reverse engineer the contents of DDR3 and DDR4 memory chips protected by Target Row Refresh mitigations.
+*   [TRRespass (⭐110)](https://github.com/vusec/trrespass) - Many-sided rowhammer tool suite able to reverse engineer the contents of DDR3 and DDR4 memory chips protected by Target Row Refresh mitigations.
 
 ## [57. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Automation
 
-*   [ActiveWorkflow (⭐695)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents.
+*   [ActiveWorkflow (⭐733)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents.
 
 ### Captchas and anti-spam
 
@@ -1465,15 +1465,15 @@
 
 ### Data Processing and ETL
 
-*   [ruby-stemmer (⭐253)](https://github.com/aurelian/ruby-stemmer) - It Provides Snowball algorithm for stemming purposes.
+*   [ruby-stemmer (⭐252)](https://github.com/aurelian/ruby-stemmer) - It Provides Snowball algorithm for stemming purposes.
 
 ### Git Tools
 
-*   [git\_curate (⭐416)](https://github.com/matt-harvey/git_curate) - Peruse and delete git branches ergonomically.
+*   [git\_curate (⭐420)](https://github.com/matt-harvey/git_curate) - Peruse and delete git branches ergonomically.
 
 ### Optimizations
 
-*   [fast\_underscore (⭐29)](https://github.com/kddeisz/fast_underscore) - Provides a C-optimized method for transforming a string from any capitalization into underscore-separated
+*   [fast\_underscore (⭐32)](https://github.com/kddeisz/fast_underscore) - Provides a C-optimized method for transforming a string from any capitalization into underscore-separated
 
 ### Profiler and Optimization
 
@@ -1751,12 +1751,12 @@
 ### Terminal-based / programmable RSS readers / Outline Processor Markup Language
 
 *   [Newsboat](https://newsboat.org/) <sup>[374](https://t.me/s/aboutrss/374)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/newsboat/newsboat) ![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)
-*   [GORSS - Go RSS Reader (⭐356)](https://github.com/Lallassu/gorss) <sup>[533](https://t.me/s/aboutrss/533)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Lallassu/gorss)
+*   [GORSS - Go RSS Reader (⭐411)](https://github.com/Lallassu/gorss) <sup>[533](https://t.me/s/aboutrss/533)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Lallassu/gorss)
 
 ### 💖 Acknowledgement / Crypto or Blockchain relevant
 
 *   [The Top 125 RSS Open Source Projects](https://awesomeopensource.com/projects/rss)
-*   [![Twitter Follow](https://img.shields.io/twitter/follow/davewiner?label=%40davewiner\&style=social)](https://twitter.com/davewiner) [![Twitter Follow](https://img.shields.io/twitter/follow/RSSCircus?label=%40RSSCircus\&style=social)](https://twitter.com/rsscircus), [![Twitter Follow](https://img.shields.io/twitter/follow/crid?label=%40crid\&style=social)](https://twitter.com/crid) and others who are also focusing on RSS ecosystem.
+*   [![Twitter Follow](https://img.shields.io/twitter/follow/davewiner?label=%40davewiner\&style=social)](https://twitter.com/davewiner), [![Twitter Follow](https://img.shields.io/twitter/follow/RSSCircus?label=%40RSSCircus\&style=social)](https://twitter.com/rsscircus), [![Twitter Follow](https://img.shields.io/twitter/follow/crid?label=%40crid\&style=social)](https://twitter.com/crid), [![Twitter Follow](https://img.shields.io/twitter/follow/liangwenhao3?label=%40liangwenhao3\&style=social)](https://twitter.com/liangwenhao3) and others who are also focusing on RSS ecosystem.
 *   Icons: [SOFTICONS](https://www.softicons.com/) & [Icons8](https://icons8.com)
 
 ### Telegram / Telegram RSS bots
@@ -1766,23 +1766,23 @@
 
 ### universally from / multiple sources
 
-*   [RSS-Bridge (⭐5.7k)](https://github.com/RSS-Bridge/rss-bridge/wiki) <sup>[257](https://t.me/s/aboutrss/257), [469](https://t.me/s/aboutrss/469), [478](https://t.me/s/aboutrss/478)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/RSS-Bridge/rss-bridge)
+*   [RSS-Bridge (⭐6.3k)](https://github.com/RSS-Bridge/rss-bridge/wiki) <sup>[257](https://t.me/s/aboutrss/257), [469](https://t.me/s/aboutrss/469), [478](https://t.me/s/aboutrss/478)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/RSS-Bridge/rss-bridge)
 
 ### universally from / newsletter/mail
 
 *   [Kill the Newsletter!](https://www.kill-the-newsletter.com/) <sup>[425](https://t.me/s/aboutrss/425)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/leafac/www.kill-the-newsletter.com)
 
-### Browser Booklet / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Browser Booklet / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Subscribe ZhihuZhuanlan](https://rss.lilydjwg.me/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lilydjwg/morerssplz)
 *   [Subscribe V2EX post comments](https://rss.lilydjwg.me/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lilydjwg/morerssplz)
 
-### 🧩 API / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### 🧩 API / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Open Reader API](https://rss-sync.github.io/Open-Reader-API/): a common feed-syncing API protocol [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rss-sync/Open-Reader-API)
 *   [FetchRSS API](https://fetchrss.com/api)
 
-### ⛓ OPML management / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### ⛓ OPML management / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSS-OPML-to-Markdown (⭐9)](https://github.com/idealclover/RSS-OPML-to-Markdown) <sup>[542](https://t.me/s/aboutrss/542)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/idealclover/RSS-OPML-to-Markdown)
 
@@ -1820,26 +1820,26 @@
 
 ## [65. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [ScrapingAnt](https://scrapingant.com/) — Headless Chrome scraping API and free checked proxies service. Javascript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans available.
+*   [ScrapingAnt](https://scrapingant.com/) — Headless Chrome scraping API and free checked proxies service. Javascript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans are available.
 
 ### Security and PKI
 
-*   [Virushee](https://virushee.com/) — Privacy-oriented file/data scanning powered by hybrid heuristic and AI-assisted engine. Possible to use internal dynamic sandbox analysis. Limited to 50MB per file upload
+*   [Virushee](https://virushee.com/) — Privacy-oriented file/data scanning powered by hybrid heuristic and AI-assisted engine. It is possible to use internal dynamic sandbox analysis. Limited to 50MB per file upload
 
 ### PaaS
 
-*   [fly.io](https://fly.io/) - Fly is a platform for applications that need to run globally. It runs your code close to users and scales compute in cities where your app is busiest. Write your code, package it into a Docker image, deploy it to Fly's platform and let that do all the work to keep your app snappy. Free allowances include up to 3 shared-cpu-1x 256mb VMs, 3GB persistent volume storage (total) and 160GB outbound data transfer.
+*   [fly.io](https://fly.io/) - Fly is a platform for applications that must run globally. It runs your code close to users and scales compute in cities where your app is busiest. Write your code, package it into a Docker image, deploy it to Fly's platform, and let that do all the work to keep your app snappy. Free allowances include up to 3 shared-CPU-1x 256mb VMs, 3GB persistent volume storage (total), and 160GB outbound data transfer.
 
 ### DNS
 
-*   [zilore.com](https://zilore.com/en/dns) — Free DNS hosting, free for 5 domains.
+*   [zilore.com](https://zilore.com/en/dns) — Free DNS hosting for 5 domains.
 
 ### Issue Tracking and Project Management
 
-*   [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and 1 member.
-*   [Kumu.io](https://kumu.io/)  — Relationship maps with animation, decorations, filters, clustering, spreadsheet imports and more. Free tier allows unlimited public projects. Graph size unlimited. Free private projects for students. Sandbox mode is available if you prefer to not leave your file publicly online (upload, edit, download, discard).
+*   [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and one member.
+*   [Kumu.io](https://kumu.io/)  — Relationship maps with animation, decorations, filters, clustering, spreadsheet imports, etc. The free tier allows unlimited public projects. Graph size unlimited. Free private projects for students. Sandbox mode is available if you prefer not to leave your file publicly online (upload, edit, download, discard).
 
 ### Data Visualization on Maps
 

@@ -17,7 +17,7 @@
 ### Ask these people anything!
 
 *   [Jon Kuperman (⭐21)](https://github.com/jkup/ama) - I love JavaScript! I blog at [Codeplanet](https://codeplanet.io), make videos at [Nodecasts](https://nodecasts.io) and podcast at [The Web Behind](https://webbehind.com).
-*   [Max Stoiber (⭐29)](https://github.com/mxstbr/ama) - Open source developer advocate at Thinkmill, developing [KeystoneJS (⭐7.8k)](https://github.com/keystonejs/keystone) and [ElementalUI (⭐4.3k)](https://github.com/elementalui/elemental). Creator of [react-boilerplate (⭐29k)](https://github.com/mxstbr/react-boilerplate), part of React Vienna.
+*   [Max Stoiber (⭐29)](https://github.com/mxstbr/ama) - Open source developer advocate at Thinkmill, developing [KeystoneJS (⭐8.2k)](https://github.com/keystonejs/keystone) and [ElementalUI (⭐4.3k)](https://github.com/elementalui/elemental). Creator of [react-boilerplate (⭐29k)](https://github.com/mxstbr/react-boilerplate), part of React Vienna.
 
 ## [3. Awesome Dropwizard](/content/stve/awesome-dropwizard/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Images / Barcode
 
-*   [SwiftyGif (⭐1.7k)](https://github.com/kirualex/SwiftyGif) - High performance GIF engine.
+*   [SwiftyGif (⭐1.8k)](https://github.com/kirualex/SwiftyGif) - High performance GIF engine.
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -79,7 +79,7 @@
 ### ORM and Datamapping
 
 *   [redix (⭐1k)](https://github.com/whatyouhide/redix) - Superfast, pipelined, resilient Redis driver for Elixir.
-*   [riak\_ecto (⭐30)](https://github.com/pma/riak_ecto) - Riak adapter for Ecto.
+*   [riak\_ecto (⭐31)](https://github.com/pma/riak_ecto) - Riak adapter for Ecto.
 
 ---
 

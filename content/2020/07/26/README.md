@@ -127,9 +127,8 @@
 
 ## [6. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
-### Authentication / SAML
+### SAML / Macaroons
 
-*   [SAML vs. OAuth](https://www.cloudflare.com/learning/access-management/what-is-oauth/) - “OAuth is a protocol for authorization: it ensures Bob goes to the right parking lot. In contrast, SAML is a protocol for authentication, or allowing Bob to get past the guardhouse.”
 *   [The Difference Between SAML 2.0 and OAuth 2.0](https://www.ubisecure.com/uncategorized/difference-between-saml-and-oauth/) - “Even though SAML was actually designed to be widely applicable, its contemporary usage is typically shifted towards enterprise SSO scenarios. On the other hand, OAuth was designed for use with applications on the Internet, especially for delegated authorisation.”
 
 ## [7. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
@@ -158,7 +157,7 @@
 
 ## [9. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
 *   [terraform-landscape (⭐1.5k)](https://github.com/coinbase/terraform-landscape) - *(only 0.11 and earlier)* Improve Terraform's plan output to be easier to read and understand.
 
@@ -166,10 +165,10 @@
 
 ### Deprecated
 
-*   [PhantomFlow (⭐688)](https://github.com/Huddle/PhantomFlow) - Experimental approach to UI testing, based on Decision Trees.
-*   [Visual Review (⭐280)](https://github.com/xebia/VisualReview) - A human-friendly tool for testing and reviewing visual regressions.
-*   [Huxley (⭐4.1k)](https://github.com/facebookarchive/huxley) - Python framework based on [Selenium Webdriver (⭐25k)](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
-*   [WebdriverCSS (⭐625)](https://github.com/webdriverio/webdrivercss) - WebdriverCSS sits on top of [Webdriver.io (⭐7.8k)](https://github.com/webdriverio/webdriverio/) and hooks into [Selenium (⭐25k)](https://github.com/SeleniumHQ/selenium).
+*   [PhantomFlow (⭐686)](https://github.com/Huddle/PhantomFlow) - Experimental approach to UI testing, based on Decision Trees.
+*   [Visual Review (⭐279)](https://github.com/xebia/VisualReview) - A human-friendly tool for testing and reviewing visual regressions.
+*   [Huxley (⭐4.1k)](https://github.com/facebookarchive/huxley) - Python framework based on [Selenium Webdriver (⭐27k)](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
+*   [WebdriverCSS (⭐622)](https://github.com/webdriverio/webdrivercss) - WebdriverCSS sits on top of [Webdriver.io (⭐8.2k)](https://github.com/webdriverio/webdriverio/) and hooks into [Selenium (⭐27k)](https://github.com/SeleniumHQ/selenium).
 
 ## [11. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 

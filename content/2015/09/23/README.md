@@ -36,7 +36,7 @@
 
 ### ORM and Datamapping
 
-*   [ectophile (⭐41)](https://github.com/gjaldon/ectophile) - Ecto extension to instantly support file uploads in models.
+*   [ectophile (⭐42)](https://github.com/gjaldon/ectophile) - Ecto extension to instantly support file uploads in models.
 
 ## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -98,7 +98,7 @@
 
 ### Application Skeleton
 
-*   [MVC (⭐805)](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
+*   [MVC (⭐810)](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
 
 ### Command Line
 

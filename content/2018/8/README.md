@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 19 - Feb 25, 2018
 
-54 awesome lists updated this week.
+55 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Software / Communication - XMPP - Servers
 
-*   [ejabberd](https://www.ejabberd.im/) - XMPP instant messaging server. ([Source Code (⭐5.5k)](https://github.com/processone/ejabberd)) `GPL-2.0` `Erlang`
+*   [ejabberd](https://www.ejabberd.im/) - XMPP instant messaging server. ([Source Code (⭐5.7k)](https://github.com/processone/ejabberd)) `GPL-2.0` `Erlang/Docker`
 
 ### Software / Learning and Courses
 
@@ -26,7 +26,7 @@
 
 ### Linters / More
 
-*   [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO (⭐6.9k)](https://github.com/xojs/xo).
+*   [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO (⭐7.3k)](https://github.com/xojs/xo).
 
 ## [4. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
@@ -124,7 +124,7 @@
 
 ### Packages / Apps
 
-*   [waveform-playlist (⭐1.3k)](https://github.com/naomiaro/waveform-playlist) - Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Record audio tracks or provide audio annotations. Export your mix to AudioBuffer or WAV! Project inspired by Audacity.
+*   [waveform-playlist (⭐1.4k)](https://github.com/naomiaro/waveform-playlist) - Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Record audio tracks or provide audio annotations. Export your mix to AudioBuffer or WAV! Project inspired by Audacity.
 
 ## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -152,21 +152,21 @@
 
 ### IDE and Code Editing
 
-*   [fakejson.com](https://fakejson.com/) — FakeJSON helps you quickly generate fake data using its API. Make an API request describing what you want and how you want it. The API returns it all in JSON. Speed up the go to market process for ideas and fake it till you make it.
+*   [fakejson.com](https://fakejson.com/) — FakeJSON helps you quickly generate fake data using its API. Make an API request describing what you want and how you want it. The API returns it all in JSON. Speed up the go-to-market process for ideas and fake it till you make it.
 
 ## [19. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Third party Guides
 
-*   [SwiftTips (⭐3.9k)](https://github.com/JohnSundell/SwiftTips) - A collection of useful tips by John Sundell.
+*   [SwiftTips (⭐4k)](https://github.com/JohnSundell/SwiftTips) - A collection of useful tips by John Sundell.
 
 ### Maps / Barcode
 
-*   [FlyoverKit (⭐693)](https://github.com/SvenTiigi/FlyoverKit) - FlyoverKit enables you to present stunning 360° flyover views on your MKMapView with zero effort while maintaining full configuration possibilities.
+*   [FlyoverKit (⭐700)](https://github.com/SvenTiigi/FlyoverKit) - FlyoverKit enables you to present stunning 360° flyover views on your MKMapView with zero effort while maintaining full configuration possibilities.
 
 ### Menu / Barcode
 
-*   [Parchment (⭐3.1k)](https://github.com/rechsteiner/Parchment) - A paging view controller with a highly customizable menu, built on UICollectionView.
+*   [Parchment (⭐3.2k)](https://github.com/rechsteiner/Parchment) - A paging view controller with a highly customizable menu, built on UICollectionView.
 
 ## [20. Awesome Algorithms Education](/content/gaerae/awesome-algorithms-education/week/README.md)
 
@@ -559,11 +559,11 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Tamiat CMS (⭐522)](https://github.com/tamiat/tamiat) - Tamiat is a front-end focused CMS, uses Vue.JS as the frontend and integrates with Firebase for the backend functionality.
+*   [Tamiat CMS (⭐520)](https://github.com/tamiat/tamiat) - Tamiat is a front-end focused CMS, uses Vue.JS as the frontend and integrates with Firebase for the backend functionality.
 
 ### Components & Libraries / UI Components
 
-*   [vue-tour (⭐2.2k)](https://github.com/pulsardev/vue-tour) - Lightweight and customizable tour plugin
+*   [vue-tour (⭐2.3k)](https://github.com/pulsardev/vue-tour) - Lightweight and customizable tour plugin
 
 ## [28. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
@@ -591,7 +591,7 @@
 
 ### Tools and frameworks
 
-*   [Muppeteer (⭐66)](https://github.com/HuddleEng/Muppeteer) - Visual regression testing framework for Chrome using [Mocha](https://mochajs.org/) and [Puppeteer (⭐81k)](https://github.com/GoogleChrome/puppeteer).
+*   [Muppeteer (⭐66)](https://github.com/HuddleEng/Muppeteer) - Visual regression testing framework for Chrome using [Mocha](https://mochajs.org/) and [Puppeteer (⭐84k)](https://github.com/GoogleChrome/puppeteer).
 
 ### Online services
 
@@ -657,7 +657,7 @@
 
 ### Command Line Applications
 
-*   [scribe (⭐276)](https://github.com/codedge-llc/scribe) - Pretty-print tables of Elixir structs and maps. Inspired by hirb.
+*   [scribe (⭐279)](https://github.com/codedge-llc/scribe) - Pretty-print tables of Elixir structs and maps. Inspired by hirb.
 
 ### JSON
 
@@ -669,15 +669,21 @@
 
 ### ORM and Datamapping
 
-*   [ecto\_facade (⭐71)](https://github.com/azranel/ecto_facade) - Ecto facade that allows to separate writes and reads to different databases.
+*   [ecto\_facade (⭐70)](https://github.com/azranel/ecto_facade) - Ecto facade that allows to separate writes and reads to different databases.
 
-## [40. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [40. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### C / Non-X86
+
+*   [C Elements of Style](http://www.oualline.com/books.free/style/) - Steve Oualline
+
+## [41. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Debug
 
 *   [Deleaker](http://www.deleaker.com) - A tool for resource leak detection, including memory, GDI and handle leaks.
 
-## [41. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [42. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Books
 
@@ -687,20 +693,20 @@
 
 *   [Robotex](https://robotex.ee/en/) The biggest robotics festival in Europe
 
-## [42. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [43. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Examples / Templates
 
 *   [modern-cmake-sample (⭐581)](https://github.com/pabloariasal/modern-cmake-sample) - Best practices and proper usage of CMake by using targets. `[NO LICENSE]`
 
-## [43. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [44. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Types / Playground
 
-*   [utility-types (⭐4.9k)](https://github.com/piotrwitek/utility-types) - Utility Types for TypeScript (provide compatibility with Flow's Utility Types)
-*   [elm-ts (⭐292)](https://github.com/gcanti/elm-ts) - Port of Elm architecture to TypeScript featuring fp-ts, io-ts, rxjs5 and React
+*   [utility-types (⭐5.1k)](https://github.com/piotrwitek/utility-types) - Utility Types for TypeScript (provide compatibility with Flow's Utility Types)
+*   [elm-ts (⭐299)](https://github.com/gcanti/elm-ts) - Port of Elm architecture to TypeScript featuring fp-ts, io-ts, rxjs5 and React
 
-## [44. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [45. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Multimedia content processing
 
@@ -710,7 +716,7 @@
 
 *   [BBC News Labs](https://github.com/BBC-News-Labs) - Open Source projects from BBC News Labs.
 
-## [45. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [46. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Frameworks
 
@@ -720,17 +726,17 @@
 
 *   [Corlysis](https://corlysis.com/) - Corlysis is a platform that helps you with storing and visualizing your time-series data. It is based on the open-source projects Grafana and InfluxDB that also SpaceX uses.
 
-## [46. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [47. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Command-line
 
 *   Line editor
     *   [kkawakam/rustyline (⭐1.3k)](https://github.com/kkawakam/rustyline) \[[rustyline](https://crates.io/crates/rustyline)] — readline implementation in Rust
     *   [MovingtoMars/liner (⭐72)](https://github.com/MovingtoMars/liner) \[[liner](https://crates.io/crates/liner)] — A library offering readline-like functionality
-    *   [murarth/linefeed (⭐177)](https://github.com/murarth/linefeed) \[[linefeed](https://crates.io/crates/linefeed)] — Configurable, extensible, interactive line reader
+    *   [murarth/linefeed (⭐179)](https://github.com/murarth/linefeed) \[[linefeed](https://crates.io/crates/linefeed)] — Configurable, extensible, interactive line reader
     *   [srijs/rust-copperline (⭐25)](https://github.com/srijs/rust-copperline) \[[copperline](https://crates.io/crates/copperline)] — pure-Rust command line editing library
 
-## [47. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+## [48. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Other useful repositories
 
@@ -740,7 +746,7 @@
 
 
 
-## [48. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [49. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Actionable Resources
 
@@ -752,19 +758,19 @@
 *   [The Tech Industry's Gender-Discrimination Problem](https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem) - By Sheelah Kolhatkar.
 *   [Who Killed The Junior Developer?](https://medium.com/@melissamcewen/who-killed-the-junior-developer-33e9da2dc58c) - By Melissa McEwen.
 
-## [49. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [50. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### System Deployment
 
 *   [Kubernetes](https://kubernetes.io/) - a system for automating deployment, scaling, and management of containerized applications.
 
-## [50. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [51. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Samples
 
-*   Sascha Willems's [Vulkan-glTF-PBR (⭐679)](https://github.com/SaschaWillems/Vulkan-glTF-PBR) - physical based rendering with Vulkan using glTF 2.0 models. \[MIT]
+*   Sascha Willems's [Vulkan-glTF-PBR (⭐763)](https://github.com/SaschaWillems/Vulkan-glTF-PBR) - physical based rendering with Vulkan using glTF 2.0 models. \[MIT]
 
-## [51. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [52. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Health / Miscellaneous
 
@@ -778,46 +784,46 @@
 
 
 
-## [52. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [53. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Web Frameworks
 
-*   [spider-gazelle (⭐166)](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility
+*   [spider-gazelle (⭐171)](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility
 
-## [53. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [54. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### On-Call
 
 *   [Oncall and Sustainable Software Development](https://honeycomb.io/blog/2018/02/oncall-and-sustainable-software-development/)
 
-## [54. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [55. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [EventFlow (⭐2.1k)](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET.
+*   [EventFlow (⭐2.2k)](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET.
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [Cofoundry (⭐752)](https://github.com/cofoundry-cms/cofoundry) - Open source .NET Core CMS and modular application framework. Code-first, unobtrusive and extensible.
+*   [Cofoundry (⭐797)](https://github.com/cofoundry-cms/cofoundry) - Open source .NET Core CMS and modular application framework. Code-first, unobtrusive and extensible.
 
 ### Frameworks, Libraries and Tools / Database
 
-*   [LiteDB (⭐6.8k)](https://github.com/mbdavid/LiteDB) - .NET NoSQL Document Store in a single data file - <http://www.litedb.org>.
+*   [LiteDB (⭐7.8k)](https://github.com/mbdavid/LiteDB) - .NET NoSQL Document Store in a single data file - <http://www.litedb.org>.
 
 ### Frameworks, Libraries and Tools / Database Tools and Utilities
 
-*   [DbUp (⭐1.8k)](https://github.com/DbUp/DbUp) - .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date.
+*   [DbUp (⭐2k)](https://github.com/DbUp/DbUp) - .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date.
 *   [NReco.PivotData](https://www.nuget.org/packages/NReco.PivotData) - In-memory data cube with OLAP operations and PivotTable data model.
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [ConsoleTableExt (⭐281)](https://github.com/minhhungit/ConsoleTableExt) - Fluent library to create table for .NET console application.
+*   [ConsoleTableExt (⭐312)](https://github.com/minhhungit/ConsoleTableExt) - Fluent library to create table for .NET console application.
 *   Stocks
-    *   [Trady (⭐499)](https://github.com/lppkarl/Trady) - Handy library for computing technical indicators, and it targets to be an automated trading system that provides stock data feeding, indicator computing, strategy building and automatic trading.
+    *   [Trady (⭐523)](https://github.com/lppkarl/Trady) - Handy library for computing technical indicators, and it targets to be an automated trading system that provides stock data feeding, indicator computing, strategy building and automatic trading.
 
 ### Frameworks, Libraries and Tools / ORM
 
-*   [SQLStreamStore (⭐455)](https://github.com/SQLStreamStore/SQLStreamStore) - Stream Store library targeting SQL based implementations for .NET.
+*   [SQLStreamStore (⭐467)](https://github.com/SQLStreamStore/SQLStreamStore) - Stream Store library targeting SQL based implementations for .NET.
 
 ### Books / Workflow
 

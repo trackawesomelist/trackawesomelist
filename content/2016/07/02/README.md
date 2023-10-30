@@ -28,7 +28,7 @@
 
 ### Frameworks, Libraries and Tools / Internationalization
 
-*   [Localization (⭐158)](https://github.com/aspnet/Localization) - Localization abstractions and implementations for ASP.NET Core applications.
+*   [Localization (⭐156)](https://github.com/aspnet/Localization) - Localization abstractions and implementations for ASP.NET Core applications.
 
 ## [5. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 

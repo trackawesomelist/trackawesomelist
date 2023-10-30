@@ -32,13 +32,13 @@
 
 ### Algorithms and Data structures
 
-*   [lz4 (⭐61)](https://github.com/szktty/erlang-lz4) - LZ4 bindings for Erlang for fast data compressing.
-*   [monadex (⭐300)](https://github.com/rob-brown/MonadEx) - Upgrade your Elixir pipelines with monads.
-*   [parex (⭐61)](https://github.com/StevenJL/parex) - Parallel Execute (Parex) is an Elixir module for executing multiple (slow) processes in parallel.
+*   [lz4 (⭐62)](https://github.com/szktty/erlang-lz4) - LZ4 bindings for Erlang for fast data compressing.
+*   [monadex (⭐301)](https://github.com/rob-brown/MonadEx) - Upgrade your Elixir pipelines with monads.
+*   [parex (⭐62)](https://github.com/StevenJL/parex) - Parallel Execute (Parex) is an Elixir module for executing multiple (slow) processes in parallel.
 
 ### ORM and Datamapping
 
-*   [mongo (⭐100)](https://github.com/checkiz/elixir-mongo) - MongoDB driver for Elixir.
+*   [mongo (⭐101)](https://github.com/checkiz/elixir-mongo) - MongoDB driver for Elixir.
 
 ### Text and Numbers
 
@@ -46,7 +46,7 @@
 
 ### Utilities
 
-*   [erlware\_commons (⭐216)](https://github.com/erlware/erlware_commons) - Additional standard library for Erlang.
+*   [erlware\_commons (⭐217)](https://github.com/erlware/erlware_commons) - Additional standard library for Erlang.
 
 ### Community
 

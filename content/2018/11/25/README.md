@@ -16,7 +16,7 @@
 
 ### Testing
 
-*   [timecop.cr (⭐18)](https://github.com/crystal-community/timecop.cr) - Library for mocking with `Time.now`. Inspired by the [timecop ruby gem (⭐3.2k)](https://github.com/travisjeffery/timecop)
+*   [timecop.cr (⭐19)](https://github.com/crystal-community/timecop.cr) - Library for mocking with `Time.now`. Inspired by the [timecop ruby gem (⭐3.3k)](https://github.com/travisjeffery/timecop)
 
 ## [3. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
@@ -34,11 +34,11 @@
 
 ### Tutorial
 
-*   [Vulkan Demos and Tutorials (⭐69)](https://github.com/Z80Fan/VulkanDemos). \[MIT]
+*   [Vulkan Demos and Tutorials (⭐70)](https://github.com/Z80Fan/VulkanDemos). \[MIT]
 
 ### Samples
 
-*   [Simple RTX Vulkan raytracing tutorials (⭐336)](https://github.com/iOrange/rtxON). \[MIT]
+*   [Simple RTX Vulkan raytracing tutorials (⭐349)](https://github.com/iOrange/rtxON). \[MIT]
 
 ## [6. Awesome Charting](/content/zingchart/awesome-charting/README.md)
 

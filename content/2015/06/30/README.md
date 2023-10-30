@@ -20,13 +20,13 @@
 
 ### Database
 
-*   [MongoDB C Driver (⭐767)](https://github.com/mongodb/mongo-c-driver) - MongoDB client library for C. \[Apache2]
-*   [MongoDB C++ Driver (⭐955)](https://github.com/mongodb/mongo-cxx-driver) - C++ driver for MongoDB. \[Apache2]
+*   [MongoDB C Driver (⭐779)](https://github.com/mongodb/mongo-c-driver) - MongoDB client library for C. \[Apache2]
+*   [MongoDB C++ Driver (⭐984)](https://github.com/mongodb/mongo-cxx-driver) - C++ driver for MongoDB. \[Apache2]
 *   [MongoDB Libbson (⭐342)](https://github.com/mongodb/libbson) - A BSON utility library. \[Apache2]
 
 ### Debug
 
-*   [Celero (⭐755)](https://github.com/DigitalInBlue/Celero) - C++ Benchmarking Framework. \[Apache2]
+*   [Celero (⭐784)](https://github.com/DigitalInBlue/Celero) - C++ Benchmarking Framework. \[Apache2]
 
 ### Image Processing
 
@@ -47,7 +47,7 @@
 ### Web Frameworks / Bare metal / kernel development
 
 *   [libasync (⭐139)](https://github.com/etcimon/libasync) -  Cross-platform event loop library of asynchronous objects
-*   [libhttp2 (⭐34)](https://github.com/etcimon/libhttp2) -  HTTP/2 library in D, translated from nghttp2
+*   [libhttp2 (⭐35)](https://github.com/etcimon/libhttp2) -  HTTP/2 library in D, translated from nghttp2
 
 ## [5. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Algorithms and Data structures
 
-*   [supermemo (⭐17)](https://github.com/edubkendo/supermemo) - An Elixir implementation of the [Supermemo 2 algorithm](https://www.supermemo.com/english/ol/sm2.htm).
+*   [supermemo (⭐18)](https://github.com/edubkendo/supermemo) - An Elixir implementation of the [Supermemo 2 algorithm](https://www.supermemo.com/english/ol/sm2.htm).
 
 ### Applications
 
@@ -24,24 +24,24 @@
 
 ### Cloud Infrastructure and Management
 
-*   [fleet\_api (⭐7)](https://github.com/jordan0day/fleet-api) - A simple wrapper for the Fleet (CoreOS) API. Can be used with etcd tokens or via direct node URLs.
+*   [fleet\_api (⭐8)](https://github.com/jordan0day/fleet-api) - A simple wrapper for the Fleet (CoreOS) API. Can be used with etcd tokens or via direct node URLs.
 
 ### Files and Directories
 
-*   [exfswatch (⭐237)](https://github.com/falood/exfswatch) - A file change watcher wrapper based on **fs**.
+*   [exfswatch (⭐238)](https://github.com/falood/exfswatch) - A file change watcher wrapper based on **fs**.
 
 ### Framework Components
 
 *   [phoenix\_slime (⭐305)](https://github.com/slime-lang/phoenix_slime) - Slim template support for Phoenix.
-*   [plug\_redirect\_https (⭐6)](https://github.com/stocks29/plug_redirect_https) - Plug to redirect http requests to https requests behind a reverse proxy.
+*   [plug\_redirect\_https (⭐7)](https://github.com/stocks29/plug_redirect_https) - Plug to redirect http requests to https requests behind a reverse proxy.
 
 ### HTTP
 
-*   [spell (⭐64)](https://github.com/MyMedsAndMe/spell) - Spell is a [Web Application Messaging Protocol](http://wamp-proto.org/) (WAMP) client implementation in Elixir.
+*   [spell (⭐65)](https://github.com/MyMedsAndMe/spell) - Spell is a [Web Application Messaging Protocol](http://wamp-proto.org/) (WAMP) client implementation in Elixir.
 
 ### ORM and Datamapping
 
-*   [arc\_ecto (⭐251)](https://github.com/stavro/arc_ecto) - Arc.Ecto provides an integration with Arc and Ecto.
+*   [arc\_ecto (⭐252)](https://github.com/stavro/arc_ecto) - Arc.Ecto provides an integration with Arc and Ecto.
 *   [exnumerator (⭐64)](https://github.com/KamilLelonek/exnumerator) - Elixir enumerable type definition in a simple way to be used with any database.
 
 ### Utilities
@@ -84,13 +84,13 @@
 
 ### Development / Mobile Development
 
-*   [mobisplash-cli (⭐65)](https://github.com/SamVerschueren/mobisplash-cli) - Mobile app splash screen generator.
+*   [mobisplash-cli (⭐66)](https://github.com/SamVerschueren/mobisplash-cli) - Mobile app splash screen generator.
 
 ## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Command-line apps
 
-*   [mobisplash (⭐65)](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator.
+*   [mobisplash (⭐66)](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator.
 
 ### Resources / Community
 
@@ -136,17 +136,17 @@ Webpage: <http://www.anticafe.eu/beaubourg>
 
 ### Search
 
-*   [algolia.com](https://www.algolia.com/) — Hosted search-as-you-type (instant). Free hacker plan up to 10,000 documents and 100,000 operations. Bigger free plans available for community/Open Source projects
+*   [algolia.com](https://www.algolia.com/) — Hosted search solution with typo-tolerance, relevance, and UI libraries to easily create search experiences. The free "Build" plan includes 1M documents and 10K searches/month. Also offers [developer documentation search](https://docsearch.algolia.com/) for free.
 
 ### Issue Tracking and Project Management
 
-*   [bitrix24.com](https://www.bitrix24.com/) — Intranet and project management tool. Free plan has 5GB for unlimited users.
+*   [bitrix24.com](https://www.bitrix24.com/) — Intranet and project management tool. The free plan has 5GB for unlimited users.
 
 ## [9. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [Beets (⭐11k)](https://github.com/beetbox/beets) - Music library manager and MusicBrainz tagger
+*   [Beets (⭐12k)](https://github.com/beetbox/beets) - Music library manager and MusicBrainz tagger
 
 ## [10. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 

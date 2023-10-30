@@ -89,13 +89,13 @@
 
 ### Node.js
 
-*   [Expressa (⭐409)](https://github.com/thomas4019/expressa) - Express middleware for creating APIs from JSON schemas with a simple admin editor and permissions model.
+*   [Expressa (⭐413)](https://github.com/thomas4019/expressa) - Express middleware for creating APIs from JSON schemas with a simple admin editor and permissions model.
 
 ## [12. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### For Developers / Directory Navigation
 
-*   [bcal (⭐573)](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations
+*   [bcal (⭐594)](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations
 
 ---
 

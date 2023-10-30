@@ -52,13 +52,13 @@
 
 ## [7. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
-*   [inframap (⭐1.4k)](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
-*   [terracognita (⭐1.7k)](https://github.com/cycloidio/terracognita) - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration.
-*   [terracost (⭐202)](https://github.com/cycloidio/terracost) - Cloud cost estimation for Terraform in your CLI.
-*   [terradozer (⭐158)](https://github.com/jckuester/terradozer) - Terraform destroy without configuration files.
-*   [tfcmt (⭐275)](https://github.com/suzuki-shunsuke/tfcmt) - CLI to notify the result of plan and apply as Pull Request comment.
+*   [inframap (⭐1.5k)](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
+*   [terracognita (⭐1.8k)](https://github.com/cycloidio/terracognita) - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration.
+*   [terracost (⭐234)](https://github.com/cycloidio/terracost) - Cloud cost estimation for Terraform in your CLI.
+*   [terradozer (⭐160)](https://github.com/jckuester/terradozer) - Terraform destroy without configuration files.
+*   [tfcmt (⭐323)](https://github.com/suzuki-shunsuke/tfcmt) - CLI to notify the result of plan and apply as Pull Request comment.
 
 ---
 

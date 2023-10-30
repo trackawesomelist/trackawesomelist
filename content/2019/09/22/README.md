@@ -22,13 +22,13 @@
 
 ### Packages / Email
 
-*   [MJML (⭐15k)](https://github.com/mjmlio/mjml) - Markup language designed to reduce the pain of creating responsive emails.
+*   [MJML (⭐16k)](https://github.com/mjmlio/mjml) - Markup language designed to reduce the pain of creating responsive emails.
 
 ## [4. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [Gmail Desktop (⭐693)](https://github.com/timche/gmail-desktop) - Unofficial Gmail app.
+*   [Gmail Desktop (⭐735)](https://github.com/timche/gmail-desktop) - Unofficial Gmail app.
 
 ### Closed Source / Other
 
@@ -36,17 +36,17 @@
 
 ### For Electron / Other
 
-*   [adblocker-electron (⭐641)](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - Block ads and trackers.
+*   [adblocker-electron (⭐678)](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - Block ads and trackers.
 
 ## [5. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Development Environment
 
-*   [Git Hooks (⭐866)](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
+*   [Git Hooks (⭐899)](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
 
 ### Security
 
-*   [Embedded and IoT Security (⭐1.2k)](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
+*   [Embedded and IoT Security (⭐1.4k)](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
 
 ## [6. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
@@ -75,11 +75,11 @@
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [Companion Code for Microsoft .NET Architecting Applications for the Enterprise (⭐464)](https://github.com/mastreeno/Merp) - An event based Micro ERP.
+*   [Companion Code for Microsoft .NET Architecting Applications for the Enterprise (⭐485)](https://github.com/mastreeno/Merp) - An event based Micro ERP.
 
 ### Sample Projects / JVM languages
 
-*   [Kotlin DDD Sample (⭐240)](https://github.com/fabriciorissetto/kotlin-ddd-sample) - Sample DDD/CQRS project written in Kotlin.
+*   [Kotlin DDD Sample (⭐268)](https://github.com/fabriciorissetto/kotlin-ddd-sample) - Sample DDD/CQRS project written in Kotlin.
 
 ### Libraries and Frameworks / .NET
 

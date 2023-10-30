@@ -86,33 +86,29 @@
 
 ### Programming Languages / PHP
 
-*   [composer2nix (⭐81)](https://github.com/svanderburg/composer2nix) - Generate Nix expressions to build composer packages.
+*   [composer2nix (⭐86)](https://github.com/svanderburg/composer2nix) - Generate Nix expressions to build composer packages.
 *   [composition-c4 (⭐7)](https://github.com/fossar/composition-c4) - Support for building composer packages from a `composer.lock` (using IFD).
-*   [nix-phps (⭐29)](https://github.com/fossar/nix-phps) - Flake containing old and unmaintained PHP versions (intended for CI use).
+*   [nix-phps (⭐39)](https://github.com/fossar/nix-phps) - Flake containing old and unmaintained PHP versions (intended for CI use).
 
 ## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Algorithms and Data structures
 
-*   [crystalg (⭐34)](https://github.com/tobyapi/crystalg) - A Generic Algorithm Library
+*   [crystalg (⭐35)](https://github.com/tobyapi/crystalg) - A Generic Algorithm Library
 
 ### CLI Utils
 
-*   [oq (⭐182)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐25k)](https://github.com/stedolan/jq) filters to transform the data
-
-### Database Tools
-
-*   [queryit (⭐22)](https://github.com/hugopl/queryit) - A setupless terminal based SQL query runner
+*   [oq (⭐184)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐27k)](https://github.com/stedolan/jq) filters to transform the data
 
 ### Dependency Injection
 
-*   [HardWire (⭐19)](https://github.com/jerometwell/hardwire) - A compile-time non-intrusive dependency injection system
+*   [HardWire (⭐20)](https://github.com/jerometwell/hardwire) - A compile-time non-intrusive dependency injection system
 
 ### Framework Components
 
 *   [mochi (⭐23)](https://github.com/awcrotwell/mochi) - Authentication shard inspired by Devise supporting: Authenticable, Confirmable, Invitable & more
-*   [motion.cr (⭐49)](https://github.com/awcrotwell/motion.cr) - Object oriented frontend library for Amber
-*   [tourmaline (⭐144)](https://github.com/protoncr/tourmaline) - Telegram bot framework with an API loosely based on [telegraf.js](https://telegraf.js.org/)
+*   [motion.cr (⭐53)](https://github.com/awcrotwell/motion.cr) - Object oriented frontend library for Amber
+*   [tourmaline (⭐149)](https://github.com/protoncr/tourmaline) - Telegram bot framework with an API loosely based on [telegraf.js](https://telegraf.js.org/)
 
 ### Misc
 
@@ -120,25 +116,24 @@
 
 ### ORM/ODM Extensions
 
-*   [avram (⭐149)](https://github.com/luckyframework/avram) - A database wrapper for reading, writing, and migrating Postgres databases
+*   [avram (⭐156)](https://github.com/luckyframework/avram) - A database wrapper for reading, writing, and migrating Postgres databases
 
 ### Queues and Messaging
 
-*   [mosquito (⭐193)](https://github.com/mosquito-cr/mosquito/) - Redis backed periodic and ad hoc job processing
+*   [mosquito (⭐202)](https://github.com/mosquito-cr/mosquito/) - Redis backed periodic and ad hoc job processing
 
 ### Serverless Computing
 
-*   [FaaStRuby](https://faastruby.io) - Serverless Software Development Platform for Ruby and Crystal
 *   [secrets-env (⭐6)](https://github.com/spider-gazelle/secrets-env) - Extends ENV module to read values injected by docker / kubernetes secrets and other orchestration tools
 
 ### Editor Plugins
 
 *   Geany
-    *   [geany-crystal (⭐7)](https://github.com/crystal-lang-tools/geany-crystal) - Crystal support for the [Geany editor](https://www.geany.org/)
+    *   [geany-crystal (⭐10)](https://github.com/crystal-lang-tools/geany-crystal) - Crystal support for the [Geany editor](https://www.geany.org/)
 
 ### LSP Language Server Protocol Implementations
 
-*   [crystalline (⭐336)](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language
+*   [crystalline (⭐385)](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language
 
 ## [5. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
@@ -157,13 +152,13 @@
 
 ### Crowdsourced transit data
 
-*   [GTFS-Hub (⭐19)](https://github.com/mfdz/gtfs-hub) - Community tested, probably quality/content enhanced, partially merged or filtered GTFS-feeds of (currently German) transport agencies. Maintained by [MITFAHR|DE|ZENTRALE](https://github.com/mfdz).
+*   [GTFS-Hub (⭐20)](https://github.com/mfdz/gtfs-hub) - Community tested, probably quality/content enhanced, partially merged or filtered GTFS-feeds of (currently German) transport agencies. Maintained by [MITFAHR|DE|ZENTRALE](https://github.com/mfdz).
 
 ## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Web
 
-*   [hexagonkt/hexagon (⭐472)](https://github.com/hexagonkt/hexagon) - A Microservices framework that takes care of HTTP, serialization and storage.
+*   [hexagonkt/hexagon (⭐521)](https://github.com/hexagonkt/hexagon) - A Microservices framework that takes care of HTTP, serialization and storage.
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -196,7 +191,7 @@
 ### Libraries
 
 *   [pointcloudset](https://virtual-vehicle.github.io/pointcloudset/) - Python library for efficient analysis of large datasets of point clouds recorded over time.
-    *   [GitHub repository :octocat: (⭐32)](https://github.com/virtual-vehicle/pointcloudset)
+    *   [GitHub repository :octocat: (⭐37)](https://github.com/virtual-vehicle/pointcloudset)
 
 ## [11. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
@@ -214,13 +209,13 @@
 
 ### Git / Diagnostics
 
-*   [kdheepak/lazygit.nvim (⭐703)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
+*   [kdheepak/lazygit.nvim (⭐864)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
 
 ## [14. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Feature extraction
 
-*   [spafe (⭐349)](https://github.com/SuperKogito/spafe) [:octocat: (⭐349)](https://github.com/SuperKogito/spafe) [:package:](https://pypi.org/project/spafe/) - Python library for features extraction from audio files.
+*   [spafe (⭐377)](https://github.com/SuperKogito/spafe) [:octocat: (⭐377)](https://github.com/SuperKogito/spafe) [:package:](https://pypi.org/project/spafe/) - Python library for features extraction from audio files.
 
 ### Audio Related Packages / Data augmentation
 

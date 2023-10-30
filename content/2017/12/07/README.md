@@ -29,7 +29,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [node-vue-template (⭐74)](https://github.com/mubaidr/node-vue-template) - A starter template for building complete application using Node.js (API) and Vue.js (SPA) with some included packages and configurations to help start the development quickly.
+*   [node-vue-template (⭐72)](https://github.com/mubaidr/node-vue-template) - A starter template for building complete application using Node.js (API) and Vue.js (SPA) with some included packages and configurations to help start the development quickly.
 
 ## [5. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
@@ -56,7 +56,7 @@
 
 ### View helpers
 
-*   [auto\_html (⭐782)](https://github.com/dejan/auto_html) - Rails extension for transforming URLs to appropriate resource (image, link, YouTube, Vimeo video...).
+*   [auto\_html (⭐784)](https://github.com/dejan/auto_html) - Rails extension for transforming URLs to appropriate resource (image, link, YouTube, Vimeo video...).
 
 ---
 

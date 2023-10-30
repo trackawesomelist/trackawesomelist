@@ -8,7 +8,7 @@
 
 ## [1. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Leadership / Angular
+### Leadership / Svelte
 
 *   [Software Lead Weekly](https://softwareleadweekly.com/). Insightful articles about company culture, leadership and building software in general.
 *   [Tech Lead Digest](https://techleaddigest.net/). A weekly newsletter with five interesting stories about building teams, leadership, and engineering culture.
@@ -17,17 +17,17 @@
 
 ### Tools / Misc
 
-*   [Weaviate](https://www.semi.technology/developers/weaviate/current/) – Weaviate is an [open source (⭐5.4k)](https://github.com/semi-technologies/weaviate) vector search engine and vector database. Weaviate uses machine learning to vectorize and store data, and to find answers to natural language queries. With Weaviate you can also bring your custom ML models to production scale.
+*   [Weaviate](https://www.semi.technology/developers/weaviate/current/) – Weaviate is an [open source (⭐7.5k)](https://github.com/semi-technologies/weaviate) vector search engine and vector database. Weaviate uses machine learning to vectorize and store data, and to find answers to natural language queries. With Weaviate you can also bring your custom ML models to production scale.
 
 ## [3. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / YouTube
 
-*   [yt-dlp (⭐41k)](https://github.com/yt-dlp/yt-dlp): A youtube-dl fork with additional features and fixes
+*   [yt-dlp (⭐51k)](https://github.com/yt-dlp/yt-dlp): A youtube-dl fork with additional features and fixes
 
 ### Overview / Other services
 
-*   [ArchiveBox (⭐15k)](https://github.com/ArchiveBox/ArchiveBox): Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more
+*   [ArchiveBox (⭐16k)](https://github.com/ArchiveBox/ArchiveBox): Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more
 
 ## [4. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
@@ -37,10 +37,6 @@
 *   [Active Theory](https://activetheory.net/) - Developed the Dreamwave platform.
 *   [Laguna Labs](https://lagunalabs.io/) - Immersive web tech agency.
 *   [REM5](https://www.rem5forgood.com/) - Digital immersive experience design studio specializing in education and social equity initiatives.
-
-### E-Commerce / Other
-
-*   [Ozone Universe](https://ozoneuniverse.com/) - Virtual enterprise platform for meetings, marketing, and e-commerce.
 
 ## [5. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
 
@@ -52,7 +48,7 @@
 
 ### System and Customization
 
-*   [Dynamic Gnome Wallpapers (⭐204)](https://github.com/manishprivet/dynamic-gnome-wallpapers) - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
+*   [Dynamic Gnome Wallpapers (⭐254)](https://github.com/manishprivet/dynamic-gnome-wallpapers) - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
 
 ---
 

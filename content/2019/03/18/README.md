@@ -28,11 +28,11 @@
 
 ### E-Commerce and Payments
 
-*   [NopCommerce (⭐8.1k)](https://github.com/nopSolutions/nopCommerce) - nopCommerce. Free open-source e-commerce shopping cart (ASP.NET Core)
+*   [NopCommerce (⭐8.5k)](https://github.com/nopSolutions/nopCommerce) - nopCommerce. Free open-source e-commerce shopping cart (ASP.NET Core)
 
 ### HTTP
 
-*   [Tiny.RestClient (⭐197)](https://github.com/jgiacomini/Tiny.RestClient) - Simpliest Fluent REST client for .NET.
+*   [Tiny.RestClient (⭐201)](https://github.com/jgiacomini/Tiny.RestClient) - Simpliest Fluent REST client for .NET.
 
 ## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [System.CommandLine (⭐2.9k)](https://github.com/dotnet/command-line-api) - System.CommandLine, a set of libraries for command line parsing, invocation, and rendering of terminal output.
+*   [System.CommandLine (⭐3.2k)](https://github.com/dotnet/command-line-api) - System.CommandLine, a set of libraries for command line parsing, invocation, and rendering of terminal output.
 
 ## [8. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Artificial Intelligence / Web
 
-*   [Duck Hunt (⭐531)](https://github.com/MattSurabian/DuckHunt-JS) - Shooting game in ducks. [Play](http://duckhuntjs.com/).
+*   [Duck Hunt (⭐542)](https://github.com/MattSurabian/DuckHunt-JS) - Shooting game in ducks. [Play](http://duckhuntjs.com/).
 *   [Starship](http://maettig.com/code/canvas/starship-sorades-13k.zip) - Traditional starship game. [Play](http://games.leonardomauro.com/starshipsorades/).
 *   [WebNES](https://github.com/pubby) - Play rooms of NES in web browser. [Play](http://pubby.github.io/webnes/index_app.html).
 

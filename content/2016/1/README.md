@@ -25,7 +25,7 @@
 
 ### CI and CD
 
-*   [codeship.com](https://codeship.com/) — 100 private builds/month, 5 private projects, unlimited for Open Source
+*   [codeship.com](https://codeship.com/) — 100 private builds/month, five private projects, unlimited for Open Source
 *   [styleci.io](https://styleci.io/) — Public GitHub repositories only
 
 ### Management System
@@ -34,15 +34,15 @@
 
 ### Log Management
 
-*   [logentries.com](https://logentries.com/) — Free up to 5 GB/month with 7 days retention
+*   [logentries.com](https://logentries.com/) — Free up to 5 GB/month with seven days retention
 
 ### Translation Management
 
-*   [crowdin.com](https://crowdin.com/) — Unlimited projects, unlimited strings and collaborators for Open Source
+*   [crowdin.com](https://crowdin.com/) — Unlimited projects, unlimited strings, and collaborators for Open Source
 
 ### Monitoring
 
-*   [deadmanssnitch.com](https://deadmanssnitch.com/) — Monitoring for cron jobs. 1 free snitch (monitor), more if you refer others to sign up
+*   [deadmanssnitch.com](https://deadmanssnitch.com/) — Monitoring for cron jobs. One free snitch (monitor), more if you refer others to sign up
 
 ### Search
 
@@ -50,7 +50,7 @@
 
 ### CDN and Protection
 
-*   [developers.google.com](https://developers.google.com/speed/libraries/) — The Google Hosted Libraries is a content distribution network for the most popular, Open Source JavaScript libraries
+*   [developers.google.com](https://developers.google.com/speed/libraries/) — The Google Hosted Libraries is a content distribution network for the most popular Open Source JavaScript libraries
 
 ### PaaS
 
@@ -62,15 +62,15 @@
 
 ### Web Hosting
 
-*   [readthedocs.org](https://readthedocs.org/) — Free documentation hosting with versioning, PDF generation and more
+*   [readthedocs.org](https://readthedocs.org/) — Free documentation hosting with versioning, PDF generation, and more
 
 ### DNS
 
 *   [dns.he.net](https://dns.he.net/) — Free DNS hosting service with Dynamic DNS Support
 
-### DBaaS
+### Managed Data Services
 
-*   [skyvia.com](https://skyvia.com/) — Cloud Data Platform, offers free tier and all plans are completely free while in beta
+*   [skyvia.com](https://skyvia.com/) — Cloud Data Platform offers a free tier and all plans are completely free while in beta
 
 ### Issue Tracking and Project Management
 
@@ -132,7 +132,7 @@
 
 ### Static Site Generation
 
-*   [Photish (⭐148)](https://github.com/henrylawson/photish) - Generate a highly configurable static website from a photo collection.
+*   [Photish (⭐149)](https://github.com/henrylawson/photish) - Generate a highly configurable static website from a photo collection.
 
 ## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -213,7 +213,7 @@
 
 ### Images / Barcode
 
-*   [PassportScanner (⭐447)](https://github.com/evermeer/PassportScanner) - Scan the MRZ code of a passport and extract the first name, last name, passport number, nationality, date of birth, expiration date and personal number.
+*   [PassportScanner (⭐454)](https://github.com/evermeer/PassportScanner) - Scan the MRZ code of a passport and extract the first name, last name, passport number, nationality, date of birth, expiration date and personal number.
 
 ### Utility / Barcode
 
@@ -729,7 +729,7 @@
 
 ### For Developers / Directory Navigation
 
-*   [dokku (⭐24k)](https://github.com/dokku/dokku) - Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen.
+*   [dokku (⭐25k)](https://github.com/dokku/dokku) - Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen.
 *   [hub (⭐22k)](https://github.com/github/hub) - hub helps you win at git.
 
 ### System Utilities / Directory Navigation
@@ -882,7 +882,7 @@
 
 ### Serialization
 
-*   [cppcodec (⭐515)](https://github.com/tplgy/cppcodec) - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. \[MIT]
+*   [cppcodec (⭐554)](https://github.com/tplgy/cppcodec) - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. \[MIT]
 
 ### Miscellaneous
 
@@ -892,25 +892,25 @@
 
 ### Command Line Applications
 
-*   [table\_rex (⭐194)](https://github.com/djm/table_rex) - Generate configurable ASCII style tables for display.
+*   [table\_rex (⭐232)](https://github.com/djm/table_rex) - Generate configurable ASCII style tables for display.
 
 ### Files and Directories
 
-*   [exfile (⭐88)](https://github.com/keichan34/exfile) - File upload handling, persistence, and processing in Elixir and Plug.
+*   [exfile (⭐89)](https://github.com/keichan34/exfile) - File upload handling, persistence, and processing in Elixir and Plug.
 
 ### ORM and Datamapping
 
-*   [couchdb\_connector (⭐94)](https://github.com/locolupo/couchdb_connector) - A connector for CouchDB, the Erlang-based, JSON document database.
+*   [couchdb\_connector (⭐95)](https://github.com/locolupo/couchdb_connector) - A connector for CouchDB, the Erlang-based, JSON document database.
 
 ### Utilities
 
-*   [quark (⭐321)](https://github.com/robot-overlord/quark) - A library for common functional programming idioms: combinators, currying, and partial application.
+*   [quark (⭐324)](https://github.com/robot-overlord/quark) - A library for common functional programming idioms: combinators, currying, and partial application.
 
 ## [33. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Music Notation
 
-*   [Lilyvm (⭐5)](https://github.com/olsonpm/lilyvm) - Lilypond version manager.
+*   [Lilyvm (⭐6)](https://github.com/olsonpm/lilyvm) - Lilypond version manager.
 
 ---
 

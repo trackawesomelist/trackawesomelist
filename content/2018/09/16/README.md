@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 16, 2018
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Robotics
 
-*   [PythonRobotics (⭐18k)](https://github.com/AtsushiSakai/PythonRobotics) - This is a compilation of various robotics algorithms with visualizations.
+*   [PythonRobotics (⭐19k)](https://github.com/AtsushiSakai/PythonRobotics) - This is a compilation of various robotics algorithms with visualizations.
 *   [rospy](http://wiki.ros.org/rospy) - This is a library for ROS (Robot Operating System).
 
 ## [2. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
@@ -34,19 +34,13 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [ee-ts (⭐122)](https://github.com/aleclarson/ee-ts) - Typed event emitters
+*   :octocat: [ee-ts (⭐125)](https://github.com/aleclarson/ee-ts) - Typed event emitters
 
 ## [4. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Open Source Apps / Navigation Demos
 
 *   [Smog Alert App (⭐9)](https://github.com/Bartozzz/smog-alert-app) – provides real-time air pollution data all around the world and shows nearby polluters.
-
-## [5. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
-
-### Apps
-
-*   [Pugdit (⭐11)](https://github.com/zbyte64/pugdit) - A bulletin board service that discovers and distributes over IPFS
 
 ---
 

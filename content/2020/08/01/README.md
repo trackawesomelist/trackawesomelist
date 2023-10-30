@@ -16,7 +16,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-use-infinite-scroll (⭐110)](https://github.com/jfet97/vue-use-infinite-scroll) - ♾️ A Vue composition function that makes infinite scroll a breeze.
+*   [vue-use-infinite-scroll (⭐111)](https://github.com/jfet97/vue-use-infinite-scroll) - ♾️ A Vue composition function that makes infinite scroll a breeze.
 
 ## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
@@ -47,13 +47,13 @@
 
 *   [Fiery Feeds](http://cocoacake.net/apps/fiery/) <sup>[244](https://t.me/s/aboutrss/244), [286](https://t.me/s/aboutrss/286), [630](https://t.me/s/aboutrss/630), [739](https://t.me/s/aboutrss/739)</sup> [![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/de/app/fiery-feeds-rss-reader/id1158763303)[![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://apps.apple.com/us/app/fiery-feeds-rss-reader/id1477373845?ls=1\&mt=12)
 *   [Newsify](https://newsify.co/) [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](https://newsify.co/app)[![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://itunes.apple.com/us/app/newsify-your-news-blog-rss/id510153374?mt=8)
-*   [Kinss for Kindle (⭐33)](https://github.com/xizeyoupan/kinss) <sup>[731](https://t.me/s/aboutrss/731)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/xizeyoupan/kinss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Kinss for Kindle (⭐42)](https://github.com/xizeyoupan/kinss) <sup>[731](https://t.me/s/aboutrss/731)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/xizeyoupan/kinss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Self Hosted Readers / Outline Processor Markup Language
 
 *   [Tiny Tiny RSS](https://tt-rss.org) <sup>[21](https://t.me/s/aboutrss/21), [37](https://t.me/s/aboutrss/37), [183](https://t.me/s/aboutrss/183), [184](https://t.me/s/aboutrss/184), [210](https://t.me/s/aboutrss/210), [211](https://t.me/s/aboutrss/211), [285](https://t.me/s/aboutrss/285), [309](https://t.me/s/aboutrss/309), [323](https://t.me/s/aboutrss/323), [371](https://t.me/s/aboutrss/371), [373](https://t.me/s/aboutrss/373), [405](https://t.me/s/aboutrss/405), [428](https://t.me/s/aboutrss/428), [444](https://t.me/s/aboutrss/444), [559](https://t.me/s/aboutrss/559), [610](https://t.me/s/aboutrss/610), [640](https://t.me/s/aboutrss/640), [800](https://t.me/s/aboutrss/800), [827](https://t.me/s/aboutrss/827), [831](https://t.me/s/aboutrss/831), [841](https://t.me/s/aboutrss/841), [853](https://t.me/s/aboutrss/853), [1040](https://t.me/s/aboutrss/1040),[1094](https://t.me/s/aboutrss/1094) </sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://git.tt-rss.org/fox/tt-rss)
     *   [Awesome TTRSS](http://ttrss.henry.wang/) <sup>[211](https://t.me/s/aboutrss/211), [285](https://t.me/s/aboutrss/285), [371](https://t.me/s/aboutrss/371)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/HenryQW/Awesome-TTRSS)
-    *   [docker-ttrss (⭐53)](https://github.com/x86dev/docker-ttrss) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/x86dev/docker-ttrss)
+    *   [docker-ttrss (⭐54)](https://github.com/x86dev/docker-ttrss) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/x86dev/docker-ttrss)
     *   [tiny Reader RSS](https://www.pluchon.com/en/tiny_reader_rss.php) [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://itunes.apple.com/us/app/tiny-reader-rss/id689519762?mt=8)
 
 ### Terminal-based / programmable RSS readers / Outline Processor Markup Language
@@ -79,13 +79,13 @@
 *   [InforBar](http://mitec.cz/infobar.html) <sup>[658](https://t.me/s/aboutrss/658)</sup> ![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Here](https://here.app/) <sup>[733](https://t.me/s/aboutrss/733)</sup> ![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/hereappdev)
 
-### RSS Feed Finding/Detection / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### RSS Feed Finding/Detection / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [RSSPreview (⭐87)](https://github.com/aureliendavid/rsspreview) [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/rsspreview/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/aureliendavid/rsspreview)
+*   [RSSPreview (⭐94)](https://github.com/aureliendavid/rsspreview) [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/rsspreview/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/aureliendavid/rsspreview)
 
-### Tech or IT / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Tech or IT / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [Awesome ML/AI RSS feed (⭐67)](https://github.com/vishalshar/awesome_ML_AI_RSS_feed) <sup>[736](https://t.me/s/aboutrss/736)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/vishalshar/awesome_ML_AI_RSS_feed)
+*   [Awesome ML/AI RSS feed (⭐97)](https://github.com/vishalshar/awesome_ML_AI_RSS_feed) <sup>[736](https://t.me/s/aboutrss/736)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/vishalshar/awesome_ML_AI_RSS_feed)
 
 ### Telegram Groups / Channels / Crypto or Blockchain relevant
 
@@ -103,39 +103,39 @@
 
 ### Time Series Data
 
-*   [tf\_deep\_rl\_trader (⭐221)](https://github.com/miroblog/tf_deep_rl_trader) - Trading environment(OpenAI Gym) + PPO(TensorForce).
-*   [deep\_rl\_trader (⭐358)](https://github.com/miroblog/deep_rl_trader) - Trading environment(OpenAI Gym) + DDQN (Keras-RL).
-*   [stock\_market\_reinforcement\_learning (⭐770)](https://github.com/kh-kim/stock_market_reinforcement_learning) - Stock market trading OpenAI Gym environment with Deep Reinforcement Learning using Keras.
+*   [tf\_deep\_rl\_trader (⭐225)](https://github.com/miroblog/tf_deep_rl_trader) - Trading environment(OpenAI Gym) + PPO(TensorForce).
+*   [deep\_rl\_trader (⭐382)](https://github.com/miroblog/deep_rl_trader) - Trading environment(OpenAI Gym) + DDQN (Keras-RL).
+*   [stock\_market\_reinforcement\_learning (⭐773)](https://github.com/kh-kim/stock_market_reinforcement_learning) - Stock market trading OpenAI Gym environment with Deep Reinforcement Learning using Keras.
 
 ### Portfolio Management
 
-*   [qtrader (⭐414)](https://github.com/filangel/qtrader) - Reinforcement Learning for portfolio management.
+*   [qtrader (⭐422)](https://github.com/filangel/qtrader) - Reinforcement Learning for portfolio management.
 *   [PGPortfolio (⭐1.6k)](https://github.com/ZhengyaoJiang/PGPortfolio) - A Deep Reinforcement Learning framework for the financial portfolio management problem.
 
 ### Crypto Currencies Strategies
 
-*   [tforce\_btc\_trader (⭐782)](https://github.com/lefnire/tforce_btc_trader) - TensorForce Bitcoin trading bot.
+*   [tforce\_btc\_trader (⭐790)](https://github.com/lefnire/tforce_btc_trader) - TensorForce Bitcoin trading bot.
 *   [gekkoga (⭐305)](https://github.com/gekkowarez/gekkoga) - Genetic algorithm for solving optimization of trading strategies using Gekko.
 
 ### Technical Analysis
 
 *   [Bitcoin\_MACD\_Strategy (⭐9)](https://github.com/VermeirJellen/Bitcoin_MACD_Strategy) - Bitcoin MACD crossover trading strategy backtest.
-*   [crypto-signal (⭐4.4k)](https://github.com/CryptoSignal/crypto-signal) - Automated crypto trading & technical analysis (TA) bot for Bittrex, Binance, GDAX, and more.
+*   [crypto-signal (⭐4.5k)](https://github.com/CryptoSignal/crypto-signal) - Automated crypto trading & technical analysis (TA) bot for Bittrex, Binance, GDAX, and more.
 
 ### Data Sources / Crypto Currencies
 
-*   [Gekko-Datasets (⭐156)](https://github.com/xFFFFF/Gekko-Datasets) - Gekko trading bot dataset dumps. Download and use history files in SQLite format.
+*   [Gekko-Datasets (⭐160)](https://github.com/xFFFFF/Gekko-Datasets) - Gekko trading bot dataset dumps. Download and use history files in SQLite format.
 
 ### Research Tools / Crypto Currencies
 
-*   🌟🌟 [TensorTrade (⭐4.2k)](https://github.com/tensortrade-org/tensortrade) - Trade efficiently with reinforcement learning.
+*   🌟🌟 [TensorTrade (⭐4.3k)](https://github.com/tensortrade-org/tensortrade) - Trade efficiently with reinforcement learning.
 *   [empyrical (⭐1.1k)](https://github.com/quantopian/empyrical) - Common financial risk and performance metrics. Used by Zipline and pyfolio.
 
 ### Traditional Market / Crypto Currencies
 
-*   🌟🌟 [zipline (⭐16k)](https://github.com/quantopian/zipline) - A python algorithmic trading library.
-*   [backtrader (⭐11k)](https://github.com/backtrader/backtrader) - Python backtesting library for trading strategies.
-*   [kungfu (⭐2.8k)](https://github.com/taurusai/kungfu) - Kungfu Master trading system.
+*   🌟🌟 [zipline (⭐17k)](https://github.com/quantopian/zipline) - A python algorithmic trading library.
+*   [backtrader (⭐12k)](https://github.com/backtrader/backtrader) - Python backtesting library for trading strategies.
+*   [kungfu (⭐2.9k)](https://github.com/taurusai/kungfu) - Kungfu Master trading system.
 
 ### Crypto Currencies / Crypto Currencies
 
@@ -143,7 +143,7 @@
 
 ### TA Lib / Plugins
 
-*   [tulipnode (⭐463)](https://github.com/TulipCharts/tulipnode) - Official Node.js wrapper for Tulip Indicators. Provides over 100 technical analysis overlay and indicator functions.
+*   [tulipnode (⭐473)](https://github.com/TulipCharts/tulipnode) - Official Node.js wrapper for Tulip Indicators. Provides over 100 technical analysis overlay and indicator functions.
 
 ## [8. Awesome Esp](/content/agucova/awesome-esp/README.md)
 

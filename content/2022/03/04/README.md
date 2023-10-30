@@ -44,7 +44,7 @@
 
 ### Games & Comics
 
-- API: [When is next MCU film (⭐130)](https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md)
+- API: [When is next MCU film (⭐170)](https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md)
 
   Description: Upcoming MCU film information
 
@@ -64,24 +64,24 @@
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### ZSH on Windows / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### ZSH on Windows / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   `ConEmu`/`zsh` out-of-the-box configured to restore previously opened tabs and shell working directories after `ConEmu` restart
 *   `MSYS2` included, `zsh` and necessary software preinstalled, uses zsh-grml-config
-*   Uses [Antigen (⭐7.6k)](https://github.com/zsh-users/antigen) for ZSH theme and config management
+*   Uses [Antigen (⭐7.7k)](https://github.com/zsh-users/antigen) for ZSH theme and config management
 *   Git-for-Windows repo with proper `git` and `git lfs` support for `MSYS2` environment is configured, `git` client already installed.
-*   Non-blocking ZSH prompt status updates thanks to [agkozak-zsh-prompt (⭐250)](https://github.com/agkozak/agkozak-zsh-prompt)
+*   Non-blocking ZSH prompt status updates thanks to [agkozak-zsh-prompt (⭐252)](https://github.com/agkozak/agkozak-zsh-prompt)
 *   Command-not-found handler customized for `MSYS2` suggests what package to install
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [snowflake (⭐2)](https://github.com/angelina-tsuboi/snowflake-zsh-theme) - An elegant, simple, and neat ZSH theme including an aesthetically pleasing cool color palette that harmonizes with dark themes.
+*   [snowflake (⭐3)](https://github.com/angelina-tsuboi/snowflake-zsh-theme) - An elegant, simple, and neat ZSH theme including an aesthetically pleasing cool color palette that harmonizes with dark themes.
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Utility / Diagnostics
 
-*   [gaborvecsei/cryptoprice.nvim (⭐16)](https://github.com/gaborvecsei/cryptoprice.nvim) - Check the price of the defined cryptocurrencies.
+*   [gaborvecsei/cryptoprice.nvim (⭐19)](https://github.com/gaborvecsei/cryptoprice.nvim) - Check the price of the defined cryptocurrencies.
 
 ## [6. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
 
@@ -121,11 +121,11 @@
 
 ### :wrench: Tools / Before 2000
 
-*   [FUU (⭐41)](https://github.com/crackinglandia/fuu) - Fast Universal Unpacker.
+*   [FUU (⭐42)](https://github.com/crackinglandia/fuu) - Fast Universal Unpacker.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### DBaaS
+### Managed Data Services
 
 *   [redislabs](https://redislabs.com/try-free/) - Free 30MB redis instance
 
@@ -140,10 +140,10 @@
 ### Libraries / New Libraries
 
 *   Neural Network Libraries
-    *   [FedJAX (⭐220)](https://github.com/google/fedjax) - Federated learning in JAX, built on Optax and Haiku. <img src="https://img.shields.io/github/stars/google/fedjax?style=social" align="center">
-    *   [Equivariant MLP (⭐215)](https://github.com/mfinzi/equivariant-MLP) - Construct equivariant neural network layers. <img src="https://img.shields.io/github/stars/mfinzi/equivariant-MLP?style=social" align="center">
-    *   [jax-resnet (⭐88)](https://github.com/n2cholas/jax-resnet/) - Implementations and checkpoints for ResNet variants in Flax. <img src="https://img.shields.io/github/stars/n2cholas/jax-resnet?style=social" align="center">
-    *   [Parallax (⭐155)](https://github.com/srush/parallax) - Immutable Torch Modules for JAX. <img src="https://img.shields.io/github/stars/srush/parallax?style=social" align="center">
+    *   [FedJAX (⭐240)](https://github.com/google/fedjax) - Federated learning in JAX, built on Optax and Haiku. <img src="https://img.shields.io/github/stars/google/fedjax?style=social" align="center">
+    *   [Equivariant MLP (⭐232)](https://github.com/mfinzi/equivariant-MLP) - Construct equivariant neural network layers. <img src="https://img.shields.io/github/stars/mfinzi/equivariant-MLP?style=social" align="center">
+    *   [jax-resnet (⭐96)](https://github.com/n2cholas/jax-resnet/) - Implementations and checkpoints for ResNet variants in Flax. <img src="https://img.shields.io/github/stars/n2cholas/jax-resnet?style=social" align="center">
+    *   [Parallax (⭐157)](https://github.com/srush/parallax) - Immutable Torch Modules for JAX. <img src="https://img.shields.io/github/stars/srush/parallax?style=social" align="center">
 
 ## [11. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -189,7 +189,7 @@
 
 ### Overview / Reddit
 
-*   [junipf/reddit-frontend (⭐21)](https://github.com/junipf/reddit-frontend): A reddit front-end written in React
+*   [junipf/reddit-frontend (⭐26)](https://github.com/junipf/reddit-frontend): A reddit front-end written in React
     *   Official instance: <https://jpf-reddit.netlify.app>
 
 ---

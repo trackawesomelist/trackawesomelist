@@ -120,7 +120,6 @@ Outdated items can be found in the [archive](https://github.com/wernerkrauss/awe
 *   [Fulltext Search (⭐43)](https://github.com/silverstripe/silverstripe-fulltextsearch) - Full fledged search interface for Solr4 (EOL).
 *   [Fulltext Search Local Solr](https://addons.silverstripe.org/add-ons/silverstripe/fulltextsearch-localsolr) - Easy to install Solr4 (EOL) instance for local development.
 *   [Solr search (⭐10)](https://github.com/firesphere/silverstripe-solr-search) - Interface for Solr search, supporting up to the latest Solr (9) version. With submodules for e.g. transitioning from the "Fulltext Search" module, as well as subsite, fluent and others.
-*   [Elastic search (⭐0)](https://github.com/firesphere/silverstripe-elastic) - Interface for Elastic search, supports Elasticsearch 8+ version. API similar, identical where possible, to the Solr search module.
 
 ### Development Helpers
 

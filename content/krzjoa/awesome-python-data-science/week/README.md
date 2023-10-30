@@ -46,7 +46,7 @@ Probably the best curated list of data science software in Python.
 
 ## [Sep 25 - Oct 01, 2023](/content/2023/39/README.md)
 
-### Machine Learning / Automated Machine Learning
+### Automated Machine Learning / Others
 
 *   [Auto-PyTorch (⭐2.1k)](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
@@ -65,10 +65,6 @@ Probably the best curated list of data science software in Python.
 *   [NGBoost (⭐1.5k)](https://github.com/stanfordmlgroup/ngboost) - Natural Gradient Boosting for Probabilistic Prediction.
 *   [TensorFlow Decision Forests (⭐622)](https://github.com/tensorflow/decision-forests) - A collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models in Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="keras"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
 
-### Machine Learning / Automated Machine Learning
-
-*   [AutoKeras (⭐9k)](https://github.com/keras-team/autokeras) - AutoML library for deep learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
-
 ### Deep Learning / JAX
 
 *   [JAX (⭐25k)](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
@@ -78,6 +74,10 @@ Probably the best curated list of data science software in Python.
 ### Deep Learning / Others
 
 *   [transformers (⭐114k)](https://github.com/huggingface/transformers) - State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
+
+### Automated Machine Learning / Others
+
+*   [AutoKeras (⭐9k)](https://github.com/keras-team/autokeras) - AutoML library for deep learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 
 ### Natural Language Processing / Others
 
@@ -212,7 +212,7 @@ Probably the best curated list of data science software in Python.
 
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
-### Machine Learning / Automated Machine Learning
+### Automated Machine Learning / Others
 
 *   [AutoGluon (⭐6.3k)](https://github.com/awslabs/autogluon) - AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
 
@@ -530,12 +530,6 @@ Probably the best curated list of data science software in Python.
 *   [CatBoost (⭐7.4k)](https://github.com/catboost/catboost) - An open-source gradient boosting on decision trees library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/gpu_big.png" alt="GPU accelerated">
 *   [ThunderGBM (⭐675)](https://github.com/Xtra-Computing/thundergbm) - Fast GBDTs and Random Forests on GPUs. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/gpu_big.png" alt="GPU accelerated">
 
-### Machine Learning / Automated Machine Learning
-
-*   [auto-sklearn (⭐7.2k)](https://github.com/automl/auto-sklearn) - An AutoML toolkit and a drop-in replacement for a scikit-learn estimator. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [TPOT (⭐9.3k)](https://github.com/rhiever/tpot) - AutoML tool that optimizes machine learning pipelines using genetic programming. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [MLBox (⭐1.4k)](https://github.com/AxeldeRomblay/MLBox) - A powerful Automated Machine Learning python library.
-
 ### Machine Learning / Ensemble Methods
 
 *   [ML-Ensemble](http://ml-ensemble.com/) - High performance ensemble learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
@@ -594,6 +588,12 @@ Probably the best curated list of data science software in Python.
 *   [Gluon (⭐2.3k)](https://github.com/gluon-api/gluon-api) - A clear, concise, simple yet powerful and efficient API for deep learning (now included in MXNet). <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/mxnet_big.png" alt="MXNet based">
 *   [Xfer (⭐251)](https://github.com/amzn/xfer) - Transfer Learning library for Deep Neural Networks. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/mxnet_big.png" alt="MXNet based">
 *   [MXNet (⭐29)](https://github.com/ROCmSoftwarePlatform/mxnet) - HIP Port of MXNet. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/mxnet_big.png" alt="MXNet based"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/amd_big.png" alt="Possible to run on AMD GPU">
+
+### Automated Machine Learning / Others
+
+*   [auto-sklearn (⭐7.2k)](https://github.com/automl/auto-sklearn) - An AutoML toolkit and a drop-in replacement for a scikit-learn estimator. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [TPOT (⭐9.3k)](https://github.com/rhiever/tpot) - AutoML tool that optimizes machine learning pipelines using genetic programming. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [MLBox (⭐1.4k)](https://github.com/AxeldeRomblay/MLBox) - A powerful Automated Machine Learning python library.
 
 ### Natural Language Processing / Others
 

@@ -23,7 +23,7 @@
 
 ### Software / Miscellaneous
 
-*   [AlertHub (⭐145)](https://github.com/Ardakilic/alerthub) `⚠` - AlertHub is a simple tool to get alerted from GitHub releases. `MIT` `Nodejs`
+*   [AlertHub (⭐163)](https://github.com/Ardakilic/alerthub) `⚠` - AlertHub is a simple tool to get alerted from GitHub releases. `MIT` `Nodejs/Docker`
 
 ## [4. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
@@ -37,7 +37,7 @@
 
 *   Entity Framework Core
     *   [.NET Core Data Access](https://blogs.msdn.microsoft.com/dotnet/2016/11/09/net-core-data-access/)
-    *   [A very good example about EF Core (⭐115)](https://github.com/rowanmiller/Demo-EFCore)
+    *   [A very good example about EF Core (⭐116)](https://github.com/rowanmiller/Demo-EFCore)
     *   [Connect to Postgres with EF Core](http://en.otomatikmuhendis.com/2017/05/05/connect-to-postgres-with-ef-core/)
 
 ## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)

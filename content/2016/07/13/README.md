@@ -26,7 +26,7 @@
 
 ### Applications / Directory Navigation
 
-*   [vl (⭐20)](https://github.com/ellisonleao/vl) - URL link checker on text documents
+*   [vl (⭐23)](https://github.com/ellisonleao/vl) - URL link checker on text documents
 
 ## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -52,12 +52,12 @@
 
 ### Utility / Barcode
 
-*   [Solar (⭐517)](https://github.com/ceeK/Solar) - Calculate sunrise and sunset times given a location.
+*   [Solar (⭐537)](https://github.com/ceeK/Solar) - Calculate sunrise and sunset times given a location.
 
 ### Version Manager / Barcode
 
-*   [AppVersionMonitor (⭐257)](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.
-*   [Version Tracker Swift (⭐82)](https://github.com/tbaranes/VersionTrackerSwift) - Versions tracker for your iOS, OS X, and tvOS app.
+*   [AppVersionMonitor (⭐258)](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.
+*   [Version Tracker Swift (⭐84)](https://github.com/tbaranes/VersionTrackerSwift) - Versions tracker for your iOS, OS X, and tvOS app.
 
 ---
 

@@ -16,7 +16,7 @@
 
 ### Templates / Preferences
 
-*   [Flutter Samples (⭐2.8k)](https://github.com/diegoveloper/flutter-samples) <!--stargazers:diegoveloper/flutter-samples--> - Collection of nice flutter samples by [Diego Velásquez](https://github.com/diegoveloper).
+*   [Flutter Samples (⭐2.9k)](https://github.com/diegoveloper/flutter-samples) <!--stargazers:diegoveloper/flutter-samples--> - Collection of nice flutter samples by [Diego Velásquez](https://github.com/diegoveloper).
 
 ## [3. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -46,13 +46,13 @@
 
 ### Localization / Barcode
 
-*   [CrowdinSDK (⭐101)](https://github.com/crowdin/mobile-sdk-ios) - Delivers all new translations from Crowdin project to the application immediately.
+*   [CrowdinSDK (⭐108)](https://github.com/crowdin/mobile-sdk-ios) - Delivers all new translations from Crowdin project to the application immediately.
 
 ## [8. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### QR
 
-*   [RQRCode (⭐1.7k)](https://github.com/whomwah/rqrcode) - RQRCode is a library for creating and rendering QR codes into various formats.
+*   [RQRCode (⭐1.8k)](https://github.com/whomwah/rqrcode) - RQRCode is a library for creating and rendering QR codes into various formats.
 
 ## [9. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -65,41 +65,41 @@
 
 ### Schema / Changes
 
-*   [SchemaHero (⭐763)](https://github.com/schemahero/schemahero) - A Kubernetes operator for declarative database schema management (gitops for database schemas).
-*   [Sqitch (⭐2.5k)](https://github.com/sqitchers/sqitch) - Sensible database-native change management for framework-free development and dependable deployment.
+*   [SchemaHero (⭐888)](https://github.com/schemahero/schemahero) - A Kubernetes operator for declarative database schema management (gitops for database schemas).
+*   [Sqitch (⭐2.6k)](https://github.com/sqitchers/sqitch) - Sensible database-native change management for framework-free development and dependable deployment.
 
 ### API / Samples
 
-*   [sandman2 (⭐1.9k)](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database.
+*   [sandman2 (⭐2k)](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database.
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [ASH Viewer (⭐136)](https://github.com/akardapolov/ASH-Viewer) - Provides a graphical view of active session history data within the Oracle and PostgreSQL DB.
-*   [mssql-monitoring (⭐83)](https://github.com/microsoft/mssql-monitoring) - Monitor your SQL Server on Linux performance using collectd, InfluxDB and Grafana.
+*   [ASH Viewer (⭐146)](https://github.com/akardapolov/ASH-Viewer) - Provides a graphical view of active session history data within the Oracle and PostgreSQL DB.
+*   [mssql-monitoring (⭐87)](https://github.com/microsoft/mssql-monitoring) - Monitor your SQL Server on Linux performance using collectd, InfluxDB and Grafana.
 
 ### Testing / Zabbix
 
-*   [RegreSQL (⭐251)](https://github.com/dimitri/regresql) - Regression Testing your SQL queries.
+*   [RegreSQL (⭐260)](https://github.com/dimitri/regresql) - Regression Testing your SQL queries.
 
 ### HA/Failover/Sharding / Zabbix
 
-*   [postgresql\_cluster (⭐728)](https://github.com/vitabaks/postgresql_cluster) - PostgreSQL High-Availability Cluster (based on "Patroni" and "DCS(etcd)"). Automating deployment with Ansible.
+*   [postgresql\_cluster (⭐937)](https://github.com/vitabaks/postgresql_cluster) - PostgreSQL High-Availability Cluster (based on "Patroni" and "DCS(etcd)"). Automating deployment with Ansible.
 
 ### Configuration Tuning / Zabbix
 
-*   [MySQLTuner-perl (⭐8k)](https://github.com/major/MySQLTuner-perl) - Script written in Perl that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.
-*   [postgresqltuner.pl (⭐2.4k)](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice.
+*   [MySQLTuner-perl (⭐8.3k)](https://github.com/major/MySQLTuner-perl) - Script written in Perl that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.
+*   [postgresqltuner.pl (⭐2.5k)](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice.
 
 ### Distributions / Zabbix
 
-*   [DBdeployer (⭐644)](https://github.com/datacharmer/dbdeployer) - Tool that deploys MySQL database servers easily.
-*   [Postgres.app (⭐6.6k)](https://github.com/PostgresApp/PostgresApp) - Full-featured PostgreSQL installation packaged as a standard Mac app.
+*   [DBdeployer (⭐682)](https://github.com/datacharmer/dbdeployer) - Tool that deploys MySQL database servers easily.
+*   [Postgres.app (⭐6.9k)](https://github.com/PostgresApp/PostgresApp) - Full-featured PostgreSQL installation packaged as a standard Mac app.
 *   [BigSQL](https://www.bigsql.org) - A developer-friendly distribution of Postgres.
-*   [Elephant Shed (⭐189)](https://github.com/credativ/elephant-shed) - Web-based PostgreSQL management front-end that bundles several utilities and applications for use with PostgreSQL.
+*   [Elephant Shed (⭐193)](https://github.com/credativ/elephant-shed) - Web-based PostgreSQL management front-end that bundles several utilities and applications for use with PostgreSQL.
 
 ### Security / Zabbix
 
-*   [Acra (⭐1.1k)](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("transparent") encryption. SQL, NoSQL.
+*   [Acra (⭐1.2k)](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("transparent") encryption. SQL, NoSQL.
 
 ## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

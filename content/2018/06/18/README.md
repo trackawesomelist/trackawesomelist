@@ -63,17 +63,17 @@ Webpage: <http://ogniwo.org/>
 
 ### Books and Resources
 
-*   [Pure Bash Bible (⭐33k)](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
+*   [Pure Bash Bible (⭐35k)](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
 
 ## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Caching
 
-*   [nebulex (⭐1k)](https://github.com/cabol/nebulex) - A fast, flexible and extensible distributed and local caching library for Elixir.
+*   [nebulex (⭐1.1k)](https://github.com/cabol/nebulex) - A fast, flexible and extensible distributed and local caching library for Elixir.
 
 ### Third Party APIs
 
-*   [bitmex (⭐8)](https://github.com/nobrick/bitmex) - BitMEX client library for Elixir.
+*   [bitmex (⭐9)](https://github.com/nobrick/bitmex) - BitMEX client library for Elixir.
 
 ## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -89,7 +89,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Framework Components
 
-*   [device\_detector (⭐22)](https://github.com/creadone/device_detector) - Shard for detect device by user agent string
+*   [device\_detector (⭐21)](https://github.com/creadone/device_detector) - Shard for detect device by user agent string
 
 ### Official Documentation Translations
 
@@ -99,7 +99,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [pgstats (⭐106)](https://github.com/gleu/pgstats) - Collects PostgreSQL statistics, and either saves them in CSV files or print them on the stdout.
+*   [pgstats (⭐111)](https://github.com/gleu/pgstats) - Collects PostgreSQL statistics, and either saves them in CSV files or print them on the stdout.
 
 ## [12. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -115,7 +115,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Text & Rich Content / Image Picker
 
-*   [Masked Text (⭐264)](https://github.com/benhurott/flutter-masked-text) <!--stargazers:benhurott/flutter-masked-text--> - Masked text with custom and monetary formatting by [Ben-hur Santos Ott](https://github.com/benhurott)
+*   [Masked Text (⭐270)](https://github.com/benhurott/flutter-masked-text) <!--stargazers:benhurott/flutter-masked-text--> - Masked text with custom and monetary formatting by [Ben-hur Santos Ott](https://github.com/benhurott)
 
 ## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -130,13 +130,13 @@ Webpage: <http://ogniwo.org/>
 ### Components & Libraries / UI Utilities
 
 *   [vue-page-visibility-awesome (⭐11)](https://github.com/stefanodotit/vue-page-visibility-awesome) - A Vue 2.x component of easy-to-config page visibility api.
-*   [vue-authplugin (⭐7)](https://github.com/vv13/vue-authplugin) - an elegant view auth control plugin, support directive and prototype methods.
+*   [vue-authplugin (⭐6)](https://github.com/vv13/vue-authplugin) - an elegant view auth control plugin, support directive and prototype methods.
 
 ## [15. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Security / Other
 
-*   [Jwks RSA (⭐160)](https://github.com/auth0/jwks-rsa-java) - JSON Web Key Set parser.
+*   [Jwks RSA (⭐181)](https://github.com/auth0/jwks-rsa-java) - JSON Web Key Set parser.
 
 ---
 

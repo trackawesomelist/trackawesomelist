@@ -37,7 +37,7 @@ Starting with time series analysis, you will also learn how to optimize portfoli
 
 ### Tools
 
-*   [Opserver (⭐4.3k)](https://github.com/Opserver/Opserver) - Stack Exchange's Monitoring System
+*   [Opserver (⭐4.4k)](https://github.com/Opserver/Opserver) - Stack Exchange's Monitoring System
 
 ## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

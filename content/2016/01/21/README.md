@@ -38,7 +38,13 @@
 
 *   [LuaJ](http://www.luaj.org/luaj/3.0/README.html) - Java-centric implementation of lua vm built to leverage standard Java features.
 
-## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### OpenResty / PicoLisp
+
+*   [Programming OpenResty](https://www.gitbook.com/book/openresty/programming-openresty/details)
+
+## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Date and Time
 
@@ -46,15 +52,15 @@
 
 ### Macros
 
-*   [pipe\_here (⭐33)](https://github.com/vic/pipe_here) - Easily pipe values into any argument position.
+*   [pipe\_here (⭐34)](https://github.com/vic/pipe_here) - Easily pipe values into any argument position.
 
-## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / T companies
 
 *   TrackMaven <http://engineroom.trackmaven.com/>
 
-## [8. Codeface](/content/chrissimpkins/codeface/README.md)
+## [9. Codeface](/content/chrissimpkins/codeface/README.md)
 
 ### The Gallery
 
@@ -84,7 +90,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
     $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.tar.xz
 
-## [9. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
+## [10. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
 
 ### Rich-text editors using contenteditable
 
@@ -96,12 +102,6 @@ or use one of the following commands to pull a font archive with `curl`:
 
 *   [markdown-js (⭐7.6k)](https://github.com/evilstreak/markdown-js) - A Markdown parser for javascript
 *   [pagedown](https://code.google.com/p/pagedown/wiki/PageDown) - PageDown is the JavaScript Markdown previewer used on Stack Overflow and the rest of the Stack Exchange network
-
-## [10. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
-
-### Podcasts / Other
-
-*   [Web of Tomorrow](http://www.weboftomorrowpodcast.com/) - Podcast about JavaScript for beginners.
 
 ---
 

@@ -10,13 +10,13 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [MiraiML (⭐25)](https://github.com/arthurpaulino/miraiml): An asynchronous engine for continuous & autonomous machine learning, built for real-time usage.
+*   [MiraiML (⭐26)](https://github.com/arthurpaulino/miraiml): An asynchronous engine for continuous & autonomous machine learning, built for real-time usage.
 
 ## [2. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Tools and frameworks
 
-*   [test-crawler (⭐22)](https://github.com/apiel/test-crawler) - Visual regression testing, by crawling a website and providing snapshot comparison reports.
+*   [test-crawler (⭐27)](https://github.com/apiel/test-crawler) - Visual regression testing, by crawling a website and providing snapshot comparison reports.
 
 ## [3. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 

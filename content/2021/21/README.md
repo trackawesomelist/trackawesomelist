@@ -1,6 +1,6 @@
 # Awesome List Updates on May 24 - May 30, 2021
 
-57 awesome lists updated this week.
+56 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,17 +10,17 @@
 
 ### Libraries / New Libraries
 
-*   [delta PV (⭐46)](https://github.com/romanodev/deltapv) - A photovoltaic simulator with automatic differentation. <img src="https://img.shields.io/github/stars/romanodev/deltapv?style=social" align="center">
+*   [delta PV (⭐50)](https://github.com/romanodev/deltapv) - A photovoltaic simulator with automatic differentation. <img src="https://img.shields.io/github/stars/romanodev/deltapv?style=social" align="center">
 
 ## [2. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### MVVM
 
-*   [EBind (⭐146)](https://github.com/SIDOVSKY/EBind) - Concise, fast and feature-rich .NET data binding with some Xamarin goodies.
+*   [EBind (⭐148)](https://github.com/SIDOVSKY/EBind) - Concise, fast and feature-rich .NET data binding with some Xamarin goodies.
 
 ### Security
 
-*   [Portable.BouncyCastle ★136 (⭐167)](https://github.com/novotnyllc/bc-csharp) - Portable version of Bouncy Castle with support for .NET 4, .NET Standard 2.0, MonoAndroid, Xamarin.iOS, .NET Core.
+*   [Portable.BouncyCastle ★136 (⭐168)](https://github.com/novotnyllc/bc-csharp) - Portable version of Bouncy Castle with support for .NET 4, .NET Standard 2.0, MonoAndroid, Xamarin.iOS, .NET Core.
 
 ### UI
 
@@ -47,16 +47,16 @@
 
 ### Modules / CLI utils
 
-*   [kia (⭐44)](https://github.com/HarryPeach/kia) - Simple terminal spinners for Deno 🦕
+*   [kia (⭐45)](https://github.com/HarryPeach/kia) - Simple terminal spinners for Deno 🦕
 *   [terminal\_images (⭐48)](https://github.com/mjrlowe/terminal_images) -  A Deno module and CLI tool for displaying images in the terminal.
 
 ### Modules / Database
 
 *   [denodb (⭐1.9k)](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno.
 *   [dsddb (⭐13)](https://github.com/MaximilianHeidenreich/DsDDB) - A dead simple persistant key-value database utilizing the JSON format.
-*   [dso (⭐89)](https://github.com/manyuanrong/dso) - A simple ORM library based on mysql.
-*   [postgres (⭐562)](https://github.com/denodrivers/postgres) - Driver for PostgreSQL database.
-*   [sql-builder (⭐55)](https://github.com/manyuanrong/sql-builder) - An sql query builder.
+*   [dso (⭐88)](https://github.com/manyuanrong/dso) - A simple ORM library based on mysql.
+*   [postgres (⭐569)](https://github.com/denodrivers/postgres) - Driver for PostgreSQL database.
+*   [sql-builder (⭐54)](https://github.com/manyuanrong/sql-builder) - An sql query builder.
 
 ### Modules / Frontend development
 
@@ -64,11 +64,11 @@
 
 ### Modules / Frontend framework
 
-*   [aleph.js (⭐5.1k)](https://github.com/postui/aleph.js) - A React framework in Deno, inspired by [Next.js](https://nextjs.org).
+*   [aleph.js (⭐5.2k)](https://github.com/postui/aleph.js) - A React framework in Deno, inspired by [Next.js](https://nextjs.org).
 
 ### Modules / Mail
 
-*   [deno-smtp (⭐70)](https://github.com/manyuanrong/deno-smtp) - A smtp mail sender for deno.
+*   [deno-smtp (⭐75)](https://github.com/manyuanrong/deno-smtp) - A smtp mail sender for deno.
 
 ### Modules / Markdown
 
@@ -79,68 +79,68 @@
 *   [camelcase (⭐8)](https://github.com/denolib/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
 *   [deno\_case\_style (⭐4)](https://github.com/zekth/deno_case_style) - String validator and formater for different case style. eg: camelCase etc.
 *   [deno-prettystring (⭐7)](https://github.com/OnikurYH/deno-prettystring) - Format, trim and remove extra white spaces between characters from string.
-*   [deno-slugify (⭐18)](https://github.com/jcardama/deno_slugify) - A string slugifier for deno.
+*   [deno-slugify (⭐17)](https://github.com/jcardama/deno_slugify) - A string slugifier for deno.
 *   [normalize\_diacritics (⭐14)](https://github.com/motss/deno_mod/tree/master/normalize_diacritics) - Remove accents/diacritics in string.
 
 ### Modules / Template engine
 
 *   [deno\_tiny\_templates (⭐6)](https://github.com/zekth/deno_tiny_templates) - Template renderer for deno.
-*   [eta (⭐927)](https://github.com/eta-dev/eta) - Fast, lightweight, and configurable embedded template engine.
+*   [eta (⭐1k)](https://github.com/eta-dev/eta) - Fast, lightweight, and configurable embedded template engine.
 
 ### Modules / Testing
 
-*   [deno-puppeteer (⭐407)](https://github.com/lucacasonato/deno-puppeteer) - A library which provides a high-level API to control Chromium or Chrome over the DevTools Protocol.
-*   [expect (⭐40)](https://github.com/allain/expect) - Helpers for writing jest like expect tests in deno.
+*   [deno-puppeteer (⭐424)](https://github.com/lucacasonato/deno-puppeteer) - A library which provides a high-level API to control Chromium or Chrome over the DevTools Protocol.
+*   [expect (⭐41)](https://github.com/allain/expect) - Helpers for writing jest like expect tests in deno.
 *   [merlin (⭐49)](https://github.com/crewdevio/merlin) - Testing and Benchmarking framework for deno 🧙‍♂️
-*   [pretty\_benching (⭐25)](https://github.com/littletof/prettyBenching) - A small library to make your Deno benchmarking progress and results look pretty.
+*   [pretty\_benching (⭐26)](https://github.com/littletof/prettyBenching) - A small library to make your Deno benchmarking progress and results look pretty.
 *   [rhum (⭐90)](https://github.com/drashland/rhum) - A lightweight testing framework for Deno.
 *   [superdeno (⭐119)](https://github.com/asos-craigmorten/superdeno) - Super-agent driven library for testing Deno HTTP servers.
-*   [superoak (⭐109)](https://github.com/asos-craigmorten/superoak) - HTTP assertions for Oak made easy via SuperDeno.
-*   [tincan (⭐35)](https://github.com/gcaptn/tincan) - A Jest-like testing library for Deno.
+*   [superoak (⭐114)](https://github.com/asos-craigmorten/superoak) - HTTP assertions for Oak made easy via SuperDeno.
+*   [tincan (⭐37)](https://github.com/gcaptn/tincan) - A Jest-like testing library for Deno.
 *   [unexpected (⭐369)](https://github.com/unexpectedjs/unexpected) - Extensible BDD assertion toolkit.
 
 ### Modules / Utils
 
 *   [bytes\_formater (⭐4)](https://github.com/manyuanrong/bytes_formater) - Format bytes (Uint8Array, ArrayBufferView, etc) output, useful when debugging IO functions.
-*   [coffee (⭐33)](https://github.com/irandeno/coffee) - Deno Configuration - a type-safe, easy to use Deno config manager.
-*   [computed\_types (⭐348)](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
-*   [dcc (⭐12)](https://github.com/BoltDoggy/deno#dcc) - Deno Cache Clean, reloading deps when next running.
+*   [coffee (⭐34)](https://github.com/irandeno/coffee) - Deno Configuration - a type-safe, easy to use Deno config manager.
+*   [computed\_types (⭐358)](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
+*   [dcc (⭐11)](https://github.com/BoltDoggy/deno#dcc) - Deno Cache Clean, reloading deps when next running.
 *   [type-fest (⭐14)](https://github.com/denoserverless/type-fest) - A collection of essential TypeScript types (port of sindresorhus/type-fest).
 *   [watch (⭐42)](https://github.com/jinjor/deno-watch) - A file watcher.
 *   [wu-diff-js (⭐16)](https://github.com/bokuweb/wu-diff-js) - A diff library to compute differences between two slices using wu(the O(NP)) algorithm.
 
 ### Modules / Web framework
 
-*   [abc (⭐600)](https://github.com/zhmushan/abc) - A better Deno framework to create web application.
-*   [alosaur (⭐801)](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many decorators.
+*   [abc (⭐597)](https://github.com/zhmushan/abc) - A better Deno framework to create web application.
+*   [alosaur (⭐806)](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many decorators.
 *   [attain (⭐79)](https://github.com/aaronwlee/Attain) - A middleware web framework for Deno which is using http standard library inspired by express and Oak. Fast and stable with proper memory usage.
 *   [aqua (⭐222)](https://github.com/l2ig/aqua) - A minimal and fast web framework for Deno.
-*   [deno-express (⭐285)](https://github.com/NMathar/deno-express) - Node Express ported to Deno.
+*   [deno-express (⭐286)](https://github.com/NMathar/deno-express) - Node Express ported to Deno.
 *   [dinatra (⭐412)](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
 *   [drash (⭐1.1k)](https://github.com/drashland/deno-drash) - A REST microframework for Deno's HTTP server with zero dependencies.
-*   [oak (⭐4.7k)](https://github.com/oakserver/oak) - A middleware framework for Deno's net server.
-    *   [oak-http-proxy (⭐29)](https://github.com/asos-craigmorten/oak-http-proxy) - Proxy middleware for Deno Oak HTTP servers.
-*   [opine (⭐859)](https://github.com/asos-craigmorten/opine) - Fast, minimalist web framework ported from ExpressJS.
+*   [oak (⭐4.8k)](https://github.com/oakserver/oak) - A middleware framework for Deno's net server.
+    *   [oak-http-proxy (⭐33)](https://github.com/asos-craigmorten/oak-http-proxy) - Proxy middleware for Deno Oak HTTP servers.
+*   [opine (⭐861)](https://github.com/asos-craigmorten/opine) - Fast, minimalist web framework ported from ExpressJS.
     *   [opine-http-proxy (⭐12)](https://github.com/asos-craigmorten/opine-http-proxy) - Proxy middleware for Deno Opine HTTP servers.
-*   [pogo (⭐487)](https://github.com/sholladay/pogo) - Server framework for Deno.
+*   [pogo (⭐491)](https://github.com/sholladay/pogo) - Server framework for Deno.
 
 ### Modules / WebSocket
 
-*   [deno-websocket (⭐143)](https://github.com/ryo-ma/deno-websocket) - 🦕 A simple WebSocket library like ws of node.js library.
+*   [deno-websocket (⭐145)](https://github.com/ryo-ma/deno-websocket) - 🦕 A simple WebSocket library like ws of node.js library.
 *   [dropper (⭐26)](https://github.com/denyncrawford/dropper-deno) - Custom event-based WebSockets framework for building real-time apps on Deno 🦕
 *   [websocket\_server (⭐9)](https://github.com/JohanWinther/websocket_server) - A WebSocket server library.
 
 ### Modules / Web utils
 
 *   [compression (⭐39)](https://github.com/deno-libs/compression) - Deno HTTP compression middleware.
-*   [djwt (⭐187)](https://github.com/timonson/djwt) - Make JSON Web Tokens (JWT) on Deno based on JWT and JWS specifications.
-*   [forwarded (⭐9)](https://github.com/deno-libs/forwarded) - Deno port of `forwarded` library.
-*   [gentleRpc (⭐42)](https://github.com/timonson/gentleRpc) - A JSON-RPC 2.0 TypeScript library for Deno and the browser.
-*   [gql (⭐176)](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware.
-*   [nats (⭐124)](https://github.com/nats-io/nats.deno) - A Deno client for the [NATS messaging system](https://nats.io/).
-*   [obsidian (⭐731)](https://github.com/oslabs-beta/obsidian) - A native GraphQL caching client and server module.
+*   [djwt (⭐192)](https://github.com/timonson/djwt) - Make JSON Web Tokens (JWT) on Deno based on JWT and JWS specifications.
+*   [forwarded (⭐10)](https://github.com/deno-libs/forwarded) - Deno port of `forwarded` library.
+*   [gentleRpc (⭐43)](https://github.com/timonson/gentleRpc) - A JSON-RPC 2.0 TypeScript library for Deno and the browser.
+*   [gql (⭐182)](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware.
+*   [nats (⭐133)](https://github.com/nats-io/nats.deno) - A Deno client for the [NATS messaging system](https://nats.io/).
+*   [obsidian (⭐753)](https://github.com/oslabs-beta/obsidian) - A native GraphQL caching client and server module.
 *   [qs (⭐5)](https://github.com/denolib/qs) - A query string parser with nesting support.
-*   [router (⭐53)](https://github.com/zhmushan/router) - A high-performance basic router works anywhere.
+*   [router (⭐55)](https://github.com/zhmushan/router) - A high-performance basic router works anywhere.
 
 ### Modules / Webview
 
@@ -159,47 +159,46 @@
 
 ### Command line interface (CLI) / Terminal / Shell
 
-*   [progressbar (⭐29)](https://github.com/Waqar144/progressbar) - An easy to use V library for creating progress bars in cli.
-*   [termtable (⭐42)](https://github.com/serkonda7/termtable) - V Terminal Tables: Simple and highly customizable library to display tables in the terminal.
+*   [progressbar (⭐30)](https://github.com/Waqar144/progressbar) - An easy to use V library for creating progress bars in cli.
+*   [termtable (⭐43)](https://github.com/serkonda7/termtable) - V Terminal Tables: Simple and highly customizable library to display tables in the terminal.
 *   [vargs (⭐39)](https://github.com/nedpals/vargs) - V library for parsing arguments from argv-like arrays. ( Archived )
 
 ## [7. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / Python
 
-*   [Djongo (⭐1.7k)](https://github.com/nesdis/djongo) - MongoDB connector for Django compatible with Django ORM
+*   [Djongo (⭐1.8k)](https://github.com/nesdis/djongo) - MongoDB connector for Django compatible with Django ORM
 
 ## [8. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Acquisition
 
-*   [ArchiveBox (⭐16k)](https://github.com/pirate/ArchiveBox) - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly `Bookmark Archiver`). *(In Development)*
+*   [ArchiveBox (⭐17k)](https://github.com/pirate/ArchiveBox) - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly `Bookmark Archiver`). *(In Development)*
 *   [ArchiveWeb.Page](https://archiveweb.page) - A plugin for Chrome and other Chromium based browsers that lets you interactively archive web pages, replay them, and export them as WARC data. Also available as an Electron based desktop application.
-*   [Browsertrix Crawler (⭐326)](https://github.com/webrecorder/browsertrix-crawler) - A Chrome based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container.
-*   [Brozzler (⭐582)](https://github.com/internetarchive/brozzler) - A distributed web crawler (爬虫) that uses a real browser (Chrome or Chromium) to fetch pages and embedded urls and to extract links. *(Stable)*
+*   [Browsertrix Crawler (⭐410)](https://github.com/webrecorder/browsertrix-crawler) - A Chrome based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container.
+*   [Brozzler (⭐598)](https://github.com/internetarchive/brozzler) - A distributed web crawler (爬虫) that uses a real browser (Chrome or Chromium) to fetch pages and embedded urls and to extract links. *(Stable)*
 
 ## [9. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Editor Plugins
 
-*   [Conjure (Neovim) (⭐1.3k)](https://github.com/Olical/conjure)
+*   [Conjure (Neovim) (⭐1.4k)](https://github.com/Olical/conjure)
 
 ## [10. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
-*   [Aether (⭐1.1k)](https://github.com/aethereans/aether-app): P2P ephemeral public communities. Open source, self-governing
-*   [Airshare (⭐607)](https://github.com/KuroLabs/Airshare): CLI tool and module for transferring data between 2 machines in a local network, P2P, using Multicast-DNS. Works completely offline.
-    communities with auditable moderation and mod elections.
+*   [Aether (⭐1.2k)](https://github.com/aethereans/aether-app): P2P ephemeral public communities. Open source, self-governing
+*   [Airshare (⭐613)](https://github.com/KuroLabs/Airshare): CLI tool and module for transferring data between 2 machines in a local network, P2P, using Multicast-DNS. Works completely offline.
 *   [Dropub ☠️](https://dropub.com): Share files for free on the internet. It's like Dropbox meets BitTorrent.
 *   [Friends ☠️ (⭐3.2k)](https://github.com/moose-team/friends): P2P chat powered by the web. This project is alpha quality.
-*   [Hyperpad (⭐197)](https://github.com/hackergrrl/hyperpad): Peer-to-peer collaborative text editor.
-*   [instant.io (⭐3.2k)](https://github.com/webtorrent/instant.io): Streaming file transfer over WebTorrent (torrents on the web).
-*   [IPFS bin ☠️ (⭐131)](https://github.com/victorb/ipfsbin): Pastebin application for sharing code and text documents to other people.
-*   [IPFS Desktop (⭐5.1k)](https://github.com/ipfs/ipfs-desktop): A native application to run your own IPFS Node.
-*   [iWant ☠️ (⭐289)](https://github.com/nirvik/iWant): Commandline tool for searching and downloading files in LAN network, without any central server.
+*   [Hyperpad (⭐196)](https://github.com/hackergrrl/hyperpad): Peer-to-peer collaborative text editor.
+*   [instant.io (⭐3.3k)](https://github.com/webtorrent/instant.io): Streaming file transfer over WebTorrent (torrents on the web).
+*   [IPFS bin ☠️ (⭐132)](https://github.com/victorb/ipfsbin): Pastebin application for sharing code and text documents to other people.
+*   [IPFS Desktop (⭐5.3k)](https://github.com/ipfs/ipfs-desktop): A native application to run your own IPFS Node.
+*   [iWant ☠️ (⭐290)](https://github.com/nirvik/iWant): Commandline tool for searching and downloading files in LAN network, without any central server.
 *   [ORC ☠️](https://orc.network/): Onion Routed Cloud, a decentralized, anonymous, file storage platform. It uses the Tor network.
-*   [Peertransfer ☠️ (⭐284)](https://github.com/pguth/peertransfer): Send a file p2p and e2e encrypted using nothing but your browser.
+*   [Peertransfer ☠️ (⭐289)](https://github.com/pguth/peertransfer): Send a file p2p and e2e encrypted using nothing but your browser.
 *   [YaCy](https://yacy.net/): Free distributed search engine, built on principles of P2P networks.
 
 ## [11. Awesome Mdbootstrap](/content/mdbootstrap/awesome-mdbootstrap/week/README.md)
@@ -258,7 +257,7 @@
 
 ### Contents / Social Network
 
-*   [Harpy (⭐1.9k)](https://github.com/robertodoering/harpy) - A Twitter app built with Flutter [Roberto Doering (⭐1.9k)](https://github.com/robertodoering/harpy)
+*   [Harpy (⭐2k)](https://github.com/robertodoering/harpy) - A Twitter app built with Flutter [Roberto Doering (⭐2k)](https://github.com/robertodoering/harpy)
 
 ## [14. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
@@ -348,9 +347,9 @@
 
 ## [18. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
-*   [yor (⭐654)](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation, and Serverless).
+*   [yor (⭐725)](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation, and Serverless).
 
 ## [19. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
@@ -376,7 +375,7 @@
 ### Display / LCD TFT
 
 *   [micropython-ili9341 (⭐1)](https://github.com/mcauser/deshipu-micropython-ili9341) - Collection of drivers for TFT displays, ILI9341, SH1106, SSD1606, ST7735.
-*   [SSD1963-TFT-Library-for-PyBoard-and-RP2040 (⭐25)](https://github.com/robert-hh/SSD1963-TFT-Library-for-PyBoard-and-RP2040) - SSD1963 TFT Library for Pyboard and Raspberry Pi Pico.
+*   [SSD1963-TFT-Library-for-PyBoard-and-RP2040 (⭐27)](https://github.com/robert-hh/SSD1963-TFT-Library-for-PyBoard-and-RP2040) - SSD1963 TFT Library for Pyboard and Raspberry Pi Pico.
 
 ### Display / LED Segment
 
@@ -396,7 +395,7 @@
 
 ### IO / Rotary Encoder
 
-*   [encodermenu (⭐87)](https://github.com/sgall17a/encodermenu) - Simple GUI menu for MicroPython using a rotary encoder and basic display.
+*   [encodermenu (⭐94)](https://github.com/sgall17a/encodermenu) - Simple GUI menu for MicroPython using a rotary encoder and basic display.
 
 ### Motion / Servo
 
@@ -426,26 +425,26 @@
 
 ## [21. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Continuous Integration / MIT
+### Continuous Integration / Apache License
 
-*   [ada-actions (⭐17)](https://github.com/ada-actions/toolchain) - Ada Toolchains for GitHub Actions.
+*   [ada-actions (⭐19)](https://github.com/ada-actions/toolchain) - Ada Toolchains for GitHub Actions.
 
 ## [22. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Scanning / Pentesting
 
-*   [Netz (⭐357)](https://github.com/spectralops/netz)- Discover internet-wide misconfigurations, using zgrab2 and others.
+*   [Netz (⭐360)](https://github.com/spectralops/netz)- Discover internet-wide misconfigurations, using zgrab2 and others.
 
 ### DevOps / Development
 
-*   [Teller (⭐1.6k)](https://github.com/spectralops/teller) - a secrets management tool for devops and developers - manage secrets across multiple vaults and keystores from a single place.
-*   [Preflight (⭐145)](https://github.com/spectralops/preflight) - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems.
+*   [Teller (⭐1.9k)](https://github.com/spectralops/teller) - a secrets management tool for devops and developers - manage secrets across multiple vaults and keystores from a single place.
+*   [Preflight (⭐139)](https://github.com/spectralops/preflight) - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems.
 
 ## [23. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 
 ### Overview / YouTube
 
-*   [ytmdl (⭐2.7k)](https://github.com/deepjyoti30/ytmdl): A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, LastFM, Deezer, Gaana etc.
+*   [ytmdl (⭐2.8k)](https://github.com/deepjyoti30/ytmdl): A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, LastFM, Deezer, Gaana etc.
 
 ## [24. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -465,11 +464,11 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [tanvirtin/monokai.nvim (⭐270)](https://github.com/tanvirtin/monokai.nvim) - Monokai theme written in Lua.
+*   [tanvirtin/monokai.nvim (⭐301)](https://github.com/tanvirtin/monokai.nvim) - Monokai theme written in Lua.
 
 ### Git / Diagnostics
 
-*   [tanvirtin/vgit.nvim (⭐483)](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your git experience.
+*   [tanvirtin/vgit.nvim (⭐541)](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your git experience.
 
 ## [27. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
@@ -481,15 +480,9 @@
 
 ### Payment / Barcode
 
-*   [TPInAppReceipt (⭐547)](https://github.com/tikhop/TPInAppReceipt) - A lightweight, pure-Swift library for reading and validating Apple In App Purchase Receipt locally.
+*   [TPInAppReceipt (⭐582)](https://github.com/tikhop/TPInAppReceipt) - A lightweight, pure-Swift library for reading and validating Apple In App Purchase Receipt locally.
 
-## [29. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
-
-### OS Images
-
-*   [Windows 10 ARM](https://worproject.ml/) - Community maintained Windows 10 on Raspberry Pi. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-2+.png) ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-3.png)
-
-## [30. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
+## [29. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
 ### Clients
 
@@ -519,30 +512,30 @@
 
 *   [superseriousstats (⭐89)](https://github.com/tommyrot/superseriousstats) - Fast and efficient program to create statistics out of various types of chat logs. `PHP` `Web`
 
-## [31. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [30. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Indicators
 
-*   [Tulipy (⭐79)](https://github.com/cirla/tulipy) - Financial Technical Analysis Indicator Library (Python bindings for [tulipindicators (⭐703)](https://github.com/TulipCharts/tulipindicators))
-*   [lppls (⭐250)](https://github.com/Boulder-Investment-Technologies/lppls) - A Python module for fitting the [Log-Periodic Power Law Singularity (LPPLS)](https://en.wikipedia.org/wiki/Didier_Sornette#The_JLS_and_LPPLS_models) model.
+*   [Tulipy (⭐87)](https://github.com/cirla/tulipy) - Financial Technical Analysis Indicator Library (Python bindings for [tulipindicators (⭐743)](https://github.com/TulipCharts/tulipindicators))
+*   [lppls (⭐287)](https://github.com/Boulder-Investment-Technologies/lppls) - A Python module for fitting the [Log-Periodic Power Law Singularity (LPPLS)](https://en.wikipedia.org/wiki/Didier_Sornette#The_JLS_and_LPPLS_models) model.
 
 ### Python / Trading & Backtesting
 
 *   [qtpylib (⭐2k)](https://github.com/ranaroussi/qtpylib) - QTPyLib, Pythonic Algorithmic Trading <http://qtpylib.io>
-*   [Qlib (⭐11k)](https://github.com/microsoft/qlib) - An AI-oriented Quantitative Investment Platform by Microsoft. Full ML pipeline of data processing, model training, back-testing; and covers the entire chain of quantitative investment: alpha seeking, risk modeling, portfolio optimization, and order execution.
+*   [Qlib (⭐13k)](https://github.com/microsoft/qlib) - An AI-oriented Quantitative Investment Platform by Microsoft. Full ML pipeline of data processing, model training, back-testing; and covers the entire chain of quantitative investment: alpha seeking, risk modeling, portfolio optimization, and order execution.
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [algorithmic-trading-with-python (⭐1.7k)](https://github.com/chrisconlan/algorithmic-trading-with-python) - Source code for Algorithmic Trading with Python (2020) by Chris Conlan.
-*   [MEDIUM\_NoteBook (⭐1.8k)](https://github.com/cerlymarco/MEDIUM_NoteBook) - Repository containing notebooks of [cerlymarco](https://github.com/cerlymarco)'s posts on Medium.
+*   [algorithmic-trading-with-python (⭐2.1k)](https://github.com/chrisconlan/algorithmic-trading-with-python) - Source code for Algorithmic Trading with Python (2020) by Chris Conlan.
+*   [MEDIUM\_NoteBook (⭐1.9k)](https://github.com/cerlymarco/MEDIUM_NoteBook) - Repository containing notebooks of [cerlymarco](https://github.com/cerlymarco)'s posts on Medium.
 
 ### Python / Time Series
 
-*   [tsmoothie (⭐595)](https://github.com/cerlymarco/tsmoothie) - A python library for time-series smoothing and outlier detection in a vectorized way.
+*   [tsmoothie (⭐638)](https://github.com/cerlymarco/tsmoothie) - A python library for time-series smoothing and outlier detection in a vectorized way.
 
 ### Python / Data Sources
 
-*   [FinanceDataReader (⭐910)](https://github.com/FinanceData/FinanceDataReader) - Open Source Financial data reader for U.S, Korean, Japanese, Chinese, Vietnamese Stocks
+*   [FinanceDataReader (⭐960)](https://github.com/FinanceData/FinanceDataReader) - Open Source Financial data reader for U.S, Korean, Japanese, Chinese, Vietnamese Stocks
 
 ### R / Financial Instruments and Pricing
 
@@ -561,16 +554,16 @@
 
 ### R / Backtesting
 
-*   [quantstrat (⭐254)](https://github.com/braverock/quantstrat) - Transaction-oriented infrastructure for constructing trading systems and simulation. Provides support for multi-asset class and multi-currency portfolios for backtesting and other financial research.
+*   [quantstrat (⭐260)](https://github.com/braverock/quantstrat) - Transaction-oriented infrastructure for constructing trading systems and simulation. Provides support for multi-asset class and multi-currency portfolios for backtesting and other financial research.
 
 ### R / Factor Analysis
 
-*   [FactorAnalytics (⭐49)](https://github.com/braverock/FactorAnalytics) - The FactorAnalytics package contains fitting and analysis methods for the three main types of factor models used in conjunction with portfolio construction, optimization and risk management, namely fundamental factor models, time series factor models and statistical factor models.
+*   [FactorAnalytics (⭐56)](https://github.com/braverock/FactorAnalytics) - The FactorAnalytics package contains fitting and analysis methods for the three main types of factor models used in conjunction with portfolio construction, optimization and risk management, namely fundamental factor models, time series factor models and statistical factor models.
 *   [Expected Returns (⭐32)](https://github.com/JustinMShea/ExpectedReturns) - Solutions for enhancing portfolio diversification and replications of seminal papers with R, most of which are discussed in one of the best investment references of the recent decade, Expected Returns: An Investors Guide to Harvesting Market Rewards by Antti Ilmanen.
 
 ### CPP / Data Visualization
 
-*   [TradeFrame (⭐327)](https://github.com/rburkholder/trade-frame) - C++ 17 based framework/library (with sample applications) for testing options based automated trading ideas using DTN IQ real time data feed and Interactive Brokers (TWS API) for trade execution. Comes with built-in [Option Greeks/IV (⭐327)](https://github.com/rburkholder/trade-frame/tree/master/lib/TFOptions) calculation library.
+*   [TradeFrame (⭐370)](https://github.com/rburkholder/trade-frame) - C++ 17 based framework/library (with sample applications) for testing options based automated trading ideas using DTN IQ real time data feed and Interactive Brokers (TWS API) for trade execution. Comes with built-in [Option Greeks/IV (⭐370)](https://github.com/rburkholder/trade-frame/tree/master/lib/TFOptions) calculation library.
 
 ### Frameworks / Data Visualization
 
@@ -579,15 +572,17 @@
     *   [RQuantLib](http://dirk.eddelbuettel.com/code/rquantlib.html) - R port.
     *   [QuantLibAddin](https://www.quantlib.org/quantlibaddin/) - Excel support.
     *   [QuantLibXL](https://www.quantlib.org/quantlibxl/) - Excel support.
-    *   [QLNet (⭐329)](https://github.com/amaggiulli/qlnet) - .Net port.
-    *   [PyQL (⭐802)](https://github.com/enthought/pyql) - Python port.
-    *   [QuantLib.jl (⭐126)](https://github.com/pazzo83/QuantLib.jl) - Julia port.
+    *   [QLNet (⭐348)](https://github.com/amaggiulli/qlnet) - .Net port.
+    *   [PyQL (⭐858)](https://github.com/enthought/pyql) - Python port.
+    *   [QuantLib.jl (⭐130)](https://github.com/pazzo83/QuantLib.jl) - Julia port.
+    *   [QuantLib-Python Documentation](https://quantlib-python-docs.readthedocs.io/) - Documentation for the Python bindings for the QuantLib library
+    *   [QuantLib with Automatic Differention enabled (⭐11)](https://github.com/auto-differentiation/quantlib-xad) - Integration of Automatic Differentiation with the QuantLib library
 
 ### CSharp / Data Visualization
 
-*   [TDAmeritrade.DotNetCore (⭐47)](https://github.com/NVentimiglia/TDAmeritrade.DotNetCore) - Free, open-source .NET Client for the TD Ameritrade Trading Platform. Helps developers integrate TD Ameritrade API into custom trading solutions.
+*   [TDAmeritrade.DotNetCore (⭐52)](https://github.com/NVentimiglia/TDAmeritrade.DotNetCore) - Free, open-source .NET Client for the TD Ameritrade Trading Platform. Helps developers integrate TD Ameritrade API into custom trading solutions.
 
-## [32. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [31. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Golem
 
@@ -718,62 +713,62 @@
 
 *   [Golem Network Discussion Group](https://t.me/GolemProject) - Community driven Telegram channel.
 
-## [33. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [32. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Mocking / Symfony2
 
 *   [Mockintosh](https://mockintosh.io/) - A mock server generator that's capable to generate RESTful APIs and communicate with the message queues to mimick asynchronous tasks.
 
-## [34. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [33. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Comments
 
-*   [giscus (⭐3.3k)](https://github.com/laymonage/giscus) - A comments widget built on GitHub Discussions.
+*   [giscus (⭐5.5k)](https://github.com/laymonage/giscus) - A comments widget built on GitHub Discussions.
 
-## [35. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [34. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Programming Languages / Haskell
 
 *   [nix-haskell-mode (⭐25)](https://github.com/matthewbauer/nix-haskell-mode) - Automatic Haskell setup in Emacs.
-*   [nixkell (⭐75)](https://github.com/pwm/nixkell) - A Haskell project template using Nix and direnv.
+*   [nixkell (⭐74)](https://github.com/pwm/nixkell) - A Haskell project template using Nix and direnv.
 
 ### Community / Webinterface
 
 *   [#nix:nixos.org](https://matrix.to/#/#nix:nixos.org)
 
-## [36. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [35. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
 *   [Piet](http://www.dangermouse.net/esoteric/piet.html) -  Language in which programs look like abstract paintings using colors as code. Named after Piet Mondrian.
 *   [RASEL (⭐6)](https://github.com/Nakilon/rasel) - Fungeoid with no limits on program space, float precision, and with a bit of random access to stack.
 
-## [37. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [36. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Starters/Boilerplates / Other external resources
 
-*   [rails\_api\_base](https://github.com/rootstrap/rails_api_base) - Rails 6 boilerplate project for JSON RESTful APIs.
-*   [rails\_hotwire\_base](https://github.com/rootstrap/rails_hotwire_base) - Rails 6 boilerplate project with Hotwire for full-stack applications with a modern SPA-like experience.
+*   [rails\_api\_base (⭐367)](https://github.com/rootstrap/rails_api_base) - Rails 6 boilerplate project for JSON RESTful APIs.
+*   [rails\_hotwire\_base (⭐72)](https://github.com/rootstrap/rails_hotwire_base) - Rails 6 boilerplate project with Hotwire for full-stack applications with a modern SPA-like experience.
 
-## [38. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [37. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Sample Projects / JVM languages
 
-*   [Eclipse CargoTracker](https://eclipse-ee4j.github.io/cargotracker/) - This project demonstrates how you can develop applications with the Jakarta EE platform using widely adopted architectural best practices like Domain-Driven Design (DDD). [The code (⭐226)](https://github.com/eclipse-ee4j/cargotracker/) is intended to mirror a non-trivial application that developers in the real work would work on. It attempts to demonstrate first-hand how you can use Jakarta EE to effectively meet practical enterprise concerns such as productivity, agility, testability, flexibility, maintainability, scalability and security. The project is directly based on the well known original [Java DDD sample application (⭐4.2k)](https://github.com/citerus/dddsample-core) developed by DDD pioneer Eric Evans' company Domain Language and the Swedish software consulting company Citerus.
+*   [Eclipse CargoTracker](https://eclipse-ee4j.github.io/cargotracker/) - This project demonstrates how you can develop applications with the Jakarta EE platform using widely adopted architectural best practices like Domain-Driven Design (DDD). [The code (⭐279)](https://github.com/eclipse-ee4j/cargotracker/) is intended to mirror a non-trivial application that developers in the real work would work on. It attempts to demonstrate first-hand how you can use Jakarta EE to effectively meet practical enterprise concerns such as productivity, agility, testability, flexibility, maintainability, scalability and security. The project is directly based on the well known original [Java DDD sample application (⭐4.6k)](https://github.com/citerus/dddsample-core) developed by DDD pioneer Eric Evans' company Domain Language and the Swedish software consulting company Citerus.
 
 ### Sample Projects / PHP
 
-*   [Symfony 5 DDD ES CQRS backend (⭐958)](https://github.com/jorge07/symfony-5-es-cqrs-boilerplate) - DDD, CQRS and Event Sourcing app using Symfony and PHP 8.
+*   [Symfony 5 DDD ES CQRS backend (⭐1k)](https://github.com/jorge07/symfony-5-es-cqrs-boilerplate) - DDD, CQRS and Event Sourcing app using Symfony and PHP 8.
 
-## [39. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [38. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Links / Official Links
 
-*   [JetBrains/kotlin (⭐45k)](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
+*   [JetBrains/kotlin (⭐46k)](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
 ### Libraries/Frameworks / Testing
 
-*   [serpro69/kotlin-faker (⭐337)](https://github.com/serpro69/kotlin-faker) - Port of ruby faker gem written in kotlin
+*   [serpro69/kotlin-faker (⭐365)](https://github.com/serpro69/kotlin-faker) - Port of ruby faker gem written in kotlin
 
 ### Libraries/Frameworks / Serialization
 
@@ -781,22 +776,22 @@
 
 ### Libraries/Frameworks / Graphics
 
-*   [kotlin-graphics/assimp (⭐85)](https://github.com/kotlin-graphics/assimp) - Open Asset Import Library port
-*   [java-opengl-labs/modern-jogl-examples (⭐99)](https://github.com/java-opengl-labs/modern-jogl-examples) - port of 'Learning Modern 3D Graphic Programming' by J.L.McKesson (jogl)
+*   [kotlin-graphics/assimp (⭐89)](https://github.com/kotlin-graphics/assimp) - Open Asset Import Library port
+*   [java-opengl-labs/modern-jogl-examples (⭐102)](https://github.com/java-opengl-labs/modern-jogl-examples) - port of 'Learning Modern 3D Graphic Programming' by J.L.McKesson (jogl)
 
-## [40. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [39. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
-*   [fast-crud (⭐495)](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning.
+*   [fast-crud (⭐588)](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning.
 
 ### Templates / React
 
-*   [react-vite-admin (⭐176)](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, TypeScript, Axios.
+*   [react-vite-admin (⭐203)](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, TypeScript, Axios.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-vconsole (⭐49)](https://github.com/vadxq/vite-plugin-vconsole) - Help developers use vconsole to facilitate mobile development and debugging.
+*   [vite-plugin-vconsole (⭐58)](https://github.com/vadxq/vite-plugin-vconsole) - Help developers use vconsole to facilitate mobile development and debugging.
 
 ### React / Presets
 
@@ -804,11 +799,11 @@
 
 ### Rollup Plugins / Compatible with Vite
 
-*   [@rollup/plugin-virtual (⭐3.2k)](https://github.com/rollup/plugins/blob/master/packages/virtual) - A Rollup plugin that loads virtual modules from memory.
+*   [@rollup/plugin-virtual (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/virtual) - A Rollup plugin that loads virtual modules from memory.
 
 ### Rollup Plugins / Community
 
-*   Check the [Awesome Rollup list (⭐2.2k)](https://github.com/rollup/awesome) for community-maintained rollup plugins, and refer to the Vite docs section about [rollup plugin compatibility](https://vitejs.dev/guide/api-plugin.html#rollup-plugin-compatiblity).
+*   Check the [Awesome Rollup list (⭐2.3k)](https://github.com/rollup/awesome) for community-maintained rollup plugins, and refer to the Vite docs section about [rollup plugin compatibility](https://vitejs.dev/guide/api-plugin.html#rollup-plugin-compatiblity).
 
 ### Adobe Experience Manager / Community
 
@@ -816,13 +811,13 @@
 
 ### Craft CMS / Community
 
-*   [Craft Vite (⭐44)](https://github.com/nystudio107/craft-vite) - Plugin for integration with Craft CMS.
+*   [Craft Vite (⭐45)](https://github.com/nystudio107/craft-vite) - Plugin for integration with Craft CMS.
 
 ### Apps/Websites / Community
 
-*   [vue3-realworld-example-app (⭐726)](https://github.com/mutoe/vue3-realworld-example-app) - Realworld app implementation using Vue 3 + TypeScript + Composition API.
+*   [vue3-realworld-example-app (⭐809)](https://github.com/mutoe/vue3-realworld-example-app) - Realworld app implementation using Vue 3 + TypeScript + Composition API.
 
-## [41. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [40. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Data Visualization and Mission Control / Command Line Interface
 
@@ -833,49 +828,49 @@
 *   [ShellHub](https://www.shellhub.io) - ShellHub is a modern SSH server for remotely accessing linux devices via command line (using any SSH client) or web-based user interface, designed as an alternative to sshd. Think ShellHub as centralized SSH for the the edge and cloud computing.
 *   [Sshwifty (⭐1.5k)](https://github.com/nirui/sshwifty) - Sshwifty is a SSH and Telnet connector made for the Web.
 
-## [42. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [41. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
-### Code Generators
+### Code Generators / Text-Based User Interfaces
 
 *   [Bootify ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg)](https://bootify.io) - Browser-based Spring Boot app generation with JPA model and REST API.
 
-### Networking
+### Networking / Text-Based User Interfaces
 
-*   [Commons-networking (⭐8)](https://github.com/CiscoSE/commons-networking) - Client for server-sent events (SSE).
+*   [Commons-networking (⭐10)](https://github.com/CiscoSE/commons-networking) - Client for server-sent events (SSE).
 
 ### Template Engine / Other
 
-*   [StringTemplate (⭐859)](https://github.com/antlr/stringtemplate4) - Template engine for generating source code, web pages, emails, or any other formatted text output.
+*   [StringTemplate (⭐898)](https://github.com/antlr/stringtemplate4) - Template engine for generating source code, web pages, emails, or any other formatted text output.
 
 ### Workflow Orchestration Engines / Mocking
 
 *   [Cadence](https://cadenceworkflow.io) - Stateful code platform from Uber.
 *   [Temporal](https://temporal.io) - Microservice orchestration platform, forked from Cadence but gRPC based.
 
-## [43. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [42. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Tutorials
 
-*   [Meet Svelte 3, a Powerful, Even Radical JavaScript Framework](https://www.sitepoint.com/svelte-javascript-framework-introduction/)  - SitePoint, by Chrome DevTools engineer @Jack\_Franklin.
+*   [Meet Svelte 3, a Powerful, Even Radical JavaScript Framework](https://www.sitepoint.com/svelte-javascript-framework-introduction/) - SitePoint, by Chrome DevTools engineer @Jack\_Franklin.
 
-## [44. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [43. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Platforms and Software Resources / Urban Design Tools and Platforms
 
 *   [SketchUp](https://www.sketchup.com/) - Easy to use interactive 3D modeling software for planning and design applications. Supported by a rich asset library for creating neighborhood designs.
 
-## [45. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [44. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Video
 
 *   [x265](https://bitbucket.org/multicoreware/x265_git/src) - Open h.265 video codec implementation. \[GPL2] [website](https://x265.readthedocs.io/en/master/)
 
-## [46. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [45. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Encryption
 
 *   [Cryptomator](https://cryptomator.org/) - Cryptomator encrypts your data quickly and easily. Afterwards you upload them protected to your favorite cloud service.
-*   [Picocrypt (⭐1.3k)](https://github.com/HACKERALERT/Picocrypt/) - A very small (hence "Pico"), very simple, yet very secure file encryption tool.
+*   [Picocrypt (⭐1.8k)](https://github.com/HACKERALERT/Picocrypt/) - A very small (hence "Pico"), very simple, yet very secure file encryption tool.
 
 ### Desktop
 
@@ -887,7 +882,7 @@
 
 ### Audio
 
-*   [dzr (⭐130)](https://github.com/yne/dzr) - Command line Deezer player for Linux, BSD, Android+Termux
+*   [dzr (⭐153)](https://github.com/yne/dzr) - Command line Deezer player for Linux, BSD, Android+Termux
 
 ### Payments
 
@@ -895,21 +890,21 @@
 
 ### FIAT
 
-*   [My Expenses (⭐551)](https://github.com/mtotschnig/MyExpenses) - Featureful GPL licenced Android Expense Tracking App.
+*   [My Expenses (⭐603)](https://github.com/mtotschnig/MyExpenses) - Featureful GPL licenced Android Expense Tracking App.
 
-## [47. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [46. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
 *   💼 [Gust](https://www.getgust.com) - Drag and drop page builder for WordPress.
 
-## [48. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [47. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Computer Vision
 
 *   [OpenVisionAPI](https://github.com/openvisionapi) - Open source computer vision API based on open source models.
 
-## [49. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
+## [48. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
 
 ### Epic Fantasy / [The Stormlight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive) *by [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)* [4.6]
 
@@ -917,19 +912,19 @@
 *   [Oathbringer](https://www.goodreads.com/book/show/34002132-oathbringer) \[4.73] :fire:
 *   [Rhythm of War](https://www.goodreads.com/book/show/49021976-rhythm-of-war) \[4.63]
 
-## [50. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [49. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [WebScraping.AI](https://webscraping.ai) - Simple Web Scraping API with built-in parsing, Chrome rendering and proxies. 2000 free API calls per month.
+*   [WebScraping.AI](https://webscraping.ai) - Simple Web Scraping API with built-in parsing, Chrome rendering, and proxies. Two thousand free API calls per month.
 
 ### Monitoring
 
-*   [pingpong.one](https://pingpong.one/) — Advanced status page platform with monitoring. Free tier includes one public customizable status page with SSL subdomain. Pro plan is offered to open-source projects and non-profits free of charge.
+*   [pingpong.one](https://pingpong.one/) — Advanced status page platform with monitoring. The free tier includes one public customizable status page with an SSL subdomain. Pro plan is offered to open-source projects and non-profits free of charge.
 
 ### Web Hosting
 
-*   [Stormkit](https://stormkit.io/) — Integrate building, deploying and hosting seamlessly with your git flow of your JAMStack or Node.JS app. 50 GB bandwith and 10m requests for free per month including free SSL.
+*   [Stormkit](https://stormkit.io/) — Integrate building, deploying, and hosting seamlessly with the git flow of your JAMStack or Node.JS app. 50 GB bandwidth and 10m monthly requests for free, including free SSL.
 
 ### Design and UI
 
@@ -937,26 +932,26 @@
 
 ### Miscellaneous
 
-*   [redirect.pizza](https://redirect.pizza/) - Easily manage redirects with HTTPS support. Free plan includes 10 sources and 100.000 hits per month.
+*   [redirect.pizza](https://redirect.pizza/) - Easily manage redirects with HTTPS support. The free plan includes 10 sources and 100,000 hits per month.
 
-## [51. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [50. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [v-viewer (⭐2.2k)](https://github.com/mirari/v-viewer) - Image viewer component for vue2 and vue3, supports rotation, scale, zoom and so on, based on [viewer.js (⭐7.1k)](https://github.com/fengyuanchen/viewerjs)
+*   [v-viewer (⭐2.3k)](https://github.com/mirari/v-viewer) - Image viewer component for vue2 and vue3, supports rotation, scale, zoom and so on, based on [viewer.js (⭐7.3k)](https://github.com/fengyuanchen/viewerjs)
 *   [vue-easy-range-date-picker (⭐5)](https://github.com/HC200ok/vue-easy-range-date-picker) - A simple and easy VueJS (2.x) component for date range selection
 
 ### Components & Libraries / UI Layout
 
 *   [vue-layout-system (⭐34)](https://github.com/leeboyin/vue-layout-system) - Vue components that solve daily layout problems.
 
-## [52. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
+## [51. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
 ### Alternatives / File Sharing
 
 *   [Mega](https://mega.nz/) - 50 GB of secure free storage (in which 35 GB will expire after 30 days). Files are encrypted client-side. More (non-permanent) space can be claimed from achievements.
 
-## [53. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [52. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Calendar
 
@@ -1014,13 +1009,13 @@
 
 
 
-## [54. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [53. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Tools / Testing Tools
 
 *   [editor-info (⭐5)](https://github.com/fisker/editor-info) - Detect whether one is within an editor/IDE and which type, allowing one to tweak ESLint configuration accordingly.
 
-## [55. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [54. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Infrastructure as Code Analysis / Containers
 
@@ -1034,7 +1029,7 @@
 
 *   [SpectralOps](https://spectralops.io) - *Spectral* - Automated code security, secrets, tokens and sensitive data scanning.
 
-## [56. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [55. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Events
 
@@ -1044,7 +1039,7 @@
 
 *   [ExportData](https://www.exportdata.io/team) - Export, search & analyse Twitter data. Ruby, Rails, React.JS, Terraform, AWS.
 
-## [57. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [56. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Forums and Discussion Boards Search / Telegram
 

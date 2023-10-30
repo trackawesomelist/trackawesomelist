@@ -10,7 +10,7 @@
 
 ### Images / Barcode
 
-*   [Rough (⭐97)](https://github.com/bakhtiyork/Rough) - Rough lets you draw in a sketchy, hand-drawn-like, style.
+*   [Rough (⭐99)](https://github.com/bakhtiyork/Rough) - Rough lets you draw in a sketchy, hand-drawn-like, style.
 
 ## [2. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Contents / Utilities
 
-*   [pgbadger (⭐2.9k)](https://github.com/darold/pgbadger) - Fast PostgreSQL Log Analyzer.
+*   [pgbadger (⭐3k)](https://github.com/darold/pgbadger) - Fast PostgreSQL Log Analyzer.
 
 ## [9. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -85,7 +85,7 @@
 
 ### Python / Reinforcement Learning
 
-*   [Coach (⭐2.2k)](https://github.com/NervanaSystems/coach) - Reinforcement Learning Coach by Intel® AI Lab enables easy experimentation with state of the art Reinforcement Learning algorithms
+*   [Coach (⭐2.3k)](https://github.com/NervanaSystems/coach) - Reinforcement Learning Coach by Intel® AI Lab enables easy experimentation with state of the art Reinforcement Learning algorithms
 
 ## [11. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
@@ -131,17 +131,17 @@
 
 ### Command-Line Productivity
 
-*   [fselect (⭐3.4k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
-*   [loop (⭐614)](https://github.com/Miserlou/Loop) - Write and control complex loops with as one-liners
-*   [xsv (⭐9.1k)](https://github.com/BurntSushi/xsv) - a fast CSV command line toolkit written in Rust
+*   [fselect (⭐3.5k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
+*   [loop (⭐636)](https://github.com/Miserlou/Loop) - Write and control complex loops with as one-liners
+*   [xsv (⭐9.4k)](https://github.com/BurntSushi/xsv) - a fast CSV command line toolkit written in Rust
 
 ### Downloading and Serving / Directory Navigation
 
-*   [shell2http (⭐1k)](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control
+*   [shell2http (⭐1.1k)](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control
 
 ### Applications / Directory Navigation
 
-*   [carbon-now-cli (⭐5.4k)](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
+*   [carbon-now-cli (⭐5.5k)](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 
 ### Games / Directory Navigation
 
@@ -191,7 +191,7 @@
 
 ### Utilities / Productivity
 
-*   [Z (⭐15k)](https://github.com/rupa/z) - Powerful way to navigate easily by typing only a string of directory name in terminal instead of typing exact location of director.
+*   [Z (⭐16k)](https://github.com/rupa/z) - Powerful way to navigate easily by typing only a string of directory name in terminal instead of typing exact location of director.
 
 ---
 

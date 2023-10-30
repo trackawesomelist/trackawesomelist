@@ -17,13 +17,13 @@
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Webhook Store](https://www.openwebhook.io) - Tool for storing third party webhooks and debug them on localhost (ngrok style). Open source and self-hostable. Free personal domain *username*.github.webhook.store, free public domains *anything*.webhook.store.
+*   [Webhook Store](https://www.openwebhook.io) - Tool for storing third-party webhooks and debug them on localhost (ngrok style). Open source and self-hostable. Free personal domain *username*.github.webhook.store, free public domains *anything*.webhook.store.
 
 ## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Others / Commonsense Knowledgebase
+### BNU / Commonsense Knowledgebase
 
 *   [Yanchao Bi](https://brain.bnu.edu.cn/English/Faculty/CurrentFaculty/Bzz/a552402e529a4f27b979378abd42c10e.htm) - ***IDG/McGovern Institute for Brain Research and the State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University (BNU)***, [Yanchao Bi's Concept Lab (Bi Lab)](http://bilab.bnu.edu.cn/) - ***BNU***.
 
@@ -57,7 +57,7 @@
 
 ### Exchange API / Plugins
 
-*   [PENDAX (⭐34)](https://github.com/CompendiumFi/PENDAX-SDK) - Javascript SDK for Trading/Data API and Websockets for cryptocurrency exchanges like FTX, FTXUS, OKX, Bybit, & More
+*   [PENDAX (⭐38)](https://github.com/CompendiumFi/PENDAX-SDK) - Javascript SDK for Trading/Data API and Websockets for cryptocurrency exchanges like FTX, FTXUS, OKX, Bybit, & More
 
 ## [7. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 

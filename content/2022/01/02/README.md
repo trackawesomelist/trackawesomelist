@@ -33,7 +33,7 @@
 
 ## [3. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
-### Uncategorised
+### Hosting and media
 
 *   [LibreServer](https://libreserver.org/) is a small server system which enables you to run your own internet services independently. It includes all of the things you'd expect such as email, chat, VoIP, wikis, blogs, social networks, and more. You can run LibreServer on an old laptop or single board computer. You can also run it on an onion address.
 
@@ -90,19 +90,19 @@
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [QuantFinanceBook (⭐224)](https://github.com/LechGrzelak/QuantFinanceBook) - Quantitative Finance book.
+*   [QuantFinanceBook (⭐285)](https://github.com/LechGrzelak/QuantFinanceBook) - Quantitative Finance book.
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Security and PKI
 
-*   [hostedscan.com](https://hostedscan.com) — Online vulnerability scanner for web applications, servers, and networks. 10 free scans per month.
+*   [hostedscan.com](https://hostedscan.com) — Online vulnerability scanner for web applications, servers, and networks. Ten free scans per month.
 
 ### Visitor Session Recording
 
 *   [Visualime.com](https://www.visualime.com/) — Free and unlimited session recordings, no traffic limits
-*   [inspectlet.com](https://www.inspectlet.com/) — 2,500 sessions/month free for 1 website
-*   [mouseflow.com](https://mouseflow.com/) — 500 sessions/month free for 1 website
+*   [inspectlet.com](https://www.inspectlet.com/) — 2,500 sessions/month free for one website
+*   [mouseflow.com](https://mouseflow.com/) — 500 sessions/month free for one website
 
 ---
 

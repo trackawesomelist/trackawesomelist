@@ -28,7 +28,7 @@
 
 ### Media / Audio
 
-*   [Flutter Audio Recorder (⭐108)](https://github.com/shadow-app/flutter_audio_recorder) - Provides full controls and access to recording details such as level metering by [Wenyan Li](https://github.com/nikli2009).
+*   [Flutter Audio Recorder (⭐114)](https://github.com/shadow-app/flutter_audio_recorder) - Provides full controls and access to recording details such as level metering by [Wenyan Li](https://github.com/nikli2009).
 
 ## [4. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Software / Identity Management - Tools and web interfaces
 
-*   [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management.
+*   [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management. ([Source Code (⭐5.6k)](https://github.com/smallstep/certificates)) `Apache-2.0` `Go`
 
 ## [6. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

@@ -26,7 +26,7 @@
 
 ### Debug
 
-*   [doctest (⭐4.9k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
+*   [doctest (⭐5.2k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
 
 ## [4. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
@@ -140,13 +140,13 @@
 ### Development tools / Profiling
 
 *   FlameGraphs
-    *   [llogiq/flame (⭐651)](https://github.com/llogiq/flame) —
+    *   [llogiq/flame (⭐668)](https://github.com/llogiq/flame) —
     *   [mrhooray/torch (⭐128)](https://github.com/mrhooray/torch) — generates FlameGraphs based on DWARF Debug Info
 
 ### Libraries / Computation
 
 *   [BLAS](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms) \[[blas](https://crates.io/keywords/blas)]
-    *   [mikkyang/rust-blas (⭐78)](https://github.com/mikkyang/rust-blas) — BLAS bindings
+    *   [mikkyang/rust-blas (⭐79)](https://github.com/mikkyang/rust-blas) — BLAS bindings
 
 ## [11. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -187,7 +187,7 @@
 
 ### Online / Playground
 
-*   [TypeScript playground-on-ace (⭐87)](https://github.com/hi104/typescript-playground-on-ace) by @hi104 [updated to TypeScript 1.5 (⭐56)](https://github.com/basarat/TypeScriptEditor)
+*   [TypeScript playground-on-ace (⭐88)](https://github.com/hi104/typescript-playground-on-ace) by @hi104 [updated to TypeScript 1.5 (⭐56)](https://github.com/basarat/TypeScriptEditor)
 *   [TypeScript official Playground](http://www.typescriptlang.org/Playground/)
 *   [JS Bin](http://jsbin.com/?js) (Select TypeScript)
 *   [Codepen](http://codepen.io/) (Select TypeScript)
@@ -308,7 +308,7 @@
 ### Tools / Monitoring
 
 *   [check\_mongodb (⭐15)](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)
-*   [nagios-plugin-mongodb (⭐349)](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
+*   [nagios-plugin-mongodb (⭐348)](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
 
 ## [18. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -729,15 +729,15 @@ git rebase --interactive HEAD~2
 
 ### Open Source / Featured
 
-*   [Min (⭐6.6k)](https://github.com/minbrowser/min) - Minimal web browser.
+*   [Min (⭐7.1k)](https://github.com/minbrowser/min) - Minimal web browser.
 
 ### Open Source / Other
 
-*   [Mattermost (⭐1.8k)](https://github.com/mattermost/desktop) - Mattermost client.
+*   [Mattermost (⭐1.9k)](https://github.com/mattermost/desktop) - Mattermost client.
 
 ### Boilerplates / Other
 
-*   [electron-quick-start (⭐10k)](https://github.com/electron/electron-quick-start) - Clone the repo to try a simple app.
+*   [electron-quick-start (⭐11k)](https://github.com/electron/electron-quick-start) - Clone the repo to try a simple app.
 
 ## [29. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -782,7 +782,7 @@ git rebase --interactive HEAD~2
 
 ### Applications / Directory Navigation
 
-*   [haxor-news (⭐3.8k)](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor
+*   [haxor-news (⭐3.9k)](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor
 *   [Reddit Terminal Viewer (⭐4.6k)](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 
 ## [34. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
@@ -847,11 +847,11 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Hardware
 
-*   [nerves (⭐2k)](https://github.com/nerves-project/nerves) - Framework for building firmware for platforms like Raspberry Pi and BeagleBone Black.
+*   [nerves (⭐2.1k)](https://github.com/nerves-project/nerves) - Framework for building firmware for platforms like Raspberry Pi and BeagleBone Black.
 
 ### Images
 
-*   [eikon (⭐11)](https://github.com/tchoutri/Eikon) - An Elixir library providing a read-only interface for image files.
+*   [eikon (⭐12)](https://github.com/tchoutri/Eikon) - An Elixir library providing a read-only interface for image files.
 
 ### Miscellaneous
 
@@ -863,7 +863,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### ORM and Datamapping
 
-*   [exsolr (⭐21)](https://github.com/dcarneiro/exsolr) - A Solr wrapper written in Elixir.
+*   [exsolr (⭐22)](https://github.com/dcarneiro/exsolr) - A Solr wrapper written in Elixir.
 
 ## [38. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
 
@@ -885,12 +885,12 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Other Awesome Lists
 
-*   [open-source-ios-apps (⭐34k)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
+*   [open-source-ios-apps (⭐37k)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
 
 ### API
 
-*   [PXGoogleDirections (⭐268)](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper.
-*   [reddift (⭐238)](https://github.com/sonsongithub/reddift) - reddit API wrapper.
+*   [PXGoogleDirections (⭐267)](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper.
+*   [reddift (⭐241)](https://github.com/sonsongithub/reddift) - reddit API wrapper.
 
 ### Key Value Store
 
@@ -898,7 +898,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Other Data
 
-*   [EVCloudKitDao (⭐637)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
+*   [EVCloudKitDao (⭐644)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
 
 ### Auto Layout / Barcode
 
@@ -906,7 +906,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Logging / Barcode
 
-*   [WatchdogInspector (⭐515)](https://github.com/tapwork/WatchdogInspector) - A logging tool to show the current framerate (fps) in the status bar of your iOS app.
+*   [WatchdogInspector (⭐514)](https://github.com/tapwork/WatchdogInspector) - A logging tool to show the current framerate (fps) in the status bar of your iOS app.
 
 ### HTML / Barcode
 
@@ -914,7 +914,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Menu / Barcode
 
-*   [MenuItemKit (⭐842)](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
+*   [MenuItemKit (⭐850)](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
 
 ### Utility / Barcode
 

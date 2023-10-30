@@ -10,15 +10,15 @@
 
 ### Haskell / React
 
-*   [morpheus-graphql (⭐380)](https://github.com/morpheusgraphql/morpheus-graphql) - Haskell GraphQL Api, Client and Tools.
+*   [morpheus-graphql (⭐393)](https://github.com/morpheusgraphql/morpheus-graphql) - Haskell GraphQL Api, Client and Tools.
 
 ## [2. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
 ### ⚙️ Middlewares / ‍💻 Contrib
 
-*   [casbin (⭐91)](https://github.com/gofiber/contrib/tree/main/casbin) - Casbin middleware for Fiber.
-*   [fibernewrelic (⭐91)](https://github.com/gofiber/contrib/tree/main/fibernewrelic) - NewRelic middleware for Fiber. The middleware handles NewRelic insturmentation.
-*   [opafiber (⭐91)](https://github.com/gofiber/contrib/tree/main/opafiber) - Open Policy Agent middleware for Fiber. The middleware handles running Rego policies.
+*   [casbin (⭐133)](https://github.com/gofiber/contrib/tree/main/casbin) - Casbin middleware for Fiber.
+*   [fibernewrelic (⭐133)](https://github.com/gofiber/contrib/tree/main/fibernewrelic) - NewRelic middleware for Fiber. The middleware handles NewRelic insturmentation.
+*   [opafiber (⭐133)](https://github.com/gofiber/contrib/tree/main/opafiber) - Open Policy Agent middleware for Fiber. The middleware handles running Rego policies.
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -31,19 +31,18 @@
 ### Modules / Utils
 
 *   [bettermap (⭐15)](https://github.com/retraigo/bettermap) - A TypeScript extension of the JavaScript Map with Array-like features.
-*   [cubic-bezier (⭐1)](https://github.com/retraigo/cubic-bezier) - Get an array of points in a cubic bezier curve or visualize in a canvas.
 *   [durationjs (⭐20)](https://github.com/retraigo/duration.js) - Get formatted time duration from a timestamp or a human-readable string.
-*   [fortuna (⭐15)](https://github.com/retraigo/fortuna) - Weighted gacha system.
+*   [fortuna (⭐17)](https://github.com/retraigo/fortuna) - Weighted gacha system.
 
 ### Showcases / XML
 
-*   [Saleor Deno Merch (⭐28)](https://github.com/saleor/deno-merch) - A fork of the original Deno Merch e-commerce website, rebuilt with [Saleor (⭐19k)](https://github.com/saleor/saleor).
+*   [Saleor Deno Merch (⭐30)](https://github.com/saleor/deno-merch) - A fork of the original Deno Merch e-commerce website, rebuilt with [Saleor (⭐19k)](https://github.com/saleor/saleor).
 
 ## [5. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Financial
 
-*   [bbgo (⭐870)](https://github.com/c9s/bbgo) - A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies.
+*   [bbgo (⭐969)](https://github.com/c9s/bbgo) - A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies.
 
 ---
 

@@ -33,13 +33,13 @@
 
 ### Tools and session management
 
-*   [smug (⭐505)](https://github.com/ivaaaan/smug) A session manager for tmux written in Go
+*   [smug (⭐533)](https://github.com/ivaaaan/smug) A session manager for tmux written in Go
 
 ## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Utils / Other Tools
 
-*   [Prometheus FastAPI Instrumentator (⭐469)](https://github.com/trallnag/prometheus-fastapi-instrumentator) - A configurable and modular Prometheus Instrumentator for your FastAPI application.
+*   [Prometheus FastAPI Instrumentator (⭐592)](https://github.com/trallnag/prometheus-fastapi-instrumentator) - A configurable and modular Prometheus Instrumentator for your FastAPI application.
 
 ## [5. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 
@@ -58,11 +58,11 @@
 ### Image / Image Picker
 
 *   [Image Picker (⭐17k)](https://github.com/flutter/plugins/tree/master/packages/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com)
-*   [WeChat Assets Picker (⭐1.1k)](https://github.com/fluttercandies/flutter_wechat_assets_picker) <!--stargazers:fluttercandies/flutter_wechat_assets_picker--> - Assets picker in WeChat style, support multi assets by [Alex Li](https://github.com/AlexV525).
+*   [WeChat Assets Picker (⭐1.3k)](https://github.com/fluttercandies/flutter_wechat_assets_picker) <!--stargazers:fluttercandies/flutter_wechat_assets_picker--> - Assets picker in WeChat style, support multi assets by [Alex Li](https://github.com/AlexV525).
 
 ### Desktop / Game Engine resources
 
-*   [Raspberry Pi Embedder (⭐1.1k)](https://github.com/ardera/flutter-pi) <!--stargazers:ardera/flutter-pi--> - Light-weight Embedder for Raspberry Pi by [Hannes Winkler](https://github.com/ardera)
+*   [Raspberry Pi Embedder (⭐1.2k)](https://github.com/ardera/flutter-pi) <!--stargazers:ardera/flutter-pi--> - Light-weight Embedder for Raspberry Pi by [Hannes Winkler](https://github.com/ardera)
 
 ## [8. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -86,27 +86,27 @@
 ### Libraries
 
 *   [Point Cloud Library (PCL)](http://www.pointclouds.org/) - Popular highly parallel programming library, with numerous industrial and research use-cases.
-    *   [GitHub repository :octocat: (⭐8.3k)](https://github.com/PointCloudLibrary/pcl)
+    *   [GitHub repository :octocat: (⭐8.8k)](https://github.com/PointCloudLibrary/pcl)
 *   [PyTorch Geometric :newspaper:](https://arxiv.org/pdf/1903.02428.pdf) - A geometric deep learning extension library for PyTorch.
-    *   [GitHub repository :octocat: (⭐17k)](https://github.com/rusty1s/pytorch_geometric)
+    *   [GitHub repository :octocat: (⭐18k)](https://github.com/rusty1s/pytorch_geometric)
 *   [PyTorch3d](https://pytorch3d.org/) - PyTorch3d is a library for deep learning with 3D data written and maintained by the Facebook AI Research Computer Vision Team.
-    *   [GitHub repository :octocat: (⭐7k)](https://github.com/facebookresearch/pytorch3d)
+    *   [GitHub repository :octocat: (⭐7.6k)](https://github.com/facebookresearch/pytorch3d)
 *   [pyntcloud](https://pyntcloud.readthedocs.io/en/latest/) - Pyntcloud is a Python 3 library for working with 3D point clouds leveraging the power of the Python scientific stack.
-    *   [GitHub repository :octocat: (⭐1.2k)](https://github.com/daavoo/pyntcloud)
+    *   [GitHub repository :octocat: (⭐1.3k)](https://github.com/daavoo/pyntcloud)
 
 ### Frameworks
 
 *   [Baidu Apollo](https://apollo.auto/) - Apollo is a popular framework which accelerates the development, testing, and deployment of Autonomous Vehicles.
-    *   [GitHub repository :octocat: (⭐22k)](https://github.com/ApolloAuto/apollo)
+    *   [GitHub repository :octocat: (⭐23k)](https://github.com/ApolloAuto/apollo)
     *   [YouTube channel :red\_circle:](https://www.youtube.com/c/ApolloAuto)
 
 ### Algorithms / Semantic segmentation
 
 *   [RangeNet++ :newspaper:](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/milioto2019iros.pdf) - Fast and Accurate LiDAR Sematnic Segmentation with fully convolutional network.
-    *   [GitHub repository :octocat: (⭐236)](https://github.com/PRBonn/rangenet_lib)
+    *   [GitHub repository :octocat: (⭐258)](https://github.com/PRBonn/rangenet_lib)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=uo3ZuLuFAzk)
 *   [PolarNet :newspaper:](https://arxiv.org/pdf/2003.14032.pdf) - An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation.
-    *   [GitHub repository :octocat: (⭐312)](https://github.com/edwardzhou130/PolarSeg)
+    *   [GitHub repository :octocat: (⭐337)](https://github.com/edwardzhou130/PolarSeg)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=iIhttRSMqjE)
 *   [Frustum PointNets :newspaper:](https://arxiv.org/pdf/1711.08488.pdf) - Frustum PointNets for 3D Object Detection from RGB-D Data.
     *   [GitHub repository :octocat: (⭐1.5k)](https://github.com/charlesq34/frustum-pointnets)
@@ -116,15 +116,15 @@
 
 ### Algorithms / Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
 
-*   [LeGO-LOAM :octocat: (⭐1.9k)](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - A lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs.
+*   [LeGO-LOAM :octocat: (⭐2k)](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - A lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs.
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=7uCxLUs9fwQ)
-*   [Cartographer :octocat: (⭐6.4k)](https://github.com/cartographer-project/cartographer) - Cartographer is ROS compatible system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
+*   [Cartographer :octocat: (⭐6.6k)](https://github.com/cartographer-project/cartographer) - Cartographer is ROS compatible system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=29Knm-phAyI)
 *   [SuMa++ :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2019iros.pdf) - LiDAR-based Semantic SLAM.
-    *   [GitHub repository :octocat: (⭐727)](https://github.com/PRBonn/semantic_suma/)
+    *   [GitHub repository :octocat: (⭐785)](https://github.com/PRBonn/semantic_suma/)
     *   [YouTube video :red\_circle:](https://youtu.be/uo3ZuLuFAzk)
 *   [OverlapNet :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2020rss.pdf) -  Loop Closing for LiDAR-based SLAM.
-    *   [GitHub repository :octocat: (⭐542)](https://github.com/PRBonn/OverlapNet)
+    *   [GitHub repository :octocat: (⭐588)](https://github.com/PRBonn/OverlapNet)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=YTfliBco6aw)
 
 ### Algorithms / Object detection and object tracking
@@ -136,14 +136,14 @@
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=2DzH9COLpkU)
 *   [What You See is What You Get: Exploiting Visibility for 3D Object Detection :newspaper:](https://arxiv.org/pdf/1912.04986.pdf) - By Peiyun Hu, Jason Ziglar, David Held, Deva Ramanan, 2019.
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=497OF-otY2k)
-    *   [GitHub repository :octocat: (⭐102)](https://github.com/peiyunh/WYSIWYG)
+    *   [GitHub repository :octocat: (⭐107)](https://github.com/peiyunh/WYSIWYG)
 
 ### Simulators / Object detection and object tracking
 
 *   [CoppeliaSim](https://www.coppeliarobotics.com/coppeliaSim) - Cross-platform general-purpose robotic simulator (formerly known as V-REP).
     *   [YouTube channel :red\_circle:](https://www.youtube.com/user/VirtualRobotPlatform)
 *   [CARLA](https://carla.org/) - Unreal Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS 2.
-    *   [GitHub repository :octocat: (⭐8.9k)](https://github.com/carla-simulator/carla)
+    *   [GitHub repository :octocat: (⭐9.5k)](https://github.com/carla-simulator/carla)
     *   [YouTube channel :red\_circle:](https://www.youtube.com/channel/UC1llP9ekCwt8nEJzMJBQekg)
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
@@ -165,15 +165,15 @@
 ### Prompts
 
 *   [Pure (⭐1.1k)](https://github.com/rafaelrinaldi/pure) - [*That*](https://github.com/sindresorhus/pure) ZSH prompt, now in Fish flavor
-*   [Hydro (⭐466)](https://github.com/jorgebucaran/hydro) - Lag-free prompt with async Git status (ooh la la)
+*   [Hydro (⭐471)](https://github.com/jorgebucaran/hydro) - Lag-free prompt with async Git status (ooh la la)
 
 ### Plugins
 
-*   [Fisher (⭐6.6k)](https://github.com/jorgebucaran/fisher) - Manage functions, completions, bindings, and snippets from the CLI
-*   [Fundle (⭐357)](https://github.com/danhper/fundle) - `config.fish`-based plugin manager
-*   [Autopair (⭐234)](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command-line. ([Alternative (⭐258)](https://github.com/laughedelic/pisces))
-*   [Async Prompt (⭐323)](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous
-*   [Abbreviation Tips (⭐208)](https://github.com/Gazorby/fish-abbreviation-tips) - Remembering abbreviations by displaying tips when you can use them
+*   [Fisher (⭐6.7k)](https://github.com/jorgebucaran/fisher) - Manage functions, completions, bindings, and snippets from the CLI
+*   [Fundle (⭐358)](https://github.com/danhper/fundle) - `config.fish`-based plugin manager
+*   [Autopair (⭐250)](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command-line. ([Alternative (⭐260)](https://github.com/laughedelic/pisces))
+*   [Async Prompt (⭐329)](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous
+*   [Abbreviation Tips (⭐217)](https://github.com/Gazorby/fish-abbreviation-tips) - Remembering abbreviations by displaying tips when you can use them
 
 ## [13. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -186,7 +186,7 @@
 ### Dependency Injection / Collection View Layout
 
 *   [Typhoon (⭐2.7k)](https://github.com/appsquickly/Typhoon) - Powerful dependency injection for Objective-C.
-*   [Pilgrim (⭐60)](https://github.com/appsquickly/pilgrim) - Powerful dependency injection Swift (successor to Typhoon).
+*   [Pilgrim (⭐61)](https://github.com/appsquickly/pilgrim) - Powerful dependency injection Swift (successor to Typhoon).
 
 ---
 

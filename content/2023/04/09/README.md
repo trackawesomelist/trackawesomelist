@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 09, 2023
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Libraries / Text processing
 
-*   [null8626/decancer (⭐70)](https://github.com/null8626/decancer) \[[decancer](https://crates.io/crates/decancer)] — A tiny package that removes common unicode confusables/homoglyphs from strings. [![crates](https://img.shields.io/crates/v/decancer.svg)](https://crates.io/crates/decancer) [![build badge](https://github.com/null8626/decancer/workflows/CI/badge.svg)](https://github.com/null8626/decancer/actions/workflows/CI.yml)
+*   [null8626/decancer (⭐73)](https://github.com/null8626/decancer) \[[decancer](https://crates.io/crates/decancer)] — A tiny package that removes common unicode confusables/homoglyphs from strings. [![crates](https://img.shields.io/crates/v/decancer.svg)](https://crates.io/crates/decancer) [![build badge](https://github.com/null8626/decancer/workflows/CI/badge.svg)](https://github.com/null8626/decancer/actions/workflows/CI.yml)
 
 ## [2. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
@@ -22,9 +22,15 @@
 
 ### Debugging / Diagnostics
 
-*   [t-troebst/perfanno.nvim (⭐117)](https://github.com/t-troebst/perfanno.nvim) - Annotate your code with callgraph profiling data. Native support for perf, flamegraph and the LuaJit profiler.
+*   [t-troebst/perfanno.nvim (⭐137)](https://github.com/t-troebst/perfanno.nvim) - Annotate your code with callgraph profiling data. Native support for perf, flamegraph and the LuaJit profiler.
 
-## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [4. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
+
+### Examples
+
+*   [golang/go (⭐115k)](https://github.com/golang/go/wiki)
+
+## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Design and Product / Screencapturing Software
 
@@ -32,30 +38,30 @@
 
 ### Translation Tools / File Sharing
 
-*   [OpenAI Translator (⭐16k)](https://github.com/yetone/openai-translator) - Browser extension and cross-platform desktop application for translation based on ChatGPT API.[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yetone/openai-translator)
+*   [OpenAI Translator (⭐19k)](https://github.com/yetone/openai-translator) - Browser extension and cross-platform desktop application for translation based on ChatGPT API.[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yetone/openai-translator)
 
-## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Collections / Generative Adversarial Networks (GANs)
 
 *   [The Generative AI Landscape](https://ai-collection.org/): "a collection of awesome generative AI applications"
 
-### Inbox: Developing + AI / Generative Adversarial Networks (GANs)
+### Inbox: DEV + AI / Generative Adversarial Networks (GANs)
 
-*   [pgosar/ChatGDB (⭐855)](https://github.com/pgosar/ChatGDB): "Harness the power of ChatGPT inside the GDB debugger"
+*   [pgosar/ChatGDB (⭐879)](https://github.com/pgosar/ChatGDB): "Harness the power of ChatGPT inside the GDB debugger"
 
-## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [exa (zshell) (⭐9)](https://github.com/z-shell/zsh-exa) - replace `ls` with [ogham/exa (⭐22k)](https://github.com/ogham/exa).
+*   [exa (zshell) (⭐14)](https://github.com/z-shell/zsh-exa) - replace `ls` with [ogham/exa (⭐23k)](https://github.com/ogham/exa).
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [gallifrey-war (⭐1)](https://github.com/cdubos-fr/gallifrey-war) - Inspired by [gallifrey](https://github.com/unixorn/awesome-zsh-plugins/blob/main/README.md/). Includes decorators for `git` information, user\@host and current directory.
+*   [gallifrey-war (⭐0)](https://github.com/cdubos-fr/gallifrey-war) - Inspired by [gallifrey](https://github.com/unixorn/awesome-zsh-plugins/blob/main/README.md/). Includes decorators for `git` information, user\@host and current directory.
 *   [t2colorful (⭐1)](https://github.com/AmirhosseinAbutalebi/t2colorful-oh.my.zsh) - Includes decorators for `git` information, current directory, last command exit status, and current time.
 
-## [7. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
+## [8. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### C Libraries
 

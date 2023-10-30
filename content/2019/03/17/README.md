@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 17, 2019
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Unofficial Distributions / AlmaLinux OS
 
-*   [wsldl (⭐1.4k)](https://github.com/yuk7/wsldl) - General purpose WSL installer and launcher. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [wsldl (⭐1.5k)](https://github.com/yuk7/wsldl) - General purpose WSL installer and launcher. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [2. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -25,8 +25,8 @@
 
 ### Example Projects
 
-*   [Example for Securing Apps with Keycloak on Kubernetes (⭐58)](https://github.com/stianst/demo-kubernetes)
-*   [Example for Securing AspDotNet Core Apps with Keycloak (⭐38)](https://github.com/thomasdarimont/kc-dnc-demo)
+*   [Example for Securing Apps with Keycloak on Kubernetes (⭐57)](https://github.com/stianst/demo-kubernetes)
+*   [Example for Securing AspDotNet Core Apps with Keycloak (⭐37)](https://github.com/thomasdarimont/kc-dnc-demo)
 
 ## [3. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
@@ -38,13 +38,13 @@
 
 ### Scheduling
 
-*   [Workflow Core (⭐4.6k)](https://github.com/danielgerlag/workflow-core) - Lightweight embeddable workflow engine
+*   [Workflow Core (⭐4.8k)](https://github.com/danielgerlag/workflow-core) - Lightweight embeddable workflow engine
 
 ## [5. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Miscellaneous / Symfony2
 
-*   [react-admin (⭐21k)](https://github.com/marmelab/react-admin) - Add a ReactJS admin GUI to any RESTful API.
+*   [react-admin (⭐23k)](https://github.com/marmelab/react-admin) - Add a ReactJS admin GUI to any RESTful API.
 
 ## [6. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -58,22 +58,28 @@
 
 *   [ING ❤ Web Components](https://dev.to/thepassle/ing--web-components-aef)
 
-## [8. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### Software / Plotter-Specific
+### Android
+
+*   [Google Android Developer Training](https://developer.android.com/guide)
+
+## [9. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+
+### Software / Plotter Control
 
 *   [MP2300-Tools (⭐6)](https://github.com/Jan--Henrik/MP2300-Tools) - Software for converting HPGL to Graphtec's GPGL format, as well as CAD files for a Graphtec plotter pen adapter.
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Math
 
-*   [SymEngine (⭐984)](https://github.com/symengine/symengine) - Fast symbolic manipulation library, a rewriting of SymPy's core in C++. \[MIT]
+*   [SymEngine (⭐1k)](https://github.com/symengine/symengine) - Fast symbolic manipulation library, a rewriting of SymPy's core in C++. \[MIT]
 
 ### Networking
 
-*   [cpp-netlib/uri (⭐129)](https://github.com/cpp-netlib/uri) - URI parser/builder library for C++, compatible with RFC 3986 and RFC 3987. \[Boost]
-*   [uriparser (⭐284)](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. \[BSD-3-Clause]
+*   [cpp-netlib/uri (⭐131)](https://github.com/cpp-netlib/uri) - URI parser/builder library for C++, compatible with RFC 3986 and RFC 3987. \[Boost]
+*   [uriparser (⭐295)](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. \[BSD-3-Clause]
 
 ---
 

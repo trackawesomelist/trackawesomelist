@@ -1,6 +1,6 @@
 # Awesome List Updates on May 15 - May 21, 2017
 
-50 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -31,13 +31,13 @@
 
 ### C++
 
-*   [C/C++ Clang Command Adapter (⭐118)](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
+*   [C/C++ Clang Command Adapter (⭐122)](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
 
 ## [5. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
-*   [Rachel Andrew (⭐317)](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
+*   [Rachel Andrew (⭐321)](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
 
 ## [6. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [Weapsy](https://github.com/Weapsy/Weapsy) - Open source ASP.NET Core CMS based on DDD and CQRS. It supports MSSQL, MySQL, SQLite and PostgreSQL out of the box.
+*   [Weapsy (⭐4)](https://github.com/Weapsy/Weapsy) - Open source ASP.NET Core CMS based on DDD and CQRS. It supports MSSQL, MySQL, SQLite and PostgreSQL out of the box.
 
 ### Community / Workflow
 
@@ -88,9 +88,9 @@
 
 ### TypeScript Seed Projects / Components
 
-*   [Angular 2 Starter (⭐526)](https://github.com/antonybudianto/angular-starter) - Simple Angular 2 Starter with Gulp workflow and Travis CI
-*   [Angular 2 Leaflet Starter (⭐211)](https://github.com/haoliangyu/ngx-leaflet-starter) - A map application starter based on Angular 2 and Leaflet
-*   [Angular 2 MapboxGL Starter (⭐52)](https://github.com/haoliangyu/ngx-mapboxgl-starter) - Another map application starter based on Angular 2 and MapboxGL JS
+*   [Angular 2 Starter (⭐525)](https://github.com/antonybudianto/angular-starter) - Simple Angular 2 Starter with Gulp workflow and Travis CI
+*   [Angular 2 Leaflet Starter (⭐209)](https://github.com/haoliangyu/ngx-leaflet-starter) - A map application starter based on Angular 2 and Leaflet
+*   [Angular 2 MapboxGL Starter (⭐50)](https://github.com/haoliangyu/ngx-mapboxgl-starter) - Another map application starter based on Angular 2 and MapboxGL JS
 
 ### Babel Demo, Samples, and Examples / Components
 
@@ -116,9 +116,9 @@
 ### Github Libraries / Randomized Algorithms
 
 *   C#
-    *   [by @shkolovy (⭐26)](https://github.com/shkolovy/classic-algorithms)
-    *   [by @aalhour (⭐5.4k)](https://github.com/aalhour/C-Sharp-Algorithms)
-    *   [by @justcoding121 (⭐1.1k)](https://github.com/justcoding121/Advanced-Algorithms)
+    *   [by @shkolovy (⭐28)](https://github.com/shkolovy/classic-algorithms)
+    *   [by @aalhour (⭐5.6k)](https://github.com/aalhour/C-Sharp-Algorithms)
+    *   [by @justcoding121 (⭐1.2k)](https://github.com/justcoding121/Advanced-Algorithms)
 
 ## [13. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
@@ -131,8 +131,8 @@
 ### Scripts / GitHub
 
 *   [Gist to dabblet (⭐1.6k)](https://github.com/Mottie/GitHub-userscripts/wiki/Gist-to-dabblet) - Add a Dabblet link to Gists saved from Dabblet.
-*   [GitHub Custom Emojis (⭐60)](https://github.com/StylishThemes/GitHub-Custom-Emojis) - Add custom emojis anywhere on GitHub.
-*   [GitHub Dark Script (⭐552)](https://github.com/StylishThemes/GitHub-Dark-Script) - Apply the [GitHub-Dark (⭐9.6k)](https://github.com/StylishThemes/GitHub-Dark) style to the site.
+*   [GitHub Custom Emojis (⭐61)](https://github.com/StylishThemes/GitHub-Custom-Emojis) - Add custom emojis anywhere on GitHub.
+*   [GitHub Dark Script (⭐551)](https://github.com/StylishThemes/GitHub-Dark-Script) - Apply the [GitHub-Dark (⭐9.6k)](https://github.com/StylishThemes/GitHub-Dark) style to the site.
 *   [GitHub code colors (⭐1.6k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-colors) - Add a color swatch preview to code.
 *   [GitHub code folding (⭐1.6k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-folding) - Add code folding to files.
 *   [GitHub code guides (⭐1.6k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-guides) - Add code guides to files and diffs.
@@ -175,13 +175,13 @@
 
 ### Registry
 
-*   [verdaccio (⭐14k)](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry.
+*   [verdaccio (⭐15k)](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry.
 
 ## [18. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [MXnet for Deep Learning, in Perl (⭐20k)](https://github.com/apache/incubator-mxnet/tree/master/perl-package),
+*   [MXnet for Deep Learning, in Perl (⭐21k)](https://github.com/apache/incubator-mxnet/tree/master/perl-package),
     also [released in CPAN](https://metacpan.org/pod/AI::MXNet).
 
 ### Perl 6 / Data Analysis / Data Visualization
@@ -243,7 +243,13 @@
 
 *   [AI Playbook](http://aiplaybook.a16z.com/) - Ai microsite intended to help newcomers get started.
 
-## [26. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
+## [26. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Porting to Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)
+
+## [27. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
 
 ### Resources / Blogs
 
@@ -256,7 +262,7 @@
 *   [Computational Neuroscience | Coursera](https://www.coursera.org/learn/computational-neuroscience) - Provides an introduction to basic computational methods for understanding what nervous systems do and for determining how they function.
 *   [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience) - Explores the functional organization and neurophysiology of the human central nervous system, while providing a neurobiological framework for understanding human behavior.
 
-## [27. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [28. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / JavaScript SDK
 
@@ -266,7 +272,7 @@
 
 *   [claudiajs/claudia :fire::fire::fire::fire::fire: (⭐3.8k)](https://github.com/claudiajs/claudia) - Deploy Node.js projects to Lambda and API Gateway easily.
 
-## [28. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [29. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Operating System / Firmwares for ESP based Devices
 
@@ -289,7 +295,7 @@
 *   [haiku2mqtt (⭐9)](https://github.com/forty2/haiku2mqtt) - A bridge between Haiku smart fans and MQTT.
 *   [wlan-thermo-mqtt-addon](https://bitbucket.org/IOcastor/wlan-thermo-mqtt-addon/) - Addon for a popular DIY barbecue thermometer.
 
-## [29. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
+## [30. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
 
 ### Videos / PGFPlots
 
@@ -304,13 +310,13 @@
 *   [StackExchange](https://tex.stackexchange.com/questions/tagged/tikz-pgf)
 *   [pgf-users](https://sourceforge.net/p/pgf/mailman/pgf-users/) - A friendly and relatively active mailing list.
 
-## [30. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [31. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / EMPI
 
-*   [MEDIC Client Registry RI (⭐14)](https://github.com/MohawkMEDIC/client-registry) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation.
+*   [MEDIC Client Registry RI (⭐13)](https://github.com/MohawkMEDIC/client-registry) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation.
 
-## [31. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [32. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Module Bundlers / Playground
 
@@ -321,7 +327,7 @@
 
 *   [TypeDoc](http://typedoc.org/) - A documentation generator for TypeScript projects
 
-## [32. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [33. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Programming languages
 
@@ -331,7 +337,7 @@
 
 *   [Luvit](https://luvit.io/) - Luvit implements the same APIs as Node.js, but in Lua! While this framework is not directly involved with IoT development, it is still a *great* way to rapidly build powerful, yet memory efficient, embedded web applications.
 
-## [33. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [34. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI / Animations
 
@@ -366,7 +372,7 @@
 *   [Kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife) - Android view injection written in Kotlin based on ButterKnife
 *   [Android Kotlin Samples (⭐297)](https://github.com/irontec/android-kotlin-samples) - Some basic Android code samples written in Kotlin.
 
-## [34. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [35. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Multipurpose Engines / On-line APIs
 
@@ -386,19 +392,19 @@
     *   *Ruby one-liners* by [Benoit Hamelin](https://twitter.com/benoithamelin) <sup>\[[post](http://benoithamelin.tumblr.com/ruby1line)]</sup>
     *   *Clustering in Ruby* by [Colin Drake](https://twitter.com/colinfdrake) <sup>\[[post](https://colindrake.me/post/k-means-clustering-in-ruby/)/)]</sup>
 
-## [35. Awesome Codepoints](/content/Codepoints/awesome-codepoints/week/README.md)
+## [36. Awesome Codepoints](/content/Codepoints/awesome-codepoints/week/README.md)
 
 ### For Funsies / Breaking and Gluing other characters
 
 *   [U+2800](https://codepoints.net/U+2800) BRAILLE PATTERN BLANK - A Braille pattern that has zero of its six or eight dots filled in. According to the standard: “\* while this character is imaged as a fixed-width blank in many fonts, it does not act as a space” Essentially it is rendered as white-space, but since it is designated as *not* white-space it isn't matched by white-space-validating regular expressions. This can be used to bypass all kinds of validation that disallows or trims white-space.
 
-## [36. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [37. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
 *   [Soft Skills Engineering](https://softskills.audio/) - Weekly advice podcast for software developers. It takes more than great code to be a great developer.
 
-## [37. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
+## [38. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
 
 ### Cross-platform Utilities
 
@@ -415,39 +421,39 @@
 
 *   [shx (⭐1.4k)](https://github.com/shelljs/shx) - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`.
 
-## [38. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [39. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Command Line Applications
 
-*   [firex (⭐26)](https://github.com/msoedov/firex) - Firex is a library for automatically generating command line interfaces (CLIs) from an elixir module.
+*   [firex (⭐25)](https://github.com/msoedov/firex) - Firex is a library for automatically generating command line interfaces (CLIs) from an elixir module.
 
 ### REST and API
 
-*   [accent (⭐34)](https://github.com/sticksnleaves/accent) - Plug for handling the conversion of JSON API keys to different cases.
-*   [versionary (⭐40)](https://github.com/sticksnleaves/versionary) - API versioning for Elixir Plug and Phoenix.
+*   [accent (⭐35)](https://github.com/sticksnleaves/accent) - Plug for handling the conversion of JSON API keys to different cases.
+*   [versionary (⭐39)](https://github.com/sticksnleaves/versionary) - API versioning for Elixir Plug and Phoenix.
 
-## [39. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
+## [40. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
 ### Machine Learning Libraries / Frameworks
 
 *   [weka (⭐65)](https://github.com/paulgoetze/weka-jruby) -
     JRuby bindings for Weka, different ML algorithms implemented through Weka.
-*   [ai4r (⭐711)](https://github.com/SergioFierens/ai4r) -
+*   [ai4r (⭐712)](https://github.com/SergioFierens/ai4r) -
     Artificial Intelligence for Ruby.
-*   [classifier-reborn (⭐536)](https://github.com/jekyll/classifier-reborn) -
+*   [classifier-reborn (⭐540)](https://github.com/jekyll/classifier-reborn) -
     General classifier module to allow Bayesian and other types of classifications. <sup>\[[dep: GLS](#gls)]</sup>
 *   [scoruby (⭐68)](https://github.com/asafschers/scoruby) -
     Ruby scoring API for [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) (Predictive Model Markup Language).
 
 ### Machine Learning Libraries / Neural networks
 
-*   [neural-net-ruby (⭐120)](https://github.com/gbuesing/neural-net-ruby) -
+*   [neural-net-ruby (⭐125)](https://github.com/gbuesing/neural-net-ruby) -
     Neural network written in Ruby.
-*   [ruby-fann (⭐455)](https://github.com/tangledpath/ruby-fann) -
+*   [ruby-fann (⭐459)](https://github.com/tangledpath/ruby-fann) -
     Ruby bindings to the [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
 *   [cerebrum (⭐35)](https://github.com/irfansharif/cerebrum) -
     Experimental implementation for Artificial Neural Networks in Ruby.
-*   [tlearn-rb (⭐97)](https://github.com/josephwilk/tlearn-rb) -
+*   [tlearn-rb (⭐96)](https://github.com/josephwilk/tlearn-rb) -
     Recurrent Neural Network library for Ruby.
 *   [brains (⭐60)](https://github.com/jedld/brains-jruby) -
     Feed-forward neural networks for JRuby based on
@@ -466,7 +472,7 @@
     Redis-backed Bayesian classifier.
 *   [naive\_bayes (⭐46)](https://github.com/reddavis/Naive-Bayes) -
     Simple Naive Bayes classifier.
-*   [nbayes (⭐150)](https://github.com/oasic/nbayes) -
+*   [nbayes (⭐152)](https://github.com/oasic/nbayes) -
     Full-featured, Ruby implementation of Naive Bayes.
 
 ### Machine Learning Libraries / Linear classifiers
@@ -476,7 +482,7 @@
 *   [liblinear-ruby (⭐83)](https://github.com/kei500/liblinear-ruby) -
     Ruby interface to LIBLINEAR using SWIG.
 
-## [40. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
+## [41. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
 
 ### New to Laravel
 
@@ -600,26 +606,26 @@
 
 *   [Laravel Interview Questions and Answers](http://www.laravelinterviewquestions.com/)
 
-## [41. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [42. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Samples
 
-*   [vulkantoy (⭐31)](https://github.com/jpystynen/vulkantoy) - Shadertoy image shader test app with Vulkan. \[MIT]
+*   [vulkantoy (⭐32)](https://github.com/jpystynen/vulkantoy) - Shadertoy image shader test app with Vulkan. \[MIT]
 
-## [42. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [43. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Database
 
-*   [SimDB (⭐467)](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) - High performance, shared memory, lock free, cross platform, single file, minimal dependencies, C++11 key-value store. \[Apache2]
+*   [SimDB (⭐481)](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) - High performance, shared memory, lock free, cross platform, single file, minimal dependencies, C++11 key-value store. \[Apache2]
 
-## [43. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [44. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Tools and Equipment / Biology and Chemistry
 
 *   [DremelFuge](http://www.thingiverse.com/thing:1483) - A biology centrifuge that takes the form of a dremel attachment.
 *   [MinION](https://nanoporetech.com/products/minion) - An affordable, portable DNA/RNA sequencer.
 
-## [44. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
+## [45. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
 
 ### Podcasts / Other
 
@@ -627,7 +633,7 @@
 
     "To share the lessons we learn by doing, and learn from the things that others are doing, to help us all get ahead as we bootstrap our businesses online." Since 2013 by [Brian Casel](https://twitter.com/CasJam) and [Jordan Gal](https://twitter.com/JordanGal).
 
-## [45. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [46. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Username Check / Telegram
 
@@ -637,13 +643,13 @@
 
 *   [TorrentFreak List of VPNs](https://torrentfreak.com/vpn-services-anonymous-review-2017-170304/)
 
-## [46. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [47. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### CLI Builders
 
 *   [clim (⭐118)](https://github.com/at-grandpa/clim) - Slim command line interface builder
 
-## [47. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [48. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Privacy, Security and Cryptography / Others
 
@@ -662,7 +668,7 @@
 
 *   [IFTTT](https://ifttt.com/) `[Account]` - Create a connection between your favourite online services. For example, if one needs to tweet their instagrams as native photos on twitter then IFTTT can come in handy.
 
-## [48. Awesome Linux](/content/inputsh/awesome-linux/week/README.md)
+## [49. Awesome Linux](/content/inputsh/awesome-linux/week/README.md)
 
 ### X Desktop Environments / Other Desktop Environments
 
@@ -683,7 +689,7 @@
 
 *   [git](https://git-scm.com/) - Distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
-## [49. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [50. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -693,18 +699,18 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Dockeron (⭐789)](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop.
+*   [Dockeron (⭐793)](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop.
 
 ### Components & Libraries / Utilities
 
 *   [jsx-vue-functional (⭐66)](https://github.com/nickmessing/babel-plugin-jsx-vue-functional) - A Babel plugin that brings syntactic sugar for Vue functional components.
-*   [jsx-event-modifiers (⭐45)](https://github.com/nickmessing/babel-plugin-jsx-event-modifiers) - A Babel plugin that adds event modifiers similar to Vue templates to JSX.
+*   [jsx-event-modifiers (⭐44)](https://github.com/nickmessing/babel-plugin-jsx-event-modifiers) - A Babel plugin that adds event modifiers similar to Vue templates to JSX.
 
-## [50. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [51. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### GUI
 
-*   [Avalonia (⭐18k)](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework (formerly known as Perspex).
+*   [Avalonia (⭐20k)](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework (formerly known as Perspex).
 
 ---
 

@@ -12,7 +12,7 @@
 
 ### Paris
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/manekinekko" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/manekinekko" height="70px" width="70px" align="left" alt="" />
 
 **Wassim Chegham**\
 Topics: Angular, JavaScript, Progressive Web Apps, Chatbots, Firebase, Cloud, Internet of Things\

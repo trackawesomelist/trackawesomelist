@@ -21,7 +21,7 @@
 
 ### HTML Manipulation
 
-*   [selmer (⭐926)](https://github.com/yogthos/Selmer)
+*   [selmer (⭐931)](https://github.com/yogthos/Selmer)
 
 ## [3. Awesome Indie](/content/mezod/awesome-indie/README.md)
 
@@ -79,7 +79,7 @@
 
 ### GIS
 
-*   [GeoJSON.NET (⭐401)](https://github.com/GeoJSON-Net/GeoJSON.Net) - .Net library for GeoJSON types & corresponding Json.Net (de)serializers
+*   [GeoJSON.NET (⭐413)](https://github.com/GeoJSON-Net/GeoJSON.Net) - .Net library for GeoJSON types & corresponding Json.Net (de)serializers
 
 ## [8. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
 
@@ -110,13 +110,13 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [Aeron.NET (⭐426)](https://github.com/AdaptiveConsulting/Aeron.NET) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport - .NET port of Aeron.
+*   [Aeron.NET (⭐459)](https://github.com/AdaptiveConsulting/Aeron.NET) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport - .NET port of Aeron.
 
 ## [12. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Algorithms and Data structures
 
-*   [markov (⭐22)](https://github.com/mccallofthewild/markov) - Build Markov Chains and run Markov Processes
+*   [markov (⭐21)](https://github.com/mccallofthewild/markov) - Build Markov Chains and run Markov Processes
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -140,8 +140,8 @@
 
 ### Packages / Apps
 
-*   [mod-synth.io (⭐50)](https://github.com/andrevenancio/mod-synth.io) - Create your own modular synthesizer, or emulate different synths.
-*   [Super Oscillator (⭐34)](https://github.com/lukehorvat/super-oscillator) - An interactive, 3D music synthesizer for the Web.
+*   [mod-synth.io (⭐53)](https://github.com/andrevenancio/mod-synth.io) - Create your own modular synthesizer, or emulate different synths.
+*   [Super Oscillator (⭐38)](https://github.com/lukehorvat/super-oscillator) - An interactive, 3D music synthesizer for the Web.
 
 ### Resources / Tutorials
 

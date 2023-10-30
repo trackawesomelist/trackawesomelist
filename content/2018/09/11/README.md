@@ -151,7 +151,7 @@
 
 ### TypeScript Seed Projects / Components
 
-*   [angular-app-example (⭐59)](https://github.com/daixianceng/angular-app-example) - Angular latest + material + sass themes + more beautiful features, a dashboard app example
+*   [angular-app-example (⭐60)](https://github.com/daixianceng/angular-app-example) - Angular latest + material + sass themes + more beautiful features, a dashboard app example
 
 ## [5. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

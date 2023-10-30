@@ -29,7 +29,7 @@
 
 ### Physics
 
-*   [Newton Dynamics (⭐845)](https://github.com/MADEAPPS/newton-dynamics) - An integrated solution for real time simulation of physics environments. \[zlib]
+*   [Newton Dynamics (⭐865)](https://github.com/MADEAPPS/newton-dynamics) - An integrated solution for real time simulation of physics environments. \[zlib]
 
 ### Videos
 

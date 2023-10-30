@@ -10,12 +10,12 @@
 
 ### Articles / Other external resources
 
-*   [Implement SSR with React + Rails (⭐78)](https://github.com/shakacode/react_on_rails_demo_ssr_hmr)
+*   [Implement SSR with React + Rails (⭐82)](https://github.com/shakacode/react_on_rails_demo_ssr_hmr)
 
 ### Gems / Other external resources
 
-*   [react\_on\_rails (⭐4.9k)](https://github.com/shakacode/react_on_rails) - A gem to integrate React.js with Rails app with SSR. [:red\_circle:](https://rubygems.org/gems/react_on_rails)
-*   [shakapacker (⭐284)](https://github.com/shakacode/shakapacker) - A gem to use webpack to manage app-like JavaScript modules in Rails. [:red\_circle:](https://rubygems.org/gems/shakapacker)
+*   [react\_on\_rails (⭐5k)](https://github.com/shakacode/react_on_rails) - A gem to integrate React.js with Rails app with SSR. [:red\_circle:](https://rubygems.org/gems/react_on_rails)
+*   [shakapacker (⭐346)](https://github.com/shakacode/shakapacker) - A gem to use webpack to manage app-like JavaScript modules in Rails. [:red\_circle:](https://rubygems.org/gems/shakapacker)
 
 ## [2. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -27,13 +27,13 @@
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [JNGL (⭐116)](https://github.com/jhasse/jngl) - a 2D open-source game engine. Develop on Linux, Windows, OS X. Deploy to Nintendo Switch, Xbox, Linux, Windows, OS X, Web, Android, iOS and more.
+*   :tada: [JNGL (⭐185)](https://github.com/jhasse/jngl) - a 2D open-source game engine. Develop on Linux, Windows, OS X. Deploy to Nintendo Switch, Xbox, Linux, Windows, OS X, Web, Android, iOS and more.
 
 ## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Task Queues
 
-*   [flower (⭐5.7k)](https://github.com/mher/flower) - Flower is a web-based tool for monitoring and administrating Celery clusters.
+*   [flower (⭐5.9k)](https://github.com/mher/flower) - Flower is a web-based tool for monitoring and administrating Celery clusters.
 
 ## [5. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Image Processing
 
-*   [Real-ESRGAN (⭐17k)](https://github.com/xinntao/Real-ESRGAN) - Practical Algorithms for General Image/Video Restoration. \[English/中文]
+*   [Real-ESRGAN (⭐23k)](https://github.com/xinntao/Real-ESRGAN) - Practical Algorithms for General Image/Video Restoration. \[English/中文]
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Data Validation and Serialization / OAuth
 
-*   [Flask-Pydantic (⭐233)](https://github.com/bauerji/flask-pydantic) - [Pydantic (⭐11k)](https://github.com/pydantic/pydantic) support.
+*   [Flask-Pydantic (⭐284)](https://github.com/bauerji/flask-pydantic) - [Pydantic (⭐14k)](https://github.com/pydantic/pydantic) support.
 
 ### Developer Tools / Monitoring
 
@@ -71,7 +71,7 @@
 
 ### Best Practices / Other Tools
 
-*   [FastAPI Best Practices (⭐2.7k)](https://github.com/zhanymkanov/fastapi-best-practices) - Collection of best practices in a GitHub repo.
+*   [FastAPI Best Practices (⭐4.4k)](https://github.com/zhanymkanov/fastapi-best-practices) - Collection of best practices in a GitHub repo.
 
 ### PaaS / Other Tools
 
@@ -86,7 +86,7 @@
 
 ## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Analogy / Democratization
+### Analogy / Democratization of Science
 
 *   [Visual Analogy: Deep Learning Versus Compositional Models](https://www.cs.jhu.edu/~alanlab/Pubs21/ichien2021visual.pdf) - ***CogSci'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=1187822306970312749\&hl=en\&as_sdt=0,5)]. A human-deep-learning comparison on similarity judgement.
 
@@ -100,7 +100,7 @@
 
 ### Web
 
-*   🔧 [FireSageJS (⭐4)](https://github.com/tylim88/FireSageJS) - Extreme Type Safe For Realtime Database Web.
+*   🔧 [FireSageJS (⭐8)](https://github.com/tylim88/FireSageJS) - Extreme Type Safe For Realtime Database Web.
 
 ---
 

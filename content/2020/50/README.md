@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 14 - Dec 20, 2020
 
-65 awesome lists updated this week.
+64 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Web
 
-*   🔌 [Firestore Lite (⭐205)](https://github.com/samuelgozi/firebase-firestore-lite) - Lightweight Cloud Firestore library for the browser.
+*   🔌 [Firestore Lite (⭐206)](https://github.com/samuelgozi/firebase-firestore-lite) - Lightweight Cloud Firestore library for the browser.
 
 ## [2. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Admin
 
-*   [Flask-Admin (⭐5.2k)](https://github.com/flask-admin/flask-admin) - Functional admin panel that provides a user interface for managing data based on your models.
+*   [Flask-Admin (⭐5.4k)](https://github.com/flask-admin/flask-admin) - Functional admin panel that provides a user interface for managing data based on your models.
 
 ### APIs / RESTful API Support
 
@@ -40,13 +40,13 @@
 ### APIs / RESTful API + Swagger/OpenAPI Documentation Support
 
 *   [Connexion](https://connexion.readthedocs.io) - Open source, OpenAPI-based, REST framework built on top of Flask.
-*   [Flask-Rebar (⭐218)](https://github.com/plangrid/flask-rebar) - Combines Flask, [marshmallow](https://marshmallow.readthedocs.io/), and [OpenAPI](https://www.openapis.org/) for robust REST services.
+*   [Flask-Rebar (⭐222)](https://github.com/plangrid/flask-rebar) - Combines Flask, [marshmallow](https://marshmallow.readthedocs.io/), and [OpenAPI](https://www.openapis.org/) for robust REST services.
 *   [Flask-RESTX](https://flask-restx.readthedocs.io) - Community-driven fork of [Flask-RESTPlus](https://flask-restplus.readthedocs.io/) that makes it easy to build and document RESTful APIs with Flask.
 
 ### APIs / Swagger/OpenAPI Documentation Support
 
 *   [Flask-APISpec](https://flask-apispec.readthedocs.io/) - Auto-documenting REST APIs.
-*   [SAFRS: Python OpenAPI & JSON:API Framework (⭐357)](https://github.com/thomaxxl/safrs) - SAFRS, which is an acronym for *S*ql*A*lchemy *F*lask-*R*estful *S*wagger, is meant to help developers create self-documenting JSON APIs for SQLAlchemy database objects and relationships.
+*   [SAFRS: Python OpenAPI & JSON:API Framework (⭐380)](https://github.com/thomaxxl/safrs) - SAFRS, which is an acronym for *S*ql*A*lchemy *F*lask-*R*estful *S*wagger, is meant to help developers create self-documenting JSON APIs for SQLAlchemy database objects and relationships.
 
 ### Auth / Basic Auth and Session-based (for HTML Endpoints)
 
@@ -60,14 +60,14 @@
 
 *   [Flask-JWT](https://pythonhosted.org/Flask-JWT/) - Basic support for working with JWTs.
 *   [Flask-JWT-Extended](https://flask-jwt-extended.readthedocs.io) - Advanced support for working with JWTs.
-*   [Flask-JWT-Router (⭐51)](https://github.com/joegasewicz/flask-jwt-router) - Adds authorized routes to a Flask app.
+*   [Flask-JWT-Router (⭐53)](https://github.com/joegasewicz/flask-jwt-router) - Adds authorized routes to a Flask app.
 *   [Flask-Praetorian](https://flask-praetorian.readthedocs.io) - Authentication and authorization for Flask APIs.
 
 ### Auth / OAuth
 
 *   [Authlib](https://authlib.org/) - Library for building OAuth and OpenID clients and servers.
-*   [Authomatic (⭐993)](https://github.com/authomatic/authomatic) - Framework agnostic library for Python web applications that simplifies authentication and authorization of users via OAuth and OpenID.
-*   [Flask-Dance (⭐904)](https://github.com/singingwolfboy/flask-dance) - OAuth support via [OAuthLib](https://oauthlib.readthedocs.io/).
+*   [Authomatic (⭐1k)](https://github.com/authomatic/authomatic) - Framework agnostic library for Python web applications that simplifies authentication and authorization of users via OAuth and OpenID.
+*   [Flask-Dance (⭐943)](https://github.com/singingwolfboy/flask-dance) - OAuth support via [OAuthLib](https://oauthlib.readthedocs.io/).
 
 ### Cache / OAuth
 
@@ -91,21 +91,21 @@
 ### Databases / Migrations
 
 *   [Flask-Alembic](https://flask-alembic.readthedocs.io) - Configurable [Alembic](https://alembic.sqlalchemy.org/) migration environment around a Flask-SQLAlchemy database for handling database migrations.
-*   [Flask-DB (⭐60)](https://github.com/nickjj/flask-db) - Flask CLI extension that helps you migrate, drop, create and seed your SQL database.
+*   [Flask-DB (⭐71)](https://github.com/nickjj/flask-db) - Flask CLI extension that helps you migrate, drop, create and seed your SQL database.
 *   [Flask-Migrate](https://flask-migrate.readthedocs.io) - Handles SQLAlchemy database migrations via Alembic.
 
 ### Databases / Other Tools
 
-*   [Flask-Excel (⭐244)](https://github.com/pyexcel-webwares/Flask-Excel) - Uses [pyexcel (⭐1.1k)](https://github.com/pyexcel/pyexcel) to read, manipulate, and write data in different Excel formats: csv, ods, xls, xlsx and xlsm.
+*   [Flask-Excel (⭐252)](https://github.com/pyexcel-webwares/Flask-Excel) - Uses [pyexcel (⭐1.1k)](https://github.com/pyexcel/pyexcel) to read, manipulate, and write data in different Excel formats: csv, ods, xls, xlsx and xlsm.
 
 ### Developer Tools / Debugging
 
 *   [Flask-DebugToolbar](https://flask-debugtoolbar.readthedocs.io) - Port of Django's debug toolbar for Flask.
-*   [Flask-Profiler (⭐706)](https://github.com/muatik/flask-profiler) - Endpoint analyzer/profiler.
+*   [Flask-Profiler (⭐731)](https://github.com/muatik/flask-profiler) - Endpoint analyzer/profiler.
 
 ### Developer Tools / Fixtures
 
-*   [Flask-Fixtures (⭐58)](https://github.com/croach/Flask-Fixtures) - Create database fixtures from JSON or YAML.
+*   [Flask-Fixtures (⭐60)](https://github.com/croach/Flask-Fixtures) - Create database fixtures from JSON or YAML.
 *   [Mixer](https://mixer.readthedocs.io) - Object generation tool.
 
 ### Developer Tools / Monitoring
@@ -116,12 +116,12 @@
 
 ### Developer Tools / Tracing
 
-*   [Flask-OpenTracing (⭐133)](https://github.com/opentracing-contrib/python-flask) - OpenTracing instrumentation.
+*   [Flask-OpenTracing (⭐135)](https://github.com/opentracing-contrib/python-flask) - OpenTracing instrumentation.
 
 ### Developer Tools / Testing
 
 *   [Flask-Testing](https://pythonhosted.org/Flask-Testing/) - Unittest extensions.
-*   [Pytest-Flask (⭐431)](https://github.com/pytest-dev/pytest-flask) - Pytest support for testing Flask applications.
+*   [Pytest-Flask (⭐446)](https://github.com/pytest-dev/pytest-flask) - Pytest support for testing Flask applications.
 
 ### Email / Testing
 
@@ -133,34 +133,33 @@
 
 ### Full-text Search / Testing
 
-*   [flask-msearch (⭐195)](https://github.com/honmaple/flask-msearch) - Full-text search.
-*   [Flask-WhooshAlchemy3 (⭐27)](https://github.com/blakev/Flask-WhooshAlchemy3) - Full-text search + Whoosh indexing capabilities for Flask-SQLAlchemy.
+*   [flask-msearch (⭐201)](https://github.com/honmaple/flask-msearch) - Full-text search.
+*   [Flask-WhooshAlchemy3 (⭐29)](https://github.com/blakev/Flask-WhooshAlchemy3) - Full-text search + Whoosh indexing capabilities for Flask-SQLAlchemy.
 *   [SQLAlchemy-Searchable](https://sqlalchemy-searchable.readthedocs.io) - Provides full-text search capabilities for SQLAlchemy models.
 
 ### Security / Testing
 
 *   [Flask-Bcrypt](https://flask-bcrypt.readthedocs.io) - Provides bcrypt hashing utilities.
 *   [Flask-CORS](https://flask-cors.readthedocs.io) - Cross Origin Resource Sharing (CORS) handling.
-*   [Flask-SeaSurf (⭐180)](https://github.com/maxcountryman/flask-seasurf/) - Cross-site request forgery (CSRF) prevention.
-*   [Flask-Talisman (⭐832)](https://github.com/GoogleCloudPlatform/flask-talisman) - HTTPS and security headers.
+*   [Flask-SeaSurf (⭐188)](https://github.com/maxcountryman/flask-seasurf/) - Cross-site request forgery (CSRF) prevention.
+*   [Flask-Talisman (⭐878)](https://github.com/GoogleCloudPlatform/flask-talisman) - HTTPS and security headers.
 
 ### Task Queues / Testing
 
 *   [Celery](https://docs.celeryproject.org/) - The most commonly used Python library for handling asynchronous tasks and scheduling.
 *   [Dramatiq](https://flask-dramatiq.rtfd.io/) - Fast and reliable alternative to Celery.
-*   [Flask-RQ (⭐204)](https://github.com/mattupstate/flask-rq) - [RQ](https://python-rq.org/) (Redis Queue) integration.
+*   [Flask-RQ (⭐205)](https://github.com/mattupstate/flask-rq) - [RQ](https://python-rq.org/) (Redis Queue) integration.
 *   [Huey](https://huey.readthedocs.io) - [Redis](https://redis.io/)-based task queue that aims to provide a simple, yet flexible framework for executing tasks.
 
 ### Utils / Testing
 
-*   [Flask-Babel (⭐395)](https://github.com/python-babel/flask-babel) - Support for internationalization (i18n) and localization (l10n).
-*   [Flask-File-Upload (⭐142)](https://github.com/joegasewicz/flask-file-upload) - Easy file uploads.
+*   [Flask-Babel (⭐415)](https://github.com/python-babel/flask-babel) - Support for internationalization (i18n) and localization (l10n).
+*   [Flask-File-Upload (⭐150)](https://github.com/joegasewicz/flask-file-upload) - Easy file uploads.
 *   [Flask-FlatPages](https://pythonhosted.org/Flask-FlatPages/) - Provides flat static pages based on text files.
-*   [Frozen-Flask (⭐730)](https://github.com/Frozen-Flask/Frozen-Flask) - Freezes a Flask application into a set of static files.
+*   [Frozen-Flask (⭐752)](https://github.com/Frozen-Flask/Frozen-Flask) - Freezes a Flask application into a set of static files.
 *   [Flask-GraphQL (⭐1.3k)](https://github.com/graphql-python/flask-graphql) - GraphQL support.
-*   [Flask-Injector (⭐243)](https://github.com/alecthomas/flask_injector) - Adds support for dependency injection.
 *   [Flask-Limiter](https://flask-limiter.readthedocs.io) - Rate limiting features to Flask routes.
-*   [Flask-Moment (⭐356)](https://github.com/miguelgrinberg/Flask-Moment) - Moment.js date and time formatting helpers for Jinja2 templates.
+*   [Flask-Moment (⭐361)](https://github.com/miguelgrinberg/Flask-Moment) - Moment.js date and time formatting helpers for Jinja2 templates.
 *   [Flask-Paginate](https://pythonhosted.org/Flask-paginate/) - Pagination support.
 *   [Flask-Sitemap](https://flask-sitemap.readthedocs.io) - Sitemap generation.
 *   [Flask-SocketIO](https://flask-socketio.readthedocs.io) - Socket.IO integration.
@@ -170,14 +169,13 @@
 *   [Project Website](https://palletsprojects.com/p/flask/) - Official Flask website.
 *   [Documentation](https://flask.palletsprojects.com) - Comprehensive documentation for all Flask versions.
 *   [Flaskr Tutorial](https://flask.palletsprojects.com/tutorial/) - Build a basic blog application called Flaskr.
-*   [Source Code (⭐61k)](https://github.com/pallets/flask) - Hosted on GitHub.
+*   [Source Code (⭐63k)](https://github.com/pallets/flask) - Hosted on GitHub.
 
 ### External Resources / Testing
 
 *   [Full Stack Python's Flask Page](https://www.fullstackpython.com/flask.html) - Explanation of Flask philosophy and links to other resources and tutorials.
 *   [Miguel Grinberg's Blog](https://blog.miguelgrinberg.com/category/Flask) - Multiple Flask-specific tutorials.
 *   [Nick Janetakis's Blog](https://nickjanetakis.com/blog/tag/flask-tips-tricks-and-tutorials) - Flask Tips, Tricks and Tutorials.
-*   [Patrick Kennedy's Blog](http://www.patricksoftwareblog.com/flask-tutorial/) - Numerous tutorials on learning Python web application development with Flask.
 *   [RealPython](https://realpython.com/tutorials/flask/) - Many high-quality tutorials on Flask.
 *   [TestDriven.io](https://testdriven.io/blog/topics/flask/) - Up-to-date tutorials on Flask.
 
@@ -235,31 +233,31 @@
 
 ### Boilerplates / Testing
 
-*   [cookiecutter-flask (⭐4.2k)](https://github.com/cookiecutter-flask/cookiecutter-flask) - With Bootstrap 4, asset bundling annd minification with webpack, starter templates, and registration/authentication.
-*   [Cookiecutter Flask Skeleton (⭐62)](https://github.com/testdrivenio/cookiecutter-flask-skeleton) - Flask starter project for [Cookiecutter (⭐18k)](https://github.com/cookiecutter/cookiecutter).
-*   [Flask-AppBuilder (⭐3.9k)](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework that includes detailed security, auto CRUD generation for your models, Google charts, and much more.
+*   [cookiecutter-flask (⭐4.4k)](https://github.com/cookiecutter-flask/cookiecutter-flask) - With Bootstrap 4, asset bundling annd minification with webpack, starter templates, and registration/authentication.
+*   [Cookiecutter Flask Skeleton (⭐65)](https://github.com/testdrivenio/cookiecutter-flask-skeleton) - Flask starter project for [Cookiecutter (⭐20k)](https://github.com/cookiecutter/cookiecutter).
+*   [Flask-AppBuilder (⭐4.2k)](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework that includes detailed security, auto CRUD generation for your models, Google charts, and much more.
 *   [flask-base](http://hack4impact.github.io/flask-base/) - Includes SQLAlchemy, Redis, User Authentication, and more.
-*   [Flask-Bootstrap (⭐203)](https://github.com/esbullington/flask-bootstrap) - Integrated SQLAlchemy, authentication, and Bootstrap frontend.
-*   [uwsgi-nginx-flask-docker (⭐2.8k)](https://github.com/tiangolo/uwsgi-nginx-flask-docker) - Docker image with uWSGI and Nginx for Flask applications in Python running in a single container.
+*   [Flask-Bootstrap (⭐204)](https://github.com/esbullington/flask-bootstrap) - Integrated SQLAlchemy, authentication, and Bootstrap frontend.
+*   [uwsgi-nginx-flask-docker (⭐2.9k)](https://github.com/tiangolo/uwsgi-nginx-flask-docker) - Docker image with uWSGI and Nginx for Flask applications in Python running in a single container.
 *   [React-Redux-Flask (⭐1.5k)](https://github.com/dternyak/React-Redux-Flask) - Boilerplate application for a Flask JWT Backend and a React/Redux Front-End with Material UI.
-*   [Flask-Scaffold (⭐880)](https://github.com/Leo-G/Flask-Scaffold) - Prototype Database driven Web apps in Angular 6, Bootstrap 4 and REST API's with Flask.
-*   [Flask-VueJS (⭐29)](https://github.com/marcuxyz/flask-vuejs) - Connect Flask application with VueJS.
+*   [Flask-Scaffold (⭐889)](https://github.com/Leo-G/Flask-Scaffold) - Prototype Database driven Web apps in Angular 6, Bootstrap 4 and REST API's with Flask.
+*   [Flask-VueJS (⭐28)](https://github.com/marcuxyz/flask-vuejs) - Connect Flask application with VueJS.
 
 ### Open Source Projects / Testing
 
-*   [ActorCloud (⭐173)](https://github.com/actorcloud/ActorCloud) - Open-source IoT Platform.
-*   [Busy Beaver (⭐69)](https://github.com/busy-beaver-dev/busy-beaver) - Chicago Python's Community Engagement Slack bot.
-*   [FlaskBB (⭐2.3k)](https://github.com/flaskbb/flaskbb) - Classic forum software.
-*   [Indico (⭐1.4k)](https://github.com/indico/indico) - Feature-rich event management system, made at [CERN](https://home.cern/).
+*   [ActorCloud (⭐180)](https://github.com/actorcloud/ActorCloud) - Open-source IoT Platform.
+*   [Busy Beaver (⭐70)](https://github.com/busy-beaver-dev/busy-beaver) - Chicago Python's Community Engagement Slack bot.
+*   [FlaskBB (⭐2.4k)](https://github.com/flaskbb/flaskbb) - Classic forum software.
+*   [Indico (⭐1.5k)](https://github.com/indico/indico) - Feature-rich event management system, made at [CERN](https://home.cern/).
 *   [Quokka CMS](https://github.com/quokkaproject) - The happiest CMS in the world.
-*   [PythonBuddy (⭐247)](https://github.com/ethanchewy/PythonBuddy) - Online Python Editor with live syntax checking and execution.
-*   [Redash (⭐22k)](https://github.com/getredash/redash) - Designed to enable anyone, regardless of the level of technical sophistication, to harness the power of data big and small.
-*   [SkyLines (⭐361)](https://github.com/skylines-project/skylines) - Live tracking, flight database, and competition framework.
+*   [PythonBuddy (⭐262)](https://github.com/ethanchewy/PythonBuddy) - Online Python Editor with live syntax checking and execution.
+*   [Redash (⭐23k)](https://github.com/getredash/redash) - Designed to enable anyone, regardless of the level of technical sophistication, to harness the power of data big and small.
+*   [SkyLines (⭐375)](https://github.com/skylines-project/skylines) - Live tracking, flight database, and competition framework.
 *   [Security Monkey (⭐4.3k)](https://github.com/Netflix/security_monkey) - Monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
-*   [SecureDrop (⭐3.3k)](https://github.com/freedomofpress/securedrop) - Open-source whistleblower submission system that media organizations can use to securely accept documents from, and communicate with anonymous sources.
-*   [SimpleLogin (⭐3k)](https://github.com/simple-login/app) - Protect your online identity with email alias.
-*   [sr.ht](https://git.sr.ht/\~sircmpwn/core.sr.ht/tree) - Git hosting service (check out [Why I chose Flask to build sr.ht's mini-services](https://drewdevault.com/2019/01/30/Why-I-built-sr.ht-with-Flask.html) as well).
-*   [Timesketch (⭐2k)](https://github.com/google/timesketch) - Collaborative forensic timeline analysis.
+*   [SecureDrop (⭐3.4k)](https://github.com/freedomofpress/securedrop) - Open-source whistleblower submission system that media organizations can use to securely accept documents from, and communicate with anonymous sources.
+*   [SimpleLogin (⭐3.8k)](https://github.com/simple-login/app) - Protect your online identity with email alias.
+*   [sr.ht](https://git.sr.ht/~sircmpwn/core.sr.ht/tree) - Git hosting service (check out [Why I chose Flask to build sr.ht's mini-services](https://drewdevault.com/2019/01/30/Why-I-built-sr.ht-with-Flask.html) as well).
+*   [Timesketch (⭐2.2k)](https://github.com/google/timesketch) - Collaborative forensic timeline analysis.
 
 ## [5. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -297,90 +295,84 @@
 
 *   [Percy](https://percy.io/) - Continuous visual testing.
 
-## [6. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
-
-### Books and Reading / Telegram
-
-*   [Read This Twice](https://readthistwice.com)
-
-## [7. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [6. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Computer Vision
 
 *   [Image Processing and Analysis](https://www.amazon.com/Processing-Analysis-Activate-Learning-Engineering/dp/1285179528) - Stan Birchfield 2018
 
-## [8. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [7. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### VSCode / Third-party APIs
 
 *   [commonlisp-vscode](https://marketplace.visualstudio.com/items?itemName=ailisp.commonlisp-vscode) - an extension to support syntax highlight, auto completion, documentation on hover, go to definition, compile & load file, REPL. It is [On GitHub (⭐36)](https://github.com/ailisp/commonlisp-vscode/).
 *   [strict-paredit-vscode](https://marketplace.visualstudio.com/items?itemName=ailisp.strict-paredit) - structural editing and navigation like Emacs.
 
-## [9. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
+## [8. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 
 ### Tutorials / Video Tutorials
 
 *   [Awesome Haskell Videos (⭐33)](https://github.com/andys8/awesome-haskell-videos) - Curated list of Haskell talks and tutorials
 
-## [10. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [9. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Other / Machine translation
 
 *   [Pontoon](https://pontoon.mozilla.org/) - Various Mozilla localization projects.
 
-## [11. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [10. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Utilities / Navigation Demos
 
 *   [React Native Elements Playground 🚀](https://react-native-elements.js.org/) - Tinker with `react-native-elements` components in the web.
 
-## [12. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [11. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
-*   [rust-async-wasm-demo (⭐39)](https://github.com/extraymond/rust-async-wasm-demo) - Toy project to learn Rust and async that can be deployed to the web.
+*   [rust-async-wasm-demo (⭐42)](https://github.com/extraymond/rust-async-wasm-demo) - Toy project to learn Rust and async that can be deployed to the web.
 
 ### Crates / Component Libraries
 
-*   [muicss-yew (⭐30)](https://github.com/AlephAlpha/muicss-yew) - MUI-CSS Components for Yew framework.
-*   [yew-bulma (⭐15)](https://github.com/kellpossible/yew-bulma) - A Rust library providing components based on the bulma css library for projects using Yew.
-*   [ybc (⭐219)](https://github.com/thedodd/ybc) - A Yew component library based on the Bulma CSS framework.
-*   [patternfly-yew (⭐89)](https://github.com/ctron/patternfly-yew) - Patternfly components for Yew.
+*   [muicss-yew (⭐31)](https://github.com/AlephAlpha/muicss-yew) - MUI-CSS Components for Yew framework.
+*   [yew-bulma (⭐18)](https://github.com/kellpossible/yew-bulma) - A Rust library providing components based on the bulma css library for projects using Yew.
+*   [ybc (⭐243)](https://github.com/thedodd/ybc) - A Yew component library based on the Bulma CSS framework.
+*   [patternfly-yew (⭐105)](https://github.com/ctron/patternfly-yew) - Patternfly components for Yew.
 
 ### Crates / Components
 
-*   [Yew Form (⭐83)](https://github.com/jfbilodeau/yew_form) - Components to simplify handling forms with Yew.
+*   [Yew Form (⭐87)](https://github.com/jfbilodeau/yew_form) - Components to simplify handling forms with Yew.
 
 ### Crates / Utils
 
-*   [reacty\_yew (⭐49)](https://github.com/hobofan/reacty_yew) - Generate Yew components from React components via Typescript type definitions.
-*   [styled-yew (⭐33)](https://github.com/IcyDefiance/styled-yew) - CSS in Rust, similar to styled-components, but for Yew.
+*   [reacty\_yew (⭐51)](https://github.com/hobofan/reacty_yew) - Generate Yew components from React components via Typescript type definitions.
+*   [styled-yew (⭐34)](https://github.com/IcyDefiance/styled-yew) - CSS in Rust, similar to styled-components, but for Yew.
 
-## [13. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / I/O
 
 *   [Dynamium/EVCalc](https://github.com/Dynamium/EVCalc) - EVCalc is a calculation engine for mobile electric venicles (Electric scooters, electric unicycles, and so on) written in Kotlin.
 
-## [14. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [13. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Reference Projects
 
 *   [continuous-k6k8s (⭐14)](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
 
-## [15. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
+## [14. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
 ### Documentation
 
 *   [Log4brains (⭐724)](https://github.com/thomvaill/log4brains) - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website
 
-## [16. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [15. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Community
 
 *   [#pico8 on Twitter](https://twitter.com/hashtag/pico8)
 
-## [17. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [16. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Social networks / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -390,13 +382,13 @@
 
 *   [JustPrivacy](https://justprivacy.org/google-alternatives/) - An in-depth list of alternatives to Google and its products.
 
-## [18. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
+## [17. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 
 ### Construct Libraries / Security
 
 *   [k9-cdk (⭐6)](https://github.com/k9securityio/k9-cdk) - Construct to generate secure S3 bucket policies easily.
 
-## [19. awsm.fish](/content/jorgebucaran/awsm.fish/week/README.md)
+## [18. awsm.fish](/content/jorgebucaran/awsm.fish/week/README.md)
 
 ### Community Resources
 
@@ -404,30 +396,30 @@
 
 ### Prompts
 
-*   [Tide (⭐2k)](https://github.com/IlanCosman/tide) - A modern prompt manager for Fish
+*   [Tide (⭐2.1k)](https://github.com/IlanCosman/tide) - A modern prompt manager for Fish
 
 ### Plugins
 
 *   [z (⭐1.1k)](https://github.com/jethrokuan/z) - Pure-Fish [`rupa/z`](https://github.com/rupa/z)-like directory jumping
-*   [fzf (⭐1.3k)](https://github.com/PatrickF1/fzf.fish) - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf). ([Alternative (⭐823)](https://github.com/jethrokuan/fzf))
-*   [nvm (⭐1.6k)](https://github.com/jorgebucaran/nvm.fish) - Node.js version manager lovingly made for Fish
-*   [Done (⭐642)](https://github.com/franciscolourenco/done) - Automatically receive notifications after a long process finishes
-*   [Replay (⭐336)](https://github.com/jorgebucaran/replay.fish) - Run Bash commands replaying changes in Fish. ([Alternative (⭐1.9k)](https://github.com/edc/bass))
-*   [GitNow (⭐285)](https://github.com/joseluisq/gitnow) - A collection of utility functions to speed up your git workflow
-*   [Getopts (⭐208)](https://github.com/jorgebucaran/getopts.fish) - CLI options parser (alternative to the [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) builtin)
-*   [Fishtape (⭐324)](https://github.com/jorgebucaran/fishtape) - TAP-based test runner for Fish
+*   [fzf (⭐1.4k)](https://github.com/PatrickF1/fzf.fish) - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf). ([Alternative (⭐831)](https://github.com/jethrokuan/fzf))
+*   [nvm (⭐1.7k)](https://github.com/jorgebucaran/nvm.fish) - Node.js version manager lovingly made for Fish
+*   [Done (⭐653)](https://github.com/franciscolourenco/done) - Automatically receive notifications after a long process finishes
+*   [Replay (⭐340)](https://github.com/jorgebucaran/replay.fish) - Run Bash commands replaying changes in Fish. ([Alternative (⭐2k)](https://github.com/edc/bass))
+*   [GitNow (⭐295)](https://github.com/joseluisq/gitnow) - A collection of utility functions to speed up your git workflow
+*   [Getopts (⭐209)](https://github.com/jorgebucaran/getopts.fish) - CLI options parser (alternative to the [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) builtin)
+*   [Fishtape (⭐327)](https://github.com/jorgebucaran/fishtape) - TAP-based test runner for Fish
 
-## [20. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [19. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Blog posts / Ruby
 
 *   ["How to use GTFS data to track transit vehicles in realtime" by Tom Camp](https://www.ably.io/blog/gtfs-data-track-transit-vehicles-realtime) - Using GTFS and GTFS Realtime to provide continuous realtime updates.
 
-## [21. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [20. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / HTTP
 
-*   [smoke (⭐164)](https://github.com/sinedied/smoke) - File-based HTTP mock server with recording abilities.
+*   [smoke (⭐170)](https://github.com/sinedied/smoke) - File-based HTTP mock server with recording abilities.
 
 ### Packages / Web frameworks
 
@@ -435,56 +427,50 @@
 
 ### Packages / Testing
 
-*   [testcontainers-node (⭐1.2k)](https://github.com/testcontainers/testcontainers-node) - Provides lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+*   [testcontainers-node (⭐1.3k)](https://github.com/testcontainers/testcontainers-node) - Provides lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 
 ### Packages / Automation
 
-*   [nut.js (⭐1.6k)](https://github.com/nut-tree/nut.js) - Cross-platform native GUI automation / testing framework with image matching capabilities which integrates with Jest.
+*   [nut.js (⭐1.7k)](https://github.com/nut-tree/nut.js) - Cross-platform native GUI automation / testing framework with image matching capabilities which integrates with Jest.
 
-## [22. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+## [21. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
 ### General
 
 *   [IconPark (⭐7k)](https://github.com/bytedance/IconPark#readme) - IconPark gives access to more than 1,400 high-quality icons, and introduces an interface for customizing your icons. ([Website](https://iconpark.bytedance.com))
 *   [Remix Icon (⭐5.2k)](https://github.com/Remix-Design/RemixIcon#readme) - Remix Icon is a set of open-source neutral-style system symbols for designers and developers. ([Website](https://remixicon.com))
 
-## [23. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [22. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Visualization
 
-*   [mplfinance (⭐2.8k)](https://github.com/matplotlib/mplfinance) - matplotlib utilities for the visualization, and visual analysis, of financial data.
+*   [mplfinance (⭐3k)](https://github.com/matplotlib/mplfinance) - matplotlib utilities for the visualization, and visual analysis, of financial data.
 
-## [24. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [23. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Other Free Resources
 
-*   [Web.Dev](https://web.dev/measure/) — This is a free tool that allows you to see the performance of your website and improve the SEO to get higher rank list in search engines.
+*   [Web.Dev](https://web.dev/measure/) — This is a free tool that allows you to see the performance of your website and improve the SEO to get a higher rank list in search engines.
 
-## [25. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [24. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### QA and Testing Road Map / Useful References
 
-*   [How to start QA and Testing career (⭐1.3k)](https://github.com/fityanos/Quality-Assurance-Road-Map) - A wide and rich list of strategies, topics, and skills that you need to start a career in software testing and automation.
+*   [How to start QA and Testing career (⭐1.4k)](https://github.com/fityanos/Quality-Assurance-Road-Map) - A wide and rich list of strategies, topics, and skills that you need to start a career in software testing and automation.
 
-## [26. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [25. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
 *   [PHP-ML](https://gitlab.com/php-ai/php-ml) - Machine Learning library for PHP. Algorithms, Cross Validation, Neural Network, Preprocessing, Feature Extraction and much more in one library.
 
-## [27. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [26. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
-### CSS / Angular
+### CSS / Svelte
 
 *   [Tailwind Weekly](https://tailwindweekly.com/). Weekly newsletter about all things TailwindCSS.
 
-## [28. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
-
-### Bash / 理論計算機科学
-
-*   [Bashのよくある間違い](https://yakst.com/ja/posts/2929) - GreyCat, @yakstcom(翻訳)
-
-## [29. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [27. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
@@ -496,9 +482,9 @@
 
 ### Starters & Themes
 
-*   🚀 [Shopify Theme Lab (⭐655)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue and Tailwind CSS.
+*   🚀 [Shopify Theme Lab (⭐687)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue and Tailwind CSS.
 
-## [30. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
+## [28. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
 
 ### Development tools
 
@@ -515,7 +501,7 @@
 *   [Hexen: Beyond Heretic (⭐30)](https://github.com/OpenSourcedGames/Hexen) - Indirect sequel to Heretic.
     *   Original [SourceForge link](https://sourceforge.net/projects/heretic/files/) for Heretic/Hexen.
 
-## [31. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [29. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Education
 
@@ -525,19 +511,19 @@
 
 *   [How do you do Capacity Planning](https://jvns.ca/blog/2016/03/20/how-do-you-do-capacity-planning/)
 
-## [32. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
+## [30. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
 ### Tools / Custom Time Series
 
 *   [Instaclustr Minotaur (⭐5)](https://github.com/instaclustr/instaclustr-minotaur) - Command line tool for consistent rebuilding of a Cassandra cluster.
 
-## [33. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [31. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Best Practices
 
 *   [Concurrent, High Throughput Performance Testing with JMeter](https://howtojboss.wordpress.com/2012/07/31/concurrent-high-throughput-performance-testing-with-jmeter/)
 
-## [34. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [32. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Databases
 
@@ -548,29 +534,29 @@
     *   [dokeysto (⭐11)](https://github.com/UnixJunkie/dokeysto) - dumb OCaml key-value store, string keys and string
         values. Optional on-the-fly LZ4 compression of values or tokyocabinet backend.
 
-## [35. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [33. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / SEO and SMO
 
-*   [Wagtail Yoast (⭐29)](https://github.com/Aleksi44/wagtailyoast) - A tool to improve readability of your texts with SEO recommendations.
+*   [Wagtail Yoast (⭐30)](https://github.com/Aleksi44/wagtailyoast) - A tool to improve readability of your texts with SEO recommendations.
 
 ### Apps / Media
 
-*   [Wagtail SVG (⭐32)](https://github.com/Aleksi44/wagtailsvg) - A Wagtail module for managing SVG files within the admin.
+*   [Wagtail SVG (⭐35)](https://github.com/Aleksi44/wagtailsvg) - A Wagtail module for managing SVG files within the admin.
 
-## [36. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [34. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Misc / Other
 
-*   [javascript-algorithms (⭐169k)](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
+*   [javascript-algorithms (⭐175k)](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 
-## [37. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
+## [35. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
 
 ### Featured On
 
 *   [Kubernetes Native Microservices with Quarkus, and MicroProfile](https://www.manning.com/books/kubernetes-native-microservices-with-quarkus-and-microprofile) by [John Clingan](https://twitter.com/jclingan) and [Ken Finnigan](https://twitter.com/kenfinnigan)
 
-## [38. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
+## [36. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
 
 ### Arch-based projects / Not Linux
 
@@ -580,13 +566,13 @@
 
 *   [MagpieOS](https://github.com/magpie-linux) - Get a fresh experience of Arch.
 
-## [39. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [37. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Open Sources Intelligence (OSINT) / Penetration Testing Report Templates
 
-*   [Depix (⭐23k)](https://github.com/beurtschipper/Depix) - Tool for recovering passwords from pixelized screenshots (by de-pixelating text).
+*   [Depix (⭐25k)](https://github.com/beurtschipper/Depix) - Tool for recovering passwords from pixelized screenshots (by de-pixelating text).
 
-## [40. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [38. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### DevSecOps / Fuzzing
 
@@ -595,28 +581,28 @@
 ### Threat intelligence / Threat signature packages and collections
 
 *   [FireEye's Red Team Tool Countermeasures (⭐2.6k)](https://github.com/fireeye/red_team_tool_countermeasures) - Collection of Snort and YARA rules to detect attacks carried out with FireEye's own Red Team tools, first released after FireEye disclosed a breach in December 2020.
-*   [YARA Rules (⭐3.5k)](https://github.com/Yara-Rules/rules) - Project covering the need for IT security researchers to have a single repository where different Yara signatures are compiled, classified and kept as up to date as possible.
+*   [YARA Rules (⭐3.7k)](https://github.com/Yara-Rules/rules) - Project covering the need for IT security researchers to have a single repository where different Yara signatures are compiled, classified and kept as up to date as possible.
 
-## [41. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [39. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### ASM / Syntax highlighting packages
 
 *   [sublime-rgbds](https://packagecontrol.io/packages/RGBDS) - A Sublime Text 3 package for RGBDS, including syntax highlighting and some completion snippets.
 
-## [42. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [40. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
-### Computer Vision
+### Computer Vision / Text-Based User Interfaces
 
 *   [ImageJ](https://imagej.net/ImageJ) - Medical image processing application with an API.
-*   [JavaCV (⭐6.4k)](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and much more.
+*   [JavaCV (⭐7k)](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and much more.
 
-## [43. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
+## [41. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
 ### Tools / Editors
 
 *   [Wobblepaint](https://www.lexaloffle.com/bbs/?tid=40058) - Pico8 editor that give life to pixel art with a little wobble.
 
-## [44. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [42. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Control packs
 
@@ -630,25 +616,25 @@
 
 *   [TZDB (⭐75)](https://github.com/pavkam/tzdb). `[Delphi]` `[FPC]` IANA Time Zone Database for Delphi/FreePascal
 
-## [45. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [43. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### MOOC's
 
 *   [Python for Data Science Foundation Course](https://intellipaat.com/academy/course/python-for-data-science-free-training/)
 
-## [46. Guides](/content/NARKOZ/guides/week/README.md)
+## [44. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Other / CLI
 
 *   [Command Line Interface Guidelines](https://clig.dev/#guidelines)
 
-## [47. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [45. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
-*   [Hawkpass (⭐57)](https://github.com/kalpetros/hawkpass) - Password generator.
+*   [Hawkpass (⭐58)](https://github.com/kalpetros/hawkpass) - Password generator.
 
-## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [46. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -659,13 +645,13 @@
 
 *   [vue-context-composition (⭐19)](https://github.com/AlbertBrand/vue-context-composition) - share state created with the composition API between components, similar to `useContext` from React Hooks
 
-## [49. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [47. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
 *   [Timelane](http://timelane.tools) - Visually profile your asynchronous code. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/icanzilb/Timelane) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [50. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [48. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Args
 
@@ -697,7 +683,7 @@
 
 *   [RxPerl](https://metacpan.org/pod/RxPerl) - Perl implementation of [Reactive Extensions](http://reactivex.io) / rxjs
 
-## [51. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [49. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Anime
 
@@ -727,7 +713,7 @@
 
 
 
-## [52. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [50. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Legend
 
@@ -737,32 +723,140 @@
 
 ### Community
 
-*   [Terraform PDF Doc (⭐55)](https://github.com/dohsimpson/terraform-doc-pdf) :skull:
+*   [Terraform PDF Doc (⭐57)](https://github.com/dohsimpson/terraform-doc-pdf) :skull:
 
-### Testing / Vendor supported providers
+### Testing / Community providers
 
-*   [clarity (⭐119)](https://github.com/xchapter7x/clarity) - A declarative test framework for Terraform for unit testing.
+*   [clarity (⭐132)](https://github.com/xchapter7x/clarity) - A declarative test framework for Terraform for unit testing.
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
-*   [astro (⭐423)](https://github.com/uber/astro/) - Astro is a tool for managing multiple Terraform executions as a single command. :ghost:
-*   [blast radius (⭐1.8k)](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs. :skull:
-*   [json2hcl (⭐457)](https://github.com/kvz/json2hcl) - Convert JSON to HCL and vice versa. :ghost:
-*   [para (⭐51)](https://github.com/paraterraform/para) - The missing 3rd-party plugin manager and a "Swiss army knife" for Terraform/Terragrunt - just 1 tool to facilitate all workflows. :skull:
-*   [scenery (⭐367)](https://github.com/dmlittle/scenery) - Another Terraform plan output prettifier. :ghost:
-*   [terraform-plan-parser (⭐142)](https://github.com/lifeomic/terraform-plan-parser) - Command line utility and JavaScript API for parsing stdout from `terraform plan` and converting it to JSON. :ghost:
-*   [terrahub (⭐218)](https://github.com/TerraHubCorp/terrahub) - TerraHub is terraform automation and orchestration tool. Seamlessly integrated into console.terrahub.io, enterprise friendly GUI to show realtime terraform executions, as well as auditing and reporting capabilities for historical terraform runs. :heavy\_dollar\_sign:
-*   [tfjson (⭐182)](https://github.com/palantir/tfjson) - Utility to read in a Terraform plan file and dump it out in JSON. :skull:
+*   [astro (⭐424)](https://github.com/uber/astro/) - Astro is a tool for managing multiple Terraform executions as a single command. :ghost:
+*   [blast radius (⭐1.9k)](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs. :skull:
+*   [json2hcl (⭐466)](https://github.com/kvz/json2hcl) - Convert JSON to HCL and vice versa. :ghost:
+*   [para (⭐53)](https://github.com/paraterraform/para) - The missing 3rd-party plugin manager and a "Swiss army knife" for Terraform/Terragrunt - just 1 tool to facilitate all workflows. :skull:
+*   [scenery (⭐370)](https://github.com/dmlittle/scenery) - Another Terraform plan output prettifier. :ghost:
+*   [terraform-plan-parser (⭐143)](https://github.com/lifeomic/terraform-plan-parser) - Command line utility and JavaScript API for parsing stdout from `terraform plan` and converting it to JSON. :ghost:
+*   [terrahub (⭐219)](https://github.com/TerraHubCorp/terrahub) - TerraHub is terraform automation and orchestration tool. Seamlessly integrated into console.terrahub.io, enterprise friendly GUI to show realtime terraform executions, as well as auditing and reporting capabilities for historical terraform runs. :heavy\_dollar\_sign:
+*   [tfjson (⭐181)](https://github.com/palantir/tfjson) - Utility to read in a Terraform plan file and dump it out in JSON. :skull:
+
+## [51. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Bash / Non-X86
+
+*   [Introduction to Bash Scripting (⭐2.4k)](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Bobby Iliev (Markdown, PDF)
+
+### C++ / Non-X86
+
+*   [Hands-On System Programming with C++](https://www.packtpub.com/free-ebook/hands-on-system-programming-with-c/9781789137880) - Rian Quinn (Packt account *required*)
+*   [How to make an Operating System](https://samypesse.gitbook.io/how-to-create-an-operating-system/) - Samy Pesse
+
+### Haskell / Spock Framework
+
+*   [Parallel and Concurrent Programming in Haskell](https://www.oreilly.com/library/view/parallel-and-concurrent/9781449335939/) - Simon Marlow
+
+### PHP / CodeIgniter
+
+*   [CodeIgniter 3 User Guide](https://codeigniter.com/userguide3/index.html)
+*   [CodeIgniter 4 User Guide](https://codeigniter.com/user_guide/index.html)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Hadoop with Python](https://www.oreilly.com/learning/hadoop-with-python) - Zachary Radtka, Donald Miner
+
+### Python / Flask
+
+*   [Flask Documentation](https://flask.palletsprojects.com) - Pallets
+
+### Raku / Tornado
+
+*   [Metagenomics](https://kyclark.gitbooks.io/metagenomics) - Ken Youens-Clark
+
+### Smalltalk / Play Scala
+
+*   [Dynamic Web Development with Seaside](http://book.seaside.st/book/table-of-contents) - S. Ducasse, L. Renggli, C. D. Shaffer, R. Zaccone
+
+## [52. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+
+### Meta
+
+*   [Falsehoods Programmers Believe](https://spaceninja.com/2015/12/07/falsehoods-programmers-believe/) - A brief list of common falsehoods. A great overview and quick introduction into the world of falsehoods.
+
+### Business
+
+*   [`tax`](https://github.com/commerceguys/tax) - A PHP 5.4+ tax management library.
+
+### Dates and Time
+
+*   [Your Calendrical Fallacy Is Thinking…](http://yourcalendricalfallacyis.com) - List covering intercalation and cultural influence, made by a community of iOS and macOS developers.
+*   [Time Zone Database](https://www.iana.org/time-zones) - Code and data that represent the history of local time for many representative locations around the globe.
+*   [You Advocate a Calendar Reform](https://qntm.org/calendar) - Your idea will not work. This article tells you why.
+*   [So You Want to Abolish Time Zones](https://qntm.org/abolish) - Abolishing timezones may sound like a good idea, but there are quite a few complications that make it not quite so.
+*   [The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) - A video about why you should never, ever deal with timezones if you can help it.
+*   [ISO-8601, `YYYY`, `yyyy`, and why your year may be wrong](https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/) - String formatting of date is hard.
+*   [UTC is Enough for everyone, right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right) - There are edge cases about dates and time (specifically UTC) that you probably haven't thought of.
+*   [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/) - “Just store dates in UTC” is not always the right approach.
+*   [Why is subtracting these two times (in 1927) giving a strange result?](https://stackoverflow.com/a/6841479/57311) - Infamous Stack Overflow answer about both complicated historical timezones, and how historical dates can be re-interpreted by newer versions of software.
+
+### Education
+
+*   [Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html) - A list of things (not only) computer science students tend to erroneously and at times surprisingly believe even though they (probably) should know better.
+
+### Emails
+
+*   [I Knew How to Validate an Email Address Until I Read the RFC](https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/) - Provides intricate examples that are unsuspected valid email addresses according the RFC-822.
+*   [So you think you can validate email addresses (FOSDEM 2018)](https://fosdem.org/2018/schedule/event/email_address_quiz/) - Presentation of edge-case email addresses and why you should not use regex to parse them.
+
+### Human Identity
+
+*   [Gay Marriage: The Database Engineering Perspective](https://web.archive.org/web/20170914014648/https://qntm.org/gay) - How to store a marriage in a database while addressing most of the falsehoods about gender, naming and relationships.
+*   [Personal Names Around the World](https://www.w3.org/International/questions/qa-personal-names) - How do people's names differ around the world, and what are the implications for the Web?
+*   [Hello, I'm Mr. Null. My Name Makes Me Invisible to Computers](https://www.wired.com/2015/11/null/) - Real-life example on how implemented falsehood has negative impact on someone's life.
+*   [HL7 v3 RIM](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=186) - A flexible data model for representing human names.
+*   [Apple iOS `NSPersonNameComponentsFormatter`](https://developer.apple.com/library/ios/documentation/Miscellaneous/Reference/NSPersonNameComponentsFormatter_Class/index.html) - Localized representations of the components of a person's name.
+
+### Internationalization
+
+*   [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) - A video about things you need to keep in mind when internationalizing your code.
+*   [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - A good introduction to unicode, its historical context and origins, followed by an overview of its inner working.
+*   [Awesome Unicode (⭐853)](https://github.com/Wisdom/Awesome-Unicode) - A curated list of delightful Unicode tidbits, packages and resources.
+*   [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/) - Unicode is extensive, here be dragons.
+*   [Let's Stop Ascribing Meaning to Code Points](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/) - Dives deeper in Unicode and dispels myths about code points.
+*   [Breaking Our `Latin-1` Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) - Most programmers spend so much time with `Latin-1` they forgets about other's scripts quirks.
+*   [Ode to a shipping label](http://i.imgur.com/4J7Il0m.jpg) - Character encoding is hard, more so when each broken layer of data input adds its own spice.
+*   [i18n Testing Data (⭐63)](https://github.com/patch/i18n-testing) - Compilation of real-word international and diverse name data for unit testing and QA.
+*   [Big List of Naughty Strings (⭐45k)](https://github.com/minimaxir/big-list-of-naughty-strings) - A huge corpus of strings which have a high probability of causing issues when used as user-input data. A must have set of practical edge-cases to test your software against.
+
+### Networks
+
+*   [Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing) - Assumptions that programmers new to distributed applications invariably make.
+*   [There's more than one way to write an IP address](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/) - Some parts of the address are optional, mind the decimal and octal notations, and [don't forget IPv6](https://news.ycombinator.com/item?id=20390981) either.
+*   [`hostname-validate`](https://github.com/jakeogh/hostname-validate) - An attempt to validate hostnames in Python.
+
+### Postal Addresses
+
+*   [Letter Delivered Despite No Name, No Address](https://twitter.com/loriskumo/status/735851511331356672) - Ultimate falsehood about postal addresses: you do not need one.
+*   [The Bear with Its Own ZIP Code](https://kottke.org/19/08/the-bear-with-its-own-zip-code) - Smokey Bear has his own ZIP Code (`20252`) because he gets so much mail.
+*   [Regex and Postal Addresses](https://smartystreets.com/articles/regular-expressions-for-street-addresses) - Why regular expressions and street addresses do not mix.
+*   [`libaddressinput`](https://github.com/googlei18n/libaddressinput) - Google's common C++ and Java library for parsing, formatting, and validating international postal addresses.
+*   [`addressing`](https://github.com/commerceguys/addressing) - A PHP 5.4+ addressing library, powered by Google's dataset.
+*   [`postal-address`](https://github.com/scaleway/postal-address) - Python module to parse, normalize and render postal addresses.
+*   [`address`](https://github.com/Boostport/address) - Go library to validate and format addresses using Google's dataset.
+
+### Software Engineering
+
+*   [Popular misconceptions about `mtime`](https://apenwarr.ca/log/20181113) - Part of a post on why file's `mtime` comparison could be considered harmful.
+*   [Floating Point Math](https://0.30000000000000004.com) - “Your language isn't broken, it's doing floating point math. (…) This is why, more often than not, `0.1 + 0.2 != 0.3`.”
+
+### Typography
+
+*   [Truths programmers should know about case](https://www.b-list.org/weblog/2018/nov/26/case/) - A complete reverse of the falsehoods format, on the topic of case (as in uppercase and lowercase text).
 
 ## [53. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
-### Services
-
-*   [Monaparty](https://www.monaparty.me/) - Token assets platform based on Monacoin and Counterparty. Contents bound to user assets are hosted by IPFS.
-
 ### Tools
 
-*   [ipfs-pinner (⭐37)](https://github.com/wabarc/ipfs-pinner) - A toolkit help upload files to IPFS pinning services.
+*   [ipfs-pinner (⭐50)](https://github.com/wabarc/ipfs-pinner) - A toolkit help upload files to IPFS pinning services.
 *   [wbipfs (⭐2)](https://github.com/wabarc/wbipfs) - A command-line tool and Go package interface for wayback webpage to IPFS.
 
 ## [54. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
@@ -776,8 +870,8 @@
 
 *   [Enterprise Information Security](https://infosec.mozilla.org) - Mozilla's security and access guidelines.
 *   [Mitigating Cloud Vulnerabilities](https://media.defense.gov/2020/Jan/22/2002237484/-1/-1/0/CSI-MITIGATING-CLOUD-VULNERABILITIES_20200121.PDF) - “This document divides cloud vulnerabilities into four classes (misconfiguration, poor access control, shared tenancy vulnerabilities, and supply chain vulnerabilities)”.
-*   [Cartography (⭐2.6k)](https://github.com/lyft/cartography) - A Neo4J-based tool to map out dependencies and relationships between services and resources. Supports AWS, GCP, GSuite, Okta and GitHub.
-*   [Open guide to AWS Security and IAM (⭐34k)](https://github.com/open-guides/og-aws#security-and-iam)
+*   [Cartography (⭐2.8k)](https://github.com/lyft/cartography) - A Neo4J-based tool to map out dependencies and relationships between services and resources. Supports AWS, GCP, GSuite, Okta and GitHub.
+*   [Open guide to AWS Security and IAM (⭐35k)](https://github.com/open-guides/og-aws#security-and-iam)
 
 ### Account Management
 
@@ -791,7 +885,7 @@
 *   [Cryptographic Right Answers](https://latacora.micro.blog/2018/04/03/cryptographic-right-answers.html) - An up to date set of recommendations for developers who are not cryptography engineers. There's even a [shorter summary](https://news.ycombinator.com/item?id=16749140) available.
 *   [Real World Crypto Symposium](https://rwc.iacr.org) - Aims to bring together cryptography researchers with developers, focusing on uses in real-world environments such as the Internet, the cloud, and embedded devices.
 *   [An Overview of Cryptography](https://www.garykessler.net/library/crypto.html) - “This paper has two major purposes. The first is to define some of the terms and concepts behind basic cryptographic methods, and to offer a way to compare the myriad cryptographic schemes in use today. The second is to provide some real examples of cryptography in use today.”
-*   [Papers we love: Cryptography (⭐72k)](https://github.com/papers-we-love/papers-we-love/blob/master/cryptography/README.md) - Foundational papers of cryptography.
+*   [Papers we love: Cryptography (⭐77k)](https://github.com/papers-we-love/papers-we-love/blob/master/cryptography/README.md) - Foundational papers of cryptography.
 *   [Lifetimes of cryptographic hash functions](http://valerieaurora.org/hash.html) - “If you are using compare-by-hash to generate addresses for data that can be supplied by malicious users, you should have a plan to migrate to a new hash every few years”.
 
 ### Cryptography / Identifiers
@@ -802,50 +896,36 @@
 
 *   [BeyondCorp: A New Approach to Enterprise Security](https://www.usenix.org/system/files/login/articles/login_dec14_02_ward.pdf) - Quick overview of Google's Zero-trust Network initiative.
 *   [What is BeyondCorp? What is Identity-Aware Proxy?](https://medium.com/google-cloud/what-is-beyondcorp-what-is-identity-aware-proxy-de525d9b3f90) - More companies add extra layers of VPNs, firewalls, restrictions and constraints, resulting in a terrible experience and a slight security gain. There's a better way.
-*   [oathkeeper (⭐2.9k)](https://github.com/ory/oathkeeper) - Identity & Access Proxy and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP requests. Inspired by the BeyondCorp / Zero Trust white paper.
-*   [transcend (⭐228)](https://github.com/cogolabs/transcend) - BeyondCorp-inspired Access Proxy server.
-*   [Pomerium (⭐3.5k)](https://github.com/pomerium/pomerium) - An identity-aware proxy that enables secure access to internal applications.
+*   [oathkeeper (⭐3.1k)](https://github.com/ory/oathkeeper) - Identity & Access Proxy and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP requests. Inspired by the BeyondCorp / Zero Trust white paper.
+*   [transcend (⭐240)](https://github.com/cogolabs/transcend) - BeyondCorp-inspired Access Proxy server.
+*   [Pomerium (⭐3.7k)](https://github.com/pomerium/pomerium) - An identity-aware proxy that enables secure access to internal applications.
 
 ### Authentication / Identifiers
 
 *   [Scaling backend authentication at Facebook](https://www.youtube.com/watch?v=kY-Bkv3qxMc) - How-to in a nutshell: 1. Small root of trust; 2. TLS isn't enough; 3. Certificate-based tokens; 4. Crypto Auth Tokens (CATs). See the [slides](https://rwc.iacr.org/2018/Slides/Lewi.pdf) for more details.
 
-### Authentication / Password-based
+### Password-based auth / Identifiers
 
 *   [The new NIST password guidance](https://pciguru.wordpress.com/2019/03/11/the-new-nist-password-guidance/) - A summary of [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html) covering new password complexity guidelines.
 *   [Password expiration is dead](https://techcrunch.com/2019/06/02/password-expiration-is-dead-long-live-your-passwords/) - Recent scientific research calls into question the value of many long-standing password-security practices such as password expiration policies, and points instead to better alternatives such as enforcing banned-password lists and MFA.
 *   [Banks, Arbitrary Password Restrictions and Why They Don't Matter](https://www.troyhunt.com/banks-arbitrary-password-restrictions-and-why-they-dont-matter/) - “Arbitrary low limits on length and character composition are bad. They look bad, they lead to negative speculation about security posture and they break tools like password managers.”
-*   [Dumb Password Rules (⭐2.9k)](https://github.com/dumb-password-rules/dumb-password-rules) - Shaming sites with dumb password rules.
+*   [Dumb Password Rules (⭐3k)](https://github.com/dumb-password-rules/dumb-password-rules) - Shaming sites with dumb password rules.
 *   [Plain Text Offenders](https://plaintextoffenders.com/about/) - Public shaming of websites storing passwords in plain text.
-*   [Password Manager Resources (⭐3.7k)](https://github.com/apple/password-manager-resources) - A collection of password rules, change URLs and quirks by sites.
-*   [A Well-Known URL for Changing Passwords (⭐875)](https://github.com/WICG/change-password-url) - Specification defining site resource for password updates.
+*   [Password Manager Resources (⭐3.8k)](https://github.com/apple/password-manager-resources) - A collection of password rules, change URLs and quirks by sites.
+*   [A Well-Known URL for Changing Passwords (⭐884)](https://github.com/WICG/change-password-url) - Specification defining site resource for password updates.
 *   [How to change the hashing scheme of already hashed user's passwords](https://news.ycombinator.com/item?id=20109360) - Good news: you're not stuck with a legacy password saving scheme. Here is a trick to transparently upgrade to stronger hashing algorithm.
 
-### Authentication / Password-less
-
-*   [WebAuthn guide](https://webauthn.guide) - A very accessible guide to WebAuthn, a standard allowing “servers to register and authenticate users using public key cryptography instead of a password”, supported by all major browsers.
-
-### Authentication / Security Key
-
-*   [Webauthn and security keys](https://www.imperialviolet.org/2018/03/27/webauthn.html) - Describe how authentication works with security keys, details the protocols, and how they articulates with WebAuthn. Key takeaway: “There is no way to create a U2F key with webauthn however. (…) So complete the transition to webauthn of your login process first, then transition registration.”
-*   [Getting started with security keys](https://paulstamatiou.com/getting-started-with-security-keys/) - A practical guide to stay safe online and prevent phishing with FIDO2, WebAuthn and security keys.
-*   [Solo (⭐2.2k)](https://github.com/solokeys/solo) - Open security key supporting FIDO2 & U2F over USB + NFC.
-*   [OpenSK (⭐2.5k)](https://github.com/google/OpenSK) - Open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
-*   [YubiKey Guide (⭐9.5k)](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey as a SmartCard for storing GPG encryption, signing and authentication keys, which can also be used for SSH. Many of the principles in this document are applicable to other smart card devices.
-*   [YubiKey at Datadog (⭐475)](https://github.com/DataDog/yubikey) - Guide to setup Yubikey, U2F, GPG, git, SSH, Keybase, VMware Fusion and Docker Content Trust.
-
-### Authentication / Multi-Factor
+### Multi-factor auth / Identifiers
 
 *   [Breaking Password Dependencies: Challenges in the Final Mile at Microsoft](https://www.youtube.com/watch?v=B_mhJO2qHlQ) - The primary source of account hacks is password spraying (on legacy auth like SMTP, IMAP, POP, etc.), second is replay attack. Takeaway: password are insecure, use and enforce MFA.
 *   [Beyond Passwords: 2FA, U2F and Google Advanced Protection](https://www.troyhunt.com/beyond-passwords-2fa-u2f-and-google-advanced-protection/) - An excellent walk-trough over all these technologies.
-*   [A Comparative Long-Term Study of Fallback Authentication](https://www.mobsec.ruhr-uni-bochum.de/media/mobsec/veroeffentlichungen/2019/02/20/usec2019-30-wip-fallback-long-term-study-finalv2.pdf) - Key take-away: “schemes based on email and SMS are more usable. Mechanisms based on designated trustees and personal knowledge questions, on the other hand, fall short, both in terms of convenience and efficiency.”
 *   [Secrets, Lies, and Account Recovery: Lessons from the Use of Personal Knowledge Questions at Google](https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43783.pdf) - “Our analysis confirms that secret questions generally offer a security level that is far lower than user-chosen passwords. (…) Surprisingly, we found that a significant cause of this insecurity is that users often don't answer truthfully. (…) On the usability side, we show that secret answers have surprisingly poor memorability”.
 *   [How effective is basic account hygiene at preventing hijacking](https://security.googleblog.com/2019/05/new-research-how-effective-is-basic.html) - Google security team's data shows 2FA blocks 100% of automated bot hacks.
 *   [Attacking Google Authenticator](https://unix-ninja.com/p/attacking_google_authenticator) - Probably on the verge of paranoia, but might be a reason to rate limit 2FA validation attempts.
 *   [Compromising online accounts by cracking voicemail systems](https://www.martinvigo.com/voicemailcracker/) - Or why you should not rely on automated phone calls as a method to reach the user and reset passwords, 2FA or for any kind of verification. Not unlike SMS-based 2FA, it is currently insecure and can be compromised by the way of its weakest link: voicemail systems.
 *   [Getting 2FA Right in 2019](https://blog.trailofbits.com/2019/06/20/getting-2fa-right-in-2019/) - On the UX aspects of 2FA.
 
-### Authentication / SMS-based
+### Multi-factor auth / SMS-based
 
 *   [SMS 2FA auth is deprecated by NIST](https://techcrunch.com/2016/07/25/nist-declares-the-age-of-sms-based-2-factor-authentication-over/) - NIST has said that 2FA via SMS is bad and awful since 2016.
 *   [SMS: The most popular and least secure 2FA method](https://www.allthingsauth.com/2018/02/27/sms-the-most-popular-and-least-secure-2fa-method/)
@@ -855,14 +935,27 @@
 *   [SIM swap horror story](https://www.zdnet.com/article/sim-swap-horror-story-ive-lost-decades-of-data-and-google-wont-lift-a-finger/)
 *   [AWS is on its way to deprecate SMS-based 2FA](https://aws.amazon.com/iam/details/mfa/) - “We encourage you to use MFA through a U2F security key, hardware device, or virtual (software-based) MFA device. You can continue using this feature until January 31, 2019.”
 
-### Authentication / Public-Key Infrastructure (PKI)
+### Password-less auth / WebAuthn
+
+*   [WebAuthn guide](https://webauthn.guide) - Introduce WebAuthn as a standard supported by all major browsers, and allowing “servers to register and authenticate users using public key cryptography instead of a password”.
+
+### Password-less auth / Security key
+
+*   [Webauthn and security keys](https://www.imperialviolet.org/2018/03/27/webauthn.html) - Describe how authentication works with security keys, details the protocols, and how they articulates with WebAuthn. Key takeaway: “There is no way to create a U2F key with webauthn however. (…) So complete the transition to webauthn of your login process first, then transition registration.”
+*   [Getting started with security keys](https://paulstamatiou.com/getting-started-with-security-keys/) - A practical guide to stay safe online and prevent phishing with FIDO2, WebAuthn and security keys.
+*   [Solo (⭐2.2k)](https://github.com/solokeys/solo) - Open security key supporting FIDO2 & U2F over USB + NFC.
+*   [OpenSK (⭐2.7k)](https://github.com/google/OpenSK) - Open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
+*   [YubiKey Guide (⭐10k)](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey as a SmartCard for storing GPG encryption, signing and authentication keys, which can also be used for SSH. Many of the principles in this document are applicable to other smart card devices.
+*   [YubiKey at Datadog (⭐486)](https://github.com/DataDog/yubikey) - Guide to setup Yubikey, U2F, GPG, git, SSH, Keybase, VMware Fusion and Docker Content Trust.
+
+### Password-less auth / Public-Key Infrastructure (PKI)
 
 *   [Everything you should know about certificates and PKI but are too afraid to ask](https://smallstep.com/blog/everything-pki.html) - PKI lets you define a system cryptographically. It's universal and vendor neutral.
 *   [`lemur`](https://github.com/Netflix/lemur) - Acts as a broker between CAs and environments, providing a central portal for developers to issue TLS certificates with 'sane' defaults.
-*   [CFSSL (⭐7.7k)](https://github.com/cloudflare/cfssl) - A swiss army knife for PKI/TLS by CloudFlare. Command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates.
-*   [JA3 (⭐2.1k)](https://github.com/salesforce/ja3) - Method for creating SSL/TLS client fingerprints that should be easy to produce on any platform and can be easily shared for threat intelligence.
+*   [CFSSL (⭐8.1k)](https://github.com/cloudflare/cfssl) - A swiss army knife for PKI/TLS by CloudFlare. Command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates.
+*   [JA3 (⭐2.3k)](https://github.com/salesforce/ja3) - Method for creating SSL/TLS client fingerprints that should be easy to produce on any platform and can be easily shared for threat intelligence.
 
-### Authentication / JWT
+### Password-less auth / JWT
 
 *   [Introduction to JSON Web Tokens](https://jwt.io/introduction/) - Get up to speed on JWT with this article.
 *   [Learn how to use JWT for Authentication (⭐4.2k)](https://github.com/dwyl/learn-json-web-tokens) - Learn how to use JWT to secure your web app.
@@ -873,27 +966,7 @@
 *   [Stop using JWT for sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/) - And [why your "solution" doesn't work](http://cryto.net/%7Ejoepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/), because [stateless JWT tokens cannot be invalidated or updated](https://news.ycombinator.com/item?id=18354141). They will introduce either size issues or security issues depending on where you store them. Stateful JWT tokens are functionally the same as session cookies, but without the battle-tested and well-reviewed implementations or client support.
 *   [JOSE is a Bad Standard That Everyone Should Avoid](https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid) - The standards are either completely broken or complex minefields hard to navigate.
 *   [JWT.io](https://jwt.io) - Allows you to decode, verify and generate JWT.
-*   [`loginsrv`](https://github.com/tarent/loginsrv) - Standalone minimalistic login server providing a JWT login for multiple login backends (htpasswd, OSIAM, user/password, HTTP basic authentication, OAuth2: GitHub, Google, Bitbucket, Facebook, Gitlab).
-
-### Authentication / OAuth2 & OpenID
-
-*   [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc) - Explain how these standards work using simplified illustrations.
-*   [OAuth 2 Simplified](https://aaronparecki.com/oauth-2-simplified/) - A reference article describing the protocol in simplified format to help developers and service providers implement it.
-*   [OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0) - Starts with an historical context on how these standards came to be, clears up the innacuracies in the vocabulary, then details the protocols and its pitfalls to make it less intimidating.
-*   [Everything You Need to Know About OAuth (2.0)](https://gravitational.com/blog/everything-you-need-to-know-about-oauth/) - A good overview with a practical case study on how Teleport, an open-source remote access tool, allows users to log in through GitHub SSO.
-*   [OAuth in one picture](https://mobile.twitter.com/kamranahmedse/status/1276994010423361540) - A nice summary card.
-*   [How to Implement a Secure Central Authentication Service in Six Steps](https://engineering.shopify.com/blogs/engineering/implement-secure-central-authentication-service-six-steps) - Got multiple legacy systems to merge with their own login methods and accounts? Here is how to merge all that mess by the way of OIDC.
-*   [Open-Sourcing BuzzFeed's SSO Experience](https://increment.com/security/open-sourcing-buzzfeeds-single-sign-on-process/) - OAuth2-friendly adaptation of the Central Authentication Service (CAS) protocol. You'll find there good OAuth user flow diagrams.
-*   [The Decline of OpenID](https://penguindreams.org/blog/the-decline-of-openid/) - OpenID is being replaced in the public web to a mix of OAuth 1, OAuth 2 or other proprietary SSO protocols.
-*   [Why Mastercard Doesn't Use OAuth 2.0](https://developer.mastercard.com/blog/why-mastercard-doesnt-use-oauth-20) - “They did this to provide message-level integrity. OAuth 2 switched to Transport-level confidentiality/Integrity.” (which TLS provides) ([source](https://news.ycombinator.com/item?id=17486165)).
-*   [Cierge](https://web.archive.org/web/20190402111431/https://pwdless.github.io/Cierge-Website/) - Open-source authentication server (OIDC) that handles user signup, login, profiles, management, and more.
-*   [Keycloak](https://www.keycloak.org) - Open-source Identity and Access Management. Supports OIDC, OAuth 2 and SAML 2, LDAP and AD directories, password policies.
-
-### Authentication / SAML
-
-*   [How SAML 2.0 Authentication Works](https://gravitational.com/blog/how-saml-authentication-works/) - Overview of the how and why of SSO and SAML.
-*   [Web Single Sign-On, the SAML 2.0 perspective](https://blog.theodo.com/2019/06/web-single-sign-on-the-saml-2-0-perspective/) - Another naive explanation of SAML workflow in the context of corporate SSO implementation.
-*   [The Beer Drinker's Guide to SAML](https://duo.com/blog/the-beer-drinkers-guide-to-saml) - SAML is arcane at times. A another analogy might helps get more sense out of it.
+*   [`loginsrv`](https://github.com/tarent/loginsrv) - Standalone minimalistic login server providing a JWT login for multiple login backends (htpasswd, OSIAM, user/password, HTTP basic authentication, OAuth2: GitHub, Google, Bitbucket, Facebook, GitLab).
 
 ### Authorization / Policy models
 
@@ -902,28 +975,45 @@
 
 ### Authorization / Open-source policy frameworks
 
-*   [Keto (⭐4k)](https://github.com/ory/keto) - Policy decision point. It uses a set of access control policies, similar to AWS policies, in order to determine whether a subject is authorized to perform a certain action on a resource.
-*   [Ladon (⭐2.2k)](https://github.com/ory/ladon) - Access control library, inspired by AWS.
-*   [Athenz (⭐765)](https://github.com/yahoo/athenz) - Set of services and libraries supporting service authentication and role-based authorization (RBAC) for provisioning and configuration.
-*   [Gubernator (⭐898)](https://github.com/mailgun/gubernator) - High performance rate-limiting micro-service and library.
+*   [Keto (⭐4.3k)](https://github.com/ory/keto) - Policy decision point. It uses a set of access control policies, similar to AWS policies, in order to determine whether a subject is authorized to perform a certain action on a resource.
+*   [Ladon (⭐2.3k)](https://github.com/ory/ladon) - Access control library, inspired by AWS.
+*   [Athenz (⭐809)](https://github.com/yahoo/athenz) - Set of services and libraries supporting service authentication and role-based authorization (RBAC) for provisioning and configuration.
+*   [Gubernator (⭐941)](https://github.com/mailgun/gubernator) - High performance rate-limiting micro-service and library.
 
 ### Authorization / AWS policy tools
 
 *   [Become an AWS IAM Policy Ninja](https://www.youtube.com/watch?v=y7-fAT3z8Lo) - “In my nearly 5 years at Amazon, I carve out a little time each day, each week to look through the forums, customer tickets to try to find out where people are having trouble.”
-*   [Policy Sentry (⭐1.8k)](https://github.com/salesforce/policy_sentry) - Writing security-conscious IAM Policies by hand can be very tedious and inefficient. Policy Sentry helps users to create least-privilege policies in a matter of seconds.
-*   [IAM Floyd (⭐497)](https://github.com/udondan/iam-floyd) - AWS IAM policy statement generator with fluent interface. Helps with creating type safe IAM policies and writing more restrictive/secure statements by offering conditions and ARN generation via IntelliSense. Available for Node.js, Python, .Net and Java.
+*   [Policy Sentry (⭐1.9k)](https://github.com/salesforce/policy_sentry) - Writing security-conscious IAM Policies by hand can be very tedious and inefficient. Policy Sentry helps users to create least-privilege policies in a matter of seconds.
+*   [IAM Floyd (⭐521)](https://github.com/udondan/iam-floyd) - AWS IAM policy statement generator with fluent interface. Helps with creating type safe IAM policies and writing more restrictive/secure statements by offering conditions and ARN generation via IntelliSense. Available for Node.js, Python, .Net and Java.
 
 ### Authorization / Macaroons
 
-*   [Google's Macaroons in Five Minutes or Less](https://blog.bren2010.io/2014/12/04/macaroons.html) - If I'm given a Macaroon that authorizes me to perform some action(s) under certain restrictions, I can non-interactively build a second Macaroon with stricter restrictions that I can then give to you.
 *   [Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud](https://ai.google/research/pubs/pub41892) - Google's original paper.
 *   [Google paper's author compares Macaroons and JWTs](https://news.ycombinator.com/item?id=14294463) - As a consumer/verifier of macaroons, they allow you (through third-party caveats) to defer some authorization decisions to someone else. JWTs don't.
+
+### OAuth2 & OpenID / Macaroons
+
+*   [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc) - Explain how these standards work using simplified illustrations.
+*   [OAuth 2 Simplified](https://aaronparecki.com/oauth-2-simplified/) - A reference article describing the protocol in simplified format to help developers and service providers implement it.
+*   [OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0) - Starts with an historical context on how these standards came to be, clears up the innacuracies in the vocabulary, then details the protocols and its pitfalls to make it less intimidating.
+*   [Everything You Need to Know About OAuth (2.0)](https://gravitational.com/blog/everything-you-need-to-know-about-oauth/) - A good overview with a practical case study on how Teleport, an open-source remote access tool, allows users to log in through GitHub SSO.
+*   [OAuth in one picture](https://mobile.twitter.com/kamranahmedse/status/1276994010423361540) - A nice summary card.
+*   [How to Implement a Secure Central Authentication Service in Six Steps](https://engineering.shopify.com/blogs/engineering/implement-secure-central-authentication-service-six-steps) - Got multiple legacy systems to merge with their own login methods and accounts? Here is how to merge all that mess by the way of OIDC.
+*   [Open-Sourcing BuzzFeed's SSO Experience](https://increment.com/security/open-sourcing-buzzfeeds-single-sign-on-process/) - OAuth2-friendly adaptation of the Central Authentication Service (CAS) protocol. You'll find there good OAuth user flow diagrams.
+*   [Keycloak](https://www.keycloak.org) - Open-source Identity and Access Management. Supports OIDC, OAuth 2 and SAML 2, LDAP and AD directories, password policies.
+*   [The Decline of OpenID](https://penguindreams.org/blog/the-decline-of-openid/) - OpenID is being replaced in the public web to a mix of OAuth 1, OAuth 2 or other proprietary SSO protocols.
+*   [Why Mastercard Doesn't Use OAuth 2.0](https://developer.mastercard.com/blog/why-mastercard-doesnt-use-oauth-20) - “They did this to provide message-level integrity. OAuth 2 switched to transport-level confidentiality/integrity.” (which TLS provides) ([source](https://news.ycombinator.com/item?id=17486165)).
+
+### SAML / Macaroons
+
+*   [How SAML 2.0 Authentication Works](https://gravitational.com/blog/how-saml-authentication-works/) - Overview of the how and why of SSO and SAML.
+*   [Web Single Sign-On, the SAML 2.0 perspective](https://blog.theodo.com/2019/06/web-single-sign-on-the-saml-2-0-perspective/) - Another naive explanation of SAML workflow in the context of corporate SSO implementation.
+*   [The Beer Drinker's Guide to SAML](https://duo.com/blog/the-beer-drinkers-guide-to-saml) - SAML is arcane at times. A another analogy might helps get more sense out of it.
 
 ### Secret Management / Macaroons
 
 *   [Secret at Scale at Netflix](https://www.youtube.com/watch?v=K0EOPddWpsE) - Solution based on blind signatures. See the [slides](https://rwc.iacr.org/2018/Slides/Mehta.pdf).
 *   [High Availability in Google's Internal KMS](https://www.youtube.com/watch?v=5T_c-lqgjso) - Not GCP's KMS, but the one at the core of their infrastructure. See the [slides](https://rwc.iacr.org/2018/Slides/Kanagala.pdf).
-*   [`vault`](https://www.vaultproject.io) - Secure, store and tightly control access to tokens, passwords, certificates, encryption keys.
 *   [`sops`](https://github.com/mozilla/sops) - Encrypts the values of YAML and JSON files, not the keys.
 *   [`gitleaks`](https://github.com/zricethezav/gitleaks) - Audit git repos for secrets.
 *   [`truffleHog`](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history.
@@ -935,28 +1025,27 @@
 *   [HSM: What they are and why it's likely that you've (indirectly) used one today](https://rwc.iacr.org/2015/Slides/RWC-2015-Hampton.pdf) - Really basic overview of HSM usages.
 *   [Tidbits on AWS Cloud HSM hardware](https://news.ycombinator.com/item?id=16759383) - AWS CloudHSM Classic is backed by SafeNet's Luna HSM, current CloudHSM rely on Cavium's Nitrox, which allows for partitionable "virtual HSMs".
 *   [Keystone](https://keystone-enclave.org) - Open-source project for building trusted execution environments (TEE) with secure hardware enclaves, based on the RISC-V architecture.
-*   [Project Oak (⭐867)](https://github.com/project-oak/oak) - A specification and a reference implementation for the secure transfer, storage and processing of data.
+*   [Project Oak (⭐936)](https://github.com/project-oak/oak) - A specification and a reference implementation for the secure transfer, storage and processing of data.
 
 ### Trust & Safety / Hardware Security Module (HSM)
 
 *   [Trust and safety 101](https://www.csoonline.com/article/3206127/trust-and-safety-101.html) - A great introduction on the domain and its responsabilities.
 *   [What the Heck is Trust and Safety?](https://www.linkedin.com/pulse/what-heck-trust-safety-kenny-shi) - A couple of real use-case to demonstrate the role of a TnS team.
-*   [Awesome List of Billing and Payments: Fraud links (⭐563)](https://github.com/kdeldycke/awesome-billing#fraud) - Section dedicated to fraud management for billing and payment, from our sister repository.
+*   [Awesome List of Billing and Payments: Fraud links (⭐657)](https://github.com/kdeldycke/awesome-billing#fraud) - Section dedicated to fraud management for billing and payment, from our sister repository.
 
 ### Trust & Safety / User Identity
 
 *   [The Laws of Identity](https://www.identityblog.com/stories/2005/05/13/TheLawsOfIdentity.pdf) - Is this paper aims at identity metasystem, its laws still provides great insights at smaller scale, especially the first law: to always allow user control and ask for consent to earn trust.
 *   [How Uber Got Lost](https://www.nytimes.com/2019/08/23/business/how-uber-got-lost.html) - “To limit "friction" Uber allowed riders to sign up without requiring them to provide identity beyond an email — easily faked — or a phone number. (…) Vehicles were stolen and burned; drivers were assaulted, robbed and occasionally murdered. The company stuck with the low-friction sign-up system, even as violence increased.”
 *   [A Comparison of Personal Name Matching: Techniques and Practical Issues](http://users.cecs.anu.edu.au/~Peter.Christen/publications/tr-cs-06-02.pdf) - Customer name matching has lots of application, from account deduplication to fraud monitoring.
-*   [Statistically Likely Usernames (⭐613)](https://github.com/insidetrust/statistically-likely-usernames) - Wordlists for creating statistically likely usernames for use in username-enumeration, simulated password-attacks and other security testing tasks.
-*   [Sherlock (⭐40k)](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
+*   [Statistically Likely Usernames (⭐710)](https://github.com/insidetrust/statistically-likely-usernames) - Wordlists for creating statistically likely usernames for use in username-enumeration, simulated password-attacks and other security testing tasks.
+*   [Sherlock (⭐44k)](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
 
 ### Trust & Safety / Fraud
 
-*   [After Car2Go eased its background checks, 75 of its vehicles were stolen in one day.](https://archive.is/MuNrZ) - Why background check are sometimes necessary.
 *   [Investigation into the Unusual Signups](https://openstreetmap.lu/MWGGlobalLogicReport20181226.pdf) - A really detailed analysis of suspicious contributor signups on OpenStreetMap. This beautiful and high-level report demonstrating an orchestrated and directed campaign might serve as a template for fraud reports.
-*   [MIDAS: Detecting Microcluster Anomalies in Edge Streams (⭐708)](https://github.com/bhatiasiddharth/MIDAS) - A proposed method to “detects microcluster anomalies, or suddenly arriving groups of suspiciously similar edges, in edge streams, using constant time and memory.”
-*   [Gephi (⭐5.3k)](https://github.com/gephi/gephi) - Open-source platform for visualizing and manipulating large graphs.
+*   [MIDAS: Detecting Microcluster Anomalies in Edge Streams (⭐732)](https://github.com/bhatiasiddharth/MIDAS) - A proposed method to “detects microcluster anomalies, or suddenly arriving groups of suspiciously similar edges, in edge streams, using constant time and memory.”
+*   [Gephi (⭐5.5k)](https://github.com/gephi/gephi) - Open-source platform for visualizing and manipulating large graphs.
 
 ### Trust & Safety / Moderation
 
@@ -964,22 +1053,21 @@
 
 ### Trust & Safety / Threat Intelligence
 
-*   [Awesome Threat Intelligence (⭐6k)](https://github.com/hslatman/awesome-threat-intelligence) - “A concise definition of Threat Intelligence: evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging menace or hazard to assets that can be used to inform decisions regarding the subject's response to that menace or hazard.”
-*   [SpiderFoot (⭐9.5k)](https://github.com/smicallef/spiderfoot) - An open source intelligence (OSINT) automation tool. It integrates with just about every data source available and uses a range of methods for data analysis, making that data easy to navigate.
+*   [Awesome Threat Intelligence (⭐6.6k)](https://github.com/hslatman/awesome-threat-intelligence) - “A concise definition of Threat Intelligence: evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging menace or hazard to assets that can be used to inform decisions regarding the subject's response to that menace or hazard.”
+*   [SpiderFoot (⭐11k)](https://github.com/smicallef/spiderfoot) - An open source intelligence (OSINT) automation tool. It integrates with just about every data source available and uses a range of methods for data analysis, making that data easy to navigate.
 *   [Standards related to Threat Intelligence](https://www.threat-intelligence.eu/standards/) - Open standards, tools and methodologies to support threat intelligence analysis.
 *   [MISP taxonomies and classification](https://www.misp-project.org/taxonomies.html) - Tags to organize information on “threat intelligence including cyber security indicators, financial fraud or counter-terrorism information.”
 *   [Browser Fingerprinting: A survey](https://arxiv.org/pdf/1905.01051.pdf) - Fingerprints can be used as a source of signals to identify bots and fraudsters.
 *   [The challenges of file formats](https://speakerdeck.com/ange/the-challenges-of-file-formats) - At one point you will let users upload files in your system. Here is a [corpus of suspicious media files (⭐1.4k)](https://github.com/corkami/pocs) that can be leveraged by scammers =to bypass security or fool users.
-*   [SecLists (⭐46k)](https://github.com/danielmiessler/SecLists) - Collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
-*   [PhishingKitTracker (⭐97)](https://github.com/neonprimetime/PhishingKitTracker) - CSV database of email addresses used by threat actor in phishing kits.
-*   [PhoneInfoga (⭐9.6k)](https://github.com/sundowndev/PhoneInfoga) - Tools to scan phone numbers using only free resources. The goal is to first gather standard information such as country, area, carrier and line type on any international phone numbers with a very good accuracy. Then search for footprints on search engines to try to find the VoIP provider or identify the owner.
-*   [Confusable Homoglyphs (⭐152)](https://github.com/vhf/confusable_homoglyphs) - Homoglyphs is a common phishing trick.
+*   [SecLists (⭐50k)](https://github.com/danielmiessler/SecLists) - Collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+*   [PhishingKitTracker (⭐98)](https://github.com/neonprimetime/PhishingKitTracker) - CSV database of email addresses used by threat actor in phishing kits.
+*   [PhoneInfoga (⭐11k)](https://github.com/sundowndev/PhoneInfoga) - Tools to scan phone numbers using only free resources. The goal is to first gather standard information such as country, area, carrier and line type on any international phone numbers with a very good accuracy. Then search for footprints on search engines to try to find the VoIP provider or identify the owner.
+*   [Confusable Homoglyphs (⭐156)](https://github.com/vhf/confusable_homoglyphs) - Homoglyphs is a common phishing trick.
 
 ### Trust & Safety / Captcha
 
-*   [Awesome Captcha (⭐975)](https://github.com/ZYSzys/awesome-captcha) - Reference all open-source captcha libraries, integration, alternatives and cracking tools.
+*   [Awesome Captcha (⭐1.1k)](https://github.com/ZYSzys/awesome-captcha) - Reference all open-source captcha libraries, integration, alternatives and cracking tools.
 *   [reCaptcha](https://www.google.com/recaptcha) - reCaptcha is still an effective, economical and quick solution when your company can't afford to have a dedicated team to fight bots and spammers at internet scale.
-*   [You (probably) don't need ReCAPTCHA](https://kevv.net/you-probably-dont-need-recaptcha/) - Starts with a rant on how the service is a privacy nightmare and is tedious UI-wise, then list alternatives.
 
 ### Blocklists / Captcha
 
@@ -991,8 +1079,8 @@
 *   [`hosts`](https://github.com/StevenBlack/hosts) - Consolidates reputable hosts files, and merges them into a unified hosts file with duplicates removed.
 *   [`nextdns/metadata`](https://github.com/nextdns/metadata) - Extensive collection of list for security, privacy and parental control.
 *   [The Public Suffix List](https://publicsuffix.org) - Mozilla's registry of public suffixes, under which Internet users can (or historically could) directly register names.
-*   [Country IP Blocks (⭐434)](https://github.com/herrbischoff/country-ip-blocks) - CIDR country-level IP data, straight from the Regional Internet Registries, updated hourly.
-*   [Certificate Transparency Subdomains (⭐326)](https://github.com/internetwache/CT_subdomains) - An hourly updated list of subdomains gathered from certificate transparency logs.
+*   [Country IP Blocks (⭐521)](https://github.com/herrbischoff/country-ip-blocks) - CIDR country-level IP data, straight from the Regional Internet Registries, updated hourly.
+*   [Certificate Transparency Subdomains (⭐331)](https://github.com/internetwache/CT_subdomains) - An hourly updated list of subdomains gathered from certificate transparency logs.
 *   [`common-domain-prefix-suffix-list.tsv`](https://gist.github.com/erikig/826f49442929e9ecfab6d7c481870700) - Top-5000 most common domain prefix/suffix list.
 *   [`hosts-blocklists`](https://github.com/notracking/hosts-blocklists) - No more ads, tracking and other virtual garbage.
 *   [`xkeyscorerules100.txt`](https://gist.github.com/sehrgut/324626fa370f044dbca7) - NSA's [XKeyscore](https://en.wikipedia.org/wiki/XKeyscore) matching rules for TOR and other anonymity preserving tools.
@@ -1001,7 +1089,7 @@
 
 ### Blocklists / Emails
 
-*   [Burner email providers (⭐954)](https://github.com/wesbos/burner-email-providers) - A list of temporary email providers. And its [derivative Python module (⭐1.7k)](https://github.com/martenson/disposable-email-domains).
+*   [Burner email providers (⭐982)](https://github.com/wesbos/burner-email-providers) - A list of temporary email providers. And its [derivative Python module (⭐1.9k)](https://github.com/martenson/disposable-email-domains).
 *   [MailChecker (⭐1.5k)](https://github.com/FGRibreau/mailchecker) - Cross-language temporary (disposable/throwaway) email detection library.
 *   [Temporary Email Address Domains](https://gist.github.com/adamloving/4401361) - A list of domains for disposable and temporary email addresses. Useful for filtering your email list to increase open rates (sending email to these domains likely will not be opened).
 *   [`gman`](https://github.com/benbalter/gman) - “A ruby gem to check if the owner of a given email address or website is working for THE MAN (a.k.a verifies government domains).” Good resource to hunt for potential government customers in your user base.
@@ -1014,16 +1102,16 @@
 
 ### Blocklists / Profanity
 
-*   [List of Dirty, Naughty, Obscene, and Otherwise Bad Words (⭐2.3k)](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - Profanity blocklist from Shutterstock.
+*   [List of Dirty, Naughty, Obscene, and Otherwise Bad Words (⭐2.5k)](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - Profanity blocklist from Shutterstock.
 *   [`profanity-check`](https://github.com/vzhou842/profanity-check) - Uses a linear SVM model trained on 200k human-labeled samples of clean and profane text strings.
 
 ### Privacy / Profanity
 
-*   [Paper we love: Privacy (⭐72k)](https://github.com/papers-we-love/papers-we-love/tree/master/privacy) - A collection of scientific studies of schemes providing privacy by design.
+*   [Paper we love: Privacy (⭐77k)](https://github.com/papers-we-love/papers-we-love/tree/master/privacy) - A collection of scientific studies of schemes providing privacy by design.
 *   [IRMA Authentication](https://news.ycombinator.com/item?id=20144240) - Open-source app and protocol that offers privacy-friendly attribute based authentication and signing using [Camenisch and Lysyanskaya's Idemix](https://privacybydesign.foundation/publications/).
 *   [Have I been Pwned?](https://haveibeenpwned.com) - Data breach index.
 *   [Automated security testing for Software Developers](https://fahrplan.events.ccc.de/camp/2019/Fahrplan/system/event_attachments/attachments/000/003/798/original/security_cccamp.pdf) - Most privacy breaches were allowed by known vulnerabilities in third-party dependencies. Here is how to detect them by the way of CI/CD.
-*   [Email marketing regulations around the world (⭐407)](https://github.com/threeheartsdigital/email-marketing-regulations) - As the world becomes increasingly connected, the email marketing regulation landscape becomes more and more complex.
+*   [Email marketing regulations around the world (⭐413)](https://github.com/threeheartsdigital/email-marketing-regulations) - As the world becomes increasingly connected, the email marketing regulation landscape becomes more and more complex.
 
 ### Privacy / Anonymization
 
@@ -1031,18 +1119,16 @@
 *   [Four cents to deanonymize: Companies reverse hashed email addresses](https://freedom-to-tinker.com/2018/04/09/four-cents-to-deanonymize-companies-reverse-hashed-email-addresses/) - “Hashed email addresses can be easily reversed and linked to an individual”.
 *   [Why differential privacy is awesome](https://desfontain.es/privacy/differential-privacy-awesomeness.html) - Explain the intuition behind [differential privacy](https://en.wikipedia.org/wiki/Differential_privacy), a theoretical framework which allow sharing of aggregated data without compromising confidentiality. See follow-up articles with [more details](https://desfontain.es/privacy/differential-privacy-in-more-detail.html) and [practical aspects](https://desfontain.es/privacy/differential-privacy-in-practice.html).
 *   [k-anonymity: an introduction](https://www.privitar.com/listing/k-anonymity-an-introduction) - An alternative anonymity privacy model.
-*   [Presidio (⭐2k)](https://github.com/microsoft/presidio) - Context aware, pluggable and customizable data protection and PII data anonymization service for text and images.
-*   [Diffix: High-Utility Database Anonymization](https://aircloak.com/wp-content/uploads/apf17-reprint.pdf) - Diffix try to provide anonymization, avoid pseudonymization and preserve data quality. [Written in Elixir at Aircloak](https://elixirforum.com/t/aircloak-anonymized-analitycs/10930), it acts as an SQL proxy between the analyst and an unmodified live database.
+*   [Presidio (⭐2.4k)](https://github.com/microsoft/presidio) - Context aware, pluggable and customizable data protection and PII data anonymization service for text and images.
 
 ### Privacy / GDPR
 
-*   [GDPR Developer Guide (⭐288)](https://github.com/LINCnil/GDPR-Developer-Guide) - Best practices for developers.
+*   [GDPR Developer Guide (⭐297)](https://github.com/LINCnil/GDPR-Developer-Guide) - Best practices for developers.
 *   [GDPR – A Practical guide for Developers](https://techblog.bozho.net/gdpr-practical-guide-developers/) - A one-page summary of the above.
 *   [GDPR Tracker](https://gdprtracker.io) - Track the GDPR compliance of cloud services and subprocessors.
-*   [GDPR documents (⭐262)](https://github.com/good-lly/gdpr-documents) - Templates for personal use to have companies comply with "Data Access" requests.
+*   [GDPR documents (⭐261)](https://github.com/good-lly/gdpr-documents) - Templates for personal use to have companies comply with "Data Access" requests.
 *   [Dark Patterns after the GDPR](https://arxiv.org/pdf/2001.02479.pdf) - This paper demonstrates that, because of the lack of GDPR law enforcements, dark patterns and implied consent are ubiquitous.
 *   [GDPR Enforcement Tracker](http://enforcementtracker.com) - List of GDPR fines and penalties.
-*   [Ship Your Enemies GDPR](https://shipyourenemiesgdpr.com) - Weaponizing GDPR to help you send your enemies a Data Requests designed to waste as much of their time as possible.
 
 ### UX/UI / GDPR
 
@@ -1116,11 +1202,11 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Mumble](https://wiki.mumble.info/wiki/Main_Page) - Low-latency, high quality voice/text chat software. ([Source Code (⭐5.4k)](https://github.com/mumble-voip/mumble), [Clients](https://wiki.mumble.info/wiki/3rd_Party_Applications)) `BSD-3-Clause` `C++`
+*   [Mumble](https://wiki.mumble.info/wiki/Main_Page) - Low-latency, high quality voice/text chat software. ([Source Code (⭐5.7k)](https://github.com/mumble-voip/mumble), [Clients](https://wiki.mumble.info/wiki/3rd_Party_Applications)) `BSD-3-Clause` `C++/deb`
 
-### Software / Miscellaneous
+### Software / Note-taking & Editors
 
-*   [DailyTxT (⭐127)](https://github.com/PhiTux/DailyTxT) - Encrypted Diary Web-App to save your personal memories of each day. Includes a search-function and encrypted file-upload. `MIT` `Python`
+*   [DailyTxT (⭐154)](https://github.com/PhiTux/DailyTxT) - Encrypted diary Web application to save your personal memories of each day. Includes a search function and encrypted file upload. `MIT` `Docker`
 
 ## [57. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
@@ -1189,93 +1275,13 @@
 
 *   [The vanished grandeur of accounting](https://www.bostonglobe.com/ideas/2014/06/07/the-vanished-grandeur-accounting/3zcbRBoPDNIryWyNYNMvbO/story.html) - Accounting paintings were a significant genre in Dutch art.
 
-## [60. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
-
-### Meta
-
-*   [Falsehoods Programmers Believe](https://spaceninja.com/2015/12/07/falsehoods-programmers-believe/) - A brief list of common falsehoods. A great overview and quick introduction into the world of falsehoods.
-
-### Business
-
-*   [`tax`](https://github.com/commerceguys/tax) - A PHP 5.4+ tax management library.
-
-### Dates and Time
-
-*   [Your Calendrical Fallacy Is Thinking…](http://yourcalendricalfallacyis.com) - List covering intercalation and cultural influence, made by a community of iOS and macOS developers.
-*   [Time Zone Database](https://www.iana.org/time-zones) - Code and data that represent the history of local time for many representative locations around the globe.
-*   [You Advocate a Calendar Reform](https://qntm.org/calendar) - Your idea will not work. This article tells you why.
-*   [So You Want to Abolish Time Zones](https://qntm.org/abolish) - Abolishing timezones may sound like a good idea, but there are quite a few complications that make it not quite so.
-*   [The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) - A video about why you should never, ever deal with timezones if you can help it.
-*   [ISO-8601, `YYYY`, `yyyy`, and why your year may be wrong](https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/) - String formatting of date is hard.
-*   [UTC is Enough for everyone, right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right) - There are edge cases about dates and time (specifically UTC) that you probably haven't thought of.
-*   [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/) - “Just store dates in UTC” is not always the right approach.
-*   [Why is subtracting these two times (in 1927) giving a strange result?](https://stackoverflow.com/a/6841479/57311) - Infamous Stack Overflow answer about both complicated historical timezones, and how historical dates can be re-interpreted by newer versions of software.
-
-### Education
-
-*   [Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html) - A list of things (not only) computer science students tend to erroneously and at times surprisingly believe even though they (probably) should know better.
-
-### Emails
-
-*   [I Knew How to Validate an Email Address Until I Read the RFC](https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/) - Provides intricate examples that are unsuspected valid email addresses according the RFC-822.
-*   [So you think you can validate email addresses (FOSDEM 2018)](https://fosdem.org/2018/schedule/event/email_address_quiz/) - Presentation of edge-case email addresses and why you should not use regex to parse them.
-
-### Geography
-
-*   [Top 5 most insane kanji place names in Japan](https://soranews24.com/2016/12/01/w-t-f-japan-top-5-most-insane-kanji-place-names-in-japan%e3%80%90weird-top-five%e3%80%91/) - “There's one special group of kanji that's hard even for Japanese people to read: place names.”
-
-### Human Identity
-
-*   [Gay Marriage: The Database Engineering Perspective](https://web.archive.org/web/20170914014648/https://qntm.org/gay) - How to store a marriage in a database while addressing most of the falsehoods about gender, naming and relationships.
-*   [Personal Names Around the World](https://www.w3.org/International/questions/qa-personal-names) - How do people's names differ around the world, and what are the implications for the Web?
-*   [Hello, I'm Mr. Null. My Name Makes Me Invisible to Computers](https://www.wired.com/2015/11/null/) - Real-life example on how implemented falsehood has negative impact on someone's life.
-*   [HL7 v3 RIM](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=186) - A flexible data model for representing human names.
-*   [Apple iOS `NSPersonNameComponentsFormatter`](https://developer.apple.com/library/ios/documentation/Miscellaneous/Reference/NSPersonNameComponentsFormatter_Class/index.html) - Localized representations of the components of a person's name.
-
-### Internationalization
-
-*   [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) - A video about things you need to keep in mind when internationalizing your code.
-*   [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - A good introduction to unicode, its historical context and origins, followed by an overview of its inner working.
-*   [Awesome Unicode (⭐839)](https://github.com/Wisdom/Awesome-Unicode) - A curated list of delightful Unicode tidbits, packages and resources.
-*   [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/) - Unicode is extensive, here be dragons.
-*   [Let's Stop Ascribing Meaning to Code Points](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/) - Dives deeper in Unicode and dispels myths about code points.
-*   [Breaking Our `Latin-1` Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) - Most programmers spend so much time with `Latin-1` they forgets about other's scripts quirks.
-*   [Ode to a shipping label](http://i.imgur.com/4J7Il0m.jpg) - Character encoding is hard, more so when each broken layer of data input adds its own spice.
-*   [i18n Testing Data (⭐63)](https://github.com/patch/i18n-testing) - Compilation of real-word international and diverse name data for unit testing and QA.
-*   [Big List of Naughty Strings (⭐45k)](https://github.com/minimaxir/big-list-of-naughty-strings) - A huge corpus of strings which have a high probability of causing issues when used as user-input data. A must have set of practical edge-cases to test your software against.
-
-### Networks
-
-*   [Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing) - Assumptions that programmers new to distributed applications invariably make.
-*   [There's more than one way to write an IP address](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/) - Some parts of the address are optional, mind the decimal and octal notations, and [don't forget IPv6](https://news.ycombinator.com/item?id=20390981) either.
-*   [`hostname-validate`](https://github.com/jakeogh/hostname-validate) - An attempt to validate hostnames in Python.
-
-### Postal Addresses
-
-*   [Letter Delivered Despite No Name, No Address](https://twitter.com/loriskumo/status/735851511331356672) - Ultimate falsehood about postal addresses: you do not need one.
-*   [The Bear with Its Own ZIP Code](https://kottke.org/19/08/the-bear-with-its-own-zip-code) - Smokey Bear has his own ZIP Code (`20252`) because he gets so much mail.
-*   [Regex and Postal Addresses](https://smartystreets.com/articles/regular-expressions-for-street-addresses) - Why regular expressions and street addresses do not mix.
-*   [`libaddressinput`](https://github.com/googlei18n/libaddressinput) - Google's common C++ and Java library for parsing, formatting, and validating international postal addresses.
-*   [`addressing`](https://github.com/commerceguys/addressing) - A PHP 5.4+ addressing library, powered by Google's dataset.
-*   [`postal-address`](https://github.com/scaleway/postal-address) - Python module to parse, normalize and render postal addresses.
-*   [`address`](https://github.com/Boostport/address) - Go library to validate and format addresses using Google's dataset.
-
-### Software Engineering
-
-*   [Popular misconceptions about `mtime`](https://apenwarr.ca/log/20181113) - Part of a post on why file's `mtime` comparison could be considered harmful.
-*   [Floating Point Math](https://0.30000000000000004.com) - “Your language isn't broken, it's doing floating point math. (…) This is why, more often than not, `0.1 + 0.2 != 0.3`.”
-
-### Typography
-
-*   [Truths programmers should know about case](https://www.b-list.org/weblog/2018/nov/26/case/) - A complete reverse of the falsehoods format, on the topic of case (as in uppercase and lowercase text).
-
-## [61. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [60. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
 *   [Getting Started with Service Accounts in Keycloak](https://medium.com/@mihirrajdixit/getting-started-with-service-accounts-in-keycloak-c8f6798a0675)
 
-## [62. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [61. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Documentation and Presentation
 
@@ -1297,17 +1303,17 @@
 
 *   [CamVox (⭐462)](https://github.com/ISEE-Technology/CamVox) - A low-cost SLAM system based on camera and Livox lidar.
 
-## [63. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [62. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
-*   [qr-code (⭐18)](https://github.com/spider-gazelle/qr-code) - QR Code generator
+*   [qr-code (⭐17)](https://github.com/spider-gazelle/qr-code) - QR Code generator
 
 ### Image processing
 
-*   [celestine (⭐85)](https://github.com/celestinecr/celestine) - Create SVG images using a DSL
+*   [celestine (⭐86)](https://github.com/celestinecr/celestine) - Create SVG images using a DSL
 
-## [64. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
+## [63. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
 ### Bots / Self-hosted
 
@@ -1318,15 +1324,15 @@
 
 *   [teleirc (⭐125)](https://github.com/RITlug/teleirc) - Telegram ↔ IRC. `JavaScript`
 
-## [65. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [64. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Custom Scrollbar
 
-*   [rc-scrollbars (⭐108)](https://github.com/sakhnyuk/rc-scrollbars) - [demo](https://rc-scrollbars.vercel.app/) - Customizable scrollbars with flex options and 60FPS
+*   [rc-scrollbars (⭐128)](https://github.com/sakhnyuk/rc-scrollbars) - [demo](https://rc-scrollbars.vercel.app/) - Customizable scrollbars with flex options and 60FPS
 
 ### Form Components / Autosize Input / Textarea
 
-*   [react-autowidth-input (⭐6)](https://github.com/kierien/react-autowidth-input) - Highly configurable & extensible automatically sized input field built with hooks.
+*   [react-autowidth-input (⭐8)](https://github.com/kierien/react-autowidth-input) - Highly configurable & extensible automatically sized input field built with hooks.
 
 ---
 

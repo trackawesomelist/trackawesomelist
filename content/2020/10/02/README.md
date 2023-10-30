@@ -16,7 +16,7 @@
 
 ### Miscellaneous / Lazy Load
 
-*   [component-controls (⭐75)](https://github.com/ccontrols/component-controls) - [demo](https://component-controls.com) - [docs](https://component-controls.com/tutorial) - A next-generation tool to create blazing-fast documentation sites.
+*   [component-controls (⭐77)](https://github.com/ccontrols/component-controls) - [demo](https://component-controls.com) - [docs](https://component-controls.com/tutorial) - A next-generation tool to create blazing-fast documentation sites.
 
 ## [3. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Reverse Engineering / Reverse Engineering Tools
 
-*   [Detect It Easy(DiE) (⭐4.5k)](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
+*   [Detect It Easy(DiE) (⭐5.6k)](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 
 ## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -123,13 +123,13 @@
 
 ### Design tokens
 
-*   [Design Tokens W3C Community Group](https://www.w3.org/community/design-tokens/) - View repository on GitHub [here (⭐969)](https://github.com/design-tokens/community-group)!
+*   [Design Tokens W3C Community Group](https://www.w3.org/community/design-tokens/) - View repository on GitHub [here (⭐1.3k)](https://github.com/design-tokens/community-group)!
 *   [Diez](https://diez.org/) - Free & open-source developer toolkit for expressing visual styles that can be shared across codebases, native platforms, and teams.
 
 ### Tools
 
-*   [Figmagic (⭐610)](https://github.com/mikaelvesavuori/figmagic) - Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents.
-*   [Style Dictionary (⭐2.8k)](https://github.com/amzn/style-dictionary) - A Style Dictionary uses design tokens to define styles once and use those styles on any platform or language.
+*   [Figmagic (⭐716)](https://github.com/mikaelvesavuori/figmagic) - Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents.
+*   [Style Dictionary (⭐3.3k)](https://github.com/amzn/style-dictionary) - A Style Dictionary uses design tokens to define styles once and use those styles on any platform or language.
 *   [Superposition](https://superposition.design/) - Extract design tokens from websites and use them in code and in your design tool. Use the design system you already have.
 
 ### Articles
@@ -153,14 +153,14 @@
 
 ### Develop isolated components / Storybook addons
 
-*   [Accessibility (⭐75k)](https://github.com/storybookjs/storybook/tree/master/addons/a11y) - Test component compliance with web accessibility standards.
-*   [Actions (⭐75k)](https://github.com/storybookjs/storybook/tree/master/addons/actions) - Get UI feedback when an action is performed on an interactive element.
-*   [Backgrounds (⭐75k)](https://github.com/storybookjs/storybook/tree/master/addons/backgrounds) - Switch backgrounds to view components in different settings.
-*   [Console (⭐175)](https://github.com/storybookjs/storybook-addon-console) - Show console output like logs, errors, and warnings in the Storybook.
-*   [Docs (⭐75k)](https://github.com/storybookjs/storybook/tree/master/addons/docs) - Document component usage and properties in Markdown.
-*   [Knobs (⭐75k)](https://github.com/storybookjs/storybook/tree/master/addons/knobs) - Interact with component inputs dynamically in the Storybook UI.
-*   [Links (⭐75k)](https://github.com/storybookjs/storybook/tree/master/addons/links) - Link stories together to build demos and prototypes with your UI components.
-*   [Storyshots (⭐75k)](https://github.com/storybookjs/storybook/tree/master/addons/storyshots) - Take a code snapshot of every story automatically with Jest.
+*   [Accessibility (⭐79k)](https://github.com/storybookjs/storybook/tree/master/addons/a11y) - Test component compliance with web accessibility standards.
+*   [Actions (⭐79k)](https://github.com/storybookjs/storybook/tree/master/addons/actions) - Get UI feedback when an action is performed on an interactive element.
+*   [Backgrounds (⭐79k)](https://github.com/storybookjs/storybook/tree/master/addons/backgrounds) - Switch backgrounds to view components in different settings.
+*   [Console (⭐187)](https://github.com/storybookjs/storybook-addon-console) - Show console output like logs, errors, and warnings in the Storybook.
+*   [Docs (⭐79k)](https://github.com/storybookjs/storybook/tree/master/addons/docs) - Document component usage and properties in Markdown.
+*   [Knobs (⭐79k)](https://github.com/storybookjs/storybook/tree/master/addons/knobs) - Interact with component inputs dynamically in the Storybook UI.
+*   [Links (⭐79k)](https://github.com/storybookjs/storybook/tree/master/addons/links) - Link stories together to build demos and prototypes with your UI components.
+*   [Storyshots (⭐79k)](https://github.com/storybookjs/storybook/tree/master/addons/storyshots) - Take a code snapshot of every story automatically with Jest.
 
 ### Pattern libraries articles / Storybook addons
 
@@ -204,15 +204,15 @@
 
 ### Third-Party Packages / APIs
 
-*   [django-tastypie (⭐3.8k)](https://github.com/django-tastypie/django-tastypie) - Creating delicious APIs for Django apps since 2010.
+*   [django-tastypie (⭐3.9k)](https://github.com/django-tastypie/django-tastypie) - Creating delicious APIs for Django apps since 2010.
 
 ### Third-Party Packages / Views
 
-*   [django-easy-audit (⭐550)](https://github.com/soynatan/django-easy-audit) - Keep track of user actions.
+*   [django-easy-audit (⭐592)](https://github.com/soynatan/django-easy-audit) - Keep track of user actions.
 
 ### Projects / Boilerplate
 
-*   [djangox (⭐1.6k)](https://github.com/wsvincent/djangox/) - Batteries included starter project for Pip, Pipenv, or Docker.
+*   [djangox (⭐1.8k)](https://github.com/wsvincent/djangox/) - Batteries included starter project for Pip, Pipenv, or Docker.
 
 ## [12. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -230,7 +230,7 @@
 
 ### Key-value Data Model
 
-*   [Graviton (⭐404)](https://github.com/deroproject/graviton) - a simple, fast, versioned, authenticated, embeddable key-value store database in pure Go(lang).
+*   [Graviton (⭐411)](https://github.com/deroproject/graviton) - a simple, fast, versioned, authenticated, embeddable key-value store database in pure Go(lang).
 
 ## [15. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -264,15 +264,15 @@
 ### Components & Libraries / UI Components
 
 *   [vue-tooltipster (⭐6)](https://github.com/cpfarher/vue-tooltipster) - VueJS 2.x tooltip component. Support html content, hover and hover+click events.
-*   [vue-image-zoomer (⭐49)](https://github.com/samjonesigd/vue-image-zoomer) - image zoom component for Vue.js 2 & 3, that also works on touch devices.
+*   [vue-image-zoomer (⭐67)](https://github.com/samjonesigd/vue-image-zoomer) - image zoom component for Vue.js 2 & 3, that also works on touch devices.
 
 ### Components & Libraries / Integrations
 
-*   [vue-cli-plugin-cordova (⭐410)](https://github.com/m0dch3n/vue-cli-plugin-cordova) - Vue CLI Plugin to add Cordova easily to your project
-*   [vue-cli-plugin-component (⭐88)](https://github.com/David-Desmaisons/vue-cli-plugin-component) - Vue CLI Plugin to create component
+*   [vue-cli-plugin-cordova (⭐414)](https://github.com/m0dch3n/vue-cli-plugin-cordova) - Vue CLI Plugin to add Cordova easily to your project
+*   [vue-cli-plugin-component (⭐87)](https://github.com/David-Desmaisons/vue-cli-plugin-component) - Vue CLI Plugin to create component
 *   [vue-cli-plugin-modular-vuex (⭐6)](https://github.com/PureConstructs/vue-cli-plugin-modular-vuex) - Vue CLI Plugin to create modular Vuex store files
 *   [vue-cli-plugin-element (⭐21)](https://github.com/codetrial/vue-cli-plugin-element) - Vue CLI Plugin to build an enterprise application with element-ui in seconds
-*   [vue-cli-plugin-electron-builder (⭐4k)](https://github.com/nklayman/vue-cli-plugin-electron-builder) - Vue CLI Plugin for Electron with no required configuration that uses Electron Builder.
+*   [vue-cli-plugin-electron-builder (⭐4.1k)](https://github.com/nklayman/vue-cli-plugin-electron-builder) - Vue CLI Plugin for Electron with no required configuration that uses Electron Builder.
 *   [vue-cli-plugin-kami (⭐2)](https://github.com/KamiMeow/vue-cli-plugin-kami) - Vue CLI Plugin with work-made architecture for quickly start your app
 *   [vue-cli-plugin-clean (⭐19)](https://github.com/DevTony101/vue-cli-plugin-clean) - Vue CLI Plugin to help you clean and quickly set up your Vue app by adding some common tools and patterns
 *   [vue-cli-plugin-mock (⭐30)](https://github.com/xuxihai123/vue-cli-plugin-mock) - Vue CLI Plugin to mock http request
@@ -280,11 +280,7 @@
 
 ## [17. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
-### Conferences / Slides
-
-*   [Phalcon - Develop powerful web applications in PHP](https://les-enovateurs.com/talks/HumanTalks2020/#/) - Slides used to present Phalcon V4 during the Human Talks Lyon - 11 february 2020
-
-### Magazines / Slides
+### Magazines / Communities
 
 *   [French magazine - Programmez n°239](https://www.programmez.com/magazine/article/les-10-commandements-de-lecoconception) - The 10 commandments of eco-design (article mentioning Phalcon as a light and ecological Framework)
 *   [French magazine - Programmez n°241](https://www.programmez.com/magazine/article/phalcon-un-framework-performant-et-robuste-compile-en-c) - Phalcon : the new must-know PHP framework
@@ -299,7 +295,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [PyGrid (⭐616)](https://github.com/OpenMined/PyGrid/) - Peer-to-peer network of data owners and data scientists who can collectively train AI models using PySyft
+*   [PyGrid (⭐613)](https://github.com/OpenMined/PyGrid/) - Peer-to-peer network of data owners and data scientists who can collectively train AI models using PySyft
 
 ## [20. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -348,7 +344,7 @@
 
 ### Tools / Other
 
-*   [Git-Scanner (⭐271)](https://github.com/HightechSec/git-scanner) - A tool for bug hunting or pentesting for targeting websites that have open `.git` repositories available in public
+*   [Git-Scanner (⭐301)](https://github.com/HightechSec/git-scanner) - A tool for bug hunting or pentesting for targeting websites that have open `.git` repositories available in public
 
 ## [24. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
@@ -373,7 +369,7 @@
 
 ### Number / Runner
 
-*   [Quaternion.js (⭐111)](https://github.com/infusion/Quaternion.js) - A quaternion library for JavaScript
+*   [Quaternion.js (⭐120)](https://github.com/infusion/Quaternion.js) - A quaternion library for JavaScript
 
 ---
 

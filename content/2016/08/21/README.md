@@ -57,7 +57,7 @@
 
 ### Python / General
 
-*   [steampy (⭐318)](https://github.com/bukson/steampy) - Fully automated Steam trade offers library with SteamGuard support.
+*   [steampy (⭐403)](https://github.com/bukson/steampy) - Fully automated Steam trade offers library with SteamGuard support.
 
 ## [6. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 

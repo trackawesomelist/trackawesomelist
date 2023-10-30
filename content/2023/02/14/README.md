@@ -10,7 +10,7 @@
 
 ### Applications / Productivity
 
-*   [illacloud/illa (⭐145)](https://github.com/illacloud/illa) \[[ILLA Cloud](https://www.illacloud.com/)] - Low-code internal tool builder written with Rust.
+*   [illacloud/illa (⭐173)](https://github.com/illacloud/illa) \[[ILLA Cloud](https://www.illacloud.com/)] - Low-code internal tool builder written with Rust.
 
 ## [2. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Related Awesome Lists / Galleries
 
-*   [KangweiiLiu/Awesome\_Audio-driven\_Talking-Face-Generation (⭐53)](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
+*   [KangweiiLiu/Awesome\_Audio-driven\_Talking-Face-Generation (⭐72)](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
 
 ## [4. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
@@ -83,30 +83,30 @@
 
 ## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### DevOps / MIT
+### DevOps / Apache License
 
-*   [powerjoular (⭐24)](https://github.com/joular/powerjoular) - PowerJoular allows monitoring power consumption of multiple platforms and processes.
+*   [powerjoular (⭐29)](https://github.com/joular/powerjoular) - PowerJoular allows monitoring power consumption of multiple platforms and processes.
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Audio
 
-*   [audioFlux (⭐1.7k)](https://github.com/libAudioFlux/audioFlux) - A C library for audio and music analysis, feature extraction. \[MIT]
+*   [audioFlux (⭐1.9k)](https://github.com/libAudioFlux/audioFlux) - A C library for audio and music analysis, feature extraction. \[MIT]
 
 ### JSON
 
-*   [jsonParse (⭐8)](https://github.com/liufeigit/jsonParse) - A simple JSON parser in ANSI C. \[MIT]
+*   [jsonParse (⭐9)](https://github.com/liufeigit/jsonParse) - A simple JSON parser in ANSI C. \[MIT]
 
 ## [8. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Algorithms / Basic matching algorithms
 
 *   [Iterative closest point (ICP) :red\_circle:](https://www.youtube.com/watch?v=uzOCS_gdZuM) - The must-have algorithm for feature matching applications (ICP).
-    *   [GitHub repository :octocat: (⭐159)](https://github.com/pglira/simpleICP) - simpleICP C++ /Julia / Matlab / Octave / Python implementation.
+    *   [GitHub repository :octocat: (⭐192)](https://github.com/pglira/simpleICP) - simpleICP C++ /Julia / Matlab / Octave / Python implementation.
     *   [GitHub repository :octocat: (⭐1.4k)](https://github.com/ethz-asl/libpointmatcher) - libpointmatcher, a modular library implementing the ICP algorithm.
     *   [Paper :newspaper:](https://link.springer.com/content/pdf/10.1007/s10514-013-9327-2.pdf) - libpointmatcher: Comparing ICP variants on real-world data sets.
 *   [KISS-ICP :red\_circle:](https://www.youtube.com/watch?v=kMMH8rA1ggI) - In Defense of Point-to-Point ICP – Simple, Accurate, and Robust Registration If Done the Right Way.
-    *   [GitHub repository :octocat: (⭐635)](https://github.com/PRBonn/kiss-icp)
+    *   [GitHub repository :octocat: (⭐961)](https://github.com/PRBonn/kiss-icp)
     *   [Paper :newspaper:](https://arxiv.org/pdf/2209.15397.pdf)
 
 ## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
@@ -123,7 +123,7 @@
 
 ## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [magento (⭐0)](https://github.com/cmuench/zsh-magento-cloud/blob/main/zsh-magento-cloud.plugin.zsh) - Add Magento Cloud Command Line Interface ([magento-cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli.html?lang=en)) completions.
 

@@ -67,10 +67,6 @@
 *   [Categories and Groupoids](http://www.tac.mta.ca/tac/reprints/articles/7/tr7abs.html) - P. J. Higgins
 *   [Basic Concepts of Enriched Category Theory](http://www.tac.mta.ca/tac/reprints/articles/10/tr10abs.html) - G. M. Kelley
 
-### Number Theory / Surreal Numbers
-
-*   [Yet Another Introductary Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt/) - Jonathan A. Poritz
-
 ### Algebra / Abstract Algebra
 
 *   [Abstract Algebra : Theory and Applications](http://abstract.ups.edu/download/aata-20150812.pdf) - Thomas W. Judson, Robert A. Beezer (Austin State University)
@@ -171,7 +167,7 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Friendica](https://friendi.ca/) - Social Communication Server. ([Source Code (⭐1.2k)](https://github.com/friendica/friendica)) `AGPL-3.0` `PHP`
+*   [Friendica](https://friendi.ca/) - Social Communication Server. ([Source Code (⭐1.3k)](https://github.com/friendica/friendica)) `AGPL-3.0` `PHP`
 
 ## [8. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
@@ -188,7 +184,7 @@
 ### Projects Using Vue.js / Open Source
 
 *   [vuegg (⭐2.3k)](https://github.com/vuegg/vuegg) - vue GUI generator: Create mockups and code in one go! It leverages the creation of pages, components and styles with its visual editor. Generate all scaffolding code for your next vuejs project.
-*   [Podlove Web Player (⭐354)](https://github.com/podlove/podlove-web-player) - Podcast-optimized, HTML5-based audio player featuring chapters, transcripts and embedding.
+*   [Podlove Web Player (⭐352)](https://github.com/podlove/podlove-web-player) - Podcast-optimized, HTML5-based audio player featuring chapters, transcripts and embedding.
 
 ## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

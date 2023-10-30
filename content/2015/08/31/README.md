@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 31, 2015
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -47,7 +47,7 @@
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [bus-router (⭐34)](https://github.com/atlregional/bus-router) - Python script that generates missing shapes.txt for GTFS using routing from [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) or [OSRM (⭐5.5k)](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
+*   [bus-router (⭐34)](https://github.com/atlregional/bus-router) - Python script that generates missing shapes.txt for GTFS using routing from [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) or [OSRM (⭐5.6k)](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
 
 ## [5. Awesome Math](/content/rossant/awesome-math/README.md)
 
@@ -159,13 +159,7 @@
 
 *   [Kovert (⭐155)](https://github.com/kohesive/kovert) - Invisible REST framework for Kotlin + Vert.x Web.
 
-## [8. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
-
-### Scheme / Flask
-
-*   [入門Scheme](https://web.archive.org/web/20140812144348/http://www4.ocn.ne.jp/~inukai/scheme_primer_j.html) - 犬飼大
-
-## [9. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [8. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### List / Grid
 
@@ -177,23 +171,23 @@
 
 
 
-## [10. Awesome Dojo](/content/petk/awesome-dojo/README.md)
+## [9. Awesome Dojo](/content/petk/awesome-dojo/README.md)
 
 ### Themes / Dojo 2
 
 *   [Semantic Dojo Theme](http://websemantics.github.io/semantic-dojo/) - A responsive Dojo theme that harnesses the style awesomeness of [Semantic UI](http://semantic-ui.com/) Framework.
 
-## [11. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [10. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Algorithms and Data structures
 
-*   [tfidf (⭐15)](https://github.com/OCannings/tf-idf) - An Elixir implementation of term frequency–inverse document frequency.
+*   [tfidf (⭐16)](https://github.com/OCannings/tf-idf) - An Elixir implementation of term frequency–inverse document frequency.
 
 ### Text and Numbers
 
-*   [money (⭐728)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
+*   [money (⭐747)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
 
-## [12. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
+## [11. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
 
 ### Other Awesome Lists / OpenOffice
 

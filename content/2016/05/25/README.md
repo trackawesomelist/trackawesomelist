@@ -20,35 +20,35 @@
 
 ### Node.js / General
 
-*   [steam (⭐996)](https://github.com/seishun/node-steam) - Interface directly with Steam servers from Node.js.
-*   [steam-client (⭐50)](https://github.com/DoctorMcKay/node-steam-client) - API-compatible fork of node-steam's SteamClient.
-*   [steam-user (⭐575)](https://github.com/DoctorMcKay/node-steam-user) - Feature-rich easy-to-use Steam client.
-*   [vapor (⭐107)](https://github.com/scholtzm/vapor) - Lightweight Steam client framework.
+*   [steam (⭐1k)](https://github.com/seishun/node-steam) - Interface directly with Steam servers from Node.js.
+*   [steam-client (⭐53)](https://github.com/DoctorMcKay/node-steam-client) - API-compatible fork of node-steam's SteamClient.
+*   [steam-user (⭐677)](https://github.com/DoctorMcKay/node-steam-user) - Feature-rich easy-to-use Steam client.
+*   [vapor (⭐106)](https://github.com/scholtzm/vapor) - Lightweight Steam client framework.
 *   [steam-parentbot (⭐33)](https://github.com/dragonbanshee/node-steam-parentbot) - Simple base class for a Steam bot.
 
 ### Node.js / Trading
 
 *   [steam-trade (⭐162)](https://github.com/seishun/node-steam-trade) - Node.js wrapper around Steam live trading.
 *   [steam-tradeoffers (⭐291)](https://github.com/Alex7Kom/node-steam-tradeoffers) - Steam Trade Offers for Node.js.
-*   [steam-tradeoffer-manager (⭐391)](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager) - Simple and sane Steam trade offer management.
+*   [steam-tradeoffer-manager (⭐438)](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager) - Simple and sane Steam trade offer management.
 
 ### Node.js / Game Interaction
 
-*   [tf2 (⭐44)](https://github.com/DoctorMcKay/node-tf2) - Interact directly with TF2 game coordinator.
-*   [csgo (⭐404)](https://github.com/joshuaferrara/node-csgo) - Interact directly with CS:GO game coordinator.
-*   [dota2 (⭐528)](https://github.com/RJacksonm1/node-dota2) - Interact directly with Dota 2 game coordinator.
+*   [tf2 (⭐48)](https://github.com/DoctorMcKay/node-tf2) - Interact directly with TF2 game coordinator.
+*   [csgo (⭐433)](https://github.com/joshuaferrara/node-csgo) - Interact directly with CS:GO game coordinator.
+*   [dota2 (⭐540)](https://github.com/RJacksonm1/node-dota2) - Interact directly with Dota 2 game coordinator.
 
 ### Node.js / Community & Store Automation
 
-*   [steamcommunity (⭐352)](https://github.com/DoctorMcKay/node-steamcommunity) - Interact with steamcommunity.com. Also allows to confirm trade offers.
-*   [steamstore (⭐53)](https://github.com/DoctorMcKay/node-steamstore) - Interact with store.steampowered.com.
+*   [steamcommunity (⭐399)](https://github.com/DoctorMcKay/node-steamcommunity) - Interact with steamcommunity.com. Also allows to confirm trade offers.
+*   [steamstore (⭐59)](https://github.com/DoctorMcKay/node-steamstore) - Interact with store.steampowered.com.
 *   [steam-weblogon (⭐27)](https://github.com/Alex7Kom/node-steam-weblogon) - Retrieve SteamCommunity cookies if you are running Steam network client.
 *   [steam-web-api-key (⭐21)](https://github.com/Alex7Kom/node-steam-web-api-key) - Automatically registers and retrieves Steam API key.
 *   [steam-parental (⭐4)](https://github.com/Alex7Kom/node-steam-parental) - Disable parental lock.
 
 ### Node.js / Authentication
 
-*   [passport-steam (⭐306)](https://github.com/liamcurry/passport-steam) - Steam (OpenID) authentication strategy for Passport and Node.js.
+*   [passport-steam (⭐317)](https://github.com/liamcurry/passport-steam) - Steam (OpenID) authentication strategy for Passport and Node.js.
 *   [meteor-accounts-steam (⭐16)](https://github.com/scholtzm/meteor-accounts-steam) - Steam OpenID integration for Meteor Accounts.
 
 ### Node.js / Misc
@@ -56,35 +56,34 @@
 *   [steam-resources (⭐23)](https://github.com/seishun/node-steam-resources) - Steam's enums, protobufs and structs.
 *   [steam-crypto (⭐15)](https://github.com/seishun/node-steam-crypto) - Node.js implementation of Steam crypto.
 *   [steam-groups (⭐16)](https://github.com/scholtzm/node-steam-groups) - Custom node-steam handler which provides group functions.
-*   [steamid (⭐59)](https://github.com/DoctorMcKay/node-steamid) - SteamID usage and conversion made easy.
-*   [steam-totp (⭐192)](https://github.com/DoctorMcKay/node-steam-totp) - Easily generate 2FA codes used by Steam.
-*   [steam-chat-bot (⭐94)](https://github.com/Steam-Chat-Bot/node-steam-chat-bot) - Simplified interface for a steam chat bot.
-*   [vdf (⭐20)](https://github.com/RJacksonm1/node-vdf) - vdf to object and vice versa.
+*   [steamid (⭐63)](https://github.com/DoctorMcKay/node-steamid) - SteamID usage and conversion made easy.
+*   [steam-totp (⭐209)](https://github.com/DoctorMcKay/node-steam-totp) - Easily generate 2FA codes used by Steam.
+*   [steam-chat-bot (⭐99)](https://github.com/Steam-Chat-Bot/node-steam-chat-bot) - Simplified interface for a steam chat bot.
+*   [vdf (⭐19)](https://github.com/RJacksonm1/node-vdf) - vdf to object and vice versa.
 *   [steamrep (⭐10)](https://github.com/scholtzm/node-steamrep) - Check user's SteamRep reputation.
 *   [reptf (⭐2)](https://github.com/scholtzm/node-reptf) - Check user's rep.tf reputation.
 
 ### PHP / Misc
 
-*   [SteamCommunity (⭐68)](https://github.com/waylaidwanderer/PHP-SteamCommunity) - A PHP library for interacting with the Steam Community website.
+*   [SteamCommunity (⭐75)](https://github.com/waylaidwanderer/PHP-SteamCommunity) - A PHP library for interacting with the Steam Community website.
 
 ### Go / Misc
 
-*   [steam (⭐313)](https://github.com/Philipp15b/go-steam) - Steam's protocol in Go.
-*   [steam-mobileauth (⭐15)](https://github.com/YellowOrWhite/go-steam-mobileauth) - Port of SteamAuth in Go.
+*   [steam-mobileauth (⭐19)](https://github.com/YellowOrWhite/go-steam-mobileauth) - Port of SteamAuth in Go.
 
 ### Python / General
 
-*   [steam (⭐739)](https://github.com/ValvePython/steam) - Module for various interactions with Steam.
+*   [steam (⭐861)](https://github.com/ValvePython/steam) - Module for various interactions with Steam.
 *   [PySteamKit](https://bitbucket.org/AzuiSleet/pysteamkit) - Python port of SteamKit.
-*   [steamodd (⭐70)](https://github.com/Lagg/steamodd) - Steam tools library.
+*   [steamodd (⭐72)](https://github.com/Lagg/steamodd) - Steam tools library.
 
 ### C++ / Misc
 
-*   [SteamPP (⭐96)](https://github.com/seishun/SteamPP) - C++ library to interoperate with Steam servers.
+*   [SteamPP (⭐100)](https://github.com/seishun/SteamPP) - C++ library to interoperate with Steam servers.
 
 ### Java / Misc
 
-*   [SteamKit-Java (⭐44)](https://github.com/Top-Cat/SteamKit-Java) - Java port of SteamKit.
+*   [SteamKit-Java (⭐47)](https://github.com/Top-Cat/SteamKit-Java) - Java port of SteamKit.
 
 ### General / Misc
 
@@ -98,8 +97,8 @@
 
 ### Standalone Tools / Misc
 
-*   [NetHook2 (⭐2.1k)](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHook2) - Intercept Steam client's network messages.
-*   [NetHook2 Analyzer (⭐2.1k)](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) - Inspect messages dumped by NetHook2.
+*   [NetHook2 (⭐2.3k)](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHook2) - Intercept Steam client's network messages.
+*   [NetHook2 Analyzer (⭐2.3k)](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) - Inspect messages dumped by NetHook2.
 *   [steam-auth-web-util](http://scholtzm.github.io/steam-auth-web-util/) - Generate 2FA codes directly in your web browser.
 
 ### Discussion Boards / Misc
@@ -116,24 +115,24 @@
 *   [Crypto101](https://www.crypto101.io/) - Crypto 101 is an introductory course on cryptography.
 *   [Cryptography Engineering](https://www.schneier.com/books/cryptography_engineering/) - Learn to build cryptographic protocols that work in the real world.
 *   [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/) - The book about OpenSSL.
-*   [Security Engineering](http://www.cl.cam.ac.uk/\~rja14/book.html) - There is an extraordinary textbook written by Ross Anderson, professor of computer security at University of Cambridge.
+*   [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html) - There is an extraordinary textbook written by Ross Anderson, professor of computer security at University of Cambridge.
 *   [The Cryptoparty Handbook](https://unglue.it/work/141611/) - This book provides a comprehensive guide to the various topics of the computer and internet security.
 
 ### C / Git
 
-*   [RHash (⭐443)](https://github.com/rhash/RHash) - Great utility for computing hash sums.
-*   [tiny-AES128-C (⭐3.3k)](https://github.com/kokke/tiny-AES128-C) - Small portable AES128 in C.
-*   [xxHash (⭐6.7k)](https://github.com/Cyan4973/xxHash) - Extremely fast hash algorithm.
+*   [RHash (⭐500)](https://github.com/rhash/RHash) - Great utility for computing hash sums.
+*   [tiny-AES128-C (⭐3.7k)](https://github.com/kokke/tiny-AES128-C) - Small portable AES128 in C.
+*   [xxHash (⭐7.5k)](https://github.com/Cyan4973/xxHash) - Extremely fast hash algorithm.
 
 ### C-sharp / Git
 
 *   [Bouncy Castle](https://bouncycastle.org/csharp/index.html) - All-purpose cryptographic library.
-*   [StreamCryptor (⭐122)](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf.
+*   [StreamCryptor (⭐126)](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf.
 
 ### Clojure / Git
 
 *   [buddy-core](https://funcool.github.io/buddy-core/latest/) - Cryptographic Api.
-*   [pandect (⭐218)](https://github.com/xsc/pandect) - Fast and easy-to-use Message Digest, Checksum and HMAC library for Clojure.
+*   [pandect (⭐217)](https://github.com/xsc/pandect) - Fast and easy-to-use Message Digest, Checksum and HMAC library for Clojure.
 
 ### Common Lisp / Git
 
@@ -142,26 +141,25 @@
 
 ### Delphi / Git
 
-*   [DelphiEncryptionCompendium (⭐190)](https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases) - Cryptographic library for Delphi.
+*   [DelphiEncryptionCompendium (⭐218)](https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases) - Cryptographic library for Delphi.
 *   [LockBox](https://sourceforge.net/projects/tplockbox/) - LockBox 3 is a Delphi library for cryptography.
-*   [SynCrypto (⭐719)](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas) - Fast cryptographic routines (hashing and cypher), implementing AES, XOR, RC4, ADLER32, MD5, SHA1, SHA256 algorithms, optimized for speed.
+*   [SynCrypto (⭐746)](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas) - Fast cryptographic routines (hashing and cypher), implementing AES, XOR, RC4, ADLER32, MD5, SHA1, SHA256 algorithms, optimized for speed.
 *   [TForge](https://bitbucket.org/sergworks/tforge) - TForge is open-source crypto library written in Delphi, compatible with FPC.
 
 ### Elixir / Git
 
-*   [cipher (⭐58)](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
-*   [cloak (⭐506)](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.
-*   [comeonin (⭐1.2k)](https://github.com/elixircnx/comeonin) - Password authorization (bcrypt) library for Elixir.
+*   [cipher (⭐59)](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
+*   [cloak (⭐521)](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.
+*   [comeonin (⭐1.3k)](https://github.com/elixircnx/comeonin) - Password authorization (bcrypt) library for Elixir.
 *   [elixir\_tea (⭐2)](https://github.com/keichan34/elixir_tea) - TEA implementation in Elixir.
 *   [exgpg (⭐17)](https://github.com/rozap/exgpg) - Use gpg from Elixir.
-*   [pot (⭐222)](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
-*   [siphash-elixir (⭐15)](https://github.com/zackehh/siphash-elixir) - Elixir implementation of the SipHash hash family.
+*   [pot (⭐229)](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
+*   [siphash-elixir (⭐17)](https://github.com/zackehh/siphash-elixir) - Elixir implementation of the SipHash hash family.
 
 ### Go / Git
 
 *   [crypto](https://golang.org/pkg/crypto/) - Official Website Resources.
-*   [cryptoballot (⭐216)](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting.
-*   [gocrypto (⭐150)](https://github.com/kisom/gocrypto) - Example source code for the Practical Crypto with Go book.
+*   [gocrypto (⭐151)](https://github.com/kisom/gocrypto) - Example source code for the Practical Crypto with Go book.
 
 ### Haskell / Git
 
@@ -176,11 +174,11 @@
 *   [Apache Shiro](http://shiro.apache.org/) - Performs authentication, authorization, cryptography and session management.
 *   [Bouncy Castle](https://www.bouncycastle.org/java.html) - All-purpose cryptographic library. JCA provider, wide range of functions from basic helpers to PGP/SMIME operations.
 *   [Google Keyczar (⭐1.1k)](https://github.com/google/keyczar) - Easy to use, yet safe encryption framework with key versioning.
-*   [pac4j (⭐2.2k)](https://github.com/pac4j/pac4j) - Security engine.
+*   [pac4j (⭐2.3k)](https://github.com/pac4j/pac4j) - Security engine.
 
 ### Lua / Git
 
-*   [LuaCrypto (⭐86)](https://github.com/mkottman/luacrypto) - Lua bindings to OpenSSL.
+*   [LuaCrypto (⭐92)](https://github.com/mkottman/luacrypto) - Lua bindings to OpenSSL.
 
 ### Objective-C / Git
 
@@ -189,29 +187,30 @@
 
 ### PHP / Git
 
-*   [TCrypto (⭐56)](https://github.com/timoh6/TCrypto) - TCrypto is a simple and flexible PHP 5.3+ in-memory key-value storage library.
+*   [TCrypto (⭐59)](https://github.com/timoh6/TCrypto) - TCrypto is a simple and flexible PHP 5.3+ in-memory key-value storage library.
 
 ### Python / Git
 
-*   [hashids (⭐1.3k)](https://github.com/davidaurelio/hashids-python) - Implementation of [hashids](http://hashids.org) in Python.
-*   [pynacl (⭐927)](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
+*   [hashids (⭐1.4k)](https://github.com/davidaurelio/hashids-python) - Implementation of [hashids](http://hashids.org) in Python.
+*   [pynacl (⭐982)](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
 
 ### Ruby / Git
 
-*   [RbNaCl (⭐961)](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
+*   [RbNaCl (⭐971)](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
 
 ### Rust / Git
 
-*   [octavo (⭐137)](https://github.com/libOctavo/octavo) - Highly modular & configurable hash & crypto library.
-*   [ring (⭐2.9k)](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives.
-*   [rust-openssl (⭐993)](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust.
-*   [sodiumoxide (⭐642)](https://github.com/dnaq/sodiumoxide) - Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
+*   [cryptoballot (⭐218)](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting.
+*   [octavo (⭐140)](https://github.com/libOctavo/octavo) - Highly modular & configurable hash & crypto library.
+*   [ring (⭐3.2k)](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives.
+*   [rust-openssl (⭐1.2k)](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust.
+*   [sodiumoxide (⭐640)](https://github.com/dnaq/sodiumoxide) - Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
 *   [suruga (⭐123)](https://github.com/klutzy/suruga) - TLS 1.2 implementation in Rust.
-*   [webpki (⭐394)](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation in Rust.
+*   [webpki (⭐422)](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation in Rust.
 
 ### Swift / Git
 
-*   [CryptoSwift (⭐9.3k)](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift implemented in Swift programming language.
+*   [CryptoSwift (⭐9.7k)](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift implemented in Swift programming language.
 
 ## [4. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 

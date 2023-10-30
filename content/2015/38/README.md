@@ -26,7 +26,7 @@
 
 ### Articles / Outdated articles (Not relevant for current Elm architecture)
 
-*   [Elm for Web Developers (⭐57)](https://github.com/eeue56/elm-for-web-developers) - A collection of notes for web developers looking into moving to Elm.
+*   [Elm for Web Developers (⭐56)](https://github.com/eeue56/elm-for-web-developers) - A collection of notes for web developers looking into moving to Elm.
 
 ## [4. Awesome Promises](/content/wbinnssmith/awesome-promises/week/README.md)
 
@@ -107,7 +107,7 @@ git rev-parse --abbrev-ref HEAD
 
 ### Coding Style
 
-*   [C++ Core Guidelines (⭐38k)](https://github.com/isocpp/CppCoreGuidelines) - "Official" set of C++ guidelines, reviewed by the author of C++.
+*   [C++ Core Guidelines (⭐40k)](https://github.com/isocpp/CppCoreGuidelines) - "Official" set of C++ guidelines, reviewed by the author of C++.
 
 ## [9. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -226,8 +226,8 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### Packages / URL
 
-*   [url-unshort (⭐107)](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
-*   [embedza (⭐58)](https://github.com/nodeca/embedza) - Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags.
+*   [url-unshort (⭐109)](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
+*   [embedza (⭐62)](https://github.com/nodeca/embedza) - Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags.
 
 ## [14. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
 
@@ -407,7 +407,7 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### Images / Barcode
 
-*   [APNGKit (⭐2.1k)](https://github.com/onevcat/APNGKit) - High performance and delightful way to play with APNG format in iOS.
+*   [APNGKit (⭐2.2k)](https://github.com/onevcat/APNGKit) - High performance and delightful way to play with APNG format in iOS.
 
 ## [19. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
@@ -485,11 +485,11 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### ORM and Datamapping
 
-*   [ecto\_enum (⭐558)](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
+*   [ecto\_enum (⭐559)](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
 
 ### Third Party APIs
 
-*   [airbrakex (⭐25)](https://github.com/fazibear/airbrakex) - Elixir client for the Airbrake service.
+*   [airbrakex (⭐26)](https://github.com/fazibear/airbrakex) - Elixir client for the Airbrake service.
 
 ## [24. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -504,7 +504,7 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### Threat Intelligence / Forensics
 
-*   [IntelMQ (⭐824)](https://github.com/certtools/intelmq/) - IntelMQ is a solution for CERTs for collecting and processing security feeds, pastebins, tweets using a message queue protocol. It's a community driven initiative called IHAP (Incident Handling Automation Project) which was conceptually designed by European CERTs during several InfoSec events. Its main goal is to give to incident responders an easy way to collect & process threat intelligence thus improving the incident handling processes of CERTs. [ENSIA Homepage](https://www.enisa.europa.eu/activities/cert/support/incident-handling-automation).
+*   [IntelMQ (⭐848)](https://github.com/certtools/intelmq/) - IntelMQ is a solution for CERTs for collecting and processing security feeds, pastebins, tweets using a message queue protocol. It's a community driven initiative called IHAP (Incident Handling Automation Project) which was conceptually designed by European CERTs during several InfoSec events. Its main goal is to give to incident responders an easy way to collect & process threat intelligence thus improving the incident handling processes of CERTs. [ENSIA Homepage](https://www.enisa.europa.eu/activities/cert/support/incident-handling-automation).
 
 ---
 

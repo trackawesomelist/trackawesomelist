@@ -19,7 +19,7 @@
 
 ### Server-Side Rendering
 
-*   [ng-web-apis/universal — an opensource set of native API fallbacks and stubs (⭐113)](https://github.com/ng-web-apis/universal)
+*   [ng-web-apis/universal — an opensource set of native API fallbacks and stubs (⭐117)](https://github.com/ng-web-apis/universal)
 
 ### Books / Components
 
@@ -27,13 +27,13 @@
 
 ### TypeScript Seed Projects / Components
 
-*   [TinkoffCreditSystems/angular-open-source-starter (⭐237)](https://github.com/TinkoffCreditSystems/angular-open-source-starter) - a starter project for creating open-source libraries for Angular
+*   [TinkoffCreditSystems/angular-open-source-starter (⭐247)](https://github.com/TinkoffCreditSystems/angular-open-source-starter) - a starter project for creating open-source libraries for Angular
 
 ## [2. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Editors
 
-*   [django-summernote (⭐961)](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
+*   [django-summernote (⭐984)](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
 
 ## [3. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
@@ -45,29 +45,29 @@
 
 ### Software / Automation
 
-*   [MeTube (⭐1.7k)](https://github.com/alexta69/metube) - Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`
+*   [MeTube (⭐2.2k)](https://github.com/alexta69/metube) - Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`
 
 ## [5. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Customization / Directory Navigation
 
-*   [powerlevel10k (⭐33k)](https://github.com/romkatv/powerlevel10k) - Super flexible awesome powerline ZSH theme
+*   [powerlevel10k (⭐36k)](https://github.com/romkatv/powerlevel10k) - Super flexible awesome powerline ZSH theme
 
 ### System Utilities / Directory Navigation
 
-*   [ccat (⭐3k)](https://github.com/owenthereal/ccat) - ccat is the colorizing cat. It works similar to cat but displays content with syntax highlighting.
+*   [ccat (⭐3.1k)](https://github.com/owenthereal/ccat) - ccat is the colorizing cat. It works similar to cat but displays content with syntax highlighting.
 
 ### Downloading and Serving / Directory Navigation
 
-*   [httpie (⭐25k)](https://github.com/httpie/httpie) - HTTPie is a command line HTTP client, a user-friendly cURL replacement
+*   [httpie (⭐28k)](https://github.com/httpie/httpie) - HTTPie is a command line HTTP client, a user-friendly cURL replacement
 
 ### Applications / Directory Navigation
 
-*   [kanban.bash (⭐771)](https://github.com/coderofsalvation/kanban.bash) - commandline asciii kanban board for minimalist productivity bash hackers (csv-based)
+*   [kanban.bash (⭐791)](https://github.com/coderofsalvation/kanban.bash) - commandline asciii kanban board for minimalist productivity bash hackers (csv-based)
 
 ### Shell Script Development / Directory Navigation
 
-*   [powscript (⭐130)](https://github.com/coderofsalvation/powscript) - bash transpiler written in bash (coffeescript for bash)
+*   [powscript (⭐140)](https://github.com/coderofsalvation/powscript) - bash transpiler written in bash (coffeescript for bash)
 *   [Bash Official Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 *   [The Linux Documentation Project: Bash Programming - Intro/How-to](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 *   [The Linux Documentation Project: Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/)
@@ -90,7 +90,7 @@
 
 ### Tools
 
-*   [Theo (⭐1.8k)](https://github.com/salesforce-ux/theo) - Theo is an abstraction for transforming and formatting Design Tokens.
+*   [Theo (⭐1.9k)](https://github.com/salesforce-ux/theo) - Theo is an abstraction for transforming and formatting Design Tokens.
 
 ## [8. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/README.md)
 
@@ -134,23 +134,29 @@
 
 ### I18N (Internationalisation)
 
-*   [Fluent (⭐92)](https://github.com/tractorcow-farm/silverstripe-fluent) - Multi-language translate module for Silverstripe, without having to manage separate site trees.
+*   [Fluent (⭐90)](https://github.com/tractorcow-farm/silverstripe-fluent) - Multi-language translate module for Silverstripe, without having to manage separate site trees.
 *   [Autotranslate (⭐4)](https://github.com/bratiask/silverstripe-autotranslate) -  Creates automatic translations of fields using Google Translate API.
 
 ### Development Helpers
 
-*   [Debugbar (⭐51)](https://github.com/lekoala/silverstripe-debugbar/) -  Shows debugging statistics in your browser.
-*   [IdeAnnotator (⭐43)](https://github.com/silverleague/silverstripe-ideannotator) -  Auto-generates class annotations on dev/build.
-*   [Populate (⭐22)](https://github.com/dnadesign/silverstripe-populate) -  Populate your database through YAML files.
+*   [Debugbar (⭐53)](https://github.com/lekoala/silverstripe-debugbar/) -  Shows debugging statistics in your browser.
+*   [IdeAnnotator (⭐44)](https://github.com/silverleague/silverstripe-ideannotator) -  Auto-generates class annotations on dev/build.
+*   [Populate (⭐24)](https://github.com/dnadesign/silverstripe-populate) -  Populate your database through YAML files.
 *   [Mock DataObjects (⭐18)](https://github.com/unclecheese/silverstripe-mock-dataobjects) -  Allows DataObjects to self-populate intelligently with fake data.
-*   [Version Truncator (⭐35)](https://github.com/axllent/silverstripe-version-truncator) - Automatically delete old SiteTree page versions.
-*   [UserSwitcher (⭐15)](https://github.com/sheadawson/silverstripe-userswitcher) - Adds a small form both in the frontend and backend to quickly login as any user.
-*   [Masquerade (⭐14)](https://github.com/dhensby/silverstripe-masquerade) -  Allows an Administrator to "login" as another "Member". This can be useful for debugging and remote support.
+*   [Version Truncator (⭐34)](https://github.com/axllent/silverstripe-version-truncator) - Automatically delete old SiteTree page versions.
+*   [UserSwitcher (⭐16)](https://github.com/sheadawson/silverstripe-userswitcher) - Adds a small form both in the frontend and backend to quickly login as any user.
+*   [Masquerade (⭐15)](https://github.com/dhensby/silverstripe-masquerade) -  Allows an Administrator to "login" as another "Member". This can be useful for debugging and remote support.
 
 ### Fancy Form Fields
 
-*   [Markdown Field (⭐10)](https://github.com/Silverstripers/markdownfield) -  Can replace your HTMLEditorFields (using TinyMCE) so you can utilise Markdown syntax.
+*   [Markdown Field (⭐11)](https://github.com/Silverstripers/markdownfield) -  Can replace your HTMLEditorFields (using TinyMCE) so you can utilise Markdown syntax.
 *   [Code Editor Field (⭐25)](https://github.com/nathancox/silverstripe-codeeditorfield) -  Gives you a syntax-highlighted text area field - great for CMS-based YAML or HTML.
+
+### Virtualisation / Docker
+
+*   [brettt89/silverstripe-web](https://hub.docker.com/r/brettt89/silverstripe-web) -  Apache + PHP Docker image with pre-installed PHP modules for Silverstripe support.
+*   [brettt89/sspak](https://hub.docker.com/r/brettt89/sspak) -  SSPak Docker image.
+*   [brettt89/silverstripe-solr-cwp](https://hub.docker.com/r/brettt89/silverstripe-solr-cwp) -  CWP Solr Docker image.
 
 ### Virtualisation / Vagrant
 
@@ -160,17 +166,11 @@
 *   [Scotchbox](https://box.scotch.io) - Popular LAMP/LEMP stack for local development.
 *   [Zauberfisch Vagrant Boxes (⭐6)](https://github.com/Zauberfisch/vagrant-boxes) -  Preconfigured Vagrant boxes for SS3 and SS4.
 
-### Virtualisation / Docker
-
-*   [brettt89/silverstripe-web](https://hub.docker.com/r/brettt89/silverstripe-web) -  Apache + PHP Docker image with pre-installed PHP modules for SilverStripe support.
-*   [brettt89/sspak](https://hub.docker.com/r/brettt89/sspak) -  SSPak Docker image.
-*   [brettt89/silverstripe-solr-cwp](https://hub.docker.com/r/brettt89/silverstripe-solr-cwp) -  CWP Solr Docker image.
-
 ## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### C, C++
 
-*   [with-c-syntax (⭐122)](https://github.com/y2q-actionman/with-c-syntax) - a fun package which introduces the C language syntax into Common Lisp. (Yes, this package is not for practical coding, I think.) WTFPL Licence.
+*   [with-c-syntax (⭐128)](https://github.com/y2q-actionman/with-c-syntax) - a fun package which introduces the C language syntax into Common Lisp. (Yes, this package is not for practical coding, I think.) WTFPL Licence.
 
 ### Function extensions
 
@@ -190,7 +190,7 @@
 
 ### Python / Financial Instruments and Pricing
 
-*   [gs-quant (⭐1.8k)](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance
+*   [gs-quant (⭐2.1k)](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance
 
 ## [12. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
 
@@ -202,7 +202,7 @@
 
 ### Clojure / Git
 
-*   [secrets.clj (⭐81)](https://github.com/lk-geimfari/secrets.clj) - A Clojure library designed to generate cryptographically strong random numbers suitable for managing data such as passwords, account authentication, security tokens, and related secrets.
+*   [secrets.clj (⭐88)](https://github.com/lk-geimfari/secrets.clj) - A Clojure library designed to generate cryptographically strong random numbers suitable for managing data such as passwords, account authentication, security tokens, and related secrets.
 
 ## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

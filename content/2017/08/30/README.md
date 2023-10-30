@@ -57,7 +57,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [News Weaver (⭐25)](https://github.com/Rud156/News-Weaver) - A web based RSS Reader/Aggregator made using VueJS and VuetifyJS
+*   [News Weaver (⭐23)](https://github.com/Rud156/News-Weaver) - A web based RSS Reader/Aggregator made using VueJS and VuetifyJS
 
 ### Components & Libraries / UI Components
 
@@ -67,24 +67,24 @@
 
 ### Image - Metadata/Text
 
-*   **Places CNN** - Detects the scene of an image from 205 categories such as bedroom, forest, coast etc. [Download (⭐697)](https://github.com/hollance/MobileNet-CoreML/raw/master/MobileNet.mlmodel) | [Demo (⭐32)](https://github.com/chenyi1989/CoreMLDemo) | [Reference](http://places.csail.mit.edu/index.html)
-*   **Inception v3** - Detects the dominant objects present in an image. [Download (⭐215)](https://github.com/yulingtianxia/Core-ML-Sample/blob/master/CoreMLSample/Inceptionv3.mlmodel) | [Demo (⭐215)](https://github.com/yulingtianxia/Core-ML-Sample/) | [Reference](https://arxiv.org/abs/1512.00567)
-*   **ResNet50** - Detects the dominant objects present in an image. [Download (⭐38)](https://github.com/ytakzk/CoreML-samples/blob/master/CoreML-samples/Resnet50.mlmodel) | [Demo (⭐38)](https://github.com/ytakzk/CoreML-samples) | [Reference](https://arxiv.org/abs/1512.03385)
+*   **Places CNN** - Detects the scene of an image from 205 categories such as bedroom, forest, coast etc. [Download (⭐701)](https://github.com/hollance/MobileNet-CoreML/raw/master/MobileNet.mlmodel) | [Demo (⭐32)](https://github.com/chenyi1989/CoreMLDemo) | [Reference](http://places.csail.mit.edu/index.html)
+*   **Inception v3** - Detects the dominant objects present in an image. [Download (⭐217)](https://github.com/yulingtianxia/Core-ML-Sample/blob/master/CoreMLSample/Inceptionv3.mlmodel) | [Demo (⭐217)](https://github.com/yulingtianxia/Core-ML-Sample/) | [Reference](https://arxiv.org/abs/1512.00567)
+*   **ResNet50** - Detects the dominant objects present in an image. [Download (⭐41)](https://github.com/ytakzk/CoreML-samples/blob/master/CoreML-samples/Resnet50.mlmodel) | [Demo (⭐41)](https://github.com/ytakzk/CoreML-samples) | [Reference](https://arxiv.org/abs/1512.03385)
 *   **VGG16** - Detects the dominant objects present in an image. [Download](https://docs-assets.developer.apple.com/coreml/models/VGG16.mlmodel) | [Demo (⭐34)](https://github.com/alaphao/CoreMLExample) | [Reference](https://arxiv.org/abs/1409.1556)
-*   **Car Recognition** - Predict the brand & model of a car. [Download (⭐169)](https://github.com/likedan/Core-ML-Car-Recognition/blob/master/Convert/CarRecognition.mlmodel) | [Demo (⭐38)](https://github.com/ytakzk/CoreML-samples) | [Reference](http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html)
-*   **YOLO** - Recognize what the objects are inside a given image and where they are in the image. [Download (⭐893)](https://github.com/hollance/YOLO-CoreML-MPSNNGraph/blob/master/TinyYOLO-CoreML/TinyYOLO-CoreML/TinyYOLO.mlmodel) | [Demo (⭐893)](https://github.com/hollance/YOLO-CoreML-MPSNNGraph) | [Reference](http://machinethink.net/blog/object-detection-with-yolo)
-*   **AgeNet** - Predict a person's age from one's portrait. [Download](https://drive.google.com/file/d/0B1ghKa_MYL6mT1J3T1BEeWx4TWc/view?usp=sharing) | [Demo (⭐297)](https://github.com/cocoa-ai/FacesVisionDemo) | [Reference](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
-*   **GenderNet** - Predict a person's gender from one's portrait. [Download](https://drive.google.com/file/d/0B1ghKa_MYL6mYkNsZHlyc2ZuaFk/view?usp=sharing) | [Demo (⭐297)](https://github.com/cocoa-ai/FacesVisionDemo) | [Reference](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
-*   **MNIST** - Predict handwritten (drawn) digits from images. [Download (⭐64)](https://github.com/ph1ps/MNIST-CoreML/raw/master/MNISTPrediction/MNIST.mlmodel) | [Demo (⭐64)](https://github.com/ph1ps/MNIST-CoreML) | [Reference](http://yann.lecun.com/exdb/mnist/)
-*   **EmotionNet** - Predict a person's emotion from one's portrait. [Download](https://drive.google.com/file/d/0B1ghKa_MYL6mTlYtRGdXNFlpWDQ/view?usp=sharing) | [Demo (⭐297)](https://github.com/cocoa-ai/FacesVisionDemo) | [Reference](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/)
-*   **SentimentVision** - Predict positive or negative sentiments from images. [Download](https://drive.google.com/open?id=0B1ghKa_MYL6mZ0dITW5uZlgyNTg) | [Demo (⭐34)](https://github.com/cocoa-ai/SentimentVisionDemo) | [Reference](http://www.sciencedirect.com/science/article/pii/S0262885617300355?via%3Dihub)
-*   **Food101** - Predict the type of foods from images. [Download](https://drive.google.com/open?id=0B5TjkH3njRqnVjBPZGRZbkNITjA) | [Demo (⭐134)](https://github.com/ph1ps/Food101-CoreML) | [Reference](http://visiir.lip6.fr/explore)
-*   **FlickrStyle** - Detect the artistic style of images. [Download](https://drive.google.com/file/d/0B1ghKa_MYL6meDBHT2NaZGxkNzQ/view?usp=sharing) | [Demo (⭐46)](https://github.com/cocoa-ai/StylesVisionDemo) | [Reference](http://sergeykarayev.com/files/1311.3715v3.pdf)
+*   **Car Recognition** - Predict the brand & model of a car. [Download (⭐169)](https://github.com/likedan/Core-ML-Car-Recognition/blob/master/Convert/CarRecognition.mlmodel) | [Demo (⭐41)](https://github.com/ytakzk/CoreML-samples) | [Reference](http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html)
+*   **YOLO** - Recognize what the objects are inside a given image and where they are in the image. [Download (⭐905)](https://github.com/hollance/YOLO-CoreML-MPSNNGraph/blob/master/TinyYOLO-CoreML/TinyYOLO-CoreML/TinyYOLO.mlmodel) | [Demo (⭐905)](https://github.com/hollance/YOLO-CoreML-MPSNNGraph) | [Reference](http://machinethink.net/blog/object-detection-with-yolo)
+*   **AgeNet** - Predict a person's age from one's portrait. [Download](https://drive.google.com/file/d/0B1ghKa_MYL6mT1J3T1BEeWx4TWc/view?usp=sharing) | [Demo (⭐304)](https://github.com/cocoa-ai/FacesVisionDemo) | [Reference](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
+*   **GenderNet** - Predict a person's gender from one's portrait. [Download](https://drive.google.com/file/d/0B1ghKa_MYL6mYkNsZHlyc2ZuaFk/view?usp=sharing) | [Demo (⭐304)](https://github.com/cocoa-ai/FacesVisionDemo) | [Reference](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
+*   **MNIST** - Predict handwritten (drawn) digits from images. [Download (⭐63)](https://github.com/ph1ps/MNIST-CoreML/raw/master/MNISTPrediction/MNIST.mlmodel) | [Demo (⭐63)](https://github.com/ph1ps/MNIST-CoreML) | [Reference](http://yann.lecun.com/exdb/mnist/)
+*   **EmotionNet** - Predict a person's emotion from one's portrait. [Download](https://drive.google.com/file/d/0B1ghKa_MYL6mTlYtRGdXNFlpWDQ/view?usp=sharing) | [Demo (⭐304)](https://github.com/cocoa-ai/FacesVisionDemo) | [Reference](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/)
+*   **SentimentVision** - Predict positive or negative sentiments from images. [Download](https://drive.google.com/open?id=0B1ghKa_MYL6mZ0dITW5uZlgyNTg) | [Demo (⭐35)](https://github.com/cocoa-ai/SentimentVisionDemo) | [Reference](http://www.sciencedirect.com/science/article/pii/S0262885617300355?via%3Dihub)
+*   **Food101** - Predict the type of foods from images. [Download](https://drive.google.com/open?id=0B5TjkH3njRqnVjBPZGRZbkNITjA) | [Demo (⭐135)](https://github.com/ph1ps/Food101-CoreML) | [Reference](http://visiir.lip6.fr/explore)
+*   **FlickrStyle** - Detect the artistic style of images. [Download](https://drive.google.com/file/d/0B1ghKa_MYL6meDBHT2NaZGxkNzQ/view?usp=sharing) | [Demo (⭐47)](https://github.com/cocoa-ai/StylesVisionDemo) | [Reference](http://sergeykarayev.com/files/1311.3715v3.pdf)
 
 ### Text - Metadata/Text
 
-*   **Sentiment Polarity** - Predict positive or negative sentiments from sentences. [Download (⭐111)](https://github.com/cocoa-ai/SentimentCoreMLDemo/raw/master/SentimentPolarity/Resources/SentimentPolarity.mlmodel) | [Demo (⭐111)](https://github.com/cocoa-ai/SentimentCoreMLDemo) | [Reference](http://boston.lti.cs.cmu.edu/classes/95-865-K/HW/HW3/)
-*   **iMessage Spam Detection** - Detect whether a message is spam. [Download (⭐33)](https://github.com/gkswamy98/imessage-spam-detection/blob/master/MessageClassifier.mlmodel) | [Demo (⭐33)](https://github.com/gkswamy98/imessage-spam-detection/tree/master) | [Reference](http://www.dt.fee.unicamp.br/\~tiago/smsspamcollection/)
+*   **Sentiment Polarity** - Predict positive or negative sentiments from sentences. [Download (⭐116)](https://github.com/cocoa-ai/SentimentCoreMLDemo/raw/master/SentimentPolarity/Resources/SentimentPolarity.mlmodel) | [Demo (⭐116)](https://github.com/cocoa-ai/SentimentCoreMLDemo) | [Reference](http://boston.lti.cs.cmu.edu/classes/95-865-K/HW/HW3/)
+*   **iMessage Spam Detection** - Detect whether a message is spam. [Download (⭐35)](https://github.com/gkswamy98/imessage-spam-detection/blob/master/MessageClassifier.mlmodel) | [Demo (⭐35)](https://github.com/gkswamy98/imessage-spam-detection/tree/master) | [Reference](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)
 
 ---
 

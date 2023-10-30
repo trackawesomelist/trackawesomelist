@@ -28,9 +28,9 @@
 
 ### Data Visualization / Graph Based approach
 
-*   Decision Tree Papers [awesome-decision-tree-papers (⭐2k)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers).
-*   Fraud Detection Papers [awesome-fraud-detection-papers (⭐1.2k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers).
-*   Gradient Boosting Papers [awesome-gradient-boosting-papers (⭐814)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers).
+*   Decision Tree Papers [awesome-decision-tree-papers (⭐2.2k)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers).
+*   Fraud Detection Papers [awesome-fraud-detection-papers (⭐1.4k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers).
+*   Gradient Boosting Papers [awesome-gradient-boosting-papers (⭐923)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers).
 
 ## [5. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Scroll / Other
 
-*   [simpleParallax (⭐1.6k)](https://github.com/geosigno/simpleParallax) - Simple and tiny JavaScript library to add parallax animations on any images
+*   [simpleParallax (⭐1.7k)](https://github.com/geosigno/simpleParallax) - Simple and tiny JavaScript library to add parallax animations on any images
 
 ## [9. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/README.md)
 
@@ -68,14 +68,14 @@
 *   [HaxeFlixel showcase](https://haxeflixel.com/showcase/)
 *   [itch.io showcase](https://itch.io/games/made-with-haxe)
 *   [HaxePunk showcase](https://haxepunk.com/games/)
-*   [Flambe showcase (⭐741)](https://github.com/aduros/flambe/wiki/Showcase)
-*   [Kha showcase (⭐1.3k)](https://github.com/Kode/Kha/wiki/Games-Built-With-Kha)
+*   [Flambe showcase (⭐740)](https://github.com/aduros/flambe/wiki/Showcase)
+*   [Kha showcase (⭐1.4k)](https://github.com/Kode/Kha/wiki/Games-Built-With-Kha)
 
-### Other haxe lists
+### Other haxe lists / Video
 
 *   [awesome haxe (⭐83)](https://github.com/nadako/awesome-haxe)
-*   [awesome snowkit (⭐123)](https://github.com/anissen/awesome-snowkit)
-*   [awesome haxe js (⭐26)](https://github.com/MatthijsKamstra/awesome-haxe-js)
+*   [awesome snowkit (⭐118)](https://github.com/anissen/awesome-snowkit)
+*   [awesome haxe js (⭐28)](https://github.com/MatthijsKamstra/awesome-haxe-js)
 
 ## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -119,8 +119,8 @@
 
 ### Editable data grid / spreadsheet
 
-*   [gigatables-react (⭐138)](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
-*   [react-data-grid (⭐6k)](https://github.com/adazzle/react-data-grid) - Excel-like grid.
+*   [gigatables-react (⭐140)](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
+*   [react-data-grid (⭐6.3k)](https://github.com/adazzle/react-data-grid) - Excel-like grid.
 
 ### Menu
 
@@ -132,15 +132,15 @@
 
 ### Chart
 
-*   [rumble-charts (⭐342)](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts.
+*   [rumble-charts (⭐345)](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts.
 
 ### Audio / Video
 
-*   [react-player (⭐7.6k)](https://github.com/CookPete/react-player) - A react component for playing a variety of URLs, including YouTube.
+*   [react-player (⭐8.3k)](https://github.com/CookPete/react-player) - A react component for playing a variety of URLs, including YouTube.
 
 ### Time / Date / Age
 
-*   [timeago-react (⭐403)](https://github.com/hustcc/timeago-react) - Format date with `*** time ago` statement. eg: '3 hours ago'.
+*   [timeago-react (⭐407)](https://github.com/hustcc/timeago-react) - Format date with `*** time ago` statement. eg: '3 hours ago'.
 
 ### Miscellaneous
 
@@ -148,23 +148,23 @@
 
 ### Form Components / Date / Time picker
 
-*   [react-simple-timefield (⭐95)](https://github.com/antonfisher/react-simple-timefield) - [demo](https://antonfisher.com/react-simple-timefield/) - Simple time input field.
+*   [react-simple-timefield (⭐94)](https://github.com/antonfisher/react-simple-timefield) - [demo](https://antonfisher.com/react-simple-timefield/) - Simple time input field.
 
 ### Form Components / Sortable List
 
-*   [react-anything-sortable (⭐456)](https://github.com/jasonslyvia/react-anything-sortable) - Sort any children with touch support and IE8 compatibility.
+*   [react-anything-sortable (⭐459)](https://github.com/jasonslyvia/react-anything-sortable) - Sort any children with touch support and IE8 compatibility.
 
 ### Form Components / Image Editing
 
-*   [react-avatar-editor (⭐2.1k)](https://github.com/mosch/react-avatar-editor) - Facebook-like, avatar / profile picture component.
+*   [react-avatar-editor (⭐2.2k)](https://github.com/mosch/react-avatar-editor) - Facebook-like, avatar / profile picture component.
 
 ### Form Components / Form Component Collections
 
-*   [formsy-react-components (⭐289)](https://github.com/twisty/formsy-react-components) - A set of React JS components for use in a formsy-react form.
+*   [formsy-react-components (⭐287)](https://github.com/twisty/formsy-react-components) - A set of React JS components for use in a formsy-react form.
 
 ### Component Collections / Material Design
 
-*   [react-admin (⭐22k)](https://github.com/marmelab/react-admin) - Build admin user experiences on top of REST and GraphQL services.
+*   [react-admin (⭐23k)](https://github.com/marmelab/react-admin) - Build admin user experiences on top of REST and GraphQL services.
 
 ### Reporter / Visibility Reporter
 
@@ -176,7 +176,7 @@
 
 ### Portal / Mouse Events
 
-*   [react-layer-stack (⭐158)](https://github.com/fckt/react-layer-stack) - Simple but ubiquitously powerful and agnostic layering system for React.
+*   [react-layer-stack (⭐159)](https://github.com/fckt/react-layer-stack) - Simple but ubiquitously powerful and agnostic layering system for React.
 
 ### Data Store / Mouse Events
 
@@ -184,7 +184,7 @@
 
 ### Props from server / Mouse Events
 
-*   [redux-connect (⭐549)](https://github.com/makeomatic/redux-connect) - Provides decorator for resolving async props in react-router.
+*   [redux-connect (⭐550)](https://github.com/makeomatic/redux-connect) - Provides decorator for resolving async props in react-router.
 
 ### Isomorphic Apps / Mouse Events
 
@@ -204,16 +204,16 @@
 
 ### Framework bindings / integrations / Mouse Events
 
-*   [backbone-react-component (⭐815)](https://github.com/magalhas/backbone-react-component) - A bit of nifty glue that automatically plugs your Backbone models.
+*   [backbone-react-component (⭐812)](https://github.com/magalhas/backbone-react-component) - A bit of nifty glue that automatically plugs your Backbone models.
 *   [gl-react (⭐265)](https://github.com/ProjectSeptemberInc/gl-react) - OpenGL / WebGL bindings for React to implement complex effects over images and content.
 
 ### UI / Mouse Events
 
-*   [react-static-container (⭐224)](https://github.com/reactjs/react-static-container) - Renders static content efficiently.
+*   [react-static-container (⭐223)](https://github.com/reactjs/react-static-container) - Renders static content efficiently.
 
 ### App Size / Lazy Load
 
-*   [babel-plugin-transform-react-remove-prop-types (⭐898)](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - Remove unnecessary React propTypes.
+*   [babel-plugin-transform-react-remove-prop-types (⭐896)](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - Remove unnecessary React propTypes.
 
 ### Test / Lazy Load
 
@@ -221,7 +221,7 @@
 
 ### Miscellaneous / Lazy Load
 
-*   [jsonx (⭐151)](https://github.com/repetere/jsonx) - React JSON Syntax.
+*   [jsonx (⭐159)](https://github.com/repetere/jsonx) - React JSON Syntax.
 
 ---
 

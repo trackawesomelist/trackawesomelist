@@ -22,7 +22,7 @@
 
 ### UI Libraries
 
-*   [attractions (⭐859)](https://github.com/illright/attractions) - A pretty cool and modern UI kit
+*   [attractions (⭐949)](https://github.com/illright/attractions) - A pretty cool and modern UI kit
 
 ## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -34,11 +34,11 @@
 
 ### Components & Libraries / Frameworks
 
-*   [vue-notion (⭐769)](https://github.com/janniks/vue-notion) - An unofficial Notion renderer – Use Notion as a CMS for Vue (e.g. Nuxt)
+*   [vue-notion (⭐818)](https://github.com/janniks/vue-notion) - An unofficial Notion renderer – Use Notion as a CMS for Vue (e.g. Nuxt)
 
 ### Components & Libraries / Utilities
 
-*   [@korijn/vue-store (⭐25)](https://github.com/Korijn/vue-store) - Lightweight Vue 3 composition API-compatible store pattern library with undo/redo.
+*   [@korijn/vue-store (⭐23)](https://github.com/Korijn/vue-store) - Lightweight Vue 3 composition API-compatible store pattern library with undo/redo.
 
 ## [6. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Back-end API / Playground
 
-*   :octocat: [Booster Framework (⭐341)](https://github.com/boostercloud/booster) - Event-driven cloud native GraphQL open-source framework, part of the Booster Cloud ecosystem. It makes use of high-level abstractions and conventions. (see also: <https://booster.cloud>)
+*   :octocat: [Booster Framework (⭐380)](https://github.com/boostercloud/booster) - Event-driven cloud native GraphQL open-source framework, part of the Booster Cloud ecosystem. It makes use of high-level abstractions and conventions. (see also: <https://booster.cloud>)
 
 ## [8. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Projects
 
-*   [wasm-2048 (⭐144)](https://github.com/dev-family/wasm-2048) - 2048 game implemented with Rust and Yew and compiled to Wasm.
+*   [wasm-2048 (⭐148)](https://github.com/dev-family/wasm-2048) - 2048 game implemented with Rust and Yew and compiled to Wasm.
 
 ### Crates / Components
 
@@ -73,7 +73,7 @@
 
 ### Hardware
 
-*   [LIDAR (⭐526)](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
+*   [LIDAR (⭐610)](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
 
 ---
 

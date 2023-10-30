@@ -33,11 +33,11 @@
 
 ### Reflection
 
-*   [visit\_struct (⭐422)](https://github.com/cbeck88/visit_struct) - A miniature library for struct-field reflection in C++. \[Boost]
+*   [visit\_struct (⭐456)](https://github.com/cbeck88/visit_struct) - A miniature library for struct-field reflection in C++. \[Boost]
 
 ### Miscellaneous
 
-*   [PEGTL (⭐1.7k)](https://github.com/taocpp/PEGTL) - The Parsing Expression Grammar Template Library. \[MIT]
+*   [PEGTL (⭐1.8k)](https://github.com/taocpp/PEGTL) - The Parsing Expression Grammar Template Library. \[MIT]
 
 ## [5. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -53,11 +53,11 @@
 
 ### GitHub
 
-*   [activity-box (⭐195)](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user.
+*   [activity-box (⭐197)](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user.
 
 ### Resources
 
-*   [gist-box (⭐81)](https://github.com/JasonEtco/gist-box) - A helper class for updating single-file Gists.
+*   [gist-box (⭐82)](https://github.com/JasonEtco/gist-box) - A helper class for updating single-file Gists.
 
 ## [7. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
 
@@ -81,27 +81,27 @@
 
 ### Packages / Filesystem
 
-*   [tempy (⭐384)](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
+*   [tempy (⭐400)](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
 
 ### Packages / Security
 
-*   [crypto-hash (⭐603)](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
+*   [crypto-hash (⭐609)](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
 
 ### Packages / Miscellaneous
 
-*   [open (⭐2.9k)](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables.
+*   [open (⭐3k)](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables.
 
 ## [11. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
 *   [.NET (⭐17k)](https://github.com/quozd/awesome-dotnet#readme)
-    *   [Core (⭐18k)](https://github.com/thangchung/awesome-dotnet-core#readme)
-    *   [Roslyn (⭐574)](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
+    *   [Core (⭐19k)](https://github.com/thangchung/awesome-dotnet-core#readme)
+    *   [Roslyn (⭐603)](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
 
 ### Learn
 
-*   [Roadmaps (⭐3.1k)](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
+*   [Roadmaps (⭐3.4k)](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
 
 ---
 

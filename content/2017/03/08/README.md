@@ -18,13 +18,13 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [LibSass Host (⭐79)](https://github.com/Taritsyn/LibSassHost) - .NET wrapper around the [libSass](http://sass-lang.com/libsass) library with the ability to support a virtual file system.
+*   [LibSass Host (⭐81)](https://github.com/Taritsyn/LibSassHost) - .NET wrapper around the [libSass](http://sass-lang.com/libsass) library with the ability to support a virtual file system.
 
 ## [3. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Libraries and Frameworks / Elixir
 
-*   [Commanded (⭐1.6k)](https://github.com/slashdotdash/commanded) - Command handling middleware for CQRS/ES applications, Pure Functional Data Structures for Aggregates and Process Managers, Point-to-Point message routing, and much more in Elixir (Erlang VM) - All in Actor concurrency model.
+*   [Commanded (⭐1.7k)](https://github.com/slashdotdash/commanded) - Command handling middleware for CQRS/ES applications, Pure Functional Data Structures for Aggregates and Process Managers, Point-to-Point message routing, and much more in Elixir (Erlang VM) - All in Actor concurrency model.
 
 ## [4. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
@@ -34,7 +34,7 @@
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### DBaaS
+### Managed Data Services
 
 *   [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) — free tier gives 512 MB
 

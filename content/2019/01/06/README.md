@@ -10,7 +10,7 @@
 
 ### Network Tools / Intentionally Vulnerable Systems as Docker Containers
 
-*   [rshijack (⭐376)](https://github.com/kpcyrd/rshijack) - TCP connection hijacker, Rust rewrite of `shijack`.
+*   [rshijack (⭐402)](https://github.com/kpcyrd/rshijack) - TCP connection hijacker, Rust rewrite of `shijack`.
 
 ## [2. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Widgets / Redux / ELM / Dependency Injection
 
-*   [Hooks (⭐2.6k)](https://github.com/rrousselGit/flutter_hooks) <!--stargazers:rrousselGit/flutter_hooks--> - Advanced code sharing between widgets by [Remi Rousselet](https://github.com/rrousselGit)
+*   [Hooks (⭐2.8k)](https://github.com/rrousselGit/flutter_hooks) <!--stargazers:rrousselGit/flutter_hooks--> - Advanced code sharing between widgets by [Remi Rousselet](https://github.com/rrousselGit)
 
 ## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 

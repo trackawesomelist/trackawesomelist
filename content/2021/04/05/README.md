@@ -10,17 +10,17 @@
 
 ### Content Hub
 
-*   [Starter Kit for Content Hub with Next.js and GraphQL (⭐8)](https://github.com/konabos/Next.js-Starter-kit-using-GraphQL-and-Sitecore-Content-Hub-Content-as-a-Service) - Content Hub headless starter kit.
+*   [Starter Kit for Content Hub with Next.js and GraphQL (⭐9)](https://github.com/konabos/Next.js-Starter-kit-using-GraphQL-and-Sitecore-Content-Hub-Content-as-a-Service) - Content Hub headless starter kit.
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Management System
 
-*   [Miradore](https://miradore.com) — Device Management service. Stay up-to-date with your device fleet and secure an unlimited number of devices for free. Free plan offers basic features.
+*   [Miradore](https://miradore.com) — Device Management service. Stay up-to-date with your device fleet and secure unlimited devices for free. The free plan offers basic features.
 
 ### Analytics, Events and Statistics
 
-*   [Branch](https://branch.io) — Mobile Analytics Platform. Free Tier offers upto 10K Mobile App Users with deep-linking & other services.
+*   [Branch](https://branch.io) — Mobile Analytics Platform. Free Tier offers up to 10K Mobile App Users with deep-linking & other services.
 
 ## [3. Amas](/content/sindresorhus/amas/README.md)
 
@@ -49,19 +49,19 @@
 
 ### Python / Data Sources
 
-*   [yfinance (⭐9.5k)](https://github.com/ranaroussi/yfinance) - Yahoo! Finance market data downloader (+faster Pandas Datareader)
+*   [yfinance (⭐10k)](https://github.com/ranaroussi/yfinance) - Yahoo! Finance market data downloader (+faster Pandas Datareader)
 
 ## [7. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [SpaceEye (⭐304)](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
+*   [SpaceEye (⭐313)](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
 
 ## [8. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### UI Libraries
 
-*   [svelte-chota (⭐287)](https://github.com/AlexxNB/svelte-chota) - Component library built with Chota, a super light-weight CSS framework
+*   [svelte-chota (⭐289)](https://github.com/AlexxNB/svelte-chota) - Component library built with Chota, a super light-weight CSS framework
 
 ## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

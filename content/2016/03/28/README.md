@@ -16,7 +16,7 @@
 
 ### Related lists
 
-*   [awesome-vulkan (⭐2.6k)](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem.
+*   [awesome-vulkan (⭐2.9k)](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem.
 
 ## [3. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 

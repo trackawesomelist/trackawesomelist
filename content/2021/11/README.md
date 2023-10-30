@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 15 - Mar 21, 2021
 
-55 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,13 +22,13 @@
 
 ### Python / Natural Language Processing
 
-*   [DL Translate (⭐290)](https://github.com/xhlulu/dl-translate) - A deep learning-based translation library between 50 languages, built with `transformers`.
+*   [DL Translate (⭐349)](https://github.com/xhlulu/dl-translate) - A deep learning-based translation library between 50 languages, built with `transformers`.
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Cactus Comments](https://cactus.chat/) - Cactus Comments is a federated comment system for the open web built on Matrix. ([Demo](https://cactus.chat/demo/), [Source Code](https://gitlab.com/cactus-comments/)) `GPL-3.0` `Python`
+*   [Cactus Comments](https://cactus.chat/) - Cactus Comments is a federated comment system for the open web built on Matrix. ([Demo](https://cactus.chat/demo/), [Source Code](https://gitlab.com/cactus-comments/)) `GPL-3.0` `Docker/Python`
 
 ## [5. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
-*   [pytorch\_tabular (⭐908)](https://github.com/manujosephv/pytorch_tabular)
+*   [pytorch\_tabular (⭐1k)](https://github.com/manujosephv/pytorch_tabular)
 
 ### Bloggers / Book Deals (Affiliated) 🛍
 
@@ -65,25 +65,25 @@
 
 ### Projects / Godot 3.2+
 
-*   [Arrow (⭐598)](https://github.com/mhgolkar/Arrow) - A tool to design game narratives with nodes.
+*   [Arrow (⭐650)](https://github.com/mhgolkar/Arrow) - A tool to design game narratives with nodes.
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [GodotOnReady (⭐107)](https://github.com/31/GodotOnReady) - A C# (Mono) alternative to the GDScript-only `onready` keyword, without reflection.
+*   [GodotOnReady (⭐106)](https://github.com/31/GodotOnReady) - A C# (Mono) alternative to the GDScript-only `onready` keyword, without reflection.
 
 ## [9. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Calendar
 
-*   [scriptable-calendar-widget (⭐102)](https://github.com/rudotriton/scriptable-calendar-widget) - Customizable calendar.
+*   [scriptable-calendar-widget (⭐113)](https://github.com/rudotriton/scriptable-calendar-widget) - Customizable calendar.
 
     <img src="https://raw.githubusercontent.com/rudotriton/scriptable-calendar-widget/main/assets/scriptable-calendar-widget.jpg" width="400"/>
 
-## [10. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [10. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
-### Web / Development
+### Tools / Community providers
 
-*   [KICS (⭐1.6k)](https://github.com/Checkmarx/kics) - Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
+*   [KICS (⭐1.7k)](https://github.com/Checkmarx/kics) - Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
 
 ## [11. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/week/README.md)
 
@@ -135,14 +135,14 @@
 
 ### Python / Financial Instruments and Pricing
 
-*   [willowtree (⭐176)](https://github.com/federicomariamassari/willowtree) - Robust and flexible Python implementation of the willow tree lattice for derivatives pricing.
-*   [financial-engineering (⭐254)](https://github.com/federicomariamassari/financial-engineering) - Applications of Monte Carlo methods to financial engineering projects, in Python.
-*   [optlib (⭐273)](https://github.com/dbrojas/optlib) - A library for financial options pricing written in Python.
+*   [willowtree (⭐197)](https://github.com/federicomariamassari/willowtree) - Robust and flexible Python implementation of the willow tree lattice for derivatives pricing.
+*   [financial-engineering (⭐287)](https://github.com/federicomariamassari/financial-engineering) - Applications of Monte Carlo methods to financial engineering projects, in Python.
+*   [optlib (⭐323)](https://github.com/dbrojas/optlib) - A library for financial options pricing written in Python.
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [FinanceHub (⭐374)](https://github.com/Finance-Hub/FinanceHub) - Resources for Quantitative Finance
-*   [Python\_Option\_Pricing (⭐380)](https://github.com/dedwards25/Python_Option_Pricing) - An libary to price financial options written in Python. Includes: Black Scholes, Black 76, Implied Volatility, American, European, Asian, Spread Options.
+*   [FinanceHub (⭐464)](https://github.com/Finance-Hub/FinanceHub) - Resources for Quantitative Finance
+*   [Python\_Option\_Pricing (⭐480)](https://github.com/dedwards25/Python_Option_Pricing) - An libary to price financial options written in Python. Includes: Black Scholes, Black 76, Implied Volatility, American, European, Asian, Spread Options.
 
 ## [16. Tips](/content/git-tips/tips/week/README.md)
 
@@ -237,11 +237,11 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 ### Third-Party Packages / Commands
 
-*   [django-liquidb (⭐14)](https://github.com/Gusakovskiy/django-liquidb) - Django application to simplify migration management and changes in states of db scheme.
+*   [django-liquidb (⭐15)](https://github.com/Gusakovskiy/django-liquidb) - Django application to simplify migration management and changes in states of db scheme.
 
 ### Third-Party Packages / Models
 
-*   [django-recurrence (⭐432)](https://github.com/django-recurrence/django-recurrence) - Utility for working with recurring dates in Django.
+*   [django-recurrence (⭐440)](https://github.com/django-recurrence/django-recurrence) - Utility for working with recurring dates in Django.
 
 ## [21. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
 
@@ -253,11 +253,11 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 ### Security / Runner
 
-*   [sanitize-html (⭐3.3k)](https://github.com/apostrophecms/sanitize-html) - sanitize-html provides a simple HTML sanitizer with a clear API.
+*   [sanitize-html (⭐3.4k)](https://github.com/apostrophecms/sanitize-html) - sanitize-html provides a simple HTML sanitizer with a clear API.
 
 ### API / Runner
 
-*   [React Query (⭐34k)](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React.
+*   [React Query (⭐36k)](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React.
 
 ## [23. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -269,7 +269,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 ### Boilerplates
 
-*   [superplate (⭐2.5k)](https://github.com/pankod/superplate) - superplate creates Next.js app in seconds with TypeScript, styled-components, SWR, Storybook, and 35+ plugin.
+*   [superplate (⭐2.6k)](https://github.com/pankod/superplate) - superplate creates Next.js app in seconds with TypeScript, styled-components, SWR, Storybook, and 35+ plugin.
 
 ## [25. Awesome Xai](/content/altamiracorp/awesome-xai/week/README.md)
 
@@ -394,28 +394,28 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 *   [asakusaSatellite (⭐101)](https://github.com/codefirst/AsakusaSatellite) - A realtime chat application for developers (using Rails 6.0). - [:earth\_africa:](https://www.codefirst.org/AsakusaSatellite/)
 *   [catarse (⭐1.6k)](https://github.com/catarse/catarse) - A crowdfunding platform for creative projects (using Rails 4.2). - [:earth\_africa:](https://www.catarse.me/)
-*   [commudle](https://github.com/commudle/commudle) - A community management app (using Rails 5.2).
-*   [kanban (⭐639)](https://github.com/seanomlor/kanban) - A Trello clone (using Rails 4.2).
-*   [opensourcefriday](https://github.com/github/opensourcefriday) - A project contribution tracking app (using Rails 6.0). - [:earth\_africa:](https://opensourcefriday.com)
+*   [commudle (⭐250)](https://github.com/commudle/commudle) - A community management app (using Rails 5.2).
+*   [kanban (⭐640)](https://github.com/seanomlor/kanban) - A Trello clone (using Rails 4.2).
+*   [opensourcefriday (⭐1.1k)](https://github.com/github/opensourcefriday) - A project contribution tracking app (using Rails 6.0). - [:earth\_africa:](https://opensourcefriday.com)
 *   [peatio (⭐3.6k)](https://github.com/peatio/peatio) - A crypto currency exchange app (using Rails 4.0).
-*   [reservations (⭐134)](https://github.com/YaleSTC/reservations) - An inventory management app (using Rails 6.0). - [:earth\_africa:](http://yalestc.github.io/reservations/)
+*   [reservations (⭐138)](https://github.com/YaleSTC/reservations) - An inventory management app (using Rails 6.0). - [:earth\_africa:](http://yalestc.github.io/reservations/)
 *   [rletters](https://codeberg.org/rletters/rletters) - A frontend for database of journal articles for researchers (using Rails 6.0).
 *   [sanataro (⭐52)](https://github.com/kaznum/sanataro) - An account tracker (using Rails 4.2).
 
 ### Gems / Other external resources
 
-*   [actioncable](https://github.com/rails/rails/tree/main/actioncable) - A gem to integrate websocket with a Rails app [:red\_circle:](https://rubygems.org/gems/actioncable) - [Action Cable Overview](https://guides.rubyonrails.org/action_cable_overview.html)
-*   [actionmailbox](https://github.com/rails/rails/tree/main/actionmailbox) - A gem to handle incoming emails within a Rails app [:red\_circle:](https://rubygems.org/gems/actionmailbox) - [Action Mailbox Basics](https://guides.rubyonrails.org/action_mailbox_basics.html)
-*   [actionmailer](https://github.com/rails/rails/tree/main/actionmailer) - A gem to compose, deliver & test emails within a Rails app [:red\_circle:](https://rubygems.org/gems/actionmailer) - [Action Mailer Basics](https://guides.rubyonrails.org/action_mailer_basics.html)
-*   [actionpack](https://github.com/rails/rails/tree/main/actionpack) - A gem to manage requests & responses within a Rails app [:red\_circle:](https://rubygems.org/gems/actionpack)
-*   [actiontext](https://github.com/rails/rails/tree/main/actiontext) - A gem to integrate rich text editor into a Rails app [:red\_circle:](https://rubygems.org/gems/actiontext) - [Action Text Overview](https://guides.rubyonrails.org/action_text_overview.html)
-*   [actionview](https://github.com/rails/rails/tree/main/actionview) - A gem to handle view templates within a Rails app [:red\_circle:](https://rubygems.org/gems/actionview) - [Action View Overview](https://guides.rubyonrails.org/action_view_overview.html)
-*   [activejob](https://github.com/rails/rails/tree/main/activejob) - A gem to handle background jobs within a Rails app [:red\_circle:](https://rubygems.org/gems/activejob) - [Active Job Basics](https://guides.rubyonrails.org/active_job_basics.html)
-*   [activemodel](https://github.com/rails/rails/tree/main/activemodel) - A gem to define a set of interfaces to use in model classes within a Rails app [:red\_circle:](https://rubygems.org/gems/activemodel) - [Active Model Basics](https://guides.rubyonrails.org/active_model_basics.html)
-*   [activerecord](https://github.com/rails/rails/tree/main/activerecord) - A gem to connect model classes with relational databases within a Rails app [:red\_circle:](https://rubygems.org/gems/activerecord) - [Active Record Basics](https://guides.rubyonrails.org/active_record_basics.html)
-*   [activestorage](https://github.com/rails/rails/tree/main/activestorage) - A gem to handle file uploads to cloud storage providers within a Rails app [:red\_circle:](https://rubygems.org/gems/activestorage) - [Active Storage Overview](https://guides.rubyonrails.org/active_storage_overview.html)
-*   [activesupport](https://github.com/rails/rails/tree/main/activesupport) - A gem to provide some extensions to support a Rails app [:red\_circle:](https://rubygems.org/gems/activesupport) - [Active Support Core Extensions](https://guides.rubyonrails.org/active_support_core_extensions.html)
-*   [railties](https://github.com/rails/rails/tree/main/railties) - A gem to handle gems & engines used in a Rails app to work together [:red\_circle:](https://rubygems.org/gems/railties)
+*   [actioncable (⭐54k)](https://github.com/rails/rails/tree/main/actioncable) - A gem to integrate websocket with a Rails app [:red\_circle:](https://rubygems.org/gems/actioncable) - [Action Cable Overview](https://guides.rubyonrails.org/action_cable_overview.html)
+*   [actionmailbox (⭐54k)](https://github.com/rails/rails/tree/main/actionmailbox) - A gem to handle incoming emails within a Rails app [:red\_circle:](https://rubygems.org/gems/actionmailbox) - [Action Mailbox Basics](https://guides.rubyonrails.org/action_mailbox_basics.html)
+*   [actionmailer (⭐54k)](https://github.com/rails/rails/tree/main/actionmailer) - A gem to compose, deliver & test emails within a Rails app [:red\_circle:](https://rubygems.org/gems/actionmailer) - [Action Mailer Basics](https://guides.rubyonrails.org/action_mailer_basics.html)
+*   [actionpack (⭐54k)](https://github.com/rails/rails/tree/main/actionpack) - A gem to manage requests & responses within a Rails app [:red\_circle:](https://rubygems.org/gems/actionpack)
+*   [actiontext (⭐54k)](https://github.com/rails/rails/tree/main/actiontext) - A gem to integrate rich text editor into a Rails app [:red\_circle:](https://rubygems.org/gems/actiontext) - [Action Text Overview](https://guides.rubyonrails.org/action_text_overview.html)
+*   [actionview (⭐54k)](https://github.com/rails/rails/tree/main/actionview) - A gem to handle view templates within a Rails app [:red\_circle:](https://rubygems.org/gems/actionview) - [Action View Overview](https://guides.rubyonrails.org/action_view_overview.html)
+*   [activejob (⭐54k)](https://github.com/rails/rails/tree/main/activejob) - A gem to handle background jobs within a Rails app [:red\_circle:](https://rubygems.org/gems/activejob) - [Active Job Basics](https://guides.rubyonrails.org/active_job_basics.html)
+*   [activemodel (⭐54k)](https://github.com/rails/rails/tree/main/activemodel) - A gem to define a set of interfaces to use in model classes within a Rails app [:red\_circle:](https://rubygems.org/gems/activemodel) - [Active Model Basics](https://guides.rubyonrails.org/active_model_basics.html)
+*   [activerecord (⭐54k)](https://github.com/rails/rails/tree/main/activerecord) - A gem to connect model classes with relational databases within a Rails app [:red\_circle:](https://rubygems.org/gems/activerecord) - [Active Record Basics](https://guides.rubyonrails.org/active_record_basics.html)
+*   [activestorage (⭐54k)](https://github.com/rails/rails/tree/main/activestorage) - A gem to handle file uploads to cloud storage providers within a Rails app [:red\_circle:](https://rubygems.org/gems/activestorage) - [Active Storage Overview](https://guides.rubyonrails.org/active_storage_overview.html)
+*   [activesupport (⭐54k)](https://github.com/rails/rails/tree/main/activesupport) - A gem to provide some extensions to support a Rails app [:red\_circle:](https://rubygems.org/gems/activesupport) - [Active Support Core Extensions](https://guides.rubyonrails.org/active_support_core_extensions.html)
+*   [railties (⭐54k)](https://github.com/rails/rails/tree/main/railties) - A gem to handle gems & engines used in a Rails app to work together [:red\_circle:](https://rubygems.org/gems/railties)
 
 ## [27. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
@@ -427,7 +427,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 ### Integrations
 
-*   [axe-playwright (⭐135)](https://github.com/abhinaba-ghosh/axe-playwright) - Custom commands for Playwright to run accessibility (a11y) checks with axe-core.
+*   [axe-playwright (⭐144)](https://github.com/abhinaba-ghosh/axe-playwright) - Custom commands for Playwright to run accessibility (a11y) checks with axe-core.
 
 ## [29. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -452,8 +452,8 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 ### Contents / News and Magazine
 
-*   [NewsApp (⭐176)](https://github.com/j-j-gajjar/FLUTTER_NewsApp) - Live News Using API with Many API filterrs by [J-J-GAJJAR](https://github.com/j-j-gajjar).
-*   [InNews (⭐17)](https://github.com/akashlilhare/news_app) - Live News in eight different categories by [Akash Lilhare](https://github.com/akashlilhare).
+*   [NewsApp (⭐196)](https://github.com/j-j-gajjar/FLUTTER_NewsApp) - Live News Using API with Many API filterrs by [J-J-GAJJAR](https://github.com/j-j-gajjar).
+*   [InNews (⭐16)](https://github.com/akashlilhare/news_app) - Live News in eight different categories by [Akash Lilhare](https://github.com/akashlilhare).
 
 ## [32. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
@@ -471,26 +471,34 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 ### UI / Bottom bars
 
-*   [Google Nav Bar (⭐530)](https://github.com/sooxt98/google_nav_bar) <!--stargazers:sooxt98/google_nav_bar--> - A modern google style nav bar for flutter by [Sooxt98](http://github.com/sooxt98)
+*   [Google Nav Bar (⭐577)](https://github.com/sooxt98/google_nav_bar) <!--stargazers:sooxt98/google_nav_bar--> - A modern google style nav bar for flutter by [Sooxt98](http://github.com/sooxt98)
 
-## [35. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [35. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+
+### Plugins
+
+*   🎨🧬 [Theme Variants (⭐166)](https://github.com/JakeNavith/tailwindcss-theme-variants) - Adds theme variants based on media queries and/or CSS selectors.
+
+### Tools
+
+*   🔼 [Windy](https://usewindy.com) - Browser extension to convert HTML elements to Tailwind CSS.
+
+### UI Libraries, Components & Templates
+
+*   🧩 [Tailwind Cards (⭐535)](https://github.com/hasinhayder/tailwind-cards) - Growing collection of text/image cards.
+
+## [36. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / Other
 
 *   [IIS2MDC](https://crates.io/crates/iis2mdc) - I2C - ST's High accuracy, ultra-low-power, 3-axis digital output magnetometer - ![crates.io](https://img.shields.io/crates/v/iis2mdc.svg)
 *   [ISM330DHCX](https://crates.io/crates/ism330dhcx) - I2C - ST's IMU with 3D accelerometer, 3D gyroscope, ML core and more - ![crates.io](https://img.shields.io/crates/v/ism330dhcx.svg)
 
-## [36. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
-
-### Ruby / Flask
-
-*   [実用的Rubyスクリプティング](https://www.gentei.org/~yuuji/support/sr/scrp-2020-05.pdf) - 広瀬雄二 (PDF)
-
 ## [37. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Analysis Tools / Ruby
 
-*   [ESRI ArcGIS Public Transit Tools (GTFS) (⭐138)](https://github.com/Esri/public-transit-tools) - Tools for working with public transit data in ArcGIS
+*   [ESRI ArcGIS Public Transit Tools (GTFS) (⭐149)](https://github.com/Esri/public-transit-tools) - Tools for working with public transit data in ArcGIS
 
 ## [38. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
@@ -520,15 +528,15 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 ### Others
 
-*   [eShopOnBlazor (⭐380)](https://github.com/dotnet-architecture/eShopOnBlazor) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-architecture/eShopOnBlazor?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/dotnet-architecture/eShopOnBlazor?style=flat-square\&cacheSeconds=86400) Migration of a traditional ASP.NET Web Forms app to Blazor.
-*   [BlazorCRUD (⭐252)](https://github.com/thbst16/BlazorCrud) - ![stars](https://img.shields.io/github/stars/thbst16/BlazorCrud?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/thbst16/BlazorCrud?style=flat-square\&cacheSeconds=86400) Sample line of business application that illustrates key features of Blazor. [Demo](https://becksblazor.azurewebsites.net/).
-*   [Unofficial eShopOnContainers (⭐3)](https://github.com/n-stefan/eshoponcontainers) - ![last commit](https://img.shields.io/github/last-commit/n-stefan/eshoponcontainers?style=flat-square\&cacheSeconds=86400) Unofficial Blazor WebAssembly client for [eShopOnContainers (⭐23k)](https://github.com/dotnet-architecture/eShopOnContainers).
+*   [eShopOnBlazor (⭐427)](https://github.com/dotnet-architecture/eShopOnBlazor) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-architecture/eShopOnBlazor?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/dotnet-architecture/eShopOnBlazor?style=flat-square\&cacheSeconds=86400) Migration of a traditional ASP.NET Web Forms app to Blazor.
+*   [BlazorCRUD (⭐293)](https://github.com/thbst16/BlazorCrud) - ![stars](https://img.shields.io/github/stars/thbst16/BlazorCrud?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/thbst16/BlazorCrud?style=flat-square\&cacheSeconds=86400) Sample line of business application that illustrates key features of Blazor. [Demo](https://becksblazor.azurewebsites.net/).
+*   [Unofficial eShopOnContainers (⭐4)](https://github.com/n-stefan/eshoponcontainers) - ![last commit](https://img.shields.io/github/last-commit/n-stefan/eshoponcontainers?style=flat-square\&cacheSeconds=86400) Unofficial Blazor WebAssembly client for [eShopOnContainers (⭐25k)](https://github.com/dotnet-architecture/eShopOnContainers).
 
 ## [41. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### JSON
 
-*   [json-struct (⭐310)](https://github.com/jorgen/json_struct) - High performance, single header JSON parser parsing to and from C++ structs. \[MIT]
+*   [json-struct (⭐336)](https://github.com/jorgen/json_struct) - High performance, single header JSON parser parsing to and from C++ structs. \[MIT]
 
 ## [42. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -540,7 +548,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 ### Types / Playground
 
-*   [type-o-rama (⭐242)](https://github.com/stereobooster/type-o-rama) - JS type systems interoperability
+*   [type-o-rama (⭐244)](https://github.com/stereobooster/type-o-rama) - JS type systems interoperability
 
 ### Runtime / Playground
 
@@ -550,18 +558,18 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 *   :octocat: [facebook/create-react-app](https://facebook.github.io/create-react-app/docs/adding-typescript) Create React apps using typescript with no build configuration
 *   :octocat: [Microsoft/TypeScript-React-Starter (⭐11k)](https://github.com/Microsoft/TypeScript-React-Starter) A starter template for TypeScript and React with a detailed README describing how to use the two together; based on `create-react-app`
-*   :scroll: [typescript-cheatsheets/react-typescript-cheatsheet (⭐41k)](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) Cheatsheets for experienced React developers getting started with TypeScript
+*   :scroll: [typescript-cheatsheets/react-typescript-cheatsheet (⭐43k)](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) Cheatsheets for experienced React developers getting started with TypeScript
 *   :octocat: [jsxtyper (⭐37)](https://github.com/fuselabs/jsxtyper) Generates TypeScript interfaces from .jsx files
 *   :scroll: [Building a simple react component with typescript](http://www.austentalbot.com/how-to-use-react-with-typescript/)
 *   :octocat: [TodoMVC • TypeScript + React Example (⭐28k)](https://github.com/tastejs/todomvc/tree/gh-pages/examples/typescript-react)
 *   :scroll: [Working with React and TypeScript](http://blog.wolksoftware.com/working-with-react-and-typescript)
 *   :guardsman: [**vortigern** - A universal boilerplate for building web applications w/ TypeScript, React, Redux and more.](https://github.com/barbar/vortigern)
 *   :robot: [Convert React code to TypeScript automatically (⭐1.6k)](https://github.com/lyft/react-javascript-to-typescript-transform)
-*   :octocat: [React Server Example TSX (⭐273)](https://github.com/styfle/react-server-example-tsx) Boilerplate for isomorphic web app with React server-side rendering in TypeScript
+*   :octocat: [React Server Example TSX (⭐276)](https://github.com/styfle/react-server-example-tsx) Boilerplate for isomorphic web app with React server-side rendering in TypeScript
 *   :octocat: [React & Redux in TypeScript - Static Typing Guide (⭐13k)](https://github.com/piotrwitek/react-redux-typescript-guide) The complete guide to static typing in "React & Redux" using TypeScript
 *   :octocat: [Typescript Monorepo CRA Example (⭐26)](https://github.com/deptno/typescript-monorepo-cra-example) - A minimalistic CRA + typescript monorepo.
-*   :octocat: [Typescript Monorepo Next Example (⭐42)](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
-*   :stars: [Crisp React (⭐167)](https://github.com/winwiz1/crisp-react) Boilerplate with React client and Express backend. Offers performance and extended functionality. Helps to avoid frequent React-Express pitfalls.
+*   :octocat: [Typescript Monorepo Next Example (⭐43)](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
+*   :stars: [Crisp React (⭐180)](https://github.com/winwiz1/crisp-react) Boilerplate with React client and Express backend. Offers performance and extended functionality. Helps to avoid frequent React-Express pitfalls.
 *   :book: [React by Example](https://reactbyexample.github.io/) Code-oriented React tutorial for programmers
 
 ### Back-end API / Playground
@@ -570,7 +578,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 ### Standalone apps / Chrome Extensions
 
-*   [OctoLinker (⭐5.1k)](https://github.com/OctoLinker/browser-extension)
+*   [OctoLinker (⭐5.2k)](https://github.com/OctoLinker/browser-extension)
 
 ### :free: Free Courses / Chrome Extensions
 
@@ -610,52 +618,30 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 *   [RGBDS (⭐1.1k)](https://github.com/gbdev/rgbds) - Assembler and linker package. [Documentation](https://rgbds.gbdev.io/docs/).
 
-### Compilers / Experimental/Proof of Concepts
-
-*   [RGBDS-Live](https://daid.github.io/rgbds-live/) - In-browser coding environment to try out RGBDS.
-
 ### Tools / Graphics utilities
 
-*   [Superfamiconv (⭐113)](https://github.com/Optiroc/SuperFamiconv) - Flexible and composable tile graphics converter supporting Super Nintendo, Game Boy, Game Boy Color, Game Boy Advance, Mega Drive and PC Engine formats.
+*   [Superfamiconv (⭐122)](https://github.com/Optiroc/SuperFamiconv) - Flexible and composable tile graphics converter supporting Super Nintendo, Game Boy, Game Boy Color, Game Boy Advance, Mega Drive and PC Engine formats.
 
 ### Retrieving images / Syntax highlighting packages
 
-*   [Arduino Gameboy Printer Emulator (⭐269)](https://github.com/mofosyne/arduino-gameboy-printer-emulator) - Emulate a gameboy printer via the gameboy link cable.
-*   [ESP8266 Game Boy Printer (⭐41)](https://github.com/applefreak/esp8266-gameboy-printer) -  A device that emulates the Gameboy Printer and lets you retrieve images using WiFi powered by an ESP8266.
-*   [WiFi GBP Emulator (⭐49)](https://github.com/HerrZatacke/wifi-gbp-emulator) - A GameBoy printer emulator which provides the received data over a WiFi connection.
+*   [Arduino Gameboy Printer Emulator (⭐279)](https://github.com/mofosyne/arduino-gameboy-printer-emulator) - Emulate a gameboy printer via the gameboy link cable.
+*   [ESP8266 Game Boy Printer (⭐44)](https://github.com/applefreak/esp8266-gameboy-printer) -  A device that emulates the Gameboy Printer and lets you retrieve images using WiFi powered by an ESP8266.
+*   [WiFi GBP Emulator (⭐53)](https://github.com/HerrZatacke/wifi-gbp-emulator) - A GameBoy printer emulator which provides the received data over a WiFi connection.
 *   [Game Boy WiFi Printer - D1 Mini Shield (⭐20)](https://github.com/cristofercruz/gbp-esp-shield-pcb) - Game Boy Printer interface shield for D1 mini/mini Pro ESP8266 boards.
-*   [Game Boy Printer Sniffer (⭐7)](https://github.com/mofosyne/GameboyPrinterSniffer) - Sniff packet communications between a Game Boy and the Printer.
+*   [Game Boy Printer Sniffer (⭐8)](https://github.com/mofosyne/GameboyPrinterSniffer) - Sniff packet communications between a Game Boy and the Printer.
 
 ### Changing the camera's behavior / Syntax highlighting packages
 
 *   [Game Boy Camera Canon EF Lens Mount](http://ekeler.com/game-boy-camera-canon-ef-mount)
 *   [Game Boy Camera to Canon Lens mount](https://www.thingiverse.com/thing:4337362) - based on the above.
-*   [game-boy-camera-frame-replacer (⭐18)](https://github.com/cristofercruz/game-boy-camera-frame-replacer) - Manipulate the ROM of a camera to include custom frames
+*   [game-boy-camera-frame-replacer (⭐23)](https://github.com/cristofercruz/game-boy-camera-frame-replacer) - Manipulate the ROM of a camera to include custom frames
 
 ### Post processing / Syntax highlighting packages
 
-*   [Game Boy Printer Paper Simulation (⭐52)](https://github.com/mofosyne/GameboyPrinterPaperSimulation) - Generate as-if-printed images of digital printed images.
-*   [Game Boy Printer Web (⭐44)](https://github.com/HerrZatacke/gb-printer-web) - Gallery app for to the Game Boy camera: import pictures from exports or cartridge dumps and choose color palettes.
+*   [Game Boy Printer Paper Simulation (⭐58)](https://github.com/mofosyne/GameboyPrinterPaperSimulation) - Generate as-if-printed images of digital printed images.
+*   [Game Boy Printer Web (⭐48)](https://github.com/HerrZatacke/gb-printer-web) - Gallery app for to the Game Boy camera: import pictures from exports or cartridge dumps and choose color palettes.
 
-## [46. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
-
-### Useful Links
-
-*   💙 [Just-in-time (⭐2.2k)](https://github.com/tailwindlabs/tailwindcss-jit) - Just-in-time compiler for Tailwind CSS.
-
-### Plugins
-
-*   🎨🧬 [Theme Variants (⭐143)](https://github.com/JakeNavith/tailwindcss-theme-variants) - Adds theme variants based on media queries and/or CSS selectors.
-
-### Tools
-
-*   🔼 [Windy](https://usewindy.com) - Browser extension to convert HTML elements to Tailwind CSS.
-
-### UI Libraries, Components & Templates
-
-*   🧩 [Tailwind Cards (⭐494)](https://github.com/hasinhayder/tailwind-cards) - Growing collection of text/image cards.
-
-## [47. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [46. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -664,20 +650,20 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 ### Components & Libraries / Utilities
 
 *   [vue-props-validation (⭐21)](https://github.com/rubnvp/vue-props-validation) - Vue props validation logic extracted for nested validations in objects and arrays using the Vue native syntax.
-*   [vue-simple-acl (⭐103)](https://github.com/victorybiz/vue-simple-acl) - A simple unopinionated Vue plugin for managing user roles and permissions, access-control list (ACL) and role-based access control (RBAC).
+*   [vue-simple-acl (⭐107)](https://github.com/victorybiz/vue-simple-acl) - A simple unopinionated Vue plugin for managing user roles and permissions, access-control list (ACL) and role-based access control (RBAC).
 
 ### Components & Libraries / Integrations
 
 *   [vuetube (⭐11)](https://github.com/webistomin/vuetube) - 🚀 A fast, lightweight, lazyload vue component acting as a thin layer over the YouTube Iframe Player API which renders fast
 *   [vue-cli-plugin-capacitor (⭐134)](https://github.com/capacitor-community/vue-cli-plugin-capacitor) - A Vue CLI 3 Plugin for Capacitor
 
-## [48. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [47. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Static Analysis Tools
 
-*   [APKLeaks (⭐3.8k)](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
+*   [APKLeaks (⭐4.1k)](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
 
-## [49. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [48. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Official Website
 
@@ -697,7 +683,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 ### Organizations
 
-*   [Symmetry Investments](https://symmetryinvestments.com/) - Symmetry Investments LP is an investment management company with approximately US$4.7 billion in assets under management as of 31 December 2018. Main sponsor of the [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/). Have sponsored the development of [excel-d](https://dlang.org/blog/2017/05/31/project-highlight-excel-d/), [dpp (⭐221)](https://github.com/atilaneves/dpp), [autowrap (⭐78)](https://github.com/symmetryinvestments/autowrap), [mir-algorithm (⭐168)](https://github.com/libmir/mir-algorithm), and various other projects.
+*   [Symmetry Investments](https://symmetryinvestments.com/) - Symmetry Investments LP is an investment management company with approximately US$4.7 billion in assets under management as of 31 December 2018. Main sponsor of the [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/). Have sponsored the development of [excel-d](https://dlang.org/blog/2017/05/31/project-highlight-excel-d/), [dpp (⭐224)](https://github.com/atilaneves/dpp), [autowrap (⭐79)](https://github.com/symmetryinvestments/autowrap), [mir-algorithm (⭐168)](https://github.com/libmir/mir-algorithm), and various other projects.
 
 ### Books
 
@@ -718,7 +704,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 *   [D Bare bones](https://wiki.osdev.org/D_Bare_Bones) - kernel hello world in D (using GDC compiler)
 *   [D barebone with ldc2](https://wiki.osdev.org/D_barebone_with_ldc2) - another kernel hello world in D (using LDC compiler)
-*   [XOmB bare bones](https://web.archive.org/web/20161214232759/http://wiki.xomb.org/index.php?title=XOmB_Bare_Bones) - an exokernel operating system written in D. [Main page](https://web.archive.org/web/20161201061242/http://wiki.xomb.org/index.php?title=Main_Page), [github (⭐332)](https://github.com/xomboverlord/xomb/tree/unborn).
+*   [XOmB bare bones](https://web.archive.org/web/20161214232759/http://wiki.xomb.org/index.php?title=XOmB_Bare_Bones) - an exokernel operating system written in D. [Main page](https://web.archive.org/web/20161201061242/http://wiki.xomb.org/index.php?title=Main_Page), [github (⭐334)](https://github.com/xomboverlord/xomb/tree/unborn).
 *   [Bare Metal ARM Cortex-M GDC Cross Compiler](https://wiki.dlang.org/Bare_Metal_ARM_Cortex-M_GDC_Cross_Compiler) - building a bare metal ARM Cortex-M (arm-none-eabi) GDC cross compiler for a Linux host.
 
 ### Blogs / Bare metal / kernel development
@@ -741,7 +727,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 *   [scons-d](https://scons.org/) - Scons has built-in support for building D projects, thanks to Russel Winder.
 *   [button](https://jasonwhite.io/button/) - A universal build system to build your software at the push of a button.
-*   [wild (⭐6)](https://github.com/Vild/Wild) - Wild build system, used to build the [PowerNex (⭐476)](https://github.com/PowerNex/PowerNex) kernel
+*   [wild (⭐6)](https://github.com/Vild/Wild) - Wild build system, used to build the [PowerNex (⭐480)](https://github.com/PowerNex/PowerNex) kernel
 
 ### IDEs & Editors / Bare metal / kernel development
 
@@ -749,12 +735,12 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 *   [Dexed](https://gitlab.com/basile.b/dexed) - IDE for the D programming language, its compilers, tools and libraries.
 *   [code-d](https://marketplace.visualstudio.com/items?itemName=webfreak.code-d) <sup>\[[open-vsx](https://open-vsx.org/extension/webfreak/code-d)]</sup> - Visual Studio Code extension using serve-d
 *   [ide-d](https://atom.io/packages/ide-d) - Atom extension for D using serve-d
-*   [DCD (⭐333)](https://github.com/dlang-community/DCD) - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support (⭐333)](https://github.com/dlang-community/DCD/wiki/IDEs-and-Editors-with-DCD-support).
-*   [serve-d (⭐157)](https://github.com/Pure-D/serve-d) - Language Server Protocol (LSP) implementation for D.  Adds modern IDE features to any editor with LSP support (VSCode, Atom, Vim/Neovim and others)
+*   [DCD (⭐340)](https://github.com/dlang-community/DCD) - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support (⭐340)](https://github.com/dlang-community/DCD/wiki/IDEs-and-Editors-with-DCD-support).
+*   [serve-d (⭐172)](https://github.com/Pure-D/serve-d) - Language Server Protocol (LSP) implementation for D.  Adds modern IDE features to any editor with LSP support (VSCode, Atom, Vim/Neovim and others)
 
 ### Lexers, Parsers, Parser Generators / Bare metal / kernel development
 
-*   [libdparse (⭐107)](https://github.com/dlang-community/libdparse) - A D language lexer and parser, (possibly) future standard D parser/lexer.
+*   [libdparse (⭐111)](https://github.com/dlang-community/libdparse) - A D language lexer and parser, (possibly) future standard D parser/lexer.
 
 ### Containers / Bare metal / kernel development
 
@@ -770,11 +756,11 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 *   [vibe.data.json](https://vibed.org/api/vibe.data.json/) - JSON functions in Vibe.d. Currently the best implementation I used.
 *   [std.json](https://dlang.org/phobos/std_json.html) - D's standard library JSON module. Needs refinement.
 *   [std.data.json (⭐25)](https://github.com/dlang-community/std_data_json) - Phobos candidate for JSON serialization (based on Vibed)
-*   [asdf (⭐17)](https://github.com/libmir/asdf) - Cache oriented string based JSON representation for fast read & writes and serialisation.
+*   [asdf (⭐19)](https://github.com/libmir/asdf) - Cache oriented string based JSON representation for fast read & writes and serialisation.
 
 ### Data serialization / XML
 
-*   arsd [dom.d (⭐489)](https://github.com/adamdruppe/arsd/blob/master/dom.d) - an xml/html DOM based on what Javascript provides in browsers
+*   arsd [dom.d (⭐495)](https://github.com/adamdruppe/arsd/blob/master/dom.d) - an xml/html DOM based on what Javascript provides in browsers
 
 ### Database clients / XML
 
@@ -791,44 +777,44 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 ### OS / XML
 
-*   [PowerNex (⭐476)](https://github.com/PowerNex/PowerNex) -  A kernel written in D
-*   [Trinix (⭐96)](https://github.com/Rikarin/Trinix) -  Hybrid operating system for x64 PC written in D
+*   [PowerNex (⭐480)](https://github.com/PowerNex/PowerNex) -  A kernel written in D
+*   [Trinix (⭐98)](https://github.com/Rikarin/Trinix) -  Hybrid operating system for x64 PC written in D
 
 ### Game Bindings / XML
 
-*   BindBC libraries - `-betterC` compatible, `@nogc` bindings using [bindbc-loader (⭐24)](https://github.com/BindBC/bindbc-loader):
+*   BindBC libraries - `-betterC` compatible, `@nogc` bindings using [bindbc-loader (⭐25)](https://github.com/BindBC/bindbc-loader):
     *   OpenGL - [bindbc-opengl (⭐34)](https://github.com/BindBC/bindbc-opengl)
-    *   GLFW 3 - [bindbc-glfw (⭐38)](https://github.com/BindBC/bindbc-glfw)
-    *   SDL 2 - [bindbc-sdl (⭐74)](https://github.com/BindBC/bindbc-sdl)
+    *   GLFW 3 - [bindbc-glfw (⭐37)](https://github.com/BindBC/bindbc-glfw)
+    *   SDL 2 - [bindbc-sdl (⭐76)](https://github.com/BindBC/bindbc-sdl)
     *   SDL2\_gfx - [bindbc-sdlgfx (⭐1)](https://github.com/aferust/bindbc-sdlgfx)
-    *   SFML 2 - [bindbc-sfml (⭐9)](https://github.com/BindBC/bindbc-sfml)
-    *   Imgui - immediate UI - [bindbc-imgui (⭐13)](https://github.com/Inochi2D/bindbc-imgui)
-    *   Nuklear - immediate UI - [bindbc-nuklear (⭐38)](https://github.com/Timu5/bindbc-nuklear)
+    *   SFML 2 - [bindbc-sfml (⭐10)](https://github.com/BindBC/bindbc-sfml)
+    *   Imgui - immediate UI - [bindbc-imgui (⭐15)](https://github.com/Inochi2D/bindbc-imgui)
+    *   Nuklear - immediate UI - [bindbc-nuklear (⭐39)](https://github.com/Timu5/bindbc-nuklear)
     *   raylib - [bindbc-raylib (⭐12)](https://github.com/o3o/bindbc-raylib)
     *   bgfx - [bindbc-bgfx (⭐21)](https://github.com/GoaLitiuM/bindbc-bgfx)
-    *   WebGPU - [bindbc-wgpu (⭐16)](https://github.com/gecko0307/bindbc-wgpu)
+    *   WebGPU - [bindbc-wgpu (⭐21)](https://github.com/gecko0307/bindbc-wgpu)
     *   Zstandard - compression - [bindbc-zstandard (⭐2)](https://github.com/ZILtoid1991/bindbc-zstandard)
     *   nanomsg-next-gen - [bindbc-nng (⭐1)](https://github.com/darkridder/bindbc-nng)
-    *   OpenAL - audio engine - [bindbc-openal (⭐7)](https://github.com/BindBC/bindbc-openal)
+    *   OpenAL - audio engine - [bindbc-openal (⭐6)](https://github.com/BindBC/bindbc-openal)
     *   SoLoud - audio engine - [bindbc-soloud (⭐6)](https://github.com/gecko0307/bindbc-soloud)
     *   KiWi - widget library - [bindbc-kiwi (⭐4)](https://github.com/aferust/bindbc-kiwi)
     *   NanoVG - vector drawing engine - [bindbc-nanovg (⭐3)](https://github.com/aferust/bindbc-nanovg)
     *   Blend2D - 2D Vector Graphics Powered by a JIT Compiler - [bindbc-blend2d (⭐4)](https://github.com/kdmult/bindbc-blend2d)
-    *   Lua - [bindbc-lua (⭐13)](https://github.com/BindBC/bindbc-lua)
+    *   Lua - [bindbc-lua (⭐15)](https://github.com/BindBC/bindbc-lua)
     *   JoyShockLibrary - [bindbc-jsl (⭐2)](https://github.com/ZILtoid1991/bindbc-JSL)
     *   Newton Dynamics - physics engine - [bindbc-newton (⭐7)](https://github.com/gecko0307/bindbc-newton)
-    *   FreeImage - [bindbc-freeimage (⭐6)](https://github.com/BindBC/bindbc-freeimage)
+    *   FreeImage - [bindbc-freeimage (⭐7)](https://github.com/BindBC/bindbc-freeimage)
     *   Assimp5 - [bindbc-assimp](https://github.com/Sobaya007/bindbc-assimp)
-    *   Freetype - [bindbc-freetype (⭐10)](https://github.com/BindBC/bindbc-freetype)
+    *   Freetype - [bindbc-freetype (⭐11)](https://github.com/BindBC/bindbc-freetype)
     *   Harfbuzz - text shaping engine - [bindbc-harfbuzz (⭐1)](https://github.com/DlangGraphicsWG/bindbc-harfbuzz)
 
 ### Game Frameworks / XML
 
-*   [Dash (⭐415)](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D. see <https://circularstudios.com/dash/>.
+*   [Dash (⭐414)](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D. see <https://circularstudios.com/dash/>.
 
 ### Games / XML
 
-*   [Backgammony (⭐41)](https://github.com/jonathanballs/backgammony) - A Backgammon GUI for Linux built with Gtk.
+*   [Backgammony (⭐40)](https://github.com/jonathanballs/backgammony) - A Backgammon GUI for Linux built with Gtk.
 
 ### Internationalization / XML
 
@@ -852,21 +838,21 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 ### Configuration / Language Processing
 
-*   [D:YAML (⭐114)](https://github.com/dlang-community/D-YAML) - YAML parser and emitter for the D programming language.
+*   [D:YAML (⭐113)](https://github.com/dlang-community/D-YAML) - YAML parser and emitter for the D programming language.
 
 ### Blog Engine / Language Processing
 
 *   [mood (⭐42)](https://github.com/mihails-strasuns/mood) - simple vibe.d based blog engine
 
-## [50. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [49. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Containers
 
-*   [Container Asset Image Creator Module (⭐9)](https://github.com/KayeeNL/sitecore-module-docker-asset-image-creator) - A script to handle the auto creation of a Docker Asset Image for a given Sitecore module.
+*   [Container Asset Image Creator Module (⭐9)](https://github.com/KayeeNL/sitecore-module-docker-asset-image-creator) - A script to handle the auto-creation of a Docker Asset Image for a given Sitecore module.
 
 ### Content Search
 
-*   [Docker SolrCloud for Sitecore 10 (⭐2)](https://github.com/jermdavis/Sitecore-SolrCloud-Docker) - Creates a SolrCloud container that can be used with a Sitecore 10 instance under Docker. The files have been adjusted from the Solr container files in the Sitecore Docker examples repo. The default "solr" service Sitecore provide can be replaced using these files.
+*   [Docker SolrCloud for Sitecore 10 (⭐3)](https://github.com/jermdavis/Sitecore-SolrCloud-Docker) - Creates a SolrCloud container that can be used with a Sitecore 10 instance under Docker. The files have been adjusted from the Solr container files in the Sitecore Docker examples repo. The default "solr" service Sitecore provide can be replaced using these files.
 *   [Sitecore SolrProxy (⭐3)](https://github.com/Antonytm/Sitecore.SolrProxy) - Tool for easy access to Solr admin console if you have access only to Sitecore CM.
 
 ### Extending Content Editor
@@ -879,21 +865,21 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 ### Publishing
 
-*   [SIF scripts to install Publishing Service (⭐2)](https://github.com/KayeeNL/sitecore-sif-autoinstall-publishingservice) - Powershell scripts that both use the Sitecore Install Framework (SIF) to auto install the Publishing Service & auto install the Publishing Module on top of the ContentManagement instance or StandAlone instance.
+*   [SIF scripts to install Publishing Service (⭐3)](https://github.com/KayeeNL/sitecore-sif-autoinstall-publishingservice) - Powershell scripts that both use the Sitecore Install Framework (SIF) to auto install the Publishing Service & auto install the Publishing Module on top of the ContentManagement instance or StandAlone instance.
 
-## [51. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
+## [50. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
 
 ### Privacy focused analytics
 
 *   [Piwik PRO](https://piwik.pro/) - A privacy-friendly alternative to Google Analytics with built-in consent management. Hosted in EU, in your private cloud or on-premises. `©` `SaaS` `self-hosted`
 
-## [52. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [51. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Developer utilities / Third-party APIs
 
 *   [printv (⭐67)](https://github.com/danlentz/printv) -  A batteries-included tracing and debug-logging macro. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
 
-## [53. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [52. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Community
 
@@ -908,7 +894,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 *   [Depict](https://bikibird.itch.io/depict) - Converts image into a dithered image using PICO-8 colors and reduces it to a maximum size of 128 x 128.
 *   [picoCAD](https://johanpeitz.itch.io/picocad) - A PICO-8 program to build and texture lowpoly 3D models.
 
-## [54. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
+## [53. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
 
 ### Security (art. 32)
 
@@ -926,40 +912,36 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 *   [Developers Guide to HIPAA Compliance (⭐1.6k)](https://github.com/truevault/hipaa-compliance-developers-guide)
 
-## [55. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [54. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [APITemplate.io](https://apitemplate.io) - Auto-generate images and PDF documents with a simple API or automation tools like Zapier & Airtable. No CSS/HTML required. Free plan comes with 50 images/month and 3 templates.
-
-### Code Quality
-
-*   [Sider](https://sider.review) — Code review platform for many languages. Supports integration with GitHub. Free for public repositories with unlimited users.
+*   [APITemplate.io](https://apitemplate.io) - Auto-generate images and PDF documents with a simple API or automation tools like Zapier & Airtable. No CSS/HTML is required. The free plan comes with 50 images/month and three templates.
 
 ### CI and CD
 
-*   [LayerCI](https://layerci.com) — CI for full stack projects. 1 full stack preview environment with 5GB memory & 3 CPUs .
+*   [LayerCI](https://layerci.com) — CI for full stack projects. One full stack preview environment with 5GB memory & 3 CPUs.
 
 ### Crash and Exception Handling
 
-*   [CatchJS.com](https://catchjs.com/) - JavaScript error tracking with screenshots and click trails. Free for open source projects.
+*   [CatchJS.com](https://catchjs.com/) - JavaScript error tracking with screenshots and click trails. Free for open-source projects.
 
 ### Forms
 
 *   [formspark.io](https://formspark.io/) -  Form to Email service, free plan allows unlimited forms, 250 submissions per month, support by Customer assistance team.
 *   [getform.io](https://getform.io/) - Form backend platform for designers and developers, 1 form, 50 submissions, Single file upload, 100MB file storage.
-*   [Pageclip](https://pageclip.co/) - Free plan allows one site, one form, 1,000 submissions per month.
+*   [Pageclip](https://pageclip.co/) - The free plan allows one site, one form, and 1,000 monthly submissions.
 *   [smartforms.dev](https://smartforms.dev/) - Powerful and easy form backend for your website, forever free plan allows 50 submissions per month, 250MB file storage, Zapier integration, CSV/JSON export, custom redirect, custom response page, Telegram & Slack bot, single email notifications.
 
 ### BaaS
 
-*   [BMC Developer Program](https://developers.bmc.com/site/global/bmc_helix_platform/program/overview/index.gsp) — The BMC Developer Program provides documentation and resources to build and deploy digital innovations for your enterprise. Access to a comprehensive, personal sandbox which includes the platform, SDK, and a library of components that can be used to build and tailor apps.
-*   [Salesforce Developer Program](https://developer.salesforce.com/signup) — Build apps Lightning fast with drag and drop tools. Customize your data model with clicks. Go further with Apex code. Integrate with anything using powerful APIs. Stay protected with enterprise-grade security. Customize UI with clicks or any leading-edge web framework. Free Developer Program gives access to the full Lightining Platform.
-*   [ServiceNow Developer Program](https://developer.servicenow.com/) — Rapidly build, test, and deploy applications that make work better for your organization. Free Instance & access early previews.
+*   [BMC Developer Program](https://developers.bmc.com/site/global/bmc_helix_platform/program/overview/index.gsp) — The BMC Developer Program provides documentation and resources to build and deploy digital innovations for your enterprise. Access to a comprehensive, personal sandbox that includes the platform, SDK, and a library of components that can be used to build and tailor apps.
+*   [Salesforce Developer Program](https://developer.salesforce.com/signup) — Build apps Lightning fast with drag-and-drop tools. Customize your data model with clicks. Go further with Apex code. Integrate with anything using powerful APIs. Stay protected with enterprise-grade security. Customize UI with clicks or any leading-edge web framework. Free Developer Program gives access to the full Lightning Platform.
+*   [ServiceNow Developer Program](https://developer.servicenow.com/) — Rapidly build, test, and deploy applications that make work better for your organization. Free Instance & access to early previews.
 
 ### Screenshot APIs
 
-*   [Webshrinker.com](https://webshrinker.com) — Web Shrinker provides web site screenshot and domain intelligence API services. Free 100 requests/month.
+*   [Webshrinker.com](https://webshrinker.com) — Web Shrinker provides website screenshots and domain intelligence API services. Free 100 requests/month.
 
 ---
 

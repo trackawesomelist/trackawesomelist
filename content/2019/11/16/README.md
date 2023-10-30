@@ -36,7 +36,7 @@
 
 ## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
-### Podcasts / Other
+### Misc / Other
 
 *   [Functional-Light JavaScript (⭐16k)](https://github.com/getify/Functional-Light-JS) - Pragmatic, balanced FP in JavaScript.
 
@@ -44,7 +44,7 @@
 
 ### Debug
 
-*   [μt (⭐1k)](https://github.com/boost-experimental/ut) - C++20 single header/single module, macro-free μ(micro)/Unit Testing Framework. \[Boost]
+*   [μt (⭐1.1k)](https://github.com/boost-experimental/ut) - C++20 single header/single module, macro-free μ(micro)/Unit Testing Framework. \[Boost]
 
 ## [7. Awesome Kde](/content/francoism90/awesome-kde/README.md)
 
@@ -62,11 +62,11 @@
 
 ### Big Data
 
-*   [Qlik (⭐38)](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
+*   [Qlik (⭐44)](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
 
 ### Health and Social Science
 
-*   [Digital History (⭐169)](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
+*   [Digital History (⭐192)](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
 
 ## [10. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Navigation / Image Picker
 
-*   [Deep Link Navigation (⭐63)](https://github.com/Dennis-Krasnov/Flutter-Deep-Link-Navigation) <!--stargazers:Dennis-Krasnov/Flutter-Deep-Link-Navigation--> - Elegant abstraction for complete deep linking navigation in Flutter by [Dennis Krasnov](https://denniskrasnov.com)
+*   [Deep Link Navigation (⭐68)](https://github.com/Dennis-Krasnov/Flutter-Deep-Link-Navigation) <!--stargazers:Dennis-Krasnov/Flutter-Deep-Link-Navigation--> - Elegant abstraction for complete deep linking navigation in Flutter by [Dennis Krasnov](https://denniskrasnov.com)
 
 ---
 

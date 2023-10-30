@@ -22,7 +22,7 @@
 
 ### Username Check / Telegram
 
-*   [Maigret (⭐8.5k)](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
+*   [Maigret (⭐9k)](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
 
 ## [4. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Datasets
 
-*   [Brno Urban Dataset :octocat: (⭐128)](https://github.com/Robotics-BUT/Brno-Urban-Dataset) - Navigation and localisation dataset for self driving cars and autonomous robots in Brno, Czechia.
+*   [Brno Urban Dataset :octocat: (⭐135)](https://github.com/Robotics-BUT/Brno-Urban-Dataset) - Navigation and localisation dataset for self driving cars and autonomous robots in Brno, Czechia.
     *   [Paper :newspaper:](https://ieeexplore.ieee.org/document/9197277)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=wDFePIViwqY)
 
@@ -54,19 +54,19 @@
 
 ### Container Composition
 
-*   [ctk (⭐257)](https://github.com/ctk-hq/ctk) :construction: - Visual composer for container based workloads. By [@corpulent](https://github.com/corpulent)
+*   [ctk (⭐273)](https://github.com/ctk-hq/ctk) :construction: - Visual composer for container based workloads. By [@corpulent](https://github.com/corpulent)
 
 ## [9. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### GUI
 
-*   [capy-ui/capy (⭐802)](https://github.com/capy-ui/capy) - Cross-platform library for making true native GUIs.
+*   [capy-ui/capy (⭐968)](https://github.com/capy-ui/capy) - Cross-platform library for making true native GUIs.
 
 ## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-build (⭐40)](https://github.com/samonxian/vite-plugin-build) - Transfom the whole folder in library mode.
+*   [vite-plugin-build (⭐51)](https://github.com/samonxian/vite-plugin-build) - Transform the whole folder in library mode.
 
 ## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -75,7 +75,7 @@
 *   ⭐ [maxima](http://maxima.sourceforge.net/) - Computer Algebra System. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
     *   [wxMaxima](https://wxmaxima-developers.github.io/wxmaxima/): a graphical frontend.
     *   [Maxima on Android](https://play.google.com/store/apps/details?id=jp.yhonda), built with ECL.
-    *   [Maxima on Jupyter (⭐162)](https://github.com/robert-dodier/maxima-jupyter)
+    *   [Maxima on Jupyter (⭐173)](https://github.com/robert-dodier/maxima-jupyter)
     *   it can be used via [SageMath](https://www.sagemath.org/) and [KDE Cantor](https://apps.kde.org/cantor/). Of course, with Emacs: [maxima-mode](https://gitlab.com/sasanidas/maxima) ([screenshot](https://community.linuxmint.com/img/screenshots/maxima-emacs.png)) and [maxima-interface (⭐13)](https://github.com/jmbr/maxima-interface) to ease the interface between Maxima and Common Lisp.
     *   it can be used [from a Lisp REPL](https://mahmoodsheikh36.github.io/post/20230510181916-maxima_in_lisp/).
 

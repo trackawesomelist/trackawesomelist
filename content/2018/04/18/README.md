@@ -17,9 +17,9 @@
 ### Agency Tools
 
 *   [AC Transit RestroomFinder (⭐0)](https://github.com/actransitorg/ACTransit.RestroomFinder) - Pinpoints the nearest authorized restroom for bus operator and field staff, using GPS and on-screen map.
-*   [AC Transit Training and Education Department (TED) application (⭐7)](https://github.com/actransitorg/ACTransit.Training) - This application supports the District's training operations for transportation and maintenance employees, primarily in the positions of Bus Operators and Heavy Duty Coach Mechanics (Apprentice and Journey), although the system supports new courses and apprenticeship programs.
-*   [AC Transit Customer Relations application (CusRel) (⭐6)](https://github.com/actransitorg/ACTransit.CusRel) - Public transit ticketing system for customer issues and feedback with: inter-departmental routing with notifications, department/person assigments, simple workflow, ticket searching, pre-canned reports, daily reminders and more.
-*   [TransAM](http://camsys.software/products/transam) - An open-source asset management platform for public transportation agencies.  Open-source [on Github (⭐12)](https://github.com/camsys/transam_core).
+*   [AC Transit Training and Education Department (TED) application (⭐8)](https://github.com/actransitorg/ACTransit.Training) - This application supports the District's training operations for transportation and maintenance employees, primarily in the positions of Bus Operators and Heavy Duty Coach Mechanics (Apprentice and Journey), although the system supports new courses and apprenticeship programs.
+*   [AC Transit Customer Relations application (CusRel) (⭐7)](https://github.com/actransitorg/ACTransit.CusRel) - Public transit ticketing system for customer issues and feedback with: inter-departmental routing with notifications, department/person assigments, simple workflow, ticket searching, pre-canned reports, daily reminders and more.
+*   [TransAM](http://camsys.software/products/transam) - An open-source asset management platform for public transportation agencies.  Open-source [on Github (⭐13)](https://github.com/camsys/transam_core).
 
 ## [3. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -39,12 +39,12 @@
 
 ### For Developers / Directory Navigation
 
-*   [rebound (⭐3.9k)](https://github.com/shobrook/rebound) - Instantly browse Stack Overflow results in your terminal when you get a compiler error
+*   [rebound (⭐4k)](https://github.com/shobrook/rebound) - Instantly browse Stack Overflow results in your terminal when you get a compiler error
 
 ### System Utilities / Directory Navigation
 
-*   [catcli (⭐160)](https://github.com/deadc0de6/catcli) -  The command line catalog tool for your offline data
-*   [logdissect (⭐124)](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
+*   [catcli (⭐178)](https://github.com/deadc0de6/catcli) -  The command line catalog tool for your offline data
+*   [logdissect (⭐127)](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
 
 ### Downloading and Serving / Directory Navigation
 
@@ -66,7 +66,7 @@
 
 ### Tools / Java
 
-*   [seleniumQuery (⭐70)](https://github.com/seleniumQuery/seleniumQuery) - jQuery-like cross-driver interface in Java for WebDriver. Designed as a thin layer, it can be used alone or on top of your favorite framework just to make some cases (e.g. asserting/waiting) simpler when needed.
+*   [seleniumQuery (⭐69)](https://github.com/seleniumQuery/seleniumQuery) - jQuery-like cross-driver interface in Java for WebDriver. Designed as a thin layer, it can be used alone or on top of your favorite framework just to make some cases (e.g. asserting/waiting) simpler when needed.
 
 ## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -76,13 +76,13 @@
 
 ### Frameworks, Libraries and Tools / Web Socket
 
-*   [Fleck (⭐2k)](https://github.com/statianzo/Fleck) - Fleck is a WebSocket server implementation in C#. Fleck requires no inheritance, container, or additional references.
+*   [Fleck (⭐2.2k)](https://github.com/statianzo/Fleck) - Fleck is a WebSocket server implementation in C#. Fleck requires no inheritance, container, or additional references.
 
 ## [9. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Guides
 
-*   [Error message catalog (⭐442)](https://github.com/yogthos/clojure-error-message-catalog)
+*   [Error message catalog (⭐444)](https://github.com/yogthos/clojure-error-message-catalog)
 
 ## [10. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
@@ -90,7 +90,7 @@
 
 *   [geojson-id-streaming (⭐2)](https://github.com/andrewharvey/geojson-id-streaming): Add a unique id to each Feature
 *   [geojson-mesh (⭐12)](https://github.com/andrewharvey/geojson-mesh): extract shared borders of Polygons in a GeoJSON
-*   [geojson-polygon-labels (⭐76)](https://github.com/andrewharvey/geojson-polygon-labels): generate point labels from GeoJSON polygons
+*   [geojson-polygon-labels (⭐78)](https://github.com/andrewharvey/geojson-polygon-labels): generate point labels from GeoJSON polygons
 
 ## [11. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -116,7 +116,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Pomidorus (⭐177)](https://github.com/tatyshev/pomidorus) - Pomodoro time tracker build using Vue and D3 🍅
+*   [Pomidorus (⭐179)](https://github.com/tatyshev/pomidorus) - Pomodoro time tracker build using Vue and D3 🍅
 *   [Hubble](https://hubble.js.org) - :telescope: Travel through GitHub Stars' history.
 
 ## [14. Awesome Aws](/content/donnemartin/awesome-aws/README.md)

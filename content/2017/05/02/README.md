@@ -31,9 +31,9 @@
 
 ### Webpack / Components
 
-*   [Angular Nightly Webpack Starter (⭐894)](https://github.com/qdouble/angular-webpack2-starter)
-*   [Angular Webpack with Visual Studio ASP.NET Core from Damien Bowden (⭐487)](https://github.com/damienbod/AngularWebpackVisualStudio)
-*   [Angular Typescript Webpack from schempy (⭐68)](https://github.com/schempy/angular2-typescript-webpack)
+*   [Angular Nightly Webpack Starter (⭐890)](https://github.com/qdouble/angular-webpack2-starter)
+*   [Angular Webpack with Visual Studio ASP.NET Core from Damien Bowden (⭐486)](https://github.com/damienbod/AngularWebpackVisualStudio)
+*   [Angular Typescript Webpack from schempy (⭐67)](https://github.com/schempy/angular2-typescript-webpack)
 *   [Angular Webpack + rxjs + modules (⭐5)](https://github.com/jorgeas80/angular2-webpack-toh)
 
 ## [4. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)

@@ -10,31 +10,31 @@
 
 ### Components & Libraries / Dev Tools
 
-*   [vue-dom-hints (⭐20)](https://github.com/privatenumber/vue-dom-hints) - 💡 Get hints in the DOM. Minimal Vue devtool alternative.
+*   [vue-dom-hints (⭐23)](https://github.com/privatenumber/vue-dom-hints) - 💡 Get hints in the DOM. Minimal Vue devtool alternative.
 
 ## [2. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Examples / Games
 
-*   [elm-games (⭐132)](https://github.com/rofrol/elm-games) - An excellent list of games made in Elm
+*   [elm-games (⭐137)](https://github.com/rofrol/elm-games) - An excellent list of games made in Elm
 
 ## [3. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### UI Animation / Syntax Highlight
 
-*   [react-tsparticles (⭐5.3k)](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
+*   [react-tsparticles (⭐5.9k)](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
 
 ## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [tsParticles (⭐5.4k)](https://github.com/matteobruni/tsparticles) - A lightweight library for easily creating particles animations for websites (Supports also ReactJS, VueJS, Angular, Svelte and others)
+*   :octocat: [tsParticles (⭐5.9k)](https://github.com/matteobruni/tsparticles) - A lightweight library for easily creating particles animations for websites (Supports also ReactJS, VueJS, Angular, Svelte and others)
 
 ## [5. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Querying / Symfony2
 
-*   [Milkman (⭐865)](https://github.com/warmuuh/milkman) - Extensible cross-platform request/response workbench, not only for http calls.
+*   [Milkman (⭐919)](https://github.com/warmuuh/milkman) - Extensible cross-platform request/response workbench, not only for http calls.
 
 ## [6. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

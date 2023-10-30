@@ -10,7 +10,7 @@
 
 ### Data Structure / Runner
 
-*   [hashmap (⭐382)](https://github.com/flesler/hashmap) - Simple hashmap implementation that supports any kind of keys.
+*   [hashmap (⭐383)](https://github.com/flesler/hashmap) - Simple hashmap implementation that supports any kind of keys.
 
 ### Range Sliders / Runner
 
@@ -18,7 +18,7 @@
 
 ### Gesture / Other
 
-*   [touchemulator (⭐348)](https://github.com/hammerjs/touchemulator) - Emulate touch input on your desktop.
+*   [touchemulator (⭐356)](https://github.com/hammerjs/touchemulator) - Emulate touch input on your desktop.
 
 ## [2. Awesome Db](/content/numetriclabz/awesome-db/README.md)
 

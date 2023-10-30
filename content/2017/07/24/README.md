@@ -56,21 +56,21 @@
 
 ### Python / General
 
-*   [SteamAPI (⭐430)](https://github.com/smiley/steamapi) - An object-oriented Python 2.7+ library for accessing the Steam Web API.
+*   [SteamAPI (⭐436)](https://github.com/smiley/steamapi) - An object-oriented Python 2.7+ library for accessing the Steam Web API.
 
 ### Python / Game Interaction
 
-*   [csgo (⭐100)](https://github.com/ValvePython/csgo) - Python module for interacting with CSGO's Game Coordinator.
-*   [dota2 (⭐166)](https://github.com/ValvePython/dota2) - Python module for interacting with Dota 2's Game Coordinator.
+*   [csgo (⭐116)](https://github.com/ValvePython/csgo) - Python module for interacting with CSGO's Game Coordinator.
+*   [dota2 (⭐177)](https://github.com/ValvePython/dota2) - Python module for interacting with Dota 2's Game Coordinator.
 
 ### Python / Misc
 
-*   [vpk (⭐115)](https://github.com/ValvePython/vpk) - Python module for working with Valve's Pack format.
-*   [vdf (⭐127)](https://github.com/ValvePython/vdf) - Python module for working with Valve's KeyValue format.
+*   [vpk (⭐137)](https://github.com/ValvePython/vpk) - Python module for working with Valve's Pack format.
+*   [vdf (⭐149)](https://github.com/ValvePython/vdf) - Python module for working with Valve's KeyValue format.
 
 ### Tutorials / Misc
 
-*   [In-depth Steam Bot Guide with Node.js (⭐498)](https://github.com/andrewda/node-steam-guide)
+*   [In-depth Steam Bot Guide with Node.js (⭐580)](https://github.com/andrewda/node-steam-guide)
 
 ## [7. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
@@ -85,7 +85,7 @@
 
 ### Endpoint / Content Disarm & Reconstruct
 
-*   [DocBleach (⭐133)](https://github.com/docbleach/DocBleach) - An open-source Content Disarm & Reconstruct software sanitizing Office, PDF and RTF Documents.
+*   [DocBleach (⭐134)](https://github.com/docbleach/DocBleach) - An open-source Content Disarm & Reconstruct software sanitizing Office, PDF and RTF Documents.
 
 ## [9. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 

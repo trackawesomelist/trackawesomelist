@@ -34,9 +34,9 @@
 
 ### Sample Projects / JVM languages
 
-*   [Event Sourcing and CQRS Examples (⭐428)](https://github.com/andreschaffer/event-sourcing-cqrs-examples) - A pragmatic application of Event Sourcing and CQRS in Java with good references for common related problems, e.g. event ordering and idempotency.
+*   [Event Sourcing and CQRS Examples (⭐500)](https://github.com/andreschaffer/event-sourcing-cqrs-examples) - A pragmatic application of Event Sourcing and CQRS in Java with good references for common related problems, e.g. event ordering and idempotency.
 
-### Libraries and Frameworks / JavaScript
+### Libraries and Frameworks / JavaScript / TypeScript
 
 *   [wolkenkit](https://www.wolkenkit.io/) - A CQRS, DDD, and event-sourcing framework for JavaScript and Node.js.
 

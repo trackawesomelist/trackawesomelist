@@ -37,7 +37,7 @@
 
 ### GDScript/C# editor support / Godot version unknown
 
-*   [Kakoune (⭐7)](https://github.com/Skytrias/gdscript-kak) - Syntax highlighting.
+*   [Kakoune (⭐8)](https://github.com/Skytrias/gdscript-kak) - Syntax highlighting.
 
 ## [3. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
 
@@ -91,27 +91,26 @@
 ### Free eBooks
 
 *   [The Anatomy of Domain-Driven Design - The Infographic](https://leanpub.com/theanatomyofdomain-drivendesign) - An infographic on the anatomy of Domain-Driven Design.
-*   [Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure](https://dotnet.microsoft.com/download/thank-you/aspnet-ebook) - Provides end-to-end guidance on building monolithic web applications using DDD, ASP.NET Core, and Azure. [eShopOnWeb sample (⭐8.1k)](https://github.com/dotnet-architecture/eShopOnWeb)
+*   [Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure](https://dotnet.microsoft.com/download/thank-you/aspnet-ebook) - Provides end-to-end guidance on building monolithic web applications using DDD, ASP.NET Core, and Azure. [eShopOnWeb sample (⭐9.2k)](https://github.com/dotnet-architecture/eShopOnWeb)
 *   [CQRS Journey](https://msdn.microsoft.com/en-us/library/jj554200.aspx) - Exploring CQRS and Event Sourcing.
 *   [DDD Reference](http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf) - A summary of the patterns and definitions of DDD.
 *   [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly) - Domain Driven Design Quickly is a short, quick-readable summary and introduction to the fundamentals of DDD.
 *   [Effective Aggregate Design](http://dddcommunity.org/library/vernon_2011/) -  In this three-part series, Vaughn Vernon walks through some common design pitfalls, discusses the pros and cons of various aggregate modeling choices, and provides rules of thumb to guide modeling of aggregates.
 *   [Getting Started with DDD when Surrounded by Legacy Systems](http://domainlanguage.com/wp-content/uploads/2016/04/GettingStartedWithDDDWhenSurroundedByLegacySystemsV1.pdf) - Describes three strategies for getting started with DDD when you have a big commitment to legacy systems.
 *   [Living Documentation by Design, with Domain-Driven Design](https://leanpub.com/livingdocumentation) - Discover how a Living Documentation can help you in all aspects of your projects, from the business goals to the business domain knowledge, architecture and design, processes and deployment, even if you hate writing documentation.
-*   [.NET Microservices: Architecture for Containerized .NET Applications](https://dotnet.microsoft.com/download/thank-you/microservices-architecture-ebook) - An introduction to developing microservices-based applications and managing them using containers. [eShopOnContainers sample (⭐22k)](https://github.com/dotnet-architecture/eShopOnContainers)
+*   [.NET Microservices: Architecture for Containerized .NET Applications](https://dotnet.microsoft.com/download/thank-you/microservices-architecture-ebook) - An introduction to developing microservices-based applications and managing them using containers. [eShopOnContainers sample (⭐24k)](https://github.com/dotnet-architecture/eShopOnContainers)
 *   [The Semantic JavaScript Backend for Event-Driven Development](https://docs.wolkenkit.io/1.1.0/downloads/brochure/) - A 68 pages long free ebook on what DDD, CQRS and event-sourcing are, and how they fit each other.
 
 ## [6. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/README.md)
 
 ### Climate, Environment and Weather
 
-*   [bomrang (⭐101)](https://github.com/ropensci/bomrang) - Australian Government Bureau of Meteorology Data from R.
-*   [frostline (⭐115)](https://github.com/waldoj/frostline) - A dataset, API, and python parser for USDA plant hardiness zones.
-*   [GSODR (⭐80)](https://github.com/ropensci/GSODR) - Global summary daily weather data in R.
-*   [iem (⭐109)](https://github.com/akrherz/iem) - Code that makes the Iowa Environmental Mesonet run.
-*   [PyETo (⭐114)](https://github.com/woodcrafty/PyETo) - Python package for calculating reference/potential evapotranspiration (ETo).
-*   [pyTSEB (⭐96)](https://github.com/hectornieto/pyTSEB) - A python two source energy balance model for estimation of evapotranspiration with remote sensing data.
-*   [soilDB (⭐60)](https://github.com/ncss-tech/soilDB) - R library for simplified access to NCSS soil databases.
+*   [frostline (⭐126)](https://github.com/waldoj/frostline) - A dataset, API, and python parser for USDA plant hardiness zones.
+*   [GSODR (⭐82)](https://github.com/ropensci/GSODR) - Global summary daily weather data in R.
+*   [iem (⭐124)](https://github.com/akrherz/iem) - Code that makes the Iowa Environmental Mesonet run.
+*   [PyETo (⭐130)](https://github.com/woodcrafty/PyETo) - Python package for calculating reference/potential evapotranspiration (ETo).
+*   [pyTSEB (⭐115)](https://github.com/hectornieto/pyTSEB) - A python two source energy balance model for estimation of evapotranspiration with remote sensing data.
+*   [soilDB (⭐67)](https://github.com/ncss-tech/soilDB) - R library for simplified access to NCSS soil databases.
 
 ### Crop Modeling, Phenotyping, and Pathology
 
@@ -120,29 +119,21 @@
 ### Data Standardization, Interoperability and APIs
 
 *   [AgGateway’s ADAPT Toolkit](https://adaptframework.org) - Open Source project providing tools to simplify communication between growers, their machines, and their partners.
-*   [agworld\_api\_client (⭐4)](https://github.com/agworld/agworld_api_client) - Example Agworld API Ruby client library that is compliant with specification defined by jsonapi.org.
 *   [API-Code-Samples (⭐9)](https://github.com/aWhereAPI/API-Code-Samples) - Contains aWhere's API platform code samples.
 *   [ClearAg-API-Examples (⭐0)](https://github.com/IterisClearAg/ClearAg-API-Examples) - A collection of code examples using the ClearAg APIs.
 *   [Open Ag Data Alliance](https://github.com/oada) - OADA is an open project designed to bring interoperability, security, and privacy to agricultural data.
-*   [MyJohnDeereAPI-OAuth-CS-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-CS-Client) - C Sharp MyJohnDeere API client implementation.
-*   [MyJohnDeereAPI-OAuth-Java-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-Java-Client) - Java MyJohnDeere API client implementation.
-*   [MyJohnDeereAPI-OAuth-NodeJS-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-NodeJS-Client) - Node.js MyJohnDeere API client implementation.
-*   [MyJohnDeereAPI-OAuth-PHP-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-PHP-Client) - PHP MyJohnDeere API client implementation.
-*   [MyJohnDeereAPI-OAuth-Python-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-Python-Client) - Python MyJohnDeere API client implementation.
-*   [MyJohnDeereAPI-OAuth-Python3-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-Python3-Client) - Python3 MyJohnDeere API client implementation.
-*   [MyJohnDeereAPI-OAuth-Ruby-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-Ruby-Client) - Ruby MyJohnDeere API client implementation.
-*   [SampleData (⭐25)](https://github.com/JohnDeere/SampleData) - Sample datacards, shapefiles, and other files you can use for testing.
+*   [SampleData (⭐26)](https://github.com/JohnDeere/SampleData) - Sample datacards, shapefiles, and other files you can use for testing.
 
 ### Farm Management Systems and Record Keeping
 
 *   [AgroSense](https://bitbucket.org/corizon/agrosense) - Free and open source farm management suite built with Java.
-*   [farmOS (⭐550)](https://github.com/farmOS/farmOS) - Web-based farm record keeping application built with Drupal and PHP.
-*   [Ekylibre (⭐294)](https://github.com/ekylibre/ekylibre) - Farm management information system for farmers and small enterprises built with Ruby on Rails and PostgreSQL/PostGIS.
-*   [Tania (⭐586)](https://github.com/Tanibox/tania-core) - Free and open source farming management system for everyone built with Go and Vue.js.
+*   [farmOS (⭐632)](https://github.com/farmOS/farmOS) - Web-based farm record keeping application built with Drupal and PHP.
+*   [Ekylibre (⭐315)](https://github.com/ekylibre/ekylibre) - Farm management information system for farmers and small enterprises built with Ruby on Rails and PostgreSQL/PostGIS.
+*   [Tania (⭐653)](https://github.com/Tanibox/tania-core) - Free and open source farming management system for everyone built with Go and Vue.js.
 
 ### Geospatial and GIS / GIS Resources
 
-*   [Awesome GIS (⭐3.1k)](https://github.com/sshuair/awesome-gis) - Awesome GIS is a list collecting abundant GIS related sources.
+*   [Awesome GIS (⭐3.6k)](https://github.com/sshuair/awesome-gis) - Awesome GIS is a list collecting abundant GIS related sources.
 
 ### Geospatial and GIS / GIS Platforms
 
@@ -150,25 +141,25 @@
 
 ### Geospatial and GIS / Shapefiles
 
-*   [pyshp (⭐974)](https://github.com/GeospatialPython/pyshp) - Reads and writes ESRI Shapefiles in pure Python.
-*   [rgeo-shapefile (⭐92)](https://github.com/rgeo/rgeo-shapefile) - RGeo Shapefile is an optional module for RGeo for reading geospatial data from ESRI shapefiles in Ruby.
+*   [pyshp (⭐1k)](https://github.com/GeospatialPython/pyshp) - Reads and writes ESRI Shapefiles in pure Python.
+*   [rgeo-shapefile (⭐95)](https://github.com/rgeo/rgeo-shapefile) - RGeo Shapefile is an optional module for RGeo for reading geospatial data from ESRI shapefiles in Ruby.
 
 ### IoT, Hardware / Shapefiles
 
-*   [AgOpenGPS (⭐369)](https://github.com/farmerbriantee/AgOpenGPS) - Ag precision mapping and section control software.
-*   [DRO-Matic (⭐202)](https://github.com/drolsen/DRO-Matic) - Fully Automated Hydroponic OS for DIY DRO-Matic cabinets - Nutrient dosing, irrigation, topoffs, timers, EC & pH drift fixing.
-*   [OpenMinder (⭐26)](https://github.com/autogrow/openminder) - Open Source Rootzone Monitoring, API and open source hat for the RaspberryPi.
+*   [AgOpenGPS (⭐450)](https://github.com/farmerbriantee/AgOpenGPS) - Ag precision mapping and section control software.
+*   [DRO-Matic (⭐215)](https://github.com/drolsen/DRO-Matic) - Fully Automated Hydroponic OS for DIY DRO-Matic cabinets - Nutrient dosing, irrigation, topoffs, timers, EC & pH drift fixing.
+*   [OpenMinder (⭐30)](https://github.com/autogrow/openminder) - Open Source Rootzone Monitoring, API and open source hat for the RaspberryPi.
 
 ### Knowledgebases and Learning Resources / Shapefiles
 
-*   [Harvest Helper (⭐68)](https://github.com/damwhit/harvest_helper) -  Provides growing, harvesting and recipe information for the 45 plants in the database as well as a JSON API.
-*   [OpenFarm (⭐900)](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge built with Ruby on Rails.
+*   [Harvest Helper (⭐77)](https://github.com/damwhit/harvest_helper) -  Provides growing, harvesting and recipe information for the 45 plants in the database as well as a JSON API.
+*   [OpenFarm (⭐942)](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge built with Ruby on Rails.
 
 ### Remote Sensing and Imagery / Shapefiles
 
-*   [Awesome Sentinel (⭐438)](https://github.com/Fernerkundung/awesome-sentinel) - A curated list of awesome tools, tutorials and APIs related to data from the Copernicus Sentinel Satellites.
-*   [Raster Vision (⭐1.7k)](https://github.com/azavea/raster-vision) - Deep learning for aerial/satellite imagery.
-*   [Sen2Agri (⭐103)](https://github.com/Sen2Agri/Sen2Agri-System) - Software system processing high resolution satellite images for agricultural purposes.
+*   [Awesome Sentinel (⭐492)](https://github.com/Fernerkundung/awesome-sentinel) - A curated list of awesome tools, tutorials and APIs related to data from the Copernicus Sentinel Satellites.
+*   [Raster Vision (⭐1.9k)](https://github.com/azavea/raster-vision) - Deep learning for aerial/satellite imagery.
+*   [Sen2Agri (⭐110)](https://github.com/Sen2Agri/Sen2Agri-System) - Software system processing high resolution satellite images for agricultural purposes.
 
 ## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -261,7 +252,7 @@
 
 ### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
-*   [Deutsch (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/de-DE)
+*   [Deutsch (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/de-DE)
 
 ## [11. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
@@ -275,11 +266,11 @@
 
 ### Hardware / Motor Controllers
 
-*   [grblShield (⭐130)](https://github.com/synthetos/grblShield) - All the stepper motor control hardware needed to turn an [Arduino](https://www.arduino.cc) into a G-code-based motion controller using the grbl firmware. ([adafruit](https://www.adafruit.com/product/1750))
-*   [TinyG (⭐831)](https://github.com/synthetos/TinyG) - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
+*   [grblShield (⭐129)](https://github.com/synthetos/grblShield) - All the stepper motor control hardware needed to turn an [Arduino](https://www.arduino.cc) into a G-code-based motion controller using the grbl firmware. ([adafruit](https://www.adafruit.com/product/1750))
+*   [TinyG (⭐844)](https://github.com/synthetos/TinyG) - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
 *   [Raspberry Pi CNC Hat](https://wiki.protoneer.co.nz/Raspberry_Pi_CNC) - Raspberry Pi add-on board w/ stepper controllers and a microcontroller running grbl. Interfaces with the Pi's serial pins.
 
-### Hardware / Accessories
+### Hardware / Accessories and Adapters
 
 *   [WiFi232](http://biosrhythm.com/?page_id=1453) - Wifi to RS-232 serial via a DB25 plug. Control your serial plotter wirelessly.
 *   [Plotter Cable Pinout](http://sites.music.columbia.edu/cmc/chiplotle/plotter_cable.pdf) - Schematic for a plotter cable that will work for most HP and Roland plotters. Search eBay or Amazon for `DB9 to DB25 Serial Null Modem Cable` or similar to find them for sale.
@@ -291,34 +282,34 @@
 
 ### Software / HPGL
 
-*   [Chiplotle (⭐28)](https://github.com/drepetto/chiplotle) - Python library for generating HPGL and interfacing with serial plotters.
+*   [Chiplotle (⭐31)](https://github.com/drepetto/chiplotle) - Python library for generating HPGL and interfacing with serial plotters.
 *   [HPGL Reference Guide](https://www.isoplotec.co.jp/HPGL/eHPGL.htm) - HTML-based HPGL Reference.
 *   [HP 7475A Interfacing and Programming Manual](https://archive.org/details/HP7475AInterfacingandProgrammingManual) - Scanned PDF manual that contains a full HPGL reference.
-*   [djipco/hpgl (⭐35)](https://github.com/djipco/hpgl) - A Node.js library to communicate with HPGL-compatible plotters and printers.
+*   [djipco/hpgl (⭐36)](https://github.com/djipco/hpgl) - A Node.js library to communicate with HPGL-compatible plotters and printers.
 *   [hp2xx](https://www.gnu.org/software/hp2xx) - GNU tool to convert HPGL into other vector and raster formats. Can also be used as a previewing in X11.
-*   [vec (⭐19)](https://github.com/anachrocomputer/vec) - Example C code for generating HPGL, with a turtle graphics interface.
+*   [vec (⭐23)](https://github.com/anachrocomputer/vec) - Example C code for generating HPGL, with a turtle graphics interface.
 *   [d3-hpgl (⭐19)](https://github.com/aubergene/d3-hpgl) - An adapter for the HTML Canvas API so you can output HPGL using the popular [D3](https://d3js.org) library.
-*   [HPGL Viewer (⭐13)](https://github.com/drskullster/HPGLViewer) - An HPGL Viewer using JavaScript and HTML5 canvas.
+*   [HPGL Viewer (⭐15)](https://github.com/drskullster/HPGLViewer) - An HPGL Viewer using JavaScript and HTML5 canvas.
 *   [HPGL Sender (⭐9)](https://github.com/LgHS/hpgl-sender) - A web interface for previewing HPGL and sending it to your plotter.
 
 ### Software / G-code
 
-*   [grbl (⭐5k)](https://github.com/grbl/grbl) - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino.
-*   [cncjs (⭐2k)](https://github.com/cncjs/cncjs) - A web-based interface controlling CNC machines running grbl, TinyG, or other G-code-based firmware.
-*   [Universal-G-Code-Sender (⭐1.6k)](https://github.com/winder/Universal-G-Code-Sender) - Java-based grbl-compatible cross-platform G-code sender.
+*   [grbl (⭐5.1k)](https://github.com/grbl/grbl) - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino.
+*   [cncjs (⭐2.1k)](https://github.com/cncjs/cncjs) - A web-based interface controlling CNC machines running grbl, TinyG, or other G-code-based firmware.
+*   [Universal-G-Code-Sender (⭐1.7k)](https://github.com/winder/Universal-G-Code-Sender) - Java-based grbl-compatible cross-platform G-code sender.
 *   [ChiliPeppr Hardware Fiddle](http://chilipeppr.com) - Modular web-based workspaces to visualize G-code and control hardware.
 
-### Software / Plotter-Specific
+### Software / Plotter Control
 
-*   [axi (⭐245)](https://github.com/fogleman/axi) - Unofficial Python library for the AxiDraw v3.
-*   [xy (⭐67)](https://github.com/fogleman/xy) - Utilities for the Makeblock XY Plotter Robot Kit.
-*   [LaserGRBL (⭐977)](https://github.com/arkypita/LaserGRBL) - Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements.
-*   [PenPlotter (⭐108)](https://github.com/RickMcConney/PenPlotter) - Polargraph controller that uses repetier firmware.
-*   [Makelangelo-firmware (⭐147)](https://github.com/MarginallyClever/Makelangelo-firmware) - Firmware for the Makelangelo polargraph robot.
-*   [RoboPaint (⭐117)](https://github.com/evil-mad/robopaint) - Software for the WaterColorBot.
-*   [AxiTurtle (⭐12)](https://github.com/ralphcrutzen/AxiTurtle) - Turtle graphics for AxiDraw in Processing.
-*   [GRBL-Plotter (⭐507)](https://github.com/svenhb/GRBL-Plotter) - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.
-*   [saxi (⭐396)](https://github.com/nornagon/saxi) - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.
+*   [axi (⭐261)](https://github.com/fogleman/axi) - Unofficial Python library for the AxiDraw v3.
+*   [xy (⭐68)](https://github.com/fogleman/xy) - Utilities for the Makeblock XY Plotter Robot Kit.
+*   [LaserGRBL (⭐1k)](https://github.com/arkypita/LaserGRBL) - Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements.
+*   [PenPlotter (⭐111)](https://github.com/RickMcConney/PenPlotter) - Polargraph controller that uses repetier firmware.
+*   [Makelangelo-firmware (⭐151)](https://github.com/MarginallyClever/Makelangelo-firmware) - Firmware for the Makelangelo polargraph robot.
+*   [RoboPaint (⭐122)](https://github.com/evil-mad/robopaint) - Software for the WaterColorBot.
+*   [AxiTurtle (⭐13)](https://github.com/ralphcrutzen/AxiTurtle) - Turtle graphics for AxiDraw in Processing.
+*   [GRBL-Plotter (⭐552)](https://github.com/svenhb/GRBL-Plotter) - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.
+*   [saxi (⭐420)](https://github.com/nornagon/saxi) - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.
 
 ### Software / Vector Creation
 
@@ -326,36 +317,36 @@
 *   [p5.js](https://p5js.org) - "JavaScript library that makes coding accessible for artists, designers, educators, and beginners".
 *   [Paper.js](http://paperjs.org) - "The Swiss Army Knife of Vector Graphics Scripting".
 *   [ln (⭐3.2k)](https://github.com/fogleman/ln) - Vector-based 3D renderer written in Go.
-*   [autotrace (⭐373)](https://github.com/autotrace/autotrace) - Converts bitmap images to vector graphics.
-*   [stipplegen (⭐382)](https://github.com/evil-mad/stipplegen) - Creates interesting stippled drawings from bitmap images. ([blog post](https://www.evilmadscientist.com/2012/stipplegen2))
-*   [SquiggleDraw (⭐294)](https://github.com/gwygonik/SquiggleDraw/commits/master) - "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves".
+*   [autotrace (⭐406)](https://github.com/autotrace/autotrace) - Converts bitmap images to vector graphics.
+*   [stipplegen (⭐392)](https://github.com/evil-mad/stipplegen) - Creates interesting stippled drawings from bitmap images. ([blog post](https://www.evilmadscientist.com/2012/stipplegen2))
+*   [SquiggleDraw (⭐301)](https://github.com/gwygonik/SquiggleDraw/commits/master) - "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves".
 *   [svgurt](https://svgurt.com) - Web-based PNG to SVG creative noodler.
-*   [maptrace (⭐117)](https://github.com/mzucker/maptrace) - Produce watertight polygonal vector maps by tracing raster images.
-*   [Drawbot\_image\_to\_gcode\_v2 (⭐141)](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) - Creates G-code for use on drawbots.
-*   [blackstripes (⭐87)](https://github.com/fullscreennl/blackstripes-python-extensions) - Turns a PNG image into a SVG line drawing.
-*   [Ribbon (⭐229)](https://github.com/fogleman/ribbon) - Ribbon diagrams of proteins in written in Go.
+*   [maptrace (⭐119)](https://github.com/mzucker/maptrace) - Produce watertight polygonal vector maps by tracing raster images.
+*   [Drawbot\_image\_to\_gcode\_v2 (⭐147)](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) - Creates G-code for use on drawbots.
+*   [blackstripes (⭐88)](https://github.com/fullscreennl/blackstripes-python-extensions) - Turns a PNG image into a SVG line drawing.
+*   [Ribbon (⭐235)](https://github.com/fogleman/ribbon) - Ribbon diagrams of proteins in written in Go.
 *   [penplot (⭐262)](https://github.com/mattdesl/penplot) - A development environment for plotter art in JavaScript.
 *   [penkit (⭐130)](https://github.com/paulgb/penkit) - A Python library for creating line-based SVG graphics.
-*   [generativeExamples (⭐59)](https://github.com/digitalcoleman/generativeExamples) - Example Processing code that generates plottable PDFs.
+*   [generativeExamples (⭐60)](https://github.com/digitalcoleman/generativeExamples) - Example Processing code that generates plottable PDFs.
 *   [Let's make map](https://svg-exporter.netlify.com) - Web-based tool to export an SVG map from Mapzen tiles.
 *   [SuperformulaSVG for web](https://jasonwebb.github.io/SuperformulaSVG-for-web) - A generative line art web app.
-*   [scribbleplot (⭐40)](https://github.com/bleeptrack/scribbleplot) - Scribbly image transformations in Processing.
+*   [scribbleplot (⭐44)](https://github.com/bleeptrack/scribbleplot) - Scribbly image transformations in Processing.
 *   [Maker.js](https://maker.js.org) - Library for creating 2D vector drawings for CNC and laser cutter machines.
 *   [Turtletoy](https://turtletoy.net) - Browser-based JavaScript turtle graphics API with SVG export.
 
 ### Software / Vector Utilities
 
-*   [svgsort (⭐230)](https://github.com/inconvergent/svgsort) - Path planning for plotting SVG files, reduces time spent moving with the pen up.
-*   [svgo (⭐19k)](https://github.com/svg/svgo) - Node.js-based tool for optimizing SVG files.
-*   [Polargraph Optimizer (⭐56)](https://github.com/ezheidtmann/polargraph-optimizer) - Optimize drawing plan for a polargraph.
+*   [svgsort (⭐236)](https://github.com/inconvergent/svgsort) - Path planning for plotting SVG files, reduces time spent moving with the pen up.
+*   [svgo (⭐20k)](https://github.com/svg/svgo) - Node.js-based tool for optimizing SVG files.
+*   [Polargraph Optimizer (⭐57)](https://github.com/ezheidtmann/polargraph-optimizer) - Optimize drawing plan for a polargraph.
 *   [penkit-optimize (⭐130)](https://github.com/paulgb/penkit/tree/master/optimizer) - An SVG optimizer that uses a vehicle routing solver to minimize plot time.
-*   [svg-crowbar (⭐835)](https://github.com/NYTimes/svg-crowbar) - Chrome-only bookmarklet for extracting SVG from an HTML document.
+*   [svg-crowbar (⭐837)](https://github.com/NYTimes/svg-crowbar) - Chrome-only bookmarklet for extracting SVG from an HTML document.
 
 ### Software / Fonts
 
 *   [Summary of single line fonts](http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml) - Good information and links to other resources and fonts.
 *   [Hershey Vector Font](http://paulbourke.net/dataformats/hershey) - `.fnt` format of vector fonts from the 60s. Includes a good overview of the original data format of the fonts.
-*   [hershey-fonts (⭐48)](https://github.com/kamalmostafa/hershey-fonts) - C library and original font data for the Hershey fonts.
+*   [hershey-fonts (⭐49)](https://github.com/kamalmostafa/hershey-fonts) - C library and original font data for the Hershey fonts.
 
 ### Inspiration, Instruction, and Research / Fonts
 
@@ -386,7 +377,7 @@
 
 ### Mod Loaders / Archives
 
-*   [RopeMC (⭐5)](https://github.com/RopeMC/RopeMC) - A lightweight, reflection based mod loader which aims to be user friendly and later version independent.
+*   [RopeMC (⭐8)](https://github.com/RopeMC/RopeMC) - A lightweight, reflection based mod loader which aims to be user friendly and later version independent.
 
 ## [15. Awesome Kde](/content/francoism90/awesome-kde/README.md)
 
@@ -442,23 +433,23 @@
 
 ### Frameworks, Libraries and Tools / Bot
 
-*   [BotSharp (⭐1.3k)](https://github.com/SciSharp/BotSharp) - The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm.
-*   [Telegram.Bot (⭐2.4k)](https://github.com/TelegramBots/Telegram.Bot) - C# Telegram Bot API library.
-*   [Funogram (⭐81)](https://github.com/Dolfik1/Funogram) - F# Telegram Bot Api library.
+*   [BotSharp (⭐1.6k)](https://github.com/SciSharp/BotSharp) - The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm.
+*   [Telegram.Bot (⭐2.8k)](https://github.com/TelegramBots/Telegram.Bot) - C# Telegram Bot API library.
+*   [Funogram (⭐94)](https://github.com/Dolfik1/Funogram) - F# Telegram Bot Api library.
 
 ### Frameworks, Libraries and Tools / Build Automation
 
-*   [cake-build (⭐3.4k)](https://github.com/cake-build/cake) - Cross platform build automation system.
+*   [cake-build (⭐3.7k)](https://github.com/cake-build/cake) - Cross platform build automation system.
 *   [Colorful.Console (⭐1.2k)](https://github.com/tomakita/Colorful.Console) - Style your C# console output!
 
 ### Frameworks, Libraries and Tools / Distributed Computing
 
-*   [AspNetCore.Diagnostics.HealthChecks (⭐3.1k)](https://github.com/xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
-    *   [BeatPulse (⭐613)](https://github.com/Xabaril/BeatPulse) - Enable load balancers to montior the status of deployed Web applications
+*   [AspNetCore.Diagnostics.HealthChecks (⭐3.7k)](https://github.com/xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
+    *   [BeatPulse (⭐606)](https://github.com/Xabaril/BeatPulse) - Enable load balancers to montior the status of deployed Web applications
 
 ### Frameworks, Libraries and Tools / Security
 
-*   [JWT Simple Server (⭐190)](https://github.com/Xabaril/JWTSimpleServer) - A lightweight, dynamic jwt server for ASP.NET Core.
+*   [JWT Simple Server (⭐191)](https://github.com/Xabaril/JWTSimpleServer) - A lightweight, dynamic jwt server for ASP.NET Core.
 
 ## [18. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -484,7 +475,7 @@
 
 ### Text - Metadata/Text
 
-*   **Personality Detection** - Predict personality based on user documents (sentences). [Download (⭐15)](https://github.com/novinfard/profiler-sentiment-analysis/tree/master/ios_app/ProfilerSA/ML%20Models) | [Demo (⭐15)](https://github.com/novinfard/profiler-sentiment-analysis/) | [Reference (⭐15)](https://github.com/novinfard/profiler-sentiment-analysis/blob/master/dissertation-v6.pdf)
+*   **Personality Detection** - Predict personality based on user documents (sentences). [Download (⭐17)](https://github.com/novinfard/profiler-sentiment-analysis/tree/master/ios_app/ProfilerSA/ML%20Models) | [Demo (⭐17)](https://github.com/novinfard/profiler-sentiment-analysis/) | [Reference (⭐17)](https://github.com/novinfard/profiler-sentiment-analysis/blob/master/dissertation-v6.pdf)
 
 ### Miscellaneous
 
@@ -494,23 +485,23 @@
 
 ### Programming Languages
 
-*   [Q# (⭐139)](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
+*   [Q# (⭐146)](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
 
 ### Gaming
 
-*   [Minecraft (⭐319)](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
+*   [Minecraft (⭐351)](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
 
 ### Databases
 
-*   [NoSQL Guides (⭐213)](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
+*   [NoSQL Guides (⭐227)](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
 
 ### Learn
 
-*   [CSS Learning (⭐2.9k)](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
+*   [CSS Learning (⭐3.1k)](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
 
 ### Miscellaneous
 
-*   [Board Games (⭐217)](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
+*   [Board Games (⭐244)](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
 
 ## [22. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
 

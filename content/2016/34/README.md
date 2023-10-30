@@ -180,8 +180,8 @@ git config --global alias.undo '!f() { git reset --hard $(git rev-parse --abbrev
 ### Material Design
 
 *   [md2](https://www.npmjs.com/package/md2) Angular2 based Material Design components, directives and services are Accordion, Autocomplete, Collapse, Colorpicker, Datepicker, Dialog(Modal), Menu, Multiselect, Select, Switch, Tabs, Tags(Chips), Toast and Tooltip.
-*   [ng2-material](https://www.npmjs.com/package/ng2-material) set of material2 examples and extra components (data table, dialog, ...) built on top of @angular2-material/core
-*   [angular2-mdl](https://www.npmjs.com/package/angular2-mdl) Angular 2 components, directives and styles based on Material Design Lite
+*   [ng2-material](https://www.npmjs.com/package/ng2-material) set of material2 examples and extra components (data table, dialog, ...) built on top of @angular2-material/core.
+*   [angular2-mdl](https://www.npmjs.com/package/angular2-mdl) Angular 2 components, directives and styles based on Material Design Lite.
 
 ## [14. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -339,7 +339,7 @@ Free
 
 ### How do I contribute to this list? / Other Types of Support
 
-*   **Familiar with GitHub?** Send a pull request with your suggestions. Please also see the [contribution guidelines (⭐155)](https://github.com/dylanrees/toolsforcitizenscience/blob/master/contributing.md).
+*   **Familiar with GitHub?** Send a pull request with your suggestions. Please also see the [contribution guidelines (⭐202)](https://github.com/dylanrees/toolsforcitizenscience/blob/master/contributing.md).
 *   **Not familiar with GitHub?** You can leave a comment on this page by clicking on the `Issues` tab on the right and adding a New Issue (that's just like a comment). You'll need to create a GitHub account first.
 
 ## [21. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
@@ -534,35 +534,41 @@ Free
 
 *   [Efficiency (⭐118)](https://github.com/x-raizor/Efficiency)
 
-## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [34. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Go / Phoenix
+
+*   [Web apps in Go, the anti textbook (⭐3.1k)](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
+
+## [35. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Kit / Barcode
 
-*   [C4iOS (⭐973)](https://github.com/C4Labs/C4iOS) - Harnesses the power of native iOS programming with a simplified API.
+*   [C4iOS (⭐977)](https://github.com/C4Labs/C4iOS) - Harnesses the power of native iOS programming with a simplified API.
 
-## [35. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [36. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### Python tools / Misc
 
 *   [diagram (⭐394)](https://github.com/tehmaze/diagram) - Text mode diagrams using UTF-8 characters
 
-## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [37. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Cryptography
 
-*   [aescmac (⭐8)](https://github.com/kleinernik/elixir-aes-cmac) - AES CMAC ([RFC 4493](https://tools.ietf.org/html/rfc4493)) in Elixir.
+*   [aescmac (⭐9)](https://github.com/kleinernik/elixir-aes-cmac) - AES CMAC ([RFC 4493](https://tools.ietf.org/html/rfc4493)) in Elixir.
 
 ### Third Party APIs
 
 *   [honeywell (⭐0)](https://github.com/jeffutter/honeywell-elixir) - A client for the Honeywell Lyric, Round and Water Leak & Freeze Detector APIs.
-*   [particle (⭐4)](https://github.com/jeffutter/particle-elixir) - An Elixir client for the Particle IoT platform's HTTP API.
+*   [particle (⭐5)](https://github.com/jeffutter/particle-elixir) - An Elixir client for the Particle IoT platform's HTTP API.
 *   [random\_user (⭐7)](https://github.com/katgironpe/random_user) - An Elixir client for randomuser.me API.
 
 ### Translations and Internationalizations
 
-*   [trans (⭐211)](https://github.com/belaustegui/trans) - A Elixir library to manage embedded translations into models leveraging PostgreSQL JSONB datatype.
+*   [trans (⭐220)](https://github.com/belaustegui/trans) - A Elixir library to manage embedded translations into models leveraging PostgreSQL JSONB datatype.
 
-## [37. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [38. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Essentials
 
@@ -639,7 +645,7 @@ Free
 
 *   Make sure the Travis tests pass on your pull request
 
-## [38. Amas](/content/sindresorhus/amas/week/README.md)
+## [39. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
@@ -648,7 +654,7 @@ Free
 *   [Sam Verschueren (⭐3)](https://github.com/SamVerschueren/ama) - Full stack JavaScript developer and open source contributor.
 *   [Haroen Viaene (⭐0)](https://github.com/Haroenv/ama) - Student mostly doing JS, open source everything, creating :cow::poop: at [bullgit](https://bullg.it).
 
-## [39. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
+## [40. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
 ### Editors
 
@@ -664,7 +670,7 @@ Free
 *   [Code.org](https://code.org/) - Every student in every school should have the opportunity to learn computer science.
 *   [Codecademy](https://www.codecademy.com/) - Learn to code interactively, for free.
 
-## [40. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [41. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### IDE
 
@@ -672,24 +678,24 @@ Free
 
 ### Misc
 
-*   [Aeron.NET (⭐451)](https://github.com/AdaptiveConsulting/Aeron.NET) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport - .NET port of Aeron
-*   [TypeShape (⭐271)](https://github.com/eiriktsarpalis/TypeShape) - TypeShape is a small, extensible F# library for practical generic programming
+*   [Aeron.NET (⭐459)](https://github.com/AdaptiveConsulting/Aeron.NET) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport - .NET port of Aeron
+*   [TypeShape (⭐273)](https://github.com/eiriktsarpalis/TypeShape) - TypeShape is a small, extensible F# library for practical generic programming
 
 ### Serialization
 
-*   [Migrant (⭐46)](https://github.com/antmicro/Migrant) - Fast and flexible serialization framework usable on undecorated classes.
+*   [Migrant (⭐45)](https://github.com/antmicro/Migrant) - Fast and flexible serialization framework usable on undecorated classes.
 
 ### Source Generator
 
-*   [Awesome .NET Core (⭐18k)](https://github.com/thangchung/awesome-dotnet-core) - A collection of awesome .NET core libraries, tools, frameworks and software
+*   [Awesome .NET Core (⭐19k)](https://github.com/thangchung/awesome-dotnet-core) - A collection of awesome .NET core libraries, tools, frameworks and software
 
-## [41. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [42. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
 *   [crystal-linked-list (⭐12)](https://github.com/abvdasker/crystal-linked-list) - Implementation of Linked List
 
-## [42. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+## [43. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
 ### Videos
 
@@ -699,7 +705,7 @@ Free
 
 *   [Stitch (⭐144)](https://github.com/mattsjohnston/stitch) - Lightweight framework for adding interaction to your Framer prototypes directly from your Sketch designs.
 
-## [43. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [44. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Progressive web apps / Service Workers
 
@@ -709,17 +715,11 @@ Free
 
 *   [Offline Storage for Progressive Web Apps (article by Addy Osmani)](https://medium.com/dev-channel/offline-storage-for-progressive-web-apps-70d52695513c#.jsbxgywzz)
 
-## [44. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [45. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Scala / General-Purpose Machine Learning
 
 *   [SwiftLearner (⭐39)](https://github.com/valdanylchuk/swiftlearner/) - Simply written algorithms to help study ML or write your own implementations.
-
-## [45. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
-
-### Testing
-
-*   [packagecloud (⭐26)](https://github.com/phalcongelist/packagecloud) - Phalcon distribution hosted on PackageCloud
 
 ## [46. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -764,7 +764,7 @@ Free
 
 ### Python / Data Sources
 
-*   [findatapy (⭐1.3k)](https://github.com/cuemacro/findatapy) - Python library to download market data via Bloomberg, Quandl, Yahoo etc.
+*   [findatapy (⭐1.5k)](https://github.com/cuemacro/findatapy) - Python library to download market data via Bloomberg, Quandl, Yahoo etc.
 
 ## [52. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
@@ -790,7 +790,7 @@ Free
 
 ### Frameworks, Libraries and Tools / Bundling and Minification
 
-*   [Smidge (⭐313)](https://github.com/Shazwazza/Smidge/) - Lightweight runtime CSS/JavaScript file minification, combination, compression & management library for ASP.NET Core.
+*   [Smidge (⭐344)](https://github.com/Shazwazza/Smidge/) - Lightweight runtime CSS/JavaScript file minification, combination, compression & management library for ASP.NET Core.
 
 ### Frameworks, Libraries and Tools / Logging
 
@@ -798,19 +798,19 @@ Free
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [datatables (⭐295)](https://github.com/ALMMa/datatables.aspnet/tree/dev) - Microsoft ASP.NET server-side support and helpers for jQuery DataTables.
+*   [datatables (⭐303)](https://github.com/ALMMa/datatables.aspnet/tree/dev) - Microsoft ASP.NET server-side support and helpers for jQuery DataTables.
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [RawRabbit (⭐723)](https://github.com/pardahlman/RawRabbit) - Modern .NET framework for communication over RabbitMq.
+*   [RawRabbit (⭐737)](https://github.com/pardahlman/RawRabbit) - Modern .NET framework for communication over RabbitMq.
 
 ### Frameworks, Libraries and Tools / Security
 
-*   [HtmlSanitizer (⭐1.3k)](https://github.com/mganss/HtmlSanitizer) - Cleans HTML to avoid XSS attacks.
+*   [HtmlSanitizer (⭐1.4k)](https://github.com/mganss/HtmlSanitizer) - Cleans HTML to avoid XSS attacks.
 
 ### Frameworks, Libraries and Tools / Searching
 
-*   [Elasticsearch.Net & NEST (⭐3.3k)](https://github.com/elastic/elasticsearch-net) - Repository for both NEST and Elasticsearch.NET, the two official elasticsearch .NET clients.
+*   [Elasticsearch.Net & NEST (⭐3.5k)](https://github.com/elastic/elasticsearch-net) - Repository for both NEST and Elasticsearch.NET, the two official elasticsearch .NET clients.
 
 ### Books / Workflow
 

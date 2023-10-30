@@ -16,7 +16,7 @@
 
 ### Security / Tools
 
-*   [goss (⭐4.9k)](https://github.com/aelsabbahy/goss)\
+*   [goss (⭐5.2k)](https://github.com/aelsabbahy/goss)\
     Quick and Easy server testing/validation.
 
 ### Security / Links
@@ -75,11 +75,11 @@
 
 ### GTFS Realtime Libraries & Demo Apps / Ruby
 
-*   [gtfs-realtime-bindings (⭐321)](https://github.com/google/gtfs-realtime-bindings) - The official bindings for Java, .NET, Node.js, Python, and Ruby generated from the official [GTFS-realtime protocol buffer specification (⭐414)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto).
+*   [gtfs-realtime-bindings (⭐332)](https://github.com/google/gtfs-realtime-bindings) - The official bindings for Java, .NET, Node.js, Python, and Ruby generated from the official [GTFS-realtime protocol buffer specification (⭐446)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto).
 
 ### GTFS Realtime (and Other Real-time API) Archival Tools / Ruby
 
-*   [gtfsrdb (⭐33)](https://github.com/CUTR-at-USF/gtfsrdb) - A Python tool that supports reading and archiving GTFS-realtime feeds into a database
+*   [gtfsrdb (⭐35)](https://github.com/CUTR-at-USF/gtfsrdb) - A Python tool that supports reading and archiving GTFS-realtime feeds into a database
 
 ### SIRI / Ruby
 
@@ -89,17 +89,13 @@
 
 ## [11. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
-### Design
-
-*   [Krop](https://www.krop.com/creative-jobs/)
-
 ### Remote / Aggregator
 
 *   [whoishiring.io](https://whoishiring.io/)
 
 ## [12. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
-### United States 🇺🇸 / California   <a id="california">  </a>
+### United States 🇺🇸 / California <a id="california"></a>
 
 #### Arbor Cafe
 
@@ -306,7 +302,7 @@ git checkout master@{yesterday}
 
 ### Other
 
-*   [package-size (⭐417)](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
+*   [package-size (⭐422)](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
 
 ## [30. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -421,11 +417,11 @@ $ git config --global merge.tool meld
 
 ### Testing
 
-*   [double (⭐44)](https://github.com/sonerdy/double) - Create stub dependencies for testing without overwriting global modules.
+*   [double (⭐45)](https://github.com/sonerdy/double) - Create stub dependencies for testing without overwriting global modules.
 
 ### Utilities
 
-*   [mnemonix (⭐36)](https://github.com/christhekeele/mnemonix) - A unified interface to key/value stores.
+*   [mnemonix (⭐38)](https://github.com/christhekeele/mnemonix) - A unified interface to key/value stores.
 
 ## [36. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -475,7 +471,7 @@ $ git config --global merge.tool meld
 
 ### Packages / Utilities
 
-*   [Audion (⭐322)](https://github.com/google/audion) - Chrome extension that adds a Web Audio panel to Developer Tools.
+*   [Audion (⭐339)](https://github.com/google/audion) - Chrome extension that adds a Web Audio panel to Developer Tools.
 
 ## [41. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
@@ -491,15 +487,15 @@ $ git config --global merge.tool meld
 
 ### Frameworks, Libraries and Tools / Caching
 
-*   [CacheManager (⭐2.2k)](https://github.com/MichaCo/CacheManager) - Open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features. <http://cachemanager.michaco.net>
+*   [CacheManager (⭐2.3k)](https://github.com/MichaCo/CacheManager) - Open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features. <http://cachemanager.michaco.net>
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Enums.NET (⭐1.4k)](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET is a high-performance type-safe .NET enum utility library
+*   [Enums.NET (⭐1.5k)](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET is a high-performance type-safe .NET enum utility library
 
 ### Frameworks, Libraries and Tools / Testing
 
-*   [NSpec (⭐249)](https://github.com/nspec/NSpec) - Battle hardened testing framework for C# that's heavily inspired by Mocha and RSpec.
+*   [NSpec (⭐255)](https://github.com/nspec/NSpec) - Battle hardened testing framework for C# that's heavily inspired by Mocha and RSpec.
 
 ## [43. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
@@ -513,7 +509,7 @@ $ git config --global merge.tool meld
 ### Developer
 
 *   [Dash](https://kapeli.com/dash) - Allows you to query Dash for Developer Documentation.
-*   [DevDocs (⭐637)](https://github.com/yannickglt/alfred-devdocs) - An Alternative to Dash. Allows you query [devdocs.io](https://devdocs.io/) for documentation.
+*   [DevDocs (⭐638)](https://github.com/yannickglt/alfred-devdocs) - An Alternative to Dash. Allows you query [devdocs.io](https://devdocs.io/) for documentation.
 
 ### Text Manipulation
 
@@ -521,7 +517,7 @@ $ git config --global merge.tool meld
 
 ### Scientific
 
-*   [Scientific Workflow (⭐102)](https://github.com/andrewning/alfred-workflows-scientific) - Workflows that are useful for scientists: e.g. LaTeX, importing references in bibtex.
+*   [Scientific Workflow (⭐103)](https://github.com/andrewning/alfred-workflows-scientific) - Workflows that are useful for scientists: e.g. LaTeX, importing references in bibtex.
 
 ### Miscellaneous
 
@@ -529,7 +525,7 @@ $ git config --global merge.tool meld
 
 ### System
 
-*   [Swift Windows Switcher (⭐325)](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs.
+*   [Swift Windows Switcher (⭐328)](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs.
 
 ## [45. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 

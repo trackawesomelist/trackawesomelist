@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 18, 2019
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -23,69 +23,63 @@
 
 ### Resources / Learning
 
-*   [Nix Notes (⭐47)](https://github.com/noteed/nix-notes) - A collection of short notes about Nix, each contributing to the same virtual machine image.
+*   [Nix Notes (⭐49)](https://github.com/noteed/nix-notes) - A collection of short notes about Nix, each contributing to the same virtual machine image.
 
-## [4. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
-
-### Services
-
-*   [Temporal](https://temporal.cloud) - Scalable IPFS Infrastructure with free starter package featuring turnkey APIs, toolkits and storage.
-
-## [5. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [4. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Seeds / Navigation Demos
 
 *   [react-native-community-maps ★3 (⭐14)](https://github.com/yonahforst/react-native-community-maps) - Boilerplate app for browsing user-generated photos on a map
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Design and UI
 
-*   [Proto.io](https://www.proto.io) - Create fully interactive UI prototypes without coding. Free tier available when free trial ends. Free tier includes: 1 user, 1 project, 5 prototypes, 100MB online storage and preview in proto.io app.
+*   [Proto.io](https://www.proto.io) - Create fully interactive UI prototypes without coding. The free tier is available when the free trial ends. The free tier includes one user, one project, five prototypes, 100MB of online storage, and a preview of the proto.io app.
 
-## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Graphical User Interface / MIT
+### Graphical User Interface / Apache License
 
-*   [gwindows (⭐15)](https://github.com/zertovitch/gwindows) - GNU Ada Visual Interface.
+*   [gwindows (⭐16)](https://github.com/zertovitch/gwindows) - GNU Ada Visual Interface.
 
-### 3D / MIT
+### 3D / Apache License
 
-*   [globe-3d (⭐13)](https://github.com/zertovitch/globe-3d) - GL Object Based Engine for 3D.
+*   [globe-3d (⭐16)](https://github.com/zertovitch/globe-3d) - GL Object Based Engine for 3D.
 
-### Math / MIT
+### Math / Apache License
 
 *   [mathpaqs (⭐10)](https://github.com/zertovitch/mathpaqs) - Mathpaqs is a collection of mathematical, 100% portable, packages in the Ada programming language.
 
-### Format Readers and Writers / MIT
+### Format Readers and Writers / Apache License
 
 *   [ini-files (⭐5)](https://github.com/zertovitch/ini-files) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
 *   [excel-writer (⭐6)](https://github.com/zertovitch/excel-writer) - Create Excel files with basic formats.
-*   [generic-image-decoder (⭐14)](https://github.com/zertovitch/gid) - Multi-format image decoder library for Ada.
+*   [generic-image-decoder (⭐13)](https://github.com/zertovitch/gid) - Multi-format image decoder library for Ada.
 *   [ada-pdf-writer (⭐13)](https://github.com/zertovitch/ada-pdf-writer) - Ada package for producing easily and automatically PDF files, from an Ada program, with text, vector graphics, images (JPEG).
 *   [ada-bar-codes (⭐12)](https://github.com/zertovitch/ada-bar-codes) - Ada Bar Codes provides a package for generating various types of bar codes (1D, or 2D like QR codes) on different output formats, such as PDF or SVG.
 
-### Office / MIT
+### Office / Apache License
 
-*   [azip (⭐6)](https://github.com/zertovitch/azip) - A free, portable Zip Archive Manager.
+*   [azip (⭐7)](https://github.com/zertovitch/azip) - A free, portable Zip Archive Manager.
 *   [texcad (⭐4)](https://github.com/zertovitch/texcad) - TeXCAD is a program for drawing or retouching {picture}s in LaTeX.
-*   [cbsg (⭐5)](https://github.com/zertovitch/cbsg) - The Corporate Bullshit Generator.
+*   [cbsg (⭐7)](https://github.com/zertovitch/cbsg) - The Corporate Bullshit Generator.
 
-### Web / MIT
+### Web / Apache License
 
 *   [wasabee (⭐7)](https://github.com/zertovitch/wasabee) - A Web browser with safety focus.
 
-### Generators and Translators / MIT
+### Generators and Translators / Apache License
 
 *   [pascal-to-ada (⭐11)](https://github.com/zertovitch/pascal-to-ada) - A Pascal to Ada translator.
 
-## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Audio
 
-*   [SwiftAudioPlayer (⭐455)](https://github.com/tanhakabir/SwiftAudioPlayer) - Simple audio player for iOS that streams and performs realtime audio manipulations with AVAudioEngine.
+*   [SwiftAudioPlayer (⭐499)](https://github.com/tanhakabir/SwiftAudioPlayer) - Simple audio player for iOS that streams and performs realtime audio manipulations with AVAudioEngine.
 
-## [9. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
+## [8. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 
 ### Research Papers / RFID NFC Tools
 
@@ -98,7 +92,7 @@
 
 *   [Deadly Sins Of Development](https://youtu.be/nXyglaY9N9w) - Conference talk presenting several real world examples on real bad implementations :tv:.
 
-## [10. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
+## [9. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
 ### Papers / ACM Conference on Computer and Communications Security (ACM CCS)
 

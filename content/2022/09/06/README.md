@@ -28,7 +28,7 @@
 
 ### Related Awesome Lists / Galleries
 
-*   \[🔥] [altryne/awesome-ai-art-image-synthesis (⭐1.5k)](https://github.com/altryne/awesome-ai-art-image-synthesis): A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
+*   \[🔥] [altryne/awesome-ai-art-image-synthesis (⭐1.6k)](https://github.com/altryne/awesome-ai-art-image-synthesis): A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
 
 ## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -38,23 +38,23 @@
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [command-not-found (freed-wu) (⭐4)](https://github.com/Freed-Wu/zsh-command-not-found) - Uses the command-not-found package for zsh to provide suggested packages to be installed if a command cannot be found.
-*   [command-not-found (tarrasch) (⭐22)](https://github.com/Tarrasch/zsh-command-not-found) - A mirror of the [oh-my-zsh](https://ohmyz.sh) [command-not-found (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/command-not-found) plugin so you don't have to include all of oh-my-zsh.
+*   [command-not-found (freed-wu) (⭐3)](https://github.com/Freed-Wu/zsh-command-not-found) - Uses the command-not-found package for zsh to provide suggested packages to be installed if a command cannot be found.
+*   [command-not-found (tarrasch) (⭐22)](https://github.com/Tarrasch/zsh-command-not-found) - A mirror of the [oh-my-zsh](https://ohmyz.sh) [command-not-found (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/command-not-found) plugin so you don't have to include all of oh-my-zsh.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### CI and CD
 
-*   [microtica.com](https://microtica.com/) - Spin up environments with ready-made infrastructure components, deploy apps on AWS for free and support your production workloads. The free tier includes 1 Environment (on your AWS account), 2 Kubernetes Services, 100 build minutes per month, and 20 deployments per month.
+*   [microtica.com](https://microtica.com/) - Startup environments with ready-made infrastructure components, deploy apps on AWS for free, and support your production workloads. The free tier includes 1 Environment (on your AWS account), 2 Kubernetes Services, 100 build minutes per month, and 20 monthly deployments.
 
 ## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Game Development
 
 *   [jme-clj (⭐121)](https://github.com/ertugrulcetin/jme-clj) - A Clojure 3D Game Engine (Wrapper), Powered by jMonkeyEngine
-*   [play-cljc (⭐482)](https://github.com/oakes/play-cljc) - A Clojure and ClojureScript game library
+*   [play-cljc (⭐486)](https://github.com/oakes/play-cljc) - A Clojure and ClojureScript game library
 
 ## [7. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -66,17 +66,17 @@
 
 ### Standalone Tools / Misc
 
-*   [steam-desktop-authenticator-multiplatform (⭐5)](https://github.com/tre3p/steam-desktop-authenticator-multiplatform) - Steam desktop authenticator.
+*   [steam-desktop-authenticator-multiplatform (⭐8)](https://github.com/tre3p/steam-desktop-authenticator-multiplatform) - Steam desktop authenticator.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-share-modal (⭐7)](https://github.com/sttatusx/vue-share-modal) - A pure, lightweight, and beautiful share modal for Vue 3.
+*   [vue-share-modal (⭐8)](https://github.com/sttatusx/vue-share-modal) - A pure, lightweight, and beautiful share modal for Vue 3.
 
 ### Components & Libraries / Runtime
 
-*   [temir (⭐983)](https://github.com/webfansplz/temir) - Vue for interactive command-line apps
+*   [temir (⭐1k)](https://github.com/webfansplz/temir) - Vue for interactive command-line apps
 
 ## [10. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -93,7 +93,7 @@
 
 ### Formatting / Diagnostics
 
-*   [MunifTanjim/prettier.nvim (⭐174)](https://github.com/MunifTanjim/prettier.nvim) - Prettier integration.
+*   [MunifTanjim/prettier.nvim (⭐230)](https://github.com/MunifTanjim/prettier.nvim) - Prettier integration.
 
 ---
 

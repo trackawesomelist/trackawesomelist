@@ -54,32 +54,32 @@
 
 ### Functional Programming / Runner
 
-*   [fxts (⭐601)](https://github.com/marpple/FxTS) - Lazy evaluation and concurrency.
+*   [fxts (⭐652)](https://github.com/marpple/FxTS) - Lazy evaluation and concurrency.
 
 ## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Database
 
-*   [Databend (⭐6k)](https://github.com/datafuselabs/databend) - A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture [![Release](https://github.com/datafuselabs/databend/actions/workflows/databend-release.yml/badge.svg)](https://github.com/datafuselabs/databend/actions/workflows/databend-release.yml)
+*   [Databend (⭐6.6k)](https://github.com/datafuselabs/databend) - A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture [![Release](https://github.com/datafuselabs/databend/actions/workflows/databend-release.yml/badge.svg)](https://github.com/datafuselabs/databend/actions/workflows/databend-release.yml)
 
 ### Development tools / Web Servers
 
-*   [fw (⭐469)](https://github.com/brocode/fw) — workspace productivity booster [![Rust](https://github.com/brocode/fw/actions/workflows/rust.yml/badge.svg)](https://github.com/brocode/fw/actions/workflows/rust.yml)
+*   [fw (⭐499)](https://github.com/brocode/fw) — workspace productivity booster [![Rust](https://github.com/brocode/fw/actions/workflows/rust.yml/badge.svg)](https://github.com/brocode/fw/actions/workflows/rust.yml)
 
 ### Libraries / Command-line
 
 *   Argument parsing
-    *   [clap-rs (⭐11k)](https://github.com/clap-rs/clap) \[[clap](https://crates.io/crates/clap)] — A simple to use, full featured command-line argument parser
+    *   [clap-rs (⭐12k)](https://github.com/clap-rs/clap) \[[clap](https://crates.io/crates/clap)] — A simple to use, full featured command-line argument parser
     *   [cliparser](https://crates.io/crates/cliparser) — Simple command line parser. [![build badge](https://github.com/sagiegurari/cliparser/workflows/CI/badge.svg?branch=master)](https://github.com/sagiegurari/cliparser/actions)
-    *   [docopt/docopt.rs (⭐753)](https://github.com/docopt/docopt.rs) \[[docopt](https://crates.io/crates/docopt)] — A Rust implementation of [DocOpt](http://docopt.org)
+    *   [docopt/docopt.rs (⭐752)](https://github.com/docopt/docopt.rs) \[[docopt](https://crates.io/crates/docopt)] — A Rust implementation of [DocOpt](http://docopt.org)
     *   [google/argh (⭐1.4k)](https://github.com/google/argh) \[[argh](https://crates.io/crates/argh)] — An opinionated Derive-based argument parser optimized for code size [![build badge](https://github.com/google/argh/workflows/Argh/badge.svg?branch=master)](https://github.com/google/argh/actions)
     *   [killercup/quicli (⭐544)](https://github.com/killercup/quicli) \[[quicli](https://crates.io/crates/quicli)] — quickly build cool CLI apps in Rust
-    *   [ksk001100/seahorse (⭐233)](https://github.com/ksk001100/seahorse) \[[seahorse](https://crates.io/crates/seahorse)] — A minimal CLI framework written in Rust [![Build status](https://github.com/ksk001100/seahorse/workflows/CI/badge.svg?branch=master)](https://github.com/ksk001100/seahorse/actions)
-    *   [TeXitoi/structopt](https://github.com/TeXitoi/structopt) \[[structopt](https://crates.io/crates/structopt)] — parse command line argument by defining a struct
+    *   [ksk001100/seahorse (⭐242)](https://github.com/ksk001100/seahorse) \[[seahorse](https://crates.io/crates/seahorse)] — A minimal CLI framework written in Rust [![Build status](https://github.com/ksk001100/seahorse/workflows/CI/badge.svg?branch=master)](https://github.com/ksk001100/seahorse/actions)
+    *   [TeXitoi/structopt (⭐2.6k)](https://github.com/TeXitoi/structopt) \[[structopt](https://crates.io/crates/structopt)] — parse command line argument by defining a struct
 
 ### Libraries / Image processing
 
-*   [image-rs/imageproc (⭐563)](https://github.com/image-rs/imageproc) — An image processing library, based on the `image` library.
+*   [image-rs/imageproc (⭐618)](https://github.com/image-rs/imageproc) — An image processing library, based on the `image` library.
 
 ## [8. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 

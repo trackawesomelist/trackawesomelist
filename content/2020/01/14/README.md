@@ -20,7 +20,7 @@
 
 ### WSL Tools / WSL Utilities
 
-*   [wsl-gui-bins (⭐37)](https://github.com/Konfekt/wsl-gui-bins) -  Start common GUI applications under WSL as under Linux. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [wsl-gui-bins (⭐36)](https://github.com/Konfekt/wsl-gui-bins) -  Start common GUI applications under WSL as under Linux. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [3. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 
@@ -38,22 +38,22 @@
 
 ### Samples
 
-*   Khronos [Vulkan samples (⭐3k)](https://github.com/KhronosGroup/Vulkan-Samples) \[[LICENSE (⭐3k)](https://github.com/KhronosGroup/Vulkan-Samples/blob/master/LICENSE)]
+*   Khronos [Vulkan samples (⭐3.3k)](https://github.com/KhronosGroup/Vulkan-Samples) \[[LICENSE (⭐3.3k)](https://github.com/KhronosGroup/Vulkan-Samples/blob/master/LICENSE)]
 
 ## [6. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
 ### Tools
 
-*   [PhpInsights (⭐5k)](https://github.com/nunomaduro/phpinsights) - PHP quality checks (with Magento2 presets)
-*   [Tango (⭐95)](https://github.com/roma-glushko/tango) - CLI for analyzing access logs
+*   [PhpInsights (⭐5.1k)](https://github.com/nunomaduro/phpinsights) - PHP quality checks (with Magento2 presets)
+*   [Tango (⭐99)](https://github.com/roma-glushko/tango) - CLI for analyzing access logs
 
 ### Deployment
 
-*   [Github Actions for Magento2 (⭐107)](https://github.com/extdn/github-actions-m2) - GitHub Actions for Magento 2 Extensions
+*   [Github Actions for Magento2 (⭐120)](https://github.com/extdn/github-actions-m2) - GitHub Actions for Magento 2 Extensions
 
 ### Infrastructure
 
-*   [Magento 2 Ngrok (⭐46)](https://github.com/shkoliar/magento-ngrok) - Magento 2 Ngrok Integration
+*   [Magento 2 Ngrok (⭐45)](https://github.com/shkoliar/magento-ngrok) - Magento 2 Ngrok Integration
 
 ## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -78,17 +78,17 @@
 
 ### Button / Barcode
 
-*   [FloatingButton (⭐788)](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI.
+*   [FloatingButton (⭐913)](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI.
 
 ### Walkthrough / Barcode
 
-*   [ConcentricOnboarding (⭐1k)](https://github.com/exyte/ConcentricOnboarding) - SwiftUI library for a walkthrough or onboarding flow with tap actions.
+*   [ConcentricOnboarding (⭐1.2k)](https://github.com/exyte/ConcentricOnboarding) - SwiftUI library for a walkthrough or onboarding flow with tap actions.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Testing
 
-*   [Gremlin](https://www.gremlin.com/gremlin-free-software) — Gremlin's Chaos Engineering tools allow you to safely, securely, and simply inject failure into your systems to find weaknesses before they cause customer-facing issues. Gremlin Free provides access to Shutdown and CPU attacks on up to 5 hosts or containers.
+*   [Gremlin](https://www.gremlin.com/gremlin-free-software) — Gremlin's Chaos Engineering tools allow you to safely and securely inject failure into your systems to find weaknesses before they cause customer-facing issues. Gremlin Free provides access to Shutdown and CPU attacks on up to 5 hosts or containers.
 
 ### Monitoring
 
@@ -96,13 +96,13 @@
 
 ### Design and UI
 
-*   [Mindmup.com](https://www.mindmup.com/) — Unlimited mind maps for free, and store them in the cloud. Your mind maps are available everywhere, instantly, from any device.
+*   [Mindmup.com](https://www.mindmup.com/) — Unlimited mind maps for free and store them in the cloud. Your mind maps are available everywhere, instantly, from any device.
 
 ## [10. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Type Theory and Mathematics
 
-*   [Analysis (⭐153)](https://github.com/math-comp/analysis) - Library for classical real analysis compatible with Mathematical Components.
+*   [Analysis (⭐165)](https://github.com/math-comp/analysis) - Library for classical real analysis compatible with Mathematical Components.
 *   [Coquelicot](https://gitlab.inria.fr/coquelicot/coquelicot) - Formalization of classical real analysis compatible with the standard library and focusing on usability.
 
 ## [11. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
@@ -119,9 +119,9 @@
 
 ## [13. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### Miscellaneous
+### Miscellaneous / Text-Based User Interfaces
 
-*   [yGuard (⭐271)](https://github.com/yWorks/yGuard) - Obfuscation via renaming and shrinking.
+*   [yGuard (⭐312)](https://github.com/yWorks/yGuard) - Obfuscation via renaming and shrinking.
 
 ## [14. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -133,7 +133,7 @@
 
 ### Projects
 
-*   [Rust-Full-Stack (⭐1.3k)](https://github.com/steadylearner/Rust-Full-Stack) - Easily testable and working Rust codes with blog posts to explain them.
+*   [Rust-Full-Stack (⭐1.4k)](https://github.com/steadylearner/Rust-Full-Stack) - Easily testable and working Rust codes with blog posts to explain them.
 
 ### Books / Frameworks
 

@@ -37,28 +37,28 @@
 
 ### UI / Material Design
 
-*   [Unicorn Speed Dial (⭐334)](https://github.com/tiagojencmartins/unicornspeeddial) <!--stargazers:tiagojencmartins/unicornspeeddial--> - Floating Action Button with Speed Dial by [Tiago Martins](https://github.com/tiagojencmartins)
+*   [Unicorn Speed Dial (⭐345)](https://github.com/tiagojencmartins/unicornspeeddial) <!--stargazers:tiagojencmartins/unicornspeeddial--> - Floating Action Button with Speed Dial by [Tiago Martins](https://github.com/tiagojencmartins)
 
 ### Image / Backend-Driven
 
-*   [Cached Network Image (⭐2.1k)](https://github.com/renefloor/flutter_cached_network_image) <!--stargazers:renefloor/flutter_cached_network_image--> - Show images from the internet and keep them in the cache directory by
+*   [Cached Network Image (⭐2.2k)](https://github.com/renefloor/flutter_cached_network_image) <!--stargazers:renefloor/flutter_cached_network_image--> - Show images from the internet and keep them in the cache directory by
 
 ### Storage / Voice
 
-*   [Secure Storage (⭐892)](https://github.com/mogol/flutter_secure_storage) <!--stargazers:mogol/flutter_secure_storage--> - Keychain and Keystore storage by [German Saprykin](https://github.com/mogol)
+*   [Secure Storage (⭐972)](https://github.com/mogol/flutter_secure_storage) <!--stargazers:mogol/flutter_secure_storage--> - Keychain and Keystore storage by [German Saprykin](https://github.com/mogol)
 
 ### Device / Augmented Reality
 
-*   [Badger (⭐258)](https://github.com/g123k/flutter_app_badger) <!--stargazers:g123k/flutter_app_badger--> - Update app badge on the launcher by [Edouard Marquez](https://twitter.com/g123k)
+*   [Badger (⭐272)](https://github.com/g123k/flutter_app_badger) <!--stargazers:g123k/flutter_app_badger--> - Update app badge on the launcher by [Edouard Marquez](https://twitter.com/g123k)
 
 ### State management / Redux / ELM / Dependency Injection
 
-*   [Redux (⭐1.6k)](https://github.com/brianegan/flutter_redux) <!--stargazers:brianegan/flutter_redux--> - Built to work with [redux.dart (⭐504)](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Widgets
+*   [Redux (⭐1.6k)](https://github.com/brianegan/flutter_redux) <!--stargazers:brianegan/flutter_redux--> - Built to work with [redux.dart (⭐509)](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Widgets
 
 ### Top / Game Engine resources
 
-*   [WhatTodo (⭐1k)](https://github.com/burhanrashid52/WhatTodo) <!--stargazers:burhanrashid52/WhatTodo--> - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52)
-*   [BookSearch (⭐509)](https://github.com/Norbert515/BookSearch) <!--stargazers:Norbert515/BookSearch--> - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515)
+*   [WhatTodo (⭐1.1k)](https://github.com/burhanrashid52/WhatTodo) <!--stargazers:burhanrashid52/WhatTodo--> - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52)
+*   [BookSearch (⭐525)](https://github.com/Norbert515/BookSearch) <!--stargazers:Norbert515/BookSearch--> - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515)
 
 ## [5. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -103,11 +103,11 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Otp.NET (⭐654)](https://github.com/kspearrin/Otp.NET) - An implementation TOTP RFC 6238 and HOTP RFC 4226 in C#.
+*   [Otp.NET (⭐858)](https://github.com/kspearrin/Otp.NET) - An implementation TOTP RFC 6238 and HOTP RFC 4226 in C#.
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [SharpZipLib (⭐3.1k)](https://github.com/icsharpcode/SharpZipLib) - #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
+*   [SharpZipLib (⭐3.5k)](https://github.com/icsharpcode/SharpZipLib) - #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
 
 ## [9. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 

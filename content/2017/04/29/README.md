@@ -24,15 +24,15 @@
 ### Books
 
 *   [Learning Vulkan](https://www.amazon.com/Learning-Vulkan-Parminder-Singh/dp/1786469804) - by **Parminder Singh** - Get started with the Vulkan API and its programming techniques using the easy-to-follow examples.
-    *   [Book's Examples (⭐181)](https://github.com/PacktPublishing/Learning-Vulkan)
+    *   [Book's Examples (⭐193)](https://github.com/PacktPublishing/Learning-Vulkan)
 *   [Vulkan Cookbook](https://www.amazon.com/Vulkan-Cookbook-Pawel-Lapinski/dp/1786468158)- by **Pawel Lapinski** - Explores a wide range of graphics programming and GPU compute methods to make the best use of the Vulkan API.
-    *   [Book's Examples (⭐656)](https://github.com/PacktPublishing/Vulkan-Cookbook)
+    *   [Book's Examples (⭐720)](https://github.com/PacktPublishing/Vulkan-Cookbook)
 
 ## [4. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### I18n
 
-*   [Translate plugin (⭐18)](https://github.com/dereuromark/cakephp-translate) - Manage translations of your static content the easy way via web backend, incl. import from POT files, auto-suggest and auto-translate via API.
+*   [Translate plugin (⭐17)](https://github.com/dereuromark/cakephp-translate) - Manage translations of your static content the easy way via web backend, incl. import from POT files, auto-suggest and auto-translate via API.
 
 ## [5. Awesome Mastodon](/content/tleb/awesome-mastodon/README.md)
 

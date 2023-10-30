@@ -83,7 +83,7 @@ git checkout <commit-ish> -- <file_path>
 
 ### Concurrency
 
-*   [GPars (⭐234)](https://github.com/GPars/GPars) - The GPars concurrency and parallelism framework for the JVM
+*   [GPars (⭐235)](https://github.com/GPars/GPars) - The GPars concurrency and parallelism framework for the JVM
 
 ## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -107,7 +107,7 @@ git checkout <commit-ish> -- <file_path>
 
 ### Email
 
-*   [mail (⭐371)](https://github.com/DockYard/elixir-mail) - An RFC2822 implementation in Elixir, built for composability.
+*   [mail (⭐375)](https://github.com/DockYard/elixir-mail) - An RFC2822 implementation in Elixir, built for composability.
 
 ## [10. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

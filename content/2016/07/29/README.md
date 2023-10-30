@@ -42,9 +42,9 @@
 
 *   [HANDSONTABLE (⭐18k)](https://github.com/handsontable/handsontable) - Handsontable is a JavaScript/HTML5 Spreadsheet Library for Developers
 
-### Podcasts / Other
+### Misc / Other
 
-*   [How to Write an Open Source JavaScript Library (⭐176)](https://github.com/sarbbottam/write-an-open-source-js-lib) - A comprehensive guide through a set of steps to publish a JavaScript open source library.
+*   [How to Write an Open Source JavaScript Library (⭐175)](https://github.com/sarbbottam/write-an-open-source-js-lib) - A comprehensive guide through a set of steps to publish a JavaScript open source library.
 
 ## [5. Citizen Science](/content/dylanrees/citizen-science/README.md)
 
@@ -84,15 +84,15 @@
 
 ### Libraries and Tools / C
 
-*   [SocketCAN Utils (⭐1.8k)](https://github.com/linux-can/can-utils) - Userspace utilites for SocketCAN on Linux.
+*   [SocketCAN Utils (⭐2k)](https://github.com/linux-can/can-utils) - Userspace utilites for SocketCAN on Linux.
 
 ### Libraries and Tools / Python
 
-*   [Caring Caribou (⭐500)](https://github.com/CaringCaribou/caringcaribou/) - Intended to be the *nmap of vehicle security*.
+*   [Caring Caribou (⭐566)](https://github.com/CaringCaribou/caringcaribou/) - Intended to be the *nmap of vehicle security*.
 
 ### Libraries and Tools / JavaScript
 
-*   [NodeJS extension to SocketCAN (⭐187)](https://github.com/sebi2k1/node-can) - Allows you to communicate over CAN networks with simple JavaScript functions.
+*   [NodeJS extension to SocketCAN (⭐193)](https://github.com/sebi2k1/node-can) - Allows you to communicate over CAN networks with simple JavaScript functions.
 *   [UberATC](https://www.uberatc.com/) - Uber Advanced Technologies Center - [info@uberatc.com](https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/README.md/mailto:info@uberatc.com).
 
 ## [7. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)

@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 02 - Dec 08, 2019
 
-50 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
-*   [Alloy (⭐2.5k)](https://github.com/AlloyTeam/eslint-config-alloy) - Progressive ESLint config for your React/Vue/TypeScript projects.
+*   [Alloy (⭐2.6k)](https://github.com/AlloyTeam/eslint-config-alloy) - Progressive ESLint config for your React/Vue/TypeScript projects.
 
 ## [2. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/week/README.md)
 
@@ -54,13 +54,13 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [MacSystemColors (⭐31)](https://github.com/kaunteya/MacSystemColors) - Mac app that shows all system colors in light and dark mode for Cocoa developers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/kaunteya/MacSystemColors)
+*   [MacSystemColors (⭐33)](https://github.com/kaunteya/MacSystemColors) - Mac app that shows all system colors in light and dark mode for Cocoa developers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/kaunteya/MacSystemColors)
 
 ## [6. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Software / G-code
 
-*   [gcode-generative-for-processing (⭐23)](https://github.com/o0morgan0o/gcode-generative-for-processing) - Processing library, aiming to create gcode from simple shapes. (Designed for usage with the Creality CR10)
+*   [gcode-generative-for-processing (⭐25)](https://github.com/o0morgan0o/gcode-generative-for-processing) - Processing library, aiming to create gcode from simple shapes. (Designed for usage with the Creality CR10)
 
 ## [7. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Device / Augmented Reality
 
-*   [InAppWebView (⭐2.3k)](https://github.com/pichillilorenzo/flutter_inappwebview) <!--stargazers:pichillilorenzo/flutter_inappwebview--> - Add inline WebView widgets or open an in-app browser window by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
+*   [InAppWebView (⭐2.6k)](https://github.com/pichillilorenzo/flutter_inappwebview) <!--stargazers:pichillilorenzo/flutter_inappwebview--> - Add inline WebView widgets or open an in-app browser window by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 
 ### 🇹🇷 Turkey / Misc
 
@@ -82,14 +82,14 @@
 
 ### Contents / Entertainment
 
-*   [CineReel (⭐185)](https://github.com/kserko/CineReel) - You can see lists for Now playing, Top Rated, Popular and Upcoming movies by [serko](https://github.com/kserko).
-*   [Fluttery Filmy (⭐197)](https://github.com/ibhavikmakwana/Fluttery-Filmy) - Movie app which is developed using flutter and powered by tmdb. by [Bhavik Makwana](https://github.com/ibhavikmakwana).
-*   [Toughest (⭐254)](https://github.com/MDSADABWASIM/Toughest) - Tricky questions and answer- Offline Interview Q/A by [MD SADAB WASIM](https://github.com/MDSADABWASIM).
-*   [Sandwhich (⭐153)](https://github.com/MotionMobs/Sandwhich) - An app to solve the age-old sandwich debate built using machine learning, Flutter, and TensorFlow Lite by [MotionMobs](https://github.com/MotionMobs)
+*   [CineReel (⭐184)](https://github.com/kserko/CineReel) - You can see lists for Now playing, Top Rated, Popular and Upcoming movies by [serko](https://github.com/kserko).
+*   [Fluttery Filmy (⭐196)](https://github.com/ibhavikmakwana/Fluttery-Filmy) - Movie app which is developed using flutter and powered by tmdb. by [Bhavik Makwana](https://github.com/ibhavikmakwana).
+*   [Toughest (⭐264)](https://github.com/MDSADABWASIM/Toughest) - Tricky questions and answer- Offline Interview Q/A by [MD SADAB WASIM](https://github.com/MDSADABWASIM).
+*   [Sandwhich (⭐154)](https://github.com/MotionMobs/Sandwhich) - An app to solve the age-old sandwich debate built using machine learning, Flutter, and TensorFlow Lite by [MotionMobs](https://github.com/MotionMobs)
 
 ### Contents / Games
 
-*   [Hangman (⭐18)](https://github.com/jerald-jacob/Flutter-Apps/tree/master/Hangman)-Hangman game word hunting by [Jerald jacob](https://github.com/jerald-jacob/)
+*   [Hangman (⭐19)](https://github.com/jerald-jacob/Flutter-Apps/tree/master/Hangman)-Hangman game word hunting by [Jerald jacob](https://github.com/jerald-jacob/)
 
 ## [10. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
@@ -148,7 +148,7 @@
 
 ### Artificial Intelligence
 
-*   [Wargus (⭐296)](https://github.com/Wargus/wargus) - Real-time strategy game. [Website](https://wargus.github.io/).
+*   [Wargus (⭐303)](https://github.com/Wargus/wargus) - Real-time strategy game. [Website](https://wargus.github.io/).
 
 ## [17. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
@@ -164,13 +164,23 @@
 
 *   [Feross Aboukhadijeh](https://github.com/sponsors/feross) - WebTorrent, StandardJS, and other JavaScript projects.
 
-## [18. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
+## [18. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Assembly Language / Blazor
+
+*   [Programming from the Ground Up](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) - Jonathan Bartlett (PDF)
+
+### Snap / Play Scala
+
+*   [Snap! Reference Manual](https://snap.berkeley.edu/snapsource/help/SnapManual.pdf) - B. Harvey, J. Mönig (PDF)
+
+## [19. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
 ### Tips, tricks, tools, and add-ons for GitHub power users
 
 *   [Octotree](https://www.octotree.io/) - Browser extension that enhances GitHub code browsing and pull request reviewing. Available on Chrome, Firefox, Opera and Safari.
 
-## [19. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [20. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Art & Design
 
@@ -186,7 +196,7 @@
 
 
 
-## [20. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [21. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Collection of Actions / Docker Container Actions
 
@@ -196,7 +206,7 @@
 
 *   [GitHub Actions for mdBook (⭐220)](https://github.com/peaceiris/actions-mdbook)
 
-## [21. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [22. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Videos / Playlists
 
@@ -205,10 +215,10 @@
 ### Inspired by Elm / Games
 
 *   [Bolero](https://fsbolero.io/) - F# in WebAssembly using Elmish
-*   [Iced (⭐19k)](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
+*   [Iced (⭐20k)](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
 *   [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 
-## [22. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [23. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Electronics and Mechanics / Version Control
 
@@ -218,36 +228,36 @@
 
 *   [gpu-voxels](https://www.gpu-voxels.org/) - GPU-Voxels is a CUDA based library which allows high resolution volumetric collision detection between animated 3D models and live pointclouds from 3D sensors of all kinds.
 
-## [23. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [24. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Closed Source / Other
 
 *   [FATpick](https://www.fatpick.com) - Guitar tablature viewer that scores your performance as you play along.
 
-## [24. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [25. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Resource Planning
 
-*   [grocy](https://grocy.info/) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home. ([Demo](https://en.demo.grocy.info/), [Source Code (⭐5.1k)](https://github.com/grocy/grocy)) `MIT` `PHP`
+*   [grocy](https://grocy.info/) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home. ([Demo](https://en.demo.grocy.info/), [Source Code (⭐5.7k)](https://github.com/grocy/grocy)) `MIT` `PHP/Docker`
 
-## [25. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [26. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Sample Projects / Workflow
 
 *   Microservices & Service Mesh
-    *   [clean-architecture-dotnet (⭐905)](https://github.com/thangchung/clean-architecture-dotnet) - Apply Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns on eCommerce sample business domain
-    *   [coolstore-microservices  (⭐2.1k)](https://github.com/vietnam-devs/coolstore-microservices) - A Kubernetes-based polyglot microservices application with Istio service mesh
-    *   [distributed-playground (⭐40)](https://github.com/jvandevelde/distributed-playground) - Distributed service playground with Vagrant, Consul, Docker & ASP.NET Core.
+    *   [clean-architecture-dotnet (⭐1.1k)](https://github.com/thangchung/clean-architecture-dotnet) - Apply Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns on eCommerce sample business domain
+    *   [coolstore-microservices  (⭐2.3k)](https://github.com/vietnam-devs/coolstore-microservices) - A Kubernetes-based polyglot microservices application with Istio service mesh
+    *   [distributed-playground (⭐41)](https://github.com/jvandevelde/distributed-playground) - Distributed service playground with Vagrant, Consul, Docker & ASP.NET Core.
     *   [DNC-DShop](https://github.com/devmentors) - Distributed .NET Core project and free course. (DDD, CQRS, RabbitMQ, MongoDB, Redis, Monitoring, Logging, CI, CD)
-    *   [dotnetcore-microservices-poc (⭐1.7k)](https://github.com/asc-lab/dotnetcore-microservices-poc) -  simplified insurance sales system made in a microservices architecture using .NET Core (EF Core, MediatR, Marten, Eureka, Ocelot, RabbitMQ, Polly, ElasticSearch, Dapper) with blog post series.
-    *   [eShopOnContainers (⭐22k)](https://github.com/dotnet/eShopOnContainers) - Microservices Architecture and Containers based Reference Application.
-    *   [InMemoryCQRSReplication (⭐104)](https://github.com/Aaronontheweb/InMemoryCQRSReplication) - Akka.NET Reference Architecture - CQRS + Sharding + In-Memory Replication
-    *   [magazine-website (⭐165)](https://github.com/thangchung/magazine-website) - Magazine website (using .NET Core, ASP.NET Core, EF Core) with DDD, CQRS, microservices, asynchronous programming applied.
-    *   [microservices-in-dotnetcore (⭐65)](https://github.com/horsdal/microservices-in-dotnet-book-second-edition) - The code sample from the second edition of [Microservices in .NET Core](https://www.manning.com/books/microservices-in-net-core-second-edition).
-    *   [practical-dapr (⭐267)](https://github.com/thangchung/practical-dapr) - Full-stack .NET microservices build on Dapr and Tye.
-    *   [ReactiveTraderCloud (⭐1.7k)](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Real-time trading platform demo showcasing reactive programming principles applied across the full application stack.
+    *   [dotnetcore-microservices-poc (⭐1.8k)](https://github.com/asc-lab/dotnetcore-microservices-poc) -  simplified insurance sales system made in a microservices architecture using .NET Core (EF Core, MediatR, Marten, Eureka, Ocelot, RabbitMQ, Polly, ElasticSearch, Dapper) with blog post series.
+    *   [eShopOnContainers (⭐24k)](https://github.com/dotnet/eShopOnContainers) - Microservices Architecture and Containers based Reference Application.
+    *   [InMemoryCQRSReplication (⭐129)](https://github.com/Aaronontheweb/InMemoryCQRSReplication) - Akka.NET Reference Architecture - CQRS + Sharding + In-Memory Replication
+    *   [magazine-website (⭐169)](https://github.com/thangchung/magazine-website) - Magazine website (using .NET Core, ASP.NET Core, EF Core) with DDD, CQRS, microservices, asynchronous programming applied.
+    *   [microservices-in-dotnetcore (⭐78)](https://github.com/horsdal/microservices-in-dotnet-book-second-edition) - The code sample from the second edition of [Microservices in .NET Core](https://www.manning.com/books/microservices-in-net-core-second-edition).
+    *   [practical-dapr (⭐290)](https://github.com/thangchung/practical-dapr) - Full-stack .NET microservices build on Dapr and Tye.
+    *   [ReactiveTraderCloud (⭐1.8k)](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Real-time trading platform demo showcasing reactive programming principles applied across the full application stack.
 
-## [26. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
+## [27. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
 
 ### Written Tutorials / Other helpful Plugins
 
@@ -257,13 +267,13 @@
 
 *   2019.07: [Crash Course: Headless WordPress with WPGraphQL, ACF, and React](https://www.youtube.com/watch?v=9KGuI0UmpMw) - In this video, Alex Young (WPCasts) goes over how to get a simple headless WordPress setup with WPGraphQL and React.
 
-## [27. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [28. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Blog Posts & Tutorials
 
 *   [Artificial Intelligence Made Easy with H2O.ai: A Comprehensive Guide to Modeling with H2O.ai and AutoML in Python](https://towardsdatascience.com/artificial-intelligence-made-easy-187ecb90c299) June 12, 2019
 
-## [28. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [29. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shells
 
@@ -271,8 +281,8 @@
 
 ### Command-Line Productivity
 
-*   [funky (⭐619)](https://github.com/bbugyi200/funky) - Extends functionality of shell functions making them more powerful and flexible.
-*   [navi (⭐12k)](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+*   [funky (⭐626)](https://github.com/bbugyi200/funky) - Extends functionality of shell functions making them more powerful and flexible.
+*   [navi (⭐13k)](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 
 ### Command-Line Productivity / Directory Navigation
 
@@ -280,28 +290,24 @@
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [fx (⭐16k)](https://github.com/antonmedv/fx) - Command-line JSON processing tool by anononymus JavaScript functions
+*   [fx (⭐17k)](https://github.com/antonmedv/fx) - Command-line JSON processing tool by anononymus JavaScript functions
 
-## [29. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
+## [30. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
-### Advanced
+### Intermediate
 
 #### [Wes Bos](https://wesbos.com/courses/)
 
 **Mixed** guided video courses to build products using new technologies\
 *(JavaScript, CSS, React, Node.js, GraphQL, Redux)*
-#### [EDX](https://www.edx.org/course/subject/computer-science)
 
-**Free** courses from Harvard, MIT, and other universities\
-*(varied computer science subjects including theory and programming, data science, algorithms, ...)*
-
-## [30. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [31. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Miscellaneous
 
-*   [Naming (⭐1.1k)](https://github.com/gruhn/awesome-naming#readme) - Naming things in computer science done right.
+*   [Naming (⭐1.2k)](https://github.com/gruhn/awesome-naming#readme) - Naming things in computer science done right.
 
-## [31. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [32. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Misc Articles
 
@@ -311,13 +317,13 @@
 
 *   [Site Reliability Engineering Paris, France](https://www.meetup.com/Site-Reliability-Engineering-Paris/) - SRE Meetup in the city of light.
 
-## [32. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [33. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Helpers
 
 *   [ember-element-helper (⭐38)](https://github.com/tildeio/ember-element-helper) - Dynamic element helper for Glimmer templates.
 
-## [33. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [34. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
@@ -327,26 +333,26 @@
 
 *   [Podlodka](http://podlodka.io) - Weekly audio show on software development. Interviews with professionals in software development industry and other related fields.
 
-## [34. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [35. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Streaming Sites / Anime
 
 *   [Anime Kaizoku](https://animekaizoku.com/) Up to 1080p DDL links, mostly Google Drive
 *   [All-animes](https://all-animes.com) Watch Online Anime In HD English Subbed, Dubbed.
 
-## [35. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [36. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C, C++
 
-*   [cl-yesql (⭐55)](https://github.com/ruricolist/cl-yesql) - SQL statements live in their own files, in SQL syntax, and are imported into Lisp as functions. You are not limited to the features a DSL supports. Based on Clojure's Yesql. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-yesql (⭐57)](https://github.com/ruricolist/cl-yesql) - SQL statements live in their own files, in SQL syntax, and are imported into Lisp as functions. You are not limited to the features a DSL supports. Based on Clojure's Yesql. [MIT](https://opensource.org/licenses/MIT).
 
-## [36. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [37. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Playbooks, Roles and Collections / French
 
-*   [T.A.D.S. boilerplate (⭐668)](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
+*   [T.A.D.S. boilerplate (⭐679)](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
 
-## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -359,7 +365,7 @@
 *   [Building Forms with Vue.js](https://www.packtpub.com/business-other/building-forms-with-vue-js?utm_source=Vuejs.org\&utm_medium=referral\&utm_campaign=OutreachB15411) by Marina Mosti (October 2019)
 *   [Testing Vue.js Components with Jest](https://www.packtpub.com/programming/testing-vue-js-components-with-jest?utm_source=vue.js.org\&utm_medium=refferal\&utm_campaign=OutreachB15653) by Alex Jover Morales, Packt (October 2019)
 
-## [38. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [39. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Courses
 
@@ -369,13 +375,13 @@
 
 *   [Map Camp](https://www.map-camp.com/) - Follow Map Camp on [Twitter](https://twitter.com/map_camp) and [LinkedIn](https://www.linkedin.com/company/map-camp/).
 
-## [39. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [40. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### Open Source / RPG
 
-*   [Darkness Dungeon (⭐266)](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
+*   [Darkness Dungeon (⭐285)](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
 
-## [40. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Messaging and Streaming
 
@@ -387,19 +393,18 @@
 
 ### Forms
 
-*   [formingo.co](https://www.formingo.co/)- Easy HTML forms for static websites, get started for free without registering an account. Free plan allows 500 submissions per month, customizable reply-to email address.
+*   [formingo.co](https://www.formingo.co/)- Easy HTML forms for static websites. You can start for free without registering an account. The free plan allows 500 monthly submissions and a customizable reply-to email address.
 
 ### Web Hosting
 
-*   [Versoly](https://versoly.com/) — SaaS focussed website builder - unlimited websites, 70+ blocks, 5 templates, custom CSS, favicon, SEO and forms. No custom domain.
+*   [Versoly](https://versoly.com/) — SaaS-focused website builder - unlimited websites, 70+ blocks, five templates, custom CSS, favicon, SEO and forms. No custom domain.
 
-### DBaaS
+### Managed Data Services
 
-*   [scalingo.com](https://scalingo.com/) — Primarily a PaaS but offers a 128MB to 192MB free tier of MySQL, PostgreSQL or MongoDB
+*   [scalingo.com](https://scalingo.com/) — Primarily a PaaS but offers a 128MB to 192MB free tier of MySQL, PostgreSQL, or MongoDB
 
 ### Storage and Media Processing
 
-*   [easyDB.io](https://easydb.io/) — one-click, hosted database provider. They provide a database for the programming language of your choice for development purposes. The DB is ephemeral and will be deleted after 24 or 72 hours on the free tier.
 *   [npoint.io](https://www.npoint.io/) — JSON store with collaborative schema editing
 
 ### Design and UI
@@ -409,23 +414,23 @@
 
 ### Data Visualization on Maps
 
-*   [geocod.io](https://www.geocod.io/) — Geocoding via API or CSV Upload. 2,500 free queries/day.
-*   [giscloud.com](https://www.giscloud.com/) — Visualize, analyze and share geo data online.
+*   [geocod.io](https://www.geocod.io/) — Geocoding via API or CSV Upload. Two thousand five hundred free queries/day.
+*   [giscloud.com](https://www.giscloud.com/) — Visualize, analyze, and share geo data online.
 *   [mapbox.com](https://www.mapbox.com/) — Maps, geospatial services and SDKs for displaying map data.
 
 ### Package Build System
 
-*   [build.opensuse.org](https://build.opensuse.org/) — Package build service for multiple distros (SUSE, EL, Fedora, Debian etc).
+*   [build.opensuse.org](https://build.opensuse.org/) — Package build service for multiple distros (SUSE, EL, Fedora, Debian, etc.).
 *   [copr.fedorainfracloud.org](https://copr.fedorainfracloud.org) — Mock-based RPM build service for Fedora and EL.
 *   [help.launchpad.net](https://help.launchpad.net/Packaging) — Ubuntu and Debian build service.
 
 ### IDE and Code Editing
 
-*   [apiary.io](https://apiary.io/) — Collaborative design API with instant API mock and generated documentation (Free for unlimited API blueprints and unlimited user with one admin account and hosted documentation).
-*   [jsbin.com](https://jsbin.com) — JS Bin is another playground and code sharing site of front end web (HTML, CSS and JavaScript. Also supports Markdown, Jade and Sass).
+*   [apiary.io](https://apiary.io/) — Collaborative design API with instant API mock and generated documentation (Free for unlimited API blueprints and unlimited users with one admin account and hosted documentation).
+*   [jsbin.com](https://jsbin.com) — JS Bin is another playground and code-sharing site of front-end web (HTML, CSS, and JavaScript. It Also supports Markdown, Jade, and Sass).
 *   [VSCodium](https://vscodium.com/) - Community-driven, without telemetry/tracking, and freely-licensed binary distribution of Microsoft’s editor VSCode
 
-## [41. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [42. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
@@ -435,19 +440,19 @@
 *   [The 'Android Data Matcher' Locator Strategy](https://appiumpro.com/editions/95)
 *   [Working With Cookies](https://appiumpro.com/editions/96)
 
-## [42. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [43. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Conferences and Events / Europe
 
 *   [HoneyCON](https://honeycon.eu/) - Annual Security Conference in Guadalajara, Spain. Organized by the HoneySEC association.
 
-## [43. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
+## [44. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
 ### Methodology / Scalability and Resilience
 
 *   [No silver bullet, by Brooks](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf) - Making a case for growing software in small increments :orange\_book:.
 
-## [44. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
+## [45. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
 ### Blockchain utils / Swift
 
@@ -465,19 +470,19 @@
 
 *   [Lombardini](https://lombardini.io/) - Borrow WBTC for WAVES instantly.
 
-## [45. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
+## [46. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
 ### Libraries
 
-*   [Cron Expression Descriptor (⭐817)](https://github.com/bradymholt/cron-expression-descriptor) - A .NET library that converts cron expressions into human readable descriptions.
+*   [Cron Expression Descriptor (⭐898)](https://github.com/bradymholt/cron-expression-descriptor) - A .NET library that converts cron expressions into human readable descriptions.
 
-## [46. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [47. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment / Music
 
 *   [spotify-tui (⭐15k)](https://github.com/Rigellute/spotify-tui) - Spotify client.
 
-## [47. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [48. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### IT Security
 
@@ -491,17 +496,17 @@
 
 *   [Easter egg](https://en.wikipedia.org/wiki/Easter_egg_\(media\)) - A hidden feature especially in video games in reference to the Easter egg hunt.
 
-## [48. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [49. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Command Line
 
-*   [ModuleInterface (⭐75)](https://github.com/minuscorp/ModuleInterface) - Command Line Tool that generates the Module's Interface from a Swift project.
+*   [ModuleInterface (⭐77)](https://github.com/minuscorp/ModuleInterface) - Command Line Tool that generates the Module's Interface from a Swift project.
 
 ### UI Testing
 
-*   [ViewInspector (⭐1.6k)](https://github.com/nalexn/ViewInspector) - Runtime inspection and unit testing of SwiftUI views
+*   [ViewInspector (⭐1.8k)](https://github.com/nalexn/ViewInspector) - Runtime inspection and unit testing of SwiftUI views
 
-## [49. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [50. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Build And Release System
 
@@ -513,13 +518,13 @@
 *   [SaltStack](http://saltstack.com/community/) Radically simple configuration-management, application deployment, task-execution, and multi-node orchestration engine
 *   [terraform](https://www.terraform.io) Use Infrastructure as Code to provision and manage any cloud, infrastructure, or service
 
-## [50. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [51. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Editors / Runner
 
 *   [Summernote (⭐11k)](https://github.com/summernote/summernote) - Super simple WYSIWYG editor.
 
-### Podcasts / Other
+### Misc / Other
 
 *   [JavaScript Tutorials](https://hackr.io/tutorials/learn-javascript) - Learn Javascript online from a diverse range of user ranked online tutorials.
 

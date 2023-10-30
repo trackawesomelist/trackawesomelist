@@ -65,7 +65,7 @@ Webpage: <https://activspaces.com>
 | ---- | ----- | ------------------------------------------------------------- | -------------------------------------- |
 | ✔    | ✔     | [ActivSpaces Buea, Fako Ship Plaza](https://activspaces.com/) | Mon-Fri 8:00-21:00, Sat-Sun 9:30-18:00 |
 
-### Canada 🇨🇦 / Montréal   <a id="montreal">  </a>
+### Canada 🇨🇦 / Montréal <a id="montreal"></a>
 
 #### Mulberry Street Coffeehouse
 
@@ -149,7 +149,7 @@ Webpage: <https://istanbulhs.org>
 | ---- | ----- | -------------------------------------------------------------------------------------------- | ---------- |
 | ✔    | ✔     | [Eğitim Mh. Muratpaşa Cd. Altay Apt. No:11/A Kadıköy](https://istanbulhs.org/wiki/iletisim/) |            |
 
-### United States 🇺🇸 / Arizona   <a id="arizona">  </a>
+### United States 🇺🇸 / Arizona <a id="arizona"></a>
 
 #### BrewLab
 

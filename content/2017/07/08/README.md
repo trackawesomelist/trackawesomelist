@@ -16,7 +16,7 @@
 
 ### Software / Web Applications
 
-*   [Weblate](https://weblate.org) - Translation management system with version control integration. ([GNU GPLv3 (⭐3.2k)](https://github.com/WeblateOrg/weblate/blob/master/COPYING))
+*   [Weblate](https://weblate.org) - Translation management system with version control integration. ([GNU GPLv3 (⭐3.7k)](https://github.com/WeblateOrg/weblate/blob/master/COPYING))
 
 ## [3. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 

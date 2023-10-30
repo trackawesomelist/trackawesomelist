@@ -10,7 +10,7 @@
 
 ### Packages / Testing
 
-*   [Mochify (⭐345)](https://github.com/mantoni/mochify.js) - TDD with Browserify, Mocha, PhantomJS and WebDriver.
+*   [Mochify (⭐344)](https://github.com/mantoni/mochify.js) - TDD with Browserify, Mocha, PhantomJS and WebDriver.
 
 ## [2. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -21,8 +21,8 @@
 ### Structural Migrations
 
 *   [Lobos (⭐267)](https://github.com/budu/lobos)
-*   [Ragtime (⭐583)](https://github.com/weavejester/ragtime)
-*   [Drift (⭐122)](https://github.com/macourtney/drift)
+*   [Ragtime (⭐587)](https://github.com/weavejester/ragtime)
+*   [Drift (⭐121)](https://github.com/macourtney/drift)
 
 ---
 

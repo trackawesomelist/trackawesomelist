@@ -35,7 +35,7 @@
 
 ### Geocoding
 
-- API: [Cartes.io (⭐86)](https://github.com/M-Media-Group/Cartes.io/wiki/API)
+- API: [Cartes.io (⭐101)](https://github.com/M-Media-Group/Cartes.io/wiki/API)
 
   Description: Create maps and markers for anything
 
@@ -51,13 +51,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [x5-gmaps (⭐104)](https://github.com/xon52/x5-gmaps) - lightweight Google Maps plugin for Vue 2.x
+*   [x5-gmaps (⭐105)](https://github.com/xon52/x5-gmaps) - lightweight Google Maps plugin for Vue 2.x
 
 ## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [Graviton Editor (⭐1k)](https://github.com/Graviton-Code-Editor/Graviton-App) - Cross-platform code editor.
+*   [Graviton Editor (⭐1.1k)](https://github.com/Graviton-Code-Editor/Graviton-App) - Cross-platform code editor.
 
 ## [6. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
@@ -110,10 +110,10 @@
 
 ### More Awesome / Switzerland
 
-*   [Computer History (⭐2.4k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
+*   [Computer History (⭐2.5k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
 *   [Data Visualization (⭐3.3k)](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
 *   [Research Tools (⭐1.7k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
-*   [Scientific Writing (⭐546)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Scientific writing can extend beyond LaTeX, made possible by formats, such as Markdown (and its many flavours), reStructuredText and Jupyter notebooks.
+*   [Scientific Writing (⭐577)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Scientific writing can extend beyond LaTeX, made possible by formats, such as Markdown (and its many flavours), reStructuredText and Jupyter notebooks.
 
 ## [7. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md)
 
@@ -137,19 +137,19 @@
 
 ### Audio Related Packages / Realtime applications
 
-*   [Jupylet (⭐194)](https://github.com/nir/jupylet) [:octocat: (⭐194)](https://github.com/nir/jupylet) - Subtractive, additive, FM, and sample-based sound synthesis.
+*   [Jupylet (⭐197)](https://github.com/nir/jupylet) [:octocat: (⭐197)](https://github.com/nir/jupylet) - Subtractive, additive, FM, and sample-based sound synthesis.
 
 ## [11. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Decentralized Systems
 
-*   [Substrate (⭐664)](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
+*   [Substrate (⭐694)](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
 
 ## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI / Effect
 
-*   [Clay Containers (⭐411)](https://github.com/mcaubrey/clay_containers) <!--stargazers:mcaubrey/clay_containers--> - Neumorphic widget primitives to serve as the foundation of your own designs by [Michael Charles](https://github.com/mcaubrey).
+*   [Clay Containers (⭐416)](https://github.com/mcaubrey/clay_containers) <!--stargazers:mcaubrey/clay_containers--> - Neumorphic widget primitives to serve as the foundation of your own designs by [Michael Charles](https://github.com/mcaubrey).
 
 ## [13. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

@@ -10,29 +10,29 @@
 
 ### Command-Line Productivity
 
-*   [q (⭐61)](https://github.com/cal2195/q) - Vim like macro registers for your Bash and Zsh Shell
+*   [q (⭐62)](https://github.com/cal2195/q) - Vim like macro registers for your Bash and Zsh Shell
 
 ### For Developers / Directory Navigation
 
-*   [licins (⭐21)](https://github.com/dogoncouch/licins) - Insert commented software licenses into source code.
+*   [licins (⭐22)](https://github.com/dogoncouch/licins) - Insert commented software licenses into source code.
 
 ### System Utilities / Directory Navigation
 
-*   [progress (⭐5.9k)](https://github.com/Xfennec/progress) - Linux tool to show progress for `cp`, `rm`, `dd`, and more...
-*   [stronghold (⭐981)](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal.
+*   [progress (⭐7.4k)](https://github.com/Xfennec/progress) - Linux tool to show progress for `cp`, `rm`, `dd`, and more...
+*   [stronghold (⭐1k)](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal.
 *   [xiringuito (⭐1.1k)](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [adb-export (⭐96)](https://github.com/sromku/adb-export) - Export Android content providers to CSV format
+*   [adb-export (⭐97)](https://github.com/sromku/adb-export) - Export Android content providers to CSV format
 
 ### Games / Directory Navigation
 
-*   [piu-piu (⭐685)](https://github.com/vaniacer/piu-piu-SH) - Horizontal scroller game in bash with multiplayer mode!
+*   [piu-piu (⭐698)](https://github.com/vaniacer/piu-piu-SH) - Horizontal scroller game in bash with multiplayer mode!
 
 ### Shell Script Development / Directory Navigation
 
-*   [phases (⭐12)](https://github.com/sorokine/phases) - Minimally invasive bash preprocessor, select sections of your script to run
+*   [phases (⭐13)](https://github.com/sorokine/phases) - Minimally invasive bash preprocessor, select sections of your script to run
 
 ## [2. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 

@@ -10,16 +10,15 @@
 
 ### Components & Libraries / Frameworks
 
-*   [DataFormsJS (⭐163)](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
+*   [DataFormsJS (⭐171)](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
 
 ## [2. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Files and Directories / Directory Listing
 
-*   [alder (⭐210)](https://github.com/aweary/alder) - Minimal `tree` with colors.
-*   [exa (⭐22k)](https://github.com/ogham/exa) - Improved version of `ls`.
-*   [tre (⭐505)](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
-*   [ll (⭐41)](https://github.com/antonmedv/ll) - `ls` with git status.
+*   [alder (⭐214)](https://github.com/aweary/alder) - Minimal `tree` with colors.
+*   [tre (⭐549)](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
+*   [ll (⭐43)](https://github.com/antonmedv/ll) - `ls` with git status.
 
 ## [3. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
 
@@ -81,10 +80,6 @@
 
 ## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
-### Proxy and VPN Tools / File Sharing
-
-*   [tigerVPN](https://www.tigervpn.com/vpn-for-mac) - VPN Client for Mac. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/vpn-plus/id1202726435)
-
 ### Utilities / To-Do Lists
 
 *   [Todoist](https://todoist.com/mac) - Cross-platform todo list app. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/todoist-to-do-list-tasks/id585829637?mt=12)
@@ -99,25 +94,25 @@
 
 ### Asynchronous Event Loop
 
-*   [libhv (⭐5.5k)](https://github.com/ithewei/libhv) - Cross-platform event loop library. \[BSD]
+*   [libhv (⭐5.9k)](https://github.com/ithewei/libhv) - Cross-platform event loop library. \[BSD]
 
 ### Logging
 
-*   [Quill (⭐825)](https://github.com/odygrd/quill) - Asynchronous cross platform low latency logging library. \[MIT]
+*   [Quill (⭐928)](https://github.com/odygrd/quill) - Asynchronous cross platform low latency logging library. \[MIT]
 
 ## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Font
 
-*   [dafont](https://www.dafont.com/) - The fonts presented on this website are their authors' property, and are either freeware, shareware, demo versions or public domain.
+*   [dafont](https://www.dafont.com/) - The fonts presented on this website are their authors' property and are either freeware, shareware, demo versions, or public domain.
 *   [Everything Fonts](https://everythingfonts.com/) - Offers multiple tools; @font-face, Units Converter, Font Hinter and Font Submitter.
-*   [Font Squirrel](https://www.fontsquirrel.com/) - Freeware fonts that is licensed for commercial work. Hand-selected these typefaces and presenting them in an easy-to-use format.
+*   [Font Squirrel](https://www.fontsquirrel.com/) - Freeware fonts licensed for commercial work. Hand-selected these typefaces and presented them in an easy-to-use format.
 
 ## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### WebSocket
 
-*   [Websocket.Client (⭐569)](https://github.com/Marfusios/websocket-client) - A multiplatform wrapper over native C# class ClientWebSocket with built-in reconnection and error handling.
+*   [Websocket.Client (⭐617)](https://github.com/Marfusios/websocket-client) - A multiplatform wrapper over native C# class ClientWebSocket with built-in reconnection and error handling.
 
 ---
 

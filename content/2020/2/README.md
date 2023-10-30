@@ -25,7 +25,7 @@
 
 ### Apps / Doctrine Assessement
 
-*   [Doctrine (⭐47)](https://github.com/cdaniel/doctrine/) - A simple tool for visualising how competitive a company is in light of Wardley's doctrine. Hosted version available [here](https://doctrine.wardleymaps.com/).
+*   [Doctrine (⭐50)](https://github.com/cdaniel/doctrine/) - A simple tool for visualising how competitive a company is in light of Wardley's doctrine. Hosted version available [here](https://doctrine.wardleymaps.com/).
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -114,7 +114,7 @@
 *   [rotary-encoder-hal](https://crates.io/crates/rotary-encoder-hal) - GPIO - A rotary encoder driver using `embedded-hal` - [Intro blog post](https://leshow.github.io/post/rotary_encoder_hal/) - ![crates.io](https://img.shields.io/crates/v/rotary-encoder-hal.svg)
 *   [SGP30](https://crates.io/crates/sgp30) - I2C - Gas sensor - [Intro blog post](https://blog.dbrgn.ch/2018/4/1/rust-sgp30-driver/) - ![crates.io](https://img.shields.io/crates/v/sgp30.svg)
 *   [SH1106](https://crates.io/crates/sh1106) - I2C - Monochrome OLED display controller - [Intro post](https://wapl.es/electronics/rust/2019/02/13/sh1106-driver.html) ![crates.io](https://img.shields.io/crates/v/sh1106.svg)
-*   [shared-bus (⭐107)](https://github.com/Rahix/shared-bus) - I2C - utility driver for sharing a bus between multiple devices - [Intro post](https://blog.rahix.de/001-shared-bus/) ![crates.io](https://img.shields.io/crates/v/shared-bus.svg)
+*   [shared-bus (⭐115)](https://github.com/Rahix/shared-bus) - I2C - utility driver for sharing a bus between multiple devices - [Intro post](https://blog.rahix.de/001-shared-bus/) ![crates.io](https://img.shields.io/crates/v/shared-bus.svg)
 *   [shift-register-driver](https://crates.io/crates/shift-register-driver) - GPIO - Shift register - [Intro blog post](https://www.joshmcguigan.com/blog/shift-register-driver/) - ![crates.io](https://img.shields.io/crates/v/shift-register-driver.svg)
 *   [Si4703](https://crates.io/crates/si4703) - I2C - FM radio turner (receiver) driver  - [Intro blog post](https://blog.eldruin.com/si4703-fm-radio-receiver-driver-in-rust/) - ![crates.io](https://img.shields.io/crates/v/si4703.svg)
 *   [SSD1306](https://crates.io/crates/ssd1306) - I2C/SPI - OLED display controller - [Intro blog post](https://wapl.es/electronics/rust/2018/04/30/ssd1306-driver.html) - ![crates.io](https://img.shields.io/crates/v/ssd1306.svg)
@@ -130,15 +130,15 @@
 
 *   [AFE4400 (⭐4)](https://github.com/ReeceStevens/afe4400) - SPI - Pulse oximeter
 *   [APDS9960](https://crates.io/crates/apds9960) - I2C - Proximity, ambient light, RGB and gesture sensor - ![crates.io](https://img.shields.io/crates/v/apds9960.svg)
-*   [AS5048A (⭐0)](https://github.com/uwearzt/as5048a) - SPI - AMS AS5048A Magnetic Rotary Encoder
+*   [AS5048A (⭐1)](https://github.com/uwearzt/as5048a) - SPI - AMS AS5048A Magnetic Rotary Encoder
 *   [AXP209 (⭐5)](https://github.com/RandomInsano/axp209-rs) - I2C - Power management unit
 *   [BH1750 (⭐1)](https://github.com/wose/bh1750) - I2C - ambient light sensor (lux meter)
 *   [BME280](https://crates.io/crates/bme280) - A rust device driver for the Bosch BME280 temperature, humidity, and atmospheric pressure sensor and the Bosch BMP280 temperature and atmospheric pressure sensor. ![crates.io](https://img.shields.io/crates/v/bme280.svg)
 *   [bme680 (⭐26)](https://github.com/marcelbuesing/bme680) - I2C - Temperature / humidity / gas / pressure sensor - ![crates.io](https://img.shields.io/crates/v/bme680.svg)
 *   [BMP280](https://crates.io/crates/bmp280-ehal) - A platform agnostic driver to interface with the BMP280 pressure sensor ![crates.io](https://img.shields.io/crates/v/bmp280-ehal.svg)
 *   [CC1101](https://crates.io/crates/cc1101) - SPI - Sub-1GHz RF Transceiver - ![crates.io](https://img.shields.io/crates/v/cc1101.svg)
-*   [DS3231 (⭐6)](https://github.com/wose/ds3231) - I2C - real time clock
-*   [DS3234 (⭐1.6k)](https://github.com/rust-embedded/wg/issues/39#issuecomment-375262785) - SPI - Real time clock
+*   [DS3231 (⭐7)](https://github.com/wose/ds3231) - I2C - real time clock
+*   [DS3234 (⭐1.7k)](https://github.com/rust-embedded/wg/issues/39#issuecomment-375262785) - SPI - Real time clock
 *   [DS323x](https://crates.io/crates/ds323x) - I2C/SPI - Real-time clocks (RTC): DS3231, DS3232 and DS3234 - ![crates.io](https://img.shields.io/crates/v/ds323x.svg)
 *   [embedded-nrf24l01](https://crates.io/crates/embedded-nrf24l01) - SPI+GPIO - 2.4 GHz radio
 *   [GridEYE](https://crates.io/crates/grideye) - I2C - Rust driver for Grid-EYE / Panasonic AMG88(33) - ![crates.io](https://img.shields.io/crates/v/GridEYE.svg)
@@ -146,10 +146,10 @@
 *   [HD44780-driver](https://crates.io/crates/hd44780-driver) - GPIO - LCD controller - ![crates.io](https://img.shields.io/crates/v/hd44780-driver.svg)
 *   [HD44780 (⭐12)](http://github.com/kunerd/clerk) - Parallel port - LCD controller
 *   [HM11](https://crates.io/crates/hm11) - USART - HM-11 bluetooth module AT configuration crate - ![crates.io](https://img.shields.io/crates/v/hm11.svg)
-*   [hub75 (⭐6)](https://github.com/david-sawatzke/hub75-rs) - A driver for rgb led matrices with the hub75 interface  - ![crates.io](https://img.shields.io/crates/v/hub75.svg)
+*   [hub75 (⭐7)](https://github.com/david-sawatzke/hub75-rs) - A driver for rgb led matrices with the hub75 interface  - ![crates.io](https://img.shields.io/crates/v/hub75.svg)
 *   [hzgrow-r502](https://crates.io/crates/hzgrow-r502) - UART capacitive fingerprint reader - ![crates.io](https://img.shields.io/crates/v/hzgrow-r502.svg)
-*   [iAQ-Core (⭐2)](https://github.com/eldruin/iaq-core-rs) - I2C - iAQ-Core-C/iAQ-Core-P Gas and VOC sensor driver for monitoring indoor air quality.
-*   [ILI9341 (⭐51)](https://github.com/yuri91/ili9341-rs) - SPI - TFT LCD display
+*   [iAQ-Core (⭐3)](https://github.com/eldruin/iaq-core-rs) - I2C - iAQ-Core-C/iAQ-Core-P Gas and VOC sensor driver for monitoring indoor air quality.
+*   [ILI9341 (⭐53)](https://github.com/yuri91/ili9341-rs) - SPI - TFT LCD display
 *   [INA260](https://crates.io/crates/ina260) - I2C - power monitor - ![crates.io](https://img.shields.io/crates/v/ina260.svg)
 *   [LM75](https://crates.io/crates/lm75) - I2C - Temperature sensor and thermal watchdog - ![crates.io](https://img.shields.io/crates/v/lm75.svg)
 *   [LS010B7DH01 (⭐6)](https://github.com/byronwasti/ls010b7dh01) - SPI - Memory LCD
@@ -157,14 +157,14 @@
 *   [MAG3110 (⭐1)](https://github.com/therealprof/mag3110) - I2C - Magnetometer
 *   [MAX31865](https://crates.io/crates/max31865) - SPI - RTD to Digital converter - ![crates.io](https://img.shields.io/crates/v/max31865.svg)
 *   [MAX44009](https://crates.io/crates/max44009) - I2C - Ambient light sensor - ![crates.io](https://img.shields.io/crates/v/max44009.svg)
-*   [MAX7219 (⭐10)](https://github.com/almindor/max7219) - SPI - LED display driver - ![crates.io](https://img.shields.io/crates/v/max7219.svg)
+*   [MAX7219 (⭐11)](https://github.com/almindor/max7219) - SPI - LED display driver - ![crates.io](https://img.shields.io/crates/v/max7219.svg)
 *   [MCP49xx](https://crates.io/crates/mcp49xx) - SPI - 8/10/12-bit DACs like MCP4921, MCP4922, MCP4801, etc. - ![crates.io](https://img.shields.io/crates/v/mcp49xx.svg)
 *   [MCP9808](https://crates.io/crates/mcp9808) - I2C - Temperature sensor - ![crates.io](https://img.shields.io/crates/v/mcp9808.svg)
 *   [MFRC522 (⭐28)](https://github.com/japaric/mfrc522) - SPI - RFID tag reader/writer
 *   [motor-driver (⭐8)](https://github.com/japaric/motor-driver) - Motor drivers: L298N, TB6612FNG, etc.
 *   [MPU6050](https://crates.io/crates/mpu6050) - I2C - no\_std driver for the MPU6050 ![crates.io](https://img.shields.io/crates/v/mpu6050.svg)
 *   [MPU9250](https://crates.io/crates/mpu9250) - no\_std driver for the MPU9250 (and other MPU\* devices) & onboard AK8963 (accelerometer + gyroscope +  magnetometer IMU) ![crates.io](https://img.shields.io/crates/v/mpu9250.svg)
-*   [NRF24L01 (⭐26)](https://github.com/maikelwever/nrf24l01) - SPI - 2.4 GHz wireless communication
+*   [NRF24L01 (⭐27)](https://github.com/maikelwever/nrf24l01) - SPI - 2.4 GHz wireless communication
 *   [OneWire](https://crates.io/crates/onewire) - 1wire - OneWire protocol implementation with drivers for devices such as [DS18B20](https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf) - ![crates.io](https://img.shields.io/crates/v/onewire.svg)
 *   [PCD8544 (⭐0)](https://github.com/pcein/pcd8544) - SPI - 48x84 pixels matrix LCD controller
 *   [PCD8544\_rich](https://crates.io/crates/pcd8544) - SPI - Rich driver for 48x84 pixels matrix LCD controller  - ![crates.io](https://img.shields.io/crates/v/pcd8544.svg)
@@ -174,18 +174,18 @@
 *   [RN2xx3 (⭐5)](https://github.com/dbrgn/rn2xx3-rs/) - Serial - A driver for the RN2483 / RN2903 LoRaWAN modems by Microchip
 *   [SCD30](https://crates.io/crates/scd30) - I2C - CO₂ sensor - ![crates.io](https://img.shields.io/crates/v/scd30.svg)
 *   [SHT2x (⭐2)](https://github.com/dbrgn/sht2x-rs) - I2C - temperature / humidity sensors
-*   [SHT3x (⭐6)](https://github.com/miek/sht3x-rs) - I2C - Temperature / humidity sensors
+*   [SHT3x (⭐7)](https://github.com/miek/sht3x-rs) - I2C - Temperature / humidity sensors
 *   [SI5351 (⭐3)](https://github.com/ilya-epifanov/si5351) - I2C - clock generator
 *   [SI7021 (⭐5)](https://github.com/wose/si7021) - I2C - Humidity and temperature sensor
-*   [spi-memory (⭐19)](https://github.com/jonas-schievink/spi-memory/) - SPI - A generic driver for various SPI Flash and EEPROM chips - ![crates.io](https://img.shields.io/crates/v/spi-memory.svg)
+*   [spi-memory (⭐20)](https://github.com/jonas-schievink/spi-memory/) - SPI - A generic driver for various SPI Flash and EEPROM chips - ![crates.io](https://img.shields.io/crates/v/spi-memory.svg)
 *   [SSD1322](https://crates.io/crates/ssd1322) - SPI - Graphical OLED display controller - ![crates.io](https://img.shields.io/crates/v/ssd1322.svg)
 *   [SSD1351](https://crates.io/crates/ssd1351) - SPI - 16bit colour OLED display driver - ![crates.io](https://img.shields.io/crates/v/ssd1351.svg)
 *   [SSD1675](https://crates.io/crates/ssd1675) - SPI - Tri-color ePaper display controller - ![crates.io](https://img.shields.io/crates/v/ssd1675.svg)
 *   [st7032i (⭐2)](https://github.com/dotcypress/st7032i) - I2C - Dot Matrix LCD Controller driver (Sitronix ST7032i or similar). - ![crates.io](https://img.shields.io/crates/v/st7032i.svg)
 *   [ST7735-lcd](https://crates.io/crates/st7735-lcd) - SPI - An embedded-graphics compatible driver for the popular lcd family from Sitronix ![crates.io](https://img.shields.io/crates/v/st7735-lcd.svg)
-*   [stm32-eth (⭐121)](https://github.com/stm32-rs/stm32-eth) - MCU - Ethernet
+*   [stm32-eth (⭐130)](https://github.com/stm32-rs/stm32-eth) - MCU - Ethernet
 *   [SX1278 (⭐11)](https://github.com/susu/sx1278) - SPI - Long range (LoRa) transceiver
-*   [SX1509 (⭐2)](https://github.com/wez/sx1509) - I2C - IO Expander / Keypad driver
+*   [SX1509 (⭐1)](https://github.com/wez/sx1509) - I2C - IO Expander / Keypad driver
 *   [TCS3472](https://crates.io/crates/tcs3472) - I2C - RGB color light sensor - ![crates.io](https://img.shields.io/crates/v/tcs3472.svg)
 *   [TPA2016D2](https://crates.io/crates/tpa2016d2) - I2C - A driver for interfacing with the Texas Instruments TPA2016D2 Class-D amplifier - ![crates.io](https://img.shields.io/crates/v/tpa2016d2.svg)
 *   [VEML6040](https://crates.io/crates/veml6040) - I2C - RGBW color light sensor - ![crates.io](https://img.shields.io/crates/v/veml6040.svg)
@@ -204,37 +204,37 @@
 *   [bluetooth-hci](https://crates.io/crates/bluetooth-hci): device-independent Bluetooth Host-Controller Interface implementation. ![crates.io](https://img.shields.io/crates/v/bluetooth-hci.svg)
 *   [bounded-registers](https://crates.io/crates/bounded-registers) A high-assurance memory-mapped register code generation and interaction library. `bounded-registers` provides a Tock-like API for MMIO registers with the addition of type-based bounds checking. - ![crates.io](https://img.shields.io/crates/v/bounded-registers.svg)
 *   [combine](https://crates.io/crates/combine): parser combinator library - ![crates.io](https://img.shields.io/crates/v/combine.svg)
-*   [console-traits (⭐3)](https://github.com/thejpster/console-traits): Describes a basic text console. Used by [menu (⭐34)](https://github.com/thejpster/menu) and implemented by [vga-framebuffer (⭐30)](https://github.com/thejpster/vga-framebuffer-rs). ![crates.io](https://img.shields.io/crates/v/console-tratis.svg)
+*   [console-traits (⭐3)](https://github.com/thejpster/console-traits): Describes a basic text console. Used by [menu (⭐40)](https://github.com/thejpster/menu) and implemented by [vga-framebuffer (⭐31)](https://github.com/thejpster/vga-framebuffer-rs). ![crates.io](https://img.shields.io/crates/v/console-tratis.svg)
 *   [`cmim`](https://crates.io/crates/cmim), or Cortex-M Interrupt Move: A crate for Cortex-M devices to move data to interrupt context, without needing a critical section to access the data within an interrupt, and to remove the need for the "mutex dance" - ![crates.io](https://img.shields.io/crates/v/cmim.svg)
 *   [dcmimu](https://crates.io/crates/dcmimu): An algorithm for fusing low-cost triaxial MEMS gyroscope and accelerometer measurements ![crates.io](https://img.shields.io/crates/v/dcmimu.svg)
-*   [gcode (⭐80)](https://github.com/Michael-F-Bryan/gcode-rs): A gcode parser for no-std applications - [![crates.io](https://img.shields.io/crates/v/gcode.svg)](https://crates.io/crates/gcode)
+*   [gcode (⭐84)](https://github.com/Michael-F-Bryan/gcode-rs): A gcode parser for no-std applications - [![crates.io](https://img.shields.io/crates/v/gcode.svg)](https://crates.io/crates/gcode)
 *   [heapless](https://crates.io/crates/heapless): provides `Vec`, `String`, `LinearMap`, `RingBuffer` backed by fixed-size buffers  - ![crates.io](https://img.shields.io/crates/v/heapless.svg)
 *   [ieee802154](https://crates.io/crates/ieee802154): Partial implementation of the IEEE 802.15.4 standard - ![crates.io](https://img.shields.io/crates/v/ieee802154.svg)
 *   [infrared](https://crates.io/crates/infrared): infrared remote control library for embedded rust - ![crates.io](https://img.shields.io/crates/v/infrared.svg)
 *   [intrusive-collections](https://crates.io/crates/intrusive-collections): intrusive (non-allocating) singly/doubly linked lists and red-black trees - ![crates.io](https://img.shields.io/crates/v/intrusive-collections.svg)
 *   [managed](https://crates.io/crates/managed): provides `ManagedSlice`, `ManagedMap` backed by either their std counterparts or fixed-size buffers for `#![no_std]`. - ![crates.io](https://img.shields.io/crates/v/managed.svg)
-*   [menu (⭐34)](https://github.com/thejpster/menu): A basic command-line interface library. Has nested menus and basic help functionality. ![crates.io](https://img.shields.io/crates/v/menu.svg)
-*   [micromath (⭐342)](https://github.com/NeoBirth/micromath): Embedded Rust math library featuring fast, safe floating point approximations for common arithmetic operations, 2D and 3D vector types, and statistical analysis - ![crates.io](https://img.shields.io/crates/v/micromath.svg)
+*   [menu (⭐40)](https://github.com/thejpster/menu): A basic command-line interface library. Has nested menus and basic help functionality. ![crates.io](https://img.shields.io/crates/v/menu.svg)
+*   [micromath (⭐351)](https://github.com/NeoBirth/micromath): Embedded Rust math library featuring fast, safe floating point approximations for common arithmetic operations, 2D and 3D vector types, and statistical analysis - ![crates.io](https://img.shields.io/crates/v/micromath.svg)
 *   [nalgebra](https://crates.io/crates/nalgebra): general-purpose and low-dimensional linear algebra library - ![crates.io](https://img.shields.io/crates/v/nalgebra.svg)
 *   [nom](https://crates.io/crates/nom): parser combinator framework - ![crates.io](https://img.shields.io/crates/v/nom.svg)
 *   [null-terminated](https://crates.io/crates/null-terminated): generic null-terminated arrays - ![crates.io](https://img.shields.io/crates/v/null-terminated.svg)
 *   [num-format](https://crates.io/crates/num-format): Crate for producing string representations of numbers, formatted according to international standards, e.g. "1,000,000" for US English - ![crates.io](https://img.shields.io/crates/v/num-format.svg)
 *   [`panic-persist`](https://crates.io/crates/panic-persist): A panic handler crate inspired by `panic-ramdump` that logs panic messages to a region of RAM defined by the user, allowing for discovery of panic messages post-mortem using normal program control flow. - ![crates.io](https://img.shields.io/crates/v/panic-persist.svg)
-*   [pc-keyboard (⭐87)](https://github.com/thejpster/pc-keyboard): A PS/2 keyboard protocol driver. Transport (bit-banging or SPI) agnostic, but can convert Set 2 Scancodes into Unicode. ![crates.io](https://img.shields.io/crates/v/pc-keyboard.svg)
+*   [pc-keyboard (⭐89)](https://github.com/thejpster/pc-keyboard): A PS/2 keyboard protocol driver. Transport (bit-banging or SPI) agnostic, but can convert Set 2 Scancodes into Unicode. ![crates.io](https://img.shields.io/crates/v/pc-keyboard.svg)
 *   [qei](https://crates.io/crates/qei) : A qei wrapper that allows you to extend your qei timers from a 16 bit integer to a 64 bit integer. - ![crates.io](https://img.shields.io/crates/v/qei.svg)
 *   [qemu-exit](https://crates.io/crates/qemu-exit): Quit a running QEMU session with user-defined exit code. Useful for unit or integration tests using QEMU. - ![crates.io](https://img.shields.io/crates/v/qemu-exit.svg)
 *   [register-rs (⭐48)](https://github.com/rust-embedded/register-rs): Unified interface for MMIO and CPU registers. Provides type-safe bitfield manipulation. `register-rs` is Tock registers with added support for CPU register definitions using the same API as for the MMIO registers. This enables homogeneous interfaces to registers of all kinds. - ![crates.io](https://img.shields.io/crates/v/register.svg)
 *   [scroll](https://crates.io/crates/scroll): extensible and endian-aware Read/Write traits for generic containers - ![crates.io](https://img.shields.io/crates/v/scroll.svg)
-*   [smoltcp (⭐3k)](https://github.com/m-labs/smoltcp): a small TCP/IP stack that runs without `alloc`. ![crates.io](https://img.shields.io/crates/v/smoltcp.svg)
+*   [smoltcp (⭐3.2k)](https://github.com/m-labs/smoltcp): a small TCP/IP stack that runs without `alloc`. ![crates.io](https://img.shields.io/crates/v/smoltcp.svg)
 *   [tinybmp](https://crates.io/crates/tinybmp): No-std, no-alloc BMP parser for embedded systems. [Introductory blog post](https://wapl.es/rust/2019/03/04/embedded-graphics-0.4.7-bmp-support.html) - ![crates.io](https://img.shields.io/crates/v/tinybmp.svg)
-*   [vga-framebuffer (⭐30)](https://github.com/thejpster/vga-framebuffer-rs): A VGA signal generator and font renderer for VGA-less microcontrollers. Used by [Monotron (⭐185)](https://github.com/thejpster/monotron) to generate 48 by 36 character display using 3 SPI peripherals and a timer. ![crates.io](https://img.shields.io/crates/v/vga-framebuffer.svg)
+*   [vga-framebuffer (⭐31)](https://github.com/thejpster/vga-framebuffer-rs): A VGA signal generator and font renderer for VGA-less microcontrollers. Used by [Monotron (⭐187)](https://github.com/thejpster/monotron) to generate 48 by 36 character display using 3 SPI peripherals and a timer. ![crates.io](https://img.shields.io/crates/v/vga-framebuffer.svg)
 *   [wyhash](https://crates.io/crates/wyhash): A fast, simple and portable hashing algorithm and random number generator. - ![crates.io](https://img.shields.io/crates/v/wyhash.svg)
 
 ## [5. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Utilities
 
-*   [GPaste (⭐669)](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an application and a gnome-shell extension).
+*   [GPaste (⭐700)](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an application and a gnome-shell extension).
 
 ## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -244,7 +244,7 @@
 
 ### Frameworks, Libraries and Tools / Database Tools and Utilities
 
-*   [SapphireDb (⭐393)](https://github.com/SapphireDb/SapphireDb) - Server implementation of SapphireDb, a framework for easy development of applications with realtime data synchronization and a self hosted alternative to firebase realtime database/firestore for asp.net core and ef core. Check out the documentation for more details: [Documentation](https://sapphire-db.com)
+*   [SapphireDb (⭐399)](https://github.com/SapphireDb/SapphireDb) - Server implementation of SapphireDb, a framework for easy development of applications with realtime data synchronization and a self hosted alternative to firebase realtime database/firestore for asp.net core and ef core. Check out the documentation for more details: [Documentation](https://sapphire-db.com)
 
 ## [7. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
 
@@ -263,8 +263,8 @@
 
 ### Authentication
 
-*   [BlazorBoilerplate (⭐1.7k)](https://github.com/enkodellc/blazorboilerplate) - ![stars](https://img.shields.io/github/stars/enkodellc/blazorboilerplate?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/enkodellc/blazorboilerplate?style=flat-square\&cacheSeconds=86400) Real World Admin Dashboard / Starter kit with IdentityServer4 Material Design. [Demo](https://blazorboilerplate.com).
-*   [BlazorWithIdentity (⭐394)](https://github.com/stavroskasidis/BlazorWithIdentity) - ![stars](https://img.shields.io/github/stars/stavroskasidis/BlazorWithIdentity?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/stavroskasidis/BlazorWithIdentity?style=flat-square\&cacheSeconds=86400) A sample project showcasing a Blazor app using EF Core with Identity authentication.
+*   [BlazorBoilerplate (⭐1.8k)](https://github.com/enkodellc/blazorboilerplate) - ![stars](https://img.shields.io/github/stars/enkodellc/blazorboilerplate?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/enkodellc/blazorboilerplate?style=flat-square\&cacheSeconds=86400) Real World Admin Dashboard / Starter kit with IdentityServer4 Material Design. [Demo](https://blazorboilerplate.com).
+*   [BlazorWithIdentity (⭐428)](https://github.com/stavroskasidis/BlazorWithIdentity) - ![stars](https://img.shields.io/github/stars/stavroskasidis/BlazorWithIdentity?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/stavroskasidis/BlazorWithIdentity?style=flat-square\&cacheSeconds=86400) A sample project showcasing a Blazor app using EF Core with Identity authentication.
 
 ## [10. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
@@ -344,7 +344,7 @@
 
 ### Data Visualization / Runner
 
-*   [Chart.js (⭐60k)](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the \<canvas> tag.
+*   [Chart.js (⭐62k)](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the \<canvas> tag.
 
 ## [13. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -356,17 +356,17 @@
 
 ### Projects / Frameworks
 
-*   [Fiat (⭐139)](https://github.com/mit-plv/fiat) - Mostly automated synthesis of correct-by-construction programs.
+*   [Fiat (⭐140)](https://github.com/mit-plv/fiat) - Mostly automated synthesis of correct-by-construction programs.
 *   [Iris](https://iris-project.org) - Higher-order concurrent separation logic framework.
-*   [Verdi (⭐549)](https://github.com/uwplse/verdi) - Framework for formally verifying distributed systems implementations.
+*   [Verdi (⭐562)](https://github.com/uwplse/verdi) - Framework for formally verifying distributed systems implementations.
 *   [VST](https://vst.cs.princeton.edu) - Toolchain for verifying C code inside Coq in a higher-order concurrent, impredicative separation logic that is sound w\.r.t. the Clight language of the CompCert compiler.
 
 ### Projects / User Interfaces
 
 *   [CoqIDE](https://coq.inria.fr/refman/practical-tools/coqide.html) - Standalone graphical tool for interacting with Coq.
-*   [Coqtail (⭐210)](https://github.com/whonore/Coqtail) - Interface for Coq based on the Vim text editor.
-*   [Company-Coq (⭐332)](https://github.com/cpitclaudel/company-coq) - IDE extensions for Proof General's Coq mode.
-*   [jsCoq (⭐0)](https://github.com/ejgallego/jscoq) - Port of Coq to JavaScript, which enables running Coq projects in a browser.
+*   [Coqtail (⭐232)](https://github.com/whonore/Coqtail) - Interface for Coq based on the Vim text editor.
+*   [Company-Coq (⭐338)](https://github.com/cpitclaudel/company-coq) - IDE extensions for Proof General's Coq mode.
+*   [jsCoq (⭐2)](https://github.com/ejgallego/jscoq) - Port of Coq to JavaScript, which enables running Coq projects in a browser.
 
 ### Projects / Libraries
 
@@ -378,32 +378,31 @@
 
 ### Projects / Plugins
 
-*   [CoqHammer (⭐187)](https://github.com/lukaszcz/coqhammer) - General-purpose automated reasoning hammer tool that combines learning from previous proofs with the translation of problems to automated provers and the reconstruction of found proofs.
-*   [Equations (⭐196)](https://github.com/mattam82/Coq-Equations) - Function definition package for Coq.
-*   [MetaCoq (⭐286)](https://github.com/MetaCoq/metacoq) - Project formalizing Coq in Coq and providing tools for manipulating Coq terms and developing certified plugins.
+*   [CoqHammer (⭐192)](https://github.com/lukaszcz/coqhammer) - General-purpose automated reasoning hammer tool that combines learning from previous proofs with the translation of problems to automated provers and the reconstruction of found proofs.
+*   [Equations (⭐198)](https://github.com/mattam82/Coq-Equations) - Function definition package for Coq.
+*   [MetaCoq (⭐305)](https://github.com/MetaCoq/metacoq) - Project formalizing Coq in Coq and providing tools for manipulating Coq terms and developing certified plugins.
 *   [Paramcoq (⭐44)](https://github.com/coq-community/paramcoq) - Plugin to generate parametricity translations of Coq terms.
-*   [QuickChick (⭐228)](https://github.com/QuickChick/QuickChick) - Plugin for randomized property-based testing.
-*   [Unicoq (⭐45)](https://github.com/unicoq/unicoq) - Plugin that replaces the existing unification algorithm with an enhanced one.
+*   [QuickChick (⭐230)](https://github.com/QuickChick/QuickChick) - Plugin for randomized property-based testing.
+*   [Unicoq (⭐46)](https://github.com/unicoq/unicoq) - Plugin that replaces the existing unification algorithm with an enhanced one.
 
 ### Projects / Tools
 
-*   [CoqOfOCaml (⭐211)](https://github.com/clarus/coq-of-ocaml) - Tool for generating idiomatic Coq from OCaml code.
+*   [CoqOfOCaml (⭐217)](https://github.com/clarus/coq-of-ocaml) - Tool for generating idiomatic Coq from OCaml code.
 
 ### Projects / Type Theory and Mathematics
 
 *   [CoRN (⭐108)](https://github.com/coq-community/corn) - Library of constructive real analysis and algebra.
-*   [GeoCoq (⭐153)](https://github.com/GeoCoq/GeoCoq) - Formalization of geometry based on Tarski's axiom system.
-*   [Homotopy Type Theory (⭐1.2k)](https://github.com/HoTT/HoTT) - Development of homotopy-theoretic ideas.
-*   [Math Classes (⭐157)](https://github.com/coq-community/math-classes) - Abstract interfaces for mathematical structures based on type classes.
-*   [Odd Order Theorem (⭐24)](https://github.com/math-comp/odd-order) - Formal proof of the Odd Order Theorem, a landmark result of finite group theory.
-*   [UniMath (⭐835)](https://github.com/UniMath/UniMath) - Library which aims to formalize a substantial body of mathematics using the univalent point of view.
+*   [GeoCoq (⭐156)](https://github.com/GeoCoq/GeoCoq) - Formalization of geometry based on Tarski's axiom system.
+*   [Math Classes (⭐158)](https://github.com/coq-community/math-classes) - Abstract interfaces for mathematical structures based on type classes.
+*   [Odd Order Theorem (⭐23)](https://github.com/math-comp/odd-order) - Formal proof of the Odd Order Theorem, a landmark result of finite group theory.
+*   [UniMath (⭐865)](https://github.com/UniMath/UniMath) - Library which aims to formalize a substantial body of mathematics using the univalent point of view.
 
 ### Projects / Verified Software
 
 *   [CompCert](http://compcert.inria.fr) - High-assurance compiler for almost all of the C language (ISO C99), generating efficient code for the PowerPC, ARM, RISC-V and x86 processors.
-*   [Fiat-Crypto (⭐574)](https://github.com/mit-plv/fiat-crypto) - Cryptographic primitive code generation.
+*   [Fiat-Crypto (⭐623)](https://github.com/mit-plv/fiat-crypto) - Cryptographic primitive code generation.
 *   [lambda-rust](https://gitlab.mpi-sws.org/iris/lambda-rust) - Formal model of a Rust core language and type system, a logical relation for the type system, and safety proofs for some Rust libraries.
-*   [Verdi Raft (⭐167)](https://github.com/uwplse/verdi-raft) - Implementation of the Raft distributed consensus protocol, verified in Coq using the Verdi framework.
+*   [Verdi Raft (⭐174)](https://github.com/uwplse/verdi-raft) - Implementation of the Raft distributed consensus protocol, verified in Coq using the Verdi framework.
 
 ### Resources / Community
 
@@ -443,15 +442,15 @@
 
 ### Form Components / Emoji picker
 
-*   [interweave-emoji-picker (⭐952)](https://github.com/milesj/interweave/tree/master/packages/emoji-picker) - A React based emoji picker powered by Interweave and Emojibase.
+*   [interweave-emoji-picker (⭐994)](https://github.com/milesj/interweave/tree/master/packages/emoji-picker) - A React based emoji picker powered by Interweave and Emojibase.
 
 ### Form Components / Image Editing
 
-*   [react-easy-crop (⭐42)](https://github.com/ricardo-ch/react-easy-crop) - Component to crop/rotate images/videos with easy interactions. Touch friendly.
+*   [react-easy-crop (⭐50)](https://github.com/ricardo-ch/react-easy-crop) - Component to crop/rotate images/videos with easy interactions. Touch friendly.
 
 ### Form Components / Miscellaneous
 
-*   [interweave (⭐952)](https://github.com/milesj/interweave) - React library to safely render HTML, filter attributes, autowrap text with matchers, render emoji characters, and much more.
+*   [interweave (⭐994)](https://github.com/milesj/interweave) - React library to safely render HTML, filter attributes, autowrap text with matchers, render emoji characters, and much more.
 
 ### Responsive / Syntax Highlight
 
@@ -459,7 +458,7 @@
 
 ### Test / Lazy Load
 
-*   [rut (⭐17)](https://github.com/milesj/rut) - React testing made easy with `react-test-renderer`. Supports DOM and custom renderers.
+*   [rut (⭐16)](https://github.com/milesj/rut) - React testing made easy with `react-test-renderer`. Supports DOM and custom renderers.
 
 ## [19. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
@@ -499,13 +498,6 @@
 **Free** game that teaches the CSS grid system created by [@thomaspark](https://github.com/thomaspark)\
 *(CSS)*
 
-### Advanced
-
-#### [Paqmind](http://paqmind.com)
-
-**Free** Quiz your knowledge of programming\
-*(JavaScript, Node.js, React, functional programming)*
-
 ## [22. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Libraries / Format Checking
@@ -523,43 +515,43 @@
 
 ### Karachi
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ArbazPirwani" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/ArbazPirwani" height="70px" width="70px" align="left" alt="" />
 
 **Arbaz Pirwani**\
 Topics: Android, Kotlin, Java\
 <https://twitter.com/ArbazPirwani>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bhattieric" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/bhattieric" height="70px" width="70px" align="left" alt="" />
 
 **Eric Bhatti**\
 Topics: Android, Java, Kotlin, Firebase\
 <https://twitter.com/bhattieric>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mashhoodr" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/mashhoodr" height="70px" width="70px" align="left" alt="" />
 
 **Mashhood Rastgar**\
 Topics: Progressive Web Apps, Angular, Firebase\
 <https://twitter.com/mashhoodr>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/smkamranqadri" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/smkamranqadri" height="70px" width="70px" align="left" alt="" />
 
 **Muhammad Kamran**\
 Topics: Angular, Redux, RxJS, Flutter, Dart, React Native, JavaScript, TypeScript, Linux\
 <https://twitter.com/smkamranqadri>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/narainsagar" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/narainsagar" height="70px" width="70px" align="left" alt="" />
 
 **Narain Sagar**\
 Topics: Angular, JavaScript, TypeScript, Node.js, Docker, Continuous Integration, Tooling, Automation Testing\
 <https://twitter.com/narainsagar>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/_nasirhm_" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/_nasirhm_" height="70px" width="70px" align="left" alt="" />
 
 **Nasir Hussain**\
 Topics: Web Design, Blockchain, Python, IoT, Continous Integration, Developer Ecosystems\
 <https://twitter.com/_nasirhm_>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/WajahatKarim" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/WajahatKarim" height="70px" width="70px" align="left" alt="" />
 
 **Wajahat Karim**\
 Topics: Android, Open Source, Java, Kotlin\
@@ -569,7 +561,7 @@ Topics: Android, Open Source, Java, Kotlin\
 
 ### Prague
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/kettanaito" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/kettanaito" height="70px" width="70px" align="left" alt="" />
 
 **Artem Zakharchenko**\
 Topics: React, Forms, CSS Grid\
@@ -579,7 +571,7 @@ Topics: React, Forms, CSS Grid\
 
 ### Plugins / Practices and Specific ES Features
 
-*   [functional (⭐628)](https://github.com/jonaskello/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
+*   [functional (⭐644)](https://github.com/jonaskello/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
 
 ## [25. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
@@ -615,8 +607,8 @@ Topics: React, Forms, CSS Grid\
 
 ### CMS
 
-*   [acquia.com](https://www.acquia.com/) — Hosting for Drupal sites. Free tier for developers. Free development tools (such as Acquia Dev Desktop) also available
-*   [Prismic](https://www.prismic.io/) — Headless CMS. Content management interface with fully hosted and scalable API. The Community Plan provides 1 user with unlimited API calls, documents, custom types, assets, and locales. Everything that you need for your next project. Bigger free plans available for Open Content/Open Source projects.
+*   [acquia.com](https://www.acquia.com/) — Hosting for Drupal sites. Free tier for developers. Free development tools (such as Acquia Dev Desktop) are also available.
+*   [Prismic](https://www.prismic.io/) — Headless CMS. Content management interface with fully hosted and scalable API. The Community Plan provides unlimited API calls, documents, custom types, assets, and locales to one user. Everything that you need for your next project. Bigger free plans are available for Open Content/Open Source projects.
 
 ### Testing
 
@@ -624,7 +616,7 @@ Topics: React, Forms, CSS Grid\
 
 ### Docker Related
 
-*   [Play with Docker](https://labs.play-with-docker.com/) — A simple, interactive and fun playground to learn Docker.
+*   [Play with Docker](https://labs.play-with-docker.com/) — A simple, interactive, fun playground to learn Docker.
 
 ## [29. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -653,24 +645,24 @@ Topics: React, Forms, CSS Grid\
 ### Code Formatting
 
 *   [RuboCop (⭐12k)](https://github.com/rubocop-hq/rubocop) - A static code analyzer, based on the community Ruby style guide.
-    *   [Rubocop Rails (⭐711)](https://github.com/rubocop-hq/rubocop-rails) - A RuboCop extension focused on enforcing Rails best practices and coding conventions.
-    *   [Rubocop Rspec (⭐745)](https://github.com/rubocop-hq/rubocop-rspec) - Code style checking for RSpec files
-    *   [Rubocop Performance (⭐540)](https://github.com/rubocop-hq/rubocop-performance) - A RuboCop extension focused on code performance checks.
+    *   [Rubocop Rails (⭐742)](https://github.com/rubocop-hq/rubocop-rails) - A RuboCop extension focused on enforcing Rails best practices and coding conventions.
+    *   [Rubocop Rspec (⭐765)](https://github.com/rubocop-hq/rubocop-rspec) - Code style checking for RSpec files
+    *   [Rubocop Performance (⭐589)](https://github.com/rubocop-hq/rubocop-performance) - A RuboCop extension focused on code performance checks.
 
 ### Core Extensions
 
 *   Attributes
     *   [ActiveAttr (⭐1.2k)](https://github.com/cgriego/active_attr) - What ActiveModel left out.
     *   [Virtus (⭐3.8k)](https://github.com/solnic/virtus) - Attributes on Steroids for Plain Old Ruby Objects.
-    *   [AttrExtras (⭐550)](https://github.com/barsoom/attr_extras) - Takes some boilerplate out of Ruby with methods like attr\_initialize.
+    *   [AttrExtras (⭐551)](https://github.com/barsoom/attr_extras) - Takes some boilerplate out of Ruby with methods like attr\_initialize.
 
 ### Date and Time Processing
 
-*   [working\_hours (⭐518)](https://github.com/intrepidd/working_hours) - A modern ruby gem allowing to do time calculation with working hours.
+*   [working\_hours (⭐522)](https://github.com/intrepidd/working_hours) - A modern ruby gem allowing to do time calculation with working hours.
 
 ### Form Builder
 
-*   [Rapidfire (⭐306)](https://github.com/code-mancers/rapidfire) - Making dynamic surveys should be easy!
+*   [Rapidfire (⭐310)](https://github.com/code-mancers/rapidfire) - Making dynamic surveys should be easy!
 
 ### Scientific
 
@@ -712,7 +704,7 @@ Topics: React, Forms, CSS Grid\
 
 ### Alert & Action Sheet
 
-*   [CleanyModal (⭐487)](https://github.com/loryhuz/CleanyModal) - Use nice customized alerts and action sheets with ease, API is similar to native UIAlertController.
+*   [CleanyModal (⭐490)](https://github.com/loryhuz/CleanyModal) - Use nice customized alerts and action sheets with ease, API is similar to native UIAlertController.
 
 ## [37. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -720,8 +712,7 @@ Topics: React, Forms, CSS Grid\
 
 *   [backbone](https://CRAN.R-project.org/package=backbone) - Provides methods for binarizing a weighted network retaining only significant edges.
     *   [Introduction to the backbone package](https://arxiv.org/abs/1912.12779)
-*   [networkdata (⭐135)](https://github.com/schochastics/networkdata) - Includes 979 network datasets containing 2135 networks.
-*   [signnet (⭐21)](https://github.com/schochastics/signnet) Methods to analyse signed networks (structural balance, blockmodeling, centrality, etc.)
+*   [networkdata (⭐138)](https://github.com/schochastics/networkdata) - Includes 979 network datasets containing 2135 networks.
 *   [snahelper](https://CRAN.R-project.org/package=snahelper) - RStudio addin which provides a GUI to visualize and analyse networks
     *   [Introduction to snahelper (Part 1)](http://blog.schochastics.net/post/an-rstudio-addin-for-network-analysis-and-visualization/)
     *   [Introduction to snahelper (Part 2)](http://blog.schochastics.net/post/new-rstudio-addins-for-network-analysis/)
@@ -730,17 +721,17 @@ Topics: React, Forms, CSS Grid\
 
 ### Python / General-Purpose Machine Learning
 
-*   [Auto\_ViML (⭐431)](https://github.com/AutoViML/Auto_ViML) -> Automatically Build Variant Interpretable ML models fast! Auto\_ViML is pronounced "auto vimal", is a comprehensive and scalable Python AutoML toolkit with imbalanced handling, ensembling, stacking and built-in feature selection. Featured in <a href="https://towardsdatascience.com/why-automl-is-an-essential-new-tool-for-data-scientists-2d9ab4e25e46?source=friends_link&sk=d03a0cc55c23deb497d546d6b9be0653">Medium article</a>.
+*   [Auto\_ViML (⭐462)](https://github.com/AutoViML/Auto_ViML) -> Automatically Build Variant Interpretable ML models fast! Auto\_ViML is pronounced "auto vimal", is a comprehensive and scalable Python AutoML toolkit with imbalanced handling, ensembling, stacking and built-in feature selection. Featured in <a href="https://towardsdatascience.com/why-automl-is-an-essential-new-tool-for-data-scientists-2d9ab4e25e46?source=friends_link&sk=d03a0cc55c23deb497d546d6b9be0653">Medium article</a>.
 
 ### Python / Data Analysis / Data Visualization
 
-*   [AutoViz (⭐1.3k)](https://github.com/AutoViML/AutoViz) AutoViz performs automatic visualization of any dataset with a single line of Python code. Give it any input file (CSV, txt or JSON) of any size and AutoViz will visualize it. See <a href="https://towardsdatascience.com/autoviz-a-new-tool-for-automated-visualization-ec9c1744a6ad?source=friends_link&sk=c9e9503ec424b191c6096d7e3f515d10">Medium article</a>.
+*   [AutoViz (⭐1.4k)](https://github.com/AutoViML/AutoViz) AutoViz performs automatic visualization of any dataset with a single line of Python code. Give it any input file (CSV, txt or JSON) of any size and AutoViz will visualize it. See <a href="https://towardsdatascience.com/autoviz-a-new-tool-for-automated-visualization-ec9c1744a6ad?source=friends_link&sk=c9e9503ec424b191c6096d7e3f515d10">Medium article</a>.
 
 ## [39. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Debugging
 
-*   [DebugKit plugin (⭐856)](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
+*   🍰 [DebugKit plugin (⭐854)](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
 
 ### Email
 
@@ -748,24 +739,24 @@ Topics: React, Forms, CSS Grid\
 
 ### Miscellaneous
 
-*   [Ajax plugin (⭐56)](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
+*   🍰 [Ajax plugin (⭐56)](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
 *   [CakeImpersonate plugin (⭐7)](https://github.com/jomweb/CakeImpersonate) - A component that stores the current authentication session and creates new session for impersonating Users. User can revert back to original authentication sessions without the need to re-login.
 
 ### Navigation
 
-*   [Icings/Menu plugin](https://github.com/icings/menu) - A [KnpMenu (⭐1.3k)](https://github.com/KnpLabs/KnpMenu) seasoned menu plugin for CakePHP.
+*   🍰 [Icings/Menu plugin (⭐10)](https://github.com/icings/menu) - A [KnpMenu (⭐1.4k)](https://github.com/KnpLabs/KnpMenu) seasoned menu plugin for CakePHP.
 
 ### Search
 
-*   [Search plugin (⭐156)](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
+*   🍰 [Search plugin (⭐165)](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
 
 ### Security
 
-*   [Captcha plugin](https://github.com/dereuromark/cakephp-captcha) - Simple, unobstrusive and extendable captcha solution providing by default an image based math captcha.
+*   🍰 [Captcha plugin (⭐9)](https://github.com/dereuromark/cakephp-captcha) - Simple, unobtrusive and extendable captcha solution providing by default an image based math captcha.
 
 ### Templating
 
-*   [Meta plugin (⭐7)](https://github.com/dereuromark/cakephp-meta) - Makes handling meta tags and SEO relevant HTML markup DRY and easy.
+*   🍰 [Meta plugin (⭐7)](https://github.com/dereuromark/cakephp-meta) - Makes handling meta tags and SEO-relevant HTML markup DRY and easy.
 
 ## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -790,7 +781,7 @@ Topics: React, Forms, CSS Grid\
 
 ### Bindings
 
-*   [ash (⭐1.3k)](https://github.com/MaikKlein/ash) - Vulkan bindings for Rust. \[MIT]
+*   [ash (⭐1.5k)](https://github.com/MaikKlein/ash) - Vulkan bindings for Rust. \[MIT]
 
 ## [42. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -808,23 +799,23 @@ Topics: React, Forms, CSS Grid\
 
 ### Libraries / Cryptography
 
-*   [kornelski/rust-security-framework (⭐190)](https://github.com/kornelski/rust-security-framework) — Bindings for Security Framework (OSX native)
+*   [kornelski/rust-security-framework (⭐196)](https://github.com/kornelski/rust-security-framework) — Bindings for Security Framework (OSX native)
 
 ### Libraries / Encoding
 
 *   BSON
-    *   [mongodb/bson-rust (⭐330)](https://github.com/mongodb/bson-rust) — Encoding and decoding support for BSON in Rust
+    *   [mongodb/bson-rust (⭐353)](https://github.com/mongodb/bson-rust) — Encoding and decoding support for BSON in Rust
 
 ### Libraries / Image processing
 
-*   [abonander/img\_hash (⭐274)](https://github.com/abonander/img_hash) — Perceptual image hashing and comparison for equality and similarity.
+*   [abonander/img\_hash (⭐279)](https://github.com/abonander/img_hash) — Perceptual image hashing and comparison for equality and similarity.
 
 ### Libraries / Platform specific
 
 *   Unix-like
-    *   [nix-rust/nix (⭐2.2k)](https://github.com/nix-rust/nix) — Unix-like API bindings [![Cirrus Build Status](https://api.cirrus-ci.com/github/nix-rust/nix.svg)](https://cirrus-ci.com/github/nix-rust/nix)
-    *   [rustix (⭐888)](https://github.com/bytecodealliance/rustix) — Safe Rust bindings to POSIX/Unix/Linux/Winsock2 syscalls [![Actions Status](https://github.com/bytecodealliance/rustix/workflows/CI/badge.svg)](https://github.com/bytecodealliance/rustix/actions?query=workflow%3ACI)
-    *   [zargony/fuse-rs (⭐958)](https://github.com/zargony/fuse-rs) — [FUSE (⭐4.5k)](https://github.com/libfuse/libfuse) bindings
+    *   [nix-rust/nix (⭐2.3k)](https://github.com/nix-rust/nix) — Unix-like API bindings [![Cirrus Build Status](https://api.cirrus-ci.com/github/nix-rust/nix.svg)](https://cirrus-ci.com/github/nix-rust/nix)
+    *   [rustix (⭐1.1k)](https://github.com/bytecodealliance/rustix) — Safe Rust bindings to POSIX/Unix/Linux/Winsock2 syscalls [![Actions Status](https://github.com/bytecodealliance/rustix/workflows/CI/badge.svg)](https://github.com/bytecodealliance/rustix/actions?query=workflow%3ACI)
+    *   [zargony/fuse-rs (⭐988)](https://github.com/zargony/fuse-rs) — [FUSE (⭐4.7k)](https://github.com/libfuse/libfuse) bindings
 
 ## [44. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
@@ -882,7 +873,7 @@ Topics: React, Forms, CSS Grid\
 *   For advanced users
     *   [Articulate Common Lisp](http://articulate-lisp.com) - A HOWTO for putting together a Lisp environment, and has information on [useful libraries](http://articulate-lisp.com/project/abcs.html) and how to [structure projects](http://articulate-lisp.com/project/new-project.html).
     *   If you're an experienced [Emacs](https://www.gnu.org/software/emacs/) user, you can just install [SLIME](https://common-lisp.net/project/slime/) and a [supported Common Lisp implementation](https://common-lisp.net/project/slime/doc/html/Platforms.html#Platforms). See the [SLIME manual](https://common-lisp.net/project/slime/doc/html/) for more details.
-    *   The Common Lisp Cookbook has more information about [installing an implementation](https://lispcookbook.github.io/cl-cookbook/getting-started.html) using an implementation manager like [Roswell (⭐1.5k)](https://github.com/roswell/roswell/wiki), or on Docker.
+    *   The Common Lisp Cookbook has more information about [installing an implementation](https://lispcookbook.github.io/cl-cookbook/getting-started.html) using an implementation manager like [Roswell (⭐1.7k)](https://github.com/roswell/roswell/wiki), or on Docker.
 
 ### Online References
 
@@ -900,16 +891,16 @@ Topics: React, Forms, CSS Grid\
 
 ### Online Books
 
-*   [Common Lisp: A Gentle Introduction to Symbolic Computation by David S. Touretzky](http://www.cs.cmu.edu/\~dst/LispBook/) - a good introduction for people new to programming. Contains code for really useful utilities like [DTRACE](http://www.cs.cmu.edu/\~dst/Lisp/dtrace/) and [SDRAW](http://www.cs.cmu.edu/\~dst/Lisp/sdraw/).
-*   [Common Lisp: An interactive approach by Stuart C. Shapiro](https://www.cse.buffalo.edu/\~shapiro/Commonlisp/) - A textbook that teaches mainly through the use of exercises.
+*   [Common Lisp: A Gentle Introduction to Symbolic Computation by David S. Touretzky](http://www.cs.cmu.edu/~dst/LispBook/) - a good introduction for people new to programming. Contains code for really useful utilities like [DTRACE](http://www.cs.cmu.edu/~dst/Lisp/dtrace/) and [SDRAW](http://www.cs.cmu.edu/~dst/Lisp/sdraw/).
+*   [Common Lisp: An interactive approach by Stuart C. Shapiro](https://www.cse.buffalo.edu/~shapiro/Commonlisp/) - A textbook that teaches mainly through the use of exercises.
 *   [Practical Common Lisp by Peter Seibel](http://www.gigamonkeys.com/book/) - A great introduction for experienced programmers, and tries to highlight from the very beginning what makes CL different to other languages.
-*   [Common Lisp Koans (⭐2.9k)](https://github.com/google/lisp-koans) - Not exactly a book, but a set of koans to help you learn the language.
+*   [Common Lisp Koans (⭐3k)](https://github.com/google/lisp-koans) - Not exactly a book, but a set of koans to help you learn the language.
 *   [On Lisp by Paul Graham](http://www.paulgraham.com/onlisp.html) - A great book for intermediately experienced Lispers.
 *   [Let Over Lambda by Doug Hoyte](https://letoverlambda.com) - An advanced book on Lisp Macros.
     *   The first six chapters are available online.
     *   [Comments on Let Over Lambda](https://www.reddit.com/r/lisp/comments/3actsc/let_over_lambda/) - Several people recommend that you be comfortable with On Lisp before reading this book, and that the start is slow.
     *   [The chapter on closures](https://letoverlambda.com/index.cl/guest/chap2.html) - Has several non-trivial examples, and demonstrates the power of this feature.
-*   [Paradigms of Artificial Intelligence Programming by Peter Norvig (⭐6.4k)](https://github.com/norvig/paip-lisp) - Has many interesting applications of Lisp, but is no longer a good reference for AI.
+*   [Paradigms of Artificial Intelligence Programming by Peter Norvig (⭐6.9k)](https://github.com/norvig/paip-lisp) - Has many interesting applications of Lisp, but is no longer a good reference for AI.
 
 ### Offline Books
 
@@ -933,7 +924,6 @@ Topics: React, Forms, CSS Grid\
 *   The [Cliki](http://cliki.net) - The Common Lisp Wiki. A great resource for all things CL. Has a great [Getting Started](http://cliki.net/Getting+Started) page and an extensive list of [Lisp books](http://cliki.net/Lisp%20books).
 *   [Lisp Subreddit](http://www.reddit.com/r/lisp/) - An active community, and has loads of useful links and reference documents in the sidebar.
     *   [Common Lisp Subreddit](https://www.reddit.com/r/Common_Lisp) - The Subreddit for Common Lisp.
-*   [Exercism's Common Lisp track](http://exercism.io/languages/common-lisp/about) - An excellent way to learn the language through practice, have your code reviewed, and to discuss solutions with other people.
 
 ### Library Management
 
@@ -962,57 +952,174 @@ Topics: React, Forms, CSS Grid\
 *   [Scieneer Common Lisp (SCL)](http://web.archive.org/web/20171014210404/http://www.scieneer.com/scl/) - A commercial Linux and Unix implementation, but has an unrestricted free evaluation and non-commercial use version.
     *   [SCL manual](http://web.archive.org/web/20171014210404/http://www.scieneer.com/scl/doc/)
 
-## [47. Awesome React](/content/enaqx/awesome-react/week/README.md)
-
-### React Component Libraries
-
-*   [baseweb (⭐8.3k)](https://github.com/uber/baseweb) - A React Component library implementing the Uber's Base design language
-
-## [48. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [47. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Data Formats
 
 *   [JSON::OnSteroids (⭐23)](https://github.com/anykeyh/json_on_steroids) - handle and mutate JSON document easily
 
-### Unofficial
-
-*   [getgood.at](https://getgood.at/in-a-day/crystal) - Learn Crystal in a Day
-
 ### Shell plugins
 
 *   [crystal-zsh (⭐28)](https://github.com/veelenga/crystal-zsh) - .oh-my-zsh plugin
 
-## [49. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
+## [48. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
 ### Datasets
 
-*   [Alex Context NLG Dataset (⭐25)](https://github.com/UFAL-DSG/alex_context_nlg_dataset) - A dataset for NLG in dialogue systems in the public transport information domain.
-*   [Box-score data (⭐101)](https://github.com/harvardnlp/boxscore-data/) - This dataset consists of (human-written) NBA basketball game summaries aligned with their corresponding box- and line-scores.
-*   [WeatherGov](https://cs.stanford.edu/\~pliang/data/weather-data.zip) - Computer-generated weather forecasts from weather.gov (US public forecast), along with corresponding weather data.
-*   [WebNLG (⭐64)](https://github.com/ThiagoCF05/webnlg) - The enriched version of the WebNLG - a resource for evaluating common NLG tasks, including Discourse Ordering, Lexicalization and Referring Expression Generation.
+*   [Alex Context NLG Dataset (⭐23)](https://github.com/UFAL-DSG/alex_context_nlg_dataset) - A dataset for NLG in dialogue systems in the public transport information domain.
+*   [Box-score data (⭐105)](https://github.com/harvardnlp/boxscore-data/) - This dataset consists of (human-written) NBA basketball game summaries aligned with their corresponding box- and line-scores.
+*   [WeatherGov](https://cs.stanford.edu/~pliang/data/weather-data.zip) - Computer-generated weather forecasts from weather.gov (US public forecast), along with corresponding weather data.
+*   [WebNLG (⭐65)](https://github.com/ThiagoCF05/webnlg) - The enriched version of the WebNLG - a resource for evaluating common NLG tasks, including Discourse Ordering, Lexicalization and Referring Expression Generation.
 *   [The Wikipedia company corpus](https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/wikipediacompanycorpus) - Company descriptions collected from Wikipedia. The dataset contains semantic representations, short, and long descriptions for 51K companies in English.
 
 ### Neural Natural Language Generation
 
-*   [Texar (⭐2.3k)](https://github.com/asyml/texar) - Texar is a toolkit aiming to support a broad set of machine learning, especially natural language processing and text generation tasks.
+*   [Texar (⭐2.4k)](https://github.com/asyml/texar) - Texar is a toolkit aiming to support a broad set of machine learning, especially natural language processing and text generation tasks.
 
-## [50. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
-
-### Apps
-
-*   [IPFS Drive (⭐114)](https://github.com/fazo96/ipfs-drive) - In browser file manager for IPFS.
-*   [IPFS with TiddlyWiki (⭐51)](https://github.com/xmaysonnave/tiddlywiki-ipfs) - IPFS with TiddyWiki is a TiddlyWiki plugin who aims to help developers, editors or users to save their wikis and attachments over IPFS.
-*   [uport](https://www.uport.me) - Uport is a mobile, self-sovereign identity and key management system, built on the Ethereum blockchain.
+## [49. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Tools
 
-*   [ipfsecret (⭐20)](https://github.com/shlemph/ipfsecret) - Encrypt and decrypt IPFS files with a secret passphrase
+*   [ipfsecret (⭐22)](https://github.com/shlemph/ipfsecret) - Encrypt and decrypt IPFS files with a secret passphrase.
+
+## [50. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Bash / Non-X86
+
+*   [Bash tutorial](https://web.archive.org/web/20180328183806/http://gdrcorelec.ups-tlse.fr/files/bash.pdf) - Anthony Scemama (PDF) *(:card\_file\_box: archived)*
+
+### C / Non-X86
+
+*   [A Tutorial on Pointers and Arrays in C](https://web.archive.org/web/20180827131006/http://home.earthlink.net/~momotuk/pointers.pdf) - Ted Jensen (PDF) *(:card\_file\_box: archived)*
+
+### C# / Non-X86
+
+*   [Daily Design Patterns](https://web.archive.org/web/20170930132000/https://www.exceptionnotfound.net/downloads/dailydesignpattern.pdf) - Matthew P Jones (PDF) *(:card\_file\_box: archived)*
+
+### Delphi / Pascal / Non-X86
+
+*   [Expert Delphi](https://www.packtpub.com/free-ebooks/expert-delphi) - Paweł Głowacki (Packt account *required*)
+
+### Forth / Phoenix
+
+*   [A Beginner's Guide to Forth](https://web.archive.org/web/20180919061255/http://galileo.phys.virginia.edu/classes/551.jvn.fall01/primer.htm) - J.V. Noble *(:card\_file\_box: archived)*
+
+### Hadoop / Spock Framework
+
+*   [Big Data Analytics with Hadoop 3](https://www.packtpub.com/free-ebooks/big-data-analytics-hadoop-3) - Sridhar Alla (Packt account *required*)
+
+### HTML and CSS / Spock Framework
+
+*   [How to Code in HTML5 and CSS3](https://web.archive.org/web/20180816174417/http://howtocodeinhtml.com/HowToCodeInHTML5AndCSS3.pdf) - Damian Wielgosik (PDF) *(:card\_file\_box: archived)*
+*   [Pro HTML5 Programming](https://web.archive.org/web/20181215200026/http://apress.jensimmons.com/v5/pro-html5-programming/ch0.html) - Jen Simmons, Chris O'Connor, Dylan Wooters, Peter Lubbers *(:card\_file\_box: archived)*
+*   [Scalable and Modular Architecture for CSS](https://web.archive.org/web/20191116073929/http://smacss.com/) - Jonathan Snook *(:card\_file\_box: archived)*
+
+### IoT / Bootstrap
+
+*   [Mastering Internet of Things](https://www.packtpub.com/free-ebooks/mastering-internet-things) - Peter Waher (Packt account *required*)
+
+### Java / Spring
+
+*   [Building Applications with Spring 5 and Vue.js 2](https://www.packtpub.com/free-ebooks/building-applications-spring-5-and-vuejs-2) - James J. Ye (Packt account *required*)
+*   [Software Architecture with Spring 5.0](https://www.packtpub.com/free-ebooks/software-architecture-spring-50) - René Enríquez, Alberto Salazar (Packt account *required*)
+
+### Linux / TeX
+
+*   [Kali Linux 2018: Assuring Security by Penetration Testing, Fourth Edition](https://www.packtpub.com/free-ebooks/kali-linux-2018-assuring-security-penetration-testing-fourth-edition) - Shiva V. N Parasram, Alex Samm, Damian Boodoo, Gerard Johansen, Lee Allen, Tedi Heriyanto, Shakeel Ali (Packt account *required*)
+
+### .NET Framework / PicoLisp
+
+*   [.NET Performance Testing and Optimization - The Complete Guide](https://www.red-gate.com/library/net-performance-testing-and-optimization-the-complete-guide) - Paul Glavich, Chris Farrell (PDF)
+*   [Under the Hood of .NET Memory Management](https://assets.red-gate.com/community/books/under-the-hood-of-net-memory-management.pdf) - Chris Farrell, Nick Harrison (PDF)
+
+### PHP / CakePHP
+
+*   [CakePHP Cookbook 2.x](http://book.cakephp.org/2.0/_downloads/en/CakePHPCookbook.pdf) (PDF)
+
+### PHP / Drupal
+
+*   [The Tiny Book of Rules](https://www.drupal.org/files/tiny-book-of-rules.pdf) (PDF)
+
+### PHP / Laravel
+
+*   [Laravel Best Practices](http://www.laravelbestpractices.com)
+*   [Laravel: Code Bright](http://daylerees.com/codebright) - Dayle Rees
+*   [Laravel: Code Happy](http://daylerees.com/codehappy) - Dayle Rees
+*   [Laravel: Code Smart](https://daylerees.com/codesmart/) - Dayle Rees
+
+### PHP / Symfony
+
+*   [The Symfony Best practices 4.1.x](https://web.archive.org/web/20181017123206/https://symfony.com/pdf/Symfony_best_practices_4.1.pdf) (PDF) *(:card\_file\_box: archived)*
+*   [The Symfony Book 2.8.x](https://symfony.com/doc/2.8/index.html)
+*   [The Symfony Book 3.4.x](https://symfony.com/doc/3.4/index.html)
+*   [The Symfony Book 4.4.x](https://symfony.com/doc/4.4/index.html)
+
+### PHP / Zend
+
+*   [Using Zend Framework 3](https://olegkrivtsov.github.io/using-zend-framework-3-book/html/)
+
+### PowerShell / Zend
+
+*   [Learn PowerShell Core 6.0](https://www.packtpub.com/free-ebooks/learn-powershell-core-60) - David das Neves, Jan-Hendrik Peters (Packt account *required*)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Building Skills in Python](https://web.archive.org/web/20190918094202/http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf) - Steven F. Lott (PDF) (2.6) *(:card\_file\_box: archived)*
+*   [Code Like a Pythonista: Idiomatic Python](https://web.archive.org/web/20180411011411/http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html) - David Goodger *(:card\_file\_box: archived)*
+*   [Python 2.7 quick reference](https://web.archive.org/web/20171013204449/http://infohost.nmt.edu/tcc/help/pubs/python27/python27.pdf) - John W. Shipman (PDF) (2.7) *(:card\_file\_box: archived)*
+*   [The Definitive Guide to Jython, Python for the Java Platform](https://jython.readthedocs.io/en/latest/) - Josh Juneau, Jim Baker, Victor Ng, Leo Soto, Frank Wierzbicki (2.5)
+
+### Python / Django
+
+*   [Django RESTful Web Services](https://www.packtpub.com/free-ebooks/django-restful-web-services) - Gaston C. Hillar (Packt account *required*)
+
+### Ruby / Tornado
+
+*   [Learn Ruby First](https://essenceofchaos.gitbooks.io/learn-ruby-first/content/) - Frederick John
+
+### Ruby / Ruby on Rails
+
+*   [Objects on Rails](https://web.archive.org/web/20190319201525/http://objectsonrails.com/) - Avdi Grimm *(:card\_file\_box: archived)*
+
+### Scala / Sinatra
+
+*   [Another tour of Scala](https://web.archive.org/web/20190629103826/http://naildrivin5.com/scalatour/) - David Copeland *(:card\_file\_box: archived)*
+
+### Splunk / Play Scala
+
+*   [Splunk 7.x Quick Start Guide](https://www.packtpub.com/free-ebooks/splunk-7x-quick-start-guide) - James H. Baxter (Packt account *required*)
+
+### SQL Server / Play Scala
+
+*   [Brad's Sure Guide to SQL Server Maintenance Plans](http://www.red-gate.com/community/books/sql-server-maintenance-plans) - Brad McGehee (PDF) (email address *requested*)
+*   [Defensive Database Programming](https://www.red-gate.com/library/defensive-database-programming) - Alex Kuznetsov (PDF)
+*   [Fundamentals Of SQL Server 2012 Replication](https://www.red-gate.com/library/fundamentals-of-sql-server-2012-replication) - Sebastian Meine (PDF) (email address *requested*)
+*   [How to Become an Exceptional DBA, Second edition](http://www.red-gate.com/community/books/exceptional-dba-book) - Brad McGehee (PDF)
+*   [Inside the SQL Server Query Optimizer](http://www.red-gate.com/products/sql-development/sql-prompt/entrypage/sql-query-optimizer-ebook3) - Benjamin Nevarez (PDF) (email address *requested*)
+*   [Mastering SQL Server Profiler](http://www.red-gate.com/community/books/mastering-sql-server-profiler) - Brad McGehee (PDF)
+*   [Performance Tuning with SQL Server Dynamic Management Views](http://www.red-gate.com/community/books/dynamic-management-views) - Tim Ford, Louis Davidson (PDF)
+*   [Protecting SQL Server Data](http://www.red-gate.com/community/books/protecting-data) - John Magnabosco (PDF)
+*   [SQL Server 2017 Administrator's Guide](https://www.packtpub.com/free-ebooks/sql-server-2017-administrators-guide) - Marek Chmel, Vladimír Mužný (Packt account *required*)
+*   [SQL Server Backup and Restore](http://www.red-gate.com/community/books/sql-server-backup-and-restore) - Shawn McGehee (PDF) (email address *requested*)
+*   [SQL Server Execution Plans, Third Edition](https://assets.red-gate.com/community/books/sql-server-execution-plans-3rd-edition.pdf) - Grant Fritchey (PDF)
+*   [SQL Server Hardware](http://www.red-gate.com/community/books/sql-server-hardware) - Glenn Berry (PDF)
+*   [SQL Server Internals: In-Memory OLTP](http://www.red-gate.com/library/sql-server-internals-in-memory-oltp) - Kalen Delaney (PDF)
+*   [SQL Server Source Control Basics](https://www.red-gate.com/products/sql-development/sql-source-control/entrypage/sql-server-source-control-basics) - Rob Sheldon, Rob Richardson, Tony Davis (PDF)
+*   [SQL Server Statistics](http://www.red-gate.com/community/books/sql-server-statistics) - Holger Schmeling (PDF)
+*   [SQL Server Stumpers Vol.5](http://www.red-gate.com/community/books/sql-server-stumpers-v5) (PDF)
+*   [SQL Server Tacklebox](http://www.red-gate.com/community/books/sql-server-tacklebox) - Rodney Landrum (PDF)
+*   [SQL Server Transaction Log Management](http://www.red-gate.com/community/books/sql-server-transaction-log-management) - Tony Davis, Gail Shaw (PDF)
+*   [The Art of SQL Server FILESTREAM](http://www.red-gate.com/community/books/art-of-filestream) - Jacob Sebastian, Sven Aelterman (PDF)
+*   [The Art of XSD](https://www.red-gate.com/library/the-art-of-xsd) - Jacob Sebastian (PDF)
+*   [The Best of SQLServerCentral.com Vol 7](https://www.red-gate.com/library/the-best-of-sqlservercentral-com-vol-7) (PDF)
+*   [The Redgate Guide to SQL Server Team-based Development](https://www.red-gate.com/library/the-redgate-guide-to-sql-server-team-based-development) - Phil Factor, Grant Fritchey, Alex Kuznetsov, Mladen Prajdić (PDF)
+*   [Troubleshooting SQL Server: A Guide for the Accidental DBA](http://www.red-gate.com/community/books/accidental-dba) - Jonathan Kehayias, Ted Krueger (PDF)
 
 ## [51. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Tools
 
-*   [base-lisp-image (⭐34)](https://github.com/40ants/base-lisp-image) - base
+*   [base-lisp-image (⭐35)](https://github.com/40ants/base-lisp-image) - base
     Docker image for Common Lisp projects with SBCL or CCL and the latest
     ASDF, Qlot and Roswell.
 
@@ -1048,11 +1155,11 @@ Topics: React, Forms, CSS Grid\
 
 ### Status Bar
 
-*   [gitmux (⭐410)](https://github.com/arl/gitmux) Show Git status in tmux status bar
+*   [gitmux (⭐467)](https://github.com/arl/gitmux) Show Git status in tmux status bar
 
 ### Plugins
 
-*   [tmux-spotify (⭐81)](https://github.com/xamut/tmux-spotify) Show a nice menu to manage Spotify application
+*   [tmux-spotify (⭐88)](https://github.com/xamut/tmux-spotify) Show a nice menu to manage Spotify application
 
 ## [54. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 

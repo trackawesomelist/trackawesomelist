@@ -10,13 +10,13 @@
 
 ### Apps / Misc
 
-*   [Wagtail Import/Export Tool (⭐10)](https://github.com/berkalpyakici/wagtail-import-export-tool) - Refactor of [Wagtail Import Export (⭐32)](https://github.com/torchbox/wagtail-import-export). This tool supports importing/exporting images, documents, and snippets that are used on imported/exported pages.
+*   [Wagtail Import/Export Tool (⭐11)](https://github.com/berkalpyakici/wagtail-import-export-tool) - Refactor of [Wagtail Import Export (⭐31)](https://github.com/torchbox/wagtail-import-export). This tool supports importing/exporting images, documents, and snippets that are used on imported/exported pages.
 
 ## [2. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
-*   [music-box (⭐99)](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm.
+*   [music-box (⭐100)](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm.
 *   [strava-box (⭐38)](https://github.com/JohnPhamous/strava-box) - Update a pinned gist to contain your YTD exercise metrics from Strava.
 
 ## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
@@ -35,7 +35,7 @@
 
 ### Functional
 
-*   [atomico (⭐931)](https://github.com/atomicojs/atomico) - Small library for the creation of interfaces based on web components using functions and hooks.
+*   [atomico (⭐1k)](https://github.com/atomicojs/atomico) - Small library for the creation of interfaces based on web components using functions and hooks.
 
 ## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Custom Scrollbar
 
-*   [react-custom-scroll (⭐499)](https://github.com/rommguy/react-custom-scroll) - [demo](http://rommguy.github.io/react-custom-scroll/example/demo.html) - Easily customize the browser scroll bar with native OS scroll behavior.
+*   [react-custom-scroll (⭐525)](https://github.com/rommguy/react-custom-scroll) - [demo](http://rommguy.github.io/react-custom-scroll/example/demo.html) - Easily customize the browser scroll bar with native OS scroll behavior.
 
 ## [8. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 

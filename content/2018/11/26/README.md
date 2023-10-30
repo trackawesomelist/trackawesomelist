@@ -126,7 +126,7 @@
 
 ### Windows 10 Privacy
 
-*   [Windows 10 Privacy Guide (⭐1.3k)](https://github.com/adolfintel/Windows10-Privacy) :star2: an In-depth guide on purging Windows 10 of Microsoft's attempts to track you
+*   [Windows 10 Privacy Guide (⭐1.4k)](https://github.com/adolfintel/Windows10-Privacy) :star2: an In-depth guide on purging Windows 10 of Microsoft's attempts to track you
 
 ### Trackers / Private Trackers
 
@@ -145,8 +145,8 @@
 
 ### Tracker Proxies / Public Trackers
 
-*   [Cardigann (⭐433)](https://github.com/cardigann/cardigann) A proxy server for adding new indexers to Sonarr, SickRage, and other media managers
-*   [nzbhydra2 (⭐938)](https://github.com/theotherp/nzbhydra2/) :star2: Primarily a Usenet metasearch engine but also supports Torznab
+*   [Cardigann (⭐439)](https://github.com/cardigann/cardigann) A proxy server for adding new indexers to Sonarr, SickRage, and other media managers
+*   [nzbhydra2 (⭐1k)](https://github.com/theotherp/nzbhydra2/) :star2: Primarily a Usenet metasearch engine but also supports Torznab
 
 ### Seedboxes / Seedbox Setup Tools and Guides
 
@@ -164,20 +164,20 @@
 ### Usenet Clients / Free Indexers
 
 *   [Usenetic](https://www.usenetic.com/) The full-featured Usenet client for Mac OSX
-*   [spotweb (⭐405)](https://github.com/spotweb/spotweb) Spotweb is a decentralized Usenet community based on the Spotnet protocol.
+*   [spotweb (⭐459)](https://github.com/spotweb/spotweb) Spotweb is a decentralized Usenet community based on the Spotnet protocol.
 
 ## [7. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Editor Plugins
 
-*   [vim-iced (Vim) (⭐498)](https://github.com/liquidz/vim-iced)
+*   [vim-iced (Vim) (⭐503)](https://github.com/liquidz/vim-iced)
 
 ## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 
 *   [dotnet-tools (⭐1.5k)](https://github.com/natemcmaster/dotnet-tools) - A list of tool extensions for .NET Core Command Line (dotnet CLI).
-    *   [LibMan CLI (⭐390)](https://github.com/aspnet/LibraryManager) - Client-side content manager for web apps.
+    *   [LibMan CLI (⭐422)](https://github.com/aspnet/LibraryManager) - Client-side content manager for web apps.
 
 ## [9. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
@@ -190,7 +190,7 @@
 ### Web / Development
 
 *   [OAuth 2 in Action](https://www.manning.com/books/oauth-2-in-action) - Book that teaches you practical use and deployment of OAuth 2 from the perspectives of a client, an authorization server, and a resource server.
-*   [OWASP ZAP Node API (⭐37)](https://github.com/zaproxy/zap-api-nodejs) - Leverage the OWASP Zed Attack Proxy (ZAP) within your NodeJS applications with this official API.
+*   [OWASP ZAP Node API (⭐38)](https://github.com/zaproxy/zap-api-nodejs) - Leverage the OWASP Zed Attack Proxy (ZAP) within your NodeJS applications with this official API.
 
 ## [11. Awesome Research](/content/emptymalei/awesome-research/README.md)
 

@@ -10,11 +10,11 @@
 
 ### Templates / Preferences
 
-*   [Feather (⭐559)](https://github.com/jhomlala/feather) <!--stargazers:jhomlala/feather--> - Beautiful weather application. Application includes RxDart, Dio, BLoC, i18n, unit and widget tests. by [Jakub Homlala](https://github.com/jhomlala)
+*   [Feather (⭐599)](https://github.com/jhomlala/feather) <!--stargazers:jhomlala/feather--> - Beautiful weather application. Application includes RxDart, Dio, BLoC, i18n, unit and widget tests. by [Jakub Homlala](https://github.com/jhomlala)
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Communication / MIT
+### Communication / Apache License
 
 *   [sensortile (⭐19)](https://github.com/morbos/STM32/tree/master/L/L476/sensortile) - This project shows how to initialize a SensorTile and how to send sensor data over BLE from a SensorTile to a suitable host.
 
@@ -33,27 +33,27 @@
 ### Resources / Examples
 
 *   [**Vue(2.0) + Node.js: A blog**](https://github.com/FatDong1/vue-blog) by @FatDong1
-*   [Vue.js and Ionic v4 examples (⭐47)](https://github.com/ModusCreateOrg/ionic-vue-examples/) - A set of examples of how to use Ionic v4 with Vue.js
+*   [Vue.js and Ionic v4 examples (⭐48)](https://github.com/ModusCreateOrg/ionic-vue-examples/) - A set of examples of how to use Ionic v4 with Vue.js
 
 ### Projects Using Vue.js / Open Source
 
-*   [Beep (⭐153)](https://github.com/ModusCreateOrg/beep) - Account Security Scanner built with Vue.js and Ionic 4
-*   [Vue CRUD (⭐800)](https://github.com/szczepanmasny/vue-crud) - Vue.js based REST-ful CRUD system. Vue CRUD allows you to easily create fast applications such as CMS or CRM.
+*   [Beep (⭐155)](https://github.com/ModusCreateOrg/beep) - Account Security Scanner built with Vue.js and Ionic 4
+*   [Vue CRUD (⭐809)](https://github.com/szczepanmasny/vue-crud) - Vue.js based REST-ful CRUD system. Vue CRUD allows you to easily create fast applications such as CMS or CRM.
 
 ### Components & Libraries / UI Components
 
 *   [vue-date-picker (⭐101)](https://github.com/8788/vue-date-picker) - Lightweight datepicker component for Vue 2.x.
-*   [vue-ctk-date-time-picker (⭐837)](https://github.com/chronotruck/vue-ctk-date-time-picker) - A beautiful VueJS component to pick date & time (with range mode) :new:
+*   [vue-ctk-date-time-picker (⭐856)](https://github.com/chronotruck/vue-ctk-date-time-picker) - A beautiful VueJS component to pick date & time (with range mode) :new:
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-scroll-progressbar (⭐85)](https://github.com/guillaumebriday/vue-scroll-progressbar) - A customizable component that indicates the scroll relative position in a progressbar.
+*   [vue-scroll-progressbar (⭐84)](https://github.com/guillaumebriday/vue-scroll-progressbar) - A customizable component that indicates the scroll relative position in a progressbar.
 
 ## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Other Tools / Telegram
 
-*   [Belati (⭐490)](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
+*   [Belati (⭐494)](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
 *   [Outwit](http://www.outwit.com) - Find, grab and organize all kinds of data and media from online sources.
 *   [Pown Recon (⭐417)](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
 *   [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
@@ -62,7 +62,7 @@
 
 ### Dependency Injection
 
-*   [package: inject (⭐862)](https://github.com/google/inject.dart) - Compile-time dependency injection for Dart and Flutter
+*   [package: inject (⭐867)](https://github.com/google/inject.dart) - Compile-time dependency injection for Dart and Flutter
 
 ## [7. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
 
@@ -103,13 +103,13 @@
 
 ### Alertmanager / Miscellaneous
 
-*   [Awesome Prometheus Alerting Rules (⭐4.7k)](https://github.com/samber/awesome-prometheus-alerts) - Awesome List of Prometheus alerting rules.
+*   [Awesome Prometheus Alerting Rules (⭐5k)](https://github.com/samber/awesome-prometheus-alerts) - Awesome List of Prometheus alerting rules.
 
 ## [10. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
 ### Network
 
-*   [Fusillade ★216 (⭐304)](https://github.com/reactiveui/Fusillade) - Set of HttpMessageHandlers that make your mobile applications more efficient and responsive.
+*   [Fusillade ★216 (⭐306)](https://github.com/reactiveui/Fusillade) - Set of HttpMessageHandlers that make your mobile applications more efficient and responsive.
 
 ### UI
 
@@ -122,7 +122,7 @@
 
 ### Oslo
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/antonbabenko" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/antonbabenko" height="70px" width="70px" align="left" alt="" />
 
 **Anton Babenko**\
 Topics: Terraform, AWS, Devops\

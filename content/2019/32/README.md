@@ -59,7 +59,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [KChat (⭐111)](https://github.com/php-kchat/kchat) - PHP Based Live Chat Application. `Apache-2.0` `PHP`
+*   [KChat (⭐120)](https://github.com/php-kchat/kchat) - PHP Based Live Chat Application. `Apache-2.0` `PHP`
 
 ### Software / Communication - Email - Mail Transfer Agents
 
@@ -67,22 +67,22 @@
 
 ### Software / Internet of Things (IoT)
 
-*   [DeviceHive](https://www.devicehive.com/) - Open Source IoT Platform with a wide range of integration options. ([Demo](https://playground.devicehive.com/), [Source Code (⭐300)](https://github.com/devicehive/devicehive-java-server)) `Apache-2.0` `Java`
+*   [DeviceHive](https://www.devicehive.com/) - Open Source IoT Platform with a wide range of integration options. ([Demo](https://playground.devicehive.com/), [Source Code (⭐320)](https://github.com/devicehive/devicehive-java-server)) `Apache-2.0` `Java/Docker/K8S`
 
 ## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Text Editors
 
-*   [micro (⭐22k)](https://github.com/zyedidia/micro) - A simple and intuitive editor.
+*   [micro (⭐23k)](https://github.com/zyedidia/micro) - A simple and intuitive editor.
 
 ### Productivity / Time Tracking
 
-*   [Timewarrior (⭐973)](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
+*   [Timewarrior (⭐1k)](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
 *   [Watson (⭐2.3k)](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
 
 ### Files and Directories / Search
 
-*   [fd (⭐27k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
+*   [fd (⭐29k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
 
 ## [9. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
@@ -113,7 +113,7 @@
 
 ### tools / Other
 
-*   [PowerSploit (⭐10k)](https://github.com/PowerShellMafia/PowerSploit) - A PowerShell post exploitation framework
+*   [PowerSploit (⭐11k)](https://github.com/PowerShellMafia/PowerSploit) - A PowerShell post exploitation framework
 
 ## [13. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
@@ -540,21 +540,21 @@
 
 ### Resources / Controllers
 
-*   [sdl2gdx (⭐60)](https://github.com/electronstudio/sdl2gdx) - Powerful gamepad implementation using SDL. Supports hundreds of controllers under the same mapping, rumble, and hotplugging.
+*   [sdl2gdx (⭐64)](https://github.com/electronstudio/sdl2gdx) - Powerful gamepad implementation using SDL. Supports hundreds of controllers under the same mapping, rumble, and hotplugging.
 
 ### Resources / Setup and Deployment
 
-*   [Packr (⭐2.4k)](https://github.com/libGDX/packr) - Packages your JAR, assets and a JVM for distribution on Windows, Linux and macOS.
+*   [Packr (⭐2.5k)](https://github.com/libGDX/packr) - Packages your JAR, assets and a JVM for distribution on Windows, Linux and macOS.
 
 ### Resources / Visual Effects
 
-*   [Shape Drawer (⭐163)](https://github.com/earlygrey/shapedrawer) - A performant alternative to ShapeRenderer that avoids Batch flushing.
+*   [Shape Drawer (⭐169)](https://github.com/earlygrey/shapedrawer) - A performant alternative to ShapeRenderer that avoids Batch flushing.
 
 ## [16. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
-*   [Large scale Vue.js application boilerplate + Vuex (⭐263)](https://github.com/arunredhu/vuejs_boilerplate) - A boilerplate for starting large scale, flexible Vue.js application with using Vuex as state management - by [Arun Redhu](https://arunredhu.in)
+*   [Large scale Vue.js application boilerplate + Vuex (⭐268)](https://github.com/arunredhu/vuejs_boilerplate) - A boilerplate for starting large scale, flexible Vue.js application with using Vuex as state management - by [Arun Redhu](https://arunredhu.in)
 
 ## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -574,7 +574,7 @@
 
 ### Software Tools / Support Tools
 
-*   [JTAGenum (⭐591)](https://github.com/cyphunk/JTAGenum) - Add JTAG capabilities to an Arduino.
+*   [JTAGenum (⭐625)](https://github.com/cyphunk/JTAGenum) - Add JTAG capabilities to an Arduino.
 *   [OpenOCD](http://openocd.org/) - Free and Open On-Chip Debugging, In-System Programming and Boundary-Scan Testing.
 
 ### Hardware Tools / Misc Tools
@@ -585,15 +585,15 @@
 
 ### Free Training / RFID NFC Tools
 
-*   [Hardware Hacking 101 (⭐36)](https://github.com/rdomanski/hardware_hacking/tree/master/my_talks/Hardware_Hacking_101) - Workshop @ BSides Munich 2019.
-*   [IoTGoat (⭐173)](https://github.com/scriptingxss/IoTGoat) - IoTGoat is a deliberately insecure firmware based on OpenWrt.
-*   [Rhme-2015 (⭐103)](https://github.com/Riscure/RHme-2015) - First riscure Hack me hardware CTF challenge.
+*   [Hardware Hacking 101 (⭐37)](https://github.com/rdomanski/hardware_hacking/tree/master/my_talks/Hardware_Hacking_101) - Workshop @ BSides Munich 2019.
+*   [IoTGoat (⭐177)](https://github.com/scriptingxss/IoTGoat) - IoTGoat is a deliberately insecure firmware based on OpenWrt.
+*   [Rhme-2015 (⭐105)](https://github.com/Riscure/RHme-2015) - First riscure Hack me hardware CTF challenge.
 
 ## [19. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### IntelliJ / Android Studio / Game Engine resources
 
-*   [Enhancement\_Suite (⭐241)](https://github.com/marius-h/flutter_enhancement_suite) <!--stargazers:marius-h/flutter_enhancement_suite--> - Search for pub.dev libraries, update version, Bloc, Snippet, etc you're covered by [Marius Höfler](https://github.com/marius-h)
+*   [Enhancement\_Suite (⭐252)](https://github.com/marius-h/flutter_enhancement_suite) <!--stargazers:marius-h/flutter_enhancement_suite--> - Search for pub.dev libraries, update version, Bloc, Snippet, etc you're covered by [Marius Höfler](https://github.com/marius-h)
 
 ### 🇷🇺 Russia / Misc
 
@@ -613,17 +613,17 @@
 
 ### Icons
 
-*   [iconify-react (⭐186)](https://github.com/iconify/iconify-react) - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets.
+*   [iconify-react (⭐194)](https://github.com/iconify/iconify-react) - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets.
 
 ### Form Components / Star Rating
 
-*   [react-awesome-stars-rating (⭐22)](https://github.com/fedoryakubovich/react-awesome-stars-rating) - [demo](https://react-awesome-stars-rating.herokuapp.com/) - The star rating component with accessibility.
+*   [react-awesome-stars-rating (⭐26)](https://github.com/fedoryakubovich/react-awesome-stars-rating) - [demo](https://react-awesome-stars-rating.herokuapp.com/) - The star rating component with accessibility.
 
 ## [21. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Sample Projects / JVM languages
 
-*   [DDD Workshop - Project Manager (⭐54)](https://github.com/mkopylec/project-manager) - "Do It Yourself" DDD workshop and a sample DDD application at the same time. Based on a project managing domain.
+*   [DDD Workshop - Project Manager (⭐60)](https://github.com/mkopylec/project-manager) - "Do It Yourself" DDD workshop and a sample DDD application at the same time. Based on a project managing domain.
 
 ## [22. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
@@ -644,11 +644,11 @@
 
 #### [Programming Historian](https://programminghistorian.org/en/lessons/)
 
-**Free** Peer reviewed introductory courses for digital humanists.\
+**Free** peer reviewed introductory courses for digital humanists\
 *(Python, R, Unity, QGIS, HTML, Regular Expressions)*
 #### [Software Carpentry](https://software-carpentry.org/lessons/)
 
-**Free** Foundational coding and data science skills for researchers.\
+**Free** foundational coding and data science skills for researchers\
 *(Python, R, OpenRefine, Unix Shell, Git)*
 
 ## [25. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
@@ -689,7 +689,7 @@
 
 ### Log Management
 
-*   [sematext.com](https://sematext.com/logsene) — Free up to 500 MB/day, 7 days retention
+*   [sematext.com](https://sematext.com/logsene) — Free up to 500 MB/day, seven days retention
 
 ### Crash and Exception Handling
 
@@ -705,12 +705,12 @@
 
 ### Storage and Media Processing
 
-*   [filestack.com](https://www.filestack.com/) — File picker, transform and deliver, free for 250 files, 500 transformations and 3 GB bandwidth
+*   [filestack.com](https://www.filestack.com/) — File picker, transform, and deliver, free for 250 files, 500 transformations, and 3 GB bandwidth
 *   [image-charts.com](https://www.image-charts.com/) — Unlimited image chart generation with a watermark
 
 ### Data Visualization on Maps
 
-*   [maptiler.com](https://www.maptiler.com/cloud/) — Vector maps, map services and SDKs for map visualisation. Free vector tiles with weekly update and four map styles.
+*   [maptiler.com](https://www.maptiler.com/cloud/) — Vector maps, map services and SDKs for map visualization. Free vector tiles with weekly updates and four map styles.
 
 ### Analytics, Events and Statistics
 
@@ -718,11 +718,11 @@
 
 ### Visitor Session Recording
 
-*   [mousestats.com](https://www.mousestats.com/) — 100 sessions/month free for 1 website
+*   [mousestats.com](https://www.mousestats.com/) — 100 sessions/month free for one website
 
 ### Miscellaneous
 
-*   [fullcontact.com](https://www.fullcontact.com/developer/pricing/) — Help your users know more about their contacts by adding social profile into your app. 500 free Person API matches/month
+*   [fullcontact.com](https://www.fullcontact.com/developer/pricing/) — Help your users know more about their contacts by adding social profile to your app. 500 free Person API matches/month
 
 ## [30. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
@@ -734,7 +734,7 @@
 
 ### Async
 
-*   [LinqToAwait ★99 (⭐114)](https://github.com/anaisbetts/LinqToAwait) - A Task-based LINQ designed to work with async/await.
+*   [LinqToAwait ★99 (⭐113)](https://github.com/anaisbetts/LinqToAwait) - A Task-based LINQ designed to work with async/await.
 
 ### MVVM
 
@@ -742,11 +742,7 @@
 
 ### Tools
 
-*   [IconFont2Code ★52 (⭐253)](https://github.com/andreinitescu/IconFont2Code) - Generates a C# class with the glyph Unicode values in your font file (.ttf/.otf).
-
-### UI
-
-*   [Essential UI Kit ★130 (⭐1k)](https://github.com/syncfusion/essential-ui-kit-for-xamarin.forms) - Beautiful XAML pages for Xamarin.Forms app.
+*   [IconFont2Code ★52 (⭐261)](https://github.com/andreinitescu/IconFont2Code) - Generates a C# class with the glyph Unicode values in your font file (.ttf/.otf).
 
 ## [32. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
 
@@ -763,8 +759,8 @@
 
 ### Automation / Code libraries and bindings
 
-*   [MultiScanner (⭐583)](https://github.com/mitre/multiscanner) - File analysis framework written in Python that assists in evaluating a set of files by automatically running a suite of tools against them and aggregating the output.
-*   [libcrafter (⭐288)](https://github.com/pellegre/libcrafter) - High level C++ network packet sniffing and crafting library.
+*   [MultiScanner (⭐593)](https://github.com/mitre/multiscanner) - File analysis framework written in Python that assists in evaluating a set of files by automatically running a suite of tools against them and aggregating the output.
+*   [libcrafter (⭐290)](https://github.com/pellegre/libcrafter) - High level C++ network packet sniffing and crafting library.
 
 ### Security monitoring / Service and performance monitoring
 
@@ -784,7 +780,7 @@
 
 ### Files / Runner
 
-*   [PDF.js (⭐42k)](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
+*   [PDF.js (⭐44k)](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
 
 ## [36. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -812,11 +808,11 @@
 
 ### Frameworks, Libraries and Tools / Exceptions
 
-*   [Sentry (⭐424)](https://github.com/getsentry/sentry-dotnet) - .NET SDK for Sentry, an Open-source error tracking that helps developers monitor and fix crashes in real time.
+*   [Sentry (⭐511)](https://github.com/getsentry/sentry-dotnet) - .NET SDK for Sentry, an Open-source error tracking that helps developers monitor and fix crashes in real time.
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [NuGet Trends (⭐118)](https://github.com/NuGetTrends/nuget-trends) - Website with statistics of NuGet packages download count.
+*   [NuGet Trends (⭐130)](https://github.com/NuGetTrends/nuget-trends) - Website with statistics of NuGet packages download count.
 
 ## [39. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 

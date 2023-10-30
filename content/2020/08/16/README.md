@@ -42,10 +42,10 @@
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### Browser based hardware emulation written in Javascript
+### Browser-based hardware emulation written in Javascript
 
 *   [JsLinux](https://bellard.org/jslinux) — a really fast x86 virtual machine capable of running Linux and Windows 2k.
-*   [v86](https://copy.sh/v86) — a x86 virtual machine capable of running Linux and other OS directly into the browser.
+*   [v86](https://copy.sh/v86) — an x86 virtual machine capable of running Linux and other OS directly into the browser.
 
 ## [5. Awesome Tall Stack](/content/livewire/awesome-tall-stack/README.md)
 
@@ -122,7 +122,7 @@
 
 ### Software / Wikis
 
-*   [Zim](https://zim-wiki.org/) - Graphical text editor used to maintain a collection of wiki pages. Each page can contain links to other pages, simple formatting and images. ([Source Code (⭐1.7k)](https://github.com/zim-desktop-wiki/zim-desktop-wiki)) `GPL-2.0` `Python`
+*   [Zim](https://zim-wiki.org/) - Graphical text editor used to maintain a collection of wiki pages. Each page can contain links to other pages, simple formatting and images. ([Source Code (⭐1.8k)](https://github.com/zim-desktop-wiki/zim-desktop-wiki)) `GPL-2.0` `Python/deb`
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

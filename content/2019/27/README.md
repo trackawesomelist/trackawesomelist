@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 08 - Jul 14, 2019
 
-42 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -17,29 +17,29 @@
 
 ### Miscellaneous
 
-*   [react-swipe-to-delete-ios (⭐34)](https://github.com/arnaudambro/react-swipe-to-delete-ios) - [demo](https://arnaudambro.github.io/react-swipe-to-delete-ios/) - To delete an item in a list the same way iOS does.
+*   [react-swipe-to-delete-ios (⭐40)](https://github.com/arnaudambro/react-swipe-to-delete-ios) - [demo](https://arnaudambro.github.io/react-swipe-to-delete-ios/) - To delete an item in a list the same way iOS does.
 
 ## [3. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### Dataset / Web
 
 *   [bravefrontier\_data (⭐63)](https://github.com/cheahjs/bravefrontier_data) - Mobile game data, items and missions information.
-*   [GTA-3D Dataset (⭐118)](https://github.com/oscarmcnulty/gta-3d-dataset) - 2D and 3D images from Grand Theft Auto 5 game.
+*   [GTA-3D Dataset (⭐120)](https://github.com/oscarmcnulty/gta-3d-dataset) - 2D and 3D images from Grand Theft Auto 5 game.
 
 ### Dataset / Related
 
-*   [Steam Game Data (⭐31)](https://github.com/CraigKelly/steam-data) - Combination of Steam API and Steam Spy.
-*   [Steam Review Datasets (⭐35)](https://github.com/mulhod/steam_reviews) - Steam user reviews.
+*   [Steam Game Data (⭐32)](https://github.com/CraigKelly/steam-data) - Combination of Steam API and Steam Spy.
+*   [Steam Review Datasets (⭐37)](https://github.com/mulhod/steam_reviews) - Steam user reviews.
 
 ### Miscellaneous / Related
 
-*   [datasets-games (⭐9)](https://github.com/cncplyr/datasets-games) - Datasets from a variety of games.
+*   [datasets-games (⭐8)](https://github.com/cncplyr/datasets-games) - Datasets from a variety of games.
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### JSON
 
-*   [cJSON (⭐8.8k)](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C. \[MIT]
+*   [cJSON (⭐9.3k)](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C. \[MIT]
 *   [simdjson (⭐17k)](https://github.com/lemire/simdjson) - Extremely fast JSON library that can parse gigabytes of JSON per second. \[Apache-2.0]
 
 ## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
@@ -467,8 +467,8 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome ARM Exploitation (⭐217)](https://github.com/HenryHoggard/awesome-arm-exploitation) - A curated list of ARM exploitation resources.
-*   [Awesome Threat Modeling (⭐97)](https://github.com/redshiftzero/awesome-threat-modeling) - A curated list of Threat Modeling resources.
+*   [Awesome ARM Exploitation (⭐260)](https://github.com/HenryHoggard/awesome-arm-exploitation) - A curated list of ARM exploitation resources.
+*   [Awesome Threat Modeling (⭐102)](https://github.com/redshiftzero/awesome-threat-modeling) - A curated list of Threat Modeling resources.
 
 ## [9. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
@@ -534,22 +534,7 @@
 
 
 
-## [11. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
-
-### Datasets
-
-*   [alpine-linux 3.4 packages](https://ipfs.io/ipfs/QmRsvEpJggeu4HhoafzRFobV4sbwVVTXMrdb2p8XWv7bCS)  [Source (⭐182)](https://github.com/ipfs/archives/issues/83)
-*   [arXiv](https://ipfs.io/ipfs/QmfXH9XtP7xmoTH8WAp4HNSduqWMwLTH8B8TvbTkdgzNAa)  [Source (⭐182)](https://github.com/ipfs/archives/issues/2)
-*   [cdn.media.ccc.de](https://ipfs.io/ipfs/QmW84mqTYnCkRTy6VeRJebPWuuk8b27PJ4bWm2bL4nrEWb)  [Source (⭐182)](https://github.com/ipfs/archives/issues/52)
-*   [cdnjs](https://ipfs.io/ipfs/QmRrnfFUgx81KZR9ibEcxDXgevoj9e5DydB5v168yembnX)  [Source (⭐182)](https://github.com/ipfs/archives/issues/35)
-*   [Geocities by Archive Team](https://ipfs.io/ipfs/QmVCjhoEFC9vwvaa8bKyJgwAByP4MXSogcyDGoz4Lkc3ox)  [Source (⭐182)](https://github.com/ipfs/archives/issues/182)
-*   [KinoKabaret Caen, 2018 - Shortfilms](https://ipfs.io/ipfs/QmajLDwZLH6bKTzd8jkq913ZbxaB2nFGRrkDAuygYNNv39)  [Source (⭐182)](https://github.com/ipfs/archives/issues/172)
-*   [No-Intro Collection](https://ipfs.io/ipfs/QmPFj6iAxUwxVyEtDJBJHXVp4SX9dkV91Mh5mjqGxTctHy)  [Source (⭐182)](https://github.com/ipfs/archives/issues/163)
-*   [Project Apollo Archives](https://ipfs.io/ipfs/QmSnuWmxptJZdLJpKRarxBMS2Ju2oANVrgbr2xWbie9b2D)  [Source (⭐182)](https://github.com/ipfs/archives/issues/143)
-*   [textfiles.com](https://ipfs.io/ipfs/QmNoscE3kNc83dM5rZNUC5UDXChiTdDcgf16RVtFCRWYuU)  [Source (⭐182)](https://github.com/ipfs/archives/issues/155)
-*   [xkcd](https://ipfs.io/ipns/xkcd.hacdias.com)  [Source (⭐182)](https://github.com/ipfs/archives/issues/21)
-
-## [12. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [11. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Online
 
@@ -559,21 +544,21 @@
 
 *   [openFrameworks tutorial](https://www.youtube.com/watch?v=IKSTo_0pB28\&index=51\&list=PL4neAtv21WOmrV8z9rSzL20QpdLU1zJLr) - YouTube playlist about openFrameworks - not updated \[2015].
 
-## [13. Search Engine Optimization](/content/marcobiedermann/search-engine-optimization/week/README.md)
+## [12. Search Engine Optimization](/content/marcobiedermann/search-engine-optimization/week/README.md)
 
 ### Mobile
 
 *   Viewport: Tell browsers how to adjust the page's dimensions and scaling to suit the device
     `<meta name="viewport" content="width=device-width, initial-scale=1">`
 
-## [14. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [13. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### HTTP
 
-*   [Crawly (⭐706)](https://github.com/oltarasenko/crawly) - high-level web crawling & scraping framework for Elixir.
-*   [etag\_plug (⭐20)](https://github.com/sascha-wolf/etag_plug) - A simple to use shallow ETag plug.
+*   [Crawly (⭐766)](https://github.com/oltarasenko/crawly) - high-level web crawling & scraping framework for Elixir.
+*   [etag\_plug (⭐22)](https://github.com/sascha-wolf/etag_plug) - A simple to use shallow ETag plug.
 
-## [15. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [14. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment / Games
 
@@ -581,39 +566,39 @@
 
 ### Utilities / macOS
 
-*   [open-pip-cli (⭐192)](https://github.com/albinekb/open-pip-cli) - Watch videos in picture-in-picture player.
+*   [open-pip-cli (⭐195)](https://github.com/albinekb/open-pip-cli) - Watch videos in picture-in-picture player.
 
-## [16. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [15. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Routing
 
-*   [Wouter (⭐5.1k)](https://github.com/molefrog/wouter) - A tiny (1KB gzip) router for Preact/React with React Router-like API.
+*   [Wouter (⭐5.5k)](https://github.com/molefrog/wouter) - A tiny (1KB gzip) router for Preact/React with React Router-like API.
 
-## [17. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [16. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Videos / Other Tools
 
 *   [Declarative Reactive Web Components with Justin Fagnani](https://www.youtube.com/watch?v=9FB0GSOAESo)
 
-## [18. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [17. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Tools / Communication
 
 *   [Jitsi](https://jitsi.org) - Multi-platform open-source video conferencing
 
-## [19. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [18. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Articles and Presentations / Generic eBPF Presentations and Articles
 
 *   [Linux Kernel Observability through eBPF](https://sematext.com/blog/linux-kernel-observability-ebpf/) - A blog post covering the basics of eBPF as well as code samples in Go on how to build and load a minimal eBPF program into the kernel.
 
-## [20. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [19. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Program analysis
 
 *   [cwe\_checker (⭐842)](https://github.com/fkie-cad/cwe_checker) - cwe\_checker finds vulnerable patterns in binary executables.
 
-## [21. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [20. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Courses
 
@@ -621,19 +606,19 @@
 *   [Deep Blueberry: Deep Learning](https://mithi.github.io/deep-blueberry) - A free five-weekend plan to self-learners to learn the basics of deep-learning architectures like CNNs, LSTMs, RNNs, VAEs, GANs, DQN, A3C and more (2019)
 *   [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/) - A free deep reinforcement learning course by OpenAI (2019)
 
-## [22. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [21. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### React Hooks / Themes
 
-*   [Sunflower(🌻) (⭐484)](https://github.com/ant-design/sunflower) Collection of React Hooks returning component of antd.
+*   [Sunflower(🌻) (⭐498)](https://github.com/ant-design/sunflower) Collection of React Hooks returning component of antd.
 
-## [23. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [22. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Kodi / Third Party Hosts
 
 *   [Burst](http://burst.surge.sh) A torrent content provider to the Quasar plugin.
 
-## [24. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [23. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
@@ -641,13 +626,13 @@
 *   [Automating Custom IoT Devices With Appium, Part 2](https://appiumpro.com/editions/75)
 *   [Testing React Native Apps with Appium](https://appiumpro.com/editions/76)
 
-## [25. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [24. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Cryptocurrencies
 
-*   [zcash (⭐4.7k)](https://github.com/zcash/zcash) — Zcash is an implementation of the "Zerocash" protocol.
+*   [zcash (⭐4.8k)](https://github.com/zcash/zcash) — Zcash is an implementation of the "Zerocash" protocol.
 
-## [26. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [25. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### On-Call
 
@@ -659,44 +644,44 @@
 *   [Google SRE Twitter Account](https://twitter.com/googlesre) - Google's SRE Twitter Account.
 *   [SREWorkbook](https://twitter.com/SREWorkbook) - The Official Twitter Account of Site Reliability Workbook.
 
-## [27. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [26. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Material Design
 
 *   [MDBootstrap (⭐1.1k)](https://github.com/mdbootstrap/Angular-Bootstrap-with-Material-Design) Built with Angular 7, Bootstrap 4 and TypeScript powerful UI KIT providing a set of slick, responsive page templates, layouts, components and widgets to rapidly build responsive, mobile-first websites and apps.
 
-## [28. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [27. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### C / Git
 
-*   [milagro-crypto-c (⭐29)](https://github.com/apache/incubator-milagro-crypto-c) - Small, self-contained and fast open source crypto library. It supports RSA, ECDH, ECIES, ECDSA, AES-GCM, SHA2, SHA3 and Pairing-Based Cryptography.
+*   [milagro-crypto-c (⭐34)](https://github.com/apache/incubator-milagro-crypto-c) - Small, self-contained and fast open source crypto library. It supports RSA, ECDH, ECIES, ECDSA, AES-GCM, SHA2, SHA3 and Pairing-Based Cryptography.
 
-## [29. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [28. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Rapidbay (⭐518)](https://github.com/hauxir/rapidbay/) - Self-hosted torrent videostreaming service/torrent client that allows searching and playing videos from torrents in the browser or from a Chromecast/AppleTV/Smart TV. `MIT` `Python/Docker`
+*   [Rapidbay (⭐597)](https://github.com/hauxir/rapidbay/) - Self-hosted torrent videostreaming service/torrent client that allows searching and playing videos from torrents in the browser or from a Chromecast/AppleTV/Smart TV. `MIT` `Python/Docker`
 
-## [30. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [29. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [the-elements-of-statistical-learning (⭐376)](https://github.com/maitbayev/the-elements-of-statistical-learning) - This repository contains Jupyter notebooks implementing the algorithms found in the book and summary of the textbook.
+*   [the-elements-of-statistical-learning (⭐384)](https://github.com/maitbayev/the-elements-of-statistical-learning) - This repository contains Jupyter notebooks implementing the algorithms found in the book and summary of the textbook.
 
-## [31. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [30. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Debugging / Profiling
 
 *   [thetool (⭐212)](https://github.com/sfninja/thetool) - Capture different CPU, memory, and other profiles for your app in Chrome DevTools friendly format.
 
-## [32. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
+## [31. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
 
 ### Development tools
 
 *   [Open Watcom V2 (⭐773)](https://github.com/open-watcom/open-watcom-v2) - GitHub fork which is actively maintained and is
     ported to 64-bit Windows and Linux.
 
-## [33. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [32. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Strategy
 
@@ -710,21 +695,21 @@
 | ------: | -------: | -----: |
 |   4 - 8 |        7 | 30-90m |
 
-## [34. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [33. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Top / Game Engine resources
 
-*   [Enigma (⭐389)](https://github.com/AmitJoki/Enigma) - Privacy chat with end-to-end encryption by [AmitJoki](https://github.com/AmitJoki)
+*   [Enigma (⭐395)](https://github.com/AmitJoki/Enigma) - Privacy chat with end-to-end encryption by [AmitJoki](https://github.com/AmitJoki)
 
 ### Guide & Interviews / Game Engine resources
 
-*   [Interview Questions (⭐325)](https://github.com/whatsupcoders/Flutter-Interview-Questions) - List of helpful questions you can use to interview potential candidates by [Whatsupcoders (⭐41)](https://github.com/whatsupcoders/Whatsupcoders-flutter)
+*   [Interview Questions (⭐336)](https://github.com/whatsupcoders/Flutter-Interview-Questions) - List of helpful questions you can use to interview potential candidates by [Whatsupcoders (⭐41)](https://github.com/whatsupcoders/Whatsupcoders-flutter)
 
 ### 🇯🇵 Japan / Misc
 
 *   Meetup [Tokyo Flutter Developers](https://www.meetup.com/Tokyo-Flutter/)
 
-## [35. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Command Line
 
@@ -732,11 +717,11 @@
 
 ### TOML
 
-*   [TOMLDecoder (⭐62)](https://github.com/dduan/TOMLDecoder) - Latest TOML standard, decoded.
+*   [TOMLDecoder (⭐66)](https://github.com/dduan/TOMLDecoder) - Latest TOML standard, decoded.
 
 ### Files
 
-*   [Pathos (⭐110)](https://github.com/dduan/Pathos) :penguin: - Efficient Unix file management.
+*   [Pathos (⭐111)](https://github.com/dduan/Pathos) :penguin: - Efficient Unix file management.
 
 ### Camera
 
@@ -744,43 +729,43 @@
 
 ### UI / Barcode
 
-*   [BatteryView (⭐52)](https://github.com/yonat/BatteryView) - Simple battery shaped UIView.
+*   [BatteryView (⭐51)](https://github.com/yonat/BatteryView) - Simple battery shaped UIView.
 
 ### UICollectionView / Barcode
 
-*   [CheckmarkCollectionViewCell (⭐62)](https://github.com/yonat/CheckmarkCollectionViewCell) - UICollectionViewCell with checkbox when it isSelected and empty circle when not - like Photos.app 'Select' mode.
+*   [CheckmarkCollectionViewCell (⭐64)](https://github.com/yonat/CheckmarkCollectionViewCell) - UICollectionViewCell with checkbox when it isSelected and empty circle when not - like Photos.app 'Select' mode.
 
 ### UITableView / Barcode
 
-*   [DiffableDataSources (⭐780)](https://github.com/ra1028/DiffableDataSources) - 💾 A library for backporting UITableView/UICollectionViewDiffableDataSource.
+*   [DiffableDataSources (⭐830)](https://github.com/ra1028/DiffableDataSources) - 💾 A library for backporting UITableView/UICollectionViewDiffableDataSource.
 
 ### Validation / Barcode
 
-*   [ValidatedPropertyKit (⭐917)](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮.
+*   [ValidatedPropertyKit (⭐955)](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮.
 
-## [36. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
+## [35. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 
 ### Libraries / Shell
 
 *   [gulp-execa (⭐52)](https://github.com/ehmicky/gulp-execa) - Cross-platform command execution in Gulp.js.
 
-## [37. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [36. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / GUI
 
-*   [AdonisUI (⭐1.3k)](https://github.com/benruehl/adonis-ui) - Lightweight UI toolkit for WPF applications offering classic but enhanced windows visuals.
+*   [AdonisUI (⭐1.6k)](https://github.com/benruehl/adonis-ui) - Lightweight UI toolkit for WPF applications offering classic but enhanced windows visuals.
 
 ### Frameworks, Libraries and Tools / Serialization
 
-*   [BinarySerializer (⭐248)](https://github.com/jefffhaynes/BinarySerializer) - Serialization for custom packet and protocol formats, supports bit-twiddling.
+*   [BinarySerializer (⭐270)](https://github.com/jefffhaynes/BinarySerializer) - Serialization for custom packet and protocol formats, supports bit-twiddling.
 
-## [38. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [37. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Libraries / To draw using canvas
 
 *   [zDog (⭐9.6k)](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
 
-## [39. Amas](/content/sindresorhus/amas/week/README.md)
+## [38. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
@@ -788,7 +773,7 @@
 *   [Jim Lesperance (⭐2)](https://github.com/cooljl31/ama) - Passionate full-stack developer, dog ❤️ and likes to travel.
 *   [Greg Edelston (⭐1)](https://github.com/gredelston/ama) - Software engineer at Google. Zen Buddhist and improv lover.
 
-## [40. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
+## [39. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
 
 ### Data Sets
 
@@ -799,13 +784,13 @@
 
 *   [CryptOSS (⭐8)](https://github.com/rvantonder/CryptOSS) - Mine GitHub activity and market cap data for cryptocurrency projects.
 
-## [41. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [40. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
-### PDF
+### PDF / Text-Based User Interfaces
 
-*   [Open HTML to PDF (⭐1.6k)](https://github.com/danfickle/openhtmltopdf) - Properly supports modern PDF standards based on flyingsaucer and Apache PDFBox.
+*   [Open HTML to PDF (⭐1.7k)](https://github.com/danfickle/openhtmltopdf) - Properly supports modern PDF standards based on flyingsaucer and Apache PDFBox.
 
-## [42. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [41. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Lambda
 

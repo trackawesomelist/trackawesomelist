@@ -28,11 +28,11 @@
 
 ### Other Awesome Lists
 
-*   [awesome-macOS (⭐14k)](https://github.com/iCHAIT/awesome-macOS) - A curated list of awesome applications, softwares, tools and shiny things for macOS.
+*   [awesome-macOS (⭐15k)](https://github.com/iCHAIT/awesome-macOS) - A curated list of awesome applications, softwares, tools and shiny things for macOS.
 
 ### Dependency Injection
 
-*   [Dip (⭐950)](https://github.com/AliSoftware/Dip) - A simple Dependency Injection Container.
+*   [Dip (⭐962)](https://github.com/AliSoftware/Dip) - A simple Dependency Injection Container.
 
 ## [5. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
@@ -88,7 +88,7 @@ Webpage: <https://www.bop.pt>
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [gifgen (⭐496)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
+*   [gifgen (⭐508)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
 
 ---
 

@@ -48,7 +48,7 @@
 
 ### Artificial Intelligence / Mobile
 
-*   [Habitica (⭐1.1k)](https://github.com/HabitRPG/habitica-android) - Gamify your life.
+*   [Habitica (⭐1.2k)](https://github.com/HabitRPG/habitica-android) - Gamify your life.
 
 ## [7. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
@@ -111,7 +111,7 @@
 
 ### Miscellaneous
 
-*   [react-customizable-chat-bot (⭐10)](https://github.com/chithakumar13/react-chat-bot) - [Demo](https://chithakumar13.github.io/bot-example) - Build your own chatbot matching your brand needs in minutes.
+*   [react-customizable-chat-bot (⭐14)](https://github.com/chithakumar13/react-chat-bot) - [Demo](https://chithakumar13.github.io/bot-example) - Build your own chatbot matching your brand needs in minutes.
 
 ## [12. Awesome Internships](/content/lodthe/awesome-internships/README.md)
 

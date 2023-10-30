@@ -20,16 +20,16 @@
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
-### Podcasts / Other
+### Misc / Other
 
 *   [willianjusten/awesome-svg (⭐4.4k)](https://github.com/willianjusten/awesome-svg)
-*   [davidsonfellipe/awesome-wpo (⭐7.9k)](https://github.com/davidsonfellipe/awesome-wpo)
+*   [davidsonfellipe/awesome-wpo (⭐8k)](https://github.com/davidsonfellipe/awesome-wpo)
 
 ## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Misc
 
-*   [AzureCrawler (⭐43)](https://github.com/yagopv/AzureCrawler) - Take HTML Snapshots for your Angular, Ember, Durandal or any JavaScript applications
+*   [AzureCrawler (⭐42)](https://github.com/yagopv/AzureCrawler) - Take HTML Snapshots for your Angular, Ember, Durandal or any JavaScript applications
 
 ## [5. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 
@@ -49,7 +49,7 @@
 
 *   [Light House 3D](http://www.lighthouse3d.com/tutorials/glsl-core-tutorial) by **Light House 3D**
 *   [Modern OpenGL](http://www.tomdalling.com/blog/category/modern-opengl) by **Tom Dalling**
-*   [OpenGL Examples (⭐2k)](https://github.com/McNopper/OpenGL) by **Norbert Nopper**
+*   [OpenGL Examples (⭐2.1k)](https://github.com/McNopper/OpenGL) by **Norbert Nopper**
 *   [OpenGL Step by Step](http://ogldev.atspace.co.uk) by **Etay Meiri**
 *   [OpenGL Tutorial](https://open.gl) by **Alexander Overvoorde**
 *   [OpenGL Tutorial](http://antongerdelan.net/opengl/index.html) by **Anton Gerdelan**

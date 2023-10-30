@@ -16,7 +16,7 @@
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
-*   [Keila](https://www.keila.io) - Self-hosted reliable and easy-to-use newsletter tool. Alternative to proprietary services like Mailchimp or Sendinblue. ([Demo](https://app.keila.io), [Source Code (⭐868)](https://github.com/pentacent/keila)) `AGPL-3.0` `Elixir`
+*   [Keila](https://www.keila.io) - Self-hosted reliable and easy-to-use newsletter tool (alternative to Mailchimp or Sendinblue). ([Demo](https://app.keila.io), [Source Code (⭐966)](https://github.com/pentacent/keila)) `AGPL-3.0` `Docker`
 
 ### Software / Media Streaming - Audio Streaming
 
@@ -26,7 +26,7 @@
 
 ### Charts / Checkbox
 
-*   [svelte-frappe-charts (⭐274)](https://github.com/himynameisdave/svelte-frappe-charts) - Svelte bindings for frappe-charts.
+*   [svelte-frappe-charts (⭐293)](https://github.com/himynameisdave/svelte-frappe-charts) - Svelte bindings for frappe-charts.
 
 ## [4. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
@@ -36,9 +36,9 @@
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [sfdx-autocomplete (⭐9)](https://github.com/jayree/sfdx-autocomplete-plugin) - Autocomplete plugin for sfdx.
+*   [sfdx-autocomplete (⭐10)](https://github.com/jayree/sfdx-autocomplete-plugin) - Autocomplete plugin for Salesforce [sfdx](https://developer.salesforce.com/tools/salesforcecli).
 *   [speedtest (⭐2)](https://github.com/Yash-Singh1/zsh-plugin-speedtest) - Tab completions for the speedtest [cli](https://www.speedtest.net/insights/blog/introducing-speedtest-cli/).
 
 ## [6. Magictools](/content/ellisonleao/magictools/README.md)
@@ -57,7 +57,7 @@
 
 ### Tools / Misc
 
-*   [Chaos Genius (⭐588)](https://github.com/chaos-genius/chaos_genius/) - ML powered analytics engine for outlier/anomaly detection and root cause analysis.
+*   [Chaos Genius (⭐636)](https://github.com/chaos-genius/chaos_genius/) - ML powered analytics engine for outlier/anomaly detection and root cause analysis.
 
 ## [9. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Crates / Utils
 
-*   [yew-style-in-rs (⭐21)](https://github.com/MatchaChoco010/yew-style-in-rs) - Scoped CSS in Rust for Yew.
+*   [yew-style-in-rs (⭐22)](https://github.com/MatchaChoco010/yew-style-in-rs) - Scoped CSS in Rust for Yew.
 
 ## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

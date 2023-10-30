@@ -32,7 +32,7 @@
 
 ## [5. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Unit Test, Testing / MIT
+### Unit Test, Testing / Apache License
 
 *   [ahven](http://ahven.stronglytyped.org/) - Ahven is a simple unit test library and framework for the Ada programming.
     language.  It is loosely modelled after JUnit and some ideas from AUnit.
@@ -88,7 +88,7 @@
 
 ### macOS-based defenses / Overlay and Virtual Private Networks (VPNs)
 
-*   [Santa (⭐4k)](https://github.com/google/santa) - Keep track of binaries that are naughty or nice in an allow/deny-listing system for macOS.
+*   [Santa (⭐4.2k)](https://github.com/google/santa) - Keep track of binaries that are naughty or nice in an allow/deny-listing system for macOS.
 
 ## [12. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -106,8 +106,8 @@
 
 ### Plugins
 
-*   💙💼 [Aspect Ratio (⭐814)](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - Adds composable aspect ratio utilities.
-*   💙 [Forms (⭐3.1k)](https://github.com/tailwindlabs/tailwindcss-forms) - Adds better default styles to form elements.
+*   💙💼 [Aspect Ratio (⭐858)](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - Adds composable aspect ratio utilities.
+*   💙 [Forms (⭐3.5k)](https://github.com/tailwindlabs/tailwindcss-forms) - Adds better default styles to form elements.
 *   🛑🧩💙 [Custom Forms (⭐1.6k)](https://github.com/tailwindlabs/tailwindcss-custom-forms) - Adds better default styles to form elements.
 
 ## [15. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
@@ -1023,7 +1023,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [object-visualizer (⭐216)](https://github.com/iendeavor/object-visualizer) - Vue 3 JSON inspector with Chrome-like theme.
+*   [object-visualizer (⭐217)](https://github.com/iendeavor/object-visualizer) - Vue 3 JSON inspector with Chrome-like theme.
 
 ## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -1069,7 +1069,7 @@
 
 ### Tools / Python
 
-*   [Helium (⭐3.1k)](https://github.com/mherrmann/selenium-python-helium) - Helium makes Selenium easier and faster to use
+*   [Helium (⭐3.5k)](https://github.com/mherrmann/selenium-python-helium) - Helium makes Selenium easier and faster to use
 
 ## [24. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -1087,11 +1087,11 @@
 
 
 
-## [25. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [25. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
-### Applications
+### Social Networks
 
-*   [Mobilizon](https://joinmobilizon.org/): A federated tool that helps you find, create and organise events.
+*   [Mobilizon](https://joinmobilizon.org/) is a federated tool that helps you find, create and organise events.
 
 ## [26. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
@@ -1103,7 +1103,7 @@
 
 ### Packages / Miscellaneous
 
-*   [editly (⭐4.1k)](https://github.com/mifi/editly) - Declarative video editing API.
+*   [editly (⭐4.3k)](https://github.com/mifi/editly) - Declarative video editing API.
 
 ## [28. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
@@ -1127,7 +1127,7 @@
 
 ### Fraud / Trust Score
 
-*   [Awesome Credit Modeling (⭐83)](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and reasearch papers there to improve general scoring.
+*   [Awesome Credit Modeling (⭐93)](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and reasearch papers there to improve general scoring.
 
 ### Business Intelligence / Metrics
 
@@ -1144,15 +1144,15 @@
 
 ## [32. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
-### Authentication / Password-based
+### Password-based auth / Identifiers
 
 *   [Practical Recommendations for Stronger, More Usable Passwords](http://www.andrew.cmu.edu/user/nicolasc/publications/Tan-CCS20.pdf) - This study recommend the association of: blocklist checks against commonly leaked passwords, password policies without character-class requirements, minimum-strength policies.
 
 ### Authorization / AWS policy tools
 
-*   [Cloudsplaining (⭐1.7k)](https://github.com/salesforce/cloudsplaining) - Security assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
-*   [Principal Mapper (⭐1.2k)](https://github.com/nccgroup/PMapper) - Quickly evaluates permissions.
-*   [PolicyUniverse (⭐364)](https://github.com/Netflix-Skunkworks/policyuniverse) - Parse and process AWS policies, statements, ARNs, and wildcards.
+*   [Cloudsplaining (⭐1.8k)](https://github.com/salesforce/cloudsplaining) - Security assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
+*   [Principal Mapper (⭐1.3k)](https://github.com/nccgroup/PMapper) - Quickly evaluates permissions.
+*   [PolicyUniverse (⭐403)](https://github.com/Netflix-Skunkworks/policyuniverse) - Parse and process AWS policies, statements, ARNs, and wildcards.
 
 ### Privacy / Profanity
 
@@ -1185,7 +1185,7 @@
 
 ### Test / Checkbox
 
-*   [@testing-library/svelte (⭐551)](https://github.com/testing-library/svelte-testing-library) - Simple and complete Svelte DOM testing utilities that encourage good testing practices.
+*   [@testing-library/svelte (⭐571)](https://github.com/testing-library/svelte-testing-library) - Simple and complete Svelte DOM testing utilities that encourage good testing practices.
 
 ## [36. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/week/README.md)
 
@@ -1197,11 +1197,11 @@
 
 ### Tools
 
-*   [bitfield (⭐21)](https://github.com/marcoheisig/bitfield) - Efficiently represent several finite sets or small integers as a single non-negative integer. [MIT](https://opensource.org/licenses/MIT).
+*   [bitfield (⭐22)](https://github.com/marcoheisig/bitfield) - Efficiently represent several finite sets or small integers as a single non-negative integer. [MIT](https://opensource.org/licenses/MIT).
 
 ### Clojure
 
-*   [ABCLJ (⭐81)](https://github.com/lsevero/abclj) - dead easy  Clojure to Common lisp interop. EPL-2.0.
+*   [ABCLJ (⭐84)](https://github.com/lsevero/abclj) - dead easy  Clojure to Common lisp interop. EPL-2.0.
 
 ### Other books
 
@@ -1211,7 +1211,7 @@
 
 ### Games
 
-*   [SwiftFortuneWheel (⭐266)](https://github.com/sh-khashimov/SwiftFortuneWheel) - A cross-platform framework for games like a Wheel of Fortune.
+*   [SwiftFortuneWheel (⭐296)](https://github.com/sh-khashimov/SwiftFortuneWheel) - A cross-platform framework for games like a Wheel of Fortune.
 
 ### Tools / Collection View Layout
 
@@ -1236,7 +1236,37 @@
 
 *   [KDE Configs (⭐379)](https://github.com/shalva97/kde-configuration-files) - List of KDE configuration files and more.
 
-## [42. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [42. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Android
+
+*   [Codelabs for Advanced Android Development](https://developer.android.com/courses/advanced-training/toc)
+
+### C++ / Non-X86
+
+*   [LearnCpp.com](https://www.learncpp.com) (HTML)
+
+### DBMS / Non-X86
+
+*   [Database Management Systems eBooks For All Edition](http://www.lincoste.com/ebooks/english/pdf/computers/database_management_systems.pdf) (PDF)
+
+### JavaScript / Wicket
+
+*   [Single page apps in depth](http://singlepageappbook.com) - Mixu (HTML)
+*   [Standard ECMA-262 ECMAScript 2016 Language Specification](https://www.ecma-international.org/publications/standards/Ecma-262.htm) - Ecma International (HTML,PDF)
+*   [The JavaScript Way (⭐7.8k)](https://github.com/bpesquet/thejsway) - Baptiste Pesquet
+
+### MATLAB / PicoLisp
+
+*   [Introduction to MATLAB for Engineering Students](https://www.mccormick.northwestern.edu/documents/students/undergraduate/introduction-to-matlab.pdf) - David Houcque (PDF) (1.2, 2005)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook) - Jake VanderPlas (HTML, Jupyter Notebooks)
+*   [Python for Everybody](http://py4e.com/book) - Charles Russell Severance (PDF, EPUB, HTML) (3.x)
+*   [Python for Informatics: Exploring Information](http://www.pythonlearn.com/book.php) - Charles Russell Severance (2.7.5)
+
+## [43. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Best Practices
 
@@ -1253,23 +1283,17 @@
 *   [Routing Management with LitElement and TypeScript](https://labs.thisdot.co/blog/routing-management-with-litelement)
 *   [Web Components Tools: A Comparison](https://www.nexmo.com/blog/2020/05/20/web-components-tools-a-comparison)
 
-## [43. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [44. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Resources / Recipes
 
-*   [Serafeim's Wagtail FAQ (⭐32)](https://github.com/spapas/wagtail-faq) - Answers and recipes for Wagtail
+*   [Serafeim's Wagtail FAQ (⭐34)](https://github.com/spapas/wagtail-faq) - Answers and recipes for Wagtail
 
-## [44. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [45. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks
 
-*   [Creevey (⭐326)](https://github.com/wKich/creevey) - Cross-browser visual testing with magic. Feature-rich tool with UI Runner, Tests Hot Reloading, Docker and Storybook integration.
-
-## [45. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
-
-### Software / Automation
-
-*   [Podgrab (⭐1.1k)](https://github.com/akhilrex/podgrab) - Lightweight podcast manager and automatic podcast episode downloader. It will monitor podcasts for your and download them automatically whenever a new episode goes live. `GPL-3.0` `Docker/Go`
+*   [Creevey (⭐366)](https://github.com/wKich/creevey) - Cross-browser visual testing with magic. Feature-rich tool with UI Runner, Tests Hot Reloading, Docker and Storybook integration.
 
 ## [46. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
@@ -1295,13 +1319,13 @@
 
 ### Reading
 
-*   [tagesschau-widget (⭐0)](https://github.com/trbnhck/scriptable-scripts/tree/main/tagesschau-widget) - The latest article from the German news site *Tagesschau*.
+*   [tagesschau-widget](https://github.com/trbnhck/scriptable-scripts/tree/main/tagesschau-widget) - The latest article from the German news site *Tagesschau*.
 
     <img src="https://camo.githubusercontent.com/a90be978f61e852bddd16233548c44211d3f2de1a2ac5285c352e0c0bfe0d4f9/68747470733a2f2f696d6775722e636f6d2f696f65576869792e6a7067" width="400"/>
 
 ### Shopping
 
-*   [exchangeRate.js (⭐170)](https://github.com/Juniorchen2012/scriptable/blob/master/exchangeRate.js) - Currency exchange rates.
+*   [exchangeRate.js (⭐181)](https://github.com/Juniorchen2012/scriptable/blob/master/exchangeRate.js) - Currency exchange rates.
 *   [dm-toilet-paper.js](https://gist.github.com/marco79cgn/23ce08fd8711ee893a3be12d4543f2d2) - Toilet paper availability in a nearby drugstore.
 
     <img src="https://user-images.githubusercontent.com/9810829/96903902-b3418e80-1496-11eb-954c-1e2d9b8f9c69.JPG" width="400"/>
@@ -1312,7 +1336,7 @@
 
 ## [49. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
-### Additional resources / Screeb
+### Additional resources / Obsidian
 
 *   [Mobbin](https://mobbin.design/) - Hand-picked collection of mobile app design patterns.
 
@@ -1320,7 +1344,7 @@
 
 ### Data / Redux / ELM / Dependency Injection
 
-*   [Ferry (⭐480)](https://github.com/gql-dart/ferry) <!--stargazers:gql-dart/ferry--> - Powerful & Extensible GraphQL Client by [Sat Mandir Khalsa](https://github.com/smkhalsa)
+*   [Ferry (⭐531)](https://github.com/gql-dart/ferry) <!--stargazers:gql-dart/ferry--> - Powerful & Extensible GraphQL Client by [Sat Mandir Khalsa](https://github.com/smkhalsa)
 
 ### 🇩🇪 Germany / Misc
 
@@ -1342,7 +1366,7 @@
 
 ### Third-Party Packages / Forms
 
-*   [django-formtools (⭐655)](https://github.com/jazzband/django-formtools) - For form previous and multi-step forms, previously part of Django until 1.8.
+*   [django-formtools (⭐701)](https://github.com/jazzband/django-formtools) - For form previous and multi-step forms, previously part of Django until 1.8.
 
 ## [53. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
@@ -1373,16 +1397,16 @@
 
 ### Plugins / Misc
 
-*   [Woke (⭐25)](https://github.com/amwmedia/eslint-plugin-woke) - Helps catch insensitive words, promoting an inclusive codebase.
+*   [Woke (⭐27)](https://github.com/amwmedia/eslint-plugin-woke) - Helps catch insensitive words, promoting an inclusive codebase.
 
 ## [56. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Apps / Mapping
 
 *   [Wardley Maps for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=damonsk.vscode-wardley-maps) - Render and edit Wardley maps within Visual Studio Code. This VSCode extention leverages the engine from OnlineWardleyMaps.com. Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
-*   [Wardley Maps for Jupyter Notebooks (ipywardley) (⭐15)](https://github.com/anjackson/ipywardley) - A plugin for generating Wardley maps in Jupyter Notebooks.
+*   [Wardley Maps for Jupyter Notebooks (ipywardley) (⭐19)](https://github.com/anjackson/ipywardley) - A plugin for generating Wardley maps in Jupyter Notebooks.
 
-### Templates / Commercial Enterprise Platforms
+### Templates / Development
 
 *   [Wardley Mapping Tools and Techniques](https://hiredthought.com/2017/10/11/wardley-mapping-tools-and-techniques/) - A semi-serious reflection on the problem space of tools for mapping, and an overview of all sorts of mapping tools and techniques.
 
@@ -1408,24 +1432,24 @@
 
 ### Individual components / CSS
 
-*   [BlazorAnimation (⭐89)](https://github.com/aboudoux/BlazorAnimation) - ![stars](https://img.shields.io/github/stars/aboudoux/BlazorAnimation?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aboudoux/BlazorAnimation?style=flat-square\&cacheSeconds=86400) A Blazor component based on animate.css to easly animate your content. [Demo](http://blazoranimation.boudoux.fr/).
+*   [BlazorAnimation (⭐110)](https://github.com/aboudoux/BlazorAnimation) - ![stars](https://img.shields.io/github/stars/aboudoux/BlazorAnimation?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aboudoux/BlazorAnimation?style=flat-square\&cacheSeconds=86400) A Blazor component based on animate.css to easly animate your content. [Demo](http://blazoranimation.boudoux.fr/).
 
 ### Others / Others
 
-*   [Generators.Blazor (⭐57)](https://github.com/excubo-ag/Generators.Blazor) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Generators.Blazor?style=flat-square\&cacheSeconds=86400) Generators.Blazor is a source generator for improving performance in Blazor. The project also contains analyzers to detect common issues in Blazor apps.
+*   [Generators.Blazor (⭐63)](https://github.com/excubo-ag/Generators.Blazor) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Generators.Blazor?style=flat-square\&cacheSeconds=86400) Generators.Blazor is a source generator for improving performance in Blazor. The project also contains analyzers to detect common issues in Blazor apps.
 
 ## [58. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Server-side (Cloud Functions, BigQuery etc) / iOS
 
-*   💡 [Express Server on Cloud Functions (⭐636)](https://github.com/jthegedus/firebase-gcp-examples/tree/main/functions-express) - Host an Express server on Cloud Functions.
-*   💡 [Compiled Code with Cloud Functions (⭐636)](https://github.com/jthegedus/firebase-gcp-examples/tree/main/functions-w-parcel) - Compile your Flow, TypeScript or ReasonML to the correct Node runtime using Babel, TypeScript Compiler or ParcelJS.
+*   💡 [Express Server on Cloud Functions (⭐646)](https://github.com/jthegedus/firebase-gcp-examples/tree/main/functions-express) - Host an Express server on Cloud Functions.
+*   💡 [Compiled Code with Cloud Functions (⭐646)](https://github.com/jthegedus/firebase-gcp-examples/tree/main/functions-w-parcel) - Compile your Flow, TypeScript or ReasonML to the correct Node runtime using Babel, TypeScript Compiler or ParcelJS.
 
 ## [59. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
-*   [IPGit (⭐57)](https://github.com/meyer1994/ipgit) - Remote Git repository that mirrors your code to IPFS
+*   [IPGit (⭐67)](https://github.com/meyer1994/ipgit) - Remote Git repository that mirrors your code to IPFS
 
 ## [60. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 

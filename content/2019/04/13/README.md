@@ -10,7 +10,7 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [Filestash](https://www.filestash.app/) - A web file manager that lets you manage your data anywhere it is located: FTP, SFTP, WebDAV, Git, S3, Minio, Dropbox, or Google Drive . ([Demo](https://demo.filestash.app/), [Source Code (⭐7.9k)](https://github.com/mickael-kerjean/filestash)) `AGPL-3.0` `Go`
+*   [Filestash](https://www.filestash.app/) - A web file manager that lets you manage your data anywhere it is located: FTP, SFTP, WebDAV, Git, S3, Minio, Dropbox, or Google Drive . ([Demo](https://demo.filestash.app/), [Source Code (⭐8.5k)](https://github.com/mickael-kerjean/filestash)) `AGPL-3.0` `Docker`
 
 ## [2. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
@@ -42,22 +42,22 @@
 
 ### Bindings
 
-*   [nvk (⭐882)](https://github.com/maierfelix/nvk) - JavaScript bindings for Vulkan. \[MIT]
+*   [nvk (⭐888)](https://github.com/maierfelix/nvk) - JavaScript bindings for Vulkan. \[MIT]
 
 ## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Machine Learning / Preferences
 
-*   [MLKit (⭐384)](https://github.com/azihsoyn/flutter_mlkit) <!--stargazers:azihsoyn/flutter_mlkit--> - Firebase Machine Learning Kit by [Naoya Yoshizawa](https://github.com/azihsoyn)
+*   [MLKit (⭐386)](https://github.com/azihsoyn/flutter_mlkit) <!--stargazers:azihsoyn/flutter_mlkit--> - Firebase Machine Learning Kit by [Naoya Yoshizawa](https://github.com/azihsoyn)
 
 ### Vision / Preferences
 
-*   [ML Vision Camera Stream (⭐253)](https://github.com/santetis/flutter_camera_ml_vision) <!--stargazers:santetis/flutter_camera_ml_vision--> - ML vision recognitions (QRcode, face, ...) with live camera stream by [Aumard Jimmy](https://github.com/jaumard) and [Santetis](https://github.com/santetis).
-*   [Google Mobile Vision (⭐449)](https://github.com/edufolly/flutter_mobile_vision) <!--stargazers:edufolly/flutter_mobile_vision--> - Google Mobile Vision by [Eduardo Folly](https://github.com/edufolly)
+*   [ML Vision Camera Stream (⭐263)](https://github.com/santetis/flutter_camera_ml_vision) <!--stargazers:santetis/flutter_camera_ml_vision--> - ML vision recognitions (QRcode, face, ...) with live camera stream by [Aumard Jimmy](https://github.com/jaumard) and [Santetis](https://github.com/santetis).
+*   [Google Mobile Vision (⭐452)](https://github.com/edufolly/flutter_mobile_vision) <!--stargazers:edufolly/flutter_mobile_vision--> - Google Mobile Vision by [Eduardo Folly](https://github.com/edufolly)
 
 ### Vision / Augmented Reality
 
-*   [ARKit Plugin (⭐695)](https://github.com/olexale/arkit_flutter_plugin) <!--stargazers:olexale/arkit_flutter_plugin--> - Wrapper for ARKit - Apple's augmented reality platform for iOS by [Olexandr Leuschenko](https://github.com/olexale).
+*   [ARKit Plugin (⭐726)](https://github.com/olexale/arkit_flutter_plugin) <!--stargazers:olexale/arkit_flutter_plugin--> - Wrapper for ARKit - Apple's augmented reality platform for iOS by [Olexandr Leuschenko](https://github.com/olexale).
 
 ## [5. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
@@ -84,7 +84,7 @@
 
 ### Debug
 
-*   [Unity (⭐3k)](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C. \[MIT]
+*   [Unity (⭐3.3k)](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C. \[MIT]
 
 ## [7. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 

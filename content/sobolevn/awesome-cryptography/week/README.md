@@ -35,7 +35,7 @@ A curated list of cryptography resources and links.
 
 ### Rust / Git
 
-*   [orion (⭐509)](https://github.com/orion-rs/orion) - is a cryptography library written in pure Rust. It aims to provide easy and usable crypto while trying to minimize the use of unsafe code.
+*   [orion (⭐513)](https://github.com/orion-rs/orion) - is a cryptography library written in pure Rust. It aims to provide easy and usable crypto while trying to minimize the use of unsafe code.
 
 ## [May 23 - May 29, 2022](/content/2022/21/README.md)
 
@@ -577,7 +577,7 @@ A curated list of cryptography resources and links.
 
 *   [charm (⭐487)](https://github.com/JHUISI/charm) - Framework for rapidly prototyping cryptosystems.
 *   [cryptography](https://cryptography.io/en/latest/) - Python library which exposes cryptographic recipes and primitives.
-*   [cryptopy](https://sourceforge.net/projects/cryptopy/) - Pure python implmentation of cryptographic algorithms and applications.
+*   [cryptopy](https://sourceforge.net/projects/cryptopy/) - Pure python implementation of cryptographic algorithms and applications.
 *   [paramiko](http://www.paramiko.org/) - Python implementation of the SSHv2 protocol, providing both client and server functionality.
 *   [pycryptodome (⭐2.4k)](https://github.com/Legrandin/pycryptodome) - Self-contained Python package of low-level cryptographic primitives.
 

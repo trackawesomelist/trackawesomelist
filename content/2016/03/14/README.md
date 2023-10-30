@@ -40,12 +40,12 @@
 
 ### Libraries / Algebraic Data Types
 
-*   [Fluture (⭐2.4k)](https://github.com/Avaq/Fluture) – A Future library with included control utilities, high performance and great error messages.
+*   [Fluture (⭐2.5k)](https://github.com/Avaq/Fluture) – A Future library with included control utilities, high performance and great error messages.
 
 ### Community / Related Lists
 
-*   [lucasviola/Awesome Functional Programming (⭐855)](https://github.com/lucasviola/awesome-functional-programming) – Awesome resources on functional programming theory and learning materials.
-*   [xgrommx/Awesome Functional Programming (⭐3.3k)](https://github.com/xgrommx/awesome-functional-programming) – A ton of articles on functional programming, as well as a huge list of functional libraries for many programming languages.
+*   [lucasviola/Awesome Functional Programming (⭐911)](https://github.com/lucasviola/awesome-functional-programming) – Awesome resources on functional programming theory and learning materials.
+*   [xgrommx/Awesome Functional Programming (⭐3.4k)](https://github.com/xgrommx/awesome-functional-programming) – A ton of articles on functional programming, as well as a huge list of functional libraries for many programming languages.
 
 ## [7. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 

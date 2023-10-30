@@ -10,13 +10,13 @@
 
 ### Libraries / New Libraries
 
-*   [gymnax (⭐291)](https://github.com/RobertTLange/gymnax) - Reinforcement Learning Environments with the well-known gym API. <img src="https://img.shields.io/github/stars/RobertTLange/gymnax?style=social" align="center">
+*   [gymnax (⭐412)](https://github.com/RobertTLange/gymnax) - Reinforcement Learning Environments with the well-known gym API. <img src="https://img.shields.io/github/stars/RobertTLange/gymnax?style=social" align="center">
 
 ## [2. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Packages / Apps
 
-*   [web-audio-mixer (⭐77)](https://github.com/jamesfiltness/web-audio-mixer) - An audio mixer built using Web Audio.
+*   [web-audio-mixer (⭐88)](https://github.com/jamesfiltness/web-audio-mixer) - An audio mixer built using Web Audio.
 
 ### Resources / Community
 
@@ -32,19 +32,19 @@
 
 ### Remote Desktop Tools
 
-*   [RustDesk](https://rustdesk.com/) - Open source virtual / remote desktop infrastructure for everyone!
+*   [RustDesk](https://rustdesk.com/) - Open source virtual/remote desktop infrastructure for everyone!
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Games
 
-*   [gorilla-devs/ferium (⭐796)](https://github.com/gorilla-devs/ferium) — Ferium is a fast and feature rich CLI program for downloading and updating Minecraft mods from Modrinth, CurseForge, and GitHub Releases, and modpacks from Modrinth and CurseForge ![ferium build](https://github.com/gorilla-devs/ferium/actions/workflows/build.yml/badge.svg?branch=main)
+*   [gorilla-devs/ferium (⭐898)](https://github.com/gorilla-devs/ferium) — Ferium is a fast and feature rich CLI program for downloading and updating Minecraft mods from Modrinth, CurseForge, and GitHub Releases, and modpacks from Modrinth and CurseForge ![ferium build](https://github.com/gorilla-devs/ferium/actions/workflows/build.yml/badge.svg?branch=main)
 
 ## [6. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Software / Make your life easier
 
-*   [Touca (⭐143)](https://github.com/trytouca/trytouca) - Open source continuous regression testing to compare the behavior and performance of software against a previous baseline version.
+*   [Touca (⭐435)](https://github.com/trytouca/trytouca) - Open source continuous regression testing to compare the behavior and performance of software against a previous baseline version.
 
 ## [7. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Notification
 
-*   [svelte-french-toast (⭐384)](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte, inspired by React Hot Toast. Lightweight, customizable, and beautiful by default.
+*   [svelte-french-toast (⭐616)](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte, inspired by React Hot Toast. Lightweight, customizable, and beautiful by default.
 
 ---
 

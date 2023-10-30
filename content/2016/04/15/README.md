@@ -22,11 +22,11 @@
 
 ### Command-Line Productivity
 
-*   [sman (⭐277)](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
+*   [sman (⭐282)](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
 
 ### Shell Script Development / Directory Navigation
 
-*   [is.sh (⭐151)](https://github.com/qzb/is.sh) - An alternative for builtin test command, it will make your "if" statements pretty
+*   [is.sh (⭐155)](https://github.com/qzb/is.sh) - An alternative for builtin test command, it will make your "if" statements pretty
 
 ## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -74,7 +74,7 @@
 
 ### RESTful API
 
-*   [yada (⭐731)](https://github.com/juxt/yada)
+*   [yada (⭐733)](https://github.com/juxt/yada)
 
 ### Dependency injection
 

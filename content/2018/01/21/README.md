@@ -51,7 +51,7 @@
 
 ### Search
 
-*   [giza\_sphinxsearch (⭐18)](https://github.com/Tyler-pierce/giza_sphinxsearch) - Client for Sphinx Search compatible with Manticore.
+*   [giza\_sphinxsearch (⭐19)](https://github.com/Tyler-pierce/giza_sphinxsearch) - Client for Sphinx Search compatible with Manticore.
 
 ### Statistics
 
@@ -61,16 +61,16 @@
 
 ### Frameworks, Libraries and Tools / Application Templates
 
-*   [AddFeatureFolders (⭐241)](https://github.com/OdeToCode/AddFeatureFolders) - Enable feature folders for MVC controllers and views in ASP.NET Core.
-*   [Angular Visual Studio Webpack Starter (⭐490)](https://github.com/damienbod/AngularWebpackVisualStudio) - Template for Webpack, Visual Studio, ASP.NET Core and Angular. Both the client and the server side of the application are implemented inside one ASP.NET Core project which makes it easier to deploy.
+*   [AddFeatureFolders (⭐246)](https://github.com/OdeToCode/AddFeatureFolders) - Enable feature folders for MVC controllers and views in ASP.NET Core.
+*   [Angular Visual Studio Webpack Starter (⭐486)](https://github.com/damienbod/AngularWebpackVisualStudio) - Template for Webpack, Visual Studio, ASP.NET Core and Angular. Both the client and the server side of the application are implemented inside one ASP.NET Core project which makes it easier to deploy.
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
-*   [IdentityServer (⭐8.9k)](https://github.com/IdentityServer/IdentityServer4) - IdentityServer for ASP.NET Core 1.0 & 2.0
-    *   [IdentityServer4.EntityFramework (⭐242)](https://github.com/IdentityServer/IdentityServer4.EntityFramework) - EntityFramework persistence layer
-    *   [IdentityServer4.MongoDB (⭐110)](https://github.com/diogodamiani/IdentityServer4.MongoDB) - MongoDB persistence layer
+*   [IdentityServer (⭐9.1k)](https://github.com/IdentityServer/IdentityServer4) - IdentityServer for ASP.NET Core 1.0 & 2.0
+    *   [IdentityServer4.EntityFramework (⭐240)](https://github.com/IdentityServer/IdentityServer4.EntityFramework) - EntityFramework persistence layer
+    *   [IdentityServer4.MongoDB (⭐109)](https://github.com/diogodamiani/IdentityServer4.MongoDB) - MongoDB persistence layer
     *   [IdentityServer4.EntityFrameworkCore (⭐42)](https://github.com/2020IP/TwentyTwenty.IdentityServer4.EntityFrameworkCore) - Entity Framework Core persistence layer
-    *   [IdentityServer4.Templates (⭐664)](https://github.com/IdentityServer/IdentityServer4.Templates) - dotnet cli templates for IdentityServer4.
+    *   [IdentityServer4.Templates (⭐687)](https://github.com/IdentityServer/IdentityServer4.Templates) - dotnet cli templates for IdentityServer4.
 
 ---
 

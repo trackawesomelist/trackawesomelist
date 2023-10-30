@@ -8,11 +8,7 @@
 
 ## [1. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### JavaScript / Angular
-
-*   [Angular Weekly](https://www.getrevue.co/profile/angular-newsletter). Angular Weekly is a summary of #angular related topics and news from the last week.
-
-### Awesome news / Angular
+### Awesome news / Svelte
 
 *   [Weekly Robotics](https://weeklyrobotics.com/). A weekly newsletter with news, projects and research related to robotics.
 
@@ -78,7 +74,7 @@
 
 ### Shell Script Development
 
-*   [bashly (⭐1.4k)](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
+*   [bashly (⭐1.7k)](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator.
 
 ## [6. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
@@ -118,20 +114,20 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [imbalanced-ensemble (⭐219)](https://github.com/ZhiningLiu1998/imbalanced-ensemble) - Python toolbox for quick implementation, modification, evaluation, and visualization of ensemble learning algorithms for class-imbalanced data. Supports out-of-the-box multi-class imbalanced (long-tailed) classification.
+*   [imbalanced-ensemble (⭐246)](https://github.com/ZhiningLiu1998/imbalanced-ensemble) - Python toolbox for quick implementation, modification, evaluation, and visualization of ensemble learning algorithms for class-imbalanced data. Supports out-of-the-box multi-class imbalanced (long-tailed) classification.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-otp-2 (⭐12)](https://github.com/tonghoai/vue-otp-2) - Vue OTP input 2, A Vue component for OTP input.
-*   [vue3-otp-input (⭐55)](https://github.com/ejirocodes/vue3-otp-input) - A fully customizable, OTP (one-time-password) input component built with Vue 3.x and Vue Composition API.
+*   [vue3-otp-input (⭐73)](https://github.com/ejirocodes/vue3-otp-input) - A fully customizable, OTP (one-time-password) input component built with Vue 3.x and Vue Composition API.
 
 ## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Testing Frameworks / Runner
 
-*   [Playwright (⭐50k)](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+*   [Playwright (⭐55k)](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
 ## [14. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/README.md)
 
@@ -153,7 +149,7 @@
 
 ### Harvard / Commonsense Knowledgebase
 
-*   [Elizabeth Spelke](https://psychology.fas.harvard.edu/people/elizabeth-s-spelke) - ***Harvard***, [Harvard Laboratory for Developmental Studies](https://www.harvardlds.org/) - ***Department of Psychology, Harvard***.
+*   [Elizabeth Spelke](https://psychology.fas.harvard.edu/people/elizabeth-s-spelke) - ***Department of Psychology, Harvard***, [Harvard Laboratory for Developmental Studies](https://www.harvardlds.org/) - ***Harvard***.
 
 ---
 

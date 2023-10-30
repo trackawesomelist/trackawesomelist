@@ -40,11 +40,11 @@
 
 ### Geolocation
 
-*   [topo (⭐134)](https://github.com/pkinney/topo) - A Geometry library for Elixir that calculates spatial relationships between two geometries.
+*   [topo (⭐138)](https://github.com/pkinney/topo) - A Geometry library for Elixir that calculates spatial relationships between two geometries.
 
 ### Languages
 
-*   [Monkey (⭐127)](https://github.com/fabrik42/writing_an_interpreter_in_elixir) - Elixir implementation of an interpreter and REPL for the js-like Monkey programming language.
+*   [Monkey (⭐129)](https://github.com/fabrik42/writing_an_interpreter_in_elixir) - Elixir implementation of an interpreter and REPL for the js-like Monkey programming language.
 
 ### Miscellaneous
 
@@ -84,7 +84,7 @@ git ls-files --others -i --exclude-standard | xargs zip untracked.zip
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [EntryPoint (⭐139)](https://github.com/Nick-Lucas/EntryPoint) - Composable CLI (Command Line) Argument Parser for .Net Core & .Net Framework 4.5+.
+*   [EntryPoint (⭐138)](https://github.com/Nick-Lucas/EntryPoint) - Composable CLI (Command Line) Argument Parser for .Net Core & .Net Framework 4.5+.
 
 ---
 

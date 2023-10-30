@@ -34,8 +34,8 @@
 
 ### Scientific / XML
 
-*   [mir (⭐211)](https://github.com/libmir/mir) -  Sandbox for some mir packages: sparse tensors, Hoffman and others.
-*   [mir-algorithm (⭐211)](https://github.com/libmir/mir) - N-dimensional arrays (matrixes, tensors), algorithms, general purpose library.
+*   [mir (⭐210)](https://github.com/libmir/mir) -  Sandbox for some mir packages: sparse tensors, Hoffman and others.
+*   [mir-algorithm (⭐210)](https://github.com/libmir/mir) - N-dimensional arrays (matrixes, tensors), algorithms, general purpose library.
 *   [mir-random (⭐31)](https://github.com/libmir/mir-random) -  Advanced Random Number Generators.
 
 ## [5. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
@@ -177,7 +177,7 @@
 
 ### Tools / C#
 
-*   [Atata (⭐441)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
+*   [Atata (⭐469)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
 
 ## [14. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
 
@@ -286,7 +286,7 @@
 
 ### Reverse Engineering / Reverse Engineering Tools
 
-*   [Voltron (⭐5.9k)](https://github.com/snare/voltron) - Extensible debugger UI toolkit written in Python.
+*   [Voltron (⭐6k)](https://github.com/snare/voltron) - Extensible debugger UI toolkit written in Python.
 
 ## [19. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -298,7 +298,7 @@
 
 ### GUI
 
-*   [libui (⭐10k)](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports. \[MIT]
+*   [libui (⭐11k)](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports. \[MIT]
 
 ## [21. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
@@ -333,7 +333,7 @@
 
 ### Libraries / Parsing
 
-*   [pest-parser/pest (⭐3.8k)](https://github.com/pest-parser/pest) — The Elegant Parser
+*   [pest-parser/pest (⭐4k)](https://github.com/pest-parser/pest) — The Elegant Parser
 
 ## [25. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
@@ -348,9 +348,9 @@
 *   [Atom](https://atom.io/)(`Free`,`Cross-platform`,`Plugins`): electron based editor with numerous plugins and easy modifications. Cross-platform with settings and plugins synchronized through the [sync-settings](https://atom.io/packages/sync-settings) plugin.
 *   [Sublime Text](https://www.sublimetext.com/)(`Free Evaluation`,`Cross-platform`,`Plugins`): cross-platform, fast, and with plugins. Not free but can be freely used forever.
 *   [JetBrains](https://www.jetbrains.com/)(`Free for Students`, `Cross-platform`,`Plugins`): beautiful IDE's with many debugging and editing modes integrated.
-*   [vim (⭐29k)](https://github.com/vim/vim)(`Free`,`Cross-platform`,`Plugins`): no words can describe the almighty vim.
-    *   [Vundle (⭐23k)](https://github.com/VundleVim/Vundle.vim): the vim plugin manager
-    *   [vimrc from amix (⭐28k)](https://github.com/amix/vimrc): "The ultimate Vim configuration: vimrc"
+*   [vim (⭐31k)](https://github.com/vim/vim)(`Free`,`Cross-platform`,`Plugins`): no words can describe the almighty vim.
+    *   [Vundle (⭐24k)](https://github.com/VundleVim/Vundle.vim): the vim plugin manager
+    *   [vimrc from amix (⭐29k)](https://github.com/amix/vimrc): "The ultimate Vim configuration: vimrc"
 
 ## [27. Awesome Inspectit](/content/inspectit-labs/awesome-inspectit/week/README.md)
 
@@ -373,7 +373,7 @@
 
 ### Graphics
 
-*   [Coulr (⭐26)](https://github.com/Huluti/Coulr) - Convert between RGB and hexadecimal codes for colours.
+*   [Coulr (⭐32)](https://github.com/Huluti/Coulr) - Convert between RGB and hexadecimal codes for colours.
 
 ### Gaming
 
@@ -391,7 +391,7 @@
 ### Icons / Material Icons
 
 *   [Paper](https://snwh.org/paper) - Material icon theme.
-*   [Papirus (⭐5.8k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
+*   [Papirus (⭐6k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
 
 ### Icons / Flat Icons
 
@@ -399,11 +399,11 @@
 
 ### Icons / Homogeneous Icons
 
-*   [Obsidian (⭐172)](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
+*   [Obsidian (⭐177)](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
 
 ### Icons / Skeumorphic Icons
 
-*   [Elementary XFCE (⭐257)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
+*   [Elementary XFCE (⭐261)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
 
 ### Documentations / Skeumorphic Icons
 
@@ -420,15 +420,15 @@
 
 ### Exceptions and Error Handling
 
-*   [Perseverance (⭐174)](https://github.com/grammarly/perseverance)
-*   [Dire (⭐482)](https://github.com/MichaelDrogalis/dire)
+*   [Perseverance (⭐175)](https://github.com/grammarly/perseverance)
+*   [Dire (⭐484)](https://github.com/MichaelDrogalis/dire)
 
 ### Editor Plugins
 
 *   [CIDER (Emacs) (⭐3.4k)](https://github.com/clojure-emacs/cider)
 *   [smartparens (Emacs) (⭐1.7k)](https://github.com/Fuco1/smartparens)
-*   [rainbow-delimiters (Emacs) (⭐605)](https://github.com/Fanael/rainbow-delimiters)
-*   [aggressive-indent (Emacs) (⭐803)](https://github.com/Malabarba/aggressive-indent-mode)
+*   [rainbow-delimiters (Emacs) (⭐613)](https://github.com/Fanael/rainbow-delimiters)
+*   [aggressive-indent (Emacs) (⭐808)](https://github.com/Malabarba/aggressive-indent-mode)
 *   [vim-fireplace (Vim) (⭐1.7k)](https://github.com/tpope/vim-fireplace)
 *   [vim-redl (Vim) (⭐107)](https://github.com/dgrnbrg/vim-redl)
 *   [vim-leiningen (Vim) (⭐196)](https://github.com/tpope/vim-salve)
@@ -441,21 +441,21 @@
 
 ### Guides
 
-*   [The Clojure Style Guide (⭐3.9k)](https://github.com/bbatsov/clojure-style-guide)
+*   [The Clojure Style Guide (⭐4k)](https://github.com/bbatsov/clojure-style-guide)
 
 ## [30. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
-*   [lf.sh (⭐39)](https://github.com/suewonjp/lf.sh) - Quickly search files with fewer typings and do many more (grepping, copying path to clipboard, etc)
+*   [lf.sh (⭐40)](https://github.com/suewonjp/lf.sh) - Quickly search files with fewer typings and do many more (grepping, copying path to clipboard, etc)
 
 ### For Developers / Directory Navigation
 
-*   [doclt (⭐43)](https://github.com/omgimanerd/doclt) - A command line interface to Digital Ocean
+*   [doclt (⭐44)](https://github.com/omgimanerd/doclt) - A command line interface to Digital Ocean
 
 ### Applications / Directory Navigation
 
-*   [wttr.in (⭐20k)](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather (curl wttr.in)
+*   [wttr.in (⭐22k)](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather (curl wttr.in)
 
 ## [31. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
@@ -471,20 +471,20 @@
 
 ### Audio Related Packages / Transformations - General DSP
 
-*   [acoustics](http://python-acoustics.github.io/python-acoustics/) [:octocat: (⭐439)](https://github.com/python-acoustics/python-acoustics/) [:package:](https://pypi.python.org/pypi/acoustics) - useful tools for acousticians.
+*   [acoustics](http://python-acoustics.github.io/python-acoustics/) [:octocat: (⭐449)](https://github.com/python-acoustics/python-acoustics/) [:package:](https://pypi.python.org/pypi/acoustics) - useful tools for acousticians.
 
 ### Audio Related Packages / Music Information Retrieval
 
-*   [librosa](http://librosa.github.io/librosa/) [:octocat: (⭐5.8k)](https://github.com/librosa/librosa) [:package:](https://pypi.python.org/pypi/librosa) - General audio and music analysis.
+*   [librosa](http://librosa.github.io/librosa/) [:octocat: (⭐6k)](https://github.com/librosa/librosa) [:package:](https://pypi.python.org/pypi/librosa) - General audio and music analysis.
 
 ### Audio Related Packages / Audio Dataset and Dataloaders
 
-*   [Youtube-Downloader](http://rg3.github.io/youtube-dl/) [:octocat: (⭐119k)](https://github.com/rg3/youtube-dl) [:package:](https://pypi.python.org/pypi/youtube_dl) - Download youtube videos (and the audio).
+*   [Youtube-Downloader](http://rg3.github.io/youtube-dl/) [:octocat: (⭐121k)](https://github.com/rg3/youtube-dl) [:package:](https://pypi.python.org/pypi/youtube_dl) - Download youtube videos (and the audio).
 
 ### Tutorials / Wrappers for Audio Plugins
 
 *   [Whirlwind Tour Of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) [:octocat: (⭐3.4k)](https://github.com/jakevdp/WhirlwindTourOfPython) - fast-paced introduction to Python essentials, aimed at researchers and developers.
-*   [Introduction to Numpy and Scipy](http://www.scipy-lectures.org/index.html) [:octocat: (⭐2.9k)](https://github.com/scipy-lectures/scipy-lecture-notes) - Highly recommended tutorial, covers large parts of the scientific Python ecosystem.
+*   [Introduction to Numpy and Scipy](http://www.scipy-lectures.org/index.html) [:octocat: (⭐3k)](https://github.com/scipy-lectures/scipy-lecture-notes) - Highly recommended tutorial, covers large parts of the scientific Python ecosystem.
 
 ## [33. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
@@ -500,8 +500,8 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [LeafPlayer (⭐149)](https://github.com/paulschwoerer/leafplayer) - A simple and fast, privately hosted music streaming server.
-*   [JSON Editor (⭐221)](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
+*   [LeafPlayer (⭐152)](https://github.com/paulschwoerer/leafplayer) - A simple and fast, privately hosted music streaming server.
+*   [JSON Editor (⭐226)](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
 
 ### Components & Libraries / UI Utilities
 
@@ -580,10 +580,6 @@
 *   [dhammadāna](http://dhammadana.org/) - Learn about the Buddha's original teachings in French, English, Italian, Burmese, and Japanese.
 *   [Sādhu!](https://www.dhamma.ru/sadhu/) - World directory of physical locations and websites.
 
-### Videos / Individual Videos
-
-*   [The Mindful Way](https://www.youtube.com/watch?v=Anf1yhX9VQo) - BBC documentary about the life and function of a Buddhist monastery of the Forest Tradition in Thailand.
-
 ### Videos / YouTube Channels
 
 *   [Short Dhamma Talks by Thanissaro Bhikkhu](https://www.youtube.com/channel/UCQRkIum1cnPNI5QZ0XtIMWw) - Daily talks given by Thanissaro Bhikkhu at Metta Forest Monastery.
@@ -604,7 +600,7 @@
 
 ### Debugging
 
-*   [ex\_debug\_toolbar (⭐400)](https://github.com/kagux/ex_debug_toolbar) - A toolbar for Phoenix projects to interactively debug code and display useful information about requests: logs, timelines, database queries etc.
+*   [ex\_debug\_toolbar (⭐405)](https://github.com/kagux/ex_debug_toolbar) - A toolbar for Phoenix projects to interactively debug code and display useful information about requests: logs, timelines, database queries etc.
 
 ### Deployment
 
@@ -613,15 +609,15 @@
 
 ### Eventhandling
 
-*   [event\_bus (⭐664)](https://github.com/mustafaturan/event_bus) - Simple event bus implementation with topic filtering and built-in event store and event watcher.
+*   [event\_bus (⭐676)](https://github.com/mustafaturan/event_bus) - Simple event bus implementation with topic filtering and built-in event store and event watcher.
 
 ### Macros
 
-*   [shorter\_maps (⭐219)](https://github.com/meyercm/shorter_maps) - \~M sigil for map shorthand. `~M{id name} ~> %{id: id, name: name}`.
+*   [shorter\_maps (⭐228)](https://github.com/meyercm/shorter_maps) - \~M sigil for map shorthand. `~M{id name} ~> %{id: id, name: name}`.
 
 ### Networking
 
-*   [download (⭐32)](https://github.com/asiniy/download) - Download files from the internet easily.
+*   [download (⭐33)](https://github.com/asiniy/download) - Download files from the internet easily.
 
 ### Third Party APIs
 
@@ -639,11 +635,11 @@
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
-*   [Auth0 (⭐251)](https://github.com/auth0/auth0.net) - Hosted, enterprise-grade platform for modern identity.
+*   [Auth0 (⭐298)](https://github.com/auth0/auth0.net) - Hosted, enterprise-grade platform for modern identity.
 
 ### Frameworks, Libraries and Tools / Machine Learning and Data Science
 
-*   [Spreads (⭐382)](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams.
+*   [Spreads (⭐401)](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams.
 
 ## [40. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
@@ -679,19 +675,19 @@
 
 ### Colors
 
-*   [ChromaColorPicker (⭐542)](https://github.com/joncardasis/ChromaColorPicker) - An intuitive and fun iOS color picker.
+*   [ChromaColorPicker (⭐560)](https://github.com/joncardasis/ChromaColorPicker) - An intuitive and fun iOS color picker.
 
 ### Date
 
-*   [AnyDate (⭐183)](https://github.com/Kawoou/AnyDate) - Date & Time API inspired from Java 8 DateTime API.
+*   [AnyDate (⭐188)](https://github.com/Kawoou/AnyDate) - Date & Time API inspired from Java 8 DateTime API.
 
 ### Auto Layout / Barcode
 
-*   [Cassowary (⭐110)](https://github.com/tribalworldwidelondon/CassowarySwift) - A linear constraint solving library using the same algorithm as AutoLayout.
+*   [Cassowary (⭐111)](https://github.com/tribalworldwidelondon/CassowarySwift) - A linear constraint solving library using the same algorithm as AutoLayout.
 
 ### Menu / Barcode
 
-*   [SwipeMenuViewController (⭐1.2k)](https://github.com/yysskk/SwipeMenuViewController) - Swipable tab and menu View and ViewController.
+*   [SwipeMenuViewController (⭐1.3k)](https://github.com/yysskk/SwipeMenuViewController) - Swipable tab and menu View and ViewController.
 
 ### Utility / Barcode
 
@@ -699,7 +695,7 @@
 
 ## [43. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
-### [dotzsh](https://github.com/dotphiles/dotzsh) / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### [dotzsh](https://github.com/dotphiles/dotzsh) / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   Open a new ZSH terminal window or tab
 

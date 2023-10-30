@@ -23,21 +23,21 @@
 
 ### Files and Directories / Directory Navigation
 
-*   [PathPicker (⭐4.9k)](https://github.com/facebook/pathpicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
+*   [PathPicker (⭐5k)](https://github.com/facebook/pathpicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
 
 ## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Date and Time
 
-*   [Exceptionless.DateTimeExtensions (⭐185)](https://github.com/exceptionless/Exceptionless.DateTimeExtensions) - DateTimeRange, Business Day and various DateTime, DateTimeOffset, TimeSpan extension methods.
+*   [Exceptionless.DateTimeExtensions (⭐228)](https://github.com/exceptionless/Exceptionless.DateTimeExtensions) - DateTimeRange, Business Day and various DateTime, DateTimeOffset, TimeSpan extension methods.
 
 ### Frameworks, Libraries and Tools / Logging
 
-*   [Exceptionless (⭐478)](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
+*   [Exceptionless (⭐531)](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [Foundatio (⭐1.6k)](https://github.com/exceptionless/Foundatio#queues) - A common interface with in memory, redis and azure implementations.
+*   [Foundatio (⭐1.8k)](https://github.com/exceptionless/Foundatio#queues) - A common interface with in memory, redis and azure implementations.
 
 ## [5. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
@@ -72,7 +72,7 @@
 
 ### URI handling / Isomorphic web frameworks
 
-*   [cl-slug (⭐22)](https://github.com/EuAndreh/cl-slug) - a small library to make slugs, mainly for URIs, transform in CamelCase, remove accentuation and punctuation, for english and beyound. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [cl-slug (⭐23)](https://github.com/EuAndreh/cl-slug) - a small library to make slugs, mainly for URIs, transform in CamelCase, remove accentuation and punctuation, for english and beyound. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### Other scripting utilities / Third-party APIs
 
@@ -88,7 +88,7 @@
 
 ### Shell Package Management / Directory Navigation
 
-*   [dotdrop (⭐1.5k)](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
+*   [dotdrop (⭐1.6k)](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 
 ## [10. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 

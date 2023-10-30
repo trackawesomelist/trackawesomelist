@@ -68,21 +68,21 @@
 
 ### Testing
 
-*   [cypress.io](https://www.cypress.io/) - Fast, easy and reliable testing for anything that runs in a browser. Cypress Test Runner is always free and open source with no restrictions and limitations. Cypress Dashboard is free for open source projects for up to 5 users.
+*   [cypress.io](https://www.cypress.io/) - Fast, easy and reliable testing for anything that runs in a browser. Cypress Test Runner is always free and open-source with no restrictions and limitations. Cypress Dashboard is free for open-source projects for up to 5 users.
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### C bindings
 
-*   [clang.cr (⭐43)](https://github.com/crystal-lang/clang.cr) - Libclang bindings
+*   [clang.cr (⭐45)](https://github.com/crystal-lang/clang.cr) - Libclang bindings
 
 ### CLI Builders
 
-*   [Phreak (⭐32)](https://github.com/shinzlet/phreak) - A highly flexible Crystal CLI builder in the style of OptionParser
+*   [Phreak (⭐33)](https://github.com/shinzlet/phreak) - A highly flexible Crystal CLI builder in the style of OptionParser
 
 ### Dependency Injection
 
-*   [Crystal-DI (⭐30)](https://github.com/funk-yourself/crystal-di) - Lightweight DI Container
+*   [Crystal-DI (⭐31)](https://github.com/funk-yourself/crystal-di) - Lightweight DI Container
 *   [syringe (⭐6)](https://github.com/Bonemind/syringe) - A simple and basic dependency injection shard for crystal
 
 ## [4. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)

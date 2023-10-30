@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 15, 2013
 
-2 awesome lists updated today.
+1 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -38,13 +38,7 @@
 *   [Ripple Lounge](http://www.ripplelounge.com/)
 *   [Rippleusers Google Group](https://groups.google.com/forum/#!forum/rippleusers)
 
-## [2. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
-
-### PHP / Svelte
-
-*   [PSR-2 – コーディングスタイルガイド (⭐33)](https://github.com/maosanhioro/fig-standards/blob/master/translation/PSR-2-coding-style-guide.md) - maosanhioro
-
 ---
 
-- Prev: [Nov 19, 2013](/content/2013/11/19/README.md)
+- Prev: [Nov 16, 2013](/content/2013/11/16/README.md)
 - Next: [Nov 14, 2013](/content/2013/11/14/README.md)

@@ -134,7 +134,7 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [pose (⭐991)](https://github.com/tonerdo/pose) - Replace any .NET method (including static and non-virtual) with a delegate
+*   [pose (⭐1.1k)](https://github.com/tonerdo/pose) - Replace any .NET method (including static and non-virtual) with a delegate
 
 ## [7. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
@@ -164,11 +164,11 @@
 
 *   NoSQL Databases
     *   [cassandra-driver (⭐1.3k)](https://github.com/datastax/python-driver) - The Python Driver for Apache Cassandra.
-    *   [happybase (⭐600)](https://github.com/wbolster/happybase) - A developer-friendly library for Apache HBase.
+    *   [happybase (⭐603)](https://github.com/wbolster/happybase) - A developer-friendly library for Apache HBase.
     *   [kafka-python (⭐5.2k)](https://github.com/dpkp/kafka-python) - The Python client for Apache Kafka.
     *   [py2neo](https://py2neo.org/) - A client library and toolkit for working with Neo4j.
-    *   [pymongo (⭐3.8k)](https://github.com/mongodb/mongo-python-driver) - The official Python client for MongoDB.
-    *   [redis-py (⭐11k)](https://github.com/andymccurdy/redis-py) - The Python client for Redis.
+    *   [pymongo (⭐3.9k)](https://github.com/mongodb/mongo-python-driver) - The official Python client for MongoDB.
+    *   [redis-py (⭐12k)](https://github.com/andymccurdy/redis-py) - The Python client for Redis.
 
 ---
 

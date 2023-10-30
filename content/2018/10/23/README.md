@@ -10,18 +10,18 @@
 
 ### Extensions
 
-*   [next-mdx-blog (⭐69)](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project
+*   [next-mdx-blog (⭐71)](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Dashboards
 
-*   [Blazer (⭐3.6k)](https://github.com/ankane/blazer) - Simple data viewer using only SQL. Output to table, chart, and maps.
+*   [Blazer (⭐3.7k)](https://github.com/ankane/blazer) - Simple data viewer using only SQL. Output to table, chart, and maps.
 
 ### Measurements
 
-*   [Measured (⭐274)](https://github.com/Shopify/measured) - Wrapper objects which encapsulate measurements and their associated units in Ruby.
-*   [Ruby Units (⭐450)](https://github.com/olbrich/ruby-units) - Provides classes and methods to perform unit math and conversions.
+*   [Measured (⭐276)](https://github.com/Shopify/measured) - Wrapper objects which encapsulate measurements and their associated units in Ruby.
+*   [Ruby Units (⭐498)](https://github.com/olbrich/ruby-units) - Provides classes and methods to perform unit math and conversions.
 
 ## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -80,11 +80,11 @@
 
 ### UI / Barcode
 
-*   [DockProgress (⭐1k)](https://github.com/sindresorhus/DockProgress) - Show progress in your macOS app's Dock icon.
+*   [DockProgress (⭐1.1k)](https://github.com/sindresorhus/DockProgress) - Show progress in your macOS app's Dock icon.
 
 ### Walkthrough / Barcode
 
-*   [OnboardKit (⭐487)](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app.
+*   [OnboardKit (⭐508)](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app.
 
 ## [9. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
@@ -110,11 +110,11 @@
 
 ### Tracker Proxies / Public Trackers
 
-*   [Jackett (⭐8.1k)](https://github.com/Jackett/Jackett) API Support for your favorite torrent trackers.
+*   [Jackett (⭐9.3k)](https://github.com/Jackett/Jackett) API Support for your favorite torrent trackers.
 
 ### Torrent Clients / Public Trackers
 
-*   [peerflix (⭐6k)](https://github.com/mafintosh/peerflix) Streaming torrent client for node.js
+*   [peerflix (⭐6.1k)](https://github.com/mafintosh/peerflix) Streaming torrent client for node.js
 
 ### Torrent Clients / WebTorrent Clients
 
@@ -131,16 +131,16 @@
 ### DDL Tools / Free Indexers
 
 *   [FilePursuit](https://filepursuit.com) :star2: FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
-*   [annie (⭐19k)](https://github.com/iawia002/annie) Fast, simple and clean video downloader
+*   [annie (⭐21k)](https://github.com/iawia002/annie) Fast, simple and clean video downloader
 *   [aria2](https://aria2.github.io/) a lightweight multi-protocol & multi-source command-line download utility.
-*   [ripme (⭐3.2k)](https://github.com/RipMeApp/ripme) A album/video downloader with support for over 80 sites
-*   [rdcli (⭐103)](https://github.com/ston3o/rdcli) The simple way to download and unrestrict DDL files, torrents and magnets using Real-Debrid
-*   [get\_iplayer (⭐1.7k)](https://github.com/get-iplayer/get_iplayer) A utility for downloading TV and radio programmes from BBC iPlayer
+*   [ripme (⭐3.4k)](https://github.com/RipMeApp/ripme) A album/video downloader with support for over 80 sites
+*   [rdcli (⭐114)](https://github.com/ston3o/rdcli) The simple way to download and unrestrict DDL files, torrents and magnets using Real-Debrid
+*   [get\_iplayer (⭐1.8k)](https://github.com/get-iplayer/get_iplayer) A utility for downloading TV and radio programmes from BBC iPlayer
 *   [curl](https://en.wikipedia.org/wiki/CURL) `curl` is a command-line tool for downloading data using a variety of protocols. Easily installable on most operating systems.
 
 ### FTP Indexers / Free Indexers
 
-*   [Davos (⭐131)](https://github.com/linuxserver/davos) Web-based FTP automation for Linux servers.
+*   [Davos (⭐144)](https://github.com/linuxserver/davos) Web-based FTP automation for Linux servers.
 
 ### DDL Search Engines and Crawlers / Free Indexers
 
@@ -173,7 +173,7 @@
 
 *   [Ubooquity](http://vaemendis.net/ubooquity/) Ubooquity is a free home server for your comics and ebooks library
 *   [COPS (⭐1.3k)](https://github.com/seblucas/cops) Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, etc.)
-*   [Calibre-Web (⭐7.7k)](https://github.com/janeczku/calibre-web) Web app for browsing, reading and downloading eBooks stored in a Calibre database
+*   [Calibre-Web (⭐9.3k)](https://github.com/janeczku/calibre-web) Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
 ### Audiobooks / Third Party Hosts
 
@@ -193,7 +193,7 @@
 
 ### Standalone / Hash functions
 
-*   [sops (⭐11k)](https://github.com/mozilla/sops) - sops is an editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault and PGP.
+*   [sops (⭐13k)](https://github.com/mozilla/sops) - sops is an editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault and PGP.
 
 ### Java / Git
 
@@ -218,9 +218,9 @@
 
 ## [16. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-### Software / Media Streaming - Video Streaming
+### Software / Video Surveillance
 
-*   [Zoneminder](https://www.zoneminder.com/) - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras. ([Source Code (⭐4.2k)](https://github.com/ZoneMinder/ZoneMinder)) `GPL-2.0` `PHP`
+*   [Zoneminder](https://www.zoneminder.com/) - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras. ([Source Code (⭐4.4k)](https://github.com/ZoneMinder/ZoneMinder)) `GPL-2.0` `PHP/deb`
 
 ---
 

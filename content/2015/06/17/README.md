@@ -22,13 +22,13 @@
 
 ### Games / Directory Navigation
 
-*   [minesweeper (⭐49)](https://github.com/feherke/Bash-script/tree/master/minesweeper) - Bash implementation of minesweeper
+*   [minesweeper (⭐52)](https://github.com/feherke/Bash-script/tree/master/minesweeper) - Bash implementation of minesweeper
 
 ## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Web Frameworks
 
-*   [Hobbit (⭐271)](https://github.com/patriciomacadden/hobbit) - A minimalistic microframework built on top of Rack.
+*   [Hobbit (⭐272)](https://github.com/patriciomacadden/hobbit) - A minimalistic microframework built on top of Rack.
 
 ## [5. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

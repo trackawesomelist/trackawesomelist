@@ -10,22 +10,22 @@
 
 ### Applications / Security tools
 
-*   [Inspektor (⭐263)](https://github.com/inspektor-dev/inspektor) - A database protocol-aware proxy that is used to enforce access policies 👮
+*   [Inspektor (⭐269)](https://github.com/inspektor-dev/inspektor) - A database protocol-aware proxy that is used to enforce access policies 👮
 
 ### Applications / Text processing
 
-*   [ruplacer (⭐356)](https://github.com/your-tools/ruplacer) — Find and replace text in source files [![Run tests](https://github.com/your-tools/ruplacer/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/your-tools/ruplacer/actions/workflows/test.yml)
+*   [ruplacer (⭐376)](https://github.com/your-tools/ruplacer) — Find and replace text in source files [![Run tests](https://github.com/your-tools/ruplacer/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/your-tools/ruplacer/actions/workflows/test.yml)
 
 ## [2. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Rendering/Publishing/Conversion
 
-*   [Mercury (⭐2.6k)](https://github.com/mljar/mercury) - Convert notebooks into web applications.
+*   [Mercury (⭐3.4k)](https://github.com/mljar/mercury) - Convert notebooks into web applications.
 *   [nbconvert](https://nbconvert.readthedocs.io) - Convert notebooks to other formats.
 
 ### JupyterLab Extensions
 
-*   [lineapy (⭐581)](https://github.com/LineaLabs/lineapy) - Extension for transforming messy Jupyter notebooks to production-ready pipelines with two lines of code.
+*   [lineapy (⭐620)](https://github.com/LineaLabs/lineapy) - Extension for transforming messy Jupyter notebooks to production-ready pipelines with two lines of code.
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -41,11 +41,11 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [XCSnippetsApp (⭐137)](https://github.com/MarcoEidinger/XCSnippetsApp) - Explore code snippets from the Swift and iOS community, view and edit the snippets before adding them conveniently to Xcode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/MarcoEidinger/XCSnippetsApp)
+*   [XCSnippetsApp (⭐155)](https://github.com/MarcoEidinger/XCSnippetsApp) - Explore code snippets from the Swift and iOS community, view and edit the snippets before adding them conveniently to Xcode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/MarcoEidinger/XCSnippetsApp)
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [ribbon (⭐0)](https://github.com/pyjamafish/ribbon-prompt) - Reminiscent of powerline. Includes Python `virtualenv` decorator.
 *   [snazzy (⭐0)](https://github.com/Gary-Ash/SnazzyPrompt) - A powerline-style prompt. Includes segments for current working directory, error status of the last command, `git` status information, hostname and username. Requires `libgit2`.

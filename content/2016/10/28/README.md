@@ -104,7 +104,7 @@
 
 ### Parsing
 
-*   [Instaparse (⭐2.6k)](https://github.com/Engelberg/instaparse)
+*   [Instaparse (⭐2.7k)](https://github.com/Engelberg/instaparse)
 
 ## [13. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

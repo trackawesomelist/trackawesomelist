@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 13, 2020
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,25 +10,19 @@
 
 ### Tools
 
-*   [Migrate DB Magento 2 Commerce to Magento 2 Open-Source (⭐43)](https://github.com/opengento/magento2-downgrade-ee-ce)
+*   [Migrate DB Magento 2 Commerce to Magento 2 Open-Source (⭐48)](https://github.com/opengento/magento2-downgrade-ee-ce)
 
 ### Adminhtml / Backend
 
-*   [Clean Admin Menu (⭐111)](https://github.com/redchamps/clean-admin-menu) - Merges 3rd party extensions to a single menu.
+*   [Clean Admin Menu (⭐118)](https://github.com/redchamps/clean-admin-menu) - Merges 3rd party extensions to a single menu.
 
-## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / URL Shorteners
-
-*   [ReducePy (⭐34)](https://github.com/abdullahselek/ReducePy) - URL shortener service using Tornado and Redis runs on Docker and Kubernetes. `MIT` `Python`
-
-## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-snap (⭐162)](https://github.com/bartdominiak/vue-snap) - Lightweight Carousel based on Scroll Snap CSS
+*   [vue-snap (⭐164)](https://github.com/bartdominiak/vue-snap) - Lightweight Carousel based on Scroll Snap CSS
 
-## [4. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [3. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Electronics and Mechanics / Version Control
 
@@ -38,19 +32,19 @@
 
 *   [Kitware SLAM](https://gitlab.kitware.com/keu-computervision/slam/) -  LiDAR-only visual SLAM developped by Kitware, as well as ROS and ParaView wrappings for easier use.
 
-## [5. Awesome Naming](/content/gruhn/awesome-naming/README.md)
+## [4. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
 ### Other
 
 *   [Tree shaking](https://en.wikipedia.org/wiki/Tree_shaking) - Shake the dependency tree until all the dead parts are falling off and you end up with a nice lean tree.
 
-## [6. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+## [5. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
 ### Websites
 
 *   AngelList - <https://angel.co/>
 
-## [7. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [6. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Books
 

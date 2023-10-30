@@ -10,15 +10,11 @@
 
 ### Libraries
 
-*   [Ramda Adjunct (⭐663)](https://github.com/char0n/ramda-adjunct) is a community-maintained extension of Ramda.
+*   [Ramda Adjunct (⭐671)](https://github.com/char0n/ramda-adjunct) is a community-maintained extension of Ramda.
 
 ### Resources / Articles
 
 *   [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0) - A simple introduction by @ericelliott to functional principles and vocabulary.
-
-### Resources / Examples and Exercises
-
-*   [Functional Programming for Beginners](http://paqmind.com/courses/fp-beginner/) – Dozens of exercises with solutions and explanations.
 
 ## [2. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 
@@ -36,7 +32,7 @@
 
 ### Job processing / Third-party APIs
 
-*   [psychiq (⭐47)](https://github.com/fukamachi/psychiq) - redis-based background job processing for Common Lisp applications. Inspired by Ruby's Sidekiq and compatible with its web UI. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [psychiq (⭐48)](https://github.com/fukamachi/psychiq) - redis-based background job processing for Common Lisp applications. Inspired by Ruby's Sidekiq and compatible with its web UI. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### Logging / Third-party APIs
 
@@ -46,7 +42,7 @@
 
 ### Documentation / Build system (ROS2)
 
-*   [ROS 2 Tutorials (⭐2.6k)](https://github.com/ros2/ros2/wiki/Tutorials) - Study about ROS2 concept, libraries, build, and development with demoes/examples.
+*   [ROS 2 Tutorials (⭐2.7k)](https://github.com/ros2/ros2/wiki/Tutorials) - Study about ROS2 concept, libraries, build, and development with demoes/examples.
 
 ## [6. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
 
@@ -58,7 +54,7 @@
 
 ### Modules / Date & Time
 
-*   [twas (⭐235)](https://github.com/vutran/twas) - Generate a relative time string (Example: "3 seconds ago")
+*   [twas (⭐245)](https://github.com/vutran/twas) - Generate a relative time string (Example: "3 seconds ago")
 
 ---
 

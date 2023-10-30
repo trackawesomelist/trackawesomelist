@@ -12,17 +12,17 @@
 
 *   [libsequence](http://molpopgen.github.io/libsequence/) - A C++ library for representing and analyzing population genetics data. \[GPL]
 *   [SeqAn](http://www.seqan.de/) - Algorithms and data structures for the analysis of sequences with the focus on biological data. \[BSD/3-clause]
-*   [Vcflib (⭐546)](https://github.com/ekg/vcflib) - A C++ library for parsing and manipulating VCF files. \[MIT]
+*   [Vcflib (⭐566)](https://github.com/ekg/vcflib) - A C++ library for parsing and manipulating VCF files. \[MIT]
 
 ### Image Processing
 
-*   [VIGRA (⭐384)](https://github.com/ukoethe/vigra) - A generic C++ computer vision library for image analysis. \[MIT X11]
+*   [VIGRA (⭐394)](https://github.com/ukoethe/vigra) - A generic C++ computer vision library for image analysis. \[MIT X11]
 
 ### Robotics
 
 *   [MOOS-IvP](http://moos-ivp.org) - A set of open source C++ modules for providing autonomy on robotic platforms, in particular autonomous marine vehicles.
 *   [MRPT](http://www.mrpt.org/) - Mobile Robot Programming Toolkit. \[BSD]
-*   [PCL (⭐8.5k)](https://github.com/PointCloudLibrary/pcl) - Point Cloud Library is a standalone, large scale, open project for 2D/3D image and point cloud processing. \[BSD] [website](http://www.pointclouds.org/)
+*   [PCL (⭐8.9k)](https://github.com/PointCloudLibrary/pcl) - Point Cloud Library is a standalone, large scale, open project for 2D/3D image and point cloud processing. \[BSD] [website](http://www.pointclouds.org/)
 *   [Robotics Library (RL)](http://www.roboticslibrary.org/) - A self-contained C++ library for robot kinematics, motion planning and control. \[BSD]
 *   [ROS](http://wiki.ros.org/) - Robot Operating System provides libraries and tools to help software developers create robot applications. \[BSD]
 
@@ -32,18 +32,18 @@
 
 ### Miscellaneous
 
-*   [gcc-poison (⭐183)](https://github.com/leafsr/gcc-poison) - A simple header file for developers to ban unsafe C/C++ functions from applications.
+*   [gcc-poison (⭐184)](https://github.com/leafsr/gcc-poison) - A simple header file for developers to ban unsafe C/C++ functions from applications.
 
 ### Build Systems
 
-*   [tundra (⭐410)](https://github.com/deplinenoise/tundra) - High-performance code build system designed to give the best possible incremental build times even for very large software projects.
+*   [tundra (⭐419)](https://github.com/deplinenoise/tundra) - High-performance code build system designed to give the best possible incremental build times even for very large software projects.
 *   [tup](http://gittup.org/tup/) - File-based build system that monitors in the background for changed files.
 
 ## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Image Processing / Other
 
-*   [lena.js (⭐575)](https://github.com/davidsonfellipe/lena.js) - A Library for image processing with filters and util functions.
+*   [lena.js (⭐594)](https://github.com/davidsonfellipe/lena.js) - A Library for image processing with filters and util functions.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Publishing
 
-*   [Scheduled Publishing (⭐9)](https://github.com/HedgehogDevelopment/SCScheduledPublishing) - Gives the content editor the option to delay the publishing of an item for a future point in time.
+*   [Scheduled Publishing (⭐8)](https://github.com/HedgehogDevelopment/SCScheduledPublishing) - Gives the content editor the option to delay the publishing of an item for a future point in time.
 
 ## [2. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -48,13 +48,13 @@
 
 ### Related Lists / Provided by the Host
 
-*   [Awesome Azure Static Web Apps (⭐68)](https://github.com/staticwebdev/awesome-azure-static-web-apps)
+*   [Awesome Azure Static Web Apps (⭐77)](https://github.com/staticwebdev/awesome-azure-static-web-apps)
 
 ## [6. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Miscellaneous
 
-*   [react-apple-signin-auth (⭐79)](https://github.com/A-Tokyo/react-apple-signin-auth) - Apple signin for React using the official Apple JS SDK.
+*   [react-apple-signin-auth (⭐89)](https://github.com/A-Tokyo/react-apple-signin-auth) - Apple signin for React using the official Apple JS SDK.
 
 ## [7. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 

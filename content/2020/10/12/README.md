@@ -36,104 +36,113 @@
 
 ### Applications / Web Servers
 
-*   [mufeedvh/binserve (⭐765)](https://github.com/mufeedvh/binserve) — A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code [![build badge](https://github.com/mufeedvh/binserve/workflows/CICD/badge.svg?branch=master)](https://github.com/mufeedvh/binserve/actions)
+*   [mufeedvh/binserve (⭐891)](https://github.com/mufeedvh/binserve) — A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code [![build badge](https://github.com/mufeedvh/binserve/workflows/CICD/badge.svg?branch=master)](https://github.com/mufeedvh/binserve/actions)
 
-## [4. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
-
-### Community Resources
-
-*   [DDD/CQRS/ES Slack (⭐54)](https://github.com/ddd-cqrs-es/slack-community) - A slack team for those who want to chat about Domain-Driven Design, CQRS, Event Sourcing and sometimes random things. Main channel is language and framework agnostic.
-
-## [5. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+## [4. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Presentations
 
 *   [Pentesting vehicles with YACHT (Yet Another Car Hacking Tool)](https://www.blackhat.com/docs/eu-16/materials/eu-16-Sintsov-Pen-Testing-Vehicles-With-Cantoolz.pdf) -A presentation that discusses different attack surfaces of a vehicle, then continues to describe an approach to car hacking along with tools needed to analyse and gather useful information.
 
-## [6. Awesome D3](/content/wbkd/awesome-d3/README.md)
+## [5. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
 ### Utils / Third Party
 
 *   [d3-annotation (⭐733)](https://github.com/susielu/d3-annotation) - Annotation helper with built-in annotation types
 
-## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [6. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Collapse
 
-*   [react-tabbordion (⭐80)](https://github.com/Merri/react-tabbordion) - [demo](https://merri.github.io/react-tabbordion) - Universal, semantic and CSS-only components for creating Accordions and Tabs.
+*   [react-tabbordion (⭐79)](https://github.com/Merri/react-tabbordion) - [demo](https://merri.github.io/react-tabbordion) - Universal, semantic and CSS-only components for creating Accordions and Tabs.
 
-## [8. Awesome Ads](/content/cenoura/awesome-ads/README.md)
+## [7. Awesome Ads](/content/cenoura/awesome-ads/README.md)
 
 ### Best Practices
 
 *   [Coalition for Better Ads](https://www.betterads.org/) - A group of companies (Google, Facebook, etc) that publish research about how to improve the online consumer ad experience and defined some standards.
 
-## [9. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
+## [8. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
 
 ### Helpful links / Other
 
 *   [TensorFlow Lite Examples - Android (⭐34)](https://github.com/dailystudio/tensorflow-lite-examples-android) - A repository refactors and rewrites all the TensorFlow Lite Android examples which are included in the TensorFlow official website.
 
-## [10. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
+## [9. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
 ### Books
 
 *   [The Fuzzing Book](https://www.fuzzingbook.org/) (2019)
 
-## [11. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
+## [10. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 
 ### Security / Links
 
 *   [The container is a lie](https://platform.sh/blog/2020/the-container-is-a-lie/)
 
-## [12. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Miscellaneous
 
-*   [cl-liballegro (⭐46)](https://github.com/resttime/cl-liballegro) - Interface and bindings to the Allegro 5 game programming library. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [cl-liballegro (⭐48)](https://github.com/resttime/cl-liballegro) - Interface and bindings to the Allegro 5 game programming library. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
-## [13. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Tools & Utilities / Others
 
-*   [Blazor Printing (⭐77)](https://github.com/Append-IT/Blazor.Printing) - ![last-commit](https://img.shields.io/github/last-commit/append-it/Blazor.Printing?style=flat-square\&cacheSeconds=86400) Print and save PDF documents with a native print dialog in a Blazor Server or client Application.
+*   [Blazor Printing (⭐89)](https://github.com/Append-IT/Blazor.Printing) - ![last-commit](https://img.shields.io/github/last-commit/append-it/Blazor.Printing?style=flat-square\&cacheSeconds=86400) Print and save PDF documents with a native print dialog in a Blazor Server or client Application.
 
-## [14. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/README.md)
+## [13. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/README.md)
 
 ### Identity Applications / Public Blockchain Identity
 
 *   [Jolocom](https://jolocom.com) - Self-sovereign identity wallet.
 
-## [15. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [14. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Tools
 
-*   💼 [tailwind-classes-sorter (⭐19)](https://github.com/Acidic9/tailwind-classes-sorter) - NPM library which provides a utility to sort Tailwind CSS classes.
-*   💼 [prettier-plugin-tailwind (⭐431)](https://github.com/Acidic9/prettier-plugin-tailwind) - Prettier plugin that sorts class lists.
+*   💼 [tailwind-classes-sorter (⭐20)](https://github.com/Acidic9/tailwind-classes-sorter) - NPM library which provides a utility to sort Tailwind CSS classes.
+*   💼 [prettier-plugin-tailwind (⭐433)](https://github.com/Acidic9/prettier-plugin-tailwind) - Prettier plugin that sorts class lists.
 
-## [16. Motion Ui Design](/content/fliptheweb/motion-ui-design/README.md)
+## [15. Motion Ui Design](/content/fliptheweb/motion-ui-design/README.md)
 
 ### Libraries / JavaScript
 
 *   [useAnimations](https://useanimations.com/) - micro-animations icon library;
 
-## [17. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
+## [16. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
 ### App Examples
 
 *   [New York Taxi Rides](https://dash.vaex.io/) - A full year of the YellowCab Taxi company data from their prime, numbering well over 100 million trips. Dash + Vaex dataframe with over a 100 million rows. [Source Code. (⭐108)](https://github.com/vaexio/dash-120million-taxi-app)
 
-## [18. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [17. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / Application layer
 
 *   [Apex.Autonomy](https://www.apex.ai/apex-autonomy) - Apex.Autonomy provides autonomy algorithms as individual building blocks and is compatible with Autoware.Auto.
 
-## [19. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [18. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Applications and Platforms / Data Collection
 
 *   [LifeMetrics](https://lifemetrics.io/) - Daily questionnaires and automatically generated wellness insights (iOS).
+
+## [19. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### C / Non-X86
+
+*   [Hashing](https://www.smashwords.com/books/view/737188) - Prakash Hegade
+*   [Structures and C](https://www.smashwords.com/books/view/644937) - Prakash Hegade
+
+### HTML and CSS / Spock Framework
+
+*   [Web Visual Effects with CSS3](https://leanpub.com/web-visual-effects-with-css3/read) - Thomas Mak
+
+### R / Tornado
+
+*   [Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/) - Rafael A. Irizarry
 
 ---
 

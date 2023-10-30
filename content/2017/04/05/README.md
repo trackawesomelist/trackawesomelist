@@ -145,7 +145,7 @@
 
 ### Other
 
-*   [package-size (⭐417)](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
+*   [package-size (⭐422)](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
 
 ## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

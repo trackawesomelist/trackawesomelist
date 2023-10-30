@@ -25,18 +25,18 @@
 ### Development tools / Profiling
 
 *   FlameGraphs
-    *   [llogiq/flame (⭐651)](https://github.com/llogiq/flame) —
+    *   [llogiq/flame (⭐668)](https://github.com/llogiq/flame) —
     *   [mrhooray/torch (⭐128)](https://github.com/mrhooray/torch) — generates FlameGraphs based on DWARF Debug Info
 
 ## [3. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [Mattermost (⭐1.8k)](https://github.com/mattermost/desktop) - Mattermost client.
+*   [Mattermost (⭐1.9k)](https://github.com/mattermost/desktop) - Mattermost client.
 
 ### Boilerplates / Other
 
-*   [electron-quick-start (⭐10k)](https://github.com/electron/electron-quick-start) - Clone the repo to try a simple app.
+*   [electron-quick-start (⭐11k)](https://github.com/electron/electron-quick-start) - Clone the repo to try a simple app.
 
 ## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

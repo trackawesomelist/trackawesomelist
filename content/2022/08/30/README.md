@@ -8,7 +8,7 @@
 
 ## [1. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [Coaching Tools – The Plan](https://svpg.com/coaching-tools-the-plan/) - By [Marty Cagan](https://www.svpg.com/team/marty-cagan/).
 
@@ -23,21 +23,21 @@
 
 ### Database Tools
 
-*   [Strong Migrations (⭐3.5k)](https://github.com/ankane/strong_migrations) - Catch unsafe migrations in development.
+*   [Strong Migrations (⭐3.6k)](https://github.com/ankane/strong_migrations) - Catch unsafe migrations in development.
 
 ### GUI
 
-*   [FXRuby (⭐255)](https://github.com/larskanis/fxruby) - A Ruby library that provides an interface to the FOX GUI toolkit.
+*   [FXRuby (⭐259)](https://github.com/larskanis/fxruby) - A Ruby library that provides an interface to the FOX GUI toolkit.
 
 ### Third-party APIs
 
-*   [Ably (⭐30)](https://github.com/ably/ably-ruby) - Ruby library for realtime communication over Ably.
+*   [Ably (⭐33)](https://github.com/ably/ably-ruby) - Ruby library for realtime communication over Ably.
 
 ## [4. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
 ### Tools / Dart
 
-*   [dart.webdriver (⭐118)](https://github.com/google/webdriver.dart) - Provides WebDriver bindings for Dart. These use the WebDriver JSON interface, and as such, require the use of the WebDriver remote server.
+*   [dart.webdriver (⭐127)](https://github.com/google/webdriver.dart) - Provides WebDriver bindings for Dart. These use the WebDriver JSON interface, and as such, require the use of the WebDriver remote server.
 
 ## [5. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 
@@ -49,13 +49,13 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [insanusmokrassar/TelegramBotAPI (⭐255)](https://github.com/insanusmokrassar/TelegramBotAPI) - Kotlin Multiplatform library for type-safe work with Telegram Bot API
+*   [insanusmokrassar/TelegramBotAPI (⭐283)](https://github.com/insanusmokrassar/TelegramBotAPI) - Kotlin Multiplatform library for type-safe work with Telegram Bot API
 
 ## [7. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
-*   [pike (⭐302)](https://github.com/jamesWoolfenden/pike) - Pike calculates the permissions or IAM policy required to build your Terraform.
+*   [pike (⭐358)](https://github.com/jamesWoolfenden/pike) - Pike calculates the permissions or IAM policy required to build your Terraform.
 
 ## [8. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
 
@@ -92,19 +92,19 @@
 
 ### Color / Diagnostics
 
-*   [nvim-colortils/colortils.nvim (⭐247)](https://github.com/nvim-colortils/colortils.nvim) - A plugin providing utils to work with colors (picker, conversion) inside Neovim.
+*   [nvim-colortils/colortils.nvim (⭐298)](https://github.com/nvim-colortils/colortils.nvim) - A plugin providing utils to work with colors (picker, conversion) inside Neovim.
 
 ### Neovim Lua Development / Diagnostics
 
-*   [ray-x/guihua.lua (⭐119)](https://github.com/ray-x/guihua.lua) - A Lua UI library. Includes a fzy search bar, list view and tree view modules.
+*   [ray-x/guihua.lua (⭐132)](https://github.com/ray-x/guihua.lua) - A Lua UI library. Includes a fzy search bar, list view and tree view modules.
 
 ## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Others
 
-*   [CleanArchitecture (⭐3.1k)](https://github.com/blazorhero/CleanArchitecture) - ![stars](https://img.shields.io/github/stars/blazorhero/CleanArchitecture?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/blazorhero/CleanArchitecture?style=flat-square\&cacheSeconds=86400) Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
-*   [Flight Finder (⭐910)](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) - ![stars](https://img.shields.io/github/stars/aspnet/samples?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aspnet/samples?style=flat-square\&cacheSeconds=86400\&logo=microsoft) Flight Finder.
-*   [Blazor.SVGEditor (⭐163)](https://github.com/KristofferStrube/Blazor.SVGEditor) - ![stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.SVGEditor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.SVGEditor?style=flat-square\&cacheSeconds=86400) A basic HTML SVG Editor written in Blazor WASM. [Demo](https://kristofferstrube.github.io/Blazor.SVGEditor/).
+*   [CleanArchitecture (⭐3.3k)](https://github.com/blazorhero/CleanArchitecture) - ![stars](https://img.shields.io/github/stars/blazorhero/CleanArchitecture?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/blazorhero/CleanArchitecture?style=flat-square\&cacheSeconds=86400) Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
+*   [Flight Finder (⭐932)](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) - ![stars](https://img.shields.io/github/stars/aspnet/samples?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aspnet/samples?style=flat-square\&cacheSeconds=86400\&logo=microsoft) Flight Finder.
+*   [Blazor.SVGEditor (⭐204)](https://github.com/KristofferStrube/Blazor.SVGEditor) - ![stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.SVGEditor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.SVGEditor?style=flat-square\&cacheSeconds=86400) A basic HTML SVG Editor written in Blazor WASM. [Demo](https://kristofferstrube.github.io/Blazor.SVGEditor/).
 
 ### Videos / Others
 
@@ -118,17 +118,13 @@
 
 ## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [konghq.com](https://konghq.com/) — API Marketplace and powerful tools for private and public APIs. With the free tier, some features are limited such as monitoring, alerting and support.
-
-### CMS
-
-*   [Forestry.io](https://forestry.io/) — Headless CMS. Give your editors the power of Git. Create and edit Markdown-based content with ease. Comes with three free sites that includes 3 editors, Instant Previews. Integrates with blogs hosted on Netlify/GitHubpages/ elsewhere
+*   [konghq.com](https://konghq.com/) — API Marketplace and powerful private and public API tools. With the free tier, some features such as monitoring, alerting, and support, are limited.
 
 ### Issue Tracking and Project Management
 
-*   [diagrams.net](https://app.diagrams.net/) — Online diagrams stored locally, in Google Drive, OneDrive or Dropbox. Free for all features and storage levels
+*   [diagrams.net](https://app.diagrams.net/) — Online diagrams stored locally in Google Drive, OneDrive, or Dropbox. Free for all features and storage levels
 
 ### Data Visualization on Maps
 
@@ -142,19 +138,19 @@
 
 ### Utilities / Calendars
 
-*   [crawley (⭐135)](https://github.com/s0rg/crawley) - Unix-way web crawler.
+*   [crawley (⭐161)](https://github.com/s0rg/crawley) - Unix-way web crawler.
 
 ## [16. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Layout
 
-*   [vue-console-feed (⭐15)](https://github.com/tachibana-shin/vue-console-feed) - A plugin that allows you to display `console like Chrome Devtools` for vue.
+*   [vue-console-feed (⭐22)](https://github.com/tachibana-shin/vue-console-feed) - A plugin that allows you to display `console like Chrome Devtools` for vue.
 
 ## [17. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Database
 
-*   [aloedb (⭐125)](https://github.com/Kirlovon/AloeDB) - Light, Embeddable, NoSQL database for Deno without dependencies.
+*   [aloedb (⭐129)](https://github.com/Kirlovon/AloeDB) - Light, Embeddable, NoSQL database for Deno without dependencies.
 
 ---
 

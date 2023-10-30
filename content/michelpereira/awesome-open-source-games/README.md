@@ -49,7 +49,7 @@ Collection of Games that have the source code available on GitHub
 
 ### Native / Strategy
 
-*   [Zero-K (⭐573)](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game with physical projectiles and smart units.
+*   [Zero-K (⭐576)](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game with physical projectiles and smart units.
 *   [Stone Kingdoms](https://gitlab.com/stone-kingdoms/stone-kingdoms) - Real-time strategy based on the original Stronghold series.
 
 ## [Mar 31, 2022](/content/2022/03/31/README.md)
@@ -286,8 +286,7 @@ Collection of Games that have the source code available on GitHub
 
 ### Native / MMORPG
 
-*   [Open Meridian (⭐139)](https://github.com/OpenMeridian/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. Forked in 2013, Actively developed.
-*   [Meridian 59 (⭐346)](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59, less frequently updated.
+*   [Meridian 59 (⭐346)](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012 - the game is being actively developed by the community.
 
 ### Native / Platform
 
@@ -365,7 +364,7 @@ Collection of Games that have the source code available on GitHub
 *   [C-Dogs SDL (⭐763)](https://github.com/cxong/cdogs-sdl) - Overhead shoot-em-up port of the classic DOS game.
 *   [Chaos Projectile (⭐56)](https://github.com/WinterLicht/Chaos-Projectile) - 2D run'n'gun action game with RPG elements.
 *   [Clonepoint (⭐63)](https://github.com/rohit-n/Clonepoint) - Libre clone of Gunpoint, a game in which you hack and punch your way to victory.
-*   [DynaDungeons (⭐199)](https://github.com/akien-mga/dynadungeons) - Bomberman clone using the awesome open source Godot game engine.
+*   [DynaDungeons (⭐200)](https://github.com/akien-mga/dynadungeons) - Bomberman clone using the awesome open source Godot game engine.
 *   [Duckmarines (⭐100)](https://github.com/SimonLarsen/duckmarines) - A ChuChu Rocket remake for PC.
 *   [Epic Inventor](https://github.com/BlkStormy/epic-inventor) - Indie, side-scrolling, action, RPG.
 *   [Falling Time (⭐24)](https://github.com/cxong/FallingTime) - Arcade game inspired by Fall Down.
@@ -454,7 +453,7 @@ Collection of Games that have the source code available on GitHub
 *   [Freeminer (⭐363)](https://github.com/freeminer/freeminer) - Sandbox game inspired by Minecraft.
 *   [Minecraft (⭐5.1k)](https://github.com/fogleman/Minecraft) - Simple Minecraft-inspired demo written in [Python](https://www.python.org/) and [Pyglet](http://www.pyglet.org/).
 *   [Manic Digger (⭐286)](https://github.com/manicdigger/manicdigger) - A multiplayer block-building voxel game, Minecraft clone.
-*   [Minetest (⭐9.1k)](https://github.com/minetest/minetest) - Infinite-world block sandbox game with survival and crafting.
+*   [Minetest (⭐9.2k)](https://github.com/minetest/minetest) - Infinite-world block sandbox game with survival and crafting.
 *   [Pycraft (⭐194)](https://github.com/itsapi/pycraft) - A Minecraft-inspired game for the terminal.
 *   [Rigs of Rods (⭐893)](https://github.com/RigsOfRods/rigs-of-rods) - Soft-Body physics simulator for vehicles and more.
 *   [Space Engineers (⭐2.9k)](https://github.com/KeenSoftwareHouse/SpaceEngineers) - Space Engineers is a voxel-based sandbox game set in an asteroid field in space.
@@ -463,7 +462,7 @@ Collection of Games that have the source code available on GitHub
 
 ### Native / Strategy
 
-*   [0 A.D. (⭐2.4k)](https://github.com/0ad/0ad) - 3D RTS similar to Age of Empires II.
+*   [0 A.D. (⭐2.5k)](https://github.com/0ad/0ad) - 3D RTS similar to Age of Empires II.
 *   [Caesaria (⭐244)](https://github.com/dalerank/caesaria-game) - Remake of the popular citybuilder and economic sim Caesar III.
 *   [Colobot (⭐1k)](https://github.com/colobot/colobot) - A real-time strategy game with programmable bots.
 *   [CorsixTH (⭐2.8k)](https://github.com/CorsixTH/CorsixTH) - Clone of Theme Hospital.
@@ -488,7 +487,7 @@ Collection of Games that have the source code available on GitHub
 *   [Race into Space (⭐152)](https://github.com/raceintospace/raceintospace) - Turn-based space race strategy game originally by Interplay.
 *   [Seven Kingdoms: Ancient Adversaries (⭐243)](https://github.com/the3dfxdude/7kaa) - Classic RTS game liberated in 2009.
 *   [Source of Tales (⭐58)](https://github.com/tales/sourceoftales) - Entry in the Liberated Pixel Cup 2012.
-*   [Tanks of Freedom (⭐1k)](https://github.com/w84death/Tanks-of-Freedom) - Turn-based strategy game in isometric pixel-art style.
+*   [Tanks of Freedom (⭐1.1k)](https://github.com/w84death/Tanks-of-Freedom) - Turn-based strategy game in isometric pixel-art style.
 *   [The Battle for Wesnoth (⭐4.6k)](https://github.com/wesnoth/wesnoth) - Turn-based strategy game with a high fantasy theme.
 *   [Unknown Horizons](https://github.com/unknown-horizons) - 2D isometric RTS economic strategy game written in C++ & Python, built on the Flexible Isometric Free Engine.
 *   [Voxeliq (⭐160)](https://github.com/raistlinthewiz/voxeliq) - Block-based game engine implementation developed with C#.
@@ -586,7 +585,7 @@ Collection of Games that have the source code available on GitHub
 *   [Spring (⭐3.2k)](https://github.com/spring/spring) - Real Time Strategy game engine.
 *   [Starling (⭐2.7k)](https://github.com/Gamua/Starling-Framework) - ActionScript 3 library that mimics the conventional Flash display tree architecture, can be deployed to mobile devices (iOS, Android), the desktop (Windows, macOS), and to the browser (via the Flash plugin).
 *   [Tesseract (⭐187)](https://github.com/lsalzman/tesseract) - Make mapping more fun by using modern dynamic rendering techniques, sothat you can get instant feedback on lighting changes, not just geometry.
-*   [Three.js (⭐93k)](https://github.com/mrdoob/three.js) - JavaScript 3D library used in many browser games.
+*   [Three.js (⭐94k)](https://github.com/mrdoob/three.js) - JavaScript 3D library used in many browser games.
 *   [Tiled (⭐9.8k)](https://github.com/bjorn/tiled) - Tiled is a general purpose tile map editor. It is meant to be used for editing maps of any tile-based game, be it an RPG, a platformer or a Breakout clone.
 *   [Torque 2D (⭐916)](https://github.com/TorqueGameEngines/Torque2D) - MIT Licensed version of Torque 2D from GarageGames.
 *   [Torque 3D (⭐3.3k)](https://github.com/GarageGames/Torque3D) - MIT Licensed version of Torque 3D from GarageGames.

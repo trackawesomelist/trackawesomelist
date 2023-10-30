@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 29 - May 05, 2019
 
-53 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -44,8 +44,8 @@
 *   [balenaOS](https://www.balena.io/os/) - open source OS to run Docker containers on embedded devices that's been designed for reliability and proven in production.
 *   [BerryBoot](http://www.berryterminal.com/doku.php/berryboot) - Bootloader/universal OS installer, with support to VNC and HDMI-CEC.
 *   [CentOS](https://wiki.centos.org/SpecialInterestGroup/AltArch/Arm32/RaspberryPi3) - CentOS on the Raspberry Pi. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-2+.png)
-*   [DroneBridge (⭐566)](https://github.com/seeul8er/DroneBridge) - A WifiBroadcast extension to make for a real alternative to DJI Lightbridge and other similar systems. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-3.png)
-*   [EZ-WifiBroadcast (⭐711)](https://github.com/bortek/EZ-WifiBroadcast/wiki) - Affordable Wireless Digital HD Video Transmission made easy. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-3.png) ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-0.png)
+*   [DroneBridge (⭐631)](https://github.com/seeul8er/DroneBridge) - A WifiBroadcast extension to make for a real alternative to DJI Lightbridge and other similar systems. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-3.png)
+*   [EZ-WifiBroadcast (⭐766)](https://github.com/bortek/EZ-WifiBroadcast/wiki) - Affordable Wireless Digital HD Video Transmission made easy. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-3.png) ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-0.png)
 *   [FabScanPi](https://mariolukas.github.io/FabScanPi-Server/) - FabScanPi is an open source 3D laser scanner using the Raspberry Pi Camera Module. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-2+.png)
 *   [Gentoo](https://wiki.gentoo.org/wiki/Raspberry_Pi) - Gentoo Stage 3 tarball for Raspberry Pi.
 *   [Hass.io](https://home-assistant.io/hassio/installation/) - Home automation operating system/application for embedded device, also available standalone.
@@ -54,7 +54,7 @@
 *   [Lakka](http://lakka.tv) - Retro-gaming on the Raspberry Pi built entirely on RetroArch.
 *   [Minibian](https://minibianpi.wordpress.com/) - Minimal Raspbian (lighter than Jessie Lite).
 *   [MoodleBox](https://moodlebox.net/) - The MoodleBox provides a Moodle learning management system on Raspberry Pi. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-3.png)
-*   [motionEyeOS (⭐7.3k)](https://github.com/ccrisan/motioneyeos/wiki) - Linux distribution that turns a single-board computer into a video surveillance system.
+*   [motionEyeOS (⭐7.6k)](https://github.com/ccrisan/motioneyeos/wiki) - Linux distribution that turns a single-board computer into a video surveillance system.
 *   [NetBSD](https://wiki.netbsd.org/ports/evbarm/raspberry_pi/) - NetBSD is a free, fast, secure, and highly portable Unix-like Open Source operating system.
 *   [NextCloudPi](https://ownyourbits.com/2017/02/13/nextcloud-ready-raspberry-pi-image/) - Nextcloud ready image based on Raspbian. Features Nextcloud 11 running on Raspbian 8, with PHP 7 and HTTP2 enabled Apache server.
 *   [NOOBS](https://www.raspberrypi.org/downloads/noobs/) - New Out Of the Box Software, an easy OS installer for beginners.
@@ -74,62 +74,60 @@
 
 ### Tools
 
-*   [Alpha (⭐40)](https://github.com/farjump/raspberry-pi) - Remotely load, debug and test bare-metal programs using GDB with this system-level GDB server.
+*   [Alpha (⭐41)](https://github.com/farjump/raspberry-pi) - Remotely load, debug and test bare-metal programs using GDB with this system-level GDB server.
 *   [CusDeb](https://cusdeb.com/en/) - Web UI for creating custom images with specific packages installed.
-*   [iotwifi (⭐277)](https://github.com/cjimti/iotwifi) - Wifi AP + Client management in 8MB [Docker Container](https://hub.docker.com/r/cjimti/iotwifi/), with REST API for controlling wifi client and station modes simultaneously. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-3.png)
-*   [OpenVPN-Setup (⭐765)](https://github.com/StarshipEngineer/OpenVPN-Setup) - Shell script to set up Raspberry Pi as an OpenVPN server.
-*   [pi-gen (⭐2.2k)](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images. This can be used to create your own custom images with specific packages installed, etc.
-*   [PiShrink (⭐2.8k)](https://github.com/Drewsif/PiShrink/) - Bash script that automatically shrinks a pi image that will then resize to the max size of the SD card on boot.
-*   [RaspAP-webgui (⭐3.9k)](https://github.com/billz/raspap-webgui) - A simple, responsive web interface to control wifi, hostapd and related services on the Raspberry Pi.
+*   [iotwifi (⭐291)](https://github.com/cjimti/iotwifi) - Wifi AP + Client management in 8MB [Docker Container](https://hub.docker.com/r/cjimti/iotwifi/), with REST API for controlling wifi client and station modes simultaneously. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-3.png)
+*   [pi-gen (⭐2.3k)](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images. This can be used to create your own custom images with specific packages installed, etc.
+*   [PiShrink (⭐3.1k)](https://github.com/Drewsif/PiShrink/) - Bash script that automatically shrinks a pi image that will then resize to the max size of the SD card on boot.
+*   [RaspAP-webgui (⭐4.1k)](https://github.com/billz/raspap-webgui) - A simple, responsive web interface to control wifi, hostapd and related services on the Raspberry Pi.
 *   [Raspbian QEMU with network](https://ownyourbits.com/2017/02/06/raspbian-on-qemu-with-network-access/) - Simple tool to launch QEMU on Raspbian with the required modifications on the system and kernel. Automatic network access. Handy to create images in your PC.
-*   [Resin Bridge (⭐35)](https://github.com/resin-io-playground/resin-bridge) - Simple application/repo to bridge a Raspberry Pi's wlan0 interface to devices plugged into it over ethernet (eth0).
-*   [TorTiPi (⭐103)](https://github.com/r0hi7/tortipi) - Shell script to automate the task of converting Raspberry Pi into a tor based wifi hotspot.
+*   [Resin Bridge (⭐34)](https://github.com/resin-io-playground/resin-bridge) - Simple application/repo to bridge a Raspberry Pi's wlan0 interface to devices plugged into it over ethernet (eth0).
+*   [TorTiPi (⭐106)](https://github.com/r0hi7/tortipi) - Shell script to automate the task of converting Raspberry Pi into a tor based wifi hotspot.
 *   [WiFi config generator](https://steveedson.co.uk/tools/wpa/) - Simple tool to generate wpa\_supplicant.conf files with wifi settings
 
 ### Projects
 
 *   [BeeMonitor](https://beemonitor.org/setup/) - Honey beehive monitoring project.
-*   [Bitcoin Tracker (⭐39)](https://github.com/jonathanrjpereira/Bitcoin-Bar) - A Physical Dashboard that displays Bitcoin stats in real time. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-3.png) ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-0.png)
+*   [Bitcoin Tracker (⭐40)](https://github.com/jonathanrjpereira/Bitcoin-Bar) - A Physical Dashboard that displays Bitcoin stats in real time. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-3.png) ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-0.png)
 *   [Building Timelapse with Resin](https://steveedson.co.uk/project-matilda/) - Remotely deploying timelapse camera using Docker, Resin, and 3G internet.
-*   [Circle (⭐1.5k)](https://github.com/rsta2/circle) - A C++ bare metal environment for Raspberry Pi.
-*   [clockOS (⭐48)](https://github.com/iGerli/clockOS) - simple smart desktop clock using a Raspberry Pi display.
+*   [Circle (⭐1.6k)](https://github.com/rsta2/circle) - A C++ bare metal environment for Raspberry Pi.
+*   [clockOS (⭐49)](https://github.com/iGerli/clockOS) - simple smart desktop clock using a Raspberry Pi display.
 *   [DIY USB Rubber Ducky](https://hackaday.io/project/17598-diy-usb-rubber-ducky) - Raspberry Pi Zero Rubber Ducky recognized as a USB HID by just about anything with a USB port, thus allowing you to run custom scripts as if it were a keyboard. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-0.png)
-*   [docsis-cable-load-monitor (⭐59)](https://github.com/sp4rkie/docsis-cable-load-monitor) - Tool to monitor downstream load on DOCSIS cable networks.
-*   [FistBump BLE Edition (⭐28)](https://github.com/eliddell1/Project-Blue-Fist/blob/master/README.md) - WPA Hash Grabbing Bluetooth Peripheral / Android App.
+*   [docsis-cable-load-monitor (⭐62)](https://github.com/sp4rkie/docsis-cable-load-monitor) - Tool to monitor downstream load on DOCSIS cable networks.
+*   [FistBump BLE Edition (⭐30)](https://github.com/eliddell1/Project-Blue-Fist/blob/master/README.md) - WPA Hash Grabbing Bluetooth Peripheral / Android App.
 *   [Harry Potter and the real life Daily Prophet](https://www.raspberrypi.org/blog/harry-potter-and-the-real-life-daily-prophet/) - Display mimicking the Daily Prophet from Harry Potter using a 7" Raspberry Pi display.
-*   [Hearing aid prototoype (⭐94)](https://github.com/m-r-s/hearingaid-prototype) - A Raspberry Pi powered prototype of a hearing aid. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-3.png)
-*   [Kubernetes on ARM (⭐589)](https://github.com/luxas/kubernetes-on-arm) - Get your ARM device up and running Kubernetes in less than ten minutes.
-*   [Looper/synth/drum thing (⭐935)](https://github.com/otem/Raspberry-Pi-Looper-synth-drum-thing) - Sequencer/Drumpad, like Native Instruments' Maschine for the Pi.
+*   [Hearing aid prototoype (⭐103)](https://github.com/m-r-s/hearingaid-prototype) - A Raspberry Pi powered prototype of a hearing aid. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-3.png)
+*   [Kubernetes on ARM (⭐588)](https://github.com/luxas/kubernetes-on-arm) - Get your ARM device up and running Kubernetes in less than ten minutes.
+*   [Looper/synth/drum thing (⭐966)](https://github.com/otem/Raspberry-Pi-Looper-synth-drum-thing) - Sequencer/Drumpad, like Native Instruments' Maschine for the Pi.
 *   [Lumos](https://www.instructables.com/id/LUMOS-Smart-Lamp-for-Better-Health/) - Smart Lamp for Better Sleep. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-3.png) ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-0.png)
 *   [Magic Mirror](http://magicmirror.builders) - The original open source modular smart mirror platform. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-2+.png)
 *   [Mini OONTZ](https://cdn-learn.adafruit.com/downloads/pdf/mini-oontz-3d-printed-midi-controller.pdf) - 3D printed mini MIDI controller.
 *   [Multi-Datacenter Cassandra on 32 Raspberry Pi’s](http://www.datastax.com/dev/blog/32-node-raspberry-pi-cassandra-cluster) - Showcase for the always on, fault tolerant nature of Cassandra using a Raspberry Pi cluster board.
-*   [NALIVATOR-9000 (⭐19)](https://github.com/fote/nalivator9000) - Robot bartender for making cocktails with Telegram-bot interface and speech synthesis on Golang.
+*   [NALIVATOR-9000 (⭐20)](https://github.com/fote/nalivator9000) - Robot bartender for making cocktails with Telegram-bot interface and speech synthesis on Golang.
 *   [NTP driven Nixie Clock](http://www.mjoldfield.com/atelier/2012/08/ntp-nixie.html) - Nixie Tube Clock powered by a Raspberry Pi.
-*   [Occu-Pi (⭐9)](https://github.com/bww/occu-pi) - Controller software for the Occu-pi, a totally awesome bathroom door sensor.
+*   [Occu-Pi (⭐10)](https://github.com/bww/occu-pi) - Controller software for the Occu-pi, a totally awesome bathroom door sensor.
 *   [Pi Image Capturer (⭐9)](https://github.com/rajeshkumarkhadka/Pi-Image-Capturer) - Captures images, integrated with the Google IOT Cloud Platform ecosystem.
-*   [pi\_payments (⭐20)](https://github.com/anshulahuja98/pi_payments) - Payment module based on RFID.
-*   [pi-timolo (⭐507)](https://github.com/pageauc/pi-timolo) - Remote Headless multi feature PiCamera Operation from Rclone Remote Storage Service and More.
-*   [PiClock (⭐542)](https://github.com/n0bel/PiClock) - Fancy Clock built around a monitor and a Raspberry Pi.
+*   [pi\_payments (⭐21)](https://github.com/anshulahuja98/pi_payments) - Payment module based on RFID.
+*   [pi-timolo (⭐529)](https://github.com/pageauc/pi-timolo) - Remote Headless multi feature PiCamera Operation from Rclone Remote Storage Service and More.
+*   [PiClock (⭐548)](https://github.com/n0bel/PiClock) - Fancy Clock built around a monitor and a Raspberry Pi.
 *   [PiFanTuner (⭐39)](https://github.com/winkidney/PIFanTuner) - CPU-fan-tuner daemon, just enables your fan as necessary. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-3.png)
 *   [PiScan](http://denis.papathanasiou.org/posts/2015.05.30.post.html) - Makeshift Amazon Dash orders using a Raspberry PI + EAN scanner.
 *   [Planning lunch with a Slackbot on resin.io](https://resin.io/blog/planning-lunch-with-a-slackbot-on-resin-io/) - Node.js Slackbot (lunchbot), hosted on Resin.
 *   [Power Sniffing Strip](https://hackaday.com/2012/10/04/malicious-raspberry-pi-power-strip-looks-a-bit-scary/) - Enclosure in a power strip, sniffing network data.
 *   [Raspberry Pi Erlang Cluster](https://medium.com/@pieterjan_m/erlang-pi2-arm-cluster-vs-xeon-vm-40871d35d356#.bpao66cm8) - Erlang cluster on a Raspberry Pi 2.
 *   [Raspberry PI Hadoop Cluster](http://www.widriksson.com/raspberry-pi-hadoop-cluster/) - Big Data cluster running on the Raspberry Pi.
-*   [RaspiBolt (⭐1.1k)](https://github.com/Stadicus/guides/tree/master/raspibolt) - Beginner’s Guide to ️⚡Lightning️⚡ on a Raspberry Pi.
-*   [RPi Motor Library (⭐248)](https://github.com/gavinlyonsrepo/RpiMotorLib) - Python 3 library to connect various motors & servos to the Pi.
+*   [RPi Motor Library (⭐272)](https://github.com/gavinlyonsrepo/RpiMotorLib) - Python 3 library to connect various motors & servos to the Pi.
 *   [RPI tempmon (⭐76)](https://github.com/gavinlyonsrepo/raspberrypi_tempmon) - CPU GPU temperature monitor with various functions such as LED GPIO, Graph output, email, alarm limit, notifications and logging.
-*   [SecPi (⭐245)](https://github.com/SecPi/SecPi) - Raspberry Pi based home alarm system.
+*   [SecPi (⭐243)](https://github.com/SecPi/SecPi) - Raspberry Pi based home alarm system.
 *   [Skate-o-Meter](http://www.instructables.com/id/Skate-o-Meter/) - Skateboard odometer and speedometer with RFID user system.
 *   [SkyJack](https://samy.pl/skyjack/) - Take over and allow full control over any Parrot AR Drone within wireless distance.
-*   [Smart Mirror (⭐2.7k)](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror with IoT integration. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-2+.png)
-*   [Sonic Pi (⭐9.8k)](https://github.com/samaaron/sonic-pi) - The Live Coding Music Synth for Everyone.
-*   [Sonus (⭐591)](https://github.com/evancohen/sonus) - Node.js voice control for your Pi (and everything else) with customizable offline hotword detection.
-*   [speed-camera (⭐794)](https://github.com/pageauc/speed-camera) - Object Motion Tracking uses python, openCV, USB Cam or picamera module to record speed data.
+*   [Smart Mirror (⭐2.8k)](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror with IoT integration. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-2+.png)
+*   [Sonic Pi (⭐10k)](https://github.com/samaaron/sonic-pi) - The Live Coding Music Synth for Everyone.
+*   [Sonus (⭐603)](https://github.com/evancohen/sonus) - Node.js voice control for your Pi (and everything else) with customizable offline hotword detection.
+*   [speed-camera (⭐858)](https://github.com/pageauc/speed-camera) - Object Motion Tracking uses python, openCV, USB Cam or picamera module to record speed data.
 *   [Vinyl Shelf Finder](https://valentingalea.github.io/vinyl-shelf-finder/) - Uses a tilt & pan laser to find a record in a record collection.
 *   [Voice Kit](https://aiyprojects.withgoogle.com/voice) - AIY Voice Kit from Google, to build a standalone voice recognition system using the Google Assistant, or add voice recognition and natural language processing to your Raspberry Pi-based projects.
-*   [Waves (⭐30)](https://github.com/euniceylee/waves) - Transforming the transience of the spoken word into something concrete and physical through a microphone, waveform and thermal printer.
+*   [Waves (⭐31)](https://github.com/euniceylee/waves) - Transforming the transience of the spoken word into something concrete and physical through a microphone, waveform and thermal printer.
 *   [Whispering Mirror](http://whisperingwallproject.com/whisperingmirror/) - Interactive soundart installation using the Hifiberry DAC.
 *   [Wordpress using Docker (⭐45)](https://github.com/rothgar/rpi-wordpress) - Run a Wordpress site in containers with dynamic DNS.
 *   [Zelda Home Automation](https://www.raspberrypi.org/blog/zelda-home-automation/) - Home automation based on sound recognition from notes played on an ocarina.
@@ -138,7 +136,6 @@
 
 *   **AndFTP** - Alternative FTP client app. [Android](https://play.google.com/store/apps/details?id=lysesoft.andftp)
 *   **Kore Remote** - Official remote to control Kodi. [Android](https://play.google.com/store/apps/details?id=org.xbmc.kore)
-*   **RasPi Check** - To check Pi stats - frequency, temperature, volts and more system information (free memory, runtime, disk status). You can also restart or halt your Raspberry Pi and send custom commands. [Android](https://play.google.com/store/apps/details?id=de.eidottermihi.raspicheck)
 *   **VNC Viewer** - To remotely control Raspberry Pi desktop. [Android](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android\&hl=en)
 
 ### Articles / iOS
@@ -153,21 +150,19 @@
 *   [DC++ Hub](https://medium.com/@anshul.ahu/guide-to-setup-an-adc-dc-hub-on-raspberry-pi-4dbf86ca8547) - Guide to setup an ADC (DC++) Hub on Raspberry Pi.
 *   [DIY Neural Network](http://hackaday.com/2017/06/14/diy-raspberry-neural-network-sees-all-recognizes-some/) - Uses image recognition and Google’s Inception to recognize specific objects.
 *   [Docker Swarm with LetsEncrypt](https://aaron.haurwitz.com/#!/posts/raspberry-pi-docker-swarm-with-lets-encrypt) - Clear guidelines on how to set up a cluster with Docker, distributing services with Docker Compose and signing valid SSL certs with Letsencrypt.
-*   [How to setup a secure VPN server on Raspberry Pi or DigitalOcean](http://blog.hsp.dk/how-to-setup-vpn-server-on-raspberry-pi-or-digitalocean/) - Simple, secure and detailed guide to setup VPN on your Raspberry Pi.
 *   [Moonlight (⭐1.4k)](https://github.com/irtimmer/moonlight-embedded) - Nvidia GameStream implementation to stream your full collection of Steam games from desktop to the Raspberry Pi.
-*   [Raspbereum (⭐10)](https://github.com/jim380/Raspbereum) - Run your own Ethereum node on a Raspberry Pi.
+*   [Raspbereum (⭐11)](https://github.com/jim380/Raspbereum) - Run your own Ethereum node on a Raspberry Pi.
 *   [Raspberry Pi Media Server Guides](http://www.htpcguides.com/category/raspberry-pi/) - Media Server and NAS tutorials from HTPC Guides.
 *   [Turn the Raspberry Pi Zero into a mini dongle computer](https://n-o-d-e.net/pi_zero_dongle.html) - Setup a pi0 to be able to ssh & vnc over USB. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-0.png)
 *   [Use a Raspberry Pi with multiple WiFi networks](https://www.mikestreety.co.uk/blog/use-a-raspberry-pi-with-multiple-wifi-networks) - Tutorial on using a Raspberry Pi with multiple networks.
 
 ### Swift programming / iOS
 
-*   [BuildSwiftOnARM (⭐488)](https://github.com/uraimo/buildSwiftOnARM) - All you need to build Swift on a RaspberryPi or other ARM boards, updated to Swift 4.1.3.
-*   [Swish (⭐270)](https://github.com/thomaspaulmann/Swish) - Build Swift Projects on a remote machine within Xcode.
+*   [BuildSwiftOnARM (⭐489)](https://github.com/uraimo/buildSwiftOnARM) - All you need to build Swift on a RaspberryPi or other ARM boards, updated to Swift 4.1.3.
+*   [Swish (⭐271)](https://github.com/thomaspaulmann/Swish) - Build Swift Projects on a remote machine within Xcode.
 
 ### Community / iOS
 
-*   [`raspberry-pi` on Spectrum](https://spectrum.chat/raspberry-pi)
 *   [Official Blog](https://www.raspberrypi.org/blog/)
 *   [Official Forum](https://www.raspberrypi.org/forums/)
 *   [Raspberry Pi Jam — Official conferences](https://www.raspberrypi.org/jam/)
@@ -187,8 +182,8 @@
 
 ### Packages / Functional programming
 
-*   [lodash (⭐56k)](https://github.com/lodash/lodash) - Utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
-*   [RxJS (⭐29k)](https://github.com/reactivex/rxjs) - Functional reactive library for transforming, composing, and querying various kinds of data.
+*   [lodash (⭐58k)](https://github.com/lodash/lodash) - Utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
+*   [RxJS (⭐30k)](https://github.com/reactivex/rxjs) - Functional reactive library for transforming, composing, and querying various kinds of data.
 
 ### Packages / Build tools
 
@@ -198,9 +193,9 @@
 
 *   [Hapi (⭐14k)](https://github.com/hapijs/hapi) - Framework for building applications and services.
 *   [Koa (⭐34k)](https://github.com/koajs/koa) - Framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.
-*   [Express (⭐61k)](https://github.com/expressjs/express) - Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
+*   [Express (⭐62k)](https://github.com/expressjs/express) - Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
 *   [Feathers (⭐15k)](https://github.com/feathersjs/feathers) - Microservice framework built in the spirit of Express.
-*   [Meteor (⭐43k)](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework. *(You might like [awesome-meteor (⭐1.4k)](https://github.com/Urigo/awesome-meteor))*
+*   [Meteor (⭐44k)](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework. *(You might like [awesome-meteor (⭐1.4k)](https://github.com/Urigo/awesome-meteor))*
 *   [Restify (⭐11k)](https://github.com/restify/node-restify) - Enables you to build correct REST web services.
 
 ### Packages / Documentation
@@ -209,16 +204,16 @@
 
 ### Packages / Testing
 
-*   [AVA (⭐20k)](https://github.com/avajs/ava) - Futuristic test runner.
+*   [AVA (⭐21k)](https://github.com/avajs/ava) - Futuristic test runner.
 *   [Mocha (⭐22k)](https://github.com/mochajs/mocha) - Feature-rich test framework making asynchronous testing simple and fun.
 
 ### Packages / Security
 
-*   [rate-limiter-flexible (⭐2.5k)](https://github.com/animir/node-rate-limiter-flexible) - Brute-force and DDoS attack protection.
+*   [rate-limiter-flexible (⭐2.7k)](https://github.com/animir/node-rate-limiter-flexible) - Brute-force and DDoS attack protection.
 
 ### Packages / Miscellaneous
 
-*   [node-video-lib (⭐323)](https://github.com/gkozlenko/node-video-lib) - Pure JavaScript library for working with MP4 and FLV video files and creating MPEG-TS chunks for HLS streaming.
+*   [node-video-lib (⭐343)](https://github.com/gkozlenko/node-video-lib) - Pure JavaScript library for working with MP4 and FLV video files and creating MPEG-TS chunks for HLS streaming.
 
 ### Resources / Tutorials
 
@@ -230,11 +225,11 @@
 
 ### Resources / Cheatsheets
 
-*   [Strong Node.js (⭐486)](https://github.com/jesusprubio/strong-node) - Checklist for source code security analysis of a Node.js web service.
+*   [Strong Node.js (⭐489)](https://github.com/jesusprubio/strong-node) - Checklist for source code security analysis of a Node.js web service.
 
 ## [4. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Integrated Development Editors / MIT
+### Integrated Development Editors / Apache License
 
 *   [ada-visual](https://marketplace.visualstudio.com/items?itemName=AlexGamper.VisualAda) - Ada language integration for Visual Studio 2017.
 
@@ -255,7 +250,7 @@
 
 ### Applications
 
-*   [Herd (⭐104)](https://github.com/imjacobclark/Herd) — an experimental HTTP load testing application
+*   [Herd (⭐105)](https://github.com/imjacobclark/Herd) — an experimental HTTP load testing application
 
 ### Applications / Productivity
 
@@ -288,9 +283,9 @@
 ### Packages / Driver layer
 
 *   [Autoware.IO](https://www.autoware.io/) - Autoware.IO provides a heterogeneous hardware reference platform and enables the integration of member company's solutions onto platforms which support the Autoware.Auto and Autoware.AI software stack.
-*   [zed-ros2-wrapper (⭐76)](https://github.com/stereolabs/zed-ros2-wrapper) - ROS 2 wrapper beta for the ZED SDK.
-*   [ros2\_denso\_radar (⭐7)](https://github.com/klintan/ros2_denso_radar) - Toyota/Lexus 2015-2017 Denso Radar driver for ROS2.
-*   [sick\_scan2 (⭐51)](https://github.com/SICKAG/sick_scan2) - ROS2 driver for the SICK TiM series of laser scanners (TiM551/TiM561/TiM571).
+*   [zed-ros2-wrapper (⭐92)](https://github.com/stereolabs/zed-ros2-wrapper) - ROS 2 wrapper beta for the ZED SDK.
+*   [ros2\_denso\_radar (⭐8)](https://github.com/klintan/ros2_denso_radar) - Toyota/Lexus 2015-2017 Denso Radar driver for ROS2.
+*   [sick\_scan2 (⭐52)](https://github.com/SICKAG/sick_scan2) - ROS2 driver for the SICK TiM series of laser scanners (TiM551/TiM561/TiM571).
 
 ### Courses / Build system (ROS2)
 
@@ -329,19 +324,19 @@
 
 ### C / Syntax highlighting packages
 
-*   [Evoland.gb (⭐34)](https://github.com/flozz/evoland.gb) - A port of the first level of Evoland.
+*   [Evoland.gb (⭐35)](https://github.com/flozz/evoland.gb) - A port of the first level of Evoland.
 
 ## [16. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Misc
 
-*   [crystal-web-framework-stars (⭐59)](https://github.com/isaced/crystal-web-framework-stars) - Web frameworks for Crystal, most starred on Github
+*   [crystal-web-framework-stars (⭐67)](https://github.com/isaced/crystal-web-framework-stars) - Web frameworks for Crystal, most starred on Github
 
 ## [17. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Online Resources / Other Lists Online
 
-*   [Awesome Shodan Queries (⭐3.8k)](https://github.com/jakejarvis/awesome-shodan-queries) - Awesome list of useful, funny, and depressing search queries for Shodan.
+*   [Awesome Shodan Queries (⭐4.5k)](https://github.com/jakejarvis/awesome-shodan-queries) - Awesome list of useful, funny, and depressing search queries for Shodan.
 
 ## [18. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -380,7 +375,13 @@
 
 *   [SQL Interview Questions CHEAT SHEET](https://www.interviewbit.com/sql-interview-questions/)
 
-## [22. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
+## [22. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Ada
+
+*   [Ada for the C++ or Java Developer](https://www.adacore.com/uploads/books/pdf/Ada_for_the_C_or_Java_Developer-cc.pdf) - Quentin Ochem (PDF)
+
+## [23. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
 ### Tools
 
@@ -390,19 +391,19 @@
 
 *   [Salt Sudo](https://medium.com/@mike.reider/using-saltstack-for-emergency-sudoers-access-tempsudo-d5417e528e4d) - Using Salt custom modules to manage sudo access for users.
 
-## [23. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [24. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Monitoring
 
 *   [pagertree.com](https://pagertree.com/) - Simple interface for alerting and on-call management. Free up to 5 users.
 
-## [24. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [25. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Books
 
 *   [Math for Programmers](https://www.manning.com/books/math-for-programmers) - Book teaches you to solve mathematical problems in code.
 
-## [25. Awesome Adafruitio](/content/adafruit/awesome-adafruitio/week/README.md)
+## [26. Awesome Adafruitio](/content/adafruit/awesome-adafruitio/week/README.md)
 
 ### Guides
 
@@ -442,13 +443,13 @@
 
 *   [ASK AN ENGINEER, Wednesday 8pm ET on YouTube LIVE](https://www.youtube.com/adafruit/live) - The longest running YouTube live show about electronics, information often on during an "Adafruit IO Update" segment. New compatible hardware during "New New New" segment.
 
-## [26. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [27. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
 *   [react-native-picker-modal-view (⭐193)](https://github.com/pankod/react-native-picker-modal-view) - React Native Module to select item picker modal.
 
-## [27. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [28. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### User Interface
 
@@ -464,43 +465,43 @@
     *   [makorel (⭐8)](https://github.com/sagotch/makorel) – Release OPAM packages easily.
     *   [esy (⭐804)](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml.
 
-## [28. Bots](/content/hackerkid/bots/week/README.md)
+## [29. Bots](/content/hackerkid/bots/week/README.md)
 
 ### Telegram
 
 *   [Java (⭐1.4k)](https://github.com/pengrad/java-telegram-bot-api)
 
-## [29. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [30. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Caching
 
-*   [EasyCaching (⭐1.5k)](https://github.com/dotnetcore/EasyCaching) - Open source caching library that contains basic usages and some advanced usages of caching which can help us to handle caching more easier.
+*   [EasyCaching (⭐1.7k)](https://github.com/dotnetcore/EasyCaching) - Open source caching library that contains basic usages and some advanced usages of caching which can help us to handle caching more easier.
 
 ### Frameworks, Libraries and Tools / Database Tools and Utilities
 
-*   [monitor-table-change-with-sqltabledependency (⭐560)](https://github.com/christiandelbianco/monitor-table-change-with-sqltabledependency) - Get SQL Server notification on record table change.
+*   [monitor-table-change-with-sqltabledependency (⭐622)](https://github.com/christiandelbianco/monitor-table-change-with-sqltabledependency) - Get SQL Server notification on record table change.
 
 ### Frameworks, Libraries and Tools / Machine Learning and Data Science
 
-*   [SiaNet (⭐365)](https://github.com/SciSharp/SiaNet) - A C# deep learning library, human friendly, CUDA/OpenCL supported, well structured, easy to extend
+*   [SiaNet (⭐379)](https://github.com/SciSharp/SiaNet) - A C# deep learning library, human friendly, CUDA/OpenCL supported, well structured, easy to extend
 
 ### Roadmaps / Workflow
 
-*   [ASP.NET Core Developer Roadmap (⭐13k)](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2019.
+*   [ASP.NET Core Developer Roadmap (⭐17k)](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2019.
 
-## [30. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [31. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Flutter / Custom Dialog
 
 *   [Booster (⭐4.2k)](https://github.com/didi/booster) - Booster is an optimization toolkit for Android applications.
 
-## [31. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [32. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Graphics, Image and Design / Others
 
 *   [LeanLogoMaker](https://leanlogomaker.com) - Generate 100s of logos, pick your favourite and download. Includes covers and profile images for your social media sites.
 
-## [32. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [33. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -508,9 +509,9 @@
 
 ### Example Projects
 
-*   [Example for passing custom URL parameters to a Keycloak theme for dynamic branding (⭐28)](https://github.com/dteleguin/keycloak-dynamic-branding)
+*   [Example for passing custom URL parameters to a Keycloak theme for dynamic branding (⭐29)](https://github.com/dteleguin/keycloak-dynamic-branding)
 
-## [33. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [34. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Resources / Articles
 
@@ -524,42 +525,42 @@
 
 ### For editors / Lists
 
-*   [How Do I Wagtail?](https://foundation.mozilla.org/en/docs/how-do-i-wagtail/) - Mozilla's editor facing guide for how to use Wagtail's admin interface. Source for this hosted on [Mozilla's Github (⭐317)](https://github.com/mozilla/foundation.mozilla.org/tree/master/network-api/networkapi/wagtailpages)
+*   [How Do I Wagtail?](https://foundation.mozilla.org/en/docs/how-do-i-wagtail/) - Mozilla's editor facing guide for how to use Wagtail's admin interface. Source for this hosted on [Mozilla's Github (⭐334)](https://github.com/mozilla/foundation.mozilla.org/tree/master/network-api/networkapi/wagtailpages)
 
-## [34. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [35. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
 *   [@emilyemorehouse](https://github.com/emilyemorehouse), [Python](https://github.com/python)
     *   "My Path to Becoming a Python Core Developer" ([video](https://www.youtube.com/watch?v=rOzUMQW4p0Y))
 
-## [35. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [36. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Privacy / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Librefox (⭐1.6k)](https://github.com/intika/Librefox) - A project that aims at enforcing privacy and security of Firefox without forking the project.
 
-## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Concurrency
 
-*   [FiberTaskingLib (⭐814)](https://github.com/RichieSams/FiberTaskingLib) - Task-based multi-threading library that supports task graphs with arbitrary dependencies. \[Apache]
-*   [Intel Games Task Scheduler (⭐432)](https://github.com/GameTechDev/GTS-GamesTaskScheduler) - A task scheduling framework designed for the needs of game developers. \[MIT]
+*   [FiberTaskingLib (⭐821)](https://github.com/RichieSams/FiberTaskingLib) - Task-based multi-threading library that supports task graphs with arbitrary dependencies. \[Apache]
+*   [Intel Games Task Scheduler (⭐435)](https://github.com/GameTechDev/GTS-GamesTaskScheduler) - A task scheduling framework designed for the needs of game developers. \[MIT]
 
 ### Debug
 
-*   [Nonius (⭐352)](https://github.com/libnonius/nonius) - A C++ micro-benchmarking framework. \[CC]
+*   [Nonius (⭐353)](https://github.com/libnonius/nonius) - A C++ micro-benchmarking framework. \[CC]
 
 ### Regular Expression
 
-*   [Hyperscan (⭐4.2k)](https://github.com/intel/hyperscan) - Hyperscan is a high-performance multiple regex matching library by Intel. Provides simultaneous matching of large numbers of regexps (up to tens of thousands). Typically used in a DPI library stack. \[BSD]
-*   [PIRE (⭐321)](https://github.com/yandex/pire) - Perl Incompatible Regular Expressions library by Yandex. Can be really fast (more than 400 MB/s). \[LPGL v3.0]
+*   [Hyperscan (⭐4.5k)](https://github.com/intel/hyperscan) - Hyperscan is a high-performance multiple regex matching library by Intel. Provides simultaneous matching of large numbers of regexps (up to tens of thousands). Typically used in a DPI library stack. \[BSD]
+*   [PIRE (⭐324)](https://github.com/yandex/pire) - Perl Incompatible Regular Expressions library by Yandex. Can be really fast (more than 400 MB/s). \[LPGL v3.0]
 
-## [37. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [38. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Projects / Non-dedicated
 
 *   [Sematext Agent (⭐11)](https://github.com/sematext/sematext-agent-integrations) - [Open source monitoring agent](https://sematext.com/blog/now-open-source-sematext-monitoring-agent/) to collect metrics from Solr, Elasticsearch, Cassandra, JVM, JMX, ClickHouse, MySQL, Hadoop, and more via pluggable integrations. Output via Influx Line Protocol to InfluxDB or [Sematext Cloud](https://sematext.com/cloud/)
 
-## [38. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [39. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Free eBooks
 
@@ -570,9 +571,9 @@
 *   [EventSourcing](https://dddeurope.com/2020/#eventsourcing) - A new event for the CQRS/EventSourcing community
 *   [DDD Foundations](https://dddeurope.com/2020/#foundations) - A curated conference for DDD newcomers
 
-## [39. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
+## [40. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [The Quintessential Guide For Building An Unforgettable First-time User Experience](https://hackernoon.com/the-quintessential-guide-for-building-an-unforgettable-first-time-user-experience-19720a7447d2) - By [Wayne Chang](https://chang.com/).
 *   [One door at a time](https://m.signalvnoise.com/one-door-at-a-time/) - By [Jason Fried](https://world.hey.com/jason).
@@ -592,7 +593,7 @@
 *   [Speed as a habit](http://firstround.com/review/speed-as-a-habit/) - By [Dave Girouard](https://www.linkedin.com/in/davegirouard).
 *   [A Comprehensive Guide To Product Design](https://www.smashingmagazine.com/2018/01/comprehensive-guide-product-design/) - By [Nick Babich](https://www.smashingmagazine.com/author/nickbabich).
 
-### Books / Screeb
+### Books / Obsidian
 
 *   [Switch: How to Change Things When Change Is Hard](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752) - By Chip Heath and Dan Heath.
 *   [Made to Stick: Why Some Ideas Survive and Others Die](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287) - By Chip Heath and Dan Heath.
@@ -609,20 +610,20 @@
 *   [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221) - By John Doerr.
 *   [The Design of Everyday Things: Revised and Expanded Edition](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654) - By Don Norman.
 
-### Communities / Screeb
+### Communities / Obsidian
 
 *   [Women in Product](https://www.womenpm.org/) (*using [Facebook](https://facebook.com)*)
 *   [Product School](https://www.productschool.com/) (*using [Slack](https://slack.com/)*)
 *   [The Product Coalition](https://productcoalition.com/) (*using [Slack](https://slack.com/)*)
 *   [Product Collective](https://productcollective.com/) (*using [Slack](https://slack.com/)*)
 
-## [40. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [41. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Media & Document Management
 
 *   [Laravolt Avatar (⭐1.6k)](https://github.com/laravolt/avatar) - Plug n play avatar, turn name, email, and any other string into beautiful avatar (or gravatar), effortless.
 
-## [41. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
+## [42. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
 
 ### Vue SPA with Laravel   [↗](https://awesomestacks.dev/vue-spa-with-laravel) / Resources
 
@@ -633,7 +634,7 @@
 *   [Building a Vue SPA with Laravel](https://laravel-news.com/using-vue-router-laravel)
 *   [Laravel Tutorial: Step by Step Guide to Building Your First Laravel Application](https://laravel-news.com/your-first-laravel-application)
 
-## [42. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [43. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Database
 
@@ -641,16 +642,16 @@
 
 ### Other Awesome Lists
 
-*   [awesome-ios (⭐42k)](https://github.com/vsouza/awesome-ios)
-*   [awesome-swift (⭐23k)](https://github.com/matteocrippa/awesome-swift)
+*   [awesome-ios (⭐44k)](https://github.com/vsouza/awesome-ios)
+*   [awesome-swift (⭐24k)](https://github.com/matteocrippa/awesome-swift)
 
-## [43. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [44. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2019
 
 *   [Rich Harris: **Rethinking reactivity**](https://www.youtube.com/watch?v=AdNJ3fydeao) \[36:44]
 
-## [44. Guides](/content/NARKOZ/guides/week/README.md)
+## [45. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Programming Languages / C
 
@@ -676,47 +677,47 @@
 
 *   [Commit messages guide (⭐6.5k)](https://github.com/RomuloOliveira/commit-messages-guide#readme)
 
-## [45. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [46. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Demo
 
-*   [Vue.js Demo App](https://github.com/ishanvyas22/cakephpvue-spa) - A CakePHP + VueJS single page application skeleton.
+*   [Vue.js Demo App (⭐50)](https://github.com/ishanvyas22/cakephpvue-spa) - A CakePHP + VueJS single page application skeleton.
 
-## [46. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [47. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### Scripting Tools
 
-*   [picocli (⭐3.9k)](https://github.com/remkop/picocli) - Parser library and framework for CLI. Usage help with ANSI colors. Autocomplete. Nested subcommands and more.
+*   [picocli (⭐4.3k)](https://github.com/remkop/picocli) - Parser library and framework for CLI. Usage help with ANSI colors. Autocomplete. Nested subcommands and more.
 
 ### Staying up to date
 
 *   [Grails Diary](https://grydeske.dk/news/index) - Particulary useful for Grails developers
 
-## [47. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [48. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### UITableView / Barcode
 
-*   [WLEmptyState (⭐317)](https://github.com/wizeline/WLEmptyState) - A component that lets you customize the view when the dataset of UITableView is empty.
+*   [WLEmptyState (⭐316)](https://github.com/wizeline/WLEmptyState) - A component that lets you customize the view when the dataset of UITableView is empty.
 
-## [48. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [49. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [MiraiML (⭐25)](https://github.com/arthurpaulino/miraiml): An asynchronous engine for continuous & autonomous machine learning, built for real-time usage.
+*   [MiraiML (⭐26)](https://github.com/arthurpaulino/miraiml): An asynchronous engine for continuous & autonomous machine learning, built for real-time usage.
 
-## [49. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [50. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks
 
-*   [test-crawler (⭐22)](https://github.com/apiel/test-crawler) - Visual regression testing, by crawling a website and providing snapshot comparison reports.
+*   [test-crawler (⭐27)](https://github.com/apiel/test-crawler) - Visual regression testing, by crawling a website and providing snapshot comparison reports.
 
-## [50. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [51. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Aggregators & Dashboards
 
 *   [Memento Labs](https://mementolabs.io) - Personalized health and wellness action plans using wearables & A/B testing.
 
-## [51. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
+## [52. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
 ### Design Patterns
 
@@ -733,13 +734,13 @@
 *   [Keep CALMS and carry on](https://dwpdigital.blog.gov.uk/2019/03/25/keep-calms-and-carry-on-how-we-do-devops/) - How BPDTS use the CALMS model as a reference for their devops adaptations.
 *   [Chaos Engineering at Netfix](https://www.youtube.com/watch?v=6ilMZqKdMMU) - Chaos Engineering is a new discipline within Software Engineering, building confidence in the behavior of distributed systems at scale 🎥.
 
-## [52. Awesome Fortran](/content/rabbiabram/awesome-fortran/week/README.md)
+## [53. Awesome Fortran](/content/rabbiabram/awesome-fortran/week/README.md)
 
 ### Functional Libraries
 
 *   [Functional Fortran (⭐364)](https://github.com/wavebitscientific/functional-fortran) - Functional programming for modern Fortran.
 
-## [53. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [54. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / CloudFormation
 

@@ -30,7 +30,7 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [Deepchecks (⭐2.6k)](https://github.com/deepchecks/deepchecks)
+*   [Deepchecks (⭐3.1k)](https://github.com/deepchecks/deepchecks)
 
 ## [5. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
 
@@ -104,7 +104,7 @@
 
 ### operations
 
-*   [de9im (⭐22)](https://github.com/dpmcmlxxvi/de9im): collection of fast functions for spatial javascript operations
+*   [de9im (⭐23)](https://github.com/dpmcmlxxvi/de9im): collection of fast functions for spatial javascript operations
 
 ## [9. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
 
@@ -114,44 +114,44 @@
 
 ## [10. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
-*   [hcldump (⭐4)](https://github.com/magodo/hcldump) - Dump the HCL (v2) abstract syntax tree.
-*   [hclgrep (⭐84)](https://github.com/magodo/hclgrep) - Syntax based grep for HCL(v2).
+*   [hcldump (⭐6)](https://github.com/magodo/hcldump) - Dump the HCL (v2) abstract syntax tree.
+*   [hclgrep (⭐86)](https://github.com/magodo/hclgrep) - Syntax based grep for HCL(v2).
 
 ## [11. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### CLI
 
-*   [SQLLine (⭐554)](https://github.com/julianhyde/sqlline) - Command-line shell for issuing SQL to relational databases via JDBC.
+*   [SQLLine (⭐583)](https://github.com/julianhyde/sqlline) - Command-line shell for issuing SQL to relational databases via JDBC.
 
 ### Backup / Samples
 
-*   [BaRMan (⭐1.5k)](https://github.com/2ndquadrant-it/barman) - Backup and Recovery Manager for PostgreSQL.
-*   [pgbackrest (⭐1.6k)](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore.
+*   [BaRMan (⭐1.7k)](https://github.com/2ndquadrant-it/barman) - Backup and Recovery Manager for PostgreSQL.
+*   [pgbackrest (⭐1.9k)](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore.
 
 ### SQL / Language Server Protocol
 
-*   [SQLLanguageServer (⭐450)](https://github.com/joe-re/sql-language-server) - SQL Language Server.
-*   [sqls (⭐697)](https://github.com/lighttiger2505/sqls) - SQL Language Server written in Go.
+*   [SQLLanguageServer (⭐571)](https://github.com/joe-re/sql-language-server) - SQL Language Server.
+*   [sqls (⭐713)](https://github.com/lighttiger2505/sqls) - SQL Language Server written in Go.
 
 ## [12. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Other plugins
 
-*   [Data Storage SQlite (⭐68)](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Providing a key-value permanent store for simple data of type string only to SQLite on IOS, Android and Electron platforms and to IndexedDB for the Web platform.
+*   [Data Storage SQlite (⭐69)](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Providing a key-value permanent store for simple data of type string only to SQLite on IOS, Android and Electron platforms and to IndexedDB for the Web platform.
 
 ## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Vaex (⭐7.9k)](https://github.com/vaexio/vaex) - A high performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets. Documentation can be found [here](https://vaex.io/docs/index.html).
+*   [Vaex (⭐8k)](https://github.com/vaexio/vaex) - A high performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets. Documentation can be found [here](https://vaex.io/docs/index.html).
 
 ## [14. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
 
 ### Command-Line Productivity
 
-*   [bashhub-server (⭐256)](https://github.com/nicksherron/bashhub-server) - Privately hosted open source bashhub server.
+*   [bashhub-server (⭐287)](https://github.com/nicksherron/bashhub-server) - Privately hosted open source bashhub server.
 
 ## [15. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -179,7 +179,7 @@
 
 ### Showcases
 
-*   [Demo.Playwright (⭐170)](https://github.com/MarcusFelling/Demo.Playwright) - Various testing scenarios with Playwright, using the official test-runner and scripts authored in TypeScript.
+*   [Demo.Playwright (⭐173)](https://github.com/MarcusFelling/Demo.Playwright) - Various testing scenarios with Playwright, using the official test-runner and scripts authored in TypeScript.
 
 ## [18. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
@@ -191,13 +191,13 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vest (⭐2.1k)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
+*   [vest (⭐2.2k)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
 
 ## [20. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Development Utilities
 
-*   [bitExpert/phpstan-magento (⭐95)](https://github.com/bitExpert/phpstan-magento) - Magento specific extension for PHPStan
+*   [bitExpert/phpstan-magento (⭐121)](https://github.com/bitExpert/phpstan-magento) - Magento specific extension for PHPStan
 
 ### Company Blogs / Progressive Web Application
 
@@ -231,13 +231,13 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [consoleau/kassava (⭐109)](https://github.com/consoleau/kassava) - This library provides some useful kotlin extension functions for implementing toString() and equals() without all of the boilerplate.
+*   [consoleau/kassava (⭐110)](https://github.com/consoleau/kassava) - This library provides some useful kotlin extension functions for implementing toString() and equals() without all of the boilerplate.
 
 ## [24. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Overlays / Webinterface
 
-*   [nixpkgs-firefox-darwin (⭐13)](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - Automatically updated Firefox binary packages for macOS.
+*   [nixpkgs-firefox-darwin (⭐18)](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - Automatically updated Firefox binary packages for macOS.
 
 ## [25. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
 
@@ -251,7 +251,7 @@
 *   [OpenBCI](https://openbci.com/) - Brain computer interface.
 *   [OpenSPIM](https://openspim.org/) - Open Access platform for Three-dimensional (3D) microscopy.
 *   [mesoSPIM](http://mesospim.org/) - Open-source light-sheet microscopes for imaging in cleared tissue.
-*   [openUC2 (⭐342)](https://github.com/openUC2/UC2-GIT) - Open-source modular microscopy toolbox.
+*   [openUC2 (⭐374)](https://github.com/openUC2/UC2-GIT) - Open-source modular microscopy toolbox.
 *   [OpenFlexure](https://openflexure.org/) - Open-source, 3D-printed microscope, including a precise mechanical stage.
 
 ### Talks
@@ -293,13 +293,13 @@
 
 *   [Building open source hardware](https://books.google.nl/books?id=wg27BQAAQBAJ\&lpg=PP1\&dq=open%20source%20hardware\&pg=PP1##v=onepage\&q=open%20source%20hardware\&f=false) - Book by Alicia Gibb, on building open source hardware from 2014.
 *   [Open-source Lab](https://books.google.nl/books?id=0bOKAAAAQBAJ\&lpg=PP1\&dq=open%20source%20hardware\&pg=PP1##v=onepage\&q=open%20source%20hardware\&f=false) - Book by Josua m. Pearce, how to build your own hardware and reduce costs.
-*   [Free to Make](https://books.google.nl/books?id=jz1bCwAAQBAJ\&lpg=PA93\&dq=open%20source%20hardware\&pg=PP1##v=onepage\&q=open%20source%20hardware\&f=false) -  Book by Dale Dougherty, how the maker movement is chaning our schools, our jobs, and our minds.
+*   [Free to Make](https://books.google.nl/books?id=jz1bCwAAQBAJ\&lpg=PA93\&dq=open%20source%20hardware\&pg=PP1##v=onepage\&q=open%20source%20hardware\&f=false) -  Book by Dale Dougherty, how the maker movement is changing our schools, our jobs, and our minds.
 *   [The bridge](https://www.nae.edu/174695/Fall-Bridge-on-Open-Source-Hardware) - Issue of the national academy of engineering on open source hardware.
 
 ### Related awesome
 
-*   [Awesome Open Electronics (⭐399)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
-*   [Awesome Open (⭐62)](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.
+*   [Awesome Open Electronics (⭐452)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
+*   [Awesome Open (⭐69)](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.
 
 ## [26. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -327,7 +327,7 @@
 
 ### Database Drivers
 
-*   [Stowage (⭐129)](https://github.com/aloneguid/stowage) - Bloat-free zero dependency .NET cloud storage kit that supports at minimum THE major cloud providers.
+*   [Stowage (⭐142)](https://github.com/aloneguid/stowage) - Bloat-free zero dependency .NET cloud storage kit that supports at minimum THE major cloud providers.
 
 ## [29. Inspire](/content/noahbuscher/inspire/week/README.md)
 
@@ -433,7 +433,7 @@
 
 ### Contents / Tools
 
-*   [Blink Comparison (⭐201)](https://github.com/proninyaroslav/blink-comparison) - Simplifies comparing photos of tamper-evident seals and patterns using your eyes by [Yaroslav Pronin](https://github.com/proninyaroslav)
+*   [Blink Comparison (⭐213)](https://github.com/proninyaroslav/blink-comparison) - Simplifies comparing photos of tamper-evident seals and patterns using your eyes by [Yaroslav Pronin](https://github.com/proninyaroslav)
 
 ## [35. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
@@ -449,10 +449,10 @@
 
 ### Chemistry
 
-*   [MADNESS (⭐150)](https://github.com/m-a-d-n-e-s-s/madness) - Multiresolution Adaptive Numerical Environment for Scientific Simulation. \[GPL] [website (⭐150)](https://github.com/m-a-d-n-e-s-s/madness)
-*   [MPQC (⭐57)](https://github.com/ValeevGroup/mpqc) - The Massively Parallel Quantum Chemistry program, MPQC, computes properties of atoms and molecules from first principles using the time independent Schrödinger equation. \[GPL] [website](https://mpqc.org/)
+*   [MADNESS (⭐156)](https://github.com/m-a-d-n-e-s-s/madness) - Multiresolution Adaptive Numerical Environment for Scientific Simulation. \[GPL] [website (⭐156)](https://github.com/m-a-d-n-e-s-s/madness)
+*   [MPQC (⭐59)](https://github.com/ValeevGroup/mpqc) - The Massively Parallel Quantum Chemistry program, MPQC, computes properties of atoms and molecules from first principles using the time independent Schrödinger equation. \[GPL] [website](https://mpqc.org/)
 *   [ORCA](https://en.wikipedia.org/wiki/ORCA_\(quantum_chemistry_program\)) - An ab initio quantum chemistry program package that contains modern electronic structure methods. \[Academic] [website](https://orcaforum.kofo.mpg.de/)
-*   [Psi (⭐805)](https://github.com/psi4/psi4) - An ab initio computational chemistry package. \[GPL] [website](https://psicode.org/)
+*   [Psi (⭐852)](https://github.com/psi4/psi4) - An ab initio computational chemistry package. \[GPL] [website](https://psicode.org/)
 
 ### Debug
 
@@ -462,11 +462,11 @@
 
 ### Simulators / Analog and Mixed Signal Circuit Simulators
 
-*   [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project (⭐27)](https://github.com/geckocircuits/GeckoCIRCUITS). Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
+*   [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project (⭐37)](https://github.com/geckocircuits/GeckoCIRCUITS). Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
 
 ## [38. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
-### Other / Machine translation
+### Tools / Automatic translation for end users
 
 *   [Watson Language Translator](https://www.ibm.com/cloud/watson-language-translator) - A service on the IBM Cloud that enables dynamically translation news, patents, or conversational documents.
 
@@ -491,7 +491,7 @@
 
 ### Specific topics / Public key cryptography: General and DLP
 
-*   [How to Share a Secret (⭐5)](https://github.com/arupmondal-cs/Crypto-Research/blob/master/Secret%20Sharing/shamirturing.pdf) - A safe method for sharing secrets.
+*   [How to Share a Secret (⭐6)](https://github.com/arupmondal-cs/Crypto-Research/blob/master/Secret%20Sharing/shamirturing.pdf) - A safe method for sharing secrets.
 
 ### Books / Post-quantum cryptography
 
@@ -502,12 +502,12 @@
 ### Algorithms / Semantic segmentation
 
 *   [SuperPoint Graph :newspaper:](https://arxiv.org/pdf/1711.09869.pdf)- Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs
-    *   [GitHub repository :octocat: (⭐420)](https://github.com/PRBonn/LiDAR-MOS)
+    *   [GitHub repository :octocat: (⭐480)](https://github.com/PRBonn/LiDAR-MOS)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=Ijr3kGSU_tU)
 
 ### Related awesome / Object detection and object tracking
 
-*   [Awesome electronics :octocat: (⭐4.6k)](https://github.com/kitspace/awesome-electronics#readme)
+*   [Awesome electronics :octocat: (⭐4.9k)](https://github.com/kitspace/awesome-electronics#readme)
 
 ## [43. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
@@ -515,25 +515,25 @@
 
 *   Authy
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Aegis](https://getaegis.app/) - A free, secure and open source app for Android to manage your 2-step verification tokens. Supports variety of imports from other apps (Google Authenticator, Authy etc.), vault encryption and exporting keys (plaintext or encrypted).
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [FreeOTPPlus (⭐506)](https://github.com/helloworld1/FreeOTPPlus) - Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator.
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Authenticator Pro (⭐1.4k)](https://github.com/jamie-mh/AuthenticatorPro) - Two-Factor Authentication (2FA) client for Android + Wear OS.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [FreeOTPPlus (⭐540)](https://github.com/helloworld1/FreeOTPPlus) - Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Authenticator Pro (⭐1.8k)](https://github.com/jamie-mh/AuthenticatorPro) - Two-Factor Authentication (2FA) client for Android + Wear OS.
 
 ### Analytics
 
-*   [Matomo](https://matomo.org/) - Google Analytics alternative that protects your data and your customers' privacy.
-*   [Plausible](https://plausible.io/) - Simple and privacy-friendly alternative to Google Analytics.
-*   [Umami](https://umami.is/) - A simple, fast, website analytics alternative to Google Analytics.
-*   [Nullitics](https://nullitics.com/) - Zero-effort open-source cheap analytics.
 *   [Ackee](https://ackee.electerious.com/) - Self-hosted website analytics.
-*   [Shynet (⭐2.4k)](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
+*   [Matomo](https://matomo.org/) - Google Analytics alternative that protects your data and your customers' privacy.
+*   [Nullitics](https://nullitics.com/) - Zero-effort open-source cheap analytics.
 *   [Pirsch](https://pirsch.io/) - Pirsch is a simple, privacy-friendly, open-source alternative to Google Analytics — lightweight, cookie-free and easily integrated into any website or backend.
+*   [Plausible](https://plausible.io/) - Simple and privacy-friendly alternative to Google Analytics.
+*   [Shynet (⭐2.6k)](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
+*   [Umami](https://umami.is/) - A simple, fast, website analytics alternative to Google Analytics.
 
 ### Android App Store
 
 *   [F-Droid](https://f-droid.org/) - F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform.
-    *   [Droid-ify (⭐1.3k)](https://github.com/Iamlooker/Droid-ify) - Lightweight F-Droid client with Material UI.
+    *   [Droid-ify (⭐1.9k)](https://github.com/Iamlooker/Droid-ify) - Lightweight F-Droid client with Material UI.
     *   [Aurora Droid](https://auroraoss.com/download/#aurora-droid) - Aurora Droid is a modern FOSS client for F-Droid.
-    *   [Foxy Droid (⭐409)](https://github.com/kitsunyan/foxy-droid) - Unofficial F-Droid client in the style of the classic one.
+    *   [Foxy Droid (⭐446)](https://github.com/kitsunyan/foxy-droid) - Unofficial F-Droid client in the style of the classic one.
 *   [FossDroid](https://fossdroid.com/) - Fossdroid's aim is to promote free and open source apps on the Android platform: newest, trendiest and the most popular ones.
 *   [SkyDroid](https://skydroid.app/) - Decentralized App Store for Android
 
@@ -543,34 +543,33 @@
 
 ### Android Dialer
 
-*   [Simple Dialer (⭐496)](https://github.com/SimpleMobileTools/Simple-Dialer) - A lightweight app for handling your calls, no matter where are you. Comes with a handy call log for easy call initiation.
-*   [Koler (⭐743)](https://github.com/Chooloo/koler) - Uniquely stylized phone app with customizable features.
+*   [Simple Dialer (⭐577)](https://github.com/SimpleMobileTools/Simple-Dialer) - A lightweight app for handling your calls, no matter where are you. Comes with a handy call log for easy call initiation.
+*   [Koler (⭐834)](https://github.com/Chooloo/koler) - Uniquely stylized phone app with customizable features.
 
 ### Android File Manager
 
-*   [Simple File Manager (⭐1.3k)](https://github.com/SimpleMobileTools/Simple-File-Manager) - A simple file manager for browsing and editing files and directories.
-*   [Amaze File Manager (⭐4.5k)](https://github.com/TeamAmaze/AmazeFileManager) - Simple and attractive Material Design file manager for Android.
-*   [Material Files (⭐3.4k)](https://github.com/zhanghai/MaterialFiles) - An open source Material Design file manager, for Android 5.0+.
+*   [Simple File Manager (⭐1.4k)](https://github.com/SimpleMobileTools/Simple-File-Manager) - A simple file manager for browsing and editing files and directories.
+*   [Amaze File Manager (⭐4.7k)](https://github.com/TeamAmaze/AmazeFileManager) - Simple and attractive Material Design file manager for Android.
+*   [Material Files (⭐3.9k)](https://github.com/zhanghai/MaterialFiles) - An open source Material Design file manager, for Android 5.0+.
 *   [Ghost Commander](https://f-droid.org/packages/com.ghostsq.commander/) - Dual-panel file manager.
 
 ### Android Keyboard
 
-*   [OpenBoard (⭐2.1k)](https://github.com/dslul/openboard) - 100% FOSS keyboard, based on AOSP.
-*   [FlorisBoard (⭐4.2k)](https://github.com/florisboard/florisboard) - FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state.
+*   [FlorisBoard (⭐4.6k)](https://github.com/florisboard/florisboard) - FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state.
 *   [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - The only Android keyboard you'll ever need. Free as in speech and Free as in beer.
 *   [Indic Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Indic Keyboard is a versatile keyboard for Android users who wish to use Indic and Indian languages to type messages, compose emails and generally prefer to use them in addition to English on their phone.
-*   [Simple Keyboard (⭐746)](https://github.com/rkkr/simple-keyboard) - Simply keyboard and nothing more.
+*   [Simple Keyboard (⭐826)](https://github.com/rkkr/simple-keyboard) - Simply keyboard and nothing more.
 
 ### Android Launcher
 
 *   [Lawnchair](https://lawnchair.app/) - No clever tagline needed.
 *   [OpenLauncher (⭐1.3k)](https://github.com/OpenLauncherTeam/openlauncher) - Customizable and Open Source Launcher for Android.
 *   [KISS](https://kisslauncher.com/) - Lightning fast, open-source, < 200kb Android launcher.
-*   [Olauncher (⭐1.1k)](https://github.com/tanujnotes/Olauncher) - Minimal AF (ad-free) launcher app for Android.
+*   [Olauncher (⭐1.3k)](https://github.com/tanujnotes/Olauncher) - Minimal AF (ad-free) launcher app for Android.
 *   [Posidon Launcher](https://posidon.io/launcher) - Posidon launcher is a minimal, one page homescreen with a vertical scrolling feed.
-*   [Pie Launcher (⭐89)](https://github.com/markusfisch/PieLauncher) - Android home screen launcher that uses a dynamic pie menu instead of fixed positioned icons.
-*   [Simple App Launcher (⭐368)](https://github.com/SimpleMobileTools/Simple-App-Launcher) - A simple holder for favourite apps for quick & easy app launcher icon management.
-*   [Rootless Pixel Launcher (⭐3.7k)](https://github.com/amirzaidi/Launcher3) - The Launcher3 fork known as "Rootless Pixel Launcher".
+*   [Pie Launcher (⭐120)](https://github.com/markusfisch/PieLauncher) - Android home screen launcher that uses a dynamic pie menu instead of fixed positioned icons.
+*   [Simple App Launcher (⭐387)](https://github.com/SimpleMobileTools/Simple-App-Launcher) - A simple holder for favourite apps for quick & easy app launcher icon management.
+*   [Rootless Pixel Launcher (⭐3.8k)](https://github.com/amirzaidi/Launcher3) - The Launcher3 fork known as "Rootless Pixel Launcher".
 
 ### Captchas
 
@@ -578,9 +577,9 @@
 
 ### Images
 
-*   [Fawkes (⭐4.9k)](https://github.com/Shawn-Shan/fawkes) - privacy preserving tool against facial recognition systems.
-    *   [CloakMe (⭐50)](https://github.com/pluja/CloakMe) - Web interface for Fawkes algorithm.
-*   [ImageScrubber (⭐871)](https://github.com/everestpipkin/image-scrubber) - A friendly browser-based tool for anonymizing photographs taken at protests ([hosted version provided by everestpipkin](https://everestpipkin.github.io/image-scrubber/)).
+*   [Fawkes (⭐5k)](https://github.com/Shawn-Shan/fawkes) - privacy preserving tool against facial recognition systems.
+    *   [CloakMe (⭐55)](https://github.com/pluja/CloakMe) - Web interface for Fawkes algorithm.
+*   [ImageScrubber (⭐894)](https://github.com/everestpipkin/image-scrubber) - A friendly browser-based tool for anonymizing photographs taken at protests ([hosted version provided by everestpipkin](https://everestpipkin.github.io/image-scrubber/)).
 
 ### Cloud Storage
 
@@ -589,7 +588,7 @@
 ### Databases
 
 *   [Appwrite](https://appwrite.io/) - Secure open-source backend server for web, mobile & Flutter developers.
-*   [CondensationDB (⭐435)](https://github.com/CondensationDB/Condensation) \[Inactive] - Condensation is an open-source zero trust, distributed database enabling to build modern applications while ensuring data ownership and security.
+*   [CondensationDB (⭐442)](https://github.com/CondensationDB/Condensation) \[Inactive] - Condensation is an open-source zero trust, distributed database enabling to build modern applications while ensuring data ownership and security.
 
 ### Developer Tools
 
@@ -600,36 +599,45 @@
 *   [Neovim](https://neovim.io/) - Hyperextensible Vim-based text editor.
 *   [VSCodium](https://vscodium.com/) - Free/Libre Open Source Software Binaries of VSCode. Vscode source code is open source (MIT-licensed), but the product available for download (Visual Studio Code) is licensed under [this not-FLOSS license](https://code.visualstudio.com/license) and contains telemetry/tracking.
 
+### Desktop
+
+*   [GIMP](https://www.gimp.org/) - The Free & Open Source Image Editor.
+*   [Inkscape](https://inkscape.org/) - Inkscape is a free and open-source vector graphics editor used to create vector images.
+*   [Krita (⭐5.8k)](https://github.com/KDE/krita) - Krita is a free and open source digital painting application
+*   [Czkawka (⭐13k)](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates and similar images etc.
+
 ### Domain Registrar
 
-*   [Njalla](https://njal.la) - Privacy-aware domain service, sitting in between the domain service registrations and you, acting like a privacy shield.
 *   [OrangeWebsite](https://www.orangewebsite.com/)
 *   [1984 Hosting](https://www.1984hosting.com/)
 
 ### Download Manager
 
-*   [Persepolis Download Manager (⭐5.7k)](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager & a GUI for Aria2. It's written in Python. Persepolis is a sample of free and open source software. It's developed for GNU/Linux distributions, BSDs, MacOS, and Microsoft Windows.
+*   [Persepolis Download Manager (⭐5.8k)](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager & a GUI for Aria2. It's written in Python. Persepolis is a sample of free and open source software. It's developed for GNU/Linux distributions, BSDs, MacOS, and Microsoft Windows.
 *   [uGet Download Manager](https://ugetdm.com/) - uGet is a lightweight yet powerful Open Source download manager for GNU/Linux developed with GTK+, which also comes packaged as a portable Windows app. It is also available for Android.
-*   [Motrix (⭐38k)](https://github.com/agalwood/Motrix) - A full-featured download manager.
-*   [Xtreme Download Manager (⭐5.2k)](https://github.com/subhra74/xdm) - Xtreme Download Manager (XDM) is a powerful tool to increase download speeds up to 500%, save streaming videos from YouTube, DailyMotion, Facebook, Vimeo, Google Video and 1000+ other websites, resume broken/dead downloads, schedule and convert downloads.
-*   [axel (⭐2.5k)](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator. It supports HTTP, HTTPS, FTP and FTPS protocols.
+*   [Motrix (⭐41k)](https://github.com/agalwood/Motrix) - A full-featured download manager.
+*   [Xtreme Download Manager (⭐5.7k)](https://github.com/subhra74/xdm) - Xtreme Download Manager (XDM) is a powerful tool to increase download speeds up to 500%, save streaming videos from YouTube, DailyMotion, Facebook, Vimeo, Google Video and 1000+ other websites, resume broken/dead downloads, schedule and convert downloads.
+*   [axel (⭐2.6k)](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator. It supports HTTP, HTTPS, FTP and FTPS protocols.
 
 ### File Management and Sharing
 
-*   [Magic Wormhole (⭐16k)](https://github.com/magic-wormhole/magic-wormhole) - Get things from one computer to another, safely.
+*   [Magic Wormhole (⭐17k)](https://github.com/magic-wormhole/magic-wormhole) - Get things from one computer to another, safely.
 
 ### Fitness trackers
 
-*   [wger](https://wger.de/en/software/features) - A free, open source, self-hosted web application that manages your exercises, workouts and nutrition.
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Fitotrack](https://codeberg.org/jannis/FitoTrack) - A privacy oriented fitness tracker for Android.
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [OpenTracks (⭐632)](https://github.com/OpenTracksApp/OpenTracks) - OpenTracks is a sport tracking application that completely respects your privacy.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [OpenTracks (⭐762)](https://github.com/OpenTracksApp/OpenTracks) - OpenTracks is a sport tracking application that completely respects your privacy.
+
+### Workout planners
+
+*   [wger](https://wger.de/en/software/features) - A free, open source, self-hosted web application that manages your exercises, workouts and nutrition.
 
 ### Food
 
 *   [OpenFoodFacts](https://world.openfoodfacts.org/) - Open Food Facts is a food products database made by everyone, for everyone. You can use it to make better food choices.
     *   [OFF Apps](https://world.openfoodfacts.org/open-food-facts-mobile-app)
 
-### Menstrual cycle tracking
+### Menstrual cycle trackers
 
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Drip](https://bloodyhealth.gitlab.io/) - Menstrual cycle and fertility tracking. Everything you enter stays on your device.
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [log28 (⭐30)](https://github.com/wildeyedskies/log28) - a (very) simple no-frills period tracker for Android.
@@ -667,7 +675,7 @@
 ### Notes and Tasks
 
 *   Google Keep
-    *   [Google Keep Exporter (⭐219)](https://github.com/vHanda/google-keep-exporter) -  Convert your Google Keep notes into a standard markdown + YAML header format.
+    *   [Google Keep Exporter (⭐244)](https://github.com/vHanda/google-keep-exporter) -  Convert your Google Keep notes into a standard markdown + YAML header format.
 *   Evernote
 *   Squid
 *   Notion
@@ -686,7 +694,7 @@
 ### Android
 
 *   [DivestOS](https://divestos.org) - LineageOS fork with increased security and privacy.
-*   [Pocket Paint (⭐269)](https://github.com/Catrobat/Paintroid) - The standard image manipulation app for Catroid.
+*   [Pocket Paint (⭐291)](https://github.com/Catrobat/Paintroid) - The standard image manipulation app for Catroid.
 *   [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) - Remove Exif data from pictures before sharing them.
 *   [ImagePipe](https://codeberg.org/Starfish/Imagepipe) - Reduces image size and removes exif-tags when sharing images on android devices.
 
@@ -695,7 +703,7 @@
 *   LastPass
 *   Dashlane
 *   [Bitwarden](https://bitwarden.com) - An open source cloud based password manager.
-    *   [vaultwarden (⭐25k)](https://github.com/dani-garcia/vaultwarden/) - Unofficial Bitwarden compatible self-hosted server, formerly known as bitwarden\_rs.
+    *   [vaultwarden (⭐28k)](https://github.com/dani-garcia/vaultwarden/) - Unofficial Bitwarden compatible self-hosted server, formerly known as bitwarden\_rs.
 *   [KeepassXC](https://keepassxc.org/) - Securely store passwords using industry standard encryption, no sync just storage.
     *   [KeepassDX](https://www.keepassdx.com/) for Android.
     *   [Strongbox](https://strongboxsafe.com/) for iOS.
@@ -708,14 +716,7 @@
 
 ### Web
 
-*   [miniPaint (⭐1.7k)](https://github.com/viliusle/miniPaint) - Open Source alternative to Photopea. miniPaint operates directly in the browser. Nothing will be sent to any server. Everything stays in your browser.
-
-### Desktop
-
-*   [GIMP](https://www.gimp.org/) - The Free & Open Source Image Editor.
-*   [Krita (⭐5.2k)](https://github.com/KDE/krita) - Krita is a free and open source digital painting application
-*   [Czkawka (⭐10k)](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates and similar images etc.
-*   [Inkscape](https://inkscape.org/) - Inkscape is a free and open-source vector graphics editor used to create vector images.
+*   [miniPaint (⭐1.9k)](https://github.com/viliusle/miniPaint) - Open Source alternative to Photopea. miniPaint operates directly in the browser. Nothing will be sent to any server. Everything stays in your browser.
 
 ### Local
 
@@ -749,7 +750,7 @@
 ### Search Engines
 
 *   Bing
-*   [Whoogle Search (⭐7.4k)](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting Google metasearch engine.
+*   [Whoogle Search (⭐8k)](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting Google metasearch engine.
 *   [DuckDuckGo](https://duckduckgo.com) - A privacy respecting search engine.
 
 ### YouTube
@@ -757,26 +758,26 @@
 *   [Peertube](https://joinpeertube.org/en/) 🧩 - A free, open and decentralized alternative to video platforms.
     *   [SimpleerTube](https://simpleertube.metalune.xyz/) - A simple frontend for PeerTube with SepiaSearch [Source](https://git.sr.ht/~metalune/simpleweb_peertube).
 *   [Odysee](https://odysee.com/) - Odysee is a video platform backed by the creators of lbry and uses the lbry blockchain protocol.
-*   [DTube (⭐776)](https://github.com/dtube/dtube) - A full-featured video sharing website, decentralized.
-*   [Invidious (⭐10k)](https://github.com/iv-org/invidious) - Alternative and privacy respecting YouTube frontend.
-*   [ViewTube (⭐704)](https://github.com/viewtube/viewtube-vue) - ViewTube is an alternative privacy-friendly YouTube frontend written in Vue.js
+*   [DTube (⭐783)](https://github.com/dtube/dtube) - A full-featured video sharing website, decentralized.
+*   [Invidious (⭐13k)](https://github.com/iv-org/invidious) - Alternative and privacy respecting YouTube frontend.
+*   [ViewTube (⭐822)](https://github.com/viewtube/viewtube-vue) - ViewTube is an alternative privacy-friendly YouTube frontend written in Vue.js
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [NewPipe](https://newpipe.net/) - Alternative Android YouTube app. No account needed, privacy respecting, no ads.
-    *   [NewPipe x Sponsorblock (⭐3k)](https://github.com/polymorphicshade/NewPipe) - NewPipe fork that incorporates Sponsorblock.
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [SkyTube (⭐1.9k)](https://github.com/SkyTubeTeam/SkyTube) - Alternative Android YouTube app. No account needed, privacy respecting, no ads.
-*   [FreeTube (⭐7.1k)](https://github.com/FreeTubeApp/FreeTube) - FreeTube is an open source desktop YouTube player built with privacy in mind. (Uses Local RSS API or Invidious for backend).
+    *   [NewPipe x Sponsorblock (⭐3.2k)](https://github.com/polymorphicshade/NewPipe) - NewPipe fork that incorporates Sponsorblock.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [SkyTube (⭐2.1k)](https://github.com/SkyTubeTeam/SkyTube) - Alternative Android YouTube app. No account needed, privacy respecting, no ads.
+*   [FreeTube (⭐8.4k)](https://github.com/FreeTubeApp/FreeTube) - FreeTube is an open source desktop YouTube player built with privacy in mind. (Uses Local RSS API or Invidious for backend).
 
 ### Reddit
 
 *   [Aether](https://getaether.net/) - Peer-to-peer ephemeral public communities.
 *   [SaidIt](https://saidit.net/) - Open source Reddit clone.
 *   [Teddit](https://teddit.net/) - Alternative Reddit front-end focused on privacy
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Infinity (⭐3k)](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A beautiful Reddit client for Android.
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/apple.png"> <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Slide (⭐1.7k)](https://github.com/ccrama/Slide) - Slide is an open sourced, ad free Reddit browser for Android and iOS.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Infinity (⭐3.6k)](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A beautiful Reddit client for Android.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/apple.png"> <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Slide (⭐1.8k)](https://github.com/ccrama/Slide) - Slide is an open sourced, ad free Reddit browser for Android and iOS.
 
 ### Streaming Platforms (Twitch)
 
-*   [Owncast (⭐7.3k)](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself. Streaming + chat out of the box.
-*   [livego (⭐8.9k)](https://github.com/gwuhaolin/livego) - Live video streaming server in golang.
+*   [Owncast (⭐8.3k)](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself. Streaming + chat out of the box.
+*   [livego (⭐9.2k)](https://github.com/gwuhaolin/livego) - Live video streaming server in golang.
 
 ### Teamworking Tools
 
@@ -794,15 +795,15 @@
 *   [Apertium](https://apertium.org/) - A free/open-source machine translation platform, runs offline on your computer
 *   [Softcatala](https://www.softcatala.org/traductor/) - Open Source Translation tool - Only Catalan/Spanish/English/French (uses apertium)
 *   [TranslateLocally](https://translatelocally.com/) – Free/open-source neural MT, runs offline on your computer
-*   [Lingva (⭐1.1k)](https://github.com/TheDavidDelta/lingva-translate) - Alternative front-end for Google Translate. [Demo](https://lingva.ml/).
+*   [Lingva (⭐1.3k)](https://github.com/TheDavidDelta/lingva-translate) - Alternative front-end for Google Translate. [Demo](https://lingva.ml/).
 
 ### Uncategorized
 
-*   [Visited (⭐68)](https://github.com/yuis-ice/visited) - Locally collect browsing history over browsers.
+*   [Visited (⭐72)](https://github.com/yuis-ice/visited) - Locally collect browsing history over browsers.
 
 ### Utilities
 
-*   [Deskreen (⭐14k)](https://github.com/pavlobu/deskreen) - Turn any device into a secondary screen for your computer.
+*   [Deskreen (⭐15k)](https://github.com/pavlobu/deskreen) - Turn any device into a secondary screen for your computer.
 
 ### Video and Audio Conferencing
 
@@ -864,13 +865,13 @@
 
 ### Responsive / Syntax Highlight
 
-*   [CoreUI for React (⭐576)](https://github.com/coreui/coreui-react) - [demo/docs](https://coreui.io/react) - Open Source UI components library.
+*   [CoreUI for React (⭐625)](https://github.com/coreui/coreui-react) - [demo/docs](https://coreui.io/react) - Open Source UI components library.
 
 ## [48. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### Helpers
 
-*   [hump (⭐60)](https://github.com/HDictus/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras).
+*   [hump (⭐63)](https://github.com/HDictus/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras).
 
 ## [49. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
@@ -883,10 +884,6 @@
 ### Art
 
 *   [Obscura](https://obscura.world/) - Float around and explore a structure inspired by the architecture of Carlo Scarpa.
-
-### Companies and Cooperatives / Reddit
-
-*   [Third Axis](https://thirdaxis.io/) - A design studio based in NYC that creates 3D, AR, and VR content on the web.
 
 ## [51. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
@@ -902,7 +899,7 @@
 
 ### Plugins
 
-*   [tmux-mouse-swipe (⭐7)](https://github.com/jaclu/tmux-mouse-swipe) - Switch Window or Session by clicking right mouse button and swiping.
+*   [tmux-mouse-swipe (⭐8)](https://github.com/jaclu/tmux-mouse-swipe) - Switch Window or Session by clicking right mouse button and swiping.
 
 ## [53. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -967,7 +964,7 @@
 
 ### UI Libraries, Components & Templates
 
-*   📚 [Svelte Headless UI (⭐1.4k)](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of Headless UI.
+*   📚 [Svelte Headless UI (⭐1.7k)](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of Headless UI.
 
 ## [56. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
@@ -978,25 +975,26 @@
 *   Continuous Integration
     *   [trust (⭐1.2k)](https://github.com/japaric/trust) — A Travis CI and AppVeyor template to test your Rust crate on 5 architectures and publish binary releases of it for Linux, macOS and Windows
 *   Frameworks and Runners
-    *   [AlKass/polish (⭐50)](https://github.com/AlKass/polish) — Mini Testing/Test-Driven Framework [![Crates Package Status](https://img.shields.io/crates/v/polish.svg)](https://crates.io/crates/polish)
+    *   [AlKass/polish (⭐51)](https://github.com/AlKass/polish) — Mini Testing/Test-Driven Framework [![Crates Package Status](https://img.shields.io/crates/v/polish.svg)](https://crates.io/crates/polish)
     *   [cargo-dinghy](https://crates.io/crates/cargo-dinghy/) - A cargo extension to simplify running library tests and benches on smartphones and other small processor devices.
     *   [cucumber](https://crates.io/crates/cucumber) [![Latest Version](https://img.shields.io/crates/v/cucumber.svg)](https://crates.io/crates/cucumber) — An implementation of the Cucumber testing framework for Rust. Fully native, no external test runners or dependencies. [![Build Status](https://github.com/cucumber-rs/cucumber/workflows/CI/badge.svg?branch=master)](https://github.com/cucumber-rs/cucumber)
+    *   [d-e-s-o/test-log (⭐51)](https://github.com/d-e-s-o/test-log) \[[test-log](https://crates.io/crates/test-log)] — A replacement of the `#[test]` attribute that initializes logging and/or tracing infrastructure before running tests. [![GitHub Workflow Status](https://github.com/d-e-s-o/test-log/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/d-e-s-o/test-log/actions/workflows/test.yml)
     *   [demonstrate](https://crates.io/crates/demonstrate) — Declarative Testing Framework [![Build Status](https://github.com/aubaugh/demonstrate/workflows/Continuous%20Integration/badge.svg?branch=master)](https://github.com/aubaugh/demonstrate)
     *   [rstest](https://crates.io/crates/rstest) — Fixture-based test framework for Rust [![Build Status](https://github.com/la10736/rstest/workflows/Test/badge.svg?branch=master)](https://github.com/la10736/rstest/actions)
     *   [speculate](https://crates.io/crates/speculate) — An RSpec inspired minimal testing framework for Rust
 *   Mocking and Test Data
-    *   [asomers/mockall (⭐1.1k)](https://github.com/asomers/mockall) \[[mockall](https://crates.io/crates/mockall)] — A powerful mock object library for Rust. [![Cirrus Build Status](https://api.cirrus-ci.com/github/asomers/mockall.svg)](https://cirrus-ci.com/github/asomers/mockall)
-    *   [fake-rs (⭐623)](https://github.com/cksac/fake-rs) —  A library for generating fake data
-    *   [goldenfile (⭐25)](https://github.com/calder/rust-goldenfile) \[[goldenfile](https://crates.io/crates/goldenfile)] - A library providing a simple API for goldenfile testing.
-    *   [httpmock (⭐348)](https://github.com/alexliesenfeld/httpmock) — HTTP mocking [![build badge](https://dev.azure.com/alexliesenfeld/httpmock/_apis/build/status/alexliesenfeld.httpmock?branchName=master)](https://dev.azure.com/alexliesenfeld/httpmock/_build/latest?definitionId=2\&branchName=master)
+    *   [asomers/mockall (⭐1.2k)](https://github.com/asomers/mockall) \[[mockall](https://crates.io/crates/mockall)] — A powerful mock object library for Rust. [![Cirrus Build Status](https://api.cirrus-ci.com/github/asomers/mockall.svg)](https://cirrus-ci.com/github/asomers/mockall)
+    *   [fake-rs (⭐701)](https://github.com/cksac/fake-rs) —  A library for generating fake data
+    *   [goldenfile (⭐29)](https://github.com/calder/rust-goldenfile) \[[goldenfile](https://crates.io/crates/goldenfile)] - A library providing a simple API for goldenfile testing.
+    *   [httpmock (⭐379)](https://github.com/alexliesenfeld/httpmock) — HTTP mocking [![build badge](https://dev.azure.com/alexliesenfeld/httpmock/_apis/build/status/alexliesenfeld.httpmock?branchName=master)](https://dev.azure.com/alexliesenfeld/httpmock/_build/latest?definitionId=2\&branchName=master)
     *   [mockiato](https://crates.io/crates/mockiato) — A strict, yet friendly mocking library for Rust 2018
     *   [mockito](https://crates.io/crates/mockito) — HTTP mocking
-    *   [nrxus/faux (⭐342)](https://github.com/nrxus/faux/) [![Latest Version](https://img.shields.io/crates/v/faux.svg)](https://crates.io/crates/faux) — A library to create mocks out of structs. ![build](https://github.com/nrxus/faux/workflows/test/badge.svg?branch=master)
-    *   [synth (⭐1.1k)](https://github.com/shuttle-hq/synth/) — Generate database data declaratively. [![build](https://github.com/shuttle-hq/synth/actions/workflows/synth-test.yml/badge.svg)](https://github.com/shuttle-hq/synth)
+    *   [nrxus/faux (⭐363)](https://github.com/nrxus/faux/) [![Latest Version](https://img.shields.io/crates/v/faux.svg)](https://crates.io/crates/faux) — A library to create mocks out of structs. ![build](https://github.com/nrxus/faux/workflows/test/badge.svg?branch=master)
+    *   [synth (⭐1.2k)](https://github.com/shuttle-hq/synth/) — Generate database data declaratively. [![build](https://github.com/shuttle-hq/synth/actions/workflows/synth-test.yml/badge.svg)](https://github.com/shuttle-hq/synth)
 *   Property Testing and Fuzzing
     *   [proptest](https://crates.io/crates/proptest) — property testing framework inspired by the [Hypothesis](https://hypothesis.works/) framework for Python
     *   [quickcheck](https://crates.io/crates/quickcheck) — A Rust implementation of [QuickCheck](https://wiki.haskell.org/Introduction_to_QuickCheck1)
-    *   [rust-fuzz/afl.rs (⭐1.4k)](https://github.com/rust-fuzz/afl.rs) — A Rust fuzzer, using [AFL](https://lcamtuf.coredump.cx/afl/)
+    *   [rust-fuzz/afl.rs (⭐1.5k)](https://github.com/rust-fuzz/afl.rs) — A Rust fuzzer, using [AFL](https://lcamtuf.coredump.cx/afl/)
 
 ## [57. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
@@ -1010,7 +1008,7 @@
 
 ### Wallets
 
-*   [AlgoSigner (⭐91)](https://github.com/PureStake/algosigner) - Browser plugin Web Wallet and JS library for signing transactions in the browser.
+*   [AlgoSigner (⭐92)](https://github.com/PureStake/algosigner) - Browser plugin Web Wallet and JS library for signing transactions in the browser.
 
 ### Blockchain Explorers
 
@@ -1030,23 +1028,23 @@
 
 ### Languages / Go
 
-*   [go-algorand (⭐1.2k)](https://github.com/algorand/go-algorand) - Algorand's official implementation in Go.
-*   [go-algorand-sdk (⭐171)](https://github.com/algorand/go-algorand-sdk) - The Algorand Golang SDK.
+*   [go-algorand (⭐1.3k)](https://github.com/algorand/go-algorand) - Algorand's official implementation in Go.
+*   [go-algorand-sdk (⭐178)](https://github.com/algorand/go-algorand-sdk) - The Algorand Golang SDK.
 
 ### Languages / PHP
 
-*   [php-algorand-sdk (⭐19)](https://github.com/ffsolutions/php-algorand-sdk) - Algorand PHP SDK created by [@ffsolutions](https://github.com/ffsolutions).
-*   [algorand-php (⭐39)](https://github.com/RootSoft/algorand-php) - Algorand PHP SDK created by [@RootSoft](https://github.com/RootSoft).
+*   [php-algorand-sdk (⭐22)](https://github.com/ffsolutions/php-algorand-sdk) - Algorand PHP SDK created by [@ffsolutions](https://github.com/ffsolutions).
+*   [algorand-php (⭐41)](https://github.com/RootSoft/algorand-php) - Algorand PHP SDK created by [@RootSoft](https://github.com/RootSoft).
 
 ### Languages / Python
 
-*   [py-algorand-sdk (⭐237)](https://github.com/algorand/py-algorand-sdk) - The Algorand Python SDK.
-*   [tinyman-py-sdk (⭐118)](https://github.com/tinymanorg/tinyman-py-sdk) - Tinyman Python SDK.
-*   [algofi-py-sdk (⭐42)](https://github.com/Algofiorg/algofi-py-sdk) - Algofi Python SDK.
+*   [py-algorand-sdk (⭐242)](https://github.com/algorand/py-algorand-sdk) - The Algorand Python SDK.
+*   [tinyman-py-sdk (⭐116)](https://github.com/tinymanorg/tinyman-py-sdk) - Tinyman Python SDK.
+*   [algofi-py-sdk](https://github.com/Algofiorg/algofi-py-sdk) - Algofi Python SDK.
 
 ### Languages / JavaScript & TypeScript
 
-*   [algofi-js-sdk (⭐1)](https://github.com/Algofiorg/algofi-js-sdk) - Algofi JavaScript SDK.
+*   [algofi-js-sdk](https://github.com/Algofiorg/algofi-js-sdk) - Algofi JavaScript SDK.
 
 ### Languages / Java
 
@@ -1055,15 +1053,15 @@
 ### Languages / .NET
 
 *   [dotnet-algorand-sdk (⭐39)](https://github.com/RileyGe/dotnet-algorand-sdk) - Algorand .NET SDK created by [@RileyGe](https://github.com/RileyGe).
-*   [unity-algorand-sdk (⭐33)](https://github.com/CareBoo/unity-algorand-sdk) - An Algorand SDK for Unity. Use the Algorand blockchain in your video game.
+*   [unity-algorand-sdk (⭐32)](https://github.com/CareBoo/unity-algorand-sdk) - An Algorand SDK for Unity. Use the Algorand blockchain in your video game.
 
 ### Languages / Swift
 
-*   [algorand-wallet (⭐167)](https://github.com/algorand/algorand-wallet) - Algorand wallet official implementation in Swift.
+*   [algorand-wallet (⭐171)](https://github.com/algorand/algorand-wallet) - Algorand wallet official implementation in Swift.
 
 ### IDEs / vim
 
-*   [vim-algorand-teal (⭐5)](https://github.com/aldur/vim-algorand-teal) - Minimalistic syntax highlight for Algorand's TEAL Smart Contract language to vim.
+*   [vim-algorand-teal (⭐6)](https://github.com/aldur/vim-algorand-teal) - Minimalistic syntax highlight for Algorand's TEAL Smart Contract language to vim.
 
 ### IDEs / IntelliJ
 
@@ -1075,31 +1073,15 @@
 
 ### Other Development Tools / Smart Contracts
 
-*   [pyteal (⭐265)](https://github.com/algorand/pyteal) - Algorand Smart Contracts in Python.
-*   [pyteal-utils (⭐30)](https://github.com/algorand/pyteal-utils) - PyTEAL utilities library.
+*   [pyteal (⭐269)](https://github.com/algorand/pyteal) - Algorand Smart Contracts in Python.
+*   [pyteal-utils (⭐29)](https://github.com/algorand/pyteal-utils) - PyTEAL utilities library.
 
 ### Other Development Tools / Docker
 
-*   [Algorand Sandbox (⭐222)](https://github.com/algorand/sandbox) - Fast way to create and configure an Algorand development environment.
-
-### NFT Marketplaces / Wallets
-
-*   [AB2](https://ab2.gallery/) - decentralized marketplace for crypto art assets secured on the Algorand blockchain created by [@ab2\_gallery](https://twitter.com/AB2_Gallery).
-*   [Rand Gallery](https://www.randgallery.com/) - Algorand Standard Asset (ASA) explorer and marketplace developed by [Chris Antaki](https://github.com/ChrisAntaki).
-*   [AlgoGems](https://algogems.io/) - Algorand Standard Asset (ASA) markeplace and trading platform for NFT collectors.
-*   [AlgoWorldExplorer](https://algoworldexplorer.io/) - NFT marketplace, explorer and gallery for AlgoWorld NFTs developed by [@aorumbayev](https://twitter.com/aorumbayev).
-*   [AlgoMart (⭐182)](https://github.com/deptagency/algomart) - Opensource NFT marketplace whitelabel solution.
-*   [ALGOxNFT](https://algoxnft.com/listings/live) - NFT gallery and marketplace.
-*   [Dartroom](https://dartroom.xyz/overview) - Decentralized NFT explorer, minting and trading.
-*   [Alchemon](https://alchemon.net/) - Monster-collecting NFT card game.
-*   [Otherverse](https://otherverse.io/) - NFT collections marketplace.
-*   [Musa](https://www.musanft.io/) - Music, Art & Fashion NFT gallery and marketplace.
-*   [Flatter](https://www.flatternft.com/) - NFT art and collectible marketplace.
-*   [Aorist](https://aorist.art/) - NFT art gallery and marketplace.
+*   [Algorand Sandbox (⭐227)](https://github.com/algorand/sandbox) - Fast way to create and configure an Algorand development environment.
 
 ### DeFi Platforms / Wallets
 
-*   [Yieldly](https://yieldly.finance/) - DeFI suite for cross-chain swapping, ASA staking and lottery games.
 *   [Tinyman](https://tinyman.org/) - A decentralized trading protocol, AMM and platform.
 *   [Algofi](https://www.algofi.org/) - Decentralized lending market and stablecoin on the Algorand blockchain.
 *   [Lofty.ai](https://www.lofty.ai/) - Tokenized real estate investing platform.
@@ -1122,14 +1104,29 @@
 ### Projects / Wallets
 
 *   [arc3.xyz (⭐22)](https://github.com/barnjamin/arc3.xyz) - Dapp that can be used to mint ARC3 compliant NFTs.
-*   [Auction Demo (⭐58)](https://github.com/algorand/auction-demo) - On-chain NFT auction using smart contracts.
+*   [Auction Demo (⭐57)](https://github.com/algorand/auction-demo) - On-chain NFT auction using smart contracts.
 *   [Algorand Session Wallet (⭐16)](https://github.com/barnjamin/algorand-session-wallet) - Session wallet to allow persisted wallet connections across multiple wallets.
-*   [WalletConnect Example DApp (⭐22)](https://github.com/algorand/walletconnect-example-dapp) - Algorand WalletConnect demo.
+*   [WalletConnect Example DApp (⭐21)](https://github.com/algorand/walletconnect-example-dapp) - Algorand WalletConnect demo.
 *   [TinyBar App](https://tinybar.app) - A tiny macOS menu bar app for tracking ASA prices from TinyMan.
 *   [Algodesk](https://www.algodesk.io/) - Create, configure and manage your Assets on Algorand Blockchain.
 *   [minter (⭐11)](https://github.com/algofishexe/minter) - Bulk mint Algorand NFTs following the ARC-69 community standard. Written in Node.js by [@fish.exe](https://twitter.com/AlgofishExe).
 *   [galvanity (⭐8)](https://github.com/shmutalov/galvanity) - Galvanity is Algorand vanity address generator written in Go.
 *   [Algocurator](https://www.algocurator.com/home) - The Biggest Unofficial One-Stop Hub for Algorand.
+
+### NFT Marketplaces / Wallets
+
+*   [AB2](https://ab2.gallery/) - decentralized marketplace for crypto art assets secured on the Algorand blockchain created by [@ab2\_gallery](https://twitter.com/AB2_Gallery).
+*   [Rand Gallery](https://www.randgallery.com/) - Algorand Standard Asset (ASA) explorer and marketplace developed by [Chris Antaki](https://github.com/ChrisAntaki).
+*   [AlgoGems](https://algogems.io/) - Algorand Standard Asset (ASA) markeplace and trading platform for NFT collectors.
+*   [AlgoWorldExplorer](https://algoworldexplorer.io/) - NFT marketplace, explorer and gallery for AlgoWorld NFTs developed by [@aorumbayev](https://twitter.com/aorumbayev).
+*   [AlgoMart (⭐183)](https://github.com/deptagency/algomart) - Opensource NFT marketplace whitelabel solution.
+*   [ALGOxNFT](https://algoxnft.com/listings/live) - NFT gallery and marketplace.
+*   [Dartroom](https://dartroom.xyz/overview) - Decentralized NFT explorer, minting and trading.
+*   [Alchemon](https://alchemon.net/) - Monster-collecting NFT card game.
+*   [Otherverse](https://otherverse.io/) - NFT collections marketplace.
+*   [Musa](https://www.musanft.io/) - Music, Art & Fashion NFT gallery and marketplace.
+*   [Flatter](https://www.flatternft.com/) - NFT art and collectible marketplace.
+*   [Aorist](https://aorist.art/) - NFT art gallery and marketplace.
 
 ## [58. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
 
@@ -1165,21 +1162,21 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-twig (⭐13)](https://github.com/fiadone/vite-plugin-twig) - Twig template engine support.
+*   [vite-plugin-twig (⭐15)](https://github.com/fiadone/vite-plugin-twig) - Twig template engine support.
 *   [vite-plugin-stache (⭐4)](https://github.com/pYr0x/vite-plugin-stache) - CanJS's template engine. Transforms `stache` files and template strings.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-remove-console (⭐80)](https://github.com/xiaoxian521/vite-plugin-remove-console) - A vite plugin that deletes console.log in the production environment.
+*   [vite-plugin-remove-console (⭐104)](https://github.com/xiaoxian521/vite-plugin-remove-console) - A vite plugin that deletes console.log in the production environment.
 
 ## [62. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
-### Inbox: Large Language Models / GPT-3
+### Inbox: Large Language Models (LLMs) / GPT-3
 
 *   [GPT-3 playground](https://beta.openai.com/playground)
 *   [Fine-tuning GPT-3](https://beta.openai.com/docs/guides/fine-tuning): how to customize a model for OpenAI's GPT-3
 
-### Inbox: Large Language Models / Text-related Generative Tools
+### Inbox: Large Language Models (LLMs) / Text-related Generative Tools
 
 *   [Authors A.I.](https://authors.ai/): AI-powered text analysis
 *   [Rytr](https://rytr.me/): Rytr is an AI writing assistant that helps creating content
@@ -1187,8 +1184,8 @@
 
 ### Image Synthesis / Generative Adversarial Networks (GANs)
 
-*   [ouhenio/StyleGAN3-CLIP-notebooks (⭐181)](https://github.com/ouhenio/StyleGAN3-CLIP-notebooks): A collection of Jupyter notebooks to play with NVIDIA's StyleGAN3 and OpenAI's CLIP for a text-based guided image generation.
-*   [k-l-lambda/stylegan-web (⭐152)](https://github.com/k-l-lambda/stylegan-web): A web porting for NVlabs' StyleGAN.
+*   [ouhenio/StyleGAN3-CLIP-notebooks (⭐193)](https://github.com/ouhenio/StyleGAN3-CLIP-notebooks): A collection of Jupyter notebooks to play with NVIDIA's StyleGAN3 and OpenAI's CLIP for a text-based guided image generation.
+*   [k-l-lambda/stylegan-web (⭐155)](https://github.com/k-l-lambda/stylegan-web): A web porting for NVlabs' StyleGAN.
 
 ### Collections / Generative Adversarial Networks (GANs)
 
@@ -1209,7 +1206,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [booperlv/nvim-gomove (⭐164)](https://github.com/booperlv/nvim-gomove) - A complete plugin for moving and duplicating blocks and lines, with complete fold handling, reindenting, and undoing in one go.
+*   [booperlv/nvim-gomove (⭐182)](https://github.com/booperlv/nvim-gomove) - A complete plugin for moving and duplicating blocks and lines, with complete fold handling, reindenting, and undoing in one go.
 
 ## [65. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
@@ -1226,7 +1223,7 @@
 
 ### Data Visualization / Runner
 
-*   [vizzu (⭐1.7k)](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
+*   [vizzu (⭐1.8k)](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
 
 ---
 

@@ -38,14 +38,14 @@
 
 ### C, C++
 
-*   [cmacro (⭐845)](https://github.com/eudoxia0/cmacro) - Lisp macros for C. [MIT](https://opensource.org/licenses/MIT).
-*   [C-mera (⭐366)](https://github.com/kiselgra/c-mera) - a source-to-source compiler that utilizes Lisp's macro system for meta programming of C-like languages. [GPL3](http://www.gnu.org/copyleft/gpl.html).
-*   [lispc (⭐519)](https://github.com/eratosthenesia/lispc) - a powerful "lispsy" macrolanguage for C. [MIT](https://opensource.org/licenses/MIT).
+*   [cmacro (⭐861)](https://github.com/eudoxia0/cmacro) - Lisp macros for C. [MIT](https://opensource.org/licenses/MIT).
+*   [C-mera (⭐376)](https://github.com/kiselgra/c-mera) - a source-to-source compiler that utilizes Lisp's macro system for meta programming of C-like languages. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [lispc (⭐523)](https://github.com/eratosthenesia/lispc) - a powerful "lispsy" macrolanguage for C. [MIT](https://opensource.org/licenses/MIT).
 
 ### Tools
 
 *   [pileup](http://nikodemus.github.io/pileup/) - a portable, performant, and thread-safe binary heap for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
-*   [sycamore (⭐109)](https://github.com/ndantam/sycamore) -  a fast, purely functional data structure library. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [sycamore (⭐107)](https://github.com/ndantam/sycamore) -  a fast, purely functional data structure library. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### Emacs / Third-party APIs
 
@@ -112,11 +112,11 @@ Wifi pw: `portuguesa`
 
 ### Machine Learning
 
-*   [xgboost (⭐24k)](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow. \[Apache2]
+*   [xgboost (⭐25k)](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow. \[Apache2]
 
 ### Other Awesome Projects
 
-*   [AwesomePerfCpp (⭐2.2k)](https://github.com/fenbf/AwesomePerfCpp) - A curated list of awesome C/C++ performance optimization resources.
+*   [AwesomePerfCpp (⭐2.3k)](https://github.com/fenbf/AwesomePerfCpp) - A curated list of awesome C/C++ performance optimization resources.
 
 ---
 

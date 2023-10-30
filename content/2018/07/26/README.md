@@ -36,7 +36,7 @@
 
 ### Threat intelligence / Threat hunting
 
-*   [GRASSMARLIN (⭐804)](https://github.com/nsacyber/GRASSMARLIN) - Provides IP network situational awareness of industrial control systems (ICS) and Supervisory Control and Data Acquisition (SCADA) by passively mapping, accounting for, and reporting on your ICS/SCADA network topology and endpoints.
+*   [GRASSMARLIN (⭐831)](https://github.com/nsacyber/GRASSMARLIN) - Provides IP network situational awareness of industrial control systems (ICS) and Supervisory Control and Data Acquisition (SCADA) by passively mapping, accounting for, and reporting on your ICS/SCADA network topology and endpoints.
 
 ## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -48,14 +48,14 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [X.PagedList (⭐723)](https://github.com/dncuug/X.PagedList) - Library for easily paging through any IEnumerable/IQueryable in ASP.NET/ASP.NET Core.
+*   [X.PagedList (⭐830)](https://github.com/dncuug/X.PagedList) - Library for easily paging through any IEnumerable/IQueryable in ASP.NET/ASP.NET Core.
 
 ## [6. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Tools
 
-*   [Dva Cli (⭐971)](https://github.com/dvajs/dva-cli) - Create Ant Design projects based on [Dva.js (⭐16k)](https://github.com/dvajs/dva), a
-    lightweight front-end framework based on Redux and React and inspired by [Elm](http://elm-lang.org) and [Choo (⭐6.7k)](https://github.com/yoshuawuyts/choo).
+*   [Dva Cli (⭐969)](https://github.com/dvajs/dva-cli) - Create Ant Design projects based on [Dva.js (⭐16k)](https://github.com/dvajs/dva), a
+    lightweight front-end framework based on Redux and React and inspired by [Elm](http://elm-lang.org) and [Choo (⭐6.8k)](https://github.com/yoshuawuyts/choo).
 
 ### Components / Themes
 
@@ -77,7 +77,7 @@
 
 ### Tools / Other
 
-*   [Amass (⭐8k)](https://github.com/OWASP/Amass) - In-depth subdomain enumeration tool that performs scraping, recursive brute forcing, crawling of web archives, name altering and reverse DNS sweeping
+*   [Amass (⭐10k)](https://github.com/OWASP/Amass) - In-depth subdomain enumeration tool that performs scraping, recursive brute forcing, crawling of web archives, name altering and reverse DNS sweeping
 
 ---
 

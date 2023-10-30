@@ -10,7 +10,7 @@
 
 ### Applications
 
-*   [wasmer (⭐15k)](https://github.com/wasmerio/wasmer) — A safe and fast WebAssembly runtime supporting WASI and Emscripten [![Build Status](https://github.com/wasmerio/wasmer/workflows/build/badge.svg?style=flat-square)](https://github.com/wasmerio/wasmer/actions)
+*   [wasmer (⭐16k)](https://github.com/wasmerio/wasmer) — A safe and fast WebAssembly runtime supporting WASI and Emscripten [![Build Status](https://github.com/wasmerio/wasmer/workflows/build/badge.svg?style=flat-square)](https://github.com/wasmerio/wasmer/actions)
 
 ## [2. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -79,20 +79,20 @@
 
 ### Resources / Examples
 
-*   [Customizable Vue video chat app (⭐5)](https://github.com/daily-demos/vue-call-object) - A Vue video call demo app featuring local device controls and screen sharing.
+*   [Customizable Vue video chat app (⭐3)](https://github.com/daily-demos/vue-call-object) - A Vue video call demo app featuring local device controls and screen sharing.
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Others / Third-party APIs
 
-*   [origin (⭐0)](https://github.com/mfiano/origin) - A native Lisp graphics math library with an emphasis on performance and correctness. Includes: vectors, matrices (up to 4x4), quaternions, single/double-float support, destructive/non-destructive operations, shaping & intersections. [MIT](https://opensource.org/licenses/MIT).
+*   [origin (⭐1)](https://github.com/mfiano/origin) - A native Lisp graphics math library with an emphasis on performance and correctness. Includes: vectors, matrices (up to 4x4), quaternions, single/double-float support, destructive/non-destructive operations, shaping & intersections. [MIT](https://opensource.org/licenses/MIT).
 
 ## [5. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Algorithms / Semantic segmentation
 
 *   [LIDAR-MOS :newspaper:](https://www.ipb.uni-bonn.de/pdfs/chen2021ral-iros.pdf) - Moving Object Segmentation in 3D LIDAR Data
-    *   [GitHub repository :octocat: (⭐420)](https://github.com/PRBonn/LiDAR-MOS)
+    *   [GitHub repository :octocat: (⭐480)](https://github.com/PRBonn/LiDAR-MOS)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=NHvsYhk4dhw)
 
 ## [6. Awesome Nix](/content/nix-community/awesome-nix/README.md)
@@ -111,7 +111,7 @@
 
 ### Tools
 
-*   [Open Capture and Analytics Tool (OCAT) (⭐235)](https://github.com/GPUOpen-Tools/OCAT) - provides an FPS overlay and performance measurement for D3D11, D3D12, and Vulkan. \[MIT]
+*   [Open Capture and Analytics Tool (OCAT) (⭐256)](https://github.com/GPUOpen-Tools/OCAT) - provides an FPS overlay and performance measurement for D3D11, D3D12, and Vulkan. \[MIT]
 
 ## [9. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
 

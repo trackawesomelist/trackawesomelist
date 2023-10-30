@@ -51,7 +51,7 @@
 
 ### Cloud management solutions
 
-*   [scalr.com](https://scalr.com/) - Scalr is a Terraform Automation and COllaboration (TACO) product, used to better collaboration and automation on infrastructure and configurations managed by Terraform. Full support of Terraform CLI, integration with OPA and a hierarchical configuration model. No SSO tax. All features are included. Use up to 50 runs / month for free.
+*   [scalr.com](https://scalr.com/) - Scalr is a Terraform Automation and COllaboration (TACO) product used to better collaboration and automation on infrastructure and configurations managed by Terraform. Full Terraform CLI support, OPA integration, and a hierarchical configuration model. No SSO tax. All features are included. Use up to 50 runs/month for free.
 
 ## [6. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Automation / DSL
 
-*   [jmeter-groovy-dsl (⭐11)](https://github.com/smicyk/groovy-jmeter) - The Groovy-JMeter project is simple DSL to write JMeter test plans.
+*   [jmeter-groovy-dsl (⭐12)](https://github.com/smicyk/groovy-jmeter) - The Groovy-JMeter project is simple DSL to write JMeter test plans.
 
 ## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 

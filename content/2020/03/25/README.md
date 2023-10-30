@@ -10,44 +10,44 @@
 
 ### Plugins
 
-*   [tmux-thumbs (⭐655)](https://github.com/fcsonline/tmux-thumbs) A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
+*   [tmux-thumbs (⭐754)](https://github.com/fcsonline/tmux-thumbs) A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
 
 ## [2. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### ORM
 
-*   [Glass.Mapper (⭐122)](https://github.com/mikeedwards83/Glass.Mapper) - Glass.Mapper has been the redevelopment of the very popular Glass.Sitecore.Mapper project. This project aims to create a more robust and more flexible solution that not only works with many different CMS's.
+*   [Glass.Mapper (⭐123)](https://github.com/mikeedwards83/Glass.Mapper) - Glass.Mapper has been the redevelopment of the very popular Glass.Sitecore.Mapper project. This project aims to create a more robust and more flexible solution that not only works with many different CMS's.
 
 ### xConnect and xDB
 
-*   [XdbTracker (⭐5)](https://github.com/lowedown/XdbTracker) - API and js-function to allow client-side triggering of Sitecore events / goals and outcomes.
+*   [XdbTracker (⭐5)](https://github.com/lowedown/XdbTracker) - API and js-function to allow client-side triggering of Sitecore events/goals and outcomes.
 
 ## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Personal Security (⭐11k)](https://github.com/Lissy93/personal-security-checklist) - A curated list of digital security and privacy tips, with links to further resources.
+*   [Awesome Personal Security (⭐13k)](https://github.com/Lissy93/personal-security-checklist) - A curated list of digital security and privacy tips, with links to further resources.
 
 ## [4. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### Microservice
+### Microservice / Text-Based User Interfaces
 
 *   [Sentinel (⭐21k)](https://github.com/alibaba/Sentinel) - Flow control component enabling reliability, resilience and monitoring for microservices.
 
 ### Utility / Mocking
 
-*   [Arthas (⭐32k)](https://github.com/alibaba/arthas) - Allows to troubleshoot production issues for applications without modifying code or restarting servers.
+*   [Arthas (⭐34k)](https://github.com/alibaba/arthas) - Allows to troubleshoot production issues for applications without modifying code or restarting servers.
 
 ## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### CSV
 
-*   [CodableCSV (⭐381)](https://github.com/dehesa/CodableCSV) :penguin: - Read and write CSV files row-by-row or through Swift's Codable interface.
+*   [CodableCSV (⭐412)](https://github.com/dehesa/CodableCSV) :penguin: - Read and write CSV files row-by-row or through Swift's Codable interface.
 *   [CSVParser (⭐85)](https://github.com/Nero5023/CSVParser) :penguin: - Fast parser for CSV.
 
 ### UI / Barcode
 
-*   [ActivityIndicatorView (⭐1k)](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI.
+*   [ActivityIndicatorView (⭐1.2k)](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI.
 
 ## [6. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -81,11 +81,11 @@
 
 ### Geolocation
 
-*   [Geo plugin](https://github.com/dereuromark/cakephp-geo) - Containing [Geocoder behavior](https://www.dereuromark.de/2012/06/12/geocoding-with-cakephp/) and [GoogleMaps helper](https://www.dereuromark.de/2010/12/21/googlemapsv3-cakephp-helper/).
+*   🍰 [Geo plugin (⭐47)](https://github.com/dereuromark/cakephp-geo) - Containing [Geocoder behavior](https://www.dereuromark.de/2012/06/12/geocoding-with-cakephp/) and [GoogleMaps helper](https://www.dereuromark.de/2010/12/21/googlemapsv3-cakephp-helper/).
 
 ### HTTP
 
-*   [Http/Adapter/Cake library (⭐4)](https://github.com/php-http/cakephp-adapter) - Adapter for [HTTPlug (⭐2.4k)](https://github.com/php-http/httplug) HTTP client abstraction.
+*   [Http/Adapter/Cake library (⭐4)](https://github.com/php-http/cakephp-adapter) - Adapter for [HTTPlug (⭐2.5k)](https://github.com/php-http/httplug) HTTP client abstraction.
 
 ## [10. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 

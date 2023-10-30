@@ -28,7 +28,7 @@
 
 ### Tab / Barcode
 
-*   [CircleBar (⭐824)](https://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
+*   [CircleBar (⭐854)](https://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
 
 ## [4. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
 
@@ -103,7 +103,7 @@
 
 ### Deployment / Isomorphic web frameworks
 
-*   [cl-aws-runtime-test (⭐33)](https://github.com/y2q-actionman/cl-aws-custom-runtime-test) - An example of using Common Lisp (SBCL) as a custom runtime on AWS lambda. WTFPL.
+*   [cl-aws-runtime-test (⭐36)](https://github.com/y2q-actionman/cl-aws-custom-runtime-test) - An example of using Common Lisp (SBCL) as a custom runtime on AWS lambda. WTFPL.
 
 ## [8. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
@@ -142,23 +142,23 @@
 
 ### Entertainment / Social Media
 
-*   [facebook-cli (⭐384)](https://github.com/specious/facebook-cli) - Facebook command line interface.
+*   [facebook-cli (⭐386)](https://github.com/specious/facebook-cli) - Facebook command line interface.
 
 ### Utilities / macOS
 
-*   [active-win-cli (⭐52)](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
+*   [active-win-cli (⭐55)](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
 
 ### Files and Directories / File Managers
 
-*   [nnn (⭐16k)](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
+*   [nnn (⭐17k)](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
 
 ### Files and Directories / Directory Navigation
 
-*   [goto (⭐832)](https://github.com/iridakos/goto) - Directory aliases for the shell with autocomplete.
+*   [goto (⭐844)](https://github.com/iridakos/goto) - Directory aliases for the shell with autocomplete.
 
 ### Images / Image Conversion
 
-*   [imgp (⭐947)](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator.
+*   [imgp (⭐965)](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator.
 
 ## [13. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -174,7 +174,7 @@
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [Sample .NET Core CQRS REST API (⭐2.2k)](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
+*   [Sample .NET Core CQRS REST API (⭐2.5k)](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
 
 ---
 

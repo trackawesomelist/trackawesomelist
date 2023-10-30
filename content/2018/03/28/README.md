@@ -45,7 +45,7 @@
 
 ### Modules / Stream
 
-*   [syncthrough (⭐77)](https://github.com/mcollina/syncthrough) - Transform your data as it pass by, synchronously.
+*   [syncthrough (⭐76)](https://github.com/mcollina/syncthrough) - Transform your data as it pass by, synchronously.
 
 ## [7. Awesome Sdn](/content/sdnds-tw/awesome-sdn/README.md)
 
@@ -93,7 +93,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-lodash (⭐104)](https://github.com/Ewocker/vue-lodash) - A simple wrapper for integrating lodash to Vue 2.
+*   [vue-lodash (⭐105)](https://github.com/Ewocker/vue-lodash) - A simple wrapper for integrating lodash to Vue 2.
 
 ## [13. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
 

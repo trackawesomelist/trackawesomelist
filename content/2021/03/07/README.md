@@ -10,14 +10,14 @@
 
 ### Projects and Code Examples / Vector search
 
-*   [Handwritten Digits Recognition (⭐4)](https://github.com/jdrzj/handwritten-digits-recognition) -
+*   [Handwritten Digits Recognition (⭐5)](https://github.com/jdrzj/handwritten-digits-recognition) -
     Handwritten digits recognition using Neural Networks and Ruby.
 
 ## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
-*   💼 [No Scrollbar (⭐7)](https://github.com/redwebcreation/tailwindcss-no-scrollbar) - Exposes `scrollbar-none` to visually hide a scrollbar.
+*   💼 [No Scrollbar (⭐10)](https://github.com/redwebcreation/tailwindcss-no-scrollbar) - Exposes `scrollbar-none` to visually hide a scrollbar.
 
 ## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -39,13 +39,13 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Godot Gif Getter (⭐29)](https://github.com/you-win/godot-gif-getter) - An in-game utility for recording and saving GIFs (written in GDNative Rust).
+*   [Godot Gif Getter (⭐30)](https://github.com/you-win/godot-gif-getter) - An in-game utility for recording and saving GIFs (written in GDNative Rust).
 
 ## [5. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries
 
-*   [RLax (⭐982)](https://github.com/deepmind/rlax) - Library for implementing reinforcement learning agents. <img src="https://img.shields.io/github/stars/deepmind/rlax?style=social" align="center">
+*   [RLax (⭐1.1k)](https://github.com/deepmind/rlax) - Library for implementing reinforcement learning agents. <img src="https://img.shields.io/github/stars/deepmind/rlax?style=social" align="center">
 
 ## [6. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Competitive Analysis / GDPR
 
-*   [Google Cloud Developer's Cheat Sheet (⭐7.3k)](https://github.com/gregsramblings/google-cloud-4-words#the-google-cloud-developers-cheat-sheet) - Describe all GCP products in 4 words or less.
+*   [Google Cloud Developer's Cheat Sheet (⭐7.5k)](https://github.com/gregsramblings/google-cloud-4-words#the-google-cloud-developers-cheat-sheet) - Describe all GCP products in 4 words or less.
 
 ## [8. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/README.md)
 
@@ -134,7 +134,7 @@
 *   [**Fomantic-UI**](https://fomantic-ui.com/) - Build beautiful websites fast, with concise HTML, intuitive javascript, and simplified debugging.\
     ![](https://img.shields.io/github/stars/fomantic/fomantic-ui.svg?style=social\&label=Star)
     [Docs](https://fomantic-ui.com/introduction/getting-started.html),
-    [Repo (⭐3.1k)](https://github.com/fomantic/fomantic-ui/)
+    [Repo (⭐3.3k)](https://github.com/fomantic/fomantic-ui/)
     \| #LESS
 
 ### Stalled Development
@@ -142,20 +142,20 @@
 *   [**Semantic UI**](https://semantic-ui.com) - User interface is the language of the web.\
     ![](https://img.shields.io/github/stars/semantic-org/semantic-ui.svg?style=social\&label=Star)
     [Docs](https://semantic-ui.com/introduction/getting-started.html),
-    [Repo (⭐50k)](https://github.com/semantic-org/semantic-ui)
+    [Repo (⭐51k)](https://github.com/semantic-org/semantic-ui)
     \| #LESS
 
 ## [10. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Back-End Development
 
-*   [IAM (⭐1.2k)](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
+*   [IAM (⭐1.3k)](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### IDE and Code Editing
 
-*   [SoloLearn](https://code.sololearn.com) — A cloud programming playground well-suited for running code snippets. Supports various programming languages. No registration required for running code but required when you need to save code on their platform. Also offers free courses for begginers and intermediate level coders.
+*   [SoloLearn](https://code.sololearn.com) — A cloud programming playground well-suited for running code snippets. Supports various programming languages. No registration is required for running code, but it is necessary when saving code on their platform. Also offers free courses for beginners and intermediate-level coders.
 
 ### Other Free Resources
 
@@ -165,17 +165,17 @@
 
 ### Open Source / Other
 
-*   [Yana (⭐201)](https://github.com/lukasbach/yana) - Notebook app with rich-text notes, nested note organization and global search.
+*   [Yana (⭐219)](https://github.com/lukasbach/yana) - Notebook app with rich-text notes, nested note organization and global search.
 
 ## [13. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
-### Tools / i18n frameworks for developers
+### Tools / Libraries and tools for developers
 
 *   [Moment.js](https://momentjs.com/) - Parse, validate, manipulate and display dates and times in JavaScript.
 
 ### Tools / Other tools
 
-*   [SimpleLocalize CLI (⭐37)](https://github.com/simplelocalize/simplelocalize-cli) - A CLI for finding translation keys in project files.
+*   [SimpleLocalize CLI (⭐42)](https://github.com/simplelocalize/simplelocalize-cli) - A CLI for finding translation keys in project files.
 
 ### Articles / For developers
 
@@ -193,12 +193,12 @@
 *   Other
     *   [NeDB (⭐13k)](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript.
     *   [Lowdb (⭐20k)](https://github.com/typicode/lowdb) - Small JavaScript database powered by Lodash.
-    *   [Keyv (⭐2.2k)](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends.
-    *   [Finale (⭐183)](https://github.com/tommybananas/finale) - RESTful endpoint generator for your Sequelize models.
-    *   [database-js (⭐67)](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
-    *   [Mongo Seeding (⭐507)](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
-    *   [@databases (⭐531)](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
-    *   [pg-mem (⭐1.4k)](https://github.com/oguimbal/pg-mem) - In-memory PostgreSQL instance for your tests.
+    *   [Keyv (⭐2.3k)](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends.
+    *   [Finale (⭐184)](https://github.com/tommybananas/finale) - RESTful endpoint generator for your Sequelize models.
+    *   [database-js (⭐73)](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
+    *   [Mongo Seeding (⭐517)](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
+    *   [@databases (⭐554)](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
+    *   [pg-mem (⭐1.6k)](https://github.com/oguimbal/pg-mem) - In-memory PostgreSQL instance for your tests.
 
 ---
 

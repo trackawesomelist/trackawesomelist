@@ -34,12 +34,12 @@
 
 ### Node.js / Game Interaction
 
-*   [steam-gameserver (⭐12)](https://github.com/DoctorMcKay/node-steam-gameserver) - Steam client handler for Gameserver and AnonGameserver account types.
+*   [steam-gameserver (⭐15)](https://github.com/DoctorMcKay/node-steam-gameserver) - Steam client handler for Gameserver and AnonGameserver account types.
 
 ### PHP / Misc
 
 *   [steam-api (⭐79)](https://github.com/DaMitchell/steam-api-php) - A PHP wrapper for the Steam API.
-*   [steamid (⭐6)](https://github.com/DoctorMcKay/php-steamid) - SteamID class for PHP.
+*   [steamid (⭐8)](https://github.com/DoctorMcKay/php-steamid) - SteamID class for PHP.
 *   [steam-totp (⭐21)](https://github.com/DoctorMcKay/php-steam-totp) - PHP library to deal with Steam's proprietary TOTP algorithm.
 
 ## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)

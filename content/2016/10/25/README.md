@@ -21,11 +21,11 @@
 ### Key-value Data Model
 
 *   [SummitDB (⭐1.4k)](https://github.com/tidwall/summitdb) - an in-memory, NoSQL key/value database, with disk persistance and using the Raft consensus algorithm.
-*   [Tile38 (⭐8.3k)](https://github.com/tidwall/tile38) - a geolocation data store, spatial index, and realtime geofence, supporting a variety of object types including latitude/longitude points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON
+*   [Tile38 (⭐8.6k)](https://github.com/tidwall/tile38) - a geolocation data store, spatial index, and realtime geofence, supporting a variety of object types including latitude/longitude points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON
 
 ### Graph Data Model
 
-*   [EliasDB (⭐948)](https://github.com/krotik/eliasdb) - a lightweight graph based database that does not require any third-party libraries.
+*   [EliasDB (⭐965)](https://github.com/krotik/eliasdb) - a lightweight graph based database that does not require any third-party libraries.
 
 ### NewSQL Databases
 
@@ -33,8 +33,8 @@
 
 ### Applications
 
-*   [411 (⭐968)](https://github.com/etsy/411) - an web application for alert management resulting from scheduled searches into Elasticsearch.
-*   [Atlas (⭐3.1k)](https://github.com/Netflix/atlas) - a backend for managing dimensional time series data.
+*   [411 (⭐973)](https://github.com/etsy/411) - an web application for alert management resulting from scheduled searches into Elasticsearch.
+*   [Atlas (⭐3.3k)](https://github.com/Netflix/atlas) - a backend for managing dimensional time series data.
 
 ## [3. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

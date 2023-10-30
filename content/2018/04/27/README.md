@@ -10,14 +10,14 @@
 
 ### Implementations/Compilers
 
-*   [mint-lang (⭐3.8k)](https://github.com/mint-lang/mint) - A refreshing programming language for the front-end web
+*   [mint-lang (⭐3.9k)](https://github.com/mint-lang/mint) - A refreshing programming language for the front-end web
 *   [runic-lang](https://github.com/runic-lang) - In-design toy language
 
 ## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
-*   [aspnet-api-versioning (⭐2.4k)](https://github.com/Microsoft/aspnet-api-versioning) - set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core.
+*   [aspnet-api-versioning (⭐2.8k)](https://github.com/Microsoft/aspnet-api-versioning) - set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core.
 
 ---
 

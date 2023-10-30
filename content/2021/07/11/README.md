@@ -15,31 +15,27 @@
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Mocko.dev](https://mocko.dev/) — Proxy your API, choose which endpoints to mock in the cloud and inspect traffic, for free. Speed up your development and integrations tests.
+*   [Mocko.dev](https://mocko.dev/) — Proxy your API, choose which endpoints to mock in the cloud and inspect traffic, for free. Speed up your development and integration tests.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - SIP
 
-*   [SIPCAPTURE Homer](https://www.sipcapture.org/) - Troubleshooting and monitoring VoIP calls. ([Source Code (⭐1.3k)](https://github.com/sipcapture/homer)) `AGPL-3.0` `Angular/C`
+*   [SIPCAPTURE Homer](https://www.sipcapture.org/) - Troubleshooting and monitoring VoIP calls. ([Source Code (⭐1.4k)](https://github.com/sipcapture/homer)) `AGPL-3.0` `Nodejs/Go/Docker`
 
 ### Software / Genealogy
 
-*   [GeneWeb](https://geneweb.tuxfamily.org/wiki/GeneWeb) - GeneWeb is an open source genealogy software written in OCaml. It comes with a Web interface and can be used off-line or as a Web service. ([Demo](https://demo.geneweb.tuxfamily.org/gw7/), [Source Code (⭐256)](https://github.com/geneweb/geneweb)) `GPL-2.0` `OCaml`
-
-### Software / Pastebins
-
-*   [0bin (⭐1.3k)](https://github.com/Tygs/0bin) - Client side encrypted pastebin. ([Demo](https://0bin.net/)) `WTFPL` `Python`
+*   [GeneWeb](https://geneweb.tuxfamily.org/wiki/GeneWeb) - Genealogy software. It comes with a Web interface and can be used off-line or as a Web service. ([Demo](https://demo.geneweb.tuxfamily.org/gw7/), [Source Code (⭐269)](https://github.com/geneweb/geneweb)) `GPL-2.0` `OCaml`
 
 ### Software / Software Development - IDE & Tools
 
-*   [Lowdefy](https://www.lowdefy.com/) - Build internal tools, BI dashboards, admin panels, CRUD apps and workflows in minutes using YAML / JSON on an self-hosted, open-source platform. Connect to your data sources, host via Serverless, Netlify or Docker. ([Source Code (⭐2.2k)](https://github.com/lowdefy/lowdefy)) `Apache-2.0` `Nodejs`
+*   [Lowdefy](https://www.lowdefy.com/) - Build internal tools, BI dashboards, admin panels, CRUD apps and workflows in minutes using YAML / JSON on an self-hosted, open-source platform. Connect to your data sources, host via Serverless, Netlify or Docker. ([Source Code (⭐2.4k)](https://github.com/lowdefy/lowdefy)) `Apache-2.0` `Nodejs/Docker`
 
 ### Software / Wikis
 
-*   [Outline](https://www.getoutline.com/) `⚠` - An open, extensible, wiki for your team. ([Source Code (⭐19k)](https://github.com/outline/outline)) `BSD-3-Clause` `Nodejs`
+*   [Outline](https://www.getoutline.com/) `⚠` - An open, extensible, wiki for your team. ([Source Code (⭐21k)](https://github.com/outline/outline)) `BSD-3-Clause` `Nodejs/Docker`
 
 ---
 

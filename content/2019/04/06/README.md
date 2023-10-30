@@ -8,7 +8,7 @@
 
 ## [1. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Go / Angular
+### Go / Svelte
 
 *   [Go Gazette](http://www.go-gazette.com/). Weekly curated blogs and tools for Golang seniors.
 
@@ -16,11 +16,11 @@
 
 ### Frameworks, Libraries and Tools / API
 
-*   [WebAnchor (⭐25)](https://github.com/mattiasnordqvist/Web-Anchor) - Web Anchor provides type-safe, testable and flexible, runtime-generated access to web resources.
+*   [WebAnchor (⭐24)](https://github.com/mattiasnordqvist/Web-Anchor) - Web Anchor provides type-safe, testable and flexible, runtime-generated access to web resources.
 
 ### Frameworks, Libraries and Tools / Database Tools and Utilities
 
-*   [Evolve (⭐641)](https://github.com/lecaillon/Evolve) - Simple database migration tool that uses plain SQL scripts. Inspired by Flyway.
+*   [Evolve (⭐786)](https://github.com/lecaillon/Evolve) - Simple database migration tool that uses plain SQL scripts. Inspired by Flyway.
 
 ## [3. Public Apis](/content/public-apis/public-apis/README.md)
 

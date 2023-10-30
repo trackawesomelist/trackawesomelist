@@ -30,8 +30,8 @@
 
 ### IR Tools Collection / Log Analysis Tools
 
-*   [Lorg (⭐203)](https://github.com/jensvoid/lorg) - Tool for advanced HTTPD logfile security analysis and forensics.
-*   [Logdissect (⭐127)](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
+*   [Lorg (⭐204)](https://github.com/jensvoid/lorg) - Tool for advanced HTTPD logfile security analysis and forensics.
+*   [Logdissect (⭐130)](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
 
 ## [4. Awesome Food](/content/jzarca01/awesome-food/README.md)
 
@@ -86,20 +86,20 @@
 
 ### Applications / Games
 
-*   [rsaarelm/magog (⭐351)](https://github.com/rsaarelm/magog) — A roguelike game in Rust
-*   [Thinkofname/rust-quake (⭐58)](https://github.com/Thinkofname/rust-quake) — Quake map renderer in Rust
+*   [rsaarelm/magog (⭐360)](https://github.com/rsaarelm/magog) — A roguelike game in Rust
+*   [Thinkofname/rust-quake (⭐65)](https://github.com/Thinkofname/rust-quake) — Quake map renderer in Rust
 
 ### Applications / Industrial automation
 
-*   [locka99/opcua (⭐390)](https://github.com/locka99/opcua) — A pure rust [OPC UA](https://opcfoundation.org/about/opc-technologies/opc-ua/) library.
+*   [locka99/opcua (⭐416)](https://github.com/locka99/opcua) — A pure rust [OPC UA](https://opcfoundation.org/about/opc-technologies/opc-ua/) library.
 
 ### Applications / Text processing
 
-*   [whitfin/runiq (⭐185)](https://github.com/whitfin/runiq) — an efficient way to filter duplicate lines from unsorted input.
+*   [whitfin/runiq (⭐189)](https://github.com/whitfin/runiq) — an efficient way to filter duplicate lines from unsorted input.
 
 ### Applications / Utilities
 
-*   [brycx/checkpwn (⭐102)](https://github.com/brycx/checkpwn) — A Have I Been Pwned (HIBP) command-line utility tool that lets you easily check for compromised accounts and passwords.
+*   [brycx/checkpwn (⭐108)](https://github.com/brycx/checkpwn) — A Have I Been Pwned (HIBP) command-line utility tool that lets you easily check for compromised accounts and passwords.
 
 ### Development tools / IDEs
 
@@ -107,29 +107,29 @@
 
 ### Development tools / Transpiling
 
-*   [immunant/c2rust (⭐3.3k)](https://github.com/immunant/c2rust) — C to Rust translator and cross checker built atop Clang/LLVM.
+*   [immunant/c2rust (⭐3.4k)](https://github.com/immunant/c2rust) — C to Rust translator and cross checker built atop Clang/LLVM.
 *   [jameysharp/corrode (⭐2.1k)](https://github.com/jameysharp/corrode) — A C to Rust translator written in Haskell.
 
 ### Libraries / Game development
 
 *   Game Engines
-    *   [Bevy (⭐24k)](https://github.com/bevyengine/bevy) is a refreshingly simple data-driven game engine built in Rust. - [![Crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy)
+    *   [Bevy (⭐28k)](https://github.com/bevyengine/bevy) is a refreshingly simple data-driven game engine built in Rust. - [![Crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy)
         [![Crates.io](https://img.shields.io/crates/d/bevy.svg)](https://crates.io/crates/bevy)
     *   [Fyrox](https://fyrox.rs/) — Rust Game engine 3D [![Crates.io](https://img.shields.io/crates/v/fyrox.svg)](https://crates.io/crates/fyrox) [![license](https://img.shields.io/crates/l/fyrox.svg)](https://github.com/FyroxEngine/Fyrox/blob/master/LICENSE.md) [![Crates.io](https://img.shields.io/crates/d/fyrox.svg)](https://crates.io/crates/fyrox)
-    *   [ggez (⭐3.8k)](https://github.com/ggez/ggez) — A lightweight game framework for making 2D games with minimum friction - [![Crates.io](https://img.shields.io/crates/v/ggez.svg)](https://crates.io/crates/ggez) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ggez/ggez/blob/master/LICENSE) [![Crates.io](https://img.shields.io/crates/d/ggez.svg)](https://crates.io/crates/ggez)
+    *   [ggez (⭐3.9k)](https://github.com/ggez/ggez) — A lightweight game framework for making 2D games with minimum friction - [![Crates.io](https://img.shields.io/crates/v/ggez.svg)](https://crates.io/crates/ggez) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ggez/ggez/blob/master/LICENSE) [![Crates.io](https://img.shields.io/crates/d/ggez.svg)](https://crates.io/crates/ggez)
     *   [Kiss3d](http://kiss3d.org) — A Keep It Simple, Stupid 3d graphics engine written with Rust [![Crates.io](https://img.shields.io/crates/d/kiss3d.svg)](https://crates.io/crates/kiss3d)
-    *   [oxidator (⭐268)](https://github.com/Ruddle/oxidator) — A real time strategy game/engine written with Rust and WebGPU
+    *   [oxidator (⭐280)](https://github.com/Ruddle/oxidator) — A real time strategy game/engine written with Rust and WebGPU
     *   [Piston](https://www.piston.rs/) — [![Crates.io](https://img.shields.io/crates/v/piston.svg?style=flat-square)](https://crates.io/crates/piston) [![Crates.io](https://img.shields.io/crates/l/piston.svg)](https://github.com/PistonDevelopers/piston/blob/master/LICENSE) [![Crates.io](https://img.shields.io/crates/d/piston.svg)](https://crates.io/crates/piston)
-    *   [Unrust (⭐374)](https://github.com/unrust/unrust) — unrust — A pure rust based (webgl 2.0 / native) game engine
+    *   [Unrust (⭐372)](https://github.com/unrust/unrust) — unrust — A pure rust based (webgl 2.0 / native) game engine
 
 ### Libraries / GUI
 
-*   [autopilot-rs/autopilot-rs (⭐305)](https://github.com/autopilot-rs/autopilot-rs) — A simple, cross-platform GUI automation library for Rust.
+*   [autopilot-rs/autopilot-rs (⭐335)](https://github.com/autopilot-rs/autopilot-rs) — A simple, cross-platform GUI automation library for Rust.
 
 ### Libraries / Macro
 
 *   cute
-    *   [mattgathu/cute (⭐323)](https://github.com/mattgathu/cute) — Macro for Python-esque list comprehensions in Rust.
+    *   [mattgathu/cute (⭐329)](https://github.com/mattgathu/cute) — Macro for Python-esque list comprehensions in Rust.
 
 ## [9. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -141,21 +141,21 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-displacement-slideshow (⭐201)](https://github.com/AlbanCrepel/vue-displacement-slideshow) - A Vue.js component that makes Webgl image displacement transitions easier.
+*   [vue-displacement-slideshow (⭐203)](https://github.com/AlbanCrepel/vue-displacement-slideshow) - A Vue.js component that makes Webgl image displacement transitions easier.
 
 ## [11. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
 ### Writing / Social Sciences
 
-*   [rtd theme (⭐4.2k)](https://github.com/snide/sphinx_rtd_theme): Developed by ReadtheDocs.org
-*   [Alabaster (⭐666)](https://github.com/bitprophet/alabaster): Clean and simple
+*   [rtd theme (⭐4.4k)](https://github.com/snide/sphinx_rtd_theme): Developed by ReadtheDocs.org
+*   [Alabaster (⭐702)](https://github.com/bitprophet/alabaster): Clean and simple
 *   [Bootstrap theme](https://ryan-roemer.github.io/sphinx-bootstrap-theme/)
 *   [Hemingway App](https://hemingwayapp.com/): Highlights complex sentences, point out passive voice, and suggests alternative words.
-*   [proselint (⭐4.1k)](https://github.com/amperser/proselint): A linter for English prose using advice from *Garner's Modern American Usage* and more.
-*   [write good (⭐4.7k)](https://github.com/btford/write-good): Naive JavaScript linter for English prose.
-*   [artbollocks-mode (⭐66)](https://github.com/sachac/artbollocks-mode): Emacs minor mode for avoiding cliches and bad grammar when writing about art (or other topics).
+*   [proselint (⭐4.2k)](https://github.com/amperser/proselint): A linter for English prose using advice from *Garner's Modern American Usage* and more.
+*   [write good (⭐4.8k)](https://github.com/btford/write-good): Naive JavaScript linter for English prose.
+*   [artbollocks-mode (⭐68)](https://github.com/sachac/artbollocks-mode): Emacs minor mode for avoiding cliches and bad grammar when writing about art (or other topics).
 *   [`cut_the_crap.py`](https://jugad2.blogspot.com/2015/07/cut-crap-absolutely-essential-tool-for.html): Simple Python script to flag redundant words and gives alternative suggestions.
-*   [Rousseau (⭐171)](https://github.com/GitbookIO/rousseau): Lightweight proofreader written in JavaScript.
+*   [Rousseau (⭐178)](https://github.com/GitbookIO/rousseau): Lightweight proofreader written in JavaScript.
 *   [textlint-rule-rousseau (⭐7)](https://github.com/azu/textlint-rule-rousseau): A textlint rule to check English sentences using Rousseau.
 *   [De-Jargonizer](http://scienceandpublic.com/): Paste your article or upload file to analyze the amount of jargon in your writing.
 

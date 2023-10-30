@@ -12,8 +12,8 @@
 
 *   Object Factories
     *   [factory\_boy (⭐3.1k)](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python.
-    *   [mixer (⭐881)](https://github.com/klen/mixer) - Another fixtures replacement. Supports Django, Flask, SQLAlchemy, Peewee and etc.
-    *   [model\_mommy (⭐918)](https://github.com/vandersonmota/model_mommy) - Creating random fixtures for testing in Django.
+    *   [mixer (⭐905)](https://github.com/klen/mixer) - Another fixtures replacement. Supports Django, Flask, SQLAlchemy, Peewee and etc.
+    *   [model\_mommy (⭐915)](https://github.com/vandersonmota/model_mommy) - Creating random fixtures for testing in Django.
 
 ## [2. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

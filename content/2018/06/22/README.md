@@ -16,7 +16,7 @@
 
 ### Apps / Rich text editor extensions
 
-*   [wagtail-readinglevel (⭐17)](https://github.com/vixdigital/wagtail-readinglevel) – Wagtail plugin to determine the reading level of text input into a rich text field.
+*   [wagtail-readinglevel](https://github.com/vixdigital/wagtail-readinglevel) – Wagtail plugin to determine the reading level of text input into a rich text field.
 
 ## [3. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
@@ -29,13 +29,13 @@
 
 ### Schema / Changes
 
-*   [node-pg-migrate (⭐1.1k)](https://github.com/salsita/node-pg-migrate) - Node.js database migration management built exclusively for postgres. (But can also be used for other DBs conforming to SQL standard - e.g. CockroachDB.)
+*   [node-pg-migrate (⭐1.2k)](https://github.com/salsita/node-pg-migrate) - Node.js database migration management built exclusively for postgres. (But can also be used for other DBs conforming to SQL standard - e.g. CockroachDB.)
 
 ## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / File Transfer & Synchronization
 
-*   [ownCloud](https://owncloud.org/) - All-in-one solution for saving, synchronizing, viewing, editing and sharing files, calendars, address books and more. ([Source Code (⭐8k)](https://github.com/owncloud/core), [Clients (⭐8k)](https://github.com/owncloud/core/wiki/Apps)) `AGPL-3.0` `PHP`
+*   [ownCloud](https://owncloud.org/) - All-in-one solution for saving, synchronizing, viewing, editing and sharing files, calendars, address books and more. ([Source Code (⭐8.1k)](https://github.com/owncloud/core), [Clients (⭐8.1k)](https://github.com/owncloud/core/wiki/Apps)) `AGPL-3.0` `PHP/Docker/deb`
 
 ## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

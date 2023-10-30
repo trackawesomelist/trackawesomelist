@@ -24,34 +24,34 @@
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Coupler](https://www.coupler.io/) - Data integration tool that syncs between apps. It can create live dashboards and reports, transform and manipulate values, collect and back up insights. The free plan has unlimited users, 100 runs with 1000 rows a month and unlimited integrations.
+*   [Coupler](https://www.coupler.io/) - Data integration tool that syncs between apps. It can create live dashboards and reports, transform and manipulate values, and collect and back up insights. The free plan has unlimited users, 100 runs with 1000 monthly rows, and unlimited integrations.
 
 ### Messaging and Streaming
 
-*   [Upstash Kafka](https://upstash.com/kafka) - Serverless Kafka Cloud offering with per-request-pricing. It has a free tier with max 10000 messages per day.
+*   [Upstash Kafka](https://upstash.com/kafka) - Serverless Kafka Cloud offering with per-request-pricing. It has a free tier with a maximum of 10,000 messages per day.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Media Streaming - Multimedia Streaming
 
-*   [Dim (⭐3.3k)](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager fueled by dark forces. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere. `GPL-2.0` `Rust`
+*   [Dim (⭐3.5k)](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager fueled by dark forces. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere. `GPL-2.0` `Rust`
 
 ## [4. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / YouTube
 
-*   [ytdl-gui (⭐239)](https://github.com/JaGoLi/ytdl-gui): A simple-to-use, cross-platform graphical interface for youtube-dl
-*   [uYouPlus (⭐4.6k)](https://github.com/qnblackcat/uYouPlus): uYouPlus (uYou+) is an alternative YouTube app for Apple's iOS and iPadOS
-*   [SmartTubeNext (⭐9.7k)](https://github.com/yuliskov/SmartTubeNext): SmartTubeNext is an advanced YouTube app for Android TVs and TV boxes, free and open source. It is not a live TV client and does not support "YouTube TV"
-*   [ytcc (⭐151)](https://github.com/woefe/ytcc): Command line tool to keep track of your favorite playlists on YouTube and many other places. Can import youtube subscriptions from Google Takeout and provide them as an RSS feed for your favorite reader
-*   [smtube (⭐31)](https://github.com/smplayer-dev/smtube): Stand-alone YouTube video player
+*   [ytdl-gui (⭐246)](https://github.com/JaGoLi/ytdl-gui): A simple-to-use, cross-platform graphical interface for youtube-dl
+*   [uYouPlus (⭐5.5k)](https://github.com/qnblackcat/uYouPlus): uYouPlus (uYou+) is an alternative YouTube app for Apple's iOS and iPadOS
+*   [SmartTubeNext (⭐12k)](https://github.com/yuliskov/SmartTubeNext): SmartTubeNext is an advanced YouTube app for Android TVs and TV boxes, free and open source. It is not a live TV client and does not support "YouTube TV"
+*   [ytcc (⭐160)](https://github.com/woefe/ytcc): Command line tool to keep track of your favorite playlists on YouTube and many other places. Can import youtube subscriptions from Google Takeout and provide them as an RSS feed for your favorite reader
+*   [smtube (⭐36)](https://github.com/smplayer-dev/smtube): Stand-alone YouTube video player
     *   Website: <https://www.smtube.org>
     *   SMTube is part of SMPlayer
     *   SMPlayer website: <https://www.smplayer.info>
-    *   SMPlayer repository: [https://github.com/smplayer-dev/smplayer (⭐363)](https://github.com/smplayer-dev/smplayer)
-*   [minitube (⭐316)](https://github.com/flaviotordini/minitube): Lightweight youtube client with a kid-friendly interface. Can make playlists from search keywords
+    *   SMPlayer repository: [https://github.com/smplayer-dev/smplayer (⭐422)](https://github.com/smplayer-dev/smplayer)
+*   [minitube (⭐331)](https://github.com/flaviotordini/minitube): Lightweight youtube client with a kid-friendly interface. Can make playlists from search keywords
 
 ## [5. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
@@ -103,13 +103,13 @@
 
 ### Info / How To Read a Paper
 
-*   [Advice on reading academic papers](https://userpages.umbc.edu/\~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
+*   [Advice on reading academic papers](https://userpages.umbc.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
 
 ## [10. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
 ### LaTeX formulas on the web
 
-*   [xhub (⭐81)](https://github.com/nschloe/xhub) - Browser extension that lets you use LaTeX in GitHub pages. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+*   [xhub (⭐85)](https://github.com/nschloe/xhub) - Browser extension that lets you use LaTeX in GitHub pages. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
 ## [11. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 

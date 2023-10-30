@@ -103,11 +103,11 @@ $ git config --global merge.tool meld
 
 ### Testing
 
-*   [double (⭐44)](https://github.com/sonerdy/double) - Create stub dependencies for testing without overwriting global modules.
+*   [double (⭐45)](https://github.com/sonerdy/double) - Create stub dependencies for testing without overwriting global modules.
 
 ### Utilities
 
-*   [mnemonix (⭐36)](https://github.com/christhekeele/mnemonix) - A unified interface to key/value stores.
+*   [mnemonix (⭐38)](https://github.com/christhekeele/mnemonix) - A unified interface to key/value stores.
 
 ## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -149,7 +149,7 @@ $ git config --global merge.tool meld
 
 ### Packages / Utilities
 
-*   [Audion (⭐322)](https://github.com/google/audion) - Chrome extension that adds a Web Audio panel to Developer Tools.
+*   [Audion (⭐339)](https://github.com/google/audion) - Chrome extension that adds a Web Audio panel to Developer Tools.
 
 ---
 

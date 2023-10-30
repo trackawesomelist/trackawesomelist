@@ -34,27 +34,27 @@
 
 ### Framework Components
 
-*   [Athena Negotiation (⭐3)](https://github.com/athena-framework/negotiation) - Framework agnostic content negotiation library
+*   [Athena Negotiation (⭐4)](https://github.com/athena-framework/negotiation) - Framework agnostic content negotiation library
 
 ### Testing
 
-*   [Athena Spec (⭐3)](https://github.com/athena-framework/spec) - Common/helpful [Spec](https://crystal-lang.org/api/Spec.html) compliant testing utilities
+*   [Athena Spec (⭐2)](https://github.com/athena-framework/spec) - Common/helpful [Spec](https://crystal-lang.org/api/Spec.html) compliant testing utilities
 
 ## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
-*   💼 [Scrollbar Hide (⭐140)](https://github.com/reslear/tailwind-scrollbar-hide) - Adds `scrollbar-hide` class for visual hide scrollbar.
+*   💼 [Scrollbar Hide (⭐170)](https://github.com/reslear/tailwind-scrollbar-hide) - Adds `scrollbar-hide` class for visual hide scrollbar.
 
 ## [7. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Red Team Infrastructure Deployment / Development
 
-*   [Axiom (⭐3.3k)](https://github.com/pry0cc/axiom) -Axiom is a dynamic infrastructure framework to efficiently work with multi-cloud environments, build and deploy repeatable infrastructure focussed on offensive and defensive security.
+*   [Axiom (⭐3.5k)](https://github.com/pry0cc/axiom) -Axiom is a dynamic infrastructure framework to efficiently work with multi-cloud environments, build and deploy repeatable infrastructure focussed on offensive and defensive security.
 
 ### DevOps / Development
 
-*   [Trivy (⭐17k)](https://github.com/aquasecurity/trivy) - A simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for CI.
+*   [Trivy (⭐19k)](https://github.com/aquasecurity/trivy) - A simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for CI.
 
 ## [8. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Examples / Hardware Offload
 
-*   [ebpf-kill-example (⭐17)](https://github.com/niclashedam/ebpf-kill-example) - A fully documented and tested example of an eBPF probe that logs all force-kills and prints them out in user-space.
+*   [ebpf-kill-example (⭐18)](https://github.com/niclashedam/ebpf-kill-example) - A fully documented and tested example of an eBPF probe that logs all force-kills and prints them out in user-space.
 
 ## [11. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
 
@@ -88,9 +88,9 @@
 
 ### Data Visualization / Runner
 
-*   [echarts (⭐55k)](https://github.com/apache/echarts) - Enterprise Charts.
+*   [echarts (⭐56k)](https://github.com/apache/echarts) - Enterprise Charts.
 *   [G2 (⭐12k)](https://github.com/antvis/G2) - A highly interactive data-driven visualization grammar for statistical charts.
-*   [G2Plot (⭐2.4k)](https://github.com/antvis/G2Plot) - An interactive and responsive charting library. Based on the grammar of graphics.
+*   [G2Plot (⭐2.5k)](https://github.com/antvis/G2Plot) - An interactive and responsive charting library. Based on the grammar of graphics.
 
 ## [13. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 

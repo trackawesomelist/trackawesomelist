@@ -10,7 +10,7 @@
 
 ### Messaging and Streaming
 
-*   [synadia.com](https://synadia.com/ngs) — [NATS.io](https://nats.io) as a service. Global, AWS, GCP, and Azure. Free forever with 4k msg size, 50 active connections and 5GB of data per month.
+*   [synadia.com](https://synadia.com/ngs) — [NATS.io](https://nats.io) as a service. Global, AWS, GCP, and Azure. Free forever with 4k msg size, 50 active connections, and 5GB of data per month.
 
 ## [2. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/README.md)
 
@@ -23,7 +23,7 @@
 ### Realizers
 
 *   [Genl (⭐22)](https://github.com/kowey/GenI) - Surface realiser (part of a Natural Language Generation system) using Tree Adjoining Grammar.
-*   [JSrealB (⭐18)](https://github.com/rali-udem/JSrealB) - A JavaScript bilingual text realizer for web development.
+*   [JSrealB (⭐20)](https://github.com/rali-udem/JSrealB) - A JavaScript bilingual text realizer for web development.
 
 ## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -41,11 +41,11 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [prelude.ts (⭐364)](https://github.com/emmanueltouzery/prelude.ts) - Functional programming: immutable persistent collections, constructs such as Option and Either, and combinators.
+*   :octocat: [prelude.ts (⭐372)](https://github.com/emmanueltouzery/prelude.ts) - Functional programming: immutable persistent collections, constructs such as Option and Either, and combinators.
 
 ### Badges / Chrome Extensions
 
-*   [TypeScript Badges (⭐40)](https://github.com/ellerbrock/typescript-badges/)
+*   [TypeScript Badges (⭐43)](https://github.com/ellerbrock/typescript-badges/)
     [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/awesome/typescript125x28.png)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/code/typescript-125x28.png)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/love/typescript-125x28.png)](https://github.com/ellerbrock/typescript-badges/)
 
 ## [5. Awesome Testing](/content/TheJambo/awesome-testing/README.md)

@@ -30,7 +30,7 @@
 
 ### Mobile
 
-*   [jonathan (⭐152)](https://github.com/Rudolph-Miller/jonathan) - A JSON encoder and decoder. [MIT](https://opensource.org/licenses/MIT).
+*   [jonathan (⭐158)](https://github.com/Rudolph-Miller/jonathan) - A JSON encoder and decoder. [MIT](https://opensource.org/licenses/MIT).
 
 ### Community
 
@@ -40,30 +40,30 @@
 
 ### Resources
 
-*   [Low Resource Languages (⭐301)](https://github.com/RIchardLitt/low-resource-languages) - A list of resources for conservation, development, and documentation of low resource (human) languages.
+*   [Low Resource Languages (⭐343)](https://github.com/RIchardLitt/low-resource-languages) - A list of resources for conservation, development, and documentation of low resource (human) languages.
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-restricted-input (⭐11)](https://github.com/Scrum/vue-restricted-input) - Input mask library for vue.js based on [restricted-input (⭐65)](https://github.com/braintree/restricted-input)
+*   [vue-restricted-input (⭐11)](https://github.com/Scrum/vue-restricted-input) - Input mask library for vue.js based on [restricted-input (⭐64)](https://github.com/braintree/restricted-input)
 
 ## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Front-End Development
 
-*   [Tailwind CSS (⭐11k)](https://github.com/aniftyco/awesome-tailwindcss#readme) - Utility-first CSS framework for rapid UI development.
+*   [Tailwind CSS (⭐12k)](https://github.com/aniftyco/awesome-tailwindcss#readme) - Utility-first CSS framework for rapid UI development.
 
 ### Gaming
 
-*   [PlayCanvas (⭐208)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
+*   [PlayCanvas (⭐224)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
 
 ## [8. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Neural Natural Language Generation
 
-*   [graph-2-text (⭐147)](https://github.com/diegma/graph-2-text) - Graph to sequence implemented in Pytorch combining Graph convolutional networks and opennmt-py.
-*   [Transformers (⭐80k)](https://github.com/huggingface/transformers) - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+*   [graph-2-text (⭐151)](https://github.com/diegma/graph-2-text) - Graph to sequence implemented in Pytorch combining Graph convolutional networks and opennmt-py.
+*   [Transformers (⭐111k)](https://github.com/huggingface/transformers) - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 
 ## [9. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 

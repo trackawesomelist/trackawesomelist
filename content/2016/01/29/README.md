@@ -335,13 +335,13 @@
 
 ### Open Source / Other
 
-*   [Proton (⭐156)](https://github.com/steventhanna/proton) - Markdown editor with live preview.
+*   [Proton (⭐158)](https://github.com/steventhanna/proton) - Markdown editor with live preview.
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### SEO
 
-*   [prerender\_rails (⭐357)](https://github.com/prerender/prerender_rails) - Rails middleware gem for prerendering javascript-rendered pages on the fly for SEO.
+*   [prerender\_rails (⭐358)](https://github.com/prerender/prerender_rails) - Rails middleware gem for prerendering javascript-rendered pages on the fly for SEO.
 
 ## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -377,15 +377,15 @@ git config --list
 
 ### Queue
 
-*   [enm (⭐120)](https://github.com/basho/enm) - enm is an Erlang port driver that wraps the nanomsg C library.
+*   [enm (⭐119)](https://github.com/basho/enm) - enm is an Erlang port driver that wraps the nanomsg C library.
 
 ## [9. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### GUI Libs / XML
 
-*   [DLangUI (⭐743)](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorate, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE (⭐410)](https://github.com/buggins/dlangide).
-*   [DWT (⭐138)](https://github.com/d-widget-toolkit/dwt) - A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D. DWT was promoted as a semi-standard GUI library for D, but unfortunately didn't catch up popularity yet.
-*   [dqml (⭐41)](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language.
+*   [DLangUI (⭐772)](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorate, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE (⭐425)](https://github.com/buggins/dlangide).
+*   [DWT (⭐140)](https://github.com/d-widget-toolkit/dwt) - A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D. DWT was promoted as a semi-standard GUI library for D, but unfortunately didn't catch up popularity yet.
+*   [dqml (⭐40)](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language.
 
 ### Games / XML
 

@@ -10,18 +10,18 @@
 
 ### Clojure
 
-*   [Cloture (⭐356)](https://github.com/ruricolist/cloture) - Clojure in Common Lisp.
+*   [Cloture (⭐355)](https://github.com/ruricolist/cloture) - Clojure in Common Lisp.
 *   [cl-oju (⭐16)](https://github.com/eigenhombre/cl-oju/) - a few idioms, mostly relating to sequences, that I miss when writing Common Lisp. [MIT](https://opensource.org/licenses/MIT).
-*   [clj-con (⭐19)](https://github.com/dtenny/clj-con) - Clojure-style concurrency operations in Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [clj-con (⭐21)](https://github.com/dtenny/clj-con) - Clojure-style concurrency operations in Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 *   [clj-re (⭐7)](https://github.com/dtenny/clj-re/) - Clojure-style regular expression functions.
 
 ### Typing
 
-*   [typo (⭐27)](https://github.com/marcoheisig/Typo/) -  A portable type inference library for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [typo (⭐32)](https://github.com/marcoheisig/Typo/) -  A portable type inference library for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ### Others / OpenAPI, OData, OpenRPC
 
-*   [OpenRPC (⭐23)](https://github.com/40ants/openrpc) - OpenRPC implementation for Common Lisp. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [OpenRPC (⭐24)](https://github.com/40ants/openrpc) - OpenRPC implementation for Common Lisp. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   Automatic OpenRPC spec generation
     *   Automatic JSON-RPC client building by OpenRPC spec. This includes creation of Common Lisp classes and methods for making RPC requests and returning native CL objects.
     *   all JSON marshalling is done under the hood.
@@ -33,23 +33,23 @@
 
 ### Macro helpers / Third-party APIs
 
-*   [easy-macros (⭐17)](https://github.com/tdrhq/easy-macros/) -  an easy way to write 90% of your macros. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
+*   [easy-macros (⭐18)](https://github.com/tdrhq/easy-macros/) -  an easy way to write 90% of your macros. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ## [2. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ### Other plugins
 
 *   Dynamsoft
-    *   [Barcode Reader (⭐6)](https://github.com/xulihang/capacitor-plugin-dynamsoft-barcode-reader) - Scan barcodes and QR codes using Dynamsoft Barcode Reader.
+    *   [Barcode Reader (⭐7)](https://github.com/xulihang/capacitor-plugin-dynamsoft-barcode-reader) - Scan barcodes and QR codes using Dynamsoft Barcode Reader.
     *   [Camera Preview (⭐3)](https://github.com/tony-xlh/capacitor-plugin-camera-preview) - Access camera using Dynamsoft Camera Enhancer.
-    *   [Document Normalizer (⭐0)](https://github.com/tony-xlh/capacitor-plugin-dynamsoft-document-normalizer) - Scan documents using Dynamsoft Document Normalizer.
+    *   [Document Normalizer (⭐1)](https://github.com/tony-xlh/capacitor-plugin-dynamsoft-document-normalizer) - Scan documents using Dynamsoft Document Normalizer.
     *   [Label Recognizer (⭐0)](https://github.com/tony-xlh/capacitor-plugin-dynamsoft-label-recognizer) - Recognize text on labels like MRZ on passports using Dynamsoft Label Recognizer.
 
 ## [3. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Status Bar
 
-*   [tmux-ludanta (⭐0)](https://github.com/vascomfnunes/tmux-ludanta) - What's playing
+*   [tmux-ludanta (⭐1)](https://github.com/vascomfnunes/tmux-ludanta) - What's playing
     on an MPD local server.
 
 ## [4. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
@@ -62,7 +62,7 @@
 
 ### Game Development
 
-*   [SDL-Crystal-Bindings (⭐1)](https://github.com/Hadeweka/SDL-Crystal-Bindings) - Direct (unsafe) bindings to [SDL2](https://www.libsdl.org/), intended for writing own game libraries
+*   [SDL-Crystal-Bindings (⭐3)](https://github.com/Hadeweka/SDL-Crystal-Bindings) - Direct (unsafe) bindings to [SDL2](https://www.libsdl.org/), intended for writing own game libraries
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -97,14 +97,14 @@
 
 ### Tools
 
-*   [Magento 2 Database Synchronizer (⭐39)](https://github.com/jellesiderius/mage-db-sync) - Database synchronizer for Magento 2 (and Wordpress), based on Magerun2. Keeping development, staging and production in sync easily.
-*   [Subodha Magento2 Gulp Integration (⭐76)](https://github.com/subodha/magento-2-gulp) - Magento 2 Gulp Integration
+*   [Magento 2 Database Synchronizer (⭐46)](https://github.com/jellesiderius/mage-db-sync) - Database synchronizer for Magento 2 (and Wordpress), based on Magerun2. Keeping development, staging and production in sync easily.
+*   [Subodha Magento2 Gulp Integration (⭐75)](https://github.com/subodha/magento-2-gulp) - Magento 2 Gulp Integration
 
 ## [11. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Vendor Data Resources / Resilience and Natural Hazards
 
-*   [RiskFactor](https://firststreet.org/risk-factor/) - Provided by the First Street Foundation, this tool enables users to understand properties' environmental risks from flooding, wildfire and extreme heat. The tool communicates historic events, current risks, and future projections for properties based on peer-reviewed research.  Additional Information: [Access Census Tract Risk Data](https://firststreet.org/data-access/), [First Street Foundation Website](https://firststreet.org/)
+*   [RiskFactor](https://firststreet.org/risk-factor/) - Provided by the First Street Foundation, this tool enables users to understand properties' environmental risks from flooding, wildfire and extreme heat. The tool communicates historic events, current risks, and future projections for properties based on peer-reviewed research. Additional Information: [Access Census Tract Risk Data](https://firststreet.org/data-access/), [First Street Foundation Website](https://firststreet.org/)
 
 ## [12. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
@@ -126,7 +126,7 @@
 
 ### Charts / Checkbox
 
-*   [Layer Cake (⭐836)](https://github.com/mhkeller/layercake) - A framework for mostly-reusable graphics with svelte
+*   [Layer Cake (⭐976)](https://github.com/mhkeller/layercake) - A framework for mostly-reusable graphics with svelte
 
 ## [15. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -192,15 +192,15 @@
 
 ## [18. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
-*   [tfautomv (⭐499)](https://github.com/padok-team/tfautomv) - Generate Terraform `moved` blocks automatically for painless refactoring
+*   [tfautomv (⭐589)](https://github.com/padok-team/tfautomv) - Generate Terraform `moved` blocks automatically for painless refactoring
 
 ## [19. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### File Manipulation
 
-*   [FileStorage plugin (⭐3)](https://github.com/dereuromark/cakephp-file-storage) - Flexible file storage and upload plugin.
+*   [FileStorage plugin (⭐4)](https://github.com/dereuromark/cakephp-file-storage) - Flexible file storage and upload plugin.
 
 ---
 

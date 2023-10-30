@@ -10,23 +10,23 @@
 
 ### Libraries / New Libraries
 
-*   [delta PV (⭐46)](https://github.com/romanodev/deltapv) - A photovoltaic simulator with automatic differentation. <img src="https://img.shields.io/github/stars/romanodev/deltapv?style=social" align="center">
+*   [delta PV (⭐50)](https://github.com/romanodev/deltapv) - A photovoltaic simulator with automatic differentation. <img src="https://img.shields.io/github/stars/romanodev/deltapv?style=social" align="center">
 
 ## [2. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Sample Projects / PHP
 
-*   [Symfony 5 DDD ES CQRS backend (⭐958)](https://github.com/jorge07/symfony-5-es-cqrs-boilerplate) - DDD, CQRS and Event Sourcing app using Symfony and PHP 8.
+*   [Symfony 5 DDD ES CQRS backend (⭐1k)](https://github.com/jorge07/symfony-5-es-cqrs-boilerplate) - DDD, CQRS and Event Sourcing app using Symfony and PHP 8.
 
 ## [3. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
 ### MVVM
 
-*   [EBind (⭐146)](https://github.com/SIDOVSKY/EBind) - Concise, fast and feature-rich .NET data binding with some Xamarin goodies.
+*   [EBind (⭐148)](https://github.com/SIDOVSKY/EBind) - Concise, fast and feature-rich .NET data binding with some Xamarin goodies.
 
 ### Security
 
-*   [Portable.BouncyCastle ★136 (⭐167)](https://github.com/novotnyllc/bc-csharp) - Portable version of Bouncy Castle with support for .NET 4, .NET Standard 2.0, MonoAndroid, Xamarin.iOS, .NET Core.
+*   [Portable.BouncyCastle ★136 (⭐168)](https://github.com/novotnyllc/bc-csharp) - Portable version of Bouncy Castle with support for .NET 4, .NET Standard 2.0, MonoAndroid, Xamarin.iOS, .NET Core.
 
 ### UI
 
@@ -55,26 +55,26 @@
 
 ### Components & Libraries / UI Components
 
-*   [v-viewer (⭐2.2k)](https://github.com/mirari/v-viewer) - Image viewer component for vue2 and vue3, supports rotation, scale, zoom and so on, based on [viewer.js (⭐7.1k)](https://github.com/fengyuanchen/viewerjs)
+*   [v-viewer (⭐2.3k)](https://github.com/mirari/v-viewer) - Image viewer component for vue2 and vue3, supports rotation, scale, zoom and so on, based on [viewer.js (⭐7.3k)](https://github.com/fengyuanchen/viewerjs)
 
 ## [6. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Python / Indicators
 
-*   [Tulipy (⭐79)](https://github.com/cirla/tulipy) - Financial Technical Analysis Indicator Library (Python bindings for [tulipindicators (⭐703)](https://github.com/TulipCharts/tulipindicators))
+*   [Tulipy (⭐87)](https://github.com/cirla/tulipy) - Financial Technical Analysis Indicator Library (Python bindings for [tulipindicators (⭐743)](https://github.com/TulipCharts/tulipindicators))
 
 ### Python / Trading & Backtesting
 
 *   [qtpylib (⭐2k)](https://github.com/ranaroussi/qtpylib) - QTPyLib, Pythonic Algorithmic Trading <http://qtpylib.io>
-*   [Qlib (⭐11k)](https://github.com/microsoft/qlib) - An AI-oriented Quantitative Investment Platform by Microsoft. Full ML pipeline of data processing, model training, back-testing; and covers the entire chain of quantitative investment: alpha seeking, risk modeling, portfolio optimization, and order execution.
+*   [Qlib (⭐13k)](https://github.com/microsoft/qlib) - An AI-oriented Quantitative Investment Platform by Microsoft. Full ML pipeline of data processing, model training, back-testing; and covers the entire chain of quantitative investment: alpha seeking, risk modeling, portfolio optimization, and order execution.
 
 ### Python / Time Series
 
-*   [tsmoothie (⭐595)](https://github.com/cerlymarco/tsmoothie) - A python library for time-series smoothing and outlier detection in a vectorized way.
+*   [tsmoothie (⭐638)](https://github.com/cerlymarco/tsmoothie) - A python library for time-series smoothing and outlier detection in a vectorized way.
 
 ### Python / Data Sources
 
-*   [FinanceDataReader (⭐910)](https://github.com/FinanceData/FinanceDataReader) - Open Source Financial data reader for U.S, Korean, Japanese, Chinese, Vietnamese Stocks
+*   [FinanceDataReader (⭐960)](https://github.com/FinanceData/FinanceDataReader) - Open Source Financial data reader for U.S, Korean, Japanese, Chinese, Vietnamese Stocks
 
 ### R / Financial Instruments and Pricing
 
@@ -94,13 +94,15 @@
     *   [RQuantLib](http://dirk.eddelbuettel.com/code/rquantlib.html) - R port.
     *   [QuantLibAddin](https://www.quantlib.org/quantlibaddin/) - Excel support.
     *   [QuantLibXL](https://www.quantlib.org/quantlibxl/) - Excel support.
-    *   [QLNet (⭐329)](https://github.com/amaggiulli/qlnet) - .Net port.
-    *   [PyQL (⭐802)](https://github.com/enthought/pyql) - Python port.
-    *   [QuantLib.jl (⭐126)](https://github.com/pazzo83/QuantLib.jl) - Julia port.
+    *   [QLNet (⭐348)](https://github.com/amaggiulli/qlnet) - .Net port.
+    *   [PyQL (⭐858)](https://github.com/enthought/pyql) - Python port.
+    *   [QuantLib.jl (⭐130)](https://github.com/pazzo83/QuantLib.jl) - Julia port.
+    *   [QuantLib-Python Documentation](https://quantlib-python-docs.readthedocs.io/) - Documentation for the Python bindings for the QuantLib library
+    *   [QuantLib with Automatic Differention enabled (⭐11)](https://github.com/auto-differentiation/quantlib-xad) - Integration of Automatic Differentiation with the QuantLib library
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [MEDIUM\_NoteBook (⭐1.8k)](https://github.com/cerlymarco/MEDIUM_NoteBook) - Repository containing notebooks of [cerlymarco](https://github.com/cerlymarco)'s posts on Medium.
+*   [MEDIUM\_NoteBook (⭐1.9k)](https://github.com/cerlymarco/MEDIUM_NoteBook) - Repository containing notebooks of [cerlymarco](https://github.com/cerlymarco)'s posts on Medium.
 
 ---
 

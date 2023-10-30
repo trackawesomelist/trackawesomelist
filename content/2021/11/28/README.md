@@ -16,7 +16,7 @@
 
 ### Honeypots / Supply chain security
 
-*   [Manuka (⭐293)](https://github.com/spaceraccoon/manuka) - Open-sources intelligence (OSINT) honeypot that monitors reconnaissance attempts by threat actors and generates actionable intelligence for Blue Teamers.
+*   [Manuka (⭐298)](https://github.com/spaceraccoon/manuka) - Open-sources intelligence (OSINT) honeypot that monitors reconnaissance attempts by threat actors and generates actionable intelligence for Blue Teamers.
 
 ### Preparedness training and wargaming / Firewall appliances or distributions
 
@@ -24,13 +24,13 @@
 
 ### Windows-based defenses / Overlay and Virtual Private Networks (VPNs)
 
-*   [CobaltStrikeScan (⭐787)](https://github.com/Apr4h/CobaltStrikeScan) - Scan files or process memory for Cobalt Strike beacons and parse their configuration.
+*   [CobaltStrikeScan (⭐817)](https://github.com/Apr4h/CobaltStrikeScan) - Scan files or process memory for Cobalt Strike beacons and parse their configuration.
 
 ## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Hybrid
 
-*   [BlazorInAngularDemo (⭐22)](https://github.com/Xenoage/BlazorInAngularDemo) - ![last commit](https://img.shields.io/github/last-commit/Xenoage/BlazorInAngularDemo?style=flat-square\&cacheSeconds=86400) Demonstrates how an existing Angular app can be migrated to Blazor gradually by integrating Blazor components, including calling Angular service methods. [Demo](https://xenoage.github.io/BlazorInAngularDemo/).
+*   [BlazorInAngularDemo (⭐25)](https://github.com/Xenoage/BlazorInAngularDemo) - ![last commit](https://img.shields.io/github/last-commit/Xenoage/BlazorInAngularDemo?style=flat-square\&cacheSeconds=86400) Demonstrates how an existing Angular app can be migrated to Blazor gradually by integrating Blazor components, including calling Angular service methods. [Demo](https://xenoage.github.io/BlazorInAngularDemo/).
 
 ## [4. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
@@ -50,8 +50,8 @@
 
 ### Xamarin.Forms
 
-*   [Xamarin.Forms.Skeleton (⭐381)](https://github.com/HorusSoftwareUY/Xamarin.Forms.Skeleton) - The latest trend for loading approaches in Xamarin Forms apps. Skeleton can be easily implemented on each view contained in your Xaml.
-*   [MaterialDesignControlsPlugin (⭐229)](https://github.com/HorusSoftwareUY/MaterialDesignControlsPlugin) - MaterialDesignControls Plugin for Xamarin Forms is a collection of Xamarin.Forms controls that apply the Material Design Guidelines.
+*   [Xamarin.Forms.Skeleton (⭐399)](https://github.com/HorusSoftwareUY/Xamarin.Forms.Skeleton) - The latest trend for loading approaches in Xamarin Forms apps. Skeleton can be easily implemented on each view contained in your Xaml.
+*   [MaterialDesignControlsPlugin (⭐244)](https://github.com/HorusSoftwareUY/MaterialDesignControlsPlugin) - MaterialDesignControls Plugin for Xamarin Forms is a collection of Xamarin.Forms controls that apply the Material Design Guidelines.
 
 ### Websites
 
@@ -89,7 +89,7 @@
 
 ### Harvard / Commonsense Knowledgebase
 
-*   [Samuel Gershman](https://psychology.fas.harvard.edu/people/samuel-j-gershman) - ***Harvard***, [Computational Cognitive Neuroscience Lab (CCN Lab)](https://gershmanlab.com/) - ***Department of Psychology, Harvard***.
+*   [Samuel Gershman](https://psychology.fas.harvard.edu/people/samuel-j-gershman) - ***Department of Psychology, Harvard***, [Computational Cognitive Neuroscience Lab (CCN Lab)](https://gershmanlab.com/) - ***Harvard***.
 
 ## [10. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

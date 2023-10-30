@@ -16,7 +16,7 @@
 
 ### CLI Builder
 
-*   [Terrapin (⭐203)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
+*   [Terrapin (⭐217)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
 
 ### Debugging Tools
 
@@ -60,13 +60,12 @@
 
 ### Clients
 
-*   [npm (⭐6.5k)](https://github.com/npm/cli) - The official client.
+*   [npm (⭐7.2k)](https://github.com/npm/cli) - The official client.
 
 ## [9. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Useful Apps / Android
 
-*   **Home Remote Control** - Control mouse/keyboard, volume, manage download/upload files, custom commands, terminal, execute tasks in future, control media. [Android](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcontrolcenter)
 *   **Screen Stream Mirroring** - To stream your phone screen directly to Pi. [Android](https://play.google.com/store/apps/details?id=com.mobzapp.screenstream.trial)
 *   **Termius** - One of the cleanest SSH Client for Pi. [Android](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client), [iOS](https://itunes.apple.com/us/app/termius-ssh-shell-console-terminal/id549039908?mt=8)
 *   **Tubio** - Cast web videos directly to Pi. [Android](https://play.google.com/store/apps/details?id=com.aesoftware.tubio)
@@ -83,19 +82,19 @@
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [CoreWiki (⭐374)](https://github.com/csharpfritz/CoreWiki) - Simple ASP.NET Core wiki that we are working on during live coding streams.
+*   [CoreWiki (⭐389)](https://github.com/csharpfritz/CoreWiki) - Simple ASP.NET Core wiki that we are working on during live coding streams.
 
 ## [12. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Components / Themes
 
-*   [antd-table-infinity (⭐277)](https://github.com/Leonard-Li777/antd-table-infinity) - An infinite scroll component based on antd table that supports virtual scrolling & high-performance
+*   [antd-table-infinity (⭐283)](https://github.com/Leonard-Li777/antd-table-infinity) - An infinite scroll component based on antd table that supports virtual scrolling & high-performance
 
 ## [13. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Tools and session management
 
-*   [tmux-up (⭐110)](https://github.com/jamesottaway/tmux-up) Bootstrap new `tmux` sessions without complex tools, DSLs, or dependencies
+*   [tmux-up (⭐111)](https://github.com/jamesottaway/tmux-up) Bootstrap new `tmux` sessions without complex tools, DSLs, or dependencies
 
 ### Miscellaneous / Development and testing
 
@@ -158,7 +157,7 @@
 
 ### Anime
 
-- API: [AniList (⭐779)](https://github.com/AniList/ApiV2-GraphQL-Docs)
+- API: [AniList (⭐951)](https://github.com/AniList/ApiV2-GraphQL-Docs)
 
   Description: Anime discovery & tracking
 
@@ -230,7 +229,7 @@
   CORS: Unknown
 
 
-- API: [Harvard Art Museums (⭐263)](https://github.com/harvardartmuseums/api-docs)
+- API: [Harvard Art Museums (⭐314)](https://github.com/harvardartmuseums/api-docs)
 
   Description: Art
 
@@ -976,7 +975,7 @@
   CORS: Unknown
 
 
-- API: [TacoFancy (⭐102)](https://github.com/evz/tacofancy-api)
+- API: [TacoFancy (⭐110)](https://github.com/evz/tacofancy-api)
 
   Description: Community-driven taco database
 
@@ -987,7 +986,7 @@
   CORS: Unknown
 
 
-- API: [The Report of the Week (⭐20)](https://github.com/andyklimczak/TheReportOfTheWeek-API)
+- API: [The Report of the Week (⭐24)](https://github.com/andyklimczak/TheReportOfTheWeek-API)
 
   Description: Food & Drink Reviews
 
@@ -1334,7 +1333,7 @@
   CORS: Yes
 
 
-- API: [Mexico (⭐62)](https://github.com/IcaliaLabs/sepomex)
+- API: [Mexico (⭐63)](https://github.com/IcaliaLabs/sepomex)
 
   Description: Mexico RESTful zip codes API
 
@@ -1924,7 +1923,7 @@
   CORS: Yes
 
 
-- API: [Feedbin (⭐287)](https://github.com/feedbin/feedbin-api)
+- API: [Feedbin (⭐314)](https://github.com/feedbin/feedbin-api)
 
   Description: RSS reader
 
@@ -1968,7 +1967,7 @@
   CORS: Unknown
 
 
-- API: [The Old Reader (⭐177)](https://github.com/theoldreader/api)
+- API: [The Old Reader (⭐185)](https://github.com/theoldreader/api)
 
   Description: RSS reader
 
@@ -2059,7 +2058,7 @@
   CORS: Unknown
 
 
-- API: [Universities List (⭐945)](https://github.com/Hipo/university-domains-list)
+- API: [Universities List (⭐1.1k)](https://github.com/Hipo/university-domains-list)
 
   Description: University names, countries and domains
 
@@ -2200,7 +2199,7 @@
   CORS: Unknown
 
 
-- API: [Medium (⭐2.1k)](https://github.com/Medium/medium-api-docs)
+- API: [Medium (⭐2.2k)](https://github.com/Medium/medium-api-docs)
 
   Description: Community of readers and writers offering unique perspectives on ideas
 
@@ -2432,7 +2431,7 @@
   CORS: Unknown
 
 
-- API: [HackerNews (⭐9.4k)](https://github.com/HackerNews/API)
+- API: [HackerNews (⭐10k)](https://github.com/HackerNews/API)
 
   Description: Social news for CS and entrepreneurship
 
@@ -2788,7 +2787,7 @@
   CORS: Unknown
 
 
-- API: [Community Transit (⭐102)](https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints)
+- API: [Community Transit (⭐104)](https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints)
 
   Description: Transitland API
 
@@ -2964,7 +2963,7 @@
   CORS: Unknown
 
 
-- API: [Transport for The Netherlands (⭐77)](https://github.com/skywave/KV78Turbo-OVAPI/wiki)
+- API: [Transport for The Netherlands (⭐83)](https://github.com/skywave/KV78Turbo-OVAPI/wiki)
 
   Description: OVAPI, country-wide public transport
 
@@ -3094,7 +3093,7 @@
   CORS: Unknown
 
 
-- API: [Breaking Bad Quotes (⭐209)](https://github.com/shevabam/breaking-bad-quotes)
+- API: [Breaking Bad Quotes (⭐316)](https://github.com/shevabam/breaking-bad-quotes)
 
   Description: Some Breaking Bad quotes
 
@@ -3138,7 +3137,7 @@
   CORS: Unknown
 
 
-- API: [Ron Swanson Quotes (⭐277)](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api)
+- API: [Ron Swanson Quotes (⭐294)](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api)
 
   Description: Television
 

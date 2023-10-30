@@ -10,7 +10,7 @@
 
 ### FIAT
 
-*   [My Expenses (⭐551)](https://github.com/mtotschnig/MyExpenses) - Featureful GPL licenced Android Expense Tracking App.
+*   [My Expenses (⭐603)](https://github.com/mtotschnig/MyExpenses) - Featureful GPL licenced Android Expense Tracking App.
 
 ## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -36,11 +36,11 @@
 
 ### Web Hosting
 
-*   [Stormkit](https://stormkit.io/) — Integrate building, deploying and hosting seamlessly with your git flow of your JAMStack or Node.JS app. 50 GB bandwith and 10m requests for free per month including free SSL.
+*   [Stormkit](https://stormkit.io/) — Integrate building, deploying, and hosting seamlessly with the git flow of your JAMStack or Node.JS app. 50 GB bandwidth and 10m monthly requests for free, including free SSL.
 
 ### Miscellaneous
 
-*   [redirect.pizza](https://redirect.pizza/) - Easily manage redirects with HTTPS support. Free plan includes 10 sources and 100.000 hits per month.
+*   [redirect.pizza](https://redirect.pizza/) - Easily manage redirects with HTTPS support. The free plan includes 10 sources and 100,000 hits per month.
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

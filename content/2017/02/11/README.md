@@ -16,13 +16,13 @@
 
 ### services
 
-*   [featureserver (⭐96)](https://github.com/featureserver/featureserver): An open source Esri-Style Feature Server
+*   [featureserver (⭐99)](https://github.com/featureserver/featureserver): An open source Esri-Style Feature Server
 
 ## [3. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
-*   [rg (⭐35k)](https://github.com/BurntSushi/ripgrep) - ripgrep is a line oriented search tool that combines the usability of The Silver Searcher with the raw speed of GNU grep
+*   [rg (⭐38k)](https://github.com/BurntSushi/ripgrep) - ripgrep is a line oriented search tool that combines the usability of The Silver Searcher with the raw speed of GNU grep
 
 ### Shell Script Development / See also
 
@@ -44,7 +44,7 @@
 
 ### Libraries / GUI
 
-*   [saurvs/nfd-rs (⭐154)](https://github.com/saurvs/nfd-rs) — [nativefiledialog (⭐1.6k)](https://github.com/mlabbe/nativefiledialog) bindings
+*   [saurvs/nfd-rs (⭐151)](https://github.com/saurvs/nfd-rs) — [nativefiledialog (⭐1.6k)](https://github.com/mlabbe/nativefiledialog) bindings
 
 ## [7. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
@@ -87,7 +87,7 @@
 ### Containers / Docker
 
 *   [elgalu/docker-selenium (⭐1.4k)](https://github.com/elgalu/docker-selenium) - Selenium in Docker with Chrome & Firefox plus video recording support.
-*   [SeleniumHQ/docker-selenium (⭐6.3k)](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox.
+*   [SeleniumHQ/docker-selenium (⭐6.9k)](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox.
 
 ## [11. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 

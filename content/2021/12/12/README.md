@@ -10,7 +10,7 @@
 
 ### IDE
 
-*   [DataStation (⭐2.7k)](https://github.com/multiprocessio/datastation) - Easily query, script, and visualize data from every database, file, and API.
+*   [DataStation (⭐2.8k)](https://github.com/multiprocessio/datastation) - Easily query, script, and visualize data from every database, file, and API.
 
 ## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

@@ -16,39 +16,31 @@
 
 ### Applications
 
-*   [Cryptor (⭐28)](https://github.com/cpl/cryptor): Overlay P2P network that values your privacy and anonymity above all else. Packages and some clients included.
+*   [Cryptor (⭐29)](https://github.com/cpl/cryptor): Overlay P2P network that values your privacy and anonymity above all else. Packages and some clients included.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-### Software / Communication - XMPP - Servers
-
-*   [jackal (⭐1.4k)](https://github.com/ortuman/jackal) - XMPP server with focus on stability, simple configuration and low resource consumption. `Apache-2.0` `Go`
-
-### Software / Money, Budgeting & Management
-
-*   [budgetzero (⭐560)](https://github.com/budgetzero/budgetzero) - Free, self-hosted, open-source, envelope-budgeting web and desktop app. ([Demo](https://app.budgetzero.io/budget)) `AGPL-3.0` `Nodejs`
-
 ### Software / Note-taking & Editors
 
-*   [Notes'n'Todos (⭐18)](https://github.com/larspontoppidan/notesntodos) - Write notes and todos online in markdown with tag filtering and date sorting. ([Demo](https://lpss.dk/nnt-playground/)) `MIT` `Python`
+*   [Notes'n'Todos (⭐21)](https://github.com/larspontoppidan/notesntodos) - Write notes and todos online in markdown with tag filtering and date sorting. ([Demo](https://lpss.dk/nnt-playground/)) `MIT` `Python`
 
 ## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Command-line
 
 *   Data visualization
-    *   [nukesor/comfy-table (⭐642)](https://github.com/nukesor/comfy-table) \[[comfy-table](https://crates.io/crates/comfy-table)] — Beautiful dynamic tables for your cli tools. [![Build status](https://github.com/Nukesor/comfy-table/workflows/Tests/badge.svg?branch=master)](https://github.com/nukesor/comfy-table/actions)
-    *   [zhiburt/tabled (⭐1.4k)](https://github.com/zhiburt/tabled) \[[tabled](https://crates.io/crates/tabled)] — An easy to use library for pretty print tables of Rust structs and enums. [![Build Status](https://github.com/zhiburt/tabled/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/tabled/actions)
+    *   [nukesor/comfy-table (⭐773)](https://github.com/nukesor/comfy-table) \[[comfy-table](https://crates.io/crates/comfy-table)] — Beautiful dynamic tables for your cli tools. [![Build status](https://github.com/Nukesor/comfy-table/workflows/Tests/badge.svg?branch=master)](https://github.com/nukesor/comfy-table/actions)
+    *   [zhiburt/tabled (⭐1.6k)](https://github.com/zhiburt/tabled) \[[tabled](https://crates.io/crates/tabled)] — An easy to use library for pretty print tables of Rust structs and enums. [![Build Status](https://github.com/zhiburt/tabled/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/tabled/actions)
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue3-openlayers (⭐455)](https://github.com/MelihAltintas/vue3-openlayers) - Vue 3 components to work with OpenLayers.
+*   [vue3-openlayers (⭐534)](https://github.com/MelihAltintas/vue3-openlayers) - Vue 3 components to work with OpenLayers.
 
 ## [6. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Marketing / Angular
+### Marketing / Svelte
 
 *   [Zero to Marketing](https://zerotomarketing.com/). A weekly email with 5-minute case study with actionable tips.
 
@@ -77,28 +69,28 @@
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Deepnote](https://deepnote.com) - A new kind of data science notebook. Jupyter-compatible with real-time collaboration and running in the cloud. Free tier includes unlimited personal projects, up to 750 hours of standard hardware and teams with up to 3 editors.
+*   [Deepnote](https://deepnote.com) - A new data science notebook. Jupyter is compatible with real-time collaboration and running in the cloud. The free tier includes unlimited personal projects, up to 750 hours of standard hardware, and teams with up to 3 editors.
 *   [reqres.in](https://reqres.in) - A Free hosted REST-API ready to respond to your AJAX requests.
 
 ### Tools for Teams and Collaboration
 
-*   [Duckly](https://duckly.com/) — Talk and collaborate in real-time with your team. Pair programming with any IDE, terminal sharing, voice, video and screen sharing. Free for small teams.
-*   [robocorp.com](https://robocorp.com) - Open-source stack for powering Automation Ops. Try out Cloud features and implement simple automations for free. Robot work 240 min/month, 10 Assistant runs, Storage of 100 MB.
+*   [Duckly](https://duckly.com/) — Talk and collaborate in real time with your team. Pair programming with IDE, terminal sharing, voice, video, and screen sharing. Free for small teams.
+*   [robocorp.com](https://robocorp.com) - Open-source stack for powering Automation Ops. Try out Cloud features and implement simple automation for free. Robot work 240 min/month, 10 Assistant runs, Storage of 100 MB.
 
 ### Security and PKI
 
-*   [reCAPTCHAMe](https://recaptchame.com/) — free reCAPTCHA and hCAPTCHA backend service. No Server-Side coding needed. Works for static websites.
+*   [reCAPTCHAMe](https://recaptchame.com/) — free reCAPTCHA and hCAPTCHA backend service. No Server-Side coding is needed. Works for static websites.
 
 ### Design and UI
 
 *   [smartmockups.com](https://smartmockups.com/) — Create product mockups, 200 free mockups.
-*   [Updrafts.app](https://updrafts.app) - WYSIWYG web site builder for tailwindcss based designs. Free for non-commercial usage.
+*   [Updrafts.app](https://updrafts.app) - WYSIWYG website builder for tailwindcss-based designs. Free for non-commercial usage.
 
 ### Privacy Management
 
-*   [Bearer](https://www.bearer.sh/) - Helps implement privacy by design via audits and continuous workflows so that organizations comply with GDPR and other regulations. Free tier is limited to smaller teams and SaaS version only.
+*   [Bearer](https://www.bearer.sh/) - Helps implement privacy by design via audits and continuous workflows so that organizations comply with GDPR and other regulations. The free tier is limited to smaller teams and the SaaS version only.
 
 ## [11. Public Apis](/content/public-apis/public-apis/README.md)
 

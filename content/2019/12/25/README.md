@@ -14,7 +14,7 @@
 
 ## [2. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### PaaS
+### PaaS / Text-Based User Interfaces
 
 *   [Google Cloud ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg)](https://cloud.google.com) - Google's cloud infrastructure.
 *   [OpenShift ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg)](https://www.openshift.com) - Provides additionally an on-premise solution.

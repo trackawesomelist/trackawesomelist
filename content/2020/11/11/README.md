@@ -16,7 +16,7 @@
 
 ### Packages / Miscellaneous
 
-*   [editly (⭐4.1k)](https://github.com/mifi/editly) - Declarative video editing API.
+*   [editly (⭐4.3k)](https://github.com/mifi/editly) - Declarative video editing API.
 
 ## [3. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -59,15 +59,15 @@
 
 ## [8. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
-### Authentication / Password-based
+### Password-based auth / Identifiers
 
 *   [Practical Recommendations for Stronger, More Usable Passwords](http://www.andrew.cmu.edu/user/nicolasc/publications/Tan-CCS20.pdf) - This study recommend the association of: blocklist checks against commonly leaked passwords, password policies without character-class requirements, minimum-strength policies.
 
 ### Authorization / AWS policy tools
 
-*   [Cloudsplaining (⭐1.7k)](https://github.com/salesforce/cloudsplaining) - Security assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
-*   [Principal Mapper (⭐1.2k)](https://github.com/nccgroup/PMapper) - Quickly evaluates permissions.
-*   [PolicyUniverse (⭐364)](https://github.com/Netflix-Skunkworks/policyuniverse) - Parse and process AWS policies, statements, ARNs, and wildcards.
+*   [Cloudsplaining (⭐1.8k)](https://github.com/salesforce/cloudsplaining) - Security assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
+*   [Principal Mapper (⭐1.3k)](https://github.com/nccgroup/PMapper) - Quickly evaluates permissions.
+*   [PolicyUniverse (⭐403)](https://github.com/Netflix-Skunkworks/policyuniverse) - Parse and process AWS policies, statements, ARNs, and wildcards.
 
 ### Privacy / Profanity
 
@@ -107,7 +107,7 @@
 
 ### Test / Checkbox
 
-*   [@testing-library/svelte (⭐551)](https://github.com/testing-library/svelte-testing-library) - Simple and complete Svelte DOM testing utilities that encourage good testing practices.
+*   [@testing-library/svelte (⭐571)](https://github.com/testing-library/svelte-testing-library) - Simple and complete Svelte DOM testing utilities that encourage good testing practices.
 
 ## [13. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
 
@@ -125,11 +125,11 @@
 
 ### Tools
 
-*   [bitfield (⭐21)](https://github.com/marcoheisig/bitfield) - Efficiently represent several finite sets or small integers as a single non-negative integer. [MIT](https://opensource.org/licenses/MIT).
+*   [bitfield (⭐22)](https://github.com/marcoheisig/bitfield) - Efficiently represent several finite sets or small integers as a single non-negative integer. [MIT](https://opensource.org/licenses/MIT).
 
 ### Clojure
 
-*   [ABCLJ (⭐81)](https://github.com/lsevero/abclj) - dead easy  Clojure to Common lisp interop. EPL-2.0.
+*   [ABCLJ (⭐84)](https://github.com/lsevero/abclj) - dead easy  Clojure to Common lisp interop. EPL-2.0.
 
 ### Other books
 

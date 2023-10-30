@@ -26,7 +26,7 @@
 
 ### Utility / Barcode
 
-*   [SwiftLinkPreview (⭐1.3k)](https://github.com/LeonardoCardoso/SwiftLinkPreview) - It makes a preview from an url, grabbing all information such as title, relevant texts and images.
+*   [SwiftLinkPreview (⭐1.4k)](https://github.com/LeonardoCardoso/SwiftLinkPreview) - It makes a preview from an url, grabbing all information such as title, relevant texts and images.
 
 ## [4. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 

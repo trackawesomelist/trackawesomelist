@@ -46,7 +46,7 @@
 
 ### Tools / Static Analysis Tools
 
-*   [StaCoAn (⭐786)](https://github.com/vincentcox/StaCoAn) - Crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications. This tool was created with a big focus on usability and graphical guidance in the user interface.
+*   [StaCoAn (⭐796)](https://github.com/vincentcox/StaCoAn) - Cross-platform tool which aids developers, bug-bounty hunters, and ethical hackers in performing static code analysis on mobile applications. This tool was created with a big focus on usability and graphical guidance in the user interface.
 
 ## [6. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 

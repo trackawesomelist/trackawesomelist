@@ -1,6 +1,6 @@
 # Awesome List Updates on May 13, 2020
 
-23 awesome lists updated today.
+22 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -17,11 +17,11 @@
 
 ### Calendar
 
-*   [iCal.NET (⭐678)](https://github.com/rianjs/ical.net) iCal.NET is an iCalendar (RFC 5545) class library for .NET aimed at providing RFC 5545 compliance, while providing full compatibility with popular calendaring applications and libraries.
+*   [iCal.NET (⭐710)](https://github.com/rianjs/ical.net) iCal.NET is an iCalendar (RFC 5545) class library for .NET aimed at providing RFC 5545 compliance, while providing full compatibility with popular calendaring applications and libraries.
 
 ### Functional programming
 
-*   [Optuple (⭐24)](https://github.com/atifaziz/Optuple) - .NET Standard Library for giving `(bool, T)` Option-like semantics in a non-obtrusive way; this is, there is no new option type dependency for a library or its users.
+*   [Optuple (⭐26)](https://github.com/atifaziz/Optuple) - .NET Standard Library for giving `(bool, T)` Option-like semantics in a non-obtrusive way; this is, there is no new option type dependency for a library or its users.
 
 ### Game
 
@@ -33,7 +33,7 @@
 
 ### Misc
 
-*   [FormHelper (⭐250)](https://github.com/SinanBozkus/FormHelper) - Form & Validation Helper for ASP.NET Core. Form Helper helps you to create ajax forms and validations without writing any javascript code. (Compatible with Fluent Validation)
+*   [FormHelper (⭐256)](https://github.com/SinanBozkus/FormHelper) - Form & Validation Helper for ASP.NET Core. Form Helper helps you to create ajax forms and validations without writing any javascript code. (Compatible with Fluent Validation)
 
 ### PDF
 
@@ -55,18 +55,18 @@
 
 ### Tools / XML
 
-*   [denox (⭐140)](https://github.com/BentoumiTech/denox) - Like packages.json scripts, but for Deno with permissions support.
+*   [denox (⭐138)](https://github.com/BentoumiTech/denox) - Like packages.json scripts, but for Deno with permissions support.
 
 ## [6. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Log Analysis Tools
 
-*   [AppCompatProcessor (⭐172)](https://github.com/mbevilacqua/appcompatprocessor) - AppCompatProcessor has been designed to extract additional value from enterprise-wide AppCompat / AmCache data beyond the classic stacking and grepping techniques.
+*   [AppCompatProcessor (⭐175)](https://github.com/mbevilacqua/appcompatprocessor) - AppCompatProcessor has been designed to extract additional value from enterprise-wide AppCompat / AmCache data beyond the classic stacking and grepping techniques.
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
 *   [Cutter](https://github.com/radareorg/cutter) - Reverse engineering platform powered by Radare2.
-*   [Radare2 (⭐18k)](https://github.com/radareorg/radare2) - Reverse engineering framework and command-line toolset.
+*   [Radare2 (⭐19k)](https://github.com/radareorg/radare2) - Reverse engineering framework and command-line toolset.
 
 ## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -99,7 +99,7 @@ Free
 
 ### Tools / Libraries
 
-*   [Distinct Colors (⭐114)](https://github.com/internalfx/distinct-colors) - Generate a palette of visually distinct colors.
+*   [Distinct Colors (⭐116)](https://github.com/internalfx/distinct-colors) - Generate a palette of visually distinct colors.
 
 ## [11. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -117,13 +117,13 @@ Free
 
 *   [socialdog](https://social-dog.net/en/)
 
-### 🧩 API / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### 🧩 API / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Fever API](https://feedafever.com/api)
 
-### Tech or IT / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Tech or IT / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [RSS-IT人 (⭐1.6k)](https://github.com/Gracker/Rss-IT) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Gracker/Rss-IT)
+*   [RSS-IT人 (⭐1.7k)](https://github.com/Gracker/Rss-IT) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Gracker/Rss-IT)
 *   [f43.me](https://f43.me/) <sup>[590](https://t.me/s/aboutrss/590)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/j0k3r/f43.me)
 
 ### Podcast Statistics / Crypto or Blockchain relevant
@@ -134,7 +134,7 @@ Free
 
 ### Responsive / Material Design
 
-*   [mdbootstrap (⭐1.3k)](https://github.com/mdbootstrap/React-Bootstrap-with-Material-Design) - React Bootstrap with Material Design
+*   [mdbootstrap (⭐1.4k)](https://github.com/mdbootstrap/React-Bootstrap-with-Material-Design) - React Bootstrap with Material Design
 
 ## [14. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
@@ -151,82 +151,76 @@ Free
 
 *   [Waves Keeper](https://wavesprotocol.org/protocol/keeper) - Official browser extension allows to manage private keys and interact securely and seamlessly with Waves-enabled web services and dApps.
 
-## [15. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
-
-### Apps
-
-*   [ipcoronafs (⭐13)](https://github.com/RTradeLtd/ipcoronafs) - A realtime service to scrape COVID-19 and SARS-CoV-2, storing on IPFS, DNSLink, and streaming over LibP2P pubsub
-
-## [16. Awesome Qsharp](/content/ebraminio/awesome-qsharp/README.md)
+## [15. Awesome Qsharp](/content/ebraminio/awesome-qsharp/README.md)
 
 ### Official Resources
 
 *   [Q# libraries for the Quantum Development Kit (⭐473)](https://github.com/microsoft/QuantumLibraries)
 
-## [17. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
+## [16. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### Libraries / Molecular Dynamics
 
 *   [NAMD](https://www.ks.uiuc.edu/Research/namd/) - a parallel molecular dynamics code designed for high-performance simulation of large biomolecular systems.
 
-## [18. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [17. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
-*   [Freecell (⭐5)](https://github.com/Stigjb/freecell) - A patience game written in Rust and Yew.
+*   [Freecell (⭐6)](https://github.com/Stigjb/freecell) - A patience game written in Rust and Yew.
 
-## [19. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [18. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Demonstrations
 
-*   [Official Gallery (⭐4.8k)](https://github.com/flutter/gallery) - Demo for the material design widgets provided by Flutter Team
+*   [Official Gallery (⭐5.4k)](https://github.com/flutter/gallery) - Demo for the material design widgets provided by Flutter Team
 
 ### 🇲🇾 Malaysia / Misc
 
 *   Telegram [Flutter/Dart Dev Malaysia](https://t.me/flutterdevmalaysia)
 
-## [20. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [19. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Books / Other
 
 *   [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) - A book about JavaScript testing tools and techniques for developers.
 
-## [21. Awesome List](/content/sindresorhus/awesome/README.md)
+## [20. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Front-End Development
 
-*   [Preact (⭐759)](https://github.com/preactjs/awesome-preact#readme) - App framework.
-*   [Web Performance Budget (⭐84)](https://github.com/pajaydev/awesome-web-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
+*   [Preact (⭐805)](https://github.com/preactjs/awesome-preact#readme) - App framework.
+*   [Web Performance Budget (⭐94)](https://github.com/pajaydev/awesome-web-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
 
 ### Computer Science
 
-*   [Static Analysis & Code Quality (⭐11k)](https://github.com/analysis-tools-dev/static-analysis#readme)
+*   [Static Analysis & Code Quality (⭐12k)](https://github.com/analysis-tools-dev/static-analysis#readme)
 
 ### Learn
 
-*   [Educational Games (⭐717)](https://github.com/yrgo/awesome-educational-games#readme) - Learn while playing.
+*   [Educational Games (⭐750)](https://github.com/yrgo/awesome-educational-games#readme) - Learn while playing.
 
 ### Hardware
 
-*   [Bluetooth Beacons (⭐851)](https://github.com/rabschi/awesome-beacon#readme)
+*   [Bluetooth Beacons (⭐868)](https://github.com/rabschi/awesome-beacon#readme)
 
 ### Decentralized Systems
 
-*   [Ethereum (⭐256)](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
+*   [Ethereum (⭐278)](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
 
 ### Miscellaneous
 
 *   [Continuous Integration and Continuous Delivery (⭐1.7k)](https://github.com/cicdops/awesome-ciandcd#readme)
-*   [Self Hosted (⭐131k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
-*   [Homematic (⭐166)](https://github.com/homematic-community/awesome-homematic#readme) - Smart home devices.
+*   [Self Hosted (⭐151k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
+*   [Homematic (⭐177)](https://github.com/homematic-community/awesome-homematic#readme) - Smart home devices.
 
-## [22. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [21. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vuedt (⭐8)](https://github.com/nkoehring/vuedt) - Crazy lightweight (<5kb!) Vuejs Date and Time picker component with i18n support, nice animations and not too much fuzz.
 
-## [23. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [22. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / SQS
 

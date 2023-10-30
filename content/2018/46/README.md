@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 12 - Nov 18, 2018
 
-49 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -56,16 +56,16 @@
 
 ### Filesystem
 
-*   [dive (⭐34k)](https://github.com/wagoodman/dive)\
+*   [dive (⭐37k)](https://github.com/wagoodman/dive)\
     A tool for exploring each layer in a docker image.
-*   [go-containerregistry (⭐2k)](https://github.com/google/go-containerregistry)\
+*   [go-containerregistry (⭐2.5k)](https://github.com/google/go-containerregistry)\
     Go library and CLIs for working with container registries.
 
 ## [6. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Other / Godot version unknown
 
-*   [godot-ci (⭐422)](https://github.com/aBARICHELLO/godot-ci) - Docker image to export Godot games through CI. Includes GitLab CI script example.
+*   [godot-ci (⭐461)](https://github.com/aBARICHELLO/godot-ci) - Docker image to export Godot games through CI. Includes GitLab CI script example.
 
 ## [7. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
@@ -107,9 +107,9 @@
 ### Tools
 
 *   [PapaParse](https://www.papaparse.com) - A powerful in-browser CSV parser.
-*   [d3-dsv (⭐382)](https://github.com/d3/d3-dsv) - d3.js parser and formatter module for delimiter-separated values.
+*   [d3-dsv (⭐403)](https://github.com/d3/d3-dsv) - d3.js parser and formatter module for delimiter-separated values.
 *   [CSVKit](http://csvkit.readthedocs.org/en/0.7.3/) - CSV utilities that includes csvsql / csvgrep / csvstat and more.
-*   [XSV (⭐8.7k)](https://github.com/BurntSushi/xsv) - A fast CSV command-line toolkit written in Rust.
+*   [XSV (⭐9.5k)](https://github.com/BurntSushi/xsv) - A fast CSV command-line toolkit written in Rust.
 *   [sed (gnu tool)](https://www.gnu.org/software/sed/manual/sed.html) - Stream editor.
 *   [gawk (gnu tool)](https://www.gnu.org/software/gawk/manual/gawk.html) - Text processing and data extraction using [awk](http://pubs.opengroup.org/onlinepubs/009695399/utilities/awk.html).
 *   [awk by example (⭐10k)](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md#default-field-separation) - Comprehensive examples of using awk.
@@ -119,15 +119,15 @@
 *   [Tad](https://www.tadviewer.com) - A fast free cross-platform CSV viewer.
 *   [Nvd3-tags](http://blog.tryolabs.com/2015/02/27/nvd3-tags-a-tiny-library-for-making-charts-from-csv-data/) - A tiny library for making charts from csv data.
 *   [CSV Tools](https://onlinecsvtools.com/) - A collection of useful CSV utilities.
-*   [graph-cli (⭐737)](https://github.com/mcastorina/graph-cli) - Flexible command line tool to create graphs from CSV data.
+*   [graph-cli (⭐759)](https://github.com/mcastorina/graph-cli) - Flexible command line tool to create graphs from CSV data.
 *   [CSV to SQL](http://www.convertcsv.com/csv-to-sql.htm) - Online tool to create insert/update/delete etc from CSV data.
-*   [C#: kbCSV (⭐75)](https://github.com/kentcb/KBCsv/blob/master/README.md) - An efficient, easy to use .NET parsing and writing library for CSV.
-*   [csvprintf (⭐34)](https://github.com/archiecobbs/csvprintf) - UNIX command line utility for parsing and formatting output based on CSV files.
+*   [C#: kbCSV (⭐77)](https://github.com/kentcb/KBCsv/blob/master/README.md) - An efficient, easy to use .NET parsing and writing library for CSV.
+*   [csvprintf (⭐37)](https://github.com/archiecobbs/csvprintf) - UNIX command line utility for parsing and formatting output based on CSV files.
 *   [Mockaroo](https://www.mockaroo.com/) - Random data generator for CSV / JSON / SQL / Excel.
 
 ### Tools / Repair or Validate CSV
 
-*   [Csvlint.go (⭐163)](https://github.com/Clever/csvlint) - Command line tool for validating CSV files against RFC 4180.
+*   [Csvlint.go (⭐175)](https://github.com/Clever/csvlint) - Command line tool for validating CSV files against RFC 4180.
 
 ### Generate Table Schema / Treat CSV as SQL
 
@@ -136,7 +136,7 @@
 
 ### Generate Table Schema / Convert to or from CSV
 
-*   [CSV to Table (⭐1k)](https://github.com/vividvilla/csvtotable) - Convert CSV files to searchable and sortable HTML table.
+*   [CSV to Table (⭐1.1k)](https://github.com/vividvilla/csvtotable) - Convert CSV files to searchable and sortable HTML table.
 
 ### Generate Table Schema / CSV <-> JSON
 
@@ -156,7 +156,7 @@
 *   [US Data.gov](https://catalog.data.gov/dataset?res_format=CSV) - 18789+ CSV datasets.
 *   [Australian Government Open Data](https://data.gov.au/dataset?res_format=CSV) - 2715+ CSV datasets.
 *   [Reference data in csv](https://datahub.io/collections/reference-data) - Easy-to-use reference data in CSV and JSON formats.
-*   [awesome-public-datasets (⭐52k)](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains.
+*   [awesome-public-datasets (⭐56k)](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains.
 
 ### Conferences / CSV <-> JSON
 
@@ -173,7 +173,7 @@
 
 ### META: Other similar lists / CSV <-> JSON
 
-*   [structured-text-tools (⭐6.4k)](https://github.com/dbohdan/structured-text-tools) - List of command line tools for manipulating CSV / XML / HTML / JSON / INI etc.
+*   [structured-text-tools (⭐6.7k)](https://github.com/dbohdan/structured-text-tools) - List of command line tools for manipulating CSV / XML / HTML / JSON / INI etc.
 *   [META-META](https://raw.githubusercontent.com/secretGeek/AwesomeCSV/master/awesomecsv.csv) - **This list as CSV**.
 *   [META-META-META](https://nimbletext.com/Live/-971009575/) - A NimbleText pattern that produces this markdown page from this list as a CSV.
 
@@ -213,7 +213,7 @@
 
 ### DevSecOps / Service meshes
 
-*   [BlackBox (⭐6.4k)](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion by encrypting them "at rest" using GnuPG.
+*   [BlackBox (⭐6.5k)](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion by encrypting them "at rest" using GnuPG.
 
 ## [18. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -223,7 +223,7 @@
 
 ### Third-party APIs
 
-*   [Dropbox (⭐162)](https://github.com/Jesus/dropbox_api) - Ruby client for Dropbox API v2.
+*   [Dropbox (⭐164)](https://github.com/Jesus/dropbox_api) - Ruby client for Dropbox API v2.
 
 ## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -235,7 +235,7 @@
 
 ### Visualizations
 
-*   [TNExT (⭐14)](https://github.com/ODOT-PTS/TNExT) - Transit Network Explorer Tool (TNExT) is a web-based software tool developed for the visualization, analysis, and reporting of regional and statewide transit networks in the state of Oregon.
+*   [TNExT (⭐15)](https://github.com/ODOT-PTS/TNExT) - Transit Network Explorer Tool (TNExT) is a web-based software tool developed for the visualization, analysis, and reporting of regional and statewide transit networks in the state of Oregon.
 
 ## [21. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -247,7 +247,7 @@
 
 ### Dependency Injection
 
-*   [Dependencies (⭐28)](https://github.com/marcguilera/dependencies.dart) - A simple and modular dependency injection system which doesn't use mirrors.
+*   [Dependencies (⭐30)](https://github.com/marcguilera/dependencies.dart) - A simple and modular dependency injection system which doesn't use mirrors.
 
 ## [23. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
@@ -267,7 +267,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Heimdall](https://heimdall.site/) - Heimdall is an elegant solution to organise all your web applications. ([Source Code (⭐6k)](https://github.com/linuxserver/Heimdall)) `MIT` `PHP`
+*   [Heimdall](https://heimdall.site/) - Heimdall is an elegant solution to organise all your web applications. ([Source Code (⭐6.6k)](https://github.com/linuxserver/Heimdall)) `MIT` `PHP`
 
 ## [26. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
@@ -306,7 +306,7 @@
 
 ### Messaging
 
-*   [aenigma (⭐174)](https://github.com/openspace42/aenigma/): the | state-of-the-art | secure-by-default | one-touch-deployed | XMPP server for everyone. It does for XMPP what Mail-in-a-Box has done for email, Streisand for VPNs, and Easyengine for wordpress.
+*   [aenigma (⭐179)](https://github.com/openspace42/aenigma/): the | state-of-the-art | secure-by-default | one-touch-deployed | XMPP server for everyone. It does for XMPP what Mail-in-a-Box has done for email, Streisand for VPNs, and Easyengine for wordpress.
     The installation takes you on a 15 minute, clearly worded, step-by-step setup and takes care of everything automagically.
 
 ## [29. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
@@ -329,7 +329,7 @@
 
 ### Torrent Clients / rTorrent
 
-*   [rtorrent-ps (⭐429)](https://github.com/pyroscope/rtorrent-ps) Extended rTorrent distribution with a fully customizable canvas and colors, other feature additions, and complete docs.
+*   [rtorrent-ps (⭐442)](https://github.com/pyroscope/rtorrent-ps) Extended rTorrent distribution with a fully customizable canvas and colors, other feature additions, and complete docs.
 
 ### Usenet Indexers / Usenet Indexing Software
 
@@ -347,7 +347,7 @@
 
 *   [acestream.org](http://acestream.org/) Ace Stream is a peer-to-peer streaming application that lets you stream live sports and other content
 *   [AceStreamSearch](https://acestreamsearch.com/en/) Ace Stream Broadcasts Search
-*   [aceproxy (⭐192)](https://github.com/ValdikSS/aceproxy) Ace Stream HTTP Proxy. (abandonware)
+*   [aceproxy (⭐194)](https://github.com/ValdikSS/aceproxy) Ace Stream HTTP Proxy. (abandonware)
 *   [iktason/aceproxy](https://hub.docker.com/r/ikatson/aceproxy/) A docker image to run aceengine + aceproxy, e.g. to watch Torrent-TV.ru.
 
 ### IRC Networks / Third Party Hosts
@@ -385,38 +385,38 @@
 
 ### Tools / Other
 
-*   [badtouch (⭐334)](https://github.com/kpcyrd/badtouch) - Scriptable network authentication cracker
-*   [sniffglue (⭐895)](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer
+*   [badtouch (⭐363)](https://github.com/kpcyrd/badtouch) - Scriptable network authentication cracker
+*   [sniffglue (⭐968)](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer
 
 ## [33. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [Butterfly Server .NET (⭐264)](https://github.com/firesharkstudios/butterfly-server-dotnet) - Allows building real-time web apps and native apps with minimal effort. Define a Web API and Subscription API that automatically synchronizes datasets across connected clients.
+*   [Butterfly Server .NET (⭐269)](https://github.com/firesharkstudios/butterfly-server-dotnet) - Allows building real-time web apps and native apps with minimal effort. Define a Web API and Subscription API that automatically synchronizes datasets across connected clients.
 
 ### Frameworks, Libraries and Tools / Machine Learning and Data Science
 
-*   [WaveFunctionCollapse (⭐20k)](https://github.com/mxgmn/WaveFunctionCollapse) - itmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
+*   [WaveFunctionCollapse (⭐22k)](https://github.com/mxgmn/WaveFunctionCollapse) - itmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
 
 ### Frameworks, Libraries and Tools / Testing
 
-*   [CoreBDD (⭐16)](https://github.com/stevenknox/CoreBDD) - BDD framework for xUnit.net
+*   [CoreBDD (⭐18)](https://github.com/stevenknox/CoreBDD) - BDD framework for xUnit.net
 
 ### Frameworks, Libraries and Tools / Workflow
 
-*   [Wexflow (⭐1)](https://github.com/aelassas/Wexflow) - A high performance, extensible, modular and cross-platform workflow engine.
+*   [Wexflow (⭐352)](https://github.com/aelassas/Wexflow) - A high performance, extensible, modular and cross-platform workflow engine.
 
 ## [34. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Static Analysis Tools
 
-*   [JAADAS (⭐332)](https://github.com/flankerhqd/JAADAS) - Joint intraprocedure and interprocedure program analysis tool to find vulnerabilities in Android apps, built on Soot and Scala
+*   [JAADAS (⭐333)](https://github.com/flankerhqd/JAADAS) - Joint intraprocedural and interprocedural program analysis tool to find vulnerabilities in Android apps, built on Soot and Scala
 
 ## [35. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Concurrency
 
-*   [libdispatch (⭐2.3k)](https://github.com/apple/swift-corelibs-libdispatch) - Grand Central Dispatch (GCD), developed by Apple Inc., is a task parallelism technology based on the thread pool pattern. libdispatch is a library that provides the implementation of GCD's services. \[Apache-2.0] [website](https://apple.github.io/swift-corelibs-libdispatch/)
+*   [libdispatch (⭐2.4k)](https://github.com/apple/swift-corelibs-libdispatch) - Grand Central Dispatch (GCD), developed by Apple Inc., is a task parallelism technology based on the thread pool pattern. libdispatch is a library that provides the implementation of GCD's services. \[Apache-2.0] [website](https://apple.github.io/swift-corelibs-libdispatch/)
 
 ### Inter-process communication
 
@@ -424,7 +424,7 @@
 
 ### Networking
 
-*   [libpcap (⭐2.2k)](https://github.com/the-tcpdump-group/libpcap) - A portable C/C++ library for network traffic capture. \[BSD] [website](https://www.tcpdump.org/)
+*   [libpcap (⭐2.3k)](https://github.com/the-tcpdump-group/libpcap) - A portable C/C++ library for network traffic capture. \[BSD] [website](https://www.tcpdump.org/)
 
 ### PDF
 
@@ -432,11 +432,11 @@
 
 ### Scientific Computing
 
-*   [AMGCL (⭐618)](https://github.com/ddemidov/amgcl) - a header-only C++ library for solving large sparse linear systems with algebraic multigrid. \[MIT]
+*   [AMGCL (⭐660)](https://github.com/ddemidov/amgcl) - a header-only C++ library for solving large sparse linear systems with algebraic multigrid. \[MIT]
 
 ### Web Application Framework
 
-*   [facil.io (⭐1.7k)](https://github.com/boazsegev/facil.io) - Evented, high performance C web framework supporting HTTP, WebSockets, SSE and more. \[MIT] [website](http://facil.io)
+*   [facil.io (⭐1.9k)](https://github.com/boazsegev/facil.io) - Evented, high performance C web framework supporting HTTP, WebSockets, SSE and more. \[MIT] [website](http://facil.io)
 
 ## [36. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
@@ -448,7 +448,7 @@
 
 ### Boilerplates
 
-*   [Nextron (⭐2.6k)](https://github.com/saltyshiomix/nextron) - An Electron with Next.js apps generator ⚡
+*   [Nextron (⭐3.1k)](https://github.com/saltyshiomix/nextron) - An Electron with Next.js apps generator ⚡
 
 ## [38. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -477,7 +477,7 @@
 
 ### Components / Themes
 
-*   [antd-password-input-strength (⭐83)](https://github.com/Kombustor/antd-password-input-strength) - AntD Input component with password-strength indicator.
+*   [antd-password-input-strength (⭐86)](https://github.com/Kombustor/antd-password-input-strength) - AntD Input component with password-strength indicator.
 
 ## [42. Awesome Idris](/content/joaomilho/awesome-idris/week/README.md)
 
@@ -505,7 +505,13 @@
 
 *   [Emotional Intelligence And Ethics In Tech](http://happyporchradio.com/season-4-episode-3-april-wensel/) - By April Wensel in the Happy Porch podcast.
 
-## [44. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [44. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Java / Bootstrap
+
+*   [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) - Rudolf Pecinovsky (PDF)
+
+## [45. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -526,7 +532,7 @@
 *   [Atlassian Incident Handbook](https://www.atlassian.com/software/jira/ops/handbook)
 *   [PagerDuty Incident Response Handbook](https://response.pagerduty.com/)
 
-## [45. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [46. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Alert / Barcode
 
@@ -534,7 +540,7 @@
 
 ### Transition / Barcode
 
-*   [ImageTransition (⭐212)](https://github.com/shtnkgm/ImageTransition) - ImageTransition is a library for smooth animation of images during transitions.
+*   [ImageTransition (⭐214)](https://github.com/shtnkgm/ImageTransition) - ImageTransition is a library for smooth animation of images during transitions.
 *   [Jelly (⭐2.4k)](https://github.com/SebastianBoldt/Jelly) - Jelly provides custom view controller transitions with just a few lines of code.
 
 ### UICollectionView / Barcode
@@ -543,21 +549,21 @@
 
 ### Utility / Barcode
 
-*   [WeakableSelf (⭐72)](https://github.com/vincent-pradeilles/weakable-self) - A micro-framework to encapsulate \[weak self] and guard statements within closures.
+*   [WeakableSelf (⭐76)](https://github.com/vincent-pradeilles/weakable-self) - A micro-framework to encapsulate \[weak self] and guard statements within closures.
 
-## [46. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [47. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Example Applications
 
 *   [perjerz3434/meetup.com ★1 (⭐2)](https://github.com/perjerz3434/meetup.com) - Meetup.com RSVP visualization around the world using CycleJS
 
-## [47. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
+## [48. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
 
 ### Clients
 
 *   [Tootle (⭐396)](https://github.com/bleakgrey/tootle) - Simple Mastodon client designed for elementary OS.
 
-## [48. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [49. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / AST
 
@@ -584,7 +590,7 @@
 *   [EmberFest 2018](https://www.youtube.com/watch?v=oRzmDobMZ_Q\&list=PLN4SpDLOSVkSB9034lDNdP1JoNBGssax9)
 *   [EmberFest 2014](https://www.youtube.com/watch?v=z4oxa-UR7oA\&list=PLN4SpDLOSVkSbGTLohVaYGDB8hxWxGPBA)
 
-## [49. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [50. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -599,7 +605,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Modular Genealogy (⭐4)](https://github.com/modularsoftware/genealogy) - Genealogy / family tree management system using Laravel 5.7, Vue.js 2.5 and various components. Work in progress.
+*   [Modular Genealogy (⭐210)](https://github.com/modularsoftware/genealogy) - Genealogy / family tree management system using Laravel 5.7, Vue.js 2.5 and various components. Work in progress.
 *   [Statusfy (⭐2.7k)](https://github.com/bazzite/statusfy): Statusfy is a Status Page System, easy to use and completely Open Source.
 
 ---

@@ -69,7 +69,7 @@
 
 ### Contents / EMPI
 
-*   [MEDIC Client Registry RI (⭐14)](https://github.com/MohawkMEDIC/client-registry) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation.
+*   [MEDIC Client Registry RI (⭐13)](https://github.com/MohawkMEDIC/client-registry) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation.
 
 ## [7. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

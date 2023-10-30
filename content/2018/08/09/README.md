@@ -23,7 +23,7 @@
 
 ### Extensions
 
-*   [Nextein (⭐897)](https://github.com/elmasse/nextein) - A static site generator based in Next.js.
+*   [Nextein (⭐898)](https://github.com/elmasse/nextein) - A static site generator based in Next.js.
 
 ## [4. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Platforms
 
-*   [Fuse (⭐322)](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
+*   [Fuse (⭐329)](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -57,13 +57,13 @@
 
 ### Cheatsheet
 
-*   [List of 100 Angular Interview questions and answers (⭐3.1k)](https://github.com/sudheerj/angular-interview-questions)
+*   [List of 100 Angular Interview questions and answers (⭐3.5k)](https://github.com/sudheerj/angular-interview-questions)
 
 ## [9. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 
 ### Debug
 
-*   [RenderDoc (⭐6.8k)](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
+*   [RenderDoc (⭐7.7k)](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
 
 ---
 

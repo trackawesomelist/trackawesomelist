@@ -1,6 +1,6 @@
 # Awesome List Updates on May 18, 2022
 
-19 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -33,68 +33,68 @@
 
 ### Providers / Hashicorp supported providers
 
-*   [terraform-provider-aws (⭐8.5k)](https://github.com/hashicorp/terraform-provider-aws) - Provider for Amazon Web Services.
-*   [terraform-provider-azurerm (⭐4k)](https://github.com/hashicorp/terraform-provider-azurerm) - Provider for Azure.
+*   [terraform-provider-aws (⭐8.9k)](https://github.com/hashicorp/terraform-provider-aws) - Provider for Amazon Web Services.
+*   [terraform-provider-azurerm (⭐4.2k)](https://github.com/hashicorp/terraform-provider-azurerm) - Provider for Azure.
 *   [terraform-provider-docker (⭐132)](https://github.com/hashicorp/terraform-provider-docker) - Provider for Docker.
-*   [terraform-provider-google (⭐2k)](https://github.com/hashicorp/terraform-provider-google) - Provider for Google Cloud Platform.
-*   [terraform-provider-helm (⭐926)](https://github.com/hashicorp/terraform-provider-helm) - Provider for Helm.
-*   [terraform-provider-kubernetes (⭐1.4k)](https://github.com/hashicorp/terraform-provider-kubernetes) - Provider for Kubernetes.
-*   [terraform-provider-vsphere (⭐552)](https://github.com/hashicorp/terraform-provider-vsphere) - Provider for VMware vSphere.
+*   [terraform-provider-google (⭐2.1k)](https://github.com/hashicorp/terraform-provider-google) - Provider for Google Cloud Platform.
+*   [terraform-provider-helm (⭐956)](https://github.com/hashicorp/terraform-provider-helm) - Provider for Helm.
+*   [terraform-provider-kubernetes (⭐1.5k)](https://github.com/hashicorp/terraform-provider-kubernetes) - Provider for Kubernetes.
+*   [terraform-provider-vsphere (⭐580)](https://github.com/hashicorp/terraform-provider-vsphere) - Provider for VMware vSphere.
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-alicloud (⭐527)](https://github.com/aliyun/terraform-provider-alicloud) - Provider for Alibaba Cloud.
-*   [terraform-provider-atlas (⭐42)](https://github.com/ariga/terraform-provider-atlas) - Provider for [Atlas](https://atlasgo.io/).
-*   [terraform-provider-buildkite (⭐50)](https://github.com/buildkite/terraform-provider-buildkite) - Provider for Buildkite.
-*   [terraform-provider-datadog (⭐333)](https://github.com/DataDog/terraform-provider-datadog) - Provider for Datadog.
-*   [terraform-provider-digitalocean (⭐447)](https://github.com/digitalocean/terraform-provider-digitalocean) - Provider for DigitalOcean.
+*   [terraform-provider-alicloud (⭐558)](https://github.com/aliyun/terraform-provider-alicloud) - Provider for Alibaba Cloud.
+*   [terraform-provider-atlas (⭐43)](https://github.com/ariga/terraform-provider-atlas) - Provider for [Atlas](https://atlasgo.io/).
+*   [terraform-provider-buildkite (⭐49)](https://github.com/buildkite/terraform-provider-buildkite) - Provider for Buildkite.
+*   [terraform-provider-datadog (⭐355)](https://github.com/DataDog/terraform-provider-datadog) - Provider for Datadog.
+*   [terraform-provider-digitalocean (⭐460)](https://github.com/digitalocean/terraform-provider-digitalocean) - Provider for DigitalOcean.
 *   [terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Provider for GitHub.
-*   [terraform-provider-gitlab (⭐361)](https://github.com/gitlabhq/terraform-provider-gitlab) - Provider for GitLab.
-*   [terraform-provider-graphql (⭐44)](https://github.com/sullivtr/terraform-provider-graphql) - Provider for GraphQL queries and mutations.
-*   [terraform-provider-hcloud (⭐394)](https://github.com/hetznercloud/terraform-provider-hcloud) - Provider for Hetzner Cloud.
+*   [terraform-provider-gitlab (⭐375)](https://github.com/gitlabhq/terraform-provider-gitlab) - Provider for GitLab.
+*   [terraform-provider-graphql (⭐51)](https://github.com/sullivtr/terraform-provider-graphql) - Provider for GraphQL queries and mutations.
+*   [terraform-provider-hcloud (⭐424)](https://github.com/hetznercloud/terraform-provider-hcloud) - Provider for Hetzner Cloud.
 *   [terraform-provider-heroku (⭐94)](https://github.com/heroku/terraform-provider-heroku) - Provider for Heroku.
-*   [terraform-provider-ibm (⭐324)](https://github.com/IBM-Cloud/terraform-provider-ibm) - Provider for IBM Cloud.
+*   [terraform-provider-ibm (⭐325)](https://github.com/IBM-Cloud/terraform-provider-ibm) - Provider for IBM Cloud.
 *   [terraform-provider-linode (⭐71)](https://github.com/btobolaski/terraform-provider-linode) - Provider for Linode.
-*   [terraform-provider-spinnaker (⭐146)](https://github.com/armory-io/terraform-provider-spinnaker) - Provider for [Spinnaker](https://www.spinnaker.io/).
-*   [terraform-provider-spotinst (⭐59)](https://github.com/spotinst/terraform-provider-spotinst) - Provider for spotinst.
+*   [terraform-provider-spinnaker (⭐143)](https://github.com/armory-io/terraform-provider-spinnaker) - Provider for [Spinnaker](https://www.spinnaker.io/).
+*   [terraform-provider-spotinst (⭐58)](https://github.com/spotinst/terraform-provider-spotinst) - Provider for spotinst.
 
 ## [5. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / Driver layer
 
-*   [Universal Robots (⭐224)](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver) - ROS2 drivers for UR CB3 and e-Series.
+*   [Universal Robots (⭐254)](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver) - ROS2 drivers for UR CB3 and e-Series.
 
 ## [6. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
 ### :books: Literature / Documentation
 
 *   :clipboard: [Hyperion: Implementation of a PE-Crypter](https://www.exploit-db.com/docs/english/18849-hyperion-implementation-of-a-pe-crypter.pdf)
-*   :pushpin: [Packer detection tool evaluation (⭐7)](https://github.com/FFRI/PackerDetectionToolEvaluation)
+*   :pushpin: [Packer detection tool evaluation (⭐9)](https://github.com/FFRI/PackerDetectionToolEvaluation)
 
 ### :bookmark_tabs: Datasets / Scientific Research
 
 *   [FFRI Dataset Scripts (⭐8)](https://github.com/FFRI/ffridataset-scripts) - Make datasets like FFRI Dataset.
-*   [RCE Lab (⭐42)](https://github.com/apuromafo/RCE_Lab) - Crackme's, keygenme's, serialme's ; the "tuts4you" folder contains many packed binaries.
+*   [RCE Lab (⭐41)](https://github.com/apuromafo/RCE_Lab) - Crackme's, keygenme's, serialme's ; the "tuts4you" folder contains many packed binaries.
 
 ### :package: Packers / Before 2000
 
-*   [Morphine (⭐273)](https://github.com/bowlofstew/rootkit.com/blob/master/hf/Morphine27) - Application for PE files encryption.
+*   [Morphine (⭐277)](https://github.com/bowlofstew/rootkit.com/blob/master/hf/Morphine27) - Application for PE files encryption.
 
 ## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Terminal User Interface / MIT
+### Terminal User Interface / Apache License
 
 *   [linenoise-ada](https://git.sr.ht/~nytpu/linenoise-ada) - Bindings to the Linenoise line-editing library (patched to support UTF-8).
 
-### Format Readers and Writers / MIT
+### Format Readers and Writers / Apache License
 
 *   [uri-ada](https://git.sr.ht/~nytpu/uri-ada) - URI and MIME parser & manipulation library.
 
-### Networking and Communication Middleware / MIT
+### Networking and Communication Middleware / Apache License
 
 *   [tlsada](https://git.sr.ht/~nytpu/tlsada) - Bindings to the libtls TLS/SSL library.
 
-### Utilities / MIT
+### Utilities / Apache License
 
 *   [getopt-ada](https://git.sr.ht/~nytpu/getopt-ada) - Portable implementation of getopt(3) in Ada.
 
@@ -116,7 +116,7 @@
 
 ## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [promptor (⭐0)](https://github.com/MickaelBlet/Promptor) - Powerline-inspired. Includes decorators for `git` status, username, hostname, working directory and time.
 
@@ -124,7 +124,7 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [N2D2 (⭐128)](https://github.com/CEA-LIST/N2D2) - CEA-List's CAD framework for designing and simulating Deep Neural Network, and building full DNN-based applications on embedded platforms
+*   [N2D2 (⭐138)](https://github.com/CEA-LIST/N2D2) - CEA-List's CAD framework for designing and simulating Deep Neural Network, and building full DNN-based applications on embedded platforms
 
 ## [11. Awesome Plone](/content/collective/awesome-plone/README.md)
 
@@ -205,7 +205,7 @@
 
 ### Contents / Testing Utils
 
-*   [Preact Island (⭐186)](https://github.com/mwood23/preact-island) - Render your Preact component as a widget on any web page with ease.
+*   [Preact Island (⭐196)](https://github.com/mwood23/preact-island) - Render your Preact component as a widget on any web page with ease.
 
 ## [14. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
@@ -221,38 +221,43 @@
 
 ## [16. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Geekflare API](https://geekflare.com/api) - Geekflare API let you take screenshots, audit websites, TLS scan, DNS lookup, test TTFB, and a lot more. The free plan offers 3000 API requests.
+*   [Geekflare API](https://geekflare.com/api) - Geekflare API lets you take screenshots, audit websites, TLS scan, DNS lookup, test TTFB, and more. The free plan offers 3,000 API requests.
 
 ## [17. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Javascript / Isomorphic web frameworks
 
 *   [sigil (⭐2)](https://github.com/BnMcGn/sigil) - A Parenscript to Javascript command line compiler and REPL. [MIT](https://opensource.org/licenses/MIT).
-*   [cl-react (⭐64)](https://github.com/helmutkian/cl-react) -  Common Lisp (Parenscript) utilities for building web apps in ReactJs. MIT.
+*   [cl-react (⭐66)](https://github.com/helmutkian/cl-react) -  Common Lisp (Parenscript) utilities for building web apps in ReactJs. MIT.
 *   [Panic (⭐42)](https://github.com/michaeljforster/panic), a Parenscript library for React. Not in Quicklisp. [MIT](https://opensource.org/licenses/MIT). Its [TodoMVC example (⭐7)](https://github.com/40ants/todomvc/blob/common-lisp-example/examples/common-lisp-react/src/app.lisp).
-*   [Parenscriptx (⭐23)](https://github.com/jasom/parenscriptx) -  Parenscript Macros to aid generating react code. [MIT](https://opensource.org/licenses/MIT).
+*   [Parenscriptx (⭐24)](https://github.com/jasom/parenscriptx) -  Parenscript Macros to aid generating react code. [MIT](https://opensource.org/licenses/MIT).
 *   [jscl-react (⭐17)](https://github.com/nilesr/jscl-react) -  A web framework for writing react components in common lisp using jscl. No license specified.
 
 ### XML / Third-party APIs
 
 *   [CXML](https://common-lisp.net/project/cxml/) - XML parser and serializer, with a range of extension libraries. [LLGPL](http://opensource.franz.com/preamble.html).
     *   👍 has an incremental parser, allowing to parse big files.
-    *   see the [FXML (⭐27)](https://github.com/ruricolist/FXML) fork, with fixes and new features. You should use it if your are parsing potentially ill-formed or malicious XML, or if you need to use Klacks with namespaces.
+    *   see the [FXML (⭐28)](https://github.com/ruricolist/FXML) fork, with fixes and new features. You should use it if your are parsing potentially ill-formed or malicious XML, or if you need to use Klacks with namespaces.
 
-## [18. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
+## [18. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+
+### Strategy
+
+*   [Stone Kingdoms](https://gitlab.com/stone-kingdoms/stone-kingdoms) - A real-time strategy game made with LÖVE based on the original Stronghold by Firefly studios.
+
+## [19. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
 
 ### Native / Strategy
 
-*   [Stone Kingdoms](https://gitlab.com/stone-kingdoms/stone-kingdoms) - Real-time strategy based on the original Stronghold series.
-*   [Zero-K (⭐566)](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game with physical projectiles and smart units.
+*   [Zero-K (⭐576)](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game with physical projectiles and smart units.
 
-## [19. Awesome Go](/content/avelino/awesome-go/README.md)
+## [20. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Job Scheduler
 
-*   [Dagu (⭐775)](https://github.com/dagu-go/dagu) - No-code workflow executor. it executes DAGs defined in a simple YAML format.
+*   [Dagu (⭐922)](https://github.com/dagu-go/dagu) - No-code workflow executor. it executes DAGs defined in a simple YAML format.
 
 ---
 

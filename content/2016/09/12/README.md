@@ -61,19 +61,19 @@
 
 ### Graphics
 
-*   [OpenTK (⭐2.8k)](https://github.com/opentk/opentk) - The Open Toolkit is an advanced, low-level C# library that wraps OpenGL, OpenCL and OpenAL
+*   [OpenTK (⭐2.9k)](https://github.com/opentk/opentk) - The Open Toolkit is an advanced, low-level C# library that wraps OpenGL, OpenCL and OpenAL
 
 ## [9. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
 ### Tools / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
-*   [Open in Code (⭐846)](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
+*   [Open in Code (⭐878)](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
 
 ## [10. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### System Utilities / Directory Navigation
 
-*   [histstat (⭐90)](https://github.com/vesche/histstat) - History for netstat
+*   [histstat (⭐91)](https://github.com/vesche/histstat) - History for netstat
 
 ---
 

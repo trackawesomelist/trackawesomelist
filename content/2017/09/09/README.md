@@ -10,7 +10,7 @@
 
 ### Implementations
 
-*   [CPython (⭐52k)](https://github.com/python/cpython) - **Default, most widely used implementation of the Python programming language written in C.**
+*   [CPython (⭐54k)](https://github.com/python/cpython) - **Default, most widely used implementation of the Python programming language written in C.**
 
 ## [2. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Application Frameworks
 
-*   [Mono (⭐10k)](https://github.com/mono/mono) - Open source ECMA CLI, C#, F#, VB and .NET implementation
+*   [Mono (⭐11k)](https://github.com/mono/mono) - Open source ECMA CLI, C#, F#, VB and .NET implementation
 
 ---
 

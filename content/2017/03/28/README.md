@@ -37,7 +37,7 @@
 ### Scheduling
 
 *   [Hangfire](https://github.com/HangfireIO) - An easy way to perform fire-and-forget, delayed and recurring tasks inside .NET apps
-*   [Chroniton (⭐179)](https://github.com/leosperry/Chroniton) - A simple, fully integrable, and customizable library for running strongly typed jobs (tasks) on schedules.
+*   [Chroniton (⭐178)](https://github.com/leosperry/Chroniton) - A simple, fully integrable, and customizable library for running strongly typed jobs (tasks) on schedules.
 
 ## [5. Awesome Design](/content/gztchan/awesome-design/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Frameworks, Libraries and Tools / Database Drivers
 
-*   [cassandra-csharp-driver (⭐547)](https://github.com/datastax/csharp-driver) - DataStax C# Driver for Apache Cassandra.
+*   [cassandra-csharp-driver (⭐606)](https://github.com/datastax/csharp-driver) - DataStax C# Driver for Apache Cassandra.
 
 ## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [awesome-mask (⭐166)](https://github.com/moip/awesome-mask) - Mask directive based on a pure and simply VanillaJS implementation
+*   [awesome-mask (⭐165)](https://github.com/moip/awesome-mask) - Mask directive based on a pure and simply VanillaJS implementation
 
 ---
 

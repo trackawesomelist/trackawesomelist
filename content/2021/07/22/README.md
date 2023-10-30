@@ -10,9 +10,9 @@
 
 ### Overview / YouTube
 
-*   [youtube-local (⭐318)](https://github.com/user234683/youtube-local): Browser-based client for watching Youtube anonymously and with greater page performance
-*   [yt-local](https://git.sr.ht/~heckyel/yt-local): Browser-based client for watching Youtube anonymously without forcing javascript (Fork of [youtube-local (⭐318)](https://github.com/user234683/youtube-local))
-*   [SkyTube (⭐1.9k)](https://github.com/SkyTubeTeam/SkyTube): An open-source YouTube app for Android
+*   [youtube-local (⭐350)](https://github.com/user234683/youtube-local): Browser-based client for watching Youtube anonymously and with greater page performance
+*   [yt-local](https://git.sr.ht/~heckyel/yt-local): Browser-based client for watching Youtube anonymously without forcing javascript (Fork of [youtube-local (⭐350)](https://github.com/user234683/youtube-local))
+*   [SkyTube (⭐2k)](https://github.com/SkyTubeTeam/SkyTube): An open-source YouTube app for Android
 
 ## [2. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
@@ -28,17 +28,17 @@
 
 ### ASM / Boilerplates and libraries
 
-*   [gb-template (⭐1)](https://github.com/gb-archive/gb-template) - A template with basic functions such as joypad input, DMA transfers, and map/tile data loading.
+*   [gb-template (⭐2)](https://github.com/gb-archive/gb-template) - A template with basic functions such as joypad input, DMA transfers, and map/tile data loading.
 
 ### ASM / Syntax highlighting packages
 
-*   [PlantBoy (⭐0)](https://github.com/gb-archive/plantboy)
+*   [PlantBoy (⭐1)](https://github.com/gb-archive/plantboy)
 
 ## [4. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Social Network
 
-*   [Fedi (⭐114)](https://github.com/Big-Fig/Fediverse.app) - Open-source client for Pleroma and Mastodon social networks by [Big-Fig](https://github.com/Big-Fig)
+*   [Fedi (⭐124)](https://github.com/Big-Fig/Fediverse.app) - Open-source client for Pleroma and Mastodon social networks by [Big-Fig](https://github.com/Big-Fig)
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -50,25 +50,25 @@
 
 ### HTTP Servers / Clack plugins
 
-*   [clath (⭐36)](https://github.com/BnMcGn/clath) - a single sign-on
+*   [clath (⭐35)](https://github.com/BnMcGn/clath) - a single sign-on
     middleware for Clack. It allows basic login with OAuth1.0a, OAuth2
     and OpenID. At the time of writing, it supports authentication from
     Google, Twitter, LinkedIn, StackExchange, Reddit and Github. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ### Shells, shells interfaces / Third-party APIs
 
-*   [shcl (⭐289)](https://github.com/bradleyjensen/shcl) - a POSIX-like shell in Common Lisp. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
+*   [shcl (⭐296)](https://github.com/bradleyjensen/shcl) - a POSIX-like shell in Common Lisp. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ### Apps / Third-party APIs
 
-*   [Slite (⭐44)](https://github.com/tdrhq/slite/) - a SLIme-based TEst runner for FiveAM Tests. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)
+*   [Slite (⭐48)](https://github.com/tdrhq/slite/) - a SLIme-based TEst runner for FiveAM Tests. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)
     *   Slite interactively runs your Common Lisp tests (at the time of writing only FiveAM is supported). It allows you to see the summary of test failures, jump to test definitions, rerun tests with the debugger, all from inside Emacs.
 
 ## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Map / Image Picker
 
-*   [Map (⭐100)](https://github.com/xclud/flutter_map) <!--stargazers:xclud/flutter_map--> - Fully-fledged interactive Map widget for flutter written in pure Dart. Supports all platforms. by [Mahdi K. Fard](https://github.com/xclud/)
+*   [Map (⭐118)](https://github.com/xclud/flutter_map) <!--stargazers:xclud/flutter_map--> - Fully-fledged interactive Map widget for flutter written in pure Dart. Supports all platforms. by [Mahdi K. Fard](https://github.com/xclud/)
 
 ## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -100,11 +100,11 @@
 
 ## [11. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [PM at Microsoft](https://web.archive.org/web/20180220022153/https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) - By [Steven Sinofsky](https://en.wikipedia.org/wiki/Steven_Sinofsky).
 
-### Books / Screeb
+### Books / Obsidian
 
 *   [The Customer-Driven Playbook](https://www.oreilly.com/library/view/the-customer-driven-playbook/9781491981269/) - By Jessica Rich and Travis Lowdermilk.
 *   [Escaping The Build Trap](https://www.oreilly.com/library/view/escaping-the-build/9781491973783/) - By Melissa Perri.
@@ -124,13 +124,13 @@
 
 ### Forms
 
-*   [HeroTofu.com](https://herotofu.com/) - Forms backend with bot detection and encrypted archive. Forward submissions via UI to email, Slack, or Zapier. Use your own frontend, no server code required. Free plan gives unlimited forms and 100 submissions per month.
+*   [HeroTofu.com](https://herotofu.com/) - Forms backend with bot detection and encrypted archive. Forward submissions via UI to email, Slack, or Zapier. Use your own front end. No server code is required. The free plan gives unlimited forms and 100 submissions per month.
 
 ## [14. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-ucloud (⭐63)](https://github.com/ucloud/terraform-provider-ucloud) - Provider to manage UCloud resources.
+*   [terraform-provider-ucloud (⭐65)](https://github.com/ucloud/terraform-provider-ucloud) - Provider to manage UCloud resources.
 
 ---
 

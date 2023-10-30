@@ -16,27 +16,26 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [rafamadriz/neon (⭐137)](https://github.com/rafamadriz/neon) - Customizable colorscheme with excellent italic and bold support, dark and light variants. Made to work and look good with Tree-sitter.
-*   [bluz71/vim-moonfly-colors (⭐607)](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal colorscheme with modern Neovim support including Tree-sitter.
-*   [ChristianChiarulli/nvcode-color-schemes.vim (⭐281)](https://github.com/ChristianChiarulli/nvcode-color-schemes.vim) - Nvcode, onedark, nord colorschemes with Tree-sitter support.
-*   [folke/tokyonight.nvim (⭐3.6k)](https://github.com/folke/tokyonight.nvim) - A clean, dark and light Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.
-*   [glepnir/zephyr-nvim (⭐288)](https://github.com/glepnir/zephyr-nvim) - A dark colorscheme with Tree-sitter support.
-*   [rockerBOO/boo-colorscheme-nvim (⭐114)](https://github.com/rockerBOO/boo-colorscheme-nvim) - A colorscheme with handcrafted support for LSP, Tree-sitter.
-*   [ray-x/aurora (⭐229)](https://github.com/ray-x/aurora) - A 24-bit dark theme with Tree-sitter and LSP support.
-*   [lourenci/github-colors (⭐74)](https://github.com/lourenci/github-colors) - GitHub colors leveraging Tree-sitter to get 100% accuracy.
-*   [yashguptaz/calvera-dark.nvim (⭐125)](https://github.com/yashguptaz/calvera-dark.nvim) - A port of [VSCode Calvara Dark (⭐13)](https://github.com/saurabhdaware/vscode-calvera-dark) Theme to Neovim with Tree-sitter and many other plugins support.
-*   [kdheepak/monochrome.nvim (⭐48)](https://github.com/kdheepak/monochrome.nvim) - A 16 bit monochrome colorscheme that uses hsluv for perceptually distinct gray colors, with support for Tree-sitter and other commonly used plugins.
+*   [rafamadriz/neon (⭐152)](https://github.com/rafamadriz/neon) - Customizable colorscheme with excellent italic and bold support, dark and light variants. Made to work and look good with Tree-sitter.
+*   [bluz71/vim-moonfly-colors (⭐668)](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal colorscheme with modern Neovim support including Tree-sitter.
+*   [ChristianChiarulli/nvcode-color-schemes.vim (⭐280)](https://github.com/ChristianChiarulli/nvcode-color-schemes.vim) - Nvcode, onedark, nord colorschemes with Tree-sitter support.
+*   [folke/tokyonight.nvim (⭐4.2k)](https://github.com/folke/tokyonight.nvim) - A clean, dark and light Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.
+*   [rockerBOO/boo-colorscheme-nvim (⭐145)](https://github.com/rockerBOO/boo-colorscheme-nvim) - A colorscheme with handcrafted support for LSP, Tree-sitter.
+*   [ray-x/aurora (⭐254)](https://github.com/ray-x/aurora) - A 24-bit dark theme with Tree-sitter and LSP support.
+*   [lourenci/github-colors (⭐86)](https://github.com/lourenci/github-colors) - GitHub colors leveraging Tree-sitter to get 100% accuracy.
+*   [yashguptaz/calvera-dark.nvim (⭐135)](https://github.com/yashguptaz/calvera-dark.nvim) - A port of [VSCode Calvara Dark (⭐12)](https://github.com/saurabhdaware/vscode-calvera-dark) Theme to Neovim with Tree-sitter and many other plugins support.
+*   [kdheepak/monochrome.nvim (⭐60)](https://github.com/kdheepak/monochrome.nvim) - A 16 bit monochrome colorscheme that uses hsluv for perceptually distinct gray colors, with support for Tree-sitter and other commonly used plugins.
 
 ### Lua Colorscheme / Diagnostics
 
-*   [tjdevries/gruvbuddy.nvim (⭐96)](https://github.com/tjdevries/gruvbuddy.nvim) - Gruvbox colors.
+*   [tjdevries/gruvbuddy.nvim (⭐106)](https://github.com/tjdevries/gruvbuddy.nvim) - Gruvbox colors.
 
 ## [3. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### GUI
 
 *   [MissionKontrol](https://www.missionkontrol.io) - Modern drag & drop admin panel/client with full user permissions for non-technical users.
-*   [sqlite-tui (⭐1.2k)](https://github.com/mathaou/sqlite-tui) - A TUI for viewing sqlite databases, written in Go.
+*   [sqlite-tui (⭐1.3k)](https://github.com/mathaou/sqlite-tui) - A TUI for viewing sqlite databases, written in Go.
 
 ### Reporting / Zabbix
 
@@ -46,7 +45,7 @@
 
 ### UI
 
-*   [Rounded Loading Button (⭐221)](https://github.com/chrisedg87/flutter_rounded_loading_button) <!--stargazers:chrisedg87/flutter_rounded_loading_button--> - Button with a loading indicator, complete with success and error animations by [Chris Edgington](https://twitter.com/ChrisTheEdg)
+*   [Rounded Loading Button (⭐257)](https://github.com/chrisedg87/flutter_rounded_loading_button) <!--stargazers:chrisedg87/flutter_rounded_loading_button--> - Button with a loading indicator, complete with success and error animations by [Chris Edgington](https://twitter.com/ChrisTheEdg)
 
 ## [5. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
@@ -92,13 +91,13 @@
 
 ### HTTP
 
-*   [hato (⭐326)](https://github.com/gnarroway/hato) : An HTTP client for Clojure, wrapping JDK 11's HttpClient
+*   [hato (⭐331)](https://github.com/gnarroway/hato) : An HTTP client for Clojure, wrapping JDK 11's HttpClient
 
 ## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Localization / Barcode
 
-*   [Locheck (⭐78)](https://github.com/Asana/locheck) - Validate .strings and .stringsdict files for errors
+*   [Locheck (⭐89)](https://github.com/Asana/locheck) - Validate .strings and .stringsdict files for errors
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -115,8 +114,8 @@
 
 ### Storage and Media Processing
 
-*   [uploadcare.com](https://uploadcare.com/hub/developers/) — Uploadcare provides media pipeline  with ultimate toolkit based on cutting-edge algorithms. All features are available for developers absolutely for free: File Uploading API and UI, Image CDN and Origin Services, Adaptive Delivery and Smart Compression. Limit free tier has 3000 uploads, 3 GB traffic and 3 GB storage.
-*   [degoo.com](https://degoo.com/) – AI based cloud storage with free up to 20 Gb, 3 devices, 5 Gb referral bonus (90 days account inactivity).
+*   [uploadcare.com](https://uploadcare.com/hub/developers/) — Uploadcare provides the media pipeline  with the ultimate toolkit based on cutting-edge algorithms. All features are available for developers absolutely for free: File Uploading API and UI, Image CDN and Origin Services, Adaptive Delivery, and Smart Compression. The free tier has 3000 uploads, 3 GB traffic, and 3 GB storage.
+*   [degoo.com](https://degoo.com/) – AI based cloud storage with free up to 20 GB, three devices, 5 GB referral bonus (90 days account inactivity).
 
 ## [12. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 

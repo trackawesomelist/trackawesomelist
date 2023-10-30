@@ -22,7 +22,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [mlfinlab (⭐3.4k)](https://github.com/hudson-and-thames/mlfinlab) - Implementations regarding "Advances in Financial Machine Learning" by Marcos Lopez de Prado. (Feature Engineering, Financial Data Structures, Meta-Labeling)
+*   [mlfinlab (⭐3.6k)](https://github.com/hudson-and-thames/mlfinlab) - Implementations regarding "Advances in Financial Machine Learning" by Marcos Lopez de Prado. (Feature Engineering, Financial Data Structures, Meta-Labeling)
 
 ## [4. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 

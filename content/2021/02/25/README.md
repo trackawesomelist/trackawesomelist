@@ -10,7 +10,7 @@
 
 ### Miscellaneous
 
-*   [react-swipeable-list (⭐74)](https://github.com/marekrozmus/react-swipeable-list) - [demo](https://marekrozmus.github.io/react-swipeable-list/) - Configurable component to render list with swipeable items.
+*   [react-swipeable-list (⭐89)](https://github.com/marekrozmus/react-swipeable-list) - [demo](https://marekrozmus.github.io/react-swipeable-list/) - Configurable component to render list with swipeable items.
 
 ## [2. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
@@ -61,7 +61,7 @@
 ### Open Source Projects / Libraries
 
 *   [ApexCharts](https://www.patreon.com/junedchhipa), [#2](https://opencollective.com/apexchartsjs) - JavaScript charts library.
-*   [Dear ImGui (⭐44k)](https://github.com/ocornut/imgui/wiki/Sponsors) - Immediate Mode Graphical User interface for C++.
+*   [Dear ImGui (⭐48k)](https://github.com/ocornut/imgui/wiki/Sponsors) - Immediate Mode Graphical User interface for C++.
 *   [Hapi.js](https://opencollective.com/hapijs) - Node.js framework.
 
 ### People Doing Open Source Work / Hardware related
@@ -76,7 +76,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Yacht (⭐2.6k)](https://github.com/Selfhostedpro/Yacht) - A Docker container management webui using Vuetify for a hassle free way of managing docker containers and projects.
+*   [Yacht (⭐2.9k)](https://github.com/Selfhostedpro/Yacht) - A Docker container management webui using Vuetify for a hassle free way of managing docker containers and projects.
 
 ### Components & Libraries / UI Utilities
 
@@ -84,7 +84,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [swrv (⭐1.9k)](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue.
+*   [swrv (⭐2k)](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -168,98 +168,98 @@
 
 ### Multimedia
 
-*   [Spot (⭐2k)](https://github.com/xou816/spot) - Spotify Client.
+*   [Spot (⭐2.1k)](https://github.com/xou816/spot) - Spotify Client.
 
 ## [11. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Gems / Other external resources
 
-*   [rails](https://github.com/rails/rails) - A full-stack web development framework [:red\_circle:](https://rubygems.org/gems/rails)
-*   [ace-rails-ap (⭐138)](https://github.com/codykrieger/ace-rails-ap) - A gem to integrate ajax.org cloud9 editor into Rails asset pipeline. [:red\_circle:](https://rubygems.org/gems/ace-rails-ap)
-*   [action\_policy (⭐1.1k)](https://github.com/palkan/action_policy) - A tool to handle authorization. [:red\_circle:](https://rubygems.org/gems/action_policy)
-*   [active\_decorator](https://github.com/amatsuda/active_decorator) - A gem to keep views & helpers object-oriented. [:red\_circle:](https://rubygems.org/gems/active_decorator)
-*   [active\_enum](https://github.com/adzap/active_enum) - A gem to provide enum classes [:red\_circle:](https://rubygems.org/gems/active_enum)
-*   [activeadmin](https://github.com/activeadmin/activeadmin) - A gem to provide admin panel. [:red\_circle:](https://rubygems.org/gems/activeadmin)
-*   [activerecord-analyze (⭐184)](https://github.com/pawurb/activerecord-analyze) - A gem to add EXPLAIN ANALYZE to Rails Active Record query objects. [:red\_circle:](https://rubygems.org/gems/activerecord-analyze)
-*   [activerecord-import (⭐3.8k)](https://github.com/zdennis/activerecord-import) - A gem to handle bulk data insertion using ActiveRecord. [:red\_circle:](https://rubygems.org/gems/activerecord-import)
-*   [activerecord-pg\_enum](https://github.com/alassek/activerecord-pg_enum) - A gem to integrate PostgreSQL's enumerated types with the Rails enum feature. [:red\_circle:](https://rubygems.org/gems/activerecord-pg_enum)
-*   [activerecord-postgis-adapter (⭐802)](https://github.com/rgeo/activerecord-postgis-adapter) - ActiveRecord connection adapter for PostGIS. [:red\_circle:](https://rubygems.org/gems/activerecord-postgis-adapter)
-*   [activerecord-postgres\_enum (⭐335)](https://github.com/bibendi/activerecord-postgres_enum) - A gem to adds migration and schema.rb support to PostgreSQL enum data types. [:red\_circle:](https://rubygems.org/gems/activerecord-postgres_enum)
-*   [activerecord-sqlserver-adapter (⭐947)](https://github.com/rails-sqlserver/activerecord-sqlserver-adapter) - ActiveRecord connection adapter for the SQL Server. [:red\_circle:](https://rubygems.org/gems/activerecord-sqlserver-adapter)
-*   [activerecord-typedstore (⭐372)](https://github.com/byroot/activerecord-typedstore) - A gem to implement `ActiveRecord::Store` with type definition. [:red\_circle:](https://rubygems.org/gems/activerecord-typedstore)
-*   [activity\_notification (⭐436)](https://github.com/simukappu/activity_notification) - A gem to integrate user activity notification. [:red\_circle:](https://rubygems.org/gems/activity_notification)
-*   [aggregate\_root](https://github.com/RailsEventStore/rails_event_store/tree/master/aggregate_root) - A gem to handle event sourcing. [:red\_circle:](https://rubygems.org/gems/aggregate_root)
-*   [ahoy\_email](https://github.com/ankane/ahoy_email) - A tool to provide mail analytics. [:red\_circle:](https://rubygems.org/gems/ahoy_email)
-*   [algoliasearch-rails (⭐390)](https://github.com/algolia/algoliasearch-rails) - A gem to integrate Algolia search. [:red\_circle:](https://rubygems.org/gems/algoliasearch-rails)
-*   [annotate (⭐4.1k)](https://github.com/ctran/annotate_models) - A gem to annotate rails classes with schema & routes info. [:red\_circle:](https://rubygems.org/gems/annotate)
-*   [anycable-rails](https://github.com/anycable/anycable-rails) - A gem to handle websocket server. [:red\_circle:](https://rubygems.org/gems/anycable-rails)
-*   [apipie-rails](https://github.com/apipie/apipie-rails) - A REST API documentation tool. [:red\_circle:](https://rubygems.org/gems/apipie-rails)
-*   [auther (⭐25)](https://github.com/bkuhlmann/auther) - A gem to provide simple, form-based authentication. [:red\_circle:](https://rubygems.org/gems/auther)
-*   [autoprefixer-rails](https://github.com/ai/autoprefixer-rails) - A gem to add vendor prefixes to stylesheets. [:red\_circle:](https://rubygems.org/gems/autoprefixer-rails)
+*   [rails (⭐54k)](https://github.com/rails/rails) - A full-stack web development framework [:red\_circle:](https://rubygems.org/gems/rails)
+*   [ace-rails-ap (⭐135)](https://github.com/codykrieger/ace-rails-ap) - A gem to integrate ajax.org cloud9 editor into Rails asset pipeline. [:red\_circle:](https://rubygems.org/gems/ace-rails-ap)
+*   [action\_policy (⭐1.2k)](https://github.com/palkan/action_policy) - A tool to handle authorization. [:red\_circle:](https://rubygems.org/gems/action_policy)
+*   [active\_decorator (⭐1.1k)](https://github.com/amatsuda/active_decorator) - A gem to keep views & helpers object-oriented. [:red\_circle:](https://rubygems.org/gems/active_decorator)
+*   [active\_enum (⭐125)](https://github.com/adzap/active_enum) - A gem to provide enum classes [:red\_circle:](https://rubygems.org/gems/active_enum)
+*   [activeadmin (⭐9.4k)](https://github.com/activeadmin/activeadmin) - A gem to provide admin panel. [:red\_circle:](https://rubygems.org/gems/activeadmin)
+*   [activerecord-analyze (⭐204)](https://github.com/pawurb/activerecord-analyze) - A gem to add EXPLAIN ANALYZE to Rails Active Record query objects. [:red\_circle:](https://rubygems.org/gems/activerecord-analyze)
+*   [activerecord-import (⭐3.9k)](https://github.com/zdennis/activerecord-import) - A gem to handle bulk data insertion using ActiveRecord. [:red\_circle:](https://rubygems.org/gems/activerecord-import)
+*   [activerecord-pg\_enum (⭐167)](https://github.com/alassek/activerecord-pg_enum) - A gem to integrate PostgreSQL's enumerated types with the Rails enum feature. [:red\_circle:](https://rubygems.org/gems/activerecord-pg_enum)
+*   [activerecord-postgis-adapter (⭐826)](https://github.com/rgeo/activerecord-postgis-adapter) - ActiveRecord connection adapter for PostGIS. [:red\_circle:](https://rubygems.org/gems/activerecord-postgis-adapter)
+*   [activerecord-postgres\_enum (⭐347)](https://github.com/bibendi/activerecord-postgres_enum) - A gem to adds migration and schema.rb support to PostgreSQL enum data types. [:red\_circle:](https://rubygems.org/gems/activerecord-postgres_enum)
+*   [activerecord-sqlserver-adapter (⭐954)](https://github.com/rails-sqlserver/activerecord-sqlserver-adapter) - ActiveRecord connection adapter for the SQL Server. [:red\_circle:](https://rubygems.org/gems/activerecord-sqlserver-adapter)
+*   [activerecord-typedstore (⭐419)](https://github.com/byroot/activerecord-typedstore) - A gem to implement `ActiveRecord::Store` with type definition. [:red\_circle:](https://rubygems.org/gems/activerecord-typedstore)
+*   [activity\_notification (⭐463)](https://github.com/simukappu/activity_notification) - A gem to integrate user activity notification. [:red\_circle:](https://rubygems.org/gems/activity_notification)
+*   [aggregate\_root (⭐1.3k)](https://github.com/RailsEventStore/rails_event_store/tree/master/aggregate_root) - A gem to handle event sourcing. [:red\_circle:](https://rubygems.org/gems/aggregate_root)
+*   [ahoy\_email (⭐1.1k)](https://github.com/ankane/ahoy_email) - A tool to provide mail analytics. [:red\_circle:](https://rubygems.org/gems/ahoy_email)
+*   [algoliasearch-rails (⭐401)](https://github.com/algolia/algoliasearch-rails) - A gem to integrate Algolia search. [:red\_circle:](https://rubygems.org/gems/algoliasearch-rails)
+*   [annotate (⭐4.2k)](https://github.com/ctran/annotate_models) - A gem to annotate rails classes with schema & routes info. [:red\_circle:](https://rubygems.org/gems/annotate)
+*   [anycable-rails (⭐453)](https://github.com/anycable/anycable-rails) - A gem to handle websocket server. [:red\_circle:](https://rubygems.org/gems/anycable-rails)
+*   [apipie-rails (⭐2.4k)](https://github.com/apipie/apipie-rails) - A REST API documentation tool. [:red\_circle:](https://rubygems.org/gems/apipie-rails)
+*   [auther (⭐23)](https://github.com/bkuhlmann/auther) - A gem to provide simple, form-based authentication. [:red\_circle:](https://rubygems.org/gems/auther)
+*   [autoprefixer-rails (⭐1.2k)](https://github.com/ai/autoprefixer-rails) - A gem to add vendor prefixes to stylesheets. [:red\_circle:](https://rubygems.org/gems/autoprefixer-rails)
 *   [better\_errors (⭐6.8k)](https://github.com/BetterErrors/better_errors) - A tool to provide better error page. [:red\_circle:](https://rubygems.org/gems/better_errors)
-*   [brakeman (⭐6.6k)](https://github.com/presidentbeef/brakeman) - A gem to scan code against security vulnerabilities. [:red\_circle:](https://rubygems.org/gems/brakeman)
-*   [breadcrumbs\_on\_rails (⭐923)](https://github.com/weppos/breadcrumbs_on_rails) - A gem to create & manage breadcrumbs-style navigation. [:red\_circle:](https://rubygems.org/gems/breadcrumbs_on_rails)
-*   [bulma-rails (⭐338)](https://github.com/joshuajansen/bulma-rails) - A wrapper for Bulma, a CSS framework based on flexbox. [:red\_circle:](https://rubygems.org/gems/bulma-rails)
-*   [cancancan](https://github.com/cancancommunity/cancancan) - A gem to handle authorization. [:red\_circle:](https://rubygems.org/gems/cancancan)
+*   [brakeman (⭐6.8k)](https://github.com/presidentbeef/brakeman) - A gem to scan code against security vulnerabilities. [:red\_circle:](https://rubygems.org/gems/brakeman)
+*   [breadcrumbs\_on\_rails (⭐930)](https://github.com/weppos/breadcrumbs_on_rails) - A gem to create & manage breadcrumbs-style navigation. [:red\_circle:](https://rubygems.org/gems/breadcrumbs_on_rails)
+*   [bulma-rails (⭐340)](https://github.com/joshuajansen/bulma-rails) - A wrapper for Bulma, a CSS framework based on flexbox. [:red\_circle:](https://rubygems.org/gems/bulma-rails)
+*   [cancancan (⭐5.4k)](https://github.com/cancancommunity/cancancan) - A gem to handle authorization. [:red\_circle:](https://rubygems.org/gems/cancancan)
 *   [carrierwave (⭐8.8k)](https://github.com/carrierwaveuploader/carrierwave) - A gem to handle file uploads. [:red\_circle:](https://rubygems.org/gems/carrierwave)
-*   [caxlsx\_rails](https://github.com/caxlsx/caxlsx_rails) - A gem to generate entity-relationship diagram. [:red\_circle:](https://rubygems.org/gems/caxlsx_rails)
-*   [counter\_culture (⭐1.7k)](https://github.com/magnusvk/counter_culture) - A gem to provide counter caches. [:red\_circle:](https://rubygems.org/gems/counter_culture)
+*   [caxlsx\_rails (⭐702)](https://github.com/caxlsx/caxlsx_rails) - A gem to generate entity-relationship diagram. [:red\_circle:](https://rubygems.org/gems/caxlsx_rails)
+*   [counter\_culture (⭐1.8k)](https://github.com/magnusvk/counter_culture) - A gem to provide counter caches. [:red\_circle:](https://rubygems.org/gems/counter_culture)
 *   [devise (⭐23k)](https://github.com/heartcombo/devise) - A gem to provide authentication. [:red\_circle:](https://rubygems.org/gems/devise)
-*   [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) - A gem to introduce OAuth2 provider functionality. [:red\_circle:](https://rubygems.org/gems/doorkeeper)
-*   [draper](https://github.com/drapergem/draper) - A gem to add presentation logic. [:red\_circle:](https://rubygems.org/gems/draper)
-*   [factory\_bot\_rails](https://github.com/thoughtbot/factory_bot_rails) - A fixture replacement for testing in Rails [:red\_circle:](https://rubygems.org/gems/factory_bot_rails)
-*   [filestack-rails](https://github.com/filestack/filestack-rails) - A gem to integrate Filestack. [:red\_circle:](https://rubygems.org/gems/filestack-rails)
+*   [doorkeeper (⭐5.2k)](https://github.com/doorkeeper-gem/doorkeeper) - A gem to introduce OAuth2 provider functionality. [:red\_circle:](https://rubygems.org/gems/doorkeeper)
+*   [draper (⭐5.2k)](https://github.com/drapergem/draper) - A gem to add presentation logic. [:red\_circle:](https://rubygems.org/gems/draper)
+*   [factory\_bot\_rails (⭐3k)](https://github.com/thoughtbot/factory_bot_rails) - A fixture replacement for testing in Rails [:red\_circle:](https://rubygems.org/gems/factory_bot_rails)
+*   [filestack-rails (⭐223)](https://github.com/filestack/filestack-rails) - A gem to integrate Filestack. [:red\_circle:](https://rubygems.org/gems/filestack-rails)
 *   [formtastic (⭐5.2k)](https://github.com/formtastic/formtastic) - A Rails form builder gem with semantically rich and accessible markup. [:red\_circle:](https://rubygems.org/gems/formtastic)
-*   [friendly\_id](https://github.com/norman/friendly_id) - A gem to deal with slugs & permalinks. [:red\_circle:](https://rubygems.org/gems/friendly_id)
-*   [frozen\_record (⭐265)](https://github.com/byroot/frozen_record) - A gem to provide ActiveRecord-like interface to query static YAML files. [:red\_circle:](https://rubygems.org/gems/frozen_record)
-*   [geokit-rails (⭐1.5k)](https://github.com/geokit/geokit-rails) - A gem to integrate Geokit in Rails apps. [:red\_circle:](https://rubygems.org/gems/geokit-rails)
-*   [good\_job (⭐1.7k)](https://github.com/bensheldon/good_job) - A gem to provide Postgres-based ActiveJob backend. [:red\_circle:](https://rubygems.org/gems/good_job)
-*   [gretel (⭐86)](https://github.com/kzkn/gretel) - A tool to generate breadcrumbs. [:red\_circle:](https://rubygems.org/gems/gretel)
+*   [friendly\_id (⭐6k)](https://github.com/norman/friendly_id) - A gem to deal with slugs & permalinks. [:red\_circle:](https://rubygems.org/gems/friendly_id)
+*   [frozen\_record (⭐306)](https://github.com/byroot/frozen_record) - A gem to provide ActiveRecord-like interface to query static YAML files. [:red\_circle:](https://rubygems.org/gems/frozen_record)
+*   [geokit-rails (⭐1.6k)](https://github.com/geokit/geokit-rails) - A gem to integrate Geokit in Rails apps. [:red\_circle:](https://rubygems.org/gems/geokit-rails)
+*   [good\_job (⭐2k)](https://github.com/bensheldon/good_job) - A gem to provide Postgres-based ActiveJob backend. [:red\_circle:](https://rubygems.org/gems/good_job)
+*   [gretel (⭐92)](https://github.com/kzkn/gretel) - A tool to generate breadcrumbs. [:red\_circle:](https://rubygems.org/gems/gretel)
 *   [groupdate (⭐3.6k)](https://github.com/ankane/groupdate) - A gem to manage temporal data. [:red\_circle:](https://rubygems.org/gems/groupdate)
-*   [hotwire-rails](https://github.com/hotwired/hotwire-rails) - A gem to integrate Hotwire in Rails apps. [:red\_circle:](https://rubygems.org/gems/hotwire-rails)
+*   [hotwire-rails (⭐968)](https://github.com/hotwired/hotwire-rails) - A gem to integrate Hotwire in Rails apps. [:red\_circle:](https://rubygems.org/gems/hotwire-rails)
 *   [image\_optim\_rails (⭐51)](https://github.com/toy/image_optim_rails) - A gem to handle image optimization. [:red\_circle:](https://rubygems.org/gems/image_optim_rails)
-*   [js-routes](https://github.com/railsware/js-routes) - A tool to generate all Rails routes as JavaScript helpers. [:red\_circle:](https://rubygems.org/gems/js-routes)
-*   [kaminari (⭐8.3k)](https://github.com/kaminari/kaminari) - A gem to provide pagination. [:red\_circle:](https://rubygems.org/gems/kaminari)
-*   [kt-paperclip (⭐215)](https://github.com/kreeti/kt-paperclip) - A gem to handle file uploads. [:red\_circle:](https://rubygems.org/gems/kt-paperclip)
+*   [js-routes (⭐1.6k)](https://github.com/railsware/js-routes) - A tool to generate all Rails routes as JavaScript helpers. [:red\_circle:](https://rubygems.org/gems/js-routes)
+*   [kaminari (⭐8.4k)](https://github.com/kaminari/kaminari) - A gem to provide pagination. [:red\_circle:](https://rubygems.org/gems/kaminari)
+*   [kt-paperclip (⭐241)](https://github.com/kreeti/kt-paperclip) - A gem to handle file uploads. [:red\_circle:](https://rubygems.org/gems/kt-paperclip)
 *   [lockbox (⭐1.3k)](https://github.com/ankane/lockbox) - A gem to deal with encryption. [:red\_circle:](https://rubygems.org/gems/lockbox)
-*   [lograge](https://github.com/roidrage/lograge) - A gem to customize logger in Rails apps. [:red\_circle:](https://rubygems.org/gems/lograge)
-*   [mailkick](https://github.com/ankane/mailkick) - A tool to handle mail unsubscriptions. [:red\_circle:](https://rubygems.org/gems/mailkick)
-*   [marginalia (⭐1.6k)](https://github.com/basecamp/marginalia) - A gem to attach comments to ActiveRecord's SQL queries. [:red\_circle:](https://rubygems.org/gems/marginalia)
-*   [metka (⭐49)](https://github.com/jetrockets/metka) - A gem to manage tags using Postgresql array columns. [:red\_circle:](https://rubygems.org/gems/metka)
-*   [money-rails (⭐1.6k)](https://github.com/RubyMoney/money-rails) - A gem to integrate Money gem in Rails apps. [:red\_circle:](https://rubygems.org/gems/money-rails)
+*   [lograge (⭐3.3k)](https://github.com/roidrage/lograge) - A gem to customize logger in Rails apps. [:red\_circle:](https://rubygems.org/gems/lograge)
+*   [mailkick (⭐851)](https://github.com/ankane/mailkick) - A tool to handle mail unsubscriptions. [:red\_circle:](https://rubygems.org/gems/mailkick)
+*   [marginalia (⭐1.7k)](https://github.com/basecamp/marginalia) - A gem to attach comments to ActiveRecord's SQL queries. [:red\_circle:](https://rubygems.org/gems/marginalia)
+*   [metka (⭐51)](https://github.com/jetrockets/metka) - A gem to manage tags using Postgresql array columns. [:red\_circle:](https://rubygems.org/gems/metka)
+*   [money-rails (⭐1.7k)](https://github.com/RubyMoney/money-rails) - A gem to integrate Money gem in Rails apps. [:red\_circle:](https://rubygems.org/gems/money-rails)
 *   [paloma (⭐93)](https://github.com/gnclmorais/paloma) - A gem to manage page-specific JavaScript in Rails apps. [:red\_circle:](https://rubygems.org/gems/paloma)
-*   [pgcli-rails (⭐25)](https://github.com/mattbrictson/pgcli-rails) - A replacement of `rails:dbconsole` command to manage Postgresql. [:red\_circle:](https://rubygems.org/gems/pgcli-rails)
-*   [premailer-rails](https://github.com/fphilipe/premailer-rails) - A gem to handle email styling. [:red\_circle:](https://rubygems.org/gems/premailer-rails)
-*   [prerender\_rails](https://github.com/prerender/prerender_rails) - A gem to prerender JavaScript-rendered pages. [:red\_circle:](https://rubygems.org/gems/prerender_rails)
-*   [rails-erd](https://github.com/voormedia/rails-erd) - A gem to generate entity-relationship diagram. [:red\_circle:](https://rubygems.org/gems/rails-erd)
-*   [rails-settings-cached](https://github.com/huacnlee/rails-settings-cached) - A gem to manage global settings as key-value pairs. [:red\_circle:](https://rubygems.org/gems/rails-settings-cached)
-*   [rails\_event\_store](https://github.com/RailsEventStore/rails_event_store) - A gem to implement event store in Rails [:red\_circle:](https://rubygems.org/gems/rails_event_store)
-*   [ransack](https://github.com/activerecord-hackery/ransack) - A gem to provide search functionality. [:red\_circle:](https://rubygems.org/gems/ransack)
-*   [react-rails (⭐6.6k)](https://github.com/reactjs/react-rails) - A gem to integrate React.js with Rails app. [:red\_circle:](https://rubygems.org/gems/react-rails)
-*   [redisWebManager (⭐163)](https://github.com/OpenGems/redis_web_manager) - Web interface that allows you to manage easily your Redis instance. [:red\_circle:](https://rubygems.org/gems/redis_web_manager)
-*   [reform-rails (⭐82)](https://github.com/trailblazer/reform-rails) - A gem to wrap Reform gem, a form validation tool, with Rails app. [:red\_circle:](https://rubygems.org/gems/reform-rails)
-*   [rgeo-activerecord](https://github.com/rgeo/rgeo-activerecord) - A gem to provide common tools used by RGeo-based spatial adapters. [:red\_circle:](https://rubygems.org/gems/rgeo-activerecord)
-*   [rodauth-rails (⭐408)](https://github.com/janko/rodauth-rails) - A gem to wrap Rodauth, an authentication handler, for Rails apps. [:red\_circle:](https://rubygems.org/gems/rodauth-rails)
-*   [rollup (⭐218)](https://github.com/ankane/rollup) -  A gem to handle time-series data in Rails [:red\_circle:](https://rubygems.org/gems/rollups)
-*   [route\_translator](https://github.com/enriclluelles/route_translator) - A tool to handle route translation. [:red\_circle:](https://rubygems.org/gems/route_translator)
-*   [rspec-rails (⭐4.9k)](https://github.com/rspec/rspec-rails) - A testing framework. [:red\_circle:](https://rubygems.org/gems/rspec-rails)
-*   [scenic (⭐3.1k)](https://github.com/scenic-views/scenic) - A gem to manage database views. [:red\_circle:](https://rubygems.org/gems/scenic)
-*   [searchkick](https://github.com/ankane/searchkick) - A gem to provide search functionality. [:red\_circle:](https://rubygems.org/gems/searchkick)
+*   [pgcli-rails (⭐27)](https://github.com/mattbrictson/pgcli-rails) - A replacement of `rails:dbconsole` command to manage Postgresql. [:red\_circle:](https://rubygems.org/gems/pgcli-rails)
+*   [premailer-rails (⭐1.6k)](https://github.com/fphilipe/premailer-rails) - A gem to handle email styling. [:red\_circle:](https://rubygems.org/gems/premailer-rails)
+*   [prerender\_rails (⭐358)](https://github.com/prerender/prerender_rails) - A gem to prerender JavaScript-rendered pages. [:red\_circle:](https://rubygems.org/gems/prerender_rails)
+*   [rails-erd (⭐3.9k)](https://github.com/voormedia/rails-erd) - A gem to generate entity-relationship diagram. [:red\_circle:](https://rubygems.org/gems/rails-erd)
+*   [rails-settings-cached (⭐1k)](https://github.com/huacnlee/rails-settings-cached) - A gem to manage global settings as key-value pairs. [:red\_circle:](https://rubygems.org/gems/rails-settings-cached)
+*   [rails\_event\_store (⭐1.3k)](https://github.com/RailsEventStore/rails_event_store) - A gem to implement event store in Rails [:red\_circle:](https://rubygems.org/gems/rails_event_store)
+*   [ransack (⭐5.5k)](https://github.com/activerecord-hackery/ransack) - A gem to provide search functionality. [:red\_circle:](https://rubygems.org/gems/ransack)
+*   [react-rails (⭐6.7k)](https://github.com/reactjs/react-rails) - A gem to integrate React.js with Rails app. [:red\_circle:](https://rubygems.org/gems/react-rails)
+*   [redisWebManager (⭐164)](https://github.com/OpenGems/redis_web_manager) - Web interface that allows you to manage easily your Redis instance. [:red\_circle:](https://rubygems.org/gems/redis_web_manager)
+*   [reform-rails (⭐97)](https://github.com/trailblazer/reform-rails) - A gem to wrap Reform gem, a form validation tool, with Rails app. [:red\_circle:](https://rubygems.org/gems/reform-rails)
+*   [rgeo-activerecord (⭐83)](https://github.com/rgeo/rgeo-activerecord) - A gem to provide common tools used by RGeo-based spatial adapters. [:red\_circle:](https://rubygems.org/gems/rgeo-activerecord)
+*   [rodauth-rails (⭐486)](https://github.com/janko/rodauth-rails) - A gem to wrap Rodauth, an authentication handler, for Rails apps. [:red\_circle:](https://rubygems.org/gems/rodauth-rails)
+*   [rollup (⭐250)](https://github.com/ankane/rollup) -  A gem to handle time-series data in Rails [:red\_circle:](https://rubygems.org/gems/rollups)
+*   [route\_translator (⭐818)](https://github.com/enriclluelles/route_translator) - A tool to handle route translation. [:red\_circle:](https://rubygems.org/gems/route_translator)
+*   [rspec-rails (⭐5k)](https://github.com/rspec/rspec-rails) - A testing framework. [:red\_circle:](https://rubygems.org/gems/rspec-rails)
+*   [scenic (⭐3.2k)](https://github.com/scenic-views/scenic) - A gem to manage database views. [:red\_circle:](https://rubygems.org/gems/scenic)
+*   [searchkick (⭐6.3k)](https://github.com/ankane/searchkick) - A gem to provide search functionality. [:red\_circle:](https://rubygems.org/gems/searchkick)
 *   [select2-rails (⭐966)](https://github.com/argerim/select2-rails) - A gem to integrate Select2 library in Rails apps. [:red\_circle:](https://rubygems.org/gems/select2-rails)
-*   [sequel-activerecord\_connection (⭐120)](https://github.com/janko/sequel-activerecord_connection) - A gem to allow Sequel to reuse an ActiveRecord connection. [:red\_circle:](https://rubygems.org/gems/sequel-activerecord_connection)
+*   [sequel-activerecord\_connection (⭐123)](https://github.com/janko/sequel-activerecord_connection) - A gem to allow Sequel to reuse an ActiveRecord connection. [:red\_circle:](https://rubygems.org/gems/sequel-activerecord_connection)
 *   [simple\_form (⭐8.1k)](https://github.com/heartcombo/simple_form) - A gem to handle forms. [:red\_circle:](https://rubygems.org/gems/simple_form)
-*   [solidus (⭐4.6k)](https://github.com/solidusio/solidus) - A fork of Spree gem, an open source e-commerce platform. [:red\_circle:](https://rubygems.org/gems/solidus)
-*   [sorbet-rails (⭐625)](https://github.com/chanzuckerberg/sorbet-rails) - A gem to integrate Sorbet gem in Rails apps. [:red\_circle:](https://rubygems.org/gems/sorbet-rails)
+*   [solidus (⭐4.8k)](https://github.com/solidusio/solidus) - A fork of Spree gem, an open source e-commerce platform. [:red\_circle:](https://rubygems.org/gems/solidus)
+*   [sorbet-rails (⭐636)](https://github.com/chanzuckerberg/sorbet-rails) - A gem to integrate Sorbet gem in Rails apps. [:red\_circle:](https://rubygems.org/gems/sorbet-rails)
 *   [spree (⭐12k)](https://github.com/spree/spree) - An open source e-commerce platform. [:red\_circle:](https://rubygems.org/gems/spree)
 *   [spring (⭐2.8k)](https://github.com/rails/spring) - A gem to preload Rails app. [:red\_circle:](https://rubygems.org/gems/spring)
-*   [sprockets (⭐880)](https://github.com/rails/sprockets) - A gem to compile & serve web assets. [:red\_circle:](https://rubygems.org/gems/sprockets)
-*   [stimulus-rails](https://github.com/hotwired/stimulus-rails) - A gem to integrate Stimulus.js in Rails apps. [:red\_circle:](https://rubygems.org/gems/stimulus-rails)
-*   [tinymce-rails (⭐809)](https://github.com/spohlenz/tinymce-rails) - A gem to integrate Tinymce in Rails apps. [:red\_circle:](https://rubygems.org/gems/tinymce-rails)
-*   [transloadit-rails](https://github.com/transloadit/rails-sdk) - A gem to integrate Transloadit's file uploading and encoding service. [:red\_circle:](https://rubygems.org/gems/transloadit-rails)
-*   [trove](https://github.com/ankane/trove) - A gem to handle machine learning models deployment. [:red\_circle:](https://rubygems.org/gems/trove)
-*   [turbo-rails](https://github.com/hotwired/turbo-rails) - A gem to integrate Turbo.js in Rails apps. [:red\_circle:](https://rubygems.org/gems/turbo-rails)
+*   [sprockets (⭐905)](https://github.com/rails/sprockets) - A gem to compile & serve web assets. [:red\_circle:](https://rubygems.org/gems/sprockets)
+*   [stimulus-rails (⭐535)](https://github.com/hotwired/stimulus-rails) - A gem to integrate Stimulus.js in Rails apps. [:red\_circle:](https://rubygems.org/gems/stimulus-rails)
+*   [tinymce-rails (⭐813)](https://github.com/spohlenz/tinymce-rails) - A gem to integrate Tinymce in Rails apps. [:red\_circle:](https://rubygems.org/gems/tinymce-rails)
+*   [transloadit-rails (⭐48)](https://github.com/transloadit/rails-sdk) - A gem to integrate Transloadit's file uploading and encoding service. [:red\_circle:](https://rubygems.org/gems/transloadit-rails)
+*   [trove (⭐57)](https://github.com/ankane/trove) - A gem to handle machine learning models deployment. [:red\_circle:](https://rubygems.org/gems/trove)
+*   [turbo-rails (⭐1.8k)](https://github.com/hotwired/turbo-rails) - A gem to integrate Turbo.js in Rails apps. [:red\_circle:](https://rubygems.org/gems/turbo-rails)
 *   [webpacker (⭐5.3k)](https://github.com/rails/webpacker) - A gem to bundle web assets using Webpack. [:red\_circle:](https://rubygems.org/gems/webpacker)
-*   [zeitwerk](https://github.com/fxn/zeitwerk) - A gem to handle thread-safe code loading. [:red\_circle:](https://rubygems.org/gems/zeitwerk)
+*   [zeitwerk (⭐1.8k)](https://github.com/fxn/zeitwerk) - A gem to handle thread-safe code loading. [:red\_circle:](https://rubygems.org/gems/zeitwerk)
 
 ## [12. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -269,25 +269,25 @@
 
 ## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [News API](https://newsapi.org) — Search news on the web with code, get JSON results. Developers get 3,000 queries free each month.
-*   [TinyMCE](https://www.tiny.cloud) - rich text editing API. Core features free for unlimited usage.
+*   [News API](https://newsapi.org) — Search news on the web with code, and get JSON results. Developers get 3,000 queries free each month.
+*   [TinyMCE](https://www.tiny.cloud) - rich text editing API. Core features are free for unlimited usage.
 
 ### Testing
 
 *   [Applitools.com](https://applitools.com/) — Smart visual validation for web, native mobile and desktop apps. Integrates with almost all automation solutions (like Selenium and Karma) and remote runners (Sauce Labs, Browser Stack). free for open source. A free tier for a single user with limited checkpoints per week.
-*   [webhook.site](https://webhook.site) - Verify webhooks, outbound HTTP requests, or emails with a custom URL.  Temporary URL and email address is always free.
+*   [webhook.site](https://webhook.site) - Verify webhooks, outbound HTTP requests, or emails with a custom URL. A temporary URL and email address are always free.
 
 ### Storage and Media Processing
 
-*   [borgbase.com](https://www.borgbase.com/) — Simple and secure offsite backup hosting for Borg Backup. 10 GB free backup space and 2 repositories.
+*   [borgbase.com](https://www.borgbase.com/) — Simple and secure offsite backup hosting for Borg Backup. 10 GB free backup space and two repositories.
 
 ## [14. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
-*   💼 [Content Placeholder (⭐105)](https://github.com/javisperez/tailwindcontentplaceholder) - Adds utilities for content placeholder images.
+*   💼 [Content Placeholder (⭐111)](https://github.com/javisperez/tailwindcontentplaceholder) - Adds utilities for content placeholder images.
 
 ---
 

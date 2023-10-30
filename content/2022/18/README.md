@@ -32,11 +32,11 @@
 
 ### Spreadsheet / Runner
 
-*   [Jspreadsheet CE (⭐6.3k)](https://github.com/jspreadsheet/ce) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with other spreadsheet software.
+*   [Jspreadsheet CE (⭐6.4k)](https://github.com/jspreadsheet/ce) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with other spreadsheet software.
 
 ### I18n And L10n / Runner
 
-*   [attranslate (⭐293)](https://github.com/fkirc/attranslate) - A JavaScript-tool for synchronizing translation-files, including JSON/YAML/XML and other formats.
+*   [attranslate (⭐286)](https://github.com/fkirc/attranslate) - A JavaScript-tool for synchronizing translation-files, including JSON/YAML/XML and other formats.
 
 ## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Avatars
 
-*   [Exokit Avatars (⭐59)](https://github.com/exokitxr/avatars) - A web-based avatar system that can load humanoid avatars in multiple different model formats and features arm+leg IK, facial animation via visemes, and more. The original repo is no longer maintained, but there is a more up-to-date fork available [here (⭐4)](https://github.com/msub2/avatars).
+*   [Exokit Avatars (⭐63)](https://github.com/exokitxr/avatars) - A web-based avatar system that can load humanoid avatars in multiple different model formats and features arm+leg IK, facial animation via visemes, and more. The original repo is no longer maintained, but there is a more up-to-date fork available [here (⭐6)](https://github.com/msub2/avatars).
 
 ### Companies and Cooperatives / Reddit
 
@@ -102,7 +102,7 @@
 
 ### Content Hubs / Reddit
 
-*   [Extended Collection](https://extendedcollection.com/) - Another curation hub for WebXR content maintained by [Joseph Simpson](https://github.com/vrhermit/).
+*   [Extended Collection](https://extendedcollection.com/) - A curated library of links to the Immersive Web maintained by [vrhermit](https://vrhermit.com/).
 
 ### YouTube / Realms
 
@@ -116,49 +116,45 @@
 
 ### Android
 
-*   [RethinkDNS + Firewall (⭐1.5k)](https://github.com/celzero/rethink-app) - An open-source, no-root firewall and DNS changer, with anti-censorship capabilities for Android 6+.
+*   [RethinkDNS + Firewall (⭐1.8k)](https://github.com/celzero/rethink-app) - An open-source, no-root firewall and DNS changer, with anti-censorship capabilities for Android 6+.
 
 ## [10. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
-### Command-Line Tools / Newsletters
+### Command-Line Tools / Discovery
 
-*   [alejandra (⭐388)](https://github.com/kamadorueda/alejandra) - An opinionated Nix code formatter optimized for speed and consistency.
+*   [alejandra (⭐480)](https://github.com/kamadorueda/alejandra) - An opinionated Nix code formatter optimized for speed and consistency.
 
 ## [11. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Email
 
-*   [go-mail (⭐280)](https://github.com/wneessen/go-mail) - A simple Go library for sending mails in Go.
+*   [go-mail (⭐341)](https://github.com/wneessen/go-mail) - A simple Go library for sending mails in Go.
 
 ### Third-party APIs
 
-*   [go-hibp (⭐7)](https://github.com/wneessen/go-hibp) - Simple Go binding to the "Have I Been Pwned" APIs.
+*   [go-hibp (⭐8)](https://github.com/wneessen/go-hibp) - Simple Go binding to the "Have I Been Pwned" APIs.
 
 ## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Games
 
-*   [Trains.NET (⭐203)](https://github.com/davidwengier/Trains.NET) - ![stars](https://img.shields.io/github/stars/davidwengier/Trains.NET?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/davidwengier/Trains.NET?style=flat-square\&cacheSeconds=86400) 2D game built with .NET and C# on a [Twitch stream](https://www.twitch.tv/davidwengier). Trains is available to play online at [wengier.com/Trains.NET](https://wengier.com/Trains.NET).
+*   [Trains.NET (⭐225)](https://github.com/davidwengier/Trains.NET) - ![stars](https://img.shields.io/github/stars/davidwengier/Trains.NET?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/davidwengier/Trains.NET?style=flat-square\&cacheSeconds=86400) 2D game built with .NET and C# on a [Twitch stream](https://www.twitch.tv/davidwengier). Trains is available to play online at [wengier.com/Trains.NET](https://wengier.com/Trains.NET).
 
 ### IoT
 
-*   [PresenceLight (⭐405)](https://github.com/isaacrlevin/PresenceLight) - ![stars](https://img.shields.io/github/stars/isaacrlevin/PresenceLight?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/isaacrlevin/PresenceLight?style=flat-square\&cacheSeconds=86400) PresenceLight is a solution to broadcast your various statuses to a Phillips Hue or LIFX light bulb. Some statuses you can broadcast are: your availability in Microsoft Teams, your current Windows 10 theme, and a theme or color of your choosing. [Blog post](https://www.isaaclevin.com/post/presence-light). [Demo video](https://www.youtube.com/playlist?list=PL_IEvQa-oTVtB3fKUclJNNJ1r-Sxtjc-m).
+*   [PresenceLight (⭐407)](https://github.com/isaacrlevin/PresenceLight) - ![stars](https://img.shields.io/github/stars/isaacrlevin/PresenceLight?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/isaacrlevin/PresenceLight?style=flat-square\&cacheSeconds=86400) PresenceLight is a solution to broadcast your various statuses to a Phillips Hue or LIFX light bulb. Some statuses you can broadcast are: your availability in Microsoft Teams, your current Windows 10 theme, and a theme or color of your choosing. [Blog post](https://www.isaaclevin.com/post/presence-light). [Demo video](https://www.youtube.com/playlist?list=PL_IEvQa-oTVtB3fKUclJNNJ1r-Sxtjc-m).
 
 ## [13. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Theming
 
-*   [storybook-addon-customize-antd-theme (⭐26)](https://github.com/letshare/storybook-addon-customize-antd-theme) - a Storybook addon help you visually customize an ant design theme.
+*   [storybook-addon-customize-antd-theme (⭐30)](https://github.com/letshare/storybook-addon-customize-antd-theme) - a Storybook addon help you visually customize an ant design theme.
 
 ### Components / Themes
 
-*   [antd-amiya (⭐100)](https://github.com/viewweiwu/amiya) - Page level components and with table and form.
+*   [antd-amiya (⭐125)](https://github.com/viewweiwu/amiya) - Page level components and with table and form.
 
 ## [14. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
-
-### General Search
-
-*   [Yahoo! Search](http://www.yahoo.com)
 
 ### Expert Search / Telegram
 
@@ -181,7 +177,7 @@
 *   [DotJobs](https://dotjobs.net/) - A job board for the Substrate and Polkadot ecosystem projects, maintained by [Stateless.Money](https://stateless.money/).
 *   [Developer Hub GitHub](https://github.com/substrate-developer-hub/) - Substrate Developer Hub repositories.
 *   [Ecosystem Projects](https://substrate.io/ecosystem/projects/) - Projects and teams building with Substrate.
-*   [Polkadot Stack (⭐789)](https://github.com/w3f/Grants-Program/blob/master/docs/polkadot_stack.md) - An `awesome list` maintained by our friends at [Web3 Foundation](https://web3.foundation/).
+*   [Polkadot Stack (⭐851)](https://github.com/w3f/Grants-Program/blob/master/docs/polkadot_stack.md) - An `awesome list` maintained by our friends at [Web3 Foundation](https://web3.foundation/).
 
 ### Support
 
@@ -198,27 +194,27 @@
 
 ### Templates
 
-*   [Base (⭐783)](https://github.com/substrate-developer-hub/substrate-node-template) - Minimal FRAME-based
-    node, derived from [upstream (⭐8.1k)](https://github.com/paritytech/substrate/tree/master/bin/node-template).
-*   [Frontier (⭐446)](https://github.com/paritytech/frontier/tree/master/template) - Fronter enabled EVM and Ethereum RPC compatible Substrate node, ready for hacking.
-*   [Front-End (⭐272)](https://github.com/substrate-developer-hub/substrate-front-end-template) - Polkadot-JS API and [React](https://reactjs.org/) app to build front-ends for Substrate-based chains.
-*   [Parachain (⭐179)](https://github.com/substrate-developer-hub/substrate-parachain-template) - Cumulus enabled Substrate node, derived from [upstream (⭐596)](https://github.com/paritytech/cumulus/tree/master/parachain-template).
+*   [Base (⭐821)](https://github.com/substrate-developer-hub/substrate-node-template) - Minimal FRAME-based
+    node, derived from [upstream (⭐8.3k)](https://github.com/paritytech/substrate/tree/master/bin/node-template).
+*   [Frontier (⭐478)](https://github.com/paritytech/frontier/tree/master/template) - Fronter enabled EVM and Ethereum RPC compatible Substrate node, ready for hacking.
+*   [Front-End (⭐278)](https://github.com/substrate-developer-hub/substrate-front-end-template) - Polkadot-JS API and [React](https://reactjs.org/) app to build front-ends for Substrate-based chains.
+*   [Parachain (⭐188)](https://github.com/substrate-developer-hub/substrate-parachain-template) - Cumulus enabled Substrate node, derived from [upstream (⭐629)](https://github.com/paritytech/cumulus/tree/master/parachain-template).
 *   [`substrate-stencil`](https://github.com/kaichaosun/substrate-stencil) - A template for a Substrate node that includes staking and governance capabilities.
 
 ### FRAME Pallets
 
-*   [Chainlink Feed Pallet (⭐138)](https://github.com/smartcontractkit/chainlink-polkadot) - Chainlink feed token interface.
-*   [Official in Substrate (⭐8.1k)](https://github.com/paritytech/substrate/tree/master/frame) - Large collection, Parity maintained.
-*   [Open Runtime Module Library (ORML) (⭐385)](https://github.com/open-web3-stack/open-runtime-module-library) - Community maintained collection of Substrate runtime modules.
-*   [Sunshine Bounty (⭐44)](https://github.com/sunshine-protocol/sunshine-bounty/tree/master/pallets) - Distributed autonomous organization (DAO) for administering a bounty program.
-*   [Sunshine Identity (⭐32)](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/identity/pallet) - Keybase-inspired identity management.
-*   [Sunshine Faucet (⭐32)](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/faucet/pallet) - Dispense resources for a development chain.
+*   [Chainlink Feed Pallet (⭐136)](https://github.com/smartcontractkit/chainlink-polkadot) - Chainlink feed token interface.
+*   [Official in Substrate (⭐8.3k)](https://github.com/paritytech/substrate/tree/master/frame) - Large collection, Parity maintained.
+*   [Open Runtime Module Library (ORML) (⭐400)](https://github.com/open-web3-stack/open-runtime-module-library) - Community maintained collection of Substrate runtime modules.
+*   [Sunshine Bounty (⭐43)](https://github.com/sunshine-protocol/sunshine-bounty/tree/master/pallets) - Distributed autonomous organization (DAO) for administering a bounty program.
+*   [Sunshine Identity (⭐33)](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/identity/pallet) - Keybase-inspired identity management.
+*   [Sunshine Faucet (⭐33)](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/faucet/pallet) - Dispense resources for a development chain.
 
 ### Framework Extensions
 
-*   [Bridges (⭐228)](https://github.com/paritytech/parity-bridges-common) - A collection of tools for cross-chain communication.
-*   [Cumulus (⭐596)](https://github.com/paritytech/cumulus) - A set of tools for writing Substrate-based Polkadot parachains.
-*   [Frontier (⭐446)](https://github.com/paritytech/frontier) - End-to-end Ethereum emulation for Substrate chains.
+*   [Bridges (⭐242)](https://github.com/paritytech/parity-bridges-common) - A collection of tools for cross-chain communication.
+*   [Cumulus (⭐629)](https://github.com/paritytech/cumulus) - A set of tools for writing Substrate-based Polkadot parachains.
+*   [Frontier (⭐478)](https://github.com/paritytech/frontier) - End-to-end Ethereum emulation for Substrate chains.
 *   [IntegriTEE](https://book.integritee.network/) - Trusted off-chain execution framework that uses [Intel SGX](https://en.wikipedia.org/wiki/Software_Guard_Extensions) trusted execution environments.
 
 ### Client Libraries
@@ -226,17 +222,17 @@
 *   [.Net API (⭐32)](https://github.com/usetech-llc/polkadot_api_dotnet) - Maintained by [Usetech](https://usetech.com/blockchain/).
 *   [`subxt`](https://github.com/paritytech/substrate-subxt) - Official Rust client.
 *   [C++ API (⭐17)](https://github.com/usetech-llc/polkadot_api_cpp) - Maintained by Usetech.
-*   [Go RPC Client (⭐173)](https://github.com/centrifuge/go-substrate-rpc-client/) - Maintained by [Centrifuge](https://centrifuge.io/).
+*   [Go RPC Client (⭐175)](https://github.com/centrifuge/go-substrate-rpc-client/) - Maintained by [Centrifuge](https://centrifuge.io/).
 *   [Kotlin Client (⭐16)](https://github.com/NodleCode/substrate-client-kotlin) - Maintained by [Nodle.io](https://github.com/NodleCode).
 *   [Polkadot-JS API (⭐1k)](https://github.com/polkadot-js/api/) - Semi-official JavaScript library for Substrate-based chains.
-*   [Python Interface (⭐199)](https://github.com/polkascan/py-substrate-interface) - Maintained by [Polkascan Foundation](https://polkascan.org/).
-*   [Rust API Client (⭐210)](https://github.com/scs/substrate-api-client) - Rust client maintained by [Supercomputers Systems AG](https://www.scs.ch/).
+*   [Python Interface (⭐210)](https://github.com/polkascan/py-substrate-interface) - Maintained by [Polkascan Foundation](https://polkascan.org/).
+*   [Rust API Client (⭐216)](https://github.com/scs/substrate-api-client) - Rust client maintained by [Supercomputers Systems AG](https://www.scs.ch/).
 
 ### Mobile
 
-*   [Fearless Utils Android (⭐16)](https://github.com/soramitsu/fearless-utils-Android) - Android Substrate tools.
-*   [Fearless Utils iOS (⭐8)](https://github.com/soramitsu/fearless-utils-iOS) - iOS Substrate tools.
-*   [React-Native-Substrate-Sign (⭐22)](https://github.com/paritytech/react-native-substrate-sign) - Rust library for React Native.
+*   [Fearless Utils Android (⭐17)](https://github.com/soramitsu/fearless-utils-Android) - Android Substrate tools.
+*   [Fearless Utils iOS (⭐7)](https://github.com/soramitsu/fearless-utils-iOS) - iOS Substrate tools.
+*   [React-Native-Substrate-Sign (⭐23)](https://github.com/paritytech/react-native-substrate-sign) - Rust library for React Native.
 
 ### Tools
 
@@ -256,32 +252,31 @@
 *   [`subwasm`](https://github.com/chevdor/subwasm) - CLI to inspect a runtime WASM blob offline. It shows information, metadata and can compare runtimes. It can also help you fetch a runtime directly from a node.
 *   [`sup`](https://github.com/clearloop/sup) - Command line tool for generating or upgrading a Substrate node.
 *   [Aleph.im](https://aleph.im) - Scalable, decentralized database, file storage, and computation services for Substrate chains and more.
-*   [Archive (⭐191)](https://github.com/paritytech/substrate-archive) - Indexing engine for Substrate chains.
+*   [Archive (⭐189)](https://github.com/paritytech/substrate-archive) - Indexing engine for Substrate chains.
 *   [Dev Hub Utils (⭐3)](https://github.com/danforbes/substrate-devhub-utils) - *Unofficial* utilities for working with official Substrate Developer Hub resources.
 *   [Europa (⭐71)](https://github.com/patractlabs/europa) - A sandbox for the Substrate runtime execution environment.
-*   [Fork Off Substrate (⭐105)](https://github.com/maxsam4/fork-off-substrate) - Script to help bootstrap a new chain with the state of a running chain.
-*   [fudge (⭐22)](https://github.com/centrifuge/fudge) - Core lib for accessing and (arbitrarily) manipulating substrate databases, including the building and importing of local blocks.
+*   [Fork Off Substrate (⭐106)](https://github.com/maxsam4/fork-off-substrate) - Script to help bootstrap a new chain with the state of a running chain.
+*   [fudge (⭐21)](https://github.com/centrifuge/fudge) - Core lib for accessing and (arbitrarily) manipulating substrate databases, including the building and importing of local blocks.
 *   [Gantree Library (⭐12)](https://github.com/gantree-io/gantree-lib-nodejs) - A suite of technologies for managing Substrate-powered parachain networks via rapid spin-up & tear-down.
 *   [Halva (⭐34)](https://github.com/halva-suite/halva) - A toolchain for improving the experience of developing on Substrate.
-*   [Hydra (⭐46)](https://github.com/Joystream/hydra) - A GraphQL framework for Substrate nodes.
+*   [Hydra (⭐47)](https://github.com/Joystream/hydra) - A GraphQL framework for Substrate nodes.
 *   [Jupiter (⭐52)](https://github.com/patractlabs/jupiter) - Testnet for smart contracts written for the FRAME Contracts pallet and ink!.
 *   [Megaclite (⭐1)](https://github.com/patractlabs/megaclite) - Zero-knowledge tools for the Polkadot ecosystem.
-*   [Parity Signer](https://www.parity.io/signer/) - Upcycle an unused mobile phone into an air-gapped hardware wallet.
 *   [Polkadot Tool Index](https://wiki.polkadot.network/docs/build-tools-index) - List of tools available for your development with Polkadot and any Substrate chain including Block Explorers, Wallets, Network Monitoring & Reporting, Clients, Benchmarking, Fuzzing, Forking, SCALE Codec, CLI Tools and much more.
 *   [Polkadot-JS Apps UI](https://polkadot.js.org/apps/) - Semi-official block explorer & front-end for Substrate-based chains.
-*   [Polkadot-JS Extension (⭐886)](https://github.com/polkadot-js/extension) - Browser extension for interacting with Substrate-based chains.
+*   [Polkadot-JS Extension (⭐894)](https://github.com/polkadot-js/extension) - Browser extension for interacting with Substrate-based chains.
 *   [Polkascan](https://polkascan.io/) - Multi-chain block explorer maintained by Polkascan Foundation.
 *   [Proxy Hot Wallet Demo (⭐19)](https://github.com/emostov/proxy-hot-wallet) - A demonstration of a secure, convenient, and flexible hot wallet architecture built on Substrate primitives.
-*   [Redspot (⭐65)](https://github.com/patractlabs/redspot) - A [Truffle](https://www.trufflesuite.com/truffle)-like toolkit for smart contracts for the FRAME Contracts pallet and ink!.
-*   [Sidecar (⭐201)](https://github.com/paritytech/substrate-api-sidecar) - REST service that runs alongside Substrate nodes.
-*   [Staking Rewards Collector (⭐69)](https://github.com/w3f/staking-rewards-collector) - A script to parse and output staking rewards for a given Kusama or Polkadot address and cross-reference them with daily price data.
+*   [Redspot (⭐63)](https://github.com/patractlabs/redspot) - A [Truffle](https://www.trufflesuite.com/truffle)-like toolkit for smart contracts for the FRAME Contracts pallet and ink!.
+*   [Sidecar (⭐211)](https://github.com/paritytech/substrate-api-sidecar) - REST service that runs alongside Substrate nodes.
+*   [Staking Rewards Collector (⭐72)](https://github.com/w3f/staking-rewards-collector) - A script to parse and output staking rewards for a given Kusama or Polkadot address and cross-reference them with daily price data.
 *   [Subscan](https://www.subscan.io/) - Multi-network explorer for Substrate-based chains.
 *   [Subsquid](https://subsquid.io) - An indexing framework (SDK + infrastructure) to quickly and easily turn Substrate and EVM on-chain data into APIs and host them.
 *   [Substate (⭐5)](https://github.com/arrudagates/substate) - 100% no-std/wasm compatible Substrate storage key generator library for Rust.
-*   [Substrate debug-kit (⭐96)](https://github.com/paritytech/substrate-debug-kit) - A collection of tools and libraries for debugging Substrate-based chains.
+*   [Substrate debug-kit (⭐94)](https://github.com/paritytech/substrate-debug-kit) - A collection of tools and libraries for debugging Substrate-based chains.
 *   [Substrate Docker Builders (⭐17)](https://github.com/ETeissonniere/substrate-nodeops) - A set of Dockerfiles and GitHub Actions to auto-build and push a Docker image for Substrate-based chains.
 *   [Substrate Faucet Bot (⭐3)](https://github.com/starkleytech/substrate-faucet) - Python-based faucet for development purposes.
-*   [Substrate Graph (⭐28)](https://github.com/playzero/substrate-graph) - GraphQL indexer for Substrate-based chains.
+*   [Substrate Graph (⭐29)](https://github.com/playzero/substrate-graph) - GraphQL indexer for Substrate-based chains.
 *   [TxWrapper (⭐60)](https://github.com/paritytech/txwrapper) - Helpful library for offline transaction creation.
 *   [VSCode Substrate](https://marketplace.visualstudio.com/items?itemName=paritytech.vscode-substrate) - Plugin for Visual Studio Code.
 
@@ -291,17 +286,17 @@
 
 ### Alternative Implementations
 
-*   [Gossamer (⭐382)](https://github.com/ChainSafe/gossamer) - A Polkadot client implemented in Go; from [ChainSafe](https://chainsafe.io/).
+*   [Gossamer (⭐391)](https://github.com/ChainSafe/gossamer) - A Polkadot client implemented in Go; from [ChainSafe](https://chainsafe.io/).
 *   [Kagome](https://kagome.readthedocs.io/en/latest/) - A C++17 implementation of the Polkadot client; from [Soramitsu](http://www.soramitsu.co.jp/).
 *   [LimeChain AssemblyScript Runtime (⭐12)](https://github.com/LimeChain/as-substrate-runtime) - An account-based Substrate proof-of-concept runtime written in AssemblyScript; from [LimeChain](https://limechain.tech/).
 
 ### SCALE Codec
 
 *   [Codec Definition](https://docs.substrate.io/v3/advanced/scale-codec/) - Official codec documentation.
-*   [Go (⭐52)](https://github.com/itering/scale.go) - Maintained by [Itering](https://www.itering.com/).
-*   [Haskell (⭐180)](https://github.com/airalab/hs-web3/tree/master/src/Codec) - Maintained by [Robonomics Network](https://robonomics.network/).
-*   [Java (⭐54)](https://github.com/emeraldpay/polkaj/tree/master/polkaj-scale) - Maintained by [Emerald](https://emerald.cash/).
-*   [Parity SCALE Codec (⭐202)](https://github.com/paritytech/parity-scale-codec) - Reference implementation written in Rust.
+*   [Go (⭐54)](https://github.com/itering/scale.go) - Maintained by [Itering](https://www.itering.com/).
+*   [Haskell (⭐181)](https://github.com/airalab/hs-web3/tree/master/src/Codec) - Maintained by [Robonomics Network](https://robonomics.network/).
+*   [Java (⭐55)](https://github.com/emeraldpay/polkaj/tree/master/polkaj-scale) - Maintained by [Emerald](https://emerald.cash/).
+*   [Parity SCALE Codec (⭐214)](https://github.com/paritytech/parity-scale-codec) - Reference implementation written in Rust.
 *   [Ruby (⭐18)](https://github.com/itering/scale.rb) - Maintained by Itering.
 
 ## [16. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
@@ -330,32 +325,32 @@
 
 ### Templates
 
-*   [Yew PWA Minimal (⭐36)](https://github.com/fkohlgrueber/yew-pwa-minimal) - A minimal Progressive Web App using Yew.
+*   [Yew PWA Minimal (⭐46)](https://github.com/fkohlgrueber/yew-pwa-minimal) - A minimal Progressive Web App using Yew.
 
 ## [20. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
-*   [oneDNN (⭐3.1k)](https://github.com/oneapi-src/oneDNN) - An open-source cross-platform performance library for deep learning applications.
+*   [oneDNN (⭐3.3k)](https://github.com/oneapi-src/oneDNN) - An open-source cross-platform performance library for deep learning applications.
 
 ## [21. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Changes
 
-*   [Skeema (⭐1.1k)](https://github.com/skeema/skeema) - Declarative pure-SQL schema management system for MySQL and MariaDB, with support for sharding and external online schema change tools.
+*   [Skeema (⭐1.2k)](https://github.com/skeema/skeema) - Declarative pure-SQL schema management system for MySQL and MariaDB, with support for sharding and external online schema change tools.
 
 ## [22. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Status Bar
 
-*   [tmux-split-statusbar (⭐16)](https://github.com/charlietag/tmux-split-statusbar) Plugin for splitting status bar into 2 parts - window + left/right status
+*   [tmux-split-statusbar (⭐17)](https://github.com/charlietag/tmux-split-statusbar) Plugin for splitting status bar into 2 parts - window + left/right status
 
 ## [23. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Mobile
 
 *   [CMUCL](https://github.com/CodyReichert/awesome-cl/blob/master//www.cons.org/cmucl/) - An implementation from Carnegie Mellon University. Public domain. SBCL is a fork of CMUCL.
-*   [Corman Lisp (⭐577)](https://github.com/sharplispers/cormanlisp) - a Common Lisp development environment for Microsoft Windows running on Intel platforms. [MIT](https://opensource.org/licenses/MIT).
+*   [Corman Lisp (⭐571)](https://github.com/sharplispers/cormanlisp) - a Common Lisp development environment for Microsoft Windows running on Intel platforms. [MIT](https://opensource.org/licenses/MIT).
 
 ### Deployment / Isomorphic web frameworks
 
@@ -446,15 +441,15 @@
 
 ## [28. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
-### Date and Time
+### Date and Time / Text-Based User Interfaces
 
-*   [Jollyday (⭐176)](https://github.com/svendiedrichsen/jollyday) - Determines the holidays for a given year, country/name and eventually state/region.
+*   [Jollyday (⭐180)](https://github.com/svendiedrichsen/jollyday) - Determines the holidays for a given year, country/name and eventually state/region.
 
 ## [29. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Open Source Projects / Other Tools
 
-*   [Nemo (⭐5)](https://github.com/harshitsinghai77/nemo-backend) - Be productive with Nemo.
+*   [Nemo (⭐6)](https://github.com/harshitsinghai77/nemo-backend) - Be productive with Nemo.
 
 ## [30. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
 
@@ -478,20 +473,20 @@
 
 ### Templates / Vanilla
 
-*   [vite-vanilla-ts-lib-starter (⭐149)](https://github.com/kbysiec/vite-vanilla-ts-lib-starter) - Starter for library (CJS, ESM, IIFE) with TypeScript, ESLint, Stylelint, Prettier, Jest, Husky + lint-staged.
+*   [vite-vanilla-ts-lib-starter (⭐211)](https://github.com/kbysiec/vite-vanilla-ts-lib-starter) - Starter for library (CJS, ESM, IIFE) with TypeScript, ESLint, Stylelint, Prettier, Jest, Husky + lint-staged.
 
 ### Templates / Vue 3
 
-*   [vue-vite-ssr (⭐20)](https://github.com/EverSeenTOTOTO/browser-app-boilerplate/tree/vue-vite-ssr) - Typescript, Eslint, Stylelint, Husky, Lint-staged and Commitlint.
+*   [vue-vite-ssr (⭐23)](https://github.com/EverSeenTOTOTO/browser-app-boilerplate/tree/vue-vite-ssr) - Typescript, Eslint, Stylelint, Husky, Lint-staged and Commitlint.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-webfont-dl (⭐153)](https://github.com/feat-agency/vite-plugin-webfont-dl) - Downloads and injects webfonts (Google Fonts) to improve website's performance.
+*   [vite-plugin-webfont-dl (⭐206)](https://github.com/feat-agency/vite-plugin-webfont-dl) - Downloads and injects webfonts (Google Fonts) to improve website's performance.
 *   [vite-plugin-babel-compiler (⭐23)](https://github.com/yzydeveloper/vite-plugin-babel-compiler) - The plugin works with Babel compiler.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-copy-files (⭐6)](https://github.com/mistjs/vite-plugin-copy-files) - Move files to the location of the corresponding package directory.
+*   [vite-plugin-copy-files (⭐8)](https://github.com/mistjs/vite-plugin-copy-files) - Move files to the location of the corresponding package directory.
 
 ## [34. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -505,21 +500,17 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [codecentric/hikaku (⭐190)](https://github.com/codecentric/hikaku) - A library that tests if the implementation of a REST-API meets its specification.
-*   [robstoll/atrium (⭐456)](https://github.com/robstoll/atrium) - Multiplatform assertion library for Kotlin supporting i18n.
+*   [codecentric/hikaku (⭐191)](https://github.com/codecentric/hikaku) - A library that tests if the implementation of a REST-API meets its specification.
+*   [robstoll/atrium (⭐482)](https://github.com/robstoll/atrium) - Multiplatform assertion library for Kotlin supporting i18n.
 
 ## [35. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
-
-*   [deno (⭐0)](https://github.com/Tricked-dev/deno-zsh-plugin) - Automatically installs [deno](https://deno.land/) to `$HOME/.deno` on startup if deno is not already installed.
-
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [cr (⭐1)](https://github.com/cruzrovira/cr-zsh-theme) - Includes directory, time, host name, last command exit status, and `git` status decorations.
 *   [dyzsh (⭐0)](https://github.com/daotoyi/dyzsh-zsh-theme) - Based on astro. Includes decorators for `git` branch & hash, current directory, user, host & time.
 *   [pifabs (⭐0)](https://github.com/pifabs/pifabs-zsh-theme) - Minimal theme with decorators for `git` status, username, host and working directory.
-*   [thm (⭐2)](https://github.com/thm-unix/thm-zshtheme) - Includes decorators for virtualenv, current directory and `git` status.
+*   [thm (⭐3)](https://github.com/thm-unix/thm-zshtheme) - Includes decorators for virtualenv, current directory and `git` status.
 
 ## [36. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -529,12 +520,12 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Bagisto (⭐6k)](https://github.com/bagisto/bagisto) - A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
+*   [Bagisto (⭐8.4k)](https://github.com/bagisto/bagisto) - A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
 *   [vue-birthday-reminder (⭐2)](https://github.com/ymzEmre/vue-birthday-reminder) - It is a birthday reminder web application using with Vue3.
 
 ### Components & Libraries / UI Components
 
-*   [vue-material-design-icons (⭐130)](https://github.com/robcresswell/vue-material-design-icons "vue-material-design-icons on GitHub") - A collection of SVG Material Design icons as single file components.
+*   [vue-material-design-icons (⭐143)](https://github.com/robcresswell/vue-material-design-icons "vue-material-design-icons on GitHub") - A collection of SVG Material Design icons as single file components.
 
 ### Components & Libraries / Frameworks
 
@@ -551,17 +542,17 @@
 
 ### UI / Barcode
 
-*   [BottomSheet (⭐141)](https://github.com/joomcode/BottomSheet) - Powerful Bottom Sheet component with content based size, interactive dismissal and navigation controller support.
+*   [BottomSheet (⭐206)](https://github.com/joomcode/BottomSheet) - Powerful Bottom Sheet component with content based size, interactive dismissal and navigation controller support.
 
 ## [39. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Analysis Tools / Ruby
 
-*   [transit\_service\_analyst (⭐3)](https://github.com/psrc/transit_service_analyst) - A Python library to support transit service analysis.
+*   [transit\_service\_analyst (⭐7)](https://github.com/psrc/transit_service_analyst) - A Python library to support transit service analysis.
 
 ### Other multimodal data formats / Ruby
 
-*   [General Bikeshare Feed Specification (GBFS) (⭐678)](https://github.com/NABSA/gbfs) - Open data standard for real-time bikeshare information developed by members of the [North American Bikeshare Association (NABSA)](http://nabsa.net/).
+*   [General Bikeshare Feed Specification (GBFS) (⭐712)](https://github.com/NABSA/gbfs) - Open data standard for real-time bikeshare information developed by members of the [North American Bikeshare Association (NABSA)](http://nabsa.net/).
     *   [gbfs-validator (⭐11)](https://github.com/PierrickP/gbfs-validator) - 3rd party tool to validate GBFS feeds.
     *   [gbfs R package (⭐0)](https://github.com/ds-civic-data/gbfs) - Functions to interface with GBFS feeds in R, allowing users to save and accumulate tidy .rds datasets for specified cities/bikeshare programs.
     *   [GBFS Documentation Platform](https://gbfs.mobilitydata.org/) - Documentation platform for the General Bikeshare Feed Specification, maintaned by [MobilityData](https://mobilitydata.org/). View the GBFS specification, change proposals, policy guides, and technical tools.
@@ -570,7 +561,7 @@
 
 ### Miscellaneous / React
 
-*   [schemathesis (⭐1.7k)](https://github.com/schemathesis/schemathesis) - Runs arbitrary queries matching a GraphQL schema to find server errors.
+*   [schemathesis (⭐1.9k)](https://github.com/schemathesis/schemathesis) - Runs arbitrary queries matching a GraphQL schema to find server errors.
 
 ## [41. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -582,7 +573,7 @@
 
 ### Runtimes/Frontends
 
-*   [voila (⭐4.7k)](https://github.com/voila-dashboards/voila) - Notebooks as interactive standalone web applications.
+*   [voila (⭐4.9k)](https://github.com/voila-dashboards/voila) - Notebooks as interactive standalone web applications.
 
 ### Collaboration/Education
 
@@ -590,41 +581,44 @@
 
 ### Visualization
 
-*   [ipycytoscape (⭐227)](https://github.com/cytoscape/ipycytoscape) - Widget for interactive graph visualization in Jupyter using cytoscape.js. <!--lint disable double-link-->
-*   [ipydagred3 (⭐51)](https://github.com/timkpaine/ipydagred3) - [ipywidgets (⭐2.8k)](https://github.com/jupyter-widgets/ipywidgets) library for drawing directed acyclic graphs in jupyterlab using dagre-d3.  <!--lint enable double-link-->
-*   [ipyregulartable (⭐84)](https://github.com/jpmorganchase/ipyregulartable) - High performance, editable, stylable datagrids in Jupyter.
-*   [ipysheet (⭐519)](https://github.com/QuantStack/ipysheet/) - Interactive spreadsheets in Jupyter.
+*   [ipycytoscape (⭐237)](https://github.com/cytoscape/ipycytoscape) - Widget for interactive graph visualization in Jupyter using cytoscape.js. <!--lint disable double-link-->
+*   [ipydagred3 (⭐60)](https://github.com/timkpaine/ipydagred3) - [ipywidgets (⭐2.9k)](https://github.com/jupyter-widgets/ipywidgets) library for drawing directed acyclic graphs in jupyterlab using dagre-d3.  <!--lint enable double-link-->
 *   [IPySigma (⭐16)](https://github.com/bsnacks000/IPySigma-Demo) - Prototype network visualization frontend for Jupyter notebooks.
-*   [ipyvolume (⭐1.8k)](https://github.com/maartenbreddels/ipyvolume) - 3D plotting for Python in Jupyter based on widgets and WebGL.
-*   [ipywebrtc (⭐222)](https://github.com/maartenbreddels/ipywebrtc) - Video/Audio streaming in Jupyter. <!--lint disable double-link-->
-*   [ipywidgets (⭐2.8k)](https://github.com/jupyter-widgets/ipywidgets) - UI widgets for Jupyter.  <!--lint enable double-link-->
-*   [jupyter-manim (⭐187)](https://github.com/krassowski/jupyter-manim) - Display [manim (⭐51k)](https://github.com/3b1b/manim) (Mathematical Animation Engine) videos or GIFs in Jupyter notebooks.
-*   [Perspective (⭐6.1k)](https://github.com/finos/perspective) - Data visualization and analytics component, especially for large/streaming datasets.
-*   [tributary (⭐7)](https://github.com/timkpaine/tributary) - Python data streams with Jupyter support.
+*   [ipyvolume (⭐1.9k)](https://github.com/maartenbreddels/ipyvolume) - 3D plotting for Python in Jupyter based on widgets and WebGL.
+*   [ipywebrtc (⭐229)](https://github.com/maartenbreddels/ipywebrtc) - Video/Audio streaming in Jupyter. <!--lint disable double-link-->
+*   [ipywidgets (⭐2.9k)](https://github.com/jupyter-widgets/ipywidgets) - UI widgets for Jupyter.  <!--lint enable double-link-->
+*   [jupyter-manim (⭐188)](https://github.com/krassowski/jupyter-manim) - Display [manim (⭐53k)](https://github.com/3b1b/manim) (Mathematical Animation Engine) videos or GIFs in Jupyter notebooks.
+*   [Perspective (⭐6.6k)](https://github.com/finos/perspective) - Data visualization and analytics component, especially for large/streaming datasets.
+*   [tributary (⭐12)](https://github.com/timkpaine/tributary) - Python data streams with Jupyter support.
+
+### Tables
+
+*   [ipyregulartable (⭐92)](https://github.com/jpmorganchase/ipyregulartable) - High performance, editable, stylable datagrids in Jupyter.
+*   [ipysheet (⭐521)](https://github.com/QuantStack/ipysheet/) - Interactive spreadsheets in Jupyter.
 
 ### Rendering/Publishing/Conversion
 
-*   [jupyterlab\_nbconvert\_nocode (⭐13)](https://github.com/timkpaine/jupyterlab_nbconvert_nocode) - NBConvert exporters for PDF/HTML export without code cells.
+*   [jupyterlab\_nbconvert\_nocode (⭐14)](https://github.com/timkpaine/jupyterlab_nbconvert_nocode) - NBConvert exporters for PDF/HTML export without code cells.
 
 ### Version Control
 
-*   [databooks (⭐91)](https://github.com/datarootsio/databooks) - A command-line utility that eases versioning and sharing of notebooks.
+*   [databooks (⭐99)](https://github.com/datarootsio/databooks) - A command-line utility that eases versioning and sharing of notebooks.
 
 ### JupyterLab Extensions
 
-*   [jupyter-fs (⭐143)](https://github.com/jpmorganchase/jupyter-fs) - A filesystem-like content manager for multiple backends in Jupyter.
-*   [jupyter-notify (⭐570)](https://github.com/ShopRunner/jupyter-notify) - Cell magic for browser notification of cell completion. <!--lint disable double-link-->
-*   [jupyterlab-executor (⭐6)](https://github.com/gavincyi/jupyterlab-executor) - Extension to execute scripts from the Jupyterlab file browser. <!--lint disable double-link-->
+*   [jupyter-fs (⭐156)](https://github.com/jpmorganchase/jupyter-fs) - A filesystem-like content manager for multiple backends in Jupyter.
+*   [jupyter-notify (⭐575)](https://github.com/ShopRunner/jupyter-notify) - Cell magic for browser notification of cell completion. <!--lint disable double-link-->
+*   [jupyterlab-executor (⭐7)](https://github.com/gavincyi/jupyterlab-executor) - Extension to execute scripts from the Jupyterlab file browser. <!--lint disable double-link-->
 *   [jupyterlab-kyso (⭐1)](https://github.com/kyso-io/jupyterlab-extension) - Extension to publish notebooks to the [Kyso](https://kyso.io) platform from Jupyterlab. <!--lint enable double-link-->
-*   [jupyterlab-notifications (⭐46)](https://github.com/mwakaba2/jupyterlab-notifications) - Customizable notebook cell completion browser notifications for JupyterLab.
-*   [jupyterlab\_autoversion (⭐62)](https://github.com/timkpaine/jupyterlab_autoversion) - Automatically version notebooks in JupyterLab.
-*   [jupyterlab\_commands (⭐44)](https://github.com/timkpaine/jupyterlab_commands) - Add arbitrary python commands to the JupyterLab command palette.
-*   [jupyterlab\_iframe (⭐91)](https://github.com/timkpaine/jupyterlab_iframe) - View HTML as an embedded iframe in JupyterLab.
-*   [jupyterlab\_miami\_nights (⭐84)](https://github.com/timkpaine/jupyterlab_miami_nights) - Combination of VS Code's SynthWave '84 and JupyterLab's Neon Night themes.
+*   [jupyterlab-notifications (⭐49)](https://github.com/mwakaba2/jupyterlab-notifications) - Customizable notebook cell completion browser notifications for JupyterLab.
+*   [jupyterlab\_autoversion (⭐63)](https://github.com/timkpaine/jupyterlab_autoversion) - Automatically version notebooks in JupyterLab.
+*   [jupyterlab\_commands (⭐45)](https://github.com/timkpaine/jupyterlab_commands) - Add arbitrary python commands to the JupyterLab command palette.
+*   [jupyterlab\_iframe (⭐99)](https://github.com/timkpaine/jupyterlab_iframe) - View HTML as an embedded iframe in JupyterLab.
+*   [jupyterlab\_miami\_nights (⭐93)](https://github.com/timkpaine/jupyterlab_miami_nights) - Combination of VS Code's SynthWave '84 and JupyterLab's Neon Night themes.
 
 ### Testing
 
-*   [nbcelltests (⭐72)](https://github.com/jpmorganchase/nbcelltests) - Cell-by-cell testing for notebooks in Jupyter.
+*   [nbcelltests (⭐79)](https://github.com/jpmorganchase/nbcelltests) - Cell-by-cell testing for notebooks in Jupyter.
 *   [sphinxcontrib-jupyter (⭐72)](https://github.com/QuantEcon/sphinxcontrib-jupyter) - Sphinx extension for generating Jupyter notebooks.
 
 ### Hosted Notebook Solutions
@@ -641,16 +635,16 @@
 
 *   [JupyterLab - Your Personal Data Science Workbench (⭐16)](https://github.com/markusschanta/talks/tree/master/2018-03%20-%20JupyterLab%20-%20Full%20Stack%20Quants) - Talk about JupyterLab at Full Stack Quants London.
 *   [List of Jupyter notebooks (⭐14k)](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
-*   [List of Jupyter notebooks II (⭐1.9k)](https://github.com/jupyter-naas/awesome-notebooks)
+*   [List of Jupyter notebooks II (⭐2k)](https://github.com/jupyter-naas/awesome-notebooks)
 *   [The Littlest JupyterHub](https://the-littlest-jupyterhub.readthedocs.io/en/latest/) - JupyterHub distribution for 1-50 users on a single server; more lightweight than the Zero to JupyterHub setup.
 
 ## [43. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
-### C# / Angular
+### C# / Svelte
 
 *   [ASP.NET Core News](https://aspnetcore.news/). A weekly newsletter about everything ASP.NET Core, Blazor, SignalR, and similar.
 
-### Technology in General / Angular
+### Technology in General / Svelte
 
 *   [Daily Tech](https://dailytech.email). Daily Tech is a curated newsletter about technology, startups, product, and software engineering.
 
@@ -666,7 +660,7 @@
 *   [Reams](https://reams.app/) <sup>[1194](https://t.me/s/aboutrss/1194)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/admbtlr/reams)[![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/reams/id1229027127)
 *   [RSS News Ticker](https://ticker.salz-amt.co.at/) <sup>[1199](https://t.me/s/aboutrss/1199)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/rss-news-ticker/id1548190121)
 
-### RSS Feed Finding/Detection / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### RSS Feed Finding/Detection / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Feedbro](https://nodetics.com/feedbro/) <sup>[321](https://t.me/s/aboutrss/321)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/feedbro/mefgmmbdailogpfhfblcnnjfmnpnmdfa)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/firefox/addon/feedbroreader/)
 *   RSS Manager <sup>[1169](https://t.me/s/aboutrss/1169)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/firefox/addon/rss-manager/)
@@ -706,6 +700,7 @@
 ### universally from / multiple sources
 
 *   [RSSHub](https://docs.rsshub.app/) <sup>[300](https://t.me/s/aboutrss/300), [352](https://t.me/s/aboutrss/352), [405](https://t.me/s/aboutrss/405), [422](https://t.me/s/aboutrss/422), [428](https://t.me/s/aboutrss/428), [443](https://t.me/s/aboutrss/443), [471](https://t.me/s/aboutrss/471), [474](https://t.me/s/aboutrss/474), [610](https://t.me/s/aboutrss/610), [800](https://t.me/s/aboutrss/800), [836](https://t.me/aboutrss/836), [892](https://t.me/aboutrss/892), [962](https://t.me/aboutrss/962), [982](https://t.me/s/aboutrss/982), [983](https://t.me/s/aboutrss/983), [1038](https://t.me/s/aboutrss/1038), [1040](https://t.me/s/aboutrss/1040), [1091](https://t.me/s/aboutrss/1091)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/DIYgod/RSSHub)
+    *   [RSSbot (⭐27)](https://github.com/yindaheng98/RSSBot): connecting RSS feed generated by RSSHub and TTRSS <sup>[1337](https://t.me/s/aboutrss/1337)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yindaheng98/RSSBot)
 
 ### universally from / webpage/html
 
@@ -725,7 +720,7 @@
 
 ### specifically from (*a certain platform*) / Wechat Subscription Accounts (微信公众号)
 
-*   [Liuli (⭐741)](https://github.com/liuli-io/liuli) <sup>[1167](https://t.me/s/aboutrss/1167)</sup>
+*   [Liuli (⭐818)](https://github.com/liuli-io/liuli) <sup>[1167](https://t.me/s/aboutrss/1167)</sup>
 
 ### RSS2KINDLE / Docsify
 
@@ -735,27 +730,23 @@
 
 *   [rssto.email](https://rssto.email/) <sup>[1159](https://t.me/s/aboutrss/1159)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/aksh-at/rsstoemail)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### RSS2NEWSLETTER / Docsify
-
-*   [Subworthy](https://subworthy.com/) <sup>[1163](https://t.me/s/aboutrss/1163)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
-
-### RSS2Pocket / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### RSS2Pocket / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Curated](https://withcurated.com/) <sup>[1098](https://t.me/s/aboutrss/1098)</sup>
 
-### Combine multiple feeds into one / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Combine multiple feeds into one / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSSUnify](https://feederss.com/index.html) <sup>[1189](https://t.me/s/aboutrss/1189)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### Retrieve old items from a RSS feed / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Retrieve old items from a RSS feed / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [rerss](https://rerss.xyz/) <sup>[1160](https://t.me/s/aboutrss/1160)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### TOC Support / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### TOC Support / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   Simple Outliner: show TOC in Inoreader / Feedly @ Chrome <sup>[1186](https://t.me/s/aboutrss/1186)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/smart-toc-%E6%99%BA%E8%83%BD%E7%BD%91%E9%A1%B5%E5%A4%A7%E7%BA%B2/ppdjhggfcaenclmimmdigbcglfoklgaf)
 
-### 🧩 API / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### 🧩 API / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Thirdplace Discovery: Feed discovery HTML JSON API](https://discovery.thirdplace.no/) <sup>[1202](https://t.me/s/aboutrss/1202)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://git.sr.ht/~thirdplace)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
@@ -781,89 +772,85 @@
 
 ### Misc libraries
 
-*   [SasLuca/zig-nanoid (⭐21)](https://github.com/SasLuca/zig-nanoid) - Battle-tested, tiny, secure, URL-friendly, unique string ID generator. Now available in pure Zig.
+*   [SasLuca/zig-nanoid (⭐24)](https://github.com/SasLuca/zig-nanoid) - Battle-tested, tiny, secure, URL-friendly, unique string ID generator. Now available in pure Zig.
 
 ## [47. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [ntfy](https://ntfy.sh/) - Push notifications to phone or desktop using HTTP PUT/POST, with Android app, CLI and web app, similar to Pushover and Gotify. ([Demo](https://ntfy.sh/app), [Source Code (⭐11k)](https://github.com/binwiederhier/ntfy), [Clients (⭐321)](https://github.com/binwiederhier/ntfy-android)) `Apache-2.0/GPL-2.0` `Go`
-*   [Typebot](https://typebot.io) - Typebot is a conversational app builder as an alternative to Typeform or Landbot. ([Source Code (⭐2.2k)](https://github.com/baptisteArno/typebot.io)) `AGPL-3.0` `Docker`
+*   [ntfy](https://ntfy.sh/) - Push notifications to phone or desktop using HTTP PUT/POST, with Android app, CLI and web app, similar to Pushover and Gotify. ([Demo](https://ntfy.sh/app), [Source Code (⭐14k)](https://github.com/binwiederhier/ntfy), [Clients (⭐376)](https://github.com/binwiederhier/ntfy-android)) `Apache-2.0/GPL-2.0` `Go/Docker/K8S`
+*   [Typebot](https://typebot.io) - Conversational app builder (alternative to Typeform or Landbot). ([Source Code (⭐3.9k)](https://github.com/baptisteArno/typebot.io)) `AGPL-3.0` `Docker`
 
 ### Software / Communication - SIP
 
-*   [Eqivo](https://eqivo.org/) - Eqivo implements an API layer on top of FreeSWITCH facilitating integration between web applications and voice/video-enabled endpoints such as traditional phone lines (PSTN), VoIP phones, webRTC clients etc. ([Source Code (⭐46)](https://github.com/rtckit/eqivo)) `MIT` `PHP`
+*   [Eqivo](https://eqivo.org/) - Eqivo implements an API layer on top of FreeSWITCH facilitating integration between web applications and voice/video-enabled endpoints such as traditional phone lines (PSTN), VoIP phones, webRTC clients etc. ([Source Code (⭐56)](https://github.com/rtckit/eqivo)) `MIT` `Docker/PHP`
 
 ### Software / Miscellaneous
 
-*   [Noisedash (⭐222)](https://github.com/kaythomas0/noisedash) - Self-hostable web tool for generating ambient noises/sounds using audio tools and user-uploadable samples. `AGPL-3.0` `Nodejs`
+*   [Noisedash (⭐241)](https://github.com/kaythomas0/noisedash) - Self-hostable web tool for generating ambient noises/sounds using audio tools and user-uploadable samples. `AGPL-3.0` `Nodejs/Docker`
 
 ### Software / Pastebins
 
-*   [paaster](https://paaster.io) - Paaster is a secure by default end-to-end encrypted pastebin built with the objective of simplicity. ([Source Code (⭐312)](https://github.com/WardPearce/paaster)) `GPL-3.0` `Docker`
-
-### Software / Photo and Video Galleries
-
-*   [Immich (⭐11k)](https://github.com/alextran1502/immich) - Self-hosted photo and video backup solution directly from your mobile phone. `MIT` `Docker`
+*   [paaster](https://paaster.io) - Paaster is a secure by default end-to-end encrypted pastebin built with the objective of simplicity. ([Source Code (⭐367)](https://github.com/WardPearce/paaster)) `GPL-3.0` `Docker`
 
 ### Software / Time Tracking
 
-*   [ActivityWatch](https://activitywatch.net) - An app that automatically tracks how you spend time on your devices. ([Source Code (⭐8.6k)](https://github.com/ActivityWatch/activitywatch)) `MPL-2.0` `Python`
-*   [Kimai](https://www.kimai.org/) - Kimai is a free & open source timetracker. It tracks work time and prints out a summary of your activities on demand. ([Demo](https://www.kimai.org/demo/), [Source Code (⭐2.2k)](https://github.com/kevinpapst/kimai2/)) `MIT` `PHP`
-*   [TimeTagger](https://timetagger.app) - An open source time-tracker based on an interactive timeline and powerful reporting. ([Demo](https://timetagger.app/app/demo), [Source Code (⭐709)](https://github.com/almarklein/timetagger)) `GPL-3.0` `Python`
+*   [ActivityWatch](https://activitywatch.net) - An app that automatically tracks how you spend time on your devices. ([Source Code (⭐9.6k)](https://github.com/ActivityWatch/activitywatch)) `MPL-2.0` `Python`
+*   [Kimai](https://www.kimai.org/) - Kimai is a free & open source timetracker. It tracks work time and prints out a summary of your activities on demand. ([Demo](https://www.kimai.org/demo/), [Source Code (⭐2.5k)](https://github.com/kimai/kimai)) `MIT` `PHP`
+*   [TimeTagger](https://timetagger.app) - An open source time-tracker based on an interactive timeline and powerful reporting. ([Demo](https://timetagger.app/app/demo), [Source Code (⭐787)](https://github.com/almarklein/timetagger)) `GPL-3.0` `Python`
 
 ## [48. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Developer
 
-*   [VSCode (⭐268)](https://github.com/alexchantastic/alfred-open-with-vscode-workflow) - An Alfred 4 workflow opening files or folders with Visual Studio Code.
+*   [VSCode (⭐277)](https://github.com/alexchantastic/alfred-open-with-vscode-workflow) - An Alfred 4 workflow opening files or folders with Visual Studio Code.
 
 ### Text Manipulation
 
-*   [VSCodeDiff (⭐15)](https://github.com/logicxd/alfred-vscodediff) - Show the diff of the last 2 items in clipboard history using VSCode.
+*   [VSCodeDiff (⭐20)](https://github.com/logicxd/alfred-vscodediff) - Show the diff of the last 2 items in clipboard history using VSCode.
 
 ## [49. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Integration / Community
 
-*   [Lite SDK (TypeScript) (⭐16)](https://github.com/jacoborus/directus-lite-sdk) - Query builder for the Directus API (Browser, Deno, Node.js). Bring your own fetch.
+*   [Lite SDK (TypeScript) (⭐19)](https://github.com/jacoborus/directus-lite-sdk) - Query builder for the Directus API (Browser, Deno, Node.js). Bring your own fetch.
 
 ## [50. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Completion / Diagnostics
 
-*   [hrsh7th/nvim-cmp (⭐5.3k)](https://github.com/hrsh7th/nvim-cmp) - A completion plugin written in Lua. New version of nvim-compe.
-    *   [lukas-reineke/cmp-under-comparator (⭐128)](https://github.com/lukas-reineke/cmp-under-comparator) - A nvim-cmp function for better sorting.
+*   [hrsh7th/nvim-cmp (⭐6k)](https://github.com/hrsh7th/nvim-cmp) - A completion plugin written in Lua. New version of nvim-compe.
+    *   [lukas-reineke/cmp-under-comparator (⭐142)](https://github.com/lukas-reineke/cmp-under-comparator) - A nvim-cmp function for better sorting.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [jbyuki/carrot.nvim (⭐22)](https://github.com/jbyuki/carrot.nvim) - Markdown evaluator Lua code blocks.
+*   [jbyuki/carrot.nvim (⭐25)](https://github.com/jbyuki/carrot.nvim) - Markdown evaluator Lua code blocks.
 
 ### Session / Diagnostics
 
-*   [Shatur/neovim-session-manager (⭐329)](https://github.com/Shatur/neovim-session-manager) - A simple wrapper around :mksession.
+*   [Shatur/neovim-session-manager (⭐391)](https://github.com/Shatur/neovim-session-manager) - A simple wrapper around :mksession.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [AstroNvim/AstroNvim (⭐9.5k)](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich Neovim config that is extensible and easy to use with a great set of plugins.
+*   [AstroNvim/AstroNvim (⭐11k)](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich Neovim config that is extensible and easy to use with a great set of plugins.
 
 ## [51. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / Frameworks
 
-*   [Blaze (⭐102)](https://github.com/samply/blaze) - A FHIR Store with internal, fast CQL Evaluation Engine
-*   [Sushi (⭐92)](https://github.com/FHIR/sushi) - a reference implementation command-line interpreter/compiler for FHIR
+*   [Blaze (⭐108)](https://github.com/samply/blaze) - A FHIR Store with internal, fast CQL Evaluation Engine
+*   [Sushi (⭐98)](https://github.com/FHIR/sushi) - a reference implementation command-line interpreter/compiler for FHIR
 
 ### Contents / Integration
 
-*   [Google HCLS Data Harmonization (⭐144)](https://github.com/GoogleCloudPlatform/healthcare-data-harmonization) - an engine that converts data of one structure to another
+*   [Google HCLS Data Harmonization (⭐153)](https://github.com/GoogleCloudPlatform/healthcare-data-harmonization) - an engine that converts data of one structure to another
 
 ## [52. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### operations
 
-*   [turf (⭐7.9k)](https://github.com/Turfjs/turf): collection of functions for spatial operations and analysi
-*   [turf\_dart (⭐34)](https://github.com/dartclub/turf_dart): a turf.js port for Dart and Flutter
+*   [turf (⭐8.2k)](https://github.com/Turfjs/turf): collection of functions for spatial operations and analysi
+*   [turf\_dart (⭐40)](https://github.com/dartclub/turf_dart): a turf.js port for Dart and Flutter
 
 ## [53. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -871,32 +858,32 @@
 
 *   [chiselapp.com](https://chiselapp.com/) — Unlimited public and private Fossil repositories
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Hex](https://hex.tech/) - a collaborative data platform for notebooks, data apps and knowledge libraries. Free community version with up to 3 authors and 5 projects. One compute profile per author with 4GB RAM.
-*   [Supportivekoala](https://supportivekoala.com/) — Allows you to autogenerate images by your input via templates. Free plan allows you to create up to 100 images per week.
+*   [Hex](https://hex.tech/) - a collaborative data platform for notebooks, data apps, and knowledge libraries. Free community version with up to 3 authors and five projects. One compute profile per author with 4GB RAM.
+*   [Supportivekoala](https://supportivekoala.com/) — Allows you to autogenerate images by your input via templates. The free plan allows you to create up to 100 images per week.
 *   [Rapidapi](https://rapidapi.com/) - World’s Largest API Hub Millions of developers find and connect to thousands of APIs, API Development using fun challenges (with solutions!) and interactive examples.
 *   [wolfram.com](https://wolfram.com/language/) — Built-in knowledge-based algorithms in the cloud.
 
 ### Font
 
-*   [Befonts](https://befonts.com/) - Provides several unqiue fonts for personal or commercial use.
+*   [Befonts](https://befonts.com/) - Provides several unique fonts for personal or commercial use.
 
 ### Web Hosting
 
 *   [Free Hosting](https://freehostingnoads.net/) — Free Hosting With PHP 5, Perl, CGI, MySQL, FTP, File Manager, POP E-Mail, free sub-domains, free domain hosting, DNS Zone Editor, Web Site Statistics, FREE Online Support and many more features not offered by other free hosts.
 
-### DBaaS
+### Managed Data Services
 
-*   [YugabyteDB](https://cloud.yugabyte.com) - YugabyteDB is a distributed SQL database compatible with PostgreSQL. The cloud free tier is a 2 vCPU, 4GB RAM, 10GB Disk.
+*   [YugabyteDB](https://cloud.yugabyte.com) - YugabyteDB is a distributed SQL database compatible with PostgreSQL. The cloud-free tier includes two vCPU, 4GB RAM, and 10GB Disk.
 
 ### IDE and Code Editing
 
 *   [JSONPlaceholder](https://jsonplaceholder.typicode.com/) Some REST API endpoints that return some fake data in JSON format. The source code is also available if you would like to run the server locally.
 
-### Browser based hardware emulation written in Javascript
+### Browser-based hardware emulation written in Javascript
 
-*   [Jor1k](https://s-macke.github.io/jor1k/demos/main.html) —  a OpenRISC virtual machine capable of running Linux with network support.
+*   [Jor1k](https://s-macke.github.io/jor1k/demos/main.html) —  an OpenRISC virtual machine capable of running Linux with network support.
 
 ## [54. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 

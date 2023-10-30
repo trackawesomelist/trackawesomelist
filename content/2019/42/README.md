@@ -8,7 +8,7 @@
 
 ## [1. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Text Modes / MIT
+### Text Modes / Apache License
 
 *   [bbedit-ada-module](https://www.barebones.com/support/bbedit/plugin_library.html) - BBEdit support for Ada.
 
@@ -22,7 +22,7 @@
 
 ### Boilerplates
 
-*   [react-next-boilerplate (⭐314)](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
+*   [react-next-boilerplate (⭐330)](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
 
 ## [4. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
 
@@ -52,13 +52,13 @@
 
 ### Pattern Matching
 
-*   [Meander (⭐866)](https://github.com/noprompt/meander)
+*   [Meander (⭐873)](https://github.com/noprompt/meander)
 
 ## [7. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Tools
 
-*   [Pwnagotchi (⭐5.5k)](https://github.com/evilsocket/pwnagotchi) - Pwnagotchi is an AI based Wi-Fi cracking tool that learns from its surrounding WiFi environment to maximize the crackable WPA key material it captures.
+*   [Pwnagotchi (⭐6.2k)](https://github.com/evilsocket/pwnagotchi) - Pwnagotchi is an AI based Wi-Fi cracking tool that learns from its surrounding WiFi environment to maximize the crackable WPA key material it captures.
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -68,11 +68,11 @@
 
 ### Reading and Writing Tools / Others
 
-*   [bindPDF (⭐87)](https://github.com/vishaltelangre/bindPDF) - Combine multiple PDF files into a single PDF file using a friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/bindPDF) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [bindPDF (⭐90)](https://github.com/vishaltelangre/bindPDF) - Combine multiple PDF files into a single PDF file using a friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/bindPDF) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Screencapturing Software
 
-*   [Kyapchar (⭐62)](https://github.com/vishaltelangre/Kyapchar) - Simple screen and microphone audio recorder for Mac. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/Kyapchar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Kyapchar (⭐63)](https://github.com/vishaltelangre/Kyapchar) - Simple screen and microphone audio recorder for Mac. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/Kyapchar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Other Tools
 
@@ -158,12 +158,12 @@
 
 ### HTTP clients / Interfaces to other package managers
 
-*   [fast-http (⭐331)](https://github.com/fukamachi/fast-http) - A fast HTTP request/response parser for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [fast-http (⭐332)](https://github.com/fukamachi/fast-http) - A fast HTTP request/response parser for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ### HTTP Servers / Interfaces to other package managers
 
 *   [zaserve (⭐7)](https://github.com/gendl/aserve) - A portable fork of AllegroServe, by Franz Inc.  [LLGPL](http://opensource.franz.com/preamble.html).
-*   [cl-http2-protocol (⭐102)](https://github.com/akamai/cl-http2-protocol) - a pure Common Lisp transport agnostic implementation of the HTTP/2 protocol at draft-14. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-http2-protocol (⭐103)](https://github.com/akamai/cl-http2-protocol) - a pure Common Lisp transport agnostic implementation of the HTTP/2 protocol at draft-14. [MIT](https://opensource.org/licenses/MIT).
 
 ### HTTP Servers / Hunchentoot plugins
 
@@ -172,23 +172,23 @@
 
 ### Javascript / Isomorphic web frameworks
 
-*   ⭐ [Parenscript](https://common-lisp.net/project/parenscript/) - A translator from Common Lisp to Javascript. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). See [Trident-mode (⭐68)](https://github.com/johnmastro/trident-mode.el), an Emacs mode that provides live interaction with the browser.[unlicence](http://unlicense.org/).
+*   ⭐ [Parenscript](https://common-lisp.net/project/parenscript/) - A translator from Common Lisp to Javascript. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). See [Trident-mode (⭐71)](https://github.com/johnmastro/trident-mode.el), an Emacs mode that provides live interaction with the browser.[unlicence](http://unlicense.org/).
     *   [paren6 (⭐21)](https://github.com/BnMcGn/paren6/) - a set of ES6 macros for Parenscript.
 
 ### Others / Third-party APIs
 
-*   [avm (⭐52)](https://github.com/takagi/avm) - Efficient and expressive arrayed vector math library with multi-threading and CUDA support. [MIT](https://opensource.org/licenses/MIT).
+*   [avm (⭐53)](https://github.com/takagi/avm) - Efficient and expressive arrayed vector math library with multi-threading and CUDA support. [MIT](https://opensource.org/licenses/MIT).
 
 ### Utils / Third-party APIs
 
-*   [cl-coroutine (⭐58)](https://github.com/takagi/cl-coroutine) - a coroutine library. It uses the CL-CONT continuations library in its implementation. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-coroutine (⭐59)](https://github.com/takagi/cl-coroutine) - a coroutine library. It uses the CL-CONT continuations library in its implementation. [MIT](https://opensource.org/licenses/MIT).
 
 ### Actors pattern / Third-party APIs
 
-*   [erlangen (⭐63)](https://github.com/eugeneia/erlangen) - Distributed, asynchronous message passing system for Clozure Common Lisp. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
-*   [Actors (⭐9)](https://github.com/aarvid/Actors) package for LispWorks ([announce](https://www.reddit.com/r/Common_Lisp/comments/77vsft/david_mcclains_actors_package_for_lispworks/)) [MIT](https://opensource.org/licenses/MIT).
-*   [common-lisp-actors (⭐99)](https://github.com/naveensundarg/Common-Lisp-Actors) - a simple and easy to use Actor system. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
-*   [memento-mori (⭐30)](https://github.com/zkat/memento-mori)-  a library for writing robust, actor-based systems. It draws inspiration from Erlang/OTP, particularly its crash-first approach to high-availability systems, as well as Akka. [MIT](https://opensource.org/licenses/MIT).
+*   [erlangen (⭐65)](https://github.com/eugeneia/erlangen) - Distributed, asynchronous message passing system for Clozure Common Lisp. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [Actors (⭐11)](https://github.com/aarvid/Actors) package for LispWorks ([announce](https://www.reddit.com/r/Common_Lisp/comments/77vsft/david_mcclains_actors_package_for_lispworks/)) [MIT](https://opensource.org/licenses/MIT).
+*   [common-lisp-actors (⭐103)](https://github.com/naveensundarg/Common-Lisp-Actors) - a simple and easy to use Actor system. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [memento-mori (⭐32)](https://github.com/zkat/memento-mori)-  a library for writing robust, actor-based systems. It draws inspiration from Erlang/OTP, particularly its crash-first approach to high-availability systems, as well as Akka. [MIT](https://opensource.org/licenses/MIT).
 
 ### Date and time / Third-party APIs
 
@@ -202,8 +202,11 @@
     ![](https://img.shields.io/github/stars/BlazeSoftware/atoms.svg?style=social\&label=Star)
     [Demo](https://www.blazeui.com/components/buttons/),
     [Docs](https://www.blazeui.com/getting-started/install/),
-    [Repo (⭐1.5k)](https://github.com/BlazeSoftware/atoms)
+    [Repo (⭐1.6k)](https://github.com/BlazeSoftware/atoms)
     \| #SCSS
+
+### Stalled Development
+
 *   [**Base**](https://getbase.org) - Rock solid, responsive HTML/CSS framework.\
     ![](https://img.shields.io/github/stars/getbase/base.svg?style=social\&label=Star)
     [Docs (⭐1.2k)](https://github.com/getbase/base/blob/master/readme.md#documentation),
@@ -258,14 +261,14 @@
 
 ### Düsseldorf
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/iamjoyheron" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/iamjoyheron" height="70px" width="70px" align="left" alt="" />
 
 **Joy Heron**\
 Topics: Clojure, Web Apps, Security\
 <https://twitter.com/iamjoyheron>
 ### Karlsruhe
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/robinweser" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/robinweser" height="70px" width="70px" align="left" alt="" />
 
 **Robin Weser**\
 Topics: CSS, CSS in JS, React\
@@ -345,7 +348,7 @@ Topics: CSS, CSS in JS, React\
 
 ### Online Resources / Other Lists Online
 
-*   [AWS Tool Arsenal (⭐7.7k)](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of tools for testing and securing AWS environments.
+*   [AWS Tool Arsenal (⭐8.4k)](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of tools for testing and securing AWS environments.
 
 ## [31. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
@@ -366,7 +369,7 @@ Topics: CSS, CSS in JS, React\
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Anti Forensics (⭐352)](https://github.com/remiflavien1/awesome-anti-forensic) - A collection of awesome tools used to counter forensics activities.
+*   [Awesome Anti Forensics (⭐536)](https://github.com/remiflavien1/awesome-anti-forensic) - A collection of awesome tools used to counter forensics activities.
 
 ## [33. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
 
@@ -378,7 +381,7 @@ Topics: CSS, CSS in JS, React\
 
 ### Graphics / Image Conversion
 
-*   [pastel (⭐4.5k)](https://github.com/sharkdp/pastel) - Generate, analyze, convert and manipulate colors.
+*   [pastel (⭐4.6k)](https://github.com/sharkdp/pastel) - Generate, analyze, convert and manipulate colors.
 
 ## [35. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
@@ -515,7 +518,7 @@ Topics: CSS, CSS in JS, React\
 ### Document
 
 *   [Arm](https://developer.arm.com/solutions/graphics/apis/vulkan)
-    *   [Vulkan Best Practice for Mobile Developers Tutorials (⭐543)](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)
+    *   [Vulkan Best Practice for Mobile Developers Tutorials (⭐575)](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)
     *   [Vulkan's Key Features on Arm Architecture](https://developer.arm.com/-/media/Files/pdf/graphics-and-multimedia/Vulkan%20API%20key%20features%20on%20ARM%20architecture.pdf)
     *   [Porting a Graphics Engine to the Vulkan API](https://community.arm.com/groups/arm-mali-graphics/blog/2016/02/16/porting-a-graphics-engine-to-the-vulkan-api)
     *   [Get Your Engine Ready for Vulkan on Mobile](https://developer.arm.com/-/media/Files/pdf/graphics-and-multimedia/Get%20Your%20Engine%20Ready%20for%20Vulkan%20on%20Mobile.pdf)
@@ -524,12 +527,12 @@ Topics: CSS, CSS in JS, React\
 
 ### Samples
 
-*   [Vulkan Best Practice for Mobile Developers Samples (⭐543)](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)
+*   [Vulkan Best Practice for Mobile Developers Samples (⭐575)](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)
 
 ### Tools
 
 *   [Arm Mobile Studio](https://www.arm.com/products/development-tools/graphics/arm-mobile-studio) - includes the Arm Graphics Analyzer to trace graphics performance issues easily, and Arm Streamline performance analyzer, for a whole-system view of performance to determine bottlenecks quickly across both the CPU and GPU.
-*   [Arm - PerfDoc (⭐112)](https://github.com/ARM-software/perfdoc) - a validation layer against the Mali Application Developer Best Practices document. \[MIT]
+*   [Arm - PerfDoc (⭐115)](https://github.com/ARM-software/perfdoc) - a validation layer against the Mali Application Developer Best Practices document. \[MIT]
 
 ## [39. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
@@ -546,15 +549,15 @@ Topics: CSS, CSS in JS, React\
 
 ### UI
 
-*   [Scratcher (⭐404)](https://github.com/vintage/scratcher) <!--stargazers:vintage/scratcher--> - Scratch card widget which temporarily hides content from user, by [Kamil Rykowski](https://github.com/vintage).
+*   [Scratcher (⭐460)](https://github.com/vintage/scratcher) <!--stargazers:vintage/scratcher--> - Scratch card widget which temporarily hides content from user, by [Kamil Rykowski](https://github.com/vintage).
 
 ### UI / Effect
 
-*   [PhotoFilters (⭐336)](https://github.com/skkallayath/photofilters) <!--stargazers:skkallayath/photofilters--> - Apply filters to an image by [Sharafudheen KK](https://github.com/skkallayath).
+*   [PhotoFilters (⭐360)](https://github.com/skkallayath/photofilters) <!--stargazers:skkallayath/photofilters--> - Apply filters to an image by [Sharafudheen KK](https://github.com/skkallayath).
 
 ### Monetization / Preferences
 
-*   [Admob Flutter (⭐418)](https://github.com/kmcgill88/admob_flutter) - Admob plugin that shows banner ads using native platform views by [Youssef Kababe](https://github.com/YoussefKababe) & [Kevin McGill](https://github.com/kmcgill88).
+*   [Admob Flutter (⭐428)](https://github.com/kmcgill88/admob_flutter) - Admob plugin that shows banner ads using native platform views by [Youssef Kababe](https://github.com/YoussefKababe) & [Kevin McGill](https://github.com/kmcgill88).
 
 ## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -577,12 +580,12 @@ Topics: CSS, CSS in JS, React\
 ### BaaS
 
 *   [back4app.com](https://www.back4app.com) - Back4App is an easy-to-use, flexible and scalable backend based on Parse Platform.
-*   [backendless.com](https://backendless.com/) — Mobile and Web Baas, with 1 GB file storage free, push notifications 50000/month, and 1000 data objects in table.
+*   [backendless.com](https://backendless.com/) — Mobile and Web Baas, with 1 GB file storage free, push notifications of 50,000/month, and 1000 data objects in the table.
 
 ### Data Visualization on Maps
 
 *   [Foursquare](https://developer.foursquare.com/) - Location discovery, venue search, and context-aware content from Places API and Pilgrim SDK.
-*   [stadiamaps.com](https://stadiamaps.com/) — Map tiles, routing, navigation, and other geospatial APIs. 2,500 free map views and API requests / day for non-commercial usage and testing.
+*   [stadiamaps.com](https://stadiamaps.com/) — Map tiles, routing, navigation, and other geospatial APIs. Two thousand five hundred free map views and API requests/day for non-commercial usage and testing.
 
 ## [42. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
@@ -620,7 +623,7 @@ Topics: CSS, CSS in JS, React\
 
 ### Open Source / Casual
 
-*   [Bob Box (⭐38)](https://github.com/fireslime/bounce_box) - A simple casual game that you can play with one finger. Tap to stop, avoid obstacles! By [FireSlime](https://fireslime.xyz)
+*   [Bob Box (⭐39)](https://github.com/fireslime/bounce_box) - A simple casual game that you can play with one finger. Tap to stop, avoid obstacles! By [FireSlime](https://fireslime.xyz)
 
 ### Open Source / Endless Runner
 
@@ -676,18 +679,18 @@ Topics: CSS, CSS in JS, React\
 
 ## [52. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
-### Introspection
+### Introspection / Text-Based User Interfaces
 
-*   [ClassGraph (⭐2.4k)](https://github.com/classgraph/classgraph) - ClassGraph (formerly FastClasspathScanner) is an uber-fast, ultra-lightweight, parallelized classpath scanner and module scanner for Java, Scala, Kotlin and other JVM languages.
-*   [ReflectASM (⭐1.4k)](https://github.com/EsotericSoftware/reflectasm) - ReflectASM is a very small Java library that provides high performance reflection by using code generation.
-*   [Reflections (⭐4.4k)](https://github.com/ronmamo/reflections) - Reflections scans your classpath, indexes the metadata, allows you to query it on runtime and may save and collect that information for many modules within your project.
+*   [ClassGraph (⭐2.5k)](https://github.com/classgraph/classgraph) - ClassGraph (formerly FastClasspathScanner) is an uber-fast, ultra-lightweight, parallelized classpath scanner and module scanner for Java, Scala, Kotlin and other JVM languages.
+*   [ReflectASM (⭐1.5k)](https://github.com/EsotericSoftware/reflectasm) - ReflectASM is a very small Java library that provides high performance reflection by using code generation.
+*   [Reflections (⭐4.6k)](https://github.com/ronmamo/reflections) - Reflections scans your classpath, indexes the metadata, allows you to query it on runtime and may save and collect that information for many modules within your project.
 
 ## [53. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Official Resources
 
 *   [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
-*   [GitHub Repository (⭐7k)](https://github.com/apache/jmeter) - Apache JMeter source code repository.
+*   [GitHub Repository (⭐7.4k)](https://github.com/apache/jmeter) - Apache JMeter source code repository.
 *   [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
 *   [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
 
@@ -777,15 +780,15 @@ Topics: CSS, CSS in JS, React\
 
 ### CLI
 
-*   [Lyra (⭐405)](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
+*   [Lyra (⭐422)](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
 
 ### Web Application Framework
 
-*   [C++ REST SDK (⭐7.4k)](https://github.com/Microsoft/cpprestsdk) - Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. \[MIT]
+*   [C++ REST SDK (⭐7.6k)](https://github.com/Microsoft/cpprestsdk) - Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. \[MIT]
 
 ### Static Code Analysis
 
-*   [IKOS (⭐1.8k)](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation. \[NOSA 1.3]
+*   [IKOS (⭐1.9k)](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation. \[NOSA 1.3]
 
 ## [59. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/week/README.md)
 
@@ -809,7 +812,7 @@ Topics: CSS, CSS in JS, React\
 
 ### tools / Other
 
-*   [ebowla (⭐695)](https://github.com/Genetic-Malware/Ebowla) - Framework for Making Environmental Keyed Payloads
+*   [ebowla (⭐709)](https://github.com/Genetic-Malware/Ebowla) - Framework for Making Environmental Keyed Payloads
 
 ## [61. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -924,11 +927,11 @@ Topics: CSS, CSS in JS, React\
 
 ### Messaging
 
-*   [PeerLinks](https://peerlinks.io) is a MIT licensed distributed group messaging platform with a focus on building trust networks between people and explicit invites to the channels. At the moment there is a [nodejs library (⭐197)](https://github.com/peerlinks/peerlinks), [Desktop Client (⭐197)](https://github.com/peerlinks/peerlinks).
+*   [PeerLinks](https://peerlinks.io) is a MIT licensed distributed group messaging platform with a focus on building trust networks between people and explicit invites to the channels. At the moment there is a [nodejs library (⭐199)](https://github.com/peerlinks/peerlinks), [Desktop Client (⭐199)](https://github.com/peerlinks/peerlinks).
 
-### Uncategorised
+### Dead
 
-*   [Beaker Browser](https://beakerbrowser.com/) an experimental browser for exploring the p2p web.
+*   [Beaker Browser](https://beakerbrowser.com/) an experimental browser for exploring the p2p web. The link now points at [this post (⭐6.7k)](https://github.com/beakerbrowser/beaker/blob/master/archive-notice.md) explaining its archival.
 
 ## [67. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
@@ -951,19 +954,15 @@ Topics: CSS, CSS in JS, React\
 
 ### Software / Automation
 
-*   [HRConvert2 (⭐677)](https://github.com/zelon88/HRConvert2) - Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. `GPL-3.0` `PHP`
+*   [HRConvert2 (⭐742)](https://github.com/zelon88/HRConvert2) - Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. `GPL-3.0` `PHP`
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Coral](https://coralproject.net/) - A better commenting experience from Vox Media. ([Source Code (⭐1.8k)](https://github.com/coralproject/talk)) `Apache-2.0` `Nodejs`
-
-### Software / Groupware
-
-*   [HRCloud2 (⭐192)](https://github.com/zelon88/HRCloud2) - Full-featured home hosted Cloud Drive, Personal Assistant, App Launcher, File Converter, Streamer, Share Tool and more. `GPL-3.0` `PHP`
+*   [Coral](https://coralproject.net/) - A better commenting experience from Vox Media. ([Source Code (⭐1.9k)](https://github.com/coralproject/talk)) `Apache-2.0` `Docker/Nodejs`
 
 ### Software / Polls and Events
 
-*   [Open Event Server (⭐2.9k)](https://github.com/fossasia/open-event-server) - Enables organizers to manage events from concerts to conferences and meet-ups. `GPL-3.0` `Python`
+*   [Open Event Server (⭐2.9k)](https://github.com/fossasia/open-event-server) - Enables organizers to manage events from concerts to conferences and meet-ups. `GPL-3.0` `Python/Docker`
 
 ## [70. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -1005,16 +1004,16 @@ Topics: CSS, CSS in JS, React\
 
 ### Command Line
 
-*   [SwiftShell (⭐984)](https://github.com/kareman/SwiftShell) - A library for creating command-line applications and running shell commands.
+*   [SwiftShell (⭐1k)](https://github.com/kareman/SwiftShell) - A library for creating command-line applications and running shell commands.
 
 ### Dependency Injection
 
-*   [DIKit (⭐97)](https://github.com/Liftric/DIKit) - Dependency Injection Framework for Swift, inspired by KOIN.
+*   [DIKit (⭐101)](https://github.com/Liftric/DIKit) - Dependency Injection Framework for Swift, inspired by KOIN.
 
 ### Quality / Barcode
 
 *   [SwiftCop (⭐542)](https://github.com/andresinaka/SwiftCop) - A validation library which inspired by the clarity of Ruby On Rails Active Record validations.
-*   [SwiftFormat (⭐6.6k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
+*   [SwiftFormat (⭐7k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
 
 ## [73. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -1113,7 +1112,7 @@ Topics: CSS, CSS in JS, React\
 
 ### ORM/ODM Extensions
 
-*   [crecto (⭐342)](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
+*   [crecto (⭐340)](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
 
 ## [78. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 

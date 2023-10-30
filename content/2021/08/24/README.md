@@ -10,15 +10,16 @@
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [TransitWand (⭐35)](https://github.com/conveyal/transit-wand) - An open source web and mobile application for collecting transit data. Use it to create GTFS feeds, capture passenger counts or generate GIS datasets.
+*   [TransitWand (⭐37)](https://github.com/conveyal/transit-wand) - An open source web and mobile application for collecting transit data. Use it to create GTFS feeds, capture passenger counts or generate GIS datasets.
 
 ## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Persistent object databases
 
-*   [bknr.datastore (⭐85)](https://github.com/hanshuebner/bknr-datastore) - a CLOS-based lisp-only database in RAM with transaction logging persistence. [Manual](https://www.common-lisp.net/project/bknr/html/documentation.html). [licence](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html).
+*   [bknr.datastore (⭐90)](https://github.com/hanshuebner/bknr-datastore) - a CLOS-based lisp-only database in RAM with transaction logging persistence. [Manual](https://www.common-lisp.net/project/bknr/html/documentation.html). [licence](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html).
     *   see also this [good introductory blog post](https://ashok-khanna.medium.com/persistent-in-memory-data-storage-in-common-lisp-b-k-n-r-37f8ae76042f)
-    *   an example web application using bknr.datastore: [screenshotbot-oss (⭐161)](https://github.com/screenshotbot/screenshotbot-oss).
+    *   an example web application using bknr.datastore: [screenshotbot-oss (⭐169)](https://github.com/screenshotbot/screenshotbot-oss).
+    *   See also [bknr.cluster (⭐8)](https://github.com/tdrhq/bknr.cluster), if you want a highly-available replicated version of bknr.datastore.
 
 ### Utils / Third-party APIs
 
@@ -26,7 +27,7 @@
 
 ### Command-line options parsers / Third-party APIs
 
-*   👍 [Clingon (⭐86)](https://github.com/dnaeon/clingon) - a rich command-line options parser system.
+*   👍 [Clingon (⭐103)](https://github.com/dnaeon/clingon) - a rich command-line options parser system.
     *   it may have the richest feature set: subcommands, generation of bash completion, support for various kinds of options (integers, booleans, counter, enums…), extensible…
 
 ## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)

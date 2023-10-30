@@ -16,7 +16,7 @@
 
 ### Frameworks, Libraries and Tools / Searching
 
-*   [ElasticsearchCRUD (⭐164)](https://github.com/damienbod/ElasticsearchCRUD) - Elasticsearch .NET API.
+*   [ElasticsearchCRUD (⭐172)](https://github.com/damienbod/ElasticsearchCRUD) - Elasticsearch .NET API.
 
 ## [3. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

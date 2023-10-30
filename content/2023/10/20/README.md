@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 20, 2023
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -124,13 +124,7 @@
 
 *   [exome (⭐127)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
-## [7. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/README.md)
-
-### Site Search
-
-*   [Elastic search (⭐0)](https://github.com/firesphere/silverstripe-elastic) - Interface for Elastic search, supports Elasticsearch 8+ version. API similar, identical where possible, to the Solr search module.
-
-## [8. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [7. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Reverse Proxy
 
@@ -140,9 +134,58 @@
 
 *   [uniget (⭐0)](https://github.com/uniget-org/cli) - uni(versal)get, the installer and updater for container tools and beyond (formerly docker-setup). By [@nicholasdille](https://github.com/nicholasdille)
 
+## [8. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+
+### Chatbots
+
+*   [Smitty](https://www.smitty.ai/) - Streamlining processes and providing agile, efficient responses to your unique business needs. `#freemium`
+
+### Sales
+
+*   [Sellesta](https://sellesta.com/marketplace/) - Revamp your Amazon business with Sellesta AI tools! Keyword Research, Listing Optimization, and Keyword Tracking. Start Free Now! `#freemium`
+
+### Education
+
+*   [SocratiQ](https://socratiq.ai/) - The Future of Education, Integrated `#paid`
+
+### Image Generator
+
+*   [MergeML](https://mergeml.com/) - Lightning Fast Image Generation `#free`
+
+### Logo Generator
+
+*   [Placeit](https://placeit.net/) - user-friendly design platform that can be used to create logos, mockups, and videos. `#paid`
+*   [Zarla](https://www.zarla.com/) - Zarla uses AI to generate unique logo designs through various prompts. `#free`
+
+### Real Estate
+
+*   [HomeByte](https://homebyte.com/) - Find your dream home with the most advanced home search on the planet. `#free`
+*   [IACrea](https://iacrea.com/) - AI-powered Home Staging Solution `#paid`
+*   [InteriorAI](https://interiorai.com/) - Interior design ideas using Artificial Intelligence `#paid`
+*   [RealtyNinja](https://get.realtyninja.com/ai-listing-description-generator) - AI Listing Description Generator `#free`
+*   [RealtyGenius](https://realtygenius.ai/) - Offers efficient document management and collaboration functionalities for real estate professionals. `#freemium`
+*   [VirtualStagingAI](https://www.virtualstagingai.app/) - Virtually stage in one click `#paid`
+*   [Virtual House Flip](https://www.virtualhouseflip.com/) - Remodel homes using AI for stunning results `#paid`
+*   [Write.homes](https://write.homes/) - The ultimate real estate content creation tool `#free`
+
+### Religion
+
+*   [AstroGPT](https://vedicastrogpt.com/) - AstroGPT is a personalized astrology service that provides expert guidance for love, career, and more. `#free`
+*   [Gita GPT](https://www.gitagpt.in/) - Unlock the Power of AI with the Bhagavad Gita `#free`
+*   [Tarteel](https://www.tarteel.ai/) - Tarteel is an AI-powered Quran companion that helps users improve their recitation and memorization skills by providing real-time feedback, highlighting words, offering translations, and customizable challenges. `#paid`
+*   [Text With Jesus](https://textwith.me/jesus) - Enlightening conversations and a deeper connection to revered biblical figures. `#paid`
+
+### Travel
+
+*   [PLAN by Ixigo](https://www.ixigo.com/) - Your AI-Powered Travel Planning Companion `#free`
+
+### Video Editing
+
+*   [FineShare FineCam](https://www.fineshare.com/finecam/) - Transform your video calls and recordings with FineShare FineCam's advanced capabilities `#paid`
+
 ## [9. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
-### Party
+### Strategy
 
 ### [Contigo](https://boardgamegeek.com/boardgame/2545/contigo)
 
@@ -153,6 +196,9 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 4 |       12 |  45m |
+
+### Party
+
 ### [Risk](https://en.wikipedia.org/wiki/Risk_\(game\))
 
 > ...A strategy game of diplomacy, conflict and conquest. The standard version is played on a board depicting a political map of the world, divided into 42 territories, which are grouped into six continents.
@@ -305,9 +351,6 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   1 - 5 |       10 | 45-60m |
-
-### Contribute
-
 ### [Dice Forge](https://boardgamegeek.com/boardgame/194594/dice-forge)
 
 > Dice Forge is a unique and exciting board game that challenges players to become gods by defeating their rivals. In this game, players are given divine dice that they can customize by snapping new faces onto them. The game combines some of the best mechanics of resource collection, dice rolling, and ability usage, making it a fun and engaging experience for players of all ages. To set up the game, players choose a hero and take a reserve board and four tracking cubes in their color, and start everything off at zero.
@@ -317,8 +360,6 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 4 |       10 |  45m |
-
-Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
 
 ## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -351,19 +392,13 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [Sequin](https://sequin.io/) - Interface with third-party services using SQL.
 
-## [14. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
-
-### C#
-
-*   [Keep Coding Podcast](https://www.youtube.com/playlist?list=PL3bCPMOBNeGwG1fkIs6FCF7_jpeVgQLS0) - Nick Chapsas (podcast)
-
-## [15. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [14. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### Reverse Engineering
 
 *   [*Practical Reverse Engineering* by Bruce Dang, Alexandre Gazet, Elias Bachaalany, Sébastien Josse](https://www.wiley.com/en-ca/Practical+Reverse+Engineering%3A+x86%2C+x64%2C+ARM%2C+Windows+Kernel%2C+Reversing+Tools%2C+and+Obfuscation-p-9781118787250)
 
-## [16. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [15. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tutorials and Blog Posts / Beginner Guides
 
@@ -383,4 +418,5 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ---
 
+- Prev: [Oct 21, 2023](/content/2023/10/21/README.md)
 - Next: [Oct 19, 2023](/content/2023/10/19/README.md)

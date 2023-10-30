@@ -1,18 +1,12 @@
 # Awesome List Updates on Apr 20, 2023
 
-13 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
-
-### Learn / Videos
-
-*   [LangChain Tutorial in Python - Crash Course](https://www.python-engineer.com/posts/langchain-crash-course/)
-
-## [2. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ### Resources / Tutorials & workshops
 
@@ -25,28 +19,27 @@
 ### Resources / Talks and videos
 
 *   [An opinionated introduction to Polars](https://www.dropbox.com/s/fphay3yav2b2rdq/2023_polars.pdf?dl=1) - Great Polars introduction slides from [@krlng](https://github.com/krlng) at PyCon 2023.
-*   [Polars - make the switch to lightning-fast dataframes (⭐1)](https://github.com/datenzauberai/PyConDE-2023--Polars-make-the-switch/raw/main/Polars%20-%20make%20the%20switch%20to%20lightning-fast%20dataframes%20-%20Versand.pdf) - A talk that reports an experience switching from Pandas to Polars in a real-world ML project by [@datenzauberai](https://github.com/datenzauberai).
 
-## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Firmware projects / WIP
 
-*   [μLA (⭐340)](https://github.com/dotcypress/ula): Micro Logic Analyzer for RP2040
+*   [μLA (⭐467)](https://github.com/dotcypress/ula): Micro Logic Analyzer for RP2040
 
-## [4. Awesome Directus](/content/directus-community/awesome-directus/README.md)
+## [3. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Extensions / Community
 
-*   [Generate Types (⭐82)](https://github.com/maltejur/directus-extension-generate-types) - Adds a module for generating typescript types for a Directus JS-SDK connected to that Directus database. Also can generate Python or OpenAPI types.
-*   [Computed Interface (⭐78)](https://github.com/rezo-labs/directus-extension-computed-interface) - Perform computed value based on other fields.
+*   [Generate Types (⭐131)](https://github.com/maltejur/directus-extension-generate-types) - Adds a module for generating typescript types for a Directus JS-SDK connected to that Directus database. Also can generate Python or OpenAPI types.
+*   [Computed Interface (⭐138)](https://github.com/rezo-labs/directus-extension-computed-interface) - Perform computed value based on other fields.
 
-## [5. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
-*   [terraform-repl (⭐61)](https://github.com/paololazzari/terraform-repl) - A terraform console wrapper for a better interactive console experience.
+*   [terraform-repl (⭐77)](https://github.com/paololazzari/terraform-repl) - A terraform console wrapper for a better interactive console experience.
 
-## [6. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
+## [5. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### General Libraries
 
@@ -114,64 +107,22 @@
 
 *   [James - The Delphi Project Manager (⭐48)](https://github.com/alefragnani/delphi-james). `[Delphi]` It makes your life easier while switching from one project to another. If you see yourself manually installing components and updating Delphi settings every time you have to switch from one project to another, James may help you.
 
-## [7. Ai Collection](/content/ai-collection/ai-collection/README.md)
-
-### Accounting & Finance
-
-- Name: [FlowCog](https://flowcog.com?ref=aicollection)
-
-  Title: SaaS Financial Projections Quick & Easy ⚡.
-
-  Description: Unlock cash runway & growth insights — no spreadsheets! 7 minute onboarding. QuickBooks & Stripe ready. Trusted by boards & investors.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Human Resources & Resume
-
-- Name: [Cover Letter AI App](https://coverletterai.app/?ref=aicollection)
-
-  Title: Cover Letter AI.
-
-  Description: .
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Photo & Image Editing
-
-- Name: [Prisma Lensa](https://prisma-ai.com/lensa?ref=aicollection)
-
-  Title: Lensa Is an All-in-One Image Editing App That Takes Your Photos to the Next Level.
-
-  Description: .
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-## [8. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [6. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Planning Data Specifications / Transportation
 
-*   [OpenSidewalks (⭐25)](https://github.com/OpenSidewalks/OpenSidewalks-Schema) - A data specification for routable pedestrian networks and describing and sharing pedestrian network and pedestrian network-adjacent data.
+*   [OpenSidewalks (⭐28)](https://github.com/OpenSidewalks/OpenSidewalks-Schema) - A data specification for routable pedestrian networks and describing and sharing pedestrian network and pedestrian network-adjacent data.
 
-## [9. Awesome React](/content/enaqx/awesome-react/README.md)
+## [7. Awesome React](/content/enaqx/awesome-react/README.md)
 
 ### React Tutorials
 
 *   [React Official Tutorial](https://react.dev/learn)
-*   [The Fullstack Tutorial for GraphQL (⭐8.5k)](https://github.com/howtographql/howtographql)
+*   [The Fullstack Tutorial for GraphQL (⭐8.6k)](https://github.com/howtographql/howtographql)
 
 ### React Development Tools
 
-*   [vite (⭐55k)](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
-
-### React Component Libraries
-
-*   [nextui (⭐9.8k)](https://github.com/nextui-org/nextui) - Beautiful, fast and modern React UI library
+*   [vite (⭐60k)](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
 
 ### React State Management and Data Fetching
 
@@ -180,48 +131,48 @@
 
 ### React Awesome Components
 
-*   [keen-slider (⭐3.9k)](https://github.com/rcbyr/keen-slider) - The Touch slider carousel
-*   [cookie-consent-banner (⭐49)](https://github.com/porscheofficial/cookie-consent-banner) – The lightweight and flexible Cookie Consent Banner
-*   [heart-switch (⭐420)](https://github.com/anatoliygatt/heart-switch) - A heart-shaped toggle switch component for React
+*   [keen-slider (⭐4.3k)](https://github.com/rcbyr/keen-slider) - The Touch slider carousel
+*   [cookie-consent-banner (⭐71)](https://github.com/porscheofficial/cookie-consent-banner) – The lightweight and flexible Cookie Consent Banner
+*   [heart-switch (⭐432)](https://github.com/anatoliygatt/heart-switch) - A heart-shaped toggle switch component for React
 
 ### React Graphics and Animations
 
-*   [auto-animate (⭐7.4k)](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions
-*   [react-tsparticles (⭐5.3k)](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles effects
+*   [auto-animate (⭐9.8k)](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions
+*   [react-tsparticles (⭐5.9k)](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles effects
 
-## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [8. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Back-end API / Playground
 
-*   :octocat: [Actio (⭐93)](https://github.com/crufters/actio/) - The Node.js framework for monoliths and microservices.
+*   :octocat: [Actio (⭐265)](https://github.com/crufters/actio/) - The Node.js framework for monoliths and microservices.
 
-## [11. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [9. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Backups
 
-*   [Duplicity](https://duplicity.gitlab.io/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
+*   [Duplicity](https://duplicity.gitlab.io/) - Encrypted bandwidth-efficient backup using the rsync algorithm. ([Source Code](https://gitlab.com/duplicity/duplicity)) `GPL-2.0` `Python`
 
 ### Software / DNS - Servers
 
 *   [Bind](https://www.isc.org/bind/) - Versatile, classic, complete name server software. ([Source Code](https://gitlab.isc.org/isc-projects/bind9)) `MPL-2.0` `C`
 *   [dnsmasq](https://www.thekelleys.org.uk/dnsmasq/doc.html) - Provides network infrastructure for small networks: DNS, DHCP, router advertisement and network boot. ([Source Code](https://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=tree)) `GPL-2.0` `C`
-*   [NSD](https://www.nlnetlabs.nl/projects/nsd/about/) - Authoritative DNS name server developed speed, reliability, stability and security. ([Source Code (⭐330)](https://github.com/NLnetLabs/nsd)) `BSD-3-Clause` `C`
-*   [PowerDNS Authoritative Server](https://doc.powerdns.com/authoritative/) - Versatile nameserver which supports a large number of backends.. ([Source Code (⭐3k)](https://github.com/PowerDNS/pdns)) `GPL-2.0` `C++`
-*   [Unbound](https://nlnetlabs.nl/projects/unbound/about/) - Validating, recursive, and caching DNS resolver. ([Source Code (⭐2.2k)](https://github.com/NLnetLabs/unbound)) `BSD-3-Clause` `C`
-*   [Yadifa](https://www.yadifa.eu/) - Clean, small, light and RFC-compliant name server implementation developed from scratch by .eu. ([Source Code (⭐51)](https://github.com/yadifa/yadifa)) `BSD-3-Clause` `C`
+*   [NSD](https://www.nlnetlabs.nl/projects/nsd/about/) - Authoritative DNS name server developed speed, reliability, stability and security. ([Source Code (⭐349)](https://github.com/NLnetLabs/nsd)) `BSD-3-Clause` `C`
+*   [PowerDNS Authoritative Server](https://doc.powerdns.com/authoritative/) - Versatile nameserver which supports a large number of backends. ([Source Code (⭐3.2k)](https://github.com/PowerDNS/pdns)) `GPL-2.0` `C++`
+*   [Unbound](https://nlnetlabs.nl/projects/unbound/about/) - Validating, recursive, and caching DNS resolver. ([Source Code (⭐2.4k)](https://github.com/NLnetLabs/unbound)) `BSD-3-Clause` `C`
+*   [Yadifa](https://www.yadifa.eu/) - Clean, small, light and RFC-compliant name server implementation developed from scratch by .eu. ([Source Code (⭐57)](https://github.com/yadifa/yadifa)) `BSD-3-Clause` `C`
 
-## [12. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
+## [10. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
 ### Machine Learning Libraries / Vector search
 
-*   [pinecone (⭐16)](https://github.com/ScotterC/pinecone) —
+*   [pinecone (⭐46)](https://github.com/ScotterC/pinecone) —
     Ruby client for Pinecone Vector DB.
-*   [qdrant-ruby (⭐2)](https://github.com/andreibondarev/qdrant-ruby) —
+*   [qdrant-ruby (⭐25)](https://github.com/andreibondarev/qdrant-ruby) —
     Ruby wrapper for the Qdrant vector search database API.
-*   [weaviate-ruby (⭐8)](https://github.com/andreibondarev/weaviate-ruby) —
+*   [weaviate-ruby (⭐34)](https://github.com/andreibondarev/weaviate-ruby) —
     Ruby wrapper for the Weaviate vector search database API.
 
-## [13. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [11. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### MOOC's
 

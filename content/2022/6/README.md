@@ -16,13 +16,13 @@
 
 ### CLI
 
-*   [usql (⭐7.9k)](https://github.com/xo/usql) - A universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, and many other databases including NoSQL and non-relational databases!
+*   [usql (⭐8.3k)](https://github.com/xo/usql) - A universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, and many other databases including NoSQL and non-relational databases!
 
 ### SQL / Analyzers
 
 *   [SQLCheck (⭐2.3k)](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns.
-*   [SQLFluff (⭐5.8k)](https://github.com/sqlfluff/sqlfluff) - Dialect-flexible and configurable SQL linter.
-*   [TSQLLint (⭐175)](https://github.com/tsqllint/tsqllint) - A tool for describing, identifying, and reporting the presence of anti-patterns in TSQL scripts.
+*   [SQLFluff (⭐6.6k)](https://github.com/sqlfluff/sqlfluff) - Dialect-flexible and configurable SQL linter.
+*   [TSQLLint (⭐193)](https://github.com/tsqllint/tsqllint) - A tool for describing, identifying, and reporting the presence of anti-patterns in TSQL scripts.
 
 ### SQL / Extensions
 
@@ -35,34 +35,30 @@
 
 ### SQL / Formatters
 
-*   [CodeBuff (⭐416)](https://github.com/antlr/codebuff) - Language-agnostic pretty-printing through machine learning.
-*   [pgFormatter (⭐1.4k)](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier.
+*   [CodeBuff (⭐421)](https://github.com/antlr/codebuff) - Language-agnostic pretty-printing through machine learning.
+*   [pgFormatter (⭐1.5k)](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier.
 *   [Poor SQL](https://poorsql.com) - Instant free and open-source T-SQL formatting.
-*   [SQL Formatter (⭐1.5k)](https://github.com/zeroturnaround/sql-formatter) - JavaScript library for pretty-printing SQL queries.
+*   [SQL Formatter (⭐1.8k)](https://github.com/zeroturnaround/sql-formatter) - JavaScript library for pretty-printing SQL queries.
 
 ### SQL / Parsers
 
 *   [General SQL Parser](https://www.sqlparser.com) - Parsing, formatting, modification and analysis for SQL.
-*   [jOOQ (⭐5.4k)](https://github.com/jOOQ/jOOQ) - Parses SQL, translates it to other dialects, and allows for expression tree transformations.
-*   [JSqlParser (⭐4.2k)](https://github.com/JSQLParser/JSqlParser) - Parses an SQL statement and translate it into a hierarchy of Java classes.
-*   [More SQL Parsing! (⭐191)](https://github.com/klahnakoski/mo-sql-parsing) - Parse SQL into JSON.
-*   [sqlparse (⭐3.2k)](https://github.com/andialbrecht/sqlparse) - Non-validating SQL parser for Python.
+*   [jOOQ (⭐5.7k)](https://github.com/jOOQ/jOOQ) - Parses SQL, translates it to other dialects, and allows for expression tree transformations.
+*   [JSqlParser (⭐4.6k)](https://github.com/JSQLParser/JSqlParser) - Parses an SQL statement and translate it into a hierarchy of Java classes.
+*   [More SQL Parsing! (⭐221)](https://github.com/klahnakoski/mo-sql-parsing) - Parse SQL into JSON.
+*   [sqlparse (⭐3.4k)](https://github.com/andialbrecht/sqlparse) - Non-validating SQL parser for Python.
 
-## [3. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
+## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
-### 0 - 言語非依存 / ネットワーキング
+### Rust / Sinatra
 
-*   [プロフェッショナルIPv6 第2版](https://dforest.watch.impress.co.jp/library/p/proipv6/11948/ao-ipv6-2-book-20211220.pdf) - 小川晃通 (PDF)
-
-### TypeScript / Flask
-
-*   [サバイバルTypeScript](https://typescriptbook.jp) - YYTypeScript
+*   [Easy Rust](https://dhghomon.github.io/easy_rust/) - David McLeod (HTML, PDF)
 
 ## [4. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Authentication & Identity
 
-*   [SuperTokens](https://supertokens.io/) - Open-source and hosted email & Oauth authentication with prebuilt UI.
+*   [SuperTokens](https://supertokens.io/) - Open-source and hosted email & Oauth authentication with prebuilt UI. ![SuperTokens](https://img.shields.io/github/contributors-anon/supertokens/supertokens-core?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ## [5. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
@@ -86,23 +82,23 @@
 
 ### Crash Courses
 
-*   [Algorand School (⭐71)](https://github.com/cusma/algorand-school) - Algorand School crash course slide deck.
+*   [Algorand School (⭐72)](https://github.com/cusma/algorand-school) - Algorand School crash course slide deck.
 
 ## [8. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Verified Software
 
-*   [Jasmin (⭐155)](https://github.com/jasmin-lang/jasmin) - Formalized language and verified compiler for high-assurance and high-speed cryptography.
+*   [Jasmin (⭐180)](https://github.com/jasmin-lang/jasmin) - Formalized language and verified compiler for high-assurance and high-speed cryptography.
 
 ## [9. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Security
 
-*   [Executable Packing (⭐776)](https://github.com/dhondta/awesome-executable-packing#readme) - Packing and unpacking executable formats.
+*   [Executable Packing (⭐902)](https://github.com/dhondta/awesome-executable-packing#readme) - Packing and unpacking executable formats.
 
 ### Decentralized Systems
 
-*   [Algorand (⭐126)](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
+*   [Algorand (⭐157)](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
 
 ## [10. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
@@ -119,10 +115,10 @@
 *   [Enigma Virtual Box](https://www.enigmaprotector.com/en/aboutvb.html) - Application virtualization system for Windows.
 *   [EXE Bundle](https://www.webtoolmaster.com/exebundle.htm) - Bundles application files into a single PE32 file.
 *   [EXE Stealth](http://www.webtoolmaster.com/packer.htm) - Anti-cracking protection and licensing tool for PE files featuring compression and encryption polymorphic technology.
-*   [hXOR-Packer (⭐36)](https://github.com/rurararura/hXOR-Packer) - PE packer with Huffman compression and XOR encryption.
+*   [hXOR-Packer (⭐40)](https://github.com/rurararura/hXOR-Packer) - PE packer with Huffman compression and XOR encryption.
 *   [LIAPP](https://liapp.lockincomp.com) - Easiest and most powerful mobile app security solution.
 *   [MPRESS](https://www.autohotkey.com/mpress/mpress_web.htm) - Compresses (using LZMA) and protects PE, .NET or Mach-O programs against reverse engineering.
-*   [Papaw (⭐26)](https://github.com/dimkr/papaw) - Permissively-licensed packer for ELF executables using LZMA Zstandard or Deflate compression.
+*   [Papaw (⭐34)](https://github.com/dimkr/papaw) - Permissively-licensed packer for ELF executables using LZMA Zstandard or Deflate compression.
 *   [ZProtect](http://www.jiami.net) - Renames metadata entities and supports advanced obfuscation methods that harden protection scheme and foil reverse engineering altogether.
 
 ### :package: Packers / Between 2000 and 2010
@@ -147,15 +143,15 @@
 
 ### :wrench: Tools / Before 2000
 
-*   [APKiD (⭐1.5k)](https://github.com/rednaga/APKiD) - Android application Identifier for packers, protectors, obfuscators and oddities - PEiD for Android.
+*   [APKiD (⭐1.7k)](https://github.com/rednaga/APKiD) - Android application Identifier for packers, protectors, obfuscators and oddities - PEiD for Android.
 *   [BinUnpack](https://doi.org/10.1145/3243734.3243771) - Unpacking approach free from tedious memory access monitoring, therefore introducing very small runtime overhead.
 
 ## [11. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Stub packages
 
-*   [boto3-stubs](https://vemel.github.io/boto3_stubs_docs/) - Stubs for [boto3 (⭐7.9k)](https://github.com/boto/boto3).
-*   [types-aiobotocore](https://vemel.github.io/types_aiobotocore_docs/) - Stubs for [aiobotocore (⭐888)](https://github.com/aio-libs/aiobotocore).
+*   [boto3-stubs](https://vemel.github.io/boto3_stubs_docs/) - Stubs for [boto3 (⭐8.2k)](https://github.com/boto/boto3).
+*   [types-aiobotocore](https://vemel.github.io/types_aiobotocore_docs/) - Stubs for [aiobotocore (⭐941)](https://github.com/aio-libs/aiobotocore).
 
 ## [12. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
 
@@ -167,8 +163,8 @@
 
 ### Web Exploitation / Web shells and C2 frameworks
 
-*   [Merlin (⭐4.2k)](https://github.com/Ne0nd0g/merlin) - Cross-platform post-exploitation HTTP/2 Command and Control server and agent written in Golang.
-*   [SharPyShell (⭐726)](https://github.com/antonioCoco/SharPyShell) - Tiny and obfuscated ASP.NET webshell for C# web applications.
+*   [Merlin (⭐4.6k)](https://github.com/Ne0nd0g/merlin) - Cross-platform post-exploitation HTTP/2 Command and Control server and agent written in Golang.
+*   [SharPyShell (⭐818)](https://github.com/antonioCoco/SharPyShell) - Tiny and obfuscated ASP.NET webshell for C# web applications.
 
 ## [14. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
 
@@ -190,24 +186,24 @@
 
 ### Tools / Testing Tools
 
-*   [eslint-interactive (⭐214)](https://github.com/mizdra/eslint-interactive) - The CLI tool to fix huge number of ESLint errors.
+*   [eslint-interactive (⭐238)](https://github.com/mizdra/eslint-interactive) - The CLI tool to fix huge number of ESLint errors.
 
 ## [17. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
-*   [PGMax (⭐63)](https://github.com/vicariousinc/PGMax) - A framework for building discrete Probabilistic Graphical Models (PGM's) and running inference inference on them via JAX. <img src="https://img.shields.io/github/stars/vicariousinc/pgmax?style=social" align="center">
+*   [PGMax (⭐64)](https://github.com/vicariousinc/PGMax) - A framework for building discrete Probabilistic Graphical Models (PGM's) and running inference inference on them via JAX. <img src="https://img.shields.io/github/stars/vicariousinc/pgmax?style=social" align="center">
 
 ### Tutorials and Blog Posts / NumPyro
 
-*   [Get started with JAX by Aleksa Gordić (⭐391)](https://github.com/gordicaleksa/get-started-with-JAX) - A series of notebooks and videos going from zero JAX knowledge to building neural networks in Haiku.
+*   [Get started with JAX by Aleksa Gordić (⭐472)](https://github.com/gordicaleksa/get-started-with-JAX) - A series of notebooks and videos going from zero JAX knowledge to building neural networks in Haiku.
 
 ## [18. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authentication and OAuth
 
 *   OAuth:
-    *   [Doorkeeper (⭐5.1k)](https://github.com/doorkeeper-gem/doorkeeper) - An OAuth2 provider for Rails.
+    *   [Doorkeeper (⭐5.2k)](https://github.com/doorkeeper-gem/doorkeeper) - An OAuth2 provider for Rails.
     *   [OAuth2 (⭐2.1k)](https://github.com/intridea/oauth2) - A Ruby wrapper for the OAuth 2.0 protocol.
     *   [Rodauth-Oauth](https://gitlab.com/honeyryderchuck/rodauth-oauth) - A rodauth OAuth and OpenID provider plugin.
 
@@ -216,21 +212,21 @@
 *   [Breadcrumbs on Rails (⭐930)](https://github.com/weppos/breadcrumbs_on_rails) - A simple Ruby on Rails plugin for creating and managing a breadcrumb navigation for a Rails project.
 *   [Gretel (⭐888)](https://github.com/lassebunk/gretel) - A Ruby on Rails plugin that makes it easy yet flexible to create breadcrumbs.
 *   [loaf (⭐403)](https://github.com/peter-murach/loaf) - Manages and displays breadcrumb trails in Rails app - lean & mean.
-*   [Simple Navigation (⭐882)](https://github.com/codeplant/simple-navigation) - A ruby gem for creating navigation (html list, link list or breadcrumbs with multiple levels) for your Rails 2, 3 & 4, Sinatra or Padrino.
+*   [Simple Navigation (⭐883)](https://github.com/codeplant/simple-navigation) - A ruby gem for creating navigation (html list, link list or breadcrumbs with multiple levels) for your Rails 2, 3 & 4, Sinatra or Padrino.
 
 ### Business logic
 
-*   [ActiveInteraction (⭐1.9k)](https://github.com/AaronLasseigne/active_interaction) - Manage application specific business logic.
-*   [Interactor (⭐3.2k)](https://github.com/collectiveidea/interactor) - Interactor provides a common interface for performing complex interactions in a single request.
-*   [Light Service (⭐788)](https://github.com/adomokos/light-service) - Series of Actions with an emphasis on simplicity.
+*   [ActiveInteraction (⭐2k)](https://github.com/AaronLasseigne/active_interaction) - Manage application specific business logic.
+*   [Interactor (⭐3.3k)](https://github.com/collectiveidea/interactor) - Interactor provides a common interface for performing complex interactions in a single request.
+*   [Light Service (⭐798)](https://github.com/adomokos/light-service) - Series of Actions with an emphasis on simplicity.
 *   [Mutations (⭐1.4k)](https://github.com/cypriss/mutations) - Compose your business logic into commands that sanitize and validate input.
-*   [Surrounded (⭐227)](https://github.com/saturnflyer/surrounded) - Encapsulated related objects in a single system to add behavior during runtime. Extensible implementation of DCI.
-*   [Waterfall (⭐612)](https://github.com/apneadiving/waterfall) - A slice of functional programming to chain ruby services and blocks, thus providing a new approach to flow control.
-*   [wisper (⭐3.1k)](https://github.com/krisleech/wisper) - A micro library providing Ruby objects with Publish-Subscribe capabilities.
+*   [Surrounded (⭐240)](https://github.com/saturnflyer/surrounded) - Encapsulated related objects in a single system to add behavior during runtime. Extensible implementation of DCI.
+*   [Waterfall (⭐609)](https://github.com/apneadiving/waterfall) - A slice of functional programming to chain ruby services and blocks, thus providing a new approach to flow control.
+*   [wisper (⭐3.2k)](https://github.com/krisleech/wisper) - A micro library providing Ruby objects with Publish-Subscribe capabilities.
 
 ### Core Extensions
 
-*   [Docile (⭐402)](https://github.com/ms-ati/docile) - A tiny library that lets you map a DSL (domain specific language) to your Ruby objects in a snap.
+*   [Docile (⭐404)](https://github.com/ms-ati/docile) - A tiny library that lets you map a DSL (domain specific language) to your Ruby objects in a snap.
 *   [dry-rb](https://github.com/dry-rb) - dry-rb is a collection of next-generation Ruby libraries, each intended to encapsulate a common task.
 *   [Trick Bag (⭐33)](https://github.com/keithrbennett/trick_bag) - Assorted Ruby classes and methods to simplify and enhance your code.
 
@@ -244,7 +240,7 @@
 *   [Awesome Ruby @LibHunt](https://ruby.libhunt.com) - Your go-to Ruby Toolbox. The Awesome Ruby collection + ordering by popularity, additional metadata and comparisons.
 *   [GitHub Trending](https://github.com/trending?l=ruby) - Find what repositories the GitHub community is most excited about today.
 *   [Open Source Rails](https://www.opensourcerails.org/) - A gallery of the best open source rack and Ruby on Rails web applications.
-*   [Ruby Bookmarks (⭐2.1k)](https://github.com/dreikanter/ruby-bookmarks) - Ruby and Ruby on Rails bookmarks collection.
+*   [Ruby Bookmarks (⭐2.2k)](https://github.com/dreikanter/ruby-bookmarks) - Ruby and Ruby on Rails bookmarks collection.
 *   [RubyDaily](http://rubydaily.org) - Community driven news.
 *   [RubyFlow](http://www.rubyflow.com) - Ruby Programming Community Link Blog.
 *   [Ruby Land](http://rubyland.news/) - A well maintained Ruby/Rails aggregator that contains news, opinions, tutorials, and more.
@@ -255,7 +251,7 @@
 
 ### Event Sourcing
 
-*   [Eventide Project](https://eventide-project.org) - Pub/sub, event sourcing, and evented autonomous services backed by the [Message DB (⭐1.5k)](https://github.com/message-db/message-db) message store.
+*   [Eventide Project](https://eventide-project.org) - Pub/sub, event sourcing, and evented autonomous services backed by the [Message DB (⭐1.6k)](https://github.com/message-db/message-db) message store.
 *   [Rails Event Store (RES) (⭐1.3k)](https://github.com/RailsEventStore/rails_event_store) - A library for publishing, consuming, storing and retrieving events. It's your best companion for going with an event-driven architecture for your Rails application.
 
 ### Image Processing
@@ -272,20 +268,20 @@
 *   [GitLab](https://about.gitlab.com) - Open source software to collaborate on code.
 *   [HoundCI](https://houndci.com) - Review your Ruby code for style guide violations.
 *   [Inch CI](https://inch-ci.org/) - Documentation badges for Ruby projects.
-*   [OctoLinker (⭐5.1k)](https://github.com/OctoLinker/browser-extension) - Navigate through projects on GitHub.com efficiently with the OctoLinker browser extension.
+*   [OctoLinker (⭐5.2k)](https://github.com/OctoLinker/browser-extension) - Navigate through projects on GitHub.com efficiently with the OctoLinker browser extension.
 *   [SemaphoreCI](https://semaphoreci.com) - Hosted continuous integration and deployment service for open source and private projects.
 *   [Sider](https://sider.review/) - Automated Code Review with GitHub PR. Monitoring Style Violations, Quality, Security, Dependencies.
 *   [Travis CI](https://travis-ci.com) - Test and Deploy Your Code with Confidence.
 
 ### View components
 
-*   [Cells (⭐3k)](https://github.com/trailblazer/cells) - View Components for Rails.
-*   [Komponent (⭐425)](https://github.com/komposable/komponent) - An opinionated way of organizing front-end code in Rails, based on components.
-*   [ViewComponent (⭐2.9k)](https://github.com/github/view_component) - View components for Rails.
+*   [Cells (⭐3.1k)](https://github.com/trailblazer/cells) - View Components for Rails.
+*   [Komponent (⭐424)](https://github.com/komposable/komponent) - An opinionated way of organizing front-end code in Rails, based on components.
+*   [ViewComponent (⭐3k)](https://github.com/github/view_component) - View components for Rails.
 
 ### View helpers
 
-*   [active\_link\_to (⭐828)](https://github.com/comfy/active_link_to) - View helper to manage "active" state of a link.
+*   [active\_link\_to (⭐827)](https://github.com/comfy/active_link_to) - View helper to manage "active" state of a link.
 
 ### Web Frameworks
 
@@ -299,7 +295,7 @@
 
 ### Cloud platform security / Kubernetes
 
-*   [Sealed Secrets (⭐6k)](https://github.com/bitnami-labs/sealed-secrets) - Kubernetes controller and tool for one-way encrypted Secrets.
+*   [Sealed Secrets (⭐6.4k)](https://github.com/bitnami-labs/sealed-secrets) - Kubernetes controller and tool for one-way encrypted Secrets.
 
 ## [20. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
@@ -324,7 +320,6 @@
 *   [Atallah & Blanton. Algorithms and Theory of Computation Handbook: Special Topics and Techniques](https://www.routledge.com/Algorithms-and-Theory-of-Computation-Handbook-Volume-2-Special-Topics/Atallah-Blanton/p/book/9780367384845) - A complete comprehensive encyclopediac handbook which surveys all related areas to theoretical computer science.
 *   [Handbook of Theoretical Computer Science. Volume A: Algorithms and Complexity](https://mitpress.mit.edu/books/handbook-theoretical-computer-science-volume) - A complete comprehensive encyclopediac handbook which surveys all related areas to theoretical computer science.
 *   [Handbook of Theoretical Computer Science. Volume B: Formal Methods and Semantics](https://mitpress.mit.edu/books/handbook-theoretical-computer-science-2-vol-set) - A complete comprehensive encyclopediac handbook which surveys all related areas to theoretical computer science.
-*   [Sipser. Introduciton to Theory of Computation](https://www.cengage.com/c/introduction-to-the-theory-of-computation-3e-sipser/9781133187790/) - A standard text for introducing theory of computation for undergrads.
 *   [Hopcroft, Motwani & Ullman. Introduction to Automata Theory, Languages, and Computation](https://www.pearson.com/us/higher-education/program/Hopcroft-Introduction-to-Automata-Theory-Languages-and-Computation-3rd-Edition/PGM64331.html) - Introductory undergrad textbook for automata, languages and theory of computation topics.
 *   [Barak. Introduction to TCS](https://introtcs.org/public/index.html) - A modern, brief, and accessible text which introduces theoretical computer science for undergrads. It includes topics not usually included in standard undergrad text-books.
 
@@ -512,7 +507,7 @@
 ### Popular Science Books / Monograph
 
 *   [Fortnow. The Golden Ticket: P, NP, and the Search for the Impossible](https://goldenticket.fortnow.com) - A nontechnical introduction to P-NP, its rich history, and its algorithmic implications for everything we do with computers and beyond.
-*   [Aaronson. Quantum Computing Since Democritus](https://assets.cambridge.org/97805211/99568/frontmatter/9780521199568_frontmatter.pdf) - It covers an amazing array of topics. Beginning in antiquity with Democritus, it progresses through logic and set theory,computability and complexity theory, quantum computing, cryptography, the information content of quantum states, and theinterpretation of quantum mechanics.
+*   [Aaronson. Quantum Computing Since Democritus](https://assets.cambridge.org/97805211/99568/frontmatter/9780521199568_frontmatter.pdf) - It covers an amazing array of topics. Beginning in antiquity with Democritus, it progresses through logic and set theory,computability and complexity theory, quantum computing, cryptography, the information content of quantum states, and the interpretation of quantum mechanics.
 *   [Deutsch. The Fabric of Reality: The Science of Parallel Universes and Its Implications](http://www.daviddeutsch.org.uk/books/the-fabric-of-reality/) - The Fabric of Reality presents a startlingly integrated, rational and optimistic world view – the result of taking seriously the deepest ideas of modern science and the philosophy of science.
 *   [Papadimitriou. Turing: A Novel About Computation](https://mitpress.mit.edu/books/turing-novel-about-computation) - The world of computation according to Turing, an interactive tutoring program, as told to star-crossed lovers: a novel.
 *   [Petzold. The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine](http://www.charlespetzold.com/AnnotatedTuring/) -  A Guided Tour through Alan Turing's Historic Paper on Computability and the Turing Machine.
@@ -528,9 +523,9 @@
 *   [PolyTCS](https://polytcs.wordpress.com/) - A project which promotes massive collaborations to solve theoretical computer science problems.
 *   [Complexity Network](https://sites.google.com/view/complexitynetwork/home) - Hosts collaboration between the three computational complexity groups at Imperial College London, University of Oxford and University of Warwick. It promotes smooth flow of ideas between the three groups and beyond.
 *   [List of TCS Conferences and Workshops](https://cstheory.blogoverflow.com/theoretical-computer-science-conferences-and-workshops/) - A list of conferences and workshops in theoretical computer science.
-*   [Algorithms (⭐14k)](https://github.com/tayllan/awesome-algorithms) - Awesome list for design and analysis of algorithms
-*   [Cryptography (⭐4.5k)](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
-*   [Quantum Computing (⭐2k)](https://github.com/desireevl/awesome-quantum-computing) - Awesome list for quantum computing
+*   [Algorithms (⭐15k)](https://github.com/tayllan/awesome-algorithms) - Awesome list for design and analysis of algorithms
+*   [Cryptography (⭐4.9k)](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
+*   [Quantum Computing (⭐2.2k)](https://github.com/desireevl/awesome-quantum-computing) - Awesome list for quantum computing
 
 ## [23. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
@@ -549,11 +544,11 @@
 
 ### Project Layout
 
-*   [pagoda (⭐795)](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit built in Go.
+*   [pagoda (⭐955)](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit built in Go.
 
 ### Template Engines
 
-*   [got (⭐8)](https://github.com/goradd/got) - A Go code generator inspired by Hero and Fasttemplate. Has include files, custom tag definitions, injected Go code, language translation, and more.
+*   [got (⭐15)](https://github.com/goradd/got) - A Go code generator inspired by Hero and Fasttemplate. Has include files, custom tag definitions, injected Go code, language translation, and more.
 
 ### Utilities
 
@@ -567,31 +562,31 @@
 
 ### Mobile Games / Android
 
-*   [Pimple Popper (⭐27)](https://github.com/Crazy-Marvin/PimplePopper) - Game to pop pimples using the awesome Godot Engine.
+*   [Pimple Popper (⭐26)](https://github.com/Crazy-Marvin/PimplePopper) - Game to pop pimples using the awesome Godot Engine.
 
 ## [27. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Status Bar
 
-*   [tmux-clima (⭐3)](https://github.com/vascomfnunes/tmux-clima) Displays the current temperature and weather condition using the OpenWeather API.
-*   [tmux-cpu (⭐344)](https://github.com/tmux-plugins/tmux-cpu) Show CPU load with easy icons
-*   [tmux-df (⭐21)](https://github.com/tassaron/tmux-df) - Show available disk space (output of df command)
-*   [tmux-kripto (⭐1)](https://github.com/vascomfnunes/tmux-kripto) Add a cryptocurrency stock price to the statusbar.
+*   [tmux-clima (⭐4)](https://github.com/vascomfnunes/tmux-clima) Displays the current temperature and weather condition using the OpenWeather API.
+*   [tmux-cpu (⭐361)](https://github.com/tmux-plugins/tmux-cpu) Show CPU load with easy icons
+*   [tmux-df (⭐24)](https://github.com/tassaron/tmux-df) - Show available disk space (output of df command)
+*   [tmux-kripto (⭐2)](https://github.com/vascomfnunes/tmux-kripto) Add a cryptocurrency stock price to the statusbar.
 
 ### Plugins
 
-*   [tmux-modal (⭐122)](https://github.com/whame/tmux-modal) - Execute complex tmux commands in just a few keystrokes with a modal mode that is designed to be efficient, easy to remember and comfortable.
+*   [tmux-modal (⭐134)](https://github.com/whame/tmux-modal) - Execute complex tmux commands in just a few keystrokes with a modal mode that is designed to be efficient, easy to remember and comfortable.
 
 ## [28. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Neovim Lua Development / Diagnostics
 
-*   [nanotee/luv-vimdocs (⭐68)](https://github.com/nanotee/luv-vimdocs) - The luv docs in vimdoc format.
-*   [milisims/nvim-luaref (⭐116)](https://github.com/milisims/nvim-luaref) - A reference for builtin Lua functions.
+*   [nanotee/luv-vimdocs (⭐69)](https://github.com/nanotee/luv-vimdocs) - The luv docs in vimdoc format.
+*   [milisims/nvim-luaref (⭐117)](https://github.com/milisims/nvim-luaref) - A reference for builtin Lua functions.
 
 ### Formatting / Diagnostics
 
-*   [gpanders/editorconfig.nvim (⭐308)](https://github.com/gpanders/editorconfig.nvim) - An EditorConfig plugin written in Fennel.
+*   [gpanders/editorconfig.nvim (⭐312)](https://github.com/gpanders/editorconfig.nvim) - An EditorConfig plugin written in Fennel.
 
 ## [29. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -603,13 +598,13 @@
 
 ### Samples
 
-*   [Hello triangle, (⭐42)](https://github.com/maierfelix/VK_KHR_ray_tracing) based on Vulkan Ray Tracing extensions. \[MIT]
+*   [Hello triangle, (⭐41)](https://github.com/maierfelix/VK_KHR_ray_tracing) based on Vulkan Ray Tracing extensions. \[MIT]
 
 ## [31. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Templates / Godot 3.2+
 
-*   [Godot First Person Camera (⭐43)](https://github.com/tavurth/godot-simple-fps-camera) - A simple FPS starter with jumping, movement, flashlight and a player character with animations.
+*   [Godot First Person Camera (⭐45)](https://github.com/tavurth/godot-simple-fps-camera) - A simple FPS starter with jumping, movement, flashlight and a player character with animations.
 
 ## [32. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -617,7 +612,7 @@
 
 *   [Microsoft Azure](https://azure.microsoft.com)
     *   [Virtual Machines](https://azure.microsoft.com/services/virtual-machines/) - 1 B1S Linux VM, 1 B1S Windows VM (12mo)
-    *   [App Service](https://azure.microsoft.com/services/app-service/) - 10 web, mobile or API apps (60 CPU minutes / day)
+    *   [App Service](https://azure.microsoft.com/services/app-service/) - 10 web, mobile, or API apps (60 CPU minutes/day)
     *   [Functions](https://azure.microsoft.com/services/functions/) - 1 million requests per month
     *   [DevTest Labs](https://azure.microsoft.com/services/devtest-lab/) - Enable fast, easy, and lean dev-test environments
     *   [Active Directory](https://azure.microsoft.com/services/active-directory/) - 500,000 objects
@@ -625,13 +620,13 @@
     *   [Azure DevOps](https://azure.microsoft.com/services/devops/) - 5 active users, unlimited private Git repos
     *   [Azure Pipelines](https://azure.microsoft.com/services/devops/pipelines/) — 10 free parallel jobs with unlimited minutes for open source for Linux, macOS, and Windows
     *   [Microsoft IoT Hub](https://azure.microsoft.com/services/iot-hub/) - 8,000 messages per day
-    *   [Load Balancer](https://azure.microsoft.com/services/load-balancer/) - 1 free public load balanced IP (VIP)
+    *   [Load Balancer](https://azure.microsoft.com/services/load-balancer/) - 1 free public load-balanced IP (VIP)
     *   [Notification Hubs](https://azure.microsoft.com/services/notification-hubs/) - 1 million push notifications
     *   [Bandwidth](https://azure.microsoft.com/pricing/details/bandwidth/) - 15GB Inbound(12mo) & 5GB egress per month
     *   [Cosmos DB](https://azure.microsoft.com/services/cosmos-db/) - 5GB storage and 400 RUs of provisioned throughput
-    *   [Static Web Apps](https://azure.microsoft.com/pricing/details/app-service/static/) — Build, deploy and host static apps and serverless functions, with free SSL, Authentication/Authorization and custom domains
+    *   [Static Web Apps](https://azure.microsoft.com/pricing/details/app-service/static/) — Build, deploy, and host static apps and serverless functions with free SSL, Authentication/Authorization, and custom domains
     *   [Storage](https://azure.microsoft.com/services/storage/) - 5GB LRS File or Blob storage (12mo)
-    *   [Cognitive Services](https://azure.microsoft.com/services/cognitive-services/) - AI/ML APIs (Computer Vision, Translator, Face detection, Bots...) with free tier including limited transactions
+    *   [Cognitive Services](https://azure.microsoft.com/services/cognitive-services/) - AI/ML APIs (Computer Vision, Translator, Face detection, Bots, etc) with free tier including limited transactions
     *   [Cognitive Search](https://azure.microsoft.com/services/search/#features) - AI-based search and indexation service, free for 10,000 documents
     *   [Azure Kubernetes Service](https://azure.microsoft.com/services/kubernetes-service/) - Managed Kubernetes service, free cluster management
     *   [Event Grid](https://azure.microsoft.com/services/event-grid/) - 100K ops/month
@@ -639,7 +634,7 @@
 
 ### CI and CD
 
-*   [Spacelift](https://spacelift.io/) - Management platform for Infrastructure as Code. Free plan features: IaC collaboration, Terraform module registry, ChatOps integration, Continuous resource compliance with Open Policy Agent, SSO with SAML 2.0 and access to public worker pools: up to 200 minutes/month
+*   [Spacelift](https://spacelift.io/) - Management platform for Infrastructure as Code. Free plan features: IaC collaboration, Terraform module registry, ChatOps integration, Continuous resource compliance with Open Policy Agent, SSO with SAML 2.0, and access to public worker pools: up to 200 minutes/month
 
 ## [33. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
@@ -649,15 +644,14 @@
 
 ### Extensions / Community
 
-*   [Search Sync (⭐92)](https://github.com/dimitrov-adrian/directus-extension-searchsync) - Sync data into a search engine index, supports Algolia, ElasticSearch & MeiliSearch.
-*   [Dictionary (⭐26)](https://github.com/georgexchelebiev/directus-dictionary) - Save key-value pairs as JSON blobs with a progress indicator for completeness.
-*   [WordPress-like Slug (⭐66)](https://github.com/dimitrov-adrian/directus-extension-wpslug-interface) - Slug/Permalink interface with support for pre- and suffixes.
-*   [Link Meta (⭐21)](https://github.com/dimitrov-adrian/directus-extension-linkmeta) - Stores hyperlink metadata into Directus.
-*   [Group Modal (⭐41)](https://github.com/dimitrov-adrian/directus-extension-group-modal-interface) - Group interface fields into a modal that can be opened with a button.
-*   [Display Link (⭐44)](https://github.com/jacoborus/directus-extension-display-link) - Display URLs with an "open in new tab" button.
-*   [SQL Panel (⭐17)](https://github.com/harish2704/directus-sql-panel) - Panel component which shows result of stored SQL query as a table.
-*   [Websocket Subscribe (⭐92)](https://github.com/br41nslug/directus-websocket-subscribe) - An extension to subscribe to Directus updates over a websocket.
-*   [SVG Map Picker Interface (⭐23)](https://github.com/dimitrov-adrian/directus-extension-svgmap-picker-interface) - Select a value from a SVG Map box.
+*   [Search Sync (⭐105)](https://github.com/dimitrov-adrian/directus-extension-searchsync) - Sync data into a search engine index, supports Algolia, ElasticSearch & MeiliSearch.
+*   [Dictionary (⭐33)](https://github.com/georgexchelebiev/directus-dictionary) - Save key-value pairs as JSON blobs with a progress indicator for completeness.
+*   [WordPress-like Slug (⭐77)](https://github.com/dimitrov-adrian/directus-extension-wpslug-interface) - Slug/Permalink interface with support for pre- and suffixes.
+*   [Link Meta (⭐24)](https://github.com/dimitrov-adrian/directus-extension-linkmeta) - Stores hyperlink metadata into Directus.
+*   [Group Modal (⭐49)](https://github.com/dimitrov-adrian/directus-extension-group-modal-interface) - Group interface fields into a modal that can be opened with a button.
+*   [Display Link (⭐53)](https://github.com/jacoborus/directus-extension-display-link) - Display URLs with an "open in new tab" button.
+*   [SQL Panel (⭐19)](https://github.com/harish2704/directus-sql-panel) - Panel component which shows result of stored SQL query as a table.
+*   [SVG Map Picker Interface (⭐30)](https://github.com/dimitrov-adrian/directus-extension-svgmap-picker-interface) - Select a value from a SVG Map box.
 
 ## [34. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -719,31 +713,31 @@
 
 ### Internationalisation / Checkbox
 
-*   [svelte-fluent (⭐60)](https://github.com/nubolab-ffwd/svelte-fluent) - Components for easy integration of [Fluent](https://projectfluent.org/) localization.
-*   [svelte-i18n (⭐935)](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte.
-*   [sveltekit-i18n (⭐226)](https://github.com/jarda-svoboda/sveltekit-i18n) - For integrating [i18n](https://www.npmjs.com/package/i18n) style localization in SvelteKit.
+*   [svelte-fluent (⭐69)](https://github.com/nubolab-ffwd/svelte-fluent) - Components for easy integration of [Fluent](https://projectfluent.org/) localization.
+*   [svelte-i18n (⭐1.1k)](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte.
+*   [sveltekit-i18n (⭐330)](https://github.com/jarda-svoboda/sveltekit-i18n) - For integrating [i18n](https://www.npmjs.com/package/i18n) style localization in SvelteKit.
 
 ## [36. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Tools
 
-*   [ndm (⭐31)](https://github.com/gitbls/ndm) - Command line tool to easily manage DNS and DHCP servers.
-*   [pistrong (⭐39)](https://github.com/gitbls/pistrong) - Manage certificate-secured strongSwan VPNs. Installer and command-line tool for client-server, site-to-site, and host-to-host VPNs.
-*   [sdm (⭐147)](https://github.com/gitbls/sdm) - Easily and fully customize RasPiOS images. Install apps, configure settings, etc then burn SSDs/SD cards for lots of different systems from a single image, and each one boots up fully configured and ready for work. Or play.
+*   [ndm (⭐41)](https://github.com/gitbls/ndm) - Command line tool to easily manage DNS and DHCP servers.
+*   [pistrong (⭐43)](https://github.com/gitbls/pistrong) - Manage certificate-secured strongSwan VPNs. Installer and command-line tool for client-server, site-to-site, and host-to-host VPNs.
+*   [sdm (⭐200)](https://github.com/gitbls/sdm) - Easily and fully customize RasPiOS images. Install apps, configure settings, etc then burn SSDs/SD cards for lots of different systems from a single image, and each one boots up fully configured and ready for work. Or play.
 
 ## [37. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### CMS
 
-*   [Squidex (⭐1.9k)](https://github.com/Squidex/squidex) ![GitHub stars](https://img.shields.io/github/stars/Squidex/squidex?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/Squidex/squidex?style=flat-square\&cacheSeconds=86400) - Open source headless CMS and content management hub.  <https://squidex.io>
+*   [Squidex (⭐2k)](https://github.com/Squidex/squidex) ![GitHub stars](https://img.shields.io/github/stars/Squidex/squidex?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/Squidex/squidex?style=flat-square\&cacheSeconds=86400) - Open source headless CMS and content management hub.  <https://squidex.io>
 
 ### Regular Expression
 
-*   [RegExtract (⭐678)](https://github.com/sblom/RegExtract) - Clean & simple idiomatic C# RegEx-based line parser that emits strongly typed results.
+*   [RegExtract (⭐690)](https://github.com/sblom/RegExtract) - Clean & simple idiomatic C# RegEx-based line parser that emits strongly typed results.
 
 ### Tools
 
-*   [UnitsNet (⭐1.9k)](https://github.com/angularsen/UnitsNet) - Makes life working with units of measurement just a little bit better.
+*   [UnitsNet (⭐2k)](https://github.com/angularsen/UnitsNet) - Makes life working with units of measurement just a little bit better.
 
 ## [38. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
@@ -753,27 +747,27 @@
 
 ### Templates / React
 
-*   [vite-react-tailwind-v3 (⭐12)](https://github.com/huibizhang/template-vite-react-tailwind-v3) - Starter template for React + TailwindCSS and `prettier-plugin-tailwindcss` build-in.
+*   [vite-react-tailwind-v3 (⭐14)](https://github.com/huibizhang/template-vite-react-tailwind-v3) - Starter template for React + TailwindCSS and `prettier-plugin-tailwindcss` build-in.
 
 ### Templates / Others
 
-*   [P5.js Starter Template (⭐29)](https://github.com/makinteract/p5js-vite) - Templates for creating P5.js sketches.
+*   [P5.js Starter Template (⭐32)](https://github.com/makinteract/p5js-vite) - Templates for creating P5.js sketches.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-compression-plugin (⭐46)](https://github.com/XeryYue/vite-compression-plugin) - Use Node.js stream compress file to gzip or more.
+*   [vite-compression-plugin (⭐63)](https://github.com/XeryYue/vite-compression-plugin) - Use Node.js stream compress file to gzip or more.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-pug-transformer (⭐21)](https://github.com/TheSeally/vite-plugin-pug-transformer) - Pug template engine support.
+*   [vite-plugin-pug-transformer (⭐26)](https://github.com/TheSeally/vite-plugin-pug-transformer) - Pug template engine support.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-dynamic-base (⭐45)](https://github.com/chenxch/vite-plugin-dynamic-base) - Resolve all resource files dynamic publicPath.
+*   [vite-plugin-dynamic-base (⭐55)](https://github.com/chenxch/vite-plugin-dynamic-base) - Resolve all resource files dynamic publicPath.
 
 ### CakePHP / Community
 
-*   [cakephp-vite (⭐12)](https://github.com/passchn/cakephp-vite) - Integration for CakePHP.
+*   [cakephp-vite (⭐14)](https://github.com/passchn/cakephp-vite) - Integration for CakePHP.
 
 ## [39. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
@@ -789,10 +783,10 @@
 
 ### UI
 
-*   [Helium (⭐83)](https://github.com/qeffects/helium) - A modern, customizable, high performance retained UI framework.
+*   [Helium (⭐86)](https://github.com/qeffects/helium) - A modern, customizable, high performance retained UI framework.
 *   [ListBox (⭐14)](https://github.com/darkmetalic/ListBox) - A dynamic ListBox for LÖVE that supports touch, mouse, and keyboard inputs.
 *   [Lynx](https://gitlab.com/TSnake41/lynx) - Very-lightweight list-based UI library.
-*   [Plan (⭐16)](https://github.com/zombrodo/plan) - A super simple Rule-based layout library.
+*   [Plan (⭐17)](https://github.com/zombrodo/plan) - A super simple Rule-based layout library.
 
 ## [41. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
@@ -802,7 +796,7 @@
 
 ## [42. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [Want To Build An Incredible Product? Strive For The Delta Of “Wow”](https://medium.com/@waynechang/want-to-build-an-incredible-product-strive-for-the-delta-of-wow-f184b716af18) - By [Wayne Chang](https://chang.com/).
 
@@ -816,7 +810,7 @@
 
 ### Python / React
 
-*   [turms (⭐40)](https://github.com/jhnnsrs/turms) - A pythonic graphql codegenerator built around graphql-core and pydantic
+*   [turms (⭐46)](https://github.com/jhnnsrs/turms) - A pythonic graphql codegenerator built around graphql-core and pydantic
 *   [rath (⭐8)](https://github.com/jhnnsrs/rath) - An apollo like graphql client with async and sync interface
 
 ## [45. Awesome D](/content/dlang-community/awesome-d/week/README.md)
@@ -860,13 +854,13 @@
 
 ### Modules / Webview
 
-*   [Astrodon (⭐899)](https://github.com/astrodon/astrodon) - Modular framework for building native multi-platform apps with Deno and webview.
+*   [Astrodon (⭐923)](https://github.com/astrodon/astrodon) - Modular framework for building native multi-platform apps with Deno and webview.
 
 ## [48. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / General
 
-*   [django-data-browser (⭐210)](https://github.com/tolomea/django-data-browser) - Interactive, user-friendly database explorer.
+*   [django-data-browser (⭐257)](https://github.com/tolomea/django-data-browser) - Interactive, user-friendly database explorer.
 
 ### Resources / Books
 
@@ -876,13 +870,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [swiper (⭐35k)](https://github.com/nolimits4web/swiper) - Official Swiper component for Vue 3. Tree shakable, SSR support, typing, a11y and a lot more
-*   [vue3-side-panel (⭐27)](https://github.com/headmandev/vue3-side-panel) - 🔥 Easy to use and flexible modal sidebar component for Vue3.
-*   [vue-search-input (⭐20)](https://github.com/kouts/vue-search-input) - A Vue 3 search input component, inspired by the global search input of Storybook and GitHub.
+*   [swiper (⭐37k)](https://github.com/nolimits4web/swiper) - Official Swiper component for Vue 3. Tree shakable, SSR support, typing, a11y and a lot more
+*   [vue3-side-panel (⭐33)](https://github.com/headmandev/vue3-side-panel) - 🔥 Easy to use and flexible modal sidebar component for Vue3.
+*   [vue-search-input (⭐23)](https://github.com/kouts/vue-search-input) - A Vue 3 search input component, inspired by the global search input of Storybook and GitHub.
 
 ### Components & Libraries / Utilities
 
-*   [vue-next-i18n (⭐13)](https://github.com/Aaronlamz/vue-next-i18n) - A lightweight internationalization plugin for Vue 3.
+*   [vue-next-i18n (⭐17)](https://github.com/Aaronlamz/vue-next-i18n) - A lightweight internationalization plugin for Vue 3.
 
 ### Components & Libraries / Scaffold
 
@@ -955,34 +949,34 @@
 ### Applications / Emulators
 
 *   ZX Spectrum
-    *   [rustzx/rustzx (⭐175)](https://github.com/rustzx/rustzx) — [![RustZX CI](https://github.com/rustzx/rustzx/actions/workflows/ci.yml/badge.svg)](https://github.com/rustzx/rustzx/actions/workflows/ci.yml)
+    *   [rustzx/rustzx (⭐184)](https://github.com/rustzx/rustzx) — [![RustZX CI](https://github.com/rustzx/rustzx/actions/workflows/ci.yml/badge.svg)](https://github.com/rustzx/rustzx/actions/workflows/ci.yml)
 
 ### Development tools / Web Servers
 
-*   [create-rust-app (⭐1.2k)](https://github.com/Wulf/create-rust-app) — Set up a modern rust+react web app by running one command. [![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/create-rust-app)
+*   [create-rust-app (⭐1.3k)](https://github.com/Wulf/create-rust-app) — Set up a modern rust+react web app by running one command. [![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/create-rust-app)
 
 ### Libraries / Authentication
 
-*   [constantoine/totp-rs (⭐76)](https://github.com/constantoine/totp-rs) \[[totp-rs](https://crates.io/crates/totp-rs)] — 2fa library to generate and verify TOTP-based tokens ![Build Status](https://github.com/constantoine/totp-rs/workflows/Rust/badge.svg)
+*   [constantoine/totp-rs (⭐106)](https://github.com/constantoine/totp-rs) \[[totp-rs](https://crates.io/crates/totp-rs)] — 2fa library to generate and verify TOTP-based tokens ![Build Status](https://github.com/constantoine/totp-rs/workflows/Rust/badge.svg)
 
 ### Libraries / GUI
 
-*   [DioxusLabs/dioxus (⭐9.2k)](https://github.com/dioxuslabs/dioxus) - a portable, performant, and ergonomic framework for building cross-platform user interfaces in Rust. ![rust ci](https://github.com/dioxuslabs/dioxus/actions/workflows/main.yml/badge.svg)
+*   [DioxusLabs/dioxus (⭐14k)](https://github.com/dioxuslabs/dioxus) - a portable, performant, and ergonomic framework for building cross-platform user interfaces in Rust. ![rust ci](https://github.com/dioxuslabs/dioxus/actions/workflows/main.yml/badge.svg)
 
 ### Libraries / Network programming
 
 *   Bluetooth
-    *   [bluez/bluer (⭐166)](https://github.com/bluez/bluer) \[[bluer](https://crates.io/crates/bluer)] — Official BlueZ bindings for Rust. [![build badge](https://github.com/bluez/bluer/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/bluez/bluer/actions/workflows/rust.yml)
+    *   [bluez/bluer (⭐196)](https://github.com/bluez/bluer) \[[bluer](https://crates.io/crates/bluer)] — Official BlueZ bindings for Rust. [![build badge](https://github.com/bluez/bluer/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/bluez/bluer/actions/workflows/rust.yml)
 
 ## [53. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Data Pipeline
 
-*   [Apache RocketMQ (⭐19k)](https://github.com/apache/rocketmq) \[Java] - distributed messaging and streaming platform with low latency, high performance and reliability, trillion-level capacity and flexible scalability.
+*   [Apache RocketMQ (⭐20k)](https://github.com/apache/rocketmq) \[Java] - distributed messaging and streaming platform with low latency, high performance and reliability, trillion-level capacity and flexible scalability.
 
 ### Table of Contents / Toolkit
 
-*   [Nussknacker (⭐419)](https://github.com/TouK/nussknacker) \[Scala] - A visual tool to define and run real-time decision algorithms.
+*   [Nussknacker (⭐494)](https://github.com/TouK/nussknacker) \[Scala] - A visual tool to define and run real-time decision algorithms.
 
 ## [54. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -1398,7 +1392,7 @@
   CORS: Unknown
 
 
-- API: [SLF (⭐2)](https://github.com/slftool/slftool.github.io/blob/master/API.md)
+- API: [SLF (⭐5)](https://github.com/slftool/slftool.github.io/blob/master/API.md)
 
   Description: German city, country, river, database
 
@@ -1774,7 +1768,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [ripgrep (rg) (⭐38k)](https://github.com/BurntSushi/ripgrep) - Very fast text searching tool similar to (but faster than) ack, ag or grep ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [ripgrep (rg) (⭐41k)](https://github.com/BurntSushi/ripgrep) - Very fast text searching tool similar to (but faster than) ack, ag or grep ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Screencapturing Software
 
@@ -1794,11 +1788,11 @@
 
 *   [A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs](https://www.cs.jhu.edu/~ayuille/JHUcourses/ProbabilisticModelsOfVisualCognition2020/Lec22/GeorgeCAPCHAS.pdf) - ***Science***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=1478382321633671444\&hl=en\&as_sdt=0,5)].
 
-### Theory of Mind / Democratization
+### Theory of Mind / Democratization of Science
 
 *   [PHASE: PHysically-grounded Abstract Social Events for Machine Social Perception](https://ojs.aaai.org/index.php/AAAI/article/view/16167) - ***AAAI'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=15536873427310696150\&hl=en\&as_sdt=0,5)]. \[[Project](https://tshu.io/PHASE/)].
 
-### Causality / Democratization
+### Causality / Democratization of Science
 
 *   [Eye-tracking causality](http://cocolab.stanford.edu/papers/GerstenbergEtAl17_PsychScience.pdf) - ***Psychological Science***, 2017. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=17518200401109470519)].
 

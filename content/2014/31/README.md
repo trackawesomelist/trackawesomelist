@@ -10,40 +10,40 @@
 
 ### HTTP
 
-*   [Groovy-wslite (⭐394)](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy
+*   [Groovy-wslite (⭐397)](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy
 
 ### Transpilers
 
-*   [Grooscript (⭐219)](https://github.com/chiquitinxx/grooscript) - Converts your Groovy code to Javascript
+*   [Grooscript (⭐220)](https://github.com/chiquitinxx/grooscript) - Converts your Groovy code to Javascript
 
 ### Static Web
 
-*   [Grain (⭐151)](https://github.com/sysgears/grain) - Static Web Site Building Framework For Groovy
-*   [Gaiden (⭐162)](https://github.com/kobo/gaiden) - Gaiden is a tool that makes it easy to create documentation with Markdown.
+*   [Grain (⭐154)](https://github.com/sysgears/grain) - Static Web Site Building Framework For Groovy
+*   [Gaiden (⭐166)](https://github.com/kobo/gaiden) - Gaiden is a tool that makes it easy to create documentation with Markdown.
 
 ### Language Utilities
 
 *   [Functionalgroovy (⭐67)](https://github.com/mperry/functionalgroovy) - Functional programming in Groovy
-*   [Groovy-stream (⭐67)](https://github.com/timyates/groovy-stream) - A collection of classes to give a fluent builder for Streams (Lazy Groovy Generators)
+*   [Groovy-stream (⭐66)](https://github.com/timyates/groovy-stream) - A collection of classes to give a fluent builder for Streams (Lazy Groovy Generators)
 *   [Flipside (⭐21)](https://github.com/johnnywey/flipside) - Simple Groovy options library
 
 ## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Clojure / Data Analysis
 
-*   [PigPen (⭐547)](https://github.com/Netflix/PigPen) - Map-Reduce for Clojure.
+*   [PigPen (⭐551)](https://github.com/Netflix/PigPen) - Map-Reduce for Clojure.
 
 ### Python / Data Analysis / Data Visualization
 
 *   [Petrel (⭐246)](https://github.com/AirSage/Petrel) - Tools for writing, submitting, debugging, and monitoring Storm topologies in pure Python.
-*   [emcee (⭐1.3k)](https://github.com/dfm/emcee) - The Python ensemble sampling toolkit for affine-invariant MCMC.
+*   [emcee (⭐1.4k)](https://github.com/dfm/emcee) - The Python ensemble sampling toolkit for affine-invariant MCMC.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
 *   [Allen Downey’s Data Science Course (⭐41)](https://github.com/AllenDowney/DataScience) - Code for Data Science at Olin College, Spring 2014.
 *   [Allen Downey’s Think Bayes Code (⭐1.6k)](https://github.com/AllenDowney/ThinkBayes) - Code repository for Think Bayes.
 *   [Allen Downey’s Think Complexity Code (⭐96)](https://github.com/AllenDowney/ThinkComplexity) - Code for Allen Downey's book Think Complexity.
-*   [Allen Downey’s Think OS Code (⭐516)](https://github.com/AllenDowney/ThinkOS) - Text and supporting code for Think OS: A Brief Introduction to Operating Systems.
+*   [Allen Downey’s Think OS Code (⭐524)](https://github.com/AllenDowney/ThinkOS) - Text and supporting code for Think OS: A Brief Introduction to Operating Systems.
 
 ## [3. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
 
@@ -207,7 +207,7 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 
 ### CakePHP Internals Reading
 
-*   [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) - Give 'em a hand.
+*   [Top 10 (and more) core contributors (⭐8.7k)](https://github.com/cakephp/cakephp/graphs/contributors) - Give 'em a hand.
 
 ## [12. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -308,7 +308,7 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 
 ### Static Code Analysis
 
-*   [Cppcheck](http://cppcheck.sourceforge.net/) - A tool for static C/C++ code analysis. - [source (⭐4.8k)](https://github.com/danmar/cppcheck)
+*   [Cppcheck](http://cppcheck.sourceforge.net/) - A tool for static C/C++ code analysis. - [source (⭐5.1k)](https://github.com/danmar/cppcheck)
 *   [OCLint](http://oclint.org/) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C. - [source (⭐3.7k)](https://github.com/oclint/oclint)
 
 ### Websites
@@ -353,13 +353,13 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 
 ### Voice Command / Runner
 
-*   [annyang (⭐6.4k)](https://github.com/TalAter/annyang) - A JavaScript library for adding voice commands to your site, using speech recognition.
-*   [voix.js (⭐550)](https://github.com/pazguille/voix) - A JavaScript library to add voice commands to your sites, apps or games.
+*   [annyang (⭐6.5k)](https://github.com/TalAter/annyang) - A JavaScript library for adding voice commands to your site, using speech recognition.
+*   [voix.js (⭐551)](https://github.com/pazguille/voix) - A JavaScript library to add voice commands to your sites, apps or games.
 
 ### API / Runner
 
-*   [bottleneck (⭐1.5k)](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
-*   [oauth-signature-js (⭐229)](https://github.com/bettiolo/oauth-signature-js) - JavaScript OAuth 1.0a signature generator for node and the browser.
+*   [bottleneck (⭐1.6k)](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
+*   [oauth-signature-js (⭐231)](https://github.com/bettiolo/oauth-signature-js) - JavaScript OAuth 1.0a signature generator for node and the browser.
 
 ## [21. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -369,7 +369,7 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 
 ### Distributed Programming
 
-*   [AddThis Hydra (⭐439)](https://github.com/addthis/hydra) - distributed data processing and storage system originally developed at AddThis.
+*   [AddThis Hydra (⭐438)](https://github.com/addthis/hydra) - distributed data processing and storage system originally developed at AddThis.
 *   [Apache DataFu](http://incubator.apache.org/projects/datafu.html) - collection of user-defined functions for Hadoop and Pig developed by LinkedIn.
 *   [DataTorrent StrAM](https://www.datatorrent.com/) - real-time engine is designed to enable distributed, asynchronous, real time in-memory big-data computations in as unblocked a way as possible, with minimal overhead and impact on performance.
 
@@ -389,7 +389,7 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 ### NewSQL Databases
 
 *   [Actian Ingres](http://www.actian.com/products/operational-databases/) - commercially supported, open-source SQL relational database management system.
-*   [Cockroach (⭐26k)](https://github.com/cockroachdb/cockroach) - Scalable, Geo-Replicated, Transactional Datastore.
+*   [Cockroach (⭐27k)](https://github.com/cockroachdb/cockroach) - Scalable, Geo-Replicated, Transactional Datastore.
 *   [Datomic](http://www.datomic.com/) - distributed database designed to enable scalable, flexible and intelligent applications.
 *   [FoundationDB](https://foundationdb.com/) - distributed database, inspired by F1.
 *   [Oracle TimesTen in-Memory Database](http://www.oracle.com/technetwork/database/database-technologies/timesten/overview/index.html) - in-memory, relational database management system with persistence and recoverability.
@@ -406,11 +406,11 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 ### Data Ingestion
 
 *   [Heka (⭐3.4k)](https://github.com/mozilla-services/heka) - open source stream processing software system.
-*   [LinkedIn White Elephant (⭐191)](https://github.com/linkedin/white-elephant) - log aggregator and dashboard.
+*   [LinkedIn White Elephant (⭐190)](https://github.com/linkedin/white-elephant) - log aggregator and dashboard.
 
 ### Service Programming
 
-*   [Spotify Luigi (⭐16k)](https://github.com/spotify/luigi) - a Python package for building complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.
+*   [Spotify Luigi (⭐17k)](https://github.com/spotify/luigi) - a Python package for building complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.
 
 ### Scheduling
 
@@ -442,7 +442,7 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 *   [HadoopDB](http://db.cs.yale.edu/hadoopdb/hadoopdb.html) - hybrid of MapReduce and DBMS.
 *   [IBM Netezza](http://www-01.ibm.com/software/data/netezza/) - high-performance data warehouse appliances.
 *   [Postgres-XL](http://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster.
-*   [RecDB](http://www-users.cs.umn.edu/\~sarwat/RecDB/) - Open Source Recommendation Engine Built Entirely Inside PostgreSQL.
+*   [RecDB](http://www-users.cs.umn.edu/~sarwat/RecDB/) - Open Source Recommendation Engine Built Entirely Inside PostgreSQL.
 *   [Stado](http://www.stormdb.com/community/stado) - open source MPP database system solely targeted at data warehousing and data mart applications.
 
 ### Memcached forks and evolutions
@@ -456,7 +456,7 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 ### Data Visualization
 
 *   [Cytoscape](http://cytoscape.github.io/) - JavaScript library for visualizing complex networks.
-*   [Freeboard (⭐6.3k)](https://github.com/Freeboard/freeboard) - pen source real-time dashboard builder for IOT and other web mashups.
+*   [Freeboard (⭐6.4k)](https://github.com/Freeboard/freeboard) - pen source real-time dashboard builder for IOT and other web mashups.
 *   [Google Charts](https://developers.google.com/chart/) - simple charting API.
 *   [Peity (⭐4.2k)](https://github.com/benpickles/peity) - Progressive SVG bar, line and pie charts.
 
@@ -473,11 +473,11 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 
 ### Packages / Math
 
-*   [mathjs (⭐13k)](https://github.com/josdejong/mathjs) - An extensive math library.
+*   [mathjs (⭐14k)](https://github.com/josdejong/mathjs) - An extensive math library.
 
 ### Packages / Compression
 
-*   [tar-stream (⭐372)](https://github.com/mafintosh/tar-stream) - Streaming tar parser and generator. Also see [tar-fs (⭐338)](https://github.com/mafintosh/tar-fs).
+*   [tar-stream (⭐384)](https://github.com/mafintosh/tar-stream) - Streaming tar parser and generator. Also see [tar-fs (⭐340)](https://github.com/mafintosh/tar-fs).
 
 ## [23. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
@@ -499,7 +499,7 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 
 ### Tutorials
 
-*   [D Template Tutorial (⭐217)](https://github.com/PhilippeSigaud/D-templates-tutorial) - A tutorial dedicated to D Templates. Very good explanation about templates. Has pdf version. by Philippe Sigaud.
+*   [D Template Tutorial (⭐221)](https://github.com/PhilippeSigaud/D-templates-tutorial) - A tutorial dedicated to D Templates. Very good explanation about templates. Has pdf version. by Philippe Sigaud.
 
 ### Blogs / Bare metal / kernel development
 

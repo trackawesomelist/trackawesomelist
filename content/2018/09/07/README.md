@@ -10,7 +10,7 @@
 
 ### Tools and session management
 
-*   [tmuxpair (⭐42)](https://github.com/goerz/tmuxpair) Command line script for setting up a temporary tmux session for pair programming
+*   [tmuxpair (⭐43)](https://github.com/goerz/tmuxpair) Command line script for setting up a temporary tmux session for pair programming
 
 ## [2. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -34,7 +34,7 @@
 
 ### UI
 
-*   [XamEffects ★53 (⭐252)](https://github.com/mrxten/XamEffects) - Touch effect for Xamarin.Forms.
+*   [XamEffects ★53 (⭐251)](https://github.com/mrxten/XamEffects) - Touch effect for Xamarin.Forms.
 
 ## [4. Amas](/content/sindresorhus/amas/README.md)
 
@@ -42,7 +42,13 @@
 
 *   [Khen Daniel (⭐0)](https://github.com/thekhenzie/ama) - Software Engineer. Aspiring Photographer. Hacker.
 
-## [5. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Elixir / Non-X86
+
+*   [The Ultimate Guide To Elixir For Object-Oriented Programmers](http://www.binarywebpark.com/ultimate-guide-elixir-object-oriented-programmers) - Bruce Park (HTML)
+
+## [6. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### IDE
 
@@ -51,7 +57,7 @@
 *   [dbForge Studio for PostgreSQL](https://www.devart.com/dbforge/postgresql/studio) - GUI tool for managing and developing databases and objects.
 *   [dbForge Studio for SQL Server](https://www.devart.com/dbforge/sql/studio) - Powerful integrated development environment for SQL Server development, management, administration, data analysis, and reporting.
 
-## [6. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
+## [7. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
 ### Very Lightweight
 
@@ -68,7 +74,7 @@
     ![](https://img.shields.io/github/stars/twbs/bootstrap.svg?style=social\&label=Star)
     [Demo](https://getbootstrap.com/docs/4.0/examples/),
     [Docs](https://getbootstrap.com/docs/4.0/),
-    [Repo (⭐161k)](https://github.com/twbs/bootstrap)
+    [Repo (⭐165k)](https://github.com/twbs/bootstrap)
     \| #SCSS
 
 ### Material Design
@@ -85,24 +91,24 @@
 *   [**Tailwind CSS**](https://tailwindcss.com) - Utility-first CSS framework for rapid UI development.\
     ![](https://img.shields.io/github/stars/tailwindlabs/tailwindcss.svg?style=social\&label=Star)
     [Docs](https://tailwindcss.com/docs),
-    [Repo (⭐63k)](https://github.com/tailwindlabs/tailwindcss)
+    [Repo (⭐72k)](https://github.com/tailwindlabs/tailwindcss)
     \| #CSS
 
 ### Specialized
 
 *   [**98.css**](https://jdan.github.io/98.css/) - CSS library for building interfaces that look like Windows 98.\
     ![](https://img.shields.io/github/stars/jdan/98.css.svg?style=social\&label=Star)
-    [Repo (⭐7.7k)](https://github.com/jdan/98.css)
+    [Repo (⭐8.2k)](https://github.com/jdan/98.css)
     \| #CSS
 
-## [7. Awesome Ava](/content/avajs/awesome-ava/README.md)
+## [8. Awesome Ava](/content/avajs/awesome-ava/README.md)
 
 ### Packages
 
 *   [ava-fixture (⭐5)](https://github.com/unional/ava-fixture) - Run fixture/baseline tests.
 *   [ava-fast-check (⭐44)](https://github.com/dubzzz/ava-fast-check) - Property based testing.
 
-## [8. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
+## [9. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
 ### Articles
 
@@ -110,21 +116,15 @@
 *   [Task automation with npm run](https://web.archive.org/web/20180302164842/http://substack.net/task_automation_with_npm_run)
 *   [How to use npm as a build tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
 
-### Support / `pre`   and   `post`   scripts
+### Support / `pre` and `post` scripts
 
 *   [npm.community](https://npm.community/c/support)
 
-## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Kinesis
 
 *   [aws-fluent-plugin-kinesis :fire::fire: (⭐290)](https://github.com/awslabs/aws-fluent-plugin-kinesis) - Fluent Plugin.
-
-## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
-
-### Collaboration and Project Management / Telegram
-
-*   [~~Todoyu~~](http://www.todoyu.com) - Original project discontinued - now maintained at [Todoyu-PHP7.x (⭐15)](https://github.com/AlexEdimensionz/Todoyu-PHP7.x)
 
 ---
 

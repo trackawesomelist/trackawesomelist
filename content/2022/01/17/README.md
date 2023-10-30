@@ -10,7 +10,7 @@
 
 ### Crates / Component Libraries
 
-*   [material-yew (⭐183)](https://github.com/hamza1311/material-yew) - Yew wrapper for Material Web Components.
+*   [material-yew (⭐207)](https://github.com/hamza1311/material-yew) - Yew wrapper for Material Web Components.
 
 ## [2. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
 
@@ -22,7 +22,6 @@
 
 ### OS Images
 
-*   [Kano OS](https://help.kano.me/hc/en-us/articles/360001063620-How-to-Install-Reinstall-Kano-OS-for-Raspberry-Pi) - Open-source OS for exploration, creation, and play – free for Raspberry Pi and the new Pi 3.
 *   [OpenHABian](https://www.openhab.org/docs/installation/openhabian.html) - A preconfigured version of the OpenHAB home automation software. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-2+.png)
 
 ### Tutorials / iOS
@@ -34,13 +33,13 @@
 
 ### Development tools / IDEs
 
-*   [lapce (⭐26k)](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor written in Rust. [![build badge](https://github.com/lapce/lapce/actions/workflows/release.yml/badge.svg)](https://github.com/lapce/lapce/actions/workflows/release.yml)
+*   [lapce (⭐28k)](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor written in Rust. [![build badge](https://github.com/lapce/lapce/actions/workflows/release.yml/badge.svg)](https://github.com/lapce/lapce/actions/workflows/release.yml)
 
 ## [5. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
-*   [Node-RED (⭐361)](https://github.com/naimo84/awesome-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
+*   [Node-RED (⭐392)](https://github.com/naimo84/awesome-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
 
 ## [6. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
 
@@ -58,59 +57,58 @@
 
 ### no-std crates / WIP
 
-*   [lorawan-encoding (⭐111)](https://github.com/ivajloip/rust-lorawan/tree/master/encoding): A LoRaWAN packet codec.
-*   [lorawan-device (⭐111)](https://github.com/ivajloip/rust-lorawan/tree/master/device): A LoRaWAN MAC implementation supporting both event driven and async mode.
+*   [lorawan-encoding (⭐122)](https://github.com/ivajloip/rust-lorawan/tree/master/encoding): A LoRaWAN packet codec.
+*   [lorawan-device (⭐122)](https://github.com/ivajloip/rust-lorawan/tree/master/device): A LoRaWAN MAC implementation supporting both event driven and async mode.
 
 ## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Graphics
 
-*   [openrndr/orx (⭐97)](https://github.com/openrndr/orx) - ORX is a collection extras for OPENRNDR which add support for sensors, live-coding, user interfaces and much more.
+*   [openrndr/orx (⭐104)](https://github.com/openrndr/orx) - ORX is a collection extras for OPENRNDR which add support for sensors, live-coding, user interfaces and much more.
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
-*   [Unge UI (⭐55)](https://github.com/UngeUI/ungeui) - A Vue 3.x Component Library. Complete documentation support and both Chinese and English.
+*   [Unge UI (⭐53)](https://github.com/UngeUI/ungeui) - A Vue 3.x Component Library. Complete documentation support and both Chinese and English.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue3-lottie (⭐147)](https://github.com/megasanjay/vue3-lottie) A component for importing and displaying Lottie animations in Vue 3
+*   [vue3-lottie (⭐222)](https://github.com/megasanjay/vue3-lottie) A component for importing and displaying Lottie animations in Vue 3
 
 ## [11. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / TikTok
 
-*   [ProxiTok (⭐1k)](https://github.com/pablouser1/ProxiTok): Open source alternative frontend for TikTok made with PHP
+*   [ProxiTok (⭐1.3k)](https://github.com/pablouser1/ProxiTok): Open source alternative frontend for TikTok made with PHP
     *   Official instance: <https://proxitok.pabloferreiro.es/>
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Bruzu](https://bruzu.com/) — Automate Image production. Generate tons of Image variants with API, Integrations or nocode sheet. API is FREE with watermark.
+*   [Bruzu](https://bruzu.com/) — Automate Image production. Generate tons of Image variants with API, Integrations, or nocode sheet. API is FREE with a watermark.
 
 ### Messaging and Streaming
 
-*   [eyeson API](https://developers.eyeson.team/) - A video communication API service based on WebRTC (SFU, MCU) to build video platforms. Allows RealTime Data Injection, Video Layouts, Recordings, a fully featured hosted web UI (quickstart) or packages for custom UIs. Has a [free tier for developers](https://apiservice.eyeson.com/api-pricing) with 1000 meeting minutes a month.
+*   [eyeson API](https://developers.eyeson.team/) - A video communication API service based on WebRTC (SFU, MCU) to build video platforms. Allows real-time data Injection, Video Layouts, Recordings, a fully featured hosted web UI (quickstart) or packages for custom UIs. Has a [free tier for developers](https://apiservice.eyeson.com/api-pricing) with 1000 meeting minutes a month.
 
 ### PaaS
 
-*   [Okteto Cloud](https://okteto.com) - Managed Kubernetes service designed for remote development. Free developer accounts come with 5 Kubernetes namespaces, 3Gi/pod with a maximum of 8Gi/namespace, 1CPU/pod with a maximum of 4CPUs/namespace and 5GB Disk space. The apps sleep after 24 hours of inactivity.
-*   [Meteor Cloud](https://www.meteor.com/cloud) — Galaxy hosting. Meteor's own platform-as-a-service for Meteor apps which includes a free MongoDB Shared Hosting and automatic SSL.
+*   [Meteor Cloud](https://www.meteor.com/cloud) — Galaxy hosting. Meteor's platform-as-a-service for Meteor apps includes free MongoDB Shared Hosting and automatic SSL.
 
 ### BaaS
 
-*   [nhost.io](https://nhost.io) - Serverless backend for web and mobile apps. Free plan includes: PostgreSQL, GraphQL (Hasura), Authentication, Storage, and Serverless Functions.
+*   [nhost.io](https://nhost.io) - Serverless backend for web and mobile apps. The free plan includes PostgreSQL, GraphQL (Hasura), Authentication, Storage, and Serverless Functions.
 
 ### Design and UI
 
-*   [tabler-icons.io](https://tabler-icons.io/) — Over 1500 free copy and paste SVG editable icons.
-*   [react-favicon.com](https://react-favicon.com/) - Generate Favicons for your web site using React and JSX using any font and icon library.
+*   [tabler-icons.io](https://tabler-icons.io/) — Over 1500 free copy-and-paste SVG editable icons.
+*   [react-favicon.com](https://react-favicon.com/) - Generate Favicons for your website using React and JSX using any font and icon library.
 
 ### IDE and Code Editing
 
-*   [codiga.io](https://codiga.io/) — Coding Assistant that lets you search, define and reuse code snippets directly in your IDE. Free for individual and small organizations.
+*   [codiga.io](https://codiga.io/) — Coding Assistant that lets you search, define, and reuse code snippets directly in your IDE. Free for individual and small organizations.
 
 ### Analytics, Events and Statistics
 
@@ -127,11 +125,11 @@
 
 ### Templates / Godot 3.2+
 
-*   [Godot Game Of Life (⭐25)](https://github.com/tavurth/godot-game-of-life) - Conway's *Game of life* using shaders.
+*   [Godot Game Of Life (⭐26)](https://github.com/tavurth/godot-game-of-life) - Conway's *Game of life* using shaders.
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Godot Radial Menu (⭐112)](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
+*   [Godot Radial Menu (⭐155)](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
 
 ## [15. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -142,11 +140,11 @@
 
 ### Communications / Ethernet
 
-*   [micropy-ENC28J60 (⭐13)](https://github.com/przemobe/micropy-ENC28J60) - ENC28J60 Ethernet chip driver for MicroPython (RP2).
+*   [micropy-ENC28J60 (⭐16)](https://github.com/przemobe/micropy-ENC28J60) - ENC28J60 Ethernet chip driver for MicroPython (RP2).
 
 ### Communications / IR
 
-*   [pico-ir (⭐4)](https://github.com/bartoszadamczyk/pico-ir) - IR library for Raspberry Pi Pico.
+*   [pico-ir (⭐8)](https://github.com/bartoszadamczyk/pico-ir) - IR library for Raspberry Pi Pico.
 
 ### Frameworks / SRAM
 

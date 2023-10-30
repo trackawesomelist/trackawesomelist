@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 22, 2023
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -25,9 +25,6 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   1 - 4 |       10 | 45-90m |
-
-### Contribute
-
 ### [Space Alert](https://boardgamegeek.com/boardgame/38453/space-alert)
 
 > Space Alert is a cooperative team survival game. Players become crew members of a small spaceship scanning dangerous sectors of the galaxy. The missions last just 10 real-time minutes (hyperspace jump, sector scan, hyperspace jump back) and the only task the players have is to protect their ship. During play, the central computer will announce the presence of various threats on one of the supplied 10 minute soundtracks that also acts as a game timer. The threats vary from space battleships and interceptors to different interstellar monsters and abominations, asteroids or even intruders and malfunctions on the spaceship. Players have to agree who will take care of which task and coordinate their actions (moving around the ship, firing weapons, distributing energy, using battlebots to deal with intruders, launching guided missiles, etc.) in real time to defend the ship. Only a well-working team can survive 10 minutes and make the jump back to safety. The game offers several difficulty levels, huge variability and a unique experience for one to five player teams. One mission lasts only about 30 minutes, including setup and evaluation.
@@ -37,8 +34,6 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   1 - 5 |       12 |  30m |
-
-Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
 
 ## [3. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
@@ -60,7 +55,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Concepts / AI Concept Representation
 
-*   [ImageBind: One Embedding Space To Bind Them All](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html) - ***CVPR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1657173986906232916\&hl=en\&as_sdt=0,5)]. \[[Project (⭐7.2k)](https://github.com/facebookresearch/ImageBind)]. Cross-modality representation fusion by aligning all other modalities to the visual modality.
+*   [ImageBind: One Embedding Space To Bind Them All](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html) - ***CVPR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1657173986906232916\&hl=en\&as_sdt=0,5)]. \[[Project (⭐7.3k)](https://github.com/facebookresearch/ImageBind)]. Cross-modality representation fusion by aligning all other modalities to the visual modality.
 
 ## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -114,12 +109,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [Zero to Hero Algorand Ecosystem Onboarding Guide](https://payhip.com/bamboriz) - Speak Fluent Algorand in 24 Hours.
 
-## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Networking
-
-*   [Computer Networks](https://kanchiuniv.ac.in/coursematerials/VINODKUMAR_COMPUTER_NETWORKS.pdf) - J.Vinoth kumar (PDF)
-
 ---
 
+- Prev: [Oct 23, 2023](/content/2023/10/23/README.md)
 - Next: [Oct 21, 2023](/content/2023/10/21/README.md)

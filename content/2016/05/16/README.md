@@ -10,7 +10,7 @@
 
 ### ORM and Datamapping
 
-*   [exsolr (⭐21)](https://github.com/dcarneiro/exsolr) - A Solr wrapper written in Elixir.
+*   [exsolr (⭐22)](https://github.com/dcarneiro/exsolr) - A Solr wrapper written in Elixir.
 
 ## [2. Awesome Observables](/content/sindresorhus/awesome-observables/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Logging / Barcode
 
-*   [WatchdogInspector (⭐515)](https://github.com/tapwork/WatchdogInspector) - A logging tool to show the current framerate (fps) in the status bar of your iOS app.
+*   [WatchdogInspector (⭐514)](https://github.com/tapwork/WatchdogInspector) - A logging tool to show the current framerate (fps) in the status bar of your iOS app.
 
 ### Utility / Barcode
 

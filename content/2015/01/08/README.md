@@ -19,13 +19,13 @@
 ### Third Party APIs
 
 *   [fluent\_client (⭐8)](https://github.com/trustatom-oss/elixir-fluent-client) - Minimalistic fluentd client.
-*   [slack (⭐655)](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging client in Elixir.
+*   [slack (⭐670)](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging client in Elixir.
 
 ## [2. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Data Visualization
 
-*   [Echarts (⭐53k)](https://github.com/ecomfe/echarts) - Baidus enterprise charts.
+*   [Echarts (⭐55k)](https://github.com/ecomfe/echarts) - Baidus enterprise charts.
 
 ## [3. Awesome Marionette](/content/sadcitizen/awesome-marionette/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Cryptography
 
-*   [retter (⭐85)](https://github.com/MaciejCzyzewski/retter) - A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography.
+*   [retter (⭐88)](https://github.com/MaciejCzyzewski/retter) - A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography.
 
 ## [6. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 

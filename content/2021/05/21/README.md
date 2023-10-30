@@ -10,13 +10,13 @@
 
 ### Libraries
 
-*   [Coax (⭐137)](https://github.com/coax-dev/coax) - Turn RL papers into code, the easy way. <img src="https://img.shields.io/github/stars/coax-dev/coax?style=social" align="center">
+*   [Coax (⭐149)](https://github.com/coax-dev/coax) - Turn RL papers into code, the easy way. <img src="https://img.shields.io/github/stars/coax-dev/coax?style=social" align="center">
 
 ## [2. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Templates / Godot 3.2+
 
-*   [Crystal Bit Godot Game Template (⭐372)](https://github.com/crystal-bit/godot-game-template) - Opinionated game template. It includes continuous integration, scene loading with graphic transitions and game pause handling.
+*   [Crystal Bit Godot Game Template (⭐391)](https://github.com/crystal-bit/godot-game-template) - Opinionated game template. It includes continuous integration, scene loading with graphic transitions and game pause handling.
 
 ## [3. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
@@ -57,65 +57,61 @@
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
-### Plugin Manager
-
-*   [wbthomason/packer.nvim (⭐6.5k)](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config.
-
 ### (requires Neovim 0.5)
 
-*   [ojroques/nvim-lspfuzzy (⭐292)](https://github.com/ojroques/nvim-lspfuzzy) - A small plugin to make the LSP client use FZF.
-*   [ray-x/lsp\_signature.nvim (⭐1.5k)](https://github.com/ray-x/lsp_signature.nvim) - LSP signature hint when you type.
-*   [jubnzv/virtual-types.nvim (⭐273)](https://github.com/jubnzv/virtual-types.nvim) - Show type annotations as virtual text.
-*   [tamago324/nlsp-settings.nvim (⭐251)](https://github.com/tamago324/nlsp-settings.nvim) - Setup LSP with JSON or YAML files.
+*   [ojroques/nvim-lspfuzzy (⭐305)](https://github.com/ojroques/nvim-lspfuzzy) - A small plugin to make the LSP client use FZF.
+*   [ray-x/lsp\_signature.nvim (⭐1.7k)](https://github.com/ray-x/lsp_signature.nvim) - LSP signature hint when you type.
+*   [jubnzv/virtual-types.nvim (⭐309)](https://github.com/jubnzv/virtual-types.nvim) - Show type annotations as virtual text.
+*   [tamago324/nlsp-settings.nvim (⭐274)](https://github.com/tamago324/nlsp-settings.nvim) - Setup LSP with JSON or YAML files.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [davidgranstrom/nvim-markdown-preview (⭐96)](https://github.com/davidgranstrom/nvim-markdown-preview) - Markdown preview in the browser using pandoc and live-server through Neovim's job-control API.
+*   [davidgranstrom/nvim-markdown-preview (⭐97)](https://github.com/davidgranstrom/nvim-markdown-preview) - Markdown preview in the browser using pandoc and live-server through Neovim's job-control API.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [tomasiser/vim-code-dark (⭐843)](https://github.com/tomasiser/vim-code-dark) - A dark color scheme heavily inspired by the look of the Dark+ scheme of Visual Studio Code.
-*   [sainnhe/sonokai (⭐1.2k)](https://github.com/sainnhe/sonokai) - High Contrast & Vivid Color Scheme based on Monokai Pro.
-*   [kyazdani42/blue-moon (⭐146)](https://github.com/kyazdani42/blue-moon) - A dark color scheme derived from palenight and carbonight.
-*   [sainnhe/edge (⭐732)](https://github.com/sainnhe/edge) - Clean & Elegant Color Scheme inspired by Atom One and Material.
-*   [yonlu/omni.vim (⭐59)](https://github.com/yonlu/omni.vim) - Omni color scheme for Vim.
+*   [tomasiser/vim-code-dark (⭐872)](https://github.com/tomasiser/vim-code-dark) - A dark color scheme heavily inspired by the look of the Dark+ scheme of Visual Studio Code.
+*   [sainnhe/sonokai (⭐1.3k)](https://github.com/sainnhe/sonokai) - High Contrast & Vivid Color Scheme based on Monokai Pro.
+*   [kyazdani42/blue-moon (⭐174)](https://github.com/kyazdani42/blue-moon) - A dark color scheme derived from palenight and carbonight.
+*   [sainnhe/edge (⭐780)](https://github.com/sainnhe/edge) - Clean & Elegant Color Scheme inspired by Atom One and Material.
+*   [yonlu/omni.vim (⭐75)](https://github.com/yonlu/omni.vim) - Omni color scheme for Vim.
 
 ### Debugging / Diagnostics
 
-*   [mfussenegger/nvim-dap (⭐3.4k)](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation.
-*   [sakhnik/nvim-gdb (⭐580)](https://github.com/sakhnik/nvim-gdb) - Thin wrapper for GDB, LLDB, PDB/PDB++ and BashDB.
+*   [mfussenegger/nvim-dap (⭐3.9k)](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation.
+*   [sakhnik/nvim-gdb (⭐630)](https://github.com/sakhnik/nvim-gdb) - Thin wrapper for GDB, LLDB, PDB/PDB++ and BashDB.
 
 ### Neovim Lua Development / Diagnostics
 
-*   [nanotee/nvim-lua-guide (⭐5.4k)](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim.
+*   [nanotee/nvim-lua-guide (⭐5.5k)](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim.
 
 ### Fennel / Diagnostics
 
-*   [Olical/aniseed (⭐534)](https://github.com/Olical/aniseed) - Configure and extend Neovim with Fennel (Lisp to Lua).
+*   [Olical/aniseed (⭐582)](https://github.com/Olical/aniseed) - Configure and extend Neovim with Fennel (Lisp to Lua).
 
 ### Git / Diagnostics
 
-*   [f-person/git-blame.nvim (⭐558)](https://github.com/f-person/git-blame.nvim) - Show git blame info.
-*   [lewis6991/gitsigns.nvim (⭐3.1k)](https://github.com/lewis6991/gitsigns.nvim) - Git integration: signs, hunk actions, blame, etc.
-*   [ruifm/gitlinker.nvim (⭐358)](https://github.com/ruifm/gitlinker.nvim) - Generate shareable file permalinks for several git hosts. Inspired by tpope/vim-fugitive's :GBrowse.
+*   [f-person/git-blame.nvim (⭐667)](https://github.com/f-person/git-blame.nvim) - Show git blame info.
+*   [lewis6991/gitsigns.nvim (⭐3.6k)](https://github.com/lewis6991/gitsigns.nvim) - Git integration: signs, hunk actions, blame, etc.
+*   [ruifm/gitlinker.nvim (⭐417)](https://github.com/ruifm/gitlinker.nvim) - Generate shareable file permalinks for several git hosts. Inspired by tpope/vim-fugitive's :GBrowse.
 
 ### Editing Support / Diagnostics
 
-*   [windwp/nvim-ts-autotag (⭐921)](https://github.com/windwp/nvim-ts-autotag) - Use treesitter to autoclose and autorename xml,html,jsx tag.
-*   [haringsrob/nvim\_context\_vt (⭐294)](https://github.com/haringsrob/nvim_context_vt) - Shows virtual text of the current context.
+*   [windwp/nvim-ts-autotag (⭐1.1k)](https://github.com/windwp/nvim-ts-autotag) - Use treesitter to autoclose and autorename xml,html,jsx tag.
+*   [haringsrob/nvim\_context\_vt (⭐326)](https://github.com/haringsrob/nvim_context_vt) - Shows virtual text of the current context.
 
 ### Command Line / Diagnostics
 
-*   [notomo/cmdbuf.nvim (⭐81)](https://github.com/notomo/cmdbuf.nvim) - Alternative command-line-window plugin.
+*   [notomo/cmdbuf.nvim (⭐100)](https://github.com/notomo/cmdbuf.nvim) - Alternative command-line-window plugin.
 
 ### Session / Diagnostics
 
-*   [rmagatti/auto-session (⭐747)](https://github.com/rmagatti/auto-session) - A small automated session manager.
+*   [rmagatti/auto-session (⭐841)](https://github.com/rmagatti/auto-session) - A small automated session manager.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [NTBBloodbath/doom-nvim (⭐902)](https://github.com/NTBBloodbath/doom-nvim) - Port of the doom-emacs framework, its goal is to add useful functions to Neovim to start working in a stable and efficient development environment without spending a lot of time configuring everything.
-*   [crivotz/nv-ide (⭐474)](https://github.com/crivotz/nv-ide) - Neovim custom configuration, oriented for full stack developers (rails, ruby, php, html, css, SCSS, JavaScript).
+*   [NTBBloodbath/doom-nvim (⭐955)](https://github.com/NTBBloodbath/doom-nvim) - Port of the doom-emacs framework, its goal is to add useful functions to Neovim to start working in a stable and efficient development environment without spending a lot of time configuring everything.
+*   [crivotz/nv-ide (⭐513)](https://github.com/crivotz/nv-ide) - Neovim custom configuration, oriented for full stack developers (rails, ruby, php, html, css, SCSS, JavaScript).
 
 ### Version Manager / Diagnostics
 
@@ -138,10 +134,10 @@
 ### File Management and Sharing
 
 *   [Blaze](https://blaze.now.sh/) - A fast, p2p and radically different way to transfer files.
-*   [Croc (⭐23k)](https://github.com/schollz/croc) - Easily and securely send things from one computer to another.
-*   [Dat-cp (⭐306)](https://github.com/tom-james-watson/dat-cp) - Copy files between hosts on a network using the peer-to-peer Dat network.
+*   [Croc (⭐25k)](https://github.com/schollz/croc) - Easily and securely send things from one computer to another.
+*   [Dat-cp (⭐311)](https://github.com/tom-james-watson/dat-cp) - Copy files between hosts on a network using the peer-to-peer Dat network.
 *   [Lufi](https://framagit.org/fiat-tux/hat-softwares/lufi) - Let's Upload that FIle — File sharing software.
-*   [QRcp (⭐9.2k)](https://github.com/claudiodangelis/qrcp) - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
+*   [QRcp (⭐9.4k)](https://github.com/claudiodangelis/qrcp) - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 *   [Send](https://gitlab.com/timvisee/send) - Simple, private file sharing. (Mozilla Send Fork)
 
 ### Decentralized
@@ -163,7 +159,7 @@
 
 *   [Tox](https://tox.chat/) - Tox is easy-to-use software that connects you with friends and family without anyone else listening in.
 *   [Briar](https://briarproject.org/) - Peer-to-peer encrypted messaging and forums.
-*   [Tinfoil Chat (⭐1k)](https://github.com/maqp/tfc) - Onion-routed, endpoint secure messaging system.
+*   [Tinfoil Chat (⭐1.1k)](https://github.com/maqp/tfc) - Onion-routed, endpoint secure messaging system.
 
 ### Mail Services
 
@@ -176,12 +172,9 @@
 
 *   [Tutanota](https://tutanota.com/) - Secure email for everybody. Open Source.
 
-### Smart TV
+### Video and Audio
 
 *   [Jellyfin](https://jellyfin.org/) - Jellyfin is the volunteer-built media solution that puts you in control of your media. Stream to any device from your own server, with no strings attached.
-*   [Kodi](https://kodi.tv/) - It is an entertainment hub that brings all your digital media together into a beautiful and user friendly package. It is 100% free and open source, very customisable and runs on a wide variety of devices.
-*   [OSMC](https://osmc.tv/) - OSMC is a free and open source media center built for the people, by the people.
-*   [RaspberryCast (⭐850)](https://github.com/vincelwt/RaspberryCast) - Transform your Raspberry Pi into a streaming device. Cast videos from mobile devices or computers to your TV.
 
 ### Audio
 
@@ -206,6 +199,11 @@
 *   [Plasma Mobile](https://www.plasma-mobile.org/) - Plasma, in your pocket. Privacy-respecting, open source and secure phone ecosystem.
 *   [mobian](https://mobian-project.org/) - Debian for mobile.
 
+### Smart TV
+
+*   [Kodi](https://kodi.tv/) - It is an entertainment hub that brings all your digital media together into a beautiful and user friendly package. It is 100% free and open source, very customisable and runs on a wide variety of devices.
+*   [OSMC](https://osmc.tv/) - OSMC is a free and open source media center built for the people, by the people.
+
 ### Payments
 
 *   Visa / Mastercard
@@ -220,28 +218,28 @@
 
 ### FIAT
 
-*   [ProExpense (⭐77)](https://github.com/arduia/ProExpense/) - A simple free finance note to safely record daily expenses.
+*   [ProExpense (⭐81)](https://github.com/arduia/ProExpense/) - A simple free finance note to safely record daily expenses.
 *   [Nextcloud Cospend](https://apps.nextcloud.com/apps/cospend) - A group/shared budget manager inspired by the great IHateMoney.
     *   [MoneyBuster](https://gitlab.com/eneiluj/moneybuster/) - Android client for Nextcloud Cospend and [IHateMoney](https://ihatemoney.org/) servers.
 
 ### CRYPTO
 
-*   [Rotki (⭐2.2k)](https://github.com/rotki/rotki) - An awesome portfolio tracking, analytics, accounting and tax reporting application that protects your privacy.
+*   [Rotki (⭐2.4k)](https://github.com/rotki/rotki) - An awesome portfolio tracking, analytics, accounting and tax reporting application that protects your privacy.
 
 ### Uncategorized
 
 *   [Skymap](https://skymaponline.net/) - Open online planetarium program.
-*   [Hetty (⭐5.2k)](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research. It aims to be an open-source alternative to Burp Suite Pro.
+*   [Hetty (⭐5.8k)](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research. It aims to be an open-source alternative to Burp Suite Pro.
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Text processing
 
-*   [fancy-regex/fancy-regex (⭐329)](https://github.com/fancy-regex/fancy-regex) \[[fancy-regex](https://crates.io/crates/fancy-regex)] - Regular expressions implementation designed to support a relatively rich set of features such as look-around and backtracking. [![crates](https://img.shields.io/crates/v/fancy-regex.svg)](https://crates.io/crates/fancy-regex) [![build badge](https://github.com/fancy-regex/fancy-regex/workflows/ci/badge.svg)](https://github.com/fancy-regex/fancy-regex/actions/workflows/ci.yml)
+*   [fancy-regex/fancy-regex (⭐358)](https://github.com/fancy-regex/fancy-regex) \[[fancy-regex](https://crates.io/crates/fancy-regex)] - Regular expressions implementation designed to support a relatively rich set of features such as look-around and backtracking. [![crates](https://img.shields.io/crates/v/fancy-regex.svg)](https://crates.io/crates/fancy-regex) [![build badge](https://github.com/fancy-regex/fancy-regex/workflows/ci/badge.svg)](https://github.com/fancy-regex/fancy-regex/actions/workflows/ci.yml)
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
 *   [shrtcode API](https://shrtco.de/docs) - Free URL Shortening API without authorization and no request limits.
 
@@ -257,13 +255,13 @@
 
 ### Vendor Data Resources / Travel Behavior
 
-*   [Replica](https://replicahq.com/platform) -  Replica is a data platform providing rich origin-destination, spend, and scenario impact analysis based on an activity based modeling process.
-*   [SafeGraph](https://www.safegraph.com/) -  Points of interest (POI) provider providing information on destination locations and their characteristics such as spending rates in the United States.
+*   [Replica](https://replicahq.com/platform) - Replica is a data platform providing rich origin-destination, spend, and scenario impact analysis based on an activity based modeling process.
+*   [SafeGraph](https://www.safegraph.com/) - Points of interest (POI) provider providing information on destination locations and their characteristics such as spending rates in the United States.
 *   [StreetLight Data](https://www.streetlightdata.com/) - Provides data using smartphones as sensors to measure vehicles, bikes, and pedestrians across North America. Carry out your mission on time and under budget, with 24/7 access to counts, O-D, and other metrics you need.
 
 ### Planning Coding Resources / Python
 
-*   [OSMnx (⭐4.2k)](https://github.com/gboeing/osmnx) - Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
+*   [OSMnx (⭐4.4k)](https://github.com/gboeing/osmnx) - Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
 

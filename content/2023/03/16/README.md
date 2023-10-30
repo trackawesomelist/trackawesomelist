@@ -10,13 +10,13 @@
 
 ### Database Drivers/Clients
 
-*   [surrealdb.cr (⭐4)](https://github.com/yorci/surrealdb.cr) - Unoffical SurrealDB HTTP & Websocket Client
+*   [surrealdb.cr (⭐6)](https://github.com/yorci/surrealdb.cr) - Unoffical SurrealDB HTTP & Websocket Client
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Video
 
-*   [VideoInfo (⭐402)](https://github.com/thibaudgg/video_info) - Get video info from Dailymotion, Vimeo, Wistia, and YouTube URLs.
+*   [VideoInfo (⭐406)](https://github.com/thibaudgg/video_info) - Get video info from Dailymotion, Vimeo, Wistia, and YouTube URLs.
 
 ## [3. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -33,13 +33,13 @@
 
 ### Other Free Resources
 
-*   [AdminMart](https://adminmart.com/) — High Quality Free and Premium Admin Dashboard and Website Templates created with Angular, Bootstrap, React, VueJs, NextJs and NuxtJs!
+*   [AdminMart](https://adminmart.com/) — High-Quality Free and Premium Admin Dashboard and Website Templates created with Angular, Bootstrap, React, VueJs, NextJS, and NuxtJS!
 
 ## [5. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Integration / Community
 
-*   [cool-stack (⭐13)](https://github.com/tdsoftpl/cool-stack) - Template repository integrating Directus & Remix into a full-stack monorepo.
+*   [cool-stack (⭐19)](https://github.com/tdsoftpl/cool-stack) - Template repository integrating Directus & Remix into a full-stack monorepo.
 
 ## [6. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
@@ -79,26 +79,26 @@
 
 ### Crates / Component Libraries
 
-*   [yew-bootstrap (⭐10)](https://github.com/isosphere/yew-bootstrap) - A Yew wrapper for the Bootstrap 5 component library.
+*   [yew-bootstrap (⭐23)](https://github.com/isosphere/yew-bootstrap) - A Yew wrapper for the Bootstrap 5 component library.
 
 ## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Neuledge (⭐206)](https://github.com/neuledge/engine-js) - Neuledge is a universal language for databases that provides state-of-the-art tools for data modeling, business logic representation, and schema validation.
+*   :octocat: [Neuledge (⭐236)](https://github.com/neuledge/engine-js) - Neuledge is a universal language for databases that provides state-of-the-art tools for data modeling, business logic representation, and schema validation.
 
 ## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [kali-like (⭐1)](https://github.com/clamy54/kali-like-zsh-theme) - Inspired by the Kali Linux default ZSH theme. Includes decorators for user\@host, current directory and `git` information.
-*   [madas (⭐2)](https://github.com/Madasish/madas-zsh-theme) - Inspired by af-magic. Includes decorators for `git` status, user\@host, and whether the last command failed.
+*   [kali-like (⭐2)](https://github.com/clamy54/kali-like-zsh-theme) - Inspired by the Kali Linux default ZSH theme. Includes decorators for user\@host, current directory and `git` information.
+*   [madas (⭐1)](https://github.com/Madasish/madas-zsh-theme) - Inspired by af-magic. Includes decorators for `git` status, user\@host, and whether the last command failed.
 
 ## [12. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Languages / Go
 
-*   [conduit (⭐22)](https://github.com/algorand/conduit) - Algorand's data pipeline framework.
+*   [conduit (⭐30)](https://github.com/algorand/conduit) - Algorand's data pipeline framework.
 
 ---
 

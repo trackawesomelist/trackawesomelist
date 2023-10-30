@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 23, 2022
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,7 +14,7 @@
 
 ## [2. GoBooks](/content/dariubs/GoBooks/README.md)
 
-### **Advanced Books** / [Practical Go: Building Scalable Network and Non-Network Applications](https://practicalgobook.net)
+### Advanced Books / 2021 - [Practical Go: Building Scalable Network and Non-Network Applications](https://practicalgobook.net)
 
 *   Writing command line applications
 *   Writing a HTTP services and clients
@@ -29,26 +29,26 @@
 
 ### Software / Make your life easier
 
-*   [test-each (⭐101)](https://github.com/ehmicky/test-each) - Repeats tests using different inputs (Data-Driven Testing).
+*   [test-each (⭐106)](https://github.com/ehmicky/test-each) - Repeats tests using different inputs (Data-Driven Testing).
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [lewpoly/sherbet.nvim (⭐51)](https://github.com/lewpoly/sherbet.nvim) - A soothing colorscheme with support for popular plugins and tree-sitter.
+*   [lewpoly/sherbet.nvim (⭐62)](https://github.com/lewpoly/sherbet.nvim) - A soothing colorscheme with support for popular plugins and tree-sitter.
 
 ## [5. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### UI Libraries
 
-*   [ionic-svelte (⭐468)](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
+*   [ionic-svelte (⭐629)](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
 
 ## [6. Awesome Vala](/content/desiderantes/awesome-vala/README.md)
 
 ### Apps / Productivity
 
 *   [GNOME Calculator](https://gitlab.gnome.org/GNOME/gnome-calculator) - The calculator app for the GNOME desktop.
-*   [pdfpc (⭐1.3k)](https://github.com/pdfpc/pdfpc) - A GTK presenter application with multi-monitor support for PDF files.
+*   [pdfpc (⭐1.4k)](https://github.com/pdfpc/pdfpc) - A GTK presenter application with multi-monitor support for PDF files.
 
 ### Libraries / Command-line
 
@@ -58,19 +58,13 @@
 
 *   [Libgee](https://wiki.gnome.org/Projects/Libgee) - A utility library providing GObject-based interfaces and classes for commonly used data structures (lists, maps, queues, trees, etc.).
 
-## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
-
-### Framework-agnostic Plugins / Transformers
-
-*   [vite-plugin-inject-preload (⭐14)](https://github.com/Applelo/vite-plugin-inject-preload) - Inject `<link rel="preload">` to your `index.html` based on your build assets.
-
-## [8. Awesome List](/content/sindresorhus/awesome/README.md)
+## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Theory
 
-*   [AGI & CoCoSci (⭐148)](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
+*   [AGI & CoCoSci (⭐194)](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
 
-## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Literature Management
 
@@ -135,7 +129,7 @@
 ### Explainability / Strong Machine Learning
 
 *   [Ultra-Strong Machine Learning: comprehensibility of programs learned with ILP](https://link.springer.com/article/10.1007/s10994-018-5707-3) - ***Machine Learning***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=17551060457946144913\&hl=en\&as_sdt=0,5)]. Stephen Muggleton's account of ultra-strong machine learning, which not only learns human understandable knowledge, but also improves human performance on the corresponding tasks.
-*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[code (⭐567)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
+*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[code (⭐577)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
 
 ### Explainability / Explainable Deep Learning
 
@@ -143,7 +137,7 @@
 *   [Understanding the role of Individual Units in a Deep Neural Network](https://www.pnas.org/content/pnas/early/2020/08/31/1907375117.full.pdf) - ***Proceedings of National Academy of Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=11996680970579301810\&hl=en\&as_sdt=0,5)]. David Bau's review on network dissection for discriminative and generative models.
 *   [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/) - ***Distill***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9053581372570691569\&hl=en\&as_sdt=0,5)]. A perspective on treating neural networks as circuits.
 *   [Compositional Explanations of Neurons](https://proceedings.neurips.cc/paper/2020/hash/c74956ffb38ba48ed6ce977af6727275-Abstract.html) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=15725346730266402738\&hl=en\&as_sdt=0,5)]. \[[Project (⭐23)](https://github.com/jayelm/compexp)]. A concept-composition version of network dissection.
-*   [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐126)](https://github.com/MadryLab/backgrounds_challenge)]. \[[Project](https://gradientscience.org/background/)]. A perspective on image background provides strong clue for foreground classification.
+*   [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐129)](https://github.com/MadryLab/backgrounds_challenge)]. \[[Project](https://gradientscience.org/background/)]. A perspective on image background provides strong clue for foreground classification.
 *   [Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation](https://proceedings.neurips.cc/paper/2018/hash/5fc34ed307aac159a30d81181c99847e-Abstract.html) - ***NeurIPS'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=401428033641216502\&hl=en\&as_sdt=0,5)]. Maching the learned pattern of neurons in different neural networks.
 
 ### Embodied Intelligence / Explainable Deep Learning
@@ -164,7 +158,7 @@
 *   [Pareto optimality in multiobjective problems](https://link.springer.com/article/10.1007/BF01442131) - ***Applied Mathematics and Optimization***, 1977. \[[All Versions](https://scholar.google.com/scholar?cluster=11305142600366783354\&hl=en\&as_sdt=0,5)]. The original paper on the pareto optimality in multiobjective problems.
 *   [Pareto-Based Multiobjective Machine Learning: An Overview and Case Studies](http://www.soft-computing.de/SMC0805.pdf) - ***IEEE Transactions on Systems, Man, and Cybernetics***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=11308312498510305429\&hl=en\&as_sdt=0,5)]. A comprehensive review on the application of pareto optimality to multiobjective machine learning.
 
-### Causality / Democratization
+### Causality / Democratization of Science
 
 *   [Identification of Causal Effects Using Instrumental Variables](http://www.jakebowers.org/ITVExperiments/angristimbensrubin96.pdf) - ***Journal of the American Statistical Association***, 1996. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=17166265099721941605)].
 *   [Causality](https://en.wikipedia.org/wiki/Causality) - ***Wikipedia***. Wikipedia on causality, which is influence by which one event, process, state, or object (a cause) contributes to the production of another event, process, state, or object (an effect) where the cause is partly responsible for the effect, and the effect is partly dependent on the cause.
@@ -204,7 +198,7 @@
 ### Meta-Level Considerations / Meta Learning
 
 *   [Automated Reinforcement Learning (AutoRL): A Survey and Open Problems](https://arxiv.org/pdf/2201.03916.pdf) - 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=9025378857688824887\&hl=en\&as_sdt=0,5)]. A comprehensive review on AutoRL.
-*   [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://proceedings.mlr.press/v70/finn17a/finn17a.pdf) - ***ICML'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=17278604844873996878)]. Chelsea Finn's original paper on Model-Agnostic Meta-Learning (MAML).
+*   [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://proceedings.mlr.press/v70/finn17a/finn17a.pdf) - ***ICML'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=17278604844873996878)]. \[[Post](https://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)]. Chelsea Finn's original paper on Model-Agnostic Meta-Learning (MAML).
 *   [Bayesian Model-Agnostic Meta-Learning](https://proceedings.neurips.cc/paper/2018/hash/e1021d43911ca2c1845910d84f40aeae-Abstract.html) - ***NeurIPS'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=7370333111335795917\&hl=en\&as_sdt=0,5)]. A Bayesian account on MAML.
 
 ### David Marr / Commonsense Knowledgebase
@@ -236,7 +230,7 @@
 *   [Is human cognition adaptive?](http://act-r.psy.cmu.edu/wordpress/wp-content/uploads/2013/09/Anderson91.pdf) - ***Behavioral and Brain Sciences***, 1991. \[[All Versions](https://scholar.google.com/scholar?cluster=3639936076538071052\&hl=en\&as_sdt=0,5)]. The original paper introducing the adaptation perspective of human intelligence, the theoretical basis of the ACT cognitive architecture.
 *   [What is consciousness, and could machines have it?](https://doi.org/10.1126/SCIENCE.AAN8871) - ***Science***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=6932714857132107942\&hl=en\&as_sdt=0,5)]. A perspective on the two levels of consciousness in machine intelligence.
 
-### Theory of Mind / Democratization
+### Theory of Mind / Democratization of Science
 
 *   [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind) - ***Wikipedia***. Wikipedia on Theory of Mind (ToM), a cognitive capability that estimating others' goal, belief, and desire.
 *   [Action Understanding as Inverse Planning](https://www.sciencedirect.com/science/article/pii/S0010027709001607) - ***Cognition***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=11478704181983566675\&hl=en\&as_sdt=0,5)]. \[[Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0010027709001607-mmc1.pdf)]. The original paper on Inverse Planning, a computational implementation of ToM.
@@ -253,7 +247,7 @@
 *   [Intentonomy: a Dataset and Study towards Human Intent Understanding](https://arxiv.org/pdf/2011.05558.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=5268870345003195142\&hl=en\&as_sdt=0,5)]. A large-scale database on human intentionally-posted images on social media.
 *   [Adventures in Flatland: Perceiving Social Interactions Under Physical Dynamics](https://www.tshu.io/HeiderSimmel/CogSci20/Flatland_CogSci20.pdf) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1928005249823745390\&hl=en\&as_sdt=0,5)].
 
-### Analogy / Democratization
+### Analogy / Democratization of Science
 
 *   [Metaphor](https://plato.stanford.edu/entries/metaphor/) - ***Plato Stanford***. A computational philosophy account on Metaphor, a poetically or rhetorically ambitious use of words, a figurative as opposed to literal use.
 *   [Analogy and Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/) - ***Plato Stanford***. A computational philosophy account on Analogy, a comparison between two objects, or systems of objects, that highlights respects in which they are thought to be similar.

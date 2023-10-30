@@ -22,7 +22,7 @@
 
 ### UI / Barcode
 
-*   [Arale (⭐43)](https://github.com/supercomputra/Arale) - A custom stretchable header view for UIScrollView or any its subclasses with UIActivityIndicatorView support for content reloading.
+*   [Arale (⭐45)](https://github.com/supercomputra/Arale) - A custom stretchable header view for UIScrollView or any its subclasses with UIActivityIndicatorView support for content reloading.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -36,21 +36,21 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-quintable (⭐29)](https://github.com/Quintetio/vue-quintable) - A responsive and highly configurable table based on Vue 2.x and Bootstrap 4.x
+*   [vue-quintable (⭐31)](https://github.com/Quintetio/vue-quintable) - A responsive and highly configurable table based on Vue 2.x and Bootstrap 4.x
 
 ## [5. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Component Libraries
 
-*   [Warp View (⭐6)](https://github.com/senx/warpview) - Collection of charting web components for Warp 10.
+*   [Warp View (⭐7)](https://github.com/senx/warpview) - Collection of charting web components for Warp 10.
 
 ### Design Systems
 
-*   [Lyne Components (⭐18)](https://github.com/lyne-design-system/lyne-components) - Building blocks of the Lyne Design System are based on Web Components.
+*   [Lyne Components (⭐27)](https://github.com/lyne-design-system/lyne-components) - Building blocks of the Lyne Design System are based on Web Components.
 
 ### Class Based
 
-*   [Panel (⭐243)](https://github.com/mixpanel/panel) - Web Components + Virtual DOM: web standards for powerful UIs.
+*   [Panel (⭐261)](https://github.com/mixpanel/panel) - Web Components + Virtual DOM: web standards for powerful UIs.
 
 ## [6. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
@@ -96,8 +96,8 @@
 
 ### Individual components / Others
 
-*   [Blazor.Grids (⭐27)](https://github.com/excubo-ag/Blazor.Grids) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Grids?style=flat-square\&cacheSeconds=86400) Component library for CSS grids with extra features, such as moving and resizing interactively. Create your own dashboard with ease. ([Demo](https://excubo-ag.github.io/Blazor.Grids/)).
-*   [Blazor.TreeViews (⭐62)](https://github.com/excubo-ag/Blazor.TreeViews) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.TreeViews?style=flat-square\&cacheSeconds=86400) Component library for tree views. ([Demo](https://excubo-ag.github.io/Blazor.TreeViews/)).
+*   [Blazor.Grids (⭐33)](https://github.com/excubo-ag/Blazor.Grids) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Grids?style=flat-square\&cacheSeconds=86400) Component library for CSS grids with extra features, such as moving and resizing interactively. Create your own dashboard with ease. ([Demo](https://excubo-ag.github.io/Blazor.Grids/)).
+*   [Blazor.TreeViews (⭐64)](https://github.com/excubo-ag/Blazor.TreeViews) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.TreeViews?style=flat-square\&cacheSeconds=86400) Component library for tree views. ([Demo](https://excubo-ag.github.io/Blazor.TreeViews/)).
 
 ## [12. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
@@ -121,7 +121,7 @@
 
 ### Resources / Physics
 
-*   [jbump (⭐23)](https://github.com/tommyettinger/jbump) - Easy to implement AABB collision detection useful for platformers and other simple 2D games.
+*   [jbump (⭐24)](https://github.com/tommyettinger/jbump) - Easy to implement AABB collision detection useful for platformers and other simple 2D games.
 
 ---
 

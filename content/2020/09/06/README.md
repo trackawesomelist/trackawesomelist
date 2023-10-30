@@ -34,7 +34,7 @@
 
 ### API Builder and Discovery
 
-*   [Acts\_As\_Api (⭐508)](https://github.com/fabrik42/acts_as_api) - Easy And Fun, in creating XML/JSON responses in Rails 3,4,5 and 6.
+*   [Acts\_As\_Api (⭐507)](https://github.com/fabrik42/acts_as_api) - Easy And Fun, in creating XML/JSON responses in Rails 3,4,5 and 6.
 
 ### Authorization
 

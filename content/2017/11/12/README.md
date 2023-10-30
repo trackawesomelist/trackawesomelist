@@ -14,7 +14,7 @@
 
 ### Contents / Libraries
 
-*   [FPreact (⭐46)](https://github.com/UnwrittenFun/fpreact) - Provides an alternative api for creating preact components, heavily inspired by elm.
+*   [FPreact (⭐47)](https://github.com/UnwrittenFun/fpreact) - Provides an alternative api for creating preact components, heavily inspired by elm.
 
 ## [2. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

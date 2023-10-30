@@ -10,8 +10,8 @@
 
 ### Libraries
 
-*   [ts-multimethod (⭐2)](https://github.com/darky/ts-multimethod) - TypeScript multimethods inspired by Clojure multimethods. +TS
-*   [ts-fp-di (⭐1)](https://github.com/darky/ts-fp-di) - Tiny TypeScript functional dependency injection, based on Node.js AsyncLocalStorage. +TS
+*   [ts-multimethod (⭐3)](https://github.com/darky/ts-multimethod) - TypeScript multimethods inspired by Clojure multimethods. +TS
+*   [ts-fp-di (⭐2)](https://github.com/darky/ts-fp-di) - Tiny TypeScript functional dependency injection, based on Node.js AsyncLocalStorage. +TS
 
 ## [2. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -29,13 +29,13 @@
 
 ### Tools / Online Analyzers
 
-*   ~~[AMAaaS](https://amaaas.com) - Free Android Malware Analysis Service. A baremetal service features static and dynamic analysis for Android applications. A product of [MalwarePot](https://malwarepot.com/index.php/AMAaaS)~~.
+*   ~~[AMAaaS](https://amaaas.com) - Free Android Malware Analysis Service. A bare-metal service features static and dynamic analysis for Android applications. A product of [MalwarePot](https://malwarepot.com/index.php/AMAaaS)~~.
 *   ~~[AppCritique](https://appcritique.boozallen.com) - Upload your Android APKs and receive comprehensive free security assessments~~
 
 ### Tools / Dynamic Analysis Tools
 
-*   [Android\_application\_analyzer (⭐128)](https://github.com/NotSoSecure/android_application_analyzer) - The tool is used to analyze the content of the android application in local storage.
-*   ~~[Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (linux distro) Earlier it use to be an [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)~~
+*   [Android\_application\_analyzer (⭐132)](https://github.com/NotSoSecure/android_application_analyzer) - The tool is used to analyze the content of the Android application in local storage.
+*   ~~[Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (Linux distro) Earlier it use to be an [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)~~
 *   ~~[Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE (android reverse engineering) not under active development anymore~~
 *   ~~[ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/)~~
 *   ~~[Mercury](https://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/)~~
@@ -43,29 +43,29 @@
 
 ### Tools / Market Crawlers
 
-*   [APK Downloader](https://apkcombo.com/apk-downloader/) Online Sevrice to download APK from Playstore for specific Android Device Configuration
+*   [APK Downloader](https://apkcombo.com/apk-downloader/) Online Service to download APK from Playstore for specific Android Device Configuration
 
 ### Tools / Vulnerable Applications for practice
 
-*   [Insecureshop (⭐216)](https://github.com/optiv/insecureshop)
+*   [Insecureshop (⭐215)](https://github.com/optiv/insecureshop)
 
-## [5. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### JavaScript / Wicket
+
+*   [Understanding the DOM — Document Object Model](https://www.digitalocean.com/community/books/understanding-the-dom-document-object-model-ebook) - Tania Rascia (PDF, EPUB)
+
+## [6. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Climate
 
 *   [WUDAPT](https://www.wudapt.org/) - This database intends to make accessible coherent and consistent descriptions and information on form and function of urban morphology relevant to climate & environment studies on a worldwide basis.
 
-## [6. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
-
-### Swift / Flask
-
-*   [逆引きSwift](http://faboplatform.github.io/SwiftDocs/) - FaBo
-
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Serialization
 
-*   [cista (⭐1.3k)](https://github.com/felixguendling/cista) - A C++17 library for zero-copy high-performance (de-)serialization. \[MIT]
+*   [cista (⭐1.5k)](https://github.com/felixguendling/cista) - A C++17 library for zero-copy high-performance (de-)serialization. \[MIT]
 
 ## [8. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

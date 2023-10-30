@@ -22,7 +22,7 @@
 
 ### Projects Using Vue.js / A11y
 
-*   [vue-announcer (⭐223)](https://github.com/vue-a11y/vue-announcer) - A simple way with Vue to announce any useful information for screen readers.
+*   [vue-announcer (⭐226)](https://github.com/vue-a11y/vue-announcer) - A simple way with Vue to announce any useful information for screen readers.
 
 ## [4. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -54,13 +54,13 @@
 
 ### Frameworks, Libraries and Tools / SDKs
 
-*   [csharp-nats (⭐535)](https://github.com/nats-io/csharp-nats) - C# .NET client for the NATS messaging system.
+*   [csharp-nats (⭐613)](https://github.com/nats-io/csharp-nats) - C# .NET client for the NATS messaging system.
 
 ## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Utility / Barcode
 
-*   [WhatsNewKit (⭐3.2k)](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features.
+*   [WhatsNewKit (⭐3.5k)](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features.
 
 ## [9. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 

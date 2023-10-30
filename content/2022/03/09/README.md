@@ -16,7 +16,7 @@
 
 ### Go Tools / Libraries for creating HTTP middlewares
 
-*   [gotestdox (⭐37)](https://github.com/bitfield/gotestdox) - Show Go test results as readable sentences.
+*   [gotestdox (⭐66)](https://github.com/bitfield/gotestdox) - Show Go test results as readable sentences.
 
 ## [3. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
@@ -43,11 +43,11 @@
 
 ### Plugins
 
-*   🧬 [FormKit (⭐2.7k)](https://github.com/formkit/formkit/tree/master/packages/tailwindcss) - Adds variants for input and form states for FormKit.
+*   🧬 [FormKit (⭐3.6k)](https://github.com/formkit/formkit/tree/master/packages/tailwindcss) - Adds variants for input and form states for FormKit.
 
 ## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Large Language Models / Text-related Generative Tools
+### Inbox: Large Language Models (LLMs) / Text-related Generative Tools
 
 *   [Riku.AI | The vault for your A.I. creations](https://riku.ai/)
 *   [First look - Riku.ai - inference platform Mar/2022 - J1, GPT-3, Fairseq-13B, GPT-NeoX-20B, Cohere-XL - YouTube](https://www.youtube.com/watch?v=t6FESjmPeJ8)
@@ -62,30 +62,30 @@
 
 ### Web frameworks / Isomorphic web frameworks
 
-*   [Weblocks (⭐31)](https://github.com/40ants/reblocks) - A widgets-based framework with a built-in ajax update mechanism that "solves the JavaScript problem". [LLGPL](http://opensource.franz.com/preamble.html).
+*   [Weblocks (⭐35)](https://github.com/40ants/reblocks) - A widgets-based framework with a built-in ajax update mechanism that "solves the JavaScript problem". [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [9. Nginx Resources](/content/fcambus/nginx-resources/README.md)
 
 ### Configuration
 
 *   [Avoiding the Top 10 NGINX Configuration Mistakes](https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/)
-*   [Gixy - Nginx configuration static analyzer (⭐7.5k)](https://github.com/yandex/gixy)
+*   [Gixy - Nginx configuration static analyzer (⭐8k)](https://github.com/yandex/gixy)
 
 ## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [@import-meta-env/unplugin (⭐97)](https://github.com/iendeavor/import-meta-env) - Inject environment variables into the `import.meta.env` object after building the application instead of statically replacing it during production.
+*   [@import-meta-env/unplugin](https://github.com/iendeavor/import-meta-env) - Inject environment variables into the `import.meta.env` object after building the application instead of statically replacing it during production.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-live-reload (⭐58)](https://github.com/arnoson/vite-plugin-live-reload) - Live reloading.
+*   [vite-plugin-live-reload (⭐70)](https://github.com/arnoson/vite-plugin-live-reload) - Live reloading.
 
 ## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-preview-imgs (⭐3)](https://github.com/hzpeng57/vue-preview-imgs) - A picture preview plugin for Vue3
+*   [vue-preview-imgs (⭐6)](https://github.com/hzpeng57/vue-preview-imgs) - A picture preview plugin for Vue3
 
 ## [12. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -97,7 +97,7 @@
 
 ### Contents / Libraries
 
-*   [TorchXRayVision (⭐658)](https://github.com/mlmed/torchxrayvision) - A library for chest X-ray datasets and models. Including pre-trained models.
+*   [TorchXRayVision (⭐687)](https://github.com/mlmed/torchxrayvision) - A library for chest X-ray datasets and models. Including pre-trained models.
 
 ## [14. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 

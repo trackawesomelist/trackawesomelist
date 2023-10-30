@@ -96,20 +96,20 @@ Discussions on bare-bones circuit boards, microprocessors, and bleeding edge har
 
 ## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### Data Structures
+### Data Structures / Text-Based User Interfaces
 
-*   [RoaringBitmap (⭐2.9k)](https://github.com/RoaringBitmap/RoaringBitmap) - Fast and efficient compressed bitmap.
+*   [RoaringBitmap (⭐3.2k)](https://github.com/RoaringBitmap/RoaringBitmap) - Fast and efficient compressed bitmap.
 
-### Distribution
+### Distribution / Text-Based User Interfaces
 
-*   [Getdown (⭐483)](https://github.com/threerings/getdown) - A system for deploying Java applications to end-user computers and keeping them up to date. Developed as an alternative to Java Web Start.
-*   [JavaPackager (⭐680)](https://github.com/fvarrui/JavaPackager) - Maven and Gradle plugin which provides an easy way to package Java applications in native Windows, Mac OS X or GNU/Linux executables, and generate installers for them.
+*   [Getdown (⭐490)](https://github.com/threerings/getdown) - System for deploying Java applications to end-user computers and keeping them up to date. Developed as an alternative to Java Web Start.
+*   [JavaPackager (⭐854)](https://github.com/fvarrui/JavaPackager) - Maven and Gradle plugin which provides an easy way to package Java applications in native Windows, macOS or GNU/Linux executables, and generate installers for them.
 
-### Document Processing
+### Document Processing / Text-Based User Interfaces
 
-*   [fastexcel (⭐460)](https://github.com/dhatim/fastexcel) - High performance library to read and write large Excel (XLSX) worksheets.
+*   [fastexcel (⭐544)](https://github.com/dhatim/fastexcel) - High performance library to read and write large Excel (XLSX) worksheets.
 
-### HTTP Clients
+### HTTP Clients / Text-Based User Interfaces
 
 *   [Google HTTP Client (⭐1.3k)](https://github.com/googleapis/google-http-java-client) - Pluggable HTTP transport abstraction with support for java.net.HttpURLConnection, Apache HTTP Client, Android, Google App Engine, XML, Gson, Jackson and Protobuf.
 
@@ -129,7 +129,7 @@ Discussions on bare-bones circuit boards, microprocessors, and bleeding edge har
 
 ### Applications / Cryptocurrencies
 
-*   [Phala-Network/phala-blockchain (⭐320)](https://github.com/Phala-Network/phala-blockchain) — Confidential smart contract blockchain based on Intel SGX and Substrate
+*   [Phala-Network/phala-blockchain (⭐323)](https://github.com/Phala-Network/phala-blockchain) — Confidential smart contract blockchain based on Intel SGX and Substrate
 
 ## [9. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 16 - Oct 22, 2023
 
-72 awesome lists updated this week.
+71 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,13 +12,7 @@
 
 *   [PETEP (⭐88)](https://github.com/Warxim/petep) - Extensible TCP/UDP proxy with GUI for traffic analysis & modification with SSL/TLS support.
 
-## [2. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
-
-### Contents / Libraries
-
-*   [exome (⭐127)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
-
-## [3. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
+## [2. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
 ### Machine Learning Libraries / Frameworks
 
@@ -28,13 +22,13 @@
 
 *   [Ruby AI Builders Discord](https://discord.gg/zDyFJFBTGB)
 
-## [4. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [3. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Infinite Scroll
 
 *   [@af-utils/virtual (⭐64)](https://github.com/nowaalex/af-utils) - [demo/docs](https://af-utils.vercel.app/virtual) - Render large scrollable lists and grids.
 
-## [5. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [4. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Types / Playground
 
@@ -44,11 +38,17 @@
 
 *   [valibot (⭐3.9k)](https://github.com/fabian-hiller/valibot) - Valibot is a Typescript schema library with static type inference, and it's exceptionally lightweight compared to Zod, with no dependencies.
 
-## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [5. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Crash Courses
 
 *   [Zero to Hero Algorand Ecosystem Onboarding Guide](https://payhip.com/bamboriz) - Speak Fluent Algorand in 24 Hours.
+
+## [6. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/week/README.md)
+
+### Useful links with tips & tricks
+
+*   [How to Use GitHub as a Wiki: Examples & Templates](https://almanac.io/blog/github-wiki-examples-templates)
 
 ## [7. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
@@ -153,6 +153,10 @@
 
 ## [11. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
+### Components & Libraries / Utilities
+
+*   [exome (⭐127)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+
 ### Components & Libraries / UI Components
 
 *   [vue-tailwind-datepicker (⭐157)](https://github.com/elreco/vue-tailwind-datepicker) - A Vue 3 Datepicker using Tailwind CSS 3
@@ -162,13 +166,7 @@
 *   [Stellar UI (⭐7)](https://github.com/ManukMinasyan/stellar-ui) - Fully styled and customizable components for Vue 3.
 *   [TW Elemetns for Vue](https://tw-elements.com/docs/standard/integrations/vue-integration/) -  Vue integration with Tailwind CSS - a free, open-source UI Kit
 
-## [12. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/week/README.md)
-
-### Site Search
-
-*   [Elastic search (⭐0)](https://github.com/firesphere/silverstripe-elastic) - Interface for Elastic search, supports Elasticsearch 8+ version. API similar, identical where possible, to the Solr search module.
-
-## [13. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [12. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Reverse Proxy
 
@@ -178,7 +176,7 @@
 
 *   [uniget (⭐0)](https://github.com/uniget-org/cli) - uni(versal)get, the installer and updater for container tools and beyond (formerly docker-setup). By [@nicholasdille](https://github.com/nicholasdille)
 
-## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Money, Budgeting & Management
 
@@ -188,7 +186,7 @@
 
 *   [rs-short](https://git.42l.fr/42l/rs-short) - A lightweight link shortener written in Rust, with features such as caching, spambot protection and phishing detection. ([Demo](https://s.42l.fr/)) `MPL-2.0` `Rust`
 
-## [15. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [14. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Tools / Ironsworn
 
@@ -196,7 +194,7 @@
 *   [Starforged Custom Oracles Module for FoundryVTT](https://foundryvtt.com/packages/starforged-custom-oracles) - A FoundryVTT compendium of the fan-created oracles for the Ironsworn: Starforged system
 *   [Starsmith Expanded Oracles Module for FoundryVTT](https://foundryvtt.com/packages/starsmith-expanded-oracles) - A FoundryVTT compendium of the Starsmith oracles for the Ironsworn: Starforged system
 
-## [16. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [15. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Deployment Hosting
 
@@ -206,7 +204,7 @@
 
 *   [Sequin](https://sequin.io/) - Interface with third-party services using SQL.
 
-## [17. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [16. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tutorials and Blog Posts / Beginner Guides
 
@@ -224,19 +222,19 @@
 
 *   [Speakeasy](https://www.speakeasyapi.dev/) - Generate a terraform provider from an OpenAPI specification.
 
-## [18. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [17. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Functions
 
 *   [munch](https://hackage.haskell.org/package/base-4.19.0.0/docs/Text-ParserCombinators-ReadP.html#v:munch) - Parser function that greedily consumes an input stream until it's satisfied.
 
-## [19. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [18. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Integration
 
 *   [tailwind-react](https://tw-elements.com/docs/standard/integrations/react-integration/) - Article that shows you how to integrate React application with Tailwind
 
-## [20. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
+## [19. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
 
 ### Open source projects using TypeDB
 
@@ -299,19 +297,19 @@
 *   [LinkedIn](https://www.linkedin.com/groups/13657731/)
 *   [Blog](https://typedb.com/blog)
 
-## [21. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [20. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line utilities
 
 *   [listr2 (⭐398)](https://github.com/listr2/listr2) - Terminal task list.
 
-## [22. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [21. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Machine Learning
 
 *   [Landing AI](https://landing.ai/) - Building computer vision systems in minutes via natural prompting interactions.
 
-## [23. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [22. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Community
 
@@ -363,19 +361,19 @@
 
 *   [ngx-observers (⭐0)](https://github.com/Raiper34/ngx-observers) - Ngx observers is library to allow developer use Resize, Mutation and Intersection observer api like normal output events on some element.
 
-## [24. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [23. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Related / Awesome Lists
 
 *   [Awesome Software Quality (⭐2.1k)](https://github.com/ligurio/sqa-wiki) - A list of free software testing and verification resources.
 
-## [25. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [24. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Apps
 
 *   [StorageBox (⭐10)](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 
-## [26. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [25. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Swift
 
@@ -385,24 +383,25 @@
 
 *   [*Practical Reverse Engineering* by Bruce Dang, Alexandre Gazet, Elias Bachaalany, Sébastien Josse](https://www.wiley.com/en-ca/Practical+Reverse+Engineering%3A+x86%2C+x64%2C+ARM%2C+Windows+Kernel%2C+Reversing+Tools%2C+and+Obfuscation-p-9781118787250)
 
-## [27. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [26. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+
+### Other / [Other](#other-1)
+
+*   [HasMySecretLeaked](https://gitguardian.com/hasmysecretleaked) :copyright: — HasMySecretLeaked is a project from GitGuardian that aims to help individual users and organizations search across 20 million exposed secrets to verify if their  developer secrets have leaked on public repositories, gists, and issues on GitHub projects.
+*   [GitGuardian ggshield](https://www.gitguardian.com/ggshield) — ggshield is a CLI application that runs in your local environment  or in a CI environment to help you detect more than 350+ types of secrets,  as well as other potential security vulnerabilities or policy breaks affecting your codebase.
 
 ### Multiple languages / [Other](#other-1)
 
 *   [BugProve](https://www.bugprove.com) :copyright: — BugProve is a firmware analysis platform featuring both static and dynamic analysis techniques to discover memory corruptions, command injections and other classes or common weaknesses in binary code. It also detects vulnerable dependencies, weak cryptographic parameters, misconfigurations, and more.
 *   [OpenRewrite](https://docs.openrewrite.org/) — OpenRewrite [fixes common static analysis issues](https://docs.openrewrite.org/running-recipes/popular-recipe-guides/common-static-analysis-issue-remediation)  reported through Sonar and other tools using a Maven and Gradle plugin or the Moderne CLI.
 
-### Other / [Other](#other-1)
-
-*   [GitGuardian ggshield](https://www.gitguardian.com/ggshield) — ggshield is a CLI application that runs in your local environment  or in a CI environment to help you detect more than 350+ types of secrets,  as well as other potential security vulnerabilities or policy breaks affecting your codebase.
-
-## [28. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [27. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Text / Chatbots
 
 *   [Phind](https://www.phind.com/) - Phind is an intelligent search engine and assistant for programmers. Phind is smart enough to proactively ask you questions to clarify its assumptions and to browse the web (or your codebase) when it needs additional context. With our new VS Code extension.
 
-## [29. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [28. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Trading & Backtesting
 
@@ -412,7 +411,7 @@
 
 *   [MesoSim Options Trading Strategy Library (⭐1)](https://github.com/deltaray-io/strategy-library) - Free and public Options Trading strategy library for MesoSim.
 
-## [30. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [29. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Blog posts
 
@@ -429,7 +428,7 @@
 *   [Machine Learning with Polars](https://youtube.com/playlist?list=PL6FP7t_F5uo60l16AWCJJHLE6liGPqa7u\&si=uNsH5I7GUojXeJmw) ⏳ 6 videos - A playlist of 6 videos that analyzing and cleaning data using Polars to train machine learning models by [Joram Mutenge](https://www.linkedin.com/in/jorammutenge/).
 *   [Pandas and Polars with Marco Gorelli](https://thebakery.dev/68/) ⏳ `55 min` - A podcast by The Developers' Bakery that compares the performance of Polars to Pandas by [@MarcoGorelli](https://github.com/MarcoGorelli).
 
-## [31. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [30. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### LangChain Framework
 
@@ -461,7 +460,7 @@
 
 *   [Awesome Language Agents (⭐326)](https://github.com/ysymyth/awesome-language-agents): List of language agents based on paper "Cognitive Architectures for Language Agents" ![GitHub Repo stars](https://img.shields.io/github/stars/ysymyth/awesome-language-agents?style=social)
 
-## [32. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [31. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / Theory of Concepts
 
@@ -469,7 +468,7 @@
 
 ### Concepts / AI Concept Representation
 
-*   [ImageBind: One Embedding Space To Bind Them All](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html) - ***CVPR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1657173986906232916\&hl=en\&as_sdt=0,5)]. \[[Project (⭐7.2k)](https://github.com/facebookresearch/ImageBind)]. Cross-modality representation fusion by aligning all other modalities to the visual modality.
+*   [ImageBind: One Embedding Space To Bind Them All](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html) - ***CVPR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1657173986906232916\&hl=en\&as_sdt=0,5)]. \[[Project (⭐7.3k)](https://github.com/facebookresearch/ImageBind)]. Cross-modality representation fusion by aligning all other modalities to the visual modality.
 
 ### Science Logology / Science Education
 
@@ -483,7 +482,7 @@
 
 *   [Song-Chun Zhu](https://zhusongchun.net/) - ***School of AI and Institute for AI, Peking University (PKU)***.
 
-## [33. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [32. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Books
 
@@ -497,13 +496,13 @@
 
 *   [How to: Keycloak - ASP.NET Core - Angular (⭐13)](https://github.com/fschick/Keycloak.ASPNet.Angular)
 
-## [34. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
+## [33. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
 
 ### Software Tools / Analysis Tools
 
 *   [cwe\_checker (⭐957)](https://github.com/fkie-cad/cwe_checker) - Finds vulnerable patterns in binary executables - ELF support for x86, ARM, and MIPS, experimental bare-metal support.
 
-## [35. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [34. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Analytics
 
@@ -528,13 +527,13 @@
 
 *   [Mint (Cinnamon)](https://linuxmint.com/edition.php?id=305) is a beginner friendly distribution.
 
-## [36. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [35. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Web / Scanning / Pentesting
 
 *   [CakeFuzzer (⭐80)](https://github.com/Zigrin-Security/CakeFuzzer) - The ultimate web application security testing tool for CakePHP-based web applications. CakeFuzzer employs a predefined set of attacks that are randomly modified before execution. Leveraging its deep understanding of the Cake PHP framework, Cake Fuzzer launches attacks on all potential application entry points.
 
-## [37. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [36. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Community / Community Chat Rooms
 
@@ -554,13 +553,13 @@
 
 *   [rmk (⭐1)](https://github.com/HaoboGu/rmk): Mechanical keyboard firmware for stm32/rp2040, supports vial/dynamic keymap/eeprom, written in Rust
 
-## [38. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [37. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Utility
 
 *   [dialog (⭐11)](https://github.com/ttytm/dialog) - A cross-platform utility library to open system dialogs - open files, message boxes, color-pickers etc.
 
-## [39. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [38. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / User Interfaces
 
@@ -574,7 +573,7 @@
 
 *   [Waterproof proof language (⭐22)](https://github.com/impermeable/coq-waterproof) - Plugin providing a language for writing proof scripts in a style that resembles non-mechanized mathematical proof.
 
-## [40. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [39. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Open source / Apache License
 
@@ -584,7 +583,7 @@
 
 *   [ironclad](https://ironclad.cx/) - A kernel for several architectures striving for POSIX compatibility, used on several distributions like [Gloire (⭐33)](https://github.com/streaksu/Gloire).
 
-## [41. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [40. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### C bindings
 
@@ -594,25 +593,25 @@
 
 *   [Crystal newsletters](https://crystal-lang.org/#newsletter)
 
-## [42. Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/week/README.md)
+## [41. Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/week/README.md)
 
 ### Online Community
 
 *   [Exercism's Common Lisp track](https://exercism.org/tracks/common-lisp) - An excellent way to learn the language through practice, have your code reviewed, and to discuss solutions with other people.
 
-## [43. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [42. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Utils / Third-party APIs
 
 *   ⭐ [lparallel (⭐9)](https://github.com/sharplispers/lparallel) - A library for parallel programming. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). Originally on [lmj/lparallel (⭐235)](https://github.com/lmj/lparallel).
 
-## [44. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [43. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### End-user applications / XML
 
 *   [tshare (⭐75)](https://github.com/trikko/tshare) - fast file sharing from cli, using transfer.sh
 
-## [45. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [44. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Concurrency
 
@@ -654,7 +653,7 @@
 *   [libenvpp (⭐101)](https://github.com/ph3at/libenvpp) - A modern C++ library for type-safe environment variable parsing. \[Apache-2.0]
 *   [StringZilla (⭐851)](https://github.com/ashvardanian/StringZilla) - the Godzilla of string libraries, splitting, sorting, and shuffling large textual datasets faster than you can say "Tokyo Tower". \[Apache-2.0]
 
-## [46. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [45. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Actors
 
@@ -668,7 +667,7 @@
 
 *   [Async Elixir (⭐113)](https://github.com/Arp-G/async-elixir) - Dive into Elixir's world of concurrency and processes with this interactive Livebook.
 
-## [47. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [46. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### HTML/XML Parsing
 
@@ -678,7 +677,7 @@
 
 *   [ruby-clock (⭐65)](https://github.com/jjb/ruby-clock) - A job scheduler which runs jobs each in their own thread in a persistent process.
 
-## [48. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [47. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Miscellaneous Data Structures and Algorithms
 
@@ -764,7 +763,7 @@
 
 *   [Go with the domain](https://threedots.tech/go-with-the-domain/) - A book showing how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
 
-## [49. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [48. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
@@ -805,7 +804,7 @@
 
 *   [idletea/tokio-socketcan (⭐33)](https://github.com/idletea/tokio-socketcan) \[[tokio-socketcan](https://crates.io/crates/tokio-socketcan)] — Linux SocketCAN support for tokio based on the socketcan crate
 
-## [50. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [49. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Machine Learning / General Purpose Machine Learning
 
@@ -843,24 +842,13 @@
 
 *   [treelite (⭐688)](https://github.com/dmlc/treelite) - Universal model exchange and serialization format for decision tree forests.
 
-## [51. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [50. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
 *   [Verticalize (⭐285)](https://github.com/laurentpayot/verticalize) - Super lightweight function that looks and behaves like a pipe operator.
 
-## [52. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
-
-### Projects / API Management
-
-*   [Gravitee.io API Management (⭐69) (⭐69)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-*   [WSO2 API Manager (⭐766) (⭐766)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
-
-### Projects / API Design
-
-*   [OpenAPI Diff (⭐667) (⭐667)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
-*   [OpenAPI Style Validator (⭐177) (⭐177)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
-*   [Zally (⭐825) (⭐825)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
+## [51. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Documentation
 
@@ -871,31 +859,16 @@
 
 ### Projects / API Gateway
 
-*   [Apinto (⭐972) (⭐972)](https://github.com/eolinker/goku) - A Golang-based microservice gateway that provides dynamic routing, service orchestration, multi-tenancy management, and API access control.
 *   [Kong API Gateway (⭐36k) (⭐36k)](https://github.com/Kong/kong) - A cloud-native, platform-agnostic, and scalable API Gateway that supports plugins for easy integration with third-party services.
 *   [Spring Cloud Gateway (⭐4.2k) (⭐4.2k)](https://github.com/spring-cloud/spring-cloud-gateway) - An API Gateway built on top of the Spring ecosystem, providing advanced routing and filtering features for Spring applications.
 *   [Traefik (⭐45k) (⭐45k)](https://github.com/traefik/traefik) - A modern, open-source API Gateway that is designed to handle dynamic container environments such as Kubernetes, Docker Swarm, and Mesos. It provides load balancing, SSL/TLS termination, rate limiting, circuit breaking, and more.
 
 ### Projects / API Testing
 
-*   MQ clients
-    *   [JMSToolBox (⭐180) (⭐180)](https://github.com/jmstoolbox/jmstoolbox) - Universal JMS client designed to interact with a wide range of JMS-based message brokers.
-    *   [kcat (⭐5k) (⭐5k)](https://github.com/edenhill/kcat) - Generic non-JVM producer and consumer for Apache Kafka, functioning as a netcat for Kafka.
-    *   [MQTT Explorer (⭐2.5k) (⭐2.5k)](https://github.com/thomasnordquist/MQTT-Explorer) - All-round MQTT client with a structured topic overview, suitable for debugging and testing MQTT-based systems.
-    *   [Offset Explorer](https://www.kafkatool.com) - GUI application for managing and using Apache Kafka clusters, formerly known as Kafka Tool.
-    *   [Service Bus Explorer (⭐1.8k) (⭐1.8k)](https://github.com/paolosalvatori/ServiceBusExplorer) - GUI app for Azure Service Bus, offering advanced features like import/export functionality and the ability to test topic, queues, subscriptions, relay services, notification hubs, and events hubs.
-*   Mocking tools
-    *   [Microcks (⭐987) (⭐986)](https://github.com/microcks/microcks) - Open-source Kubernetes-native tool for API mocking and testing, supporting AsyncAPI, OpenAPI, Postman Collections, etc.
-    *   [Mockable](https://www.mockable.io/) - Simple configurable service to mock out RESTful API or SOAP web-services.
-    *   [Mockoon (⭐5.4k) (⭐5.4k)](https://github.com/mockoon/mockoon) - Easy-to-use tool for designing and running mock REST APIs.
-    *   [MockServer (⭐4.2k) (⭐4.3k)](https://github.com/mock-server/mockserver) - Easy mocking of any system you integrate with via HTTP or HTTPS.
-    *   [Mocky (⭐1.9k) (⭐2k)](https://github.com/MockyAbstract/Mocky) - Free and unlimited online service for generating custom HTTP responses.
-    *   [Prism (⭐3.7k) (⭐3.8k)](https://github.com/stoplightio/prism) - Open-source HTTP mock server that can mimic your API's behavior as if you already built it.
-    *   [WireMock (⭐5.7k) (⭐5.8k)](https://github.com/tomakehurst/wiremock) - Mock your APIs for fast, robust, and comprehensive testing.
 *   Testing tools and frameworks
     *   [Apache JMeter (⭐7.4k) (⭐7.4k)](https://github.com/apache/jmeter) - Open-source Java-based load testing tool that can be used to test the performance and scalability of web applications, databases, and other network services.
     *   [Gatling (⭐6k) (⭐6.1k)](https://github.com/gatling/gatling) - An open-source load testing tool that allows users to write and run load tests as code, providing detailed performance reports to optimize system performance.
-    *   [Karate (⭐7.3k) (⭐7.4k)](https://github.com/intuit/karate) - Open-source tool that combines API test-automation, mocks, performance-testing, and even UI automation into a single, unified framework.
+    *   [Karate (⭐7.4k) (⭐7.4k)](https://github.com/intuit/karate) - Open-source tool that combines API test-automation, mocks, performance-testing, and even UI automation into a single, unified framework.
     *   [Pyresttest (⭐1.1k) (⭐1.1k)](https://github.com/svanoort/pyresttest) - Java DSL for easy testing of REST services.
     *   [REST Assured (⭐6.5k) (⭐6.5k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
     *   [Schemathesis (⭐1.8k) (⭐1.9k)](https://github.com/schemathesis/schemathesis) - Python library for property-based testing of API schemas.
@@ -905,12 +878,10 @@
 
 *   [Drools (⭐5.5k) (⭐5.5k)](https://github.com/apache/incubator-kie-drools) - Open-source tool that supports Decision Model and Notation (DMN) models at Conformance level 3 with an Eclipse IDE plugin for core development.
 *   [NxBRE (⭐128) (⭐128)](https://github.com/ddossot/NxBRE) - Open-source rule engine specifically designed for the .NET platform.
-*   [OpenL Tablets (⭐131) (⭐131)](https://github.com/openl-tablets/openl-tablets) - Open-source business rules engine (BRE, BRMS) and decision management system that allows users to define, manage, and execute business rules and decision tables.
 
 ### Projects / Data Mapping Solution
 
 *   [AltasMap (⭐165) (⭐165)](https://github.com/atlasmap/atlasmap) - A web-based data mapping solution that simplifies integration between Java, XML, CSV, and JSON data sources. Its interactive user interface makes configuring integrations easy.
-*   [JSLT (⭐568) (⭐568)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
 
 ### Projects / ESB
 
@@ -929,16 +900,12 @@
 *   [Apache Kafka (⭐26k) (⭐26k)](https://github.com/apache/kafka) - A distributed messaging system designed for high-throughput and fault-tolerance. Enables real-time data processing and stream processing applications with its distributed architecture and efficient data storage.
 *   [BlazingMQ (⭐2.3k) (⭐2.3k)](https://github.com/bloomberg/blazingmq) - A distributed message queueing platform with a focus on efficiency, reliability, and a rich feature set for modern-day workflows.
 *   [Centrifugo (⭐7.4k) (⭐7.4k)](https://github.com/centrifugal/centrifugo) - An open-source, scalable real-time messaging server that allows you to build interactive applications where events are delivered to online users with minimal delay.
-*   [Redpanda (⭐7.8k) (⭐7.9k)](https://github.com/vectorizedio/redpanda) - A streaming platform that is Kafka-compatible and does not require Zookeeper or JVM. Offers high-performance and low-latency messaging and supports stream processing and analytics.
 
 ### Projects / Workflow engine
 
 *   [Apache Airflow (⭐32k) (⭐32k)](https://github.com/apache/airflow) - A platform that allows you to create, schedule, and monitor workflows programmatically, making it easier to manage and automate complex data pipelines.
-*   [Bonita (⭐140) (⭐140)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
 *   [Conductor (⭐11k) (⭐11k)](https://github.com/Netflix/conductor) - A cloud-based orchestration engine designed to run and manage workflows in a microservices architecture.
-*   [Elsa Core (⭐5k) (⭐5.1k)](https://github.com/elsa-workflows/elsa-core) - A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments.
 *   [Flowable (⭐6.8k) (⭐6.8k)](https://github.com/flowable/flowable-engine) - A set of open-source business process engines that are compact and efficient, making it easier to automate business processes in a scalable and reliable way.
-*   [Temporal (⭐8.2k) (⭐8.3k)](https://github.com/temporalio/temporal) - An open-source platform that uses a workflow-as-code approach to make your applications more reliable and scalable.
 
 ### Resources / API Specification
 
@@ -947,16 +914,16 @@
 ### Resources / Data Formats
 
 *   [NDJSON (⭐590) (⭐590)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
-*   [Protocol Buffers (⭐61k) (⭐61k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
+*   [Protocol Buffers (⭐61k) (⭐62k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
 *   [YAML (⭐271) (⭐271)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [53. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [52. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Models
 
 *   [Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/) (October, 2023)
 
-## [54. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [53. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
@@ -987,13 +954,13 @@
 *   [Kriptonio](https://kriptonio.com/) - Pinning service & Web3 Platform for building Web3 apps.
 *   [Spheron](https://spheron.network) - Spheron offers IPFS pinning service and dedicated gateways.
 
-## [55. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [54. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Theory
 
 *   [Complex Systems (⭐90)](https://github.com/sellisd/awesome-complexity#readme) - The scientific field studying systems with multiple interacting parts and emergent properties.
 
-## [56. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [55. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vanilla
 
@@ -1004,89 +971,13 @@
 *   [monorepo-template-react (⭐39)](https://github.com/stormkit-io/monorepo-template-react) - React + Typescript template for SSR, SPG, SPA and API provision.
 *   [vite-react-dapp-template (⭐0)](https://github.com/huseyindeniz/vite-react-dapp-template) - Starter template for decentralized app frontend development with preconfigured Wallet Authentication, i18n and UI features.
 
-## [57. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Libraries/Frameworks / Logging
-
-*   [Foso/Cabret-Log (⭐192)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
-
-### Libraries/Frameworks / Mail
-
-*   [bluefireoly/SimpleKotlinMail (⭐58)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
-
-### Projects / Web
-
-*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
-
-### Projects / Build tools
-
-*   [gradle/kotlin-dsl-samples (⭐3.7k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
-*   [nebula-plugins/nebula-kotlin-plugin (⭐57)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
-
-### Projects / Misc
-
-*   [kpspemu/kpspemu (⭐69)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
-*   [chrislo27/RhythmHeavenRemixEditor (⭐421)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
-
-### Projects / Desktop
-
-*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
-
-### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
-
-### Projects / Android
-
-*   [skydoves/githubfollows (⭐295)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
-
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-
-### Android / Projects
-
-*   [hanjoongcho/aaf-easyphotomap (⭐39)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
-*   [mustafaberkaymutlu/uv-index (⭐67)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
-*   [hanjoongcho/aaf-easypassword (⭐34)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
-
-### Android / Extensions
-
-*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
-
-### Android / Tests
-
-*   [agoda-com/Kakao (⭐1.1k)](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
-
-### Kotlin JavaScript / JavaScript
-
-*   [pixijs/pixi-native (⭐85)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
-*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
-*   [Foso/MpApt (⭐238)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
-
-### Kotlin JavaScript / Build Tools
-
-*   [Kotlin/kotlin-frontend-plugin (⭐567)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
-
-### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐319)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-### Kotlin Native / Projects
-
-*   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
-
-## [58. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [56. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Utilities
 
 *   [warcdb (⭐378)](https://github.com/florents-Tselai/warcdb) - A command line utility (Python) for importing WARC files into a SQLite database. *(Stable)*
 
-## [59. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [57. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Family
 
@@ -1272,9 +1163,6 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 4 |       12 |  60m |
-
-### Party
-
 ### [Contigo](https://boardgamegeek.com/boardgame/2545/contigo)
 
 > This game in the 3M Bookshelf Series is a cross between Mancala (a.k.a. Warri, Oh-Wah-Ree, Kalah) and more traditional Checkers-like games. It is played by four players according to the original rules, but can be adapted to be played by just two (the three-player game would be unbalanced).The 6x6 board is surrounded by Mancala-like pits, where pebbles are moved. The number of pebbles in a row/column/diagonal's pits controls how the pawns on the board move.Two sets of rules are supplied: the Alignment game, where you are trying to be the first to align four of your pawns in any six-space row --either horizontally, vertically or diagonally-- without opposing pawns between them, and the more advanced Capture game, where you're trying to capture your opponents' key pawns (kings, really).
@@ -1284,6 +1172,9 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 4 |       12 |  45m |
+
+### Party
+
 ### [Jenga](https://en.wikipedia.org/wiki/Jenga)
 
 > Jenga is a game of physical skill created by British board game designer and author Leslie Scott and marketed by Hasbro. Players take turns removing one block at a time from a tower constructed of 54 blocks.
@@ -1556,9 +1447,6 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   1 - 4 |       10 | 45-90m |
-
-### Contribute
-
 ### [Space Alert](https://boardgamegeek.com/boardgame/38453/space-alert)
 
 > Space Alert is a cooperative team survival game. Players become crew members of a small spaceship scanning dangerous sectors of the galaxy. The missions last just 10 real-time minutes (hyperspace jump, sector scan, hyperspace jump back) and the only task the players have is to protect their ship. During play, the central computer will announce the presence of various threats on one of the supplied 10 minute soundtracks that also acts as a game timer. The threats vary from space battleships and interceptors to different interstellar monsters and abominations, asteroids or even intruders and malfunctions on the spaceship. Players have to agree who will take care of which task and coordinate their actions (moving around the ship, firing weapons, distributing energy, using battlebots to deal with intruders, launching guided missiles, etc.) in real time to defend the ship. Only a well-working team can survive 10 minutes and make the jump back to safety. The game offers several difficulty levels, huge variability and a unique experience for one to five player teams. One mission lasts only about 30 minutes, including setup and evaluation.
@@ -1569,15 +1457,13 @@
 | ------: | -------: | ---: |
 |   1 - 5 |       12 |  30m |
 
-Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
-
-## [60. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [58. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
 *   [tmux-spotify-playlists (⭐11)](https://github.com/danjeltahko/spotify-tmux) Another Spotify plugin, but for saving and playing your favorite playlists
 
-## [61. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
+## [59. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
 
 ### Books and Resources
 
@@ -1585,258 +1471,450 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Customization
 
-*   [LS\_COLORS (⭐1.9k)](https://github.com/trapd00r/LS_COLORS) - A collection of LS\_COLORS definitions
+*   [LS\_COLORS (⭐1.9k)](https://github.com/trapd00r/LS_COLORS) - A collection of LS\_COLORS definitions.
 
 ### Shell Script Development
 
-*   [bashunit (⭐119)](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts
+*   [bashunit (⭐119)](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts.
 
-## [62. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [60. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### IDE
 
 *   [Querybook (⭐1.6k)](https://github.com/pinterest/querybook) - Querybook is a Pinterest open-source Big Data Querying UI, combining collocated table metadata and a simple notebook IDE interface.
 
-## [63. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [61. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Tools & Scripts / AI
 
 *   [Chat with Wardley YouTube content](https://wardleygpt.streamlit.app/) - Have a chat with all of Simon's YouTube content.
 
-## [64. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [62. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
-### Algorithms & Data Structures
+### C++ / Non-X86
 
-*   [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) - Jeff Erickson (PDF)
-*   [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/) - Robert Sedgewick, Kevin Wayne
-*   [Learning Algorithm](https://riptutorial.com/Download/algorithm.pdf) - Compiled from StackOverflow documentation (PDF)
+*   [Learn C++ Programming Language](http://www.tutorialspoint.com/cplusplus/cpp_tutorial.pdf) - Tutorials Point (PDF)
 
-### Artificial Intelligence
+### Go / Phoenix
 
-*   [Artificial Intelligence and the Future for Teaching and Learning](https://www2.ed.gov/documents/ai-report/ai-report.pdf) - Office of Educational Technology (PDF)
-*   [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cam Davidson-Pilon (HTML, Jupyter Notebook)
+*   [An Introduction to Programming in Go](https://www.golang-book.com/books/intro) - Caleb Doxsey
+*   [Golang tutorial series](https://golangbot.com/learn-golang-series/) - Naveen Ramanathan
 
-### Computer Science
+### iOS / Bootstrap
 
-*   [Computer Science Class XI](https://cbseacademic.nic.in/web_material/doc/cs/1_Computer-Science-Python-Book-Class-XI.pdf) - CBSE (PDF)
-*   [Computer Science Class XII](https://cbseacademic.nic.in/web_material/doc/cs/2_Computer_Science_Python_ClassXII.pdf) - CBSE (PDF)
-*   [Pull Requests and Code Review](https://scs.tl/book-pr) – Sebastien Castiel
+*   [Xcode Tutorial for Beginners](https://codewithchris.com/xcode-tutorial) - Chris Ching
 
-### Graphics Programming
+### MySQL / PicoLisp
 
-*   [OpenGL](https://www.songho.ca/opengl/index.html) - Concepts and illustrations
-*   [Tutorials for modern OpenGL](https://www.opengl-tutorial.org)
+*   [Learning MySQL](https://riptutorial.com/Download/mysql.pdf) - Compiled from StackOverflow Documentation (PDF)
 
-### Graphical User Interfaces
+### SQL (implementation agnostic) / Play Scala
 
-*   [GUI development with Relm4](https://relm4.org/book/stable/) - Aaron Erhardt
-*   [Search User Interfaces](https://searchuserinterfaces.com/book/) - Marti A. Hearst
+*   [Learning SQL](https://riptutorial.com/Download/sql.pdf) - Compiled from StackOverflow Documentation (PDF)
 
-### IDE and editors
+### SQL Server / Play Scala
 
-*   [A Byte of Vim](https://www.swaroopch.com/notes/vim/) - Swaroop (PDF)
-*   [Learn Vim Progressively](https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/) - Yann Esposito
-*   [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com) - Steve Losh
-*   [The Craft of Text Editing or A Cookbook for an Emacs](https://www.finseth.com/craft/) - Craig A. Finseth (HTML, PDF, ePUB, Kindle, PostScript, LaTeX)
-*   [Vi Improved -- Vim](https://www.truth.sk/vim/vimbook-OPL.pdf) - Steve Oualline (PDF)
-*   [Vim Regular Expressions 101](https://vimregex.com) - Oleg Raisky
-*   [Visual Studio .NET Tips and Tricks](https://www.infoq.com/minibooks/vsnettt) - Minh T. Nguyen (PDF)
+*   [Learning Microsoft SQL Server](https://riptutorial.com/Download/microsoft-sql-server.pdf) - Compiled from StackOverflow Documentation (PDF)
 
-### Information Retrieval
+## [63. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
 
-*   [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
+### Pricing
 
-### Licensing
+*   `#free`
+*   `#freemium`
+*   `#paid`
 
-*   [The Public Domain: Enclosing the Commons of the Mind](https://www.thepublicdomain.org/download/) - James Boyle
+### 3D
 
-### Machine Learning
+*   [Alpha3D](https://www.alpha3d.io/) - Alpha3D is a revolutionary generative AI-powered platform that transforms 2D images into high-quality 3D assets at scale. `#paid`
+*   [GET3D-Nvidia](https://nv-tlabs.github.io/GET3D/) - Generative 3D Textured Shapes from Images. `#free`
+*   [Meshy](https://www.meshy.ai) - Create Stunning 3D Game Assets with AI `#free`
+*   [Pixela AI](https://pixela.ai/) - AI-generated game textures. Share yours with the community! `#free`
+*   [StudioGPT by Latent Labs](https://www.latentlabs.art/) - Reimagine Your Visual Designs with AI-Powered Creativity. `#paid`
 
-*   [A Brief Introduction to Neural Networks](https://www.dkriesel.com/en/science/neural_networks)
-*   [Deep Learning](https://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio, Aaron Courville
-*   [Dive into Deep Learning](https://d2l.ai)
-*   [Gaussian Processes for Machine Learning](https://www.gaussianprocess.org/gpml/) - Carl Edward Rasmussen, Christopher K.I. Williams
-*   [Introduction to Machine Learning](https://arxiv.org/abs/0904.3664v1) - Amnon Shashua
-*   [Machine Learning](https://www.intechopen.com/books/machine_learning)
-*   [Machine Learning, Neural and Statistical Classification](https://www1.maths.leeds.ac.uk/~charles/statlog/) - D. Michie, D.J. Spiegelhalter, C.C. Taylor
-*   [Probabilistic Models in the Study of Language](https://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
+### Art
 
-### Mathematics
+*   [BlueWillow](https://www.bluewillow.ai) - Prompt based AI image generating tool for logos, characters, digital artwork, etc. `#free`
+*   [Easy-Peasy.ai](https://easy-peasy.ai) - AI copywriting tools to help you tell your story in the most engaging way. `#freemium`
+*   [Dall-E 3](https://openai.com/dall-e-3) - AI image generator accesible Microsoft's Bing Chat and Bing Image Creator `#free`
+*   [PixAI.Art](https://pixai.art) - AI art generator designed specifically for creating anime-inspired artwork `#free`
 
-*   [Advanced Algebra](https://www.math.stonybrook.edu/~aknapp/download/a2-alg-inside.pdf) - Anthony W. Knapp (PDF)
-*   [Basic Algebra](https://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf) - Anthony W. Knapp (PDF)
-*   [Basics of Algebra, Topology, and Differential Calculus](https://www.cis.upenn.edu/~jean/math-basics.pdf) (PDF)
-*   [Calculus Made Easy](https://www.gutenberg.org/ebooks/33283) - Silvanus P. Thompson (PDF)
-*   [CK-12 Probability and Statistics - Advanced](https://www.ck12.org/book/Probability-and-Statistics---Advanced-%2528Second-Edition%2529/)
-*   [Collaborative Statistics](https://cnx.org/contents/5e0744f9-9e79-4348-9237-ed012213a2d6%4040.9)
-*   [Computational Geometry](https://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/)
-*   [Discrete Mathematics: An Open Introduction](https://discrete.openmathbooks.org/dmoi3.html) - Oscar Levin
-*   [Essentials of Metaheuristics](https://cs.gmu.edu/~sean/book/metaheuristics/) - Sean Luke
-*   [Introduction to Probability and Statistics Spring 2014](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
-*   [Introduction to Statistical Thought](https://people.math.umass.edu/~lavine/Book/book.html) - Michael Lavine
-*   [Lecture Notes of Linear Algebra](https://home.iitk.ac.in/~psraj/mth102/lecture_notes.html) - Dr. P. Shunmugaraj, IIT Kanpur (PDF)
-*   [Mathematical Logic - an Introduction](https://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
-*   [Mathematics, MTH101A](https://home.iitk.ac.in/~psraj/mth101/) - P. Shunmugaraj, IIT Kanpur
-*   [Online Statistics Education](https://onlinestatbook.com) - David Lane
-*   [Statistics Done Wrong](https://www.statisticsdonewrong.com) - Alex Reinhart
-*   [Think Bayes: Bayesian Statistics Made Simple](https://www.greenteapress.com/thinkbayes/) - Allen B. Downey
-*   [Think Stats: Probability and Statistics for Programmers](https://greenteapress.com/thinkstats/) - Allen B. Downey (using Python)
-*   [Vector Calculus](https://www.mecmath.net) - Michael Corral
+### Audio Editing
 
-### Mathematics For Computer Science
+*   [Audiogen](https://www.audiogen.co/) - Elevate Your Creations with AI-Generated Sounds `#freemium`
+*   [Krisp](https://krisp.ai) - Krisp's AI removes background noise & echo from meetings `#freemium`
+*   [VideoDubber](https://videodubber.ai) - Offers free video translation, dubbing, voice cloning, and text-to-speech services. `#freemium`
 
-*   [Discrete Structures for Computer Science: Counting, Recursion, and Probability](https://cglab.ca/~michiel/DiscreteStructures/) - Michiel Smid
+### Avatars
 
-### Misc
+*   [Ascendant Art](https://apps.apple.com/us/app/ascendant-art-ai-avatars/) - Utilizes artificial intelligence to enable users to craft personalized avatar images. `#paid`
+*   [Never AI](https://www.never.tech) - Unlock Your Imagination with Never's Hyper-Realistic AI Images. `#paid`
+*   [Staf](https://www.staf.ai/) - Streamline Your Business with Curated AI Solutions `#paid`
 
-*   [A MACHINE MADE THIS BOOK ten sketches of computer science](https://ocaml-book.com/s/popbook.pdf) - JOHN WHITINGTON (PDF)
-*   [Asterisk™: The Definitive Guide](https://solmu.org/pub/help/Asterisk/3nd_Edition_for_Asterisk_1.8) - Leif Madsen, Jim Van Meggelen, Russell Bryant (HTML)
-*   [Barcode Overview](https://www.tec-it.com/download/PDF/Barcode_Reference_EN.pdf) (PDF)
-*   [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts](https://www.wisdom.weizmann.ac.il/~playbook/) - David Harel, Rami Marelly
-*   [Confessions of an Unintentional CTO: Lessons in Growing a Web App](https://www.jackkinsella.ie/books/confessions_of_an_unintentional_cto) - Jack Kinsella
-*   [DevDocs](https://devdocs.io) - Documents for Developers in 1 place
-*   [Digital Signal Processing For Communications](https://www.sp4comm.org) - Paolo Prandoni, Martin Vetterli
-*   [Digital Signal Processing For Engineers and Scientists](https://www.dspguide.com) - Steven W. Smith
-*   ["DYNAMIC LINKED LIBRARIES": Paradigms of the GPL license in contemporary software](https://www.lulu.com/shop/http://www.lulu.com/shop/luis-enr%C3%ADquez-a/dynamic-linked-libraries-paradigms-of-the-gpl-license-in-contemporary-software/ebook/product-21419788.html) - Luis A. Enríquez
-*   [Hacknot: Essays on Software Development](https://www.lulu.com/shop/ed-johnson/hacknot-essays-on-software-development/ebook/product-17544641.html) - Ed Johnson
-*   [How Computers Work](https://www.fastchip.net/howcomputerswork/p1.html) - R. Young
-*   [How to Think Like a Computer Scientist](https://openbookproject.net/thinkcs/) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey, Chris Meyers
-*   [Image Processing in C: Analyzing and Enhancing Digital Images](https://homepages.inf.ed.ac.uk/rbf/BOOKS/PHILLIPS/) - Dwayne Phillips
-*   [Linked Data Patterns: A pattern catalogue for modelling, publishing, and consuming Linked Data](https://patterns.dataincubator.org/book/) - Leigh Dodds, Ian Davis
-*   [Modeling Reactive Systems with Statecharts](https://www.wisdom.weizmann.ac.il/~harel/reactive_systems.html) - D. Harel, M. Politi
-*   [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/) - David Easley, Jon Kleinberg
-*   [Philosophy of Computer Science](https://www.cse.buffalo.edu/~rapaport/Papers/phics.pdf) (PDF)
-*   [Programming with Unicode](https://unicodebook.readthedocs.org)
+### Chatbots
 
-### Networking
+*   [Bard](https://bard.google.com/) - An experimental AI chatbot by Google, powered by the LaMDA model. `#free`
+*   [Bing Chat](https://www.bing.com/chat) - A conversational AI language model powered by Microsoft Bing. `#free`
+*   [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them. `#freemium`
+*   [ChatGPT](https://chat.openai.com/chat) - ChatGPT by OpenAI is a large language model that interacts in a conversational way. `#freemium`
+*   [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF. `#free`
+*   [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation. `#freemium`
+*   [MediSearch](https://medisearch.io) - This tool is a medical AI chatbot which gives you direct science-based answers to medical questions `#free`
+*   [Smitty](https://www.smitty.ai/) - Streamlining processes and providing agile, efficient responses to your unique business needs. `#freemium`
 
-*   [An Introduction to Computer Networks](https://intronetworks.cs.luc.edu) (HTML, PDF, Kindle)
-*   [Bits, Signals, and Packets: An Introduction to Digital Communications and Networks](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/readings/)
-*   [Code Connected vol.1](https://hintjens.wdfiles.com/local--files/main%3Afiles/cc1pe.pdf) (PDF) (book on ZeroMQ)
-*   [Computer Networks](https://kanchiuniv.ac.in/coursematerials/VINODKUMAR_COMPUTER_NETWORKS.pdf) - J.Vinoth kumar (PDF)
-*   [Distributed systems for fun and profit](https://book.mixu.net/distsys/single-page.html)
-*   [HTTP2 Explained](https://daniel.haxx.se/http2/) - Daniel Stenberg
-*   [ZeroMQ Guide](https://zguide.zeromq.org)
+### Code Assistant
 
-### Open Source Ecosystem
+*   [Bugasura](https://bugasura.io/) - Bug tracker designed to streamline the reporting, tracking, and closing of bugs for modern technology teams. `#freemium`
+*   [Codeium](https://codeium.com/) - AI-powered code acceleration toolkit to code smarter, not harder. `#free`
+*   [Copilot](https://github.com/features/copilot) - AI assistant that speeds up delivery and keeps your code safe `#paid`
+*   [Cursor.sh](https://cursor.sh) - This tool uses GPT-4 to help you code that increases productivity `#freemium`
+*   [Devassistant.ai](https://devassistant.ai/) - Your AI Co-Programmer for Efficient Development `#paid`
+*   [Lintrule](https://www.lintrule.com/) - Supercharge Code Reviews and Policy Enforcement `#paid`
+*   [Safurai](https://www.safurai.com/) - The AI Code Assistant that really helps developers. `#free`
+*   [Tabnine](https://www.tabnine.com/) - Tabnine helps developers write code faster, in any IDE. `#freemium`
 
-*   [Data Journalism Handbook](https://datajournalismhandbook.org)
-*   [Free Software, Free Society: Selected Essays of Richard M. Stallman](https://shop.fsf.org/product/free-software-free-society-2/)
-*   [Getting Started with InnerSource](https://www.oreilly.com/programming/free/getting-started-with-innersource.csp) (email address *requested*, not required)
-*   [Getting started with Open source development](https://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf) (PDF)
-*   [Innovation Happens Elsewhere](https://dreamsongs.com/IHE/IHE.html) - Ron Goldman, Richard P. Gabriel
-*   [Producing Open Source Software](https://producingoss.com) - Karl Fogel
-*   [The Architecture of Open Source Applications: Vol. 1: Elegance, Evolution, and a Few Fearless Hacks; Vol. 2: Structure, Scale, and a Few More Feerless Hacks](https://www.aosabook.org/en/index.html)
-*   [The Art of Community](https://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf) - Jono Bacon (PDF)
-*   [The Future of the Internet](https://futureoftheinternet.org) - Jonathan Zittrain
-*   [The Open Source Way](https://www.theopensourceway.org/book/)
-*   [The Wealth of Networks: How Social Production Transforms Markets and Freedom](https://cyber.law.harvard.edu/wealth_of_networks/Main_Page) - Yochai Benkler
+### Copywriting
 
-### Operating Systems
+*   [Heroguide](https://www.heroguide.ai/) - Craft your unique brand message effortlessly with the Heroguide. `#free`
+*   [SmartBird](https://smartbird.ai/) - SmartBird: Your AI Assistant for Effortless Communication `#paid`
 
-*   [A short introduction to operating systems (2001)](https://markburgess.org/os/os.pdf) - Mark Burgess (PDF)
-*   [Computer Science from the Bottom Up](https://www.bottomupcs.com) - Ian Wienand (PDF)
-*   [How to write a simple operating system in assembly language](https://mikeos.sourceforge.net/write-your-own-os.html) - Mike Saunders (HTML)
-*   [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) - Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (PDF)
-*   [Practical File System Design: The Be File System](https://www.nobius.org/~dbg/practical-file-system-design.pdf) - Dominic Giampaolo (PDF)
-*   [Project Oberon: The Design of an Operating System, a Compiler, and a Computer](https://people.inf.ethz.ch/wirth/ProjectOberon/index.html) - Niklaus Wirth, Jürg Gutknecht (PDF)
-*   [The Little Book of Semaphores](https://greenteapress.com/semaphores/) - Allen B. Downey (PDF)
-*   [Think OS: A Brief Introduction to Operating Systems](https://www.greenteapress.com/thinkos/index.html) - Allen B. Downey (PDF)
-*   [Writing a Simple Operating System from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) - Nick Blundell (PDF)
+### Customer Support
 
-### Partial Evaluation
+*   [Chatfuel AI](https://chatfuel.com/lite) - AI-powered chatbot platform: elevate customer support and sales `#freemium`
+*   [Doks](https://doks.ai/) - Chatbot creation tool that empowers businesses to train chatbots using their website and documentation content. `#paid`
+*   [Humata AI](https://www.humata.ai/) - ChatGPT for your files. `#free`
 
-*   [Partial Evaluation and Automatic Program Generation](https://www.itu.dk/people/sestoft/pebook/) - Neil D. Jones, C.K. Gomard, Peter Sestoft (PDF)
+### Dating
 
-### Programming
+*   [Dates.ai](https://www.dates.ai) - Dates.ai: Where authenticity meets AI to revolutionize dating, fostering genuine connections in a fraud-free and fair environment. `#free`
+*   [Pickmyline](https://www.pickmyline.online/) - Not able to start conversation even after getting matched? Here is a ChatGPT powered pickup line generator for you!! `#free`
+*   [Yourmove.ai](https://www.yourmove.ai/) - Making conversations easier. So you can spend less time texting, and more time dating. `#freemium`
 
-*   [Introduction to Computer Science](https://www.cse.iitd.ernet.in/~suban/CSL102/) - Prof. Subhashis Banerjee, IIT Delhi
-*   [Introduction to Computing](https://www.computingbook.org) - David Evans
+### Design Assistant
 
-### Theoretical Computer Science
+*   [Feathery](https://ai.feathery.io/) - Users can design forms in seconds without coding or design skills. `#freemium`
+*   [Paintit.ai](https://paintit.ai/interior-ai/) - Paintit.ai is an AI-powered tool that enables users to generate unique AI interior visualizations in minutes `#free`
+*   [AI Site Builder](https://library.relume.io/ai-site-builder) - Create a marketing website for any company in minutes using systems you already love. `#freemium`
 
-*   [Programming Languages: Application and Interpretation (2nd Edition)](https://cs.brown.edu/~sk/Publications/Books/ProgLangs/) - Shriram Krishnamurthi
-*   [Building Blocks for Theoretical Computer Science](https://mfleck.cs.illinois.edu/building-blocks/index.html) - Margaret M. Fleck
-*   [Homotopy Type Theory: Univalent Foundations of Mathematics](https://homotopytypetheory.org/book/) (PDF)
-*   [Introduction to Theory of Computation](https://cglab.ca/~michiel/TheoryOfComputation/) - Anil Maheshwari, Michiel Smid (PDF)
-*   [Models of Computation](https://cs.brown.edu/people/jes/book/) - John E. Savage
-*   [Programming in Martin-Löf's Type Theory](https://www.cse.chalmers.se/research/group/logic/book/) - Bengt Nordstroem
-*   [Semantics with Applications: A Formal Introduction](https://www.cs.ru.nl/~herman/onderwijs/semantics2019/wiley.pdf) - Hanne Riis Nielson, Flemming Nielson (PDF)
+### Developer
 
-### Programming Paradigms
+*   [Mintlify](https://mintlify.com/) - Mintlify: Streamline code documentation with one-click automation for developers, enhancing code clarity and saving time. `#freemium`
 
-*   [Flow based Programming](https://jpaulmorrison.com/fbp/) - J Paul Morrison
-*   [Introduction to Functional Programming](https://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/) - J. Harrison
+### E-Commerce
 
-### Quantum Computing
+*   [Aidaptive](https://aidaptive.com/request-demo) - Predictive personalization engines for eCommerce and Hospitality `#paid`
+*   [Lumiere 3D](https://www.lumiere3d.ai/) - This tool is verified because it is either an established company or has good social media presence `#paid`
 
-*   [Introduction to Classical and Quantum Computing](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf) - Thomas G. Wong (PDF)
+### Sales
 
-### Regular Expressions
+*   [Sellesta](https://sellesta.com/marketplace/) - Revamp your Amazon business with Sellesta AI tools! Keyword Research, Listing Optimization, and Keyword Tracking. Start Free Now! `#freemium`
 
-*   [RexEgg](https://www.rexegg.com)
-*   [The 30 Minute Regex Tutorial](https://www.codeproject.com/Articles/9099/The-Minute-Regex-Tutorial) - Jim Hollenhorst
+### Education
 
-### Reverse Engineering
+*   [ClassPoint AI](https://www.classpoint.io/) - AI tool for teachers to generate questions out of any PowerPoint slide. `#free`
+*   [ClipDish](https://apps.apple.com/us/app/clipdish-simplify-cooking/id1465427291) - AI-Enhanced Recipe Revolution with ClipDish `#paid`
+*   [Education CoPilot](https://educationcopilot.com/) - AI tool helps teachers design their curriculum, lesson plans and activities, and track the progress of their students. `#freemium`
+*   [Formative AI](https://www.formative.com/ai-powered) - AI tool that assists teachers in assessing their students’ work. `#free`
+*   [Gradescope](https://www.gradescope.com/) - AI-powered grading and assessment tool. `#freemium`
+*   [Huxli.ai](https://huxli.ai/) - Elevate Your Writing, Supercharge Your Productivity `#freemium`
+*   [SlidesAI.io](https://www.slidesai.io/) - powerful AI tool that can help teachers create visually appealing and engaging presentations for their classroom teaching instantly. `#freemium`
+*   [Sibyl AI](https://sibyls.ai/) - Provide guidance, insights, and support for individuals at different levels of spiritual exploration, from neophytes to adepts and holistic practitioners. `#paid`
+*   [SocratiQ](https://socratiq.ai/) - The Future of Education, Integrated `#paid`
+*   [Textero.ai AI Essay Writer](https://textero.ai/) - Your reliable AI academic assistant for tasks of any scale. `#free`
 
-*   [BIOS Disassembly Ninjutsu Uncovered 1st Edition](https://bioshacking.blogspot.co.uk/2012/02/bios-disassembly-ninjutsu-uncovered-1st.html) - Darmawan Salihun (PDF)
+### Email Assistant
 
-### Security & Privacy
+*   [Rytr](https://rytr.me/) - AI writing assistant for fast, affordable, high-quality content. `#freemium`
+*   [Zapier](https://zapier.com/blog/best-ai-email-assistant/) - Discover the top AI email assistants that streamline your inbox and supercharge your productivity. `#freemium`
 
-*   [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us)
-*   [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/index.html)
-*   [Intrusion Detection Systems with Snort](https://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf) (PDF)
-*   [OWASP Top 10 for .NET Developers](https://www.troyhunt.com/2011/12/free-ebook-owasp-top-10-for-net.html)
-*   [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html)
+### Experiments
 
-### Software Architecture
+*   [Hey Data](https://heydata.org/) - Personalized prompt framework and shortcut suite for Apple devices that replaces Siri with ChatGPT. `#paid`
 
-*   [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Thomas Fielding
-*   [Best Kept Secrets of Peer Code Review](https://smartbear.com/lp/ebook/collaborator/secrets-of-peer-code-review/)
-*   [Data-Oriented Design](https://www.dataorienteddesign.com/dodmain/dodmain.html)
-*   [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly)
-*   [How to Design Programs](https://www.htdp.org)
-*   [How to Write Unmaintainable Code](https://mindprod.com/jgloss/unmain.html)
-*   [Kanban and Scrum - making the most of both](https://www.infoq.com/minibooks/kanban-scrum-minibook)
-*   [Object-Oriented Reengineering Patterns](https://scg.unibe.ch/download/oorp/) - S. Demeyer, S. Ducasse, O. Nierstrasz
-*   [Scrum and XP from the Trenches](https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2)
-*   [Software Architecture Patterns](https://www.oreilly.com/programming/free/software-architecture-patterns.csp) (email address *requested*, not required)
-*   [Software Engineering for Internet Applications](https://philip.greenspun.com/seia/)
+### Fashion
 
-### Standards
+*   [Artificial Printer](https://artificialprinter.com/) - Print personalized t-shirts. `#free`
+*   [Dressrious](https://www.dressrious.com/) - Offers personalized daily outfit recommendations based on users' wardrobe items, weather conditions, occasions, and color preferences. `#free`
 
-*   [Linux Standard Base](https://refspecs.linuxfoundation.org/lsb.shtml)
+### Finance
 
-### Version Control Systems
+*   [BeeBee AI](https://www.beebee.ai/) - Financial reports and earnings calls become easily understandable with key insights for everyday investors. `#free`
+*   [Coachify](https://coachify.ai/) - Your Personalized Fitness Coach Powered by AI `#paid`
+*   [Coinfeeds](https://chat.coinfeeds.io/) - Your Crypto Chatbot Companion, ask it anything! `#free`
+*   [Durable](https://durable.co/) - Build a website in 30 seconds with AI, leveraging AI-powered design and marketing tools to boost traffic and increase revenue. `#freemium`
+*   [EarningsEdge](https://www.earningsedge.ai/) - Gain the Edge in Competitive Investing `#freemium`
+*   [HoopsAI](https://www.hoopsai.com/) - Offers real-time trading insights and analysis for retail investors. `#free`
+*   [Uptrends.ai](https://app.uptrends.ai/trending) - The first AI stock market news monitoring platform made for DIY investors. Uptrends.ai analyzes chatter to help you find the trends & events that matter. `#paid`
 
-*   [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html) - Mark Lodato
-*   [Conversational Git](https://blog.anvard.org/conversational-git/) - Alan Hohn
-*   [git - the simple guide](https://rogerdudler.github.io/git-guide/) - Roger Dudler (HTML)
-*   [Git for Computer Scientists](https://eagain.net/articles/git-for-computer-scientists/) - Tommi Virtanen
-*   [Git Immersion](https://gitimmersion.com) - Jim Weirich (HTML)
-*   [Git In The Trenches](https://cbx33.github.io/gitt/index.html) - Peter Savage
-*   [Git Notes for Professionals](https://goalkicker.com/GitBook) - Compiled from StackOverflow Documentation (PDF)
-*   [Introduction to Git and Github - Tutorial](https://cse.unl.edu/~cbourke/gitTutorial.pdf) - Dr. Chris Bourke (PDF)
-*   [Learn Git - Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/command-line/introduction) - Tobias Günther
-*   [Pro Git](https://git-scm.com/book/en/) - Scott Chacon, Ben Straub (HTML, PDF, EPUB, Kindle)
-*   [Subversion Version Control](https://ptgmedia.pearsoncmg.com/images/0131855182/downloads/Nagel_book.pdf) - William Nagel (PDF)
-*   [Think Like (a) Git: A Guide for the Perplexed](https://think-like-a-git.net) - Sam Livingston-Gray
+### Fitness
 
-### Web Performance
+*   [Hypereficient](https://hyperficient.org/) - Optimizes workout routines for maximum muscle gain in less time. `#free`
+*   [PPLEGPT](https://pplegpt.vercel.app/) - Your next exercise in seconds `#free`
+*   [Sista.AI](https://sista.ai/fitness-coach) - Personalized workout plans, goal setting, nutrition coaching, injury prevention, mind-body connection, and ongoing support to help you achieve your fitness goals. `#paid`
+*   [Zing Coach](https://zing.body.scan.zingproduction.com/) - AI-powered fitness tool, streamlines the process of evaluating fitness levels `#free`
 
-*   [Book of Speed](https://www.bookofspeed.com) - Stoyan Stefanov
-*   [Designing for Performance](https://designingforperformance.com) - Lara Hogan
-*   [Mature Optimization](https://carlos.bueno.org/optimization/mature-optimization.pdf) - Carlos Bueno (PDF)
+### Fun Tools
 
-## [65. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+*   [BabbleBox](https://babblebox.ai/) - AI tool that enhances conversational experiences by emulating human-like conversations `#free`
+*   [ComicifyAI](https://comicify-ai.vercel.app/) - Turn Text into Captivating Comics with ComicifyAI `#free`
+*   [Dream Interpreter](https://dreaminterpreter.ai/) - Dream interpreter using GPT-3 `#free`
+*   [GreenThumb](https://www.messengerx.io/greenthumb) - Unlock the World of Gardening with Your AI Companion `#free`
+*   [SomniAI](https://somniai.com/) - Offers accurate and personalized interpretations of dreams in seconds. `#free`
+
+### Gaming
+
+*   [Booom.ai](https://joinplayroom.com/games/booom/) - Generate a trivia game using AI `#free`
+
+### General Writing
+
+*   [AIEpics](https://aiepics.com/) - Generates unique and copyright-free poems based on user-entered prompts. #opensource `#free`
+*   [Free Essay Generator](https://academichelp.net/free-essay-generator/) - Assists students and writers in creating high-quality essays effortlessly. `#free`
+*   [Incribo](https://incribo.com/) - Your AI Writing Companion. `#paid`
+
+### Gift Ideas
+
+*   [AICardshop](https://www.aicardshop.com/) - Online platform for unique and personalized AI-generated art gifts for special occasions `#free`
+*   [Almowafir](https://almowafir.com/en/gift-hunter/) - Almowafir AI Gift Hunter finds the best gift for you `#free`
+*   [Botsy AI](https://botsy.ai/) - Recommends top-rated gifts from Amazon.com based on the recipient's interests and preferences. `#free`
+*   [Cool Gift Ideas](https://www.coolgiftideas.io/) - Find the perfect gift for anyone with creative ideas tailored to them. `#free`
+*   [DreamGift](https://dreamgift.ai/) - Discover personalized and unique gift ideas for every occasion. `#free`
+*   [Elf Help](https://www.elfhelp.ai/) - Free personalized gifting ideas for everyone on your list. `#free`
+*   [Giftassistant](https://www.giftassistant.io/) - Giftassistant.io is an AI-powered tool that quickly generates personalized gift ideas for any occasion. `#free`
+*   [Giftastic.ai](https://giftastic.ai/) - Personalized, unique and thoughtful gift recommendations `#free`
+*   [Giftbox](https://www.giftbox.co/) - Personalised gift recommendation for any occasion `#free`
+*   [Giftgenie AI](https://www.giftgenie.ai/) - Gift Genie AI is an AI-powered tool that assists users in finding the perfect gift for their recipient by generating personalized gift recommendations based on a brief description. `#free`
+*   [Gifts Genie](https://gen.gifts/) - Genie takes the stress out of gift-giving with AI-powered birthday gift ideas. `#free`
+*   [Gift Ideas AI](https://www.giftideasai.xyz/) - Provides personalized gift recommendations based on recipients' interests, age, gender, and occasions, making gift-giving effortless and enjoyable. `#free`
+*   [GiftHuntr](https://gifthuntr.com/) - GIft Giver powered by AI `#free`
+*   [Gift Matchr](https://giftmatchr.com/) - Your personal AI gift Assistant `#free`
+*   [Giftmethat](https://www.giftmethat.io/) - Revolutionizing Gift-Giving : GiftMeThat's AI-Powered Platform `#free`
+*   [Imajinn.ai](https://imajinn.ai/portrait) - Imajinn AIP's AI Couple Portrait Canvas is a one-of-a-kind and romantic way to immortalize your love. `#paid`
+*   [Intelli Gift](https://intelli.gift/) - Gift smarter with intelli.gift - The AI-powered gift advisor `#free`
+*   [Lazy Cards](https://lazy.cards/) - Lazy Cards is a convenient and thoughtful service that offers AI-written greeting cards for various occasions `#free`
+*   [Magic Type AI](https://www.magictype.ai/) - Write greetings, poetry and rap lyrics using AI. `#free`
+*   [Outdone](https://www.outdone.io/) - Outdone is a gift recommender that simplifies the process of shopping for special occasions `#free`
+*   [Perfectgift](https://perfectgift.ai/) - PerfectGift.AI is an AI-powered tool that generates personalized gift ideas for any occasion by utilizing advanced Artificial Intelligence algorithms. `#free`
+*   [Santa AI](https://www.santa.artflow.ai/) - Create your own unique Santa video greeting `#free`
+*   [Silly Robot Cards](https://www.sillyrobotcards.com/) - Customized greeting card design with unique touch. `#paid`
+*   [Smart Gift AI](https://smartgiftai.com/) - AI-powered gifting platform `#free`
+*   [Snappy](https://snappygifts.com/home) - Send personalized choices—for any budget or occasion, now or later—and let the recipient pick the gift they want.`#free`
+*   [Spread Positivity Today](https://spreadpositivitytoday.com/) - Send a Note. Spread Joy. `#free`
+*   [Text2present](https://text2present.com/) - Text2present.com is an AI-powered tool that enables users to effortlessly create customized presents for their friends, family, and acquaintances. `#free`
+*   [Write-a-card](https://write-a-card.co/) - Content generation for greeting cards. `#paid`
+*   [Your GiftWhisperer](https://yourgiftwhisperer.com/) - Discover the perfect personlized Gift! `#free`
+
+### HealthCare
+
+*   [Enlitic ](https://enlitic.com/) - an AI-driven application that lets you transform big data into relevant insights that can help you make more accurate, strategic, and timely decisions. `#paid`
+*   [Viz.AI](https://www.viz.ai/) - Offers a wide range of features to help healthcare professionals run their operations more efficiently and accurately. `#paid`
+
+### Human Resources
+
+*   [Cover Letter Copilot](https://coverlettercopilot.ai/) - Your AI-Powered Cover Letter Generator `#freemium`
+*   [Deepbrain AI](https://www.deepbrain.io/) - Innovate HR Process with AI Interview. `#paid`
+*   [ZapHire](https://www.zap-hire.com/) - AI-Powered Recruitment for Data-Driven Hiring. `#free`
+
+### Image Classification
+
+*   [AI or NOT](https://www.aiornot.com) - Determine whether an image has been generated by artificial intelligence or a human `#free`
+
+### Image Editing
+
+*   [Photostockeditor](https://photostockeditor.com/tools/socialmedia-resize) - Intelligence Image Crop/Resize: Perfectly Tailored Social Media Images `#free`
+
+### Image Generator
+
+*   [Ideaogram](https://ideogram.ai/t/trending) - This tool helps us to generate text in a image `#free`
+*   [Kaiber](https://kaiber.ai/) - Tell stories like never before with our advanced AI generation engine `#freemium`
+*   [MergeML](https://mergeml.com/) - Lightning Fast Image Generation `#free`
+*   [Novita.ai](https://novita.ai/) - Novita is your go-to solution for fast and affordable AI image generation. `#paid`
+
+### Interior Designing
+
+*   [AI Room Planner](https://airoomplanner.com/) - Get hundreds of interior design ideas for your room - free with no limit. `#free`
+
+### Legal Assistant
+
+*   [Casetext](https://casetext.com/) - an award-winning legal AI company developing cutting-edge tech for 10+ years. `#paid`
+*   [DoNotPay](https://donotpay.com/) - DoNotPay is an online legal service and chatbot. `#paid`
+*   [Latch](https://www.latchapp.com/) - Latch helps legal teams reduce the time, effort, and cost spent towards negotiating agreements. `#paid`
+
+### Logo Generator
+
+*   [Placeit](https://placeit.net/) - user-friendly design platform that can be used to create logos, mockups, and videos. `#paid`
+*   [Zarla](https://www.zarla.com/) - Zarla uses AI to generate unique logo designs through various prompts. `#free`
+*   [Looka](https://looka.com/) - Use Looka's AI-powered platform to design a logo and build a brand you love. `#free`
+
+### Low Code
+
+*   [LoginLlama](https://loginllama.app/) - Enhance Security with LoginLlama's Suspicious Login Detection `#freemium`
+*   [Luminal](https://www.csv-gpt.com/) - Clean, transform and analyze spreadsheets at lightspeed with AI `#freemium`
+*   [Xero.AI](https://www.xerodotai.com/) - No-Code AI Platform for Simplified Machine Learning `#paid`
+
+### Models
+
+*   [Claude 2](https://claude.ai/) - Talk to Claude, an AI assistant from Anthropic. `#paid`
+*   [Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Gopher by DeepMind is a 280 billion parameter language model. `#free`
+*   [LLaVA](https://llava-vl.github.io/) - Large Language and Vision Assistant #opensource `#free`
+*   [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT-3 and GPT-4 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code. `#freemium`
+*   [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. `#free`
+
+### Music
+
+*   [Riffusion](https://www.riffusion.com/) - Create music from text with styles, instruments, modifiers and genres. `#free`
+
+### Paraphraser
+
+*   [Better Synonyms](https://www.bettersynonyms.com/) - A convenient way to find better synonyms for words in a specific context. `#free`
+*   [Franz AI](https://chrome.google.com/webstore/detail/franz-ai-text-rewriter/lclcncbdhfpolppomniofbkiaaebaefg) - A Chrome extension to rewrite text using OpenAI API. `#free`
+*   [Penelope AI](https://penelope-ai.vercel.app/) - Speed up writing with paraphrasing, summarizing and story generation `#paid`
+*   [Quillbot Paraphraser](https://try.quillbot.com/) - Rewrite text for free. `#freemium`
+*   [Rewriteit AI](https://rewriteit.ai/) - Rewrite with Confidence: Enhance Your Writing with AI Technology `#free`
+*   [StudyCrumb](https://studycrumb.com/paraphrasing-tool) - This essay rephraser can change the wording of any content `#free`
+
+### Presentations
+
+*   [Journey.io](https://journey.io/) - Journey.io is a storytelling platform that enables users to create interactive presentations, combining videos, slides, text, and embeds to captivate their audience. `#freemium`
+
+### Productivity
+
+*   [40h](https://40h.io/) - Map your career path and unlock your potential with the guidance of 40h. `#paid`
+*   [Accountabilabuddy](https://www.summit.im/accountabilabuddy) - Sends simple text reminders to help you stay on track and achieve your objectives. `#free`
+*   [DigestDiff](https://www.digestdiff.com/) - Codebase Insights Without Code Access with DigestDiff `#free`
+*   [Message AI](https://apps.apple.com/us/app/message-ai-gpt-tts/id6448740961) - Transform Text to Speech with Natural Accuracy `#paid`
+*   [Notion](https://www.notion.so/product/ai/) - Access the limitless power of AI, right inside Notion. Work faster. Write better. Think bigger. `#paid`
+*   [Releases Notes](https://www.releasesnotes.dev/) - Effortless Release Notes with Automation. `#free`
+*   [Scribot](https://play.google.com/store/apps/details?id=com.scribot.app) - Efficient Note-Taking with AI `#free`
+*   [Supermanage AI](https://supermanage.ai/) - Effortless prep for your 1-on-1 `#free`
+
+### Prompt Generator
+
+*   [PromptFolder](https://promptfolder.com/) - Allows users to create, save, and explore innovative prompts with features like variables, organization, and sharing. `#free`
+
+### Psychology
+
+*   [Selfgazer](https://www.selfgazer.com/) - Provides psychological tarot readings for users seeking self-exploration and personal insights through classic tarot symbolism. `#free`
+
+### Real Estate
+
+*   [HomeByte](https://homebyte.com/) - Find your dream home with the most advanced home search on the planet. `#free`
+*   [IACrea](https://iacrea.com/) - AI-powered Home Staging Solution `#paid`
+*   [InteriorAI](https://interiorai.com/) - Interior design ideas using Artificial Intelligence `#paid`
+*   [RealtyNinja](https://get.realtyninja.com/ai-listing-description-generator) - AI Listing Description Generator `#free`
+*   [RealtyGenius](https://realtygenius.ai/) - Offers efficient document management and collaboration functionalities for real estate professionals. `#freemium`
+*   [VirtualStagingAI](https://www.virtualstagingai.app/) - Virtually stage in one click `#paid`
+*   [Virtual House Flip](https://www.virtualhouseflip.com/) - Remodel homes using AI for stunning results `#paid`
+*   [Write.homes](https://write.homes/) - The ultimate real estate content creation tool `#free`
+
+### Religion
+
+*   [AstroGPT](https://vedicastrogpt.com/) - AstroGPT is a personalized astrology service that provides expert guidance for love, career, and more. `#free`
+*   [Gita GPT](https://www.gitagpt.in/) - Unlock the Power of AI with the Bhagavad Gita `#free`
+*   [Tarteel](https://www.tarteel.ai/) - Tarteel is an AI-powered Quran companion that helps users improve their recitation and memorization skills by providing real-time feedback, highlighting words, offering translations, and customizable challenges. `#paid`
+*   [Text With Jesus](https://textwith.me/jesus) - Enlightening conversations and a deeper connection to revered biblical figures. `#paid`
+
+### Research
+
+*   [Lime AI](https://www.datalimeai.com/) - AI-powered research assistant for data-related tasks, designed to streamline and simplify data research and analysis processes. `#paid`
+
+### Resume
+
+*   [LoopCV](https://www.loopcv.pro/) - Upload your CV, Select the type of Job You Want, and Press Start! Loopcv will Mass Apply on your behalf Every Single Day `#freemium`
+*   [resumA.I.](https://www.resumai.com/) - resumA.I. is a next generation intelligent resume builder for enabling more effective job applications `#freemium`
+
+### Search Engine
+
+*   [Anse](https://anse.app/) - Your Elegant AI Answer Companion `#paid`
+*   [GPTGO](https://googpt.ai/) - ChatGPT combined with Google search `#free`
+*   [Hai News](https://hai.news/) - Search with generative AI - Hai News `#free`
+
+### SEO
+
+*   [Adaptify](https://www.adaptify.ai/) - Empower Business Success with AI-Powered ChatGPT `#paid`
+
+### Shopping
+
+*   [Shop Guru AI](https://www.shopguru.io/) - Analyze customer reviews, providing you with trusted answers based on specific product information. `#free`
+
+### Social Media
+
+*   [Piggy Magic](https://piggy.to/magic) - Piggy Magic - Social Story Maker `#free`
+*   [StoriAI](https://storiai.com/) - Elevate Your Brand's Social Presence with StoriAI `#paid`
+
+### Spreadsheets
+
+*   [Arcwise AI](https://arcwise.app/ai) - AI Copilot for Spreadsheets `#free`
+*   [CSV-GPT](https://www.csv-gpt.com/) - Enables users to ask natural language questions about their data and receive instant analysis and insights. `#free`
+*   [DataDistillr](https://datadistillr.com/) - Integrating your data has never been easier. `#paid`
+*   [Dataspot](https://dataspot.ai/) - Understand any data instantly using AI `#freemium`
+*   [Excel Formula Bot](https://excelformulabot.com/) - Create Excel formulas in seconds with AI-powered formula generators. `#freemium`
+*   [GPTExcel](https://gptexcel.uk/) - Effortlessly create and understand formulas in Excel and Google Sheets! `#paid`
+*   [Parseur](https://parseur.com/) - Parseur is a powerful data entry software that automates text extraction from emails, PDFs, and other documents, enhancing productivity by eliminating manual data entry. `#freemium`
+*   [SheetAI.app](https://sheetai.app/) - AI-powered tool to quickly generate formulas for Google Sheets. `#freemium`
+*   [SheetGod](https://www.boloforms.com/sheetgod/) - Effortlessly create and understand formulas in Excel and Google Sheets! `#paid`
+
+### SQL
+
+*   [Airops](https://www.airops.com/) - Task-specific AI Apps that go beyond Chat-GPT—run NLP, generate-data-informed content, draft/fix/optimize SQL queries, and more `#free`
+*   [QueryCraft](https://www.querycraft.io/) - AI-Powered Data Query Generator `#free`
+
+### Startup Tools
+
+*   [DeskDay](https://deskday.ai/) - Revolutionizing IT Support for MSPs `#paid`
+*   [Namelix](https://namelix.com/) - Generate short, brandable business names & domain names. `#free`
+*   [Olympia](https://olympia.chat) - AI-powered virtual staffing tool tailored for solopreneurs and bootstrapped startups. `#paid`
+*   [Rasgo](https://www.rasgoml.com/) - Your Self-Service AI Analytics Revolution `#free`
+*   [Sidekick](https://www.jigso.io/lp-sidekick) - Get answers from your apps using natural language. `#free`
+
+### Story Teller
+
+*   [AI Storyboard Generator](https://boords.com/) - Eliminates the need for drawing skills, enabling quick and easy storyboard creation. `#paid`
+*   [Tome](https://beta.tome.app/) - Unlock your best work with AI-powered generative storytelling from Tome. `#free`
+
+### Summarizer
+
+*   [ChatGPT Summary Assistant](https://chrome.google.com/webstore/detail/chatgpt-summary-assistant/nnjcoododbeemlmmhbfmmkbneniepaog) - Free AI-Powered Chrome Extension for Instant Article Summaries `#free`
+*   [Neural Times](https://www.neuraltimes.org/) - Your Unbiased AI-Powered News Source `#free`
+*   [Quill](https://apps.apple.com/us/app/quill-news-digest/id1669557131) - The AI Way to Stay Informed `#free`
+*   [Recall](https://www.recall.wiki/) - Summarize YouTube videos, blog posts, PDFs, articles or any other online content. `#freemium`
+*   [Too Long](https://toolongapp.com/) - Your Article Summarization Companion `#free`
+
+### Text to Speech
+
+*   [Dubverse](https://dubverse.ai/text-to-speech/) - AI-powered text-to-speech with Dubverse is accurate, real, and fast! Type, paste, or upload a document & convert text to speech for free. `#freemium`
+
+### Transcriber
+
+*   [HappySRT](https://www.happysrt.com/) - Generate SRT Files for youtube using AI Technology `#freemium`
+*   [PodPilot](https://www.podpilot.ai/) - PodPilot is an AI tool designed to simplify the process of creating high-quality podcast series for organizations `#paid`
+
+### Travel
+
+*   [PLAN by Ixigo](https://www.ixigo.com/) - Your AI-Powered Travel Planning Companion `#free`
+*   [Travelnaut](https://travelnaut.com/) - Find travel information on attractions, food, culture, and more in one place to prepare the next trip of your dreams `#free`
+*   [WanderGenie](https://www.wandergenie.app/) - Transform the way you explore the world. `#free`
+
+### Video Editing
+
+*   [FineShare FineCam](https://www.fineshare.com/finecam/) - Transform your video calls and recordings with FineShare FineCam's advanced capabilities `#paid`
+
+### Video Generator
+
+*   [Heygen](https://www.heygen.com/) - Create videos from text in minutes with AI-generated avatars and voices. `#freemium`
+*   [Invideo](https://invideo.io/) - InVideo simplifies video creation with ready-made templates. `#freemium`
+*   [Pictory AI](https://pictory.ai/) - Pictory AI is a video creation tool that makes it effortless to produce short videos from your long-form content like scripts, posts `#paid`
+*   [Quickads](https://www.quickads.ai/) - AI Ad Creation Platform for all your Ad Campaigns. `#freemium`
+*   [Vidnoz](https://www.vidnoz.com/) - Use Vidnoz AI and Vidnoz Flex to make winning videos! `#freemium`
+
+### Weather
+
+*   [Atmo Global Forecast](https://earth.atmo.ai/) - Precision Weather Forecasting with AI `#free`
+
+## [64. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### IaaS
 
 *   [4EVERLAND](https://www.4everland.org/) — Compatible with AWS S3 - APIs, interface operations, CLI, and other upload methods, upload and store files from the IPFS and Arweave networks in a safe, convenient, and efficient manner. Registered users can get 6 GB of IPFS storage and 300MB of Arweave storage for free. Any Arweave file uploads smaller than 150 KB are free.
-
-### Security and PKI
-
-*   [HasMySecretLeaked](https://gitguardian.com/hasmysecretleaked) - Search across 20 million exposed secrets in public GitHub repositories, gists, issues,and comments for Free
 
 ### Authentication, Authorization, and User Management
 
@@ -1855,13 +1933,13 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [Markdown Tools](https://markdowntools.com) - Tools for converting HTML, CSVs, PDFs, JSON, and Excel files to and from Markdown
 
-## [66. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [65. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tools
 
 *   [parens-8 (⭐6)](https://github.com/Siapran/parens-8) - Bypass the Lua token limit with a tiny lisp interpreter/compiler.
 
-## [67. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [66. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### General Web Development
 
@@ -1871,7 +1949,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [Obsidian Rocks](https://obsidian.rocks/). Obsidian (the private and flexible writing app that adapts to the way you think) tips and tricks.
 
-## [68. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [67. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Plugin Manager
 
@@ -1883,7 +1961,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Fuzzy Finder / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.pick (⭐2.8k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-pick.md) - Module of `mini.nvim` with general purpose interactive non-blocking picker that has one window design, toggleable preview, flexible and fast default match, and much more.
+*   [echasnovski/mini.nvim#mini.pick (⭐2.9k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-pick.md) - Module of `mini.nvim` with general purpose interactive non-blocking picker that has one window design, toggleable preview, flexible and fast default match, and much more.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -1918,19 +1996,19 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [sontungexpt/stinvim (⭐1)](https://github.com/sontungexpt/stinvim) - Ready Neovim's configuration for fullstack developers.
 
-## [69. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [68. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / General Tools
 
 *   [CleanMyMac X](https://macpaw.com/cleanmymac) - Delete megatons of junk, malware, and make your Mac faster & more organized [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/cleanmymac-x/id1339170533?mt=12)
 
-## [70. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [69. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Discussions and Philosophy / Papers Collections
 
 *   [Redefining Bias: The Human Prejudice Against AI | Medium](https://johnnosta.medium.com/redefining-bias-the-human-prejudice-against-ai-a1f225b0b2c2)
 
-## [71. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [70. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -1939,7 +2017,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 *   [history-sync (wulfgarpro) (⭐212)](https://github.com/wulfgarpro/history-sync) - An [oh-my-zsh](https://ohmyz.sh/) plugin for [GPG](https://www.gnupg.org/) encrypted, Internet synchronized ZSH history using `git`.
 *   [select-with-lf (⭐0)](https://github.com/chmouel/zsh-select-with-lf) - Lets user select files or a directory using [lf (⭐6.4k)](https://github.com/gokcehan/lf).
 
-## [72. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [71. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### LLMs
 
@@ -1947,4 +2025,5 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ---
 
+- Prev: [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 - Next: [Oct 09 - Oct 15, 2023](/content/2023/41/README.md)

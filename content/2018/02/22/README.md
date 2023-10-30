@@ -29,7 +29,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Tamiat CMS (⭐522)](https://github.com/tamiat/tamiat) - Tamiat is a front-end focused CMS, uses Vue.JS as the frontend and integrates with Firebase for the backend functionality.
+*   [Tamiat CMS (⭐520)](https://github.com/tamiat/tamiat) - Tamiat is a front-end focused CMS, uses Vue.JS as the frontend and integrates with Firebase for the backend functionality.
 
 ## [5. Awesome Json](/content/burningtree/awesome-json/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [EventFlow (⭐2.1k)](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET.
+*   [EventFlow (⭐2.2k)](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET.
 
 ### Books / Workflow
 
@@ -67,7 +67,7 @@
 
 ### Command Line Applications
 
-*   [scribe (⭐276)](https://github.com/codedge-llc/scribe) - Pretty-print tables of Elixir structs and maps. Inspired by hirb.
+*   [scribe (⭐279)](https://github.com/codedge-llc/scribe) - Pretty-print tables of Elixir structs and maps. Inspired by hirb.
 
 ### Networking
 
@@ -75,13 +75,13 @@
 
 ### ORM and Datamapping
 
-*   [ecto\_facade (⭐71)](https://github.com/azranel/ecto_facade) - Ecto facade that allows to separate writes and reads to different databases.
+*   [ecto\_facade (⭐70)](https://github.com/azranel/ecto_facade) - Ecto facade that allows to separate writes and reads to different databases.
 
 ## [10. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Tools and frameworks
 
-*   [Muppeteer (⭐66)](https://github.com/HuddleEng/Muppeteer) - Visual regression testing framework for Chrome using [Mocha](https://mochajs.org/) and [Puppeteer (⭐81k)](https://github.com/GoogleChrome/puppeteer).
+*   [Muppeteer (⭐66)](https://github.com/HuddleEng/Muppeteer) - Visual regression testing framework for Chrome using [Mocha](https://mochajs.org/) and [Puppeteer (⭐84k)](https://github.com/GoogleChrome/puppeteer).
 
 ### Online services
 

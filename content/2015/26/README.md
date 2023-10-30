@@ -137,15 +137,15 @@
 
 ### Caching
 
-*   [crystal-memcached (⭐32)](https://github.com/comandeo/crystal-memcached) - Implementation of a memcached client
+*   [crystal-memcached (⭐34)](https://github.com/comandeo/crystal-memcached) - Implementation of a memcached client
 
 ### Database Drivers/Clients
 
-*   [crystal-pg (⭐433)](https://github.com/will/crystal-pg) - A Postgres driver
+*   [crystal-pg (⭐448)](https://github.com/will/crystal-pg) - A Postgres driver
 
 ### HTTP
 
-*   [crul (⭐113)](https://github.com/porras/crul) - Command line HTTP client
+*   [crul (⭐112)](https://github.com/porras/crul) - Command line HTTP client
 
 ### Testing
 
@@ -175,20 +175,20 @@
 
 ### Algorithms and Data structures
 
-*   [blocking\_queue (⭐53)](https://github.com/joekain/BlockingQueue) - BlockingQueue is a simple queue implemented as a GenServer. It has a fixed maximum length established when it is created.
+*   [blocking\_queue (⭐52)](https://github.com/joekain/BlockingQueue) - BlockingQueue is a simple queue implemented as a GenServer. It has a fixed maximum length established when it is created.
 *   [count\_buffer (⭐2)](https://github.com/camshaft/count_buffer) - Buffer a large set of counters and flush periodically.
-*   [exfsm (⭐7)](https://github.com/awetzel/exfsm) - Simple elixir library to define a static FSM.
-*   [fuse (⭐480)](https://github.com/jlouis/fuse) - This application implements a so-called circuit-breaker for Erlang.
+*   [exfsm (⭐8)](https://github.com/awetzel/exfsm) - Simple elixir library to define a static FSM.
+*   [fuse (⭐489)](https://github.com/jlouis/fuse) - This application implements a so-called circuit-breaker for Erlang.
 
 ### Behaviours and Interfaces
 
-*   [connection (⭐260)](https://github.com/fishcakez/connection) - Connection behaviour for connection processes. The API is superset of the GenServer API.
+*   [connection (⭐259)](https://github.com/fishcakez/connection) - Connection behaviour for connection processes. The API is superset of the GenServer API.
 
 ### Build Tools
 
 *   [pc (⭐61)](https://github.com/blt/port_compiler) - A rebar3 port compiler.
 *   [rebar3\_eqc (⭐14)](https://github.com/kellymclaughlin/rebar3-eqc-plugin) - A rebar3 plugin to enable the execution of Erlang QuickCheck properties.
-*   [relx (⭐677)](https://github.com/erlware/relx) - A release assembler for Erlang.
+*   [relx (⭐681)](https://github.com/erlware/relx) - A release assembler for Erlang.
 
 ### Encoding and Compression
 
@@ -197,8 +197,8 @@
 ### Framework Components
 
 *   [airbrake\_plug (⭐5)](https://github.com/romul/airbrake_plug) - Report errors in your Plug stack or whatever to Airbrake.
-*   [plug\_forward\_peer (⭐22)](https://github.com/awetzel/plug_forwarded_peer) - Very simple plug which reads X-Forwarded-For or Forwarded header according to RFC7239 and fill conn.remote\_ip with the root client ip.
-*   [plug\_ribbon (⭐22)](https://github.com/stnly/plug_ribbon) - Injects a ribbon to your web application in the development environment.
+*   [plug\_forward\_peer (⭐23)](https://github.com/awetzel/plug_forwarded_peer) - Very simple plug which reads X-Forwarded-For or Forwarded header according to RFC7239 and fill conn.remote\_ip with the root client ip.
+*   [plug\_ribbon (⭐23)](https://github.com/stnly/plug_ribbon) - Injects a ribbon to your web application in the development environment.
 
 ### HTTP
 
@@ -208,33 +208,33 @@
 ### JSON
 
 *   [exjson (⭐71)](https://github.com/guedes/exjson) - JSON parser and generator in Elixir.
-*   [ja\_serializer (⭐634)](https://github.com/AgilionApps/ja_serializer) - JSONAPI.org Serialization in Elixir.
+*   [ja\_serializer (⭐635)](https://github.com/AgilionApps/ja_serializer) - JSONAPI.org Serialization in Elixir.
 
 ### Logging
 
-*   [logger\_logstash\_backend (⭐72)](https://github.com/marcelog/logger_logstash_backend) - A backend for the Elixir Logger that will send logs to the Logstash UDP input.
+*   [logger\_logstash\_backend (⭐73)](https://github.com/marcelog/logger_logstash_backend) - A backend for the Elixir Logger that will send logs to the Logstash UDP input.
 
 ### Macros
 
-*   [anaphora (⭐16)](https://github.com/sviridov/anaphora-elixir) - Anaphora is the anaphoric macro collection for Elixir. An anaphoric macro is one that deliberately captures a variable (typically it) from forms supplied to the macro.
+*   [anaphora (⭐17)](https://github.com/sviridov/anaphora-elixir) - Anaphora is the anaphoric macro collection for Elixir. An anaphoric macro is one that deliberately captures a variable (typically it) from forms supplied to the macro.
 
 ### Native Implemented Functions
 
-*   [nifty (⭐28)](https://github.com/rossjones/nifty) - Helper script for setting up the boilerplate required when writing a NIF.
+*   [nifty (⭐29)](https://github.com/rossjones/nifty) - Helper script for setting up the boilerplate required when writing a NIF.
 
 ### ORM and Datamapping
 
-*   [erlastic\_search (⭐159)](https://github.com/tsloughter/erlastic_search) - An Erlang app for communicating with Elastic Search's rest interface.
-*   [red (⭐14)](https://github.com/rodrigues/red) - Persist relationships between objects in Redis, in a graph-like way.
-*   [timex\_ecto (⭐160)](https://github.com/bitwalker/timex_ecto) - An adapter for using Timex DateTimes with Ecto.
+*   [erlastic\_search (⭐160)](https://github.com/tsloughter/erlastic_search) - An Erlang app for communicating with Elastic Search's rest interface.
+*   [red (⭐15)](https://github.com/rodrigues/red) - Persist relationships between objects in Redis, in a graph-like way.
+*   [timex\_ecto (⭐161)](https://github.com/bitwalker/timex_ecto) - An adapter for using Timex DateTimes with Ecto.
 
 ### Protocols
 
-*   [ex\_hl7 (⭐34)](https://github.com/jcomellas/ex_hl7) - Health Level 7 (HL7) is a protocol designed to model and transfer health-related data electronically.
+*   [ex\_hl7 (⭐35)](https://github.com/jcomellas/ex_hl7) - Health Level 7 (HL7) is a protocol designed to model and transfer health-related data electronically.
 
 ### Templating
 
-*   [bbmustache (⭐168)](https://github.com/soranoba/bbmustache) - Binary pattern match Based Mustache template engine for Erlang/OTP.
+*   [bbmustache (⭐170)](https://github.com/soranoba/bbmustache) - Binary pattern match Based Mustache template engine for Erlang/OTP.
 
 ### Testing
 
@@ -243,38 +243,38 @@
 ### Text and Numbers
 
 *   [cirru\_parser (⭐0)](https://github.com/Cirru/parser.ex) - Cirru Parser in Elixir.
-*   [eden (⭐33)](https://github.com/jfacorro/Eden) - [EDN (⭐2.5k)](https://github.com/edn-format/edn) encoder/decoder for Elixir.
+*   [eden (⭐34)](https://github.com/jfacorro/Eden) - [EDN (⭐2.5k)](https://github.com/edn-format/edn) encoder/decoder for Elixir.
 *   [erldn (⭐27)](https://github.com/marianoguerra/erldn) - [EDN (⭐2.5k)](https://github.com/edn-format/edn) format parser for the Erlang platform.
 *   [mbcs (⭐27)](https://github.com/woxtu/elixir-mbcs) - Wrapper for erlang-mbcs. This module provides functions for character encoding conversion.
-*   [number (⭐207)](https://github.com/danielberkompas/number) - Number is a pretentiously-named Elixir library which provides functions to convert numbers into a variety of different formats.
+*   [number (⭐210)](https://github.com/danielberkompas/number) - Number is a pretentiously-named Elixir library which provides functions to convert numbers into a variety of different formats.
 
 ### Third Party APIs
 
-*   [airbrake (⭐25)](https://github.com/romul/airbrake-elixir) - An Elixir notifier for the Airbrake.
-*   [elixir\_authorizenet (⭐9)](https://github.com/marcelog/elixir_authorizenet) - Unofficial client for the Authorize.Net merchant API.
+*   [airbrake (⭐26)](https://github.com/romul/airbrake-elixir) - An Elixir notifier for the Airbrake.
+*   [elixir\_authorizenet (⭐10)](https://github.com/marcelog/elixir_authorizenet) - Unofficial client for the Authorize.Net merchant API.
 *   [feedlex (⭐3)](https://github.com/essenciary/feedlex) - Feedly RSS reader client for Elixir.
 *   [m2x](https://github.com/attm2x/m2x-elixir) - Elixir client for the AT\&T M2X, a cloud-based fully managed time-series data storage service for network connected machine-to-machine (M2M) devices and the Internet of Things (IoT). ([Erlang Version](https://github.com/attm2x/m2x-erlang)).
 *   [reporter (⭐4)](https://github.com/KazuCocoa/simple_app_reporter_ex) - Reporter is simple reporting App reviews library. Support AppStore and GooglePlay.
 
 ### Utilities
 
-*   [global (⭐2)](https://github.com/mgwidmann/global) - Wrapper of the Erlang `:global` module.
-*   [pubsub (⭐65)](https://github.com/simonewebdesign/elixir_pubsub) - A Publish-Subscribe utility library that implements a pub-sub mechanism to ease the burden of communication on the business logic processes.
+*   [global (⭐3)](https://github.com/mgwidmann/global) - Wrapper of the Erlang `:global` module.
+*   [pubsub (⭐66)](https://github.com/simonewebdesign/elixir_pubsub) - A Publish-Subscribe utility library that implements a pub-sub mechanism to ease the burden of communication on the business logic processes.
 
 ### XML
 
-*   [erlsom (⭐260)](https://github.com/willemdj/erlsom) - Erlsom is an Erlang library to parse (and generate) XML documents.
-*   [xmlrpc (⭐37)](https://github.com/ewildgoose/elixir-xml_rpc) - Library for encoding and decoding XML-RPC for clients and servers.
+*   [erlsom (⭐261)](https://github.com/willemdj/erlsom) - Erlsom is an Erlang library to parse (and generate) XML documents.
+*   [xmlrpc (⭐38)](https://github.com/ewildgoose/elixir-xml_rpc) - Library for encoding and decoding XML-RPC for clients and servers.
 
 ### Reading
 
-*   [The Little Schemer in Elixir (⭐345)](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way) - Exercises and algorithms from the Little Schemer book, ported to Elixir.
+*   [The Little Schemer in Elixir (⭐346)](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way) - Exercises and algorithms from the Little Schemer book, ported to Elixir.
 
 ## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Bundlers
 
-*   [webpack (⭐63k)](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser.
+*   [webpack (⭐64k)](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser.
 
 ### Testing Frameworks / Assertion
 
@@ -294,7 +294,7 @@
 ### Functional Programming / Runner
 
 *   [underscore (⭐27k)](https://github.com/jashkenas/underscore) - JavaScript's utility \_ belt.
-*   [lodash (⭐56k)](https://github.com/lodash/lodash) - A utility library delivering consistency, customization, performance, & extras.
+*   [lodash (⭐57k)](https://github.com/lodash/lodash) - A utility library delivering consistency, customization, performance, & extras.
 *   [lazy.js (⭐6k)](https://github.com/dtao/lazy.js) - Like Underscore, but lazier.
 
 ### Data Structure / Runner
@@ -309,9 +309,9 @@
 ### String / Runner
 
 *   [string.js (⭐1.8k)](https://github.com/jprichardson/string.js) - Extra JavaScript string methods.
-*   [he (⭐3.2k)](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder written in JavaScript.
+*   [he (⭐3.3k)](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder written in JavaScript.
 *   [multiline (⭐1.4k)](https://github.com/sindresorhus/multiline) - Multiline strings in JavaScript.
-*   [query-string (⭐6.4k)](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings.
+*   [query-string (⭐6.5k)](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings.
 
 ### Number / Runner
 
@@ -320,13 +320,13 @@
 ### Storage / Runner
 
 *   [store.js (⭐14k)](https://github.com/marcuswestin/store.js) - LocalStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage, and userData behavior under the hood.
-*   [localForage (⭐22k)](https://github.com/mozilla/localForage) - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+*   [localForage (⭐23k)](https://github.com/mozilla/localForage) - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 
 ### Color / Runner
 
-*   [randomColor (⭐5.9k)](https://github.com/davidmerfield/randomColor) - A color generator for JavaScript.
-*   [chroma.js (⭐9.4k)](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations.
-*   [TinyColor (⭐4.6k)](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
+*   [randomColor (⭐6k)](https://github.com/davidmerfield/randomColor) - A color generator for JavaScript.
+*   [chroma.js (⭐9.6k)](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations.
+*   [TinyColor (⭐4.8k)](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
 
 ### Control Flow / Runner
 
@@ -346,7 +346,7 @@
 
 *   [Spin.js (⭐9.3k)](https://github.com/fgnass/spin.js) - A spinning activity indicator.
 *   [pace (⭐16k)](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site.
-*   [topbar (⭐381)](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator.
+*   [topbar (⭐395)](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator.
 *   [nanobar (⭐2.9k)](https://github.com/jacoborus/nanobar) - Very lightweight progress bars. No jQuery.
 
 ### Keyboard Wrappers / Runner
@@ -365,7 +365,7 @@
 
 ### Sliders / Runner
 
-*   [Swiper (⭐35k)](https://github.com/nolimits4web/Swiper) - Mobile touch slider and framework with hardware accelerated transitions.
+*   [Swiper (⭐36k)](https://github.com/nolimits4web/Swiper) - Mobile touch slider and framework with hardware accelerated transitions.
 *   [slick (⭐28k)](https://github.com/kenwheeler/slick) - The last carousel you'll ever need.
 
 ### Form Widgets / Input
@@ -379,12 +379,12 @@
 
 ### Form Widgets / File Uploader
 
-*   [dropzone (⭐17k)](https://github.com/enyo/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
+*   [dropzone (⭐18k)](https://github.com/enyo/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 
 ### Misc / Other
 
 *   [echo (⭐3.7k)](https://github.com/toddmotto/echo) - Lazy-loading images with data-\* attributes.
-*   [platform.js (⭐3.1k)](https://github.com/bestiejs/platform.js) - A platform detection library that works on nearly all JavaScript platforms.
+*   [platform.js (⭐3.2k)](https://github.com/bestiejs/platform.js) - A platform detection library that works on nearly all JavaScript platforms.
 *   [json3 (⭐1k)](https://github.com/bestiejs/json3) - A modern JSON implementation compatible with nearly all JavaScript platforms.
 
 ## [13. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
@@ -459,7 +459,7 @@
 
 ### Open Source / Other
 
-*   [Loop Drop (⭐815)](https://github.com/mmckegg/loop-drop-app) - MIDI looper and synth for live electronic music performances.
+*   [Loop Drop (⭐819)](https://github.com/mmckegg/loop-drop-app) - MIDI looper and synth for live electronic music performances.
 
 ### Closed Source / Other
 
@@ -467,7 +467,7 @@
 
 ### For Electron / Other
 
-*   [electron-debug (⭐721)](https://github.com/sindresorhus/electron-debug) - Adds useful debug features.
+*   [electron-debug (⭐726)](https://github.com/sindresorhus/electron-debug) - Adds useful debug features.
 
 ### Videos / Other
 
@@ -477,7 +477,7 @@
 
 ### Caching
 
-*   [Second Level Cache (⭐393)](https://github.com/hooopo/second_level_cache) - Write-Through and Read-Through caching library for ActiveRecord 4.
+*   [Second Level Cache (⭐394)](https://github.com/hooopo/second_level_cache) - Write-Through and Read-Through caching library for ActiveRecord 4.
 
 ### Data Processing and ETL
 

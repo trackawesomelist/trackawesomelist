@@ -55,7 +55,7 @@
 
 ### Visualization
 
-*   [pd-replicator (⭐9)](https://github.com/scwilkinson/pd-replicator) - Copy a pandas DataFrame to the clipboard with one click.
+*   [pd-replicator (⭐10)](https://github.com/scwilkinson/pd-replicator) - Copy a pandas DataFrame to the clipboard with one click.
 
 ## [6. Awesome Tap](/content/sindresorhus/awesome-tap/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Email
 
-*   [EmailQueue plugin (⭐57)](https://github.com/lorenzo/cakephp-email-queue) - Email queue plugin with a preview and sender shell.
+*   [EmailQueue plugin (⭐56)](https://github.com/lorenzo/cakephp-email-queue) - Email queue plugin with a preview and sender shell.
 
 ## [9. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/README.md)
 
@@ -95,9 +95,9 @@
 
 ## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-### Software / Resource Planning - Enterprise Resource Planning
+### Software / Resource Planning
 
-*   [OFBiz](https://ofbiz.apache.org/) - FOSS enterprise resource planning system with a suite of business applications flexible enough to be used across any industry. ([Source Code](https://svn.apache.org/viewvc/ofbiz/)) `Apache-2.0` `Java`
+*   [OFBiz](https://ofbiz.apache.org/) - Enterprise Resource Planning system with a suite of business applications flexible enough to be used across any industry. ([Source Code](https://svn.apache.org/viewvc/ofbiz/)) `Apache-2.0` `Java`
 
 ---
 

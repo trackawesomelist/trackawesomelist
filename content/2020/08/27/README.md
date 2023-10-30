@@ -54,7 +54,7 @@
 
 ### Libraries
 
-*   [omg-curry (⭐134)](https://github.com/Debdut/omg-curry) - Comprehensive Curry Library with Operator Curry, Curry from functions, Decurry and Infifnite Curries.
+*   [omg-curry (⭐135)](https://github.com/Debdut/omg-curry) - Comprehensive Curry Library with Operator Curry, Curry from functions, Decurry and Infifnite Curries.
 
 ## [4. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Image Processing
 
-*   [ImageProcessing (⭐778)](https://github.com/janko/image_processing) - High-level image processing wrapper for libvips and ImageMagick/GraphicsMagick
+*   [ImageProcessing (⭐799)](https://github.com/janko/image_processing) - High-level image processing wrapper for libvips and ImageMagick/GraphicsMagick
 
 ## [6. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Tutorials
 
-*   [Ansible Tutorial by leucos (⭐2.1k)](https://github.com/leucos/ansible-tuto) - 12 Step Tutorial for Ansible.
+*   [Ansible Tutorial by leucos (⭐2.2k)](https://github.com/leucos/ansible-tuto) - 12 Step Tutorial for Ansible.
 
 ### Videos
 
@@ -85,7 +85,7 @@
 
 ### Tools
 
-*   [Excel Ansible Inventory (⭐92)](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) - Turn any Excel Spreadsheet into an Ansible Inventory.
+*   [Excel Ansible Inventory (⭐93)](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) - Turn any Excel Spreadsheet into an Ansible Inventory.
 
 ## [7. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 

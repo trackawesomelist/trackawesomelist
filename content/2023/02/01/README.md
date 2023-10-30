@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 01, 2023
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -30,25 +30,19 @@
 
 *   [Graphir (⭐44)](https://github.com/microsoft/graphir) - GraphQL interface over FHIR API
 
-## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
-
-### UI Libraries, Components & Templates
-
-*   🧩 [RippleUI](https://www.ripple-ui.com/) - Clean, modern and beautiful Tailwind CSS components.
-
-## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Articles / Others
 
 *   [The State of WebAssembly – 2022 and 2023](https://platform.uno/blog/the-state-of-webassembly-2022-and-2023) - January 30, 2023 - This articles looks at the current state of WebAssembly (wasm). It starts by revisiting 2022 developments then he tries to predict where I think things will go in 2023.
 
-## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Frameworks
 
-*   [libxutils (⭐18)](https://github.com/kala13x/libxutils) - Simple and yet powerful cross-platform C library providing data structures, algorithms and much more. \[MIT]
+*   [libxutils (⭐22)](https://github.com/kala13x/libxutils) - Simple and yet powerful cross-platform C library providing data structures, algorithms and much more. \[MIT]
 
-## [8. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md)
+## [7. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md)
 
 ### Collectives & Practices
 
@@ -62,13 +56,13 @@
 
 
 
-## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Software Development - Project Management
 
 *   [Taiga](https://www.taiga.io/) - Agile Project Management Tool based on the Kanban and Scrum methods. ([Source Code](https://github.com/kaleidos-ventures)) `MPL-2.0` `Docker/Python/Nodejs`
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -76,44 +70,44 @@
 
 ### Security and PKI
 
-*   [SOOS](https://soos.io) - Free, unlimited SCA scans for open source projects. Detect and fix security threats before release. Protect your projects with a simple and effective solution.
+*   [SOOS](https://soos.io) - Free, unlimited SCA scans for open-source projects. Detect and fix security threats before release. Protect your projects with a simple and effective solution.
 
 ### Issue Tracking and Project Management
 
 *   [Clockify](https://clockify.me) - Time tracker and timesheet app that lets you track work hours across projects. Unlimited users, free forever.
 *   [Plaky](https://plaky.com) - Free task management (kanban) software without any limits. Unlimited users, unlimited projects, free forever.
 
-## [11. Magictools](/content/ellisonleao/magictools/README.md)
+## [10. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
 *   :free: [JPCT](https://www.jpct.net/) - jPCT is a 3D engine for desktop Java and Google's Android.
 
-## [12. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
+## [11. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ### Services / Misc
 
 *   [Forward Email](https://forwardemail.net) - The 100% open-source and privacy-focused email service.
 
-## [13. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [12. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Chart
 
 *   [react-dashboard (⭐1.5k)](https://github.com/flatlogic/react-dashboard) - Isomorphic Dashboards.
 
-## [14. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [13. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-gltf (⭐100)](https://github.com/nytimes/rd-bundler-3d-plugins) - Load, transform, optimize, and compress glTF 3D files.
+*   [vite-plugin-gltf (⭐113)](https://github.com/nytimes/rd-bundler-3d-plugins) - Load, transform, optimize, and compress glTF 3D files.
 
-## [15. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [14. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [kubectl (chrishrb) (⭐2)](https://github.com/chrishrb/zsh-kubectl) - Automatically loads completions for [kubectl (⭐2.3k)](https://github.com/kubernetes/kubectl).
+*   [kubectl (chrishrb) (⭐3)](https://github.com/chrishrb/zsh-kubectl) - Automatically loads completions for [kubectl (⭐2.5k)](https://github.com/kubernetes/kubectl).
 
-## [16. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [15. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Apps / Data Analysis
 

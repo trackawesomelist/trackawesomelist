@@ -16,7 +16,7 @@
 
 ### Applications
 
-*   [NewNode (⭐396)](https://github.com/clostra/newnode): Decentralized Content Distribution Network (dCDN).
+*   [NewNode (⭐410)](https://github.com/clostra/newnode): Decentralized Content Distribution Network (dCDN).
 
 ## [3. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -56,11 +56,11 @@
 
 ### Frameworks, Libraries and Tools / API
 
-*   [refit (⭐6.5k)](https://github.com/paulcbetts/refit) - The automatic type-safe REST library for Xamarin and .NET.
+*   [refit (⭐7.6k)](https://github.com/paulcbetts/refit) - The automatic type-safe REST library for Xamarin and .NET.
 
 ### Frameworks, Libraries and Tools / Compilers, Transpilers and Languages
 
-*   [peachpie (⭐2.1k)](https://github.com/peachpiecompiler/peachpie) - Open-source PHP compiler to .NET.
+*   [peachpie (⭐2.2k)](https://github.com/peachpiecompiler/peachpie) - Open-source PHP compiler to .NET.
 
 ---
 

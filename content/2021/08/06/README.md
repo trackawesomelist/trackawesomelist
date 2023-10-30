@@ -44,7 +44,7 @@
 
 ### Authentication & OAuth
 
-*   [Phalcon Auth (⭐6)](https://github.com/sinbadxiii/phalcon-auth) - Out-of-the-box authentication component based on guards and providers.
+*   [Phalcon Auth (⭐7)](https://github.com/sinbadxiii/phalcon-auth) - Out-of-the-box authentication component based on guards and providers.
 
 ## [7. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
 

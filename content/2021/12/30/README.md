@@ -24,8 +24,8 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [RexMex (⭐263)](https://github.com/AstraZeneca/rexmex) -> A general purpose recommender metrics library for fair evaluation.
-*   [ChemicalX (⭐630)](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
+*   [RexMex (⭐269)](https://github.com/AstraZeneca/rexmex) -> A general purpose recommender metrics library for fair evaluation.
+*   [ChemicalX (⭐657)](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
 
 ## [3. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Community plugins
 
-*   [App-icon (⭐48)](https://github.com/capacitor-community/app-icon) - Capacitor community plugin for changing an app's icon.
+*   [App-icon (⭐58)](https://github.com/capacitor-community/app-icon) - Capacitor community plugin for changing an app's icon.
 
 ### Other plugins
 
@@ -74,7 +74,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Remult (⭐2.1k)](https://github.com/remult/remult) - End-to-end type-safe CRUD and frontend-backend model code sharing in fullstack TypeScript applications.
+*   :octocat: [Remult (⭐2.4k)](https://github.com/remult/remult) - End-to-end type-safe CRUD and frontend-backend model code sharing in fullstack TypeScript applications.
 
 ## [6. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
@@ -85,7 +85,7 @@
 
 ### IR Tools Collection / Log Analysis Tools
 
-*   [Chainsaw (⭐2.1k)](https://github.com/countercept/chainsaw) - Chainsaw provides a powerful ‘first-response’ capability to quickly identify threats within Windows event logs.
+*   [Chainsaw (⭐2.2k)](https://github.com/countercept/chainsaw) - Chainsaw provides a powerful ‘first-response’ capability to quickly identify threats within Windows event logs.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -119,24 +119,24 @@
 
 ### Libraries / APIs & Web Services
 
-*   [Discord.js (⭐21k)](https://github.com/discordjs/discord.js) - A Node.js library for interacting with the Discord API.
-*   [steam (⭐739)](https://github.com/ValvePython/steam/) - A Python library for interacting with various parts of Steam.
+*   [Discord.js (⭐24k)](https://github.com/discordjs/discord.js) - A Node.js library for interacting with the Discord API.
+*   [steam (⭐911)](https://github.com/ValvePython/steam/) - A Python library for interacting with various parts of Steam.
 
 ### Libraries / Data parsing and analysis
 
-*   [Boxcars (⭐66)](https://github.com/nickbabcock/boxcars) - A Rust library for parsing Rocket League replays.
-*   [Clarity (⭐554)](https://github.com/skadistats/clarity) - A Java library for parsing CS:GO and Dota 2 replays.
-*   [demoinfocs-golang (⭐440)](https://github.com/markus-wa/demoinfocs-golang) - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
-*   [Rattletrap (⭐133)](https://github.com/tfausak/rattletrap) - A Haskell library for parsing and generating Rocket League replays.
+*   [Boxcars (⭐81)](https://github.com/nickbabcock/boxcars) - A Rust library for parsing Rocket League replays.
+*   [Clarity (⭐581)](https://github.com/skadistats/clarity) - A Java library for parsing CS:GO and Dota 2 replays.
+*   [demoinfocs-golang (⭐545)](https://github.com/markus-wa/demoinfocs-golang) - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
+*   [Rattletrap (⭐140)](https://github.com/tfausak/rattletrap) - A Haskell library for parsing and generating Rocket League replays.
 
 ### Libraries / Tournaments management
 
-*   [brackets-manager.js (⭐85)](https://github.com/Drarig29/brackets-manager.js) - A JavaScript library to manage tournament brackets.
-*   [brackets-viewer.js (⭐72)](https://github.com/Drarig29/brackets-viewer.js) - A JavaScript library to display tournament brackets.
+*   [brackets-manager.js (⭐172)](https://github.com/Drarig29/brackets-manager.js) - A JavaScript library to manage tournament brackets.
+*   [brackets-viewer.js (⭐126)](https://github.com/Drarig29/brackets-viewer.js) - A JavaScript library to display tournament brackets.
 
 ### Applications & Tools / Tournaments management
 
-*   [LeagueDirector (⭐634)](https://github.com/RiotGames/leaguedirector) - A desktop application for staging and recording videos from League of Legends replays.
+*   [LeagueDirector (⭐742)](https://github.com/RiotGames/leaguedirector) - A desktop application for staging and recording videos from League of Legends replays.
 
 ## [11. Awesome Math](/content/rossant/awesome-math/README.md)
 
@@ -146,21 +146,21 @@
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [GoodData](https://www.gooddata.com/) - Data as a Service - Create interactive and insightful dashboards. Free tier comes with 5 workspaces and 100 MB/workspace.
+*   [GoodData](https://www.gooddata.com/) - Data as a Service - Create interactive and insightful dashboards. The free tier comes with five workspaces and 100 MB/workspace.
 
 ### Tools for Teams and Collaboration
 
-*   [/meet for Slack](https://meetslack.com) - Start Google Meetings directly from Slack by using /meet in any channel, group or DM. Free without any limitations.
+*   [/meet for Slack](https://meetslack.com) - Start Google Meetings directly from Slack by using /meet in any channel, group, or DM. Free without any limitations.
 
 ### Testing
 
-*   [Testspace.com](https://testspace.com/) - A Dashboard for publishing automated test results and a Framework for implementing manual tests as code using GitHub. The service is [free for Open Source](https://github.com/marketplace/testspace-com) accounts for 450 results per month.
+*   [Testspace.com](https://testspace.com/) - A Dashboard for publishing automated test results and a Framework for implementing manual tests as code using GitHub. The service is [free for Open Source](https://github.com/marketplace/testspace-com) and accounts for 450 monthly results.
 
 ### Forms
 
-*   [HeyForm.net](https://heyform.net/) - Drag and drop online form builder. Free tier lets you create unlimited forms and collect unlimited submissions. Comes with pre-built templates, anti-spam, and 100MB file storage.
+*   [HeyForm.net](https://heyform.net/) - Drag and drop online form builder. The free tier lets you create unlimited forms and collect unlimited submissions. Comes with pre-built templates, anti-spam, and 100MB file storage.
 
 ## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Inventory Management and Purchasing / Eagle
 
-*   [Part-DB (⭐156)](https://github.com/Part-DB/Part-DB) - Another open source web service for managing part inventory with a permission system and a good barcode generator.
+*   [Part-DB (⭐158)](https://github.com/Part-DB/Part-DB) - Another open source web service for managing part inventory with a permission system and a good barcode generator.
 
 ## [2. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -68,12 +68,12 @@ Webpage: <https://edinburghhacklab.com/>
 
 ### R / General-Purpose Machine Learning
 
-*   [CatBoost (⭐7.1k)](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box for R.
+*   [CatBoost (⭐7.3k)](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box for R.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Introduction to Machine Learning with Python (⭐6.7k)](https://github.com/amueller/introduction_to_ml_with_python) - Notebooks and code for the book "Introduction to Machine Learning with Python"
-*   [Pydata book (⭐19k)](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
+*   [Introduction to Machine Learning with Python (⭐6.9k)](https://github.com/amueller/introduction_to_ml_with_python) - Notebooks and code for the book "Introduction to Machine Learning with Python"
+*   [Pydata book (⭐20k)](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 
 ## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -85,7 +85,7 @@ Webpage: <https://edinburghhacklab.com/>
 
 ### Components & Libraries / Utilities
 
-*   [vue-jsx-sync (⭐10)](https://github.com/njleonzhang/babel-plugin-vue-jsx-sync) - A Babel plugin that brings vue `sync modifier` to JSX.
+*   [vue-jsx-sync (⭐11)](https://github.com/njleonzhang/babel-plugin-vue-jsx-sync) - A Babel plugin that brings vue `sync modifier` to JSX.
 
 ## [11. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
 

@@ -10,17 +10,17 @@
 
 ### Applications / Utilities
 
-*   [guoxbin/dtool (⭐335)](https://github.com/guoxbin/dtool) — A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc.
+*   [guoxbin/dtool (⭐340)](https://github.com/guoxbin/dtool) — A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc.
 
 ### Development tools / Profiling
 
-*   [bheisler/criterion.rs (⭐3.5k)](https://github.com/bheisler/criterion.rs) — Statistics-driven benchmarking library for Rust
+*   [bheisler/criterion.rs (⭐3.7k)](https://github.com/bheisler/criterion.rs) — Statistics-driven benchmarking library for Rust
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Templates / Preferences
 
-*   [FlutterFoodybite (⭐1.3k)](https://github.com/JideGuru/FlutterFoodybite) <!--stargazers:JideGuru/FlutterFoodybite--> - Beautiful food app UI template by [JideGuru](https://github.com/JideGuru)
+*   [FlutterFoodybite (⭐1.4k)](https://github.com/JideGuru/FlutterFoodybite) <!--stargazers:JideGuru/FlutterFoodybite--> - Beautiful food app UI template by [JideGuru](https://github.com/JideGuru)
 
 ## [3. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
@@ -50,8 +50,8 @@
 
 ### Projects / Libraries
 
-*   [Formalised Undecidable Problems (⭐94)](https://github.com/uds-psl/coq-library-undecidability) - Library of undecidable problems and reductions between them.
-*   [Regular Language Representations (⭐34)](https://github.com/coq-community/reglang) - Translations between different definitions of regular languages, including regular expressions and automata.
+*   [Formalised Undecidable Problems (⭐96)](https://github.com/uds-psl/coq-library-undecidability) - Library of undecidable problems and reductions between them.
+*   [Regular Language Representations (⭐37)](https://github.com/coq-community/reglang) - Translations between different definitions of regular languages, including regular expressions and automata.
 
 ### Projects / Plugins
 
@@ -73,19 +73,19 @@
 ### Command-Line Productivity
 
 *   [boom (⭐1.2k)](https://github.com/holman/boom) - Store links and snippets in the command line
-*   [cod (⭐445)](https://github.com/dim-an/cod) — A completion daemon for shell that learns when you invoke `--help` commands
-*   [dnote (⭐2.4k)](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync and web interface
-*   [foxy (⭐38)](https://github.com/s-p-k/foxy) - Plain text bookmarks for Firefox and surf browsers.
-*   [resh (⭐819)](https://github.com/curusarn/resh) - Contextual shell history for Zsh and Bash
-*   [snips (⭐65)](https://github.com/srijanshetty/snips) - Command line tool to manage snippets of code.
+*   [cod (⭐475)](https://github.com/dim-an/cod) — A completion daemon for shell that learns when you invoke `--help` commands
+*   [dnote (⭐2.5k)](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync and web interface
+*   [foxy (⭐39)](https://github.com/s-p-k/foxy) - Plain text bookmarks for Firefox and surf browsers.
+*   [resh (⭐888)](https://github.com/curusarn/resh) - Contextual shell history for Zsh and Bash
+*   [snips (⭐70)](https://github.com/srijanshetty/snips) - Command line tool to manage snippets of code.
 
 ### For Developers / Directory Navigation
 
-*   [mkdkr (⭐315)](https://github.com/rosineygp/mkdkr) - Makefile + Docker = CI Pipeline
+*   [mkdkr (⭐332)](https://github.com/rosineygp/mkdkr) - Makefile + Docker = CI Pipeline
 
 ### Downloading and Serving / Directory Navigation
 
-*   [bashhub-server (⭐252)](https://github.com/nicksherron/bashhub-server) - Private cloud shell history. Open source server for bashhub
+*   [bashhub-server (⭐274)](https://github.com/nicksherron/bashhub-server) - Private cloud shell history. Open source server for bashhub
 
 ## [10. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
@@ -114,19 +114,19 @@
 
 ### Applications / Web
 
-*   [FactorJS (⭐1.3k)](https://github.com/fiction-com/factor) - JavaScript CMS built with Mongoose
+*   [FactorJS (⭐1.4k)](https://github.com/fiction-com/factor) - JavaScript CMS built with Mongoose
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Monitoring
 
-*   [inspector.dev](https://www.inspector.dev) - A complete Real-Time monitoring dashboard in less than one minute with free forever tier.
+*   [inspector.dev](https://www.inspector.dev) - A complete Real-Time monitoring dashboard in less than one minute with a free forever tier.
 
 ## [13. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Tools / Playground
 
-*   [TypeScript Standard (⭐32)](https://github.com/e2tox/typescript-standard) - Zero-configuration TypeScript 2 Standard Validation
+*   [TypeScript Standard (⭐31)](https://github.com/e2tox/typescript-standard) - Zero-configuration TypeScript 2 Standard Validation
 
 ---
 

@@ -24,7 +24,7 @@ Webpage: <https://www.facebook.com/TEKTURAcafe/>
 
 ### Miscellaneous / Development and testing
 
-*   [tmux-tail-f (⭐30)](https://github.com/mapio/tmux-tail-f) A tool to tail multiple files using tmux
+*   [tmux-tail-f (⭐32)](https://github.com/mapio/tmux-tail-f) A tool to tail multiple files using tmux
 
 ## [3. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 

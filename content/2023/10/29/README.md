@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 29, 2023
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,19 +18,25 @@
 
 *   [PDF-Writer (⭐776)](https://github.com/galkahana/PDF-Writer) - High performance library for creating, modiyfing and parsing PDF files in C++ \[Apache-2.0] [website](https://www.pdfhummus.com/)
 
-## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [3. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+
+### 3D
+
+*   [3DFY](https://app.3dfy.ai/) - Generate high-quality 3D models, automatically, in certain object categories using text-prompts. `#paid`
+
+## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Deployment / Isomorphic web frameworks
 
 *   [Cloud Init file for SBCL](https://git.sr.ht/%7Emarcuskammer/cloudinit/tree/main/item/sbcl-nginx.yml) - an init file for providers supporting the cloudinit format (DigitalOcean etc).
 
-## [4. Magictools](/content/ellisonleao/magictools/README.md)
+## [5. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
 *   :tada: [DotRecast (⭐221)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#.
 
-## [5. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [6. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Algorithms / Supervised Learning
 
@@ -60,7 +66,7 @@
 
 *   [Time Series Modelling and Analysis](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK)
 
-## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
 ### C++ / Non-X86
 
@@ -80,4 +86,5 @@
 
 ---
 
+- Prev: [Oct 30, 2023](/content/2023/10/30/README.md)
 - Next: [Oct 28, 2023](/content/2023/10/28/README.md)

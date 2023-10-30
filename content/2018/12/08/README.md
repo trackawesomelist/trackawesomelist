@@ -23,7 +23,7 @@
 
 ### Image Processing
 
-*   [stb-image (⭐22k)](https://github.com/nothings/stb/blob/master/stb_image.h) - STB single-header image loading library. \[Public Domain]
+*   [stb-image (⭐23k)](https://github.com/nothings/stb/blob/master/stb_image.h) - STB single-header image loading library. \[Public Domain]
 
 ## [4. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 

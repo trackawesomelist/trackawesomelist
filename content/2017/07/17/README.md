@@ -17,21 +17,21 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-deepset (⭐93)](https://github.com/bhoriuchi/vue-deepset) - Interact with deeply nested fields in Vue/Vuex objects/state with v-model in Vue 1.x and 2.x
+*   [vue-deepset (⭐92)](https://github.com/bhoriuchi/vue-deepset) - Interact with deeply nested fields in Vue/Vuex objects/state with v-model in Vue 1.x and 2.x
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### CLI Utilities
 
-*   [colorls (⭐4.5k)](https://github.com/athityakumar/colorls) - Beautifies the `ls` command, with color and font-awesome icons.
+*   [colorls (⭐4.6k)](https://github.com/athityakumar/colorls) - Beautifies the `ls` command, with color and font-awesome icons.
 
 ### Configuration
 
-*   [Chamber (⭐198)](https://github.com/thekompanee/chamber) - Surprisingly customizable convention-based approach to managing your app's configuration.
+*   [Chamber (⭐199)](https://github.com/thekompanee/chamber) - Surprisingly customizable convention-based approach to managing your app's configuration.
 
 ### Third-party APIs
 
-*   [Restforce (⭐760)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
+*   [Restforce (⭐780)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
 
 ## [4. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -102,7 +102,7 @@
 
 ### Frameworks, Libraries and Tools / Application Templates
 
-*   [QuickApp (⭐1.1k)](https://github.com/emonney/QuickApp) - ASP.NET Core / Angular4 startup project template with complete login, user and role management.
+*   [QuickApp (⭐1.2k)](https://github.com/emonney/QuickApp) - ASP.NET Core / Angular4 startup project template with complete login, user and role management.
 
 ## [8. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 

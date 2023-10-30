@@ -25,11 +25,11 @@
 
 ### HTTP
 
-*   [RestEase (⭐961)](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
+*   [RestEase (⭐998)](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
 
 ### Queue
 
-*   [Rebus (⭐2k)](https://github.com/rebus-org/Rebus) - Rebus is a lean service bus implementation for .NET, similar in nature to NServiceBus and MassTransit, only leaner
+*   [Rebus (⭐2.1k)](https://github.com/rebus-org/Rebus) - Rebus is a lean service bus implementation for .NET, similar in nature to NServiceBus and MassTransit, only leaner
 
 ## [3. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Go / Symfony2
 
-*   [gocrud (⭐311)](https://github.com/manishrjain/gocrud): Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
+*   [gocrud (⭐310)](https://github.com/manishrjain/gocrud): Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
 
 ## [5. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

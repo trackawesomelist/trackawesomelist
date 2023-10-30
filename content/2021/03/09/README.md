@@ -61,7 +61,7 @@
 
 ### Miscellaneous
 
-*   [Translations (⭐77)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
+*   [Translations (⭐88)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
 
 ## [8. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -69,25 +69,21 @@
 
 *   [Agility CMS](https://agilitycms.com) - The best of both worlds for developers and content editors.
 
-### Serverless / Automation
-
-*   [Elastictable](https://www.elastictable.com) - Backend as a Service solution built on AWS that's on a missing to increase the success rate of online businesses.
-
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-diagram-editor (⭐75)](https://github.com/max-kut/vue-diagram-editor) - Highly customizable diagram editor with slot-based nodes (vue^2.6)
+*   [vue-diagram-editor (⭐81)](https://github.com/max-kut/vue-diagram-editor) - Highly customizable diagram editor with slot-based nodes (vue^2.6)
 
 ## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-mpa (⭐178)](https://github.com/IndexXuan/vite-plugin-mpa) - Out-of-box multi-page application (MPA) integration.
+*   [vite-plugin-mpa (⭐204)](https://github.com/IndexXuan/vite-plugin-mpa) - Out-of-box multi-page application (MPA) integration.
 
 ### Vue CLI / Community
 
-*   [vue-cli-plugin-vite (⭐385)](https://github.com/IndexXuan/vue-cli-plugin-vite) - Use Vite on Vue CLI with minimize codebase modifications.
+*   [vue-cli-plugin-vite (⭐388)](https://github.com/IndexXuan/vue-cli-plugin-vite) - Use Vite on Vue CLI with minimize codebase modifications.
 
 ## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -97,7 +93,7 @@
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [WebDNN (⭐1.9k)](https://github.com/mil-tokyo/webdnn) - Fast Deep Neural Network JavaScript Framework. WebDNN uses next generation JavaScript API, WebGPU for GPU execution, and WebAssembly for CPU execution.
+*   [WebDNN (⭐2k)](https://github.com/mil-tokyo/webdnn) - Fast Deep Neural Network JavaScript Framework. WebDNN uses next generation JavaScript API, WebGPU for GPU execution, and WebAssembly for CPU execution.
 
 ## [12. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -109,13 +105,13 @@
 
 ### App Routing
 
-*   [Composable Navigator (⭐549)](https://github.com/Bahn-X/swift-composable-navigator) - An open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind
+*   [Composable Navigator (⭐560)](https://github.com/Bahn-X/swift-composable-navigator) - An open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind
 
 ## [14. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Map
 
-*   [pigeon-maps (⭐3.3k)](https://github.com/mariusandra/pigeon-maps) - [demo](https://pigeon-maps.js.org/) - ReactJS Maps without external dependencies.
+*   [pigeon-maps (⭐3.4k)](https://github.com/mariusandra/pigeon-maps) - [demo](https://pigeon-maps.js.org/) - ReactJS Maps without external dependencies.
 
 ## [15. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

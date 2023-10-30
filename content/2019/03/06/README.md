@@ -33,15 +33,15 @@
 
 ### Cryptocurrencies and Blockchains
 
-*   [Peatio (⭐38)](https://github.com/rubykube/peatio) - Most Advanced Cryptocurrency open-source assets exchange.
+*   [Peatio (⭐42)](https://github.com/rubykube/peatio) - Most Advanced Cryptocurrency open-source assets exchange.
 
 ### HTTP Clients and tools
 
-*   [Sniffer (⭐554)](https://github.com/aderyabin/sniffer) – Tool to log and debug outgoing HTTP requests across multiple ruby libraries.
+*   [Sniffer (⭐565)](https://github.com/aderyabin/sniffer) – Tool to log and debug outgoing HTTP requests across multiple ruby libraries.
 
 ### Social Networking
 
-*   [Decidim (⭐1.2k)](https://github.com/decidim/decidim) - free open-source participatory democracy for cities and organizations
+*   [Decidim (⭐1.3k)](https://github.com/decidim/decidim) - free open-source participatory democracy for cities and organizations
 
 ## [5. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Plugins
 
-*   [extrakto (⭐690)](https://github.com/laktak/extrakto) tmux clipboard copy and output completions
+*   [extrakto (⭐738)](https://github.com/laktak/extrakto) tmux clipboard copy and output completions
 
 ## [7. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
@@ -63,19 +63,19 @@
 
 ### Software / Communication
 
-*   [Conversations](https://conversations.im/) - XMPP/Jabber client for Android. ([GNU GPLv3 (⭐4.1k)](https://github.com/siacs/Conversations/blob/master/LICENSE))
+*   [Conversations](https://conversations.im/) - XMPP/Jabber client for Android. ([GNU GPLv3 (⭐4.2k)](https://github.com/siacs/Conversations/blob/master/LICENSE))
 *   [Gajim](https://gajim.org/) - XMPP/Jabber client for desktop. ([GNU GPLv3](https://dev.gajim.org/gajim/gajim/blob/master/COPYING))
 
 ### Software / Web Applications
 
 *   [GNU social](https://gnu.io/social/) -  Microblogging server written in PHP. ([GNU GPLv3](https://git.gnu.io/gnu/gnu-social/blob/master/COPYING))
-*   [Wallabag](https://wallabag.org/en) - Save and classify articles. Read them later. Freely. ([MIT (⭐7.5k)](https://github.com/wallabag/wallabag/blob/master/COPYING.md))
+*   [Wallabag](https://wallabag.org/en) - Save and classify articles. Read them later. Freely. ([MIT (⭐8.6k)](https://github.com/wallabag/wallabag/blob/master/COPYING.md))
 
 ## [8. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI / UI Helpers
 
-*   [Reorderables (⭐571)](https://github.com/hanshengchiu/reorderables) <!--stargazers:hanshengchiu/reorderables--> - Drag\&Drop Table, Row, Column, Wrap(Grid) and SliverList elements by [Hansheng Chiu](https://github.com/hanshengchiu).
+*   [Reorderables (⭐632)](https://github.com/hanshengchiu/reorderables) <!--stargazers:hanshengchiu/reorderables--> - Drag\&Drop Table, Row, Column, Wrap(Grid) and SliverList elements by [Hansheng Chiu](https://github.com/hanshengchiu).
 
 ## [9. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

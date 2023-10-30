@@ -73,7 +73,7 @@ git rebase master feature && git checkout master && git merge -
 
 ### Editors
 
-*   [Alchemist-Server (⭐194)](https://github.com/tonini/alchemist-server) - Editor/IDE independent background server to inform about Elixir mix projects.
+*   [Alchemist-Server (⭐193)](https://github.com/tonini/alchemist-server) - Editor/IDE independent background server to inform about Elixir mix projects.
 
 ## [8. Awesome Db](/content/numetriclabz/awesome-db/README.md)
 
@@ -85,7 +85,7 @@ git rebase master feature && git checkout master && git merge -
 
 ### Database
 
-*   [Tayra (⭐144)](https://github.com/EqualExperts/Tayra) - Incremental backup tool for MongoDB
+*   [Tayra (⭐143)](https://github.com/EqualExperts/Tayra) - Incremental backup tool for MongoDB
 
 ## [10. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 

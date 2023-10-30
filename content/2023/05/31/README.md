@@ -10,21 +10,21 @@
 
 ### Open Source Projects / Other / Chatbots
 
-*   [WingmanAI (⭐284)](https://github.com/e-johnstonn/wingmanAI): tool for interacting with real-time transcription of both system and microphone audio
+*   [WingmanAI (⭐397)](https://github.com/e-johnstonn/wingmanAI): tool for interacting with real-time transcription of both system and microphone audio
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Platform specific
 
 *   Windows
-    *   [microsoft/windows-rs (⭐8.5k)](https://github.com/microsoft/windows-rs) — Rust for Windows [![Actions Status](https://github.com/microsoft/windows-rs/workflows/CI/badge.svg)](https://github.com/microsoft/windows-rs/actions)
+    *   [microsoft/windows-rs (⭐9k)](https://github.com/microsoft/windows-rs) — Rust for Windows [![Actions Status](https://github.com/microsoft/windows-rs/workflows/CI/badge.svg)](https://github.com/microsoft/windows-rs/actions)
     *   [retep998/winapi-rs (⭐1.7k)](https://github.com/retep998/winapi-rs) — Windows API bindings [![Rust](https://github.com/retep998/winapi-rs/actions/workflows/rust.yml/badge.svg?branch=dev)](https://github.com/retep998/winapi-rs/actions/workflows/rust.yml)
 
 ## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / React
 
-*   [react-vite-tailwindcss-template (⭐0)](https://github.com/quavedev/react-vite-tailwindcss-template) - React, JavaScript, TailwindCSS, ESlint, Prettier, Pre-commit.
+*   [react-vite-tailwindcss-template (⭐4)](https://github.com/quavedev/react-vite-tailwindcss-template) - React, JavaScript, TailwindCSS, ESlint, Prettier, Pre-commit.
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -46,15 +46,15 @@
 
 ### Calendar
 
-*   [date-picker-svelte (⭐186)](https://github.com/probablykasper/date-picker-svelte) - A date and time picker for Svelte with clean UX.
+*   [date-picker-svelte (⭐233)](https://github.com/probablykasper/date-picker-svelte) - A date and time picker for Svelte with clean UX.
 
 ## [7. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Extensions / Community
 
 *   [Woodpecker Build Status (⭐0)](https://github.com/sguter90/directus-extension-woodpecker-build-status) - Adds status bar for [Woodpecker](https://woodpecker-ci.org/) pipeline build status to Directus UI.
-*   [Imagga Hook (⭐6)](https://github.com/gbicou/directus-extension-imagga) - Hook for file uploads to automatically tag images with [Imagga API](https://imagga.com/).
-*   [Tiptap Interface & Display (⭐21)](https://github.com/gbicou/directus-extension-tiptap) - Tiptap rich text editor interface and display.
+*   [Imagga Hook (⭐8)](https://github.com/gbicou/directus-extension-imagga) - Hook for file uploads to automatically tag images with [Imagga API](https://imagga.com/).
+*   [Tiptap Interface & Display (⭐37)](https://github.com/gbicou/directus-extension-tiptap) - Tiptap rich text editor interface and display.
 
 ## [8. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
@@ -70,11 +70,11 @@
 
 ### Lua / General-Purpose Machine Learning
 
-*   [Keras GPT Copilot (⭐18)](https://github.com/fabprezja/keras-gpt-copilot) - A python package that integrates an LLM copilot inside the keras model development workflow.
+*   [Keras GPT Copilot (⭐23)](https://github.com/fabprezja/keras-gpt-copilot) - A python package that integrates an LLM copilot inside the keras model development workflow.
 
 ### Tools / Misc
 
-*   [Ambrosia (⭐50)](https://github.com/reactorsh/ambrosia) - Ambrosia helps you clean up your LLM datasets using *other* LLMs.
+*   [Ambrosia (⭐95)](https://github.com/reactorsh/ambrosia) - Ambrosia helps you clean up your LLM datasets using *other* LLMs.
 
 ## [10. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
@@ -100,8 +100,9 @@
 
 ### Base Tools / Other
 
-*   [Ofelia (⭐2.4k)](https://github.com/mcuadros/ofelia/) - Ofelia is a modern and low footprint job scheduler for docker environments, built on Go. Ofelia aims to be a replacement for the old fashioned cron. Supports configuration from container labels and/or configuration files.
+*   [Ofelia (⭐2.6k)](https://github.com/mcuadros/ofelia/) - Ofelia is a modern and low footprint job scheduler for docker environments, built on Go. Ofelia aims to be a replacement for the old fashioned cron. Supports configuration from container labels and/or configuration files.
 
 ---
 
+- Prev: [Jun 01, 2023](/content/2023/06/01/README.md)
 - Next: [May 30, 2023](/content/2023/05/30/README.md)

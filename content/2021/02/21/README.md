@@ -22,26 +22,26 @@
 
 ### Feature Flags and Toggles
 
-*   [ConfigCat (⭐13)](https://github.com/configcat/elixir-sdk) - Elixir SDK for ConfigCat hosted feature flag service.
+*   [ConfigCat (⭐14)](https://github.com/configcat/elixir-sdk) - Elixir SDK for ConfigCat hosted feature flag service.
 
 ### Testing
 
-*   [mix\_test\_interactive (⭐58)](https://github.com/influxdata/mix_test_interactive) - Interactive test runner for mix test with watch mode.
+*   [mix\_test\_interactive (⭐61)](https://github.com/influxdata/mix_test_interactive) - Interactive test runner for mix test with watch mode.
 
 ## [4. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Anima (⭐443)](https://github.com/ceceppa/anima) - Run sequential and parallel animations with less code compared to Tween (Godot 3.x).
+*   [Anima (⭐467)](https://github.com/ceceppa/anima) - Run sequential and parallel animations with less code compared to Tween (Godot 3.x).
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Godot GamePad (⭐106)](https://github.com/ACB-prgm/Godot_GamePad) - Allows players to use their mobile devices as controllers.
-*   [SmartShape2D (⭐807)](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool.
+*   [Godot GamePad (⭐107)](https://github.com/ACB-prgm/Godot_GamePad) - Allows players to use their mobile devices as controllers.
+*   [SmartShape2D (⭐875)](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool.
 
 ### Modules / Godot 4.0
 
-*   [Godex (⭐832)](https://github.com/GodotECS/godex) - An entity component system library.
+*   [Godex (⭐909)](https://github.com/GodotECS/godex) - An entity component system library.
 
 ## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Table of Contents / Streaming Engine
 
-*   [Maki Nage (⭐35)](https://github.com/maki-nage/makinage) \[Python] - A stream processing framework for data scientists, based on Kafka and ReactiveX.
+*   [Maki Nage (⭐37)](https://github.com/maki-nage/makinage) \[Python] - A stream processing framework for data scientists, based on Kafka and ReactiveX.
 
 ## [8. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 

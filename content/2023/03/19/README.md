@@ -16,15 +16,15 @@
 
 ### 3D
 
-*   [Menori (⭐88)](https://github.com/rozenmad/Menori) - Library for 3D rendering with LÖVE.
+*   [Menori (⭐102)](https://github.com/rozenmad/Menori) - Library for 3D rendering with LÖVE.
 
 ### Helpers
 
-*   [Manami (⭐28)](https://github.com/MikuAuahDark/NPad93/blob/master/manami.lua) - An improved "reflowprint" with UTF-8, multicolor, and justify support.
+*   [Manami (⭐30)](https://github.com/MikuAuahDark/NPad93/blob/master/manami.lua) - An improved "reflowprint" with UTF-8, multicolor, and justify support.
 
 ### UI
 
-*   [Inky (⭐20)](https://github.com/Keyslam/Inky) - Any-purpose GUI framework.
+*   [Inky (⭐25)](https://github.com/Keyslam/Inky) - Any-purpose GUI framework.
 
 ## [3. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
@@ -42,53 +42,53 @@
 
 ### Networking
 
-*   [Boost.Asio (⭐945)](https://github.com/boostorg/asio) :zap: - A cross-platform C++ library for network and low-level I/O programming. \[Boost] [website](https://boost.org/libs/asio)
+*   [Boost.Asio (⭐1k)](https://github.com/boostorg/asio) :zap: - A cross-platform C++ library for network and low-level I/O programming. \[Boost] [website](https://boost.org/libs/asio)
 
 ### CLI
 
-*   [Boost.Program\_options (⭐80)](https://github.com/boostorg/program_options) - A library to obtain program options via conventional methods such as command line and config file. \[Boost] [website](https://boost.org/libs/program_options)
+*   [Boost.Program\_options (⭐83)](https://github.com/boostorg/program_options) - A library to obtain program options via conventional methods such as command line and config file. \[Boost] [website](https://boost.org/libs/program_options)
 
 ### Debug
 
-*   [Boost.Test (⭐134)](https://github.com/boostorg/test) - Boost Test Library. \[Boost] [website](https://boost.org/libs/test)
+*   [Boost.Test (⭐143)](https://github.com/boostorg/test) - Boost Test Library. \[Boost] [website](https://boost.org/libs/test)
 
 ### Image Processing
 
-*   [Boost.GIL (⭐159)](https://github.com/boostorg/gil) - Generic Image Library. \[Boost] [website](https://boost.org/libs/gil)
+*   [Boost.GIL (⭐167)](https://github.com/boostorg/gil) - Generic Image Library. \[Boost] [website](https://boost.org/libs/gil)
 
 ### Inter-process communication
 
-*   [Boost.Interprocess (⭐97)](https://github.com/boostorg/interprocess) - Header-only Boost library that supports kernel-level shared memory and memory-mapped files, with in-built synchronization mechanisms (semaphores, mutexes, and more). \[Boost] [website](https://boost.org/libs/interprocess)
+*   [Boost.Interprocess (⭐106)](https://github.com/boostorg/interprocess) - Header-only Boost library that supports kernel-level shared memory and memory-mapped files, with in-built synchronization mechanisms (semaphores, mutexes, and more). \[Boost] [website](https://boost.org/libs/interprocess)
 
 ### XML
 
-*   [Boost.PropertyTree (⭐40)](https://github.com/boostorg/property_tree) - A property tree parser/generator that can be used to parse XML/JSON/INI/Info files. \[Boost] [website](https://boost.org/libs/property_tree)
+*   [Boost.PropertyTree (⭐42)](https://github.com/boostorg/property_tree) - A property tree parser/generator that can be used to parse XML/JSON/INI/Info files. \[Boost] [website](https://boost.org/libs/property_tree)
 
 ### Logging
 
-*   [Boost.Log (⭐160)](https://github.com/boostorg/log) - Designed to be very modular and extensible. \[Boost] [website](https://boost.org/libs/log)
+*   [Boost.Log (⭐165)](https://github.com/boostorg/log) - Designed to be very modular and extensible. \[Boost] [website](https://boost.org/libs/log)
 
 ### Math
 
-*   [Boost.Multiprecision (⭐151)](https://github.com/boostorg/multiprecision) - provides higher-range/precision integer, rational and floating-point types in C++, header-only or with GMP/MPFR/LibTomMath backends. \[Boost] [website](https://boost.org/libs/multiprecision)
+*   [Boost.Multiprecision (⭐158)](https://github.com/boostorg/multiprecision) - provides higher-range/precision integer, rational and floating-point types in C++, header-only or with GMP/MPFR/LibTomMath backends. \[Boost] [website](https://boost.org/libs/multiprecision)
 
 ### Scripting
 
-*   [Boost.Python (⭐398)](https://github.com/boostorg/python) - A C++ library which enables seamless interoperability between C++ and the Python programming language. \[Boost] [website](https://boost.org/libs/python)
+*   [Boost.Python (⭐420)](https://github.com/boostorg/python) - A C++ library which enables seamless interoperability between C++ and the Python programming language. \[Boost] [website](https://boost.org/libs/python)
 
 ### Serialization
 
-*   [Boost.Serialization (⭐106)](https://github.com/boostorg/serialization) - Boost Serialization Library. \[Boost] [website](https://boost.org/libs/serialization)
+*   [Boost.Serialization (⭐110)](https://github.com/boostorg/serialization) - Boost Serialization Library. \[Boost] [website](https://boost.org/libs/serialization)
 
 ### Miscellaneous
 
-*   [Boost.Signals2 (⭐56)](https://github.com/boostorg/signals2) - An implementation of a managed signals and slots system. \[Boost] [website](https://boost.org/libs/signals2)
+*   [Boost.Signals2 (⭐58)](https://github.com/boostorg/signals2) - An implementation of a managed signals and slots system. \[Boost] [website](https://boost.org/libs/signals2)
 
 ## [6. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Health and Fitness
 
-*   [Meditation App (⭐9)](https://github.com/Re4ch-Jay/Meditation_App) - An app that makes you calm, relief, relax, and focus 🧘 by [Phat Panhareach](https://github.com/Re4ch-Jay/).
+*   [Meditation App (⭐14)](https://github.com/Re4ch-Jay/Meditation_App) - An app that makes you calm, relief, relax, and focus 🧘 by [Phat Panhareach](https://github.com/Re4ch-Jay/).
 
 ## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -96,13 +96,13 @@
 
 *   [Who Owns the Generative AI Platform? | Andreessen Horowitz](https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/): this article discusses the generative AI market and presents an interesting technology stack of the area
 
-### Inbox: Large Language Models / Contribute to Our Repository
+### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
-*   [logspace-ai/langflow (⭐7.2k)](https://github.com/logspace-ai/langflow): a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows
+*   [logspace-ai/langflow (⭐13k)](https://github.com/logspace-ai/langflow): a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows
 
-### Inbox: Large Language Models / Embeddings and Semantic Search
+### Inbox: Large Language Models (LLMs) / Embeddings and Semantic Search
 
-*   [facebookresearch/faiss (⭐22k)](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors
+*   [facebookresearch/faiss (⭐25k)](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors
 
 ### Inbox: Games and AI / Generative Adversarial Networks (GANs)
 
@@ -110,12 +110,12 @@
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf-dir-navigator (⭐25)](https://github.com/KulkarniKaustubh/fzf-dir-navigator) - This is a cool and user-friendly directory navigation plugin for `zsh` using `fzf`.
-*   [lsd (wintermi) (⭐2)](https://github.com/wintermi/zsh-lsd) - Override `ls` and `tree` commands with [lsd (⭐9.8k)](https://github.com/Peltoche/lsd).
-*   [lsd (z-shell) (⭐4)](https://github.com/z-shell/zsh-lsd) - Replaces `ls` with [lsd (⭐9.8k)](https://github.com/Peltoche/lsd).
-*   [penmux (⭐0)](https://github.com/mfulz/zsh-penmux) - A session manager plugin meant to be used for penetration testing sessions and tracking the terminal sessions to be used in reports.
+*   [fzf-dir-navigator (⭐32)](https://github.com/KulkarniKaustubh/fzf-dir-navigator) - This is a cool and user-friendly directory navigation plugin for `zsh` using `fzf` that allows the user to switch to any directory from anywhere and to anywhere. It also maintains a history of recently visited directories. Additionally, you can use hotkeys to move back and forth between directories in the shell session.
+*   [lsd (wintermi) (⭐2)](https://github.com/wintermi/zsh-lsd) - Override `ls` and `tree` commands with [lsd (⭐11k)](https://github.com/Peltoche/lsd).
+*   [lsd (z-shell) (⭐6)](https://github.com/z-shell/zsh-lsd) - Replaces `ls` with [lsd (⭐11k)](https://github.com/Peltoche/lsd).
+*   [penmux (⭐2)](https://github.com/mfulz/zsh-penmux) - A session manager plugin meant to be used for penetration testing sessions and tracking the terminal sessions to be used in reports.
 
 ---
 

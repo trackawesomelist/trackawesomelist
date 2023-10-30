@@ -19,7 +19,7 @@
 
 ### Logging
 
-*   [rogger (⭐8)](https://github.com/duartejc/rogger) - Elixir logger to publish log messages in RabbitMQ.
+*   [rogger (⭐9)](https://github.com/duartejc/rogger) - Elixir logger to publish log messages in RabbitMQ.
 
 ## [3. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 

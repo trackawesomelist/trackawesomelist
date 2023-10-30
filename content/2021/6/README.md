@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 08 - Feb 14, 2021
 
-56 awesome lists updated this week.
+55 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,7 +22,7 @@
 
 ### Modules / CLI utils
 
-*   [cliffy (⭐685)](https://github.com/c4spar/deno-cliffy) - The complete solution for building interactive command-line tools.
+*   [cliffy (⭐758)](https://github.com/c4spar/deno-cliffy) - The complete solution for building interactive command-line tools.
 
 ## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
@@ -43,7 +43,13 @@
 
 *   [Creating runtime assisted Codemods using Telemetry helpers](http://hangaroundtheweb.com/2019/10/creating-runtime-assisted-codemods-using-telemetry-helpers/)
 
-## [5. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [5. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Geospatial Research and Mapping Tools / Telegram
+
+*   [Map Maker](https://maps.co)
+
+## [6. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Articles / Other external resources
 
@@ -111,27 +117,17 @@
 *   [GraphQL on Rails: From zero to the first query](https://evilmartians.com/chronicles/graphql-on-rails-1-from-zero-to-the-first-query)
 *   [A fixture-based approach to interface testing in Rails](https://evilmartians.com/chronicles/a-fixture-based-approach-to-interface-testing-in-rails)
 
-## [6. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [7. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Conferences
 
 *   [Data Council](https://www.datacouncil.ai/about) Data Council is the first technical conference that bridges the gap between data scientists, data engineers and data analysts.
 
-## [7. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [8. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Platforms / Localization and translation platforms
 
 *   [SimpleLocalize](https://simplelocalize.io) - A simple translation management for software projects.
-
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
-
-### Software / File Transfer - Single-click & Drag-n-drop Upload
-
-*   [Kleeja](https://kleeja.net/) - File Upload/sharing application, used by thousands of webmasters since 2007. ([Source Code (⭐173)](https://github.com/kleeja-official/kleeja)) `GPL-2.0` `PHP`
-
-### Software / Media Streaming - Video Streaming
-
-*   [Olaris](https://gitlab.com/olaris/olaris-server) - Olaris is an open-source, community driven, media manager and transcoding server. `GPL-3.0` `Go`
 
 ## [9. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
@@ -149,14 +145,14 @@
 
 ### Loader
 
-*   [react-spinners (⭐2.6k)](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react.
+*   [react-spinners (⭐2.8k)](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react.
 *   [react-content-loader (⭐13k)](https://github.com/danilowoz/react-content-loader) - SVG-Powered component to easily create placeholder loadings (like Facebook's cards loading).
 
 ## [11. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Development Tools
 
-*   [create-react-app (⭐100k)](https://github.com/facebook/create-react-app) - Set up a modern Web app by running one command
+*   [create-react-app (⭐101k)](https://github.com/facebook/create-react-app) - Set up a modern Web app by running one command
 
 ## [12. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
@@ -228,11 +224,11 @@
 
 ### Applications / Cryptocurrencies
 
-*   [Forest (⭐542)](https://github.com/ChainSafe/forest) - Rust Filecoin implementation [![Build Status](https://img.shields.io/circleci/build/gh/ChainSafe/forest/main?branch=master)](https://app.circleci.com/pipelines/github/ChainSafe/forest?branch=main)
+*   [Forest (⭐568)](https://github.com/ChainSafe/forest) - Rust Filecoin implementation [![Build Status](https://img.shields.io/circleci/build/gh/ChainSafe/forest/main?branch=master)](https://app.circleci.com/pipelines/github/ChainSafe/forest?branch=main)
 
 ### Libraries / Parsing
 
-*   [softdevteam/grmtools (⭐392)](https://github.com/softdevteam/grmtools/) - A LR parser with better error correction
+*   [softdevteam/grmtools (⭐413)](https://github.com/softdevteam/grmtools/) - A LR parser with better error correction
 
 ## [16. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
@@ -245,7 +241,7 @@
 
 ### Applications / Web
 
-*   [Builder Book App (⭐3.5k)](https://github.com/async-labs/builderbook) - Web app to publish books or documentation built with React and Express
+*   [Builder Book App (⭐3.6k)](https://github.com/async-labs/builderbook) - Web app to publish books or documentation built with React and Express
 
 ## [18. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -257,22 +253,22 @@
 
 ### Templates / Vue 3
 
-*   [Vitesse (⭐7.4k)](https://github.com/antfu/vitesse) - Opinionated starter template.
-*   [vite-ts-tailwind-starter (⭐312)](https://github.com/Uninen/vite-ts-tailwind-starter) - TypeScript, Tailwind CSS, Cypress.io e2e tests + CI.
+*   [Vitesse (⭐8.1k)](https://github.com/antfu/vitesse) - Opinionated starter template.
+*   [vite-ts-tailwind-starter (⭐348)](https://github.com/Uninen/vite-ts-tailwind-starter) - TypeScript, Tailwind CSS, Cypress.io e2e tests + CI.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-rsw (⭐333)](https://github.com/lencx/vite-plugin-rsw) - Load rust-compiled (wasm-pack) WebAssembly packages.
-*   [vite-imagetools (⭐577)](https://github.com/JonasKruckenberg/vite-imagetools) - Load and transform images using url query parameters.
+*   [vite-plugin-rsw (⭐364)](https://github.com/lencx/vite-plugin-rsw) - Load rust-compiled (wasm-pack) WebAssembly packages.
+*   [vite-imagetools (⭐733)](https://github.com/JonasKruckenberg/vite-imagetools) - Load and transform images using url query parameters.
 
 ### React / Framework
 
-*   [vite-plugin-react-pages (⭐354)](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app.
+*   [vite-plugin-react-pages (⭐383)](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app.
 
 ### Rollup Plugins / Compatible with Vite
 
-*   [@rollup/plugin-image (⭐3.2k)](https://github.com/rollup/plugins/blob/master/packages/image) - Import JPG, PNG, GIF, SVG, and WebP files (needs `enforce: 'pre'`).
-*   [@rollup/plugin-strip (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/strip) - Remove debugger statements and functions from your code.
+*   [@rollup/plugin-image (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/image) - Import JPG, PNG, GIF, SVG, and WebP files (needs `enforce: 'pre'`).
+*   [@rollup/plugin-strip (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/strip) - Remove debugger statements and functions from your code.
 
 ### Apps/Websites / Community
 
@@ -282,11 +278,11 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [LogChimp (⭐434)](https://github.com/logchimp/logchimp) - Open-source software to track your customer's feedback to build better products.
+*   [LogChimp (⭐515)](https://github.com/logchimp/logchimp) - Open-source software to track your customer's feedback to build better products.
 
 ### Components & Libraries / UI Components
 
-*   [oh-vue-icons (⭐198)](https://github.com/Renovamen/oh-vue-icons) - A Vue component for including inline SVG icons from different popular iconpacks easily.
+*   [oh-vue-icons (⭐209)](https://github.com/Renovamen/oh-vue-icons) - A Vue component for including inline SVG icons from different popular iconpacks easily.
 
 ## [21. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -362,7 +358,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Godot Shaders (⭐2.1k)](https://github.com/GDQuest/godot-shaders) - A large library of free and open-source shaders for 2D and 3D.
+*   [Godot Shaders (⭐2.2k)](https://github.com/GDQuest/godot-shaders) - A large library of free and open-source shaders for 2D and 3D.
 
 ## [26. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
@@ -388,12 +384,12 @@
 
 *   [jIO](http://www.j-io.org/) is a client-side JavaScript library to manage documents across multiple storages, in a modular way, such as LocalStorage, WebDAV, Amazon S3, you name it.
 *   [Kademlia](http://en.wikipedia.org/wiki/Kademlia) is a distributed hash table for decentralized peer-to-peer computer networks
-*   [OpenDHT (⭐919)](https://github.com/savoirfairelinux/opendht) is a lightweight C++11 Distributed Hash Table implementation offering a clean and powerful distributed map API. It is used by [Ring](https://ring.cx), is able to listen to value changes and adds a cryptography layer.
+*   [OpenDHT (⭐943)](https://github.com/savoirfairelinux/opendht) is a lightweight C++11 Distributed Hash Table implementation offering a clean and powerful distributed map API. It is used by [Ring](https://ring.cx), is able to listen to value changes and adds a cryptography layer.
 *   [Shark](http://sharksystem.net/) is an open source framework for building semantic P2P applications in Java. It facilitates building decentralized application based on the notion of ontologies. The name is an acronym for 'Shared Knowledge'.
 
 ### Messaging
 
-*   [cabal](http://cabal.chat) is a distributed chat platform built ontop of dat's foundational technologies. It's like IRC except you have backscroll when you join, and there are no servers. There is currently a [nodejs library (⭐299)](https://github.com/cabal-club/cabal-core), a [terminal client (⭐517)](https://github.com/cabal-club/cabal), a [desktop client (⭐784)](https://github.com/cabal-club/cabal-desktop), and an experimental [mobile client (⭐147)](https://github.com/cabal-club/cabal-mobile).
+*   [cabal](http://cabal.chat) is a distributed chat platform built ontop of dat's foundational technologies. It's like IRC except you have backscroll when you join, and there are no servers. There is currently a [nodejs library (⭐300)](https://github.com/cabal-club/cabal-core), a [terminal client (⭐518)](https://github.com/cabal-club/cabal), a [desktop client (⭐803)](https://github.com/cabal-club/cabal-desktop), and an experimental [mobile client (⭐147)](https://github.com/cabal-club/cabal-mobile).
 *   [Delta Chat](https://delta.chat) is a free software chat application and ecosystem based on IMAP and SMTP, which leverages end-to-end encryption via [autocrypt](https://autocrypt.org/). It piggybacks on top of the huge, already existing email infrastructure. All you need to get started is an email address. There's a client for Android and clients for iOS and desktop in the works. Follow the development on the [GitHub page](https://github.com/deltachat).
 *   [Meshtastic](https://www.meshtastic.org) as an open-source extendable mesh communication and location sharing device.  Based on off-the-shelf $30 modules from various vendors, 8 day battery life. Good for skiers, hikers, protestors, finding lost kids, etc...
 *   [PrivMX WebMail](https://privmx.com) is an alternative private mail system with independent, decentralized PKI and support for end-to-end encrypted web forms.
@@ -404,7 +400,6 @@
 
 ### Networking
 
-*   [The FNF](http://thefnf.org/) is the free network foundation: teaching how to build wireless community networks.
 *   [Freifunk](http://en.freifunk.net) is a non-commercial initiative for free decentralised wireless mesh networks. Technically Freifunk firmwares are based on [OpenWRT](http://www.openwrt.net) and OLSR or B.A.T.M.A.N.
 *   [Funkfeuer](http://funkfeuer.at/) is, just like Freifunk, a non commercial initiative for free wireless mesh networks. Funkfeuer is based in Austria and uses [OpenWRT](http://www.openwrt.net) as the firmware for the Routers.
 *   [IPOP (IP-over-P2P)](http://ipop-project.org/) is an open-source user-centric software virtual network allowing end users to define and create their own virtual private networks.
@@ -428,7 +423,7 @@
 *   [Scuttlebutt](https://www.scuttlebutt.nz) gossip based p2p community social media, chess, book reviews, gatherings, ... (code [here](https://www.github.com/ssbc))
 *   [Synereo](http://www.synereo.com/) is an open source, decentralized **social network**. It is an **attention economy** that rewards popular content and participation with crypto-currency. Content is promoted or advertised in a way that fairly rewards the content's creator and those who choose to engage with that content. An automatic and transparent **reputation economy** assures that you experience content relevant to you. The privacy of your communications and contacts is baked-in to the structure of the network. Synereo is modeled in [π-calculus](https://en.wikipedia.org/wiki/%CE%A0-calculus) and functionally programmed in Scala.
 *   [Tonika](http://pdos.csail.mit.edu/~petar/5ttt.org/) is a (digital) social network, which (by design) restricts direct communication to pairs of users who are friends, possesses many of the security properties (privacy, anonymity, deniability, resilience to denial-of-service attacks, etc.) that human sociaties implement organically in daily life.
-*   [trsst](http://www.trsst.com/) looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys. Protocol implementation draft is available on [github (⭐174)](https://github.com/TrsstProject/trsst).
+*   [trsst](http://www.trsst.com/) looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys. Protocol implementation draft is available on [github (⭐173)](https://github.com/TrsstProject/trsst).
 *   [Twister](http://twister.net.co) is a secure and fully-decentralized P2P microblogging platform based on concepts and code from Bitcoin and Libtorrent (as described in [this whitepaper](http://arxiv.org/abs/1312.7152)). Feel free to contribute to its [core service (⭐1.4k)](https://github.com/miguelfreitas/twister-core) or [HTML UI (⭐230)](https://github.com/miguelfreitas/twister-html)!
 *   [Vole](http://vole.cc/) is a web-based social network that you use in your browser, without a central server. It's built on the power of Bittorrent, Go and Ember.js. Uses bittorrent sync.
 
@@ -447,9 +442,9 @@
 *   [Swarm](https://swarm.ethereum.org) is a distributed storage platform and content distribution service, a native base layer service of the ethereum web3 stack. It uses the ethereum economy to incentivize P2P storage.
 *   [VirtKick](https://www.virtkick.io/) is your self-hosted DigitalOcean. Take cloud back to your computer, home network or a dedicated server. Manage virtual machines, Docker containers and create 1-click apps.
 *   [Bitmarkets (⭐110)](https://github.com/voluntarynet/bitmarkets) a working decentralized marketplace based on bitcoinj and bitmessage.
-*   [P (⭐407)](https://github.com/unsetbit/p) is a small JavaScript library for creating peer-to-peer applications in browsers. It allows for transitive connections across peers which makes certain network topologies, such mesh networks,easy to establish.
+*   [P (⭐408)](https://github.com/unsetbit/p) is a small JavaScript library for creating peer-to-peer applications in browsers. It allows for transitive connections across peers which makes certain network topologies, such mesh networks,easy to establish.
 *   [Streisand (⭐23k)](https://github.com/jlund/streisand) sets up a new server running L2TP/IPsec, OpenSSH, OpenVPN, Shadowsocks, Stunnel, and a Tor bridge. It also generates custom configuration instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, or fellow activists.
-*   [OTRTalk (⭐49)](https://github.com/mnaamani/otrtalk) Is a command line based chat application, uses BitTorrent P2P DHT Network for peer discovery and OTR (Off the Record) for secure messaging.
+*   [OTRTalk (⭐50)](https://github.com/mnaamani/otrtalk) Is a command line based chat application, uses BitTorrent P2P DHT Network for peer discovery and OTR (Off the Record) for secure messaging.
 *   [Quietnet (⭐2.9k)](https://github.com/Katee/quietnet) is a simple chat program using near ultrasonic frequencies. It works without Wi-Fi or Bluetooth and cannot be eavesdropped using conventional network capturing methods.
 
 ## [27. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
@@ -478,24 +473,24 @@
 
 ### Scheduling
 
-*   [Cronicle (⭐1.6k)](https://github.com/jhuckaby/Cronicle) - Distributed, easy to install, NodeJS based, task scheduler
+*   [Cronicle (⭐2.1k)](https://github.com/jhuckaby/Cronicle) - Distributed, easy to install, NodeJS based, task scheduler
 
 ### Data Visualization
 
-*   [Dash (⭐18k)](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. Built on top of plotly, no JS required
+*   [Dash (⭐19k)](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. Built on top of plotly, no JS required
 
 ## [31. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Web frameworks / Isomorphic web frameworks
 
-*   [CLOG (⭐1.2k)](https://github.com/rabbibotton/clog) - The Common Lisp Omnificent GUI. Uses web technology to produce graphical user interfaces for applications locally or remotely. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [CLOG (⭐1.3k)](https://github.com/rabbibotton/clog) - The Common Lisp Omnificent GUI. Uses web technology to produce graphical user interfaces for applications locally or remotely. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   CLOG is based on the ideas of GNOGA, a framework the author wrote for Ada and used in commercial production code since 2013.
-*   [Interactive SSR (⭐31)](https://github.com/interactive-ssr/client/blob/master/main.org/) - ISSR allows you to make interactive web pages without writing client scripting. No knowledge about Javascript or DOM is necessary.
+*   [Interactive SSR (⭐34)](https://github.com/interactive-ssr/client/blob/master/main.org/) - ISSR allows you to make interactive web pages without writing client scripting. No knowledge about Javascript or DOM is necessary.
     *   it is not unlike Phoenix LiveView or Hotwire.
 
 ### Emacs / Third-party APIs
 
-*   [Emacs4CL (⭐251)](https://github.com/susam/emacs4cl) - A tiny Emacs initialization file to quickly set up vanilla Emacs for Common Lisp programming. Comes with a line-by-line explanation of every line of code in the initialization file.
+*   [Emacs4CL (⭐338)](https://github.com/susam/emacs4cl) - A tiny Emacs initialization file to quickly set up vanilla Emacs for Common Lisp programming. Comes with a line-by-line explanation of every line of code in the initialization file.
 
 ## [32. Awesome Italy Events](/content/ildoc/awesome-italy-events/week/README.md)
 
@@ -544,7 +539,7 @@
 
 ### Books
 
-- API: [Crossref Metadata Search (⭐642)](https://github.com/CrossRef/rest-api-doc)
+- API: [Crossref Metadata Search (⭐695)](https://github.com/CrossRef/rest-api-doc)
 
   Description: Books & Articles Metadata
 
@@ -558,7 +553,7 @@
 
 ### Social
 
-- API: [4chan (⭐901)](https://github.com/4chan/4chan-API)
+- API: [4chan (⭐964)](https://github.com/4chan/4chan-API)
 
   Description: Simple image-based bulletin board dedicated to a variety of topics
 
@@ -600,7 +595,7 @@
 
 ### Frameworks
 
-*   [C++ Workflow (⭐11k)](https://github.com/sogou/workflow) :zap: - C++ Parallel Computing and Asynchronous Networking Engine. \[Apache2]
+*   [C++ Workflow (⭐12k)](https://github.com/sogou/workflow) :zap: - C++ Parallel Computing and Asynchronous Networking Engine. \[Apache2]
 
 ## [38. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
@@ -612,44 +607,32 @@
 
 ### Utility / Barcode
 
-*   [SwiftPlantUML (⭐434)](https://github.com/MarcoEidinger/SwiftPlantUML) - A command-line tool and Swift Package to generate UML class from your Swift source code. Also available as Xcode Source Editor Extension.
+*   [SwiftPlantUML (⭐493)](https://github.com/MarcoEidinger/SwiftPlantUML) - A command-line tool and Swift Package to generate UML class from your Swift source code. Also available as Xcode Source Editor Extension.
 
 ## [40. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### GUI
 
-*   [Ruby-GNOME (⭐365)](https://github.com/ruby-gnome/ruby-gnome) - Ruby language bindings for the GNOME development environment.
+*   [Ruby-GNOME (⭐370)](https://github.com/ruby-gnome/ruby-gnome) - Ruby language bindings for the GNOME development environment.
 
 ## [41. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Hub (⭐5.8k)](https://github.com/activeloopai/Hub) - Fastest unstructured dataset management for TensorFlow/PyTorch. Stream & version-control data. Store even petabyte-scale data in a single numpy-like array on the cloud accessible on any machine. Visit [activeloop.ai](https://activeloop.ai) for more info.
+*   [Hub (⭐6.8k)](https://github.com/activeloopai/Hub) - Fastest unstructured dataset management for TensorFlow/PyTorch. Stream & version-control data. Store even petabyte-scale data in a single numpy-like array on the cloud accessible on any machine. Visit [activeloop.ai](https://activeloop.ai) for more info.
 
 ## [42. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Security and PKI
 
-*   [atomist.com](https://atomist.com/) — A quicker and more convenient way to automate a variety of development tasks. Now in beta.
+*   [atomist.com](https://atomist.com/) — A quicker and more convenient way to automate various development tasks. Now in beta.
 
 ### Email
 
-*   [Bump](https://bump.email/) - Free 10 Bump email addresses, 1 custom domain
+*   [Bump](https://bump.email/) - Free 10 Bump email addresses, one custom domain
 *   [temp-mail.io](https://temp-mail.io) — Free disposable temporary email service with multiple emails at once and forwarding
 
-## [43. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
-
-### Geospatial Research and Mapping Tools / Telegram
-
-*   [Map Maker](https://maps.co)
-
-### Project Management Tools / Telegram
-
-*   [ClickUp](https://www.clickup.com) - Heavy-weight Task Management
-*   [Scrumfast](https://www.scrumfast.com) - Light-weight, Free Project Management Tool
-*   [Trello](https://www.trello.com) - Free Team Project Board
-
-## [44. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
+## [43. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
 ### Official resources
 
@@ -688,7 +671,7 @@
 
 *   [Salt Formulas](http://www.yet.org/2016/09/salt-formulas/) In-depth blogpost about Salt Formulas. :gem:
 
-## [45. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [44. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Books
 
@@ -698,7 +681,7 @@
 
 *   [ocephes (⭐12)](https://github.com/rleonid/ocephes) - Bindings to frequently used `C` special functions library.
 
-## [46. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [45. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Forms / Really Simple Forms
 
@@ -708,7 +691,7 @@
 
 *   [Uthentic](https://uthentic.net) - Serverless, passwordless login for static sites in 2 lines of code.
 
-## [47. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [46. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### CSharp
 
@@ -730,23 +713,23 @@
 
 *   [Awesome CI/CD DevOps (⭐1.7k)](https://github.com/ciandcd/awesome-ciandcd) :star: - A curated list of awesome tools for continuous integration, continuous delivery and DevOps.
 
-## [48. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [47. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Datastores / Online resources
 
 *   [databunker](https://databunker.org/) - Databunker is an address book on steroids for storing personal data. GDPR and encryption are out of the box.
 
-## [49. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [48. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
-### Distribution
+### Distribution / Text-Based User Interfaces
 
-*   [Artipie (⭐339)](https://github.com/artipie/artipie) - Binary artifact management toolkit which hosts them on the file system or S3.
+*   [Artipie (⭐415)](https://github.com/artipie/artipie) - Binary artifact management toolkit which hosts them on the file system or S3.
 
 ### Security / Other
 
-*   [Password4j (⭐258)](https://github.com/Password4j/password4j) - User-friendly cryptographic library that supports Argon2, Bcrypt, Scrypt, PBKDF2 and various other cryptographic hash functions.
+*   [Password4j (⭐299)](https://github.com/Password4j/password4j) - User-friendly cryptographic library that supports Argon2, Bcrypt, Scrypt, PBKDF2 and various other cryptographic hash functions.
 
-## [50. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [49. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
@@ -756,7 +739,7 @@
 
 *   🎓 [Create a responsive navigation menu in Tailwind CSS](https://www.themes.dev/blog/responsive-navigation-menu-tailwind-css/)
 
-## [51. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [50. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Documentation and Presentation
 
@@ -774,23 +757,23 @@
 
 *   [Papers With Code](https://www.paperswithcode.com/datasets) - Thousands of machine learning datasets provided by Papers With Code.
 
-## [52. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
+## [51. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
 
 ### Reforestation
 
 *   [Reforestum](https://reforestum.com/) - Reforestum is an online marketplace to drive reforestation and forest conservation, incentivizing companies and individuals to easily offset their carbon footprint by acquiring and tracking forest shares and carbon credits. Reforestum offers transparency via remote sensing and AI, together with a comprehensible API for seamless integration.
 
-## [53. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [52. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Libraries and Frameworks / Databases
 
-*   [Message DB (⭐1.5k)](https://github.com/message-db/message-db) - Microservice Native Event Store and Message Store for Postgres. A fully-featured event store and message store implemented in PostgreSQL for Pub/Sub, Event Sourcing, Messaging, and Evented Microservices applications.
+*   [Message DB (⭐1.6k)](https://github.com/message-db/message-db) - Microservice Native Event Store and Message Store for Postgres. A fully-featured event store and message store implemented in PostgreSQL for Pub/Sub, Event Sourcing, Messaging, and Evented Microservices applications.
 
 ### Libraries and Frameworks / Ruby
 
 *   [Eventide](https://eventide-project.org) - Event Sourcing and Microservices Stack for Ruby. A set of libraries for writing event driven, autonomous services.
 
-## [54. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [53. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Meta
 
@@ -805,12 +788,12 @@
 ### Business
 
 *   [Falsehoods about Prices](https://gist.github.com/rgs/6509585) - Covers currencies, amounts and localization.
-*   [Falsehoods about IBANs (⭐434)](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
+*   [Falsehoods about IBANs (⭐439)](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
 *   [Falsehoods about Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) - Economics are not simple or rational.
 
 ### Cryptocurrency
 
-*   [Falsehoods about Bitcoin (⭐44)](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - A list of mistaken perspectives on Bitcoin.
+*   [Falsehoods about Bitcoin (⭐45)](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - A list of mistaken perspectives on Bitcoin.
 
 ### Dates and Time
 
@@ -868,7 +851,7 @@
 
 ### Software Engineering
 
-*   [Falsehoods about Versions (⭐65)](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) - Attributing an identity to a software release might be harder than thought.
+*   [Falsehoods about Versions (⭐66)](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) - Attributing an identity to a software release might be harder than thought.
 *   [Falsehoods about Build Systems](https://pozorvlak.livejournal.com/174763.html) - Building software is hard. Building software that builds software is harder.
 *   [Falsehoods about CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) - While RFC4180 to exists, it is far from definitive and goes largely ignored.
 *   [Falsehoods about Testing](https://club.ministryoftesting.com/t/falsehoods-testers-believe/1371) - An attempt to establish a list of falsehoods about testing.
@@ -884,20 +867,20 @@
 
 ### Typography
 
-*   [Falsehoods about Fonts (⭐91)](https://github.com/RoelN/Font-Falsehoods) - Assumptions about typography on the web and in desktop applications.
+*   [Falsehoods about Fonts (⭐92)](https://github.com/RoelN/Font-Falsehoods) - Assumptions about typography on the web and in desktop applications.
 
-## [55. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [54. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Boilerplates / Individual Podcast episodes
 
-*   [Elm Batteries (⭐111)](https://github.com/cedricss/elm-batteries) - A project template and generator for Elm, Parcel, Cypress and Netlify
+*   [Elm Batteries (⭐112)](https://github.com/cedricss/elm-batteries) - A project template and generator for Elm, Parcel, Cypress and Netlify
 *   [IHP + Elm](https://www.youtube.com/watch?v=b9ULHutH6ag) - The IHP Haskell Framework provides a built-in Elm boilerplate, useful when working with elm in the frontend and haskell in the backend
 
 ### Inspired by Elm / Games
 
 *   [MAUI](https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/) - .NET Multi-platform App UI
 
-## [56. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [55. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Tutorials and Blog Posts / NumPyro
 

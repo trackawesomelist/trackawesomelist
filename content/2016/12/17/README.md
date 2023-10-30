@@ -31,8 +31,8 @@
 
 *   Profiler
     *   [line\_profiler (⭐3.6k)](https://github.com/rkern/line_profiler) - Line-by-line profiling.
-    *   [memory\_profiler (⭐79)](https://github.com/fabianp/memory_profiler) - Monitor Memory usage of Python code.
-    *   [py-spy (⭐9.9k)](https://github.com/benfred/py-spy) - A sampling profiler for Python programs. Written in Rust.
+    *   [memory\_profiler (⭐81)](https://github.com/fabianp/memory_profiler) - Monitor Memory usage of Python code.
+    *   [py-spy (⭐10k)](https://github.com/benfred/py-spy) - A sampling profiler for Python programs. Written in Rust.
     *   [pyflame (⭐3k)](https://github.com/uber/pyflame) - A ptracing profiler For Python.
     *   [vprof (⭐3.9k)](https://github.com/nvdv/vprof) - Visual Python profiler.
 
@@ -47,11 +47,11 @@
 ### Packages / Command-line apps
 
 *   [cost-of-modules (⭐2.8k)](https://github.com/siddharthkp/cost-of-modules) - Find out which dependencies are slowing you down.
-*   [localtunnel (⭐16k)](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world.
+*   [localtunnel (⭐17k)](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world.
 
 ### Packages / Text
 
-*   [unhomoglyph (⭐32)](https://github.com/nodeca/unhomoglyph) - Normalize visually similar unicode characters.
+*   [unhomoglyph (⭐34)](https://github.com/nodeca/unhomoglyph) - Normalize visually similar unicode characters.
 
 ---
 

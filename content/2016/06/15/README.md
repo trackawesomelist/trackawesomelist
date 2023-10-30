@@ -34,7 +34,7 @@
 
 ### Network / Barcode
 
-*   [Malibu (⭐10)](https://github.com/hyperoslo/Malibu) - A networking library built on promises.
+*   [Malibu (⭐11)](https://github.com/hyperoslo/Malibu) - A networking library built on promises.
 
 ## [5. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

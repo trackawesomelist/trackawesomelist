@@ -113,9 +113,17 @@
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [ml5 (⭐6k)](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web!
+*   [ml5 (⭐6.2k)](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web!
 
-## [13. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [13. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+
+### In Portuguese
+
+*   [Galera do Rau](http://galeradorau.com.br/category/podcast/galera-do-rau/) - Quatro professores, extremamente nerds, divertidos e com muita história pra contar.
+*   [Rapadura Cast](https://cinemacomrapadura.com.br/cat/rapaduracast-podcast/) - Podcast da galera do Cinema com rapadura, considerado hoje referência sobre cultura pop no Brasil.
+*   [Rede Geek](http://www.redegeek.com.br/podcast/) - Podcast destinado ao público geek sobre diversos assuntos como, tecnologia, ciência, história e outros.
+
+## [14. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Family
 
@@ -189,20 +197,11 @@
 | ------: | -------: | ------: |
 |   3 - 6 |       10 | 60-120m |
 
-## [14. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [15. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### GUI
 
 *   [Gradients (⭐51)](https://github.com/bakhtiyork/gradients) - A curated collection of splendid gradients.
-
-## [15. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
-
-### In Portuguese
-
-*   [Galera do Rau](http://galeradorau.com.br/category/podcast/galera-do-rau/) - Quatro professores, extremamente nerds, divertidos e com muita história pra contar.
-*   [Like a Boss](https://www.likeaboss.com.br) - O podcast Like a Boss é um podcast para empreendedores. Líderes e fundadores de startups e empresas de sucesso sentam com os dois hosts do programa.
-*   [Rapadura Cast](https://cinemacomrapadura.com.br/cat/rapaduracast-podcast/) - Podcast da galera do Cinema com rapadura, considerado hoje referência sobre cultura pop no Brasil.
-*   [Rede Geek](http://www.redegeek.com.br/podcast/) - Podcast destinado ao público geek sobre diversos assuntos como, tecnologia, ciência, história e outros.
 
 ---
 

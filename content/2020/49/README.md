@@ -10,7 +10,7 @@
 
 ### Nginx + Lua
 
-*   [nginx-lua - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu. (⭐91)](https://github.com/fabiocicerchia/nginx-lua)
+*   [nginx-lua - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu. (⭐142)](https://github.com/fabiocicerchia/nginx-lua)
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -20,8 +20,8 @@
 
 ### Threat intelligence / Threat hunting
 
-*   [Sigma (⭐6.1k)](https://github.com/Neo23x0/sigma) - Generic signature format for SIEM systems, offering an open signature format that allows you to describe relevant log events in a straightforward manner.
-*   [YARA (⭐6.5k)](https://github.com/VirusTotal/yara) - Tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples, described as "the pattern matching swiss army knife" for file patterns and signatures.
+*   [Sigma (⭐6.6k)](https://github.com/Neo23x0/sigma) - Generic signature format for SIEM systems, offering an open signature format that allows you to describe relevant log events in a straightforward manner.
+*   [YARA (⭐6.9k)](https://github.com/VirusTotal/yara) - Tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples, described as "the pattern matching swiss army knife" for file patterns and signatures.
 
 ## [3. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
@@ -33,12 +33,12 @@
 
 ### Online Resources / Other Lists Online
 
-*   [Awesome Malware (⭐172)](https://github.com/fabacab/awesome-malware) - Curated collection of awesome malware, botnets, and other post-exploitation tools.
+*   [Awesome Malware (⭐206)](https://github.com/fabacab/awesome-malware) - Curated collection of awesome malware, botnets, and other post-exploitation tools.
 
 ### Privilege Escalation Tools / Password Spraying Tools
 
-*   [DomainPasswordSpray (⭐1.3k)](https://github.com/dafthack/DomainPasswordSpray) - Tool written in PowerShell to perform a password spray attack against users of a domain.
-*   [SprayingToolkit (⭐1.3k)](https://github.com/byt3bl33d3r/SprayingToolkit) - Scripts to make password spraying attacks against Lync/S4B, Outlook Web Access (OWA) and Office 365 (O365) a lot quicker, less painful and more efficient.
+*   [DomainPasswordSpray (⭐1.5k)](https://github.com/dafthack/DomainPasswordSpray) - Tool written in PowerShell to perform a password spray attack against users of a domain.
+*   [SprayingToolkit (⭐1.4k)](https://github.com/byt3bl33d3r/SprayingToolkit) - Scripts to make password spraying attacks against Lync/S4B, Outlook Web Access (OWA) and Office 365 (O365) a lot quicker, less painful and more efficient.
 
 ## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Contents / Monitoring
 
-*   [dexter (⭐1.4k)](https://github.com/ankane/dexter) - The automatic indexer for Postgres. Detects slow queries and creates indexes if configured to do so.
+*   [dexter (⭐1.5k)](https://github.com/ankane/dexter) - The automatic indexer for Postgres. Detects slow queries and creates indexes if configured to do so.
 
 ## [12. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
@@ -110,13 +110,13 @@
 
 ### Debugging
 
-*   [Atlantis (⭐967)](https://github.com/ProxymanApp/atlantis) - A little and powerful iOS framework for intercepting HTTP/HTTPS Traffic from your iOS app. No more messing around with proxy and certificate config. Inspect Traffic Log with Proxyman app.
+*   [Atlantis (⭐1k)](https://github.com/ProxymanApp/atlantis) - A little and powerful iOS framework for intercepting HTTP/HTTPS Traffic from your iOS app. No more messing around with proxy and certificate config. Inspect Traffic Log with Proxyman app.
 
 ## [16. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Frameworks
 
-*   [Ember (⭐255)](https://github.com/ember-cli/eslint-plugin-ember) - Linting rules for Ember.
+*   [Ember (⭐256)](https://github.com/ember-cli/eslint-plugin-ember) - Linting rules for Ember.
 
 ## [17. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -158,18 +158,18 @@
 
 ### Demonstrations
 
-*   [Flutter Catalog (⭐1.8k)](https://github.com/X-Wei/flutter_catalog) <!--stargazers:X-Wei/flutter_catalog--> - showcasing Flutter components, with side-by-side source code view, by [X-Wei](https://github.com/X-Wei)
-*   [Generative Art (⭐446)](https://github.com/Solido/flutter-d-art) <!--stargazers:Solido/flutter-d-art--> - Generative Art by [Robert Felker](https://github.com/Solido)
+*   [Flutter Catalog (⭐1.9k)](https://github.com/X-Wei/flutter_catalog) <!--stargazers:X-Wei/flutter_catalog--> - showcasing Flutter components, with side-by-side source code view, by [X-Wei](https://github.com/X-Wei)
+*   [Generative Art (⭐455)](https://github.com/Solido/flutter-d-art) <!--stargazers:Solido/flutter-d-art--> - Generative Art by [Robert Felker](https://github.com/Solido)
 
 ### State management / Standard
 
-*   [RiverPod (⭐3.9k)](https://github.com/rrousselGit/river_pod) <!--stargazers:rrousselGit/river_pod--> - Provider, but different by [Remi Rousselet](https://github.com/rrousselGit)
-*   [GetX (⭐7.9k)](https://github.com/jonataslaw/getx) <!--jonataslaw/getx--> - Contextless, State-management & navigation by [Jonny Borges](https://github.com/jonataslaw)
-*   [Binder (⭐172)](https://github.com/letsar/binder) <!--stargazers:letsar/binder--> -  A lightweight, yet powerful way to bind your application state with your business logic, by [Romain Rastel](https://github.com/letsar).
+*   [RiverPod (⭐4.7k)](https://github.com/rrousselGit/river_pod) <!--stargazers:rrousselGit/river_pod--> - Provider, but different by [Remi Rousselet](https://github.com/rrousselGit)
+*   [GetX (⭐8.8k)](https://github.com/jonataslaw/getx) <!--jonataslaw/getx--> - Contextless, State-management & navigation by [Jonny Borges](https://github.com/jonataslaw)
+*   [Binder (⭐176)](https://github.com/letsar/binder) <!--stargazers:letsar/binder--> -  A lightweight, yet powerful way to bind your application state with your business logic, by [Romain Rastel](https://github.com/letsar).
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [Funvas (⭐468)](https://github.com/creativecreatorormaybenot/funvas) <!--stargazers:creativecreatorormaybenot/funvas--> - Create fun *time based canvas animations* by [creativecreatorormaybenot](https://twitter.com/creativemaybeno).
+*   [Funvas (⭐485)](https://github.com/creativecreatorormaybenot/funvas) <!--stargazers:creativecreatorormaybenot/funvas--> - Create fun *time based canvas animations* by [creativecreatorormaybenot](https://twitter.com/creativemaybeno).
 
 ### Guide & Interviews / Game Engine resources
 
@@ -192,7 +192,7 @@
 
 ### Utils / Other Tools
 
-*   [FastAPI SocketIO (⭐219)](https://github.com/pyropy/fastapi-socketio) - Easy integration for FastAPI and SocketIO.
+*   [FastAPI SocketIO (⭐258)](https://github.com/pyropy/fastapi-socketio) - Easy integration for FastAPI and SocketIO.
 
 ## [22. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
@@ -208,7 +208,7 @@
 
 ### Apps / Mapping
 
-*   [OnlineWardleyMaps (⭐186)](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@MapsAsCode](https://twitter.com/MapsAsCode) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/). Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
+*   [OnlineWardleyMaps (⭐197)](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@MapsAsCode](https://twitter.com/MapsAsCode) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/). Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
 
 ## [24. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
 
@@ -220,7 +220,7 @@
 
 ### Concurrency
 
-*   [cuda-api-wrappers (⭐611)](https://github.com/eyalroz/cuda-api-wrappers) - Lightweight, Modern-C++ wrappers for the CUDA GPU programming runtime API. \[BSD]
+*   [cuda-api-wrappers (⭐661)](https://github.com/eyalroz/cuda-api-wrappers) - Lightweight, Modern-C++ wrappers for the CUDA GPU programming runtime API. \[BSD]
 *   [STAPL](http://parasol-lab.gitlab.io/stapl-home/) - A C++ parallel programming framework designed to work on both shared and distributed memory parallel computers. \[BSD]
 
 ## [26. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
@@ -237,11 +237,11 @@
 
 ### CMS
 
-*   [sensenet](https://sensenet.com) - API-first headless CMS providing enterprise-grade solutions for businesses of all size. The Developer plan provides 3 users, 500 content items, 3 built-in roles, 25+5 content types, fully accessible REST API, document preview generation and Office Online editing.
+*   [sensenet](https://sensenet.com) - API-first headless CMS providing enterprise-grade solutions for businesses of all sizes. The Developer plan provides three users, 500 content items, three built-in roles, 25+5 content types, fully accessible REST API, document preview generation, and Office Online editing.
 
 ### Security and PKI
 
-*   [opswat.com](https://www.opswat.com/) — Security Monitoring of computers, devices, applications, configurations,... Free 25 users and 30 days history users.
+*   [opswat.com](https://www.opswat.com/) — Security Monitoring of computers, devices, applications, configurations, Free 25 users and 30 days history users.
 
 ### DNS
 
@@ -253,7 +253,7 @@
 
 ### Docker Related
 
-*   [Container Registry Service](https://container-registry.com/) - Harbor based Container Management Solution. Free tier offers 1 GB storage for private repositories.
+*   [Container Registry Service](https://container-registry.com/) - Harbor based Container Management Solution. The free tier offers 1 GB of storage for private repositories.
 
 ### Miscellaneous
 
@@ -306,7 +306,7 @@
 
 ### GTFS Libraries / JavaScript
 
-*   [Node-GTFS (⭐384)](https://github.com/BlinkTagInc/node-gtfs) - Loads transit data from GTFS files, unzips it and stores it to a SQLite database. Provides some methods to query for agencies, routes, stops and times.
+*   [Node-GTFS (⭐399)](https://github.com/BlinkTagInc/node-gtfs) - Loads transit data from GTFS files, unzips it and stores it to a SQLite database. Provides some methods to query for agencies, routes, stops and times.
 
 ## [34. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
 
@@ -351,13 +351,13 @@
 
 ### React Renderers
 
-*   [ink (⭐20k)](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
+*   [ink (⭐25k)](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
 
 ## [41. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
-### Tools / i18n frameworks for developers
+### Tools / Libraries and tools for developers
 
-*   [Translate (⭐746)](https://github.com/translate/translate) - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
+*   [Translate (⭐782)](https://github.com/translate/translate) - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
 
 ## [42. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
@@ -369,7 +369,7 @@
 
 *   [Zdog](https://zzz.dog/) - A pseudo-3D engine for canvas & SVG
 *   [Oimo.js (⭐2.8k)](https://github.com/lo-th/Oimo.js/) - Lightweight 3d physics engine for javascript
-*   [Ammo.js (⭐3.5k)](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten
+*   [Ammo.js (⭐3.7k)](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten
 
 ### Other
 
@@ -389,26 +389,26 @@
 
 ### Algorithms and Data structures
 
-*   [Towel (⭐658)](https://github.com/ZacharyPatten/Towel) - data structures, algorithms, mathematics, metadata, extensions, console, measurements, and other useful stuff
+*   [Towel (⭐678)](https://github.com/ZacharyPatten/Towel) - data structures, algorithms, mathematics, metadata, extensions, console, measurements, and other useful stuff
 
 ### GUI
 
-*   [Ookii.Dialogs.Wpf (⭐885)](https://github.com/augustoproiete/ookii-dialogs-wpf) - Enable WPF applications to access common Windows dialogs such as task dialogs, credential dialog, progress dialog, folder browser dialog, and more
-*   [Ookii.Dialogs.WinForms (⭐452)](https://github.com/augustoproiete/ookii-dialogs-winforms) - Enable Windows Forms applications to access common Windows dialogs such as task dialogs, credential dialog, progress dialog, folder browser dialog, and more
+*   [Ookii.Dialogs.Wpf (⭐959)](https://github.com/augustoproiete/ookii-dialogs-wpf) - Enable WPF applications to access common Windows dialogs such as task dialogs, credential dialog, progress dialog, folder browser dialog, and more
+*   [Ookii.Dialogs.WinForms (⭐495)](https://github.com/augustoproiete/ookii-dialogs-winforms) - Enable Windows Forms applications to access common Windows dialogs such as task dialogs, credential dialog, progress dialog, folder browser dialog, and more
 
 ### Minification
 
-*   [CompressedStaticFiles (⭐77)](https://github.com/AnderssonPeter/CompressedStaticFiles) - Send compressed static files to the browser without having to compress on demand, also has support for sending more advanced image formats when the browser indicates that i has support for it.
+*   [CompressedStaticFiles (⭐80)](https://github.com/AnderssonPeter/CompressedStaticFiles) - Send compressed static files to the browser without having to compress on demand, also has support for sending more advanced image formats when the browser indicates that i has support for it.
 
 ### Tools
 
-*   [Downloader (⭐814)](https://github.com/bezzad/Downloader) - Fast and reliable multipart downloader with asynchronous progress events for .NET applications.
+*   [Downloader (⭐967)](https://github.com/bezzad/Downloader) - Fast and reliable multipart downloader with asynchronous progress events for .NET applications.
 
 ## [45. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
 ### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
-*   [Tiếng Việt (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/vn-VN)
+*   [Tiếng Việt (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/vn-VN)
 
 ## [46. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
 
@@ -441,7 +441,7 @@
 
 ### CMS (headless)
 
-*   [Ghost](https://ghost.org/) - Blog platform, can be used as headless CMS (ex. [with Hexo](https://ghost.org/docs/api/v3/hexo/)).
+*   [Ghost](https://ghost.org/) - Blog platform, can be used as headless CMS (ex. [with Hexo](https://ghost.org/docs/api/v3/hexo/)). ![Ghost](https://img.shields.io/github/contributors-anon/tryghost/ghost?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ### Testing
 
@@ -516,9 +516,9 @@
 
 ### Component bundles
 
-*   [Element-Blazor (⭐651)](https://github.com/Element-Blazor/Element-Blazor/blob/master/README.en.md) - ![GitHub stars](https://img.shields.io/github/stars/Element-Blazor/Element-Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Element-Blazor/Element-Blazor?style=flat-square\&cacheSeconds=86400) A blazor component library using Element UI. API imitates Element, CSS directly uses Element's style, HTML structure directly uses Element's HTML structure. [Blazor WebAssembly Version demo](https://blazorwasm.github.io). [Blazor WebAssembly Version PWA Mode demo](https://pwawasm.github.io).
-*   [BlazorFluentUI (⭐777)](https://github.com/BlazorFluentUI/BlazorFluentUI) - ![stars](https://img.shields.io/github/stars/BlazorFluentUI/BlazorFluentUI?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorFluentUI/BlazorFluentUI?style=flat-square\&cacheSeconds=86400) Simple port of FluenUI/Office Fabric React components and style to Blazor. [Client-side demo (WebAssembly)](https://www.blazorfluentui.net/). [Server-side demo (SignalR)](https://blazorfluentui.azurewebsites.net/).
-*   [PanoramicData Blazor UI Components (⭐49)](https://github.com/panoramicdata/PanoramicData.Blazor) - ![stars](https://img.shields.io/github/stars/panoramicdata/PanoramicData.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/PanoramicData/PanoramicData.Blazor) An open source library of Blazor components including Table, Tree, ToolBar and FileExplorer. [Demo](https://panoramicdata.github.io/PanoramicData.Blazor).
+*   [Element-Blazor (⭐670)](https://github.com/Element-Blazor/Element-Blazor/blob/master/README.en.md) - ![GitHub stars](https://img.shields.io/github/stars/Element-Blazor/Element-Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Element-Blazor/Element-Blazor?style=flat-square\&cacheSeconds=86400) A blazor component library using Element UI. API imitates Element, CSS directly uses Element's style, HTML structure directly uses Element's HTML structure. [Blazor WebAssembly Version demo](https://blazorwasm.github.io). [Blazor WebAssembly Version PWA Mode demo](https://pwawasm.github.io).
+*   [BlazorFluentUI (⭐794)](https://github.com/BlazorFluentUI/BlazorFluentUI) - ![stars](https://img.shields.io/github/stars/BlazorFluentUI/BlazorFluentUI?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorFluentUI/BlazorFluentUI?style=flat-square\&cacheSeconds=86400) Simple port of FluenUI/Office Fabric React components and style to Blazor. [Client-side demo (WebAssembly)](https://www.blazorfluentui.net/). [Server-side demo (SignalR)](https://blazorfluentui.azurewebsites.net/).
+*   [PanoramicData Blazor UI Components (⭐52)](https://github.com/panoramicdata/PanoramicData.Blazor) - ![stars](https://img.shields.io/github/stars/panoramicdata/PanoramicData.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/PanoramicData/PanoramicData.Blazor) An open source library of Blazor components including Table, Tree, ToolBar and FileExplorer. [Demo](https://panoramicdata.github.io/PanoramicData.Blazor).
 
 ## [55. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 
@@ -565,7 +565,7 @@
 ### Components & Libraries / UI Components
 
 *   [element-ui-sticky-table (⭐10)](https://github.com/iendeavor/element-ui-sticky-table) - Sticky for element-ui table
-*   [vue-show-more-text (⭐7)](https://github.com/limlt/vue-show-more-text) - Vue multiline sentence ellipsis component. The text in the component will be truncated.
+*   [vue-show-more-text (⭐8)](https://github.com/limlt/vue-show-more-text) - Vue multiline sentence ellipsis component. The text in the component will be truncated.
 
 ### Components & Libraries / Utilities
 

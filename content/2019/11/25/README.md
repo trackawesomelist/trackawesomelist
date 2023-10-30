@@ -56,7 +56,7 @@
 
 ### Libraries
 
-*   [Cron Expression Descriptor (⭐817)](https://github.com/bradymholt/cron-expression-descriptor) - A .NET library that converts cron expressions into human readable descriptions.
+*   [Cron Expression Descriptor (⭐898)](https://github.com/bradymholt/cron-expression-descriptor) - A .NET library that converts cron expressions into human readable descriptions.
 
 ## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Command Line
 
-*   [ModuleInterface (⭐75)](https://github.com/minuscorp/ModuleInterface) - Command Line Tool that generates the Module's Interface from a Swift project.
+*   [ModuleInterface (⭐77)](https://github.com/minuscorp/ModuleInterface) - Command Line Tool that generates the Module's Interface from a Swift project.
 
 ## [10. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

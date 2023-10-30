@@ -116,27 +116,27 @@
 
 ### App Routing
 
-*   [Linker (⭐138)](https://github.com/MaksimKurpa/Linker) - Lightweight way to handle internal and external deeplinks for iOS.
+*   [Linker (⭐137)](https://github.com/MaksimKurpa/Linker) - Lightweight way to handle internal and external deeplinks for iOS.
 
 ### Multi Database
 
-*   [Shallows (⭐622)](https://github.com/dreymonde/Shallows) - Your lightweight persistence toolbox.
+*   [Shallows (⭐627)](https://github.com/dreymonde/Shallows) - Your lightweight persistence toolbox.
 
 ### Other Data
 
-*   [StorageManager (⭐47)](https://github.com/iAmrSalman/StorageManager) - Safe and easy way to use FileManager as Database.
+*   [StorageManager (⭐48)](https://github.com/iAmrSalman/StorageManager) - Safe and easy way to use FileManager as Database.
 
 ### Images / Barcode
 
-*   [ImageScout (⭐972)](https://github.com/kaishin/ImageScout) - Implementation of [fastimage](https://pypi.org/project/fastimage/0.2.1/) - supports PNG, GIF, and JPEG.
+*   [ImageScout (⭐975)](https://github.com/kaishin/ImageScout) - Implementation of [fastimage](https://pypi.org/project/fastimage/0.2.1/) - supports PNG, GIF, and JPEG.
 
 ### Localization / Barcode
 
-*   [Localize (⭐281)](https://github.com/andresilvagomez/Localize) - Localize apps using e.g. regular expressions in Localizable.strings.
+*   [Localize (⭐286)](https://github.com/andresilvagomez/Localize) - Localize apps using e.g. regular expressions in Localizable.strings.
 
 ### Text / Barcode
 
-*   [PredicateFlow (⭐103)](https://github.com/andreadelfante/PredicateFlow) - PredicateFlow is a builder that allows you to write amazing, strong-typed and easy-to-read NSPredicate.
+*   [PredicateFlow (⭐102)](https://github.com/andreadelfante/PredicateFlow) - PredicateFlow is a builder that allows you to write amazing, strong-typed and easy-to-read NSPredicate.
 
 ### UI / Barcode
 
@@ -154,7 +154,7 @@
 
 ### Open Source / Other
 
-*   [Pomotroid (⭐3.4k)](https://github.com/Splode/pomotroid) - Pomodoro timer.
+*   [Pomotroid (⭐3.7k)](https://github.com/Splode/pomotroid) - Pomodoro timer.
 
 ### For Electron / Other
 
@@ -177,7 +177,7 @@
 
 ### Distributed Index
 
-*   [Pilosa (⭐2.3k)](https://github.com/pilosa/pilosa) Open source distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.
+*   [Pilosa (⭐2.5k)](https://github.com/pilosa/pilosa) Open source distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.
 
 ## [13. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
 

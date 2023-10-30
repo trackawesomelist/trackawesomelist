@@ -16,7 +16,7 @@
 
 ### Application Templates
 
-*   [Side-Waffle (⭐654)](https://github.com/LigerShark/side-waffle) - Large collection of useful templates for Web and Desktop development.
+*   [Side-Waffle (⭐655)](https://github.com/LigerShark/side-waffle) - Large collection of useful templates for Web and Desktop development.
 *   [Template10 (⭐1.4k)](https://github.com/Windows-XAML/Template10) - Windows 10 templates with design patterns.
 
 ## [3. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
@@ -41,7 +41,7 @@
 
 ### Packages / Libraries
 
-*   [virtual-audio-graph (⭐343)](https://github.com/benji6/virtual-audio-graph) - Library for declaratively manipulating the Web Audio API.
+*   [virtual-audio-graph (⭐345)](https://github.com/benji6/virtual-audio-graph) - Library for declaratively manipulating the Web Audio API.
 
 ## [7. Awesome Promises](/content/wbinnssmith/awesome-promises/README.md)
 

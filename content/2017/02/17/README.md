@@ -10,7 +10,7 @@
 
 ### conversion
 
-*   [supercluster (⭐1.6k)](https://github.com/mapbox/supercluster): A fast GeoJSON clustering library for browsers and Node.
+*   [supercluster (⭐1.8k)](https://github.com/mapbox/supercluster): A fast GeoJSON clustering library for browsers and Node.
 
 ## [2. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Pentest Cheat Sheets (⭐3.2k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of the cheat sheets useful for pentesting
+*   [Awesome Pentest Cheat Sheets (⭐3.5k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of the cheat sheets useful for pentesting
 
 ## [7. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 

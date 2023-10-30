@@ -1,6 +1,6 @@
 # Awesome List Updates on May 04, 2020
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,17 +10,17 @@
 
 ### Navigation / Image Picker
 
-*   [Get (⭐7.9k)](https://github.com/jonataslaw/get) <!--stargazers:jonataslaw/get--> - Navigate between screens & display snackbars/dialogs/bottomSheets without context by [Jonny Borges](https://github.com/jonataslaw)
+*   [Get (⭐8.8k)](https://github.com/jonataslaw/get) <!--stargazers:jonataslaw/get--> - Navigate between screens & display snackbars/dialogs/bottomSheets without context by [Jonny Borges](https://github.com/jonataslaw)
 
 ### Media / Video
 
-*   [Video Trimmer (⭐348)](https://github.com/sbis04/video_trimmer) <!--stargazers:sbis04/video_trimmer--> - Visualise and trim videos by [Souvik Biswas](https://github.com/sbis04)
+*   [Video Trimmer (⭐366)](https://github.com/sbis04/video_trimmer) <!--stargazers:sbis04/video_trimmer--> - Visualise and trim videos by [Souvik Biswas](https://github.com/sbis04)
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Game Development
 
-*   [entitas.cr (⭐35)](https://github.com/spoved/entitas.cr) - A Entity Component System Framework for Crystal
+*   [entitas.cr (⭐37)](https://github.com/spoved/entitas.cr) - A Entity Component System Framework for Crystal
 
 ## [3. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
 
@@ -32,14 +32,14 @@
 
 ### Software / Diagramming
 
-*   [DrawThe.Net](http://go.drawthe.net/) - Javascript tool that uses a YAML-formatted input to programmatically create large, complex, and visually solid diagrams.
-*   [Mermaid](https://mermaid-js.github.io/mermaid-live-editor/) - Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana.
+*   [DrawThe.Net](http://go.drawthe.net/) - Javascript tool that uses a YAML-formatted input to programmatically create large, complex, and visually solid diagrams. ([Source Code (⭐1k)](https://github.com/cidrblock/drawthe.net)) `MIT` `JavaScript`
+*   [Mermaid](https://mermaid-js.github.io/mermaid-live-editor/) - Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana. ([Source Code (⭐2.9k)](https://github.com/mermaid-js/mermaid-live-editor)) `MIT` `Nodejs/Docker`
 
 ## [5. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Development Tools
 
-*   [Tequila (⭐267)](https://github.com/aspuru-guzik-group/tequila) - An Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik group (University of Toronto).
+*   [Tequila (⭐320)](https://github.com/aspuru-guzik-group/tequila) - An Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik group (University of Toronto).
 
 ## [6. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -63,8 +63,8 @@
 
 ### Others
 
-*   [NoCode (⭐56k)](https://github.com/kelseyhightower/nocode) - Secure and reliable applications. Write nothing; deploy nowhere.
-*   [vapor.js (⭐1.3k)](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library.
+*   [NoCode (⭐58k)](https://github.com/kelseyhightower/nocode) - Secure and reliable applications. Write nothing; deploy nowhere.
+*   [vapor.js (⭐1.4k)](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library.
 
 ## [9. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Menu
 
-*   [react-planet (⭐144)](https://github.com/innFactory/react-planet) - [demo](https://innfactory.github.io/react-planet/) - Create circular menus which looks like planets.
+*   [react-planet (⭐158)](https://github.com/innFactory/react-planet) - [demo](https://innfactory.github.io/react-planet/) - Create circular menus which looks like planets.
 
 ## [11. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -98,7 +98,7 @@
 
 ### Podcast apps that will work with your custom RSS link / Crypto or Blockchain relevant
 
-*   [FeedMe (⭐786)](https://github.com/seazon/FeedMe/blob/master/README.md) <sup>[135](https://t.me/s/aboutrss/135), [136](https://t.me/s/aboutrss/136), [161](https://t.me/s/aboutrss/161), [331](https://t.me/s/aboutrss/331), [342](https://t.me/s/aboutrss/342)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.seazon.feedme)
+*   [FeedMe (⭐909)](https://github.com/seazon/FeedMe/blob/master/README.md) <sup>[135](https://t.me/s/aboutrss/135), [136](https://t.me/s/aboutrss/136), [161](https://t.me/s/aboutrss/161), [331](https://t.me/s/aboutrss/331), [342](https://t.me/s/aboutrss/342)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.seazon.feedme)
 *   [Cosmicast](https://twitter.com/cosmicastapp) <sup>[564](https://t.me/s/aboutrss/564)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/gb/app/cosmicast/id1435195637)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Tigorn/Cosmicast)
 
 ### RSS2ARCHIVE / For Android device
@@ -111,7 +111,7 @@
 
 ## [12. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
-### Machine Learning
+### Machine Learning and Artificial Intelligence
 
 *   [Decision boundary](https://en.wikipedia.org/wiki/Decision_boundary) - A boundary dividing the space of possible data points. Here you decide, everything on this side is SPAM, everything on that side is not.
 
@@ -135,7 +135,7 @@
 
 ### E-Commerce and Payments
 
-*   [credit\_card\_validations (⭐222)](https://github.com/didww/credit_card_validations) - A ruby gem for validating credit card numbers, generating valid numbers, Luhn checks.
+*   [credit\_card\_validations (⭐225)](https://github.com/didww/credit_card_validations) - A ruby gem for validating credit card numbers, generating valid numbers, Luhn checks.
 
 ### Security
 
@@ -152,12 +152,6 @@
 ### Seedboxes / Seedbox Hosting Providers
 
 *   [Giga-Rapid.com](https://giga-rapid.com/gigaseedbox.php) Shared 1Gbps seedboxes with massive storage & lots of addon applications.
-
-## [17. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Polls and Events
-
-*   [Feedka (⭐17)](https://github.com/drabkirn/feedka) `⚠` - Open-source web application that can serve as a platform to get authentic, kindful, and constructive feedback from your friends, family, and co-workers. `AGPL-3.0` `Ruby`
 
 ---
 

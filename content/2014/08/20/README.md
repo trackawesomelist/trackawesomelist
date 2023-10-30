@@ -16,7 +16,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [PyQtGraph (⭐3.2k)](https://github.com/pyqtgraph/pyqtgraph) - A pure-python graphics and GUI library built on PyQt4 / PySide and NumPy.
+*   [PyQtGraph (⭐3.4k)](https://github.com/pyqtgraph/pyqtgraph) - A pure-python graphics and GUI library built on PyQt4 / PySide and NumPy.
 
 ## [3. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Applications
 
-*   [Adobe spindle (⭐334)](https://github.com/adobe-research/spindle) - Next-generation web analytics processing with Scala, Spark, and Parquet.
+*   [Adobe spindle (⭐333)](https://github.com/adobe-research/spindle) - Next-generation web analytics processing with Scala, Spark, and Parquet.
 
 ## [4. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Server Frameworks
 
-*   [Start (⭐523)](https://github.com/lvivski/start) - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
+*   [Start (⭐531)](https://github.com/lvivski/start) - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
 
 ### Game Development
 
@@ -74,7 +74,7 @@
 
 ### Database
 
-*   [SQLJockey (⭐21)](https://github.com/jamesots/sqljocky) - MySQL connector.
+*   [SQLJockey (⭐20)](https://github.com/jamesots/sqljocky) - MySQL connector.
 
 ### Package Managers
 
@@ -86,7 +86,7 @@
 
 ### ORM
 
-*   [Objectory (⭐54)](https://github.com/vadimtsushko/objectory) - Objectory provides typed, checked environment to model, save and query data persisted on MongoDb.
+*   [Objectory (⭐55)](https://github.com/vadimtsushko/objectory) - Objectory provides typed, checked environment to model, save and query data persisted on MongoDb.
 
 ---
 

@@ -22,7 +22,7 @@
 
 ### Contents / High-Availability
 
-*   [BDR (⭐348)](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
+*   [BDR (⭐350)](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
 
 ### Contents / CLI
 
@@ -30,7 +30,7 @@
 
 ### Contents / Utilities
 
-*   [pgcmp (⭐38)](https://github.com/cbbrowne/pgcmp) - Tool to compare database schemas, with capability to accept some persistent differences
+*   [pgcmp (⭐39)](https://github.com/cbbrowne/pgcmp) - Tool to compare database schemas, with capability to accept some persistent differences
 
 ## [4. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
@@ -100,9 +100,9 @@ git blame -L <start>,<end>
 
 ### Frameworks, Libraries and Tools / Testing
 
-*   [FakeItEasy (⭐1.3k)](https://github.com/FakeItEasy/FakeItEasy) - The easy mocking library for .NET.
-*   [MSpec (⭐846)](https://github.com/machine/machine.specifications) - Popular testing framework for writing BDD-style tests.
-*   [NSubstitute (⭐1.8k)](https://github.com/nsubstitute/NSubstitute) - A friendly substitute for .NET mocking frameworks.
+*   [FakeItEasy (⭐1.5k)](https://github.com/FakeItEasy/FakeItEasy) - The easy mocking library for .NET.
+*   [MSpec (⭐874)](https://github.com/machine/machine.specifications) - Popular testing framework for writing BDD-style tests.
+*   [NSubstitute (⭐2.4k)](https://github.com/nsubstitute/NSubstitute) - A friendly substitute for .NET mocking frameworks.
 
 ## [12. Awesome Backbone](/content/sadcitizen/awesome-backbone/README.md)
 

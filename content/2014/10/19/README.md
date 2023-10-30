@@ -10,7 +10,7 @@
 
 ### JSON
 
-*   [json (⭐219)](https://github.com/cblage/elixir-json) - Native JSON library for Elixir.
+*   [json (⭐220)](https://github.com/cblage/elixir-json) - Native JSON library for Elixir.
 *   [poison (⭐2k)](https://github.com/devinus/poison) - Poison is a new JSON library for Elixir focusing on wicked-fast speed without sacrificing simplicity, completeness, or correctness.
 
 ### Miscellaneous
@@ -19,11 +19,11 @@
 
 ### ORM and Datamapping
 
-*   [amnesia (⭐678)](https://github.com/meh/amnesia) - Mnesia wrapper for Elixir.
+*   [amnesia (⭐682)](https://github.com/meh/amnesia) - Mnesia wrapper for Elixir.
 
 ### Testing
 
-*   [meck (⭐786)](https://github.com/eproxus/meck) - A mocking library for Erlang.
+*   [meck (⭐792)](https://github.com/eproxus/meck) - A mocking library for Erlang.
 
 ### Websites
 
@@ -33,7 +33,7 @@
 
 ### Packages / Command-line apps
 
-*   [pjs (⭐414)](https://github.com/danielstjules/pjs) - Pipeable JavaScript. Quickly filter, map, and reduce from the terminal.
+*   [pjs (⭐416)](https://github.com/danielstjules/pjs) - Pipeable JavaScript. Quickly filter, map, and reduce from the terminal.
 *   [license-checker (⭐1.5k)](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies.
 
 ---

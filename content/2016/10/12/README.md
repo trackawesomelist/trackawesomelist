@@ -22,19 +22,13 @@
 
 ## [3. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
-### Training Courses
-
-*   [Distilling Domain-Driven Design](https://forcomprehension.com/) - Vaughn Vernon's online training course.
-
 ### Community Resources
 
-*   [Domain Driven Design Yahoo Group](https://groups.yahoo.com/neo/groups/domaindrivendesign/conversations/messages) - This group is for discussion of the domain-driven style of designing software, and the book by Eric Evans, Domain-Driven Design: Tackling Complexity in the Heart of Business Software. Questions and discussion of the book content is welcome here, as well as sharing of experiences applying DDD, and discussions of the topic in general.
 *   [DDDinPHP Google Group](https://groups.google.com/forum/#!forum/dddinphp) - The place to discuss Domain-Driven Design, CQRS, Event Sourcing, Model Storming, Hexagonal Architecture, Distributed Systems, Reactive... in the context of PHP.
-*   [EventStormers Google+ Community](https://plus.google.com/u/0/communities/113258571348605620818) - A public discussion group for everybody interested in EventStorming, and related themes.
 
 ### Libraries and Frameworks / .NET
 
-*   [NEventStore (⭐1.5k)](https://github.com/NEventStore/NEventStore) - A persistence library used to abstract different storage implementations when using event sourcing as storage mechanism.
+*   [NEventStore (⭐1.6k)](https://github.com/NEventStore/NEventStore) - A persistence library used to abstract different storage implementations when using event sourcing as storage mechanism.
 
 ### Libraries and Frameworks / Databases
 
@@ -50,7 +44,7 @@
 
 ### Command-Line Productivity
 
-*   [bashhub (⭐1k)](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
+*   [bashhub (⭐1.1k)](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 
 ## [5. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 

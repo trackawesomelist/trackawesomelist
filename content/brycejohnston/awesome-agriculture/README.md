@@ -38,12 +38,12 @@ Open source technology for agriculture, farming, and gardening
 
 *   [Ant Robotics](https://antrobotics.de/) development from Ecoterra bot
 *   [Acorn Rover](https://github.com/Twisted-Fields) precision farming rover, Odrive, Python.
-*   [Earth Rover](https://github.com/earthrover) Ag AGV ROS1) precision farming rover,
+*   [Earth Rover](https://github.com/earthrover) Ag AGV ROS1 precision farming rover
 *   [EcoTerra Bot](https://ecoterrabot.com/) Delta & Rover
 *   [FarmBot](https://github.com/farmbot) -  Open source precision gardening project.
 *   [Romi project](https://media.romi-project.eu/documents/index.html) Europe-funded research project
 *   [ROS Agriculture](http://rosagriculture.org/) - Open Source community focusing on using Robot Operating System to empower farmers with robotics tools.
-*   [Weedinator](https://hackaday.io/project/53896-weedinator-2019) Line following /weeding robot
+*   [Weedinator](https://hackaday.io/project/53896-weedinator-2019) Line following weeding robot
 
 ### Machine Learning and AI / Shapefiles
 
@@ -64,7 +64,7 @@ Open source technology for agriculture, farming, and gardening
 
 *   [Growstuff](https://www.growstuff.org/crops) Record keeping & crop database, nice API
 *   [CWFID (⭐122)](https://github.com/cwfid/dataset) - Dataset comprising field images, vegetation segmentation masks and crop/weed plant type annotations.
-*   [TERRA REF](https://terraref.org) -> 1PB public domain high resolution sensor data from sorghum breeding trials ([data publication](https://doi.org/10.5061/dryad.4b8gtht99) with large files available on [globus.org at ncsa#terra-public](https://app.globus.org/file-manager?origin_id=e8feaff4-96cd-11ea-bf90-0e6cccbb0103\&origin_path=%2F))
+*   [TERRA REF](https://terraref.org) - 1PB public domain high resolution sensor data from sorghum breeding trials ([data publication](https://doi.org/10.5061/dryad.4b8gtht99) with large files available on [globus.org at ncsa#terra-public](https://app.globus.org/file-manager?origin_id=e8feaff4-96cd-11ea-bf90-0e6cccbb0103\&origin_path=%2F))
 
 ## [Jan 29, 2021](/content/2021/01/29/README.md)
 

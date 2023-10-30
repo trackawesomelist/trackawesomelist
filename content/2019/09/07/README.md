@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 07, 2019
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,7 +22,7 @@
 
 ### Loader
 
-*   [react-spinners-css (⭐311)](https://github.com/JoshK2/react-spinners-css) - Amazing collection of react spinners components.
+*   [react-spinners-css (⭐319)](https://github.com/JoshK2/react-spinners-css) - Amazing collection of react spinners components.
 
 ## [4. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -56,12 +56,6 @@
 ### Frameworks / Runtimes
 
 *   [Moleculer](http://moleculer.services/) - Fast & powerful microservices framework for Node.js, Java, Go and Ruby.
-
-## [8. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
-
-### Reinforcement Learning / NLP
-
-*   [OpenAI Baselines (⭐14k)](https://github.com/openai/baselines) - High-quality implementations of reinforcement learning algorithms.
 
 ---
 

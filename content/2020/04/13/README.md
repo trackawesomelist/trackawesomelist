@@ -11,8 +11,8 @@
 ### Type Checkers
 
 *   [TypeScript](https://www.typescriptlang.org/) - A typed superset of JavaScript that compiles to plain JavaScript.
-*   [TypL (⭐356)](https://github.com/getify/TypL) - the JavaScript Type Linter with a bias on type inference.
-*   [Hindley Milner Definitions (⭐194)](https://github.com/xodio/hm-def) - runtime type checking for JavaScript functions using Haskell-alike Hindley Milner type signatures.
+*   [TypL (⭐358)](https://github.com/getify/TypL) - the JavaScript Type Linter with a bias on type inference.
+*   [Hindley Milner Definitions (⭐196)](https://github.com/xodio/hm-def) - runtime type checking for JavaScript functions using Haskell-alike Hindley Milner type signatures.
 
 ## [2. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -42,24 +42,22 @@
 
 ### Class-less
 
-*   [**Water.css**](https://watercss.kognise.dev/) - Just-add-CSS collection of styles to make simple websites just a little nicer.\
-    ![](https://img.shields.io/github/stars/kognise/water.css.svg?style=social\&label=Star)
-    [Repo (⭐7.4k)](https://github.com/kognise/water.css)
-    \| #CSS
 *   [**sakura**](https://oxal.org/projects/sakura/) - Minimal classless CSS framework/theme.\
     ![](https://img.shields.io/github/stars/oxalorg/sakura.svg?style=social\&label=Star)
     [Demo](https://oxal.org/projects/sakura/demo/),
-    [Repo (⭐3.6k)](https://github.com/oxalorg/sakura)
+    [Repo (⭐3.8k)](https://github.com/oxalorg/sakura)
     \| #SCSS
 *   [**Tacit**](https://yegor256.github.io/tacit/) - CSS framework for dummies, without classes.\
     ![](https://img.shields.io/github/stars/yegor256/tacit.svg?style=social\&label=Star)
-    [Repo (⭐1.5k)](https://github.com/yegor256/tacit/)
+    [Repo (⭐1.6k)](https://github.com/yegor256/tacit/)
     \| #SCSS
-*   [**awsm.css**](https://igoradamenko.github.io/awsm.css/) - CSS library for semantic HTML markup without classes, attributes, etc.\
-    ![](https://img.shields.io/github/stars/igoradamenko/awsm.css.svg?style=social\&label=Star)
-    [Demo](https://igoradamenko.github.io/awsm.css/elements.html),
-    [Repo (⭐1.4k)](https://github.com/igoradamenko/awsm.css)
-    \| #SCSS
+
+### Stalled Development
+
+*   [**Water.css**](https://watercss.kognise.dev/) - Just-add-CSS collection of styles to make simple websites just a little nicer.\
+    ![](https://img.shields.io/github/stars/kognise/water.css.svg?style=social\&label=Star)
+    [Repo (⭐7.9k)](https://github.com/kognise/water.css)
+    \| #CSS
 
 ## [5. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
@@ -113,13 +111,13 @@
 
 ### Audio / Video
 
-*   [material-ui-audio-player (⭐65)](https://github.com/Werter12/material-ui-audio-player) - Audio player for material ui design.
+*   [material-ui-audio-player (⭐67)](https://github.com/Werter12/material-ui-audio-player) - Audio player for material ui design.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Anime
 
-- API: [AnimeChan (⭐895)](https://github.com/RocktimSaikia/anime-chan)
+- API: [AnimeChan (⭐1.1k)](https://github.com/RocktimSaikia/anime-chan)
 
   Description: Anime quotes (over 10k+)
 
@@ -135,7 +133,7 @@
 
 ### Packages / Documentation
 
-*   [Docusaurus (⭐45k)](https://github.com/facebook/docusaurus) - Documentation website generator that leverages React and Markdown, and comes with translation and versioning features.
+*   [Docusaurus (⭐49k)](https://github.com/facebook/docusaurus) - Documentation website generator that leverages React and Markdown, and comes with translation and versioning features.
 
 ## [9. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
 

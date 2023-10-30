@@ -18,7 +18,7 @@
 
 ### For Electron / Other
 
-*   [electron-is-accelerator (⭐15)](https://github.com/brrd/electron-is-accelerator) - Check if a string is a valid accelerator.
+*   [electron-is-accelerator (⭐16)](https://github.com/brrd/electron-is-accelerator) - Check if a string is a valid accelerator.
 
 ## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Literature / Citizen Science Theory
 
-*   [The Science Wars and the Future of the American Academic Profession](http://www.its.caltech.edu/\~bi/labinger/nontechpdfs/7sciencewars.pdf) - Caltech chemistry professor Jay A. Labinger's paper about the need for scientists to engage with critical science studies scholars.
+*   [The Science Wars and the Future of the American Academic Profession](http://www.its.caltech.edu/~bi/labinger/nontechpdfs/7sciencewars.pdf) - Caltech chemistry professor Jay A. Labinger's paper about the need for scientists to engage with critical science studies scholars.
 
 ---
 

@@ -16,7 +16,7 @@
 
 ### Streaming Sites / Anime
 
-*   [Nyaa](https://nyaa.si/) BitTorrent software for cats [(Repo) (⭐3k)](https://github.com/nyaadevs/nyaa)
+*   [Nyaa](https://nyaa.si/) BitTorrent software for cats [(Repo) (⭐3.1k)](https://github.com/nyaadevs/nyaa)
 *   [Hi10 Anime](https://hi10anime.com/) High-Quality 10-bit Anime Encodes
 *   [/r/animepiracy](https://www.reddit.com/r/animepiracy) This sub is about streaming and torrent websites for anime.
 *   [/r/animepiracy wiki](https://www.reddit.com/r/animepiracy/wiki/index) Lists for sourcing Anime streaming sites, manga sites, and more
@@ -50,25 +50,25 @@
 
 ### Compression
 
-*   [LZ4 (⭐8.3k)](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm. \[BSD] [website](http://www.lz4.org/)
+*   [LZ4 (⭐8.7k)](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm. \[BSD] [website](http://www.lz4.org/)
 
 ## [4. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Open-source sites / Lists
 
-*   [SecureDrop (⭐41)](https://github.com/freedomofpress/securedrop.org) – Wagtail-powered website of the SecureDrop whistleblower document submission system.
+*   [SecureDrop (⭐40)](https://github.com/freedomofpress/securedrop.org) – Wagtail-powered website of the SecureDrop whistleblower document submission system.
 
 ## [5. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Forms
 
-*   [django-bootstrap4 (⭐985)](https://github.com/zostera/django-bootstrap4) - Bootstrap 4 integration with Django.
+*   [django-bootstrap4 (⭐1k)](https://github.com/zostera/django-bootstrap4) - Bootstrap 4 integration with Django.
 
 ## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Tools / Playground
 
-*   [type-config (⭐17)](https://github.com/Saul-Mirone/type-config) - A generator for tsconfig.
+*   [type-config (⭐18)](https://github.com/Saul-Mirone/type-config) - A generator for tsconfig.
 
 ## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -92,16 +92,16 @@
 
 ### Network Vulnerability Scanners / Web Vulnerability Scanners
 
-*   [SQLmate (⭐363)](https://github.com/UltimateHackers/sqlmate) - Friend of `sqlmap` that identifies SQLi vulnerabilities based on a given dork and (optional) website.
+*   [SQLmate (⭐396)](https://github.com/UltimateHackers/sqlmate) - Friend of `sqlmap` that identifies SQLi vulnerabilities based on a given dork and (optional) website.
 
 ### Online Resources / Other Lists Online
 
-*   [Serverless Security (⭐494)](https://github.com/puresec/awesome-serverless-security/) - Curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
+*   [Serverless Security (⭐547)](https://github.com/puresec/awesome-serverless-security/) - Curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
 
 ### Windows Utilities / Web Exploitation Books
 
-*   [Commando VM (⭐5.7k)](https://github.com/fireeye/commando-vm) - Automated installation of over 140 Windows software packages for penetration testing and red teaming.
-*   [Covenant (⭐3.4k)](https://github.com/cobbr/Covenant) - ASP.NET Core application that serves as a collaborative command and control platform for red teamers.
+*   [Commando VM (⭐6.4k)](https://github.com/fireeye/commando-vm) - Automated installation of over 140 Windows software packages for penetration testing and red teaming.
+*   [Covenant (⭐3.8k)](https://github.com/cobbr/Covenant) - ASP.NET Core application that serves as a collaborative command and control platform for red teamers.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 16, 2022
 
-19 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,7 +14,7 @@
 
 ## [2. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Miscellaneous / Angular
+### Miscellaneous / Svelte
 
 *   [Figures](https://joinfigures.com/). Receive high-paying tech jobs based on your minimum salary requirement.
 
@@ -22,7 +22,7 @@
 
 ### GTFS Analysis Tools / Ruby
 
-*   [R5: Rapid Realistic Routing on Real-world and Reimagined networks (⭐218)](https://github.com/conveyal/r5) - A Java-based routing engine developed by Conveyal for multimodal (transit/bike/walk/car) networks. It currently plans many trips over a time window for scenario planning and analytics purposes. A related R wrapper package ([r5r (⭐132)](https://github.com/ipeaGIT/r5r/)) is developed independently by IPEA. See also the performance comparison from Higgins et al. (2022), linked below.
+*   [R5: Rapid Realistic Routing on Real-world and Reimagined networks (⭐227)](https://github.com/conveyal/r5) - A Java-based routing engine developed by Conveyal for multimodal (transit/bike/walk/car) networks. It currently plans many trips over a time window for scenario planning and analytics purposes. A related R wrapper package ([r5r (⭐153)](https://github.com/ipeaGIT/r5r/)) is developed independently by IPEA. See also the performance comparison from Higgins et al. (2022), linked below.
 
 ### Academic papers / Ruby
 
@@ -32,17 +32,17 @@
 
 ### Tutorials and Blog Posts / How-To
 
-*   [Google Cloud Platform for 10$ a month using terraform (⭐31)](https://github.com/nufailtd/terraform-budget-gcp) - Shows how to use terraform to create a secure Google Kubernetes Cluster, Google Cloud Run Services and other infrastructure elements for less than [10$](https://nufailtd.github.io/budget-gcp/) a month.
+*   [Google Cloud Platform for 10$ a month using terraform (⭐37)](https://github.com/nufailtd/terraform-budget-gcp) - Shows how to use terraform to create a secure Google Kubernetes Cluster, Google Cloud Run Services and other infrastructure elements for less than [10$](https://nufailtd.github.io/budget-gcp/) a month.
 
-### Private Provider Registries / Miscellaneous
+### Private Registries / Miscellaneous
 
 *   [terustry (⭐54)](https://github.com/veepee-oss/terustry) - Open Source terraform provider registry acting as a proxy for gitlab or github releases.
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-openstack (⭐323)](https://github.com/terraform-provider-openstack/terraform-provider-openstack) - Plugin for OpenStack.
+*   [terraform-provider-openstack (⭐337)](https://github.com/terraform-provider-openstack/terraform-provider-openstack) - Plugin for OpenStack.
 
-### Boilerplates / Vendor supported providers
+### Boilerplates / IDE
 
 *   [Terraform GitOps Framework](https://www.kubestack.com) - Everything you need to build reliable automation for AKS, EKS, and GKE Kubernetes clusters in one free and open-source framework.
 
@@ -50,45 +50,39 @@
 
 ### Games
 
-*   [wordle](https://gist.github.com/huytd/6a1a6a7b34a0d0abcac00b47e3d01513) - Wordle in less than 50 lines of Bash
+*   [wordle](https://gist.github.com/huytd/6a1a6a7b34a0d0abcac00b47e3d01513) - Wordle in less than 50 lines of Bash.
 
 ## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [ddev (⭐0)](https://github.com/voronkovich/ddev.plugin.zsh) - A ZSH plugin for the [ddev (⭐1.8k)](https://github.com/drud/ddev) tool for setting up PHP development environments.
+*   [ddev (⭐1)](https://github.com/voronkovich/ddev.plugin.zsh) - A ZSH plugin for the [ddev (⭐2.1k)](https://github.com/drud/ddev) tool for setting up PHP development environments.
 
 ## [7. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Related / Awesome Lists
 
-*   [Awesome Locust (⭐53)](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load testing framework written in Python.
+*   [Awesome Locust (⭐64)](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load testing framework written in Python.
 
-## [8. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
-
-### UI Libraries, Components & Templates
-
-*   🧩 [Myna UI](https://mynaui.com/) - Open source UI Components and Marketing Elements made with Tailwind CSS.
-
-## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [Kotlin/kotlinx.atomicfu (⭐681)](https://github.com/Kotlin/kotlinx.atomicfu) - The idiomatic way to use atomic operations in Kotlin.
+*   [Kotlin/kotlinx.atomicfu (⭐739)](https://github.com/Kotlin/kotlinx.atomicfu) - The idiomatic way to use atomic operations in Kotlin.
 
-## [10. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
+## [9. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
 
 ### Techniques / Firmware
 
 *   [MoonBounce: the dark side of UEFI firmware](https://securelist.com/moonbounce-the-dark-side-of-uefi-firmware/105468) - An in-depth write up about one particular UEFI bootkit.
 
-## [11. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [10. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Resources / Standard APIs
 
 *   [OData](https://www.odata.org/) - An open protocol that enables the creation and consumption of queryable and interoperable REST APIs. OData simplifies the development of REST APIs and offers a standardized way to access data.
 
-## [12. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+## [11. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
 ### Papers / 2021
 
@@ -100,7 +94,7 @@
 
 *   [Adversarial Model Extraction on Graph Neural Networks](https://arxiv.org/abs/1912.07721) - (AAAI Workshop on Deep Learning on Graphs: Methodologies and Applications) *Introduces GNN model extraction and presents a preliminary approach for this.*
 *   [Remote Explainability faces the bouncer problem](https://rdcu.be/b6qB4) - (Nature Machine Intelligence volume 2, pages529–539)  [(Code) (⭐4)](https://github.com/erwanlemerrer/bouncer_problem) *Shows the impossibility (with one request) or the difficulty to spot lies on the explanations of a remote AI decision.*
-*   [GeoDA: a geometric framework for black-box adversarial attacks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Rahmati_GeoDA_A_Geometric_Framework_for_Black-Box_Adversarial_Attacks_CVPR_2020_paper.pdf) - (CVPR)  [(Code) (⭐29)](https://github.com/thisisalirah/GeoDA) *Crafts adversarial examples to fool models, in a pure blackbox setup (no gradients, inferred class only).*
+*   [GeoDA: a geometric framework for black-box adversarial attacks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Rahmati_GeoDA_A_Geometric_Framework_for_Black-Box_Adversarial_Attacks_CVPR_2020_paper.pdf) - (CVPR)  [(Code) (⭐30)](https://github.com/thisisalirah/GeoDA) *Crafts adversarial examples to fool models, in a pure blackbox setup (no gradients, inferred class only).*
 *   [The Imitation Game: Algorithm Selectionby Exploiting Black-Box Recommender (⭐2)](https://github.com/erwanlemerrer/erwanlemerrer.github.io/raw/master/files/imitation_blackbox_recommenders_netys-2020.pdf) - (Netys)  [(Code) (⭐1)](https://github.com/gdamaskinos/RecRank) *Parametrize a local recommendation algorithm by imitating the decision of a remote and better trained one.*
 *   [Auditing News Curation Systems:A Case Study Examining Algorithmic and Editorial Logic in Apple News](https://ojs.aaai.org/index.php/ICWSM/article/view/7277) - (ICWSM) *Audit study of Apple News as a sociotechnical news curation system (trending stories section).*
 *   [Auditing Algorithms:  On Lessons Learned and the Risks of DataMinimization](https://dl.acm.org/doi/pdf/10.1145/3375627.3375852) - (AIES) *A practical audit for a well-being recommendation app developed by Telefónica (mostly on bias).*
@@ -108,7 +102,7 @@
 
 ### Papers / 2019
 
-*   [Adversarial Frontier Stitching for Remote Neural Network Watermarking](https://arxiv.org/abs/1711.01894) - (Neural Computing and Applications) [(Alternative implementation) (⭐19)](https://github.com/dunky11/adversarial-frontier-stitching) *Check if a remote machine learning model is a "leaked" one: through standard API requests to a remote model, extract (or not) a zero-bit watermark, that was inserted to watermark valuable models (eg, large deep neural networks).*
+*   [Adversarial Frontier Stitching for Remote Neural Network Watermarking](https://arxiv.org/abs/1711.01894) - (Neural Computing and Applications) [(Alternative implementation) (⭐21)](https://github.com/dunky11/adversarial-frontier-stitching) *Check if a remote machine learning model is a "leaked" one: through standard API requests to a remote model, extract (or not) a zero-bit watermark, that was inserted to watermark valuable models (eg, large deep neural networks).*
 *   [Knockoff Nets: Stealing Functionality of Black-Box Models](https://arxiv.org/abs/1812.02766.pdf) - (CVPR) *Ask to what extent can an adversary steal functionality of such "victim" models based solely on blackbox interactions: image in, predictions out.*
 *   [Opening Up the Black Box:Auditing Google's Top Stories Algorithm](https://par.nsf.gov/servlets/purl/10101277) - (Flairs-32) *Audit of the Google's Top stories panel that pro-vides insights into its algorithmic choices for selectingand ranking news publisher*
 *   [Making targeted black-box evasion attacks effective andefficient](https://arxiv.org/pdf/1906.03397.pdf) - (arXiv) *Investigates how an adversary can optimally use its query budget for targeted evasion attacks against deep neural networks.*
@@ -120,13 +114,13 @@
 
 ### Papers / 2018
 
-*   [Towards Reverse-Engineering Black-Box Neural Networks](https://arxiv.org/abs/1711.01768) - (ICLR) [(Code) (⭐48)](https://github.com/coallaoh/WhitenBlackBox) *Infer inner hyperparameters (eg number of layers, non-linear activation type) of a remote neural network model by analysing its response patterns to certain inputs.*
+*   [Towards Reverse-Engineering Black-Box Neural Networks](https://arxiv.org/abs/1711.01768) - (ICLR) [(Code) (⭐49)](https://github.com/coallaoh/WhitenBlackBox) *Infer inner hyperparameters (eg number of layers, non-linear activation type) of a remote neural network model by analysing its response patterns to certain inputs.*
 *   [Data driven exploratory attacks on black box classifiers in adversarial domains](https://www.sciencedirect.com/science/article/pii/S092523121830136X) - (Neurocomputing) *Reverse engineers remote classifier models (e.g., for evading a CAPTCHA test).*
 *   [xGEMs: Generating Examplars to Explain Black-Box Models](https://arxiv.org/pdf/1806.08867.pdf) - (arXiv) *Searches bias in the black box model by training an unsupervised implicit generative model. Thensummarizes the black-box model behavior quantitatively by perturbing data samples along the data manifold.*
 *   [Learning Networks from Random Walk-Based Node Similarities](https://arxiv.org/pdf/1801.07386) - (NIPS) *Reversing graphs by observing some random walk commute times.*
 *   [Identifying the Machine Learning Family from Black-Box Models](https://rd.springer.com/chapter/10.1007/978-3-030-00374-6_6) - (CAEPIA) *Determines which kind of machine learning model is behind the returned predictions.*
 *   [Stealing Neural Networks via Timing Side Channels](https://arxiv.org/pdf/1812.11720.pdf) - (arXiv) *Stealing/approximating a model through timing attacks usin queries.*
-*   [Copycat CNN: Stealing Knowledge by Persuading Confession with Random Non-Labeled Data](https://arxiv.org/abs/1806.05476) - (IJCNN)  [(Code) (⭐19)](https://github.com/jeiks/Stealing_DL_Models) *Stealing black-box models (CNNs) knowledge by querying them with random natural images (ImageNet and Microsoft-COCO).*
+*   [Copycat CNN: Stealing Knowledge by Persuading Confession with Random Non-Labeled Data](https://arxiv.org/abs/1806.05476) - (IJCNN)  [(Code) (⭐21)](https://github.com/jeiks/Stealing_DL_Models) *Stealing black-box models (CNNs) knowledge by querying them with random natural images (ImageNet and Microsoft-COCO).*
 
 ### Papers / 2017
 
@@ -138,8 +132,8 @@
 ### Papers / 2016
 
 *   [Bias in Online Freelance Marketplaces: Evidence from TaskRabbit](http://datworkshop.org/papers/dat16-final22.pdf) - (dat workshop) *Measures the TaskRabbit's search algorithm rank.*
-*   [Stealing Machine Learning Models via Prediction APIs](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/tramer) - (Usenix Security)  [(Code) (⭐319)](https://github.com/ftramer/Steal-ML) *Aims at extracting machine learning models in use by remote services.*
-*   [“Why Should I Trust You?”Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938v3.pdf) - (arXiv)  [(Code) (⭐280)](https://github.com/marcotcr/lime-experiments) *Explains a blackbox classifier model by sampling around data instances.*
+*   [Stealing Machine Learning Models via Prediction APIs](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/tramer) - (Usenix Security)  [(Code) (⭐322)](https://github.com/ftramer/Steal-ML) *Aims at extracting machine learning models in use by remote services.*
+*   [“Why Should I Trust You?”Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938v3.pdf) - (arXiv)  [(Code) (⭐286)](https://github.com/marcotcr/lime-experiments) *Explains a blackbox classifier model by sampling around data instances.*
 *   [Back in Black: Towards Formal, Black Box Analysis of Sanitizers and Filters](http://ieeexplore.ieee.org/document/7546497/) - (Security and Privacy) *Black-box analysis of sanitizers and filters.*
 *   [Algorithmic Transparency via Quantitative Input Influence: Theory and Experiments with Learning Systems](http://ieeexplore.ieee.org/document/7546525/) - (Security and Privacy) *Introduces measures that capture the degree of influence of inputs on outputs of the observed system.*
 
@@ -167,41 +161,41 @@
 
 *   [Adversarial Learning](https://dl.acm.org/citation.cfm?id=1081950) - (KDD) *Reverse engineering of remote linear classifiers, using membership queries.*
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
-*   [pinia-orm (⭐248)](https://github.com/CodeDredd/pinia-orm) - The Pinia plugin to enable Object-Relational Mapping access to the Pinia Store. 🍍
+*   [pinia-orm (⭐330)](https://github.com/CodeDredd/pinia-orm) - The Pinia plugin to enable Object-Relational Mapping access to the Pinia Store. 🍍
 
-## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Marks / Diagnostics
 
-*   [ThePrimeagen/harpoon (⭐2.6k)](https://github.com/ThePrimeagen/harpoon) - A per project, auto updating and editable marks utility for fast file navigation.
+*   [ThePrimeagen/harpoon (⭐3.6k)](https://github.com/ThePrimeagen/harpoon) - A per project, auto updating and editable marks utility for fast file navigation.
 
-## [15. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [14. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Username Check / Telegram
 
 *   [User Searcher](https://www.user-searcher.com) - User-Searcher is a powerful and free tool to help you search username in 2000+ websites.
 
-## [16. Awesome Go](/content/avelino/awesome-go/README.md)
+## [15. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Trees
 
-*   [treemap (⭐30)](https://github.com/igrmk/treemap) - Generic key-sorted map using a red-black tree under the hood.
+*   [treemap (⭐50)](https://github.com/igrmk/treemap) - Generic key-sorted map using a red-black tree under the hood.
 
 ### Email
 
-*   [mailx (⭐6)](https://github.com/valord577/mailx) - Mailx is a library that makes it easier to send email via SMTP. It is an enhancement of the golang standard library `net/smtp`.
+*   [mailx (⭐9)](https://github.com/valord577/mailx) - Mailx is a library that makes it easier to send email via SMTP. It is an enhancement of the golang standard library `net/smtp`.
 
-## [17. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [16. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Knowledge Representation / Commonsense Knowledgebase
 
 *   [Qualitative and quantitative simulation: bridging the gap](https://www.sciencedirect.com/science/article/pii/S0004370297000507) - ***Artificial Intelligence***, 1997. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=9033452473914228535)].
 
-## [18. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [17. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Bloggers / Book Deals (Affiliated) 🛍
 
@@ -227,12 +221,12 @@
 
 ### Other Awesome Lists / Book Deals (Affiliated) 🛍
 
-*   [awesome-dataviz (⭐3.3k)](https://github.com/javierluraschi/awesome-dataviz)
-*   [awesome-datasets (⭐54k)](https://github.com/awesomedata/awesome-public-datasets)
-*   [Awesome Data Science Ideas (⭐621)](https://github.com/JosPolfliet/awesome-ai-usecases)
-*   [Awesome Drug Synergy, Interaction and Polypharmacy Prediction (⭐79)](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
+*   [awesome-dataviz (⭐3.4k)](https://github.com/javierluraschi/awesome-dataviz)
+*   [awesome-datasets (⭐56k)](https://github.com/awesomedata/awesome-public-datasets)
+*   [Awesome Data Science Ideas (⭐635)](https://github.com/JosPolfliet/awesome-ai-usecases)
+*   [Awesome Drug Synergy, Interaction and Polypharmacy Prediction (⭐83)](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
 
-## [19. Public Apis](/content/public-apis/public-apis/README.md)
+## [18. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Animals
 

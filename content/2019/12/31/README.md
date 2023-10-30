@@ -28,11 +28,11 @@
 
 *   [NoSQL Databases (PDF)](https://web.archive.org/web/20190927222738/https://www.christof-strauch.de/nosqldbs.pdf) - A 149-page document outlining motives and rationale for NoSQL databases, and common concepts, techniques and patterns among these databases; last updated around 2011.
 
-## [4. Awesome Observables](/content/sindresorhus/awesome-observables/README.md)
+## [4. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
-### Related
+### Related / `pre` and `post` scripts
 
-*   [awesome-nodejs (⭐47k)](https://github.com/sindresorhus/awesome-nodejs)
+*   [awesome-nodejs (⭐51k)](https://github.com/sindresorhus/awesome-nodejs)
 
 ## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -48,11 +48,11 @@
 
 ### Packages / HTTP
 
-*   [global-agent (⭐294)](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
+*   [global-agent (⭐315)](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
 
 ### Packages / Security
 
-*   [jose-simple (⭐57)](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
+*   [jose-simple (⭐59)](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
 
 ## [7. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
 
@@ -74,11 +74,11 @@
 
 ### Miscellaneous
 
-*   [Calendar plugin (⭐17)](https://github.com/dereuromark/cakephp-calendar) - For generating basic calendars. Includes IcalView for ICS calendar file generation.
+*   🍰 [Calendar plugin (⭐16)](https://github.com/dereuromark/cakephp-calendar) - For generating basic calendars. Includes IcalView for ICS calendar file generation.
 
 ### Templating
 
-*   [Feed plugin (⭐14)](https://github.com/dereuromark/cakephp-feed) - Containing an RssView class to easily generate (complex) RSS feeds.
+*   🍰 [Feed plugin (⭐13)](https://github.com/dereuromark/cakephp-feed) - Containing an RssView class to easily generate (complex) RSS feeds.
 
 ## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -129,13 +129,13 @@
 
 ### Apps / Misc
 
-*   [Wagtail Resume (⭐49)](https://github.com/adinhodovic/wagtail-resume) – A Wagtail project made to simplify creation of resumes for developers.
+*   [Wagtail Resume (⭐69)](https://github.com/adinhodovic/wagtail-resume) – A Wagtail project made to simplify creation of resumes for developers.
 
 ## [14. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Graphics
 
-*   [AnimatedGradientView (⭐434)](https://github.com/rwbutler/AnimatedGradientView) - A simple framework to add animated gradients to your iOS app.
+*   [AnimatedGradientView (⭐438)](https://github.com/rwbutler/AnimatedGradientView) - A simple framework to add animated gradients to your iOS app.
 
 ## [15. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

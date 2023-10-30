@@ -10,8 +10,7 @@
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
-*   [Airbnb (⭐134k)](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) - Shareable config for [Airbnb's style guide (⭐134k)](https://github.com/airbnb/javascript).
-*   [Google (⭐1.7k)](https://github.com/google/eslint-config-google) - Shareable config for the [Google style](http://google.github.io/styleguide/javascriptguide.xml).
+*   [Airbnb (⭐135k)](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) - Shareable config for [Airbnb's style guide (⭐135k)](https://github.com/airbnb/javascript).
 
 ### Plugins / Frameworks
 
@@ -26,10 +25,10 @@
 
 ### Plugins / Practices and Specific ES Features
 
-*   [fp (⭐954)](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming.
+*   [fp (⭐956)](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming.
 *   [new-with-error (⭐24)](https://github.com/Trott/eslint-plugin-new-with-error) - Require errors to be thrown using `new`.
 *   [no-use-extend-native (⭐54)](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) - Prevent using extended native objects.
-*   [Promise (⭐824)](https://github.com/xjamundx/eslint-plugin-promise) - Best practices when working with promises.
+*   [Promise (⭐832)](https://github.com/xjamundx/eslint-plugin-promise) - Best practices when working with promises.
 *   [this (⭐16)](https://github.com/matijs/eslint-plugin-this) - Write pure functions, don't allow `this`.
 
 ### Plugins / Style
@@ -38,18 +37,14 @@
 
 ### Tools / Testing Tools
 
-*   [eslint-find-rules (⭐191)](https://github.com/sarbbottam/eslint-find-rules) - Find built-in ESLint rules you don't have in your custom config.
+*   [eslint-find-rules (⭐192)](https://github.com/sarbbottam/eslint-find-rules) - Find built-in ESLint rules you don't have in your custom config.
 *   [eslint-index (⭐20)](https://github.com/wagerfield/eslint-index) - CLI for finding and managing rules in ESLint config files.
 *   [eslint-multiplexer (⭐7)](https://github.com/pimlie/eslint-multiplexer) - Multiplex eslint results and merge results for common files.
-*   [eslint-nibble (⭐673)](https://github.com/IanVS/eslint-nibble) - Ease into ESLint, by fixing one rule at a time.
+*   [eslint-nibble (⭐689)](https://github.com/IanVS/eslint-nibble) - Ease into ESLint, by fixing one rule at a time.
 *   [eslint-rule-documentation (⭐29)](https://github.com/jfmengels/eslint-rule-documentation) - Find the url for the documentation of an ESLint rule.
 *   [eslint-watch (⭐189)](https://github.com/rizowski/eslint-watch) - Run ESLint with watch mode.
 *   [codacy-eslint (⭐12)](https://github.com/codacy/codacy-eslint) - Docker used at [Codacy](https://www.codacy.com) to run ESLint.
-*   [esprint (⭐646)](https://github.com/pinterest/esprint) - Run ESLint across multiple threads.
-
-### Developing for ESLint / Testing Tools
-
-*   [eslint-docs (⭐4)](https://github.com/j-f1/eslint-docs) - Keep your rule descriptions up-to-date across the repository.
+*   [esprint (⭐647)](https://github.com/pinterest/esprint) - Run ESLint across multiple threads.
 
 ### Tutorials / Testing Tools
 
@@ -75,7 +70,7 @@
 
 ### Libraries / Lenses
 
-*   [shades (⭐403)](https://github.com/jamesmcnamara/shades) – A lodash-inspired lens-like library for Javascript.
+*   [shades (⭐406)](https://github.com/jamesmcnamara/shades) – A lodash-inspired lens-like library for Javascript.
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
@@ -95,8 +90,8 @@
 
 ### Packages / Command-line apps
 
-*   [cash-cli (⭐202)](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
-*   [discharge (⭐530)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
+*   [cash-cli (⭐213)](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
+*   [discharge (⭐536)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
 
 ### Packages / Debugging / Profiling
 
@@ -104,19 +99,19 @@
 
 ### Packages / Command-line utilities
 
-*   [Cliffy (⭐328)](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
+*   [Cliffy (⭐336)](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
 
 ### Packages / Real-time
 
-*   [rpc-websockets (⭐507)](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
+*   [rpc-websockets (⭐529)](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
 
 ### Packages / Security
 
-*   [themis (⭐1.7k)](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
+*   [themis (⭐1.8k)](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
 
 ### Packages / Authorization
 
-*   [node-casbin (⭐2.2k)](https://github.com/casbin/node-casbin) - Authorization library that supports access control models like ACL, RBAC and ABAC.
+*   [node-casbin (⭐2.4k)](https://github.com/casbin/node-casbin) - Authorization library that supports access control models like ACL, RBAC and ABAC.
 
 ## [7. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
@@ -141,12 +136,12 @@
 ### Clients
 
 *   [Official Keycloak Node.js Admin Client](https://github.com/keycloak/keycloak-admin-client/) ("Extremely Experimental")
-*   [Keycloak Node.js TypeScript Admin Client by Canner (⭐617)](https://github.com/Canner/keycloak-admin/)
+*   [Keycloak Node.js TypeScript Admin Client by Canner (⭐614)](https://github.com/Canner/keycloak-admin/)
 *   [Keycloak Go Client by Cloudtrust (⭐23)](https://github.com/cloudtrust/keycloak-client)
 
 ### Integrations
 
-*   [Official Keycloak Node.js Connect Adapter (⭐590)](https://github.com/keycloak/keycloak-nodejs-connect)
+*   [Official Keycloak Node.js Connect Adapter (⭐612)](https://github.com/keycloak/keycloak-nodejs-connect)
 
 ## [11. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
@@ -202,7 +197,7 @@
 *   [**Carbon Components**](https://www.carbondesignsystem.com/) - Component library behind IBM's Carbon Design System.\
     ![](https://img.shields.io/github/stars/carbon-design-system/carbon-components.svg?style=social\&label=Star)
     [Docs](https://www.carbondesignsystem.com/components/overview/),
-    [Repo (⭐6.1k)](https://github.com/carbon-design-system/carbon)
+    [Repo (⭐7.1k)](https://github.com/carbon-design-system/carbon)
     \| #SCSS
 
 ## [15. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
@@ -347,7 +342,7 @@
 *   [YTS](https://yts.am/) Small-size HD movies from YIFY
 *   [The Proxy Bay](https://proxybay.bz/) Can't access The Pirate Bay? Try one of these proxy sites.
 *   [rutor](http://rutor.info/) Russian tracker
-*   [trackerslist (⭐36k)](https://github.com/ngosang/trackerslist) An updated list of public BitTorrent trackers
+*   [trackerslist (⭐40k)](https://github.com/ngosang/trackerslist) An updated list of public BitTorrent trackers
 *   [MagnetDL](http://www.magnetdl.com/) Magnet link only search engine
 *   [Games4theworld](https://games4theworld.org) Torrents and magnet links for games
 *   [metal-tracker.com](http://en.metal-tracker.com/) Heavy metal music tracker
@@ -373,7 +368,7 @@
 *   [qBitTorrent](https://www.qbittorrent.org/) Popular, lightweight, multi-platform torrent client
 *   [qBitTorrent search function](https://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) Allows you to search popular trackers directly from qBittorrent
 *   [Transmission](https://transmissionbt.com/) Default torrent client in many distros.
-*   [Popcorn Time (⭐7.6k)](https://github.com/popcorn-official/popcorn-desktop) Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.
+*   [Popcorn Time (⭐8.1k)](https://github.com/popcorn-official/popcorn-desktop) Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.
 *   [Tixati](https://tixati.com/) Lightweight torrent client for Windows and Linux
 *   [FrostWire](https://www.frostwire.com/) FrostWire is a Free and open-source BitTorrent client first released in September 2004, as a fork of LimeWire.
 
@@ -396,8 +391,8 @@
 
 ### Tracker Frameworks / Seedbox Setup Tools and Guides
 
-*   [UNIT3D (⭐1.6k)](https://github.com/HDInnovations/UNIT3D) The Nex-Gen Private Torrent Tracker (Aimed For Movie / TV Use)
-*   [NexusPHP (⭐398)](https://github.com/ZJUT/NexusPHP) BitTorrent private tracker scripts written in PHP.
+*   [UNIT3D (⭐1.7k)](https://github.com/HDInnovations/UNIT3D) The Nex-Gen Private Torrent Tracker (Aimed For Movie / TV Use)
+*   [NexusPHP (⭐406)](https://github.com/ZJUT/NexusPHP) BitTorrent private tracker scripts written in PHP.
 
 ### DDL Tools / Free Indexers
 
@@ -443,52 +438,52 @@
 
 ### Open Directories / Free Indexers
 
-*   [httpdirfs (⭐612)](https://github.com/fangfufu/httpdirfs) A filesystem which allows you to mount HTTP directory listings
+*   [httpdirfs (⭐660)](https://github.com/fangfufu/httpdirfs) A filesystem which allows you to mount HTTP directory listings
 *   ["All resources I know related to Open Directories"](https://www.reddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/) Thorough post from /u/ElectroXexual
 *   [The Holy Grail of Indexes](https://www.reddit.com/r/opendirectories/comments/75ya8g/the_holy_grail_of_indexes/) Posted by /u/shadow\_hunter104
 *   [36 GB of Flash Games](https://www.reddit.com/r/opendirectories/comments/902j1i/36_gb_of_flash_games_19k_files/) Posted by /u/blue\_star\_
-*   [FileMasta (⭐620)](https://github.com/HerbL27/FileMasta) Search servers for video, music, books, software, games, subtitles and much more
+*   [FileMasta (⭐628)](https://github.com/HerbL27/FileMasta) Search servers for video, music, books, software, games, subtitles and much more
 
 ### Media Centre Applications / Third Party Hosts
 
 *   [Emby](https://emby.media/) a personal media server with apps on just about every device.
-*   [Viewscreen (⭐218)](https://github.com/viewscreen/viewscreen) a personal video streaming server
-*   [Myflix (⭐303)](https://github.com/pastapojken/Myflix) Myflix tries to be a somewhat simple and lightweight "DIY Netflix", similar to Plex, streama or Emby, for your DIY NAS, especially aimed at the Raspberry Pi/Odroid/etc ecosystem.
-*   [Gerbera (⭐970)](https://github.com/gerbera/gerbera) UPnP Media Server for 2018 (Based on MediaTomb)
+*   [Viewscreen (⭐225)](https://github.com/viewscreen/viewscreen) a personal video streaming server
+*   [Myflix (⭐306)](https://github.com/pastapojken/Myflix) Myflix tries to be a somewhat simple and lightweight "DIY Netflix", similar to Plex, streama or Emby, for your DIY NAS, especially aimed at the Raspberry Pi/Odroid/etc ecosystem.
+*   [Gerbera (⭐1k)](https://github.com/gerbera/gerbera) UPnP Media Server for 2018 (Based on MediaTomb)
 
 ### Plex Plugins / Third Party Hosts
 
-*   [WebTools.bundle (⭐1.2k)](https://github.com/ukdtom/WebTools.bundle) a collection of tools for Plex Media Server. Like the Unsupported AppStore (UAS)
-*   [Audiobooks.bundle (⭐557)](https://github.com/macr0dev/Audiobooks.bundle) Plex metadata scraper for Audiobooks
-*   [TvplexendChannel.bundle (⭐66)](https://github.com/pgaubatz/TvplexendChannel.bundle) A Tvheadend Channel Plugin for PLEX Media Server
-*   [IPTV.bundle (⭐845)](https://github.com/Cigaras/IPTV.bundle) plays live streams (like IPTV) from an M3U playlist
-*   [HDGrandSlam.bundle (⭐77)](https://github.com/jumpmanjay/HDGrandSlam.bundle) interfaces with HDHomeRun tuners and DVRs
-*   [HDHRViewerV2.bundle (⭐94)](https://github.com/zynine-/HDHRViewerV2.bundle) HDHomeRun + Plex
+*   [WebTools.bundle (⭐1.3k)](https://github.com/ukdtom/WebTools.bundle) a collection of tools for Plex Media Server. Like the Unsupported AppStore (UAS)
+*   [Audiobooks.bundle (⭐573)](https://github.com/macr0dev/Audiobooks.bundle) Plex metadata scraper for Audiobooks
+*   [TvplexendChannel.bundle (⭐68)](https://github.com/pgaubatz/TvplexendChannel.bundle) A Tvheadend Channel Plugin for PLEX Media Server
+*   [IPTV.bundle (⭐902)](https://github.com/Cigaras/IPTV.bundle) plays live streams (like IPTV) from an M3U playlist
+*   [HDGrandSlam.bundle (⭐78)](https://github.com/jumpmanjay/HDGrandSlam.bundle) interfaces with HDHomeRun tuners and DVRs
+*   [HDHRViewerV2.bundle (⭐95)](https://github.com/zynine-/HDHRViewerV2.bundle) HDHomeRun + Plex
 *   [SS Plex](https://mikew.github.io/ss-plex.bundle/) Imagine if all the media scattered around the internet could be found in one collection.
-*   [ExportTools.bundle (⭐324)](https://github.com/ukdtom/ExportTools.bundle) Export Plex Library to a csv, xlsx or m3u8 file
+*   [ExportTools.bundle (⭐331)](https://github.com/ukdtom/ExportTools.bundle) Export Plex Library to a csv, xlsx or m3u8 file
 *   [Plex-Trakt-Scrobbler (⭐1.4k)](https://github.com/trakt/Plex-Trakt-Scrobbler) Add what you are watching on Plex to trakt.tv
 *   [Moviemania.bundle](https://www.reddit.com/r/MoviemaniaHQ/comments/6znf6b/plex_pluginagent_beta_1/) Textless movie posters from Moviemania.io
-*   [lmwt-kiss.bundle (⭐17)](https://github.com/Twoure/lmwt-kiss.bundle) creates a new channel within Plex Media Server (PMS) to view content from PrimeWire.
-*   [RequestChannel.bundle (⭐156)](https://github.com/ngovil21/RequestChannel.bundle) A Plex Channel to create requests
-*   [SRT2UTF-8.bundle (⭐122)](https://github.com/ukdtom/SRT2UTF-8.bundle) Plex Agent that'll convert sidecar subtitle files into UTF-8
+*   [lmwt-kiss.bundle (⭐18)](https://github.com/Twoure/lmwt-kiss.bundle) creates a new channel within Plex Media Server (PMS) to view content from PrimeWire.
+*   [RequestChannel.bundle (⭐158)](https://github.com/ngovil21/RequestChannel.bundle) A Plex Channel to create requests
+*   [SRT2UTF-8.bundle (⭐121)](https://github.com/ukdtom/SRT2UTF-8.bundle) Plex Agent that'll convert sidecar subtitle files into UTF-8
 *   [PlexTools.bundle](https://github.com/jwdempsey/PlexTools.bundle) Downloads subtitles for any videos in your library from OpenSubtitles and modifies them to work with Roku clients, and converts videos to MP4 for direct play
 
 ### Plex Requests / Third Party Hosts
 
-*   [plexrequests-meteor (⭐534)](https://github.com/lokenx/plexrequests-meteor) Meteor version of the original Plex Requests
+*   [plexrequests-meteor (⭐532)](https://github.com/lokenx/plexrequests-meteor) Meteor version of the original Plex Requests
 
 ### Plex Scripts and Tools / Third Party Hosts
 
-*   [JBOPS (⭐1.3k)](https://github.com/blacktwin/JBOPS) Just a Bunch Of Plex Scripts
-*   [plex\_autoscan (⭐391)](https://github.com/l3uddz/plex_autoscan) Script to assist sonarr/radarr with plex imports.
-*   [plexupdate (⭐1.6k)](https://github.com/mrworf/plexupdate) script to simplify the life of Linux Plex Media Server users.
-*   [plex2netflix (⭐265)](https://github.com/SpaceK33z/plex2netflix) See how much of your media from Plex is available on Netflix.
+*   [JBOPS (⭐1.4k)](https://github.com/blacktwin/JBOPS) Just a Bunch Of Plex Scripts
+*   [plex\_autoscan (⭐400)](https://github.com/l3uddz/plex_autoscan) Script to assist sonarr/radarr with plex imports.
+*   [plexupdate (⭐1.7k)](https://github.com/mrworf/plexupdate) script to simplify the life of Linux Plex Media Server users.
+*   [plex2netflix (⭐270)](https://github.com/SpaceK33z/plex2netflix) See how much of your media from Plex is available on Netflix.
 *   [plexReport (⭐65)](https://github.com/bstascavage/plexReport) Scripts to generate a weekly email of new additions to Plex
 *   [Plex Media Tagger (⭐144)](https://github.com/ccjensen/PlexMediaTagger) Uses the metadata held in the PlexMediaServer to tag media files
-*   [Transmogrify (⭐66)](https://github.com/Transmogrify-for-Plex/Transmogrify-for-Plex-chrome) A Chrome extension that adds several features to the Plex/Web 2.0 client for Plex
-*   [PlexAuth (⭐102)](https://github.com/hjone72/PlexAuth) Plex based authentication using PHP
-*   [Phlex (⭐616)](https://github.com/d8ahazard/Phlex) A super-sexy voice interface for the Plex HTPC
-*   [Plex Redirect (⭐221)](https://github.com/ITRav4/PlexRedirect) a Plex landing page that redirects you to various sites.
+*   [Transmogrify (⭐70)](https://github.com/Transmogrify-for-Plex/Transmogrify-for-Plex-chrome) A Chrome extension that adds several features to the Plex/Web 2.0 client for Plex
+*   [PlexAuth (⭐105)](https://github.com/hjone72/PlexAuth) Plex based authentication using PHP
+*   [Phlex (⭐615)](https://github.com/d8ahazard/Phlex) A super-sexy voice interface for the Plex HTPC
+*   [Plex Redirect (⭐227)](https://github.com/ITRav4/PlexRedirect) a Plex landing page that redirects you to various sites.
 *   [Plaxt](https://plaxt.herokuapp.com/) Webhook-based Trakt.tv scrobbling for Plex
 
 ### Plex Shares / Third Party Hosts
@@ -498,24 +493,24 @@
 
 ### Plex Transcoding / Third Party Hosts
 
-*   [kube-plex (⭐1.1k)](https://github.com/munnerz/kube-plex) Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster!
-*   [UnicornTranscoder (⭐613)](https://github.com/UnicornTranscoder/UnicornTranscoder) a remote transcoder for Plex Media Server
-*   [Plex-Remote-Transcoder (⭐636)](https://github.com/wnielson/Plex-Remote-Transcoder) A distributed transcoding backend for Plex
+*   [kube-plex (⭐1.2k)](https://github.com/munnerz/kube-plex) Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster!
+*   [UnicornTranscoder (⭐646)](https://github.com/UnicornTranscoder/UnicornTranscoder) a remote transcoder for Plex Media Server
+*   [Plex-Remote-Transcoder (⭐640)](https://github.com/wnielson/Plex-Remote-Transcoder) A distributed transcoding backend for Plex
 
 ### Plex Logging and Metrics / Third Party Hosts
 
-*   [plexWatch (⭐425)](https://github.com/ljunkie/plexWatch) Notify and Log watched content on a Plex Media Server
+*   [plexWatch (⭐427)](https://github.com/ljunkie/plexWatch) Notify and Log watched content on a Plex Media Server
 
 ### Plex Clients / Third Party Hosts
 
-*   [RasPlex (⭐643)](https://github.com/RasPlex/RasPlex) Rasplex is a community driven port of Plex Home Theater for the Raspberry Pi
+*   [RasPlex (⭐645)](https://github.com/RasPlex/RasPlex) Rasplex is a community driven port of Plex Home Theater for the Raspberry Pi
 *   [PlexConnect (⭐1.9k)](https://github.com/iBaa/PlexConnect) Unofficial Plex app for Apple TV devices
-*   [go-plex-client (⭐112)](https://github.com/jrudio/go-plex-client) A Plex.tv and Plex Media Server Go client
+*   [go-plex-client (⭐123)](https://github.com/jrudio/go-plex-client) A Plex.tv and Plex Media Server Go client
 
 ### Kodi / Third Party Hosts
 
 *   [Tooonmania2 (⭐1)](https://github.com/doko-desuka/doko.repository/releases) lets you watch cartoons, dubbed anime and movies (from animetoon) and subbed anime and movies (from animeplus)
-*   [PlexKodiConnect (⭐930)](https://github.com/croneter/PlexKodiConnect) Plex integration in Kodi done right
+*   [PlexKodiConnect (⭐1k)](https://github.com/croneter/PlexKodiConnect) Plex integration in Kodi done right
 *   [Official Plex Addon](https://forums.plex.tv/t/installation-instructions/168854) Official Plex addon for Kodi
 *   [Ultimate Kodi Guide](https://www.reddit.com/r/Piracy/comments/7wp42u/ultimate_guide_to_install_kodi_popular_streaming/) ULTIMATE GUIDE TO INSTALL KODI + POPULAR STREAMING ADDONS by /u/giorgiomilan
 
@@ -542,13 +537,13 @@
 
 ### Music Downloading / Third Party Hosts
 
-*   [irs (⭐343)](https://github.com/kepoorhampond/irs) A music downloader that understands your metadata needs.
+*   [irs (⭐368)](https://github.com/kepoorhampond/irs) A music downloader that understands your metadata needs.
 *   [/r/DeezloaderIsBack](https://www.reddit.com/r/DeezloadersIsBack) Community supporting Deezloader
 
 ### Spotify / Third Party Hosts
 
 *   [Get rid of Spotify ads](https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/) Short guide on avoiding ads, banners, limited skips, and locked shuffle mode in Spotify Free
-*   [EZBlocker (⭐1.7k)](https://github.com/Xeroday/Spotify-Ad-Blocker/) a Spotify Ad Blocker written in C# for Windows 7/8/10.
+*   [EZBlocker (⭐1.8k)](https://github.com/Xeroday/Spotify-Ad-Blocker/) a Spotify Ad Blocker written in C# for Windows 7/8/10.
 
 ### iTunes / Third Party Hosts
 
@@ -599,15 +594,15 @@
 
 ### Automation / Third Party Hosts
 
-*   [Pulsarr (⭐169)](https://github.com/roboticsound/Pulsarr) Browser extension (currently Chrome & Firefox) for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
-*   [traktarr (⭐484)](https://github.com/l3uddz/traktarr) Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
+*   [Pulsarr (⭐178)](https://github.com/roboticsound/Pulsarr) Browser extension (currently Chrome & Firefox) for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
+*   [traktarr (⭐520)](https://github.com/l3uddz/traktarr) Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
 
 ### TV Automation / Third Party Hosts
 
 *   [SickRage (⭐1.5k)](https://github.com/SiCKRAGE/SiCKRAGE) Automatic Video Library Manager for TV Shows.
 *   [SickChill](https://sickchill.github.io/) an automatic Video Library Manager for TV Shows.
 *   [SickBeard](http://sickbeard.com/) The ultimate PVR application that searches for and manages your TV shows
-*   [SickGear (⭐553)](https://github.com/SickGear/SickGear) SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
+*   [SickGear (⭐599)](https://github.com/SickGear/SickGear) SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
 *   [Medusa](https://pymedusa.com/) Automatic Video Library Manager for TV Shows.
 
 ### Music Automation / Third Party Hosts
@@ -621,13 +616,13 @@
 
 ### Ripping, Transcoding, Converting, Encoding / Third Party Hosts
 
-*   [sickbeard\_mp4\_automator (⭐1.3k)](https://github.com/mdhiggins/sickbeard_mp4_automator) Automatically convert video files to a standardized mp4 format with proper metadata tagging to create a beautiful and uniform media library
+*   [sickbeard\_mp4\_automator (⭐1.4k)](https://github.com/mdhiggins/sickbeard_mp4_automator) Automatically convert video files to a standardized mp4 format with proper metadata tagging to create a beautiful and uniform media library
 *   [Automatic Ripping Machine](https://b3n.org/automatic-ripping-machine/) The A.R.M. (Automatic Ripping Machine) detects the insertion of an optical disc, identifies the type of media and autonomously performs the appropriate action
 
 ### Cloud Storage / Third Party Hosts
 
-*   [google-drive-ocamlfuse (⭐4.8k)](https://github.com/astrada/google-drive-ocamlfuse) FUSE filesystem over Google Drive
-*   [plexdrive (⭐1.6k)](https://github.com/dweidenfeld/plexdrive) mounts your Google Drive FUSE filesystem (optimized for media playback)
+*   [google-drive-ocamlfuse (⭐5.1k)](https://github.com/astrada/google-drive-ocamlfuse) FUSE filesystem over Google Drive
+*   [plexdrive (⭐1.7k)](https://github.com/dweidenfeld/plexdrive) mounts your Google Drive FUSE filesystem (optimized for media playback)
 *   [/r/PlexACD](https://www.reddit.com/r/PlexACD/) Discussion about unlimited cloud storage for Plex libraries
 *   [rclone-gdrive](https://bytesized-hosting.com/pages/rclone-gdrive) Wiki page on setting up Google Drive with rclone cache and crypt
 *   [Connect Your Plex Server To Your Google Drive](https://bytesized-hosting.com/pages/plexdrive) This tutorial will help you connect your Google Drive to your Plex server using Plexdrive.
@@ -710,16 +705,16 @@
 *   [IMDb](https://www.imdb.com/) Find movies, TV shows, celebrities, and more
 *   [Movieo](https://movieo.me/) Discover, organize and track over 250,000 movies.
 *   [MetaCritic](https://www.metacritic.com) website that aggregates reviews of media products: music albums, video games, films, TV shows, and formerly, books.
-*   [popular-movies (⭐285)](https://github.com/sjlu/popular-movies) Tries to create a list of popular movies based on a series of heuristics
+*   [popular-movies (⭐317)](https://github.com/sjlu/popular-movies) Tries to create a list of popular movies based on a series of heuristics
 *   [Letterboxd](https://letterboxd.com/) Your life in film
 *   [Squawkr.io](https://www.squawkr.io/) sends notifications when movies are available for download.
 
 ### Dashboards and Homepages / Third Party Hosts
 
 *   [Muximux (⭐1.1k)](https://github.com/mescon/Muximux) A lightweight way to manage your HTPC
-*   [Heimdall (⭐4.9k)](https://github.com/linuxserver/Heimdall) An Application dashboard and launcher
+*   [Heimdall (⭐6.1k)](https://github.com/linuxserver/Heimdall) An Application dashboard and launcher
 *   [weboas.is](http://weboas.is/) Homepage for pirates
-*   [iDashboard-PHP (⭐125)](https://github.com/causefx/iDashboard-PHP) HTPC Dashboard to load website services, written in PHP (predecessor to Organizr)
+*   [iDashboard-PHP (⭐124)](https://github.com/causefx/iDashboard-PHP) HTPC Dashboard to load website services, written in PHP (predecessor to Organizr)
 *   [HTPC-Manager (⭐346)](https://github.com/Hellowlol/HTPC-Manager) A fully responsive interface to manage all your favorite software on your Htpc.
 
 ## [25. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
@@ -770,20 +765,13 @@
 
 *   [Cassandra Schemas for Beginners (like me)](https://medium.com/@jochasinga/cassandra-schemas-for-beginners-like-me-9714cee9236a) - Great article for new developers to Cassandra.
 
-## [29. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
-
-### Apps
-
-*   [ipfs-search](https://ipfs-search.com) - Searching the universe since 2016.
-    Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search API's available. [Source (⭐723)](https://github.com/ipfs-search/ipfs-search)
-
-## [30. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
+## [29. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
 ### Math & Computer Science
 
 *   [Guess The Correlation](http://guessthecorrelation.com/) - Try to guess how correlated the two variables in a scatter plot are.
 
-## [31. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [30. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Business
 
@@ -813,7 +801,7 @@
 
 
 
-## [32. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [31. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Django
 
@@ -825,13 +813,13 @@
 
 
 
-## [33. Awesome Scifi](/content/sindresorhus/awesome-scifi/week/README.md)
+## [32. Awesome Scifi](/content/sindresorhus/awesome-scifi/week/README.md)
 
 ### [Magic 2.0 Series](https://www.goodreads.com/series/131379-magic-2-0) (2013, 2014, 2015, 2017) *by [Scott Meyer](https://en.wikipedia.org/wiki/Scott_Meyer_\(author\))* [3.9] / [Imago](https://www.goodreads.com/book/show/17609348-imago) (1989) [4.2]
 
 *   [Out of Spite, Out of Mind](https://www.goodreads.com/book/show/39751936-out-of-spite-out-of-mind) \[3.79]
 
-## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [33. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -848,21 +836,21 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-my-photos (⭐54)](https://github.com/am283721/vue-my-photos) - A simple dependency-free image lightbox component with filtering capabilities
+*   [vue-my-photos (⭐53)](https://github.com/am283721/vue-my-photos) - A simple dependency-free image lightbox component with filtering capabilities
 
-## [35. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
+## [34. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
 
 ### Books
 
 *   [Standard Ebooks](https://standardebooks.org/) - Hundreds of classics, beautifully formatted and typeset.
 
-## [36. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [35. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Companies with "remote DNA"
 
 *   [Circonus](https://www.circonus.com/careers) - SaaS and on-prem monitoring, analytics, alerting, and more.  C, Go, Java, Perl.  HQ in Fulton MD, most employees are remote.
 
-## [37. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [36. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Community / iOS
 
@@ -870,7 +858,7 @@
 *   [MAKE on Youtube](https://www.youtube.com/channel/UChtY6O8Ahw2cz05PS2GhUbg)
 *   [Novaspirittech on YouTube](https://www.youtube.com/channel/UCrjKdwxaQMSV_NDywgKXVmw)
 
-## [38. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [37. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Talks
 
@@ -880,27 +868,34 @@
 
 *   [CloudCompose](https://cloudcompose.io) - An open community marketplace for serverless functions and workflows.
 
-## [39. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [38. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Learning / Progressive Web Application
 
 *   [Mage2.tv](https://www.mage2.tv) - Magento 2 Developer Screencasts by Vinai Kopp
 
+## [39. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Swift / Vapor
+
+*   [Vapor 3 Tutorial For Beginners](https://theswiftdev.com/2018/04/09/vapor-3-tutorial-for-beginners) - Tibor Bödecs
+*   [Vapor Official Docs](https://docs.vapor.codes)
+
 ## [40. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
-*   [Typeahead (⭐657)](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) <!--stargazers:AbdulRahmanAlHamali/flutter_typeahead--> - Display overlay suggestions to users as they type by [Abdul Rahman Al Hamali](https://github.com/AbdulRahmanAlHamali)
+*   [Typeahead (⭐711)](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) <!--stargazers:AbdulRahmanAlHamali/flutter_typeahead--> - Display overlay suggestions to users as they type by [Abdul Rahman Al Hamali](https://github.com/AbdulRahmanAlHamali)
 
 ### Top / Game Engine resources
 
-*   [Trinity Orientation @ Univ Toronto (⭐604)](https://github.com/matthewtory/trinity-orientation-2018) <!--stargazers:matthewtory/trinity-orientation-2018--> - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory)
+*   [Trinity Orientation @ Univ Toronto (⭐613)](https://github.com/matthewtory/trinity-orientation-2018) <!--stargazers:matthewtory/trinity-orientation-2018--> - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory)
 
 ## [41. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Command Line Tools
 
-*   [bat (⭐41k)](https://github.com/sharkdp/bat) - A `cat(1)` clone with syntax highlighting and Git integration. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sharkdp/bat) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [bat (⭐43k)](https://github.com/sharkdp/bat) - A `cat(1)` clone with syntax highlighting and Git integration. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sharkdp/bat) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [silver searcher (ag) (⭐25k)](https://github.com/ggreer/the_silver_searcher) - A code searching tool similar to ack, with a focus on speed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ggreer/the_silver_searcher) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [trash (⭐2.5k)](https://github.com/sindresorhus/trash) - Move files and directories to the trash. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
 
@@ -908,8 +903,8 @@
 
 ### tools / Other
 
-*   [empire (⭐6.7k)](https://github.com/EmpireProject/Empire) - A post exploitation framework for powershell and python.
-*   [silenttrinity (⭐1.9k)](https://github.com/byt3bl33d3r/SILENTTRINITY) - A post exploitation tool that uses iron python to get past powershell restrictions.
+*   [empire (⭐7.1k)](https://github.com/EmpireProject/Empire) - A post exploitation framework for powershell and python.
+*   [silenttrinity (⭐2.1k)](https://github.com/byt3bl33d3r/SILENTTRINITY) - A post exploitation tool that uses iron python to get past powershell restrictions.
 
 ## [43. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -941,11 +936,11 @@
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [Netron (⭐22k)](https://github.com/lutzroeder/netron) - Visualizer for machine learning models.
+*   [Netron (⭐24k)](https://github.com/lutzroeder/netron) - Visualizer for machine learning models.
 
 ### Python / Natural Language Processing
 
-*   [Dedupe (⭐3.7k)](https://github.com/dedupeio/dedupe) - A python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution.
+*   [Dedupe (⭐3.8k)](https://github.com/dedupeio/dedupe) - A python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution.
 
 ## [47. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
@@ -993,12 +988,12 @@
 
 ### Patterns
 
-*   [CleanArchitectureRxSwift (⭐3.7k)](https://github.com/sergdort/CleanArchitectureRxSwift) - Example of Clean Architecture of iOS app using RxSwift.
-*   [Viperit (⭐505)](https://github.com/ferranabello/Viperit) - Viper Framework for iOS.
+*   [CleanArchitectureRxSwift (⭐3.8k)](https://github.com/sergdort/CleanArchitectureRxSwift) - Example of Clean Architecture of iOS app using RxSwift.
+*   [Viperit (⭐507)](https://github.com/ferranabello/Viperit) - Viper Framework for iOS.
 
 ### Cryptography / Barcode
 
-*   [JOSESwift (⭐171)](https://github.com/airsidemobile/JOSESwift) - A framework for the JOSE standards JWS, JWE, and JWK.
+*   [JOSESwift (⭐177)](https://github.com/airsidemobile/JOSESwift) - A framework for the JOSE standards JWS, JWE, and JWK.
 
 ### Menu / Barcode
 
@@ -1031,11 +1026,11 @@
 
 ### Frameworks, Libraries and Tools / Build Automation
 
-*   [Dockerize.NET (⭐169)](https://github.com/brthor/Dockerize.NET) - .NET Cli Tool to package your .NET Core Application into a docker image: 'dotnet dockerize'
+*   [Dockerize.NET (⭐175)](https://github.com/brthor/Dockerize.NET) - .NET Cli Tool to package your .NET Core Application into a docker image: 'dotnet dockerize'
 
 ### Frameworks, Libraries and Tools / ORM
 
-*   [SmartSql (⭐888)](https://github.com/Ahoo-Wang/SmartSql) - SmartSql = MyBatis + Cache(Memory | Redis) + ZooKeeper + R/W Splitting +Dynamic Repository ....
+*   [SmartSql (⭐1k)](https://github.com/Ahoo-Wang/SmartSql) - SmartSql = MyBatis + Cache(Memory | Redis) + ZooKeeper + R/W Splitting +Dynamic Repository ....
 
 ## [55. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
@@ -1051,7 +1046,7 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [Iron python (⭐1k)](https://github.com/IronLanguages/ironpython2) - A python 2 implementation that is integrated with the dot net framework.
+*   [Iron python (⭐1.1k)](https://github.com/IronLanguages/ironpython2) - A python 2 implementation that is integrated with the dot net framework.
 
 ### IoC
 
@@ -1059,7 +1054,7 @@
 
 ### Misc
 
-*   [Guard (⭐702)](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
+*   [Guard (⭐709)](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
 
 ## [57. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
@@ -1090,7 +1085,7 @@
 
 ### Compression
 
-*   [libarchive (⭐2.2k)](https://github.com/libarchive/libarchive) - Multi-format archive and compression library. \[New BSD] [website](http://www.libarchive.org/)
+*   [libarchive (⭐2.6k)](https://github.com/libarchive/libarchive) - Multi-format archive and compression library. \[New BSD] [website](http://www.libarchive.org/)
 
 ### Scripting
 
@@ -1098,11 +1093,11 @@
 
 ### XML
 
-*   [Mini-XML (⭐386)](https://github.com/michaelrsweet/mxml) - A small XML parsing library written in ANSI C. \[LGPL2 with exceptions]
+*   [Mini-XML (⭐403)](https://github.com/michaelrsweet/mxml) - A small XML parsing library written in ANSI C. \[LGPL2 with exceptions]
 
 ### Static Code Analysis
 
-*   [cpplint (⭐1.3k)](https://github.com/cpplint/cpplint) - A C++ style checker following Google's C++ style guide.
+*   [cpplint (⭐1.4k)](https://github.com/cpplint/cpplint) - A C++ style checker following Google's C++ style guide.
 
 ### Articles
 
@@ -1113,7 +1108,7 @@
 
 ### Miscellaneous
 
-*   [Software Patreons (⭐456)](https://github.com/uraimo/awesome-software-patreons#readme) - Fund individual programmers or the development of open source projects.
+*   [Software Patreons (⭐469)](https://github.com/uraimo/awesome-software-patreons#readme) - Fund individual programmers or the development of open source projects.
 
 ## [61. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
@@ -1147,7 +1142,7 @@
 
 ### Applications / System tools
 
-*   [pop-os/system76-power (⭐504)](https://github.com/pop-os/system76-power/) — Linux power management daemon (DBus-interface) with CLI tool.
+*   [pop-os/system76-power (⭐520)](https://github.com/pop-os/system76-power/) — Linux power management daemon (DBus-interface) with CLI tool.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 23 - Oct 29, 2023
 
-49 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -88,9 +88,6 @@
 ### Programming Languages / [Other](#other-1)
 
 *   [luacheck (⭐287)](https://github.com/lunarmodules/luacheck) — A tool for linting and static analysis of Lua code.
-
-### Multiple languages / [Other](#other-1)
-
 *   [fta](https://ftaproject.dev/) — Rust-based static analysis for TypeScript projects
 
 ## [8. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
@@ -218,14 +215,6 @@
 
 
 ## [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Libraries/Frameworks / Logging
-
-*   [Foso/Cabret-Log (⭐192)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
-
-### Libraries/Frameworks / Mail
-
-*   [bluefireoly/SimpleKotlinMail (⭐58)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
 
 ### Projects / Web
 
@@ -503,7 +492,7 @@
 
 Browser extension to add git graph to GitHub website.
 
-Installs: 5324 | Stars: 1883 | Last update: 29 Sep 2023
+Installs: 5318 | Stars: 1886 | Last update: 29 Sep 2023
 
 ## [30. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
@@ -680,7 +669,94 @@ Installs: 5324 | Stars: 1883 | Last update: 29 Sep 2023
 *   [Modern Statistics with R](https://www.modernstatisticswithr.com) - Måns Thulin
 *   [Supervised Machine Learning for Text Analysis in R](https://smltar.com) - Emil Hvitfeldt, Julia Silge
 
-## [41. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [41. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
+
+### Pricing
+
+*   `#opensource`
+
+### 3D
+
+*   [3DFY](https://app.3dfy.ai/) - Generate high-quality 3D models, automatically, in certain object categories using text-prompts. `#paid`
+*   [Any Image to 3D](https://www.csm.ai/any-image-to-3d) - Simplifies the process of converting 2D images into fully detailed 3D models, catering to industries like gaming, robotics, mixed reality, VFX, and e-commerce. `#free`
+*   [OctoEverywhere](https://octoeverywhere.com/) - OctoEverywhere is a 3D printing failure detection assistant that uses computer vision algorithms to detect printing errors such as spaghetti, layer shifts, adhesion issues, and more `#paid`
+*   [Spyne](https://www.spyne.ai/) - Spyne is helping used-car dealerships and marketplaces create engaging VDPs with 360° views and images that sell better. `#paid`
+*   [Pool Planner AI](https://poolplannerai.com/) - Visualize Your Dream Pool Design `#paid`
+*   [Omnia](https://www.theomnia.io/) - Create 3D models based on text prompts or uploaded images. `#paid`
+*   [Heroify](https://www.heroify.lol/) - Generate high-quality 3D graphics for landing pages. `#paid`
+*   [Tafi Avatar](https://www.maketafi.com/ai) - Text-to-3D Character Engine. `#paid`
+*   [Unity](https://unity.com/ai) - Craft interactive, dynamic 3D content for AR, VR, mobile, desktop, and web platforms. `#paid`
+*
+
+### Art
+
+*   [lexical.Art](https://lexica.art) -AI image generation tool that allows you to create images from text descriptions. `#free`
+*   [seaart.ai](https://www.seaart.ai/) - AI image generation tool with advanced configurations available, tons of ready to use models and image enhancements, text to img , img to text and much. `#freemium`
+
+### Code Assistant
+
+*   [Blackbox](https://blackbox.dev/) - Blackbox is an AI-powered code editor that helps developers write code faster and more efficiently. `#freemium`
+
+### Cooking
+
+*   [dishgen](https://www.dishgen.com/) - DishGen is a smart recipe assistant that can simplify healthy cooking for you. `#freemium`
+
+### Dating
+
+*   [Candy.ai](https://candy.ai/discover) - Your dream companion awaits! Create your Virtual Girlfriend, shape her personality and bring her to life in one click. 100% powered by Artificial Intelligence. `#freemium`
+*   [DatePlanner.ai](https://dateplanner.ai/) - Online dating is competitive. Stand out with thoughtful date ideas and interesting conversation topics. `#paid`
+
+### General Writing
+
+*   [QuillBot](https://quillbot.com/) - An AI writing assistance, paraphrasing tool, Plagiarism Checker, Citation generator `#free`
+*   [StealthGPT](https://www.stealthgpt.ai/) - Generates undetectable AI Content avoiding plagiarism issues. `#paid`
+
+### Image Generator
+
+*   [Imagine](https://www.imagine.art) - Text to image with AI Art Generator `#freemium`
+*   [Wepik AI](https://wepik.com/ai) - Text to Image Converter `#free`
+
+### Logo Generator
+
+*   [LogoAi](https://www.logoai.com/logo-maker) - AI-powered logo maker and online design tool. `#freemium`
+
+### Models
+
+*   [LiteLLM](https://litellm.ai/) - An open-source library to simplify LLM completion + embedding calls. `#free` `#opensource`
+*   [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - A foundational, 65-billion-parameter large language model by Meta. `#opensource` `#free`
+*   [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. `#opensource` `#free`
+*   [OPT](https://opt.alpa.ai/) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. `#opensource` `#free`
+*   [Qwen (⭐5.7k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
+
+### Productivity
+
+*   [Taskade](https://www.taskade.com/) - Taskade elegantly unifies your team tasks, notes, and mind, stripping away the noise to reveal the essence of productivity. `#freemium`
+
+### SEO
+
+*   [Frase](https://www.frase.io/) - Content optimization tool that helps businesses create SEO-friendly content quickly and easily. `#paid`
+*   [Surfer SEO](https://surferseo.com/) - SEO tool that helps users optimize their content for better search engine rankings. `#paid`
+*   [GrowthBar](https://www.growthbarseo.com/) - SEO tool designed to help marketers, bloggers, and content teams create SEO-friendly content. `#paid`
+
+### Spreadsheets
+
+*   [AI Excel Bot](https://aiexcelbot.com) - Write Excel and Google Sheets Formulas Faster With AI `#freemium`
+
+### Startup Tools
+
+*   [ClickUp](https://clickup.com/) - All of your work in one place: Tasks, Docs, Chat, Goals, & more. `#free`
+*   [Jasper AI](https://www.jasper.ai/) - Jasper is an AI copilot for enterprise marketing teams. `#paid`
+
+### Story Teller
+
+*   [Plot Factory](https://plotfactory.com/) - An online collaborative story planner that lets writers plan, organize, and write stories & fictional universes. `#paid`
+*   [Sudowrite](https://www.sudowrite.com/) - The model generates text by guessing what's most likely to come next, one word at a time. Kind of like autocomplete on your phone. `#paid`
+
+### Text to Speech
+
+*   [ElevenLabs](https://elevenlabs.io/) - AI-powered text-to-speech and voice cloning technology.`#freemium`
+
+## [42. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Industrial Control and SCADA Systems / Zealandia
 
@@ -690,7 +766,7 @@ Installs: 5324 | Stars: 1883 | Last update: 29 Sep 2023
 
 *   [GraphQL Voyager](https://graphql-kit.com/graphql-voyager/) - Represent any GraphQL API as an interactive graph, letting you explore data models from any Web site with a GraphQL query endpoint.
 
-## [42. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [43. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Containers
 
@@ -709,7 +785,7 @@ Installs: 5324 | Stars: 1883 | Last update: 29 Sep 2023
 *   [faker-cxx (⭐73)](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development. \[MIT]
 *   [inja (⭐1.4k)](https://github.com/pantor/inja) - A Template Engine for Modern C++. \[MIT]
 
-## [43. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [44. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### ORM
 
@@ -719,7 +795,7 @@ Installs: 5324 | Stars: 1883 | Last update: 29 Sep 2023
 
 *   [IronPDF](https://ironpdf.com/)  - High-performance C# PDF library with compatibility for various .NET versions, HTML to PDF conversion, content page conversion, file format support (e.g., DOCX, RTF, MD), responsive layouts, and robust PDF capabilities features ranging from compability, generating PDFs, formatting PDFs, and editing PDFs. **\[$]** **\[Free trial available]**
 
-## [44. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [45. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Family
 
@@ -968,19 +1044,19 @@ Installs: 5324 | Stars: 1883 | Last update: 29 Sep 2023
 
 Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
 
-## [45. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [46. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Posts / React
 
 *   [Why Automatic Persisted Queries Don't Scale](https://blog.tailcall.run/the-truth-about-scaling-automatic-persisted-queries/)
 
-## [46. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [47. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Software Development - Low Code
 
 *   [Dashpress (⭐512)](https://github.com/dashpresshq/dashpress) - Generate fully functional admin apps in seconds from your database information, with a single command. ([Demo](https://demo.dashpress.io/auth)) `AGPL-3.0` `Nodejs/Docker`
 
-## [47. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [48. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -1007,7 +1083,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [Trackingplan](https://www.trackingplan.com/) - Automatically detect digital analytics, marketing data and pixels issues, maintain up-to-date tracking plans, and foster seamless collaboration. Deploy it to your production environment with real traffic or add analytics coverage to your regression tests without writing code.
 
-## [48. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [49. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Module Bundlers / Playground
 
@@ -1017,7 +1093,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [bun](https://bun.sh/) - Bun is a fast JavaScript runtime, package manager, bundler, test runner
 
-## [49. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [50. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -1031,4 +1107,5 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ---
 
+- Prev: [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 - Next: [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 02, 2020
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Open Source / Other
 
-*   [Upcount (⭐320)](https://github.com/madisvain/upcount) - Invoicing.
+*   [Upcount (⭐334)](https://github.com/madisvain/upcount) - Invoicing.
 
 ## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -23,21 +23,27 @@
 
 ### Machine Learning / Runner
 
-*   [Synapses (⭐66)](https://github.com/mrdimosthenis/Synapses) - Lightweight cross-platform Neural Network library.
+*   [Synapses (⭐68)](https://github.com/mrdimosthenis/Synapses) - Lightweight cross-platform Neural Network library.
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Groupware
 
-*   [Corteza](https://cortezaproject.org) - CRM including a unified workspace, enterprise messaging and a low code environment for rapidly and securely delivering records-based management solutions. ([Demo](https://latest.cortezaproject.org), [Source Code (⭐835)](https://github.com/cortezaproject/corteza-server)) `Apache-2.0` `Go`
+*   [Corteza](https://cortezaproject.org) - CRM including a unified workspace, enterprise messaging and a low code environment for rapidly and securely delivering records-based management solutions. ([Demo](https://latest.cortezaproject.org), [Source Code (⭐981)](https://github.com/cortezaproject/corteza)) `Apache-2.0` `Go`
 
-## [5. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
+## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Java / Bootstrap
+
+*   [Java Projects, Second Edition](https://www.packtpub.com/free-ebooks/java-projects-second-edition) - Peter Verhas (Packt account *required*)
+
+## [6. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 
 ### Tools / Miscellaneous
 
 *   [Markdown Magic (⭐748)](https://github.com/DavidWells/markdown-magic) - Automatically format markdown files and sync external docs/src code
 
-## [6. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
+## [7. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Datasets
 
@@ -47,15 +53,15 @@
 
 *   [Data-To-Text: Generating Textual Summaries of Complex Data - Ehud Reiter](https://www.youtube.com/watch?v=kFRw-wk5YOA)
 
-## [7. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [8. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Node.js / Scala
 
 *   [BeeMS (⭐33)](https://github.com/umuplus/beems) - A Bee Queue based minimalist toolkit for building fast, decentralized, scalable and fault tolerant microservices.
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### DBaaS
+### Managed Data Services
 
 *   [InfluxDB](https://www.influxdata.com/) — Timeseries database, free up to 3MB/5 minutes writes, 30MB/5 minutes reads and 10,000 cardinalities series
 

@@ -14,28 +14,28 @@
 
 ### Developer
 
-*   [Fakeum (⭐285)](https://github.com/deanishe/alfred-fakeum) - Generate all kinds of test data.
-*   [Git Repos (⭐309)](https://github.com/deanishe/alfred-repos) - Search and open the Git repos on your system.
+*   [Fakeum (⭐286)](https://github.com/deanishe/alfred-fakeum) - Generate all kinds of test data.
+*   [Git Repos (⭐313)](https://github.com/deanishe/alfred-repos) - Search and open the Git repos on your system.
 
 ### Scientific
 
-*   [Convert (⭐718)](https://github.com/deanishe/alfred-convert) - Offline conversion of units and (crypto)currencies.
+*   [Convert (⭐721)](https://github.com/deanishe/alfred-convert) - Offline conversion of units and (crypto)currencies.
 
 ### Productivity
 
-*   [I Sheet You Not (⭐70)](https://github.com/deanishe/i-sheet-you-not) - Generate your own workflows from Excel spreadsheets.
+*   [I Sheet You Not (⭐69)](https://github.com/deanishe/i-sheet-you-not) - Generate your own workflows from Excel spreadsheets.
 
 ### Security
 
-*   [Password Generator (⭐285)](https://github.com/deanishe/alfred-pwgen) - Configurable offline password generator.
+*   [Password Generator (⭐287)](https://github.com/deanishe/alfred-pwgen) - Configurable offline password generator.
 
 ### System
 
-*   [AppScripts (⭐77)](https://github.com/deanishe/alfred-appscripts) - Search and run JXA/AppleScripts for the active application.
+*   [AppScripts (⭐79)](https://github.com/deanishe/alfred-appscripts) - Search and run JXA/AppleScripts for the active application.
 
 ### Web
 
-*   [Reddit (⭐213)](https://github.com/deanishe/alfred-reddit) - Search and browse subreddits and hot posts within Alfred.
+*   [Reddit (⭐216)](https://github.com/deanishe/alfred-reddit) - Search and browse subreddits and hot posts within Alfred.
 
 ## [2. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Community
 
-*   [`#angular`](https://twitter.com/hashtag/angular) hashtag on Twitter
+*   [`#angular`](https://twitter.com/hashtag/angular) hashtag on Twitter.
 
 ### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -108,11 +108,11 @@
 
 ### Images / Barcode
 
-*   [LetterAvatarKit (⭐218)](https://github.com/vpeschenkov/LetterAvatarKit) - A UIImage extension that generates letter-based avatars.
+*   [LetterAvatarKit (⭐221)](https://github.com/vpeschenkov/LetterAvatarKit) - A UIImage extension that generates letter-based avatars.
 
 ### Localization / Barcode
 
-*   [L10n-swift (⭐293)](https://github.com/Decybel07/L10n-swift) - Localization of an application with ability to change language "on the fly" and support for plural forms in any language.
+*   [L10n-swift (⭐308)](https://github.com/Decybel07/L10n-swift) - Localization of an application with ability to change language "on the fly" and support for plural forms in any language.
 
 ## [9. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -124,7 +124,7 @@
 
 ### Audio Related Packages / Music Information Retrieval
 
-*   [msaf](http://pythonhosted.org/msaf/) [:octocat: (⭐396)](https://github.com/urinieto/msaf) [:package:](https://pypi.python.org/pypi/msaf) - Music Structure Analysis Framework.
+*   [msaf](http://pythonhosted.org/msaf/) [:octocat: (⭐410)](https://github.com/urinieto/msaf) [:package:](https://pypi.python.org/pypi/msaf) - Music Structure Analysis Framework.
 
 ## [11. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
@@ -153,7 +153,7 @@
 
 ### Security / Tools
 
-*   [sockguard (⭐144)](https://github.com/buildkite/sockguard)\
+*   [sockguard (⭐142)](https://github.com/buildkite/sockguard)\
     A proxy for docker.sock that enforces access control and isolated privileges.
 
 ### Security / Links
@@ -231,7 +231,7 @@
 
 ### View helpers
 
-*   [auto\_html (⭐782)](https://github.com/dejan/auto_html) - Rails extension for transforming URLs to appropriate resource (image, link, YouTube, Vimeo video...).
+*   [auto\_html (⭐784)](https://github.com/dejan/auto_html) - Rails extension for transforming URLs to appropriate resource (image, link, YouTube, Vimeo video...).
 
 ## [22. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -261,7 +261,7 @@
 
 ### Community / Interfaces to other package managers
 
-*   [antik](https://www.common-lisp.net/project/antik/) -  a foundation for scientific and engineering computation in Common Lisp. GPL. Also [mgl-mat (⭐62)](https://github.com/melisgl/mgl-mat) and [LLA (⭐86)](https://github.com/tpapp/lla).
+*   [antik](https://www.common-lisp.net/project/antik/) -  a foundation for scientific and engineering computation in Common Lisp. GPL. Also [mgl-mat (⭐65)](https://github.com/melisgl/mgl-mat) and [LLA (⭐87)](https://github.com/tpapp/lla).
 
 ## [26. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -270,51 +270,61 @@
 *   [SimilarSites](http://www.similarsites.com) - Discover websites that are similar to each other
 *   [SitesLike](http://www.siteslike.com) - Find similar websites by category
 
-## [27. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [27. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+
+### Modules / Array
+
+*   [group-array (⭐54)](https://github.com/doowb/group-array) - Group array of objects into lists.
+
+### Modules / Date & Time
+
+*   [time-stamp (⭐112)](https://github.com/jonschlinkert/time-stamp) - Get a formatted timestamp.
+
+## [28. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Tools / Ruby
 
 *   [Capybara](https://rubygems.org/gems/capybara) - an integration testing tool for rack based web applications. It simulates how a user would interact with a website.
 
-## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [29. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Frameworks
 
 *   [AspectCore Framework (⭐1.6k)](https://github.com/dotnetcore/AspectCore-Framework) - AspectCore Framework is an Aspect-Oriented Programming based cross platform framework for .NET Core and .NET Framework. Core support for aspect-interceptor,dependency injection integration , web applications , data validation , and more.
 
-## [29. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
+## [30. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
 
 ### Physical Web
 
 *   [Exploring the Physical Web (Without Buying Beacons)](https://medium.com/@urish/exploring-the-physical-web-without-buying-beacons-efae51e36c2e)
 
-## [30. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [31. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [node-vue-template (⭐74)](https://github.com/mubaidr/node-vue-template) - A starter template for building complete application using Node.js (API) and Vue.js (SPA) with some included packages and configurations to help start the development quickly.
+*   [node-vue-template (⭐72)](https://github.com/mubaidr/node-vue-template) - A starter template for building complete application using Node.js (API) and Vue.js (SPA) with some included packages and configurations to help start the development quickly.
 
 ### Components & Libraries / UI Components
 
 *   [v-unicode (⭐14)](https://github.com/ndelvalle/v-unicode) - Vue directive to restrict an input by unicode values.
 
-## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [32. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
-*   [phoenix\_client\_ssl (⭐18)](https://github.com/jshmrtn/phoenix-client-ssl) - Client SSL Authentication Plugs for Phoenix and other Plug-based apps.
+*   [phoenix\_client\_ssl (⭐19)](https://github.com/jshmrtn/phoenix-client-ssl) - Client SSL Authentication Plugs for Phoenix and other Plug-based apps.
 
 ### Examples and funny stuff
 
-*   [real world example app (⭐880)](https://github.com/gothinkster/elixir-phoenix-realworld-example-app) - Elixir / Phoenix implementation of [RealWorld.io](https://realworld.io/) backend specs - a Medium clone.
+*   [real world example app (⭐884)](https://github.com/gothinkster/elixir-phoenix-realworld-example-app) - Elixir / Phoenix implementation of [RealWorld.io](https://realworld.io/) backend specs - a Medium clone.
 
-## [32. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [33. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Articles / iOS
 
-*   [Raspberry Pi A to Z List (⭐922)](https://github.com/wtsxDev/Raspberry-Pi) - Comprehensive list with links to common questions & pitfalls.
+*   [Raspberry Pi A to Z List (⭐927)](https://github.com/wtsxDev/Raspberry-Pi) - Comprehensive list with links to common questions & pitfalls.
 
-## [33. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [34. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Conferences
 
@@ -330,19 +340,19 @@
 *   [ICCV - International Conference on Computer Vision](http://iccv2017.thecvf.com)
 *   [AAAI - Association for the Advancement of Artificial Intelligence](https://www.aaai.org)
 
-## [34. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [35. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / Imaging
 
-*   [Papaya (⭐491)](https://github.com/rii-mango/Papaya) - Pure JavaScript medical research image viewer.
+*   [Papaya (⭐494)](https://github.com/rii-mango/Papaya) - Pure JavaScript medical research image viewer.
 
-## [35. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
+## [36. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 
 ### Extensions / JavaScript Profile
 
 *   [Bump (⭐75)](https://github.com/yavorsky/Bump) — plugin to keep package.json dependencies fresh. Shows latest npm/yarn dependency version in the neat tooltip on package hover.
 
-## [36. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [37. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
@@ -352,7 +362,7 @@
 
 *   [BookingSync](https://www.bookingsync.com/en/jobs) - Vacation Rental Software for professionals. Fully distributed team, we work remotely and try to make a company retreat each year. Proud Ember.js official sponsor, Ruby / Rails
 
-## [37. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [38. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### Websites / Misc
 
@@ -361,31 +371,17 @@
 *   [The Open News](https://source.opennews.org/articles/) blog -  Open news has some good dataviz related articles from time to time
 *   [The Pudding](https://pudding.cool/)
 
-## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [39. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [letsencrypt-win-simple (⭐4.6k)](https://github.com/Lone-Coder/letsencrypt-win-simple) - A Simple ACME Client for Windows.
-
-## [39. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
-
-### Articles
-
-*   [Why I think "micro-packages" are a good thing.](http://codetunnel.io/why-i-think-micro-packages-are-a-good-thing/)
-
-### Modules / Array
-
-*   [group-array (⭐52)](https://github.com/doowb/group-array) - Group array of objects into lists.
-
-### Modules / Date & Time
-
-*   [time-stamp (⭐110)](https://github.com/jonschlinkert/time-stamp) - Get a formatted timestamp.
+*   [letsencrypt-win-simple (⭐4.9k)](https://github.com/Lone-Coder/letsencrypt-win-simple) - A Simple ACME Client for Windows.
 
 ## [40. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Other
 
-*   [synp (⭐669)](https://github.com/imsnif/synp) - Convert yarn.lock to package-lock.json and vice versa.
+*   [synp (⭐703)](https://github.com/imsnif/synp) - Convert yarn.lock to package-lock.json and vice versa.
 
 ## [41. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
@@ -395,7 +391,7 @@
 
 ### Related projects / Syntax highlighting packages
 
-*   [mGB (⭐193)](https://github.com/trash80/mGB) - A Game Boy cartridge program that enables the Game Boy to act as a full MIDI supported sound module.
+*   [mGB (⭐201)](https://github.com/trash80/mGB) - A Game Boy cartridge program that enables the Game Boy to act as a full MIDI supported sound module.
 *   [GBVisualizer (⭐27)](https://github.com/LIJI32/GBVisualizer) - Demonstrating the use of two undocumented Game Boy Color registers, nicknamed PCM12 (FF76) and PCM34 (FF77), which can be used to read the current PCM amplitude of the 4 APU channels.
 *   [gbcpu (⭐9)](https://github.com/jdeblese/gbcpu) - A CPU and peripherals implementing the Game Boy instruction set and functionality.
 
@@ -403,7 +399,7 @@
 
 ### ORM/ODM Extensions
 
-*   [clear (⭐269)](https://github.com/anykeyh/clear) - ORM specialized to PostgreSQL only but with advanced features
+*   [clear (⭐270)](https://github.com/anykeyh/clear) - ORM specialized to PostgreSQL only but with advanced features
 
 ## [43. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
@@ -416,18 +412,18 @@
 ### Frameworks
 
 *   [GLib](https://wiki.gnome.org/Projects/GLib) - GLib provides the core application building blocks for libraries and applications written in C. \[LGPL]
-*   [tbox (⭐4.4k)](https://github.com/tboox/tbox) - A glib-like multi-platform c library. \[Apache2] [website](http://tboox.org/)
+*   [tbox (⭐4.5k)](https://github.com/tboox/tbox) - A glib-like multi-platform c library. \[Apache2] [website](http://tboox.org/)
 
 ### Concurrency
 
-*   [alpaka (⭐3)](https://github.com/ComputationalRadiationPhysics/alpaka) - Abstraction library for parallel kernel acceleration. \[LGPLv3+]
-*   [concurrentqueue (⭐7.8k)](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11. \[BSD,Boost]
+*   [alpaka (⭐4)](https://github.com/ComputationalRadiationPhysics/alpaka) - Abstraction library for parallel kernel acceleration. \[LGPLv3+]
+*   [concurrentqueue (⭐8.3k)](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11. \[BSD,Boost]
 *   [cupla (⭐3)](https://github.com/ComputationalRadiationPhysics/cupla) - C++ API to run CUDA/C++ on OpenMP, Threads, TBB, ... through Alpaka. \[LGPLv3+]
-*   [readerwriterqueue (⭐3k)](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C++. \[BSD]
+*   [readerwriterqueue (⭐3.2k)](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C++. \[BSD]
 
 ### GUI
 
-*   [Yue (⭐2.9k)](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps. \[LGPLv2]
+*   [Yue (⭐3.2k)](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps. \[LGPLv2]
 
 ### Graphics
 
@@ -436,15 +432,15 @@
 
 ### Scientific Computing
 
-*   [Torch (⭐8.8k)](https://github.com/torch/torch7) - A scientific computing framework with wide support for machine learning algorithms that puts GPUs first. \[BSD-3-Clause] [website](http://torch.ch/)
+*   [Torch (⭐8.9k)](https://github.com/torch/torch7) - A scientific computing framework with wide support for machine learning algorithms that puts GPUs first. \[BSD-3-Clause] [website](http://torch.ch/)
 
 ### Scripting
 
-*   [ctypes.sh (⭐1.8k)](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash. \[MIT]
+*   [ctypes.sh (⭐1.9k)](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash. \[MIT]
 
 ### Static Code Analysis
 
-*   [cpp-dependencies (⭐690)](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). \[Apache]
+*   [cpp-dependencies (⭐700)](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). \[Apache]
 
 ---
 

@@ -8,7 +8,7 @@
 
 ## [1. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Games / MIT
+### Games / Apache License
 
 *   [steamsky](https://www.laeran.pl/repositories/steamsky) - Roguelike in sky with a steampunk setting.
 
@@ -122,8 +122,8 @@
 
 *   [Compiz windows effect](https://extensions.gnome.org/extension/3210/compiz-windows-effect/) - Adds wobbly effects to windows.
 *   [Useless Gaps](https://extensions.gnome.org/extension/4684/useless-gaps/) - For aesthetic purposes adds useless gaps around tiled and maximized windows.
-*   [Desktop Cube (⭐508)](https://github.com/Schneegans/Desktop-Cube) - A Desktop Cube for GNOME Shell
-*   [Burn My Windows (⭐2.3k)](https://github.com/Schneegans/Burn-My-Windows/) - Open/Close your windows with style.
+*   [Desktop Cube (⭐535)](https://github.com/Schneegans/Desktop-Cube) - A Desktop Cube for GNOME Shell
+*   [Burn My Windows (⭐2.4k)](https://github.com/Schneegans/Burn-My-Windows/) - Open/Close your windows with style.
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -179,7 +179,7 @@
 
 ### Tools & Software / Acquisition
 
-*   [DiskerNet (⭐3.2k)](https://github.com/dosyago/DiskerNet) - A non-WARC-based tool which hooks into the Chrome browser and archives everything you browse making it available for offline replay. *(In Development)*
+*   [DiskerNet (⭐3.4k)](https://github.com/dosyago/DiskerNet) - A non-WARC-based tool which hooks into the Chrome browser and archives everything you browse making it available for offline replay. *(In Development)*
 
 ## [10. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
@@ -200,12 +200,12 @@
 
 ### Desktop Customization
 
-*   [Qubes-GUI-Rust (⭐6)](https://github.com/QubesOS/qubes-gui-rust) - Rust libraries for the Qubes OS GUI Protocol
+*   [Qubes-GUI-Rust (⭐7)](https://github.com/QubesOS/qubes-gui-rust) - Rust libraries for the Qubes OS GUI Protocol
 
 ### Exploitation Tools / Unikernel-like
 
-*   [MemProcFS (⭐1.9k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
-    *   [MemProcFS-Plugins (⭐31)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
+*   [MemProcFS (⭐2.2k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
+    *   [MemProcFS-Plugins (⭐37)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
 
 ### Qubes OS Legends / Web articles
 
@@ -219,35 +219,35 @@
 
 ### Software / Automation
 
-*   [Activepieces](https://www.activepieces.com) - No-code business automation tool like Zapier or Tray. For example, you can send a Slack notification for each new Trello card. ([Demo](https://demo.activepieces.com), [Source Code](https://www.github.com/activepieces/activepieces)) `MIT` `Typescript`
+*   [Activepieces](https://www.activepieces.com) - No-code business automation tool like Zapier or Tray. For example, you can send a Slack notification for each new Trello card. ([Source Code (⭐3.8k)](https://github.com/activepieces/activepieces)) `MIT` `Docker`
 
 ### Software / Recipe Management
 
-*   [Bar Assistant (⭐184)](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes. ([Demo](https://bar.karlomikus.com/)) `MIT` `PHP/Docker`
+*   [Bar Assistant (⭐249)](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes. ([Demo](https://bar.karlomikus.com/)) `MIT` `PHP/Docker`
 
 ## [13. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
 ### Projects
 
-*   [Open Gamma Detector (⭐120)](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) - Hackable, low-cost gamma-ray spectrometer.
+*   [Open Gamma Detector (⭐181)](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) - Hackable, low-cost gamma-ray spectrometer.
 
 ## [14. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Tutorials
 
-*   [Typescript + Svelte Cheatsheet (⭐549)](https://github.com/ivanhofer/sveltekit-typescript-showcase) - An overview of all TypeScript related topics for Svelte and SvelteKit - @ivanhofer (Github).
+*   [Typescript + Svelte Cheatsheet (⭐667)](https://github.com/ivanhofer/sveltekit-typescript-showcase) - An overview of all TypeScript related topics for Svelte and SvelteKit - @ivanhofer (Github).
 
 ### Miscellaneous / Checkbox
 
-*   [svelte-splitpanes (⭐185)](https://github.com/orefalo/svelte-splitpanes) - Full featured resizeable views panels
+*   [svelte-splitpanes (⭐264)](https://github.com/orefalo/svelte-splitpanes) - Full featured resizeable views panels
 
 ### Form / Checkbox
 
-*   [svelte-form-builder (⭐10)](https://github.com/pragmatic-engineering/svelte-form-builder-community) - A No-code Drag n Drop Form Builder built for Svelte
+*   [svelte-form-builder (⭐44)](https://github.com/pragmatic-engineering/svelte-form-builder-community) - A No-code Drag n Drop Form Builder built for Svelte
 
 ## [15. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Mobile / Angular
+### Mobile / Svelte
 
 *   [Flutter Tap](https://fluttertap.com/). Flutter Tap is a free weekly newsletter that helps you to stay cutting-edge with your Flutter development.
 

@@ -10,7 +10,7 @@
 
 ### Databases Implemented in Go
 
-*   [regatta (⭐49)](https://github.com/jamf/regatta) - Fast, simple, geo-distributed KV store built for cloud native era.
+*   [regatta (⭐58)](https://github.com/jamf/regatta) - Fast, simple, geo-distributed KV store built for cloud native era.
 
 ## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -30,7 +30,7 @@
 
 ## [4. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Science Logology / Democratization
+### Science Logology / Democratization of Science
 
 *   [1,500 scientists lift the lid on reproducibility](https://www.nature.com/articles/533452a) - ***Nature***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=11479406257389837824\&hl=en\&as_sdt=0,5)].
 
@@ -38,13 +38,13 @@
 
 ### Plugins for Minecraft
 
-*   [FreedomChat (⭐166)](https://github.com/e-im/FreedomChat) - A great alternative to No-Chat-Reports, since it does not break any chat plugin by design.
+*   [FreedomChat (⭐174)](https://github.com/e-im/FreedomChat) - A great alternative to No-Chat-Reports, since it does not break any chat plugin by design.
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Productivity
 
-*   [LLDAP (⭐2.6k)](https://github.com/lldap/lldap) - Simplified LDAP interface for authentication.
+*   [LLDAP (⭐2.9k)](https://github.com/lldap/lldap) - Simplified LDAP interface for authentication.
 
 ## [7. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
@@ -56,23 +56,19 @@
 
 ### Software / Games
 
-*   [Romm (⭐375)](https://github.com/zurdi15/romm) `⚠` - RomM (Rom Manager) is a web based retro roms manager integrated with IGDB. `GPL-3.0` `Docker`
-
-### Software / Pastebins
-
-*   [pacebin](https://paste.swurl.xyz/) - A dead-simple, self-hostable, filesystem-backed pastebin, written in C using Mongoose. ([Source Code](https://git.swurl.xyz/swirl/pacebin)) `AGPL-3.0` `C`
+*   [Romm (⭐570)](https://github.com/zurdi15/romm) `⚠` - RomM (Rom Manager) is a web based retro roms manager integrated with IGDB. `GPL-3.0` `Docker`
 
 ## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [git-gen (⭐0)](https://github.com/sharif3271/git-gen) - Handle `git` bulk branch delete and create operations.
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [astral (skippyr) (⭐0)](https://github.com/skippyr/astral) - Dual line theme with decorators for user\@hostname, current directory, python virtual environment and `git` information.
-*   [astral (xwmx) (⭐13)](https://github.com/xwmx/astral) - Theme for dark backgrounds with zen mode. Works well with the zsh-users [zsh-syntax-highlighting (⭐17k)](https://github.com/zsh-users/zsh-syntax-highlighting) plugin. Includes decorators for execution time of last command, when it was run, its exit status, machine name, current path, `ssh` status, and `git` status.
-*   [brisa (⭐1)](https://github.com/ambrisolla/oh-my-zsh-brisa-theme) - Multiline theme based on [fino-time (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/fino-time.zsh-theme). Includes decorations for username, host, current directory, and `git` status.
+*   [astral (xwmx) (⭐14)](https://github.com/xwmx/astral) - Theme for dark backgrounds with zen mode. Works well with the zsh-users [zsh-syntax-highlighting (⭐18k)](https://github.com/zsh-users/zsh-syntax-highlighting) plugin. Includes decorators for execution time of last command, when it was run, its exit status, machine name, current path, `ssh` status, and `git` status.
+*   [brisa (⭐1)](https://github.com/ambrisolla/oh-my-zsh-brisa-theme) - Multiline theme based on [fino-time (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/fino-time.zsh-theme). Includes decorations for username, host, current directory, and `git` status.
 
 ## [10. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
@@ -82,4 +78,5 @@
 
 ---
 
+- Prev: [Jun 19, 2023](/content/2023/06/19/README.md)
 - Next: [Jun 17, 2023](/content/2023/06/17/README.md)

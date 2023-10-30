@@ -33,11 +33,11 @@
 
 ### Blogs
 
-*   [Ardalis.com](https://ardalis.com/blog) - Steve Smith. Pluralsight author and author of [DDD Fundamentals](https://www.pluralsight.com/courses/domain-driven-design-fundamentals) course and Microsoft [eShopOnWeb sample app (⭐8.1k)](https://github.com/dotnet-architecture/eShopOnWeb).
+*   [Ardalis.com](https://ardalis.com/blog) - Steve Smith. Pluralsight author and author of [DDD Fundamentals](https://www.pluralsight.com/courses/domain-driven-design-fundamentals) course and Microsoft [eShopOnWeb sample app (⭐9.2k)](https://github.com/dotnet-architecture/eShopOnWeb).
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [eShopOnWeb (⭐8.1k)](https://github.com/dotnet-architecture/eShopOnWeb) - Full ASP.NET Core 3.1 reference application from Microsoft showing monolithic deployment architecture
+*   [eShopOnWeb (⭐9.2k)](https://github.com/dotnet-architecture/eShopOnWeb) - Full ASP.NET Core 3.1 reference application from Microsoft showing monolithic deployment architecture
 
 ## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -68,23 +68,23 @@
 
 ### Integrations
 
-*   [Nerzal/gocloak Golang Keycloak API Package (⭐743)](https://github.com/Nerzal/gocloak)
+*   [Nerzal/gocloak Golang Keycloak API Package (⭐822)](https://github.com/Nerzal/gocloak)
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-final-modal (⭐614)](https://github.com/hunterliu1003/vue-final-modal) Tailwind-friendly, highly customizable, stackable modal component.
+*   [vue-final-modal (⭐691)](https://github.com/hunterliu1003/vue-final-modal) Tailwind-friendly, highly customizable, stackable modal component.
 
 ### Components & Libraries / Utilities
 
-*   [vue-automatic-import-loader (⭐25)](https://github.com/hunterliu1003/vue-automatic-import-loader) - webpack loader that auto import your Vue single file components by using a match function.
+*   [vue-automatic-import-loader (⭐24)](https://github.com/hunterliu1003/vue-automatic-import-loader) - webpack loader that auto import your Vue single file components by using a match function.
 
 ## [11. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Extensions
 
-*   [next-auth (⭐16k)](https://github.com/iaincollins/next-auth) - Easy authentication for Next.js and Serverless
+*   [next-auth (⭐19k)](https://github.com/iaincollins/next-auth) - Easy authentication for Next.js and Serverless
 
 ---
 

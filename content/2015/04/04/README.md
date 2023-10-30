@@ -10,7 +10,7 @@
 
 ### Framework Components
 
-*   [plug\_require\_header (⭐26)](https://github.com/DevL/plug_require_header) - Require and extract HTTP headers and handle missing ones.
+*   [plug\_require\_header (⭐27)](https://github.com/DevL/plug_require_header) - Require and extract HTTP headers and handle missing ones.
 
 ---
 

@@ -22,13 +22,13 @@
 
 ### JupyterLab Extensions
 
-*   [jupyterlab\_templates (⭐332)](https://github.com/jpmorganchase/jupyterlab_templates) - Notebook templates in JupyterLab.
+*   [jupyterlab\_templates (⭐348)](https://github.com/jpmorganchase/jupyterlab_templates) - Notebook templates in JupyterLab.
 
 ## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Endpoint / Authentication
 
-*   [Stegcloak (⭐2.9k)](https://github.com/kurolabs/stegcloak) - Securely assign Digital Authenticity to any written text
+*   [Stegcloak (⭐3k)](https://github.com/kurolabs/stegcloak) - Securely assign Digital Authenticity to any written text
 
 ## [4. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
 
@@ -67,7 +67,7 @@
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
 *   [Datapane](https://datapane.com) - API for building interactive reports in Python and deploying Python scripts and Jupyter Notebooks as self-service tools.
 
@@ -75,7 +75,7 @@
 
 ### Extensions
 
-*   [next-img (⭐203)](https://github.com/humaans/next-img/) - a plugin for embedding optimized images with ease.
+*   [next-img (⭐245)](https://github.com/humaans/next-img/) - a plugin for embedding optimized images with ease.
 
 ## [9. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 

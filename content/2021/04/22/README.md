@@ -10,7 +10,7 @@
 
 ### Sample Projects / JVM languages
 
-*   [https://github.com/felipexw/clean-arch-ddd-intro (⭐10)](https://github.com/felipexw/clean-arch-ddd-intro) - Simple DDD + Clean Architecture using Micronaut.
+*   [https://github.com/felipexw/clean-arch-ddd-intro (⭐13)](https://github.com/felipexw/clean-arch-ddd-intro) - Simple DDD + Clean Architecture using Micronaut.
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -46,12 +46,12 @@
 
 ### Algorithms and Data structures
 
-*   [splay\_tree\_map (⭐12)](https://github.com/wyhaines/splay_tree_map.cr) - Splay Tree implementation that conforms to the Hash ducktype
+*   [splay\_tree\_map (⭐14)](https://github.com/wyhaines/splay_tree_map.cr) - Splay Tree implementation that conforms to the Hash ducktype
 
 ### Debugging
 
 *   [backtracer.cr (⭐15)](https://github.com/Sija/backtracer.cr) - Shard aiming to assist with parsing backtraces into a structured form
-*   [debug.cr (⭐89)](https://github.com/Sija/debug.cr) - `debug!(…)` macro for `pp`-style debugging
+*   [debug.cr (⭐92)](https://github.com/Sija/debug.cr) - `debug!(…)` macro for `pp`-style debugging
 
 ### Misc
 
@@ -61,7 +61,7 @@
 
 ### Packages / Parsing
 
-*   [Chevrotain (⭐2.2k)](https://github.com/Chevrotain/chevrotain) - Very fast and feature rich parser building toolkit for JavaScript.
+*   [Chevrotain (⭐2.3k)](https://github.com/Chevrotain/chevrotain) - Very fast and feature rich parser building toolkit for JavaScript.
 
 ## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -73,11 +73,11 @@
 
 ### React State Management and Data Fetching
 
-*   [mobx (⭐26k)](https://github.com/mobxjs/mobx) - Simple, scalable state management
-*   [zustand (⭐30k)](https://github.com/pmndrs/zustand) - Bear necessities for state management in React
+*   [mobx (⭐27k)](https://github.com/mobxjs/mobx) - Simple, scalable state management
+*   [zustand (⭐36k)](https://github.com/pmndrs/zustand) - Bear necessities for state management in React
 *   [recoil (⭐19k)](https://github.com/facebookexperimental/Recoil) - Experimental state management library for React apps
-*   [effector (⭐4.2k)](https://github.com/zerobias/effector) - Business logic with ease
-*   [immer (⭐25k)](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
+*   [effector (⭐4.3k)](https://github.com/zerobias/effector) - Business logic with ease
+*   [immer (⭐26k)](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 *   [immutable-js (⭐33k)](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript
 
 ### React Libraries
@@ -110,19 +110,19 @@
 
 ## [13. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
 
-### WWDC Students Submissions / Functional Reactive Programming
+### WWDC Students Submissions
 
-*   [2021 (⭐167)](https://github.com/wwdc/2021)
+*   [2021 (⭐171)](https://github.com/wwdc/2021)
 
 ## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### BaaS
 
-*   [Firebase](https://firebase.com) — Firebase helps you build and run successful apps. Free Spark Plan offers Authentication, Hosting, Firebase ML , Realtime Database,Cloud Storage,Testlab. A/B Testing, Analytics, App Distribution, App Indexing, Cloud Messaging (FCM), Crashlytics, Dynamic Links, In-App Messaging, Performance Monitoring, Predictions, and Remote Config are always-free.
+*   [Firebase](https://firebase.com) — Firebase helps you build and run successful apps. Free Spark Plan offers Authentication, Hosting, Firebase ML, Realtime Database, Cloud Storage, Testlab. A/B Testing, Analytics, App Distribution, App Indexing, Cloud Messaging (FCM), Crashlytics, Dynamic Links, In-App Messaging, Performance Monitoring, Predictions, and Remote Config are always free.
 
 ### Visitor Session Recording
 
-*   [UXtweak.com](https://www.uxtweak.com/) — Record and watch how visitors use your web site or app. Free unlimited time for small projects
+*   [UXtweak.com](https://www.uxtweak.com/) — Record and watch how visitors use your website or app. Free unlimited time for small projects
 
 ## [15. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
@@ -151,11 +151,11 @@
 
 ### Applications / Observability
 
-*   [Scaphandre (⭐1.2k)](https://github.com/hubblo-org/scaphandre) - A power consumption monitoring agent, to track host and each service power consumption and enable designing systems and applications for more sustainability. Designed to fit any monitoring toolchain (already supports prometheus, warp10, riemann...).
+*   [Scaphandre (⭐1.3k)](https://github.com/hubblo-org/scaphandre) - A power consumption monitoring agent, to track host and each service power consumption and enable designing systems and applications for more sustainability. Designed to fit any monitoring toolchain (already supports prometheus, warp10, riemann...).
 
 ### Libraries / GUI
 
-*   [tauri-apps/wry (⭐2.5k)](https://github.com/tauri-apps/wry) - Webview Rendering librarY.
+*   [tauri-apps/wry (⭐2.8k)](https://github.com/tauri-apps/wry) - Webview Rendering librarY.
 
 ---
 

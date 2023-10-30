@@ -35,7 +35,7 @@
 
 ### Apps / Rich text editor extensions
 
-*   [WagtailDraftail (⭐23)](https://github.com/springload/wagtaildraftail) – Draft.js editor for Wagtail, built upon [Draftail (⭐586)](https://github.com/springload/draftail) and [draftjs\_exporter (⭐77)](https://github.com/springload/draftjs_exporter).
+*   [WagtailDraftail (⭐23)](https://github.com/springload/wagtaildraftail) – Draft.js editor for Wagtail, built upon [Draftail (⭐591)](https://github.com/springload/draftail) and [draftjs\_exporter (⭐79)](https://github.com/springload/draftjs_exporter).
 
 ### Resources / Lists
 
@@ -43,18 +43,18 @@
 
 ### Open-source sites / Lists
 
-*   [bakerydemo (⭐680)](https://github.com/wagtail/bakerydemo) – Next generation Wagtail demo, born in Reykjavík.
-*   [wagtaildemo (⭐285)](https://github.com/wagtail/wagtaildemo) – An example site implemented with Wagtail.
+*   [bakerydemo (⭐744)](https://github.com/wagtail/bakerydemo) – Next generation Wagtail demo, born in Reykjavík.
+*   [wagtaildemo (⭐283)](https://github.com/wagtail/wagtaildemo) – An example site implemented with Wagtail.
 
 ## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Bluetooth
 
-*   [SwiftyBluetooth (⭐186)](https://github.com/jordanebelanger/SwiftyBluetooth) - Simple and reliable closure based wrapper around CoreBluetooth.
+*   [SwiftyBluetooth (⭐199)](https://github.com/jordanebelanger/SwiftyBluetooth) - Simple and reliable closure based wrapper around CoreBluetooth.
 
 ### Math / Barcode
 
-*   [BigInt (⭐718)](https://github.com/attaswift/BigInt) - Arbitrary-precision arithmetic.
+*   [BigInt (⭐734)](https://github.com/attaswift/BigInt) - Arbitrary-precision arithmetic.
 
 ---
 

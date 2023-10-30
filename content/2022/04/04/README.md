@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 04, 2022
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### SQL / Über SQL
 
-*   [osquery (⭐20k)](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
+*   [osquery (⭐21k)](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 
 ## [2. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -34,16 +34,16 @@
 
 ### Templates / React
 
-*   [reactjs-vite-tailwindcss-boilerplate (⭐262)](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - React 18, TypeScript, Vitest, Testing Library, TailwindCSS 3, Eslint and Prettier.
+*   [reactjs-vite-tailwindcss-boilerplate (⭐345)](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - React 18, TypeScript, Vitest, Testing Library, TailwindCSS 3, Eslint and Prettier.
 
 ## [6. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Audio
 
-*   [Spotube (⭐3.2k)](https://github.com/KRTirtho/spotube) - A lightweight free Spotify crossplatform-client.
-*   [Spot\* (⭐2k)](https://github.com/xou816/spot) - Native Spotify client built in GTK and Rust.
-*   [psst\* (⭐7.6k)](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI.
-*   [ncspot\* (⭐3.8k)](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.ç
+*   [Spotube (⭐5.1k)](https://github.com/KRTirtho/spotube) - A lightweight free Spotify crossplatform-client.
+*   [Spot\* (⭐2.1k)](https://github.com/xou816/spot) - Native Spotify client built in GTK and Rust.
+*   [psst\* (⭐7.8k)](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI.
+*   [ncspot\* (⭐4.2k)](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.ç
 
 ## [7. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -69,26 +69,16 @@
 *   [DDEX](https://ddex.net/standards/) - The industry standard for music metadata, including archiving, sound recording, sales and usage reporting, royalties and license deals.
 *   [Apple Music Style Guide](https://help.apple.com/itc/musicstyleguide/en.lproj/static.html) - Quality insurance guidelines to format music, art, and metadata to increase discoverability.
 
-## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-### Completion / Diagnostics
-
-*   [noib3/nvim-compleet (⭐522)](https://github.com/noib3/nvim-compleet) - A Neovim autocompletion framework written in Rust.
-
-### Preconfigured Configuration / Diagnostics
-
-*   [CanKolay3499/CNvim](https://github.com/CanKolay3499/CNvim) - A lightweight Neovim config for web development.
-
-## [10. Awesome Go](/content/avelino/awesome-go/README.md)
+## [9. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Caches
 
-*   [bcache (⭐119)](https://github.com/iwanbk/bcache) - Eventually consistent distributed in-memory cache Go library.
+*   [bcache (⭐132)](https://github.com/iwanbk/bcache) - Eventually consistent distributed in-memory cache Go library.
 
 ### Databases Implemented in Go
 
-*   [nutsdb (⭐2.9k)](https://github.com/xujiajun/nutsdb) - Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set.
-*   [unitdb (⭐107)](https://github.com/unit-io/unitdb) - Fast timeseries database for IoT, realtime messaging applications. Access unitdb with pubsub over tcp or websocket using github.com/unit-io/unitd application.
+*   [nutsdb (⭐3k)](https://github.com/xujiajun/nutsdb) - Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set.
+*   [unitdb (⭐112)](https://github.com/unit-io/unitdb) - Fast timeseries database for IoT, realtime messaging applications. Access unitdb with pubsub over tcp or websocket using github.com/unit-io/unitd application.
 
 ### File Handling
 
@@ -96,25 +86,25 @@
 
 ### Logging
 
-*   [sqldb-logger (⭐301)](https://github.com/simukti/sqldb-logger) - A logger for Go SQL database driver without modify existing \*sql.DB stdlib usage.
+*   [sqldb-logger (⭐318)](https://github.com/simukti/sqldb-logger) - A logger for Go SQL database driver without modify existing \*sql.DB stdlib usage.
 
 ### Tokenizers
 
-*   [sentences (⭐363)](https://github.com/neurosnap/sentences) - Sentence tokenizer: converts text into a list of sentences.
+*   [sentences (⭐385)](https://github.com/neurosnap/sentences) - Sentence tokenizer: converts text into a list of sentences.
 
 ### Security
 
-*   [secret (⭐22)](https://github.com/rsjethani/secret) - Prevent your secrets from leaking into logs, std\* etc.
+*   [secret (⭐24)](https://github.com/rsjethani/secret) - Prevent your secrets from leaking into logs, std\* etc.
 
 ### Utilities
 
-*   [mongo-go-pagination (⭐121)](https://github.com/gobeam/mongo-go-pagination) - Mongodb Pagination for official mongodb/mongo-go-driver package which supports both normal queries and Aggregation pipelines.
+*   [mongo-go-pagination (⭐124)](https://github.com/gobeam/mongo-go-pagination) - Mongodb Pagination for official mongodb/mongo-go-driver package which supports both normal queries and Aggregation pipelines.
 
 ### Websites / Libraries for creating HTTP middlewares
 
 *   [justforfunc](https://www.youtube.com/c/justforfunc) - Youtube channel dedicated to Go programming language tips and tricks, hosted by Francesc Campoy [@francesc](https://twitter.com/francesc).
 
-## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### System 1 & System 2 / Dual-Coding Theory
 

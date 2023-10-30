@@ -26,7 +26,7 @@
 
 ### Debug
 
-*   [doctest (⭐4.9k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
+*   [doctest (⭐5.2k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
 
 ## [4. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Hardware
 
-*   [nerves (⭐2k)](https://github.com/nerves-project/nerves) - Framework for building firmware for platforms like Raspberry Pi and BeagleBone Black.
+*   [nerves (⭐2.1k)](https://github.com/nerves-project/nerves) - Framework for building firmware for platforms like Raspberry Pi and BeagleBone Black.
 
 ### Native Implemented Functions
 

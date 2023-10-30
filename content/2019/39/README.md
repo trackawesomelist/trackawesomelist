@@ -10,7 +10,7 @@
 
 ### API
 
-*   [TLSharp (⭐997)](https://github.com/sochix/TLSharp) - It's a perfect fit for any developer who would like to send data directly to Telegram users or write own custom Telegram client.
+*   [TLSharp (⭐1k)](https://github.com/sochix/TLSharp) - It's a perfect fit for any developer who would like to send data directly to Telegram users or write own custom Telegram client.
 
 ### Application Frameworks
 
@@ -18,11 +18,11 @@
 
 ### Blockchain
 
-*   [Nethermind (⭐912)](https://github.com/NethermindEth/nethermind) - full Ethereum client in .NET Core
+*   [Nethermind (⭐991)](https://github.com/NethermindEth/nethermind) - full Ethereum client in .NET Core
 
 ### GUI
 
-*   [HandyControl (⭐4.7k)](https://github.com/HandyOrg/HandyControl) - Contains some simple and commonly used WPF controls
+*   [HandyControl (⭐5.1k)](https://github.com/HandyOrg/HandyControl) - Contains some simple and commonly used WPF controls
 
 ### HTML and CSS
 
@@ -30,36 +30,36 @@
 
 ### Image Processing
 
-*   [Colourful (⭐241)](https://github.com/tompazourek/Colourful) - Open source .NET library for working with color spaces.
+*   [Colourful (⭐255)](https://github.com/tompazourek/Colourful) - Open source .NET library for working with color spaces.
 
 ### Install tools
 
-*   [Onova (⭐390)](https://github.com/Tyrrrz/Onova) - An unopinionated auto-update framework for desktop applications.
+*   [Onova (⭐459)](https://github.com/Tyrrrz/Onova) - An unopinionated auto-update framework for desktop applications.
 
 ### Machine Learning and Data Science
 
-*   [Catalyst (⭐529)](https://github.com/curiosity-ai/catalyst) Cross-platform Natural Language Processing (NLP) library inspired by spaCy, with pre-trained models, out-of-the box support for training word and document embeddings, and flexible entity recognition models. Part of the [SciSharp Stack](https://scisharp.github.io/SciSharp/)
+*   [Catalyst (⭐600)](https://github.com/curiosity-ai/catalyst) Cross-platform Natural Language Processing (NLP) library inspired by spaCy, with pre-trained models, out-of-the box support for training word and document embeddings, and flexible entity recognition models. Part of the [SciSharp Stack](https://scisharp.github.io/SciSharp/)
 
 ### Mathematics
 
-*   [Rationals (⭐62)](https://github.com/tompazourek/Rationals) - Implementation of rational number arithmetic for .NET with arbitrary precision.
+*   [Rationals (⭐68)](https://github.com/tompazourek/Rationals) - Implementation of rational number arithmetic for .NET with arbitrary precision.
 
 ### Misc
 
-*   [Coravel (⭐2.6k)](https://github.com/jamesmh/coravel) Near-zero config .NET Core library that makes Task Scheduling, Caching, Queuing, Mailing, Event Broadcasting (and more) a breeze!
+*   [Coravel (⭐2.8k)](https://github.com/jamesmh/coravel) Near-zero config .NET Core library that makes Task Scheduling, Caching, Queuing, Mailing, Event Broadcasting (and more) a breeze!
 
 ### Queue
 
-*   [Gofer.NET (⭐504)](https://github.com/brthor/Gofer.NET) - Easy C# API for Distributed Background Tasks/Jobs for .NET Core. Inspired by celery for python.
+*   [Gofer.NET (⭐519)](https://github.com/brthor/Gofer.NET) - Easy C# API for Distributed Background Tasks/Jobs for .NET Core. Inspired by celery for python.
 
 ### Tools
 
-*   [Mockaco (⭐281)](https://github.com/natenho/Mockaco/) - API mock server with fast setup, useful to simulate HTTP responses, leveraging ASP.NET Core features, built-in fake data generation and C# scripting engine powered by Roslyn scripting API.
+*   [Mockaco (⭐300)](https://github.com/natenho/Mockaco/) - API mock server with fast setup, useful to simulate HTTP responses, leveraging ASP.NET Core features, built-in fake data generation and C# scripting engine powered by Roslyn scripting API.
 *   [AnyStatus](https://www.anystat.us) - A desktop notifications app for monitoring CI/CD pipelines, servers, network, health and metrics. AnyStatus supports Azure DevOps, Jenkins, TeamCity, AppVeyor and more.
 
 ### Source Generator
 
-*   [.NET Open Source Developer Projects (⭐13k)](https://github.com/Microsoft/dotnet/blob/master/dotnet-developer-projects.md) - This community maintained list showcases .NET open source projects that are useful for any aspect of the development process.
+*   [.NET Open Source Developer Projects (⭐14k)](https://github.com/Microsoft/dotnet/blob/master/dotnet-developer-projects.md) - This community maintained list showcases .NET open source projects that are useful for any aspect of the development process.
 
 ## [2. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Using Electron / Other
 
-*   [jest-electron (⭐144)](https://github.com/hustcc/jest-electron) - Run and debug Jest unit tests in a browser environment.
+*   [jest-electron (⭐153)](https://github.com/hustcc/jest-electron) - Run and debug Jest unit tests in a browser environment.
 
 ## [7. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
@@ -102,11 +102,11 @@
 ### Free EDA Packages / Installable
 
 *   [Eagle](https://www.autodesk.com/products/eagle/overview) - One of the most popular EDA packages due to it's (board size restricted) free version.
-*   [Horizon EDA (⭐858)](https://github.com/horizon-eda/horizon) - A free and open source EDA tool with the focus on shortcut operation.
+*   [Horizon EDA (⭐927)](https://github.com/horizon-eda/horizon) - A free and open source EDA tool with the focus on shortcut operation.
 
 ### CAD Specific / KiCad
 
-*   [InteractiveHtmlBom (⭐2.8k)](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
+*   [InteractiveHtmlBom (⭐3.2k)](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
 
 ### PCB Batching Services / Eagle
 
@@ -462,7 +462,7 @@
 
 ### CLI Builder
 
-*   [Optimist (⭐215)](https://github.com/ManageIQ/optimist) - A commandline option parser for Ruby that just gets out of your way.
+*   [Optimist (⭐236)](https://github.com/ManageIQ/optimist) - A commandline option parser for Ruby that just gets out of your way.
 
 ## [23. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
@@ -476,8 +476,8 @@
 
 ### Network Protocols
 
-*   [cr-xmpp (⭐18)](https://github.com/naqvis/cr-xmpp) - XMPP/Jabber Library
-*   [Crirc (⭐23)](https://github.com/Meoowww/Crirc) - IRC protocol implementation (Client, Server, Bots)
+*   [cr-xmpp (⭐16)](https://github.com/naqvis/cr-xmpp) - XMPP/Jabber Library
+*   [Crirc (⭐22)](https://github.com/Meoowww/Crirc) - IRC protocol implementation (Client, Server, Bots)
 
 ## [25. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
@@ -507,20 +507,26 @@
 
 *   [PolioPager (⭐176)](https://github.com/YuigaWada/PolioPager) - A flexible TabBarController with search tab like SNKRS.
 
-## [28. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [28. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+
+### Frameworks, Libraries and Tools / Build Automation
+
+*   [FlubuCore (⭐879)](https://github.com/dotnetcore/FlubuCore) - A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
+
+## [29. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Phishing awareness and reporting / Firewall appliances or distributions
 
-*   [Phishing Intelligence Engine (PIE) (⭐171)](https://github.com/LogRhythm-Labs/PIE) - Framework that will assist with the detection and response to phishing attacks.
+*   [Phishing Intelligence Engine (PIE) (⭐174)](https://github.com/LogRhythm-Labs/PIE) - Framework that will assist with the detection and response to phishing attacks.
 
-## [29. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
+## [30. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
 
 ### Citizen Science Projects
 
 *   [Garden Wildlife Health](https://www.gardenwildlifehealth.org) - This is a UK collaborative project between the Zoological Society of London (ZSL), the British Trust for Ornithology (BTO), Froglife and the Royal Society for the Protection of Birds (RSPB) that historically has been running since the 1980's (previously as Garden Bird Health initiative and Frog Mortality Project). Citizens can submit sickness and mortality reports, as well as animal wildlife samples, for wild birds, amphibians, reptiles, and hedgehogs.
 *   [Project Monarch Health](https://www.monarchparasites.org/) - A citizen science project running since 2006 to test adult monarch butterflies from the U.S. and Canada for the protozoan parasite *Ophryocystis elektroscirrha*. Participants submit spore samples collected from adult abdomems with tape for laboratory assessment at University of Georgia.
 
-## [30. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [31. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Companies / Robotics Capture the Flag (RCTF)
 
@@ -528,13 +534,13 @@
 *   [AutonomouStuff](https://autonomoustuff.com) - "The world leader in autonomy systems and solutions".
 *   [MathWorks](https://de.mathworks.com/help/ros/index.html) - ROS Toolbox.
 
-## [31. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [32. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Forms / Normal Forms
 
 *   [StaticKit](https://statickit.com) - Modern forms for static sites, with native support for React.
 
-## [32. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [33. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
 ### Research Overviews
 
@@ -646,14 +652,14 @@
 *   [Biolink](https://biolink.github.io/biolink-model/) - [code (⭐117)](https://github.com/biolink/biolink-model) - A data model of biological entities. Provided as a [YAML](https://yaml.org/) file.
 *   [BioUML](http://wiki.biouml.org/index.php/BioUML) - [paper](https://academic.oup.com/nar/article/47/W1/W225/5498754) - An architecture for biomedical data analysis, integration, and visualization. Conceptually based on the visual modeling language [UML](https://www.uml.org/what-is-uml.htm).
 
-## [33. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
+## [34. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
 ### Articles and Documentation
 
 *   [How Web Content Can Affect Power Usage](https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/) - What you can do with web app to achieve better battery life.
 *   [The joy and challenge of developing for KaiOS](https://nolanlawson.com/2019/09/22/the-joy-and-challenge-of-developing-for-kaios/) - How to start developing for KaiOS.
 
-## [34. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
+## [35. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
 ### Internet & Networking
 
@@ -663,7 +669,7 @@
 
 *   [Breath](https://gitlab.manjaro.org/artwork/themes/breath) - Breath Theme for Manjaro Linux (Plasma 5).
 
-## [35. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [36. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Stremio / Third Party Hosts
 
@@ -681,47 +687,37 @@
 
 *   [tut4dl](https://tut4dl.com/) Download tutorial and training courses from many paid MOOCs, with categories ranging from Cuisine to Cryptography.
 
-## [36. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
-
-### Apps
-
-*   [IpJot](https://ipjot.herokuapp.com/) - Creates short notes, stories, books, poems, conversations on IPFS.
+## [37. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Tools
 
-*   [go-orbit-db (⭐270)](https://github.com/berty/go-orbit-db) - This is a Golang port of OrbitDB that intends to be fully compatible with the original JavaScript version. OrbitDB is a serverless, distributed, peer-to-peer database.
+*   [go-orbit-db (⭐363)](https://github.com/berty/go-orbit-db) - This is a Golang port of OrbitDB that intends to be fully compatible with the original JavaScript version. OrbitDB is a serverless, distributed, peer-to-peer database.
 
-## [37. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [38. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
-### Swift / Angular
+### Swift / Svelte
 
 *   [The Swift by Sundell](https://www.swiftbysundell.com/newsletter/). Introducing the Swift by Sundell monthly newsletter!
 
-### PHP / Angular
+### PHP / Svelte
 
 *   [Freek.dev](https://freek.dev/newsletter/). A bi weekly newsletter on modern PHP and Laravel.
 
-### Devops / Angular
+### Devops / Svelte
 
 *   [StatusCode Weekly](https://weekly.statuscode.com/). A weekly newsletter on Web operations, infrastructure, performance, and tooling, from the browser down to the metal.
 
-### Cloud Development / Angular
+### Cloud Development / Svelte
 
 *   [Last Week in AWS](https://www.lastweekinaws.com/). A weekly roundup of news from Amazon's cloud ecosystem.
 
-### Business/Finance / Angular
+### Business/Finance / Svelte
 
 *   [FBA monthly](https://www.fbamonthly.com/). FBA Monthly is an across-the-board summary of the month's most important news articles and blog posts regarding Amazon businesses. Only actual news, solutions, strategies, seller-to-seller tips and much more.
 
-### Miscellaneous / Angular
+### Entrepreneurship / Svelte
 
 *   [Founders Grid](https://smash.vc/founders-grid/). A weekly newsletter for startup founders that rounds up the best resources from startup ecosystem.
-
-## [38. Awesome Roslyn](/content/ironcev/awesome-roslyn/week/README.md)
-
-### Open Source Projects
-
-*   [FlubuCore (⭐816)](https://github.com/dotnetcore/FlubuCore) - Cross platform build automation tool for building projects and executing deployment scripts using C# code.
 
 ## [39. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
@@ -800,7 +796,7 @@
 ### Tools / Reverse Engineering
 
 *   [Simplify Android deobfuscator (⭐4.2k)](https://github.com/CalebFenton/simplify)
-*   [Andromeda (⭐682)](https://github.com/secrary/Andromeda) - Another basic command-line reverse engineering tool
+*   [Andromeda (⭐681)](https://github.com/secrary/Andromeda) - Another basic command-line reverse engineering tool
 
 ## [42. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -814,25 +810,21 @@
 
 *   [tensorpack (⭐6.3k)](https://github.com/ppwwyyxx/tensorpack) - A Neural Net Training Interface on TensorFlow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
 
-### Reinforcement Learning / NLP
+### Reinforcement Learning / Others
 
 *   [Dopamine (⭐10k)](https://github.com/google/dopamine) - A research framework for fast prototyping of reinforcement learning algorithms.
-
-### Probabilistic Methods / NLP
-
-*   [MXFusion (⭐101)](https://github.com/amzn/MXFusion) - Modular Probabilistic Programming on MXNet. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/mxnet_big.png" alt="MXNet based">
 
 ### Statistics / NLP
 
 *   [weightedcalcs (⭐101)](https://github.com/jsvine/weightedcalcs) - A pandas-based utility to calculate weighted means, medians, distributions, standard deviations, and more.
 
-### Distributed Computing / NLP
+### Distributed Computing / Synthetic Data
 
-*   [PaddlePaddle (⭐20k)](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning.
+*   [PaddlePaddle (⭐21k)](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning.
 
-### Evaluation / NLP
+### Evaluation / Synthetic Data
 
-*   [sklearn-evaluation (⭐0)](https://github.com/edublancas/sklearn-evaluation) - Model evaluation made easy: plots, tables, and markdown reports. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [sklearn-evaluation (⭐2)](https://github.com/edublancas/sklearn-evaluation) - Model evaluation made easy: plots, tables, and markdown reports. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
 ## [44. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -848,24 +840,24 @@
     spell Checker.
 *   [textidote](https://sylvainhalle.github.io/textidote/) - Spelling, grammar and
     style checking on LaTeX documents.
-*   [Vale (⭐2.7k)](https://github.com/errata-ai/vale) - Free, open-source linter for
+*   [Vale (⭐3.3k)](https://github.com/errata-ai/vale) - Free, open-source linter for
     prose built with speed and extensibility in mind.
-*   [write-good (⭐4.7k)](https://github.com/btford/write-good) - Naive linter for English
+*   [write-good (⭐4.8k)](https://github.com/btford/write-good) - Naive linter for English
     prose.
 
 ## [46. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / UI Helpers
 
-*   [ShowCaseView (⭐1.1k)](https://github.com/simformsolutions/flutter_showcaseview) <!--stargazers:simformsolutions/flutter_showcaseview--> - Way to showcase your app features on iOS and Android by [Simform](https://github.com/simformsolutions)
+*   [ShowCaseView (⭐1.2k)](https://github.com/simformsolutions/flutter_showcaseview) <!--stargazers:simformsolutions/flutter_showcaseview--> - Way to showcase your app features on iOS and Android by [Simform](https://github.com/simformsolutions)
 
 ### UI / Effect
 
-*   [Liquid Swipe (⭐987)](https://github.com/iamSahdeep/liquid_swipe_flutter) - Liquid swipe to your stacked containers by [Sahdeep Singh](https://github.com/iamSahdeep)
+*   [Liquid Swipe (⭐1.1k)](https://github.com/iamSahdeep/liquid_swipe_flutter) - Liquid swipe to your stacked containers by [Sahdeep Singh](https://github.com/iamSahdeep)
 
 ### Auth / Image Picker
 
-*   [Flutter AppAuth (⭐230)](https://github.com/MaikuB/flutter_appauth) <!--stargazers:MaikuB/flutter_appauth--> - Plugin that provides a wrapper around the AppAuth iOS and Android SDKs by [Michael Bui](https://github.com/MaikuB)
+*   [Flutter AppAuth (⭐252)](https://github.com/MaikuB/flutter_appauth) <!--stargazers:MaikuB/flutter_appauth--> - Plugin that provides a wrapper around the AppAuth iOS and Android SDKs by [Michael Bui](https://github.com/MaikuB)
 
 ### 🇦🇺 Australia / Misc
 
@@ -966,7 +958,7 @@
 
 ### Windows Utilities / Web Exploitation Books
 
-*   [WinPwn (⭐2.6k)](https://github.com/SecureThisShit/WinPwn) - Internal penetration test script to perform local and domain reconnaissance, privilege escalation and exploitation.
+*   [WinPwn (⭐3k)](https://github.com/SecureThisShit/WinPwn) - Internal penetration test script to perform local and domain reconnaissance, privilege escalation and exploitation.
 
 ## [51. Awesome Ads](/content/cenoura/awesome-ads/week/README.md)
 
@@ -978,15 +970,15 @@
 
 ### Packages / Debugging / Profiling
 
-*   [swagger-stats (⭐816)](https://github.com/slanatech/swagger-stats) - Trace API calls and monitor API performance, health, and usage metrics.
+*   [swagger-stats (⭐839)](https://github.com/slanatech/swagger-stats) - Trace API calls and monitor API performance, health, and usage metrics.
 
 ### Packages / Text
 
-*   [nanoid (⭐21k)](https://github.com/ai/nanoid) - Tiny, secure, URL-friendly, unique string ID generator.
+*   [nanoid (⭐22k)](https://github.com/ai/nanoid) - Tiny, secure, URL-friendly, unique string ID generator.
 
 ### Packages / Static site generators
 
-*   [Charge (⭐409)](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator using JSX and MDX.
+*   [Charge (⭐419)](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator using JSX and MDX.
 
 ### Resources / Tutorials
 
@@ -994,7 +986,7 @@
 
 ### Resources / Miscellaneous
 
-*   [modern-node (⭐243)](https://github.com/sheerun/modern-node) - Toolkit for creating node modules with Jest, Prettier, ESLint, and Standard.
+*   [modern-node (⭐241)](https://github.com/sheerun/modern-node) - Toolkit for creating node modules with Jest, Prettier, ESLint, and Standard.
 
 ## [53. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
@@ -1020,45 +1012,45 @@
 
 ### Platforms
 
-*   [Actions on Google (⭐69)](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - Developer platform for Google Assistant.
+*   [Actions on Google (⭐77)](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - Developer platform for Google Assistant.
 
 ### Front-End Development
 
-*   [KnockoutJS (⭐93)](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
-*   [Dojo Toolkit (⭐80)](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
-*   [Ember (⭐182)](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
+*   [KnockoutJS (⭐94)](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
+*   [Dojo Toolkit (⭐81)](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
+*   [Ember (⭐186)](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
 
 ### Back-End Development
 
-*   [Vagrant (⭐577)](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
-*   [Pyramid (⭐537)](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
-*   [Phalcon (⭐604)](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
-*   [Dropwizard (⭐86)](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
-*   [Lumen (⭐321)](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
+*   [Vagrant (⭐583)](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
+*   [Pyramid (⭐540)](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
+*   [Phalcon (⭐606)](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
+*   [Dropwizard (⭐90)](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
+*   [Lumen (⭐323)](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
 *   [Serverless Framework (⭐2.1k)](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
 
 ### Gaming
 
-*   [Haxe Game Development (⭐328)](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
+*   [Haxe Game Development (⭐350)](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
 
 ### Security
 
-*   [GDPR (⭐130)](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
+*   [GDPR (⭐138)](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
 
 ### Business
 
-*   [Clean Tech (⭐379)](https://github.com/nglgzz/awesome-clean-tech#readme) - Fighting climate change with technology.
+*   [Clean Tech (⭐394)](https://github.com/nglgzz/awesome-clean-tech#readme) - Fighting climate change with technology.
 
 ### Miscellaneous
 
-*   [Cytodata (⭐61)](https://github.com/cytodata/awesome-cytodata#readme) - Image-based profiling of biological phenotypes for computational biologists.
-*   [Advertising (⭐84)](https://github.com/cenoura/awesome-ads#readme) - Advertising and programmatic media for websites.
+*   [Cytodata (⭐63)](https://github.com/cytodata/awesome-cytodata#readme) - Image-based profiling of biological phenotypes for computational biologists.
+*   [Advertising (⭐94)](https://github.com/cenoura/awesome-ads#readme) - Advertising and programmatic media for websites.
 
 ## [56. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Integrations
 
-*   [@riotjs/custom-elements (⭐33)](https://github.com/riot/custom-elements) - Simple API to create vanilla custom elements with Riot.js.
+*   [@riotjs/custom-elements (⭐34)](https://github.com/riot/custom-elements) - Simple API to create vanilla custom elements with Riot.js.
 
 ## [57. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
@@ -1070,7 +1062,7 @@
 
 ### Database
 
-*   [DB4O-GPL ★8 (⭐27)](https://github.com/iboxdb/db4o-gpl) -  Object-Oriented Database, Embedded and Remote connections supported.
+*   [DB4O-GPL ★8 (⭐28)](https://github.com/iboxdb/db4o-gpl) -  Object-Oriented Database, Embedded and Remote connections supported.
 
 ## [59. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 

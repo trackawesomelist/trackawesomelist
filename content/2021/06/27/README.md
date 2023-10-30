@@ -10,13 +10,13 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Sklearn-genetic-opt (⭐204)](https://github.com/rodrigo-arenas/Sklearn-genetic-opt): An AutoML package for hyperparameters tuning using evolutionary algorithms, with built-in callbacks, plotting, remote logging and more.
+*   [Sklearn-genetic-opt (⭐229)](https://github.com/rodrigo-arenas/Sklearn-genetic-opt): An AutoML package for hyperparameters tuning using evolutionary algorithms, with built-in callbacks, plotting, remote logging and more.
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### External Links / Wikis
 
-*   [Awesome Sysadmin (⭐18k)](https://github.com/awesome-foss/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
+*   [Awesome Sysadmin (⭐20k)](https://github.com/awesome-foss/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
 
 ## [3. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
@@ -29,7 +29,6 @@
 ### Health / Burnout
 
 *   [Burnout From an Organizational Perspective](https://ssir.org/articles/entry/burnout_from_an_organizational_perspective) - “Extensive research by the military on sustainable performance in stressful conditions teaches that leaders should become champions of health, rather than taskmasters.” Describe the symptoms of toxic organizations and how managers can protect their teams from systemic burnout.
-*   [What makes you resilient?](https://www.skylyte.io/self-assessment) - A quick test to profile your energy source, the way you deal with stress, and how it impact your team.
 
 ## [5. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
@@ -39,7 +38,7 @@
 
 ### Contracts / Currencies
 
-*   [Is this what Enterprise mean?](https://twitter.com/steffoz/status/1389946268764475394) - A use-case of badly designed contract management alienating big enterprise customers. See the [associated HN comments](https://news.ycombinator.com/item?id=27053246) on bulk license purchase.
+*   [Is this what Enterprise mean?](https://twitter.com/steffoz/status/1389946268764475394) - When contracts, invoicing and payments are not working together, you end up alienating your big enterprise customers. See the associated HN comments [on bulk license purchase](https://news.ycombinator.com/item?id=27053246).
 
 ### Invoice / Electronic invoices
 
@@ -53,20 +52,19 @@
 
 ### Motion / Diagnostics
 
-*   [phaazon/hop.nvim (⭐2.2k)](https://github.com/phaazon/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
-*   [ggandor/lightspeed.nvim (⭐1.5k)](https://github.com/ggandor/lightspeed.nvim) - A Sneak-like plugin offering unparalleled navigation speed via ahead-of-time displayed labels, that eliminate the pause between entering the search pattern and selecting the target.
+*   [ggandor/lightspeed.nvim (⭐1.6k)](https://github.com/ggandor/lightspeed.nvim) - A Sneak-like plugin offering unparalleled navigation speed via ahead-of-time displayed labels, that eliminate the pause between entering the search pattern and selecting the target.
 
 ## [7. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Godot Polygon 2D Fracture (⭐212)](https://github.com/SoloByte/godot-polygon2d-fracture) - Two simple scripts for fracturing and cutting polygons.
+*   [Godot Polygon 2D Fracture (⭐234)](https://github.com/SoloByte/godot-polygon2d-fracture) - Two simple scripts for fracturing and cutting polygons.
 
 ## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Dotnet outdated (⭐648)](https://github.com/dotnet-outdated/dotnet-outdated) - A .NET Core global tool to display and update outdated NuGet packages in a project
+*   [Dotnet outdated (⭐832)](https://github.com/dotnet-outdated/dotnet-outdated) - A .NET Core global tool to display and update outdated NuGet packages in a project
 
 ## [9. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

@@ -57,7 +57,7 @@
 
 *   [Electron](http://electron.atom.io) - Build cross platform desktop application with JavaScript, HTML and CSS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/electron/electron)
 *   [nw.js](http://nwjs.io) - Build desktop application with HTML and JavaScript. It lets you call all `Node.js` modules directly from DOM and enables a new way of writing applications with all Web technologies. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/nwjs/nw.js)
-*   [React Native for Ubuntu (⭐955)](https://github.com/CanonicalLtd/react-native) - Build Ubuntu desktop apps using React Native. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/CanonicalLtd/react-native) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [React Native for Ubuntu (⭐953)](https://github.com/CanonicalLtd/react-native) - Build Ubuntu desktop apps using React Native. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/CanonicalLtd/react-native) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [React Native macOS (⭐11k)](https://github.com/ptmt/react-native-desktop) - Build OS X desktop apps using React Native and Cocoa. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/ptmt/react-native-desktop)
 
 ### Developer Tools / Version Control
@@ -74,7 +74,7 @@
 ### Developer Tools / Databases
 
 *   [Postico](https://eggerapps.at/postico/) - Modern PostgreSQL client for Mac.
-*   [RedisClient (⭐137)](https://github.com/UUGU/redis-client-app) - Redis client application on mac, windows and linux. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/UUGU/redis-client-app)
+*   [RedisClient (⭐138)](https://github.com/UUGU/redis-client-app) - Redis client application on mac, windows and linux. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/UUGU/redis-client-app)
 *   [Sequel Pro](http://www.sequelpro.com/) - MySQL database management for Mac OS X. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sequelpro/sequelpro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Design Tools
@@ -138,14 +138,10 @@
 
 *   [1Password](https://1password.com/) - Cross-platform password management tool.
 
-### Utilities / Quality of Life Improvements
-
-*   [CheatSheet](https://www.mediaatelier.com/CheatSheet/) -  Hold the ⌘-Key to get a list of all active shortcuts of the current application. It's as simple as that. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
 ### Utilities / System Related Tools
 
 *   [AppCleaner](http://freemacsoft.net/appcleaner/) - Small application which allows you to thoroughly uninstall unwanted apps. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Cleaner for Xcode (⭐1.5k)](https://github.com/waylybaye/XcodeCleaner) - Helps make your Xcode faster by removing unwanted and deprecated files. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/waylybaye/XcodeCleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Cleaner for Xcode (⭐1.6k)](https://github.com/waylybaye/XcodeCleaner) - Helps make your Xcode faster by removing unwanted and deprecated files. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/waylybaye/XcodeCleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [gfxCardStatus](https://gfx.io/) - Unobtrusive menu bar app for OS X that allows MacBook Pro users to see which apps are affecting their battery life by using the more power-hungry graphics. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [iStat Menus](https://bjango.com/mac/istatmenus/) - Advanced Mac system monitor on the menubar.
 *   [Monity](http://www.monityapp.com/) - System monitoring widget for OS X.
@@ -181,14 +177,14 @@
 ### IDE
 
 *   [Aqua Data Studio](https://www.aquafold.com/aquadatastudio) - Aqua Data Studio is productivity software for Database Developers, DBAs, and Analysts.
-*   [HeidiSQL (⭐3.8k)](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MySQL, MSSQL and PostgreSQL, written in Delphi.
+*   [HeidiSQL (⭐4.1k)](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MySQL, MSSQL and PostgreSQL, written in Delphi.
 *   [Navicat](https://www.navicat.com/en/products#navicat) - A database development tool that allows you to simultaneously connect to MySQL, MariaDB, SQL Server, Oracle, PostgreSQL, and SQLite databases from a single application.
 *   [pgAdmin](https://www.pgadmin.org) - The most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world.
 
 ### GUI
 
-*   [Adminer (⭐5.6k)](https://github.com/vrana/adminer) - Database management in a single PHP file.
-*   [phpMyAdmin (⭐6.5k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB.
+*   [Adminer (⭐5.8k)](https://github.com/vrana/adminer) - Database management in a single PHP file.
+*   [phpMyAdmin (⭐6.8k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB.
 *   [Postico](https://eggerapps.at/postico) - A Modern PostgreSQL Client for the Mac.
 
 ### Monitoring/Statistics/Perfomance / Samples

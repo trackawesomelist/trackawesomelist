@@ -10,25 +10,21 @@
 
 ### Open Source Projects / Knowledge Management
 
-*   [DataChad](https://github.com/gustavz/DataChad): A streamlit app that let's you chat with any data source. Supporting both OpenAI and local mode with GPT4All. ![GitHub Repo stars](https://img.shields.io/github/stars/gustavz/DataChad?style=social)
+*   [DataChad (⭐254)](https://github.com/gustavz/DataChad): A streamlit app that lets you chat with any data source. Supporting both OpenAI and local mode with GPT4All. ![GitHub Repo stars](https://img.shields.io/github/stars/gustavz/DataChad?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [GPT Migrate (⭐862)](https://github.com/0xpayne/gpt-migrate): Easily migrate your codebase from one framework or language to another.
+*   [GPT Migrate (⭐6.4k)](https://github.com/0xpayne/gpt-migrate): Easily migrate your codebase from one framework or language to another.
 
-### Learn / Videos
+### Learn / Videos Playlists
 
 *   [Greg Kamradt Playlist](https://www.youtube.com/watch?v=_v_fgW2SkkQ\&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
-
-### Learn / Articles
-
-*   [A Hands-on Journey to a working LangChain LLM Application](https://wyh.life/article/2023/07/02/llm-app-development)
 
 ## [2. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Database
 
-*   [dongoose (⭐5)](https://github.com/roonie007/dongoose) - A simple and easy to use ORM for Deno KV.
+*   [dongoose (⭐9)](https://github.com/roonie007/dongoose) - A simple and easy to use ORM for Deno KV.
 
 ### Modules / Web utils
 
@@ -50,11 +46,11 @@
 
 ### Applications / Graphics
 
-*   [rustq/vue-skia (⭐93)](https://github.com/rustq/vue-skia) — Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
+*   [rustq/vue-skia (⭐165)](https://github.com/rustq/vue-skia) — Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
 
 ### Libraries / Finance
 
-*   [d-e-s-o/apca (⭐80)](https://github.com/d-e-s-o/apca) \[[apca](https://crates.io/crates/apca)] — Opinionated and comprehensive bindings to the [Alpaca API](https://alpaca.markets/) for stock trading and more. ![GitHub Workflow Status](https://github.com/d-e-s-o/apca/actions/workflows/test.yml/badge.svg?branch=main)
+*   [d-e-s-o/apca (⭐95)](https://github.com/d-e-s-o/apca) \[[apca](https://crates.io/crates/apca)] — Opinionated and comprehensive bindings to the [Alpaca API](https://alpaca.markets/) for stock trading and more. ![GitHub Workflow Status](https://github.com/d-e-s-o/apca/actions/workflows/test.yml/badge.svg?branch=main)
 
 ## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -68,11 +64,12 @@
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [agnoster-multiline (⭐0)](https://github.com/mxkrsv/agnoster-multiline) - Based on [Agnoster (⭐3.7k)](https://github.com/agnoster/agnoster-zsh-theme). Includes decorators for current directory and `git` status. Requires a font with powerline and `git` glyphs. Automatically disables non-ascii glyphs on linux ttys.
+*   [agnoster-multiline (⭐0)](https://github.com/mxkrsv/agnoster-multiline) - Based on [Agnoster (⭐3.8k)](https://github.com/agnoster/agnoster-zsh-theme). Includes decorators for current directory and `git` status. Requires a font with powerline and `git` glyphs. Automatically disables non-ascii glyphs on linux ttys.
 *   [riverside (⭐0)](https://github.com/skippyr/riverside) - A more portable descendent of [River Dreams (⭐2)](https://github.com/skippyr/river_dreams) inspired by robbyrussell and kafeitu. Includes decorators for `git` status, user\@hostname, current directory and the current python virtual environment.
 
 ---
 
+- Prev: [Jul 04, 2023](/content/2023/07/04/README.md)
 - Next: [Jul 02, 2023](/content/2023/07/02/README.md)

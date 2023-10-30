@@ -72,40 +72,36 @@
 
 ## [7. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
-### Actors
-
-*   [mon\_handler (⭐1)](https://github.com/tattdcodemonkey/mon_handler) - A minimal GenServer that monitors a given GenEvent handler.
-
 ### Algorithms and Data structures
 
-*   [lz4 (⭐61)](https://github.com/szktty/erlang-lz4) - LZ4 bindings for Erlang for fast data compressing.
-*   [monadex (⭐300)](https://github.com/rob-brown/MonadEx) - Upgrade your Elixir pipelines with monads.
-*   [parex (⭐61)](https://github.com/StevenJL/parex) - Parallel Execute (Parex) is an Elixir module for executing multiple (slow) processes in parallel.
+*   [lz4 (⭐62)](https://github.com/szktty/erlang-lz4) - LZ4 bindings for Erlang for fast data compressing.
+*   [monadex (⭐301)](https://github.com/rob-brown/MonadEx) - Upgrade your Elixir pipelines with monads.
+*   [parex (⭐62)](https://github.com/StevenJL/parex) - Parallel Execute (Parex) is an Elixir module for executing multiple (slow) processes in parallel.
 
 ### Caching
 
-*   [locker (⭐153)](https://github.com/wooga/locker) - Atomic distributed "check and set" for short-lived keys.
+*   [locker (⭐152)](https://github.com/wooga/locker) - Atomic distributed "check and set" for short-lived keys.
 
 ### Command Line Applications
 
-*   [getopt (⭐244)](https://github.com/jcomellas/getopt) - Command-line options parser for Erlang.
+*   [getopt (⭐243)](https://github.com/jcomellas/getopt) - Command-line options parser for Erlang.
 
 ### Framework Components
 
-*   [phoenix\_pubsub\_redis (⭐169)](https://github.com/phoenixframework/phoenix_pubsub_redis) - The Redis PubSub adapter for the Phoenix framework.
+*   [phoenix\_pubsub\_redis (⭐172)](https://github.com/phoenixframework/phoenix_pubsub_redis) - The Redis PubSub adapter for the Phoenix framework.
 *   [scaffold (⭐7)](https://github.com/gausby/scaffold) - A mix task for creating new projects based on templates fetched from a Git-repo.
 
 ### Frameworks
 
-*   [trot (⭐410)](https://github.com/hexedpackets/trot) - An Elixir web micro-framework.
+*   [trot (⭐412)](https://github.com/hexedpackets/trot) - An Elixir web micro-framework.
 
 ### ORM and Datamapping
 
 *   [database\_url (⭐8)](https://github.com/s-m-i-t-a/database_url) - Parse database URL and return keyword list for use with Ecto.
 *   [isn (⭐8)](https://github.com/Frost/isn) - Ecto types for the postgreSQL isn extension.
 *   [level (⭐5)](https://github.com/gausby/level) - Level for Elixir implements various helper functions and data types for working with Googles Level data store.
-*   [mongo (⭐100)](https://github.com/checkiz/elixir-mongo) - MongoDB driver for Elixir.
-*   [sqlite\_ecto (⭐76)](https://github.com/jazzyb/sqlite_ecto) - SQLite3 adapter for Ecto.
+*   [mongo (⭐101)](https://github.com/checkiz/elixir-mongo) - MongoDB driver for Elixir.
+*   [sqlite\_ecto (⭐77)](https://github.com/jazzyb/sqlite_ecto) - SQLite3 adapter for Ecto.
 
 ### Release Management
 
@@ -113,7 +109,7 @@
 
 ### Testing
 
-*   [proper (⭐856)](https://github.com/manopapad/proper) - PropEr (PROPerty-based testing tool for ERlang) is a QuickCheck-inspired open-source property-based testing tool for Erlang.
+*   [proper (⭐860)](https://github.com/manopapad/proper) - PropEr (PROPerty-based testing tool for ERlang) is a QuickCheck-inspired open-source property-based testing tool for Erlang.
 
 ### Text and Numbers
 
@@ -122,13 +118,13 @@
 ### Third Party APIs
 
 *   [reddhl (⭐4)](https://github.com/MonkeyIsNull/reddhl) - An headline and link puller for Reddit and its various subreddits.
-*   [telephonist (⭐39)](https://github.com/danielberkompas/telephonist) - Elixir state machines for Twilio calls.
-*   [tentacat (⭐424)](https://github.com/edgurgel/tentacat) - Simple Elixir wrapper for the GitHub API.
+*   [telephonist (⭐40)](https://github.com/danielberkompas/telephonist) - Elixir state machines for Twilio calls.
+*   [tentacat (⭐429)](https://github.com/edgurgel/tentacat) - Simple Elixir wrapper for the GitHub API.
 
 ### Utilities
 
-*   [ar2ecto (⭐12)](https://github.com/aforward/ar2ecto) - Ar2ecto is a set of mix tasks to help you migrate from ActiveRecord to Ecto.
-*   [erlware\_commons (⭐216)](https://github.com/erlware/erlware_commons) - Additional standard library for Erlang.
+*   [ar2ecto (⭐13)](https://github.com/aforward/ar2ecto) - Ar2ecto is a set of mix tasks to help you migrate from ActiveRecord to Ecto.
+*   [erlware\_commons (⭐217)](https://github.com/erlware/erlware_commons) - Additional standard library for Erlang.
 
 ### YAML
 
@@ -142,27 +138,27 @@
 
 ### Template Engine
 
-*   [Nustache (⭐577)](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
-*   [DotLiquid (⭐972)](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
+*   [Nustache (⭐582)](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
+*   [DotLiquid (⭐994)](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
 
 ## [9. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### operations
 
-*   [geojson-coords (⭐29)](https://github.com/mapbox/geojson-coords): Extract coordinates from GeoJSON
+*   [geojson-coords (⭐30)](https://github.com/mapbox/geojson-coords): Extract coordinates from GeoJSON
 *   [geojson-extent](https://www.npmjs.com/package/geojson-extent): compute the bounding box of geojson features
-*   [geojson-js-utils (⭐402)](https://github.com/maxogden/geojson-js-utils): JavaScript helper functions for manipulating GeoJSON
-*   [geojson-merge (⭐221)](https://github.com/mapbox/geojson-merge): Merge multiple GeoJSON files into one FeatureCollection.
+*   [geojson-js-utils (⭐403)](https://github.com/maxogden/geojson-js-utils): JavaScript helper functions for manipulating GeoJSON
+*   [geojson-merge (⭐227)](https://github.com/mapbox/geojson-merge): Merge multiple GeoJSON files into one FeatureCollection.
 *   [geojson-normalize (⭐30)](https://github.com/mapbox/geojson-normalize): normalize any geojson object into a geojson featurecollection
 *   [geojson-pick](https://www.npmjs.com/package/geojson-pick): remove all but specified properties from features in a geojson featurecollection
-*   [geojson-rewind (⭐110)](https://github.com/mapbox/geojson-rewind): enforce ring winding order
+*   [geojson-rewind (⭐114)](https://github.com/mapbox/geojson-rewind): enforce ring winding order
 *   [geojson-summary (⭐33)](https://github.com/mapbox/geojson-summary): get a plain-english summary of what's in a geojson file
 *   [point-grouper](https://github.com/substack/point-grouper): group geojson points into containing polygons
-*   [simplify-geojson (⭐165)](https://github.com/maxogden/simplify-geojson): apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
+*   [simplify-geojson (⭐170)](https://github.com/maxogden/simplify-geojson): apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
 
 ### validation
 
-*   [geojsonhint (⭐251)](https://github.com/mapbox/geojsonhint): find errors in your geojson files
+*   [geojsonhint (⭐252)](https://github.com/mapbox/geojsonhint): find errors in your geojson files
 
 ### services
 
@@ -175,13 +171,13 @@
 *   [geojson-vt (⭐1.7k)](https://github.com/mapbox/geojson-vt): Slice GeoJSON into vector tiles on the fly in the browser
 *   [geojson2rtree (⭐9)](https://github.com/maxogden/geojson2rtree): generate a static rtree (using terraformer) from a set of geojson features
 *   [ogr2ogr](http://www.gdal.org/ogr2ogr.html): convert anything to anything
-    *   [fiona (⭐1k)](https://github.com/toblerity/fiona): nice python interface on top of ogr
+    *   [fiona (⭐1.1k)](https://github.com/toblerity/fiona): nice python interface on top of ogr
 *   [shp2json](https://github.com/substack/shp2json): convert shapefile zip archives to streaming GeoJSON
 
 ### data
 
 *   [natural earth](http://www.naturalearthdata.com/): country, province, and geographical data
-*   [openflights-geojson (⭐25)](https://github.com/tmcw/openflights-geojson): [openflights](http://openflights.org/) airports & airplane routes
+*   [openflights-geojson (⭐26)](https://github.com/tmcw/openflights-geojson): [openflights](http://openflights.org/) airports & airplane routes
 *   [whereonearth-airport (⭐13)](https://github.com/straup/whereonearth-airport): outlines of every airport
 *   [whereonearth-building (⭐9)](https://github.com/straup/whereonearth-building/): building outlines
 *   [whereonearth repos](https://github.com/search?q=user%3Astraup+whereonearth): other features output from GeoPlanet by Aaron Straup Cope
@@ -190,14 +186,13 @@
 
 ### serialization
 
-*   [python-geojson (⭐792)](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
-*   [rust-geojson (⭐190)](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
+*   [python-geojson (⭐823)](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
+*   [rust-geojson (⭐208)](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
 
 ## [10. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### Try Groovy in Browser
 
-*   [Groovy Web Console](http://groovyconsole.appspot.com/)
 *   [Groovy Playground](https://groovy-playground.appspot.com/)
 
 ## [11. Awesome R](/content/qinwf/awesome-R/week/README.md)
@@ -252,7 +247,7 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 ### Tools / Javascript
 
-*   [selenium-webdriver (⭐25k)](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) - The official WebDriver JavaScript bindings from the Selenium project.
+*   [selenium-webdriver (⭐27k)](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) - The official WebDriver JavaScript bindings from the Selenium project.
 *   [WD (⭐1.5k)](https://github.com/admc/wd) - WebDriver/Selenium 2 node.js client.
 *   [WebdriverIO](http://webdriver.io) - better implementation of WebDriver bindings with predefined 50+ actions.
 *   [SlimerJS](http://slimerjs.org/) - A scriptable browser for Web developers.
@@ -262,7 +257,7 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 *   [Anemone (⭐1.6k)](https://github.com/chriskite/anemone) - Anemone web-spider framework.
 *   [Mechanize](http://docs.seattlerb.org/mechanize/) - automating interaction with websites.
-*   [Spidr (⭐697)](https://github.com/postmodern/spidr) - web spidering library that can spider a site, multiple domains, certain links or infinitely.
+*   [Spidr (⭐760)](https://github.com/postmodern/spidr) - web spidering library that can spider a site, multiple domains, certain links or infinitely.
 *   [cobweb](https://rubygems.org/gems/cobweb) - web crawler that can use resque to cluster crawls to quickly crawl extremely large sites.
 
 ### Tools / Python
@@ -275,12 +270,12 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 ### Driver / Desktop (browsers)
 
-*   [Internet Explorer (⭐25k)](https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver) - The InternetExplorerDriver is a standalone server which implements WebDriver's wire protocol.
-*   [Opera (⭐221)](https://github.com/operasoftware/operachromiumdriver/blob/master/README.md) - OperaDriver is a vendor-supported WebDriver implementation developed by Opera Software and volunteers that implements WebDriver API for Opera.
+*   [Internet Explorer (⭐27k)](https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver) - The InternetExplorerDriver is a standalone server which implements WebDriver's wire protocol.
+*   [Opera (⭐240)](https://github.com/operasoftware/operachromiumdriver/blob/master/README.md) - OperaDriver is a vendor-supported WebDriver implementation developed by Opera Software and volunteers that implements WebDriver API for Opera.
 
 ### Web Scraping / Mining / Desktop GUI Automation (non-browser-centric)
 
-*   [Node-Crawler (⭐6.3k)](https://github.com/sylvinus/node-crawler) - **Node.js** Web Crawler/Spider for NodeJS + server-side jQuery.
+*   [Node-Crawler (⭐6.5k)](https://github.com/sylvinus/node-crawler) - **Node.js** Web Crawler/Spider for NodeJS + server-side jQuery.
 
 ### Blogs / Desktop GUI Automation (non-browser-centric)
 
@@ -305,11 +300,11 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 ### Configuration
 
-*   [ENVied (⭐331)](https://github.com/eval/envied) - ensure presence and type of your app's ENV-variables
+*   [ENVied (⭐330)](https://github.com/eval/envied) - ensure presence and type of your app's ENV-variables
 
 ### DevOps Tools
 
-*   [SSHKey (⭐269)](https://github.com/bensie/sshkey) - SSH private and public key generator in pure Ruby (RSA & DSA).
+*   [SSHKey (⭐272)](https://github.com/bensie/sshkey) - SSH private and public key generator in pure Ruby (RSA & DSA).
 
 ### Error Handling
 
@@ -404,7 +399,7 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 ### ES6 / Other
 
-*   [Babel (Formerly 6to5) (⭐42k)](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime.
+*   [Babel (Formerly 6to5) (⭐43k)](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime.
 
 ---
 

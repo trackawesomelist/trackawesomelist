@@ -19,10 +19,10 @@
 
 ### Ask these people anything!
 
-*   [Pascal Hartig (⭐34)](https://github.com/passy/ama) - Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK.
-*   [Mark Otto (⭐96)](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap.
+*   [Pascal Hartig (⭐33)](https://github.com/passy/ama) - Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK.
+*   [Mark Otto (⭐97)](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap.
 *   [Zach Holman (⭐723)](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub.
-*   [Kent C. Dodds (⭐678)](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker.
+*   [Kent C. Dodds (⭐682)](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker.
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -81,14 +81,14 @@
 ### Graphics
 
 *   [GLFW (⭐11k)](https://github.com/glfw/glfw) - A simple, cross-platform OpenGL wrangling library. \[zlib/libpng]
-*   [OpenSubdiv (⭐2.7k)](https://github.com/PixarAnimationStudios/OpenSubdiv) - Pixar's library for evaluating and rendering subdivision surfaces on CPU and GPU. \[Modified Apache2]
+*   [OpenSubdiv (⭐2.8k)](https://github.com/PixarAnimationStudios/OpenSubdiv) - Pixar's library for evaluating and rendering subdivision surfaces on CPU and GPU. \[Modified Apache2]
 *   [OpenVDB](http://www.openvdb.org/) - Library and tools for storing, editing, and rendering volumetric datasets. \[MPL2]
-*   [Partio (⭐421)](https://github.com/wdas/partio) - Library for wrangling particle data, with support for most common file formats. \[Modified BSD]
+*   [Partio (⭐427)](https://github.com/wdas/partio) - Library for wrangling particle data, with support for most common file formats. \[Modified BSD]
 
 ### Image Processing
 
 *   [OpenEXR](http://www.openexr.com/) - Cross-platform library for high dynamic range imaging. \[Modified BSDF]
-*   [OpenImageIO (⭐1.7k)](https://github.com/OpenImageIO/oiio) - Powerful image and texture wrangling library with support for a wide number of common lossy and RAW formats. \[Modified BSD]
+*   [OpenImageIO (⭐1.8k)](https://github.com/OpenImageIO/oiio) - Powerful image and texture wrangling library with support for a wide number of common lossy and RAW formats. \[Modified BSD]
 
 ---
 

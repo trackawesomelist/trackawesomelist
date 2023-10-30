@@ -42,13 +42,7 @@
 
 *   [Vert.x Web Accesslog (⭐24)](https://github.com/romanpierson/vertx-web-accesslog) - Just a simple handler to be used in Vert.x Web to generate access logs.
 
-## [6. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
-
-### Alternatives / Music
-
-*   [mStream](http://mstream.io/) - Suite of software for syncing and streaming music across multiple devices.
-
-## [7. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [6. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Label / Form
 
@@ -60,19 +54,19 @@
 
 
 
-## [8. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [7. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Middlewares
 
 *   [I1820](https://i1820.github.io/) - I1820 is a free open source platform that provides discovery, data collection and configuration services based on MQTT. I1820 implements a REST API for controlling the things and it stores all collected data in a Time-Series database named InfluxDB.
 
-## [9. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [8. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Utility / Collection View Layout
 
 *   [InAppSettingsKit (⭐3.1k)](https://github.com/futuretap/InAppSettingsKit) - This iOS framework allows settings to be in-app in addition to or instead of being in the Settings app.
 
-## [10. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [9. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
@@ -102,17 +96,13 @@
 
 *   [Free Music Archive](http://freemusicarchive.org/) - [:copyright:](https://creativecommons.org/) An interactive library of high-quality, legal audio downloads directed by [WFMU](https://wfmu.org/), the most renowned freeform radio station in America.
 
-## [11. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [10. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shell Package Management / Directory Navigation
 
 *   [shundle (⭐79)](https://github.com/javier-lopez/shundle) - Plugin manager for shell scripts
 
-## [12. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
-
-### Tools / Others
-
-*   [Qbserve](https://qotoqot.com/qbserve/) - Time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback (Mac).
+## [11. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Articles & Posts
 
@@ -123,24 +113,28 @@
 *   [10up](https://10up.com/careers/) - 10up makes the web better by finely crafting websites & tools for content creators.
 *   [Bugfender](https://bugfender.com/) - Bugfender is a remote logger for multiple platforms including iOS and Android. It stores logs created by your application and sends them to our server, creating a remote console where you can see logs in real time. Remote company based in Barcelona.
 
-## [13. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [12. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+
+### Software / Audio
+
+*   [mStream](http://mstream.io/) - Suite of software for syncing and streaming music across multiple devices. ([GNU GPLv3 (⭐2k)](https://github.com/IrosTheBeggar/mStream/blob/master/LICENSE))
 
 ### Software / Utilities
 
-*   [Sandman](https://alexanderepstein.github.io/Sandman/) - Lets you know when to turn off the computer and sleep based on calculated sleep cycles. ([MIT (⭐508)](https://github.com/alexanderepstein/Sandman/blob/master/License.md))
+*   [Sandman](https://alexanderepstein.github.io/Sandman/) - Lets you know when to turn off the computer and sleep based on calculated sleep cycles. ([MIT (⭐505)](https://github.com/alexanderepstein/Sandman/blob/master/License.md))
 
 ### Software / Web Applications
 
-*   [Neocities](https://neocities.org/) - GeoCities for the modern world. ([BSD 2-clause (⭐954)](https://github.com/neocities/neocities/blob/master/LICENSE.txt))
+*   [Neocities](https://neocities.org/) - GeoCities for the modern world. ([BSD 2-clause (⭐1.1k)](https://github.com/neocities/neocities/blob/master/LICENSE.txt))
 
-## [14. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [13. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Low-level Vision / Video Object Segmentation
 
 *   [DAVIS: Densely Annotated VIdeo Segmentation](http://davischallenge.org/)
 *   [SegTrack v2](http://web.engr.oregonstate.edu/\~lif/SegTrack2/dataset.html)
 
-## [15. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [14. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Articles
 
@@ -151,9 +145,9 @@
 
 ### Extensions
 
-*   [Next Routes (⭐2.4k)](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
+*   [Next Routes (⭐2.5k)](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
 
-## [16. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [15. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Graph Data Model
 
@@ -163,20 +157,20 @@
 
 *   [MG4J](http://mg4j.di.unimi.it/) - MG4J (Managing Gigabytes for Java) is a full-text search engine for large document collections written in Java. It is highly customisable, high-performance and provides state-of-the-art features and new research algorithms.
 
-## [17. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [16. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / Z companies
 
 *   Zendesk <https://medium.com/zendesk-engineering>
 *   Zendesk(old) <https://developer.zendesk.com/blog>
 
-## [18. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [17. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### General
 
 *   [Fontjoy](http://fontjoy.com/) - Generate font combinations with deep learning
 
-## [19. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [18. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Community
 
@@ -186,13 +180,19 @@
 
 *   [Cheat Sheet (wallpaper)](https://www.lexaloffle.com/bbs/?tid=28207) - An enhancement of the printable cheat sheet for use as a desktop wallpaper.
 
-## [20. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [19. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Recommender Systems
 
-*   [annoy (⭐11k)](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage.
+*   [annoy (⭐12k)](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage.
 *   [fastFM (⭐1k)](https://github.com/ibayer/fastFM) - A library for Factorization Machines.
-*   [implicit (⭐3.1k)](https://github.com/benfred/implicit) - A fast Python implementation of collaborative filtering for implicit datasets.
+*   [implicit (⭐3.2k)](https://github.com/benfred/implicit) - A fast Python implementation of collaborative filtering for implicit datasets.
+
+## [20. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+
+### Applications and Platforms / Time
+
+*   [Qbserve](https://qotoqot.com/qbserve/) - Time tracking automation: Real-time productivity feedback, project tracking, timesheets, and invoicing (Mac).
 
 ## [21. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
@@ -326,7 +326,7 @@
 
 ### Endpoint / Mobile / Android / iOS
 
-*   [OWASP Mobile Security Testing Guide (⭐10k)](https://github.com/OWASP/owasp-mstg) - A comprehensive manual for mobile app security testing and reverse engineering.
+*   [OWASP Mobile Security Testing Guide (⭐11k)](https://github.com/OWASP/owasp-mstg) - A comprehensive manual for mobile app security testing and reverse engineering.
 
 ## [26. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
@@ -356,7 +356,7 @@
 
 ### Framework Components
 
-*   [multi-auth (⭐105)](https://github.com/msa7/multi_auth) - Standardized multi-provider OAuth2 authentication (inspired by omniauth)
+*   [multi-auth (⭐112)](https://github.com/msa7/multi_auth) - Standardized multi-provider OAuth2 authentication (inspired by omniauth)
 
 ### Scheduling
 
@@ -401,30 +401,30 @@
 
 ### General
 
-*   [.NET Core SDK](https://www.microsoft.com/net/core) - .NET Core SDK is a general purpose development platform maintained by Microsoft and the .NET community on [GitHub (⭐18k)](https://github.com/dotnet/core).
+*   [.NET Core SDK](https://www.microsoft.com/net/core) - .NET Core SDK is a general purpose development platform maintained by Microsoft and the .NET community on [GitHub (⭐19k)](https://github.com/dotnet/core).
 *   [Introducing .NET Standard 2.0](https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard) - The description of what will be going on for .NET Standard 2.0 and the roadmap for some missing parts of the current .NET Standard.
 
 ### Frameworks, Libraries and Tools / Logging
 
-*   [Foundatio (⭐1.6k)](https://github.com/exceptionless/Foundatio#logging) - A fluent logging api that can be used to log messages throughout your application.
+*   [Foundatio (⭐1.8k)](https://github.com/exceptionless/Foundatio#logging) - A fluent logging api that can be used to log messages throughout your application.
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [NReco.LambdaParser (⭐260)](https://github.com/nreco/lambdaparser) - Parses string expressions (formulas, methods calls, conditions) to LINQ expression tree that can be compiled to lambda and evaluated.
-*   [readline (⭐790)](https://github.com/tsolarin/readline) - Pure C# GNU-Readline like library for .NET/.NET Core.
-*   [ReverseMarkdown (⭐170)](https://github.com/mysticmind/reversemarkdown-net) - Html to Markdown converter library.
+*   [NReco.LambdaParser (⭐281)](https://github.com/nreco/lambdaparser) - Parses string expressions (formulas, methods calls, conditions) to LINQ expression tree that can be compiled to lambda and evaluated.
+*   [readline (⭐792)](https://github.com/tsolarin/readline) - Pure C# GNU-Readline like library for .NET/.NET Core.
+*   [ReverseMarkdown (⭐217)](https://github.com/mysticmind/reversemarkdown-net) - Html to Markdown converter library.
 
 ### Frameworks, Libraries and Tools / Scheduler and Job
 
-*   [Chroniton.NetCore (⭐177)](https://github.com/leosperry/Chroniton) - Lightweight robust library for running tasks(jobs) on schedules.
+*   [Chroniton.NetCore (⭐178)](https://github.com/leosperry/Chroniton) - Lightweight robust library for running tasks(jobs) on schedules.
 
 ### Frameworks, Libraries and Tools / Security
 
-*   [roslyn-security-guard (⭐211)](https://github.com/dotnet-security-guard/roslyn-security-guard) - Roslyn analyzers that aim to help security audit on .NET applications.
+*   [roslyn-security-guard (⭐207)](https://github.com/dotnet-security-guard/roslyn-security-guard) - Roslyn analyzers that aim to help security audit on .NET applications.
 
 ### Frameworks, Libraries and Tools / Serialization
 
-*   [YamlDotNet (⭐1.9k)](https://github.com/aaubry/YamlDotNet) - .NET
+*   [YamlDotNet (⭐2.3k)](https://github.com/aaubry/YamlDotNet) - .NET
 
 ## [31. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
@@ -436,11 +436,11 @@
 
 ### Networking
 
-*   [Breep (⭐111)](https://github.com/Organic-Code/Breep) - Event based, high-level C++14 peer-to-peer library. \[EUPL-1.1 (OSI approved)]
+*   [Breep (⭐115)](https://github.com/Organic-Code/Breep) - Event based, high-level C++14 peer-to-peer library. \[EUPL-1.1 (OSI approved)]
 
 ### Miscellaneous
 
-*   [Kangaru (⭐390)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
+*   [Kangaru (⭐429)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
 
 ## [33. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -451,9 +451,9 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-image-lightbox (⭐328)](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
+*   [vue-image-lightbox (⭐335)](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
 *   [vue2-simplert (⭐216)](https://github.com/mazipan/vue2-simplert) - Vue 2 Simple Alert Component (SweetAlert Inspired) By Irfan Maulana
-*   [vue-model-autoset (⭐18)](https://github.com/outluch/vue-model-autoset) - A Vue.js plugin to workaround Vue limitation in observing dynamically added properties with v-model directive
+*   [vue-model-autoset (⭐17)](https://github.com/outluch/vue-model-autoset) - A Vue.js plugin to workaround Vue limitation in observing dynamically added properties with v-model directive
 
 ## [34. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
 
@@ -491,7 +491,7 @@
 
 ### Go / Natural Language Processing
 
-*   [word-embedding (⭐409)](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
+*   [word-embedding (⭐428)](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
 
 ### Java / General-Purpose Machine Learning
 
@@ -501,7 +501,7 @@
 
 ### Open Source / Other
 
-*   [Insomnia (⭐28k)](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
+*   [Insomnia (⭐31k)](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
 
 ## [41. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 

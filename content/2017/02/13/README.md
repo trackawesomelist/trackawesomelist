@@ -57,7 +57,7 @@
 
 ### Related Lists / Provided by the Host
 
-*   [Awesome Static Hosting (⭐245)](https://github.com/b-long/awesome-static-hosting)
+*   [Awesome Static Hosting (⭐268)](https://github.com/b-long/awesome-static-hosting)
 
 ## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Julia / Data Analysis / Data Visualization
 
-*   [Gadfly (⭐1.8k)](https://github.com/GiovineItalia/Gadfly.jl) - Crafty statistical graphics for Julia.
+*   [Gadfly (⭐1.9k)](https://github.com/GiovineItalia/Gadfly.jl) - Crafty statistical graphics for Julia.
 
 ### Lua / General-Purpose Machine Learning
 
@@ -103,7 +103,7 @@
 ### Python / General-Purpose Machine Learning
 
 *   [graphlab-create](https://turi.com/products/create/docs/) - A library with various machine learning models (regression, clustering, recommender systems, graph analytics, etc.) implemented on top of a disk-backed DataFrame.
-*   [gensim (⭐14k)](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans.
+*   [gensim (⭐15k)](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans.
 
 ### Python / Data Analysis / Data Visualization
 
@@ -129,10 +129,10 @@
 
 ### SAS / Demos and Scripts
 
-*   [ML\_Tables (⭐123)](https://github.com/sassoftware/enlighten-apply/tree/master/ML_tables) - Concise cheat sheets containing machine learning best practices.
-*   [enlighten-apply (⭐123)](https://github.com/sassoftware/enlighten-apply) - Example code and materials that illustrate applications of SAS machine learning techniques.
-*   [enlighten-integration (⭐59)](https://github.com/sassoftware/enlighten-integration) - Example code and materials that illustrate techniques for integrating SAS with other analytics technologies in Java, PMML, Python and R.
-*   [enlighten-deep (⭐20)](https://github.com/sassoftware/enlighten-deep) - Example code and materials that illustrate using neural networks with several hidden layers in SAS.
+*   [ML\_Tables (⭐124)](https://github.com/sassoftware/enlighten-apply/tree/master/ML_tables) - Concise cheat sheets containing machine learning best practices.
+*   [enlighten-apply (⭐124)](https://github.com/sassoftware/enlighten-apply) - Example code and materials that illustrate applications of SAS machine learning techniques.
+*   [enlighten-integration (⭐60)](https://github.com/sassoftware/enlighten-integration) - Example code and materials that illustrate techniques for integrating SAS with other analytics technologies in Java, PMML, Python and R.
+*   [enlighten-deep (⭐19)](https://github.com/sassoftware/enlighten-deep) - Example code and materials that illustrate using neural networks with several hidden layers in SAS.
 *   [dm-flow (⭐55)](https://github.com/sassoftware/dm-flow) - Library of SAS Enterprise Miner process flow diagrams to help you learn by example about specific data mining topics.
 
 ## [6. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
@@ -145,17 +145,17 @@
 
 ### Customization / Directory Navigation
 
-*   [bullet-train-oh-my-zsh-theme (⭐2.7k)](https://github.com/caiogondim/bullet-train.zsh) - :bullettrain\_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
-*   [mysql-colorize (⭐91)](https://github.com/zpm-zsh/mysql-colorize) -  Colorization for mysql comand-line client
+*   [bullet-train-oh-my-zsh-theme (⭐2.8k)](https://github.com/caiogondim/bullet-train.zsh) - :bullettrain\_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
+*   [mysql-colorize (⭐97)](https://github.com/zpm-zsh/mysql-colorize) -  Colorization for mysql comand-line client
 
 ### Shell Script Development / Directory Navigation
 
-*   [crash (⭐54)](https://github.com/molovo/crash) - Proper error handling, exceptions and try/catch for ZSH
+*   [crash (⭐56)](https://github.com/molovo/crash) - Proper error handling, exceptions and try/catch for ZSH
 
 ### Shell Script Development / See also
 
-*   [awesome-fish (⭐3.2k)](https://github.com/jorgebucaran/awsm.fish)
-*   [awesome-zsh (⭐12k)](https://github.com/unixorn/awesome-zsh-plugins)
+*   [awesome-fish (⭐3.5k)](https://github.com/jorgebucaran/awsm.fish)
+*   [awesome-zsh (⭐13k)](https://github.com/unixorn/awesome-zsh-plugins)
 
 ## [8. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 

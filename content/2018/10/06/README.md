@@ -10,7 +10,7 @@
 
 ### Projects
 
-*   [RaspiBlitz (⭐2.1k)](https://github.com/rootzoll/raspiblitz) - Fastest and cheapest way to get your own Lightning Node running.
+*   [RaspiBlitz (⭐2.3k)](https://github.com/rootzoll/raspiblitz) - Fastest and cheapest way to get your own Lightning Node running.
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -22,13 +22,13 @@
 
 ### Software / Communication - Email - Webmail Clients
 
-*   [MailCare](https://mailcare.io) - Open source disposable email address service. ([Source Code (⭐239)](https://github.com/mailcare/mailcare)) `MIT` `PHP`
+*   [MailCare](https://mailcare.io) - Open source disposable email address service. ([Source Code](https://gitlab.com/mailcare/mailcare)) `MIT` `PHP`
 
 ## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Gem Generators
 
-*   [Gemsmith (⭐427)](https://github.com/bkuhlmann/gemsmith) - A command line interface for smithing new Ruby gems.
+*   [Gemsmith (⭐431)](https://github.com/bkuhlmann/gemsmith) - A command line interface for smithing new Ruby gems.
 
 ## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -44,13 +44,13 @@
 
 ### Tools / Graphics utilities
 
-*   [vtGBte (⭐27)](https://github.com/paul-arutyunov/vtGBte) - A minimalistic ncurses tile editor.
+*   [vtGBte (⭐28)](https://github.com/paul-arutyunov/vtGBte) - A minimalistic ncurses tile editor.
 
 ## [7. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Boilerplates
 
-*   [csprance/next-smrt (⭐56)](https://github.com/csprance/next-smrt) - A minimal boilerplate with redux, styled-components, material-ui and typescript with a custom express server.
+*   [csprance/next-smrt (⭐55)](https://github.com/csprance/next-smrt) - A minimal boilerplate with redux, styled-components, material-ui and typescript with a custom express server.
 
 ## [8. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
@@ -62,7 +62,7 @@
 
 ### GUI
 
-*   [Pgweb (⭐7.8k)](https://github.com/sosedoff/pgweb) - Web-based database browser for PostgreSQL, written in Go and works on macOS, Linux and Windows machines.
+*   [Pgweb (⭐8.1k)](https://github.com/sosedoff/pgweb) - Web-based database browser for PostgreSQL, written in Go and works on macOS, Linux and Windows machines.
 
 ### CLI
 
@@ -74,7 +74,7 @@
 
 ### Schema / Code generation
 
-*   [ddl-generator (⭐255)](https://github.com/catherinedevlin/ddl-generator) - Infers SQL DDL (Data Definition Language) from table data.
+*   [ddl-generator (⭐265)](https://github.com/catherinedevlin/ddl-generator) - Infers SQL DDL (Data Definition Language) from table data.
 
 ## [10. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/README.md)
 
@@ -109,13 +109,13 @@
 
 ### Applications / System tools
 
-*   [pop-os/popsicle (⭐517)](https://github.com/pop-os/popsicle) — GTK3 & CLI utility for flashing multiple USB devices in parallel
+*   [pop-os/popsicle (⭐546)](https://github.com/pop-os/popsicle) — GTK3 & CLI utility for flashing multiple USB devices in parallel
 
 ## [15. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Auto Layout / Barcode
 
-*   [DeviceLayout (⭐169)](https://github.com/cruisediary/DeviceLayout) - AutoLayout can be set differently for each device.
+*   [DeviceLayout (⭐168)](https://github.com/cruisediary/DeviceLayout) - AutoLayout can be set differently for each device.
 
 ---
 

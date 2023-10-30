@@ -27,37 +27,37 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Pingvin Share (⭐572)](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing. ([Demo](https://pingvin-share.dev.eliasschneider.com)) `BSD-2-Clause` `Docker/Nodejs`
+*   [Pingvin Share (⭐1.1k)](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing. ([Demo](https://pingvin-share.dev.eliasschneider.com)) `BSD-2-Clause` `Docker/Nodejs`
 
 ### Software / Genealogy
 
-*   [Gramps Web](https://gramps-project.github.io/web/) - Web app for collaborative genealogy, based on and interoperable with Gramps, the open source genealogy desktop application. ([Demo](https://gramps-project.github.io/web/), [Source Code (⭐40)](https://github.com/gramps-project/gramps-webapi)). `AGPL-3.0` `Docker`
+*   [Gramps Web](https://gramps-project.github.io/web/) - Web app for collaborative genealogy, based on and interoperable with Gramps, the open source genealogy desktop application. ([Demo](https://gramps-project.github.io/web), [Source Code (⭐51)](https://github.com/gramps-project/gramps-webapi)) `AGPL-3.0` `Docker`
 
 ### Software / Money, Budgeting & Management
 
-*   [Budget Zen](https://budgetzen.net) - End-to-end encrypted and simple expense manager. ([Demo](https://app.budgetzen.net), [Source Code (⭐17)](https://github.com/BrunoBernardino/budgetzen-web)) `AGPL-3.0` `Deno`
-*   [Lago](https://www.getlago.com/) - Open-source metering and usage-based billing. ([Source Code (⭐3.6k)](https://github.com/getlago/lago)) `AGPL-3.0` `Docker`
+*   [Budget Zen](https://budgetzen.net) - End-to-end encrypted and simple expense manager. ([Demo](https://app.budgetzen.net), [Source Code (⭐36)](https://github.com/BrunoBernardino/budgetzen-web)) `AGPL-3.0` `Deno`
+*   [Lago](https://www.getlago.com/) - Open-source metering and usage-based billing. ([Source Code (⭐4.6k)](https://github.com/getlago/lago)) `AGPL-3.0` `Docker`
 
 ### Software / Pastebins
 
-*   [Lenpaste](https://git.lcomrade.su/root/lenpaste) - Web service that allows you to share notes anonymously, an alternative to pastebin. ([Demo](https://paste.lcomrade.su/)) `AGPL-3.0` `Docker/Go`
+*   [Lenpaste](https://git.lcomrade.su/root/lenpaste) - Web service that allows you to share notes anonymously. ([Demo](https://paste.lcomrade.su/)) `AGPL-3.0` `Docker/Go`
 
 ### Software / Search Engines
 
-*   [Hound (⭐5.3k)](https://github.com/hound-search/hound) - Lightning fast code searching made easy. `MIT` `Go/Docker`
-*   [LibreX (⭐566)](https://github.com/hnhx/librex) `⚠` - Framework and javascript free privacy respecting meta search engine. `AGPL-3.0` `PHP/Docker`
+*   [Hound (⭐5.4k)](https://github.com/hound-search/hound) - Lightning fast code searching made easy. `MIT` `Go/Docker`
+*   [LibreX (⭐719)](https://github.com/hnhx/librex) `⚠` - Framework and javascript free privacy respecting meta search engine. `AGPL-3.0` `PHP/Docker`
 
 ## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### UI Libraries, Components & Templates
 
-*   📁 [Astro Template Resume (⭐0)](https://github.com/fortezhuo/fortezhuo.my.id) - Eye-catching resume template built with Astro, Tailwind CSS.
+*   📁 [Astro Template Resume (⭐4)](https://github.com/fortezhuo/fortezhuo.my.id) - Eye-catching resume template built with Astro, Tailwind CSS.
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Startup / Diagnostics
 
-*   [willothy/veil.nvim (⭐63)](https://github.com/willothy/veil.nvim) - A blazingly fast, animated, and infinitely customizeable startup / dashboard plugin.
+*   [willothy/veil.nvim (⭐99)](https://github.com/willothy/veil.nvim) - A blazingly fast, animated, and infinitely customizable startup / dashboard plugin.
 
 ---
 

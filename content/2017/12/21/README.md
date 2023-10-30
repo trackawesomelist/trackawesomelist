@@ -44,13 +44,13 @@
 
 ### Others / Particles
 
-*   [Turbulenz (⭐3.9k)](https://github.com/turbulenz/turbulenz_engine) - Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
+*   [Turbulenz (⭐4.3k)](https://github.com/turbulenz/turbulenz_engine) - Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
 
 ## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Date and Time
 
-*   [nodatime (⭐2.3k)](https://github.com/nodatime/nodatime) - Better date and time API for .NET <http://nodatime.org>.
+*   [nodatime (⭐2.6k)](https://github.com/nodatime/nodatime) - Better date and time API for .NET <http://nodatime.org>.
 
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -62,7 +62,7 @@
 
 ### CSharp / Data Visualization
 
-*   [QuantConnect (⭐7.4k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage.
+*   [QuantConnect (⭐8k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage.
 
 ---
 

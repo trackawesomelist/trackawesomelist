@@ -20,83 +20,83 @@
 
 ### XML / Third-party APIs
 
-*   [Plump (⭐107)](https://github.com/Shinmera/plump) - A lenient XML parser. [zlib](https://directory.fsf.org/wiki/License:Zlib).
-*   [xpath (⭐5)](https://github.com/sharplispers/xpath) ([homepage](https://common-lisp.net/project/plexippus-xpath/atdoc/index.html) - Implementation of the XML Path Language (XPath) Version 1.0. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [Plump (⭐109)](https://github.com/Shinmera/plump) - A lenient XML parser. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [xpath (⭐6)](https://github.com/sharplispers/xpath) ([homepage](https://common-lisp.net/project/plexippus-xpath/atdoc/index.html) - Implementation of the XML Path Language (XPath) Version 1.0. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 *   [s-xml](http://cliki.net/S-XML) - A basic parser. [LLGPL](http://opensource.franz.com/preamble.html).
-*   [xmls (⭐17)](https://github.com/rpgoldman/xmls) - A small, simple, non-validating XML parser. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [xmls (⭐18)](https://github.com/rpgoldman/xmls) - A small, simple, non-validating XML parser. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 *   [cl-feedparser (⭐24)](https://github.com/TBRSS/cl-feedparser) - A Common Lisp (RSS, Atom) feed parser. [LLGPL](http://opensource.franz.com/preamble.html)
 *   [Buildnode (⭐19)](https://github.com/AccelerationNet/buildnode) - A common lisp library to ease interaction with CXML-dom, such as building Excel spreadsheets. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### Emacs / Third-party APIs
 
-*   [slime-star (⭐20)](https://github.com/mmontone/slime-star) - a SLIME configuration with extensions pre-installed, with also some custom utilities and menus:
+*   [slime-star (⭐30)](https://github.com/mmontone/slime-star) - a SLIME configuration with extensions pre-installed, with also some custom utilities and menus:
     *   the Lisp system browser
     *   [SLIME doc contrib (⭐17)](https://github.com/mmontone/slime-doc-contribs) - enhance the default help buffer.
-    *   [Quicklisp systems (⭐29)](https://github.com/mmontone/quicklisp-systems) - Search, browse and load Quicklisp systems from Emacs.
-    *   [Quicksearch (⭐46)](https://github.com/tkych/quicksearch)
-    *   [Slime breakpoints (⭐6)](https://github.com/mmontone/slime-breakpoints)
-    *   [Slite (⭐44)](https://github.com/tdrhq/slite/) - a test runner for FiveAM.
+    *   [Quicklisp systems (⭐27)](https://github.com/mmontone/quicklisp-systems) - Search, browse and load Quicklisp systems from Emacs.
+    *   [Quicksearch (⭐48)](https://github.com/tkych/quicksearch)
+    *   [Slime breakpoints (⭐10)](https://github.com/mmontone/slime-breakpoints)
+    *   [Slite (⭐48)](https://github.com/tdrhq/slite/) - a test runner for FiveAM.
     *   [Quicklisp-apropos (⭐9)](https://github.com/mmontone/quicklisp-apropos) - Perform `apropos` queries across libraries in Quicklisp (full-text search on symbol names, classes, documentation…).
+    *   [slime-critic (⭐9)](https://github.com/mmontone/slime-critic) - the lisp critic gently critiques your code for bad patterns.
 
 ## [3. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Documentation
 
-*   [Mintlify](https://www.mintlify.com/) - AI powered code documentation, IDE extension (open source).
+*   [Mintlify](https://www.mintlify.com/) - AI powered code documentation, IDE extension (open source). ![Mintlify](https://img.shields.io/github/contributors-anon/mintlify/writer?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ## [4. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / Spotify
 
-*   [librespot (⭐3.6k)](https://github.com/librespot-org/librespot): Requires Spotify Premium Account - librespot is an open source client library for Spotify. It enables applications to use Spotify's service to control and play music via various backends, and to act as a Spotify Connect receiver. It is an alternative to the official and now deprecated closed-source libspotify. Additionally, it will provide extra features which are not available in the official library
-*   [oggify](https://github.com/pisto/oggify): Download Spotify tracks to Ogg Vorbis (with a Spotify premium account), based on librespot
+*   [librespot (⭐3.9k)](https://github.com/librespot-org/librespot): Requires Spotify Premium Account - librespot is an open source client library for Spotify. It enables applications to use Spotify's service to control and play music via various backends, and to act as a Spotify Connect receiver. It is an alternative to the official and now deprecated closed-source libspotify. Additionally, it will provide extra features which are not available in the official library
 
 ## [5. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
-*   [GodotNotificationCenter (⭐54)](https://github.com/didier-v/GodotNotificationCenter) - A notification center (Godot 3.x).
-*   [Scrolling Background (⭐24)](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node (Godot 2.1,3.x).
-*   [SimpleGodotCRTShader (⭐308)](https://github.com/henriquelalves/SimpleGodotCRTShader) - A simple Godot shader that simulates CRT Displays (Godot 2.x, 3.x).
+*   [GodotNotificationCenter (⭐56)](https://github.com/didier-v/GodotNotificationCenter) - A notification center (Godot 3.x).
+*   [Scrolling Background (⭐26)](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node (Godot 2.1,3.x).
+*   [SimpleGodotCRTShader (⭐316)](https://github.com/henriquelalves/SimpleGodotCRTShader) - A simple Godot shader that simulates CRT Displays (Godot 2.x, 3.x).
 *   [SMRT-Godot (⭐104)](https://github.com/brunosxs/SMRT-Godot) - A dialog system and editor fairly customizable, a nice fit for story-driven games (Godot 3.x).
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Orchest](https://orchest.io) — Visual pipeline editor and workflow orchestrator for data science, 1 instance for free, open source version available.
+*   [Orchest](https://orchest.io) — Visual pipeline editor and workflow orchestrator for data science, one instance for free, open source version available.
 
 ## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / React
 
-*   [React-PWA (⭐346)](https://github.com/suren-atoyan/react-pwa) - React v18, TypeScript, Vite, React Router v6, MUI v5, Recoil, PWA, Eslint, Prettier, Husky, lint-staged, https localhost and more.
+*   [React-PWA (⭐417)](https://github.com/suren-atoyan/react-pwa) - React v18, TypeScript, Vite, React Router v6, MUI v5, Recoil, PWA, Eslint, Prettier, Husky, lint-staged, https localhost and more.
 
 ### Templates / Others
 
-*   [chrome-ext-template-preact-windi-vite (⭐37)](https://github.com/fell-lucas/chrome-ext-template-preact-windi-vite) - Preact, Windi CSS, TypeScript, Prettier, ESLint, GitHub Actions and Chrome Extension Manifest v3.
+*   [chrome-ext-template-preact-windi-vite (⭐55)](https://github.com/fell-lucas/chrome-ext-template-preact-windi-vite) - Preact, Windi CSS, TypeScript, Prettier, ESLint, GitHub Actions and Chrome Extension Manifest v3.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-mp (⭐17)](https://github.com/zhuweiyou/vite-plugin-mp) - Configure multi-pages applications and code splitting.
+*   [vite-plugin-mp (⭐19)](https://github.com/zhuweiyou/vite-plugin-mp) - Configure multi-pages applications and code splitting.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-xml-loader (⭐10)](https://github.com/lorenzoc25/vite-plugin-xml-loader) - Loads xml file as JSON.
+*   [vite-plugin-xml-loader (⭐12)](https://github.com/lorenzoc25/vite-plugin-xml-loader) - Loads xml file as JSON.
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [nhl-schedule (⭐1)](https://github.com/Matt561/zsh-nhl-schedule) - Retrieves and displays the NHL schedule.
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [gstreamer (⭐1)](https://github.com/CraigCarey/gstreamer-tab) - Tab completion for [GStreamer](https://gstreamer.freedesktop.org/).
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [al-magic (⭐0)](https://github.com/Alustrat/al-magic/) - Clone of the oh-my-zsh [af-magic (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/af-magic.zsh-theme) theme with the time added at the right of the prompt.
+*   [al-magic (⭐1)](https://github.com/Alustrat/al-magic/) - Clone of the oh-my-zsh [af-magic (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/af-magic.zsh-theme) theme with the time added at the right of the prompt.
 
 ---
 

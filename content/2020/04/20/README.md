@@ -33,26 +33,26 @@
 ### MVVM
 
 *   [UpdateControls](https://updatecontrols.net/cs/) - Update Controls does not require that you implement `INotifyPropertyChanged` or declare a `DependencyProperty`. It connects controls directly to CLR properties. This makes it perfect for the Model/View/ViewModel pattern.
-*   [Toms Toolbox (⭐86)](https://github.com/tom-englert/TomsToolbox) - Visual Composition framework to easily build modularized MVVM applications based on the [Managed Extensibility Framework (MEF)](https://docs.microsoft.com/en-us/dotnet/framework/mef/).
+*   [Toms Toolbox (⭐93)](https://github.com/tom-englert/TomsToolbox) - Visual Composition framework to easily build modularized MVVM applications based on the [Managed Extensibility Framework (MEF)](https://docs.microsoft.com/en-us/dotnet/framework/mef/).
 
 ### ORM
 
-*   [SmartSql (⭐956)](https://github.com/dotnetcore/SmartSql) - SmartSql = MyBatis + Cache（Memory | Redis）+ ZooKeeper + R / W Splitting + Dynamic Repository ....
+*   [SmartSql (⭐1k)](https://github.com/dotnetcore/SmartSql) - SmartSql = MyBatis + Cache（Memory | Redis）+ ZooKeeper + R / W Splitting + Dynamic Repository ....
 
 ### Protocols
 
-*   [DnsClient.NET (⭐665)](https://github.com/MichaCo/DnsClient.NET) - A simple yet very powerful and high performant open source library for the .NET Framework to do DNS lookups.
+*   [DnsClient.NET (⭐711)](https://github.com/MichaCo/DnsClient.NET) - A simple yet very powerful and high performant open source library for the .NET Framework to do DNS lookups.
 
 ### Visual Studio Plugins
 
-*   [Web Essentials (⭐53)](https://github.com/madskristensen/WebEssentials2019) - Web Essentials extends Visual Studio with lots of new features that web developers have been missing for many years
-*   [SideWaffle (⭐654)](https://github.com/ligershark/side-waffle) - A collection of Item Templates for Visual Studio 2012/2013/2015 that makes any web developer's life much easier
+*   [Web Essentials (⭐51)](https://github.com/madskristensen/WebEssentials2019) - Web Essentials extends Visual Studio with lots of new features that web developers have been missing for many years
+*   [SideWaffle (⭐655)](https://github.com/ligershark/side-waffle) - A collection of Item Templates for Visual Studio 2012/2013/2015 that makes any web developer's life much easier
 
 ## [3. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Photo / Image
 
-*   [react-imgix (⭐331)](https://github.com/imgix/react-imgix) - Add fast, responsive images as an image, picture, or background!
+*   [react-imgix (⭐344)](https://github.com/imgix/react-imgix) - Add fast, responsive images as an image, picture, or background!
 
 ## [4. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
 
@@ -75,7 +75,7 @@
 ### Pattern libraries articles / Storybook addons
 
 *   [How packaging makes it dead simple to share UI components](https://blog.hichroma.com/how-packaging-makes-it-dead-simple-to-share-ui-components-29912593539d)
-*   [Storybook design system (⭐1.6k)](https://github.com/storybookjs/design-system)
+*   [Storybook design system (⭐1.8k)](https://github.com/storybookjs/design-system)
 *   [Storybook Docs sneak peek](https://medium.com/storybookjs/storybook-docs-sneak-peak-5be78445094a)
 
 ## [5. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
@@ -88,7 +88,7 @@
 
 ### Side-channel Tools / Reverse Engineering Tools
 
-*   [TRRespass (⭐107)](https://github.com/vusec/trrespass) - Many-sided rowhammer tool suite able to reverse engineer the contents of DDR3 and DDR4 memory chips protected by Target Row Refresh mitigations.
+*   [TRRespass (⭐110)](https://github.com/vusec/trrespass) - Many-sided rowhammer tool suite able to reverse engineer the contents of DDR3 and DDR4 memory chips protected by Target Row Refresh mitigations.
 
 ## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -158,13 +158,13 @@
 
 ### Terminal-based / programmable RSS readers / Outline Processor Markup Language
 
-*   [GORSS - Go RSS Reader (⭐356)](https://github.com/Lallassu/gorss) <sup>[533](https://t.me/s/aboutrss/533)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Lallassu/gorss)
+*   [GORSS - Go RSS Reader (⭐411)](https://github.com/Lallassu/gorss) <sup>[533](https://t.me/s/aboutrss/533)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Lallassu/gorss)
 
 ### universally from / newsletter/mail
 
 *   [Kill the Newsletter!](https://www.kill-the-newsletter.com/) <sup>[425](https://t.me/s/aboutrss/425)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/leafac/www.kill-the-newsletter.com)
 
-### 🧩 API / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### 🧩 API / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Open Reader API](https://rss-sync.github.io/Open-Reader-API/): a common feed-syncing API protocol [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rss-sync/Open-Reader-API)
 
@@ -188,7 +188,7 @@
 
 ### PaaS
 
-*   [fly.io](https://fly.io/) - Fly is a platform for applications that need to run globally. It runs your code close to users and scales compute in cities where your app is busiest. Write your code, package it into a Docker image, deploy it to Fly's platform and let that do all the work to keep your app snappy. Free allowances include up to 3 shared-cpu-1x 256mb VMs, 3GB persistent volume storage (total) and 160GB outbound data transfer.
+*   [fly.io](https://fly.io/) - Fly is a platform for applications that must run globally. It runs your code close to users and scales compute in cities where your app is busiest. Write your code, package it into a Docker image, deploy it to Fly's platform, and let that do all the work to keep your app snappy. Free allowances include up to 3 shared-CPU-1x 256mb VMs, 3GB persistent volume storage (total), and 160GB outbound data transfer.
 
 ## [16. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 

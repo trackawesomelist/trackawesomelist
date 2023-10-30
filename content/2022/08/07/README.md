@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 07, 2022
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -42,7 +42,7 @@
 
 ### Java / General-Purpose Machine Learning
 
-*   [Chips-n-Salsa (⭐45)](https://github.com/cicirello/Chips-n-Salsa) - A Java library for genetic algorithms, evolutionary computation, and stochastic local search, with a focus on self-adaptation / self-tuning, as well as parallel execution.
+*   [Chips-n-Salsa (⭐46)](https://github.com/cicirello/Chips-n-Salsa) - A Java library for genetic algorithms, evolutionary computation, and stochastic local search, with a focus on self-adaptation / self-tuning, as well as parallel execution.
 
 ## [4. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
@@ -58,11 +58,11 @@
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [alias-finder (⭐9)](https://github.com/akash329d/zsh-alias-finder) - Displays an alias when you use a command you have aliased previously. Helpful for remembering aliases you have defined in the past. Written as a pure ZSH script for speed.
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [danielparks (⭐1)](https://github.com/danielparks/danielparks-zsh-theme) - Works well on dark backgrounds. Includes decorators for `git` status, user\@host when in an `ssh` session, success/failure of last command, working directory, python virtualenv, execution time of last command and whether running as `root`.
 
@@ -76,29 +76,29 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Scene Manager (⭐130)](https://github.com/glass-brick/Scene-Manager) - Make nice and customizable scene transitions in one line of code (Godot 3.x, 4.0.alpha).
+*   [Scene Manager (⭐158)](https://github.com/glass-brick/Scene-Manager) - Make nice and customizable scene transitions in one line of code (Godot 3.x, 4.0.alpha).
 
 ## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Color / Diagnostics
 
-*   [NvChad/nvim-colorizer.lua (⭐388)](https://github.com/NvChad/nvim-colorizer.lua) - A high-performance color highlighter which has no external dependencies!.
+*   [NvChad/nvim-colorizer.lua (⭐491)](https://github.com/NvChad/nvim-colorizer.lua) - A high-performance color highlighter which has no external dependencies!.
 
 ## [9. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Guidelines
 
-*   [Adidas REST API Guidelines (⭐225)](https://github.com/adidas/api-guidelines/blob/master/rest-api-guidelines/rest.md) - Adidas REST API Guidelines define standards and guidelines for building REST APIs at adidas.
+*   [Adidas REST API Guidelines (⭐243)](https://github.com/adidas/api-guidelines/blob/master/rest-api-guidelines/rest.md) - Adidas REST API Guidelines define standards and guidelines for building REST APIs at adidas.
 *   [Atlassian REST API design guidelines version 1](https://developer.atlassian.com/server/framework/atlassian-sdk/atlassian-rest-api-design-guidelines-version-1/) - This document provides guidelines to Atlassian developers who are designing REST APIs for Atlassian applications.
-*   [Cisco REST API Guide (⭐90)](https://github.com/CiscoDevNet/api-design-guide) - Guidelines for designing REST APIs at Cisco.
+*   [Cisco REST API Guide (⭐99)](https://github.com/CiscoDevNet/api-design-guide) - Guidelines for designing REST APIs at Cisco.
 *   [Google Cloud API design guide](https://cloud.google.com/apis/design/) - Guidelines Google follows when designing Cloud APIs and other Google APIs (REST APIs and gRPC APIs).
-*   [Haufe API Style Guide (⭐191)](https://github.com/Haufe-Lexware/api-style-guide) - Guidelines created by Haufe-Lexware CTO team.
-*   [Microsoft REST API Guidelines (⭐21k)](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) - The Microsoft REST API Guidelines, as a design principle, encourages application developers to have resources accessible to them via a RESTful HTTP interface.
-*   [Restful API Guidelines by Zalando (⭐1.8k)](https://github.com/zalando/restful-api-guidelines) - Developing Restful APIs: A Comprehensive Set of Guidelines.
+*   [Haufe API Style Guide (⭐195)](https://github.com/Haufe-Lexware/api-style-guide) - Guidelines created by Haufe-Lexware CTO team.
+*   [Microsoft REST API Guidelines (⭐22k)](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) - The Microsoft REST API Guidelines, as a design principle, encourages application developers to have resources accessible to them via a RESTful HTTP interface.
+*   [Restful API Guidelines by Zalando (⭐1.9k)](https://github.com/zalando/restful-api-guidelines) - Developing Restful APIs: A Comprehensive Set of Guidelines.
 
 ### Generators
 
-*   [openapi-generator (⭐15k)](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
+*   [openapi-generator (⭐17k)](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
 
 ## [10. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
@@ -114,7 +114,7 @@
 
 ### Templates / React
 
-*   [vite-react-ts-ghactions-template (⭐38)](https://github.com/pchmn/vite-react-ts-ghactions-template) - React, TypeScript, Vitest + React Testing Library, GitHub Actions + GitHub Pages, ESLint, Prettier, Husky, Commitlint.
+*   [vite-react-ts-ghactions-template (⭐40)](https://github.com/pchmn/vite-react-ts-ghactions-template) - React, TypeScript, Vitest + React Testing Library, GitHub Actions + GitHub Pages, ESLint, Prettier, Husky, Commitlint.
 
 ## [12. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
@@ -134,23 +134,13 @@
 
 *   [Apito](https://apito.io) - A Cloud Based Headless CMS with CDN, Webhooks, Team Collaborations, Content Revision, Cloud Functions.
 
-## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### PaaS
-
-*   [Railway](https://railway.app) - Railway is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud. 1GB Disk, 512 MB RAM, limited to $5 or 500 hours of usage monthly available for free.
-
-### Miscellaneous
-
-*   [Cronit](https://cronit.app) - Online cronjobs service. Free plan includes 100 job execution per month
-
-## [16. Awesome Go](/content/avelino/awesome-go/README.md)
+## [15. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Generators
 
-*   [copygen (⭐262)](https://github.com/switchupcb/copygen) - Generate type-to-type and type-based code without reflection.
+*   [copygen (⭐290)](https://github.com/switchupcb/copygen) - Generate type-to-type and type-based code without reflection.
 
-## [17. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [16. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Knowledge Representation / Commonsense Knowledgebase
 

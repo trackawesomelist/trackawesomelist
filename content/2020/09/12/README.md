@@ -45,13 +45,9 @@
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-### Software / Calendar & Contacts - CalDAV or CardDAV Web-based Clients
+### Software / Calendar & Contacts
 
-*   [EteSync Web](https://www.etesync.com/faq/#web-client) - EteSync's official Web-based client (i.e., their Web app). ([Demo](https://client.etesync.com/), [Source Code (⭐224)](https://github.com/etesync/etesync-web)) `AGPL-3.0` `Javascript`
-
-### Software / Task Management & To-do Lists
-
-*   [todoMini](https://www.todomini.app/) - Mobile friendly zero-feature TODO list web app. Unix philosophy. ([Demo](https://appmini.github.io/todoMini/?demo), [Source Code (⭐96)](https://github.com/appMini/todoMini)) `GPL-3.0` `PHP/Java`
+*   [EteSync Web](https://www.etesync.com/faq/#web-client) - EteSync's official Web-based client (i.e., their Web app). ([Demo](https://client.etesync.com/), [Source Code (⭐233)](https://github.com/etesync/etesync-web)) `AGPL-3.0` `Javascript`
 
 ## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -65,9 +61,9 @@
 
 *   [DevSound (⭐49)](https://github.com/DevEd2/DevSound) - Sound driver embeddable in homebrews which supports pulse width manipulation, arpeggios, and multiple waveforms.
 *   [Carillon Player](http://gbdev.gg8.se/files/musictools/Aleksi%20Eeben/Carillon%20Editor.zip) - Music Engine.
-*   [GBT PLAYER (⭐255)](https://github.com/AntonioND/gbt-player) - A music player library and converter kit.
-*   [mmlgb (⭐38)](https://github.com/SimonLarsen/mmlgb) - A MML parser and GBDK sound driver for the Nintendo Game Boy.
-*   [XPMCK (⭐26)](https://github.com/bazzinotti/XPMCK) - An MML based music compiler with support for Game Boy & Game Boy Color.
+*   [GBT PLAYER (⭐264)](https://github.com/AntonioND/gbt-player) - A music player library and converter kit.
+*   [mmlgb (⭐40)](https://github.com/SimonLarsen/mmlgb) - A MML parser and GBDK sound driver for the Nintendo Game Boy.
+*   [XPMCK (⭐25)](https://github.com/bazzinotti/XPMCK) - An MML based music compiler with support for Game Boy & Game Boy Color.
 
 ## [6. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 
@@ -79,7 +75,7 @@
 
 ### Miscellaneous
 
-*   [RandomKeygen](https://randomkeygen.com/) - A free mobile-friendly tool offers a variety of randomly generated keys and passwords you can use to secure any application, service or device.
+*   [RandomKeygen](https://randomkeygen.com/) - A free mobile-friendly tool that offers a variety of randomly generated keys and passwords you can use to secure any application, service, or device.
 *   [videoinu](https://videoinu.com) — Create and edit screen recordings and other videos online.
 
 ## [8. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)

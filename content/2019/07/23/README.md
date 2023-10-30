@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 23, 2019
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,13 +16,13 @@
 
 ### Others
 
-*   [The Quantum Katas (⭐4k)](https://github.com/Microsoft/QuantumKatas)
+*   [The Quantum Katas (⭐4.3k)](https://github.com/Microsoft/QuantumKatas)
 
 ## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Mail
 
-*   [Papercut (⭐2.4k)](https://github.com/ChangemakerStudios/Papercut) - Simple Desktop SMTP Server
+*   [Papercut (⭐2.7k)](https://github.com/ChangemakerStudios/Papercut) - Simple Desktop SMTP Server
 
 ## [4. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Image - Metadata/Text
 
-*   **TextRecognition (ML Kit)** - Recognizing text using ML Kit built-in model in real-time. [Download](https://github.com/likedan/Awesome-CoreML-Models/blob/master/README.md/) | [Demo (⭐80)](https://github.com/tucan9389/TextRecognition-MLKit) | [Reference](https://firebase.google.com/docs/ml-kit/ios/recognize-text)
+*   **TextRecognition (ML Kit)** - Recognizing text using ML Kit built-in model in real-time. [Download](https://github.com/likedan/Awesome-CoreML-Models/blob/master/README.md/) | [Demo (⭐82)](https://github.com/tucan9389/TextRecognition-MLKit) | [Reference](https://firebase.google.com/docs/ml-kit/ios/recognize-text)
 
 ## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -96,19 +96,13 @@
 
 *   [Extended Dreyfus Model for Incident Lifecycles (⭐24)](https://github.com/preed/incident-lifecycle-model)
 
-## [11. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
-
-### Tools
-
-*   [go-stellar-ipfs (⭐25)](https://github.com/aanupam23/go-stellar-ipfs) - go-stellar-ipfs is a library that is a bridge between Stellar and IPFS.
-
-## [12. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [11. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / Database
 
-*   [sqlline (⭐566)](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
+*   [sqlline (⭐580)](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
 
-## [13. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
+## [12. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 
 ### Visual Studio Code
 
@@ -121,13 +115,13 @@
 *   [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Official Python extension
 *   [Sync settings](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Excellent extension for settings and extension sync of your VS code setup
 
-## [14. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+## [13. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Online Machine Learning
 
-*   [streamDM (⭐483)](https://github.com/huawei-noah/streamDM) \[Scala] - mining Big Data streams using Spark Streaming from Huawei.
-*   [StormCV (⭐170)](https://github.com/sensorstorm/StormCV) \[Java] - enables the use of Apache Storm for video processing by adding computer vision (CV) specific operations and data model.
-*   [trident-ml (⭐381)](https://github.com/pmerienne/trident-ml) \[Java] - realtime online machine learning library based on Trident.
+*   [streamDM (⭐485)](https://github.com/huawei-noah/streamDM) \[Scala] - mining Big Data streams using Spark Streaming from Huawei.
+*   [StormCV (⭐168)](https://github.com/sensorstorm/StormCV) \[Java] - enables the use of Apache Storm for video processing by adding computer vision (CV) specific operations and data model.
+*   [trident-ml (⭐382)](https://github.com/pmerienne/trident-ml) \[Java] - realtime online machine learning library based on Trident.
 *   [yurita (⭐104)](https://github.com/paypal/yurita) \[Scala] - Anomaly detection framework built on Spark Structured Streaming from Paypal.
 
 ---

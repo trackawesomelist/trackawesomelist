@@ -234,7 +234,7 @@
 
 ### CLI Builder
 
-*   [Optimist (⭐215)](https://github.com/ManageIQ/optimist) - A commandline option parser for Ruby that just gets out of your way.
+*   [Optimist (⭐236)](https://github.com/ManageIQ/optimist) - A commandline option parser for Ruby that just gets out of your way.
 
 ## [5. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
@@ -248,13 +248,13 @@
 
 ### Network Protocols
 
-*   [cr-xmpp (⭐18)](https://github.com/naqvis/cr-xmpp) - XMPP/Jabber Library
+*   [cr-xmpp (⭐16)](https://github.com/naqvis/cr-xmpp) - XMPP/Jabber Library
 
 ## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Gaming
 
-*   [Haxe Game Development (⭐328)](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
+*   [Haxe Game Development (⭐350)](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
 
 ## [8. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -288,7 +288,7 @@
 
 ### Frameworks, Libraries and Tools / Build Automation
 
-*   [FlubuCore (⭐816)](https://github.com/dotnetcore/FlubuCore) - A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
+*   [FlubuCore (⭐879)](https://github.com/dotnetcore/FlubuCore) - A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
 
 ## [12. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

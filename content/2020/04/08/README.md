@@ -10,13 +10,13 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [ASP.NET MVC (⭐30k)](https://github.com/dotnet/aspnetcore/tree/master/src/Mvc) - Model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor.
+*   [ASP.NET MVC (⭐33k)](https://github.com/dotnet/aspnetcore/tree/master/src/Mvc) - Model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor.
 
 ## [2. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In Portuguese
 
-*   [Opencast](https://anchor.fm/opencast) - Tecnologia, Software Livre e inovação em um bate-papo descontraído e cheio de referências ao mundo unix-like..
+*   [Opencast](https://anchor.fm/opencast) - Tecnologia, Software Livre e inovação em um bate-papo descontraído e cheio de referências ao mundo unix-like.
 
 ## [3. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Converters
 
-*   [Zolang (⭐139)](https://github.com/Zolang/Zolang) :penguin: - A DSL for generating code in multiple programming languages.
+*   [Zolang (⭐143)](https://github.com/Zolang/Zolang) :penguin: - A DSL for generating code in multiple programming languages.
 
 ### Patterns
 
@@ -88,11 +88,11 @@
 
 ### Animation
 
-*   [Elephant (⭐129)](https://github.com/s2mr/Elephant) - Elegant SVG animation kit.
+*   [Elephant (⭐131)](https://github.com/s2mr/Elephant) - Elegant SVG animation kit.
 
 ### API
 
-*   [GitHubAPI (⭐78)](https://github.com/serhii-londar/GithubAPI) - Implementation of GitHub REST API v3.
+*   [GitHubAPI (⭐82)](https://github.com/serhii-londar/GithubAPI) - Implementation of GitHub REST API v3.
 
 ### Multi Database
 
@@ -100,15 +100,15 @@
 
 ### XML
 
-*   [XMLCoder (⭐683)](https://github.com/MaxDesiatov/XMLCoder) - XMLEncoder & XMLDecoder based on Codable protocols from the standard library.
+*   [XMLCoder (⭐747)](https://github.com/MaxDesiatov/XMLCoder) - XMLEncoder & XMLDecoder based on Codable protocols from the standard library.
 
 ### Images / Barcode
 
-*   [FMPhotoPicker (⭐664)](https://github.com/congnd/FMPhotoPicker) - A modern, simple and zero-dependency photo picker with an elegant and customizable image editor.
+*   [FMPhotoPicker (⭐703)](https://github.com/congnd/FMPhotoPicker) - A modern, simple and zero-dependency photo picker with an elegant and customizable image editor.
 
 ### Layout / Barcode
 
-*   [BrickKit (⭐608)](https://github.com/wayfair-archive/brickkit-ios) - Create complex and responsive layouts in a simple way.
+*   [BrickKit (⭐606)](https://github.com/wayfair-archive/brickkit-ios) - Create complex and responsive layouts in a simple way.
 
 ### Testing / Barcode
 
@@ -116,8 +116,8 @@
 
 ### UI / Barcode
 
-*   [Material Components for iOS (⭐4.6k)](https://github.com/material-components/material-components-ios) - Modular and customizable Material Design UI components.
-*   [YMTreeMap (⭐123)](https://github.com/yahoo/YMTreeMap) - Treemap / Heatmap layout engine, based on Squarified.
+*   [Material Components for iOS (⭐4.7k)](https://github.com/material-components/material-components-ios) - Modular and customizable Material Design UI components.
+*   [YMTreeMap (⭐127)](https://github.com/yahoo/YMTreeMap) - Treemap / Heatmap layout engine, based on Squarified.
 
 ### UITableView / Barcode
 
@@ -125,7 +125,7 @@
 
 ### Serverless / Barcode
 
-*   [Azure Functions for Swift (⭐88)](https://github.com/SalehAlbuga/azure-functions-swift) :penguin: - Swift Worker for Azure Functions.
+*   [Azure Functions for Swift (⭐87)](https://github.com/SalehAlbuga/azure-functions-swift) :penguin: - Swift Worker for Azure Functions.
 
 ## [7. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
@@ -145,8 +145,8 @@
 
 ### Functional Programming
 
-*   [Coconut (⭐3.7k)](https://github.com/evhub/coconut) - A variant of Python built for simple, elegant, Pythonic functional programming.
-*   [more-itertools (⭐3k)](https://github.com/erikrose/more-itertools) - More routines for operating on iterables, beyond `itertools`.
+*   [Coconut (⭐3.8k)](https://github.com/evhub/coconut) - A variant of Python built for simple, elegant, Pythonic functional programming.
+*   [more-itertools (⭐3.1k)](https://github.com/erikrose/more-itertools) - More routines for operating on iterables, beyond `itertools`.
 
 ### RPC Servers
 
@@ -156,7 +156,7 @@
 
 ### Rendering/Publishing/Conversion
 
-*   [Kapitsa (⭐9)](https://github.com/gitjeff05/kapitsa) - CLI to search local Jupyter notebooks.
+*   [Kapitsa (⭐10)](https://github.com/gitjeff05/kapitsa) - CLI to search local Jupyter notebooks.
 
 ## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -178,10 +178,10 @@
 ### Word Processors
 
 *   [Vim](https://www.vim.org/) - Command line text editor.
-    *   [fzf-bibtex (⭐91)](https://github.com/msprev/fzf-bibtex/#readme) - BibTeX source
+    *   [fzf-bibtex (⭐110)](https://github.com/msprev/fzf-bibtex/#readme) - BibTeX source
         with Vim integration which uses fzf (a fuzzy finder implemented in Go).
-    *   [vim-pandoc (⭐876)](https://github.com/vim-pandoc/vim-pandoc) - Pandoc integration and utilities for Vim.
-    *   [vim-pandoc-syntax (⭐387)](https://github.com/vim-pandoc/vim-pandoc-syntax) - Pandoc syntax highlighting for Vim.
+    *   [vim-pandoc (⭐915)](https://github.com/vim-pandoc/vim-pandoc) - Pandoc integration and utilities for Vim.
+    *   [vim-pandoc-syntax (⭐412)](https://github.com/vim-pandoc/vim-pandoc-syntax) - Pandoc syntax highlighting for Vim.
 
 ### Bibliography
 
@@ -196,8 +196,6 @@
 
 ### Illustrations
 
-*   [diagrams.net](https://www.diagrams.net/) - Open source, online, desktop and
-    container deployable diagramming software.
 *   [graphviz](https://graphviz.org/) - Visualization software for graphs and
     networks which uses a domain-specific DOT language.
 
@@ -212,10 +210,10 @@
 *   [pandoc](https://pandoc.org/MANUAL) - Haskell library for converting from
     one markup format to another, and a command-line tool that uses this
     library :bookmark: :link:.
-    *   [Academic Markdown (⭐334)](https://github.com/smathot/academicmarkdown#readme) - Python wrapper over Pandoc with specialized extensions to parse certain
+    *   [Academic Markdown (⭐343)](https://github.com/smathot/academicmarkdown#readme) - Python wrapper over Pandoc with specialized extensions to parse certain
         elements, making it a superset of Pandoc Markdown flavour :bookmark:
         :link:.
-    *   [Pandoc filters (⭐27k)](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) - List of
+    *   [Pandoc filters (⭐30k)](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) - List of
         addons to pandoc which implement extra features such as citations and
         cross-references.
     *   [Panflute](http://scorreia.com/software/panflute/) - Pythonic alternative
@@ -225,14 +223,14 @@
 
 *   [GNU Aspell](http://aspell.net/) - Command line spell checker.
 *   [Hunspell](http://hunspell.github.io/) - Command line spell checker.
-*   [Markdown lint tool (⭐1.4k)](https://github.com/markdownlint/markdownlint) - Markdown linter.
-*   [remarklint (⭐832)](https://github.com/remarkjs/remark-lint) - Markdown linter.
+*   [Markdown lint tool (⭐1.6k)](https://github.com/markdownlint/markdownlint) - Markdown linter.
+*   [remarklint (⭐873)](https://github.com/remarkjs/remark-lint) - Markdown linter.
 
 ## [12. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Tools / Other
 
-*   [Scapy (⭐81)](https://github.com/secdev/awesome-scapy) - A Python tool and library for low level packet creation and manipulation
+*   [Scapy (⭐146)](https://github.com/secdev/awesome-scapy) - A Python tool and library for low level packet creation and manipulation
 
 ## [13. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
@@ -248,7 +246,7 @@
 
 ### CSV
 
-*   [CodableCSV (⭐376)](https://github.com/dehesa/CodableCSV) - Read and write CSV files row-by-row & field-by-field or through Swift's Codable interface.
+*   [CodableCSV (⭐402)](https://github.com/dehesa/CodableCSV) - Read and write CSV files row-by-row & field-by-field or through Swift's Codable interface.
 
 ---
 

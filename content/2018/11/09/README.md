@@ -16,7 +16,7 @@
 
 ### Templates / Misc
 
-*   [Postmark Transactional Email Templates (⭐2.7k)](https://github.com/wildbit/postmark-templates) - Rock-solid email templates for applications.
+*   [Postmark Transactional Email Templates (⭐2.8k)](https://github.com/wildbit/postmark-templates) - Rock-solid email templates for applications.
 
 ## [3. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
 
@@ -40,24 +40,24 @@
 
 ### Seedboxes / Seedbox Setup Tools and Guides
 
-*   [DockSTARTer (⭐1.8k)](https://github.com/GhostWriters/DockSTARTer) DockSTARTer helps you get started with home server apps running in Docker.
+*   [DockSTARTer (⭐1.9k)](https://github.com/GhostWriters/DockSTARTer) DockSTARTer helps you get started with home server apps running in Docker.
 
 ### Tracker Frameworks / Seedbox Setup Tools and Guides
 
-*   [Torrent-Tracker-Platforms (⭐354)](https://github.com/HDVinnie/Torrent-Tracker-Platforms) A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages
+*   [Torrent-Tracker-Platforms (⭐410)](https://github.com/HDVinnie/Torrent-Tracker-Platforms) A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages
 
 ### Usenet / Seedbox Setup Tools and Guides
 
-*   [Usenet-Uploaders (⭐158)](https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders) Table of applications for uploading content to Usenet
+*   [Usenet-Uploaders (⭐176)](https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders) Table of applications for uploading content to Usenet
 
 ### Plex Plugins / Third Party Hosts
 
 *   [Official Plex Plugins](https://github.com/plexinc-plugins) Repos for every official Plex Inc. plugin
-*   [FMoviesPlus.bundle (⭐52)](https://github.com/coder-alpha/FMoviesPlus.bundle) Plex Media Server plug-in designed for FMovies, G2G, Primewire and more.
+*   [FMoviesPlus.bundle (⭐58)](https://github.com/coder-alpha/FMoviesPlus.bundle) Plex Media Server plug-in designed for FMovies, G2G, Primewire and more.
 
 ### Movie Automation / Third Party Hosts
 
-*   [Watcher (⭐277)](https://github.com/nosmokingbandit/Watcher3) Watcher is an automated movie NZB & Torrent searcher and snatcher.
+*   [Watcher (⭐278)](https://github.com/nosmokingbandit/Watcher3) Watcher is an automated movie NZB & Torrent searcher and snatcher.
 
 ### Miscellaneous / Third Party Hosts
 
@@ -67,7 +67,7 @@
 
 ### IO/Storage
 
-*   [FilePicker-Plugin-for-Xamarin ★37 (⭐155)](https://github.com/jfversluis/FilePicker-Plugin-for-Xamarin-and-Windows) - Simple cross-platform plug-in that allows you to pick files and work with them.
+*   [FilePicker-Plugin-for-Xamarin ★37 (⭐156)](https://github.com/jfversluis/FilePicker-Plugin-for-Xamarin-and-Windows) - Simple cross-platform plug-in that allows you to pick files and work with them.
 
 ## [8. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
 

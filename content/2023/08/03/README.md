@@ -10,17 +10,17 @@
 
 ### Productivity and Time
 
-*   [Teleprompter (⭐11)](https://github.com/Nokse22/teleprompter) - Simple application to read scrolling text from your screen.
+*   [Teleprompter (⭐20)](https://github.com/Nokse22/teleprompter) - Simple application to read scrolling text from your screen.
 
 ### Icons / Upstream Style
 
-*   [MoreWaita (⭐305)](https://github.com/somepaulo/MoreWaita) - An Adwaita-style icon theme for Gnome Shell.
+*   [MoreWaita (⭐361)](https://github.com/somepaulo/MoreWaita) - An Adwaita-style icon theme for Gnome Shell.
 
 ## [2. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Tools
 
-*   [Pi Temperature Exporter (⭐12)](https://github.com/s-nagaev/pi-temperature-exporter) - a CPU and GPU temperature exporter for Prometheus consumption.
+*   [Pi Temperature Exporter (⭐15)](https://github.com/s-nagaev/pi-temperature-exporter) - a CPU and GPU temperature exporter for Prometheus consumption.
 
 ## [3. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
 
@@ -34,21 +34,21 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Screego](https://screego.net) - Screego is a simple tool to quickly share your screen to one or multiple people via web browser. ([Demo](https://app.screego.net/), [Source Code (⭐5.5k)](https://github.com/screego/server)) `GPL-3.0` `Docker/Go`
+*   [Screego](https://screego.net) - Screego is a simple tool to quickly share your screen to one or multiple people via web browser. ([Demo](https://app.screego.net/), [Source Code (⭐6.2k)](https://github.com/screego/server)) `GPL-3.0` `Docker/Go`
 
 ### Software / Money, Budgeting & Management
 
-*   [FOSSBilling](https://fossbilling.org/) - Free and open source hosting and billing automation. Integrates with WHM, CWP, cPanel and HestiaCP. Full API and easily extensible. ([Demo](https://fossbilling.org/demo), [Source Code (⭐418)](https://github.com/FOSSBilling/FOSSBilling)) `Apache-2.0` `PHP/Docker`
+*   [FOSSBilling](https://fossbilling.org/) - Free and open source hosting and billing automation. Integrates with WHM, CWP, cPanel and HestiaCP. Full API and easily extensible. ([Demo](https://fossbilling.org/demo), [Source Code (⭐524)](https://github.com/FOSSBilling/FOSSBilling)) `Apache-2.0` `PHP/Docker`
 
 ### Software / Remote Access
 
-*   [Remotely (⭐3.6k)](https://github.com/immense/Remotely) - A remote desktop control and remote scripting solution, enterprise level remote support solution with admin web interface and remote control via browser. `GPL-3.0` `C#/Docker`
+*   [Remotely (⭐3.8k)](https://github.com/immense/Remotely) - A remote desktop control and remote scripting solution, enterprise level remote support solution with admin web interface and remote control via browser. `GPL-3.0` `C#/Docker`
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### CI and CD
 
-*   [bytebase.com](https://www.bytebase.com/) — Database CI/CD and DevOps. Free under 20 users and 10 database instances
+*   [bytebase.com](https://www.bytebase.com/) — Database CI/CD and DevOps. Free under 20 users and ten database instances
 
 ## [6. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
@@ -67,11 +67,11 @@
 
 ### Development / Devops
 
-*   [flog (⭐909)](https://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
+*   [flog (⭐926)](https://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 
 ### Development / Boilerplate
 
-*   [mevn-cli (⭐808)](https://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
+*   [mevn-cli (⭐811)](https://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
 
 ### Files and Directories / Directory Navigation
 
@@ -79,7 +79,7 @@
 
 ### Version Control / Git
 
-*   [Lazygit (⭐38k)](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
+*   [Lazygit (⭐39k)](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
 
 ## [8. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
@@ -97,19 +97,19 @@
 
 ### Caching
 
-*   [FastCache (⭐32)](https://github.com/jitbit/FastCache) - 10X faster alternative to `MemoryCache` for .NET
+*   [FastCache (⭐62)](https://github.com/jitbit/FastCache) - 10X faster alternative to `MemoryCache` for .NET
 
 ## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / DSL
 
-*   [bipokot/Kabu (⭐9)](https://github.com/bipokot/Kabu) - The fastest way to create complex Kotlin DSL
+*   [bipokot/Kabu (⭐29)](https://github.com/bipokot/Kabu) - The fastest way to create complex Kotlin DSL
 
 ## [12. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Miscellaneous
 
-*   [react-mrz-scanner (⭐0)](https://github.com/tony-xlh/react-mrz-scanner) - A React component to scan MRZ on passports, visa cards, etc. It is based on Dynamsoft Label Recognizer.
+*   [react-mrz-scanner (⭐1)](https://github.com/tony-xlh/react-mrz-scanner) - A React component to scan MRZ on passports, visa cards, etc. It is based on Dynamsoft Label Recognizer.
 
 ## [13. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
@@ -119,8 +119,9 @@
 
 ### Plugins
 
-*   [tmux-keylocker (⭐0)](https://github.com/TheSast/tmux-keylocker) Lock away your tmux keybinds temporarely.
+*   [tmux-keylocker (⭐1)](https://github.com/TheSast/tmux-keylocker) Lock away your tmux keybinds temporarely.
 
 ---
 
+- Prev: [Aug 04, 2023](/content/2023/08/04/README.md)
 - Next: [Aug 02, 2023](/content/2023/08/02/README.md)

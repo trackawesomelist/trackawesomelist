@@ -45,7 +45,7 @@
 
 ### Applications / Directory Navigation
 
-*   [haxor-news (⭐3.8k)](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor
+*   [haxor-news (⭐3.9k)](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor
 *   [Reddit Terminal Viewer (⭐4.6k)](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 
 ## [6. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)

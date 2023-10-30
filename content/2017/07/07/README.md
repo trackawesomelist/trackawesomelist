@@ -40,7 +40,7 @@
 
 ### Plotting / Third-party APIs
 
-*   [vgplot (⭐44)](https://github.com/volkers/vgplot) - an interface to the
+*   [vgplot (⭐46)](https://github.com/volkers/vgplot) - an interface to the
     gnuplot plotting utility with the intention to resemble some of
     the plot commands of octave or matlab. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 

@@ -50,34 +50,34 @@
 
 ### E-commerce
 
-*   [alipay (⭐322)](https://github.com/lxneng/alipay) - Unofficial Alipay API for Python.
+*   [alipay (⭐324)](https://github.com/lxneng/alipay) - Unofficial Alipay API for Python.
 
 ### HTML Manipulation
 
 *   [html5lib (⭐1k)](https://github.com/html5lib/html5lib-python) - A standards-compliant library for parsing and serializing HTML documents and fragments.
 *   [lxml](http://lxml.de/) - A very fast, easy-to-use and versatile library for handling HTML and XML.
 *   [pyquery (⭐2.2k)](https://github.com/gawel/pyquery) - A jQuery-like library for parsing HTML.
-*   [xmltodict (⭐5.1k)](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON.
+*   [xmltodict (⭐5.2k)](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON.
 
 ### Processes
 
-*   [sh (⭐6.5k)](https://github.com/amoffat/sh) - A full-fledged subprocess replacement for Python.
+*   [sh (⭐6.6k)](https://github.com/amoffat/sh) - A full-fledged subprocess replacement for Python.
 
 ### Science
 
 *   [astropy](http://www.astropy.org/) - A community Python library for Astronomy.
-*   [bccb (⭐567)](https://github.com/chapmanb/bcbb) - Collection of useful code related to biological analysis.
+*   [bccb (⭐572)](https://github.com/chapmanb/bcbb) - Collection of useful code related to biological analysis.
 *   [Biopython](http://biopython.org/wiki/Main_Page) - Biopython is a set of freely available tools for biological computation.
 *   [cclib](http://cclib.github.io/) - A library for parsing and interpreting the results of computational chemistry packages.
 *   [NumPy](http://www.numpy.org/) - A fundamental package for scientific computing with Python.
-*   [PyMC (⭐7.4k)](https://github.com/pymc-devs/pymc3) - Markov Chain Monte Carlo sampling toolkit.
-*   [statsmodels (⭐8.3k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
-*   [SymPy (⭐10k)](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
+*   [PyMC (⭐7.6k)](https://github.com/pymc-devs/pymc3) - Markov Chain Monte Carlo sampling toolkit.
+*   [statsmodels (⭐8.7k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
+*   [SymPy (⭐11k)](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
 
 ### Third-party APIs
 
-*   [google-api-python-client (⭐6.4k)](https://github.com/google/google-api-python-client) - Google APIs Client Library for Python.
-*   [gspread (⭐6.4k)](https://github.com/burnash/gspread) - Google Spreadsheets Python API.
+*   [google-api-python-client (⭐6.7k)](https://github.com/google/google-api-python-client) - Google APIs Client Library for Python.
+*   [gspread (⭐6.5k)](https://github.com/burnash/gspread) - Google Spreadsheets Python API.
 *   [twython (⭐1.9k)](https://github.com/ryanmcgrath/twython) - A Python wrapper for the Twitter API.
 
 ## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
@@ -86,18 +86,18 @@
 
 *   [OpenTripPlanner Client GWT (⭐8)](https://github.com/mecatran/OpenTripPlanner-client-gwt) - A Google Web Toolkit-based web interface for OpenTripPlanner
 *   [HRT BUS Web app (⭐18)](https://github.com/Code4HR/hrt-bus-api) - HRT Bus API publishes real time bus data from Hampton Roads Transit through an application programming interface for developers to make apps from it.
-*   [Transit-Map (⭐330)](https://github.com/vasile/transit-map) - Web app that animates vehicles (markers) on a map using the public transport timetables to interpolate their positions along the routes (polylines).
+*   [Transit-Map (⭐339)](https://github.com/vasile/transit-map) - Web app that animates vehicles (markers) on a map using the public transport timetables to interpolate their positions along the routes (polylines).
 
 ### GTFS Realtime Libraries & Demo Apps / Ruby
 
 *   [GTFS-realtime Alerts Producer Web Application (⭐1)](https://github.com/OneBusAway/onebusaway-service-alerts) - A Java-based web application for producing GTFS-realtime Service Alerts.
 *   [GTFS-realtime Exporter (⭐13)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-exporter/wiki) - A Java-based tool that assists in producing and sharing a GTFS-relatime feed.
-*   [GTFS-realtime Alerts Producer Demo (⭐9)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-alerts-producer-demo/wiki) - A Java-based demo project for producing GTFS-realtime Service Alerts.
-*   [GTFS-realtime TripUpdates & VehiclePositions Producer Demo (⭐10)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-trip-updates-producer-demo/wiki) - A Java-based demo project for producing GTFS-realtime TripUpdates (estimated arrivals) and Vehicle Positions.
+*   [GTFS-realtime Alerts Producer Demo (⭐8)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-alerts-producer-demo/wiki) - A Java-based demo project for producing GTFS-realtime Service Alerts.
+*   [GTFS-realtime TripUpdates & VehiclePositions Producer Demo (⭐9)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-trip-updates-producer-demo/wiki) - A Java-based demo project for producing GTFS-realtime TripUpdates (estimated arrivals) and Vehicle Positions.
 
 ### GTFS Libraries / Java
 
-*   [OneBusAway GTFS Modules (⭐111)](https://github.com/OneBusAway/onebusaway-gtfs-modules/wiki) - A Java-based library for reading, writing, and transforming public transit data in the GTFS format, including database support.
+*   [OneBusAway GTFS Modules (⭐116)](https://github.com/OneBusAway/onebusaway-gtfs-modules/wiki) - A Java-based library for reading, writing, and transforming public transit data in the GTFS format, including database support.
 
 ### GTFS Converters / Ruby
 
@@ -107,9 +107,9 @@
 
 *   [Syncromatics API to GTFS-realtime (⭐2)](https://github.com/CUTR-at-USF/bullrunner-gtfs-realtime-generator) - A Java-based command-line utility to convert from the [Syncromatics API](http://www.syncromatics.com/) format to GTFS-realtime TripUpdates and VehiclePositons.
 *   [KV6,15,17, and ARNU to GTFS-realtime (⭐1)](https://github.com/bliksemlabs/bliksemintegration-realtime) - Java-based tool to process incoming KV6,15,17 and ARNU and match them to static transit data present in a RID integration database. It then proceeds to export this data as ARNU RITinfo, GTFS(realtime) and KV78turbo
-*   [WMATA BusPositions API to GTFS-realtime (⭐11)](https://github.com/kurtraschke/wmata-gtfsrealtime) - Java-based tool to convert from WMATA's [BusPositions API](https://developer.wmata.com/docs/services/54763629281d83086473f231/operations/5476362a281d830c946a3d68) and Alert RSS feeds from [MetroAlerts](http://www.wmata.com/rider_tools/metro_service_status/rail_bus.cfm?) to GTFS-realtime TripUpdates, VehiclePositions, and Alerts feeds.
+*   [WMATA BusPositions API to GTFS-realtime (⭐12)](https://github.com/kurtraschke/wmata-gtfsrealtime) - Java-based tool to convert from WMATA's [BusPositions API](https://developer.wmata.com/docs/services/54763629281d83086473f231/operations/5476362a281d830c946a3d68) and Alert RSS feeds from [MetroAlerts](http://www.wmata.com/rider_tools/metro_service_status/rail_bus.cfm?) to GTFS-realtime TripUpdates, VehiclePositions, and Alerts feeds.
 *   [SEPTA API to GTFS-realtime (⭐2)](https://github.com/kurtraschke/septa-gtfsrealtime) - Java-based tool to convert [SEPTA's](http://www.septa.org/) [real-time bus and rail data](http://www3.septa.org/hackathon/) to GTFS-realtime
-*   [CTA API to GTFS-realtime (⭐5)](https://github.com/kurtraschke/ctatt-gtfsrealtime) - Java-based tool to convert [CTA's](http://www.transitchicago.com/) [Train Tracker data](http://www.transitchicago.com/developers/traintracker.aspx) to GTFS-realtime.
+*   [CTA API to GTFS-realtime (⭐4)](https://github.com/kurtraschke/ctatt-gtfsrealtime) - Java-based tool to convert [CTA's](http://www.transitchicago.com/) [Train Tracker data](http://www.transitchicago.com/developers/traintracker.aspx) to GTFS-realtime.
 *   [Detroit DOT to GTFS-realtime (⭐2)](https://github.com/prashtx/ddot-avl) - Extract real-time info from [DDOT's](http://www.detroitmi.gov/How-Do-I/Locate-Transportation/Bus-Schedules) TransitMaster installation (database) and convert to GTFS-realtime
 *   [Live Transit Event Trigger (⭐4)](https://github.com/ipublic/live_transit_event_trigger) - Extracts data from [Ride On's](http://www.montgomerycountymd.gov/dot-transit/) OrbCAD database and export as GTFS-realtime.
 *   [SoundTransit to GTFS-realtime (⭐3)](https://github.com/bdferris/onebusaway-sound-transit-realtime) - Convert text file feed from [Sound Transit](http://www.soundtransit.org/) to GTFS-realtime

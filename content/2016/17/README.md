@@ -69,8 +69,8 @@
 
 ### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
-*   [Español (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/es-ES)
-*   [Français (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/fr-FR)
+*   [Español (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/es-ES)
+*   [Français (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/fr-FR)
 
 ## [4. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
@@ -167,7 +167,7 @@ git show <branch_name>:<file_name>
 ### Tools / Libraries
 
 *   [Chroma.js](http://gka.github.io/chroma.js/) - JavaScript library for dealing with colors.
-*   [GradStop.js (⭐151)](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
+*   [GradStop.js (⭐152)](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
 
 ### Tools / Web App
 
@@ -312,11 +312,11 @@ git show <branch_name>:<file_name>
 
 ### Frameworks
 
-*   [EASTL (⭐7.2k)](https://github.com/electronicarts/EASTL) - Electronic Arts Standard Template Library. \[BSD]
+*   [EASTL (⭐7.4k)](https://github.com/electronicarts/EASTL) - Electronic Arts Standard Template Library. \[BSD]
 
 ### Machine Learning
 
-*   [Fido (⭐418)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics. \[MIT] [website](http://fidoproject.github.io/)
+*   [Fido (⭐422)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics. \[MIT] [website](http://fidoproject.github.io/)
 
 ## [20. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -349,7 +349,7 @@ git show <branch_name>:<file_name>
 ### Ask these people anything!
 
 *   [Jon Kuperman (⭐21)](https://github.com/jkup/ama) - I love JavaScript! I blog at [Codeplanet](https://codeplanet.io), make videos at [Nodecasts](https://nodecasts.io) and podcast at [The Web Behind](https://webbehind.com).
-*   [Max Stoiber (⭐29)](https://github.com/mxstbr/ama) - Open source developer advocate at Thinkmill, developing [KeystoneJS (⭐7.8k)](https://github.com/keystonejs/keystone) and [ElementalUI (⭐4.3k)](https://github.com/elementalui/elemental). Creator of [react-boilerplate (⭐29k)](https://github.com/mxstbr/react-boilerplate), part of React Vienna.
+*   [Max Stoiber (⭐29)](https://github.com/mxstbr/ama) - Open source developer advocate at Thinkmill, developing [KeystoneJS (⭐8.2k)](https://github.com/keystonejs/keystone) and [ElementalUI (⭐4.3k)](https://github.com/elementalui/elemental). Creator of [react-boilerplate (⭐29k)](https://github.com/mxstbr/react-boilerplate), part of React Vienna.
 
 ## [24. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
 
@@ -361,7 +361,7 @@ git show <branch_name>:<file_name>
 
 ### Images / Barcode
 
-*   [SwiftyGif (⭐1.7k)](https://github.com/kirualex/SwiftyGif) - High performance GIF engine.
+*   [SwiftyGif (⭐1.8k)](https://github.com/kirualex/SwiftyGif) - High performance GIF engine.
 
 ## [26. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -425,7 +425,7 @@ git show <branch_name>:<file_name>
 
 ### Algorithms and Data structures
 
-*   [ratio (⭐37)](https://github.com/Qqwy/elixir-rational) - Adds Rational Numbers and allows them to be used in common arithmatic operations. Also supports conversion between Floats and Rational Numbers.
+*   [ratio (⭐39)](https://github.com/Qqwy/elixir-rational) - Adds Rational Numbers and allows them to be used in common arithmatic operations. Also supports conversion between Floats and Rational Numbers.
 
 ### Applications
 
@@ -434,7 +434,7 @@ git show <branch_name>:<file_name>
 
 ### Behaviours and Interfaces
 
-*   [stockastic (⭐17)](https://github.com/shanewilton/stockastic) - Simple Elixir wrapper for the Stockfighter API.
+*   [stockastic (⭐18)](https://github.com/shanewilton/stockastic) - Simple Elixir wrapper for the Stockfighter API.
 
 ### Cloud Infrastructure and Management
 
@@ -442,7 +442,7 @@ git show <branch_name>:<file_name>
 
 ### Configuration
 
-*   [sweetconfig (⭐2)](https://github.com/d0rc/sweetconfig) - Read YAML configuration files from any point at your app.
+*   [sweetconfig (⭐3)](https://github.com/d0rc/sweetconfig) - Read YAML configuration files from any point at your app.
 
 ### Examples and funny stuff
 
@@ -451,12 +451,12 @@ git show <branch_name>:<file_name>
 
 ### Miscellaneous
 
-*   [mixgraph (⭐13)](https://github.com/sivsushruth/mixgraph) - An interactive dependency plotter for your Hex Package.
+*   [mixgraph (⭐14)](https://github.com/sivsushruth/mixgraph) - An interactive dependency plotter for your Hex Package.
 
 ### ORM and Datamapping
 
 *   [redix (⭐1k)](https://github.com/whatyouhide/redix) - Superfast, pipelined, resilient Redis driver for Elixir.
-*   [riak\_ecto (⭐30)](https://github.com/pma/riak_ecto) - Riak adapter for Ecto.
+*   [riak\_ecto (⭐31)](https://github.com/pma/riak_ecto) - Riak adapter for Ecto.
 
 ### Testing
 
@@ -464,12 +464,12 @@ git show <branch_name>:<file_name>
 
 ### Validations
 
-*   [bankster (⭐28)](https://github.com/railsmechanic/bankster) - A IBAN account number and BIC validation library for Elixir.
+*   [bankster (⭐29)](https://github.com/railsmechanic/bankster) - A IBAN account number and BIC validation library for Elixir.
 *   [shape (⭐6)](https://github.com/prio/shape) - A data validation library for Elixir based on Prismatic Scheme.
 
 ### Reading
 
-*   [Elixir Functional Programming (⭐360)](https://github.com/kblake/functional-programming) - Material to introduce functional programming using the Elixir language.
+*   [Elixir Functional Programming (⭐362)](https://github.com/kblake/functional-programming) - Material to introduce functional programming using the Elixir language.
 
 ## [32. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
 
@@ -519,11 +519,11 @@ This book is packed with practical recipes, designed to provide you with all the
 
 ### Tools
 
-*   [Opserver (⭐4.3k)](https://github.com/Opserver/Opserver) - Stack Exchange's Monitoring System
+*   [Opserver (⭐4.4k)](https://github.com/Opserver/Opserver) - Stack Exchange's Monitoring System
 
 ### Source Generator
 
-*   [awesome-analyzers (⭐423)](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
+*   [awesome-analyzers (⭐451)](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
 ## [35. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
 

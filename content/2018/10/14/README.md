@@ -10,8 +10,7 @@
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
-*   [Airbnb (⭐134k)](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) - Shareable config for [Airbnb's style guide (⭐134k)](https://github.com/airbnb/javascript).
-*   [Google (⭐1.7k)](https://github.com/google/eslint-config-google) - Shareable config for the [Google style](http://google.github.io/styleguide/javascriptguide.xml).
+*   [Airbnb (⭐135k)](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) - Shareable config for [Airbnb's style guide (⭐135k)](https://github.com/airbnb/javascript).
 
 ### Plugins / Frameworks
 
@@ -26,10 +25,10 @@
 
 ### Plugins / Practices and Specific ES Features
 
-*   [fp (⭐954)](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming.
+*   [fp (⭐956)](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming.
 *   [new-with-error (⭐24)](https://github.com/Trott/eslint-plugin-new-with-error) - Require errors to be thrown using `new`.
 *   [no-use-extend-native (⭐54)](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) - Prevent using extended native objects.
-*   [Promise (⭐824)](https://github.com/xjamundx/eslint-plugin-promise) - Best practices when working with promises.
+*   [Promise (⭐832)](https://github.com/xjamundx/eslint-plugin-promise) - Best practices when working with promises.
 *   [this (⭐16)](https://github.com/matijs/eslint-plugin-this) - Write pure functions, don't allow `this`.
 
 ### Plugins / Style
@@ -38,18 +37,14 @@
 
 ### Tools / Testing Tools
 
-*   [eslint-find-rules (⭐191)](https://github.com/sarbbottam/eslint-find-rules) - Find built-in ESLint rules you don't have in your custom config.
+*   [eslint-find-rules (⭐192)](https://github.com/sarbbottam/eslint-find-rules) - Find built-in ESLint rules you don't have in your custom config.
 *   [eslint-index (⭐20)](https://github.com/wagerfield/eslint-index) - CLI for finding and managing rules in ESLint config files.
 *   [eslint-multiplexer (⭐7)](https://github.com/pimlie/eslint-multiplexer) - Multiplex eslint results and merge results for common files.
-*   [eslint-nibble (⭐673)](https://github.com/IanVS/eslint-nibble) - Ease into ESLint, by fixing one rule at a time.
+*   [eslint-nibble (⭐689)](https://github.com/IanVS/eslint-nibble) - Ease into ESLint, by fixing one rule at a time.
 *   [eslint-rule-documentation (⭐29)](https://github.com/jfmengels/eslint-rule-documentation) - Find the url for the documentation of an ESLint rule.
 *   [eslint-watch (⭐189)](https://github.com/rizowski/eslint-watch) - Run ESLint with watch mode.
 *   [codacy-eslint (⭐12)](https://github.com/codacy/codacy-eslint) - Docker used at [Codacy](https://www.codacy.com) to run ESLint.
-*   [esprint (⭐646)](https://github.com/pinterest/esprint) - Run ESLint across multiple threads.
-
-### Developing for ESLint / Testing Tools
-
-*   [eslint-docs (⭐4)](https://github.com/j-f1/eslint-docs) - Keep your rule descriptions up-to-date across the repository.
+*   [esprint (⭐647)](https://github.com/pinterest/esprint) - Run ESLint across multiple threads.
 
 ### Tutorials / Testing Tools
 
@@ -132,7 +127,7 @@
 
 ### Media Centre Applications / Third Party Hosts
 
-*   [Gerbera (⭐970)](https://github.com/gerbera/gerbera) UPnP Media Server for 2018 (Based on MediaTomb)
+*   [Gerbera (⭐1k)](https://github.com/gerbera/gerbera) UPnP Media Server for 2018 (Based on MediaTomb)
 
 ### Plex Scripts and Tools / Third Party Hosts
 
@@ -146,7 +141,7 @@
 
 ### Plex Logging and Metrics / Third Party Hosts
 
-*   [plexWatch (⭐425)](https://github.com/ljunkie/plexWatch) Notify and Log watched content on a Plex Media Server
+*   [plexWatch (⭐427)](https://github.com/ljunkie/plexWatch) Notify and Log watched content on a Plex Media Server
 
 ### ROMs / Third Party Hosts
 
@@ -178,7 +173,7 @@
 
 ### Ripping, Transcoding, Converting, Encoding / Third Party Hosts
 
-*   [sickbeard\_mp4\_automator (⭐1.3k)](https://github.com/mdhiggins/sickbeard_mp4_automator) Automatically convert video files to a standardized mp4 format with proper metadata tagging to create a beautiful and uniform media library
+*   [sickbeard\_mp4\_automator (⭐1.4k)](https://github.com/mdhiggins/sickbeard_mp4_automator) Automatically convert video files to a standardized mp4 format with proper metadata tagging to create a beautiful and uniform media library
 
 ### Cloud Storage / Third Party Hosts
 

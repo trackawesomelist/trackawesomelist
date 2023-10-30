@@ -10,25 +10,25 @@
 
 ### Productivity
 
-*   [Todoist (⭐327)](https://github.com/moranje/alfred-workflow-todoist) - Add tasks to Todoist.
+*   [Todoist (⭐326)](https://github.com/moranje/alfred-workflow-todoist) - Add tasks to Todoist.
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Desktop / Game Engine resources
 
-*   [Golang Desktop Embedder (⭐5.5k)](https://github.com/go-flutter-desktop/go-flutter) <!--stargazers:go-flutter-desktop/go-flutter--> - Golang embedder for desktop by [Pierre Champion](https://github.com/pchampio)
+*   [Golang Desktop Embedder (⭐5.6k)](https://github.com/go-flutter-desktop/go-flutter) <!--stargazers:go-flutter-desktop/go-flutter--> - Golang embedder for desktop by [Pierre Champion](https://github.com/pchampio)
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Web Crawling
 
-*   [Spidr (⭐759)](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
+*   [Spidr (⭐766)](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
 
 ## [4. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Boilerplates
 
-*   [Nitro 🚀 (⭐253)](https://github.com/williamluke4/nitro) - An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗
+*   [Nitro 🚀 (⭐263)](https://github.com/williamluke4/nitro) - An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗
 
 ## [5. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -87,26 +87,26 @@
 
 ### Evaluation
 
-*   [NLG-eval (⭐1.1k)](https://github.com/Maluuba/nlg-eval) - Evaluation code for various unsupervised automated metrics for Natural Language Generation.
-*   [VizSeq (⭐411)](https://github.com/facebookresearch/vizseq) - A Visual Analysis Toolkit for Text Generation Tasks.
+*   [NLG-eval (⭐1.2k)](https://github.com/Maluuba/nlg-eval) - Evaluation code for various unsupervised automated metrics for Natural Language Generation.
+*   [VizSeq (⭐434)](https://github.com/facebookresearch/vizseq) - A Visual Analysis Toolkit for Text Generation Tasks.
 
 ### Grammar
 
 *   [GrammaticalFramework](http://www.grammaticalframework.org/) - A programming language for multilingual grammar applications.
-*   [CCGweb (⭐5)](https://github.com/texttheater/ccgweb) - A Web platform for parsing and annotation.
+*   [CCGweb (⭐6)](https://github.com/texttheater/ccgweb) - A Web platform for parsing and annotation.
 
 ### Narrative Generation
 
-*   [Tracery (⭐2k)](https://github.com/galaxykate/tracery) - A story-grammar generation library for JavaScript.
+*   [Tracery (⭐2.1k)](https://github.com/galaxykate/tracery) - A story-grammar generation library for JavaScript.
 
 ### Neural Natural Language Generation
 
-*   [Image Caption Generator (⭐144)](https://github.com/neural-nuts/image-caption-generator) - A Neural Network based generative model for captioning images using Tensorflow.
-*   [Summary Generation From Structured Data (⭐185)](https://github.com/akanimax/natural-language-summary-generation-from-structured-data) - For converting information present in the form of structured data into natural language text.
+*   [Image Caption Generator (⭐145)](https://github.com/neural-nuts/image-caption-generator) - A Neural Network based generative model for captioning images using Tensorflow.
+*   [Summary Generation From Structured Data (⭐183)](https://github.com/akanimax/natural-language-summary-generation-from-structured-data) - For converting information present in the form of structured data into natural language text.
 
 ### Products
 
-*   [Accelerated Text (⭐669)](https://github.com/tokenmill/accelerated-text) - Automatically generate multiple natural language descriptions of your data varying in wording and structure.
+*   [Accelerated Text (⭐734)](https://github.com/tokenmill/accelerated-text) - Automatically generate multiple natural language descriptions of your data varying in wording and structure.
 *   [Twine](http://twinery.org/) - An open-source tool for telling interactive, nonlinear stories.
 
 ### Realizers
@@ -115,8 +115,8 @@
 
 ### Templating Languages
 
-*   [calyx (⭐59)](https://github.com/maetl/calyx) - A Ruby library for generating text with recursive template grammars.
-*   [nalgene (⭐55)](https://github.com/spro/nalgene) - Natural language generation language.
+*   [calyx (⭐60)](https://github.com/maetl/calyx) - A Ruby library for generating text with recursive template grammars.
+*   [nalgene (⭐54)](https://github.com/spro/nalgene) - Natural language generation language.
 *   [StringTemplate](https://www.stringtemplate.org/) - Java template engine (with ports for C##, Objective-C, JavaScript, Scala) for generating source code, web pages, emails, or any other formatted text output.
 
 ## [8. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
@@ -142,33 +142,33 @@
 ### Asynchronous Programming
 
 *   [asyncio](https://docs.python.org/3/library/asyncio.html) - (Python standard library) Asynchronous I/O, event loop, coroutines and tasks.
-    *   [awesome-asyncio (⭐3.9k)](https://github.com/timofurrer/awesome-asyncio)
+    *   [awesome-asyncio (⭐4.1k)](https://github.com/timofurrer/awesome-asyncio)
 *   [Twisted](https://twistedmatrix.com/trac/) - An event-driven networking engine.
 
 ### Network Virtualization
 
-*   [pox (⭐598)](https://github.com/noxrepo/pox) - A Python-based SDN control applications, such as OpenFlow SDN controllers.
+*   [pox (⭐601)](https://github.com/noxrepo/pox) - A Python-based SDN control applications, such as OpenFlow SDN controllers.
 
 ### Processes
 
-*   [delegator.py (⭐1.6k)](https://github.com/amitt001/delegator.py) - [Subprocesses](https://docs.python.org/3/library/subprocess.html) for Humans 2.0.
+*   [delegator.py (⭐1.7k)](https://github.com/amitt001/delegator.py) - [Subprocesses](https://docs.python.org/3/library/subprocess.html) for Humans 2.0.
 
 ### RESTful API
 
 *   Framework agnostic
     *   [apistar (⭐5.6k)](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3.
-    *   [falcon (⭐9k)](https://github.com/falconry/falcon) - A high-performance framework for building cloud APIs and web app backends.
-    *   [fastapi (⭐56k)](https://github.com/tiangolo/fastapi) - A modern, fast, web framework for building APIs with Python 3.6+ based on standard Python type hints.
+    *   [falcon (⭐9.2k)](https://github.com/falconry/falcon) - A high-performance framework for building cloud APIs and web app backends.
+    *   [fastapi (⭐60k)](https://github.com/tiangolo/fastapi) - A modern, fast, web framework for building APIs with Python 3.6+ based on standard Python type hints.
     *   [hug (⭐6.7k)](https://github.com/hugapi/hug) - A Python 3 framework for cleanly exposing APIs.
-    *   [sandman2 (⭐1.9k)](https://github.com/jeffknupp/sandman2) - Automated REST APIs for existing database-driven systems.
+    *   [sandman2 (⭐2k)](https://github.com/jeffknupp/sandman2) - Automated REST APIs for existing database-driven systems.
     *   [sanic (⭐17k)](https://github.com/huge-success/sanic) - A Python 3.6+ web server and web framework that's written to go fast.
     *   [vibora](https://vibora.io/) - Fast, efficient and asynchronous Web framework inspired by Flask.
 
 ### Task Queues
 
-*   [huey (⭐4.4k)](https://github.com/coleifer/huey) - Little multi-threaded task queue.
-*   [mrq (⭐874)](https://github.com/pricingassistant/mrq) - A distributed worker task queue in Python using Redis & gevent.
-*   [rq (⭐8.8k)](https://github.com/rq/rq) - Simple job queues for Python.
+*   [huey (⭐4.5k)](https://github.com/coleifer/huey) - Little multi-threaded task queue.
+*   [mrq (⭐873)](https://github.com/pricingassistant/mrq) - A distributed worker task queue in Python using Redis & gevent.
+*   [rq (⭐9k)](https://github.com/rq/rq) - Simple job queues for Python.
 
 ### Web Frameworks
 
@@ -178,14 +178,14 @@
 ### WebSocket
 
 *   [channels (⭐5.6k)](https://github.com/django/channels) - Developer-friendly asynchrony for Django.
-*   [websockets (⭐4.5k)](https://github.com/aaugustin/websockets) - A library for building WebSocket servers and clients with a focus on correctness and simplicity.
+*   [websockets (⭐4.6k)](https://github.com/aaugustin/websockets) - A library for building WebSocket servers and clients with a focus on correctness and simplicity.
 
 ### WSGI Servers
 
 *   [bjoern (⭐2.9k)](https://github.com/jonashaag/bjoern) - Asynchronous, very fast and written in C.
 *   [uWSGI](https://uwsgi-docs.readthedocs.io/en/latest/) - A project aims at developing a full stack for building hosting services, written in C.
-*   [waitress (⭐1.2k)](https://github.com/Pylons/waitress) - Multi-threaded, powers Pyramid.
-*   [werkzeug (⭐6.3k)](https://github.com/pallets/werkzeug) - A WSGI utility library for Python that powers Flask and can easily be embedded into your own projects.
+*   [waitress (⭐1.3k)](https://github.com/Pylons/waitress) - Multi-threaded, powers Pyramid.
+*   [werkzeug (⭐6.4k)](https://github.com/pallets/werkzeug) - A WSGI utility library for Python that powers Flask and can easily be embedded into your own projects.
 
 ## [12. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 

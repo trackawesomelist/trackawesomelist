@@ -14,7 +14,7 @@
 
 ### MVVM
 
-*   [Community Toolkit](https://github.com/CommunityToolkit) - Collection of control & helper libraries and samples for various .NET technologies. Contains modern MVVM library, supported by Microsoft. Includes [Windows Community Toolkit (⭐5.5k)](https://github.com/CommunityToolkit/WindowsCommunityToolkit), [MAUI Community Toolkit (⭐1.5k)](https://github.com/CommunityToolkit/Maui), and [Dotnet Community Toolkit (⭐2.1k)](https://github.com/CommunityToolkit/dotnet).
+*   [Community Toolkit](https://github.com/CommunityToolkit) - Collection of control & helper libraries and samples for various .NET technologies. Contains modern MVVM library, supported by Microsoft. Includes [Windows Community Toolkit (⭐5.7k)](https://github.com/CommunityToolkit/WindowsCommunityToolkit), [MAUI Community Toolkit (⭐1.8k)](https://github.com/CommunityToolkit/Maui), and [Dotnet Community Toolkit (⭐2.4k)](https://github.com/CommunityToolkit/dotnet).
 
 ## [2. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
@@ -30,14 +30,14 @@
 
 ### Libraries/Frameworks / Graphics
 
-*   [JetBrains/skiko (⭐1.4k)](https://github.com/JetBrains/skiko) - Kotlin Multiplatform bindings to Skia
+*   [JetBrains/skiko (⭐1.6k)](https://github.com/JetBrains/skiko) - Kotlin Multiplatform bindings to Skia
 
 ## [4. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ### Command-Line Productivity
 
-*   [sshrc (⭐123)](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH
-*   [zoxide (⭐9.1k)](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
+*   [sshrc (⭐163)](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH.
+*   [zoxide (⭐12k)](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
 
 ## [5. Awesome Captcha](/content/ZYSzys/awesome-captcha/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Contents / Libraries
 
-*   [Nano Stores (⭐3.2k)](https://github.com/nanostores/nanostores) - A tiny (199 bytes) state manager with many atomic tree-shakable stores.
+*   [Nano Stores (⭐3.9k)](https://github.com/nanostores/nanostores) - A tiny (199 bytes) state manager with many atomic tree-shakable stores.
 
 ## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -73,14 +73,14 @@
 
 ### Design Inspiration
 
-*   [awwwards.](https://www.awwwards.com/) - \[Top websites] A showcases of all the best designed websites (voted on by designers).
+*   [awwwards.](https://www.awwwards.com/) - \[Top websites] A showcase of all the best-designed websites (voted on by designers).
 *   [Behance](https://www.behance.net/) - \[Design showcase] A place where designers showcase their work. Filterable with categories for UI/UX projects.
 *   [dribbble](https://dribbble.com/) - \[Design showcase] Unique design inspiration, generally not from real applications.
 *   [Mobbin](https://mobbin.design/) - \[Mobile screenshots] Save hours of UI & UX research with our library of 50,000+ fully searchable mobile app screenshots.
-*   [Mobile Patterns](https://www.mobile-patterns.com/) - \[Mobile screenshots] A design inspirational library featuring finest UI UX Patterns (iOS and Android) for designers, developers, and product makers to reference.
+*   [Mobile Patterns](https://www.mobile-patterns.com/) - \[Mobile screenshots] A design inspirational library featuring the finest UI UX Patterns (iOS and Android) for designers, developers, and product makers to reference.
 *   [Screenlane](https://screenlane.com/) - \[Mobile screenshots] Get inspired and keep up with the latest web & mobile app UI design trends. Filterable by pattern and app.
 *   [scrnshts](https://scrnshts.club/) - \[Mobile screenshots] A hand-picked collection of the finest app store design screenshots.
-*   [UI Garage](https://uigarage.net/) - \[Mobile and web screenshots] Daily UI inspiration & patterns for designers, developers to find inspiration, tools and the best resources for your project.
+*   [UI Garage](https://uigarage.net/) - \[Mobile and web screenshots] Daily UI inspiration & patterns for designers and developers to find inspiration, tools, and the best resources for your project.
 
 ## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Contents / Frameworks
 
-*   [FHIR Server for Azure (⭐988)](https://github.com/Microsoft/fhir-server) - A .NET Core implementation of the FHIR standard.
+*   [FHIR Server for Azure (⭐1k)](https://github.com/Microsoft/fhir-server) - A .NET Core implementation of the FHIR standard.
 
 ## [3. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
 
@@ -49,14 +49,14 @@
 
 ### Binlog-Replication
 
-*   [Kingbus (⭐856)](https://github.com/flike/kingbus) - A distributed MySQL binlog storage system built on Raft
-*   [mysql-ripple (⭐367)](https://github.com/google/mysql-ripple) - Ripple, a server that can serve as a middleman in MySQL replication
+*   [Kingbus (⭐877)](https://github.com/flike/kingbus) - A distributed MySQL binlog storage system built on Raft
+*   [mysql-ripple (⭐371)](https://github.com/google/mysql-ripple) - Ripple, a server that can serve as a middleman in MySQL replication
 
 ## [5. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
-*   [Node.js (⭐51k)](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
+*   [Node.js (⭐53k)](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
     *   [Cross-Platform (⭐1.1k)](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
 
 ## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
@@ -69,14 +69,14 @@
 
 ### ORM/ODM Extensions
 
-*   [rethinkdb-orm (⭐25)](https://github.com/spider-gazelle/rethinkdb-orm) - ORM for RethinkDB / RebirthDB
+*   [rethinkdb-orm (⭐24)](https://github.com/spider-gazelle/rethinkdb-orm) - ORM for RethinkDB / RebirthDB
 
 ## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
-### Atom / Third-party APIs
+### Atom, Pulsar / Third-party APIs
 
-*   [SLIMA (⭐62)](https://github.com/neil-lindquist/slima) allows you to
-    interactively develop Common Lisp code, turning Atom into a
+*   [SLIMA (⭐63)](https://github.com/neil-lindquist/slima) allows you to
+    interactively develop Common Lisp code, turning Atom (or now Pulsar) into a
     pretty good, and actively developped, Lisp IDE. [MIT](https://opensource.org/licenses/MIT).
 
 ## [9. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
@@ -89,11 +89,11 @@
 
 ### Boilerplates
 
-*   [Swift Module Template (⭐425)](https://github.com/fulldecent/swift5-module-template) - An opinionated starting point for awesome, reusable modules.
+*   [Swift Module Template (⭐434)](https://github.com/fulldecent/swift5-module-template) - An opinionated starting point for awesome, reusable modules.
 
 ### Key Value Store
 
-*   [SecureDefaults (⭐220)](https://github.com/vpeschenkov/SecureDefaults) - A lightweight wrapper over UserDefaults & NSUserDefaults with an extra AES-256 encryption layer.
+*   [SecureDefaults (⭐223)](https://github.com/vpeschenkov/SecureDefaults) - A lightweight wrapper over UserDefaults & NSUserDefaults with an extra AES-256 encryption layer.
 
 ---
 

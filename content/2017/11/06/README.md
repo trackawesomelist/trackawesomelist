@@ -74,8 +74,8 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 *   [basic\_auth (⭐164)](https://github.com/CultivateHQ/basic_auth) - Elixir Plug to easily add HTTP basic authentication to an app.
 *   [oauth2\_facebook (⭐4)](https://github.com/chrislaskey/oauth2_facebook) - A Facebook OAuth2 Provider for Elixir.
 *   [oauth2\_github (⭐2)](https://github.com/chrislaskey/oauth2_github) - A GitHub OAuth2 Provider for Elixir.
-*   [phauxth (⭐414)](https://github.com/riverrun/phauxth) - Authentication library for Phoenix 1.3 and other Plug-based apps.
-*   [samly (⭐117)](https://github.com/handnot2/samly) - SAML SP SSO made easy ([Doc](https://hexdocs.pm/samly/readme.html)).
+*   [phauxth (⭐413)](https://github.com/riverrun/phauxth) - Authentication library for Phoenix 1.3 and other Plug-based apps.
+*   [samly (⭐120)](https://github.com/handnot2/samly) - SAML SP SSO made easy ([Doc](https://hexdocs.pm/samly/readme.html)).
 
 ### Command Line Applications
 
@@ -84,41 +84,41 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 ### Deployment
 
 *   [elixir-on-docker (⭐168)](https://github.com/CrowdHailer/elixir-on-docker) - A project template to get started developing clustered Elixir applications for cloud environments.
-*   [exreleasy (⭐12)](https://github.com/miros/exreleasy) - Dead simple and Mix friendly tool for releasing Elixir applications.
+*   [exreleasy (⭐13)](https://github.com/miros/exreleasy) - Dead simple and Mix friendly tool for releasing Elixir applications.
 
 ### Documentation
 
-*   [blue\_bird (⭐54)](https://github.com/KittyHeaven/blue_bird) - BlueBird is a library written in the Elixir programming language for the Phoenix framework. It lets you generate API documentation in the API Blueprint format from annotations in controllers and automated tests.
+*   [blue\_bird (⭐55)](https://github.com/KittyHeaven/blue_bird) - BlueBird is a library written in the Elixir programming language for the Phoenix framework. It lets you generate API documentation in the API Blueprint format from annotations in controllers and automated tests.
 
 ### ECMAScript
 
-*   [phoenix\_routes\_js (⭐19)](https://github.com/khusnetdinov/phoenix_routes_js) - Phoenix routes helpers in JavaScript code and browser console.
+*   [phoenix\_routes\_js (⭐20)](https://github.com/khusnetdinov/phoenix_routes_js) - Phoenix routes helpers in JavaScript code and browser console.
 
 ### Framework Components
 
-*   [better\_params (⭐94)](https://github.com/sheharyarn/better_params) - Elixir Plug for cleaner request params in web apps.
+*   [better\_params (⭐96)](https://github.com/sheharyarn/better_params) - Elixir Plug for cleaner request params in web apps.
 *   [plug\_password (⭐10)](https://github.com/azranel/plug_password) - Plug for adding simple cookie-based authentication.
 
 ### HTTP
 
 *   [Ace (⭐305)](https://github.com/CrowdHailer/Ace) - HTTP web server and client, supports http1 and http2.
-*   [Crawler (⭐876)](https://github.com/fredwu/crawler) - A high performance web crawler in Elixir.
+*   [Crawler (⭐897)](https://github.com/fredwu/crawler) - A high performance web crawler in Elixir.
 
 ### Miscellaneous
 
-*   [ex\_phone\_number (⭐220)](https://github.com/socialpaymentsbv/ex_phone_number) - Format, normalize, and validate phone numbers.
+*   [ex\_phone\_number (⭐229)](https://github.com/socialpaymentsbv/ex_phone_number) - Format, normalize, and validate phone numbers.
 
 ### ORM and Datamapping
 
-*   [triplex (⭐395)](https://github.com/ateliware/triplex) - Database multitenancy with postgres schemas for Elixir applications.
+*   [triplex (⭐406)](https://github.com/ateliware/triplex) - Database multitenancy with postgres schemas for Elixir applications.
 
 ### Queue
 
-*   [opq (⭐225)](https://github.com/fredwu/opq) - A simple, in-memory queue with worker pooling and rate limiting in Elixir.
+*   [opq (⭐242)](https://github.com/fredwu/opq) - A simple, in-memory queue with worker pooling and rate limiting in Elixir.
 
 ### Testing
 
-*   [chaperon (⭐109)](https://github.com/polleverywhere/chaperon) - An HTTP service performance & load testing framework written in Elixir.
+*   [chaperon (⭐113)](https://github.com/polleverywhere/chaperon) - An HTTP service performance & load testing framework written in Elixir.
 
 ### Third Party APIs
 
@@ -126,7 +126,7 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ### Utilities
 
-*   [async\_with (⭐153)](https://github.com/fertapric/async_with) - A modifier for Elixir's "with" to execute all its clauses in parallel.
+*   [async\_with (⭐154)](https://github.com/fertapric/async_with) - A modifier for Elixir's "with" to execute all its clauses in parallel.
 
 ### Books
 
@@ -151,18 +151,18 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ### Development / Mobile Development
 
-*   [deviceframe (⭐554)](https://github.com/c0bra/deviceframe) - Put device frames around your mobile/web/progressive app screenshots.
+*   [deviceframe (⭐558)](https://github.com/c0bra/deviceframe) - Put device frames around your mobile/web/progressive app screenshots.
 
 ## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Machine Learning
 
-*   [RNNLIB (⭐886)](https://github.com/szcom/rnnlib) - RNNLIB is a recurrent neural network library for sequence learning problems. \[GPLv3]
+*   [RNNLIB (⭐885)](https://github.com/szcom/rnnlib) - RNNLIB is a recurrent neural network library for sequence learning problems. \[GPLv3]
 
 ### Math
 
-*   [CGAL (⭐3.9k)](https://github.com/CGAL/cgal) - Collection of efficient and reliable geometric algorithms. \[LGPL\&GPL] [website](http://www.cgal.org/)
-*   [linmath.h (⭐780)](https://github.com/datenwolf/linmath.h) - A lean linear math library, aimed at graphics programming. \[WTFPL]
+*   [CGAL (⭐4.2k)](https://github.com/CGAL/cgal) - Collection of efficient and reliable geometric algorithms. \[LGPL\&GPL] [website](http://www.cgal.org/)
+*   [linmath.h (⭐825)](https://github.com/datenwolf/linmath.h) - A lean linear math library, aimed at graphics programming. \[WTFPL]
 
 ### PDF
 
@@ -174,25 +174,25 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ### Mumbai
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jayeshkattar" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/jayeshkattar" height="70px" width="70px" align="left" alt="" />
 
 **Jayesh Katta Ramalingaiah**\
 Topics: Rust, Android, Angular, React, Web VR, Project Things, Common Voice, Web Compatibility\
 <https://twitter.com/jayeshkattar>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/manjula_dube" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/manjula_dube" height="70px" width="70px" align="left" alt="" />
 
 **Manjula Dube**\
 Topics: JavaScript, React, Progressive Web Apps, Node, Testing\
 <https://twitter.com/manjula_dube>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/neeharv" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/neeharv" height="70px" width="70px" align="left" alt="" />
 
 **Neehar Venugopal**\
 Topics: Code Splitting, Standards\
 <https://twitter.com/neeharv>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/chatsidhartha" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/chatsidhartha" height="70px" width="70px" align="left" alt="" />
 
 **Sidhartha Chatterjee**\
 Topics: React, Progressive Web Apps, Web Performance\
@@ -202,19 +202,19 @@ Topics: React, Progressive Web Apps, Web Performance\
 
 ### Singapore
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/renettarenula" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/renettarenula" height="70px" width="70px" align="left" alt="" />
 
 **Aysha Anggraini**\
 Topics: CSS, Animations\
 <https://twitter.com/renettarenula>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/hj_chen" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/hj_chen" height="70px" width="70px" align="left" alt="" />
 
 **Chen Hui Jing**\
 Topics: CSS\
 <https://twitter.com/hj_chen>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/zellwk" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/zellwk" height="70px" width="70px" align="left" alt="" />
 
 **Zell Liew**\
 Topics: CSS, JavaScript\
@@ -224,27 +224,27 @@ Topics: CSS, JavaScript\
 
 ### Carlsbad
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mjackson" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/mjackson" height="70px" width="70px" align="left" alt="" />
 
 **Michael Jackson**\
 Topics: React, JavaScript, React Router\
 <https://twitter.com/mjackson>
 ### Nashville
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/Aimee_Knight" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/Aimee_Knight" height="70px" width="70px" align="left" alt="" />
 
 **Aimee Knight**\
 Topics: JavaScript, CSS, Angular, Growing Junior Developers\
 <https://twitter.com/Aimee_Knight>
 ### New Orleans
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/GantLaborde" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/GantLaborde" height="70px" width="70px" align="left" alt="" />
 
 **Gant Laborde**\
 Topics: JavaScript, React Native, Leadership, Redux, Open Source, Tooling, Public Speaking\
 <https://twitter.com/GantLaborde>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/thegreengreek" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/thegreengreek" height="70px" width="70px" align="left" alt="" />
 
 **Sia Karamalegos**\
 Topics: React, JavaScript, React Native, Front-End Performance\
@@ -254,7 +254,7 @@ Topics: React, JavaScript, React Native, Front-End Performance\
 
 ### Buenos Aires
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/evaferreira92" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/evaferreira92" height="70px" width="70px" align="left" alt="" />
 
 **Evangelina Ferreira**\
 Topics: CSS, Animations\

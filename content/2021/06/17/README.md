@@ -26,31 +26,27 @@
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-### Software / Blogging Platforms
+### Software / Resource Planning
 
-*   [htmly](https://www.htmly.com/) - Databaseless Blogging Platform (Flat-File Blog). ([Demo](https://demo.htmly.com/), [Source Code (⭐909)](https://github.com/danpros/htmly)) `GPL-2.0` `PHP`
-
-### Software / Resource Planning - Enterprise Resource Planning
-
-*   [ERPNext](https://erpnext.com) - Free open source ERP system. ([Source Code (⭐14k)](https://github.com/frappe/erpnext)) `GPL-3.0` `Python`
+*   [ERPNext](https://erpnext.com) - Free open source ERP system. ([Source Code (⭐15k)](https://github.com/frappe/erpnext)) `GPL-3.0` `Python/Docker`
 
 ## [5. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### ORM / Database / Datamapping
 
-*   [Icings/Partitionable plugin](https://github.com/icings/partitionable) - Partitionable associations allowing for basic limiting per group.
+*   🍰 [Icings/Partitionable plugin (⭐15)](https://github.com/icings/partitionable) - Partitionable associations allowing for basic limiting per group.
 
 ## [6. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### JavaScript / FrameWorks
 
-*   [portfolio-allocation (⭐160)](https://github.com/lequant40/portfolio_allocation_js) - PortfolioAllocation is a JavaScript library designed to help constructing financial portfolios made of several assets: bonds, commodities, cryptocurrencies, currencies, exchange traded funds (ETFs), mutual funds, stocks...
+*   [portfolio-allocation (⭐165)](https://github.com/lequant40/portfolio_allocation_js) - PortfolioAllocation is a JavaScript library designed to help constructing financial portfolios made of several assets: bonds, commodities, cryptocurrencies, currencies, exchange traded funds (ETFs), mutual funds, stocks...
 
 ## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-externals (⭐134)](https://github.com/crcong/vite-plugin-externals) - Exclude dependencies from the output bundles.
+*   [vite-plugin-externals (⭐146)](https://github.com/crcong/vite-plugin-externals) - Exclude dependencies from the output bundles.
 
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -65,31 +61,25 @@
 
 ### Components & Libraries / Frameworks
 
-*   [vuestic-ui (⭐2.7k)](https://github.com/epicmaxco/vuestic-ui) - A Vue.js 3.0 UI customizable UI Framework.
+*   [vuestic-ui (⭐3.1k)](https://github.com/epicmaxco/vuestic-ui) - A Vue.js 3.0 UI customizable UI Framework.
 
 ## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Layout
 
-*   [MondrianLayout (⭐154)](https://github.com/muukii/MondrianLayout) - A DSL based layout builder for AutoLayout.
+*   [MondrianLayout (⭐157)](https://github.com/muukii/MondrianLayout) - A DSL based layout builder for AutoLayout.
 
 ## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Web
 
-*   [jwstegemann/fritz2 (⭐513)](https://github.com/jwstegemann/fritz2) - small lib to build reactive web-apps in pure Kotlin based on Flows
+*   [jwstegemann/fritz2 (⭐561)](https://github.com/jwstegemann/fritz2) - small lib to build reactive web-apps in pure Kotlin based on Flows
 
-## [11. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
-
-### Apps
-
-*   [youtube2ipfs](https://pypi.org/project/youtube2ipfs/) - Download videos from YouTube (and similar video platforms) and add them to IPFS. [Source (⭐14)](https://github.com/dokterbob/youtube2ipfs)
-
-## [12. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [11. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Web / Development
 
-*   [TFSec (⭐5.9k)](https://github.com/tfsec/tfsec/) - A static analysis tool for infrastucture as code (Terraform).
+*   [TFSec (⭐6.3k)](https://github.com/tfsec/tfsec/) - A static analysis tool for infrastucture as code (Terraform).
 
 ### Operating Systems / Privacy & Security
 
@@ -97,7 +87,13 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Security Talks & Videos (⭐3.8k)](https://github.com/PaulSec/awesome-sec-talks) - A curated list of awesome security talks, organized by year and then conference.
+*   [Awesome Security Talks & Videos (⭐3.9k)](https://github.com/PaulSec/awesome-sec-talks) - A curated list of awesome security talks, organized by year and then conference.
+
+## [12. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Python / Django
+
+*   [Test-Driven Development With Python And Django](http://www.obeythetestinggoat.com/pages/book.html) (1.11)
 
 ## [13. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
@@ -109,7 +105,7 @@
 
 ### Development
 
-- API: [Ciprand (⭐3)](https://github.com/polarspetroll/ciprand)
+- API: [Ciprand (⭐6)](https://github.com/polarspetroll/ciprand)
 
   Description: Secure random string generator
 
@@ -125,7 +121,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [dracula/vim (⭐1.2k)](https://github.com/dracula/vim) - Famous beautiful dark powered theme.
+*   [dracula/vim (⭐1.3k)](https://github.com/dracula/vim) - Famous beautiful dark powered theme.
 
 ## [16. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

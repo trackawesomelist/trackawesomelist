@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 28 - Jan 03, 2020
 
-50 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -67,19 +67,13 @@
 
 *   [Cheminformatics OLCC](https://chem.libretexts.org/Courses/Intercollegiate_Courses/Cheminformatics_OLCC_\(2019\)) - Cheminformatics course of the Collaborative Intercollegiate Online Chemistry Course (OLCC) course of University of Arkansas at Little Rock by Robert Belford
 
-## [5. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
-
-### Closed Source / Other
-
-*   [Coloban](https://www.coloban.com) - All-in-one project management tool with chats, Kanban, Gantt, calls, screenshare, and more.
-
-## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Go / General-Purpose Machine Learning
 
-*   [go-featureprocessing (⭐96)](https://github.com/nikolaydubina/go-featureprocessing) - Fast and convenient feature processing for low latency machine learning in Go.
+*   [go-featureprocessing (⭐101)](https://github.com/nikolaydubina/go-featureprocessing) - Fast and convenient feature processing for low latency machine learning in Go.
 
-## [7. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [6. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Data Formats
 
@@ -98,31 +92,31 @@
 *   [writexl](https://docs.ropensci.org/writexl/) - Portable, light-weight data frame to xlsx exporter for R.
 *   [yaml (⭐138)](https://github.com/viking/r-yaml) - R package for converting objects to and from YAML.
 
-## [8. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [7. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Canvas / Examples
 
 *   [PixelCraft (⭐956)](https://github.com/rgab1508/PixelCraft) • A pixel-art editor made using canvas
 
-## [9. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [8. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
 *   [Brown Girl, Tech World](https://www.browngirltech.world/) - Digital safe space and non profit organization for brown women & girls navigating the tech industry.
 
-## [10. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [9. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Online tools
 
 *   [JSONPerf](https://jsonperf.com) - A Visual, Unbiased and Up-to-Date JSON Performance Benchmark.
 
-## [11. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [10. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Notification
 
-*   [react-hot-toast (⭐7k)](https://github.com/timolins/react-hot-toast) - [demo](https://react-hot-toast.com/) - Smoking hot Notifications for React. Lightweight, customizable and beautiful by default.
+*   [react-hot-toast (⭐8.3k)](https://github.com/timolins/react-hot-toast) - [demo](https://react-hot-toast.com/) - Smoking hot Notifications for React. Lightweight, customizable and beautiful by default.
 
-## [12. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [11. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Sensor Processing / Image Processing
 
@@ -136,19 +130,19 @@
 
 *   [K3D-tools](https://github.com/K3D-tools) - Jupyter notebook extension for 3D visualization.
 
-## [13. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [12. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Natural Language Processing (NLP)
 
 *   [Tongue (⭐17)](https://github.com/dannote/tongue) - Elixir port of Nakatani Shuyo's natural language detector.
 
-## [14. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
+## [13. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
 ### Tools / Editors
 
 *   [PixelCraft](https://rgab1508.github.io/PixelCraft/) - Open source and free, works in the browser. Easy to try out in the browser and as a PWA offline.
 
-## [15. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [14. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
@@ -162,7 +156,7 @@
 
 
 
-## [16. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [15. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Education
 
@@ -176,19 +170,19 @@
 
 
 
-## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Menu Bar Tools
 
 *   [Hue in the Menu](https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384) - Philips Hue light management in the menu bar with multi-room support. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [18. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
+## [17. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
 
 ### Databases
 
 *   [Shaw et al. 2020](https://figshare.com/articles/The_phylogenetic_range_of_bacterial_and_viral_pathogens_of_vertebrates_dataset_and_supplementary_material/8262779) - A human-curated database of 12,212 host-pathogen associations: 2,595 bacterial and viral pathogens infecting 2,656 vertebrate host species across 90 host orders. It also contains a mitochondrial genome phylogeny for the host species. [Analysis](https://onlinelibrary.wiley.com/doi/10.1111/mec.15463) published in Molecular Ecology.
 
-## [19. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [18. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Books / Visualization Tools
 
@@ -202,31 +196,31 @@
 
 ### Datasets / Book Deals (Affiliated) 🛍
 
-*   [5000 Images of Clothes (⭐77)](https://github.com/alexeygrigorev/clothing-dataset)
+*   [5000 Images of Clothes (⭐84)](https://github.com/alexeygrigorev/clothing-dataset)
 
 ### Other Awesome Lists / Book Deals (Affiliated) 🛍
 
-*   [Data Science Interviews Questions (⭐7.5k)](https://github.com/alexeygrigorev/data-science-interviews)
+*   [Data Science Interviews Questions (⭐7.8k)](https://github.com/alexeygrigorev/data-science-interviews)
 
-## [20. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
-*   [cpp-terminal (⭐337)](https://github.com/jupyter-xeus/cpp-terminal) - Small header only C++ library for writing multiplatform terminal applications. \[MIT]
-*   [FTXUI (⭐4.5k)](https://github.com/ArthurSonzogni/FTXUI) - C++ Functional Terminal User Interface. \[MIT]
-*   [imtui (⭐2.4k)](https://github.com/ggerganov/imtui) - Immediate Mode Text-based User Interface. \[MIT]
+*   [cpp-terminal (⭐390)](https://github.com/jupyter-xeus/cpp-terminal) - Small header only C++ library for writing multiplatform terminal applications. \[MIT]
+*   [FTXUI (⭐5.3k)](https://github.com/ArthurSonzogni/FTXUI) - C++ Functional Terminal User Interface. \[MIT]
+*   [imtui (⭐2.6k)](https://github.com/ggerganov/imtui) - Immediate Mode Text-based User Interface. \[MIT]
 
 ### Graphics
 
-*   [C-Turtle (⭐48)](https://github.com/walkerje/C-Turtle) - A C++11 header-only turtle graphics library acting as a CImg wrapper. \[MIT]
+*   [C-Turtle (⭐50)](https://github.com/walkerje/C-Turtle) - A C++11 header-only turtle graphics library acting as a CImg wrapper. \[MIT]
 
 ### Multimedia
 
-*   [libass (⭐764)](https://github.com/libass/libass) - Portable subtitle renderer for the ASS/SSA subtitle format. \[ISC]
+*   [libass (⭐812)](https://github.com/libass/libass) - Portable subtitle renderer for the ASS/SSA subtitle format. \[ISC]
 
 ### Networking
 
-*   [CppServer (⭐1.1k)](https://github.com/chronoxor/CppServer) - Ultra fast and low latency asynchronous socket server & client C++ library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution. \[MIT]
+*   [CppServer (⭐1.2k)](https://github.com/chronoxor/CppServer) - Ultra fast and low latency asynchronous socket server & client C++ library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution. \[MIT]
 
 ### Physics
 
@@ -234,12 +228,12 @@
 
 ### Serialization
 
-*   [Bitsery (⭐831)](https://github.com/fraillt/bitsery) - Header only C++ binary serialization library. \[MIT]
-*   [FastBinaryEncoding (⭐695)](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift. \[MIT]
+*   [Bitsery (⭐900)](https://github.com/fraillt/bitsery) - Header only C++ binary serialization library. \[MIT]
+*   [FastBinaryEncoding (⭐736)](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift. \[MIT]
 
 ### Web Application Framework
 
-*   [oat++ (⭐6.5k)](https://github.com/oatpp/oatpp) - Light, zero-dependency framework to create high-performance web-services. \[Apache-2.0] [website](https://oatpp.io/)
+*   [oat++ (⭐6.9k)](https://github.com/oatpp/oatpp) - Light, zero-dependency framework to create high-performance web-services. \[Apache-2.0] [website](https://oatpp.io/)
 
 ### Online Compiler
 
@@ -249,7 +243,7 @@
 
 *   [Fluent C++](https://www.fluentcpp.com/)
 
-## [21. Awesome Cytodata](/content/cytodata/awesome-cytodata/week/README.md)
+## [20. Awesome Cytodata](/content/cytodata/awesome-cytodata/week/README.md)
 
 ### Publications / Reviews
 
@@ -259,7 +253,7 @@
 
 *   [Expanding the antibacterial selectivity of polyether ionophore antibiotics through diversity-focused semisynthesis](https://rdcu.be/ccBFH) - Poulsen lab paper from 2020 where antibiotics are tested for their ability to leave mammalian cells as intact as possible, per the Cell Painting assay.
 
-## [22. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [21. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Integration
 
@@ -278,7 +272,7 @@
     *   [The White Rabbit (⭐90)](https://github.com/viartemev/the-white-rabbit) - An asynchronous RabbitMQ (AMQP) client based on Kotlin coroutines.
     *   [WAMP Broker (⭐2)](https://github.com/i22-digitalagentur/vertx-wamp) - A WAMP broker you can embed into your Vert.x application.
 
-## [23. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
+## [22. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
 
 ### Commercial Libraries
 
@@ -302,7 +296,7 @@
 *   [vx](https://vx-demo.now.sh/) collection of reusable low-level visualization components, on top of d3
 *   [react-muze (⭐15)](https://github.com/chartshq/react-muze) - React wrapper for [muze](https://muzejs.org/) (free data visualization library for creating exploratory data visualizations in browser, using WebAssembly)
 
-## [24. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [23. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### General Libraries
 
@@ -335,7 +329,7 @@
 *   [Better Translation Manager](https://bitbucket.org/anders_melander/better-translation-manager). `[Delphi]` Translation Manager
 *   [dzBdsLauncher](https://osdn.net/projects/dzbdslauncher/). `[Delphi]` Launcher for the Delphi IDE that decides which of multiple IDEs to launch based on the suffix of the dproj file passed to it.
 
-## [25. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [24. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Emulators / Experimental/Proof of Concepts
 
@@ -349,35 +343,35 @@
 
 *   [gbdk-lib-extension (⭐11)](https://github.com/ProGM/gbdk-lib-extension) - A small set of sources and tools for the Game Boy Development Kit by Michael Hope.
 *   [Dot Matrix Game Editor](http://www.dotmatrixgame.com/) - An IDE for Game Boy programming in a C-like language called GBL, with many other features like tile and map extraction, WLA-DX assembly, and more.
-*   [mgbdis (⭐195)](https://github.com/mattcurrie/mgbdis) - Game Boy ROM disassembler with RGBDS compatible output.
+*   [mgbdis (⭐210)](https://github.com/mattcurrie/mgbdis) - Game Boy ROM disassembler with RGBDS compatible output.
 *   [ROM Header Utility](http://catskull.net/GB-Logo-Generator/) - An online tool to inspect and modify a ROM's header data, including the logo.
-*   [romusage (⭐32)](https://github.com/bbbbbr/romusage) - Command line tool for estimating usage (free space) of Game Boy ROMs from a .map, .noi or ihx file. Works with GBDK-2020 and RGBDS.
-*   [awake (⭐56)](https://github.com/devdri/awake) - Game Boy decompiler.
-*   [Game Boy Text Tools (⭐8)](https://github.com/raphaklaus/gameboy-text-tools) - Set of tools for text manipulation and translation of Game Boy ROMs written in Node.js.
+*   [romusage (⭐40)](https://github.com/bbbbbr/romusage) - Command line tool for estimating usage (free space) of Game Boy ROMs from a .map, .noi or ihx file. Works with GBDK-2020 and RGBDS.
+*   [awake (⭐59)](https://github.com/devdri/awake) - Game Boy decompiler.
+*   [Game Boy Text Tools (⭐9)](https://github.com/raphaklaus/gameboy-text-tools) - Set of tools for text manipulation and translation of Game Boy ROMs written in Node.js.
 
 ### Tools / Graphics utilities
 
 *   [Harry Mulder's GB Development](http://www.devrs.com/gb/hmgd/intro.html) - Some sources and home of Game Boy Tile Designer (GBTD) and Game Boy Map Builder (GBMB) tools.
-*   [Tilemap Studio (⭐271)](https://github.com/Rangi42/tilemap-studio) - A tilemap editor for Game Boy, Color, Advance, and SNES projects. Written in C++ with FLTK.
+*   [Tilemap Studio (⭐308)](https://github.com/Rangi42/tilemap-studio) - A tilemap editor for Game Boy, Color, Advance, and SNES projects. Written in C++ with FLTK.
 
 ### Tools / Hardware and ROM utilities
 
-*   [cart-dumper (⭐30)](https://github.com/Palmr/cart-dumper) - Game Boy Cartridge Dumper ROM.
-*   [gbcamextract (⭐45)](https://github.com/jkbenaim/gbcamextract) - Extracts photos from Game Boy Camera saves.
-*   [Game Boy LCD sniffing (⭐158)](https://github.com/svendahlstrand/game-boy-lcd-sniffing) - Sniff your Game Boy's LCD using a logic analyzer.
+*   [cart-dumper (⭐33)](https://github.com/Palmr/cart-dumper) - Game Boy Cartridge Dumper ROM.
+*   [gbcamextract (⭐47)](https://github.com/jkbenaim/gbcamextract) - Extracts photos from Game Boy Camera saves.
+*   [Game Boy LCD sniffing (⭐160)](https://github.com/svendahlstrand/game-boy-lcd-sniffing) - Sniff your Game Boy's LCD using a logic analyzer.
 *   [swapdump (⭐2)](https://github.com/sanqui/swapdump) - Diagnostic utility for Game Boy flashcarts.
-*   [Gameboy-LinkUp (⭐6)](https://github.com/JustinLloyd/Gameboy-LinkUp) - Game Boy LinkUp serial cable networking project.
+*   [Gameboy-LinkUp (⭐9)](https://github.com/JustinLloyd/Gameboy-LinkUp) - Game Boy LinkUp serial cable networking project.
 
 ### ASM / Boilerplates and libraries
 
-*   [gb-boilerplate (⭐51)](https://github.com/ISSOtm/gb-boilerplate) - A template for starting Game Boy projects, providing a Makefile for infrastructure.
-*   [gb-starter-kit (⭐39)](https://github.com/ISSOtm/gb-starter-kit) - An expansion on the above, including base library code as well to get started faster.
+*   [gb-boilerplate (⭐58)](https://github.com/ISSOtm/gb-boilerplate) - A template for starting Game Boy projects, providing a Makefile for infrastructure.
+*   [gb-starter-kit (⭐43)](https://github.com/ISSOtm/gb-starter-kit) - An expansion on the above, including base library code as well to get started faster.
 
 ### C / Syntax highlighting packages
 
-*   [Petris (⭐22)](https://github.com/bbbbbr/Petris) - A puzzle game of shapely pets for the Game Boy Color ([itch.io](https://bbbbbr.itch.io/petris)).
+*   [Petris (⭐27)](https://github.com/bbbbbr/Petris) - A puzzle game of shapely pets for the Game Boy Color ([itch.io](https://bbbbbr.itch.io/petris)).
 
-## [26. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
+## [25. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
 
 ### Tools
 
@@ -385,20 +379,20 @@
 *   [buckwheat (⭐23)](https://github.com/JetBrains-Research/buckwheat) - Multi-language tokenizer for extracting identifiers from source code.
 *   [RefactoringMiner (⭐259)](https://github.com/tsantalis/RefactoringMiner) - Library/API for detection of refactorings in changes of Java code.
 
-## [27. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [26. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Games
 
-*   [Sudoku (⭐62)](https://github.com/VarunS2002/Flutter-Sudoku) - Sudoku Game built by [VarunS2002](https://github.com/VarunS2002/).
-*   [Truth or Dare (⭐42)](https://github.com/ITCraftship/truth-or-dare) - a Truth or Dare party game build with [Codemagic](https://codemagic.io/) and [Fastlane](https://fastlane.tools/) by [ITCraftship](https://github.com/ITCraftship).
+*   [Sudoku (⭐77)](https://github.com/VarunS2002/Flutter-Sudoku) - Sudoku Game built by [VarunS2002](https://github.com/VarunS2002/).
+*   [Truth or Dare (⭐43)](https://github.com/ITCraftship/truth-or-dare) - a Truth or Dare party game build with [Codemagic](https://codemagic.io/) and [Fastlane](https://fastlane.tools/) by [ITCraftship](https://github.com/ITCraftship).
 
-## [28. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [27. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
 *   [The Quantum Quest](https://www.quantum-quest.nl/) - Introductory web class on quantum computing principles designed for high school students.
 
-## [29. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [28. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Community
 
@@ -411,24 +405,28 @@
 ### Studies
 
 *   [SvelteScaling](https://svelte-scaling.acmion.com/) - Does Svelte Scale?
-*   [Will it Scale? (⭐160)](https://github.com/halfnelson/svelte-it-will-scale) - Finding Svelte's inflection point.
+*   [Will it Scale? (⭐166)](https://github.com/halfnelson/svelte-it-will-scale) - Finding Svelte's inflection point.
 
 ### UI Libraries
 
-*   [attractions (⭐859)](https://github.com/illright/attractions) - A pretty cool and modern UI kit
+*   [attractions (⭐949)](https://github.com/illright/attractions) - A pretty cool and modern UI kit
 
 ### Scaffold / Checkbox
 
-*   [component-template (⭐529)](https://github.com/sveltejs/component-template) - A base for building shareable components.
-*   [svelte-pwa-template (⭐205)](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template.
+*   [component-template (⭐543)](https://github.com/sveltejs/component-template) - A base for building shareable components.
+*   [svelte-pwa-template (⭐212)](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template.
 
-## [30. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [29. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Blogs
 
 *   [FireHydrant Blog](https://www.firehydrant.io/blog) - Posts about complex systems, incident response, and SRE best practices.
 
-## [31. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [30. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Projects Using Vue.js / Commercial Products
+
+*   [Coloban](https://www.coloban.com) - All-in-one project management tool with chats, Kanban, Gantt, calls, screenshare and many more.
 
 ### Resources / Community
 
@@ -436,55 +434,55 @@
 
 ### Components & Libraries / Frameworks
 
-*   [vue-notion (⭐769)](https://github.com/janniks/vue-notion) - An unofficial Notion renderer – Use Notion as a CMS for Vue (e.g. Nuxt)
+*   [vue-notion (⭐818)](https://github.com/janniks/vue-notion) - An unofficial Notion renderer – Use Notion as a CMS for Vue (e.g. Nuxt)
 
 ### Components & Libraries / Utilities
 
-*   [@korijn/vue-store (⭐25)](https://github.com/Korijn/vue-store) - Lightweight Vue 3 composition API-compatible store pattern library with undo/redo.
+*   [@korijn/vue-store (⭐23)](https://github.com/Korijn/vue-store) - Lightweight Vue 3 composition API-compatible store pattern library with undo/redo.
 
-## [32. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [31. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Workshops / Doctrine Assessement
 
 *   [Workshop Building Block - New Year's Eve Party (⭐15)](https://github.com/LeadingEdgeForum/faciliator-pack/blob/main/WorkshopBuildingBlock-NewYearsEveParty.md) - Help workshop participants gain confidence in mapping in a business-neutral environment.
 
-## [33. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [32. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Back-end API / Playground
 
-*   :octocat: [Booster Framework (⭐341)](https://github.com/boostercloud/booster) - Event-driven cloud native GraphQL open-source framework, part of the Booster Cloud ecosystem. It makes use of high-level abstractions and conventions. (see also: <https://booster.cloud>)
+*   :octocat: [Booster Framework (⭐380)](https://github.com/boostercloud/booster) - Event-driven cloud native GraphQL open-source framework, part of the Booster Cloud ecosystem. It makes use of high-level abstractions and conventions. (see also: <https://booster.cloud>)
 
-## [34. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [33. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Courses
 
 *   [Transfer Learning for Natural Language Processing](https://www.manning.com/books/transfer-learning-for-natural-language-processing?utm_source=github\&utm_medium=organic\&utm_campaign=book_azunre_transfer_3_10_20) - A book that gets you up to speed with the relevant ML concepts and then dives into transfer learning for NLP.
 
-## [35. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [34. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
-*   [wasm-2048 (⭐144)](https://github.com/dev-family/wasm-2048) - 2048 game implemented with Rust and Yew and compiled to Wasm.
+*   [wasm-2048 (⭐148)](https://github.com/dev-family/wasm-2048) - 2048 game implemented with Rust and Yew and compiled to Wasm.
 
 ### Crates / Components
 
 *   [yew-component-size (⭐4)](https://github.com/AircastDev/yew-component-size) - A Yew component that emits events when the parent component changes width/height.
 *   [yew-virtual-scroller (⭐5)](https://github.com/AircastDev/yew-virtual-scroller) - A Yew component for virtual scrolling / scroll windowing.
 
-## [36. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [35. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Hardware
 
-*   [LIDAR (⭐526)](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
+*   [LIDAR (⭐610)](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
 
-## [37. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)
+## [36. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)
 
 ### Components
 
 *   [React molecule-components (⭐86)](https://github.com/alexandre-lelain/components-extra) - React molecule-components based on Material-UI.
 *   [Material-UI NestedMenuItem (⭐69)](https://github.com/azmenak/material-ui-nested-menu-item) - Drop-in replacement for MUI's MenuItem with infinitely nested menus, and open on hover.
 
-## [38. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [37. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Document
 
@@ -500,60 +498,60 @@
     *   [SPIR-V Legalization and Size Reduction with spirv-opt](https://www.lunarg.com/news-insights/white-papers/spir-v-legalization-and-size-reduction-with-spirv-opt/)
     *   [All White Papers](https://www.lunarg.com/vulkan-white-papers/)
 
-## [39. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [38. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
-*   [smug (⭐505)](https://github.com/ivaaaan/smug) A session manager for tmux written in Go
+*   [smug (⭐533)](https://github.com/ivaaaan/smug) A session manager for tmux written in Go
 
-## [40. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [39. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Utils / Other Tools
 
-*   [Prometheus FastAPI Instrumentator (⭐469)](https://github.com/trallnag/prometheus-fastapi-instrumentator) - A configurable and modular Prometheus Instrumentator for your FastAPI application.
+*   [Prometheus FastAPI Instrumentator (⭐592)](https://github.com/trallnag/prometheus-fastapi-instrumentator) - A configurable and modular Prometheus Instrumentator for your FastAPI application.
 
-## [41. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
+## [40. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 
 ### Construct Libraries / Monitoring
 
 *   [aws-cdk-billing-alarm (⭐19)](https://github.com/alvyn279/aws-cdk-billing-alarm) - Construct that sets up email alerts for exceeding an amount on your AWS bill.
 
-## [42. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [41. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Automotive
 
 *   [Kia Virtual Experience](https://www.kiavirtualexperience.com/) - Explore Kia's latest line of cars.
 
-## [43. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [42. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Image / Image Picker
 
 *   [Image Picker (⭐17k)](https://github.com/flutter/plugins/tree/master/packages/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com)
-*   [WeChat Assets Picker (⭐1.1k)](https://github.com/fluttercandies/flutter_wechat_assets_picker) <!--stargazers:fluttercandies/flutter_wechat_assets_picker--> - Assets picker in WeChat style, support multi assets by [Alex Li](https://github.com/AlexV525).
+*   [WeChat Assets Picker (⭐1.3k)](https://github.com/fluttercandies/flutter_wechat_assets_picker) <!--stargazers:fluttercandies/flutter_wechat_assets_picker--> - Assets picker in WeChat style, support multi assets by [Alex Li](https://github.com/AlexV525).
 
 ### Desktop / Game Engine resources
 
-*   [Raspberry Pi Embedder (⭐1.1k)](https://github.com/ardera/flutter-pi) <!--stargazers:ardera/flutter-pi--> - Light-weight Embedder for Raspberry Pi by [Hannes Winkler](https://github.com/ardera)
+*   [Raspberry Pi Embedder (⭐1.2k)](https://github.com/ardera/flutter-pi) <!--stargazers:ardera/flutter-pi--> - Light-weight Embedder for Raspberry Pi by [Hannes Winkler](https://github.com/ardera)
 
-## [44. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [43. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Videos / NumPyro
 
 *   [JAX: Accelerated machine-learning research via composable function transformations in Python | NeurIPS 2019 | Skye Wanderman-Milne](https://slideslive.com/38923687/jax-accelerated-machinelearning-research-via-composable-function-transformations-in-python) - JAX intro presentation in [*Program Transformations for Machine Learning*](https://program-transformations.github.io) workshop.
 
-## [45. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [44. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Videos
 
 *   [Next.js Conf 2020](https://www.youtube.com/playlist?list=PLBnKlKpPeagnT2Cmv4giCbosfrbKnuYTD) - All the videos from the 2020 Next.js conference
 
-## [46. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [45. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Datasets
 
 *   [Ford Dataset](https://avdata.ford.com/) - The dataset is time-stamped and contains raw data from all the sensors, calibration values, pose trajectory, ground truth pose, and 3D maps. The data is Robot Operating System (ROS) compatible.
     *   [Paper :newspaper:](https://arxiv.org/pdf/2003.07969.pdf)
-    *   [GitHub repository :octocat: (⭐267)](https://github.com/Ford/AVData)
+    *   [GitHub repository :octocat: (⭐279)](https://github.com/Ford/AVData)
 *   [Oxford RobotCar](https://robotcar-dataset.robots.ox.ac.uk/) - The Oxford RobotCar Dataset contains over 100 repetitions of a consistent route through Oxford, UK, captured over a period of over a year.
     *   [YouTube channel :red\_circle:](https://www.youtube.com/c/ORIOxfordRoboticsInstitute)
     *   [Paper :newspaper:](https://robotcar-dataset.robots.ox.ac.uk/images/RCD_RTK.pdf)
@@ -563,27 +561,27 @@
 ### Libraries
 
 *   [Point Cloud Library (PCL)](http://www.pointclouds.org/) - Popular highly parallel programming library, with numerous industrial and research use-cases.
-    *   [GitHub repository :octocat: (⭐8.3k)](https://github.com/PointCloudLibrary/pcl)
+    *   [GitHub repository :octocat: (⭐8.8k)](https://github.com/PointCloudLibrary/pcl)
 *   [PyTorch Geometric :newspaper:](https://arxiv.org/pdf/1903.02428.pdf) - A geometric deep learning extension library for PyTorch.
-    *   [GitHub repository :octocat: (⭐17k)](https://github.com/rusty1s/pytorch_geometric)
+    *   [GitHub repository :octocat: (⭐18k)](https://github.com/rusty1s/pytorch_geometric)
 *   [PyTorch3d](https://pytorch3d.org/) - PyTorch3d is a library for deep learning with 3D data written and maintained by the Facebook AI Research Computer Vision Team.
-    *   [GitHub repository :octocat: (⭐7k)](https://github.com/facebookresearch/pytorch3d)
+    *   [GitHub repository :octocat: (⭐7.6k)](https://github.com/facebookresearch/pytorch3d)
 *   [pyntcloud](https://pyntcloud.readthedocs.io/en/latest/) - Pyntcloud is a Python 3 library for working with 3D point clouds leveraging the power of the Python scientific stack.
-    *   [GitHub repository :octocat: (⭐1.2k)](https://github.com/daavoo/pyntcloud)
+    *   [GitHub repository :octocat: (⭐1.3k)](https://github.com/daavoo/pyntcloud)
 
 ### Frameworks
 
 *   [Baidu Apollo](https://apollo.auto/) - Apollo is a popular framework which accelerates the development, testing, and deployment of Autonomous Vehicles.
-    *   [GitHub repository :octocat: (⭐22k)](https://github.com/ApolloAuto/apollo)
+    *   [GitHub repository :octocat: (⭐23k)](https://github.com/ApolloAuto/apollo)
     *   [YouTube channel :red\_circle:](https://www.youtube.com/c/ApolloAuto)
 
 ### Algorithms / Semantic segmentation
 
 *   [RangeNet++ :newspaper:](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/milioto2019iros.pdf) - Fast and Accurate LiDAR Sematnic Segmentation with fully convolutional network.
-    *   [GitHub repository :octocat: (⭐236)](https://github.com/PRBonn/rangenet_lib)
+    *   [GitHub repository :octocat: (⭐258)](https://github.com/PRBonn/rangenet_lib)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=uo3ZuLuFAzk)
 *   [PolarNet :newspaper:](https://arxiv.org/pdf/2003.14032.pdf) - An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation.
-    *   [GitHub repository :octocat: (⭐312)](https://github.com/edwardzhou130/PolarSeg)
+    *   [GitHub repository :octocat: (⭐337)](https://github.com/edwardzhou130/PolarSeg)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=iIhttRSMqjE)
 *   [Frustum PointNets :newspaper:](https://arxiv.org/pdf/1711.08488.pdf) - Frustum PointNets for 3D Object Detection from RGB-D Data.
     *   [GitHub repository :octocat: (⭐1.5k)](https://github.com/charlesq34/frustum-pointnets)
@@ -593,15 +591,15 @@
 
 ### Algorithms / Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
 
-*   [LeGO-LOAM :octocat: (⭐1.9k)](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - A lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs.
+*   [LeGO-LOAM :octocat: (⭐2k)](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - A lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs.
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=7uCxLUs9fwQ)
-*   [Cartographer :octocat: (⭐6.4k)](https://github.com/cartographer-project/cartographer) - Cartographer is ROS compatible system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
+*   [Cartographer :octocat: (⭐6.6k)](https://github.com/cartographer-project/cartographer) - Cartographer is ROS compatible system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=29Knm-phAyI)
 *   [SuMa++ :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2019iros.pdf) - LiDAR-based Semantic SLAM.
-    *   [GitHub repository :octocat: (⭐727)](https://github.com/PRBonn/semantic_suma/)
+    *   [GitHub repository :octocat: (⭐785)](https://github.com/PRBonn/semantic_suma/)
     *   [YouTube video :red\_circle:](https://youtu.be/uo3ZuLuFAzk)
 *   [OverlapNet :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2020rss.pdf) -  Loop Closing for LiDAR-based SLAM.
-    *   [GitHub repository :octocat: (⭐542)](https://github.com/PRBonn/OverlapNet)
+    *   [GitHub repository :octocat: (⭐588)](https://github.com/PRBonn/OverlapNet)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=YTfliBco6aw)
 
 ### Algorithms / Object detection and object tracking
@@ -613,21 +611,21 @@
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=2DzH9COLpkU)
 *   [What You See is What You Get: Exploiting Visibility for 3D Object Detection :newspaper:](https://arxiv.org/pdf/1912.04986.pdf) - By Peiyun Hu, Jason Ziglar, David Held, Deva Ramanan, 2019.
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=497OF-otY2k)
-    *   [GitHub repository :octocat: (⭐102)](https://github.com/peiyunh/WYSIWYG)
+    *   [GitHub repository :octocat: (⭐107)](https://github.com/peiyunh/WYSIWYG)
 
 ### Simulators / Object detection and object tracking
 
 *   [CoppeliaSim](https://www.coppeliarobotics.com/coppeliaSim) - Cross-platform general-purpose robotic simulator (formerly known as V-REP).
     *   [YouTube channel :red\_circle:](https://www.youtube.com/user/VirtualRobotPlatform)
 *   [CARLA](https://carla.org/) - Unreal Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS 2.
-    *   [GitHub repository :octocat: (⭐8.9k)](https://github.com/carla-simulator/carla)
+    *   [GitHub repository :octocat: (⭐9.5k)](https://github.com/carla-simulator/carla)
     *   [YouTube channel :red\_circle:](https://www.youtube.com/channel/UC1llP9ekCwt8nEJzMJBQekg)
 
 ### Others / Object detection and object tracking
 
 *   [Pcx :octocat: (⭐1.2k)](https://github.com/keijiro/Pcx) - Point cloud importer/renderer for Unity.
 
-## [47. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Data Visualization on Maps
 
@@ -641,33 +639,33 @@
 
 *   [CurrencyFreaks](https://currencyfreaks.com/) — Provides current and historical currency exchange rates. Free DEVELOPER plan available with 1000 requests/month.
 
-## [48. awsm.fish](/content/jorgebucaran/awsm.fish/week/README.md)
+## [47. awsm.fish](/content/jorgebucaran/awsm.fish/week/README.md)
 
 ### Prompts
 
 *   [Pure (⭐1.1k)](https://github.com/rafaelrinaldi/pure) - [*That*](https://github.com/sindresorhus/pure) ZSH prompt, now in Fish flavor
-*   [Hydro (⭐466)](https://github.com/jorgebucaran/hydro) - Lag-free prompt with async Git status (ooh la la)
+*   [Hydro (⭐471)](https://github.com/jorgebucaran/hydro) - Lag-free prompt with async Git status (ooh la la)
 
 ### Plugins
 
-*   [Fisher (⭐6.6k)](https://github.com/jorgebucaran/fisher) - Manage functions, completions, bindings, and snippets from the CLI
-*   [Fundle (⭐357)](https://github.com/danhper/fundle) - `config.fish`-based plugin manager
-*   [Autopair (⭐234)](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command-line. ([Alternative (⭐258)](https://github.com/laughedelic/pisces))
-*   [Async Prompt (⭐323)](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous
-*   [Abbreviation Tips (⭐208)](https://github.com/Gazorby/fish-abbreviation-tips) - Remembering abbreviations by displaying tips when you can use them
+*   [Fisher (⭐6.7k)](https://github.com/jorgebucaran/fisher) - Manage functions, completions, bindings, and snippets from the CLI
+*   [Fundle (⭐358)](https://github.com/danhper/fundle) - `config.fish`-based plugin manager
+*   [Autopair (⭐250)](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command-line. ([Alternative (⭐260)](https://github.com/laughedelic/pisces))
+*   [Async Prompt (⭐329)](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous
+*   [Abbreviation Tips (⭐217)](https://github.com/Gazorby/fish-abbreviation-tips) - Remembering abbreviations by displaying tips when you can use them
 
-## [49. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [48. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Social networks / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Libreddit](https://libredd.it) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/spikecodes/libreddit) - Private Reddit front-end written in Rust.
 
-## [50. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [49. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Dependency Injection / Collection View Layout
 
 *   [Typhoon (⭐2.7k)](https://github.com/appsquickly/Typhoon) - Powerful dependency injection for Objective-C.
-*   [Pilgrim (⭐60)](https://github.com/appsquickly/pilgrim) - Powerful dependency injection Swift (successor to Typhoon).
+*   [Pilgrim (⭐61)](https://github.com/appsquickly/pilgrim) - Powerful dependency injection Swift (successor to Typhoon).
 
 ---
 

@@ -10,30 +10,30 @@
 
 ### Software / Monitoring
 
-*   [Icinga](https://www.icinga.com/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring. ([Source Code (⭐1.8k)](https://github.com/Icinga/icinga2)) `GPL-2.0` `C++`
+*   [Icinga](https://www.icinga.com/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring. ([Source Code (⭐1.9k)](https://github.com/Icinga/icinga2)) `GPL-2.0` `C++`
 
 ## [2. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
 
 ### Browser-Based / Boardgame
 
-*   [3D Hartwing Chess Set (⭐449)](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JavaScript.
-*   [c4 (⭐208)](https://github.com/kenrick95/c4) - Connect Four game where player is playing against an AI.
+*   [3D Hartwing Chess Set (⭐462)](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JavaScript.
+*   [c4 (⭐218)](https://github.com/kenrick95/c4) - Connect Four game where player is playing against an AI.
 *   [Lichess (⭐13k)](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets built with Scala, Play 2.8, MongoDB and Elasticsearch.
 
 ### Browser-Based / Arcade
 
 *   [Alge's Escapade (⭐34)](https://github.com/Dave-and-Mike/game-off-2012) - Help Alge escape by moving through the levels to the escape tube.
-*   [Alien Invasion (⭐161)](https://github.com/cykod/AlienInvasion) - Don't let the aliens reach the bottom, eliminate them using your spaceship.
+*   [Alien Invasion (⭐163)](https://github.com/cykod/AlienInvasion) - Don't let the aliens reach the bottom, eliminate them using your spaceship.
 *   [Arashi (⭐18)](https://github.com/stephank/arashi-js) - Clone of the Arcade game Tempest. Survive as long as possible and score many points as possible.
-*   [Asteroids (⭐317)](http://github.com/dmcinnes/HTML5-Asteroids) - Pure JavaScript asteroids. Destroy asteroids ans saucers controlling a triangular ship rotating left and right.
+*   [Asteroids (⭐321)](http://github.com/dmcinnes/HTML5-Asteroids) - Pure JavaScript asteroids. Destroy asteroids ans saucers controlling a triangular ship rotating left and right.
 *   [Avabranch (⭐55)](https://github.com/Zolmeister/avabranch) - Get your Ava away from the blocks moving between them.
 *   [Ball And Wall (⭐35)](https://github.com/budnix/ball-and-wall) - Destroy the blocks using the Vaus, that is ejected from the ship.
 *   [Breakout (⭐25)](https://github.com/Couchfriends/breakout) - Breakout multiplayer with HTML5. Destroy the blocks using one ball from your ship.
-*   [Jolly Jumper (⭐66)](https://github.com/shohan4556/jolly-jumper) - Infinite jumping style game inspired by Doodle jump.
+*   [Jolly Jumper (⭐67)](https://github.com/shohan4556/jolly-jumper) - Infinite jumping style game inspired by Doodle jump.
 *   [Core Commiter (⭐13)](https://github.com/vladikoff/game-off-2012) - Choose an open source project and help that project by sorting code to proper branches.
-*   [Digger (⭐75)](https://github.com/lutzroeder/digger) - The player is placed in an underground maze and can dig horizontal and vertical tunnels through it.
-*   [Drill Bunny (⭐42)](https://github.com/DreamShowAdventures/LudumDare29) - Drill game with a bunny finding good stuff under the earth.
-*   [Emberwind (⭐255)](https://github.com/operasoftware/Emberwind) - Fantasy game port of the indie platform game Emberwind.
+*   [Digger (⭐76)](https://github.com/lutzroeder/digger) - The player is placed in an underground maze and can dig horizontal and vertical tunnels through it.
+*   [Drill Bunny (⭐43)](https://github.com/DreamShowAdventures/LudumDare29) - Drill game with a bunny finding good stuff under the earth.
+*   [Emberwind (⭐256)](https://github.com/operasoftware/Emberwind) - Fantasy game port of the indie platform game Emberwind.
 
 ### Native / FPS
 
@@ -41,7 +41,7 @@
 
 ### Native / Platform
 
-*   [DDraceNetwork (⭐402)](https://github.com/ddnet/ddnet) - Cooperative online precision platformer with thousands of maps and global ranks.
+*   [DDraceNetwork (⭐431)](https://github.com/ddnet/ddnet) - Cooperative online precision platformer with thousands of maps and global ranks.
 
 ## [3. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
@@ -64,39 +64,39 @@
 
 ## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bio (⭐4)](https://github.com/yamaton/zsh-completions-bio/) - Completions for bioinformatics tools.
+*   [bio (⭐5)](https://github.com/yamaton/zsh-completions-bio/) - Completions for bioinformatics tools.
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Job Scheduler
 
-*   [goflow (⭐115)](https://github.com/fieldryand/goflow) - A workflow orchestrator and scheduler for rapid prototyping of ETL/ML/AI pipelines.
+*   [goflow (⭐181)](https://github.com/fieldryand/goflow) - A simple but powerful DAG scheduler and dashboard.
 
 ### Uncategorized
 
-*   [xz (⭐416)](https://github.com/ulikunitz/xz) - Pure golang package for reading and writing xz-compressed files.
+*   [xz (⭐432)](https://github.com/ulikunitz/xz) - Pure golang package for reading and writing xz-compressed files.
 
 ### HTTP Clients
 
-*   [req (⭐3.4k)](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (Less code and More efficiency).
+*   [req (⭐3.7k)](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (Less code and More efficiency).
 
 ## [8. Awesome Esports](/content/Strift/awesome-esports/README.md)
 
 ### Libraries / APIs & Web Services
 
-*   [Steam Community (⭐352)](https://github.com/DoctorMcKay/node-steamcommunity) - A Node.js library for interacting with the Steam Community website.
-*   [SteamUser (⭐575)](https://github.com/DoctorMcKay/node-steam-user) - A Node.js library for interacting with the Steam network via the the Steam client protocol.
-*   [Steam TOTP (⭐192)](https://github.com/DoctorMcKay/node-steam-totp) - A Node.js library for generating Steam-style 2FA codes.
+*   [Steam Community (⭐418)](https://github.com/DoctorMcKay/node-steamcommunity) - A Node.js library for interacting with the Steam Community website.
+*   [SteamUser (⭐719)](https://github.com/DoctorMcKay/node-steam-user) - A Node.js library for interacting with the Steam network via the Steam client protocol.
+*   [Steam TOTP (⭐217)](https://github.com/DoctorMcKay/node-steam-totp) - A Node.js library for generating Steam-style 2FA codes.
 
 ### Libraries / Authentication
 
-*   [Passport-Steam (⭐306)](https://github.com/liamcurry/passport-steam) - A Node.js passport authentication strategy for Steam.
+*   [Passport-Steam (⭐325)](https://github.com/liamcurry/passport-steam) - A Node.js passport authentication strategy for Steam.
 
 ### Libraries / Team management
 
-*   [LoL in-house bot (⭐105)](https://github.com/mrtolkien/inhouse_bot) - A Discord bot handling role queue, matchmaking, and rankings for League of Legends in-house games.
+*   [LoL in-house bot (⭐110)](https://github.com/mrtolkien/inhouse_bot) - A Discord bot handling role queue, matchmaking, and rankings for League of Legends in-house games.
 
 ## [9. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Security / Zabbix
 
-*   [Inspektor (⭐260)](https://github.com/poonai/inspektor) - Access control layer for databases. Inspektor leverages open policy agent to make policy decisions.
+*   [Inspektor (⭐269)](https://github.com/poonai/inspektor) - Access control layer for databases. Inspektor leverages open policy agent to make policy decisions.
 
 ## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -129,7 +129,7 @@
 
 ### Machine Learning and Data Science
 
-*   [F# Data (⭐768)](https://github.com/fsprojects/FSharp.Data) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
+*   [F# Data (⭐781)](https://github.com/fsprojects/FSharp.Data) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
 
 ### Testing
 
@@ -171,7 +171,7 @@
 
 ### Related / Other
 
-*   [Awesome creative technology (⭐282)](https://github.com/j0hnm4r5/awesome-creative-technology) - Curated list of Creative Technology groups, companies, studios, collectives and more.
+*   [Awesome creative technology (⭐307)](https://github.com/j0hnm4r5/awesome-creative-technology) - Curated list of Creative Technology groups, companies, studios, collectives and more.
 
 ---
 

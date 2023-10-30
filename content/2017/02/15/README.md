@@ -59,7 +59,7 @@
 
 ### Frameworks, Libraries and Tools / Serialization
 
-*   [ZeroFormatter (⭐2.3k)](https://github.com/neuecc/ZeroFormatter) - Fast binary (de)serializer for .NET.
+*   [ZeroFormatter (⭐2.4k)](https://github.com/neuecc/ZeroFormatter) - Fast binary (de)serializer for .NET.
 
 ## [10. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 

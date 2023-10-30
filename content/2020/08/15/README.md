@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 15, 2020
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,7 +18,7 @@
 
 ### External Services
 
-*   [goodreads-box (⭐18)](https://github.com/mdluo/goodreads-box) - Update a pinned gist to show your currently reading books and progress on Goodreads.
+*   [goodreads-box (⭐19)](https://github.com/mdluo/goodreads-box) - Update a pinned gist to show your currently reading books and progress on Goodreads.
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -30,7 +30,7 @@
 
 ### specifically from (*a certain platform*) / Instagram
 
-*   [rss.yuji.ne.jp](https://rss.yuji.ne.jp) <sup>[639](https://t.me/s/aboutrss/639)</sup>[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yujixr/instarss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   ~~[rss.yuji.ne.jp](https://rss.yuji.ne.jp)~~ <sup>[639](https://t.me/s/aboutrss/639)</sup>[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yujixr/instarss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ## [5. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
@@ -38,13 +38,7 @@
 
 *   [graphql-pokemon (⭐491)](https://github.com/lucasbento/graphql-pokemon) - Get information of a Pokémon with GraphQL.
 
-## [6. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
-
-### Apps
-
-*   [Peer Web Site](https://peerweb.site/) - Peer to Peer Web Site hosting at your fingertips! Send full featured HTML (incl. CSS, JS) sites from your browser and attach files eg. videos, images, etc. [Source (⭐134)](https://github.com/Weedshaker/PeerWebSite)
-
-## [7. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [6. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Detection and Classification / Other Resources
 
@@ -78,7 +72,7 @@
 *   [ScyllaHide (⭐2.6k)](https://github.com/x64dbg/ScyllaHide) - An Anti-Anti-Debug library
     and plugin for OllyDbg, x64dbg, IDA Pro, and TitanEngine.
 
-## [8. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+## [7. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### WSL Tools / X Servers
 

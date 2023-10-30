@@ -10,7 +10,7 @@
 
 ### Pipes / Components
 
-*   [ngx-order-pipe (⭐240)](https://github.com/VadimDez/ngx-order-pipe) OrderBy pipe for Angular4+ - sort collection by a field
+*   [ngx-order-pipe (⭐242)](https://github.com/VadimDez/ngx-order-pipe) OrderBy pipe for Angular4+ - sort collection by a field
 
 ## [2. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 

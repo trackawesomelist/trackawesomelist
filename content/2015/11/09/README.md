@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 09, 2015
 
-2 awesome lists updated today.
+1 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -25,12 +25,6 @@
 
 *   [Free Loops](http://free-loops.com) - [:copyright:](http://free-loops.com/creative-commons-audio.php) Free loops and audio clip.
 *   [SoundBible](http://soundbible.com) - [:copyright:](http://soundbible.com/about.php) Thousands of free sound effects, sound clips, and straight up sounds.
-
-## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
-
-### Search
-
-*   [soegen (⭐20)](https://github.com/Ragmaanir/soegen) - Elasticsearch client for Crystal similar to the stretcher gem for ruby
 
 ---
 

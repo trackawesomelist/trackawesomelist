@@ -72,47 +72,47 @@
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### DBaaS
+### Managed Data Services
 
-*   [StackBy](https://stackby.com/) — One tool that brings together flexibility of spreadsheets, power of databases and built-in integrations with your favorite business apps. Free plan includes unlimited users, 10 stacks, 2GB attachment per stack.
+*   [StackBy](https://stackby.com/) — One tool that combines spreadsheets' flexibility, databases' power, and built-in integrations with your favorite business apps. The free plan includes unlimited users, ten stacks, and a 2GB attachment per stack.
 
 ## [4. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Maintenance
 
-*   [Admin Scripts for Development and Deploying (⭐3)](https://github.com/jbluemink/Sitecore-Admin-Scripts-for-Development-and-Deploying) - The additional features for `/admin` folder: AddAdminUser, AddEditorUser, ResetAdminPassword, FillDbWithExtranetUser, InstallUpdatePackage, InstallZipPackage, ParameterDrivenPublish and IsPublishTaskRunning.
+*   [Admin Scripts for Development and Deploying (⭐5)](https://github.com/jbluemink/Sitecore-Admin-Scripts-for-Development-and-Deploying) - The additional features for `/admin` folder: AddAdminUser, AddEditorUser, ResetAdminPassword, FillDbWithExtranetUser, InstallUpdatePackage, InstallZipPackage, ParameterDrivenPublish and IsPublishTaskRunning.
 
 ## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Media Streaming - Video Streaming
 
-*   [MediaCMS](https://mediacms.io) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django/React, featuring a REST API. ([Source Code (⭐1.7k)](https://github.com/mediacms-io/mediacms)) `AGPL-3.0` `Python/Docker`
+*   [MediaCMS](https://mediacms.io) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django/React, featuring a REST API. ([Source Code (⭐2k)](https://github.com/mediacms-io/mediacms)) `AGPL-3.0` `Python/Docker`
 
 ## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Svelte
 
-*   [svelte-vite-ssr (⭐49)](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
+*   [svelte-vite-ssr (⭐53)](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-radar (⭐74)](https://github.com/stafyniaksacha/vite-plugin-radar) - All in one analytics loader (with 7+ providers supported).
+*   [vite-plugin-radar (⭐90)](https://github.com/stafyniaksacha/vite-plugin-radar) - All in one analytics loader (with 7+ providers supported).
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-imp (⭐206)](https://github.com/onebay/vite-plugin-imp) - Import library component styles on demand, make your app slimmer.
+*   [vite-plugin-imp (⭐219)](https://github.com/onebay/vite-plugin-imp) - Import library component styles on demand, make your app slimmer.
 
 ## [7. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Programming Languages / Rust
 
-*   [rust-nix-templater (⭐48)](https://github.com/yusdacra/rust-nix-templater) - Generates Nix build and development files for Rust projects.
+*   [rust-nix-templater (⭐50)](https://github.com/yusdacra/rust-nix-templater) - Generates Nix build and development files for Rust projects.
 
 ## [8. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Cloud platform security / Kubernetes
 
-*   [kube-forensics (⭐183)](https://github.com/keikoproj/kube-forensics) - Allows a cluster administrator to dump the current state of a running pod and all its containers so that security professionals can perform off-line forensic analysis.
+*   [kube-forensics (⭐199)](https://github.com/keikoproj/kube-forensics) - Allows a cluster administrator to dump the current state of a running pod and all its containers so that security professionals can perform off-line forensic analysis.
 
 ### Communications security (COMSEC) / Service meshes
 
@@ -127,7 +127,7 @@
 
 ### Network Tools / Intentionally Vulnerable Systems as Docker Containers
 
-*   [SigPloit](https://github.com/SigPloiter/SigPloit) - Signaling security testing framework dedicated to telecom security for researching vulnerabilites in the signaling protocols used in mobile (cellular phone) operators.
+*   [SigPloit (⭐9)](https://github.com/SigPloiter/SigPloit) - Signaling security testing framework dedicated to telecom security for researching vulnerabilites in the signaling protocols used in mobile (cellular phone) operators.
 
 ---
 

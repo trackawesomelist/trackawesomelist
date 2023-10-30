@@ -174,10 +174,10 @@
 
 ### Text Manipulation
 
-*   [Encode / Decode (⭐528)](https://github.com/willfarrell/alfred-encode-decode-workflow) - Transform your query strings through base64, html, url, and utf-8 encode/decode.
+*   [Encode / Decode (⭐530)](https://github.com/willfarrell/alfred-encode-decode-workflow) - Transform your query strings through base64, html, url, and utf-8 encode/decode.
 *   [Funnel](http://www.packal.org/workflow/funnel) - Funnel selected text or a file through various filters.
 *   [HTML Entity Lookup (⭐35)](https://github.com/ajgon/alfred2-html-entity-lookup) - Search for entity characters based on how they look or by name.
-*   [Unicode Text Search (⭐186)](https://github.com/bevesce/unicode-symbols-search) - Search for Unicode Symbols.
+*   [Unicode Text Search (⭐187)](https://github.com/bevesce/unicode-symbols-search) - Search for Unicode Symbols.
 
 ### Scientific
 
@@ -213,13 +213,13 @@
 
 ### Command Line / XML
 
-*   [Argon (⭐16)](https://github.com/markuslaker/Argon) -  A processor for command-line arguments, an alternative to Getopt, written in D.
+*   [Argon (⭐17)](https://github.com/markuslaker/Argon) -  A processor for command-line arguments, an alternative to Getopt, written in D.
 
 ## [18. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Gesture
 
-*   [SwiftyGestureRecognition (⭐161)](https://github.com/b3ll/SwiftyGestureRecognition) - UIGestureRecognizers in Xcode Playgrounds.
+*   [SwiftyGestureRecognition (⭐162)](https://github.com/b3ll/SwiftyGestureRecognition) - UIGestureRecognizers in Xcode Playgrounds.
 
 ## [19. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
@@ -280,19 +280,19 @@ git log Branch1 ^Branch2
 
 ### File Extraction
 
-*   [pcapfex (⭐198)](https://github.com/vikwin/pcapfex) - Packet CAPture Forensic Evidence eXtractor (pcapfex) is a tool that finds and extracts files from packet capture files. Its power lies in its ease of use. Just provide it a pcap file, and it will try to extract all of the files. It is an extensible platform, so additional file types to recognize and extract can be added easily.
+*   [pcapfex (⭐200)](https://github.com/vikwin/pcapfex) - Packet CAPture Forensic Evidence eXtractor (pcapfex) is a tool that finds and extracts files from packet capture files. Its power lies in its ease of use. Just provide it a pcap file, and it will try to extract all of the files. It is an extensible platform, so additional file types to recognize and extract can be added easily.
 
 ## [25. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / Mathematica
 
-*   [MongoDBLink (⭐18)](https://github.com/zbjornson/MongoDBLink) - Community Mathematica driver
+*   [MongoDBLink (⭐17)](https://github.com/zbjornson/MongoDBLink) - Community Mathematica driver
 
 ## [26. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Date & Time
 
-*   [akamai-time-reference (⭐2)](https://github.com/jucrouzet/akamai-time-reference) - Get reference time using Akamai's time reference service.
+*   [akamai-time-reference (⭐3)](https://github.com/jucrouzet/akamai-time-reference) - Get reference time using Akamai's time reference service.
 
 ### Modules / Object
 
@@ -300,7 +300,7 @@ git log Branch1 ^Branch2
 
 ### Modules / Math
 
-*   [is-number (⭐217)](https://github.com/jonschlinkert/is-number) - Returns `true` if the value is a number.
+*   [is-number (⭐232)](https://github.com/jonschlinkert/is-number) - Returns `true` if the value is a number.
 
 ### Modules / Promise
 
@@ -356,20 +356,20 @@ git log Branch1 ^Branch2
 
 ### Domain-specific language
 
-*   [Absinthe Graphql (⭐4.1k)](https://github.com/absinthe-graphql/absinthe) - Fully featured GraphQL library.
+*   [Absinthe Graphql (⭐4.2k)](https://github.com/absinthe-graphql/absinthe) - Fully featured GraphQL library.
 
 ### Framework Components
 
-*   [absinthe\_plug (⭐248)](https://github.com/absinthe-graphql/absinthe_plug) - Plug support for Absinthe.
+*   [absinthe\_plug (⭐250)](https://github.com/absinthe-graphql/absinthe_plug) - Plug support for Absinthe.
 *   [ex\_admin (⭐1.2k)](https://github.com/smpallen99/ex_admin) - ExAdmin is an auto administration package for Elixir and the Phoenix Framework.
 
 ### ORM and Datamapping
 
-*   [eventstore (⭐941)](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
+*   [eventstore (⭐967)](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
 
 ### Text and Numbers
 
-*   [sentient (⭐34)](https://github.com/dantame/sentient) - Simple sentiment analysis based on the AFINN-111 wordlist.
+*   [sentient (⭐33)](https://github.com/dantame/sentient) - Simple sentiment analysis based on the AFINN-111 wordlist.
 
 ### Websites
 
@@ -379,7 +379,7 @@ git log Branch1 ^Branch2
 
 ### Data Ingestion
 
-*   [Skizze (⭐777)](https://github.com/skizzehq/skizze) - sketch data store to deal with all problems around counting and sketching using probabilistic data-structures.
+*   [Skizze (⭐775)](https://github.com/skizzehq/skizze) - sketch data store to deal with all problems around counting and sketching using probabilistic data-structures.
 
 ### Data Visualization
 
@@ -410,7 +410,7 @@ git log Branch1 ^Branch2
 
 ### Packages / Text
 
-*   [matcher (⭐529)](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
+*   [matcher (⭐533)](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
 
 ### Packages / Testing
 
@@ -421,7 +421,7 @@ git log Branch1 ^Branch2
 ### Packages / Miscellaneous
 
 *   [mem (⭐1k)](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
-*   [adit (⭐48)](https://github.com/markelog/adit) - SSH tunneling made simple.
+*   [adit (⭐53)](https://github.com/markelog/adit) - SSH tunneling made simple.
 
 ## [36. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -528,7 +528,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 ### Implementations/Compilers
 
-*   [crisp (⭐42)](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
+*   [crisp (⭐43)](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
 
 ## [44. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
@@ -568,7 +568,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 ### For Electron / Other
 
-*   [electron-packager (⭐8.2k)](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
+*   [electron-packager (⭐8.3k)](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
 
 ## [47. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
@@ -591,7 +591,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 ### Community / Related Lists
 
-*   [Functional Programming Resources In JavaScript (⭐302)](https://github.com/busypeoples/functional-programming-javascript)
+*   [Functional Programming Resources In JavaScript (⭐306)](https://github.com/busypeoples/functional-programming-javascript)
 
 ---
 

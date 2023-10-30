@@ -10,16 +10,16 @@
 
 ### Haskell / Git
 
-*   [HsOpenSSL (⭐20)](https://github.com/phonohawk/HsOpenSSL) - OpenSSL binding for Haskel.
+*   [HsOpenSSL (⭐19)](https://github.com/phonohawk/HsOpenSSL) - OpenSSL binding for Haskel.
 
 ### JavaScript / Git
 
-*   [asmCrypto (⭐644)](https://github.com/vibornoff/asmcrypto.js/) - JavaScript implementation of popular cryptographic utilities with performance in mind.
+*   [asmCrypto (⭐656)](https://github.com/vibornoff/asmcrypto.js/) - JavaScript implementation of popular cryptographic utilities with performance in mind.
 *   [cifre (⭐120)](https://github.com/openpeer/cifre) - Fast crypto toolkit for modern client-side JavaScript.
-*   [closure-library (⭐4.5k)](https://github.com/google/closure-library/tree/master/closure/goog/crypt) - Google's common JavaScript library.
-*   [libsodium.js (⭐823)](https://github.com/jedisct1/libsodium.js) - libsodium compiled to pure JavaScript, with convenient wrappers.
-*   [OpenPGP.js (⭐5.2k)](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript.
-*   [URSA (⭐618)](https://github.com/quartzjer/ursa) - RSA public/private key OpenSSL bindings for Node.
+*   [closure-library (⭐4.7k)](https://github.com/google/closure-library/tree/master/closure/goog/crypt) - Google's common JavaScript library.
+*   [libsodium.js (⭐885)](https://github.com/jedisct1/libsodium.js) - libsodium compiled to pure JavaScript, with convenient wrappers.
+*   [OpenPGP.js (⭐5.4k)](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript.
+*   [URSA (⭐621)](https://github.com/quartzjer/ursa) - RSA public/private key OpenSSL bindings for Node.
 
 ## [2. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

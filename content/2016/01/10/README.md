@@ -41,7 +41,7 @@
 
 ### CI and CD
 
-*   [codeship.com](https://codeship.com/) — 100 private builds/month, 5 private projects, unlimited for Open Source
+*   [codeship.com](https://codeship.com/) — 100 private builds/month, five private projects, unlimited for Open Source
 *   [styleci.io](https://styleci.io/) — Public GitHub repositories only
 
 ### Management System
@@ -50,15 +50,15 @@
 
 ### Log Management
 
-*   [logentries.com](https://logentries.com/) — Free up to 5 GB/month with 7 days retention
+*   [logentries.com](https://logentries.com/) — Free up to 5 GB/month with seven days retention
 
 ### Translation Management
 
-*   [crowdin.com](https://crowdin.com/) — Unlimited projects, unlimited strings and collaborators for Open Source
+*   [crowdin.com](https://crowdin.com/) — Unlimited projects, unlimited strings, and collaborators for Open Source
 
 ### Monitoring
 
-*   [deadmanssnitch.com](https://deadmanssnitch.com/) — Monitoring for cron jobs. 1 free snitch (monitor), more if you refer others to sign up
+*   [deadmanssnitch.com](https://deadmanssnitch.com/) — Monitoring for cron jobs. One free snitch (monitor), more if you refer others to sign up
 
 ### Search
 
@@ -66,7 +66,7 @@
 
 ### CDN and Protection
 
-*   [developers.google.com](https://developers.google.com/speed/libraries/) — The Google Hosted Libraries is a content distribution network for the most popular, Open Source JavaScript libraries
+*   [developers.google.com](https://developers.google.com/speed/libraries/) — The Google Hosted Libraries is a content distribution network for the most popular Open Source JavaScript libraries
 
 ### PaaS
 
@@ -78,15 +78,15 @@
 
 ### Web Hosting
 
-*   [readthedocs.org](https://readthedocs.org/) — Free documentation hosting with versioning, PDF generation and more
+*   [readthedocs.org](https://readthedocs.org/) — Free documentation hosting with versioning, PDF generation, and more
 
 ### DNS
 
 *   [dns.he.net](https://dns.he.net/) — Free DNS hosting service with Dynamic DNS Support
 
-### DBaaS
+### Managed Data Services
 
-*   [skyvia.com](https://skyvia.com/) — Cloud Data Platform, offers free tier and all plans are completely free while in beta
+*   [skyvia.com](https://skyvia.com/) — Cloud Data Platform offers a free tier and all plans are completely free while in beta
 
 ### Issue Tracking and Project Management
 

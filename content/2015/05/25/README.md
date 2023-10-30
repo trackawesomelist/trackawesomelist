@@ -28,7 +28,7 @@
 
 ### ES6 / Other
 
-*   [Babel (Formerly 6to5) (⭐42k)](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime.
+*   [Babel (Formerly 6to5) (⭐43k)](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime.
 
 ---
 

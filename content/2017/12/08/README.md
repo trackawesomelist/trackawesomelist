@@ -16,7 +16,7 @@
 
 ### Audio Related Packages / Music Information Retrieval
 
-*   [msaf](http://pythonhosted.org/msaf/) [:octocat: (⭐396)](https://github.com/urinieto/msaf) [:package:](https://pypi.python.org/pypi/msaf) - Music Structure Analysis Framework.
+*   [msaf](http://pythonhosted.org/msaf/) [:octocat: (⭐410)](https://github.com/urinieto/msaf) [:package:](https://pypi.python.org/pypi/msaf) - Music Structure Analysis Framework.
 
 ## [3. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 

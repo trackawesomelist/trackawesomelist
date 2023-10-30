@@ -10,7 +10,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [machine-learning-for-trading (⭐7.8k)](https://github.com/stefan-jansen/machine-learning-for-trading) - Code and resources for Machine Learning for Algorithmic Trading
+*   [machine-learning-for-trading (⭐11k)](https://github.com/stefan-jansen/machine-learning-for-trading) - Code and resources for Machine Learning for Algorithmic Trading
 
 ## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Libraries and Frameworks / Databases
 
-*   [Message DB (⭐1.5k)](https://github.com/message-db/message-db) - Microservice Native Event Store and Message Store for Postgres. A fully-featured event store and message store implemented in PostgreSQL for Pub/Sub, Event Sourcing, Messaging, and Evented Microservices applications.
+*   [Message DB (⭐1.6k)](https://github.com/message-db/message-db) - Microservice Native Event Store and Message Store for Postgres. A fully-featured event store and message store implemented in PostgreSQL for Pub/Sub, Event Sourcing, Messaging, and Evented Microservices applications.
 
 ### Libraries and Frameworks / Ruby
 
@@ -59,12 +59,12 @@
 ### Business
 
 *   [Falsehoods about Prices](https://gist.github.com/rgs/6509585) - Covers currencies, amounts and localization.
-*   [Falsehoods about IBANs (⭐434)](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
+*   [Falsehoods about IBANs (⭐439)](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
 *   [Falsehoods about Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) - Economics are not simple or rational.
 
 ### Cryptocurrency
 
-*   [Falsehoods about Bitcoin (⭐44)](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - A list of mistaken perspectives on Bitcoin.
+*   [Falsehoods about Bitcoin (⭐45)](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - A list of mistaken perspectives on Bitcoin.
 
 ### Dates and Time
 
@@ -122,7 +122,7 @@
 
 ### Software Engineering
 
-*   [Falsehoods about Versions (⭐65)](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) - Attributing an identity to a software release might be harder than thought.
+*   [Falsehoods about Versions (⭐66)](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) - Attributing an identity to a software release might be harder than thought.
 *   [Falsehoods about Build Systems](https://pozorvlak.livejournal.com/174763.html) - Building software is hard. Building software that builds software is harder.
 *   [Falsehoods about CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) - While RFC4180 to exists, it is far from definitive and goes largely ignored.
 *   [Falsehoods about Testing](https://club.ministryoftesting.com/t/falsehoods-testers-believe/1371) - An attempt to establish a list of falsehoods about testing.
@@ -138,13 +138,13 @@
 
 ### Typography
 
-*   [Falsehoods about Fonts (⭐91)](https://github.com/RoelN/Font-Falsehoods) - Assumptions about typography on the web and in desktop applications.
+*   [Falsehoods about Fonts (⭐92)](https://github.com/RoelN/Font-Falsehoods) - Assumptions about typography on the web and in desktop applications.
 
 ## [7. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Boilerplates / Individual Podcast episodes
 
-*   [Elm Batteries (⭐111)](https://github.com/cedricss/elm-batteries) - A project template and generator for Elm, Parcel, Cypress and Netlify
+*   [Elm Batteries (⭐112)](https://github.com/cedricss/elm-batteries) - A project template and generator for Elm, Parcel, Cypress and Netlify
 *   [IHP + Elm](https://www.youtube.com/watch?v=b9ULHutH6ag) - The IHP Haskell Framework provides a built-in Elm boilerplate, useful when working with elm in the frontend and haskell in the backend
 
 ## [8. Awesome Jax](/content/n2cholas/awesome-jax/README.md)

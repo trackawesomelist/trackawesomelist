@@ -40,18 +40,18 @@
 *   [DDSP-VST](https://magenta.tensorflow.org/ddsp-vst-blog): Neural Audio Synthesis for All
 *   [Jukebox](https://openai.com/blog/jukebox/): "a neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles"
 *   [Magenta](https://magenta.tensorflow.org/): Music and Art Generation with Machine Intelligence
-*   [magenta/magenta (⭐18k)](https://github.com/magenta/magenta): Magenta's official GitHub repository
-*   [archinetai/audio-diffusion-pytorch (⭐1.4k)](https://github.com/archinetai/audio-diffusion-pytorch): Audio generation using diffusion models, in PyTorch
+*   [magenta/magenta (⭐19k)](https://github.com/magenta/magenta): Magenta's official GitHub repository
+*   [archinetai/audio-diffusion-pytorch (⭐1.6k)](https://github.com/archinetai/audio-diffusion-pytorch): Audio generation using diffusion models, in PyTorch
 
 ### Inbox: Video AI tools / Generative Adversarial Networks (GANs)
 
-*   [THUDM/CogVideo (⭐2.9k)](https://github.com/THUDM/CogVideo): text-to-video generation
+*   [THUDM/CogVideo (⭐3.2k)](https://github.com/THUDM/CogVideo): text-to-video generation
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Design and UI
 
-*   [Circum Icons](https://circumicons.com) - Consistent open source icons as SVG for React, Vue and Svelte.
+*   [Circum Icons](https://circumicons.com) - Consistent open-source icons such as SVG for React, Vue, and Svelte.
 
 ### Design Inspiration
 
@@ -77,71 +77,71 @@
 
 ### Testing
 
-*   [Testcontainers (⭐2.8k)](https://github.com/testcontainers/testcontainers-dotnet) - A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
+*   [Testcontainers (⭐3.2k)](https://github.com/testcontainers/testcontainers-dotnet) - A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
 
 ## [8. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Logging
 
-*   [Pulse (⭐5.2k)](https://github.com/kean/Pulse) - Pulse is a powerful logging system for Apple Platforms. Native. Built with SwiftUI.
+*   [Pulse (⭐5.5k)](https://github.com/kean/Pulse) - Pulse is a powerful logging system for Apple Platforms. Native. Built with SwiftUI.
 
 ### Math
 
-*   [Matft (⭐93)](https://github.com/jjjkkkjjj/Matft) - Matft is Numpy-like library in Swift. Matft allows us to handle n-dimensional array easily in Swift.
+*   [Matft (⭐104)](https://github.com/jjjkkkjjj/Matft) - Matft is Numpy-like library in Swift. Matft allows us to handle n-dimensional array easily in Swift.
 
 ### Networking
 
-*   [Get (⭐786)](https://github.com/kean/Get) - A modern Swift web API client built using async/await.
+*   [Get (⭐832)](https://github.com/kean/Get) - A modern Swift web API client built using async/await.
 
 ### Other Parsing
 
-*   [CreateAPI (⭐320)](https://github.com/CreateAPI/CreateAPI) - Delightful code generation for OpenAPI specs for Swift written in Swift.
+*   [CreateAPI (⭐361)](https://github.com/CreateAPI/CreateAPI) - Delightful code generation for OpenAPI specs for Swift written in Swift.
 
 ### Alert & Action Sheet
 
-*   [BottomSheet (⭐135)](https://github.com/joomcode/BottomSheet) - Powerful Bottom Sheet component with content based size, interactive dismissal and navigation controller support.
+*   [BottomSheet (⭐192)](https://github.com/joomcode/BottomSheet) - Powerful Bottom Sheet component with content based size, interactive dismissal and navigation controller support.
 
 ### Keyboard
 
-*   [ISEmojiView (⭐455)](https://github.com/isaced/ISEmojiView) - Emoji Keyboard for iOS
+*   [ISEmojiView (⭐477)](https://github.com/isaced/ISEmojiView) - Emoji Keyboard for iOS
 
 ### Utility / Collection View Layout
 
-*   [SwiftBoost (⭐138)](https://github.com/sparrowcode/SwiftBoost) - Collection of Swift-extensions to boost development process.
+*   [SwiftBoost (⭐166)](https://github.com/sparrowcode/SwiftBoost) - Collection of Swift-extensions to boost development process.
 
 ## [9. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
-*   [Glina](https://www.drivethrurpg.com/product/400633/Glina--kryminalna-gra-fabularna) - Become a police officer assigned to crack unsolved murder cases. Rulebook in Polish.
+*   [Glina](https://www.drivethrurpg.com/product/400633/Glina--kryminalna-gra-fabularna) - Become a police officer assigned to crack unsolved murder cases. Rulebook in Polish
 
 ## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Project / Diagnostics
 
-*   [nyngwang/suave.lua (⭐40)](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation.
+*   [nyngwang/suave.lua (⭐49)](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation.
 
 ### Cursorline / Diagnostics
 
-*   [nyngwang/murmur.lua (⭐85)](https://github.com/nyngwang/murmur.lua) - Super-fast cursor word highlighting with callbacks(I call them murmurs) included.
+*   [nyngwang/murmur.lua (⭐97)](https://github.com/nyngwang/murmur.lua) - Super-fast cursor word highlighting with callbacks(I call them murmurs) included.
 
 ### Terminal Integration / Diagnostics
 
-*   [nyngwang/NeoTerm.lua (⭐48)](https://github.com/nyngwang/NeoTerm.lua) - Attach a terminal for each **buffer**, now with stable toggle and astonishing cursor restoring.
+*   [nyngwang/NeoTerm.lua (⭐58)](https://github.com/nyngwang/NeoTerm.lua) - Attach a terminal for each **buffer**, now with stable toggle and astonishing cursor restoring.
 
 ### Quickfix / Diagnostics
 
-*   [nyngwang/NeoWell.lua (⭐10)](https://github.com/nyngwang/NeoWell.lua) - Sometimes you will want to fix some lines later. Store lines into qf with some note so you know what to do when you really want to fix it.
+*   [nyngwang/NeoWell.lua (⭐14)](https://github.com/nyngwang/NeoWell.lua) - Sometimes you will want to fix some lines later. Store lines into qf with some note so you know what to do when you really want to fix it.
 
 ## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf-copyq-clipboard (⭐0)](https://github.com/magidc/fzf-copyq-clipboard-zsh-plugin) - Add [fzf (⭐52k)](https://github.com/junegunn/fzf) support for [CopyQ](https://hluk.github.io/CopyQ/).
+*   [fzf-copyq-clipboard (⭐0)](https://github.com/magidc/fzf-copyq-clipboard-zsh-plugin) - Add [fzf (⭐55k)](https://github.com/junegunn/fzf) support for [CopyQ](https://hluk.github.io/CopyQ/).
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [gitneko (⭐2)](https://github.com/gynamics/zsh-gitneko/) - Has a neko `(^>ω<^)` prompt with `git` status information.
+*   [gitneko (⭐3)](https://github.com/gynamics/zsh-gitneko/) - Has a neko `(^>ω<^)` prompt with `git` status information.
 
 ---
 

@@ -44,7 +44,7 @@
 
 ### Debugging
 
-*   [ex\_debug\_toolbar (⭐400)](https://github.com/kagux/ex_debug_toolbar) - A toolbar for Phoenix projects to interactively debug code and display useful information about requests: logs, timelines, database queries etc.
+*   [ex\_debug\_toolbar (⭐405)](https://github.com/kagux/ex_debug_toolbar) - A toolbar for Phoenix projects to interactively debug code and display useful information about requests: logs, timelines, database queries etc.
 
 ### Deployment
 
@@ -53,15 +53,15 @@
 
 ### Eventhandling
 
-*   [event\_bus (⭐664)](https://github.com/mustafaturan/event_bus) - Simple event bus implementation with topic filtering and built-in event store and event watcher.
+*   [event\_bus (⭐676)](https://github.com/mustafaturan/event_bus) - Simple event bus implementation with topic filtering and built-in event store and event watcher.
 
 ### Macros
 
-*   [shorter\_maps (⭐219)](https://github.com/meyercm/shorter_maps) - \~M sigil for map shorthand. `~M{id name} ~> %{id: id, name: name}`.
+*   [shorter\_maps (⭐228)](https://github.com/meyercm/shorter_maps) - \~M sigil for map shorthand. `~M{id name} ~> %{id: id, name: name}`.
 
 ### Networking
 
-*   [download (⭐32)](https://github.com/asiniy/download) - Download files from the internet easily.
+*   [download (⭐33)](https://github.com/asiniy/download) - Download files from the internet easily.
 
 ### Third Party APIs
 
@@ -79,7 +79,7 @@
 
 ### Frameworks, Libraries and Tools / Machine Learning and Data Science
 
-*   [Spreads (⭐382)](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams.
+*   [Spreads (⭐401)](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams.
 
 ## [6. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
@@ -111,7 +111,7 @@
 
 ### Colors
 
-*   [ChromaColorPicker (⭐542)](https://github.com/joncardasis/ChromaColorPicker) - An intuitive and fun iOS color picker.
+*   [ChromaColorPicker (⭐560)](https://github.com/joncardasis/ChromaColorPicker) - An intuitive and fun iOS color picker.
 
 ### Utility / Barcode
 
@@ -119,7 +119,7 @@
 
 ## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### [dotzsh](https://github.com/dotphiles/dotzsh) / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### [dotzsh](https://github.com/dotphiles/dotzsh) / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   Open a new ZSH terminal window or tab
 

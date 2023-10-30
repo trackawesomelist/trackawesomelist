@@ -16,7 +16,7 @@
 
 ### Networking
 
-*   [Restbed (⭐1.8k)](https://github.com/corvusoft/restbed) - C++11 Asynchronous RESTful framework. \[AGPL]
+*   [Restbed (⭐1.9k)](https://github.com/corvusoft/restbed) - C++11 Asynchronous RESTful framework. \[AGPL]
 
 ## [3. Awesome Math](/content/rossant/awesome-math/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Datasets / Topic-specific
 
-*   [Gephi Datasets (⭐5.3k)](https://github.com/gephi/gephi/wiki/Datasets).
+*   [Gephi Datasets (⭐5.5k)](https://github.com/gephi/gephi/wiki/Datasets).
 *   [Siena Datasets](http://www.stats.ox.ac.uk/~snijders/siena/siena_datasets.htm).
 *   [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html).
 *   [UCI Network Data Repository](http://networkdata.ics.uci.edu/).
@@ -93,13 +93,13 @@
 ### Software / Python
 
 *   [graphviz](https://pypi.python.org/pypi/graphviz) - Python renderer for the DOT graph drawing language.
-*   [linkpred (⭐133)](https://github.com/rafguns/linkpred) - Assess the likelihood of potential links in a future snapshot of a network.
+*   [linkpred (⭐136)](https://github.com/rafguns/linkpred) - Assess the likelihood of potential links in a future snapshot of a network.
 *   [python-igraph](http://igraph.org/python/) - Python version of the igraph network analysis package.
 
 ### Software / R
 
 *   [RSiena](http://r-forge.r-project.org/R/?group_id=461) - Simulation Investigation for Empirical Network Analysis; fits models to longitudinal network data.
-*   [visNetwork (⭐508)](https://github.com/DataKnowledge/visNetwork) - Using vis.js library for network visualization.
+*   [visNetwork (⭐516)](https://github.com/DataKnowledge/visNetwork) - Using vis.js library for network visualization.
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

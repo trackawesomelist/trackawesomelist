@@ -10,12 +10,12 @@
 
 ### Tools / Online Analyzers
 
-*   [App Detonator](https://appdetonator.run/) - Detonate APK binary to provide source code level details including app author, signature, build and manifest information. 3 Analysis/day free quota.
+*   [App Detonator](https://appdetonator.run/) - Detonate APK binary to provide source code level details including app author, signature, build, and manifest information. 3 Analysis/day free quota.
 *   ~~[BitBaan](https://malab.bitbaan.com/)~~
 
 ### Tools / Dynamic Analysis Tools
 
-*   [AndroPyTool (⭐278)](https://github.com/alexMyG/AndroPyTool) - a tool for extracting static and dynamic features from Android APKs. It combines different well-known Android apps analysis tools such as DroidBox, FlowDroid, Strace, AndroGuard or VirusTotal analysis.
+*   [AndroPyTool (⭐282)](https://github.com/alexMyG/AndroPyTool) - a tool for extracting static and dynamic features from Android APKs. It combines different well-known Android app analysis tools such as DroidBox, FlowDroid, Strace, AndroGuard, or VirusTotal analysis.
 
 ### Academic/Research/Publications/Books / Others
 
@@ -23,10 +23,10 @@
 
 ### Exploits/Vulnerabilities/Bugs / Malware
 
-*   [Kharon Malware Dataset](http://kharon.gforge.inria.fr/dataset/) - 7 malwares which have been reverse engineered and documented
+*   [Kharon Malware Dataset](http://kharon.gforge.inria.fr/dataset/) - 7 malware which have been reverse-engineered and documented
 *   [Android Adware and General Malware Dataset](https://www.unb.ca/cic/datasets/android-adware.html)
-*   [Android PRAGuard Dataset](http://pralab.diee.unica.it/en/AndroidPRAGuardDataset) - The dataset contains 10479 samples, obtained by obfuscating the MalGenome and the Contagio Minidump datasets with seven different obfuscation techniques.
 *   [AndroZoo](https://androzoo.uni.lu/) - AndroZoo is a growing collection of Android Applications collected from several sources, including the official Google Play app market.
+*   ~~[Android PRAGuard Dataset](http://pralab.diee.unica.it/en/AndroidPRAGuardDataset) - The dataset contains 10479 samples, obtained by obfuscating the MalGenome and the Contagio Minidump datasets with seven different obfuscation techniques.~~
 
 ## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Mock / Barcode
 
-*   [Mocker (⭐942)](https://github.com/WeTransfer/Mocker) - Mock Alamofire and URLSession requests without touching your code implementation
+*   [Mocker (⭐994)](https://github.com/WeTransfer/Mocker) - Mock Alamofire and URLSession requests without touching your code implementation
 
 ## [4. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -95,7 +95,7 @@
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [Equinox Project (⭐5.7k)](https://github.com/EduardoPires/EquinoxProject) - Full ASP.NET Core 3.1 application with Clean Architecture, DDD, CQRS and Event Sourcing concepts
+*   [Equinox Project (⭐6.1k)](https://github.com/EduardoPires/EquinoxProject) - Full ASP.NET Core 3.1 application with Clean Architecture, DDD, CQRS and Event Sourcing concepts
 
 ### Libraries and Frameworks / .NET
 

@@ -16,13 +16,13 @@
 
 ### Web / Development
 
-*   [Insider CLI (⭐427)](https://github.com/insidersec/insider) - A open source Static Application Security Testing tool (SAST) written in GoLang for Java (Maven and Android), Kotlin (Android), Swift (iOS), .NET Full Framework, C# and Javascript (Node.js).
+*   [Insider CLI (⭐449)](https://github.com/insidersec/insider) - A open source Static Application Security Testing tool (SAST) written in GoLang for Java (Maven and Android), Kotlin (Android), Swift (iOS), .NET Full Framework, C# and Javascript (Node.js).
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Font
 
-*   [Google Fonts](https://fonts.google.com/) - Lots of free fonts that are easy and quick to install in a website via a download or a link to Google's CDN.
+*   [Google Fonts](https://fonts.google.com/) - Many free fonts are easy and quick to install on a website via a download or a link to Google's CDN.
 
 ## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [Geo2tz (⭐50)](https://github.com/noandrea/geo2tz) - Get the timezone from geo coordinates (lat, lon). `MIT` `Go/Docker`
+*   [Geo2tz (⭐57)](https://github.com/noandrea/geo2tz) - Get the timezone from geo coordinates (lat, lon). `MIT` `Go/Docker`
 
 ## [7. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

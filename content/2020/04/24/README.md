@@ -22,7 +22,7 @@
 
 ### Third-Party Packages / Logging
 
-*   [django-guid (⭐338)](https://github.com/JonasKs/django-guid) - Inject a GUID (Correlation-ID) into every log message in a Django request.
+*   [django-guid (⭐371)](https://github.com/JonasKs/django-guid) - Inject a GUID (Correlation-ID) into every log message in a Django request.
 
 ## [4. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 
@@ -67,11 +67,11 @@ Language: English
 
 ### Software / Communication - SIP
 
-*   [SIP3](https://sip3.io/) - VoIP troubleshooting and monitoring platform. ([Demo](https://demo.sip3.io), [Source Code](https://github.com/sip3io/)) `Apache-2.0` `Kotlin`
+*   [SIP3](https://sip3.io/) - VoIP troubleshooting and monitoring platform. ([Demo](https://demo.sip3.io), [Source Code](https://github.com/sip3io/)) `Apache-2.0` `Java`
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Streama (⭐9.3k)](https://github.com/streamaserver/streama) - Self hosted streaming media server. `MIT` `Java`
+*   [Streama (⭐9.4k)](https://github.com/streamaserver/streama) - Self hosted streaming media server. `MIT` `Java`
 
 ## [9. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
@@ -83,7 +83,7 @@ Language: English
 
 ### Python / General-Purpose Machine Learning
 
-*   [bayeso (⭐76)](https://github.com/jungtaekkim/bayeso) - A simple, but essential Bayesian optimization package, written in Python.
+*   [bayeso (⭐80)](https://github.com/jungtaekkim/bayeso) - A simple, but essential Bayesian optimization package, written in Python.
 
 ## [11. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -125,13 +125,13 @@ Language: English
 
 ### Projects
 
-*   [Minesweeper (⭐27)](https://github.com/jgpaiva/minesweeper) - Minesweeper built with Rust, Yew and WebAssembly.
+*   [Minesweeper (⭐28)](https://github.com/jgpaiva/minesweeper) - Minesweeper built with Rust, Yew and WebAssembly.
 
 ## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### ORM
 
-*   [EntityFramework.Exceptions (⭐829)](https://github.com/Giorgi/EntityFramework.Exceptions) - Use typed Exceptions for Entity Framework Core when your SQL query violates database constraints in SqlServer, MySql, PostgreSQL or SQLite
+*   [EntityFramework.Exceptions (⭐1k)](https://github.com/Giorgi/EntityFramework.Exceptions) - Use typed Exceptions for Entity Framework Core when your SQL query violates database constraints in SqlServer, MySql, PostgreSQL or SQLite
 
 ---
 

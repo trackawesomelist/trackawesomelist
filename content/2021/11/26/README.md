@@ -42,13 +42,13 @@
 
 ### Vue / Loaders
 
-*   ![v2](https://img.shields.io/badge/-v2-42b883) [vite-plugin-vue2-svg (⭐15)](https://github.com/pakholeung37/vite-plugin-vue2-svg) - Load SVG files as Vue components.
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [vite-plugin-vue2-svg (⭐18)](https://github.com/pakholeung37/vite-plugin-vue2-svg) - Load SVG files as Vue components.
 
 ## [4. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Carousel
 
-*   [swiper (⭐35k)](https://github.com/nolimits4web/Swiper) - [demo](https://swiperjs.com/demos) - [docs](https://swiperjs.com/react) - The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
+*   [swiper (⭐37k)](https://github.com/nolimits4web/Swiper) - [demo](https://swiperjs.com/demos) - [docs](https://swiperjs.com/react) - The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
 
 ## [5. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

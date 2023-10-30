@@ -31,13 +31,13 @@
 
 ### Contents / Utilities
 
-*   [pg\_insights (⭐284)](https://github.com/lob/pg_insights) - Convenient SQL for monitoring Postgres database health.
+*   [pg\_insights (⭐285)](https://github.com/lob/pg_insights) - Convenient SQL for monitoring Postgres database health.
 
 ## [4. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Software / HPGL
 
-*   [HPGLGraphics (⭐16)](https://github.com/ciaron/HPGLGraphics) - A Processing library for writing HPGL files.
+*   [HPGLGraphics (⭐17)](https://github.com/ciaron/HPGLGraphics) - A Processing library for writing HPGL files.
 
 ### Community / Ephemera
 
@@ -97,7 +97,7 @@
 
 ### UI / Barcode
 
-*   [MultiSlider (⭐363)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
+*   [MultiSlider (⭐409)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
 
 ### Button / Barcode
 
@@ -113,7 +113,7 @@
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
-*   [Casbin.NET (⭐842)](https://github.com/casbin-net/Casbin.NET) - Authorization library that supports access control models like ACL, RBAC, ABAC in C#
+*   [Casbin.NET (⭐1k)](https://github.com/casbin-net/Casbin.NET) - Authorization library that supports access control models like ACL, RBAC, ABAC in C#
 
 ## [13. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 

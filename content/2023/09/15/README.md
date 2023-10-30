@@ -39,7 +39,7 @@
 
 ### Open Source / Other
 
-*   [PikaTorrent (⭐152)](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
+*   [PikaTorrent (⭐226)](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
 
 ## [6. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
@@ -57,15 +57,15 @@
 
 ### Applications / Cryptocurrencies
 
-*   [wagyu (⭐580)](https://github.com/howardwu/wagyu) \[[wagyu](https://crates.io/crates/wagyu)] — Rust library for generating cryptocurrency wallets
+*   [wagyu (⭐583)](https://github.com/howardwu/wagyu) \[[wagyu](https://crates.io/crates/wagyu)] — Rust library for generating cryptocurrency wallets
 
 ### Applications / Games
 
-*   [maras-archive/rsnake (⭐107)](https://github.com/maras-archive/rsnake) — Snake written in Rust.
+*   [maras-archive/rsnake (⭐110)](https://github.com/maras-archive/rsnake) — Snake written in Rust.
 
 ### Applications / System tools
 
-*   [eza-community/eza (⭐680)](https://github.com/eza-community/eza) — A replacement for 'ls'
+*   [eza-community/eza (⭐3.1k)](https://github.com/eza-community/eza) — A replacement for 'ls'
 
 ## [9. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -83,14 +83,15 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-cdn2 (⭐39)](https://github.com/nonzzz/vite-plugin-cdn) - Replace module with CDN.
+*   [vite-plugin-cdn2 (⭐46)](https://github.com/nonzzz/vite-plugin-cdn) - Replace module with CDN.
 
 ## [12. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
-### Courses & Books & Blogs
+### LLMs
 
-*   [Hands-on LLMs: Train and Deploy a Real-time Financial Advisor (⭐113)](https://github.com/iusztinpaul/hands-on-llms) - Train and deploy a real-time financial advisor chatbot with Falcon 7B and CometLLM.
+*   [Hands-on LLMs: Train and Deploy a Real-time Financial Advisor (⭐283)](https://github.com/iusztinpaul/hands-on-llms) - Train and deploy a real-time financial advisor chatbot with Falcon 7B and CometLLM.
 
 ---
 
+- Prev: [Sep 16, 2023](/content/2023/09/16/README.md)
 - Next: [Sep 14, 2023](/content/2023/09/14/README.md)

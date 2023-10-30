@@ -35,21 +35,21 @@
 
 ### Languages / JavaScript & TypeScript
 
-*   [js-algorand-sdk (⭐269)](https://github.com/algorand/js-algorand-sdk) - The Algorand JavaScript SDK & Examples.
+*   [js-algorand-sdk (⭐270)](https://github.com/algorand/js-algorand-sdk) - The Algorand JavaScript SDK & Examples.
 
 ### Languages / .NET
 
-*   [unity-algorand-sdk-based-on-net-sdk (⭐2)](https://github.com/Vytek/AlgorandUnitySDK) - Quick and dirty Unity SDK based on .NET Algorand SDK by RileyGe.
+*   [unity-algorand-sdk-based-on-net-sdk (⭐1)](https://github.com/Vytek/AlgorandUnitySDK) - Quick and dirty Unity SDK based on .NET Algorand SDK by RileyGe.
 
 ### Languages / Rust
 
-*   [rust-algorand-sdk (⭐59)](https://github.com/manuelmauro/algonaut) - Rust Algorand SDK.
+*   [rust-algorand-sdk (⭐60)](https://github.com/manuelmauro/algonaut) - Rust Algorand SDK.
 
 ### Languages / Swift
 
-*   [swift-algorand-sdk (⭐19)](https://github.com/Jesulonimi21/Swift-Algorand-Sdk) - A Swift SDK for interacting with the Algorand Blockchain.
+*   [swift-algorand-sdk (⭐18)](https://github.com/Jesulonimi21/Swift-Algorand-Sdk) - A Swift SDK for interacting with the Algorand Blockchain.
 
-### Other Development Tools / Nodes and Indexers
+### Nodes & Consensus Participation / Wallets
 
 *   [Algorand - The Undocumented Docs (⭐5)](https://github.com/AlgoChads/algorand-undoc-docs) - Dev Notes for Archival Node, Indexer Setup (and more).
 
@@ -59,7 +59,7 @@
 
 ### Projects / Wallets
 
-*   [algonim (⭐27)](https://github.com/cusma/algonim) - First Algorand mini-puzzle-game. Written in Python+PyTEAL by [@cusma](https://twitter.com/cusma_b).
+*   [algonim (⭐26)](https://github.com/cusma/algonim) - First Algorand mini-puzzle-game. Written in Python+PyTEAL by [@cusma](https://twitter.com/cusma_b).
 *   [genpyteal (⭐9)](https://github.com/runvnc/genpyteal) - Generate PyTeal from (mostly) normal Python.
 
 ### Metrics and Analytics Services / Wallets
@@ -71,30 +71,30 @@
 
 ### Tools / Plugins
 
-*   [gatling-kafka-plugin (⭐48)](https://github.com/Tinkoff/gatling-kafka-plugin) - Plugin for support Kafka in Gatling.
-*   [gatling-amqp-plugin (⭐28)](https://github.com/Tinkoff/gatling-amqp-plugin) - Plugin for support performance testing with AMQP in Gatling (3.2.x).
-*   [gatling-jdbc-plugin (⭐18)](https://github.com/Tinkoff/gatling-jdbc-plugin) - Simple Gatling plugin for JDBC support.
-*   [gatling-picatinny (⭐29)](https://github.com/Tinkoff/gatling-picatinny) - Library with a bunch of useful functions that extend Gatling DSL.
+*   [gatling-kafka-plugin (⭐58)](https://github.com/Tinkoff/gatling-kafka-plugin) - Plugin for support Kafka in Gatling.
+*   [gatling-amqp-plugin (⭐31)](https://github.com/Tinkoff/gatling-amqp-plugin) - Plugin for support performance testing with AMQP in Gatling (3.2.x).
+*   [gatling-jdbc-plugin (⭐21)](https://github.com/Tinkoff/gatling-jdbc-plugin) - Simple Gatling plugin for JDBC support.
+*   [gatling-picatinny (⭐33)](https://github.com/Tinkoff/gatling-picatinny) - Library with a bunch of useful functions that extend Gatling DSL.
 
 ### Tools / Miscellaneous
 
-*   [gatling-template.g8 (⭐17)](https://github.com/Tinkoff/gatling-template.g8) - A Giter8 template for Gatling performance test project.
+*   [gatling-template.g8 (⭐21)](https://github.com/Tinkoff/gatling-template.g8) - A Giter8 template for Gatling performance test project.
 
 ## [4. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### C++ / Git
 
-*   [=nil; Crypto3 (⭐27)](https://github.com/NilFoundation/crypto3) - Modern Cryptography Suite in C++17 (complete applied cryptography suite starting with block ciphers and ending with threshold cryptography, zk proof systems, etc).
+*   [=nil; Crypto3 (⭐50)](https://github.com/NilFoundation/crypto3) - Modern Cryptography Suite in C++17 (complete applied cryptography suite starting with block ciphers and ending with threshold cryptography, zk proof systems, etc).
 
 ## [5. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Dynamic type checkers
 
-*   [typedpy (⭐13)](https://github.com/loyada/typedpy) - Type-safe, strict Python. Works well with standard Python.
+*   [typedpy (⭐15)](https://github.com/loyada/typedpy) - Type-safe, strict Python. Works well with standard Python.
 
 ### Stub packages
 
-*   [celery-types (⭐27)](https://github.com/sbdchd/celery-types) - Type stubs for [Celery (⭐21k)](https://github.com/celery/celery) and its related packages [django-celery-results (⭐535)](https://github.com/celery/django-celery-results), [ampq (⭐287)](https://github.com/celery/py-amqp), [kombu (⭐2.5k)](https://github.com/celery/kombu), [billiard (⭐359)](https://github.com/celery/billiard), [vine (⭐108)](https://github.com/celery/vine) and [ephem (⭐606)](https://github.com/brandon-rhodes/pyephem).
+*   [celery-types (⭐45)](https://github.com/sbdchd/celery-types) - Type stubs for [Celery (⭐22k)](https://github.com/celery/celery) and its related packages [django-celery-results (⭐578)](https://github.com/celery/django-celery-results), [ampq (⭐294)](https://github.com/celery/py-amqp), [kombu (⭐2.6k)](https://github.com/celery/kombu), [billiard (⭐372)](https://github.com/celery/billiard), [vine (⭐114)](https://github.com/celery/vine) and [ephem (⭐644)](https://github.com/brandon-rhodes/pyephem).
 
 ### Articles / Third-party articles
 
@@ -116,7 +116,7 @@
 
 ### Chart
 
-*   [SwiftUICharts (⭐673)](https://github.com/willdale/SwiftUICharts) - A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility and Localization features built in.
+*   [SwiftUICharts (⭐735)](https://github.com/willdale/SwiftUICharts) - A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility and Localization features built in.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -140,18 +140,18 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-dev-manifest (⭐8)](https://github.com/owlsdepartment/vite-plugin-dev-manifest) - Generates `manifest.dev.json` during dev server, for backend integration with any language/framework.
+*   [vite-plugin-dev-manifest (⭐10)](https://github.com/owlsdepartment/vite-plugin-dev-manifest) - Generates `manifest.dev.json` during dev server, for backend integration with any language/framework.
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [coya (⭐56)](https://github.com/AlexanderMykulych/coya) - Diagram drawing library (vue3 only)
+*   [coya (⭐61)](https://github.com/AlexanderMykulych/coya) - Diagram drawing library (vue3 only)
 
 ### Components & Libraries / Frameworks
 
-*   [Inkline (⭐1.2k)](https://github.com/inkline/inkline/) - Inkline is the intuitive UI Components library that gives you a developer-friendly foundation for building Vue.js 3 Design Systems.
-*   [Mosaic - Vue Admin TailwindCSS template (⭐177)](https://github.com/cruip/vuejs-admin-dashboard-template) - The All-in-one Tailwind CSS Admin Dashboard Template.
+*   [Inkline (⭐1.3k)](https://github.com/inkline/inkline/) - Inkline is the intuitive UI Components library that gives you a developer-friendly foundation for building Vue.js 3 Design Systems.
+*   [Mosaic - Vue Admin TailwindCSS template (⭐197)](https://github.com/cruip/vuejs-admin-dashboard-template) - The All-in-one Tailwind CSS Admin Dashboard Template.
 
 ---
 

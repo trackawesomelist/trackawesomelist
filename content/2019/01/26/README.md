@@ -10,8 +10,8 @@
 
 ### Data Visualization / Graph Based approach
 
-*   Network Embedding [awesome-network-embedding (⭐2.4k)](https://github.com/chihming/awesome-network-embedding).
-*   Community Detection [awesome-community-detection (⭐2k)](https://github.com/benedekrozemberczki/awesome-community-detection).
+*   Network Embedding [awesome-network-embedding (⭐2.5k)](https://github.com/chihming/awesome-network-embedding).
+*   Community Detection [awesome-community-detection (⭐2.1k)](https://github.com/benedekrozemberczki/awesome-community-detection).
 
 ## [2. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Connectors
 
-*   [mex-mariadb (⭐1)](https://github.com/markuman/mex-mariadb) - MIT licensed MariaDB/MySQL Client Library for GNU Octave and Matlab.
+*   [mex-mariadb (⭐2)](https://github.com/markuman/mex-mariadb) - MIT licensed MariaDB/MySQL Client Library for GNU Octave and Matlab.
 
 ## [4. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Miscellaneous
 
-*   [Parasite (⭐27)](https://github.com/ecohealthalliance/awesome-parasite#readme) - Parasites and host-pathogen interactions.
+*   [Parasite (⭐28)](https://github.com/ecohealthalliance/awesome-parasite#readme) - Parasites and host-pathogen interactions.
 
 ## [6. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Community
 
-*   [Embedded WG (⭐1.6k)](https://github.com/rust-embedded/wg/), including newsletters with progress updates.
+*   [Embedded WG (⭐1.7k)](https://github.com/rust-embedded/wg/), including newsletters with progress updates.
 
 ---
 

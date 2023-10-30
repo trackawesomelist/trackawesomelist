@@ -10,7 +10,7 @@
 
 ### Office
 
-*   [NetOffice (⭐603)](https://github.com/NetOfficeFw/NetOffice) - .NET wrapper assemblies for Microsoft Office applications.
+*   [NetOffice (⭐631)](https://github.com/NetOfficeFw/NetOffice) - .NET wrapper assemblies for Microsoft Office applications.
 
 ## [2. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/README.md)
 
@@ -26,11 +26,11 @@
 *   [Mist (⭐7.4k)](https://github.com/ethereum/mist) - Official Ethereum wallet - Browse and use Ðapps on the Ethereum network.
 *   [MyCrypto](https://www.mycrypto.com) - Online wallet service that interacts with the blockchain and performs several other useful functions.
 
-## [3. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 
-### Domain and IP Research / Telegram
+### Threat Intelligence / Forensics
 
-*   [PhishStats](https://phishstats.info/)
+*   [PhishStats](https://phishstats.info/) - Phishing Statistics with search for IP, domain and website title.
 
 ## [4. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -64,8 +64,8 @@
 
 ### Memory Allocation
 
-*   [Hoard (⭐957)](https://github.com/emeryberger/Hoard) - Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, and Mac. \[GPL, commercial] [website](http://hoard.org/)
-*   [jemalloc (⭐8.1k)](https://github.com/jemalloc/jemalloc) - General purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support. \[BSD] [website](http://jemalloc.net/)
+*   [Hoard (⭐996)](https://github.com/emeryberger/Hoard) - Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, and Mac. \[GPL, commercial] [website](http://hoard.org/)
+*   [jemalloc (⭐8.5k)](https://github.com/jemalloc/jemalloc) - General purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support. \[BSD] [website](http://jemalloc.net/)
 
 ## [8. Tips](/content/git-tips/tips/README.md)
 
@@ -95,7 +95,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue2-perfect-scrollbar (⭐272)](https://github.com/mercs600/vue2-perfect-scrollbar) - PerfectScrollbar minimalistic wrapper
+*   [vue2-perfect-scrollbar (⭐276)](https://github.com/mercs600/vue2-perfect-scrollbar) - PerfectScrollbar minimalistic wrapper
 
 ## [12. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

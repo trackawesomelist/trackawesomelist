@@ -23,7 +23,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [oruga (⭐988)](https://github.com/oruga-ui/oruga) - UI components for Vue.js without CSS framework dependency.
+*   [oruga (⭐1.1k)](https://github.com/oruga-ui/oruga) - UI components for Vue.js without CSS framework dependency.
 
 ### Components & Libraries / UI Utilities
 
@@ -33,7 +33,7 @@
 
 ### Official
 
-*   [Apphud (⭐147)](https://github.com/apphud/ApphudSDK) - A complete solution to integrate auto-renewable subscriptions and regular in-app purchases in 30 minutes with no server code required.
+*   [Apphud (⭐163)](https://github.com/apphud/ApphudSDK) - A complete solution to integrate auto-renewable subscriptions and regular in-app purchases in 30 minutes with no server code required.
 
 ## [5. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Terminal-based / programmable RSS readers / Outline Processor Markup Language
 
-*   [neix (⭐189)](https://github.com/tomschwarz/neix) <sup>[788](https://t.me/s/aboutrss/788)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/tomschwarz/neix)
+*   [neix (⭐194)](https://github.com/tomschwarz/neix) <sup>[788](https://t.me/s/aboutrss/788)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/tomschwarz/neix)
 
 ### Telegram / Telegram RSS bots
 
@@ -125,15 +125,15 @@
 
 ### RSS2WIDGET / For browser
 
-*   [Epiboard (⭐312)](https://github.com/Alexays/Epiboard) <sup>[782](https://t.me/s/aboutrss/782)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/epiboard/eblmkpheecdcbflbhbadgfciakhlhdnm)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/fr/firefox/addon/epiboard/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Alexays/Epiboard)
+*   [Epiboard (⭐322)](https://github.com/Alexays/Epiboard) <sup>[782](https://t.me/s/aboutrss/782)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/epiboard/eblmkpheecdcbflbhbadgfciakhlhdnm)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/fr/firefox/addon/epiboard/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Alexays/Epiboard)
 
 ### RSS2DISCORD / For Android device
 
 *   [MonitoRSS](https://MonitoRSS.xyz) <sup>[787](https://t.me/s/aboutrss/787)</sup>
 
-### Reddit RSS fix / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Reddit RSS fix / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [Reddit RSS Fixer](https://smithsdownunder.com/reddit_rss/) <sup>[268](https://t.me/s/aboutrss/268)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/reddit-rss-fixer/mdmahkfahjcjoclbjmoaliadfgnhboag)
+*   ~~[Reddit RSS Fixer](https://smithsdownunder.com/reddit_rss/)~~ <sup>[268](https://t.me/s/aboutrss/268)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/reddit-rss-fixer/mdmahkfahjcjoclbjmoaliadfgnhboag)
 
 ### Multi-subject / Crypto or Blockchain relevant
 

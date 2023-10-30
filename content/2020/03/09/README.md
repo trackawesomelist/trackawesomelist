@@ -10,7 +10,7 @@
 
 ### Generators / Other
 
-*   [Docusaurus (⭐44k)](https://github.com/facebook/docusaurus) - React-based static site generator by Facebook, ideal for content-centric websites.
+*   [Docusaurus (⭐48k)](https://github.com/facebook/docusaurus) - React-based static site generator by Facebook, ideal for content-centric websites.
 
 ## [2. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Other / Godot version unknown
 
-*   [godot-gdscript-toolkit (⭐522)](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter (Godot 3.x).
+*   [godot-gdscript-toolkit (⭐563)](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter (Godot 3.x).
 
 ## [4. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
@@ -33,7 +33,7 @@
 ### Utils
 
 *   [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
-*   [query-selector-shadow-dom (⭐204)](https://github.com/Georgegriff/query-selector-shadow-dom) - Extend the selectors engine by selecting Shadow DOM roots.
+*   [query-selector-shadow-dom (⭐209)](https://github.com/Georgegriff/query-selector-shadow-dom) - Extend the selectors engine by selecting Shadow DOM roots.
 
 ## [5. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
@@ -92,13 +92,13 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
 *   [ExtendsClass](https://extendsclass.com/rest-client-online.html) - Free web-based HTTP client to send HTTP requests.
 
 ### Security and PKI
 
-*   [Dependabot](https://dependabot.com/) Automated dependency updates for Ruby, JavaScript, Python, PHP, Elixir, Rust, Java (Maven and Gradle), .NET, Go, Elm, Docker, Terraform, Git Submodules and GitHub Actions.
+*   [Dependabot](https://dependabot.com/) Automated dependency updates for Ruby, JavaScript, Python, PHP, Elixir, Rust, Java (Maven and Gradle), .NET, Go, Elm, Docker, Terraform, Git Submodules, and GitHub Actions.
 
 ### Issue Tracking and Project Management
 
@@ -128,11 +128,11 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Concurrency
 
-*   [SObjectizer (⭐363)](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. \[BSD-3-Clause]
+*   [SObjectizer (⭐400)](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. \[BSD-3-Clause]
 
 ### Miscellaneous
 
-*   [VarTypes (⭐14)](https://github.com/szi/vartypes) - A feature-rich, object-oriented framework for managing variables in C++ / Qt4. \[LGPL]
+*   [VarTypes (⭐15)](https://github.com/szi/vartypes) - A feature-rich, object-oriented framework for managing variables in C++ / Qt4. \[LGPL]
 
 ## [12. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -144,7 +144,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Related
 
-*   [Awesome CLI (⭐398)](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
+*   [Awesome CLI (⭐439)](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
 
 ## [14. Awesome Sdn](/content/sdnds-tw/awesome-sdn/README.md)
 
@@ -166,13 +166,13 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Map / Image Picker
 
-*   [AMap (⭐513)](https://github.com/fluttify-project/amap_map_fluttify) <!--stargazers:fluttify-project/amap_map_fluttify--> - Access to AMap services(高德地图) by [fluttify-project](https://github.com/fluttify-project)
+*   [AMap (⭐523)](https://github.com/fluttify-project/amap_map_fluttify) <!--stargazers:fluttify-project/amap_map_fluttify--> - Access to AMap services(高德地图) by [fluttify-project](https://github.com/fluttify-project)
 
 ## [16. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
-*   [caniuse.rs (⭐157)](https://github.com/jplatte/caniuse.rs) - Rust feature search.
+*   [caniuse.rs (⭐163)](https://github.com/jplatte/caniuse.rs) - Rust feature search.
 
 ## [17. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 
@@ -184,7 +184,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Maps
 
-*   [WhirlyGlobe-Maply (⭐792)](https://github.com/mousebird/WhirlyGlobe) - 3D globe and flat-map SDK for iOS. This toolkit has a large API for fine-grained control over the map or globe. It reads a wide variety of GIS data formats.
+*   [WhirlyGlobe-Maply (⭐802)](https://github.com/mousebird/WhirlyGlobe) - 3D globe and flat-map SDK for iOS. This toolkit has a large API for fine-grained control over the map or globe. It reads a wide variety of GIS data formats.
 
 ---
 

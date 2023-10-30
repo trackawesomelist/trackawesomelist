@@ -15,13 +15,13 @@
 *   [Elm Example App (⭐442)](https://github.com/sporto/elm-example-app) - A small SPA example in Elm to learn the basics
 *   [TodoMVC (⭐1.2k)](https://github.com/evancz/elm-todomvc) - Proper implementation of the TodoMVC app.
 *   [TodoMVC with JSON API (⭐104)](https://github.com/andrewsuzuki/elm-todo-rest-api) - Bare-bones, modular, heavily-documented todo app with JSON API persistence.
-*   [TodoMVC/Firebase (⭐61)](https://github.com/ThomasWeiser/todomvc-elmfire) - Fork of TodoMVC demonstrating start-app, [The Elm Architecture (⭐4.2k)](https://github.com/evancz/elm-architecture-tutorial) and Firebase as backend.
-*   [TodoMVC in Electron (⭐88)](https://github.com/nirgn975/Elmctron) -  Documented and tested implementation of the Elm TodoMVC app in Electron.
-*   [Gipher (⭐226)](https://github.com/matthieu-beteille/gipher) - A Tinder-like application for gifs built with elm and firebase!
+*   [TodoMVC/Firebase (⭐60)](https://github.com/ThomasWeiser/todomvc-elmfire) - Fork of TodoMVC demonstrating start-app, [The Elm Architecture (⭐4.2k)](https://github.com/evancz/elm-architecture-tutorial) and Firebase as backend.
+*   [TodoMVC in Electron (⭐87)](https://github.com/nirgn975/Elmctron) -  Documented and tested implementation of the Elm TodoMVC app in Electron.
+*   [Gipher (⭐225)](https://github.com/matthieu-beteille/gipher) - A Tinder-like application for gifs built with elm and firebase!
 *   [Collection of examples (⭐210)](https://github.com/halfzebra/elm-examples) - A collection of examples with advanced techniques for real-world Elm apps.
 *   [\<elm-ement> (⭐51)](https://github.com/ohanhi/elm-ement) – Minimal example of a custom element.
 *   [Elm Playground](http://elm-playground.maciejsmolinski.com/) - Tiny Elm projects implemented for the sake of learning by example.
-*   [Elm Architecture in Android (⭐60)](https://github.com/glung/elm-architecture-android) - An example Android application implemented with the Elm Architecture using the Kotlin programming language and Anko library.
+*   [Elm Architecture in Android (⭐59)](https://github.com/glung/elm-architecture-android) - An example Android application implemented with the Elm Architecture using the Kotlin programming language and Anko library.
 *   [Elm + Phoenix + Webpack (⭐55)](https://github.com/ronanyeah/elm-phoenix-example) - A minimal Elm + Phoenix setup, using webpack instead of Brunch.
 *   [Spotify Mapper (⭐63)](https://github.com/FidelisClayton/elm-spotify-mapper) - Elm app integrated with Spotify Api to search and explore new artists.
 *   [Pokelmon (⭐14)](https://github.com/brenopanzolini/pokelmon) - Elm project consuming PokéAPI.
@@ -31,22 +31,22 @@
 *   [Kanban Board in Elm (⭐296)](https://github.com/huytd/kanelm) - A kanban board (trello-alike) built with Elm and HTML5 Drag & Drop API
 *   [Elm Playground](https://ccamel.github.io/playground-elm/index.html) - Pure SPA (with routing) exploring various aspects of Elm.
 *   [Elm Hacker News PWA (⭐1)](https://github.com/elmariofredo/elm-hn-pwa) - A progressive web app built with Elm version 0.18, using the official Hacker-News API
-*   [Elm Narrative Engine (⭐129)](https://github.com/jschomay/elm-narrative-engine) - A framework for building interactive fiction style stories in Elm. Detailed example [elmnarrativeengine.com](http://elmnarrativeengine.com) shows how to build a "chose your own adventure" game; perfect for beginners. **Elm v.0.19**
+*   [Elm Narrative Engine (⭐132)](https://github.com/jschomay/elm-narrative-engine) - A framework for building interactive fiction style stories in Elm. Detailed example [elmnarrativeengine.com](http://elmnarrativeengine.com) shows how to build a "chose your own adventure" game; perfect for beginners. **Elm v.0.19**
 *   [Ari's Garden (⭐54)](https://github.com/theiceshelf/arisgarden) - A recipe [site](https://arisgarden.theiceshelf.com/) built as an SPA that also makes use of the Elm parser.
 
 ## [2. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Data Ingestion
 
-*   [Gazette (⭐451)](https://github.com/gazette/core) - Distributed streaming infrastructure built on cloud storage which makes it easy to mix and match batch and streaming paradigms.
+*   [Gazette (⭐469)](https://github.com/gazette/core) - Distributed streaming infrastructure built on cloud storage which makes it easy to mix and match batch and streaming paradigms.
 
 ## [3. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
 ### Xamarin.Forms
 
 *   [Magic Gradients ★128 (⭐371)](https://github.com/mgierlasinski/MagicGradients) - Provides a simply way to implement a great variety of gradients in Xamarin.Forms.
-*   [PancakeView ★454 (⭐857)](https://github.com/sthewissen/Xamarin.Forms.PancakeView) - An extended ContentView for Xamarin.Forms with rounded corners, borders, shadows, gradients and more.
-*   [SharedTransitions ★223 (⭐418)](https://github.com/GiampaoloGabba/Xamarin.Plugin.SharedTransitions) - Shared element transitions between pages in Xamarin.Forms (IOS/Android).
+*   [PancakeView ★454 (⭐859)](https://github.com/sthewissen/Xamarin.Forms.PancakeView) - An extended ContentView for Xamarin.Forms with rounded corners, borders, shadows, gradients and more.
+*   [SharedTransitions ★223 (⭐420)](https://github.com/GiampaoloGabba/Xamarin.Plugin.SharedTransitions) - Shared element transitions between pages in Xamarin.Forms (IOS/Android).
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -201,7 +201,7 @@
 ### Building Teams
 
 *   [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - “Google's data indicated that psychological safety, more than anything else, was critical to making a team work. (…) The behaviors that create psychological safety — conversational turn-taking and empathy — are part of the same unwritten rules we often turn to, as individuals, when we need to establish a bond.”
-*   [Paper we love: Software Engineering Organizations (⭐66k)](https://github.com/papers-we-love/papers-we-love/tree/master/software_engineering_orgs) - “The practice of software engineering, and its history is, itself, a complex study in humanity, coordination, and communication.”
+*   [Paper we love: Software Engineering Organizations (⭐76k)](https://github.com/papers-we-love/papers-we-love/tree/master/software_engineering_orgs) - “The practice of software engineering, and its history is, itself, a complex study in humanity, coordination, and communication.”
 *   [Developer Tropes: "Google does it"](https://tomaytotomato.com/developer-tropes-2/) - It's [cargo-cultish](https://en.wikipedia.org/wiki/Cargo_cult) to imitate the big names in our industry as a path to success. Instead, the take home from this article “would be that managers and other leaders should be like ecologists; who measure, observe and nurture their ecosystems. Doing so will help build a unique workplace that will yield great results.”
 
 ### Roles / Executives
@@ -233,7 +233,7 @@
 
 ### Recruitment / Hiring Process
 
-*   [Open Sourced Interview Process (⭐363)](https://github.com/cockroachlabs/open-sourced-interview-process) - Cockroach Labs published their process “to create familiarity for candidates and account for bias, resulting in a better candidate experience and hiring decisions.”
+*   [Open Sourced Interview Process (⭐381)](https://github.com/cockroachlabs/open-sourced-interview-process) - Cockroach Labs published their process “to create familiarity for candidates and account for bias, resulting in a better candidate experience and hiring decisions.”
 *   [Rethinking the Hiring Process](https://www.karllhughes.com/posts/rethinking-hiring) - “Testing programmers at something they aren't actually expected to be good at and expecting to learn something about how they would work at your company is delusional, and I think these kind of interviews only serve to make the hiring team feel smarter and ensure better outcomes for engineers with traditional CS backgrounds.”
 
 ### Recruitment / Coding Challenge
@@ -243,7 +243,6 @@
 ### Recruitment / Negotiation
 
 *   [How Not to Bomb Your Offer Negotiation](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/) - “A good negotiator is empathetic and collaborative. They don't try to control you or issue ultimatums. Rather, they try to think creatively about how to fulfill both your and their needs.”
-*   [How to answer the “What's your current salary?” job interview question](https://42hire.com/how-to-answer-the-whats-your-current-salary-job-interview-question-486254cb59ad#.izg4ips52) - This article explain the dynamic of that sneaky question and how to defuse it.
 
 ### Motivation / Negotiation
 
@@ -273,7 +272,6 @@
 
 *   “People make bad choices if they're mad or scared or stressed.” - [Disney's Frozen](https://i.pinimg.com/originals/b5/17/97/b5179700050b96f91f63e086e053b5ee.jpg).
 *   [I coached CEOs, founders, VCs and other executive: These are the biggest takeaways](https://leowid.com/2019-2) - Excerpt: “We're all just big, complicated bags of emotion walking around; Power comes with the ability to receive a No; Learning to manage your focus, not your time.”
-*   [Intellectual Humility Cheat Sheet](https://images.squarespace-cdn.com/content/v1/53419b80e4b0cccdfc3bbcf8/1579371627532-SANUEQ1REPX09L8NE1XM/ke17ZwdGBToddI8pDm48kI9Q46LYBJG1wKj9b7EvhSB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmWp-RWlGnWD_Yv5axNBE_gjfhPXbI2t7MOi3WVleCqN9URFC-c33mY-I6dtTBVWXC/ih-cheat-sheet-v2.jpg) - “is about being open and able to change your mind about important things, and being able to discern when you should.”
 
 ### Team Dynamics / Behavioral
 
@@ -284,7 +282,6 @@
 ### Engineering / Systems Complexity
 
 *   [Second-system effect](https://en.wikipedia.org/wiki/Second-system_effect) - “Tendency of small, elegant, and successful systems, to be succeeded by over-engineered, bloated systems”.
-*   [The Efficiency-Destroying Magic of Tidying Up](https://florentcrivello.com/index.php/2019/09/04/the-efficiency-destroying-magic-of-tidying-up/) - “Efficiency tends to look messy, and good looks tend to be inefficient.” A reminder that sometimes we should just accept [the messiness of the world (⭐19k)](https://github.com/kdeldycke/awesome-falsehood).
 
 ### Engineering / Technology
 
@@ -326,16 +323,11 @@
 
 ### Project Management / Specifications
 
-*   “Walking on water and developing software from a specification are easy if both are frozen.” Edward V. Berard - [Essays on object-oriented software engineering](https://amzn.com/0132888955/?tag=kevideld-20).
 *   [Requirements volatility is the core problem of software engineering](https://stackoverflow.blog/2020/02/20/requirements-volatility-is-the-core-problem-of-software-engineering/) - “Start by accepting that change is inevitable. (…) As a consequence of this, software is never finished, only abandoned. (…) This means that no software product is ever exactly, perfectly satisfactory.”
 
 ### Agile / Tickets
 
 *   “The fundamental problem that drives most agile failures isn't in the team's execution, it's in the business' expectations. One side is signed up for incremental delivery, and one side is set up for a fixed scope and deadline and the result is misery.” ([source](https://news.ycombinator.com/item?id=20326074))
-
-### Key Performance Indicator (KPI) / Tickets
-
-*   “Numerical goals set for other people, without a road map to reach the goal, have effects opposite to the effects sought.” - [W. Edwards Deming](https://quotes.deming.org/authors/W._Edwards_Deming/quote/2068-2)
 
 ### Objectives and Key Results (OKR) / Tickets
 
@@ -354,14 +346,13 @@
 ### Communication / Writing
 
 *   [The Baldwin Formula for scientific writing: writing papers and reviews](https://www.ice.mpg.de/ext/fileadmin/extranet/dept_itb/The_Baldwin_Formula_for_writing_a_scientific_paper_and_reviewing_papers.pdf) - “The most efficient way to write scientific papers is to write while you are still conducting experiments”.
-*   [Ten simple rules for structuring papers](https://www.biorxiv.org/content/10.1101/088278v5.full) - “Focusing on how readers consume information, we present a set of 10 simple rules to help you get across the main idea of your paper.”
 *   [Ten simple rules for getting started on Twitter as a scientist](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007513) - Twitter “can be used in a much more active, collaborative way: to ask for advice, to form new bonds and scientific collaborations, to announce jobs and find employees, to find new mentors and jobs.”
 
 ### Communication / Style
 
 *   [BLUF: The Military Standard That Can Make Your Writing More Powerful](https://www.animalz.co/blog/bottom-line-up-front/) - “BLUF is a military communications acronym—it stands for “bottom line up front”—that's designed to enforce speed and clarity in reports and emails.”
 *   [`proselint`](https://github.com/amperser/proselint/) - Places the world's greatest writers and editors by your side, where they whisper suggestions on how to improve your prose.
-*   [alex (⭐4.5k)](https://github.com/get-alex/alex) - Whether your own or someone else's writing, alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
+*   [alex (⭐4.6k)](https://github.com/get-alex/alex) - Whether your own or someone else's writing, alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
 
 ### Compensation / Equity
 
@@ -370,7 +361,6 @@
 
 ### Politics / Equity
 
-*   [HiPPO FAQ](http://bitly.com/HIPPOExplained) - HiPPO stands for “Highest Paid Person's Opinion”, a trait of dysfunctional culture, in which power politics trumps data.
 *   [Selectorate theory](https://en.wikipedia.org/wiki/Selectorate_theory) - “In selectorate theory, three groups of people affect leaders. These groups are the nominal selectorate, the real selectorate, and the winning coalition. (…) To remain in power, leaders must maintain their winning coalition.”
 *   “Playing the game well is now front and center” ([source](https://news.ycombinator.com/item?id=21925738)), or why the [Key practices for achieving large professional goals](https://nodramadevops.com/2019/12/key-practices-for-achieving-large-professional-goals/) is missing the parts about office politics.
 *   [“Company I've worked for had manager who tried to ship features over the weekend with a ragtag team of developers who don't understand why that's a bad idea.”](https://news.ycombinator.com/item?id=22285123) - Tactics of hustling managers, and how the company reacting to that kind of manager makes or break a good place to work.
@@ -430,10 +420,10 @@
 
 *   [Feedbin](https://feedbin.com/) ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)[![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/feedbin/id1444961766)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/feedbin/feedbin)
 *   [NewsBlur](https://newsblur.com/) <sup>[204](https://t.me/s/aboutrss/204)</sup> [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](https://newsblur.com/)[![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](http://itunes.apple.com/us/app/newsblur/id463981119)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.newsblur)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/samuelclay/NewsBlur)
-*   [RSSMonster (⭐388)](https://github.com/pietheinstrengholt/rssmonster) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/pietheinstrengholt/rssmonster)
-*   [Temboz (⭐65)](https://github.com/fazalmajid/temboz) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/fazalmajid/temboz)
+*   [RSSMonster (⭐406)](https://github.com/pietheinstrengholt/rssmonster) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/pietheinstrengholt/rssmonster)
+*   [Temboz (⭐70)](https://github.com/fazalmajid/temboz) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/fazalmajid/temboz)
 *   [KrISS feed](http://tontof.net/kriss/feed/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/tontof/kriss_feed)
-*   [Leed (Light Feed) (⭐191)](https://github.com/LeedRSS/Leed) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/LeedRSS/Leed)
+*   [Leed (Light Feed) (⭐197)](https://github.com/LeedRSS/Leed) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/LeedRSS/Leed)
 
 ## [11. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
@@ -451,7 +441,7 @@
 
 ### Text
 
-*   [CodeMirror Swift (⭐88)](https://github.com/ProxymanApp/CodeMirror-Swift) - A lightweight wrapper of CodeMirror for macOS and iOS. Support Syntax Highlighting & Themes.
+*   [CodeMirror Swift (⭐93)](https://github.com/ProxymanApp/CodeMirror-Swift) - A lightweight wrapper of CodeMirror for macOS and iOS. Support Syntax Highlighting & Themes.
 
 ## [14. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
@@ -470,10 +460,8 @@
 
 ### Marketplace / Cloud Resources
 
-*   [Incentive Engineering for Computational Resource Management](https://agoric.com/assets/pdf/papers/incentive-engineering-for-computational-resource-management.pdf) - Paper exploring the “mechanisms for the allocation of processor time and storage that are compatible both with programming practice and with market mechanisms.”
 *   [Pricing of Service in Clouds: Optimal Response and Strategic Interactions](http://www.sigmetrics.org/mama/2013/abstracts2013/UrgaonkarEtAl.pdf) - “How should the consumer modulate its demand to optimize its profits? (…) How should the provider and consumer negotiate the specific pricing structure they will employ?” Covers non-linear models, tiered pricing, elastic demand, consumer et provider strategies.
 *   [Dynamic Cloud Pricing for Revenue Maximization](https://henryhxu.github.io/share/hxu-tcc2013.pdf) - “Amazon's spot price is unlikely to be set according to market supply and demand. Rather, price oscillates within a very narrow band most of the time, which is more likely to be an artifact of some pricing algorithm with predetermined reserve price.”
-*   [Usage Patterns and the Economics of the Public Cloud](https://vita.mcafee.cc/PDF/EconPublicCloud.pdf) - “We examine the economics of demand and supply in cloud computing. (…) These results explain why fixed prices currently prevail despite the seeming need for time-varying dynamics. Examining the actual CPU utilization provides a lens into the future. (…) demand fluctuations would be on par with the three classic industries where dynamic pricing is important (hotels, electricity, airlines) and dynamic prices would be essential for efficiency.”
 *   [Maximizing Profit of Cloud Brokers under Quantized Billing Cycles: a Dynamic Pricing Strategy based on Ski-Rental Problem](https://arxiv.org/pdf/1507.02545.pdf) - “The key idea of our algorithms is to use pricing signal to regulate user demand. One may argue that such an algorithm gives poor service to the user as it pushes tasks out of the queue in order to maximize cloud broker's profit.”
 *   [Present or Future: Optimal Pricing for Spot Instances](https://web.archive.org/web/20150708151037/http://www.temple.edu/cis/icdcs2013/data/5000a410.pdf) - “Pricing policy of spot resources should be carefully designed and the impact on both present and future should be considered.”
 *   “You always pay the spot market price, not your bid.” ([source](https://news.ycombinator.com/item?id=20347716)) - Simple explanation of the bidding mechanism.
@@ -520,11 +508,7 @@
 
 ### Templates / Books
 
-*   [Eisvogel (⭐4.6k)](https://github.com/Wandmalfarbe/pandoc-latex-template) - Clean academic pandoc LaTeX template.
-
-### Tutorials / Books
-
-*   [Scott Selisker](http://u.arizona.edu/\~selisker/post/workflow/) - Plain Text Workflow for Academic Writing with Atom.
+*   [Eisvogel (⭐5.3k)](https://github.com/Wandmalfarbe/pandoc-latex-template) - Clean academic pandoc LaTeX template.
 
 ## [17. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 

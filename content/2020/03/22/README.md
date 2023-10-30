@@ -16,7 +16,7 @@
 
 ### Distributions / Zabbix
 
-*   [dbatools (⭐2.1k)](https://github.com/sqlcollaborative/dbatools) - PowerShell module that you may think of like a command-line SQL Server Management Studio.
+*   [dbatools (⭐2.2k)](https://github.com/sqlcollaborative/dbatools) - PowerShell module that you may think of like a command-line SQL Server Management Studio.
 
 ## [3. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
 
@@ -29,12 +29,12 @@
 
 ### Plugins / Libraries
 
-*   [JSDoc (⭐831)](https://github.com/gajus/eslint-plugin-jsdoc) - Linting rules for JSDoc comments (including the JavaScript within `@example`).
+*   [JSDoc (⭐852)](https://github.com/gajus/eslint-plugin-jsdoc) - Linting rules for JSDoc comments (including the JavaScript within `@example`).
 
 ### Plugins / Practices and Specific ES Features
 
 *   [no-restricted-syntax (⭐4)](https://github.com/brettz9/eslint-plugin-query) - Show queried syntax's content in messages.
-*   [sort-keys-fix (⭐84)](https://github.com/leo-buneev/eslint-plugin-sort-keys-fix) - Adds fixer for ESLint `sort-keys` rule.
+*   [sort-keys-fix (⭐85)](https://github.com/leo-buneev/eslint-plugin-sort-keys-fix) - Adds fixer for ESLint `sort-keys` rule.
 
 ### Plugins / Testing Tools
 
@@ -42,12 +42,12 @@
     *   [expect practices (⭐27)](https://github.com/turbo87/eslint-plugin-chai-expect)
     *   [with unused expressions (⭐51)](https://github.com/ihordiachenko/eslint-plugin-chai-friendly)
     *   [permitted keywords (⭐1)](https://github.com/gavinaiken/eslint-plugin-chai-expect-keywords)
-    *   [with chai-as-promised plugin (⭐2)](https://github.com/fintechstudios/eslint-plugin-chai-as-promised)
+    *   [with chai-as-promised plugin (⭐3)](https://github.com/fintechstudios/eslint-plugin-chai-as-promised)
     <!-- lint disable double-link -->
     *   [globals (⭐2)](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
 *   Mocha
     *   [Enforcing practices (⭐271)](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha.
-    *   [Enforcing manageability (⭐11)](https://github.com/onechiporenko/eslint-plugin-mocha-cleanup/)
+    *   [Enforcing manageability (⭐12)](https://github.com/onechiporenko/eslint-plugin-mocha-cleanup/)
 *   [QUnit (⭐27)](https://github.com/platinumazure/eslint-plugin-qunit) - Linting rules for QUnit.
 
 ## [5. Awesome Icons](/content/notlmn/awesome-icons/README.md)
@@ -90,7 +90,7 @@
 
 ### Front-End Development
 
-*   [Material-UI (⭐175)](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
+*   [Material-UI (⭐192)](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
 
 ## [11. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 

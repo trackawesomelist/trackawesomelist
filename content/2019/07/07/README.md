@@ -17,7 +17,7 @@
 
 ### Frameworks, Libraries and Tools / Serialization
 
-*   [BinarySerializer (⭐248)](https://github.com/jefffhaynes/BinarySerializer) - Serialization for custom packet and protocol formats, supports bit-twiddling.
+*   [BinarySerializer (⭐270)](https://github.com/jefffhaynes/BinarySerializer) - Serialization for custom packet and protocol formats, supports bit-twiddling.
 
 ## [3. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -29,29 +29,29 @@
 
 ### Miscellaneous
 
-*   [react-swipe-to-delete-ios (⭐34)](https://github.com/arnaudambro/react-swipe-to-delete-ios) - [demo](https://arnaudambro.github.io/react-swipe-to-delete-ios/) - To delete an item in a list the same way iOS does.
+*   [react-swipe-to-delete-ios (⭐40)](https://github.com/arnaudambro/react-swipe-to-delete-ios) - [demo](https://arnaudambro.github.io/react-swipe-to-delete-ios/) - To delete an item in a list the same way iOS does.
 
 ## [5. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
 ### Dataset / Web
 
 *   [bravefrontier\_data (⭐63)](https://github.com/cheahjs/bravefrontier_data) - Mobile game data, items and missions information.
-*   [GTA-3D Dataset (⭐118)](https://github.com/oscarmcnulty/gta-3d-dataset) - 2D and 3D images from Grand Theft Auto 5 game.
+*   [GTA-3D Dataset (⭐120)](https://github.com/oscarmcnulty/gta-3d-dataset) - 2D and 3D images from Grand Theft Auto 5 game.
 
 ### Dataset / Related
 
-*   [Steam Game Data (⭐31)](https://github.com/CraigKelly/steam-data) - Combination of Steam API and Steam Spy.
-*   [Steam Review Datasets (⭐35)](https://github.com/mulhod/steam_reviews) - Steam user reviews.
+*   [Steam Game Data (⭐32)](https://github.com/CraigKelly/steam-data) - Combination of Steam API and Steam Spy.
+*   [Steam Review Datasets (⭐37)](https://github.com/mulhod/steam_reviews) - Steam user reviews.
 
 ### Miscellaneous / Related
 
-*   [datasets-games (⭐9)](https://github.com/cncplyr/datasets-games) - Datasets from a variety of games.
+*   [datasets-games (⭐8)](https://github.com/cncplyr/datasets-games) - Datasets from a variety of games.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### JSON
 
-*   [cJSON (⭐8.8k)](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C. \[MIT]
+*   [cJSON (⭐9.3k)](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C. \[MIT]
 *   [simdjson (⭐17k)](https://github.com/lemire/simdjson) - Extremely fast JSON library that can parse gigabytes of JSON per second. \[Apache-2.0]
 
 ## [7. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)

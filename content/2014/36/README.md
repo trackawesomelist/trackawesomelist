@@ -10,7 +10,7 @@
 
 ### Data Visualization
 
-*   [Chartist.js (⭐11)](https://github.com/gionkunz/chartist-js) - another open source HTML5 Charts visualization.
+*   [Chartist.js (⭐43)](https://github.com/gionkunz/chartist-js) - another open source HTML5 Charts visualization.
 
 ## [2. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Containers
 
-*   [Hashmaps (⭐250)](https://github.com/goossaert/hashmap) - Implementation of open addressing hash table algorithms in C++. \[MIT]
+*   [Hashmaps (⭐252)](https://github.com/goossaert/hashmap) - Implementation of open addressing hash table algorithms in C++. \[MIT]
 
 ### JSON
 
@@ -84,22 +84,22 @@
 
 *   [cpp-netlib](http://cpp-netlib.org/) - A collection of open-source libraries for high level network programming. \[Boost]
 *   [Dyad.c (⭐1.4k)](https://github.com/rxi/dyad) - Asynchronous networking for C. \[MIT]
-*   [Muduo (⭐13k)](https://github.com/chenshuo/muduo) - A C++ non-blocking network library for multi-threaded server in Linux. \[BSD]
-*   [WebSocket++ (⭐6.2k)](https://github.com/zaphoyd/websocketpp) - C++/Boost Asio based websocket client/server library. \[BSD]
+*   [Muduo (⭐14k)](https://github.com/chenshuo/muduo) - A C++ non-blocking network library for multi-threaded server in Linux. \[BSD]
+*   [WebSocket++ (⭐6.4k)](https://github.com/zaphoyd/websocketpp) - C++/Boost Asio based websocket client/server library. \[BSD]
 
 ### Physics
 
 *   [Bullet (⭐11k)](https://github.com/bulletphysics/bullet3) - A 3D physics engine for games. \[zlib] [website](http://bulletphysics.org)
-*   [Chipmunk (⭐1.9k)](https://github.com/slembcke/Chipmunk2D) - A fast and lightweight 2D game physics library. \[MIT] [website](https://chipmunk-physics.net/)
-*   [LiquidFun (⭐4.5k)](https://github.com/google/liquidfun) - A 2D physics engine for games. \[BSD-like]
+*   [Chipmunk (⭐2k)](https://github.com/slembcke/Chipmunk2D) - A fast and lightweight 2D game physics library. \[MIT] [website](https://chipmunk-physics.net/)
+*   [LiquidFun (⭐4.6k)](https://github.com/google/liquidfun) - A 2D physics engine for games. \[BSD-like]
 *   [ODE](http://www.ode.org/) - Open Dynamics Engine - An open source, high performance library for simulating rigid body dynamics. \[BSD\&LGPL]
-*   [ofxBox2d (⭐317)](https://github.com/vanderlin/ofxBox2d) - openFrameworks wrapper for Box2D. \[BSD-like]
+*   [ofxBox2d (⭐322)](https://github.com/vanderlin/ofxBox2d) - openFrameworks wrapper for Box2D. \[BSD-like]
 
 ### Scripting
 
-*   [ChaiScript (⭐2.7k)](https://github.com/ChaiScript/ChaiScript/) - An easy to use embedded scripting language for C++. \[BSD] [website](http://chaiscript.com/)
+*   [ChaiScript (⭐2.8k)](https://github.com/ChaiScript/ChaiScript/) - An easy to use embedded scripting language for C++. \[BSD] [website](http://chaiscript.com/)
 *   [Lua](http://www.lua.org/) - A minimal and fast scripting engine for configuration files and basic application scripting. \[MIT]
-*   [luacxx (⭐149)](https://github.com/dafrito/luacxx) - C++11 API for creating Lua bindings. \[MIT]
+*   [luacxx (⭐153)](https://github.com/dafrito/luacxx) - C++11 API for creating Lua bindings. \[MIT]
 
 ### Video
 
@@ -108,8 +108,8 @@
 
 ### Virtual Machines
 
-*   [CarpVM (⭐977)](https://github.com/tekknolagi/carp) - "interesting" VM in C. Let's see how this goes. \[GPLv3]
-*   [TinyVM (⭐3k)](https://github.com/jakogut/tinyvm) - A small, fast, lightweight virtual machine written in pure ANSI C. \[MIT]
+*   [CarpVM (⭐976)](https://github.com/tekknolagi/carp) - "interesting" VM in C. Let's see how this goes. \[GPLv3]
+*   [TinyVM (⭐3.1k)](https://github.com/jakogut/tinyvm) - A small, fast, lightweight virtual machine written in pure ANSI C. \[MIT]
 
 ### XML
 
@@ -118,16 +118,16 @@
 *   [PugiXML](http://pugixml.org/) - A light-weight, simple and fast XML parser for C++ with XPath support. \[MIT]
 *   [RapidXml](http://rapidxml.sourceforge.net/) - An attempt to create the fastest XML parser possible, while retaining useability, portability and reasonable W3C compatibility. \[Boost]
 *   [TinyXML](http://sourceforge.net/projects/tinyxml/) - A simple, small, minimal, C++ XML parser that can be easily integrating into other programs. \[zlib]
-*   [TinyXML2 (⭐4.5k)](https://github.com/leethomason/tinyxml2) - A simple, small, efficient, C++ XML parser that can be easily integrating into other programs. \[zlib]
+*   [TinyXML2 (⭐4.7k)](https://github.com/leethomason/tinyxml2) - A simple, small, efficient, C++ XML parser that can be easily integrating into other programs. \[zlib]
 *   [Xerces-C++](http://xerces.apache.org/xerces-c/) - A validating XML parser written in a portable subset of C++. \[Apache2]
 
 ### Miscellaneous
 
 *   [casacore](https://code.google.com/p/casacore/) - A set of c++ core libraries derived from aips++. \[LGPL]
-*   [cxx-prettyprint (⭐537)](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers. \[Boost]
-*   [libcpuid (⭐375)](https://github.com/anrieff/libcpuid) - A small C library for x86 CPU detection and feature extraction. \[BSD]
-*   [libevil (⭐28)](https://github.com/avati/libevil) - The Evil License Manager. \[GPLv3]
-*   [SDS (⭐4.4k)](https://github.com/antirez/sds) - Simple Dynamic Strings library for C. \[BSD]
+*   [cxx-prettyprint (⭐544)](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers. \[Boost]
+*   [libcpuid (⭐399)](https://github.com/anrieff/libcpuid) - A small C library for x86 CPU detection and feature extraction. \[BSD]
+*   [libevil (⭐29)](https://github.com/avati/libevil) - The Evil License Manager. \[GPLv3]
+*   [SDS (⭐4.6k)](https://github.com/antirez/sds) - Simple Dynamic Strings library for C. \[BSD]
 
 ### Online Compiler
 
@@ -174,7 +174,7 @@
 
 ### Computer Vision
 
-*   [clj-tesseract (⭐53)](https://github.com/antoniogarrote/clj-tesseract)
+*   [clj-tesseract (⭐55)](https://github.com/antoniogarrote/clj-tesseract)
 *   [vision](http://nakkaya.com/vision.html)
 
 ### Debugging

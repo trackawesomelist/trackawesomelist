@@ -8,94 +8,90 @@
 
 ## [1. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
-### Security monitoring / Firewall appliances or distributions
+### Security monitoring / Post-engagement analysis and reporting
 
-*   [Starbase (⭐258)](https://github.com/JupiterOne/starbase) - Collects assets and relationships from services and systems into an intuitive graph view to offer graph-based security analysis for everyone.
+*   [Starbase (⭐294)](https://github.com/JupiterOne/starbase) - Collects assets and relationships from services and systems into an intuitive graph view to offer graph-based security analysis for everyone.
 
 ## [2. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Admin
 
-*   [SQLAlchemy Admin (⭐782)](https://github.com/aminalaee/sqladmin) - Admin Panel for FastAPI/Starlette that works with SQLAlchemy models.
+*   [SQLAlchemy Admin (⭐1.1k)](https://github.com/aminalaee/sqladmin) - Admin Panel for FastAPI/Starlette that works with SQLAlchemy models.
 
 ### Utils / Other Tools
 
-*   [FastAPI Opentracing (⭐19)](https://github.com/wesdu/fastapi-opentracing) - Opentracing middleware and database tracing support for FastAPI.
+*   [FastAPI Opentracing (⭐21)](https://github.com/wesdu/fastapi-opentracing) - Opentracing middleware and database tracing support for FastAPI.
 
 ### Official Resources / Other Tools
 
 *   [Discord](https://discord.com/invite/VQjSZaeJmf) - Chat with other FastAPI users.
 
-### Tutorials / Other Tools
-
-*   [How to monitor your FastAPI service](https://guitton.co/posts/fastapi-monitoring) - Explains how to implement Application Performance Monitoring (APM) using OpenTelemetry and Datadog/Jaeger.
-
 ### Docker Images / Other Tools
 
-*   [inboard (⭐121)](https://github.com/br3ndonland/inboard) - Docker images to power your FastAPI apps and help you ship faster.
-*   [uvicorn-gunicorn-fastapi-docker (⭐2.1k)](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python 3.7 and 3.6 with performance auto-tuning.
-*   [uvicorn-gunicorn-poetry (⭐26)](https://github.com/max-pfeiffer/uvicorn-gunicorn-poetry) - This Docker image provides a platform to run FastAPI using Gunicorn with Uvicorn workers. It provides Poetry for managing dependencies and setting up a virtual environment in the container.
-*   [uvicorn-poetry (⭐21)](https://github.com/max-pfeiffer/uvicorn-poetry) - This Docker image provides a platform to run FastAPI with Uvicorn on Kubernetes container orchestration system. It provides Poetry for managing dependencies and setting up a virtual environment in the container.
+*   [inboard (⭐145)](https://github.com/br3ndonland/inboard) - Docker images to power your FastAPI apps and help you ship faster.
+*   [uvicorn-gunicorn-fastapi-docker (⭐2.3k)](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python 3.7 and 3.6 with performance auto-tuning.
+*   [uvicorn-gunicorn-poetry (⭐31)](https://github.com/max-pfeiffer/uvicorn-gunicorn-poetry) - This Docker image provides a platform to run FastAPI using Gunicorn with Uvicorn workers. It provides Poetry for managing dependencies and setting up a virtual environment in the container.
+*   [uvicorn-poetry (⭐28)](https://github.com/max-pfeiffer/uvicorn-poetry) - This Docker image provides a platform to run FastAPI with Uvicorn on Kubernetes container orchestration system. It provides Poetry for managing dependencies and setting up a virtual environment in the container.
 
 ### Open Source Projects / Other Tools
 
-*   [FastAPI Websocket Broadcast (⭐113)](https://github.com/kthwaite/fastapi-websocket-broadcast) - Websocket 'broadcast' demo.
+*   [FastAPI Websocket Broadcast (⭐118)](https://github.com/kthwaite/fastapi-websocket-broadcast) - Websocket 'broadcast' demo.
 
 ## [3. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [Pyxel (⭐11k)](https://github.com/kitao/pyxel) - a retro game engine for Python.
+*   :tada: [Pyxel (⭐13k)](https://github.com/kitao/pyxel) - a retro game engine for Python.
 
 ## [4. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Communications / Modbus
 
-*   [micropython-modbus (⭐47)](https://github.com/brainelectronics/micropython-modbus) - ModBus TCP and RTU library supporting client and host mode. Based on pycom-modbus from Pycom.
+*   [micropython-modbus (⭐64)](https://github.com/brainelectronics/micropython-modbus) - ModBus TCP and RTU library supporting client and host mode. Based on pycom-modbus from Pycom.
 
 ### Communications / Serial
 
-*   [I2C Slave (⭐610)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/I2C.md) - Uses the Pyboard's I2C slave mode to implement a full duplex asynchronous link. Principal use case is for ESP8266 which has only one UART.
+*   [I2C Slave (⭐635)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/I2C.md) - Uses the Pyboard's I2C slave mode to implement a full duplex asynchronous link. Principal use case is for ESP8266 which has only one UART.
 
 ### Communications / WiFi
 
-*   [Micropython-ESP-WiFi-Manager (⭐16)](https://github.com/brainelectronics/Micropython-ESP-WiFi-Manager) - WiFi Manager to configure and connect to networks.
+*   [Micropython-ESP-WiFi-Manager (⭐21)](https://github.com/brainelectronics/Micropython-ESP-WiFi-Manager) - WiFi Manager to configure and connect to networks.
 
 ### Display / GUI
 
-*   [TFT-GUI (⭐78)](https://github.com/peterhinch/micropython-tft-gui) - A fast touch GUI for large displays based on SSD1963 controller with XPT2046 touch controller.
+*   [TFT-GUI (⭐82)](https://github.com/peterhinch/micropython-tft-gui) - A fast touch GUI for large displays based on SSD1963 controller with XPT2046 touch controller.
 
 ### Storage / Flash
 
-*   [micropython-winbond (⭐3)](https://github.com/brainelectronics/micropython-winbond) - Interact with Winbond W25Q Flash chips via SPI.
+*   [micropython-winbond (⭐4)](https://github.com/brainelectronics/micropython-winbond) - Interact with Winbond W25Q Flash chips via SPI.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [pyenv (mattberther) (⭐42)](https://github.com/mattberther/zsh-pyenv) - Inspired by [zsh-rbenv (⭐2)](https://github.com/ecortinas/zsh-rbenv). Installs, updates or loads `pyenv`, and adds extra functionality.
-*   [pyenv (xlshiz) (⭐2)](https://github.com/xlshiz/pyenv-zsh-plugin) - Loads [pyenv (⭐32k)](https://github.com/pyenv/pyenv) into the current shell and provides prompt info via the `pyenv_prompt_info` function. Also loads [pyenv-virtualenv (⭐5.5k)](https://github.com/pyenv/pyenv-virtualenv) if available.
-*   [pyenv-lazy (⭐37)](https://github.com/davidparsson/zsh-pyenv-lazy) - Lazy load [pyenv (⭐32k)](https://github.com/pyenv/pyenv). The initial `eval "$(pyenv init -)"` is executed the first time `pyenv` is called.
+*   [pyenv (mattberther) (⭐42)](https://github.com/mattberther/zsh-pyenv) - Inspired by **zsh-rbenv**. Installs, updates or loads `pyenv`, and adds extra functionality.
+*   [pyenv (xlshiz) (⭐2)](https://github.com/xlshiz/pyenv-zsh-plugin) - Loads [pyenv (⭐34k)](https://github.com/pyenv/pyenv) into the current shell and provides prompt info via the `pyenv_prompt_info` function. Also loads [pyenv-virtualenv (⭐5.7k)](https://github.com/pyenv/pyenv-virtualenv) if available.
+*   [pyenv-lazy (⭐40)](https://github.com/davidparsson/zsh-pyenv-lazy) - Lazy load [pyenv (⭐34k)](https://github.com/pyenv/pyenv). The initial `eval "$(pyenv init -)"` is executed the first time `pyenv` is called.
 *   [pyvenv-fast (⭐2)](https://github.com/ACmyles/pyvenv-fast) - Launch a Python `venv` with one command. Designed for use with [dotpyvenv (⭐7)](https://github.com/jeanpantoja/dotpyvenv).
-*   [unwrap (⭐2)](https://github.com/foxleigh81/unwrap-zsh-plugin) - Allows you to remove a directory without removing the contents - it puts them in the directory's parent directory.
+*   [unwrap (⭐3)](https://github.com/foxleigh81/unwrap-zsh-plugin) - Allows you to remove a directory without removing the contents - it puts them in the directory's parent directory.
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [ziggy42/kolor (⭐71)](https://github.com/ziggy42/kolor) - A library to print colored strings, with Kotlin.
+*   [ziggy42/kolor (⭐73)](https://github.com/ziggy42/kolor) - A library to print colored strings, with Kotlin.
 
 ## [7. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### UI Libraries
 
-*   [AgnosticUI (⭐623)](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
+*   [AgnosticUI (⭐670)](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Translation Management
 
-*   [Lecto](https://lecto.ai/) - Machine Translation API with Free tier (30 free requests, 1000 translated characters per request). Integrated with Loco Translate Wordpress plugin.
+*   [Lecto](https://lecto.ai/) - Machine Translation API with Free tier (30 free requests, 1000 translated characters per request). Integrated with the Loco Translate Wordpress plugin.
 
 ## [9. Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md)
 
@@ -105,7 +101,7 @@
 
 ### Tools / Ansible
 
-*   [comtrya (⭐272)](https://github.com/comtrya/comtrya) - Configuration management for localhost, written in Rust, for Linux,
+*   [comtrya (⭐370)](https://github.com/comtrya/comtrya) - Configuration management for localhost, written in Rust, for Linux,
     BSD, macOS, and Windows
 
 ## [10. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
@@ -140,13 +136,13 @@
 
 ### Audio
 
-*   [Beatbump (⭐731)](https://github.com/snuffyDev/Beatbump) - Alternative frontend for YouTube Music; no ads and custom API wrapper.
+*   [Beatbump (⭐845)](https://github.com/snuffyDev/Beatbump) - Alternative frontend for YouTube Music; no ads and custom API wrapper.
 
 ## [12. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
 ### Generic
 
-*   [Icons8 Line Awesome (⭐1.1k)](https://github.com/icons8/line-awesome) - Swap Font Awesome for modern line icons in one line of code.
+*   [Icons8 Line Awesome (⭐1.2k)](https://github.com/icons8/line-awesome) - Swap Font Awesome for modern line icons in one line of code.
 
 ## [13. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 
@@ -183,7 +179,7 @@
 
 ### Status Bar
 
-*   [tmux-window-name (⭐108)](https://github.com/ofirgall/tmux-window-name) Names your tmux windows smartly.
+*   [tmux-window-name (⭐135)](https://github.com/ofirgall/tmux-window-name) Names your tmux windows smartly.
 
 ---
 

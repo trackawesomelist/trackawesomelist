@@ -72,7 +72,6 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 *   [Official Development Guide](https://nginx.org/en/docs/dev/development_guide.html)
 *   [Guide to Nginx Module Development](https://www.evanmiller.org/nginx-modules-guide.html)
 *   [Advanced Topics In Nginx Module Development](https://www.evanmiller.org/nginx-modules-guide-advanced.html)
-*   [Developing Nginx Modules](https://www.airpair.com/nginx/extending-nginx-tutorial)
 
 ## APIs
 
@@ -80,7 +79,6 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 *   [GIN - JSON-API framework](http://gin.io/)
 *   [Outbound API rate limits: the nginx way](https://www.monterail.com/blog/2011/outbound-api-rate-limits-the-nginx-way)
 *   [Using Nginx to comply with a third-party API's rate limits](https://vitobotta.com/2014/01/12/nginx-rate-limits/)
-*   [Simple API with Nginx and PostgreSQL](http://rny.io/nginx/postgresql/2013/07/26/simple-api-with-nginx-and-postgresql.html)
 *   [Kong - Management Layer for Microservices and APIs](https://konghq.com/kong/)
 
 ## Hacks
@@ -103,20 +101,19 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 *   [Nginx, Lua, and beyond](https://agentzh.org/misc/slides/nginx-lua-and-beyond.pdf)
 *   [Pushing Nginx to its limit with Lua](https://blog.cloudflare.com/pushing-nginx-to-its-limit-with-lua/)
-*   [Augmenting APIs with Nginx and Lua](https://tech.3scale.net/2013/01/09/augment-your-api-without-touching-it)
 *   [Adding OAuth Support to Nginx via Lua](https://chairnerd.seatgeek.com/oauth-support-for-nginx-with-lua/)
 *   [Scripting libdrizzle with Lua inside Nginx](https://agentzh.org/misc/slides/libdrizzle-lua-nginx.pdf)
 *   [Nginx and Lua](https://web.archive.org/web/20141223070856/http://devblog.mixlr.com/2012/09/01/nginx-lua/)
 *   [Writing an Nginx authentication module in Lua](https://www.stavros.io/posts/writing-an-nginx-authentication-module-in-lua/)
 *   [Scaling TextRazor in the Cloud with Nginx and Lua](https://www.textrazor.com/blog/2013/03/scaling-textrazor-in-the-cloud-with-nginx-and-lua.html)
-*   [LSSO - Lua + Nginx SSO System with an OAuth Backend (⭐45)](https://github.com/pirogoeth/lsso)
+*   [LSSO - Lua + Nginx SSO System with an OAuth Backend (⭐44)](https://github.com/pirogoeth/lsso)
 *   [Measuring Nginx Cache Performance using Lua and Redis](https://charlesleifer.com/blog/measuring-nginx-cache-performance-using-lua-and-redis/)
 *   [nginx-lua - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu. (⭐142)](https://github.com/fabiocicerchia/nginx-lua)
 
 ## Nginx + njs
 
 *   [njs scripting language reference and examples](https://nginx.org/en/docs/njs/)
-*   [Collection of njs use cases (⭐5)](https://github.com/f5devcentral/nginx-njs-usecases)
+*   [Collection of njs use cases (⭐6)](https://github.com/f5devcentral/nginx-njs-usecases)
 *   [JavaScript embedded on NGINX - Getting started with njs](https://www.bluedoa.com/javascript-embedded-on-nginx-getting-started-with-njs/)
 *   [Create Nginx extensions in JavaScript](https://dev.to/metal3d/create-nginx-extensions-in-javascript-3310)
 *   [Make your nginx config even more modular and reusable with njs 0.7.7](https://www.nginx.com/blog/make-nginx-config-even-more-modular-reusable-njs-0-7-7/)
@@ -132,7 +129,6 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 *   [Nginx image processing server with OpenResty and Lua](https://leafo.net/posts/creating_an_image_server.html)
 *   [Building an OpenResty events server (⭐64)](https://github.com/cagerton/dropthat/)
 *   [SysAdvent 2014 - OpenResty, Nginx and Lua](https://sysadvent.blogspot.com/2014/12/day-22-largely-unappreciated.html) ([Source (⭐9)](https://github.com/lusis/sysadvent-2014))
-*   [OpenResty (Nginx) with dynamically generated certificates](https://blog.dutchcoders.io/openresty-with-dynamic-generated-certificates/)
 *   [Ceryx - A dynamic reverse proxy](https://ide.sourcelair.com/blog/articles/75/ceryx-dynamic-nginx)
 *   [An Introduction To OpenResty](https://openmymind.net/An-Introduction-To-OpenResty-Nginx-Lua/)
 *   [Programming OpenResty (written by the OpenResty creator)](https://openresty.gitbooks.io/programming-openresty/content/)

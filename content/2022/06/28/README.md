@@ -16,7 +16,7 @@
 
 ### Templates / Elm
 
-*   [vite-elm-spa (⭐10)](https://github.com/lindsaykwardell/vite-elm-spa) - An unopinionated template for building Elm single page applications.
+*   [vite-elm-spa (⭐11)](https://github.com/lindsaykwardell/vite-elm-spa) - An unopinionated template for building Elm single page applications.
 
 ## [3. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Vexip UI (⭐853)](https://github.com/qmhc/vexip-ui) - A Vue 3 UI Library, Highly customizable property values, Full TypeScript, Performance should be good.
+*   [Vexip UI (⭐1.2k)](https://github.com/qmhc/vexip-ui) - A Vue 3 UI Library, Highly customizable property values, Full TypeScript, Performance should be good.
 
 ## [5. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -40,11 +40,11 @@
 
 ### Testing
 
-*   [BugBug](https://bugbug.io/) - Lightweight test automation tool for web applications. Easy to learn and doesn't require coding. You can run unlimited tests on your own computer for free. For an additional monthly fee, you also get cloud monitoring and CI/CD integration.
+*   [BugBug](https://bugbug.io/) - Lightweight test automation tool for web applications. It is easy to learn and doesn't require coding. You can run unlimited tests on your own computer for free. You also get cloud monitoring and CI/CD integration for an additional monthly fee.
 
 ### Crash and Exception Handling
 
-*   [elmah.io](https://elmah.io/) — Error logging and uptime monitoring for web developers. Free Small Business subscription for open source projects.
+*   [elmah.io](https://elmah.io/) — Error logging and uptime monitoring for web developers. Free Small Business subscription for open-source projects.
 
 ## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -60,41 +60,41 @@
 
 ### CLI Builder
 
-*   [dry-cli (⭐295)](https://github.com/dry-rb/dry-cli) - General purpose Command Line Interface (CLI) framework for Ruby.
+*   [dry-cli (⭐310)](https://github.com/dry-rb/dry-cli) - General purpose Command Line Interface (CLI) framework for Ruby.
 
 ## [9. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Entertainment / Games
 
-*   [pokete (⭐2.6k)](https://github.com/lxgr-linux/pokete) - Pokemon-like.
+*   [pokete (⭐2.7k)](https://github.com/lxgr-linux/pokete) - Pokemon-like.
 
 ### Utilities / Network Utilities
 
-*   [neoss (⭐72)](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics.
+*   [neoss (⭐88)](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics.
 
 ### Version Control / Git
 
-*   [czg (⭐620)](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
+*   [czg (⭐769)](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
 
 ## [10. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Libraries / Python
 
-*   [ODMantic (⭐766)](https://github.com/art049/odmantic) - Asynchronous ODM on top of pydantic
+*   [ODMantic (⭐848)](https://github.com/art049/odmantic) - Asynchronous ODM on top of pydantic
 
 ## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [lmburns/kimbox (⭐54)](https://github.com/lmburns/kimbox) - A colorscheme with a dark background, and vibrant foreground that is centered around the color brown. A modification of [Kimbie Dark](https://marketplace.visualstudio.com/items?itemName=dnamsons.kimbie-dark-plus).
+*   [lmburns/kimbox (⭐63)](https://github.com/lmburns/kimbox) - A colorscheme with a dark background, and vibrant foreground that is centered around the color brown. A modification of [Kimbie Dark](https://marketplace.visualstudio.com/items?itemName=dnamsons.kimbie-dark-plus).
 
 ## [12. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 
-*   [Mctx (⭐1.8k)](https://github.com/deepmind/mctx) - Monte Carlo tree search algorithms in native JAX. <img src="https://img.shields.io/github/stars/deepmind/mctx?style=social" align="center">
-*   [KFAC-JAX (⭐114)](https://github.com/deepmind/kfac-jax) - Second Order Optimization with Approximate Curvature for NNs. <img src="https://img.shields.io/github/stars/deepmind/kfac-jax?style=social" align="center">
-*   [TF2JAX (⭐66)](https://github.com/deepmind/tf2jax) - Convert functions/graphs to JAX functions. <img src="https://img.shields.io/github/stars/deepmind/tf2jax?style=social" align="center">
+*   [Mctx (⭐2k)](https://github.com/deepmind/mctx) - Monte Carlo tree search algorithms in native JAX. <img src="https://img.shields.io/github/stars/deepmind/mctx?style=social" align="center">
+*   [KFAC-JAX (⭐164)](https://github.com/deepmind/kfac-jax) - Second Order Optimization with Approximate Curvature for NNs. <img src="https://img.shields.io/github/stars/deepmind/kfac-jax?style=social" align="center">
+*   [TF2JAX (⭐84)](https://github.com/deepmind/tf2jax) - Convert functions/graphs to JAX functions. <img src="https://img.shields.io/github/stars/deepmind/tf2jax?style=social" align="center">
 
 ---
 

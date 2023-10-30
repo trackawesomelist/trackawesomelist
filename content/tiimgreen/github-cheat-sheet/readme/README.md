@@ -2,7 +2,7 @@
 
 A list of cool features of Git and GitHub.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/tiimgreen/github-cheat-sheet/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) · ⭐ 38K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/tiimgreen/github-cheat-sheet/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) · ⭐ 43K · 🏷️ Development Environment
 
 [ [Daily](/content/tiimgreen/github-cheat-sheet/README.md) / [Weekly](/content/tiimgreen/github-cheat-sheet/week/README.md) / Overview ]
 
@@ -16,7 +16,7 @@ A collection of cool hidden and not so hidden features of Git and GitHub. This c
 
 *Read this in other languages: [English](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md/README.md), [한국어](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md/README.ko.md), [日本語](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md/README.ja.md), [简体中文](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md/README.zh-cn.md), [正體中文](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md/README.zh-tw.md).*
 
-GitHub Cheat Sheet is sponsored by [Drawpoint: create interactive maps and images for your website with no coding](https://www.drawpoint.io)
+GitHub Cheat Sheet is sponsored by [Snapshot: create interactive professional-quality product photos using AI](https://www.snapshotapp.io/)
 
 ## Table of Contents
 
@@ -139,7 +139,7 @@ $ git clone https://github.com/tiimgreen/github-cheat-sheet
 
 #### Compare all Branches to Another Branch
 
-If you go to the repo's [Branches (⭐37k)](https://github.com/tiimgreen/github-cheat-sheet/branches) page, next to the Commits button:
+If you go to the repo's [Branches (⭐43k)](https://github.com/tiimgreen/github-cheat-sheet/branches) page, next to the Commits button:
 
     https://github.com/{user}/{repo}/branches
 
@@ -311,7 +311,7 @@ If set up correctly, every time you receive a Pull Request, [Travis CI](https://
 
 Both issues and pull requests allow filtering in the user interface.
 
-For the Rails repo: [https://github.com/rails/rails/issues (⭐52k)](https://github.com/rails/rails/issues), the following filter is built by selecting the label "activerecord":
+For the Rails repo: [https://github.com/rails/rails/issues (⭐54k)](https://github.com/rails/rails/issues), the following filter is built by selecting the label "activerecord":
 
 `is:issue label:activerecord`
 
@@ -358,7 +358,7 @@ table.add_row('Tim Green', 'tiimgreen@gmail.com')
 puts table.to_s
 ```
 
-GitHub uses [Linguist (⭐10k)](https://github.com/github/linguist) to perform language detection and syntax highlighting. You can find out which keywords are valid by perusing the [languages YAML file (⭐10k)](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml).
+GitHub uses [Linguist (⭐11k)](https://github.com/github/linguist) to perform language detection and syntax highlighting. You can find out which keywords are valid by perusing the [languages YAML file (⭐11k)](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml).
 
 [*Read more about GitHub Flavored Markdown.*](https://help.github.com/articles/github-flavored-markdown/)
 
@@ -604,7 +604,7 @@ GitHub can display several common image formats, including PNG, JPG, GIF, and PS
 
 ### Hub
 
-[Hub (⭐22k)](https://github.com/github/hub) is a command line Git wrapper that gives you extra features and commands that make working with GitHub easier.
+[Hub (⭐23k)](https://github.com/github/hub) is a command line Git wrapper that gives you extra features and commands that make working with GitHub easier.
 
 This allows you to do things like:
 
@@ -882,7 +882,7 @@ produces:
 
 Credit to [Palesz](http://stackoverflow.com/users/88355/palesz)
 
-*This can be aliased using the instructions found [here (⭐37k)](https://github.com/tiimgreen/github-cheat-sheet#aliases).*
+*This can be aliased using the instructions found [here (⭐43k)](https://github.com/tiimgreen/github-cheat-sheet#aliases).*
 
 [*Read more about the Git `log` command.*](http://git-scm.com/docs/git-log)
 
@@ -1030,7 +1030,7 @@ Some useful aliases include:
 | `git remotes`  | `git remote -v`                                                                                                                              | `git config --global alias.remotes 'remote -v'`                                                                                                                         |
 | `git lg`       | `git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --` | `git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --"` |
 
-*Some Aliases are taken from [@mathiasbynens](https://github.com/mathiasbynens) dotfiles: [https://github.com/mathiasbynens/dotfiles/blob/master/.gitconfig (⭐28k)](https://github.com/mathiasbynens/dotfiles/blob/master/.gitconfig)*
+*Some Aliases are taken from [@mathiasbynens](https://github.com/mathiasbynens) dotfiles: [https://github.com/mathiasbynens/dotfiles/blob/master/.gitconfig (⭐29k)](https://github.com/mathiasbynens/dotfiles/blob/master/.gitconfig)*
 
 #### Auto-Correct
 
@@ -1084,13 +1084,13 @@ $ git config --global color.ui 1
 | Official Git Tutorial                                  | <http://git-scm.com/docs/gittutorial>                                                                 |
 | Everyday Git                                           | <http://git-scm.com/docs/everyday>                                                                    |
 | Git Immersion                                          | <http://gitimmersion.com/>                                                                            |
-| Git God                                                | [https://github.com/gorosgobe/git-god (⭐25)](https://github.com/gorosgobe/git-god)                    |
+| Git God                                                | [https://github.com/gorosgobe/git-god (⭐26)](https://github.com/gorosgobe/git-god)                    |
 | Git for Computer Scientists                            | <http://eagain.net/articles/git-for-computer-scientists/>                                             |
 | Git Magic                                              | <http://www-cs-students.stanford.edu/~blynn/gitmagic/>                                                |
 | Git Visualization Playground                           | <http://onlywei.github.io/explain-git-with-d3/#freeplay>                                              |
 | Learn Git Branching                                    | <http://pcottle.github.io/learnGitBranching/>                                                         |
-| A collection of useful .gitignore templates            | [https://github.com/github/gitignore (⭐140k)](https://github.com/github/gitignore)                    |
-| Unixorn's git-extra-commands collection of git scripts | [https://github.com/unixorn/git-extra-commands (⭐816)](https://github.com/unixorn/git-extra-commands) |
+| A collection of useful .gitignore templates            | [https://github.com/github/gitignore (⭐152k)](https://github.com/github/gitignore)                    |
+| Unixorn's git-extra-commands collection of git scripts | [https://github.com/unixorn/git-extra-commands (⭐920)](https://github.com/unixorn/git-extra-commands) |
 
 #### Git Books
 
@@ -1098,7 +1098,7 @@ $ git config --global color.ui 1
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | Pragmatic Version Control Using Git | <https://pragprog.com/titles/tsgit/pragmatic-version-control-using-git>                                      |
 | Pro Git                             | <http://git-scm.com/book>                                                                                    |
-| Git Internals PluralSight           | [https://github.com/pluralsight/git-internals-pdf (⭐2.4k)](https://github.com/pluralsight/git-internals-pdf) |
+| Git Internals PluralSight           | [https://github.com/pluralsight/git-internals-pdf (⭐2.5k)](https://github.com/pluralsight/git-internals-pdf) |
 | Git in the Trenches                 | <http://cbx33.github.io/gitt/>                                                                               |
 | Version Control with Git            | <http://www.amazon.com/Version-Control-Git-collaborative-development/dp/1449316387>                          |
 | Pragmatic Guide to Git              | <https://pragprog.com/titles/pg_git/pragmatic-guide-to-git>                                                  |

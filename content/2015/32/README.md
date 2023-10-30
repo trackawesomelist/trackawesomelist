@@ -96,19 +96,13 @@ An introduction to developing secure applications targeting version 4.5 of the .
 *   [9 Sketch Features You Should be Using](http://webdesign.tutsplus.com/tutorials/9-sketch-features-you-should-be-using--webdesign-18016)
 *   [5 Tips to Help You Design Faster in Sketch](https://medium.com/product-labs/5-tips-to-help-you-design-faster-in-sketch-a9db54d10a72)
 
-## [6. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
-
-### Tools / Market Crawlers
-
-*   [Google play crawler (Java) (⭐537)](https://github.com/Akdeniz/google-play-crawler)
-
-## [7. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
+## [6. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
 
 ### Videos
 
 *   [How to Talk to Developers](https://www.youtube.com/watch?v=l9JXH7JPjR4) - by **Ben Orenstein** \[47:37]
 
-## [8. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [7. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Projects / Dedicated
 
@@ -123,19 +117,19 @@ An introduction to developing secure applications targeting version 4.5 of the .
 
 *   [awesome-data-engineering (⭐4.5k)](https://github.com/igorbarinov/awesome-data-engineering)
 
-## [9. Awesome Play1](/content/PerfectCarl/awesome-play1/week/README.md)
+## [8. Awesome Play1](/content/PerfectCarl/awesome-play1/week/README.md)
 
 ### Misc
 
 *   **[\[play1-chart\] ](http://sant0s.github.io/play1-chart/) [Play1-Chart (⭐2)](https://github.com/sant0s/play1-chart)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-no-red.svg?style=flat)](https://github.com/sant0s/play1-chart) The Chart module allows for easy generation of chart images.
 
-## [10. Awesome Knockout](/content/dnbard/awesome-knockout/week/README.md)
+## [9. Awesome Knockout](/content/dnbard/awesome-knockout/week/README.md)
 
 ### Examples
 
 *   [WebSockets (⭐87)](https://github.com/carlhoerberg/knockout-websocket-example) - Example of real time collaborative web app using WebSockets and Knockout
 
-## [11. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [10. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -166,16 +160,16 @@ An introduction to developing secure applications targeting version 4.5 of the .
 
 *   [Overcast](https://overcast.fm) - An elegant podcast tracker for iOS and the web
 *   [AntennaPod](http://antennapod.org) - (Android and Open Source)
-*   [Soundwaves (⭐140)](https://github.com/bottiger/SoundWaves) - (Android and Open Source)
+*   [Soundwaves (⭐142)](https://github.com/bottiger/SoundWaves) - (Android and Open Source)
 *   [DoggCatcher](http://www.doggcatcher.com) - Android Podcast player
 
-## [12. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
+## [11. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
 ### Code Quality
 
 *   [Codecov](https://codecov.io/) - Continuous Code Coverage
 
-## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Loaders
 
@@ -187,13 +181,13 @@ An introduction to developing secure applications targeting version 4.5 of the .
 
 ### Modals and Popups / Other
 
-*   [jquery-popup-overlay (⭐515)](https://github.com/vast-engineering/jquery-popup-overlay) - jQuery plugin for responsive and accessible modal windows and tooltips.
+*   [jquery-popup-overlay (⭐514)](https://github.com/vast-engineering/jquery-popup-overlay) - jQuery plugin for responsive and accessible modal windows and tooltips.
 
-### Podcasts / Other
+### Misc / Other
 
 *   [bolshchikov/js-must-watch (⭐13k)](https://github.com/bolshchikov/js-must-watch)
 
-## [14. Tips](/content/git-tips/tips/week/README.md)
+## [13. Tips](/content/git-tips/tips/week/README.md)
 
 ## Saving current state of tracked files without commiting
 
@@ -222,19 +216,19 @@ git stash push -u
 git stash push --include-untracked
 ```
 
-## [15. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
+## [14. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
 
 ### Tutorials and articles
 
 *   [Bringing Meteor’s reactive collections to Backbone](https://mixmax.com/blog/meteor-and-backbone) by Jeff Wear
 
-## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### BitTorrent
 
-*   [jech/dht (⭐662)](https://github.com/jech/dht) - BitTorrent DHT library in C. \[MIT]
-*   [libtorrent (⭐4.5k)](https://github.com/arvidn/libtorrent) (a.k.a. libtorrent-rasterbar) - An efficient feature complete C++ bittorrent implementation. \[BSD]
-*   [LibTorrent (⭐852)](https://github.com/rakshasa/libtorrent) (a.k.a. libtorrent-rakshasa) - BitTorrent library. \[GPL]
+*   [jech/dht (⭐666)](https://github.com/jech/dht) - BitTorrent DHT library in C. \[MIT]
+*   [libtorrent (⭐4.7k)](https://github.com/arvidn/libtorrent) (a.k.a. libtorrent-rasterbar) - An efficient feature complete C++ bittorrent implementation. \[BSD]
+*   [LibTorrent (⭐866)](https://github.com/rakshasa/libtorrent) (a.k.a. libtorrent-rakshasa) - BitTorrent library. \[GPL]
 *   [libutp (⭐1.1k)](https://github.com/bittorrent/libutp) - uTorrent Transport Protocol library. \[MIT]
 
 ### GUI
@@ -243,16 +237,16 @@ git stash push --include-untracked
 
 ### Image Processing
 
-*   [GD (⭐808)](https://github.com/libgd/libgd) - GD Graphics Library, famously used in PHP for image loading/manipulation & thumbnail generation. \[custom permissive license, requires mention in user docs] [website](http://libgd.github.io/)
+*   [GD (⭐838)](https://github.com/libgd/libgd) - GD Graphics Library, famously used in PHP for image loading/manipulation & thumbnail generation. \[custom permissive license, requires mention in user docs] [website](http://libgd.github.io/)
 
 ### Logging
 
-*   [G3log (⭐831)](https://github.com/KjellKod/g3log) - Asynchronous logger with Dynamic Sinks. \[PublicDomain]
-*   [reckless (⭐451)](https://github.com/mattiasflodin/reckless) - Low-latency, high-throughput, asynchronous logging library for C++. \[MIT]
+*   [G3log (⭐860)](https://github.com/KjellKod/g3log) - Asynchronous logger with Dynamic Sinks. \[PublicDomain]
+*   [reckless (⭐456)](https://github.com/mattiasflodin/reckless) - Low-latency, high-throughput, asynchronous logging library for C++. \[MIT]
 
 ### Math
 
-*   [LibTomMath (⭐583)](https://github.com/libtom/libtommath) - A free open source portable number theoretic multiple-precision integer library written entirely in C. \[PublicDomain & WTFPL] [website](http://www.libtom.net/)
+*   [LibTomMath (⭐609)](https://github.com/libtom/libtommath) - A free open source portable number theoretic multiple-precision integer library written entirely in C. \[PublicDomain & WTFPL] [website](http://www.libtom.net/)
 
 ### Coding Style Tools
 
@@ -263,7 +257,7 @@ git stash push --include-untracked
 
 *   [LLVM Coding Standards](http://llvm.org/docs/CodingStandards.html)
 
-## [17. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [16. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Tutorials/Guides
 
@@ -273,18 +267,24 @@ git stash push --include-untracked
 
 *   [Level up Tutorials](https://www.youtube.com/playlist?list=PLLnpHn493BHGhoGAb2PRKzv4Zw3QoatK-)
 
-## [18. Amas](/content/sindresorhus/amas/week/README.md)
+## [17. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Adrián Arroyo Calle](https://github.com/AdrianArroyoCalle/ama) - Currently a student in Spain doing any kind of development which uses C++, Rust, JavaScript and TypeScript.
 *   [Nick Johnstone (⭐0)](https://github.com/Widdershin/ama) - Web developer from New Zealand, currently working as a Rails developer full-time. As a side project, I'm making a tool for developing games with no coding required.
 
-## [19. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [18. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Articles
 
 *   [BEMIT: Taking the BEM Naming Convention a Step Further](http://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
+
+## [19. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Hitchhiker's Guide to Python!](http://docs.python-guide.org/en/latest/) (2.6)
 
 ## [20. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
 
@@ -472,24 +472,24 @@ git stash push --include-untracked
 
 ### Utility / Barcode
 
-*   [R.swift (⭐9.1k)](https://github.com/mac-cain13/R.swift) - Tool to get strong typed, autocompleted resources like images, cells and segues.
+*   [R.swift (⭐9.3k)](https://github.com/mac-cain13/R.swift) - Tool to get strong typed, autocompleted resources like images, cells and segues.
 
 ## [27. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Applications / Directory Navigation
 
-*   [isitup (⭐54)](https://github.com/lord63/isitup) - Check whether a website is up or down
-*   [licen (⭐34)](https://github.com/lord63/licen) - Generate your license. Yet another lice, but implement with Jinja2 and docopt
+*   [isitup (⭐56)](https://github.com/lord63/isitup) - Check whether a website is up or down
+*   [licen (⭐35)](https://github.com/lord63/licen) - Generate your license. Yet another lice, but implement with Jinja2 and docopt
 
 ### Shell Script Development / Directory Navigation
 
-*   [assert.sh (⭐466)](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
+*   [assert.sh (⭐476)](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
 
 ## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Image Processing
 
-*   [MetadataExtractor (⭐780)](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts Exif, IPTC, XMP, ICC and other metadata from image files.
+*   [MetadataExtractor (⭐818)](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts Exif, IPTC, XMP, ICC and other metadata from image files.
 
 ## [29. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
@@ -518,7 +518,7 @@ git stash push --include-untracked
 
 ### Game Frameworks / XML
 
-*   [DSFML (⭐98)](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. see <http://dsfml.com/>.
+*   [DSFML (⭐96)](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. see <http://dsfml.com/>.
 
 ## [30. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
 

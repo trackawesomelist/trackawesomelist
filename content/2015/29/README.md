@@ -54,13 +54,13 @@
 
 *   [dproto (⭐1)](https://github.com/dalmatinerdb/dproto) - Protocols for DalmatinerDB.
 *   [dqe (⭐9)](https://github.com/dalmatinerdb/dqe) - DalmatinerDB query engine.
-*   [elastix (⭐253)](https://github.com/werbitzky/elastix) - A simple Elastic REST client written in Elixir.
+*   [elastix (⭐252)](https://github.com/werbitzky/elastix) - A simple Elastic REST client written in Elixir.
 
 ## [6. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### HTTP Clients and tools
 
-*   [Http-2 (⭐873)](https://github.com/igrigorik/http-2) - Pure Ruby implementation of HTTP/2 protocol
+*   [Http-2 (⭐877)](https://github.com/igrigorik/http-2) - Pure Ruby implementation of HTTP/2 protocol
 
 ## [7. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -176,8 +176,8 @@
 
 ### Prometheus
 
-*   [Prometheus.io (⭐45k)](https://github.com/prometheus/prometheus) An open-source service monitoring system and time series database
-*   [HAProxy Exporter (⭐578)](https://github.com/prometheus/haproxy_exporter) Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption
+*   [Prometheus.io (⭐49k)](https://github.com/prometheus/prometheus) An open-source service monitoring system and time series database
+*   [HAProxy Exporter (⭐600)](https://github.com/prometheus/haproxy_exporter) Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption
 
 ## [16. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -352,11 +352,11 @@ git config --global core.autocrlf false
 
 ### Game Engine
 
-*   [Panda3D (⭐3.9k)](https://github.com/panda3d/panda3d) - A game engine, a framework for 3D rendering and game development for Python and C++ programs. \[Modified BSD] [website](https://www.panda3d.org/)
+*   [Panda3D (⭐4k)](https://github.com/panda3d/panda3d) - A game engine, a framework for 3D rendering and game development for Python and C++ programs. \[Modified BSD] [website](https://www.panda3d.org/)
 
 ### Networking
 
-*   [cpr (⭐5.5k)](https://github.com/whoshuu/cpr) - A modern C++ HTTP requests library with a simple but powerful interface. Modeled after the Python Requests module. \[MIT] [website](https://docs.libcpr.org)
+*   [cpr (⭐5.8k)](https://github.com/whoshuu/cpr) - A modern C++ HTTP requests library with a simple but powerful interface. Modeled after the Python Requests module. \[MIT] [website](https://docs.libcpr.org)
 
 ## [20. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -388,8 +388,8 @@ git config --global core.autocrlf false
 
 ### File System Utilities
 
-*   [Groovy-Vfs (⭐63)](https://github.com/ysb33r/groovy-vfs) - A DSL for Groovy on top of Apache VFS2
-*   [Directree (⭐11)](https://github.com/kdabir/directree) - A Simple DSL to create Directory Tree with Text Files
+*   [Groovy-Vfs (⭐62)](https://github.com/ysb33r/groovy-vfs) - A DSL for Groovy on top of Apache VFS2
+*   [Directree (⭐12)](https://github.com/kdabir/directree) - A Simple DSL to create Directory Tree with Text Files
 
 ## [23. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
@@ -405,16 +405,16 @@ git config --global core.autocrlf false
 
 ## [25. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
-### Podcasts / Other
+### Misc / Other
 
 *   [willianjusten/awesome-svg (⭐4.4k)](https://github.com/willianjusten/awesome-svg)
-*   [davidsonfellipe/awesome-wpo (⭐7.9k)](https://github.com/davidsonfellipe/awesome-wpo)
+*   [davidsonfellipe/awesome-wpo (⭐8k)](https://github.com/davidsonfellipe/awesome-wpo)
 
 ## [26. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Misc
 
-*   [AzureCrawler (⭐43)](https://github.com/yagopv/AzureCrawler) - Take HTML Snapshots for your Angular, Ember, Durandal or any JavaScript applications
+*   [AzureCrawler (⭐42)](https://github.com/yagopv/AzureCrawler) - Take HTML Snapshots for your Angular, Ember, Durandal or any JavaScript applications
 
 ### Testing
 
@@ -443,7 +443,7 @@ git config --global core.autocrlf false
 
 *   [Light House 3D](http://www.lighthouse3d.com/tutorials/glsl-core-tutorial) by **Light House 3D**
 *   [Modern OpenGL](http://www.tomdalling.com/blog/category/modern-opengl) by **Tom Dalling**
-*   [OpenGL Examples (⭐2k)](https://github.com/McNopper/OpenGL) by **Norbert Nopper**
+*   [OpenGL Examples (⭐2.1k)](https://github.com/McNopper/OpenGL) by **Norbert Nopper**
 *   [OpenGL Step by Step](http://ogldev.atspace.co.uk) by **Etay Meiri**
 *   [OpenGL Tutorial](https://open.gl) by **Alexander Overvoorde**
 *   [OpenGL Tutorial](http://antongerdelan.net/opengl/index.html) by **Anton Gerdelan**

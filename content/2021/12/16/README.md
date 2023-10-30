@@ -16,7 +16,7 @@
 
 ### React / Community
 
-*   [CRA migration guide (⭐55)](https://github.com/nordcloud/pat-frontend-template/blob/master/docs/CRA_MIGRATION_GUIDE.md) - A step-by-step guide for migrating a project from Create React App.
+*   [CRA migration guide (⭐57)](https://github.com/nordcloud/pat-frontend-template/blob/master/docs/CRA_MIGRATION_GUIDE.md) - A step-by-step guide for migrating a project from Create React App.
 
 ## [3. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

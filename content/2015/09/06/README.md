@@ -36,13 +36,13 @@
 
 ### Applications
 
-*   [Hermes (⭐731)](https://github.com/allegro/hermes) - asynchronous message broker built on top of Kafka.
+*   [Hermes (⭐755)](https://github.com/allegro/hermes) - asynchronous message broker built on top of Kafka.
 
 ## [3. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
 ### Blog and CMS / Social Sciences
 
-*   [Ghost (⭐42k)](https://github.com/tryghost/Ghost) (`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
+*   [Ghost (⭐44k)](https://github.com/tryghost/Ghost) (`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
 *   [Dropplets (⭐1.6k)](https://github.com/circa75/dropplets) (`PHP`): Open source, simple, and elegant blog system; write in Markdown.
 
 ### Editors / LaTeX

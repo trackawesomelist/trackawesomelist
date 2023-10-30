@@ -8,7 +8,7 @@
 
 ## [1. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Git / Angular
+### Git / Svelte
 
 *   [Git Rev News](https://git.github.io/rev_news/rev_news/). Aggregation of activities of the Git mailing list in a format for the wider tech audience.
 
@@ -16,16 +16,16 @@
 
 ### Device
 
-*   [DeviceKit (⭐4k)](https://github.com/devicekit/DeviceKit) - DeviceKit is a value-type replacement of UIDevice.
+*   [DeviceKit (⭐4.2k)](https://github.com/devicekit/DeviceKit) - DeviceKit is a value-type replacement of UIDevice.
 
 ### Styling / Barcode
 
-*   [SwiftTheme (⭐2.4k)](https://github.com/wxxsw/SwiftTheme) - Powerful theme/skin manager for iOS 8+.
+*   [SwiftTheme (⭐2.5k)](https://github.com/wxxsw/SwiftTheme) - Powerful theme/skin manager for iOS 8+.
 
 ### Text / Barcode
 
-*   [BonMot (⭐3.4k)](https://github.com/Rightpoint/BonMot) - Beautiful, easy attributed strings for iOS.
-*   [VEditorKit (⭐473)](https://github.com/GeekTree0101/VEditorKit) - Lightweight and Powerful Editor Kit.
+*   [BonMot (⭐3.5k)](https://github.com/Rightpoint/BonMot) - Beautiful, easy attributed strings for iOS.
+*   [VEditorKit (⭐481)](https://github.com/GeekTree0101/VEditorKit) - Lightweight and Powerful Editor Kit.
 
 ### Label / Barcode
 
@@ -44,7 +44,7 @@
 *   [AnySQL Maestro](https://www.sqlmaestro.com/products/anysql/maestro) - Premier multi-purpose admin tool for database management, control and development.
 *   [MySQL Workbench](https://www.mysql.com/products/workbench) - MySQL Workbench is a unified visual tool for database architects, developers, and DBAs.
 *   [PostgreSQL Maestro](https://www.sqlmaestro.com/products/postgresql/maestro) - Complete and powerful database management, admin and development tool for PostgreSQL.
-*   [TOra (⭐278)](https://github.com/tora-tool/tora) - TOra is an open source SQL IDE for Oracle, MySQL and PostgreSQL dbs.
+*   [TOra (⭐289)](https://github.com/tora-tool/tora) - TOra is an open source SQL IDE for Oracle, MySQL and PostgreSQL dbs.
 *   [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - Create, administer, query and explore Valentina DB, MySQL, MariaDB, PostgreSQL and SQLite databases for FREE.
 
 ### GUI
@@ -53,8 +53,8 @@
 *   [JackDB](https://www.jackdb.com) - Direct SQL access to all your data, no matter where it lives.
 *   [phpLiteAdmin](https://www.phpliteadmin.org) - Web-based SQLite database admin tool written in PHP with support for SQLite3 and SQLite2.
 *   [psequel](http://www.psequel.com) - PSequel provides a clean and simple interface for you to perform common PostgreSQL tasks quickly.
-*   [Sequel Pro (⭐8.8k)](https://github.com/sequelpro/sequelpro) - Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases.
-*   [sqlpad (⭐4.7k)](https://github.com/rickbergfalk/sqlpad) - Web-based SQL editor run in your own private cloud.
+*   [Sequel Pro (⭐8.9k)](https://github.com/sequelpro/sequelpro) - Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases.
+*   [sqlpad (⭐4.9k)](https://github.com/rickbergfalk/sqlpad) - Web-based SQL editor run in your own private cloud.
 *   [SQLPro](https://www.macpostgresclient.com) - A simple, powerful Postgres manager for macOS.
 *   [SQuirreL](https://sourceforge.net/projects/squirrel-sql) - Graphical SQL client written in Java that will allow you to view the structure of a JDBC compliant database, browse the data in tables, issue SQL commands etc.
 *   [SQLyog](https://www.webyog.com/product/sqlyog) - The most complete and easy to use MySQL GUI.
@@ -66,20 +66,20 @@
 
 ### CLI / dbcli
 
-*   [athenacli (⭐196)](https://github.com/dbcli/athenacli) - AthenaCLI is a CLI tool for AWS Athena service that can do auto-completion and syntax highlighting.
-*   [litecli (⭐1.8k)](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting.
+*   [athenacli (⭐203)](https://github.com/dbcli/athenacli) - AthenaCLI is a CLI tool for AWS Athena service that can do auto-completion and syntax highlighting.
+*   [litecli (⭐1.9k)](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting.
 *   [mssql-cli (⭐1.3k)](https://github.com/dbcli/mssql-cli) - A command-line client for SQL Server with auto-completion and syntax highlighting.
 *   [mycli (⭐11k)](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 *   [pgcli (⭐11k)](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
-*   [vcli (⭐76)](https://github.com/dbcli/vcli) - Vertica CLI with auto-completion and syntax highlighting.
+*   [vcli (⭐75)](https://github.com/dbcli/vcli) - Vertica CLI with auto-completion and syntax highlighting.
 
 ### Schema / Changes
 
-*   [migra (⭐2.7k)](https://github.com/djrobstep/migra) - Like diff but for PostgreSQL schemas.
+*   [migra (⭐2.8k)](https://github.com/djrobstep/migra) - Like diff but for PostgreSQL schemas.
 
 ### API / Samples
 
-*   [Hasura GraphQL Engine (⭐29k)](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+*   [Hasura GraphQL Engine (⭐30k)](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 
 ### Monitoring/Statistics/Perfomance / Samples
 
@@ -95,7 +95,7 @@
 
 ### Top / Game Engine resources
 
-*   [Instory (⭐204)](https://github.com/InvertedX/instory) <!--stargazers:InvertedX/instory--> - Instgram story downloader with a beautiful UI [Sarath](https://twitter.com/_sarath_kumar)
+*   [Instory (⭐207)](https://github.com/InvertedX/instory) <!--stargazers:InvertedX/instory--> - Instgram story downloader with a beautiful UI [Sarath](https://twitter.com/_sarath_kumar)
 
 ## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -111,7 +111,7 @@
 
 ### Others / Particles
 
-*   [Pocket.gl (⭐115)](https://github.com/gportelli/pocket.gl) - Fully customizable webgl shader sandbox to embed in your pages.
+*   [Pocket.gl (⭐119)](https://github.com/gportelli/pocket.gl) - Fully customizable webgl shader sandbox to embed in your pages.
 
 ### Community / Particles
 
@@ -129,11 +129,11 @@
 
 ### Networking
 
-*   [MQTT-C (⭐616)](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. \[MIT] [website](https://liambindle.ca/MQTT-C)
+*   [MQTT-C (⭐660)](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. \[MIT] [website](https://liambindle.ca/MQTT-C)
 
 ### Reflection
 
-*   [Nameof (⭐1.7k)](https://github.com/Neargye/nameof) - Header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum. \[MIT]
+*   [Nameof (⭐1.8k)](https://github.com/Neargye/nameof) - Header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum. \[MIT]
 
 ## [10. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 

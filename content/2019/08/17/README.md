@@ -55,9 +55,9 @@
 
 ## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Games / MIT
+### Games / Apache License
 
-*   [mine-detector (⭐1)](https://github.com/jrcarter/Mine_Detector) - Mine Detector: a mine-finding game that never requires guessing.
+*   [mine-detector (⭐2)](https://github.com/jrcarter/Mine_Detector) - Mine Detector: a mine-finding game that never requires guessing.
 
 ## [8. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 

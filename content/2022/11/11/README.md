@@ -10,7 +10,7 @@
 
 ### Shell Script Development
 
-*   [Bashmatic (⭐91)](https://github.com/kigster/bashmatic) - an easy to use DSL library for building BASH-based tooling & installers (900+ functions).
+*   [Bashmatic (⭐105)](https://github.com/kigster/bashmatic) - An easy to use DSL library for building BASH-based tooling & installers (900+ functions).
 
 ## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -20,19 +20,19 @@
 
 ### Android / Projects
 
-*   [AnkitSuda/Rebound (⭐136)](https://github.com/AnkitSuda/Rebound) - Feature Rich & Highly Customizable Workout Log App.
+*   [AnkitSuda/Rebound (⭐148)](https://github.com/AnkitSuda/Rebound) - Feature Rich & Highly Customizable Workout Log App.
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Split and Window / Diagnostics
 
-*   [nvim-zh/colorful-winsep.nvim (⭐268)](https://github.com/nvim-zh/colorful-winsep.nvim) - A configurable color split line.
+*   [nvim-zh/colorful-winsep.nvim (⭐308)](https://github.com/nvim-zh/colorful-winsep.nvim) - A configurable color split line.
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Performance
 
-*   [go-instrument (⭐84)](https://github.com/nikolaydubina/go-instrument) - Automatically add spans to all methods and functions.
+*   [go-instrument (⭐101)](https://github.com/nikolaydubina/go-instrument) - Automatically add spans to all methods and functions.
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -65,9 +65,9 @@
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [yarn-extra-completion (⭐39)](https://github.com/BuonOmo/yarn-extra-completion) - Inspired by [lukechilds/zsh-better-npm-completion (⭐429)](https://github.com/lukechilds/zsh-better-npm-completion).
+*   [yarn-extra-completion (⭐39)](https://github.com/BuonOmo/yarn-extra-completion) - Inspired by [lukechilds/zsh-better-npm-completion (⭐444)](https://github.com/lukechilds/zsh-better-npm-completion).
 
 ## [8. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Debugging
 
-*   [Sentry plugin](https://github.com/lordsimal/cakephp-sentry) A plugin to seamlessly integrate Sentry for errors and exceptions.
+*   🍰 [Sentry plugin (⭐5)](https://github.com/lordsimal/cakephp-sentry) A plugin to seamlessly integrate Sentry for errors and exceptions.
 
 ---
 

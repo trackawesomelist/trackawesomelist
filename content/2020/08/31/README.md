@@ -29,7 +29,7 @@
 
 ### Resources / Presets
 
-*   [Laravel Moonlight (⭐142)](https://github.com/TitasGailius/laravel-moonlight) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
+*   [Laravel Moonlight (⭐144)](https://github.com/TitasGailius/laravel-moonlight) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
 *   [Titanium (⭐10)](https://github.com/usetitanium/inertia) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
 
 ### Resources / Packages
@@ -48,13 +48,13 @@
 
 ### Image Processing
 
-*   [python-barcode (⭐441)](https://github.com/WhyNotHugo/python-barcode) - Create barcodes in Python with no extra dependencies.
+*   [python-barcode (⭐470)](https://github.com/WhyNotHugo/python-barcode) - Create barcodes in Python with no extra dependencies.
 
 ## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Rendering/Publishing/Conversion
 
-*   [nbflow (⭐153)](https://github.com/jhamrick/nbflow) - One-button reproducible workflows with Jupyter and Scons.
+*   [nbflow (⭐155)](https://github.com/jhamrick/nbflow) - One-button reproducible workflows with Jupyter and Scons.
 *   [nbinteract](https://www.nbinteract.com) - Create interactive webpages from Jupyter notebooks.
 
 ## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
@@ -82,7 +82,7 @@
 
 ### Miscellaneous
 
-*   [expyplot (⭐29)](https://github.com/MaxStrange/expyplot) - Elixir interface for Plotting/Graphing library using matplotlib.pyplot.
+*   [expyplot (⭐30)](https://github.com/MaxStrange/expyplot) - Elixir interface for Plotting/Graphing library using matplotlib.pyplot.
 
 ## [9. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

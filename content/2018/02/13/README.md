@@ -20,21 +20,21 @@
 
 ### Feeds
 
-*   [atomex (⭐39)](https://github.com/Betree/atomex) - ATOM feed builder with a focus on standards compliance, security and extensibility.
+*   [atomex (⭐43)](https://github.com/Betree/atomex) - ATOM feed builder with a focus on standards compliance, security and extensibility.
 
 ### Validations
 
-*   [skooma (⭐136)](https://github.com/bcoop713/skooma) - Simple data validation library for describing and validating data structures.
+*   [skooma (⭐138)](https://github.com/bcoop713/skooma) - Simple data validation library for describing and validating data structures.
 
 ## [3. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
 ### 2D / Firefox Specific Tools/Debugger
 
-*   [p2.js (⭐2.5k)](https://github.com/schteppe/p2.js) - 2D rigid body physics engine written in JavaScript.
+*   [p2.js (⭐2.6k)](https://github.com/schteppe/p2.js) - 2D rigid body physics engine written in JavaScript.
 
 ### Physics / Particles
 
-*   [Ammo.js (⭐3.3k)](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
+*   [Ammo.js (⭐3.7k)](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 *   [Cannon.js](http://schteppe.github.io/cannon.js/) - Lightweight and simple 3D physics engine for the web.
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
@@ -47,7 +47,7 @@
 
 ### Frameworks, Libraries and Tools / Machine Learning and Data Science
 
-*   [Accord (⭐4.3k)](https://github.com/accord-net/framework) - Machine learning, computer vision, statistics and general scientific computing for .NET.
+*   [Accord (⭐4.4k)](https://github.com/accord-net/framework) - Machine learning, computer vision, statistics and general scientific computing for .NET.
 
 ## [6. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 

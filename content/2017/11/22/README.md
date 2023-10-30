@@ -12,7 +12,7 @@
 
 ### Chicago
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/KarlLHughes" height="70px" width="70px" align="left" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/KarlLHughes" height="70px" width="70px" align="left" />
 
 **Karl Hughes**\
 Topics: Microservices, PHP, JavaScript, Docker\
@@ -22,11 +22,11 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 ### Misc
 
-*   [XcodeGen (⭐6.1k)](https://github.com/yonaskolb/XcodeGen) - Tool for generating Xcode projects from a YAML file and your project directory.
+*   [XcodeGen (⭐6.4k)](https://github.com/yonaskolb/XcodeGen) - Tool for generating Xcode projects from a YAML file and your project directory.
 
 ### Events
 
-*   [VueFlux (⭐328)](https://github.com/ra1028/VueFlux) - Unidirectional Data Flow State Management Architecture - Inspired by Vuex and Flux.
+*   [VueFlux (⭐331)](https://github.com/ra1028/VueFlux) - Unidirectional Data Flow State Management Architecture - Inspired by Vuex and Flux.
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -36,13 +36,13 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 ### Web Frameworks
 
-*   [lucky (⭐2.4k)](https://github.com/luckyframework/lucky) - Catch bugs early, forget about most performance issues, and spend more time on code instead of debugging and writing tests
+*   [lucky (⭐2.5k)](https://github.com/luckyframework/lucky) - Catch bugs early, forget about most performance issues, and spend more time on code instead of debugging and writing tests
 
 ## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Mathematics
 
-*   [AutoDiff (⭐80)](https://github.com/alexshtf/autodiff) - AutoDiff is a library for quickly computing gradients of functions defined by expressions. Mainly useful in numerical optimization
+*   [AutoDiff (⭐82)](https://github.com/alexshtf/autodiff) - AutoDiff is a library for quickly computing gradients of functions defined by expressions. Mainly useful in numerical optimization
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -58,7 +58,7 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 ### Contents / Components
 
-*   [Preact Fluid (⭐183)](https://github.com/ajainvivek/preact-fluid) - A minimal UI kit for Preact.
+*   [Preact Fluid (⭐184)](https://github.com/ajainvivek/preact-fluid) - A minimal UI kit for Preact.
 
 ## [7. Bots](/content/hackerkid/bots/README.md)
 

@@ -16,7 +16,7 @@
 
 ### System Utilities / Directory Navigation
 
-*   [glances (⭐22k)](https://github.com/nicolargo/glances) - Glances an Eye on your system
+*   [glances (⭐23k)](https://github.com/nicolargo/glances) - Glances an Eye on your system
 
 ## [3. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
 

@@ -16,21 +16,21 @@
 
 ### Debug
 
-*   [Phalcon BB Debugger (⭐6)](https://github.com/ismail0234/Phalcon-BB-Debugger) - Phalcon BB Debugger Strong and easy install.
+*   [Phalcon BB Debugger (⭐5)](https://github.com/ismail0234/Phalcon-BB-Debugger) - Phalcon BB Debugger Strong and easy install.
 
 ## [3. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Node.js
 
-*   [Nestjsx/crud (⭐3.4k)](https://github.com/nestjsx/crud) - Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.
+*   [Nestjsx/crud (⭐3.7k)](https://github.com/nestjsx/crud) - Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.
 
 ## [4. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Related projects / Syntax highlighting packages
 
-*   [Game Boy Link Cable Breakout Board (⭐62)](https://github.com/Palmr/gb-link-cable)
-*   [GBCartFlasher firmware (⭐23)](https://github.com/Tauwasser/GBCartFlasher)
-*   [VerilogBoy (⭐402)](https://github.com/zephray/VerilogBoy/) - Game Boy compatible console Verilog RTL implementation.
+*   [Game Boy Link Cable Breakout Board (⭐73)](https://github.com/Palmr/gb-link-cable)
+*   [GBCartFlasher firmware (⭐24)](https://github.com/Tauwasser/GBCartFlasher)
+*   [VerilogBoy (⭐418)](https://github.com/zephray/VerilogBoy/) - Game Boy compatible console Verilog RTL implementation.
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Frameworks, Libraries and Tools / Database
 
-*   [StringDB (⭐60)](https://github.com/SirJosh3917/StringDB) - StringDB is a modular, key/value pair archival DB designed to consume *tiny* amounts of ram & produce *tiny* databases.
+*   [StringDB (⭐70)](https://github.com/SirJosh3917/StringDB) - StringDB is a modular, key/value pair archival DB designed to consume *tiny* amounts of ram & produce *tiny* databases.
 
 ### Frameworks, Libraries and Tools / Misc
 
@@ -86,7 +86,7 @@
 
 ### Plex Requests / Third Party Hosts
 
-*   [Mellow (⭐200)](https://github.com/v0idp/Mellow/) Bot which can communicate with several APIs like Ombi, Sonarr, Radarr and Tautulli which are related to home streaming. Based off of node:9.3
+*   [Mellow (⭐206)](https://github.com/v0idp/Mellow/) Bot which can communicate with several APIs like Ombi, Sonarr, Radarr and Tautulli which are related to home streaming. Based off of node:9.3
 
 ### ROMs / Third Party Hosts
 

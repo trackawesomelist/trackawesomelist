@@ -11,7 +11,6 @@
 ### General Search
 
 *   [DuckDuckGo](https://duckduckgo.com) - an Internet search engine that emphasizes protecting searchers' privacy.
-*   [Google Search](http://www.google.com) - Most popular search engine.
 
 ### Phone Number Research / Telegram
 
@@ -80,7 +79,7 @@
 
 ### Command Line / XML
 
-*   [tilix (⭐5.1k)](https://github.com/gnunn1/tilix) -  A tiling terminal emulator for Linux using GTK+ 3.
+*   [tilix (⭐5.2k)](https://github.com/gnunn1/tilix) -  A tiling terminal emulator for Linux using GTK+ 3.
 
 ---
 

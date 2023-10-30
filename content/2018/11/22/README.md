@@ -8,18 +8,18 @@
 
 ## [1. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-### Software / Calendar & Contacts - CalDAV or CardDAV Servers
+### Software / Calendar & Contacts
 
-*   [DAViCal](https://www.davical.org/) - Server for calendar sharing (CalDAV) that uses a PostgreSQL database as a data store. ([Source Code](https://gitlab.com/davical-project/davical)) `GPL-2.0` `PHP`
+*   [DAViCal](https://www.davical.org/) - Server for calendar sharing (CalDAV) that uses a PostgreSQL database as a data store. ([Source Code](https://gitlab.com/davical-project/davical)) `GPL-2.0` `PHP/deb`
 
 ### Software / Content Management Systems (CMS)
 
-*   [Pimcore](https://www.pimcore.org/) - Multi-Channel Experience and Engagement Management Platform. ([Source Code (⭐2.9k)](https://github.com/pimcore/pimcore)) `GPL-3.0-or-later` `PHP`
-*   [Wagtail](https://wagtail.io/) - Django content management system focused on flexibility and user experience. ([Source Code (⭐15k)](https://github.com/wagtail/wagtail)) `BSD-3-Clause` `Python`
+*   [Pimcore](https://www.pimcore.org/) - Multi-Channel Experience and Engagement Management Platform. ([Source Code (⭐3k)](https://github.com/pimcore/pimcore)) `GPL-3.0` `PHP/Docker`
+*   [Wagtail](https://wagtail.io/) - Django content management system focused on flexibility and user experience. ([Source Code (⭐16k)](https://github.com/wagtail/wagtail)) `BSD-3-Clause` `Python`
 
 ### Software / Internet of Things (IoT)
 
-*   [Domoticz](https://www.domoticz.com/) - Home Automation System that lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more. ([Source Code (⭐3.3k)](https://github.com/domoticz/domoticz), [Clients (⭐99)](https://github.com/domoticz/domoticz-android)) `GPL-3.0` `C/C++`
+*   [Domoticz](https://www.domoticz.com/) - Home Automation System that lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more. ([Source Code (⭐3.3k)](https://github.com/domoticz/domoticz), [Clients (⭐100)](https://github.com/domoticz/domoticz-android)) `GPL-3.0` `C/C++/Docker/Shell`
 
 ### Software / Software Development - Project Management
 
@@ -59,7 +59,7 @@
 
 ### Serialization
 
-*   [Bond (⭐2.5k)](https://github.com/Microsoft/bond) - An open source, cross-platform framework for working with schematized data. \[MIT]
+*   [Bond (⭐2.6k)](https://github.com/Microsoft/bond) - An open source, cross-platform framework for working with schematized data. \[MIT]
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 06, 2022
 
-20 awesome lists updated today.
+21 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -25,7 +25,7 @@
 
 ### Misc libraries
 
-*   [ryoppippi/zigcv (⭐67)](https://github.com/ryoppippi/zigcv) - Bindings for OpenCV4.
+*   [ryoppippi/zigcv (⭐77)](https://github.com/ryoppippi/zigcv) - Bindings for OpenCV4.
 
 ## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -41,7 +41,7 @@
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
 *   [Volca](https://volca.io#api) - Free API providing lists of technologies such as programming languages and database systems. Unlimited free requests.
 
@@ -89,7 +89,7 @@
 
 ### Code Runner / Diagnostics
 
-*   [Shatur/neovim-tasks (⭐57)](https://github.com/Shatur/neovim-tasks) - A stateful task manager focused on integration with build systems.
+*   [Shatur/neovim-tasks (⭐80)](https://github.com/Shatur/neovim-tasks) - A stateful task manager focused on integration with build systems.
 
 ## [9. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/README.md)
 
@@ -109,11 +109,11 @@
 
 ## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [git-prompt-enhanced (⭐0)](https://github.com/LFabre/zsh-git-prompt-enhanced) - Provides a more granular information about a `git` repository.
+*   [git-prompt-enhanced (⭐1)](https://github.com/LFabre/zsh-git-prompt-enhanced) - Provides a more granular information about a `git` repository.
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [dangerroom (⭐0)](https://github.com/abbreviatedman/dangerroom) - Informative, minimal, and, above all, X-Men themed. Includes decorators for `git` status, working directory, parent directory and `vim` mode.
 
@@ -171,10 +171,6 @@
 
 ## [17. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Software / Editors
-
-*   [VSCodium (⭐20k)](https://github.com/VSCodium/vscodium) - An open source cross-platform extensible code editor based on [VS Code by Microsoft](https://code.visualstudio.com/) removing their non-free additions.
-
 ### Software / Packaging
 
 *   [aptly](https://www.aptly.info/) - Swiss army knife for Debian repository management. ([Source Code (⭐2.4k)](https://github.com/aptly-dev/aptly)) `MIT` `Go`
@@ -198,11 +194,26 @@
 
 ### Resources / Examples
 
-*   [Text Editor (⭐3)](https://github.com/devisasari/text-editor-vue-3) Text Editor made with Vue 3 Composition API, Bootstrap and Firebase by [İsa Sarı](https://github.com/devisasari)
+*   [Text Editor (⭐5)](https://github.com/devisasari/text-editor-vue-3) Text Editor made with Vue 3 Composition API, Bootstrap and Firebase by [İsa Sarı](https://github.com/devisasari)
 
 ### Components & Libraries / Utilities
 
 *   [vue-ts-types (⭐4)](https://github.com/FloEdelmann/vue-ts-types) - Lightweight TypeScript-first Vue prop type definitions.
+
+## [21. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### iOS / Bootstrap
+
+*   [Develop in Swift Explorations](https://books.apple.com/in/book/develop-in-swift-explorations/id1581182728) - Apple Education (iBook)
+
+### JavaScript / Next.js
+
+*   [Learn Next.js](https://nextjs.org/learn) - Vercel Inc.
+
+### Raspberry Pi / Tornado
+
+*   [Raspberry Pi Beginner's Guide 4th Edition](https://magpi.raspberrypi.com/books/beginners-guide-4th-ed) - The MagPi magazine (PDF)
+*   [The Official Raspberry Pi Handbook 2023](https://magpi.raspberrypi.com/books/handbook-2023) - The MagPi magazine (PDF)
 
 ---
 

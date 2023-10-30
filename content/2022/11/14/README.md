@@ -10,7 +10,7 @@
 
 ### Auto Layout / Barcode
 
-*   [HypeUI (⭐106)](https://github.com/hyperconnect/HypeUI) - 🌺 HypeUI is a implementation of Apple's SwiftUI DSL style based on UIKit
+*   [HypeUI (⭐115)](https://github.com/hyperconnect/HypeUI) - 🌺 HypeUI is a implementation of Apple's SwiftUI DSL style based on UIKit
 
 ## [2. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
@@ -22,12 +22,12 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [toppair/peek.nvim (⭐361)](https://github.com/toppair/peek.nvim) - Preview markdown in a webview window.
+*   [toppair/peek.nvim (⭐430)](https://github.com/toppair/peek.nvim) - Preview markdown in a webview window.
 
 ### Editing Support / Diagnostics
 
-*   [Wansmer/sibling-swap.nvim (⭐93)](https://github.com/Wansmer/sibling-swap.nvim) - Different way to swapping arguments and other siblings with Tree-Sitter.
-*   [Wansmer/binary-swap.nvim (⭐12)](https://github.com/Wansmer/binary-swap.nvim) - Swapping operands and operators in binary expressions: comparison and mathematical operations.
+*   [Wansmer/sibling-swap.nvim (⭐120)](https://github.com/Wansmer/sibling-swap.nvim) - Different way to swapping arguments and other siblings with Tree-Sitter.
+*   [Wansmer/binary-swap.nvim (⭐17)](https://github.com/Wansmer/binary-swap.nvim) - Swapping operands and operators in binary expressions: comparison and mathematical operations.
 
 ## [4. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Projects / Verified Software
 
-*   [Functional Algorithms Verified in SSReflect (⭐27)](https://github.com/clayrat/fav-ssr) - Purely functional verified implementations of algorithms for searching, sorting, and other fundamental problems.
+*   [Functional Algorithms Verified in SSReflect (⭐32)](https://github.com/clayrat/fav-ssr) - Purely functional verified implementations of algorithms for searching, sorting, and other fundamental problems.
 
 ### Resources / Community
 
@@ -69,13 +69,13 @@
 
 ### Software / Web
 
-*   [Traefik](https://traefik.io/) - HTTP reverse proxy and load balancer that makes deploying microservices easy. ([Source Code (⭐43k)](https://github.com/traefik/traefik)) `MIT` `Go/Docker`
+*   [Traefik](https://traefik.io/) - HTTP reverse proxy and load balancer that makes deploying microservices easy. ([Source Code (⭐45k)](https://github.com/traefik/traefik)) `MIT` `Go/Docker`
 
 ## [9. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 
 ### Developer
 
-*   [Tailwind CSS Docs (⭐46)](https://github.com/techouse/alfred-tailwindcss-docs) - Search the [Tailwind CSS](https://tailwindcss.com/docs/) documentation.
+*   [Tailwind CSS Docs (⭐47)](https://github.com/techouse/alfred-tailwindcss-docs) - Search the [Tailwind CSS](https://tailwindcss.com/docs/) documentation.
 
 ## [10. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 

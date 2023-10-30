@@ -10,7 +10,7 @@
 
 ### Contents / Language bindings
 
-*   PHP: [Pomm](http://www.pomm-project.org), [pecl/pq (⭐34)](https://github.com/m6w6/ext-pq)
+*   PHP: [Pomm](http://www.pomm-project.org), [pecl/pq (⭐35)](https://github.com/m6w6/ext-pq)
 
 ## [2. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

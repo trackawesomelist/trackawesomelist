@@ -70,7 +70,7 @@
 
 ### Libraries
 
-*   [bluebird-promisell (⭐46)](https://github.com/zhangchiqing/bluebird-promisell) - A practical functional programming library for promises.
+*   [bluebird-promisell (⭐44)](https://github.com/zhangchiqing/bluebird-promisell) - A practical functional programming library for promises.
 
 ## [11. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -257,8 +257,8 @@
 *   [EcologicalNetwork.jl (⭐66)](https://github.com/PoisotLab/EcologicalNetwork.jl) - Package to compute measures of ecological network structures.
 *   [MatrixNetworks.jl (⭐105)](https://github.com/nassarhuda/MatrixNetworks.jl) - A method to handle graph/matrix/network structures.
 *   [NetworkFlows.jl (⭐3)](https://github.com/Azzaare/NetworkFlows.jl) - Package of network flows algorithms.
-*   [PhyloNetworks.jl (⭐134)](https://github.com/crsl4/PhyloNetworks.jl) - Package to manipulate, analyze and visualize phylogenetic networks.
-*   [TikzGraphs (⭐73)](https://github.com/sisl/TikzGraphs.jl) - Package to create graph layouts using the TikZ graphics language.
+*   [PhyloNetworks.jl (⭐139)](https://github.com/crsl4/PhyloNetworks.jl) - Package to manipulate, analyze and visualize phylogenetic networks.
+*   [TikzGraphs (⭐77)](https://github.com/sisl/TikzGraphs.jl) - Package to create graph layouts using the TikZ graphics language.
 
 ### Varia / Tutorials
 
@@ -274,7 +274,7 @@
 
 ### Music Notation
 
-*   [Lyp (⭐68)](https://github.com/noteflakes/lyp) - the Lilypond swiss army knife - easily install packages, manage multiple versions of Lilypond, and other tools for power users.
+*   [Lyp (⭐69)](https://github.com/noteflakes/lyp) - the Lilypond swiss army knife - easily install packages, manage multiple versions of Lilypond, and other tools for power users.
 
 ## [25. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
@@ -286,16 +286,16 @@
 
 ### Frameworks, Libraries and Tools / Application Templates
 
-*   [JavaScriptServices (⭐3.1k)](https://github.com/aspnet/JavaScriptServices) - Microsoft ASP.NET Core JavaScript Services.
+*   [JavaScriptServices (⭐3k)](https://github.com/aspnet/JavaScriptServices) - Microsoft ASP.NET Core JavaScript Services.
 
 ### Frameworks, Libraries and Tools / Compilers, Transpilers and Languages
 
-*   [roslyn (⭐17k)](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs.
-*   [Sprache (⭐2k)](https://github.com/sprache/Sprache) - Tiny C# Monadic Parser Framework.
+*   [roslyn (⭐18k)](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs.
+*   [Sprache (⭐2.2k)](https://github.com/sprache/Sprache) - Tiny C# Monadic Parser Framework.
 
 ### Frameworks, Libraries and Tools / Mathematics
 
-*   [UnitConversion (⭐159)](https://github.com/Stratajet/UnitConversion) - Expansible Unit Conversion Library for .NET Core and .NET Framework.
+*   [UnitConversion (⭐172)](https://github.com/Stratajet/UnitConversion) - Expansible Unit Conversion Library for .NET Core and .NET Framework.
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
@@ -317,11 +317,11 @@
 
 ### Algorithms and Data structures
 
-*   [qex (⭐27)](https://github.com/princemaple/elixir-queue) - Wraps `:queue`, with improved API and `Inspect`, `Collectable` and `Enumerable` protocol implementations.
+*   [qex (⭐28)](https://github.com/princemaple/elixir-queue) - Wraps `:queue`, with improved API and `Inspect`, `Collectable` and `Enumerable` protocol implementations.
 
 ### Date and Time
 
-*   [cronex (⭐46)](https://github.com/jbernardo95/cronex) - Cron like system you can mount in your supervision tree.
+*   [cronex (⭐47)](https://github.com/jbernardo95/cronex) - Cron like system you can mount in your supervision tree.
 
 ## [30. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -339,7 +339,7 @@
 
 ### System
 
-*   [Keyboard Maestro (⭐384)](https://github.com/iansinnott/alfred-maestro) - Execute Keyboard Maestro macros from Alfred.
+*   [Keyboard Maestro (⭐386)](https://github.com/iansinnott/alfred-maestro) - Execute Keyboard Maestro macros from Alfred.
 
 ---
 

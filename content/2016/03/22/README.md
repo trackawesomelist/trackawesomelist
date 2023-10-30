@@ -22,8 +22,8 @@
 
 ### Modules / Promise
 
-*   [sleep-promise (⭐76)](https://github.com/brummelte/sleep-promise) - Resolves a promise after a specified delay.
-*   [is-promise (⭐275)](https://github.com/then/is-promise) - Test whether an object looks like a promises-a+ promise.
+*   [sleep-promise (⭐81)](https://github.com/brummelte/sleep-promise) - Resolves a promise after a specified delay.
+*   [is-promise (⭐277)](https://github.com/then/is-promise) - Test whether an object looks like a promises-a+ promise.
 
 ### Modules / Generators
 
@@ -33,7 +33,7 @@
 
 ### Open Source / Other
 
-*   [Before Dawn (⭐177)](https://github.com/muffinista/before-dawn) - Screensaver tool.
+*   [Before Dawn (⭐179)](https://github.com/muffinista/before-dawn) - Screensaver tool.
 
 ## [5. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
@@ -55,7 +55,7 @@
 
 ### ORM and Datamapping
 
-*   [github\_ecto (⭐121)](https://github.com/wojtekmach/github_ecto) - Ecto adapter for GitHub API.
+*   [github\_ecto (⭐120)](https://github.com/wojtekmach/github_ecto) - Ecto adapter for GitHub API.
 
 ## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

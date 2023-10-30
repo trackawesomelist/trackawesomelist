@@ -10,7 +10,7 @@
 
 ### Contents / Tools
 
-*   [pico8Grunt (⭐11)](https://github.com/TeamNoComplyGames/pico8Grunt) - A build system for pico8 games, using gruntjs.
+*   [pico8Grunt (⭐12)](https://github.com/TeamNoComplyGames/pico8Grunt) - A build system for pico8 games, using gruntjs.
 
 ## [2. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
 
@@ -27,14 +27,14 @@
 
 ### Filesystem
 
-*   [img (⭐3.7k)](https://github.com/jessfraz/img)\
+*   [img (⭐3.8k)](https://github.com/jessfraz/img)\
     Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 
-*   [Vue Bulma Demo (⭐49)](https://github.com/faisaltheparttimecoder/bulma-vuejs-demo-website) - A simple demo website to check out Bulma / Vue JS & express in conjunction.
+*   [Vue Bulma Demo (⭐50)](https://github.com/faisaltheparttimecoder/bulma-vuejs-demo-website) - A simple demo website to check out Bulma / Vue JS & express in conjunction.
 
 ## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [Strathweb.TypedRouting.AspNetCore (⭐76)](https://github.com/filipw/Strathweb.TypedRouting.AspNetCore) - A library enabling strongly typed routing in ASP.NET Core MVC projects.
+*   [Strathweb.TypedRouting.AspNetCore (⭐75)](https://github.com/filipw/Strathweb.TypedRouting.AspNetCore) - A library enabling strongly typed routing in ASP.NET Core MVC projects.
 
 ## [8. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 

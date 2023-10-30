@@ -10,7 +10,7 @@
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
-*   [Send (⭐3.2k)](https://github.com/timvisee/send) - Simple, private, end to end encrypted temporary file sharing, originally built by Mozilla. ([Clients (⭐3.2k)](https://github.com/timvisee/send#clients)) `MPL-2.0` `Nodejs`
+*   [Send (⭐3.6k)](https://github.com/timvisee/send) - Simple, private, end to end encrypted temporary file sharing, originally built by Mozilla. ([Clients (⭐3.6k)](https://github.com/timvisee/send#clients)) `MPL-2.0` `Nodejs/Docker`
 
 ## [2. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -26,22 +26,22 @@
 
 ### Tools / Ansible
 
-*   [dotbare (⭐549)](https://github.com/kazhala/dotbare) - Manage dotfiles interactively with fzf.
-*   [toml-bombadil (⭐131)](https://github.com/oknozor/toml-bombadil) - Templatize and manage your dotfiles.
+*   [dotbare (⭐596)](https://github.com/kazhala/dotbare) - Manage dotfiles interactively with fzf.
+*   [toml-bombadil (⭐169)](https://github.com/oknozor/toml-bombadil) - Templatize and manage your dotfiles.
 
 ## [4. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Configs / Other Prominent Configs (100 stars or so)
 
-*   [Auto (⭐367)](https://github.com/davidjbradshaw/eslint-config-auto) - Automatically configure ESLint based on your project's dependencies.
+*   [Auto (⭐371)](https://github.com/davidjbradshaw/eslint-config-auto) - Automatically configure ESLint based on your project's dependencies.
 
 ### Configs / Other Configs
 
-*   [Adjunct (⭐46)](https://github.com/davidjbradshaw/eslint-config-adjunct) - A reasonable collection of plugins to use alongside your main ESLint configuration.
+*   [Adjunct (⭐47)](https://github.com/davidjbradshaw/eslint-config-adjunct) - A reasonable collection of plugins to use alongside your main ESLint configuration.
 
 ### Plugins / Languages and Environments
 
-*   [TOML (⭐15)](https://github.com/ota-meshi/eslint-plugin-toml) - ESLint plugin for TOML.
+*   [TOML (⭐16)](https://github.com/ota-meshi/eslint-plugin-toml) - ESLint plugin for TOML.
 
 ## [5. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 

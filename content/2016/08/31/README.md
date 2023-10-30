@@ -26,11 +26,11 @@
 
 ### Miscellaneous
 
-*   [spotify\_ex (⭐144)](https://github.com/jsncmgs1/spotify_ex) - An Elixir wrapper for the Spotify Web API.
+*   [spotify\_ex (⭐146)](https://github.com/jsncmgs1/spotify_ex) - An Elixir wrapper for the Spotify Web API.
 
 ### Statistics
 
-*   [numerix (⭐179)](https://github.com/safwank/Numerix) - A collection of useful mathematical functions with a slant towards statistics, linear algebra and machine learning.
+*   [numerix (⭐180)](https://github.com/safwank/Numerix) - A collection of useful mathematical functions with a slant towards statistics, linear algebra and machine learning.
 
 ### Third Party APIs
 
@@ -38,11 +38,11 @@
 
 ### Utilities
 
-*   [retry (⭐416)](https://github.com/safwank/ElixirRetry) - Simple Elixir macros for linear retry, exponential backoff and wait with composable delays.
+*   [retry (⭐426)](https://github.com/safwank/ElixirRetry) - Simple Elixir macros for linear retry, exponential backoff and wait with composable delays.
 
 ### Video
 
-*   [ffmpex (⭐197)](https://github.com/talklittle/ffmpex) - FFmpeg command line wrapper.
+*   [ffmpex (⭐206)](https://github.com/talklittle/ffmpex) - FFmpeg command line wrapper.
 
 ## [4. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [Fable (⭐2.6k)](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler
+*   [Fable (⭐2.7k)](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler
 
 ### Tools
 
@@ -70,7 +70,7 @@
 
 ### Pattern Matching
 
-*   [Akar (⭐175)](https://github.com/missingfaktor/akar)
+*   [Akar (⭐174)](https://github.com/missingfaktor/akar)
 
 ---
 

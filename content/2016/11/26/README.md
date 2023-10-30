@@ -26,13 +26,13 @@
 
 ### Applications / Themes
 
-*   [Eevee (⭐174)](https://github.com/pizn/eevee) - Based on Github page online editing blog platform. The project is based React, Ant Design and GitHub API.
+*   [Eevee (⭐175)](https://github.com/pizn/eevee) - Based on Github page online editing blog platform. The project is based React, Ant Design and GitHub API.
 
 ## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Ahead-of-Time Compilation / Components
 
-*   [Code Example with Webpack (⭐315)](https://github.com/blacksonic/angular2-aot-webpack)
+*   [Code Example with Webpack (⭐313)](https://github.com/blacksonic/angular2-aot-webpack)
 *   [Code Example with Rollup (⭐81)](https://github.com/mgechev/angular2-ngc-rollup-build)
 
 ## [5. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)

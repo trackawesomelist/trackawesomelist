@@ -22,7 +22,7 @@
 
 ### Utility / Diagnostics
 
-*   [m-demare/attempt.nvim (⭐64)](https://github.com/m-demare/attempt.nvim) - Manage and run temporary buffers.
+*   [m-demare/attempt.nvim (⭐70)](https://github.com/m-demare/attempt.nvim) - Manage and run temporary buffers.
 
 ## [3. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Tools for Teams and Collaboration
 
-*   [Dyte](https://dyte.io) - The most developer-friendly live video & audio SDK, featuring collaborative plugins to enhance productivity and engagement. The free tier includes 10,000 minutes of live video/audio usage every month.
+*   [Dyte](https://dyte.io) - The most developer-friendly live video & audio SDK, featuring collaborative plugins to enhance productivity and engagement. The free tier includes monthly 10,000 minutes of live video/audio usage.
 
 ---
 

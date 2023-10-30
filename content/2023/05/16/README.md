@@ -10,23 +10,19 @@
 
 ### Software / Database Management
 
-*   [Evidence](https://evidence.dev) - Evidence is a code-based BI tool. Write reports using SQL and markdown and they render as a website. ([Source Code (⭐1.7k)](https://github.com/evidence-dev/evidence)) `MIT` `Nodejs`
+*   [Evidence](https://evidence.dev) - Evidence is a code-based BI tool. Write reports using SQL and markdown and they render as a website. ([Source Code (⭐2.5k)](https://github.com/evidence-dev/evidence)) `MIT` `Nodejs`
 
 ### Software / Miscellaneous
 
-*   [OTS-Share (⭐29)](https://github.com/rpgeeganage/ots-share-app) - A self-hosting app to share secrets with file support upto 1MB. ([Source Code (⭐29)](https://github.com/rpgeeganage/ots-share-app)) `MIT` `Docker`
+*   [OTS-Share (⭐40)](https://github.com/rpgeeganage/ots-share-app) - A self-hosting app to share secrets with file support up to 1MB. `MIT` `Docker`
 
 ### Software / Pastebins
 
-*   [Opengist (⭐303)](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git. ([Demo](https://opengist.thomice.li)) `AGPL-3.0` `Docker/Go/Nodejs`
-
-### Software / Remote Access
-
-*   [RPort](https://rport.io) - Self-hosted open source remote management solution for Windows, macOS & Linux. ([Source Code (⭐616)](https://github.com/realvnc-labs/rport)) `MIT` `Go`
+*   [Opengist (⭐527)](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git. ([Demo](https://opengist.thomice.li)) `AGPL-3.0` `Docker/Go/Nodejs`
 
 ### Software / Software Development - Project Management
 
-*   [Plane](https://plane.so) - Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. ([Demo](https://app.plane.so), [Source Code (⭐2k)](https://github.com/makeplane/plane)) `Apache-2.0` `Docker`
+*   [Plane](https://plane.so) - Helps you track your issues, epics, and product roadmaps in the simplest way possible (alternative to JIRA, Linear and Height). ([Demo](https://app.plane.so), [Source Code (⭐18k)](https://github.com/makeplane/plane)) `Apache-2.0` `Docker`
 
 ## [2. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/README.md)
 
@@ -44,20 +40,20 @@
 
 ### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-text
 
-*   [brexhq/prompt-engineering (⭐2.8k)](https://github.com/brexhq/prompt-engineering): "Tips and tricks for working with Large Language Models like OpenAI's GPT-4"
+*   [brexhq/prompt-engineering (⭐7.2k)](https://github.com/brexhq/prompt-engineering): "Tips and tricks for working with Large Language Models like OpenAI's GPT-4"
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Session / Diagnostics
 
-*   [RutaTang/spectacle.nvim (⭐2)](https://github.com/RutaTang/spectacle.nvim) - Easily manage multiple sessions with telescope integration.
+*   [RutaTang/spectacle.nvim (⭐10)](https://github.com/RutaTang/spectacle.nvim) - Easily manage multiple sessions with telescope integration.
 
 ## [6. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Themes
 
-*   [catppuccin (⭐250)](https://github.com/catppuccin/tmux) Catppuccin `Latte`, `Frappe`, `Macchiato`, and `Mocha` themes for tmux.
-*   [tmux-tokyo-night (⭐14)](https://github.com/fabioluciano/tmux-tokyo-night) A vim inspired tokyo night theme
+*   [catppuccin (⭐493)](https://github.com/catppuccin/tmux) Catppuccin `Latte`, `Frappe`, `Macchiato`, and `Mocha` themes for tmux.
+*   [tmux-tokyo-night (⭐55)](https://github.com/fabioluciano/tmux-tokyo-night) A vim inspired tokyo night theme
 
 ---
 

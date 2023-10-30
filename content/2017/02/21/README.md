@@ -54,7 +54,7 @@
 
 ### Material Design
 
-*   [ng2-materialize (⭐319)](https://github.com/sherweb/ng2-materialize) An Angular 2 wrap around Materialize library
+*   [ng2-materialize (⭐318)](https://github.com/sherweb/ng2-materialize) An Angular 2 wrap around Materialize library.
 
 ### Cheatsheet
 
@@ -63,7 +63,7 @@
 ### TypeScript Seed Projects / Components
 
 *   [Angular Seed](https://mgechev.github.io/angular-seed/) Seed project for Angular apps
-*   [Angular NPM Module Seed (⭐51)](https://github.com/davguij/angular-npm-module-seed) - Starting point for developing Angular modules and publishing them on NPM.
+*   [Angular NPM Module Seed (⭐49)](https://github.com/davguij/angular-npm-module-seed) - Starting point for developing Angular modules and publishing them on NPM.
 
 ## [5. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
@@ -118,7 +118,7 @@
 
 ### Components / Themes
 
-*   [react-lz-editor (⭐939)](https://github.com/leejaen/react-lz-editor) - An open source rich react editor based on draft-Js and ant design.
+*   [react-lz-editor (⭐942)](https://github.com/leejaen/react-lz-editor) - An open source rich react editor based on draft-Js and ant design.
 
 ## [11. Tips](/content/git-tips/tips/README.md)
 
@@ -159,7 +159,7 @@ git log -n <n>
 
 ### Frameworks, Libraries and Tools / SDKs
 
-*   [SendGrid-csharp (⭐972)](https://github.com/sendgrid/sendgrid-csharp) - C# client library for using the full SendGrid API.
+*   [SendGrid-csharp (⭐1k)](https://github.com/sendgrid/sendgrid-csharp) - C# client library for using the full SendGrid API.
 
 ---
 

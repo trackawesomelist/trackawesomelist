@@ -10,7 +10,7 @@
 
 ### UI
 
-*   [Card Settings (⭐444)](https://github.com/codegrue/card_settings) <!--stargazers:codegrue/card_settings--> - package for building settings forms by [codegrue](https://github.com/codegrue).
+*   [Card Settings (⭐479)](https://github.com/codegrue/card_settings) <!--stargazers:codegrue/card_settings--> - package for building settings forms by [codegrue](https://github.com/codegrue).
 
 ## [2. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Compatibility
 
-*   [modernize (⭐312)](https://github.com/PyCQA/modernize) - Modernizes Python code for eventual Python 3 migration.
+*   [modernize (⭐317)](https://github.com/PyCQA/modernize) - Modernizes Python code for eventual Python 3 migration.
 
 ## [5. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
@@ -116,7 +116,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-toaster (⭐170)](https://github.com/MeForma/vue-toaster) - Vue.js toast notification plugin for Vue 3
+*   [vue-toaster (⭐179)](https://github.com/MeForma/vue-toaster) - Vue.js toast notification plugin for Vue 3
 
 ## [7. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -148,7 +148,7 @@
 
 ### UI / Barcode
 
-*   [NeumorphismKit (⭐43)](https://github.com/y-okudera/NeumorphismKit) - Neumorphism framework for UIKit.
+*   [NeumorphismKit (⭐45)](https://github.com/y-okudera/NeumorphismKit) - Neumorphism framework for UIKit.
 
 ## [11. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 
@@ -170,11 +170,11 @@
 
 ### Projects / Tools
 
-*   [Ott (⭐299)](https://github.com/ott-lang/ott) - Tool for writing definitions of programming languages and calculi that can be translated to Coq.
+*   [Ott (⭐311)](https://github.com/ott-lang/ott) - Tool for writing definitions of programming languages and calculi that can be translated to Coq.
 
 ### Projects / Type Theory and Mathematics
 
-*   [Coqtail Math (⭐12)](https://github.com/coq-community/coqtail-math) - Library of mathematical results ranging from arithmetic to real and complex analysis.
+*   [Coqtail Math (⭐13)](https://github.com/coq-community/coqtail-math) - Library of mathematical results ranging from arithmetic to real and complex analysis.
 
 ### Resources / Blogs
 
@@ -184,7 +184,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [minimalist-web-notepad (⭐776)](https://github.com/pereorga/minimalist-web-notepad) - Minimalist notepad.cc clone. ([Demo](https://notes.orga.cat/)) `Apache-2.0` `PHP`
+*   [minimalist-web-notepad (⭐858)](https://github.com/pereorga/minimalist-web-notepad) - Minimalist notepad.cc clone. ([Demo](https://notes.orga.cat/)) `Apache-2.0` `PHP`
 
 ## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -194,15 +194,15 @@
 
 ### Caching
 
-*   [EasyCaching (⭐1.6k)](https://github.com/dotnetcore/EasyCaching) - A caching library that contains basic and some advanced usages of caching which can help handle caching more easier!
+*   [EasyCaching (⭐1.7k)](https://github.com/dotnetcore/EasyCaching) - A caching library that contains basic and some advanced usages of caching which can help handle caching more easier!
 
 ### ORM
 
-*   [Venflow (⭐164)](https://github.com/TwentyFourMinutes/Venflow) - A super fast and lightweight ORM for PostgreSQL.
+*   [Venflow (⭐168)](https://github.com/TwentyFourMinutes/Venflow) - A super fast and lightweight ORM for PostgreSQL.
 
 ### Tools
 
-*   [YARP (⭐6.6k)](https://github.com/microsoft/reverse-proxy) - YARP is a reverse proxy toolkit for building fast proxy servers in .NET using the infrastructure from ASP.NET and .NET.
+*   [YARP (⭐7k)](https://github.com/microsoft/reverse-proxy) - YARP is a reverse proxy toolkit for building fast proxy servers in .NET using the infrastructure from ASP.NET and .NET.
 
 ---
 

@@ -16,13 +16,13 @@
 
 ### Containers
 
-*   [Sitecore Deployment on Kubernetes Example (⭐3)](https://github.com/georgechang/sitecore-k8s) - An example of a Sitecore 10.1 XP0 deployment onto AKS with SolrCloud. It should deploy: 1)Sitecore 10.1 XP0; 2)Microsoft SQL Server 2019; 3)Zookeeper 3.4 (3 replicas); 4)Solr 8.4 (3 replicas)
+*   [Sitecore Deployment on Kubernetes Example (⭐4)](https://github.com/georgechang/sitecore-k8s) - An example of a Sitecore 10.1 XP0 deployment onto AKS with SolrCloud. It should deploy: 1)Sitecore 10.1 XP0; 2)Microsoft SQL Server 2019; 3)Zookeeper 3.4 (3 replicas); 4)Solr 8.4 (3 replicas)
 
 ## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Web / Web Application Firewall
 
-*   [Curiefense (⭐627)](https://github.com/curiefense/curiefense) - Curiefense adds a broad set of automated web security tools, including a WAF to Envoy Proxy.
+*   [Curiefense (⭐676)](https://github.com/curiefense/curiefense) - Curiefense adds a broad set of automated web security tools, including a WAF to Envoy Proxy.
 
 ## [4. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -34,13 +34,13 @@
 
 ### Dependency injection
 
-*   [piotr-yuxuan/closeable-map (⭐50)](https://github.com/piotr-yuxuan/closeable-map)
+*   [piotr-yuxuan/closeable-map (⭐51)](https://github.com/piotr-yuxuan/closeable-map)
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Glitterly](https://glitterly.app/) - Programatically generate dynamic images from base templates. Restful API and nocode integrations. Free tier comes with 50 images/month and 5 templates.
+*   [Glitterly](https://glitterly.app/) - Programmatically generate dynamic images from base templates. Restful API and nocode integrations. The free tier comes with 50 images/month and five templates.
 
 ## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

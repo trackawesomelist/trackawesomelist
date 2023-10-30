@@ -10,56 +10,56 @@
 
 ### ASM / Syntax highlighting packages
 
-*   [Tuff (⭐303)](https://github.com/BonsaiDen/Tuff.gb)
-*   [2048-gb (⭐103)](https://github.com/Sanqui/2048-gb)
+*   [Tuff (⭐304)](https://github.com/BonsaiDen/Tuff.gb)
+*   [2048-gb (⭐106)](https://github.com/Sanqui/2048-gb)
 *   [Snake](https://bitbucket.org/Sanqui/snake/src/?at=master)
-*   [Lazerpong (⭐12)](https://github.com/huderlem/lazerpong)
-*   [Geometrix (⭐28)](https://github.com/AntonioND/geometrix)
-*   [µCity (⭐370)](https://github.com/AntonioND/ucity)
-*   [Carazu (⭐16)](https://github.com/mholtkamp/carazu)
-*   [Snake-gb (⭐15)](https://github.com/DonaldHays/snake-gb)
-*   [GB303 (⭐105)](https://github.com/furrtek/GB303) - GB303 wavetable-based TB-303 style synthesizer for the Nintendo Game Boy.
-*   [Sushi (⭐4)](https://github.com/JustSid/Sushi)
-*   [Flappy-boy-asm (⭐82)](https://github.com/bitnenfer/flappy-boy-asm)
-*   [Adjustris (⭐11)](https://github.com/tbsp/Adjustris)
-*   [exeman (⭐26)](https://github.com/exezin/exeman/)
-*   [Aevilia (⭐54)](https://github.com/ISSOtm/Aevilia-GB)
-*   [GBSlides (⭐25)](https://github.com/Kartones/gameboy) - A simple Game Boy Powerpoint-like slides viewer.
-*   [Pokered-gbc (⭐111)](https://github.com/dannye/pokered-gbc) - Pokémon Red remade with full GBC support.
-*   [ToyToy (⭐9)](https://github.com/tslanina/Retro-GameBoyColor-ToyToy)
-*   [StefaN (⭐3)](https://github.com/tslanina/Retro-GameBoyColor-StefaN) - Fourway Breakout clone.
-*   [Galaxia (⭐3)](https://github.com/tslanina/Retro-GameBoyColor-Galaxia)
-*   [desgb (⭐11)](https://github.com/sanqui/desgb) - DES encryption.
-*   [superhappyfunbubbletime (⭐4)](https://github.com/l0k1/superhappyfunbubbletime)
+*   [Lazerpong (⭐14)](https://github.com/huderlem/lazerpong)
+*   [Geometrix (⭐29)](https://github.com/AntonioND/geometrix)
+*   [µCity (⭐387)](https://github.com/AntonioND/ucity)
+*   [Carazu (⭐17)](https://github.com/mholtkamp/carazu)
+*   [Snake-gb (⭐18)](https://github.com/DonaldHays/snake-gb)
+*   [GB303 (⭐112)](https://github.com/furrtek/GB303) - GB303 wavetable-based TB-303 style synthesizer for the Nintendo Game Boy.
+*   [Sushi (⭐5)](https://github.com/JustSid/Sushi)
+*   [Flappy-boy-asm (⭐87)](https://github.com/bitnenfer/flappy-boy-asm)
+*   [Adjustris (⭐13)](https://github.com/tbsp/Adjustris)
+*   [exeman (⭐27)](https://github.com/exezin/exeman/)
+*   [Aevilia (⭐56)](https://github.com/ISSOtm/Aevilia-GB)
+*   [GBSlides (⭐27)](https://github.com/Kartones/gameboy) - A simple Game Boy Powerpoint-like slides viewer.
+*   [Pokered-gbc (⭐115)](https://github.com/dannye/pokered-gbc) - Pokémon Red remade with full GBC support.
+*   [ToyToy (⭐10)](https://github.com/tslanina/Retro-GameBoyColor-ToyToy)
+*   [StefaN (⭐4)](https://github.com/tslanina/Retro-GameBoyColor-StefaN) - Fourway Breakout clone.
+*   [Galaxia (⭐4)](https://github.com/tslanina/Retro-GameBoyColor-Galaxia)
+*   [desgb (⭐14)](https://github.com/sanqui/desgb) - DES encryption.
+*   [superhappyfunbubbletime (⭐5)](https://github.com/l0k1/superhappyfunbubbletime)
 
 ### C / Syntax highlighting packages
 
-*   [FlappyBoy (⭐19)](https://github.com/bitnenfer/FlappyBoy)
+*   [FlappyBoy (⭐20)](https://github.com/bitnenfer/FlappyBoy)
 *   [Squishy the Turtle (⭐8)](https://github.com/cppchriscpp/SquishyTheTurtle)
 *   [Quadratino (⭐12)](https://github.com/avivace/quadratino)
 *   [Doctor How (⭐27)](https://github.com/elfgames/doctorhow)
-*   [GBsnake (⭐25)](https://github.com/brovador/GBsnake)
-*   [gb-mines (⭐26)](https://github.com/andreasjhkarlsson/gb-mines)
+*   [GBsnake (⭐26)](https://github.com/brovador/GBsnake)
+*   [gb-mines (⭐28)](https://github.com/andreasjhkarlsson/gb-mines)
 *   [oranges](http://www.atari2600land.com/gameboy/oranges.html)
 *   [red hot princess carnage (⭐6)](https://github.com/Imanolea/bitbitjam3_red_hot_princess_carnage)
 *   [Hives](https://refreshgames.co.uk/2017/04/24/ludum-dare-38-entry-hives/)
 *   [GBC Atari Boxing (⭐2)](https://github.com/rubfi/gbc-atari-boxing) - Atari 2600 Boxing clone for the Game Boy (Color).
 *   [PostBot (⭐7)](https://github.com/MasterIV/PostBot)
-*   [Guns & Riders (⭐10)](https://github.com/kanfor/gunsridersgameboy)
+*   [Guns & Riders (⭐11)](https://github.com/kanfor/gunsridersgameboy)
 
 ### Demos / Syntax highlighting packages
 
-*   [Back to Color (⭐24)](https://github.com/AntonioND/back-to-color)
-*   [beach-gbc (⭐13)](https://github.com/vegard/beach-gbc)
-*   [CUTE DEMO (⭐29)](https://github.com/mills32/CUTE_DEMO)
+*   [Back to Color (⭐26)](https://github.com/AntonioND/back-to-color)
+*   [beach-gbc (⭐14)](https://github.com/vegard/beach-gbc)
+*   [CUTE DEMO (⭐31)](https://github.com/mills32/CUTE_DEMO)
 *   [`10 PRINT` Game Boy](https://github.com/svendahlstrand/10-print-game-boy)
-*   [Roboto Demo (⭐25)](https://github.com/naavis/roboto-demo)
+*   [Roboto Demo (⭐27)](https://github.com/naavis/roboto-demo)
 
 ## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Other Tools / Telegram
 
-*   [The Harvester (⭐8.6k)](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
+*   [The Harvester (⭐9.2k)](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
 
 ## [3. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
@@ -126,26 +126,26 @@
 ### IDE
 
 *   [DataGrip](https://www.jetbrains.com/datagrip) - Cross-Platform IDE for Databases & SQL by JetBrains.
-*   [DBeaver (⭐31k)](https://github.com/dbeaver/dbeaver) - Free universal database manager and SQL client.
+*   [DBeaver (⭐34k)](https://github.com/dbeaver/dbeaver) - Free universal database manager and SQL client.
 
 ### CLI
 
-*   [pspg (⭐2k)](https://github.com/okbob/pspg) - Postgres Pager.
+*   [pspg (⭐2.1k)](https://github.com/okbob/pspg) - Postgres Pager.
 
 ### API / Samples
 
 *   [Oracle REST Data Services](http://www.oracle.com/technetwork/developer-tools/rest-data-services) - A mid-tier Java application, ORDS maps HTTP(S) verbs (GET, POST, PUT, DELETE, etc.) to database transactions and returns any results formatted using JSON.
-*   [prest (⭐3.7k)](https://github.com/prest/prest) - Is a way to serve a RESTful API from any databases written in Go.
-*   [resquel (⭐110)](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
+*   [prest (⭐3.9k)](https://github.com/prest/prest) - Is a way to serve a RESTful API from any databases written in Go.
+*   [resquel (⭐114)](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [pgmetrics (⭐831)](https://github.com/rapidloop/pgmetrics) - Collect and display information and stats from a running PostgreSQL server.
+*   [pgmetrics (⭐892)](https://github.com/rapidloop/pgmetrics) - Collect and display information and stats from a running PostgreSQL server.
 
 ### Monitoring/Statistics/Perfomance / Zabbix
 
 *   [Orabbix](http://www.smartmarmot.com/wiki/index.php?title=Orabbix) - Orabbix is a plugin designed to work with Zabbix Enterprise Monitor to provide multi-tiered monitoring, performance and availability reporting and measurement for Oracle Databases, along with server performance metrics.
-*   [Pyora (⭐108)](https://github.com/bicofino/Pyora) - Python script to monitor Oracle Databases.
+*   [Pyora (⭐112)](https://github.com/bicofino/Pyora) - Python script to monitor Oracle Databases.
 
 ## [8. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
 
@@ -173,7 +173,7 @@
 
 ### Alert / Barcode
 
-*   [PopupDialog (⭐3.8k)](https://github.com/orderella/PopupDialog) - A simple, customizable popup dialog. Replaces UIAlertController alert style.
+*   [PopupDialog (⭐3.9k)](https://github.com/orderella/PopupDialog) - A simple, customizable popup dialog. Replaces UIAlertController alert style.
 
 ## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -183,7 +183,7 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Dotnet Script (⭐2.1k)](https://github.com/filipw/dotnet-script) - Run C# scripts from the .NET CLI.
+*   [Dotnet Script (⭐2.5k)](https://github.com/filipw/dotnet-script) - Run C# scripts from the .NET CLI.
 
 ## [12. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 

@@ -1,12 +1,18 @@
 # Awesome List Updates on Sep 25 - Oct 01, 2023
 
-33 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [1. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/week/README.md)
+
+### Useful Stack Overflow questions & answers
+
+*   [Effortless export from GitHub Wiki](https://stackoverflow.com/questions/18759738/effortless-export-from-github-wiki)
+
+## [2. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Pricing / Usage-based Pricing
 
@@ -16,13 +22,13 @@
 
 *   [Darts (⭐6.3k)](https://github.com/unit8co/darts) - Python library for user-friendly forecasting and anomaly detection on time series. It wraps a huge number of models, including [Prophet](https://facebook.github.io/prophet/). Great for experiments, but bear in mind that all the [models in Darts expects](https://news.ycombinator.com/item?id=37665435) that your data comes at a very regular interval, and make a lot of assumptions about their shape.
 
-## [2. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [3. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Authorization / AWS policy tools
 
-*   [aws-lint-iam-policies (⭐20)](https://github.com/welldone-cloud/aws-lint-iam-policies) - Runs IAM policy linting checks against either a single AWS account or all accounts of an AWS Organization. Reports on policies that violate security best practices or contain errors. Supports both identity-based and resource-based policies.
+*   [aws-lint-iam-policies (⭐23)](https://github.com/welldone-cloud/aws-lint-iam-policies) - Runs IAM policy linting checks against either a single AWS account or all accounts of an AWS Organization. Reports on policies that violate security best practices or contain errors. Supports both identity-based and resource-based policies.
 
-## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Videos / Others
 
@@ -34,7 +40,13 @@
 *   [Running Blazor in Production, Lessons Learned](https://www.youtube.com/watch?v=6ctA95pZJoc) - ![duration](https://img.shields.io/badge/Duration:%20-55%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 24, 2023 - Since we started using Blazor in 2019, it's been an excellent tool for our team of C# developers. Even when Blazor was brand new, we used it in our latest project, which really helped us. Seeing other people in our field, I can say that Blazor was a key to our project's success. Our journey with Blazor has mostly been easy, but we have still learned a lot along the way. In this video, I will share some tips and lessons we have picked up. I will also discuss how to make smart choices and avoid problems when you're changing your existing project to use Blazor.
 *   [Running Blazor in production, lessons learned - Jimmy Engström - NDC London 2023](https://www.youtube.com/watch?v=bZdYpYQb958) - ![duration](https://img.shields.io/badge/Duration:%20-57%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 19, 2023 - We have been running Blazor in production for over two years now. Everyone in our team is a C# developer, so when we went into our latest project Blazor was a natural choice, even though Blazor was only a week old. Looking at my peers working in the same space, I am convinced that it saved our project by switching to Blazor. Even though it has been mostly smooth sailing we have learned a lot during the years. In this session, Jimmy Engström will give you some of the tips, tricks, and learnings we have collected over the years, when to choose what, and how to avoid pitfalls converting your exiting project to Blazor.
 
-## [4. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Ruby / Tornado
+
+*   [Ruby Learning](http://rubylearning.github.io)
+
+## [6. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Art & Image Generator
 
@@ -129,31 +141,31 @@
 
 
 
-## [5. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [7. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### RSS services powered by utilizing GitHub / Outline Processor Markup Language
 
-*   [rssTea (⭐2)](https://github.com/avadhesh18/rssTea): a RSS reader and Podcast player Progressive Web App running on GitHub Actions [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/avadhesh18/rssTea)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [rssTea (⭐25)](https://github.com/avadhesh18/rssTea): a RSS reader and Podcast player Progressive Web App running on GitHub Actions [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/avadhesh18/rssTea)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-## [6. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [8. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Websites / Wiki
 
 *   [Official Minecraft Wiki](https://minecraft.wiki/) - Minecraft Wiki is a complete resource for Minecraft, including gameplay, blocks, crafting, updates, events, mods, running a server, and resource packs.
 
-## [7. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [9. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### eBPF Workflow: Tools and Utilities / Aya
 
 *   [Ebpfguard (⭐262)](https://github.com/deepfence/ebpfguard) - Rust library for writing Linux security policies using eBPF.
 
-## [8. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+## [10. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
 ### Popular Science Books / Monograph
 
 *   [Teuscher. Alan Turing: Life and Legacy of a Great. Springer](https://link.springer.com/book/10.1007/978-3-662-05642-4) - Essays which spans the entire rich spectrum of Turing's life, research work and legacy.
 
-## [9. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [11. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
@@ -167,42 +179,42 @@
 
 *   [unplugin-info (⭐46)](https://github.com/yjl9903/unplugin-info) - Export build information as a virutal module.
 
-## [10. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [12. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Icons
 
 *   [Sitecore Icons (⭐7)](https://github.com/Antonytm/sitecore-icons) - An instalable collection of 1800+ FA and 2500+ MUI icons X 4 colors (Black, Blue, Green, Red).
 
-## [11. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [13. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Builder / Other
 
 *   [packer](https://developer.hashicorp.com/packer/integrations/hashicorp/docker/latest/components/builder/docker) - Hashicorp tool to build machine images including docker image integrated with configuration management tools like chef, puppet, ansible
 
-## [12. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [14. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
 *   [CellTail (⭐5)](https://github.com/mousetail/celltail) - A 1d celular automata based language, supports a complex pattern matching syntax.
 
-## [13. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [15. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### HA
 
 *   [Percona Replication Manager (⭐1)](https://github.com/percona/replication-manager) - Asynchronous MySQL replication manager agent for Pacemaker. Supports file and GTID based replication, geo-distributed clusters using booth.
 
-## [14. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [16. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Resources / Ironsworn
 
 *   [Starsmith Expanded Oracles](https://preview.drivethrurpg.com/en/product/417619/Starsmith-Expanded-Oracles) - Supplemental oracles for Starforged
 
-## [15. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [17. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
-*   [next-google-tag-manager (⭐25)](https://github.com/XD2Sketch/next-google-tag-manager) – Easily add Google Tag Manager to Next 13 and up.
-*   [next-api-decorators (⭐377)](https://github.com/storyofams/next-api-decorators) - Decorators to create typed Next.js API routes, with easy request validation and transformation.
+*   [next-google-tag-manager (⭐32)](https://github.com/XD2Sketch/next-google-tag-manager) – Easily add Google Tag Manager to Next 13 and up.
+*   [next-api-decorators (⭐379)](https://github.com/storyofams/next-api-decorators) - Decorators to create typed Next.js API routes, with easy request validation and transformation.
 
 ### Projects(Beginner level)
 
@@ -211,7 +223,7 @@
 *   [Full Stack Spotify Clone: Next 13.4, React, Stripe, Supabase, PostgreSQL, Tailwind (2023)](https://youtube.com/watch?v=2aeMRB8LL4o\&t=4402s)
 *   [Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 2023](https://www.youtube.com/watch?v=5miHyP6lExg\&t=1908s)
 
-## [16. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [18. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Hosting:
 
@@ -222,9 +234,6 @@
 
 
 ### Remote Jobs:
-
-- Website: <https://jobstache.com>
-
 
 - Website: <https://jobsinjs.com>
 
@@ -283,19 +292,19 @@
 
 
 
-## [17. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [19. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [CakeFuzzer](https://zigrin.com/tools/cake-fuzzer/) — Web application security testing tool for CakePHP-based web applications. CakeFuzzer employs a predefined set of attacks that are randomly modified before execution. Leveraging its deep understanding of the Cake PHP framework, Cake Fuzzer launches attacks on all potential application entry points.
 
-## [18. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [20. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
 *   [AgentVerse (⭐2.6k)](https://github.com/openbmb/agentverse) Provides a flexible framework that simplifies the process of building custom multi-agent environments for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/agentverse?style=social)
 
-## [19. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [21. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Hardware / Accessories and Adapters
 
@@ -306,13 +315,13 @@
 *   [Tech Tangents: Gold Standard Plotter - HP 7475A](https://www.youtube.com/watch?v=8785ktWD7vQ) - Video with some HPGL and plotter history, plus operating an HP 7475A from an IBM 5160 microcomputer.
 *   [curiousmarc.com: HP 7475A Plotter](https://www.curiousmarc.com/computing/hp-7475a-plotter) - A great collection of info, ephemera, plot files, three YouTube videos, and a 3d-printable replacement part for the HP 7475A.
 
-## [20. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [22. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### Blogs / TikZ
 
 *   [TeX Hour](https://texhour.github.io/) - A weekly video meeting
 
-## [21. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [23. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Audio Editing
 
@@ -328,7 +337,7 @@
 
 *   [Awesome Audio DSP (⭐613)](https://github.com/BillyDM/awesome-audio-dsp) - A curated list of audio DSP and plugin development resources.
 
-## [22. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [24. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### AI
 
@@ -350,7 +359,7 @@
 
 *   [Layouter (⭐0)](https://github.com/nekromoff/layouter) - A simple UI **grid layout** library for LÖVE 2D game engine.
 
-## [23. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [25. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tutorials
 
@@ -370,9 +379,9 @@
 *   [Roppers Security Fundamentals](https://www.roppers.org/courses/security) - Free course that teaches a beginner how security works in the real world. Learn security theory and execute defensive measures so that you are better prepared against threats online and in the physical world. Full text available as a [gitbook](https://www.hoppersroppers.org/security/).
 *   [Roppers Practical Networking](https://www.roppers.org/courses/networking) - A hands-on, wildly practical introduction to networking and making packets dance. No wasted time, no memorizing, just learning the fundamentals.
 
-## [24. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [26. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
-### Machine Learning / Automated Machine Learning
+### Automated Machine Learning / Others
 
 *   [Auto-PyTorch (⭐2.1k)](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
@@ -380,7 +389,7 @@
 
 *   [PettingZoo (⭐2k)](https://github.com/Farama-Foundation/PettingZoo) - An API standard for multi-agent reinforcement learning environments, with popular reference environments and related utilities.
 
-## [25. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [27. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Ebooks
 
@@ -398,19 +407,19 @@
 
 *   [Boop](https://boop.okat.best/) - Snippet tool that provides various functionalities like JSON formatting, MD5 Checksum, reverse string, encode, and much more. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/IvanMathy/Boop)
 
-## [26. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [28. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Self-hosting Solutions
 
 *   [FreedomBox](https://freedombox.org/) - Community project to develop, design and promote personal servers running free software for private, personal, communications. ([Source Code](https://salsa.debian.org/freedombox-team/freedombox)) `AGPL-3.0` `Python/deb`
 
-## [27. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [29. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
-*   [antoinezanardi/werewolves-assistant-api-next (⭐12)](https://github.com/antoinezanardi/werewolves-assistant-api-next#readme) - Project logo. Badges. Concise description. TOC for easy navigation. Simple install instructions and various sections. Clean project with code coverage, CI, and many other features.
+*   [antoinezanardi/werewolves-assistant-api-next (⭐16)](https://github.com/antoinezanardi/werewolves-assistant-api-next#readme) - Project logo. Badges. Concise description. TOC for easy navigation. Simple install instructions and various sections. Clean project with code coverage, CI, and many other features.
 
-## [28. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [30. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -426,20 +435,20 @@
 *   [deco.cx](https://www.deco.cx/en/dev) - Edge-native frontend platform with a visual CMS auto-generated from TypeScript code. Built-in A/B testing, content segmentation, and real-time analytics. Perfect for content-heavy and Enterprise e-commerce websites. Free up to 5k pageviews/month or open-source/personal projects.
 *   [Platformatic Cloud](https://platformatic.dev/) - Platformatic offers many open-source packages to wrap and deploy your Fastify application in the Platformatic Cloud. Built-in CD with a GitHub Action. [Free plan](https://platformatic.dev/pricing/) for hobbyists with a simple [GitHub login](https://platformatic.cloud/).
 
-## [29. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [31. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Miscellaneous
 
 *   [Steam Deck (⭐77)](https://github.com/airscripts/awesome-steam-deck#readme) - A handheld gaming computer developed by Valve.
 
-## [30. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [32. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### :dollar: Paid Courses / Chrome Extensions
 
 *   [TypeScript Origins: The Documentary - YouTube](https://www.youtube.com/watch?v=U6s2pdxebSo) by OfferZen Origins
     > The Documentary features core contributors and community members like Anders Hejlsberg, Steve Lucco, Luke Hoban, Daniel Rosenwasser, Ryan Cavanaugh, Amanda Silver, Matt Pocock, Josh Goldberg & many more!
 
-## [31. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [33. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Colorscheme Creation / Diagnostics
 
@@ -447,13 +456,13 @@
 
 ### Cursorline / Diagnostics
 
-*   [sontungexpt/stcursorword (⭐15)](https://github.com/sontungexpt/stcursorword) - Highlight the word under the cursor (Improved and compact version of nvim-cursorline).
+*   [sontungexpt/stcursorword (⭐16)](https://github.com/sontungexpt/stcursorword) - Highlight the word under the cursor (Improved and compact version of nvim-cursorline).
 
 ### Git / Diagnostics
 
 *   [niuiic/git-log.nvim (⭐5)](https://github.com/niuiic/git-log.nvim) - Check git log of the selected code.
 
-## [32. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [34. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Automation
 
@@ -464,11 +473,11 @@
 *   [Environment Modules](https://cea-hpc.github.io/modules/) - Environment Modules provides for the dynamic modification of a user's environment via modulefiles. ([Source Code (⭐583)](https://github.com/cea-hpc/modules)) `GPL-2.0` `Tcl`
 *   [Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) - Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem. ([Source Code (⭐417)](https://github.com/TACC/Lmod)) `MIT` `Lua`
 
-## [33. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [35. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries
 
-*   [BlackJAX (⭐561)](https://github.com/blackjax-devs/blackjax) - Library of samplers for JAX. <img src="https://img.shields.io/github/stars/blackjax-devs/blackjax?style=social" align="center">
+*   [BlackJAX (⭐573)](https://github.com/blackjax-devs/blackjax) - Library of samplers for JAX. <img src="https://img.shields.io/github/stars/blackjax-devs/blackjax?style=social" align="center">
 
 ---
 

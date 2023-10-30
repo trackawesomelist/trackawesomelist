@@ -16,7 +16,7 @@
 
 ### Messaging
 
-*   [aenigma (⭐174)](https://github.com/openspace42/aenigma/): the | state-of-the-art | secure-by-default | one-touch-deployed | XMPP server for everyone. It does for XMPP what Mail-in-a-Box has done for email, Streisand for VPNs, and Easyengine for wordpress.
+*   [aenigma (⭐179)](https://github.com/openspace42/aenigma/): the | state-of-the-art | secure-by-default | one-touch-deployed | XMPP server for everyone. It does for XMPP what Mail-in-a-Box has done for email, Streisand for VPNs, and Easyengine for wordpress.
     The installation takes you on a 15 minute, clearly worded, step-by-step setup and takes care of everything automagically.
 
 ## [3. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
@@ -55,26 +55,26 @@
 
 ### Tools / Other
 
-*   [badtouch (⭐334)](https://github.com/kpcyrd/badtouch) - Scriptable network authentication cracker
-*   [sniffglue (⭐895)](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer
+*   [badtouch (⭐363)](https://github.com/kpcyrd/badtouch) - Scriptable network authentication cracker
+*   [sniffglue (⭐968)](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer
 
 ## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [Butterfly Server .NET (⭐264)](https://github.com/firesharkstudios/butterfly-server-dotnet) - Allows building real-time web apps and native apps with minimal effort. Define a Web API and Subscription API that automatically synchronizes datasets across connected clients.
+*   [Butterfly Server .NET (⭐269)](https://github.com/firesharkstudios/butterfly-server-dotnet) - Allows building real-time web apps and native apps with minimal effort. Define a Web API and Subscription API that automatically synchronizes datasets across connected clients.
 
 ## [8. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Static Analysis Tools
 
-*   [JAADAS (⭐332)](https://github.com/flankerhqd/JAADAS) - Joint intraprocedure and interprocedure program analysis tool to find vulnerabilities in Android apps, built on Soot and Scala
+*   [JAADAS (⭐333)](https://github.com/flankerhqd/JAADAS) - Joint intraprocedural and interprocedural program analysis tool to find vulnerabilities in Android apps, built on Soot and Scala
 
 ## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Web Application Framework
 
-*   [facil.io (⭐1.7k)](https://github.com/boazsegev/facil.io) - Evented, high performance C web framework supporting HTTP, WebSockets, SSE and more. \[MIT] [website](http://facil.io)
+*   [facil.io (⭐1.9k)](https://github.com/boazsegev/facil.io) - Evented, high performance C web framework supporting HTTP, WebSockets, SSE and more. \[MIT] [website](http://facil.io)
 
 ## [10. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Boilerplates
 
-*   [Nextron (⭐2.6k)](https://github.com/saltyshiomix/nextron) - An Electron with Next.js apps generator ⚡
+*   [Nextron (⭐3.1k)](https://github.com/saltyshiomix/nextron) - An Electron with Next.js apps generator ⚡
 
 ## [12. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

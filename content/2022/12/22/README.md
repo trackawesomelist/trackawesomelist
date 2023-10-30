@@ -10,19 +10,19 @@
 
 ### Using ChatGPT in other apps
 
-*   [GPT AI Assistant using LINE and Vercel (⭐1.2k)](https://github.com/memochou1993/gpt-ai-assistant)
+*   [GPT AI Assistant using LINE and Vercel (⭐6.2k)](https://github.com/memochou1993/gpt-ai-assistant)
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Host-based tools / Tarpits
 
-*   [USB Keystroke Injection Protection (⭐442)](https://github.com/google/ukip) - Daemon for blocking USB keystroke injection devices on Linux systems.
+*   [USB Keystroke Injection Protection (⭐458)](https://github.com/google/ukip) - Daemon for blocking USB keystroke injection devices on Linux systems.
 
 ## [3. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Self-hosted
 
-*   [Memos (⭐14k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
+*   [Memos (⭐20k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 
 ## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -41,11 +41,8 @@
 ### Driver crates / Other
 
 *   [ADE791x](https://crates.io/crates/ade791x) - SPI - ADE7912/ADE7913 3-Channel, Isolated, Sigma-Delta ADC - [github (⭐1)](https://github.com/GrepitAB/ade791x-rs) - ![crates.io](https://img.shields.io/crates/v/ade791x.svg)
-*   [ebyte-e32](https://crates.io/crates/ebyte-e32) - SERIAL - Ebyte E32 LoRa module driver - [Intro blog post](https://barafael.github.io/A-Platform-Agnostic-Driver-for-EBYTE-E32-LoRa-Modules/) - ![crates.io](https://img.shields.io/crates/v/ebyte-e32.svg)
-
-### Driver crates / WIP
-
 *   [AFE4404 (⭐2)](https://github.com/pulse-loop/afe4404) - I2C - Pulse oximeter - ![crates.io](https://img.shields.io/crates/v/afe4404.svg)
+*   [ebyte-e32](https://crates.io/crates/ebyte-e32) - SERIAL - Ebyte E32 LoRa module driver - [Intro blog post](https://barafael.github.io/A-Platform-Agnostic-Driver-for-EBYTE-E32-LoRa-Modules/) - ![crates.io](https://img.shields.io/crates/v/ebyte-e32.svg)
 
 ## [5. Awesome V](/content/vlang/awesome-v/README.md)
 
@@ -57,17 +54,17 @@
 
 ### View components
 
-*   [Phlex (⭐847)](https://github.com/joeldrapper/phlex) - A framework for building object-oriented views in Ruby.
+*   [Phlex (⭐939)](https://github.com/joeldrapper/phlex) - A framework for building object-oriented views in Ruby.
 
 ## [7. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
-### Data Validation / NLP
+### Data Validation / Synthetic Data
 
-*   [great\_expectations (⭐8.4k)](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
-*   [pandera (⭐2.3k)](https://github.com/unionai-oss/pandera) - A lightweight, flexible, and expressive statistical data testing library.
-*   [deepchecks (⭐2.6k)](https://github.com/deepchecks/deepchecks) - Validation & testing of ML models and data during model development, deployment, and production. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [evidently (⭐3.5k)](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production.
-*   [TensorFlow Data Validation (⭐720)](https://github.com/tensorflow/data-validation) - Library for exploring and validating machine learning data.
+*   [great\_expectations (⭐8.9k)](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
+*   [pandera (⭐2.6k)](https://github.com/unionai-oss/pandera) - A lightweight, flexible, and expressive statistical data testing library.
+*   [deepchecks (⭐3.1k)](https://github.com/deepchecks/deepchecks) - Validation & testing of ML models and data during model development, deployment, and production. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [evidently (⭐3.9k)](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production.
+*   [TensorFlow Data Validation (⭐733)](https://github.com/tensorflow/data-validation) - Library for exploring and validating machine learning data.
 
 ## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -81,7 +78,7 @@
 
 ### MongoDB
 
-*   [MongoKitten (⭐659)](https://github.com/orlandos-nl/MongoKitten) :penguin: - MongoDB Connector.
+*   [MongoKitten (⭐675)](https://github.com/orlandos-nl/MongoKitten) :penguin: - MongoDB Connector.
 
 ### Realm
 
@@ -89,11 +86,11 @@
 
 ### Documentation
 
-*   [SourceDocs (⭐356)](https://github.com/SourceDocs/SourceDocs) - Generate Markdown reference documentation that lives with your code.
+*   [SourceDocs (⭐363)](https://github.com/SourceDocs/SourceDocs) - Generate Markdown reference documentation that lives with your code.
 
 ### Events
 
-*   [OneWay (⭐52)](https://github.com/DevYeom/OneWay) - State management with unidirectional data flow.
+*   [OneWay (⭐57)](https://github.com/DevYeom/OneWay) - State management with unidirectional data flow.
 
 ### Fonts
 
@@ -105,19 +102,19 @@
 
 ### UI / Barcode
 
-*   [NextGrowingTextView (⭐1.7k)](https://github.com/FluidGroup/NextGrowingTextView) - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
+*   [NextGrowingTextView (⭐1.8k)](https://github.com/FluidGroup/NextGrowingTextView) - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
 
 ## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### IDE
 
-*   *   [CSharp Analyzer by MongoDB (⭐8)](https://github.com/mongodb/mongo-csharp-analyzer) A free Visual Studio Extension for MongoDB users, helping translate your code into MongoDB queries
+*   *   [CSharp Analyzer by MongoDB (⭐15)](https://github.com/mongodb/mongo-csharp-analyzer) A free Visual Studio Extension for MongoDB users, helping translate your code into MongoDB queries
 
 ## [10. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Tools
 
-*   [rpi-cookstrap (⭐5)](https://github.com/heeplr/rpi-cookstrap) - A lightweight, plugin based bakery shell script framework to customize, bootstrap & provision raspberry pi OS disk images.
+*   [rpi-cookstrap (⭐10)](https://github.com/heeplr/rpi-cookstrap) - A lightweight, plugin based bakery shell script framework to customize, bootstrap & provision raspberry pi OS disk images.
 
 ## [11. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -237,7 +234,7 @@
 
 ### Contents / Tools
 
-*   [RSA Encryption (⭐26)](https://github.com/vellt/RSA-Encryption-Flutter) - A simple UI for encrypting messages by [vellt](https://github.com/vellt).
+*   [RSA Encryption (⭐27)](https://github.com/vellt/RSA-Encryption-Flutter) - A simple UI for encrypting messages by [vellt](https://github.com/vellt).
 
 ## [14. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -251,15 +248,15 @@
 
 ### JupyterLab Extensions
 
-*   [jupyter-panel-proxy (⭐8)](https://github.com/holoviz/jupyter-panel-proxy) - Automatically serve notebooks as [Panel](https://panel.holoviz.org) data apps at the `/panel` endpoint of your Jupyter server. <!--lint enable double-link-->
+*   [jupyter-panel-proxy (⭐11)](https://github.com/holoviz/jupyter-panel-proxy) - Automatically serve notebooks as [Panel](https://panel.holoviz.org) data apps at the `/panel` endpoint of your Jupyter server. <!--lint enable double-link-->
 
 ## [16. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Large Language Models / ChatGPT
+### Inbox: Large Language Models (LLMs) / ChatGPT
 
 *   \[🔥🔥🔥] [Awesome ChatGPT Prompts](https://prompts.chat/): repo that includes curated ChatGPT prompts to obtain better results from ChatGPT
 
-### Inbox: Large Language Models / Text-related Generative Tools
+### Inbox: Large Language Models (LLMs) / Text-related Generative Tools
 
 *   [GPT-2 Output Detector](https://huggingface.co/openai-detector): tool that estimate is a given text is real or generated by GPT
 
@@ -269,11 +266,11 @@
 
 ### Inbox: Stable Diffusion / Web UI for Stable Diffusion via Google Colab
 
-*   [camenduru/stable-diffusion-webui-colab (⭐11k)](https://github.com/camenduru/stable-diffusion-webui-colab): collection of stable diffusion webui colab for different checkpoints
+*   [camenduru/stable-diffusion-webui-colab (⭐14k)](https://github.com/camenduru/stable-diffusion-webui-colab): collection of stable diffusion webui colab for different checkpoints
 
 ### Image Synthesis / Promptism
 
-*   [openai/point-e (⭐5.4k)](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
+*   [openai/point-e (⭐5.9k)](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
 
 ## [17. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
@@ -289,24 +286,23 @@
 
 ## [19. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
 *   [Shipyard](https://www.shipyardapp.com) — Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL). Our free developer plan offers 10 hours of runtime every month for one user - more than enough to automate multiple workflows.
 
 ### Monitoring
 
-*   [Pulsetic](https://pulsetic.com) - 10 monitors, 6 Months Historical Uptime/Logs, unlimited status pages and custom domains included! For unlimited time and unlimited email alerts for free. No credit card required.
+*   [Pulsetic](https://pulsetic.com) - 10 monitors, 6 Months of historical Uptime/Logs, unlimited status pages, and custom domains included! For infinite time and unlimited email alerts for free. You don't need a credit card.
 
 ### Design and UI
 
-*   [MDBootstrap](https://mdbootstrap.com/) - Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & huge community.
-*   [Tailwind Elements](https://tailwind-elements.com/) - Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities.
+*   [MDBootstrap](https://mdbootstrap.com/) - Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & colossal community.
 
 ## [20. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Front-End Development
 
-*   [Web Components (⭐2.2k)](https://github.com/web-padawan/awesome-web-components#readme)
+*   [Web Components (⭐2.4k)](https://github.com/web-padawan/awesome-web-components#readme)
 
 ## [21. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
 
@@ -329,7 +325,7 @@
 
 ### Resources / Examples
 
-*   [h5 (⭐4)](https://github.com/gyt95/h5) A Monorepo-based mobile engineering project. (Monorepo + Pnpm + Vite3.x + Vue3.2+ + TypeScript4.x + VueRouter4.x + Pinia...)
+*   [h5 (⭐5)](https://github.com/gyt95/h5) A Monorepo-based mobile engineering project. (Monorepo + Pnpm + Vite3.x + Vue3.2+ + TypeScript4.x + VueRouter4.x + Pinia...)
 
 ### Projects Using Vue.js / Commercial Products
 
@@ -376,20 +372,20 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [blackCandy (⭐946)](https://github.com/blackcandy-org/black_candy) - A music streaming app (using Rails 7.0).
-*   [dcaf\_case\_management](https://github.com/DARIAEngineering/dcaf_case_management) - A case management app (using Rails 7.0).
-*   [eol (⭐57)](https://github.com/EOL/deprecated_eol) - An encyclopedia app - using Rails 3.2 - [:earth\_africa:](https://eol.org/)
-*   [mastodon (⭐40k)](https://github.com/mastodon/mastodon) - A microblogging app (using Rails 6.1). - [:earth\_africa:](https://mastodon.social/about)
-*   [postal (⭐12k)](https://github.com/postalserver/postal) - A mail delivery platform (using Rails 5.2).
+*   [blackCandy (⭐1k)](https://github.com/blackcandy-org/black_candy) - A music streaming app (using Rails 7.0).
+*   [dcaf\_case\_management (⭐84)](https://github.com/DARIAEngineering/dcaf_case_management) - A case management app (using Rails 7.0).
+*   [eol (⭐58)](https://github.com/EOL/deprecated_eol) - An encyclopedia app - using Rails 3.2 - [:earth\_africa:](https://eol.org/)
+*   [mastodon (⭐44k)](https://github.com/mastodon/mastodon) - A microblogging app (using Rails 6.1). - [:earth\_africa:](https://mastodon.social/about)
+*   [postal (⭐13k)](https://github.com/postalserver/postal) - A mail delivery platform (using Rails 5.2).
 *   [scholarsphere (⭐9)](https://github.com/psu-libraries/scholarsphere) - A digital assets management app - using Rails 6.1
 
 ### Gems / Other external resources
 
-*   [rails\_admin](https://github.com/railsadminteam/rails_admin) - A gem to create & manage admin panel for Rails app. [:red\_circle:](https://rubygems.org/gems/rails_admin)
-*   [rails\_semantic\_logger (⭐238)](https://github.com/reidmorrison/rails_semantic_logger) - A gem to provide alternative logging approach for Rails app. [:red\_circle:](https://rubygems.org/gems/rails_semantic_logger)
-*   [ranked-model (⭐1k)](https://github.com/brendon/ranked-model) - A gem to handle sorting for rows. [:red\_circle:](https://rubygems.org/gems/ranked-model)
-*   [rubocop-rails](https://github.com/rubocop/rubocop-rails) - A code style checking tool. [:red\_circle:](https://rubygems.org/gems/rubocop-rails)
-*   [view\_component](https://github.com/ViewComponent/view_component) - A gem to introduce view components. [:red\_circle:](https://rubygems.org/gems/view_component)
+*   [rails\_admin (⭐7.8k)](https://github.com/railsadminteam/rails_admin) - A gem to create & manage admin panel for Rails app. [:red\_circle:](https://rubygems.org/gems/rails_admin)
+*   [rails\_semantic\_logger (⭐260)](https://github.com/reidmorrison/rails_semantic_logger) - A gem to provide alternative logging approach for Rails app. [:red\_circle:](https://rubygems.org/gems/rails_semantic_logger)
+*   [ranked-model (⭐1.1k)](https://github.com/brendon/ranked-model) - A gem to handle sorting for rows. [:red\_circle:](https://rubygems.org/gems/ranked-model)
+*   [rubocop-rails (⭐740)](https://github.com/rubocop/rubocop-rails) - A code style checking tool. [:red\_circle:](https://rubygems.org/gems/rubocop-rails)
+*   [view\_component (⭐3k)](https://github.com/ViewComponent/view_component) - A gem to introduce view components. [:red\_circle:](https://rubygems.org/gems/view_component)
 
 ---
 

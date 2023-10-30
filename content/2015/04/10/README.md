@@ -52,7 +52,7 @@
 ### ORM and Datamapping
 
 *   [redo (⭐19)](https://github.com/heroku/redo) - Heroku's pipelining redis client for erlang.
-*   [tirexs (⭐427)](https://github.com/Zatvobor/tirexs) - An Elixir flavored DSL for building JSON based requests to Elasticsearch engine.
+*   [tirexs (⭐428)](https://github.com/Zatvobor/tirexs) - An Elixir flavored DSL for building JSON based requests to Elasticsearch engine.
 
 ## [6. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Error Handling
 
-*   [Exception Handler (⭐502)](https://github.com/richpeck/exception_handler) - Custom error pages.
+*   [Exception Handler (⭐504)](https://github.com/richpeck/exception_handler) - Custom error pages.
 
 ### Web Frameworks
 

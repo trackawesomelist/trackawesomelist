@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 23 - Dec 29, 2019
 
-45 awesome lists updated this week.
+44 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,7 +18,7 @@
 
 ### Papendrecht
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/gklijs" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/gklijs" height="70px" width="70px" align="left" alt="" />
 
 **Gerard Klijs**\
 Topics: Clojure, Rust, GraphQL, Apache Kafka\
@@ -29,7 +29,7 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 ### Github Libraries / Randomized Algorithms
 
 *   Lua
-    *   [by @evandrolg (⭐45)](https://github.com/EvandroLG/computer_science_in_lua)
+    *   [by @evandrolg (⭐47)](https://github.com/EvandroLG/computer_science_in_lua)
 
 ## [4. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
@@ -42,17 +42,17 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 ### Code Analysis
 
 *   Code Analysis
-    *   [coala (⭐3.4k)](https://github.com/coala/coala/) - Language independent and easily extendable code analysis application.
-    *   [code2flow (⭐3.1k)](https://github.com/scottrogowski/code2flow) - Turn your Python and JavaScript code into DOT flowcharts.
+    *   [coala (⭐3.5k)](https://github.com/coala/coala/) - Language independent and easily extendable code analysis application.
+    *   [code2flow (⭐3.3k)](https://github.com/scottrogowski/code2flow) - Turn your Python and JavaScript code into DOT flowcharts.
     *   [prospector (⭐1.8k)](https://github.com/PyCQA/prospector) - A tool to analyse Python code.
     *   [pycallgraph (⭐1.7k)](https://github.com/gak/pycallgraph) - A library that visualises the flow (call graph) of your Python application.
-    *   [vulture (⭐2.4k)](https://github.com/jendrikseipp/vulture) - A tool for finding and analysing dead Python code.
+    *   [vulture (⭐2.6k)](https://github.com/jendrikseipp/vulture) - A tool for finding and analysing dead Python code.
 
 ## [6. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
-*   [deno-deamon (⭐13)](https://github.com/manyuanrong/deno-deamon) - Make the Deno program run in the background.
+*   [deno-deamon (⭐14)](https://github.com/manyuanrong/deno-deamon) - Make the Deno program run in the background.
 
 ## [7. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -64,7 +64,7 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 ### File Extraction
 
-*   [Chaosreader (⭐203)](https://github.com/brendangregg/Chaosreader): A freeware tool to trace TCP/UDP/... sessions and fetch application data from snoop or tcpdump logs. This is a type of "any-snarf" program, as it will fetch telnet sessions, FTP files, HTTP transfers (HTML, GIF, JPEG, ...), SMTP emails, ... from the captured data inside network traffic logs. A html index file is created that links to all the session details, including realtime replay programs for telnet, rlogin, IRC, X11 and VNC sessions; and reports such as image reports and HTTP GET/POST content reports.
+*   [Chaosreader (⭐207)](https://github.com/brendangregg/Chaosreader): A freeware tool to trace TCP/UDP/... sessions and fetch application data from snoop or tcpdump logs. This is a type of "any-snarf" program, as it will fetch telnet sessions, FTP files, HTTP transfers (HTML, GIF, JPEG, ...), SMTP emails, ... from the captured data inside network traffic logs. A html index file is created that links to all the session details, including realtime replay programs for telnet, rlogin, IRC, X11 and VNC sessions; and reports such as image reports and HTTP GET/POST content reports.
 
 ## [9. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
@@ -120,7 +120,7 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 ### Utilities / Menu Bar Tools
 
-*   [Hidden (⭐8.4k)](https://github.com/dwarvesf/hidden) - A ultra-light MacOS utility that helps hide menu bar icons. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dwarvesf/hidden) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Hidden (⭐9.1k)](https://github.com/dwarvesf/hidden) - A ultra-light MacOS utility that helps hide menu bar icons. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dwarvesf/hidden) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [15. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -144,7 +144,7 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 ### Tools
 
-*   [Stagehand (⭐669)](https://github.com/dart-lang/stagehand) - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
+*   [Stagehand (⭐660)](https://github.com/dart-lang/stagehand) - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
 
 ## [19. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -152,7 +152,7 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 *   [Anastasia Marchenkova](https://www.youtube.com/channel/UCzaYH6WeohiHKj3Ih_GdZdQ) - Youtube channel focusing on quantum computing topics and general technology.
 *   [Coding with Qiskit video series](https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY) - YouTube video series showing how to write quantum algorithms.
-*   [Quantum Computation and Information at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz) - A series of lectures on quantum computing by [Professor O'Donnell at CMU](https://www.cs.cmu.edu/\~odonnell/quantum18/).
+*   [Quantum Computation and Information at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz) - A series of lectures on quantum computing by [Professor O'Donnell at CMU](https://www.cs.cmu.edu/~odonnell/quantum18/).
 
 ## [20. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
 
@@ -164,92 +164,86 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 ### Resources / Learning
 
-*   [Nix Notes (⭐47)](https://github.com/noteed/nix-notes) - A collection of short notes about Nix, each contributing to the same virtual machine image.
+*   [Nix Notes (⭐49)](https://github.com/noteed/nix-notes) - A collection of short notes about Nix, each contributing to the same virtual machine image.
 
-## [22. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [22. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Services
+### Runtimes / Apache License
 
-*   [Temporal](https://temporal.cloud) - Scalable IPFS Infrastructure with free starter package featuring turnkey APIs, toolkits and storage.
+*   [cortex-gnat-rts (⭐58)](https://github.com/simonjwright/cortex-gnat-rts) - This package includes GNAT Ada Run Time Systems (RTSs) based on FreeRTOS and targeted at boards with Cortex-M0, M3, -M4, -M4F MCUs.
 
-## [23. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+### Graphical User Interface / Apache License
 
-### Runtimes / MIT
+*   [gwindows (⭐16)](https://github.com/zertovitch/gwindows) - GNU Ada Visual Interface.
 
-*   [cortex-gnat-rts (⭐53)](https://github.com/simonjwright/cortex-gnat-rts) - This package includes GNAT Ada Run Time Systems (RTSs) based on FreeRTOS and targeted at boards with Cortex-M0, M3, -M4, -M4F MCUs.
+### 3D / Apache License
 
-### Graphical User Interface / MIT
+*   [globe-3d (⭐16)](https://github.com/zertovitch/globe-3d) - GL Object Based Engine for 3D.
 
-*   [gwindows (⭐15)](https://github.com/zertovitch/gwindows) - GNU Ada Visual Interface.
+### Unit Test, Testing / Apache License
 
-### 3D / MIT
+*   [scripted-testing (⭐1)](https://github.com/simonjwright/scripted_testing) - Supports functional testing using Tcl scripts.
 
-*   [globe-3d (⭐13)](https://github.com/zertovitch/globe-3d) - GL Object Based Engine for 3D.
+### Verification / Apache License
 
-### Unit Test, Testing / MIT
-
-*   [scripted-testing (⭐0)](https://github.com/simonjwright/scripted_testing) - Supports functional testing using Tcl scripts.
-
-### Verification / MIT
-
-*   [acats (⭐7)](https://github.com/simonjwright/ACATS) - The Ada Conformity Assessment Test Suite, customised for GCC.
+*   [acats (⭐9)](https://github.com/simonjwright/ACATS) - The Ada Conformity Assessment Test Suite, customised for GCC.
 *   [acats-grading (⭐1)](https://github.com/simonjwright/ACATS-grading) - Tools for grading ACATS results, modified for Unix-like systems.
 
-### UML / MIT
+### UML / Apache License
 
-*   [coldframe (⭐6)](https://github.com/simonjwright/coldframe) - ColdFrame generates Ada framework code and documentation from UML models.
+*   [coldframe (⭐7)](https://github.com/simonjwright/coldframe) - ColdFrame generates Ada framework code and documentation from UML models.
 
-### Math / MIT
+### Math / Apache License
 
 *   [mathpaqs (⭐10)](https://github.com/zertovitch/mathpaqs) - Mathpaqs is a collection of mathematical, 100% portable, packages in the Ada programming language.
 
-### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / MIT
+### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / Apache License
 
 *   [xia (⭐3)](https://github.com/simonjwright/xia) - An Ada implementation of XPath 1.0.
 
-### Format Readers and Writers / MIT
+### Format Readers and Writers / Apache License
 
 *   [ini-files (⭐5)](https://github.com/zertovitch/ini-files) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
 *   [excel-writer (⭐6)](https://github.com/zertovitch/excel-writer) - Create Excel files with basic formats.
-*   [generic-image-decoder (⭐14)](https://github.com/zertovitch/gid) - Multi-format image decoder library for Ada.
+*   [generic-image-decoder (⭐13)](https://github.com/zertovitch/gid) - Multi-format image decoder library for Ada.
 *   [ada-pdf-writer (⭐13)](https://github.com/zertovitch/ada-pdf-writer) - Ada package for producing easily and automatically PDF files, from an Ada program, with text, vector graphics, images (JPEG).
 *   [ada-bar-codes (⭐12)](https://github.com/zertovitch/ada-bar-codes) - Ada Bar Codes provides a package for generating various types of bar codes (1D, or 2D like QR codes) on different output formats, such as PDF or SVG.
 
-### Drivers / MIT
+### Drivers / Apache License
 
 *   [multiplexed-io (⭐0)](https://github.com/simonjwright/multiplexed-io) - This contains explorations, for AdaPilot, of implementing drivers for the AdaRacer MCU, using the Ravenscar profile of Ada 2012 from AdaCore and device bindings generated using SVD2Ada.
 
-### Office / MIT
+### Office / Apache License
 
-*   [azip (⭐6)](https://github.com/zertovitch/azip) - A free, portable Zip Archive Manager.
+*   [azip (⭐7)](https://github.com/zertovitch/azip) - A free, portable Zip Archive Manager.
 *   [texcad (⭐4)](https://github.com/zertovitch/texcad) - TeXCAD is a program for drawing or retouching {picture}s in LaTeX.
-*   [cbsg (⭐5)](https://github.com/zertovitch/cbsg) - The Corporate Bullshit Generator.
+*   [cbsg (⭐7)](https://github.com/zertovitch/cbsg) - The Corporate Bullshit Generator.
 
-### Web / MIT
+### Web / Apache License
 
 *   [wasabee (⭐7)](https://github.com/zertovitch/wasabee) - A Web browser with safety focus.
 
-### Generators and Translators / MIT
+### Generators and Translators / Apache License
 
 *   [pascal-to-ada (⭐11)](https://github.com/zertovitch/pascal-to-ada) - A Pascal to Ada translator.
 *   [cappulada (⭐14)](https://github.com/Componolit/Cappulada) - Ada binding generator for C++.
 *   [asis2xml (⭐2)](https://github.com/simonjwright/asis2xml) - Converts Ada sources' ASIS representation to XML, so as to make it easier to develop reporting and transformational tools using (for example) XSLT.
 
-### Shells, Interpreters and Emulators / MIT
+### Shells, Interpreters and Emulators / Apache License
 
 *   [analytical-engine (⭐9)](https://github.com/simonjwright/analytical-engine) - An Ada 2012 emulation of Charles Babbage's Analytical Engine.
 
-### Misc / MIT
+### Misc / Apache License
 
 *   [dhondt (⭐4)](https://github.com/simonjwright/dhondt) - Ada implementation of D'Hondt electoral result calculator.
 
-## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [23. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Audio
 
-*   [SwiftAudioPlayer (⭐455)](https://github.com/tanhakabir/SwiftAudioPlayer) - Simple audio player for iOS that streams and performs realtime audio manipulations with AVAudioEngine.
+*   [SwiftAudioPlayer (⭐499)](https://github.com/tanhakabir/SwiftAudioPlayer) - Simple audio player for iOS that streams and performs realtime audio manipulations with AVAudioEngine.
 
-## [25. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
+## [24. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
 
 ### Software Tools / Analysis Frameworks
 
@@ -267,7 +261,7 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 *   [Deadly Sins Of Development](https://youtu.be/nXyglaY9N9w) - Conference talk presenting several real world examples on real bad implementations :tv:.
 
-## [26. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+## [25. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
 ### Papers / ACM Conference on Computer and Communications Security (ACM CCS)
 
@@ -275,49 +269,49 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 *   [Learning to Fuzz from Symbolic Execution with Application to Smart Contracts, 2019](https://files.sri.inf.ethz.ch/website/papers/ccs19-ilf.pdf)
 *   [Matryoshka: fuzzing deeply nested branches, 2019](https://web.cs.ucdavis.edu/\~hchen/paper/chen2019matryoshka.pdf)
 
-## [27. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [26. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
-*   [Gaussmeter (⭐10)](https://github.com/gaussmeter/gaussmeter) - Project utilizing a Raspberry Pi Zero W, WS2812B Leds and the Tesla API to collect and display a Tesla's status. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-0.png)
-*   [TeslaCam (⭐34)](https://github.com/LelandSindt/teslacam) - Project utilizing a Raspberry Pi Zero W for USB Mass storage emulation and a PiJuice to collect and archive TeslaCam video. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-0.png)
+*   [Gaussmeter (⭐12)](https://github.com/gaussmeter/gaussmeter) - Project utilizing a Raspberry Pi Zero W, WS2812B Leds and the Tesla API to collect and display a Tesla's status. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-0.png)
+*   [TeslaCam (⭐35)](https://github.com/LelandSindt/teslacam) - Project utilizing a Raspberry Pi Zero W for USB Mass storage emulation and a PiJuice to collect and archive TeslaCam video. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-0.png)
 
-## [28. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
+## [27. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
 ### Tools to measure Performance Budget
 
 *   [Yellow Lab Tools](https://yellowlab.tools/) - Online test to help speeding up heavy web pages.
 
-## [29. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [28. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Dynamic type checkers
 
-*   [typical (⭐172)](https://github.com/seandstewart/typical/) - Data parsing and automatic type-coercion using type hinting. Supports dataclasses, standard classes, function signatures, and more.
+*   [typical (⭐178)](https://github.com/seandstewart/typical/) - Data parsing and automatic type-coercion using type hinting. Supports dataclasses, standard classes, function signatures, and more.
 
-## [30. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [29. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Libraries and Frameworks / .NET
 
 *   [ABP](https://abp.io) - Successor of ASP.NET Boilerplate - ASP.NET Core based application framework to create NLayered, Domain Driven Designed web applications with a microservice focused modular architecture
-*   [MediatR (⭐8.6k)](https://github.com/jbogard/MediatR) - Supports request/response, commands, queries, notifications and events, synchronous and async with intelligent dispatching via C# generic variance.
+*   [MediatR (⭐9.9k)](https://github.com/jbogard/MediatR) - Supports request/response, commands, queries, notifications and events, synchronous and async with intelligent dispatching via C# generic variance.
 
-## [31. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [30. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Courses / Others
 
 *   [Blazor In-Depth Workshop (Blaze Invaders)](https://www.csharpacademy.com/courseinfo/2ccff0ac-4d3e-4d25-9368-6c1474640de5) - December 2019 - Blazor In-Depth Workshop (Blaze Invaders), on C# Academy. Learn serious Blazor concepts while building a working browser based game.
 
-## [32. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [31. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
-*   [StatusPile](https://www.statuspile.com/) - A status page of status pages. Track the status pages of your upstream providers.
+*   [StatusPile](https://www.statuspile.com/) - A status page of status pages. Could you track the status pages of your upstream providers?
 
 ### Design and UI
 
-*   [Proto.io](https://www.proto.io) - Create fully interactive UI prototypes without coding. Free tier available when free trial ends. Free tier includes: 1 user, 1 project, 5 prototypes, 100MB online storage and preview in proto.io app.
+*   [Proto.io](https://www.proto.io) - Create fully interactive UI prototypes without coding. The free tier is available when the free trial ends. The free tier includes one user, one project, five prototypes, 100MB of online storage, and a preview of the proto.io app.
 
-## [33. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [32. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Collection of Actions / Docker Container Actions
 
@@ -332,43 +326,43 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 *   [Build and publish Electron apps (⭐535)](https://github.com/samuelmeuli/action-electron-builder)
 *   [Publish a Maven package (⭐88)](https://github.com/samuelmeuli/action-maven-publish)
 
-## [34. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [33. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Ebooks / Third Party Hosts
 
 *   [Guide to Copy Kindle Content to PDF using Calibre](https://www.reddit.com/r/Piracy/comments/bm837l/guide_to_copy_kindle_content_to_pdf_using_calibre/)
 
-## [35. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
+## [34. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
 ### Tips, tricks, tools, and add-ons for GitHub power users
 
 *   [FeatHub](https://feathub.com/) - Feature voting for GitHub.
 
-## [36. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [35. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Official
 
 *   [Live demo](https://yew-todomvc.netlify.com) - A todomvc demo.
-*   [Examples (⭐27k)](https://github.com/yewstack/yew/tree/master/examples) - Smaller examples included in official repo.
+*   [Examples (⭐28k)](https://github.com/yewstack/yew/tree/master/examples) - Smaller examples included in official repo.
 *   [Website](https://yew.rs/) - Official website.
 
 ### Projects
 
-*   [webapp.rs (⭐2.1k)](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust, frontend is built with Yew.
+*   [webapp.rs (⭐2.2k)](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust, frontend is built with Yew.
 *   [Bucket Questions (⭐6)](https://github.com/hgzimmerman/BucketQuestions) - A webapp written entirely in Rust for a dumb party game.
 
 ### Templates
 
 *   [yew-wasm-pack-template (⭐118)](https://github.com/yewstack/yew-wasm-pack-template) - A template for starting a Yew project to be used with wasm-pack.
 *   [yew-wasm-pack-minimal (⭐108)](https://github.com/yewstack/yew-wasm-pack-minimal) - A minimal template for starting a Yew project using wasm-bindgen and wasm-pack.
-*   [yew-parcel-template (⭐115)](https://github.com/spielrs/yew-parcel-template) - Awesome Yew with Yew-Router and Parcel application.
+*   [yew-parcel-template (⭐112)](https://github.com/spielrs/yew-parcel-template) - Awesome Yew with Yew-Router and Parcel application.
 
 ### Articles / Frameworks
 
 *   [Let's Build a Rust Frontend with Yew](https://dev.to/deciduously/lets-build-a-rust-frontend-with-yew---part-1-3k2o)
 *   [A Web Application completely in Rust](https://medium.com/@saschagrunert/a-web-application-completely-in-rust-6f6bdb6c4471)
 
-## [37. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [36. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -383,35 +377,35 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 *   [react-native-community-maps ★3 (⭐14)](https://github.com/yonahforst/react-native-community-maps) - Boilerplate app for browsing user-generated photos on a map
 
-## [38. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
+## [37. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
 
 ### Image - Metadata/Text
 
-*   **DepthPrediction** - Predict the depth from a single image. [Download](https://developer.apple.com/machine-learning/models/) | [Demo (⭐112)](https://github.com/tucan9389/DepthPrediction-CoreML) | [Reference (⭐1.1k)](https://github.com/iro-cp/FCRN-DepthPrediction)
+*   **DepthPrediction** - Predict the depth from a single image. [Download](https://developer.apple.com/machine-learning/models/) | [Demo (⭐125)](https://github.com/tucan9389/DepthPrediction-CoreML) | [Reference (⭐1.1k)](https://github.com/iro-cp/FCRN-DepthPrediction)
 
-## [39. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
+## [38. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
 
 ### Tools
 
 *   [Mighty Merge](https://mightymerge.io/) - join/union csv files.
 
-## [40. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [39. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Concurrency
 
-*   [SwiftCoroutine (⭐818)](https://github.com/belozierov/SwiftCoroutine) - Swift coroutines library for iOS and macOS.
+*   [SwiftCoroutine (⭐822)](https://github.com/belozierov/SwiftCoroutine) - Swift coroutines library for iOS and macOS.
 
 ### Image
 
-*   [BSZoomGridScrollView (⭐150)](https://github.com/boraseoksoon/BSZoomGridScrollView) - iOS customizable grid style scrollView UI library to display your UIImage array input, designed primarily for SwiftUI as well as to interoperate with UIKit.
+*   [BSZoomGridScrollView (⭐156)](https://github.com/boraseoksoon/BSZoomGridScrollView) - iOS customizable grid style scrollView UI library to display your UIImage array input, designed primarily for SwiftUI as well as to interoperate with UIKit.
 
-## [41. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [40. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Resources / Courses
 
 *   [BigChem](http://bigchem.eu/alllectures) - All lectures of [BigChem](http://bigchem.eu/) (A Horizon 2020 MSC ITN EID project, which provides innovative education in large chemical data analysis.)
 
-## [42. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [41. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### iOS
 
@@ -423,26 +417,26 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 ### Contributing and License
 
-*   [See the guide (⭐208)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
+*   [See the guide (⭐299)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
 *   Distributed under the MIT license. See LICENSE for more information.
 
-## [43. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [42. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Big Data
 
-*   [Splunk (⭐99)](https://github.com/sduff/awesome-splunk#readme) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real-time.
+*   [Splunk (⭐109)](https://github.com/sduff/awesome-splunk#readme) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real-time.
 
 ### Development Environment
 
-*   [GitHub Actions (⭐21k)](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
+*   [GitHub Actions (⭐23k)](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
 
-## [44. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [43. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Dynamic Analysis Tools
 
-*   [Android Malware Sandbox (⭐247)](https://github.com/Areizen/Android-Malware-Sandbox)
+*   [Android Malware Sandbox (⭐252)](https://github.com/Areizen/Android-Malware-Sandbox)
 
-## [45. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+## [44. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
 ### Learning
 
@@ -485,7 +479,7 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 *   [Eyevinn/hls-download (⭐46)](https://github.com/Eyevinn/hls-download)  - Download HLS and convert to MP4.
 *   [Eyevinn/hls-origin-scripts (⭐17)](https://github.com/Eyevinn/hls-origin-scripts)  - Scripts to manipulate HLS manifests at origin or edge server - Eyevinn/hls-origin-scripts
 *   [Eyevinn/hls-playlist-parser (⭐5)](https://github.com/Eyevinn/hls-playlist-parser)  - A Javascript library to parse Hls playlists.
-*   [Eyevinn/hls-relay (⭐17)](https://github.com/Eyevinn/hls-relay)  - Script to pull HLS stream from one origin and push to another origin - Eyevinn/hls-relay
+*   [Eyevinn/hls-relay (⭐18)](https://github.com/Eyevinn/hls-relay)  - Script to pull HLS stream from one origin and push to another origin - Eyevinn/hls-relay
 *   [Eyevinn/hls-ts-analyzer (⭐1)](https://github.com/Eyevinn/hls-ts-analyzer)  - Example implementation of hls-ts.js library.
 *   [Eyevinn/hls-ts-js (⭐36)](https://github.com/Eyevinn/hls-ts-js)  - HLS MPEG-TS parser library in Javascript.
 *   [Eyevinn/manifestparser (⭐2)](https://github.com/Eyevinn/manifestparser)  - A manifest parser.
@@ -493,43 +487,43 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 *   [HLS and Fragmented MP4](https://hlsbook.net/hls-fragmented-mp4/)  - At WWDC 2016, Apple announced support for fragmented MP4 (fMP4) as an alternative to MPEG-TS, which prior to their announcement was the only supported format. So why use fragmented MP4 files? Well,…
 *   [Integrating AirPlay for Long-Form Video Apps | Apple Developer Documentation](https://developer.apple.com/documentation/avfoundation/airplay_2/integrating_airplay_for_long-form_video_apps)  -
 *   [Introducing Low-Latency HLS - WWDC 2019 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2019/502)  - Since its introduction in 2009, HTTP Live Streaming (HLS) has enabled the delivery of countless live and on‐demand audio and video...
-*   [Last-Order/Minyami (⭐474)](https://github.com/Last-Order/Minyami)  - A lovely video downloader for HLS videos.
-*   [M3U8Kit/M3U8Parser (⭐244)](https://github.com/M3U8Kit/M3U8Parser)  - A light weight M3U8 parser. Support X-Key & X-Session-Key. - M3U8Kit/M3U8Parser
-*   [SoulMelody/hls-get (⭐34)](https://github.com/SoulMelody/hls-get)  - An asynchronous terminal-based hls video stream (m3u8) downloader & combiner, with AES-128 decryption support. - SoulMelody/hls-get
-*   [alfg/docker-nginx-rtmp (⭐943)](https://github.com/alfg/docker-nginx-rtmp)  - 🐋 A Dockerfile for nginx-rtmp-module + FFmpeg from source with basic settings for streaming HLS. Built on Alpine Linux. - alfg/docker-nginx-rtmp
-*   [cdnbye/hlsjs-p2p-engine (⭐941)](https://github.com/cdnbye/hlsjs-p2p-engine)  - A hls.js plugin to offload bandwidth from expensive traditional CDNs，while also maximizing a user’s viewing experience.  - cdnbye/hlsjs-p2p-engine
+*   [Last-Order/Minyami (⭐485)](https://github.com/Last-Order/Minyami)  - A lovely video downloader for HLS videos.
+*   [M3U8Kit/M3U8Parser (⭐245)](https://github.com/M3U8Kit/M3U8Parser)  - A light weight M3U8 parser. Support X-Key & X-Session-Key. - M3U8Kit/M3U8Parser
+*   [SoulMelody/hls-get (⭐36)](https://github.com/SoulMelody/hls-get)  - An asynchronous terminal-based hls video stream (m3u8) downloader & combiner, with AES-128 decryption support. - SoulMelody/hls-get
+*   [alfg/docker-nginx-rtmp (⭐953)](https://github.com/alfg/docker-nginx-rtmp)  - 🐋 A Dockerfile for nginx-rtmp-module + FFmpeg from source with basic settings for streaming HLS. Built on Alpine Linux. - alfg/docker-nginx-rtmp
+*   [cdnbye/hlsjs-p2p-engine (⭐947)](https://github.com/cdnbye/hlsjs-p2p-engine)  - A hls.js plugin to offload bandwidth from expensive traditional CDNs，while also maximizing a user’s viewing experience.  - cdnbye/hlsjs-p2p-engine
 *   [creeveliu/HTTPLiveStreamingTools (⭐70)](https://github.com/creeveliu/HTTPLiveStreamingTools)  - Latest Apple HLS tools copy from Apple Developer Center - creeveliu/HTTPLiveStreamingTools
-*   [denex/hls-downloader (⭐126)](https://github.com/denex/hls-downloader)  - Download all video files from HLS (HTTP Live Streaming) VoD (Video on Demand) m3u8 playlist for local playback - denex/hls-downloader
+*   [denex/hls-downloader (⭐130)](https://github.com/denex/hls-downloader)  - Download all video files from HLS (HTTP Live Streaming) VoD (Video on Demand) m3u8 playlist for local playback - denex/hls-downloader
 *   [dhairav/URLSessionHLSDownload (⭐5)](https://github.com/dhairav/URLSessionHLSDownload)  - A swift 3 implementation for downloading HLS content and play it back using native AVPlayer - dhairav/URLSessionHLSDownload
-*   [epiclabs-io/hls-analyzer (⭐173)](https://github.com/epiclabs-io/hls-analyzer)  - Analyzer for HTTP Live Streams (HLS) content.
+*   [epiclabs-io/hls-analyzer (⭐174)](https://github.com/epiclabs-io/hls-analyzer)  - Analyzer for HTTP Live Streams (HLS) content.
 *   [fcanas/HLSCore (⭐10)](https://github.com/fcanas/HLSCore)  - A collection of Swift packages for working with HLS - fcanas/HLSCore
-*   [flavioribeiro/nginx-audio-track-for-hls-module (⭐125)](https://github.com/flavioribeiro/nginx-audio-track-for-hls-module)  - :sound: Nginx module that generates audio track for HTTP Live Streaming (HLS) streams on the fly. - flavioribeiro/nginx-audio-track-for-hls-module
+*   [flavioribeiro/nginx-audio-track-for-hls-module (⭐128)](https://github.com/flavioribeiro/nginx-audio-track-for-hls-module)  - :sound: Nginx module that generates audio track for HTTP Live Streaming (HLS) streams on the fly. - flavioribeiro/nginx-audio-track-for-hls-module
 *   [flavioribeiro/nginx-vod-module-fmp4-hls (⭐41)](https://github.com/flavioribeiro/nginx-vod-module-fmp4-hls)  - Play fragmented mp4's on HLS using nginx-vod-module - flavioribeiro/nginx-vod-module-fmp4-hls
-*   [globocom/hlsclient (⭐107)](https://github.com/globocom/hlsclient)  - Python HLS Client.
+*   [globocom/hlsclient (⭐106)](https://github.com/globocom/hlsclient)  - Python HLS Client.
 *   [globocom/m3u8 (⭐1.7k)](https://github.com/globocom/m3u8)  - M3U8 library
 *   [grafov/m3u8 (⭐1k)](https://github.com/grafov/m3u8)  - Parser and generator of M3U8-playlists for Apple HLS. Library for Go language. :cinema: - grafov/m3u8
-*   [iheartradio/open-m3u8 (⭐239)](https://github.com/iheartradio/open-m3u8)  - Open Source m3u8 Parser.
+*   [iheartradio/open-m3u8 (⭐240)](https://github.com/iheartradio/open-m3u8)  - Open Source m3u8 Parser.
 *   [iliya-gr/mediasegmenter (⭐52)](https://github.com/iliya-gr/mediasegmenter)  - HLS media segmenter.
 *   [imsanthosh/HLS-Stream-health-monitoring-tool (⭐9)](https://github.com/imsanthosh/HLS-Stream-health-monitoring-tool)  - HLS stream health monitoring utility tool provides an report of live HLS stream. This utility tool checks the all available bitrate streams and generates the report in html file format. HTML file i...
 *   [krad/morsel (⭐27)](https://github.com/krad/morsel)  - 📇 Swift library for creating HLS playlists and fragmented mp4 files.  Works on Linux and iOS. - krad/morsel
-*   [lcy0321/m3u8-downloader (⭐22)](https://github.com/lcy0321/m3u8-downloader)  - Download the ts files according to the given m3u8 file. - lcy0321/m3u8-downloader
-*   [leandromoreira/http-video-streaming-troubleshooting (⭐74)](https://github.com/leandromoreira/http-video-streaming-troubleshooting)  - A collection of fixes / problem solutions to HTTP video streaming - leandromoreira/http-video-streaming-troubleshooting
+*   [lcy0321/m3u8-downloader (⭐23)](https://github.com/lcy0321/m3u8-downloader)  - Download the ts files according to the given m3u8 file. - lcy0321/m3u8-downloader
+*   [leandromoreira/http-video-streaming-troubleshooting (⭐75)](https://github.com/leandromoreira/http-video-streaming-troubleshooting)  - A collection of fixes / problem solutions to HTTP video streaming - leandromoreira/http-video-streaming-troubleshooting
 *   [majamee/arch-ffmpeg-gpac (⭐3)](https://github.com/majamee/arch-ffmpeg-gpac)  - A ready-prepared video transcoding pipeline to create DASH/ HLS compatible video files & playlists - majamee/arch-ffmpeg-gpac
-*   [mifi/hls-vod (⭐260)](https://github.com/mifi/hls-vod)  - HTTP Live Streaming with on-the-fly encoding of any video file for Web/Apple TV/iPhone/iPad/iPod - mifi/hls-vod
-*   [muxinc/hlstools (⭐54)](https://github.com/muxinc/hlstools)  -
-*   [nmrony/hlsdownloader (⭐88)](https://github.com/nmrony/hlsdownloader)  - Downloads HLS Playlist file and TS chunks.
+*   [mifi/hls-vod (⭐262)](https://github.com/mifi/hls-vod)  - HTTP Live Streaming with on-the-fly encoding of any video file for Web/Apple TV/iPhone/iPad/iPod - mifi/hls-vod
+*   [muxinc/hlstools (⭐56)](https://github.com/muxinc/hlstools)  -
+*   [nmrony/hlsdownloader (⭐89)](https://github.com/nmrony/hlsdownloader)  - Downloads HLS Playlist file and TS chunks.
 *   [nmrony/hlsdownloader-cli (⭐12)](https://github.com/nmrony/hlsdownloader-cli)  - Downloads HLS Playlist file and TS chunks using Terminal - nmrony/hlsdownloader-cli
 *   [openHPI/nginx-hls-analyzer (⭐10)](https://github.com/openHPI/nginx-hls-analyzer)  - Fork of fmsloganalyzer to adapt it for HLS streaming analyzes with nginx - openHPI/nginx-hls-analyzer
 *   [osklil/hls-fetch (⭐190)](https://github.com/osklil/hls-fetch)  - Download and decrypt videos served by the HTTP Live Streaming (HLS) protocol. - osklil/hls-fetch
-*   [puemos/hls-downloader-chrome-extension (⭐1.3k)](https://github.com/puemos/hls-downloader-chrome-extension)  - Google Chrome Extension for sniffing and downloading HTTP Live streams (HLS) - puemos/hls-downloader-chrome-extension
-*   [qi-shun-wang/HLSDownloader (⭐25)](https://github.com/qi-shun-wang/HLSDownloader)  - Download Crypted HLS with server key and play video as local playing on iOS device. - qi-shun-wang/HLSDownloader
+*   [puemos/hls-downloader-chrome-extension (⭐1.4k)](https://github.com/puemos/hls-downloader-chrome-extension)  - Google Chrome Extension for sniffing and downloading HTTP Live streams (HLS) - puemos/hls-downloader-chrome-extension
+*   [qi-shun-wang/HLSDownloader (⭐26)](https://github.com/qi-shun-wang/HLSDownloader)  - Download Crypted HLS with server key and play video as local playing on iOS device. - qi-shun-wang/HLSDownloader
 *   [r-plus/HLSion (⭐70)](https://github.com/r-plus/HLSion)  - HTTP Live Streaming (HLS) download manager to offline playback. - r-plus/HLSion
 *   [rounce/nginx-hls-module (⭐53)](https://github.com/rounce/nginx-hls-module)  - Smooth Streaming Module fork.
-*   [selsta/hlsdl (⭐550)](https://github.com/selsta/hlsdl)  - C program to download VoD HLS (.m3u8) files.
-*   [shimberger/gohls (⭐529)](https://github.com/shimberger/gohls)  - A server that exposes a directory for video streaming via web interface - shimberger/gohls
+*   [selsta/hlsdl (⭐559)](https://github.com/selsta/hlsdl)  - C program to download VoD HLS (.m3u8) files.
+*   [shimberger/gohls (⭐531)](https://github.com/shimberger/gohls)  - A server that exposes a directory for video streaming via web interface - shimberger/gohls
 *   [shrimpgo/video-downloader (⭐10)](https://github.com/shrimpgo/video-downloader)  - Helper to download HLS videos.
 *   [tjenkinson/mock-hls-server (⭐64)](https://github.com/tjenkinson/mock-hls-server)  - Fake a live/event HLS stream from a VOD one. Useful for testing. - tjenkinson/mock-hls-server
-*   [videojs/m3u8-parser (⭐383)](https://github.com/videojs/m3u8-parser)  - An m3u8 parser.
+*   [videojs/m3u8-parser (⭐388)](https://github.com/videojs/m3u8-parser)  - An m3u8 parser.
 *   [yuhuili-lab/Tide (⭐7)](https://github.com/yuhuili-lab/Tide)  - Simple m3u8 and MPEG-DASH MPD video downloader using libcurl - yuhuili-lab/Tide
 *   [zhaiweiwei/nginx-hls (⭐2)](https://github.com/zhaiweiwei/nginx-hls)  - Contribute to zhaiweiwei/nginx-hls development by creating an account on GitHub.
 
@@ -545,42 +539,41 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 *   [Eyevinn/docker-dash-packager (⭐14)](https://github.com/Eyevinn/docker-dash-packager)  - Open source MPEG DASH packager for live and VOD.
 *   [Eyevinn/vp9-dash (⭐1)](https://github.com/Eyevinn/vp9-dash)  - FFMpeg wrapper script to create VP9 MPEG-DASH packages - Eyevinn/vp9-dash
 *   [Guidelines for Implementation: DASH-IF Interoperability Points](https://dashif.org/docs/DASH-IF-IOP-v4.3.pdf)  -
-*   [Viblast/dash-proxy (⭐114)](https://github.com/Viblast/dash-proxy)  - Easy downloading and mirroring of MPEG-DASH streams - Viblast/dash-proxy
-*   [bitmovin/libdash (⭐573)](https://github.com/bitmovin/libdash)  - MPEG-DASH Access Library - Official ISO/IEC MPEG-DASH Reference Implementation - bitmovin/libdash
+*   [Viblast/dash-proxy (⭐115)](https://github.com/Viblast/dash-proxy)  - Easy downloading and mirroring of MPEG-DASH streams - Viblast/dash-proxy
+*   [bitmovin/libdash (⭐576)](https://github.com/bitmovin/libdash)  - MPEG-DASH Access Library - Official ISO/IEC MPEG-DASH Reference Implementation - bitmovin/libdash
 *   [carlanton/mpd-tools (⭐24)](https://github.com/carlanton/mpd-tools)  - DASH MPD tools for Java.
 *   [djvergad/dash (⭐43)](https://github.com/djvergad/dash)  - An MPEG/DASH client-server module for simulating rate adaptation mechanisms over HTTP/TCP. - djvergad/dash
 *   [mahbubcseju/MPEG-DASH-Downloader (⭐6)](https://github.com/mahbubcseju/MPEG-DASH-Downloader)  - Contribute to mahbubcseju/MPEG-DASH-Downloader development by creating an account on GitHub.
 *   [nickdesaulniers/combine-mpd (⭐9)](https://github.com/nickdesaulniers/combine-mpd)  - Combine MPEG DASH MPD manifest files.
-*   [sangwonl/python-mpegdash (⭐86)](https://github.com/caststack/python-mpegdash)  - MPEG-DASH MPD(Media Presentation Description) Parser - sangwonl/python-mpegdash
-*   [stultus/mp4-to-mpegdash-py (⭐16)](https://github.com/stultus/mp4-to-mpegdash-py)  - Python Script to convert a MP4 file into onDemand MPEG-DASH - stultus/mp4-to-mpegdash-py
+*   [sangwonl/python-mpegdash (⭐88)](https://github.com/caststack/python-mpegdash)  - MPEG-DASH MPD(Media Presentation Description) Parser - sangwonl/python-mpegdash
+*   [stultus/mp4-to-mpegdash-py (⭐15)](https://github.com/stultus/mp4-to-mpegdash-py)  - Python Script to convert a MP4 file into onDemand MPEG-DASH - stultus/mp4-to-mpegdash-py
 *   [tchakabam/dash-proxy (⭐3)](https://github.com/tchakabam/dash-proxy)  - Experimental MPEG-DASH media gateway - proxy on-the-fly modified MP4 segment metadata - tchakabam/dash-proxy
 *   [theolampert/dash-server (⭐8)](https://github.com/theolampert/dash-server)  - Small, command-line HTTP/2 file server for serving MPEG-DASH content. - theolampert/dash-server
-*   [videojs/mpd-parser (⭐66)](https://github.com/videojs/mpd-parser)  - Contribute to videojs/mpd-parser development by creating an account on GitHub.
-*   [videojs/videojs-contrib-dash (⭐288)](https://github.com/videojs/videojs-contrib-dash)  - Video.js plugin for supporting the MPEG-DASH playback through a video.js player - videojs/videojs-contrib-dash
+*   [videojs/mpd-parser (⭐68)](https://github.com/videojs/mpd-parser)  - Contribute to videojs/mpd-parser development by creating an account on GitHub.
+*   [videojs/videojs-contrib-dash (⭐289)](https://github.com/videojs/videojs-contrib-dash)  - Video.js plugin for supporting the MPEG-DASH playback through a video.js player - videojs/videojs-contrib-dash
 
 ### Encoding / Talks Presentations Podcasts
 
 *   [A Large-Scale Comparison of x264, x265, and libvpx](https://medium.com/netflix-techblog/a-large-scale-comparison-of-x264-x265-and-libvpx-a-sneak-peek-2e81e88f8b0f)  - a Sneak Peek
 *   [Introducing SVT-AV1: a scalable open-source AV1 framework](https://medium.com/netflix-techblog/introducing-svt-av1-a-scalable-open-source-av1-framework-c726cce3103a)  - by Andrey Norkin, Joel Sole, Kyle Swanson, Mariana Afonso, Anush Moorthy, Anne Aaron
 *   [Snowmix - The Swiss Army Knife of Open Source Live Video Mixing.](https://snowmix.sourceforge.io)  - Snowmix Video Mixer
-*   [Zulko/moviepy (⭐10k)](https://github.com/Zulko/moviepy)  -
-*   [alfg/docker-bento4 (⭐11)](https://github.com/alfg/docker-bento4)  - A dockerized Bento4 from source. Built on Alpine Linux.  - alfg/docker-bento4
+*   [Zulko/moviepy (⭐11k)](https://github.com/Zulko/moviepy)  -
+*   [alfg/docker-bento4 (⭐12)](https://github.com/alfg/docker-bento4)  - A dockerized Bento4 from source. Built on Alpine Linux.  - alfg/docker-bento4
 *   [avTranscoder/avTranscoder (⭐152)](https://github.com/avTranscoder/avTranscoder)  - C++ API for LibAV / FFMpeg.d
-*   [bbc/brave (⭐611)](https://github.com/bbc/brave)  - Basic Real-time AV Editor - allowing you to preview, mix, and route live audio and video streams on the cloud - bbc/brave
+*   [bbc/brave (⭐614)](https://github.com/bbc/brave)  - Basic Real-time AV Editor - allowing you to preview, mix, and route live audio and video streams on the cloud - bbc/brave
 *   [bfansports/CloudTranscode (⭐290)](https://github.com/bfansports/CloudTranscode)  - Distributed videos and images encoding/transcoding using Amazon SFN, FFMpeg and ImageMagic - bfansports/CloudTranscode
-*   [bloc97/Anime4K (⭐16k)](https://github.com/bloc97/Anime4K)  - A High-Quality Real Time Upscaler for Anime Video.
-*   [cannonbeach/ott-packager (⭐199)](https://github.com/cannonbeach/ott-packager)  - OTT/ABR streaming encoder (H264/HEVC) and packager for DASH and HLS - cannonbeach/ott-packager
+*   [bloc97/Anime4K (⭐17k)](https://github.com/bloc97/Anime4K)  - A High-Quality Real Time Upscaler for Anime Video.
+*   [cannonbeach/ott-packager (⭐202)](https://github.com/cannonbeach/ott-packager)  - OTT/ABR streaming encoder (H264/HEVC) and packager for DASH and HLS - cannonbeach/ott-packager
 *   [escaped/django-video-encoding (⭐113)](https://github.com/escaped/django-video-encoding)  - django-video-encoding helps to convert your videos into different formats and resolutions. - escaped/django-video-encoding
 *   [jliljebl/flowblade (⭐2k)](https://github.com/jliljebl/flowblade)  -
 *   [mltframework/mlt (⭐1.3k)](https://github.com/mltframework/mlt)  - MLT Multimedia Framework.
 *   [olaris / olaris-server](https://gitlab.com/olaris/olaris-server)  - GitLab.com
 *   [ptrandev/swift-encoder (⭐5)](https://github.com/ptrandev/swift-encoder)  - A fire-and-forget shell script that encodes multiple video and audio files with ffmpeg. - ptrandev/swift-encoder
-*   [realeyes-media/demo-encoder (⭐50)](https://github.com/realeyes-media/demo-encoder/)  - A nodejs encoding system based on ffmpeg and configured to write HLS streaming files to S3 - realeyes-media/demo-encoder
-*   [realeyes-media/demo-encoder (⭐50)](https://github.com/realeyes-media/demo-encoder)  - A nodejs encoding system based on ffmpeg and configured to write HLS streaming files to S3 - realeyes-media/demo-encoder
+*   [realeyes-media/demo-encoder (⭐51)](https://github.com/realeyes-media/demo-encoder/)  - A nodejs encoding system based on ffmpeg and configured to write HLS streaming files to S3 - realeyes-media/demo-encoder
 *   [senko/avtk (⭐11)](https://github.com/senko/avtk)  -
 *   [sitkevij/mp (⭐7)](https://github.com/sitkevij/mpi)  -
-*   [snickers/snickers (⭐529)](https://github.com/snickers/snickers)  - :chocolate\_bar: An open source alternative to the video cloud encoding services. - snickers/snickers
-*   [voc/voctomix (⭐547)](https://github.com/voc/voctomix)  - Full-HD Software Live-Video-Mixer in python.
+*   [snickers/snickers (⭐530)](https://github.com/snickers/snickers)  - :chocolate\_bar: An open source alternative to the video cloud encoding services. - snickers/snickers
+*   [voc/voctomix (⭐549)](https://github.com/voc/voctomix)  - Full-HD Software Live-Video-Mixer in python.
 
 ### Encoding / AV1
 
@@ -602,9 +595,9 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 ### Streaming Server and Storage / SRT
 
-*   [ant-media/Ant-Media-Server (⭐3.7k)](https://github.com/ant-media/Ant-Media-Server)  - Ant Media Server supports RTMP, RTSP, WebRTC and Adaptive Bitrate. It can also record videos in MP4, HLS and FLV - ant-media/Ant-Media-Server
+*   [ant-media/Ant-Media-Server (⭐3.8k)](https://github.com/ant-media/Ant-Media-Server)  - Ant Media Server supports RTMP, RTSP, WebRTC and Adaptive Bitrate. It can also record videos in MP4, HLS and FLV - ant-media/Ant-Media-Server
 *   [haiwen/seafile (⭐11k)](https://github.com/haiwen/seafile)  - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features. - haiwen/seafile
-*   [openstack/swift (⭐2.4k)](https://github.com/openstack/swift)  - OpenStack Storage (Swift).
+*   [openstack/swift (⭐2.5k)](https://github.com/openstack/swift)  - OpenStack Storage (Swift).
 *   [ossrs/srs (⭐22k)](https://github.com/ossrs/srs)  - SRS is a simple live streaming cluster, a simple joy. - ossrs/srs
 *   [rclone/rclone (⭐39k)](https://github.com/rclone/rclone)  - rsync for cloud storage - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files - rclone/rclone
 
@@ -623,14 +616,14 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 *   [imoreapps/ffmpeg-avplayer-for-ios-tvos (⭐1k)](https://github.com/imoreapps/ffmpeg-avplayer-for-ios-tvos)  - A tiny but powerful iOS and Apple TV OS av player framework that's based on the FFmpeg library. - imoreapps/ffmpeg-avplayer-for-ios-tvos
 *   [lightspark/lightspark (⭐1.7k)](https://github.com/lightspark/lightspark)  - An open source flash player implementation.
 *   [matvp91/indigo-player (⭐1.2k)](https://github.com/matvp91/indigo-player)  - Highly extensible, modern, JavaScript video player. Handles MPEG-Dash / HLS / MPEG-4 and is built on top of the HTML5 video element. - matvp91/indigo-player
-*   [mpv-player/mpv (⭐22k)](https://github.com/mpv-player/mpv)  - 🎥 Command line video player.
-*   [nytimes/ios-360-videos (⭐269)](https://github.com/nytimes/ios-360-videos)  - NYT360Video plays 360-degree video streamed from an AVPlayer on iOS. - nytimes/ios-360-videos
-*   [peak3d/inputstream.adaptive (⭐407)](https://github.com/peak3d/inputstream.adaptive)  - kodi inputstream addon for several manifest types.
-*   [ruffle-rs/ruffle (⭐12k)](https://github.com/ruffle-rs/ruffle)  - A Flash Player emulator written in Rust.
+*   [mpv-player/mpv (⭐23k)](https://github.com/mpv-player/mpv)  - 🎥 Command line video player.
+*   [nytimes/ios-360-videos (⭐270)](https://github.com/nytimes/ios-360-videos)  - NYT360Video plays 360-degree video streamed from an AVPlayer on iOS. - nytimes/ios-360-videos
+*   [peak3d/inputstream.adaptive (⭐414)](https://github.com/peak3d/inputstream.adaptive)  - kodi inputstream addon for several manifest types.
+*   [ruffle-rs/ruffle (⭐13k)](https://github.com/ruffle-rs/ruffle)  - A Flash Player emulator written in Rust.
 *   [tjenkinson/media-element-syncer (⭐19)](https://github.com/tjenkinson/media-element-syncer)  - Synchronise two or more HTML5 media elements.
-*   [ustwo/videoplayback-ios (⭐215)](https://github.com/ustwo/videoplayback-ios)  - Swift AVPlayer wrapper using the VIPER architecture. Currently a work in progress  - ustwo/videoplayback-ios
+*   [ustwo/videoplayback-ios (⭐216)](https://github.com/ustwo/videoplayback-ios)  - Swift AVPlayer wrapper using the VIPER architecture. Currently a work in progress  - ustwo/videoplayback-ios
 *   [videolan/vlc (⭐11k)](https://github.com/videolan/vlc)  - VLC media player - All pull requests are ignored, please follow <https://wiki.videolan.org/Sending_Patches_VLC/> - videolan/vlc
-*   [vitalets/awesome-smart-tv (⭐897)](https://github.com/vitalets/awesome-smart-tv)  - :zap:A curated list of awesome resources for building Smart TV apps - vitalets/awesome-smart-tv
+*   [vitalets/awesome-smart-tv (⭐914)](https://github.com/vitalets/awesome-smart-tv)  - :zap:A curated list of awesome resources for building Smart TV apps - vitalets/awesome-smart-tv
 
 ### Players / Android
 
@@ -639,7 +632,7 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 ### Players / Chromecast
 
 *   [Build a basic Cast Receiver](https://codelabs.developers.google.com/codelabs/cast-receiver/#0)  -
-*   [googlecast/CastReceiver (⭐281)](https://github.com/googlecast/CastReceiver)  - Reference Receiver: CastReceiver shows how to develop a fully Cast Design Checklist compliant receiver with additional features. - googlecast/CastReceiver
+*   [googlecast/CastReceiver (⭐292)](https://github.com/googlecast/CastReceiver)  - Reference Receiver: CastReceiver shows how to develop a fully Cast Design Checklist compliant receiver with additional features. - googlecast/CastReceiver
 
 ### Players / iOS tvOS
 
@@ -647,18 +640,18 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 *   [DaMingShen/SUCacheLoader (⭐168)](https://github.com/DaMingShen/SUCacheLoader)  - AVPlayer
 *   [DeviLeo/DLGPlayer (⭐166)](https://github.com/DeviLeo/DLGPlayer)  - A media player for iOS based on FFmpeg 4.0.
 *   [MPEGDASHPlayer/MPEGDASH-iOS-Player (⭐66)](https://github.com/MPEGDASHPlayer/MPEGDASH-iOS-Player)  - The MPEG-DASH Player iOS Application.
-*   [StyleShare/HLSCachingReverseProxyServer (⭐108)](https://github.com/StyleShare/HLSCachingReverseProxyServer)  - A simple local reverse proxy server for HLS segment cache - StyleShare/HLSCachingReverseProxyServer
-*   [VeinGuo/VGPlayer (⭐397)](https://github.com/VeinGuo/VGPlayer)  - 📺  A simple iOS video player by Vein.
+*   [StyleShare/HLSCachingReverseProxyServer (⭐114)](https://github.com/StyleShare/HLSCachingReverseProxyServer)  - A simple local reverse proxy server for HLS segment cache - StyleShare/HLSCachingReverseProxyServer
+*   [VeinGuo/VGPlayer (⭐395)](https://github.com/VeinGuo/VGPlayer)  - 📺  A simple iOS video player by Vein.
 *   [googleads/google-media-framework-ios (⭐74)](https://github.com/googleads/google-media-framework-ios)  - The Google Media Framework (GMF) is a lightweight media player designed to make video playback and integration with the Google IMA SDK on iOS easier. - googleads/google-media-framework-ios
 *   [hanton/HTY360Player (⭐2k)](https://github.com/hanton/HTY360Player)  - Open Source iOS 360 Degree Panorama Video Player.
-*   [iina/iina (⭐33k)](https://github.com/iina/iina)  - The modern video player for macOS.
-*   [kodlian/TVVLCPlayer (⭐64)](https://github.com/kodlian/TVVLCPlayer)  - TVVLCPlayer lets you integrate easily a powerfull video player with playback control views to your tvOS apps. - kodlian/TVVLCPlayer
+*   [iina/iina (⭐34k)](https://github.com/iina/iina)  - The modern video player for macOS.
+*   [kodlian/TVVLCPlayer (⭐65)](https://github.com/kodlian/TVVLCPlayer)  - TVVLCPlayer lets you integrate easily a powerfull video player with playback control views to your tvOS apps. - kodlian/TVVLCPlayer
 *   [libobjc/SGPlayer (⭐2k)](https://github.com/libobjc/SGPlayer)  - A powerful media play framework for iOS, macOS, and tvOS. - libobjc/SGPlayer
-*   [noreasonprojects/ModernAVPlayer (⭐268)](https://github.com/noreasonprojects/ModernAVPlayer)  - ModernAVPlayer is a persistence AVPlayer wrapper.
+*   [noreasonprojects/ModernAVPlayer (⭐271)](https://github.com/noreasonprojects/ModernAVPlayer)  - ModernAVPlayer is a persistence AVPlayer wrapper.
 *   [piemonte/Player (⭐2k)](https://github.com/piemonte/Player)  - ▶️ video player in Swift, simple way to play and stream media on iOS/tvOS - piemonte/Player
 *   [renzifeng/ZFPlayer (⭐6.9k)](https://github.com/renzifeng/ZFPlayer)  - Support customization of any player SDK and control layer
 *   [tanersener/mobile-ffmpeg (⭐3.6k)](https://github.com/tanersener/mobile-ffmpeg)  - FFmpeg for Android, iOS and tvOS.
-*   [vitoziv/VIMediaCache (⭐875)](https://github.com/vitoziv/VIMediaCache)  - Cache media file while play media using AVPlayer.
+*   [vitoziv/VIMediaCache (⭐882)](https://github.com/vitoziv/VIMediaCache)  - Cache media file while play media using AVPlayer.
 *   [xiewei-wayne/FFEngine.framework (⭐52)](https://github.com/xiewei-wayne/FFEngine.framework)  - FFEngine framework is a high performance player sdk for iOS based on ffmpeg. - xiewei-wayne/FFEngine.framework
 *   [xiewei-wayne/rtmp-video-player-for-ios (⭐133)](https://github.com/xiewei-wayne/rtmp-video-player-for-ios)  - Based on FFEngine framework, a rtmp video player for apple iOS devices. - xiewei-wayne/rtmp-video-player-for-ios
 
@@ -666,7 +659,7 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 *   [Audio and Video Support](https://developer.roku.com/docs/specs/streaming.md#AudioandVideoSupport-AdaptiveBitrateFormats)  - Roku provides the simplest way to stream entertainment to your TV. On your terms. With thousands of available channels to choose from.
 *   [CCecilia/roku-suite-desktop (⭐7)](https://github.com/CCecilia/roku-suite-desktop)  - Tool suite for Roku channel development.
-*   [MediaBrowser/Emby.Roku (⭐76)](https://github.com/MediaBrowser/Emby.Roku)  - Emby for Roku.
+*   [MediaBrowser/Emby.Roku (⭐77)](https://github.com/MediaBrowser/Emby.Roku)  - Emby for Roku.
 *   [Playing Video Examples](https://developer.roku.com/docs/developer-program/core-concepts/playing-videos.md#PlayingVideos-Examples)  - Roku provides the simplest way to stream entertainment to your TV. On your terms. With thousands of available channels to choose from.
 *   [Roku](https://developer.roku.com/docs/specs/streaming.md)  - Roku provides the simplest way to stream entertainment to your TV. On your terms. With thousands of available channels to choose from.
 *   [T-Pham/RokuJSONHelperNode (⭐3)](https://github.com/T-Pham/RokuJSONHelperNode)  - Roku SceneGraph JSON Helper.
@@ -676,32 +669,32 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 *   [briandunnington/Redoku (⭐23)](https://github.com/briandunnington/Redoku)  - Redux for Roku.
 *   [briandunnington/Roact (⭐45)](https://github.com/briandunnington/Roact)  - React for Roku
 *   [chrishoffman/brightscript-json (⭐11)](https://github.com/chrishoffman/brightscript-json)  - JSON parser for Roku's proprietary Brightscript language - chrishoffman/brightscript-json
-*   [dphang/roku-lib (⭐45)](https://github.com/dphang/roku-lib)  - Some useful Roku utilities.
+*   [dphang/roku-lib (⭐46)](https://github.com/dphang/roku-lib)  - Some useful Roku utilities.
 *   [exegersha/network-benchmark (⭐2)](https://github.com/exegersha/network-benchmark)  - Proof of concept. Roku app implementing network layer using scene graph nodes. - exegersha/network-benchmark
 *   [gabek/Amplitude-Brightscript (⭐2)](https://github.com/gabek/Amplitude-Brightscript)  - A Brightscript (Roku) library for submitting analytics to Amplitude - gabek/Amplitude-Brightscript
 *   [gabek/SegmentIO-Brightscript (⭐5)](https://github.com/gabek/SegmentIO-Brightscript)  - A BrightScript interface to SegmentIO event tracking - gabek/SegmentIO-Brightscript
-*   [georgejecook/rooibos (⭐67)](https://github.com/georgejecook/rooibos)  - simple, flexible, fun brightscript test framework for roku scenegraph apps - georgejecook/rooibos
-*   [juliomalves/roku-libs (⭐48)](https://github.com/juliomalves/roku-libs)  - BrightScript Utility Libraries.
+*   [georgejecook/rooibos (⭐68)](https://github.com/georgejecook/rooibos)  - simple, flexible, fun brightscript test framework for roku scenegraph apps - georgejecook/rooibos
+*   [juliomalves/roku-libs (⭐53)](https://github.com/juliomalves/roku-libs)  - BrightScript Utility Libraries.
 *   [karimkawambwa/roku-framework (⭐7)](https://github.com/karimkawambwa/roku-framework)  - Roku app framework to make app creation easier and structured. Under construction - karimkawambwa/roku-framework
 *   [karimkawambwa/roku-framework-example (⭐3)](https://github.com/karimkawambwa/roku-framework-example)  - This is a project to show how the boku-framework by Karim Kawambwa is used - karimkawambwa/roku-framework-example
 *   [mrkjffrsn/RokuFramework (⭐41)](https://github.com/mrkjffrsn/RokuFramework)  - An opensource Roku framework.
 *   [nod/rokumote (⭐25)](https://github.com/nod/rokumote)  - osx app for controlling your roku because sometimes your kids lose the remote - nod/rokumote
-*   [rkoshak/sensorReporter (⭐98)](https://github.com/rkoshak/sensorReporter)  - A python based service that receives sensor inputs and publishes them over REST (should work with any API but mainly tested with openHAB) or MQTT. It can also receive commands and perform an action...
+*   [rkoshak/sensorReporter (⭐99)](https://github.com/rkoshak/sensorReporter)  - A python based service that receives sensor inputs and publishes them over REST (should work with any API but mainly tested with openHAB) or MQTT. It can also receive commands and perform an action...
 *   [rokucommunity/brighterscript-formatter (⭐10)](https://github.com/RokuCommunity/brighterscript-formatter)  - A code formatter for BrighterScript (and BrightScript) - rokucommunity/brighterscript-formatter
-*   [rokucommunity/vscode-brightscript-language (⭐87)](https://github.com/rokucommunity/vscode-brightscript-language)  - A Visual Studio Code extension for Roku's BrightScript language - rokucommunity/vscode-brightscript-language
+*   [rokucommunity/vscode-brightscript-language (⭐88)](https://github.com/rokucommunity/vscode-brightscript-language)  - A Visual Studio Code extension for Roku's BrightScript language - rokucommunity/vscode-brightscript-language
 *   [rokudev/RAF4RSG-sample (⭐7)](https://github.com/rokudev/RAF4RSG-sample)  - sample demonstrating the Roku Advertising Framework in SceneGraph - rokudev/RAF4RSG-sample
 *   [rokudev/SDK-Development-Guide (⭐12)](https://github.com/rokudev/SDK-Development-Guide)  - Contribute to rokudev/SDK-Development-Guide development by creating an account on GitHub.
-*   [rokudev/SceneGraphDeveloperExtensions (⭐100)](https://github.com/rokudev/SceneGraphDeveloperExtensions)  - Contribute to rokudev/SceneGraphDeveloperExtensions development by creating an account on GitHub.
+*   [rokudev/SceneGraphDeveloperExtensions (⭐101)](https://github.com/rokudev/SceneGraphDeveloperExtensions)  - Contribute to rokudev/SceneGraphDeveloperExtensions development by creating an account on GitHub.
 *   [rokudev/automated-channel-testing (⭐55)](https://github.com/rokudev/automated-channel-testing)  - Roku Automated Channel Testing: Selenium-based WebDriver + Robot Framework + Samples - rokudev/automated-channel-testing
 *   [rokudev/dolby-audio-sample (⭐8)](https://github.com/rokudev/dolby-audio-sample)  - A collection of Dolby test content available in different streaming protocols. - rokudev/dolby-audio-sample
-*   [rokudev/samples (⭐377)](https://github.com/rokudev/samples)  - Collection of sample channels for side-loading on your Roku device - rokudev/samples
+*   [rokudev/samples (⭐382)](https://github.com/rokudev/samples)  - Collection of sample channels for side-loading on your Roku device - rokudev/samples
 *   [rokudev/unit-testing-framework (⭐71)](https://github.com/rokudev/unit-testing-framework)  - Tool for automating and testing Roku channels.
 *   [rokudev/videoplayer-channel (⭐27)](https://github.com/rokudev/videoplayer-channel)  - SceneGraph version of the SDK1 VideoPlayer Channel  - rokudev/videoplayer-channel
-*   [rolandoislas/BrightWebSocket (⭐14)](https://github.com/rolandoislas/BrightWebSocket)  - RFC 6455 WebSocket Library for the Roku.
+*   [rolandoislas/BrightWebSocket (⭐15)](https://github.com/rolandoislas/BrightWebSocket)  - RFC 6455 WebSocket Library for the Roku.
 *   [schtanislau/brightscript-state-machine (⭐3)](https://github.com/schtanislau/brightscript-state-machine)  - State management for Roku channel..
 *   [sjbarag/brs-testbed (⭐5)](https://github.com/sjbarag/brs-testbed)  - A simple, buildable Roku channel that executes arbitrary BrightScript files. - sjbarag/brs-testbed
 *   [veeta-tv/jasmine-roku (⭐5)](https://github.com/veeta-tv/jasmine-roku)  - Example jasmine tests using node-roku-test for verifying Roku channel behavior - veeta-tv/jasmine-roku
-*   [willowtreeapps/ukor (⭐46)](https://github.com/willowtreeapps/ukor)  - A Roku build tool with support for build flavors.
+*   [willowtreeapps/ukor (⭐48)](https://github.com/willowtreeapps/ukor)  - A Roku build tool with support for build flavors.
 *   [zype/zype-roku-scenegraph (⭐8)](https://github.com/zype/zype-roku-scenegraph)  - Contribute to zype/zype-roku-scenegraph development by creating an account on GitHub.
 
 ### Players / Web
@@ -711,45 +704,44 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 *   [Eyevinn/channel-engine-multiview (⭐3)](https://github.com/Eyevinn/channel-engine-multiview)  - A multiview frontend for Eyevinn Channel Engine.
 *   [Eyevinn/docker-html5player (⭐4)](https://github.com/Eyevinn/docker-html5player)  - A Docker containerized HTML5 player based on Shaka Player - Eyevinn/docker-html5player
 *   [Eyevinn/eyevinn-player (⭐4)](https://github.com/Eyevinn/eyevinn-player)  - Throttled video player to test video streams.
-*   [Eyevinn/ott-multiview (⭐59)](https://github.com/Eyevinn/ott-multiview)  - This is a web based multiview screen for HLS and MPEG-DASH streams based on hls.js and Shaka Player. - Eyevinn/ott-multiview
+*   [Eyevinn/ott-multiview (⭐60)](https://github.com/Eyevinn/ott-multiview)  - This is a web based multiview screen for HLS and MPEG-DASH streams based on hls.js and Shaka Player. - Eyevinn/ott-multiview
 *   [MoePlayer/DPlayer (⭐14k)](https://github.com/MoePlayer/DPlayer)  - :lollipop: Wow, such a lovely HTML5 danmaku video player - MoePlayer/DPlayer
-*   [bbc/bigscreen-player (⭐65)](https://github.com/bbc/bigscreen-player)  - Simplified media playback for bigscreen devices.
-*   [bytedance/xgplayer (⭐6.1k)](https://github.com/bytedance/xgplayer)  - A HTML5 video player with a parser that saves traffic - bytedance/xgplayer
+*   [bbc/bigscreen-player (⭐66)](https://github.com/bbc/bigscreen-player)  - Simplified media playback for bigscreen devices.
+*   [bytedance/xgplayer (⭐6.3k)](https://github.com/bytedance/xgplayer)  - A HTML5 video player with a parser that saves traffic - bytedance/xgplayer
 *   [epiclabs-io/epic-video-comparator (⭐83)](https://github.com/epiclabs-io/epic-video-comparator)  - Javascript library which implements a video comparator component: two overlaped and synchronized video players each one playing an independent source. - epiclabs-io/epic-video-comparator
 *   [sampotts/plyr (⭐24k)](https://github.com/sampotts/plyr)  - A simple HTML5, YouTube and Vimeo player.
 *   [video-dev/hls.js (⭐13k)](https://github.com/video-dev/hls.js)  - JavaScript HLS client using Media Source Extension - video-dev/hls.js
-*   [videojs/http-streaming (⭐2.2k)](https://github.com/videojs/http-streaming)  - HLS, DASH, and future HTTP streaming protocols library for video.js - videojs/http-streaming
+*   [videojs/http-streaming (⭐2.3k)](https://github.com/videojs/http-streaming)  - HLS, DASH, and future HTTP streaming protocols library for video.js - videojs/http-streaming
 *   [videojs/video.js (⭐36k)](https://github.com/videojs/video.js)  - Video.js - open source HTML5 & Flash video player.
-*   [vimond/replay (⭐203)](https://github.com/vimond/replay)  - A React video player facilitating adaptive stream playback with custom UI and a React-friendly API. - vimond/replay
+*   [vimond/replay (⭐209)](https://github.com/vimond/replay)  - A React video player facilitating adaptive stream playback with custom UI and a React-friendly API. - vimond/replay
 
 ### FFMPEG / Web
 
-*   [Ch00k/ffmpy (⭐431)](https://github.com/Ch00k/ffmpy)  -
+*   [Ch00k/ffmpy (⭐437)](https://github.com/Ch00k/ffmpy)  -
 *   [ElderByte-/docker-java-media (⭐1)](https://github.com/ElderByte-/docker-java-media)  - JRE 10 (Java 10) and media tools (ffmpeg).
-*   [FFmpeg/FFmpeg (⭐36k)](https://github.com/FFmpeg/FFmpeg)  - Mirror of git://source.ffmpeg.org/ffmpeg.git.
-*   [FallingSnow/h265ize (⭐527)](https://github.com/FallingSnow/h265ize)  - A node utility utilizing ffmpeg to encode videos with the hevc codec. - FallingSnow/h265ize
+*   [FFmpeg/FFmpeg (⭐37k)](https://github.com/FFmpeg/FFmpeg)  - Mirror of git://source.ffmpeg.org/ffmpeg.git.
+*   [FallingSnow/h265ize (⭐527)](https://github.com/FallingSnow/h265ize)  - A node utility utilizing ffmpeg to encode videos with the hevc codec. - FallingSnow/h265ize \[unmaintained]
 *   [Generate MPEG-TS from file with ffmpeg](https://medium.com/@eyevinntechnology/generate-mpeg-ts-from-file-with-ffmpeg-7561181e6369?source=userActivityShare-94bccb50d11-1560983471&_branch_match_id=670020142756633081)  - In this post I will describe how an MPEG-TS multicast stream can be generated with ffmpeg by looping an MP4 file and a Docker container…
 *   [How to generate a fmp4 hls live stream with FFMPEG](https://nomadyun.wordpress.com/2018/04/12/how-to-generate-a-fmp4-hls-live-stream-with-ffmpeg/)  - ffmpeg -re -stream\_loop -1 -i voweb.mp4 -hls\_fmp4\_init\_filename init.mp4 -vf “settb=AVTB,setpts=’trunc(PTS/1K)*1K+st(1,trunc(RTCTIME/1K))-1K*trunc(ld(1)/1K)’,\ drawtext=fontfile=…
 *   [Is it possible to get FFmpeg to use hardware acceleration for HEVC transcoding on macOS?](https://superuser.com/questions/1295957/ffmpeg-and-hardware-acceleration-of-hevc-transcoding-on-mac)  - I have a MacBook Pro with a Kaby Lake processor running macOS High Sierra (10.12). Is it possibe somehow to setup FFmpeg to utilize hardware encoding of HEVC with toolbox, instead of libx265?
 *   [Kagami/ffmpeg.js (⭐3k)](https://github.com/Kagami/ffmpeg.js)  - Port of FFmpeg with Emscripten.
 *   [Loop file and generate multiple video bitrates muxed in MPEG-TS with ffmpeg](https://medium.com/@eyevinntechnology/loop-file-and-generate-multiple-video-bitrates-muxed-in-mpeg-ts-with-ffmpeg-85658d0b74bb?source=userActivityShare-94bccb50d11-1560983383&_branch_match_id=670019768959110835)  - In a previous post I described how an MPEG-TS multicast stream can be generated with ffmpeg by looping an MP4 file. In this post I will…
-*   [WritingMinds/ffmpeg-android-java (⭐3.2k)](https://github.com/WritingMinds/ffmpeg-android-java)  - Android java library for FFmpeg binary compiled using [https://github.com/writingminds/ffmpeg-android (⭐1.6k)](https://github.com/writingminds/ffmpeg-android) - WritingMinds/ffmpeg-android-java
+*   [WritingMinds/ffmpeg-android-java (⭐3.3k)](https://github.com/WritingMinds/ffmpeg-android-java)  - Android java library for FFmpeg binary compiled using [https://github.com/writingminds/ffmpeg-android (⭐1.6k)](https://github.com/writingminds/ffmpeg-android) - WritingMinds/ffmpeg-android-java
 *   [bcoudurier/FFmbc (⭐180)](https://github.com/bcoudurier/FFmbc)  - FFmpeg customized for broadcast and professional usage - bcoudurier/FFmbc
-*   [binoculars/aws-lambda-ffmpeg (⭐868)](https://github.com/binoculars/aws-lambda-ffmpeg)  - An S3-triggered Amazon Web Services Lambda function that runs your choice of FFmpeg 🎬 commands on a file  🎥 and uploads the outputs to a bucket. - binoculars/aws-lambda-ffmpeg
+*   [binoculars/aws-lambda-ffmpeg (⭐869)](https://github.com/binoculars/aws-lambda-ffmpeg)  - An S3-triggered Amazon Web Services Lambda function that runs your choice of FFmpeg 🎬 commands on a file  🎥 and uploads the outputs to a bucket. - binoculars/aws-lambda-ffmpeg
 *   [bramp/ffmpeg-cli-wrapper (⭐1.4k)](https://github.com/bramp/ffmpeg-cli-wrapper)  - Java wrapper around the FFmpeg command line tool.
 *   [compile and install latest ffmpeg source as pkg](https://gist.github.com/krzemienski/e51a0b7a6ba77e616f954e516783270c#file-compile-and-install-latest-ffmpeg-source-sh-L2)  - compile and install latest ffmpeg source as pkg. GitHub Gist: instantly share code, notes, and snippets.
-*   [cuda/ubuntu16.04/ffmpeg-gpu/Dockerfile · master · nvidia / container-images / samples](https://gitlab.com/nvidia/container-images/samples/blob/master/cuda/ubuntu16.04/ffmpeg-gpu/Dockerfile)  - Sample Dockerfiles for Docker Hub images
 *   [gitfu/manifesto (⭐15)](https://github.com/gitfu/manifesto)  - Manifesto is an HLS tool for creating multiple variants, a master.m3u8 file, and converting 608 captions to segmented webvtt subtitles via ffmpeg. - gitfu/manifesto
 *   [jrottenberg/ffmpeg (⭐1.2k)](https://github.com/jrottenberg/ffmpeg)  - Docker build for FFmpeg on Ubuntu / Alpine / Centos 7 / Scratch - jrottenberg/ffmpeg
 *   [kewlbear/FFmpeg-iOS-build-script (⭐3k)](https://github.com/kewlbear/FFmpeg-iOS-build-script)  - Shell scripts to build FFmpeg for iOS and tvOS.
-*   [kkroening/ffmpeg-python (⭐8.3k)](https://github.com/kkroening/ffmpeg-python)  -
-*   [kokorin/Jaffree (⭐378)](https://github.com/kokorin/Jaffree)  - Java ffmpeg and ffprobe command-line wrapper.
-*   [markus-perl/ffmpeg-build-script (⭐758)](https://github.com/markus-perl/ffmpeg-build-script)  - The FFmpeg build script provides an easy way to build a static FFmpeg on OSX and Linux with non-free codecs included. - markus-perl/ffmpeg-build-script
-*   [microshow/RxFFmpeg (⭐4k)](https://github.com/microshow/RxFFmpeg)  - 🔥RxFFmpeg 是基于 ( FFmpeg 4.0 + X264 + mp3lame + fdk-aac )
+*   [kkroening/ffmpeg-python (⭐8.5k)](https://github.com/kkroening/ffmpeg-python)  -
+*   [kokorin/Jaffree (⭐389)](https://github.com/kokorin/Jaffree)  - Java ffmpeg and ffprobe command-line wrapper.
+*   [markus-perl/ffmpeg-build-script (⭐779)](https://github.com/markus-perl/ffmpeg-build-script)  - The FFmpeg build script provides an easy way to build a static FFmpeg on OSX and Linux with non-free codecs included. - markus-perl/ffmpeg-build-script
+*   [microshow/RxFFmpeg (⭐4.1k)](https://github.com/microshow/RxFFmpeg)  - 🔥RxFFmpeg 是基于 ( FFmpeg 4.0 + X264 + mp3lame + fdk-aac )
 *   [nextbreakpoint/ffmpeg4java (⭐21)](https://github.com/nextbreakpoint/ffmpeg4java)  - FFmpeg4Java provides a JNI wrapper of FFmpeg library - nextbreakpoint/ffmpeg4java
 *   [silencecorner/jre-ffmpeg-apline (⭐1)](https://github.com/silencecorner/jre-ffmpeg-apline)  - Dockerfile [jre8 (⭐173)](https://github.com/fabric8io-images/java) and [ffmpeg](https://hub.docker.com/r/jrottenberg/ffmpeg)  - silencecorner/jre-ffmpeg-apline
-*   [slhck/ffmpeg-encoding-course (⭐86)](https://github.com/slhck/ffmpeg-encoding-course)  - An introduction to FFmpeg and its tools.
-*   [transitive-bullshit/awesome-ffmpeg (⭐858)](https://github.com/transitive-bullshit/awesome-ffmpeg)  - 👻 A curated list of awesome FFmpeg resources.
+*   [slhck/ffmpeg-encoding-course (⭐87)](https://github.com/slhck/ffmpeg-encoding-course)  - An introduction to FFmpeg and its tools.
+*   [transitive-bullshit/awesome-ffmpeg (⭐875)](https://github.com/transitive-bullshit/awesome-ffmpeg)  - 👻 A curated list of awesome FFmpeg resources.
 *   [unosquare/ffmediaelement (⭐1k)](https://github.com/unosquare/ffmediaelement)  - FFME: The Advanced WPF MediaElement (based on FFmpeg) - unosquare/ffmediaelement
 
 ### Audio / Web
@@ -765,7 +757,7 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 *   [Techniques for Establishing and Maintaining Audio Loudness for Digital Television](https://www.atsc.org/wp-content/uploads/2015/03/Techniques-for-establishing-and-maintaining-audio-loudness.pdf)  -
 *   [hybrik/hybrik-samples (⭐13)](https://github.com/hybrik/hybrik-samples/blob/master/Feature%20Examples/Filters/ebu_r128_audio_normalization.json)  - Hybrik Samples.
 *   [normalizing Audio](https://www.learndigitalaudio.com/normalize-audio)  -
-*   [slhck/ffmpeg-normalize (⭐991)](https://github.com/slhck/ffmpeg-normalize#examples)  - Audio Normalization for Python/ffmpeg.
+*   [slhck/ffmpeg-normalize (⭐1k)](https://github.com/slhck/ffmpeg-normalize#examples)  - Audio Normalization for Python/ffmpeg.
 *   [superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform (⭐1.3k)](https://github.com/superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform)  - 🇸Superpowered Audio, Networking and Cryptographics SDKs. High performance and cross platform on Android, iOS, macOS, tvOS, Linux, Windows and modern web browsers. - superpoweredSDK/Low-Latency-Andr...
 
 ### Subtitles and Captions / Web
@@ -773,7 +765,7 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 *   [BingLingGroup/autosub (⭐1.9k)](https://github.com/BingLingGroup/autosub)  - Command-line utility to transcribe/translate from video/audio/subtitles to subtitles  - BingLingGroup/autosub
 *   [Can ffmpeg extract closed caption data](https://stackoverflow.com/questions/3169910/can-ffmpeg-extract-closed-caption-data)  - I am currently using ffmpeg to convert videos in various formats to flv files. One request has also come up and that is to get closed caption info out o the file as well. Does anyone have any exper...
 *   [Closed Captioning and Subtitling Products - MacCaption and CaptionMaker Overview - Telestream](https://www.telestream.net/captioning/overview.htm?utm_campaign=partners\&utm_source=itunespartner.apple.com\&utm_medium=text_link)  - Telestream Closed Captioning: MacCaption and CaptionMaker allow you to easily author, edit, create subtitles, and encode and repurpose video captions for television, web and mobile delivery
-*   [Comcast/caption-inspector (⭐51)](https://github.com/Comcast/caption-inspector)  - Caption Inspector is a reference decoder for Closed Captions (CEA-608 and CEA-708). - Comcast/caption-inspector
+*   [Comcast/caption-inspector (⭐55)](https://github.com/Comcast/caption-inspector)  - Caption Inspector is a reference decoder for Closed Captions (CEA-608 and CEA-708). - Comcast/caption-inspector
 *   [Comcast/cea-extractor (⭐15)](https://github.com/Comcast/cea-extractor)  - Parsing and display logic for CEA-608 caption data in fragmented MP4 files. - Comcast/cea-extractor
 *   [DVB captions in media convert](https://docs.aws.amazon.com/mediaconvert/latest/ug/dvb-sub-output-captions.html)  - \*\* If your output captions are DVB-Sub, set them up in your outputs according to the following information.
 *   [Dash-Industry-Forum/cea608.js (⭐8)](https://github.com/Dash-Industry-Forum/cea608.js)  - A JavaScript project designed to extract CEA-608 captions. - Dash-Industry-Forum/cea608.js
@@ -788,12 +780,12 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 *   [Web Video Text Tracks Format (WebVTT)](https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API)  - Web Video Text Tracks Format (WebVTT) is a format for displaying timed text tracks (such as subtitles or captions) using the track element.
 *   [abinashmeher999/voice-data-extract (⭐19)](https://github.com/abinashmeher999/voice-data-extract)  - A command line interface to combine text information from subtitles with voice data in the video. Provides a convenient way to generate training data for speech-recognition purposes. - abinashmeher...
 *   [active-video/subtitles (⭐1)](https://github.com/active-video/subtitles)  - AV Platform MPEG DASH subtitles.
-*   [apm1467/videocr (⭐463)](https://github.com/apm1467/videocr)  - Extract hardcoded subtitles from videos using machine learning - apm1467/videocr
-*   [awslabs/serverless-subtitles (⭐124)](https://github.com/awslabs/serverless-subtitles)  - Serverless Subtitles can handle a video input, extract the sound, transcript it and generate different subtitle files for your video. - awslabs/serverless-subtitles
-*   [cessen/subs\_extract (⭐9)](https://github.com/cessen/subs_extract)  - Extracts per-sentence subtitles + audio from a subtitle file + video file. - cessen/subs\_extract
-*   [federicocalendino/pysub-parser (⭐42)](https://github.com/federicocalendino/pysub-parser)  - Utility to extract the text and timestamps of a subtitle file (.srt, .ssa, .sub, .txt). - federicocalendino/pysub-parser
+*   [apm1467/videocr (⭐467)](https://github.com/apm1467/videocr)  - Extract hardcoded subtitles from videos using machine learning - apm1467/videocr
+*   [awslabs/serverless-subtitles (⭐125)](https://github.com/awslabs/serverless-subtitles)  - Serverless Subtitles can handle a video input, extract the sound, transcript it and generate different subtitle files for your video. - awslabs/serverless-subtitles
+*   [cessen/subs\_extract (⭐10)](https://github.com/cessen/subs_extract)  - Extracts per-sentence subtitles + audio from a subtitle file + video file. - cessen/subs\_extract
+*   [federicocalendino/pysub-parser (⭐43)](https://github.com/federicocalendino/pysub-parser)  - Utility to extract the text and timestamps of a subtitle file (.srt, .ssa, .sub, .txt). - federicocalendino/pysub-parser
 *   [jnorton001/pycaption-cli (⭐19)](https://github.com/jnorton001/pycaption-cli)  - A command line interface for the pycaption module. - jnorton001/pycaption-cli
-*   [shawnsky/extract-subtitles (⭐65)](https://github.com/shawnsky/extract-subtitles)  - Extract Subtitles From Video
+*   [shawnsky/extract-subtitles (⭐67)](https://github.com/shawnsky/extract-subtitles)  - Extract Subtitles From Video
 *   [smacke/subsync (⭐6k)](https://github.com/smacke/subsync)  - Automagically synchronize subtitles with video.
 *   [statsbiblioteket/tv-subtitle-extraction (⭐14)](https://github.com/statsbiblioteket/tv-subtitle-extraction)  - System for extraction of subtitles from TV broadcasts. - statsbiblioteket/tv-subtitle-extraction
 *   [wargarblgarbl/libgosubs (⭐23)](https://github.com/wargarblgarbl/libgosubs)  -
@@ -801,7 +793,7 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 ### Ads / Web
 
-*   [Eyevinn/adxchange-engine (⭐2)](https://github.com/Eyevinn/adxchange-engine)  - Eyevinn Adxchange Engine is a microservice placed between the server-side ad-insertion component and the adserver or SSP - Eyevinn/adxchange-engine
+*   [Eyevinn/adxchange-engine (⭐3)](https://github.com/Eyevinn/adxchange-engine)  - Eyevinn Adxchange Engine is a microservice placed between the server-side ad-insertion component and the adserver or SSP - Eyevinn/adxchange-engine
 *   [Eyevinn/vast-info (⭐5)](https://github.com/Eyevinn/vast-info)  - Parse a VAST or VMAP to show valuable information in a readable format - Eyevinn/vast-info
 *   [SCTE-104/35 and Beyond: A Look at Ad Insertion in an OTT World](https://www.tvtechnology.com/opinions/scte10435-and-beyond-a-look-at-ad-insertion-in-an-ott-world)  - Ad Insertion is a very important part of many video delivery systems because of the monetization aspect—it generates revenue!
 *   [Understanding Real-time Bidding for AVOD Services](https://medium.com/@eyevinntechnology/understanding-real-time-bidding-for-avod-services-861ebfa8bd13)  - We have in previous blog articles described the principles behind server-side ad-insertion and described some of the challenges with it as…
@@ -822,16 +814,16 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 ### QoE / Dolby
 
-*   [JNoDuq/videobench (⭐194)](https://github.com/JNoDuq/videobench)  - VMAF PSNR Bitrate Analyzer.
-*   [Netflix/vmaf (⭐3.6k)](https://github.com/Netflix/vmaf/)  - Perceptual video quality assessment based on multi-method fusion. - Netflix/vmaf
+*   [JNoDuq/videobench (⭐197)](https://github.com/JNoDuq/videobench)  - VMAF PSNR Bitrate Analyzer.
+*   [Netflix/vmaf (⭐3.7k)](https://github.com/Netflix/vmaf/)  - Perceptual video quality assessment based on multi-method fusion. - Netflix/vmaf
 *   [Quality of Experience in Streaming](https://medium.com/@eyevinntechnology/quality-of-experience-in-streaming-5c25355a4111?source=userActivityShare-94bccb50d11-1559724940&_branch_match_id=664741478927428385)  - In Eyevinn Technology’s ambition to broader our sharing of knowledge we now expand this with addressing quality. In today’s landscape of…
 *   [The Challenge to Maintain and Translate Creative Visual Ideas to Everyone’s Viewing Devices](https://medium.com/@eyevinntechnology/the-challenge-to-maintain-and-translate-creative-visual-ideas-to-everyones-viewing-devices-a88e1a841439)  - Many articles have already been posted drawing conclusions on what went wrong with the visual quality of a very popular TV show that was…
 *   [Toward A Practical Perceptual Video Quality Metric](https://medium.com/netflix-techblog/toward-a-practical-perceptual-video-quality-metric-653f208b9652)  - measuring video quality accurately at scale
 *   [VMAF: The Journey Continues](https://medium.com/netflix-techblog/vmaf-the-journey-continues-44b51ee9ed12)  - by Zhi Li, Christos Bampis, Julie Novak, Anne Aaron, Kyle Swanson, Anush Moorthy and Jan De Cock
 *   [Video Bench — How measure your video quality easily](https://medium.com/@jnoduq/video-bench-how-measure-your-video-quality-easily-85a0feb8f6e2)  - Introduction
 *   [Video Quality Assessment](https://medium.com/@eyevinntechnology/video-quality-assessment-34abd35f96c0?source=userActivityShare-94bccb50d11-1560983815&_branch_match_id=670021582869771680)  - In Eyevinn’s initiative to share our knowledge around quality we continue with addressing video quality assessment; from both a subjective…
-*   [bavc/qctools (⭐277)](https://github.com/bavc/qctools)  -
-*   [crunchyroll/objective\_perceptual\_analysis (⭐21)](https://github.com/crunchyroll/objective_perceptual_analysis)  -
+*   [bavc/qctools (⭐283)](https://github.com/bavc/qctools)  -
+*   [crunchyroll/objective\_perceptual\_analysis (⭐22)](https://github.com/crunchyroll/objective_perceptual_analysis)  -
 *   [cta-wave/R4WG20-QoE-Metrics (⭐28)](https://github.com/cta-wave/R4WG20-QoE-Metrics)  - Issue tracking repository for the R4-Wg20 QoE Initiative - cta-wave/R4WG20-QoE-Metrics
 
 ### Tools / Dolby
@@ -839,17 +831,17 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 *   [A Docker container with the video streaming tools you need](https://medium.com/@eyevinntechnology/a-docker-container-with-the-video-streaming-tools-you-need-b8319e98f36a)  - As a video streaming technician there are a number of tools that you find yourself using on a daily basis. Wouldn’t it be handy if all…
 *   [AKSHAYUBHAT/DeepVideoAnalytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)  - A distributed visual search and visual data analytics platform. - AKSHAYUBHAT/DeepVideoAnalytics
 *   [Comcast/eel (⭐99)](https://github.com/Comcast/eel)  - A simple proxy service to forward JSON events and transform or filter them along the way. - Comcast/eel
-*   [Comcast/gots (⭐292)](https://github.com/Comcast/gots)  - MPEG Transport Stream handling in Go.
+*   [Comcast/gots (⭐293)](https://github.com/Comcast/gots)  - MPEG Transport Stream handling in Go.
 *   [Comcast/mamba (⭐173)](https://github.com/Comcast/mamba)  - Mamba is a Swift iOS, tvOS and macOS framework to parse, validate and write HTTP Live Streaming (HLS) data. - Comcast/mamba
-*   [Comcast/scte35-js (⭐42)](https://github.com/Comcast/scte35-js)  - A SCTE 35 Parser for JavaScript.
+*   [Comcast/scte35-js (⭐43)](https://github.com/Comcast/scte35-js)  - A SCTE 35 Parser for JavaScript.
 *   [DSRCorporation/imf-conversion (⭐60)](https://github.com/DSRCorporation/imf-conversion)  - NF IMF media conversion utility allows to handle flat file creation from a specified CPL within the IMF package - DSRCorporation/imf-conversion
-*   [Eyevinn/channel-engine (⭐84)](https://github.com/Eyevinn/channel-engine)  - OTT TV Channel Engine.
+*   [Eyevinn/channel-engine (⭐85)](https://github.com/Eyevinn/channel-engine)  - OTT TV Channel Engine.
 *   [Eyevinn/docker-jit-capture (⭐2)](https://github.com/Eyevinn/docker-jit-capture)  - A Docker container for an open source Just-In-Time Capture Origin - Eyevinn/docker-jit-capture
 *   [Eyevinn/docker-serve (⭐3)](https://github.com/Eyevinn/docker-serve)  - A simple Python based HTTP server that sets CORS allow headers. Useful for streaming from files on local computer - Eyevinn/docker-serve
 *   [Eyevinn/fmp4-js (⭐12)](https://github.com/Eyevinn/fmp4-js)  - A Javascript library to parse ISO Base Media File Format (MPEG-4 Part 12) - Eyevinn/fmp4-js
 *   [Eyevinn/pseudo-live-playout (⭐1)](https://github.com/Eyevinn/pseudo-live-playout)  - Contribute to Eyevinn/pseudo-live-playout development by creating an account on GitHub.
 *   [Eyevinn/streaming-analyzer](https://github.com/Eyevinn/streaming-analyzer)  - Analyze and visualize HTTP ABR streams.
-*   [Eyevinn/toolbox (⭐211)](https://github.com/Eyevinn/toolbox)  - A set of Docker containers with Streaming tools.
+*   [Eyevinn/toolbox (⭐214)](https://github.com/Eyevinn/toolbox)  - A set of Docker containers with Streaming tools.
 *   [Eyevinn/vod-to-live.js](https://github.com/Eyevinn/vod-to-live.js)  - NPM library for HLS VOD to Live.
 *   [Inca — Message Tracing and Loss Detection For Streaming Data @Netflix](https://link.medium.com/Lu3GnIPeg0)  - At Netflix, our real-time data infrastructure have embraced the multi-cluster Kafka architecture and Flink powered stream processing…
 *   [Kthulu120/liquid\_dl (⭐73)](https://github.com/Kthulu120/liquid_dl)  - Liquid-dl is a simple tool for utlities such as FFMPEG, youtube-dl, and scdl. It provides a simple framework with simple point and click options allowing users to just click on what they need and u...
@@ -857,19 +849,19 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 *   [Open Broadcaster Software | OBS](https://obsproject.com/)  - OBS (Open Broadcaster Software) is free and open source software for video recording and live streaming. Stream to Twitch, YouTube and many other providers or record your own videos with high quality H264 / AAC encoding.
 *   [Stream Analyzer - ts analyzer, stream validation, ETSI TR 101 290 | Elecard: Video Compression Guru ](https://www.elecard.com/products/video-analysis/stream-analyzer)  - Professional Video Analysis Tool For Syntax Analysis Of Encoded Media Streams. Operates With MPEG-2 PS/TS, VES and MP4 Files. Automation, batch execution via Command Line Interface. Check your multiplexer
 *   [ZaifSenpai/Batch-Py-Remux (⭐1)](https://github.com/ZaifSenpai/Batch-Py-Remux)  - Convert mkv video to hevc (h.265).
-*   [awslabs/aws-stale-playlist-detector (⭐40)](https://github.com/awslabs/aws-stale-playlist-detector)  - The Stale Playlist Detector (SPD) is a tool to monitor live HLS origin endpoints for changing playlists. The Stale Playlist Detector (SPD) will use data in the top-level playlist, the child playlis...
-*   [bcpierce00/unison (⭐3k)](https://github.com/bcpierce00/unison)  - Unison file synchronizer.
+*   [awslabs/aws-stale-playlist-detector (⭐41)](https://github.com/awslabs/aws-stale-playlist-detector)  - The Stale Playlist Detector (SPD) is a tool to monitor live HLS origin endpoints for changing playlists. The Stale Playlist Detector (SPD) will use data in the top-level playlist, the child playlis...
+*   [bcpierce00/unison (⭐3.1k)](https://github.com/bcpierce00/unison)  - Unison file synchronizer.
 *   [coopernurse/nginx-s3-proxy (⭐148)](https://github.com/coopernurse/nginx-s3-proxy)  - nginx compiled with aws-auth support, suitable for S3 reverse proxy usage - coopernurse/nginx-s3-proxy
 *   [estliberitas/node-thumbnails-webvtt (⭐30)](https://github.com/estliberitas/node-thumbnails-webvtt)  - Video thumbnail generator generating WebVTT spec file - estliberitas/node-thumbnails-webvtt
 *   [gnolizuh/BLSS (⭐197)](https://github.com/gnolizuh/BLSS)  - NGINX-based Live Media Streaming Server.
-*   [gpac/gpac (⭐2.2k)](https://github.com/gpac/gpac)  - GPAC main code repository.
+*   [gpac/gpac (⭐2.3k)](https://github.com/gpac/gpac)  - GPAC main code repository.
 *   [gpac/mp4box.js (⭐1.5k)](https://github.com/gpac/mp4box.js)  - JavaScript version of GPAC's MP4Box tool.
 *   [jkarthic-akamai/ABR-Broadcaster (⭐91)](https://github.com/jkarthic-akamai/ABR-Broadcaster)  - A real time encoder for Adaptive Bitrate Broadcast - jkarthic-akamai/ABR-Broadcaster
-*   [liwf616/awesome-live-stream (⭐418)](https://github.com/liwf616/awesome-live-stream)  - Webrtc && Nginx && DASH && Quic 学习资料收集，持续更新中.
-*   [mar10/wsgidav (⭐688)](https://github.com/mar10/wsgidav)  - A generic and extendable WebDAV server based on WSGI - mar10/wsgidav
-*   [mifi/lossless-cut (⭐17k)](https://github.com/mifi/lossless-cut)  -
-*   [minio/minio (⭐39k)](https://github.com/minio/minio)  - MinIO is a high performance object storage server compatible with Amazon S3 APIs - minio/minio
-*   [obsproject/obs-studio (⭐48k)](https://github.com/obsproject/obs-studio)  - OBS Studio - Free and open source software for live streaming and screen recording - obsproject/obs-studio
+*   [liwf616/awesome-live-stream (⭐424)](https://github.com/liwf616/awesome-live-stream)  - Webrtc && Nginx && DASH && Quic 学习资料收集，持续更新中.
+*   [mar10/wsgidav (⭐712)](https://github.com/mar10/wsgidav)  - A generic and extendable WebDAV server based on WSGI - mar10/wsgidav
+*   [mifi/lossless-cut (⭐18k)](https://github.com/mifi/lossless-cut)  -
+*   [minio/minio (⭐40k)](https://github.com/minio/minio)  - MinIO is a high performance object storage server compatible with Amazon S3 APIs - minio/minio
+*   [obsproject/obs-studio (⭐49k)](https://github.com/obsproject/obs-studio)  - OBS Studio - Free and open source software for live streaming and screen recording - obsproject/obs-studio
 *   [realeyes-media/alpine-bento-ffmpeg (⭐1)](https://github.com/realeyes-media/alpine-bento-ffmpeg)  - Alpine Linux with FFMPEG, Bento, and PM2.
 *   [realeyes-media/alpine-node-video-multitool (⭐0)](https://github.com/realeyes-media/alpine-node-video-multitool)  - Contribute to realeyes-media/alpine-node-video-multitool development by creating an account on GitHub.
 *   [schedules/dl (⭐6)](https://github.com/schedules/dl)  - Node.js DASH and HLS downloader.
@@ -878,7 +870,7 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 ### DRM / Dolby
 
-*   [CrackerCat/video\_decrypter (⭐291)](https://github.com/CrackerCat/video_decrypter)  - Decrypt video from a streaming site with MPEG-DASH Widevine DRM encryption. - CrackerCat/video\_decrypter
+*   [CrackerCat/video\_decrypter (⭐293)](https://github.com/CrackerCat/video_decrypter)  - Decrypt video from a streaming site with MPEG-DASH Widevine DRM encryption. - CrackerCat/video\_decrypter
 *   [Digital Rights Management (DRM) – Everything you need to know](https://bitmovin.com/digital-rights-management-everything-to-know/)  -
 *   [Encryption & DRM with Multiple Keys — Unified Streaming](https://docs.unified-streaming.com/documentation/package/multiple-keys.html)  - DRM with multiple keys for Unified Packager
 *   [HEVC DRM Market Update](https://go.buydrm.com/thedrmblog/hevc-drm-market-update)  - Since time eternal, the streaming industry has toiled with and extolled the virtues of CODECs and their key enablement of the entire digital video experience. Now comes the latest candy in the increasingly large bowl, H.265 (MPEG-H Part 2) or as it’s more commonly known. HEVC.
@@ -894,8 +886,8 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 *   [Automated Testing on Devices](https://medium.com/netflix-techblog/automated-testing-on-devices-fc5a39f47e24)  - key concepts and infrastructure
 *   [DASH & HLS Sample Streams](https://bitmovin.com/mpeg-dash-hls-examples-sample-streams/)  -
 *   [Xiph.org :: Test Media](https://media.xiph.org/)  -
-*   [artilleryio/artillery-plugin-hls (⭐24)](https://github.com/artilleryio/artillery-plugin-hls)  - Load test HTTP Live Streaming (HLS) servers with Artillery 🎥 - artilleryio/artillery-plugin-hls
-*   [bengarney/list-of-streams (⭐90)](https://github.com/bengarney/list-of-streams)  - Community list of public test streams for HLS and DASH. - bengarney/list-of-streams
+*   [artilleryio/artillery-plugin-hls (⭐25)](https://github.com/artilleryio/artillery-plugin-hls)  - Load test HTTP Live Streaming (HLS) servers with Artillery 🎥 - artilleryio/artillery-plugin-hls
+*   [bengarney/list-of-streams (⭐94)](https://github.com/bengarney/list-of-streams)  - Community list of public test streams for HLS and DASH. - bengarney/list-of-streams
 *   [video-dev/streams (⭐10)](https://github.com/video-dev/streams)  - A repository of shared streams - no media uploads.
 
 ### CDN / Slack Groups

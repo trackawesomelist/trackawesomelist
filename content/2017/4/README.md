@@ -32,7 +32,7 @@
 
 ### Native Apps (open source)
 
-*   [Transportr (⭐858)](https://github.com/grote/Transportr) An Android app that uses [public-transport-enabler (⭐338)](https://github.com/schildbach/public-transport-enabler) in order to connect to many different transport networks worldwide.
+*   [Transportr (⭐914)](https://github.com/grote/Transportr) An Android app that uses [public-transport-enabler (⭐350)](https://github.com/schildbach/public-transport-enabler) in order to connect to many different transport networks worldwide.
 
 ## [5. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
@@ -44,7 +44,7 @@
 
 ### ORM and SQL generation
 
-*   [Toucan (⭐564)](https://github.com/metabase/toucan)
+*   [Toucan (⭐568)](https://github.com/metabase/toucan)
 
 ## [7. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -57,7 +57,7 @@
 
 ### editors & viewers
 
-*   [geojson2image (⭐11)](https://github.com/brycejohnston/geojson2image): library for generating images from GeoJSON
+*   [geojson2image (⭐12)](https://github.com/brycejohnston/geojson2image): library for generating images from GeoJSON
 
 ## [9. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
@@ -115,16 +115,16 @@
 
 ### Tools / Templates & Starter Kits
 
-*   [Beginner Wagtail Cookiecutter (⭐30)](https://github.com/heymonkeyriot/beginner-wagtail) – A super simple implementation of Wagtail CMS.
+*   [Beginner Wagtail Cookiecutter (⭐31)](https://github.com/heymonkeyriot/beginner-wagtail) – A super simple implementation of Wagtail CMS.
 
 ### Open-source sites / Lists
 
-*   [Torchbox (⭐111)](https://github.com/torchbox/wagtail-torchbox) – Wagtail build of Torchbox.com.
-*   [Made with Wagtail (⭐76)](https://github.com/springload/madewithwagtail) - A showcase of sites and apps made with Wagtail CMS.
+*   [Torchbox (⭐118)](https://github.com/torchbox/wagtail-torchbox) – Wagtail build of Torchbox.com.
+*   [Made with Wagtail (⭐79)](https://github.com/springload/madewithwagtail) - A showcase of sites and apps made with Wagtail CMS.
 *   [OpenCanada.org (⭐14)](https://github.com/OpenCanada/website) – The opencanada.org website source.
 *   [Table Tennis Wellington Business Class (⭐5)](https://github.com/jordij/bctt.nz) – Website for the table tennis business league in Wellington NZ.
 *   [Jordi Joan’s blog (⭐20)](https://github.com/jordij/jordijoan.me) – Personal blog site using Wagtail CMS.
-*   [Localore: Finding America (⭐16)](https://github.com/ghostwords/localore) – Wagtail-based CMS and Ansible playbooks for Localore: Finding America.
+*   [Localore: Finding America (⭐17)](https://github.com/ghostwords/localore) – Wagtail-based CMS and Ansible playbooks for Localore: Finding America.
 *   [Adventure Capitalists (⭐4)](https://github.com/AdventureCapitalists/website) – Wagtail powered website for the world's only investment band.
 *   [NHS.UK Content Store (⭐20)](https://github.com/nhsuk/nhsuk-content-store) – NHS.UK content store and editing app.
 *   [dev.hel.fi (⭐13)](https://github.com/City-of-Helsinki/devheldev) – City of Helsinki development site with Wagtail.
@@ -166,7 +166,7 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 ### Key-value Data Model
 
-*   [Edis (⭐464)](https://github.com/cbd/edis) - is a protocol-compatible Server replacement for Redis.
+*   [Edis (⭐467)](https://github.com/cbd/edis) - is a protocol-compatible Server replacement for Redis.
 
 ### Data Ingestion
 
@@ -213,16 +213,16 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 ### Suggested Awesome Lists / Must Read
 
-*   [Falsehoods (⭐20k)](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?
+*   [Falsehoods (⭐22k)](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?
 *   [Naughty Strings (⭐45k)](https://github.com/minimaxir/big-list-of-naughty-strings) - This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration.
-*   [Unicode (⭐827)](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
+*   [Unicode (⭐861)](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
 
 ### Suggested Awesome Lists / Useful References
 
-*   [The Original (⭐238k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
-*   [Application Security (⭐5.5k)](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
-*   [Selenium (⭐876)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
-*   [Security (⭐9.5k)](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
+*   [The Original (⭐266k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
+*   [Application Security (⭐5.7k)](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
+*   [Selenium (⭐925)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
+*   [Security (⭐10k)](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
 
 ## [22. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
@@ -238,22 +238,22 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 ### Open Source / Other
 
-*   [Cerebro (⭐7.8k)](https://github.com/KELiON/cerebro) - Launcher with inline previews.
+*   [Cerebro (⭐8k)](https://github.com/KELiON/cerebro) - Launcher with inline previews.
 
 ### Samples / Other
 
-*   [Electron API usage (⭐3.8k)](https://github.com/hokein/electron-sample-apps) - Sample apps illustrating usage of Electron APIs.
-*   [Screen Recorder (⭐390)](https://github.com/hokein/electron-screen-recorder) - WebRTC screen recorder.
+*   [Electron API usage (⭐3.9k)](https://github.com/hokein/electron-sample-apps) - Sample apps illustrating usage of Electron APIs.
+*   [Screen Recorder (⭐398)](https://github.com/hokein/electron-screen-recorder) - WebRTC screen recorder.
 
 ## [24. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Chessie (⭐183)](https://github.com/fsprojects/Chessie) - Railway-oriented programming for .NET <http://fsprojects.github.io/Chessie>.
+*   [Chessie (⭐190)](https://github.com/fsprojects/Chessie) - Railway-oriented programming for .NET <http://fsprojects.github.io/Chessie>.
 
 ### Frameworks, Libraries and Tools / Serialization
 
-*   [Wire (⭐380)](https://github.com/rogeralsing/Wire) - Binary serializer for POCO objects.
+*   [Wire (⭐378)](https://github.com/rogeralsing/Wire) - Binary serializer for POCO objects.
 
 ### Frameworks, Libraries and Tools / Tools
 
@@ -607,11 +607,12 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 ### Applications
 
 *   [Bitmessage](https://bitmessage.org): P2P communications protocol used to send encrypted messages to another person or to many subscribers.
-*   [Dat desktop app (⭐648)](https://github.com/datproject/dat-desktop): Decentralized data tool for distributing data small and large.
+*   [Dat desktop app (⭐649)](https://github.com/datproject/dat-desktop): Decentralized data tool for distributing data small and large.
 *   [I2P](https://geti2p.net): Anonymous network, exposing a simple layer that applications can use to anonymously and securely send messages to each other.
 *   [MaidSafe](https://maidsafe.net): Decentralized internet and app infrastructure which rewards users for participating in the network.
 *   [Neocities](https://neocities.org): Geocities-style websites, but decentralized.
 *   [ZeroNet](https://zeronet.io/): Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network. Uncensored, no hosting costs, always accessible.
+    communities with auditable moderation and mod elections.
 
 ### Other
 
@@ -622,17 +623,17 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 ### Related Lists
 
 *   [https://github.com/kgryte/awesome-peer-to-peer (⭐2.2k)](https://github.com/kgryte/awesome-peer-to-peer)
-*   [https://github.com/retrohacker/awesome-p2p (⭐140)](https://github.com/retrohacker/awesome-p2p)
-*   [https://github.com/Kikobeats/awesome-network-js (⭐532)](https://github.com/Kikobeats/awesome-network-js)
-*   [https://github.com/steve-vincent/awesome-decentralized (⭐186)](https://github.com/steve-vincent/awesome-decentralized)
-*   [https://github.com/gdamdam/awesome-decentralized-web (⭐1.5k)](https://github.com/gdamdam/awesome-decentralized-web)
+*   [https://github.com/retrohacker/awesome-p2p (⭐142)](https://github.com/retrohacker/awesome-p2p)
+*   [https://github.com/Kikobeats/awesome-network-js (⭐537)](https://github.com/Kikobeats/awesome-network-js)
+*   [https://github.com/steve-vincent/awesome-decentralized (⭐191)](https://github.com/steve-vincent/awesome-decentralized)
+*   [https://github.com/gdamdam/awesome-decentralized-web (⭐1.6k)](https://github.com/gdamdam/awesome-decentralized-web)
 *   <https://redecentralize.github.io/alternative-internet>
 
 ## [33. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries / Lenses
 
-*   [partial.lenses (⭐900)](https://github.com/calmm-js/partial.lenses) – Partial lenses is a comprehensive, high-performance optics library for JavaScript.
+*   [partial.lenses (⭐905)](https://github.com/calmm-js/partial.lenses) – Partial lenses is a comprehensive, high-performance optics library for JavaScript.
 
 ## [34. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -714,24 +715,24 @@ Free
 
 ### API Builder and Discovery
 
-*   [Spyke (⭐791)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
+*   [Spyke (⭐854)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
 
 ### CLI Utilities
 
-*   [formatador (⭐441)](https://github.com/geemus/formatador) - STDOUT text formatting.
-*   [Ru (⭐404)](https://github.com/tombenner/ru) - Ruby in your shell.
+*   [formatador (⭐450)](https://github.com/geemus/formatador) - STDOUT text formatting.
+*   [Ru (⭐405)](https://github.com/tombenner/ru) - Ruby in your shell.
 *   [Terminal Table (⭐1.5k)](https://github.com/tj/terminal-table) - Ruby ASCII Table Generator, simple and feature rich.
 *   [Tmuxinator (⭐12k)](https://github.com/tmuxinator/tmuxinator) - Create and manage complex tmux sessions easily.
 
 ### Code Highlighting
 
-*   [CodeRay (⭐838)](https://github.com/rubychan/coderay) - Fast and easy syntax highlighting for selected languages.
+*   [CodeRay (⭐841)](https://github.com/rubychan/coderay) - Fast and easy syntax highlighting for selected languages.
 *   [pygments.rb (⭐568)](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
 *   [Rouge (⭐3.2k)](https://github.com/jneen/rouge) - A pure Ruby code highlighter that is compatible with Pygments.
 
 ### Database Tools
 
-*   [Polo (⭐730)](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
+*   [Polo (⭐757)](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
 
 ### Debugging Tools
 
@@ -739,10 +740,10 @@ Free
 
 ### Feature Flippers and A/B Testing
 
-*   [Motorhead (⭐182)](https://github.com/amatsuda/motorhead) - A Rails Engine framework that helps safe and rapid feature prototyping.
-*   [flipper (⭐3.3k)](https://github.com/jnunemaker/flipper) - Feature flipping for ANYTHING. Make turning features on/off so easy that everyone does it. Whatever your data store, throughput, or experience.
-*   [Rollout (⭐2.8k)](https://github.com/FetLife/rollout) - Feature flippers.
-*   [Split (⭐2.6k)](https://github.com/splitrb/split) - Rack Based AB testing framework.
+*   [Motorhead (⭐181)](https://github.com/amatsuda/motorhead) - A Rails Engine framework that helps safe and rapid feature prototyping.
+*   [flipper (⭐3.4k)](https://github.com/jnunemaker/flipper) - Feature flipping for ANYTHING. Make turning features on/off so easy that everyone does it. Whatever your data store, throughput, or experience.
+*   [Rollout (⭐2.9k)](https://github.com/FetLife/rollout) - Feature flippers.
+*   [Split (⭐2.7k)](https://github.com/splitrb/split) - Rack Based AB testing framework.
 *   [Vanity (⭐1.5k)](https://github.com/assaf/vanity) - an A/B testing framework for Rails that is datastore agnostic.
 
 ### Search

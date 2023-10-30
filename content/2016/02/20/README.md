@@ -10,7 +10,7 @@
 
 ### editors & viewers
 
-*   [gjv (⭐75)](https://github.com/anandthakker/gjv): electron app enables viewing GeoJSON locally and hack on it with turf; works offline
+*   [gjv (⭐76)](https://github.com/anandthakker/gjv): electron app enables viewing GeoJSON locally and hack on it with turf; works offline
 
 ### data
 
@@ -100,7 +100,7 @@
 
 ### Scripting
 
-*   [ChakraCore (⭐8.9k)](https://github.com/Microsoft/ChakraCore) -A JavaScript engine by Microsoft that can be embedded into nodejs. \[MIT]
+*   [ChakraCore (⭐9k)](https://github.com/Microsoft/ChakraCore) -A JavaScript engine by Microsoft that can be embedded into nodejs. \[MIT]
 
 ### Compiler
 

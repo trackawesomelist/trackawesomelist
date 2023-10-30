@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 01, 2021
 
-18 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -81,7 +81,7 @@
 
 ### Python / Calendars
 
-*   [exchange\_calendars (⭐268)](https://github.com/gerrymanoim/exchange_calendars) - Stock Exchange Trading Calendars.
+*   [exchange\_calendars (⭐325)](https://github.com/gerrymanoim/exchange_calendars) - Stock Exchange Trading Calendars.
 
 ## [7. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
@@ -112,9 +112,9 @@
 
 ### IR Tools Collection / Log Analysis Tools
 
-*   [APT Hunter (⭐948)](https://github.com/ahmedkhlief/APT-Hunter) - APT-Hunter is Threat Hunting tool for windows event logs.
+*   [APT Hunter (⭐1k)](https://github.com/ahmedkhlief/APT-Hunter) - APT-Hunter is Threat Hunting tool for windows event logs.
 *   [Event Log Explorer](https://eventlogxp.com/) - Tool developed to quickly analyze log files and other data.
-*   [Zircolite (⭐483)](https://github.com/wagga40/Zircolite) - A standalone and fast SIGMA-based detection tool for EVTX or JSON.
+*   [Zircolite (⭐517)](https://github.com/wagga40/Zircolite) - A standalone and fast SIGMA-based detection tool for EVTX or JSON.
 
 ### IR Tools Collection / Memory Analysis Tools
 
@@ -122,13 +122,13 @@
 
 ### IR Tools Collection / Playbooks
 
-*   [Counteractive Playbooks (⭐440)](https://github.com/counteractive/incident-response-plan-template/tree/master/playbooks) - Counteractive PLaybooks collection.
-*   [GuardSIght Playbook Battle Cards (⭐226)](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards) - A collection of Cyber Incident Response Playbook Battle Cards
-*   [Phantom Community Playbooks (⭐404)](https://github.com/phantomcyber/playbooks) - Phantom Community Playbooks for Splunk but also customizable for other use.
+*   [Counteractive Playbooks (⭐480)](https://github.com/counteractive/incident-response-plan-template/tree/master/playbooks) - Counteractive PLaybooks collection.
+*   [GuardSIght Playbook Battle Cards (⭐266)](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards) - A collection of Cyber Incident Response Playbook Battle Cards
+*   [Phantom Community Playbooks (⭐425)](https://github.com/phantomcyber/playbooks) - Phantom Community Playbooks for Splunk but also customizable for other use.
 
 ### IR Tools Collection / Timeline Tools
 
-*   [Aurora Incident Response (⭐637)](https://github.com/cyb3rfox/Aurora-Incident-Response) - Platform developed to build easily a detailed timeline of an incident.
+*   [Aurora Incident Response (⭐675)](https://github.com/cyb3rfox/Aurora-Incident-Response) - Platform developed to build easily a detailed timeline of an incident.
 
 ## [10. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 
@@ -152,36 +152,42 @@
 
 ### Python / Reinforcement Learning
 
-*   [Maze (⭐236)](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
+*   [Maze (⭐247)](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
 
-## [13. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [13. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Linux / TeX
+
+*   [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/index.html)
+
+## [14. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### CLOS extensions
 
-*   [polymorphic functions (⭐43)](https://github.com/digikar99/polymorphic-functions) - A function type to dispatch on types instead of classes with partial support for dispatching on optional and keyword argument types. Still experimental (May, 2021). [MIT](https://opensource.org/licenses/MIT).
+*   [polymorphic functions (⭐47)](https://github.com/digikar99/polymorphic-functions) - A function type to dispatch on types instead of classes with partial support for dispatching on optional and keyword argument types. Still experimental (May, 2021). [MIT](https://opensource.org/licenses/MIT).
     *   polymorphic-functions dispatch on the types of the arguments supplied to it. This helps dispatching on specialized arrays as well as user-defined types.
     *   for differences with specialization-store and fast-generic-functions, see its README.
 
-## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [v3confirm (⭐4)](https://github.com/malekim/v3confirm) - A plugin dedicated for vue3 to show confirm dialog modal.
 
-## [15. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [16. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Resources / Books
 
 *   [Node.js Cookbook](https://www.amazon.com/dp/1838558756)
 *   [Node.js Design Patterns](https://www.nodejsdesignpatterns.com)
 
-## [16. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [17. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### FIAT
 
 *   [GnuCash](https://gnucash.org/) - GnuCash is personal and small-business financial-accounting software, freely licensed under the GNU GPL and available for GNU/Linux, BSD, Solaris, Mac OS X and Microsoft Windows.
 
-## [17. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+## [18. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Online Analyzers
 
@@ -189,18 +195,18 @@
 
 ### Tools / Dynamic Analysis Tools
 
-*   [PAPIMonitor (⭐37)](https://github.com/Dado1513/PAPIMonitor) – PAPIMonitor (Python API Monitor for Android apps) is a python tool based on Frida for monitoring user-select APIs during the app execution.
+*   [PAPIMonitor (⭐40)](https://github.com/Dado1513/PAPIMonitor) – PAPIMonitor (Python API Monitor for Android apps) is a Python tool based on Frida for monitoring user-select APIs during the app execution.
 
 ### Tools / Reverse Engineering
 
-*   [Obfuscapk (⭐886)](https://github.com/ClaudiuGeorgiu/Obfuscapk) - Obfuscapk is a modular Python tool for obfuscating Android apps without needing their source code.
+*   [Obfuscapk (⭐930)](https://github.com/ClaudiuGeorgiu/Obfuscapk) - Obfuscapk is a modular Python tool for obfuscating Android apps without needing their source code.
 *   [ARMANDroid (⭐9)](https://github.com/Mobile-IoT-Security-Lab/ARMANDroid) - ARMAND (Anti-Repackaging through Multi-patternAnti-tampering based on Native Detection) is a novel anti-tampering protection scheme that embeds logic bombs and AT detection nodes directly in the apk file without needing their source code.
 
 ### Tools / Market Crawlers
 
 *   [PlaystoreDownloader (⭐1.1k)](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - PlaystoreDownloader is a tool for downloading Android applications directly from the Google Play Store. After an initial (one-time) configuration, applications can be downloaded by specifying their package name.
 
-## [18. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [19. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / iOS SDK
 

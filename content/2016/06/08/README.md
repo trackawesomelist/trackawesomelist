@@ -10,7 +10,7 @@
 
 ### Examples and funny stuff
 
-*   [ex\_chain (⭐19)](https://github.com/eljojo/ex_chain) - Simple Markov Chain that generates funny tweets, built using Elixir.
+*   [ex\_chain (⭐20)](https://github.com/eljojo/ex_chain) - Simple Markov Chain that generates funny tweets, built using Elixir.
 
 ## [2. Tips](/content/git-tips/tips/README.md)
 

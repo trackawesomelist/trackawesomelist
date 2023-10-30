@@ -193,7 +193,7 @@
 
 ### Core Data
 
-*   [JSQCoreDataKit (⭐614)](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
+*   [JSQCoreDataKit (⭐615)](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
 
 ## [7. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
@@ -328,13 +328,13 @@
 
 ### Database Drivers
 
-*   [Neography (⭐603)](https://github.com/maxdemarzi/neography) - A thin Ruby wrapper to the Neo4j Rest API.
+*   [Neography (⭐602)](https://github.com/maxdemarzi/neography) - A thin Ruby wrapper to the Neo4j Rest API.
 
 ### Implementations/Compilers
 
 *   [JRuby (⭐3.7k)](https://github.com/jruby/jruby) - A Java implementation of the Ruby language.
-*   [MRuby (⭐5.1k)](https://github.com/mruby/mruby) - Lightweight Ruby. Can be linked and embedded in your application.
-*   [Opal (⭐4.7k)](https://github.com/opal/opal) - Ruby to Javascript compiler.
+*   [MRuby (⭐5.2k)](https://github.com/mruby/mruby) - Lightweight Ruby. Can be linked and embedded in your application.
+*   [Opal (⭐4.8k)](https://github.com/opal/opal) - Ruby to Javascript compiler.
 *   [Rubinius (⭐3k)](https://github.com/rubinius/rubinius) - An implementation of the Ruby programming language. Rubinius includes a bytecode virtual machine, Ruby syntax parser, bytecode compiler, generational garbage collector, just-in-time (JIT) native machine code compiler, and Ruby Core and Standard libraries.
 
 ### ORM/ODM
@@ -347,7 +347,7 @@
 
 ### Security
 
-*   [Rack::Attack (⭐5.3k)](https://github.com/kickstarter/rack-attack) - Rack middleware for blocking & throttling abusive requests.
+*   [Rack::Attack (⭐5.4k)](https://github.com/kickstarter/rack-attack) - Rack middleware for blocking & throttling abusive requests.
 
 ---
 

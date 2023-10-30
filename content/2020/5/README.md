@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 03 - Feb 09, 2020
 
-62 awesome lists updated this week.
+63 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -33,7 +33,7 @@
 
 ### Cheat Sheets / Randomized Algorithms
 
-*   [Algo Deck (⭐5k)](https://github.com/teivah/algodeck/) - An open-source collection of +200 algorithmic cards.
+*   [Algo Deck (⭐5.2k)](https://github.com/teivah/algodeck/) - An open-source collection of +200 algorithmic cards.
 
 ## [5. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Examples
 
-*   [React Parallax Tilt (⭐696)](https://github.com/mkosir/react-parallax-tilt#readme) - GIF demo. Multiple badges. Feature list. Great live demo with code examples. Easy to follow instructions for local development set up.
+*   [React Parallax Tilt (⭐816)](https://github.com/mkosir/react-parallax-tilt#readme) - GIF demo. Multiple badges. Feature list. Great live demo with code examples. Easy to follow instructions for local development set up.
 
 ## [8. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
 
@@ -91,14 +91,14 @@
 
 ### Projects
 
-*   [karaoke-rs (⭐145)](https://github.com/tarkah/karaoke-rs) - A simple, network enabled karaoke player in Rust.
+*   [karaoke-rs (⭐149)](https://github.com/tarkah/karaoke-rs) - A simple, network enabled karaoke player in Rust.
 
 ## [11. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Bean Mapping
 
-*   [JMapper (⭐203)](https://github.com/jmapper-framework/jmapper-core) - Uses byte code manipulation for lightning-fast mapping. Supports annotations and API or XML configuration.
-*   [ModelMapper (⭐2.1k)](https://github.com/modelmapper/modelmapper) - Intelligent object mapping library that automatically maps objects to each other.
+*   [JMapper (⭐214)](https://github.com/jmapper-framework/jmapper-core) - Uses byte code manipulation for lightning-fast mapping. Supports annotations and API or XML configuration.
+*   [ModelMapper (⭐2.2k)](https://github.com/modelmapper/modelmapper) - Intelligent object mapping library that automatically maps objects to each other.
 
 ### Build
 
@@ -108,250 +108,243 @@
 
 *   [ASM](https://asm.ow2.io) - All-purpose, low-level bytecode manipulation and analysis.
 *   [Byte Buddy](https://bytebuddy.net) - Further simplifies bytecode generation with a fluent API.
-*   [Javassist (⭐3.8k)](https://github.com/jboss-javassist/javassist) - Tries to simplify bytecode editing.
+*   [Javassist (⭐3.9k)](https://github.com/jboss-javassist/javassist) - Tries to simplify bytecode editing.
 
 ### Caching
 
 *   [Infinispan](https://infinispan.org) - Highly concurrent key/value datastore used for caching.
 
-### CLI
+### CLI / Argument Parsing
 
-*   [JOpt Simple](https://jopt-simple.github.io/jopt-simple/) - Fluent parser that uses the POSIX#getopt and GNU#getopt\_long syntaxes.
 *   [picocli](https://picocli.info) - ANSI colors and styles in usage help with annotation-based POSIX/GNU/any syntax, subcommands, strong typing for both options and positional args.
 
-### Code Coverage
+### Code Coverage / Text-Based User Interfaces
 
 *   [Clover](https://www.atlassian.com/software/clover) - Relies on source-code instrumentation instead of bytecode instrumentation.
 *   [Cobertura](https://cobertura.github.io/cobertura/) - Relies on offline (or static) bytecode instrumentation and class loading to collect code coverage metrics. (GPL-2.0-only)
 *   [JaCoCo](https://www.eclemma.org/jacoco/) - Framework that enables collection of code coverage metrics, using both offline and runtime bytecode instrumentation.
 
-### Code Generators
+### Code Generators / Text-Based User Interfaces
 
-*   [FreeBuilder (⭐799)](https://github.com/inferred/FreeBuilder) - Automatically generates the Builder pattern.
+*   [FreeBuilder (⭐813)](https://github.com/inferred/FreeBuilder) - Automatically generates the Builder pattern.
 *   [Joda-Beans](https://www.joda.org/joda-beans/) - Small framework that adds queryable properties to Java, enhancing JavaBeans.
 
-### Compiler-compiler
+### Compiler-compiler / Text-Based User Interfaces
 
 *   [ANTLR](https://www.antlr.org) - Complex full-featured framework for top-down parsing.
 *   [JavaCC](https://javacc.github.io/javacc/) - Parser generator that generates top-down parsers. Allows lexical state switching and permits extended BNF specifications.
 *   [JFlex](https://jflex.de) - Lexical analyzer generator.
 
-### Configuration
+### Configuration / Text-Based User Interfaces
 
-*   [dotenv (⭐42)](https://github.com/shyiko/dotenv) - Twelve-factor configuration library which uses environment-specific files.
+*   [dotenv (⭐44)](https://github.com/shyiko/dotenv) - Twelve-factor configuration library which uses environment-specific files.
 
-### Constraint Satisfaction Problem Solver
+### Constraint Satisfaction Problem Solver / Text-Based User Interfaces
 
 *   [Choco](https://choco-solver.org) - Off-the-shelf constraint satisfaction problem solver that uses constraint programming techniques.
 
-### CSV
+### CSV / Text-Based User Interfaces
 
 *   [Super CSV](https://super-csv.github.io/super-csv/) - Powerful CSV parser with support for Dozer, Joda-Time and Java 8.
 
-### Data Structures
+### Data Structures / Text-Based User Interfaces
 
 *   [Apache Avro](https://avro.apache.org) - Data interchange format with dynamic typing, untagged data, and absence of manually assigned IDs.
 *   [Apache Orc](https://orc.apache.org) - Fast and efficient columnar storage format for Hadoop-based workloads.
 *   [Apache Parquet](https://parquet.apache.org) - Columnar storage format based on assembly algorithms from Google's paper on Dremel.
 *   [Apache Thrift](https://thrift.apache.org) - Data interchange format that originated at Facebook.
-*   [Big Queue (⭐521)](https://github.com/bulldog2011/bigqueue) - Fast and persistent queue based on memory-mapped files.
+*   [Big Queue (⭐540)](https://github.com/bulldog2011/bigqueue) - Fast and persistent queue based on memory-mapped files.
 *   [HyperMinHash-java (⭐49)](https://github.com/LiveRamp/HyperMinHash-java) - Probabilistic data structure for computing union, intersection, and set cardinality in loglog space.
-*   [Persistent Collection (⭐710)](https://github.com/hrldcpr/pcollections) - Persistent and immutable analogue of the Java Collections Framework.
-*   [Protobuf (⭐58k)](https://github.com/protocolbuffers/protobuf) - Google's data interchange format.
-*   [SBE (⭐2.8k)](https://github.com/real-logic/simple-binary-encoding) - Simple Binary Encoding, one of the fastest message formats around.
-*   [Tape (⭐2.4k)](https://github.com/square/tape) - Lightning-fast, transactional, file-based FIFO.
-*   [Wire (⭐4k)](https://github.com/square/wire) - Clean, lightweight protocol buffers.
+*   [Persistent Collection (⭐732)](https://github.com/hrldcpr/pcollections) - Persistent and immutable analogue of the Java Collections Framework.
+*   [Protobuf (⭐62k)](https://github.com/protocolbuffers/protobuf) - Google's data interchange format.
+*   [SBE (⭐2.9k)](https://github.com/real-logic/simple-binary-encoding) - Simple Binary Encoding, one of the fastest message formats around.
+*   [Tape (⭐2.5k)](https://github.com/square/tape) - Lightning-fast, transactional, file-based FIFO.
+*   [Wire (⭐4.1k)](https://github.com/square/wire) - Clean, lightweight protocol buffers.
 
-### Database
+### Database / Text-Based User Interfaces
 
-*   [eXist (⭐376)](https://github.com/eXist-db/exist) - NoSQL document database and application platform. (LGPL-2.1-only)
+*   [eXist (⭐395)](https://github.com/eXist-db/exist) - NoSQL document database and application platform. (LGPL-2.1-only)
 *   [Modality (⭐11)](https://github.com/arkanovicz/modality) - Lightweight ORM with database reverse engineering features.
-*   [Redisson (⭐21k)](https://github.com/redisson/redisson) - Allows for distributed and scalable data structures on top of a Redis server.
+*   [Redisson (⭐22k)](https://github.com/redisson/redisson) - Allows for distributed and scalable data structures on top of a Redis server.
 *   [requery (⭐3.1k)](https://github.com/requery/requery) - Modern, lightweight but powerful object mapping and SQL generator. Easily map to or create databases, or perform queries and updates from any Java-using platform.
 
-### Date and Time
-
-*   [Almanac Converter](https://github.com/chrisengelsma/almanac-converter) - Simple conversion between different calendar systems.
-
-### Dependency Injection
+### Dependency Injection / Text-Based User Interfaces
 
 *   [Dagger](https://dagger.dev/) - Compile-time injection framework without reflection.
 *   [HK2](https://javaee.github.io/hk2/) - Lightweight and dynamic dependency injection framework.
 
-### Development
+### Development / Text-Based User Interfaces
 
 *   [AspectJ](https://www.eclipse.org/aspectj/) - Seamless aspect-oriented programming extension.
-*   [JavaSymbolSolver (⭐288)](https://github.com/javaparser/javasymbolsolver) - Symbol solver.
-*   [Manifold (⭐1.6k)](https://github.com/manifold-systems/manifold) - Re-energizes Java with powerful features like type-safe metaprogramming, structural typing and extension methods.
+*   [JavaSymbolSolver (⭐291)](https://github.com/javaparser/javasymbolsolver) - Symbol solver.
+*   [Manifold (⭐2k)](https://github.com/manifold-systems/manifold) - Re-energizes Java with powerful features like type-safe metaprogramming, structural typing and extension methods.
 
-### Distributed Applications
+### Distributed Applications / Text-Based User Interfaces
 
 *   [Axon](https://axoniq.io) - Framework for creating CQRS applications.
-*   [Hazelcast (⭐5.2k)](https://github.com/hazelcast/hazelcast) - Highly scalable in-memory datagrid with a free open-source version.
+*   [Hazelcast (⭐5.6k)](https://github.com/hazelcast/hazelcast) - Highly scalable in-memory datagrid with a free open-source version.
 *   [Quasar](http://docs.paralleluniverse.co/quasar/) - Lightweight threads and actors for the JVM.
-*   [ScaleCube Services (⭐571)](https://github.com/scalecube/scalecube-services) - Embeddable Cluster-Membership library based on SWIM and gossip protocol.
-*   [Zuul (⭐12k)](https://github.com/Netflix/zuul) - Gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
+*   [ScaleCube Services (⭐594)](https://github.com/scalecube/scalecube-services) - Embeddable Cluster-Membership library based on SWIM and gossip protocol.
+*   [Zuul (⭐13k)](https://github.com/Netflix/zuul) - Gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
 
-### Distributed Transactions
+### Distributed Transactions / Text-Based User Interfaces
 
-*   [Bitronix (⭐402)](https://github.com/bitronix/btm) - Simple but complete implementation of the JTA 1.1 API.
+*   [Bitronix (⭐406)](https://github.com/bitronix/btm) - Simple but complete implementation of the JTA 1.1 API.
 *   [Narayana](https://narayana.io) - Provides support for traditional ACID and compensation transactions, also complies with JTA, JTS and other standards. (LGPL-2.1-only)
 
-### Distribution
+### Distribution / Text-Based User Interfaces
 
 *   [Capsule (⭐1.1k)](https://github.com/puniverse/capsule) - Simple and powerful packaging and deployment. A fat JAR on steroids, or a "Docker for Java" that supports JVM-optimized containers.
 *   [Nexus ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg)](https://www.sonatype.com) - Binary management with proxy and caching capabilities.
-*   [packr (⭐2.4k)](https://github.com/libgdx/packr) - Packs JARs, assets and the JVM for native distribution on Windows, Linux and macOS.
+*   [packr (⭐2.5k)](https://github.com/libgdx/packr) - Packs JARs, assets and the JVM for native distribution on Windows, Linux and macOS.
 
-### Document Processing
+### Document Processing / Text-Based User Interfaces
 
 *   [documents4j](https://documents4j.com/#/) - API for document format conversion using third-party converters such as MS Word.
 
-### Financial
+### Financial / Text-Based User Interfaces
 
-*   [Square (⭐38)](https://github.com/square/connect-java-sdk) - Integration with the Square API.
-*   [Stripe (⭐642)](https://github.com/stripe/stripe-java) - Integration with the Stripe API.
+*   [Square (⭐39)](https://github.com/square/connect-java-sdk) - Integration with the Square API.
+*   [Stripe (⭐706)](https://github.com/stripe/stripe-java) - Integration with the Stripe API.
 
-### Formal Verification
+### Formal Verification / Text-Based User Interfaces
 
 *   [Daikon](https://plse.cs.washington.edu/daikon/) - Detects likely program invariants and generates JML specs based on those invariants.
 *   [JMLOK 2.0](https://massoni.computacao.ufcg.edu.br/home/jmlok) - Detects inconsistencies between code and JML specification through feedback-directed random tests generation, and suggests a likely cause for each nonconformance detected. (GPL-3.0-only)
 *   [KeY](https://www.key-project.org) - Formal software development tool that aims to integrate design, implementation, formal specification, and formal verification of object-oriented software as seamlessly as possible. Uses JML for specification and symbolic execution for verification. (GPL-2.0-or-later)
 *   [OpenJML](http://www.openjml.org) - Translates JML specifications into SMT-LIB format and passes the proof problems implied by the program to backend solvers. (GPL-2.0-only)
 
-### Functional Programming
+### Functional Programming / Text-Based User Interfaces
 
 *   [Cyclops (⭐1.3k)](https://github.com/aol/cyclops) - Monad and stream utilities, comprehensions, pattern matching, functional extensions for all JDK collections, future streams, trampolines and much more.
 *   [Vavr](https://www.vavr.io) - Functional component library that provides persistent data types and functional control structures.
 
-### Game Development
+### Game Development / Text-Based User Interfaces
 
 *   [FXGL](https://almasb.github.io/FXGL/) - JavaFX Game Development Framework.
 *   [jMonkeyEngine](https://jmonkeyengine.org) - Game engine for modern 3D development.
 
-### Geospatial
+### Geospatial / Text-Based User Interfaces
 
 *   [H2GIS](http://www.h2gis.org) - Spatial extension of the H2 database. (LGPL-3.0-only)
 *   [Jgeohash](https://astrapi69.github.io/jgeohash/) - Library for using the GeoHash algorithm.
 
-### GUI
+### GUI / Text-Based User Interfaces
 
 *   [JavaFX](https://wiki.openjdk.java.net/display/OpenJFX/Main) - Successor of Swing.
 *   [Scene Builder](https://gluonhq.com/products/scene-builder/) - Visual layout tool for JavaFX applications.
 *   [SWT](https://www.eclipse.org/swt/) - Graphical widget toolkit.
 
-### High Performance
+### High Performance / Text-Based User Interfaces
 
 *   [Disruptor](https://lmax-exchange.github.io/disruptor/) - Inter-thread messaging library.
 
-### HTTP Clients
+### HTTP Clients / Text-Based User Interfaces
 
-*   [Feign (⭐8.6k)](https://github.com/OpenFeign/feign) - HTTP client binder inspired by Retrofit, JAXRS-2.0, and WebSocket.
-*   [restQL-java](https://github.com/b2wdigital/restQL-java) - Microservice query language that fetches information from multiple services.
+*   [Feign (⭐9.1k)](https://github.com/OpenFeign/feign) - HTTP client binder inspired by Retrofit, JAXRS-2.0, and WebSocket.
 *   [Retrofit](https://square.github.io/retrofit/) - Typesafe REST client.
 
-### IDE
+### IDE / Text-Based User Interfaces
 
 *   [IntelliJ IDEA ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg)](https://www.jetbrains.com/idea/) - Supports many JVM languages and provides good options for Android development. The commercial edition targets the enterprise sector.
 
-### Imagery
+### Imagery / Text-Based User Interfaces
 
-*   [Imgscalr (⭐1.1k)](https://github.com/rkalla/imgscalr) - Simple, efficient and hardware-accelerated image-scaling library implemented in pure Java 2D.
-*   [Tess4J (⭐1.3k)](https://github.com/nguyenq/tess4j) - JNA wrapper for Tesseract OCR API.
+*   [Imgscalr (⭐1.2k)](https://github.com/rkalla/imgscalr) - Simple, efficient and hardware-accelerated image-scaling library implemented in pure Java 2D.
+*   [Tess4J (⭐1.4k)](https://github.com/nguyenq/tess4j) - JNA wrapper for Tesseract OCR API.
 
-### Introspection
+### Introspection / Text-Based User Interfaces
 
 *   [Mirror](http://projetos.vidageek.net/mirror/mirror/) - Mirror was created to bring light to a simple problem, usually named ReflectionUtil, which is on almost all projects that rely on reflection to do advanced tasks.
 
-### JSON
+### JSON / Text-Based User Interfaces
 
 *   [Genson](http://genson.io) - Powerful and easy-to-use Java-to-JSON conversion library.
-*   [Yasson (⭐184)](https://github.com/eclipse-ee4j/yasson) - Binding layer between classes and JSON documents similar to JAXB.
-*   [JsonPath (⭐7.7k)](https://github.com/json-path/JsonPath) - Extract data from JSON using XPATH-like syntax.
+*   [Yasson (⭐192)](https://github.com/eclipse-ee4j/yasson) - Binding layer between classes and JSON documents similar to JAXB.
+*   [JsonPath (⭐8.3k)](https://github.com/json-path/JsonPath) - Extract data from JSON using XPATH-like syntax.
 
-### JVM and JDK
+### JVM and JDK / Text-Based User Interfaces
 
 *   [Corretto](https://aws.amazon.com/corretto/) - No-cost, multiplatform, production-ready distribution of OpenJDK by Amazon. (GPL-2.0-only WITH Classpath-exception-2.0)
 *   [Liberica JDK](https://bell-sw.com) - Built from OpenJDK, thoroughly tested and passed the JCK. (GPL-2.0-only WITH Classpath-exception-2.0)
 *   [SAP Machine](https://sap.github.io/SapMachine/) - SAP's no-cost, rigorously tested and JCK-verified OpenJDK friendly fork. (GPL-2.0-only WITH Classpath-exception-2.0)
 *   [Zulu](https://www.azul.com/products/zulu-community/) - OpenJDK builds for Windows, Linux, and macOS. (GPL-2.0-only WITH Classpath-exception-2.0)
 
-### Logging
+### Logging / Text-Based User Interfaces
 
 *   [Apache Log4j 2](https://logging.apache.org/log4j/) - Complete rewrite with a powerful plugin and configuration architecture.
 *   [Kibana](https://www.elastic.co/kibana) - Analyzes and visualizes log files. Some features require payment.
 *   [Logback](http://logback.qos.ch) - Robust logging library with interesting configuration options via Groovy.
 *   [SLF4J](http://www.slf4j.org) - Abstraction layer/simple logging facade.
 *   [tinylog](https://tinylog.org/v2/) - Lightweight logging framework with static logger class.
-*   [OpenTracing Toolbox (⭐181)](https://github.com/zalando/opentracing-toolbox) - Collection of libraries that build on top of OpenTracing and provide extensions and plugins to existing instrumentations.
+*   [OpenTracing Toolbox (⭐182)](https://github.com/zalando/opentracing-toolbox) - Collection of libraries that build on top of OpenTracing and provide extensions and plugins to existing instrumentations.
 
-### Machine Learning
+### Machine Learning / Text-Based User Interfaces
 
-*   [Smile (⭐5.7k)](https://github.com/haifengl/smile) - Statistical Machine Intelligence and Learning Engine provides a set of machine learning algorithms and a visualization library.
+*   [Smile (⭐5.8k)](https://github.com/haifengl/smile) - Statistical Machine Intelligence and Learning Engine provides a set of machine learning algorithms and a visualization library.
 *   [Weka](https://www.cs.waikato.ac.nz/ml/weka/) - Collection of algorithms for data mining tasks ranging from pre-processing to visualization. (GPL-3.0-only)
 
-### Messaging
+### Messaging / Text-Based User Interfaces
 
-*   [NATS client (⭐455)](https://github.com/nats-io/nats.java) - NATS client.
+*   [NATS client (⭐506)](https://github.com/nats-io/nats.java) - NATS client.
 
-### Microservice
+### Microservice / Text-Based User Interfaces
 
 *   [Apollo](https://spotify.github.io/apollo/) - Libraries for writing composable microservices.
-*   [Armeria (⭐4.1k)](https://github.com/line/armeria) - Asynchronous RPC/REST client/server library built on top of Java 8, Netty, HTTP/2, Thrift and gRPC.
-*   [consul-api (⭐404)](https://github.com/Ecwid/consul-api) - Client for the Consul API: a distributed, highly available and datacenter-aware registry/discovery service.
+*   [Armeria (⭐4.5k)](https://github.com/line/armeria) - Asynchronous RPC/REST client/server library built on top of Java 8, Netty, HTTP/2, Thrift and gRPC.
+*   [consul-api (⭐415)](https://github.com/Ecwid/consul-api) - Client for the Consul API: a distributed, highly available and datacenter-aware registry/discovery service.
 *   [Eureka (⭐12k)](https://github.com/Netflix/eureka) - REST-based service registry for resilient load balancing and failover.
 *   [Helidon](https://helidon.io) - Two-style approach for writing microservices: Functional-reactive and as an implementation of MicroProfile.
 *   [Micronaut](https://micronaut.io) - Modern full-stack framework with focus on modularity, minimal memory footprint and startup time.
 *   [Nacos](https://nacos.io) - Dynamic service discovery, configuration and service management platform for building cloud native applications.
 *   [Quarkus](https://quarkus.io) - Kubernetes stack tailored for the HotSpot and Graal VM.
 
-### Miscellaneous
+### Miscellaneous / Text-Based User Interfaces
 
 *   [JBake](https://jbake.org) - Static website generator.
 *   [JBot (⭐1.2k)](https://github.com/rampatra/jbot) - Framework for building chatbots. (GPL-3.0-only)
 *   [Joda-Money](https://www.joda.org/joda-money/) - Basic currency and money classes and algorithms not provided by the JDK.
-*   [Membrane Service Proxy (⭐396)](https://github.com/membrane/service-proxy) - Open-source, reverse-proxy framework.
-*   [Modernizer (⭐327)](https://github.com/gaul/modernizer-maven-plugin) - Detect uses of legacy Java APIs.
-*   [OctoLinker (⭐5.1k)](https://github.com/OctoLinker/OctoLinker) - Browser extension which allows to navigate through code on GitHub more efficiently.
-*   [PipelinR (⭐298)](https://github.com/sizovs/pipelinr) - Small utility library for using handlers and commands with pipelines.
+*   [Membrane Service Proxy (⭐423)](https://github.com/membrane/service-proxy) - Open-source, reverse-proxy framework.
+*   [Modernizer (⭐340)](https://github.com/gaul/modernizer-maven-plugin) - Detect uses of legacy Java APIs.
+*   [OctoLinker (⭐5.2k)](https://github.com/OctoLinker/OctoLinker) - Browser extension which allows to navigate through code on GitHub more efficiently.
+*   [PipelinR (⭐356)](https://github.com/sizovs/pipelinr) - Small utility library for using handlers and commands with pipelines.
 *   [Simple Java Mail (⭐1.1k)](https://github.com/bbottema/simple-java-mail) - Mailing with a clean and fluent API.
 
-### Monitoring
+### Monitoring / Text-Based User Interfaces
 
 *   [Failsafe Actuator (⭐52)](https://github.com/zalando/failsafe-actuator) - Out of the box monitoring of Failsafe Circuit Breaker in Spring-Boot environment.
 *   [inspectIT](https://www.inspectit.rocks) - Captures detailed run-time information via hooks that can be changed on the fly. It supports tracing over multiple systems via the OpenTracing API and can correlate the data with end user monitoring.
-*   [Metrics (⭐7.7k)](https://github.com/dropwizard/metrics) - Expose metrics via JMX or HTTP and send them to a database.
 
-### Natural Language Processing
+### Natural Language Processing / Text-Based User Interfaces
 
 *   [LingPipe](http://alias-i.com/lingpipe/) - Toolkit for tasks ranging from POS tagging to sentiment analysis.
 
-### Networking
+### Networking / Text-Based User Interfaces
 
-*   [Dubbo (⭐38k)](https://github.com/apache/dubbo) - High-performance RPC framework.
+*   [Dubbo (⭐39k)](https://github.com/apache/dubbo) - High-performance RPC framework.
 *   [Grizzly](https://javaee.github.io/grizzly/) - NIO framework. Used as a network layer in Glassfish.
-*   [Drift (⭐229)](https://github.com/airlift/drift) - Easy-to-use, annotation-based library for creating Thrift clients and serializable types.
+*   [Drift (⭐232)](https://github.com/airlift/drift) - Easy-to-use, annotation-based library for creating Thrift clients and serializable types.
 
-### ORM
+### ORM / Text-Based User Interfaces
 
-*   [Doma (⭐362)](https://github.com/domaframework/doma) - Database access framework that verifies and generates source code at compile time using annotation processing as well as native SQL templates called two-way SQL.
+*   [Doma (⭐392)](https://github.com/domaframework/doma) - Database access framework that verifies and generates source code at compile time using annotation processing as well as native SQL templates called two-way SQL.
 *   [Ebean](https://ebean.io) - Provides simple and fast data access.
 *   [EclipseLink](https://www.eclipse.org/eclipselink/) - Supports a number of persistence standards: JPA, JAXB, JCA and SDO.
 *   [Hibernate](http://hibernate.org/orm/) - Robust and widely used, with an active community. (LGPL-2.1-only)
-*   [MyBatis (⭐18k)](https://github.com/mybatis/mybatis-3) - Couples objects with stored procedures or SQL statements.
+*   [MyBatis (⭐19k)](https://github.com/mybatis/mybatis-3) - Couples objects with stored procedures or SQL statements.
 
-### PaaS
+### PaaS / Text-Based User Interfaces
 
 *   [AWS Elastic Beanstalk ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg)](https://aws.amazon.com/elasticbeanstalk/) - AWS-based, with support for Tomcat and Jetty.
 *   [AWS Lambda ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg)](https://aws.amazon.com/lambda/) - Serverless computation.
 *   [Microsoft Azure ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg)](https://azure.microsoft.com/en-us/) - Microsoft's cloud infrastructure.
 
-### PDF
+### PDF / Text-Based User Interfaces
 
 *   [Apache FOP](https://xmlgraphics.apache.org/fop/) - Creates PDFs from XSL-FO.
 *   [iText ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg)](https://itextpdf.com/en) - Creates PDF files programmatically.
 
-### Performance analysis
+### Performance analysis / Text-Based User Interfaces
 
 *   [fastThread ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg)](https://fastthread.io) - Analyze and visualize thread dumps with a free cloud-based upload interface.
 *   [GCeasy ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg)](https://gceasy.io) - Tool to analyze and visualize GC logs. It provides a free cloud-based upload interface.
@@ -418,17 +411,17 @@
 ### Platform / Other
 
 *   [CUBA Platform](https://www.cuba-platform.com/) - High-level framework for developing enterprise applications with a rich web interface, based on Spring, EclipseLink and Vaadin.
-*   [Light-4J (⭐3.5k)](https://github.com/networknt/light-4j/) - Fast, lightweight and productive microservices framework with built-in [security (⭐292)](https://github.com/networknt/light-oauth2/).
-*   [Orienteer (⭐190)](https://github.com/OrienteerBAP/Orienteer/) - Open-source business application platform for rapid configuration/development of CRM, ERP, LMS and other applications.
+*   [Light-4J (⭐3.5k)](https://github.com/networknt/light-4j/) - Fast, lightweight and productive microservices framework with built-in [security (⭐306)](https://github.com/networknt/light-oauth2/).
+*   [Orienteer (⭐211)](https://github.com/OrienteerBAP/Orienteer/) - Open-source business application platform for rapid configuration/development of CRM, ERP, LMS and other applications.
 *   [Spring](https://spring.io/projects/) - Provides many packages for dependency injection, aspect-oriented programming, security, etc.
 
 ### Reactive libraries / Other
 
-*   [Reactor (⭐4.4k)](https://github.com/reactor/reactor-core) - Library for building reactive fast-data applications.
+*   [Reactor (⭐4.7k)](https://github.com/reactor/reactor-core) - Library for building reactive fast-data applications.
 
 ### REST Frameworks / Other
 
-*   [Dropwizard (⭐8.3k)](https://github.com/dropwizard/dropwizard) - Opinionated framework for setting up modern web applications with Jetty, Jackson, Jersey and Metrics.
+*   [Dropwizard (⭐8.4k)](https://github.com/dropwizard/dropwizard) - Opinionated framework for setting up modern web applications with Jetty, Jackson, Jersey and Metrics.
 *   [Elide](https://elide.io) - Opinionated framework for JSON- or GraphQL-APIs based on a JPA data model.
 *   [Microserver (⭐940)](https://github.com/aol/micro-server) - Convenient, extensible microservices plugin system for Spring & Spring Boot. With more than 30 plugins and growing, it supports both micro-monolith and pure microservices styles.
 *   [Rapidoid](https://www.rapidoid.org) - Simple, secure and extremely fast framework consisting of an embedded HTTP server, GUI components and dependency injection.
@@ -437,9 +430,9 @@
 ### Science / Other
 
 *   [JFreeChart](http://www.jfree.org/jfreechart/) - 2D chart library for Swing, JavaFX and server-side applications. (LGPL-2.1-only)
-*   [Morpheus (⭐226)](https://github.com/zavtech/morpheus-core) - Provides a versatile two-dimensional memory efficient tabular data structure called a DataFrame to enable efficient in-memory analytics for scientific computing on the JVM.
-*   [Tablesaw (⭐3.1k)](https://github.com/jtablesaw/tablesaw) - Includes a data-frame, an embedded column store, and hundreds of methods to transform, summarize, or filter data.
-*   [XChart (⭐1.3k)](https://github.com/knowm/XChart) - Light-weight library for plotting data. Many customizable chart types are available.
+*   [Morpheus (⭐236)](https://github.com/zavtech/morpheus-core) - Provides a versatile two-dimensional memory efficient tabular data structure called a DataFrame to enable efficient in-memory analytics for scientific computing on the JVM.
+*   [Tablesaw (⭐3.3k)](https://github.com/jtablesaw/tablesaw) - Includes a data-frame, an embedded column store, and hundreds of methods to transform, summarize, or filter data.
+*   [XChart (⭐1.4k)](https://github.com/knowm/XChart) - Light-weight library for plotting data. Many customizable chart types are available.
 
 ### Search / Other
 
@@ -457,19 +450,18 @@
 
 ### Testing / Asynchronous
 
-*   [Awaitility (⭐3.3k)](https://github.com/awaitility/awaitility) - DSL for synchronizing asynchronous operations.
-*   [GreenMail](http://www.icegreen.com/greenmail/) - In-memory email server for integration testing. Supports SMTP, POP3 and IMAP including SSL. (GPL-2.0-only)
-*   [REST Assured (⭐6.2k)](https://github.com/rest-assured/rest-assured) - DSL for easy testing of REST/HTTP services.
+*   [Awaitility (⭐3.6k)](https://github.com/awaitility/awaitility) - DSL for synchronizing asynchronous operations.
+*   [REST Assured (⭐6.5k)](https://github.com/rest-assured/rest-assured) - DSL for easy testing of REST/HTTP services.
 
 ### Testing / BDD
 
-*   [Cukes-REST (⭐102)](https://github.com/ctco/cukes) - Collection of Gherkin steps for REST-service testing using Cucumber.
+*   [Cukes-REST (⭐106)](https://github.com/ctco/cukes) - Collection of Gherkin steps for REST-service testing using Cucumber.
 *   [JBehave](https://jbehave.org) - Extensively configurable framework that describes stories.
-*   [Serenity BDD (⭐656)](https://github.com/serenity-bdd/serenity-core) - Automated Acceptance testing and reporting library that works with Cucumber, JBehave and JUnit to make it easier to write high quality executable specifications.
+*   [Serenity BDD (⭐691)](https://github.com/serenity-bdd/serenity-core) - Automated Acceptance testing and reporting library that works with Cucumber, JBehave and JUnit to make it easier to write high quality executable specifications.
 
 ### Testing / Fixtures
 
-*   [Java Faker (⭐4k)](https://github.com/DiUS/java-faker) - Port of Ruby's fake data generator.
+*   [Java Faker (⭐4.4k)](https://github.com/DiUS/java-faker) - Port of Ruby's fake data generator.
 
 ### Testing / Frameworks
 
@@ -482,28 +474,28 @@
 
 ### Testing / Miscellaneous
 
-*   [junit-dataprovider (⭐239)](https://github.com/TNG/junit-dataprovider) - TestNG-like data provider/runner for JUnit.
+*   [junit-dataprovider (⭐240)](https://github.com/TNG/junit-dataprovider) - TestNG-like data provider/runner for JUnit.
 *   [pojo-tester](https://www.pojo.pl) - Automatically performs tests on basic POJO methods. (LGPL-3.0-only)
 
 ### Testing / Mocking
 
-*   [PowerMock (⭐4k)](https://github.com/powermock/powermock) - Mocks static methods, constructors, final classes and methods, private methods, and removal of static initializers.
+*   [PowerMock (⭐4.1k)](https://github.com/powermock/powermock) - Mocks static methods, constructors, final classes and methods, private methods, and removal of static initializers.
 
 ### Utility / Mocking
 
-*   [cactoos (⭐694)](https://github.com/yegor256/cactoos) - Collection of object-oriented primitives.
+*   [cactoos (⭐714)](https://github.com/yegor256/cactoos) - Collection of object-oriented primitives.
 *   [Embulk (⭐1.7k)](https://github.com/embulk/embulk) - Bulk data loader that helps data transfer between various databases, storages, file formats, and cloud services.
-*   [fswatch (⭐21)](https://github.com/vorburger/ch.vorburger.fswatch) - Micro library to watch for directory file system changes, simplifying java.nio.file.WatchService.
+*   [fswatch (⭐26)](https://github.com/vorburger/ch.vorburger.fswatch) - Micro library to watch for directory file system changes, simplifying java.nio.file.WatchService.
 *   [JGit](https://www.eclipse.org/jgit/) - Lightweight, pure Java library implementing the Git version control system.
 
 ### Version Managers / Mocking
 
-*   [jabba (⭐2.5k)](https://github.com/shyiko/jabba) - Java Version Manager inspired by nvm. Supports macOS, Linux and Windows.
-*   [jenv (⭐4.7k)](https://github.com/jenv/jenv) - Java Version Manager inspired by rbenv. Can configure globally or per project. Tested on Debian and macOS.
+*   [jabba (⭐2.7k)](https://github.com/shyiko/jabba) - Java Version Manager inspired by nvm. Supports macOS, Linux and Windows.
+*   [jenv (⭐5.2k)](https://github.com/jenv/jenv) - Java Version Manager inspired by rbenv. Can configure globally or per project. Tested on Debian and macOS.
 
 ### Web Frameworks / Mocking
 
-*   [Blade (⭐5.7k)](https://github.com/lets-blade/blade) - Lightweight, modular framework that aims to be elegant and simple.
+*   [Blade (⭐5.8k)](https://github.com/lets-blade/blade) - Lightweight, modular framework that aims to be elegant and simple.
 *   [Jooby](http://www.jooby.org) - Scalable, fast and modular micro-framework that offers multiple programming models.
 *   [PrimeFaces](https://www.primefaces.org) - JSF framework with both free and commercial/support versions and frontend components.
 *   [Vaadin](https://vaadin.com) - Event-driven framework that uses standard web components. Server-side architecture with Ajax on the client side.
@@ -1106,7 +1098,7 @@
 
 ### Templates / Preferences
 
-*   [Flutter Samples (⭐2.8k)](https://github.com/diegoveloper/flutter-samples) <!--stargazers:diegoveloper/flutter-samples--> - Collection of nice flutter samples by [Diego Velásquez](https://github.com/diegoveloper).
+*   [Flutter Samples (⭐2.9k)](https://github.com/diegoveloper/flutter-samples) <!--stargazers:diegoveloper/flutter-samples--> - Collection of nice flutter samples by [Diego Velásquez](https://github.com/diegoveloper).
 
 ## [16. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -1118,7 +1110,7 @@
 
 ### QR
 
-*   [RQRCode (⭐1.7k)](https://github.com/whomwah/rqrcode) - RQRCode is a library for creating and rendering QR codes into various formats.
+*   [RQRCode (⭐1.8k)](https://github.com/whomwah/rqrcode) - RQRCode is a library for creating and rendering QR codes into various formats.
 
 ## [18. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
@@ -1131,41 +1123,41 @@
 
 ### Schema / Changes
 
-*   [SchemaHero (⭐763)](https://github.com/schemahero/schemahero) - A Kubernetes operator for declarative database schema management (gitops for database schemas).
-*   [Sqitch (⭐2.5k)](https://github.com/sqitchers/sqitch) - Sensible database-native change management for framework-free development and dependable deployment.
+*   [SchemaHero (⭐888)](https://github.com/schemahero/schemahero) - A Kubernetes operator for declarative database schema management (gitops for database schemas).
+*   [Sqitch (⭐2.6k)](https://github.com/sqitchers/sqitch) - Sensible database-native change management for framework-free development and dependable deployment.
 
 ### API / Samples
 
-*   [sandman2 (⭐1.9k)](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database.
+*   [sandman2 (⭐2k)](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database.
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [ASH Viewer (⭐136)](https://github.com/akardapolov/ASH-Viewer) - Provides a graphical view of active session history data within the Oracle and PostgreSQL DB.
-*   [mssql-monitoring (⭐83)](https://github.com/microsoft/mssql-monitoring) - Monitor your SQL Server on Linux performance using collectd, InfluxDB and Grafana.
+*   [ASH Viewer (⭐146)](https://github.com/akardapolov/ASH-Viewer) - Provides a graphical view of active session history data within the Oracle and PostgreSQL DB.
+*   [mssql-monitoring (⭐87)](https://github.com/microsoft/mssql-monitoring) - Monitor your SQL Server on Linux performance using collectd, InfluxDB and Grafana.
 
 ### Testing / Zabbix
 
-*   [RegreSQL (⭐251)](https://github.com/dimitri/regresql) - Regression Testing your SQL queries.
+*   [RegreSQL (⭐260)](https://github.com/dimitri/regresql) - Regression Testing your SQL queries.
 
 ### HA/Failover/Sharding / Zabbix
 
-*   [postgresql\_cluster (⭐728)](https://github.com/vitabaks/postgresql_cluster) - PostgreSQL High-Availability Cluster (based on "Patroni" and "DCS(etcd)"). Automating deployment with Ansible.
+*   [postgresql\_cluster (⭐937)](https://github.com/vitabaks/postgresql_cluster) - PostgreSQL High-Availability Cluster (based on "Patroni" and "DCS(etcd)"). Automating deployment with Ansible.
 
 ### Configuration Tuning / Zabbix
 
-*   [MySQLTuner-perl (⭐8k)](https://github.com/major/MySQLTuner-perl) - Script written in Perl that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.
-*   [postgresqltuner.pl (⭐2.4k)](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice.
+*   [MySQLTuner-perl (⭐8.3k)](https://github.com/major/MySQLTuner-perl) - Script written in Perl that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.
+*   [postgresqltuner.pl (⭐2.5k)](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice.
 
 ### Distributions / Zabbix
 
-*   [DBdeployer (⭐644)](https://github.com/datacharmer/dbdeployer) - Tool that deploys MySQL database servers easily.
-*   [Postgres.app (⭐6.6k)](https://github.com/PostgresApp/PostgresApp) - Full-featured PostgreSQL installation packaged as a standard Mac app.
+*   [DBdeployer (⭐682)](https://github.com/datacharmer/dbdeployer) - Tool that deploys MySQL database servers easily.
+*   [Postgres.app (⭐6.9k)](https://github.com/PostgresApp/PostgresApp) - Full-featured PostgreSQL installation packaged as a standard Mac app.
 *   [BigSQL](https://www.bigsql.org) - A developer-friendly distribution of Postgres.
-*   [Elephant Shed (⭐189)](https://github.com/credativ/elephant-shed) - Web-based PostgreSQL management front-end that bundles several utilities and applications for use with PostgreSQL.
+*   [Elephant Shed (⭐193)](https://github.com/credativ/elephant-shed) - Web-based PostgreSQL management front-end that bundles several utilities and applications for use with PostgreSQL.
 
 ### Security / Zabbix
 
-*   [Acra (⭐1.1k)](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("transparent") encryption. SQL, NoSQL.
+*   [Acra (⭐1.2k)](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("transparent") encryption. SQL, NoSQL.
 
 ## [20. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -1203,8 +1195,7 @@
 
 ### Network / Scanning / Pentesting
 
-*   [Anevicon](https://github.com/rozgo/anevicon) - The most powerful UDP-based load generator, written in Rust.
-*   [Finshir (⭐25)](https://github.com/isgasho/finshir) - A coroutines-driven Low & Slow traffic generator, written in Rust.
+*   [Finshir (⭐27)](https://github.com/isgasho/finshir) - A coroutines-driven Low & Slow traffic generator, written in Rust.
 
 ### Network / Sniffer
 
@@ -1212,7 +1203,7 @@
 
 ### Web / Scanning / Pentesting
 
-*   [Recon-ng (⭐2.7k)](https://github.com/lanmaster53/recon-ng) - Recon-ng is a full-featured Web Reconnaissance framework written in Python. Recon-ng has a look and feel similar to the Metasploit Framework.
+*   [Recon-ng (⭐3k)](https://github.com/lanmaster53/recon-ng) - Recon-ng is a full-featured Web Reconnaissance framework written in Python. Recon-ng has a look and feel similar to the Metasploit Framework.
 
 ## [25. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
@@ -1252,7 +1243,7 @@
 
 ### Miscellaneous
 
-*   [pprint (⭐899)](https://github.com/p-ranav/pprint) - Pretty Printer for Modern C++. \[MIT]
+*   [pprint (⭐903)](https://github.com/p-ranav/pprint) - Pretty Printer for Modern C++. \[MIT]
 
 ## [30. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -1264,42 +1255,42 @@
 
 ### Applications
 
-*   [tiny (⭐847)](https://github.com/osa1/tiny) — A terminal IRC client
+*   [tiny (⭐898)](https://github.com/osa1/tiny) — A terminal IRC client
 
 ### Applications / System tools
 
-*   [dust (⭐6.3k)](https://github.com/bootandy/dust) — A more intuitive version of du
+*   [dust (⭐6.8k)](https://github.com/bootandy/dust) — A more intuitive version of du
 
 ### Applications / Utilities
 
-*   [tversteeg/emplace (⭐214)](https://github.com/tversteeg/emplace) — Synchronize installed packages on multiple machines
+*   [tversteeg/emplace (⭐226)](https://github.com/tversteeg/emplace) — Synchronize installed packages on multiple machines
 
 ### Libraries / Cryptography
 
-*   [dalek-cryptography/curve25519-dalek (⭐675)](https://github.com/dalek-cryptography/curve25519-dalek) — Pure Rust implementation of Curve25519 operations
-*   [dalek-cryptography/ed25519-dalek (⭐612)](https://github.com/dalek-cryptography/ed25519-dalek) — Pure Rust implementation of Ed25519 digital signatures
-*   [dalek-cryptography/x25519-dalek](https://github.com/dalek-cryptography/x25519-dalek) — Pure Rust implementation of X25519 key exchange
-*   [debris/tiny-keccak (⭐170)](https://github.com/debris/tiny-keccak) — Pure Rust implementation of the Keccak family (SHA3)
+*   [dalek-cryptography/curve25519-dalek (⭐737)](https://github.com/dalek-cryptography/curve25519-dalek) — Pure Rust implementation of Curve25519 operations
+*   [dalek-cryptography/ed25519-dalek (⭐639)](https://github.com/dalek-cryptography/ed25519-dalek) — Pure Rust implementation of Ed25519 digital signatures
+*   [dalek-cryptography/x25519-dalek (⭐311)](https://github.com/dalek-cryptography/x25519-dalek) — Pure Rust implementation of X25519 key exchange
+*   [debris/tiny-keccak (⭐183)](https://github.com/debris/tiny-keccak) — Pure Rust implementation of the Keccak family (SHA3)
 
 ## [32. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Templates
 
-*   [EISK (⭐129)](https://github.com/EISK/eisk.webapi) - Provides developer resources with simple use cases to build scalable applications on top of .NET Core with [architectural best practices](https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/common-web-application-architectures) (DDD, onion architecture etc)
+*   [EISK (⭐192)](https://github.com/EISK/eisk.webapi) - Provides developer resources with simple use cases to build scalable applications on top of .NET Core with [architectural best practices](https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/common-web-application-architectures) (DDD, onion architecture etc)
 
 ### Frameworks, Libraries and Tools / Media
 
-*   [MetadataExtractor (⭐718)](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts metadata from media (images, video, audio) with a simple to use API.
+*   [MetadataExtractor (⭐818)](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts metadata from media (images, video, audio) with a simple to use API.
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [AdvanceDLSupport (⭐451)](https://github.com/Firwood-Software/AdvanceDLSupport) - Library to improve P/Invoke-ing native code. Interact with native objects as if they were first class objects.
+*   [AdvanceDLSupport (⭐460)](https://github.com/Firwood-Software/AdvanceDLSupport) - Library to improve P/Invoke-ing native code. Interact with native objects as if they were first class objects.
 
 ## [33. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Frameworks
 
-*   [react-admin (⭐22k)](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications
+*   [react-admin (⭐23k)](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications
 
 ## [34. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
@@ -1324,18 +1315,18 @@
 
 ### Platforms
 
-*   [ESP (⭐597)](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
+*   [ESP (⭐679)](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
 
 ### Events
 
 *   [Events in Italy (⭐145)](https://github.com/ildoc/awesome-italy-events#readme) - Tech-related events in Italy.
-*   [Events in the Netherlands (⭐53)](https://github.com/awkward/awesome-netherlands-events#readme) - Tech-related events in the Netherlands.
+*   [Events in the Netherlands (⭐57)](https://github.com/awkward/awesome-netherlands-events#readme) - Tech-related events in the Netherlands.
 
 ## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Localization / Barcode
 
-*   [CrowdinSDK (⭐101)](https://github.com/crowdin/mobile-sdk-ios) - Delivers all new translations from Crowdin project to the application immediately.
+*   [CrowdinSDK (⭐108)](https://github.com/crowdin/mobile-sdk-ios) - Delivers all new translations from Crowdin project to the application immediately.
 
 ### Layout / Barcode
 
@@ -1343,7 +1334,7 @@
 
 ### UICollectionView / Barcode
 
-*   [ASCollectionView (⭐370)](https://github.com/abdullahselek/ASCollectionView) - Lightweight custom collection view inspired by Airbnb.
+*   [ASCollectionView (⭐372)](https://github.com/abdullahselek/ASCollectionView) - Lightweight custom collection view inspired by Airbnb.
 
 ## [37. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -1443,13 +1434,13 @@
     *   [Good first issues](https://make.wordpress.org/cli/good-first-issues/) - List of issues on that are limited in scope and complexity.
 *   [WP-CLI GitHub organization](https://github.com/wp-cli) - Canonical home of the WP-CLI source code.
     *   [WP-CLI framework repository (⭐4.7k)](https://github.com/wp-cli/wp-cli) - The source code for the WP-CLI framework that powers all of the commands.
-    *   [WP-CLI bundle repository (⭐72)](https://github.com/wp-cli/wp-cli-bundle) - The source for the WP-CLI "binary" and how it is assembled.
+    *   [WP-CLI bundle repository (⭐74)](https://github.com/wp-cli/wp-cli-bundle) - The source for the WP-CLI "binary" and how it is assembled.
     *   [WP-CLI tests repository (⭐30)](https://github.com/wp-cli/wp-cli-tests) - The testing framework used throughout all WP-CLI repositories.
 
 ### Third-party packages / Notable packages
 
-*   [Yoast/wp-cli-faker (⭐55)](https://github.com/Yoast/wp-cli-faker) - Generate fake WordPress and WooCommerce content for testing purposes.
-*   [aaemnnosttv/wp-cli-login-command (⭐266)](https://github.com/aaemnnosttv/wp-cli-login-command) - Login to WordPress with secure passwordless magic links.
+*   [Yoast/wp-cli-faker (⭐59)](https://github.com/Yoast/wp-cli-faker) - Generate fake WordPress and WooCommerce content for testing purposes.
+*   [aaemnnosttv/wp-cli-login-command (⭐269)](https://github.com/aaemnnosttv/wp-cli-login-command) - Login to WordPress with secure passwordless magic links.
 
 ### Tutorials & guides / Notable packages
 
@@ -1471,24 +1462,24 @@
 
 ### Auditing / Logging
 
-*   [Muffin/Footprint plugin (⭐89)](https://github.com/UseMuffin/Footprint) - Plugin to allow passing currently logged in user to model layer.
+*   🍰 [Muffin/Footprint plugin (⭐89)](https://github.com/UseMuffin/Footprint) - Plugin to allow passing currently logged in user to model layer.
 
 ### Authentication and Authorization
 
-*   [CakeDC/Users plugin (⭐510)](https://github.com/CakeDC/users) - Complete user management (admin panel, remember me, etc), Social login (FB, Twitter, LinkedIn, Google, Instagram), RBAC, API and more.
+*   🍰 [CakeDC/Users plugin (⭐513)](https://github.com/CakeDC/users) - Complete user management (admin panel, remember me, etc), Social login (FB, Twitter, LinkedIn, Google, Instagram), RBAC, API and more.
 *   [Muffin/Tokenize plugin (⭐12)](https://github.com/UseMuffin/Tokenize) - Event driven behavior for easily generating single-use security tokens.
 
 ### Migration
 
-*   [Migrations plugin (⭐123)](https://github.com/cakephp/migrations) - (DB) Migration plugin.
+*   🍰 [Migrations plugin (⭐128)](https://github.com/cakephp/migrations) - (DB) Migration plugin.
 
 ### ORM / Database / Datamapping
 
-*   [Muffin/Trash plugin](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP.
+*   🍰 [Muffin/Trash plugin (⭐80)](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP.
 
 ### REST and API
 
-*   [CakeDC/Api plugin (⭐59)](https://github.com/CakeDC/cakephp-api) - All-in-one solution to provide a complete API. It includes versioning, renderers, CRUD, authentication, extensions (paginate, filter, HATEOAS), and much more.
+*   🍰 [CakeDC/Api plugin (⭐59)](https://github.com/CakeDC/cakephp-api) - All-in-one solution to provide a complete API. It includes versioning, renderers, CRUD, authentication, extensions (paginate, filter, HATEOAS), and much more.
 
 ## [44. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
@@ -1591,13 +1582,58 @@
 
 ### Tab Bar
 
-*   [BEKCurveTabbar (⭐170)](https://github.com/behrad-kzm/BEKCurveTabbar) - compatible with XCode +10 and fully customizable via Interface\_Builder panel. BEKCurveTabBar derived UITabBar class and compatible with every iOS devices.
+*   [BEKCurveTabbar (⭐172)](https://github.com/behrad-kzm/BEKCurveTabbar) - compatible with XCode +10 and fully customizable via Interface\_Builder panel. BEKCurveTabBar derived UITabBar class and compatible with every iOS devices.
 
 ### UIPageControl / Collection View Layout
 
 *   [TKRubberIndicator (⭐1.4k)](https://github.com/TBXark/TKRubberIndicator) - Rubber Indicator in Swift.
 
-## [50. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [50. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Hadoop / Spock Framework
+
+*   [Hadoop for Windows Succinctly](https://www.syncfusion.com/ebooks/hadoop-for-windows-succinctly) - Dave Vickers
+
+### JavaScript / Ionic
+
+*   [Ionic 4 Succinctly](https://www.syncfusion.com/ebooks/ionic-4-succinctly) - Ed Freitas
+
+### JavaScript / React
+
+*   [React Succinctly](https://www.syncfusion.com/ebooks/react-succinctly) - Samer Buna
+
+### .NET Framework / PicoLisp
+
+*   [Getting the Most from LINQPad Succinctly](https://www.syncfusion.com/ebooks/getting-the-most-from-linqpad-succinctly) - José Roberto Olivas Mendoza
+*   [MonoGame Succinctly](https://www.syncfusion.com/ebooks/monogame_succinctly) - Jim Perry
+*   [NuGet In-House Succinctly](https://www.syncfusion.com/ebooks/nuget-in-house-succinctly) - José Roberto Olivas Mendoza
+
+### Racket / Tornado
+
+*   [How to Design Programs](https://htdp.org/2019-02-24/) - Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi
+
+### Ruby / Tornado
+
+*   [Mr. Neighborly's Humble Little Ruby Book](https://web.archive.org/web/20180321101922/http://www.humblelittlerubybook.com/book/html/index.html) *(:card\_file\_box: archived)*
+
+### Scala / Lift
+
+*   [Lift Cookbook](https://www.oreilly.com/library/view/lift-cookbook/9781449365042/) - Richard Dallaway
+
+### Smalltalk / Play Scala
+
+*   [Deep into Pharo](http://books.pharo.org/deep-into-pharo/) - Alexandre Bergel, Damien Cassou, Stéphane Ducasse, Jannik Laval
+*   [Numerical Methods with Pharo](http://books.pharo.org/numerical-methods/) - Didier Besset, Stéphane Ducasse, Serge Stinckwich
+
+### SQL (implementation agnostic) / Play Scala
+
+*   [Developing Time-Oriented Database Applications in SQL](https://www2.cs.arizona.edu/~rts/tdbbook.pdf) - Richard T. Snodgrass (PDF)
+
+### SQL Server / Play Scala
+
+*   [SQL Server Metadata Succinctly](https://www.syncfusion.com/ebooks/sql-server-metadata-succinctly) - Joseph D. Booth
+
+## [51. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
@@ -1608,24 +1644,24 @@
 *   [Linting your AWS IAM policy documents for correctness and security issues (⭐31)](https://github.com/xen0l/iam-lint)
 *   [Secret Spreader (⭐34)](https://github.com/webfactory/secret-spreader) - Not an action per se, but a tool to manage Actions Secrets across a list of repositories.
 
-## [51. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [52. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Books
 
 *   [Dancing with Qubits](https://www.robertsutor.com/dancing-with-qubits/) - How quantum computing works and how it can change the world.
 
-## [52. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
+## [53. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
 
 ### Misc/Technical / Hosting
 
 *   [CouchDB - JSON and B-trees and REST, oh my!](https://pozorvlak.livejournal.com/176385.html)
 
-## [53. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [54. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Blockchain
 
 *   [Cocol (⭐19)](https://github.com/cocol-project/cocol) - A minimal blockchain testbed
-*   [secp256k1.cr (⭐45)](https://github.com/q9f/secp256k1.cr) - Elliptic curve used in the public-private-key cryptography
+*   [secp256k1.cr (⭐48)](https://github.com/q9f/secp256k1.cr) - Elliptic curve used in the public-private-key cryptography
 
 ### Cryptography
 
@@ -1635,24 +1671,24 @@
 
 *   [crystal-dns](https://gitlab.com/jgillich/crystal-dns) - DNS protocol implementation and resolver
 
-## [54. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [55. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Karate Club (⭐1.9k)](https://github.com/benedekrozemberczki/karateclub) -> An unsupervised machine learning extension library for NetworkX with a Scikit-Learn like API.
+*   [Karate Club (⭐2k)](https://github.com/benedekrozemberczki/karateclub) -> An unsupervised machine learning extension library for NetworkX with a Scikit-Learn like API.
 *   [neon (⭐3.9k)](https://github.com/NervanaSystems/neon) - Nervana's [high-performance (⭐2.7k)](https://github.com/soumith/convnet-benchmarks) Python-based Deep Learning framework \[DEEP LEARNING]. **\[Deprecated]**
 
 ### Tools / Misc
 
 *   [MachineLearningWithTensorFlow2ed](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition) - a book on general purpose machine learning techniques regression, classification, unsupervised clustering, reinforcement learning, auto encoders, convolutional neural networks, RNNs, LSTMs, using TensorFlow 1.14.1.
 
-## [55. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [56. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / WIP
 
 *   [MAX31855 (⭐4)](https://github.com/cs2dsb/max31855.rs) - SPI - Thermocouple digital converter -![crates.io](https://img.shields.io/crates/v/max31855.svg)
 
-## [56. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [57. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Iconic fonts / Fonts
 
@@ -1662,13 +1698,13 @@
 
 *   [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
-## [57. Amas](/content/sindresorhus/amas/week/README.md)
+## [58. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Ale Muñoz (⭐1)](https://github.com/bomberstudios/ama) - Developer relations at Sketch, plugin developer, designer & digital toolsmith.
 
-## [58. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
+## [59. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
 ### Build Tools to set up performance budget
 
@@ -1680,27 +1716,27 @@
 *   [bundle-buddy](https://bundle-buddy.firebaseapp.com/) - A tool to help you find source code duplication across your JavaScript chunks/splits.
 *   [Parcel plugin Visualizer (⭐273)](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) - A plugin for the parcel bundler to visualise bundle contents.
 
-## [59. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [60. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Miscellaneous
 
-*   [react-pdf-viewer (⭐1.6k)](https://github.com/phuoc-ng/react-pdf-viewer) - [docs](https://react-pdf-viewer.dev) - A React component to view a PDF document.
+*   [react-pdf-viewer (⭐1.8k)](https://github.com/phuoc-ng/react-pdf-viewer) - [docs](https://react-pdf-viewer.dev) - A React component to view a PDF document.
 
 ### Boilerplate / Mouse Events
 
-*   [crisp-react (⭐167)](https://github.com/winwiz1/crisp-react) - Express integration in TypeScript with support for multiple SPAs and pitfall avoidance.
+*   [crisp-react (⭐180)](https://github.com/winwiz1/crisp-react) - Express integration in TypeScript with support for multiple SPAs and pitfall avoidance.
 
 ### Miscellaneous / Mouse Events
 
-*   [react-universal-hooks (⭐180)](https://github.com/salvoravida/react-universal-hooks) - :tada: support react hooks everywhere (Functional or Class Component).
+*   [react-universal-hooks (⭐186)](https://github.com/salvoravida/react-universal-hooks) - :tada: support react hooks everywhere (Functional or Class Component).
 
-## [60. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [61. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Date and Time
 
 *   [Arrow](https://arrow.readthedocs.io/en/latest/) - A Python library that offers a sensible and human-friendly approach to creating, manipulating, formatting and converting dates, times and timestamps.
 
-## [61. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [62. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Fiction / Fantasy
 
@@ -1732,13 +1768,17 @@
 
 
 
-## [62. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [63. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+
+### Network Tools / DDoS Tools
+
+*   [Anevicon](https://github.com/rozgo/anevicon) - Powerful UDP-based load generator, written in Rust.
 
 ### Network Tools / Network Reconnaissance Tools
 
-*   [AQUATONE (⭐5k)](https://github.com/michenriksen/aquatone) - Subdomain discovery tool utilizing various open sources producing a report that can be used as input to other tools.
-*   [OWASP Amass (⭐8.5k)](https://github.com/OWASP/Amass) - Subdomain enumeration via scraping, web archives, brute forcing, permutations, reverse DNS sweeping, TLS certificates, passive DNS data sources, etc.
-*   [subbrute (⭐3k)](https://github.com/TheRook/subbrute) - DNS meta-query spider that enumerates DNS records, and subdomains.
+*   [AQUATONE (⭐5.3k)](https://github.com/michenriksen/aquatone) - Subdomain discovery tool utilizing various open sources producing a report that can be used as input to other tools.
+*   [OWASP Amass (⭐10k)](https://github.com/OWASP/Amass) - Subdomain enumeration via scraping, web archives, brute forcing, permutations, reverse DNS sweeping, TLS certificates, passive DNS data sources, etc.
+*   [subbrute (⭐3.2k)](https://github.com/TheRook/subbrute) - DNS meta-query spider that enumerates DNS records, and subdomains.
 
 ### Network Vulnerability Scanners / Wireless Network Tools
 

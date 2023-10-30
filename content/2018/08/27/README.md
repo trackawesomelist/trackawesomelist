@@ -34,7 +34,7 @@
 
 ### Miscellaneous
 
-*   [FIRST Robotics Competition (⭐91)](https://github.com/andrewda/awesome-frc#readme) - International high school robotics championship.
+*   [FIRST Robotics Competition (⭐95)](https://github.com/andrewda/awesome-frc#readme) - International high school robotics championship.
 
 ## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

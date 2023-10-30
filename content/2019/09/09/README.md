@@ -10,13 +10,13 @@
 
 ### Key Value Store
 
-*   [SwiftyUserDefaults (⭐4.7k)](https://github.com/sunshinejr/SwiftyUserDefaults) - Cleaner, nicer syntax for NSUserDefaults.
+*   [SwiftyUserDefaults (⭐4.8k)](https://github.com/sunshinejr/SwiftyUserDefaults) - Cleaner, nicer syntax for NSUserDefaults.
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Web / MIT
+### Web / Apache License
 
-*   [yass (⭐21)](https://github.com/yet-another-static-site-generator/yass) - Yet Another Static Site Generator (like Jekyll or Hugo).
+*   [yass (⭐23)](https://github.com/yet-another-static-site-generator/yass) - Yet Another Static Site Generator (like Jekyll or Hugo).
 
 ## [3. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 
@@ -43,7 +43,7 @@
 *   Code Linters
     *   [flake8](https://pypi.org/project/flake8/) - A wrapper around `pycodestyle`, `pyflakes` and McCabe.
         *   [awesome-flake8-extensions (⭐1.1k)](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
-    *   [pylama (⭐979)](https://github.com/klen/pylama) - A code audit tool for Python and JavaScript.
+    *   [pylama (⭐1k)](https://github.com/klen/pylama) - A code audit tool for Python and JavaScript.
     *   [pylint](https://www.pylint.org/) - A fully customizable source code analyzer.
     *   [wemake-python-styleguide (⭐2.2k)](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever.
 
@@ -66,7 +66,7 @@
 
 ### Miscellaneous / Related
 
-*   [Awesome Gamedev (⭐1.9k)](https://github.com/Calinou/awesome-gamedev) - Collection of open-source games.
+*   [Awesome Gamedev (⭐2k)](https://github.com/Calinou/awesome-gamedev) - Collection of open-source games.
 
 ---
 

@@ -16,15 +16,15 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [dotvvm (⭐631)](https://github.com/riganti/dotvvm) - Open source MVVM framework for Web Apps.
+*   [dotvvm (⭐701)](https://github.com/riganti/dotvvm) - Open source MVVM framework for Web Apps.
 
 ### Frameworks, Libraries and Tools / IOC
 
-*   [Grace (⭐290)](https://github.com/ipjohnson/Grace) - Grace is a feature rich Dependency Injection Container designed with ease of use and performance in mind.
+*   [Grace (⭐326)](https://github.com/ipjohnson/Grace) - Grace is a feature rich Dependency Injection Container designed with ease of use and performance in mind.
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [PuppeteerSharp (⭐2.4k)](https://github.com/kblok/puppeteer-sharp) - Puppeteer Sharp is a .NET port of the official Node.JS Puppeteer API.
+*   [PuppeteerSharp (⭐2.9k)](https://github.com/kblok/puppeteer-sharp) - Puppeteer Sharp is a .NET port of the official Node.JS Puppeteer API.
 
 ## [3. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 

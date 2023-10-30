@@ -24,7 +24,7 @@
 
 ### Specifications
 
-*   [Cloud Native Application Bundle Specification (⭐899)](https://github.com/deislabs/cnab-spec)\
+*   [Cloud Native Application Bundle Specification (⭐922)](https://github.com/deislabs/cnab-spec)\
     A package format specification that describes a technology for bundling, installing, and managing distributed applications, that are by design, cloud agnostic.
 
 ## [4. Awesome Html5](/content/diegocard/awesome-html5/README.md)

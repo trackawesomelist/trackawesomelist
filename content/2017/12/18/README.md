@@ -10,7 +10,7 @@
 
 ### Modules / Other
 
-*   [uuid (⭐13k)](https://github.com/kelektiv/node-uuid) - Generate RFC-compliant UUIDs in JavaScript.
+*   [uuid (⭐14k)](https://github.com/kelektiv/node-uuid) - Generate RFC-compliant UUIDs in JavaScript.
 
 ## [2. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -33,16 +33,16 @@
 
 ### Frameworks, Libraries and Tools / ORM
 
-*   [Dapper (⭐15k)](https://github.com/StackExchange/Dapper) - Simple object mapper for .NET.
-    *   [Dapper-FluentMap (⭐403)](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
-    *   [Dommel (⭐430)](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
-    *   [MicroOrm.Dapper.Repositories (⭐546)](https://github.com/phnx47/MicroOrm.Dapper.Repositories) - CRUD for Dapper.
+*   [Dapper (⭐17k)](https://github.com/StackExchange/Dapper) - Simple object mapper for .NET.
+    *   [Dapper-FluentMap (⭐426)](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
+    *   [Dommel (⭐513)](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
+    *   [MicroOrm.Dapper.Repositories (⭐608)](https://github.com/phnx47/MicroOrm.Dapper.Repositories) - CRUD for Dapper.
 
 ## [5. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Read-Write
 
-*   [stempeg (⭐75)](https://github.com/faroit/stempeg) [:octocat: (⭐75)](https://github.com/faroit/stempeg) [:package:](https://pypi.python.org/pypi/stempeg/) - read/write of STEMS multistream audio.
+*   [stempeg (⭐79)](https://github.com/faroit/stempeg) [:octocat: (⭐79)](https://github.com/faroit/stempeg) [:package:](https://pypi.python.org/pypi/stempeg/) - read/write of STEMS multistream audio.
 
 ## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
@@ -64,12 +64,12 @@
 
 ### Video
 
-*   [Vireo (⭐899)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
+*   [Vireo (⭐910)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
 
 ### Articles
 
-*   [C++Now 2017 Presentations (⭐470)](https://github.com/boostcon/cppnow_presentations_2017) - Presentation materials presented at C++Now 2017.
-*   [C++Now 2016 Presentations (⭐80)](https://github.com/boostcon/cppnow_presentations_2016) - Presentation materials presented at C++Now 2016.
+*   [C++Now 2017 Presentations (⭐473)](https://github.com/boostcon/cppnow_presentations_2017) - Presentation materials presented at C++Now 2017.
+*   [C++Now 2016 Presentations (⭐79)](https://github.com/boostcon/cppnow_presentations_2016) - Presentation materials presented at C++Now 2016.
 
 ---
 

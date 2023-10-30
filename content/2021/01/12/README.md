@@ -14,7 +14,7 @@
 
 ### Sorting
 
-*   [Indiesort (⭐16)](https://github.com/mattreecebentley/plf_indiesort) - A sort wrapper which enables the use of std::sort (& other random-access sort functions) with non-random-access containers, and also improves sort performance for large/non-trivially-copyable types in random-access containers and arrays. \[zLib] [website](https://plflib.org/indiesort.htm)
+*   [Indiesort (⭐17)](https://github.com/mattreecebentley/plf_indiesort) - A sort wrapper which enables the use of std::sort (& other random-access sort functions) with non-random-access containers, and also improves sort performance for large/non-trivially-copyable types in random-access containers and arrays. \[zLib] [website](https://plflib.org/indiesort.htm)
 
 ## [2. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Others
 
-*   [Refactoring Golf Kata (⭐43)](https://github.com/daviddenton/refactoring-golf)
+*   [Refactoring Golf Kata (⭐48)](https://github.com/daviddenton/refactoring-golf)
 
 ## [4. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
@@ -38,17 +38,17 @@
 
 ### Arcade
 
-*   [OpenTyrian (⭐310)](https://github.com/opentyrian/opentyrian) - An open-source port of Tyrian from Turbo Pascal to C.
+*   [OpenTyrian (⭐338)](https://github.com/opentyrian/opentyrian) - An open-source port of Tyrian from Turbo Pascal to C.
 
 ### Online
 
-*   [Ryzom Core (⭐270)](https://github.com/ryzom/ryzomcore) - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom.
+*   [Ryzom Core (⭐293)](https://github.com/ryzom/ryzomcore) - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom.
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Gradio (⭐17k)](https://github.com/gradio-app/gradio) - A Python library for quickly creating and sharing demos of models. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
+*   [Gradio (⭐22k)](https://github.com/gradio-app/gradio) - A Python library for quickly creating and sharing demos of models. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
 
 ## [7. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 
@@ -60,13 +60,13 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [BluetoothCommunicatorExample (⭐43)](https://github.com/niedev/BluetoothCommunicatorExample) - Bluetooth LE chat app to communicate between android devices with P2P architecture. ([Clients (⭐101)](https://github.com/niedev/RTranslator)) `Apache-2.0` `Java`
+*   [BluetoothCommunicatorExample (⭐54)](https://github.com/niedev/BluetoothCommunicatorExample) - Bluetooth LE chat app to communicate between android devices with P2P architecture. ([Clients (⭐120)](https://github.com/niedev/RTranslator)) `Apache-2.0` `Java`
 
 ## [9. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Security
 
-*   [SI Snitch (⭐3)](https://github.com/KayeeNL/SI-Snitch) - A debugging tool for reading claims passed to Sitecore from Sitecore Identity, after transformation of those claims from Sitecore Identity. It can be helpful in identifying claims that Sitecore is getting (and in what format) and ensuring group transformations in Sitecore Identity are being processed properly.
+*   [SI Snitch (⭐4)](https://github.com/KayeeNL/SI-Snitch) - A debugging tool for reading claims passed to Sitecore from Sitecore Identity, after transformation of those claims from Sitecore Identity. It can be helpful in identifying claims that Sitecore is getting (and in what format) and ensuring group transformations in Sitecore Identity are being processed properly.
 
 ## [10. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
@@ -78,8 +78,8 @@
 
 ### WebAssembly
 
-*   [lumen (⭐3.4k)](https://github.com/lumen/lumen) - An alternative BEAM implementation, designed for WebAssembly.
-*   [wasmex (⭐371)](https://github.com/tessi/wasmex/) - Execute WebAssembly / WASM binaries from Elixir.
+*   [lumen (⭐3.5k)](https://github.com/lumen/lumen) - An alternative BEAM implementation, designed for WebAssembly.
+*   [wasmex (⭐440)](https://github.com/tessi/wasmex/) - Execute WebAssembly / WASM binaries from Elixir.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -93,11 +93,6 @@
 
 ## [13. Awesome React](/content/enaqx/awesome-react/README.md)
 
-### React Component Libraries
-
-*   [evergreen (⭐12k)](https://github.com/segmentio/evergreen) - Evergreen React UI Framework by Segment
-*   [grommet (⭐8.2k)](https://github.com/grommet/grommet) - A react-based framework that provides accessibility, modularity, responsiveness, and theming
-
 ### React Forms
 
 *   [react-jsonschema-form (⭐13k)](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSON Schema
@@ -110,7 +105,7 @@
 
 ### Miscellaneous
 
-*   [Veganism (⭐53)](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
+*   [Veganism (⭐58)](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
 
 ---
 

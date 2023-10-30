@@ -33,8 +33,8 @@
 
 ### Frameworks, Libraries and Tools / Compilers, Transpilers and Languages
 
-*   [roslyn (⭐17k)](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs.
-*   [Sprache (⭐2k)](https://github.com/sprache/Sprache) - Tiny C# Monadic Parser Framework.
+*   [roslyn (⭐18k)](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs.
+*   [Sprache (⭐2.2k)](https://github.com/sprache/Sprache) - Tiny C# Monadic Parser Framework.
 
 ## [5. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Libraries
 
-*   [bluebird-promisell (⭐46)](https://github.com/zhangchiqing/bluebird-promisell) - A practical functional programming library for promises.
+*   [bluebird-promisell (⭐44)](https://github.com/zhangchiqing/bluebird-promisell) - A practical functional programming library for promises.
 
 ## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

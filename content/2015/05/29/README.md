@@ -37,14 +37,14 @@
 
 ### operations
 
-*   [geojson-coords (⭐29)](https://github.com/mapbox/geojson-coords): Extract coordinates from GeoJSON
-*   [geojson-js-utils (⭐402)](https://github.com/maxogden/geojson-js-utils): JavaScript helper functions for manipulating GeoJSON
-*   [geojson-merge (⭐221)](https://github.com/mapbox/geojson-merge): Merge multiple GeoJSON files into one FeatureCollection.
+*   [geojson-coords (⭐30)](https://github.com/mapbox/geojson-coords): Extract coordinates from GeoJSON
+*   [geojson-js-utils (⭐403)](https://github.com/maxogden/geojson-js-utils): JavaScript helper functions for manipulating GeoJSON
+*   [geojson-merge (⭐227)](https://github.com/mapbox/geojson-merge): Merge multiple GeoJSON files into one FeatureCollection.
 *   [geojson-normalize (⭐30)](https://github.com/mapbox/geojson-normalize): normalize any geojson object into a geojson featurecollection
 *   [geojson-pick](https://www.npmjs.com/package/geojson-pick): remove all but specified properties from features in a geojson featurecollection
 *   [geojson-summary (⭐33)](https://github.com/mapbox/geojson-summary): get a plain-english summary of what's in a geojson file
 *   [point-grouper](https://github.com/substack/point-grouper): group geojson points into containing polygons
-*   [simplify-geojson (⭐165)](https://github.com/maxogden/simplify-geojson): apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
+*   [simplify-geojson (⭐170)](https://github.com/maxogden/simplify-geojson): apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
 
 ### services
 
@@ -57,13 +57,13 @@
 *   [geojson-vt (⭐1.7k)](https://github.com/mapbox/geojson-vt): Slice GeoJSON into vector tiles on the fly in the browser
 *   [geojson2rtree (⭐9)](https://github.com/maxogden/geojson2rtree): generate a static rtree (using terraformer) from a set of geojson features
 *   [ogr2ogr](http://www.gdal.org/ogr2ogr.html): convert anything to anything
-    *   [fiona (⭐1k)](https://github.com/toblerity/fiona): nice python interface on top of ogr
+    *   [fiona (⭐1.1k)](https://github.com/toblerity/fiona): nice python interface on top of ogr
 *   [shp2json](https://github.com/substack/shp2json): convert shapefile zip archives to streaming GeoJSON
 
 ### data
 
 *   [natural earth](http://www.naturalearthdata.com/): country, province, and geographical data
-*   [openflights-geojson (⭐25)](https://github.com/tmcw/openflights-geojson): [openflights](http://openflights.org/) airports & airplane routes
+*   [openflights-geojson (⭐26)](https://github.com/tmcw/openflights-geojson): [openflights](http://openflights.org/) airports & airplane routes
 
 ---
 

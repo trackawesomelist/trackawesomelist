@@ -11,17 +11,12 @@
 ### Contents / Specifications
 
 *   [FHIR](https://www.hl7.org/fhir/) - Fast Health Interoperability Resources.
-*   [StandardHealthRecord](http://standardhealthrecord.org/) - Open specification for health record format, aiming to be more precise than existing formats.
-
-### Contents / Laboratory
-
-*   [OpenELIS](https://sites.google.com/site/openelisglobal/) - Laboratory Information System for Global Health.
 
 ### Contents / Libraries
 
-*   [fhir.js (⭐375)](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR.
+*   [fhir.js (⭐384)](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR.
 *   [Node HL7 (⭐50)](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library.
-*   [Ruby FHIR (⭐146)](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
+*   [Ruby FHIR (⭐149)](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
 *   [Ruby HL7 (⭐96)](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
 
 ### Contents / Applications
@@ -65,7 +60,7 @@
 
 ### Libraries and Frameworks / Elixir
 
-*   [eventstore (⭐908)](https://github.com/slashdotdash/eventstore) - CQRS event store using PostgreSQL for persistence.
+*   [eventstore (⭐962)](https://github.com/slashdotdash/eventstore) - CQRS event store using PostgreSQL for persistence.
 
 ## [7. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
@@ -146,7 +141,7 @@
 
 ### Software / Algorithms
 
-*   [algo.graph (⭐16)](https://github.com/clojure/algo.graph) - Basic graph theory algorithms written in Clojure.
+*   [algo.graph (⭐15)](https://github.com/clojure/algo.graph) - Basic graph theory algorithms written in Clojure.
 
 ### Software / C / C++
 
@@ -198,7 +193,7 @@
 
 ### URL Manipulation
 
-*   [furl (⭐2.4k)](https://github.com/gruns/furl) - A small Python library that makes parsing and manipulating URLs easy.
+*   [furl (⭐2.5k)](https://github.com/gruns/furl) - A small Python library that makes parsing and manipulating URLs easy.
 
 ---
 

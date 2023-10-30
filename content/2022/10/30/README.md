@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 30, 2022
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Editors
 
-*   [vPDF (⭐70)](https://github.com/vlang/pdf) - A module to simplify PDF file creation using the V programming language.
+*   [vPDF (⭐75)](https://github.com/vlang/pdf) - A module to simplify PDF file creation using the V programming language.
 
 ### Web
 
@@ -28,14 +28,14 @@
     *   [k-nearest neighbor](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
     *   [Support Vector Machines](https://en.wikipedia.org/wiki/Support_vector_machine)
     *   [Decision Trees](https://en.wikipedia.org/wiki/Decision_tree)
-    *   ID3 algorithm
-    *   C4.5 algorithm
+    *   [ID3 algorithm](https://en.wikipedia.org/wiki/ID3_algorithm)
+    *   [C4.5 algorithm](https://en.wikipedia.org/wiki/C4.5_algorithm)
 
 ## [3. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Monitoring
 
-*   [HertzBeat (⭐3k)](https://github.com/dromara/hertzbeat) - An open-source real-time monitoring system with custom-monitor and agentless.
+*   [HertzBeat (⭐3.6k)](https://github.com/dromara/hertzbeat) - An open-source real-time monitoring system with custom-monitor and agentless.
 
 ## [4. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 
@@ -73,27 +73,27 @@
 
 ### Motion / Diagnostics
 
-*   [woosaaahh/sj.nvim (⭐103)](https://github.com/woosaaahh/sj.nvim) - Search based navigation combined with quick jump features.
+*   [woosaaahh/sj.nvim (⭐106)](https://github.com/woosaaahh/sj.nvim) - Search based navigation combined with quick jump features.
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [pmwmedia/tinylog (⭐600)](https://github.com/pmwmedia/tinylog) - Lightweight logging framework with native logging API for Kotlin.
+*   [pmwmedia/tinylog (⭐629)](https://github.com/pmwmedia/tinylog) - Lightweight logging framework with native logging API for Kotlin.
 
 ### Android / Libraries
 
-*   [MarcinMoskala/ActivityStarter (⭐427)](https://github.com/MarcinMoskala/ActivityStarter)
+*   [MarcinMoskala/ActivityStarter (⭐428)](https://github.com/MarcinMoskala/ActivityStarter)
 *   [MarcinMoskala/KotlinPreferences (⭐50)](https://github.com/MarcinMoskala/KotlinPreferences)
 *   [MarcinMoskala/PreferenceHolder (⭐156)](https://github.com/MarcinMoskala/PreferenceHolder)
-*   [pawegio/KAndroid (⭐893)](https://github.com/pawegio/KAndroid)
+*   [pawegio/KAndroid (⭐894)](https://github.com/pawegio/KAndroid)
 *   [chibatching/Kotpref (⭐694)](https://github.com/chibatching/Kotpref)
 *   [TouK/bubble (⭐99)](https://github.com/TouK/bubble)
-*   [mcxiaoke/kotlin-koi (⭐517)](https://github.com/mcxiaoke/kotlin-koi)
+*   [mcxiaoke/kotlin-koi (⭐516)](https://github.com/mcxiaoke/kotlin-koi)
 
 ### Android / Frameworks
 
-*   [0xe1f/ararat (⭐29)](https://github.com/0xe1f/ararat)
+*   [0xe1f/ararat (⭐30)](https://github.com/0xe1f/ararat)
 
 ## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -105,15 +105,33 @@
 
 ### Apps / Productivity
 
-*   [Dino (⭐1.9k)](https://github.com/dino/dino) - A modern Jabber/XMPP Client using GTK+/Vala.
+*   [Dino (⭐2k)](https://github.com/dino/dino) - A modern Jabber/XMPP Client using GTK+/Vala.
 
-## [9. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [9. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### C# / Non-X86
+
+*   [C# Features Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/c-sharp-features-succinctly) - Dirk Strauss (HTML)
+
+### JavaScript / Wicket
+
+*   [Functional-Light JavaScript (⭐16k)](https://github.com/getify/Functional-Light-JS) - Kyle Simpson (HTML)
+
+### JavaScript / AngularJS
+
+*   [Angular Testing Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/angular-testing-succinctly) - Joseph D. Booth (HTML)
+
+### Scratch / Play Scala
+
+*   [Code Club Book of Scratch](https://magpi.raspberrypi.com/books/book-of-scratch) - Rik Cross, Tracy Gardner (PDF)
+
+## [10. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Developing for ESLint / Testing Tools
 
-*   [eslint-doc-generator (⭐68)](https://github.com/bmish/eslint-doc-generator) - Generate documentation for your ESLint plugin including a rules table for your readme and header for your rule docs.
+*   [eslint-doc-generator (⭐73)](https://github.com/bmish/eslint-doc-generator) - Generate documentation for your ESLint plugin including a rules table for your readme and header for your rule docs.
 
-## [10. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
+## [11. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
 
 ### Languages
 

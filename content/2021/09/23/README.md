@@ -8,7 +8,7 @@
 
 ## [1. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
-### Terraform Enterprise / Vendor supported providers
+### Terraform Enterprise / IDE
 
 *   [env0](https://env0.com) - Alternative to Terraform Cloud/Enterprise with OPA integration, custom flows and Terragrunt support :heavy\_dollar\_sign:
 
@@ -53,7 +53,7 @@
 
 ### Web Programming • Libraries
 
-*   [Theatre.js (⭐9.1k)](https://github.com/ariaminaei/theatre) - Motion design library with visual tools
+*   [Theatre.js (⭐9.6k)](https://github.com/ariaminaei/theatre) - Motion design library with visual tools
 
 ### Schools • Workshops / Other
 

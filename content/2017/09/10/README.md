@@ -57,7 +57,7 @@
 
 *   [**Basscss**](https://basscss.com) - Low-level CSS toolkit.\
     ![](https://img.shields.io/github/stars/basscss/basscss.svg?style=social\&label=Star)
-    [Repo (⭐5.7k)](https://github.com/basscss/basscss/)
+    [Repo (⭐5.8k)](https://github.com/basscss/basscss/)
 *   [**Cutestrap**](https://www.cutestrap.com) - Sassy, opinionated CSS framework, a tiny alternative to Bootstrap.\
     ![](https://img.shields.io/github/stars/tylerchilds/cutestrap.svg?style=social\&label=Star)
     [Repo (⭐1.6k)](https://github.com/tylerchilds/cutestrap)
@@ -66,7 +66,7 @@
 
 ### Style Guides / Components
 
-*   [Shared TSLint & codelyzer rules by fulls1z3 (⭐176)](https://github.com/ng-seed/angular-tslint-rules)
+*   [Shared TSLint & codelyzer rules by fulls1z3 (⭐173)](https://github.com/ng-seed/angular-tslint-rules)
 
 ---
 

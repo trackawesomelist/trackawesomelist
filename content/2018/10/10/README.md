@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 10, 2018
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -54,44 +54,44 @@
 
 ### Open Directories / Free Indexers
 
-*   [httpdirfs (⭐612)](https://github.com/fangfufu/httpdirfs) A filesystem which allows you to mount HTTP directory listings
+*   [httpdirfs (⭐660)](https://github.com/fangfufu/httpdirfs) A filesystem which allows you to mount HTTP directory listings
 
 ### Plex Plugins / Third Party Hosts
 
-*   [WebTools.bundle (⭐1.2k)](https://github.com/ukdtom/WebTools.bundle) a collection of tools for Plex Media Server. Like the Unsupported AppStore (UAS)
-*   [Audiobooks.bundle (⭐557)](https://github.com/macr0dev/Audiobooks.bundle) Plex metadata scraper for Audiobooks
-*   [TvplexendChannel.bundle (⭐66)](https://github.com/pgaubatz/TvplexendChannel.bundle) A Tvheadend Channel Plugin for PLEX Media Server
-*   [IPTV.bundle (⭐845)](https://github.com/Cigaras/IPTV.bundle) plays live streams (like IPTV) from an M3U playlist
-*   [HDGrandSlam.bundle (⭐77)](https://github.com/jumpmanjay/HDGrandSlam.bundle) interfaces with HDHomeRun tuners and DVRs
-*   [HDHRViewerV2.bundle (⭐94)](https://github.com/zynine-/HDHRViewerV2.bundle) HDHomeRun + Plex
+*   [WebTools.bundle (⭐1.3k)](https://github.com/ukdtom/WebTools.bundle) a collection of tools for Plex Media Server. Like the Unsupported AppStore (UAS)
+*   [Audiobooks.bundle (⭐573)](https://github.com/macr0dev/Audiobooks.bundle) Plex metadata scraper for Audiobooks
+*   [TvplexendChannel.bundle (⭐68)](https://github.com/pgaubatz/TvplexendChannel.bundle) A Tvheadend Channel Plugin for PLEX Media Server
+*   [IPTV.bundle (⭐902)](https://github.com/Cigaras/IPTV.bundle) plays live streams (like IPTV) from an M3U playlist
+*   [HDGrandSlam.bundle (⭐78)](https://github.com/jumpmanjay/HDGrandSlam.bundle) interfaces with HDHomeRun tuners and DVRs
+*   [HDHRViewerV2.bundle (⭐95)](https://github.com/zynine-/HDHRViewerV2.bundle) HDHomeRun + Plex
 *   [SS Plex](https://mikew.github.io/ss-plex.bundle/) Imagine if all the media scattered around the internet could be found in one collection.
-*   [ExportTools.bundle (⭐324)](https://github.com/ukdtom/ExportTools.bundle) Export Plex Library to a csv, xlsx or m3u8 file
+*   [ExportTools.bundle (⭐331)](https://github.com/ukdtom/ExportTools.bundle) Export Plex Library to a csv, xlsx or m3u8 file
 *   [Plex-Trakt-Scrobbler (⭐1.4k)](https://github.com/trakt/Plex-Trakt-Scrobbler) Add what you are watching on Plex to trakt.tv
 *   [Moviemania.bundle](https://www.reddit.com/r/MoviemaniaHQ/comments/6znf6b/plex_pluginagent_beta_1/) Textless movie posters from Moviemania.io
-*   [lmwt-kiss.bundle (⭐17)](https://github.com/Twoure/lmwt-kiss.bundle) creates a new channel within Plex Media Server (PMS) to view content from PrimeWire.
-*   [RequestChannel.bundle (⭐156)](https://github.com/ngovil21/RequestChannel.bundle) A Plex Channel to create requests
+*   [lmwt-kiss.bundle (⭐18)](https://github.com/Twoure/lmwt-kiss.bundle) creates a new channel within Plex Media Server (PMS) to view content from PrimeWire.
+*   [RequestChannel.bundle (⭐158)](https://github.com/ngovil21/RequestChannel.bundle) A Plex Channel to create requests
 
 ### Plex Requests / Third Party Hosts
 
-*   [plexrequests-meteor (⭐534)](https://github.com/lokenx/plexrequests-meteor) Meteor version of the original Plex Requests
+*   [plexrequests-meteor (⭐532)](https://github.com/lokenx/plexrequests-meteor) Meteor version of the original Plex Requests
 
 ### Plex Scripts and Tools / Third Party Hosts
 
-*   [JBOPS (⭐1.3k)](https://github.com/blacktwin/JBOPS) Just a Bunch Of Plex Scripts
-*   [plex\_autoscan (⭐391)](https://github.com/l3uddz/plex_autoscan) Script to assist sonarr/radarr with plex imports.
-*   [plexupdate (⭐1.6k)](https://github.com/mrworf/plexupdate) script to simplify the life of Linux Plex Media Server users.
-*   [Transmogrify (⭐66)](https://github.com/Transmogrify-for-Plex/Transmogrify-for-Plex-chrome) A Chrome extension that adds several features to the Plex/Web 2.0 client for Plex
-*   [PlexAuth (⭐102)](https://github.com/hjone72/PlexAuth) Plex based authentication using PHP
-*   [Phlex (⭐616)](https://github.com/d8ahazard/Phlex) A super-sexy voice interface for the Plex HTPC
+*   [JBOPS (⭐1.4k)](https://github.com/blacktwin/JBOPS) Just a Bunch Of Plex Scripts
+*   [plex\_autoscan (⭐400)](https://github.com/l3uddz/plex_autoscan) Script to assist sonarr/radarr with plex imports.
+*   [plexupdate (⭐1.7k)](https://github.com/mrworf/plexupdate) script to simplify the life of Linux Plex Media Server users.
+*   [Transmogrify (⭐70)](https://github.com/Transmogrify-for-Plex/Transmogrify-for-Plex-chrome) A Chrome extension that adds several features to the Plex/Web 2.0 client for Plex
+*   [PlexAuth (⭐105)](https://github.com/hjone72/PlexAuth) Plex based authentication using PHP
+*   [Phlex (⭐615)](https://github.com/d8ahazard/Phlex) A super-sexy voice interface for the Plex HTPC
 
 ### Plex Transcoding / Third Party Hosts
 
-*   [kube-plex (⭐1.1k)](https://github.com/munnerz/kube-plex) Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster!
-*   [UnicornTranscoder (⭐613)](https://github.com/UnicornTranscoder/UnicornTranscoder) a remote transcoder for Plex Media Server
+*   [kube-plex (⭐1.2k)](https://github.com/munnerz/kube-plex) Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster!
+*   [UnicornTranscoder (⭐646)](https://github.com/UnicornTranscoder/UnicornTranscoder) a remote transcoder for Plex Media Server
 
 ### Cloud Storage / Third Party Hosts
 
-*   [google-drive-ocamlfuse (⭐4.8k)](https://github.com/astrada/google-drive-ocamlfuse) FUSE filesystem over Google Drive
+*   [google-drive-ocamlfuse (⭐5.1k)](https://github.com/astrada/google-drive-ocamlfuse) FUSE filesystem over Google Drive
 
 ### Torrent Apps / Third Party Hosts
 
@@ -167,20 +167,13 @@
 *   [cl-yacclyaml (⭐13)](https://github.com/mabragor/cl-yaclyaml) - a pure lisp YAML processor (loader, but not yet dumper). [GPL3](http://www.gnu.org/copyleft/gpl.html).
 *   [cl-yaml](https://github.com/eudoxia0/cl-yaml.git) - a YAML parser and emitter built on top of libyaml. [MIT](https://opensource.org/licenses/MIT).
 
-## [14. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
-
-### Apps
-
-*   [ipfs-search](https://ipfs-search.com) - Searching the universe since 2016.
-    Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search API's available. [Source (⭐723)](https://github.com/ipfs-search/ipfs-search)
-
-## [15. Awesome Educational Games](/content/yrgo/awesome-educational-games/README.md)
+## [14. Awesome Educational Games](/content/yrgo/awesome-educational-games/README.md)
 
 ### Math & Computer Science
 
 *   [Guess The Correlation](http://guessthecorrelation.com/) - Try to guess how correlated the two variables in a scatter plot are.
 
-## [16. Public Apis](/content/public-apis/public-apis/README.md)
+## [15. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Business
 

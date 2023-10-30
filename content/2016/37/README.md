@@ -56,7 +56,7 @@
 
 ### Frameworks, Libraries and Tools / Bundling and Minification
 
-*   [Web Markup Minifier (⭐384)](https://github.com/Taritsyn/WebMarkupMin) - .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
+*   [Web Markup Minifier (⭐417)](https://github.com/Taritsyn/WebMarkupMin) - .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
 
 ## [7. Bots](/content/hackerkid/bots/week/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Plugins
 
-*   [tmux-fingers (⭐739)](https://github.com/Morantron/tmux-fingers) copy pasting in terminal with vimium/vimperator like hints.
+*   [tmux-fingers (⭐818)](https://github.com/Morantron/tmux-fingers) copy pasting in terminal with vimium/vimperator like hints.
 
 ## [9. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Build Tools / Bare metal / kernel development
 
-*   [dub (⭐627)](https://github.com/dlang/dub) - De facto official package and build management system for D. Will be included officially soon.
+*   [dub (⭐640)](https://github.com/dlang/dub) - De facto official package and build management system for D. Will be included officially soon.
 
 ### Compilers / Bare metal / kernel development
 
@@ -102,7 +102,7 @@
 
 ### IDEs & Editors / Bare metal / kernel development
 
-*   [Visual D (⭐284)](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language.
+*   [Visual D (⭐285)](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language.
 
 ## [12. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
@@ -238,7 +238,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Algebra / Linear Algebra
 
-*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐481)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐488)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 
 ## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -259,7 +259,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Text / Barcode
 
-*   [Parsey (⭐57)](https://github.com/rxwei/Parsey) - Parser combinator framework that supports source location tracking, backtracking prevention, and rich error messages.
+*   [Parsey (⭐58)](https://github.com/rxwei/Parsey) - Parser combinator framework that supports source location tracking, backtracking prevention, and rich error messages.
 
 ## [22. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -285,7 +285,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Artificial Intelligence
 
-*   [simple\_bayes (⭐388)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
+*   [simple\_bayes (⭐391)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
 
 ### Authentication
 
@@ -293,11 +293,11 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Macros
 
-*   [pipe\_to (⭐84)](https://github.com/taiansu/pipe_to) - The enhanced pipe operator which can specify the target position.
+*   [pipe\_to (⭐85)](https://github.com/taiansu/pipe_to) - The enhanced pipe operator which can specify the target position.
 
 ### Queue
 
-*   [RBMQ (⭐21)](https://github.com/Nebo15/rbmq) - Simple API for spawning RabbitMQ Producers and Consumers.
+*   [RBMQ (⭐22)](https://github.com/Nebo15/rbmq) - Simple API for spawning RabbitMQ Producers and Consumers.
 
 ### Testing
 
@@ -309,7 +309,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Editors
 
-*   [elixir-tmbundle (⭐260)](https://github.com/elixir-lang/elixir-tmbundle) - A TextMate and SublimeText bundle for Elixir.
+*   [elixir-tmbundle (⭐261)](https://github.com/elixir-lang/elixir-tmbundle) - A TextMate and SublimeText bundle for Elixir.
 
 ## [25. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
@@ -731,7 +731,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Graphics
 
-*   [OpenTK (⭐2.8k)](https://github.com/opentk/opentk) - The Open Toolkit is an advanced, low-level C# library that wraps OpenGL, OpenCL and OpenAL
+*   [OpenTK (⭐2.9k)](https://github.com/opentk/opentk) - The Open Toolkit is an advanced, low-level C# library that wraps OpenGL, OpenCL and OpenAL
 
 ### Image Processing
 
@@ -739,20 +739,20 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### JavaScript Engines
 
-*   [Jint (⭐3.3k)](https://github.com/sebastienros/jint) - JavaScript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET platform.
-*   [Jurassic (⭐764)](https://github.com/paulbartrum/jurassic) - A implementation of the ECMAScript language and runtime. It aims to provide the best performing and most standards-compliant implementation of JavaScript for .NET.
+*   [Jint (⭐3.5k)](https://github.com/sebastienros/jint) - JavaScript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET platform.
+*   [Jurassic (⭐783)](https://github.com/paulbartrum/jurassic) - A implementation of the ECMAScript language and runtime. It aims to provide the best performing and most standards-compliant implementation of JavaScript for .NET.
 
 ## [39. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Tools / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
-*   [Open in Code (⭐846)](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
+*   [Open in Code (⭐878)](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
 
 ## [40. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### System Utilities / Directory Navigation
 
-*   [histstat (⭐90)](https://github.com/vesche/histstat) - History for netstat
+*   [histstat (⭐91)](https://github.com/vesche/histstat) - History for netstat
 
 ---
 

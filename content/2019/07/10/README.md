@@ -10,35 +10,35 @@
 
 ### Static Analyzers / Social Engineering Tools
 
-*   [cwe\_checker (⭐762)](https://github.com/fkie-cad/cwe_checker) - Suite of tools built atop the Binary Analysis Platform (BAP) to heuristically detect CWEs in compiled binaries and firmware.
+*   [cwe\_checker (⭐957)](https://github.com/fkie-cad/cwe_checker) - Suite of tools built atop the Binary Analysis Platform (BAP) to heuristically detect CWEs in compiled binaries and firmware.
 
 ## [2. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Projects
 
-*   [Stratux (⭐938)](https://github.com/cyoung/stratux) - Open source ADS-B receiver which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi.
+*   [Stratux (⭐992)](https://github.com/cyoung/stratux) - Open source ADS-B receiver which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Events
 
-*   [Combinative (⭐106)](https://github.com/noppefoxwolf/Combinative) - UI event handling using Apple's combine framework.
+*   [Combinative (⭐108)](https://github.com/noppefoxwolf/Combinative) - UI event handling using Apple's combine framework.
 
 ### UITableView / Barcode
 
-*   [SelectionList (⭐113)](https://github.com/yonat/SelectionList) - Simple single-selection or multiple-selection checklist, based on UITableView.
+*   [SelectionList (⭐115)](https://github.com/yonat/SelectionList) - Simple single-selection or multiple-selection checklist, based on UITableView.
 
 ## [4. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Third-party Apps Plugins / Design Tooling
 
-*   [Firefox GNOME Theme (⭐2.5k)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
+*   [Firefox GNOME Theme (⭐2.9k)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
 
 ## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Data validation / Third-party APIs
 
-*   [sanity-clause (⭐44)](https://github.com/fisxoj/sanity-clause) - a data serialization/contract library for Common Lisp. Schemas can be property lists or class-based, allowing to check slots' types during `make-instance`. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [sanity-clause (⭐45)](https://github.com/fisxoj/sanity-clause) - a data serialization/contract library for Common Lisp. Schemas can be property lists or class-based, allowing to check slots' types during `make-instance`. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [6. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 

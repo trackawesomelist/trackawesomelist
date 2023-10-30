@@ -46,7 +46,7 @@
 
 ### Algorithms and Data structures
 
-*   [merkle\_tree (⭐96)](https://github.com/yosriady/merkle_tree) - A Merkle hash tree implementation in Elixir.
+*   [merkle\_tree (⭐97)](https://github.com/yosriady/merkle_tree) - A Merkle hash tree implementation in Elixir.
 
 ### Build Tools
 
@@ -54,28 +54,28 @@
 
 ### Examples and funny stuff
 
-*   [stranger (⭐66)](https://github.com/cazrin/stranger) - Elixir Phoenix app to chat anonymously with a randomly chosen stranger.
+*   [stranger (⭐65)](https://github.com/cazrin/stranger) - Elixir Phoenix app to chat anonymously with a randomly chosen stranger.
 
 ### Framework Components
 
-*   [graphql\_parser (⭐18)](https://github.com/graphql-elixir/graphql_parser) - An Elixir binding for [libgraphqlparser (⭐1k)](https://github.com/graphql/libgraphqlparser).
-*   [http\_router (⭐13)](https://github.com/sugar-framework/elixir-http-router) - HTTP Router with various macros to assist in developing your application and organizing your code.
+*   [graphql\_parser (⭐19)](https://github.com/graphql-elixir/graphql_parser) - An Elixir binding for [libgraphqlparser (⭐1k)](https://github.com/graphql/libgraphqlparser).
+*   [http\_router (⭐14)](https://github.com/sugar-framework/elixir-http-router) - HTTP Router with various macros to assist in developing your application and organizing your code.
 *   [plug\_graphql (⭐126)](https://github.com/graphql-elixir/plug_graphql) - Phoenix Plug integration for [GraphQL Elixir](http://graphql-elixir.org/).
 
 ### HTTP
 
-*   [tesla (⭐1.8k)](https://github.com/teamon/tesla) - HTTP client library, with support for middleware and multiple adapters.
+*   [tesla (⭐1.9k)](https://github.com/teamon/tesla) - HTTP client library, with support for middleware and multiple adapters.
 
 ### Networking
 
-*   [eio (⭐12)](https://github.com/falood/eio) - Elixir server of engine.io.
+*   [eio (⭐13)](https://github.com/falood/eio) - Elixir server of engine.io.
 
 ### ORM and Datamapping
 
-*   [ecto (⭐5.7k)](https://github.com/elixir-ecto/ecto) - A database wrapper and language integrated query for Elixir.
-*   [ecto\_ordered (⭐39)](https://github.com/zovafit/ecto-ordered) - Ecto extension for ordered models.
-*   [postgrex (⭐996)](https://github.com/elixir-ecto/postgrex) - PostgreSQL driver for Elixir.
-*   [sql\_dust (⭐115)](https://github.com/bettyblocks/sql_dust) - Generate (complex) SQL queries using magical Elixir SQL dust.
+*   [ecto (⭐5.8k)](https://github.com/elixir-ecto/ecto) - A database wrapper and language integrated query for Elixir.
+*   [ecto\_ordered (⭐40)](https://github.com/zovafit/ecto-ordered) - Ecto extension for ordered models.
+*   [postgrex (⭐1k)](https://github.com/elixir-ecto/postgrex) - PostgreSQL driver for Elixir.
+*   [sql\_dust (⭐116)](https://github.com/bettyblocks/sql_dust) - Generate (complex) SQL queries using magical Elixir SQL dust.
 
 ### Queue
 
@@ -83,12 +83,12 @@
 
 ### Third Party APIs
 
-*   [bandwidth (⭐4)](https://github.com/bandwidthcom/elixir-bandwidth) - An Elixir client library for the Bandwidth Application Platform.
-*   [kane (⭐96)](https://github.com/peburrows/kane) - A [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/overview) client.
+*   [bandwidth (⭐5)](https://github.com/bandwidthcom/elixir-bandwidth) - An Elixir client library for the Bandwidth Application Platform.
+*   [kane (⭐98)](https://github.com/peburrows/kane) - A [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/overview) client.
 
 ### Utilities
 
-*   [plasm (⭐86)](https://github.com/facto/plasm) - Plasm is Ecto's composable query multitool, containing higher-level functions such as .count, .random, .first, .last, .find, .inserted\_before, .inserted\_after, etc.
+*   [plasm (⭐87)](https://github.com/facto/plasm) - Plasm is Ecto's composable query multitool, containing higher-level functions such as .count, .random, .first, .last, .find, .inserted\_before, .inserted\_after, etc.
 
 ### Books
 
@@ -108,7 +108,7 @@
 
 ### Modules / Browser
 
-*   [document-ready (⭐57)](https://github.com/bendrucker/document-ready) - Document ready listener for modern browsers.
+*   [document-ready (⭐59)](https://github.com/bendrucker/document-ready) - Document ready listener for modern browsers.
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 31, 2022
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -45,7 +45,7 @@
 
 ### Motion / Diagnostics
 
-*   [Weissle/easy-action (⭐31)](https://github.com/Weissle/easy-action) - Easily perform an action on where you can see.
+*   [Weissle/easy-action (⭐33)](https://github.com/Weissle/easy-action) - Easily perform an action on where you can see.
 
 ## [5. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [cargo-unused-features (⭐112)](https://github.com/TimonPost/cargo-unused-features) — Find potential unused enabled feature flags and prune them. You can generate a simple HTML report from the json to make it easier to inspect results.
+*   [cargo-unused-features (⭐152)](https://github.com/TimonPost/cargo-unused-features) — Find potential unused enabled feature flags and prune them. You can generate a simple HTML report from the json to make it easier to inspect results.
     It removes a feature of a dependency and then compiles the project to see if it still compiles. If it does, the feature flag can possibly be removed, but it can be a false-positve.
 
 ## [7. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
@@ -90,20 +90,20 @@
 
 ### Projects Related to eBPF / Observability
 
-*   [rbperf (⭐102)](https://github.com/javierhonduco/rbperf) - Sampling profiler and tracer for Ruby.
+*   [rbperf (⭐111)](https://github.com/javierhonduco/rbperf) - Sampling profiler and tracer for Ruby.
 
 ## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [touchlab/KMMBridge (⭐239)](https://github.com/touchlab/KMMBridge) - KMMBridge is a set of Gradle tooling that facilitates publishing and consuming pre-built KMM (Kotlin Multiplatform Mobile) Xcode Framework binaries.
+*   [touchlab/KMMBridge (⭐290)](https://github.com/touchlab/KMMBridge) - KMMBridge is a set of Gradle tooling that facilitates publishing and consuming pre-built KMM (Kotlin Multiplatform Mobile) Xcode Framework binaries.
 
 ## [12. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Music Programming
 
-*   [Cane (⭐43)](https://github.com/Jackojc/cane) - A small MIDI sequencer DSL designed around vectors and euclidean rhythms.
-*   [Gwion (⭐482)](https://github.com/Gwion/Gwion) - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
+*   [Cane (⭐55)](https://github.com/Jackojc/cane) - A small MIDI sequencer DSL designed around vectors and euclidean rhythms.
+*   [Gwion (⭐505)](https://github.com/Gwion/Gwion) - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
 *   [Tidal](https://tidalcycles.org/) - a language built on Haskell for live coding patterns.
 
 ## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
@@ -117,50 +117,50 @@
 
 ### Reflection
 
-*   [Easy Reflection (⭐50)](https://github.com/chocolacula/easy_reflection_cpp) - Easy and fast reflection + serialization solution like in Rust, Java or Go. \[Apache]
+*   [Easy Reflection (⭐68)](https://github.com/chocolacula/easy_reflection_cpp) - Easy and fast reflection + serialization solution like in Rust, Java or Go. \[Apache]
 
 ## [15. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Standard CLI
 
-*   [version (⭐67)](https://github.com/mszostok/version) - Collects and displays CLI version information in multiple formats along with upgrade notice.
+*   [version (⭐78)](https://github.com/mszostok/version) - Collects and displays CLI version information in multiple formats along with upgrade notice.
 
 ### Databases Implemented in Go
 
-*   [objectbox-go (⭐827)](https://github.com/objectbox/objectbox-go) - High-performance embedded Object Database (NoSQL) with Go API.
+*   [objectbox-go (⭐919)](https://github.com/objectbox/objectbox-go) - High-performance embedded Object Database (NoSQL) with Go API.
 
 ### Email
 
-*   [Mailpit (⭐1.1k)](https://github.com/axllent/mailpit) - Email and SMTP testing tool for developers.
+*   [Mailpit (⭐3.2k)](https://github.com/axllent/mailpit) - Email and SMTP testing tool for developers.
 
 ### Game Development
 
-*   [Harfang3D (⭐340)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐33)](https://github.com/harfang3d/harfang-go)).
+*   [Harfang3D (⭐414)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐36)](https://github.com/harfang3d/harfang-go)).
 
 ### Logging
 
-*   [pp (⭐1.6k)](https://github.com/k0kubun/pp) - Colored pretty printer for Go language.
+*   [pp (⭐1.7k)](https://github.com/k0kubun/pp) - Colored pretty printer for Go language.
 
 ### Strings
 
-*   [caps (⭐47)](https://github.com/chanced/caps) - A case conversion library.
+*   [caps (⭐49)](https://github.com/chanced/caps) - A case conversion library.
 
 ### Third-party APIs
 
-*   [GoFreeDB (⭐24)](https://github.com/FreeLeh/GoFreeDB) - Golang library providing common and simple database abstractions on top of Google Sheets.
+*   [GoFreeDB (⭐27)](https://github.com/FreeLeh/GoFreeDB) - Golang library providing common and simple database abstractions on top of Google Sheets.
 
 ### Validation
 
-*   [valix (⭐8)](https://github.com/marrow16/valix) Go package for validating requests
+*   [valix (⭐16)](https://github.com/marrow16/valix) Go package for validating requests
 
 ### Video
 
-*   [go-m3u8 (⭐17)](https://github.com/etherlabsio/go-m3u8) - Parser and generator library for Apple m3u8 playlists. Actively maintained version of quangngotan95/go-m3u8 with improvements and latest HLS playlist parsing compatibility.
+*   [go-m3u8 (⭐21)](https://github.com/etherlabsio/go-m3u8) - Parser and generator library for Apple m3u8 playlists. Actively maintained version of quangngotan95/go-m3u8 with improvements and latest HLS playlist parsing compatibility.
 
 ### Web Frameworks
 
 *   [Atreugo (⭐1.1k)](https://github.com/savsgio/atreugo) - High performance and extensible micro web framework with zero memory allocations in hot paths.
-*   [Hertz (⭐3.7k)](https://github.com/cloudwego/hertz) - A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
+*   [Hertz (⭐4.2k)](https://github.com/cloudwego/hertz) - A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 
@@ -169,7 +169,7 @@
 
 ### Free e-books / Libraries for creating HTTP middlewares
 
-*   [Go AST Book (Chinese) (⭐5k)](https://github.com/chai2010/go-ast-book) - A book focusing on Go `go/*` packages.
+*   [Go AST Book (Chinese) (⭐5.1k)](https://github.com/chai2010/go-ast-book) - A book focusing on Go `go/*` packages.
 
 ### Websites / Libraries for creating HTTP middlewares
 
@@ -184,11 +184,11 @@
 ### Algorithms / Supervised Learning
 
 *   [Ensemble Learning](https://scikit-learn.org/stable/modules/ensemble.html)
-    *   Boosting
-    *   Stacking
-    *   Bagging
-    *   Random Forest
-    *   AdaBoost
+    *   [Boosting](https://en.wikipedia.org/wiki/Boosting_\(machine_learning\))
+    *   [Stacking](https://machinelearningmastery.com/stacking-ensemble-machine-learning-with-python)
+    *   [Bagging](https://en.wikipedia.org/wiki/Bootstrap_aggregating)
+    *   [Random Forest](https://en.wikipedia.org/wiki/Random_forest)
+    *   [AdaBoost](https://en.wikipedia.org/wiki/AdaBoost)
 
 ### Algorithms / Unsupervised Learning
 
@@ -196,13 +196,35 @@
     *   [Hierchical clustering](https://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering)
     *   [k-means](https://scikit-learn.org/stable/modules/clustering.html#k-means)
     *   [Density-based clustering](https://scikit-learn.org/stable/modules/clustering.html#dbscan)
-    *   Fuzzy clustering
-    *   Mixture models
+    *   [Fuzzy clustering](https://en.wikipedia.org/wiki/Fuzzy_clustering)
+    *   [Mixture models](https://en.wikipedia.org/wiki/Mixture_model)
 *   Dimension Reduction
     *   [Principal Component Analysis (PCA)](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
     *   [t-SNE; t-distributed Stochastic Neighbor Embedding](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
     *   [Factor Analysis](https://scikit-learn.org/stable/modules/decomposition.html#factor-analysis)
     *   [Latent Dirichlet Allocation (LDA)](https://scikit-learn.org/stable/modules/decomposition.html#latent-dirichlet-allocation-lda)
+
+## [17. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Elixir / Non-X86
+
+*   [Hands-on Elixir & OTP: Cryptocurrency trading bot](https://book.elixircryptobot.com) - Kamil Skowron (HTML)
+
+### Erlang / Phoenix
+
+*   [The Erlang Runtime System](https://blog.stenmans.org/theBeamBook) - Erik Stenman (HTML)
+
+### R / Tornado
+
+*   [Data Visualization with R](https://ladal.edu.au/dviz.html) - Martin Schweinberger (HTML)
+
+### Rust / Sinatra
+
+*   [Learning Rust Ebook](https://riptutorial.com/Download/rust.pdf) - StackOverflow Contributors (PDF)
+
+### TypeScript / Vapor
+
+*   [TypeScript in 50 Lessons](https://www.smashingmagazine.com/provide/eBooks/typescript-in-50-lessons.pdf) - Stefan Baumgartner (PDF)
 
 ---
 

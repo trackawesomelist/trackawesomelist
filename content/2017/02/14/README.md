@@ -30,11 +30,11 @@ Webpage: <http://www.denizlihs.org/>
 
 ### REST and API
 
-*   [plug\_rest (⭐53)](https://github.com/christopheradams/plug_rest) - REST behaviour and Plug router for hypermedia web applications.
+*   [plug\_rest (⭐54)](https://github.com/christopheradams/plug_rest) - REST behaviour and Plug router for hypermedia web applications.
 
 ### Validations
 
-*   [jeaux (⭐11)](https://github.com/zbarnes757/jeaux) - A light and easy schema validator.
+*   [jeaux (⭐12)](https://github.com/zbarnes757/jeaux) - A light and easy schema validator.
 
 ## [4. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
@@ -267,7 +267,7 @@ Webpage: <http://www.denizlihs.org/>
 
 ### Cordova Seed Projects / Components
 
-*   [Angular 2 Seed CLI Admin (Template) (⭐66)](https://github.com/jvitor83/angular-pwa-seed) Multi-platform Angular 2 project (Web/PWA, Mobile and Desktop) with Ionic 2 (and optionally Bootstrap).
+*   [Angular 2 Seed CLI Admin (Template) (⭐67)](https://github.com/jvitor83/angular-pwa-seed) Multi-platform Angular 2 project (Web/PWA, Mobile and Desktop) with Ionic 2 (and optionally Bootstrap).
 
 ## [8. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 

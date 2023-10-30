@@ -16,7 +16,7 @@
 
 ### Entertainment / Video
 
-*   [yt-dlp (⭐47k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
+*   [yt-dlp (⭐55k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
 
 ## [3. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
@@ -34,11 +34,11 @@
 
 ### Software / Communication - Email - Mail Transfer Agents
 
-*   [vSMTP](https://viridit.com/products/) - Next-gen MTA. Secured, Faster and Greener. ([Source Code (⭐486)](https://github.com/viridIT/vSMTP)) `GPL-3.0` `Rust`
+*   [vSMTP](https://viridit.com/products/) - Next-gen MTA. Secured, Faster and Greener. ([Source Code (⭐537)](https://github.com/viridIT/vSMTP)) `GPL-3.0` `Rust`
 
 ### Software / Note-taking & Editors
 
-*   [Memos](https://usememos.com/) - An open source, self-hosted knowledge base that works with a SQLite db file. ([Source Code (⭐14k)](https://github.com/usememos/memos)) `MIT` `Docker/Go`
+*   [Memos](https://usememos.com/) - An open source, self-hosted knowledge base that works with a SQLite db file. ([Source Code (⭐20k)](https://github.com/usememos/memos)) `MIT` `Docker/Go`
 
 ### Software / Software Development - IDE & Tools
 
@@ -48,13 +48,13 @@
 
 ### Status Bar
 
-*   [tmux-transient-status (⭐1)](https://github.com/TheSast/tmux-transient-status) Automatically make your tmux status bar vanish when unneded.
+*   [tmux-transient-status (⭐2)](https://github.com/TheSast/tmux-transient-status) Automatically make your tmux status bar vanish when unneded.
 
 ## [7. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Extensions / Community
 
-*   [Directus Mailer (⭐25)](https://github.com/ryntab/Directus-Mailer) - An endpoint for sending emails with the Directus Nodemailer service.
+*   [Directus Mailer (⭐32)](https://github.com/ryntab/Directus-Mailer) - An endpoint for sending emails with the Directus Nodemailer service.
 
 ### Articles / Personal
 

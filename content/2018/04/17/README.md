@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 17, 2018
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -255,7 +255,7 @@
 ### Applications
 
 *   [AKASHA](https://akasha.world): A Next-Generation Social Media Network. Powered by the Ethereum world computer. Embedded into the Inter-Planetary File System.
-*   [Patchwork (⭐3.6k)](https://github.com/ssbc/patchwork): Decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB). Another alternative interface is [Patchbay (⭐381)](https://github.com/ssbc/patchbay).
+*   [Patchwork (⭐3.6k)](https://github.com/ssbc/patchwork): Decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB). Another alternative interface is [Patchbay (⭐384)](https://github.com/ssbc/patchbay).
 *   [Syncthing-GTK (⭐1.2k)](https://github.com/syncthing/syncthing-gtk): GUI for Syncthing - a continuous file synchronization program.
 
 ## [3. Awesome Sre](/content/dastergon/awesome-sre/README.md)
@@ -330,14 +330,14 @@ Webpage: <http://www.borealcoffee.ch/>
 
 ### HTTP
 
-*   [HTTP Builder NG (⭐178)](https://github.com/http-builder-ng/http-builder-ng) - HTTP Builder NG is a modern Groovy DSL for making http requests.
-*   [HTTP Builder NG Gradle Plugin (⭐30)](https://github.com/http-builder-ng/gradle-http-plugin) - Gradle plugin providing HTTP Builder NG support in a Gradle build configuration.
+*   [HTTP Builder NG (⭐177)](https://github.com/http-builder-ng/http-builder-ng) - HTTP Builder NG is a modern Groovy DSL for making http requests.
+*   [HTTP Builder NG Gradle Plugin (⭐31)](https://github.com/http-builder-ng/gradle-http-plugin) - Gradle plugin providing HTTP Builder NG support in a Gradle build configuration.
 
 ### Testing
 
 *   [Ersatz Mock Server (⭐44)](https://github.com/cjstehno/ersatz) - A simple and expressive simulated HTTP server for testing client code with configurable responses.
 
-### File Format DSL
+### DSLs
 
 *   [GroovyCSV](http://xlson.com/groovycsv/) - A simple CSV parsing library for groovy
 
@@ -347,20 +347,14 @@ Webpage: <http://www.borealcoffee.ch/>
 
 ### Conferences
 
-*   [Greachconf](http://greachconf.com)
-*   [GR8Conf USA](http://gr8conf.us)
+*   [Greachconf](http://greachconf.com) (discontinued)
+*   [GR8Conf USA](http://gr8conf.us) (discontinued)
 
 ## [11. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 
 ### CMS / Blogs
 
 *   [Hexo](https://hexo.io/) - A fast, simple & powerful blog framework
-
-## [12. Awesome Osint](/content/jivoi/awesome-osint/README.md)
-
-### Mind Mapping, Concept Mapping and Idea Generation Tools / Telegram
-
-*   [MindMup](https://www.mindmup.com/)
 
 ---
 

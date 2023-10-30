@@ -10,14 +10,14 @@
 
 ### Data Visualization / Runner
 
-*   [BabylonJS (⭐20k)](https://github.com/BabylonJS/Babylon.js) - A framework for building 3D games with HTML 5 and WebGL.
+*   [BabylonJS (⭐21k)](https://github.com/BabylonJS/Babylon.js) - A framework for building 3D games with HTML 5 and WebGL.
 
 ## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Miscellaneous
 
-*   [ex2ms (⭐173)](https://github.com/ericmj/ex2ms) - Translates Elixir functions to match specifications for use with `ets`.
-*   [ex\_rated (⭐428)](https://github.com/grempe/ex_rated) - Simple and flexible rate-limiting for API's or anything.
+*   [ex2ms (⭐176)](https://github.com/ericmj/ex2ms) - Translates Elixir functions to match specifications for use with `ets`.
+*   [ex\_rated (⭐442)](https://github.com/grempe/ex_rated) - Simple and flexible rate-limiting for API's or anything.
 
 ### Editors
 
@@ -33,7 +33,7 @@
 
 ### CRM
 
-*   [Fat Free CRM (⭐3.4k)](https://github.com/fatfreecrm/fat_free_crm) - An open source Ruby on Rails based customer relationship management platform.
+*   [Fat Free CRM (⭐3.5k)](https://github.com/fatfreecrm/fat_free_crm) - An open source Ruby on Rails based customer relationship management platform.
 
 ## [5. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 

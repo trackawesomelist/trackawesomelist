@@ -57,7 +57,7 @@
 ### Development tools / FFI
 
 *   Objective-C
-    *   [SSheldon/rust-objc (⭐358)](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
+    *   [SSheldon/rust-objc (⭐364)](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
 
 ## [3. Tips](/content/git-tips/tips/README.md)
 
@@ -83,19 +83,19 @@ git gc --prune=now --aggressive
 
 ### Tools
 
-*   [ShareX (⭐24k)](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
+*   [ShareX (⭐26k)](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Queue
 
-*   [verk (⭐711)](https://github.com/edgurgel/verk) - Verk is a job processing system backed by Redis. It uses the same job definition of Sidekiq/Resque.
+*   [verk (⭐716)](https://github.com/edgurgel/verk) - Verk is a job processing system backed by Redis. It uses the same job definition of Sidekiq/Resque.
 
 ## [7. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Distributed Programming
 
-*   [Netflix PigPen (⭐542)](https://github.com/Netflix/PigPen) - map-reduce for Clojure which compiles to Apache Pig.
+*   [Netflix PigPen (⭐547)](https://github.com/Netflix/PigPen) - map-reduce for Clojure which compiles to Apache Pig.
 *   [Streamdrill](https://streamdrill.com/) - useful for counting activities of event streams over different time windows and finding the most active one.
 
 ## [8. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
@@ -110,7 +110,7 @@ git gc --prune=now --aggressive
 
 ### Open Source / Other
 
-*   [Catify (⭐64)](https://github.com/MeoBeoI/Catify) - Utility for Spotify.
+*   [Catify (⭐62)](https://github.com/MeoBeoI/Catify) - Utility for Spotify.
 
 ## [10. Amas](/content/sindresorhus/amas/README.md)
 

@@ -32,13 +32,13 @@
 
 ### Learning / Check Also
 
-*   [Awesome JS Books (⭐56)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best JavaScript books.
+*   [Awesome JS Books (⭐58)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best JavaScript books.
 
 ## [4. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Software / Communication
 
-*   [Matrix](https://matrix.org/) - Open standard for decentralised, persistent, and interoperable communications. ([Apache License 2.0 (⭐10k)](https://github.com/matrix-org/synapse/blob/master/LICENSE))
+*   [Matrix](https://matrix.org/) - Open standard for decentralised, persistent, and interoperable communications. ([Apache License 2.0 (⭐11k)](https://github.com/matrix-org/synapse/blob/master/LICENSE))
 
 ## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

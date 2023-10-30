@@ -36,7 +36,7 @@
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### DBaaS
+### Managed Data Services
 
 *   [redsmin.com](https://www.redsmin.com/) — Online real-time monitoring and administration service for Redis, Monitoring for 1 Redis instance free
 
@@ -81,7 +81,7 @@
 
 ### Scheduling
 
-*   [Dagster (⭐5.7k)](https://github.com/dagster-io/dagster) - a data orchestrator for machine learning, analytics, and ETL.
+*   [Dagster (⭐7.5k)](https://github.com/dagster-io/dagster) - a data orchestrator for machine learning, analytics, and ETL.
 
 ## [11. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
@@ -115,8 +115,8 @@
 
 ### Communications / Cryptography
 
-*   [mpyaes (⭐23)](https://github.com/iyassou/mpyaes) - MicroPython module for AES encryption.
-*   [micropython-aes (⭐15)](https://github.com/piaca/micropython-aes) - AES algorithm with pure python implementation.
+*   [mpyaes (⭐26)](https://github.com/iyassou/mpyaes) - MicroPython module for AES encryption.
+*   [micropython-aes (⭐17)](https://github.com/piaca/micropython-aes) - AES algorithm with pure python implementation.
 
 ### Communications / RTC
 
@@ -128,28 +128,28 @@
 
 ### Display / GUI
 
-*   [lvgl (⭐187)](https://github.com/lvgl/lv_binding_micropython) - An object-oriented, component-based high-level GUI library with MicroPython binding.
+*   [lvgl (⭐197)](https://github.com/lvgl/lv_binding_micropython) - An object-oriented, component-based high-level GUI library with MicroPython binding.
 *   [micropython-lcd160cr-gui (⭐24)](https://github.com/peterhinch/micropython-lcd160cr-gui) - Simple touch-driven event based GUI for the Pyboard and LCD160CR colour display.
-*   [micropython\_ra8875 (⭐7)](https://github.com/peterhinch/micropython_ra8875) - MicroPython device driver and nano-GUI for RA8875 based displays.
+*   [micropython\_ra8875 (⭐8)](https://github.com/peterhinch/micropython_ra8875) - MicroPython device driver and nano-GUI for RA8875 based displays.
 
 ### Sensors / Camera
 
-*   [micropython-camera-driver (⭐292)](https://github.com/lemariva/micropython-camera-driver) - OV2640 camera driver for MicroPython on ESP32.
+*   [micropython-camera-driver (⭐313)](https://github.com/lemariva/micropython-camera-driver) - OV2640 camera driver for MicroPython on ESP32.
 
 ### Sensors / Temperature Digital
 
 *   [micropython-tmp1075 (⭐0)](https://github.com/mattytrentini/micropython-tmp1075) - Driver for the TI TMP1075 temperature sensor.
 *   [micropython-sht11 (⭐2)](https://github.com/2black0/micropython-sht11) - Driver for Sensirion SHT11 temperature and humidity sensor.
-*   [micropython-lm75a (⭐2)](https://github.com/mcauser/micropython-lm75a) - Driver for the NXP LM75A digital temperature sensor.
+*   [micropython-lm75a (⭐4)](https://github.com/mcauser/micropython-lm75a) - Driver for the NXP LM75A digital temperature sensor.
 
 ### Frameworks / SRAM
 
-*   [micrOS (⭐62)](https://github.com/BxNxM/micrOS) - MicroPython-based IoT Framework.
-*   [terkin-datalogger (⭐48)](https://github.com/hiveeyes/terkin-datalogger) - Flexible data logger application for MicroPython and CPython.
+*   [micrOS (⭐74)](https://github.com/BxNxM/micrOS) - MicroPython-based IoT Framework.
+*   [terkin-datalogger (⭐49)](https://github.com/hiveeyes/terkin-datalogger) - Flexible data logger application for MicroPython and CPython.
 
 ### Code Generation / SRAM
 
-*   [micropy-stubs (⭐25)](https://github.com/BradenM/micropy-stubs) - Automatically Generated Stub Packages for Micropy-Cli and whomever else.
+*   [micropy-stubs (⭐26)](https://github.com/BradenM/micropy-stubs) - Automatically Generated Stub Packages for Micropy-Cli and whomever else.
 
 ## [15. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 

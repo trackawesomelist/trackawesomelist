@@ -16,7 +16,7 @@
 
 ### Miscellaneous
 
-*   [docsapp.io](https://www.docsapp.io/) — Easiest way to publish documentation, free for Open Source
+*   [docsapp.io](https://www.docsapp.io/) — The easiest way to publish documentation, free for Open Source
 
 ## [3. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/README.md)
 

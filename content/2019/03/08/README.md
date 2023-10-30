@@ -10,11 +10,11 @@
 
 ### Third party Guides
 
-*   [Conferences.digital (⭐770)](https://github.com/zagahr/Conferences.digital) - Watch conference videos in a native macOS app.
+*   [Conferences.digital (⭐766)](https://github.com/zagahr/Conferences.digital) - Watch conference videos in a native macOS app.
 
 ### UI / Barcode
 
-*   [Doric Design System Foundation (⭐94)](https://github.com/jayeshk/Doric) - Protocol oriented, type safe, scalable design system foundation framework for iOS.
+*   [Doric Design System Foundation (⭐95)](https://github.com/jayeshk/Doric) - Protocol oriented, type safe, scalable design system foundation framework for iOS.
 
 ## [2. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
 
@@ -47,11 +47,11 @@
 
 ### UI / Sliders
 
-*   [Flutter Xlider (⭐405)](https://github.com/Ali-Azmoud/flutter_xlider) <!--stargazers:Ali-Azmoud/flutter_xlider--> - A material design slider and range slider, horizontal and vertical, with RTL support by [Ali-Azmoud](https://github.com/Ali-Azmoud)
+*   [Flutter Xlider (⭐439)](https://github.com/Ali-Azmoud/flutter_xlider) <!--stargazers:Ali-Azmoud/flutter_xlider--> - A material design slider and range slider, horizontal and vertical, with RTL support by [Ali-Azmoud](https://github.com/Ali-Azmoud)
 
 ### Device / Bluetooth / NFC / Beacon
 
-*   [Beacon broadcast (⭐75)](https://github.com/pszklarska/beacon_broadcast) <!--stargazers:pszklarska/beacon_broadcast--> - Library for turning your phone into a beacon by [Paulina Szklarska](https://github.com/pszklarska/)
+*   [Beacon broadcast (⭐77)](https://github.com/pszklarska/beacon_broadcast) <!--stargazers:pszklarska/beacon_broadcast--> - Library for turning your phone into a beacon by [Paulina Szklarska](https://github.com/pszklarska/)
 
 ## [5. Bots](/content/hackerkid/bots/README.md)
 
@@ -67,27 +67,27 @@
 
 ### Entertainment
 
-*   [newsboat (⭐2.5k)](https://github.com/newsboat/newsboat) - An extendable RSS feed reader for text terminals.
+*   [newsboat (⭐2.6k)](https://github.com/newsboat/newsboat) - An extendable RSS feed reader for text terminals.
 
 ### Development / Devops
 
-*   [htconvert (⭐180)](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects.
+*   [htconvert (⭐185)](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects.
 
 ### Just for Fun / Image Conversion
 
-*   [quote-cli (⭐76)](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
+*   [quote-cli (⭐77)](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
 
 ### Just for Fun / Emoji
 
 *   [emoj (⭐2.3k)](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
-*   [emoji-finder (⭐23)](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
-*   [oji (⭐702)](https://github.com/xxczaki/oji) - Interactive text emoji maker.
+*   [emoji-finder (⭐24)](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
+*   [oji (⭐703)](https://github.com/xxczaki/oji) - Interactive text emoji maker.
 
 ## [7. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### General / Other
 
-*   [Strong node.js (⭐472)](https://github.com/jesusprubio/strong-node) - An exhaustive checklist to assist in the source code security analysis of a node.js web service.
+*   [Strong node.js (⭐486)](https://github.com/jesusprubio/strong-node) - An exhaustive checklist to assist in the source code security analysis of a node.js web service.
 
 ## [8. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
@@ -99,13 +99,13 @@
 
 ### Communications security (COMSEC) / Service meshes
 
-*   [GPG Sync (⭐336)](https://github.com/firstlookmedia/gpgsync) - Centralize and automate OpenPGP public key distribution, revocation, and updates amongst all members of an organization or team.
+*   [GPG Sync (⭐339)](https://github.com/firstlookmedia/gpgsync) - Centralize and automate OpenPGP public key distribution, revocation, and updates amongst all members of an organization or team.
 
 ## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Proxy and VPN Tools / File Sharing
 
-*   [ClashX (⭐26k)](https://github.com/yichengchen/clashX) - A rule-based proxy for Mac based on Clash. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yichengchen/clashX)![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [ClashX (⭐29k)](https://github.com/yichengchen/clashX) - A rule-based proxy for Mac based on Clash. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yichengchen/clashX)![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

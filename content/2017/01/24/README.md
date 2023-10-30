@@ -273,24 +273,25 @@
 
 ### Applications
 
-*   [Dat desktop app (⭐648)](https://github.com/datproject/dat-desktop): Decentralized data tool for distributing data small and large.
+*   [Dat desktop app (⭐649)](https://github.com/datproject/dat-desktop): Decentralized data tool for distributing data small and large.
 *   [Neocities](https://neocities.org): Geocities-style websites, but decentralized.
 *   [ZeroNet](https://zeronet.io/): Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network. Uncensored, no hosting costs, always accessible.
+    communities with auditable moderation and mod elections.
 
 ### Related Lists
 
 *   [https://github.com/kgryte/awesome-peer-to-peer (⭐2.2k)](https://github.com/kgryte/awesome-peer-to-peer)
-*   [https://github.com/retrohacker/awesome-p2p (⭐140)](https://github.com/retrohacker/awesome-p2p)
-*   [https://github.com/Kikobeats/awesome-network-js (⭐532)](https://github.com/Kikobeats/awesome-network-js)
-*   [https://github.com/steve-vincent/awesome-decentralized (⭐186)](https://github.com/steve-vincent/awesome-decentralized)
-*   [https://github.com/gdamdam/awesome-decentralized-web (⭐1.5k)](https://github.com/gdamdam/awesome-decentralized-web)
+*   [https://github.com/retrohacker/awesome-p2p (⭐142)](https://github.com/retrohacker/awesome-p2p)
+*   [https://github.com/Kikobeats/awesome-network-js (⭐537)](https://github.com/Kikobeats/awesome-network-js)
+*   [https://github.com/steve-vincent/awesome-decentralized (⭐191)](https://github.com/steve-vincent/awesome-decentralized)
+*   [https://github.com/gdamdam/awesome-decentralized-web (⭐1.6k)](https://github.com/gdamdam/awesome-decentralized-web)
 *   <https://redecentralize.github.io/alternative-internet>
 
 ## [6. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries / Lenses
 
-*   [partial.lenses (⭐900)](https://github.com/calmm-js/partial.lenses) – Partial lenses is a comprehensive, high-performance optics library for JavaScript.
+*   [partial.lenses (⭐905)](https://github.com/calmm-js/partial.lenses) – Partial lenses is a comprehensive, high-performance optics library for JavaScript.
 
 ## [7. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
 

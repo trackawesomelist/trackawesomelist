@@ -30,7 +30,7 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Coral](https://coralproject.net/) - A better commenting experience from Vox Media. ([Source Code (⭐1.8k)](https://github.com/coralproject/talk)) `Apache-2.0` `Nodejs`
+*   [Coral](https://coralproject.net/) - A better commenting experience from Vox Media. ([Source Code (⭐1.9k)](https://github.com/coralproject/talk)) `Apache-2.0` `Docker/Nodejs`
 
 ## [4. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
@@ -57,18 +57,18 @@
 
 ## [7. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### Introspection
+### Introspection / Text-Based User Interfaces
 
-*   [ClassGraph (⭐2.4k)](https://github.com/classgraph/classgraph) - ClassGraph (formerly FastClasspathScanner) is an uber-fast, ultra-lightweight, parallelized classpath scanner and module scanner for Java, Scala, Kotlin and other JVM languages.
-*   [ReflectASM (⭐1.4k)](https://github.com/EsotericSoftware/reflectasm) - ReflectASM is a very small Java library that provides high performance reflection by using code generation.
-*   [Reflections (⭐4.4k)](https://github.com/ronmamo/reflections) - Reflections scans your classpath, indexes the metadata, allows you to query it on runtime and may save and collect that information for many modules within your project.
+*   [ClassGraph (⭐2.5k)](https://github.com/classgraph/classgraph) - ClassGraph (formerly FastClasspathScanner) is an uber-fast, ultra-lightweight, parallelized classpath scanner and module scanner for Java, Scala, Kotlin and other JVM languages.
+*   [ReflectASM (⭐1.5k)](https://github.com/EsotericSoftware/reflectasm) - ReflectASM is a very small Java library that provides high performance reflection by using code generation.
+*   [Reflections (⭐4.6k)](https://github.com/ronmamo/reflections) - Reflections scans your classpath, indexes the metadata, allows you to query it on runtime and may save and collect that information for many modules within your project.
 
 ## [8. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Official Resources
 
 *   [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
-*   [GitHub Repository (⭐7k)](https://github.com/apache/jmeter) - Apache JMeter source code repository.
+*   [GitHub Repository (⭐7.4k)](https://github.com/apache/jmeter) - Apache JMeter source code repository.
 *   [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
 *   [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
 
@@ -135,7 +135,7 @@
 
 ### CLI
 
-*   [Lyra (⭐405)](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
+*   [Lyra (⭐422)](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
 
 ## [14. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/README.md)
 
@@ -159,7 +159,7 @@
 
 ### tools / Other
 
-*   [ebowla (⭐695)](https://github.com/Genetic-Malware/Ebowla) - Framework for Making Environmental Keyed Payloads
+*   [ebowla (⭐709)](https://github.com/Genetic-Malware/Ebowla) - Framework for Making Environmental Keyed Payloads
 
 ## [16. Public Apis](/content/public-apis/public-apis/README.md)
 

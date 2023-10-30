@@ -49,7 +49,7 @@
 
 ## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### OS and Kernels / MIT
+### OS and Kernels / Apache License
 
 *   [ada-kalinda-os](https://sourceforge.net/projects/sx-ada-kalinda/) - Ada KALINDA is a sort of Mac Plus like OS written in Ada95.
 *   [cxos (⭐34)](https://github.com/ajxs/cxos) - Ada Operating System development example.
@@ -70,15 +70,15 @@
 
 ### Audio
 
-*   [ModernAVPlayer (⭐267)](https://github.com/noreasonprojects/ModernAVPlayer) - Persistence AVPlayer to resume playback after bad network connection even in background mode.
+*   [ModernAVPlayer (⭐276)](https://github.com/noreasonprojects/ModernAVPlayer) - Persistence AVPlayer to resume playback after bad network connection even in background mode.
 
 ### Device
 
-*   [Deviice (⭐58)](https://github.com/andrealufino/Deviice) - Swift library to easily check the current device and some more info about it.
+*   [Deviice (⭐62)](https://github.com/andrealufino/Deviice) - Swift library to easily check the current device and some more info about it.
 
 ### Fonts
 
-*   [SYSymbol (⭐177)](https://github.com/Nirma/SFSymbol) - All the SFSymbols at your fingertips.
+*   [SYSymbol (⭐185)](https://github.com/Nirma/SFSymbol) - All the SFSymbols at your fingertips.
 
 ### Localization / Barcode
 

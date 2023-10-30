@@ -43,12 +43,12 @@
 
 ### Cartridges / Custom cartridges
 
-*   [Gameboy-MBC5-MBC1-Hybrid (⭐36)](https://github.com/insidegadgets/Gameboy-MBC5-MBC1-Hybrid) - CPLD implementation of a MBC5/MBC1 Hybrid cartridge.
+*   [Gameboy-MBC5-MBC1-Hybrid (⭐42)](https://github.com/insidegadgets/Gameboy-MBC5-MBC1-Hybrid) - CPLD implementation of a MBC5/MBC1 Hybrid cartridge.
 
 ### Related projects / Syntax highlighting packages
 
-*   [GBCartRead (⭐52)](https://github.com/insidegadgets/GBCartRead) - Read ROM, Read RAM or Write RAM from/to a GameBoy Cartridge.
-*   [GBxCart-RW (⭐76)](https://github.com/insidegadgets/GBxCart-RW) - A device for reading game ROMs, save games and restoring saves for GB, GBC and GBA carts from your PC via USB.
+*   [GBCartRead (⭐56)](https://github.com/insidegadgets/GBCartRead) - Read ROM, Read RAM or Write RAM from/to a GameBoy Cartridge.
+*   [GBxCart-RW (⭐81)](https://github.com/insidegadgets/GBxCart-RW) - A device for reading game ROMs, save games and restoring saves for GB, GBC and GBA carts from your PC via USB.
 
 ## [6. Awesome Java](/content/akullpp/awesome-java/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Official Resources
 
-*   [Source code (⭐5.8k)](https://github.com/gatling/gatling)
+*   [Source code (⭐6.1k)](https://github.com/gatling/gatling)
 
 ### Getting Started
 
@@ -85,19 +85,19 @@
 
 ### Tools / Plugins
 
-*   [gatling-grpc (⭐108)](https://github.com/phiSgr/gatling-grpc) - Gatling load test plugin for gRPC.
-*   [gatling-aws (⭐10)](https://github.com/callistaenterprise/gatling-aws) - Gatling custom protocol for AWS Lambda.
+*   [gatling-grpc (⭐120)](https://github.com/phiSgr/gatling-grpc) - Gatling load test plugin for gRPC.
+*   [gatling-aws (⭐11)](https://github.com/callistaenterprise/gatling-aws) - Gatling custom protocol for AWS Lambda.
 *   [gatling-xmpp-protocol (⭐4)](https://github.com/TLmaK0/gatling-xmpp-protocol) - XMPP protocol for stress test XMPP servers with Gatling.
 
 ### Related / Awesome Lists
 
-*   [Awesome Testing (⭐1.1k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
+*   [Awesome Testing (⭐1.4k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
 
 ## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Miscellaneous
 
-*   [Feedback plugin](https://github.com/dereuromark/cakephp-feedback) - Allow visitors to send quick and easy feedback incl. a screenshot via sidebar form.
+*   🍰 [Feedback plugin (⭐6)](https://github.com/dereuromark/cakephp-feedback) - Allow visitors to send quick and easy feedback incl. a screenshot via sidebar form.
 
 ---
 

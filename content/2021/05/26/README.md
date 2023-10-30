@@ -1,6 +1,6 @@
 # Awesome List Updates on May 26, 2021
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -30,15 +30,9 @@
 
 ### Payment / Barcode
 
-*   [TPInAppReceipt (⭐547)](https://github.com/tikhop/TPInAppReceipt) - A lightweight, pure-Swift library for reading and validating Apple In App Purchase Receipt locally.
+*   [TPInAppReceipt (⭐582)](https://github.com/tikhop/TPInAppReceipt) - A lightweight, pure-Swift library for reading and validating Apple In App Purchase Receipt locally.
 
-## [4. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
-
-### OS Images
-
-*   [Windows 10 ARM](https://worproject.ml/) - Community maintained Windows 10 on Raspberry Pi. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-2+.png) ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-3.png)
-
-## [5. Awesome Irc](/content/davisonio/awesome-irc/README.md)
+## [4. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 
 ### Clients
 
@@ -64,23 +58,23 @@
 
 *   [IRC is dead, long live IRC](https://www.pingdom.com/blog/irc-is-dead-long-live-irc/) - Pingdom.
 
-## [6. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+## [5. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Python / Indicators
 
-*   [lppls (⭐250)](https://github.com/Boulder-Investment-Technologies/lppls) - A Python module for fitting the [Log-Periodic Power Law Singularity (LPPLS)](https://en.wikipedia.org/wiki/Didier_Sornette#The_JLS_and_LPPLS_models) model.
+*   [lppls (⭐287)](https://github.com/Boulder-Investment-Technologies/lppls) - A Python module for fitting the [Log-Periodic Power Law Singularity (LPPLS)](https://en.wikipedia.org/wiki/Didier_Sornette#The_JLS_and_LPPLS_models) model.
 
 ### R / Backtesting
 
-*   [quantstrat (⭐254)](https://github.com/braverock/quantstrat) - Transaction-oriented infrastructure for constructing trading systems and simulation. Provides support for multi-asset class and multi-currency portfolios for backtesting and other financial research.
+*   [quantstrat (⭐260)](https://github.com/braverock/quantstrat) - Transaction-oriented infrastructure for constructing trading systems and simulation. Provides support for multi-asset class and multi-currency portfolios for backtesting and other financial research.
 
-## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Links / Official Links
 
-*   [JetBrains/kotlin (⭐45k)](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
+*   [JetBrains/kotlin (⭐46k)](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
-## [8. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [7. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Golem
 
@@ -156,13 +150,13 @@
 
 *   [Golem Network Discussion Group](https://t.me/GolemProject) - Community driven Telegram channel.
 
-## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-vconsole (⭐49)](https://github.com/vadxq/vite-plugin-vconsole) - Help developers use vconsole to facilitate mobile development and debugging.
+*   [vite-plugin-vconsole (⭐58)](https://github.com/vadxq/vite-plugin-vconsole) - Help developers use vconsole to facilitate mobile development and debugging.
 
-## [10. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Documents & Productivity
 

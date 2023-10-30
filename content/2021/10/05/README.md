@@ -22,13 +22,13 @@
 
 ### Projects / Libraries
 
-*   [Bedrock Bit Vectors (⭐26)](https://github.com/mit-plv/bbv) - Library for reasoning on fixed precision machine words.
+*   [Bedrock Bit Vectors (⭐25)](https://github.com/mit-plv/bbv) - Library for reasoning on fixed precision machine words.
 *   [CoLoR (⭐30)](https://github.com/fblanqui/color) - Library on rewriting theory, lambda-calculus and termination, with sub-libraries on common data structures extending the Coq standard library.
 *   [Flocq](https://gitlab.inria.fr/flocq/flocq) - Formalization of floating-point numbers and computations.
 
 ### Projects / Tools
 
-*   [coq-dpdgraph (⭐80)](https://github.com/coq-community/coq-dpdgraph) - Tool for building dependency graphs between Coq objects.
+*   [coq-dpdgraph (⭐82)](https://github.com/coq-community/coq-dpdgraph) - Tool for building dependency graphs between Coq objects.
 
 ## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -38,7 +38,7 @@
 
 ## [5. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
-### Terraform Enterprise / Vendor supported providers
+### Terraform Enterprise / IDE
 
 *   [tfe-state-explorer (⭐18)](https://github.com/segmentio/tfe-state-explorer) - Simple shell for exploring remote terraform enterprise state, with autocomplete. :skull:
 
@@ -78,43 +78,43 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Vue-Admin-Template (⭐7)](https://github.com/Mani1124/vue-admin-template) - A beautiful free vuejs admin template, designed using vuetify and apexcharts. [Live Demo](https://mani1124.github.io)
+*   [Vue-Admin-Template (⭐8)](https://github.com/Mani1124/vue-admin-template) - A beautiful free vuejs admin template, designed using vuetify and apexcharts. [Live Demo](https://mani1124.github.io)
 
 ## [9. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Tools
 
-*   [One Second Diary (⭐172)](https://github.com/KyleKun/one_second_diary) - Minimalist Video Diary app by [KyleKun](https://github.com/KyleKun).
+*   [One Second Diary (⭐203)](https://github.com/KyleKun/one_second_diary) - Minimalist Video Diary app by [KyleKun](https://github.com/KyleKun).
 
 ## [10. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 
 ### Tools, Extensions and Frameworks / Power Platform (Microsoft)
 
-*   [XrmToolBox (⭐512)](https://github.com/MscrmTools/XrmToolBox) - An application that gather multiple tools to ease the customization and configuration of Microsoft Dynamics CRM/365/Dataverse/PowerApps.
-*   [Levelup for Dynamics CRM (⭐156)](https://github.com/rajyraman/Levelup-for-Dynamics-CRM) - Chrome, Edge Chromium and Firefox Extension for Dynamics CRM/365/Power Apps Power users.
-*   [Power Platform Adoption Framework (⭐114)](https://github.com/PowerPlatformAF/PowerPlatformAF) - The framework that enables people to create beautiful and useful things on Power Platform deployed in large, enterprise-grade organizations.
-*   [Flow & Power Apps Migrator (⭐98)](https://github.com/Zerg00s/FlowPowerAppsMigrator) - Converts SharePoint Data sources for the MS Flow and PowerApps to a new tenant of your choice.
-*   [SharePoint Workflow Converter (⭐15)](https://github.com/TracyGH/SharePointWorkflowConverter) - A proof-of-concept C# console application for retrieving legacy 2010 & 2013 custom SharePoint workflow definition files, and creating new Power Automate flows programmatically.
+*   [XrmToolBox (⭐533)](https://github.com/MscrmTools/XrmToolBox) - An application that gather multiple tools to ease the customization and configuration of Microsoft Dynamics CRM/365/Dataverse/PowerApps.
+*   [Levelup for Dynamics CRM (⭐163)](https://github.com/rajyraman/Levelup-for-Dynamics-CRM) - Chrome, Edge Chromium and Firefox Extension for Dynamics CRM/365/Power Apps Power users.
+*   [Power Platform Adoption Framework (⭐120)](https://github.com/PowerPlatformAF/PowerPlatformAF) - The framework that enables people to create beautiful and useful things on Power Platform deployed in large, enterprise-grade organizations.
+*   [Flow & Power Apps Migrator (⭐110)](https://github.com/Zerg00s/FlowPowerAppsMigrator) - Converts SharePoint Data sources for the MS Flow and PowerApps to a new tenant of your choice.
+*   [SharePoint Workflow Converter (⭐14)](https://github.com/TracyGH/SharePointWorkflowConverter) - A proof-of-concept C# console application for retrieving legacy 2010 & 2013 custom SharePoint workflow definition files, and creating new Power Automate flows programmatically.
 
 ### Reference Resources / Power Platform (Microsoft)
 
-*   [Power Platform Connectors (⭐654)](https://github.com/microsoft/PowerPlatformConnectors) - This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors.
+*   [Power Platform Connectors (⭐731)](https://github.com/microsoft/PowerPlatformConnectors) - This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors.
 
 ### Learning Resources / Power Platform (Microsoft)
 
-*   [Power Apps & Azure Lab (⭐37)](https://github.com/microsoft/PowerApps-Azure-Lab) - Repository to host the PowerApps Azure Lab.
-*   [PL-900: Power Platform Fundamentals (⭐206)](https://github.com/MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals) - Power Platform Fundamentals course materials.
+*   [Power Apps & Azure Lab (⭐38)](https://github.com/microsoft/PowerApps-Azure-Lab) - Repository to host the PowerApps Azure Lab.
+*   [PL-900: Power Platform Fundamentals (⭐220)](https://github.com/MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals) - Power Platform Fundamentals course materials.
 
 ### Samples, Templates and Solutions / Power Platform (Microsoft)
 
-*   [Power Apps Samples (⭐251)](https://github.com/pnp/powerapps-samples) - Contains curated community Microsoft Power App samples.
-*   [PowerApps Samples (⭐55)](https://github.com/Eickhel/PowerApps-samples) - Power Apps samples by Power Nimbus.
-*   [Power Apps Branding Template (⭐44)](https://github.com/iAmManCat/PowerApps-Branding-Template) - A template to empower developers and reduce time wasted on control changes.
-*   [SharePoint Power Platform Solutions (⭐122)](https://github.com/pnp/sp-power-platform-solutions) - Sample PowerApps solutions designed to be used in SharePoint context.
-*   [Power Automate Samples (⭐147)](https://github.com/pnp/powerautomate-samples) - Contains curated community samples for Microsoft Power Automate.
+*   [Power Apps Samples (⭐302)](https://github.com/pnp/powerapps-samples) - Contains curated community Microsoft Power App samples.
+*   [PowerApps Samples (⭐59)](https://github.com/Eickhel/PowerApps-samples) - Power Apps samples by Power Nimbus.
+*   [Power Apps Branding Template (⭐52)](https://github.com/iAmManCat/PowerApps-Branding-Template) - A template to empower developers and reduce time wasted on control changes.
+*   [SharePoint Power Platform Solutions (⭐131)](https://github.com/pnp/sp-power-platform-solutions) - Sample PowerApps solutions designed to be used in SharePoint context.
+*   [Power Automate Samples (⭐180)](https://github.com/pnp/powerautomate-samples) - Contains curated community samples for Microsoft Power Automate.
 *   [Automatic travel time (⭐2)](https://github.com/wortell/PowerAutomate-AutomatischeReistijd) - Automatic travel time in your Office 365 calendar.
 *   [Message Center in Teams (⭐1)](https://github.com/ericsche/MCinTeams) - Message Center in Teams is a simple PowerAutomate Solution to gather Message Center Announcement and post them in a Teams Channel.
-*   [Consume Power BI (⭐12)](https://github.com/ferrybouwman/Power-BI-Read-Only-REST-API) - Solution based on either Powershell or Power Automate (Flow) to consume the recently released Power BI Asynchronous Unified Scanning API.
+*   [Consume Power BI (⭐16)](https://github.com/ferrybouwman/Power-BI-Read-Only-REST-API) - Solution based on either Powershell or Power Automate (Flow) to consume the recently released Power BI Asynchronous Unified Scanning API.
 *   [Post List Item To Twitter (⭐0)](https://github.com/vaibhav21791/PostListItemToTwitter) - A Microsoft Power Automate Flow to Post a SharePoint List Item to Twitter along with media content.
 
 ### Community / Power Platform (Microsoft)
@@ -131,7 +131,7 @@
 
 ### Other Lists / Power Platform (Microsoft)
 
-*   [Awesome Microsoft Power Platform (⭐57)](https://github.com/Power-Maverick/awesome-power-platform) - A collection of awesome things regarding the Power Platform ecosystem.
+*   [Awesome Microsoft Power Platform (⭐66)](https://github.com/Power-Maverick/awesome-power-platform) - A collection of awesome things regarding the Power Platform ecosystem.
 
 ## [11. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
@@ -150,11 +150,11 @@
 
 ### Templates / Vue 3
 
-*   [vite-tauri-template (⭐249)](https://github.com/yooneskh/vite-tauri-template) - Tauri + Vite + Vue 3 + Vuetify 3 desktop app template.
-*   [vue-vite-h5 (⭐53)](https://github.com/LZHD/vue-vite-h5) - Use Vue3, TypeScript and Vant to develop mobile applications.
-*   [Vitesome (⭐179)](https://github.com/alvarosaburido/vitesome) - Vue3 + TypeScript + WindiCSS + Vue Router 4, i18n and Iconify.
+*   [vite-tauri-template (⭐278)](https://github.com/yooneskh/vite-tauri-template) - Tauri + Vite + Vue 3 + Vuetify 3 desktop app template.
+*   [vue-vite-h5 (⭐57)](https://github.com/LZHD/vue-vite-h5) - Use Vue3, TypeScript and Vant to develop mobile applications.
+*   [Vitesome (⭐257)](https://github.com/alvarosaburido/vitesome) - Vue3 + TypeScript + WindiCSS + Vue Router 4, i18n and Iconify.
 *   [vite-ts-vue3-todo (⭐46)](https://github.com/nabaonan/todos-action/tree/master/vue-vite-ts-setup) - Vue3 + TS + Vue-Router4 + Pinia2 template.
-*   [vitailse (⭐124)](https://github.com/zynth17/vitailse) - Like Vitesse but with Tailwind CSS.
+*   [vitailse (⭐134)](https://github.com/zynth17/vitailse) - Like Vitesse but with Tailwind CSS.
 
 ### Templates / Vue 2
 
@@ -162,59 +162,59 @@
 
 ### Templates / React
 
-*   [Vitamin (⭐370)](https://github.com/wtchnm/Vitamin) - React TypeScript, TailwindCSS, SPA + PWA, Cypress and CI.
-*   [vitejs-template-react-rescript (⭐95)](https://github.com/jihchi/vitejs-template-react-rescript) - React + ReScript.
-*   [vite-reactts-tailwind-rtk-eslint (⭐40)](https://github.com/IsaiaPhiliph/vite-reactts-tailwind-rtk-eslint) - React, TypeScript, Tailwind CSS, Redux Toolkit, eslint.
-*   [vite-react-tailwind-template (⭐23)](https://github.com/Innei/vite-react-tailwind-template) - React 17, TypeScript, Jest, ESLint, Prettier, Husky, Tailwind CSS, PostCSS, pnpm.
-*   [vite-react-ts-tailwind-firebase-starter (⭐214)](https://github.com/TeXmeijin/vite-react-ts-tailwind-firebase-starter) - Starter using Vite + React + TypeScript + Tailwind CSS (daisyUI) + Firebase (v9) + Prettier + ESLint.
+*   [Vitamin (⭐427)](https://github.com/wtchnm/Vitamin) - React TypeScript, TailwindCSS, SPA + PWA, Cypress and CI.
+*   [vitejs-template-react-rescript (⭐116)](https://github.com/jihchi/vitejs-template-react-rescript) - React + ReScript.
+*   [vite-reactts-tailwind-rtk-eslint (⭐47)](https://github.com/IsaiaPhiliph/vite-reactts-tailwind-rtk-eslint) - React, TypeScript, Tailwind CSS, Redux Toolkit, eslint.
+*   [vite-react-tailwind-template (⭐35)](https://github.com/Innei/vite-react-tailwind-template) - React 17, TypeScript, Jest, ESLint, Prettier, Husky, Tailwind CSS, PostCSS, pnpm.
+*   [vite-react-ts-tailwind-firebase-starter (⭐242)](https://github.com/TeXmeijin/vite-react-ts-tailwind-firebase-starter) - Starter using Vite + React + TypeScript + Tailwind CSS (daisyUI) + Firebase (v9) + Prettier + ESLint.
 
 ### Templates / Svelte
 
-*   [sttv (⭐115)](https://github.com/srmullen/sttv) - Svelte, Tailwind CSS, TypeScript.
+*   [sttv (⭐121)](https://github.com/srmullen/sttv) - Svelte, Tailwind CSS, TypeScript.
 
 ### Templates / Elm
 
-*   [vite-elm-template (⭐94)](https://github.com/lindsaykwardell/vite-elm-template) - A default template for building Elm applications.
+*   [vite-elm-template (⭐106)](https://github.com/lindsaykwardell/vite-elm-template) - A default template for building Elm applications.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [unplugin-icons (⭐2.6k)](https://github.com/antfu/unplugin-icons) - Access thousands of icons as components.
+*   [unplugin-icons (⭐3k)](https://github.com/antfu/unplugin-icons) - Access thousands of icons as components.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [rollup-plugin-critical (⭐72)](https://github.com/nystudio107/rollup-plugin-critical) - Generate critical CSS.
+*   [rollup-plugin-critical (⭐76)](https://github.com/nystudio107/rollup-plugin-critical) - Generate critical CSS.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-html-template (⭐101)](https://github.com/IndexXuan/vite-plugin-html-template) - HTML template, like `html-webpack-plugin` for Webpack.
-*   [vite-plugin-virtual-html (⭐49)](https://github.com/Windson1806/vite-plugin-virtual-html) - Make Vite MPA consistent with `@vue/cli`.
-*   [vite-plugin-require-context (⭐154)](https://github.com/originjs/vite-plugins/tree/main/packages/vite-plugin-require-context) - Supports `require.context`.
-*   [vite-plugin-commonjs (⭐154)](https://github.com/originjs/vite-plugins/tree/main/packages/vite-plugin-commonjs) - Support CommonJS to ESM.
-*   [vite-plugin-global-style (⭐112)](https://github.com/originjs/origin.js/tree/main/packages/vite-plugin-global-style) - Deal with global styles for CSS, SASS, LESS and Stylus.
+*   [vite-plugin-html-template (⭐109)](https://github.com/IndexXuan/vite-plugin-html-template) - HTML template, like `html-webpack-plugin` for Webpack.
+*   [vite-plugin-virtual-html (⭐57)](https://github.com/Windson1806/vite-plugin-virtual-html) - Make Vite MPA consistent with `@vue/cli`.
+*   [vite-plugin-require-context (⭐161)](https://github.com/originjs/vite-plugins/tree/main/packages/vite-plugin-require-context) - Supports `require.context`.
+*   [vite-plugin-commonjs (⭐161)](https://github.com/originjs/vite-plugins/tree/main/packages/vite-plugin-commonjs) - Support CommonJS to ESM.
+*   [vite-plugin-global-style (⭐119)](https://github.com/originjs/origin.js/tree/main/packages/vite-plugin-global-style) - Deal with global styles for CSS, SASS, LESS and Stylus.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-mkcert (⭐309)](https://github.com/liuweiGL/vite-plugin-mkcert) - Provide certificates https dev server.
-*   [vitawind (⭐123)](https://github.com/huibizhang/vitawind) - Install and Setting Tailwind CSS automatically.
-*   [unplugin-auto-import (⭐2.2k)](https://github.com/antfu/unplugin-auto-import) - On-demand API auto-importing.
-*   [vite-plugin-inspect (⭐865)](https://github.com/antfu/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins.
+*   [vite-plugin-mkcert (⭐395)](https://github.com/liuweiGL/vite-plugin-mkcert) - Provide certificates https dev server.
+*   [vitawind (⭐138)](https://github.com/huibizhang/vitawind) - Install and Setting Tailwind CSS automatically.
+*   [unplugin-auto-import (⭐2.5k)](https://github.com/antfu/unplugin-auto-import) - On-demand API auto-importing.
+*   [vite-plugin-inspect (⭐971)](https://github.com/antfu/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins.
 
 ### Vue / Integrations
 
-*   ![v2](https://img.shields.io/badge/-v2-42b883) [unplugin-vue2-script-setup (⭐559)](https://github.com/antfu/unplugin-vue2-script-setup) - Enabling `<script setup>` syntax for Vue 2.
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [unplugin-vue2-script-setup (⭐576)](https://github.com/antfu/unplugin-vue2-script-setup) - Enabling `<script setup>` syntax for Vue 2.
 
 ### Vue / Helpers
 
-*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [unplugin-vue-components (⭐2.9k)](https://github.com/antfu/unplugin-vue-components) - On-demand components auto-importing.
-*   ![v2](https://img.shields.io/badge/-v2-42b883) [vite-plugin-vue2-suffix (⭐8)](https://github.com/williamyorkl/vite-plugin-vue2-suffix) - Compatible without '.vue' suffix.
+*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [unplugin-vue-components (⭐3.2k)](https://github.com/antfu/unplugin-vue-components) - On-demand components auto-importing.
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [vite-plugin-vue2-suffix (⭐9)](https://github.com/williamyorkl/vite-plugin-vue2-suffix) - Compatible without '.vue' suffix.
 
 ### Rollup Plugins / Covered by default in Vite
 
-*   [@rollup/plugin-typescript (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/typescript) - Integration between Rollup and TypeScript.
+*   [@rollup/plugin-typescript (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/typescript) - Integration between Rollup and TypeScript.
 
 ### Apps/Websites / Community
 
-*   [Context Note (⭐647)](https://github.com/betterRunner/context-note) - A note-taking chrome extension built by Vue3 & Vite.
+*   [Context Note (⭐670)](https://github.com/betterRunner/context-note) - A note-taking chrome extension built by Vue3 & Vite.
 
 ## [14. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -348,7 +348,7 @@
   CORS: Yes
 
 
-- API: [Botd (⭐410)](https://github.com/fingerprintjs/botd)
+- API: [Botd (⭐735)](https://github.com/fingerprintjs/botd)
 
   Description: Botd is a browser library for JavaScript bot detection
 

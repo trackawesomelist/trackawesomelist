@@ -17,20 +17,20 @@
 ### Libraries
 
 *   Other API Interop and Implementations
-    *   [visor (⭐40)](https://github.com/baldurk/visor) - Vulkan Ignoble Software Rasterizer. \[MIT]
+    *   [visor (⭐42)](https://github.com/baldurk/visor) - Vulkan Ignoble Software Rasterizer. \[MIT]
     *   [VulkanOnD3D12](https://github.com/Chabloom/VulkanOnD3D12) - Vulkan API for D3D12. \[Apache License 2.0]
     *   [rostkatze (⭐78)](https://github.com/msiglreith/rostkatze) - C++ implementation of Vulkan sitting on D3D12 🐈\[Apache License 2.0]
     *   [VK9](https://github.com/disks86/VK9) - Direct3D 9 compatibility layer using Vulkan
-    *   [VUDA (⭐461)](https://github.com/jgbit/vuda) - header-only lib that provides a CUDA Runtime API interface. \[MIT]
-    *   [clspv (⭐519)](https://github.com/google/clspv) - prototype compiler for a subset of OpenCL C to Vulkan compute shaders. \[Apache License 2.0]
-    *   [MoltenVK (⭐3.9k)](https://github.com/KhronosGroup/MoltenVK/) - run Vulkan on iOS and macOS. \[Apache-2.0]
+    *   [VUDA (⭐776)](https://github.com/jgbit/vuda) - header-only lib that provides a CUDA Runtime API interface. \[MIT]
+    *   [clspv (⭐537)](https://github.com/google/clspv) - prototype compiler for a subset of OpenCL C to Vulkan compute shaders. \[Apache License 2.0]
+    *   [MoltenVK (⭐4.2k)](https://github.com/KhronosGroup/MoltenVK/) - run Vulkan on iOS and macOS. \[Apache-2.0]
     *   [Zink](https://gitlab.freedesktop.org/kusma/mesa/tree/zink) - OpenGL implementation on top of Vulkan, part of Mesa project. \[MIT]
-    *   [glo / OpenGL Overload (⭐275)](https://github.com/g-truc/glo) - OpenGL implementation on top of Vulkan.
-    *   [gfx-portability (⭐364)](https://github.com/gfx-rs/portability) - Vulkan Portability implementation on Metal and D3D12, based on [gfx-rs (⭐5.2k)](https://github.com/gfx-rs/gfx/).
+    *   [glo / OpenGL Overload (⭐274)](https://github.com/g-truc/glo) - OpenGL implementation on top of Vulkan.
+    *   [gfx-portability (⭐369)](https://github.com/gfx-rs/portability) - Vulkan Portability implementation on Metal and D3D12, based on [gfx-rs (⭐5.3k)](https://github.com/gfx-rs/gfx/).
 
 ### Bindings
 
-*   [gfx-rs (⭐5.2k)](https://github.com/gfx-rs/gfx) - A low-overhead Vulkan-like GPU API for Rust. \[Apache License 2.0]
+*   [gfx-rs (⭐5.3k)](https://github.com/gfx-rs/gfx) - A low-overhead Vulkan-like GPU API for Rust. \[Apache License 2.0]
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Packages / Application layer
 
-*   [navigation (⭐1.5k)](https://github.com/ros-planning/navigation2/) - ROS2 Navigation stack. ![navigation](https://img.shields.io/github/stars/ros-planning/navigation2.svg)
+*   [navigation (⭐1.6k)](https://github.com/ros-planning/navigation2/) - ROS2 Navigation stack. ![navigation](https://img.shields.io/github/stars/ros-planning/navigation2.svg)
 
 ## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -52,39 +52,39 @@
 
 ### Software / Database Management
 
-*   [Baserow](https://baserow.io/) - Open source online database tool and Airtable alternative. Create your own database without technical experience. ([Source Code](https://gitlab.com/bramw/baserow)) `MIT` `Python/Nodejs`
+*   [Baserow](https://baserow.io/) - Create your own database without technical experience (alternative to Airtable). ([Source Code](https://gitlab.com/bramw/baserow)) `MIT` `Docker`
 
 ### Software / Genealogy
 
-*   [webtrees](https://www.webtrees.net) - Webtrees is the web's leading on-line collaborative genealogy application. ([Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom\&ged=demo), [Source Code (⭐236)](https://github.com/fisharebest/webtrees)) `GPL-3.0` `PHP`
+*   [webtrees](https://www.webtrees.net) - Webtrees is the web's leading on-line collaborative genealogy application. ([Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom\&ged=demo), [Source Code (⭐292)](https://github.com/fisharebest/webtrees)) `GPL-3.0` `PHP`
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Mocki](https://mocki.io) - A tool that lets you create mock GraphQL and REST APIs synced to a GitHub repository. Simple REST APIs are free to create and use without signup.
+*   [Mocki](https://mocki.io) - A tool that lets you create mock GraphQL and REST APIs synced to a GitHub repository. Simple REST APIs are free to develop and use without signup.
 
 ## [7. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
 ### Tools / Plugins
 
-*   [gatling-gradle-plugin (⭐20)](https://github.com/gatling/gatling-gradle-plugin) - Gatling plugin for Gradle.
+*   [gatling-gradle-plugin (⭐25)](https://github.com/gatling/gatling-gradle-plugin) - Gatling plugin for Gradle.
 
 ### Tools / Miscellaneous
 
-*   [gatling.g8 (⭐7)](https://github.com/gatling/gatling.g8) - Giter8 template for Gatling.
+*   [gatling.g8 (⭐8)](https://github.com/gatling/gatling.g8) - Giter8 template for Gatling.
 
 ## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [Typin (⭐203)](https://github.com/adambajguz/Typin) - Simple to use declarative framework for interactive CLI applications and command line tools (direct mode) that has its roots in CliFx.
+*   [Typin (⭐229)](https://github.com/adambajguz/Typin) - Simple to use declarative framework for interactive CLI applications and command line tools (direct mode) that has its roots in CliFx.
 
 ## [9. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
 ### Finance
 
-*   [CryptoDepotWidget (⭐8)](https://github.com/Martlgap/CryptoDepotWidget) - A widget showing your crypto balances.
+*   [CryptoDepotWidget (⭐9)](https://github.com/Martlgap/CryptoDepotWidget) - A widget showing your crypto balances.
 
     <img src="https://raw.githubusercontent.com/Martlgap/CryptoDepotWidget/main/preview_small.png" height="100"/>
     <img src="https://raw.githubusercontent.com/Martlgap/CryptoDepotWidget/main/preview_medium.png" height="100"/>
@@ -110,7 +110,7 @@
 
 ### Templates / Vue 3
 
-*   [vivu (⭐65)](https://github.com/logustra/vivu) - Opinionated scalable vue boilerplate.
+*   [vivu (⭐72)](https://github.com/logustra/vivu) - Opinionated scalable vue boilerplate.
 
 ---
 

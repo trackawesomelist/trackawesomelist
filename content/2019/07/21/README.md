@@ -10,7 +10,7 @@
 
 ### Data Visualization / Runner
 
-*   [mxGraph (⭐6.5k)](https://github.com/jgraph/mxgraph) - Diagramming library that enables interactive graph and charting applications to be quickly created that run natively in any major browser that is supported by its vendor.
+*   [mxGraph (⭐6.6k)](https://github.com/jgraph/mxgraph) - Diagramming library that enables interactive graph and charting applications to be quickly created that run natively in any major browser that is supported by its vendor.
 
 ## [2. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Theming / Themes
 
-*   [ant-design-aliyun-theme (⭐302)](https://github.com/ant-design/ant-design-aliyun-theme) - Aliyun console theme variables of Ant Design.
+*   [ant-design-aliyun-theme (⭐304)](https://github.com/ant-design/ant-design-aliyun-theme) - Aliyun console theme variables of Ant Design.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -46,7 +46,7 @@
 ### Projects Using Vue.js / Open Source
 
 *   [vue-realworld-example-app (⭐4k)](https://github.com/gothinkster/vue-realworld-example-app) - Exemplary fullstack Medium.com clone
-*   [Daily (⭐13k)](https://github.com/dailynowco/daily) - Curated dev news delivered to your new tab 👩🏽‍💻
+*   [Daily (⭐14k)](https://github.com/dailynowco/daily) - Curated dev news delivered to your new tab 👩🏽‍💻
 
 ### Components & Libraries / UI Components
 
@@ -56,13 +56,13 @@
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [Mixcore CMS (⭐523)](https://github.com/mixcore/mix.core) - Open Source CMS powered by DotNet Core. Mixcore CMS is a scalable, open platform for web content management and digital experiences. Mixcore CMS provides deep capabilities and endless flexibility on the web.
+*   [Mixcore CMS (⭐662)](https://github.com/mixcore/mix.core) - Open Source CMS powered by DotNet Core. Mixcore CMS is a scalable, open platform for web content management and digital experiences. Mixcore CMS provides deep capabilities and endless flexibility on the web.
 
 ## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Top / Game Engine resources
 
-*   [Pokedex (⭐1.8k)](https://github.com/scitbiz/flutter_pokedex) - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz)
+*   [Pokedex (⭐2k)](https://github.com/scitbiz/flutter_pokedex) - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz)
 
 ## [7. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

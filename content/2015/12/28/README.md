@@ -10,7 +10,7 @@
 
 ### Frameworks
 
-*   [BDE (⭐1.5k)](https://github.com/bloomberg/bde) - The BDE Development Environment from Bloomberg Labs. \[Apache2]
+*   [BDE (⭐1.6k)](https://github.com/bloomberg/bde) - The BDE Development Environment from Bloomberg Labs. \[Apache2]
 
 ## [2. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Tools / Fuzz Testing
 
-*   [IntentFuzzer](https://www.nccgroup.trust/us/about-us/resources/intent-fuzzer/)
+*   ~~[IntentFuzzer](https://www.nccgroup.trust/us/about-us/resources/intent-fuzzer/)~~
 
 ---
 

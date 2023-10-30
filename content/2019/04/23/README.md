@@ -21,8 +21,8 @@
 
 ### Other Awesome Lists
 
-*   [awesome-ios (⭐42k)](https://github.com/vsouza/awesome-ios)
-*   [awesome-swift (⭐23k)](https://github.com/matteocrippa/awesome-swift)
+*   [awesome-ios (⭐44k)](https://github.com/vsouza/awesome-ios)
+*   [awesome-swift (⭐24k)](https://github.com/matteocrippa/awesome-swift)
 
 ## [3. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
@@ -56,13 +56,13 @@
 
 ### Demo
 
-*   [Vue.js Demo App](https://github.com/ishanvyas22/cakephpvue-spa) - A CakePHP + VueJS single page application skeleton.
+*   [Vue.js Demo App (⭐50)](https://github.com/ishanvyas22/cakephpvue-spa) - A CakePHP + VueJS single page application skeleton.
 
 ## [6. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 
 ### Scripting Tools
 
-*   [picocli (⭐3.9k)](https://github.com/remkop/picocli) - Parser library and framework for CLI. Usage help with ANSI colors. Autocomplete. Nested subcommands and more.
+*   [picocli (⭐4.3k)](https://github.com/remkop/picocli) - Parser library and framework for CLI. Usage help with ANSI colors. Autocomplete. Nested subcommands and more.
 
 ### Staying up to date
 
@@ -72,7 +72,7 @@
 
 ### UITableView / Barcode
 
-*   [WLEmptyState (⭐317)](https://github.com/wizeline/WLEmptyState) - A component that lets you customize the view when the dataset of UITableView is empty.
+*   [WLEmptyState (⭐316)](https://github.com/wizeline/WLEmptyState) - A component that lets you customize the view when the dataset of UITableView is empty.
 
 ---
 

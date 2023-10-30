@@ -73,10 +73,6 @@
 
 ## [4. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
-### Websites / Wiki
-
-*   [Official Minecraft Wiki](https://minecraft.gamepedia.com/Minecraft_Wiki) - Minecraft Wiki is a complete resource for Minecraft, including gameplay, blocks, crafting, updates, events, mods, running a server, and resource packs.
-
 ### Websites / Forums
 
 *   [Minecraft Forums](https://www.minecraftforum.net/) - Official community forums, a great place to talk about the game.
@@ -84,7 +80,7 @@
 
 ### Mod Loaders / Archives
 
-*   [Minecraft Forge (⭐6k)](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods.
+*   [Minecraft Forge (⭐6.4k)](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods.
 *   [liteloader](http://www.liteloader.com/) - A lightweight mod loader for Minecraft designed to provide simple, high-performance and reliable loader functionality for mods which don't need to modify game mechanics.
 
 ### Mods / Performance
@@ -93,7 +89,7 @@
 
 ### Mods / Skins And Capes
 
-*   [Universal Skin Mod (⭐29)](https://github.com/RecursiveG/UniSkinMod) - A Minecraft Forge Mod allows players load custom skin & cape textures.
+*   [Universal Skin Mod (⭐28)](https://github.com/RecursiveG/UniSkinMod) - A Minecraft Forge Mod allows players load custom skin & cape textures.
 
 ### Softwares / Utilities
 
@@ -119,23 +115,23 @@
 
 ### Example Projects
 
-*   [Securing Spring Boot Admin & Actuator Endpoints with Keycloak (⭐57)](https://github.com/thomasdarimont/spring-boot-admin-keycloak-example)
+*   [Securing Spring Boot Admin & Actuator Endpoints with Keycloak (⭐58)](https://github.com/thomasdarimont/spring-boot-admin-keycloak-example)
 
 ## [8. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Web / Runtime Application Self-Protection
 
-*   [OpenRASP (⭐2.5k)](https://github.com/baidu/openrasp) - An open source RASP solution actively maintained by Baidu Inc. With context-aware detection algorithm the project achieved nearly no false positives. And less than 3% performance reduction is observed under heavy server load.
+*   [OpenRASP (⭐2.6k)](https://github.com/baidu/openrasp) - An open source RASP solution actively maintained by Baidu Inc. With context-aware detection algorithm the project achieved nearly no false positives. And less than 3% performance reduction is observed under heavy server load.
 
 ## [9. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Web Programming • Libraries
 
 *   [lightgl.js (⭐1.5k)](https://github.com/evanw/lightgl.js) - A lightweight WebGL library.
-*   [picogl.js (⭐769)](https://github.com/tsherif/picogl.js) - A minimal WebGL 2 rendering library.
-*   [Alfrid (⭐224)](https://github.com/yiwenl/Alfrid) - A WebGL tool set.
-*   [twigl (⭐2.3k)](https://github.com/greggman/twgl.js) - A Tiny WebGL helper Library.
-*   [luma.gl (⭐2.1k)](https://github.com/uber/luma.gl) - WebGL2 Components for Data Visualization.
+*   [picogl.js (⭐778)](https://github.com/tsherif/picogl.js) - A minimal WebGL 2 rendering library.
+*   [Alfrid (⭐226)](https://github.com/yiwenl/Alfrid) - A WebGL tool set.
+*   [twigl (⭐2.4k)](https://github.com/greggman/twgl.js) - A Tiny WebGL helper Library.
+*   [luma.gl (⭐2.2k)](https://github.com/uber/luma.gl) - WebGL2 Components for Data Visualization.
 
 ### Machine learning • Computer Vision • Ai / Other
 
@@ -144,7 +140,7 @@
 
 ### Related / Other
 
-*   [3D Machine Learning (⭐8.8k)](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning.
+*   [3D Machine Learning (⭐9k)](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning.
 
 ## [10. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
@@ -289,7 +285,7 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Dotnet Serve (⭐610)](https://github.com/natemcmaster/dotnet-serve) - Simple command-line HTTP server for .NET Core CLI.
+*   [Dotnet Serve (⭐681)](https://github.com/natemcmaster/dotnet-serve) - Simple command-line HTTP server for .NET Core CLI.
 
 ## [21. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -297,13 +293,28 @@
 
 *   [Discourse](https://www.discourse.org/team) - Civilized discussion for your community.
 
-## [22. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [22. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Assembly Language / Blazor
+
+*   [x86-64 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/x86.html) - Ed Jorgensen (PDF)
+
+### Clojure / Non-X86
+
+*   [Clojure community-driven documentation](http://clojure-doc.org)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Math for programmers (using python)](https://akuli.github.io/math-tutorial/)
+*   [Python 3 Tutorial (⭐1.2k)](https://github.com/Akuli/python-tutorial)
+
+## [23. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Individuals/Group Contributors / S individuals
 
 *   Sergey Zhuk <http://sergeyzhuk.me/>
 
-## [23. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
+## [24. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
 
 ### Texts / Announcements and Memos
 
@@ -314,19 +325,19 @@
 
 *   [Adobe Photoshop](http://www.computerhistory.org/atchm/adobe-photoshop-source-code/) (1990) - The first version of Adobe Photoshop (written in Pascal)
 
-## [24. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [25. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Monitoring
 
 *   [mongo-monitor (⭐77)](https://github.com/dwmkerr/mongo-monitor) - Simple monitoring CLI
 
-## [25. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [26. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Game
 
-*   [BEPUphysics (⭐1.6k)](https://github.com/bepu/bepuphysics2) - BEPUphysics is a pure C# 3D physics library
+*   [BEPUphysics (⭐1.9k)](https://github.com/bepu/bepuphysics2) - BEPUphysics is a pure C# 3D physics library
 
-## [26. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [27. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Patterns
 
@@ -334,7 +345,7 @@
 
 ### Animation
 
-*   [Poi (⭐66)](https://github.com/HideakiTouhara/Poi) - Poi makes you use card UI like tinder UI .You can use it like tableview method.
+*   [Poi (⭐65)](https://github.com/HideakiTouhara/Poi) - Poi makes you use card UI like tinder UI .You can use it like tableview method.
 *   [TheAnimation (⭐221)](https://github.com/marty-suzuki/TheAnimation) - Type-safe CAAnimation wrapper. It makes preventing to set wrong type values.
 
 ### Date
@@ -347,21 +358,21 @@
 
 ### Alert / Barcode
 
-*   [SwiftEntryKit (⭐6.2k)](https://github.com/huri000/SwiftEntryKit) - A simple and versatile pop-up presenter.
+*   [SwiftEntryKit (⭐6.4k)](https://github.com/huri000/SwiftEntryKit) - A simple and versatile pop-up presenter.
 
-## [27. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [28. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Community and Support / Games
 
 *   [Discourse](https://discourse.elm-lang.org/) - Elm Discourse instance (official forum).
 
-## [28. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [29. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Audio
 
-*   [LMMS](https://lmms.io/) - Complete digital audio workstation. ([GNU GPLv2+ (⭐6.2k)](https://github.com/LMMS/lmms/blob/master/LICENSE.txt))
+*   [LMMS](https://lmms.io/) - Complete digital audio workstation. ([GNU GPLv2+ (⭐6.8k)](https://github.com/LMMS/lmms/blob/master/LICENSE.txt))
 
-## [29. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [30. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -370,17 +381,11 @@
 ### Projects Using Vue.js / A11y
 
 *   [Vue A11y project](https://github.com/vue-a11y) - Vue.js community project to improve web accessibility.
-*   [vue-skip-to (⭐72)](https://github.com/vue-a11y/vue-skip-to) - It helps people who only use the keyboard to jump to what matters most.
-*   [vue-axe (⭐177)](https://github.com/vue-a11y/vue-axe) - Accessibility auditing for Vue.js applications.
-*   [eslint-plugin-vue-a11y (⭐157)](https://github.com/maranran/eslint-plugin-vue-a11y) - Static AST checker for accessibility rules on elements in .vue
-*   [vue-focus-lock (⭐135)](https://github.com/theKashey/vue-focus-lock) - It is a trap! A lock for a Focus. A11y util for scoping a focus.
-*   [vue-a11y-calendar (⭐252)](https://github.com/IBM/vue-a11y-calendar) - Accessible, internationalized Vue calendar.
-
-## [30. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
-
-### Software / Identity Management - Tools and web interfaces
-
-*   [OpenID Connect](http://openid.net/developers/libraries/) - A Simple Identity layer on top of OAuth 2.0.
+*   [vue-skip-to (⭐74)](https://github.com/vue-a11y/vue-skip-to) - It helps people who only use the keyboard to jump to what matters most.
+*   [vue-axe (⭐187)](https://github.com/vue-a11y/vue-axe) - Accessibility auditing for Vue.js applications.
+*   [eslint-plugin-vue-a11y (⭐158)](https://github.com/maranran/eslint-plugin-vue-a11y) - Static AST checker for accessibility rules on elements in .vue
+*   [vue-focus-lock (⭐136)](https://github.com/theKashey/vue-focus-lock) - It is a trap! A lock for a Focus. A11y util for scoping a focus.
+*   [vue-a11y-calendar (⭐253)](https://github.com/IBM/vue-a11y-calendar) - Accessible, internationalized Vue calendar.
 
 ## [31. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
@@ -393,7 +398,7 @@
 ### Ask these people anything!
 
 *   [Rishi Pithadiya (⭐1)](https://github.com/rishiip/ama) - Full-stack Ruby on Rails developer in India, open source enthusiast.
-*   [Byungjin Park (⭐15)](https://github.com/posquit0/ama) - Software Architect, DevOps Engineer, Hacker, Open Sourcer.
+*   [Byungjin Park (⭐14)](https://github.com/posquit0/ama) - Software Architect, DevOps Engineer, Hacker, Open Sourcer.
 
 ## [33. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 

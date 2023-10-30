@@ -46,14 +46,14 @@
 
 ### Miscellaneous
 
-*   [See the guide (⭐5.5k)](https://github.com/likedan/Awesome-CoreML-Models/blob/master/.github/CONTRIBUTING.md)
+*   [See the guide (⭐5.8k)](https://github.com/likedan/Awesome-CoreML-Models/blob/master/.github/CONTRIBUTING.md)
 *   Distributed under the MIT license. See LICENSE for more information.
 
 ## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Database
 
-*   [JsonFlatFileDataStore (⭐364)](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
+*   [JsonFlatFileDataStore (⭐389)](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
 
 ---
 

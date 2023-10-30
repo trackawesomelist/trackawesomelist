@@ -10,7 +10,7 @@
 
 ### Books
 
-*   [cppbestpractices (⭐7k)](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
+*   [cppbestpractices (⭐7.4k)](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
 
 ## [2. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -179,7 +179,7 @@
 
 ### Web Frameworks
 
-*   [gServ (⭐48)](https://github.com/javaConductor/gserv) - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.).
+*   [gServ (⭐50)](https://github.com/javaConductor/gserv) - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.).
 
 ## [17. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -231,11 +231,11 @@
 
 ### Packages / Templating
 
-*   [EJS (⭐7.1k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
+*   [EJS (⭐7.3k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
 
 ### Packages / Parsing
 
-*   [Stylecow (⭐159)](https://github.com/stylecow/stylecow) - Parse, manipulate and convert modern CSS to make it compatible with all browsers. Extensible with plugins.
+*   [Stylecow (⭐161)](https://github.com/stylecow/stylecow) - Parse, manipulate and convert modern CSS to make it compatible with all browsers. Extensible with plugins.
 
 ## [23. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 

@@ -22,19 +22,19 @@
 
 ### Endpoint / Forensics
 
-*   [Logdissect (⭐127)](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
+*   [Logdissect (⭐131)](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
 
 ## [4. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Software / Command Line Tools
 
-*   [Logdissect (⭐122)](https://github.com/dogoncouch/logdissect/) - CLI utility and Python API for analyzing log files and other data. ([MIT (⭐122)](https://github.com/dogoncouch/logdissect/blob/master/LICENSE))
+*   [Logdissect (⭐129)](https://github.com/dogoncouch/logdissect/) - CLI utility and Python API for analyzing log files and other data. ([MIT (⭐129)](https://github.com/dogoncouch/logdissect/blob/master/LICENSE))
 
 ## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [TypeGQL (⭐419)](https://github.com/prismake/typegql) - Set of tools for creating GraphQL schema directly from typed TypeScript class.
+*   :octocat: [TypeGQL (⭐422)](https://github.com/prismake/typegql) - Set of tools for creating GraphQL schema directly from typed TypeScript class.
 
 ## [6. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Frameworks, Libraries and Tools / Compilers, Transpilers and Languages
 
-*   [Fable (⭐2.5k)](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler.
+*   [Fable (⭐2.7k)](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 06 - Mar 12, 2023
 
-50 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,24 +10,15 @@
 
 ### Spreadsheets and Documents
 
-*   [CAXLSX (⭐415)](https://github.com/caxlsx/caxlsx) - A community maintained excel xlsx generation library. [AXLSX (⭐2.6k)](https://github.com/randym/axlsx) - The original.
+*   [CAXLSX (⭐442)](https://github.com/caxlsx/caxlsx) - A community maintained excel xlsx generation library. [AXLSX (⭐2.6k)](https://github.com/randym/axlsx) - The original.
 
-## [2. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
-
-### Legend / Model Assets
-
-*   Other
-    *   📚 - Article, Blog, Collection, List, Tutorial(s)
-        🔥 - - Hot, Amazing Resource!
-    *   🌎 - Website
-
-## [3. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [2. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
-*   [Macige (⭐68)](https://github.com/tramlinehq/macige) - CI workflow generator for mobile app development, [Live Demo](https://macige.tramline.app).
+*   [Macige (⭐75)](https://github.com/tramlinehq/macige) - CI workflow generator for mobile app development, [Live Demo](https://macige.tramline.app).
 
-## [4. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [3. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Icons:
 
@@ -35,59 +26,60 @@
 
 
 
-## [5. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [4. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
-### Command-Line Tools / Newsletters
+### Command-Line Tools / Discovery
 
-*   [deadnix (⭐250)](https://github.com/astro/deadnix) - Scan Nix files for dead code.
+*   [deadnix (⭐293)](https://github.com/astro/deadnix) - Scan Nix files for dead code.
 
 ### Programming Languages / Ruby
 
-*   [ruby-nix (⭐76)](https://github.com/sagittaros/ruby-nix) - Generates reproducible ruby/bundler app environment with Nix.
+*   [ruby-nix (⭐88)](https://github.com/sagittaros/ruby-nix) - Generates reproducible ruby/bundler app environment with Nix.
 
-## [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Hosted Notebook Solutions
 
 *   [Mineo.app](https://mineo.app) - Data Ops platform with Jupyter-compatible notebooks, no code blocks, and support for creating dashboards.
 
-## [7. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [6. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Libraries
 
 *   Frameworks, Engines, Higher Level Rendering
-    *   [Acid (⭐1.5k)](https://github.com/Equilibrium-Games/Acid) - A high speed C++17 Vulkan game engine. \[MIT]
-    *   [AMD's Anvil (⭐577)](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil) - cross-platform framework for Vulkan. \[[LICENSE (⭐577)](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil/blob/master/LICENSE.txt)]
-    *   [Auto-Vk (⭐133)](https://github.com/cg-tuwien/Auto-Vk) - Vulkan convenience and productivity layer for modern C++, atop Vulkan-Hpp, by the Research Unit of Computer Graphics, TU Wien. \[MIT]
-    *   [Auto-Vk-Toolkit (⭐229)](https://github.com/cg-tuwien/Auto-Vk-Toolkit) - C++ framework around [Auto-Vk (⭐133)](https://github.com/cg-tuwien/Auto-Vk) for rapid prototyping, research, and teaching, by the Research Unit of Computer Graphics, TU Wien. \[MIT for the framework's code]
+    *   [Acid (⭐1.6k)](https://github.com/Equilibrium-Games/Acid) - A high speed C++17 Vulkan game engine. \[MIT]
+    *   [AMD's Anvil (⭐584)](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil) - cross-platform framework for Vulkan. \[[LICENSE (⭐584)](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil/blob/master/LICENSE.txt)]
+    *   [Auto-Vk (⭐208)](https://github.com/cg-tuwien/Auto-Vk) - Vulkan convenience and productivity layer for modern C++, atop Vulkan-Hpp, by the Research Unit of Computer Graphics, TU Wien. \[MIT]
+    *   [Auto-Vk-Toolkit (⭐305)](https://github.com/cg-tuwien/Auto-Vk-Toolkit) - C++ framework around [Auto-Vk (⭐208)](https://github.com/cg-tuwien/Auto-Vk) for rapid prototyping, research, and teaching, by the Research Unit of Computer Graphics, TU Wien. \[MIT for the framework's code]
     *   [bgfx (⭐13k)](https://github.com/bkaradzic/bgfx#bgfx---cross-platform-rendering-library) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. \[[BSD-2-clause (⭐13k)](https://github.com/bkaradzic/bgfx/blob/master/LICENSE)]
     *   [bsf (⭐1.7k)](https://github.com/GameFoundry/bsf) - Modern C++14 library for the development of real-time graphical applications. \[MIT]
-    *   [Cinder (⭐5k)](https://github.com/cinder/Cinder) and [the story](https://libcinder.org/notes/vulkan) [behind](https://forum.libcinder.org/#Topic/23286000002614007). \[BSD]
-    *   [DemoFramework (⭐198)](https://github.com/NXPmicro/gtec-demo-framework) - NXP GTEC C++11 cross-platform demo framework including lots of samples for Vulkan, OpenGL ES, OpenVX, OpenCL, OpenVG and OpenCV. \[[BSD-3-clause (⭐198)](https://github.com/NXPmicro/gtec-demo-framework/blob/master/License.md)]
-    *   [Diligent Engine (⭐2.7k)](https://github.com/DiligentGraphics/DiligentEngine) - a modern cross-platform low-level graphics library that supports OpenGL/GLES, Direct3D11/12 and Vulkan. \[Apache License 2.0]
-    *   [Falcor (⭐1.9k)](https://github.com/NVIDIAGameWorks/Falcor) - Real-time rendering framework from NVIDIA, supporting mainly DX12, with experimental Vulkan support. \[BSD 3-clause]
-    *   [glfw (⭐10k)](https://github.com/glfw/glfw) and [the guide](http://www.glfw.org/docs/3.2/vulkan.html).  \[[LICENSE (⭐10k)](https://github.com/glfw/glfw/blob/master/LICENSE.md)]
+    *   [Cinder (⭐5.1k)](https://github.com/cinder/Cinder) and [the story](https://libcinder.org/notes/vulkan) [behind](https://forum.libcinder.org/#Topic/23286000002614007). \[BSD]
+    *   [DemoFramework (⭐217)](https://github.com/NXPmicro/gtec-demo-framework) - NXP GTEC C++11 cross-platform demo framework including lots of samples for Vulkan, OpenGL ES, OpenVX, OpenCL, OpenVG and OpenCV. \[[BSD-3-clause (⭐217)](https://github.com/NXPmicro/gtec-demo-framework/blob/master/License.md)]
+    *   [Diligent Engine (⭐3k)](https://github.com/DiligentGraphics/DiligentEngine) - a modern cross-platform low-level graphics library that supports OpenGL/GLES, Direct3D11/12 and Vulkan. \[Apache License 2.0]
+    *   [Falcor (⭐2.1k)](https://github.com/NVIDIAGameWorks/Falcor) - Real-time rendering framework from NVIDIA, supporting mainly DX12, with experimental Vulkan support. \[BSD 3-clause]
+    *   [glfw (⭐11k)](https://github.com/glfw/glfw) and [the guide](http://www.glfw.org/docs/3.2/vulkan.html).  \[[LICENSE (⭐11k)](https://github.com/glfw/glfw/blob/master/LICENSE.md)]
     *   [Intrinsic Engine (⭐1k)](https://github.com/begla/Intrinsic) - Intrinsic is a Vulkan based cross-platform graphics and game engine. \[Apache License 2.0]
-    *   [Introductory Vulkan sample by GPUOpen (⭐110)](https://github.com/GPUOpen-LibrariesAndSDKs/HelloVulkan). \[MIT]
-    *   [liblava (⭐600)](https://github.com/liblava/liblava) - A modern C++ and easy-to-use framework. \[MIT]
+    *   [Introductory Vulkan sample by GPUOpen (⭐113)](https://github.com/GPUOpen-LibrariesAndSDKs/HelloVulkan). \[MIT]
+    *   [liblava (⭐652)](https://github.com/liblava/liblava) - A modern C++ and easy-to-use framework. \[MIT]
     *   [Logi (⭐12)](https://github.com/UL-FRI-LGM/Logi) - Light-weight object oriented Vulkan abstraction framework. \[BSD 2-clause]
-    *   [Lugdunum (⭐237)](https://github.com/Lugdunum3D/Lugdunum) - Modern cross-platform 3D rendering engine built with Vulkan and modern C++14. \[MIT]
-    *   [openFrameworks (⭐65)](https://github.com/openframeworks-vk/openFrameworks) - the most famouse C++ creative coding framework. \[MIT]
-    *   [PowerVR SDK (⭐602)](https://github.com/powervr-graphics/Native_SDK) - C++ cross-platform 3D graphics SDK to speed up development of Vulkan and GLES. \[[LICENSE (⭐602)](https://github.com/powervr-graphics/Native_SDK/blob/4.1/LICENSE_POWERVR_SDK.txt)]
-    *   [Pumex (⭐286)](https://github.com/pumexx/pumex) - cross-platform Vulkan renderer implementing frame graph and simple scene graph. Able to render on many surfaces at once \[MIT]
+    *   [Lugdunum (⭐239)](https://github.com/Lugdunum3D/Lugdunum) - Modern cross-platform 3D rendering engine built with Vulkan and modern C++14. \[MIT]
+    *   [openFrameworks (⭐64)](https://github.com/openframeworks-vk/openFrameworks) - the most famouse C++ creative coding framework. \[MIT]
+    *   [PowerVR SDK (⭐635)](https://github.com/powervr-graphics/Native_SDK) - C++ cross-platform 3D graphics SDK to speed up development of Vulkan and GLES. \[[LICENSE (⭐635)](https://github.com/powervr-graphics/Native_SDK/blob/4.1/LICENSE_POWERVR_SDK.txt)]
+    *   [Pumex (⭐288)](https://github.com/pumexx/pumex) - cross-platform Vulkan renderer implementing frame graph and simple scene graph. Able to render on many surfaces at once \[MIT]
     *   [SDL](https://discourse.libsdl.org/t/sdl-2-0-6-released/23109) - added cross-platform Vulkan graphics support in SDL\_vulkan.h. \[zlib]
     *   [small3d](https://www.gamedev.net/projects/515-small3d/), Tiny Vulkan based C++ cross-platform game development framework \[BSD 3-clause]
     *   [Spectrum (⭐15)](https://github.com/mwalczyk/spectrum_core) - Work-in-progress framework and abstraction layer around Vulkan.
-    *   [The-Forge (⭐3.5k)](https://github.com/ConfettiFX/The-Forge) - DirectX 12, Vulkan, macOS Metal 2 rendering framework. \[Apache License 2.0]
+    *   [The-Forge (⭐3.8k)](https://github.com/ConfettiFX/The-Forge) - DirectX 12, Vulkan, macOS Metal 2 rendering framework. \[Apache License 2.0]
+    *   [VKFS (⭐3)](https://github.com/MHDtA-dev/VKFS) - Cross-platform easy-to-use C++ framework that allows you to quickly initialize Vulkan and get a ready-made environment. Provides high-level abstraction over basic Vulkan objects.
     *   [VkHLF (⭐328)](https://github.com/nvpro-pipeline/VkHLF) - Vulkan High Level Framework. [\[LICENSE\] (⭐328)](https://github.com/nvpro-pipeline/VkHLF/blob/master/LICENSE.txt)
-    *   [Vulkan Launchpad (⭐14)](https://github.com/cg-tuwien/VulkanLaunchpad) - Vulkan framework for Windows, macOS, and Linux. Especially well-suited for Vulkan beginners, used in university education, by the Research Unit of Computer Graphics, TU Wien. \[MIT]
-        *   [Vulkan Launchpad Starter (⭐7)](https://github.com/cg-tuwien/VulkanLaunchpadStarter) - Starter template containing additional functionality and assets. [\[LICENSE\] (⭐7)](https://github.com/cg-tuwien/VulkanLaunchpadStarter/blob/main/LICENSE)
+    *   [Vulkan Launchpad (⭐27)](https://github.com/cg-tuwien/VulkanLaunchpad) - Vulkan framework for Windows, macOS, and Linux. Especially well-suited for Vulkan beginners, used in university education, by the Research Unit of Computer Graphics, TU Wien. \[MIT]
+        *   [Vulkan Launchpad Starter (⭐11)](https://github.com/cg-tuwien/VulkanLaunchpadStarter) - Starter template containing additional functionality and assets. [\[LICENSE\] (⭐11)](https://github.com/cg-tuwien/VulkanLaunchpadStarter/blob/main/LICENSE)
 
 ### Bindings
 
-*   [Deno Vulkan (⭐7)](https://github.com/deno-windowing/vulkan) - Vulkan API bindings for Deno. \[Apache Licence 2.0]
+*   [Deno Vulkan (⭐11)](https://github.com/deno-windowing/vulkan) - Vulkan API bindings for Deno. \[Apache Licence 2.0]
 
-## [8. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [7. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Free Courses
 
@@ -97,19 +89,13 @@
 
 *   [IBB Open Portal](https://data.ibb.gov.tr/en/)
 
-## [9. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [8. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Haskell SDK
 
 *   [Repo :fire::fire::fire: (⭐558)](https://github.com/brendanhay/amazonka)
 
-## [10. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
-
-### Slide Show and Presentation Tools / Telegram
-
-*   [nimdone](https://nimdone.com)
-
-## [11. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [9. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -117,116 +103,125 @@
 
 ### Example Projects
 
-*   [Example for using Keycloak Authorization with ASP.NET Core (⭐157)](https://github.com/NikiforovAll/keycloak-authorization-services-dotnet)
+*   [Example for using Keycloak Authorization with ASP.NET Core (⭐222)](https://github.com/NikiforovAll/keycloak-authorization-services-dotnet)
 
-## [12. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [10. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### Development
 
-*   [vudu (⭐22)](https://github.com/deltadaedalus/vudu) - Broad in-game debugging gui with a console, variable browser/editor, speed controls, and more.
+*   [vudu (⭐25)](https://github.com/deltadaedalus/vudu) - Broad in-game debugging gui with a console, variable browser/editor, speed controls, and more.
 
-## [13. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [11. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Open source / GPL (with linking exception)
 
 *   [fsf-gnat](https://www.getadanow.com/) - Free Software Foundation compiler for the Ada programming language which forms part of the GNU Compiler Collection. It supports all versions of the language, i.e. Ada 2012, Ada 2005, Ada 95 and Ada 83.
 
-### Commercial / Closed source / MIT
+### Commercial / Closed source / Apache License
 
 *   [xgc](https://www.xgc.com/) - XGC provide GCC-based bare-metal toolchains with Ada95 support for aerospace-specific targets such as MIL1750, ERC32 and LEON. As well as a legacy M68000 toolchain.
 
-### Text Modes / MIT
+### Text Modes / Apache License
 
 *   [gnu-emacs-ada-mode](https://www.nongnu.org/ada-mode/) - Gnu Emacs major-mode for editing Ada sources.
 
-### Graphical User Interface / MIT
+### Graphical User Interface / Apache License
 
-*   [adawebui (⭐1)](https://github.com/godunko/adawebui) - GUI based on [adawebpack (⭐37)](https://github.com/godunko/adawebpack).
+*   [adawebui (⭐1)](https://github.com/godunko/adawebui) - GUI based on [adawebpack (⭐41)](https://github.com/godunko/adawebpack).
 
-### Terminal User Interface / MIT
+### Terminal User Interface / Apache License
 
 *   [ncurses-ada95](https://invisible-island.net/ncurses/ncurses-Ada95.html) - Ada95 bindings for ncurses.
 
-### Web / MIT
+### Web / Apache License
 
 *   [matreshka (⭐3)](https://github.com/godunko/matreshka) - Matreshka is an Ada framework to develop information systems consisting of five major components: League, XML processor, Web framework, SQL access, and the Modeling framework.
 *   [ironsides](https://ironsides.martincarlisle.com) - Authoritative DNS server verified by SPARK/Ada.
 
-### Unit Test, Testing / MIT
-
-*   [aunit](https://libre.adacore.com/tools/aunit/) - Ada unit testing framework.
-
-### Verification / MIT
+### Verification / Apache License
 
 *   [adacontrol](https://www.adalog.fr/en/adacontrol.html) - Ada constructs lint tool.
 
-### UML / MIT
+### UML / Apache License
 
 *   [umbrello](https://apps.kde.org/es/umbrello/) - Unified Modelling Language (UML) diagram program based on KDE Technology. Outputs Ada.
 
-### Algorithms, Containers and Protocols / MIT
+### Algorithms, Containers and Protocols / Apache License
 
 *   [sal](https://www.stephe-leake.org/ada/sal.html) - SAL (Stephe's Ada Library).
 
-### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / MIT
+### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / Apache License
 
 *   [wisitoken](https://stephe-leake.org/ada/wisitoken.html) - WisiToken is an LALR, LR1, and Packrat parser generator and run-time.
 
-### Sound / MIT
+### Sound / Apache License
 
 *   [scala](https://www.huygens-fokker.org/scala) - Scala is a powerful software tool for experimentation with musical tunings, such as just intonation scales, equal and historical temperaments, microtonal and macrotonal scales, and non-Western scales.
 
-### Shells, Interpreters and Emulators / MIT
+### Shells, Interpreters and Emulators / Apache License
 
 *   [sparforte](https://sparforte.com/) - SPARforte programming language is an Ada-like scripting language, previously known as business user shell (bush). Can be used as interactive UNIX shell replacement.
 
-### Misc / MIT
+### Misc / Apache License
 
 *   [ada-chess](https://www.adachess.com/) - Chess engine written in Ada.
 
-### Bindings / MIT
+### Bindings / Apache License
 
 *   [pcsc-ada](https://www.codelabs.ch/pcscada) - PCSC/Ada provides a thick Ada binding to PC/SC-middleware. The library allows programs written in Ada to communicate with smart cards using the SCard API.
 
-## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Robotics
 
-*   [Ruckig (⭐431)](https://github.com/pantor/ruckig) - Real-time motion generation for robots and machines. \[MIT] [website](https://ruckig.com)
+*   [Ruckig (⭐494)](https://github.com/pantor/ruckig) - Real-time motion generation for robots and machines. \[MIT] [website](https://ruckig.com)
 
-## [15. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [13. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Automotive
 
 *   [Kia Niro Hybrid](https://www.kia.com/kr/buy/build-your-car/build/trim?rcCode=KRSG078) - Kia configurator (Korean).
 
-## [16. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [14. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
-### Swift / Angular
+### Swift / Svelte
 
 *   [Indie Watch](https://indie.watch/). Weekly interviews with successful iOS & macOS developers about strategies and tips you can use to create profitable indie apps.
 
-### Python / Angular
+### Python / Svelte
 
 *   [Python Morsels Newsletter](https://www.pythonmorsels.com/newsletter/). One Python tip every week, sent on Wednesdays.
 
-## [17. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [15. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-azapi (⭐119)](https://github.com/Azure/terraform-provider-azapi) - Provider for Azure Resource Manager Rest API
-*   [terraform-provider-azuredevops (⭐295)](https://github.com/microsoft/terraform-provider-azuredevops) - Provider for Azure DevOps (VSTS).
-*   [terraform-provider-terracurl (⭐96)](https://github.com/devops-rob/terraform-provider-terracurl) - Provider to make managed and unmanaged API calls to your target endpoint.
+*   [terraform-provider-azapi (⭐137)](https://github.com/Azure/terraform-provider-azapi) - Provider for Azure Resource Manager Rest API
+*   [terraform-provider-azuredevops (⭐327)](https://github.com/microsoft/terraform-provider-azuredevops) - Provider for Azure DevOps (VSTS).
 
-### Tools / Vendor supported providers
+### Providers / Community providers
 
-*   [aztfexport (⭐1.2k)](https://github.com/Azure/aztfexport) - A tool to bring existing Azure resources under Terraform's management.
+*   [terraform-provider-terracurl (⭐107)](https://github.com/devops-rob/terraform-provider-terracurl) - Provider to make managed and unmanaged API calls to your target endpoint.
 
-### Terraform Enterprise / Vendor supported providers
+### Tools / Community providers
+
+*   [aztfexport (⭐1.3k)](https://github.com/Azure/aztfexport) - A tool to bring existing Azure resources under Terraform's management.
+
+### Terraform Enterprise / IDE
 
 *   [Digger](https://digger.dev) - Open Source Alternative to Terraform Cloud - Run Terraform plan & apply jobs in your CI.
 
-## [18. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [16. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/week/README.md)
+
+### Examples
+
+*   [facebook/hhvm (⭐18k)](https://github.com/facebook/hhvm/wiki)
+
+### Useful links with tips & tricks
+
+*   [GitHub Projects, Teams, Fork & Wiki For Documenting Projects](https://www.softwaretestinghelp.com/github-projects-teams-fork-wiki)
+
+## [17. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Automation
 
@@ -237,29 +232,29 @@
 *   [Midjourney](https://www.midjourney.com) - It is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 *   [Runway](https://runwayml.com/) - It is your next-generation content creation suite.
 
-## [19. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [18. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Personal Dashboards
 
-*   [Hubleys (⭐13)](https://github.com/knrdl/hubleys-dashboard) - Self-hosted personal dashboards to organize links for multiple users via a central yaml config. `MIT` `Docker`
+*   [Hubleys (⭐30)](https://github.com/knrdl/hubleys-dashboard) - Self-hosted personal dashboards to organize links for multiple users via a central yaml config. `MIT` `Docker`
 
 ### Software / Software Development - Project Management
 
-*   [Mindwendel](https://www.mindwendel.com/) - Brainstorm and upvote ideas and thoughts within your team. ([Demo](https://www.mindwendel.com), [Source Code (⭐33)](https://github.com/mindwendel/mindwendel)) `AGPL-3.0` `Docker/Elixir`
+*   [Mindwendel](https://www.mindwendel.com/) - Brainstorm and upvote ideas and thoughts within your team. ([Demo](https://www.mindwendel.com), [Source Code (⭐43)](https://github.com/b310-digital/mindwendel)) `AGPL-3.0` `Docker/Elixir`
 
-## [20. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [19. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Apps / Mapping
 
 *   [wardleyToGo](https://owulveryck.github.io/wardleyToGo/demo/) is a SDK to do map-as-code **and** a high level language (`wtg`) to express map-as-data. The set of tools allows an easy integration of the map in CI, and the online demo allows to desing maps online.
 
-## [21. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [20. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Security
 
-*   [CetusGuard (⭐15)](https://github.com/hectorm/cetusguard) - CetusGuard is a tool that protects the Docker daemon socket by filtering calls to its API endpoints
+*   [CetusGuard (⭐28)](https://github.com/hectorm/cetusguard) - CetusGuard is a tool that protects the Docker daemon socket by filtering calls to its API endpoints
 
-## [22. Awesome Orgs](/content/beansource/awesome-orgs/week/README.md)
+## [21. Awesome Orgs](/content/beansource/awesome-orgs/week/README.md)
 
 ### Companies
 
@@ -322,23 +317,23 @@
 *   [Z-Shell](https://github.com/z-shell) - Open source society passionate about Zsh.
 *   [ReadMe](https://github.com/readmeio) - Beautiful, personalized, interactive developer hubs 🦉.
 
-## [23. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [22. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Commonsense / Intuitive Physics
 
 *   [Intuitive physics learning in a deep-learning model inspired by developmental psychology](https://www.nature.com/articles/s41562-022-01394-8) - ***Nature Human Behavior***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=13803979681049451699\&hl=en\&as_sdt=0,5)]. A machine-learning dataset designed to evaluate conceptual understanding of intuitive physics, adopting the violation-of-expectation (VoE) paradigm from developmental psychology; a deep-learning system that learns intuitive physics directly from visual data, inspired by studies of visual cognition in children.
 
-## [24. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [23. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Utilities
 
-*   [Epic Asset Manager (⭐241)](https://github.com/AchetaGames/Epic-Asset-Manager) — An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.
+*   [Epic Asset Manager (⭐271)](https://github.com/AchetaGames/Epic-Asset-Manager) — An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.
 
 ### Libraries / Image processing
 
-*   [marekm4/dominant\_color (⭐19)](https://github.com/marekm4/dominant_color) \[[dominant\_color](https://crates.io/crates/dominant_color)] — Dominant color extractor ![build badge](https://github.com/marekm4/dominant_color/actions/workflows/rust.yml/badge.svg?branch=master)
+*   [marekm4/dominant\_color (⭐23)](https://github.com/marekm4/dominant_color) \[[dominant\_color](https://crates.io/crates/dominant_color)] — Dominant color extractor ![build badge](https://github.com/marekm4/dominant_color/actions/workflows/rust.yml/badge.svg?branch=master)
 
-## [25. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [24. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Postal Addresses
 
@@ -346,43 +341,43 @@
 *   [Why doesn't Costa Rica use real addresses?](https://www.crcdaily.com/p/why-doesnt-costa-rica-use-real-addresses) - Costa Rican uses an idiosyncratic system of addresses that relies on landmarks, history and quite a bit of guesswork.
 *   [USPS Postal Addressing Standards](https://pe.usps.com/text/pub28/welcome.htm) - Describes both standardized address formats and content.
 
-## [26. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [25. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [neanias/everforest-nvim (⭐51)](https://github.com/neanias/everforest-nvim) - A Lua port of the Everforest colour scheme.
+*   [neanias/everforest-nvim (⭐97)](https://github.com/neanias/everforest-nvim) - A Lua port of the Everforest colour scheme.
 
 ### Terminal Integration / Diagnostics
 
-*   [willothy/flatten.nvim (⭐193)](https://github.com/willothy/flatten.nvim) - Open files from terminal buffers in your current Neovim instance instead of launching a nested instance.
+*   [willothy/flatten.nvim (⭐278)](https://github.com/willothy/flatten.nvim) - Open files from terminal buffers in your current Neovim instance instead of launching a nested instance.
 
 ### Editing Support / Diagnostics
 
-*   [utilyre/sentiment.nvim (⭐51)](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.
-*   [willothy/moveline.nvim (⭐62)](https://github.com/willothy/moveline.nvim) - Move lines and blocks up and down easily, with indenting handled automatically as you move. Written in Rust.
-*   [echasnovski/mini.nvim#mini.splitjoin (⭐2.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-splitjoin.md) - Module of `mini.nvim` to split and join arguments. Has customizable pre and post hooks. Works inside comments.
+*   [utilyre/sentiment.nvim (⭐123)](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.
+*   [willothy/moveline.nvim (⭐99)](https://github.com/willothy/moveline.nvim) - Move lines and blocks up and down easily, with indenting handled automatically as you move. Written in Rust.
+*   [echasnovski/mini.nvim#mini.splitjoin (⭐2.9k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-splitjoin.md) - Module of `mini.nvim` to split and join arguments. Has customizable pre and post hooks. Works inside comments.
 
 ### Indent / Diagnostics
 
-*   [shellRaining/hlchunk.nvim (⭐51)](https://github.com/shellRaining/hlchunk.nvim) - A Lua implementation of `nvim-hlchunk`, contains more features, such as highlight `{}` chunk, indent line, space blank etc.
+*   [shellRaining/hlchunk.nvim (⭐178)](https://github.com/shellRaining/hlchunk.nvim) - A Lua implementation of `nvim-hlchunk`, contains more features, such as highlight `{}` chunk, indent line, space blank etc.
 
-## [27. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [26. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### ChatGPT
 
-*   [llama.cpp (⭐28k)](https://github.com/ggerganov/llama.cpp) - Inference of Facebook's LLaMA model in pure C/C++ so it can run locally on a CPU.
+*   [llama.cpp (⭐42k)](https://github.com/ggerganov/llama.cpp) - Inference of Facebook's LLaMA model in pure C/C++ so it can run locally on a CPU.
 
 ### Cloud Storage
 
 *   [Restic](https://restic.net/) - Restic is also command line program to manage files on various cloud storage providers. Restic uses encryption by default. Few noteworthy features of restic include browsing through storage as git like snapshots at no extra storage cost, deduplication and significant savings through compression.
 
-## [28. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [27. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Graphics
 
 *   [mpv-v (⭐15)](https://github.com/xjunko/mpv-v) - World's Simplest Video Player.
 
-## [29. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [28. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
 
@@ -392,9 +387,9 @@
 
 ### Papers and References / AI Tools for Searching
 
-*   [whitead/paper-qa (⭐2.4k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations"
+*   [whitead/paper-qa (⭐3.1k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations"
 
-### Inbox: Large Language Models / Embeddings and Semantic Search
+### Inbox: Large Language Models (LLMs) / Embeddings and Semantic Search
 
 *   [BLIP+CLIP | CLIP Interrogator | Kaggle](https://www.kaggle.com/code/leonidkulyk/lb-0-45836-blip-clip-clip-interrogator): a Kaggle notebook for image description and captioning (imate-to-text)
 
@@ -402,25 +397,25 @@
 
 *   [Word-As-Image for Semantic Typography](https://wordasimage.github.io/Word-As-Image-Page/): semantically transforming fonts into illustrations
 
-## [30. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [29. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [pdfEndpoint.com](https://pdfendpoint.com) - Effortlessly convert html or urls to pdf wit a simple API. 100 conversions per month for free.
+*   [pdfEndpoint.com](https://pdfendpoint.com) - Effortlessly convert HTML or URLs to PDF with a simple API. One hundred conversions per month for free.
 
-### Authentication, Authorization and User Management
+### Authentication, Authorization, and User Management
 
 *   [Descope](https://www.descope.com/) — Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants).
 
 ### Web Hosting
 
-*   [Patr Cloud](https://patr.cloud/) — An easy-to-use cloud platform, among its paid services it offers hosting 3 static sites for free.
+*   [Patr Cloud](https://patr.cloud/) — An easy-to-use cloud platform, among its paid services it offers to host three static sites for free.
 
 ### Miscellaneous
 
-*   [Versionfeeds](https://versionfeeds.com) — Custom RSS feeds for releases of your favorite software. Have the latest versions of your programming languages, libraries or loved tools in one feed. (First 3 feeds are free)
+*   [Versionfeeds](https://versionfeeds.com) — Custom RSS feeds for releases of your favorite software. Have the latest versions of your programming languages, libraries, or loved tools in one feed. (The first 3 feeds are free)
 
-## [31. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [30. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Utilities
 
@@ -431,6 +426,12 @@
 *   [3xpl.com](https://3xpl.com/) - Fastest ad-free universal block explorer.
 *   [blockchair.com](https://blockchair.com/) - Universal blockchain explorer and search engine.
 
+## [31. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Elixir / Phoenix
+
+*   [Versioned APIs with Phoenix](https://web.archive.org/web/20210309052043/https://elviovicosa.com/freebies/versioned-apis-with-phoenix-by-elvio-vicosa.pdf) - Elvio Vicosa (PDF) *(:card\_file\_box: archived)*
+
 ## [32. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Blog posts
@@ -440,9 +441,9 @@
 
 ### Resources / Talks and videos
 
-*   [Polars: The main alternative to pandas in Python!?](https://www.youtube.com/playlist?list=PLo9Vi5B84_dfAuwJqNYG4XhZMrGTF3sBx) ⏳ `57 min` - A Polars tutorial series on Youtube by [@martinbel](https://github.com/martinbel). Notebooks and datasets used for the videos available [in this github repo (⭐10)](https://github.com/martinbel/polars-tutorial).
+*   [Polars: The main alternative to pandas in Python!?](https://www.youtube.com/playlist?list=PLo9Vi5B84_dfAuwJqNYG4XhZMrGTF3sBx) ⏳ `57 min` - A Polars tutorial series on Youtube by [@martinbel](https://github.com/martinbel). Notebooks and datasets used for the videos available [in this github repo (⭐19)](https://github.com/martinbel/polars-tutorial).
 *   [Polars: The Super Fast Dataframe Library for Python — Goodbye Pandas?](https://artificialcorner.com/polars-the-super-fast-dataframe-library-for-python-goodbye-pandas-85156e84337f) - An article and a [video](https://www.youtube.com/watch?v=CByx7XjYMhw) ⏳ `19 min` that explores some basic features of Polars by [@ifrankandrade](https://github.com/ifrankand)
-*   [Manipulación de Datos con Polars en python](https://www.youtube.com/watch?v=3RM3pWw2iRQ) - A detailed tutorial video in Spanish that shows 20 Polars functions to perform 80% of the tasks of a data scientist by [Naren Castellon](https://www.linkedin.com/in/naren-castellon-1541b8101/?originalSubdomain=pa).
+*   [Manipulación de Datos con Polars en python](https://www.youtube.com/watch?v=3RM3pWw2iRQ) ⏳ `51 min` - A detailed tutorial video in Spanish that shows 20 Polars functions to perform 80% of the tasks of a data scientist by [Naren Castellon](https://www.linkedin.com/in/naren-castellon-1541b8101/?originalSubdomain=pa).
 
 ## [33. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/week/README.md)
 
@@ -457,7 +458,7 @@
 
 ### Books, blogs and training materials / Community Chat Rooms
 
-*   [ESP32-C3 Rust Tutorials](https://youtube.com/playlist?list=PLkch9g9DEE0Lkm1LqcD7pZNDmXEczOo-a) Short videos and [Github project (⭐23)](https://github.com/shanemmattner/ESP32-C3_Rust_Tutorials) implementing various peripherals of the ESP32-C3 with the end goal of creating a complete data logger application.
+*   [ESP32-C3 Rust Tutorials](https://youtube.com/playlist?list=PLkch9g9DEE0Lkm1LqcD7pZNDmXEczOo-a) Short videos and [Github project (⭐31)](https://github.com/shanemmattner/ESP32-C3_Rust_Tutorials) implementing various peripherals of the ESP32-C3 with the end goal of creating a complete data logger application.
     \[Ferrous Systems]: <https://ferrous-systems.com>
 
 ### Peripheral Access Crates / Renesas
@@ -483,7 +484,7 @@
 
 ### Iteration
 
-*   [cl-transducers (⭐52)](https://github.com/fosskers/cl-transducers) - Ergonomic, efficient data processing. [AGPL-3.0](https://directory.fsf.org/wiki/License:ArtisticLicense2.0).
+*   [cl-transducers (⭐60)](https://github.com/fosskers/cl-transducers) - Ergonomic, efficient data processing. [AGPL-3.0](https://directory.fsf.org/wiki/License:ArtisticLicense2.0).
     *   "Transducers are an ergonomic and extremely memory-efficient way to process a data source. Here “data source” means simple collections like Lists or Vectors, but also potentially large files or generators of infinite data."
     *   "It is, in general, the most complete implementation of the Transducer pattern."
     *   a "modern" API with `map`, `filter`, `take`, `repeat`, `cycle`, `fold`…
@@ -509,15 +510,15 @@
 
 ### Web Frameworks / Bare metal / kernel development
 
-*   [Handy-Httpd (⭐17)](https://github.com/andrewlalis/handy-httpd) - A simple, lightweight, and well-documented HTTP server that lets you bootstrap ideas and have something up and running in minutes.
+*   [Handy-Httpd (⭐24)](https://github.com/andrewlalis/handy-httpd) - A simple, lightweight, and well-documented HTTP server that lets you bootstrap ideas and have something up and running in minutes.
 
 ### Data serialization / JSON
 
-*   [fast.json (⭐109)](https://github.com/etcimon/fast) -  A library for D that aims to provide the fastest possible implementation of some every day routines.
+*   [fast.json (⭐110)](https://github.com/etcimon/fast) -  A library for D that aims to provide the fastest possible implementation of some every day routines.
 
 ### Game Frameworks / XML
 
-*   [rengfx (⭐77)](https://github.com/bmchtech/rengfx) - lightweight, expressive, extensible 2D/3D game engine.
+*   [rengfx (⭐80)](https://github.com/bmchtech/rengfx) - lightweight, expressive, extensible 2D/3D game engine.
 
 ### Games / XML
 
@@ -526,7 +527,7 @@
 ### Machine Learning / XML
 
 *   [grain2 (⭐6)](https://github.com/ShigekiKarita/grain2) - Autograd and GPGPU library for dynamic neural networks in D
-*   [tfd (⭐30)](https://github.com/ShigekiKarita/tfd) -  Tensorflow wrapper for D
+*   [tfd (⭐31)](https://github.com/ShigekiKarita/tfd) -  Tensorflow wrapper for D
 
 ## [37. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
@@ -565,7 +566,7 @@
 
 ### Templates / React
 
-*   [vite-react-ts-template (⭐20)](https://github.com/bartstc/vite-ts-react-template) - React 18, TypeScript, ESlint, Prettier, Dev Container, Vitest, Storybook, Playwright, MSW, React Router 6, React Query, Chakra UI, Zustand.
+*   [vite-react-ts-template (⭐47)](https://github.com/bartstc/vite-ts-react-template) - React 18, TypeScript, ESlint, Prettier, Dev Container, Vitest, Storybook, Playwright, MSW, React Router 6, React Query, Chakra UI, Zustand.
 
 ## [40. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
@@ -577,7 +578,7 @@
 
 ### Tools / Development
 
-*   [migrate-mongo (⭐770)](https://github.com/seppevs/migrate-mongo) - Database migration tool
+*   [migrate-mongo (⭐849)](https://github.com/seppevs/migrate-mongo) - Database migration tool
 
 ## [42. Awesome Plone](/content/collective/awesome-plone/week/README.md)
 
@@ -605,25 +606,25 @@
 
 ### Libraries / New Libraries
 
-*   [safejax (⭐14)](https://github.com/alvarobartt/safejax) - Serialize JAX, Flax, Haiku, or Objax model params with 🤗`safetensors`. <img src="https://img.shields.io/github/stars/alvarobartt/safejax?style=social" align="center">
+*   [safejax (⭐23)](https://github.com/alvarobartt/safejax) - Serialize JAX, Flax, Haiku, or Objax model params with 🤗`safetensors`. <img src="https://img.shields.io/github/stars/alvarobartt/safejax?style=social" align="center">
 
 ## [45. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Advanced Console UIs
 
-*   [go-palette (⭐9)](https://github.com/abusomani/go-palette) - Go library that provides elegant and convenient style definitions using ANSI colors. Fully compatible & wraps the [fmt library](https://pkg.go.dev/fmt) for nice terminal layouts.
+*   [go-palette (⭐14)](https://github.com/abusomani/go-palette) - Go library that provides elegant and convenient style definitions using ANSI colors. Fully compatible & wraps the [fmt library](https://pkg.go.dev/fmt) for nice terminal layouts.
 
 ### JSON
 
-*   [jsonhandlers (⭐1)](https://github.com/abusomani/jsonhandlers) - JSON library to expose simple handlers that lets you easily read and write json from various sources.
+*   [jsonhandlers (⭐2)](https://github.com/abusomani/jsonhandlers) - JSON library to expose simple handlers that lets you easily read and write json from various sources.
 
 ### Third-party APIs
 
-*   [openaigo (⭐243)](https://github.com/otiai10/openaigo) - OpenAI GPT3/GPT3.5 ChatGPT API client library for Go.
+*   [openaigo (⭐277)](https://github.com/otiai10/openaigo) - OpenAI GPT3/GPT3.5 ChatGPT API client library for Go.
 
 ### Go Generate Tools / Libraries for creating HTTP middlewares
 
-*   [options-gen (⭐42)](https://github.com/kazhuravlev/options-gen) - Functional options described by Dave Cheney's post "Functional options for friendly APIs".
+*   [options-gen (⭐44)](https://github.com/kazhuravlev/options-gen) - Functional options described by Dave Cheney's post "Functional options for friendly APIs".
 
 ## [46. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -651,7 +652,7 @@
 
 ### How-to guides
 
-*   [How to persist Tailscale tunnel in QubesOS  (⭐0)](https://github.com/kennethrrosen/tailscale_QubesOS) - Tailscale is a mesh private network that lets you easily manage access to private resources or quickly SSH into devices on your network.
+*   [How to persist Tailscale tunnel in QubesOS  (⭐2)](https://github.com/kennethrrosen/tailscale_QubesOS) - Tailscale is a mesh private network that lets you easily manage access to private resources or quickly SSH into devices on your network.
 *   [How to use Qubes for journalists and Humans Rights Defenders (⭐7)](https://github.com/kennethrrosen/journoSEC) - A suite of tools for improving and streamlining the use of Qubes OS for reporters, edtiors, lawyers and aid workers. Work in progress.
     *   [PAM distress login for xscreensaver (⭐0)](https://github.com/kennethrrosen/qubes-PAM-distress-login/)
     *   [Automated Arkenfox Qubes browser install (⭐7)](https://github.com/kennethrrosen/journoSEC/tree/main/mozilla/arkenfox)
@@ -660,17 +661,11 @@
 
 ### Miscellaneous / React
 
-*   [graphql-armor (⭐342)](https://github.com/Escape-Technologies/graphql-armor) - An instant security layer for production GraphQL Endpoints.
+*   [graphql-armor (⭐409)](https://github.com/Escape-Technologies/graphql-armor) - An instant security layer for production GraphQL Endpoints.
 
 ### Python / React
 
-*   [sgqlc (⭐458)](https://github.com/profusion/sgqlc) - Simple GraphQL Client makes working with GraphQL API responses easier in Python.
-
-## [50. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
-
-### Projects / Wallets
-
-*   [AlgoPOAP](https://github.com/AlgoPOAP) - Proof of Attendance Protocol (and much more) on Algorand. [Mint your first POAP on Algorand!](https://algopoap.com).
+*   [sgqlc (⭐482)](https://github.com/profusion/sgqlc) - Simple GraphQL Client makes working with GraphQL API responses easier in Python.
 
 ---
 

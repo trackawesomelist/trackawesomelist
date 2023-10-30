@@ -10,18 +10,18 @@
 
 ### React Awesome Components
 
-*   [react-select (⭐26k)](https://github.com/JedWatson/react-select) - The Select Component for React
-*   [react-dnd (⭐19k)](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
+*   [react-select (⭐27k)](https://github.com/JedWatson/react-select) - The Select Component for React
+*   [react-dnd (⭐20k)](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 
 ### React Tables and Grids
 
-*   [react-data-grid (⭐6k)](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
+*   [react-data-grid (⭐6.3k)](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
 
 ## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### Agency Tools
 
-*   Route Trends ([webapp](https://metrotransitmn.shinyapps.io/route-trends/), [GitHub (⭐12)](https://github.com/metrotransit/route-trends)) - An R Shiny app to ingest ridership time series, and return seasonal, trend, and residual components according to [STL methodology](https://otexts.com/fpp2/stl.html) and forecasts including uncertainty based on those components.  Sponsored by [Metro Transit](https://www.metrotransit.org/) (Minneapolis-St. Paul).
+*   Route Trends ([webapp](https://metrotransitmn.shinyapps.io/route-trends/), [GitHub (⭐14)](https://github.com/metrotransit/route-trends)) - An R Shiny app to ingest ridership time series, and return seasonal, trend, and residual components according to [STL methodology](https://otexts.com/fpp2/stl.html) and forecasts including uncertainty based on those components.  Sponsored by [Metro Transit](https://www.metrotransit.org/) (Minneapolis-St. Paul).
 
 ## [3. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -69,16 +69,16 @@
 ### Frameworks, Libraries and Tools / API
 
 *   GraphQL
-    *   [Dapper.GraphQL (⭐267)](https://github.com/landmarkhw/Dapper.GraphQL) - A library designed to integrate the Dapper and graphql-dotnet projects with ease-of-use in mind and performance as the primary concern.
-    *   [graphql-aspnetcore (⭐184)](https://github.com/JuergenGutsch/graphql-aspnetcore) - ASP.NET Core MiddleWare to create a GraphQL end-point.
-    *   [graphql-convention (⭐222)](https://github.com/graphql-dotnet/conventions) - This library is a complementary layer on top that allows you to automatically wrap your .NET classes into GraphQL schema definitions using existing property getters and methods as field resolvers
-    *   [graphiql-dotnet (⭐140)](https://github.com/JosephWoodward/graphiql-dotnet) - GraphiQL middleware for ASP.NET Core.
-    *   [graphql-dotnetcore (⭐101)](https://github.com/mkmarek/graphql-dotnetcore) - GraphQL for .NET Core based on [https://github.com/graphql/graphql-js (⭐19k)](https://github.com/graphql/graphql-js).
-    *   [graphql-dotnet (⭐5.4k)](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET.
-    *   [graphql-dotnet-server (⭐473)](https://github.com/graphql-dotnet/server) - GraphQL for .NET - Subscription Transport WebSockets.
-    *   [Hot Chocolate (⭐3.9k)](https://github.com/ChilliCream/hotchocolate) - GraphQL server for .Net Core and .NET Framework.
-    *   [FSharp.Data.GraphQL (⭐368)](https://github.com/fsprojects/FSharp.Data.GraphQL) - FSharp implementation of Facebook GraphQL query language <https://fsprojects.github.io/FSharp.Data.GraphQL>.
-    *   [parser (⭐195)](https://github.com/graphql-dotnet/parser) - A lexer and parser for GraphQL in .NET.
+    *   [Dapper.GraphQL (⭐282)](https://github.com/landmarkhw/Dapper.GraphQL) - A library designed to integrate the Dapper and graphql-dotnet projects with ease-of-use in mind and performance as the primary concern.
+    *   [graphql-aspnetcore (⭐183)](https://github.com/JuergenGutsch/graphql-aspnetcore) - ASP.NET Core MiddleWare to create a GraphQL end-point.
+    *   [graphql-convention (⭐231)](https://github.com/graphql-dotnet/conventions) - This library is a complementary layer on top that allows you to automatically wrap your .NET classes into GraphQL schema definitions using existing property getters and methods as field resolvers
+    *   [graphiql-dotnet (⭐143)](https://github.com/JosephWoodward/graphiql-dotnet) - GraphiQL middleware for ASP.NET Core.
+    *   [graphql-dotnetcore (⭐100)](https://github.com/mkmarek/graphql-dotnetcore) - GraphQL for .NET Core based on [https://github.com/graphql/graphql-js (⭐20k)](https://github.com/graphql/graphql-js).
+    *   [graphql-dotnet (⭐5.6k)](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET.
+    *   [graphql-dotnet-server (⭐541)](https://github.com/graphql-dotnet/server) - GraphQL for .NET - Subscription Transport WebSockets.
+    *   [Hot Chocolate (⭐4.7k)](https://github.com/ChilliCream/hotchocolate) - GraphQL server for .Net Core and .NET Framework.
+    *   [FSharp.Data.GraphQL (⭐380)](https://github.com/fsprojects/FSharp.Data.GraphQL) - FSharp implementation of Facebook GraphQL query language <https://fsprojects.github.io/FSharp.Data.GraphQL>.
+    *   [parser (⭐206)](https://github.com/graphql-dotnet/parser) - A lexer and parser for GraphQL in .NET.
     *   [tanka-graphql (⭐57)](https://github.com/pekkah/tanka-graphql) - GraphQL execution and server libraries supporting SignalR, Apollo, schema manipulation and other features familiar from Apollo and graphql-js
 
 ---

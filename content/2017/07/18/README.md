@@ -11,13 +11,12 @@
 ### Forums / Audio
 
 *   [Dhamma Wheel](https://dhammawheel.com/) - Discussion on a wide variety of topics pertaining to Theravada Buddhism.
-*   [Dhammaloka Community](http://community.dhammaloka.org.au/forum.php) - Ask and learn from the members of Dhammaloka City Centre in Australia.
 
 ## [2. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Sample Projects / JVM languages
 
-*   [Event Sourcing and CQRS Sample (⭐441)](https://github.com/pilloPl/event-source-cqrs-sample) - Sample event sourced application with Command Query Responsibility Segregation
+*   [Event Sourcing and CQRS Sample (⭐461)](https://github.com/pilloPl/event-source-cqrs-sample) - Sample event sourced application with Command Query Responsibility Segregation
 
 ## [3. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
@@ -69,7 +68,7 @@
 
 ### Build Tools
 
-*   [PlatformIO (⭐6.7k)](https://github.com/platformio/platformio-core) - A console tool to build code with different development platforms.
+*   [PlatformIO (⭐6.9k)](https://github.com/platformio/platformio-core) - A console tool to build code with different development platforms.
 
 ### CMS
 
@@ -94,7 +93,7 @@
 
 ### Environment Management
 
-*   [pyenv (⭐31k)](https://github.com/pyenv/pyenv) - Simple Python version management.
+*   [pyenv (⭐32k)](https://github.com/pyenv/pyenv) - Simple Python version management.
 
 ### Forms
 
@@ -115,12 +114,12 @@
 
 ### Package Repositories
 
-*   [localshop (⭐387)](https://github.com/jazzband/localshop) - Local PyPI server (custom packages and auto-mirroring of pypi).
+*   [localshop (⭐390)](https://github.com/jazzband/localshop) - Local PyPI server (custom packages and auto-mirroring of pypi).
 
 ### RESTful API
 
 *   Pyramid
-    *   [cornice (⭐376)](https://github.com/Cornices/cornice) - A RESTful framework for Pyramid.
+    *   [cornice (⭐374)](https://github.com/Cornices/cornice) - A RESTful framework for Pyramid.
 
 ### Science
 
@@ -135,13 +134,13 @@
 ### Testing
 
 *   Test Runners
-    *   [green (⭐759)](https://github.com/CleanCut/green) - A clean, colorful test runner.
+    *   [green (⭐767)](https://github.com/CleanCut/green) - A clean, colorful test runner.
     *   [mamba](http://nestorsalceda.github.io/mamba/) - The definitive testing tool for Python. Born under the banner of BDD.
     *   [tox](https://tox.readthedocs.io/en/latest/) - Auto builds and tests distributions in multiple Python versions
 
 ### Third-party APIs
 
-*   [django-wordpress (⭐337)](https://github.com/istrategylabs/django-wordpress) - WordPress models and views for Django.
+*   [django-wordpress (⭐339)](https://github.com/istrategylabs/django-wordpress) - WordPress models and views for Django.
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -231,7 +230,7 @@
 
 ### Images / Barcode
 
-*   [gifu (⭐2.9k)](https://github.com/kaishin/gifu) - Highly performant animated GIF support for iOS.
+*   [gifu (⭐3k)](https://github.com/kaishin/gifu) - Highly performant animated GIF support for iOS.
 
 ## [10. Awesome Json](/content/burningtree/awesome-json/README.md)
 
@@ -793,22 +792,22 @@
 
 ### Boilerplates
 
-*   [Next Simple Starter (⭐910)](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
-*   [NextJS Starter (⭐1.3k)](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication.
-*   [Next Simple Blog (⭐553)](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports.
+*   [Next Simple Starter (⭐920)](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
+*   [NextJS Starter (⭐1.4k)](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication.
+*   [Next Simple Blog (⭐557)](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports.
 
 ### Apps
 
 *   [NextJS GOT (⭐32)](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
-*   [Relate (⭐330)](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
-*   [Password (⭐112)](https://github.com/dotcypress/password) - One password, right way.
-*   [Next Todos (⭐123)](https://github.com/lipp/next-todos) - Todo list written in Next.js.
-*   [Hacker News (⭐45)](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js.
+*   [Relate (⭐331)](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
+*   [Password (⭐113)](https://github.com/dotcypress/password) - One password, right way.
+*   [Next Todos (⭐122)](https://github.com/lipp/next-todos) - Todo list written in Next.js.
+*   [Hacker News (⭐44)](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js.
 *   [Jet Chat (⭐9)](https://github.com/lipp/jet-chat) - Jet and Next.js powered Chat demo.
 *   [Nextgram (⭐49)](https://github.com/arunoda/nextgram) - Sample Next.js v2 app for showing off its capabilities.
-*   [Rauchg Blog (⭐959)](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer.
+*   [Rauchg Blog (⭐1k)](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer.
 *   [Next JPH (⭐34)](https://github.com/renatorib/next-jph) - JsonPlaceholder sample app made with Next.js.
-*   [Mailto (⭐170)](https://github.com/dawsbot/mailto) - HTML mailto's made easy.
+*   [Mailto (⭐181)](https://github.com/dawsbot/mailto) - HTML mailto's made easy.
 *   [Plate (⭐49)](https://github.com/knipferrc/plate) - The task management app to rule them all.
 *   [Dashboard (⭐1.2k)](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
 
@@ -820,7 +819,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [jsx-v-model (⭐154)](https://github.com/nickmessing/babel-plugin-jsx-v-model) - A Babel plugin that brings `v-model` to JSX.
+*   [jsx-v-model (⭐155)](https://github.com/nickmessing/babel-plugin-jsx-v-model) - A Babel plugin that brings `v-model` to JSX.
 
 ---
 

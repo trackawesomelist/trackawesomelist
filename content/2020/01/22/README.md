@@ -6,41 +6,61 @@
 
 
 
-## [1. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### Storage and Media Processing
-
-*   [cloudimage.com](https://cloudimage.com/) — Full image optimization and CDN service with 1500+ Points of Presence around the world. A variety of image resizing, compression, watermarking functions. Open source plugins for responsive images, 360 image making and image editing. Free monthly plan with 25GB of CDN traffic and 25GB of cache storage and unlimited transformations.
-
-## [2. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [1. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Companies / Robotics Capture the Flag (RCTF)
 
 *   [ROBOOX](https://roboox.co/) - OPEN-SOURCE SOFTWARE ECOSYSTEM FOR CONSUMER ROBOTS.
 
-## [3. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [2. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Self-hosted VPNs
 
-*   [Nebula (⭐11k)](https://github.com/slackhq/nebula) A scalable overlay networking tool with a focus on performance, simplicity and security
+*   [Nebula (⭐12k)](https://github.com/slackhq/nebula) A scalable overlay networking tool with a focus on performance, simplicity and security
 
-## [4. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
+## [3. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Standalone Components
 
 *   [`<codesandbox-button>`](https://github.com/bennypowers/codesandbox-button) - Custom Element that shows a CodeSandbox demo when you click on it.
 
-## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [4. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Form Components / Date / Time picker
 
 *   [react-nice-dates (⭐1.1k)](https://github.com/hernansartorio/react-nice-dates) - [demo/docs](https://reactnicedates.hernansartorio.com/) A responsive, touch-friendly, and modular date picker library.
 
+## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### JavaScript / Dojo
+
+*   [Dojo: The Definitive Guide](https://www.oreilly.com/library/view/dojo-the-definitive/9780596516482/) - Matthew A. Russell
+
+### JavaScript / Elm
+
+*   [Elm Tutorial](https://legacy.gitbook.com/book/sporto/elm-tutorial/details)
+
+### JavaScript / Node.js
+
+*   [Node: Up and Running](https://www.oreilly.com/library/view/node-up-and/9781449332235/) - Tom Hughes-Croucher
+
+### JavaScript / React
+
+*   [React-Bits (⭐16k)](https://github.com/vasanthk/react-bits)
+
+### JavaScript / Vue.js
+
+*   [Learning Vue.js](https://riptutorial.com/Download/vue-js.pdf) - Compiled from StackOverflow Documentation (PDF)
+
+### MATLAB / PicoLisp
+
+*   [Freshman Engineering Problem Solving with MATLAB](https://cnx.org/exports/3a643c1f-c1ba-4c2a-8065-317a1f2b1add@18.1.pdf/freshman-engineering-problem-solving-with-matlab-18.1.pdf) (PDF)
+
 ## [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### JupyterLab Extensions
 
-*   [lsp (⭐37)](https://github.com/krassowski/jupyterlab-lsp) - IDE-like features (code navigation, hover suggestions, linters, diagnostics, kernel-less autocompletion etc.)
+*   [lsp (⭐63)](https://github.com/krassowski/jupyterlab-lsp) - IDE-like features (code navigation, hover suggestions, linters, diagnostics, kernel-less autocompletion etc.)
 
 ## [7. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -67,7 +87,7 @@
 
 ### Network
 
-*   [ModernHttpClient (⭐123)](https://github.com/alexrainman/ModernHttpClient) - Accelerates HTTP requests by using mobile-optimized libs (NSURLSession / OkHttp).
+*   [ModernHttpClient (⭐126)](https://github.com/alexrainman/ModernHttpClient) - Accelerates HTTP requests by using mobile-optimized libs (NSURLSession / OkHttp).
 
 ## [11. Awesome Esp](/content/agucova/awesome-esp/README.md)
 

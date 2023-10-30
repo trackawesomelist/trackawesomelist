@@ -10,13 +10,13 @@
 
 ### Blazor
 
-*   [Megabit.Blazorise (⭐2.8k)](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor and CSS frameworks like Bootstrap, Bulma and Material. Very easy to use.
+*   [Megabit.Blazorise (⭐3k)](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor and CSS frameworks like Bootstrap, Bulma and Material. Very easy to use.
 
 ## [2. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
 ### Contents / Text Editors Language Support
 
-*   Visual Studio Code: [pico8-ls (⭐33)](https://github.com/japhib/pico8-ls) - PICO-8 Language Server, providing full language support for the PICO-8 dialect of Lua.
+*   Visual Studio Code: [pico8-ls (⭐46)](https://github.com/japhib/pico8-ls) - PICO-8 Language Server, providing full language support for the PICO-8 dialect of Lua.
 
 ## [3. Awesome K6](/content/grafana/awesome-k6/README.md)
 
@@ -34,36 +34,36 @@
 
 ### Libraries / Java
 
-*   [OSM2World](http://osm2world.org) - OSM2World is a converter that creates three-dimensional models of the world from OpenStreetMap data. It can be used as a stand-alone tool, on a server or as a library in Java programs. ([Source Code (⭐456)](https://github.com/tordanik/OSM2World) / [Wiki](https://wiki.openstreetmap.org/wiki/OSM2World))
+*   [OSM2World](http://osm2world.org) - OSM2World is a converter that creates three-dimensional models of the world from OpenStreetMap data. It can be used as a stand-alone tool, on a server or as a library in Java programs. ([Source Code (⭐490)](https://github.com/tordanik/OSM2World) / [Wiki](https://wiki.openstreetmap.org/wiki/OSM2World))
 
 ## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Messaging
 
-*   [Quamina (⭐337)](https://github.com/timbray/quamina) - Fast pattern-matching for filtering messages and events.
+*   [Quamina (⭐351)](https://github.com/timbray/quamina) - Fast pattern-matching for filtering messages and events.
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [gugulenok (⭐0)](https://github.com/gugulen0k/gugulenok/) - Has both a dark and a light mode. Includes decorators for `git` status, time and current directory.
-*   [ivabus (⭐5)](https://github.com/ivabus/ivabus-zsh-theme) - Inspired by the GitHub Codespaces prompt. Includes decorators for `git` status, username and current directory.
+*   [ivabus (⭐7)](https://github.com/ivabus/ivabus-zsh-theme) - Inspired by the GitHub Codespaces prompt. Includes decorators for `git` status, username and current directory.
 
 ## [8. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 
 ### Miscellaneous
 
-*   [Gitmoji (⭐16)](https://github.com/techouse/alfred-gitmoji) - Search for [Gitmojis](https://gitmoji.dev) easily.
+*   [Gitmoji (⭐20)](https://github.com/techouse/alfred-gitmoji) - Search for [Gitmojis](https://gitmoji.dev) easily.
 
 ### Helpers
 
-*   [Alfred Workflow (for Dart) (⭐7)](https://github.com/techouse/alfred_workflow) - Dart library for writing Alfred workflows. Inspired by [Alfred-Workflow (⭐2.9k)](https://github.com/deanishe/alfred-workflow) for Python.
+*   [Alfred Workflow (for Dart) (⭐8)](https://github.com/techouse/alfred_workflow) - Dart library for writing Alfred workflows. Inspired by [Alfred-Workflow (⭐2.9k)](https://github.com/deanishe/alfred-workflow) for Python.
 
 ## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### C, C++
 
-*   ⭐ [Ironclad (⭐142)](https://github.com/sharplispers/ironclad) - A library of crypto functions for Common Lisp. Not considered secure, but is still useful for the message digest functions. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   ⭐ [Ironclad (⭐148)](https://github.com/sharplispers/ironclad) - A library of crypto functions for Common Lisp. Not considered secure, but is still useful for the message digest functions. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
 ### ORMs
 
@@ -75,12 +75,14 @@
 
 ### C
 
-*   ⭐ [CFFI (⭐380)](https://github.com/cffi/cffi) - Portable, easy-to-use C foreign function interface. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   ⭐ [CFFI (⭐393)](https://github.com/cffi/cffi) - Portable, easy-to-use C foreign function interface. [Expat](https://directory.fsf.org/wiki/License:Expat).
+    *   [cffi-ops (⭐26)](https://github.com/bohonghuang/cffi-ops) - helps write concise CFFI-related code.
+    *   [cffi-objects (⭐13)](https://github.com/bohonghuang/cffi-object) - enables fast and convenient interoperation with foreign objects.
 
 ### Miscellaneous
 
 *   ⭐ [Sketch (⭐1.3k)](https://github.com/vydd/sketch) - A CL framework for the creation of electronic art, graphics, and lots more. [MIT](https://opensource.org/licenses/MIT).
-*   ⭐ [CommonQt (⭐109)](https://github.com/commonqt/commonqt) - A Common Lisp binding for Qt4 via QtSmoke. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+*   ⭐ [CommonQt (⭐112)](https://github.com/commonqt/commonqt) - A Common Lisp binding for Qt4 via QtSmoke. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
     *   [CommonQt5 (⭐29)](https://github.com/commonqt/commonqt5/) - bindings for Qt5.
         *   warn: currently difficult to install. Used in production© by SISCOG.
 
@@ -88,7 +90,7 @@
 
 *   ⭐ [CCL](https://github.com/CodyReichert/awesome-cl/blob/master//ccl.clozure.com/) - Clozure Common Lisp; compiler-only implementation, generates native code.  [LLGPL](http://opensource.franz.com/preamble.html).
 *   ⭐ [alexandria](https://common-lisp.net/project/alexandria/) - A general-purpose utility library. Public domain.
-*   ⭐ [trivia (⭐285)](https://github.com/guicho271828/trivia/) - Optimized pattern-matching library. [LLGPL](http://opensource.franz.com/preamble.html).
+*   ⭐ [trivia (⭐300)](https://github.com/guicho271828/trivia/) - Optimized pattern-matching library. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### CLOS extensions
 
@@ -101,7 +103,7 @@
 ### Community
 
 *   ⭐ [Quicklisp](https://www.quicklisp.org/beta/) - A library manager containing many libraries, with easy depencency management. [Expat](https://directory.fsf.org/wiki/License:Expat).
-    *   [ql-https (⭐8)](https://github.com/rudolfochrist/ql-https) - shell out to cURL and use HTTPS by default.
+    *   [ql-https (⭐11)](https://github.com/rudolfochrist/ql-https) - shell out to cURL and use HTTPS by default.
     *   [Quicklisp bundles](https://quicklisp.org/beta/bundles.html) -  self-contained sets of systems that are exported from Quicklisp and loadable without involving Quicklisp.
 
 ### HTTP Servers / Interfaces to other package managers
@@ -115,7 +117,6 @@
 ### Utils / Third-party APIs
 
 *   ⭐ [BordeauxThreads](https://common-lisp.net/project/bordeaux-threads/) - Portable, shared-state concurrency. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   ⭐ [lparallel (⭐226)](https://github.com/lmj/lparallel) - A library for parallel programming. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### Job processing / Third-party APIs
 
@@ -123,21 +124,21 @@
 
 ### Emacs / Third-party APIs
 
-*   ⭐ [Slime (⭐1.7k)](https://github.com/slime/slime) - Superior Lisp Interaction Mode for Emacs; a full-blown environment for Common Lisp inside of Emacs. Public domain.
+*   ⭐ [Slime (⭐1.8k)](https://github.com/slime/slime) - Superior Lisp Interaction Mode for Emacs; a full-blown environment for Common Lisp inside of Emacs. Public domain.
 
 ### Apps / Third-party APIs
 
-*   ⭐ [esrap (⭐65)](https://github.com/scymtym/esrap) - Packrat parser. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   ⭐ [FiveAM (⭐167)](https://github.com/sionescu/fiveam) - Simple regression testing framework. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
-    *   [fiveam-matchers (⭐7)](https://github.com/tdrhq/fiveam-matchers/) -  an extensible, composable matchers library for fiveam. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
+*   ⭐ [esrap (⭐70)](https://github.com/scymtym/esrap) - Packrat parser. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   ⭐ [FiveAM (⭐172)](https://github.com/sionescu/fiveam) - Simple regression testing framework. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+    *   [fiveam-matchers (⭐8)](https://github.com/tdrhq/fiveam-matchers/) -  an extensible, composable matchers library for fiveam. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ### Caching / Third-party APIs
 
-*   [clache (⭐12)](https://github.com/html/clache) - General caching facility. Cache any Lisp object on disk or in memory. A cache can be persistent or have an expiration time. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [clache (⭐13)](https://github.com/html/clache) - General caching facility. Cache any Lisp object on disk or in memory. A cache can be persistent or have an expiration time. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### CSV / Third-party APIs
 
-*   ⭐ [cl-csv (⭐107)](https://github.com/AccelerationNet/cl-csv) - A library for parsing CSV files. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   ⭐ [cl-csv (⭐113)](https://github.com/AccelerationNet/cl-csv) - A library for parsing CSV files. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### Date and time / Third-party APIs
 
@@ -145,26 +146,26 @@
 
 ### Documentation builders / Third-party APIs
 
-*   [mgl-pax (⭐56)](https://github.com/melisgl/mgl-pax) - Exploratory
+*   [mgl-pax (⭐64)](https://github.com/melisgl/mgl-pax) - Exploratory
     programming environment and documentation generator. one may
     accomplish similar effects as with Literate Programming, but
     documentation is generated from code, not vice versa. Code is first,
     code must look pretty, documentation is code. [MIT](https://opensource.org/licenses/MIT).
-    *   see this [40ants fork (⭐13)](https://github.com/40ants/doc) for: a lighter core system, a JavaScript search index, multiple format output, HTML themes, RSS and Atom feed for the Changelog and more.
-*   [Declt (⭐33)](https://github.com/didierverna/declt) - Reference manual generator for Common Lisp libraries. Builds a texinfo document that can be further processed into various formats, such as HTML or PDF. BSD.
-*   [Codex (⭐83)](https://github.com/CommonDoc/codex) - A beautiful
+    *   see this [40ants fork (⭐15)](https://github.com/40ants/doc) for: a lighter core system, a JavaScript search index, multiple format output, HTML themes, RSS and Atom feed for the Changelog and more.
+*   [Declt (⭐36)](https://github.com/didierverna/declt) - Reference manual generator for Common Lisp libraries. Builds a texinfo document that can be further processed into various formats, such as HTML or PDF. BSD.
+*   [Codex (⭐84)](https://github.com/CommonDoc/codex) - A beautiful
     documentation system for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 *   [QBook (⭐6)](https://github.com/mmontone/qbook) - generates HTML (or LaTeX) formatted code listings of Common Lisp source files. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   all comments started with 4 `;` (";;;;") are interpreted as documentation. Enhance the documentation with headings and directives.
     *   QBook acts as "a lightweight literate programming system, where Lisp code is not rendered inline, but in separate sections, and that makes the document more pleasant to navigate." @mmontone
-*   [cl-bibtex (⭐23)](https://github.com/mkoeppe/cl-bibtex) - A compatible re-implementation of the BibTeX program in Common Lisp, with a BST-to-CL compiler. [GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
+*   [cl-bibtex (⭐24)](https://github.com/mkoeppe/cl-bibtex) - A compatible re-implementation of the BibTeX program in Common Lisp, with a BST-to-CL compiler. [GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
 *   [docbrowser (⭐15)](https://github.com/lokedhs/docbrowser) - a server that generates documentation for the loaded systems on the fly.
     *   Its main page presents a list of all loaded systems in your Lisp image. Click on one system, and you get a page with three panes: functions, classes and variables. Click on a function to see its source, in context, with line numbers. Click on classes to see their slots and specializing functions.
 
 ### Literate programming / Third-party APIs
 
-*   [literate-lisp (⭐49)](https://github.com/jingtaozf/literate-lisp) -  Load Common Lisp code blocks from Emacs' Org files. [MIT](https://opensource.org/licenses/MIT).
-*   [erudite (⭐60)](https://github.com/mmontone/erudite) - Literate Programming System built with interactive development in mind. [MIT](https://opensource.org/licenses/MIT).
+*   [literate-lisp (⭐51)](https://github.com/jingtaozf/literate-lisp) -  Load Common Lisp code blocks from Emacs' Org files. [MIT](https://opensource.org/licenses/MIT).
+*   [erudite (⭐67)](https://github.com/mmontone/erudite) - Literate Programming System built with interactive development in mind. [MIT](https://opensource.org/licenses/MIT).
 
 ### Other / Third-party APIs
 
@@ -181,17 +182,17 @@
 
 ### (requires Neovim 0.5)
 
-*   [smjonas/inc-rename.nvim (⭐349)](https://github.com/smjonas/inc-rename.nvim) - Provides an incremental LSP rename command based on Neovim's command-preview feature.
+*   [smjonas/inc-rename.nvim (⭐394)](https://github.com/smjonas/inc-rename.nvim) - Provides an incremental LSP rename command based on Neovim's command-preview feature.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [imbacraft/dusk.nvim (⭐27)](https://github.com/imbacraft/dusk.nvim) - Dusk is a lightweight, aesthetically minimal Neovim config, written in Lua, able to provide for web and Java development.
+*   [imbacraft/dusk.nvim (⭐36)](https://github.com/imbacraft/dusk.nvim) - Dusk is a lightweight, aesthetically minimal Neovim config, written in Lua, able to provide for web and Java development.
 
 ## [12. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
 
-### WWDC Students Submissions / Functional Reactive Programming
+### WWDC Students Submissions
 
-*   [2022 (⭐58)](https://github.com/wwdc/2022)
+*   [2022 (⭐135)](https://github.com/wwdc/2022)
 
 ## [13. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 
@@ -211,13 +212,13 @@
 
 ### Graphics
 
-*   [Harfang 3D (⭐340)](https://github.com/harfang3d/harfang3d) 3D visualization library usable in C++, Python, Lua and Go. Based on BGFX. \[GPLv3/LGPLv3/Commercial] [website](https://www.harfang3d.com)
+*   [Harfang 3D (⭐414)](https://github.com/harfang3d/harfang3d) 3D visualization library usable in C++, Python, Lua and Go. Based on BGFX. \[GPLv3/LGPLv3/Commercial] [website](https://www.harfang3d.com)
 
 ## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### CI and CD
 
-*   [Argonaut](https://argonaut.dev/) - Deploy apps and infrastructure on your cloud in minutes. Support for custom and third-party app deployments on Kubernetes and Lambda environments. Free tier allows unlimited apps and deployments for 5 environments and 2 users.
+*   [Argonaut](https://argonaut.dev/) - Deploy apps and infrastructure on your cloud in minutes. Support for custom and third-party app deployments on Kubernetes and Lambda environments. The free tier allows unlimited apps and deployments for 5 domains and 2 users.
 
 ## [16. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 

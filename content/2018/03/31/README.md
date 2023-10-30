@@ -10,11 +10,11 @@
 
 ### Frameworks, Libraries and Tools / Compilers, Transpilers and Languages
 
-*   [Pidgin (⭐643)](https://github.com/benjamin-hodgson/Pidgin) - A lightweight, fast and flexible parsing library for C#, developed at Stack Overflow.
+*   [Pidgin (⭐751)](https://github.com/benjamin-hodgson/Pidgin) - A lightweight, fast and flexible parsing library for C#, developed at Stack Overflow.
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [FastExpressionCompiler (⭐885)](https://github.com/dadhi/FastExpressionCompiler) - Fast ExpressionTree compiler to delegate.
+*   [FastExpressionCompiler (⭐1k)](https://github.com/dadhi/FastExpressionCompiler) - Fast ExpressionTree compiler to delegate.
 
 ## [2. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
@@ -53,7 +53,7 @@
 ### Reading and Writing Tools / Ebooks
 
 *   [Calibre](http://calibre-ebook.com/) - Free and open-source e-book computer software application suite which runs on multiple platforms, allows users to manage e-book collections as well as create, edit, and read e-books. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/kovidgoyal/calibre)
-*   [iChm (⭐96)](https://github.com/NSGod/ichm) - Ebook reader for CHM (Microsoft Compiled HTML help) files. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/NSGod/ichm) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [iChm (⭐101)](https://github.com/NSGod/ichm) - Ebook reader for CHM (Microsoft Compiled HTML help) files. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/NSGod/ichm) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Klib](http://klib.me/) - New way to manage highlights for Kindle and iBooks. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/id1196268448?mt=12\&at=1000lv4R\&ct=klib_me)
 *   [Scribus](https://www.scribus.net/) - Professional layout and publishing software supporting EPS and SVG import/export, and PDF support.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://sourceforge.net/projects/scribus/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Sigil](https://sigil-ebook.com/) - Multi-platform EPUB ebook Editor. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Sigil-Ebook/Sigil)
@@ -77,8 +77,8 @@
 ### Developer Tools / Developer Utilities
 
 *   [DiffMerge](http://sourcegear.com/diffmerge/) - Application to visually compare and merge files. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [EnvPane (⭐622)](https://github.com/hschmidt/EnvPane) - OS X preference pane for environment variables. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/hschmidt/EnvPane)
-*   [FinderGo (⭐1k)](https://github.com/onmyway133/FinderGo) - Open terminal quickly from Finder. [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/onmyway133/FinderGo)
+*   [EnvPane (⭐657)](https://github.com/hschmidt/EnvPane) - OS X preference pane for environment variables. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/hschmidt/EnvPane)
+*   [FinderGo (⭐1.1k)](https://github.com/onmyway133/FinderGo) - Open terminal quickly from Finder. [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/onmyway133/FinderGo)
 *   [Finicky](https://johnste.github.io/finicky/) - Application that allows you to set up rules that decide which browser is opened for every link that would open the default browser. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/johnste/finicky) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Gemini](https://macpaw.com/gemini) - Intelligent duplicate file finder.
 *   [Hosts.prefpane (⭐1.6k)](https://github.com/specialunderwear/Hosts.prefpane) - System preference pane to manage your hosts file. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/specialunderwear/Hosts.prefpane)
@@ -89,7 +89,7 @@
 *   [SecureCRT](https://www.vandyke.com/products/securecrt/) - Terminal emulation which supports SSH, Telnet or other protocols.
 *   [SwitchHosts](https://oldj.github.io/SwitchHosts/) - Free and open-source app for hosts management & switching. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/oldj/SwitchHosts) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [TeXstudio](http://www.texstudio.org) - Integrated writing environment for creating LaTeX documents. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://sourceforge.net/projects/texstudio/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [WWDC (⭐8.3k)](https://github.com/insidegui/WWDC) - The Mac OS unofficial WWDC app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/insidegui/WWDC)
+*   [WWDC (⭐8.5k)](https://github.com/insidegui/WWDC) - The Mac OS unofficial WWDC app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/insidegui/WWDC)
 
 ### Developer Tools / Regular Expression Editors
 
@@ -109,13 +109,13 @@
 
 *   [asciinema (⭐12k)](https://github.com/asciinema/asciinema) - Easily record terminal sessions and replay them in a terminal as well as in a web browser. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/asciinema/asciinema) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [cmus](https://cmus.github.io/) - Small, fast and powerful console music player for Unix-like operating systems. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cmus) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [mas (⭐9.8k)](https://github.com/mas-cli/mas) - Simple command line interface for the Mac App Store. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mas-cli/mas) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [shallow-backup (⭐1k)](https://github.com/alichtman/shallow-backup) - Easily create text documentation of installed applications, dotfiles, and more. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [mas (⭐10k)](https://github.com/mas-cli/mas) - Simple command line interface for the Mac App Store. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mas-cli/mas) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [shallow-backup (⭐1.1k)](https://github.com/alichtman/shallow-backup) - Easily create text documentation of installed applications, dotfiles, and more. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Frameworks For Hybrid Applications
 
 *   [AppJS](http://appjs.com/) - Lightweight JavaScript UI library for creating mobile webapps that behave like native apps. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/appjs/appjs)
-*   [create-dmg (⭐4k)](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sindresorhus/create-dmg) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [create-dmg (⭐4.1k)](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sindresorhus/create-dmg) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Electrino (⭐4.3k)](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/pojala/electrino) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [ionic](http://ionicframework.com/) - Build amazing native and progressive web apps with Angular and open web technologies. One app running on everything. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/driftyco/ionic) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [MacGap](http://macgapproject.github.io/) - Provides a lightweight JavaScript API for OS X integration, such as displaying native notifications or writing data to a file. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/MacGapProject) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -154,16 +154,15 @@
 
 ### Utilities / Quality of Life Improvements
 
-*   [KeyCastr (⭐10k)](https://github.com/keycastr/keycastr) - Open-source keystroke visualizer.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/keycastr/keycastr) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [KeyCastr (⭐11k)](https://github.com/keycastr/keycastr) - Open-source keystroke visualizer.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/keycastr/keycastr) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [f.lux](https://justgetflux.com/) - Makes the color of your computer's display adapt to the time of day. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Other Tools
 
-*   [APNGb (⭐277)](https://github.com/mancunianetz/APNGb) - PNG image assembler/disassembler app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mancunianetz/APNGb) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [APNGb (⭐293)](https://github.com/mancunianetz/APNGb) - PNG image assembler/disassembler app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mancunianetz/APNGb) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Couleurs](http://couleursapp.com) - Simple app for grabbing and tweaking the colors you see on your screen. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Frank DeLoupe](http://jumpzero.com/frank/) - Color-picking tool, supports Retina.
 *   [Resize Master](http://www.boltnev.com/resizemaster/) - Batch resize and watermark your images fast and easy.  [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/resize-master/id1025306797)
-*   [TinyPNG4Mac (⭐3.3k)](https://github.com/kyleduo/TinyPNG4Mac) - Open-source tool to compress images. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/kyleduo/TinyPNG4Mac)
+*   [TinyPNG4Mac (⭐3.4k)](https://github.com/kyleduo/TinyPNG4Mac) - Open-source tool to compress images. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/kyleduo/TinyPNG4Mac)
 *   [Tropy](https://tropy.org/) - Research Photo Management. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tropy/tropy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Communication / Collaboration and Team Tools
@@ -222,18 +221,18 @@
 
 ### Security Tools / File Sharing
 
-*   [BlockBlock](https://objective-see.com/products/blockblock.html) - Me: "Please alert me whenever anything is persistently installed." BlockBlock: "You got it"
-*   [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - Simple utility that will scan your computer for applications that are either susceptible to dylib hijacking or have been hijacked.
-*   [KnockKnock](https://objective-see.com/products/knockknock.html) - See what's persistently installed on your Mac.
+*   [BlockBlock](https://objective-see.com/products/blockblock.html) - Me: "Please alert me whenever anything is persistently installed." BlockBlock: "You got it" [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/objective-see/BlockBlock)
+*   [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - Simple utility that will scan your computer for applications that are either susceptible to dylib hijacking or have been hijacked. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/objective-see/DylibHijackScanner)
+*   [KnockKnock](https://objective-see.com/products/knockknock.html) - See what's persistently installed on your Mac. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/objective-see/KnockKnock)
 *   [MalwareBytes](https://www.malwarebytes.com/mac-download/) - Malwarebytes crushes the growing threat of Mac malware, so you are protected and your machine keeps running silky smooth. Cybersecurity smart enough for the Mac. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [OverSight](https://objective-see.com/products/oversight.html) - Monitor mic and webcam, alerting you when the internal mic is activated, or whenever a process accesses the webcam.
-*   [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - Generic Ransomware Detection.
-*   [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - Explore all processes running on your Mac with TaskExplorer.
-*   [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) - Adds menu item to Finder.app to display the cryptographic signing information for any file.
+*   [OverSight](https://objective-see.com/products/oversight.html) - Monitor mic and webcam, alerting you when the internal mic is activated, or whenever a process accesses the webcam. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/objective-see/OverSight)
+*   [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - Generic Ransomware Detection. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/objective-see/RansomWhere)
+*   [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - Explore all processes running on your Mac with TaskExplorer. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/objective-see/TaskExplorer)
+*   [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) - Adds menu item to Finder.app to display the cryptographic signing information for any file.[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/objective-see/WhatsYourSign)
 
 ### Proxy and VPN Tools / File Sharing
 
-*   [Algo (⭐27k)](https://github.com/trailofbits/algo) - Personal IPSEC VPN in the cloud. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/trailofbits/algo)
+*   [Algo (⭐28k)](https://github.com/trailofbits/algo) - Personal IPSEC VPN in the cloud. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/trailofbits/algo)
 *   [Surge](https://nssurge.com/) - Web developer tool and proxy utility for iOS 9.
 
 ### Utilities / Clipboard Tools
@@ -250,12 +249,12 @@
 
 *   [Hazel](https://www.noodlesoft.com) - Automated file organization for your Mac. Responsibly and beautifully designed.
 *   [muCommander](http://www.mucommander.com) - Lightweight file manager with a dual-pane interface. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mucommander/mucommander) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [PDF Archiver (⭐257)](https://github.com/JulianKahnert/PDF-Archiver) - Nice tool for tagging and archiving tasks. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/JulianKahnert/PDF-Archiver) [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/pdf-archivar/id1352719750)
+*   [PDF Archiver (⭐274)](https://github.com/JulianKahnert/PDF-Archiver) - Nice tool for tagging and archiving tasks. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/JulianKahnert/PDF-Archiver) [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/pdf-archivar/id1352719750)
 
 ### Utilities / General Tools
 
 *   [AirServer](http://www.airserver.com/Download) - Most advanced screen mirroring software receiver for Mac, PC and Xbox One.
-*   [DNS Heaven (⭐246)](https://github.com/greenboxal/dns-heaven) - Unifies macOS DNS so applications using glibc can resolve DNS with the native stack. Mainly for use with VPNs. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/greenboxal/dns-heaven) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [DNS Heaven (⭐251)](https://github.com/greenboxal/dns-heaven) - Unifies macOS DNS so applications using glibc can resolve DNS with the native stack. Mainly for use with VPNs. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/greenboxal/dns-heaven) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [HTTrack](http://www.httrack.com) - Useful tool for downloading a whole website and offline browsing. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Memo](http://memo-app.net/) - Simple and elegant app. Unlock memos even more quickly using Touch ID. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/id1212409035)
 *   [Numi](http://numi.io/) - Beautiful calculator app for Mac. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -292,7 +291,7 @@
 ### Utilities / System Related Tools
 
 *   [DaisyDisk](https://daisydiskapp.com/) - Gives a great overview of disk usage. Can also make more disk-space available by cleaning up your disk.
-*   [iStats (⭐2.3k)](https://github.com/Chris911/iStats) - Command-line tool that allows you to easily grab the CPU temperature, fan speeds and battery information on OSX. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Chris911/iStats)
+*   [iStats (⭐2.4k)](https://github.com/Chris911/iStats) - Command-line tool that allows you to easily grab the CPU temperature, fan speeds and battery information on OSX. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Chris911/iStats)
 *   [Mounty](http://enjoygineering.com/mounty/) - Tiny tool to re-mount write-protected NTFS volumes under Mac OS X 10.9+ in read-write mode. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [NitroShare](https://nitroshare.net/) - Cross-platform network file transfer utility. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nitroshare/nitroshare-desktop) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 

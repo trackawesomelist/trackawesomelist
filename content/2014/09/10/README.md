@@ -24,6 +24,11 @@
 
 *   [MySQL++](http://www.tangentsoft.net/mysql++/) - A C++ wrapper for MySQL's C API. \[LGPL]
 
+### Scientific Computing
+
+*   [FFTW](http://www.fftw.org/) - A C library for computing the DFT in one or more dimensions. \[GPL]
+*   [GSL](http://www.gnu.org/software/gsl/) - GNU scientific library. \[GPL]
+
 ### GUI
 
 *   [QCustomPlot](http://qcustomplot.com/) - Qt plotting widget without further dependencies. \[GPLv3]
@@ -49,11 +54,6 @@
 ### Networking
 
 *   [libcurl](http://curl.haxx.se/libcurl/) - Multiprotocol file transfer library. \[MIT/X derivate license]
-
-### Scientific Computing
-
-*   [FFTW](http://www.fftw.org/) - A C library for computing the DFT in one or more dimensions. \[GPL]
-*   [GSL](http://www.gnu.org/software/gsl/) - GNU scientific library. \[GPL]
 
 ### Miscellaneous
 

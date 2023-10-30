@@ -8,7 +8,7 @@
 
 ## [1. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
-### United States 🇺🇸 / Massachusetts   <a id="massachusetts">  </a>
+### United States 🇺🇸 / Massachusetts <a id="massachusetts"></a>
 
 #### The Bun Shop
 
@@ -67,7 +67,7 @@
 *   [Transport API](https://www.transportapi.com/) - REST API for aggregated transit data for the United Kingdom.  Fee-based access.
 *   [TransLoc OpenAPI](https://market.mashape.com/transloc/openapi-1-2) - REST API for real-time vehicle, route, stop, and arrival data for over 60 transit systems in the United States that have purchased TransLoc's AVL hardware and software.
 *   [NextBus API](http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf) - REST API for real-time vehicle, route, stop, and arrival data for agencies that have puchased NextBus's hardware and/or software.
-*   [CityBikes](http://api.citybik.es) - REST API for aggregated bikeshare data from around the world. Powered by [pyBikes (⭐502)](https://github.com/eskerda/pybikes).
+*   [CityBikes](http://api.citybik.es) - REST API for aggregated bikeshare data from around the world. Powered by [pyBikes (⭐516)](https://github.com/eskerda/pybikes).
 
 ### Software for Creating APIs
 
@@ -97,7 +97,7 @@
 
 ### Machine Learning and Data Science
 
-*   [GeneticSharp (⭐1.1k)](https://github.com/giacomelli/GeneticSharp) - Multi-platform genetic algorithm library for .NET Core and .NET Framework. The library has several implementations of GA operators, like: selection, crossover, mutation, reinsertion and termination.
+*   [GeneticSharp (⭐1.2k)](https://github.com/giacomelli/GeneticSharp) - Multi-platform genetic algorithm library for .NET Core and .NET Framework. The library has several implementations of GA operators, like: selection, crossover, mutation, reinsertion and termination.
 
 ## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 19, 2021
 
-19 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,8 +22,8 @@
 
 ### Rust / General-Purpose Machine Learning
 
-*   [smartcore (⭐504)](https://github.com/smartcorelib/smartcore) - "The Most Advanced Machine Learning Library In Rust."
-*   [linfa (⭐2.6k)](https://github.com/rust-ml/linfa) - a comprehensive toolkit to build Machine Learning applications with Rust
+*   [smartcore (⭐571)](https://github.com/smartcorelib/smartcore) - "The Most Advanced Machine Learning Library In Rust."
+*   [linfa (⭐2.9k)](https://github.com/rust-ml/linfa) - a comprehensive toolkit to build Machine Learning applications with Rust
 
 ## [4. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
@@ -35,9 +35,8 @@
 
 ### Resources / Packages
 
-*   [svelte-monetization](https://github.com/wobsoriano/svelte-monetization) - A minimal and lightweight wrapper for the Web Monetization API. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/svelte.png)
 *   [web-monetized-video (⭐15)](https://github.com/Jasmin2895/web-monetized-video) - A web component with has play and pay policy and charges you for the amount of video watched. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
-*   [awesome-jsgames (⭐345)](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
+*   [awesome-jsgames (⭐399)](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [mediadisclosures (⭐0)](https://github.com/oofdere/mediadisclosures) - An open-source, always evolving, universal content rating system. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [web-monetization-demo (⭐1)](https://github.com/peter279k/web-monetization-demo) - This is a Web Monetization Demo ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [money-chat (⭐3)](https://github.com/dfoderick/money-chat) - Web Monetization chat app ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
@@ -134,7 +133,7 @@
 
 ### Deep Learning Packages / Visualization Tools
 
-*   [vizzu (⭐1.7k)](https://github.com/vizzuhq/vizzu-lib)
+*   [vizzu (⭐1.8k)](https://github.com/vizzuhq/vizzu-lib)
 
 ## [9. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
@@ -142,50 +141,65 @@
 
 *   [Vizzu (⭐1.6k)](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
 
-## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [10. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### HTML and CSS / Spock Framework
+
+*   [Airbnb CSS / Sass Styleguide (⭐6.8k)](https://github.com/airbnb/css) - Airbnb
+*   [Airbnb CSS-in-JavaScript Style Guide](https://airbnb.io/javascript/css-in-javascript/) - Airbnb
+
+### JavaScript / React
+
+*   [Airbnb React/JSX Style Guide](https://airbnb.io/javascript/react/) - Airbnb
+
+### Ruby / Tornado
+
+*   [Ruby Style Guide (⭐3.7k)](https://github.com/airbnb/ruby) - Airbnb
+
+## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / React
 
-*   [vite-react-ts-starter (⭐109)](https://github.com/uchihamalolan/vite-react-ts) - React, TypeScript, Jest, ESLint, Prettier, TailwindCSS, Husky, Conventional Commits.
+*   [vite-react-ts-starter (⭐117)](https://github.com/uchihamalolan/vite-react-ts) - React, TypeScript, Jest, ESLint, Prettier, TailwindCSS, Husky, Conventional Commits.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-follow-tooltip (⭐4)](https://github.com/gVguy/vue-follow-tooltip) - Tiny tooltip directive for Vue 3.
-*   [vue-icomoon (⭐21)](https://github.com/aykutkardas/vue-icomoon) - With vue-icomoon you can easily use the icons you have selected or created in icomoon.
+*   [vue-icomoon (⭐22)](https://github.com/aykutkardas/vue-icomoon) - With vue-icomoon you can easily use the icons you have selected or created in icomoon.
 
-## [12. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+## [13. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [Python-for-Finance-Cookbook (⭐598)](https://github.com/PacktPublishing/Python-for-Finance-Cookbook) - Python for Finance Cookbook, published by Packt.
+*   [Python-for-Finance-Cookbook (⭐643)](https://github.com/PacktPublishing/Python-for-Finance-Cookbook) - Python for Finance Cookbook, published by Packt.
 
-## [13. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+## [14. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### Projects Related to eBPF / Observability
 
-*   [pixie (⭐4.6k)](https://github.com/pixie-io/pixie) - Observability for Kubernetes using eBPF. Features include protocol tracing, application profiling, and support for distributed bpftrace deployments.
+*   [pixie (⭐4.9k)](https://github.com/pixie-io/pixie) - Observability for Kubernetes using eBPF. Features include protocol tracing, application profiling, and support for distributed bpftrace deployments.
 
-## [14. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [15. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Tooling
 
 *   [REVISE: REvealing VIsual biaSEs (⭐91)](https://github.com/princetonvisualai/revise-tool) - Automatically detect bias in visual data sets.
 
-## [15. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [16. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Functional Programming
 
 *   [RubyLichtenstein/RxTest (⭐282)](https://github.com/RubyLichtenstein/RxTest) - Kotlin DSL for testing RxJava2
 
-## [16. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [17. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / Scanning / Pentesting
 
-*   [Deepfence ThreatMapper (⭐3.7k)](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
+*   [Deepfence ThreatMapper (⭐4.5k)](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 
-## [17. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
+## [18. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
 ### Resources
 
@@ -238,13 +252,13 @@
 
 *   [Scales (⭐7)](https://github.com/virto-network/scales) - Serializing SCALE using type information from a type registry.
 
-## [18. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [19. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Caching
 
-*   [al8n/stretto (⭐347)](https://github.com/al8n/stretto) - A high performance thread-safe memory-bound Rust cache [![build badge](https://github.com/al8n/stretto/actions/workflows/ci.yml/badge.svg)](https://github.com/al8n/stretto/actions/workflows/ci.yml)
+*   [al8n/stretto (⭐365)](https://github.com/al8n/stretto) - A high performance thread-safe memory-bound Rust cache [![build badge](https://github.com/al8n/stretto/actions/workflows/ci.yml/badge.svg)](https://github.com/al8n/stretto/actions/workflows/ci.yml)
 
-## [19. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [20. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Admin Interface
 
@@ -252,11 +266,11 @@
 
 ### Core Extensions
 
-*   [Bitwise (⭐44)](https://github.com/kenn/bitwise) - Fast, memory efficient bitwise operations on large binary strings
+*   [Bitwise (⭐43)](https://github.com/kenn/bitwise) - Fast, memory efficient bitwise operations on large binary strings
 
 ### Email
 
-*   [Ahoy Email (⭐1k)](https://github.com/ankane/ahoy_email) - Analytics and tracking for e-mails.
+*   [Ahoy Email (⭐1.1k)](https://github.com/ankane/ahoy_email) - Analytics and tracking for e-mails.
 
 ### Game Development and Graphics
 
@@ -264,7 +278,7 @@
 
 ### Machine Learning
 
-*   [m2cgen (⭐2.5k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Ruby code with zero dependencies.
+*   [m2cgen (⭐2.6k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Ruby code with zero dependencies.
 
 ---
 

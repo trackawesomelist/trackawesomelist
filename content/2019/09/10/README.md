@@ -22,7 +22,7 @@
 
 ### CMS & Blogs
 
-*   [KikCMS (⭐53)](https://github.com/krazzer/kikcms) - CMS built on Phalcon Framework
+*   [KikCMS (⭐54)](https://github.com/krazzer/kikcms) - CMS built on Phalcon Framework
 
 ### ODM
 
@@ -32,7 +32,7 @@
 
 *   [Phalcon Forums](https://forum.phalcon.io/) - Phalcon Forums
 
-### Websites / Slides
+### Websites / Communities
 
 *   [Built With](https://builtwith.phalcon.io/) - Gallery of applications, demos and projects built with Phalcon Framework
 *   [Phalcon Blog](https://blog.phalcon.io/) - Phalcon Blog
@@ -114,7 +114,7 @@
 
 ### Reflection
 
-*   [magic\_get (⭐167)](https://github.com/apolukhin/magic_get) - std::tuple like methods for user defined types without any macro or boilerplate code. \[Boost]
+*   [magic\_get (⭐185)](https://github.com/apolukhin/magic_get) - std::tuple like methods for user defined types without any macro or boilerplate code. \[Boost]
 
 ## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
@@ -127,7 +127,7 @@
 
 ### Info / Other Good Places to Find Papers
 
-*   [Research Papers from Robert Harper, Carnegie Mellon University](https://www.cs.cmu.edu/\~rwh/papers/index.html)
+*   [Research Papers from Robert Harper, Carnegie Mellon University](https://www.cs.cmu.edu/~rwh/papers/index.html)
 
 ## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -175,7 +175,7 @@
 
 ### Repositories / JavaScript
 
-*   [TBA Node API (⭐0)](https://github.com/Team2537/tba-api-node) - A Node.js library for interacting with The Blue Alliance API.
+*   [TBA Node API (⭐1)](https://github.com/Team2537/tba-api-node) - A Node.js library for interacting with The Blue Alliance API.
 
 ---
 

@@ -14,7 +14,7 @@
 
 ### Text and Numbers
 
-*   [uuid (⭐347)](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
+*   [uuid (⭐349)](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
 
 ### Third Party APIs
 
@@ -30,7 +30,6 @@
 
 ### Placeholder
 
-*   [placehold.it](http://placehold.it/)
 *   [temp.im](http://temp.im/)
 *   [lorempixel](http://lorempixel.com/)
 *   [dummyimage](http://dummyimage.com/)
@@ -94,7 +93,7 @@
 *   [qiuziti](http://www.qiuziti.com/)
 *   [fonts2u](http://www.fonts2u.com/index.html)
 *   [justfont](http://www.justfont.com/)
-*   [iconpark (⭐357)](https://github.com/lvwzhen/iconpark)
+*   [iconpark (⭐360)](https://github.com/lvwzhen/iconpark)
 
 ### API Doc
 
@@ -128,12 +127,12 @@
 
 ### Date / Runner
 
-*   [moment-timezone (⭐3.7k)](https://github.com/moment/moment-timezone) - Timezone support for moment.js.
-*   [timezone-js (⭐827)](https://github.com/mde/timezone-js) - Timezone-enabled JavaScript Date object. Uses Olson zoneinfo files for timezone data.
+*   [moment-timezone (⭐3.8k)](https://github.com/moment/moment-timezone) - Timezone support for moment.js.
+*   [timezone-js (⭐825)](https://github.com/mde/timezone-js) - Timezone-enabled JavaScript Date object. Uses Olson zoneinfo files for timezone data.
 
 ### String / Runner
 
-*   [sprintf.js (⭐2k)](https://github.com/alexei/sprintf.js) - A sprintf implementation.
+*   [sprintf.js (⭐2.1k)](https://github.com/alexei/sprintf.js) - A sprintf implementation.
 
 ---
 

@@ -25,7 +25,7 @@
 
 ### JSON
 
-*   [jute (⭐68)](https://github.com/amir-s/jute) - Very simple C++ JSON Parser. \[PublicDomain]
+*   [jute (⭐70)](https://github.com/amir-s/jute) - Very simple C++ JSON Parser. \[PublicDomain]
 *   [libjson](http://sourceforge.net/projects/libjson/) - Lightweight JSON library. \[?]
 
 ## [3. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
@@ -76,8 +76,8 @@
 
 ### Games / Directory Navigation
 
-*   [sedtris (⭐453)](https://github.com/uuner/sedtris) - Tetris in sed
-*   [sed-scripts (⭐41)](https://github.com/aureliojargas/sed-scripts) - Arkanoid and Sokoban written using sed
+*   [sedtris (⭐485)](https://github.com/uuner/sedtris) - Tetris in sed
+*   [sed-scripts (⭐42)](https://github.com/aureliojargas/sed-scripts) - Arkanoid and Sokoban written using sed
 
 ## [8. Awesome Db](/content/numetriclabz/awesome-db/week/README.md)
 

@@ -32,11 +32,11 @@
 
 ### UI / Barcode
 
-*   [Family (⭐248)](https://github.com/zenangst/Family) - A child view controller framework that makes setting up your parent controllers as easy as pie.
+*   [Family (⭐250)](https://github.com/zenangst/Family) - A child view controller framework that makes setting up your parent controllers as easy as pie.
 
 ### Utility / Barcode
 
-*   [Differific (⭐127)](https://github.com/zenangst/Differific) - A fast and convenient diffing framework.
+*   [Differific (⭐124)](https://github.com/zenangst/Differific) - A fast and convenient diffing framework.
 
 ## [5. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/README.md)
 
@@ -58,11 +58,11 @@
 
 ### Applications / Directory Navigation
 
-*   [cointop (⭐3.5k)](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies
+*   [cointop (⭐3.6k)](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies
 
 ### Shell Package Management / Directory Navigation
 
-*   [shallow-backup (⭐995)](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed packages, dotfiles, and more
+*   [shallow-backup (⭐1.1k)](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed packages, dotfiles, and more
 
 ## [8. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 

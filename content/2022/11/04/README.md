@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 04, 2022
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -34,21 +34,15 @@
 
 ### Resources / Misc
 
-*   [Email marketing regulations (⭐404)](https://github.com/threeheartsdigital/email-marketing-regulations) - A guide to email marketing regulations around the world.
+*   [Email marketing regulations (⭐409)](https://github.com/threeheartsdigital/email-marketing-regulations) - A guide to email marketing regulations around the world.
 
 ## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Identity Management - Single Sign-On (SSO)
 
-*   [KeyCloak](https://www.keycloak.org) - Open Source Identity and Access Management. ([Source Code (⭐16k)](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java`
+*   [KeyCloak](https://www.keycloak.org) - Open Source Identity and Access Management. ([Source Code (⭐17k)](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java`
 
-## [5. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
-
-### Apps
-
-*   [IPFS-FPS](https://ipfs-fps-website.on.fleek.co/) - A completely decentralized first person shooter. Built with Unity, Fleek, Unstoppable Domans and Pinata.
-
-## [6. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [5. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Books
 
@@ -58,23 +52,39 @@
 
 *   [Spatie's Event Sourcing Course](https://spatie.be/products/event-sourcing-in-laravel) - Learn how to build event sourced applications in Laravel using Spatie's event-sourcing package. Has 2 hours of video content and an accompanying ebook.
 
-## [7. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
-
-### Python / Numerical Libraries & Data Structures
-
-*   [modelx](https://docs.modelx.io/) - Python reimagination of spreadsheets as formula-centric objects that are interoperable with pandas.
-
-## [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Methodologies for Experiments / Association Test
 
 *   [Implicit Association Test](https://en.wikipedia.org/wiki/Implicit-association_test) - ***Wikipedia***. Wikipedia on the Implicit Association Test, a controversial assessment intended to detect subconscious associations between mental representations of objects (concepts) in memory.
 
-## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [xandermute (⭐0)](https://github.com/SoYoureAWaffleMan/xandermute-oh-my-zsh-theme/) - Minimalist theme with `git` and current directory decorations.
+
+## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Go / Phoenix
+
+*   [Learn Go in Y minutes](https://learnxinyminutes.com/docs/go/)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Hands-on Python 3 Tutorial](https://anh.cs.luc.edu/handsonPythonTutorial) - Andrew N. Harrington (HTML)
+
+### Ruby / Tornado
+
+*   [Learn Ruby in Y minutes](https://learnxinyminutes.com/docs/ruby/)
+
+### Rust / Sinatra
+
+*   [Learn Rust in Y minutes](https://learnxinyminutes.com/docs/rust/)
+
+### SQL (implementation agnostic) / Play Scala
+
+*   [SQL Tutorial](https://www.scaler.com/topics/sql/) - Scaler
 
 ---
 

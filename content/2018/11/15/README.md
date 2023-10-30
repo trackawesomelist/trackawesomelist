@@ -10,7 +10,7 @@
 
 ### Third-party APIs
 
-*   [Dropbox (⭐162)](https://github.com/Jesus/dropbox_api) - Ruby client for Dropbox API v2.
+*   [Dropbox (⭐164)](https://github.com/Jesus/dropbox_api) - Ruby client for Dropbox API v2.
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -22,17 +22,17 @@
 
 ### Visualizations
 
-*   [TNExT (⭐14)](https://github.com/ODOT-PTS/TNExT) - Transit Network Explorer Tool (TNExT) is a web-based software tool developed for the visualization, analysis, and reporting of regional and statewide transit networks in the state of Oregon.
+*   [TNExT (⭐15)](https://github.com/ODOT-PTS/TNExT) - Transit Network Explorer Tool (TNExT) is a web-based software tool developed for the visualization, analysis, and reporting of regional and statewide transit networks in the state of Oregon.
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Transition / Barcode
 
-*   [ImageTransition (⭐212)](https://github.com/shtnkgm/ImageTransition) - ImageTransition is a library for smooth animation of images during transitions.
+*   [ImageTransition (⭐214)](https://github.com/shtnkgm/ImageTransition) - ImageTransition is a library for smooth animation of images during transitions.
 
 ### Utility / Barcode
 
-*   [WeakableSelf (⭐72)](https://github.com/vincent-pradeilles/weakable-self) - A micro-framework to encapsulate \[weak self] and guard statements within closures.
+*   [WeakableSelf (⭐76)](https://github.com/vincent-pradeilles/weakable-self) - A micro-framework to encapsulate \[weak self] and guard statements within closures.
 
 ## [5. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Frameworks, Libraries and Tools / Machine Learning and Data Science
 
-*   [WaveFunctionCollapse (⭐20k)](https://github.com/mxgmn/WaveFunctionCollapse) - itmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
+*   [WaveFunctionCollapse (⭐22k)](https://github.com/mxgmn/WaveFunctionCollapse) - itmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
 
 ---
 

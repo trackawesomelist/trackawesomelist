@@ -28,7 +28,7 @@
 
 ## [4. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
-### Germany 🇩🇪 / Berlin
+### France 🇫🇷 / Lille
 
 #### Bibliothèque Sainte-Geneviève
 
@@ -44,13 +44,13 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
-*   [Português do Brasil (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR)
+*   [Português do Brasil (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR)
 
 ## [6. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### Traffic Analysis/Inspection
 
-*   [PcapPlusPlus (⭐2k)](https://github.com/seladb/PcapPlusPlus): PcapPlusPlus a multiplatform C++ network sniffing and packet parsing and manipulation framework. It's meant to be lightweight, efficient and easy to use. It's a C++ wrapper for popular engines like libpcap, WinPcap, DPDK and PF\_RING. It also contains parsing and edit capabilities for many protocols including Ethernet, IPv4, IPv6, ARP, VLAN, MPLS, PPPoE, GRE, TCP, UDP, ICMP, DNS as well as layer 7 protocols like HTTP and SSL/TLS
+*   [PcapPlusPlus (⭐2.3k)](https://github.com/seladb/PcapPlusPlus): PcapPlusPlus a multiplatform C++ network sniffing and packet parsing and manipulation framework. It's meant to be lightweight, efficient and easy to use. It's a C++ wrapper for popular engines like libpcap, WinPcap, DPDK and PF\_RING. It also contains parsing and edit capabilities for many protocols including Ethernet, IPv4, IPv6, ARP, VLAN, MPLS, PPPoE, GRE, TCP, UDP, ICMP, DNS as well as layer 7 protocols like HTTP and SSL/TLS
 
 ## [7. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
@@ -65,7 +65,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Documentation
 
-*   [Sandcastle (⭐2k)](https://github.com/EWSoftware/SHFB) - Sandcastle Help File Builder similar to NDoc
+*   [Sandcastle (⭐2.1k)](https://github.com/EWSoftware/SHFB) - Sandcastle Help File Builder similar to NDoc
 
 ## [9. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -113,7 +113,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Text / Barcode
 
-*   [RichEditorView (⭐1.8k)](https://github.com/cjwirth/RichEditorView) -  RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.
+*   [RichEditorView (⭐1.9k)](https://github.com/cjwirth/RichEditorView) -  RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.
 
 ## [12. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
@@ -124,30 +124,30 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 ### Build Tools / Bare metal / kernel development
 
 *   [premake (⭐2)](https://github.com/premake/premake-dlang) - Premake has built-in support for D projects
-*   [reggae (⭐163)](https://github.com/atilaneves/reggae) - meta build system in D
+*   [reggae (⭐172)](https://github.com/atilaneves/reggae) - meta build system in D
 *   [Makefile (⭐20)](https://github.com/bioinfornatics/MakefileForD) - Makefile template for D projects
-*   [cmake-d (⭐63)](https://github.com/dcarp/cmake-d) - CMake D Projects
+*   [cmake-d (⭐64)](https://github.com/dcarp/cmake-d) - CMake D Projects
 *   [cook2 (⭐25)](https://github.com/gecko0307/Cook2) - Fast incremental build tool intended for projects in D
 
 ### Containers / Bare metal / kernel development
 
 *   [memutils (⭐40)](https://github.com/etcimon/memutils) - Overhead allocators, allocator-aware containers and lifetime management for D objects
-*   [dlib.container (⭐209)](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
+*   [dlib.container (⭐210)](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
 *   [std.rcstring (⭐9)](https://github.com/burner/std.rcstring) - A reference counted string implementation for D's build in string construct
 
 ### Data serialization / XML
 
-*   [orange (⭐71)](https://github.com/jacob-carlborg/orange) - General purpose serializer (currently only supports XML)
+*   [orange (⭐72)](https://github.com/jacob-carlborg/orange) - General purpose serializer (currently only supports XML)
 *   [std.experimental.xml (⭐21)](https://github.com/lodo1995/experimental.xml) - Phobos candidate for a XML serialization
 
 ### GUI Libs / XML
 
-*   [LibUI (⭐34)](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui (⭐10k)](https://github.com/andlabs/libui)
+*   [LibUI (⭐33)](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui (⭐11k)](https://github.com/andlabs/libui)
 
 ### Image Processing / XML
 
-*   [dlib.image (⭐209)](https://github.com/gecko0307/dlib) - image processing (8 and 16 bits per channel, floating point operations, filtering, FFT, HDRI, graphics formats support including JPEG and PNG)
-*   [color.d (⭐489)](https://github.com/adamdruppe/arsd/blob/master/color.d) + [bmp.d (⭐489)](https://github.com/adamdruppe/arsd/blob/master/bmp.d), [jpg.d (⭐489)](https://github.com/adamdruppe/arsd/blob/master/jpg.d), [png.d (⭐489)](https://github.com/adamdruppe/arsd/blob/master/png.d) - basic color struct, HSL functions and reading and writing image files
+*   [dlib.image (⭐210)](https://github.com/gecko0307/dlib) - image processing (8 and 16 bits per channel, floating point operations, filtering, FFT, HDRI, graphics formats support including JPEG and PNG)
+*   [color.d (⭐495)](https://github.com/adamdruppe/arsd/blob/master/color.d) + [bmp.d (⭐495)](https://github.com/adamdruppe/arsd/blob/master/bmp.d), [jpg.d (⭐495)](https://github.com/adamdruppe/arsd/blob/master/jpg.d), [png.d (⭐495)](https://github.com/adamdruppe/arsd/blob/master/png.d) - basic color struct, HSL functions and reading and writing image files
 
 ### Logging / Language Processing
 
@@ -167,15 +167,15 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### CLI Builders
 
-*   [commander (⭐126)](https://github.com/mrrooijen/commander) - Command-line interface builder
+*   [commander (⭐125)](https://github.com/mrrooijen/commander) - Command-line interface builder
 
 ### Misc
 
-*   [circuit\_breaker (⭐26)](https://github.com/TPei/circuit_breaker) - Implementation of the circuit breaker pattern
+*   [circuit\_breaker (⭐27)](https://github.com/TPei/circuit_breaker) - Implementation of the circuit breaker pattern
 
 ### Queues and Messaging
 
-*   [sidekiq.cr (⭐754)](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
+*   [sidekiq.cr (⭐759)](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
 
 ### Web Frameworks
 
@@ -201,35 +201,35 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Node.js / General
 
-*   [steam (⭐996)](https://github.com/seishun/node-steam) - Interface directly with Steam servers from Node.js.
-*   [steam-client (⭐50)](https://github.com/DoctorMcKay/node-steam-client) - API-compatible fork of node-steam's SteamClient.
-*   [steam-user (⭐575)](https://github.com/DoctorMcKay/node-steam-user) - Feature-rich easy-to-use Steam client.
-*   [vapor (⭐107)](https://github.com/scholtzm/vapor) - Lightweight Steam client framework.
+*   [steam (⭐1k)](https://github.com/seishun/node-steam) - Interface directly with Steam servers from Node.js.
+*   [steam-client (⭐53)](https://github.com/DoctorMcKay/node-steam-client) - API-compatible fork of node-steam's SteamClient.
+*   [steam-user (⭐677)](https://github.com/DoctorMcKay/node-steam-user) - Feature-rich easy-to-use Steam client.
+*   [vapor (⭐106)](https://github.com/scholtzm/vapor) - Lightweight Steam client framework.
 *   [steam-parentbot (⭐33)](https://github.com/dragonbanshee/node-steam-parentbot) - Simple base class for a Steam bot.
 
 ### Node.js / Trading
 
 *   [steam-trade (⭐162)](https://github.com/seishun/node-steam-trade) - Node.js wrapper around Steam live trading.
 *   [steam-tradeoffers (⭐291)](https://github.com/Alex7Kom/node-steam-tradeoffers) - Steam Trade Offers for Node.js.
-*   [steam-tradeoffer-manager (⭐391)](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager) - Simple and sane Steam trade offer management.
+*   [steam-tradeoffer-manager (⭐438)](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager) - Simple and sane Steam trade offer management.
 
 ### Node.js / Game Interaction
 
-*   [tf2 (⭐44)](https://github.com/DoctorMcKay/node-tf2) - Interact directly with TF2 game coordinator.
-*   [csgo (⭐404)](https://github.com/joshuaferrara/node-csgo) - Interact directly with CS:GO game coordinator.
-*   [dota2 (⭐528)](https://github.com/RJacksonm1/node-dota2) - Interact directly with Dota 2 game coordinator.
+*   [tf2 (⭐48)](https://github.com/DoctorMcKay/node-tf2) - Interact directly with TF2 game coordinator.
+*   [csgo (⭐433)](https://github.com/joshuaferrara/node-csgo) - Interact directly with CS:GO game coordinator.
+*   [dota2 (⭐540)](https://github.com/RJacksonm1/node-dota2) - Interact directly with Dota 2 game coordinator.
 
 ### Node.js / Community & Store Automation
 
-*   [steamcommunity (⭐352)](https://github.com/DoctorMcKay/node-steamcommunity) - Interact with steamcommunity.com. Also allows to confirm trade offers.
-*   [steamstore (⭐53)](https://github.com/DoctorMcKay/node-steamstore) - Interact with store.steampowered.com.
+*   [steamcommunity (⭐399)](https://github.com/DoctorMcKay/node-steamcommunity) - Interact with steamcommunity.com. Also allows to confirm trade offers.
+*   [steamstore (⭐59)](https://github.com/DoctorMcKay/node-steamstore) - Interact with store.steampowered.com.
 *   [steam-weblogon (⭐27)](https://github.com/Alex7Kom/node-steam-weblogon) - Retrieve SteamCommunity cookies if you are running Steam network client.
 *   [steam-web-api-key (⭐21)](https://github.com/Alex7Kom/node-steam-web-api-key) - Automatically registers and retrieves Steam API key.
 *   [steam-parental (⭐4)](https://github.com/Alex7Kom/node-steam-parental) - Disable parental lock.
 
 ### Node.js / Authentication
 
-*   [passport-steam (⭐306)](https://github.com/liamcurry/passport-steam) - Steam (OpenID) authentication strategy for Passport and Node.js.
+*   [passport-steam (⭐317)](https://github.com/liamcurry/passport-steam) - Steam (OpenID) authentication strategy for Passport and Node.js.
 *   [meteor-accounts-steam (⭐16)](https://github.com/scholtzm/meteor-accounts-steam) - Steam OpenID integration for Meteor Accounts.
 
 ### Node.js / Misc
@@ -237,41 +237,40 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 *   [steam-resources (⭐23)](https://github.com/seishun/node-steam-resources) - Steam's enums, protobufs and structs.
 *   [steam-crypto (⭐15)](https://github.com/seishun/node-steam-crypto) - Node.js implementation of Steam crypto.
 *   [steam-groups (⭐16)](https://github.com/scholtzm/node-steam-groups) - Custom node-steam handler which provides group functions.
-*   [steamid (⭐59)](https://github.com/DoctorMcKay/node-steamid) - SteamID usage and conversion made easy.
-*   [steam-totp (⭐192)](https://github.com/DoctorMcKay/node-steam-totp) - Easily generate 2FA codes used by Steam.
-*   [steam-chat-bot (⭐94)](https://github.com/Steam-Chat-Bot/node-steam-chat-bot) - Simplified interface for a steam chat bot.
-*   [vdf (⭐20)](https://github.com/RJacksonm1/node-vdf) - vdf to object and vice versa.
+*   [steamid (⭐63)](https://github.com/DoctorMcKay/node-steamid) - SteamID usage and conversion made easy.
+*   [steam-totp (⭐209)](https://github.com/DoctorMcKay/node-steam-totp) - Easily generate 2FA codes used by Steam.
+*   [steam-chat-bot (⭐99)](https://github.com/Steam-Chat-Bot/node-steam-chat-bot) - Simplified interface for a steam chat bot.
+*   [vdf (⭐19)](https://github.com/RJacksonm1/node-vdf) - vdf to object and vice versa.
 *   [steamrep (⭐10)](https://github.com/scholtzm/node-steamrep) - Check user's SteamRep reputation.
 *   [reptf (⭐2)](https://github.com/scholtzm/node-reptf) - Check user's rep.tf reputation.
 
 ### PHP / Misc
 
-*   [SteamCommunity (⭐68)](https://github.com/waylaidwanderer/PHP-SteamCommunity) - A PHP library for interacting with the Steam Community website.
-*   [SteamAuthentication (⭐431)](https://github.com/SmItH197/SteamAuthentication) - Steam OpenID authentication with PHP.
-*   [SteamAuthOOP (⭐34)](https://github.com/BlackCetha/SteamAuthOOP) - An object-oriented alternative to SteamAuthentication.
+*   [SteamCommunity (⭐75)](https://github.com/waylaidwanderer/PHP-SteamCommunity) - A PHP library for interacting with the Steam Community website.
+*   [SteamAuthentication (⭐443)](https://github.com/SmItH197/SteamAuthentication) - Steam OpenID authentication with PHP.
+*   [SteamAuthOOP (⭐36)](https://github.com/BlackCetha/SteamAuthOOP) - An object-oriented alternative to SteamAuthentication.
 
 ### Go / Misc
 
-*   [steam (⭐313)](https://github.com/Philipp15b/go-steam) - Steam's protocol in Go.
-*   [steam-mobileauth (⭐15)](https://github.com/YellowOrWhite/go-steam-mobileauth) - Port of SteamAuth in Go.
+*   [steam-mobileauth (⭐19)](https://github.com/YellowOrWhite/go-steam-mobileauth) - Port of SteamAuth in Go.
 
 ### Python / General
 
-*   [steam (⭐739)](https://github.com/ValvePython/steam) - Module for various interactions with Steam.
+*   [steam (⭐861)](https://github.com/ValvePython/steam) - Module for various interactions with Steam.
 *   [PySteamKit](https://bitbucket.org/AzuiSleet/pysteamkit) - Python port of SteamKit.
-*   [steamodd (⭐70)](https://github.com/Lagg/steamodd) - Steam tools library.
+*   [steamodd (⭐72)](https://github.com/Lagg/steamodd) - Steam tools library.
 
 ### C++ / Misc
 
-*   [SteamPP (⭐96)](https://github.com/seishun/SteamPP) - C++ library to interoperate with Steam servers.
+*   [SteamPP (⭐100)](https://github.com/seishun/SteamPP) - C++ library to interoperate with Steam servers.
 
 ### Java / Misc
 
-*   [SteamKit-Java (⭐44)](https://github.com/Top-Cat/SteamKit-Java) - Java port of SteamKit.
+*   [SteamKit-Java (⭐47)](https://github.com/Top-Cat/SteamKit-Java) - Java port of SteamKit.
 
 ### Objective-C / Misc
 
-*   [SteamAuth (⭐5)](https://github.com/michaelchum/SteamAuth) - An iOS wrapper around Steam's OpenID login.
+*   [SteamAuth (⭐6)](https://github.com/michaelchum/SteamAuth) - An iOS wrapper around Steam's OpenID login.
 
 ### General / Misc
 
@@ -285,10 +284,10 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Standalone Tools / Misc
 
-*   [NetHook2 (⭐2.1k)](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHook2) - Intercept Steam client's network messages.
-*   [NetHook2 Analyzer (⭐2.1k)](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) - Inspect messages dumped by NetHook2.
+*   [NetHook2 (⭐2.3k)](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHook2) - Intercept Steam client's network messages.
+*   [NetHook2 Analyzer (⭐2.3k)](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) - Inspect messages dumped by NetHook2.
 *   [steam-auth-web-util](http://scholtzm.github.io/steam-auth-web-util/) - Generate 2FA codes directly in your web browser.
-*   [SteamDesktopAuthenticator (⭐2.2k)](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app.
+*   [SteamDesktopAuthenticator (⭐2.6k)](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app.
 
 ### Discussion Boards / Misc
 
@@ -305,24 +304,24 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 *   [Crypto101](https://www.crypto101.io/) - Crypto 101 is an introductory course on cryptography.
 *   [Cryptography Engineering](https://www.schneier.com/books/cryptography_engineering/) - Learn to build cryptographic protocols that work in the real world.
 *   [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/) - The book about OpenSSL.
-*   [Security Engineering](http://www.cl.cam.ac.uk/\~rja14/book.html) - There is an extraordinary textbook written by Ross Anderson, professor of computer security at University of Cambridge.
+*   [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html) - There is an extraordinary textbook written by Ross Anderson, professor of computer security at University of Cambridge.
 *   [The Cryptoparty Handbook](https://unglue.it/work/141611/) - This book provides a comprehensive guide to the various topics of the computer and internet security.
 
 ### C / Git
 
-*   [RHash (⭐443)](https://github.com/rhash/RHash) - Great utility for computing hash sums.
-*   [tiny-AES128-C (⭐3.3k)](https://github.com/kokke/tiny-AES128-C) - Small portable AES128 in C.
-*   [xxHash (⭐6.7k)](https://github.com/Cyan4973/xxHash) - Extremely fast hash algorithm.
+*   [RHash (⭐500)](https://github.com/rhash/RHash) - Great utility for computing hash sums.
+*   [tiny-AES128-C (⭐3.7k)](https://github.com/kokke/tiny-AES128-C) - Small portable AES128 in C.
+*   [xxHash (⭐7.5k)](https://github.com/Cyan4973/xxHash) - Extremely fast hash algorithm.
 
 ### C-sharp / Git
 
 *   [Bouncy Castle](https://bouncycastle.org/csharp/index.html) - All-purpose cryptographic library.
-*   [StreamCryptor (⭐122)](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf.
+*   [StreamCryptor (⭐126)](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf.
 
 ### Clojure / Git
 
 *   [buddy-core](https://funcool.github.io/buddy-core/latest/) - Cryptographic Api.
-*   [pandect (⭐218)](https://github.com/xsc/pandect) - Fast and easy-to-use Message Digest, Checksum and HMAC library for Clojure.
+*   [pandect (⭐217)](https://github.com/xsc/pandect) - Fast and easy-to-use Message Digest, Checksum and HMAC library for Clojure.
 
 ### Common Lisp / Git
 
@@ -331,26 +330,25 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Delphi / Git
 
-*   [DelphiEncryptionCompendium (⭐190)](https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases) - Cryptographic library for Delphi.
+*   [DelphiEncryptionCompendium (⭐218)](https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases) - Cryptographic library for Delphi.
 *   [LockBox](https://sourceforge.net/projects/tplockbox/) - LockBox 3 is a Delphi library for cryptography.
-*   [SynCrypto (⭐719)](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas) - Fast cryptographic routines (hashing and cypher), implementing AES, XOR, RC4, ADLER32, MD5, SHA1, SHA256 algorithms, optimized for speed.
+*   [SynCrypto (⭐746)](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas) - Fast cryptographic routines (hashing and cypher), implementing AES, XOR, RC4, ADLER32, MD5, SHA1, SHA256 algorithms, optimized for speed.
 *   [TForge](https://bitbucket.org/sergworks/tforge) - TForge is open-source crypto library written in Delphi, compatible with FPC.
 
 ### Elixir / Git
 
-*   [cipher (⭐58)](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
-*   [cloak (⭐506)](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.
-*   [comeonin (⭐1.2k)](https://github.com/elixircnx/comeonin) - Password authorization (bcrypt) library for Elixir.
+*   [cipher (⭐59)](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
+*   [cloak (⭐521)](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.
+*   [comeonin (⭐1.3k)](https://github.com/elixircnx/comeonin) - Password authorization (bcrypt) library for Elixir.
 *   [elixir\_tea (⭐2)](https://github.com/keichan34/elixir_tea) - TEA implementation in Elixir.
 *   [exgpg (⭐17)](https://github.com/rozap/exgpg) - Use gpg from Elixir.
-*   [pot (⭐222)](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
-*   [siphash-elixir (⭐15)](https://github.com/zackehh/siphash-elixir) - Elixir implementation of the SipHash hash family.
+*   [pot (⭐229)](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
+*   [siphash-elixir (⭐17)](https://github.com/zackehh/siphash-elixir) - Elixir implementation of the SipHash hash family.
 
 ### Go / Git
 
 *   [crypto](https://golang.org/pkg/crypto/) - Official Website Resources.
-*   [cryptoballot (⭐216)](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting.
-*   [gocrypto (⭐150)](https://github.com/kisom/gocrypto) - Example source code for the Practical Crypto with Go book.
+*   [gocrypto (⭐151)](https://github.com/kisom/gocrypto) - Example source code for the Practical Crypto with Go book.
 
 ### Haskell / Git
 
@@ -365,11 +363,11 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 *   [Apache Shiro](http://shiro.apache.org/) - Performs authentication, authorization, cryptography and session management.
 *   [Bouncy Castle](https://www.bouncycastle.org/java.html) - All-purpose cryptographic library. JCA provider, wide range of functions from basic helpers to PGP/SMIME operations.
 *   [Google Keyczar (⭐1.1k)](https://github.com/google/keyczar) - Easy to use, yet safe encryption framework with key versioning.
-*   [pac4j (⭐2.2k)](https://github.com/pac4j/pac4j) - Security engine.
+*   [pac4j (⭐2.3k)](https://github.com/pac4j/pac4j) - Security engine.
 
 ### Lua / Git
 
-*   [LuaCrypto (⭐86)](https://github.com/mkottman/luacrypto) - Lua bindings to OpenSSL.
+*   [LuaCrypto (⭐92)](https://github.com/mkottman/luacrypto) - Lua bindings to OpenSSL.
 
 ### Objective-C / Git
 
@@ -378,29 +376,30 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### PHP / Git
 
-*   [TCrypto (⭐56)](https://github.com/timoh6/TCrypto) - TCrypto is a simple and flexible PHP 5.3+ in-memory key-value storage library.
+*   [TCrypto (⭐59)](https://github.com/timoh6/TCrypto) - TCrypto is a simple and flexible PHP 5.3+ in-memory key-value storage library.
 
 ### Python / Git
 
-*   [hashids (⭐1.3k)](https://github.com/davidaurelio/hashids-python) - Implementation of [hashids](http://hashids.org) in Python.
-*   [pynacl (⭐927)](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
+*   [hashids (⭐1.4k)](https://github.com/davidaurelio/hashids-python) - Implementation of [hashids](http://hashids.org) in Python.
+*   [pynacl (⭐982)](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
 
 ### Ruby / Git
 
-*   [RbNaCl (⭐961)](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
+*   [RbNaCl (⭐971)](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
 
 ### Rust / Git
 
-*   [octavo (⭐137)](https://github.com/libOctavo/octavo) - Highly modular & configurable hash & crypto library.
-*   [ring (⭐2.9k)](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives.
-*   [rust-openssl (⭐993)](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust.
-*   [sodiumoxide (⭐642)](https://github.com/dnaq/sodiumoxide) - Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
+*   [cryptoballot (⭐218)](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting.
+*   [octavo (⭐140)](https://github.com/libOctavo/octavo) - Highly modular & configurable hash & crypto library.
+*   [ring (⭐3.2k)](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives.
+*   [rust-openssl (⭐1.2k)](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust.
+*   [sodiumoxide (⭐640)](https://github.com/dnaq/sodiumoxide) - Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
 *   [suruga (⭐123)](https://github.com/klutzy/suruga) - TLS 1.2 implementation in Rust.
-*   [webpki (⭐394)](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation in Rust.
+*   [webpki (⭐422)](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation in Rust.
 
 ### Swift / Git
 
-*   [CryptoSwift (⭐9.3k)](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift implemented in Swift programming language.
+*   [CryptoSwift (⭐9.7k)](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift implemented in Swift programming language.
 
 ## [19. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -559,7 +558,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Samples
 
-*   [Stardust from Intel (⭐113)](https://github.com/GameTechDev/stardust_vulkan) - The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. \[[LICENSE (⭐113)](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
+*   [Stardust from Intel (⭐112)](https://github.com/GameTechDev/stardust_vulkan) - The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. \[[LICENSE (⭐112)](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
 
 ### Bindings
 
@@ -585,7 +584,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Framework Components
 
-*   [dayron (⭐158)](https://github.com/inaka/Dayron) - A repository *similar* to `Ecto.Repo` that works with REST API requests instead of a database.
+*   [dayron (⭐159)](https://github.com/inaka/Dayron) - A repository *similar* to `Ecto.Repo` that works with REST API requests instead of a database.
 
 ## [35. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -609,7 +608,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Data Visualization
 
-*   [Bloomery (⭐15)](https://github.com/ufukomer/bloomery) - Web UI for Impala.
+*   [Bloomery (⭐16)](https://github.com/ufukomer/bloomery) - Web UI for Impala.
 
 ## [37. Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/week/README.md)
 
@@ -627,11 +626,11 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Authentication and OAuth
 
-*   [Rodauth (⭐1.4k)](https://github.com/jeremyevans/rodauth) - Authentication and account management framework for Rack applications.
+*   [Rodauth (⭐1.5k)](https://github.com/jeremyevans/rodauth) - Authentication and account management framework for Rack applications.
 
 ### Documentation
 
-*   [Hanna (⭐29)](https://github.com/rdoc/hanna-nouveau) - An RDoc formatter built with simplicity, beauty and ease of browsing in mind.
+*   [Hanna (⭐33)](https://github.com/rdoc/hanna-nouveau) - An RDoc formatter built with simplicity, beauty and ease of browsing in mind.
 
 ## [39. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
@@ -643,7 +642,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Boilerplates / Other
 
-*   [bozon (⭐757)](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
+*   [bozon (⭐759)](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
 
 ## [41. Awesome R](/content/qinwf/awesome-R/week/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 14, 2020
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,15 +16,15 @@
 
 ### Python / Computer Vision
 
-*   [Learnergy (⭐59)](https://github.com/gugarosa/learnergy) - Energy-based machine learning models built upon PyTorch.
+*   [Learnergy (⭐62)](https://github.com/gugarosa/learnergy) - Energy-based machine learning models built upon PyTorch.
 
 ### Python / Natural Language Processing
 
-*   [NALP (⭐22)](https://github.com/gugarosa/nalp) - A Natural Adversarial Language Processing framework built over Tensorflow.
+*   [NALP (⭐23)](https://github.com/gugarosa/nalp) - A Natural Adversarial Language Processing framework built over Tensorflow.
 
 ### Python / General-Purpose Machine Learning
 
-*   [OPFython (⭐30)](https://github.com/gugarosa/opfython) - A Python-inspired implementation of the Optimum-Path Forest classifier.
+*   [OPFython (⭐31)](https://github.com/gugarosa/opfython) - A Python-inspired implementation of the Optimum-Path Forest classifier.
 
 ## [3. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 
@@ -46,11 +46,11 @@
 
 ## [6. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
-### Sample Projects / JavaScript
+### Sample Projects / JavaScript / TypeScript
 
-*   [Booster framework examples (⭐297)](https://github.com/boostercloud/booster/tree/master/docs/examples) Example applications built with Booster Framework.
+*   [Booster framework examples (⭐371)](https://github.com/boostercloud/booster/tree/master/docs/examples) Example applications built with Booster Framework.
 
-### Libraries and Frameworks / JavaScript
+### Libraries and Frameworks / JavaScript / TypeScript
 
 *   [Booster](https://www.booster.cloud/) - A CQRS, DDD and event-sourcing open-source framework that leverages all the infrastructure and uses high-level abstractions and conventions. It help users build advanved even-driven applications letting them focus on business logic exclusively.
 
@@ -96,7 +96,7 @@
 
 ### Plugins / Languages and Environments
 
-*   [YAML (⭐64)](https://github.com/ota-meshi/eslint-plugin-yml) - ESLint plugin for YAML.
+*   [YAML (⭐70)](https://github.com/ota-meshi/eslint-plugin-yml) - ESLint plugin for YAML.
 
 ## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -140,7 +140,7 @@
 
 ### Threat intelligence / Threat signature packages and collections
 
-*   [FireEye's Sunburst Countermeasures (⭐550)](https://github.com/fireeye/sunburst_countermeasures) - Collection of IoC in various languages for detecting backdoored SolarWinds Orion NMS activities and related vulnerabilities.
+*   [FireEye's Sunburst Countermeasures (⭐555)](https://github.com/fireeye/sunburst_countermeasures) - Collection of IoC in various languages for detecting backdoored SolarWinds Orion NMS activities and related vulnerabilities.
 
 ## [15. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
 
@@ -154,13 +154,19 @@
 
 *   [Just Remote](https://justremote.co/remote-jobs)
 
-## [17. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [17. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### OCaml / PicoLisp
+
+*   [OCaml Scientific Computing](https://ocaml.xyz/book/) - Liang Wang, Jianxin Zhao (HTML) (:construction: *in process*)
+
+## [18. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-my-toasts (⭐133)](https://github.com/Tahul/vue-my-toasts) - Provide your component and let us toast the rest.
-*   [vue-use-sound (⭐359)](https://github.com/Tahul/vue-use-sound) - A Vue Hook for playing sound effects.
-*   [@vueform/multiselect (⭐646)](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options.
+*   [vue-my-toasts (⭐134)](https://github.com/Tahul/vue-my-toasts) - Provide your component and let us toast the rest.
+*   [vue-use-sound (⭐393)](https://github.com/Tahul/vue-use-sound) - A Vue Hook for playing sound effects.
+*   [@vueform/multiselect (⭐707)](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options.
 
 ### Components & Libraries / Frameworks
 
@@ -168,7 +174,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-catch-hrefs (⭐4)](https://github.com/Tahul/vue-catch-hrefs) - Catch clicks on hrefs links (in v-html) and route them to vue-router.
+*   [vue-catch-hrefs (⭐5)](https://github.com/Tahul/vue-catch-hrefs) - Catch clicks on hrefs links (in v-html) and route them to vue-router.
 
 ---
 

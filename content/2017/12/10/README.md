@@ -14,28 +14,28 @@
 
 ### Developer
 
-*   [Fakeum (⭐285)](https://github.com/deanishe/alfred-fakeum) - Generate all kinds of test data.
-*   [Git Repos (⭐309)](https://github.com/deanishe/alfred-repos) - Search and open the Git repos on your system.
+*   [Fakeum (⭐286)](https://github.com/deanishe/alfred-fakeum) - Generate all kinds of test data.
+*   [Git Repos (⭐313)](https://github.com/deanishe/alfred-repos) - Search and open the Git repos on your system.
 
 ### Scientific
 
-*   [Convert (⭐718)](https://github.com/deanishe/alfred-convert) - Offline conversion of units and (crypto)currencies.
+*   [Convert (⭐721)](https://github.com/deanishe/alfred-convert) - Offline conversion of units and (crypto)currencies.
 
 ### Productivity
 
-*   [I Sheet You Not (⭐70)](https://github.com/deanishe/i-sheet-you-not) - Generate your own workflows from Excel spreadsheets.
+*   [I Sheet You Not (⭐69)](https://github.com/deanishe/i-sheet-you-not) - Generate your own workflows from Excel spreadsheets.
 
 ### Security
 
-*   [Password Generator (⭐285)](https://github.com/deanishe/alfred-pwgen) - Configurable offline password generator.
+*   [Password Generator (⭐287)](https://github.com/deanishe/alfred-pwgen) - Configurable offline password generator.
 
 ### System
 
-*   [AppScripts (⭐77)](https://github.com/deanishe/alfred-appscripts) - Search and run JXA/AppleScripts for the active application.
+*   [AppScripts (⭐79)](https://github.com/deanishe/alfred-appscripts) - Search and run JXA/AppleScripts for the active application.
 
 ### Web
 
-*   [Reddit (⭐213)](https://github.com/deanishe/alfred-reddit) - Search and browse subreddits and hot posts within Alfred.
+*   [Reddit (⭐216)](https://github.com/deanishe/alfred-reddit) - Search and browse subreddits and hot posts within Alfred.
 
 ## [2. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Security / Tools
 
-*   [sockguard (⭐144)](https://github.com/buildkite/sockguard)\
+*   [sockguard (⭐142)](https://github.com/buildkite/sockguard)\
     A proxy for docker.sock that enforces access control and isolated privileges.
 
 ### Security / Links

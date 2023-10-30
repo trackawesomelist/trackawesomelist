@@ -28,13 +28,13 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [pgmpy (⭐2.4k)](https://github.com/pgmpy/pgmpy) A python library for working with Probabilistic Graphical Models.
+*   [pgmpy (⭐2.5k)](https://github.com/pgmpy/pgmpy) A python library for working with Probabilistic Graphical Models.
 
 ## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Images
 
-*   [elixir\_exif (⭐12)](https://github.com/sschneider1207/ElixirExif) - Parse exif tags and thumbnail data from jpeg files.
+*   [elixir\_exif (⭐13)](https://github.com/sschneider1207/ElixirExif) - Parse exif tags and thumbnail data from jpeg files.
 
 ## [5. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 

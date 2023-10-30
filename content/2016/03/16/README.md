@@ -23,7 +23,7 @@
 
 ### MVVM
 
-*   [Prism (⭐5.6k)](https://github.com/PrismLibrary/Prism) - A cross-platform desktop and mobile MVVM development framework.
+*   [Prism (⭐5.8k)](https://github.com/PrismLibrary/Prism) - A cross-platform desktop and mobile MVVM development framework.
 
 ## [4. Typography](/content/deanhume/typography/README.md)
 
@@ -75,7 +75,7 @@
 
 > A clock that produces a fractal tree pattern around it as it moves.
 
-[![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/fractalClock.png)](http://www.dqd.com/\~mayoff/programs/FractalClock/)
+[![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/fractalClock.png)](http://www.dqd.com/~mayoff/programs/FractalClock/)
 
 ## [9. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 

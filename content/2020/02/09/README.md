@@ -26,8 +26,8 @@
 ### PlaygroundBooks
 
 *   [coreml-playground (⭐40)](https://github.com/kkk669/coreml-playground) - Core ML examples for Swift Playgrounds. 🍁
-*   [SF Symbols Viewer (⭐14)](https://github.com/kkk669/SF-Symbols-Viewer) - An SF Symbols Viewer for Swift Playgrounds. 🍁
-*   [jscore-playground (⭐17)](https://github.com/kkk669/jscore-playground) - A JavaScript REPL using JavaScriptCore. 🍁
+*   [SF Symbols Viewer (⭐17)](https://github.com/kkk669/SF-Symbols-Viewer) - An SF Symbols Viewer for Swift Playgrounds. 🍁
+*   [jscore-playground (⭐18)](https://github.com/kkk669/jscore-playground) - A JavaScript REPL using JavaScriptCore. 🍁
 
 ## [3. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Templates
 
-*   [Create Yew App (⭐145)](https://github.com/jetli/create-yew-app) - Set up a modern Yew web app by running one command, `npx create-yew-app my-app`.
+*   [Create Yew App (⭐149)](https://github.com/jetli/create-yew-app) - Set up a modern Yew web app by running one command, `npx create-yew-app my-app`.
 
 ### Books / Frameworks
 
@@ -49,7 +49,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Snapcast (⭐5.1k)](https://github.com/badaix/snapcast) - Synchronous multiroom audio server. `GPL-3.0` `C++`
+*   [Snapcast (⭐5.3k)](https://github.com/badaix/snapcast) - Synchronous multiroom audio server. `GPL-3.0` `C++/deb`
 
 ## [6. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
@@ -66,9 +66,9 @@
 
 ### Subtitles and Captions / Web
 
-*   [glut23/webvtt-py (⭐141)](https://github.com/glut23/webvtt-py)  - Read, write and segment WebVTT caption files in Python.
-*   [opencoconut/webvtt-ruby (⭐54)](https://github.com/opencoconut/webvtt-ruby)  - WebVTT Ruby parser and segmenter.
-*   [osk/node-webvtt (⭐83)](https://github.com/osk/node-webvtt)  - Parse WebVTT files, segments and generates HLS playlists for them.
+*   [glut23/webvtt-py (⭐146)](https://github.com/glut23/webvtt-py)  - Read, write and segment WebVTT caption files in Python.
+*   [opencoconut/webvtt-ruby (⭐55)](https://github.com/opencoconut/webvtt-ruby)  - WebVTT Ruby parser and segmenter.
+*   [osk/node-webvtt (⭐85)](https://github.com/osk/node-webvtt)  - Parse WebVTT files, segments and generates HLS playlists for them.
 
 ### HDR10, HLG, Dolby Vision / Slack Groups
 
@@ -79,8 +79,8 @@
 *   [Perceptual Quantiser (PQ) to Hybrid Log-Gamma (HLG) Transcoding](https://downloads.bbc.co.uk/rd/pubs/papers/HDR/BBC_HDRTV_PQ_HLG_Transcode_v2.pdf)  - In depth break down on converting from pq to hlg
 *   [Use of Look-Up Tables (LUTs) in FFmpeg](https://downloads.bbc.co.uk/rd/pubs/papers/HDR/BBC_HDRTV_Use_of_LUTs_FFmpeg.pdf)  - How to use luts with ffmpeg for converting between differnt hdr encodes
 *   [Vittorio Giovara - Color Me Intrigued: A Jaunt Through Color Technology in Video](https://www.youtube.com/watch?v=XMnvY7a4-As\&feature=share)  - This talk aims to shed light on colorspaces - what they are, how and why they work, why we should care about handling edge cases properly. Starting with hist...
-*   [bbc/qtff-parameter-editor (⭐114)](https://github.com/bbc/qtff-parameter-editor)  - QuickTime file parameter editor for modifying transfer function, colour primary and matrix characteristics.
-*   [id3as/ffmpeg-libvpx-HDR-static (⭐13)](https://github.com/id3as/ffmpeg-libvpx-HDR-static)  - A script to build a static binary of FFmpeg optimised for libvpx (HDR 10bit) encoding.
+*   [bbc/qtff-parameter-editor (⭐117)](https://github.com/bbc/qtff-parameter-editor)  - QuickTime file parameter editor for modifying transfer function, colour primary and matrix characteristics.
+*   [id3as/ffmpeg-libvpx-HDR-static (⭐14)](https://github.com/id3as/ffmpeg-libvpx-HDR-static)  - A script to build a static binary of FFmpeg optimised for libvpx (HDR 10bit) encoding.
 
 ## [8. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 
@@ -97,7 +97,7 @@
 
 ### Clone / Preferences
 
-*   [GitTouch (⭐1.3k)](https://github.com/pd4d10/git-touch) <!--stargazers:pd4d10/git-touch--> - Open source mobile client for GitHub, GitLab, Bitbucket and Gitea by [Rongjian Zhang](https://github.com/pd4d10)
+*   [GitTouch (⭐1.4k)](https://github.com/pd4d10/git-touch) <!--stargazers:pd4d10/git-touch--> - Open source mobile client for GitHub, GitLab, Bitbucket and Gitea by [Rongjian Zhang](https://github.com/pd4d10)
 
 ---
 

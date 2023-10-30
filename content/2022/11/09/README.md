@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 09, 2022
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -64,7 +64,7 @@
 
 ### Uncategorized
 
-*   [sitemap-format (⭐3)](https://github.com/mingard/sitemap-format) - A simple sitemap generator, with a little syntactic sugar.
+*   [sitemap-format (⭐4)](https://github.com/mingard/sitemap-format) - A simple sitemap generator, with a little syntactic sugar.
 
 ## [7. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 
@@ -86,17 +86,27 @@
 
 ## [10. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
 
-### [GitHub Recommender (⭐34)](https://github.com/IndexStorm/git-rec-ext/) <a href="https://chrome.google.com/webstore/detail/github-recommender/hbiichfklkmlebacdfhkojcpmmakmamk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-recommender/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### [GitHub Recommender (⭐40)](https://github.com/IndexStorm/git-rec-ext/) <a href="https://chrome.google.com/webstore/detail/github-recommender/hbiichfklkmlebacdfhkojcpmmakmamk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-recommender/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Lists repositories that are similar to the one being viewed
 
-Installs: 274 | Stars: 34 | Last update: 10 Aug 2022
+Installs: 385 | Stars: 41 | Last update: 10 Aug 2022
 
 ## [11. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### IDEs / Visual Studio
 
-*   [Algorand Visual Studio Extension (⭐14)](https://github.com/FrankSzendzielarz/AlgorandVisualStudio) - Visual Studio extensions for C# TEAL compilation and Algorand Smart Contract development.
+*   [Algorand Visual Studio Extension (⭐15)](https://github.com/FrankSzendzielarz/AlgorandVisualStudio) - Visual Studio extensions for C# TEAL compilation and Algorand Smart Contract development.
+
+## [12. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### PHP / Laravel
+
+*   [Learning Laravel](https://riptutorial.com/Download/laravel.pdf) - Compiled from StackOverflow Documentation (PDF)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/) - LearnXinYMinutes (HTML)
 
 ---
 

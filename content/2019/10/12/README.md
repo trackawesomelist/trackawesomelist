@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 12, 2019
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Network Protocols
 
-*   [connect-proxy (⭐5)](https://github.com/spider-gazelle/connect-proxy) - Connect method style of HTTP tunnelling / HTTP proxy
+*   [connect-proxy (⭐6)](https://github.com/spider-gazelle/connect-proxy) - Connect method style of HTTP tunnelling / HTTP proxy
 
 ## [2. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
 
@@ -152,21 +152,15 @@
 
 *   [Alcali](https://alcali.dev/) - A web based tool for monitoring and administrating Saltstack Salt.
 
-## [13. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
-
-### Development / Devops
-
-*   [isitfit](http://github.com/autofitcloud/isitfit) - Manage AWS EC2 rightsizing.
-
-## [14. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [13. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Web
 
-*   🔌 [React Firebase Hooks (⭐3.2k)](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase services.
+*   🔌 [React Firebase Hooks (⭐3.4k)](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase services.
 
 ### CLI & Editor / iOS
 
-*   🔧 [VSCode Firebase Explorer (⭐140)](https://github.com/jsayol/vscode-firebase-explorer) - Explore and manage your Firebase projects.
+*   🔧 [VSCode Firebase Explorer (⭐141)](https://github.com/jsayol/vscode-firebase-explorer) - Explore and manage your Firebase projects.
 
 ---
 

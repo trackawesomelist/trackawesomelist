@@ -16,7 +16,7 @@
 
 ### Languages
 
-*   [CopyPageToVersions (⭐3)](https://github.com/merkle-open/SitecoreCopyPageToVersions) - An extension for the Content Editor and the Experience Editor providing a dialog for content editors, where a page in a specific version can be copied to a selectable list of language versions, including all datasources referenced on the page renderings.
+*   [CopyPageToVersions (⭐2)](https://github.com/merkle-open/SitecoreCopyPageToVersions) - An extension for the Content Editor and the Experience Editor providing a dialog for content editors, where a page in a specific version can be copied to a selectable list of language versions, including all datasources referenced on the page renderings.
 
 ## [3. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
@@ -53,17 +53,17 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-handlebars (⭐127)](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
+*   [vite-plugin-handlebars (⭐142)](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Plugin Manager
 
-*   [savq/paq-nvim (⭐576)](https://github.com/savq/paq-nvim) - Neovim package manager written in Lua.
+*   [savq/paq-nvim (⭐607)](https://github.com/savq/paq-nvim) - Neovim package manager written in Lua.
 
 ### Git / Diagnostics
 
-*   [tveskag/nvim-blame-line (⭐171)](https://github.com/tveskag/nvim-blame-line) - A small plugin that uses neovims virtual text to print git blame info at the end of the current line.
+*   [tveskag/nvim-blame-line (⭐175)](https://github.com/tveskag/nvim-blame-line) - A small plugin that uses neovims virtual text to print git blame info at the end of the current line.
 
 ## [7. awsm.fish](/content/jorgebucaran/awsm.fish/README.md)
 
@@ -98,10 +98,18 @@
 *   [**MVP.css**](https://andybrewer.github.io/mvp/) - Minimalist stylesheet for HTML elements.\
     ![](https://img.shields.io/github/stars/andybrewer/mvp.svg?style=social\&label=Star)
     [Docs](https://andybrewer.github.io/mvp/#docs),
-    [Repo (⭐4.4k)](https://github.com/andybrewer/mvp/)
+    [Repo (⭐4.7k)](https://github.com/andybrewer/mvp/)
     \| #CSS
 
-### Utility-based
+### Specialized
+
+*   [**TuiCss**](https://github.com/vinibiavatti1/TuiCss) - Library to create MS-DOS interfaces.\
+    ![](https://img.shields.io/github/stars/vinibiavatti1/TuiCss.svg?style=social\&label=Star)
+    [Demo (⭐1.3k)](https://github.com/vinibiavatti1/TuiCss/wiki/Examples),
+    [Docs (⭐1.3k)](https://github.com/vinibiavatti1/TuiCss/wiki)
+    \| #SCSS
+
+### Stalled Development
 
 *   [**Tachyons**](https://tachyons.io) - Quickly build and design new UI without writing CSS.\
     ![](https://img.shields.io/github/stars/tachyons-css/tachyons.svg?style=social\&label=Star)
@@ -110,27 +118,19 @@
     [Repo (⭐11k)](https://github.com/tachyons-css/tachyons/)
     \| #CSS
 
-### Specialized
-
-*   [**TuiCss**](https://github.com/vinibiavatti1/TuiCss) - Library to create MS-DOS interfaces.\
-    ![](https://img.shields.io/github/stars/vinibiavatti1/TuiCss.svg?style=social\&label=Star)
-    [Demo (⭐1.1k)](https://github.com/vinibiavatti1/TuiCss/wiki/Examples),
-    [Docs (⭐1.1k)](https://github.com/vinibiavatti1/TuiCss/wiki)
-    \| #SCSS
-
 ## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-### Software / Media Streaming - Video Streaming
+### Software / Video Surveillance
 
-*   [Kerberos.io](https://kerberos.io) - Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). ([Demo](https://demo.kerberos.io/), [Source Code (⭐423)](https://github.com/kerberos-io/agent)) `MIT` `Docker`
+*   [Kerberos.io](https://kerberos.io) - Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). ([Demo](https://demo.kerberos.io/), [Source Code (⭐498)](https://github.com/kerberos-io/agent)) `MIT` `Docker/K8S`
 
 ## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
 *   [angular.js (⭐59k)](https://github.com/angular/angular.js) - HTML enhanced for web apps. (deprecated)
-*   [angular (⭐88k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages.
-*   [Lucia (⭐723)](https://github.com/aidenybai/lucia) - 3kb library for tiny web apps.
+*   [angular (⭐90k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages.
+*   [Lucia (⭐738)](https://github.com/aidenybai/lucia) - 3kb library for tiny web apps.
 
 ### Date / Runner
 
@@ -158,7 +158,7 @@
 
 ## [15. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Open Source / Angular
+### Open Source / Svelte
 
 *   [BSD Weekly](https://bsdweekly.com/). A free, once–weekly e-mail round-up of BSD news and articles.
 

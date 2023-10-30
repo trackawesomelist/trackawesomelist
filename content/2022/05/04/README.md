@@ -8,15 +8,15 @@
 
 ## [1. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### Date and Time
+### Date and Time / Text-Based User Interfaces
 
-*   [Jollyday (⭐176)](https://github.com/svendiedrichsen/jollyday) - Determines the holidays for a given year, country/name and eventually state/region.
+*   [Jollyday (⭐180)](https://github.com/svendiedrichsen/jollyday) - Determines the holidays for a given year, country/name and eventually state/region.
 
 ## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### Other multimodal data formats / Ruby
 
-*   [General Bikeshare Feed Specification (GBFS) (⭐678)](https://github.com/NABSA/gbfs) - Open data standard for real-time bikeshare information developed by members of the [North American Bikeshare Association (NABSA)](http://nabsa.net/).
+*   [General Bikeshare Feed Specification (GBFS) (⭐712)](https://github.com/NABSA/gbfs) - Open data standard for real-time bikeshare information developed by members of the [North American Bikeshare Association (NABSA)](http://nabsa.net/).
     *   [gbfs-validator (⭐11)](https://github.com/PierrickP/gbfs-validator) - 3rd party tool to validate GBFS feeds.
     *   [gbfs R package (⭐0)](https://github.com/ds-civic-data/gbfs) - Functions to interface with GBFS feeds in R, allowing users to save and accumulate tidy .rds datasets for specified cities/bikeshare programs.
     *   [GBFS Documentation Platform](https://gbfs.mobilitydata.org/) - Documentation platform for the General Bikeshare Feed Specification, maintaned by [MobilityData](https://mobilitydata.org/). View the GBFS specification, change proposals, policy guides, and technical tools.
@@ -25,7 +25,7 @@
 
 ### Open Source Projects / Other Tools
 
-*   [Nemo (⭐5)](https://github.com/harshitsinghai77/nemo-backend) - Be productive with Nemo.
+*   [Nemo (⭐6)](https://github.com/harshitsinghai77/nemo-backend) - Be productive with Nemo.
 
 ## [4. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 
@@ -47,13 +47,13 @@
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [cr (⭐1)](https://github.com/cruzrovira/cr-zsh-theme) - Includes directory, time, host name, last command exit status, and `git` status decorations.
 
 ## [8. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Technology in General / Angular
+### Technology in General / Svelte
 
 *   [Daily Tech](https://dailytech.email). Daily Tech is a curated newsletter about technology, startups, product, and software engineering.
 
@@ -61,7 +61,7 @@
 
 ### Templates / Vue 3
 
-*   [vue-vite-ssr (⭐20)](https://github.com/EverSeenTOTOTO/browser-app-boilerplate/tree/vue-vite-ssr) - Typescript, Eslint, Stylelint, Husky, Lint-staged and Commitlint.
+*   [vue-vite-ssr (⭐23)](https://github.com/EverSeenTOTOTO/browser-app-boilerplate/tree/vue-vite-ssr) - Typescript, Eslint, Stylelint, Husky, Lint-staged and Commitlint.
 
 ## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 

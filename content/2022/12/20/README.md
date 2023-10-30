@@ -22,42 +22,42 @@
 
 ### Templates / Vue 3
 
-*   [ultimate-vite-ts-less-template (⭐3)](https://github.com/alireza0sfr/vue3-vite-ts-base) - Vue 3, TypeScript, Less, i18n, Vitest, Vitepress, lodash, Axios, Pinia, Built-in logger, Built-in Input Validators, env files.
+*   [ultimate-vite-ts-less-template (⭐6)](https://github.com/alireza0sfr/vue3-vite-ts-base) - Vue 3, TypeScript, Less, i18n, Vitest, Vitepress, lodash, Axios, Pinia, Built-in logger, Built-in Input Validators, env files.
 
 ### Templates / Solid
 
-*   [vitesse-solid (⭐35)](https://github.com/xbmlz/vitesse-solid) - Opinionated Vite + SolidJS Starter Template. Includes TypeScript, ESLint, Prettier, UnoCSS, HopeUI and more.
+*   [vitesse-solid (⭐49)](https://github.com/xbmlz/vitesse-solid) - Opinionated Vite + SolidJS Starter Template. Includes TypeScript, ESLint, Prettier, UnoCSS, HopeUI and more.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-api (⭐1)](https://github.com/yracnet/vite-plugin-api) - Generate route mapping for API Routes services from the directory tree.
+*   [vite-plugin-api (⭐16)](https://github.com/yracnet/vite-plugin-api) - Generate route mapping for API Routes services from the directory tree.
 
 ### React / Helpers
 
-*   [vite-plugin-react-click-to-component (⭐13)](https://github.com/ArnaudBarre/vite-plugin-react-click-to-component) - Uses Vite's launch middleware to enable alt+click to go to component.
+*   [vite-plugin-react-click-to-component (⭐19)](https://github.com/ArnaudBarre/vite-plugin-react-click-to-component) - Uses Vite's launch middleware to enable alt+click to go to component.
 
 ### Solid / Integrations
 
-*   [vite-plugin-solid-markdown (⭐6)](https://github.com/xbmlz/vite-plugin-solid-markdown) - Compile markdown files to Solid components.
+*   [vite-plugin-solid-markdown (⭐8)](https://github.com/xbmlz/vite-plugin-solid-markdown) - Compile markdown files to Solid components.
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Editing Support / Diagnostics
 
-*   [debugloop/telescope-undo.nvim (⭐226)](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to visualize your undo tree and fuzzy-search changes in it.
+*   [debugloop/telescope-undo.nvim (⭐348)](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to visualize your undo tree and fuzzy-search changes in it.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [aws (⭐2)](https://github.com/chiemerieezechukwu/aws-zsh-theme) - Based on [robbyrussell (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell), with an extra decorator to show your `$AWS_PROFILE` when it is set.
-*   [pico (⭐0)](https://github.com/PicoGeyer/zsh-pico-prompt) - Simple prompt modified from [zap-prompt (⭐19)](https://github.com/zap-zsh/zap-prompt) with decorators for `git` information, user\@hostname and working directory.
+*   [aws (⭐1)](https://github.com/chiemerieezechukwu/aws-zsh-theme) - Based on [robbyrussell (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell), with an extra decorator to show your `$AWS_PROFILE` when it is set.
+*   [pico (⭐0)](https://github.com/PicoGeyer/zsh-pico-prompt) - Simple prompt modified from [zap-prompt (⭐22)](https://github.com/zap-zsh/zap-prompt) with decorators for `git` information, user\@hostname and working directory.
 
 ## [6. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Streaming Library
 
-*   [Mediapipe (⭐22k)](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
+*   [Mediapipe (⭐23k)](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 
 ### Table of Contents / Closed Source
 

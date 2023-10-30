@@ -56,7 +56,7 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [Xer.Cqrs (⭐98)](https://github.com/jeyjeyemem/Xer.Cqrs) - A simple library for creating applications based on the CQRS pattern with support for attribute routing and hosted handlers. Developed in C# targeting .NET Standard 1.0.
+*   [Xer.Cqrs (⭐99)](https://github.com/jeyjeyemem/Xer.Cqrs) - A simple library for creating applications based on the CQRS pattern with support for attribute routing and hosted handlers. Developed in C# targeting .NET Standard 1.0.
 
 ## [6. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [Villains (⭐356)](https://github.com/Norbert515/flutter_villains) <!--stargazers:Norbert515/flutter_villains--> - Page transition animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
+*   [Villains (⭐357)](https://github.com/Norbert515/flutter_villains) <!--stargazers:Norbert515/flutter_villains--> - Page transition animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
 
 ## [11. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

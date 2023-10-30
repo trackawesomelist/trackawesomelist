@@ -16,12 +16,12 @@
 
 ### Courses
 
-*   [Udacity's Self Driving Car Engineer Course (⭐6k)](https://github.com/udacity/self-driving-car) - The content for Udacity's self driving car software engineer course. The actual course on Udacity's website is [here](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013).
+*   [Udacity's Self Driving Car Engineer Course (⭐6.1k)](https://github.com/udacity/self-driving-car) - The content for Udacity's self driving car software engineer course. The actual course on Udacity's website is [here](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013).
 
 ### Miscellaneous / Episodes
 
-*   [Open Vehicle Monitoring System (⭐275)](https://github.com/openvehicles/Open-Vehicle-Monitoring-System) - A community project building a hardware module for your car, a server to talk to it, and a mobile app to talk to the server, in order to allow developers and enthusiasts to add more functionality to their car and control it remotely.
-*   [Open Source Car Control Project (⭐935)](https://github.com/PolySync/OSCC) - The Open Source Car Control Project is a hardware and software project detailing the conversion of a late model vehicle into an autonomous driving research and development vehicle.
+*   [Open Vehicle Monitoring System (⭐283)](https://github.com/openvehicles/Open-Vehicle-Monitoring-System) - A community project building a hardware module for your car, a server to talk to it, and a mobile app to talk to the server, in order to allow developers and enthusiasts to add more functionality to their car and control it remotely.
+*   [Open Source Car Control Project (⭐944)](https://github.com/PolySync/OSCC) - The Open Source Car Control Project is a hardware and software project detailing the conversion of a late model vehicle into an autonomous driving research and development vehicle.
 
 ### Applications / Episodes
 
@@ -59,7 +59,7 @@
 
 ### Tengine
 
-*   [Difference between OpenResty and Tengine (⭐11k)](https://github.com/openresty/openresty/issues/54)
+*   [Difference between OpenResty and Tengine (⭐12k)](https://github.com/openresty/openresty/issues/54)
 
 ## [4. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Service Programming
 
-*   [Hydrosphere Mist (⭐318)](https://github.com/Hydrospheredata/mist) - a service for exposing Apache Spark analytics jobs and machine learning models as realtime, batch or reactive web services.
+*   [Hydrosphere Mist (⭐323)](https://github.com/Hydrospheredata/mist) - a service for exposing Apache Spark analytics jobs and machine learning models as realtime, batch or reactive web services.
 
 ## [6. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 

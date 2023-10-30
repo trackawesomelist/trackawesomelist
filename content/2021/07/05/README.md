@@ -10,7 +10,7 @@
 
 ### Decentralized Systems
 
-*   [Golem (⭐152)](https://github.com/golemfactory/awesome-golem#readme) - Open source peer-to-peer marketplace for computing resources.
+*   [Golem (⭐164)](https://github.com/golemfactory/awesome-golem#readme) - Open source peer-to-peer marketplace for computing resources.
 
 ### Related
 
@@ -20,19 +20,19 @@
 
 ### Open Source Projects / Wealth
 
-*   [health-records (⭐19)](https://github.com/pacogomez/health-records) - A tool for managing personal health records using plain text.
+*   [health-records (⭐21)](https://github.com/pacogomez/health-records) - A tool for managing personal health records using plain text.
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Intel(R) Extension for Scikit-learn (⭐956)](https://github.com/intel/scikit-learn-intelex) - A seamless way to speed up your Scikit-learn applications with no accuracy loss and code changes.
+*   [Intel(R) Extension for Scikit-learn (⭐1k)](https://github.com/intel/scikit-learn-intelex) - A seamless way to speed up your Scikit-learn applications with no accuracy loss and code changes.
 
 ## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Tools / Community Chat Rooms
 
-*   [edc2svd (⭐4)](https://github.com/kiffie/edc2svd) Generate SVD files for PIC32 devices from EDC files. - ![crates.io](https://img.shields.io/crates/v/edc2svd.svg)
+*   [edc2svd (⭐5)](https://github.com/kiffie/edc2svd) Generate SVD files for PIC32 devices from EDC files. - ![crates.io](https://img.shields.io/crates/v/edc2svd.svg)
 
 ### Architecture support crates / MIPS
 
@@ -42,13 +42,13 @@
 
 ### Testing / Individual Podcast episodes
 
-*   [Elm Spec (⭐25)](https://github.com/brian-watkins/elm-spec) - Describe the behavior of Elm programs.
+*   [Elm Spec (⭐26)](https://github.com/brian-watkins/elm-spec) - Describe the behavior of Elm programs.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [shaunsingh/nord.nvim (⭐625)](https://github.com/shaunsingh/nord.nvim) - Neovim theme based off of the Nord Color Palette.
+*   [shaunsingh/nord.nvim (⭐681)](https://github.com/shaunsingh/nord.nvim) - Neovim theme based off of the Nord Color Palette.
 
 ## [7. Julia.jl](/content/svaksha/Julia.jl/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Naive UI (⭐13k)](https://github.com/TuSimple/naive-ui) - A Vue 3 Component Library Fairly Complete, Customizable Themes, Uses TypeScript, Not Too Slow Kinda Interesting
+*   [Naive UI (⭐14k)](https://github.com/TuSimple/naive-ui) - A Vue 3 Component Library Fairly Complete, Customizable Themes, Uses TypeScript, Not Too Slow Kinda Interesting
 
 ## [10. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

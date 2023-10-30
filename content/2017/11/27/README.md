@@ -10,7 +10,7 @@
 
 ### Tools
 
-*   [posh-dotnet (⭐42)](https://github.com/bergmeister/posh-dotnet) - `PowerShell` tab completion for the [dotnet CLI (⭐3.5k)](https://github.com/dotnet/cli)
+*   [posh-dotnet (⭐44)](https://github.com/bergmeister/posh-dotnet) - `PowerShell` tab completion for the [dotnet CLI (⭐3.5k)](https://github.com/dotnet/cli)
 
 ## [2. Awesome Chatops](/content/exAspArk/awesome-chatops/README.md)
 
@@ -31,31 +31,31 @@
 
 ### Wrocław
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ferrannp" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/ferrannp" height="70px" width="70px" align="left" alt="" />
 
 **Ferran Negre**\
 Topics: React Native, React, Testing, JavaScript, Android\
 <https://twitter.com/ferrannp>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/grabbou" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/grabbou" height="70px" width="70px" align="left" alt="" />
 
 **Mike Grabowski**\
 Topics: React Native, JavaScript, Tooling\
 <https://twitter.com/grabbou>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/thymikee" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/thymikee" height="70px" width="70px" align="left" alt="" />
 
 **Michał Pierzchała**\
 Topics: React Native, Jest, Testing, CSS\
 <https://twitter.com/thymikee>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/michalchudziak" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/michalchudziak" height="70px" width="70px" align="left" alt="" />
 
 **Michał Chudziak**\
 Topics: React, React Native, iOS, Android\
 <https://twitter.com/michalchudziak>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/satya164" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/satya164" height="70px" width="70px" align="left" alt="" />
 
 **Satyajit Sahoo**\
 Topics: React, React Native, CSS in JS, Tooling\

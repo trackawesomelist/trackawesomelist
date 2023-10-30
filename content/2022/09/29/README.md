@@ -10,28 +10,28 @@
 
 ### Cryptography
 
-*   [ed25519 (⭐8)](https://github.com/spider-gazelle/ed25519) - the Ed25519 elliptic curve public-key signature system
+*   [ed25519 (⭐7)](https://github.com/spider-gazelle/ed25519) - the Ed25519 elliptic curve public-key signature system
     described in \[RFC 8032]
 
 ### Data Formats
 
-*   [json-schema (⭐5)](https://github.com/spider-gazelle/json-schema) - convert JSON serializable classes into a [JSON Schema](https://json-schema.org/) representation
+*   [json-schema (⭐10)](https://github.com/spider-gazelle/json-schema) - convert JSON serializable classes into a [JSON Schema](https://json-schema.org/) representation
 
 ### GUI Development
 
-*   [GTK4.cr (⭐71)](https://github.com/hugopl/gtk4.cr) - Bindings for [GTK4](https://docs.gtk.org/gtk4/overview.html) with Crystalized API
+*   [GTK4.cr (⭐91)](https://github.com/hugopl/gtk4.cr) - Bindings for [GTK4](https://docs.gtk.org/gtk4/overview.html) with Crystalized API
 
 ## [2. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-panos (⭐79)](https://github.com/PaloAltoNetworks/terraform-provider-panos) - Provider for [Palo Alto Networks next-generation firewalls](https://www.paloaltonetworks.com/network-security).
+*   [terraform-provider-panos (⭐80)](https://github.com/PaloAltoNetworks/terraform-provider-panos) - Provider for [Palo Alto Networks next-generation firewalls](https://www.paloaltonetworks.com/network-security).
 
 ## [3. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
 ### Distributed Testing
 
-*   [gatling-operator (⭐43)](https://github.com/st-tech/gatling-operator) - Automating distributed Gatling load testing using Kubernetes operator.
+*   [gatling-operator (⭐58)](https://github.com/st-tech/gatling-operator) - Automating distributed Gatling load testing using Kubernetes operator.
 
 ## [4. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -43,13 +43,13 @@
 
 ### Plugins
 
-*   [tmux-session-wizard (⭐41)](https://github.com/27medkamal/tmux-session-wizard) One prefix to control all your session creation, naming, switching, etc using [fzf (⭐52k)](https://github.com/junegunn/fzf) & [zoxide (⭐11k)](https://github.com/ajeetdsouza/zoxide).
+*   [tmux-session-wizard (⭐90)](https://github.com/27medkamal/tmux-session-wizard) One prefix to control all your session creation, naming, switching, etc using [fzf (⭐55k)](https://github.com/junegunn/fzf) & [zoxide (⭐12k)](https://github.com/ajeetdsouza/zoxide).
 
 ## [6. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [IRIS (⭐720)](https://github.com/dfir-iris/iris-web) - IRIS is a web collaborative platform for incident response analysts allowing to share investigations at a technical level.
+*   [IRIS (⭐797)](https://github.com/dfir-iris/iris-web) - IRIS is a web collaborative platform for incident response analysts allowing to share investigations at a technical level.
 
 ### IR Tools Collection / Books
 
@@ -59,17 +59,17 @@
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [PromptLoop](https://www.promptloop.com/) - Use AI and large language models like GPT-3 with a single simple spreadsheet formula to tranform, comprehend, and analyze text in Google Sheets. First 2,000 credits free each month.
+*   [PromptLoop](https://www.promptloop.com/) - Use AI and large language models like GPT-3 with a simple spreadsheet formula to transform, comprehend, and analyze text in Google Sheets. The first 2,000 credits are free each month.
 
 ### Issue Tracking and Project Management
 
-*   [Kiter.app](https://www.kiter.app/) - Let's anyone organize their job search and keep track of interviews, opportunities, and connections. Powerful web app and chrome extension. Completely free.
+*   [Kiter.app](https://www.kiter.app/) - Let anyone organize their job search and track interviews, opportunities, and connections. Powerful web app and Chrome extension. Completely free.
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [git-aliases (peterhurford) (⭐75)](https://github.com/peterhurford/git-aliases.zsh) - Creates a lot of useful aliases for combinations of commonly used `git` commands.
 *   [git-aliases (remino) (⭐0)](https://github.com/remino/omz-plugin-git-aliases) - Aliases all `git xyz` commands to `gxyz`. Also aliases `g` to `git`.
@@ -79,16 +79,16 @@
 
 ### Libraries/Frameworks / Data Science
 
-*   [unipu-ict/ksdtoolkit (⭐2)](https://github.com/unipu-ict/ksdtoolkit) - Kotlin System Dynamics Toolkit - for system dynamics modelling and simulation with Kotlin.
-*   [sanity/pairAdjacentViolators (⭐48)](https://github.com/sanity/pairAdjacentViolators) - A Kotlin implementation of the Pair Adjacent Violators algorithm for isotonic regression.
+*   [unipu-ict/ksdtoolkit (⭐3)](https://github.com/unipu-ict/ksdtoolkit) - Kotlin System Dynamics Toolkit - for system dynamics modelling and simulation with Kotlin.
+*   [sanity/pairAdjacentViolators (⭐49)](https://github.com/sanity/pairAdjacentViolators) - A Kotlin implementation of the Pair Adjacent Violators algorithm for isotonic regression.
 
 ### Libraries/Frameworks / API Clients
 
-*   [adamint/spotify-web-api-kotlin (⭐157)](https://github.com/adamint/spotify-web-api-kotlin) - Spotify Web API wrapper for Kotlin/Android, JVM, JS, and Native targets.
+*   [adamint/spotify-web-api-kotlin (⭐161)](https://github.com/adamint/spotify-web-api-kotlin) - Spotify Web API wrapper for Kotlin/Android, JVM, JS, and Native targets.
 
 ### Libraries/Frameworks / Logging
 
-*   [LighthouseGames/KmLogging (⭐29)](https://github.com/LighthouseGames/KmLogging) - Kotlin multiplatform logging. High performance, composable and simple to use.
+*   [LighthouseGames/KmLogging (⭐45)](https://github.com/LighthouseGames/KmLogging) - Kotlin multiplatform logging. High performance, composable and simple to use.
 
 ## [10. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Sports
 
-*   [nfl-team-schedule-widget (⭐3)](https://github.com/brianwalborn/nfl-team-schedule-widget) - The current season schedule for an NFL team.
+*   [nfl-team-schedule-widget (⭐5)](https://github.com/brianwalborn/nfl-team-schedule-widget) - The current season schedule for an NFL team.
 
 ## [12. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
@@ -112,7 +112,7 @@
 
 ### Scheduling / Touch Resistive
 
-*   [Schedule (⭐610)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/SCHEDULE.md) - A scheduler for uasyncio based applications. Schedule events at specified times and dates.
+*   [Schedule (⭐635)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/SCHEDULE.md) - A scheduler for uasyncio based applications. Schedule events at specified times and dates.
 
 ## [14. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
@@ -154,13 +154,13 @@
 
 ### Useful Tools / Alternative clients/modifications of Discord:
 
-*   [Single File (⭐11k)](https://github.com/gildas-lormeau/SingleFile) - Save a faithful copy of an entire web page in a single HTML file so you can use it offline.
+*   [Single File (⭐12k)](https://github.com/gildas-lormeau/SingleFile) - Save a faithful copy of an entire web page in a single HTML file so you can use it offline.
 
 ## [17. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### General Search
 
-*   [Mojeek](https://www.mojeek.com/)
+*   [Mojeek](https://www.mojeek.com/) - A growing independent search engine which does not track you.
 
 ### People Investigations / Telegram
 
@@ -182,11 +182,11 @@
 
 ### Projects / Godot 3.2+
 
-*   [vpuppr (⭐493)](https://github.com/virtual-puppet-project/vpuppr) - A cross-platform VTuber application with mulitple tracking backends.
+*   [vpuppr (⭐574)](https://github.com/virtual-puppet-project/vpuppr) - A cross-platform VTuber application with mulitple tracking backends.
 
 ### Modules / Godot 3.2+
 
-*   [spout-gd (⭐9)](https://github.com/you-win/spout-gd) - Share OpenGL textures across Windows applications through your GPU using [Spout (⭐595)](https://github.com/leadedge/Spout2).
+*   [spout-gd (⭐11)](https://github.com/you-win/spout-gd) - Share OpenGL textures across Windows applications through your GPU using [Spout (⭐637)](https://github.com/leadedge/Spout2).
 
 ---
 

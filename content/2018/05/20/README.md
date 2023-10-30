@@ -20,24 +20,24 @@
 
 ### Frameworks, Libraries and Tools / Machine Learning and Data Science
 
-*   [ML.NET (⭐8.1k)](https://github.com/dotnet/machinelearning) - Cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers <http://dot.net/ml>.
+*   [ML.NET (⭐8.6k)](https://github.com/dotnet/machinelearning) - Cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers <http://dot.net/ml>.
 
 ## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Assembly Manipulation
 
-*   [Fody (⭐4k)](https://github.com/Fody/Fody) - Extensible tool for weaving .NET assemblies.
+*   [Fody (⭐4.1k)](https://github.com/Fody/Fody) - Extensible tool for weaving .NET assemblies.
 *   [ILRepack (⭐1k)](https://github.com/gluck/il-repack) - Open-source alternative to ILMerge.
 
 ### CLI
 
-*   [Gui.cs (⭐8.2k)](https://github.com/migueldeicaza/gui.cs) - Terminal UI toolkit for .NET.
+*   [Gui.cs (⭐8.6k)](https://github.com/migueldeicaza/gui.cs) - Terminal UI toolkit for .NET.
 
 ## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Time-Series Databases
 
-*   [Thanos (⭐11k)](https://github.com/improbable-eng/thanos) - Thanos is a set of components to create a highly available metric system with unlimited storage capacity using multiple (existing) Prometheus deployments.
+*   [Thanos (⭐12k)](https://github.com/improbable-eng/thanos) - Thanos is a set of components to create a highly available metric system with unlimited storage capacity using multiple (existing) Prometheus deployments.
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-gallery-slideshow (⭐168)](https://github.com/KitchenStories/vue-gallery-slideshow) - Responsive gallery component for VueJS
+*   [vue-gallery-slideshow (⭐169)](https://github.com/KitchenStories/vue-gallery-slideshow) - Responsive gallery component for VueJS
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on May 09 - May 15, 2016
 
-39 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -224,11 +224,11 @@
 
 ### Downloading and Serving / Directory Navigation
 
-*   [aria2 (⭐29k)](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, BitTorrent and Metalink
+*   [aria2 (⭐30k)](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, BitTorrent and Metalink
 
 ### Shell Script Development / Directory Navigation
 
-*   [rebash (⭐66)](https://github.com/jandob/rebash) - Scripting library/framework. Features: imports, exceptions, doc-tests ...
+*   [rebash (⭐67)](https://github.com/jandob/rebash) - Scripting library/framework. Features: imports, exceptions, doc-tests ...
 *   [Google's Shell Style Guide](https://google.github.io/styleguide/shell.xml)
 
 ## [17. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
@@ -296,7 +296,17 @@ git log --first-parent
 
 *   [The Netflix Tech Blog](http://techblog.netflix.com/) - A Netflix blog focused on technology and technology issues.
 
-## [25. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [25. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### C++ / Non-X86
+
+*   [The Ultimate Question of Programming, Refactoring, and Everything](https://www.gitbook.com/book/alexastva/the-ultimate-question-of-programming-refactoring-/details)
+
+### Java / Bootstrap
+
+*   [Google's Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+
+## [26. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Reproducible Research
 
@@ -321,7 +331,7 @@ git log --first-parent
 *   [R Talk](http://rtalk.org) - News and discussions of statistical software and language R.
     *   [@Oliver Keyes](https://twitter.com/quominus), [@Jasmine Dumas](https://twitter.com/jasdumas), [@Ted Hart](https://twitter.com/emhrt_) and [@Mikhail Popov](https://twitter.com/bearloga).
 
-## [26. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [27. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -329,38 +339,38 @@ git log --first-parent
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Dora (⭐611)](https://github.com/nathanepstein/dora) - Tools for exploratory data analysis in Python.
+*   [Dora (⭐621)](https://github.com/nathanepstein/dora) - Tools for exploratory data analysis in Python.
 *   [Ruffus](http://www.ruffus.org.uk) - Computation Pipeline library for python.
 
-## [27. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [28. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Examples and funny stuff
 
-*   [oop (⭐292)](https://github.com/wojtekmach/oop) - OOP in Elixir.
+*   [oop (⭐294)](https://github.com/wojtekmach/oop) - OOP in Elixir.
 
 ### Office
 
-*   [xlsxir (⭐197)](https://github.com/kennellroxco/xlsxir) - Xlsx file parser with support for ISO 8601 date formats. Data is extracted to an Erlang Term Storage (ETS) table and is accessed through various functions.
+*   [xlsxir (⭐202)](https://github.com/kennellroxco/xlsxir) - Xlsx file parser with support for ISO 8601 date formats. Data is extracted to an Erlang Term Storage (ETS) table and is accessed through various functions.
 
-## [28. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [29. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Android
 
 *   [Collection of Android and Java questions divided by experience](https://medium.com/@neteinstein/not-another-android-interviews-article-the-questions-3dedafa30bec)
 
-## [29. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [30. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Misc / Other
 
 *   [picturefill (⭐10k)](https://github.com/scottjehl/picturefill) - A responsive image polyfill for \<picture>, srcset, sizes.
 
-## [30. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [31. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Babel Plugins / Components
 
 *   [babel-preset-angular2 (⭐14)](https://github.com/shuhei/babel-preset-angular2) Babel presets for Angular2
 
-## [31. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [32. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Meteor
 
@@ -372,9 +382,9 @@ git log --first-parent
 
 
 
-## [32. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [33. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
-### United States 🇺🇸 / Massachusetts   <a id="massachusetts">  </a>
+### United States 🇺🇸 / Massachusetts <a id="massachusetts"></a>
 
 #### Bloc 11
 
@@ -386,7 +396,7 @@ Webpage: <http://blocsomerville.com/>
 | ------ | ----- | ------ | ----------------------------------------------------------------------- | ------------------- |
 | paying | ✔     | ✔      | [11 bow st. union sq, Somerville, MA](https://goo.gl/maps/eytUQsvC6sB2) | Mon-Sun 07:00-20:00 |
 
-### United States 🇺🇸 / Minnesota   <a id="minnesota">  </a>
+### United States 🇺🇸 / Minnesota <a id="minnesota"></a>
 
 #### Forge Baking Company
 
@@ -398,7 +408,7 @@ Webpage: <http://www.forgebakingco.com/>
 | ------ | ----- | ------ | ---------------------------------------------------------------------------- | ------------------- |
 | paying | ✔     | ✔      | [626 Somerville Ave, Somerville, MA 02143](https://goo.gl/maps/gKjnLGtTYE62) | Mon-Fri 07:00-19:00 |
 
-### United States 🇺🇸 / Virginia   <a id="virginia">  </a>
+### United States 🇺🇸 / Virginia <a id="virginia"></a>
 
 #### Pushcart Coffee Chelsea
 
@@ -410,7 +420,7 @@ Webpage: <http://www.pushcartcoffee.com/>
 | ---------------------- | ----- | ------ | --------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | open, password on Wall | ✔     | ✔      | [401 W 25th St, New York, NY 10001](https://goo.gl/maps/52PdznrXbsF2) | Open Monday - Friday, 7:00am - 8:30pm Saturday - Sunday, 8:00am - 7:30pm |
 
-### United States 🇺🇸 / Seattle, WA   <a id="seattle-wa">  </a>
+### United States 🇺🇸 / Seattle, WA <a id="seattle-wa"></a>
 
 #### Bellevue Public Library
 
@@ -434,15 +444,15 @@ Webpage: <http://www.pushcartcoffee.com/>
 | ---- | ----- | ------ | -------------------------------------------------------------------- | ------------------ |
 | ask  | ✔     | ✔      | [425 15th Ave E, Seattle, WA 98112](https://goo.gl/maps/2RFTNQaXynm) | Mon-Sun 8:00-22:00 |
 
-## [33. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [34. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries / Algebraic Data Types
 
-*   [immutable-ext (⭐488)](https://github.com/DrBoolean/immutable-ext) – FantasyLand extensions for [Immutable.js (⭐33k)](https://github.com/facebook/immutable-js).
+*   [immutable-ext (⭐492)](https://github.com/DrBoolean/immutable-ext) – FantasyLand extensions for [Immutable.js (⭐33k)](https://github.com/facebook/immutable-js).
 
 ### Resources / Books
 
-*   [Professor Frisby’s Mostly Adequate Guide to Functional Programming (⭐22k)](https://github.com/MostlyAdequate/mostly-adequate-guide) – This is a book on the functional paradigm in general using the world’s most popular functional programming language: JavaScript. It’s a practical introduction that builds up intuition through real-world examples. Strongly recommended. By [Brian Lonsdorf](https://twitter.com/drboolean) (2016)
+*   [Professor Frisby’s Mostly Adequate Guide to Functional Programming (⭐23k)](https://github.com/MostlyAdequate/mostly-adequate-guide) – This is a book on the functional paradigm in general using the world’s most popular functional programming language: JavaScript. It’s a practical introduction that builds up intuition through real-world examples. Strongly recommended. By [Brian Lonsdorf](https://twitter.com/drboolean) (2016)
 *   [JavaScript Allongé](https://leanpub.com/javascriptallongesix), the “Six” edition. Starts with as little as possible about functions – but no less! – and builds up towards powerful combinators and decorators. A foundational book. By [Reginald  Braithwaite](https://github.com/raganwald) (2016)
 *   [Functional Programming in JavaScript](https://www.manning.com/books/functional-programming-in-javascript) teaches JavaScript developers functional techniques that will improve extensibility, modularity, reusability, testability, and performance. Through concrete examples and jargon-free explanations, this book teaches you how to apply functional programming to real-life development tasks. By Luis Atencio (2016)
 *   [Eloquent JavaScript](http://eloquentjavascript.net/). A modern introduction to programming using JavaScript. By Marijn Haverbeke (2014)
@@ -468,10 +478,10 @@ Webpage: <http://www.pushcartcoffee.com/>
 
 ### Resources / Examples and Exercises
 
-*   [FPJS-Class (⭐95)](https://github.com/loop-recur/FPJS-Class) – Functional Programming learned through JavaScript.
+*   [FPJS-Class (⭐94)](https://github.com/loop-recur/FPJS-Class) – Functional Programming learned through JavaScript.
 *   [functional-javascript-workshop (⭐2k)](https://github.com/timoxley/functional-javascript-workshop) – The goal of this workshop is to create realistic problems that can be solved using terse, vanilla, idiomatic JavaScript to teach fundamental functional programming features of JavaScript.
 
-## [34. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [35. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Downloads
 
@@ -481,25 +491,25 @@ Webpage: <http://www.pushcartcoffee.com/>
 
 *   [Audiograph](http://audiograph.xyz/) - Amazing audio visualization made by Matt DesLauriers.
 
-## [35. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [36. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / S companies
 
 *   Segment <https://segment.com/blog/categories/engineering/>
 
-## [36. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [37. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Testing
 
 *   GUI / Web Testing
-    *   [locust (⭐21k)](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
-    *   [PyAutoGUI (⭐7.9k)](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
-    *   [Schemathesis (⭐1.6k)](https://github.com/kiwicom/schemathesis) - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.
+    *   [locust (⭐22k)](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
+    *   [PyAutoGUI (⭐8.3k)](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
+    *   [Schemathesis (⭐1.8k)](https://github.com/kiwicom/schemathesis) - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.
     *   [Selenium](https://pypi.org/project/selenium/) - Python bindings for [Selenium](http://www.seleniumhq.org/) WebDriver.
     *   [sixpack (⭐1.7k)](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework.
     *   [splinter (⭐2.6k)](https://github.com/cobrateam/splinter) - Open source tool for testing web applications.
 
-## [37. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [38. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Databases
 
@@ -518,14 +528,14 @@ Webpage: <http://www.pushcartcoffee.com/>
 
 *   [JsonMapper (⭐1.4k)](https://github.com/cweiske/jsonmapper) - Map nested structures onto PHP classes (PHP)
 
-## [38. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [39. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Blog posts
 
 *   [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 *   [Monads Made Difficult](http://www.stephendiehl.com/posts/monads.html)
 
-## [39. Awesome Rethinkdb](/content/d3viant0ne/awesome-rethinkdb/week/README.md)
+## [40. Awesome Rethinkdb](/content/d3viant0ne/awesome-rethinkdb/week/README.md)
 
 ### Community
 

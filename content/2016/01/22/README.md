@@ -16,13 +16,13 @@
 
 ### Packages / Miscellaneous
 
-*   [json-strictify (⭐17)](https://github.com/pigulla/json-strictify) - Safely serialize a value to JSON without data loss or going into an infinite loop.
+*   [json-strictify (⭐19)](https://github.com/pigulla/json-strictify) - Safely serialize a value to JSON without data loss or going into an infinite loop.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### JSON
 
-*   [json (⭐35k)](https://github.com/nlohmann/json) :zap: - JSON for Modern C++. \[MIT] [website](https://json.nlohmann.me)
+*   [json (⭐37k)](https://github.com/nlohmann/json) :zap: - JSON for Modern C++. \[MIT] [website](https://json.nlohmann.me)
 
 ## [4. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
@@ -59,26 +59,26 @@
 
 ### ORM and Datamapping
 
-*   [comeonin\_ecto\_password (⭐34)](https://github.com/vic/comeonin_ecto_password) - Ecto custom type for storing encrypted password using Comeonin.
+*   [comeonin\_ecto\_password (⭐35)](https://github.com/vic/comeonin_ecto_password) - Ecto custom type for storing encrypted password using Comeonin.
 
 ## [8. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
 ### Articles
 
 *   [Optimizing the footprint of an npm package](https://medium.com/@goldglovecb/npm-needs-a-personal-trainer-537e0f8859c6)
-*   [The Art of Node (⭐9.5k)](https://github.com/maxogden/art-of-node#modules) - An introduction to Node.js and client-side development with npm.
+*   [The Art of Node (⭐9.6k)](https://github.com/maxogden/art-of-node#modules) - An introduction to Node.js and client-side development with npm.
 
 ### Registry
 
-*   [latest-version (⭐49)](https://github.com/sindresorhus/latest-version-cli) - Get the latest version of an npm package.
-*   [npm-user (⭐50)](https://github.com/sindresorhus/npm-user) - Get user info of an npm user.
-*   [npm-email (⭐29)](https://github.com/sindresorhus/npm-email) - Get the email of an npm user.
+*   [latest-version (⭐51)](https://github.com/sindresorhus/latest-version-cli) - Get the latest version of an npm package.
+*   [npm-user (⭐57)](https://github.com/sindresorhus/npm-user) - Get user info of an npm user.
+*   [npm-email (⭐31)](https://github.com/sindresorhus/npm-email) - Get the email of an npm user.
 *   [npm-user-packages (⭐1)](https://github.com/kevva/npm-user-packages-cli) - Get packages by an npm user.
-*   [npm-stats (⭐50)](https://github.com/hughsk/npm-stats) - Get data from an npm registry.
+*   [npm-stats (⭐51)](https://github.com/hughsk/npm-stats) - Get data from an npm registry.
 
 ### Other
 
-*   [generator-nm (⭐731)](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package.
+*   [generator-nm (⭐741)](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package.
 *   [npm-issues (⭐49)](https://github.com/seanzarrin/npm-issues) - Search known issues of all your packages at once.
 
 ## [9. Awesome Rest](/content/marmelab/awesome-rest/README.md)

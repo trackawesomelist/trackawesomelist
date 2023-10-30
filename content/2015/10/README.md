@@ -78,7 +78,7 @@
 
 *   [clj-bigml (⭐49)](https://github.com/bigmlcom/clj-bigml)
 *   [Deeplearning4j (⭐13k)](https://github.com/deeplearning4j/deeplearning4j)
-*   [Enclog (⭐137)](https://github.com/jimpil/enclog)
+*   [Enclog (⭐136)](https://github.com/jimpil/enclog)
 
 ## [4. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
@@ -150,7 +150,7 @@
 
 ### Text and Numbers
 
-*   [chinese\_translation (⭐88)](https://github.com/tyrchen/chinese_translation) - Translate between traditional chinese and simplified chinese based on wikipedia data, and translate chinese words/characters to pinyin (or slug with or without tone).
+*   [chinese\_translation (⭐89)](https://github.com/tyrchen/chinese_translation) - Translate between traditional chinese and simplified chinese based on wikipedia data, and translate chinese words/characters to pinyin (or slug with or without tone).
 
 ## [13. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -169,13 +169,13 @@
 
 ### Utility / Barcode
 
-*   [SpriteKit+Spring (⭐243)](https://github.com/ataugeron/SpriteKit-Spring) - SpriteKit API reproducing UIView's spring animations with SKAction.
+*   [SpriteKit+Spring (⭐248)](https://github.com/ataugeron/SpriteKit-Spring) - SpriteKit API reproducing UIView's spring animations with SKAction.
 
 ## [16. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Web Servers
 
-*   [XSP (⭐192)](https://github.com/mono/xsp) - Mono's ASP.NET hosting server. This module includes an Apache Module, a FastCGI module that can be hooked to other web servers as well as a standalone server used for testing (similar to Microsoft's Cassini)
+*   [XSP (⭐193)](https://github.com/mono/xsp) - Mono's ASP.NET hosting server. This module includes an Apache Module, a FastCGI module that can be hooked to other web servers as well as a standalone server used for testing (similar to Microsoft's Cassini)
 
 ## [17. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
 
@@ -209,12 +209,12 @@
 
 ### Inter-process communication
 
-*   [gRPC (⭐38k)](https://github.com/grpc/grpc) - A high performance, open source, general-purpose RPC framework. \[BSD] [website](http://www.grpc.io/)
+*   [gRPC (⭐39k)](https://github.com/grpc/grpc) - A high performance, open source, general-purpose RPC framework. \[BSD] [website](http://www.grpc.io/)
 
 ### Compiler
 
-*   [8cc (⭐5.9k)](https://github.com/rui314/8cc) - A Small C Compiler.
-*   [c (⭐2k)](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go! \[MIT]
+*   [8cc (⭐6k)](https://github.com/rui314/8cc) - A Small C Compiler.
+*   [c (⭐2.1k)](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go! \[MIT]
 
 ## [20. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
@@ -226,11 +226,11 @@
 
 ### Coding Style Guides
 
-*   [fast-ruby (⭐5.5k)](https://github.com/JuanitoFatas/fast-ruby) - Writing Fast Ruby. Collect Common Ruby idioms.
+*   [fast-ruby (⭐5.6k)](https://github.com/JuanitoFatas/fast-ruby) - Writing Fast Ruby. Collect Common Ruby idioms.
 
 ### Date and Time Processing
 
-*   [biz (⭐475)](https://github.com/zendesk/biz) - Time calculations using business hours.
+*   [biz (⭐476)](https://github.com/zendesk/biz) - Time calculations using business hours.
 
 ## [22. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 

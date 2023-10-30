@@ -10,11 +10,11 @@
 
 ### HTTP
 
-*   [HttpClientGoodies (⭐62)](https://github.com/jeffijoe/httpclientgoodies.net) - utilities for working with `HttpClient`
+*   [HttpClientGoodies (⭐64)](https://github.com/jeffijoe/httpclientgoodies.net) - utilities for working with `HttpClient`
 
 ### Queue
 
-*   [RawRabbit (⭐730)](https://github.com/pardahlman/RawRabbit) - A modern .NET Core library for RabbitMQ.
+*   [RawRabbit (⭐737)](https://github.com/pardahlman/RawRabbit) - A modern .NET Core library for RabbitMQ.
 
 ## [2. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
@@ -44,7 +44,7 @@
     Ubuntu Core is the perfect system for large-scale cloud container deployments, bringing transactional updates to the world’s favourite container platform.
 *   [ResinOS](https://resinos.io/)\
     A host OS tailored for containers, designed for reliability, proven in production.
-*   [Photon (⭐2.7k)](https://github.com/vmware/photon)\
+*   [Photon (⭐2.8k)](https://github.com/vmware/photon)\
     Photon OS is a minimal Linux container host designed to have a small footprint and tuned for VMware platforms. Photon is intended to invite collaboration around running containerized and Linux applications in a virtualized environment.
 *   [Clear Linux Project](https://clearlinux.org)\
     The Clear Linux Project for Intel Architecture is a distribution built for various Cloud use cases.
@@ -55,11 +55,11 @@
 
 ### Containers
 
-*   [udocker (⭐977)](https://github.com/indigo-dc/udocker)\
+*   [udocker (⭐1.1k)](https://github.com/indigo-dc/udocker)\
     A basic user tool to execute simple containers in batch or interactive systems without root privileges.
 *   [Let Me Contain That For You (⭐3.4k)](https://github.com/google/lmctfy)\
     LMCTFY is the open source version of Google’s container stack, which provides Linux application containers.
-*   [cc-oci-runtime (⭐418)](https://github.com/01org/cc-oci-runtime)\
+*   [cc-oci-runtime (⭐416)](https://github.com/01org/cc-oci-runtime)\
     Intel Clear Linux OCI (Open Containers Initiative) compatible runtime.
 
 ### Best practices
@@ -71,7 +71,7 @@
 
 ### Security / Tools
 
-*   [drydock (⭐62)](https://github.com/zuBux/drydock)\
+*   [drydock (⭐63)](https://github.com/zuBux/drydock)\
     Drydock provides a flexible way of assessing the security of your Docker daemon configuration and containers using editable audit templates.
 
 ## [3. Tools](/content/lvwzhen/tools/week/README.md)
@@ -148,12 +148,12 @@
 
 ### Node.js / Game Interaction
 
-*   [steam-gameserver (⭐12)](https://github.com/DoctorMcKay/node-steam-gameserver) - Steam client handler for Gameserver and AnonGameserver account types.
+*   [steam-gameserver (⭐15)](https://github.com/DoctorMcKay/node-steam-gameserver) - Steam client handler for Gameserver and AnonGameserver account types.
 
 ### PHP / Misc
 
 *   [steam-api (⭐79)](https://github.com/DaMitchell/steam-api-php) - A PHP wrapper for the Steam API.
-*   [steamid (⭐6)](https://github.com/DoctorMcKay/php-steamid) - SteamID class for PHP.
+*   [steamid (⭐8)](https://github.com/DoctorMcKay/php-steamid) - SteamID class for PHP.
 *   [steam-totp (⭐21)](https://github.com/DoctorMcKay/php-steam-totp) - PHP library to deal with Steam's proprietary TOTP algorithm.
 
 ## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
@@ -202,7 +202,7 @@
 
 ### Contents / Utilities
 
-*   [pgmigrate (⭐555)](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex.
+*   [pgmigrate (⭐564)](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex.
 
 ## [16. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
@@ -274,7 +274,7 @@
 
 *   [Open mHealth](http://www.openmhealth.org/) - Open source health data integration tools.
 *   [Quantifier (⭐39)](https://github.com/tsubery/quantifier) - A Quantified Self app that tracks various fitness and productivity metrics.
-*   [Fluxtream (⭐145)](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
+*   [Fluxtream (⭐148)](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
 
 ## [17. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
@@ -295,19 +295,13 @@
 
 ## [19. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
-### Training Courses
-
-*   [Distilling Domain-Driven Design](https://forcomprehension.com/) - Vaughn Vernon's online training course.
-
 ### Community Resources
 
-*   [Domain Driven Design Yahoo Group](https://groups.yahoo.com/neo/groups/domaindrivendesign/conversations/messages) - This group is for discussion of the domain-driven style of designing software, and the book by Eric Evans, Domain-Driven Design: Tackling Complexity in the Heart of Business Software. Questions and discussion of the book content is welcome here, as well as sharing of experiences applying DDD, and discussions of the topic in general.
 *   [DDDinPHP Google Group](https://groups.google.com/forum/#!forum/dddinphp) - The place to discuss Domain-Driven Design, CQRS, Event Sourcing, Model Storming, Hexagonal Architecture, Distributed Systems, Reactive... in the context of PHP.
-*   [EventStormers Google+ Community](https://plus.google.com/u/0/communities/113258571348605620818) - A public discussion group for everybody interested in EventStorming, and related themes.
 
 ### Libraries and Frameworks / .NET
 
-*   [NEventStore (⭐1.5k)](https://github.com/NEventStore/NEventStore) - A persistence library used to abstract different storage implementations when using event sourcing as storage mechanism.
+*   [NEventStore (⭐1.6k)](https://github.com/NEventStore/NEventStore) - A persistence library used to abstract different storage implementations when using event sourcing as storage mechanism.
 
 ### Libraries and Frameworks / Databases
 
@@ -323,7 +317,7 @@
 
 ### Command-Line Productivity
 
-*   [bashhub (⭐1k)](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
+*   [bashhub (⭐1.1k)](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 
 ## [21. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
@@ -350,8 +344,8 @@ Free
 
 ### Game Disassemblies / Syntax highlighting packages
 
-*   [Pokémon Red/Blue (⭐3.4k)](https://github.com/pret/pokered)
-*   [Pokémon Crystal (⭐1.8k)](https://github.com/pret/pokecrystal)
+*   [Pokémon Red/Blue (⭐3.6k)](https://github.com/pret/pokered)
+*   [Pokémon Crystal (⭐1.9k)](https://github.com/pret/pokecrystal)
 
 ### Related projects / Syntax highlighting packages
 
@@ -422,7 +416,7 @@ Webpage: <http://www.moustache.pt/>
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
-*   [Quack (⭐319)](https://github.com/quack/quack) - A multi-paradigm programming language with gradual and duck typing that targets PHP and JS.
+*   [Quack (⭐324)](https://github.com/quack/quack) - A multi-paradigm programming language with gradual and duck typing that targets PHP and JS.
 
 ## [28. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
@@ -452,7 +446,7 @@ git cherry -v
 
 ### UI / Barcode
 
-*   [TagListView (⭐2.5k)](https://github.com/ElaWorkshop/TagListView) - Simple but highly customizable iOS tag list view.
+*   [TagListView (⭐2.6k)](https://github.com/ElaWorkshop/TagListView) - Simple but highly customizable iOS tag list view.
 
 ## [31. Magictools](/content/ellisonleao/magictools/week/README.md)
 

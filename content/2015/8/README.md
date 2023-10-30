@@ -126,17 +126,17 @@
 
 ### Machine Learning and Data Science
 
-*   [Accord.NET Extensions (⭐334)](https://github.com/dajuric/accord-net-extensions) - Advanced image processing and computer vision algorithms made as fluent extensions.
+*   [Accord.NET Extensions (⭐336)](https://github.com/dajuric/accord-net-extensions) - Advanced image processing and computer vision algorithms made as fluent extensions.
 
 ## [7. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Queues and Messaging
 
-*   [Backburner (⭐421)](https://github.com/nesquena/backburner) - Backburner is a beanstalkd-powered job queue that can handle a very high volume of jobs.
+*   [Backburner (⭐422)](https://github.com/nesquena/backburner) - Backburner is a beanstalkd-powered job queue that can handle a very high volume of jobs.
 
 ### Rails Application Generators
 
-*   [Bootstrappers (⭐312)](https://github.com/xdite/bootstrappers) - Bootstrappers generates a base Rails app using Bootstrap template and other goodies.
+*   [Bootstrappers (⭐313)](https://github.com/xdite/bootstrappers) - Bootstrappers generates a base Rails app using Bootstrap template and other goodies.
 *   [Hobo (⭐103)](https://github.com/Hobo/hobo) - The web app builder for Rails.
 *   [orats (⭐670)](https://github.com/nickjj/orats) - Opinionated rails application templates.
 *   [Rails Composer (⭐3.4k)](https://github.com/RailsApps/rails-composer) - The Rails generator on steroids for starter apps.
@@ -149,7 +149,7 @@
 
 ### Third-party APIs
 
-*   [gmail (⭐384)](https://github.com/gmailgem/gmail) - A Rubyesque interface to Gmail, with all the tools you'll need.
+*   [gmail (⭐388)](https://github.com/gmailgem/gmail) - A Rubyesque interface to Gmail, with all the tools you'll need.
 
 ## [8. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 

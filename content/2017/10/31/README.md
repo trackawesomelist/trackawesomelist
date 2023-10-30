@@ -16,11 +16,11 @@
 
 ### Apps / E-commerce
 
-*   [django-oscar-wagtail (⭐87)](https://github.com/LabD/django-oscar-wagtail) - Wagtail integration for Oscar Commerce (or Oscar Commerce integration for Wagtail?).
+*   [django-oscar-wagtail (⭐94)](https://github.com/LabD/django-oscar-wagtail) - Wagtail integration for Oscar Commerce (or Oscar Commerce integration for Wagtail?).
 
 ### Apps / Forms
 
-*   [wagtailstreamforms (⭐0)](https://github.com/AccentDesign/wagtailstreamforms) - Build forms in Wagtail's admin for use in streamfields.
+*   [wagtailstreamforms (⭐1)](https://github.com/AccentDesign/wagtailstreamforms) - Build forms in Wagtail's admin for use in streamfields.
 
 ### Resources / Videos
 
@@ -72,7 +72,7 @@ Webpage: <http://frenesicafe.com>
 
 ### Related projects / Syntax highlighting packages
 
-*   [gb-save-states (⭐116)](https://github.com/mattcurrie/gb-save-states) - Patches to add save state support to Game Boy games when playing on the original hardware.
+*   [gb-save-states (⭐123)](https://github.com/mattcurrie/gb-save-states) - Patches to add save state support to Game Boy games when playing on the original hardware.
 
 ## [9. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 

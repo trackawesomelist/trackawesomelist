@@ -10,7 +10,7 @@
 
 ### Mathematics
 
-*   [Vim.Math3d (⭐77)](https://github.com/vimaec/math3d) - A feature-rich cross-platform replacement for System.Numerics with support for consistent serialization and binary layout, and additional structures and algorithms for efficient 3D Math.
+*   [Vim.Math3d (⭐81)](https://github.com/vimaec/math3d) - A feature-rich cross-platform replacement for System.Numerics with support for consistent serialization and binary layout, and additional structures and algorithms for efficient 3D Math.
 
 ## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -34,15 +34,11 @@
 
 ### Software / Blogging Platforms
 
-*   [Haven](https://havenweb.org/) - Private blogging system with markdown editing and built in RSS reader. ([Demo](https://havenweb.org/demo.html), [Source Code (⭐523)](https://github.com/havenweb/haven)) `MIT` `Ruby`
-
-### Software / Communication - Custom Communication Systems
-
-*   [StoneAge Messenger](https://cweb.gitlab.io/StoneAge.html) - A self-hosted Android messenger, S3-compatible storage is the only backend needed. ([Source Code](https://gitlab.com/cweb-repos/cweb-conversations), [Clients](https://f-droid.org/en/packages/com.cweb.messenger/)) `GPL-3.0` `Java`
+*   [Haven](https://havenweb.org/) - Private blogging system with markdown editing and built in RSS reader. ([Demo](https://havenweb.org/demo.html), [Source Code (⭐554)](https://github.com/havenweb/haven)) `MIT` `Ruby`
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [Mailu](https://mailu.io/) - Mailu is a simple yet full-featured mail server as a set of Docker images. ([Source Code (⭐4.5k)](https://github.com/Mailu/Mailu)) `MIT` `Docker/Python`
+*   [Mailu](https://mailu.io/) - Mailu is a simple yet full-featured mail server as a set of Docker images. ([Source Code (⭐4.9k)](https://github.com/Mailu/Mailu)) `MIT` `Docker/Python`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -58,7 +54,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [Rasalexman/KDispatcher (⭐64)](https://github.com/Rasalexman/KDispatcher) - Simple and light-weight event dispatcher for Kotlin
+*   [Rasalexman/KDispatcher (⭐66)](https://github.com/Rasalexman/KDispatcher) - Simple and light-weight event dispatcher for Kotlin
 
 ## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -124,13 +120,13 @@
 
 ### Authorization / Open-source policy frameworks
 
-*   [Cerbos (⭐1.3k)](https://github.com/cerbos/cerbos) - An authorization endpoint to write context-aware access control policies.
+*   [Cerbos (⭐1.8k)](https://github.com/cerbos/cerbos) - An authorization endpoint to write context-aware access control policies.
 
 ## [12. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Accounting / Bookkeeping
 
-*   [Go DB Ledger (⭐467)](https://github.com/darcys22/godbledger) - An open source accounting system that aims to make the recording of double entry bookkeeping transactions programmable.
+*   [Go DB Ledger (⭐474)](https://github.com/darcys22/godbledger) - An open source accounting system that aims to make the recording of double entry bookkeeping transactions programmable.
 
 ### Payments / Online Payments
 

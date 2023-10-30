@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 23, 2016
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -19,47 +19,53 @@
 
 *   [Efficiency (⭐118)](https://github.com/x-raizor/Efficiency)
 
-## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Go / Phoenix
+
+*   [Web apps in Go, the anti textbook (⭐3.1k)](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
+
+## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Kit / Barcode
 
-*   [C4iOS (⭐973)](https://github.com/C4Labs/C4iOS) - Harnesses the power of native iOS programming with a simplified API.
+*   [C4iOS (⭐977)](https://github.com/C4Labs/C4iOS) - Harnesses the power of native iOS programming with a simplified API.
 
-## [4. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [5. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### Python tools / Misc
 
 *   [diagram (⭐394)](https://github.com/tehmaze/diagram) - Text mode diagrams using UTF-8 characters
 
-## [5. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
+## [6. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 
 ### Open Source
 
 *   [Snake](https://bitbucket.org/uzeidurs/fuse-snake/) - A proof-of-concept experimental game of snake made with Fusetools.
 
-## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Cryptography
 
-*   [aescmac (⭐8)](https://github.com/kleinernik/elixir-aes-cmac) - AES CMAC ([RFC 4493](https://tools.ietf.org/html/rfc4493)) in Elixir.
+*   [aescmac (⭐9)](https://github.com/kleinernik/elixir-aes-cmac) - AES CMAC ([RFC 4493](https://tools.ietf.org/html/rfc4493)) in Elixir.
 
 ### Third Party APIs
 
 *   [random\_user (⭐7)](https://github.com/katgironpe/random_user) - An Elixir client for randomuser.me API.
 
-## [7. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [8. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Popular Packages / Testing & Debugging
 
 *   [Laravel Tracy (⭐380)](https://github.com/recca0120/laravel-tracy) - A Laravel Package to integrate Nette Tracy Debugger
 
-## [8. Amas](/content/sindresorhus/amas/README.md)
+## [9. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 
 *   [Jeroen Engels (⭐4)](https://github.com/jfmengels/ama) - JS developer and open source enthusiast.
 
-## [9. Awesome Educational Games](/content/yrgo/awesome-educational-games/README.md)
+## [10. Awesome Educational Games](/content/yrgo/awesome-educational-games/README.md)
 
 ### Languages
 
@@ -71,25 +77,25 @@
 *   [Code.org](https://code.org/) - Every student in every school should have the opportunity to learn computer science.
 *   [Codecademy](https://www.codecademy.com/) - Learn to code interactively, for free.
 
-## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### IDE
 
 *   [Ionide](http://ionide.io/) - An Atom Editor and Visual Studio Code package suite for cross platform F# development.
 
-## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Security
 
-*   [HtmlSanitizer (⭐1.3k)](https://github.com/mganss/HtmlSanitizer) - Cleans HTML to avoid XSS attacks.
+*   [HtmlSanitizer (⭐1.4k)](https://github.com/mganss/HtmlSanitizer) - Cleans HTML to avoid XSS attacks.
 
-## [12. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [13. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Algorithms and Data structures
 
 *   [crystal-linked-list (⭐12)](https://github.com/abvdasker/crystal-linked-list) - Implementation of Linked List
 
-## [13. Awesome Framer](/content/podo/awesome-framer/README.md)
+## [14. Awesome Framer](/content/podo/awesome-framer/README.md)
 
 ### Videos
 
@@ -99,7 +105,7 @@
 
 *   [Stitch (⭐144)](https://github.com/mattsjohnston/stitch) - Lightweight framework for adding interaction to your Framer prototypes directly from your Sketch designs.
 
-## [14. Awesome Html5](/content/diegocard/awesome-html5/README.md)
+## [15. Awesome Html5](/content/diegocard/awesome-html5/README.md)
 
 ### Progressive web apps / Service Workers
 

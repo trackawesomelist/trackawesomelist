@@ -44,7 +44,7 @@
 
 ### File Manipulation
 
-*   [Josegonzalez/Upload plugin](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](https://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.).
+*   🍰 [Josegonzalez/Upload plugin (⭐554)](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](https://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.).
 
 ## [5. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Contents / Libraries
 
-*   [hooked-head (⭐324)](https://github.com/JoviDeCroock/hooked-head) - Hooks to manipulate the `<head>` section of the DOM. This has a subpackage with core preact support (using `preact/hooks`).
+*   [hooked-head (⭐327)](https://github.com/JoviDeCroock/hooked-head) - Hooks to manipulate the `<head>` section of the DOM. This has a subpackage with core preact support (using `preact/hooks`).
 
 ## [8. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -95,7 +95,7 @@
 *   [Leaf for Mac](https://rockysandstudio.com/) <sup>[466](https://t.me/s/aboutrss/466)</sup> [![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://itunes.apple.com/app/id576338668?mt=12)
 *   [Cappuccino](https://cappuccinoapp.com/) <sup>[466](https://t.me/s/aboutrss/466)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://itunes.apple.com/us/app/cappuccino/id1293733688?mt=8\&at=10l4Lz\&ct=cappuiosbadge\&uo=8\&at=10l4Lz)[![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://geo.itunes.apple.com/us/app/cappuccino-news-reader/id1286725949?mt=12\&app=apps\&at=10l4Lz\&ct=cappumacbadge\&uo=8\&at=10l4Lz)
 *   [RSS Reader Prime](http://orzer.zhangzichuan.cn/2019/03/26/ReaderPrime/) <sup>[487](https://t.me/s/aboutrss/487)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/rss-reader-prime/id1454638098)
-*   [Smart RSS extension (⭐90)](https://github.com/SmartRSS/Smart-RSS) <sup>[510](https://t.me/s/aboutrss/510)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/eggggihfcaabljfpjiiaohloefmgejic/)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/firefox/addon/smart-rss-reader/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/SmartRSS/Smart-RSS)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Smart RSS extension (⭐108)](https://github.com/SmartRSS/Smart-RSS) <sup>[510](https://t.me/s/aboutrss/510)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/eggggihfcaabljfpjiiaohloefmgejic/)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/firefox/addon/smart-rss-reader/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/SmartRSS/Smart-RSS)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Hosted Readers / Outline Processor Markup Language
 
@@ -118,14 +118,14 @@
 ### Wechat Mini Apps / Outline Processor Markup Language
 
 *   [攸阅](https://minapp.com/miniapp/12066/) <sup>[165](https://t.me/s/aboutrss/165), [190](https://t.me/s/aboutrss/190)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
-*   [Resser 阅见 (⭐68)](https://github.com/rhinoc/Resser) <sup>[296](https://t.me/s/aboutrss/296), [297](https://t.me/s/aboutrss/297)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rhinoc/Resser)
+*   [Resser 阅见 (⭐71)](https://github.com/rhinoc/Resser) <sup>[296](https://t.me/s/aboutrss/296), [297](https://t.me/s/aboutrss/297)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rhinoc/Resser)
 
 ### Self Hosted Readers / Outline Processor Markup Language
 
 *   [Newspipe](https://www.newspipe.org/) <sup>[464](https://t.me/s/aboutrss/464)</sup> ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/cedricbonhomme/newspipe)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
-*   [rss-web (⭐58)](https://github.com/sin1ght/rss-web) <sup>[87](https://t.me/s/aboutrss/87)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/sin1ght/rss-web)
+*   [rss-web (⭐57)](https://github.com/sin1ght/rss-web) <sup>[87](https://t.me/s/aboutrss/87)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/sin1ght/rss-web)
 *   [selfoss](https://selfoss.aditu.de/) <sup>[128](https://t.me/s/aboutrss/128), [266](https://t.me/s/aboutrss/266), [389](https://t.me/s/aboutrss/389)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/SSilence/selfoss)
-*   [Stringer (⭐3.6k)](https://github.com/swanson/stringer) <sup>[388](https://t.me/s/aboutrss/388)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/swanson/stringer)
+*   [Stringer (⭐3.7k)](https://github.com/swanson/stringer) <sup>[388](https://t.me/s/aboutrss/388)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/swanson/stringer)
 
 ### Terminal-based / programmable RSS readers / Outline Processor Markup Language
 
@@ -139,11 +139,11 @@
 
 ### Other Apps / Outline Processor Markup Language
 
-*   [sensor.feedparser (⭐95)](https://github.com/custom-components/feedparser) <sup>[212](https://t.me/s/aboutrss/212)</sup> : RSS feed custom component for Home Assistant. [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/custom-components/feedparser)
+*   [sensor.feedparser (⭐116)](https://github.com/custom-components/feedparser) <sup>[212](https://t.me/s/aboutrss/212)</sup> : RSS feed custom component for Home Assistant. [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/custom-components/feedparser)
 
 ### TTRSS / Outline Processor Markup Language
 
-*   [ttrss-theme-rsshub (⭐88)](https://github.com/DIYgod/ttrss-theme-rsshub) <sup>[302](https://t.me/s/aboutrss/302)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/DIYgod/ttrss-theme-rsshub)
+*   [ttrss-theme-rsshub (⭐89)](https://github.com/DIYgod/ttrss-theme-rsshub) <sup>[302](https://t.me/s/aboutrss/302)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/DIYgod/ttrss-theme-rsshub)
 *   [Pink-Feedly Theme for Tiny Tiny RSS](https://t.me/s/realSpencerWoo/85) <sup>[439](https://t.me/s/aboutrss/439)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://gist.github.com/spencerwooo/60d15d83737542f11845bcc4742f9510#gistcomment-3158254)
 
 ### Telegram / Telegram RSS bots
@@ -168,14 +168,15 @@
 
 ### 🔍 Feed Search Engines / 酷Q Plugin
 
-*   [DatoRSS](https://www.datorss.com/) <sup>[527](https://t.me/s/aboutrss/527)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/davidesantangelo/datorss)
+*   ~~[DatoRSS](https://www.datorss.com/)~~ <sup>[527](https://t.me/s/aboutrss/527)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/davidesantangelo/datorss)
+    *   [SearQ](https://searq.org/): the RSS search engine with a RESTful API that simplifies the search for data from RSS feeds. <sup>[1308](https://t.me/s/aboutrss/1308)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/davidesantangelo/searq.org)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [The Ukora:tm: News Search Service](https://www.rsssearchhub.com/) <sup>[527](https://t.me/s/aboutrss/527)</sup>
 *   [RSS Micro](http://www.rssmicro.com/) <sup>[527](https://t.me/s/aboutrss/527)</sup>
 
 ### universally from / newsletter/mail
 
 *   Reading Newsletters with RSS Reader <sup>[426](https://t.me/s/aboutrss/426)</sup>
-*   [mail2rss (⭐40)](https://github.com/lengthmin/mail2rss) <sup>[517](https://t.me/s/aboutrss/517)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lengthmin/mail2rss)
+*   [mail2rss (⭐47)](https://github.com/lengthmin/mail2rss) <sup>[517](https://t.me/s/aboutrss/517)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lengthmin/mail2rss)
 
 ### specifically from (*a certain platform*) / Weibo (微博)
 
@@ -189,45 +190,45 @@
 *   [Vread](https://www.vreadtech.com/) <sup>[258](https://t.me/s/aboutrss/258), [269](https://t.me/s/aboutrss/269)</sup>
 *   [瓦斯阅读](https://qnmlgb.tech/) <sup>[349](https://t.me/s/aboutrss/349)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/tenpiece/wxrss)
 
-### WordPress plugins / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### WordPress plugins / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Feedzy RSS Feeds for WordPress](https://themeisle.com/plugins/feedzy-rss-feeds/) <sup>[239](https://t.me/s/aboutrss/239)</sup>
 *   [MailPoet](https://www.mailpoet.com/) <sup>[170](https://t.me/s/aboutrss/170)</sup> : deliver RSS content on specific time.
 
-### Feed Analytics / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Feed Analytics / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Feedburner alternatives](http://www.feedburner-alternatives.com/) <sup>[441](https://t.me/s/aboutrss/441)</sup>
 
-### Feed item filtering / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Feed item filtering / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [siftrss](https://siftrss.com/) <sup>[223](https://t.me/s/aboutrss/223)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### Combine multiple feeds into one / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Combine multiple feeds into one / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSS Mix](http://www.rssmix.com/) <sup>[250](https://t.me/s/aboutrss/250)</sup>
 *   [RSS Mixer](http://rssmixer.com/) <sup>[250](https://t.me/s/aboutrss/250)</sup>
 *   [FEED.INFORMER](http://feed.informer.com/) <sup>[250](https://t.me/s/aboutrss/250)</sup>
 *   [Feedspot’s RSSCombiner](https://www.feedspot.com/rsscombiner/) <sup>[311](https://t.me/s/aboutrss/311)</sup>
 
-### 🧩 API / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### 🧩 API / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Feedsearch](https://feedsearch.dev/) <sup>[310](https://t.me/s/aboutrss/310)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/DBeath/feedsearch-crawler)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [RSS API](https://rssapi.net/) <sup>[279](https://t.me/s/aboutrss/279)</sup> : Convert & subscribe to RSS, ATOM and JSON-Feeds via API
 *   [Feedspot API](https://www.feedspot.com/fs/apireadme) <sup>[290](https://t.me/s/aboutrss/290)</sup>
-*   [feedi (⭐343)](https://github.com/davidesantangelo/feedi) <sup>[527](https://t.me/s/aboutrss/527)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/davidesantangelo/feedi)
+*   [feedi (⭐344)](https://github.com/davidesantangelo/feedi) <sup>[527](https://t.me/s/aboutrss/527)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/davidesantangelo/feedi)
 *   [Substats](https://api.spencerwoo.com/substats/) <sup>[452](https://t.me/s/aboutrss/452), [470](https://t.me/s/aboutrss/470)</sup> : Serverless Function to Count How Many People are Subscribed to You in Your Favorite Services [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/spencerwooo/Substats)
 
-### iOS Shortcut / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### iOS Shortcut / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [获得播客订阅RSS](https://www.icloud.com/shortcuts/3a63525217c54f3d81bae8ea55f9f574) <sup>[295](https://t.me/s/aboutrss/295)</sup>
 *   [Add Feed To TTRSS](https://www.icloud.com/shortcuts/321cb16915324146b3f7931b5b2a08b7) <sup>[344](https://t.me/s/aboutrss/344)</sup>
 *   [RSS: Subscribe in NNW](https://www.icloud.com/shortcuts/4e943bc13a7b43a5b60e47ff35807698) <sup>[344](https://t.me/s/aboutrss/450)</sup>
 
-### Browser Booklet / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Browser Booklet / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSS-to-Inoreader](https://tmr.js.org/p/dd73704/) <sup>[228](https://t.me/s/aboutrss/228)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ttttmr/UserJS)
 
-### ⛓ OPML management / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### ⛓ OPML management / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Feed Curator](https://vincode.io/feed-curator/) <sup>[500](https://t.me/s/aboutrss/500)</sup> [![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://itunes.apple.com/us/app/feed-curator/id1458647758)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/vincode-io/FeedCurator)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
@@ -273,7 +274,7 @@
 ### Tools & Utilities / Others
 
 *   [Blazor.LazyStyleSheet (⭐12)](https://github.com/excubo-ag/Blazor.LazyStyleSheet) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.LazyStyleSheet?style=flat-square\&cacheSeconds=86400) Lazy loading for CSS style sheets.
-*   [DnetIndexedDb (⭐95)](https://github.com/amuste/DnetIndexedDb) - ![last commit](https://img.shields.io/github/last-commit/amuste/DnetIndexedDb?style=flat-square\&cacheSeconds=86400) Blazor Library for IndexedDB DOM API.
+*   [DnetIndexedDb (⭐97)](https://github.com/amuste/DnetIndexedDb) - ![last commit](https://img.shields.io/github/last-commit/amuste/DnetIndexedDb?style=flat-square\&cacheSeconds=86400) Blazor Library for IndexedDB DOM API.
 
 ## [11. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/README.md)
 
@@ -298,7 +299,7 @@
 
 ### Applications / Utilities
 
-*   [nomino (⭐501)](https://github.com/yaa110/nomino) — Batch rename utility for developers
+*   [nomino (⭐523)](https://github.com/yaa110/nomino) — Batch rename utility for developers
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -310,7 +311,7 @@
 
 ### Visual Programming Languages
 
-*   [eternal (⭐458)](https://github.com/kousun12/eternal) \[Web] - Programs as graphs and graphs as compositional tools for creation
+*   [eternal (⭐477)](https://github.com/kousun12/eternal) \[Web] - Programs as graphs and graphs as compositional tools for creation
 
 ### Other / Other
 

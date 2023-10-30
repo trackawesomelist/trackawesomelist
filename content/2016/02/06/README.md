@@ -16,7 +16,7 @@
 
 ### Misc
 
-*   [aasm.cr (⭐52)](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
+*   [aasm.cr (⭐50)](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -31,7 +31,7 @@
 ### ORM and Datamapping
 
 *   [inquisitor (⭐168)](https://github.com/dockyard/inquisitor) - Composable query builder for Ecto.
-*   [udpflux (⭐3)](https://github.com/timbuchwaldt/udpflux) - An opinionated InfluxDB UDP only client.
+*   [udpflux (⭐4)](https://github.com/timbuchwaldt/udpflux) - An opinionated InfluxDB UDP only client.
 
 ## [4. Awesome Computer History](/content/watson/awesome-computer-history/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Command-Line Productivity
 
-*   [k alias (⭐17)](https://github.com/lingtalfi/k) - get kool aliases (and more) working with a simple one-liner
+*   [k alias (⭐18)](https://github.com/lingtalfi/k) - get kool aliases (and more) working with a simple one-liner
 
 ## [7. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
@@ -100,13 +100,13 @@
 
 ### Concurrency
 
-*   [libcds (⭐2.3k)](https://github.com/khizmax/libcds) - A C++ library of Concurrent Data Structures. \[BSD]
+*   [libcds (⭐2.4k)](https://github.com/khizmax/libcds) - A C++ library of Concurrent Data Structures. \[BSD]
 
 ## [11. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 
 ### Others
 
-*   [Racing Car Katas (⭐249)](https://github.com/emilybache/Racing-Car-Katas)
+*   [Racing Car Katas (⭐260)](https://github.com/emilybache/Racing-Car-Katas)
 
 ---
 

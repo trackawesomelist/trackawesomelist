@@ -33,7 +33,7 @@
 
 ### Other Testing
 
-*   [SnapshotTesting (⭐3.1k)](https://github.com/pointfreeco/swift-snapshot-testing) - Delightful Swift snapshot testing.
+*   [SnapshotTesting (⭐3.3k)](https://github.com/pointfreeco/swift-snapshot-testing) - Delightful Swift snapshot testing.
 
 ## [5. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Software / Continuous Integration & Continuous Deployment
 
-*   [werf](https://werf.io/) - Open Source CI/CD tool for building Docker images and deploying to Kubernetes via GitOps. ([Source Code (⭐3.6k)](https://github.com/werf/werf)) `Apache-2.0` `Go`
+*   [werf](https://werf.io/) - Open Source CI/CD tool for building Docker images and deploying to Kubernetes via GitOps. ([Source Code (⭐3.8k)](https://github.com/werf/werf)) `Apache-2.0` `Go`
 
 ## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -70,7 +70,7 @@
 
 *   [FreeCodeCamp](https://www.freecodecamp.org). Weekly selection of five articles, videos or entire courses from FreeCodeCamp learning platform.
 
-### Security / Angular
+### Security / Svelte
 
 *   [tl;dr sec](https://tldrsec.com/). A weekly distillation of the best security tools, blog posts, and conference talks, covering AppSec, cloud and container security, DevSecOps, and more.
 
@@ -86,7 +86,7 @@
 ### XML
 
 *   [elixir-map-to-xml (⭐4)](https://github.com/gunnar2k/elixir-map-to-xml) - Converts an Elixir map to an XML document.
-*   [elixir-xml-to-map (⭐42)](https://github.com/homanchou/elixir-xml-to-map) - Creates an Elixir Map data structure from an XML string.
+*   [elixir-xml-to-map (⭐45)](https://github.com/homanchou/elixir-xml-to-map) - Creates an Elixir Map data structure from an XML string.
 
 ## [12. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 

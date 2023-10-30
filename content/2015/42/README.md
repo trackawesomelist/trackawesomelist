@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 19 - Oct 25, 2015
 
-40 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -59,7 +59,7 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [data-science-ipython-notebooks (⭐25k)](https://github.com/donnemartin/data-science-ipython-notebooks) - Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines.
+*   [data-science-ipython-notebooks (⭐26k)](https://github.com/donnemartin/data-science-ipython-notebooks) - Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines.
 
 ## [7. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
 
@@ -297,7 +297,17 @@
 *   [Open Source Society University (⭐126k)](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science.
 *   [Clef's Handbook (⭐2.7k)](https://github.com/clef/handbook) - An employee handbook built for inclusion.
 
-## [22. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [22. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### iOS / Bootstrap
+
+*   [Start Developing iOS Apps (Swift)](https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html) (HTML)
+
+### PostgreSQL / Zend
+
+*   [Postgres Official Documentation](http://www.postgresql.org/docs/)
+
+## [23. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Node.js / Scala
 
@@ -313,7 +323,7 @@
 *   [RFC7643](https://tools.ietf.org/html/rfc7643) - SCIM: Core Schema, provides a platform-neutral schema and extension model for representing users and groups.
 *   [RFC7644](https://tools.ietf.org/html/rfc7644) - SCIM: Protocol, an application-level, REST protocol for provisioning and managing identity data on the web.
 
-## [23. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [24. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Plugins / Paid Books
 
@@ -325,7 +335,7 @@
     *   [PHP front end setup without Node](https://www.sitepoint.com/look-ma-no-nodejs-a-php-front-end-workflow-without-node/) - Tutorial how to combine BowerPHP, Mini-Asset and Robo.li into a PHP front end asset building pipeline.
     *   [symfony-collection (⭐450)](https://github.com/ninsuo/symfony-collection) - jQuery Plugin that manages adding, deleting and moving elements from a Symfony2 collection.
 
-## [24. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [25. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Miscellaneous
 
@@ -346,7 +356,7 @@
 *   [Zigbee Alliance](http://www.zigbee.org/) - The ZigBee Alliance is an open, non-profit association of approximately 450 members driving development of innovative, reliable and easy-to-use ZigBee standards.
 *   [Z-Wave Alliance](http://z-wavealliance.org/) - Established in 2005, the Z-Wave Alliance is comprised of industry leaders throughout the globe that are dedicated to the development and extension of Z-Wave as the key enabling technology for 'smart' home and business applications.
 
-## [25. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
+## [26. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
 ### Shell / Extensions
 
@@ -356,45 +366,45 @@
 
 *   [Pipe Viewer](http://www.ivarch.com/programs/pv.shtml) - a tool for monitoring the progress of data through a pipeline
 
-## [26. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [27. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Development Tools
 
 *   [Vert.x Hot (⭐47)](https://github.com/dazraf/vertx-hot) - A Maven plugin for the hot-deploy of Maven Vert.x projects.
 
-## [27. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Markdown Processors
 
 *   [CommonMark.NET (⭐990)](https://github.com/Knagis/CommonMark.NET) - Implementation of CommonMark specification in C# for converting Markdown documents to HTML. Optimized for maximum performance and portability.
 
-## [28. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [29. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Online Scanners and Sandboxes / Other Resources
 
 *   [AndroTotal](https://andrototal.org/) - Free online analysis of APKs
     against multiple mobile antivirus apps.
 
-## [29. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
+## [30. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
 
 ### Python
 
 *   [Django Starter Template (⭐146)](https://github.com/fasouto/django-starter-template) An easy to use project template for Django that follows best practices.
 
-## [30. Awesome Network Js](/content/Kikobeats/awesome-network-js/week/README.md)
+## [31. Awesome Network Js](/content/Kikobeats/awesome-network-js/week/README.md)
 
 ### High level
 
 *   [airpaste (⭐794)](https://github.com/mafintosh/airpaste) – 1-1 network pipe that auto discovers other peers using mdns.
 *   [blecat (⭐94)](https://github.com/mafintosh/blecat) – 1-1 pipe over bluetooth low energy.
 
-## [31. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [32. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Third-party APIs
 
-*   [google-api-ads-ruby (⭐289)](https://github.com/googleads/google-api-ads-ruby) - Google Adwords Ruby client
+*   [google-api-ads-ruby (⭐294)](https://github.com/googleads/google-api-ads-ruby) - Google Adwords Ruby client
 
-## [32. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [33. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Community
 
@@ -415,19 +425,19 @@
 
 *   [Spritesheets and tools for the PICO-8 Palette](https://www.reddit.com/r/pico8/comments/3jhmni/spritesheets_and_tools_for_the_pico8_palette/) - Compilation of works assest and tools using the PICO-8 palette.
 
-## [33. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [34. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Featured Projects / Slides and Notes
 
 *   [React-flexbox (⭐162)](https://github.com/tcoopman/react-flexbox) - Implementation of css flexbox in react with inline styles.
 
-## [34. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [35. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### HTML Widgets
 
 *   [scatterD3 (⭐152)](https://github.com/juba/scatterD3) - Interactive scatterplots with D3.
 
-## [35. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [36. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### The Fiery Meter of AWSome
 
@@ -875,7 +885,7 @@
 
 *   [Amazon Web Services in Plain English](https://www.expeditedssl.com/aws-in-plain-english) - Entertaining and educational, a community contribution.
 
-## [36. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
+## [37. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
 ### Programming Languages / Java
 
@@ -907,7 +917,7 @@
 
 *   [Quiet](https://www.youtube.com/watch?v=AzlCIS072_Y) By Susan Cain
 
-## [37. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [38. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -925,24 +935,24 @@
 
 *   [Elixir Fountain](https://soundcloud.com/elixirfountain) - The Elixir Fountain podcast.
 
-## [38. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+## [39. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
 ### Web Development
 
 *   [10 Things I Learned from the jQuery Source](https://vimeo.com/12529436) by **Paul Irish** \[53:40]
 
-## [39. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [40. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Sliders / Runner
 
-*   [Flickity (⭐7.3k)](https://github.com/metafizzy/flickity) - Touch, responsive, flickable galleries.
+*   [Flickity (⭐7.4k)](https://github.com/metafizzy/flickity) - Touch, responsive, flickable galleries.
 
 ### Table/Grid / Other
 
 *   [jTable (⭐1.1k)](https://github.com/hikalkan/jtable) - A jQuery plugin to create AJAX based CRUD tables.
 *   [floatThead (⭐1.2k)](https://github.com/mkoryak/floatThead) - (jQuery plug-in) lock any table's header while scrolling within the body. Works on any table and requires no custom html or css.
 
-## [40. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [41. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Queueing / NoSQL Databases
 

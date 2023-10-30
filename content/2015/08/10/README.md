@@ -49,7 +49,7 @@
 
 ### Distributed Filesystem
 
-*   [Seaweed-FS (⭐16k)](https://github.com/chrislusf/seaweedfs) - simple and highly scalable distributed file system.
+*   [Seaweed-FS (⭐17k)](https://github.com/chrislusf/seaweedfs) - simple and highly scalable distributed file system.
 
 ---
 

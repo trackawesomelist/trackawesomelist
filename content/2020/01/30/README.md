@@ -16,7 +16,7 @@
 
 ### Localization
 
-*   [CrowdinSDK (⭐100)](https://github.com/crowdin/mobile-sdk-ios) - Crowdin iOS SDK delivers all new translations from Crowdin project to the application immediately.
+*   [CrowdinSDK (⭐108)](https://github.com/crowdin/mobile-sdk-ios) - Crowdin iOS SDK delivers all new translations from Crowdin project to the application immediately.
 
 ## [3. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -48,7 +48,7 @@
 ### Network / Scanning / Pentesting
 
 *   [Anevicon](https://github.com/rozgo/anevicon) - The most powerful UDP-based load generator, written in Rust.
-*   [Finshir (⭐25)](https://github.com/isgasho/finshir) - A coroutines-driven Low & Slow traffic generator, written in Rust.
+*   [Finshir (⭐27)](https://github.com/isgasho/finshir) - A coroutines-driven Low & Slow traffic generator, written in Rust.
 
 ### Network / Sniffer
 
@@ -56,7 +56,7 @@
 
 ### Web / Scanning / Pentesting
 
-*   [Recon-ng (⭐2.7k)](https://github.com/lanmaster53/recon-ng) - Recon-ng is a full-featured Web Reconnaissance framework written in Python. Recon-ng has a look and feel similar to the Metasploit Framework.
+*   [Recon-ng (⭐3k)](https://github.com/lanmaster53/recon-ng) - Recon-ng is a full-featured Web Reconnaissance framework written in Python. Recon-ng has a look and feel similar to the Metasploit Framework.
 
 ## [6. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Miscellaneous
 
-*   [pprint (⭐899)](https://github.com/p-ranav/pprint) - Pretty Printer for Modern C++. \[MIT]
+*   [pprint (⭐903)](https://github.com/p-ranav/pprint) - Pretty Printer for Modern C++. \[MIT]
 
 ---
 

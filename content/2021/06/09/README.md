@@ -10,8 +10,8 @@
 
 ### Software / Community-Supported Agriculture (CSA)
 
-*   [Foodsoft](https://foodcoops.net/) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling). ([Source Code (⭐288)](https://github.com/foodcoops/foodsoft)) `AGPL-3.0` `Ruby`
-*   [juntagrico](https://juntagrico.org/) - Management platform for community gardens and vegetable cooperatives. ([Source Code (⭐35)](https://github.com/juntagrico/juntagrico)) `LGPL-3.0` `Python`
+*   [Foodsoft](https://foodcoops.net/) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling). ([Source Code (⭐296)](https://github.com/foodcoops/foodsoft)) `AGPL-3.0` `Docker/Ruby`
+*   [juntagrico](https://juntagrico.org/) - Management platform for community gardens and vegetable cooperatives. ([Source Code (⭐40)](https://github.com/juntagrico/juntagrico)) `LGPL-3.0` `Python`
 *   [Local Food Nodes](https://localfoodnodes.org/) - Your open source platform for peoples driven local food markets and CSA. ([Source Code](https://gitlab.com/localfoodnodes/localfoodnodes)) `MIT` `PHP`
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
@@ -31,7 +31,7 @@
 
 ### IR Tools Collection / Incident Management
 
-*   [DFIRTrack (⭐425)](https://github.com/dfirtrack/dfirtrack) - Incident Response tracking application handling one or more incidents via cases and tasks with a lot of affected systems and artifacts.
+*   [DFIRTrack (⭐437)](https://github.com/dfirtrack/dfirtrack) - Incident Response tracking application handling one or more incidents via cases and tasks with a lot of affected systems and artifacts.
 
 ## [5. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -44,13 +44,13 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-rancher2 (⭐222)](https://github.com/rancher/terraform-provider-rancher2) - Provider for Rancher v2.
+*   [terraform-provider-rancher2 (⭐229)](https://github.com/rancher/terraform-provider-rancher2) - Provider for Rancher v2.
 
 ## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Graphics
 
-*   [dananas/kotlin-glsl (⭐36)](https://github.com/dananas/kotlin-glsl) - Write your GLSL shaders in Kotlin
+*   [dananas/kotlin-glsl (⭐39)](https://github.com/dananas/kotlin-glsl) - Write your GLSL shaders in Kotlin
 
 ## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Security
 
-- API: [Escape (⭐6)](https://github.com/polarspetroll/EscapeAPI)
+- API: [Escape (⭐10)](https://github.com/polarspetroll/EscapeAPI)
 
   Description: An API for escaping different kind of queries
 
@@ -86,13 +86,13 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [sainnhe/everforest (⭐1.9k)](https://github.com/sainnhe/everforest) - A green based colorscheme designed to be warm, soft and easy on the eyes.
+*   [sainnhe/everforest (⭐2.2k)](https://github.com/sainnhe/everforest) - A green based colorscheme designed to be warm, soft and easy on the eyes.
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Issue Tracking and Project Management
 
-*   [nTask](https://www.ntaskmanager.com/) — Project management software that enables your teams tn collaborate, plan, analyze and manage everyday tasks. Basic Plan free forever with 100 MB storage, 5 users/team. Unlimited workspaces, meetings,tasks, timesheets and issue tracking.
+*   [nTask](https://www.ntaskmanager.com/) — Project management software that enables your teams to collaborate, plan, analyze, and manage everyday tasks. The essential plan is free forever with 100 MB storage and five users/teams. Unlimited workspaces, meetings, assignments, timesheets, and issue tracking.
 
 ## [11. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
@@ -104,8 +104,8 @@
 ### Command-Line Productivity
 
 *   [pass](https://www.passwordstore.org/) - Manage passwords from the command line with GPG encryption and optional git integration.
-*   [usql (⭐7.7k)](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
-*   [xplr (⭐2.6k)](https://github.com/sayanarijit/xplr) -  A hackable, minimal, fast TUI file explorer
+*   [usql (⭐8.1k)](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
+*   [xplr (⭐3.1k)](https://github.com/sayanarijit/xplr) -  A hackable, minimal, fast TUI file explorer
 
 ### Customization / Directory Navigation
 
@@ -113,7 +113,7 @@
 
 ### For Developers / Directory Navigation
 
-*   [just (⭐8k)](https://github.com/casey/just) - Task runner for saving and running project-specific commands.
+*   [just (⭐12k)](https://github.com/casey/just) - Task runner for saving and running project-specific commands.
 
 ### System Utilities / Directory Navigation
 
@@ -121,19 +121,19 @@
 
 ### Applications / Directory Navigation
 
-*   [pcalc (⭐183)](https://github.com/alt-romes/programmer-calculator) - Calculator made for programmers working with multiple number representations, sizes, and overall close to the bits.
+*   [pcalc (⭐485)](https://github.com/alt-romes/programmer-calculator) - Calculator made for programmers working with multiple number representations, sizes, and overall close to the bits.
 
 ### Shell Script Development / Directory Navigation
 
-*   [bashew (⭐171)](https://github.com/pforret/bashew) - bash script creator - from small stand-alone script to complex projects with CI/CD and testing
-*   [getoptions (⭐254)](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash and all POSIX shells)
+*   [bashew (⭐202)](https://github.com/pforret/bashew) - bash script creator - from small stand-alone script to complex projects with CI/CD and testing
+*   [getoptions (⭐291)](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash and all POSIX shells)
 *   [Shell Field Guide](https://raimonster.com/scripting-field-guide/)
 
 ## [12. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
 ### Softwares / Libraries
 
-*   [go-mcproto (⭐33)](https://github.com/BRA1L0R/go-mcproto) - Minecraft server communication protocol implementation written in Go that allows you to program your own bots.
+*   [go-mcproto (⭐36)](https://github.com/BRA1L0R/go-mcproto) - Minecraft server communication protocol implementation written in Go that allows you to program your own bots.
 
 ---
 

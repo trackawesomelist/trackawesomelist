@@ -22,23 +22,23 @@
 
 ### Utility / Barcode
 
-*   [Bow (⭐626)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming.
+*   [Bow (⭐642)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming.
 
 ### Misc
 
-*   [Swiftbrew (⭐144)](https://github.com/swiftbrew/Swiftbrew) - Homebrew for Swift packages.
+*   [Swiftbrew (⭐145)](https://github.com/swiftbrew/Swiftbrew) - Homebrew for Swift packages.
 
 ### Text / Barcode
 
-*   [Texstyle (⭐79)](https://github.com/rosberry/texstyle) - Texstyle allows you to format attributed strings easily.
+*   [Texstyle (⭐80)](https://github.com/rosberry/texstyle) - Texstyle allows you to format attributed strings easily.
 
 ### UI / Barcode
 
-*   [ResizingTokenField (⭐102)](https://github.com/tadejr/ResizingTokenField) - A UICollectionView-based token field which provides intrinsic content height.
+*   [ResizingTokenField (⭐105)](https://github.com/tadejr/ResizingTokenField) - A UICollectionView-based token field which provides intrinsic content height.
 
 ### TextField / Barcode
 
-*   [VKPinCodeView (⭐95)](https://github.com/Sunspension/VKPinCodeView) - Simple and elegant UI component for input PIN.
+*   [VKPinCodeView (⭐96)](https://github.com/Sunspension/VKPinCodeView) - Simple and elegant UI component for input PIN.
 
 ## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -50,11 +50,11 @@
 
 ### Packages / Containerization
 
-*   [micro-ROS/docker (⭐39)](https://github.com/micro-ROS/docker) - Docker-related material to setup, configure and develop with micro-ROS hardware.
+*   [micro-ROS/docker (⭐40)](https://github.com/micro-ROS/docker) - Docker-related material to setup, configure and develop with micro-ROS hardware.
 
 ### Packages / Application layer
 
-*   [apriltag\_ros (⭐67)](https://github.com/christianrauch/apriltag_ros) - ROS2 node for AprilTag detection. ![apriltag\_ros](https://img.shields.io/github/stars/christianrauch/apriltag_ros.svg)
+*   [apriltag\_ros (⭐71)](https://github.com/christianrauch/apriltag_ros) - ROS2 node for AprilTag detection. ![apriltag\_ros](https://img.shields.io/github/stars/christianrauch/apriltag_ros.svg)
 
 ### Packages / Driver layer
 
@@ -67,17 +67,17 @@
 
 ### Operating systems / Build system (ROS2)
 
-*   [NuttX (⭐78)](https://github.com/micro-ROS/NuttX) - NuttX fork of the official one for use with micro-ROS.
+*   [NuttX (⭐82)](https://github.com/micro-ROS/NuttX) - NuttX fork of the official one for use with micro-ROS.
 
 ### Services / Robotics Capture the Flag (RCTF)
 
-*   [rctf-list (⭐29)](https://github.com/aliasrobotics/RCTF) - A list of Robotics CTF (RCTF) scenarios.
+*   [rctf-list (⭐30)](https://github.com/aliasrobotics/RCTF) - A list of Robotics CTF (RCTF) scenarios.
 
 ## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / Books
 
-*   [foy (⭐231)](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
+*   [foy (⭐240)](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
 
 ## [7. Awesome Qlik](/content/ambster-public/awesome-qlik/README.md)
 
@@ -97,11 +97,11 @@
 
 *   [Exercism Elm Track](http://exercism.io/languages/elm) - Collection of Elm exercises.
 *   [Beginning Elm](http://elmprogramming.com/) - A gentle introduction to the Elm programming language.
-*   [Elm Koans (⭐236)](https://github.com/robertjlooby/elm-koans) - Practice exercises for learning Elm.
+*   [Elm Koans (⭐235)](https://github.com/robertjlooby/elm-koans) - Practice exercises for learning Elm.
 *   [Learn Elm in Y Minutes](https://learnxinyminutes.com/docs/elm/) - Syntax and features overview. The Elm page on [learnxinyminutes.com](https://learnxinyminutes.com)
 *   [Elm Maybe - Dealing with null/Nothing](http://rundis.github.io/blog/2016/elm_maybe.html) - Working with the Maybe type, with nicely commented code examples.
 *   [Programming Elm](https://pragprog.com/book/jfelm/programming-elm) - Thorough book from The Pragmatic Programmers that covers basics and advanced concepts.
-*   [Elm cheat sheet (⭐949)](https://github.com/izdi/elm-cheat-sheet) - Syntax and features overview.
+*   [Elm cheat sheet (⭐951)](https://github.com/izdi/elm-cheat-sheet) - Syntax and features overview.
 *   [Ninety-nine Problems, Solved in Elm](https://johncrane.gitbooks.io/ninety-nine-elm-problems/content/) - Adaptations for Elm from Ninety-Nine Haskell Problems.
 *   [Elm Tutorials on Codementor](https://www.codementor.io/elm/tutorial) - Two tutorials on building web apps with Elm.
 *   [Elm programming language](https://en.wikibooks.org/wiki/Elm_programming_language) - a brief overview of Elm as a programming language.

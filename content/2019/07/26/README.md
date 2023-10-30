@@ -25,9 +25,9 @@
 *   [TraceWrangler](https://www.tracewrangler.com/) - Network capture file toolkit that can edit and merge `pcap` or `pcapng` files with batch editing features.
 *   [WireEdit](https://wireedit.com/) - Full stack WYSIWYG pcap editor (requires a free license to edit packets).
 *   [bittwist](http://bittwist.sourceforge.net/) - Simple yet powerful libpcap-based Ethernet packet generator useful in simulating networking traffic or scenario, testing firewall, IDS, and IPS, and troubleshooting various network problems.
-*   [hping3 (⭐1.2k)](https://github.com/antirez/hping) - Network tool able to send custom TCP/IP packets.
-*   [pig (⭐432)](https://github.com/rafael-santiago/pig) - GNU/Linux packet crafting tool.
-*   [scapy (⭐8.3k)](https://github.com/secdev/scapy) - Python-based interactive packet manipulation program and library.
+*   [hping3 (⭐1.3k)](https://github.com/antirez/hping) - Network tool able to send custom TCP/IP packets.
+*   [pig (⭐452)](https://github.com/rafael-santiago/pig) - GNU/Linux packet crafting tool.
+*   [scapy (⭐9.4k)](https://github.com/secdev/scapy) - Python-based interactive packet manipulation program and library.
 *   [tcpreplay](https://tcpreplay.appneta.com/) - Suite of free Open Source utilities for editing and replaying previously captured network traffic.
 
 ## [4. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
@@ -46,17 +46,17 @@
 
 ### Tools & Utilities / Others
 
-*   [Blazor Analytics (⭐121)](https://github.com/isc30/blazor-analytics) - Blazor extensions for Analytics.
+*   [Blazor Analytics (⭐131)](https://github.com/isc30/blazor-analytics) - Blazor extensions for Analytics.
 *   [BlazorPrettyCode (⭐35)](https://github.com/chanan/BlazorPrettyCode) - Blazor Code Component for documentation sites. [Demo](https://chanan.github.io/BlazorPrettyCode/).
-*   [Blazor.EventAggregator (⭐104)](https://github.com/mikoskinen/Blazor.EventAggregator) - Lightweight Event Aggregator for Blazor (Razor Components).
-*   [Blazor Gamepad (⭐23)](https://github.com/jsakamoto/Toolbelt.Blazor.Gamepad) - Provides gamepad API access for Blazor.
-*   [Blazor.LocalFiles (⭐46)](https://github.com/jburman/W8lessLabs.Blazor.LocalFiles) - Open files in your browser and load into Blazor.
+*   [Blazor.EventAggregator (⭐109)](https://github.com/mikoskinen/Blazor.EventAggregator) - Lightweight Event Aggregator for Blazor (Razor Components).
+*   [Blazor Gamepad (⭐25)](https://github.com/jsakamoto/Toolbelt.Blazor.Gamepad) - Provides gamepad API access for Blazor.
+*   [Blazor.LocalFiles (⭐47)](https://github.com/jburman/W8lessLabs.Blazor.LocalFiles) - Open files in your browser and load into Blazor.
 
 ## [7. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Boilerplates / Themes
 
-*   [The Green Meal (⭐83)](https://github.com/VincentCordobes/the-green-meal) - Next.js, PostgreSQL demo app written in TypeScript.
+*   [The Green Meal (⭐84)](https://github.com/VincentCordobes/the-green-meal) - Next.js, PostgreSQL demo app written in TypeScript.
 
 ## [8. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 
@@ -101,13 +101,13 @@
 
 ### Software Tools / Analysis Tools
 
-*   [Firmadyne (⭐1.6k)](https://github.com/firmadyne/firmadyne) - Tries to emulate and pentest a firmware.
-*   [Trommel (⭐196)](https://github.com/CERTCC/trommel) - Searches extracted firmware images for interesting files and information.
+*   [Firmadyne (⭐1.7k)](https://github.com/firmadyne/firmadyne) - Tries to emulate and pentest a firmware.
+*   [Trommel (⭐198)](https://github.com/CERTCC/trommel) - Searches extracted firmware images for interesting files and information.
 
 ### Software Tools / Extraction Tools
 
-*   [FACT Extractor (⭐62)](https://github.com/fkie-cad/fact_extractor) - Detects container format automatically and executes the corresponding extraction tool.
-*   [Firmware Mod Kit (⭐686)](https://github.com/rampageX/firmware-mod-kit/wiki) - Extraction tools for several container formats.
+*   [FACT Extractor (⭐68)](https://github.com/fkie-cad/fact_extractor) - Detects container format automatically and executes the corresponding extraction tool.
+*   [Firmware Mod Kit (⭐726)](https://github.com/rampageX/firmware-mod-kit/wiki) - Extraction tools for several container formats.
 
 ### Hardware Tools / Misc Tools
 

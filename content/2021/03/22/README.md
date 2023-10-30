@@ -8,27 +8,22 @@
 
 ## [1. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
-### Command-Line Tools / Newsletters
+### Command-Line Tools / Discovery
 
-*   [nixfmt (⭐379)](https://github.com/serokell/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
+*   [nixfmt (⭐429)](https://github.com/serokell/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
 
-### Development / Newsletters
+### Development / Discovery
 
-*   [nix-direnv (⭐904)](https://github.com/nix-community/nix-direnv) - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
+*   [nix-direnv (⭐1.1k)](https://github.com/nix-community/nix-direnv) - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
 
 ### Programming Languages / Haskell
 
-*   [cabal2nix (⭐328)](https://github.com/NixOS/cabal2nix) - Converts a Cabal file into a Nix build expression.
-*   [haskell.nix (⭐480)](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs.
-
-### Programming Languages / Python
-
-*   [mach-nix (⭐743)](https://github.com/DavHau/mach-nix) - Tool to create highly reproducible python environments.
-*   [pypi2nix (⭐189)](https://github.com/nix-community/pypi2nix) - Generate Nix expressions for Python packages.
+*   [cabal2nix (⭐334)](https://github.com/NixOS/cabal2nix) - Converts a Cabal file into a Nix build expression.
+*   [haskell.nix (⭐498)](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs.
 
 ### Overlays / Webinterface
 
-*   [awesome-nix-hpc (⭐44)](https://github.com/freuk/awesome-nix-hpc) - High Performance Computing package sets.
+*   [awesome-nix-hpc (⭐49)](https://github.com/freuk/awesome-nix-hpc) - High Performance Computing package sets.
 
 ## [2. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
@@ -64,11 +59,11 @@
 
 ### GTFS Libraries / PostgreSQL
 
-*   [gtfs-via-postgres (⭐45)](https://github.com/derhuerst/gtfs-via-postgres) – Yet another tool to process GTFS using PostgreSQL.
+*   [gtfs-via-postgres (⭐57)](https://github.com/derhuerst/gtfs-via-postgres) – Yet another tool to process GTFS using PostgreSQL.
 
 ### Other multimodal data formats / Ruby
 
-*   [Transport Operator Mobility-as-a-service Provider (TOMP)-API (⭐81)](https://github.com/TOMP-WG/TOMP-API) - Working group in the Netherlands with a goal to develop an API for use by Transport Operators and Mobility-as-a-service Providers for operator discovery, trip planning, end user interaction, booking, and payment.
+*   [Transport Operator Mobility-as-a-service Provider (TOMP)-API (⭐86)](https://github.com/TOMP-WG/TOMP-API) - Working group in the Netherlands with a goal to develop an API for use by Transport Operators and Mobility-as-a-service Providers for operator discovery, trip planning, end user interaction, booking, and payment.
 
 ## [6. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -80,11 +75,11 @@
 
 ### Testing
 
-*   [Vaadin](https://vaadin.com) — Build scalable UIs in Java or TypeScript, and use the integrated tooling, components and design system to iterate faster, design better and simplify the development process. Unlimited Projects with 5 years free maintenance.
+*   [Vaadin](https://vaadin.com) — Build scalable UIs in Java or TypeScript, and use the integrated tooling, components, and design system to iterate faster, design better, and simplify the development process. Unlimited Projects with five years of free maintenance.
 
 ### Storage and Media Processing
 
-*   [Pinata IPFS](https://pinata.cloud) — Pinata is the simplest way to upload and manage files on IPFS. Our friendly user interface combined with our IPFS API makes Pinata the easiest IPFS pinning service for platforms, creators, and collectors. 1 GB storage free along with access to API.
+*   [Pinata IPFS](https://pinata.cloud) — Pinata is the simplest way to upload and manage files on IPFS. Our friendly user interface and IPFS API make Pinata the easiest IPFS pinning service for platforms, creators, and collectors. 1 GB storage free, along with access to API.
 
 ## [8. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -100,7 +95,7 @@
 
 ## [10. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Common Section / Angular
+### General Section / Svelte
 
 *   [Docto Tech Life](https://doctolib.engineering/engineering-news-ruby-rails-react/). A weekly newsletter featuring the latest Rails + Javascript + software engineering content.
 
@@ -108,18 +103,18 @@
 
 ### Framework Components
 
-*   [phoenix\_linguist (⭐17)](https://github.com/jxs/phoenix_linguist) - A project that integrates Phoenix with Linguist, providing a plug and view helpers. It looks abandoned: its last commit was on 2015 and its CI runs Elixir 1.0.3.
+*   [phoenix\_linguist (⭐18)](https://github.com/jxs/phoenix_linguist) - A project that integrates Phoenix with Linguist, providing a plug and view helpers. It looks abandoned: its last commit was on 2015 and its CI runs Elixir 1.0.3.
 
 ### Translations and Internationalizations
 
-*   [linguist (⭐173)](https://github.com/change/linguist) - Elixir Internationalization library.
+*   [linguist (⭐175)](https://github.com/change/linguist) - Elixir Internationalization library.
 
 ## [12. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Streaming Engine
 
-*   [HStreamDB (⭐609)](https://github.com/hstreamdb/hstream) \[Haskell] - The streaming database built for IoT data storage and real-time processing.
-*   [Kuiper (⭐991)](https://github.com/emqx/kuiper) \[Golang] - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
+*   [HStreamDB (⭐645)](https://github.com/hstreamdb/hstream) \[Haskell] - The streaming database built for IoT data storage and real-time processing.
+*   [Kuiper (⭐1.2k)](https://github.com/emqx/kuiper) \[Golang] - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
 
 ## [13. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 

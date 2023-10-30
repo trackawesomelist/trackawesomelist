@@ -22,7 +22,7 @@
 
 ### Machine Learning / Preferences
 
-*   [m2cgen (⭐2.3k)](https://github.com/BayesWitnesses/m2cgen) <!--stargazers:BayesWitnesses/m2cgen--> - CLI tool to convert ML models into native Dart code by [BayesWitnesses](https://github.com/BayesWitnesses)
+*   [m2cgen (⭐2.6k)](https://github.com/BayesWitnesses/m2cgen) <!--stargazers:BayesWitnesses/m2cgen--> - CLI tool to convert ML models into native Dart code by [BayesWitnesses](https://github.com/BayesWitnesses)
 
 ## [4. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
 
@@ -34,21 +34,21 @@
 
 ### Libraries/Frameworks / Web
 
-*   [ButterCam/sisyphus (⭐77)](https://github.com/ButterCam/sisyphus) - Modern gRPC service framework based on Kotlin/Spring Boot with Message DSL/HTTP transcoding/Google AIP support.
+*   [ButterCam/sisyphus (⭐83)](https://github.com/ButterCam/sisyphus) - Modern gRPC service framework based on Kotlin/Spring Boot with Message DSL/HTTP transcoding/Google AIP support.
 
 ## [6. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Forms
 
-*   [Wagtail JotForm (⭐1)](https://github.com/kevinhowbrook/wagtail-jotform) - Embeddable Jotform forms for Wagtail pages.
+*   [Wagtail JotForm (⭐2)](https://github.com/kevinhowbrook/wagtail-jotform) - Embeddable Jotform forms for Wagtail pages.
 
 ### Apps / Misc
 
-*   [Wagtail PDF View (⭐18)](https://github.com/donhauser/wagtail-pdf) - Render Wagtail pages and models as PDF document using Weasyprint or LaTeX.
+*   [Wagtail PDF View (⭐20)](https://github.com/donhauser/wagtail-pdf) - Render Wagtail pages and models as PDF document using Weasyprint or LaTeX.
 
 ## [7. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
-### Books / Screeb
+### Books / Obsidian
 
 *   [An Elegant Puzzle](https://lethain.com/elegant-puzzle/) - By Will Larson.
 
@@ -56,33 +56,33 @@
 
 ### Crates / Utils
 
-*   [Yewdux (⭐242)](https://github.com/intendednull/yewdux) - Redux-like state containers for Yew apps.
+*   [Yewdux (⭐281)](https://github.com/intendednull/yewdux) - Redux-like state containers for Yew apps.
 
 ## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### API
 
-*   [CommandQuery (⭐84)](https://github.com/hlaueriksson/CommandQuery) - Command Query Separation for 🌐ASP.NET Core ⚡AWS Lambda ⚡Azure Functions ⚡Google Cloud Functions 🌐ASP.NET Web API 2
+*   [CommandQuery (⭐97)](https://github.com/hlaueriksson/CommandQuery) - Command Query Separation for 🌐ASP.NET Core ⚡AWS Lambda ⚡Azure Functions ⚡Google Cloud Functions 🌐ASP.NET Web API 2
 
 ### Application Frameworks
 
-*   [silky (⭐245)](https://github.com/liuhll/silky) - The Silky framework is designed to help developers quickly build a microservice development framework through simple code and configuration under the .net platform.
+*   [silky (⭐258)](https://github.com/liuhll/silky) - The Silky framework is designed to help developers quickly build a microservice development framework through simple code and configuration under the .net platform.
 
 ### Blazor
 
-*   [ant-design-blazor (⭐4.9k)](https://github.com/ant-design-blazor/ant-design-blazor) - A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.
+*   [ant-design-blazor (⭐5.2k)](https://github.com/ant-design-blazor/ant-design-blazor) - A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.
 
 ### CLI
 
-*   [Typin (⭐221)](https://github.com/adambajguz/Typin) - Simple to use declarative framework for interactive CLI applications and command line tools (direct mode) that has its roots in CliFx.
+*   [Typin (⭐229)](https://github.com/adambajguz/Typin) - Simple to use declarative framework for interactive CLI applications and command line tools (direct mode) that has its roots in CliFx.
 
 ### Distributed Computing
 
-*   [.NEXT Raft (⭐1.2k)](https://github.com/dotnet/dotNext) - Raft implementation for .NET and ASP.NET Core that allows to build clustered microservices powered by distributed consensus and replication
+*   [.NEXT Raft (⭐1.3k)](https://github.com/dotnet/dotNext) - Raft implementation for .NET and ASP.NET Core that allows to build clustered microservices powered by distributed consensus and replication
 
 ### E-Commerce and Payments
 
-*   [Adyen (⭐85)](https://github.com/Adyen/adyen-dotnet-api-library) - The official Adyen Payment API Library for .NET
+*   [Adyen (⭐92)](https://github.com/Adyen/adyen-dotnet-api-library) - The official Adyen Payment API Library for .NET
 
 ### Graphics
 
@@ -90,36 +90,36 @@
 
 ### Image Processing
 
-*   [ColorHelper (⭐45)](https://github.com/iamartyom/ColorHelper) - Useful methods for work with colors.
+*   [ColorHelper (⭐49)](https://github.com/iamartyom/ColorHelper) - Useful methods for work with colors.
 
 ### Interactive programming
 
-*   [.NET Interactive (⭐2.4k)](https://github.com/dotnet/interactive) - .NET Interactive takes the power of .NET and embeds it into your interactive experiences.
+*   [.NET Interactive (⭐2.6k)](https://github.com/dotnet/interactive) - .NET Interactive takes the power of .NET and embeds it into your interactive experiences.
 
 ### Mathematics
 
-*   [AngouriMath (⭐672)](https://github.com/asc-community/AngouriMath) - An open-source symbolic/computer algebra library, made primarily for C# and F#. It covers a range of features and might be considered as an alternative to SymPy in .NET.
+*   [AngouriMath (⭐707)](https://github.com/asc-community/AngouriMath) - An open-source symbolic/computer algebra library, made primarily for C# and F#. It covers a range of features and might be considered as an alternative to SymPy in .NET.
 
 ### Misc
 
-*   [LINQPad.QueryPlanVisualizer (⭐371)](https://github.com/Giorgi/LINQPad.QueryPlanVisualizer/)  - View SQL Server and Postgres query plans directly inside LINQPad.
+*   [LINQPad.QueryPlanVisualizer (⭐380)](https://github.com/Giorgi/LINQPad.QueryPlanVisualizer/)  - View SQL Server and Postgres query plans directly inside LINQPad.
 
 ### MVVM
 
-*   [EBind (⭐146)](https://github.com/SIDOVSKY/EBind) - A concise, fast and feature-rich .NET data binding solution.
+*   [EBind (⭐150)](https://github.com/SIDOVSKY/EBind) - A concise, fast and feature-rich .NET data binding solution.
 
 ### Networking
 
-*   [SharpPcap (⭐1.1k)](https://github.com/chmorgan/sharppcap) - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets from live and file based devices.
+*   [SharpPcap (⭐1.2k)](https://github.com/chmorgan/sharppcap) - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets from live and file based devices.
 
 ### Office
 
-*   [ShapeCrawler (⭐160)](https://github.com/ShapeCrawler/ShapeCrawler) - A fluent API for the processing of PowerPoint presentations without Microsoft Office installed.
-*   [MiniExcel (⭐1.7k)](https://github.com/shps951023/MiniExcel) - A micro Excel helper avoids OOM and high performance to create/mapping/template-fill-data.
+*   [ShapeCrawler (⭐198)](https://github.com/ShapeCrawler/ShapeCrawler) - A fluent API for the processing of PowerPoint presentations without Microsoft Office installed.
+*   [MiniExcel (⭐2k)](https://github.com/shps951023/MiniExcel) - A micro Excel helper avoids OOM and high performance to create/mapping/template-fill-data.
 
 ### ORM
 
-*   [FreeSql (⭐3.7k)](https:/github.com/dotnetcore/FreeSql) - a convenient ORM in dotnet, supports MySql, SqlServer, PostgreSQL, Oracle, Sqlite, Firebird, 达梦, 人大金仓, 神舟通用, 翰高 and Access.
+*   [FreeSql (⭐3.8k)](https:/github.com/dotnetcore/FreeSql) - a convenient ORM in dotnet, supports MySql, SqlServer, PostgreSQL, Oracle, Sqlite, Firebird, 达梦, 人大金仓, 神舟通用, 翰高 and Access.
 
 ### PDF
 
@@ -141,7 +141,7 @@
 ### Testing
 
 *   [BDTest (⭐67)](https://github.com/thomhurst/BDTest/wiki) - A behaviour driven testing and reporting framework!
-*   [CsCheck (⭐85)](https://github.com/AnthonyLloyd/CsCheck) - Random testing library for C#. Including concurrency, causal profiling, regression and performance testing.
+*   [CsCheck (⭐97)](https://github.com/AnthonyLloyd/CsCheck) - Random testing library for C#. Including concurrency, causal profiling, regression and performance testing.
 
 ### Tools
 
@@ -151,9 +151,9 @@
 
 *   [Tabs Studio](https://tabsstudio.com/) - Visual Studio tab manager with multiple tab rows, tab coloring and tab grouping. **\[$]**
 *   [ViEmu](http://www.viemu.com/) - very powerful Vi/vim emulator for Visual Studio supporting all basic and many advanced features of vi/vim. **\[$]**
-*   [Roslynator (⭐2.7k)](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn
-*   [Unchase.Odata.Connectedservice (⭐40)](https://github.com/unchase/Unchase.Odata.Connectedservice) - A Visual Studio Connected Service for generating API client code in C# or VB for OData web service.
-*   [Unchase.OpenAPI.Connectedservice (⭐87)](https://github.com/unchase/Unchase.OpenAPI.Connectedservice) - A Visual Studio 2017/2019 extension to generate C# (TypeScript) HttpClient (or C# Controllers) code for OpenAPI web service with [NSwag (⭐5.9k)](https://github.com/RicoSuter/NSwag).
+*   [Roslynator (⭐2.8k)](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn
+*   [Unchase.Odata.Connectedservice (⭐43)](https://github.com/unchase/Unchase.Odata.Connectedservice) - A Visual Studio Connected Service for generating API client code in C# or VB for OData web service.
+*   [Unchase.OpenAPI.Connectedservice (⭐91)](https://github.com/unchase/Unchase.OpenAPI.Connectedservice) - A Visual Studio 2017/2019 extension to generate C# (TypeScript) HttpClient (or C# Controllers) code for OpenAPI web service with [NSwag (⭐6.1k)](https://github.com/RicoSuter/NSwag).
 
 ## [10. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
@@ -182,15 +182,15 @@
 
 ### Shaders
 
-*   [ngrading (⭐28)](https://github.com/MikuAuahDark/NPad93/tree/master/ngrading) - Simple color grading library.
+*   [ngrading (⭐30)](https://github.com/MikuAuahDark/NPad93/tree/master/ngrading) - Simple color grading library.
 
 ### UI
 
-*   [NLay (⭐28)](https://github.com/MikuAuahDark/NPad93#nlay) - Flexible layouting library.
+*   [NLay (⭐30)](https://github.com/MikuAuahDark/NPad93#nlay) - Flexible layouting library.
 
 ## [12. GoBooks](/content/dariubs/GoBooks/week/README.md)
 
-### **Starter Books** / [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://www.oreilly.com/library/view/learning-go/9781492077206/)
+### Starter Books / 2021 - [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://www.amazon.de/-/en/Jon-Bodner/dp/1492077216)
 
 *   Learn how to write idiomatic code in Go and design a Go project
 *   Understand the reasons for the design decisions in Go
@@ -209,54 +209,54 @@
 
 ### Models and Projects / JAX
 
-*   [Amortized Bayesian Optimization (⭐28k)](https://github.com/google-research/google-research/tree/master/amortized_bo) - Code related to [*Amortized Bayesian Optimization over Discrete Spaces*](http://www.auai.org/uai2020/proceedings/329_main_paper.pdf).
-*   [Accurate Quantized Training (⭐28k)](https://github.com/google-research/google-research/tree/master/aqt) - Tools and libraries for running and analyzing neural network quantization experiments in JAX and Flax.
-*   [BNN-HMC (⭐28k)](https://github.com/google-research/google-research/tree/master/bnn_hmc) - Implementation for the paper [*What Are Bayesian Neural Network Posteriors Really Like?*](https://arxiv.org/abs/2104.14421).
-*   [JAX-DFT (⭐28k)](https://github.com/google-research/google-research/tree/master/jax_dft) - One-dimensional density functional theory (DFT) in JAX, with implementation of [*Kohn-Sham equations as regularizer: building prior knowledge into machine-learned physics*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.036401).
-*   [Robust Loss (⭐28k)](https://github.com/google-research/google-research/tree/master/robust_loss_jax) - Reference code for the paper [*A General and Adaptive Robust Loss Function*](https://arxiv.org/abs/1701.03077).
+*   [Amortized Bayesian Optimization (⭐31k)](https://github.com/google-research/google-research/tree/master/amortized_bo) - Code related to [*Amortized Bayesian Optimization over Discrete Spaces*](http://www.auai.org/uai2020/proceedings/329_main_paper.pdf).
+*   [Accurate Quantized Training (⭐31k)](https://github.com/google-research/google-research/tree/master/aqt) - Tools and libraries for running and analyzing neural network quantization experiments in JAX and Flax.
+*   [BNN-HMC (⭐31k)](https://github.com/google-research/google-research/tree/master/bnn_hmc) - Implementation for the paper [*What Are Bayesian Neural Network Posteriors Really Like?*](https://arxiv.org/abs/2104.14421).
+*   [JAX-DFT (⭐31k)](https://github.com/google-research/google-research/tree/master/jax_dft) - One-dimensional density functional theory (DFT) in JAX, with implementation of [*Kohn-Sham equations as regularizer: building prior knowledge into machine-learned physics*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.036401).
+*   [Robust Loss (⭐31k)](https://github.com/google-research/google-research/tree/master/robust_loss_jax) - Reference code for the paper [*A General and Adaptive Robust Loss Function*](https://arxiv.org/abs/1701.03077).
 
 ### Models and Projects / Flax
 
-*   [Performer (⭐28k)](https://github.com/google-research/google-research/tree/master/performer/fast_attention/jax) - Flax implementation of the Performer (linear transformer via FAVOR+) architecture.
-*   [JaxNeRF (⭐28k)](https://github.com/google-research/google-research/tree/master/jaxnerf) - Implementation of [*NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis*](http://www.matthewtancik.com/nerf) with multi-device GPU/TPU support.
-*   [Big Transfer (BiT) (⭐1.4k)](https://github.com/google-research/big_transfer) - Implementation of [*Big Transfer (BiT): General Visual Representation Learning*](https://arxiv.org/abs/1912.11370).
-*   [JAX RL (⭐442)](https://github.com/ikostrikov/jax-rl) - Implementations of reinforcement learning algorithms.
+*   [Performer (⭐31k)](https://github.com/google-research/google-research/tree/master/performer/fast_attention/jax) - Flax implementation of the Performer (linear transformer via FAVOR+) architecture.
+*   [JaxNeRF (⭐31k)](https://github.com/google-research/google-research/tree/master/jaxnerf) - Implementation of [*NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis*](http://www.matthewtancik.com/nerf) with multi-device GPU/TPU support.
+*   [Big Transfer (BiT) (⭐1.5k)](https://github.com/google-research/big_transfer) - Implementation of [*Big Transfer (BiT): General Visual Representation Learning*](https://arxiv.org/abs/1912.11370).
+*   [JAX RL (⭐512)](https://github.com/ikostrikov/jax-rl) - Implementations of reinforcement learning algorithms.
 *   [gMLP](https://github.com/SauravMaheshkar/gMLP) - Implementation of [*Pay Attention to MLPs*](https://arxiv.org/abs/2105.08050).
 *   [MLP Mixer](https://github.com/SauravMaheshkar/MLP-Mixer) - Minimal implementation of [*MLP-Mixer: An all-MLP Architecture for Vision*](https://arxiv.org/abs/2105.01601).
-*   [Distributed Shampoo (⭐28k)](https://github.com/google-research/google-research/tree/master/scalable_shampoo) - Implementation of [*Second Order Optimization Made Practical*](https://arxiv.org/abs/2002.09018).
-*   [NesT (⭐172)](https://github.com/google-research/nested-transformer) - Official implementation of [*Aggregating Nested Transformers*](https://arxiv.org/abs/2105.12723).
-*   [XMC-GAN (⭐97)](https://github.com/google-research/xmcgan_image_generation) - Official implementation of [*Cross-Modal Contrastive Learning for Text-to-Image Generation*](https://arxiv.org/abs/2101.04702).
-*   [FNet (⭐28k)](https://github.com/google-research/google-research/tree/master/f_net) - Official implementation of [*FNet: Mixing Tokens with Fourier Transforms*](https://arxiv.org/abs/2105.03824).
-*   [GFSA (⭐28k)](https://github.com/google-research/google-research/tree/master/gfsa) - Official implementation of [*Learning Graph Structure With A Finite-State Automaton Layer*](https://arxiv.org/abs/2007.04929).
-*   [IPA-GNN (⭐28k)](https://github.com/google-research/google-research/tree/master/ipagnn) - Official implementation of [*Learning to Execute Programs with Instruction Pointer Attention Graph Neural Networks*](https://arxiv.org/abs/2010.12621).
-*   [Flax Models (⭐28k)](https://github.com/google-research/google-research/tree/master/flax_models) - Collection of models and methods implemented in Flax.
-*   [Protein LM (⭐28k)](https://github.com/google-research/google-research/tree/master/protein_lm) - Implements BERT and autoregressive models for proteins, as described in [*Biological Structure and Function Emerge from Scaling Unsupervised Learning to 250 Million Protein Sequences*](https://www.biorxiv.org/content/10.1101/622803v1.full) and [*ProGen: Language Modeling for Protein Generation*](https://www.biorxiv.org/content/10.1101/2020.03.07.982272v2).
-*   [Slot Attention (⭐28k)](https://github.com/google-research/google-research/tree/master/ptopk_patch_selection) - Reference implementation for [*Differentiable Patch Selection for Image Recognition*](https://arxiv.org/abs/2104.03059).
-*   [Vision Transformer (⭐6.7k)](https://github.com/google-research/vision_transformer) - Official implementation of [*An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale*](https://arxiv.org/abs/2010.11929).
-*   [FID computation (⭐14)](https://github.com/matthias-wright/jax-fid) - Port of [mseitzer/pytorch-fid (⭐2.2k)](https://github.com/mseitzer/pytorch-fid) to Flax.
+*   [Distributed Shampoo (⭐31k)](https://github.com/google-research/google-research/tree/master/scalable_shampoo) - Implementation of [*Second Order Optimization Made Practical*](https://arxiv.org/abs/2002.09018).
+*   [NesT (⭐183)](https://github.com/google-research/nested-transformer) - Official implementation of [*Aggregating Nested Transformers*](https://arxiv.org/abs/2105.12723).
+*   [XMC-GAN (⭐98)](https://github.com/google-research/xmcgan_image_generation) - Official implementation of [*Cross-Modal Contrastive Learning for Text-to-Image Generation*](https://arxiv.org/abs/2101.04702).
+*   [FNet (⭐31k)](https://github.com/google-research/google-research/tree/master/f_net) - Official implementation of [*FNet: Mixing Tokens with Fourier Transforms*](https://arxiv.org/abs/2105.03824).
+*   [GFSA (⭐31k)](https://github.com/google-research/google-research/tree/master/gfsa) - Official implementation of [*Learning Graph Structure With A Finite-State Automaton Layer*](https://arxiv.org/abs/2007.04929).
+*   [IPA-GNN (⭐31k)](https://github.com/google-research/google-research/tree/master/ipagnn) - Official implementation of [*Learning to Execute Programs with Instruction Pointer Attention Graph Neural Networks*](https://arxiv.org/abs/2010.12621).
+*   [Flax Models (⭐31k)](https://github.com/google-research/google-research/tree/master/flax_models) - Collection of models and methods implemented in Flax.
+*   [Protein LM (⭐31k)](https://github.com/google-research/google-research/tree/master/protein_lm) - Implements BERT and autoregressive models for proteins, as described in [*Biological Structure and Function Emerge from Scaling Unsupervised Learning to 250 Million Protein Sequences*](https://www.biorxiv.org/content/10.1101/622803v1.full) and [*ProGen: Language Modeling for Protein Generation*](https://www.biorxiv.org/content/10.1101/2020.03.07.982272v2).
+*   [Slot Attention (⭐31k)](https://github.com/google-research/google-research/tree/master/ptopk_patch_selection) - Reference implementation for [*Differentiable Patch Selection for Image Recognition*](https://arxiv.org/abs/2104.03059).
+*   [Vision Transformer (⭐8.1k)](https://github.com/google-research/vision_transformer) - Official implementation of [*An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale*](https://arxiv.org/abs/2010.11929).
+*   [FID computation (⭐19)](https://github.com/matthias-wright/jax-fid) - Port of [mseitzer/pytorch-fid (⭐2.7k)](https://github.com/mseitzer/pytorch-fid) to Flax.
 
 ### Models and Projects / Haiku
 
-*   [AlphaFold (⭐9.9k)](https://github.com/deepmind/alphafold) - Implementation of the inference pipeline of AlphaFold v2.0, presented in [*Highly accurate protein structure prediction with AlphaFold*](https://www.nature.com/articles/s41586-021-03819-2).
+*   [AlphaFold (⭐11k)](https://github.com/deepmind/alphafold) - Implementation of the inference pipeline of AlphaFold v2.0, presented in [*Highly accurate protein structure prediction with AlphaFold*](https://www.nature.com/articles/s41586-021-03819-2).
 *   [Adversarial Robustness (⭐12k)](https://github.com/deepmind/deepmind-research/tree/master/adversarial_robustness) - Reference code for [*Uncovering the Limits of Adversarial Training against Norm-Bounded Adversarial Examples*](https://arxiv.org/abs/2010.03593) and [*Fixing Data Augmentation to Improve Adversarial Robustness*](https://arxiv.org/abs/2103.01946).
 *   [Bootstrap Your Own Latent (⭐12k)](https://github.com/deepmind/deepmind-research/tree/master/byol) - Implementation for the paper [*Bootstrap your own latent: A new approach to self-supervised Learning*](https://arxiv.org/abs/2006.07733).
 *   [Gated Linear Networks (⭐12k)](https://github.com/deepmind/deepmind-research/tree/master/gated_linear_networks) - GLNs are a family of backpropagation-free neural networks.
 *   [Glassy Dynamics (⭐12k)](https://github.com/deepmind/deepmind-research/tree/master/glassy_dynamics) - Open source implementation of the paper [*Unveiling the predictive power of static structure in glassy systems*](https://www.nature.com/articles/s41567-020-0842-8).
 *   [MMV (⭐12k)](https://github.com/deepmind/deepmind-research/tree/master/mmv) - Code for the models in [*Self-Supervised MultiModal Versatile Networks*](https://arxiv.org/abs/2006.16228).
 *   [Normalizer-Free Networks (⭐12k)](https://github.com/deepmind/deepmind-research/tree/master/nfnets) - Official Haiku implementation of [*NFNets*](https://arxiv.org/abs/2102.06171).
-*   [NuX (⭐80)](https://github.com/Information-Fusion-Lab-Umass/NuX) - Normalizing flows with JAX.
+*   [NuX (⭐81)](https://github.com/Information-Fusion-Lab-Umass/NuX) - Normalizing flows with JAX.
 *   [OGB-LSC (⭐12k)](https://github.com/deepmind/deepmind-research/tree/master/ogb_lsc) - This repository contains DeepMind's entry to the [PCQM4M-LSC](https://ogb.stanford.edu/kddcup2021/pcqm4m/) (quantum chemistry) and [MAG240M-LSC](https://ogb.stanford.edu/kddcup2021/mag240m/) (academic graph)
     tracks of the [OGB Large-Scale Challenge](https://ogb.stanford.edu/kddcup2021/) (OGB-LSC).
-*   [Persistent Evolution Strategies (⭐28k)](https://github.com/google-research/google-research/tree/master/persistent_es) - Code used for the paper [*Unbiased Gradient Estimation in Unrolled Computation Graphs with Persistent Evolution Strategies*](http://proceedings.mlr.press/v139/vicol21a.html).
+*   [Persistent Evolution Strategies (⭐31k)](https://github.com/google-research/google-research/tree/master/persistent_es) - Code used for the paper [*Unbiased Gradient Estimation in Unrolled Computation Graphs with Persistent Evolution Strategies*](http://proceedings.mlr.press/v139/vicol21a.html).
 *   [WikiGraphs (⭐12k)](https://github.com/deepmind/deepmind-research/tree/master/wikigraphs) - Baseline code to reproduce results in [*WikiGraphs: A Wikipedia Text - Knowledge Graph Paired Datase*](https://aclanthology.org/2021.textgraphs-1.7).
 
 ### Models and Projects / Trax
 
-*   [Reformer (⭐7.4k)](https://github.com/google/trax/tree/master/trax/models/reformer) - Implementation of the Reformer (efficient transformer) architecture.
+*   [Reformer (⭐7.8k)](https://github.com/google/trax/tree/master/trax/models/reformer) - Implementation of the Reformer (efficient transformer) architecture.
 
 ### Videos / NumPyro
 
-*   [JAX, Flax & Transformers 🤗 (⭐84k)](https://github.com/huggingface/transformers/blob/9160d81c98854df44b1d543ce5d65a6aa28444a2/examples/research_projects/jax-projects/README.md#talks) - 3 days of talks around JAX / Flax, Transformers, large-scale language modeling and other great topics.
+*   [JAX, Flax & Transformers 🤗 (⭐114k)](https://github.com/huggingface/transformers/blob/9160d81c98854df44b1d543ce5d65a6aa28444a2/examples/research_projects/jax-projects/README.md#talks) - 3 days of talks around JAX / Flax, Transformers, large-scale language modeling and other great topics.
 
 ## [15. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -281,7 +281,7 @@
 
 ### Plugins
 
-*   🧩 [Perspective (⭐95)](https://github.com/Kamona-WD/tailwindcss-perspective) - Adds `perspective` utilities.
+*   🧩 [Perspective (⭐100)](https://github.com/Kamona-WD/tailwindcss-perspective) - Adds `perspective` utilities.
 
 ## [19. Magictools](/content/ellisonleao/magictools/week/README.md)
 
@@ -293,53 +293,65 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Tox](https://tox.chat/) - Distributed, secure messenger with audio and video chat capabilities. ([Source Code (⭐1.9k)](https://github.com/TokTok/c-toxcore)) `GPL-3.0` `C`
+*   [Tox](https://tox.chat/) - Distributed, secure messenger with audio and video chat capabilities. ([Source Code (⭐2k)](https://github.com/TokTok/c-toxcore)) `GPL-3.0` `C`
 
 ### Software / Pastebins
 
-*   [rustypaste (⭐369)](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. `MIT` `Rust`
+*   [rustypaste (⭐541)](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. `MIT` `Rust`
 
 ## [21. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Typescript Project Starters
 
-*   [nd.ts (⭐28)](https://github.com/heyayushh/nd.ts/) - setup bare minimum Node.ts project asap
+*   [nd.ts (⭐30)](https://github.com/heyayushh/nd.ts/) - setup bare minimum Node.ts project asap
 
 ## [22. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Computer Vision
 
-*   [IoT Owl (⭐6)](https://github.com/Ret2Me/IoT-Owl) - Light face detection and recognition system with huge possibilities, based on Microsoft Face API and TensorFlow made for small IoT devices like raspberry pi.
+*   [IoT Owl (⭐7)](https://github.com/Ret2Me/IoT-Owl) - Light face detection and recognition system with huge possibilities, based on Microsoft Face API and TensorFlow made for small IoT devices like raspberry pi.
 
 ## [23. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Reverse Engineering
 
-*   [MVT (Mobile Verification Toolkit) (⭐8.6k)](https://github.com/mvt-project/mvt) - a collection of utilities to simplify and automate the process of gathering forensic traces helpful to identify a potential compromise of Android and iOS devices
+*   [MVT (Mobile Verification Toolkit) (⭐8.9k)](https://github.com/mvt-project/mvt) - a collection of utilities to simplify and automate the process of gathering forensic traces helpful to identify a potential compromise of Android and iOS devices
 *   ~~[Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - Java decompiler~~
 *   ~~[Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)~~
 *   ~~[ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid)~~, ~~[fork/mirror](https://github.com/yangbean9/ZjDroid)~~
 *   ~~[Dare](http://siis.cse.psu.edu/dare/index.html) – .dex to .class converter~~
 
-## [24. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [24. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### JavaScript / Fastify
+
+*   [Fastify - Latest Documentation](https://www.fastify.io/docs/latest) (HTML)
+
+### Rust / Sinatra
+
+*   [Rust For Systems Programmers (⭐3.4k)](https://github.com/nrc/r4cppp) - Nick Cameron
+*   [The Embedded Rust Book](https://docs.rust-embedded.org/book/intro/index.html)
+*   [The Rust Language Reference (⭐1k)](https://github.com/rust-lang/reference)
+
+## [25. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Learn
 
 *   [A nice app on Elm street](https://madewithlove.com/blog/software-engineering/using-elm-with-react-a-nice-app-on-elm-street/) - An introduction to Elm
 
-## [25. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
+## [26. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### Traffic Analysis/Inspection
 
-*   [BruteShark (⭐2.5k)](https://github.com/odedshimon/BruteShark): Is an open-source, cross-platform network forensic analysis tool with many features. It includes: password extracting,  displaying a visual network map, reconstruct TCP sessions, extract hashes of encrypted passwords and even convert them to a Hashcat format in order to perform an offline Brute Force attack.
+*   [BruteShark (⭐2.8k)](https://github.com/odedshimon/BruteShark): Is an open-source, cross-platform network forensic analysis tool with many features. It includes: password extracting,  displaying a visual network map, reconstruct TCP sessions, extract hashes of encrypted passwords and even convert them to a Hashcat format in order to perform an offline Brute Force attack.
 
-## [26. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [27. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
-*   [tmux-fuzzback (⭐90)](https://github.com/roosta/tmux-fuzzback) Search your scrollback buffer using fzf.
+*   [tmux-fuzzback (⭐100)](https://github.com/roosta/tmux-fuzzback) Search your scrollback buffer using fzf.
 
-## [27. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/week/README.md)
+## [28. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/week/README.md)
 
 ### Apps / Stacking Apps
 
@@ -358,7 +370,7 @@
 
 *   [Proof of Transfer Whitepaper Reading with Muneeb Ali](https://www.youtube.com/watch?v=NY_eUrIcWOY\&t=3s) - Overview of the Proof of Transfer (PoX) whitepaper from the author.
 
-## [28. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [29. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### General
 
@@ -366,11 +378,11 @@
 
 ### IDE
 
-*   [Picat Language IDE (⭐6)](https://github.com/andrzejolszak/picat-blazor-monaco-ide/) - ![last commit](https://img.shields.io/github/last-commit/andrzejolszak/picat-blazor-monaco-ide?style=flat-square\&cacheSeconds=86400) IDE for the [Picat logic programming language](http://picat-lang.org/) based on the Monaco Editor. [Demo](https://andrzejolszak.github.io/picat-blazor-monaco-ide/PicatBlazorMonaco/publish/wwwroot/).
+*   [Picat Language IDE (⭐7)](https://github.com/andrzejolszak/picat-blazor-monaco-ide/) - ![last commit](https://img.shields.io/github/last-commit/andrzejolszak/picat-blazor-monaco-ide?style=flat-square\&cacheSeconds=86400) IDE for the [Picat logic programming language](http://picat-lang.org/) based on the Monaco Editor. [Demo](https://andrzejolszak.github.io/picat-blazor-monaco-ide/PicatBlazorMonaco/publish/wwwroot/).
 
 ### Individual components / Others
 
-*   [BlazorMergely (⭐6)](https://github.com/akovac35/BlazorMergely) - ![last commit](https://img.shields.io/github/last-commit/akovac35/BlazorMergely?style=flat-square\&cacheSeconds=86400) An implementation of Blazor diff and merge component based on Mergely with server side support.
+*   [BlazorMergely (⭐8)](https://github.com/akovac35/BlazorMergely) - ![last commit](https://img.shields.io/github/last-commit/akovac35/BlazorMergely?style=flat-square\&cacheSeconds=86400) An implementation of Blazor diff and merge component based on Mergely with server side support.
 
 ### Books / Others
 
@@ -378,78 +390,78 @@
 *   [Microsoft Blazor: Building Web Applications in .NET](https://www.amazon.com/Microsoft-Blazor-Building-Applications-NET/dp/1484259270/ref=pd_sbs_2/144-0745230-5007239?pd_rd_w=LPinn\&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846\&pf_rd_r=V7CQTYC0W8RZAVPVVXA1\&pd_rd_r=b34ab9d9-09dd-4eca-9207-f56311bde8d2\&pd_rd_wg=9V1tA\&pd_rd_i=1484259270\&psc=1) - Microsoft Blazor: Building Web Applications in .NET (Second edition published in May 2020).
 *   [Blazor Revealed](https://www.apress.com/gp/book/9781484243428) - Blazor Revealed, Building Web Applications in .NET (Published February, 2019).
 
-## [29. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [30. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Debug
 
-*   [DebugViewPP (⭐835)](https://github.com/CobaltFusion/DebugViewPP) - Debug logging viewer. \[Boost]
+*   [DebugViewPP (⭐875)](https://github.com/CobaltFusion/DebugViewPP) - Debug logging viewer. \[Boost]
 
 ### Online Compiler
 
 *   [codechef](https://www.codechef.com/ide) - A simple online compiler CodeChef.
 
-## [30. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [31. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
 
 *   [tRPC Prisma Starter (⭐466)](https://github.com/trpc/examples-next-prisma-starter) - Starter project with Prisma + Next.js + CI + testing + E2E type-safety using [tRPC](https://trpc.io)
 
-## [31. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [32. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Research Papers
 
 *   [Maturity of gray matter structures and white matter connectomes, and their relationship with psychiatric symptoms in youth](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25565) Alex Luna, Joel Bernanke, Kakyeong Kim, Natalie Aw, Jordan D. Dworkin, Jiook Cha, Jonathan Posner (2021).
 
-## [32. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [33. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Text processing
 
-*   [sstadick/hck (⭐635)](https://github.com/sstadick/hck) - A faster and more featureful drop in replacement for `cut` [![build badge](https://github.com/sstadick/hck/workflows/Check/badge.svg?branch=master)](https://github.com/sstadick/hck)
+*   [sstadick/hck (⭐647)](https://github.com/sstadick/hck) - A faster and more featureful drop in replacement for `cut` [![build badge](https://github.com/sstadick/hck/workflows/Check/badge.svg?branch=master)](https://github.com/sstadick/hck)
 
 ### Applications / Virtualization
 
-*   [containers/youki (⭐4.7k)](https://github.com/containers/youki) — A container runtime in Rust [![build badge](https://github.com/containers/youki/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/containers/youki/actions)
+*   [containers/youki (⭐5.3k)](https://github.com/containers/youki) — A container runtime in Rust [![build badge](https://github.com/containers/youki/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/containers/youki/actions)
 
 ### Libraries / Cryptography
 
-*   [w3f/schnorrkel (⭐266)](https://github.com/w3f/schnorrkel) - Schnorr VRFs and signatures on the Ristretto group
+*   [w3f/schnorrkel (⭐274)](https://github.com/w3f/schnorrkel) - Schnorr VRFs and signatures on the Ristretto group
 
 ### Libraries / GUI
 
-*   [tauri-apps/tauri (⭐64k)](https://github.com/tauri-apps/tauri) — Build smaller, faster, and more secure desktop applications with a web frontend, powered by [WRY (⭐2.5k)](https://github.com/tauri-apps/wry). [![test library](https://img.shields.io/github/workflow/status/tauri-apps/tauri/test%20library?label=test%20library)](https://github.com/tauri-apps/tauri/actions?query=workflow%3A%22test+library%22)
+*   [tauri-apps/tauri (⭐69k)](https://github.com/tauri-apps/tauri) — Build smaller, faster, and more secure desktop applications with a web frontend, powered by [WRY (⭐2.8k)](https://github.com/tauri-apps/wry). [![test library](https://img.shields.io/github/workflow/status/tauri-apps/tauri/test%20library?label=test%20library)](https://github.com/tauri-apps/tauri/actions?query=workflow%3A%22test+library%22)
 
-## [33. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [34. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
-*   [vite-plugin-react-refresh (⭐36)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-react-refresh) - Provide enhancements for [@vitejs/plugin-react-refresh](https://www.npmjs.com/package/@vitejs/plugin-react-refresh).
+*   [vite-plugin-react-refresh (⭐45)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-react-refresh) - Provide enhancements for [@vitejs/plugin-react-refresh](https://www.npmjs.com/package/@vitejs/plugin-react-refresh).
 
 ### Django / Community
 
-*   [django-vite (⭐277)](https://github.com/MrBin99/django-vite) - Integration for Django applications.
+*   [django-vite (⭐339)](https://github.com/MrBin99/django-vite) - Integration for Django applications.
 
 ### Ruby on Rails / Community
 
-*   [vite-plugin-ruby (⭐956)](https://github.com/ElMassimo/vite_ruby/tree/main/vite-plugin-ruby) - Configuration for Ruby backends.
-*   [Vite Ruby (⭐956)](https://github.com/ElMassimo/vite_ruby) - Integration for Rails, Hanami, Padrino, and Rack apps.
+*   [vite-plugin-ruby (⭐1.1k)](https://github.com/ElMassimo/vite_ruby/tree/main/vite-plugin-ruby) - Configuration for Ruby backends.
+*   [Vite Ruby (⭐1.1k)](https://github.com/ElMassimo/vite_ruby) - Integration for Rails, Hanami, Padrino, and Rack apps.
 
-## [34. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [35. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Reading
 
 *   [Simon Wardley's SlideShares](https://www.slideshare.net/swardley/presentations) - A collection of useful presentation slide decks on a range of topics.
 
-## [35. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [36. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Competitive Analysis / GDPR
 
 *   [DigitalOcean Accounts changelog](http://docs.digitalocean.com/release-notes/accounts/) - All the latest accounts updates on DO.
 
-## [36. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [37. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Basics
 
-*   [Open guide to AWS (⭐34k)](https://github.com/open-guides/og-aws#billing-and-cost-management) - Links to the *Billing and Cost Management* section which details the broad characteristics of billing for a cloud provider.
+*   [Open guide to AWS (⭐35k)](https://github.com/open-guides/og-aws#billing-and-cost-management) - Links to the *Billing and Cost Management* section which details the broad characteristics of billing for a cloud provider.
 
 ### Pricing / Usage-based Pricing
 
@@ -458,7 +470,7 @@
 ### Product Catalog / Market Research
 
 *   [GCP Product Catalog](https://cloud.google.com/blog/products/gcp/introducing-cloud-billing-catalog-api-gcp-pricing-in-real-time) - All GCP SKUs available as an API.
-*   [Pimcore (⭐2.8k)](https://github.com/pimcore/pimcore) - An open-source UI and database to manage product metadata, written in PHP Symfony.
+*   [Pimcore (⭐3k)](https://github.com/pimcore/pimcore) - An open-source UI and database to manage product metadata, written in PHP Symfony.
 *   [OpenPIM](https://www.openpim.org) - A streamlined open-source project, focusing on PIM-only features.
 *   [Comparing 3 open source PIM solutions](https://medium.com/@slavapedak/comparing-3-free-and-open-source-product-information-management-pim-solutions-e83a1898f91e) - Comparative study of the 3 projects above.
 
@@ -483,71 +495,39 @@
 
 *   [DigitalOcean Billing changelog](http://docs.digitalocean.com/release-notes/billing/) - All the latest billing updates on DO.
 
-## [37. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
-
-### Conferences
-
-*   [`Orbit`](https://www.youtube.com/playlist?list=PLtEF8_xCPklY3P5NLSQb1SyIYLhQssxfY)
-
-### Blog posts
-
-*   [Knowledge Models and Causal Diagrams](https://dzone.com/articles/knowledge-models-and-causal-diagrams)
-*   [Building a Biomedical Knowledge Graph](https://dzone.com/articles/building-a-biomedical-knowledge-graph)
-*   [How Roche Discovered Novel Potential Gene Targets with TypeDB](https://dzone.com/articles/how-roche-discovered-novel-potential-gene-targets)
-*   [Social Graphs for Drug Development](https://dzone.com/articles/social-graphs-for-drug-development)
-*   [Modelling Biomedical Data for a Drug Discovery Knowledge Graph](https://dzone.com/articles/modelling-biomedical-data-for-a-drug-discovery-kno-1)
-*   [A Clincial Decision Support System Built with a Knowledge Graph](https://dzone.com/articles/a-clinical-decision-support-system-built-with-a-kn)
-*   [Object Recognition and Spatial Awareness for a SPOT Robotics System](https://dzone.com/articles/object-recognition-and-spacial-awareness-for-a-spo)
-
-### Videos
-
-*   [Ontology-Driven Modelling for Text-Mining Around Technology and Engineering](https://www.youtube.com/watch?v=0ir12x5FB4s)
-*   [Using TypeDB for Content Authorisation Across the Enterprise](https://www.youtube.com/watch?v=H-Ln8YUITRw)
-
-### Community
-
-*   [`Discord`](https://vaticle.com/discord)
-*   [`YouTube`](https://www.youtube.com/c/vaticle)
-*   [`Blog`](https://blog.vaticle.com)
-*   [`LinkedIn`](https://www.linkedin.com/company/vaticle)
-
 ## [38. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Databases
 
-*   [TypeDB (⭐50)](https://github.com/vaticle/typedb-awesome#readme) - Logical database to organize large and complex networks of data as one body of knowledge.
+*   [TypeDB (⭐53)](https://github.com/vaticle/typedb-awesome#readme) - Logical database to organize large and complex networks of data as one body of knowledge.
 
 ### Media
 
-*   [VLC (⭐80)](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
+*   [VLC (⭐95)](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
 
 ### Business
 
-*   [Billing (⭐574)](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
+*   [Billing (⭐657)](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
 
 ### Work
 
-*   [Internships (⭐284)](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
+*   [Internships (⭐320)](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
 
 ### Decentralized Systems
 
-*   [Stacks (⭐84)](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
+*   [Stacks (⭐88)](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
 
 ### Miscellaneous
 
-*   [Scriptable (⭐816)](https://github.com/dersvenhesse/awesome-scriptable#readme) - An iOS app for automations in JavaScript.
+*   [Scriptable (⭐938)](https://github.com/dersvenhesse/awesome-scriptable#readme) - An iOS app for automations in JavaScript.
 
 ## [39. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Databases
 
-*   [redis-pro (⭐604)](https://github.com/cmushroom/redis-pro) - Small, easy to use Redis management, written with SwiftUI, support Dark mode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cmushroom/redis-pro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [redis-pro (⭐625)](https://github.com/cmushroom/redis-pro) - Small, easy to use Redis management, written with SwiftUI, support Dark mode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cmushroom/redis-pro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [40. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
-
-### Social Media Tools / Twitter
-
-*   [Alldaytrends](https://alldaytrends.com) - A website where you can find trending hashtags.
 
 ### Threat Intelligence / Telegram
 
@@ -564,17 +544,17 @@
 
 ### Tools and frameworks
 
-*   [OSnap (⭐110)](https://github.com/eWert-Online/osnap) - The speedy and easy to use Snapshot Testing tool for your project (1200 snapshots will run in under 3 minutes).
+*   [OSnap (⭐129)](https://github.com/eWert-Online/osnap) - The speedy and easy to use Snapshot Testing tool for your project (1200 snapshots will run in under 3 minutes).
 
 ## [43. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
-*   [Learning Vue 3.0 (⭐674)](https://github.com/chengpeiquan/learning-vue3)
+*   [Learning Vue 3.0 (⭐825)](https://github.com/chengpeiquan/learning-vue3)
 
 ### Resources / Examples
 
-*   [vuemoji-picker (⭐63)](https://github.com/wobsoriano/vuemoji-picker) - Vue 2 and 3 lightweight emoji picker.
+*   [vuemoji-picker (⭐65)](https://github.com/wobsoriano/vuemoji-picker) - Vue 2 and 3 lightweight emoji picker.
 
 ### Components & Libraries / Utilities
 
@@ -598,9 +578,9 @@
 
 ## [46. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
-### CLI
+### CLI / Argument Parsing
 
-*   [jbock (⭐76)](https://github.com/jbock-java/jbock) - Reflectionless command line parser.
+*   [jbock (⭐78)](https://github.com/jbock-java/jbock) - Reflectionless command line parser.
 
 ### Utility / Mocking
 
@@ -610,24 +590,24 @@
 
 ### Action
 
-*   [Rigel Engine (⭐771)](https://github.com/lethal-guitar/RigelEngine) - Modern reimplementation of the classic DOS game Duke Nukem II in C++.
+*   [Rigel Engine (⭐806)](https://github.com/lethal-guitar/RigelEngine) - Modern reimplementation of the classic DOS game Duke Nukem II in C++.
 
 ### FPS
 
-*   [BetterSpades (⭐197)](https://github.com/xtreme8000/BetterSpades/) - Ace Of Spades open source implementation that runs on older machines.
+*   [BetterSpades (⭐208)](https://github.com/xtreme8000/BetterSpades/) - Ace Of Spades open source implementation that runs on older machines.
 *   [FreeCS](https://sourceforge.net/projects/freecs-1-5/) - Free-software re-implementation of Counter-Strike 1.5 running on the FTEQW engine.
 *   [FTEQW](https://fte.triptohell.info/) - FPS Engine for Quake 1, QuakeWorld, Quake 2, Hexen II & Quake III Arena.
 *   [Zandronum](https://zandronum.com/) - Multiplayer oriented port, based off Skulltag, for Doom and Doom II. Also runs Heretic, Hexen and Strife.
 
 ### Online
 
-*   [Space Station 14 (⭐1.2k)](https://github.com/space-wizards/space-station-14) - Space Station 14 is a revived attempt at a Space Station 13 remake.
+*   [Space Station 14 (⭐1.5k)](https://github.com/space-wizards/space-station-14) - Space Station 14 is a revived attempt at a Space Station 13 remake.
 
 ## [48. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Advanced datastructures
 
-*   [Duratom (⭐182)](https://github.com/jimpil/duratom): persisted atoms
+*   [Duratom (⭐183)](https://github.com/jimpil/duratom): persisted atoms
 
 ### Version Control Management
 
@@ -641,7 +621,7 @@
 
 *   [Monger](http://clojuremongodb.info/): for MongoDB
 *   [Monglorious](https://baumandm.github.io/monglorious/): for MongoDB
-*   [clj-rethinkdb (⭐200)](https://github.com/apa512/clj-rethinkdb): for RethinkDB
+*   [clj-rethinkdb (⭐201)](https://github.com/apa512/clj-rethinkdb): for RethinkDB
 *   [Revise (⭐146)](https://github.com/bitemyapp/revise): for RethinkDB
 *   [Spandex (⭐240)](https://github.com/mpenet/spandex): for ElasticSearch
 *   [Elastisch](http://clojureelasticsearch.info/): for ElasticSearch
@@ -651,7 +631,7 @@
 
 ### Security
 
-*   [bolt (⭐124)](https://github.com/juxt/bolt)
+*   [bolt (⭐123)](https://github.com/juxt/bolt)
 
 ### Data Validation
 
@@ -666,19 +646,19 @@
 *   [neanderthal (⭐1k)](https://github.com/uncomplicate/neanderthal): fast matrix library
 *   [clojurecuda (⭐168)](https://github.com/uncomplicate/clojurecuda)
 *   [clojurecl (⭐276)](https://github.com/uncomplicate/clojurecl)
-*   [bayadera (⭐355)](https://github.com/uncomplicate/bayadera): bayesian data analysis on the GPU
+*   [bayadera (⭐356)](https://github.com/uncomplicate/bayadera): bayesian data analysis on the GPU
 *   [Flare (⭐284)](https://github.com/aria42/flare)
 *   [MXNet - Clojure API](https://mxnet.apache.org/versions/1.7.0/api/clojure)
 *   [clj-ml (⭐148)](https://github.com/antoniogarrote/clj-ml)
 *   [Clatern (⭐67)](https://github.com/rinuboney/clatern)
-*   [k9 (⭐104)](https://github.com/gigasquid/k9)
+*   [k9 (⭐103)](https://github.com/gigasquid/k9)
 *   [Statistiker (⭐63)](https://github.com/clojurewerkz/statistiker)
 *   [Synaptic (⭐88)](https://github.com/japonophile/synaptic)
 *   [Infer (⭐177)](https://github.com/aria42/infer)
 
 ### Computer Vision
 
-*   [origami (⭐102)](https://github.com/hellonico/origami): OpenCV 4 wrapper
+*   [origami (⭐109)](https://github.com/hellonico/origami): OpenCV 4 wrapper
 
 ### Editor Plugins
 
@@ -686,19 +666,19 @@
 
 ### Documentation
 
-*   [codox (⭐648)](https://github.com/weavejester/codox)
+*   [codox (⭐654)](https://github.com/weavejester/codox)
 
 ### Miscellaneous
 
-*   [clj-grpc (⭐10)](https://github.com/otwieracz/clj-grpc)
+*   [clj-grpc (⭐11)](https://github.com/otwieracz/clj-grpc)
 
 ### Terminal UI
 
-*   [clojure-lanterna (⭐206)](https://github.com/MultiMUD/clojure-lanterna)
+*   [clojure-lanterna (⭐209)](https://github.com/MultiMUD/clojure-lanterna)
 
 ### Exercises / YouTube
 
-*   [rich4clojure (⭐165)](https://github.com/PEZ/rich4clojure)
+*   [rich4clojure (⭐169)](https://github.com/PEZ/rich4clojure)
 
 ## [49. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
@@ -716,15 +696,14 @@
 
 ### C / Syntax highlighting packages
 
-*   [Super Princess' 2092 Exodus (⭐25)](https://github.com/Zal0/gbjam2016) - ([ZGB engine (⭐590)](https://github.com/Zal0/ZGB/)).
-*   [Tobu Tobu Girl Deluxe (⭐61)](https://github.com/SimonLarsen/tobutobugirl-dx) - An arcade platformer for the Game Boy (Color).
+*   [Super Princess' 2092 Exodus (⭐27)](https://github.com/Zal0/gbjam2016) - ([ZGB engine (⭐635)](https://github.com/Zal0/ZGB/)).
+*   [Tobu Tobu Girl Deluxe (⭐64)](https://github.com/SimonLarsen/tobutobugirl-dx) - An arcade platformer for the Game Boy (Color).
 *   [Black Castle](https://gbdev.gg8.se/forums/viewtopic.php?id=743) - Side scrolling platformer for the Game Boy ([itch.io](https://user0x7f.itch.io/black-castle)).
 *   [Genesis](https://gbdev.gg8.se/forums/viewtopic.php?id=674) - Shmup for the Game Boy ([itch.io](https://user0x7f.itch.io/genesis)).
 *   [Indestructo Tank!](https://antonylavelle.itch.io/indestructotank-gb)
-*   [Super JetPak DX](https://pocketpixel.design/super-jetpak-dx-game-boy-rom.html)
-*   [Powa!](https://aiguanachein.itch.io/powa) - Side scrolling platformer for the Game Boy (Color)  ([ZGB engine (⭐590)](https://github.com/Zal0/ZGB/)).
-*   [Cavern](https://thegreatgallus.itch.io/cavern-mvm-9) - ([ZGB engine (⭐590)](https://github.com/Zal0/ZGB/)).
-*   [Mona and the Witch's Hat Deluxe](https://ctneptune.itch.io/mona-and-the-witchs-hat-dx) - ([ZGB engine (⭐590)](https://github.com/Zal0/ZGB/)).
+*   [Powa!](https://aiguanachein.itch.io/powa) - Side scrolling platformer for the Game Boy (Color)  ([ZGB engine (⭐635)](https://github.com/Zal0/ZGB/)).
+*   [Cavern](https://thegreatgallus.itch.io/cavern-mvm-9) - ([ZGB engine (⭐635)](https://github.com/Zal0/ZGB/)).
+*   [Mona and the Witch's Hat Deluxe](https://ctneptune.itch.io/mona-and-the-witchs-hat-dx) - ([ZGB engine (⭐635)](https://github.com/Zal0/ZGB/)).
 *   [The Bouncing Ball](https://gamejolt.com/games/the-bouncing-ball-gb/86699)
 *   [DMG Deals Damage](https://drludos.itch.io/dmg-deals-damage)
 
@@ -936,79 +915,40 @@
 
 ### JavaScript / FrameWorks
 
-*   [Ghostfolio (⭐1.4k)](https://github.com/ghostfolio/ghostfolio) - Wealth management software to keep track of financial assets like stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions.
+*   [Ghostfolio (⭐2.7k)](https://github.com/ghostfolio/ghostfolio) - Wealth management software to keep track of financial assets like stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions.
 
 ## [54. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
 *   [Efemarai](https://efemarai.com) - Testing and debugging platform for ML models and data. Visualize any computational graph. Free 30 debugging sessions per month for developers.
 
 ### Tools for Teams and Collaboration
 
-*   [vadoo.tv](https://vadoo.tv/) — Video hosting and marketing made simple. Upload videos with a single click. Record, manage, share & more. Free tier provides upto 10 videos, 1 GB storage, 10 GB bandwidth/month
+*   [vadoo.tv](https://vadoo.tv/) — Video hosting and marketing made simple. Upload videos with a single click. Record, manage, share & more. The free tier provides up to 10 videos, 1 GB of storage, and 10 GB of bandwidth/per month
 
 ### Security and PKI
 
-*   [Bridgecrew](https://bridgecrew.io/) — Infrastructure as code (IaC) security powered by the open source tool - [Checkov (⭐5.6k)](https://github.com/bridgecrewio/checkov). The core Bridgecrew platform is free for up to 50 IaC resources.
-
-### DBaaS
-
-*   [Macrometa](https://www.macrometa.com/) - a noSQL database, Pub/Sub, event processing, and serverless edge computing platform for building geo-distributed and real-time applications. Free dev account gives access to 10,000 Operations/Day & 200MB Storage.
+*   [Bridgecrew](https://bridgecrew.io/) — Infrastructure as code (IaC) security powered by the open source tool - [Checkov (⭐6k)](https://github.com/bridgecrewio/checkov). The core Bridgecrew platform is free for up to 50 IaC resources.
 
 ### Data Visualization on Maps
 
-*   [Geokeo api](https://geokeo.com) - Geocoding api with language correction and more. Worldwide coverage. 2,500 free daily queries
+*   [Geokeo api](https://geokeo.com) - Geocoding API with language correction and more. Worldwide coverage. 2,500 free daily queries
 
 ## [55. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Incident Management
 
-*   [DFTimewolf (⭐238)](https://github.com/log2timeline/dftimewolf) - A framework for orchestrating forensic collection, processing and data export.
-*   [Shuffle (⭐951)](https://github.com/frikky/Shuffle) - A general purpose security automation platform focused on accessibility.
+*   [DFTimewolf (⭐250)](https://github.com/log2timeline/dftimewolf) - A framework for orchestrating forensic collection, processing and data export.
+*   [Shuffle (⭐1k)](https://github.com/frikky/Shuffle) - A general purpose security automation platform focused on accessibility.
 
 ### IR Tools Collection / Other Tools
 
-*   [Raccine (⭐882)](https://github.com/Neo23x0/Raccine) - A Simple Ransomware Protection
-*   [sysmon-config (⭐4.1k)](https://github.com/SwiftOnSecurity/sysmon-config) - Sysmon configuration file template with default high-quality event tracing
-*   [sysmon-modular (⭐2.2k)](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules
+*   [Raccine (⭐895)](https://github.com/Neo23x0/Raccine) - A Simple Ransomware Protection
+*   [sysmon-config (⭐4.3k)](https://github.com/SwiftOnSecurity/sysmon-config) - Sysmon configuration file template with default high-quality event tracing
+*   [sysmon-modular (⭐2.3k)](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules
 
 ## [56. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
-
-### Projects / API Design
-
-*   [OpenAPI Diff (⭐585)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
-*   [OpenAPI Generator (⭐16k)](https://github.com/OpenAPITools/openapi-generator) - Automate the creation of API client libraries, server stubs, documentation and config files with this powerful OpenAPI Spec tool.
-*   [OpenAPI Style Validator (⭐165)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
-*   [Zally (⭐802)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
-
-### Projects / API Gateway
-
-*   [Tyk API Gateway (⭐8.4k)](https://github.com/TykTechnologies/tyk) - An open source Enterprise API Gateway that supports REST, GraphQL, TCP, and gRPC protocols. It provides advanced API management features such as rate limiting, access control, and analytics.
-
-### Projects / API Testing
-
-*   API clients
-    *   [Advanced REST Client (⭐1.3k)](https://github.com/advanced-rest-client/arc-electron) - An open-source API tool designed for testing and debugging RESTful web services.
-    *   [curl (⭐30k)](https://github.com/curl/curl) - Command-line tool for transferring data with URLs over various protocols.
-    *   [curlie (⭐2.3k)](https://github.com/rs/curlie) - Frontend to curl with the ease of use of httpie without compromising on performance and features.
-    *   [HTTPie (⭐28k)](https://github.com/httpie/httpie) - User-friendly command-line HTTP client that simplifies HTTP request/response inspection and manipulation.
-    *   [Insomnia (⭐28k)](https://github.com/Kong/insomnia) - Cross-platform HTTP and GraphQL client designed to make API testing and debugging easier.
-    *   [Postman](https://www.postman.com/product/api-client/) - Comprehensive tool for simplifying API development and testing processes with features such as making HTTP requests, generating mock servers, and creating API documentation.
-    *   [resty (⭐2.6k)](https://github.com/micha/resty) - A Lua framework for building HTTP clients that provides a shell interface for interacting with REST services.
-    *   [SoapUI](https://www.soapui.org/tools/soapui) - Open-source web service testing application designed for testing SOAP and REST web services.
-*   Mocking tools
-    *   [Microcks (⭐853)](https://github.com/microcks/microcks) - Open-source Kubernetes-native tool for API mocking and testing, supporting AsyncAPI, OpenAPI, Postman Collections, etc.
-    *   [Mockable](https://www.mockable.io/) - Simple configurable service to mock out RESTful API or SOAP web-services.
-    *   [Mockoon](https://mockoon.com/) - Easy-to-use tool for designing and running mock REST APIs.
-    *   [MockServer (⭐4.1k)](https://github.com/mock-server/mockserver) - Easy mocking of any system you integrate with via HTTP or HTTPS.
-    *   [Mocky](https://designer.mocky.io/) - Free and unlimited online service for generating custom HTTP responses.
-    *   [Prism (⭐3.5k)](https://github.com/stoplightio/prism) - Open-source HTTP mock server that can mimic your API's behavior as if you already built it.
-    *   [WireMock (⭐5.6k)](https://github.com/tomakehurst/wiremock) - Mock your APIs for fast, robust, and comprehensive testing.
-
-### Projects / BRE
-
-*   [Easy Rules (⭐4.4k)](https://github.com/j-easy/easy-rules) - Simple Java rules engine for straightforward rule processing.
 
 ### Projects / BPM
 
@@ -1028,7 +968,6 @@
 *   [Software AG webMethods Integration Server](https://www.softwareag.com/en_corporate/platform/integration-apis/webmethods-integration.html) - An integration platform that enables faster integration of any application.
 *   [TIBCO BusinessWorks](https://www.tibco.com/products/tibco-businessworks) - A platform that implements enterprise patterns for hybrid integrations.
 *   [UltraESB](https://www.adroitlogic.com/products/ultraesb/) - An ESB that supports zero-copy proxying for extreme performance utilizing Direct Memory Access and Non-Blocking IO.
-*   [WSO2 Enterprise Integrator](https://wso2.com/integration/) - An API-centric, cloud-native, and distributed integration platform designed to provide a robust solution for software engineers.
 
 ### Projects / ETL
 
@@ -1037,7 +976,6 @@
 *   [Informatica PowerCenter](https://www.informatica.com/products/data-integration/powercenter.html) - A trusted enterprise data integration and management software powering analytics for big data and cloud.
 *   [Microsoft SSIS](https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services) - A reliable platform for building enterprise-level data integration and transformation solutions.
 *   [Oracle Data Integrator](https://www.oracle.com/middleware/technologies/data-integrator.html) - A comprehensive data integration platform that covers all data integration requirements, including batch loads, integration processes, and SOA-enabled data services.
-*   [Pentaho Data Integration (⭐6.6k)](https://github.com/pentaho/pentaho-kettle) - A user-friendly platform that enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools, eliminating the need for coding and complexity.
 *   [SAS Data Management](https://www.sas.com/en_us/software/data-management.html) - A robust platform that helps transform, integrate, govern, and secure data while improving its overall quality and reliability.
 *   [Stitch](https://www.stitchdata.com/) - A simple yet powerful ETL service that integrates data from dozens of different sources, ideal for businesses of all sizes.
 *   [Talend Data Integration](https://www.talend.com/products/integrate-data/) - A versatile platform that brings data together from multiple sources to power all your business decisions.
@@ -1082,17 +1020,6 @@
 
 *   [UiPath](https://www.uipath.com/product) - A platform that provides RPA solutions for automating repetitive digital tasks typically performed by people. This solution offers a comprehensive automation platform that enables businesses to automate their processes and increase efficiency.
 
-### Projects / Workflow engine
-
-*   [Apache Airflow (⭐30k)](https://github.com/apache/airflow) - A platform that allows you to create, schedule, and monitor workflows programmatically, making it easier to manage and automate complex data pipelines.
-*   [Argo Workflows (⭐13k)](https://github.com/argoproj/argo-workflows) - An open-source, container-native workflow engine designed to orchestrate parallel jobs on Kubernetes, making it easier to manage and automate complex workflows in a cloud-native environment.
-*   [Azkaban (⭐4.3k)](https://github.com/azkaban/azkaban) - A distributed workflow manager that helps solve the problem of Hadoop job dependencies, making it easier to schedule and manage workflows in large-scale data processing environments.
-*   [Bonita (⭐133)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
-*   [Conductor (⭐9.8k)](https://github.com/Netflix/conductor) - A cloud-based orchestration engine designed to run and manage workflows in a microservices architecture.
-*   [Elsa Core (⭐4.5k)](https://github.com/elsa-workflows/elsa-core) - A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments.
-*   [Flowable (⭐6.4k)](https://github.com/flowable/flowable-engine) - A set of open-source business process engines that are compact and efficient, making it easier to automate business processes in a scalable and reliable way.
-*   [StackStorm (⭐5.5k)](https://github.com/StackStorm/st2) - A robust automation engine that provides sensors, triggers, rules, workflows, and actions to help you automate and orchestrate complex workflows and applications.
-
 ### Integration Patterns / Enterprise Integration Patterns
 
 *   [Durable Subscriber](https://www.enterpriseintegrationpatterns.com/patterns/messaging/DurableSubscription.html) - How can a subscriber avoid missing messages while it is not listening for them?
@@ -1101,8 +1028,6 @@
 
 ### Resources / API Specification
 
-*   [GraphQL (⭐14k)](https://github.com/graphql/graphql-spec) - A sophisticated query language and runtime for building efficient APIs that empowers engineers to retrieve data from existing systems with ease.
-*   [RAML (⭐3.8k)](https://github.com/raml-org/raml-spec/blob/master/versions/raml-10/raml-10.md/) - A RESTful API Modeling Language that allows software engineers to design and create efficient APIs by modeling resources, endpoints, and interactions.
 *   [WSDL](http://www.w3.org/TR/wsdl20) - A powerful XML-based interface description language for SOAP-based services that enables software engineers to describe the functionality of a web service and automate the creation of client code.
 
 ### Resources / Articles
@@ -1117,13 +1042,9 @@
 
 ### Resources / Data Formats
 
-*   [Apache Avro (⭐2.5k)](https://github.com/apache/avro) - Data serialization system that provides compact, fast, and efficient serialization of structured data. It supports schema evolution, allows for efficient data compression, and is designed to work well with big data processing frameworks.
 *   [BSON](https://bsonspec.org/) - Binary-encoded serialization format for JSON-like documents that is designed to be lightweight and efficient. It supports rich data types and is widely used in NoSQL databases, such as MongoDB.
 *   [CSV](https://datatracker.ietf.org/doc/html/rfc4180) - A simple and widely used data format that stores tabular data in plain text. It is easy to read and write, and can be processed by most programming languages.
 *   [JSON](https://datatracker.ietf.org/doc/html/rfc8259) - A lightweight and easy-to-read data format that is widely used for data exchange. It supports a wide range of data types and is compatible with many programming languages.
-*   [NDJSON (⭐561)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
-*   [XML](https://www.w3.org/TR/2006/REC-xml11-20060816/) - A flexible and widely used markup language that is used for storing and exchanging structured data. It supports rich data types and is compatible with many programming languages.
-*   [YAML](https://yaml.org/) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
 ### Resources / Market Analysis
 
@@ -1148,7 +1069,6 @@
 
 ### Resources / Structure and Validation
 
-*   [JSON Schema](https://json-schema.org/) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 *   [XML Schema](https://www.w3.org/TR/xmlschema11-1/) - A schema language that offers facilities for describing the structure and constraining the contents of XML documents. XML Schema enables developers to ensure that XML data conforms to a specific structure, making it easier to process and manipulate.
 
 ## [57. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)

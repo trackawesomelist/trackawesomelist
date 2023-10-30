@@ -76,20 +76,20 @@
 
 ### Network / Barcode
 
-*   [ShadowsocksX-NG (⭐31k)](https://github.com/shadowsocks/ShadowsocksX-NG) - A fast tunnel proxy that helps you bypass firewalls.
+*   [ShadowsocksX-NG (⭐32k)](https://github.com/shadowsocks/ShadowsocksX-NG) - A fast tunnel proxy that helps you bypass firewalls.
 
 ## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Workflow
 
-*   [CoreWF (⭐14)](https://github.com/dmetzgar/corewf/) - Port of Windows Workflow Foundation (WF) to .NET Core.
-*   [workflow-core (⭐4.2k)](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard.
+*   [CoreWF (⭐17)](https://github.com/dmetzgar/corewf/) - Port of Windows Workflow Foundation (WF) to .NET Core.
+*   [workflow-core (⭐4.8k)](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard.
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Third-party APIs
 
-*   [pinboard.cr (⭐6)](https://github.com/oz/pinboard.cr) - [Pinboard](https://pinboard.in) API
+*   [pinboard.cr (⭐5)](https://github.com/oz/pinboard.cr) - [Pinboard](https://pinboard.in) API
 
 ---
 

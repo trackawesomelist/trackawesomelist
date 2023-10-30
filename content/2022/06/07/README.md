@@ -10,29 +10,28 @@
 
 ### validation
 
-*   [Jest-GeoJSON (⭐7)](https://github.com/M-Scott-Lassiter/jest-geojson): an extended set of matcher functions for the Jest Javascript unit testing framework tailored to evaluating GeoJSON data
+*   [Jest-GeoJSON (⭐8)](https://github.com/M-Scott-Lassiter/jest-geojson): an extended set of matcher functions for the Jest Javascript unit testing framework tailored to evaluating GeoJSON data
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Document Management - E-books
 
-*   [Stump](https://www.stumpapp.dev) - A fast, free and open source comics, manga and digital book server with OPDS support. ([Source Code (⭐440)](https://github.com/aaronleopold/stump)) `MIT` `Rust`
+*   [Stump](https://www.stumpapp.dev) - A fast, free and open source comics, manga and digital book server with OPDS support. ([Source Code (⭐563)](https://github.com/stumpapp/stump)) `MIT` `Rust`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [ARRCON (⭐21)](https://github.com/radj307/ARRCON) - Terminal-based RCON client compatible with any game servers using the Source RCON Protocol. `GPL-3.0` `C++`
-*   [LinuxGSM](https://linuxgsm.com/) - CLI tool for deployment and management of dedicated game servers on Linux: more than 120 games are supported. ([Source Code (⭐3.7k)](https://github.com/GameServerManagers/LinuxGSM)) `MIT` `Shell`
-*   [Pterodactyl](https://pterodactyl.io/) - Management panel for game servers, with an intuitive UI for end users. ([Source Code (⭐5k)](https://github.com/pterodactyl/panel)) `MIT` `PHP`
-*   [RconCli (⭐152)](https://github.com/gorcon/rcon-cli) - CLI for executing queries on a remote Valve Source dedicated server using the RCON Protocol. `MIT` `Go`
+*   [ARRCON (⭐34)](https://github.com/radj307/ARRCON) - Terminal-based RCON client compatible with any game servers using the Source RCON Protocol. `GPL-3.0` `C++`
+*   [LinuxGSM](https://linuxgsm.com/) - CLI tool for deployment and management of dedicated game servers on Linux: more than 120 games are supported. ([Source Code (⭐3.9k)](https://github.com/GameServerManagers/LinuxGSM)) `MIT` `Shell`
+*   [Pterodactyl](https://pterodactyl.io/) - Management panel for game servers, with an intuitive UI for end users. ([Source Code (⭐5.4k)](https://github.com/pterodactyl/panel)) `MIT` `PHP`
+*   [RconCli (⭐193)](https://github.com/gorcon/rcon-cli) - CLI for executing queries on a remote Valve Source dedicated server using the RCON Protocol. `MIT` `Go`
 
 ### Software / Pastebins
 
-*   [MicroBin (⭐1.2k)](https://github.com/szabodanika/microbin) - Simple, performant, configurable, entirely self-contained pastebin and URL shortener. `BSD-3-Clause` `Rust`
-*   [Pastila](https://pastila.nl/) - Minimalistic paste service. Single page, zero click experience. ([Source Code (⭐36)](https://github.com/ClickHouse/pastila)) `Apache-2.0` `SQL`
+*   [MicroBin (⭐1.8k)](https://github.com/szabodanika/microbin) - Simple, performant, configurable, entirely self-contained pastebin and URL shortener. `BSD-3-Clause` `Rust/Docker`
 
 ### Software / Self-hosting Solutions
 
-*   [Mars Server (⭐45)](https://github.com/borjapazr/mars-server) - Managed home server with Docker, Docker Compose, Make and Bash. `MIT` `Docker`
+*   [Mars Server (⭐54)](https://github.com/borjapazr/mars-server) - Managed home server with Docker, Docker Compose, Make and Bash. `MIT` `Docker`
 
 ## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -57,12 +56,12 @@
 *   [Sharpie Fine Point Plotter Adapter](https://www.printables.com/model/156721-sharpie-fine-point-plotter-adapter) - 3d-printed adapter to fit a standard Sharpie in an HP-GL plotter.
 *   [Plotter Pen STL Models](https://www.printables.com/model/156722-plotter-pen) - Accurate STL models of both short and long standard plotter pens.
 
-### Software / Plotter-Specific
+### Software / Plotter Control
 
-*   [axidraw (⭐373)](https://github.com/evil-mad/axidraw) - Official AxiDraw extensions for Inkscape.
+*   [axidraw (⭐394)](https://github.com/evil-mad/axidraw) - Official AxiDraw extensions for Inkscape.
 *   [Line-us Inkscape Plugin (⭐7)](https://github.com/Line-us/Inkscape-Plugin) - Sends drawings to the Line-us plotter directly from Inkscape.
-*   [Line-us API Examples (⭐101)](https://github.com/Line-us/Line-us-Programming) - Example code for the Line-us plotter's G-code-based API.
-*   [@beardicus/line-us (⭐24)](https://github.com/beardicus/line-us) - JavaScript library for controlling the Line-us machine from Node or the browser.
+*   [Line-us API Examples (⭐105)](https://github.com/Line-us/Line-us-Programming) - Example code for the Line-us plotter's G-code-based API.
+*   [@beardicus/line-us (⭐25)](https://github.com/beardicus/line-us) - JavaScript library for controlling the Line-us machine from Node or the browser.
 
 ### Inspiration, Instruction, and Research / Fonts
 
@@ -78,7 +77,7 @@
 
 ### Contents / Finance
 
-*   [HADWIN (⭐55)](https://github.com/brownboycodes/HADWIN) - a prototype of a fund transfer platform by [Nabhodipta Garai](https://github.com/brownboycodes).
+*   [HADWIN (⭐66)](https://github.com/brownboycodes/HADWIN) - a prototype of a fund transfer platform by [Nabhodipta Garai](https://github.com/brownboycodes).
 
 ## [7. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -90,15 +89,15 @@
 
 ### Modules / Game engine
 
-*   [caviar (⭐114)](https://github.com/load1n9/caviar) - ⚡ Blazing fast, modern, Game Engine powered by WebGPU for Deno and the browser
+*   [caviar (⭐124)](https://github.com/load1n9/caviar) - ⚡ Blazing fast, modern, Game Engine powered by WebGPU for Deno and the browser
 *   [neko (⭐45)](https://github.com/load1n9/neko) - 🐈 caviar's twin frame buffer deno module with a framebuffer canvas implementation
-*   [sdl2 (⭐109)](https://github.com/littledivy/deno_sdl2) - SDL2 module for Deno
+*   [sdl2 (⭐112)](https://github.com/littledivy/deno_sdl2) - SDL2 module for Deno
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [sortablejs-vue3 (⭐230)](https://github.com/MaxLeiter/sortablejs-vue3) - A Vue 3 component acting as a thin wrapper around SortableJS
+*   [sortablejs-vue3 (⭐287)](https://github.com/MaxLeiter/sortablejs-vue3) - A Vue 3 component acting as a thin wrapper around SortableJS
 
 ### Components & Libraries / UI Utilities
 

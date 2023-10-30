@@ -10,7 +10,7 @@
 
 ### PHP
 
-*   [Fusio (⭐1.2k)](https://github.com/apioo/fusio) - Open source API management platform.
+*   [Fusio (⭐1.3k)](https://github.com/apioo/fusio) - Open source API management platform.
 
 ## [2. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
 
@@ -36,13 +36,13 @@
 
 ### Authorization
 
-*   [canada (⭐433)](https://github.com/jarednorman/canada) - A simple authorization library that provides a friendly interface using declarative permission rules.
+*   [canada (⭐438)](https://github.com/jarednorman/canada) - A simple authorization library that provides a friendly interface using declarative permission rules.
 
 ### Miscellaneous
 
-*   [bupe (⭐76)](https://github.com/milmazz/bupe) - EPUB Generator and Parser.
+*   [bupe (⭐77)](https://github.com/milmazz/bupe) - EPUB Generator and Parser.
 *   [charm (⭐4)](https://github.com/tomgco/elixir-charm) - Use ANSI terminal characters to write colors and cursor positions.
-*   [ecto\_autoslug\_field (⭐144)](https://github.com/sobolevn/ecto_autoslug_field) - Automatically creates slugs for your Ecto models.
+*   [ecto\_autoslug\_field (⭐145)](https://github.com/sobolevn/ecto_autoslug_field) - Automatically creates slugs for your Ecto models.
 
 ### Release Management
 
@@ -58,7 +58,7 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [LinqOptimizer (⭐469)](https://github.com/nessos/LinqOptimizer) - An automatic query optimizer-compiler for Sequential and Parallel LINQ
+*   [LinqOptimizer (⭐476)](https://github.com/nessos/LinqOptimizer) - An automatic query optimizer-compiler for Sequential and Parallel LINQ
 
 ### Continuous Integration
 

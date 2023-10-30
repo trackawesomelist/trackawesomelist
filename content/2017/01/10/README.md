@@ -30,17 +30,17 @@
 
 ### Tools
 
-*   [Antd Init (⭐820)](https://github.com/ant-design/antd-init) - Ant Design boilerplate generator (for demo only, use dva-cli).
+*   [Antd Init (⭐815)](https://github.com/ant-design/antd-init) - Ant Design boilerplate generator (for demo only, use dva-cli).
 
 ## [5. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Datastores / Online resources
 
-*   [Sops (⭐13k)](https://github.com/mozilla/sops) - An editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS and PGP.
+*   [Sops (⭐14k)](https://github.com/mozilla/sops) - An editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS and PGP.
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Threat Intelligence (⭐6.1k)](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of threat intelligence resources.
+*   [Awesome Threat Intelligence (⭐6.6k)](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of threat intelligence resources.
 
 ## [6. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 

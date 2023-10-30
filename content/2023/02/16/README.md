@@ -16,7 +16,7 @@
 
 ### Serialization
 
-*   [FluentSerializer (⭐18)](https://github.com/Marvin-Brouwer/FluentSerializer#readme) - A profile-based Serializer for multiple data-formats.
+*   [FluentSerializer (⭐19)](https://github.com/Marvin-Brouwer/FluentSerializer#readme) - A profile-based Serializer for multiple data-formats.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -28,17 +28,17 @@
 
 ### Helix
 
-*   [PLAY Summit Demo (⭐27)](https://github.com/Sitecore/Sitecore.Demo.Edge) - A demo of XM, Experience Edge, Content Hub DAM and CMP, Content Hub Edge, JSS, CDP, Sitecore Personalize, Next.js and Vercel.
+*   [PLAY Summit Demo (⭐29)](https://github.com/Sitecore/Sitecore.Demo.Edge) - A demo of XM, Experience Edge, Content Hub DAM and CMP, Content Hub Edge, JSS, CDP, Sitecore Personalize, Next.js and Vercel.
 
 ## [5. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Open-source sites / Lists
 
-*   [guide (⭐17)](https://github.com/wagtail/guide) - A website to teach Wagtail to content editors, moderators and administrators.
+*   [guide (⭐21)](https://github.com/wagtail/guide) - A website to teach Wagtail to content editors, moderators and administrators.
 
 ## [6. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
 *   [Terrahaxs](https://www.terrahaxs.com) - A GitOps Terraform CI/CD GitHub Application :heavy\_dollar\_sign:
 
@@ -58,11 +58,11 @@
 
 ### Software / Miscellaneous
 
-*   [mosparo](https://mosparo.io/) - The modern spam protection tool. It replaces other captcha methods with a simple and easy to use spam protection solution. ([Source Code (⭐44)](https://github.com/mosparo/mosparo)) `MIT` `PHP`
+*   [mosparo](https://mosparo.io/) - The modern spam protection tool. It replaces other captcha methods with a simple and easy to use spam protection solution. ([Source Code (⭐94)](https://github.com/mosparo/mosparo)) `MIT` `PHP`
 
 ## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [oh-plugin (⭐2)](https://github.com/mbergo/oh-plugin) - helps you install plugins for [oh-my-zsh](https://ohmyz.sh) by typing `oh-plugin install repository_address`.
 

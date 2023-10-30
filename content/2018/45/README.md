@@ -113,7 +113,7 @@
 
 ### Templates / Misc
 
-*   [Postmark Transactional Email Templates (⭐2.7k)](https://github.com/wildbit/postmark-templates) - Rock-solid email templates for applications.
+*   [Postmark Transactional Email Templates (⭐2.8k)](https://github.com/wildbit/postmark-templates) - Rock-solid email templates for applications.
 
 ## [13. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/week/README.md)
 
@@ -146,36 +146,36 @@
 
 ### Seedboxes / Seedbox Setup Tools and Guides
 
-*   [DockSTARTer (⭐1.8k)](https://github.com/GhostWriters/DockSTARTer) DockSTARTer helps you get started with home server apps running in Docker.
+*   [DockSTARTer (⭐1.9k)](https://github.com/GhostWriters/DockSTARTer) DockSTARTer helps you get started with home server apps running in Docker.
 
 ### Tracker Frameworks / Seedbox Setup Tools and Guides
 
-*   [Torrent-Tracker-Platforms (⭐354)](https://github.com/HDVinnie/Torrent-Tracker-Platforms) A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages
+*   [Torrent-Tracker-Platforms (⭐410)](https://github.com/HDVinnie/Torrent-Tracker-Platforms) A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages
 
 ### Usenet / Seedbox Setup Tools and Guides
 
-*   [Usenet-Uploaders (⭐158)](https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders) Table of applications for uploading content to Usenet
+*   [Usenet-Uploaders (⭐176)](https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders) Table of applications for uploading content to Usenet
 *   [QuickPar](http://www.quickpar.org.uk/index.htm) Tool for reconstructing damaged/missing/corrupt Usenet binaries
 
 ### Plex Plugins / Third Party Hosts
 
 *   [Official Plex Plugins](https://github.com/plexinc-plugins) Repos for every official Plex Inc. plugin
-*   [FMoviesPlus.bundle (⭐52)](https://github.com/coder-alpha/FMoviesPlus.bundle) Plex Media Server plug-in designed for FMovies, G2G, Primewire and more.
+*   [FMoviesPlus.bundle (⭐58)](https://github.com/coder-alpha/FMoviesPlus.bundle) Plex Media Server plug-in designed for FMovies, G2G, Primewire and more.
 
 ### Plex Scripts and Tools / Third Party Hosts
 
-*   [NowShowing (⭐72)](https://github.com/ninthwalker/NowShowing) Generates an email and web page of Plex recently added content
+*   [NowShowing (⭐70)](https://github.com/ninthwalker/NowShowing) Generates an email and web page of Plex recently added content
 
 ### Kodi / Third Party Hosts
 
 *   [Yoda](http://supremacy.org.uk/zip/repo/) Another solid Exodus/Covenant fork, and this time it's from S-media.
 *   [Exodus Redux](https://www.reddit.com/r/Addons4Kodi/comments/9tasx5/requests_recommendations_basics_november_2018/e8uti6w) The newest Exodus fork around, paired with LambdaScrapers.
-*   [Sparkle (⭐40)](https://github.com/iwannabelikemike/plugin.video.sparkle) Kodi addon for finding acestream links
+*   [Sparkle (⭐41)](https://github.com/iwannabelikemike/plugin.video.sparkle) Kodi addon for finding acestream links
 *   [Plexus](http://fusion.tvaddons.co/) Plexus is used in conjunction with Sparkle to play Ace Stream links.
 
 ### Gaming / Third Party Hosts
 
-*   [SmartSteamEmu (⭐342)](https://github.com/MAXBURAOT/SmartSteamEmu) Steam emulator
+*   [SmartSteamEmu (⭐367)](https://github.com/MAXBURAOT/SmartSteamEmu) Steam emulator
 
 ### Courses and Tutorials / Third Party Hosts
 
@@ -183,7 +183,7 @@
 
 ### Movie Automation / Third Party Hosts
 
-*   [Watcher (⭐277)](https://github.com/nosmokingbandit/Watcher3) Watcher is an automated movie NZB & Torrent searcher and snatcher.
+*   [Watcher (⭐278)](https://github.com/nosmokingbandit/Watcher3) Watcher is an automated movie NZB & Torrent searcher and snatcher.
 
 ### Ripping, Transcoding, Converting, Encoding / Third Party Hosts
 
@@ -199,7 +199,7 @@
 
 ### Dashboards and Homepages / Third Party Hosts
 
-*   [Logarr (⭐254)](https://github.com/Monitorr/logarr) "Logarr" is a self-hosted, PHP-based, single-page log consolidation tool which formats and displays log files for easy analysis.
+*   [Logarr (⭐263)](https://github.com/Monitorr/logarr) "Logarr" is a self-hosted, PHP-based, single-page log consolidation tool which formats and displays log files for easy analysis.
 
 ### Miscellaneous / Third Party Hosts
 
@@ -251,7 +251,7 @@
 
 ### Packages / Filesystem
 
-*   [move-file (⭐191)](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
+*   [move-file (⭐198)](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
 
 ## [22. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
@@ -320,19 +320,19 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Access to Memory (AtoM)](https://www.accesstomemory.org/) - Web-based, open source application for standards-based archival description and access in a multilingual, multi-repository environment. ([Demo](https://demo.accesstomemory.org/), [Source Code (⭐206)](https://github.com/artefactual/atom)) `AGPL-3.0` `PHP`
+*   [Access to Memory (AtoM)](https://www.accesstomemory.org/) - Web-based, open source application for standards-based archival description and access in a multilingual, multi-repository environment. ([Demo](https://demo.accesstomemory.org/), [Source Code (⭐222)](https://github.com/artefactual/atom)) `AGPL-3.0` `PHP`
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Scoold](https://scoold.com) - Stack Overflow in a JAR. An enterprise-ready Q\&A platform with full-text search, SAML, LDAP integration and social login support. ([Demo](https://live.scoold.com), [Source Code (⭐741)](https://github.com/Erudika/scoold)) `Apache-2.0` `Java`
+*   [Scoold](https://scoold.com) - Stack Overflow in a JAR. An enterprise-ready Q\&A platform with full-text search, SAML, LDAP integration and social login support. ([Demo](https://live.scoold.com), [Source Code (⭐776)](https://github.com/Erudika/scoold)) `Apache-2.0` `Java/Docker/K8S`
 
 ### Software / Content Management Systems (CMS)
 
-*   [Expressa (⭐411)](https://github.com/thomas4019/expressa) - Content Management System for powering database driven websites using JSON schemas. Provides permission management and automatic REST APIs. `MIT` `Nodejs`
+*   [Expressa (⭐417)](https://github.com/thomas4019/expressa) - Content Management System for powering database driven websites using JSON schemas. Provides permission management and automatic REST APIs. `MIT` `Nodejs`
 
 ### Software / Personal Dashboards
 
-*   [Organizr (⭐4.4k)](https://github.com/causefx/Organizr) - Organizr aims to be your one stop shop for your Servers Frontend. `GPL-3.0` `PHP`
+*   [Organizr (⭐4.6k)](https://github.com/causefx/Organizr) - Organizr aims to be your one stop shop for your Servers Frontend. `GPL-3.0` `PHP/Docker`
 
 ## [32. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -385,13 +385,21 @@
 
 *   [Kf](https://kf-sass.com) - Sass mixin library for creating keyframe-based animations from maps.
 
-## [37. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [37. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### JavaScript / Elm
+
+*   [An Introduction to Elm](https://guide.elm-lang.org) (HTML)
+*   [Elm Programming Language](https://en.wikibooks.org/wiki/Elm_programming_language) (HTML)
+*   [Learn You an Elm](https://learnyouanelm.github.io) (HTML)
+
+## [38. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
 *   [Less Risk Through Greater Humanity - Dave Rensin](https://www.youtube.com/watch?v=0zqBlRW_6jA)
 
-## [38. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [39. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Blog posts
 
@@ -403,7 +411,7 @@
 *   [Operiant](https://operiant.com) - Connect your event streams to actions.
 *   [TriggerMesh](https://triggermesh.com) - Serverless cloud with a library of event triggers to enable hybrid cloud and workload portability.
 
-## [39. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [40. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Integrated Development Environments
 
@@ -446,17 +454,11 @@
 
 *   [sinew (⭐157)](https://github.com/metrumresearchgroup/sinew) - Generate roxygen2 skeletons populated with information scraped from the function script.
 
-## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [41. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / External Resources
 
 *   [Vue School](https://vueschool.io) - Learn Vue.js from video courses by core members and industry experts
-
-## [41. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
-
-### Apps
-
-*   [xfce-screenshooter-ipfs-support (⭐7)](https://github.com/amar-laksh/xfce-screenshooter-ipfs-support) - A fork of xfce-screenshooter with IPFS support!
 
 ## [42. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
@@ -472,28 +474,28 @@
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
-*   [openiddict (⭐3k)](https://github.com/openiddict/openiddict-core) - Easy-to-use OpenID Connect server for ASP.NET Core.
-    *   [oidc-debugger (⭐172)](https://github.com/nbarbettini/oidc-debugger) - OAuth 2.0 and OpenID Connect debugging tool.
+*   [openiddict (⭐3.8k)](https://github.com/openiddict/openiddict-core) - Easy-to-use OpenID Connect server for ASP.NET Core.
+    *   [oidc-debugger (⭐201)](https://github.com/nbarbettini/oidc-debugger) - OAuth 2.0 and OpenID Connect debugging tool.
 
 ### Frameworks, Libraries and Tools / Blockchain
 
-*   [WalletWasabi (⭐1.7k)](https://github.com/zkSNACKs/WalletWasabi) - Privacy focused, ZeroLink compliant Bitcoin wallet.
+*   [WalletWasabi (⭐1.9k)](https://github.com/zkSNACKs/WalletWasabi) - Privacy focused, ZeroLink compliant Bitcoin wallet.
 
 ### Frameworks, Libraries and Tools / Database Tools and Utilities
 
-*   [TrackableEntities.Core (⭐63)](https://github.com/TrackableEntities/TrackableEntities.Core) - Change-tracking across service boundaries with .NET Core.
+*   [TrackableEntities.Core (⭐67)](https://github.com/TrackableEntities/TrackableEntities.Core) - Change-tracking across service boundaries with .NET Core.
 
 ### Frameworks, Libraries and Tools / Functional Programming
 
-*   [sodium (⭐808)](https://github.com/SodiumFRP/sodium/tree/master/) - Functional Reactive Programming (FRP) Library. `4.x.x or above`
+*   [sodium (⭐825)](https://github.com/SodiumFRP/sodium/tree/master/) - Functional Reactive Programming (FRP) Library. `4.x.x or above`
 
 ### Frameworks, Libraries and Tools / Networking
 
-*   [Networker (⭐455)](https://github.com/MarkioE/Networker) - A simple to use TCP and UDP networking library for .NET, designed to be flexible, scalable and FAST.
+*   [Networker (⭐470)](https://github.com/MarkioE/Networker) - A simple to use TCP and UDP networking library for .NET, designed to be flexible, scalable and FAST.
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [Rin (⭐316)](https://github.com/mayuki/Rin) - Request/response Inspector middleware for ASP.NET Core. like Glimpse.
+*   [Rin (⭐327)](https://github.com/mayuki/Rin) - Request/response Inspector middleware for ASP.NET Core. like Glimpse.
 
 ## [44. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -505,8 +507,8 @@
 
 ### CLI
 
-*   [linenoise (⭐3.3k)](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit. \[BSD-2-Clause]
-*   [linenoise-ng (⭐343)](https://github.com/arangodb/linenoise-ng) - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. \[BSD]
+*   [linenoise (⭐3.4k)](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit. \[BSD-2-Clause]
+*   [linenoise-ng (⭐350)](https://github.com/arangodb/linenoise-ng) - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. \[BSD]
 
 ### Networking
 
@@ -523,7 +525,7 @@
 
 ### Theming
 
-*   [antd-theme-webpack-plugin (⭐364)](https://github.com/mzohaibqc/antd-theme-webpack-plugin) - A webpack plugin to generate your custom theme file.
+*   [antd-theme-webpack-plugin (⭐370)](https://github.com/mzohaibqc/antd-theme-webpack-plugin) - A webpack plugin to generate your custom theme file.
 *   [antd-theme-generator (⭐358)](https://github.com/mzohaibqc/antd-theme-generator) - A simple script to generate theme specific less file which can be used in any environment.
 
 ### Design Tools and Resources / Themes
@@ -534,22 +536,22 @@
 
 ### Angular / Themes
 
-*   [NG-ZORRO-Mobile (⭐772)](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - Ant Design Mobile of Angular
+*   [NG-ZORRO-Mobile (⭐786)](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - Ant Design Mobile of Angular
 *   [ng-alain](https://ng-alain.com/) - ng-zorro-antd admin panel front-end framework.
 
 ### Vue.js / Themes
 
-*   [ant-design-vue (⭐18k)](https://github.com/vueComponent/ant-design-vue) - Ant Design of Vue.js 2.5.0+.
-*   [antue (⭐257)](https://github.com/zzuu666/antue) - A set of enterprise-class Vue UI components, following the Ant Design specification completely.
-*   [vue-antd-admin (⭐3.2k)](https://github.com/iczer/vue-antd-admin) - Ant Design Pro's implementation with Vue
+*   [ant-design-vue (⭐19k)](https://github.com/vueComponent/ant-design-vue) - Ant Design of Vue.js 2.5.0+.
+*   [antue (⭐256)](https://github.com/zzuu666/antue) - A set of enterprise-class Vue UI components, following the Ant Design specification completely.
+*   [vue-antd-admin (⭐3.5k)](https://github.com/iczer/vue-antd-admin) - Ant Design Pro's implementation with Vue
 
 ### Components / Themes
 
-*   [antd-amplify-react (⭐55)](https://github.com/mzohaibqc/antd-amplify-react) - A collection of Ant Design component for Aws Amplify for Authentication
+*   [antd-amplify-react (⭐57)](https://github.com/mzohaibqc/antd-amplify-react) - A collection of Ant Design component for Aws Amplify for Authentication
 
 ### Icons / Themes
 
-*   [Official Ant Design Icons (⭐772)](http://github.com/ant-design/ant-design-icons)
+*   [Official Ant Design Icons (⭐841)](http://github.com/ant-design/ant-design-icons)
 
 ### Other / Themes
 
@@ -560,11 +562,11 @@
 
 ### Camera / Barcode
 
-*   [EFQRCode (⭐4.4k)](https://github.com/EFPrefix/EFQRCode) - A better way to operate quick response code.
+*   [EFQRCode (⭐4.5k)](https://github.com/EFPrefix/EFQRCode) - A better way to operate quick response code.
 
 ### Button / Barcode
 
-*   [AHDownloadButton (⭐475)](https://github.com/amerhukic/AHDownloadButton) - Customizable download button with progress and transition animations. It is based on Apple's App Store download button.
+*   [AHDownloadButton (⭐478)](https://github.com/amerhukic/AHDownloadButton) - Customizable download button with progress and transition animations. It is based on Apple's App Store download button.
 
 ### Menu / Barcode
 
@@ -572,7 +574,7 @@
 
 ### UICollectionView / Barcode
 
-*   [UICollectionViewSplitLayout (⭐239)](https://github.com/yahoojapan/UICollectionViewSplitLayout) - UICollectionViewSplitLayout makes collection view more responsive.
+*   [UICollectionViewSplitLayout (⭐240)](https://github.com/yahoojapan/UICollectionViewSplitLayout) - UICollectionViewSplitLayout makes collection view more responsive.
 
 ### Walkthrough / Barcode
 
@@ -582,7 +584,7 @@
 
 ### Tools / Java
 
-*   [WebDriverManager (⭐2.1k)](https://github.com/bonigarcia/webdrivermanager) - Automatic management of Selenium WebDriver binaries.
+*   [WebDriverManager (⭐2.3k)](https://github.com/bonigarcia/webdrivermanager) - Automatic management of Selenium WebDriver binaries.
 
 ## [49. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
@@ -594,15 +596,11 @@
 
 ### IO/Storage
 
-*   [FilePicker-Plugin-for-Xamarin ★37 (⭐155)](https://github.com/jfversluis/FilePicker-Plugin-for-Xamarin-and-Windows) - Simple cross-platform plug-in that allows you to pick files and work with them.
-
-### UI
-
-*   [Syncfusion Components](https://www.syncfusion.com/xamarin-ui-controls) - Rich set of UI components and file format libraries for Xamarin.Forms, Xamarin.iOS and Xamarin.Android applications.
+*   [FilePicker-Plugin-for-Xamarin ★37 (⭐156)](https://github.com/jfversluis/FilePicker-Plugin-for-Xamarin-and-Windows) - Simple cross-platform plug-in that allows you to pick files and work with them.
 
 ### Xamarin.Forms
 
-*   [Xamarin.Forms.EntryAutoComplete (⭐38)](https://github.com/krzysztofstepnikowski/Xamarin.Forms.EntryAutoComplete) - Custom control which functionality provides you with suggestions while typing. There are several modes of suggestions. The suggested text can be displayed in a drop-down list so that you can choose from different options.
+*   [Xamarin.Forms.EntryAutoComplete (⭐37)](https://github.com/krzysztofstepnikowski/Xamarin.Forms.EntryAutoComplete) - Custom control which functionality provides you with suggestions while typing. There are several modes of suggestions. The suggested text can be displayed in a drop-down list so that you can choose from different options.
 
 ## [51. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
@@ -624,25 +622,25 @@
 
 ### Business Intelligence
 
-*   [FastReport (⭐2.3k)](https://github.com/FastReports/FastReport) - The open source report generator for .NET Core 2.x/.Net Framework 4.x. FastReport can be used in ASP.NET MVC, Web API applications.
+*   [FastReport (⭐2.4k)](https://github.com/FastReports/FastReport) - The open source report generator for .NET Core 2.x/.Net Framework 4.x. FastReport can be used in ASP.NET MVC, Web API applications.
 
 ### IoC
 
-*   [DryIoc (⭐861)](https://github.com/dadhi/DryIoc) - Simple, fast all fully featured IoC container.
-*   [Stashbox (⭐121)](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
+*   [DryIoc (⭐918)](https://github.com/dadhi/DryIoc) - Simple, fast all fully featured IoC container.
+*   [Stashbox (⭐130)](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
 
 ## [53. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Advanced datastructures
 
-*   [Persistent AVL trees (⭐122)](https://github.com/clojure/data.avl): persistent sorted maps and sets with log-time rank queries
+*   [Persistent AVL trees (⭐123)](https://github.com/clojure/data.avl): persistent sorted maps and sets with log-time rank queries
 *   [Finger Tree (⭐212)](https://github.com/clojure/data.finger-tree): double-list, counted-double-list, counted-sorted-set
 *   [Hitchhiker Tree (⭐1.2k)](https://github.com/datacrypt-project/hitchhiker-tree): create fast, snapshottable, massively scalable databases
 *   [Hierarchical set (⭐7)](https://github.com/llasram/hier-set)
-*   [Ordered (⭐242)](https://github.com/amalloy/ordered): ordered sets and maps
-*   [Lazy Map (⭐48)](https://github.com/Malabarba/lazy-map-clojure): whose values are only calculated when accessed
+*   [Ordered (⭐245)](https://github.com/amalloy/ordered): ordered sets and maps
+*   [Lazy Map (⭐49)](https://github.com/Malabarba/lazy-map-clojure): whose values are only calculated when accessed
 *   [Durable Queue (⭐376)](https://github.com/Factual/durable-queue): queue persisted on disk
-*   [bifurcan (⭐925)](https://github.com/lacuna/bifurcan): linear map/set/list (stores entries contiguously in memory), ;writtern in java, but test suite (read: usage examples) [in clojure (⭐925)](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
+*   [bifurcan (⭐926)](https://github.com/lacuna/bifurcan): linear map/set/list (stores entries contiguously in memory), ;writtern in java, but test suite (read: usage examples) [in clojure (⭐926)](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
 
 ---
 

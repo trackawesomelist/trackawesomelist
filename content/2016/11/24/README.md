@@ -62,7 +62,7 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 ### Frameworks, Libraries and Tools / Mail
 
-*   [SendGrid Client (⭐14)](https://github.com/0xdeafcafe/sendgrid-dotnet) - C# library for the SendGrid v3 mail endpoint.
+*   [SendGrid Client (⭐15)](https://github.com/0xdeafcafe/sendgrid-dotnet) - C# library for the SendGrid v3 mail endpoint.
 
 ## [8. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 

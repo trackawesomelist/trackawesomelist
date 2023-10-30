@@ -16,7 +16,7 @@
 
 ### Elixir/Erlang / Data Visualization
 
-*   [Prop (⭐36)](https://github.com/fremantle-industries/prop) - An open and opinionated trading platform using productive & familiar open source libraries and tools for strategy research, execution and operation.
+*   [Prop (⭐39)](https://github.com/fremantle-industries/prop) - An open and opinionated trading platform using productive & familiar open source libraries and tools for strategy research, execution and operation.
 
 ## [3. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Databases & Spreadsheets
 
-*   [Supabase](https://supabase.io/) - Hosted and open source managed postgres DB like firebase.
+*   [Supabase](https://supabase.io/) - Hosted and open source managed postgres DB like firebase. ![Supabase](https://img.shields.io/github/contributors-anon/supabase/supabase?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ## [5. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -36,7 +36,7 @@
 
 *   [LiteCoin](https://litecoin.org/)  is a peer-to-peer Internet currency that enables instant payments to anyone in the world (was based on Bitcoin)
 
-### General
+### Protocols
 
 *   [Solidproject.org](https://solidproject.org/) Solid is a project lead by Tim Berners Lee that aims to re-decentralize the web. Solid (derived from "social linked data") is a proposed set of conventions and tools for building decentralized Web applications based on Linked Data principles. Solid is modular and extensible. It relies as much as possible on existing W3C standards and protocols. You can find more information also at [Inrupt](https://inrupt.com/solid) and [Solid MIT](https://solid.mit.edu/) webpages
 
@@ -82,7 +82,7 @@
 
 ### Font
 
-*   [Fontshare](https://www.fontshare.com/) - is a free fonts service. It’s a growing collection of professional grade fonts that are 100% free for personal and commercial use.
+*   [Fontshare](https://www.fontshare.com/) - is a free fonts service. It’s a growing collection of professional-grade fonts, 100% free for personal and commercial use.
 
 ## [12. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -104,7 +104,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [EdenEast/nightfox.nvim (⭐2.1k)](https://github.com/EdenEast/nightfox.nvim) - A soft dark, fully customizable Neovim theme, with support for lsp, treesitter and a variety of plugins.
+*   [EdenEast/nightfox.nvim (⭐2.4k)](https://github.com/EdenEast/nightfox.nvim) - A soft dark, fully customizable Neovim theme, with support for lsp, treesitter and a variety of plugins.
 
 ## [14. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
@@ -114,16 +114,16 @@
 
 ### WSL Tools / WSL Utilities
 
-*   [vim-wsl-copy-paste (⭐8)](https://github.com/Konfekt/vim-wsl-copy-paste) -  Adds mappings in Vim to write and read on the Windows clipboard.
+*   [vim-wsl-copy-paste (⭐10)](https://github.com/Konfekt/vim-wsl-copy-paste) -  Adds mappings in Vim to write and read on the Windows clipboard.
     . ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [15. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Large Language Models / Contribute to Our Repository
+### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
 *   [Integrated AI: How to talk to AI for free using nine platforms (Megatron, GPT-3, GPT-J, Wudao, J1..) - YouTube](https://www.youtube.com/watch?v=yWM_8QwLyuY\&list=LL\&index=1\&t=17s) by Dr Alan D. Thompson. The following references came from this video description
 
-### Inbox: Large Language Models / Text-related Generative Tools
+### Inbox: Large Language Models (LLMs) / Text-related Generative Tools
 
 *   [InferKit](https://app.inferkit.com/demo)
 *   [CopyHat](https://copyhat.com/)

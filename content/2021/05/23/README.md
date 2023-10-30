@@ -10,7 +10,7 @@
 
 ### WSL Tools / Miscellaneous Tools
 
-*   [easyWSL (⭐494)](https://github.com/redcode-labs/easyWSL) - Use any Docker image as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [easyWSL (⭐515)](https://github.com/redcode-labs/easyWSL) - Use any Docker image as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [2. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -38,25 +38,25 @@
 
 ### Development / Books
 
-*   [grex (⭐6.1k)](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
+*   [grex (⭐6.2k)](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
 
 ### Development / Devops
 
-*   [PingMe (⭐640)](https://github.com/kha7iq/pingme) - Send messages/alerts to multiple messaging platforms & email.
+*   [PingMe (⭐664)](https://github.com/kha7iq/pingme) - Send messages/alerts to multiple messaging platforms & email.
 
 ### Development / Release
 
-*   [semantic-release (⭐18k)](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing.
+*   [semantic-release (⭐19k)](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing.
 
 ### Utilities / Markdown
 
 *   [DocToc (⭐4k)](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files.
-*   [grip (⭐6k)](https://github.com/joeyespo/grip) - Preview markdown files as GitHub would render them.
+*   [grip (⭐6.1k)](https://github.com/joeyespo/grip) - Preview markdown files as GitHub would render them.
 *   [mdv (⭐1.7k)](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
 
 ### Data Manipulation / Text
 
-*   [stegcloak (⭐2.9k)](https://github.com/kurolabs/stegcloak) - Hide secrets with invisible characters in plain text securely.
+*   [stegcloak (⭐3k)](https://github.com/kurolabs/stegcloak) - Hide secrets with invisible characters in plain text securely.
 
 ### Files and Directories / File Managers
 
@@ -64,20 +64,20 @@
 
 ### Files and Directories / Deleting, Copying, and Renaming
 
-*   [rename-cli (⭐153)](https://github.com/jhotmann/node-rename-cli) - Rename files quickly.
-*   [diskonaut (⭐1.7k)](https://github.com/imsnif/diskonaut) - Disk space navigator.
+*   [rename-cli (⭐156)](https://github.com/jhotmann/node-rename-cli) - Rename files quickly.
+*   [diskonaut (⭐1.9k)](https://github.com/imsnif/diskonaut) - Disk space navigator.
 
 ### Files and Directories / Files
 
-*   [unix-permissions (⭐119)](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions.
-*   [entr (⭐3.1k)](https://github.com/eradman/entr) - Run an arbitrary command when files change.
-*   [organize-cli (⭐305)](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
+*   [unix-permissions (⭐121)](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions.
+*   [entr (⭐3.4k)](https://github.com/eradman/entr) - Run an arbitrary command when files change.
+*   [organize-cli (⭐311)](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
 *   [organize-rt](https://gitlab.com/FixFromDarkness/organize-rt) - organize-cli in Rust with more customization.
 
 ### Files and Directories / File Sync/Sharing
 
-*   [rclone (⭐38k)](https://github.com/ncw/rclone) - Sync files with various cloud providers.
-*   [ffsend (⭐6.5k)](https://github.com/timvisee/ffsend) - Quick file share.
+*   [rclone (⭐40k)](https://github.com/ncw/rclone) - Sync files with various cloud providers.
+*   [ffsend (⭐6.7k)](https://github.com/timvisee/ffsend) - Quick file share.
 
 ## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-scrollama (⭐416)](https://github.com/vgshenoy/vue-scrollama) - A Vue component to easily setup scroll-driven interactions (aka scrollytelling).
+*   [vue-scrollama (⭐425)](https://github.com/vgshenoy/vue-scrollama) - A Vue component to easily setup scroll-driven interactions (aka scrollytelling).
 
 ## [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -99,13 +99,13 @@
 
 ### Uncategorized
 
-*   [CrowdSec (⭐6.6k)](https://github.com/crowdsecurity/crowdsec) - An open-source, modernized and collaborative fail2ban.
+*   [CrowdSec (⭐7.1k)](https://github.com/crowdsecurity/crowdsec) - An open-source, modernized and collaborative fail2ban.
 
 ## [8. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Miscellaneous
 
-*   [OPCache Preloader (⭐8)](https://github.com/cnizzardini/cakephp-preloader) - An OPCache Preloader for CakePHP 4.x applications.
+*   🍰 [OPCache Preloader (⭐8)](https://github.com/cnizzardini/cakephp-preloader) - An OPCache Preloader for CakePHP applications.
 
 ## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -117,7 +117,7 @@
 
 ### Completion / Diagnostics
 
-*   [simrat39/rust-tools.nvim (⭐1.8k)](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in Rust using Neovim's builtin LSP.
+*   [simrat39/rust-tools.nvim (⭐2k)](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in Rust using Neovim's builtin LSP.
 
 ## [11. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 

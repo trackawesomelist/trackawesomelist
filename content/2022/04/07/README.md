@@ -10,13 +10,13 @@
 
 ### Logging
 
-*   [Ougai (⭐240)](https://github.com/tilfin/ougai) - A structured logging system that is capable of handling a message, structured data, or an exception easily. It has JSON and human-readable formatters.
+*   [Ougai (⭐246)](https://github.com/tilfin/ougai) - A structured logging system that is capable of handling a message, structured data, or an exception easily. It has JSON and human-readable formatters.
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Audio and Music
 
-*   [insomnimus/nodi (⭐7)](https://github.com/insomnimus/nodi) \[[nodi](https://crates.io/crates/nodi)] — A library for playback and abstraction of MIDI files. [![build badge](https://github.com/insomnimus/nodi/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/insomnimus/nodi/actions)
+*   [insomnimus/nodi (⭐10)](https://github.com/insomnimus/nodi) \[[nodi](https://crates.io/crates/nodi)] — A library for playback and abstraction of MIDI files. [![build badge](https://github.com/insomnimus/nodi/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/insomnimus/nodi/actions)
 
 ## [3. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -38,47 +38,42 @@
 
 ## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [wordle (⭐3)](https://github.com/zechris/zwordle) - Wordle for ZSH, with tab-completions.
-
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
-
-*   [rei (arturoalviar) (⭐0)](https://github.com/arturoalviar/rei-zsh-theme) - A simple theme with the first character 零(rei), the number 0. Includes `git` status decorations.
-*   [rei (eilaluth) (⭐2)](https://github.com/Eilaluth/rei/) - A minimalist theme with current directory and `git` status decorations.
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Testing
 
-*   [Cypress Recorder by Preflight](https://cypress.preflight.com/) - Create AI-powered Cypress Tests/POM models on your browser. It's open-source except for the AI part. It's free for 5 test creations each month with Self-healing scripts, Email, and Visual testing.
+*   [Cypress Recorder by Preflight](https://cypress.preflight.com/) - Create AI-powered Cypress Tests/POM models on your browser. It's open-source, except for the AI part. It's free for five monthly test creations with Self-healing scripts, Email, and Visual testing.
 
 ## [8. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Loader
 
-*   [react-loader-spinner (⭐776)](https://github.com/mhnpd/react-loader-spinner) - Collection set of react-spinner for async operation.
+*   [react-loader-spinner (⭐864)](https://github.com/mhnpd/react-loader-spinner) - Collection set of react-spinner for async operation.
 
 ### Form Components / Miscellaneous
 
-*   [@anatoliygatt/numeric-stepper (⭐148)](https://github.com/anatoliygatt/numeric-stepper) - [demo](https://codesandbox.io/s/demo-for-anatoliygatt-numeric-stepper-mllfyl) - A fully themeable and accessible numeric stepper component.
+*   [@anatoliygatt/numeric-stepper (⭐154)](https://github.com/anatoliygatt/numeric-stepper) - [demo](https://codesandbox.io/s/demo-for-anatoliygatt-numeric-stepper-mllfyl) - A fully themeable and accessible numeric stepper component.
 
 ### Data Store / Mouse Events
 
-*   [synergies (⭐10)](https://github.com/lukasbach/synergies) - [docs](https://synergies.js.org) A performant and distributed context-state library for creating reusable React state logic by synergyzing atomar context pieces.
+*   [synergies (⭐9)](https://github.com/lukasbach/synergies) - [docs](https://synergies.js.org) A performant and distributed context-state library for creating reusable React state logic by synergyzing atomar context pieces.
 
 ## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Editing Support / Diagnostics
 
-*   [gbprod/substitute.nvim (⭐302)](https://github.com/gbprod/substitute.nvim) - Neovim plugin introducing a new operator motions to quickly replace and exchange text.
-*   [gbprod/yanky.nvim (⭐417)](https://github.com/gbprod/yanky.nvim) - Improved Yank and Put functionalities.
+*   [gbprod/substitute.nvim (⭐366)](https://github.com/gbprod/substitute.nvim) - Neovim plugin introducing a new operator motions to quickly replace and exchange text.
+*   [gbprod/yanky.nvim (⭐570)](https://github.com/gbprod/yanky.nvim) - Improved Yank and Put functionalities.
 
 ## [10. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Tools - Docs / React
 
-*   [spectaql (⭐869)](https://github.com/anvilco/spectaql) - Autogenerate static GraphQL API documentation.
+*   [spectaql (⭐980)](https://github.com/anvilco/spectaql) - Autogenerate static GraphQL API documentation.
 
 ---
 

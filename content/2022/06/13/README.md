@@ -16,7 +16,7 @@
 
 ### Reading
 
-*   [scriptable-pocket-widget (⭐6)](https://github.com/brianseidman/scriptable-pocket-widget) - Shows unread or favorited Pocket articles.
+*   [scriptable-pocket-widget (⭐11)](https://github.com/brianseidman/scriptable-pocket-widget) - Shows unread or favorited Pocket articles.
 
     <img src="https://github.com/brianseidman/scriptable-pocket-widget/raw/72495ad9cc488b9790bb2ee6eac8dcedcf36dd96/Resources/scriptable-pocket-widget-image.png" width=400 alt="Scriptable Pocket Widget Screenshot">
 
@@ -24,38 +24,38 @@
 
 ### Related / Other
 
-*   [How They Load Test (⭐39)](https://github.com/aliesbelik/how-they-load) - A curated collection of publicly available resources on how companies around the world perform load testing.
-*   [Load Testing Toolkit (⭐94)](https://github.com/aliesbelik/load-testing-toolkit) - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+*   [How They Load Test (⭐50)](https://github.com/aliesbelik/how-they-load) - A curated collection of publicly available resources on how companies around the world perform load testing.
+*   [Load Testing Toolkit (⭐111)](https://github.com/aliesbelik/load-testing-toolkit) - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
 
 ## [4. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [Screen 13 (⭐148)](https://github.com/attackgoat/screen-13) - An easy-to-use Vulkan rendering engine. Provides a render graph for Rust.
+*   :tada: [Screen 13 (⭐182)](https://github.com/attackgoat/screen-13) - An easy-to-use Vulkan rendering engine. Provides a render graph for Rust.
 
 ## [5. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Libraries
 
 *   Low Level
-    *   [Vulkan Memory Allocator (⭐1.9k)](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) - Easy to integrate Vulkan memory allocation library from AMD. \[MIT]
+    *   [Vulkan Memory Allocator (⭐2.1k)](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) - Easy to integrate Vulkan memory allocation library from AMD. \[MIT]
         *   \[VulkanMemoryAllocator-Hpp] ([https://github.com/malte-v/VulkanMemoryAllocator-Hpp (⭐36)](https://github.com/malte-v/VulkanMemoryAllocator-Hpp)) - C++ Bindings for VMA, like Vulkan-HPP
     *   [Fossilize (⭐33)](https://github.com/Themaister/Fossilize) - serialization format for various persistent Vulkan object types. \[MIT]
-    *   [vk-bootstrap (⭐455)](https://github.com/charles-lunarg/vk-bootstrap) - C++ utility library to jump start Vulkan development by automating instance, physical device, device, and swapchain creation. \[MIT]
-    *   [Google's vulkan-cpp-library (⭐249)](https://github.com/google/vulkan-cpp-library) - Vulkan abstraction library using C++11 for memory, resource management, type and thread safety as well as system independency. \[Apache]
-    *   [FrameGraph (⭐375)](https://github.com/azhirnov/FrameGraph) - Vulkan abstraction layer that represent frame as a task graph. \[BSD 2-clause]
-    *   [V-EZ (⭐804)](https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ) - light-weight middleware layer for the Vulkan API targeting Professional Workstation ISVs. \[MIT]
-    *   [Vookoo (⭐489)](https://github.com/andy-thomason/Vookoo) - Vookoo is a set of dependency-free utilities to assist in the construction and updating of Vulkan graphics data structres. \[MIT]
-    *   [vpp (⭐263)](https://github.com/nyorain/vpp) - Modern C++ Vulkan Abstraction focused on performance and a straightforward interface. \[MIT]
+    *   [vk-bootstrap (⭐515)](https://github.com/charles-lunarg/vk-bootstrap) - C++ utility library to jump start Vulkan development by automating instance, physical device, device, and swapchain creation. \[MIT]
+    *   [Google's vulkan-cpp-library (⭐248)](https://github.com/google/vulkan-cpp-library) - Vulkan abstraction library using C++11 for memory, resource management, type and thread safety as well as system independency. \[Apache]
+    *   [FrameGraph (⭐388)](https://github.com/azhirnov/FrameGraph) - Vulkan abstraction layer that represent frame as a task graph. \[BSD 2-clause]
+    *   [V-EZ (⭐826)](https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ) - light-weight middleware layer for the Vulkan API targeting Professional Workstation ISVs. \[MIT]
+    *   [Vookoo (⭐512)](https://github.com/andy-thomason/Vookoo) - Vookoo is a set of dependency-free utilities to assist in the construction and updating of Vulkan graphics data structres. \[MIT]
+    *   [vpp (⭐268)](https://github.com/nyorain/vpp) - Modern C++ Vulkan Abstraction focused on performance and a straightforward interface. \[MIT]
     *   [VulkanSceneGraph](https://github.com/vsg-dev) - Vulkan/C++17 scene graph project, successor to [OpenSceneGraph](http://www.openscenegraph.org).
-    *   [Vulkan-WSIWindow (⭐99)](https://github.com/renelindsay/Vulkan-WSIWindow) - Multi-platform library to create a Vulkan window, and handle input events. \[Apache License 2.0]
-    *   [Screen 13 (⭐148)](https://github.com/attackgoat/screen-13) - An easy-to-use Vulkan render graph for Rust. \[MIT]
+    *   [Vulkan-WSIWindow (⭐104)](https://github.com/renelindsay/Vulkan-WSIWindow) - Multi-platform library to create a Vulkan window, and handle input events. \[Apache License 2.0]
+    *   [Screen 13 (⭐174)](https://github.com/attackgoat/screen-13) - An easy-to-use Vulkan render graph for Rust. \[MIT]
 
 ## [6. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### GUI
 
-*   [DB Lens (⭐226)](https://github.com/dblens/app) - Open Source Postgres GUI - Automatic ER diagrams, Internal DB Insights, Disk Utilisation, Performance Metrics, Index Usage, Sequential scan counts and more.
+*   [DB Lens (⭐236)](https://github.com/dblens/app) - Open Source Postgres GUI - Automatic ER diagrams, Internal DB Insights, Disk Utilisation, Performance Metrics, Index Usage, Sequential scan counts and more.
 
 ### Schema / Design
 
@@ -65,19 +65,19 @@
 
 ### Completion / Diagnostics
 
-*   [vigoux/complementree.nvim (⭐39)](https://github.com/vigoux/complementree.nvim) - Light and synchronous completion plugin based on tree-sitter and with a functional-programming interface.
+*   [vigoux/complementree.nvim (⭐41)](https://github.com/vigoux/complementree.nvim) - Light and synchronous completion plugin based on tree-sitter and with a functional-programming interface.
 
 ## [8. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Networking
 
-*   [SNMP (⭐33)](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
+*   [SNMP (⭐51)](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
 
 ## [9. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [diod (⭐87)](https://github.com/artberri/diod) - A very opinionated and lightweight inversion of control container and dependency injector for Node.js or browser apps.
+*   :octocat: [diod (⭐107)](https://github.com/artberri/diod) - A very opinionated and lightweight inversion of control container and dependency injector for Node.js or browser apps.
 
 ## [10. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Debug
 
-*   [Touca (⭐430)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
+*   [Touca (⭐450)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
 
 ## [12. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 

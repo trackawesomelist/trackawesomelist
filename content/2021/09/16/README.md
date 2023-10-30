@@ -10,7 +10,7 @@
 
 ### AppImage consumption tools / Package managers
 
-*   [AppMan (⭐36)](https://github.com/ivan-hc/AppMan) - AppImage Manager that works like APT or Pacman.
+*   [AppMan (⭐37)](https://github.com/ivan-hc/AppMan) - AppImage Manager that works like APT or Pacman.
 
 ## [2. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -128,34 +128,34 @@
 
 ### Audio
 
-*   [micropython-buzzer (⭐13)](https://github.com/fruch/micropython-buzzer) - Play Nokia compose and mid files on buzzers.
+*   [micropython-buzzer (⭐14)](https://github.com/fruch/micropython-buzzer) - Play Nokia compose and mid files on buzzers.
 
 ### Communications / APIs
 
-*   [micropython\_pushbullet (⭐2)](https://github.com/gsampallo/micropython_pushbullet) - Simple example of how to use PushBullet with MicroPython on ESP8266.
-*   [esp32-youtube-display (⭐15)](https://github.com/alvarowolfx/esp32-youtube-display) - Display YouTube metrics using Google API and MicroPython.
-*   [micropython-spotify-web-api (⭐11)](https://github.com/tltx/micropython-spotify-web-api) - A library for using Spotify's web API from a IoT device with MicroPython.
+*   [micropython\_pushbullet (⭐3)](https://github.com/gsampallo/micropython_pushbullet) - Simple example of how to use PushBullet with MicroPython on ESP8266.
+*   [esp32-youtube-display (⭐16)](https://github.com/alvarowolfx/esp32-youtube-display) - Display YouTube metrics using Google API and MicroPython.
+*   [micropython-spotify-web-api (⭐13)](https://github.com/tltx/micropython-spotify-web-api) - A library for using Spotify's web API from a IoT device with MicroPython.
 
 ### Communications / Bluetooth
 
-*   [uble (⭐75)](https://github.com/dmazzella/uble) - Lightweight Bluetooth Low Energy driver written in pure Python for MicroPython.
+*   [uble (⭐76)](https://github.com/dmazzella/uble) - Lightweight Bluetooth Low Energy driver written in pure Python for MicroPython.
 
 ### Communications / Cryptography
 
-*   [ucryptoauthlib (⭐35)](https://github.com/dmazzella/ucryptoauthlib) - Lightweight driver for Microchip Crypto Authentication secure elements written in pure Python for MicroPython.
-*   [micropython-cryptomsg (⭐4)](https://github.com/jacklinquan/micropython-cryptomsg) - A MicroPython module to encrypt and decrypt messages with AES CBC mode.
+*   [ucryptoauthlib (⭐37)](https://github.com/dmazzella/ucryptoauthlib) - Lightweight driver for Microchip Crypto Authentication secure elements written in pure Python for MicroPython.
+*   [micropython-cryptomsg (⭐5)](https://github.com/jacklinquan/micropython-cryptomsg) - A MicroPython module to encrypt and decrypt messages with AES CBC mode.
 
 ### Communications / FTP
 
-*   [micropython-uaioftp (⭐1)](https://github.com/cwyark/micropython-uaioftp) - Lightweight FTP library for MicroPython.
+*   [micropython-uaioftp (⭐3)](https://github.com/cwyark/micropython-uaioftp) - Lightweight FTP library for MicroPython.
 
 ### Communications / GSM
 
-*   [MicroPython-AM7020 (⭐2)](https://github.com/JiekangHuang/MicroPython-AM7020) - MicroPython driver for AM7020 Narrowband Internet of Things (NBIoT) module.
+*   [MicroPython-AM7020 (⭐3)](https://github.com/JiekangHuang/MicroPython-AM7020) - MicroPython driver for AM7020 Narrowband Internet of Things (NBIoT) module.
 
 ### Communications / Radio
 
-*   [ESP32-433Mhz-Receiver-and-Tools (⭐8)](https://github.com/Aschhoff/ESP32-433Mhz-Receiver-and-Tools) - ESP32 433MHz receiver written in MicroPython and tools for Windows.
+*   [ESP32-433Mhz-Receiver-and-Tools (⭐9)](https://github.com/Aschhoff/ESP32-433Mhz-Receiver-and-Tools) - ESP32 433MHz receiver written in MicroPython and tools for Windows.
 
 ### Communications / Serial
 
@@ -167,7 +167,7 @@
 
 ### Communications / WiFi
 
-*   [WiFiManager (⭐286)](https://github.com/tayfunulu/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - MicroPython.
+*   [WiFiManager (⭐302)](https://github.com/tayfunulu/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - MicroPython.
 
 ### Display / LCD Character
 
@@ -186,12 +186,12 @@
 
 ### IO / Keyboard
 
-*   [pico-rgbkeypad (⭐57)](https://github.com/martinohanlon/pico-rgbkeypad) - A Python class for controlling the Pimoroni RGB Keypad for Raspberry Pi Pico.
+*   [pico-rgbkeypad (⭐60)](https://github.com/martinohanlon/pico-rgbkeypad) - A Python class for controlling the Pimoroni RGB Keypad for Raspberry Pi Pico.
 *   [micropython-aiobutton (⭐4)](https://github.com/jacklinquan/micropython-aiobutton) - A MicroPython module for asyncio button.
 
 ### IO / Shift Registers
 
-*   [micropython-74hc595 (⭐21)](https://github.com/mcauser/micropython-74hc595) - MicroPython driver for 74HC595 8-bit shift registers.
+*   [micropython-74hc595 (⭐22)](https://github.com/mcauser/micropython-74hc595) - MicroPython driver for 74HC595 8-bit shift registers.
 *   [MicroPython-SN74HCS264](https://gitlab.com/olivierlenoir/MicroPython-SN74HCS264) - MicroPython Driver for SN74HCS264 8-Bit Parallel-Out Serial Shift Registers With Schmitt-Trigger Inputs and Inverted Outputs.
 
 ### Motion / DC Motor
@@ -220,12 +220,12 @@
 
 ### Sensors / Motion Inertial
 
-*   [flight\_controller (⭐55)](https://github.com/wagnerc4/flight_controller) - MicroPython flight controller.
+*   [flight\_controller (⭐60)](https://github.com/wagnerc4/flight_controller) - MicroPython flight controller.
 *   [micropython-mpu9250](https://gitlab.com/nnayo/micropython-mpu9250) - MicroPython MPU-9250 (MPU-6500 + AK8963) I2C driver.
 
 ### Sensors / Pressure
 
-*   [ms5803-micropython (⭐0)](https://github.com/minyiky/ms5803-micropython) - A MicroPython implementation of the driver for an MS5803 pressure & temperature sensor.
+*   [ms5803-micropython (⭐1)](https://github.com/minyiky/ms5803-micropython) - A MicroPython implementation of the driver for an MS5803 pressure & temperature sensor.
 
 ### Sensors / Proximity
 
@@ -239,11 +239,11 @@
 
 *   [sht25-micropython](https://gitlab.com/miceuz/sht25-micropython) - MicroPython implementation of API of SHT25 humidity and temperature sensor.
 *   [micropython-sht30 (⭐2)](https://github.com/schinckel/micropython-sht30) - SHT30 sensor driver in pure Python based on I2C bus.
-*   [micropython\_ahtx0 (⭐18)](https://github.com/targetblank/micropython_ahtx0) - MicroPython driver for the AHT10 and AHT20 temperature and humidity sensors.
+*   [micropython\_ahtx0 (⭐22)](https://github.com/targetblank/micropython_ahtx0) - MicroPython driver for the AHT10 and AHT20 temperature and humidity sensors.
 
 ### Sensors / Touch Capacitive
 
-*   [uFT6336U (⭐2)](https://github.com/fantasticdonkey/uFT6336U) - MicroPython I2C driver for the Focus LCDs FT6336U capacitive touch panel controller IC.
+*   [uFT6336U (⭐3)](https://github.com/fantasticdonkey/uFT6336U) - MicroPython I2C driver for the Focus LCDs FT6336U capacitive touch panel controller IC.
 
 ### Storage / EEPROM
 
@@ -251,7 +251,7 @@
 
 ### Storage / PSRAM
 
-*   [mb\_PSRAM\_64Mb\_SPI (⭐9)](https://github.com/MarksBench/mb_PSRAM_64Mb_SPI) - Very simple MicroPython module to use a generic 64Mbit PSRAM (ie Adafruit 4677) with a Raspberry Pi Pico (RP2040).
+*   [mb\_PSRAM\_64Mb\_SPI (⭐10)](https://github.com/MarksBench/mb_PSRAM_64Mb_SPI) - Very simple MicroPython module to use a generic 64Mbit PSRAM (ie Adafruit 4677) with a Raspberry Pi Pico (RP2040).
 
 ### Storage / SRAM
 
@@ -266,11 +266,11 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-wasm-pack (⭐144)](https://github.com/nshen/vite-plugin-wasm-pack) - Integration with rust [wasm-pack (⭐5.2k)](https://github.com/rustwasm/wasm-pack), the simple way.
+*   [vite-plugin-wasm-pack (⭐180)](https://github.com/nshen/vite-plugin-wasm-pack) - Integration with rust [wasm-pack (⭐5.5k)](https://github.com/rustwasm/wasm-pack), the simple way.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-require (⭐35)](https://github.com/wangzongming/vite-plugin-require) - A Vite plugin that supports `require` by code transforming.
+*   [vite-plugin-require (⭐44)](https://github.com/wangzongming/vite-plugin-require) - A Vite plugin that supports `require` by code transforming.
 
 ---
 

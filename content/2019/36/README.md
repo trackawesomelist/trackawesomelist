@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 09 - Sep 15, 2019
 
-48 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,13 +16,13 @@
 
 ### Testing / Fixtures
 
-*   [jFairy (⭐715)](https://github.com/Devskiller/jfairy) - Fake data generator.
+*   [jFairy (⭐728)](https://github.com/Devskiller/jfairy) - Fake data generator.
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Generators / Other
 
-*   [Gridsome (⭐8.4k)](https://github.com/gridsome/gridsome) - Vue-powered static site generator.
+*   [Gridsome (⭐8.5k)](https://github.com/gridsome/gridsome) - Vue-powered static site generator.
 
 ## [4. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Loader
 
-*   [react-spinners-css (⭐311)](https://github.com/JoshK2/react-spinners-css) - Amazing collection of react spinners components.
+*   [react-spinners-css (⭐319)](https://github.com/JoshK2/react-spinners-css) - Amazing collection of react spinners components.
 
 ## [8. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [MikroORM (⭐5.9k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
+*   :octocat: [MikroORM (⭐6.6k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
 
 ## [14. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
 
@@ -121,13 +121,13 @@
 ### Serverless / Testing
 
 *   [Zappa (⭐12k)](https://github.com/Miserlou/Zappa)
-*   [Chalice (⭐9.3k)](https://github.com/aws/chalice)
+*   [Chalice (⭐9.8k)](https://github.com/aws/chalice)
 *   [AWS Lambda](https://aws.amazon.com/lambda/)
 *   [Google Cloud Functions](https://cloud.google.com/functions/)
 
 ### Open Source Projects / Testing
 
-*   [Airflow (⭐28k)](https://github.com/apache/airflow/tree/master/airflow/www)
+*   [Airflow (⭐31k)](https://github.com/apache/airflow/tree/master/airflow/www)
 
 ## [15. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
@@ -160,13 +160,13 @@
 
 ### Connection pools
 
-*   [metabase/connection-pool (⭐13)](https://github.com/metabase/connection-pool)
+*   [metabase/connection-pool (⭐14)](https://github.com/metabase/connection-pool)
 
-## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [20. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
-### Software / Software Development - IDE & Tools
+### Tools / Misc
 
-*   [ML Workspace (⭐3k)](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science. `Apache-2.0` `Docker`
+*   [ML Workspace (⭐3.2k)](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science. The workspace is deployed as a docker container and is preloaded with a variety of popular data science libraries (e.g., Tensorflow, PyTorch) and dev tools (e.g., Jupyter, VS Code).
 
 ## [21. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
@@ -179,7 +179,7 @@
 ### Testing / Individual Podcast episodes
 
 *   [Elm test (⭐230)](https://github.com/elm-explorations/test) - Unit and fuzz tests
-*   [Elm Program test (⭐85)](https://github.com/avh4/elm-program-test/tree/3.0.0) - Test complete Elm programs
+*   [Elm Program test (⭐88)](https://github.com/avh4/elm-program-test/tree/3.0.0) - Test complete Elm programs
 
 ## [23. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -189,26 +189,20 @@
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [Flutter-animation-set (⭐271)](https://github.com/efoxTeam/flutter-animation-set) <!--stargazers:efoxTeam/flutter-animation-set--> - Easy to build an animation set by [efoxTeam](https://github.com/efoxTeam)
-*   [Staggered Animations (⭐1.2k)](https://github.com/mobiten/flutter_staggered_animations) <!--stargazers:mobiten/flutter_staggered_animations--> - Easily add staggered animations to your ListView, GridView, Column and Row by [mobiten](https://mobiten.com/)
+*   [Flutter-animation-set (⭐273)](https://github.com/efoxTeam/flutter-animation-set) <!--stargazers:efoxTeam/flutter-animation-set--> - Easy to build an animation set by [efoxTeam](https://github.com/efoxTeam)
+*   [Staggered Animations (⭐1.4k)](https://github.com/mobiten/flutter_staggered_animations) <!--stargazers:mobiten/flutter_staggered_animations--> - Easily add staggered animations to your ListView, GridView, Column and Row by [mobiten](https://mobiten.com/)
 
-## [24. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
-
-### Apps
-
-*   [Diffuse](https://diffuse.sh) - Play music from your IPFS node, or any other cloud/distributed storage service you use.
-
-## [25. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Network / Barcode
 
-*   [ReactiveAPI (⭐79)](https://github.com/sky-uk/ReactiveAPI) - Write clean, concise and declarative network code relying on URLSession, with the power of RxSwift. Inspired by Retrofit.
+*   [ReactiveAPI (⭐78)](https://github.com/sky-uk/ReactiveAPI) - Write clean, concise and declarative network code relying on URLSession, with the power of RxSwift. Inspired by Retrofit.
 
 ### UI / Barcode
 
-*   [ShowSomeProgress (⭐103)](https://github.com/stoneburner/ShowSomeProgress) - Animated Progress and Activity Indicators for iOS apps.
+*   [ShowSomeProgress (⭐104)](https://github.com/stoneburner/ShowSomeProgress) - Animated Progress and Activity Indicators for iOS apps.
 
-## [26. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [25. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / NXP
 
@@ -222,7 +216,7 @@
 
 *   [`lpc55s6x-hal`](https://crates.io/crates/lpc55s6x-hal) - [![crates.io](https://img.shields.io/crates/v/lpc55s6x-hal.svg)](https://crates.io/crates/lpc55s6x-hal)
 
-## [27. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [26. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### Golang tools / Misc
 
@@ -239,7 +233,7 @@
 *   [Truth & Beauty Operations](https://truth-and-beauty.net/)
 *   [vis4.net](https://www.vis4.net/blog/) - Random thoughts on visualization and data journalism by Gregor Aisch
 
-## [28. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [27. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Jamstack Sites Showcase
 
@@ -251,13 +245,13 @@
 *   [NetlifyCMS](https://netlifycms.org/) - open source Git-based CMS.
 *   [Forestry](https://forestry.io) - Headless CMS for sites built with static site generators.
 
-## [29. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [28. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Media / Navigation Demos
 
 *   [react-native-android-video ★8 (⭐19)](https://github.com/Cherrypick-Consulting/react-native-android-video) - Android ExoPlayer Video component for react-native.
 
-## [30. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [29. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Post-Mortem
 
@@ -268,21 +262,21 @@
 
 *   [List of Continuous Integration services (⭐3k)](https://github.com/ligurio/awesome-ci)
 
-## [31. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [30. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Network / Other Resources
 
 *   [FakeNet-NG (⭐1.4k)](https://github.com/fireeye/flare-fakenet-ng) - Next generation
     dynamic network analysis tool.
 
-## [32. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [31. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
 ### Code Libraries
 
 *   [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code (⭐3.5k)](https://github.com/biopython/biopython) - Python tools primarily intended for bioinformatics and computational molecular biology purposes, but also a convenient way to obtain data, including documents/abstracts from PubMed (see Chapter 9 of the documentation).
 *   [rentrez (⭐179)](https://github.com/ropensci/rentrez) - R utilities for accessing NCBI resources, including PubMed.
 
-## [33. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
+## [32. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
 
 ### Network Inspection
 
@@ -332,7 +326,7 @@
 
 *   [sloth (⭐196)](https://github.com/denar90/sloth) - Chrome extension allows to enable and save CPU and network throttling for selected tabs.
 
-## [34. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [33. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### 1C
 
@@ -342,7 +336,7 @@
 
 *   [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) - Provides semantic completions for C/C++ (and TypeScript, JavaScript, Objective-C, Golang, Rust) using [YouCompleteMe](http://ycm-core.github.io/YouCompleteMe/).
 
-## [35. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [34. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / GUI
 
@@ -365,7 +359,7 @@
 
 *   [Scaling Postgres](https://www.scalingpostgres.com/) - Postgres video blog series by Creston Jamison
 
-## [36. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [35. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Courses
 
@@ -388,13 +382,13 @@
 *   [Awesome Gazebo (⭐103)](https://github.com/fkromer/awesome-gazebo)
 *   [Awesome ROS2 (⭐1.1k)](https://github.com/fkromer/awesome-ros2)
 
-## [37. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [36. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Games
 
-*   [swatteau/sokoban-rs (⭐141)](https://github.com/swatteau/sokoban-rs) — A Sokoban implementation
+*   [swatteau/sokoban-rs (⭐144)](https://github.com/swatteau/sokoban-rs) — A Sokoban implementation
 
-## [38. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
+## [37. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
 ### General Purpose
 
@@ -402,16 +396,16 @@
     ![](https://img.shields.io/github/stars/spiderpig86/Cirrus.svg?style=social\&label=Star)
     [Demo](https://cirrus-ui.netlify.app/getting-started/examples),
     [Docs](https://cirrus-ui.netlify.app/getting-started/setup),
-    [Repo (⭐1.1k)](https://github.com/Spiderpig86/Cirrus)
+    [Repo (⭐1.3k)](https://github.com/Spiderpig86/Cirrus)
     \| #CSS
 
-## [39. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
+## [38. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 
 ### Configuration
 
 *   [Dhall (⭐837)](https://github.com/dhall-lang/dhall-haskell) - A configuration language guaranteed to terminate
 
-## [40. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [39. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Third-party APIs
 
@@ -421,7 +415,7 @@
 
 *   [Chinese-speaking Telegram Group](https://t.me/crystal_cn) - 来吧！TG 中文圈的朋友们！
 
-## [41. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [40. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
@@ -432,19 +426,19 @@
 *   [Joe Sandbox (Community)](https://www.joesandbox.com/) - Joe Sandbox detects and analyzes potential malicious files and URLs on Windows, Android, Mac OS, Linux, and iOS for suspicious activities; providing comprehensive and detailed analysis reports.
 *   [Valkyrie Comodo](https://valkyrie.comodo.com) - Valkyrie uses run-time behavior and hundreds of features from a file to perform analysis.
 
-## [42. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [41. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Video
 
 *   [Videotape](https://usuaia.com/videotape) - Video player for windows 10 focused on simplicity with a beautiful and easy to use interface.
 
-## [43. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [42. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Books / Videos
 
 *   [Build an API with Laravel](https://buildanapi.com) by Wacky Studio
 
-## [44. Awesome Pagespeed Metrics](/content/csabapalfi/awesome-pagespeed-metrics/week/README.md)
+## [43. Awesome Pagespeed Metrics](/content/csabapalfi/awesome-pagespeed-metrics/week/README.md)
 
 ### Concepts / Lab Data (Synthetic Measurements)
 
@@ -530,68 +524,66 @@
 
 *   [Docs - `window.load`](https://developer.mozilla.org/en-US/docs/Web/Events/load)
 
-## [45. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [44. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Deep Learning / TensorFlow
 
 *   [keras-contrib (⭐1.6k)](https://github.com/keras-team/keras-contrib) - Keras community contributions. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 *   [Hyperas (⭐2.2k)](https://github.com/maxpumperla/hyperas) - Keras + Hyperopt: A straightforward wrapper for a convenient hyperparameter. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 *   [Elephas (⭐1.6k)](https://github.com/maxpumperla/elephas) - Distributed Deep learning with Keras & Spark. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
-*   [Hera (⭐494)](https://github.com/keplr-io/hera) - Train/evaluate a Keras model, and get metrics streamed to a dashboard in your browser. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
+*   [qkeras (⭐501)](https://github.com/google/qkeras) - A quantization deep learning library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
+
+### Reinforcement Learning / Others
+
+*   [RLlib](https://ray.readthedocs.io/en/latest/rllib.html) - Scalable Reinforcement Learning.
+*   [TensorForce (⭐3.3k)](https://github.com/reinforceio/tensorforce) - A TensorFlow library for applied reinforcement learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
+*   [TRFL (⭐3.1k)](https://github.com/deepmind/trfl) - TensorFlow Reinforcement Learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
+*   [keras-rl (⭐5.4k)](https://github.com/keras-rl/keras-rl) - Deep Reinforcement Learning for Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
+*   [garage (⭐1.7k)](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research.
+*   [Horizon (⭐3.5k)](https://github.com/facebookresearch/Horizon) - A platform for Applied Reinforcement Learning.
+
+### Graph Machine Learning / Others
+
 *   [Spektral (⭐2.3k)](https://github.com/danielegrattarola/spektral) - Deep learning on graphs. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
-*   [qkeras (⭐464)](https://github.com/google/qkeras) - A quantization deep learning library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 
 ### Visualization / General Purposes
 
-*   [chartify (⭐3.3k)](https://github.com/spotify/chartify/) - Python library that makes it easy for data scientists to create charts.
-*   [physt (⭐122)](https://github.com/janpipek/physt) - Improved histograms.
+*   [chartify (⭐3.4k)](https://github.com/spotify/chartify/) - Python library that makes it easy for data scientists to create charts.
+*   [physt (⭐124)](https://github.com/janpipek/physt) - Improved histograms.
 
 ### Visualization / Interactive plots
 
-*   [animatplot (⭐400)](https://github.com/t-makaro/animatplot) - A python package for animating plots built on matplotlib.
+*   [animatplot (⭐402)](https://github.com/t-makaro/animatplot) - A python package for animating plots built on matplotlib.
 
-### Reinforcement Learning / NLP
+### Distributed Computing / Synthetic Data
 
-*   [Coach (⭐2.2k)](https://github.com/NervanaSystems/coach) - Easy experimentation with state-of-the-art Reinforcement Learning algorithms.
-*   [garage (⭐1.7k)](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research.
-*   [OpenAI Baselines (⭐14k)](https://github.com/openai/baselines) - High-quality implementations of reinforcement learning algorithms.
-*   [Stable Baselines (⭐3.8k)](https://github.com/hill-a/stable-baselines) - A set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines.
-*   [RLlib](https://ray.readthedocs.io/en/latest/rllib.html) - Scalable Reinforcement Learning.
-*   [Horizon (⭐3.4k)](https://github.com/facebookresearch/Horizon) - A platform for Applied Reinforcement Learning.
-*   [TensorForce (⭐3.2k)](https://github.com/reinforceio/tensorforce) - A TensorFlow library for applied reinforcement learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
-*   [TRFL (⭐3.1k)](https://github.com/deepmind/trfl) - TensorFlow Reinforcement Learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
-*   [keras-rl (⭐5.4k)](https://github.com/keras-rl/keras-rl) - Deep Reinforcement Learning for Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
-*   [ChainerRL (⭐1.1k)](https://github.com/chainer/chainerrl) - A deep reinforcement learning library built on top of Chainer.
-
-### Distributed Computing / NLP
-
-*   [Horovod (⭐13k)](https://github.com/uber/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
+*   [Horovod (⭐14k)](https://github.com/uber/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
 *   [PySpark](https://spark.apache.org/docs/0.9.0/python-programming-guide.html) - Exposes the Spark programming model to Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/spark_big.png" alt="Apache Spark based">
-*   [Veles (⭐900)](https://github.com/Samsung/veles) - Distributed machine learning platform.
-*   [Jubatus (⭐706)](https://github.com/jubatus/jubatus) - Framework and Library for Distributed Online Machine Learning.
+*   [Veles (⭐904)](https://github.com/Samsung/veles) - Distributed machine learning platform.
+*   [Jubatus (⭐707)](https://github.com/jubatus/jubatus) - Framework and Library for Distributed Online Machine Learning.
 *   [DMTK (⭐2.7k)](https://github.com/Microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit.
-*   [dask-ml (⭐850)](https://github.com/dask/dask-ml) - Distributed and parallel machine learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [dask-ml (⭐869)](https://github.com/dask/dask-ml) - Distributed and parallel machine learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [Distributed (⭐1.5k)](https://github.com/dask/distributed) - Distributed computation in Python.
 
-### Quantum Computing / NLP
+### Quantum Computing / Synthetic Data
 
-*   [PennyLane (⭐1.8k)](https://github.com/XanaduAI/pennylane) - Quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
+*   [PennyLane (⭐1.9k)](https://github.com/XanaduAI/pennylane) - Quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
 
-## [46. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [45. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Audio
 
-*   [Verovio (⭐551)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
+*   [Verovio (⭐572)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
 
 ### Compression
 
-*   [bit7z (⭐410)](https://github.com/rikyoz/bit7z) - A C++ static library offering a clean and simple interface to the 7-zip DLLs. \[GPLv2]
+*   [bit7z (⭐481)](https://github.com/rikyoz/bit7z) - A C++ static library offering a clean and simple interface to the 7-zip shared libraries. \[MPL2]
 
 ### Integrated Development Environment
 
 *   [juCi++](https://gitlab.com/cppit/jucipp) - Cross-platform, lightweight C++ IDE with libclang integration. \[MIT]
 
-## [47. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [46. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Command-line tools
 
@@ -602,15 +594,15 @@
 *   [FakeJSON](https://fakejson.com/) - Web API to quickly generate fake data for your application.
 *   [JSON to CSV](https://konklone.io/json/) - A free, in-browser JSON to CSV converter.
 
-## [48. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [47. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Misc
 
-*   [Wagtail Live Preview (⭐27)](https://github.com/KalobTaulien/wagtail-livepreview) - Live page previews beside your content.
+*   [Wagtail Live Preview (⭐28)](https://github.com/KalobTaulien/wagtail-livepreview) - Live page previews beside your content.
 
 ### Tools / Templates & Starter Kits
 
-*   [Wagtail Pipit (⭐181)](https://github.com/Frojd/Wagtail-Boilerplate) – Pipit is a Wagtail boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.
+*   [Wagtail Pipit (⭐193)](https://github.com/Frojd/Wagtail-Boilerplate) – Pipit is a Wagtail boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.
 
 ---
 

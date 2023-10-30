@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 07, 2017
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -39,11 +39,11 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Flamme (⭐129)](https://github.com/alicin/flamme) - An open source Tinder desktop client built with electron and Vue.js for educational purposes
+*   [Flamme (⭐127)](https://github.com/alicin/flamme) - An open source Tinder desktop client built with electron and Vue.js for educational purposes
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-scroll-behavior (⭐141)](https://github.com/jeneser/vue-scroll-behavior) - Customize the scroll behavior on route navigation. Especially hash mode.
+*   [vue-scroll-behavior (⭐143)](https://github.com/jeneser/vue-scroll-behavior) - Customize the scroll behavior on route navigation. Especially hash mode.
 
 ## [6. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Web / Web Application Firewall
 
-*   [sql\_firewall (⭐173)](https://github.com/uptimejp/sql_firewall) SQL Firewall Extension for PostgreSQL
+*   [sql\_firewall (⭐174)](https://github.com/uptimejp/sql_firewall) SQL Firewall Extension for PostgreSQL
 
 ## [8. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
@@ -63,26 +63,20 @@
 
 *   [cmake-get (⭐59)](https://github.com/pfultz2/cmake-get) - Get dependencies in config or script mode. `[NO LICENSE]`
 
-## [9. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
-
-### Community Resources
-
-*   [Domain StoryTelling Slack](https://domainstorytelling.slack.com) - A slack team about Domain StoryTelling. It is currently invite only, but you can ask [@hofstef](https://twitter.com/hofstef) for an invitation. The homepage is at [domainstorytelling.org](http://domainstorytelling.org/).
-
-## [10. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [9. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 
-*   [Javascript Parser Combinator (⭐128)](https://github.com/d-plaindoux/parsec) – Javascript parser combinator implementation inspired by the Haskell's Parsec
-*   [fun-task (⭐370)](https://github.com/rpominov/fun-task) – An abstraction for managing asynchronous code in JS. Tasks are similar to Promises with the key difference that Tasks can represent a computation while Promises can represent only the results of a computation. Ships with Flow type definitions.
+*   [Javascript Parser Combinator (⭐137)](https://github.com/d-plaindoux/parsec) – Javascript parser combinator implementation inspired by the Haskell's Parsec
+*   [fun-task (⭐371)](https://github.com/rpominov/fun-task) – An abstraction for managing asynchronous code in JS. Tasks are similar to Promises with the key difference that Tasks can represent a computation while Promises can represent only the results of a computation. Ships with Flow type definitions.
 *   [most (⭐3.5k)](https://github.com/cujojs/most) – Ultra-high performance reactive programming to help you compose asynchronous operations on streams of values and events without many of the hazards of side effects and mutable shared state.
 
 ### Programming Tools / Lenses
 
 *   [4.5 (⭐21)](https://github.com/TylorS/4.5) – A functional assertions library. If you prefer functional style APIs and practices in JavaScript, this library aims to solve this with functionally-oriented assertions that are lazy and monadic.
-*   [hm-def (⭐195)](https://github.com/xodio/hm-def) – Runtime type checking for JS with Hindley Milner signatures.
+*   [hm-def (⭐197)](https://github.com/xodio/hm-def) – Runtime type checking for JS with Hindley Milner signatures.
 
-## [11. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/README.md)
+## [10. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/README.md)
 
 ### Blogs / Case Study
 

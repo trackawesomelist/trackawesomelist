@@ -36,47 +36,43 @@
 
 ## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
-### Actors
-
-*   [mon\_handler (⭐1)](https://github.com/tattdcodemonkey/mon_handler) - A minimal GenServer that monitors a given GenEvent handler.
-
 ### Caching
 
-*   [locker (⭐153)](https://github.com/wooga/locker) - Atomic distributed "check and set" for short-lived keys.
+*   [locker (⭐152)](https://github.com/wooga/locker) - Atomic distributed "check and set" for short-lived keys.
 
 ### Command Line Applications
 
-*   [getopt (⭐244)](https://github.com/jcomellas/getopt) - Command-line options parser for Erlang.
+*   [getopt (⭐243)](https://github.com/jcomellas/getopt) - Command-line options parser for Erlang.
 
 ### Framework Components
 
-*   [phoenix\_pubsub\_redis (⭐169)](https://github.com/phoenixframework/phoenix_pubsub_redis) - The Redis PubSub adapter for the Phoenix framework.
+*   [phoenix\_pubsub\_redis (⭐172)](https://github.com/phoenixframework/phoenix_pubsub_redis) - The Redis PubSub adapter for the Phoenix framework.
 *   [scaffold (⭐7)](https://github.com/gausby/scaffold) - A mix task for creating new projects based on templates fetched from a Git-repo.
 
 ### Frameworks
 
-*   [trot (⭐410)](https://github.com/hexedpackets/trot) - An Elixir web micro-framework.
+*   [trot (⭐412)](https://github.com/hexedpackets/trot) - An Elixir web micro-framework.
 
 ### ORM and Datamapping
 
 *   [database\_url (⭐8)](https://github.com/s-m-i-t-a/database_url) - Parse database URL and return keyword list for use with Ecto.
 *   [isn (⭐8)](https://github.com/Frost/isn) - Ecto types for the postgreSQL isn extension.
 *   [level (⭐5)](https://github.com/gausby/level) - Level for Elixir implements various helper functions and data types for working with Googles Level data store.
-*   [sqlite\_ecto (⭐76)](https://github.com/jazzyb/sqlite_ecto) - SQLite3 adapter for Ecto.
+*   [sqlite\_ecto (⭐77)](https://github.com/jazzyb/sqlite_ecto) - SQLite3 adapter for Ecto.
 
 ### Testing
 
-*   [proper (⭐856)](https://github.com/manopapad/proper) - PropEr (PROPerty-based testing tool for ERlang) is a QuickCheck-inspired open-source property-based testing tool for Erlang.
+*   [proper (⭐860)](https://github.com/manopapad/proper) - PropEr (PROPerty-based testing tool for ERlang) is a QuickCheck-inspired open-source property-based testing tool for Erlang.
 
 ### Third Party APIs
 
 *   [reddhl (⭐4)](https://github.com/MonkeyIsNull/reddhl) - An headline and link puller for Reddit and its various subreddits.
-*   [telephonist (⭐39)](https://github.com/danielberkompas/telephonist) - Elixir state machines for Twilio calls.
-*   [tentacat (⭐424)](https://github.com/edgurgel/tentacat) - Simple Elixir wrapper for the GitHub API.
+*   [telephonist (⭐40)](https://github.com/danielberkompas/telephonist) - Elixir state machines for Twilio calls.
+*   [tentacat (⭐429)](https://github.com/edgurgel/tentacat) - Simple Elixir wrapper for the GitHub API.
 
 ### Utilities
 
-*   [ar2ecto (⭐12)](https://github.com/aforward/ar2ecto) - Ar2ecto is a set of mix tasks to help you migrate from ActiveRecord to Ecto.
+*   [ar2ecto (⭐13)](https://github.com/aforward/ar2ecto) - Ar2ecto is a set of mix tasks to help you migrate from ActiveRecord to Ecto.
 
 ### YAML
 

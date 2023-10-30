@@ -101,4 +101,5 @@
 
 ---
 
+- Prev: [Oct 26, 2023](/content/2023/10/26/README.md)
 - Next: [Oct 24, 2023](/content/2023/10/24/README.md)

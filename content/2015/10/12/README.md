@@ -23,7 +23,7 @@
 
 ### Third-party APIs
 
-*   [google-api-ads-ruby (⭐289)](https://github.com/googleads/google-api-ads-ruby) - Google Adwords Ruby client
+*   [google-api-ads-ruby (⭐294)](https://github.com/googleads/google-api-ads-ruby) - Google Adwords Ruby client
 
 ## [4. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
@@ -493,7 +493,7 @@
 
 ### Sliders / Runner
 
-*   [Flickity (⭐7.3k)](https://github.com/metafizzy/flickity) - Touch, responsive, flickable galleries.
+*   [Flickity (⭐7.4k)](https://github.com/metafizzy/flickity) - Touch, responsive, flickable galleries.
 
 ## [12. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 

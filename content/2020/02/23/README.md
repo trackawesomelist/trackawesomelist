@@ -16,7 +16,7 @@
 
 ### Extensions
 
-*   [Next PurgeCSS (⭐132)](https://github.com/lucleray/next-purgecss) - Easily integrate [Purgecss](https://www.purgecss.com/), which helps you remove unused CSS from your bundle.
+*   [Next PurgeCSS (⭐134)](https://github.com/lucleray/next-purgecss) - Easily integrate [Purgecss](https://www.purgecss.com/), which helps you remove unused CSS from your bundle.
 
 ### Books
 
@@ -24,19 +24,15 @@
 
 ## [3. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
-### Recruitment / Coding Challenge
-
-*   [The Horrifically Dystopian World of Software Engineering Interviews](https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews) - The dark side on relying too much on algorithm challenges.
-
 ### Engineering / Technical Debt
 
 *   [Tech Due Diligence Calculator](https://decodingvc.gitbooks.io/p9-startup-tech-due-diligence-calculator/content/) - A list of questions by topic to help understand how you are building your tech and engineering team, trying to highlight red flags.
 
 ### Product Management / Standups
 
-*   [Open Product Management (⭐3.3k)](https://github.com/tron1991/open-product-management) - Resources, interviews, case studies, sample products & projects, communities, open source tools, free & paid services on product management, for technical people to learn the field.
+*   [Open Product Management (⭐3.6k)](https://github.com/tron1991/open-product-management) - Resources, interviews, case studies, sample products & projects, communities, open source tools, free & paid services on product management, for technical people to learn the field.
 *   [Things Many People Find Too Obvious To Have Told You Already](https://twitter.com/patio11/status/936615043126370306) - A set of heuristics on tech companies and the ecosystem they live in.
-*   [How to exit vim, the Product Manager way (⭐6.3k)](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md#the-product-manager-way) - A satire with a grain of truth, especially the comparison between the basic vs experienced level.
+*   [How to exit vim, the Product Manager way (⭐6.5k)](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md#the-product-manager-way) - A satire with a grain of truth, especially the comparison between the basic vs experienced level.
 
 ### Compensation / Equity
 
@@ -46,13 +42,13 @@
 
 ### Node-Powered CMS Frameworks / Runner
 
-*   [Factor (⭐1.3k)](https://github.com/fiction-com/factor) - The Javascript CMS
+*   [Factor (⭐1.4k)](https://github.com/fiction-com/factor) - The Javascript CMS
 
 ## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Cloud Data Warehousing / Playground
 
-*   :sparkles: [Crisp BigQuery (⭐38)](https://github.com/winwiz1/crisp-bigquery) Starter project that delivers Google BigQuery data to end user browsers with cost control. Allows to implement rich data presentation options.
+*   :sparkles: [Crisp BigQuery (⭐39)](https://github.com/winwiz1/crisp-bigquery) Starter project that delivers Google BigQuery data to end user browsers with cost control. Allows to implement rich data presentation options.
 
 ### CMS / Playground
 
@@ -62,15 +58,14 @@
 
 ### Software / Content Management Systems (CMS)
 
-*   [Typemill](https://typemill.net/) - Author-friendly flat-file-cms with a visual markdown editor based on vue.js. ([Source Code (⭐381)](https://github.com/typemill/typemill)) `MIT` `PHP`
+*   [Typemill](https://typemill.net/) - Author-friendly flat-file-cms with a visual markdown editor based on vue.js. ([Source Code (⭐405)](https://github.com/typemill/typemill)) `MIT` `PHP`
 
 ## [7. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Cost Forecast / Market Research
 
-*   [Transforming Financial Forecasting with Data Science and Machine Learning at Uber](https://eng.uber.com/transforming-financial-forecasting-machine-learning/) - Discusses how Uber apply data science and machine learning in their financial planning platforms.
-*   [Time Series Prediction - A short introduction for pragmatists](https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices) - [Facebook's Prophet](https://facebook.github.io/prophet/) (which [uses Stan underneath](https://statmodeling.stat.columbia.edu/2017/03/01/facebooks-prophet-uses-stan/)), seems to be worth checking to implement a cost forecast tool while taking care of seasonality.
-*   [Komiser (⭐3.2k)](https://github.com/mlabouardy/komiser) - Open-source tool to stay under budget by uncovering hidden costs, monitoring increases in spend, and making impactful changes based on custom recommendations.
+*   [Time Series Prediction - A short introduction for pragmatists](https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices) - Great introduction on how time series can be used to evaluate business problems.
+*   [Komiser (⭐3.5k)](https://github.com/mlabouardy/komiser) - Open-source tool to stay under budget by uncovering hidden costs, monitoring increases in spend, and making impactful changes based on custom recommendations.
 
 ### Coupons and Vouchers / Currencies
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 06 - Jan 12, 2020
 
-48 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Productivity / Time Tracking
 
-*   [utt (⭐273)](https://github.com/larose/utt) - Simple time tracking tool.
+*   [utt (⭐279)](https://github.com/larose/utt) - Simple time tracking tool.
 
 ## [2. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
@@ -100,12 +100,12 @@
 
 ### Cartridges / Custom cartridges
 
-*   [Gameboy-MBC5-MBC1-Hybrid (⭐36)](https://github.com/insidegadgets/Gameboy-MBC5-MBC1-Hybrid) - CPLD implementation of a MBC5/MBC1 Hybrid cartridge.
+*   [Gameboy-MBC5-MBC1-Hybrid (⭐42)](https://github.com/insidegadgets/Gameboy-MBC5-MBC1-Hybrid) - CPLD implementation of a MBC5/MBC1 Hybrid cartridge.
 
 ### Related projects / Syntax highlighting packages
 
-*   [GBCartRead (⭐52)](https://github.com/insidegadgets/GBCartRead) - Read ROM, Read RAM or Write RAM from/to a GameBoy Cartridge.
-*   [GBxCart-RW (⭐76)](https://github.com/insidegadgets/GBxCart-RW) - A device for reading game ROMs, save games and restoring saves for GB, GBC and GBA carts from your PC via USB.
+*   [GBCartRead (⭐56)](https://github.com/insidegadgets/GBCartRead) - Read ROM, Read RAM or Write RAM from/to a GameBoy Cartridge.
+*   [GBxCart-RW (⭐81)](https://github.com/insidegadgets/GBxCart-RW) - A device for reading game ROMs, save games and restoring saves for GB, GBC and GBA carts from your PC via USB.
 
 ## [14. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
@@ -117,7 +117,7 @@
 
 ### Official Resources
 
-*   [Source code (⭐5.8k)](https://github.com/gatling/gatling)
+*   [Source code (⭐6.1k)](https://github.com/gatling/gatling)
 
 ### Getting Started
 
@@ -136,13 +136,13 @@
 
 ### Tools / Plugins
 
-*   [gatling-grpc (⭐108)](https://github.com/phiSgr/gatling-grpc) - Gatling load test plugin for gRPC.
-*   [gatling-aws (⭐10)](https://github.com/callistaenterprise/gatling-aws) - Gatling custom protocol for AWS Lambda.
+*   [gatling-grpc (⭐120)](https://github.com/phiSgr/gatling-grpc) - Gatling load test plugin for gRPC.
+*   [gatling-aws (⭐11)](https://github.com/callistaenterprise/gatling-aws) - Gatling custom protocol for AWS Lambda.
 *   [gatling-xmpp-protocol (⭐4)](https://github.com/TLmaK0/gatling-xmpp-protocol) - XMPP protocol for stress test XMPP servers with Gatling.
 
 ### Related / Awesome Lists
 
-*   [Awesome Testing (⭐1.1k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
+*   [Awesome Testing (⭐1.4k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
 
 ## [16. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
@@ -155,7 +155,7 @@
 
 ### Machine Learning / Runner
 
-*   [Synapses (⭐66)](https://github.com/mrdimosthenis/Synapses) - Lightweight cross-platform Neural Network library.
+*   [Synapses (⭐68)](https://github.com/mrdimosthenis/Synapses) - Lightweight cross-platform Neural Network library.
 
 ## [18. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
@@ -181,11 +181,11 @@
 
 ## [21. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
 *   [ip-api](https://ip-api.com) — IP Geolocation API, Free for non-commercial use, no API key required, limited to 45 req/minute from the same IP address for the free plan.
 
-### DBaaS
+### Managed Data Services
 
 *   [InfluxDB](https://www.influxdata.com/) — Timeseries database, free up to 3MB/5 minutes writes, 30MB/5 minutes reads and 10,000 cardinalities series
 
@@ -197,21 +197,21 @@
 
 ### Software / Automation
 
-*   [Huginn (⭐38k)](https://github.com/huginn/huginn) - Allows you to build agents that monitor and act on your behalf. `MIT` `Ruby`
+*   [Huginn (⭐40k)](https://github.com/huginn/huginn) - Allows you to build agents that monitor and act on your behalf. `MIT` `Ruby`
 
 ### Software / Groupware
 
-*   [Corteza](https://cortezaproject.org) - CRM including a unified workspace, enterprise messaging and a low code environment for rapidly and securely delivering records-based management solutions. ([Demo](https://latest.cortezaproject.org), [Source Code (⭐835)](https://github.com/cortezaproject/corteza-server)) `Apache-2.0` `Go`
+*   [Corteza](https://cortezaproject.org) - CRM including a unified workspace, enterprise messaging and a low code environment for rapidly and securely delivering records-based management solutions. ([Demo](https://latest.cortezaproject.org), [Source Code (⭐981)](https://github.com/cortezaproject/corteza)) `Apache-2.0` `Go`
 
 ## [23. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Code generation
 
-*   [scheme2ddl (⭐73)](https://github.com/qwazer/scheme2ddl) - Command line util for export Oracle schema to set of ddl init scripts with ability to filter undesirable information, separate DDL in different files, pretty format output.
+*   [scheme2ddl (⭐75)](https://github.com/qwazer/scheme2ddl) - Command line util for export Oracle schema to set of ddl init scripts with ability to filter undesirable information, separate DDL in different files, pretty format output.
 
 ### API / Samples
 
-*   [restSQL (⭐132)](https://github.com/restsql/restsql) - SQL generator with Java and HTTP APIs, uses a simple RESTful HTTP API with XML or JSON serialization.
+*   [restSQL (⭐137)](https://github.com/restsql/restsql) - SQL generator with Java and HTTP APIs, uses a simple RESTful HTTP API with XML or JSON serialization.
 
 ## [24. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -223,7 +223,7 @@
 
 ### Frameworks, Libraries and Tools / Distributed Computing
 
-*   [jasper (⭐402)](https://github.com/JasperFx/jasper) - Next generation application development framework for .NET
+*   [jasper (⭐411)](https://github.com/JasperFx/jasper) - Next generation application development framework for .NET
 
 ## [26. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
 
@@ -306,17 +306,17 @@
 
 *   [NoSQL Databases (PDF)](https://web.archive.org/web/20190927222738/https://www.christof-strauch.de/nosqldbs.pdf) - A 149-page document outlining motives and rationale for NoSQL databases, and common concepts, techniques and patterns among these databases; last updated around 2011.
 
-## [31. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
+## [31. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
-### Related
+### Related / `pre` and `post` scripts
 
-*   [awesome-nodejs (⭐47k)](https://github.com/sindresorhus/awesome-nodejs)
+*   [awesome-nodejs (⭐51k)](https://github.com/sindresorhus/awesome-nodejs)
 
 ## [32. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
-*   [Upcount (⭐320)](https://github.com/madisvain/upcount) - Invoicing.
+*   [Upcount (⭐334)](https://github.com/madisvain/upcount) - Invoicing.
 
 ### Articles / Other
 
@@ -330,11 +330,11 @@
 
 ### Packages / HTTP
 
-*   [global-agent (⭐294)](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
+*   [global-agent (⭐315)](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
 
 ### Packages / Security
 
-*   [jose-simple (⭐57)](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
+*   [jose-simple (⭐59)](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
 
 ## [34. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -346,8 +346,8 @@
 
 ### UI / Login
 
-*   [Login Animation (⭐1.1k)](https://github.com/GeekyAnts/flutter-login-home-animation) <!--stargazers:GeekyAnts/flutter-login-home-animation--> - Smooth animation from login to home by [Ruchika Gupta](https://github.com/geekruchika)
-*   [Flutter Login (⭐1.2k)](https://github.com/NearHuscarl/flutter_login) - Login widget with slick animation from start to finish by [NearHuscarl](https://github.com/NearHuscarl)
+*   [Login Animation (⭐1.2k)](https://github.com/GeekyAnts/flutter-login-home-animation) <!--stargazers:GeekyAnts/flutter-login-home-animation--> - Smooth animation from login to home by [Ruchika Gupta](https://github.com/geekruchika)
+*   [Flutter Login (⭐1.3k)](https://github.com/NearHuscarl/flutter_login) - Login widget with slick animation from start to finish by [NearHuscarl](https://github.com/NearHuscarl)
 
 ### 🇬🇧 United Kingdom / Misc
 
@@ -374,13 +374,13 @@
 
 ### Apps / Misc
 
-*   [Wagtail Resume (⭐49)](https://github.com/adinhodovic/wagtail-resume) – A Wagtail project made to simplify creation of resumes for developers.
+*   [Wagtail Resume (⭐69)](https://github.com/adinhodovic/wagtail-resume) – A Wagtail project made to simplify creation of resumes for developers.
 
 ## [38. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / IoT
 
-*   [Apache StreamPipes (⭐406)](https://github.com/apache/incubator-streampipes) \[Java] - a self-service (Industrial) IoT toolbox to enable non-technical users to connect, analyze and explore IoT data streams.
+*   [Apache StreamPipes (⭐452)](https://github.com/apache/incubator-streampipes) \[Java] - a self-service (Industrial) IoT toolbox to enable non-technical users to connect, analyze and explore IoT data streams.
 
 ## [39. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -394,7 +394,18 @@
 
 *   [fs-extra (⭐8.7k)](https://github.com/jprichardson/node-fs-extra) - Combines `graceful-fs` with better JSON file reading and promises.
 
-## [41. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [41. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Java / Bootstrap
+
+*   [Java Projects, Second Edition](https://www.packtpub.com/free-ebooks/java-projects-second-edition) - Peter Verhas (Packt account *required*)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Learn Python Programming, Second Edition](https://www.packtpub.com/free-ebooks/learn-python-programming-second-edition) - Fabrizio Romano (Packt account *required*)
+*   [Python Machine Learning By Example](https://www.packtpub.com/free-ebooks/python-machine-learning-example) - Yuxi (Hayden) Liu (Packt account *required*)
+
+## [42. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Prototype Pollution
 
@@ -413,53 +424,53 @@
 *   [The world of Site Isolation and compromised renderer](https://speakerdeck.com/shhnjk/the-world-of-site-isolation-and-compromised-renderer) - Written by [@shhnjk](https://twitter.com/shhnjk).
 *   [The Cookie Monster in Your Browsers](https://speakerdeck.com/filedescriptor/the-cookie-monster-in-your-browsers) - Written by [@filedescriptor](https://twitter.com/filedescriptor).
 
-## [42. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [43. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Debugging
 
-*   [Setup plugin (⭐35)](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing debugging and maintenance tools.
+*   🍰 [Setup plugin (⭐34)](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing debugging and maintenance tools.
 
 ### Miscellaneous
 
-*   [Calendar plugin (⭐17)](https://github.com/dereuromark/cakephp-calendar) - For generating basic calendars. Includes IcalView for ICS calendar file generation.
-*   [Feedback plugin](https://github.com/dereuromark/cakephp-feedback) - Allow visitors to send quick and easy feedback incl. a screenshot via sidebar form.
+*   🍰 [Calendar plugin (⭐16)](https://github.com/dereuromark/cakephp-calendar) - For generating basic calendars. Includes IcalView for ICS calendar file generation.
+*   🍰 [Feedback plugin (⭐6)](https://github.com/dereuromark/cakephp-feedback) - Allow visitors to send quick and easy feedback incl. a screenshot via sidebar form.
 
 ### ORM / Database / Datamapping
 
-*   [CakeDecimal plugin (⭐4)](https://github.com/dereuromark/cakephp-decimal) - A value object approach on handling decimals.
+*   🍰 [CakeDecimal plugin (⭐5)](https://github.com/dereuromark/cakephp-decimal) - A value object approach on handling decimals.
 
 ### Templating
 
-*   [Feed plugin (⭐14)](https://github.com/dereuromark/cakephp-feed) - Containing an RssView class to easily generate (complex) RSS feeds.
+*   🍰 [Feed plugin (⭐13)](https://github.com/dereuromark/cakephp-feed) - Containing an RssView class to easily generate (complex) RSS feeds.
 
-## [43. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [44. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
 *   [haversine (⭐15)](https://github.com/geocrystal/haversine) - An Implementation of the Haversine formula
-*   [kd\_tree (⭐17)](https://github.com/geocrystal/kd_tree) - An implementation of "K-Dimensional Tree" and "N-Nearest Neighbors"
+*   [kd\_tree (⭐16)](https://github.com/geocrystal/kd_tree) - An implementation of "K-Dimensional Tree" and "N-Nearest Neighbors"
 
 ### Machine Learning
 
-*   [Cadmium (⭐196)](https://github.com/cadmiumcr/cadmium) - NLP library based heavily on [natural (⭐10k)](https://github.com/NaturalNode/natural)
+*   [Cadmium (⭐199)](https://github.com/cadmiumcr/cadmium) - NLP library based heavily on [natural (⭐10k)](https://github.com/NaturalNode/natural)
 
 ### Misc
 
-*   [CrSignals (⭐9)](https://github.com/firejox/CrSignals) - Signals/slots notification library
+*   [CrSignals (⭐10)](https://github.com/firejox/CrSignals) - Signals/slots notification library
 
-## [44. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [45. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
 *   [CoreUI Icons](https://coreui.io/icons/free/) - Premium designed free icon set with marks in SVG, Webfont and raster formats.
 
-## [45. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [46. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Tooling / Frameworks
 
 *   [cargo-web (⭐1.1k)](https://github.com/koute/cargo-web) - A Cargo subcommand for the client-side Web.
-*   [wabt (⭐5.3k)](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit, for the `wasm-strip` and `wasm-objdump` tools to reduce .wasm file size.
-*   [binaryen (⭐6.3k)](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly, for the `wasm-opt` tool to reduce .wasm file size.
+*   [wabt (⭐5.7k)](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit, for the `wasm-strip` and `wasm-objdump` tools to reduce .wasm file size.
+*   [binaryen (⭐6.6k)](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly, for the `wasm-opt` tool to reduce .wasm file size.
 
 ### Books / Frameworks
 
@@ -469,20 +480,20 @@
 ### Alternatives / Frameworks
 
 *   [Percy (⭐2.2k)](https://github.com/chinedufn/percy) - A modular toolkit for building isomorphic web apps with Rust + WebAssembly.
-*   [Seed (⭐3.6k)](https://github.com/seed-rs/seed) - A Rust framework for creating web apps.
-*   [Smithy (⭐345)](https://github.com/rbalicki2/smithy) - A framework for building WebAssembly apps in Rust.
+*   [Seed (⭐3.7k)](https://github.com/seed-rs/seed) - A Rust framework for creating web apps.
+*   [Smithy (⭐347)](https://github.com/rbalicki2/smithy) - A framework for building WebAssembly apps in Rust.
 
-## [46. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [47. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Graphics
 
-*   [AnimatedGradientView (⭐434)](https://github.com/rwbutler/AnimatedGradientView) - A simple framework to add animated gradients to your iOS app.
+*   [AnimatedGradientView (⭐438)](https://github.com/rwbutler/AnimatedGradientView) - A simple framework to add animated gradients to your iOS app.
 
 ### Button
 
-*   [FloatingButton (⭐768)](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI.
+*   [FloatingButton (⭐889)](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI.
 
-## [47. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [48. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Music
 
@@ -512,7 +523,7 @@
 
 
 
-## [48. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/week/README.md)
+## [49. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/week/README.md)
 
 ### Main
 

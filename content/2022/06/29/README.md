@@ -10,7 +10,7 @@
 
 ### REST and API
 
-*   [SwaggerBake plugin (⭐50)](https://github.com/cnizzardini/cakephp-swagger-bake) - This plugin automatically builds OpenAPI from your existing models and routes for display in Swagger and Redoc.
+*   [SwaggerBake plugin (⭐53)](https://github.com/cnizzardini/cakephp-swagger-bake) - This plugin automatically builds OpenAPI from your existing models and routes for display in Swagger and Redoc.
 
 ## [2. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
@@ -58,11 +58,11 @@
 
 ### Network / Scanning / Pentesting
 
-*   [Deepfence SecretScanner (⭐2.6k)](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
+*   [Deepfence SecretScanner (⭐2.9k)](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
 
 ### Network / Full Packet Capture / Forensic
 
-*   [Deepfence PacketStreamer (⭐1.6k)](https://github.com/deepfence/PacketStreamer) - High-performance remote packet capture and collection tool, distributed tcpdump for cloud native environments.
+*   [Deepfence PacketStreamer (⭐1.9k)](https://github.com/deepfence/PacketStreamer) - High-performance remote packet capture and collection tool, distributed tcpdump for cloud native environments.
 
 ## [8. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
 

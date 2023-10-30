@@ -8,15 +8,15 @@
 
 ## [1. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [voidy (⭐0)](https://github.com/rwejdling/voidy) - Borrows elements from [lambda (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/lambda.zsh-theme) and [robbyrussell (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) themes and adds the active [aws-vault (⭐7.5k)](https://github.com/99designs/aws-vault) profile to the right side of the prompt.
+*   [voidy (⭐0)](https://github.com/rwejdling/voidy) - Borrows elements from [lambda (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/lambda.zsh-theme) and [robbyrussell (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) themes and adds the active [aws-vault (⭐7.9k)](https://github.com/99designs/aws-vault) profile to the right side of the prompt.
 
 ## [2. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 
-*   [tinygp (⭐207)](https://github.com/dfm/tinygp) - The *tiniest* of Gaussian process libraries in JAX. <img src="https://img.shields.io/github/stars/dfm/tinygp?style=social" align="center">
+*   [tinygp (⭐251)](https://github.com/dfm/tinygp) - The *tiniest* of Gaussian process libraries in JAX. <img src="https://img.shields.io/github/stars/dfm/tinygp?style=social" align="center">
 
 ## [3. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
@@ -28,7 +28,7 @@
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [Mantil (⭐103)](https://github.com/mantil-io/mantil) - Go specific framework for building serverless applications on AWS that enables you to focus on pure Go code while Mantil takes care of the infrastructure.
+*   [Mantil (⭐106)](https://github.com/mantil-io/mantil) - Go specific framework for building serverless applications on AWS that enables you to focus on pure Go code while Mantil takes care of the infrastructure.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
@@ -38,7 +38,7 @@
 
 ### Log Management
 
-*   [logz.io](https://logz.io/) — Free up to 1 GB/day, 1 days retention
+*   [logz.io](https://logz.io/) — Free up to 1 GB/day, one days retention
 
 ## [6. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [bennypowers/nvim-regexplainer (⭐494)](https://github.com/bennypowers/nvim-regexplainer) - Explain the regular expression under the cursor.
+*   [bennypowers/nvim-regexplainer (⭐556)](https://github.com/bennypowers/nvim-regexplainer) - Explain the regular expression under the cursor.
 
 ## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -73,7 +73,7 @@
 
 ## [10. GoBooks](/content/dariubs/GoBooks/README.md)
 
-### **Starter Books** / [Pro Go](https://link.springer.com/book/10.1007/978-1-4842-7355-5)
+### Starter Books / 2022 - [Pro Go](https://link.springer.com/book/10.1007/978-1-4842-7355-5)
 
 *   Gain a solid understanding of the Go language and tools
 *   Gain in-depth knowledge of the Go standard library

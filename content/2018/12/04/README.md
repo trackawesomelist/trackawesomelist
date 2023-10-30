@@ -183,7 +183,7 @@
 
 ### Frameworks, Libraries and Tools / Blockchain
 
-*   [Meadow (⭐127)](https://github.com/MeadowSuite/Meadow) - An integrated Ethereum implementation and tool suite focused on Solidity testing and development.
+*   [Meadow (⭐135)](https://github.com/MeadowSuite/Meadow) - An integrated Ethereum implementation and tool suite focused on Solidity testing and development.
 
 ## [8. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
@@ -197,7 +197,7 @@
 
 ### WSL Tools / WSL Utilities
 
-*   [is-wsl for Node (⭐175)](https://github.com/sindresorhus/is-wsl) - Check if the current process is running inside Windows Subsystem for Linux, useful for scripting. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [is-wsl for Node (⭐179)](https://github.com/sindresorhus/is-wsl) - Check if the current process is running inside Windows Subsystem for Linux, useful for scripting. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [10. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 

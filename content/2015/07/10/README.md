@@ -10,13 +10,13 @@
 
 ### Languages
 
-*   [lighthouse\_scheme (⭐40)](https://github.com/jwhiteman/lighthouse-scheme) - A small Lisp-like language and interactive REPL, built in Elixir.
+*   [lighthouse\_scheme (⭐41)](https://github.com/jwhiteman/lighthouse-scheme) - A small Lisp-like language and interactive REPL, built in Elixir.
 
 ## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### GUI
 
-*   [Fluent.Ribbon (⭐2.2k)](https://github.com/fluentribbon/Fluent.Ribbon) - Fluent Ribbon Control Suite is a library that implements an Office- and Windows 8-like Ribbon for WPF.
+*   [Fluent.Ribbon (⭐2.3k)](https://github.com/fluentribbon/Fluent.Ribbon) - Fluent Ribbon Control Suite is a library that implements an Office- and Windows 8-like Ribbon for WPF.
 
 ## [3. Amas](/content/sindresorhus/amas/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Sliders / Runner
 
-*   [jcSlider (⭐62)](https://github.com/JoanClaret/jcSlider) - A responsive slider jQuery plugin with CSS animations.
+*   [jcSlider (⭐60)](https://github.com/JoanClaret/jcSlider) - A responsive slider jQuery plugin with CSS animations.
 
 ### Menu / Other
 

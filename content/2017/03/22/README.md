@@ -20,13 +20,13 @@
 
 ### E-Commerce and Payments
 
-*   [SimplCommerce (⭐3.9k)](https://github.com/simplcommerce/simplcommerce) - Super simple ecommerce system built on .NET Core. Simple to use and easy to customize. Thanks to .NET Core, you can run the SimplCommerce on Windows, Linux. With various RDBMS: Microsoft SQL Server, PostgreSQL, MySQL
+*   [SimplCommerce (⭐4k)](https://github.com/simplcommerce/simplcommerce) - Super simple ecommerce system built on .NET Core. Simple to use and easy to customize. Thanks to .NET Core, you can run the SimplCommerce on Windows, Linux. With various RDBMS: Microsoft SQL Server, PostgreSQL, MySQL
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Management System
 
-*   [jamf.com](https://www.jamf.com/) —  Device management for iPads, iPhones and Macs, 3 devices free
+*   [jamf.com](https://www.jamf.com/) —  Device management for iPads, iPhones, and Macs, three devices free
 
 ## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -54,7 +54,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 ### Resources / Community
 
-*   [vue-requests (⭐69)](https://github.com/vuejs/vue-requests) - Request a Vue.js module you wish existed or get ideas for modules
+*   [vue-requests (⭐70)](https://github.com/vuejs/vue-requests) - Request a Vue.js module you wish existed or get ideas for modules
 
 ### Resources / Official Examples
 
@@ -67,15 +67,15 @@ Webpage: <http://www.lerdevagar.com/>
 
 ### Components & Libraries / UI Components
 
-*   [vuedals (⭐107)](https://github.com/javisperez/vuedals) - A VueJS (2.x) Plugin for multiple modals windows with a single component instance.
+*   [vuedals (⭐108)](https://github.com/javisperez/vuedals) - A VueJS (2.x) Plugin for multiple modals windows with a single component instance.
 *   [vue-masked-input (⭐453)](https://github.com/niksmr/vue-masked-input) - Masked input component for Vue.js.
 *   [vue-text-mask (⭐8.2k)](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript.
 *   [vue-ip-input (⭐25)](https://github.com/lakb248/vue-ip-input) - An ip input implemented by vuejs.
-*   [vue-numeric (⭐437)](https://github.com/kevinongko/vue-numeric) - Input field component to display currency value based on Vue.
+*   [vue-numeric (⭐454)](https://github.com/kevinongko/vue-numeric) - Input field component to display currency value based on Vue.
 
 ### Components & Libraries / Utilities
 
-*   [vue-super (⭐34)](https://github.com/rpkilby/vue-super) - A simple plugin to call methods on parent components.
+*   [vue-super (⭐35)](https://github.com/rpkilby/vue-super) - A simple plugin to call methods on parent components.
 
 ## [7. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 

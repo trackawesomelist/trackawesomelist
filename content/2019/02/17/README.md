@@ -10,7 +10,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Gotify](https://gotify.net/) - Self-hosted notification server with Android and CLI clients, similar to PushBullet. ([Source Code (⭐8.7k)](https://github.com/gotify/server), [Clients (⭐622)](https://github.com/gotify/android)) `MIT` `Go`
+*   [Gotify](https://gotify.net/) - Self-hosted notification server with Android and CLI clients, similar to PushBullet. ([Source Code (⭐9.3k)](https://github.com/gotify/server), [Clients (⭐705)](https://github.com/gotify/android)) `MIT` `Go/Docker`
 
 ## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Contents / Toolkits
 
-*   [Storybook Preact (⭐78k)](https://github.com/storybooks/storybook/tree/next/app/preact) - Storybook for Preact is a UI development environment for your Preact components.
+*   [Storybook Preact (⭐81k)](https://github.com/storybooks/storybook/tree/next/app/preact) - Storybook for Preact is a UI development environment for your Preact components.
 
 ## [4. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Resources in Other Languages / Chinese
 
-*   [《Deno进阶开发笔记》 (⭐665)](https://github.com/chenshenhai/deno_note/)
+*   [《Deno进阶开发笔记》 (⭐664)](https://github.com/chenshenhai/deno_note/)
 
 ## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [Streaker (⭐170)](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/jamieweavis/streaker)
+*   [Streaker (⭐176)](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/jamieweavis/streaker)
 
 ---
 

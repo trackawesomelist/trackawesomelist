@@ -10,17 +10,17 @@
 
 ### (requires Neovim 0.5)
 
-*   [nvimtools/none-ls.nvim (⭐424)](https://github.com/nvimtools/none-ls.nvim) - Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
+*   [nvimtools/none-ls.nvim (⭐622)](https://github.com/nvimtools/none-ls.nvim) - Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 
 ### Utility / Diagnostics
 
-*   [JMarkin/gentags.lua (⭐2)](https://github.com/JMarkin/gentags.lua) - Auto generate tag files by ctags.
+*   [JMarkin/gentags.lua (⭐10)](https://github.com/JMarkin/gentags.lua) - Auto generate tag files by ctags.
 
-## [2. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [2. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
-### Quantum Computing
+### Image Generator
 
-*   [Quantum Information Theory](https://markwilde.com/qit-notes.pdf) - Mark M. Wilde (PDF)
+*   [Midjourney AI](https://www.midjourneyai.ai/) - Just enter your prompt and click the generate button.No code required to generate your image!
 
 ---
 

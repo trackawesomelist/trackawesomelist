@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Oct 30, 2023](/content/2023/10/30/README.md)
+
+### (requires Neovim 0.5)
+
+*   [mrcjkb/haskell-tools.nvim (⭐309)](https://github.com/mrcjkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
+
+### Snippet / Diagnostics
+
+*   [mrcjkb/haskell-snippets.nvim (⭐9)](https://github.com/mrcjkb/haskell-snippets.nvim) - Haskell snippets for LuaSnip, powered by Tree-sitter and LSP.
+
 ## [Oct 26, 2023](/content/2023/10/26/README.md)
 
 ### (requires Neovim 0.5)
@@ -98,13 +108,13 @@ Collections of awesome neovim plugins.
 
 ### Note Taking / Diagnostics
 
-*   [gsuuon/note.nvim (⭐7)](https://github.com/gsuuon/note.nvim) - Daily tasks with deep-linking and project spaces.
+*   [gsuuon/note.nvim (⭐20)](https://github.com/gsuuon/note.nvim) - Daily tasks with deep-linking and project spaces.
 
 ## [Oct 12, 2023](/content/2023/10/12/README.md)
 
 ### Remote Development / Diagnostics
 
-*   [niuiic/remote.nvim (⭐0)](https://github.com/niuiic/remote.nvim) - Edit remote files with local configuration.
+*   [niuiic/remote.nvim (⭐21)](https://github.com/niuiic/remote.nvim) - Edit remote files with local configuration.
 
 ## [Oct 10, 2023](/content/2023/10/10/README.md)
 
@@ -173,7 +183,7 @@ Collections of awesome neovim plugins.
 
 ### Cursorline / Diagnostics
 
-*   [sontungexpt/stcursorword (⭐15)](https://github.com/sontungexpt/stcursorword) - Highlight the word under the cursor (Improved and compact version of nvim-cursorline).
+*   [sontungexpt/stcursorword (⭐16)](https://github.com/sontungexpt/stcursorword) - Highlight the word under the cursor (Improved and compact version of nvim-cursorline).
 
 ## [Sep 24, 2023](/content/2023/09/24/README.md)
 
@@ -1390,12 +1400,6 @@ Collections of awesome neovim plugins.
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [bluz71/vim-nightfly-colors (⭐685)](https://github.com/bluz71/vim-nightfly-colors) - A dark midnight colorscheme with modern Neovim support including Tree-sitter.
-
-## [Nov 05, 2022](/content/2022/11/05/README.md)
-
-### (requires Neovim 0.5)
-
-*   [MrcJkb/haskell-tools.nvim (⭐300)](https://github.com/MrcJkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
 
 ## [Oct 31, 2022](/content/2022/10/31/README.md)
 

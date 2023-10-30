@@ -30,19 +30,19 @@
 
 ### Localization
 
-*   [attranslate (⭐286)](https://github.com/fkirc/attranslate) - Semi-automatically translate or synchronize .strings files or crossplatform-files from different languages.
+*   [attranslate (⭐303)](https://github.com/fkirc/attranslate) - Semi-automatically translate or synchronize .strings files or crossplatform-files from different languages.
 
 ## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Debugging
 
-*   [extrace (⭐43)](https://github.com/redink/extrace) - Elixir wrapper for Recon Trace.
+*   [extrace (⭐45)](https://github.com/redink/extrace) - Elixir wrapper for Recon Trace.
 
 ## [6. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Rust / Git
 
-*   [mundane (⭐1k)](https://github.com/google/mundane) - is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant.
+*   [mundane (⭐1.1k)](https://github.com/google/mundane) - is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant.
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -53,7 +53,7 @@
 ### Utils / Third-party APIs
 
 *   [calispel (⭐27)](https://github.com/hawkir/calispel) - [CSP](https://en.wikipedia.org/wiki/Communicating_sequential_processes)-like channels for common lisp. With blocking, optionally buffered channels and a "CSP select" statement. ISC-style.
-    *   "It is complete, flexible and easy to use. I would recommend Calispel over Lparallel and ChanL." @Ambrevar. [discussion (⭐2.2k)](https://github.com/CodyReichert/awesome-cl/issues/290)
+    *   "It is complete, flexible and easy to use. I would recommend Calispel over Lparallel and ChanL." @Ambrevar. [discussion (⭐2.3k)](https://github.com/CodyReichert/awesome-cl/issues/290)
 
 ### Apps / Third-party APIs
 
@@ -68,9 +68,9 @@
 
 ### Apps / Translation software
 
-*   [OmegaT](https://omegat.org/) - Free translation memory application that works on Windows, macOS and Linux.
+*   [OmegaT](https://omegat.org/) - Free translation memory / CAT software that works on Windows, macOS and Linux.
 
-### Tools / i18n frameworks for developers
+### Tools / Libraries and tools for developers
 
 *   [Jsproxy for Crowdin](https://store.crowdin.com/products/crowdin-proxy-translator) - Add-on to Crowdin.
 
@@ -135,7 +135,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Back-end API / Playground
 
-*   :octocat: [ZenTS (⭐37)](https://github.com/sahachide/ZenTS) - A modern Node.js and TypeScript first framework for building rich web applications (see also: <https://zents.dev>)
+*   :octocat: [ZenTS (⭐36)](https://github.com/sahachide/ZenTS) - A modern Node.js and TypeScript first framework for building rich web applications (see also: <https://zents.dev>)
 
 ## [12. Awesome Codepoints](/content/Codepoints/awesome-codepoints/README.md)
 
@@ -182,7 +182,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Contents / Finance
 
-*   [Receipt Manager (⭐156)](https://github.com/ReceiptManager/Application) <!--stargazers:ReceiptManager/Application--> - Receipt parser, manager and tracker by [Monolidth](https://github.com/monolidth)
+*   [Receipt Manager (⭐170)](https://github.com/ReceiptManager/Application) <!--stargazers:ReceiptManager/Application--> - Receipt parser, manager and tracker by [Monolidth](https://github.com/monolidth)
 
 ---
 

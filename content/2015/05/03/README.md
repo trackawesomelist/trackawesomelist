@@ -60,7 +60,7 @@
 
 ### Customization / Directory Navigation
 
-*   [gittify (⭐60)](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases
+*   [gittify (⭐61)](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases
 
 ## [9. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
 

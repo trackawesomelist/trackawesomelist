@@ -81,7 +81,7 @@
 
 ### ORM/ODM
 
-*   [ROM (⭐2k)](https://github.com/rom-rb/rom) - Ruby Object Mapper (ROM) is an experimental Ruby library with the goal to provide powerful object mapping capabilities without limiting the full power of your datastore.
+*   [ROM (⭐2.1k)](https://github.com/rom-rb/rom) - Ruby Object Mapper (ROM) is an experimental Ruby library with the goal to provide powerful object mapping capabilities without limiting the full power of your datastore.
 
 ---
 

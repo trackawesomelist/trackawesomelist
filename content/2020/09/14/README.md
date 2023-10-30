@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 14, 2020
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,24 +16,24 @@
 
 ### Graphics
 
-*   [Silk.NET (⭐2.8k)](https://github.com/Ultz/Silk.NET) - A cross-platform, high-performance, low-level .NET Standard wrapper for many advanced APIs such as OpenGL, OpenCL, OpenAL, OpenXR, Assimp, GLFW, as well as many others. In addition to wrapping over Native APIs, it also comes with its own Windowing and Input abstraction. This makes game and application development with Silk.NET a breeze, and has pretty much everything a 3D application developer would need.
+*   [Silk.NET (⭐3.2k)](https://github.com/Ultz/Silk.NET) - A cross-platform, high-performance, low-level .NET Standard wrapper for many advanced APIs such as OpenGL, OpenCL, OpenAL, OpenXR, Assimp, GLFW, as well as many others. In addition to wrapping over Native APIs, it also comes with its own Windowing and Input abstraction. This makes game and application development with Silk.NET a breeze, and has pretty much everything a 3D application developer would need.
 
 ### GUI
 
-*   [Lara (⭐130)](https://github.com/integrativesoft/lara) - Lara Web Engine is a library for developing Web user interfaces in C#
+*   [Lara (⭐139)](https://github.com/integrativesoft/lara) - Lara Web Engine is a library for developing Web user interfaces in C#
 
 ### Template Engine
 
-*   [Scriban (⭐2.5k)](https://github.com/lunet-io/scriban) - A fast, powerful, safe and lightweight text templating language and engine for .NET
+*   [Scriban (⭐2.6k)](https://github.com/lunet-io/scriban) - A fast, powerful, safe and lightweight text templating language and engine for .NET
 
 ### UI Automation
 
-*   [PuppeteerSharp (⭐2.7k)](https://github.com/hardkoded/puppeteer-sharp) - Puppeteer Sharp is a .NET port of the official Node.JS Puppeteer API.
+*   [PuppeteerSharp (⭐2.9k)](https://github.com/hardkoded/puppeteer-sharp) - Puppeteer Sharp is a .NET port of the official Node.JS Puppeteer API.
 *   [PuppeteerSharp.Contrib (⭐76)](https://github.com/hlaueriksson/puppeteer-sharp-contrib) - Contributions to Puppeteer Sharp that provides a convenient way to write readable and robust browser tests.
 
 ### Parser Library
 
-*   [CSLY (⭐270)](https://github.com/b3b00/CSLY) - A light embedded C# lexer/parser generator.
+*   [CSLY (⭐307)](https://github.com/b3b00/CSLY) - A light embedded C# lexer/parser generator.
 
 ## [3. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -56,37 +56,31 @@
 ### Libraries / Compression
 
 *   zip
-    *   [zip-rs/zip (⭐613)](https://github.com/zip-rs/zip) — read and write ZIP archives
+    *   [zip-rs/zip (⭐679)](https://github.com/zip-rs/zip) — read and write ZIP archives
 
 ## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Utilities / Game Engine resources
 
-*   [FlutterGen (⭐1.1k)](https://github.com/FlutterGen/flutter_gen) <!--stargazers:FlutterGen/flutter_gen--> - Assets code generator for your images, fonts, colors, etc — Get rid of String-based APIs.
+*   [FlutterGen (⭐1.2k)](https://github.com/FlutterGen/flutter_gen) <!--stargazers:FlutterGen/flutter_gen--> - Assets code generator for your images, fonts, colors, etc — Get rid of String-based APIs.
 
-## [6. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md)
-
-### Resources / Tutorials
-
-*   [Exclusive content in a Godot web game](https://innkeepergames.com/how-to-monetize-a-godot-game-with-web-monetization) - Put exclusive content in a web game made with the Godot Game Engine.
-
-## [7. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [6. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Network and Middleware / Real-Time Kernel
 
 *   [ocpp (⭐165)](https://github.com/NewMotion/ocpp) - The Open Charge Point Protocol (OCPP) is a network protocol for communication between electric vehicle chargers and a central backoffice system.
 
-## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [7. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Utility / Docker Container Actions
 
 *   [Paths Filter (⭐798)](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits.
 
-## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### APL
 
-*   [April (⭐513)](https://github.com/phantomics/april) - The APL programming language (a subset thereof) compiling to Common Lisp. Replace hundreds of lines of number-crunching code with a single line of APL. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
+*   [April (⭐537)](https://github.com/phantomics/april) - The APL programming language (a subset thereof) compiling to Common Lisp. Replace hundreds of lines of number-crunching code with a single line of APL. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ### Iteration
 
@@ -94,12 +88,12 @@
 
 ### Community / Interfaces to other package managers
 
-*   🚀 [sparser (⭐43)](https://github.com/ddmcdonald/sparser) - A natural language understanding system for English. [Eclipse](http://www.eclipse.org/legal/epl-v10.html).
+*   🚀 [sparser (⭐47)](https://github.com/ddmcdonald/sparser) - A natural language understanding system for English. [Eclipse](http://www.eclipse.org/legal/epl-v10.html).
     *   > a model-driven, rule-based language text analysis system for large volume, high-precision information extraction. At its heart, Sparser is a bottom-up, phrase-structure-based chart parser, optimized for semantic grammars and partial parsing.
 
 ### Job processing / Third-party APIs
 
-*   [one-more-re-nightmare (⭐117)](https://github.com/no-defun-allowed/one-more-re-nightmare) - a fast-ish regular expression compiler in Common Lisp. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [one-more-re-nightmare (⭐127)](https://github.com/no-defun-allowed/one-more-re-nightmare) - a fast-ish regular expression compiler in Common Lisp. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
 ### Shells, shells interfaces / Third-party APIs
 
@@ -107,15 +101,15 @@
 
 ### Apps / Third-party APIs
 
-*   [cl-yacc (⭐54)](https://github.com/jech/cl-yacc) - a LALR(1) parser generator. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-yacc (⭐55)](https://github.com/jech/cl-yacc) - a LALR(1) parser generator. [MIT](https://opensource.org/licenses/MIT).
 *   [cl-shlex (⭐6)](https://github.com/ruricolist/cl-shlex/) - simple lexical analyzer for shell-like syntaxes. [MIT](https://opensource.org/licenses/MIT).
-*   [smug (⭐101)](https://github.com/drewc/smug) - parser combinators for Common Lisp. SMUG makes it simple to create quick extensible recursive descent parsers without funky syntax or impenetrable macrology. [MIT](https://opensource.org/licenses/MIT).
+*   [smug (⭐103)](https://github.com/drewc/smug) - parser combinators for Common Lisp. SMUG makes it simple to create quick extensible recursive descent parsers without funky syntax or impenetrable macrology. [MIT](https://opensource.org/licenses/MIT).
 
 ### i18n / Third-party APIs
 
 *   [gettext (⭐9)](https://github.com/rotatef/gettext) -  a port of the gettext runtime to Common Lisp. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
-## [10. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
+## [9. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
 ### Carbon Reduction
 
@@ -284,45 +278,43 @@
 *   [Rome2rio](https://rome2rio.com/) - Search any city, town, landmark, or address across the globe and find a whole bunch of different ways to get there. Rome2rio is pretty insistent on showing you flights, but it can help you find bus and train combinations to get from Lisbon to Azerbaijan if that's a trip you need to do.
 *   [Tentrr](https://www.tentrr.com/) - AirBnB for camping, with fully setup glamping sites to natural land where you bring your own gear. Land conservation is expensive. With Tentrr Landtrust, your qualifying trust can receive a professionally installed, fully equipped signature campsite. It's an instant revenue generator for your conservation efforts.
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Abstract API](https://www.abstractapi.com) — API suite for a variety of use cases including IP geolocation, gender detection or even email validation.
-*   [algorithmia.com](https://algorithmia.com/) — Host algorithms for free. Includes free monthly allowance for running algorithms. Now with CLI support.
+*   [Abstract API](https://www.abstractapi.com) — API suite for various use cases, including IP geolocation, gender detection, or email validation.
 *   [bigml.com](https://bigml.com/) — Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16 MB data/task.
 *   [monkeylearn.com](https://monkeylearn.com/) — Text analysis with machine learning, free 300 queries/month.
-*   [MockAPI](https://www.mockapi.io/) — MockAPI is a simple tool that lets you easily mock up APIs, generate custom data, and preform operations on it using RESTful interface. MockAPI is meant to be used as a prototyping/testing/learning tool. 1 project/4 resources per project for free.
-*   [parsehub.com](https://parsehub.com/) — Extract data from dynamic sites, turn dynamic websites into APIs, 5 projects free.
-*   [restlet.com](https://restlet.com/products/apispark/) — APISpark enables any API, application or data owner to become an API provider in minutes via an intuitive browser interface.
-*   [scrapinghub.com](https://scrapinghub.com) — Data scraping with visual interface and plugins. Free plan includes unlimited scraping on a shared server.
+*   [MockAPI](https://www.mockapi.io/) — MockAPI is a simple tool that lets you quickly mock up APIs, generate custom data, and perform operations using a RESTful interface. MockAPI is meant to be a prototyping/testing/learning tool. One project/4 resources per project for free.
+*   [parsehub.com](https://parsehub.com/) — Extract data from dynamic sites, turn dynamic websites into APIs, five projects free.
+*   [scrapinghub.com](https://scrapinghub.com) — Data scraping with visual interface and plugins. The free plan includes unlimited scraping on a shared server.
 *   [wit.ai](https://wit.ai/) — NLP for developers.
 *   [wrapapi.com](https://wrapapi.com/) — Turn any website into a parameterized API. 30k API calls per month.
-*   [Zenscrape](https://zenscrape.com/web-scraping-api) — Web scraping API with headless browsers, residentials IPs and simple pricing. 1000 free API calls/month, extra free credits for students and non-profits.
+*   [Zenscrape](https://zenscrape.com/web-scraping-api) — Web scraping API with headless browsers, residentials IPs, and straightforward pricing. One thousand free API calls/month and extra credits for students and non-profits.
 
 ### Tools for Teams and Collaboration
 
-*   [TeleType](https://teletype.oorja.io/) — share terminals, voice, code, whiteboard and more. no sign-in required, end-to-end encrypted collaboration for developers.
+*   [TeleType](https://teletype.oorja.io/) — share terminals, voice, code, whiteboard, and more. no sign-in is required for end-to-end encrypted collaboration for developers.
 
-## [12. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
+## [11. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 
 ### Communities
 
 *   [Slack PowerShell team](https://poshcode.org/slack) - Large chat room dedicated to PowerShell. Bridged with `#PowerShell` on irc.freenode.net.
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Podcasts
 
 *   [Changelog #184 (11-27-2015)](https://changelog.com/podcast/184)
 
-## [14. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [13. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Governance
 
 *   [Closing the AI Accountability Gap: Defining an End-to-End Framework for Internal Algorithmic Auditing](https://dl.acm.org/doi/pdf/10.1145/3351095.3372873) 🎓
 
-## [15. Awesome Ibmcloud](/content/victorshinya/awesome-ibmcloud/README.md)
+## [14. Awesome Ibmcloud](/content/victorshinya/awesome-ibmcloud/README.md)
 
 ### Infrastructure
 

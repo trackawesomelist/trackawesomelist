@@ -16,11 +16,11 @@
 
 ### Video applications / XML
 
-*   [DerelictGL3 (⭐81)](https://github.com/DerelictOrg/DerelictGL3) - A dynamic binding to OpenGL for the D Programming Language.
+*   [DerelictGL3 (⭐80)](https://github.com/DerelictOrg/DerelictGL3) - A dynamic binding to OpenGL for the D Programming Language.
 
 ### Parallel computing / XML
 
-*   [DCompute (⭐125)](https://github.com/libmir/dcompute) - [GPGPU with Native D for OpenCL and CUDA](https://dlang.org/blog/2017/07/17/dcompute-gpgpu-with-native-d-for-opencl-and-cuda/)
+*   [DCompute (⭐128)](https://github.com/libmir/dcompute) - [GPGPU with Native D for OpenCL and CUDA](https://dlang.org/blog/2017/07/17/dcompute-gpgpu-with-native-d-for-opencl-and-cuda/)
 *   [DerelictCUDA (⭐17)](https://github.com/DerelictOrg/DerelictCUDA) - Dynamic bindings to the CUDA library for the D Programming Language.
 *   [DerelictCL (⭐8)](https://github.com/DerelictOrg/DerelictCL) - Dynamic bindings to the OpenCL library for the D Programming Language.
 
@@ -34,7 +34,7 @@
 
 ### Design
 
-*   [API-Security-Checklist (⭐20k)](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security
+*   [API-Security-Checklist (⭐21k)](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security
 
 ## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -52,8 +52,8 @@
 
 ### Tools
 
-*   [AWX (⭐12k)](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Tower, a commercial derivative of AWX.
-*   [Ansible cmdb (⭐2.2k)](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML page.
+*   [AWX (⭐12k)](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Automation Controller, a commercial derivative of AWX.
+*   [Ansible cmdb (⭐2.3k)](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML page.
 
 ### Blog posts and opinions
 
@@ -87,7 +87,7 @@
 
 ### Material Design
 
-*   [Official Angular Material Design (GitHub) (⭐23k)](https://github.com/angular/material2)
+*   [Official Angular Material Design (GitHub) (⭐24k)](https://github.com/angular/material2)
 *   [Blox Material (⭐148)](https://github.com/src-zone/material) A lightweight Material Design library for Angular, based upon Google's Material Components for the Web.
 
 ### Cheatsheet
@@ -110,7 +110,7 @@
 
 ### Math
 
-*   [OpenBLAS (⭐5.2k)](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](http://www.openblas.net/)
+*   [OpenBLAS (⭐5.5k)](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](http://www.openblas.net/)
 
 ## [13. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
@@ -132,8 +132,8 @@
 
 ### Resources / Other Lists
 
-*   [Awesome Self-Hosted (⭐106k)](https://github.com/Kickball/awesome-selfhosted) - List of FLOSS network services and web applications which can be hosted locally.
-*   [Awesome Sysadmin (⭐15k)](https://github.com/n1trux/awesome-sysadmin) - List of free software sysadmin tools.
+*   [Awesome Self-Hosted (⭐139k)](https://github.com/Kickball/awesome-selfhosted) - List of FLOSS network services and web applications which can be hosted locally.
+*   [Awesome Sysadmin (⭐19k)](https://github.com/n1trux/awesome-sysadmin) - List of free software sysadmin tools.
 
 ---
 

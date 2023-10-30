@@ -16,13 +16,13 @@
 
 ### Tools / Java
 
-*   [darcy (⭐20)](https://github.com/darcy-framework/darcy-webdriver) - Page object framework for structured, maintainable automation.
+*   [darcy (⭐22)](https://github.com/darcy-framework/darcy-webdriver) - Page object framework for structured, maintainable automation.
 
 ## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Hardware
 
-*   [i2c-bus (⭐327)](https://github.com/fivdi/i2c-bus) - I2C serial bus access.
+*   [i2c-bus (⭐334)](https://github.com/fivdi/i2c-bus) - I2C serial bus access.
 
 ### Packages / Testing
 
@@ -32,7 +32,7 @@
 
 ### Languages
 
-*   [lighthouse\_scheme (⭐40)](https://github.com/jwhiteman/lighthouse-scheme) - A small Lisp-like language and interactive REPL, built in Elixir.
+*   [lighthouse\_scheme (⭐41)](https://github.com/jwhiteman/lighthouse-scheme) - A small Lisp-like language and interactive REPL, built in Elixir.
 
 ## [5. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Sliders / Runner
 
-*   [jcSlider (⭐62)](https://github.com/JoanClaret/jcSlider) - A responsive slider jQuery plugin with CSS animations.
+*   [jcSlider (⭐60)](https://github.com/JoanClaret/jcSlider) - A responsive slider jQuery plugin with CSS animations.
 
 ### Menu / Other
 
@@ -83,7 +83,7 @@
 
 ### Tools / Randomized Algorithms
 
-*   [interactive-coding-challenges (⭐27k)](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (algorithms and data structures).
+*   [interactive-coding-challenges (⭐28k)](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (algorithms and data structures).
 
 ## [12. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
 
@@ -107,11 +107,11 @@
 ### Ask these people anything!
 
 *   [Simon Boudrias (⭐2)](https://github.com/SBoudrias/ama) - Yeoman, Inquirer.js and a bunch of other node modules. Software engineer at Yelp.
-*   [Reza Akhavan (⭐4)](https://github.com/jedireza/ama) - Engineer at Mozilla. Co-organizer at NodeSchoolSF. Creator of Drywall, Frame, Aqua.
-*   [Wes Bos (⭐283)](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter.
+*   [Reza Akhavan (⭐3)](https://github.com/jedireza/ama) - Engineer at Mozilla. Co-organizer at NodeSchoolSF. Creator of Drywall, Frame, Aqua.
+*   [Wes Bos (⭐282)](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter.
 *   [Anselm Hannemann (⭐9)](https://github.com/anselmh/AMA) - Freelance front-end developer, author of WDRL, co-organizer of Nightlybuild.io.
 *   [Blain Smith](https://github.com/blainsmith/ama) - Partner/Engineer at MadGlory and Odd Networks. Rebel Geek.
-*   [Lewis Cowper (⭐5)](https://github.com/lewiscowper/ama) - Former forklift driver. Now web developer.
+*   [Lewis Cowper](https://github.com/lewiscowper/ama) - Former forklift driver. Now web developer.
 *   [Blake Winton](https://github.com/bwinton/ama) - UX Engineer for Mozilla Firefox, and the author of Whimsy.
 *   [Darrin Henein (⭐4)](https://github.com/darrinhenein/ama) - Design Lead for Firefox Mobile at Mozilla, creator of Lastronaut.
 *   [Cassie McDaniel (⭐3)](https://github.com/cassiemc/ama) - Design Director for Mozilla Foundation, cofounder of Women&\&Tech, speaker and writer.
@@ -222,7 +222,7 @@
 
 ### GUI
 
-*   [Fluent.Ribbon (⭐2.2k)](https://github.com/fluentribbon/Fluent.Ribbon) - Fluent Ribbon Control Suite is a library that implements an Office- and Windows 8-like Ribbon for WPF.
+*   [Fluent.Ribbon (⭐2.3k)](https://github.com/fluentribbon/Fluent.Ribbon) - Fluent Ribbon Control Suite is a library that implements an Office- and Windows 8-like Ribbon for WPF.
 
 ## [20. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
 
@@ -236,8 +236,8 @@
 
 ### Related lists
 
-*   [awesome (⭐223k)](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
-*   [awesome-computer-vision (⭐17k)](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources.
+*   [awesome (⭐264k)](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
+*   [awesome-computer-vision (⭐19k)](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources.
 
 ## [21. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 

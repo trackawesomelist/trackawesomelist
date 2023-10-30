@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 08, 2020
 
-19 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### C++
 
-*   [CQuery (⭐51)](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server (⭐2.3k)](https://github.com/jacobdufault/cquery) supporting multi-million line code base, powered by libclang. Cross references, completion, diagnostics, semantic highlighting and more.
+*   [CQuery (⭐52)](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server (⭐2.3k)](https://github.com/jacobdufault/cquery) supporting multi-million line code base, powered by libclang. Cross references, completion, diagnostics, semantic highlighting and more.
 
 ## [3. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
@@ -34,19 +34,19 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-router-tab (⭐437)](https://github.com/bhuh12/vue-router-tab) - Vue.js tab components, based on Vue Router.
+*   [vue-router-tab (⭐457)](https://github.com/bhuh12/vue-router-tab) - Vue.js tab components, based on Vue Router.
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Testing
 
-*   [definject (⭐52)](https://github.com/definject/definject) - Unobtrusive dependency injector for Elixir.
+*   [definject (⭐55)](https://github.com/definject/definject) - Unobtrusive dependency injector for Elixir.
 
 ## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Component Libraries
 
-*   [Joomla UI custom elements (⭐31)](https://github.com/joomla-projects/custom-elements) - Compilation of Joomla 4 Custom Elements.
+*   [Joomla UI custom elements (⭐33)](https://github.com/joomla-projects/custom-elements) - Compilation of Joomla 4 Custom Elements.
 
 ## [8. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
@@ -62,7 +62,7 @@
 ### Libraries
 
 *   [Open3D library](http://www.open3d.org/docs/release/) - Open3D library contanins 3D data processing and visualization algorithms. It is open-source and supports both C++ and Python.
-    *   [GitHub repository :octocat: (⭐8.2k)](https://github.com/intel-isl/Open3D)
+    *   [GitHub repository :octocat: (⭐9.3k)](https://github.com/intel-isl/Open3D)
     *   [YouTube channel :red\_circle:](https://www.youtube.com/channel/UCRJBlASPfPBtPXJSPffJV-w)
 
 ### Frameworks
@@ -360,11 +360,11 @@
 
 ### Events
 
-*   [Tokamak (⭐2.1k)](https://github.com/TokamakUI/Tokamak) - React-like declarative API for building native UI components with easy to use one-way data binding.
+*   [Tokamak (⭐2.3k)](https://github.com/TokamakUI/Tokamak) - React-like declarative API for building native UI components with easy to use one-way data binding.
 
 ### Fonts
 
-*   [SwiftUI-FontIcon (⭐88)](https://github.com/huybuidac/SwiftUIFontIcon) - Font icons for SwiftUI: font awesome, ionicons, material icons.
+*   [SwiftUI-FontIcon (⭐107)](https://github.com/huybuidac/SwiftUIFontIcon) - Font icons for SwiftUI: font awesome, ionicons, material icons.
 
 ## [11. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -377,9 +377,9 @@
 ### C, C++
 
 *   [ecrepl](https://gitlab.common-lisp.net/ecl/ecrepl) - an interactive REPL for the C language. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
-*   [cl-ssh-keys (⭐14)](https://github.com/dnaeon/cl-ssh-keys) - Common Lisp system for generating and parsing of OpenSSH keys. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   [cl-bcrypt (⭐10)](https://github.com/dnaeon/cl-bcrypt) - Common Lisp system for parsing and generating bcrypt password hashes. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
-    *   see also [cl-pass (⭐25)](https://github.com/eudoxia0/cl-pass), using pbkdf2.
+*   [cl-ssh-keys (⭐18)](https://github.com/dnaeon/cl-ssh-keys) - Common Lisp system for generating and parsing of OpenSSH keys. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [cl-bcrypt (⭐9)](https://github.com/dnaeon/cl-bcrypt) - Common Lisp system for parsing and generating bcrypt password hashes. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+    *   see also [cl-pass (⭐27)](https://github.com/eudoxia0/cl-pass), using pbkdf2.
 
 ### Python
 
@@ -387,7 +387,7 @@
 
 ### Deployment / Isomorphic web frameworks
 
-*   [cube (⭐33)](https://github.com/xh4/cube) - Kubernetes client library for Common LISP generated from the Swagger specification. [MIT](https://opensource.org/licenses/MIT).
+*   [cube (⭐34)](https://github.com/xh4/cube) - Kubernetes client library for Common LISP generated from the Swagger specification. [MIT](https://opensource.org/licenses/MIT).
 
 ### Utils / Third-party APIs
 
@@ -397,56 +397,49 @@
 
 ### UI Animation / Syntax Highlight
 
-*   [gooey-react (⭐580)](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
+*   [gooey-react (⭐620)](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
 
 ## [14. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ### Github Libraries / Randomized Algorithms
 
 *   Python
-    *   [by @nryoung (⭐2.8k)](https://github.com/nryoung/algorithms)
+    *   [by @nryoung (⭐2.9k)](https://github.com/nryoung/algorithms)
     *   [by @prakhar1989 (⭐2.9k)](https://github.com/prakhar1989/Algorithms)
     *   [by @laurentluce (⭐265)](https://github.com/laurentluce/python-algorithms)
-    *   [by @nbro (⭐51)](https://github.com/nbro/ands)
-    *   [by @keon (⭐22k)](https://github.com/keon/algorithms)
-    *   [by @vinta (⭐622)](https://github.com/vinta/fuck-coding-interviews)
+    *   [by @nbro (⭐52)](https://github.com/nbro/ands)
+    *   [by @keon (⭐23k)](https://github.com/keon/algorithms)
+    *   [by @vinta (⭐643)](https://github.com/vinta/fuck-coding-interviews)
 
-## [15. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [15. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
-### Apps
-
-*   [edChain](https://www.edchain.io/) - EdChain is a global network for education and careers. It uses blockchain and distributed web technologies to deliver educational content, even to those without broadband internet. [Source (⭐5)](https://github.com/edchainio/edchain-client-gui)
-*   [QuestNetwork Messenger (⭐22)](https://github.com/QuestNetwork/quest-messenger-js) - Multi-Platform End-To-End Encrypted Messenger on IPFS PubSub. Emulates Servers/Community with folders that can be shared using invitation codes. It's free and open source. On track to become the most comprehensive and user-friendly messenger on IPFS.
-
-## [16. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
-
-### Tools / Vendor supported providers
+### Tools / Community providers
 
 *   [terraform-operator](https://github.com/isaaguilar/terraform-operator.git) - A Kubernetes CRD to handle Terraform operations.
 
-## [17. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [16. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Analytics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Plausible Analytics](https://plausible.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/plausible/analytics) - Simple, lightweight (< 1 KB) and privacy-friendly web analytics. Hosted in the EU.
 
-## [18. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [17. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### CLI & Editor / iOS
 
 *   🔧 [Firecode (⭐34)](https://github.com/ChFlick/firecode) -  VS Code Firestore Rules Extension.
 *   🔧 [VSFire (⭐74)](https://github.com/toba/vsfire) - Deprecated ~~VSCode extension for syntax highlighting & code completions with Firestore security rules & indexes.~~
 
-## [19. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [18. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Game Development
 
-*   [crystal-chipmunk (⭐40)](https://github.com/oprypin/crystal-chipmunk) - Bindings to [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
-*   [crystal-imgui-sfml (⭐14)](https://github.com/oprypin/crystal-imgui-sfml) - Bindings to integrate [Dear ImGui (⭐47k)](https://github.com/ocornut/imgui) into an [SFML](https://www.sfml-dev.org/) project
+*   [crystal-chipmunk (⭐41)](https://github.com/oprypin/crystal-chipmunk) - Bindings to [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
+*   [crystal-imgui-sfml (⭐15)](https://github.com/oprypin/crystal-imgui-sfml) - Bindings to integrate [Dear ImGui (⭐51k)](https://github.com/ocornut/imgui) into an [SFML](https://www.sfml-dev.org/) project
 
 ### GUI Development
 
-*   [crystal-imgui (⭐55)](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui (⭐47k)](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
+*   [crystal-imgui (⭐61)](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui (⭐51k)](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
 
 ---
 

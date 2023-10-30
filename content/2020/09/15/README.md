@@ -20,9 +20,9 @@
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Atlas toolkit](https://atlastk.org/) - Lightweight library to develop single-page web applications that are instantly accessible. Available for Java, Node.js, Perl, Python and Ruby.
+*   [Atlas toolkit](https://atlastk.org/) - Lightweight library to develop single-page web applications that are instantly accessible. Available for Java, Node.js, Perl, Python, and Ruby.
 
 ## [4. Awesome Math](/content/rossant/awesome-math/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Projects
 
-*   [Drumbooth controller with touch interface (⭐4)](https://github.com/FDelporte/DrumBoothController) - Project using Java, JavaFX, Pi4J and Arduino to control 8 relays and LED strips.
+*   [Drumbooth controller with touch interface (⭐5)](https://github.com/FDelporte/DrumBoothController) - Project using Java, JavaFX, Pi4J and Arduino to control 8 relays and LED strips.
 
 ### Books / iOS
 
@@ -60,12 +60,12 @@
 
 ### Dashboard
 
-*   [swarmpit (⭐2.5k)](https://github.com/swarmpit/swarmpit)\
+*   [swarmpit (⭐2.7k)](https://github.com/swarmpit/swarmpit)\
     Lightweight mobile-friendly Docker Swarm management UI.
 
 ### Security / Tools
 
-*   [oci-seccomp-bpf-hook (⭐171)](https://github.com/containers/oci-seccomp-bpf-hook)\
+*   [oci-seccomp-bpf-hook (⭐218)](https://github.com/containers/oci-seccomp-bpf-hook)\
     OCI hook to trace syscalls and generate a seccomp profile.
 
 ## [9. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
@@ -80,7 +80,7 @@
 
 ### Cloud Infrastructure and Management
 
-*   [k8s (⭐271)](https://github.com/coryodaniel/k8s) - Kubernetes Elixir client with CRD support, multi-cluster support, pluggable auth, and configurable middleware.
+*   [k8s (⭐287)](https://github.com/coryodaniel/k8s) - Kubernetes Elixir client with CRD support, multi-cluster support, pluggable auth, and configurable middleware.
 
 ## [11. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
 
@@ -92,26 +92,26 @@
 
 ### Non-deterministic, logic programming
 
-*   [Temperance (⭐51)](https://github.com/sjl/temperance) - logic programming. [MIT](https://opensource.org/licenses/MIT). A focus on performance, with General Game Playing in mind.
+*   [Temperance (⭐53)](https://github.com/sjl/temperance) - logic programming. [MIT](https://opensource.org/licenses/MIT). A focus on performance, with General Game Playing in mind.
 
 ## [13. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Data augmentation
 
-*   [audiomentations (⭐1.3k)](https://github.com/iver56/audiomentations) [:octocat: (⭐1.3k)](https://github.com/iver56/audiomentations) [:package:](https://pypi.org/project/audiomentations/) -  Audio Data Augmentation.
-*   [muda](https://muda.readthedocs.io/en/latest/) [:octocat: (⭐215)](https://github.com/bmcfee/muda) [:package:](https://pypi.python.org/pypi/muda) -  Musical Data Augmentation.
+*   [audiomentations (⭐1.4k)](https://github.com/iver56/audiomentations) [:octocat: (⭐1.4k)](https://github.com/iver56/audiomentations) [:package:](https://pypi.org/project/audiomentations/) -  Audio Data Augmentation.
+*   [muda](https://muda.readthedocs.io/en/latest/) [:octocat: (⭐221)](https://github.com/bmcfee/muda) [:package:](https://pypi.python.org/pypi/muda) -  Musical Data Augmentation.
 
 ## [14. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Graphics
 
-*   [Color Picker](https://gitlab.gnome.org/World/gcolor3/) - Color pickle, working on both X11 and Wayland.
+*   [Color Picker](https://gitlab.gnome.org/World/gcolor3/) - Color picker, working on both X11 and Wayland.
 
 ## [15. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Server-side (Cloud Functions, BigQuery etc) / iOS
 
-*   🔌 [Firestore Queue System (⭐5)](https://github.com/sbarbat/firestore-queuer) - Simple queue system using Firestore and Cloud Functions.
+*   🔌 [Firestore Queue System (⭐6)](https://github.com/sbarbat/firestore-queuer) - Simple queue system using Firestore and Cloud Functions.
 
 ## [16. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/README.md)
 
@@ -123,14 +123,14 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-splide (⭐273)](https://github.com/Splidejs/vue-splide) - Splide is a free lightweight but powerful slider and carousel, written in pure JavaScript without any dependencies. It supports a thumbnail slider, nested slide.
-*   [Vue Flow Form (⭐659)](https://github.com/ditdot-dev/vue-flow-form) - Create conversational conditional-logic forms with Vue.js. [Online Demo](https://www.ditdot.hr/demo/vff/questionnaire/)
+*   [vue-splide (⭐292)](https://github.com/Splidejs/vue-splide) - Splide is a free lightweight but powerful slider and carousel, written in pure JavaScript without any dependencies. It supports a thumbnail slider, nested slide.
+*   [Vue Flow Form (⭐705)](https://github.com/ditdot-dev/vue-flow-form) - Create conversational conditional-logic forms with Vue.js. [Online Demo](https://www.ditdot.hr/demo/vff/questionnaire/)
 
 ## [18. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Application Frameworks
 
-*   [Newbe.Claptrap (⭐212)](https://github.com/newbe36524/Newbe.Claptrap) - This is a set of server-side development frameworks with reactive, event sourcing and Actor pattern as basic theories. On top of this, developers can develop "distributed", "scale out", and "easy to test" application more simply.
+*   [Newbe.Claptrap (⭐214)](https://github.com/newbe36524/Newbe.Claptrap) - This is a set of server-side development frameworks with reactive, event sourcing and Actor pattern as basic theories. On top of this, developers can develop "distributed", "scale out", and "easy to test" application more simply.
 
 ### Code Snippets
 
@@ -138,11 +138,11 @@
 
 ### Graphics
 
-*   [RealTimeGraphX (⭐186)](https://github.com/royben/RealTimeGraphX) - RealTimeGraphX is a data type agnostic, high performance plotting library for WPF, UWP and soon, Xamarin Forms.
+*   [RealTimeGraphX (⭐191)](https://github.com/royben/RealTimeGraphX) - RealTimeGraphX is a data type agnostic, high performance plotting library for WPF, UWP and soon, Xamarin Forms.
 
 ### Mathematics
 
-*   [MKL.NET (⭐67)](https://github.com/AnthonyLloyd/MKL.NET) - A simple cross platform .NET API for Intel MKL.
+*   [MKL.NET (⭐76)](https://github.com/AnthonyLloyd/MKL.NET) - A simple cross platform .NET API for Intel MKL.
 
 ### PDF
 

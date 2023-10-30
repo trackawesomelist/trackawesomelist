@@ -8,9 +8,9 @@
 
 ## [1. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
-*   [regula (⭐858)](https://github.com/fugue/regula) - Evaluates Terraform infrastructure-as-code for potential AWS, Azure, and Google Cloud security misconfigurations and compliance violations prior to deployment.
+*   [regula (⭐885)](https://github.com/fugue/regula) - Evaluates Terraform infrastructure-as-code for potential AWS, Azure, and Google Cloud security misconfigurations and compliance violations prior to deployment.
 
 ## [2. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Tools
 
-*   🌍🔧💼 [Twind (⭐3.3k)](https://github.com/tw-in-js/twind) - Compiler functions that turn Tailwind's classes into CSS at run, serve and build time.
+*   🌍🔧💼 [Twind (⭐3.6k)](https://github.com/tw-in-js/twind) - Compiler functions that turn Tailwind's classes into CSS at run, serve and build time.
 
 ## [5. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
@@ -79,18 +79,18 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-flv-player (⭐14)](https://github.com/wangdaodao/vue-flv-player) - An HTML5 Flash Video (FLV) Player component for Vue 2.x, based on flv.js.
+*   [vue-flv-player (⭐16)](https://github.com/wangdaodao/vue-flv-player) - An HTML5 Flash Video (FLV) Player component for Vue 2.x, based on flv.js.
 
 ## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Individual components / Tabs
 
-*   [BlazorXTabs (⭐26)](https://github.com/David-Moreira/BlazorXTabs) - ![last commit](https://img.shields.io/github/last-commit/David-Moreira/BlazorXTabs?style=flat-square\&cacheSeconds=86400) An extended tabs component library providing various tab features for Blazor.
+*   [BlazorXTabs (⭐27)](https://github.com/David-Moreira/BlazorXTabs) - ![last commit](https://img.shields.io/github/last-commit/David-Moreira/BlazorXTabs?style=flat-square\&cacheSeconds=86400) An extended tabs component library providing various tab features for Blazor.
 
 ### Individual components / Others
 
-*   [BlazorDownloadFile (⭐158)](https://github.com/arivera12/BlazorDownloadFile) - ![stars](https://img.shields.io/github/stars/arivera12/BlazorDownloadFile?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/arivera12/BlazorDownloadFile?style=flat-square\&cacheSeconds=86400) Blazor download files to the browser from c# without any JavaScript library or dependency. BlazorDownloadFile is the solution to saving files on the client-side, and is perfect for web apps that generates files on the client. However if the file is coming from the server we recommend you to first try to use Content-Disposition attachment response header as it has more cross-browser compatibility.
-*   [BlazorSliders (⭐29)](https://github.com/carlfranklin/BlazorSliders) - ![last commit](https://img.shields.io/github/last-commit/carlfranklin/BlazorSliders?style=flat-square\&cacheSeconds=86400) Create multiple panels separated by sliding splitters.
+*   [BlazorDownloadFile (⭐166)](https://github.com/arivera12/BlazorDownloadFile) - ![stars](https://img.shields.io/github/stars/arivera12/BlazorDownloadFile?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/arivera12/BlazorDownloadFile?style=flat-square\&cacheSeconds=86400) Blazor download files to the browser from c# without any JavaScript library or dependency. BlazorDownloadFile is the solution to saving files on the client-side, and is perfect for web apps that generates files on the client. However if the file is coming from the server we recommend you to first try to use Content-Disposition attachment response header as it has more cross-browser compatibility.
+*   [BlazorSliders (⭐32)](https://github.com/carlfranklin/BlazorSliders) - ![last commit](https://img.shields.io/github/last-commit/carlfranklin/BlazorSliders?style=flat-square\&cacheSeconds=86400) Create multiple panels separated by sliding splitters.
 
 ### Community / Others
 
@@ -98,23 +98,23 @@
 
 ## [13. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### CSV
+### CSV / Text-Based User Interfaces
 
-*   [FastCSV (⭐420)](https://github.com/osiegmar/FastCSV) - Performance-optimized, dependency-free and RFC 4180 compliant.
+*   [FastCSV (⭐472)](https://github.com/osiegmar/FastCSV) - Performance-optimized, dependency-free and RFC 4180 compliant.
 
-### Financial
+### Financial / Text-Based User Interfaces
 
-*   [ta4j (⭐1.7k)](https://github.com/ta4j/ta4j) - Library for technical analysis.
+*   [ta4j (⭐1.9k)](https://github.com/ta4j/ta4j) - Library for technical analysis.
 
 ### Security / Other
 
-*   [OTP-Java (⭐110)](https://github.com/BastiaanJansen/OTP-Java) - One-time password generator library according to RFC 4226 (HOTP) and RFC 6238 (TOTP).
+*   [OTP-Java (⭐146)](https://github.com/BastiaanJansen/OTP-Java) - One-time password generator library according to RFC 4226 (HOTP) and RFC 6238 (TOTP).
 
 ## [14. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Frameworks
 
-*   [Smooks (⭐347)](https://github.com/smooks/smooks) - An extensible Java framework for building XML and non-XML (CSV, EDI, Java, etc...) streaming applications.
+*   [Smooks (⭐365)](https://github.com/smooks/smooks) - An extensible Java framework for building XML and non-XML (CSV, EDI, Java, etc...) streaming applications.
 
 ---
 

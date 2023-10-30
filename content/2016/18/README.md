@@ -97,7 +97,7 @@
 
 ### Ask these people anything!
 
-*   [Joe Lencioni (⭐1)](https://github.com/lencioni/ama) - Building [ImportJS (⭐518)](https://github.com/Galooshi/import-js) and [Diffux CI](https://medium.com/brigade-engineering/the-end-of-visual-regressions-b6b5c3d810f). Web infra at [Airbnb](https://www.airbnb.com).
+*   [Joe Lencioni (⭐1)](https://github.com/lencioni/ama) - Building [ImportJS (⭐519)](https://github.com/Galooshi/import-js) and [Diffux CI](https://medium.com/brigade-engineering/the-end-of-visual-regressions-b6b5c3d810f). Web infra at [Airbnb](https://www.airbnb.com).
 
 ## [9. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -149,13 +149,13 @@
 
 ### For Electron / Other
 
-*   [electron-rebuild (⭐939)](https://github.com/electron/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
+*   [electron-rebuild (⭐956)](https://github.com/electron/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
 
 ## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Misc
 
-*   [ReactJS.NET (⭐2.2k)](https://github.com/reactjs/React.NET) - ReactJS.NET is a library that makes it easier to use Babel along with Facebook's React and JSX from C#.
+*   [ReactJS.NET (⭐2.3k)](https://github.com/reactjs/React.NET) - ReactJS.NET is a library that makes it easier to use Babel along with Facebook's React and JSX from C#.
 
 ## [14. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
@@ -189,7 +189,7 @@
 
 ### Traffic Analysis/Inspection
 
-*   [PacketQ (⭐379)](https://github.com/dotse/PacketQ): A tool that provides a basic SQL-frontend to PCAP-files. Outputs JSON, CSV and XML and includes a build-in webserver with JSON-api and a nice looking AJAX GUI.
+*   [PacketQ (⭐385)](https://github.com/dotse/PacketQ): A tool that provides a basic SQL-frontend to PCAP-files. Outputs JSON, CSV and XML and includes a build-in webserver with JSON-api and a nice looking AJAX GUI.
 
 ## [17. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -214,7 +214,7 @@
 
 ### Miscellaneous
 
-*   [docsapp.io](https://www.docsapp.io/) — Easiest way to publish documentation, free for Open Source
+*   [docsapp.io](https://www.docsapp.io/) — The easiest way to publish documentation, free for Open Source
 
 ## [21. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
 
@@ -241,11 +241,11 @@
 
 *   [crystalline (⭐127)](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
 *   [multiset.cr (⭐4)](https://github.com/tcrouch/multiset.cr) - Implementation of a multiset
-*   [radix (⭐102)](https://github.com/luislavena/radix) - Radix Tree implementation
+*   [radix (⭐101)](https://github.com/luislavena/radix) - Radix Tree implementation
 
 ### HTTP
 
-*   [http2 (⭐90)](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
+*   [http2 (⭐92)](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
 
 ### Template Engine
 
@@ -460,13 +460,9 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 
 ## [35. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
-### Actors
-
-*   [dflow (⭐13)](https://github.com/dalmatinerdb/dflow) - Pipelined flow processing engine.
-
 ### Logging
 
-*   [logglix (⭐10)](https://github.com/pragmaticivan/logglix) - A logger backend for posting errors to Loggly.
+*   [logglix (⭐11)](https://github.com/pragmaticivan/logglix) - A logger backend for posting errors to Loggly.
 
 ### ORM and Datamapping
 
@@ -500,12 +496,12 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 
 ### StackView / Barcode
 
-*   [StackViewController (⭐866)](https://github.com/seedco/StackViewController) - Simplify the use of UIStackView.
+*   [StackViewController (⭐868)](https://github.com/seedco/StackViewController) - Simplify the use of UIStackView.
 *   [TZStackView (⭐1.2k)](https://github.com/tomvanzummeren/TZStackView) - An iOS9 UIStackView layout component re-implemented for iOS 7 and 8.
 
 ### Utility / Barcode
 
-*   [SwiftyUtils (⭐537)](https://github.com/tbaranes/SwiftyUtils) - All the reusable code that we need in each project.
+*   [SwiftyUtils (⭐539)](https://github.com/tbaranes/SwiftyUtils) - All the reusable code that we need in each project.
 
 ## [38. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -518,7 +514,7 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 ### Modules / Stream
 
 *   [through2-map-promise (⭐3)](https://github.com/RangerMauve/through2-map-promise) - A small promise-based wrapper for through2.
-*   [pump (⭐880)](https://github.com/mafintosh/pump) - pipe streams together and close all of them if one of them closes.
+*   [pump (⭐895)](https://github.com/mafintosh/pump) - pipe streams together and close all of them if one of them closes.
 
 ### Modules / Other
 

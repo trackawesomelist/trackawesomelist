@@ -35,7 +35,7 @@
 
 ### Containers / Kubernetes
 
-*   [Callisto (⭐87)](https://github.com/wrike/callisto) - An open-source tool to launch browsers in Kubernetes. Separate is created for each selenium session.
+*   [Callisto (⭐97)](https://github.com/wrike/callisto) - An open-source tool to launch browsers in Kubernetes. Separate is created for each selenium session.
 
 ## [6. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Ruby / General-Purpose Machine Learning
 
-*   [rumale (⭐652)](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
+*   [rumale (⭐685)](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
 
 ## [10. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
@@ -136,12 +136,12 @@
 
 ### Audio Related Packages / Speech Processing
 
-*   [gentle (⭐1.2k)](https://github.com/lowerquality/gentle) [:octocat: (⭐1.2k)](https://github.com/lowerquality/gentle) - Forced-aligner built on Kaldi.
+*   [gentle (⭐1.3k)](https://github.com/lowerquality/gentle) [:octocat: (⭐1.3k)](https://github.com/lowerquality/gentle) - Forced-aligner built on Kaldi.
 
 ### Audio Related Packages / Source Separation
 
-*   [commonfate (⭐18)](https://github.com/aliutkus/commonfate) [:octocat: (⭐18)](https://github.com/aliutkus/commonfate) [:package:](https://pypi.python.org/pypi/commonfate) - Common Fate Model and Transform.
-*   [NIMFA](http://nimfa.biolab.si) [:octocat: (⭐500)](https://github.com/marinkaz/nimfa) [:package:](https://pypi.python.org/pypi/nimfa) - Several flavors of non-negative-matrix factorization.
+*   [commonfate (⭐17)](https://github.com/aliutkus/commonfate) [:octocat: (⭐17)](https://github.com/aliutkus/commonfate) [:package:](https://pypi.python.org/pypi/commonfate) - Common Fate Model and Transform.
+*   [NIMFA](http://nimfa.biolab.si) [:octocat: (⭐506)](https://github.com/marinkaz/nimfa) [:package:](https://pypi.python.org/pypi/nimfa) - Several flavors of non-negative-matrix factorization.
 
 ## [14. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -153,7 +153,7 @@
 
 ### Others / Others
 
-*   [BlazorWebView (⭐130)](https://github.com/jspuij/BlazorWebView) - ![GitHub stars](https://img.shields.io/github/stars/jspuij/BlazorWebView?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jspuij/BlazorWebView?style=flat-square\&cacheSeconds=86400) Blazor WebView control for WPF, Android, macOS, iOS. Run Blazor on .NET Core and Mono natively inside a Webview. [Documentation](https://jspuij.github.io/BlazorWebView.Docs/pages/index.html).
+*   [BlazorWebView (⭐133)](https://github.com/jspuij/BlazorWebView) - ![GitHub stars](https://img.shields.io/github/stars/jspuij/BlazorWebView?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jspuij/BlazorWebView?style=flat-square\&cacheSeconds=86400) Blazor WebView control for WPF, Android, macOS, iOS. Run Blazor on .NET Core and Mono natively inside a Webview. [Documentation](https://jspuij.github.io/BlazorWebView.Docs/pages/index.html).
 
 ## [16. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -164,7 +164,7 @@
 
 ### Class Based
 
-*   [Stencil (⭐11k)](https://github.com/ionic-team/stencil) - Compiler for generating Web Components.
+*   [Stencil (⭐12k)](https://github.com/ionic-team/stencil) - Compiler for generating Web Components.
 
 ### History / 2014
 

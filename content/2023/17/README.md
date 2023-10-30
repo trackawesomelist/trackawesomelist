@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 24 - Apr 30, 2023
 
-43 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,8 +22,8 @@
 
 ### Plugins
 
-*   [Sponge (⭐144)](https://github.com/meaningful-ooo/sponge) - Clean command history from typos automatically
-*   [Base16 Fish (⭐19)](https://github.com/FabioAntunes/base16-fish-shell) - A pure Fish solution to change your shell's default ANSI colors
+*   [Sponge (⭐151)](https://github.com/meaningful-ooo/sponge) - Clean command history from typos automatically
+*   [Base16 Fish (⭐21)](https://github.com/FabioAntunes/base16-fish-shell) - A pure Fish solution to change your shell's default ANSI colors
 
 ## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -33,45 +33,13 @@
 
 ### Generators / Other
 
-*   [Next.js (⭐105k)](https://github.com/vercel/next.js) - React powered static site generator, and they say "All the tools you need to make the Web. Faster.".
+*   [Next.js (⭐111k)](https://github.com/vercel/next.js) - React powered static site generator, and they say "All the tools you need to make the Web. Faster.".
 
 ## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Data Science
 
 *   [thomasnield/kotlin-statistics](https://github.com/thomasnield/kotlin-statistics) - Advanced math and statistical extensions for Kotlin.
-
-### Android / Projects
-
-*   [hanjoongcho/aaf-easyphotomap (⭐41)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
-*   [mustafaberkaymutlu/uv-index (⭐66)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
-*   [hanjoongcho/aaf-easypassword (⭐32)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
-
-### Android / Extensions
-
-*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
-
-### Android / Tests
-
-*   [agoda-com/Kakao (⭐1.1k)](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
-
-### Kotlin JavaScript / JavaScript
-
-*   [pixijs/pixi-native (⭐84)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
-*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
-*   [Foso/MpApt (⭐238)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
-
-### Kotlin JavaScript / Build Tools
-
-*   [Kotlin/kotlin-frontend-plugin (⭐569)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
-
-### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐323)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-### Kotlin Native / Projects
-
-*   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
 ## [6. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
@@ -81,7 +49,7 @@
 
 ### Music Programming
 
-*   [tuneflow-py (⭐721)](https://github.com/tuneflow/tuneflow-py/) - python plugin SDK for the next-gen DAW, that allows you to program your music algorithms & AI models into all stages of music production
+*   [tuneflow-py (⭐834)](https://github.com/tuneflow/tuneflow-py/) - python plugin SDK for the next-gen DAW, that allows you to program your music algorithms & AI models into all stages of music production
 
 ## [7. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
@@ -91,21 +59,7 @@
 
 
 
-## [8. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
-
-### Scripts / ChatGPT
-
-*   [ChatGPT Auto Refresh](https://chatgptevo.com/autorefresh) - Auto-sends background requests to keep sessions fresh & prevent Cloudflare checks + network errors.
-*   [ChatGPT Infinity](https://chatgptevo.com/infinity) - Generate endless answers from all-knowing ChatGPT (in any language!)
-*   [ChatGPT Widescreen Mode](https://chatgptevo.com/widescreen) - Adds Widescreen + Full-Window modes to ChatGPT.
-
-## [9. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
-
-### ⚙️ Middlewares / 🌱 Third Party
-
-*   [Idan-Fishman/validation (⭐1)](https://github.com/Idan-Fishman/validation) - Data validation middleware that validates sources such as the request body, query string parameters, and route parameters.
-
-## [10. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
+## [8. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
 
 ### Arch-based distros / Desktop
 
@@ -129,109 +83,38 @@
 
 *   [makepkg-optimize (⭐12)](https://github.com/ptr1337/makepkg-optimize) - A collection of supplemental tidy, buildenv, and executable scripts for pacman which provide macros for several kinds of optimization in the build() and package() stages.
 
-## [11. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [9. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
-### Miscellaneous / Angular
+### Miscellaneous / Svelte
 
 *   [News Minimalist](https://www.newsminimalist.com/). A curated newsletter utilizing AI (ChatGPT-4) to deliver only the most significant news. By analyzing 1000 top articles daily, it ensures subscribers stay informed without wasting time on unimportant updates.
 
-## [12. Awesome Plone](/content/collective/awesome-plone/week/README.md)
+## [10. Awesome Plone](/content/collective/awesome-plone/week/README.md)
 
 ### SEO
 
 *   [collective.splitsitemap (⭐0)](https://github.com/collective/collective.splitsitemap) - Provides a cached split sitemap on big public sites.
 
-## [13. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [11. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Mail
 
 *   [Imitate Email](https://imitate.email) - End-to-end email testing tool.
 
-## [14. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
-
-### Code & Database Assistant
-
-- Name: [Anania](https://anania.ai/?ref=aicollection)
-
-  Title: AI Assistant for Analytics.
-
-  Description: Ask questions on your data and documents.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Content Generation & Seo
-
-- Name: [CopyGen](https://copygen.pro/?ref=aicollection)
-
-  Title: AI-Powered Content Writing Assistant.
-
-  Description: Your go-to AI writing tool for creating high-quality, SEO-optimized content in seconds, without writer's block.
-
-  Offer Free Version: :x:
-
-
-- Name: [Jasper.ai](https://jasper.ai?utm_source=partner\&fpr=aicollection)
-
-  Title: Jasper - AI Copywriter - AI Content Generator for Teams.
-
-  Description: Jasper is the AI Content Generator that helps you and your team break through creative blocks to create amazing, original content 10X faster.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Education & Learning
-
-- Name: [QUIZGECKO](https://quizgecko.com/?via=aicollection)
-
-  Title: Stop Wasting Time Manually Creating Quizzes.
-
-  Description: Create and share quiz questions, flashcards, and notes instantly, from any text. Ideal for businesses, educators, and students alike.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Human Resources & Resume
-
-- Name: [resumator](https://www.resumator.ai/?ref=aicollection)
-
-  Title: Looking for a Job? We've Got You Covered.
-
-  Description: Get hired faster with our AI-powered personalized cover letter. It takes just a few seconds!.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Productivity & Personal Growth
-
-- Name: [Voilà](https://www.getvoila.ai/?ref=aicollection)
-
-  Title: Personal ChatGPT Assistant for Supercharged Productivity.
-
-  Description: Improve your writing, get answers to all your questions, draft high-quality content and respond to emails. All in one place.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-## [15. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Personal Dashboards
 
-*   [LinkStack](https://linkstack.org/) - Open-source, customizable, self-hosted alternative to services like Linktree and Manylink with an intuitive, easy to use user/admin interface. LinkStack allows you to link all your social media platforms easily accessible on one page. ([Demo](https://linksta.cc/), [Source Code (⭐793)](https://github.com/LinkStackOrg/LinkStack)) `AGPL-3.0` `PHP`
+*   [LinkStack](https://linkstack.org/) - Link all your social media platforms easily accessible on one page, customizable through an intuitive, easy to use user/admin interface (alternative to Linktree and Manylink). ([Demo](https://linksta.cc/), [Source Code (⭐1.3k)](https://github.com/LinkStackOrg/LinkStack)) `AGPL-3.0` `PHP/Docker`
 
-## [16. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [13. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### System and Customization
 
 *   [GDM Settings](https://gdm-settings.github.io) - A settings app for GDM (GNOME's Login Screen a.k.a GNOME Display Manager).
-*   [AdwSteamGtk (⭐83)](https://github.com/Foldex/AdwSteamGtk) - [Adwaita for Steam (⭐786)](https://github.com/tkashkin/Adwaita-for-Steam) skin installer.
+*   [AdwSteamGtk (⭐113)](https://github.com/Foldex/AdwSteamGtk) - [Adwaita for Steam (⭐884)](https://github.com/tkashkin/Adwaita-for-Steam) skin installer.
 
-## [17. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [14. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Books / Dissemination
 
@@ -239,7 +122,7 @@
 
 ### Books / General Overviews
 
-*   *[A First Course in Network Science](https://www.cambridge.org/us/academic/subjects/physics/statistical-physics/first-course-network-science)*, by Filippo Menczer, Santo Fortunato, and Clayton A. Davis - Tutorials, datasets and other resouces [on GitHub (⭐272)](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience) (2020).
+*   *[A First Course in Network Science](https://www.cambridge.org/us/academic/subjects/physics/statistical-physics/first-course-network-science)*, by Filippo Menczer, Santo Fortunato, and Clayton A. Davis - Tutorials, datasets and other resouces [on GitHub (⭐289)](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience) (2020).
 *   *[L'analyse de réseau en sciences sociales. Petit guide pratique](https://hal.science/hal-04052709)*, by Laurent Beauguitte, in French (2023). [Readable online](https://beauguitte.github.io/analyse-de-reseau-en-shs/).
 *   *[Networks, Crowds, and Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/)*, by David Easley and Jon Kleinberg - Full pre-publication draft ([review](http://bactra.org/reviews/networks-crowds-markets.html); 2010).
 *   *[The SAGE Handbook of Social Network Analysis](https://methods.sagepub.com/book/the-sage-handbook-of-social-network-analysis)*, edited by John Scott and Peter J. Carrington (2011).
@@ -255,13 +138,13 @@
 ### Courses / Topic-specific
 
 *   [Complex Networks](http://cazabetremy.fr/Teaching/ComplexNetworks.html), by Rémy Cazabet (University Lyon 1 and ENS Lyon, 2022).
-    *   [Network Science CheatSheets (⭐14)](https://github.com/Yquetzal/NetworkScience_CheatSheets).
+    *   [Network Science CheatSheets (⭐17)](https://github.com/Yquetzal/NetworkScience_CheatSheets).
 *   [Graphs and Networks](https://sites.google.com/a/yale.edu/462-562-graphs-and-networks/), by Dan Spielman (Yale University, 2013).
 *   [Network Analysis and Modeling (Computer Science)](https://aaronclauset.github.io/courses/5352/), by Aaron Clauset - Full lecture slides and readings (University of Colorado, 2022).
 
 ### Datasets / Topic-specific
 
-*   [Hetionet: an integrative network of disease (⭐202)](https://github.com/hetio/hetionet) - A complex biological network, available in multiple formats, including JSON and [Neo4j](https://neo4j.het.io/browser/).
+*   [Hetionet: an integrative network of disease (⭐213)](https://github.com/hetio/hetionet) - A complex biological network, available in multiple formats, including JSON and [Neo4j](https://neo4j.het.io/browser/).
 *   [Manlio De Domenico’s Complex Multilayer Networks](https://manliodedomenico.com/data.php).
 *   [State Networks](https://ippsr.msu.edu/public-policy/state-networks) - US state-to-state relational variables, including borders, travel, trade and more.
 *   [UC Berkeley Social Networks Study (UCNets)](https://www.icpsr.umich.edu/web/ICPSR/studies/36975) - Ego-centric data (personal networks) from a five-year panel study.
@@ -357,7 +240,7 @@
 *   [Palladio](http://hdlab.stanford.edu/palladio/) - Web-based spatial network visualization tool by the [Humanities + Design research lab](http://hdlab.stanford.edu/) at Stanford University.
 *   [PARTNER - Program to Analyze, Record, and Track Networks to Enhance Relationships](https://visiblenetworklabs.com/partner-cprm/) - Excel-based tool for building networks from surveys.
 *   [PIGALE - Public Implementation of a Graph Algorithm Library and Editor](https://pigale.sourceforge.net/) - Windows program and C++ library to analyze planar graphs.
-*   [qgis-edge-bundling (⭐61)](https://github.com/ait-energy/qgis-edge-bundling) - Implementation of force-directed edge bundling for the QGIS Processing toolbox.
+*   [qgis-edge-bundling (⭐62)](https://github.com/ait-energy/qgis-edge-bundling) - Implementation of force-directed edge bundling for the QGIS Processing toolbox.
 *   [Radatools](https://deim.urv.cat/~sergio.gomez/radatools.php) - Set of tools intended for the analysis of complex networks, built on top of [Radalib](http://deim.urv.cat/~sergio.gomez/radalib.php), a library written in Ada.
 *   [Retina](https://ouestware.gitlab.io/retina) - Web application to share GEXF and GraphML network visualizations.
 *   [SageMath](https://www.sagemath.org/) - Free open-source mathematics software with extensive [graph capabilities](http://doc.sagemath.org/html/en/reference/graphs/index.html).
@@ -390,7 +273,7 @@
 
 *   [Cytoscape.js](https://js.cytoscape.org/) - Network analysis and visualization library.
 *   [GoJS](https://gojs.net/) - Visualization library to draw diagrams and several types of network layouts.
-*   [Popoto.js (⭐454)](https://github.com/Nhogs/popoto) - Library based on d3.js that provides a graph based search interface.
+*   [Popoto.js (⭐467)](https://github.com/Nhogs/popoto) - Library based on d3.js that provides a graph based search interface.
 *   [Sigma](https://www.sigmajs.org/) - JavaScript library dedicated to graph drawing.
 *   [vis.js](https://visjs.org/) - JavaScript library with network visualization capabilities.
 
@@ -401,14 +284,14 @@
 ### Software / Python
 
 *   [bokeh](https://bokeh.org/) - Python library for interactive data visualization in the browser, with support for networks.
-*   [cdlib (⭐305)](https://github.com/GiulioRossetti/cdlib) - Python community detection library, with 60+ methods and evaluation/visualization features.
+*   [cdlib (⭐327)](https://github.com/GiulioRossetti/cdlib) - Python community detection library, with 60+ methods and evaluation/visualization features.
 *   [networkx](https://networkx.org/) - Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
     *   [Implementing an ERGM from Scratch in Python](https://gist.github.com/dmasad/8509304), using networkx and numpy (2014).
-    *   [nxviz (⭐426)](https://github.com/ericmjl/nxviz/) - Visualization package for NetworkX.
+    *   [nxviz (⭐436)](https://github.com/ericmjl/nxviz/) - Visualization package for NetworkX.
 *   [nngt](https://nngt.readthedocs.io) - Library-agnostic graph generation and analysis that wraps around `networkx`, `igraph` and `graph-tool`). Includes normalized graph measures, advanced visualizations, (geo)spatial tools, and interfaces for neuroscience simulators.
 *   [python-louvain](https://perso.crans.org/aynaud/communities/) - A solid implementation of Louvain community detection algorithm.
 *   [scipy.sparse.csgraph](https://docs.scipy.org/doc/scipy/reference/sparse.csgraph.html#module-scipy.sparse.csgraph) - Fast graph algorithms based on sparse matrix representations.
-*   [tnetwork (⭐8)](https://github.com/Yquetzal/tnetwork) - Python library for temporal networks, and dynamic community detection in particular.
+*   [tnetwork (⭐12)](https://github.com/Yquetzal/tnetwork) - Python library for temporal networks, and dynamic community detection in particular.
 
 ### Software / R
 
@@ -419,11 +302,10 @@
 *   [ergMargins](https://CRAN.R-project.org/package=ergMargins) - Process analysis for ERGMs.
 *   [ergmito](https://CRAN.R-project.org/package=ergmito) - ERGMs for small networks.
 *   [fergm](https://CRAN.R-project.org/package=fergm) - Frailty ERGMs.
-*   [goldfish (⭐52)](https://github.com/snlab-ch/goldfish) - Dynamic Network Actor-Oriented Model (DyNAM) for the statistical analysis of coordination networks through time.
+*   [goldfish (⭐55)](https://github.com/snlab-ch/goldfish) - Dynamic Network Actor-Oriented Model (DyNAM) for the statistical analysis of coordination networks through time.
 *   [graphlayouts](https://CRAN.R-project.org/package=graphlayouts) - Layout algorithms based on the concept of [stress majorization](https://doi.org/10.1007/978-3-540-31843-9_25).
     *   [Introducing graphlayouts with Game of Thrones](http://blog.schochastics.net/post/introducing-graphlayouts-with-got/).
-    *   [Network Visualizations in R using ggraph and graphlayouts](http://mr.schochastics.net/netVizR.html).
-*   [multigraphr (⭐12)](https://github.com/termehs/multigraphr) - Random multigraph models, statisticsof multigraph properties, and goodness of fit tests.
+    *   [Network Visualizations in R using ggraph and graphlayouts](https://mr.schochastics.net/material/netVizR/).
 *   [multinet](https://CRAN.R-project.org/package=multinet) - Tools for multilayer social networks.
     *   [Related book and data](http://multilayer.it.uu.se/), and [presentation article](http://multilayer.it.uu.se/papers/jss.pdf). See `uunet` for the Python version.
 *   [migraph](https://CRAN.R-project.org/web/packages/migraph/) - A set of tools that extend common social network analysis packages for analysing multimodal and multilevel networks.
@@ -440,7 +322,7 @@
 
 ### Software / Syntaxes
 
-*   [JGraphT](https://jgrapht.org/) - Java graph library for graph data structures and algorithms ([example algorithms (⭐8)](https://github.com/agouge/Java-Network-Analyzer)).
+*   [JGraphT](https://jgrapht.org/) - Java graph library for graph data structures and algorithms ([example algorithms (⭐9)](https://github.com/agouge/Java-Network-Analyzer)).
 *   [JUNG - Java Universal Network/Graph Framework](https://jung.sourceforge.net/) - Extensible library to represent network objects.
 
 ### Varia / Tutorials
@@ -490,27 +372,27 @@
 *   [Generalized Blockmodeling of Two-mode Network Data](https://doi.org/10.1016/j.socnet.2004.01.002) ([preprint](http://vlado.fmf.uni-lj.si/pub/networks/doc/preprint/TwoMode.pdf)).
 *   [Generalized Two-Mode Cores](https://doi.org/10.1016/j.socnet.2015.04.001).
 
-## [18. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [15. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Acquisition
 
-*   [Scoop (⭐48)](https://github.com/harvard-lil/scoop) - High-fidelity, browser-based, single-page web archiving library and CLI for witnessing the web. *(Stable)*
+*   [Scoop (⭐71)](https://github.com/harvard-lil/scoop) - High-fidelity, browser-based, single-page web archiving library and CLI for witnessing the web. *(Stable)*
 
-## [19. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [16. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
-### Inbox: Large Language Models / Contribute to Our Repository
+### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
-*   \[🔥🔥🔥] [Mooler0410/LLMsPracticalGuide (⭐3.7k)](https://github.com/Mooler0410/LLMsPracticalGuide): list of practical guide resources of LLMs based on the paper [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/abs/2304.13712)
-*   [hpcaitech/ColossalAI (⭐30k)](https://github.com/hpcaitech/ColossalAI): Making large AI models cheaper, faster and more accessible
-*   [microsoft/LoRA (⭐4k)](https://github.com/microsoft/LoRA): Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"s
+*   \[🔥🔥🔥] [Mooler0410/LLMsPracticalGuide (⭐6.9k)](https://github.com/Mooler0410/LLMsPracticalGuide): list of practical guide resources of LLMs based on the paper [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/abs/2304.13712)
+*   [hpcaitech/ColossalAI (⭐35k)](https://github.com/hpcaitech/ColossalAI): Making large AI models cheaper, faster and more accessible
+*   [microsoft/LoRA (⭐6.9k)](https://github.com/microsoft/LoRA): Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"s
 
 ### Related Awesome Lists / Galleries
 
-*   [kyrolabs/awesome-langchain (⭐552)](https://github.com/kyrolabs/awesome-langchain): 😎 Awesome list of tools and project with the awesome LangChain framework
+*   [kyrolabs/awesome-langchain (⭐5.4k)](https://github.com/kyrolabs/awesome-langchain): 😎 Awesome list of tools and project with the awesome LangChain framework
 
-### Inbox: Large Language Models / Embeddings and Semantic Search
+### Inbox: Large Language Models (LLMs) / Embeddings and Semantic Search
 
-*   [neuml/txtai (⭐4k)](https://github.com/neuml/txtai): semantic search and workflows powered by language models
+*   [neuml/txtai (⭐5.3k)](https://github.com/neuml/txtai): semantic search and workflows powered by language models
 
 ### Courses and Educational Materials / Deforum
 
@@ -518,102 +400,98 @@
 
 ### Image Synthesis / Promptism
 
-*   [deep-floyd/IF (⭐6.1k)](https://github.com/deep-floyd/IF): open-source text-to-image model with a high degree of photorealism and language understanding by Stability.AI
+*   [deep-floyd/IF (⭐7.2k)](https://github.com/deep-floyd/IF): open-source text-to-image model with a high degree of photorealism and language understanding by Stability.AI
 
 ### Inbox: Music and Audio projects / Generative Adversarial Networks (GANs)
 
-*   [AudioGPT | arxiv](https://arxiv.org/abs/2304.12995): Understanding and Generating Speech, Music, Sound, and Talking Head [\[code\] (⭐8.1k)](https://github.com/AIGC-Audio/AudioGPT) [\[demo\]](https://huggingface.co/spaces/AIGC-Audio/AudioGPT)
+*   [AudioGPT | arxiv](https://arxiv.org/abs/2304.12995): Understanding and Generating Speech, Music, Sound, and Talking Head [\[code\] (⭐9.3k)](https://github.com/AIGC-Audio/AudioGPT) [\[demo\]](https://huggingface.co/spaces/AIGC-Audio/AudioGPT)
 
-### Inbox: Developing + AI / Generative Adversarial Networks (GANs)
+### Inbox: DEV + AI / Generative Adversarial Networks (GANs)
 
 *   [A Systematic Evaluation of Large Language Models of Code](https://arxiv.org/abs/2202.13169): arxiv paper
 
-## [20. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [17. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Other
 
 *   [m-ld](https://m-ld.org/): A software library enabling distributed applications to read and write shared information consistently with zero latency, using Semantic Web technology and CRDTs (Conflict-Free Replicated Data Types).
 
-## [21. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [18. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### LangChain Framework
 
-*   [LangChain.js (⭐5k)](https://github.com/hwchase17/langchainjs): the js brother ✨ ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchainjs?style=social)
-*   [LangChainHub (⭐2k)](https://github.com/hwchase17/langchain-hub): collection of all artifacts useful for working with LangChain primitives such as prompts, chains and agents ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain-hub?style=social)
+*   [LangChain.js (⭐8.5k)](https://github.com/hwchase17/langchainjs): the js brother ✨ ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchainjs?style=social)
+*   [LangChainHub (⭐2.8k)](https://github.com/hwchase17/langchain-hub): collection of all artifacts useful for working with LangChain primitives such as prompts, chains and agents ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain-hub?style=social)
+
+### Ports to other languages
+
+*   [BoxCars (⭐364)](https://github.com/BoxcarsAI/boxcars): Ruby gem, Building applications with composability using Boxcars with LLM's. Inspired by LangChain. ![GitHub Repo stars](https://img.shields.io/github/stars/BoxcarsAI/boxcars?style=social)
+*   [LangTorch (⭐262)](https://github.com/Knowly-ai/langtorch): Building composable LLM applications with Java / JVM. Inspired by LangChain. ![GitHub Repo stars](https://img.shields.io/github/stars/Knowly-ai/langtorch?style=social)
 
 ### Tools / Low-code
 
-*   [Langflow (⭐7.2k)](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)
-*   [Flowise - LangchainJS UI (⭐5.7k)](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)
-*   [Databerry (⭐1.5k)](https://github.com/gmpetrov/databerry): The no-code platform for semantic search and documents retrieval ![GitHub Repo stars](https://img.shields.io/github/stars/gmpetrov/databerry?style=social)
-*   [LangchainUI (⭐620)](https://github.com/homanp/langchain-ui): The open source chat-ai toolkit ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/langchain-ui?style=social)
-*   [Yeager.ai (⭐409)](https://github.com/yeagerai/yeagerai-agent): Yeager.ai Agent is the first Langchain Agent creator designed to help you build, prototype, and deploy AI-powered agents with ease ![GitHub Repo stars](https://img.shields.io/github/stars/yeagerai/yeagerai-agent?style=social)
+*   [Langflow (⭐13k)](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)
 
 ### Tools / Services
 
-*   [LlamaHub (⭐1.5k)](https://github.com/emptycrown/llama-hub): a library of data loaders for LLMs made by the community ![GitHub Repo stars](https://img.shields.io/github/stars/emptycrown/llama-hub?style=social)
-*   [EVAL (⭐761)](https://github.com/corca-ai/EVAL): Elastic Versatile Agent with Langchain. will execute all your requests. ![GitHub Repo stars](https://img.shields.io/github/stars/corca-ai/EVAL?style=social)
-*   [Auto-evaluator (⭐737)](https://github.com/PineappleExpress808/auto-evaluator): a lightweight evaluation tool for question-answering using Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/PineappleExpress808/auto-evaluator?style=social)
-*   [Langchain visualizer (⭐371)](https://github.com/amosjyng/langchain-visualizer): visualization and debugging tool for LangChain workflows ![GitHub Repo stars](https://img.shields.io/github/stars/amosjyng/langchain-visualizer?style=social)
-*   [LLM Strategy (⭐273)](https://github.com/BlackHC/llm-strategy): implementing the Strategy Pattern using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/BlackHC/llm-strategy?style=social)
-*   [datasetGPT (⭐161)](https://github.com/radi-cho/datasetGPT): A command-line interface to generate textual and conversational datasets with LLMs. ![GitHub Repo stars](https://img.shields.io/github/stars/radi-cho/datasetGPT?style=social)
-*   [spellbook-forge (⭐25)](https://github.com/rafalzawadzki/spellbook-forge): Make your LLM prompts executable and version controlled. ![GitHub Repo stars](https://img.shields.io/github/stars/rafalzawadzki/spellbook-forge?style=social)
+*   [LlamaHub (⭐2.5k)](https://github.com/emptycrown/llama-hub): a library of data loaders for LLMs made by the community ![GitHub Repo stars](https://img.shields.io/github/stars/emptycrown/llama-hub?style=social)
+*   [EVAL (⭐838)](https://github.com/corca-ai/EVAL): Elastic Versatile Agent with Langchain. will execute all your requests. ![GitHub Repo stars](https://img.shields.io/github/stars/corca-ai/EVAL?style=social)
+*   [Auto-evaluator (⭐944)](https://github.com/PineappleExpress808/auto-evaluator): a lightweight evaluation tool for question-answering using Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/PineappleExpress808/auto-evaluator?style=social)
+*   [Langchain visualizer (⭐587)](https://github.com/amosjyng/langchain-visualizer): visualization and debugging tool for LangChain workflows ![GitHub Repo stars](https://img.shields.io/github/stars/amosjyng/langchain-visualizer?style=social)
+*   [LLM Strategy (⭐317)](https://github.com/BlackHC/llm-strategy): implementing the Strategy Pattern using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/BlackHC/llm-strategy?style=social)
+*   [datasetGPT (⭐252)](https://github.com/radi-cho/datasetGPT): A command-line interface to generate textual and conversational datasets with LLMs. ![GitHub Repo stars](https://img.shields.io/github/stars/radi-cho/datasetGPT?style=social)
+*   [spellbook-forge (⭐50)](https://github.com/rafalzawadzki/spellbook-forge): Make your LLM prompts executable and version controlled. ![GitHub Repo stars](https://img.shields.io/github/stars/rafalzawadzki/spellbook-forge?style=social)
 
 ### Tools / Agents
 
-*   [ThinkGPT (⭐1.1k)](https://github.com/alaeddine-13/thinkgpt): Agent techniques to augment your LLM and push it beyond its limits ![GitHub Repo stars](https://img.shields.io/github/stars/alaeddine-13/thinkgpt?style=social)
-*   [Camel-AutoGPT (⭐716)](https://github.com/SamurAIGPT/Camel-AutoGPT): role-playing approach for LLMs and auto-agents like BabyAGI & AutoGPT ![GitHub Repo stars](https://img.shields.io/github/stars/SamurAIGPT/Camel-AutoGPT?style=social)
-*   [PyCodeAGI (⭐137)](https://github.com/chakkaradeep/pyCodeAGI): A small AGI experiment to generate a Python app given what app the user wants to build ![GitHub Repo stars](https://img.shields.io/github/stars/chakkaradeep/pyCodeAGI?style=social)
+*   [ThinkGPT (⭐1.4k)](https://github.com/alaeddine-13/thinkgpt): Agent techniques to augment your LLM and push it beyond its limits ![GitHub Repo stars](https://img.shields.io/github/stars/alaeddine-13/thinkgpt?style=social)
+*   [Camel-AutoGPT (⭐1k)](https://github.com/SamurAIGPT/Camel-AutoGPT): role-playing approach for LLMs and auto-agents like BabyAGI & AutoGPT ![GitHub Repo stars](https://img.shields.io/github/stars/SamurAIGPT/Camel-AutoGPT?style=social)
+*   [PyCodeAGI (⭐172)](https://github.com/chakkaradeep/pyCodeAGI): A small AGI experiment to generate a Python app given what app the user wants to build ![GitHub Repo stars](https://img.shields.io/github/stars/chakkaradeep/pyCodeAGI?style=social)
 
 ### Tools / Templates
 
-*   [create-t3-turbo-ai (⭐270)](https://github.com/zckly/create-t3-turbo-ai): t3 based, Langchain-friendly boilerplate for building type-safe, full-stack, LLM-powered web apps with Nextjs and Prisma ![GitHub Repo stars](https://img.shields.io/github/stars/zckly/create-t3-turbo-ai?style=social)
-*   [LangChain.js LLM Template (⭐218)](https://github.com/Conner1115/LangChain.js-LLM-Template): LangChain LLM template that allows you to train your own custom AI LLM model. ![GitHub Repo stars](https://img.shields.io/github/stars/Conner1115/LangChain.js-LLM-Template?style=social)
-*   [Streamlit Template (⭐153)](https://github.com/hwchase17/langchain-streamlit-template): template for how to deploy a LangChain on Streamlit ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain-streamlit-template?style=social)
-*   [Codespaces Template (⭐78)](https://github.com/lostintangent/codespaces-langchain): a Codespaces template for getting up-and-running with LangChain in seconds! ![GitHub Repo stars](https://img.shields.io/github/stars/lostintangent/codespaces-langchain?style=social)
-*   [Gradio Template (⭐71)](https://github.com/hwchase17/langchain-gradio-template): template for how to deploy a LangChain on Gradio ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain-gradio-template?style=social)
+*   [create-t3-turbo-ai (⭐315)](https://github.com/zckly/create-t3-turbo-ai): t3 based, Langchain-friendly boilerplate for building type-safe, full-stack, LLM-powered web apps with Nextjs and Prisma ![GitHub Repo stars](https://img.shields.io/github/stars/zckly/create-t3-turbo-ai?style=social)
+*   [LangChain.js LLM Template (⭐284)](https://github.com/Conner1115/LangChain.js-LLM-Template): LangChain LLM template that allows you to train your own custom AI LLM model. ![GitHub Repo stars](https://img.shields.io/github/stars/Conner1115/LangChain.js-LLM-Template?style=social)
+*   [Streamlit Template (⭐234)](https://github.com/hwchase17/langchain-streamlit-template): template for how to deploy a LangChain on Streamlit ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain-streamlit-template?style=social)
+*   [Codespaces Template (⭐96)](https://github.com/lostintangent/codespaces-langchain): a Codespaces template for getting up-and-running with LangChain in seconds! ![GitHub Repo stars](https://img.shields.io/github/stars/lostintangent/codespaces-langchain?style=social)
+*   [Gradio Template (⭐107)](https://github.com/hwchase17/langchain-gradio-template): template for how to deploy a LangChain on Gradio ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain-gradio-template?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [Paper QA (⭐2.4k)](https://github.com/whitead/paper-qa): LLM Chain for answering questions from documents with citations ![GitHub Repo stars](https://img.shields.io/github/stars/whitead/paper-qa?style=social)
-*   [Chat Langchain (⭐2.4k)](https://github.com/hwchase17/chat-langchain): locally hosted chatbot specifically focused on question answering over the LangChain documentation ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/chat-langchain?style=social)
-*   [Book GPT (⭐358)](https://github.com/fraserxu/book-gpt): drop a book, start asking question. ![GitHub Repo stars](https://img.shields.io/github/stars/fraserxu/book-gpt?style=social)
-*   [Chat LangchainJS (⭐235)](https://github.com/sullivan-sean/chat-langchainjs): NextJS version of Chat Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/sullivan-sean/chat-langchainjs?style=social)
-*   [Doc Search (⭐541)](https://github.com/namuan/dr-doc-search): converse with book - Built with GPT-3 ![GitHub Repo stars](https://img.shields.io/github/stars/namuan/dr-doc-search?style=social)
-*   [Fact Checker (⭐172)](https://github.com/jagilley/fact-checker): fact-checking LLM outputs with langchain ![GitHub Repo stars](https://img.shields.io/github/stars/jagilley/fact-checker?style=social)
-*   [QABot (⭐162)](https://github.com/hardbyte/qabot): Query local or remote files or databases with natural language queries powered by langchain and openai ![GitHub Repo stars](https://img.shields.io/github/stars/hardbyte/qabot?style=social)
-*   [GPT Automator (⭐123)](https://github.com/chidiwilliams/GPT-Automator): Your voice-controlled Mac assistant. ![GitHub Repo stars](https://img.shields.io/github/stars/chidiwilliams/GPT-Automator?style=social)
-*   [Teams LangchainJS (⭐39)](https://github.com/SidU/teams-langchain-js): Demonstration of LangChainJS with Teams / Bot Framework bots ![GitHub Repo stars](https://img.shields.io/github/stars/SidU/teams-langchain-js?style=social)
-*   [ChatGPT (⭐38)](https://github.com/biff-ai/chatgpt-langchainjs-example): ChatGPT & langchain example for node.js & Docker ![GitHub Repo stars](https://img.shields.io/github/stars/biff-ai/chatgpt-langchainjs-example?style=social)
-*   [FlowGPT (⭐77)](https://github.com/nilooy/flowgpt): Generate diagram with AI ![GitHub Repo stars](https://img.shields.io/github/stars/nilooy/flowgpt?style=social)
-*   [langchain-text-summarizer (⭐7)](https://github.com/alphasecio/langchain-text-summarizer): A sample streamlit application summarizing text using LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/alphasecio/langchain-text-summarizer?style=social)
+*   [Paper QA (⭐3.1k)](https://github.com/whitead/paper-qa): LLM Chain for answering questions from documents with citations ![GitHub Repo stars](https://img.shields.io/github/stars/whitead/paper-qa?style=social)
+*   [Chat Langchain (⭐3.8k)](https://github.com/hwchase17/chat-langchain): locally hosted chatbot specifically focused on question answering over the LangChain documentation ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/chat-langchain?style=social)
+*   [Book GPT (⭐418)](https://github.com/fraserxu/book-gpt): drop a book, start asking question. ![GitHub Repo stars](https://img.shields.io/github/stars/fraserxu/book-gpt?style=social)
+*   [Chat LangchainJS (⭐287)](https://github.com/sullivan-sean/chat-langchainjs): NextJS version of Chat Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/sullivan-sean/chat-langchainjs?style=social)
+*   [Doc Search (⭐593)](https://github.com/namuan/dr-doc-search): converse with book - Built with GPT-3 ![GitHub Repo stars](https://img.shields.io/github/stars/namuan/dr-doc-search?style=social)
+*   [Fact Checker (⭐228)](https://github.com/jagilley/fact-checker): fact-checking LLM outputs with langchain ![GitHub Repo stars](https://img.shields.io/github/stars/jagilley/fact-checker?style=social)
+*   [QABot (⭐184)](https://github.com/hardbyte/qabot): Query local or remote files or databases with natural language queries powered by langchain and openai ![GitHub Repo stars](https://img.shields.io/github/stars/hardbyte/qabot?style=social)
+*   [GPT Automator (⭐173)](https://github.com/chidiwilliams/GPT-Automator): Your voice-controlled Mac assistant. ![GitHub Repo stars](https://img.shields.io/github/stars/chidiwilliams/GPT-Automator?style=social)
+*   [Teams LangchainJS (⭐50)](https://github.com/SidU/teams-langchain-js): Demonstration of LangChainJS with Teams / Bot Framework bots ![GitHub Repo stars](https://img.shields.io/github/stars/SidU/teams-langchain-js?style=social)
+*   [ChatGPT (⭐53)](https://github.com/biff-ai/chatgpt-langchainjs-example): ChatGPT & langchain example for node.js & Docker ![GitHub Repo stars](https://img.shields.io/github/stars/biff-ai/chatgpt-langchainjs-example?style=social)
+*   [FlowGPT (⭐178)](https://github.com/nilooy/flowgpt): Generate diagram with AI ![GitHub Repo stars](https://img.shields.io/github/stars/nilooy/flowgpt?style=social)
+*   [langchain-text-summarizer (⭐14)](https://github.com/alphasecio/langchain-text-summarizer): A sample streamlit application summarizing text using LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/alphasecio/langchain-text-summarizer?style=social)
 
-### Learn / Videos
+### Other LLM Frameworks / Videos Playlists
 
-*   [LangChain Crash Course: Build a AutoGPT ](https://www.youtube.com/watch?v=MlK6SIjcjE8) (Nicholas Renotte)
+*   [LlamaIndex (⭐23k)](https://github.com/jerryjliu/llama_index): provides a central interface to connect your LLM's with external data. ![GitHub Repo stars](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social)
+*   [Semantic Kernel (⭐14k)](https://github.com/microsoft/semantic-kernel): Microsoft C# SDK to integrate cutting-edge LLM technology quickly and easily into your apps ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social)
+*   [Promptify (⭐2.6k)](https://github.com/promptslab/Promptify): Prompt Engineering | Use GPT or other prompt based models to get structured output. ![GitHub Repo stars](https://img.shields.io/github/stars/promptslab/Promptify?style=social)
+*   [PromptSource (⭐2.2k)](https://github.com/bigscience-workshop/promptsource): About Toolkit for creating, sharing and using natural language prompts. ![GitHub Repo stars](https://img.shields.io/github/stars/bigscience-workshop/promptsource?style=social)
+*   [Agent-LLM (⭐2.1k)](https://github.com/Josh-XT/Agent-LLM): An Artificial Intelligence Automation Platform. ![GitHub Repo stars](https://img.shields.io/github/stars/Josh-XT/Agent-LLM?style=social)
+*   [MiniChain (⭐920)](https://github.com/srush/MiniChain): A tiny library for coding with large language models. ![GitHub Repo stars](https://img.shields.io/github/stars/srush/MiniChain?style=social)
+*   [Griptape (⭐1.1k)](https://github.com/griptape-ai/griptape): Python framework for AI workflows and pipelines with chain of thought reasoning, external tools, and memory. ![GitHub Repo stars](https://img.shields.io/github/stars/griptape-ai/griptape?style=social)
 
-### Learn / Articles
+### Complement to this list / Videos Playlists
 
-*   [Getting Started with LangChain: A Beginner’s Guide to Building LLM-Powered Applications](https://towardsdatascience.com/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c)
+*   [Awesome LLM (⭐8.6k)](https://github.com/Hannibal046/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model resources. ![GitHub Repo stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social)
+*   [LLaMA Cult and More (⭐396)](https://github.com/shm007g/LLaMA-Cult-and-More): Keeping Track of Affordable LLMs, 🦙 Cult and More ![GitHub Repo stars](https://img.shields.io/github/stars/shm007g/LLaMA-Cult-and-More?style=social)
 
-### Alternatives / Articles
+### Unmaintained / Videos Playlists
 
-*   [LlamaIndex (⭐16k)](https://github.com/jerryjliu/llama_index): provides a central interface to connect your LLM's with external data. ![GitHub Repo stars](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social)
-*   [Semantic Kernel (⭐9.3k)](https://github.com/microsoft/semantic-kernel): Microsoft C# SDK to integrate cutting-edge LLM technology quickly and easily into your apps ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social)
-*   [Promptify (⭐2k)](https://github.com/promptslab/Promptify): Prompt Engineering | Use GPT or other prompt based models to get structured output. ![GitHub Repo stars](https://img.shields.io/github/stars/promptslab/Promptify?style=social)
-*   [PromptSource (⭐1.8k)](https://github.com/bigscience-workshop/promptsource): About Toolkit for creating, sharing and using natural language prompts. ![GitHub Repo stars](https://img.shields.io/github/stars/bigscience-workshop/promptsource?style=social)
-*   [Agent-LLM (⭐1.6k)](https://github.com/Josh-XT/Agent-LLM): An Artificial Intelligence Automation Platform. ![GitHub Repo stars](https://img.shields.io/github/stars/Josh-XT/Agent-LLM?style=social)
-*   [MiniChain (⭐555)](https://github.com/srush/MiniChain): A tiny library for coding with large language models. ![GitHub Repo stars](https://img.shields.io/github/stars/srush/MiniChain?style=social)
-*   [Griptape (⭐545)](https://github.com/griptape-ai/griptape): Python framework for AI workflows and pipelines with chain of thought reasoning, external tools, and memory. ![GitHub Repo stars](https://img.shields.io/github/stars/griptape-ai/griptape?style=social)
-*   [BoxCars (⭐282)](https://github.com/BoxcarsAI/boxcars): Ruby gem, Building applications with composability using Boxcars with LLM's. Inspired by LangChain. ![GitHub Repo stars](https://img.shields.io/github/stars/BoxcarsAI/boxcars?style=social)
-*   [LangTorch (⭐95)](https://github.com/Knowly-ai/langtorch): Building composable LLM applications with Java / JVM. Inspired by LangChain. ![GitHub Repo stars](https://img.shields.io/github/stars/Knowly-ai/langtorch?style=social)
+*   [LangchainUI (⭐812)](https://github.com/homanp/langchain-ui): The open source chat-ai toolkit ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/langchain-ui?style=social)
+*   [Yeager.ai (⭐549)](https://github.com/yeagerai/yeagerai-agent): Yeager.ai Agent is the first Langchain Agent creator designed to help you build, prototype, and deploy AI-powered agents with ease ![GitHub Repo stars](https://img.shields.io/github/stars/yeagerai/yeagerai-agent?style=social)
 
-### Complement to this list / Articles
-
-*   [Awesome LLM (⭐3.6k)](https://github.com/Hannibal046/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model resources. ![GitHub Repo stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social)
-*   [LLaMA Cult and More (⭐269)](https://github.com/shm007g/LLaMA-Cult-and-More): Keeping Track of Affordable LLMs, 🦙 Cult and More ![GitHub Repo stars](https://img.shields.io/github/stars/shm007g/LLaMA-Cult-and-More?style=social)
-
-## [22. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [19. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Asia
 
@@ -635,23 +513,23 @@
 
 *   [Crafting Digital History](http://workbook.craftingdigitalhistory.ca/) - A Workbook for Methods and Readings in Digital History.
 
-## [23. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [20. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Entertainment
 
-*   [FlutterLeague (⭐10)](https://github.com/csuka1219/Flutter_League) -  Companion app for League of Legends players that allows them to search for summoners, view their stats and match history, and check currently ongoing games. by [csuka1219](https://github.com/csuka1219).
+*   [FlutterLeague (⭐13)](https://github.com/csuka1219/Flutter_League) -  Companion app for League of Legends players that allows them to search for summoners, view their stats and match history, and check currently ongoing games. by [csuka1219](https://github.com/csuka1219).
 
 ### Contents / Personalization
 
-*   [LifeList (⭐23)](https://github.com/Spyy004/LifeList) - Plan, Track, and Achieve Your Life Goals Effortlessly by [Ayush Pawar](https://github.com/Spyy004)
+*   [LifeList (⭐29)](https://github.com/Spyy004/LifeList) - Plan, Track, and Achieve Your Life Goals Effortlessly by [Ayush Pawar](https://github.com/Spyy004)
 
-## [24. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [21. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### UI Libraries
 
 *   [Flowbite Svelte](https://flowbite-svelte.com/) - Open-source Svelte UI components built with Tailwind CSS and Flowbite.
 
-## [25. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [22. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React General Resources
 
@@ -659,23 +537,23 @@
 
 ### React State Management and Data Fetching
 
-*   [redux (⭐59k)](https://github.com/reduxjs/redux) - Predictable State Container for JavaScript Apps
-*   [xstate (⭐24k)](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web
-*   [rxdb (⭐19k)](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
-*   [watermelondb (⭐9.1k)](https://github.com/Nozbe/WatermelonDB) - Reactive & asynchronous database for powerful React and React Native apps
+*   [redux (⭐60k)](https://github.com/reduxjs/redux) - Predictable State Container for JavaScript Apps
+*   [xstate (⭐25k)](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web
+*   [rxdb (⭐20k)](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
+*   [watermelondb (⭐9.5k)](https://github.com/Nozbe/WatermelonDB) - Reactive & asynchronous database for powerful React and React Native apps
 
 ### React Maps
 
-*   [react-map-gl (⭐7.1k)](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
-*   [react-leaflet (⭐4.5k)](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
+*   [react-map-gl (⭐7.3k)](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
+*   [react-leaflet (⭐4.8k)](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 
 ### React Charts
 
-*   [visx (⭐17k)](https://github.com/airbnb/visx) - Visualization components
+*   [visx (⭐18k)](https://github.com/airbnb/visx) - Visualization components
 
 ### React Renderers
 
-*   [remotion (⭐16k)](https://github.com/remotion-dev/remotion) - Make videos programmatically with React
+*   [remotion (⭐17k)](https://github.com/remotion-dev/remotion) - Make videos programmatically with React
 
 ### React Native General Resources
 
@@ -683,48 +561,42 @@
 
 ### React Native Navigation
 
-*   [react-navigation (⭐22k)](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
-*   [expo-router (⭐1k)](https://github.com/expo/router) - The File-based router for universal React Native apps
+*   [react-navigation (⭐23k)](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
+*   [expo-router (⭐1.3k)](https://github.com/expo/router) - The File-based router for universal React Native apps
 
 ### React Native Libraries
 
-*   [react-native-device-info (⭐6.1k)](https://github.com/react-native-device-info/react-native-device-info) - Device Information for React Native iOS and Android
+*   [react-native-device-info (⭐6.2k)](https://github.com/react-native-device-info/react-native-device-info) - Device Information for React Native iOS and Android
 
-## [26. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [23. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
-*   [disconnected (⭐4)](https://github.com/austinwilcox/disconnected) A session manager written in Deno with json as the config files
+*   [disconnected (⭐8)](https://github.com/austinwilcox/disconnected) A session manager written in Deno with json as the config files
 
-## [27. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [24. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Planning Data Specifications / Transportation
 
-*   [GTFS-flex (⭐97)](https://github.com/MobilityData/gtfs-flex) - A data format that models flexible public transportation services (microtransit/paratransit) as an extension to GTFS.
+*   [GTFS-flex (⭐106)](https://github.com/MobilityData/gtfs-flex) - A data format that models flexible public transportation services (microtransit/paratransit) as an extension to GTFS.
 
-## [28. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [25. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Other / [Other](#other-1)
 
 *   [Steampunk Spotter](https://steampunk.si/spotter/) :copyright: — Ansible Playbook Scanning Tool that analyzes and offers recommendations for your playbooks.
 
-## [29. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
+## [26. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
 ### More Resources / Social Impact
 
 *   [ClimateTechList](https://www.climatetechlist.com/) - curated list of \~50 climatetech companies, specific to software engineers, with descriptions of each company, their software impact, and climate impact.
 
-## [30. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
+## [27. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
-### :books: Literature / Documentation
+### APIs, Data, and ML
 
-*   :pushpin: [Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer/)
-
-## [31. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
-
-### APIs, Data and ML
-
-*   [PromptLeo](https://promptleo.com/) - Prompt engineering platform for creators and developers. It offers prompt engineering library, prompt forms and prompt engineering API. Free plan provides 1 prompt form, 1 prompt API endpoint and 30 generations per month.
+*   [PromptLeo](https://promptleo.com/) - Prompt engineering platform for creators and developers. It offers a prompt engineering library, forms, and API. The free plan provides one prompt formation, one prompt API endpoint, and 30 generations per month.
 
 ### Artifact Repos
 
@@ -734,29 +606,29 @@
 
 *   [snappify](https://snappify.com) - Enables developers to create stunning visuals. From beautiful code snippets to fully fletched technical presentations. The free plan includes up to 3 snaps at once with unlimited downloads and 5 AI-powered code explanations per month.
 
-## [32. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [28. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Apps
 
-*   [Audio-motion interface (⭐1)](https://github.com/MaxAlyokhin/audio-motion-interface) - A web synthesizer that generates sound using smartphone gestures in the space.
+*   [Audio-motion interface (⭐26)](https://github.com/MaxAlyokhin/audio-motion-interface) - A web synthesizer that generates sound using smartphone gestures in the space.
 
-## [33. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [29. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [autovenv (⭐2)](https://github.com/linnnus/autovenv) - Automatically activates Python virtual environments when entering their parent directory.
 *   [todotxt (⭐0)](https://github.com/Neluji/omz-todotxt) - Adds aliases for [todo.sh (⭐24)](https://github.com/benignoc/alfred-todotxt/).
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [git-profiles (⭐0)](https://github.com/baliestri/git-profiles.plugin.zsh) - managing multiple git users in a single `.gitconfig` file.
+*   [git-profiles (⭐0)](https://github.com/baliestri/git-profiles.plugin.zsh) - Manages multiple git users in a single `.gitconfig` file.
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [ai-hayasaka (⭐0)](https://github.com/aeghost/ai-hayasaka-zsh-theme) - Minimalist theme with `git` status, ruby env and python virtualenv decorators.
-*   [zhiyin (⭐68)](https://github.com/AmyangXYZ/zhiyin-zsh-theme) - Includes decorators for user @ host, current working directory and `git` status information.
+*   [zhiyin (⭐66)](https://github.com/AmyangXYZ/zhiyin-zsh-theme) - Includes decorators for user @ host, current working directory and `git` status information.
 
-## [34. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [30. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Other Development Tools / Docker
 
@@ -765,41 +637,41 @@
 
 ### Projects / Wallets
 
-*   [staketaxcsv (⭐205)](https://github.com/hodgerpodger/staketaxcsv) - Python backend for [stake.tax](https://stake.tax) that generates taxable transactions CSVs for Algorand and other blockchains.
+*   [staketaxcsv (⭐214)](https://github.com/hodgerpodger/staketaxcsv) - Python backend for [stake.tax](https://stake.tax) that generates taxable transactions CSVs for Algorand and other blockchains.
 
-## [35. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [31. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
-### Science Logology / Democratization
+### Science Logology / Democratization of Science
 
 *   [How to Make More Published Research True](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4204808/) - ***PLoS Medicine***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=10945341175996677908\&hl=en\&as_sdt=0,10)].
 
-## [36. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [32. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Articles
 
 *   [Distributed load testing with k6](https://feryn.eu/speaking/distributed-load-testing-k6-confoo23/) - Thijs Feryn presents in ConFoo Montreal 2023
 
-## [37. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [33. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### HTML
 
-*   [meseeks (⭐290)](https://github.com/mischov/meeseeks#html) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
+*   [meseeks (⭐300)](https://github.com/mischov/meeseeks#html) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
 
 ### XML
 
-*   [meeseeks (⭐290)](https://github.com/mischov/meeseeks#xml) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
+*   [meeseeks (⭐300)](https://github.com/mischov/meeseeks#xml) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
 
-## [38. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [34. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Logging
 
-*   [slog-formatter (⭐15)](https://github.com/samber/slog-formatter) - Common formatters for slog and helpers to build your own.
+*   [slog-formatter (⭐48)](https://github.com/samber/slog-formatter) - Common formatters for slog and helpers to build your own.
 
 ### Project Layout
 
-*   [go-module (⭐7)](https://github.com/octomation/go-module) - Template for a typical module written on Go.
+*   [go-module (⭐16)](https://github.com/octomation/go-module) - Template for a typical module written on Go.
 
-## [39. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [35. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Text Editors
 
@@ -815,72 +687,72 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [MonitorControl (⭐22k)](https://github.com/MonitorControl/MonitorControl/) - Control your display's brightness & volume on your Mac as if it was a native Apple Display. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/MonitorControl/MonitorControl/)
-*   [TomatoBar (⭐770)](https://github.com/ivoronin/TomatoBar) - World's neatest Pomodoro timer for macOS menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ivoronin/TomatoBar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [MonitorControl (⭐24k)](https://github.com/MonitorControl/MonitorControl/) - Control your display's brightness & volume on your Mac as if it was a native Apple Display. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/MonitorControl/MonitorControl/)
+*   [TomatoBar (⭐1.5k)](https://github.com/ivoronin/TomatoBar) - World's neatest Pomodoro timer for macOS menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ivoronin/TomatoBar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [36. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
-*   [Vitesse Starter (⭐7.4k)](https://github.com/antfu/vitesse) ⛺️ Vue 3 starter inclode ( Layouts | i18n | UnoCSS | pinia | Markdown | Dark Mode | PWA | SSG | Component Auto-Importing | File-Based Router | Composition API | TypeScript)
-*   [Vitesse-lite Starter (⭐833)](https://github.com/antfu/vitesse-lite) ⛺️ Lightweight version of Vitesse (Vue 3 Starter)
+*   [Vitesse Starter (⭐8.1k)](https://github.com/antfu/vitesse) ⛺️ Vue 3 starter inclode ( Layouts | i18n | UnoCSS | pinia | Markdown | Dark Mode | PWA | SSG | Component Auto-Importing | File-Based Router | Composition API | TypeScript)
+*   [Vitesse-lite Starter (⭐941)](https://github.com/antfu/vitesse-lite) ⛺️ Lightweight version of Vitesse (Vue 3 Starter)
 
 ### Projects Using Vue.js / Open Source
 
-*   [vite-vue-ultimate-starter (⭐2)](https://github.com/kaandesu/vite-vue-ultimate-starter) - Open source Vue3 template built with Vite that out of the box provides PWA mode, ts, Vue Router, Tailwind CSS, DaisyUI, Playwright, vitest, github pages workflow and many more.
-*   [vue-daisyui-theme-manager (⭐2)](https://github.com/kaandesu/vue-daisyui-theme-manager) - A Vue3 (with Typescript) plugin that allows you to change DaisyUI themes during runtime. As well as, setting default light and dark themes, and giving the option to match the web app theme with the system.
+*   [vite-vue-ultimate-starter (⭐4)](https://github.com/kaandesu/vite-vue-ultimate-starter) - Open source Vue3 template built with Vite that out of the box provides PWA mode, ts, Vue Router, Tailwind CSS, DaisyUI, Playwright, vitest, github pages workflow and many more.
+*   [vue-daisyui-theme-manager (⭐7)](https://github.com/kaandesu/vue-daisyui-theme-manager) - A Vue3 (with Typescript) plugin that allows you to change DaisyUI themes during runtime. As well as, setting default light and dark themes, and giving the option to match the web app theme with the system.
 
 ### Components & Libraries / UI Components
 
 *   [el-col-group (⭐3)](https://github.com/jiangfei5945/el-col-group) - Powerful and Flexable column for Element table.
 
-## [41. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [37. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
-*   [Atomic-Server (⭐396)](https://github.com/atomicdata-dev/atomic-server/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml)
+*   [Atomic-Server (⭐537)](https://github.com/atomicdata-dev/atomic-server/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml)
 
 ### Libraries / Data structures
 
-*   [greyblake/nutype](https://github.com/greyblake/nutype) \[[nutype](https://crates.io/crates/nutype)] — define newtype structures with validation constraints. [![build status](https://github.com/greyblake/nutype/actions/workflows/ci.yml/badge.svg)](https://github.com/greyblake/nutype/actions)
+*   [greyblake/nutype (⭐849)](https://github.com/greyblake/nutype) \[[nutype](https://crates.io/crates/nutype)] — define newtype structures with validation constraints. [![build status](https://github.com/greyblake/nutype/actions/workflows/ci.yml/badge.svg)](https://github.com/greyblake/nutype/actions)
 
 ### Libraries / Distributed systems
 
 *   Other
-    *   [build-trust/ockam (⭐3.2k)](https://github.com/build-trust/ockam) \[[ockam](https://crates.io/crates/ockam)] - End-to-End Encryption, Mutual Authentication, and ABAC for distributed applications [![build badge](https://github.com/build-trust/ockam/workflows/Rust/badge.svg)](https://github.com/build-trust/ockam)
+    *   [build-trust/ockam (⭐3.7k)](https://github.com/build-trust/ockam) \[[ockam](https://crates.io/crates/ockam)] - End-to-End Encryption, Mutual Authentication, and ABAC for distributed applications [![build badge](https://github.com/build-trust/ockam/workflows/Rust/badge.svg)](https://github.com/build-trust/ockam)
 
-## [42. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [38. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Gaming
 
-*   [GameMaker (⭐109)](https://github.com/bytecauldron/awesome-gamemaker#readme) - Game engine.
+*   [GameMaker (⭐150)](https://github.com/bytecauldron/awesome-gamemaker#readme) - Game engine.
 
 ### Learn
 
-*   [Certificates (⭐493)](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
+*   [Certificates (⭐821)](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
 
 ### Miscellaneous
 
-*   [GitHub Wiki (⭐64)](https://github.com/MyHoneyBadger/awesome-github-wiki#readme) - Comprehensive documentation on GitHub beyond README.
-*   [Quarto (⭐923)](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc.
+*   [GitHub Wiki (⭐124)](https://github.com/MyHoneyBadger/awesome-github-wiki#readme) - Comprehensive documentation on GitHub beyond README.
+*   [Quarto (⭐1.2k)](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc.
 
-## [43. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [39. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [VidocqH/lsp-lens.nvim (⭐82)](https://github.com/VidocqH/lsp-lens.nvim) - Display function references above function definition like IDEA codelens.
+*   [VidocqH/lsp-lens.nvim (⭐162)](https://github.com/VidocqH/lsp-lens.nvim) - Display function references above function definition like IDEA codelens.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [yaocccc/nvim-hl-mdcodeblock.lua (⭐15)](https://github.com/yaocccc/nvim-hl-mdcodeblock.lua) - Highlight markdown codeblock using Tree-sitter.
+*   [yaocccc/nvim-hl-mdcodeblock.lua (⭐23)](https://github.com/yaocccc/nvim-hl-mdcodeblock.lua) - Highlight markdown codeblock using Tree-sitter.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [nyngwang/nvimgelion (⭐44)](https://github.com/nyngwang/nvimgelion) - Neon Genesis Evangelion but for Vimmers.
+*   [nyngwang/nvimgelion (⭐71)](https://github.com/nyngwang/nvimgelion) - Neon Genesis Evangelion but for Vimmers.
 
 ### Utility / Diagnostics
 
-*   [LukasPietzschmann/telescope-tabs (⭐132)](https://github.com/LukasPietzschmann/telescope-tabs) - Quickly navigate between tabs using telescope.
+*   [LukasPietzschmann/telescope-tabs (⭐171)](https://github.com/LukasPietzschmann/telescope-tabs) - Quickly navigate between tabs using telescope.
 
 ---
 

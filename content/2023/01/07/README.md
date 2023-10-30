@@ -18,10 +18,6 @@
 
 *   [thrive](https://thriveml.com) - Jobs at Top AI Companies and Startups
 
-### eCommerce
-
-*   \[eComPortal] (<https://ecomportal.co>) - Job board for the eCommerce Industry. Lots of front-end & full-stack developer job opportunities. Remote & Salary available.
-
 ### Finance
 
 *   [OpenQuant](https://openquant.co) - Find the best jobs in Quantitative Finance
@@ -39,7 +35,7 @@
 
 ## [4. GoBooks](/content/dariubs/GoBooks/README.md)
 
-### **Starter Books** / [Shipping Go](https://www.manning.com/books/shipping-go)
+### Starter Books / 2023 - [Shipping Go](https://www.manning.com/books/shipping-go)
 
 *   Develop better software based on feedback from customers
 *   Create a development pipeline that turns feedback into features
@@ -74,14 +70,14 @@
 
 ### :wrench: Tools / Before 2000
 
-*   [Capa (⭐3k)](https://github.com/mandiant/capa) - Open-source tool to identify capabilities in PE, ELF or .NET executable files.
-*   [Oedipus (⭐8)](https://github.com/tum-i4/Oedipus) - A Python framework that uses machine learning algorithms to implement the metadata recovery attack against obfuscated programs.
+*   [Capa (⭐3.3k)](https://github.com/mandiant/capa) - Open-source tool to identify capabilities in PE, ELF or .NET executable files.
+*   [Oedipus (⭐7)](https://github.com/tum-i4/Oedipus) - A Python framework that uses machine learning algorithms to implement the metadata recovery attack against obfuscated programs.
 
 ## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Goroutines
 
-*   [conc (⭐6.8k)](https://github.com/sourcegraph/conc) - `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer.
+*   [conc (⭐7.5k)](https://github.com/sourcegraph/conc) - `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer.
 
 ## [7. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -94,7 +90,7 @@
 
 ### Clearnet & Anonymous Networking / Anonymity
 
-*   [Lokinet (⭐1.4k)](https://github.com/oxen-io/lokinet) - Lokinet is the reference implementation of LLARP (low latency anonymous routing protocol), a layer 3 onion routing protocol.
+*   [Lokinet (⭐1.6k)](https://github.com/oxen-io/lokinet) - Lokinet is the reference implementation of LLARP (low latency anonymous routing protocol), a layer 3 onion routing protocol.
 
 ### Kernels / Crypto
 
@@ -110,11 +106,11 @@
 ### Kernels / Unikernel-like
 
 *   [Drawbridge](https://www.microsoft.com/en-us/research/project/drawbridge) - Research prototype platform from Microsoft.
-*   [Graphene (⭐754)](https://github.com/oscarlab/graphene) - Library OS optimized for Intel SGX.
+*   [Graphene (⭐755)](https://github.com/oscarlab/graphene) - Library OS optimized for Intel SGX.
 
 ### Exploitation Tools / Unikernel-like
 
-*   [Bonzai (⭐116)](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
+*   [Bonzai (⭐138)](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
 
 ### Optics and Extra Info / Xen Exploitation
 
@@ -133,20 +129,20 @@
 
 ### Showcases / TikZ
 
-*   [Awesome LaTeX drawing (⭐1k)](https://github.com/xinychen/awesome-latex-drawing) - Curated list of academic drawing examples for using LaTeX
+*   [Awesome LaTeX drawing (⭐1.1k)](https://github.com/xinychen/awesome-latex-drawing) - Curated list of academic drawing examples for using LaTeX
 
 ## [10. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Testing Solutions
 
-*   [capybara-shadowdom (⭐7)](https://github.com/yuki24/capybara-shadowdom) - Ruby gem that adds basic support for the Shadow DOM to Capybara.
+*   [capybara-shadowdom (⭐12)](https://github.com/yuki24/capybara-shadowdom) - Ruby gem that adds basic support for the Shadow DOM to Capybara.
 *   [Cypress component tests for Lit](https://dev.to/simonireilly/cypress-component-tests-for-lit-elements-web-components-45oj) - How to run component tests for a Lit web component with Cypress.
-*   [cypress-lit (⭐17)](https://github.com/simonireilly/cypress-lit) - Test your Lit elements and native web components in Cypress with all the modern browsers.
+*   [cypress-lit (⭐20)](https://github.com/simonireilly/cypress-lit) - Test your Lit elements and native web components in Cypress with all the modern browsers.
 *   [Developing Components: Testing](https://open-wc.org/guides/developing-components/testing/) - Using @web/test-runner for testing web components in a real browser.
 *   [How To Automate Shadow DOM In Selenium WebDriver](https://www.lambdatest.com/blog/shadow-dom-in-selenium/) - Locating Shadow DOM elements using Selenium WebDriver in a Maven project.
 *   [Native Automation support for Shadow DOM](https://staleelement.medium.com/native-automation-support-for-shadow-dom-with-webdriverio-and-cypress-chapter-3-26249a589f5e) - Shadow DOM and open-source testing frameworks.
 *   [Open Web Components: Testing](https://open-wc.org/docs/testing/testing-package/) - Opinionated package that combines and configures testing libraries.
-*   [query-selector-shadow-dom (⭐196)](https://github.com/webdriverio/query-selector-shadow-dom) - querySelector that can pierce Shadow DOM roots, useful for automated testing.
+*   [query-selector-shadow-dom (⭐216)](https://github.com/webdriverio/query-selector-shadow-dom) - querySelector that can pierce Shadow DOM roots, useful for automated testing.
 *   [Testing Shadow DOM elements in Selenium](https://reflect.run/articles/testing-shadow-dom-elements-in-selenium/) - In Selenium 4, there is now a way to access Shadow DOM nodes.
 *   [Test web components with Playwright](https://alexbilson.dev/plants/technology/test-web-components-with-playwright/) - So you’ve created a native web component or two. How do you test them in popular browsers?
 *   [W3C Webdriver conquering automation of Shadow DOM](https://staleelement.medium.com/w3c-webdriver-conquering-automation-of-shadow-dom-chapter-2-d92c7fe9e74c) - Shadow DOM tree and its interaction with the W3C Webdriver.

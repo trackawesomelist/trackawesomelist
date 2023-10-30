@@ -1,6 +1,6 @@
 # Awesome List Updates on May 12, 2020
 
-20 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -52,10 +52,6 @@
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### PaaS
-
-*   [Krucible](https://usekrucible.com) — Krucible is a platform for creating Kubernetes clusters for testing and development. Free tier accounts come with 25 cluster-hours per month.
-
 ### Web Hosting
 
 *   [Bubble](https://bubble.io/) — Visual programming to build web and mobile apps without code, free with Bubble branding.
@@ -74,11 +70,11 @@
 
 ### Software / Diagramming
 
-*   [Diagrams.net](https://app.diagrams.net/) - A.K.A. [Draw.io](https://app.diagrams.net/). Easy to use Diagram UI with a plethora of templates.
+*   [Diagrams.net](https://app.diagrams.net/) - A.K.A. [Draw.io](https://app.diagrams.net/). Easy to use Diagram UI with a plethora of templates. ([Source Code (⭐36k)](https://github.com/jgraph/drawio)) `Apache-2.0` `JavaScript/Docker`
 
 ## [9. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Books / Screeb
+### Books / Obsidian
 
 *   [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507) - By Marty Cagan.
 
@@ -86,7 +82,7 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [Hakatime (⭐474)](https://github.com/mujx/hakatime) - WakaTime server implementation with analytics dashboard. `Unlicense` `Haskell`
+*   [Hakatime (⭐513)](https://github.com/mujx/hakatime) - WakaTime server implementation with analytics dashboard. `Unlicense` `Haskell`
 
 ## [11. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
@@ -102,7 +98,7 @@
 
 ### Logging / Barcode
 
-*   [Gedatsu (⭐522)](https://github.com/bannzai/gedatsu) - Provide readable format about AutoLayout error console log.
+*   [Gedatsu (⭐527)](https://github.com/bannzai/gedatsu) - Provide readable format about AutoLayout error console log.
 
 ## [13. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -119,11 +115,10 @@
 ### Third-party packages / Package discovery
 
 *   [Packagist.org search by WP-CLI package type](https://packagist.org/?type=wp-cli-package) - Composer packages filtered by type `wp-cli-package`.
-*   [GitHub.com search for WP-CLI integrations](https://github.com/search?q=WP_CLI%3A%3Aadd_command%28+NOT+Akismet_CLI+NOT+elementor+NOT+WordCamp_CLI_Miscellaneous+NOT+W3TotalCache_Command+extension%3Aphp+language%3APHP+-org%3Awp-cli+-path%3Avendor+-path%3Awp-content+-path%3Apublic+-path%3Adeployer+-path%3Aweb+-path%3Asrc%2Fvendor+-path%3Aapp+-path%3Awordpress+-filename%3Aentity-command.php+-filename%3Aclass-wc-cli.php+-filename%3Awp-cli-bp.php+fork%3Afalse+-filename%3Aextension-command.php+-filename%3Acron-command.php+-filename%3Awp-seo-main.php+-path%3Aplugins+-path%3Adata+-path%3Abackup+-path%3Ademo+-path%3Awordcamp.org+-path%3Awordpress.org+-filename%3Alanguage-command.php+-filename%3Aredirection-cli.php+-path%3Athemes+-path%3Alibrary+-filename%3Aeval-command+-filename%3Arole-command+-filename%3Awidget-command+-filename%3Acache-command.php+-path%3Awp-app+-path%3Apublic_html+-filename%3Aqueue.php+-path%3AmyWeb+-path%3Adocroot+-path%3Awebsite\&type=Code) - Heavily pre-filtered search for repositories that use `WP_CLI::add_command()`.
 
 ### Third-party packages / Notable packages
 
-*   [schlessera/wp-cli-psysh (⭐21)](https://github.com/schlessera/wp-cli-psysh) - Replace WP-CLI shell standard REPL with [PsySH](http://psysh.org/).
+*   [schlessera/wp-cli-psysh (⭐23)](https://github.com/schlessera/wp-cli-psysh) - Replace WP-CLI shell standard REPL with [PsySH](http://psysh.org/).
 
 ## [15. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -131,27 +126,19 @@
 
 *   [Sentry](https://sentry.io/) - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
 
-## [16. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
-
-### Apps
-
-*   [dtube](https://d.tube) - Distributed video sharing with steem.it integrations, using ipfs for backend storage.
-*   [infura.io](https://infura.io) - An Infrastructure: use API and developer tools provide secure, reliable, and scalable access to Ethereum and IPFS to help build decentralized application easier.
-*   [IPFS Image Uploader](https://ipfs.talaikis.com/) - IPFS image uploader and viewer. Minerva is a storage plugin of Apache Drill that connects IPFS's decentralized storage and Drill's flexible query engine. [Source (⭐28)](https://github.com/TalaikisInc/ipfs-uploader)
-
-## [17. Awesome List](/content/sindresorhus/awesome/README.md)
+## [16. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Hardware
 
-*   [Plotters (⭐837)](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
+*   [Plotters (⭐904)](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
 
-## [18. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
+## [17. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ### Videos / Help
 
 *   [Robert Feranec](https://www.youtube.com/user/matarofe) - 100+ Hardware design tips and tricks. Videos about Schematic design and PCB layout.
 
-## [19. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [18. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Streaming Sites / Free Indexers
 
@@ -159,9 +146,9 @@
 
 ### Spotify / Third Party Hosts
 
-*   [BlockTheSpot (⭐5.7k)](https://github.com/mrpond/BlockTheSpot) Video, audio & banner AdBlock/skip for Spotify
+*   [BlockTheSpot (⭐6.3k)](https://github.com/mrpond/BlockTheSpot) Video, audio & banner AdBlock/skip for Spotify
 
-## [20. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [19. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 

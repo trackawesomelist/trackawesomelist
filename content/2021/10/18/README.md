@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 18, 2021
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-mars3d (⭐44)](https://github.com/marsgis/mars3d-vue-template) - Vue 2.x 3D earth visualization JS development platform.
+*   [vue-mars3d (⭐48)](https://github.com/marsgis/mars3d-vue-template) - Vue 2.x 3D earth visualization JS development platform.
 
 ## [2. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
@@ -22,11 +22,11 @@
 
 ### Games
 
-*   [Board Games (⭐67)](https://github.com/alexyakunin/BoardGames) - ![stars](https://img.shields.io/github/stars/alexyakunin/BoardGames?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/alexyakunin/BoardGames?style=flat-square\&cacheSeconds=86400) [Fusion (⭐1.6k)](https://github.com/servicetitan/Stl.Fusion) + Blazor sample and a fully functional web app allowing you to play real-time multiplayer board games. [Demo (⭐67)](https://github.com/alexyakunin/BoardGames).
+*   [Board Games (⭐68)](https://github.com/alexyakunin/BoardGames) - ![stars](https://img.shields.io/github/stars/alexyakunin/BoardGames?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/alexyakunin/BoardGames?style=flat-square\&cacheSeconds=86400) [Fusion (⭐1.7k)](https://github.com/servicetitan/Stl.Fusion) + Blazor sample and a fully functional web app allowing you to play real-time multiplayer board games. [Demo (⭐68)](https://github.com/alexyakunin/BoardGames).
 
 ### Hybrid
 
-*   [Photino (⭐576)](https://github.com/tryphotino/photino.NET) - ![stars](https://img.shields.io/github/stars/tryphotino/photino.NET?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/tryphotino/photino.NET?style=flat-square\&cacheSeconds=86400) Build native, cross-platform desktop apps that are lighter than light. Photino is a lightweight open-source framework for building native, cross-platform desktop applications with Web UI technology.
+*   [Photino (⭐669)](https://github.com/tryphotino/photino.NET) - ![stars](https://img.shields.io/github/stars/tryphotino/photino.NET?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/tryphotino/photino.NET?style=flat-square\&cacheSeconds=86400) Build native, cross-platform desktop apps that are lighter than light. Photino is a lightweight open-source framework for building native, cross-platform desktop applications with Web UI technology.
 
 ## [4. Awesome Imba](/content/koolamusic/awesome-imba/README.md)
 
@@ -67,25 +67,19 @@
 
 ### Alert / Barcode
 
-*   [Toast-Swift (⭐282)](https://github.com/BastiaanJansen/Toast-Swift) - An easy to use library to create iOS 14 and newer style toasts.
+*   [Toast-Swift (⭐359)](https://github.com/BastiaanJansen/Toast-Swift) - An easy to use library to create iOS 14 and newer style toasts.
 
-## [9. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
-
-### Common Section / Angular
-
-*   [GIMTEC](https://www.gimtec.io/). The weekly newsletter I wish I had when I finished my development bootcamp.
-
-## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / System tools
 
-*   [cantino/mcfly (⭐5.1k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
+*   [cantino/mcfly (⭐5.4k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 
 ### Applications / Web
 
-*   [LemmyNet/lemmy (⭐7.7k)](https://github.com/LemmyNet/lemmy) — A link aggregator / reddit clone for the fediverse [![Build Status](https://cloud.drone.io/api/badges/LemmyNet/lemmy/status.svg)](https://cloud.drone.io/LemmyNet/lemmy)
+*   [LemmyNet/lemmy (⭐12k)](https://github.com/LemmyNet/lemmy) — A link aggregator / reddit clone for the fediverse [![Build Status](https://cloud.drone.io/api/badges/LemmyNet/lemmy/status.svg)](https://cloud.drone.io/LemmyNet/lemmy)
 
-## [11. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Machine Learning
 
@@ -115,20 +109,20 @@
 
 
 
-## [12. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
+## [11. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 
 ### Tools you'll need / Cloud-based options
 
 *   [Deepnote](https://deepnote.com/) allows for real-time collaboration
 *   [Google Colab](https://colab.research.google.com/) provides "free" GPUs
 
-## [13. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [12. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Open Source Projects
 
 *   [Open Chemistry](https://opencollective.com/open-chemistry) - Umbrella of multiple open source chemistry projects including Avogadro, cclib, DeepChem, MSDK, Open Babel, RDKit, and 3DMol.js.
 
-## [14. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [13. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Books / Visualization Tools
 

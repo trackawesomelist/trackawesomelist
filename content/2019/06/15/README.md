@@ -15,7 +15,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [@innologica/vue-stackable-modal (⭐36)](https://github.com/Innologica/vue-stackable-modal) - Library for modal dialogs which can be stacked. Fully customizable and very easy to use.
+*   [@innologica/vue-stackable-modal (⭐37)](https://github.com/Innologica/vue-stackable-modal) - Library for modal dialogs which can be stacked. Fully customizable and very easy to use.
 
 ## [2. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
@@ -147,7 +147,7 @@
 
 ### Top / Game Engine resources
 
-*   [Reply (⭐562)](https://github.com/flschweiger/reply) <!--stargazers:flschweiger/reply--> - 'Reply' Material Design case study by [Frederik Schweiger](https://github.com/flschweiger)
+*   [Reply (⭐564)](https://github.com/flschweiger/reply) <!--stargazers:flschweiger/reply--> - 'Reply' Material Design case study by [Frederik Schweiger](https://github.com/flschweiger)
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -159,12 +159,12 @@
 
 ### Theory
 
-*   [Algorithms (⭐14k)](https://github.com/tayllan/awesome-algorithms#readme)
-    *   [Education (⭐502)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
+*   [Algorithms (⭐15k)](https://github.com/tayllan/awesome-algorithms#readme)
+    *   [Education (⭐533)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
 
 ### Gaming
 
-*   [Game Datasets (⭐500)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
+*   [Game Datasets (⭐563)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
 
 ## [8. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 

@@ -41,18 +41,18 @@
 
 ### Web / Web Application Firewall
 
-*   [ironbee (⭐294)](https://github.com/ironbee/ironbee) - IronBee is an open source project to build a universal web application security sensor. IronBee as a framework for developing a system for securing web applications - a framework for building a web application firewall (WAF).
+*   [ironbee (⭐296)](https://github.com/ironbee/ironbee) - IronBee is an open source project to build a universal web application security sensor. IronBee as a framework for developing a system for securing web applications - a framework for building a web application firewall (WAF).
 
 ### Big Data / Development
 
-*   [Apache Metron (incubating) (⭐837)](https://github.com/apache/incubator-metron) - Metron integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
-*   [Apache Spot (incubating) (⭐340)](https://github.com/apache/incubator-spot) - Apache Spot is open source software for leveraging insights from flow and packet analysis.
+*   [Apache Metron (incubating) (⭐839)](https://github.com/apache/incubator-metron) - Metron integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
+*   [Apache Spot (incubating) (⭐342)](https://github.com/apache/incubator-spot) - Apache Spot is open source software for leveraging insights from flow and packet analysis.
 
 ## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Chat
 
-*   [MessageKit (⭐5.6k)](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController.
+*   [MessageKit (⭐5.8k)](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController.
 
 ### UI / Barcode
 
@@ -62,7 +62,7 @@
 
 ### QA Tools / Runner
 
-*   [prettier (⭐45k)](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+*   [prettier (⭐47k)](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 
 ## [7. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
@@ -98,7 +98,7 @@
 ### Applications / Episodes
 
 *   [Mazda AIO Tweaks](https://mazdatweaks.com/) - All-in-one installer/uninstaller for many available Mazda MZD Infotainment System tweaks.
-*   [mazda\_getInfo (⭐146)](https://github.com/shipcod3/mazda_getInfo) - A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (known bug in the CMU).
+*   [mazda\_getInfo (⭐151)](https://github.com/shipcod3/mazda_getInfo) - A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (known bug in the CMU).
 
 ## [10. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 

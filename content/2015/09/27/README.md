@@ -22,7 +22,7 @@
 
 ### TypeScript General Resources / Components
 
-*   [TypeScript Repository (GitHub) (⭐90k)](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
+*   [TypeScript Repository (GitHub) (⭐95k)](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
 
 ### Dart General Resources / Components
 
@@ -30,15 +30,15 @@
 
 ### Traceur General Resources / Components
 
-*   [Traceur Repository (GitHub) (⭐8.2k)](https://github.com/google/traceur-compiler) Official GitHub Repo for Traceur
+*   [Traceur Repository (GitHub) (⭐8.2k)](https://github.com/google/traceur-compiler) Official GitHub Repo for Traceur.
 
 ### Babel General Resources / Components
 
-*   [Babel Repository (GitHub) (⭐42k)](https://github.com/babel/babel) Official GitHub Repo for Babel
+*   [Babel Repository (GitHub) (⭐43k)](https://github.com/babel/babel) Official GitHub Repo for Babel.
 
 ### React Native Projects / Components
 
-*   [Angular 2 React Native Renderer (GitHub) (⭐788)](https://github.com/angular/react-native-renderer)
+*   [Angular 2 React Native Renderer (GitHub) (⭐789)](https://github.com/angular/react-native-renderer)
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

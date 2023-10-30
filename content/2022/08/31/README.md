@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 31, 2022
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,19 +10,19 @@
 
 ### Libraries / Scripting
 
-*   [duckscript](https://crates.io/crates/duckscript) — [Simple, extendable and embeddable scripting language. (⭐397)](https://github.com/sagiegurari/duckscript) [![build badge](https://github.com/sagiegurari/duckscript/workflows/CI/badge.svg?branch=master)](https://github.com/sagiegurari/duckscript/actions)
+*   [duckscript](https://crates.io/crates/duckscript) — [Simple, extendable and embeddable scripting language. (⭐441)](https://github.com/sagiegurari/duckscript) [![build badge](https://github.com/sagiegurari/duckscript/workflows/CI/badge.svg?branch=master)](https://github.com/sagiegurari/duckscript/actions)
 
 ## [2. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Threat Intelligence / Forensics
 
-*   [Cyberowl (⭐219)](https://github.com/karimhabush/cyberowl) - A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
+*   [Cyberowl (⭐231)](https://github.com/karimhabush/cyberowl) - A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
 ## [3. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Java / React
 
-*   [dgs-extended-formatters (⭐4)](https://github.com/setchy/dgs-extended-formatters) - An experimental set of DGS Directives for common formatting use-cases.
+*   [dgs-extended-formatters (⭐6)](https://github.com/setchy/dgs-extended-formatters) - An experimental set of DGS Directives for common formatting use-cases.
 
 ### Tools - Editors & IDEs & Explorers / React
 
@@ -41,7 +41,7 @@
 ### Maps / Web Maps
 
 *   [OSM Landuse](https://osmlanduse.org) - OSM based landuse and landcover WebGIS application.
-*   [OsmAPP](https://osmapp.org) - A browsable map showing data and offering simple POI-editing capabilities. ([Source Code (⭐60)](https://github.com/zbycz/osmapp))
+*   [OsmAPP](https://osmapp.org) - A browsable map showing data and offering simple POI-editing capabilities. ([Source Code (⭐82)](https://github.com/zbycz/osmapp))
 *   [Tracesmap](https://tracesmap.com/) - A map allowing for planning routes on OsmCarto and OpenTopoMap-derived retina maps.
 
 ### Maps / Goal Tracking
@@ -50,13 +50,13 @@
 
 ### Libraries / Python
 
-*   [prettymapp (⭐287)](https://github.com/chrieke/prettymapp) - Create beautiful maps from OpenStreetMap data.
+*   [prettymapp (⭐1.9k)](https://github.com/chrieke/prettymapp) - Create beautiful maps from OpenStreetMap data.
 
 ## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### Miscellaneous
+### Miscellaneous / Text-Based User Interfaces
 
-*   [LittleProxy (⭐1.9k)](https://github.com/adamfisk/LittleProxy) - High performance HTTP proxy atop Netty's event-based networking library.
+*   [LittleProxy (⭐2k)](https://github.com/adamfisk/LittleProxy) - High performance HTTP proxy atop Netty's event-based networking library.
 
 ### People / Twitter
 
@@ -72,31 +72,31 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-env-switch (⭐3)](https://github.com/PengBoUESTC/vite-plugin-env-switch) - Switch project env and restart vite server without command line operation.
+*   [vite-plugin-env-switch (⭐5)](https://github.com/PengBoUESTC/vite-plugin-env-switch) - Switch project env and restart vite server without command line operation.
 *   [vite-plugin-msg-log (⭐0)](https://github.com/PengBoUESTC/vite-plugin-msg-log) - Log the msg you want to confirm frequently (like env info) when HMR.
 
 ## [8. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Dialogue Manager (⭐815)](https://github.com/nathanhoad/godot_dialogue_manager) - A simple but powerful text based branching dialogue editor and runtime (Godot 3.x, 4.x).
-*   [Input Helper (⭐261)](https://github.com/nathanhoad/godot_input_helper) - A helper for detecting input devices and remapping controls (Godot 3.x, 4.x).
+*   [Dialogue Manager (⭐1k)](https://github.com/nathanhoad/godot_dialogue_manager) - A simple but powerful text based branching dialogue editor and runtime (Godot 3.x, 4.x).
+*   [Input Helper (⭐289)](https://github.com/nathanhoad/godot_input_helper) - A helper for detecting input devices and remapping controls (Godot 3.x, 4.x).
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Analytics, Events and Statistics
 
-*   [Cauldron](https://cauldron.io) — Analytics open source solution that allows users to aggregate information from multiple collaboration platforms as different types of data sources (Git, Github, Gitlab...). Free tier includes unlimited number of reports.
+*   [Cauldron](https://cauldron.io) — Analytics open source solution that allows users to aggregate information from multiple collaboration platforms as different types of data sources (Git, Github, and Gitlab). The free tier includes an unlimited number of reports.
 
 ### Other Free Resources
 
-*   [Utils.fun](https://utils.fun/en) — All offline daily and development tools based on the browser's computing power, including watermark generation, screen recording, encoding and decoding, encryption and decryption and code formatting, are completely free and do not upload any data to the cloud for processing.
+*   [Utils.fun](https://utils.fun/en) — All offline daily and development tools based on the browser's computing power, including watermark generation, screen recording, encoding and decoding, encryption and decryption, and code formatting, are completely free and do not upload any data to the cloud for processing.
 
 ## [10. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Tools / Helper tools to add annotations to existing code
 
-*   [infer-types (⭐47)](https://github.com/orsinium-labs/infer-types) - CLI tool to automatically infer and add type annotations into Python code.
+*   [infer-types (⭐62)](https://github.com/orsinium-labs/infer-types) - CLI tool to automatically infer and add type annotations into Python code.
 
 ## [11. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -112,9 +112,9 @@
 
 ## [12. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
-### Optimization / NLP
+### Optimization / Others
 
-*   [sklearn-genetic-opt (⭐206)](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) - Hyperparameters tuning and feature selection using evolutionary algorithms. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [sklearn-genetic-opt (⭐238)](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) - Hyperparameters tuning and feature selection using evolutionary algorithms. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
 ## [13. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
@@ -128,19 +128,13 @@
 
 *   [Render Managed PostgreSQL](https://render.com/docs/databases) - Secure, reliable, and completely hands-off managed PostgreSQL. Encryption at rest, automated backups, and expandable SSD storage included in all plans. Plans start at $7 per month for 256MB RAM and 1GB storage (free for first 90 days).
 
-## [15. Awesome Osint](/content/jivoi/awesome-osint/README.md)
-
-### Note-taking / Telegram
-
-*   [Obsidian](https://obsidian.md/)
-
-## [16. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [15. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Sensors / Temperature Digital
 
 *   [sht85 (⭐0)](https://github.com/octaprog7/sht85) - MicroPython driver for the [Sensiron SHT85](https://sensirion.com/products/catalog/SHT85/) humidity and temperature sensor.
 
-## [17. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [16. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 

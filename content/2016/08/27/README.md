@@ -14,7 +14,7 @@
 
 ### How do I contribute to this list? / Other Types of Support
 
-*   **Familiar with GitHub?** Send a pull request with your suggestions. Please also see the [contribution guidelines (⭐155)](https://github.com/dylanrees/toolsforcitizenscience/blob/master/contributing.md).
+*   **Familiar with GitHub?** Send a pull request with your suggestions. Please also see the [contribution guidelines (⭐202)](https://github.com/dylanrees/toolsforcitizenscience/blob/master/contributing.md).
 *   **Not familiar with GitHub?** You can leave a comment on this page by clicking on the `Issues` tab on the right and adding a New Issue (that's just like a comment). You'll need to create a GitHub account first.
 
 ## [2. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
@@ -39,11 +39,11 @@
 
 ### Serialization
 
-*   [Migrant (⭐46)](https://github.com/antmicro/Migrant) - Fast and flexible serialization framework usable on undecorated classes.
+*   [Migrant (⭐45)](https://github.com/antmicro/Migrant) - Fast and flexible serialization framework usable on undecorated classes.
 
 ### Source Generator
 
-*   [Awesome .NET Core (⭐18k)](https://github.com/thangchung/awesome-dotnet-core) - A collection of awesome .NET core libraries, tools, frameworks and software
+*   [Awesome .NET Core (⭐19k)](https://github.com/thangchung/awesome-dotnet-core) - A collection of awesome .NET core libraries, tools, frameworks and software
 
 ## [5. Awesome Music](/content/ciconia/awesome-music/README.md)
 

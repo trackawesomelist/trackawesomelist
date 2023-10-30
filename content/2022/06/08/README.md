@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 08, 2022
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -8,13 +8,13 @@
 
 ## [1. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Awesome news / Angular
+### Awesome news / Svelte
 
 *   [Future Crunch](https://futurecrunch.com). A fortnightly newsletter with all the good news you don't get to hear about, in science, the environment, and across the world. You can see a feed of their good news [here](https://futurecrun.ch/goodnews).
 
 ## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [myincr (⭐0)](https://github.com/gaojunbin/zsh-myincr/) - Speeds up pasting with autosuggest and incr.
 
@@ -22,15 +22,15 @@
 
 ### Contents / Components
 
-*   [Preact Compat (⭐948)](https://github.com/preactjs/preact-compat) - Use any React library with Preact *([full example (⭐52)](https://github.com/developit/preact-compat-example))*.
-*   [Preact Render To String (⭐543)](https://github.com/preactjs/preact-render-to-string) - Universal rendering.
-*   [Preact Markup (⭐194)](https://github.com/developit/preact-markup) - Render HTML & Custom Elements as JSX & Components.
-*   [Preact Portal (⭐175)](https://github.com/developit/preact-portal) - Render Preact components into (a) SPACE.
-*   [Preact Richtextarea (⭐37)](https://github.com/developit/preact-richtextarea) - Simple HTML editor component.
-*   [Preact Cycle (⭐131)](https://github.com/developit/preact-cycle) - Functional-reactive paradigm for Preact.
-*   [Preact MUI (⭐36)](https://github.com/luisvinicius167/preact-mui) - The MUI CSS Preact library.
-*   [Preact MDL (⭐186)](https://github.com/developit/preact-mdl) - Use [MDL](https://getmdl.io) as Preact components.
-*   [Preact Photon (⭐169)](https://github.com/developit/preact-photon) - Build beautiful desktop UI with [photon](http://photonkit.com).
+*   [Preact Compat (⭐952)](https://github.com/preactjs/preact-compat) - Use any React library with Preact *([full example (⭐52)](https://github.com/developit/preact-compat-example))*.
+*   [Preact Render To String (⭐566)](https://github.com/preactjs/preact-render-to-string) - Universal rendering.
+*   [Preact Markup (⭐196)](https://github.com/developit/preact-markup) - Render HTML & Custom Elements as JSX & Components.
+*   [Preact Portal (⭐176)](https://github.com/developit/preact-portal) - Render Preact components into (a) SPACE.
+*   [Preact Richtextarea (⭐39)](https://github.com/developit/preact-richtextarea) - Simple HTML editor component.
+*   [Preact Cycle (⭐132)](https://github.com/developit/preact-cycle) - Functional-reactive paradigm for Preact.
+*   [Preact MUI (⭐37)](https://github.com/luisvinicius167/preact-mui) - The MUI CSS Preact library.
+*   [Preact MDL (⭐185)](https://github.com/developit/preact-mdl) - Use [MDL](https://getmdl.io) as Preact components.
+*   [Preact Photon (⭐172)](https://github.com/developit/preact-photon) - Build beautiful desktop UI with [photon](http://photonkit.com).
 
 ### Contents / Testing Utils
 
@@ -40,13 +40,13 @@
 
 ### Projects Related to eBPF / Observability
 
-*   [SkyWalking Rover (⭐140)](https://github.com/apache/skywalking-rover) - [Apache SkyWalking](https://skywalking.apache.org/) is an open-source Application Performance Monitoring (APM) platform specially designed for distributed systems with microservices, cloud-native and container-based (Kubernetes) architectures. SkyWalking Rover is an eBPF-based profiler and metrics collector for C, C++, Golang, and Rust applications.
+*   [SkyWalking Rover (⭐150)](https://github.com/apache/skywalking-rover) - [Apache SkyWalking](https://skywalking.apache.org/) is an open-source Application Performance Monitoring (APM) platform specially designed for distributed systems with microservices, cloud-native and container-based (Kubernetes) architectures. SkyWalking Rover is an eBPF-based profiler and metrics collector for C, C++, Golang, and Rust applications.
 
 ## [5. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Querying / Symfony2
 
-*   [Schemathesis (⭐1.6k)](https://github.com/schemathesis/schemathesis) - Property-based testing tool for web applications built with Open API and GraphQL specifications.
+*   [Schemathesis (⭐1.8k)](https://github.com/schemathesis/schemathesis) - Property-based testing tool for web applications built with Open API and GraphQL specifications.
 
 ## [6. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
@@ -54,58 +54,48 @@
 
 *   [BugBug](https://bugbug.io) - Lightweight test automation tool for web applications. Easy to learn and doesn't require coding. It's free, with unlimited tests. For an additional monthly fee, you also get cloud monitoring and CI/CD integration.
 
-## [7. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
-
-### GUI
-
-*   [Arctype](https://arctype.com) - The SQL client and database management tool that's fun to use.
-
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Content Management Systems (CMS)
 
-*   [Apostrophe](https://apostrophecms.com/) - CMS with a focus on extensible in-context editing tools. ([Demo](https://apostrophecms.com/demo), [Source Code (⭐4k)](https://github.com/apostrophecms/apostrophe)) `MIT` `Nodejs`
-*   [Flextype](https://flextype.org/) - Flextype is an open-source Hybrid Content Management System with the freedom of a headless CMS and with the full functionality of a traditional CMS. ([Source Code (⭐553)](https://github.com/flextype/flextype)) `MIT` `PHP`
-*   [KeystoneJS](https://keystonejs.com/) - CMS and Web Application Platform. ([Source Code (⭐8k)](https://github.com/keystonejs/keystone)) `MIT` `Nodejs`
-
-### Software / Pastebins
-
-*   [Spacebin (⭐74)](https://github.com/spacebin-org/spirit) - Text-sharing for the final frontier — Reliable Pastebin server in Golang and Fiber. `Apache-2.0` `Go`
+*   [Apostrophe](https://apostrophecms.com/) - CMS with a focus on extensible in-context editing tools. ([Demo](https://apostrophecms.com/demo), [Source Code (⭐4.2k)](https://github.com/apostrophecms/apostrophe)) `MIT` `Nodejs`
+*   [Flextype](https://flextype.org/) - Flextype is an open-source Hybrid Content Management System with the freedom of a headless CMS and with the full functionality of a traditional CMS. ([Source Code (⭐562)](https://github.com/flextype/flextype)) `MIT` `PHP`
+*   [KeystoneJS](https://keystonejs.com/) - CMS and Web Application Platform. ([Source Code (⭐8.4k)](https://github.com/keystonejs/keystone)) `MIT` `Nodejs`
 
 ### Software / Self-hosting Solutions
 
-*   [NextCloudPi (⭐2k)](https://github.com/nextcloud/nextcloudpi) - Nextcloud preinstalled and preconfigured, with a text and web management interface and all the tools needed to self host private data. With installation images for Raspberry Pi, Odroid, Rock64, Docker, and a curl installer for Armbian/Debian. `GPL-2.0-or-later` `Bash/PHP`
+*   [NextCloudPi (⭐2.2k)](https://github.com/nextcloud/nextcloudpi) - Nextcloud preinstalled and preconfigured, with a text and web management interface and all the tools needed to self host private data. With installation images for Raspberry Pi, Odroid, Rock64, Docker, and a curl installer for Armbian/Debian. `GPL-2.0` `Shell/PHP`
 
 ### Software / Software Development - Localization
 
-*   [Traduora](https://traduora.co) - Translation management platform for teams. ([Source Code (⭐1.8k)](https://github.com/ever-co/ever-traduora)) `AGPL-3.0` `Docker/Nodejs`
+*   [Traduora](https://traduora.co) - Translation management platform for teams. ([Source Code (⭐1.9k)](https://github.com/ever-co/ever-traduora)) `AGPL-3.0` `Docker/K8S/Nodejs`
 
 ### Software / Task Management & To-do Lists
 
-*   [Kanboard](https://kanboard.org/) - Simple and open source visual task board. ([Source Code (⭐7.2k)](https://github.com/kanboard/kanboard)) `MIT` `PHP`
+*   [Kanboard](https://kanboard.org/) - Simple and open source visual task board. ([Source Code (⭐7.8k)](https://github.com/kanboard/kanboard)) `MIT` `PHP`
 
-## [9. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [8. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Software / File Management
 
-*   [WinSCP (⭐1.5k)](https://github.com/winscp/winscp) - SFTP and FTP client for Windows ([GNU GPLv3 (⭐1.5k)](https://github.com/winscp/winscp/blob/master/license.txt))
+*   [WinSCP (⭐1.9k)](https://github.com/winscp/winscp) - SFTP and FTP client for Windows ([GNU GPLv3 (⭐1.9k)](https://github.com/winscp/winscp/blob/master/license.txt))
 
 ### Software / Utilities
 
-*   [Espanso (⭐6.1k)](https://github.com/federico-terzi/espanso) - A cross-playform text expander ([GNU GPLv3 (⭐6.1k)](https://github.com/federico-terzi/espanso/blob/master/LICENSE))
+*   [Espanso (⭐7.7k)](https://github.com/federico-terzi/espanso) - A cross-playform text expander ([GNU GPLv3 (⭐7.7k)](https://github.com/federico-terzi/espanso/blob/master/LICENSE))
 
-## [10. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
+## [9. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
 
 ### Browser-Based / Arcade
 
-*   [ExecutiveMan (⭐82)](https://github.com/CamHenlin/ExecutiveMan) - Clone of NES game MegaMan, written in JavaScript.
-*   [Snake (⭐26)](https://github.com/jrgdiz/snake) - Simple clone of the snake game, using canvas and JavaScript.
+*   [ExecutiveMan (⭐81)](https://github.com/CamHenlin/ExecutiveMan) - Clone of NES game MegaMan, written in JavaScript.
+*   [Snake (⭐27)](https://github.com/jrgdiz/snake) - Simple clone of the snake game, using canvas and JavaScript.
 
 ### Browser-Based / Strategy
 
-*   [Command & Conquer (⭐756)](https://github.com/adityaravishankar/command-and-conquer) - Recreation of the original Command and Conquer, Real Time Strategy game entirely in HTML5 and JavaScript.
+*   [Command & Conquer (⭐758)](https://github.com/adityaravishankar/command-and-conquer) - Recreation of the original Command and Conquer, Real Time Strategy game entirely in HTML5 and JavaScript.
 
-## [11. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/README.md)
+## [10. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/README.md)
 
 ### Introduction and Pre-Security / Level 1 - Intro
 

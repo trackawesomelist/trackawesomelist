@@ -8,16 +8,16 @@
 
 ## [1. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Algorithms, Containers and Protocols / MIT
+### Algorithms, Containers and Protocols / Apache License
 
 *   [simple-blockchain (⭐21)](https://github.com/tomekw/simple_blockchain) - Simple blockchain in Ada.
 
-### Shells, Interpreters and Emulators / MIT
+### Shells, Interpreters and Emulators / Apache License
 
-*   [gsh (⭐91)](https://github.com/AdaCore/gsh) - GSH is non interactive POSIX shell for Windows, aimed at GNU software builds. 2-3 times faster than Cygwin.
-*   [gnatcoll-scripts-shell (⭐43)](https://github.com/AdaCore/gnatcoll-core/blob/master/src/gnatcoll-scripts-shell.ads) - GNATCOLL.Scripts.Shell is a simple embeddable scripting language, part of GNATCOLL Core.
+*   [gsh (⭐93)](https://github.com/AdaCore/gsh) - GSH is non interactive POSIX shell for Windows, aimed at GNU software builds. 2-3 times faster than Cygwin.
+*   [gnatcoll-scripts-shell (⭐42)](https://github.com/AdaCore/gnatcoll-core/blob/master/src/gnatcoll-scripts-shell.ads) - GNATCOLL.Scripts.Shell is a simple embeddable scripting language, part of GNATCOLL Core.
 
-### Programming Languages / MIT
+### Programming Languages / Apache License
 
 *   [para-sail](http://parasail-lang.org/) - ParaSail is a highly parallel experimental language, similar to Go and Erlang. Originaly owned by SofCheck (now AdaCore), it is a test project to try new ideas. Expandable pointers is a sample feature that is about to be introduced to SPARK and Ada. There are in fact 4 experimental languages: ParaSail, Sparkel, Javallel, Parython, all sharing bytecode interpreter and LLVM engine.
 
@@ -43,7 +43,7 @@
 
 ### Regular Expression
 
-*   [Oniguruma (⭐2k)](https://github.com/kkos/oniguruma) - A modern and flexible regular expressions library that supports a variety of character encodings. \[BSD]
+*   [Oniguruma (⭐2.1k)](https://github.com/kkos/oniguruma) - A modern and flexible regular expressions library that supports a variety of character encodings. \[BSD]
 
 ## [6. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Network / Security Information & Event Management
 
-*   [LogESP (⭐166)](https://github.com/dogoncouch/LogESP) - Open Source SIEM (Security Information and Event Management system).
+*   [LogESP (⭐176)](https://github.com/dogoncouch/LogESP) - Open Source SIEM (Security Information and Event Management system).
 
 ## [8. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
@@ -99,8 +99,8 @@
 *   [**NES.css**](https://nostalgic-css.github.io/NES.css/) - NES-style CSS Framework.\
     ![](https://img.shields.io/github/stars/nostalgic-css/NES.css.svg?style=social\&label=Star)
     [Demo](https://nostalgic-css.github.io/NES.css/),
-    [Docs (⭐19k)](https://github.com/nostalgic-css/NES.css#installation),
-    [Repo (⭐19k)](https://github.com/nostalgic-css/NES.css)
+    [Docs (⭐20k)](https://github.com/nostalgic-css/NES.css#installation),
+    [Repo (⭐20k)](https://github.com/nostalgic-css/NES.css)
     \| #SCSS
 
 ## [11. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
@@ -224,7 +224,7 @@
 
 ### Crack / General
 
-*   [kerlomz/captcha\_trainer (⭐2.5k)](https://github.com/kerlomz/captcha_trainer) - Based on CNN5/DenseNet+BLSTM/LSTM+CTC to realize verification code identification. Only for training the model.
+*   [kerlomz/captcha\_trainer (⭐2.8k)](https://github.com/kerlomz/captcha_trainer) - Based on CNN5/DenseNet+BLSTM/LSTM+CTC to realize verification code identification. Only for training the model.
 
 ## [20. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
 
@@ -299,27 +299,27 @@
 
 ### Platforms
 
-*   [IBM Cloud (⭐80)](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
-*   [Firebase (⭐643)](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud Platform.
+*   [IBM Cloud (⭐85)](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
+*   [Firebase (⭐664)](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud Platform.
 
 ### Programming Languages
 
-*   [Ada/SPARK (⭐480)](https://github.com/ohenley/awesome-ada#readme) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
+*   [Ada/SPARK (⭐518)](https://github.com/ohenley/awesome-ada#readme) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
 
 ### Decentralized Systems
 
-*   [Blockchain AI (⭐630)](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
+*   [Blockchain AI (⭐708)](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
 
 ### Miscellaneous
 
-*   [Food (⭐143)](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
-*   [Bitcoin Payment Processors (⭐312)](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Start accepting Bitcoin.
+*   [Food (⭐155)](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
+*   [Bitcoin Payment Processors (⭐343)](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Start accepting Bitcoin.
 
 ## [26. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Espial (⭐647)](https://github.com/jonschoning/espial) - An open-source, web-based bookmarking server. `AGPL-3.0` `Haskell`
+*   [Espial (⭐702)](https://github.com/jonschoning/espial) - An open-source, web-based bookmarking server. `AGPL-3.0` `Haskell`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -336,11 +336,11 @@
 
 ### C bindings
 
-*   [ssh2.cr (⭐36)](https://github.com/spider-gazelle/ssh2.cr) - Bindings for libssh2 library
+*   [ssh2.cr (⭐38)](https://github.com/spider-gazelle/ssh2.cr) - Bindings for libssh2 library
 
 ### HTTP
 
-*   [http-params-serializable (⭐19)](https://github.com/vladfaust/http-params-serializable) - HTTP params (de)serialization, applicable to URL queries and URL-encoded forms
+*   [http-params-serializable (⭐20)](https://github.com/vladfaust/http-params-serializable) - HTTP params (de)serialization, applicable to URL queries and URL-encoded forms
 
 ## [29. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
@@ -352,7 +352,7 @@
 
 ### Tools
 
-*   [cl-data-structures (⭐41)](https://github.com/sirherrbatka/cl-data-structures) - a portable collection of data structures and algorithms (mainly dicts and sequences, with some statistical functions). [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [cl-data-structures (⭐40)](https://github.com/sirherrbatka/cl-data-structures) - a portable collection of data structures and algorithms (mainly dicts and sequences, with some statistical functions). [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ## [31. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -384,13 +384,13 @@
 
 ### Reverse Engineering / Reverse Engineering Tools
 
-*   [pwndbg (⭐5.2k)](https://github.com/pwndbg/pwndbg) - GDB plug-in that eases debugging with GDB, with a focus on features needed by low-level software developers, hardware hackers, reverse-engineers, and exploit developers.
+*   [pwndbg (⭐6.1k)](https://github.com/pwndbg/pwndbg) - GDB plug-in that eases debugging with GDB, with a focus on features needed by low-level software developers, hardware hackers, reverse-engineers, and exploit developers.
 
 ## [35. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Containers / Kubernetes
 
-*   [Moon (⭐176)](https://github.com/aerokube/moon) - A commercial closed-source enterprise Selenium implementation using Kubernetes to launch browsers
+*   [Moon (⭐187)](https://github.com/aerokube/moon) - A commercial closed-source enterprise Selenium implementation using Kubernetes to launch browsers
 
 ## [36. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
@@ -408,13 +408,13 @@
 
 ## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [IP2Location](https://www.ip2location.com) — Freemium IP geolocation service. LITE database is available for free download. Import the database in server and perform local query to determine city, coordinates and ISP information.
+*   [IP2Location](https://www.ip2location.com) — Freemium IP geolocation service. LITE database is available for free download. Import the database in the server and perform a local query to determine the city, coordinates, and ISP information.
 
 ### Email
 
-*   [pepipost.com](https://pepipost.com) — 30k emails free for first month, then first 100 emails/day free
+*   [pepipost.com](https://pepipost.com) — 30k emails free for the first month, then the first 100 emails/day free.
 
 ## [39. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
@@ -430,13 +430,13 @@
 
 ### API Gateway / Symfony2
 
-*   [Express Gateway (⭐2.8k)](https://github.com/ExpressGateway/express-gateway) - Microservices API Gateway built on top of ExpressJS (Node.js).
+*   [Express Gateway (⭐2.9k)](https://github.com/ExpressGateway/express-gateway) - Microservices API Gateway built on top of ExpressJS (Node.js).
 
 ## [41. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these organizations anything!
 
-*   [Nikita Voloboev (⭐33)](https://github.com/nikitavoloboev/ama) - Loves [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing) things. Building [Learn Anything](https://learn-anything.xyz), [Enpicom](https://www.enpicom.com) and [tools](https://wiki.nikitavoloboev.xyz/sharing/my-github).
+*   [Nikita Voloboev (⭐34)](https://github.com/nikitavoloboev/ama) - Loves [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing) things. Building [Learn Anything](https://learn-anything.xyz), [Enpicom](https://www.enpicom.com) and [tools](https://wiki.nikitavoloboev.xyz/sharing/my-github).
 
 ### Ask these people anything!
 
@@ -502,7 +502,7 @@
 
 ## [44. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/week/README.md)
 
-### Articles
+### Articles / Video
 
 *   [Porting to console via Unity](https://do-games.com/blog/the-adventure-pals-console-tech-part1)
 
@@ -534,7 +534,7 @@
 
 ### API
 
-*   [SwiftyInsta (⭐218)](https://github.com/TheM4hd1/SwiftyInsta) - Private and Tokenless Instagram RESTful API.
+*   [SwiftyInsta (⭐222)](https://github.com/TheM4hd1/SwiftyInsta) - Private and Tokenless Instagram RESTful API.
 
 ### Form / Barcode
 
@@ -550,25 +550,25 @@
 
 ### Frameworks, Libraries and Tools / Logging
 
-*   [Karambolo.Extensions.Logging.File (⭐112)](https://github.com/adams85/filelogger) - A lightweight library which implements file logging for the built-in .NET Core logging framework (Microsoft.Extensions.Logging).
+*   [Karambolo.Extensions.Logging.File (⭐128)](https://github.com/adams85/filelogger) - A lightweight library which implements file logging for the built-in .NET Core logging framework (Microsoft.Extensions.Logging).
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [impromptu-interface (⭐601)](https://github.com/ekonbenefits/impromptu-interface) - Static interface to dynamic implementation (duck casting). Uses the DLR combined with Reflect.Emit.
-*   [Sheller (⭐99)](https://github.com/twitchax/Sheller) - A .NET library that makes shelling out commands super easy and fluent.
+*   [impromptu-interface (⭐639)](https://github.com/ekonbenefits/impromptu-interface) - Static interface to dynamic implementation (duck casting). Uses the DLR combined with Reflect.Emit.
+*   [Sheller (⭐106)](https://github.com/twitchax/Sheller) - A .NET library that makes shelling out commands super easy and fluent.
 
 ### Frameworks, Libraries and Tools / Networking
 
-*   [AspNetCore.Proxy (⭐399)](https://github.com/twitchax/AspNetCore.Proxy) - ASP.NET Core Proxies made easy.
+*   [AspNetCore.Proxy (⭐458)](https://github.com/twitchax/AspNetCore.Proxy) - ASP.NET Core Proxies made easy.
 
 ### Frameworks, Libraries and Tools / Office
 
-*   [npoi (⭐4.7k)](https://github.com/tonyqus/npoi) - .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
-*   [Open-XML-SDK (⭐3.3k)](https://github.com/OfficeDev/Open-XML-SDK) - The Open XML SDK provides tools for working with Office Word, Excel, and PowerPoint documents.
+*   [npoi (⭐7)](https://github.com/tonyqus/npoi) - .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
+*   [Open-XML-SDK (⭐3.7k)](https://github.com/OfficeDev/Open-XML-SDK) - The Open XML SDK provides tools for working with Office Word, Excel, and PowerPoint documents.
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [scoop (⭐16k)](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
+*   [scoop (⭐19k)](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
 
 ### Community / Workflow
 

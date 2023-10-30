@@ -10,13 +10,13 @@
 
 ### Packages / Command-line apps
 
-*   [svg-term-cli (⭐3.2k)](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG.
+*   [svg-term-cli (⭐3.3k)](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG.
 
 ## [2. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Web Frameworks / Bare metal / kernel development
 
-*   [collie](https://github.com/huntlabs/collie) -  An asynchronous event-driven network framework written in dlang, like netty framework in D.
+*   [collie (⭐60)](https://github.com/huntlabs/collie) -  An asynchronous event-driven network framework written in dlang, like netty framework in D.
 
 ### Data serialization / Binary Serilization
 
@@ -28,7 +28,7 @@
 
 ### Leeds
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/LukeB_UK" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/LukeB_UK" height="70px" width="70px" align="left" alt="" />
 
 **Luke Bonaccorsi**\
 Topics: Node, JavaScript, Automation\
@@ -51,13 +51,13 @@ Topics: Node, JavaScript, Automation\
 
 ### Bundlers
 
-*   [Parcel (⭐42k)](https://github.com/parcel-bundler/parcel) - Blazing fast, zero configuration web application bundler.
+*   [Parcel (⭐43k)](https://github.com/parcel-bundler/parcel) - Blazing fast, zero configuration web application bundler.
 
 ## [7. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Web Framework
 
-*   [Fulcro (⭐1.4k)](https://github.com/fulcrologic/fulcro)
+*   [Fulcro (⭐1.5k)](https://github.com/fulcrologic/fulcro)
 
 ## [8. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 

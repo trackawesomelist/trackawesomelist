@@ -10,7 +10,7 @@
 
 ### Processes and Threads
 
-*   [await\_async (⭐76)](https://github.com/anykeyh/await_async) - Add keywords await & async in Crystal Lang
+*   [await\_async (⭐79)](https://github.com/anykeyh/await_async) - Add keywords await & async in Crystal Lang
 
 ## [2. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Software / Video
 
-*   [Kodi](https://kodi.tv/) - Home Theater software and entertainment hub. ([GNU GPLv2 (⭐15k)](https://github.com/xbmc/xbmc/blob/master/README.md))
+*   [Kodi](https://kodi.tv/) - Home Theater software and entertainment hub. ([GNU GPLv2 (⭐16k)](https://github.com/xbmc/xbmc/blob/master/README.md))
 
 ## [9. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -89,8 +89,8 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [MagicOnion (⭐2.9k)](https://github.com/neuecc/MagicOnion) - gRPC based HTTP/2 RPC Streaming Framework for .NET, .NET Core and Unity.
-*   [resin (⭐555)](https://github.com/kreeben/resin) - 16-bit wide vector space search engine with HTTP API and pluggable read/write pipelines.
+*   [MagicOnion (⭐3.4k)](https://github.com/neuecc/MagicOnion) - gRPC based HTTP/2 RPC Streaming Framework for .NET, .NET Core and Unity.
+*   [resin (⭐557)](https://github.com/kreeben/resin) - 16-bit wide vector space search engine with HTTP API and pluggable read/write pipelines.
 
 ## [12. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -102,7 +102,7 @@
 
 ### UI / Material Design
 
-*   [Slidable (⭐2.3k)](https://github.com/letsar/flutter_slidable) <!--stargazers:letsar/flutter_slidable--> - Slidable list item with left and right slide actions by [Romain Rastel](https://github.com/letsar)
+*   [Slidable (⭐2.4k)](https://github.com/letsar/flutter_slidable) <!--stargazers:letsar/flutter_slidable--> - Slidable list item with left and right slide actions by [Romain Rastel](https://github.com/letsar)
 
 ---
 

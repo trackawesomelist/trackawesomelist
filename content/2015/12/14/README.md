@@ -10,18 +10,18 @@
 
 ### Algorithms and Data structures
 
-*   [aruspex (⭐35)](https://github.com/dkendal/aruspex) - Aruspex is a configurable constraint solver, written purely in Elixir.
+*   [aruspex (⭐37)](https://github.com/dkendal/aruspex) - Aruspex is a configurable constraint solver, written purely in Elixir.
 
 ## [2. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 
 ### Hypervisors
 
-*   [Docker (⭐23k)](https://github.com/veggiemonk/awesome-docker#cloud-infrastructure)\
+*   [Docker (⭐26k)](https://github.com/veggiemonk/awesome-docker#cloud-infrastructure)\
     An open platform for distributed applications for developers and sysadmins. **Standard de facto**.
 
 ### Sandboxes
 
-*   [NsJail (⭐2.2k)](https://github.com/google/nsjail)\
+*   [NsJail (⭐2.4k)](https://github.com/google/nsjail)\
     NsJail is a process isolation tool for Linux. It makes use of the namespacing, resource control, and seccomp-bpf syscall filter subsystems of the Linux kernel.
 
 ### Security / Tools
@@ -40,13 +40,13 @@
 
 ### Data Visualization
 
-*   [D3.compose (⭐699)](https://github.com/CSNW/d3.compose) - Compose complex, data-driven visualizations from reusable charts and components.
+*   [D3.compose (⭐698)](https://github.com/CSNW/d3.compose) - Compose complex, data-driven visualizations from reusable charts and components.
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Alert / Barcode
 
-*   [GSMessage (⭐705)](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications for iOS 7+.
+*   [GSMessage (⭐708)](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications for iOS 7+.
 
 ---
 

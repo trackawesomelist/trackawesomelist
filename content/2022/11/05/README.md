@@ -6,27 +6,23 @@
 
 
 
-## [1. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [1. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
 
-### (requires Neovim 0.5)
+### Examples
 
-*   [MrcJkb/haskell-tools.nvim (⭐216)](https://github.com/MrcJkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
+*   [aws/aws-parallelcluster (⭐785)](https://github.com/aws/aws-parallelcluster/wiki)
 
 ## [2. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Practices and Specific ES Features
 
-*   [no-comments (⭐5)](https://github.com/wisniewski94/eslint-plugin-no-comments) - Prevents leaking comments into production if bundler is not used and stops developers from commenting out old lines of code.
+*   [no-comments (⭐9)](https://github.com/wisniewski94/eslint-plugin-no-comments) - Prevents leaking comments into production if bundler is not used and stops developers from commenting out old lines of code.
 
 ## [3. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Monitoring
 
 *   [Grafana Docker Dashboard Template](https://grafana.com/grafana/dashboards/179-docker-prometheus-monitoring/) - A template for your Docker, Grafana and Prometheus stack [@vegasbrianc](https://github.com/vegasbrianc)
-
-### Builder / Other
-
-*   [packer](https://developer.hashicorp.com/packer/plugins/builders/docker) - Hashicorp tool to build machine images including docker image integrated with configuration management tools like chef, puppet, ansible
 
 ### Registry / Other
 

@@ -17,17 +17,17 @@
 
 ### Crates / Utils
 
-*   [turf (⭐5)](https://github.com/myFavShrimp/turf) - Macro based compile-time SCSS transpilation, CSS minification, and class name uniquification toolchain inspired by CSS modules.
+*   [turf (⭐9)](https://github.com/myFavShrimp/turf) - Macro based compile-time SCSS transpilation, CSS minification, and class name uniquification toolchain inspired by CSS modules.
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Cryptocurrencies
 
-*   [artemis (⭐1.3k)](https://github.com/paradigmxyz/artemis) - A simple, modular, and fast framework for writing MEV bots in Rust.
+*   [artemis (⭐1.7k)](https://github.com/paradigmxyz/artemis) - A simple, modular, and fast framework for writing MEV bots in Rust.
 
 ### Development tools / Deployment
 
-*   [MarcoIeni/release-plz (⭐183)](https://github.com/MarcoIeni/release-plz) \[[release-plz](https://crates.io/crates/release-plz)] — Release Rust crates from CI, with changelog generation and semver check. [![build badge](https://github.com/MarcoIeni/release-plz/workflows/CI/badge.svg)](https://github.com/MarcoIeni/release-plz/actions)
+*   [MarcoIeni/release-plz (⭐389)](https://github.com/MarcoIeni/release-plz) \[[release-plz](https://crates.io/crates/release-plz)] — Release Rust crates from CI, with changelog generation and semver check. [![build badge](https://github.com/MarcoIeni/release-plz/workflows/CI/badge.svg)](https://github.com/MarcoIeni/release-plz/actions)
 
 ## [4. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Awesome TypeScript Essential Resources
 
-*   :octocat: [Codebook (⭐2)](https://github.com/gvanastasov/codebook-typescript) read and run small code snippets to progressively learn TypeScript from the basic to advanced concepts.
+*   :octocat: [Codebook (⭐3)](https://github.com/gvanastasov/codebook-typescript) read and run small code snippets to progressively learn TypeScript from the basic to advanced concepts.
 
 ## [6. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
@@ -77,7 +77,7 @@
 ### Engineering / Systems Complexity
 
 *   [Living with Complexity, by Donald A. Norman](https://www.amazon.com/Living-Complexity-Donald-Norman-2010/dp/B00DEKM5GK?_encoding=UTF8\&qid=1686404524\&sr=1-1\&linkCode=ll1\&tag=kevideld-20\&linkId=497ae387bbd398624d897bdfbf90f7b6\&language=en_US\&ref_=as_li_ss_tl) - In which we learn that, based on [Tesler's law of the conservation of complexity](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity), “the total complexity of a system is a constant: as you make the person's interaction simpler, the hidden complexity behind the scenes increases. Make one part of the system simpler, said Tesler, and the rest of the system gets more complex.”
-*   [The Efficiency-Destroying Magic of Tidying Up](https://flocrivello.com/the-efficiency-destroying-magic-of-tidying-up/) - “Efficiency tends to look messy, and good looks tend to be inefficient.” A reminder that sometimes we should just accept [the messiness of the world (⭐21k)](https://github.com/kdeldycke/awesome-falsehood).
+*   [The Efficiency-Destroying Magic of Tidying Up](https://flocrivello.com/the-efficiency-destroying-magic-of-tidying-up/) - “Efficiency tends to look messy, and good looks tend to be inefficient.” A reminder that sometimes we should just accept [the messiness of the world (⭐22k)](https://github.com/kdeldycke/awesome-falsehood).
 
 ### Engineering / Engineering Practices
 
@@ -118,7 +118,7 @@
 
 ### Communication / Style
 
-*   [JStylo & Anonymouth (⭐9)](https://github.com/spencermwoo/anonymouth) - Authorship attribution analysis tool and evasion (anonymization) framework.
+*   [JStylo & Anonymouth (⭐10)](https://github.com/spencermwoo/anonymouth) - Authorship attribution analysis tool and evasion (anonymization) framework.
 
 ### Communication / Presentations
 
@@ -134,22 +134,22 @@
 
 ## [7. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
-### Authentication / Multi-Factor
+### Multi-factor auth / Identifiers
 
 *   [A Comparative Long-Term Study of Fallback Authentication](https://maximiliangolla.com/files/2019/papers/usec2019-30-wip-fallback-long-term-study-finalv5.pdf) - Key take-away: “schemes based on email and SMS are more usable. Mechanisms based on designated trustees and personal knowledge questions, on the other hand, fall short, both in terms of convenience and efficiency.”
 
-### Authentication / OAuth2 & OpenID
-
-*   [PKCE Explained](https://www.loginradius.com/blog/engineering/pkce/) - “PKCE is used to provide one more security layer to the authorization code flow in OAuth and OpenID Connect.”
-*   [OAuth 2.0 and the Road to Hell](https://gist.github.com/nckroy/dd2d4dfc86f7d13045ad715377b6a48f) - The resignation letter from the lead author and editor of the Oauth 2.0 specification.
-
 ### Authorization / AWS policy tools
 
-*   [IAMbic (⭐134)](https://github.com/noqdev/iambic) - GitOps for IAM. The Terraform of Cloud IAM. IAMbic is a multi-cloud identity and access management (IAM) control plane that centralizes and simplifies cloud access and permissions. It maintains an eventually consistent, human-readable, bi-directional representation of IAM in version control.
+*   [IAMbic (⭐251)](https://github.com/noqdev/iambic) - GitOps for IAM. The Terraform of Cloud IAM. IAMbic is a multi-cloud identity and access management (IAM) control plane that centralizes and simplifies cloud access and permissions. It maintains an eventually consistent, human-readable, bi-directional representation of IAM in version control.
 
 ### Authorization / Macaroons
 
 *   [Google's Macaroons in Five Minutes or Less](https://blog.bren2010.io/blog/googles-macaroons) - If I'm given a Macaroon that authorizes me to perform some action(s) under certain restrictions, I can non-interactively build a second Macaroon with stricter restrictions that I can then give to you.
+
+### OAuth2 & OpenID / Macaroons
+
+*   [PKCE Explained](https://www.loginradius.com/blog/engineering/pkce/) - “PKCE is used to provide one more security layer to the authorization code flow in OAuth and OpenID Connect.”
+*   [OAuth 2.0 and the Road to Hell](https://gist.github.com/nckroy/dd2d4dfc86f7d13045ad715377b6a48f) - The resignation letter from the lead author and editor of the Oauth 2.0 specification.
 
 ### Trust & Safety / Moderation
 
@@ -171,4 +171,5 @@
 
 ---
 
+- Prev: [Jun 12, 2023](/content/2023/06/12/README.md)
 - Next: [Jun 10, 2023](/content/2023/06/10/README.md)

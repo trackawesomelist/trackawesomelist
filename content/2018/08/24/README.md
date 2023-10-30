@@ -46,7 +46,7 @@
 
 ### Applications / Episodes
 
-*   [talking-with-cars (⭐94)](https://github.com/P1kachu/talking-with-cars) - CAN related scripts, and scripts to use a car as a gamepad
+*   [talking-with-cars (⭐96)](https://github.com/P1kachu/talking-with-cars) - CAN related scripts, and scripts to use a car as a gamepad
 
 ## [5. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -114,11 +114,11 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [commanddotnet (⭐440)](https://github.com/bilal-fazlani/commanddotnet) - Model your command line application interface in a class.
+*   [commanddotnet (⭐528)](https://github.com/bilal-fazlani/commanddotnet) - Model your command line application interface in a class.
 
 ### Frameworks, Libraries and Tools / ORM
 
-*   [querybuilder (⭐2.5k)](https://github.com/sqlkata/querybuilder) - SqlKata Query Builder is a powerful Sql Query Builder written in C#.
+*   [querybuilder (⭐2.8k)](https://github.com/sqlkata/querybuilder) - SqlKata Query Builder is a powerful Sql Query Builder written in C#.
 
 ## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

@@ -12,19 +12,25 @@
 
 *   [Imba (⭐129)](https://github.com/koolamusic/awesome-imba#readme) - Programming language inspired by Ruby and Python and compiles to performant JavaScript.
 
-## [2. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Polls and Events
+
+*   [hitobito](https://hitobito.com/en) - A web application to manage complex group hierarchies with members, events and a lot more. ([Demo](https://demo.hitobito.com/en/users/sign_in), [Source Code (⭐318)](https://github.com/hitobito/hitobito)) `AGPL-3.0` `Ruby`
+
+## [3. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Frameworks • Libraries • Ecosystems
 
-*   [Canvas-sketch (⭐4.5k)](https://github.com/mattdesl/canvas-sketch) \[Cross-platform] - HTML5 framework for making generative artwork in JavaScript and the browser.
+*   [Canvas-sketch (⭐4.7k)](https://github.com/mattdesl/canvas-sketch) \[Cross-platform] - HTML5 framework for making generative artwork in JavaScript and the browser.
 
-## [3. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
+## [4. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### Programming fonts / Programming fonts with ligatures
 
 *   [Victor Mono](https://rubjo.github.io/victor-mono/) - A free programming font with semi-connected cursive italics, symbol ligatures and Latin, Cyrillic and Greek characters
 
-## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Audio and Video Tools / File Sharing
 
@@ -38,27 +44,18 @@
 
 *   [Hungrymark](https://zhengying.github.io/hungrymark) - Useful app to bookmark your files, folders, and webs, quick access your bookmarks through menu bar  [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/hungrymark/id1482778901?l=en\&mt=12)
 
-## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Polls and Events
-
-*   [hitobito](https://hitobito.com/en) - A web application to manage complex group hierarchies with members, events and a lot more. ([Demo](https://demo.hitobito.com/en/users/sign_in), [Source Code (⭐299)](https://github.com/hitobito/hitobito)) `AGPL-3.0` `Ruby`
-
-### External Links / Wikis
-
-*   Mirrors: [GitHub.com (⭐133k)](https://github.com/awesome-selfhosted/awesome-selfhosted), [Gitlab.com](https://gitlab.com/awesome-selfhosted/awesome-selfhosted)
-
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
-*   [jedisct1/flowgger (⭐769)](https://github.com/awslabs/flowgger) — A fast, simple and lightweight data collector
+*   [jedisct1/flowgger (⭐794)](https://github.com/awslabs/flowgger) — A fast, simple and lightweight data collector
 
 ### Libraries / GUI
 
 *   [Flutter](https://flutter.dev/)
-    *   [flutter-rs (⭐2k)](https://github.com/flutter-rs/flutter-rs) — Build flutter desktop app in dart & rust.
-    *   [fzyzcjy/flutter\_rust\_bridge (⭐2.6k)](https://github.com/fzyzcjy/flutter_rust_bridge) — High-level memory-safe binding generator for Flutter/Dart <-> Rust
+    *   [cunarist/rinf (⭐494)](https://github.com/cunarist/rinf) — Rust as your Flutter backend, Flutter as your Rust frontend [![Build Test](https://github.com/cunarist/rinf/actions/workflows/build_test.yaml/badge.svg)](https://github.com/cunarist/rinf/actions/workflows/build_test.yaml?query=branch%3Amain)
+    *   [flutter-rs (⭐2.1k)](https://github.com/flutter-rs/flutter-rs) — Build flutter desktop app in dart & rust.
+    *   [fzyzcjy/flutter\_rust\_bridge (⭐2.9k)](https://github.com/fzyzcjy/flutter_rust_bridge) — High-level memory-safe binding generator for Flutter/Dart <-> Rust
 
 ## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

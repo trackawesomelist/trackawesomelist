@@ -10,14 +10,14 @@
 
 ### Node-Powered CMS Frameworks / Runner
 
-*   [Hatch.js (⭐73)](https://github.com/inventures/hatchjs) - CMS platform with social features.
+*   [Hatch.js (⭐74)](https://github.com/inventures/hatchjs) - CMS platform with social features.
 *   [TaracotJS (⭐19)](https://github.com/xtremespb/taracotjs-generator/) - fast and minimalist CMS based on Node.js.
 
 ## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [YCML (⭐116)](https://github.com/yconst/YCML) - A Machine Learning framework for Objective-C and Swift (OS X / iOS).
+*   [YCML (⭐117)](https://github.com/yconst/YCML) - A Machine Learning framework for Objective-C and Swift (OS X / iOS).
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Security / Tools
 
-*   [Docker bench security (⭐8k)](https://github.com/docker/docker-bench-security)\
+*   [Docker bench security (⭐8.4k)](https://github.com/docker/docker-bench-security)\
     The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 
 ### Security / Links
@@ -49,19 +49,19 @@
 
 *   Mock
     *   [doublex](https://pypi.org/project/doublex/) - Powerful test doubles framework for Python.
-    *   [freezegun (⭐3.6k)](https://github.com/spulec/freezegun) - Travel through time by mocking the datetime module.
-    *   [httmock (⭐453)](https://github.com/patrys/httmock) - A mocking library for requests for Python 2.6+ and 3.2+.
-    *   [httpretty (⭐2k)](https://github.com/gabrielfalcao/HTTPretty) - HTTP request mock tool for Python.
+    *   [freezegun (⭐3.7k)](https://github.com/spulec/freezegun) - Travel through time by mocking the datetime module.
+    *   [httmock (⭐458)](https://github.com/patrys/httmock) - A mocking library for requests for Python 2.6+ and 3.2+.
+    *   [httpretty (⭐2.1k)](https://github.com/gabrielfalcao/HTTPretty) - HTTP request mock tool for Python.
     *   [mock](https://docs.python.org/3/library/unittest.mock.html) - (Python standard library) A mocking and patching library.
-    *   [mocket (⭐258)](https://github.com/mindflayer/python-mocket) - A socket mock framework with gevent/asyncio/SSL support.
-    *   [responses (⭐3.8k)](https://github.com/getsentry/responses) - A utility library for mocking out the requests Python library.
+    *   [mocket (⭐264)](https://github.com/mindflayer/python-mocket) - A socket mock framework with gevent/asyncio/SSL support.
+    *   [responses (⭐3.9k)](https://github.com/getsentry/responses) - A utility library for mocking out the requests Python library.
     *   [VCR.py (⭐2.4k)](https://github.com/kevin1024/vcrpy) - Record and replay HTTP interactions on your tests.
 
 ## [6. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Malware Analysis (⭐9.8k)](https://github.com/rshipp/awesome-malware-analysis) - A curated list of awesome malware analysis tools and resources.
+*   [Awesome Malware Analysis (⭐10k)](https://github.com/rshipp/awesome-malware-analysis) - A curated list of awesome malware analysis tools and resources.
 
 ---
 

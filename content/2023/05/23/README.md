@@ -44,12 +44,6 @@
 
 
 
-### HTML/CSS/JavaScript templates:
-
-- Website: [Web3Templates](https://web3templates.com)
-
-
-
 ### React UI libraries:
 
 - Website: [Prime React](https://primereact.org/)
@@ -62,11 +56,12 @@
 
 ### Tools / Services
 
-*   [LangchainJS Worker (⭐31)](https://github.com/rickyrobinett/langchainjs-workers): LangchainJS worker on cloudflare ![GitHub Repo stars](https://img.shields.io/github/stars/rickyrobinett/langchainjs-workers?style=social)
+*   [LangchainJS Worker (⭐54)](https://github.com/rickyrobinett/langchainjs-workers): LangchainJS worker on cloudflare ![GitHub Repo stars](https://img.shields.io/github/stars/rickyrobinett/langchainjs-workers?style=social)
+*   [Psychic (⭐1.6k)](https://github.com/psychic-api/psychic): Universal APIs for unstructured data. Sync documents from SaaS tools to a SQL or vector database, where they can be easily queried by AI applications like ChatGPT. ![GitHub Repo stars](https://img.shields.io/github/stars/psychic-api/psychic?style=social)
 
 ### Tools / Agents
 
-*   [CollosalAI Chat (⭐30k)](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): implement LLM with RLHF, powered by the Colossal-AI project ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
+*   [CollosalAI Chat (⭐35k)](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): implement LLM with RLHF, powered by the Colossal-AI project ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
 
 ### Tools / Platforms
 
@@ -76,26 +71,25 @@
 
 ### Open Source Projects / Knowledge Management
 
-*   [DocsGPT (⭐5.5k)](https://github.com/arc53/docsgpt): GPT-powered chat for documentation search & assistance. ![GitHub Repo stars](https://img.shields.io/github/stars/arc53/docsgpt?style=social)
+*   [DocsGPT (⭐12k)](https://github.com/arc53/docsgpt): GPT-powered chat for documentation search & assistance. ![GitHub Repo stars](https://img.shields.io/github/stars/arc53/docsgpt?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [QNimGPT](https://huggingface.co/spaces/rituthombre/QNim): Play Nim against an IBM Quantum Computer simulator or OpenAI GPT-3.5 ![GitHub Repo stars](https://img.shields.io/github/stars/rituthombre/QNim?style=social)
-*   [ChatPDF (⭐439)](https://github.com/akshata29/chatpdf): ChatGPT + Enterprise data with Azure OpenAI ![GitHub Repo stars](https://img.shields.io/github/stars/akshata29/chatpdf?style=social)
-*   [DB GPT (⭐2.7k)](https://github.com/csunny/DB-GPT): Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security ![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)
-*   [Psychic (⭐1.1k)](https://github.com/psychic-api/psychic): Universal APIs for unstructured data. Sync documents from SaaS tools to a SQL or vector database, where they can be easily queried by AI applications like ChatGPT. ![GitHub Repo stars](https://img.shields.io/github/stars/psychic-api/psychic?style=social)
+*   [DB GPT (⭐7.3k)](https://github.com/csunny/DB-GPT): Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security ![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)
+*   [QNimGPT](https://huggingface.co/spaces/rituthombre/QNim): Play Nim against an IBM Quantum Computer simulator or OpenAI GPT-3.5
+*   [ChatPDF (⭐739)](https://github.com/akshata29/chatpdf): ChatGPT + Enterprise data with Azure OpenAI ![GitHub Repo stars](https://img.shields.io/github/stars/akshata29/chatpdf?style=social)
 
-### Alternatives / Articles
+### Other LLM Frameworks / Videos Playlists
 
-*   [Dust (⭐561)](https://github.com/dust-tt/dust): Design and Deploy Large Language Model Apps ![GitHub Repo stars](https://img.shields.io/github/stars/dust-tt/dust?style=social)
+*   [Dust (⭐723)](https://github.com/dust-tt/dust): Design and Deploy Large Language Model Apps ![GitHub Repo stars](https://img.shields.io/github/stars/dust-tt/dust?style=social)
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Large Language Models / Contribute to Our Repository
+### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
-*   [google/BIG-bench (⭐1.9k)](https://github.com/google/BIG-bench): "a collaborative benchmark intended to probe large language models and extrapolate their future capabilities"
+*   [google/BIG-bench (⭐2.3k)](https://github.com/google/BIG-bench): "a collaborative benchmark intended to probe large language models and extrapolate their future capabilities"
 
-### Inbox: Large Language Models / LLMOps
+### Inbox: Large Language Models (LLMs) / LLMOps
 
 *   [Dify](https://dify.ai/): LLMOps platform for creating and operating AI-native apps based on GPT-4
 
@@ -108,28 +102,28 @@
 
 ### Software / Office Suites
 
-*   [CryptPad](https://cryptpad.org) - CryptPad is a collaboration suite that is end-to-end-encrypted and open-source. It is built to enable collaboration, synchronizing changes to documents in real time. ([Source Code (⭐4.4k)](https://github.com/cryptpad/cryptpad)) `AGPL-3.0` `Nodejs`
+*   [CryptPad](https://cryptpad.org) - CryptPad is a collaboration suite that is end-to-end-encrypted and open-source. It is built to enable collaboration, synchronizing changes to documents in real time. ([Source Code (⭐4.7k)](https://github.com/cryptpad/cryptpad)) `AGPL-3.0` `Nodejs/Docker`
 
 ## [6. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
 ### Contents / Libraries
 
-*   [Modular Forms (⭐311)](https://github.com/fabian-hiller/modular-forms) - Modular, type-safe and signal based form library for Preact.
+*   [Modular Forms (⭐633)](https://github.com/fabian-hiller/modular-forms) - Modular, type-safe and signal based form library for Preact.
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [pack (⭐0)](https://github.com/fourdim/zsh-pack/) - Pack your source code with ZSH.
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [argc-completions (⭐3)](https://github.com/sigoden/argc-completions) - Uses [argc (⭐449)](https://github.com/sigoden/argc) and [jq (⭐25k)](https://github.com/stedolan/jq) to add ZSH tab completions.
+*   [argc-completions (⭐3)](https://github.com/sigoden/argc-completions) - Uses [argc (⭐501)](https://github.com/sigoden/argc) and [jq (⭐27k)](https://github.com/stedolan/jq) to add ZSH tab completions.
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [astro (⭐98)](https://github.com/iplaces/astro-zsh-theme) - Based on the `ys` and [robbyrussell (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell) themes.
-*   [bashlover (⭐0)](https://github.com/Vu0811/bashlover) - Designed for those who appreciate the powerful features of ZSH shell but still prefer a simple, classic interface similar to the `bash` shell. Includes decorators for `git` information, user\@host and the current working directory
+*   [astro (⭐98)](https://github.com/iplaces/astro-zsh-theme) - Based on the `ys` and [robbyrussell (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell) themes.
+*   [bashlover (⭐1)](https://github.com/Vu0811/bashlover) - Designed for those who appreciate the powerful features of ZSH shell but still prefer a simple, classic interface similar to the `bash` shell. Includes decorators for `git` information, user\@host and the current working directory
 *   [msys2 (⭐0)](https://github.com/water-logger/MSYS2-Theme/) - Inspired by MSYS2. Includes decorators for user\@host, `git` status and the current directory.
 *   [pedantic (⭐0)](https://github.com/nemeshnorbert/pedantic-zsh-theme) - Customizable colors and output. Includes decorators for detailed `git` information, root status, last command's exit status, user\@host, current directory and the time.
 *   [stigmata (⭐0)](https://github.com/VLtim43/stigmata.zsh-theme) - Includes decorators for user\@host and current directory.

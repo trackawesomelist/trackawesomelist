@@ -29,7 +29,7 @@
 ### Contents / Utilities
 
 *   [apgdiff](https://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
-*   [ZSON (⭐488)](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression
+*   [ZSON (⭐501)](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression
 
 ## [4. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Documentation tools / Components
 
-*   [NgModule-Viz (⭐36)](https://github.com/politie/ngmodule-viz) : Visualize the dependencies between the NgModules in your Angular 2+ application.
+*   [NgModule-Viz (⭐37)](https://github.com/politie/ngmodule-viz) : Visualize the dependencies between the NgModules in your Angular 2+ application.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

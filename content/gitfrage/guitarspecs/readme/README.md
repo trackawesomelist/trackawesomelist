@@ -2,7 +2,7 @@
 
 Overview of the electric guitar's parts specs
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/gitfrage/guitarspecs/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 gitfrage/guitarspecs](https://github.com/gitfrage/guitarspecs) · ⭐ 174 · 🏷️ Hardware
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/gitfrage/guitarspecs/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 gitfrage/guitarspecs](https://github.com/gitfrage/guitarspecs) · ⭐ 197 · 🏷️ Hardware
 
 [ [Daily](/content/gitfrage/guitarspecs/README.md) / [Weekly](/content/gitfrage/guitarspecs/week/README.md) / Overview ]
 
@@ -11,7 +11,7 @@ Overview of the electric guitar's parts specs
 # Electric Guitar Specifications
 
 This is a "top-down checklist" for the assembly of a solid-body electric guitar.
-It can help you to build a guitar with specific sound and playability characteristics. Please read [licence and the contribution guidelines (⭐172)](https://github.com/gitfrage/guitarspecs/blob/master/contributing.md) before contributing. [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+It can help you to build a guitar with specific sound and playability characteristics. Please read [licence and the contribution guidelines (⭐197)](https://github.com/gitfrage/guitarspecs/blob/master/contributing.md) before contributing. [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 ![Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs/raw/master/./images/Sound-and-Playability.jpg)
 
@@ -263,7 +263,7 @@ Picture left to right:
     Tremolo "Vintage":         Tremolo "Standard":
     ..o..o..o..o..o...o...      .....O.......O.....
 
-| Modell                  | E/e                | Holes | Hole Distance    | Hole Ø          |
+| Model                   | E/e                | Holes | Hole Distance    | Hole Ø          |
 | ----------------------- | ------------------ | ----- | ---------------- | --------------- |
 | Mexico Strat            | 52,4 mm (2 1/16)   | 6     | 52,4 mm (2 1/16) | 3 mm (1/8")     |
 | Vintage                 | 56,36 mm (2 7/32") | 6     | 55,9 mm (2.2")   | 3 mm (1/8")     |
@@ -306,7 +306,7 @@ Instead tailpiece - there may be "strings through the body" drillings.
 *   Lipstick Tube
 *   Jazzmaster
 
-\*Wide Humbucker (same as Seymourduncans "Trembucker" or Dimarzios "F-spaced Hambucker") can be used for guitars with larger sting distance with standard "Humbucker Routing". Measure from the middle of the high string to the middle of the low string, directly over the pickup. If the distance is greater than two inches or 50mm, go for a Wide Humbucker.
+\*Wide Humbucker (same as Seymourduncans "Trembucker" or Dimarzios "F-spaced Hambucker") can be used for guitars with larger string distance with standard "Humbucker Routing". Measure from the middle of the high string to the middle of the low string, directly over the pickup. If the distance is greater than two inches or 50mm, go for a Wide Humbucker.
 
 Exact specifications can be found on the manufacturer's website like:
 
@@ -455,14 +455,14 @@ Example: "Seriell/Parallel und Coil Split at same time" are possible with 4 Push
 
 ![cap values](https://github.com/gitfrage/guitarspecs/raw/master/./images/clip16_cap.jpg)
 
-| Sound group            | Pot  | Cap     | Examples                       |
-| ---------------------- | ---- | ------- | ------------------------------ |
-| standard hambucker     | 500K | 0.047mF | most hambucker equiped guitars |
-| bright                 | 500K | 0.022mF | some guitars (U.S. FAT Tele)   |
-| brighter               | 500K | 0.01mF  | some custom models             |
-| brightest              | 1M   | 0.01mF  | some custom models             |
-| standard singele coils | 250K | 0.022mF | most strat & tele models       |
-| jazzy                  | 250K | 0.047mF | some teles (ASAT BluesBoy)     |
+| Sound group            | Pot  | Cap     | Examples                        |
+| ---------------------- | ---- | ------- | ------------------------------- |
+| standard hambucker     | 500K | 0.047mF | most hambucker equipped guitars |
+| bright                 | 500K | 0.022mF | some guitars (U.S. FAT Tele)    |
+| brighter               | 500K | 0.01mF  | some custom models              |
+| brightest              | 1M   | 0.01mF  | some custom models              |
+| standard singele coils | 250K | 0.022mF | most strat & tele models        |
+| jazzy                  | 250K | 0.047mF | some teles (ASAT BluesBoy)      |
 
 > <http://www.planetz.com/guitar-tone-capacitors-material-types> -   comparison of tone capacitor material types and capacitance values.
 
@@ -509,7 +509,7 @@ There are 3 common styles of knobs:
 
 ![active pickups](https://github.com/gitfrage/guitarspecs/raw/master/./images/clip7_active-pickup.jpg)
 
-Active Electronics tries to reduce dependancy from the shielded cable and amp input impedance. However, that needs power to operate, and that's its biggest drawback.
+Active Electronics tries to reduce dependency from the shielded cable and amp input impedance. However, that needs power to operate, and that's its biggest drawback.
 
 > [Custom Buffers (german)](http://www.guitar-letter.de/Angebot/BufferUndAmps/Impedanzwandler.htm) -  used  to decouple the guitar electronics from the sound influencing effects on the shielded cable.
 

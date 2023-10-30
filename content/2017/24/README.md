@@ -41,33 +41,33 @@
 
 ### Game Disassemblies / Syntax highlighting packages
 
-*   [Pokémon Pinball (⭐125)](https://github.com/pret/pokepinball)
-*   [Pokémon TCG (⭐197)](https://github.com/pret/poketcg)
+*   [Pokémon Pinball (⭐134)](https://github.com/pret/pokepinball)
+*   [Pokémon TCG (⭐227)](https://github.com/pret/poketcg)
 
 ## [4. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Network Tools / Network Reconnaissance Tools
 
-*   [CloudFail (⭐1.8k)](https://github.com/m0rtem/CloudFail) - Unmask server IP addresses hidden behind Cloudflare by searching old database records and detecting misconfigured DNS.
+*   [CloudFail (⭐2k)](https://github.com/m0rtem/CloudFail) - Unmask server IP addresses hidden behind Cloudflare by searching old database records and detecting misconfigured DNS.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Authentication
 
-*   [Keats/jsonwebtoken (⭐1.2k)](https://github.com/Keats/jsonwebtoken) — [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) lib in rust
+*   [Keats/jsonwebtoken (⭐1.4k)](https://github.com/Keats/jsonwebtoken) — [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) lib in rust
 
 ### Libraries / Computation
 
 *   Scirust
-    *   [indigits/scirust (⭐249)](https://github.com/indigits/scirust) — scientific computing library in Rust
+    *   [indigits/scirust (⭐255)](https://github.com/indigits/scirust) — scientific computing library in Rust
 
 ### Libraries / Logging
 
-*   [slog-rs/slog (⭐1.4k)](https://github.com/slog-rs/slog) — Structured, composable logging for Rust
+*   [slog-rs/slog (⭐1.5k)](https://github.com/slog-rs/slog) — Structured, composable logging for Rust
 
 ### Resources / Web programming
 
-*   [Rust Design Patterns (⭐6.9k)](https://github.com/rust-unofficial/patterns)
+*   [Rust Design Patterns (⭐7.2k)](https://github.com/rust-unofficial/patterns)
 
 ## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -108,13 +108,13 @@
 
 ### Web Apps (open source)
 
-*   [Google I/O Transport Tracker (⭐558)](https://github.com/googlemaps/transport-tracker) - Shows shuttle arrival times for Google I/O conference, based on the open-source [transport-tracker project (⭐558)](https://github.com/googlemaps/transport-tracker).  Note: To implement this yourself, you need a [Google Maps APIs Premium Plan license](https://developers.google.com/maps/pricing-and-plans/).
+*   [Google I/O Transport Tracker (⭐561)](https://github.com/googlemaps/transport-tracker) - Shows shuttle arrival times for Google I/O conference, based on the open-source [transport-tracker project (⭐561)](https://github.com/googlemaps/transport-tracker).  Note: To implement this yourself, you need a [Google Maps APIs Premium Plan license](https://developers.google.com/maps/pricing-and-plans/).
 
 ## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [EmbedIO (⭐1.3k)](https://github.com/unosquare/embedio) - A tiny, cross-platform, module based web server for .NET Framework and .NET Core.
+*   [EmbedIO (⭐1.4k)](https://github.com/unosquare/embedio) - A tiny, cross-platform, module based web server for .NET Framework and .NET Core.
 
 ## [13. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
@@ -126,7 +126,14 @@
 
 *   [IIPC](http://netpreserve.org/about-us/iipc-mailing-list/)
 
-## [14. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [14. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Java / Bootstrap
+
+*   [Processing XML with Java (A Guide to SAX, DOM, JDOM, JAXP, and TrAX) (2002)](http://www.cafeconleche.org/books/xmljava/) - Elliotte Rusty Harold
+*   [Welcome to the Java Workshop (2006)](http://javaworkshop.sourceforge.net) - Trevor Miller
+
+## [15. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Codecs
 
@@ -163,19 +170,19 @@
 
 *   [UPipe (⭐0)](https://github.com/cmassiot/upipe/) - Primarily designed to be the core of a multimedia player, transcoder or streamer.
 
-## [15. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [16. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / Development
 
 *   [Lumo (⭐1.9k)](https://github.com/anmonteiro/lumo) – Fast, cross-platform, standalone ClojureScript environment.
 
-## [16. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [17. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Database Clients
 
 *   [vertx-mysql-binlog-client (⭐18)](https://github.com/guoyu511/vertx-mysql-binlog-client) - A Vert.x client for tapping into MySQL replication stream.
 
-## [17. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [18. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Official Elements
 
@@ -191,28 +198,18 @@
 
 *   [Polymer-Redux (⭐444)](https://github.com/tur-nr/polymer-redux) Polymer bindings for Redux.
 
-## [18. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [19. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Caching and Locking
 
 *   [APIx Cache (⭐110)](https://github.com/apix/cache) - A thin PSR-6 cache wrapper to various caching backends emphasising cache tagging and indexing.
 
-## [19. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [20. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Science and Data Analysis
 
 *   [Streaming Histograms (⭐152)](https://github.com/bigmlcom/histogram)
 *   [Gorilla REPL](http://gorilla-repl.org/)
-
-## [20. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
-
-### Software / Communication
-
-*   [Tox](https://tox.chat/) - Encrypted and distributed messaging platform with voice, video, and screen sharing. ([GNU GPLv3 (⭐1.8k)](https://github.com/TokTok/c-toxcore/blob/master/COPYING))
-
-### Resources / Articles
-
-*   [Free Software](https://en.wikipedia.org/wiki/Free_software) - Wikipedia entry on the topic of free software.
 
 ## [21. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
 
@@ -249,7 +246,7 @@
 
 ### Third Party APIs
 
-*   [ethereumex (⭐350)](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain.
+*   [ethereumex (⭐364)](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain.
 
 ### Books
 
@@ -299,7 +296,7 @@ Webpage: <http://4sq.com/1dQaY6h>
 
 ### PHP / Misc
 
-*   [steam-auth (⭐16)](https://github.com/vikas5914/steam-auth) - An alternative Steam authentication library with Composer support.
+*   [steam-auth (⭐18)](https://github.com/vikas5914/steam-auth) - An alternative Steam authentication library with Composer support.
 
 ## [28. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
@@ -311,11 +308,19 @@ Webpage: <http://4sq.com/1dQaY6h>
 
 *   [Welcome to How To Grow (almost) Anything in GaudiLabs - Switzerland](http://bio.academany.org/2015/labs/luzern/final_project.html) - A guide to setting up a basic microbiology lab.
 
-## [29. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
+## [29. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
-### Alternatives / Reference
+### Software / Web Applications
 
-*   [OpenStreetMap](https://www.openstreetmap.org) - Map of the world created by users and released under an open license.
+*   [OpenStreetMap](https://www.openstreetmap.org) - Map of the world created by users and released under an open license. ([GNU GPLv2](https://git.openstreetmap.org/rails.git/blob/HEAD:/LICENSE))
+
+### Software / Communication
+
+*   [Tox](https://tox.chat/) - Encrypted and distributed messaging platform with voice, video, and screen sharing. ([GNU GPLv3 (⭐2k)](https://github.com/TokTok/c-toxcore/blob/master/COPYING))
+
+### Resources / Articles
+
+*   [Free Software](https://en.wikipedia.org/wiki/Free_software) - Wikipedia entry on the topic of free software.
 
 ## [30. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -340,7 +345,7 @@ Webpage: <http://4sq.com/1dQaY6h>
 
 ### Pipes / Components
 
-*   [ngx-order-pipe (⭐240)](https://github.com/VadimDez/ngx-order-pipe) OrderBy pipe for Angular4+ - sort collection by a field
+*   [ngx-order-pipe (⭐242)](https://github.com/VadimDez/ngx-order-pipe) OrderBy pipe for Angular4+ - sort collection by a field
 
 ## [32. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
@@ -460,11 +465,11 @@ Webpage: <http://4sq.com/1dQaY6h>
 ### Projects Using Vue.js / Open Source
 
 *   [promptie (⭐88)](https://github.com/alicin/promptie) - A framework written in Vue.js for creating command-line like interfaces in web browsers.
-*   [Hare (⭐260)](https://github.com/clarkdo/hare) - 🐇 Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js
+*   [Hare (⭐258)](https://github.com/clarkdo/hare) - 🐇 Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js
 
 ### Components & Libraries / UI Components
 
-*   [Vue-Semantic-Modal (⭐46)](https://github.com/David-Desmaisons/Vue-Semantic-Modal) - Vue 2 Semantic-UI modal component without jQuery dependency
+*   [Vue-Semantic-Modal (⭐45)](https://github.com/David-Desmaisons/Vue-Semantic-Modal) - Vue 2 Semantic-UI modal component without jQuery dependency
 
 ## [35. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
@@ -480,7 +485,7 @@ Webpage: <http://4sq.com/1dQaY6h>
 
 ### For Electron / Other
 
-*   [electron-store (⭐4k)](https://github.com/sindresorhus/electron-store) - Save and load data like user preferences, app state, cache, etc.
+*   [electron-store (⭐4.2k)](https://github.com/sindresorhus/electron-store) - Save and load data like user preferences, app state, cache, etc.
 *   [got (⭐13k)](https://github.com/sindresorhus/got) - Simplified HTTP requests.
 
 ## [37. Amas](/content/sindresorhus/amas/week/README.md)
@@ -507,7 +512,7 @@ Webpage: <http://4sq.com/1dQaY6h>
 
 ### Web Servers
 
-*   [Iodine (⭐833)](https://github.com/boazsegev/iodine) - An non-blocking HTTP and Websocket web server optimized for Linux/BDS/macOS and Ruby MRI.
+*   [Iodine (⭐845)](https://github.com/boazsegev/iodine) - An non-blocking HTTP and Websocket web server optimized for Linux/BDS/macOS and Ruby MRI.
 
 ## [40. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
 

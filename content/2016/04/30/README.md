@@ -10,8 +10,8 @@
 
 ### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
-*   [Español (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/es-ES)
-*   [Français (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/fr-FR)
+*   [Español (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/es-ES)
+*   [Français (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/fr-FR)
 
 ## [2. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Behaviours and Interfaces
 
-*   [stockastic (⭐17)](https://github.com/shanewilton/stockastic) - Simple Elixir wrapper for the Stockfighter API.
+*   [stockastic (⭐18)](https://github.com/shanewilton/stockastic) - Simple Elixir wrapper for the Stockfighter API.
 
 ### Examples and funny stuff
 
@@ -56,7 +56,7 @@
 
 ### Miscellaneous
 
-*   [mixgraph (⭐13)](https://github.com/sivsushruth/mixgraph) - An interactive dependency plotter for your Hex Package.
+*   [mixgraph (⭐14)](https://github.com/sivsushruth/mixgraph) - An interactive dependency plotter for your Hex Package.
 
 ### Validations
 

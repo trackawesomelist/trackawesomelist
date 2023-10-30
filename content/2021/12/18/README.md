@@ -10,13 +10,13 @@
 
 ### Plugins
 
-*   🧬 [Container Queries (⭐79)](https://github.com/dgknca/tailwindcss-container-query) - Adds CSS Container Query variants.
+*   🧬 [Container Queries (⭐85)](https://github.com/dgknca/tailwindcss-container-query) - Adds CSS Container Query variants.
 
 ## [2. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Log Management
 
-*   [Loki](https://grafana.com/oss/loki/) - Log aggregation system designed to store and query logs from all your applications and infrastructure. ([Source Code (⭐19k)](https://github.com/grafana/loki)) `AGPL-3.0` `Go`
+*   [Loki](https://grafana.com/oss/loki/) - Log aggregation system designed to store and query logs from all your applications and infrastructure. ([Source Code (⭐20k)](https://github.com/grafana/loki)) `AGPL-3.0` `Go`
 
 ## [3. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
@@ -28,31 +28,24 @@
 
 ### ARKit
 
-*   [ARHeadsetKit (⭐92)](https://github.com/philipturner/ARHeadsetKit) - High-level framework for using $5 Google Cardboard to replicate
+*   [ARHeadsetKit (⭐111)](https://github.com/philipturner/ARHeadsetKit) - High-level framework for using $5 Google Cardboard to replicate
     Microsoft Hololens.
 
 ## [5. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Libraries
 
-*   [Interaction Trees (⭐174)](https://github.com/DeepSpec/InteractionTrees) - Library for representing recursive and impure programs.
+*   [Interaction Trees (⭐180)](https://github.com/DeepSpec/InteractionTrees) - Library for representing recursive and impure programs.
 
 ### Projects / Tools
 
-*   [Sail (⭐440)](https://github.com/rems-project/sail) - Tool for specifying instruction set architecture semantics of processors and generating Coq definitions.
+*   [Sail (⭐478)](https://github.com/rems-project/sail) - Tool for specifying instruction set architecture semantics of processors and generating Coq definitions.
 
 ### Projects / Type Theory and Mathematics
 
-*   [Monae (⭐64)](https://github.com/affeldt-aist/monae) - Monadic effects and equational reasoning.
+*   [Monae (⭐66)](https://github.com/affeldt-aist/monae) - Monadic effects and equational reasoning.
 
 ## [6. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
-
-### Base / Reset / Normalize
-
-*   [**inuitcss**](https://github.com/inuitcss/inuitcss) - Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.\
-    ![](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=social\&label=Star)
-    [Repo (⭐1.8k)](https://github.com/inuitcss/inuitcss)
-    \| #SCSS
 
 ### General Purpose
 
@@ -60,32 +53,39 @@
     ![](https://img.shields.io/github/stars/picocss/pico.svg?style=social\&label=Star)
     [Demo](https://picocss.com/#examples),
     [Docs](https://picocss.com/docs/),
-    [Repo (⭐6.1k)](https://github.com/picocss/pico)
+    [Repo (⭐10k)](https://github.com/picocss/pico)
     \| #SCSS
-*   [**turretcss**](https://turretcss.com) - Responsive front-end framework for accessible and semantic websites.\
-    ![](https://img.shields.io/github/stars/turretcss/turretcss.svg?style=social\&label=Star)
-    [Demo](https://turretcss.com/demo/),
-    [Docs](https://turretcss.com/getting-started/),
-    [Repo (⭐792)](https://github.com/turretcss/turretcss)
-    \| #CSS
 *   [**Vanilla Framework**](https://vanillaframework.io/) - Simple, extensible CSS framework. Written by the Canonical Web Team.\
     ![](https://img.shields.io/github/stars/canonical-web-and-design/vanilla-framework.svg?style=social\&label=Star)
     [Demo](https://vanillaframework.io/docs/examples),
     [Docs](https://vanillaframework.io/docs/),
-    [Repo (⭐647)](https://github.com/canonical-web-and-design/vanilla-framework)
+    [Repo (⭐725)](https://github.com/canonical/vanilla-framework)
     \| #SCSS
 *   [**PatternFly**](https://www.patternfly.org/) - UI framework for enterprise web applications.\
     ![](https://img.shields.io/github/stars/patternfly/patternfly.svg?style=social\&label=Star)
     [Demo](https://www.patternfly.org/pattern-library/),
     [Docs](https://www.patternfly.org/get-started/),
-    [Repo (⭐533)](https://github.com/patternfly/patternfly)
+    [Repo (⭐637)](https://github.com/patternfly/patternfly)
     \| #SCSS #LESS
 
 ### Specialized
 
 *   [**Tufte CSS**](https://edwardtufte.github.io/tufte-css/) - Style your webpage like Edward Tufte’s handouts.\
     ![](https://img.shields.io/github/stars/edwardtufte/tufte-css.svg?style=social\&label=Star)
-    [Repo (⭐5.3k)](https://github.com/edwardtufte/tufte-css)
+    [Repo (⭐5.6k)](https://github.com/edwardtufte/tufte-css)
+    \| #CSS
+
+### Stalled Development
+
+*   [**inuitcss**](https://github.com/inuitcss/inuitcss) - Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.\
+    ![](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=social\&label=Star)
+    [Repo (⭐1.9k)](https://github.com/inuitcss/inuitcss)
+    \| #SCSS
+*   [**turretcss**](https://turretcss.com) - Responsive front-end framework for accessible and semantic websites.\
+    ![](https://img.shields.io/github/stars/turretcss/turretcss.svg?style=social\&label=Star)
+    [Demo](https://turretcss.com/demo/),
+    [Docs](https://turretcss.com/getting-started/),
+    [Repo (⭐800)](https://github.com/turretcss/turretcss)
     \| #CSS
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
@@ -106,7 +106,7 @@
 
 ### Animals
 
-- API: [MeowFacts (⭐145)](https://github.com/wh-iterabb-it/meowfacts)
+- API: [MeowFacts (⭐257)](https://github.com/wh-iterabb-it/meowfacts)
 
   Description: Get random cat facts
 

@@ -30,16 +30,16 @@
 ### Official resources
 
 *   [Website](https://prometheus.io/) - Official Prometheus project website.
-*   [GitHub repository (⭐47k)](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration.
+*   [GitHub repository (⭐48k)](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration.
 *   [Documentation](https://prometheus.io/docs/introduction/overview/) - Official Prometheus documentation.
 *   [Blog](https://prometheus.io/blog/) - Official Prometheus blog.
 
 ### Tutorials
 
-*   [How To Install Prometheus using Docker on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-install-prometheus-using-docker-on-centos-7) - Walkthough on how to install Prometheus on CentOS 7.
-*   [How to Use Prometheus to Monitor Your CentOS 7 Server](https://www.digitalocean.com/community/tutorials/how-to-use-prometheus-to-monitor-your-centos-7-server) - Walkthough on how to monitor a CentOS 7 server using Prometheus.
+*   [How To Install Prometheus using Docker on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-install-prometheus-using-docker-on-centos-7) - Walkthrough on how to install Prometheus on CentOS 7.
+*   [How to Use Prometheus to Monitor Your CentOS 7 Server](https://www.digitalocean.com/community/tutorials/how-to-use-prometheus-to-monitor-your-centos-7-server) - Walkthrough on how to monitor a CentOS 7 server using Prometheus.
 *   [How To Add a Prometheus Dashboard to Grafana](https://www.digitalocean.com/community/tutorials/how-to-add-a-prometheus-dashboard-to-grafana) - Walkthrough on how to add a Prometheus dashboard to Grafana.
-*   [Instructions and example code for a Prometheus workshop (⭐99)](https://github.com/juliusv/prometheus_workshop) - Instructions and example code for a Prometheus workshop by Julius Volz.
+*   [Instructions and example code for a Prometheus workshop (⭐100)](https://github.com/juliusv/prometheus_workshop) - Instructions and example code for a Prometheus workshop by Julius Volz.
 *   [Checking if SSH is responding with Prometheus](https://www.robustperception.io/checking-if-ssh-is-responding-with-prometheus/) - Walkthrough on how to use the Blackbox Exporter to check if SSH is responding by Brian Brazil.
 *   [Monitor your GitHub Repos with Docker and Prometheus](https://www.brianchristner.io/monitor-your-github-repos-with-docker/) - Monitor your GitHub Repos with Docker and Prometheus.
 *   [Docker daemon metrics in Prometheus](https://medium.com/lucjuggery/docker-daemon-metrics-in-prometheus-7c359c7ff550) - Docker daemon metrics in Prometheus by Luc Juggery.
@@ -143,7 +143,7 @@
 
 ### Apps / Rich text editor extensions
 
-*   [wagtail-readinglevel (⭐17)](https://github.com/vixdigital/wagtail-readinglevel) – Wagtail plugin to determine the reading level of text input into a rich text field.
+*   [wagtail-readinglevel](https://github.com/vixdigital/wagtail-readinglevel) – Wagtail plugin to determine the reading level of text input into a rich text field.
 
 ## [12. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -174,7 +174,7 @@
 
 ### Bibliography / HTML+CSS+JS
 
-*   [org-ref (⭐1.2k)](https://github.com/jkitchin/org-ref): Citations, cross-references, indexes, glossaries, and bibtex utitlies for org-mode in Emacs.
+*   [org-ref (⭐1.3k)](https://github.com/jkitchin/org-ref): Citations, cross-references, indexes, glossaries, and bibtex utitlies for org-mode in Emacs.
 
 ### Forums and Q&A's / HTML+CSS+JS
 
@@ -201,7 +201,7 @@
 
 ### ASM / Music drivers and trackers
 
-*   [hardware.inc (⭐101)](https://github.com/tobiasvl/hardware.inc) - Standard include file containing Game Boy hardware definitions for use in RGBDS projects.
+*   [hardware.inc (⭐107)](https://github.com/tobiasvl/hardware.inc) - Standard include file containing Game Boy hardware definitions for use in RGBDS projects.
 
 ## [19. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
@@ -235,7 +235,7 @@
 
 ### Visualizations
 
-*   [gtfspy-webviz (⭐39)](https://github.com/CxAalto/gtfspy-webviz) - Web application for animation and visualization of GTFS data using [gtfspy (⭐132)](https://github.com/CxAalto/gtfspy).
+*   [gtfspy-webviz (⭐44)](https://github.com/CxAalto/gtfspy-webviz) - Web application for animation and visualization of GTFS data using [gtfspy (⭐138)](https://github.com/CxAalto/gtfspy).
 
 ## [23. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -255,25 +255,25 @@
 
 ### Frameworks, Libraries and Tools / API
 
-*   [Restsharp (⭐8.7k)](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET
+*   [Restsharp (⭐9.3k)](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [Piranha CMS (⭐1.7k)](https://github.com/piranhacms/piranha.core) - A Lightweight & Unobtrusive Open Source CMS for ASP.NET Core and Entity Framework Core.
+*   [Piranha CMS (⭐1.8k)](https://github.com/piranhacms/piranha.core) - A Lightweight & Unobtrusive Open Source CMS for ASP.NET Core and Entity Framework Core.
 
 ### Frameworks, Libraries and Tools / Mail
 
-*   [SmtpServer (⭐508)](https://github.com/cosullivan/SmtpServer) - Library to create your own SMTP server.
+*   [SmtpServer (⭐598)](https://github.com/cosullivan/SmtpServer) - Library to create your own SMTP server.
 
 ### Frameworks, Libraries and Tools / Scheduler and Job
 
-*   [Coravel (⭐2.3k)](https://github.com/jamesmh/coravel) - .Net Core meets Laravel: Scheduling, Queuing, etc.
+*   [Coravel (⭐2.8k)](https://github.com/jamesmh/coravel) - .Net Core meets Laravel: Scheduling, Queuing, etc.
 
 ### Frameworks, Libraries and Tools / Serialization
 
 *   MessagePack
-    *   [msgpack-cli (⭐791)](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure / [msgpack.org](http://msgpack.org).
-    *   [MessagePack-CSharp (⭐4.2k)](https://github.com/neuecc/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin).
+    *   [msgpack-cli (⭐810)](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure / [msgpack.org](http://msgpack.org).
+    *   [MessagePack-CSharp (⭐4.9k)](https://github.com/neuecc/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin).
 
 ### Videos / Workflow
 
@@ -283,23 +283,15 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Movim](https://movim.eu/) - Modern, federated social network based on XMPP, with a fully featured group-chat, subscriptions and microblogging. ([Source Code (⭐1.6k)](https://github.com/movim/movim)) `AGPL-3.0` `PHP`
+*   [Movim](https://movim.eu/) - Modern, federated social network based on XMPP, with a fully featured group-chat, subscriptions and microblogging. ([Source Code (⭐1.7k)](https://github.com/movim/movim)) `AGPL-3.0` `PHP/Docker`
 
 ### Software / File Transfer & Synchronization
 
-*   [ownCloud](https://owncloud.org/) - All-in-one solution for saving, synchronizing, viewing, editing and sharing files, calendars, address books and more. ([Source Code (⭐8k)](https://github.com/owncloud/core), [Clients (⭐8k)](https://github.com/owncloud/core/wiki/Apps)) `AGPL-3.0` `PHP`
+*   [ownCloud](https://owncloud.org/) - All-in-one solution for saving, synchronizing, viewing, editing and sharing files, calendars, address books and more. ([Source Code (⭐8.1k)](https://github.com/owncloud/core), [Clients (⭐8.1k)](https://github.com/owncloud/core/wiki/Apps)) `AGPL-3.0` `PHP/Docker/deb`
 
 ### Software / Office Suites
 
-*   [ONLYOFFICE](https://helpcenter.onlyoffice.com/faq/server-opensource.aspx) - Office suite that enables you to manage documents, projects, team and customer relations in one place. ([Source Code (⭐3.3k)](https://github.com/ONLYOFFICE/DocumentServer)) `AGPL-3.0` `Nodejs`
-
-### Software / Ticketing
-
-*   [OpenSupports](https://www.opensupports.com/) - Multi language ticket system with FAQ, role management, metrics and canned response features. ([Demo](https://www.opensupports.com/demo/), [Source Code (⭐789)](https://github.com/opensupports/opensupports)) `GPL-3.0` `PHP`
-
-### External Links / Wikis
-
-*   [Awesome Public Datasets (⭐54k)](https://github.com/awesomedata/awesome-public-datasets) - List of high quality, topic-centric public data sources.
+*   [ONLYOFFICE](https://helpcenter.onlyoffice.com/faq/server-opensource.aspx) - Office suite that enables you to manage documents, projects, team and customer relations in one place. ([Source Code (⭐3.9k)](https://github.com/ONLYOFFICE/DocumentServer)) `AGPL-3.0` `Nodejs/Docker`
 
 ## [27. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -365,11 +357,11 @@
 
 ### Packages / Command-line utilities
 
-*   [cli-table3 (⭐439)](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
+*   [cli-table3 (⭐469)](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
 
 ### Packages / Content management systems
 
-*   [KeystoneJS (⭐8k)](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
+*   [KeystoneJS (⭐8.4k)](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
 
 ## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -379,11 +371,11 @@
 
 ### Cards / Barcode
 
-*   [VerticalCardSwiper (⭐1.2k)](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with UICollectionView.
+*   [VerticalCardSwiper (⭐1.3k)](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with UICollectionView.
 
 ### Utility / Barcode
 
-*   [swift-protobuf (⭐4.2k)](https://github.com/apple/swift-protobuf) :penguin: - A plugin and runtime library for using Google's Protocol Buffer.
+*   [swift-protobuf (⭐4.3k)](https://github.com/apple/swift-protobuf) :penguin: - A plugin and runtime library for using Google's Protocol Buffer.
 
 ## [33. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
@@ -395,7 +387,7 @@
 
 ### Admin Interface
 
-*   [Trestle (⭐1.8k)](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Rails. Build a back-end in minutes that will grow with the needs of your application.
+*   [Trestle (⭐1.9k)](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Rails. Build a back-end in minutes that will grow with the needs of your application.
 
 ## [35. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
 
@@ -462,17 +454,17 @@ Webpage: <http://ogniwo.org/>
 
 ### Books and Resources
 
-*   [Pure Bash Bible (⭐33k)](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
+*   [Pure Bash Bible (⭐35k)](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
 
 ## [42. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Caching
 
-*   [nebulex (⭐1k)](https://github.com/cabol/nebulex) - A fast, flexible and extensible distributed and local caching library for Elixir.
+*   [nebulex (⭐1.1k)](https://github.com/cabol/nebulex) - A fast, flexible and extensible distributed and local caching library for Elixir.
 
 ### Third Party APIs
 
-*   [bitmex (⭐8)](https://github.com/nobrick/bitmex) - BitMEX client library for Elixir.
+*   [bitmex (⭐9)](https://github.com/nobrick/bitmex) - BitMEX client library for Elixir.
 
 ## [43. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -527,11 +519,11 @@ Webpage: <http://ogniwo.org/>
 
 ### Converters
 
-*   [money (⭐27)](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney (⭐2.6k)](https://github.com/RubyMoney/money))
+*   [money (⭐30)](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney (⭐2.6k)](https://github.com/RubyMoney/money))
 
 ### Framework Components
 
-*   [device\_detector (⭐22)](https://github.com/creadone/device_detector) - Shard for detect device by user agent string
+*   [device\_detector (⭐21)](https://github.com/creadone/device_detector) - Shard for detect device by user agent string
 
 ### Unofficial
 
@@ -550,8 +542,8 @@ Webpage: <http://ogniwo.org/>
 
 ### GUI
 
-*   [Robo 3T (⭐9.1k)](https://github.com/Studio3T/robomongo) - Robo 3T (formerly Robomongo) is a shell-centric cross-platform MongoDB management tool.
-*   [Tabix (⭐1.8k)](https://github.com/tabixio/tabix) - SQL Editor & Open source simple business intelligence for Clickhouse.
+*   [Robo 3T (⭐9.2k)](https://github.com/Studio3T/robomongo) - Robo 3T (formerly Robomongo) is a shell-centric cross-platform MongoDB management tool.
+*   [Tabix (⭐2k)](https://github.com/tabixio/tabix) - SQL Editor & Open source simple business intelligence for Clickhouse.
 
 ### CLI
 
@@ -559,17 +551,17 @@ Webpage: <http://ogniwo.org/>
 
 ### Schema / Changes
 
-*   [node-pg-migrate (⭐1.1k)](https://github.com/salsita/node-pg-migrate) - Node.js database migration management built exclusively for postgres. (But can also be used for other DBs conforming to SQL standard - e.g. CockroachDB.)
+*   [node-pg-migrate (⭐1.2k)](https://github.com/salsita/node-pg-migrate) - Node.js database migration management built exclusively for postgres. (But can also be used for other DBs conforming to SQL standard - e.g. CockroachDB.)
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [pganalyze collector (⭐256)](https://github.com/pganalyze/collector) - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
-*   [PgHero (⭐6.9k)](https://github.com/ankane/pghero) - A performance dashboard for Postgres - health checks, suggested indexes, and more.
-*   [pgstats (⭐106)](https://github.com/gleu/pgstats) - Collects PostgreSQL statistics, and either saves them in CSV files or print them on the stdout.
+*   [pganalyze collector (⭐292)](https://github.com/pganalyze/collector) - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
+*   [PgHero (⭐7.2k)](https://github.com/ankane/pghero) - A performance dashboard for Postgres - health checks, suggested indexes, and more.
+*   [pgstats (⭐111)](https://github.com/gleu/pgstats) - Collects PostgreSQL statistics, and either saves them in CSV files or print them on the stdout.
 
 ### Testing / Zabbix
 
-*   [DbFit (⭐218)](https://github.com/dbfit/dbfit) - A database testing framework that supports easy test-driven development of your database code.
+*   [DbFit (⭐225)](https://github.com/dbfit/dbfit) - A database testing framework that supports easy test-driven development of your database code.
 
 ### DevOps / Zabbix
 
@@ -589,12 +581,12 @@ Webpage: <http://ogniwo.org/>
 
 ### UI
 
-*   [Flip Panel (⭐551)](https://github.com/hnvn/flutter_flip_panel) <!--stargazers:hnvn/flutter_flip_panel--> - Flip panel with built-in animation by [HungHD](https://github.com/hnvn)
-*   [Facebook Reactions (⭐313)](https://github.com/duytq94/facebook-reaction-animation) <!--stargazers:duytq94/facebook-reaction-animation--> - Facebook reactions widget by [Duy Tran](https://github.com/duytq94)
+*   [Flip Panel (⭐582)](https://github.com/hnvn/flutter_flip_panel) <!--stargazers:hnvn/flutter_flip_panel--> - Flip panel with built-in animation by [HungHD](https://github.com/hnvn)
+*   [Facebook Reactions (⭐356)](https://github.com/duytq94/facebook-reaction-animation) <!--stargazers:duytq94/facebook-reaction-animation--> - Facebook reactions widget by [Duy Tran](https://github.com/duytq94)
 
 ### Text & Rich Content / Image Picker
 
-*   [Masked Text (⭐264)](https://github.com/benhurott/flutter-masked-text) <!--stargazers:benhurott/flutter-masked-text--> - Masked text with custom and monetary formatting by [Ben-hur Santos Ott](https://github.com/benhurott)
+*   [Masked Text (⭐270)](https://github.com/benhurott/flutter-masked-text) <!--stargazers:benhurott/flutter-masked-text--> - Masked text with custom and monetary formatting by [Ben-hur Santos Ott](https://github.com/benhurott)
 
 ## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -612,20 +604,20 @@ Webpage: <http://ogniwo.org/>
 
 ### Projects Using Vue.js / Open Source
 
-*   [Ride Receipts (⭐140)](https://github.com/ridereceipts/ridereceipts) - Simple automation desktop app to download and organize your tax invoices from Uber and Lyft.
-*   [Laqu-l (⭐131)](https://github.com/laqul/laqul) - A complete App starter kit with Quasar Framework, GraphQL API backend with OAUTH 2.0 authentication, Firebase ready, multilanguage capability and more.
-*   [Minimal Notes (⭐125)](https://github.com/vladocar/Minimal-Notes) - Web app build with Vue.js
+*   [Ride Receipts (⭐139)](https://github.com/ridereceipts/ridereceipts) - Simple automation desktop app to download and organize your tax invoices from Uber and Lyft.
+*   [Laqu-l (⭐132)](https://github.com/laqul/laqul) - A complete App starter kit with Quasar Framework, GraphQL API backend with OAUTH 2.0 authentication, Firebase ready, multilanguage capability and more.
+*   [Minimal Notes (⭐129)](https://github.com/vladocar/Minimal-Notes) - Web app build with Vue.js
 
 ### Components & Libraries / UI Utilities
 
 *   [vue-page-visibility-awesome (⭐11)](https://github.com/stefanodotit/vue-page-visibility-awesome) - A Vue 2.x component of easy-to-config page visibility api.
-*   [vue-authplugin (⭐7)](https://github.com/vv13/vue-authplugin) - an elegant view auth control plugin, support directive and prototype methods.
+*   [vue-authplugin (⭐6)](https://github.com/vv13/vue-authplugin) - an elegant view auth control plugin, support directive and prototype methods.
 
 ## [49. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Security / Other
 
-*   [Jwks RSA (⭐160)](https://github.com/auth0/jwks-rsa-java) - JSON Web Key Set parser.
+*   [Jwks RSA (⭐181)](https://github.com/auth0/jwks-rsa-java) - JSON Web Key Set parser.
 
 ---
 

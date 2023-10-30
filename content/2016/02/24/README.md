@@ -10,7 +10,7 @@
 
 ### Customization / Directory Navigation
 
-*   [bash-full-of-colors (⭐156)](https://github.com/slomkowski/bash-full-of-colors) - Powerful prompt with screen, tmux, git support and many more
+*   [bash-full-of-colors (⭐170)](https://github.com/slomkowski/bash-full-of-colors) - Powerful prompt with screen, tmux, git support and many more
 
 ## [2. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/README.md)
 
@@ -36,9 +36,9 @@
 
 ### Modules / File System
 
-*   [du (⭐30)](https://github.com/rvagg/node-du) - A simple JavaScript implementation of du -sb.
-*   [file-size (⭐233)](https://github.com/Nijikokun/file-size) - Lightweight filesize to human-readable / proportions w/o dependencies.
-*   [tmp (⭐688)](https://github.com/raszi/node-tmp) - Temporary file and directory creator for node.js.
+*   [du (⭐29)](https://github.com/rvagg/node-du) - A simple JavaScript implementation of du -sb.
+*   [file-size (⭐231)](https://github.com/Nijikokun/file-size) - Lightweight filesize to human-readable / proportions w/o dependencies.
+*   [tmp (⭐723)](https://github.com/raszi/node-tmp) - Temporary file and directory creator for node.js.
 *   [fs-promise (⭐171)](https://github.com/kevinbeaty/fs-promise) - Node fs methods as Promise/A+ (optional fs-extra, graceful-fs).
 
 ## [6. Nginx Resources](/content/fcambus/nginx-resources/README.md)
@@ -49,13 +49,13 @@
 
 ### OpenResty
 
-*   [VeryNginx - Nginx distribution which provides WAF, Control Panel, and Dashboards (⭐5.8k)](https://github.com/alexazhou/VeryNginx)
+*   [VeryNginx - Nginx distribution which provides WAF, Control Panel, and Dashboards (⭐5.9k)](https://github.com/alexazhou/VeryNginx)
 
 ## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Applications
 
-*   [Phoenix Toggl (⭐172)](https://github.com/bigardone/phoenix-toggl) - Toggl tribute done in Elixir, Phoenix Framework, React and Redux.
+*   [Phoenix Toggl (⭐173)](https://github.com/bigardone/phoenix-toggl) - Toggl tribute done in Elixir, Phoenix Framework, React and Redux.
 
 ### ORM and Datamapping
 

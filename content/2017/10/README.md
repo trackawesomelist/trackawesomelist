@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 06 - Mar 12, 2017
 
-56 awesome lists updated this week.
+55 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -28,7 +28,7 @@
 
 *   Atom: [language-pico8](https://atom.io/packages/language-pico8)
 *   Sublime: [Sublime PICO-8](https://packagecontrol.io/packages/PICO-8) - PICO-8 plugin for the Sublime Text editor (color scheme, font, build system, code completion, snippets...).
-*   Vim: [vim-pico8-syntax (⭐57)](https://github.com/justinj/vim-pico8-syntax)
+*   Vim: [vim-pico8-syntax (⭐60)](https://github.com/justinj/vim-pico8-syntax)
 
 ## [4. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
@@ -221,22 +221,22 @@
 
 ### Apps / Blogging/news
 
-*   [Django Wagtail Feeds (⭐53)](https://github.com/chrisdev/django-wagtail-feeds) - Add support for RSS Feeds, Facebook Instant Articles and Apple News Publisher to your Wagtail CMS Projects.
+*   [Django Wagtail Feeds (⭐56)](https://github.com/chrisdev/django-wagtail-feeds) - Add support for RSS Feeds, Facebook Instant Articles and Apple News Publisher to your Wagtail CMS Projects.
 
 ### Apps / Widgets
 
-*   [wagtailgmaps (⭐77)](https://github.com/springload/wagtailgmaps) - Simple Google Maps address formatter for Wagtail fields.
-*   [wagtail-markdown (⭐154)](https://github.com/torchbox/wagtail-markdown) - Markdown fields and blocks for Wagtail.
+*   [wagtailgmaps (⭐81)](https://github.com/springload/wagtailgmaps) - Simple Google Maps address formatter for Wagtail fields.
+*   [wagtail-markdown (⭐166)](https://github.com/torchbox/wagtail-markdown) - Markdown fields and blocks for Wagtail.
 
 ### Apps / SEO and SMO
 
-*   [wagtail-metadata (⭐101)](https://github.com/takeflight/wagtail-metadata) - A tool to assist with metadata for social media and search engines.
-*   [wagtail-metadata-mixin (⭐45)](https://github.com/bashu/wagtail-metadata-mixin) - OpenGraph, Twitter Card and Google+ snippet tags for Wagtail CMS pages.
-*   [wagtail-schema.org (⭐60)](https://github.com/takeflight/wagtail-schema.org) - Schema.org JSON-LD tags for Wagtail sites.
+*   [wagtail-metadata (⭐105)](https://github.com/takeflight/wagtail-metadata) - A tool to assist with metadata for social media and search engines.
+*   [wagtail-metadata-mixin (⭐46)](https://github.com/bashu/wagtail-metadata-mixin) - OpenGraph, Twitter Card and Google+ snippet tags for Wagtail CMS pages.
+*   [wagtail-schema.org (⭐63)](https://github.com/takeflight/wagtail-schema.org) - Schema.org JSON-LD tags for Wagtail sites.
 
 ### Apps / Analytics
 
-*   [Wagtail Analytics (⭐207)](https://github.com/tomdyson/wagalytics) - A Google Analytics dashboard in your Wagtail admin.
+*   [Wagtail Analytics (⭐211)](https://github.com/tomdyson/wagalytics) - A Google Analytics dashboard in your Wagtail admin.
 
 ### Apps / Customer experience
 
@@ -244,8 +244,8 @@
 
 ### Apps / Testing
 
-*   [Wagtail Accessibility (⭐30)](https://github.com/takeflight/wagtail-accessibility) – A plugin to assist with accessibility when developing in Wagtail.
-*   [Wagtail Factories (⭐88)](https://github.com/mvantellingen/wagtail-factories) - Factory boy classes for Wagtail.
+*   [Wagtail Accessibility (⭐28)](https://github.com/takeflight/wagtail-accessibility) – A plugin to assist with accessibility when developing in Wagtail.
+*   [Wagtail Factories (⭐95)](https://github.com/mvantellingen/wagtail-factories) - Factory boy classes for Wagtail.
 
 ## [20. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
@@ -257,12 +257,12 @@
 
 ### Authentication
 
-*   [ueberauth\_microsoft (⭐29)](https://github.com/swelham/ueberauth_microsoft) - A Microsoft strategy for Überauth.
+*   [ueberauth\_microsoft (⭐33)](https://github.com/swelham/ueberauth_microsoft) - A Microsoft strategy for Überauth.
 
 ### Cloud Infrastructure and Management
 
 *   [Gandi (⭐0)](https://github.com/Ahamtech/elixir-Gandi) - Gandi Wrapper for Leaseweb infrastructure.
-*   [Leaseweb (⭐1)](https://github.com/Ahamtech/elixir-leaseweb) - Elixir Wrapper for Leaseweb infrastructure.
+*   [Leaseweb (⭐2)](https://github.com/Ahamtech/elixir-leaseweb) - Elixir Wrapper for Leaseweb infrastructure.
 
 ### Documentation
 
@@ -270,8 +270,8 @@
 
 ### Framework Components
 
-*   [plug\_and\_play (⭐14)](https://github.com/henrik/plug_and_play) - Set up a Plug application with less boilerplate.
-*   [rummage\_phoenix (⭐149)](https://github.com/Excipients/rummage_phoenix) - A support framework for searching, sorting and paginating models in Phoenix, with HTML support.
+*   [plug\_and\_play (⭐15)](https://github.com/henrik/plug_and_play) - Set up a Plug application with less boilerplate.
+*   [rummage\_phoenix (⭐150)](https://github.com/Excipients/rummage_phoenix) - A support framework for searching, sorting and paginating models in Phoenix, with HTML support.
 
 ### HTTP
 
@@ -320,13 +320,13 @@
 
 ### Node.js / Authentication
 
-*   [steam-login (⭐53)](https://github.com/cpancake/steam-login) - Simple Connect / Express Steam authentication library.
+*   [steam-login (⭐57)](https://github.com/cpancake/steam-login) - Simple Connect / Express Steam authentication library.
 
 ## [26. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/week/README.md)
 
 ### Data sets
 
-*   [EuroRomCom Data (⭐17)](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists.
+*   [EuroRomCom Data (⭐18)](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists.
 
 ### On Youtube
 
@@ -348,7 +348,7 @@
 ### serialization
 
 *   [geojson-jackson (⭐251)](https://github.com/opendatalab-de/geojson-jackson): serialize GeoJSON to and from Java datatypes (based on [Jackson](http://wiki.fasterxml.com/JacksonHome))
-*   [mapbox-java (⭐393)](https://github.com/mapbox/mapbox-java): serialize GeoJSON to and from Java datatypes (based on [Gson (⭐22k)](https://github.com/google/gson))
+*   [mapbox-java (⭐399)](https://github.com/mapbox/mapbox-java): serialize GeoJSON to and from Java datatypes (based on [Gson (⭐22k)](https://github.com/google/gson))
 
 ### resources
 
@@ -379,7 +379,7 @@
 
 ### CMS
 
-*   [N2CMS (⭐361)](https://github.com/n2cms/n2cms) - Open source, lightweight, code-first CMS able to seamlessly integrate into any MVC project.
+*   [N2CMS (⭐363)](https://github.com/n2cms/n2cms) - Open source, lightweight, code-first CMS able to seamlessly integrate into any MVC project.
 
 ### ORM
 
@@ -389,7 +389,7 @@
 
 ### Entertainment
 
-*   [pockyt (⭐483)](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
+*   [pockyt (⭐487)](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
 
 ## [33. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -415,13 +415,13 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [LibSass Host (⭐79)](https://github.com/Taritsyn/LibSassHost) - .NET wrapper around the [libSass](http://sass-lang.com/libsass) library with the ability to support a virtual file system.
+*   [LibSass Host (⭐81)](https://github.com/Taritsyn/LibSassHost) - .NET wrapper around the [libSass](http://sass-lang.com/libsass) library with the ability to support a virtual file system.
 
 ## [37. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Libraries and Frameworks / Elixir
 
-*   [Commanded (⭐1.6k)](https://github.com/slashdotdash/commanded) - Command handling middleware for CQRS/ES applications, Pure Functional Data Structures for Aggregates and Process Managers, Point-to-Point message routing, and much more in Elixir (Erlang VM) - All in Actor concurrency model.
+*   [Commanded (⭐1.7k)](https://github.com/slashdotdash/commanded) - Command handling middleware for CQRS/ES applications, Pure Functional Data Structures for Aggregates and Process Managers, Point-to-Point message routing, and much more in Elixir (Erlang VM) - All in Actor concurrency model.
 
 ## [38. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
@@ -431,7 +431,7 @@
 
 ## [39. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
-### DBaaS
+### Managed Data Services
 
 *   [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) — free tier gives 512 MB
 
@@ -485,9 +485,9 @@
 
 ### ORMs
 
-*   [crane (⭐188)](https://github.com/eudoxia0/crane) - Another ORM. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   [datafly (⭐92)](https://github.com/fukamachi/datafly) - A lightweight database library. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   [sxql (⭐312)](https://github.com/fukamachi/sxql) - A DSL for generating SQL. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [crane (⭐195)](https://github.com/eudoxia0/crane) - Another ORM. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [datafly (⭐94)](https://github.com/fukamachi/datafly) - A lightweight database library. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [sxql (⭐330)](https://github.com/fukamachi/sxql) - A DSL for generating SQL. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### Java
 
@@ -495,21 +495,21 @@
 
 ### Miscellaneous
 
-*   [cl-cairo2 (⭐59)](https://github.com/rpav/cl-cairo2) - Cairo bindings. [Boost 1.0](https://directory.fsf.org/wiki/License:Boost1.0)
-*   [cl-gd](http://weitz.de/cl-gd/) - A library providing an interface to the GD graphics library. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
-*   [cl-horde3d (⭐15)](https://github.com/anwyn/cl-horde3d/) - FFI bindings to the Horde3D graphics library. Not available on Quicklisp. [EPL 1.0](https://directory.fsf.org/wiki/License:EPLv1.0)
-*   [cl-opengl (⭐262)](https://github.com/3b/cl-opengl) - CFFI bindings to OpenGL, GLU and GLUT APIs. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   [cl-sdl2 (⭐261)](https://github.com/lispgames/cl-sdl2) - Bindings for SDL2 using C2FFI. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   [CLinch (⭐267)](https://github.com/BradWBeer/CLinch) - Common Lisp 2D/3D graphics engine for OpenGL. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
-*   [donuts (⭐22)](https://github.com/tkych/donuts) - Graphviz interface for Common Lisp. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   [lispbuilder-sdl (⭐182)](https://github.com/lispbuilder/lispbuilder) - A set of bindings for SDL. [Expat](https://directory.fsf.org/wiki/License:Expat).
 *   [Vecto](http://www.xach.com/lisp/vecto/) - Simple vector drawing library. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 *   [zpng](http://www.xach.com/lisp/zpng/) - A library for creating PNG files. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+*   [cl-cairo2 (⭐58)](https://github.com/rpav/cl-cairo2) - Cairo bindings. [Boost 1.0](https://directory.fsf.org/wiki/License:Boost1.0)
+*   [cl-gd](http://weitz.de/cl-gd/) - A library providing an interface to the GD graphics library. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+*   [cl-horde3d (⭐15)](https://github.com/anwyn/cl-horde3d/) - FFI bindings to the Horde3D graphics library. Not available on Quicklisp. [EPL 1.0](https://directory.fsf.org/wiki/License:EPLv1.0)
+*   [cl-opengl (⭐265)](https://github.com/3b/cl-opengl) - CFFI bindings to OpenGL, GLU and GLUT APIs. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [cl-sdl2 (⭐276)](https://github.com/lispgames/cl-sdl2) - Bindings for SDL2 using C2FFI. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [CLinch (⭐265)](https://github.com/BradWBeer/CLinch) - Common Lisp 2D/3D graphics engine for OpenGL. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+*   [donuts (⭐23)](https://github.com/tkych/donuts) - Graphviz interface for Common Lisp. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [lispbuilder-sdl (⭐183)](https://github.com/lispbuilder/lispbuilder) - A set of bindings for SDL. [Expat](https://directory.fsf.org/wiki/License:Expat).
 *   [cl-gtk2 (⭐36)](https://github.com/dmitryvk/cl-gtk2) - A binding for GTK+2. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### Mobile
 
-*   [jsown (⭐104)](https://github.com/madnificent/jsown) - A reader and writer for the JSON format. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [jsown (⭐105)](https://github.com/madnificent/jsown) - A reader and writer for the JSON format. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
 ### Beginner
 
@@ -517,7 +517,7 @@
 
 ### Community / Interfaces to other package managers
 
-*   [cl-nlp (⭐207)](https://github.com/vseloved/cl-nlp) - Natural language processing toolset. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
+*   [cl-nlp (⭐208)](https://github.com/vseloved/cl-nlp) - Natural language processing toolset. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ### HTTP Servers / Interfaces to other package managers
 
@@ -525,7 +525,7 @@
 
 ### HTML generators and templates / Isomorphic web frameworks
 
-*   [eco (⭐39)](https://github.com/eudoxia0/eco) - Fast, flexible, designer-friendly template engine. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [eco (⭐38)](https://github.com/eudoxia0/eco) - Fast, flexible, designer-friendly template engine. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
 ### Javascript / Isomorphic web frameworks
 
@@ -534,12 +534,12 @@
 
 ### Websockets / Isomorphic web frameworks
 
-*   [iolib (⭐139)](https://github.com/sionescu/iolib) - I/O library. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [iolib (⭐138)](https://github.com/sionescu/iolib) - I/O library. [Expat](https://directory.fsf.org/wiki/License:Expat).
     *   "IOlib is to be a better and more modern I/O library than the standard Common Lisp library. It contains: a socket library, a DNS resolver, an I/O multiplexer, a pathname library and file-system utilities."
 
 ### Others / Web project skeletons and generators
 
-*   [css-lite (⭐73)](https://github.com/paddymul/css-lite) - A CSS grammar. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [css-lite (⭐74)](https://github.com/paddymul/css-lite) - A CSS grammar. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
 ### Others / Third-party APIs
 
@@ -547,24 +547,24 @@
 
 ### Utils / Third-party APIs
 
-*   [chanl (⭐161)](https://github.com/zkat/chanl) - Portable, channel-based concurrency. [Expat](https://directory.fsf.org/wiki/License:Expat), with parts under [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   [cl-async (⭐249)](https://github.com/orthecreedence/cl-async) - A library for general-purpose, non-blocking programming. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [chanl (⭐163)](https://github.com/zkat/chanl) - Portable, channel-based concurrency. [Expat](https://directory.fsf.org/wiki/License:Expat), with parts under [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [cl-async (⭐258)](https://github.com/orthecreedence/cl-async) - A library for general-purpose, non-blocking programming. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
 ### Vim & Neovim / Third-party APIs
 
-*   [SLIMV (⭐437)](https://github.com/kovisoft/slimv) - Superior Lisp Interaction Mode for Vim; a full-blown environment for Common Lisp inside of Vim. No license specified.
+*   [SLIMV (⭐445)](https://github.com/kovisoft/slimv) - Superior Lisp Interaction Mode for Vim; a full-blown environment for Common Lisp inside of Vim. No license specified.
 
 ### Apps / Third-party APIs
 
-*   [quicksearch (⭐46)](https://github.com/tkych/quicksearch) - Look up online libraries from the REPL. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [quicksearch (⭐48)](https://github.com/tkych/quicksearch) - Look up online libraries from the REPL. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
 ### Other / Third-party APIs
 
-*   [babel (⭐79)](https://github.com/cl-babel/babel) - A charset encoding/decoding library. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   [fast-io (⭐136)](https://github.com/rpav/fast-io) - Fast octet-vector/stream I/O. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   [named-readtables (⭐54)](https://github.com/melisgl/named-readtables) - Provides a readtable namespace, akin to package namespaces. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [babel (⭐80)](https://github.com/cl-babel/babel) - A charset encoding/decoding library. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [fast-io (⭐138)](https://github.com/rpav/fast-io) - Fast octet-vector/stream I/O. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [named-readtables (⭐59)](https://github.com/melisgl/named-readtables) - Provides a readtable namespace, akin to package namespaces. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 *   [simple-currency (⭐7)](https://github.com/a0-prw/simple-currency) - A currency conversion library using daily information published by the ECB. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
-*   [trivial-garbage (⭐37)](https://github.com/trivial-garbage/trivial-garbage) - A portable finalizer, weak hash-table and weak pointer API. Public domain.
+*   [trivial-garbage (⭐39)](https://github.com/trivial-garbage/trivial-garbage) - A portable finalizer, weak hash-table and weak pointer API. Public domain.
 
 ## [46. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
 
@@ -713,8 +713,8 @@
 ### Packages / Hardware
 
 *   [onoff (⭐1.2k)](https://github.com/fivdi/onoff) - GPIO access and interrupt detection.
-*   [spi-device (⭐113)](https://github.com/fivdi/spi-device) - SPI serial bus access.
-*   [pigpio (⭐911)](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi.
+*   [spi-device (⭐115)](https://github.com/fivdi/spi-device) - SPI serial bus access.
+*   [pigpio (⭐926)](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi.
 
 ### Resources / Community
 
@@ -726,13 +726,7 @@
 
 *   [Making Games with Python & Pygame](http://inventwithpython.com/pygame/)
 
-## [54. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
-
-### Exploits/Vulnerabilities/Bugs / Malware
-
-*   [androguard - Database Android Malwares wiki](https://code.google.com/p/androguard/wiki/DatabaseAndroidMalwares)
-
-## [55. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
+## [54. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
 
 ### Map/Reduce
 
@@ -777,7 +771,7 @@
 *   [Official CouchDB Wiki (old)](https://wiki.apache.org/couchdb/) - Some things aren't on new wiki yet.
 *   [Cloudant Official Guides](https://docs.cloudant.com/guides.html) - Applicable to CouchDB.
 
-## [56. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [55. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries / Data Structures
 

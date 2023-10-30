@@ -28,7 +28,7 @@
 
 *   Atom: [language-pico8](https://atom.io/packages/language-pico8)
 *   Sublime: [Sublime PICO-8](https://packagecontrol.io/packages/PICO-8) - PICO-8 plugin for the Sublime Text editor (color scheme, font, build system, code completion, snippets...).
-*   Vim: [vim-pico8-syntax (⭐57)](https://github.com/justinj/vim-pico8-syntax)
+*   Vim: [vim-pico8-syntax (⭐60)](https://github.com/justinj/vim-pico8-syntax)
 
 ## [4. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

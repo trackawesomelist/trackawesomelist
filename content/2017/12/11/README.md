@@ -16,7 +16,7 @@
 
 ### Tools and frameworks
 
-*   [reg-suit (⭐945)](https://github.com/reg-viz/reg-suit) - Visual regression testing suite which compares images, stores snapshots, and notifies the difference to your GitHub repo.
+*   [reg-suit (⭐1k)](https://github.com/reg-viz/reg-suit) - Visual regression testing suite which compares images, stores snapshots, and notifies the difference to your GitHub repo.
 
 ## [3. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-modal-dialogs (⭐296)](https://github.com/hjkcai/vue-modal-dialogs) - ✨ Promisify your own dialogs!
+*   [vue-modal-dialogs (⭐294)](https://github.com/hjkcai/vue-modal-dialogs) - ✨ Promisify your own dialogs!
 
 ## [6. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
 

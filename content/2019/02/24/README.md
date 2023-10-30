@@ -8,16 +8,16 @@
 
 ## [1. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Algorithms, Containers and Protocols / MIT
+### Algorithms, Containers and Protocols / Apache License
 
 *   [simple-blockchain (⭐21)](https://github.com/tomekw/simple_blockchain) - Simple blockchain in Ada.
 
-### Shells, Interpreters and Emulators / MIT
+### Shells, Interpreters and Emulators / Apache License
 
-*   [gsh (⭐91)](https://github.com/AdaCore/gsh) - GSH is non interactive POSIX shell for Windows, aimed at GNU software builds. 2-3 times faster than Cygwin.
-*   [gnatcoll-scripts-shell (⭐43)](https://github.com/AdaCore/gnatcoll-core/blob/master/src/gnatcoll-scripts-shell.ads) - GNATCOLL.Scripts.Shell is a simple embeddable scripting language, part of GNATCOLL Core.
+*   [gsh (⭐93)](https://github.com/AdaCore/gsh) - GSH is non interactive POSIX shell for Windows, aimed at GNU software builds. 2-3 times faster than Cygwin.
+*   [gnatcoll-scripts-shell (⭐42)](https://github.com/AdaCore/gnatcoll-core/blob/master/src/gnatcoll-scripts-shell.ads) - GNATCOLL.Scripts.Shell is a simple embeddable scripting language, part of GNATCOLL Core.
 
-### Programming Languages / MIT
+### Programming Languages / Apache License
 
 *   [para-sail](http://parasail-lang.org/) - ParaSail is a highly parallel experimental language, similar to Go and Erlang. Originaly owned by SofCheck (now AdaCore), it is a test project to try new ideas. Expandable pointers is a sample feature that is about to be introduced to SPARK and Ada. There are in fact 4 experimental languages: ParaSail, Sparkel, Javallel, Parython, all sharing bytecode interpreter and LLVM engine.
 
@@ -52,14 +52,14 @@
 
 ### Regular Expression
 
-*   [Oniguruma (⭐2k)](https://github.com/kkos/oniguruma) - A modern and flexible regular expressions library that supports a variety of character encodings. \[BSD]
+*   [Oniguruma (⭐2.1k)](https://github.com/kkos/oniguruma) - A modern and flexible regular expressions library that supports a variety of character encodings. \[BSD]
 
 ## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Office
 
-*   [npoi (⭐4.7k)](https://github.com/tonyqus/npoi) - .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
-*   [Open-XML-SDK (⭐3.3k)](https://github.com/OfficeDev/Open-XML-SDK) - The Open XML SDK provides tools for working with Office Word, Excel, and PowerPoint documents.
+*   [npoi (⭐7)](https://github.com/tonyqus/npoi) - .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
+*   [Open-XML-SDK (⭐3.7k)](https://github.com/OfficeDev/Open-XML-SDK) - The Open XML SDK provides tools for working with Office Word, Excel, and PowerPoint documents.
 
 ---
 

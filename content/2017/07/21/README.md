@@ -47,8 +47,8 @@
 
 ### Containers / Docker
 
-*   [Ggr (⭐287)](https://github.com/aerokube/ggr) - A lightweight load balancer used to create big Selenium clusters.
-*   [Selenoid (⭐2.2k)](https://github.com/aerokube/selenoid) - A lightweight Selenium hub implementation launching browsers in Docker containers.
+*   [Ggr (⭐302)](https://github.com/aerokube/ggr) - A lightweight load balancer used to create big Selenium clusters.
+*   [Selenoid (⭐2.4k)](https://github.com/aerokube/selenoid) - A lightweight Selenium hub implementation launching browsers in Docker containers.
 
 ## [4. BEM Resources](/content/sturobson/BEM-resources/README.md)
 
@@ -66,11 +66,11 @@
 
 ### Fonts
 
-*   [Inkwell (⭐151)](https://github.com/ninjaprox/Inkwell) - An inkwell to use custom fonts on the fly.
+*   [Inkwell (⭐152)](https://github.com/ninjaprox/Inkwell) - An inkwell to use custom fonts on the fly.
 
 ### UI / Barcode
 
-*   [InstantSearch iOS (⭐571)](https://github.com/algolia/instantsearch-ios) - A library of widgets and helpers to build instant-search features on iOS.
+*   [InstantSearch iOS (⭐587)](https://github.com/algolia/instantsearch-ios) - A library of widgets and helpers to build instant-search features on iOS.
 
 ## [7. Magictools](/content/ellisonleao/magictools/README.md)
 

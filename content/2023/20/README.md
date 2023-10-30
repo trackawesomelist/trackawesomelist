@@ -6,13 +6,19 @@
 
 
 
-## [1. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [1. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+
+### Tools / Community providers
+
+*   [fuzzy-terraform-rm (⭐31)](https://github.com/paololazzari/fuzzy-terraform-rm) - A fuzzy-finder command-line tool for removing resources from terraform state.
+
+## [2. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Utilities / Markdown
 
-*   [gtree (⭐97)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
+*   [gtree (⭐141)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
 
-## [2. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [3. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Dockerfile / Other
 
@@ -24,44 +30,44 @@
 *   [GCE Container Registry :heavy\_dollar\_sign:](https://cloud.google.com/artifact-registry) Fast, private Docker image storage on Google Cloud Platform
 *   [Sonatype Nexus Repository](https://www.sonatype.com/products/sonatype-nexus-repository) - Manage binaries and build artifacts across your software supply chain.
 
-## [3. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [4. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Front-End Development
 
-*   [Tiny JS (⭐301)](https://github.com/thoughtspile/awesome-tiny-js#readme) - Frontend libraries that fit into 2 kB with dependencies.
+*   [Tiny JS (⭐560)](https://github.com/thoughtspile/awesome-tiny-js#readme) - Frontend libraries that fit into 2 kB with dependencies.
 
-## [4. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [5. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Maps in the Wild
 
 *   [How to Build a YouTube Video Query AI Model on Wardley Mapping with Python and OpenAI](https://medium.com/prompt-engineering/how-to-build-a-youtube-video-query-ai-model-with-python-and-openai-5b4b26cf9411) - Blog post on how to create a question & answer application AI app using OpenAI, Streamlit and Python. Full source code provided.
 *   [How to Create a Powerful Chatbot in Minutes with Streamlit and OpenAI GPT-3.5](https://medium.com/prompt-engineering/how-to-create-a-powerful-chatbot-in-minutes-with-streamlit-and-openai-gpt-3-5-7954e8e05db0) - Blog post on how to create a Wardley Map chatbot using OpenAI, Streamlit and Python. Full source code provided.
 
-### Tools & Scripts / Commercial Enterprise Platforms
+### Tools & Scripts / AI
 
-*   [Convert WM format to JSON](https://wm2json.streamlit.app/) - A simple streamlit app to convert the onlinewardleymaps wm format to JSON.
-*   [Chat with your Map](https://chatwithwardleymap.streamlit.app/) - An OpenAI/Streamlit/Python application to chat to your Wardley Map. It pulls your Wardley Map from onlinewardleymaps and you can have an AI chat with your map.
-*   [Q\&A with Simon Wardley Videos](https://simongpt.streamlit.app/) - An OpenAI/Streamlit/Python application to ask any question about Wardley Mapping from any of Simon's videos on YouTube. It pulls the transscripts from YouTube and you can have an AI chat with the video.
-*   [Q\&A with Wardley Community Videos](https://wardleygpt.streamlit.app/) - An OpenAI/Streamlit/Python application to ask any question about Wardley Mapping from any of the community videos on YouTube. It pulls the transscripts from YouTube and you can have an AI chat with the video.
-*   [Chat with WardleyGPT](https://wardleychatbot.streamlit.app/) - An OpenAI/Streamlit/Python application to have a chat with WardleyGPT.
+*   [Chat with your Map](https://chatwithwardleymap.streamlit.app/) - Chat to your Wardley Map. It pulls your Wardley Map from OnlineWardleyMaps or GitHub and you can have an AI chat with your map. It creates structured output that can be downloaded and used within documents. It highlights key responses that you can follow up.
 
-## [5. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+### Tools & Scripts / Development
+
+*   [Convert WM format to JSON](https://wm2json.streamlit.app/) - A simple streamlit app to convert the OnlineWardleyMaps OWM format to JSON.
+
+## [6. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Global Connectivity Indexes
 
 *   [Internet Poverty Index](https://internetpoverty.io/) - The Internet Poverty Index from [World Data Lab.](https://worddatalab.com/)
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
 *   [LoginLlama](https://loginllama.app) - A login security API to detect fraudulent and suspicious logins and notify your customers. Free for 1,000 logins per month.
 
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
-*   [Pinggy](https://pinggy.io) — Public URLs for localhost with a single command, no downloads required. HTTPS / TCP / TLS tunnels. Free plan has 60 minutes tunnel life time.
+*   [Pinggy](https://pinggy.io) — Public URLs for localhost with a single command, no downloads required. HTTPS / TCP / TLS tunnels. The free plan has 60 minutes tunnel lifetime.
 
-## [7. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [8. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Remote Jobs:
 
@@ -111,13 +117,8 @@
   Description: Convert your source code into awesome shareable images
 
 
-- Website: [yuyu.ai](https://yuyu.ai/)
 
-  Description: Is a frontend ai tool to generate html and css instantly from a jpg or png file.
-
-
-
-## [8. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/week/README.md)
+## [9. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/week/README.md)
 
 ### Apps / Stacks Web Applications
 
@@ -198,24 +199,17 @@
 
 *   [YouTube](https://www.youtube.com/c/Blockstack) - Stacks ecosystem YouTube.
 
-## [9. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [10. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Research Papers
 
 *   [Automated machine learning: AI-driven decision making in business analytics](https://www.sciencedirect.com/science/article/pii/S2667305323000133) Marc Schmitt. (2023)
 
-## [10. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [11. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [mikhail-bigun/go-app-template (⭐2)](https://github.com/mikhail-bigun/go-app-template) - Clean architecture Go application boilerplate with enriched Fiber implementation.
-
-## [11. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
-
-### Tools / Vendor supported providers
-
-*   [fuzzy-terraform-rm (⭐4)](https://github.com/paololazzari/fuzzy-terraform-rm) - A fuzzy-finder command-line tool for removing resources from terraform state.
-*   [tfrepl (⭐8)](https://github.com/andreineculau/tfrepl) - A Terraform REPL, giving you a full shell experience. Readline based. No dependencies. Save config changes. History.
+*   [mikhail-bigun/go-app-template (⭐5)](https://github.com/mikhail-bigun/go-app-template) - Clean architecture Go application boilerplate with enriched Fiber implementation.
 
 ## [12. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
@@ -241,13 +235,13 @@ Topics: JavaScript, Node.js, JS Architecture\
 
 ### Hamburg
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/aemkei" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/aemkei" height="70px" width="70px" align="left" alt="" />
 
 **Martin Kleppe**\
 Topics: Weird JS\
 <https://twitter.com/aemkei>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/PalmaSwell" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/PalmaSwell" height="70px" width="70px" align="left" alt="" />
 
 **Mauricio Palma**\
 Topics: CSS, JavaScript\
@@ -257,7 +251,7 @@ Topics: CSS, JavaScript\
 
 ### Novi Sad
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/stn1slv" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/stn1slv" height="70px" width="70px" align="left" alt="" />
 
 **Stanislav Deviatov**\
 Topics: Kafka, Mulesoft, API Management, Integration Platforms\
@@ -267,7 +261,7 @@ Topics: Kafka, Mulesoft, API Management, Integration Platforms\
 
 ### Virginia Beach
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bytes__" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/bytes__" height="70px" width="70px" align="left" alt="" />
 
 **Kurtis Kemple**\
 Topics: React, React Native, GraphQL, Universal Components\
@@ -277,7 +271,7 @@ Topics: React, React Native, GraphQL, Universal Components\
 
 ### Boilerplates
 
-*   [Next.js Enterprise (⭐70)](https://github.com/Blazity/next-enterprise) - enterprise-grade boilerplate for high-performance, maintainable apps. Built with Tailwind CSS, RadixUI, TypeScript and more.
+*   [Next.js Enterprise (⭐4.5k)](https://github.com/Blazity/next-enterprise) - enterprise-grade boilerplate for high-performance, maintainable apps. Built with Tailwind CSS, RadixUI, TypeScript and more.
 
 ### Videos
 
@@ -291,7 +285,7 @@ Topics: React, React Native, GraphQL, Universal Components\
 
 ## [15. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [You Won't Regret Positive Feedback](https://zachholman.com/posts/positive-feedback/) - By [Zach Holman](https://zachholman.com).
 *   [A Minimum Viable Product Is Not a Product, It's a Process](https://www.ycombinator.com/library/4Q-a-minimum-viable-product-is-not-a-product-it-s-a-process) - By [Yevgeniy Brikman](https://www.ycombinator.com/blog/author/yevgeniy-brikman).
@@ -304,7 +298,7 @@ Topics: React, React Native, GraphQL, Universal Components\
 *   [The Art of Persuasion Hasn't Changed in 2,000 Years](https://hbr.org/2019/07/the-art-of-persuasion-hasnt-changed-in-2000-years) - By [Carmine Gallo](https://hbr.org/search?term=carmine%20gallo).
 *   [It's Time to Fight for a Dual Product Management Career Path](https://www.bringthedonuts.com/essays/dual-product-management-career-path/) - By [Ken Norton](https://www.bringthedonuts.com/).
 
-### Conferences / Screeb
+### Conferences / Obsidian
 
 *   [La Product Conf](https://www.laproductconf.com/) - Organized by Thiga, La Product Conf (LPC) takes place once a year with events in Paris (France) and Madrid (Spain). The speaker lineup features product leaders from Pinterest, Carrefour, Payfit, Google, Meetic and more.
 
@@ -312,40 +306,43 @@ Topics: React, React Native, GraphQL, Universal Components\
 
 ### Browser-Based / Others
 
-*   [Double Damnation (⭐13)](https://github.com/TheYellowArchitect/doubledamnation) - Exclusively Co-Op Metroidvania with Smash Bros Melee Movement.
+*   [Double Damnation (⭐14)](https://github.com/TheYellowArchitect/doubledamnation) - Exclusively Co-Op Metroidvania with Smash Bros Melee Movement.
 
 ## [17. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [archlinux (fourdim) (⭐0)](https://github.com/fourdim/zsh-archlinux) - Defines helper functions for `pacman` on Arch Linux.
-*   [archlinux (junker) (⭐7)](https://github.com/Junker/zsh-archlinux) - Based on the oh-my-zsh [archlinux (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/archlinux) plugin. Defines helper functions and aliases.
-*   [base16 (⭐28)](https://github.com/tinted-theming/base16-shell) - Adds a script to allow you to change your shell's default ANSI colors but most importantly, colors 17 to 21 of your shell's 256 colorspace (if supported by your terminal). This script makes it possible to honor the original bright colors of your shell (e.g. bright green is still green and so on) while providing additional base16 colors to applications such as [Vim](https://www.vim.org).
-*   [bob (⭐1)](https://github.com/wintermi/zsh-bob) - Plugin for [bob (⭐626)](https://github.com/MordechaiHadad/bob) a cross-platform and easy-to-use Neovim version manager.
-*   [fnm (dominik-schwabe) (⭐14)](https://github.com/dominik-schwabe/zsh-fnm) - Installs and loads the [Fast Node Manager (fnm) (⭐12k)](https://github.com/Schniz/fnm) if it is missing.
-*   [fnm (wintermi) (⭐2)](https://github.com/wintermi/zsh-fnm) - Helper plugin for the fast and simple Node.js version manager [fnm (⭐12k)](https://github.com/Schniz/fnm).
-*   [git-check (⭐1)](https://github.com/git-girl/git-check) - Adds a zsh hook to check if the origin of the current branch has changes to local in the background and sends a notification.
+*   [archlinux (junker) (⭐8)](https://github.com/Junker/zsh-archlinux) - Based on the oh-my-zsh [archlinux (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/archlinux) plugin. Defines helper functions and aliases.
+*   [base16 (⭐36)](https://github.com/tinted-theming/base16-shell) - Adds a script to allow you to change your shell's default ANSI colors but most importantly, colors 17 to 21 of your shell's 256 colorspace (if supported by your terminal). This script makes it possible to honor the original bright colors of your shell (e.g. bright green is still green and so on) while providing additional base16 colors to applications such as [Vim](https://www.vim.org).
+*   [bob (⭐1)](https://github.com/wintermi/zsh-bob) - Plugin for [bob (⭐895)](https://github.com/MordechaiHadad/bob) a cross-platform and easy-to-use Neovim version manager.
+*   [fnm (dominik-schwabe) (⭐14)](https://github.com/dominik-schwabe/zsh-fnm) - Installs and loads the [Fast Node Manager (fnm) (⭐14k)](https://github.com/Schniz/fnm) if it is missing.
+*   [fnm (wintermi) (⭐2)](https://github.com/wintermi/zsh-fnm) - Helper plugin for the fast and simple Node.js version manager [fnm (⭐14k)](https://github.com/Schniz/fnm).
+*   [git-check (⭐3)](https://github.com/git-girl/git-check) - Adds a zsh hook to check if the origin of the current branch has changes to local in the background and sends a notification.
 *   [iwd (⭐1)](https://github.com/zshzoo/iwd) - Similar in concept to `$PWD`, this ZSH plugin saves your initial working directory in `$IWD` for easy returns to the starting point of your session.
-*   [vivid (⭐2)](https://github.com/ryanccn/vivid-zsh) - Make it easier to use `LSCOLORS` with [vivid (⭐1.3k)](https://github.com/sharkdp/vivid).
+*   [vivid (⭐3)](https://github.com/ryanccn/vivid-zsh) - Make it easier to use `LSCOLORS` with [vivid (⭐1.4k)](https://github.com/sharkdp/vivid).
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [poetry (⭐0)](https://github.com/fourdim/zsh-poetry) - Tab completions for [poetry](https://python-poetry.org/).
+*   [poetry (⭐1)](https://github.com/fourdim/zsh-poetry) - Tab completions for [poetry](https://python-poetry.org/).
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [buddha (⭐1)](https://github.com/BuddhaDom/zsh-buddha) - Includes decorators for `git` status, current directory, exit status of last command run and username\@hostname.
-*   [firefoxic (⭐0)](https://github.com/firefoxic/firefoxic-zsh-theme/) - Fork of [Bureau (⭐31)](https://github.com/isqua/bureau) with tweaks to the node and `git` decorators.
+*   [buddha (⭐0)](https://github.com/BuddhaDom/zsh-buddha) - Includes decorators for `git` status, current directory, exit status of last command run and username\@hostname.
+*   [firefoxic (⭐0)](https://github.com/firefoxic/firefoxic-zsh-theme/) - Fork of [Bureau (⭐33)](https://github.com/isqua/bureau) with tweaks to the node and `git` decorators.
 *   [renanborgez (⭐2)](https://github.com/renanborgez/ohmyzsh-theme-renanborgez) - Works well on dark backgrounds. Includes decorators for `nvm` and `git` information.
 
 ## [18. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
-### AlgoKit Templates
+### AlgoKit Templates / Official
 
-*   [algokit-beaker-default-template (⭐3)](https://github.com/algorandfoundation/algokit-beaker-default-template) - Official AlgoKit beaker template provides a production-ready baseline for developing and deploying Beaker smart contracts.
+*   [algokit-beaker-default-template (⭐5)](https://github.com/algorandfoundation/algokit-beaker-default-template) - Official AlgoKit beaker template provides a production-ready baseline for developing and deploying Beaker smart contracts. Also serves as a reference for template builders on implementing smart-contract-only algokit templates.
+
+### AlgoKit Templates / Community
+
 *   [algokit-tealish-template (⭐0)](https://github.com/aorumbayev/algokit-tealish-template) - AlgoKit community template for quick starting a smart contract project with tealish and algojig.
 
-### Other Development Tools / Nodes and Indexers
+### Nodes & Consensus Participation / Wallets
 
 *   [AlgoNode](https://algonode.io) - Free Node/Indexer APIs, Node running FAQ, Node/Indexer daily snapshots.
 
@@ -359,63 +356,53 @@ Topics: React, React Native, GraphQL, Universal Components\
 
 ### Tools / Services
 
-*   [GPTCache (⭐3.4k)](https://github.com/zilliztech/GPTCache): A Library for Creating Semantic Cache for LLM Queries ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)
-*   [Jina (⭐837)](https://github.com/jina-ai/langchain-serve): Langchain Apps on Production with Jina ![GitHub Repo stars](https://img.shields.io/github/stars/jina-ai/langchain-serve?style=social)
-*   [Gradio Tools (⭐429)](https://github.com/freddyaboulton/gradio-tools): Gradio 🤝 LLM Agents ![GitHub Repo stars](https://img.shields.io/github/stars/freddyaboulton/gradio-tools?style=social)
-*   [steamship-langchain (⭐349)](https://github.com/steamship-core/steamship-langchain): adapters for Steamship, enabling LangChain developers to rapidly deploy their apps on Steamship 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/steamship-core/steamship-langchain?style=social)
-*   [LangForge (⭐123)](https://github.com/mme/langforge): A Toolkit for Creating and Deploying LangChain Apps ![GitHub Repo stars](https://img.shields.io/github/stars/mme/langforge?style=social)
-*   [BentoChain (⭐90)](https://github.com/ssheng/BentoChain): LangChain Deployment on BentoML ![GitHub Repo stars](https://img.shields.io/github/stars/ssheng/BentoChain?style=social)
-*   [LangCorn (⭐372)](https://github.com/msoedov/langcorn): Serving LangChain apps automagically with FastApi ![GitHub Repo stars](https://img.shields.io/github/stars/msoedov/langcorn?style=social)
-*   [Langchain Service (⭐14)](https://github.com/kyrolabs/langchain-service): Opinionated Langchain setup with Qdrant vector store and Kong gateway ![GitHub Repo stars](https://img.shields.io/github/stars/kyrolabs/langchain-service?style=social)
-*   [Lanarky (⭐200)](https://github.com/ajndkr/lanarky): 🚢 Ship production-ready LLM projects with FastAPI ![GitHub Repo stars](https://img.shields.io/github/stars/ajndkr/lanarky?style=social)
-*   [Dify (⭐3.8k)](https://github.com/langgenius/dify): One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. ![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social)
+*   [GPTCache (⭐5.4k)](https://github.com/zilliztech/GPTCache): A Library for Creating Semantic Cache for LLM Queries ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)
+*   [Jina (⭐1.5k)](https://github.com/jina-ai/langchain-serve): Langchain Apps on Production with Jina ![GitHub Repo stars](https://img.shields.io/github/stars/jina-ai/langchain-serve?style=social)
+*   [Gradio Tools (⭐499)](https://github.com/freddyaboulton/gradio-tools): Gradio 🤝 LLM Agents ![GitHub Repo stars](https://img.shields.io/github/stars/freddyaboulton/gradio-tools?style=social)
+*   [steamship-langchain (⭐481)](https://github.com/steamship-core/steamship-langchain): adapters for Steamship, enabling LangChain developers to rapidly deploy their apps on Steamship 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/steamship-core/steamship-langchain?style=social)
+*   [LangForge (⭐154)](https://github.com/mme/langforge): A Toolkit for Creating and Deploying LangChain Apps ![GitHub Repo stars](https://img.shields.io/github/stars/mme/langforge?style=social)
+*   [BentoChain (⭐139)](https://github.com/ssheng/BentoChain): LangChain Deployment on BentoML ![GitHub Repo stars](https://img.shields.io/github/stars/ssheng/BentoChain?style=social)
+*   [LangCorn (⭐716)](https://github.com/msoedov/langcorn): Serving LangChain apps automagically with FastApi ![GitHub Repo stars](https://img.shields.io/github/stars/msoedov/langcorn?style=social)
+*   [Langchain Service (⭐30)](https://github.com/kyrolabs/langchain-service): Opinionated Langchain setup with Qdrant vector store and Kong gateway ![GitHub Repo stars](https://img.shields.io/github/stars/kyrolabs/langchain-service?style=social)
+*   [Lanarky (⭐830)](https://github.com/ajndkr/lanarky): 🚢 Ship production-ready LLM projects with FastAPI ![GitHub Repo stars](https://img.shields.io/github/stars/ajndkr/lanarky?style=social)
+*   [Dify (⭐9k)](https://github.com/langgenius/dify): One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. ![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social)
 
 ### Open Source Projects / Knowledge Management
 
-*   [Knowledge GPT (⭐946)](https://github.com/mmz-001/knowledge_gpt): Accurate answers and instant citations for your documents. ![GitHub Repo stars](https://img.shields.io/github/stars/mmz-001/knowledge_gpt?style=social)
-*   [Quiver (⭐5.6k)](https://github.com/StanGirard/quiver): Dump your brain into your GenerativeAI Vault ![GitHub Repo stars](https://img.shields.io/github/stars/StanGirard/quiver?style=social)
-*   [Knowledge (⭐812)](https://github.com/KnowledgeCanvas/knowledge): Knowledge is a tool for saving, searching, accessing, and exploring all of your favorite websites, documents and files. ![GitHub Repo stars](https://img.shields.io/github/stars/KnowledgeCanvas/knowledge?style=social)
+*   [Quiver (⭐24k)](https://github.com/StanGirard/quiver): Dump your brain into your GenerativeAI Vault ![GitHub Repo stars](https://img.shields.io/github/stars/StanGirard/quiver?style=social)
+*   [Knowledge GPT (⭐1.3k)](https://github.com/mmz-001/knowledge_gpt): Accurate answers and instant citations for your documents. ![GitHub Repo stars](https://img.shields.io/github/stars/mmz-001/knowledge_gpt?style=social)
+*   [Knowledge (⭐1.1k)](https://github.com/KnowledgeCanvas/knowledge): Knowledge is a tool for saving, searching, accessing, and exploring all of your favorite websites, documents and files. ![GitHub Repo stars](https://img.shields.io/github/stars/KnowledgeCanvas/knowledge?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [Howdol (⭐243)](https://github.com/bborn/howdoi.ai): a helpful chatbot that can answer questions ![GitHub Repo stars](https://img.shields.io/github/stars/bborn/howdoi.ai?style=social)
-*   [MrsStax (⭐54)](https://github.com/normandmickey/MrsStax): QA Slack Bot ![GitHub Repo stars](https://img.shields.io/github/stars/normandmickey/MrsStax?style=social)
-*   [ThoughtSource⚡ (⭐602)](https://github.com/OpenBioLink/ThoughtSource): A framework for the science of machine thinking ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBioLink/ThoughtSource?style=social)
+*   [Howdol (⭐255)](https://github.com/bborn/howdoi.ai): a helpful chatbot that can answer questions ![GitHub Repo stars](https://img.shields.io/github/stars/bborn/howdoi.ai?style=social)
+*   [MrsStax (⭐60)](https://github.com/normandmickey/MrsStax): QA Slack Bot ![GitHub Repo stars](https://img.shields.io/github/stars/normandmickey/MrsStax?style=social)
+*   [ThoughtSource⚡ (⭐746)](https://github.com/OpenBioLink/ThoughtSource): A framework for the science of machine thinking ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBioLink/ThoughtSource?style=social)
 *   [ChatGPT Langchain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain): ChatGPT clone using langchain on Huggingface
 *   [Chat Math Techniques](https://huggingface.co/spaces/JavaFXpert/gpt-math-techniques): langchain chat with math techniques on Huggingface
-*   [Notion QA (⭐1.5k)](https://github.com/hwchase17/notion-qa): Notion Question-Answering Bot ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/notion-qa?style=social)
-*   [Chat with Scanned Documents (⭐0)](https://github.com/tony-xlh/Chat-with-Scanned-Documents): A demo chatting with documents scanned with Dynamic Web TWAIN.
-*   [snowChat ❄️ (⭐85)](https://github.com/kaarthik108/snowChat): Chat with you're snowflake database ![GitHub Repo stars](https://img.shields.io/github/stars/kaarthik108/snowChat?style=social)
+*   [Notion QA (⭐2k)](https://github.com/hwchase17/notion-qa): Notion Question-Answering Bot ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/notion-qa?style=social)
+*   [Chat with Scanned Documents (⭐1)](https://github.com/tony-xlh/Chat-with-Scanned-Documents): A demo chatting with documents scanned with Dynamic Web TWAIN.
+*   [snowChat ❄️ (⭐265)](https://github.com/kaarthik108/snowChat): Chat with you're snowflake database ![GitHub Repo stars](https://img.shields.io/github/stars/kaarthik108/snowChat?style=social)
 
 ### Learn / Notebooks
 
-*   [Langchain Tutorials (⭐3.1k)](https://github.com/gkamradt/langchain-tutorials): overview and tutorial of the LangChain Library ![GitHub Repo stars](https://img.shields.io/github/stars/gkamradt/langchain-tutorials?style=social)
-*   [LangChain Chinese Getting Started Guide (⭐2.5k)](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): Chinese LangChain Tutorial for Beginners ![GitHub Repo stars](https://img.shields.io/github/stars/liaokongVFX/LangChain-Chinese-Getting-Started-Guide?style=social)
+*   [Langchain Tutorials (⭐5.2k)](https://github.com/gkamradt/langchain-tutorials): overview and tutorial of the LangChain Library ![GitHub Repo stars](https://img.shields.io/github/stars/gkamradt/langchain-tutorials?style=social)
+*   [LangChain Chinese Getting Started Guide (⭐5.6k)](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): Chinese LangChain Tutorial for Beginners ![GitHub Repo stars](https://img.shields.io/github/stars/liaokongVFX/LangChain-Chinese-Getting-Started-Guide?style=social)
 *   [Flan5 LLM](https://colab.research.google.com/drive/1AVh9dOsG9DKzfK7gOFrJuitPIcLPqlbO?usp=sharing): PDF QA using LangChain for chain of thought and multi-task instructions, Flan5 on HuggingFace
-*   [LangChain Handbook (⭐1.2k)](https://github.com/pinecone-io/examples/tree/master/generation/langchain/handbook): Pinecone / James Briggs' LangChain handbook
+*   [LangChain Handbook (⭐1.9k)](https://github.com/pinecone-io/examples/tree/master/generation/langchain/handbook): Pinecone / James Briggs' LangChain handbook
 *   [Query the YouTube video transcripts](https://colab.research.google.com/drive/1sKSTjt9cPstl_WMZ86JsgEqFG-aSAwkn?usp=sharing): Query the YouTube video transcripts, returning timestamps as sources to legitimize the answers
-*   [llm-lobbyist (⭐143)](https://github.com/JohnNay/llm-lobbyist): Large Language Models as Corporate Lobbyists
-*   [Langchain Semantic Search (⭐27)](https://github.com/venuv/langchain_semantic_search): Search and indexing your own Google Drive Files using GPT3, LangChain, and Python
+*   [llm-lobbyist (⭐161)](https://github.com/JohnNay/llm-lobbyist): Large Language Models as Corporate Lobbyists
+*   [Langchain Semantic Search (⭐39)](https://github.com/venuv/langchain_semantic_search): Search and indexing your own Google Drive Files using GPT3, LangChain, and Python
 *   [GPT Political Compass](https://colab.research.google.com/drive/1xt2IsFPGYMEQdoJFNgWNAjWGxa60VXdV)
-*   [llm-grovers-search-party (⭐9)](https://github.com/JavaFXpert/llm-grovers-search-party): Leveraging Qiskit, OpenAI and LangChain to demonstrate Grover's algorithm
+*   [llm-grovers-search-party (⭐10)](https://github.com/JavaFXpert/llm-grovers-search-party): Leveraging Qiskit, OpenAI and LangChain to demonstrate Grover's algorithm
 *   [TextWorld ReAct Agent](https://colab.research.google.com/drive/19WTIWC3prw5LDMHmRMvqNV2loD9FHls6?usp=sharing)
 *   [LangChain <> Wolfram Alpha](https://colab.research.google.com/drive/1AAyEdTz-Z6ShKvewbt1ZHUICqak0MiwR?usp=sharing)
-*   [BYO Knowledge Graph (⭐105)](https://github.com/prof-frink-lab/slangchain/blob/main/docs/modules/knowledge_graph/examples/byo_knowledge_graph.ipynb)
+*   [BYO Knowledge Graph (⭐126)](https://github.com/prof-frink-lab/slangchain/blob/main/docs/modules/knowledge_graph/examples/byo_knowledge_graph.ipynb)
 
-### Learn / Videos
+### Other LLM Frameworks / Videos Playlists
 
-*   [LangChain and the Future of LLM Agents](https://www.youtube.com/watch?v=JwO08Pk6S_Q\&t=4s)
-
-### Learn / Articles
-
-*   [How To Use LangChain with LLM Agent Monitoring To Fine-Tune Your LLM Apps](https://arize.com/blog-course/langchain-llm-agent-monitoring/)
-*   [Build a Simple ChatGPT CLI with memory](https://getmetal.io/posts/07-tutorial-motorhead-cli)
-*   [Deploy a Voice-Based Chatbot with BentoML, LangChain, and Gradio](https://towardsdatascience.com/deploy-a-voice-based-chatbot-with-bentoml-langchain-and-gradio-7f25af3e45df)
-
-### Alternatives / Articles
-
-*   [Botpress (⭐10k)](https://github.com/botpress/botpress): The building blocks for building chatbots ![GitHub Repo stars](https://img.shields.io/github/stars/botpress/botpress?style=social)
-*   [Haystack (⭐8.9k)](https://github.com/deepset-ai/haystack): NLP framework to interact with your data using Transformer models and LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)
+*   [Botpress (⭐11k)](https://github.com/botpress/botpress): The building blocks for building chatbots ![GitHub Repo stars](https://img.shields.io/github/stars/botpress/botpress?style=social)
+*   [Haystack (⭐11k)](https://github.com/deepset-ai/haystack): NLP framework to interact with your data using Transformer models and LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)
 
 ## [21. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -427,23 +414,19 @@ Topics: React, React Native, GraphQL, Universal Components\
 
 ### Software / Database Management
 
-*   [Evidence](https://evidence.dev) - Evidence is a code-based BI tool. Write reports using SQL and markdown and they render as a website. ([Source Code (⭐1.7k)](https://github.com/evidence-dev/evidence)) `MIT` `Nodejs`
+*   [Evidence](https://evidence.dev) - Evidence is a code-based BI tool. Write reports using SQL and markdown and they render as a website. ([Source Code (⭐2.5k)](https://github.com/evidence-dev/evidence)) `MIT` `Nodejs`
 
 ### Software / Miscellaneous
 
-*   [OTS-Share (⭐29)](https://github.com/rpgeeganage/ots-share-app) - A self-hosting app to share secrets with file support upto 1MB. ([Source Code (⭐29)](https://github.com/rpgeeganage/ots-share-app)) `MIT` `Docker`
+*   [OTS-Share (⭐40)](https://github.com/rpgeeganage/ots-share-app) - A self-hosting app to share secrets with file support up to 1MB. `MIT` `Docker`
 
 ### Software / Pastebins
 
-*   [Opengist (⭐303)](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git. ([Demo](https://opengist.thomice.li)) `AGPL-3.0` `Docker/Go/Nodejs`
-
-### Software / Remote Access
-
-*   [RPort](https://rport.io) - Self-hosted open source remote management solution for Windows, macOS & Linux. ([Source Code (⭐616)](https://github.com/realvnc-labs/rport)) `MIT` `Go`
+*   [Opengist (⭐527)](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git. ([Demo](https://opengist.thomice.li)) `AGPL-3.0` `Docker/Go/Nodejs`
 
 ### Software / Software Development - Project Management
 
-*   [Plane](https://plane.so) - Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. ([Demo](https://app.plane.so), [Source Code (⭐2k)](https://github.com/makeplane/plane)) `Apache-2.0` `Docker`
+*   [Plane](https://plane.so) - Helps you track your issues, epics, and product roadmaps in the simplest way possible (alternative to JIRA, Linear and Height). ([Demo](https://app.plane.so), [Source Code (⭐18k)](https://github.com/makeplane/plane)) `Apache-2.0` `Docker`
 
 ## [23. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
 
@@ -459,25 +442,25 @@ Topics: React, React Native, GraphQL, Universal Components\
 
 ## [25. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
-### Inbox: Large Language Models / Contribute to Our Repository
+### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
-*   [togethercomputer/OpenChatKit (⭐8.3k)](https://github.com/togethercomputer/OpenChatKit): provides an open-source base to create both specialized and general purpose chatbots for various applications
+*   [togethercomputer/OpenChatKit (⭐8.9k)](https://github.com/togethercomputer/OpenChatKit): provides an open-source base to create both specialized and general purpose chatbots for various applications
 
-### Inbox: Large Language Models / Autonomous LLM Agents
+### Inbox: Large Language Models (LLMs) / Autonomous LLM Agents
 
-*   [Vercel for AI agents (⭐4.8k)](https://github.com/e2b-dev/e2b): "help developers to build, deploy, and monitor AI agents, focusing on specialized AI agents that build software for you - your personal software developers"
-*   [101dotxyz/GPTeam (⭐375)](https://github.com/101dotxyz/GPTeam): "GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals"
+*   [Vercel for AI agents (⭐5.5k)](https://github.com/e2b-dev/e2b): "help developers to build, deploy, and monitor AI agents, focusing on specialized AI agents that build software for you - your personal software developers"
+*   [101dotxyz/GPTeam (⭐1.4k)](https://github.com/101dotxyz/GPTeam): "GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals"
 
-### Inbox: Large Language Models / Text-related Generative Tools
+### Inbox: Large Language Models (LLMs) / Text-related Generative Tools
 
 *   [Plus AI for Google Slides](https://www.plusdocs.com/plus-ai-for-google-slides): Create AI-powered presentations in Google Slides
 
 ### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-text
 
-*   [timqian/openprompt.co (⭐911)](https://github.com/timqian/openprompt.co): Create. Use. Share. ChatGPT prompts
+*   [timqian/openprompt.co (⭐1.1k)](https://github.com/timqian/openprompt.co): Create. Use. Share. ChatGPT prompts
 *   [60 ChatGPT Prompts for Data Science (Tried, Tested, and Rated)](https://medium.datadriveninvestor.com/60-chatgpt-prompts-for-data-science-tried-tested-and-rated-4994c7e6adb2): post by Travis Tang from DataDrivenInvestor
-*   [f/awesome-chatgpt-prompts (⭐75k)](https://github.com/f/awesome-chatgpt-prompts): this repo includes ChatGPT prompt curation to use ChatGPT better
-*   [brexhq/prompt-engineering (⭐2.8k)](https://github.com/brexhq/prompt-engineering): "Tips and tricks for working with Large Language Models like OpenAI's GPT-4"
+*   [f/awesome-chatgpt-prompts (⭐91k)](https://github.com/f/awesome-chatgpt-prompts): this repo includes ChatGPT prompt curation to use ChatGPT better
+*   [brexhq/prompt-engineering (⭐7.2k)](https://github.com/brexhq/prompt-engineering): "Tips and tricks for working with Large Language Models like OpenAI's GPT-4"
 
 ### Inbox: Stable Diffusion / Stable Diffusion Deployed Web Tools
 
@@ -499,31 +482,31 @@ Topics: React, React Native, GraphQL, Universal Components\
 
 *   [Nathan Lands on Twitter: "AI video has started to produce mindblowing results and could eventually disrupt Hollywood / Twitter](https://twitter.com/NathanLands/status/1659195191591596033): Twitter thread with examples of Generative AI tools for video
 
-### Inbox: Developing + AI / Generative Adversarial Networks (GANs)
+### Inbox: DEV + AI / Generative Adversarial Networks (GANs)
 
-*   [e2b-dev/e2b (⭐4.8k)](https://github.com/e2b-dev/e2b): "Open-source platform for building AI-powered virtual software developers"
+*   [e2b-dev/e2b (⭐5.5k)](https://github.com/e2b-dev/e2b): "Open-source platform for building AI-powered virtual software developers"
 
 ## [26. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Utility / Diagnostics
 
-*   [RutaTang/compter.nvim (⭐1)](https://github.com/RutaTang/compter.nvim) - Power and extend the ability of `<C-a>` and `<C-x>` with customized patterns.
+*   [RutaTang/compter.nvim (⭐20)](https://github.com/RutaTang/compter.nvim) - Power and extend the ability of `<C-a>` and `<C-x>` with customized patterns.
 
 ### Session / Diagnostics
 
-*   [RutaTang/spectacle.nvim (⭐2)](https://github.com/RutaTang/spectacle.nvim) - Easily manage multiple sessions with telescope integration.
+*   [RutaTang/spectacle.nvim (⭐10)](https://github.com/RutaTang/spectacle.nvim) - Easily manage multiple sessions with telescope integration.
 
 ## [27. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Themes
 
-*   [catppuccin (⭐250)](https://github.com/catppuccin/tmux) Catppuccin `Latte`, `Frappe`, `Macchiato`, and `Mocha` themes for tmux.
-*   [tmux-dark-notify (⭐4)](https://github.com/erikw/tmux-dark-notify) - Make tmux's theme follow macOS dark/light mode.
-*   [tmux-tokyo-night (⭐14)](https://github.com/fabioluciano/tmux-tokyo-night) A vim inspired tokyo night theme
+*   [catppuccin (⭐493)](https://github.com/catppuccin/tmux) Catppuccin `Latte`, `Frappe`, `Macchiato`, and `Mocha` themes for tmux.
+*   [tmux-dark-notify (⭐19)](https://github.com/erikw/tmux-dark-notify) - Make tmux's theme follow macOS dark/light mode.
+*   [tmux-tokyo-night (⭐55)](https://github.com/fabioluciano/tmux-tokyo-night) A vim inspired tokyo night theme
 
 ### Plugins
 
-*   [tmux-pianobar (⭐1)](https://github.com/GoHarder/tmux-pianobar) A menu and status bar widget for Pianobar
+*   [tmux-pianobar (⭐6)](https://github.com/GoHarder/tmux-pianobar) A menu and status bar widget for Pianobar
 
 ---
 

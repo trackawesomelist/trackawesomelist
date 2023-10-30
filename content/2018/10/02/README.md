@@ -17,7 +17,7 @@
 
 ### Data Formats
 
-*   [toml.cr (⭐59)](https://github.com/crystal-community/toml.cr) - TOML parser
+*   [toml.cr (⭐57)](https://github.com/crystal-community/toml.cr) - TOML parser
 
 ## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Libraries / C#/.NET
 
-*   [mongo-queue-csharp (⭐2)](https://github.com/dominionenterprises/mongo-queue-csharp) - C# message queue on top of MongoDB
+*   [mongo-queue-csharp (⭐3)](https://github.com/dominionenterprises/mongo-queue-csharp) - C# message queue on top of MongoDB
 
 ### Libraries / Java
 
@@ -71,19 +71,19 @@
 
 *   [MEAN.JS (⭐4.9k)](https://github.com/meanjs/mean) - Full stack based on MongoDB, Express, AngularJS, and Node.js
 *   [MERN (mern-starter) (⭐5.1k)](https://github.com/Hashnode/mern-starter) - Full stack based on MongoDB, Express, React and Node.js
-*   [Meteor (⭐43k)](https://github.com/meteor/meteor) - Real-time/reactive client-server framework based on MongoDB, with lots of features
+*   [Meteor (⭐44k)](https://github.com/meteor/meteor) - Real-time/reactive client-server framework based on MongoDB, with lots of features
 
 ### Libraries / Julia
 
-*   [Mongo.jl (⭐29)](https://github.com/Lytol/Mongo.jl) - C driver bindings
+*   [Mongo.jl (⭐30)](https://github.com/Lytol/Mongo.jl) - C driver bindings
 
 ### Libraries / Python
 
-*   [MongoEngine (⭐4k)](https://github.com/MongoEngine/mongoengine) - ODM on top of PyMongo
+*   [MongoEngine (⭐4.1k)](https://github.com/MongoEngine/mongoengine) - ODM on top of PyMongo
 
 ### Libraries / R
 
-*   [mongolite (⭐275)](https://github.com/jeroen/mongolite) - Fast and simple client for R
+*   [mongolite (⭐278)](https://github.com/jeroen/mongolite) - Fast and simple client for R
 
 ### Libraries / Ruby
 
@@ -91,9 +91,9 @@
 
 ### Tools / Administration
 
-*   [MongoDB Smasher (⭐31)](https://github.com/duckie/mongo_smasher) - Generate randomized datasets and benchmark your setup
+*   [MongoDB Smasher (⭐33)](https://github.com/duckie/mongo_smasher) - Generate randomized datasets and benchmark your setup
 *   [mtools (⭐1.8k)](https://github.com/rueckstiess/mtools) - Collection of scripts to set up test environments and visualize log files
-*   [nginx-gridfs (⭐798)](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from GridFS
+*   [nginx-gridfs (⭐795)](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from GridFS
 *   [nginx-mongodb-rest (⭐30)](https://github.com/minhajuddin/nginx-mongodb-rest) - REST client written as an Nginx module
 
 ### Tools / Data
@@ -102,7 +102,7 @@
 
 ### Tools / Deployment
 
-*   [Helm Chart (⭐15k)](https://github.com/helm/charts/tree/master/stable/mongodb)
+*   [Helm Chart (⭐16k)](https://github.com/helm/charts/tree/master/stable/mongodb)
 
 ### Tools / Desktop
 
@@ -110,9 +110,9 @@
 
 ### Tools / Development
 
-*   [mgodatagen (⭐287)](https://github.com/feliixx/mgodatagen) - Random data generator
-*   [Mongo Seeding (⭐504)](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
-*   [Mongoeye (⭐152)](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
+*   [mgodatagen (⭐303)](https://github.com/feliixx/mgodatagen) - Random data generator
+*   [Mongo Seeding (⭐517)](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
+*   [Mongoeye (⭐154)](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
 *   [Variety (⭐1.7k)](https://github.com/variety/variety) - Schema analyzer: see what fields are in your collection and what's their content
 
 ### Tools / Monitoring
@@ -121,17 +121,17 @@
 
 ### Tools / Web
 
-*   [mongo-express (⭐4.9k)](https://github.com/mongo-express/mongo-express) - Web-based admin interface built with Express
+*   [mongo-express (⭐5.2k)](https://github.com/mongo-express/mongo-express) - Web-based admin interface built with Express
 *   [mongoadmin (⭐250)](https://github.com/thomasst/mongoadmin) - Admin interface built with Django
 *   [mongri (⭐75)](https://github.com/dongri/mongri) - Web-based user interface written in JavaScript
 
 ### Applications / Web
 
-*   [Countly (⭐5.1k)](https://github.com/countly/countly-server) - Mobile & web analytics and marketing platform built with Node.js
+*   [Countly (⭐5.3k)](https://github.com/countly/countly-server) - Mobile & web analytics and marketing platform built with Node.js
 *   [Leanote (⭐11k)](https://github.com/leanote/leanote) - Evernote clone built with Go
-*   [NodeBB (⭐13k)](https://github.com/NodeBB/NodeBB) - Node.js based forum software ("built for the modern web")
+*   [NodeBB (⭐14k)](https://github.com/NodeBB/NodeBB) - Node.js based forum software ("built for the modern web")
 *   [Reaction (⭐12k)](https://github.com/reactioncommerce/reaction) - Event-driven, real-time commerce platform built with ES6
-*   [SaaS Boilerplate (⭐3.3k)](https://github.com/async-labs/saas) - Boilerplate for SaaS products, built with TypeScript, React and Express
+*   [SaaS Boilerplate (⭐3.6k)](https://github.com/async-labs/saas) - Boilerplate for SaaS products, built with TypeScript, React and Express
 *   [uptime (⭐3.6k)](https://github.com/fzaninotto/uptime) - Remote monitoring application built with Node.js and Bootstrap
 
 ## [8. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
@@ -169,7 +169,7 @@
 ### Libraries / Markup language
 
 *   CommonMark
-    *   [raphlinus/pulldown-cmark (⭐1.6k)](https://github.com/raphlinus/pulldown-cmark) — [CommonMark](https://commonmark.org/) parser in Rust
+    *   [raphlinus/pulldown-cmark (⭐1.7k)](https://github.com/raphlinus/pulldown-cmark) — [CommonMark](https://commonmark.org/) parser in Rust
 
 ## [12. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
@@ -194,7 +194,7 @@
 ### GUI
 
 *   [Qml.Net (⭐1.3k)](https://github.com/qmlnet/qmlnet) - A cross-platform Qml/.NET integration for Mono/.NET/.NET Core
-*   [UWP Community Toolkit (⭐5.5k)](https://github.com/windows-toolkit/WindowsCommunityToolkit) - The UWP Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10.
+*   [UWP Community Toolkit (⭐5.7k)](https://github.com/windows-toolkit/WindowsCommunityToolkit) - The UWP Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10.
 
 ### HTML and CSS
 
@@ -221,7 +221,7 @@
 
 ### Querying / Symfony2
 
-*   [Insomnia (⭐26k)](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
+*   [Insomnia (⭐30k)](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
 
 ## [17. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -242,11 +242,7 @@
 
 ### Software / Learning and Courses
 
-*   [Chamilo LMS](https://chamilo.org/) - Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. ([Source Code (⭐679)](https://github.com/chamilo/chamilo-lms)) `GPL-3.0` `PHP`
-
-### Software / Pastebins
-
-*   [Paste](https://phpaste.sourceforge.io/) - Paste is forked from the original source pastebin.com used before it was bought. ([Source Code (⭐283)](https://github.com/jordansamuel/PASTE)) `GPL-3.0` `PHP`
+*   [Chamilo LMS](https://chamilo.org/) - Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. ([Source Code (⭐709)](https://github.com/chamilo/chamilo-lms)) `GPL-3.0` `PHP`
 
 ## [19. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
 
@@ -258,7 +254,7 @@
 
 ### Open Source / Other
 
-*   [Netron (⭐23k)](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.
+*   [Netron (⭐24k)](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.
 
 ### Closed Source / Other
 

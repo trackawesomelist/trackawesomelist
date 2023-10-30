@@ -10,7 +10,7 @@
 
 ### Using Electron / Other
 
-*   [electron-stream (⭐123)](https://github.com/juliangruber/electron-stream) - Streaming wrapper.
+*   [electron-stream (⭐124)](https://github.com/juliangruber/electron-stream) - Streaming wrapper.
 
 ## [2. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -33,7 +33,7 @@
 ### Books / Software-specific
 
 *   *[Introduction to Social Network Methods](http://faculty.ucr.edu/~hanneman/nettext/)* (using mostly UCINET), by Robert A. Hanneman and Mark Riddle - Full book online (2001).
-*   *[Social Network Analysis for Startups. Finding Connections on the Social Web](http://shop.oreilly.com/product/0636920020424.do)* (using Python), by Maksim Tsvetovat and Alexander Kouznetsov ([code (⭐237)](https://github.com/maksim2042/SNABook); 2011).
+*   *[Social Network Analysis for Startups. Finding Connections on the Social Web](http://shop.oreilly.com/product/0636920020424.do)* (using Python), by Maksim Tsvetovat and Alexander Kouznetsov ([code (⭐238)](https://github.com/maksim2042/SNABook); 2011).
 
 ### Books / Topic-specific
 
@@ -82,7 +82,7 @@
 
 ### Varia / Network Science
 
-*   [Social Network and Network Science Co-Citations Across Disciplines in 1996-2013 (⭐20)](https://github.com/raffaelevacca/EUSN-co-citation-networks).
+*   [Social Network and Network Science Co-Citations Across Disciplines in 1996-2013 (⭐21)](https://github.com/raffaelevacca/EUSN-co-citation-networks).
 
 ---
 

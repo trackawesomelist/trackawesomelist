@@ -119,7 +119,7 @@
 
 ### Crack / General
 
-*   [kerlomz/captcha\_trainer (⭐2.5k)](https://github.com/kerlomz/captcha_trainer) - Based on CNN5/DenseNet+BLSTM/LSTM+CTC to realize verification code identification. Only for training the model.
+*   [kerlomz/captcha\_trainer (⭐2.8k)](https://github.com/kerlomz/captcha_trainer) - Based on CNN5/DenseNet+BLSTM/LSTM+CTC to realize verification code identification. Only for training the model.
 
 ## [10. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
 
@@ -154,20 +154,20 @@
 
 ### Platforms
 
-*   [IBM Cloud (⭐80)](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
-*   [Firebase (⭐643)](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud Platform.
+*   [IBM Cloud (⭐85)](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
+*   [Firebase (⭐664)](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud Platform.
 
 ### Programming Languages
 
-*   [Ada/SPARK (⭐480)](https://github.com/ohenley/awesome-ada#readme) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
+*   [Ada/SPARK (⭐518)](https://github.com/ohenley/awesome-ada#readme) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
 
 ### Decentralized Systems
 
-*   [Blockchain AI (⭐630)](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
+*   [Blockchain AI (⭐708)](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
 
 ### Miscellaneous
 
-*   [Bitcoin Payment Processors (⭐312)](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Start accepting Bitcoin.
+*   [Bitcoin Payment Processors (⭐343)](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Start accepting Bitcoin.
 
 ---
 

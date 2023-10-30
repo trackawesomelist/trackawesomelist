@@ -10,7 +10,7 @@
 
 ### Plugins / Frameworks
 
-*   [Ember (⭐255)](https://github.com/ember-cli/eslint-plugin-ember) - Linting rules for Ember.
+*   [Ember (⭐256)](https://github.com/ember-cli/eslint-plugin-ember) - Linting rules for Ember.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -64,18 +64,18 @@
 
 ### Demonstrations
 
-*   [Flutter Catalog (⭐1.8k)](https://github.com/X-Wei/flutter_catalog) <!--stargazers:X-Wei/flutter_catalog--> - showcasing Flutter components, with side-by-side source code view, by [X-Wei](https://github.com/X-Wei)
-*   [Generative Art (⭐446)](https://github.com/Solido/flutter-d-art) <!--stargazers:Solido/flutter-d-art--> - Generative Art by [Robert Felker](https://github.com/Solido)
+*   [Flutter Catalog (⭐1.9k)](https://github.com/X-Wei/flutter_catalog) <!--stargazers:X-Wei/flutter_catalog--> - showcasing Flutter components, with side-by-side source code view, by [X-Wei](https://github.com/X-Wei)
+*   [Generative Art (⭐455)](https://github.com/Solido/flutter-d-art) <!--stargazers:Solido/flutter-d-art--> - Generative Art by [Robert Felker](https://github.com/Solido)
 
 ### State management / Standard
 
-*   [RiverPod (⭐3.9k)](https://github.com/rrousselGit/river_pod) <!--stargazers:rrousselGit/river_pod--> - Provider, but different by [Remi Rousselet](https://github.com/rrousselGit)
-*   [GetX (⭐7.9k)](https://github.com/jonataslaw/getx) <!--jonataslaw/getx--> - Contextless, State-management & navigation by [Jonny Borges](https://github.com/jonataslaw)
-*   [Binder (⭐172)](https://github.com/letsar/binder) <!--stargazers:letsar/binder--> -  A lightweight, yet powerful way to bind your application state with your business logic, by [Romain Rastel](https://github.com/letsar).
+*   [RiverPod (⭐4.7k)](https://github.com/rrousselGit/river_pod) <!--stargazers:rrousselGit/river_pod--> - Provider, but different by [Remi Rousselet](https://github.com/rrousselGit)
+*   [GetX (⭐8.8k)](https://github.com/jonataslaw/getx) <!--jonataslaw/getx--> - Contextless, State-management & navigation by [Jonny Borges](https://github.com/jonataslaw)
+*   [Binder (⭐176)](https://github.com/letsar/binder) <!--stargazers:letsar/binder--> -  A lightweight, yet powerful way to bind your application state with your business logic, by [Romain Rastel](https://github.com/letsar).
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [Funvas (⭐468)](https://github.com/creativecreatorormaybenot/funvas) <!--stargazers:creativecreatorormaybenot/funvas--> - Create fun *time based canvas animations* by [creativecreatorormaybenot](https://twitter.com/creativemaybeno).
+*   [Funvas (⭐485)](https://github.com/creativecreatorormaybenot/funvas) <!--stargazers:creativecreatorormaybenot/funvas--> - Create fun *time based canvas animations* by [creativecreatorormaybenot](https://twitter.com/creativemaybeno).
 
 ### Guide & Interviews / Game Engine resources
 
@@ -98,13 +98,13 @@
 
 ### Utils / Other Tools
 
-*   [FastAPI SocketIO (⭐219)](https://github.com/pyropy/fastapi-socketio) - Easy integration for FastAPI and SocketIO.
+*   [FastAPI SocketIO (⭐258)](https://github.com/pyropy/fastapi-socketio) - Easy integration for FastAPI and SocketIO.
 
 ## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Component bundles
 
-*   [PanoramicData Blazor UI Components (⭐49)](https://github.com/panoramicdata/PanoramicData.Blazor) - ![stars](https://img.shields.io/github/stars/panoramicdata/PanoramicData.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/PanoramicData/PanoramicData.Blazor) An open source library of Blazor components including Table, Tree, ToolBar and FileExplorer. [Demo](https://panoramicdata.github.io/PanoramicData.Blazor).
+*   [PanoramicData Blazor UI Components (⭐52)](https://github.com/panoramicdata/PanoramicData.Blazor) - ![stars](https://img.shields.io/github/stars/panoramicdata/PanoramicData.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/PanoramicData/PanoramicData.Blazor) An open source library of Blazor components including Table, Tree, ToolBar and FileExplorer. [Demo](https://panoramicdata.github.io/PanoramicData.Blazor).
 
 ## [10. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
@@ -122,11 +122,11 @@
 
 ### CMS
 
-*   [sensenet](https://sensenet.com) - API-first headless CMS providing enterprise-grade solutions for businesses of all size. The Developer plan provides 3 users, 500 content items, 3 built-in roles, 25+5 content types, fully accessible REST API, document preview generation and Office Online editing.
+*   [sensenet](https://sensenet.com) - API-first headless CMS providing enterprise-grade solutions for businesses of all sizes. The Developer plan provides three users, 500 content items, three built-in roles, 25+5 content types, fully accessible REST API, document preview generation, and Office Online editing.
 
 ### Security and PKI
 
-*   [opswat.com](https://www.opswat.com/) — Security Monitoring of computers, devices, applications, configurations,... Free 25 users and 30 days history users.
+*   [opswat.com](https://www.opswat.com/) — Security Monitoring of computers, devices, applications, configurations, Free 25 users and 30 days history users.
 
 ### Design and UI
 

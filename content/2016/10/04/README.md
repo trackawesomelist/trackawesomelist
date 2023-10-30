@@ -26,27 +26,27 @@
 
 ### Build Tools
 
-*   [rebar3\_auto (⭐48)](https://github.com/vans163/rebar3_auto) - Rebar3 plugin to auto compile and reload on file change.
+*   [rebar3\_auto (⭐49)](https://github.com/vans163/rebar3_auto) - Rebar3 plugin to auto compile and reload on file change.
 
 ### HTTP
 
-*   [river (⭐81)](https://github.com/peburrows/river) - An HTTP/2 client that is lightweight and lightning fast.
+*   [river (⭐82)](https://github.com/peburrows/river) - An HTTP/2 client that is lightweight and lightning fast.
 
 ### Instrumenting / Monitoring
 
-*   [prometheus-plugs (⭐52)](https://github.com/deadtrickster/prometheus-plugs) - Plugs instrumenters/exporter for prometheus.ex.
+*   [prometheus-plugs (⭐53)](https://github.com/deadtrickster/prometheus-plugs) - Plugs instrumenters/exporter for prometheus.ex.
 
 ### Macros
 
-*   [named\_args (⭐28)](https://github.com/mgwidmann/named_args) - Allows named arg style arguments in Elixir.
+*   [named\_args (⭐27)](https://github.com/mgwidmann/named_args) - Allows named arg style arguments in Elixir.
 
 ### Release Management
 
-*   [exrm\_heroku (⭐44)](https://github.com/epsanchezma/exrm-heroku) - Publish your Elixir releases to Heroku with ease.
+*   [exrm\_heroku (⭐45)](https://github.com/epsanchezma/exrm-heroku) - Publish your Elixir releases to Heroku with ease.
 
 ### Third Party APIs
 
-*   [pocketex (⭐6)](https://github.com/essenciary/pocketex) - Pocketex is an Elixir client for the Pocket read later service [getpocket.com](https://getpocket.com/).
+*   [pocketex (⭐7)](https://github.com/essenciary/pocketex) - Pocketex is an Elixir client for the Pocket read later service [getpocket.com](https://getpocket.com/).
 
 ## [4. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
@@ -58,7 +58,7 @@
 
 ### API Builder and Discovery
 
-*   [JSONAPI::Utils (⭐215)](https://github.com/tiagopog/jsonapi-utils) - JSONAPI::Utils is built on top of JSONAPI::Resources taking advantage of its resource-driven style and bringing an easy way to build modern JSON APIs with no or less learning curve.
+*   [JSONAPI::Utils (⭐214)](https://github.com/tiagopog/jsonapi-utils) - JSONAPI::Utils is built on top of JSONAPI::Resources taking advantage of its resource-driven style and bringing an easy way to build modern JSON APIs with no or less learning curve.
 
 ## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -287,11 +287,7 @@
 
 ### CMS & Blogs
 
-*   [giada-www (⭐15)](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](https://www.giadamusic.com/)
-
-### Websites / Tutorials
-
-*   [Tutsplus](https://code.tutsplus.com/categories/phalcon/courses) - Tutsplus Code Courses
+*   [giada-www (⭐13)](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](https://www.giadamusic.com/)
 
 ## [16. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Security / Tools
 
-*   [goss (⭐4.9k)](https://github.com/aelsabbahy/goss)\
+*   [goss (⭐5.2k)](https://github.com/aelsabbahy/goss)\
     Quick and Easy server testing/validation.
 
 ### Security / Links

@@ -62,7 +62,7 @@ Language: English
 
 ### DNS
 
-*   [zilore.com](https://zilore.com/en/dns) — Free DNS hosting, free for 5 domains.
+*   [zilore.com](https://zilore.com/en/dns) — Free DNS hosting for 5 domains.
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -96,7 +96,7 @@ Language: English
 
 ## [10. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### PDF
+### PDF / Text-Based User Interfaces
 
 *   [Eclipse BIRT](https://www.eclipse.org/birt) - Report engine for creating PDF and other formats (DOCX, XLSX, HTML, etc) using Eclipse-based visual editor.
 
@@ -127,10 +127,10 @@ Language: English
 ### 💖 Acknowledgement / Crypto or Blockchain relevant
 
 *   [The Top 125 RSS Open Source Projects](https://awesomeopensource.com/projects/rss)
-*   [![Twitter Follow](https://img.shields.io/twitter/follow/davewiner?label=%40davewiner\&style=social)](https://twitter.com/davewiner) [![Twitter Follow](https://img.shields.io/twitter/follow/RSSCircus?label=%40RSSCircus\&style=social)](https://twitter.com/rsscircus), [![Twitter Follow](https://img.shields.io/twitter/follow/crid?label=%40crid\&style=social)](https://twitter.com/crid) and others who are also focusing on RSS ecosystem.
+*   [![Twitter Follow](https://img.shields.io/twitter/follow/davewiner?label=%40davewiner\&style=social)](https://twitter.com/davewiner), [![Twitter Follow](https://img.shields.io/twitter/follow/RSSCircus?label=%40RSSCircus\&style=social)](https://twitter.com/rsscircus), [![Twitter Follow](https://img.shields.io/twitter/follow/crid?label=%40crid\&style=social)](https://twitter.com/crid), [![Twitter Follow](https://img.shields.io/twitter/follow/liangwenhao3?label=%40liangwenhao3\&style=social)](https://twitter.com/liangwenhao3) and others who are also focusing on RSS ecosystem.
 *   Icons: [SOFTICONS](https://www.softicons.com/) & [Icons8](https://icons8.com)
 
-### Browser Booklet / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Browser Booklet / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Subscribe ZhihuZhuanlan](https://rss.lilydjwg.me/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lilydjwg/morerssplz)
 *   [Subscribe V2EX post comments](https://rss.lilydjwg.me/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lilydjwg/morerssplz)

@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 24, 2014
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -26,9 +26,9 @@
 *   [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/) - Compatibility tables for all ECMAScript 6 features on a variety of environments.
 *   [Traceur compiler (⭐8.2k)](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
 
-### Podcasts / Other
+### Misc / Other
 
-*   [addyosmani/es6-tools (⭐3.9k)](https://github.com/addyosmani/es6-tools)
+*   [addyosmani/es6-tools (⭐4k)](https://github.com/addyosmani/es6-tools)
 *   [ericdouglas/ES6-Learning (⭐4.6k)](https://github.com/ericdouglas/ES6-Learning)
 
 ## [3. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
@@ -41,6 +41,12 @@
 ### Code Review
 
 *   [Codebrag](http://www.codebrag.com/)  Codebrag is a simple code review tool that makes the process work for your team.
+
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Ruby / Tornado
+
+*   [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
 
 ---
 

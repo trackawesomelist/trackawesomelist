@@ -26,7 +26,7 @@
 
 ### Bindings
 
-*   [SharpVk (⭐140)](https://github.com/FacticiusVir/SharpVk) - C# bindings for Vulkan with Linq-to-SPIR-V & [NuGet package](https://www.nuget.org/packages/SharpVk). \[MIT]
+*   [SharpVk (⭐142)](https://github.com/FacticiusVir/SharpVk) - C# bindings for Vulkan with Linq-to-SPIR-V & [NuGet package](https://www.nuget.org/packages/SharpVk). \[MIT]
 
 ## [4. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
@@ -57,10 +57,10 @@
 ### Tools / Other
 
 *   [Paros](http://sourceforge.net/projects/paros/) - A Java-based HTTP/HTTPS proxy for assessing web application vulnerability
-*   [mitmsocks4j (⭐28)](https://github.com/Akdeniz/mitmsocks4j) - Man-in-the-middle SOCKS Proxy for Java
-*   [sleuthkit (⭐2.1k)](https://github.com/sleuthkit/sleuthkit) - A library and collection of command-line digital forensics tools
+*   [mitmsocks4j (⭐30)](https://github.com/Akdeniz/mitmsocks4j) - Man-in-the-middle SOCKS Proxy for Java
+*   [sleuthkit (⭐2.4k)](https://github.com/sleuthkit/sleuthkit) - A library and collection of command-line digital forensics tools
 *   [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx) - The shared technology within a suite of digital investigations products by Guidance Software
-*   [xortool (⭐1.2k)](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher
+*   [xortool (⭐1.3k)](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher
 
 ## [9. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 

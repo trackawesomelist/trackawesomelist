@@ -34,7 +34,7 @@
 
 ### Starter Kits / Workflow
 
-*   [aspnetcore-spa generator (⭐3.1k)](https://github.com/aspnet/JavaScriptServices) - Yeoman generator to build a brand-new ASP.NET Core single page application that uses Angular 2 / React / React With Redux / Knockout / Aurelia on the client.
+*   [aspnetcore-spa generator (⭐3k)](https://github.com/aspnet/JavaScriptServices) - Yeoman generator to build a brand-new ASP.NET Core single page application that uses Angular 2 / React / React With Redux / Knockout / Aurelia on the client.
 
 ## [4. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 

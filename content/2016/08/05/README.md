@@ -73,7 +73,7 @@
 
 ### Packages / Weird
 
-*   [nerds (⭐102)](https://github.com/SkyHacks/nerds) - Get data from nerdy topics like Harry Potter, Star Wars, and Pokémon.
+*   [nerds (⭐106)](https://github.com/SkyHacks/nerds) - Get data from nerdy topics like Harry Potter, Star Wars, and Pokémon.
 
 ## [4. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Documentation / Symfony2
 
-*   [ReDoc (⭐20k)](https://github.com/Rebilly/ReDoc/) - OpenAPI/Swagger-powered three-panel documentation.
+*   [ReDoc (⭐21k)](https://github.com/Rebilly/ReDoc/) - OpenAPI/Swagger-powered three-panel documentation.
 
 ## [7. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
@@ -103,7 +103,7 @@
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [preact (⭐34k)](https://github.com/developit/preact) - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
+*   [preact (⭐35k)](https://github.com/developit/preact) - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 
 ## [9. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -115,11 +115,11 @@
 
 ### Elixir / General-Purpose Machine Learning
 
-*   [Simple Bayes (⭐388)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
+*   [Simple Bayes (⭐391)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
 
 ### Elixir / Natural Language Processing
 
-*   [Stemmer (⭐145)](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
+*   [Stemmer (⭐148)](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
 
 ## [11. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
@@ -137,7 +137,7 @@
 
 ### Scripts / YouTube
 
-*   [YouTube Subtitle Download (⭐671)](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
+*   [YouTube Subtitle Download (⭐679)](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
 
 ---
 

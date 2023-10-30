@@ -56,13 +56,13 @@
 
 ### Core Extensions
 
-*   [Finishing Moves (⭐199)](https://github.com/forgecrafted/finishing_moves) - Small, focused, incredibly useful methods added to core Ruby classes. Includes the endlessly useful `nil_chain`.
+*   [Finishing Moves (⭐202)](https://github.com/forgecrafted/finishing_moves) - Small, focused, incredibly useful methods added to core Ruby classes. Includes the endlessly useful `nil_chain`.
 
 ## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UI / Barcode
 
-*   [FlagKit (⭐2.9k)](https://github.com/madebybowtie/FlagKit) - Beautiful flag icons for usage in apps and on the web.
+*   [FlagKit (⭐3k)](https://github.com/madebybowtie/FlagKit) - Beautiful flag icons for usage in apps and on the web.
 
 ## [10. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
@@ -83,7 +83,7 @@
 
 *   [Official Guide](http://vuejs.org/guide/)
 *   [API Reference](http://vuejs.org/api/)
-*   [Release Notes (⭐204k)](https://github.com/vuejs/vue/releases)
+*   [Release Notes (⭐206k)](https://github.com/vuejs/vue/releases)
 
 ### Resources / Community
 
@@ -92,7 +92,7 @@
 
 ### Resources / Official Examples
 
-*   [Vue.js TodoMVC (⭐204k)](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
+*   [Vue.js TodoMVC (⭐206k)](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
 
 ---
 

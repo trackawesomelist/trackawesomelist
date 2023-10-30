@@ -23,11 +23,11 @@
 
 ### Images / Barcode
 
-*   [DTPhotoViewerController (⭐277)](https://github.com/tungvoduc/DTPhotoViewerController) - A fully customizable photo viewer ViewController to display single photo or collection of photos, inspired by Facebook photo viewer.
+*   [DTPhotoViewerController (⭐280)](https://github.com/tungvoduc/DTPhotoViewerController) - A fully customizable photo viewer ViewController to display single photo or collection of photos, inspired by Facebook photo viewer.
 
 ### Cryptography / Barcode
 
-*   [Siphash (⭐264)](https://github.com/attaswift/SipHash) - Simple and secure hashing with the SipHash algorithm.
+*   [Siphash (⭐262)](https://github.com/attaswift/SipHash) - Simple and secure hashing with the SipHash algorithm.
 
 ### Mock / Barcode
 
@@ -43,7 +43,7 @@
 
 ### Markdown/Text Processors
 
-*   [markd (⭐102)](https://github.com/icyleaf/markd) - Yet another markdown parser built for speed, Compliant to CommonMark specification
+*   [markd (⭐105)](https://github.com/icyleaf/markd) - Yet another markdown parser built for speed, Compliant to CommonMark specification
 
 ## [6. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 
@@ -100,23 +100,23 @@
 
 ### Packages / Testing
 
-*   [abstruse (⭐885)](https://github.com/bleenco/abstruse) - Continuous Integration server.
+*   [abstruse (⭐898)](https://github.com/bleenco/abstruse) - Continuous Integration server.
 
 ## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [FluentFTP (⭐2.3k)](https://github.com/robinrodricks/FluentFTP/) - FTP and FTPS client, with extensive FTP commands, SSL/TLS connections, hashing/checksums and more.
+*   [FluentFTP (⭐2.7k)](https://github.com/robinrodricks/FluentFTP/) - FTP and FTPS client, with extensive FTP commands, SSL/TLS connections, hashing/checksums and more.
 
 ### Frameworks, Libraries and Tools / Query Builders
 
-*   [SqlKata (⭐2.5k)](https://github.com/sqlkata/querybuilder) - Elegant Sql Query Builder, that supports complex queries, joins, sub queries, nested where conditions, vendor engine targets and more
+*   [SqlKata (⭐2.8k)](https://github.com/sqlkata/querybuilder) - Elegant Sql Query Builder, that supports complex queries, joins, sub queries, nested where conditions, vendor engine targets and more
 
 ## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Protocols
 
-*   [FluentFTP (⭐2.5k)](https://github.com/robinrodricks/FluentFTP) - An FTP and FTPS library for .NET, optimized for speed. Provides extensive FTP commands, file uploads/downloads and FTP proxies.
+*   [FluentFTP (⭐2.7k)](https://github.com/robinrodricks/FluentFTP) - An FTP and FTPS library for .NET, optimized for speed. Provides extensive FTP commands, file uploads/downloads and FTP proxies.
 
 ## [10. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
 
@@ -128,7 +128,7 @@
 
 ### Open Source / Other
 
-*   [Tusk (⭐3.1k)](https://github.com/champloohq/tusk) - Unofficial Evernote app.
+*   [Tusk (⭐3.2k)](https://github.com/champloohq/tusk) - Unofficial Evernote app.
 
 ### Articles / Other
 

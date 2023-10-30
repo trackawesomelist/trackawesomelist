@@ -28,7 +28,7 @@
 
 ### Tools
 
-*   [Stagehand (⭐669)](https://github.com/dart-lang/stagehand) - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
+*   [Stagehand (⭐660)](https://github.com/dart-lang/stagehand) - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
 
 ## [5. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 
@@ -49,7 +49,7 @@
 
 *   [Anastasia Marchenkova](https://www.youtube.com/channel/UCzaYH6WeohiHKj3Ih_GdZdQ) - Youtube channel focusing on quantum computing topics and general technology.
 *   [Coding with Qiskit video series](https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY) - YouTube video series showing how to write quantum algorithms.
-*   [Quantum Computation and Information at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz) - A series of lectures on quantum computing by [Professor O'Donnell at CMU](https://www.cs.cmu.edu/\~odonnell/quantum18/).
+*   [Quantum Computation and Information at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz) - A series of lectures on quantum computing by [Professor O'Donnell at CMU](https://www.cs.cmu.edu/~odonnell/quantum18/).
 
 ---
 

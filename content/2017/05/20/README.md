@@ -16,7 +16,7 @@
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [Weapsy](https://github.com/Weapsy/Weapsy) - Open source ASP.NET Core CMS based on DDD and CQRS. It supports MSSQL, MySQL, SQLite and PostgreSQL out of the box.
+*   [Weapsy (⭐4)](https://github.com/Weapsy/Weapsy) - Open source ASP.NET Core CMS based on DDD and CQRS. It supports MSSQL, MySQL, SQLite and PostgreSQL out of the box.
 
 ### Community / Workflow
 
@@ -42,9 +42,9 @@
 
 ### TypeScript Seed Projects / Components
 
-*   [Angular 2 Starter (⭐526)](https://github.com/antonybudianto/angular-starter) - Simple Angular 2 Starter with Gulp workflow and Travis CI
-*   [Angular 2 Leaflet Starter (⭐211)](https://github.com/haoliangyu/ngx-leaflet-starter) - A map application starter based on Angular 2 and Leaflet
-*   [Angular 2 MapboxGL Starter (⭐52)](https://github.com/haoliangyu/ngx-mapboxgl-starter) - Another map application starter based on Angular 2 and MapboxGL JS
+*   [Angular 2 Starter (⭐525)](https://github.com/antonybudianto/angular-starter) - Simple Angular 2 Starter with Gulp workflow and Travis CI
+*   [Angular 2 Leaflet Starter (⭐209)](https://github.com/haoliangyu/ngx-leaflet-starter) - A map application starter based on Angular 2 and Leaflet
+*   [Angular 2 MapboxGL Starter (⭐50)](https://github.com/haoliangyu/ngx-mapboxgl-starter) - Another map application starter based on Angular 2 and MapboxGL JS
 
 ### Babel Demo, Samples, and Examples / Components
 
@@ -68,7 +68,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Dockeron (⭐789)](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop.
+*   [Dockeron (⭐793)](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop.
 
 ## [7. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -82,9 +82,9 @@
 ### Github Libraries / Randomized Algorithms
 
 *   C#
-    *   [by @shkolovy (⭐26)](https://github.com/shkolovy/classic-algorithms)
-    *   [by @aalhour (⭐5.4k)](https://github.com/aalhour/C-Sharp-Algorithms)
-    *   [by @justcoding121 (⭐1.1k)](https://github.com/justcoding121/Advanced-Algorithms)
+    *   [by @shkolovy (⭐28)](https://github.com/shkolovy/classic-algorithms)
+    *   [by @aalhour (⭐5.6k)](https://github.com/aalhour/C-Sharp-Algorithms)
+    *   [by @justcoding121 (⭐1.2k)](https://github.com/justcoding121/Advanced-Algorithms)
 
 ---
 

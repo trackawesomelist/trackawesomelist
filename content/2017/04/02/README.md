@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 02, 2017
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -114,7 +114,7 @@
 *   [Ray marching (with THREE.js)](http://barradeau.com/blog/?p=575) - Article about ray marching with three.js by @nicoptere.
 *   [Custom shaders with Three.JS](https://csantosbh.wordpress.com/2014/01/09/custom-shaders-with-three-js-uniforms-textures-and-lighting/) - Introduction to custom shaders, uniforms, textures and lighting in three.js.
 *   [An intro to modern OpenGL](http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Chapter-1:-The-Graphics-Pipeline.html) - First part of an introduction to modern OpenGL.
-*   [Modern OpenGL Series (⭐809)](https://github.com/tomdalling/opengl-series) - Good introduction to some of the OpenGL terms.
+*   [Modern OpenGL Series (⭐811)](https://github.com/tomdalling/opengl-series) - Good introduction to some of the OpenGL terms.
 *   [Smooth minimum](http://iquilezles.org/www/articles/smin/smin.htm) - Article about the smooth based primitive union.
 *   [Modeling with distance functions](http://iquilezles.org/www/articles/distfunctions/distfunctions.htm) - Collection of distance functions in one centralized place.
 *   [Volumetric rendering](http://www.alanzucconi.com/2016/07/01/volumetric-rendering/) - Explains how to create complex 3D shapes inside volumetric shaders.
@@ -200,25 +200,31 @@
 ### Related / Other
 
 *   [Awesome webgl (⭐1.2k)](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more.
-*   [Awesome visualization research (⭐886)](https://github.com/mathisonian/awesome-visualization-research) - Curated list of recommended research papers and other readings on data visualization.
-*   [Awesome graphics (⭐969)](https://github.com/ericjang/awesome-graphics) - Curated list of computer graphics tutorials and resources.
+*   [Awesome visualization research (⭐891)](https://github.com/mathisonian/awesome-visualization-research) - Curated list of recommended research papers and other readings on data visualization.
+*   [Awesome graphics (⭐985)](https://github.com/ericjang/awesome-graphics) - Curated list of computer graphics tutorials and resources.
 *   [Graphics resources (⭐1.7k)](https://github.com/mattdesl/graphics-resources) - Curated list of graphic programming resources.
-*   [Magic tools (⭐11k)](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen.
+*   [Magic tools (⭐12k)](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen.
 *   [Hanecci’s link collection](http://d.hatena.ne.jp/hanecci/20131005/p1) - Link collection of ray marching on the GPU.
-*   [Awesome public datasets (⭐54k)](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources.
+*   [Awesome public datasets (⭐55k)](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources.
 *   [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) - Curated list from 2013.
 
-## [2. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
+## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Python / Django
+
+*   [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.10.x/django.pdf) (PDF) (1.10)
+
+## [3. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
 ### Community / Particles
 
 *   [Public Mailing List](https://www.khronos.org/webgl/public-mailing-list/)
 
-## [3. Awesome Opengl](/content/eug/awesome-opengl/README.md)
+## [4. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 
 ### Articles
 
-*   [(2014) Ray tracing with OpenGL Compute Shaders (⭐395)](https://github.com/LWJGL/lwjgl3-wiki/wiki/2.6.1.-Ray-tracing-with-OpenGL-Compute-Shaders-%28Part-I%29) by **Kai Burjack** - Detailed tutorial series about ray tracing using OpenGL (LWJGL).
+*   [(2014) Ray tracing with OpenGL Compute Shaders (⭐419)](https://github.com/LWJGL/lwjgl3-wiki/wiki/2.6.1.-Ray-tracing-with-OpenGL-Compute-Shaders-%28Part-I%29) by **Kai Burjack** - Detailed tutorial series about ray tracing using OpenGL (LWJGL).
 *   [(2014) Things that drive me nuts about OpenGL](http://richg42.blogspot.com.au/2014/05/things-that-drive-me-nuts-about-opengl.html) by **Rich Geldreich** - Constructive (or not) criticism of GL API.
 *   [(2010) What is OpenGL?](http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Chapter-1:-The-Graphics-Pipeline.html) by **Joe Groff** - Brief introduction to the building blocks of OpenGL.
 
@@ -234,19 +240,19 @@
 ### Debug
 
 *   [GL-SL Debugger](http://glsl-debugger.github.io) - Tool for debugging OpenGL programs.
-*   [GLIntercept (⭐454)](https://github.com/dtrebilco/glintercept) - OpenGL function call interceptor for Windows.
+*   [GLIntercept (⭐481)](https://github.com/dtrebilco/glintercept) - OpenGL function call interceptor for Windows.
 *   [NVIDIA® Nsight™](https://developer.nvidia.com/nvidia-nsight-visual-studio-edition) - Development platform for graphics applications.
 
 ### GLSL Editors
 
-*   [GLSLbin](http://glslb.in) - Fragment shader sandbox supporting [glslify (⭐2k)](https://github.com/stackgl/glslify).
+*   [GLSLbin](http://glslb.in) - Fragment shader sandbox supporting [glslify (⭐2.1k)](https://github.com/stackgl/glslify).
 
 ### Libraries
 
 *   [freeGLUT](http://freeglut.sourceforge.net) - Mature library that allows to create/manage windows containing OpenGL contexts.
 *   [GLFW](http://www.glfw.org) - Modern library for creating/interact windows with OpenGL contexts.
 *   [glm](http://glm.g-truc.net/0.9.6/index.html) - Mathematics library for graphics software based on the GLSL specifications.
-*   [Magnum (⭐4.2k)](https://github.com/mosra/magnum) - It is a 2D/3D graphics engine for modern OpenGL.
+*   [Magnum (⭐4.5k)](https://github.com/mosra/magnum) - It is a 2D/3D graphics engine for modern OpenGL.
 *   [MathFu](http://google.github.io/mathfu/) - C++ math library developed primarily for games focused on simplicity and efficiency.
 *   [Newton](http://newtondynamics.com/forum/newton.php) - It is a cross-platform life-like physics.
 *   [OGLplus](http://oglplus.org) - Collection of libraries which implement an object-oriented facade over OpenGL.
@@ -256,9 +262,9 @@
 
 ### Profile Loaders
 
-*   [gl3w (⭐636)](https://github.com/skaslev/gl3w) - Simple OpenGL core profile loader.
-*   [glad (⭐2.7k)](https://github.com/Dav1dde/glad) - Multi profile loader-generator based on the official specs.
-*   [glbinding (⭐750)](https://github.com/cginternals/glbinding) - Profile loader leveraging C++11 features to provide type safety.
+*   [gl3w (⭐666)](https://github.com/skaslev/gl3w) - Simple OpenGL core profile loader.
+*   [glad (⭐3.2k)](https://github.com/Dav1dde/glad) - Multi profile loader-generator based on the official specs.
+*   [glbinding (⭐791)](https://github.com/cginternals/glbinding) - Profile loader leveraging C++11 features to provide type safety.
 *   [GLEW](http://glew.sourceforge.net) - Mature cross-platform library to load OpenGL extensions.
 
 ### References

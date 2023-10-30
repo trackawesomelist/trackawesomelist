@@ -10,10 +10,10 @@
 
 ### Themes
 
-*   [tmux-base16-statusline (⭐27)](https://github.com/jatap/tmux-base16-statusline) Statusline based on [base16-shell (⭐56)](https://github.com/chriskempson/base16-shell)
-*   [tmux-colors-solarized (⭐1k)](https://github.com/seebi/tmux-colors-solarized) A color theme for the tmux terminal multiplexer using Ethan Schoonover’s Solarized color scheme
-*   [tmux-themepack (⭐1.5k)](https://github.com/jimeh/tmux-themepack) Various themes for tmux
-*   [tomorrow (⭐35)](https://github.com/edouard-lopez/tmux-tomorrow/): 5 flavors of Tomorrow theme based on specifications from [Tomorrow Theme (⭐13k)](https://github.com/chriskempson/tomorrow-theme) (*i.e.* *dark*/*blue* and *light*).
+*   [tmux-base16-statusline (⭐26)](https://github.com/jatap/tmux-base16-statusline) Statusline based on [base16-shell (⭐87)](https://github.com/chriskempson/base16-shell)
+*   [tmux-colors-solarized (⭐1.1k)](https://github.com/seebi/tmux-colors-solarized) A color theme for the tmux terminal multiplexer using Ethan Schoonover’s Solarized color scheme
+*   [tmux-themepack (⭐1.6k)](https://github.com/jimeh/tmux-themepack) Various themes for tmux
+*   [tomorrow (⭐38)](https://github.com/edouard-lopez/tmux-tomorrow/): 5 flavors of Tomorrow theme based on specifications from [Tomorrow Theme (⭐14k)](https://github.com/chriskempson/tomorrow-theme) (*i.e.* *dark*/*blue* and *light*).
 
 ## [2. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
 
@@ -25,7 +25,7 @@
 
 ### UI
 
-*   [Folding Cell (⭐509)](https://github.com/faob-dev/folding_cell) <!--stargazers:faob-dev/folding_cell--> - Fold your widget by [Faob](https://github.com/faob-dev)
+*   [Folding Cell (⭐537)](https://github.com/faob-dev/folding_cell) <!--stargazers:faob-dev/folding_cell--> - Fold your widget by [Faob](https://github.com/faob-dev)
 
 ## [4. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -56,17 +56,17 @@
 
 ### General
 
-*   [Clean Code .NET/.NET Core (⭐5.5k)](https://github.com/thangchung/clean-code-dotnet) - Clean Code concepts adapted for .NET / .NET Core.
+*   [Clean Code .NET/.NET Core (⭐6.4k)](https://github.com/thangchung/clean-code-dotnet) - Clean Code concepts adapted for .NET / .NET Core.
 
 ### Starter Kits / Workflow
 
-*   [Nucleus (⭐341)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
+*   [Nucleus (⭐349)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Eclipse / Third-party APIs
 
-*   [Dandelion (⭐28)](https://github.com/Ragnaroek/dandelion) - a Common Lisp plugin for the Eclipse IDE.
+*   [Dandelion (⭐32)](https://github.com/Ragnaroek/dandelion) - a Common Lisp plugin for the Eclipse IDE.
 
 ## [8. Amas](/content/sindresorhus/amas/README.md)
 

@@ -10,7 +10,7 @@
 
 ### DNS
 
-*   [namecheap.com](https://www.namecheap.com/domains/freedns/) — Free DNS. No limit on number of domains
+*   [namecheap.com](https://www.namecheap.com/domains/freedns/) — Free DNS. No limit on the number of domains
 
 ## [2. Awesome Imba](/content/koolamusic/awesome-imba/README.md)
 
@@ -22,7 +22,7 @@
 
 ### UI Layout / Syntax Highlight
 
-*   [react-spaces (⭐1.1k)](https://github.com/aeagle/react-spaces) - [demo/docs](https://www.allaneagle.com/react-spaces/demo/) - Nestable anchored, resizable, scrollable components.
+*   [react-spaces (⭐1.2k)](https://github.com/aeagle/react-spaces) - [demo/docs](https://www.allaneagle.com/react-spaces/demo/) - Nestable anchored, resizable, scrollable components.
 
 ## [4. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -35,8 +35,8 @@
 ### macOS-based defenses / Overlay and Virtual Private Networks (VPNs)
 
 *   [LuLu](https://objective-see.com/products/lulu.html) - Free macOS firewall.
-*   [Stronghold (⭐987)](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
-*   [macOS Fortress (⭐380)](https://github.com/essandess/macOS-Fortress) - Automated configuration of kernel-level, OS-level, and client-level security features including privatizing proxying and anti-virus scanning for macOS.
+*   [Stronghold (⭐1k)](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
+*   [macOS Fortress (⭐395)](https://github.com/essandess/macOS-Fortress) - Automated configuration of kernel-level, OS-level, and client-level security features including privatizing proxying and anti-virus scanning for macOS.
 
 ## [6. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 

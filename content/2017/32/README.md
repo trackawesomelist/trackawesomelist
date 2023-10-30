@@ -10,7 +10,7 @@
 
 ### Boilerplates / Themes
 
-*   [CRA-TS-Antd (⭐108)](https://github.com/comerc/cra-ts-antd) - Create-React-App + TypeScript + Ant-Design (without Eject).
+*   [CRA-TS-Antd (⭐112)](https://github.com/comerc/cra-ts-antd) - Create-React-App + TypeScript + Ant-Design (without Eject).
 
 ## [2. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
 
@@ -72,13 +72,13 @@
 
 ### Linters / More
 
-*   [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier (⭐4.5k)](https://github.com/prettier/prettier-vscode).
+*   [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier (⭐4.8k)](https://github.com/prettier/prettier-vscode).
 
 ## [4. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Testing
 
-*   [microtest (⭐31)](https://github.com/Ragmaanir/microtest) - Small opinionated testing library focusing on power asserts
+*   [microtest (⭐30)](https://github.com/Ragmaanir/microtest) - Small opinionated testing library focusing on power asserts
 
 ## [5. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 
@@ -186,7 +186,7 @@ Webpage: <http://www.26grados.com/>
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [Tossit (⭐61)](https://github.com/turgayozgur/tossit) - Simple, easy to use library for distributed job/worker logic. Distributed messages handled by built in RabbitMQ implementation.
+*   [Tossit (⭐63)](https://github.com/turgayozgur/tossit) - Simple, easy to use library for distributed job/worker logic. Distributed messages handled by built in RabbitMQ implementation.
 
 ## [15. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
 
@@ -330,7 +330,7 @@ Webpage: <http://www.26grados.com/>
 
 ### Python / General-Purpose Machine Learning
 
-*   [PyTorch (⭐66k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+*   [PyTorch (⭐71k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## [27. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
@@ -380,11 +380,11 @@ git push -u origin <branch_name>
 
 ### Device
 
-*   [UIDeviceComplete (⭐411)](https://github.com/Nirma/UIDeviceComplete) - UIDevice extensions that fill in the missing pieces.
+*   [UIDeviceComplete (⭐414)](https://github.com/Nirma/UIDeviceComplete) - UIDevice extensions that fill in the missing pieces.
 
 ### Tab / Barcode
 
-*   [HHTabBarView (⭐144)](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tab bar view.
+*   [HHTabBarView (⭐149)](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tab bar view.
 
 ## [33. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -434,8 +434,8 @@ git push -u origin <branch_name>
 
 ### Web / Playground
 
-*   :octocat: [excaliburjs/Excalibur (⭐1.3k)](https://github.com/excaliburjs/Excalibur) - Free open source JavaScript game engine
-*   :octocat: [Bobril (⭐360)](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: <http://bobril.com/>)
+*   :octocat: [excaliburjs/Excalibur (⭐1.4k)](https://github.com/excaliburjs/Excalibur) - Free open source JavaScript game engine
+*   :octocat: [Bobril (⭐362)](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: <http://bobril.com/>)
 
 ### :dollar: Paid Courses / Chrome Extensions
 
@@ -475,30 +475,30 @@ git push -u origin <branch_name>
 
 ### Science and Data Analysis
 
-*   [sparklling (⭐436)](https://github.com/gorillalabs/sparkling)
+*   [sparklling (⭐437)](https://github.com/gorillalabs/sparkling)
 *   [flambo (⭐609)](https://github.com/yieldbot/flambo)
 
 ## [41. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### UI Automation
 
-*   [Atata (⭐463)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
+*   [Atata (⭐470)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
 
 ## [42. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Samples
 
-*   [Laugh Engine (⭐383)](https://github.com/jian-ru/laugh_engine) - Vulkan implementation of real-time PBR renderer.
-*   [TLVulkanRenderer (⭐91)](https://github.com/trungtle/TLVulkanRenderer) - Simple Vulkan-based renderer for my master thesis on real-time transparency. \[CC BY-SA 4.0]
-*   [Vulkan-Hpp Samples (⭐306)](https://github.com/jherico/Vulkan) - Fork of Sascha Willems excellent Vulkan examples that uses Vulkan-Hpp.
+*   [Laugh Engine (⭐387)](https://github.com/jian-ru/laugh_engine) - Vulkan implementation of real-time PBR renderer.
+*   [TLVulkanRenderer (⭐94)](https://github.com/trungtle/TLVulkanRenderer) - Simple Vulkan-based renderer for my master thesis on real-time transparency. \[CC BY-SA 4.0]
+*   [Vulkan-Hpp Samples (⭐316)](https://github.com/jherico/Vulkan) - Fork of Sascha Willems excellent Vulkan examples that uses Vulkan-Hpp.
 
 ### Related lists
 
-*   [awesome (⭐243k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
-*   [awesome-opengl (⭐1.8k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
-*   [gamedev (⭐11k)](https://github.com/ellisonleao/magictools) - Awesome list about game development.
+*   [awesome (⭐266k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
+*   [awesome-opengl (⭐1.9k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
+*   [gamedev (⭐12k)](https://github.com/ellisonleao/magictools) - Awesome list about game development.
 *   [graphics-resources (⭐1.7k)](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
-*   [awesome-d3d12 (⭐197)](https://github.com/vinjn/awesome-d3d12) - Curated list of awesome D3D12 libraries, debuggers and resources.
+*   [awesome-d3d12 (⭐213)](https://github.com/vinjn/awesome-d3d12) - Curated list of awesome D3D12 libraries, debuggers and resources.
 
 ## [43. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 

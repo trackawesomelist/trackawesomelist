@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 05, 2018
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -28,7 +28,7 @@
 
 ### Utility / Collection View Layout
 
-*   [MKUnits (⭐343)](https://github.com/michalkonturek/MKUnits) - Unit conversion library for Swift.
+*   [MKUnits (⭐342)](https://github.com/michalkonturek/MKUnits) - Unit conversion library for Swift.
 
 ## [5. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
 
@@ -70,39 +70,33 @@
 
 *   [cpp-boilerplate (⭐271)](https://github.com/Lectem/cpp-boilerplate) - Template that aims to be a reference for modern CMake and CI. [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
-
-### Social Media Tools / VKontakte
-
-*   [Snradar](http://snradar.azurewebsites.net) - Search pictures by time and location they were taken
-
-## [8. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [7. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Debugging
 
 *   [packed-printer (⭐36)](https://github.com/cgrand/packed-printer)
 
-## [9. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [8. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Researchers / Frameworks
 
 *   [Coach - Reinforcement Learning Coach by Intel® AI Lab (⭐2.2k)](https://github.com/NervanaSystems/coach)
 
-## [10. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [9. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### API Gateway / Symfony2
 
-*   [Kong (⭐34k)](https://github.com/Kong/kong) - Scalable, distributed, and plugin oriented API gateway backed by Nginx.
-*   [Tyk API Gateway (⭐8.1k)](https://github.com/TykTechnologies/tyk) - Lightweight API gateway with analytics logging, written in Go.
+*   [Kong (⭐35k)](https://github.com/Kong/kong) - Scalable, distributed, and plugin oriented API gateway backed by Nginx.
+*   [Tyk API Gateway (⭐8.7k)](https://github.com/TykTechnologies/tyk) - Lightweight API gateway with analytics logging, written in Go.
 *   [API Umbrella (⭐1.9k)](https://github.com/NREL/api-umbrella) - API management platform for exposing web services, with web interface and analytics, written in Lua.
 
-## [11. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [10. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Development Tools
 
-*   [Quipper](https://www.mathstat.dal.ca/\~selinger/quipper/) - Embedded, scalable, functional programming language for quantum computing.
+*   [Quipper](https://www.mathstat.dal.ca/~selinger/quipper/) - Embedded, scalable, functional programming language for quantum computing.
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Books
 
@@ -110,7 +104,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Pomotroid (⭐3.3k)](https://github.com/Splode/pomotroid) - Simple, visually-pleasing and customizable Pomodoro timer.
+*   [Pomotroid (⭐3.7k)](https://github.com/Splode/pomotroid) - Simple, visually-pleasing and customizable Pomodoro timer.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 15, 2019
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -81,21 +81,15 @@
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
-*   [Okta (⭐60)](https://github.com/okta/okta-aspnet) - Hosted, enterprise-grade platform for modern identity.
+*   [Okta (⭐70)](https://github.com/okta/okta-aspnet) - Hosted, enterprise-grade platform for modern identity.
 
-## [9. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
-
-### Apps
-
-*   [IPSE](https://www.ipse.io/) - A search engine for the IPFS network.
-
-## [10. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [9. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Microservices
 
 *   [Apache ServiceComb Java Chassis (⭐1.9k)](https://github.com/apache/servicecomb-java-chassis) - ServiceComb Java Chassis is a Software Development Kit (SDK) for rapid development of microservices in Java, providing service registration, service discovery, dynamic routing, and service management features.
 
-## [11. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+## [10. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 
 ### Microprocessors and Microcontrollers
 
@@ -130,13 +124,13 @@ Language: English
 Notable Channels: `#programming`, `#hardware-help`, `#software-help`,`#code-review`, `#project-showcase`, `#audio-tech`, `#retro-tech` \
 Language: English
 
-## [12. Awesome Product Management](/content/dend/awesome-product-management/README.md)
+## [11. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Additional resources / Screeb
+### Additional resources / Obsidian
 
 *   [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
 
-## [13. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
+## [12. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
 
 ### Integrations / Transactions
 

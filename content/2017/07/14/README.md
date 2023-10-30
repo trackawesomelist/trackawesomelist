@@ -10,7 +10,7 @@
 
 ### Audio Related Packages / Speech Processing
 
-*   [PyWorldVocoder (⭐608)](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder) [:octocat: (⭐608)](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder) - Wrapper for Morise's World Vocoder.
+*   [PyWorldVocoder (⭐639)](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder) [:octocat: (⭐639)](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder) - Wrapper for Morise's World Vocoder.
 
 ## [2. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Third-party APIs
 
-*   [awscr-s3 (⭐82)](https://github.com/taylorfinnell/awscr-s3) - AWS S3 interface
+*   [awscr-s3 (⭐81)](https://github.com/taylorfinnell/awscr-s3) - AWS S3 interface
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -59,22 +59,22 @@
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [LDA.js (⭐281)](https://github.com/primaryobjects/lda) - LDA topic modelling for Node.js
-*   [Node-SVM (⭐295)](https://github.com/nicolaspanel/node-svm) - Support Vector Machine for Node.js
+*   [LDA.js (⭐283)](https://github.com/primaryobjects/lda) - LDA topic modelling for Node.js
+*   [Node-SVM (⭐296)](https://github.com/nicolaspanel/node-svm) - Support Vector Machine for Node.js
 
 ### JavaScript / Misc
 
-*   [simple-statistics (⭐2.9k)](https://github.com/simple-statistics/simple-statistics) - A JavaScript implementation of descriptive, regression, and inference statistics. Implemented in literate JavaScript with no dependencies, designed to work in all modern browsers (including IE) as well as in Node.js.
+*   [simple-statistics (⭐3.3k)](https://github.com/simple-statistics/simple-statistics) - A JavaScript implementation of descriptive, regression, and inference statistics. Implemented in literate JavaScript with no dependencies, designed to work in all modern browsers (including IE) as well as in Node.js.
 
 ### Matlab / General-Purpose Machine Learning
 
-*   [Machine Learning Module (⭐448)](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF, lectures, code
+*   [Machine Learning Module (⭐455)](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF, lectures, code
 
 ## [7. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Standalone / Hash functions
 
-*   [Nipe (⭐1.5k)](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
+*   [Nipe (⭐1.6k)](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
 
 ## [8. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 

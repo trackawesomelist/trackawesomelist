@@ -8,10 +8,6 @@
 
 ## [1. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
-### Actors
-
-*   [dflow (⭐13)](https://github.com/dalmatinerdb/dflow) - Pipelined flow processing engine.
-
 ### Third Party APIs
 
 *   [dublin\_bus\_api (⭐1)](https://github.com/carlo-colombo/dublin-bus-api) - Access to the Real Time Passenger Information (RTPI) for Dublin Bus services.
@@ -50,7 +46,7 @@
 
 ### Modules / Stream
 
-*   [pump (⭐880)](https://github.com/mafintosh/pump) - pipe streams together and close all of them if one of them closes.
+*   [pump (⭐895)](https://github.com/mafintosh/pump) - pipe streams together and close all of them if one of them closes.
 
 ## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -58,11 +54,11 @@
 
 *   [crystalline (⭐127)](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
 *   [multiset.cr (⭐4)](https://github.com/tcrouch/multiset.cr) - Implementation of a multiset
-*   [radix (⭐102)](https://github.com/luislavena/radix) - Radix Tree implementation
+*   [radix (⭐101)](https://github.com/luislavena/radix) - Radix Tree implementation
 
 ### HTTP
 
-*   [http2 (⭐90)](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
+*   [http2 (⭐92)](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
 
 ### Template Engine
 

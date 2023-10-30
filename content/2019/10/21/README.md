@@ -28,7 +28,7 @@
 
 ### Form Logic / Mouse Events
 
-*   [react-final-form (⭐7.2k)](https://github.com/final-form/react-final-form) - Subscription-based form state management
+*   [react-final-form (⭐7.3k)](https://github.com/final-form/react-final-form) - Subscription-based form state management
 
 ## [3. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -38,9 +38,8 @@
 
 ### Extensions and Utilities
 
-*   [8th Wall](https://www.8thwall.com/docs/web/#getting-started-with-playcanvas) - Markerless AR runtime.
 *   [playcanvas-node (⭐4)](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
-*   [tween.js (⭐9.2k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
+*   [tween.js (⭐9.5k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
 
 ### Interactive Experiences
 
@@ -52,7 +51,7 @@
 ### Resources / Educational
 
 *   [Classy Class-Based Views](https://ccbv.co.uk/) - Detailed descriptions of methods/properties/attributes for each generic class-based view.
-*   [Classy Django Forms (⭐22)](https://github.com/ana-balica/classy-django-forms) - Detailed descriptions of methods/properties/attributes for each form class.
+*   [Classy Django Forms (⭐24)](https://github.com/ana-balica/classy-django-forms) - Detailed descriptions of methods/properties/attributes for each form class.
 *   [Classy Django REST Framework](http://www.cdrf.co) - Detailed descriptions with methods/attributes for DRF class-based views and serializers.
 
 ### Resources / Community
@@ -66,29 +65,23 @@
 *   [Django Chat](https://djangochat.com/) - A weekly podcast from William Vincent and Django Fellow Carlton Gibson with discussions of core Django concepts and regular guests.
 *   [Podcast Init](https://www.pythonpodcast.com/) - A popular Python podcast that features Django guests on occasion.
 
-### Hosting / PaaS (Platforms-as-a-Service)
-
-*   [Dokku](http://dokku.viewdocs.io/dokku/)
-*   [Render](https://render.com/)
-
 ### Hosting / IaaS (Infrastructure-as-a-Service)
 
 *   [Digital Ocean](https://www.digitalocean.com)
-*   [Linode](https://www.linode.com/)
 *   [Amazon Lightsail](https://aws.amazon.com/lightsail/)
 
 ### Projects / Boilerplate
 
 *   [cookiecutter-django (⭐11k)](https://github.com/pydanny/cookiecutter-django/) - A full-bodied starter project, highly customizable.
-*   [DRFx (⭐424)](https://github.com/wsvincent/drfx/) - A DRF starter with user auth, Pipenv, and other goodies.
+*   [DRFx (⭐452)](https://github.com/wsvincent/drfx/) - A DRF starter with user auth, Pipenv, and other goodies.
 *   [docker-django (⭐177)](https://github.com/erroneousboat/docker-django/) - A quick starter guide for Django and Docker together.
-*   [wemake-django-template (⭐1.7k)](https://github.com/wemake-services/wemake-django-template/) - Bleeding edge Django template focused on code quality and security.
-*   [django-webpack-starter (⭐57)](https://github.com/khadegd/django-webpack-starter) - Django Webpack starter template for using Webpack 4.
+*   [wemake-django-template (⭐1.8k)](https://github.com/wemake-services/wemake-django-template/) - Bleeding edge Django template focused on code quality and security.
+*   [django-webpack-starter (⭐58)](https://github.com/khadegd/django-webpack-starter) - Django Webpack starter template for using Webpack 4.
 
 ### Projects / Open Source Projects
 
-*   [Blog app with users and forms (⭐933)](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users/)
-*   [Behavior-Driven Development with Aloe (⭐28)](https://github.com/testdrivenio/django-aloe-bdd/)
+*   [Blog app with users and forms (⭐990)](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users/)
+*   [Behavior-Driven Development with Aloe (⭐32)](https://github.com/testdrivenio/django-aloe-bdd/)
 
 ### Django REST Framework / DRF Resources
 
@@ -103,7 +96,7 @@
 
 ### CI / Tools & Plugins
 
-*   [JMeter Maven Plugin (⭐419)](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build.
+*   [JMeter Maven Plugin (⭐425)](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build.
 
 ### Distributed Testing / Tutorials & Demo
 
@@ -115,7 +108,7 @@
 
 ### Related / Awesome Lists
 
-*   [Awesome Testing (⭐1.3k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
+*   [Awesome Testing (⭐1.4k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
 
 ## [6. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/README.md)
 
@@ -250,18 +243,17 @@
 
 ## [16. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Clarifai](https://www.clarifai.com) — Image API for custom face recognition and detection. Able to train AI models. Free plan has 5000 calls per month.
-*   [Diggernaut](https://www.diggernaut.com/) — Cloud based web scraping and data extraction platform for turning any website to the dataset or to work with it as with an API. Free plan includes 5K page requests monthly.
-*   [dreamfactory.com](https://dreamfactory.com/) — Open source REST API backend for mobile, web, and IoT applications. Hook up any SQL/NoSQL database, file storage system, or external service and it instantly creates a comprehensive REST API platform with live documentation, user management,...
-*   [FreeGeoIP.app](https://freegeoip.app/) - Completely free Geo IP information (JSON, CSV, XML). No registration required, 15000 queries per hour rate limit.
-*   [MailboxValidator](https://www.mailboxvalidator.com) — Email verification service using real mail server connection to confirm valid email. Free API plan has 300 verifications per month.
-*   [OCR.Space](https://ocr.space/) — An OCR API which parses image and pdf files returning the text results in JSON format. 25,000 requests per month free.
+*   [Clarifai](https://www.clarifai.com) — Image API for custom face recognition and detection. Able to train AI models. The free plan has 5,000 calls per month.
+*   [Diggernaut](https://www.diggernaut.com/) — Cloud-based web scraping and data extraction platform for turning any website to the dataset or working with it as an API. The free plan includes 5K page requests monthly.
+*   [dreamfactory.com](https://dreamfactory.com/) — Open source REST API backend for mobile, web, and IoT applications. Hook up any SQL/NoSQL database, file storage system, or external service, and it instantly creates a comprehensive REST API platform with live documentation and user management.
+*   [MailboxValidator](https://www.mailboxvalidator.com) — Email verification service using real mail server connection to confirm valid email. The free API plan has 300 verifications per month.
+*   [OCR.Space](https://ocr.space/) — An OCR API parses image and pdf files that return the text results in JSON format. Twenty-five thousand requests per month are free.
 *   [Pixela](https://pixe.la/) - Free daystream database service. All operations are performed by API. Visualization with heat maps and line graphs is also possible.
 *   [Postman](https://postman.com) — Simplify workflows and create better APIs – faster – with Postman, a collaboration platform for API development. Use the Postman App for free forever. Postman cloud features are also free forever with certain limits.
-*   [ProxyCrawl](https://proxycrawl.com/) — Crawl and scrape websites without the need of proxies, infrastructure or browsers. We solve captchas for you and prevent you being blocked. The first 1000 calls are free of charge.
-*   [RequestBin.com](https://requestbin.com) — Create a free endpoint to which you can send HTTP requests. Any HTTP requests sent to that endpoint will be recorded with the associated payload and headers so you can observe requests from webhooks and other services.
+*   [ProxyCrawl](https://proxycrawl.com/) — Crawl and scrape websites without proxies, infrastructure, or browsers. We solve captchas for you and prevent you from being blocked. The first 1000 calls are free of charge.
+*   [RequestBin.com](https://requestbin.com) — Create a free endpoint to which you can send HTTP requests. Any HTTP requests sent to that endpoint will be recorded with the associated payload and headers so you can observe recommendations from webhooks and other services.
 
 ### Security and PKI
 

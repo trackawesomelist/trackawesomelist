@@ -34,13 +34,13 @@ Webpage: <https://yoghut.com/>
 
 ### Templates / Preferences
 
-*   [Book (⭐317)](https://github.com/putraxor/flutter-book-app) <!--stargazers:putraxor/flutter-book-app--> - Bookshelf by [Ardiansyah Putra](https://github.com/putraxor)
+*   [Book (⭐341)](https://github.com/putraxor/flutter-book-app) <!--stargazers:putraxor/flutter-book-app--> - Bookshelf by [Ardiansyah Putra](https://github.com/putraxor)
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Animation
 
-*   [Sica (⭐1k)](https://github.com/cats-oss/Sica) - Simple Interface Core Animation. Run type-safe animation sequencially or parallelly.
+*   [Sica (⭐1.1k)](https://github.com/cats-oss/Sica) - Simple Interface Core Animation. Run type-safe animation sequencially or parallelly.
 
 ## [5. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -52,7 +52,7 @@ Webpage: <https://yoghut.com/>
 
 ### Extensions
 
-*   [Next SEO (⭐6.5k)](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
+*   [Next SEO (⭐6.9k)](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
 
 ## [6. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -64,7 +64,7 @@ Webpage: <https://yoghut.com/>
 
 ### Endpoint / Anti-Virus / Anti-Malware
 
-*   [LOKI (⭐2.9k)](https://github.com/Neo23x0/Loki) - Simple Indicators of Compromise and Incident Response Scanner
+*   [LOKI (⭐3k)](https://github.com/Neo23x0/Loki) - Simple Indicators of Compromise and Incident Response Scanner
 
 ---
 

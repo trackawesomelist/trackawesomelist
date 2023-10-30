@@ -1,79 +1,41 @@
 # Awesome List Updates on Apr 27, 2023
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Ai Collection](/content/ai-collection/ai-collection/README.md)
-
-### Code & Database Assistant
-
-- Name: [Anania](https://anania.ai/?ref=aicollection)
-
-  Title: AI Assistant for Analytics.
-
-  Description: Ask questions on your data and documents.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Human Resources & Resume
-
-- Name: [resumator](https://www.resumator.ai/?ref=aicollection)
-
-  Title: Looking for a Job? We've Got You Covered.
-
-  Description: Get hired faster with our AI-powered personalized cover letter. It takes just a few seconds!.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Productivity & Personal Growth
-
-- Name: [Voilà](https://www.getvoila.ai/?ref=aicollection)
-
-  Title: Personal ChatGPT Assistant for Supercharged Productivity.
-
-  Description: Improve your writing, get answers to all your questions, draft high-quality content and respond to emails. All in one place.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [1. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Personal Dashboards
 
-*   [LinkStack](https://linkstack.org/) - Open-source, customizable, self-hosted alternative to services like Linktree and Manylink with an intuitive, easy to use user/admin interface. LinkStack allows you to link all your social media platforms easily accessible on one page. ([Demo](https://linksta.cc/), [Source Code (⭐793)](https://github.com/LinkStackOrg/LinkStack)) `AGPL-3.0` `PHP`
+*   [LinkStack](https://linkstack.org/) - Link all your social media platforms easily accessible on one page, customizable through an intuitive, easy to use user/admin interface (alternative to Linktree and Manylink). ([Demo](https://linksta.cc/), [Source Code (⭐1.3k)](https://github.com/LinkStackOrg/LinkStack)) `AGPL-3.0` `PHP/Docker`
 
-## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [yaocccc/nvim-hl-mdcodeblock.lua (⭐15)](https://github.com/yaocccc/nvim-hl-mdcodeblock.lua) - Highlight markdown codeblock using Tree-sitter.
+*   [yaocccc/nvim-hl-mdcodeblock.lua (⭐23)](https://github.com/yaocccc/nvim-hl-mdcodeblock.lua) - Highlight markdown codeblock using Tree-sitter.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [nyngwang/nvimgelion (⭐44)](https://github.com/nyngwang/nvimgelion) - Neon Genesis Evangelion but for Vimmers.
+*   [nyngwang/nvimgelion (⭐71)](https://github.com/nyngwang/nvimgelion) - Neon Genesis Evangelion but for Vimmers.
 
-## [4. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [3. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### System and Customization
 
 *   [GDM Settings](https://gdm-settings.github.io) - A settings app for GDM (GNOME's Login Screen a.k.a GNOME Display Manager).
-*   [AdwSteamGtk (⭐83)](https://github.com/Foldex/AdwSteamGtk) - [Adwaita for Steam (⭐786)](https://github.com/tkashkin/Adwaita-for-Steam) skin installer.
+*   [AdwSteamGtk (⭐113)](https://github.com/Foldex/AdwSteamGtk) - [Adwaita for Steam (⭐884)](https://github.com/tkashkin/Adwaita-for-Steam) skin installer.
 
-## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Audio and Video Tools / File Sharing
 
 *   [YouTube Music](https://th-ch.github.io/youtube-music/) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/th-ch/youtube-music/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [5. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Books / Dissemination
 
@@ -81,7 +43,7 @@
 
 ### Books / General Overviews
 
-*   *[A First Course in Network Science](https://www.cambridge.org/us/academic/subjects/physics/statistical-physics/first-course-network-science)*, by Filippo Menczer, Santo Fortunato, and Clayton A. Davis - Tutorials, datasets and other resouces [on GitHub (⭐272)](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience) (2020).
+*   *[A First Course in Network Science](https://www.cambridge.org/us/academic/subjects/physics/statistical-physics/first-course-network-science)*, by Filippo Menczer, Santo Fortunato, and Clayton A. Davis - Tutorials, datasets and other resouces [on GitHub (⭐289)](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience) (2020).
 *   *[L'analyse de réseau en sciences sociales. Petit guide pratique](https://hal.science/hal-04052709)*, by Laurent Beauguitte, in French (2023). [Readable online](https://beauguitte.github.io/analyse-de-reseau-en-shs/).
 *   *[Networks, Crowds, and Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/)*, by David Easley and Jon Kleinberg - Full pre-publication draft ([review](http://bactra.org/reviews/networks-crowds-markets.html); 2010).
 *   *[The SAGE Handbook of Social Network Analysis](https://methods.sagepub.com/book/the-sage-handbook-of-social-network-analysis)*, edited by John Scott and Peter J. Carrington (2011).
@@ -97,13 +59,13 @@
 ### Courses / Topic-specific
 
 *   [Complex Networks](http://cazabetremy.fr/Teaching/ComplexNetworks.html), by Rémy Cazabet (University Lyon 1 and ENS Lyon, 2022).
-    *   [Network Science CheatSheets (⭐14)](https://github.com/Yquetzal/NetworkScience_CheatSheets).
+    *   [Network Science CheatSheets (⭐17)](https://github.com/Yquetzal/NetworkScience_CheatSheets).
 *   [Graphs and Networks](https://sites.google.com/a/yale.edu/462-562-graphs-and-networks/), by Dan Spielman (Yale University, 2013).
 *   [Network Analysis and Modeling (Computer Science)](https://aaronclauset.github.io/courses/5352/), by Aaron Clauset - Full lecture slides and readings (University of Colorado, 2022).
 
 ### Datasets / Topic-specific
 
-*   [Hetionet: an integrative network of disease (⭐202)](https://github.com/hetio/hetionet) - A complex biological network, available in multiple formats, including JSON and [Neo4j](https://neo4j.het.io/browser/).
+*   [Hetionet: an integrative network of disease (⭐213)](https://github.com/hetio/hetionet) - A complex biological network, available in multiple formats, including JSON and [Neo4j](https://neo4j.het.io/browser/).
 *   [Manlio De Domenico’s Complex Multilayer Networks](https://manliodedomenico.com/data.php).
 *   [State Networks](https://ippsr.msu.edu/public-policy/state-networks) - US state-to-state relational variables, including borders, travel, trade and more.
 *   [UC Berkeley Social Networks Study (UCNets)](https://www.icpsr.umich.edu/web/ICPSR/studies/36975) - Ego-centric data (personal networks) from a five-year panel study.
@@ -199,7 +161,7 @@
 *   [Palladio](http://hdlab.stanford.edu/palladio/) - Web-based spatial network visualization tool by the [Humanities + Design research lab](http://hdlab.stanford.edu/) at Stanford University.
 *   [PARTNER - Program to Analyze, Record, and Track Networks to Enhance Relationships](https://visiblenetworklabs.com/partner-cprm/) - Excel-based tool for building networks from surveys.
 *   [PIGALE - Public Implementation of a Graph Algorithm Library and Editor](https://pigale.sourceforge.net/) - Windows program and C++ library to analyze planar graphs.
-*   [qgis-edge-bundling (⭐61)](https://github.com/ait-energy/qgis-edge-bundling) - Implementation of force-directed edge bundling for the QGIS Processing toolbox.
+*   [qgis-edge-bundling (⭐62)](https://github.com/ait-energy/qgis-edge-bundling) - Implementation of force-directed edge bundling for the QGIS Processing toolbox.
 *   [Radatools](https://deim.urv.cat/~sergio.gomez/radatools.php) - Set of tools intended for the analysis of complex networks, built on top of [Radalib](http://deim.urv.cat/~sergio.gomez/radalib.php), a library written in Ada.
 *   [Retina](https://ouestware.gitlab.io/retina) - Web application to share GEXF and GraphML network visualizations.
 *   [SageMath](https://www.sagemath.org/) - Free open-source mathematics software with extensive [graph capabilities](http://doc.sagemath.org/html/en/reference/graphs/index.html).
@@ -232,7 +194,7 @@
 
 *   [Cytoscape.js](https://js.cytoscape.org/) - Network analysis and visualization library.
 *   [GoJS](https://gojs.net/) - Visualization library to draw diagrams and several types of network layouts.
-*   [Popoto.js (⭐454)](https://github.com/Nhogs/popoto) - Library based on d3.js that provides a graph based search interface.
+*   [Popoto.js (⭐467)](https://github.com/Nhogs/popoto) - Library based on d3.js that provides a graph based search interface.
 *   [Sigma](https://www.sigmajs.org/) - JavaScript library dedicated to graph drawing.
 *   [vis.js](https://visjs.org/) - JavaScript library with network visualization capabilities.
 
@@ -243,14 +205,14 @@
 ### Software / Python
 
 *   [bokeh](https://bokeh.org/) - Python library for interactive data visualization in the browser, with support for networks.
-*   [cdlib (⭐305)](https://github.com/GiulioRossetti/cdlib) - Python community detection library, with 60+ methods and evaluation/visualization features.
+*   [cdlib (⭐327)](https://github.com/GiulioRossetti/cdlib) - Python community detection library, with 60+ methods and evaluation/visualization features.
 *   [networkx](https://networkx.org/) - Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
     *   [Implementing an ERGM from Scratch in Python](https://gist.github.com/dmasad/8509304), using networkx and numpy (2014).
-    *   [nxviz (⭐426)](https://github.com/ericmjl/nxviz/) - Visualization package for NetworkX.
+    *   [nxviz (⭐436)](https://github.com/ericmjl/nxviz/) - Visualization package for NetworkX.
 *   [nngt](https://nngt.readthedocs.io) - Library-agnostic graph generation and analysis that wraps around `networkx`, `igraph` and `graph-tool`). Includes normalized graph measures, advanced visualizations, (geo)spatial tools, and interfaces for neuroscience simulators.
 *   [python-louvain](https://perso.crans.org/aynaud/communities/) - A solid implementation of Louvain community detection algorithm.
 *   [scipy.sparse.csgraph](https://docs.scipy.org/doc/scipy/reference/sparse.csgraph.html#module-scipy.sparse.csgraph) - Fast graph algorithms based on sparse matrix representations.
-*   [tnetwork (⭐8)](https://github.com/Yquetzal/tnetwork) - Python library for temporal networks, and dynamic community detection in particular.
+*   [tnetwork (⭐12)](https://github.com/Yquetzal/tnetwork) - Python library for temporal networks, and dynamic community detection in particular.
 
 ### Software / R
 
@@ -261,11 +223,10 @@
 *   [ergMargins](https://CRAN.R-project.org/package=ergMargins) - Process analysis for ERGMs.
 *   [ergmito](https://CRAN.R-project.org/package=ergmito) - ERGMs for small networks.
 *   [fergm](https://CRAN.R-project.org/package=fergm) - Frailty ERGMs.
-*   [goldfish (⭐52)](https://github.com/snlab-ch/goldfish) - Dynamic Network Actor-Oriented Model (DyNAM) for the statistical analysis of coordination networks through time.
+*   [goldfish (⭐55)](https://github.com/snlab-ch/goldfish) - Dynamic Network Actor-Oriented Model (DyNAM) for the statistical analysis of coordination networks through time.
 *   [graphlayouts](https://CRAN.R-project.org/package=graphlayouts) - Layout algorithms based on the concept of [stress majorization](https://doi.org/10.1007/978-3-540-31843-9_25).
     *   [Introducing graphlayouts with Game of Thrones](http://blog.schochastics.net/post/introducing-graphlayouts-with-got/).
-    *   [Network Visualizations in R using ggraph and graphlayouts](http://mr.schochastics.net/netVizR.html).
-*   [multigraphr (⭐12)](https://github.com/termehs/multigraphr) - Random multigraph models, statisticsof multigraph properties, and goodness of fit tests.
+    *   [Network Visualizations in R using ggraph and graphlayouts](https://mr.schochastics.net/material/netVizR/).
 *   [multinet](https://CRAN.R-project.org/package=multinet) - Tools for multilayer social networks.
     *   [Related book and data](http://multilayer.it.uu.se/), and [presentation article](http://multilayer.it.uu.se/papers/jss.pdf). See `uunet` for the Python version.
 *   [migraph](https://CRAN.R-project.org/web/packages/migraph/) - A set of tools that extend common social network analysis packages for analysing multimodal and multilevel networks.
@@ -282,7 +243,7 @@
 
 ### Software / Syntaxes
 
-*   [JGraphT](https://jgrapht.org/) - Java graph library for graph data structures and algorithms ([example algorithms (⭐8)](https://github.com/agouge/Java-Network-Analyzer)).
+*   [JGraphT](https://jgrapht.org/) - Java graph library for graph data structures and algorithms ([example algorithms (⭐9)](https://github.com/agouge/Java-Network-Analyzer)).
 *   [JUNG - Java Universal Network/Graph Framework](https://jung.sourceforge.net/) - Extensible library to represent network objects.
 
 ### Varia / Tutorials
@@ -332,23 +293,23 @@
 *   [Generalized Blockmodeling of Two-mode Network Data](https://doi.org/10.1016/j.socnet.2004.01.002) ([preprint](http://vlado.fmf.uni-lj.si/pub/networks/doc/preprint/TwoMode.pdf)).
 *   [Generalized Two-Mode Cores](https://doi.org/10.1016/j.socnet.2015.04.001).
 
-## [7. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+## [6. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Tools & Software / Acquisition
 
-*   [Scoop (⭐48)](https://github.com/harvard-lil/scoop) - High-fidelity, browser-based, single-page web archiving library and CLI for witnessing the web. *(Stable)*
+*   [Scoop (⭐71)](https://github.com/harvard-lil/scoop) - High-fidelity, browser-based, single-page web archiving library and CLI for witnessing the web. *(Stable)*
 
-## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Related Awesome Lists / Galleries
 
-*   [kyrolabs/awesome-langchain (⭐552)](https://github.com/kyrolabs/awesome-langchain): 😎 Awesome list of tools and project with the awesome LangChain framework
+*   [kyrolabs/awesome-langchain (⭐5.4k)](https://github.com/kyrolabs/awesome-langchain): 😎 Awesome list of tools and project with the awesome LangChain framework
 
-### Inbox: Large Language Models / Embeddings and Semantic Search
+### Inbox: Large Language Models (LLMs) / Embeddings and Semantic Search
 
-*   [neuml/txtai (⭐4k)](https://github.com/neuml/txtai): semantic search and workflows powered by language models
+*   [neuml/txtai (⭐5.3k)](https://github.com/neuml/txtai): semantic search and workflows powered by language models
 
-## [9. Awesome React](/content/enaqx/awesome-react/README.md)
+## [8. Awesome React](/content/enaqx/awesome-react/README.md)
 
 ### React General Resources
 
@@ -356,21 +317,21 @@
 
 ### React State Management and Data Fetching
 
-*   [rxdb (⭐19k)](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
-*   [watermelondb (⭐9.1k)](https://github.com/Nozbe/WatermelonDB) - Reactive & asynchronous database for powerful React and React Native apps
+*   [rxdb (⭐20k)](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
+*   [watermelondb (⭐9.5k)](https://github.com/Nozbe/WatermelonDB) - Reactive & asynchronous database for powerful React and React Native apps
 
 ### React Maps
 
-*   [react-map-gl (⭐7.1k)](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
-*   [react-leaflet (⭐4.5k)](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
+*   [react-map-gl (⭐7.3k)](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
+*   [react-leaflet (⭐4.8k)](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 
 ### React Charts
 
-*   [visx (⭐17k)](https://github.com/airbnb/visx) - Visualization components
+*   [visx (⭐18k)](https://github.com/airbnb/visx) - Visualization components
 
 ### React Renderers
 
-*   [remotion (⭐16k)](https://github.com/remotion-dev/remotion) - Make videos programmatically with React
+*   [remotion (⭐17k)](https://github.com/remotion-dev/remotion) - Make videos programmatically with React
 
 ### React Native General Resources
 
@@ -378,14 +339,14 @@
 
 ### React Native Navigation
 
-*   [react-navigation (⭐22k)](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
-*   [expo-router (⭐1k)](https://github.com/expo/router) - The File-based router for universal React Native apps
+*   [react-navigation (⭐23k)](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
+*   [expo-router (⭐1.3k)](https://github.com/expo/router) - The File-based router for universal React Native apps
 
 ### React Native Libraries
 
-*   [react-native-device-info (⭐6.1k)](https://github.com/react-native-device-info/react-native-device-info) - Device Information for React Native iOS and Android
+*   [react-native-device-info (⭐6.2k)](https://github.com/react-native-device-info/react-native-device-info) - Device Information for React Native iOS and Android
 
-## [10. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+## [9. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
 ### Other
 

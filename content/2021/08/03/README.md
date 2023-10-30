@@ -16,25 +16,25 @@
 
 ### Frameworks
 
-*   [Seastar (⭐7.4k)](https://github.com/scylladb/seastar) - An advanced, open-source C++ framework for high-performance server applications on modern hardware. \[Apache-2.0 License] [seastar.io](http://seastar.io/)
+*   [Seastar (⭐7.6k)](https://github.com/scylladb/seastar) - An advanced, open-source C++ framework for high-performance server applications on modern hardware. \[Apache-2.0 License] [seastar.io](http://seastar.io/)
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
-*   [kalker (⭐1.3k)](https://github.com/PaddiM8/kalker) - A scientific calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers. Cross platform + WASM support [![Build Status](https://github.com/PaddiM8/kalker/workflows/Release/badge.svg)](https://github.com/PaddiM8/kalker/actions)
+*   [kalker (⭐1.4k)](https://github.com/PaddiM8/kalker) - A scientific calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers. Cross-platform + WASM support [![Build Status](https://github.com/PaddiM8/kalker/workflows/Release/badge.svg)](https://github.com/PaddiM8/kalker/actions)
 
 ### Development tools / Transpiling
 
-*   [BayesWitnesses/m2cgen (⭐2.5k)](https://github.com/BayesWitnesses/m2cgen) — A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. [![GitHub Actions Status](https://github.com/BayesWitnesses/m2cgen/workflows/GitHub%20Actions/badge.svg?branch=master)](https://github.com/BayesWitnesses/m2cgen/actions)
+*   [BayesWitnesses/m2cgen (⭐2.6k)](https://github.com/BayesWitnesses/m2cgen) — A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. [![GitHub Actions Status](https://github.com/BayesWitnesses/m2cgen/workflows/GitHub%20Actions/badge.svg?branch=master)](https://github.com/BayesWitnesses/m2cgen/actions)
 
 ### Libraries / Logging
 
-*   [jesusprubio/leg (⭐205)](https://github.com/jesusprubio/leg) — Elegant print for lazy devs. Make your CLIs nicer with minimal effort. [![Build Status](https://github.com/jesusprubio/leg/workflows/CI/badge.svg)](https://github.com/jesusprubio/leg/actions/workflows/ci.yml)
+*   [jesusprubio/leg (⭐204)](https://github.com/jesusprubio/leg) — Elegant print for lazy devs. Make your CLIs nicer with minimal effort. [![Build Status](https://github.com/jesusprubio/leg/workflows/CI/badge.svg)](https://github.com/jesusprubio/leg/actions/workflows/ci.yml)
 
 ### Libraries / Scripting
 
-*   [fleabitdev/gamelisp (⭐363)](https://github.com/fleabitdev/glsp) — A Lisp-like scripting language for Rust game development
+*   [fleabitdev/gamelisp (⭐383)](https://github.com/fleabitdev/glsp) — A Lisp-like scripting language for Rust game development
 
 ## [4. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Related / Awesome Lists
 
-*   [Awesome k6 (⭐317)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
+*   [Awesome k6 (⭐444)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
 
 ## [5. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

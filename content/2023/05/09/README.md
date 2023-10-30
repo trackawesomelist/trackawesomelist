@@ -14,13 +14,13 @@
 
 ## [2. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
-### Alternatives / Articles
+### Other LLM Frameworks / Videos Playlists
 
-*   [OpenLM (⭐280)](https://github.com/r2d4/openlm): a drop-in OpenAI-compatible library that can call LLMs from any other hosted inference API. Also [Typescript (⭐156)](https://github.com/r2d4/llm.ts) ![GitHub Repo stars](https://img.shields.io/github/stars/r2d4/openlm?style=social)
+*   [OpenLM (⭐344)](https://github.com/r2d4/openlm): a drop-in OpenAI-compatible library that can call LLMs from any other hosted inference API. Also [Typescript (⭐196)](https://github.com/r2d4/llm.ts) ![GitHub Repo stars](https://img.shields.io/github/stars/r2d4/openlm?style=social)
 
 ## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Large Language Models / Contribute to Our Repository
+### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
 *   [Search-in-the-Chain: Towards Accurate, Credible and Traceable Large Language Models for Knowledge-intensive Tasks | arxiv](https://arxiv.org/abs/2304.14732): "a novel framework called Search-in-the-Chain (SearChain) to improve the accuracy, credibility and traceability of LLM-generated content for multi-hop question answering"
 
@@ -28,27 +28,23 @@
 
 ### Miscellaneous
 
-*   [Read the Docs (⭐39)](https://github.com/readthedocs-examples/awesome-read-the-docs#readme) - Example documentation projects to inspire and help bootstrap new documentation projects.
+*   [Read the Docs (⭐67)](https://github.com/readthedocs-examples/awesome-read-the-docs#readme) - Example documentation projects to inspire and help bootstrap new documentation projects.
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [Overlay (⭐32)](https://github.com/os-scar/overlay) - A browser extension helping developers evaluate open source packages before picking them.
-
-### Projects Using Vue.js / Interactive Experiences
-
-*   [Vue Playground](https://vueplayground.com) - Create Vue components and applications in an interactive / visual drag & drop designer.
+*   [Overlay (⭐186)](https://github.com/os-scar/overlay) - A browser extension helping developers evaluate open source packages before picking them.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-contextual-transition (⭐2)](https://github.com/beepy/vue-contextual-transition) Easy-ish cross-browser transitioning between pages with shared elements and/or sequential order
+*   [vue-contextual-transition (⭐6)](https://github.com/beepy/vue-contextual-transition) Easy-ish cross-browser transitioning between pages with shared elements and/or sequential order
 
 ## [6. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Tools and session management
 
-*   [tmux-project (⭐1)](https://github.com/sei40kr/tmux-project) Search projects and open them in a new session
+*   [tmux-project (⭐2)](https://github.com/sei40kr/tmux-project) Search projects and open them in a new session
 
 ## [7. Awesome Couchdb](/content/quangv/awesome-couchdb/README.md)
 

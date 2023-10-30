@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 10, 2023
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,49 +10,55 @@
 
 ### Software / Miscellaneous
 
-*   [Jellyseerr (⭐1.4k)](https://github.com/Fallenbagel/jellyseerr) - A free and open source software application for managing requests for your media library. It is a a fork of Overseerr built to bring support for Jellyfin & Emby media servers! `MIT` `Docker`
+*   [Jellyseerr (⭐1.9k)](https://github.com/Fallenbagel/jellyseerr) - Manage requests for your media library, supports Plex, Jellyfin and Emby media servers (fork of Overseerr). `MIT` `Docker/Nodejs`
 
 ### Software / Money, Budgeting & Management
 
-*   [SolidInvoice](https://solidinvoice.co) - Open source invoicing and quote application. ([Source Code (⭐460)](https://github.com/SolidInvoice/SolidInvoice)) `MIT` `PHP`
+*   [SolidInvoice](https://solidinvoice.co) - Open source invoicing and quote application. ([Source Code (⭐484)](https://github.com/SolidInvoice/SolidInvoice)) `MIT` `PHP`
 
 ### Software / Personal Dashboards
 
-*   [envlinks (⭐3)](https://github.com/maxhollmann/envlinks) - A minimalist link dashboard showing links from environment variables. ([Demo](https://envlinks-demo.vercel.app/)) `MIT` `Docker`
+*   [envlinks (⭐12)](https://github.com/maxhollmann/envlinks) - A minimalist link dashboard showing links from environment variables. ([Demo](https://envlinks-demo.vercel.app/)) `MIT` `Docker`
 
 ### Software / Wikis
 
-*   [AmuseWiki](https://amusewiki.org/) - Amusewiki is based on the Emacs Muse markup, remaining mostly compatible with the original implementation. It can work as a read-only site, as a moderated wiki, or as a fully open wiki or even as a private site. ([Demo](https://sandbox.amusewiki.org), [Source Code (⭐140)](https://github.com/melmothx/amusewiki)) `GPL-1.0` `Perl/Docker`
+*   [AmuseWiki](https://amusewiki.org/) - Amusewiki is based on the Emacs Muse markup, remaining mostly compatible with the original implementation. It can work as a read-only site, as a moderated wiki, or as a fully open wiki or even as a private site. ([Demo](https://sandbox.amusewiki.org), [Source Code (⭐152)](https://github.com/melmothx/amusewiki)) `GPL-1.0` `Perl/Docker`
 
 ### List of Licenses / Wikis
 
 *   `GPL-1.0` - [GNU General Public License 1.0](https://spdx.org/licenses/GPL-1.0.html)
 
-## [2. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+## [2. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
+
+### Useful Stack Overflow questions & answers
+
+*   [GitHub Wiki doesn't support HTML tables anymore?](https://stackoverflow.com/questions/45657579/github-wiki-doesnt-support-html-tables-anymore)
+
+## [3. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ### Resources / Blog posts
 
-*   [Pandas vs Polars – Speed Comparison](https://stuffbyyuki.com/pandas-vs-polars-speed-comparison/) - A blog post that compares the performance of Polars, Pandas and Pandas 2.0 by [@StuffbyYuki](https://github.com/StuffbyYuki). Code used is available on Github [here (⭐2)](https://github.com/StuffbyYuki/Python-Polars-Tips-and-Tricks/tree/main/pandas_vs_polars).
+*   [Pandas vs Polars – Speed Comparison](https://stuffbyyuki.com/pandas-vs-polars-speed-comparison/) - A blog post that compares the performance of Polars, Pandas and Pandas 2.0 by [@StuffbyYuki](https://github.com/StuffbyYuki). Code used is available on Github [here (⭐7)](https://github.com/StuffbyYuki/Python-Polars-Tips-and-Tricks/tree/main/pandas_vs_polars).
 
-## [3. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Job boards
 
 *   [Dev Employ](https://devemploy.com) Hand-picked developer jobs
 
-## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Editors
 
 *   [Jetbrains (⭐1.7k)](https://github.com/KronicDeth/intellij-elixir) - Elixir for IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm, AppCode, Android Studio, 0xDBE.
 
-## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Large Language Models / Contribute to Our Repository
+### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
 *   [Falcon LLM - Home](https://falconllm.tii.ae/): a foundational large language model (LLM) with 40 billion parameters trained on one trillion tokens shared by Technology Innovation Institute from Abu Dhabi
 
-## [6. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+## [7. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Marketplace / Cloud Resources
 
@@ -75,7 +81,7 @@
 
 ### Payments / Credit Cards
 
-*   [pci-blackbox (⭐0)](https://github.com/pjfoley/pci-blackbox) - PCI-DSS compliant card system built on PostgreSQL and PL/pgSQL.
+*   [pci-blackbox (⭐1)](https://github.com/pjfoley/pci-blackbox) - PCI-DSS compliant card system built on PostgreSQL and PL/pgSQL.
 
 ### UX/UI / Billing
 
@@ -100,4 +106,5 @@
 
 ---
 
+- Prev: [Jun 11, 2023](/content/2023/06/11/README.md)
 - Next: [Jun 09, 2023](/content/2023/06/09/README.md)

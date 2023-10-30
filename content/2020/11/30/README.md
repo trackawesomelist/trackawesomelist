@@ -10,26 +10,26 @@
 
 ### Algorithms and Data structures
 
-*   [Towel (⭐658)](https://github.com/ZacharyPatten/Towel) - data structures, algorithms, mathematics, metadata, extensions, console, measurements, and other useful stuff
+*   [Towel (⭐678)](https://github.com/ZacharyPatten/Towel) - data structures, algorithms, mathematics, metadata, extensions, console, measurements, and other useful stuff
 
 ### GUI
 
-*   [Ookii.Dialogs.Wpf (⭐885)](https://github.com/augustoproiete/ookii-dialogs-wpf) - Enable WPF applications to access common Windows dialogs such as task dialogs, credential dialog, progress dialog, folder browser dialog, and more
-*   [Ookii.Dialogs.WinForms (⭐452)](https://github.com/augustoproiete/ookii-dialogs-winforms) - Enable Windows Forms applications to access common Windows dialogs such as task dialogs, credential dialog, progress dialog, folder browser dialog, and more
+*   [Ookii.Dialogs.Wpf (⭐959)](https://github.com/augustoproiete/ookii-dialogs-wpf) - Enable WPF applications to access common Windows dialogs such as task dialogs, credential dialog, progress dialog, folder browser dialog, and more
+*   [Ookii.Dialogs.WinForms (⭐495)](https://github.com/augustoproiete/ookii-dialogs-winforms) - Enable Windows Forms applications to access common Windows dialogs such as task dialogs, credential dialog, progress dialog, folder browser dialog, and more
 
 ### Minification
 
-*   [CompressedStaticFiles (⭐77)](https://github.com/AnderssonPeter/CompressedStaticFiles) - Send compressed static files to the browser without having to compress on demand, also has support for sending more advanced image formats when the browser indicates that i has support for it.
+*   [CompressedStaticFiles (⭐80)](https://github.com/AnderssonPeter/CompressedStaticFiles) - Send compressed static files to the browser without having to compress on demand, also has support for sending more advanced image formats when the browser indicates that i has support for it.
 
 ### Tools
 
-*   [Downloader (⭐814)](https://github.com/bezzad/Downloader) - Fast and reliable multipart downloader with asynchronous progress events for .NET applications.
+*   [Downloader (⭐967)](https://github.com/bezzad/Downloader) - Fast and reliable multipart downloader with asynchronous progress events for .NET applications.
 
 ## [2. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 
 ### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
-*   [Tiếng Việt (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/vn-VN)
+*   [Tiếng Việt (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/vn-VN)
 
 ## [3. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
 
@@ -62,7 +62,7 @@
 
 ### CMS (headless)
 
-*   [Ghost](https://ghost.org/) - Blog platform, can be used as headless CMS (ex. [with Hexo](https://ghost.org/docs/api/v3/hexo/)).
+*   [Ghost](https://ghost.org/) - Blog platform, can be used as headless CMS (ex. [with Hexo](https://ghost.org/docs/api/v3/hexo/)). ![Ghost](https://img.shields.io/github/contributors-anon/tryghost/ghost?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ### Testing
 
@@ -125,8 +125,8 @@
 
 ### Component bundles
 
-*   [Element-Blazor (⭐651)](https://github.com/Element-Blazor/Element-Blazor/blob/master/README.en.md) - ![GitHub stars](https://img.shields.io/github/stars/Element-Blazor/Element-Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Element-Blazor/Element-Blazor?style=flat-square\&cacheSeconds=86400) A blazor component library using Element UI. API imitates Element, CSS directly uses Element's style, HTML structure directly uses Element's HTML structure. [Blazor WebAssembly Version demo](https://blazorwasm.github.io). [Blazor WebAssembly Version PWA Mode demo](https://pwawasm.github.io).
-*   [BlazorFluentUI (⭐777)](https://github.com/BlazorFluentUI/BlazorFluentUI) - ![stars](https://img.shields.io/github/stars/BlazorFluentUI/BlazorFluentUI?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorFluentUI/BlazorFluentUI?style=flat-square\&cacheSeconds=86400) Simple port of FluenUI/Office Fabric React components and style to Blazor. [Client-side demo (WebAssembly)](https://www.blazorfluentui.net/). [Server-side demo (SignalR)](https://blazorfluentui.azurewebsites.net/).
+*   [Element-Blazor (⭐670)](https://github.com/Element-Blazor/Element-Blazor/blob/master/README.en.md) - ![GitHub stars](https://img.shields.io/github/stars/Element-Blazor/Element-Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Element-Blazor/Element-Blazor?style=flat-square\&cacheSeconds=86400) A blazor component library using Element UI. API imitates Element, CSS directly uses Element's style, HTML structure directly uses Element's HTML structure. [Blazor WebAssembly Version demo](https://blazorwasm.github.io). [Blazor WebAssembly Version PWA Mode demo](https://pwawasm.github.io).
+*   [BlazorFluentUI (⭐794)](https://github.com/BlazorFluentUI/BlazorFluentUI) - ![stars](https://img.shields.io/github/stars/BlazorFluentUI/BlazorFluentUI?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorFluentUI/BlazorFluentUI?style=flat-square\&cacheSeconds=86400) Simple port of FluenUI/Office Fabric React components and style to Blazor. [Client-side demo (WebAssembly)](https://www.blazorfluentui.net/). [Server-side demo (SignalR)](https://blazorfluentui.azurewebsites.net/).
 
 ## [12. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 
@@ -168,7 +168,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-show-more-text (⭐7)](https://github.com/limlt/vue-show-more-text) - Vue multiline sentence ellipsis component. The text in the component will be truncated.
+*   [vue-show-more-text (⭐8)](https://github.com/limlt/vue-show-more-text) - Vue multiline sentence ellipsis component. The text in the component will be truncated.
 
 ## [16. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
 

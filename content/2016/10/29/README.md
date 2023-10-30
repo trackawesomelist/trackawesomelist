@@ -34,7 +34,7 @@
 
 ### Software / Social, Economic and Political Networks
 
-*   [Network Canvas](http://networkcanvas.com/) - Set of tools to collect personal network data (in early development).
+*   [Network Canvas](http://networkcanvas.com/) - A free and open-source set of survey tools for ego-centric and personal network studies, including [documentation](https://documentation.networkcanvas.com) and a [user community](https://community.networkcanvas.com).
 
 ## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -46,20 +46,20 @@
 
 ### C / General-Purpose Machine Learning
 
-*   [Recommender (⭐257)](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
+*   [Recommender (⭐259)](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
 
 ### C++ / General-Purpose Machine Learning
 
 *   [CUDA](https://code.google.com/p/cuda-convnet/) - This is a fast C++/CUDA implementation of convolutional \[DEEP LEARNING]
 *   [DyNet (⭐3.4k)](https://github.com/clab/dynet) - A dynamic neural network library working well with networks that have dynamic structures that change for every training instance. Written in C++ with bindings in Python.
-*   [Fido (⭐414)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics.
+*   [Fido (⭐420)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics.
 *   [LightGBM (⭐15k)](https://github.com/Microsoft/LightGBM) - Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 *   [ROOT](https://root.cern.ch) - A modular scientific software framework. It provides all the functionalities needed to deal with big data processing, statistical analysis, visualization and storage.
 *   [shark](http://image.diku.dk/shark/sphinx_pages/build/html/index.html) - A fast, modular, feature-rich open-source C++ machine learning library.
 
 ### C++ / Natural Language Processing
 
-*   [MIT Information Extraction Toolkit (⭐2.8k)](https://github.com/mit-nlp/MITIE) - C, C++, and Python tools for named entity recognition and relation extraction
+*   [MIT Information Extraction Toolkit (⭐2.9k)](https://github.com/mit-nlp/MITIE) - C, C++, and Python tools for named entity recognition and relation extraction
 
 ## [8. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 

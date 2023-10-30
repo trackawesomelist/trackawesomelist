@@ -44,27 +44,27 @@
 
 ### Frameworks, Libraries and Tools / API
 
-*   [halcyon (⭐78)](https://github.com/visualeyes/halcyon) - HAL implementation for ASP.NET.
+*   [halcyon (⭐79)](https://github.com/visualeyes/halcyon) - HAL implementation for ASP.NET.
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-scrollactive (⭐537)](https://github.com/eddiemf/vue-scrollactive) - Adds an active class in a menu item based on the current section in viewport, also scrolling to the section when clicking the menu item.
+*   [vue-scrollactive (⭐544)](https://github.com/eddiemf/vue-scrollactive) - Adds an active class in a menu item based on the current section in viewport, also scrolling to the section when clicking the menu item.
 
 ## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Analytics
 
-*   [Umbrella (⭐607)](https://github.com/devxoul/Umbrella) - Analytics abstraction layer.
+*   [Umbrella (⭐609)](https://github.com/devxoul/Umbrella) - Analytics abstraction layer.
 
 ### XML
 
-*   [SwiftyXML (⭐98)](https://github.com/chenyunguiMilook/SwiftyXML) - The most swifty way to deal with XML.
+*   [SwiftyXML (⭐99)](https://github.com/chenyunguiMilook/SwiftyXML) - The most swifty way to deal with XML.
 
 ### Images / Barcode
 
-*   [FlexibleImage (⭐819)](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
+*   [FlexibleImage (⭐824)](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
 
 ### Text / Barcode
 
@@ -72,15 +72,15 @@
 
 ### Menu / Barcode
 
-*   [KWDrawerController (⭐156)](https://github.com/Kawoou/KWDrawerController) - Drawer view controller that easy to use.
+*   [KWDrawerController (⭐155)](https://github.com/Kawoou/KWDrawerController) - Drawer view controller that easy to use.
 
 ### Template / Barcode
 
-*   [SwiftCssParser (⭐277)](https://github.com/100mango/SwiftCssParser) - Extensible CSS parser.
+*   [SwiftCssParser (⭐278)](https://github.com/100mango/SwiftCssParser) - Extensible CSS parser.
 
 ### TextField / Barcode
 
-*   [CBPinEntryView (⭐190)](https://github.com/Fawxy/CBPinEntryView) - Easy to use, very customisable pin entry.
+*   [CBPinEntryView (⭐189)](https://github.com/Fawxy/CBPinEntryView) - Easy to use, very customisable pin entry.
 
 ## [8. Awesome Math](/content/rossant/awesome-math/README.md)
 

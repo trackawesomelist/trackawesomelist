@@ -19,14 +19,14 @@
 
 ### Example Projects
 
-*   [Example for Securing Apps with Keycloak on Kubernetes (⭐58)](https://github.com/stianst/demo-kubernetes)
-*   [Example for Securing AspDotNet Core Apps with Keycloak (⭐38)](https://github.com/thomasdarimont/kc-dnc-demo)
+*   [Example for Securing Apps with Keycloak on Kubernetes (⭐57)](https://github.com/stianst/demo-kubernetes)
+*   [Example for Securing AspDotNet Core Apps with Keycloak (⭐37)](https://github.com/thomasdarimont/kc-dnc-demo)
 
 ## [2. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Miscellaneous / Symfony2
 
-*   [react-admin (⭐21k)](https://github.com/marmelab/react-admin) - Add a ReactJS admin GUI to any RESTful API.
+*   [react-admin (⭐23k)](https://github.com/marmelab/react-admin) - Add a ReactJS admin GUI to any RESTful API.
 
 ## [3. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -40,25 +40,31 @@
 
 *   [ING ❤ Web Components](https://dev.to/thepassle/ing--web-components-aef)
 
-## [5. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
-### Software / Plotter-Specific
+### Android
+
+*   [Google Android Developer Training](https://developer.android.com/guide)
+
+## [6. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+
+### Software / Plotter Control
 
 *   [MP2300-Tools (⭐6)](https://github.com/Jan--Henrik/MP2300-Tools) - Software for converting HPGL to Graphtec's GPGL format, as well as CAD files for a Graphtec plotter pen adapter.
 
-## [6. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [7. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Haskell SDK
 
 *   [aristidb/aws :fire::fire: (⭐229)](https://github.com/aristidb/aws)
 
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [mRemoteNG (⭐6.9k)](https://github.com/mRemoteNG/mRemoteNG) - The next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager
+*   [mRemoteNG (⭐7.9k)](https://github.com/mRemoteNG/mRemoteNG) - The next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager
 
-## [8. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [9. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### MusaicFM
 
@@ -70,19 +76,19 @@ Free
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/october30.png)](https://github.com/lekevicius/october30)
 
-## [9. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [10. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Scanning / Pentesting
 
-*   [Legion (⭐887)](https://github.com/GoVanguard/legion) - Open source semi-automated discovery and reconnaissance network penetration testing framework.
+*   [Legion (⭐921)](https://github.com/GoVanguard/legion) - Open source semi-automated discovery and reconnaissance network penetration testing framework.
 
-## [10. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
+## [11. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
 ### Alertmanager / Miscellaneous
 
-*   [Karma (⭐1.9k)](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager.
+*   [Karma (⭐2k)](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager.
 
-## [11. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
+## [12. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
 ### JavaScript References
 
@@ -115,7 +121,7 @@ Free
 
 *   [Exploring ES6](http://exploringjs.com/es6.html) - Good introduction with in-depth chapters.
 
-## [12. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
+## [13. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
 ### Education / Articles
 
@@ -125,17 +131,17 @@ Free
 
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [Vapor - Beginner to Advanced](https://www.youtube.com/channel/UCoLEXFUHIKXunm9QJjsAftw/videos)
 
-## [13. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [14. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Data Formats
 
-*   [BinData (⭐41)](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
+*   [BinData (⭐42)](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
 
-## [14. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [15. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Browser Extensions
 
-*   [Anti-Paywall (⭐628)](https://github.com/nextgens/anti-paywall) A browser extension that maximizes the chances of bypassing paywalls
+*   [Anti-Paywall (⭐647)](https://github.com/nextgens/anti-paywall) A browser extension that maximizes the chances of bypassing paywalls
 
 ### Password Vaults
 
@@ -147,7 +153,7 @@ Free
 
 ### Seedboxes / WebTorrent Clients
 
-*   [SeedSync (⭐251)](https://github.com/ipsingh06/seedsync) SeedSync is a GUI-configurable, LFTP-based file transfer and management program.
+*   [SeedSync (⭐268)](https://github.com/ipsingh06/seedsync) SeedSync is a GUI-configurable, LFTP-based file transfer and management program.
 
 ### DDL Search Engines and Crawlers / Free Indexers
 
@@ -171,9 +177,9 @@ Free
 
 ### Plex Scripts and Tools / Third Party Hosts
 
-*   [PlexMissingEpisodes (⭐42)](https://github.com/MysticRyuujin/PlexMissingEpisodes) Scan Plex library for missing episodes using TheTVDB#
-*   [Gaps (⭐514)](https://github.com/JasonHHouse/Gaps) Find the missing movies in your Plex Server
-*   [PlexRecs (⭐30)](https://github.com/nwithan8/PlexRecs) A Discord bot that provides movie and TV show recommendations from your Plex library
+*   [PlexMissingEpisodes (⭐43)](https://github.com/MysticRyuujin/PlexMissingEpisodes) Scan Plex library for missing episodes using TheTVDB#
+*   [Gaps (⭐546)](https://github.com/JasonHHouse/Gaps) Find the missing movies in your Plex Server
+*   [PlexRecs (⭐33)](https://github.com/nwithan8/PlexRecs) A Discord bot that provides movie and TV show recommendations from your Plex library
 *   ["I made my own Pseudo TV for Plex with Kodi and Nvidia Shield"](https://old.reddit.com/r/PleX/comments/awsvp9/i_made_my_own_pseudo_tv_for_plex_with_kodi_and/ehox9zf/) Guide from /u/nads84 on how to make your own "live" TV channels with a Plex library, Kodi, and an NVIDIA Shield
 
 ### Gaming / Third Party Hosts
@@ -197,7 +203,7 @@ Free
 
 ### Fonts, Icons, and Graphics / Third Party Hosts
 
-*   [gallery-dl (⭐5.7k)](https://github.com/mikf/gallery-dl) Command-line program to download image-galleries and -collections from several image hosting sites
+*   [gallery-dl (⭐7.6k)](https://github.com/mikf/gallery-dl) Command-line program to download image-galleries and -collections from several image hosting sites
 
 ### Automation / Third Party Hosts
 
@@ -247,15 +253,15 @@ Free
 
 *   [Multiup](https://multiup.org/) Website which allows you to upload files to several different file hosting websites.
 *   [DirtyWarez](https://dirtywarez.org/) Lists top warez sites with Alexa rankings and other metadata.
-*   [MacGuffin (⭐84)](https://github.com/hwkns/macguffin) Automated tools for handling Scene and P2P film releases.
+*   [MacGuffin (⭐87)](https://github.com/hwkns/macguffin) Automated tools for handling Scene and P2P film releases.
 
-## [15. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [16. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Testing / Scala
 
 *   [Hikaku (⭐189)](https://github.com/codecentric/hikaku) - A library that tests if the implementation of a REST-API meets its specification.
 
-## [16. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [17. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Theory
 
@@ -265,7 +271,7 @@ Free
 
 *   [do (⭐25)](https://github.com/8gears/do)  The simplest build tool on earth. Agnostic and multipurpose build tool and a build file. Tries to be better than the usual shell hell.
 
-## [17. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [18. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Development
 
@@ -281,7 +287,7 @@ Free
 
 
 
-## [18. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [19. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### Supported Distributions / Pengwin
 
@@ -294,13 +300,7 @@ Free
 
 ### Unofficial Distributions / AlmaLinux OS
 
-*   [wsldl (⭐1.4k)](https://github.com/yuk7/wsldl) - General purpose WSL installer and launcher. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
-
-## [19. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
-
-### Tools
-
-*   [ipfs-common](https://github.com/arsyun) - Some common tools, 1.CID to human readable cid, 2.cid and block name convert, 3. read the leveldb tools. [Source (⭐3)](https://github.com/arsyun/ipfs-common)
+*   [wsldl (⭐1.5k)](https://github.com/yuk7/wsldl) - General purpose WSL installer and launcher. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [20. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
@@ -310,7 +310,7 @@ Free
 
 ### Development / Release
 
-*   [clog (⭐810)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
+*   [clog (⭐818)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
 
 ## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -324,15 +324,15 @@ Free
 
 ### Projects Using Vue.js / Open Source
 
-*   [FireX Proxy (⭐96)](https://github.com/Orogenesis/FireX-Proxy) - FireX Proxy is the user's trusted Chrome and Firefox browser extension that allows you to unblock any website and browse the web privately and securely. 🛡
+*   [FireX Proxy (⭐95)](https://github.com/Orogenesis/FireX-Proxy) - FireX Proxy is the user's trusted Chrome and Firefox browser extension that allows you to unblock any website and browse the web privately and securely. 🛡
 
 ### Components & Libraries / UI Components
 
-*   [vue-currency-input (⭐509)](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
+*   [vue-currency-input (⭐554)](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
 
 ### Components & Libraries / Utilities
 
-*   [vue-direction (⭐35)](https://github.com/shwilliam/vue-direction) - 👋 Direction aware hover in Vuejs
+*   [vue-direction (⭐36)](https://github.com/shwilliam/vue-direction) - 👋 Direction aware hover in Vuejs
 *   [vue-unique-id (⭐47)](https://github.com/berniegp/vue-unique-id) - Generates unique component ids and component-scoped HTML ids.
 
 ## [22. Amas](/content/sindresorhus/amas/week/README.md)
@@ -444,7 +444,7 @@ Free
 ### Tools / Community Chat Rooms
 
 *   [xargo (⭐1k)](https://github.com/japaric/xargo) Rust package manager with support for non-default std libraries — build rust runtime for your own embedded system.
-    *   xargo is great but it's in maintenance mode, [cargo-xbuild (⭐245)](https://github.com/rust-osdev/cargo-xbuild) is catching up as intended replacement.
+    *   xargo is great but it's in maintenance mode, [cargo-xbuild (⭐248)](https://github.com/rust-osdev/cargo-xbuild) is catching up as intended replacement.
 
 ### HAL implementation crates / STMicroelectronics
 
@@ -465,28 +465,28 @@ Free
 
 ### API
 
-*   [Ocelot (⭐7.6k)](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
+*   [Ocelot (⭐7.9k)](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
 
 ### Interoperability
 
-*   [Pyrolite (⭐171)](https://github.com/irmen/Pyrolite) - This library allows your Java or .NET program to interface very easily with
+*   [Pyrolite (⭐174)](https://github.com/irmen/Pyrolite) - This library allows your Java or .NET program to interface very easily with
     the Python world. It uses the Pyro protocol to call methods on remote objects.
 
 ### Scheduling
 
-*   [Workflow Core (⭐4.6k)](https://github.com/danielgerlag/workflow-core) - Lightweight embeddable workflow engine
+*   [Workflow Core (⭐4.8k)](https://github.com/danielgerlag/workflow-core) - Lightweight embeddable workflow engine
 
 ## [31. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - SIP
 
-*   [FusionPBX](https://www.fusionpbx.com/) - Open source project that provides a customizable and flexible web interface to the very powerful and highly scalable multi-platform voice switch called FreeSWITCH. ([Source Code (⭐630)](https://github.com/fusionpbx/fusionpbx)) `MPL-1.1` `PHP`
+*   [FusionPBX](https://www.fusionpbx.com/) - Open source project that provides a customizable and flexible web interface to the very powerful and highly scalable multi-platform voice switch called FreeSWITCH. ([Source Code (⭐668)](https://github.com/fusionpbx/fusionpbx)) `MPL-1.1` `PHP`
 
 ## [32. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
-*   [Qiskit Tutorials (⭐2k)](https://github.com/Qiskit/qiskit-tutorial) - Jupyter notebooks simply demonstrating how to use Qiskit.
+*   [Qiskit Tutorials (⭐2.2k)](https://github.com/Qiskit/qiskit-tutorial) - Jupyter notebooks simply demonstrating how to use Qiskit.
 
 ### Community
 
@@ -506,16 +506,16 @@ Free
 
 ### Plugins / Practices and Specific ES Features
 
-*   [array-func (⭐83)](https://github.com/freaktechnik/eslint-plugin-array-func) - Avoid redundancy when using es2015 array methods and functions.
-*   [arrow functions (⭐296)](https://github.com/getify/eslint-plugin-proper-arrows) - ESLint rules to ensure proper arrow function definitions.
-*   [no-loops (⭐119)](https://github.com/buildo/eslint-plugin-no-loops) - It's 2019 and you still use loops?
+*   [array-func (⭐85)](https://github.com/freaktechnik/eslint-plugin-array-func) - Avoid redundancy when using es2015 array methods and functions.
+*   [arrow functions (⭐300)](https://github.com/getify/eslint-plugin-proper-arrows) - ESLint rules to ensure proper arrow function definitions.
+*   [no-loops (⭐120)](https://github.com/buildo/eslint-plugin-no-loops) - It's 2019 and you still use loops?
 
 ## [35. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
-*   [next-i18next (⭐4.4k)](https://github.com/isaachinman/next-i18next) - The easiest way to translate your NextJs apps.
-*   [Serverless Framework plugin for Next.js (⭐4.1k)](https://github.com/danielcondemarin/serverless-nextjs-plugin) - Deploy serverless applications with ease.
+*   [next-i18next (⭐4.9k)](https://github.com/isaachinman/next-i18next) - The easiest way to translate your NextJs apps.
+*   [Serverless Framework plugin for Next.js (⭐4.3k)](https://github.com/danielcondemarin/serverless-nextjs-plugin) - Deploy serverless applications with ease.
 
 ## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -525,18 +525,18 @@ Free
 
 ### Math
 
-*   [SymEngine (⭐984)](https://github.com/symengine/symengine) - Fast symbolic manipulation library, a rewriting of SymPy's core in C++. \[MIT]
+*   [SymEngine (⭐1k)](https://github.com/symengine/symengine) - Fast symbolic manipulation library, a rewriting of SymPy's core in C++. \[MIT]
 
 ### Networking
 
-*   [Restinio (⭐978)](https://github.com/Stiffstream/restinio) - A header-only C++14 library that gives you an embedded HTTP/Websocket server. \[BSD]
-*   [cpp-netlib/uri (⭐129)](https://github.com/cpp-netlib/uri) - URI parser/builder library for C++, compatible with RFC 3986 and RFC 3987. \[Boost]
+*   [Restinio (⭐1k)](https://github.com/Stiffstream/restinio) - A header-only C++14 library that gives you an embedded HTTP/Websocket server. \[BSD]
+*   [cpp-netlib/uri (⭐131)](https://github.com/cpp-netlib/uri) - URI parser/builder library for C++, compatible with RFC 3986 and RFC 3987. \[Boost]
 *   [restclient-cpp (⭐1.5k)](https://github.com/mrtazz/restclient-cpp) - Simple REST client for C++. It wraps libcurl for HTTP requests. \[MIT]
-*   [uriparser (⭐284)](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. \[BSD-3-Clause]
+*   [uriparser (⭐295)](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. \[BSD-3-Clause]
 
 ### Build Systems
 
-*   [Vcpkg (⭐19k)](https://github.com/microsoft/vcpkg) - C++ library manager for Windows, Linux, and MacOS. \[MIT]
+*   [Vcpkg (⭐20k)](https://github.com/microsoft/vcpkg) - C++ library manager for Windows, Linux, and MacOS. \[MIT]
 
 ### Podcasts
 
@@ -544,11 +544,11 @@ Free
 
 ### Other Awesome Projects
 
-*   [30 Seconds of C++ (⭐1.3k)](https://github.com/Bhupesh-V/30-seconds-of-cpp)
+*   [30 Seconds of C++ (⭐1.4k)](https://github.com/Bhupesh-V/30-seconds-of-cpp)
 
 ## [37. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Bindings / MIT
+### Bindings / Apache License
 
 *   [boehmgc-ada (⭐5)](https://github.com/ytomino/boehmgc-ada) - Ada binding to the Boehm-Demers-Weiser conservative garbage collector.
 
@@ -569,13 +569,13 @@ Free
 
 ### Runtimes/Frontends
 
-*   [JupyterWith (⭐450)](https://github.com/tweag/jupyterWith) - Nix-based framework for the definition of declarative and reproducible Jupyter environments.
+*   [JupyterWith (⭐488)](https://github.com/tweag/jupyterWith) - Nix-based framework for the definition of declarative and reproducible Jupyter environments.
 
 ## [41. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Automation / Code libraries and bindings
 
-*   [censys-python (⭐313)](https://github.com/censys/censys-python) - Python wrapper to the Censys REST API.
+*   [censys-python (⭐337)](https://github.com/censys/censys-python) - Python wrapper to the Censys REST API.
 
 ### Windows-based defenses / Overlay and Virtual Private Networks (VPNs)
 
@@ -591,7 +591,7 @@ Free
 
 ### Utilities / Game Engine resources
 
-*   [FVM (⭐3.2k)](https://github.com/leoafarias/fvm) <!--stargazers:leoafarias/fvm--> - Flutter Version Management: A simple cli to manage Flutter SDK versions.
+*   [FVM (⭐3.6k)](https://github.com/leoafarias/fvm) <!--stargazers:leoafarias/fvm--> - Flutter Version Management: A simple cli to manage Flutter SDK versions.
 
 ### VSCode / Game Engine resources
 
@@ -625,7 +625,7 @@ Free
 
 *   [ghub.io](https://ghub.io) - Redirects to the GitHub repo of an npm package.
 
-### Community / `pre`   and   `post`   scripts
+### Community / `pre` and `post` scripts
 
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/npm)
 *   [Blog](https://blog.npmjs.org)

@@ -10,11 +10,11 @@
 
 ### Interoperability
 
-*   [PInvoke Interop Assistant (⭐374)](https://github.com/jaredpar/pinvoke-interop-assistant) - Converts C to managed P/Invoke signatures or verse visa.
+*   [PInvoke Interop Assistant (⭐390)](https://github.com/jaredpar/pinvoke-interop-assistant) - Converts C to managed P/Invoke signatures or verse visa.
 
 ### Search
 
-*   [SolrExpress (⭐66)](https://github.com/solr-express/solr-express) - A simple and lightweight query .NET library for Solr, in a controlled, buildable and fail fast way
+*   [SolrExpress (⭐65)](https://github.com/solr-express/solr-express) - A simple and lightweight query .NET library for Solr, in a controlled, buildable and fail fast way
 
 ## [2. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Boilerplates
 
-*   [NextJS Headless CMS Powered Blog Starter (⭐132)](https://github.com/ButterCMS/react-cms-blog-with-next-js)
+*   [NextJS Headless CMS Powered Blog Starter (⭐140)](https://github.com/ButterCMS/react-cms-blog-with-next-js)
 
 ## [5. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -77,18 +77,16 @@
 
 ### Projects / Open Source Projects
 
-*   [Newspaper app with custom user model, full user auth (⭐933)](https://github.com/wsvincent/djangoforbeginners/tree/master/ch15-comments)
-*   [Image Sharing Blog (⭐42)](https://github.com/MeNsaaH/soMedia)
+*   [Newspaper app with custom user model, full user auth (⭐990)](https://github.com/wsvincent/djangoforbeginners/tree/master/ch15-comments)
+*   [Image Sharing Blog (⭐54)](https://github.com/MeNsaaH/soMedia)
 
 ### Django REST Framework / DRF Resources
 
-*   [DRF Source Code (⭐26k)](https://github.com/encode/django-rest-framework)
+*   [DRF Source Code (⭐27k)](https://github.com/encode/django-rest-framework)
 
 ### Django REST Framework / DRF Tutorials
 
-*   [DRF Blog API](https://wsvincent.com/django-rest-framework-tutorial/)
 *   [Building APIs with Django and DRF](https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/)
-*   [DRF with React: Todo API](https://wsvincent.com/django-rest-framework-react-tutorial/)
 *   [Making React and Django play well together](https://fractalideas.com/blog/making-react-and-django-play-well-together/)
 
 ## [7. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
@@ -113,12 +111,12 @@
 
 ### Contents / Business
 
-*   [Invoice Ninja (⭐1.3k)](https://github.com/invoiceninja/flutter-mobile) - Companion app for the Invoice Ninja by [Invoice Ninja](https://github.com/invoiceninja).
-*   [Flutter Jobs App (⭐224)](https://github.com/Rahiche/flutter_jobs_app) - Flutter job board app by [Raouf Rahiche (⭐224)](https://github.com/Rahiche/flutter_jobs_app).
+*   [Invoice Ninja (⭐1.4k)](https://github.com/invoiceninja/flutter-mobile) - Companion app for the Invoice Ninja by [Invoice Ninja](https://github.com/invoiceninja).
+*   [Flutter Jobs App (⭐225)](https://github.com/Rahiche/flutter_jobs_app) - Flutter job board app by [Raouf Rahiche (⭐225)](https://github.com/Rahiche/flutter_jobs_app).
 
 ### Contents / Personalization
 
-*   [Furniture (⭐315)](https://github.com/rajayogan/flutterui-furnitureapp) - Code for Furniture app dashboard created by [Raja Yogan](https://github.com/rajayogan/).
+*   [Furniture (⭐320)](https://github.com/rajayogan/flutterui-furnitureapp) - Code for Furniture app dashboard created by [Raja Yogan](https://github.com/rajayogan/).
 
 ### Contents / Productivity
 
@@ -126,17 +124,17 @@
 
 ### Contents / Tools
 
-*   [Trovami (⭐252)](https://github.com/Samaritan1011001/Trovami) - A Live location app created in Flutter using Firebase as the backend by [ManojNB](https://github.com/Samaritan1011001)
+*   [Trovami (⭐251)](https://github.com/Samaritan1011001/Trovami) - A Live location app created in Flutter using Firebase as the backend by [ManojNB](https://github.com/Samaritan1011001)
 
 ### Contents / Travel
 
-*   [Tourism (⭐285)](https://github.com/bluemix/tourism-demo) - A Flutter tourism app by [Abdulmomen Kadum](https://github.com/bluemix/)
+*   [Tourism (⭐297)](https://github.com/bluemix/tourism-demo) - A Flutter tourism app by [Abdulmomen Kadum](https://github.com/bluemix/)
 
 ## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Download Management Tools / File Sharing
 
-*   [youtube-dl (⭐121k)](https://github.com/rg3/youtube-dl/) - Command-line program to download videos from YouTube.com and other video sites [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rg3/youtube-dl/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [youtube-dl (⭐124k)](https://github.com/rg3/youtube-dl/) - Command-line program to download videos from YouTube.com and other video sites [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rg3/youtube-dl/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ---
 

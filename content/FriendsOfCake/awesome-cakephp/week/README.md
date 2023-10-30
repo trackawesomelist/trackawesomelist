@@ -22,7 +22,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Authentication and Authorization
 
-*   [ApiTokenAuthenticator plugin (⭐3)](https://github.com/rrd108/api-token-authenticator) - A simple token authentication plugin for CakePHP REST APIs.
+*   🍰 [ApiTokenAuthenticator plugin (⭐3)](https://github.com/rrd108/api-token-authenticator) - A simple token authentication plugin for CakePHP REST APIs.
 
 ## [Jun 19 - Jun 25, 2023](/content/2023/25/README.md)
 
@@ -162,7 +162,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Security
 
-*   [Recaptcha plugin (⭐20)](https://github.com/ctlabvn/Recaptcha) - Simple, lightweight Google Recaptcha v2.
+*   🍰 [Recaptcha plugin (⭐20)](https://github.com/ctlabvn/Recaptcha) - Simple, lightweight Google Recaptcha v2.
 
 ### Templating
 
@@ -446,7 +446,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 ### Code Analysis
 
 *   🍰 [IdeHelper plugin (⭐176)](https://github.com/dereuromark/cakephp-ide-helper) - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code.
-*   [TestHelper plugin (⭐7)](https://github.com/dereuromark/cakephp-test-helper) - Provides testing enhancements and TDD support as browser backend.
+*   🍰 [TestHelper plugin (⭐7)](https://github.com/dereuromark/cakephp-test-helper) - Provides testing enhancements and TDD support as browser backend.
 
 ### Queue
 

@@ -16,25 +16,25 @@
 
 ### Other plugins
 
-*   [Playlist (⭐17)](https://github.com/phiamo/capacitor-plugin-playlist) - Native support for audio playlists, background support, and lock screen controls.
+*   [Playlist (⭐22)](https://github.com/phiamo/capacitor-plugin-playlist) - Native support for audio playlists, background support, and lock screen controls.
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [shinkansen (⭐0)](https://github.com/MRZ07/shinkansen.zsh-theme) - A fast, customizable and easily extended theme. Includes decorators for rhw python version in the active virtualenv, current ruby version if you're using `chruby`, current node.js version, current java version, current go version, current perl version if using `chperl`, current elixir version, `git` status, time, current directory, exit code and execution time of the last command, and an optional custom message. Requires a powerline-compatible font.
+*   [shinkansen (⭐0)](https://github.com/MRZ07/shinkansen.zsh-theme) - A fast, customizable and easily extended theme. Includes decorators for rhw python version in the active virtualenv, current ruby version if you're using `chruby`, current Node.js version, current java version, current go version, current perl version if using `chperl`, current elixir version, `git` status, time, current directory, exit code and execution time of the last command, and an optional custom message. Requires a powerline-compatible font.
 
 ## [4. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Miscellaneous
 
-*   [wild-wild-path (⭐614)](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
+*   [wild-wild-path (⭐627)](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
 
 ## [5. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Files/Images
 
-*   [django-pictures (⭐137)](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP.
+*   [django-pictures (⭐160)](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP.
 
 ---
 

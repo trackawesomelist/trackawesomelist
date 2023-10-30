@@ -10,7 +10,7 @@
 
 ### Community / Interfaces to other package managers
 
-*   [alien-works-delivery (⭐31)](https://github.com/borodust/alien-works-delivery) - WIP system for delivering Common Lisp applications as executable bundles. For now it only supports AppImage format for Linux and MSIX for Windows, but .APK for Android and later MacOSX and iOS bundle formats are planned too.
+*   [alien-works-delivery (⭐32)](https://github.com/borodust/alien-works-delivery) - WIP system for delivering Common Lisp applications as executable bundles. For now it only supports AppImage format for Linux and MSIX for Windows, but .APK for Android and later MacOSX and iOS bundle formats are planned too.
 
 ## [2. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
@@ -22,11 +22,11 @@
 
 ### Data Visualization on Maps
 
-*   [locationiq.com](https://locationiq.com/) — Geocoding, Maps, and Routing APIs. 5000 requests/day for free.
+*   [locationiq.com](https://locationiq.com/) — Geocoding, Maps, and Routing APIs. Five thousand requests/day for free.
 
 ### Other Free Resources
 
-*   [Free Code Tools](https://freecodetools.org/) — Effective code tools which are 100% free. Markdown editor, Code minifier/beautifier, QR code generator, Open Graph Generator, Twitter card Generator and more.
+*   [Free Code Tools](https://freecodetools.org/) — Effective code tools which are 100% free. Markdown editor, Code minifier/beautifier, QR code generator, Open Graph Generator, Twitter card Generator, and more.
 
 ## [4. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -54,9 +54,9 @@
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [minimal-terminal (⭐37)](https://github.com/Lissy93/minimal-terminal-prompt) - Includes decorators for username\@host, current directory, `git` information and the last command's exit code.
+*   [minimal-terminal (⭐42)](https://github.com/Lissy93/minimal-terminal-prompt) - Includes decorators for username\@host, current directory, `git` information and the last command's exit code.
 
 ---
 

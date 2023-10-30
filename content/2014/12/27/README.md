@@ -14,13 +14,13 @@
 
 ### IoC
 
-*   [LightInject (⭐586)](https://github.com/seesharper/LightInject) - A ultra lightweight IoC container
+*   [LightInject (⭐604)](https://github.com/seesharper/LightInject) - A ultra lightweight IoC container
 
 ## [2. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Demo
 
-*   [Bookmarkr](https://github.com/lorenzo/cakephp3-bookmarkr) A bookmarking application built with the CRUD plugin.
+*   [Bookmarkr (⭐17)](https://github.com/lorenzo/cakephp3-bookmarkr) A bookmarking application built with the CRUD plugin.
 *   [Query Examples (⭐56)](https://github.com/lorenzo/cakephp3-examples) Advanced query building examples.
 
 ## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
@@ -37,11 +37,7 @@
 
 ### Configuration
 
-*   [Nginx HTTP server boilerplate configs (⭐10k)](https://github.com/h5bp/server-configs-nginx)
-
-### APIs
-
-*   [Simple API with Nginx and PostgreSQL](http://rny.io/nginx/postgresql/2013/07/26/simple-api-with-nginx-and-postgresql.html)
+*   [Nginx HTTP server boilerplate configs (⭐11k)](https://github.com/h5bp/server-configs-nginx)
 
 ### Talks
 

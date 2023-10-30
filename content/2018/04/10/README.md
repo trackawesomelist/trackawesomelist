@@ -13,7 +13,6 @@
 *   Get a Lisp environment.
 *   Bookmark the [The Common Lisp Hyperspec](http://www.lispworks.com/documentation/common-lisp.html).
 *   Download and work through a Lisp book of an appropriate level. Type the examples and play with the code. Feel free to switch books and try a different one.
-*   Try out [Exercism](http://exercism.io/languages/common-lisp/about).
 *   Learn about [Quicklisp](https://www.quicklisp.org/beta/).
 *   At some point, read your Lisp implementation's manual.
 
@@ -37,7 +36,7 @@
 
 ### Contents / Tools
 
-*   [p8 (⭐39)](https://github.com/jozanza/p8) - A dependency manager and build tool. Lets you share code/sprites, `require()` dependencies, and auto-reload carts on save. Works with any external code editor and supports [MoonScript](https://moonscript.org/).
+*   [p8 (⭐44)](https://github.com/jozanza/p8) - A dependency manager and build tool. Lets you share code/sprites, `require()` dependencies, and auto-reload carts on save. Works with any external code editor and supports [MoonScript](https://moonscript.org/).
 
 ## [5. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -74,13 +73,13 @@
 
 ### Utilities
 
-*   [built\_collection (⭐248)](https://github.com/google/built_collection.dart) - Immutable collections via the builder pattern.
+*   [built\_collection (⭐270)](https://github.com/google/built_collection.dart) - Immutable collections via the builder pattern.
 
 ## [11. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Example Projects
 
-*   [Keycloak - Experimental extensions by Stian Thorgersen/Keycloak (⭐119)](https://github.com/stianst/keycloak-experimental)
+*   [Keycloak - Experimental extensions by Stian Thorgersen/Keycloak (⭐122)](https://github.com/stianst/keycloak-experimental)
 
 ---
 

@@ -17,12 +17,12 @@
 
 ### Miscellaneous
 
-*   [stb (⭐22k)](https://github.com/nothings/stb) :zap: - A range of single-file libraries for C/C++. \[PublicDomain]
+*   [stb (⭐23k)](https://github.com/nothings/stb) :zap: - A range of single-file libraries for C/C++. \[PublicDomain]
 
 ### Other Awesome Projects
 
-*   [awesome (⭐254k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
-*   [nothings/single\_file\_libs (⭐8.1k)](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
+*   [awesome (⭐274k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
+*   [nothings/single\_file\_libs (⭐8.3k)](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
 
 ## [3. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
 
@@ -37,13 +37,13 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Material Dashboard (⭐160)](https://github.com/lucduong/vue-material-dashboard) - Creative Tim Material Dashboard made for Vue
+*   [Material Dashboard (⭐156)](https://github.com/lucduong/vue-material-dashboard) - Creative Tim Material Dashboard made for Vue
 
 ## [5. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Version Control / Git
 
-*   [git-secret (⭐3.2k)](https://github.com/sobolevn/git-secret) - Store your private data inside a git repository.
+*   [git-secret (⭐3.4k)](https://github.com/sobolevn/git-secret) - Store your private data inside a git repository.
 
 ## [6. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 

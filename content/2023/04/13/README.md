@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 13, 2023
 
-16 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,9 +18,9 @@
 
 ## [2. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
-### Installation Media / Newsletters
+### Installation Media / Discovery
 
-*   [nix-installer (⭐540)](https://github.com/DeterminateSystems/nix-installer) - Opinonated alternative to the official Nix install scripts.
+*   [nix-installer (⭐896)](https://github.com/DeterminateSystems/nix-installer) - Opinonated alternative to the official Nix install scripts.
 
 ## [3. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -31,11 +31,11 @@
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Large Language Models / Contribute to Our Repository
+### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
 *   [Free Dolly | The Databricks Blog](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm): open source, instruction-following LLM, fine-tuned on a human-generated instruction dataset licensed for research and commercial use
 
-### Inbox: Large Language Models / Autonomous LLM Agents
+### Inbox: Large Language Models (LLMs) / Autonomous LLM Agents
 
 *   [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442): a paper that presents computational software agents that simulate believable human behavior
 
@@ -45,52 +45,38 @@
 
 *   [State Hasn't Changed? Why and when Blazor components re-render](https://jonhilton.net/blazor-rendering/) - April 12, 2023 - Sooner or later, as you build out your Blazor UI, you’re going to hit a situation where your component isn’t re-rendering when you expect it to.
 
-## [6. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
-
-### Python / Financial Instruments and Pricing
-
-*   [AbsBox (⭐12)](https://github.com/yellowbean/AbsBox) - A Python based library to model cashflow for structured product like Asset-backed securities (ABS) and Mortgage-backed securities (MBS).
-
-### JavaScript / FrameWorks
-
-*   [PENDAX (⭐34)](https://github.com/CompendiumFi/PENDAX-SDK) - Javascript SDK for Trading/Data API and Websockets for FTX, FTXUS, OKX, Bybit, & More.
-
-## [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [6. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Copilot
 
-*   [Turbopilot (⭐3.5k)](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU.
+*   [Turbopilot (⭐3.8k)](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU.
 
-## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### C bindings
 
-*   [crystal-gsl (⭐1)](https://github.com/konovod/crystal-gsl) - Bindings for [GNU Scientific Library](https://www.gnu.org/software/gsl/)
+*   [crystal-gsl (⭐2)](https://github.com/konovod/crystal-gsl) - Bindings for [GNU Scientific Library](https://www.gnu.org/software/gsl/)
 
 ### Implementations/Compilers
 
-*   [novika (⭐9)](https://github.com/novika-lang/novika) - A free-form, moldable, interpreted programming language
+*   [novika (⭐12)](https://github.com/novika-lang/novika) - A free-form, moldable, interpreted programming language
 
-## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Game development
 
 *   Skillratings
-    *   [atomflunder/skillratings (⭐16)](https://github.com/atomflunder/skillratings) \[[skillratings](https://crates.io/crates/skillratings)] - Collection of skill rating algorithms for multiplayer games like Elo, Glicko-2, TrueSkill etc. [![crates.io badge](https://img.shields.io/crates/v/skillratings)](https://crates.io/crates/skillratings) [![CI](https://github.com/atomflunder/skillratings/actions/workflows/ci.yml/badge.svg)](https://github.com/atomflunder/skillratings/actions/workflows/ci.yml)
+    *   [atomflunder/skillratings (⭐23)](https://github.com/atomflunder/skillratings) \[[skillratings](https://crates.io/crates/skillratings)] - Collection of skill rating algorithms for multiplayer games like Elo, Glicko-2, TrueSkill etc. [![crates.io badge](https://img.shields.io/crates/v/skillratings)](https://crates.io/crates/skillratings) [![CI](https://github.com/atomflunder/skillratings/actions/workflows/ci.yml/badge.svg)](https://github.com/atomflunder/skillratings/actions/workflows/ci.yml)
 
-## [10. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
-
-### Projects / API Management
-
-*   [WSO2 API Manager (⭐699)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
+## [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Integration Patterns / Integration Architecture Patterns
 
-*   [API-led Connectivity pattern (⭐3k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/API-led-Connectivity-Pattern.md) - Use APIs to connect different systems and applications.
-*   [Anti Corruption Layer Pattern (⭐3k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Anti-Corruption-Layer-Pattern.md) - Add a layer to isolate and transform data between systems.
-*   [Change Data Capture Pattern (⭐3k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Introduction-to-Change-Data-Capture.md) - Capture and propagate changes made to a database or data source in real-time.
-*   [Hybrid API Management pattern (⭐3k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Hybrid-API-Management-Pattern.md) - Manage APIs that span both cloud and on-premises environments using a central control plane.
-*   [Hybrid Integration pattern (⭐3k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Hybrid-Integration-Pattern.md) - Integrate systems and applications that are deployed both on-premises and in the cloud using a combination of integration technologies.
+*   [API-led Connectivity pattern (⭐3.1k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/API-led-Connectivity-Pattern.md) - Use APIs to connect different systems and applications.
+*   [Anti Corruption Layer Pattern (⭐3.1k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Anti-Corruption-Layer-Pattern.md) - Add a layer to isolate and transform data between systems.
+*   [Change Data Capture Pattern (⭐3.1k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Introduction-to-Change-Data-Capture.md) - Capture and propagate changes made to a database or data source in real-time.
+*   [Hybrid API Management pattern (⭐3.1k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Hybrid-API-Management-Pattern.md) - Manage APIs that span both cloud and on-premises environments using a central control plane.
+*   [Hybrid Integration pattern (⭐3.1k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Hybrid-Integration-Pattern.md) - Integrate systems and applications that are deployed both on-premises and in the cloud using a combination of integration technologies.
 
 ### Resources / Certifications
 
@@ -103,21 +89,21 @@
 *   [Red Hat Certified Specialist in API Management](https://www.redhat.com/en/services/certification/red-hat-certified-specialist-api-management) - Validates the ability to create and maintain enterprise APIs using the Red Hat 3scale API Management platform.
 *   [TIBCO BusinessWorks Associate](https://www.tibco.com/services/education/certification/tibco-businessworks-associate-certification-exam) - Checks the understanding of Business Studio and TIBCO Cloud Integration, designing application components (modules, WSDL, REST API), developing integration applications, and testing, deploying, and managing applications.
 
-## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [lpicanco/krate](https://lpicanco.github.io/krate) - Krate is a rate limiter library designed specifically for Kotlin applications. In memory, Redis and Caffeine support.
-*   [kryptokrona/kryptokrona-kotlin-sdk (⭐43)](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
+*   [kryptokrona/kryptokrona-kotlin-sdk (⭐46)](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
 
-## [12. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+## [11. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Tools & Software / Utilities
 
 *   [Warchaeology](https://nlnwa.github.io/warchaeology/) - Warchaeology is a collection of tools for inspecting, manipulating, deduplicating and validating WARC-files. *Stable*
 *   [warcrefs (⭐5)](https://github.com/arcalex/warcrefs) - Web archive deduplication tools. *Stable*
 
-## [13. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
+## [12. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Meshing / Triangular and tetrahedral meshing
 
@@ -142,39 +128,33 @@
 *   [orthopy (⭐168)](https://github.com/sigma-py/orthopy) - Compute orthogonal polynomials efficiently.
     (Python, proprietary, GitHub)
 
-## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### DBaaS
+### Managed Data Services
 
-*   [CrateDB](https://crate.io/) - Distributed Open Source SQL database for real-time analytics. [Free Tier CRFREE](https://crate.io/lp-crfree): One-node with 2 CPUs, 2 GiB of memory, 8 GiB of storage. 1 cluster per organization, no payment method needed.
+*   [CrateDB](https://crate.io/) - Distributed Open Source SQL database for real-time analytics. [Free Tier CRFREE](https://crate.io/lp-crfree): One-node with 2 CPUs, 2 GiB of memory, 8 GiB of storage. One cluster per organization, no payment method needed.
 
 ### Crash and Exception Handling
 
-*   [Axiom](https://axiom.co/) — Store up to 0.5 TB of logs with 30 day retention. Includes integrations with platforms like Vercel and advanced data querying with email/Discord notifiers.
+*   [Axiom](https://axiom.co/) — Store up to 0.5 TB of logs with 30-day retention. Includes integrations with platforms like Vercel and advanced data querying with email/Discord notifiers.
 
 ### Design and UI
 
-*   [hypercolor.dev](https://hypercolor.dev/) -- A curated collection of of Tailwind CSS color gradients, also provides a variety of generators to create your own.
+*   [hypercolor.dev](https://hypercolor.dev/) -- A curated collection of Tailwind CSS color gradients also provides a variety of generators to create your own.
 
 ### Other Free Resources
 
 *   [Glob tester](https://globster.xyz/) — A website that allows you to design and test glob patterns. It also provides resources to learn glob patterns.
 
-## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Git / Diagnostics
 
-*   [aaronhallaert/advanced-git-search.nvim (⭐170)](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit content, message and author with Telescope.
+*   [aaronhallaert/advanced-git-search.nvim (⭐215)](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit content, message and author with Telescope.
 
 ### Editing Support / Diagnostics
 
-*   [chrisgrieser/nvim-alt-substitute (⭐33)](https://github.com/chrisgrieser/nvim-alt-substitute) - A substitute of vim's `:substitute` that uses Lua patterns instead of vim regex. Supports incremental preview.
-
-## [16. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
-
-### Learn / Videos
-
-*   [BabyAGI with LangChain](https://www.youtube.com/watch?v=DRgPyOXZ-oE)
+*   [chrisgrieser/nvim-alt-substitute (⭐38)](https://github.com/chrisgrieser/nvim-alt-substitute) - A substitute of vim's `:substitute` that uses Lua patterns instead of vim regex. Supports incremental preview.
 
 ---
 

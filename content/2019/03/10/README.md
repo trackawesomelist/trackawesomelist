@@ -36,13 +36,8 @@
 
 *   [Cytoscape](http://www.cytoscape.org/) - Cross-platform Java program to build, analyze and visualize networks. Also a JavaScript library.
     *   [Network Analysis with Cytoscape Tutorial](https://archaeologicalnetworks.wordpress.com/resources/#cytoscape) - Illustrated through an archaeological and geographical case study (2013).
-*   [Gephi](https://gephi.github.io/) - Cross-platform, free and open source tool for network visualization.
-    *   [Clément Levallois’ Gephi Tutorials](https://seinecle.github.io/gephi-tutorials/).
-    *   [Geographische Netzwerkvisualisierung mit dem Programm ‘Gephi’](http://www.podcampus.de/nodes/RJVZo), in German (2016).
-    *   [Introduction to Network Analysis and Visualization with Gephi](http://www.martingrandjean.ch/gephi-introduction/) (2015).
-    *   [Practical Social Network Analysis With Gephi](http://derekgreene.com/gephitutorial/) (2014).
 *   [Mathematica](https://www.wolfram.com/mathematica/) - Cross-platform program with graph theory and network analysis functionalities.
-    *   [IGraph/M (⭐79)](https://github.com/szhorvat/IGraphM) - Interface to use the `igraph` library from within Mathematica, using standard Mathematica `Graph` objects.
+    *   [IGraph/M (⭐80)](https://github.com/szhorvat/IGraphM) - Interface to use the `igraph` library from within Mathematica, using standard Mathematica `Graph` objects.
 *   [NodeXL](http://nodexl.codeplex.com/) - Free, open-source template to explore network graphs with Microsoft Excel.
     *   [The NodeXL Series](https://blogs.k-state.edu/it-news/tag/nodexl/) - Series of blog posts on using NodeXL (2013).
 *   [Pajek](http://mrvar.fdv.uni-lj.si/pajek/) - Windows program for large network analysis, free for noncommercial use.
@@ -58,7 +53,7 @@
 ### Software / JavaScript
 
 *   [d3.js](https://d3js.org/) - JavaScript visualization library that can plot [force-directed graphs](http://bl.ocks.org/mbostock/4062045).
-    *   [d3-force: Force-directed graph layout (⭐1.6k)](https://github.com/d3/d3-force) using velocity Verlet integration.
+    *   [d3-force: Force-directed graph layout (⭐1.7k)](https://github.com/d3/d3-force) using velocity Verlet integration.
     *   [d3-vector: Define connections between nodes as directional vectors (⭐4)](https://github.com/thepeoplesbourgeois/d3-vector), consisting of angles and magnitudes.
 
 ### Software / Julia
@@ -69,15 +64,15 @@
     *   [Dynamic Network Analysis in Julia](http://eprints.ma.man.ac.uk/2376/01/julia_eg_report.pdf).
 *   [Graphs.jl (⭐206)](https://github.com/JuliaLang/Graphs.jl) - Package to manipulate graph objects in Julia.
     *   [Creating Network Diagrams in Plotly from Julia](http://badhessian.org/2014/05/creating-network-diagrams-in-plotly-from-julia/).
-    *   [MetaGraphs (⭐48)](https://github.com/JuliaGraphs/MetaGraphs.jl) - Graph data structures with multiple heterogeneous metadata for Graphs.jl.
+    *   [MetaGraphs (⭐47)](https://github.com/JuliaGraphs/MetaGraphs.jl) - Graph data structures with multiple heterogeneous metadata for Graphs.jl.
 *   [JuliaGraphs](https://github.com/JuliaGraphs) - Suite of Julia packages for network analysis.
-    *   [GraphVisualize.jl (⭐5)](https://github.com/JuliaGraphs/GraphVisualize.jl) - Graph visualization built on top of [GLVisualize.jl (⭐247)](https://github.com/JuliaGL/GLVisualize.jl).
-    *   [LightGraphs.jl (⭐675)](https://github.com/JuliaGraphs/LightGraphs.jl) - Graph library with a focus on performance and simplicity.
+    *   [GraphVisualize.jl (⭐5)](https://github.com/JuliaGraphs/GraphVisualize.jl) - Graph visualization built on top of [GLVisualize.jl (⭐248)](https://github.com/JuliaGL/GLVisualize.jl).
+    *   [LightGraphs.jl (⭐672)](https://github.com/JuliaGraphs/LightGraphs.jl) - Graph library with a focus on performance and simplicity.
     *   [LightGraphsExtras.jl (⭐22)](https://github.com/JuliaGraphs/LightGraphsExtras.jl) - Community detection and other functionalities for the LightGraphs.jl package.
-    *   [NetworkLayout.jl (⭐84)](https://github.com/JuliaGraphs/NetworkLayout.jl) - Layout algorithms for graphs and trees.
+    *   [NetworkLayout.jl (⭐89)](https://github.com/JuliaGraphs/NetworkLayout.jl) - Layout algorithms for graphs and trees.
     *   [Networks.jl (⭐3)](https://github.com/JuliaGraphs/Networks.jl) - Additional graph functions for the LightGraphs.jl package.
     *   [GraphCentrality.jl (⭐4)](https://github.com/JuliaGraphs/GraphCentrality.jl) - Adds network measures to the Graphs.jl package.
-*   [NetworkViz.jl (⭐29)](https://github.com/abhijithanilkumar/NetworkViz.jl) - Package to visualize graphs produced with LightGraphs.jl, using [ThreeJS.jl (⭐53)](https://github.com/rohitvarkey/ThreeJS.jl).
+*   [NetworkViz.jl (⭐29)](https://github.com/abhijithanilkumar/NetworkViz.jl) - Package to visualize graphs produced with LightGraphs.jl, using [ThreeJS.jl (⭐55)](https://github.com/rohitvarkey/ThreeJS.jl).
     *   [Video presentation of the package](https://youtu.be/kY5te9NwXo8?list=PLP8iPy9hna6SQPwZUDtAM59-wPzCPyD_S) by its author at JuliaCon 2016.
 
 ### Software / R
@@ -141,18 +136,12 @@
 
 ### Software / Continuous Integration & Continuous Deployment
 
-*   [Buildbot](http://buildbot.net/) - Python-based toolkit for continuous integration. ([Source Code (⭐5k)](https://github.com/buildbot/buildbot)) `GPL-2.0` `Python`
-*   [CapsuleCD](https://analogj.github.io/capsulecd-slides/) - CD script for automating package/library releases (npm, cookbooks, gems, pip, jars, etc). ([Source Code (⭐97)](https://github.com/AnalogJ/capsulecd)) `MIT` `Go`
+*   [CapsuleCD](https://analogj.github.io/capsulecd-slides/) - CD script for automating package/library releases (npm, cookbooks, gems, pip, jars, etc). ([Source Code (⭐96)](https://github.com/AnalogJ/capsulecd)) `MIT` `Go`
 *   [drone](https://drone.io/) - Drone is a Continuous Delivery platform built on Docker, written in Go. ([Source Code (⭐27k)](https://github.com/drone/drone)) `Apache-2.0` `Go`
-*   [Factor](http://www.factor.io/) - Programmatically define and run workflows to connect configuration management, source code management, build, continuous integration, continuous deployment and communication tools. ([Source Code (⭐81)](https://github.com/factor-io/factor)) `MIT` `Ruby`
-*   [GitLab CI](https://about.gitlab.com/gitlab-ci/) - Gitlab's built-in, full-featured CI/CD solution. ([Source Code](https://gitlab.com/gitlab-org/gitlab-ce)) `MIT` `Ruby`
-*   [GoCD](http://www.go.cd/) - Continuous delivery server. ([Source Code (⭐6.8k)](https://github.com/gocd/gocd)) `Apache-2.0` `Java/Ruby`
 *   [GolangCI](https://golangci.com/) - Open Source automated code review service for Go integrated with GitHub pull requests. ([Source Code (⭐57)](https://github.com/golangci/golangci)) `AGPL-3.0` `Go`
 *   [Jenkins](https://jenkins-ci.org/) - Continuous Integration Server. ([Source Code (⭐21k)](https://github.com/jenkinsci/jenkins/)) `MIT` `Java`
-*   [Laminar](http://laminar.ohwg.net) - Fast, lightweight, simple and flexible Continuous Integration. ([Source Code (⭐255)](https://github.com/ohwgiles/laminar)) `GPL-3.0` `C++`
-*   [PHP Censor (⭐661)](https://github.com/php-censor/php-censor) - Open source self-hosted continuous integration server for PHP projects. `BSD-2-Clause` `PHP`
+*   [PHP Censor (⭐667)](https://github.com/php-censor/php-censor) - Open source self-hosted continuous integration server for PHP projects. `BSD-2-Clause` `PHP`
 *   [PHPCI](https://www.phptesting.org/) - Free and open source continuous integration specifically designed for PHP. ([Source Code (⭐2.4k)](https://github.com/block8/phpci)) `BSD-2-Clause` `PHP`
-*   [Strider](http://strider-cd.github.io/) - Open Source Continuous Deployment / Continuous Integration platform. ([Source Code (⭐4.6k)](https://github.com/Strider-CD/strider)) `MIT` `Nodejs`
 
 ## [7. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -164,16 +153,16 @@
 
 ### Development / Npm
 
-*   [npm-name-cli (⭐272)](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
+*   [npm-name-cli (⭐270)](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
 *   [npm-user-cli (⭐28)](https://github.com/sindresorhus/npm-user-cli) - Get user info of a npm user.
-*   [npm-home (⭐183)](https://github.com/sindresorhus/npm-home) - Open the npm page of the package in the current directory.
+*   [npm-home (⭐190)](https://github.com/sindresorhus/npm-home) - Open the npm page of the package in the current directory.
 *   [pkg-dir-cli (⭐21)](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package.
-*   [npm-check-updates (⭐8.2k)](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows.
+*   [npm-check-updates (⭐8.5k)](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows.
 
 ### Utilities / Theming and Customization
 
-*   [wallpaper-cli (⭐162)](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
-*   [themer (⭐5.1k)](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
+*   [wallpaper-cli (⭐163)](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
+*   [themer (⭐5.2k)](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
 
 ### Files and Directories / Files
 
@@ -306,7 +295,7 @@
 
 ### State management / Standard
 
-*   [MobX (⭐2.2k)](https://github.com/mobxjs/mobx.dart) <!--stargazers:mobxjs/mobx.dart--> - Supercharge the state-management in your apps with Transparent Functional Reactive Programming (TFRP). Port of MobX from the Js/React land.
+*   [MobX (⭐2.3k)](https://github.com/mobxjs/mobx.dart) <!--stargazers:mobxjs/mobx.dart--> - Supercharge the state-management in your apps with Transparent Functional Reactive Programming (TFRP). Port of MobX from the Js/React land.
 
 ### State management / Redux / ELM / Dependency Injection
 

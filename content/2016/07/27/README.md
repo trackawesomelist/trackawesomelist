@@ -10,7 +10,7 @@
 
 ### Template Engine
 
-*   [Stubble (⭐344)](https://github.com/stubbleorg/stubble) - Trimmed down {{mustache}} templates in .NET. Successor of Nustache.
+*   [Stubble (⭐365)](https://github.com/stubbleorg/stubble) - Trimmed down {{mustache}} templates in .NET. Successor of Nustache.
 
 ## [2. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
@@ -33,7 +33,7 @@
 
 ### Cryptography
 
-*   [crypto\_rsassa\_pss (⭐10)](https://github.com/potatosalad/erlang-crypto_rsassa_pss) - RSASSA-PSS Public Key Cryptographic Signature Algorithm for Erlang.
+*   [crypto\_rsassa\_pss (⭐11)](https://github.com/potatosalad/erlang-crypto_rsassa_pss) - RSASSA-PSS Public Key Cryptographic Signature Algorithm for Erlang.
 
 ### Framework Components
 
@@ -41,7 +41,7 @@
 
 ### Geolocation
 
-*   [geohash (⭐25)](https://github.com/polmuz/elixir-geohash) - Geohash encode/decode library.
+*   [geohash (⭐26)](https://github.com/polmuz/elixir-geohash) - Geohash encode/decode library.
 
 ### Text and Numbers
 
@@ -93,7 +93,7 @@
 
 ### Scientific Computing
 
-*   [Trilinos (⭐877)](https://github.com/trilinos/Trilinos) - High performance PDE solvers. \[BSD]
+*   [Trilinos (⭐1.1k)](https://github.com/trilinos/Trilinos) - High performance PDE solvers. \[BSD]
 
 ## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

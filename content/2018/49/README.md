@@ -28,10 +28,10 @@
 
 ## [4. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
-### JVM and JDK
+### JVM and JDK / Text-Based User Interfaces
 
 *   [Avian (⭐1.2k)](https://github.com/ReadyTalk/avian) - JVM with JIT, AOT modes and iOS port.
-*   [OpenJ9 (⭐3k)](https://github.com/eclipse/openj9) - High performance, enterprise-calibre, flexibly licensed, openly-governed cross-platform JVM extending and augmenting the runtime technology components from the Eclipse OMR and OpenJDK project.
+*   [OpenJ9 (⭐3.2k)](https://github.com/eclipse/openj9) - High performance, enterprise-calibre, flexibly licensed, openly-governed cross-platform JVM extending and augmenting the runtime technology components from the Eclipse OMR and OpenJDK project.
 
 ## [5. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Software / Password Managers
 
-*   [PassIt](https://passit.io/) - Simple password manage with sharing features by group and user, but no administration interface. ([Demo](https://app.passit.io/), [Source Code](https://gitlab.com/passit)) `AGPL-3.0` `Python`
+*   [PassIt](https://passit.io/) - Simple password manage with sharing features by group and user, but no administration interface. ([Demo](https://app.passit.io/), [Source Code](https://gitlab.com/passit)) `AGPL-3.0` `Docker/Django`
 *   [Psono](https://psono.com/) - A promising password managers fully featured for teams. ([Demo](https://www.psono.pw), [Source Code](https://gitlab.com/psono)) `Apache-2.0` `Python`
 
 ## [7. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
@@ -60,7 +60,7 @@
 
 ### Apps / Misc
 
-*   [Wagtail Tag Manager (⭐68)](https://github.com/jberghoef/wagtail-tag-manager) - A Wagtail addon that allows for easier and GDPR compliant administration of scripts and tags.
+*   [Wagtail Tag Manager (⭐69)](https://github.com/jberghoef/wagtail-tag-manager) - A Wagtail addon that allows for easier and GDPR compliant administration of scripts and tags.
 
 ### Open-source sites / Lists
 
@@ -71,10 +71,10 @@
 ### Endpoint / Mobile / Android / iOS
 
 *   [Mobile Security Wiki](https://mobilesecuritywiki.com/) - A collection of mobile security resources.
-*   [Apktool (⭐16k)](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files.
-*   [jadx (⭐35k)](https://github.com/skylot/jadx) - Command line and GUI tools for produce Java source code from Android Dex and Apk files.
-*   [enjarify (⭐866)](https://github.com/Storyyeller/enjarify) - A tool for translating Dalvik bytecode to equivalent Java bytecode.
-*   [Android Storage Extractor (⭐12)](https://github.com/51j0/Android-Storage-Extractor) - A tool to extract local data storage of an Android application in one click.
+*   [Apktool (⭐17k)](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files.
+*   [jadx (⭐37k)](https://github.com/skylot/jadx) - Command line and GUI tools for produce Java source code from Android Dex and Apk files.
+*   [enjarify (⭐891)](https://github.com/Storyyeller/enjarify) - A tool for translating Dalvik bytecode to equivalent Java bytecode.
+*   [Android Storage Extractor (⭐13)](https://github.com/51j0/Android-Storage-Extractor) - A tool to extract local data storage of an Android application in one click.
 
 ## [10. Awesome Wicket](/content/PhantomYdn/awesome-wicket/week/README.md)
 
@@ -93,7 +93,7 @@
 
 ### Image Processing
 
-*   [stb-image (⭐22k)](https://github.com/nothings/stb/blob/master/stb_image.h) - STB single-header image loading library. \[Public Domain]
+*   [stb-image (⭐23k)](https://github.com/nothings/stb/blob/master/stb_image.h) - STB single-header image loading library. \[Public Domain]
 
 ## [13. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -105,29 +105,29 @@
 
 ### Crack / General
 
-*   [arunpatala/captcha (⭐173)](https://github.com/arunpatala/captcha) - Breaking captchas using torch.
-*   [zakizhou/CAPTCHA (⭐61)](https://github.com/zakizhou/CAPTCHA) - Implement classification for CAPTCHA in TensorFlow.
-*   [nladuo/captcha-break (⭐688)](https://github.com/nladuo/captcha-break) - Captcha break based on opencv2, tesseract-ocr and some machine learning algorithm.
-*   [ypwhs/captcha\_break (⭐2.4k)](https://github.com/ypwhs/captcha_break) - Captcha break using CNN with Keras.
-*   [ptigas/simple-captcha-solver (⭐483)](https://github.com/ptigas/simple-captcha-solver) - Simple CAPTCHA solver in python 🐍.
-*   [rickyhan/SimGAN-Captcha (⭐421)](https://github.com/rickyhan/SimGAN-Captcha) - Solve captcha without manually labeling a training set.
-*   [arunpatala/captcha.irctc (⭐202)](https://github.com/arunpatala/captcha.irctc) - Reading irctc captchas with 98% accuracy using deep learning.
-*   [JackonYang/captcha-tensorflow (⭐842)](https://github.com/JackonYang/captcha-tensorflow) - Image Captcha Solving Using TensorFlow and CNN Model.
-*   [skyduy/CNN\_keras (⭐273)](https://github.com/skyduy/CNN_keras) - CNN | Keras | CAPTCHA recognition（卷积神经网络、Keras框架、验证码识别）.
-*   [PatrickLib/captcha\_recognize (⭐502)](https://github.com/PatrickLib/captcha_recognize) - Image Recognition captcha without image segmentation.
-*   [zhengwh/captcha-svm (⭐200)](https://github.com/zhengwh/captcha-svm) - Use svm to hack simple captcha.
-*   [chxj1992/captcha\_cracker (⭐159)](https://github.com/chxj1992/captcha_cracker) - Crack captcha with CNN.
-*   [chxj1992/slide\_captcha\_cracker (⭐125)](https://github.com/chxj1992/slide_captcha_cracker) - Crack solution for slide captcha with Canny algorithm.
-*   [JasonLiTW/simple-railway-captcha-solver#english-version (⭐694)](https://github.com/JasonLiTW/simple-railway-captcha-solver#english-version) - Simple captcha solver based on CNN and a training set generator by imitating the style of captcha.
-*   [lllcho/CAPTCHA-breaking (⭐228)](https://github.com/lllcho/CAPTCHA-breaking) - Breaking the captcha.
+*   [arunpatala/captcha (⭐176)](https://github.com/arunpatala/captcha) - Breaking captchas using torch.
+*   [zakizhou/CAPTCHA (⭐67)](https://github.com/zakizhou/CAPTCHA) - Implement classification for CAPTCHA in TensorFlow.
+*   [nladuo/captcha-break (⭐711)](https://github.com/nladuo/captcha-break) - Captcha break based on opencv2, tesseract-ocr and some machine learning algorithm.
+*   [ypwhs/captcha\_break (⭐2.6k)](https://github.com/ypwhs/captcha_break) - Captcha break using CNN with Keras.
+*   [ptigas/simple-captcha-solver (⭐528)](https://github.com/ptigas/simple-captcha-solver) - Simple CAPTCHA solver in python 🐍.
+*   [rickyhan/SimGAN-Captcha (⭐424)](https://github.com/rickyhan/SimGAN-Captcha) - Solve captcha without manually labeling a training set.
+*   [arunpatala/captcha.irctc (⭐204)](https://github.com/arunpatala/captcha.irctc) - Reading irctc captchas with 98% accuracy using deep learning.
+*   [JackonYang/captcha-tensorflow (⭐930)](https://github.com/JackonYang/captcha-tensorflow) - Image Captcha Solving Using TensorFlow and CNN Model.
+*   [skyduy/CNN\_keras (⭐280)](https://github.com/skyduy/CNN_keras) - CNN | Keras | CAPTCHA recognition（卷积神经网络、Keras框架、验证码识别）.
+*   [PatrickLib/captcha\_recognize (⭐536)](https://github.com/PatrickLib/captcha_recognize) - Image Recognition captcha without image segmentation.
+*   [zhengwh/captcha-svm (⭐201)](https://github.com/zhengwh/captcha-svm) - Use svm to hack simple captcha.
+*   [chxj1992/captcha\_cracker (⭐167)](https://github.com/chxj1992/captcha_cracker) - Crack captcha with CNN.
+*   [chxj1992/slide\_captcha\_cracker (⭐134)](https://github.com/chxj1992/slide_captcha_cracker) - Crack solution for slide captcha with Canny algorithm.
+*   [JasonLiTW/simple-railway-captcha-solver#english-version (⭐755)](https://github.com/JasonLiTW/simple-railway-captcha-solver#english-version) - Simple captcha solver based on CNN and a training set generator by imitating the style of captcha.
+*   [lllcho/CAPTCHA-breaking (⭐225)](https://github.com/lllcho/CAPTCHA-breaking) - Breaking the captcha.
 
 ### Crack / Chinese
 
 *   [burness/chinese\_hand\_write\_rec (⭐1.1k)](https://github.com/burness/tensorflow-101/tree/master/chinese_hand_write_rec/src) - Handwritten chinese recognition.
-*   [taosir/cnn\_handwritten\_chinese\_recognition (⭐434)](https://github.com/taosir/cnn_handwritten_chinese_recognition) - As the name shows, handwritten\_chinese\_recognition with cnn.
-*   [soloice/Chinese-Character-Recognition (⭐195)](https://github.com/soloice/Chinese-Character-Recognition) - This project shows how to use CNN to perform Chinese character recognition, a much more complicated task compared to MNIST digit recognition.
-*   [muchrooms/zheye (⭐778)](https://github.com/muchrooms/zheye) - Chinese captcha recognition program for handstand character of zhihu.
-*   [aaronshan/12306-captcha (⭐265)](https://github.com/aaronshan/12306-captcha) - Recognize 12306 captcha with deep learning.
+*   [taosir/cnn\_handwritten\_chinese\_recognition (⭐470)](https://github.com/taosir/cnn_handwritten_chinese_recognition) - As the name shows, handwritten\_chinese\_recognition with cnn.
+*   [soloice/Chinese-Character-Recognition (⭐198)](https://github.com/soloice/Chinese-Character-Recognition) - This project shows how to use CNN to perform Chinese character recognition, a much more complicated task compared to MNIST digit recognition.
+*   [muchrooms/zheye (⭐779)](https://github.com/muchrooms/zheye) - Chinese captcha recognition program for handstand character of zhihu.
+*   [aaronshan/12306-captcha (⭐274)](https://github.com/aaronshan/12306-captcha) - Recognize 12306 captcha with deep learning.
 
 ## [15. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
 
@@ -139,7 +139,7 @@
 
 ### Graphics
 
-*   [Veldrid (⭐2.2k)](https://github.com/mellinoe/veldrid) - A low-level, portable graphics and compute library for .NET
+*   [Veldrid (⭐2.3k)](https://github.com/mellinoe/veldrid) - A low-level, portable graphics and compute library for .NET
 
 ## [17. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -157,7 +157,7 @@
 
 ### Contents / High-Availability
 
-*   [pglookout (⭐159)](https://github.com/aiven/pglookout) - Replication monitoring and failover daemon.
+*   [pglookout (⭐169)](https://github.com/aiven/pglookout) - Replication monitoring and failover daemon.
 
 ### Contents / Backups
 
@@ -175,7 +175,7 @@
 
 ### Contents / Extensions
 
-*   [pg\_partman (⭐1.5k)](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL.
+*   [pg\_partman (⭐1.6k)](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL.
 *   [pgTAP](https://pgtap.org/) - Database testing framework for Postgres
 
 ### Contents / Optimization
@@ -184,8 +184,8 @@
 
 ### Contents / Utilities
 
-*   [PostgREST (⭐20k)](https://github.com/PostgREST/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database.
-*   [sqitch (⭐2.5k)](https://github.com/sqitchers/sqitch) - Tool for managing versioned schema deployment
+*   [PostgREST (⭐21k)](https://github.com/PostgREST/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database.
+*   [sqitch (⭐2.6k)](https://github.com/sqitchers/sqitch) - Tool for managing versioned schema deployment
 
 ### Contents / Language bindings
 
@@ -204,13 +204,13 @@
 
 ## [20. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Applications / MIT
+### Applications / Apache License
 
-*   [railway-simulation (⭐5)](https://github.com/AdaCore/SPARK_Railway_Simulation_Demo) - Program simulating a railway network with trains, switches and signaling. The signaling system is proven with SPARK/Ada to ensure that trains cannot collide.
+*   [railway-simulation (⭐4)](https://github.com/AdaCore/SPARK_Railway_Simulation_Demo) - Program simulating a railway network with trains, switches and signaling. The signaling system is proven with SPARK/Ada to ensure that trains cannot collide.
 
-### Bindings / MIT
+### Bindings / Apache License
 
-*   [svd2ada (⭐51)](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
+*   [svd2ada (⭐57)](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
 
 ## [21. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -227,7 +227,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [DynamoDb-GUI-Client (⭐643)](https://github.com/Arattian/DynamoDb-GUI-Client): Cross-platform GUI client for DynamoDb
+*   [DynamoDb-GUI-Client (⭐646)](https://github.com/Arattian/DynamoDb-GUI-Client): Cross-platform GUI client for DynamoDb
 
 ## [23. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
@@ -483,7 +483,7 @@
 
 ### Frameworks, Libraries and Tools / Blockchain
 
-*   [Meadow (⭐127)](https://github.com/MeadowSuite/Meadow) - An integrated Ethereum implementation and tool suite focused on Solidity testing and development.
+*   [Meadow (⭐135)](https://github.com/MeadowSuite/Meadow) - An integrated Ethereum implementation and tool suite focused on Solidity testing and development.
 
 ## [33. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -508,7 +508,7 @@
 
 ### WSL Tools / WSL Utilities
 
-*   [is-wsl for Node (⭐175)](https://github.com/sindresorhus/is-wsl) - Check if the current process is running inside Windows Subsystem for Linux, useful for scripting. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [is-wsl for Node (⭐179)](https://github.com/sindresorhus/is-wsl) - Check if the current process is running inside Windows Subsystem for Linux, useful for scripting. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [35. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
@@ -520,11 +520,11 @@
 
 ### UI / Effect
 
-*   [Wave (⭐887)](https://github.com/i-protoss/wave) <!--stargazers:i-protoss/wave--> - Displaying some waves with custom color, duration, floating and blur effects by [RockerFlower](https://github.com/RockerFlower)
+*   [Wave (⭐949)](https://github.com/i-protoss/wave) <!--stargazers:i-protoss/wave--> - Displaying some waves with custom color, duration, floating and blur effects by [RockerFlower](https://github.com/RockerFlower)
 
 ### State management / Standard
 
-*   [Bloc (⭐9.9k)](https://github.com/felangel/bloc) <!--stargazers:felangel/bloc--> - Collection of packages that help implement the BLoC design pattern by [Felix Angelov](https://github.com/felangel)
+*   [Bloc (⭐11k)](https://github.com/felangel/bloc) <!--stargazers:felangel/bloc--> - Collection of packages that help implement the BLoC design pattern by [Felix Angelov](https://github.com/felangel)
 
 ### Top / Game Engine resources
 
@@ -560,7 +560,7 @@
 
 ### Languages
 
-*   [Charcoal (⭐190)](https://github.com/somebody1234/Charcoal) - Concise language for sketching ASCII art.
+*   [Charcoal (⭐196)](https://github.com/somebody1234/Charcoal) - Concise language for sketching ASCII art.
 
 ## [40. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -609,7 +609,7 @@
 
 ### Community Extensions
 
-*   [SMS 2 Factor Authentication for Keycloak via AWS SNS (⭐70)](https://github.com/nickpack/keycloak-sms-authenticator-sns)
+*   [SMS 2 Factor Authentication for Keycloak via AWS SNS (⭐71)](https://github.com/nickpack/keycloak-sms-authenticator-sns)
 
 ## [46. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
@@ -625,9 +625,9 @@
 
 *   [youtube-dl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/) A cross-platform front-end GUI of the popular youtube-dl written in wxPython
 *   [youtube-dl-helper](https://youtube-dl-helper.github.io/) Uses youtube-dl to download video/audio from many sites without requiring you to use the command-line (for Windows)
-*   [RapidLeech (⭐545)](https://github.com/Th3-822/rapidleech) a free server transfer script for use on various popular upload/download sites such as uploaded.net, Rapidgator.net, and more than 127 others.
-*   [MegaCrypt.js (⭐105)](https://github.com/JohnDeved/megacrypt.js) MegaCrypt.js lets you share your Mega.nz files without actually having to share any Mega.nz links by encrypting them to create a secure proxy for your files.
-*   [netclix (⭐76)](https://github.com/ston3o/netclix) A simple CLI tool to get movie streaming premium links from VodLocker's API
+*   [RapidLeech (⭐574)](https://github.com/Th3-822/rapidleech) a free server transfer script for use on various popular upload/download sites such as uploaded.net, Rapidgator.net, and more than 127 others.
+*   [MegaCrypt.js (⭐106)](https://github.com/JohnDeved/megacrypt.js) MegaCrypt.js lets you share your Mega.nz files without actually having to share any Mega.nz links by encrypting them to create a secure proxy for your files.
+*   [netclix (⭐84)](https://github.com/ston3o/netclix) A simple CLI tool to get movie streaming premium links from VodLocker's API
 *   [MEGAsync](https://mega.nz/sync) Easily automated synchronisation between your computer and your MEGA account. Can stream Mega videos directly.
 *   [wget for Windows](https://eternallybored.org/misc/wget/) A command-line utility for retrieving files using HTTP, HTTPS, and FTP protocols.
 *   [FlixGrab](https://www.flixgrab.com/) FlixGrab+ is a unique application for downloading entire NetFlix serials, TV shows, documentaries, movies.
@@ -690,14 +690,14 @@
 
 ### Media Centre Applications / Third Party Hosts
 
-*   [OpenPHT (⭐585)](https://github.com/RasPlex/OpenPHT) a community-driven fork of Plex Home Theater
-*   [Streama (⭐9.2k)](https://github.com/streamaserver/streama) Self-hosted streaming media server.
+*   [OpenPHT (⭐593)](https://github.com/RasPlex/OpenPHT) a community-driven fork of Plex Home Theater
+*   [Streama (⭐9.3k)](https://github.com/streamaserver/streama) Self-hosted streaming media server.
 *   [Stremio](https://www.stremio.com/) Multi-platform video content aggregator with a comprehensive add-on system for extending the functionality
 
 ### Plex Scripts and Tools / Third Party Hosts
 
-*   [plex-sync (⭐288)](https://github.com/jacobwgillespie/plex-sync) A simple command-line utility to synchronize watched/seen status between different Plex Media Servers.
-*   [PlexIPTV (⭐181)](https://github.com/xiaodoudou/PlexIPTV) This app simulates a DVR device for Plex by providing a layer to any IPTV provider (that provide an m3u8 playlist)
+*   [plex-sync (⭐293)](https://github.com/jacobwgillespie/plex-sync) A simple command-line utility to synchronize watched/seen status between different Plex Media Servers.
+*   [PlexIPTV (⭐185)](https://github.com/xiaodoudou/PlexIPTV) This app simulates a DVR device for Plex by providing a layer to any IPTV provider (that provide an m3u8 playlist)
 
 ### Kodi / Third Party Hosts
 
@@ -727,7 +727,7 @@
 *   [Deezloader Remaster](https://www.reddit.com/r/DeezloadersIsBack/comments/9n3pf1/deezloader_alpha_latest_version_download10102018/) Tool for downloading music from Deezer
 *   [Deezloader Remix](https://notabug.org/RemixDevs/DeezloaderRemix) Another program with the same purpose, both based on the original, now defunct Deezloader.
 *   [KHInsider](https://downloads.khinsider.com/) Site collecting soundtracks, mostly MP3, some FLAC, OGG or M4A.
-*   [VGMLoader (⭐58)](https://github.com/TheLastZombie/VGMLoader) Tool for bulk downloading from KHInsider.
+*   [VGMLoader (⭐60)](https://github.com/TheLastZombie/VGMLoader) Tool for bulk downloading from KHInsider.
 
 ### Ebooks / Third Party Hosts
 
@@ -751,7 +751,7 @@
 
 ### TV Automation / Third Party Hosts
 
-*   [Sonarr (⭐7.8k)](https://github.com/Sonarr/Sonarr) :star2: Smart PVR for newsgroup and BitTorrent users.
+*   [Sonarr (⭐8.7k)](https://github.com/Sonarr/Sonarr) :star2: Smart PVR for newsgroup and BitTorrent users.
 
 ### File Renaming and Tagging / Third Party Hosts
 
@@ -770,7 +770,7 @@
 
 ### IPTV and DVR / Third Party Hosts
 
-*   [tvheadend (⭐2.2k)](https://github.com/tvheadend/tvheadend) Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV, SAT>IP, and other formats through the Unix pipe as input sources.
+*   [tvheadend (⭐2.4k)](https://github.com/tvheadend/tvheadend) Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV, SAT>IP, and other formats through the Unix pipe as input sources.
 *   [allsprk.tv](https://stream.allsprk.tv) A channel-hoppable live streaming site with a chat room
 
 ### IRC Networks / Third Party Hosts
@@ -783,7 +783,7 @@
 
 ### Content Discovery / Third Party Hosts
 
-*   [Flox (⭐1.1k)](https://github.com/devfake/flox) Flox is a self-hosted movie, series and anime watch list.
+*   [Flox (⭐1.2k)](https://github.com/devfake/flox) Flox is a self-hosted movie, series and anime watch list.
 
 ### Dashboards and Homepages / Third Party Hosts
 

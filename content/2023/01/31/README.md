@@ -10,7 +10,7 @@
 
 ### Packages / Data validation
 
-*   [yup (⭐20k)](https://github.com/jquense/yup) - Object schema validation.
+*   [yup (⭐21k)](https://github.com/jquense/yup) - Object schema validation.
 
 ## [2. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md)
 
@@ -103,15 +103,14 @@
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
 *   [Svix](https://www.svix.com/) - Webhooks as a Service. Send up to 50,000 messages/month for free.
 
 ### Payment and Billing Integration
 
-*   [CoinMarketCap](https://coinmarketcap.com/api/) — Provides cryptocurrency market data including latest crypto and fiat currency exchange rates. Free tier offers 10K call credits/month.
-*   [CoinGecko](https://www.coingecko.com/en/api) — Provides cryptocurrency market data including latest crypto exchange rates and historical data. Free tier requires attribution.
-*   [Coin360](https://api.coin360.com/) — Provides cryptocurrency market data including latest crypto exchange rates and historical data
+*   [CoinMarketCap](https://coinmarketcap.com/api/) — Provides cryptocurrency market data including the latest crypto and fiat currency exchange rates. The free tier offers 10K call credits/month.
+*   [CoinGecko](https://www.coingecko.com/en/api) — Provides cryptocurrency market data including the latest crypto exchange rates and historical data. The free tier requires attribution.
 
 ## [4. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
@@ -129,15 +128,15 @@
 
 ### Templates
 
-*   [BitPlatform Templates (⭐432)](https://github.com/bitfoundation/bitplatform) - ![stars](https://img.shields.io/github/stars/bitfoundation/bitplatform?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/bitfoundation/bitplatform?style=flat-square) - Solution templates using .Net MAUI and Blazor with out-of-the-box best practices enabling fast and high-quality cross-platform development for web, android, iOS, and Windows with native beautiful Blazor components. The projects created by these templates contain everything required for developing real-world applications, including (but not limited to) CI/CD pipelines, Infra as Code for Azure, localization, multi-mode development (Blazor Server/WASM/Hybrid), builtin bullet proof exception handling, etc. [Read more](https://bitplatform.dev/).
+*   [BitPlatform Templates (⭐895)](https://github.com/bitfoundation/bitplatform) - ![stars](https://img.shields.io/github/stars/bitfoundation/bitplatform?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/bitfoundation/bitplatform?style=flat-square) - Solution templates using .Net MAUI and Blazor with out-of-the-box best practices enabling fast and high-quality cross-platform development for web, android, iOS, and Windows with native beautiful Blazor components. The projects created by these templates contain everything required for developing real-world applications, including (but not limited to) CI/CD pipelines, Infra as Code for Azure, localization, multi-mode development (Blazor Server/WASM/Hybrid), builtin bullet proof exception handling, etc. [Read more](https://bitplatform.dev/).
 
 ### Individual components / Others
 
-*   [SignaturePad (⭐33)](https://github.com/MarvinKlein1508/SignaturePad) - ![last commit](https://img.shields.io/github/last-commit/MarvinKlein1508/SignaturePad?style=flat-square\&cacheSeconds=86400) A simple to use blazor component to draw custom signatures. [Demo](https://marvinklein1508.github.io/SignaturePad).
+*   [SignaturePad (⭐53)](https://github.com/MarvinKlein1508/SignaturePad) - ![last commit](https://img.shields.io/github/last-commit/MarvinKlein1508/SignaturePad?style=flat-square\&cacheSeconds=86400) A simple to use blazor component to draw custom signatures. [Demo](https://marvinklein1508.github.io/SignaturePad).
 
 ### Tools & Utilities / Others
 
-*   [Blazor Hotkeys2 (⭐18)](https://github.com/jsakamoto/Toolbelt.Blazor.Hotkeys2) - ![stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.Hotkeys?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.Hotkeys2?style=flat-square\&cacheSeconds=86400) A library to provide configuration-centric keyboard shortcuts for Blazor.
+*   [Blazor Hotkeys2 (⭐35)](https://github.com/jsakamoto/Toolbelt.Blazor.Hotkeys2) - ![stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.Hotkeys?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.Hotkeys2?style=flat-square\&cacheSeconds=86400) A library to provide configuration-centric keyboard shortcuts for Blazor.
 *   [CodeBeam.GoogleApis.Blazor (⭐7)](https://github.com/CodeBeamOrg/CodeBeam.GoogleApis.Blazor) - ![stars](https://img.shields.io/github/stars/CodeBeamOrg/CodeBeam.GoogleApis.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeBeamOrg/CodeBeam.GoogleApis.Blazor?style=flat-square\&cacheSeconds=86400) An open-source utility package for GoogleApis in Blazor. Written from scratch and aims easiest of use.
 
 ### Articles / Others
@@ -164,26 +163,26 @@
 
 ### (requires Neovim 0.5)
 
-*   [linrongbin16/lsp-progress.nvim (⭐34)](https://github.com/linrongbin16/lsp-progress.nvim) - Another lsp progress status for Neovim.
+*   [linrongbin16/lsp-progress.nvim (⭐113)](https://github.com/linrongbin16/lsp-progress.nvim) - A performant LSP progress status.
 
 ### Media / Diagnostics
 
-*   [niuiic/cp-image.nvim (⭐1)](https://github.com/niuiic/cp-image.nvim) - Paste image from clipboard and insert the reference code.
+*   [niuiic/cp-image.nvim (⭐6)](https://github.com/niuiic/cp-image.nvim) - Paste image from clipboard and insert the reference code.
 
 ### Editing Support / Diagnostics
 
-*   [niuiic/part-edit.nvim (⭐9)](https://github.com/niuiic/part-edit.nvim) - Edit a part of a file individually.
-*   [niuiic/divider.nvim (⭐6)](https://github.com/niuiic/divider.nvim) - Custom code divider line.
+*   [niuiic/part-edit.nvim (⭐12)](https://github.com/niuiic/part-edit.nvim) - Edit a part of a file individually.
+*   [niuiic/divider.nvim (⭐10)](https://github.com/niuiic/divider.nvim) - Custom code divider line.
 
 ### Session / Diagnostics
 
-*   [niuiic/multiple-session.nvim (⭐5)](https://github.com/niuiic/multiple-session.nvim) - Provides multi-session management capabilities.
+*   [niuiic/multiple-session.nvim (⭐6)](https://github.com/niuiic/multiple-session.nvim) - Provides multi-session management capabilities.
 
 ## [9. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
 ### Applications
 
-*   [Meshenger (⭐387)](https://github.com/meshenger-app/meshenger-android): Voice/Video Android phone App that works on the local LAN and does not need Internet access/servers/accounts.
+*   [Meshenger (⭐437)](https://github.com/meshenger-app/meshenger-android): Voice/Video Android phone App that works on the local LAN and does not need Internet access/servers/accounts.
 *   [Qaul](https://qaul.net/): Internet independent wireless mesh communication App. Uses interlinked P2P mesh via BLE, Wifi & Internet-overlay.
 
 ## [10. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
@@ -228,17 +227,17 @@
 
 ### Papers / 2022
 
-*   [Scaling up search engine audits: Practical insights for algorithm auditing](https://journals.sagepub.com/doi/10.1177/01655515221093029) - (Journal of Information Science) [(Code) (⭐14)](https://github.com/gesiscss/WebBot) *Audits multiple search engines using simulated browsing behavior with virtual agents.*
+*   [Scaling up search engine audits: Practical insights for algorithm auditing](https://journals.sagepub.com/doi/10.1177/01655515221093029) - (Journal of Information Science) [(Code) (⭐20)](https://github.com/gesiscss/WebBot) *Audits multiple search engines using simulated browsing behavior with virtual agents.*
 
 ## [13. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Database
 
-*   [CozoDB (⭐2.4k)](https://github.com/cozodb/cozo) - A transactional, relational database that uses Datalog and focuses on graph data and algorithms. Time-travel-capable, and fast! [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/cozodb/cozo/build.yml?branch=main)](https://github.com/cozodb/cozo/actions/workflows/build.yml)
+*   [CozoDB (⭐2.7k)](https://github.com/cozodb/cozo) - A transactional, relational database that uses Datalog and focuses on graph data and algorithms. Time-travel-capable, and fast! [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/cozodb/cozo/build.yml?branch=main)](https://github.com/cozodb/cozo/actions/workflows/build.yml)
 
 ### Applications / System tools
 
-*   [j0ru/kickoff (⭐221)](https://github.com/j0ru/kickoff) - Fast and snappy wayland program launcher [![build](https://github.com/j0ru/kickoff/actions/workflows/ci.yml/badge.svg)](https://github.com/j0ru/kickoff/actions)
+*   [j0ru/kickoff (⭐268)](https://github.com/j0ru/kickoff) - Fast and snappy wayland program launcher [![build](https://github.com/j0ru/kickoff/actions/workflows/ci.yml/badge.svg)](https://github.com/j0ru/kickoff/actions)
 
 ## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -262,7 +261,7 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Takahē](https://jointakahe.org/) - Federated microblogging server. Mastodon, & ActivityPub compatible. ([Source Code (⭐860)](https://github.com/jointakahe/takahe)) `BSD-3-Clause` `Docker`
+*   [Takahē](https://jointakahe.org/) - Federated microblogging server. Mastodon, & ActivityPub compatible. ([Source Code (⭐1k)](https://github.com/jointakahe/takahe)) `BSD-3-Clause` `Docker`
 
 ## [18. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
@@ -292,7 +291,7 @@
 
 ### Analytics
 
-*   [Plausible](https://plausible.io/) - Simple, privacy-friendly, and open-source web analytics tool.
+*   [Plausible](https://plausible.io/) - Simple, privacy-friendly, and open-source web analytics tool. ![Plausible](https://img.shields.io/github/contributors-anon/plausible/analytics?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ---
 

@@ -23,7 +23,7 @@
 
 ### Class Based
 
-*   [slim.js (⭐952)](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
+*   [slim.js (⭐973)](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
 
 ## [4. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
@@ -35,7 +35,6 @@
 
 ### Platforms
 
-*   [Appernetic](https://appernetic.io) - Visual content management for static web sites, with Hugo and GitHub Pages.
 *   [Netlify](https://netlify.com) - All-in-one platform for automating modern web projects.
 
 ### Static Site Generators
@@ -58,8 +57,7 @@
 *   [Siteleaf](https://siteleaf.com) - A friendly CMS for your static site.
 *   [DatoCMS](https://datocms.com) - The API-based CMS your editors will love.
 *   [Prose](https://prose.io) - Prose is a content editor for GitHub designed for managing websites.
-*   [Tipe](https://tipe.io) - Next Generation API-first CMS.
-*   [Coisas (⭐312)](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files.
+*   [Coisas (⭐316)](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files.
 *   [Cockpit](https://getcockpit.com/) - A self-hosted headless and api-driven CMS.
 
 ### API / Authentication
@@ -78,7 +76,7 @@
 
 ### API / E-commerce
 
-*   [Flatmarket (⭐985)](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
+*   [Flatmarket (⭐991)](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
 *   [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers.
 *   [Moltin](https://moltin.com/) - eCommerce API for developers.
 
@@ -144,7 +142,7 @@
 
 ### Extensions (Xcode 8+) / Collection View Layout
 
-*   [Comment Spell Checker (⭐158)](https://github.com/velyan/Comment-Spell-Checker) - Xcode extension for spell checking and auto correcting code comments.
+*   [Comment Spell Checker (⭐159)](https://github.com/velyan/Comment-Spell-Checker) - Xcode extension for spell checking and auto correcting code comments.
 
 ## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 

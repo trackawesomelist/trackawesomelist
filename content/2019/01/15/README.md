@@ -40,10 +40,6 @@
 *   [Similar Web](https://www.similarweb.com) - Compare any website traffic statistics & analytics.
 *   [URLVoid](http://www.urlvoid.com) - Analyzes a website through multiple blacklist engines and online reputation tools to facilitate the detection of fraudulent and malicious websites.
 
-### Language Tools / Telegram
-
-*   [Google Input Tools](https://www.google.com/inputtools/try) - Makes it easy to type in the language you choose, anywhere on the web.
-
 ### Image Search / Telegram
 
 *   [TinEye](https://tineye.com) - Reverse image search engine.
@@ -60,14 +56,6 @@
 
 *   [Google Alerts](http://www.google.com/alerts) - A content change detection and notification service.
 
-### Slide Show and Presentation Tools / Telegram
-
-*   [Convert Words to Time](https://wordstotime.com) - Converts the number of words in a presentation or speech to how many minutes it will take to read.
-
-### E-mail Management / Telegram
-
-*   [Unroll.me](https://unroll.me) - Easily unsubscribe in one click from email subscriptions.
-
 ## [4. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Blog posts
@@ -78,45 +66,45 @@
 
 ### Contents / Communication
 
-*   [DroidKaigi2018-flutter (⭐513)](https://github.com/konifar/droidkaigi2018-flutter) - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar).
+*   [DroidKaigi2018-flutter (⭐511)](https://github.com/konifar/droidkaigi2018-flutter) - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar).
 
 ### Contents / Finance
 
-*   [Trace (⭐1k)](https://github.com/trentpiercy/trace) - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy).
+*   [Trace (⭐1.1k)](https://github.com/trentpiercy/trace) - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy).
 
 ### Contents / Games
 
-*   [Flip (⭐261)](https://github.com/RedBrogdon/flutterflip) - Reversi game by [Andrew Brogdon](https://github.com/RedBrogdon).
-*   [2048 (⭐285)](https://github.com/anuranBarman/2048) - 2048 game by [Anuran Barman](https://github.com/anuranBarman).
-*   [TRex (⭐2)](https://github.com/renancaraujo/trex-flame) - Port of the famous Chrome's Trex game by [Renan C. Araújo](https://github.com/renancaraujo).
-*   [Crush (⭐505)](https://github.com/boeledi/flutter_crush) - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com).
-*   [Slide Puzzle (⭐175)](https://github.com/kevmoo/slide_puzzle) - Classic slide (15) puzzle by [Kevin Moore](https://github.com/kevmoo).
+*   [Flip (⭐263)](https://github.com/RedBrogdon/flutterflip) - Reversi game by [Andrew Brogdon](https://github.com/RedBrogdon).
+*   [2048 (⭐297)](https://github.com/anuranBarman/2048) - 2048 game by [Anuran Barman](https://github.com/anuranBarman).
+*   [TRex (⭐4)](https://github.com/renancaraujo/trex-flame) - Port of the famous Chrome's Trex game by [Renan C. Araújo](https://github.com/renancaraujo).
+*   [Crush (⭐521)](https://github.com/boeledi/flutter_crush) - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com).
+*   [Slide Puzzle (⭐176)](https://github.com/kevmoo/slide_puzzle) - Classic slide (15) puzzle by [Kevin Moore](https://github.com/kevmoo).
 
 ### Contents / Lifestyle
 
-*   [Beer-Me-Up (⭐477)](https://github.com/benoitletondor/Beer-Me-Up) - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor).
+*   [Beer-Me-Up (⭐480)](https://github.com/benoitletondor/Beer-Me-Up) - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor).
 
 ### Contents / Media
 
 *   [Music Player (⭐1.6k)](https://github.com/iampawan/Flutter-Music-Player) - Full featured music player by [Pawan Kumar](https://about.me/imthepk).
-*   [Cinematic (⭐869)](https://github.com/aaronoe/FlutterCinematic) - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe).
+*   [Cinematic (⭐876)](https://github.com/aaronoe/FlutterCinematic) - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe).
 
 ### Contents / News and Magazine
 
-*   [NewsBuzz (⭐567)](https://github.com/theankurkedia/NewsBuzz) - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia).
+*   [NewsBuzz (⭐573)](https://github.com/theankurkedia/NewsBuzz) - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia).
 
 ### Contents / Productivity
 
-*   [BookSearch (⭐522)](https://github.com/Norbert515/BookSearch) - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515).
-*   [Taskist (⭐865)](https://github.com/huextrat/Taskist) - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat).
+*   [BookSearch (⭐531)](https://github.com/Norbert515/BookSearch) - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515).
+*   [Taskist (⭐910)](https://github.com/huextrat/Taskist) - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat).
 
 ### Contents / Social Network
 
-*   [Deer (⭐381)](https://github.com/aleksanderwozniak/deer) - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak).
+*   [Deer (⭐392)](https://github.com/aleksanderwozniak/deer) - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak).
 
 ### Contents / Tools
 
-*   [Flitter (⭐188)](https://github.com/dart-flitter/flitter) - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It uses Redux and Jaguar.
+*   [Flitter (⭐187)](https://github.com/dart-flitter/flitter) - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It uses Redux and Jaguar.
 
 ## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -134,7 +122,7 @@
 
 ### Content Management Systems
 
-*   [Umbraco (⭐200)](https://github.com/umbraco-community/awesome-umbraco#readme)
+*   [Umbraco (⭐202)](https://github.com/umbraco-community/awesome-umbraco#readme)
 
 ## [9. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/README.md)
 

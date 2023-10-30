@@ -34,7 +34,7 @@
 
 ### File Management and Sharing
 
-*   [Sharik (⭐953)](https://github.com/marchellodev/sharik) - Sharik works with Wi-Fi connection or Tethering (Wi-Fi Hotspot). No internet connection needed. Available for Android, iOS, Linux, MacOS & Windows.
+*   [Sharik (⭐1k)](https://github.com/marchellodev/sharik) - Sharik works with Wi-Fi connection or Tethering (Wi-Fi Hotspot). No internet connection needed. Available for Android, iOS, Linux, MacOS & Windows.
 
 ## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
@@ -139,19 +139,19 @@
 
 ### Others / Object detection and object tracking
 
-*   [ARHeadsetKit (⭐89)](https://github.com/philipturner/ARHeadsetKit) - Using $5 Google Cardboard to replicate Microsoft Hololens. Hosts the source code for research on [scene color reconstruction (⭐19)](https://github.com/philipturner/scene-color-reconstruction).
+*   [ARHeadsetKit (⭐111)](https://github.com/philipturner/ARHeadsetKit) - Using $5 Google Cardboard to replicate Microsoft Hololens. Hosts the source code for research on [scene color reconstruction (⭐21)](https://github.com/philipturner/scene-color-reconstruction).
 
 ## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Command Line / Diagnostics
 
-*   [gelguy/wilder.nvim (⭐1k)](https://github.com/gelguy/wilder.nvim) - A plugin for fuzzy command line autocompletion.
+*   [gelguy/wilder.nvim (⭐1.1k)](https://github.com/gelguy/wilder.nvim) - A plugin for fuzzy command line autocompletion.
 
 ## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Docker Related
 
-*   [Platform9](https://platform9.com/) - Managed Kubernetes plane. Free plan offers management capabilities up to 3 clusters & 20 nodes. Note: you must provide cluster infrastructure by yourself.
+*   [Platform9](https://platform9.com/) - Managed Kubernetes plane. The free plan offers management capabilities for up to 3 clusters & 20 nodes. Just so you know, you must provide cluster infrastructure by yourself.
 
 ## [15. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

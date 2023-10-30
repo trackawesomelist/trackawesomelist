@@ -10,7 +10,7 @@
 
 ### Image Processing
 
-*   [SAIL (⭐230)](https://github.com/happy-sea-fox/sail) - Easy-to-use cross-platform image decoding library with pluggable image codecs. \[MIT]
+*   [SAIL (⭐245)](https://github.com/happy-sea-fox/sail) - Easy-to-use cross-platform image decoding library with pluggable image codecs. \[MIT]
 
 ## [2. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Resources / Packages
 
-*   [Tables for Laravel (⭐377)](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder) - Provides a DataTable component with integration for [Laravel Query Builder (⭐3.5k)](https://github.com/spatie/laravel-query-builder).
+*   [Tables for Laravel (⭐420)](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder) - Provides a DataTable component with integration for [Laravel Query Builder (⭐3.7k)](https://github.com/spatie/laravel-query-builder).
 
 ## [5. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Libraries / Python
 
-*   [Beanie (⭐1.1k)](https://github.com/roman-right/beanie) - Asynchronous ODM based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
+*   [Beanie (⭐1.5k)](https://github.com/roman-right/beanie) - Asynchronous ODM based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
 
 ## [7. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
 
@@ -298,7 +298,7 @@
 
 ### R / Time Series
 
-*   [garchmodels (⭐31)](https://github.com/AlbertoAlmuinha/garchmodels) - A parsnip backend for GARCH models.
+*   [garchmodels (⭐34)](https://github.com/AlbertoAlmuinha/garchmodels) - A parsnip backend for GARCH models.
 
 ## [9. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
@@ -311,11 +311,11 @@
 
 ### Community Extensions
 
-*   [Verify Email with Link or Code by hokumski (⭐7)](https://github.com/hokumski/keycloak-verifyemailwithcode)
+*   [Verify Email with Link or Code by hokumski (⭐8)](https://github.com/hokumski/keycloak-verifyemailwithcode)
 
 ## [11. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Miscellaneous / Angular
+### Miscellaneous / Svelte
 
 *   [Softwaretalks Newsletter](https://newsletter.softwaretalks.ir/). In Softwaretalks Newsletter, we send articles about software engineering every Thursday. (For persian users).
 
@@ -333,7 +333,7 @@
 
 ### eBPF Workflow: Tools and Utilities / libbpf
 
-*   [libbpf-bootstrap (⭐606)](https://github.com/libbpf/libbpf-bootstrap) - Scaffolding for BPF application development with libbpf and BPF CO-RE.
+*   [libbpf-bootstrap (⭐727)](https://github.com/libbpf/libbpf-bootstrap) - Scaffolding for BPF application development with libbpf and BPF CO-RE.
 
 ## [14. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 

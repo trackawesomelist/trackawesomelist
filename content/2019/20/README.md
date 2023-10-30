@@ -1,6 +1,6 @@
 # Awesome List Updates on May 20 - May 26, 2019
 
-49 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -34,7 +34,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [mlfinlab (⭐3.4k)](https://github.com/hudson-and-thames/mlfinlab) - Implementations regarding "Advances in Financial Machine Learning" by Marcos Lopez de Prado. (Feature Engineering, Financial Data Structures, Meta-Labeling)
+*   [mlfinlab (⭐3.6k)](https://github.com/hudson-and-thames/mlfinlab) - Implementations regarding "Advances in Financial Machine Learning" by Marcos Lopez de Prado. (Feature Engineering, Financial Data Structures, Meta-Labeling)
 
 ## [6. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
@@ -98,13 +98,13 @@
 
 ### Utilities / Clipboard Tools
 
-*   [Flycut (⭐2.2k)](https://github.com/TermiT/Flycut) - Clean and simple clipboard manager for developers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/TermiT/Flycut) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Flycut (⭐2.3k)](https://github.com/TermiT/Flycut) - Clean and simple clipboard manager for developers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/TermiT/Flycut) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [12. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Network Protocols
 
-*   [crystal-snmp (⭐15)](https://github.com/spider-gazelle/crystal-snmp) - An SNMP implementation with version 1, 2c and 3 support
+*   [crystal-snmp (⭐16)](https://github.com/spider-gazelle/crystal-snmp) - An SNMP implementation with version 1, 2c and 3 support
 
 ## [13. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
@@ -116,7 +116,7 @@
 
 ### Testing
 
-*   [FriendsOfCake/Fixturize plugin (⭐23)](https://github.com/FriendsOfCake/fixturize) - More efficient inserting fixtures when running test suites by decreasing amount of inserts (mysql only).
+*   🍰 [FriendsOfCake/Fixturize plugin (⭐23)](https://github.com/FriendsOfCake/fixturize) - More efficient inserting fixtures when running test suites by decreasing amount of inserts (mysql only).
 
 ## [15. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
@@ -132,7 +132,13 @@
 
 *   [A helper for CircuitPython development with Atom (⭐3)](https://github.com/s-light/CircuitPython_Atom_helper) - A helper for the [Atom editor](https://atom.io/).
 
-## [16. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [16. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### F Sharp / Phoenix
+
+*   [Functional Programming Textbook](https://www.overleaf.com/read/hcwwdfxvftfp) - Yusuf M Motara (PDF)
+
+## [17. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Clocks
 
@@ -160,37 +166,37 @@ Free
 
 Free
 
-## [17. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
+## [18. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
 ### Tutorials
 
 *   [Adobe XD Guide](https://www.xdguru.com/adobe-xd-guide/): A 12,000-words-long comprehensive guide for XD beginners and current users.
 
-## [18. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [19. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Books / WebRTC
 
 *   [Web Design Playground: HTML & CSS The Interactive Way](https://www.manning.com/books/web-design-playground)
 
-## [19. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [20. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Services / IRC
 
 *   [Dependabot](https://dependabot.com/) - Dependabot is a dependency update service. It monitors and updates your dependencies by sending a pull-request. The service is free for public repos and personal account repos.
 
-## [20. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [21. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Overlays / Webinterface
 
-*   [nix-darwin (⭐1.5k)](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
+*   [nix-darwin (⭐1.8k)](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
 
-## [21. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [22. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Service Level Agreement
 
 *   [Earning Our Wings: Stories and Findings From Operating a Large-scale Concourse Deployment](https://medium.com/concourse-ci/earning-our-wings-a0c307fa73e6)
 
-## [22. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [23. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Artificial Intelligence (AI)
 
@@ -200,30 +206,37 @@ Free
 
 *   [infosec-jobs.com](https://infosec-jobs.com/) - A fresh and lean InfoSec jobs board
 
-## [23. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [24. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Static Site Generators
 
 *   [eleventy](https://www.11ty.io/) - A simpler static site generator transforming various template files into HTML.
 
-## [24. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [25. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### View helpers
 
 *   [render\_async (⭐1.1k)](https://github.com/renderedtext/render_async) - Render partials to your views asynchronously and increase load performance of your pages.
 
-## [25. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [26. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Miscellaneous
 
-*   [bodge-nuklear (⭐55)](https://github.com/borodust/bodge-nuklear) - Wrapper over the [Nuklear (⭐7.3k)](https://github.com/Immediate-Mode-UI/Nuklear) immediate mode GUI library. [MIT](https://opensource.org/licenses/MIT).
+*   [bodge-nuklear (⭐57)](https://github.com/borodust/bodge-nuklear) - Wrapper over the [Nuklear (⭐7.9k)](https://github.com/Immediate-Mode-UI/Nuklear) immediate mode GUI library. [MIT](https://opensource.org/licenses/MIT).
 
 ### Others / Third-party APIs
 
-*   [numcl (⭐617)](https://github.com/numcl/numcl) - Numpy clone in Common Lisp. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
-*   [cl-ana (⭐186)](https://github.com/ghollisjr/cl-ana) - Common Lisp data analysis library with emphasis on modularity and conceptual clarity. It aims to be a general purpose framework for analyzing small and large scale datasets, including binned data analysis and visualization. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [numcl (⭐619)](https://github.com/numcl/numcl) - Numpy clone in Common Lisp. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
+*   [cl-ana (⭐190)](https://github.com/ghollisjr/cl-ana) - Common Lisp data analysis library with emphasis on modularity and conceptual clarity. It aims to be a general purpose framework for analyzing small and large scale datasets, including binned data analysis and visualization. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
 
-## [26. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
+## [27. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Communication - Social Networks and Forums
+
+*   [BuddyPress](https://buddypress.org/about/) - Powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more. ([Source Code (⭐211)](https://github.com/buddypress/BuddyPress)) `GPL-2.0` `PHP`
+*   [Socialhome](https://socialhome.network) - Federated and decentralized profile builder and social network engine. ([Demo](https://socialhome.network/), [Source Code (⭐345)](https://github.com/jaywink/socialhome)) `AGPL-3.0` `Docker/Python`
+
+## [28. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
 
 ### Software as a service:
 
@@ -233,26 +246,26 @@ Free
 
 *   [Thunderclap](http://thunderclap.it) - use this to coordinate a group sharing the same message on social media at the same time. You write a tweet, make a campaign, and ask people to pledge to support your campaign. When you reach your goal of a certain number of pledgers, your tweet will automatically be posted to each pledger's social media.
 
-## [27. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [29. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Trackers / Public Trackers
 
 *   [Rock Box](https://rawkbawx.rocks/) Metal music tracker
 *   [Music Torrent](http://music-torrent.net) General music tracker
 
-## [28. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [30. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Cache
 
-*   [Cachyr (⭐124)](https://github.com/nrkno/yr-cachyr) - A small key-value data cache for iOS, macOS and tvOS.
+*   [Cachyr (⭐125)](https://github.com/nrkno/yr-cachyr) - A small key-value data cache for iOS, macOS and tvOS.
 
-## [29. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [31. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### External Services / Terraform
 
 *   [GitHub Actions for Pixela (a-know/pi) (⭐12)](https://github.com/peaceiris/actions-pixela)
 
-## [30. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [32. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
@@ -260,9 +273,9 @@ Free
 
 ### Themes
 
-*   [GOV.UK Theme (⭐103)](https://github.com/UKHomeOffice/keycloak-theme-govuk)
+*   [GOV.UK Theme (⭐110)](https://github.com/UKHomeOffice/keycloak-theme-govuk)
 
-## [31. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [33. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Functional Swift
 
@@ -296,34 +309,19 @@ Free
 
 *   [*iOS Test-Driven Development by Tutorials* by Joshua Greene, Mike Katz](https://store.raywenderlich.com/products/ios-test-driven-development)
 
-## [32. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [34. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Books
 
 *   :books: [Programming with Types](https://www.manning.com/books/programming-with-types) - A book on how to design safe, resilient, correct software that’s easy to maintain and understand by taking advantage of the power of type systems. (by Vlad Riscutia)
 
-## [33. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
-
-### Software / Communication - Email - Mail Transfer Agents
-
-*   [Maildrop](https://gitlab.com/markbeeson/maildrop) - Disposable email SMTP server, also useful for development. `MIT` `Scala`
-
-### Software / Communication - Social Networks and Forums
-
-*   [BuddyPress](https://buddypress.org/about/) - Powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more. ([Source Code (⭐202)](https://github.com/buddypress/BuddyPress)) `GPL-2.0` `PHP`
-*   [Socialhome](https://socialhome.network) - Federated and decentralized profile builder and social network engine. ([Demo](https://socialhome.network/), [Source Code (⭐335)](https://github.com/jaywink/socialhome)) `AGPL-3.0` `Python`
-
-### Software / Photo and Video Galleries
-
-*   [Quru Image Server](https://quruimageserver.com/) - High performance dynamically resizing image server offering directory based access control cropping, rotation, color management and other tools. ([Demo](https://quruimageserver.com), [Source Code (⭐87)](https://github.com/quru/qis)) `AGPL-3.0` `Python`
-
-## [34. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [35. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### Dataset / Web
 
 *   [SMMnet](https://www.kaggle.com/leomauro/smmnet) - Network data from Super Mario Maker.
 
-## [35. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [36. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Clients
 
@@ -337,7 +335,7 @@ Free
 
 *   [mqtt2mongodb (⭐15)](https://github.com/David-Lor/MQTT2MongoDB) - Subscribe to MQTT topics and insert into MongoDB.
 
-## [36. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/week/README.md)
+## [37. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/week/README.md)
 
 ### Examples
 
@@ -349,30 +347,30 @@ Free
 *   [react-fetch-hook (⭐348)](https://github.com/ilyalesik/react-fetch-hook) - React hook for conveniently use Fetch API.
 *   [storeon (⭐1.9k)](https://github.com/storeon/storeon) - hook-based state manager in 173 bytes.
 
-## [37. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [38. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### SaaS
 
 *   [Make My Link Longer](https://make-my-link-longer.glitch.me/) - The URL-elongator you've always needed.
 
-## [38. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [39. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Finance
 
-*   [Bit Alarm (⭐163)](https://github.com/damoonrashidi/bitalarm) - An app to keep track of different cryptocurrencies by [Damoon Rashidi](https://github.com/damoonrashidi).
+*   [Bit Alarm (⭐173)](https://github.com/damoonrashidi/bitalarm) - An app to keep track of different cryptocurrencies by [Damoon Rashidi](https://github.com/damoonrashidi).
 
 ### Contents / Productivity
 
-*   [Flutter Todo (⭐115)](https://github.com/tuannguyendotme/flutter_todo) - This Todo app is implemented using Flutter by [Tuan Nguyen](https://github.com/tuannguyendotme).
-*   [Notes App (⭐384)](https://github.com/bimsina/notes-app) - Note Taking App made with Flutter with Sqlite as database by [Bibek Timsina](https://github.com/bimsina).
+*   [Flutter Todo (⭐130)](https://github.com/tuannguyendotme/flutter_todo) - This Todo app is implemented using Flutter by [Tuan Nguyen](https://github.com/tuannguyendotme).
+*   [Notes App (⭐417)](https://github.com/bimsina/notes-app) - Note Taking App made with Flutter with Sqlite as database by [Bibek Timsina](https://github.com/bimsina).
 *   [WhatTodo (⭐1.1k)](https://github.com/burhanrashid52/WhatTodo) - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52).
 
 ### Contents / Tools
 
-*   [Wallpaper (⭐279)](https://github.com/bimsina/wallpaper) - Wallpaper App made with Flutter with Dynamic Theming by [Bibek Timsina](https://github.com/bimsina)
+*   [Wallpaper (⭐283)](https://github.com/bimsina/wallpaper) - Wallpaper App made with Flutter with Dynamic Theming by [Bibek Timsina](https://github.com/bimsina)
 *   [Zefyr (⭐2.2k)](https://github.com/memspace/zefyr) - Soft and gentle rich text editing for Flutter applications by [Memspace](https://github.com/memspace)
 
-## [39. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
+## [40. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
 
 ### Tutorials
 
@@ -383,7 +381,7 @@ Free
 
 *   [Microsoft Quantum Blog](https://cloudblogs.microsoft.com/quantum/) - Official blog of Microsoft Quantum team.
 
-## [40. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [41. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Websites / Blogs
 
@@ -399,11 +397,11 @@ Free
 
 ### UI / Drawers
 
-*   [Hidden Drawer Menu (⭐298)](https://github.com/RafaelBarbosatec/hidden_drawer_menu) <!--stargazers:RafaelBarbosatec/hidden_drawer_menu--> - Beautiful drawer mode menu feature with perspective animations by [Rafael Almeida Barbosa](https://github.com/RafaelBarbosatec).
+*   [Hidden Drawer Menu (⭐307)](https://github.com/RafaelBarbosatec/hidden_drawer_menu) <!--stargazers:RafaelBarbosatec/hidden_drawer_menu--> - Beautiful drawer mode menu feature with perspective animations by [Rafael Almeida Barbosa](https://github.com/RafaelBarbosatec).
 
 ### UI / Sliders
 
-*   [Fluid Slider (⭐310)](https://github.com/rvamsikrishna/flutter_fluid_slider) <!--stargazers:rvamsikrishna/flutter_fluid_slider--> - A slider with a minimal design and fluid like animation by [Vamsi Krishna](https://github.com/rvamsikrishna)
+*   [Fluid Slider (⭐313)](https://github.com/rvamsikrishna/flutter_fluid_slider) <!--stargazers:rvamsikrishna/flutter_fluid_slider--> - A slider with a minimal design and fluid like animation by [Vamsi Krishna](https://github.com/rvamsikrishna)
 
 ### Monetization / Preferences
 
@@ -420,8 +418,8 @@ Free
 ### Device / Augmented Reality
 
 *   [Proximity Sensor Plugin](https://pub.dev/packages/proximity_plugin) - A plugin to access the proximity sensor of your device by [Manoj NB](https://github.com/Samaritan1011001)
-*   [UDID (⭐183)](https://github.com/GigaDroid/flutter_udid) <!--stargazers:GigaDroid/flutter_udid--> - Persistent UDID across app reinstalls by [Leon Kukuk](https://kukuk.me)
-*   [File Picker (⭐982)](https://github.com/miguelpruivo/plugins_flutter_file_picker) <!--stargazers:miguelpruivo/plugins_flutter_file_picker--> - Native file explorer to load absolute file path by [Miguel Ruivo](https://github.com/miguelpruivo)
+*   [UDID (⭐190)](https://github.com/GigaDroid/flutter_udid) <!--stargazers:GigaDroid/flutter_udid--> - Persistent UDID across app reinstalls by [Leon Kukuk](https://kukuk.me)
+*   [File Picker (⭐1.1k)](https://github.com/miguelpruivo/plugins_flutter_file_picker) <!--stargazers:miguelpruivo/plugins_flutter_file_picker--> - Native file explorer to load absolute file path by [Miguel Ruivo](https://github.com/miguelpruivo)
 
 ### Services / Bluetooth / NFC / Beacon
 
@@ -432,7 +430,7 @@ Free
 *   [Gitter](https://gitter.im/flutter/flutter) - Exchange channel
 *   [OpenFlutter](https://github.com/OpenFlutter) - Make it easier 让 Flutter 更简单
 
-## [41. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [42. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Graphic
 
@@ -585,31 +583,31 @@ Free
 
 *   [PasDoc](https://sourceforge.net/projects/pasdoc). `[Delphi]` `[FPC]` Documentation tool for ObjectPascal (FreePascal and Delphi) source code. Documentation is generated from comments found in source code. Available output formats are HTML, HtmlHelp, LaTeX, latex2rtf, simplexml. More output formats may be added in the future.
 
-## [42. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [43. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Reflection
 
-*   [visit\_struct (⭐422)](https://github.com/cbeck88/visit_struct) - A miniature library for struct-field reflection in C++. \[Boost]
+*   [visit\_struct (⭐456)](https://github.com/cbeck88/visit_struct) - A miniature library for struct-field reflection in C++. \[Boost]
 
 ### Miscellaneous
 
-*   [PEGTL (⭐1.7k)](https://github.com/taocpp/PEGTL) - The Parsing Expression Grammar Template Library. \[MIT]
+*   [PEGTL (⭐1.8k)](https://github.com/taocpp/PEGTL) - The Parsing Expression Grammar Template Library. \[MIT]
 
 ### Build Systems
 
-*   [Buck (⭐8.5k)](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages including C++ developed and used at Facebook. Written in Java. \[Apache]
+*   [Buck (⭐8.6k)](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages including C++ developed and used at Facebook. Written in Java. \[Apache]
 
 ### Other Awesome Projects
 
-*   [Awesome Modern C++ (⭐10k)](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++.
+*   [Awesome Modern C++ (⭐11k)](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++.
 
-## [43. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [44. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Books
 
 *   [Hands-On Domain-Driven Design with .NET Core](https://www.amazon.com/Hands-Domain-Driven-Design-NET-dp-1788834097/dp/1788834097) - Tackling complexity in the heart of software by putting DDD principles into practice by Alexey Zimarev.
 
-## [44. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
+## [45. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
@@ -617,66 +615,66 @@ Free
 
 ### GitHub
 
-*   [activity-box (⭐195)](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user.
+*   [activity-box (⭐197)](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user.
 
 ### Resources
 
-*   [gist-box (⭐81)](https://github.com/JasonEtco/gist-box) - A helper class for updating single-file Gists.
+*   [gist-box (⭐82)](https://github.com/JasonEtco/gist-box) - A helper class for updating single-file Gists.
 
-## [45. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
+## [46. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
 
 ### Stock Images / Storyboard
 
 *   [unDraw](https://undraw.co) - Open-source illustrations for every project you can imagine and create.
 
-## [46. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
+## [47. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
 
 ### What is Data Science?
 
 *   [Data Science for Business (Book)](https://amzn.to/2voPJUi) - An introduction to Data Science and its use as a business asset.
 
-## [47. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [48. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Seeds / Navigation Demos
 
 *   [react-int (⭐3)](https://github.com/leafOfTree/react-int) - A simple way to use react/react-native with redux and redux-saga.
 
-## [48. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [49. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Filesystem
 
-*   [tempy (⭐384)](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
+*   [tempy (⭐400)](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
 
 ### Packages / Security
 
-*   [crypto-hash (⭐603)](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
+*   [crypto-hash (⭐609)](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
 
 ### Packages / Miscellaneous
 
-*   [open (⭐2.9k)](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables.
+*   [open (⭐3k)](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables.
 
-## [49. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [50. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
 *   [.NET (⭐17k)](https://github.com/quozd/awesome-dotnet#readme)
-    *   [Core (⭐18k)](https://github.com/thangchung/awesome-dotnet-core#readme)
-    *   [Roslyn (⭐574)](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
+    *   [Core (⭐19k)](https://github.com/thangchung/awesome-dotnet-core#readme)
+    *   [Roslyn (⭐603)](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
 
 ### Development Environment
 
-*   [GitHub (⭐764)](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
-    *   [Browser Extensions (⭐2.7k)](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
-    *   [Cheat Sheet (⭐41k)](https://github.com/tiimgreen/github-cheat-sheet#readme)
-    *   [Pinned Gists (⭐1.6k)](https://github.com/matchai/awesome-pinned-gists#readme) - Dynamic pinned gists for your GitHub profile.
+*   [GitHub (⭐800)](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
+    *   [Browser Extensions (⭐2.8k)](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
+    *   [Cheat Sheet (⭐43k)](https://github.com/tiimgreen/github-cheat-sheet#readme)
+    *   [Pinned Gists (⭐1.7k)](https://github.com/matchai/awesome-pinned-gists#readme) - Dynamic pinned gists for your GitHub profile.
 
 ### Media
 
-*   [Icons (⭐550)](https://github.com/notlmn/awesome-icons#readme) - Downloadable SVG/PNG/font icon projects.
+*   [Icons (⭐633)](https://github.com/notlmn/awesome-icons#readme) - Downloadable SVG/PNG/font icon projects.
 
 ### Learn
 
-*   [Roadmaps (⭐3.1k)](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
+*   [Roadmaps (⭐3.4k)](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
 
 ---
 

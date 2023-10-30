@@ -82,7 +82,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 ### Implementations/Compilers
 
-*   [crisp (⭐42)](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
+*   [crisp (⭐43)](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
 
 ## [8. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
 
@@ -122,7 +122,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 ### For Electron / Other
 
-*   [electron-packager (⭐8.2k)](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
+*   [electron-packager (⭐8.3k)](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
 
 ## [11. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
@@ -145,7 +145,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 ### Community / Related Lists
 
-*   [Functional Programming Resources In JavaScript (⭐302)](https://github.com/busypeoples/functional-programming-javascript)
+*   [Functional Programming Resources In JavaScript (⭐306)](https://github.com/busypeoples/functional-programming-javascript)
 
 ---
 

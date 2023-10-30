@@ -10,14 +10,14 @@
 
 ### Overview / YouTube Music
 
-*   [ytmdesktop (⭐2.7k)](https://github.com/ytmdesktop/ytmdesktop): Cross-platform (Windows, Mac, and Linux) desktop app for YouTube Music. Has a (proprietary?) remote control app for Android
-*   [Beatbump (⭐624)](https://github.com/snuffyDev/Beatbump): An alternative frontend for YouTube Music created using Svelte/SvelteKit, powered by Cloudflare Workers
+*   [ytmdesktop (⭐2.9k)](https://github.com/ytmdesktop/ytmdesktop): Cross-platform (Windows, Mac, and Linux) desktop app for YouTube Music. Has a (proprietary?) remote control app for Android
+*   [Beatbump (⭐786)](https://github.com/snuffyDev/Beatbump): An alternative frontend for YouTube Music created using Svelte/SvelteKit, powered by Cloudflare Workers
     *   Official instance: <https://beatbump.ml/>
 *   [AudioTube](https://invent.kde.org/plasma-mobile/audiotube): Client for YouTube Music. Plasma-mobile project with an interface designed for Linux phones
 
 ### Redirection / Other services
 
-*   [libredirect (⭐2.1k)](https://github.com/libredirect/libredirect): A web extension that redirects popular sites to alternative privacy-friendly frontends and backends. Actively maintained fork of Privacy Redirect that supports Youtube, Youtube Music, Twitter, TikTok, Imgur, Reddit, Searx, Google Translate, Google Maps, Wikipedia, and Medium
+*   [libredirect (⭐2.5k)](https://github.com/libredirect/libredirect): A web extension that redirects popular sites to alternative privacy-friendly frontends and backends. Actively maintained fork of Privacy Redirect that supports Youtube, Youtube Music, Twitter, TikTok, Imgur, Reddit, Searx, Google Translate, Google Maps, Wikipedia, and Medium
     *   [Firefox Add-On](https://addons.mozilla.org/firefox/addon/libredirect/)
     *   [Chrome Extension](https://libredirect.github.io/download_chromium.html)
 
@@ -31,13 +31,13 @@
 
 ### Metrics Monitor - EMAIL / Meetups
 
-*   [WebPerformance Report](https://webperformancereport.com/) - Web performance report every week in your inbox. Get a Personalized Report on the Status of the Ecommerce or Website that you want to monitor in terms of Web performance and Web optimization, Core Web Vitals are included.
+*   [WebPerformance Report](https://webperformancereport.com/) - Web performance report every week in your inbox. Get a Personalized Report on the Status of the E-commerce or Website that you want to monitor in terms of Web performance and Web optimization, Core Web Vitals are included.
 
 ## [4. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### JupyterLab Extensions
 
-*   [stickyland (⭐280)](https://github.com/xiaohk/stickyland) - Break the linear presentation of notebooks with sticky cells.
+*   [stickyland (⭐445)](https://github.com/xiaohk/stickyland) - Break the linear presentation of notebooks with sticky cells.
 
 ### Hosted Notebook Solutions
 
@@ -46,7 +46,7 @@
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [boxy (⭐0)](https://github.com/evil-tim/boxy-zsh-theme) - Works well with solarized terminal colors. Includes decorators for `username@hostname`, current directory, `git` status, return code for last command, and time last command was run.
 
@@ -54,64 +54,64 @@
 
 ### Other Tools / Telegram
 
-*   [DuckDuckGo URL scraper (⭐15)](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
+*   [DuckDuckGo URL scraper (⭐16)](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
 
 ## [7. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Entertainment
 
-*   [Doddle- (become an artist in a minute) (⭐74)](https://github.com/NaserElziadna/doddle) - 💚Amazing magical doodle drawing app/game provide a creative doodle world for you 🖌💛🌸💚 [Naser Elziadna](https://github.com/NaserElziadna)
+*   [Doddle- (become an artist in a minute) (⭐103)](https://github.com/NaserElziadna/doddle) - 💚Amazing magical doodle drawing app/game provide a creative doodle world for you 🖌💛🌸💚 [Naser Elziadna](https://github.com/NaserElziadna)
 
 ## [8. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Back-End Development
 
-*   [Slim (⭐18)](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
+*   [Slim (⭐23)](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 
-*   [Vue 3 TypeScript Library Template (⭐3)](https://github.com/TinkoLiu/vue3-ts-lib-template) A simple but complete library template for Vue 3, supports generating `.vue.d.ts`
+*   [Vue 3 TypeScript Library Template (⭐4)](https://github.com/TinkoLiu/vue3-ts-lib-template) A simple but complete library template for Vue 3, supports generating `.vue.d.ts`
 
 ### Projects Using Vue.js / Open Source
 
-*   [Balancer (⭐138)](https://github.com/balancer-labs/frontend-v2) - A Decentralized Finance app that runs on Ethereum.
+*   [Balancer (⭐166)](https://github.com/balancer-labs/frontend-v2) - A Decentralized Finance app that runs on Ethereum.
 
 ### Components & Libraries / UI Components
 
 *   [control-knob (⭐8)](https://github.com/slipmatio/control-knob) - Rotary control knob component for Vue 3 that behaves like audio app controls.
 *   [vue-nav-tab (⭐2)](https://github.com/kien5436/vue-nav-tab) Tab components for Vue.js 3 project
-*   [vue-dropify (⭐16)](https://github.com/khofaai/vue-dropify) - A Simple image dropzone component for Vuejs
+*   [vue-dropify (⭐17)](https://github.com/khofaai/vue-dropify) - A Simple image dropzone component for Vuejs
 
 ### Components & Libraries / Frameworks
 
-*   [petite-vue (⭐7.7k)](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement.
+*   [petite-vue (⭐8.3k)](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement.
 
 ### Components & Libraries / Scaffold
 
-*   [electron-vite-template (⭐276)](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. **It's fast!**
+*   [electron-vite-template (⭐318)](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. **It's fast!**
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Tools for Teams and Collaboration
 
-*   [Stickies](https://stickies.app/) - Visual collaboration app used for brainstorming, content curation, and notes. Free for up to 3 Walls, unlimited users, 1 GB storage.
+*   [Stickies](https://stickies.app/) - Visual collaboration app used for brainstorming, content curation, and notes. Free for up to 3 Walls, unlimited users, and 1 GB storage.
 
 ### Issue Tracking and Project Management
 
-*   [Shake](https://www.shakebugs.com/) - In-app bug reporting and feedback tool for mobile apps. Free plan, 10 bug reports per app/per month.
+*   [Shake](https://www.shakebugs.com/) - In-app bug reporting and feedback tool for mobile apps. Free plan, ten bug reports per app/month.
 *   [SuperPM](https://superpm.app/) - Versatile project management platform. Free for up to 3 projects, unlimited users, 1 GB storage.
 
 ## [11. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### HTTP Clients
 
-*   [go-cleanhttp (⭐297)](https://github.com/hashicorp/go-cleanhttp) - Get easily stdlib HTTP client, which does not share any state with other clients.
+*   [go-cleanhttp (⭐328)](https://github.com/hashicorp/go-cleanhttp) - Get easily stdlib HTTP client, which does not share any state with other clients.
 
 ### Server Applications
 
-*   [Wish (⭐2.1k)](https://github.com/charmbracelet/wish) - Make SSH apps, just like that!
+*   [Wish (⭐2.3k)](https://github.com/charmbracelet/wish) - Make SSH apps, just like that!
 
 ## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -123,12 +123,12 @@
 
 ### Projects
 
-*   [Rust algorithms (⭐49)](https://github.com/Jondolf/rust-algorithms) - A website with interactive implementations of various algorithms.
+*   [Rust algorithms (⭐67)](https://github.com/Jondolf/rust-algorithms) - A website with interactive implementations of various algorithms.
 
 ### Alternatives / Frameworks
 
-*   [Dioxus (⭐8.1k)](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
-*   [Sycamore (⭐2.1k)](https://github.com/sycamore-rs/sycamore) - A reactive library for creating web apps in Rust and WebAssembly.
+*   [Dioxus (⭐14k)](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
+*   [Sycamore (⭐2.4k)](https://github.com/sycamore-rs/sycamore) - A reactive library for creating web apps in Rust and WebAssembly.
 
 ---
 

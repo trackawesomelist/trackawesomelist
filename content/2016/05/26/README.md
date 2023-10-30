@@ -16,7 +16,7 @@
 
 ### Framework Components
 
-*   [dayron (⭐158)](https://github.com/inaka/Dayron) - A repository *similar* to `Ecto.Repo` that works with REST API requests instead of a database.
+*   [dayron (⭐159)](https://github.com/inaka/Dayron) - A repository *similar* to `Ecto.Repo` that works with REST API requests instead of a database.
 
 ## [3. Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Samples
 
-*   [Stardust from Intel (⭐113)](https://github.com/GameTechDev/stardust_vulkan) - The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. \[[LICENSE (⭐113)](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
+*   [Stardust from Intel (⭐112)](https://github.com/GameTechDev/stardust_vulkan) - The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. \[[LICENSE (⭐112)](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
 
 ## [5. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Text / Barcode
 
-*   [RichEditorView (⭐1.8k)](https://github.com/cjwirth/RichEditorView) -  RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.
+*   [RichEditorView (⭐1.9k)](https://github.com/cjwirth/RichEditorView) -  RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.
 
 ## [7. Awesome D](/content/dlang-community/awesome-d/README.md)
 
@@ -81,13 +81,13 @@
 ### Build Tools / Bare metal / kernel development
 
 *   [premake (⭐2)](https://github.com/premake/premake-dlang) - Premake has built-in support for D projects
-*   [reggae (⭐163)](https://github.com/atilaneves/reggae) - meta build system in D
+*   [reggae (⭐172)](https://github.com/atilaneves/reggae) - meta build system in D
 *   [Makefile (⭐20)](https://github.com/bioinfornatics/MakefileForD) - Makefile template for D projects
-*   [cmake-d (⭐63)](https://github.com/dcarp/cmake-d) - CMake D Projects
+*   [cmake-d (⭐64)](https://github.com/dcarp/cmake-d) - CMake D Projects
 
 ### Data serialization / XML
 
-*   [orange (⭐71)](https://github.com/jacob-carlborg/orange) - General purpose serializer (currently only supports XML)
+*   [orange (⭐72)](https://github.com/jacob-carlborg/orange) - General purpose serializer (currently only supports XML)
 *   [std.experimental.xml (⭐21)](https://github.com/lodo1995/experimental.xml) - Phobos candidate for a XML serialization
 
 ## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
@@ -100,11 +100,11 @@
 
 ### Misc
 
-*   [circuit\_breaker (⭐26)](https://github.com/TPei/circuit_breaker) - Implementation of the circuit breaker pattern
+*   [circuit\_breaker (⭐27)](https://github.com/TPei/circuit_breaker) - Implementation of the circuit breaker pattern
 
 ### Queues and Messaging
 
-*   [sidekiq.cr (⭐754)](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
+*   [sidekiq.cr (⭐759)](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
 
 ## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -116,16 +116,16 @@
 
 ### PHP / Misc
 
-*   [SteamAuthentication (⭐431)](https://github.com/SmItH197/SteamAuthentication) - Steam OpenID authentication with PHP.
-*   [SteamAuthOOP (⭐34)](https://github.com/BlackCetha/SteamAuthOOP) - An object-oriented alternative to SteamAuthentication.
+*   [SteamAuthentication (⭐443)](https://github.com/SmItH197/SteamAuthentication) - Steam OpenID authentication with PHP.
+*   [SteamAuthOOP (⭐36)](https://github.com/BlackCetha/SteamAuthOOP) - An object-oriented alternative to SteamAuthentication.
 
 ### Objective-C / Misc
 
-*   [SteamAuth (⭐5)](https://github.com/michaelchum/SteamAuth) - An iOS wrapper around Steam's OpenID login.
+*   [SteamAuth (⭐6)](https://github.com/michaelchum/SteamAuth) - An iOS wrapper around Steam's OpenID login.
 
 ### Standalone Tools / Misc
 
-*   [SteamDesktopAuthenticator (⭐2.2k)](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app.
+*   [SteamDesktopAuthenticator (⭐2.6k)](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app.
 
 ### Discussion Boards / Misc
 

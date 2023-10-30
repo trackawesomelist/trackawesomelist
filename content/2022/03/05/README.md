@@ -54,13 +54,13 @@
 
 ### Web Frameworks
 
-*   [Huma (⭐200)](https://github.com/danielgtaylor/huma/) - Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI.
+*   [Huma (⭐232)](https://github.com/danielgtaylor/huma/) - Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### PaaS
 
-*   [Serverless Cloud](https://www.serverless.com/cloud) - Serverless Cloud lets you build Serverless APIs, DBs and Storage by using infrastrucure *from* code approach(no yaml, no infrastructure configuration). The product is provided by Serverless Inc. and currently under public preview.
+*   [Serverless Cloud](https://www.serverless.com/cloud) - Serverless Cloud lets you build Serverless APIs, DBs, and Storage by using infrastructure *from* the code approach(no YAML, no infrastructure configuration). Serverless Inc. provides the product and it is currently under public preview.
 
 ### Analytics, Events and Statistics
 
@@ -68,7 +68,7 @@
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [cmder (⭐13)](https://github.com/potasiyam/cmder-zsh-theme) - A ZSH theme that matches the theme of Cmder, a popular terminal emulator for windows. Includes `node` and `git` status decorations.
 *   [cn (⭐0)](https://github.com/shinqcn/cn-zsh/) - Includes `username`, `directory` and `git` status decorations.
@@ -77,13 +77,13 @@
 
 ### Libraries/Frameworks / Database
 
-*   [square/sqldelight (⭐5.2k)](https://github.com/square/sqldelight) - Generates Java models from CREATE TABLE statements.
+*   [square/sqldelight (⭐5.5k)](https://github.com/square/sqldelight) - Generates Java models from CREATE TABLE statements.
 
 ## [6. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Web / Scanning / Pentesting
 
-*   [Scanmycode CE (Community Edition) (⭐447)](https://github.com/marcinguy/scanmycode-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report. Currently supports: PHP, Java, Scala, Python, Ruby, Javascript, GO, Secret Scanning, Dependency Confusion, Trojan Source, Open Source and Proprietary Checks (total ca. 1000 checks)
+*   [Scanmycode CE (Community Edition) (⭐541)](https://github.com/marcinguy/scanmycode-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report. Currently supports: PHP, Java, Scala, Python, Ruby, Javascript, GO, Secret Scanning, Dependency Confusion, Trojan Source, Open Source and Proprietary Checks (total ca. 1000 checks)
 
 ## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 

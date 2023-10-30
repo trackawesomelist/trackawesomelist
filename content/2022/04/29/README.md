@@ -16,7 +16,7 @@
 
 ### Schema / Design
 
-*   [WWW SQL Designer (⭐2.7k)](https://github.com/ondras/wwwsqldesigner) - Online SQL diagramming tool.
+*   [WWW SQL Designer (⭐2.8k)](https://github.com/ondras/wwwsqldesigner) - Online SQL diagramming tool.
 
 ## [3. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -28,64 +28,35 @@
 
 *   [ada-planet](https://www.laeran.pl/adaplanet/i/) - News Aggregator from the Ada programming language world. ([RSS feed via Matrix](https://matrix.to/#/#ada-lang:matrix.org))
 
-## [4. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
-
-### Researchers / Tools
-
-*   [Nebullvm (⭐1.5k)](https://github.com/nebuly-ai/nebullvm) - Easy-to-use library to boost deep learning inference leveraging multiple deep learning compilers.
-*   [Netron (⭐20k)](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models
-
-## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
-
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
-
-*   [igeek (⭐37)](https://github.com/Saleh7/igeek-zsh-theme) - Displays system information when starting a new terminal session.
-
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Feed Readers
-
-*   [Tiny Tiny RSS](https://tt-rss.org) - Open source web-based news feed (RSS/Atom) reader and aggregator. ([Demo](https://srv.tt-rss.org/tt-rss/), [Source Code](https://git.tt-rss.org/fox/tt-rss)) `GPL-3.0` `Docker/PHP`
-
-### Software / Search Engines
-
-*   [Searx](https://searx.github.io/searx/) `⚠` - Privacy-respecting, hackable metasearch engine. ([Demo](https://searx.space/), [Source Code (⭐13k)](https://github.com/searx/searx)) `AGPL-3.0` `Python`
-
-### Anti-features / Wikis
-
-*   `⚠ ` - Depends on a proprietary service outside the user's control
-
-## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [4. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Pastebins
 
 *   [hastebin](https://www.toptal.com/developers/hastebin/)
 *   [paste.centos](https://paste.centos.org)
 
-### Books and Reading / Telegram
+## [5. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
-*   [Bookbrowse](https://www.bookbrowse.com)
-*   [Bookish](https://bookish.netgalley.com)
-*   [Bookscovery](https://www.bookscovery.com)
-*   [Calibre](https://www.calibre-ebook.com)
-*   [How Long To Read](https://howlongtoreadthis.com)
-*   [Shepherd](https://www.shepherd.com)
-*   [The Story Graph](https://www.thestorygraph.com)
+### Researchers / Tools
 
-### Bookmarking / Telegram
+*   [Nebullvm (⭐1.5k)](https://github.com/nebuly-ai/nebullvm) - Easy-to-use library to boost deep learning inference leveraging multiple deep learning compilers.
+*   [Netron (⭐20k)](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models
 
-*   [BookmarkOS](https://bookmarkos.com)
+## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Slide Show and Presentation Tools / Telegram
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [schnaq](https://schnaq.com)
+*   [igeek (⭐38)](https://github.com/Saleh7/igeek-zsh-theme) - Displays system information when starting a new terminal session.
 
-### Collaboration and Project Management / Telegram
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-*   [Ideaflip](http://ideaflip.com)
-*   [Kommon](http://www.inkommon.com)
-*   [Lattice](https://www.lattice.com)
-*   [Where.team](https://www.where.team)
+### Software / Feed Readers
+
+*   [Tiny Tiny RSS](https://tt-rss.org) - Open source web-based news feed (RSS/Atom) reader and aggregator. ([Demo](https://srv.tt-rss.org/tt-rss/), [Source Code](https://git.tt-rss.org/fox/tt-rss)) `GPL-3.0` `Docker/PHP`
+
+### Anti-features / Wikis
+
+*   `⚠ ` - Depends on a proprietary service outside the user's control
 
 ## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -104,11 +75,11 @@
 
 ### Miscellaneous
 
-*   [fccf (⭐333)](https://github.com/p-ranav/fccf) - A command-line tool that recursively searches a directory to find C/C++ source code matching a search string. \[MIT]
+*   [fccf (⭐340)](https://github.com/p-ranav/fccf) - A command-line tool that recursively searches a directory to find C/C++ source code matching a search string. \[MIT]
 
 ## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Analogy / Democratization
+### Analogy / Democratization of Science
 
 *   [Skip-Gram − Zipf + Uniform = Vector Additivity](https://aclanthology.org/P17-1007/) - ***ACL'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=11732363456979525246\&hl=en\&as_sdt=0,5)].
 

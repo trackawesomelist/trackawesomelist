@@ -10,8 +10,8 @@
 
 ### Python / Python Survival Analysis
 
-*   [lifelines (⭐2.1k)](https://github.com/CamDavidsonPilon/lifelines) - lifelines is a complete survival analysis library, written in pure Python
-*   [Scikit-Survival (⭐931)](https://github.com/sebp/scikit-survival) - scikit-survival is a Python module for survival analysis built on top of scikit-learn. It allows doing survival analysis while utilizing the power of scikit-learn, e.g., for pre-processing or doing cross-validation.
+*   [lifelines (⭐2.2k)](https://github.com/CamDavidsonPilon/lifelines) - lifelines is a complete survival analysis library, written in pure Python
+*   [Scikit-Survival (⭐972)](https://github.com/sebp/scikit-survival) - scikit-survival is a Python module for survival analysis built on top of scikit-learn. It allows doing survival analysis while utilizing the power of scikit-learn, e.g., for pre-processing or doing cross-validation.
 
 ### R / General-Purpose Machine Learning
 
@@ -22,13 +22,13 @@
 
 ### Video and Audio Conferencing / Alternative clients/modifications of Discord:
 
-*   [OpenAsar](https://openasar.dev/) - An open-source alternative of Discord desktop's app.asar that comes with a [No Track (⭐1.8k)](https://github.com/GooseMod/OpenAsar/blob/main/src/noTrack.js) function.
+*   [OpenAsar](https://openasar.dev/) - An open-source alternative of Discord desktop's app.asar that comes with a [No Track (⭐2.1k)](https://github.com/GooseMod/OpenAsar/blob/main/src/noTrack.js) function.
 
 ## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Go / Community
 
-*   [vite-go (⭐131)](https://github.com/torenware/vite-go) - Integration for Golang web apps.
+*   [vite-go (⭐165)](https://github.com/torenware/vite-go) - Integration for Golang web apps.
 
 ## [4. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Applications / Text processing
 
-*   [Melody (⭐4.1k)](https://github.com/yoav-lavi/melody) - A language that compiles to regular expressions and aims to be more easily readable and maintainable [![build badge](https://github.com/yoav-lavi/melody/actions/workflows/rust.yml/badge.svg)](https://github.com/yoav-lavi/melody/actions/workflows/rust.yml) [![crates.io](https://img.shields.io/crates/v/melody_compiler?label=compiler)](https://crates.io/crates/melody_compiler)
+*   [Melody (⭐4.5k)](https://github.com/yoav-lavi/melody) - A language that compiles to regular expressions and aims to be more easily readable and maintainable [![build badge](https://github.com/yoav-lavi/melody/actions/workflows/rust.yml/badge.svg)](https://github.com/yoav-lavi/melody/actions/workflows/rust.yml) [![crates.io](https://img.shields.io/crates/v/melody_compiler?label=compiler)](https://crates.io/crates/melody_compiler)
 
 ## [7. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -56,16 +56,15 @@
 
 ### Projects
 
-*   [CocktailMaker (⭐71)](https://github.com/alex9849/pi-cocktail-maker) - An advanced cocktail making machine that can be controlled via browser and touchscreen.
+*   [CocktailMaker (⭐86)](https://github.com/alex9849/pi-cocktail-maker) - An advanced cocktail making machine that can be controlled via browser and touchscreen.
 
 ### Books / iOS
 
-*   [Raspberry Pi Camera Guide](https://magpi.raspberrypi.com/books/camera-guide) - Learn how to use your High Quality Camera or Camera Module with your Raspberry Pi.
 *   [The Official Raspberry Pi Handbook 2022](https://magpi.raspberrypi.com/books/handbook-2022) - A guide to help you get the most of your Raspberry Pi computer, essential information, project ideas, tutorials, and reviews. **Updated for Raspberry Pi Pico.**
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [zenplash (⭐2)](https://github.com/Chivier/zenplash) - Creates files from templates stored in a user directory.
 
@@ -102,14 +101,14 @@
 
 ### Miscellaneous
 
-*   [Concord (⭐403)](https://github.com/Cogmasters/concord) - A Discord API wrapper library written in C. \[MIT] [website](https://cogmasters.github.io/concord)
+*   [Concord (⭐434)](https://github.com/Cogmasters/concord) - A Discord API wrapper library written in C. \[MIT] [website](https://cogmasters.github.io/concord)
 
 ## [13. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Extensions / Community
 
-*   [Data Grid Interface (⭐21)](https://github.com/seymoe/directus-extension-vgrid-interface) - A data grid interface width `@revolist/vue3-datagrid` for Directus 9.
-*   [SparkLine Display (⭐8)](https://github.com/seymoe/directus-extension-sparkline-display) - A sparkline display with `apexcharts` for Directus 9.
+*   [Data Grid Interface (⭐25)](https://github.com/seymoe/directus-extension-vgrid-interface) - A data grid interface width `@revolist/vue3-datagrid` for Directus 9.
+*   [SparkLine Display (⭐9)](https://github.com/seymoe/directus-extension-sparkline-display) - A sparkline display with `apexcharts` for Directus 9.
 
 ---
 

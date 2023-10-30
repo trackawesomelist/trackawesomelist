@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 19, 2023
 
-25 awesome lists updated today.
+21 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,11 +16,11 @@
 
 ### Libraries/Packages/Scripts / Python
 
-*   [Python package functime](https://docs.functime.ai/) - Machine learning Python package built on Polars for time-series predictions by [@DescendantAI ](https://github.com/descendant-ai). According to the developpers, it's the world's fastest and most feature-full machine learning forecasting library !
+*   [Python package functime](https://docs.functime.ai/) - Machine learning Python package built on Polars for time-series predictions by [@neocortexdb](https://github.com/neocortexdb). According to the developpers, it's the world's fastest and most feature-full machine learning forecasting library !
 
 ### Libraries/Packages/Scripts / R
 
-*   [tidypolars for R (⭐7)](https://github.com/etiennebacher/tidypolars/) `tidypolars` package to use polars with tidyverse syntax.
+*   [tidypolars for R (⭐70)](https://github.com/etiennebacher/tidypolars/) `tidypolars` package to use polars with tidyverse syntax.
 
 ### Resources / Blog posts
 
@@ -49,7 +49,7 @@
 
 ### Automation / Frameworks
 
-*   [MeterSphere (⭐9.5k)](https://github.com/metersphere/metersphere) - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
+*   [MeterSphere (⭐10k)](https://github.com/metersphere/metersphere) - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
 
 ### Automation / Conversion
 
@@ -63,7 +63,7 @@
 
 ### Incident Response tools / Evidence collection
 
-*   [Untitled Goose Tool (⭐772)](https://github.com/cisagov/untitledgoosetool) - Assists incident response teams by exporting cloud artifacts from Azure/AzureAD/M365 environments in order to run a full investigation despite lacking in logs ingested by a SIEM.
+*   [Untitled Goose Tool (⭐815)](https://github.com/cisagov/untitledgoosetool) - Assists incident response teams by exporting cloud artifacts from Azure/AzureAD/M365 environments in order to run a full investigation despite lacking in logs ingested by a SIEM.
 
 ### Preparedness training and wargaming / Post-engagement analysis and reporting
 
@@ -78,46 +78,42 @@
 ### Driver crates / Other
 
 *   [BMA400](https://crates.io/crates/bma400) - I2C/SPI - Bosch 12-bit 3-axis accelerometer - [github (⭐2)](https://github.com/cfrenette/bma400-rs) ![crates.io](https://img.shields.io/crates/v/bma400.svg)
-*   [FUSB302B (⭐4)](https://github.com/fmckeogh/usb-pd-rs) - I2C - Programmable USB Type‐C Controller with USB Power Delivery - [github (⭐4)](https://github.com/fmckeogh/usb-pd-rs)
+*   [FUSB302B (⭐7)](https://github.com/fmckeogh/usb-pd-rs) - I2C - Programmable USB Type‐C Controller with USB Power Delivery - [github (⭐7)](https://github.com/fmckeogh/usb-pd-rs)
 *   [i2c-multiplexer](https://crates.io/crates/i2c-multiplexer) - I2C - An I2C Multiplexer library that supports the PCA9546 and TCA9546A chips - [github (⭐1)](https://github.com/FloppyDisck/i2c-multiplexer) - ![crates.io](https://img.shields.io/crates/v/i2c-multiplexer.svg)
-*   [SHT31-rs](https://crates.io/crates/sht31) - I2C - Fully supported SHT temperature / humidity sensors - [github (⭐2)](https://github.com/FloppyDisck/SHT31-rs) - ![crates.io](https://img.shields.io/crates/v/sht31.svg)
+*   [SHT31-rs](https://crates.io/crates/sht31) - I2C - Fully supported SHT temperature / humidity sensors - [github (⭐4)](https://github.com/FloppyDisck/SHT31-rs) - ![crates.io](https://img.shields.io/crates/v/sht31.svg)
 
 ### no-std crates / WIP
 
-*   [usb-pd (⭐4)](https://github.com/fmckeogh/usb-pd-rs): USB-PD library, supports using the FUSB302B as a Sink driver, with Source functionality planned.
+*   [usb-pd (⭐7)](https://github.com/fmckeogh/usb-pd-rs): USB-PD library, supports using the FUSB302B as a Sink driver, with Source functionality planned.
 
 ### Firmware projects / WIP
 
-*   [Stabilizer (⭐76)](https://github.com/quartiq/stabilizer): Firmware for a DSP tool used in quantum physics experimentation, includes telemetry via MQTT and run-time configuration
-*   [Booster (⭐6)](https://github.com/quartiq/booster): Firmware for an RF power amplifier, including telemetry via MQTT and run-time configuration
+*   [Stabilizer (⭐80)](https://github.com/quartiq/stabilizer): Firmware for a DSP tool used in quantum physics experimentation, includes telemetry via MQTT and run-time configuration
+*   [Booster (⭐7)](https://github.com/quartiq/booster): Firmware for an RF power amplifier, including telemetry via MQTT and run-time configuration
 *   [Thermostat EEM (⭐6)](https://github.com/quartiq/thermostat-eem): Firmware for a multi-channel temperature controller used in physics experiments
-*   [Card/IO ECG (⭐5)](https://github.com/card-io-ecg/card-io-fw): Firmware for a business-card sized ECG device with Wifi connectivity
+*   [Card/IO ECG (⭐19)](https://github.com/card-io-ecg/card-io-fw): Firmware for a business-card sized ECG device with Wifi connectivity
 
 ## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### OS and Kernels / MIT
-
-*   [HiRTOS (⭐11)](https://github.com/jgrivera67/HiRTOS) - A high-integrity RTOS written in SPARK Ada.
-
-### Sound / MIT
+### Sound / Apache License
 
 *   [adaogg](https://phasercat.com/adaogg/) - Complete thin interface layer that brings the Ogg, Vorbis, and Theora libraries to the Ada 2012 programming language.
 
-### Frameworks / MIT
+### Frameworks / Apache License
 
-*   [SweetAda (⭐20)](https://github.com/gabriele-galeotti/SweetAda) - A lightweight development framework whose purpose is the implementation of Ada-based software systems. It supports a plethora or CPU architectures and development boards.
+*   [SweetAda (⭐27)](https://github.com/gabriele-galeotti/SweetAda) - A lightweight development framework whose purpose is the implementation of Ada-based software systems. It supports a plethora or CPU architectures and development boards.
 
 ## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Testing
 
-*   [mneme (⭐50)](https://github.com/zachallaun/mneme) - Assertions that know how to update themselves, otherwise known as snapshot or approval testing.
+*   [mneme (⭐52)](https://github.com/zachallaun/mneme) - Assertions that know how to update themselves, otherwise known as snapshot or approval testing.
 
 ## [9. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Blockchain
 
-*   [cometbft (⭐314)](https://github.com/cometbft/cometbft) - A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. It is a fork of Tendermint Core and implements the Tendermint consensus algorithm.
+*   [cometbft (⭐371)](https://github.com/cometbft/cometbft) - A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. It is a fork of Tendermint Core and implements the Tendermint consensus algorithm.
 
 ## [10. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -133,11 +129,11 @@
 
 ### Third-Party Packages / APIs
 
-*   [graphene-django-filter (⭐12)](https://github.com/devind-team/graphene-django-filter) - Advanced filters implementing and/or/not operators in GraphQL for Django.
+*   [graphene-django-filter (⭐16)](https://github.com/devind-team/graphene-django-filter) - Advanced filters implementing and/or/not operators in GraphQL for Django.
 
 ### Third-Party Packages / Full-stack frameworks
 
-*   [ReactPy (⭐6.5k)](https://github.com/reactive-python/reactpy) - It's React, but in Python. Insert dynamically rendered Python into Django templates using the [ReactPy-Django module (⭐206)](https://github.com/reactive-python/reactpy-django).
+*   [ReactPy (⭐7.2k)](https://github.com/reactive-python/reactpy) - It's React, but in Python. Insert dynamically rendered Python into Django templates using the [ReactPy-Django module (⭐240)](https://github.com/reactive-python/reactpy-django).
 
 ## [12. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 
@@ -147,19 +143,13 @@
 *   [DronaHQ](https://www.dronahq.com/?ref=github-gs) - Drag and drop low code platform to build internal apps for web as well as mobile.
 *   [REI3](https://rei3.de/en/home) - REI3 is an open low code application platform. It runs on almost any system, on-premise or in the cloud and is free to use for individuals and organizations.
 
-## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
-
-### Authentication and Authorization
-
-*   [Topaz](https://www.topaz.sh) - An open-source authorization project for .NET applications.
-
-## [14. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [13. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Projects
 
 *   [RPi-eth-display](https://pierre-couy.dev/tinkering/2023/03/turning-rpi-into-external-monitor-driver.html) - Open source DisplayLink alternative, ethernet to HDMI adapter.
 
-## [15. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md)
+## [14. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md)
 
 ### Experiential Spaces & Experiences
 
@@ -173,42 +163,13 @@
 
 
 
-## [16. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Projects / Misc
-
-*   [kpspemu/kpspemu (⭐67)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
-*   [chrislo27/RhythmHeavenRemixEditor (⭐417)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
-
-### Projects / Desktop
-
-*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
-
-### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
-
-## [17. Ai Collection](/content/ai-collection/ai-collection/README.md)
-
-### Code & Database Assistant
-
-- Name: [Hiphops AI](https://www.hiphops.io/ai)
-
-  Title: Inject AI Anywhere In Your Dev Workflow
-
-  Description: Hiphops AI lets you integrate generative AI anywhere in your development workflow so you can fully automate you development, testing, deployment and release process.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-## [18. Awesome Naming](/content/gruhn/awesome-naming/README.md)
+## [15. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
 ### Theoretical Computer Science
 
 *   [Busy Beaver](https://en.wikipedia.org/wiki/Busy_beaver) - Turing machines that produce numbers so insanly large, no other algorithm can keep up with them.
 
-## [19. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [16. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
 
@@ -222,19 +183,19 @@
 
 *   [Hollywood studios proposed AI contract that would give them likeness rights ‘for the rest of eternity’ - The Verge](https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights)
 
-## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [17. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Libreddit (⭐4.8k)](https://github.com/libreddit/libreddit) `⚠` - Private front-end for Reddit written in Rust. `AGPL-3.0` `Rust`
+*   [Libreddit (⭐4.9k)](https://github.com/libreddit/libreddit) `⚠` - Private front-end for Reddit written in Rust. `AGPL-3.0` `Rust`
 
 ### Software / Document Management - E-books
 
-*   [Mango (⭐1.4k)](https://github.com/getmango/Mango) - Manga server and web reader with a built-in MangaDex downloader. `MIT` `Crystal/Docker`
+*   [Mango (⭐1.6k)](https://github.com/getmango/Mango) - Manga server and web reader with a built-in MangaDex downloader. `MIT` `Crystal/Docker`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Uguu (⭐639)](https://github.com/nokonoko/uguu) - Stores files and deletes after X amount of time. `MIT` `PHP`
+*   [Uguu (⭐680)](https://github.com/nokonoko/uguu) - Stores files and deletes after X amount of time. `MIT` `PHP`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
@@ -242,9 +203,9 @@
 
 ### Software / Software Development - API Management
 
-*   [Psychic](https://www.psychic.dev/) - Universal API to connect large language models to dynamic data sources. ([Source Code (⭐1.4k)](https://github.com/psychic-api/psychic)) `GPL-3.0` `Python`
+*   [Psychic](https://www.psychic.dev/) - Universal API to connect large language models to dynamic data sources. ([Source Code (⭐1.6k)](https://github.com/psychic-api/psychic)) `GPL-3.0` `Python`
 
-## [21. Learn to Program](/content/karlhorky/learn-to-program/README.md)
+## [18. Learn to Program](/content/karlhorky/learn-to-program/README.md)
 
 ### Beginner
 
@@ -303,13 +264,13 @@
 **Free** courses from Harvard, MIT, and other universities\
 *(varied computer science subjects including theory and programming, data science, algorithms, ...)*
 
-## [22. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [19. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [@tato30/vue-pdf (⭐85)](https://github.com/TaTo30/VuePDF) - A PDF viewer for Vue 3. [Demo](https://tato30.github.io/VuePDF/)
+*   [@tato30/vue-pdf (⭐144)](https://github.com/TaTo30/VuePDF) - A PDF viewer for Vue 3. [Demo](https://tato30.github.io/VuePDF/)
 
-## [23. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
+## [20. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ### Services / Misc
 
@@ -319,18 +280,13 @@
 
 *   [Mailmodo](https://www.mailmodo.com/email-templates/)- Mega Email Template Library, from where you can get the template for free or customize your own Email Templates
 
-## [24. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [21. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [AlexvZyl/nordic.nvim (⭐263)](https://github.com/AlexvZyl/nordic.nvim) - Nord for Neovim, but warmer and darker. Supports a variety of plugins and other platforms.
-
-## [25. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Data Science
-
-*   [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) -  Melanie Walsh
+*   [AlexvZyl/nordic.nvim (⭐411)](https://github.com/AlexvZyl/nordic.nvim) - Nord for Neovim, but warmer and darker. Supports a variety of plugins and other platforms.
 
 ---
 
+- Prev: [Jul 20, 2023](/content/2023/07/20/README.md)
 - Next: [Jul 18, 2023](/content/2023/07/18/README.md)

@@ -14,21 +14,21 @@
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
-### Security configurations / Firewall appliances or distributions
+### Security configurations / Post-engagement analysis and reporting
 
-*   [Bunkerized-nginx (⭐2.9k)](https://github.com/bunkerity/bunkerized-nginx) - Docker image of an NginX configuration and scripts implementing many defensive techniques for Web sites.
+*   [Bunkerized-nginx (⭐3k)](https://github.com/bunkerity/bunkerized-nginx) - Docker image of an NginX configuration and scripts implementing many defensive techniques for Web sites.
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-lang-router (⭐64)](https://github.com/adbrosaci/vue-lang-router) - Vue.js 2 & 3 language routing with (optional) URL localization.
+*   [vue-lang-router (⭐67)](https://github.com/adbrosaci/vue-lang-router) - Vue.js 2 & 3 language routing with (optional) URL localization.
 
 ## [4. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
-### Model Explanation / NLP
+### Model Explanation / Others
 
-*   [Shapley (⭐197)](https://github.com/benedekrozemberczki/shapley) - A data-driven framework to quantify the value of classifiers in a machine learning ensemble.
+*   [Shapley (⭐202)](https://github.com/benedekrozemberczki/shapley) - A data-driven framework to quantify the value of classifiers in a machine learning ensemble.
 
 ## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Cryptocurrency
 
-- API: [Binance (⭐2.8k)](https://github.com/binance/binance-spot-api-docs)
+- API: [Binance (⭐3.4k)](https://github.com/binance/binance-spot-api-docs)
 
   Description: Exchange for Trading Cryptocurrencies based in China
 
@@ -95,13 +95,13 @@
 
 ### Helix
 
-*   [Sitecore Helix Examples (⭐73)](https://github.com/Sitecore/Helix.Examples) - Demonstrations of Sitecore Helix practices across various tooling and business scenarios; intended to demonstrate a wider variety of implementation types / requirements than existing examples.
+*   [Sitecore Helix Examples (⭐77)](https://github.com/Sitecore/Helix.Examples) - Demonstrations of Sitecore Helix practices across various tooling and business scenarios; intended to demonstrate a wider variety of implementation types / requirements than existing examples.
 
 ## [12. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Models
 
-*   [django-mptt (⭐2.7k)](https://github.com/django-mptt/django-mptt) - Modified Preorder Tree Traversal; working with trees of Model instances.
+*   [django-mptt (⭐2.8k)](https://github.com/django-mptt/django-mptt) - Modified Preorder Tree Traversal; working with trees of Model instances.
 
 ---
 

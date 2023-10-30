@@ -71,7 +71,7 @@
 
 ### Specialties
 
-*   [ada-composition (⭐7)](https://github.com/gerr135/ada_composition) - A collections of small nifty demos/sample code that may help better layout data or structure project.
+*   [ada-composition (⭐8)](https://github.com/gerr135/ada_composition) - A collections of small nifty demos/sample code that may help better layout data or structure project.
 
 ## [8. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
@@ -102,7 +102,7 @@
 
 ### Strong Naming
 
-*   [Strong Namer (⭐316)](https://github.com/dsplaisted/strongnamer) - Automatically add strong names to referenced assemblies which do not already have a strong name. This will allow you to reference and use (NuGet packages with) assemblies which are not strong named from your projects that do use a strong name.
+*   [Strong Namer (⭐322)](https://github.com/dsplaisted/strongnamer) - Automatically add strong names to referenced assemblies which do not already have a strong name. This will allow you to reference and use (NuGet packages with) assemblies which are not strong named from your projects that do use a strong name.
 
 ## [10. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 
@@ -132,7 +132,7 @@
 
 ### Python / Git
 
-*   [Crypto-Vinaigrette (⭐13)](https://github.com/aditisrinivas97/Crypto-Vinaigrette) - Quantum resistant asymmetric key generation tool for digital signatures.
+*   [Crypto-Vinaigrette (⭐17)](https://github.com/aditisrinivas97/Crypto-Vinaigrette) - Quantum resistant asymmetric key generation tool for digital signatures.
 
 ## [14. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
@@ -198,7 +198,7 @@
 
 ## [17. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
-### United States 🇺🇸 / California   <a id="california">  </a>
+### United States 🇺🇸 / California <a id="california"></a>
 
 #### Backyard Brew
 

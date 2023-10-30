@@ -47,7 +47,7 @@
     *   [Transitioning from OpenGL to Vulkan](https://developer.nvidia.com/transitioning-opengl-vulkan)
     *   [Siggraph 15 talk - Vulkan on NVIDIA GPUs](http://on-demand.gputechconf.com/siggraph/2015/presentation/SIG1501-Piers-Daniell.pdf)
 *   Intel
-    *   [API without Secrets: Introduction to Vulkan (⭐1.2k)](https://github.com/GameTechDev/IntroductionToVulkan) \[[LICENSE (⭐1.2k)](https://github.com/GameTechDev/IntroductionToVulkan/blob/master/license.txt)]
+    *   [API without Secrets: Introduction to Vulkan (⭐1.3k)](https://github.com/GameTechDev/IntroductionToVulkan) \[[LICENSE (⭐1.3k)](https://github.com/GameTechDev/IntroductionToVulkan/blob/master/license.txt)]
         *   [Part 1: The Beginning](https://software.intel.com/en-us/api-without-secrets-introduction-to-vulkan-part-1)
         *   [Part 2: Swap Chain](https://software.intel.com/en-us/api-without-secrets-introduction-to-vulkan-part-2)
         *   [Part 3: First Triangle](https://software.intel.com/en-us/api-without-secrets-introduction-to-vulkan-part-3)
@@ -61,13 +61,13 @@
 ### Samples
 
 *   Google
-    *   [Android port of LunarG samples (⭐446)](https://github.com/googlesamples/vulkan-basic-samples).
-    *   [android tutorials (⭐745)](https://github.com/googlesamples/android-vulkan-tutorials).
-*   [nvpro-samples](https://github.com/nvpro-samples) - NVIDIA DesignWorks Samples. \[[LICENSE (⭐148)](https://github.com/nvpro-samples/gl_vk_threaded_cadscene/blob/master/LICENSE)]
-    *   [gl\_vk\_chopper (⭐201)](https://github.com/nvpro-samples/gl_vk_chopper) - Simple vulkan rendering example.
-    *   [gl\_vk\_threaded\_cadscene (⭐148)](https://github.com/nvpro-samples/gl_vk_threaded_cadscene) - OpenGL and Vulkan comparison on rendering a CAD scene using various techniques and [the blog](https://developer.nvidia.com/vulkan-opengl-threaded-cad-scene-sample) about it.
-    *   [gl\_vk\_bk3dthreaded (⭐82)](https://github.com/nvpro-samples/gl_vk_bk3dthreaded) - Vulkan sample rendering 3D with 'worker-threads'.
-    *   [gl\_vk\_supersampled (⭐59)](https://github.com/nvpro-samples/gl_vk_supersampled) - Vulkan sample showing a high quality super-sampled rendering.
+    *   [Android port of LunarG samples (⭐464)](https://github.com/googlesamples/vulkan-basic-samples).
+    *   [android tutorials (⭐785)](https://github.com/googlesamples/android-vulkan-tutorials).
+*   [nvpro-samples](https://github.com/nvpro-samples) - NVIDIA DesignWorks Samples. \[[LICENSE (⭐151)](https://github.com/nvpro-samples/gl_vk_threaded_cadscene/blob/master/LICENSE)]
+    *   [gl\_vk\_chopper (⭐202)](https://github.com/nvpro-samples/gl_vk_chopper) - Simple vulkan rendering example.
+    *   [gl\_vk\_threaded\_cadscene (⭐151)](https://github.com/nvpro-samples/gl_vk_threaded_cadscene) - OpenGL and Vulkan comparison on rendering a CAD scene using various techniques and [the blog](https://developer.nvidia.com/vulkan-opengl-threaded-cad-scene-sample) about it.
+    *   [gl\_vk\_bk3dthreaded (⭐86)](https://github.com/nvpro-samples/gl_vk_bk3dthreaded) - Vulkan sample rendering 3D with 'worker-threads'.
+    *   [gl\_vk\_supersampled (⭐61)](https://github.com/nvpro-samples/gl_vk_supersampled) - Vulkan sample showing a high quality super-sampled rendering.
 
 ## [4. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Python / Neural Networks
 
-*   [Data Driven Code (⭐27)](https://github.com/atmb4u/data-driven-code) - Very simple implementation of neural networks for dummies in python without using any libraries, with detailed comments.
+*   [Data Driven Code (⭐29)](https://github.com/atmb4u/data-driven-code) - Very simple implementation of neural networks for dummies in python without using any libraries, with detailed comments.
 
 ## [7. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
 

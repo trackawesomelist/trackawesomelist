@@ -1,18 +1,12 @@
 # Awesome List Updates on Jul 20, 2015
 
-4 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
-
-### Software Development
-
-*   [The Worst Programming Language Ever](http://www.infoq.com/presentations/worst-programming-language) by **Mark Rendle** \[43:46]
-
-## [2. Awesome OpenSourcePhotography](/content/ibaaj/awesome-OpenSourcePhotography/README.md)
+## [1. Awesome OpenSourcePhotography](/content/ibaaj/awesome-OpenSourcePhotography/README.md)
 
 ### Monitor Color Correction / Sony
 
@@ -26,13 +20,13 @@
 
 *   [Flickr Open Source Photography Group](https://www.flickr.com/groups/83823859@N00/)
 
-## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Testing
 
 *   [mocks.cr (⭐51)](https://github.com/waterlink/mocks.cr) - Mocking library for Crystal
 
-## [4. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
+## [3. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
 ### Unofficial
 

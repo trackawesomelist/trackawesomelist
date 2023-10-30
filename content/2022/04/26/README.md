@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 26, 2022
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,28 +22,34 @@
 
 ### End-user applications / XML
 
-*   [Inochi Creator (⭐513)](https://github.com/Inochi2D/inochi-creator) - Tool to create and edit Inochi2D puppets
+*   [Inochi Creator (⭐605)](https://github.com/Inochi2D/inochi-creator) - Tool to create and edit Inochi2D puppets
 
-## [3. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
+## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### V / Deno
+
+*   [V Documentation (⭐35k)](https://github.com/vlang/v/blob/HEAD/doc/docs.md) - vlang.io (Markdown)
+
+## [4. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
 ### YouTube Channels / Services
 
 *   [EOS Nation](https://www.youtube.com/channel/UCXgAY9DyooykrubRXw3xK1g) - EOS Hot Sauce, ENF, tech, and community content.
 *   [Helios](https://www.youtube.com/c/HeliosEOSIO) - Dedicated to growing EOS, interviews and spotlights.
 
-## [4. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+## [5. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Starters/Boilerplates / Other external resources
 
-*   [rails\_new](https://github.com/lockstep/rails_new) - A thoughtfully designed template for building modern Rails apps. Get started in minutes instead of hours.
+*   [rails\_new (⭐162)](https://github.com/lockstep/rails_new) - A thoughtfully designed template for building modern Rails apps. Get started in minutes instead of hours.
 
-## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [fluidsonic/fluid-pdf (⭐16)](https://github.com/fluidsonic/fluid-pdf) - Easy PDF generation with HTML & CSS using Chromium or Google Chrome
+*   [fluidsonic/fluid-pdf (⭐19)](https://github.com/fluidsonic/fluid-pdf) - Easy PDF generation with HTML & CSS using Chromium or Google Chrome
 
-## [6. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [7. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 
@@ -54,50 +60,50 @@
 
 *   [A first look at Deno | BlaBlaConf 2021 🇲🇦](https://www.youtube.com/watch?v=Y_etUvzAa4s)
 
-## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zshange\_directory\_recent (⭐0)](https://github.com/Kjeldgaard/zshange_directory_recent) - Change to a recent directory. Requires [fzf (⭐52k)](https://github.com/junegunn/fzf).
+*   [zshange\_directory\_recent (⭐0)](https://github.com/Kjeldgaard/zshange_directory_recent) - Change to a recent directory. Requires [fzf (⭐55k)](https://github.com/junegunn/fzf).
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [npm-scripts-autocomplete (⭐51)](https://github.com/grigorii-zander/zsh-npm-scripts-autocomplete) - Shows autocomplete suggestions from scripts found in the current directory's `package.json`. Works with `npm` and `yarn`.
+*   [npm-scripts-autocomplete (⭐61)](https://github.com/grigorii-zander/zsh-npm-scripts-autocomplete) - Shows autocomplete suggestions from scripts found in the current directory's `package.json`. Works with `npm` and `yarn`.
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [daily-emoji (⭐1)](https://github.com/huytran-wq/zsh-daily-emoji-theme/) - Shows random emoji at the beginning of each command depending on the day of the week.
 
-## [8. Awesome Go](/content/avelino/awesome-go/README.md)
+## [9. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Configuration
 
-*   [GoLobby/Config (⭐325)](https://github.com/golobby/config) - GoLobby Config is a lightweight yet powerful configuration manager for the Go programming language.
+*   [GoLobby/Config (⭐342)](https://github.com/golobby/config) - GoLobby Config is a lightweight yet powerful configuration manager for the Go programming language.
 *   [nfigure (⭐6)](https://github.com/muir/nfigure) - Per-library struct-tag based configuration from command lines (Posix & Go-style); environment, JSON, YAML
 
 ### Miscellaneous Data Structures and Algorithms
 
-*   [slices (⭐13)](https://github.com/twharmon/slices) - Pure, generic functions for slices.
+*   [slices (⭐15)](https://github.com/twharmon/slices) - Pure, generic functions for slices.
 
 ### Functional
 
-*   [fp-go (⭐216)](https://github.com/repeale/fp-go) - Collection of Functional Programming helpers powered by Golang 1.18+ generics.
+*   [fp-go (⭐262)](https://github.com/repeale/fp-go) - Collection of Functional Programming helpers powered by Golang 1.18+ generics.
 
 ### Dependency Injection
 
-*   [GoLobby/Container (⭐461)](https://github.com/golobby/container) - GoLobby Container is a lightweight yet powerful IoC dependency injection container for the Go programming language.
+*   [GoLobby/Container (⭐497)](https://github.com/golobby/container) - GoLobby Container is a lightweight yet powerful IoC dependency injection container for the Go programming language.
 
 ### Morphological Analyzers
 
-*   [govader-backend (⭐5)](https://github.com/PIMPfiction/govader_backend) - Microservice implementation of [GoVader (⭐34)](https://github.com/jonreiter/govader).
+*   [govader-backend (⭐5)](https://github.com/PIMPfiction/govader_backend) - Microservice implementation of [GoVader (⭐37)](https://github.com/jonreiter/govader).
 
 ### ORM
 
-*   [golobby/orm (⭐130)](https://github.com/golobby/orm) - Simple, fast, type-safe, generic orm for developer happiness.
+*   [golobby/orm (⭐146)](https://github.com/golobby/orm) - Simple, fast, type-safe, generic orm for developer happiness.
 
 ### Query Language
 
-*   [goven (⭐51)](https://github.com/SeldonIO/goven) - A drop-in query language for any database schema.
+*   [goven (⭐56)](https://github.com/SeldonIO/goven) - A drop-in query language for any database schema.
 
 ### Third-party APIs
 
@@ -105,7 +111,7 @@
 
 ### Web Frameworks
 
-*   [golamb (⭐5)](https://github.com/twharmon/golamb) - Golamb makes it easier to write API endpoints for use with AWS Lambda and API Gateway.
+*   [golamb (⭐6)](https://github.com/twharmon/golamb) - Golamb makes it easier to write API endpoints for use with AWS Lambda and API Gateway.
 
 ### Routers / Libraries for creating HTTP middlewares
 
@@ -113,20 +119,20 @@
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [go-rocket-update (⭐82)](https://github.com/mouuff/go-rocket-update) - A simple way to make self updating Go applications - Supports Github and Gitlab.
+*   [go-rocket-update (⭐85)](https://github.com/mouuff/go-rocket-update) - A simple way to make self updating Go applications - Supports Github and Gitlab.
 
-## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Fennel / Diagnostics
 
-*   [udayvir-singh/tangerine.nvim (⭐149)](https://github.com/udayvir-singh/tangerine.nvim) - Sweet :tangerine: Fennel integration, aims to be as fast as possible.
-*   [udayvir-singh/hibiscus.nvim (⭐85)](https://github.com/udayvir-singh/hibiscus.nvim) - Flavored :hibiscus: Fennel macro library.
+*   [udayvir-singh/tangerine.nvim (⭐171)](https://github.com/udayvir-singh/tangerine.nvim) - Sweet :tangerine: Fennel integration, aims to be as fast as possible.
+*   [udayvir-singh/hibiscus.nvim (⭐93)](https://github.com/udayvir-singh/hibiscus.nvim) - Flavored :hibiscus: Fennel macro library.
 
 ### Scrolling / Diagnostics
 
-*   [declancm/cinnamon.nvim (⭐229)](https://github.com/declancm/cinnamon.nvim) - Smooth scrolling for any movement command.
+*   [declancm/cinnamon.nvim (⭐263)](https://github.com/declancm/cinnamon.nvim) - Smooth scrolling for any movement command.
 
-## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [11. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Offline / Other (Plugins || Cross-platform || OSS || Free)
 
@@ -134,44 +140,44 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Jest (⭐42k)](https://github.com/facebook/jest) - A comprehensive JavaScript testing solution. Works out of the box for most JavaScript projects.
+*   :octocat: [Jest (⭐43k)](https://github.com/facebook/jest) - A comprehensive JavaScript testing solution. Works out of the box for most JavaScript projects.
 
-## [11. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [12. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Auditing / Logging
 
 *   [Version plugin (⭐52)](https://github.com/josegonzalez/cakephp-version) - A plugin that facilitates versioned database entities.
 
-## [12. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [13. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### API / E-commerce
 
 *   [Medusa](https://medusajs.com/) - Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
 
-## [13. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+## [14. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Tools - Miscellaneous / React
 
-*   [Blendbase (⭐19)](https://github.com/blendbase/blendbase): Single open-source GraphQL API to connect CRMs to your SaaS. Query any customer CRM system (Salesforce, Hubspot and more) with a single API query from your SaaS app.
+*   [Blendbase (⭐20)](https://github.com/blendbase/blendbase): Single open-source GraphQL API to connect CRMs to your SaaS. Query any customer CRM system (Salesforce, Hubspot and more) with a single API query from your SaaS app.
 
-## [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Complexity & Information Theory / Theory
 
 *   [From Algorithmic to Subjective Randomness](https://proceedings.neurips.cc/paper/2003/hash/b06b5541a62ed438f956b662b4e1ec28-Abstract.html) - ***NeurIPS'03***, 2003. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=14721764738308036578)].
 
-## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [16. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Tools for Teams and Collaboration
 
-*   [Gather](https://www.gather.town/) - A better way to meet online. Centered around fully customizable spaces, Gather makes spending time with your communities just as easy as real life. Free for up to 25 concurrent users.
-*   [Livecycle](https://www.livecycle.io/) — Livecycle is an inclusive collaboration platform that makes workflows frictionless for cross-functional product teams and open source projects.
+*   [Gather](https://www.gather.town/) - A better way to meet online. Centered around fully customizable spaces, Gather makes spending time with your communities just as easy as real life. Free for up to 10 concurrent users.
+*   [Livecycle](https://www.livecycle.io/) — Livecycle is an inclusive collaboration platform that makes workflows frictionless for cross-functional product teams and open-source projects.
 
-## [16. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [17. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Chart
 
-*   [FLCharts (⭐253)](https://github.com/francescoleoni98/FLCharts) - Easy to use and highly customizable charts library for iOS.
+*   [FLCharts (⭐258)](https://github.com/francescoleoni98/FLCharts) - Easy to use and highly customizable charts library for iOS.
 
 ---
 

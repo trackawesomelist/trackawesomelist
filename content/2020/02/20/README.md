@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 20, 2020
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Applications
 
-*   [Cabal (⭐784)](https://github.com/cabal-club/cabal-desktop): P2P community offline-first chat platform.
+*   [Cabal (⭐797)](https://github.com/cabal-club/cabal-desktop): P2P community offline-first chat platform.
 
 ### Related Lists
 
@@ -56,43 +56,37 @@
 
 *   [Laws of Tech: Commoditize Your Complement](https://www.gwern.net/Complement) - A step further from the previous advice, in which is detailed an aggressive strategy to consolidate monopolies.
 
-## [5. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
-
-### Python / Symfony
-
-*   [プログラミング演習 Python 2019](http://hdl.handle.net/2433/245698) - 喜多一 (PDF)
-
-## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Scraping
 
 *   [DiDOM (⭐2k)](https://github.com/Imangazaliev/DiDOM) - A super fast HTML scrapper and parser.
 
-## [7. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
+## [6. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Evaluation
 
-*   [compare-mt (⭐428)](https://github.com/neulab/compare-mt) - A tool for holistic analysis of language generations systems.
+*   [compare-mt (⭐446)](https://github.com/neulab/compare-mt) - A tool for holistic analysis of language generations systems.
 
-## [8. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [7. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Plugins
 
-*   [tmux-jump (⭐243)](https://github.com/schasse/tmux-jump) Vimium/Easymotion like navigation for tmux.
+*   [tmux-jump (⭐280)](https://github.com/schasse/tmux-jump) Vimium/Easymotion like navigation for tmux.
 
-## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Utility / Barcode
 
-*   [PrivacyFlash Pro (⭐145)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your Swift iOS app from its code.
+*   [PrivacyFlash Pro (⭐149)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your Swift iOS app from its code.
 
-## [10. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [9. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Side-channel Tools / Reverse Engineering Tools
 
-*   [SGX-Step (⭐367)](https://github.com/jovanbulck/sgx-step) - Open-source framework to facilitate side-channel attack research on Intel x86 processors in general and Intel SGX (Software Guard Extensions) platforms in particular.
+*   [SGX-Step (⭐398)](https://github.com/jovanbulck/sgx-step) - Open-source framework to facilitate side-channel attack research on Intel x86 processors in general and Intel SGX (Software Guard Extensions) platforms in particular.
 
-## [11. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [10. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Data Management
 

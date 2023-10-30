@@ -47,7 +47,7 @@
 
 ### Other
 
-*   [redrun (⭐110)](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
+*   [redrun (⭐116)](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
 
 ### Clients
 

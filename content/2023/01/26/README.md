@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 26, 2023
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -45,7 +45,7 @@
 
 ### Templates / React
 
-*   [vite-reactts18-chakra-jest-husky (⭐41)](https://github.com/The24thDS/vite-reactts18-chakra-jest-husky) - React 18, TypeScript, Chakra UI, Jest, ESLint, Prettier, Husky.
+*   [vite-reactts18-chakra-jest-husky (⭐45)](https://github.com/The24thDS/vite-reactts18-chakra-jest-husky) - React 18, TypeScript, Chakra UI, Jest, ESLint, Prettier, Husky.
 
 ## [4. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Image processing
 
-*   [Pluto (⭐53)](https://github.com/phenopolis/pluto) - A fast and convenient image processing library
+*   [Pluto (⭐59)](https://github.com/phenopolis/pluto) - A fast and convenient image processing library
 
 ## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -72,7 +72,7 @@
 
 *   \[🔥] [Base11 Research - generative-ai](https://base10.vc/research/generative-ai): report about Generative AI produced by the investment firm Base10
 
-### Inbox: Large Language Models / Contribute to Our Repository
+### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
 *   [GPT-3 Apps](https://gpt-apps.com/): GPT-3 Powered Micro Products (ex: cat namer, poet pocket, summarize)
 
@@ -80,13 +80,13 @@
 
 ### Software / Document Management
 
-*   [Paperless-ngx](https://docs.paperless-ngx.com/) - A fork of paperless, adding a new interface and many other changes under the hood. Scan, index, and archive all of your paper documents. ([Demo](https://demo.paperless-ngx.com/), [Source Code (⭐8.2k)](https://github.com/paperless-ngx/paperless-ngx)) `GPL-3.0` `Python`
+*   [Paperless-ngx](https://docs.paperless-ngx.com/) - Scan, index, and archive all of your paper documents with an imporved interface (fork of Paperless). ([Demo](https://demo.paperless-ngx.com/), [Source Code (⭐11k)](https://github.com/paperless-ngx/paperless-ngx)) `GPL-3.0` `Python/Docker`
 
 ## [9. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ### Tools / Ironsworn
 
-*   [Ironsworn and Starforged for Foundry VTT (⭐55)](https://github.com/ben/foundry-ironsworn) - Ironsworn, Delve and Starforged for Foundry Virtual Tabletop
+*   [Ironsworn and Starforged for Foundry VTT (⭐62)](https://github.com/ben/foundry-ironsworn) - Ironsworn, Delve and Starforged for Foundry Virtual Tabletop
 
 ### Hacks and homebrew / Ironsworn
 
@@ -98,42 +98,36 @@
 
 *   [Blazor United prototype](https://www.youtube.com/watch?v=48G_CEGXZZM) - ![duration](https://img.shields.io/badge/Duration:%20-13%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) January 24, 2023 - A quick look at some of the experiments we're considering for Blazor in .NET 8.
 
-## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-### Editing Support / Diagnostics
-
-*   [mrjones2014/nvim-ts-rainbow (⭐180)](https://github.com/mrjones2014/nvim-ts-rainbow) - Rainbow :rainbow: delimiters using tree-sitter :rainbow:.
-
-## [12. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [11. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Continuous Integration & Continuous Deployment
 
-*   [Woodpecker](https://woodpecker-ci.org/) - Community fork of Drone that uses Docker containers. ([Source Code (⭐2.6k)](https://github.com/woodpecker-ci/woodpecker)) `Apache-2.0` `Go`
+*   [Woodpecker](https://woodpecker-ci.org/) - Community fork of Drone that uses Docker containers. ([Source Code (⭐3k)](https://github.com/woodpecker-ci/woodpecker)) `Apache-2.0` `Go`
 
 ### Software / Router
 
 *   [DD-WRT](https://dd-wrt.com/) - A Linux-based firmware for wireless routers and access points, originally designed for the Linksys WRT54G series. ([Source Code](https://svn.dd-wrt.com/)) `GPL-2.0` `C`
 *   [OpenWrt](https://openwrt.org/) - A Linux-based router featuring Mesh networking, IPS via snort and AQM among many other features. ([Source Code](https://git.openwrt.org/openwrt/openwrt.git)) `GPL-2.0` `C`
-*   [OPNsense](https://opnsense.org/) - An open source FreeBSD-based firewall and router with traffic shaping, load balancing, and virtual private network capabilities. ([Source Code](https://github.com/opnsense)) `BSD-2-Clause` `C` `PHP`
+*   [OPNsense](https://opnsense.org/) - An open source FreeBSD-based firewall and router with traffic shaping, load balancing, and virtual private network capabilities. ([Source Code](https://github.com/opnsense)) `BSD-2-Clause` `C/PHP`
 
-## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [zcmder (⭐0)](https://github.com/bwpge/zcmder) - inspired by [Cmder](https://cmder.app/) with decorators for `git` information, current directory and root status.
 
-## [14. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [13. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Free Courses
 
 *   [ML Observability Fundamentals](https://arize.com/ml-observability-fundamentals/) - Learn how to monitor and root-cause production ML issues.
 *   [Weights & Biases Effective MLOps: Model Development](https://www.wandb.courses/courses/effective-mlops-model-development) - Free Course and Certification for building an end-to-end machine using W\&B
 
-## [15. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
+## [14. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
 ### CMS & Blogs
 
-*   [Element CMF (⭐19)](https://github.com/odvapro/element) - Admin panel for everything [Demo](https://element-demo.odva.pro/element/) (admin | adminpass)
+*   [Element CMF (⭐23)](https://github.com/odvapro/element) - Admin panel for everything [Demo](https://element-demo.odva.pro/element/) (admin | adminpass)
 
 ---
 

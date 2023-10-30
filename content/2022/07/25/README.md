@@ -8,7 +8,7 @@
 
 ## [1. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [pipenv (owenstranathan) (⭐18)](https://github.com/owenstranathan/pipenv.zsh) - Automatically activates a **pipenv** when entering a directory if there is Pipfile in that directory. Includes `pipenv` completions.
 *   [pipenv (sudosubin) (⭐0)](https://github.com/sudosubin/zsh-pipenv) - Enables `pipenv`'s `$PATH` and adds completions.
@@ -17,7 +17,7 @@
 
 ### Preprocessing
 
-*   [svelte-switch-case (⭐103)](https://github.com/l-portet/svelte-switch-case) - Switch case syntax for Svelte.
+*   [svelte-switch-case (⭐130)](https://github.com/l-portet/svelte-switch-case) - Switch case syntax for Svelte.
 
 ## [3. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md)
 
@@ -329,15 +329,6 @@
   up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.futurecolossal.com%2F)
 
 
-- Name: [**Gallagher Design**](https://www.gallagherdesign.com/)
-
-  Locations: \[DC] \[NYC] \[Portland] \[Singapore]
-
-  Keywords: harmony between technology, narrative, and physical design
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.gallagherdesign.com%2F)
-
-
 - Name: [**Game Seven**](https://www.gamesevenmktg.com/)
 
   Locations: \[NYC] \[LA]
@@ -365,15 +356,6 @@
   up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fgiantspoon.com%2F)
 
 
-- Name: [**Hettema Group**](https://thehettemagroup.com/)
-
-  Locations: \[LA]
-
-  Keywords: experiential, exhibit, live shows, theme parks, retail, dining, museums
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fthehettemagroup.com%2F)
-
-
 - Name: [**Hotel Creative**](https://hotelcreative.com/)
 
   Locations: \[London]
@@ -390,15 +372,6 @@
   Keywords: interactive installations, site-specific content, retail, sports
 
   up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.hovercraftstudio.com%2F)
-
-
-- Name: [**Hush Studios**](https://heyhush.com/)
-
-  Locations: \[NYC]
-
-  Keywords: marketing and advertising, retail and DTC, archtecture
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fheyhush.com%2F)
 
 
 - Name: [**IMG SRC**](https://www.imgsrc.co.jp/)
@@ -1048,7 +1021,7 @@
 
 - Name: [**Meow Wolf**](https://meowwolf.com/)
 
-  Locations: \[Santa Fe]
+  Locations: \[Santa Fe] \[Las Vegas] \[Denver]
 
   Keywords: immersive and interactive experiences that transport audiences of all ages into fantastic realms of story and exploration
 
@@ -1143,15 +1116,6 @@
   Keywords: design and innovation office, MIT Media Lab: Senseable City Lab
 
   up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fcarloratti.com%2F)
-
-
-- Name: [**Gensler**](https://dxd.gensler.com/)
-
-  Locations: \[Worldwide]
-
-  Keywords: built environment with integrated capabilities in strategy, design, technology, data, and architecture
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fdxd.gensler.com%2F)
 
 
 - Name: [**Olson Kundig**](https://olsonkundig.com/)
@@ -1327,13 +1291,13 @@
 
 ### Content in Non-English Languages
 
-*   [Quantum Computing in Portuguese (⭐47)](https://github.com/smendoncabruna/ComputacaoQuantica) - A repository with curated content on Quantum Computing in Portuguese.
+*   [Quantum Computing in Portuguese (⭐65)](https://github.com/smendoncabruna/ComputacaoQuantica) - A repository with curated content on Quantum Computing in Portuguese.
 
 ## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Shopify / Community
 
-*   [vite-plugin-shopify (⭐99)](https://github.com/barrel/barrel-shopify/tree/main/packages/vite-plugin-shopify) - Integration for Shopify themes.
+*   [vite-plugin-shopify (⭐143)](https://github.com/barrel/barrel-shopify/tree/main/packages/vite-plugin-shopify) - Integration for Shopify themes.
 
 ## [6. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
@@ -1363,32 +1327,31 @@
 
 ### GUI
 
-*   [AppIndicator Go (⭐3)](https://github.com/gopherlibs/appindicator) - Go bindings for libappindicator3 C library.
+*   [AppIndicator Go (⭐4)](https://github.com/gopherlibs/appindicator) - Go bindings for libappindicator3 C library.
 
 ## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / E-commerce
 
-*   [s-cart](https://s-cart.org/) - S-Cart is a free e-commerce website project for individuals and businesses, built on top of Laravel Framework. ([Demo](https://demo.s-cart.org/), [Source Code (⭐516)](https://github.com/s-cart/s-cart)) `MIT` `PHP`
-*   [Saleor](https://saleor.io) - Django based open-sourced e-commerce storefront. ([Demo](https://demo.saleor.io/), [Source Code (⭐16)](https://github.com/mirumee/saleor)) `BSD-3-Clause` `Python`
+*   [s-cart](https://s-cart.org/) - S-Cart is a free e-commerce website project for individuals and businesses, built on top of Laravel Framework. ([Demo](https://demo.s-cart.org/), [Source Code (⭐560)](https://github.com/s-cart/s-cart)) `MIT` `PHP`
+*   [Saleor](https://saleor.io) - Django based open-sourced e-commerce storefront. ([Demo](https://demo.saleor.io/), [Source Code (⭐19k)](https://github.com/saleor/saleor)) `BSD-3-Clause` `Docker/Python`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [Lancache](https://lancache.net) `⚠` - LAN Party game caching made easy. ([Source Code (⭐598)](https://github.com/lancachenet/monolithic)) `MIT` `Docker/Shell`
+*   [Lancache](https://lancache.net) `⚠` - LAN Party game caching made easy. ([Source Code (⭐627)](https://github.com/lancachenet/monolithic)) `MIT` `Docker/Shell`
+
+### Software / Miscellaneous
+
+*   [Habitica](https://habitica.com/) - Habit tracker app which treats your goals like a Role Playing Game. Previously called HabitRPG. ([Source Code (⭐11k)](https://github.com/HabitRPG/habitica)) `GPL-3.0/CC-BY-SA-3.0` `Nodejs/Docker`
 
 ### Software / Personal Dashboards
 
-*   [Habitica](https://habitica.com/) - Habit tracker app which treats your goals like a Role Playing Game. Previously called HabitRPG. ([Source Code (⭐9.8k)](https://github.com/HabitRPG/habitica)) `GPL-3.0/CC-BY-SA-3.0` `Nodejs`
-*   [Jump (⭐394)](https://github.com/daledavies/jump) - Yet another self-hosted startpage for your server designed to be simple, stylish, fast and secure. `MIT` `PHP`
-*   [Web-Portal (⭐101)](https://github.com/enchant97/web-portal) - A python web app designed to allow a easy way to manage the links to all of your web services. `AGPL-3.0` `Docker/Python`
+*   [Jump (⭐445)](https://github.com/daledavies/jump) - Yet another self-hosted startpage for your server designed to be simple, stylish, fast and secure. `MIT` `Docker/PHP`
+*   [Web-Portal (⭐141)](https://github.com/enchant97/web-portal) - A python web app designed to allow a easy way to manage the links to all of your web services. `AGPL-3.0` `Docker/Python`
 
 ### Software / Proxy
 
-*   [Outline Server](https://getoutline.org/) - A proxy server that runs a Shadowsocks instance for each access key and a REST API to manage the access keys. ([Source Code (⭐5.1k)](https://github.com/Jigsaw-Code/outline-server)) `Apache-2.0` `Docker/Nodejs`
-
-### Software / Software Development - Project Management
-
-*   [Party Poker (⭐8)](https://github.com/kksoftwareag/partypoker) - Agile / Scrum Planning Poker WebApp. Estimate User Stories in real time. ([Demo](https://planningpoker.party)) `MIT` `C#`
+*   [Outline Server](https://getoutline.org/) - A proxy server that runs a Shadowsocks instance for each access key and a REST API to manage the access keys. ([Source Code (⭐5.3k)](https://github.com/Jigsaw-Code/outline-server)) `Apache-2.0` `Docker/Nodejs`
 
 ## [10. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
 
@@ -1400,13 +1363,13 @@
 
 ### Crates / Hooks
 
-*   [Bounce (⭐82)](https://github.com/bounce-rs/bounce) - The uncomplicated state management library for Yew, inspired by [Redux (⭐59k)](https://github.com/reduxjs/redux) and [Recoil (⭐19k)](https://github.com/facebookexperimental/Recoil).
+*   [Bounce (⭐91)](https://github.com/bounce-rs/bounce) - The uncomplicated state management library for Yew, inspired by [Redux (⭐60k)](https://github.com/reduxjs/redux) and [Recoil (⭐19k)](https://github.com/facebookexperimental/Recoil).
 
 ## [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [MehdiK/Humanizer.jvm (⭐162)](https://github.com/MehdiK/Humanizer.jvm) - Humanizer.jvm meets all your jvm needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities.
+*   [MehdiK/Humanizer.jvm (⭐164)](https://github.com/MehdiK/Humanizer.jvm) - Humanizer.jvm meets all your jvm needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities.
 
 ## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -1418,13 +1381,13 @@
 
 ### Functional Programming / Runner
 
-*   [wild-wild-path (⭐608)](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexps.
+*   [wild-wild-path (⭐624)](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexps.
 
 ## [15. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Math / MIT
+### Math / Apache License
 
-*   [geo-energy-math (⭐6)](https://github.com/pukpr/GeoEnergyMath) - Software libraries for solving models described in Mathematical GeoEnergy (Wiley, 2018).
+*   [geo-energy-math (⭐7)](https://github.com/pukpr/GeoEnergyMath) - Software libraries for solving models described in Mathematical GeoEnergy (Wiley, 2018).
 
 ## [16. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -1436,17 +1399,17 @@
 
 ### Form Components / Toggle
 
-*   [ui-switch (⭐3)](https://github.com/yairEO/ui-switch) - The most complete *Toggle* component
+*   [ui-switch (⭐4)](https://github.com/yairEO/ui-switch) - The most complete *Toggle* component
 
 ## [18. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5) / LSP Installer
 
-*   [williamboman/mason.nvim (⭐4.5k)](https://github.com/williamboman/mason.nvim) - Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
+*   [williamboman/mason.nvim (⭐5.5k)](https://github.com/williamboman/mason.nvim) - Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [Everblush/everblush.nvim (⭐160)](https://github.com/Everblush/everblush.nvim) - A dark, vibrant and beautiful colorscheme written in Lua.
+*   [Everblush/everblush.nvim (⭐191)](https://github.com/Everblush/everblush.nvim) - A dark, vibrant and beautiful colorscheme written in Lua.
 
 ## [19. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
@@ -1459,7 +1422,7 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [rubygems.org](https://github.com/rubygems/rubygems.org) - A gem hosting platform (using Rails 7.0). - [:earth\_africa:](https://rubygems.org)
+*   [rubygems.org (⭐2.2k)](https://github.com/rubygems/rubygems.org) - A gem hosting platform (using Rails 7.0). - [:earth\_africa:](https://rubygems.org)
 
 ## [21. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -1472,11 +1435,11 @@
 
 ### Monitoring
 
-*   [Better Stack](https://betterstack.com/better-uptime) - Uptime monitoring, incident management, on-call scheduling/alerting and status pages in a single product. 10 monitors with 3 min check frequency and status pages are included on the free plan.
+*   [Better Stack](https://betterstack.com/better-uptime) - Uptime monitoring, incident management, on-call scheduling/alerting, and status pages in a single product. The free plan includes ten monitors with 3-minute check frequency and status pages.
 
 ### Crash and Exception Handling
 
-*   [memfault.com](https://memfault.com) — Cloud platform for device observability and debugging. 100 devices free for [Nordic](https://app.memfault.com/register-nordic), [NXP](https://app.memfault.com/register-nxp), and [Laird](https://app.memfault.com/register-laird) devices.
+*   [memfault.com](https://memfault.com) — Cloud device observability and debugging platform. 100 devices free for [Nordic](https://app.memfault.com/register-nordic), [NXP](https://app.memfault.com/register-nxp), and [Laird](https://app.memfault.com/register-laird) devices.
 
 ## [23. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

@@ -20,13 +20,13 @@
 
 ### Agency Tools
 
-*   [RidePilot (⭐16)](https://github.com/camsys/ridepilot) - An open-source Computer Aided Scheduling and Dispatch (CASD) software system to meet the needs of small scale human service transportation agencies (for more info see [Cambridge Systematics's marketing site](http://camsys.software/products/ridepilot)).
+*   [RidePilot (⭐17)](https://github.com/camsys/ridepilot) - An open-source Computer Aided Scheduling and Dispatch (CASD) software system to meet the needs of small scale human service transportation agencies (for more info see [Cambridge Systematics's marketing site](http://camsys.software/products/ridepilot)).
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [xLearn (⭐3k)](https://github.com/aksnzhy/xlearn) - A high performance, easy-to-use, and scalable machine learning package, which can be used to solve large-scale machine learning problems. xLearn is especially useful for solving machine learning problems on large-scale sparse data, which is very common in Internet services such as online advertisement and recommender systems.
+*   [xLearn (⭐3.1k)](https://github.com/aksnzhy/xlearn) - A high performance, easy-to-use, and scalable machine learning package, which can be used to solve large-scale machine learning problems. xLearn is especially useful for solving machine learning problems on large-scale sparse data, which is very common in Internet services such as online advertisement and recommender systems.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [vue-array (⭐13)](https://github.com/BlackHole1/vue-array) - Array object operation under Vue, Array object operation under Vue Use this package to manipulate the array. Vue can monitor the changes in the array
+*   [vue-array (⭐15)](https://github.com/BlackHole1/vue-array) - Array object operation under Vue, Array object operation under Vue Use this package to manipulate the array. Vue can monitor the changes in the array
 
 ## [5. Awesome](/content/craftcms/awesome/README.md)
 
@@ -326,7 +326,7 @@
 
 ### Applications / Operating systems
 
-*   [tock/tock (⭐4.4k)](https://github.com/tock/tock) — A secure embedded operating system for Cortex-M based microcontrollers
+*   [tock/tock (⭐4.7k)](https://github.com/tock/tock) — A secure embedded operating system for Cortex-M based microcontrollers
 
 ## [9. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -338,7 +338,7 @@
 
 ### Build Systems
 
-*   [clib (⭐4.5k)](https://github.com/clibs/clib) - Package manager for the C programming language. \[MIT]
+*   [clib (⭐4.6k)](https://github.com/clibs/clib) - Package manager for the C programming language. \[MIT]
 
 ## [11. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
@@ -354,7 +354,7 @@
 
 ### Software / Command Line Tools
 
-*   [ranger](https://ranger.github.io/) - Minimal, lightweight, and aesthetically pleasing file explorer for GNU/Linux. It runs in the terminal window, so it fits in well with window managers such as i3. vi key bindings allow for quick operations to be performed, including rename and delete. ([GNU GPLv3 (⭐12k)](https://github.com/ranger/ranger/blob/master/README.md))
+*   [ranger](https://ranger.github.io/) - Minimal, lightweight, and aesthetically pleasing file explorer for GNU/Linux. It runs in the terminal window, so it fits in well with window managers such as i3. vi key bindings allow for quick operations to be performed, including rename and delete. ([GNU GPLv3 (⭐14k)](https://github.com/ranger/ranger/blob/master/README.md))
 
 ### Software / Other
 
@@ -363,7 +363,7 @@
 ### Software / Web Applications
 
 *   [GitLab](https://about.gitlab.com/installation/) - Git repository manager for the entire code lifecycle. ([MIT](https://gitlab.com/gitlab-org/gitlab-ce/raw/master/LICENSE))
-*   [Mastodon](https://joinmastodon.org/) - Decentralized social network server. ([GNU AGPLv3 (⭐30k)](https://github.com/tootsuite/mastodon/blob/master/LICENSE))
+*   [Mastodon](https://joinmastodon.org/) - Decentralized social network server. ([GNU AGPLv3 (⭐42k)](https://github.com/tootsuite/mastodon/blob/master/LICENSE))
 
 ### Software / Web Servers
 

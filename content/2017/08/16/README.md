@@ -41,7 +41,7 @@
 
 ### Libraries / Parsing
 
-*   [pest-parser/pest (⭐3.8k)](https://github.com/pest-parser/pest) — The Elegant Parser
+*   [pest-parser/pest (⭐4k)](https://github.com/pest-parser/pest) — The Elegant Parser
 
 ## [5. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
@@ -56,9 +56,9 @@
 *   [Atom](https://atom.io/)(`Free`,`Cross-platform`,`Plugins`): electron based editor with numerous plugins and easy modifications. Cross-platform with settings and plugins synchronized through the [sync-settings](https://atom.io/packages/sync-settings) plugin.
 *   [Sublime Text](https://www.sublimetext.com/)(`Free Evaluation`,`Cross-platform`,`Plugins`): cross-platform, fast, and with plugins. Not free but can be freely used forever.
 *   [JetBrains](https://www.jetbrains.com/)(`Free for Students`, `Cross-platform`,`Plugins`): beautiful IDE's with many debugging and editing modes integrated.
-*   [vim (⭐29k)](https://github.com/vim/vim)(`Free`,`Cross-platform`,`Plugins`): no words can describe the almighty vim.
-    *   [Vundle (⭐23k)](https://github.com/VundleVim/Vundle.vim): the vim plugin manager
-    *   [vimrc from amix (⭐28k)](https://github.com/amix/vimrc): "The ultimate Vim configuration: vimrc"
+*   [vim (⭐31k)](https://github.com/vim/vim)(`Free`,`Cross-platform`,`Plugins`): no words can describe the almighty vim.
+    *   [Vundle (⭐24k)](https://github.com/VundleVim/Vundle.vim): the vim plugin manager
+    *   [vimrc from amix (⭐29k)](https://github.com/amix/vimrc): "The ultimate Vim configuration: vimrc"
 
 ## [7. Awesome Inspectit](/content/inspectit-labs/awesome-inspectit/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Graphics
 
-*   [Coulr (⭐26)](https://github.com/Huluti/Coulr) - Convert between RGB and hexadecimal codes for colours.
+*   [Coulr (⭐32)](https://github.com/Huluti/Coulr) - Convert between RGB and hexadecimal codes for colours.
 
 ### Gaming
 
@@ -99,7 +99,7 @@
 ### Icons / Material Icons
 
 *   [Paper](https://snwh.org/paper) - Material icon theme.
-*   [Papirus (⭐5.8k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
+*   [Papirus (⭐6k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
 
 ### Icons / Flat Icons
 
@@ -107,11 +107,11 @@
 
 ### Icons / Homogeneous Icons
 
-*   [Obsidian (⭐172)](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
+*   [Obsidian (⭐177)](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
 
 ### Icons / Skeumorphic Icons
 
-*   [Elementary XFCE (⭐257)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
+*   [Elementary XFCE (⭐261)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
 
 ### Documentations / Skeumorphic Icons
 
@@ -128,8 +128,8 @@
 
 ### Exceptions and Error Handling
 
-*   [Perseverance (⭐174)](https://github.com/grammarly/perseverance)
-*   [Dire (⭐482)](https://github.com/MichaelDrogalis/dire)
+*   [Perseverance (⭐175)](https://github.com/grammarly/perseverance)
+*   [Dire (⭐484)](https://github.com/MichaelDrogalis/dire)
 
 ### Archives and Compression
 
@@ -139,21 +139,21 @@
 
 ### Date
 
-*   [AnyDate (⭐183)](https://github.com/Kawoou/AnyDate) - Date & Time API inspired from Java 8 DateTime API.
+*   [AnyDate (⭐188)](https://github.com/Kawoou/AnyDate) - Date & Time API inspired from Java 8 DateTime API.
 
 ## [11. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
-*   [lf.sh (⭐39)](https://github.com/suewonjp/lf.sh) - Quickly search files with fewer typings and do many more (grepping, copying path to clipboard, etc)
+*   [lf.sh (⭐40)](https://github.com/suewonjp/lf.sh) - Quickly search files with fewer typings and do many more (grepping, copying path to clipboard, etc)
 
 ### For Developers / Directory Navigation
 
-*   [doclt (⭐43)](https://github.com/omgimanerd/doclt) - A command line interface to Digital Ocean
+*   [doclt (⭐44)](https://github.com/omgimanerd/doclt) - A command line interface to Digital Ocean
 
 ### Applications / Directory Navigation
 
-*   [wttr.in (⭐20k)](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather (curl wttr.in)
+*   [wttr.in (⭐22k)](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather (curl wttr.in)
 
 ---
 

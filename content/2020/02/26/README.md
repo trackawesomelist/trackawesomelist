@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 26, 2020
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Accessibility
 
-*   [Capable (⭐242)](https://github.com/chrs1885/Capable) - Keep track of accessibility settings, leverage high contrast colors, and use scalable fonts to enable users with disabilities to use your app.
+*   [Capable (⭐251)](https://github.com/chrs1885/Capable) - Keep track of accessibility settings, leverage high contrast colors, and use scalable fonts to enable users with disabilities to use your app.
 
 ### Colors
 
@@ -18,7 +18,7 @@
 
 ### UI / Barcode
 
-*   [Partition Kit (⭐235)](https://github.com/kieranb662/PartitionKit) - A SwiftUI Library for creating resizable partitions for View Content.
+*   [Partition Kit (⭐237)](https://github.com/kieranb662/PartitionKit) - A SwiftUI Library for creating resizable partitions for View Content.
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -30,7 +30,7 @@
 
 ### CTF Tools / Malware Analysis Books
 
-*   [RsaCtfTool (⭐4.1k)](https://github.com/Ganapati/RsaCtfTool) - Decrypt data enciphered using weak RSA keys, and recover private keys from public keys using a variety of automated attacks.
+*   [RsaCtfTool (⭐4.7k)](https://github.com/Ganapati/RsaCtfTool) - Decrypt data enciphered using weak RSA keys, and recover private keys from public keys using a variety of automated attacks.
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -42,8 +42,8 @@
 
 ### Version Control
 
-*   [git (⭐1.2k)](https://github.com/jupyterlab/jupyterlab-git) - Extension for git integration.
-*   [nbdime (⭐2.4k)](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
+*   [git (⭐1.3k)](https://github.com/jupyterlab/jupyterlab-git) - Extension for git integration.
+*   [nbdime (⭐2.5k)](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 *   [ReviewNB](https://www.reviewnb.com/) - Code reviews for Jupyter Notebooks.
 
 ## [6. Awesome Coq](/content/coq-community/awesome-coq/README.md)
@@ -54,7 +54,7 @@
 
 ### Projects / Type Theory and Mathematics
 
-*   [Infotheo (⭐58)](https://github.com/affeldt-aist/infotheo) - Formalization of information theory and linear error-correcting codes.
+*   [Infotheo (⭐60)](https://github.com/affeldt-aist/infotheo) - Formalization of information theory and linear error-correcting codes.
 
 ### Resources / Books
 
@@ -62,7 +62,7 @@
 
 ### Resources / Tutorials and Hints
 
-*   [Coq'Art Exercises and Tutorials (⭐85)](https://github.com/coq-community/coq-art) - Coq code and exercises from the Coq'Art book, including additional tutorials.
+*   [Coq'Art Exercises and Tutorials (⭐90)](https://github.com/coq-community/coq-art) - Coq code and exercises from the Coq'Art book, including additional tutorials.
 
 ## [7. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
@@ -72,84 +72,78 @@
 
 ### Apps / Forms
 
-*   [wagtail-contact-reply (⭐24)](https://github.com/KalobTaulien/wagtail-contact-reply) - Reply directly to form submissions from the Wagtail admin
+*   [wagtail-contact-reply (⭐25)](https://github.com/KalobTaulien/wagtail-contact-reply) - Reply directly to form submissions from the Wagtail admin
 
 ## [8. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Tools & Software / Replay
 
-*   [InterPlanetary Wayback (ipwb) (⭐541)](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using [IPFS](https://ipfs.io/).
+*   [InterPlanetary Wayback (ipwb) (⭐561)](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using [IPFS](https://ipfs.io/).
 
 ## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Algorithms and Data structures
 
-*   [fzy (⭐41)](https://github.com/hugopl/fzy) - A Crystal port of awesome Fzy project fuzzy finder algorithm
+*   [fzy (⭐42)](https://github.com/hugopl/fzy) - A Crystal port of awesome Fzy project fuzzy finder algorithm
 
-## [10. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
-
-### Apps
-
-*   [Alexandria](http://www.alexandria.io/) - Decentralized content publishing / monetization platform.
-
-## [11. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [10. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Model Training
 
 *   [Apples-to-apples in cross-validation studies: pitfalls in classifier performance measurement](https://dl.acm.org/doi/abs/10.1145/1882471.1882479) 🎓
 *   [Pitfalls of supervised feature selection](https://academic.oup.com/bioinformatics/article/26/3/440/213774) 🎓
 
-## [12. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
+## [11. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### Programming fonts / Fonts
 
 *   [Recursive Sans & Mono (⭐2.6k)](https://github.com/arrowtype/recursive/) - A variable font family for code & UI
 
-## [13. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Component bundles
 
-*   [BlazorStrap (⭐863)](https://github.com/chanan/BlazorStrap) - ![GitHub stars](https://img.shields.io/github/stars/chanan/BlazorStrap?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/chanan/BlazorStrap?style=flat-square\&cacheSeconds=86400) Material Design components for Blazor. Bootstrap 4 components for Blazor ([Demo](https://chanan.github.io/BlazorStrap/)).
+*   [BlazorStrap (⭐891)](https://github.com/chanan/BlazorStrap) - ![GitHub stars](https://img.shields.io/github/stars/chanan/BlazorStrap?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/chanan/BlazorStrap?style=flat-square\&cacheSeconds=86400) Material Design components for Blazor. Bootstrap 4 components for Blazor ([Demo](https://chanan.github.io/BlazorStrap/)).
 
 ### Individual components / Modal, Toast & Notifications
 
-*   [Blazored.Toast (⭐553)](https://github.com/Blazored/Toast) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Toast?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Toast?style=flat-square\&cacheSeconds=86400) A JavaScript free toast library for Blazor and Razor Component applications.
+*   [Blazored.Toast (⭐587)](https://github.com/Blazored/Toast) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Toast?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Toast?style=flat-square\&cacheSeconds=86400) A JavaScript free toast library for Blazor and Razor Component applications.
 
 ### Individual components / Others
 
-*   [Blazored.Typeahead (⭐391)](https://github.com/Blazored/Typeahead) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Typeahead?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Typeahead?style=flat-square\&cacheSeconds=86400) Auto-complete textbox with local and remote data source, for both Client-side and Server-Side Blazor.
-*   [Razor.SweetAlert2 (⭐146)](https://github.com/Basaingeal/Razor.SweetAlert2) - ![last commit](https://img.shields.io/github/last-commit/Basaingeal/Razor.SweetAlert2?style=flat-square\&cacheSeconds=86400) Blazor component implementing the popular SweetAlert2 JavaScript Library.
+*   [Blazored.Typeahead (⭐402)](https://github.com/Blazored/Typeahead) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Typeahead?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Typeahead?style=flat-square\&cacheSeconds=86400) Auto-complete textbox with local and remote data source, for both Client-side and Server-Side Blazor.
+*   [Razor.SweetAlert2 (⭐159)](https://github.com/Basaingeal/Razor.SweetAlert2) - ![last commit](https://img.shields.io/github/last-commit/Basaingeal/Razor.SweetAlert2?style=flat-square\&cacheSeconds=86400) Blazor component implementing the popular SweetAlert2 JavaScript Library.
 
 ### Tools & Utilities / Others
 
-*   [Blazor.Polyfill (⭐118)](https://github.com/Daddoon/Blazor.Polyfill) - ![GitHub stars](https://img.shields.io/github/stars/Daddoon/Blazor.Polyfill?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Daddoon/Blazor.Polyfill?style=flat-square\&cacheSeconds=86400) Polyfills for Blazor (for Internet Explorer 11 support and some other browsers).
+*   [Blazor.Polyfill (⭐119)](https://github.com/Daddoon/Blazor.Polyfill) - ![GitHub stars](https://img.shields.io/github/stars/Daddoon/Blazor.Polyfill?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Daddoon/Blazor.Polyfill?style=flat-square\&cacheSeconds=86400) Polyfills for Blazor (for Internet Explorer 11 support and some other browsers).
 
-## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Search
 
 *   [searchly.com](http://www.searchly.com/) — Free 2 indices and 20 MB storage
 
-## [15. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
+## [14. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 
 ### Tutorials
 
 *   [Upgrading Salt to Python 3](https://salt.tips/upgrading-salt-to-python-3/) - How to switch SaltStack from Python2 to Python3.
 
-## [16. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [15. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [NetCoreBeauty (⭐205)](https://github.com/nulastudio/NetCoreBeauty) - Simple library to move a .NET Core app runtime components and dependencies into a sub-directory and make it beauty.
+*   [NetCoreBeauty (⭐283)](https://github.com/nulastudio/NetCoreBeauty) - Simple library to move a .NET Core app runtime components and dependencies into a sub-directory and make it beauty.
 
-## [17. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [16. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Audio and Music
 
-*   [Spotify TUI (⭐15k)](https://github.com/Rigellute/spotify-tui) — A Spotify client for the terminal written in Rust. ![Continuous Integration](https://github.com/Rigellute/spotify-tui/workflows/Continuous%20Integration/badge.svg?branch=master)
-*   [Spotifyd (⭐8.9k)](https://github.com/Spotifyd/spotifyd) — An open source Spotify client running as a UNIX daemon. ![Continuous Integration](https://github.com/Spotifyd/spotifyd/workflows/Continuous%20Integration/badge.svg?branch=master)
+*   [Spotify TUI (⭐16k)](https://github.com/Rigellute/spotify-tui) — A Spotify client for the terminal written in Rust. ![Continuous Integration](https://github.com/Rigellute/spotify-tui/workflows/Continuous%20Integration/badge.svg?branch=master)
+*   [Spotifyd (⭐9.2k)](https://github.com/Spotifyd/spotifyd) — An open source Spotify client running as a UNIX daemon. ![Continuous Integration](https://github.com/Spotifyd/spotifyd/workflows/Continuous%20Integration/badge.svg?branch=master)
 
-## [18. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [17. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Logging
 
@@ -161,7 +155,7 @@
 
 ### Misc
 
-*   [FluentValidation (⭐8.1k)](https://github.com/FluentValidation/FluentValidation) - A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
+*   [FluentValidation (⭐8.4k)](https://github.com/FluentValidation/FluentValidation) - A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
 
 ### ORM
 

@@ -75,16 +75,16 @@
 
 *   [DataVec](https://github.com/deeplearning4j/DataVec) - A vectorization and data preprocessing library for deep learning in Java and Scala. Part of the Deeplearning4j ecosystem.
 *   [Deeplearning4j](https://github.com/deeplearning4j) - Fast, open deep learning for the JVM (Java, Scala, Clojure). A neural network configuration layer powered by a C++ library. Uses Spark and Hadoop to train nets on multiple GPUs and CPUs.
-*   [H2O (⭐6k)](https://github.com/h2oai/h2o-3/) - statistical, machine learning and math runtime with Hadoop. R and Python.
-*   [Keras (⭐56k)](https://github.com/fchollet/keras) - An intuitive neural net API inspired by Torch that runs atop Theano and Tensorflow.
+*   [H2O (⭐6.3k)](https://github.com/h2oai/h2o-3/) - statistical, machine learning and math runtime with Hadoop. R and Python.
+*   [Keras (⭐58k)](https://github.com/fchollet/keras) - An intuitive neural net API inspired by Torch that runs atop Theano and Tensorflow.
 *   [Mahout](http://mahout.apache.org/) - An Apache-backed machine learning library for Hadoop.
 *   [ND4J](https://github.com/deeplearning4j/nd4j) - A matrix library for the JVM. Numpy for Java.
 *   [RL4J](https://github.com/deeplearning4j/rl4j) - Reinforcement learning for Java and Scala. Includes Deep-Q learning and A3C algorithms, and integrates with Open AI's Gym. Runs in the Deeplearning4j ecosystem.
-*   [Sibyl](https://users.soe.ucsc.edu/\~niejiazhong/slides/chandra.pdf) - System for Large Scale Machine Learning at Google.
-*   [TensorFlow (⭐169k)](https://github.com/tensorflow/tensorflow) - Library from Google for machine learning using data flow graphs.
+*   [Sibyl](https://users.soe.ucsc.edu/~niejiazhong/slides/chandra.pdf) - System for Large Scale Machine Learning at Google.
+*   [TensorFlow (⭐175k)](https://github.com/tensorflow/tensorflow) - Library from Google for machine learning using data flow graphs.
 *   [Theano](https://github.com/theano) - A Python-focused machine learning library supported by the University of Montreal.
 *   [Torch](https://github.com/torch) - A deep learning library with a Lua API, supported by NYU and Facebook.
-*   [Velox (⭐111)](https://github.com/amplab/velox-modelserver) - System for serving machine learning predictions.
+*   [Velox (⭐109)](https://github.com/amplab/velox-modelserver) - System for serving machine learning predictions.
 
 ### Benchmarking
 
@@ -133,8 +133,8 @@
 
 ### Related Projects / Themes
 
-*   [Grammar of Graphics](https://g2.alipay.com/) - Pure javascript, powerful semantic graph generation tool for big data which provides a set of graphical syntax that lets users build with simple syntax a myriad of charts and integrates a large number of statistical tools, ([Read more (⭐125)](https://github.com/antvis/feedback)).
-*   [Ant Visualization](https://antv.alipay.com/) - Professional data visualization specification that aims to put several years of valuable data pattern group work in the process of exploring data visualization to share with all people who need data visualization theory. AntV consists of few parts, data, design specifications and rules for use of the chart, ([Read more (⭐125)](https://github.com/antvis/feedback)).
+*   [Grammar of Graphics](https://g2.alipay.com/) - Pure javascript, powerful semantic graph generation tool for big data which provides a set of graphical syntax that lets users build with simple syntax a myriad of charts and integrates a large number of statistical tools, ([Read more (⭐123)](https://github.com/antvis/feedback)).
+*   [Ant Visualization](https://antv.alipay.com/) - Professional data visualization specification that aims to put several years of valuable data pattern group work in the process of exploring data visualization to share with all people who need data visualization theory. AntV consists of few parts, data, design specifications and rules for use of the chart, ([Read more (⭐123)](https://github.com/antvis/feedback)).
 
 ### Vue.js / Themes
 
@@ -144,18 +144,18 @@
 
 ### Boilerplates / Themes
 
-*   [React Admin (⭐597)](https://github.com/fireyy/react-antd-admin) - React Admin UI built on Ant Design (username: admin, password: 123456).
-*   [React Redux (⭐410)](https://github.com/Justin-lu/react-redux-antd) - React Redux for CMS/Enterprise class apps (ERP/Admin) built with Ant Design.
-*   [Webbf (⭐370)](https://github.com/peterchenhdu/webbf) - Java demo that uses Maven to build the backend with Spring, Spring MVC and Mybatis. React, Reflux, Eebpack, jQuery, React-bootstrap and Ant Design.
+*   [React Admin (⭐596)](https://github.com/fireyy/react-antd-admin) - React Admin UI built on Ant Design (username: admin, password: 123456).
+*   [React Redux (⭐413)](https://github.com/Justin-lu/react-redux-antd) - React Redux for CMS/Enterprise class apps (ERP/Admin) built with Ant Design.
+*   [Webbf (⭐390)](https://github.com/peterchenhdu/webbf) - Java demo that uses Maven to build the backend with Spring, Spring MVC and Mybatis. React, Reflux, Eebpack, jQuery, React-bootstrap and Ant Design.
 *   [React Redux Intro (⭐33)](https://github.com/LeuisKen/react-redux-intro) - Demo app built with Ant Design and can be configured to initialize a Redux dependencies.
-*   [CL React (⭐179)](https://github.com/chenliang2016/CLReactAntDesign) - Based on Ant Design front-end framework structures for enterprise back-office software.
+*   [CL React (⭐177)](https://github.com/chenliang2016/CLReactAntDesign) - Based on Ant Design front-end framework structures for enterprise back-office software.
 *   [TODO MVC (⭐10)](https://github.com/cupools/todoMVC-react) - Todo list built with React and Ant Design.
 
 ## [14. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Camera / Barcode
 
-*   [BarcodeScanner (⭐1.6k)](https://github.com/hyperoslo/BarcodeScanner) - A simple and beautiful barcode scanner view controller.
+*   [BarcodeScanner (⭐1.7k)](https://github.com/hyperoslo/BarcodeScanner) - A simple and beautiful barcode scanner view controller.
 
 ## [15. Awesome Drupal](/content/nirgn975/awesome-drupal/week/README.md)
 
@@ -268,11 +268,11 @@
 
 ### Apps
 
-*   [vkQuake (⭐1.5k)](https://github.com/Novum/vkQuake) - Vulkan Quake port based on QuakeSpasm. \[GPL]
+*   [vkQuake (⭐1.6k)](https://github.com/Novum/vkQuake) - Vulkan Quake port based on QuakeSpasm. \[GPL]
 
 ### Samples
 
-*   [C# Samples (⭐28)](https://github.com/FacticiusVir/SharpVk-Samples) - Port of Overv's tutorials to [SharpVk (⭐140)](https://github.com/FacticiusVir/SharpVk) \[MIT]
+*   [C# Samples (⭐27)](https://github.com/FacticiusVir/SharpVk-Samples) - Port of Overv's tutorials to [SharpVk (⭐142)](https://github.com/FacticiusVir/SharpVk) \[MIT]
 
 ## [22. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
@@ -291,7 +291,7 @@
 
 ### Apps / Blogging/news
 
-*   [wagtailnews (⭐64)](https://github.com/takeflight/wagtailnews) - A plugin for Wagtail that provides news / blogging functionality.
+*   [wagtailnews (⭐67)](https://github.com/takeflight/wagtailnews) - A plugin for Wagtail that provides news / blogging functionality.
 
 ## [25. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
@@ -303,7 +303,7 @@
 
 ### Add Citations to Your Code / HTML+CSS+JS
 
-*   [duecredit (⭐216)](https://github.com/duecredit/duecredit): Allows you to add decorators to Python functions that encode bibliographic details.
+*   [duecredit (⭐230)](https://github.com/duecredit/duecredit): Allows you to add decorators to Python functions that encode bibliographic details.
 
 ## [27. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -373,7 +373,7 @@
 
 ### Packages / Testing
 
-*   [Jest (⭐42k)](https://github.com/facebook/jest) - Painless JavaScript testing.
+*   [Jest (⭐43k)](https://github.com/facebook/jest) - Painless JavaScript testing.
 
 ## [31. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
@@ -395,19 +395,19 @@
 
 ### Frameworks, Libraries and Tools / Mail
 
-*   [MailMergeLib (⭐104)](https://github.com/axuno/MailMergeLib) - SMTP mail client library which provides comfortable mail merge capabilities for text, inline images and attachments, as well as good throughput and fault tolerance for sending mail messages.
+*   [MailMergeLib (⭐106)](https://github.com/axuno/MailMergeLib) - SMTP mail client library which provides comfortable mail merge capabilities for text, inline images and attachments, as well as good throughput and fault tolerance for sending mail messages.
 
 ### Frameworks, Libraries and Tools / Serialization
 
-*   [ExtendedXmlSerializer (⭐292)](https://github.com/wojtpl2/ExtendedXmlSerializer) - Extended Xml Serializer for .NET.
+*   [ExtendedXmlSerializer (⭐316)](https://github.com/wojtpl2/ExtendedXmlSerializer) - Extended Xml Serializer for .NET.
 
 ### Frameworks, Libraries and Tools / Testing
 
-*   [moq.netcore (⭐4.8k)](https://github.com/Moq/moq4) - Most popular and friendly mocking framework for .NET.
+*   [moq.netcore (⭐5.4k)](https://github.com/Moq/moq4) - Most popular and friendly mocking framework for .NET.
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [OctoLinker (⭐5.1k)](https://github.com/OctoLinker/browser-extension) - Navigate through `projects.json` files efficiently with the OctoLinker browser extension for GitHub.
+*   [OctoLinker (⭐5.2k)](https://github.com/OctoLinker/browser-extension) - Navigate through `projects.json` files efficiently with the OctoLinker browser extension for GitHub.
 
 ## [33. Bots](/content/hackerkid/bots/week/README.md)
 
@@ -419,7 +419,7 @@
 
 ### Resources / Tutorials
 
-*   [Jayway Vue.js 2 workshop. Build an e-commerce site with vue-router, vuex and vue-resource (⭐322)](https://github.com/jayway/vue-js-workshop)
+*   [Jayway Vue.js 2 workshop. Build an e-commerce site with vue-router, vuex and vue-resource (⭐321)](https://github.com/jayway/vue-js-workshop)
 
 ## [35. Computer Science](/content/ossu/computer-science/week/README.md)
 
@@ -461,15 +461,15 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [PyDexter (⭐31)](https://github.com/D3xterjs/pydexter) - Simple plotting for Python. Wrapper for D3xterjs; easily render charts in-browser.
+*   [PyDexter (⭐32)](https://github.com/D3xterjs/pydexter) - Simple plotting for Python. Wrapper for D3xterjs; easily render charts in-browser.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Suiron (⭐705)](https://github.com/kendricktan/suiron/) - Machine Learning for RC Cars.
+*   [Suiron (⭐704)](https://github.com/kendricktan/suiron/) - Machine Learning for RC Cars.
 
 ### R / General-Purpose Machine Learning
 
-*   [TDSP-Utilities (⭐366)](https://github.com/Azure/Azure-TDSP-Utilities) - Two data science utilities in R from Microsoft: 1) Interactive Data Exploration, Analysis, and Reporting (IDEAR) ; 2) Automated Modelling and Reporting (AMR).
+*   [TDSP-Utilities (⭐368)](https://github.com/Azure/Azure-TDSP-Utilities) - Two data science utilities in R from Microsoft: 1) Interactive Data Exploration, Analysis, and Reporting (IDEAR) ; 2) Automated Modelling and Reporting (AMR).
 
 ## [41. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
@@ -507,7 +507,6 @@
 *   [Domain Language eLearning](http://elearn.domainlanguage.com/) - Using our video lessons with Eric Evans, author of the original book on Domain-Driven Design (DDD), teach yourself techniques for evolving practical models that improve your software — not just your documents.
 *   [Greg Young's CQRS Class](http://subscriptions.viddler.com/GregYoung/) - These videos include the entirety of Greg Young's DDD, CQRS, and Event Sourcing class.
 *   [Nomad PHP](https://nomadphp.com/product/introduction-event-sourcing-cqrs/) - Introduction to Event Sourcing and CQRS.
-*   [Event Sourcery](https://eventsourcery.com/) - Introduction to DDD, CQRS, and Event Sourcing.
 *   [Pluralsight](https://pluralsight.com)
     *   [Domain-Driven Design Fundamentals](https://www.pluralsight.com/courses/domain-driven-design-fundamentals) - Teaches the fundamentals of Domain-Driven Design (DDD) through a demonstration of customer interactions and a complex demo application, along with advice from Eric Evans.
     *   [Domain-Driven Design in Practice](https://www.pluralsight.com/courses/domain-driven-design-in-practice) - A descriptive, in-depth walk-through for applying Domain-Driven Design principles in practice.
@@ -557,20 +556,20 @@
 ### Sample Projects / .NET (C#/F#)
 
 *   [Example of Domain-Driven Design in F#](https://gist.github.com/swlaschin/2ad8627d0400b2ab70e9f3da08902c9d) - Example of Domain Driven Design for the game of checkers. There are two files: a scratch file with a series of designs, and a final version.
-*   [Microsoft Patterns and Practices: CQRS Journey Sample Code (⭐1.3k)](https://github.com/mspnp/cqrs-journey) - Sample code from CQRS Journey.
+*   [Microsoft Patterns and Practices: CQRS Journey Sample Code (⭐1.4k)](https://github.com/mspnp/cqrs-journey) - Sample code from CQRS Journey.
 *   [Scritchy (⭐67)](https://github.com/ToJans/Scritchy) - CQRS without the Plumbing, [video](http://www.youtube.com/watch?v=5DKTFZD3hu8).
-*   [Simple CQRS in F# (⭐70)](https://github.com/thinkbeforecoding/m-r) - Greg Young's SimpleCQRS in F#.
+*   [Simple CQRS in F# (⭐73)](https://github.com/thinkbeforecoding/m-r) - Greg Young's SimpleCQRS in F#.
 
 ### Sample Projects / JVM languages
 
-*   [Akka CQRS ES Demo (⭐59)](https://github.com/mdonkers/akka-cqrs-es-demo) - Demo project to implement the CQRS and Event Sourcing patterns in Scala-Akka.
-*   [DDD Leaven (⭐776)](https://github.com/BottegaIT/ddd-leaven-v2) - DDD-CQRS sample v2.0 project that helps you with starting out advanced domain modeling using Spring, JPA and testing.
+*   [Akka CQRS ES Demo (⭐58)](https://github.com/mdonkers/akka-cqrs-es-demo) - Demo project to implement the CQRS and Event Sourcing patterns in Scala-Akka.
+*   [DDD Leaven (⭐815)](https://github.com/BottegaIT/ddd-leaven-v2) - DDD-CQRS sample v2.0 project that helps you with starting out advanced domain modeling using Spring, JPA and testing.
 
 ### Libraries and Frameworks / .NET
 
-*   [MessageRouter (⭐45)](https://github.com/QuickenLoans/MessageRouter) - Described in this video: [The Beating Heart of CQRS, or Actor-Based Message Routing on the CLR](https://vimeo.com/171178586) by Paulmichael Blasucci at the New York F# .NET User Group.
-*   [Projac (⭐135)](https://github.com/yreynhout/Projac) - Projac is a set of projection libraries that allow you to write projections targetting various backing stores.
-*   [Streamstone (⭐352)](https://github.com/yevhen/Streamstone) - Event Store for Azure Table Storage.
+*   [MessageRouter](https://github.com/QuickenLoans/MessageRouter) - Described in this video: [The Beating Heart of CQRS, or Actor-Based Message Routing on the CLR](https://vimeo.com/171178586) by Paulmichael Blasucci at the New York F# .NET User Group.
+*   [Projac (⭐138)](https://github.com/yreynhout/Projac) - Projac is a set of projection libraries that allow you to write projections targetting various backing stores.
+*   [Streamstone (⭐386)](https://github.com/yevhen/Streamstone) - Event Store for Azure Table Storage.
 
 ### Podcasts and Interviews / Ruby
 
@@ -713,15 +712,15 @@
 
 ### DLR
 
-*   [cmd (⭐345)](https://github.com/manojlds/cmd) - C# library to run external programs in a simpler way. Demonstration of "dynamic" features of C#.
+*   [cmd (⭐348)](https://github.com/manojlds/cmd) - C# library to run external programs in a simpler way. Demonstration of "dynamic" features of C#.
 
 ### Functional programming
 
-*   [language-ext (⭐5.5k)](https://github.com/louthy/language-ext) - This library uses and abuses the features of C# 6+ to provide a functional 'Base class library', that, if you squint, can look like extensions to the language itself. It also includes an 'Erlang like' process system (actors) that can optionally persist messages and state to Redis (note you can use it without Redis for in-app messaging). The process system additionally supports Rx streams of messages and state allowing for a complete system of reactive events and message dispatch.
+*   [language-ext (⭐5.8k)](https://github.com/louthy/language-ext) - This library uses and abuses the features of C# 6+ to provide a functional 'Base class library', that, if you squint, can look like extensions to the language itself. It also includes an 'Erlang like' process system (actors) that can optionally persist messages and state to Redis (note you can use it without Redis for in-app messaging). The process system additionally supports Rx streams of messages and state allowing for a complete system of reactive events and message dispatch.
 
 ### Graphics
 
-*   [LibTessDotNet (⭐267)](https://github.com/speps/LibTessDotNet) - .NET port of the famous GLU Tessellator, triangulates polygons
+*   [LibTessDotNet (⭐283)](https://github.com/speps/LibTessDotNet) - .NET port of the famous GLU Tessellator, triangulates polygons
 
 ### IDE
 
@@ -737,7 +736,7 @@
 
 ### Office
 
-*   [ClosedXML (⭐3.8k)](https://github.com/ClosedXML/ClosedXML) - ClosedXML makes it easier for developers to create Excel 2007/2010 files
+*   [ClosedXML (⭐4k)](https://github.com/ClosedXML/ClosedXML) - ClosedXML makes it easier for developers to create Excel 2007/2010 files
 
 ### WebSocket
 
@@ -745,7 +744,7 @@
 
 ### Source Generator
 
-*   [Awesome Unity (⭐5.8k)](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
+*   [Awesome Unity (⭐6.1k)](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
 
 ## [48. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 

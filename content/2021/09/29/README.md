@@ -18,17 +18,25 @@
 
 *   [CLUnit2](https://notabug.org/cage/clunit2/) - A unit testing library. [MIT](https://opensource.org/licenses/MIT).
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Ticketing
-
-*   [Pachno](https://pach.no/) - Bring your team together to design, build and deliver your project with a tool that works with you and your team, and adapts when you need to. ([Source Code (⭐112)](https://github.com/pachno/pachno)) `MPL-2.0` `PHP`
-
-## [4. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [3. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Authentication & Identity
 
-*   [Hanko](https://www.hanko.io/) - Passwordless (WebAuthn API) PSD2, eIDAS, and GDPR compliant.
+*   [Hanko](https://www.hanko.io/) - Passwordless (WebAuthn API) PSD2, eIDAS, and GDPR compliant. ![Hanko](https://img.shields.io/github/contributors-anon/teamhanko/hanko?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
+
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Graphs / GraphQL
+
+*   [Fullstack GraphQL (⭐593)](https://github.com/GraphQLCollege/fullstack-graphql)
+
+### Language Agnostic / TeX
+
+*   [BY SUBJECT](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md/free-programming-books-subjects.md) This section has been moved to its own file.
+
+### Visual Prolog / Vulkan
+
+*   [Vulkan Tutorial](https://vulkan-tutorial.com) - Alexander Overvoorde (EPUB, HTML, PDF) (C++)
 
 ## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -39,13 +47,13 @@
 ### UI Libraries, Components & Templates
 
 *   📚 [Flowbite](https://flowbite.com/docs/getting-started/introduction/) - Open-source component library built with Tailwind CSS.
-*   🧩 [Tailwind Datepicker (⭐118)](https://github.com/themesberg/tailwind-datepicker) - Adds a datepicker component built with Tailwind CSS and vanilla JavaScript.
+*   🧩 [Tailwind Datepicker (⭐127)](https://github.com/themesberg/tailwind-datepicker) - Adds a datepicker component built with Tailwind CSS and vanilla JavaScript.
 
 ## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UI / Barcode
 
-*   [HPParallaxHeader (⭐42)](https://github.com/ngochiencse/HPParallaxHeader) - Simple parallax header for UIScrollView.
+*   [HPParallaxHeader (⭐46)](https://github.com/ngochiencse/HPParallaxHeader) - Simple parallax header for UIScrollView.
 
 ## [7. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
 

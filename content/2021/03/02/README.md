@@ -45,7 +45,7 @@
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [emailwiz (⭐1.3k)](https://github.com/LukeSmithxyz/emailwiz) - Luke Smith's bash script to completely automate the setup of a Postfix/Dovecot/SpamAssassin/OpenDKIM server on debian. `GPL-3.0` `Bash`
+*   [emailwiz (⭐1.4k)](https://github.com/LukeSmithxyz/emailwiz) - Luke Smith's bash script to completely automate the setup of a Postfix/Dovecot/SpamAssassin/OpenDKIM server on debian. `GPL-3.0` `Shell`
 
 ## [7. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 

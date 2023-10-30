@@ -25,7 +25,7 @@
 
 ### Template
 
-*   [jaded (⭐41)](https://github.com/dartist/jaded) - Port of the excellent Jade view engine.
+*   [jaded (⭐42)](https://github.com/dartist/jaded) - Port of the excellent Jade view engine.
 
 ### IDEs, Editors, and Plugins
 

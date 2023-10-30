@@ -20,7 +20,7 @@
 
 ### Packages / Miscellaneous
 
-*   [dotenv (⭐17k)](https://github.com/motdotla/dotenv) - Load environment variables from .env file.
+*   [dotenv (⭐18k)](https://github.com/motdotla/dotenv) - Load environment variables from .env file.
 
 ## [3. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Emails
 
-*   [postal (⭐567)](https://github.com/drewr/postal)
+*   [postal (⭐569)](https://github.com/drewr/postal)
 
 ## [8. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
 
@@ -93,7 +93,7 @@
 
 ### Actors
 
-*   [pooler (⭐296)](https://github.com/seth/pooler) - An OTP Process Pool Application.
+*   [pooler (⭐299)](https://github.com/seth/pooler) - An OTP Process Pool Application.
 
 ### Algorithms and Data structures
 
@@ -105,44 +105,44 @@
 
 ### Date and Time
 
-*   [tzdata (⭐267)](https://github.com/lau/tzdata) - The timezone database in Elixir.
+*   [tzdata (⭐273)](https://github.com/lau/tzdata) - The timezone database in Elixir.
 
 ### ECMAScript
 
-*   [estree (⭐99)](https://github.com/bryanjos/elixir-estree) - A implementation of the SpiderMonkey Parser API in Elixir.
+*   [estree (⭐98)](https://github.com/bryanjos/elixir-estree) - A implementation of the SpiderMonkey Parser API in Elixir.
 
 ### Email
 
-*   [mailman (⭐196)](https://github.com/kamilc/mailman) - Mailman provides a clean way of defining mailers in your Elixir applications.
+*   [mailman (⭐198)](https://github.com/kamilc/mailman) - Mailman provides a clean way of defining mailers in your Elixir applications.
 
 ### Eventhandling
 
-*   [goldrush (⭐88)](https://github.com/DeadZen/goldrush) - Small, Fast event processing and monitoring for Erlang/OTP applications.
+*   [goldrush (⭐90)](https://github.com/DeadZen/goldrush) - Small, Fast event processing and monitoring for Erlang/OTP applications.
 
 ### Framework Components
 
-*   [corsica (⭐471)](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
-*   [phoenix\_ecto (⭐396)](https://github.com/phoenixframework/phoenix_ecto) - Phoenix and Ecto integration.
-*   [phoenix\_token\_auth (⭐164)](https://github.com/manukall/phoenix_token_auth) - Token authentication solution for Phoenix. Useful for APIs or single page apps.
+*   [corsica (⭐494)](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
+*   [phoenix\_ecto (⭐415)](https://github.com/phoenixframework/phoenix_ecto) - Phoenix and Ecto integration.
+*   [phoenix\_token\_auth (⭐163)](https://github.com/manukall/phoenix_token_auth) - Token authentication solution for Phoenix. Useful for APIs or single page apps.
 
 ### Images
 
-*   [bump (⭐3)](https://github.com/evanfarrar/ex_bump) - A BMP file writer in pure Elixir.
+*   [bump (⭐4)](https://github.com/evanfarrar/ex_bump) - A BMP file writer in pure Elixir.
 
 ### Logging
 
 *   [lager (⭐39)](https://github.com/basho/lager) - A logging framework for Erlang/OTP by basho.com.
-*   [lager\_logger (⭐26)](https://github.com/PSPDFKit-labs/lager_logger) - A lager backend that forwards all log messages to Elixir's Logger.
+*   [lager\_logger (⭐27)](https://github.com/PSPDFKit-labs/lager_logger) - A lager backend that forwards all log messages to Elixir's Logger.
 
 ### ORM and Datamapping
 
-*   [eredis (⭐616)](https://github.com/wooga/eredis) - Erlang Redis client.
-*   [ex\_bitcask (⭐11)](https://github.com/JonGretar/ExBitcask) - Elixir wrapper of Basho's Bitcask Key/Value store.
+*   [eredis (⭐621)](https://github.com/wooga/eredis) - Erlang Redis client.
+*   [ex\_bitcask (⭐12)](https://github.com/JonGretar/ExBitcask) - Elixir wrapper of Basho's Bitcask Key/Value store.
 *   [mariaex (⭐259)](https://github.com/xerions/mariaex) - MariaDB/MySQL driver for Elixir.
 
 ### Queue
 
-*   [elixir\_talk (⭐19)](https://github.com/jsvisa/elixir_talk) - An Elixir client for beanstalkd.
+*   [elixir\_talk (⭐20)](https://github.com/jsvisa/elixir_talk) - An Elixir client for beanstalkd.
 
 ### Testing
 
@@ -152,11 +152,11 @@
 
 *   [base62 (⭐20)](https://github.com/igas/base62) - Base62 encoder/decoder in pure Elixir.
 *   [custom\_base (⭐20)](https://github.com/igas/custom_base) - Allow you to make custom base conversion in Elixir.
-*   [porterstemmer (⭐5)](https://github.com/frpaulas/porterstemmer) - Porter Stemmer in Elixir.
+*   [porterstemmer (⭐6)](https://github.com/frpaulas/porterstemmer) - Porter Stemmer in Elixir.
 
 ### Third Party APIs
 
-*   [ex\_twiml (⭐33)](https://github.com/danielberkompas/ex_twiml) - Generate TwiML for your Twilio integration, right inside Elixir.
+*   [ex\_twiml (⭐35)](https://github.com/danielberkompas/ex_twiml) - Generate TwiML for your Twilio integration, right inside Elixir.
 *   [mixpanel\_data\_client (⭐4)](https://github.com/jeregrine/mixpanel_data_client) - Client for interacting with the Mixpanel Data Export API.
 
 ### Websites

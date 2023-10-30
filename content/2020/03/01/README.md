@@ -26,24 +26,24 @@
 
 ### GUI
 
-*   [SQLTools (⭐1.2k)](https://github.com/mtxr/vscode-sqltools) - Database management for VSCode.
+*   [SQLTools (⭐1.3k)](https://github.com/mtxr/vscode-sqltools) - Database management for VSCode.
 
 ### CLI
 
-*   [iredis (⭐2.3k)](https://github.com/laixintao/iredis) - A Cli for Redis with AutoCompletion and Syntax Highlighting.
+*   [iredis (⭐2.4k)](https://github.com/laixintao/iredis) - A Cli for Redis with AutoCompletion and Syntax Highlighting.
 
 ## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Audio and Music
 
-*   [enginesound (⭐230)](https://github.com/DasEtwas/enginesound) — A GUI and command line application used to procedurally generate semi-realistic engine sounds. Featuring in-depth configuration, variable sample rate and a frequency analysis window.
+*   [enginesound (⭐252)](https://github.com/DasEtwas/enginesound) — A GUI and command line application used to procedurally generate semi-realistic engine sounds. Featuring in-depth configuration, variable sample rate and a frequency analysis window.
 
 ## [5. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Python / Data Sources
 
 *   [metatrader5](https://pypi.org/project/MetaTrader5/) - API Connector to MetaTrader 5 Terminal
-*   [akshare (⭐6.5k)](https://github.com/jindaxiang/akshare) - AkShare is an elegant and simple financial data interface library for Python, built for human beings! <https://akshare.readthedocs.io>
+*   [akshare (⭐7.4k)](https://github.com/jindaxiang/akshare) - AkShare is an elegant and simple financial data interface library for Python, built for human beings! <https://akshare.readthedocs.io>
 
 ## [6. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
@@ -56,14 +56,12 @@
 ### Business Intelligence / Data Engineering
 
 *   [Why not use Double or Float to represent currency?](https://stackoverflow.com/questions/3730019/why-not-use-double-or-float-to-represent-currency/3730040#3730040) - Because of precision: floats and doubles cannot accurately represent the base 10 multiples that we use for money.
-*   [European Spreadsheet Risks Interest Group - Horror Stories](http://www.eusprig.org/horror-stories.htm) - A collection of cases in which uncontrolled and untested spreadsheet models led to lost revenue, mispricing, poor decision making, fraud and systemic financial failure.
 
 ## [8. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Roles / Engineering Managers
 
-*   [Engineering Manager Resources (⭐8k)](https://github.com/ryanburgess/engineer-manager) - Huge list, but need some curation.
-*   [The Leadership Library for Engineers](https://leadership-library.dev) - A list of books to help engineering leaders level up.
+*   [Engineering Manager Resources (⭐10k)](https://github.com/ryanburgess/engineer-manager) - Huge list, but need some curation.
 
 ## [9. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
 
@@ -84,7 +82,7 @@
 
 ### Generic
 
-*   [Heroicons (⭐17k)](https://github.com/refactoringui/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
+*   [Heroicons (⭐19k)](https://github.com/refactoringui/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 
 ---
 

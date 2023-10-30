@@ -82,13 +82,13 @@
 
 ### Frameworks, Libraries and Tools / Searching
 
-*   [SimMetrics.Net (⭐91)](https://github.com/StefH/SimMetrics.Net) - A Similarity Metric Library, e.g. from edit distance's (Levenshtein, Gotoh, Jaro etc) to other metrics, (e.g Soundex, Chapman)
+*   [SimMetrics.Net (⭐104)](https://github.com/StefH/SimMetrics.Net) - A Similarity Metric Library, e.g. from edit distance's (Levenshtein, Gotoh, Jaro etc) to other metrics, (e.g Soundex, Chapman)
 
 ## [9. Colorful](/content/Siddharth11/Colorful/README.md)
 
 ### Tools / Libraries
 
-*   [Palettable (⭐685)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
+*   [Palettable (⭐702)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
 
 ### Color Palettes / Web App
 

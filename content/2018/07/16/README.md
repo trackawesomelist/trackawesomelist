@@ -22,13 +22,14 @@
 
 ### Reading and Writing Tools / Text Editors
 
-*   [Brackets](http://brackets.io) - A modern, open source text editor that understands web design. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/adobe/brackets/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Brackets](http://brackets.io) - A modern, open source text editor that understands web design. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/brackets-cont/brackets/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / IDEs
 
 *   [Deco IDE](https://www.decoide.org) - The best IDE for building React Native apps. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/decosoftware/deco-ide) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [JetBrains Toolbox App](https://www.jetbrains.com/toolbox/) - Manage installed JetBrains tools, download new ones and open recent projects. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
     *   [AppCode](https://www.jetbrains.com/objc/) - Smart IDE for iOS/macOS development
+    *   [RustRover](https://www.jetbrains.com/rust/) - A brand new JetBrains IDE for Rust Developers.
     *   [CLion](https://www.jetbrains.com/clion/) - Powerful C and C++ IDE. (**Free** for Students)
     *   [DataGrip](http://www.jetbrains.com/datagrip/) - Cross-Plaform IDE for Databases and SQL. **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info.
     *   [DataSpell](https://www.jetbrains.com/dataspell/) - The IDE for Professional Data Scientists
@@ -47,7 +48,7 @@
 
 ### ORM
 
-*   [Perfect-CRUD (⭐62)](https://github.com/PerfectlySoft/Perfect-CRUD) :penguin: - CRUD is an object-relational mapping (ORM) system using Codable protocol.
+*   [Perfect-CRUD (⭐63)](https://github.com/PerfectlySoft/Perfect-CRUD) :penguin: - CRUD is an object-relational mapping (ORM) system using Codable protocol.
 
 ### Network / Barcode
 

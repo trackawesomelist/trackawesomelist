@@ -17,7 +17,7 @@
 
 ### Server-Side Rendering / Lazy Load
 
-*   [react-esi (⭐643)](https://github.com/dunglas/react-esi) - A library to boost SSR performance by exposing React components as Edge Side Includes (ESI) fragments
+*   [react-esi (⭐655)](https://github.com/dunglas/react-esi) - A library to boost SSR performance by exposing React components as Edge Side Includes (ESI) fragments
 
 ## [3. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -30,7 +30,7 @@
 ### Networking
 
 *   [lwIP](http://savannah.nongnu.org/projects/lwip/) - A lightweight TCP/IP stack. \[Modified BSD]
-*   [mTCP (⭐1.8k)](https://github.com/mtcp-stack/mtcp) - Highly scalable user-level TCP stack for multicore systems. \[Modified BSD]
+*   [mTCP (⭐1.9k)](https://github.com/mtcp-stack/mtcp) - Highly scalable user-level TCP stack for multicore systems. \[Modified BSD]
 
 ---
 

@@ -131,7 +131,7 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 
 ### StackView / Barcode
 
-*   [StackViewController (⭐866)](https://github.com/seedco/StackViewController) - Simplify the use of UIStackView.
+*   [StackViewController (⭐868)](https://github.com/seedco/StackViewController) - Simplify the use of UIStackView.
 *   [TZStackView (⭐1.2k)](https://github.com/tomvanzummeren/TZStackView) - An iOS9 UIStackView layout component re-implemented for iOS 7 and 8.
 
 ## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 06, 2022
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -41,7 +41,7 @@
 
 ### Driver crates / Other
 
-*   [AHT20-driver](https://crates.io/crates/aht20-driver) - I2C - Humidity and temperature sensor - [Intro blog post](http://www.rawmeat.org/code/20220130-aht20_driver/) - [github (⭐4)](https://github.com/anglerud/aht20-driver) - ![crates.io](https://img.shields.io/crates/v/aht20-driver.svg)
+*   [AHT20-driver](https://crates.io/crates/aht20-driver) - I2C - Humidity and temperature sensor - [Intro blog post](http://www.rawmeat.org/code/20220130-aht20_driver/) - [github (⭐5)](https://github.com/anglerud/aht20-driver) - ![crates.io](https://img.shields.io/crates/v/aht20-driver.svg)
 
 ## [5. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
@@ -49,38 +49,20 @@
 
 *   [Create a desktop app in Rust using Tauri and Yew](https://dev.to/stevepryde/create-a-desktop-app-in-rust-using-tauri-and-yew-2bhe)
 
-## [6. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
-
-### Self-Hosted Bitcoin Payment Processors
-
-- Processor: [SatSale (⭐151)](https://github.com/nickfarrow/SatSale)
-
-  Fees: No fees
-
-  Lightning: Yes
-
-  Directly to Your Wallet: Yes
-
-  Conversion to Fiat: Weakhands: [swap to USDT on Liquid (⭐151)](https://github.com/nickfarrow/SatSale/blob/master/config.toml#L82), no-KYC
-
-  Requirements: A Bitcoin node and Python. Lightning node & Woocommerce optional
-
-
-
-## [7. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [6. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Resources in Other Languages / Kurdish (Central)
 
 *   [A short introduction to Deno](https://devs.krd/about-deno).
 
-## [8. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [7. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [Browserosaurus (⭐1.3k)](https://github.com/will-stone/browserosaurus) - Browser prompter for macOS.
-*   [linked (⭐703)](https://github.com/lostdesign/linked) - Daily journal.
+*   [Browserosaurus (⭐1.5k)](https://github.com/will-stone/browserosaurus) - Browser prompter for macOS.
+*   [linked (⭐751)](https://github.com/lostdesign/linked) - Daily journal.
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Health
 
@@ -96,23 +78,23 @@
 
 
 
-## [10. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [9. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### Browser Games
 
 *   [Continental Marble Adventure](https://marble-adventure.continental.com/) - Marble game for Continental's 150 year anniversary.
 
-## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Theory of Mind / Democratization
+### Theory of Mind / Democratization of Science
 
 *   [Watch-And-Help: A Challenge for Social Perception and Human-AI Collaboration](https://openreview.net/forum?id=w_7JMpGZRh0) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=16340001407726295133)].
 
-## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Web Servers
 
-*   [dan-t/rusty-tags (⭐375)](https://github.com/dan-t/rusty-tags) — create ctags/etags for a cargo project and all of its dependencies
+*   [dan-t/rusty-tags (⭐382)](https://github.com/dan-t/rusty-tags) — create ctags/etags for a cargo project and all of its dependencies
 
 ---
 

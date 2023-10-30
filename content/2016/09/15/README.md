@@ -20,7 +20,7 @@
 
 ### Algebra / Linear Algebra
 
-*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐481)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐488)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Editors
 
-*   [elixir-tmbundle (⭐260)](https://github.com/elixir-lang/elixir-tmbundle) - A TextMate and SublimeText bundle for Elixir.
+*   [elixir-tmbundle (⭐261)](https://github.com/elixir-lang/elixir-tmbundle) - A TextMate and SublimeText bundle for Elixir.
 
 ## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

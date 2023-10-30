@@ -16,7 +16,7 @@
 
 ### Related projects / Other services
 
-*   [StreetComplete (⭐3.1k)](https://github.com/streetcomplete/StreetComplete): Easy to use OpenStreetMap editor for Android
+*   [StreetComplete (⭐3.3k)](https://github.com/streetcomplete/StreetComplete): Easy to use OpenStreetMap editor for Android
 
 ## [3. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Miscellaneous
 
-*   [Format Express](https://www.format-express.dev) - Instant online formatter for JSON / XML / SQL.
+*   [Format Express](https://www.format-express.dev) - Instant online format for JSON / XML / SQL.
 
 ## [7. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 

@@ -38,7 +38,7 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Web Hacking (⭐4.8k)](https://github.com/infoslack/awesome-web-hacking) - This list is for anyone wishing to learn about web application security but do not have a starting point.
+*   [Awesome Web Hacking (⭐5.1k)](https://github.com/infoslack/awesome-web-hacking) - This list is for anyone wishing to learn about web application security but do not have a starting point.
 
 ## [4. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

@@ -22,7 +22,7 @@
 
 ### Artificial Intelligence
 
-*   [simple\_bayes (⭐388)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
+*   [simple\_bayes (⭐391)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
 
 ### Authentication
 
@@ -30,11 +30,11 @@
 
 ### Macros
 
-*   [pipe\_to (⭐84)](https://github.com/taiansu/pipe_to) - The enhanced pipe operator which can specify the target position.
+*   [pipe\_to (⭐85)](https://github.com/taiansu/pipe_to) - The enhanced pipe operator which can specify the target position.
 
 ### Queue
 
-*   [RBMQ (⭐21)](https://github.com/Nebo15/rbmq) - Simple API for spawning RabbitMQ Producers and Consumers.
+*   [RBMQ (⭐22)](https://github.com/Nebo15/rbmq) - Simple API for spawning RabbitMQ Producers and Consumers.
 
 ### Testing
 

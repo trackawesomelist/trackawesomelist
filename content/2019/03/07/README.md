@@ -26,7 +26,7 @@
 
 ## [2. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### Database
+### Database / Text-Based User Interfaces
 
 *   [Apache Drill](https://drill.apache.org) - Distributed, schema on-the-fly, ANSI SQL query engine for Big Data exploration.
 
@@ -74,16 +74,16 @@
 
 ### Software / Note-taking & Editors
 
-*   [Trilium Notes (⭐21k)](https://github.com/zadam/trilium) - Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases. `AGPL-3.0` `Nodejs`
+*   [Trilium Notes (⭐23k)](https://github.com/zadam/trilium) - Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases. `AGPL-3.0` `Nodejs/Docker/K8S`
 
 ## [8. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Libraries / Go
 
-*   [Bongo (⭐482)](https://github.com/go-bongo/bongo) - ODM based on mgo
+*   [Bongo (⭐485)](https://github.com/go-bongo/bongo) - ODM based on mgo
 *   [mgo (⭐2k)](https://github.com/globalsign/mgo) - Community Go driver
-*   [minquery (⭐60)](https://github.com/icza/minquery) - MongoDB cursor that paginates
-*   [mongo-go-driver (⭐7.2k)](https://github.com/mongodb/mongo-go-driver) - Official Go driver
+*   [minquery (⭐61)](https://github.com/icza/minquery) - MongoDB cursor that paginates
+*   [mongo-go-driver (⭐7.7k)](https://github.com/mongodb/mongo-go-driver) - Official Go driver
 
 ### Libraries / Java
 
@@ -105,18 +105,18 @@
 
 ### Development / Release
 
-*   [release-it (⭐6.5k)](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
-*   [np (⭐7.1k)](https://github.com/sindresorhus/np) - A better `npm publish`.
+*   [release-it (⭐6.9k)](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
+*   [np (⭐7.2k)](https://github.com/sindresorhus/np) - A better `npm publish`.
 
 ### Utilities / Network Utilities
 
-*   [get-port-cli (⭐131)](https://github.com/sindresorhus/get-port-cli) - Get an available port.
-*   [is-reachable-cli (⭐22)](https://github.com/beatfreaker/is-reachable-cli) - Check if hostnames are reachable or not.
+*   [get-port-cli (⭐134)](https://github.com/sindresorhus/get-port-cli) - Get an available port.
+*   [is-reachable-cli (⭐23)](https://github.com/beatfreaker/is-reachable-cli) - Check if hostnames are reachable or not.
 
 ### Data Manipulation / JSON
 
-*   [fx (⭐16k)](https://github.com/antonmedv/fx) - Command-line JSON viewer.
-*   [vj (⭐71)](https://github.com/busyloop/vj) - Makes JSON human readable.
+*   [fx (⭐17k)](https://github.com/antonmedv/fx) - Command-line JSON viewer.
+*   [vj (⭐73)](https://github.com/busyloop/vj) - Makes JSON human readable.
 
 ### Data Manipulation / Text
 

@@ -16,13 +16,13 @@
 
 ### Torrenting
 
-*   [mktorrent (⭐382)](https://github.com/Rudde/mktorrent) mktorrent is a simple command line utility to create BitTorrent metainfo files.
+*   [mktorrent (⭐415)](https://github.com/Rudde/mktorrent) mktorrent is a simple command line utility to create BitTorrent metainfo files.
 
 ### Torrent Clients / Deluge
 
 *   [Deluge](https://www.deluge-torrent.org/) :star2: Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
-*   [AutoRemovePlus (⭐148)](https://github.com/omaralvarez/deluge-autoremoveplus) Auto removing of deluge torrents
-*   [ltConfig (⭐281)](https://github.com/ratanakvlun/deluge-ltconfig/releases)
+*   [AutoRemovePlus (⭐149)](https://github.com/omaralvarez/deluge-autoremoveplus) Auto removing of deluge torrents
+*   [ltConfig (⭐295)](https://github.com/ratanakvlun/deluge-ltconfig/releases)
     ltConfig is a plugin for Deluge that allows direct modification to libtorrent settings and has preset support.
 *   [Deluge Plugins](https://dev.deluge-torrent.org/wiki/Plugins) List of official and third-party plugins for Deluge
 
@@ -30,14 +30,14 @@
 
 *   [rTorrent Community wiki (⭐6)](https://github.com/rtorrent-community/rtorrent-community.github.io/wiki) GitHub wiki for rTorrent
 *   [rTorrent Docs](https://rtorrent-docs.readthedocs.io/en/latest/) Comprehensive manual and user guide for the rTorrent bittorrent client
-*   [pyrocore (⭐276)](https://github.com/pyroscope/pyrocore) A collection of tools for the BitTorrent protocol and especially the rTorrent client
+*   [pyrocore (⭐281)](https://github.com/pyroscope/pyrocore) A collection of tools for the BitTorrent protocol and especially the rTorrent client
 *   [rTorrent research](https://calomel.org/rtorrent_mods.html) security modifications and other hacks for usability
 
 ### autodl-irssi / WebTorrent Clients
 
 *   [autodl-irssi](https://autodl-community.github.io/autodl-irssi/) autodl-irssi is a plugin for irssi that monitors IRC announce channels for torrent trackers and downloads torrent files based on user-defined filters.
 *   [autodl-curl-sonarr](https://github.com/Zymest/autodl-curl-sonarr) Script to use as upload-command for autodl-irssi to post to Sonarr
-*   [mreg (⭐13)](https://github.com/Igglybuff/mreg) Generates a "Match releases" expression for your autodl-irssi filter based on dvdsreleasedates.com's "Most Requested DVD Release Dates" section.
+*   [mreg (⭐15)](https://github.com/Igglybuff/mreg) Generates a "Match releases" expression for your autodl-irssi filter based on dvdsreleasedates.com's "Most Requested DVD Release Dates" section.
 *   [Slack notifications for autodl-irssi](https://gist.github.com/Igglybuff/00d5e91274a562ac724d358bbbc8bc7b) Guide by yours truly on enabling Slack notifications for autodl-irssi
 
 ### Usenet Providers / Seedbox Setup Tools and Guides
@@ -50,11 +50,11 @@
 
 ### Media Centre Applications / Third Party Hosts
 
-*   [jellyfin (⭐17k)](https://github.com/jellyfin/jellyfin) An open-source fork of Emby
+*   [jellyfin (⭐23k)](https://github.com/jellyfin/jellyfin) An open-source fork of Emby
 
 ### Plex Scripts and Tools / Third Party Hosts
 
-*   [goplaxt (⭐246)](https://github.com/XanderStrike/goplaxt/) Full rewrite of the above, written in Go and deployable with Docker
+*   [goplaxt (⭐274)](https://github.com/XanderStrike/goplaxt/) Full rewrite of the above, written in Go and deployable with Docker
 
 ### Gaming / Third Party Hosts
 
@@ -80,7 +80,7 @@
 
 ### Application Templates
 
-*   [Nucleus (⭐346)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
+*   [Nucleus (⭐349)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
 
 ## [4. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -116,17 +116,17 @@
 
 ### Types / Playground
 
-*   [typescript-conditional-types (⭐41)](https://github.com/LeDDGroup/typescript-conditional-types) - Helpers for typescript generic types
+*   [typescript-conditional-types (⭐43)](https://github.com/LeDDGroup/typescript-conditional-types) - Helpers for typescript generic types
 
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Artificial Intelligence
 
-*   [PyTorch (⭐67k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
+*   [PyTorch (⭐72k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
 
 ### Audio
 
-*   [Wav2Letter++ (⭐6.2k)](https://github.com/facebookresearch/wav2letter/) - Public domain, a fast open source speech processing toolkit written entirely in C++ and uses the ArrayFire tensor library and the flashlight machine learning library for maximum efficiency. \[BSD]
+*   [Wav2Letter++ (⭐6.3k)](https://github.com/facebookresearch/wav2letter/) - Public domain, a fast open source speech processing toolkit written entirely in C++ and uses the ArrayFire tensor library and the flashlight machine learning library for maximum efficiency. \[BSD]
 
 ---
 

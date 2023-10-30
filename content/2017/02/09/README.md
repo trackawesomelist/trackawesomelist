@@ -67,7 +67,7 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [DotNetty (⭐3.7k)](https://github.com/Azure/DotNetty) - Port of netty, event-driven asynchronous network application framework.
+*   [DotNetty (⭐3.9k)](https://github.com/Azure/DotNetty) - Port of netty, event-driven asynchronous network application framework.
 
 ---
 

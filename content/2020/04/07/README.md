@@ -10,7 +10,7 @@
 
 ### Shells
 
-*   [nushell (⭐22k)](https://github.com/nushell/nushell) - A modern shell written in Rust
+*   [nushell (⭐25k)](https://github.com/nushell/nushell) - A modern shell written in Rust
 
 ### Command-Line Productivity
 
@@ -18,9 +18,9 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [bash-language-server (⭐1.5k)](https://github.com/bash-lsp/bash-language-server) - [LSP](https://microsoft.github.io/language-server-protocol/)-based Bash language server
-*   [critic.sh (⭐449)](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage reporting
-*   [esh (⭐166)](https://github.com/jirutka/esh) - A simple templating engine based on shell, implemented in \~290 lines of POSIX shell and awk.
+*   [bash-language-server (⭐1.6k)](https://github.com/bash-lsp/bash-language-server) - [LSP](https://microsoft.github.io/language-server-protocol/)-based Bash language server
+*   [critic.sh (⭐450)](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage reporting
+*   [esh (⭐182)](https://github.com/jirutka/esh) - A simple templating engine based on shell, implemented in \~290 lines of POSIX shell and awk.
 
 ## [2. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
 
@@ -46,8 +46,8 @@
 
 ### Word Processors
 
-*   [R Studio (⭐4.1k)](https://github.com/rstudio/rstudio) - IDE for R.
-    *   [bookdown (⭐3.1k)](https://github.com/rstudio/bookdown) - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
+*   [R Studio (⭐4.3k)](https://github.com/rstudio/rstudio) - IDE for R.
+    *   [bookdown (⭐3.4k)](https://github.com/rstudio/bookdown) - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
     *   [R Markdown](https://rmarkdown.rstudio.com/) - R package to write R next to Markdown
         :bookmark:
         :link:.
@@ -68,26 +68,26 @@
 ### Templates / Articles
 
 *   [Pandoc Markdown-LaTeX
-    Boilerplate (⭐93)](https://github.com/davecap/markdown-latex-boilerplate/#readme) - Demonstrate
+    Boilerplate (⭐95)](https://github.com/davecap/markdown-latex-boilerplate/#readme) - Demonstrate
     how to integrate Pandoc with an existing LaTeX template which
     requires some boilerplate code (i.e. LaTeX preamble), thus avoiding the
     `latexmk` dependency.
-*   [scientific-markdown (⭐39)](https://github.com/JensErat/scientific-markdown/#readme) - Example
+*   [scientific-markdown (⭐41)](https://github.com/JensErat/scientific-markdown/#readme) - Example
     for use of Markdown for scientific publications using Pandoc and
     `latexmk`.
-*   [Steve's R Markdown Templates (⭐815)](https://github.com/svmiller/svm-r-markdown-templates/) - Academic manuscript, memos, Beamer presentation, syllabus and CV.
+*   [Steve's R Markdown Templates (⭐866)](https://github.com/svmiller/svm-r-markdown-templates/) - Academic manuscript, memos, Beamer presentation, syllabus and CV.
 
 ### Templates / Presentations
 
-*   [pandoc-starter (⭐488)](https://github.com/jez/pandoc-starter/#readme) - Templates for
+*   [pandoc-starter (⭐505)](https://github.com/jez/pandoc-starter/#readme) - Templates for
     articles, Beamer presentations etc. using Markdown files and Makefiles for
     getting started with Pandoc.
-*   [slides (⭐2)](https://github.com/cgroll/slides/#readme) - Demo for generating `reveal.js`
+*   [slides (⭐3)](https://github.com/cgroll/slides/#readme) - Demo for generating `reveal.js`
     presentations using Pandoc.
 
 ### Templates / Books
 
-*   [bookdown-demo (⭐434)](https://github.com/rstudio/bookdown-demo/#readme) - Minimal
+*   [bookdown-demo (⭐465)](https://github.com/rstudio/bookdown-demo/#readme) - Minimal
     example of a book based on R Markdown and bookdown.
 *   [Template for writing a PhD thesis in
     Markdown (⭐1.1k)](https://github.com/tompollard/phd_thesis_markdown#readme) - Clean
@@ -96,14 +96,14 @@
 
 ### Tutorials / Books
 
-*   [Book on Riemann solvers (⭐199)](https://github.com/clawpack/riemann_book/#readme) - This
+*   [Book on Riemann solvers (⭐227)](https://github.com/clawpack/riemann_book/#readme) - This
     example uses a custom `nbconvert` template and shows how to store your
     notebooks with no output (for version control) while automatically executing
     them before running `bookbook`, so that PDF and HTML versions include the
     output.
 *   [Dennis Tenen and Grant Wythoff](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) - Sustainable Authorship in Plain Text using Pandoc and Markdown.
 *   [Teaching and learning with
-    Jupyter (⭐383)](https://github.com/jupyter4edu/jupyter-edu-book/#readme) - Book
+    Jupyter (⭐406)](https://github.com/jupyter4edu/jupyter-edu-book/#readme) - Book
     written in R Markdown, bookdown and also rendered as HTML, PDF and
     EPUB.
 *   [Writing scientific papers for ACPD using Emacs
@@ -137,8 +137,8 @@
 
 ### Issue Tracking and Project Management
 
-*   [Confluence](https://www.atlassian.com/software/confluence) - Atlassian's content collaboration tool used to help teams collaborate and share knowledge efficiently. Free plan up to 10 users.
-*   [Jira](https://www.atlassian.com/software/jira) — Advanced software development project management tool used in many corporate environments. Free plan up to 10 users.
+*   [Confluence](https://www.atlassian.com/software/confluence) - Atlassian's content collaboration tool is used to help teams collaborate and share knowledge efficiently. Free plan for up to 10 users.
+*   [Jira](https://www.atlassian.com/software/jira) — Advanced software development project management tool used in many corporate environments. Free plan for up to 10 users.
 
 ## [9. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -164,11 +164,11 @@
 
 ### Community Extensions
 
-*   [Keycloak Login with User Attribute (⭐20)](https://github.com/cnieg/keycloak-login-attribute)
+*   [Keycloak Login with User Attribute (⭐25)](https://github.com/cnieg/keycloak-login-attribute)
 
 ## [11. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### Hypermedia Types
+### Hypermedia Types / Text-Based User Interfaces
 
 *   [hate (⭐21)](https://github.com/blackdoor/hate) - Builds hypermedia-friendly objects according to HAL specification.
 

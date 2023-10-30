@@ -20,11 +20,11 @@
 
 ### Framework Components
 
-*   [rummage\_ecto (⭐210)](https://github.com/Excipients/rummage_ecto) - A configurable framework to search, sort and paginate Ecto Queries.
+*   [rummage\_ecto (⭐211)](https://github.com/Excipients/rummage_ecto) - A configurable framework to search, sort and paginate Ecto Queries.
 
 ### ORM and Datamapping
 
-*   [mongodb\_ecto (⭐352)](https://github.com/michalmuskala/mongodb_ecto) - MongoDB adapter for Ecto.
+*   [mongodb\_ecto (⭐358)](https://github.com/michalmuskala/mongodb_ecto) - MongoDB adapter for Ecto.
 
 ## [3. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
@@ -121,7 +121,7 @@ Webpage: <https://metalab.at>
 
 ### Traffic Analysis/Inspection
 
-*   [DPKT (⭐952)](https://github.com/kbandla/dpkt): Python packet creation/parsing library.
+*   [DPKT (⭐1k)](https://github.com/kbandla/dpkt): Python packet creation/parsing library.
 
 ---
 

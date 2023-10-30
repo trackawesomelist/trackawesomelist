@@ -27,15 +27,15 @@
 
 ### Sample GTFS and GTFS Realtime datasets used for software testing
 
-*   [transitfeed unit tests (⭐658)](https://github.com/google/transitfeed/tree/master/tests/data) - Test data created for the original Google [Python GTFS validator (⭐658)](https://github.com/google/transitfeed/wiki/FeedValidator).
-*   [gtfs-realtime-validator unit tests (⭐24)](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/) - Some [GTFS datasets (zip files) (⭐24)](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/resources) are included and a large number of GTFS RT messages are defined [programmatically in Java (⭐24)](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/java/edu/usf/cutr/gtfsrtvalidator/lib/test/rules) via the gtfs-realtime-bindings library.
+*   [transitfeed unit tests (⭐661)](https://github.com/google/transitfeed/tree/master/tests/data) - Test data created for the original Google [Python GTFS validator (⭐661)](https://github.com/google/transitfeed/wiki/FeedValidator).
+*   [gtfs-realtime-validator unit tests (⭐26)](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/) - Some [GTFS datasets (zip files) (⭐26)](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/resources) are included and a large number of GTFS RT messages are defined [programmatically in Java (⭐26)](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/java/edu/usf/cutr/gtfsrtvalidator/lib/test/rules) via the gtfs-realtime-bindings library.
 *   [OpenTripPlanner unit tests (⭐1.9k)](https://github.com/opentripplanner/OpenTripPlanner/tree/dev-2.x/src/test) - Some [GTFS datasets (⭐1.9k)](https://github.com/opentripplanner/OpenTripPlanner/tree/dev-2.x/src/test/resources/gtfs) are defined for the unit tests ([GtfsTest (⭐1.9k)](https://github.com/opentripplanner/OpenTripPlanner/blob/dev-2.x/src/test/java/org/opentripplanner/GtfsTest.java) and [mmri folder (⭐1.9k)](https://github.com/opentripplanner/OpenTripPlanner/tree/dev-2.x/src/test/java/org/opentripplanner/mmri)).
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Preset Cloud](https://preset.io/) - A hosted Apache Superset service. Forever free for teams up to 5 users, featuring unlimited dashboards and charts, no-code chart builder and a collaborative SQL editor.
+*   [Preset Cloud](https://preset.io/) - A hosted Apache Superset service. Forever free for teams of up to 5 users, featuring unlimited dashboards and charts, a no-code chart builder, and a collaborative SQL editor.
 
 ### Data Visualization on Maps
 
@@ -50,9 +50,9 @@
 
 ## [5. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
-### DevOps / Newsletters
+### DevOps / Discovery
 
-*   [Makes (⭐299)](https://github.com/fluidattacks/makes) - A Nix-based CI/CD pipeline framework for building, testing, and releasing projects in any language, from anywhere.
+*   [Makes (⭐341)](https://github.com/fluidattacks/makes) - A Nix-based CI/CD pipeline framework for building, testing, and releasing projects in any language, from anywhere.
 
 ## [6. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 
@@ -72,34 +72,34 @@
 
 ### Databases Implemented in Go
 
-*   [dtf (⭐218)](https://github.com/dtm-labs/dtf) - A distributed transaction manager. Support XA, TCC, SAGA, Reliable Messages.
+*   [dtf (⭐217)](https://github.com/dtm-labs/dtf) - A distributed transaction manager. Support XA, TCC, SAGA, Reliable Messages.
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [terragrunt (⭐7)](https://github.com/jkavan/terragrunt-oh-my-zsh-plugin) - Tab completion for [Terragrunt (⭐6.8k)](https://github.com/gruntwork-io/terragrunt).
+*   [terragrunt (⭐9)](https://github.com/jkavan/terragrunt-oh-my-zsh-plugin) - Tab completion for [Terragrunt (⭐7.2k)](https://github.com/gruntwork-io/terragrunt).
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [a (⭐2)](https://github.com/chammanganti/a-zsh-theme) - Simple theme with current directory and `git` status decorations.
+*   [a (⭐3)](https://github.com/chammanganti/a-zsh-theme) - Simple theme with current directory and `git` status decorations.
 *   [rounded (⭐2)](https://github.com/daniilty/rounded-zsh-theme) - Includes current directory and `git` status decorations.
 
 ## [9. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Software / Office
 
-*   [Open Office (⭐677)](https://github.com/apache/openoffice) - Provides a full featured office productivity suite based on open standards. ([Apache License 2.0 (⭐677)](https://github.com/apache/openoffice/blob/trunk/LICENSE))
+*   [Open Office (⭐771)](https://github.com/apache/openoffice) - Provides a full featured office productivity suite based on open standards. ([Apache License 2.0 (⭐771)](https://github.com/apache/openoffice/blob/trunk/LICENSE))
 
 ### Software / Text Editors
 
-*   [VS Code (⭐138k)](https://github.com/microsoft/vscode) - A source-code editor made by Microsoft ([MIT (⭐138k)](https://github.com/microsoft/vscode/blob/main/LICENSE.txt))
+*   [VS Code (⭐148k)](https://github.com/microsoft/vscode) - A source-code editor made by Microsoft ([MIT (⭐148k)](https://github.com/microsoft/vscode/blob/main/LICENSE.txt))
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
-*   [pinia-di (⭐10)](https://github.com/ccqgithub/pinia-di) - Dependency injection for pinia.
+*   [pinia-di (⭐16)](https://github.com/ccqgithub/pinia-di) - Dependency injection for pinia.
 
 ## [11. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -117,7 +117,7 @@
 
 ### Modules / CLI utils
 
-*   [yargs (⭐10k)](https://github.com/yargs/yargs) - The modern, pirate-themed successor to optimist.
+*   [yargs (⭐11k)](https://github.com/yargs/yargs) - The modern, pirate-themed successor to optimist.
 
 ### Tools / XML
 
@@ -127,7 +127,7 @@
 
 ### Courses
 
-*   [Computational Cognitive Science Courses](https://cbmm.mit.edu/education/courses/computational-cognitive-science) - ***MIT, Harvard, Stanford***. Courses on computational cognitive science from MIT, Harvard, Stanford.
+*   [Computational Cognitive Science Courses](https://cbmm.mit.edu/education/courses/computational-cognitive-science) - ***MIT***. Courses on computational cognitive science from MIT, Harvard, and Stanford.
 
 ### Programming
 

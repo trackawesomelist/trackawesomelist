@@ -24,11 +24,11 @@
 
 ### Modules / String
 
-*   [strip-ansi (⭐337)](https://github.com/chalk/strip-ansi) - Strip ANSI escape codes.
+*   [strip-ansi (⭐369)](https://github.com/chalk/strip-ansi) - Strip ANSI escape codes.
 
 ### Modules / Function
 
-*   [compose-function (⭐56)](https://github.com/stoeffel/compose-function) - Compose a new function from smaller functions `f(g(x))`.
+*   [compose-function (⭐57)](https://github.com/stoeffel/compose-function) - Compose a new function from smaller functions `f(g(x))`.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Datetime
 
-*   [NodaTime (⭐2.5k)](https://github.com/nodatime/nodatime) - Noda Time is an alternative date and time API for .NET. It helps you to think about your data more clearly, and express operations on that data more precisely. <https://nodatime.org/>
+*   [NodaTime (⭐2.6k)](https://github.com/nodatime/nodatime) - Noda Time is an alternative date and time API for .NET. It helps you to think about your data more clearly, and express operations on that data more precisely. <https://nodatime.org/>
 
 ### Decompilation
 
@@ -105,24 +105,20 @@
 
 ## [11. Awesome Frc](/content/andrewda/awesome-frc/README.md)
 
-### Programming
-
-*   [FRC Programming Done Right](http://frc-pdr.readthedocs.io/en/latest/) - Exhaustive and well-written guide to programming in FRC, the right way.
-
 ### Vision
 
-*   [CSCore (⭐24)](https://github.com/wpilibsuite/cscore) - The CScore camera vision library from WPI.
+*   [CSCore (⭐23)](https://github.com/wpilibsuite/cscore) - The CScore camera vision library from WPI.
 *   [254 2016 Vision Talk](https://www.youtube.com/watch?v=rLwOkAJqImo) - The most complete lesson about vision tracking out there.
 
 ### Scouting
 
-*   [Robot Scouter (⭐97)](https://github.com/SUPERCILEX/Robot-Scouter) - Gorgeous and powerful Android scouting app.
-*   [VictiScout (⭐18)](https://github.com/FRCScout/FRCScout) - Light Electron scouting app by Team 1418.
+*   [Robot Scouter (⭐100)](https://github.com/SUPERCILEX/Robot-Scouter) - Gorgeous and powerful Android scouting app.
+*   [VictiScout (⭐21)](https://github.com/FRCScout/FRCScout) - Light Electron scouting app by Team 1418.
 
 ### Driving
 
-*   [QDriverStation (⭐157)](https://github.com/FRC-Utilities/QDriverStation) - Popular open-source Driver Station clone for all Desktop platforms. Though not permitted in competition, essential for teams wishing to drive on another platform or up their open source cred.
-*   [FRCDashboard (⭐125)](https://github.com/FRCDashboard/FRCDashboard) - Powerful and flexible boilerplate for creating complex driving dashboards with web technologies.
+*   [QDriverStation (⭐168)](https://github.com/FRC-Utilities/QDriverStation) - Popular open-source Driver Station clone for all Desktop platforms. Though not permitted in competition, essential for teams wishing to drive on another platform or up their open source cred.
+*   [FRCDashboard (⭐132)](https://github.com/FRCDashboard/FRCDashboard) - Powerful and flexible boilerplate for creating complex driving dashboards with web technologies.
 *   [SmartDashboard.js (⭐16)](https://github.com/erikuhlmann/SmartDashboard.js) - SmartDashboard port written in JavaScript with `nw.js`.
 
 ### Community
@@ -133,27 +129,27 @@
 
 ### Repositories / Java/Kotlin
 
-*   [WPILib (⭐690)](https://github.com/wpilibsuite/allwpilib) - The official WPILib repository, containing code for the Java and C++ libraries.
-*   [SmartDashboard (⭐21)](https://github.com/wpilibsuite/SmartDashboard) - The official SmartDashboard repository containing code for the Java Driver Station dashboard.
+*   [WPILib (⭐838)](https://github.com/wpilibsuite/allwpilib) - The official WPILib repository, containing code for the Java and C++ libraries.
+*   [SmartDashboard (⭐22)](https://github.com/wpilibsuite/SmartDashboard) - The official SmartDashboard repository containing code for the Java Driver Station dashboard.
 
 ### Repositories / C++
 
-*   [WPILib (Java/C++) (⭐690)](https://github.com/wpilibsuite/allwpilib) - The official WPILib repository, containing code for the Java and C++ libraries.
+*   [WPILib (Java/C++) (⭐838)](https://github.com/wpilibsuite/allwpilib) - The official WPILib repository, containing code for the Java and C++ libraries.
 
 ### Repositories / C#
 
 *   [WPILib (C#) (⭐25)](https://github.com/robotdotnet/WPILib) - Unofficial WPILib port for writing robot code in C#.
-*   [NetworkTables (C#) (⭐4)](https://github.com/robotdotnet/NetworkTables) - Unofficial NetworkTables port for C#.
-*   [FRC-Extension (Visual Studio) (⭐6)](https://github.com/robotdotnet/FRC-Extension) - Visual Studio extension to make writing C# robots a breeze.
+*   [NetworkTables (C#) (⭐3)](https://github.com/robotdotnet/NetworkTables) - Unofficial NetworkTables port for C#.
+*   [FRC-Extension (Visual Studio) (⭐5)](https://github.com/robotdotnet/FRC-Extension) - Visual Studio extension to make writing C# robots a breeze.
 
 ### Repositories / Python
 
-*   [RobotPy-WPILib (⭐154)](https://github.com/robotpy/robotpy-wpilib) - Unofficial WPILib port allowing you to write robot code in Python.
+*   [RobotPy-WPILib (⭐165)](https://github.com/robotpy/robotpy-wpilib) - Unofficial WPILib port allowing you to write robot code in Python.
 *   [pyrobottraining (⭐7)](https://github.com/robotpy/pyrobottraining) - Fundamental tutorial for FRC robot coding in Python.
 
 ### Repositories / CSS
 
-*   [banners.css (⭐22)](https://github.com/ErikBoesen/banners.css) - Library for creating pure CSS FRC banners. Utilitarian and pretty decoration for team websites.
+*   [banners.css (⭐24)](https://github.com/ErikBoesen/banners.css) - Library for creating pure CSS FRC banners. Utilitarian and pretty decoration for team websites.
 
 ### Repositories / Ruby
 

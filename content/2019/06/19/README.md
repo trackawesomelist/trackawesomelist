@@ -22,7 +22,7 @@
 
 ### Miscellaneous
 
-*   [Stacks (⭐3k)](https://github.com/stackshareio/awesome-stacks#readme) - Tech stacks for building different apps and features.
+*   [Stacks (⭐3.2k)](https://github.com/stackshareio/awesome-stacks#readme) - Tech stacks for building different apps and features.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -34,7 +34,7 @@
 
 ### UI / UI Helpers
 
-*   [In View Notifier List (⭐512)](https://github.com/rvamsikrishna/inview_notifier_list) - ListView that notify when widgets are on screen within a provided area by [Vamsi Krishna](https://github.com/rvamsikrishna).
+*   [In View Notifier List (⭐571)](https://github.com/rvamsikrishna/inview_notifier_list) - ListView that notify when widgets are on screen within a provided area by [Vamsi Krishna](https://github.com/rvamsikrishna).
 
 ## [6. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Business Intelligence
 
-*   [Blazer (⭐3.4k)](https://github.com/ankane/blazer) - business intelligence made simple.
+*   [Blazer (⭐3.6k)](https://github.com/ankane/blazer) - business intelligence made simple.
 
 ### Books / Streaming
 
@@ -68,7 +68,7 @@
 
 ### Data Visualization / Graph Based approach
 
-*   Kafka [awesome-kafka (⭐156)](https://github.com/monksy/awesome-kafka).
+*   Kafka [awesome-kafka (⭐168)](https://github.com/monksy/awesome-kafka).
 
 ## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Books / Hash functions
 
-*   [Introduction to Modern Cryptography](http://www.cs.umd.edu/\~jkatz/imc.html) - Introductory-level treatment of cryptography written from a modern, computer science perspective.
+*   [Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html) - Introductory-level treatment of cryptography written from a modern, computer science perspective.
 
 ## [2. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [gitignore.io (⭐7.3k)](https://github.com/joeblau/gitignore.io) - Create useful .gitignore files for your project <https://www.gitignore.io>.
+*   [gitignore.io (⭐7.8k)](https://github.com/joeblau/gitignore.io) - Create useful .gitignore files for your project <https://www.gitignore.io>.
 
 ## [8. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

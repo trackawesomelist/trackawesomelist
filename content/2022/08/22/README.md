@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 22, 2022
 
-12 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,30 +12,19 @@
 
 *   [Fixinator](https://fixinator.app) :copyright: — Static security code analysis for ColdFusion or CFML code. Designed to work within a CI pipeline or from the developers terminal.
 
-## [2. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+## [2. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Chrome Extensions:
-
-- Website: [GitHunt](https://chrome.google.com/webstore/detail/githunt/khpcnaokfebphakjgdgpinmglconplhp?hl=en)
-
-
-- Website: [React Developer](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
-
-
-
-## [3. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
-
-### Swift / Angular
+### Swift / Svelte
 
 *   [iOS Dev Tools Newsletter](https://iosdev.tools/). The best tools for iOS developers, updated weekly.
 
-## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [3. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-iterative (⭐280)](https://github.com/iterative/terraform-provider-iterative) - Terraform plugin built with machine learning in mind.
+*   [terraform-provider-iterative (⭐287)](https://github.com/iterative/terraform-provider-iterative) - Terraform plugin built with machine learning in mind.
 
-## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Experts on Twitter
 
@@ -53,31 +42,31 @@
 
 *   [ngx-focus-control (⭐0)](https://github.com/Raiper34/ngx-focus-control) - Library to provide tools to work with focus and focusable elements to improve user interfaces and accessibility
 
-## [6. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [5. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### Contributors
 
 *   [Bogdan Bystritskiy](https://www.linkedin.com/in/maxim-eremenko/)
 *   [Big Mountain Studio](https://github.com/bigmountainstudio)
 
-## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [saschpe/log4k (⭐14)](https://github.com/saschpe/log4k) - Lightweight logging library for Kotlin/Multiplatform. Supports Android, iOS, JavaScript and plain JVM environments.
+*   [saschpe/log4k (⭐13)](https://github.com/saschpe/log4k) - Lightweight logging library for Kotlin/Multiplatform. Supports Android, iOS, JavaScript and plain JVM environments.
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### PaaS
 
-*   [Deno Deploy](https://deno.com/deploy) - Distributed system that runs JavaScript, TypeScript, and WebAssembly at the edge, worldwide. Free tier includes 100,000 requests per day and 100 GiB data transfer per month.
+*   [Deno Deploy](https://deno.com/deploy) - Distributed system that runs JavaScript, TypeScript, and WebAssembly at the edge worldwide. The free tier includes 100,000 requests per day and 100 GiB data transfers per month.
 
 ### Storage and Media Processing
 
 *   [Imgbot](https://github.com/marketplace/imgbot) — Imgbot is a friendly robot that optimizes your images and saves you time. Optimized images mean smaller file sizes without sacrificing quality. It's free for open source.
-*   [resmush.it](https://resmush.it) — reSmush.it is a FREE API that provides image optimization. reSmush.it has been implemented on the most common CMS such as Wordpress, Drupal or Magento. reSmush.it is the most used image optimization API with more than 7 billions images already treated, and is still Free of charge.
+*   [resmush.it](https://resmush.it) — reSmush.it is a FREE API that provides image optimization. reSmush.it has been implemented on the most common CMS such as WordPress, Drupal, or Magento. reSmush.it is the most used image optimization API with more than seven billion images already treated, and it is still Free of charge.
 
-## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Coding platforms
 
@@ -85,14 +74,14 @@
 
 ### HTML generators and templates / Isomorphic web frameworks
 
-*   ⭐ [Djula (⭐131)](https://github.com/mmontone/djula) - A port of Django's template engine to Common Lisp. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   ⭐ [Djula (⭐138)](https://github.com/mmontone/djula) - A port of Django's template engine to Common Lisp. [Expat](https://directory.fsf.org/wiki/License:Expat).
     *   [cl-djula-tailwind (⭐8)](https://github.com/rajasegar/cl-djula-tailwind) - use TailwindCSS classe in your Djula templates without any JavaScript or Node.js tooling.
 
 ### Apps / Third-party APIs
 
-*   [Resolve (⭐33)](https://github.com/GrammaTech/resolve) - A software for AST-based diff calculation, display, and automated resolution. Written in C++ and CL, you'll find Lisp utilities.
+*   [Resolve (⭐37)](https://github.com/GrammaTech/resolve) - A software for AST-based diff calculation, display, and automated resolution. Written in C++ and CL, you'll find Lisp utilities.
 
-## [10. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [9. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Media
 
@@ -107,18 +96,12 @@
 *   [Wagtail Secret Sharing (⭐5)](https://github.com/vicktornl/wagtail-secret-sharing) - Keep sensitive information out of your chat logs and email via a secure sharing protocol
 *   [Wagtail Cache Invalidator (⭐4)](https://github.com/vicktornl/wagtail-cache-invalidator) - Invalidate and purge (frontend) cache via an user-friendly interface in the Wagtail CMS.
 
-## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [10. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Bundlers
 
-*   [Terser (⭐7.8k)](https://github.com/terser/terser) - parser, mangler and compressor toolkit for ES6+
+*   [Terser (⭐8k)](https://github.com/terser/terser) - parser, mangler and compressor toolkit for ES6+
 *   [Uglify (⭐13k)](https://github.com/mishoo/UglifyJS) - parser / mangler / compressor / beautifier toolkit
-
-## [12. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
-
-### Objective-C / Svelte
-
-*   [Objective-C 最速基礎文法マスター](https://fn7.hatenadiary.org/entry/20100203/1265207098) - id:fn7
 
 ---
 

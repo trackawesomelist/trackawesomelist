@@ -19,14 +19,14 @@
 ### :wrench: Tools / Before 2000
 
 *   [Capstone](https://www.capstone-engine.org) - Lightweight multi-platform, multi-architecture disassembly framework.
-*   [PANDA (⭐2.2k)](https://github.com/panda-re/panda) - Platform for Architecture-Neutral Dynamic Analysis.
-*   [ShowStopper (⭐142)](https://github.com/CheckPointSW/showstopper) - Tool to help malware researchers explore and test anti-debug techniques or verify debugger plugins or other solutions that clash with standard anti-debug methods.
+*   [PANDA (⭐2.3k)](https://github.com/panda-re/panda) - Platform for Architecture-Neutral Dynamic Analysis.
+*   [ShowStopper (⭐153)](https://github.com/CheckPointSW/showstopper) - Tool to help malware researchers explore and test anti-debug techniques or verify debugger plugins or other solutions that clash with standard anti-debug methods.
 
 ## [2. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
 ### AppImage consumption tools / Package managers
 
-*   [ayy (⭐16)](https://github.com/lawl/ayy) - Package manager for AppImage. Single, static, dependency free binary. Written in Go.
+*   [ayy (⭐15)](https://github.com/lawl/ayy) - Package manager for AppImage. Single, static, dependency free binary. Written in Go.
 
 ## [3. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Articles and Presentations / Generic eBPF Presentations and Articles
 
-*   [Beginner's guide to eBPF (⭐1.2k)](https://github.com/lizrice/ebpf-beginners) - A set of live-coding talks and the accompanying code examples, introducing eBPF programming using a variety of libraries and program types.
+*   [Beginner's guide to eBPF (⭐1.4k)](https://github.com/lizrice/ebpf-beginners) - A set of live-coding talks and the accompanying code examples, introducing eBPF programming using a variety of libraries and program types.
 
 ## [5. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [FAIRshare (⭐61)](https://github.com/fairdataihub/FAIRshare) - Sharing biomedical research data and software according to applicable FAIR guidelines
+*   [FAIRshare (⭐65)](https://github.com/fairdataihub/FAIRshare) - Sharing biomedical research data and software according to applicable FAIR guidelines
 
 ## [8. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 

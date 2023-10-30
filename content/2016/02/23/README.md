@@ -28,12 +28,12 @@
 
 ### Algorithms and Data structures
 
-*   [erlang-algorithms (⭐147)](https://github.com/aggelgian/erlang-algorithms) - Implementations of popular data structures and algorithms.
+*   [erlang-algorithms (⭐153)](https://github.com/aggelgian/erlang-algorithms) - Implementations of popular data structures and algorithms.
 *   [spacesaving (⭐2)](https://github.com/rozap/spacesaving) - stream count distinct element estimation using the "space saving" algorithm.
 
 ### Testing
 
-*   [efrisby (⭐17)](https://github.com/FabioBatSilva/efrisby) - A REST API testing framework for erlang.
+*   [efrisby (⭐18)](https://github.com/FabioBatSilva/efrisby) - A REST API testing framework for erlang.
 
 ## [5. Amas](/content/sindresorhus/amas/README.md)
 

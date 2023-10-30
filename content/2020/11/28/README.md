@@ -10,19 +10,19 @@
 
 ### Contents / Extensions
 
-*   [pg\_cron (⭐2k)](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL.
+*   [pg\_cron (⭐2.1k)](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL.
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Desktop / Game Engine resources
 
-*   [bitsdojo\_window (⭐605)](https://github.com/bitsdojo/bitsdojo_window) <!--bitsdojo/bitsdojo_window--> - Customize windows owner-drawn chrome by [BitsDojo](https://github.com/bitsdojo)
+*   [bitsdojo\_window (⭐675)](https://github.com/bitsdojo/bitsdojo_window) <!--bitsdojo/bitsdojo_window--> - Customize windows owner-drawn chrome by [BitsDojo](https://github.com/bitsdojo)
 
 ## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [Kotlin/kotlinx-datetime (⭐1.7k)](https://github.com/Kotlin/kotlinx-datetime) - A multiplatform Kotlin library for working with date and time.
+*   [Kotlin/kotlinx-datetime (⭐1.9k)](https://github.com/Kotlin/kotlinx-datetime) - A multiplatform Kotlin library for working with date and time.
 
 ## [4. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md)
 
@@ -55,8 +55,8 @@
 
 ### Community
 
-*   [Complete Terraform documentation as PDF files (Updated nightly) (⭐183)](https://github.com/antonbabenko/terraform-docs-as-pdf)
-*   [Terraform AWS Modules](https://github.com/terraform-aws-modules) + [meta-configurations repository (⭐74)](https://github.com/terraform-aws-modules/meta)
+*   [Complete Terraform documentation as PDF files (Updated nightly) (⭐191)](https://github.com/antonbabenko/terraform-docs-as-pdf)
+*   [Terraform AWS Modules](https://github.com/terraform-aws-modules) + [meta-configurations repository (⭐73)](https://github.com/terraform-aws-modules/meta)
 
 ### Tutorials and Blog Posts / Writing Custom Providers
 
@@ -67,16 +67,16 @@
 *   [How To Write OPA for Terraform](https://www.scalr.com/blog/opa-series-part-1-open-policy-agent-and-terraform/) - How to use Open Policy Agent to evaluate and enforce policy on your Terraform plans
 *   [Deploying Django to AWS ECS with Terraform](https://testdriven.io/blog/deploying-django-to-ecs-with-terraform/) - Looks at how to use Terraform to spin up the required AWS infrastructure for running a Django app on ECS.
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
-*   [Checkov (⭐5.6k)](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
-*   [TerraDepot (⭐60)](https://github.com/derBroBro/TerraDepot) Terraform state repository, based on the default http remote backend. Allows the central administration of tfstates on AWS S3.
-*   [Terraform-Visual (⭐487)](https://github.com/hieven/terraform-visual) - A simple but powerful tool to visualize Terraform plan.
-*   [terratag (⭐790)](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources.
+*   [Checkov (⭐6k)](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
+*   [TerraDepot (⭐63)](https://github.com/derBroBro/TerraDepot) Terraform state repository, based on the default http remote backend. Allows the central administration of tfstates on AWS S3.
+*   [Terraform-Visual (⭐529)](https://github.com/hieven/terraform-visual) - A simple but powerful tool to visualize Terraform plan.
+*   [terratag (⭐842)](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources.
 
-### Libraries / Vendor supported providers
+### Libraries / IDE
 
-*   [python-hcl2 (⭐186)](https://github.com/amplify-education/python-hcl2/) - HCL2 parser in Python
+*   [python-hcl2 (⭐206)](https://github.com/amplify-education/python-hcl2/) - HCL2 parser in Python
 
 ## [7. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 
@@ -92,13 +92,13 @@
 
 ### Rendering/Publishing/Conversion
 
-*   [Jupytext (⭐5.9k)](https://github.com/mwouts/jupytext) - Convert and synchronize notebooks with text formats (e.g. Python or Markdown files) that work well under version control.
+*   [Jupytext (⭐6.1k)](https://github.com/mwouts/jupytext) - Convert and synchronize notebooks with text formats (e.g. Python or Markdown files) that work well under version control.
 
 ## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Tinode](https://github.com/tinode) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots. ([Demo](https://sandbox.tinode.co/), [Source Code (⭐10k)](https://github.com/tinode/chat), [Clients (⭐264)](https://github.com/tinode/webapp)) `GPL-3.0` `Go`
+*   [Tinode](https://github.com/tinode) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots. ([Demo](https://sandbox.tinode.co/), [Source Code (⭐11k)](https://github.com/tinode/chat), [Clients (⭐279)](https://github.com/tinode/webapp)) `GPL-3.0` `Go`
 
 ### Software / Polls and Events
 
@@ -120,20 +120,20 @@
 
 ### Translations
 
-*   [English (⭐71)](https://github.com/mbiesiad/awesome-translations)
-*   [Polish (⭐71)](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
+*   [English (⭐87)](https://github.com/mbiesiad/awesome-translations)
+*   [Polish (⭐87)](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
 
 ### Platforms / Localization and translation platforms
 
 *   [Crowdin](https://crowdin.com/) - Closed source cloud-based localization technology and services company.
-*   [LocaleApp](https://www.localeapp.com/) - Effective app localization and translation.
+*   [LocaleApp](https://www.localeapp.com/) - App for localization and translation.
 *   [Transifex](https://www.transifex.com/) - Proprietary, web-based translation platform, globalization management system (GMS).
 *   [Weblate](https://weblate.org/) - Copylefted libre web-based continuous translation platform.
 
 ### Platforms / Project management
 
 *   [Zanata](http://zanata.org/) - Web-based translation platform for translators, content creators and developers to manage localisation projects.
-*   [Traduora (⭐1.8k)](https://github.com/traduora/traduora) - A platform for manage translation workflow in teams.
+*   [Traduora (⭐1.9k)](https://github.com/traduora/traduora) - A platform to manage translation workflow in teams.
 
 ### Platforms / Platform-specific tools
 
@@ -141,26 +141,23 @@
 
 ### Apps / Automated translation
 
-*   [RTranslator (⭐95)](https://github.com/niedev/RTranslator) - A simultaneous translator app for Android based on Google's API.
-*   [Crow Translate (⭐1.2k)](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
-*   [Copy Translator (⭐15k)](https://github.com/CopyTranslator/CopyTranslator) - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
+*   [RTranslator (⭐114)](https://github.com/niedev/RTranslator) - A simultaneous translator app for Android based on Google's API.
+*   [Crow Translate (⭐1.4k)](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
+*   [Copy Translator (⭐16k)](https://github.com/CopyTranslator/CopyTranslator) - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
 
 ### Tools / Automatic translation for end users
 
 *   [Bergamot](https://github.com/browsermt) - Client-side translation in the browser.
 
-### Tools / Translator libraries for developers
+### Tools / Libraries and tools for developers
 
-*   [deep-translator (⭐911)](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited (depending on the translator used) library written in Python to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
-*   [Translator (⭐1k)](https://github.com/UlionTse/translators) - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
-
-### Tools / i18n frameworks for developers
-
+*   [deep-translator (⭐1.1k)](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited (depending on the translator used) library written in Python to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
+*   [Translator (⭐1.3k)](https://github.com/UlionTse/translators) - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
 *   [I18next](https://www.i18next.com/) - Internationalization-framework written in and for JavaScript.
 *   [react-i18next](https://react.i18next.com/) - Powerful internationalization framework for React / React Native which is based on i18next.
 *   [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - Functions to internationalize your browser extension. You can use these APIs to get localized strings from locale files packaged with your extension.
 *   [Vue I18n](https://kazupon.github.io/vue-i18n/) - Internationalization plugin for Vue.js.
-*   [i18n Ally (⭐2.8k)](https://github.com/antfu/i18n-ally) - Extension for VSCode, all in one about i18n.
+*   [i18n Ally (⭐3.1k)](https://github.com/antfu/i18n-ally) - Extension for VSCode, all in one about i18n.
 
 ### Tools / Other tools
 
@@ -178,7 +175,6 @@
 
 ### Other / Machine translation
 
-*   [Localizejs](https://localizejs.com/) - Translations for websites and applications to new languages and streamline translation workflow.
 *   [LocalizationLab](https://www.localizationlab.org/) - Global community of 7000+ contributors who support the translation and localization of Internet freedom tools.
 
 ## [13. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
@@ -191,8 +187,8 @@
 
 ### Security
 
-*   [Lockpicking (⭐1.1k)](https://github.com/fabacab/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
-*   [Cybersecurity Blue Team (⭐3.3k)](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
+*   [Lockpicking (⭐1.2k)](https://github.com/fabacab/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
+*   [Cybersecurity Blue Team (⭐3.6k)](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
 
 ## [15. Awesome Tensorflow Js](/content/aaronhma/awesome-tensorflow-js/README.md)
 

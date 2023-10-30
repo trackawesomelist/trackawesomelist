@@ -24,103 +24,103 @@
 
 ### Vienna
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bolonio" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/bolonio" height="70px" width="70px" align="left" alt="" />
 
 **Adrián Bolonio**\
 Topics: React, JavaScript, Accessibility\
 <https://twitter.com/bolonio>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sharifsbeat" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/sharifsbeat" height="70px" width="70px" align="left" alt="" />
 
 **Ali Sharif**\
 Topics: Functional Programming, Agile, Product Development\
 <https://twitter.com/sharifsbeat>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/okonetchnikov" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/okonetchnikov" height="70px" width="70px" align="left" alt="" />
 
 **Andrey Okonetchnikov**\
 Topics: CSS in JS, Linting, Tooling\
 <https://twitter.com/okonetchnikov>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/christophrumpel" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/christophrumpel" height="70px" width="70px" align="left" alt="" />
 
 **Christoph Rumpel**\
 Topics: PHP, Laravel, Chatbots\
 <https://twitter.com/christophrumpel>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/eva_trostlos" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/eva_trostlos" height="70px" width="70px" align="left" alt="" />
 
 **Eva Lettner**\
 Topics: CSS, Web\
 <https://twitter.com/eva_trostlos>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/glnnrys" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/glnnrys" height="70px" width="70px" align="left" alt="" />
 
 **Glenn Reyes**\
 Topics: Code Splitting, React\
 <https://twitter.com/glnnrys>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mrozilla" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/mrozilla" height="70px" width="70px" align="left" alt="" />
 
 **Jan Hruby**\
 Topics: React, Redux, CSS in JS, React Native, Serverless, GraphQL\
 <https://twitter.com/mrozilla>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/karlhorky" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/karlhorky" height="70px" width="70px" align="left" alt="" />
 
 **Karl Horky**\
 Topics: Tooling, Standards, Intersectionality, OSS, Psychology\
 <https://twitter.com/karlhorky>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mmatuzo" height="70" align="left" alt="">
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/mmatuzo" height="70" align="left" alt="">
 
 **Manuel Matuzović**\
 Topics: CSS, Grid, Accessibility\
 <https://twitter.com/mmatuzo>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mxbck" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/mxbck" height="70px" width="70px" align="left" alt="" />
 
 **Max Böck**\
 Topics: CSS, JavaScript, Progressive Web Apps\
 <https://twitter.com/mxbck>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mxstbr" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/mxstbr" height="70px" width="70px" align="left" alt="" />
 
 **Max Stoiber**\
 Topics: React, Styled Components, OSS\
 <https://twitter.com/mxstbr>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/nikgraf" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/nikgraf" height="70px" width="70px" align="left" alt="" />
 
 **Nik Graf**\
 Topics: ReasonML, Serverless, GraphQL, Virtual Reality, React\
 <https://twitter.com/nikgraf>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/glyphe" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/glyphe" height="70px" width="70px" align="left" alt="" />
 
 **Oliver Schöndorfer**\
 Topics: Typography, CSS\
 <https://twitter.com/glyphe>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ryyppy" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/ryyppy" height="70px" width="70px" align="left" alt="" />
 
 **Patrick Stapfer**\
 Topics: ReasonML, Static Typing, Flow\
 <https://twitter.com/ryyppy>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ferakpeter" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/ferakpeter" height="70px" width="70px" align="left" alt="" />
 
 **Peter Ferak**\
 Topics: Functional Programming, Computer Science\
 <https://twitter.com/ferakpeter>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/thefubhy" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/thefubhy" height="70px" width="70px" align="left" alt="" />
 
 **Sebastian Siemssen**\
 Topics: React, GraphQL, Tooling\
 <https://twitter.com/thefubhy>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/thecurlydev" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/thecurlydev" height="70px" width="70px" align="left" alt="" />
 
 **Timo Obereder**\
 Topics: React, Composition, Android, RXJava, Kotlin\
@@ -130,7 +130,7 @@ Topics: React, Composition, Android, RXJava, Kotlin\
 
 ### Stockholm
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/muhd_ahsanayaz" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/muhd_ahsanayaz" height="70px" width="70px" align="left" alt="" />
 
 **Muhammad Ahsan Ayaz**\
 Topics: JavaScript, Angular, Node.js, Ionic, Firebase, Stencil, Progressive Web Apps\
@@ -140,13 +140,13 @@ Topics: JavaScript, Angular, Node.js, Ionic, Firebase, Stencil, Progressive Web 
 
 ### Birmingham
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/brucel" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/brucel" height="70px" width="70px" align="left" alt="" />
 
 **Bruce Lawson**\
 Topics: Standards, Performance\
 <https://twitter.com/brucel>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sil" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/sil" height="70px" width="70px" align="left" alt="" />
 
 **Stuart Langridge**\
 Topics: JavaScript, HTML, Open Source\
@@ -156,7 +156,7 @@ Topics: JavaScript, HTML, Open Source\
 
 ### Omaha
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/courtneyheitman" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/courtneyheitman" height="70px" width="70px" align="left" alt="" />
 
 **Courtney Heitman**\
 Topics: UX Development, Usability, Accessibility, Scrum, Agile\
@@ -179,7 +179,7 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 
 ### SEO
 
-*   [URL Rewrite (⭐24)](https://github.com/iamandycohen/UrlRewrite) - A site-specific version of Redirect / Rewrite module.
+*   [URL Rewrite (⭐23)](https://github.com/iamandycohen/UrlRewrite) - A site-specific version of Redirect / Rewrite module.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -201,20 +201,19 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 
 ### PaaS
 
-*   [Koyeb](https://www.koyeb.com) - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery. Koyeb provides two nano services to run your apps with its forever-free tier and also sponsors open-source projects with free resources. The free plan requires card information.
+*   [Koyeb](https://www.koyeb.com) - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery. Koyeb provides two nano services to run your apps with its forever-free tier and sponsors open-source projects with free resources. The free plan requires card information.
 
 ## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Framework Components
 
-*   [phx\_component\_helpers (⭐119)](https://github.com/cblavier/phx_component_helpers) - Extensible live\_components, without boilerplate.
+*   [phx\_component\_helpers (⭐123)](https://github.com/cblavier/phx_component_helpers) - Extensible live\_components, without boilerplate.
 
 ## [10. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Tools
 
-*   [Bubble IPFS From URL Plugin](https://bubble.io/plugin/ipfs-add-from-uri-1616424944051x638386852081172500) - Bubble (no code platform) plugin for IPFS From URL integration
-*   [ipns-pin (⭐13)](https://github.com/justicenode/node-ipns-pin) - A command-line tool to pin stuff via ipns.
+*   [ipns-pin (⭐14)](https://github.com/justicenode/node-ipns-pin) - A command-line tool to pin stuff via ipns.
 
 ## [11. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
 
@@ -257,7 +256,7 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 
 ### Plugins
 
-*   [tmux-wormhole (⭐62)](https://github.com/gcla/tmux-wormhole) Use tmux to download files with magic wormhole
+*   [tmux-wormhole (⭐71)](https://github.com/gcla/tmux-wormhole) Use tmux to download files with magic wormhole
 
 ## [14. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
@@ -270,7 +269,7 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 
 ### Contents / Games
 
-*   [FlutterDex (⭐52)](https://github.com/ArizArmeidi/FlutterDex) - a Simple Pokedex app built with API from [PokeAPI](https://pokeapi.co/) by [Ariz Armeidi](https://github.com/ArizArmeidi).
+*   [FlutterDex (⭐54)](https://github.com/ArizArmeidi/FlutterDex) - a Simple Pokedex app built with API from [PokeAPI](https://pokeapi.co/) by [Ariz Armeidi](https://github.com/ArizArmeidi).
 
 ---
 

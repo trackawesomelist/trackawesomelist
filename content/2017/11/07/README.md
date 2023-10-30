@@ -42,7 +42,7 @@
 
 ### Images / Barcode
 
-*   [AXPhotoViewer (⭐604)](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.
+*   [AXPhotoViewer (⭐628)](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.
 
 ## [6. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Contents / Utilities
 
-*   [pREST (⭐3.7k)](https://github.com/prest/prest) - Serve a RESTful API from any PostgreSQL database (Golang)
+*   [pREST (⭐3.8k)](https://github.com/prest/prest) - Serve a RESTful API from any PostgreSQL database (Golang)
 
 ### Contents / Language bindings
 
@@ -65,7 +65,7 @@
 
 ### Resources / Tutorials
 
-*   [postgresDBSamples (⭐283)](https://github.com/morenoh149/postgresDBSamples) - A collection of sample postgres schemas
+*   [postgresDBSamples (⭐305)](https://github.com/morenoh149/postgresDBSamples) - A collection of sample postgres schemas
 
 ## [7. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
 
@@ -92,25 +92,25 @@
 
 ### Melbourne
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/glenmaddern" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/glenmaddern" height="70px" width="70px" align="left" alt="" />
 
 **Glen Maddern**\
 Topics: CSS, Styled Components, React, JavaScript\
 <https://twitter.com/glenmaddern>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/fox" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/fox" height="70px" width="70px" align="left" alt="" />
 
 **Karolina Szczur**\
 Topics: CSS, HTML, Web, Inclusivity, Diversity\
 <https://twitter.com/fox>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/markdalgleish" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/markdalgleish" height="70px" width="70px" align="left" alt="" />
 
 **Mark Dalgleish**\
 Topics: Design Systems, Web Design\
 <https://twitter.com/markdalgleish>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/philnash" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/philnash" height="70px" width="70px" align="left" alt="" />
 
 **Phil Nash**\
 Topics: JavaScript, Web Development, Progressive Web Apps\
@@ -120,14 +120,14 @@ Topics: JavaScript, Web Development, Progressive Web Apps\
 
 ### Linz
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ddprrt" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/ddprrt" height="70px" width="70px" align="left" alt="" />
 
 **Stefan Baumgartner**\
 Topics: Web Ops, JavaScript, CSS, Tooling\
 <https://twitter.com/ddprrt>
 ### Salzburg
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/lisi_linhart" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/lisi_linhart" height="70px" width="70px" align="left" alt="" />
 
 **Lisi Linhart**\
 Topics: CSS, Web Animations\
@@ -137,7 +137,7 @@ Topics: CSS, Web Animations\
 
 ### Hasselt
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sambego" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/sambego" height="70px" width="70px" align="left" alt="" />
 
 **Sam Bellen**\
 Topics: Web Audio, Browser APIs\
@@ -147,7 +147,7 @@ Topics: Web Audio, Browser APIs\
 
 ### Sofia
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/rstankov" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/rstankov" height="70px" width="70px" align="left" alt="" />
 
 **Radoslav Stankov**\
 Topics: React, Redux, Ruby, Testing, GraphQL\
@@ -157,37 +157,37 @@ Topics: React, Redux, Ruby, Testing, GraphQL\
 
 ### Helsinki
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/eemeli_aro" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/eemeli_aro" height="70px" width="70px" align="left" alt="" />
 
 **Eemeli Aro**\
 Topics: Open Source, React, YAML\
 <https://twitter.com/eemeli_aro>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/pakastin" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/pakastin" height="70px" width="70px" align="left" alt="" />
 
 **Juha Lindstedt**\
 Topics: JavaScript, RE:DOM, Progressive Web Apps, Performance, Standards, CSS, Node.js\
 <https://twitter.com/pakastin>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/plrdev" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/plrdev" height="70px" width="70px" align="left" alt="" />
 
 **Juha Linnanen**\
 Topics: React Native, TypeScript, GraphQL\
 <https://twitter.com/plrdev>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/hamatti" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/hamatti" height="70px" width="70px" align="left" alt="" />
 
 **Juha-Matti Santala**\
 Topics: Community building, Documentation, JavaScript, Programming\
 <https://twitter.com/Hamatti>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/maaretp" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/maaretp" height="70px" width="70px" align="left" alt="" />
 
 **Maaret Pyhäjärvi**\
 Topics: Testing\
 <https://twitter.com/maaretp>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/varya_en" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/varya_en" height="70px" width="70px" align="left" alt="" />
 
 **Varya Stepanova**\
 Topics: CSS in JS, Style Guides, Visual Regression Testing\
@@ -197,23 +197,20 @@ Topics: CSS in JS, Style Guides, Visual Regression Testing\
 
 ### Freiburg
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/smashingmag" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/smashingmag" height="70px" width="70px" align="left" alt="" />
 
 **Vitaly Friedman**\
 Topics: Web Design, Web Development, Responsive Web Design\
 <https://twitter.com/smashingmag>
-
-### Europe / Greece 🇬🇷
-
 ### Munich
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/fhinkel" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/fhinkel" height="70px" width="70px" align="left" alt="" />
 
 **Franziska Hinkelmann**\
 Topics: Node, V8\
 <https://twitter.com/fhinkel>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mathias" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/mathias" height="70px" width="70px" align="left" alt="" />
 
 **Mathias Bynens**\
 Topics: JavaScript (TC39), V8, Chrome\
@@ -223,13 +220,13 @@ Topics: JavaScript (TC39), V8, Chrome\
 
 ### Milan
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/granze" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/granze" height="70px" width="70px" align="left" alt="" />
 
 **Maurizio Mangione**\
 Topics: Web Components, Polymer, Progressive Web Apps\
 <https://twitter.com/granze>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/cef62" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/cef62" height="70px" width="70px" align="left" alt="" />
 
 **Matteo Ronchi**\
 Topics: React, JavaScript, Flow, Web Architectures, Frontend Ops\
@@ -239,7 +236,7 @@ Topics: React, JavaScript, Flow, Web Architectures, Frontend Ops\
 
 ### Zwolle
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/NorbertdeLangen" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/NorbertdeLangen" height="70px" width="70px" align="left" alt="" />
 
 **Norbert de Langen**\
 Topics: Component Libraries, React, Storybook, Open Source, Communities\
@@ -249,7 +246,7 @@ Topics: Component Libraries, React, Storybook, Open Source, Communities\
 
 ### Poznań
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/tlakomy" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/tlakomy" height="70px" width="70px" align="left" alt="" />
 
 **Tomasz Łakomy**\
 Topics: React, Virtual Reality, jQuery\
@@ -259,13 +256,13 @@ Topics: React, Virtual Reality, jQuery\
 
 ### Lisbon
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sericaia" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/sericaia" height="70px" width="70px" align="left" alt="" />
 
 **Daniela Matos de Carvalho**\
 Topics: Web protocols, Web security, JavaScript, React, Node.js, Offline First\
 <https://twitter.com/sericaia>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/daviddias" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/daviddias" height="70px" width="70px" align="left" alt="" />
 
 **David Dias**\
 Topics: IPFS, Peer to Peer, JavaScript, Node.js\
@@ -275,7 +272,7 @@ Topics: IPFS, Peer to Peer, JavaScript, Node.js\
 
 ### Córdoba
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/javivelasco" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/javivelasco" height="70px" width="70px" align="left" alt="" />
 
 **Javi Velasco**\
 Topics: React, CSS in JS, React Toolbox\
@@ -285,7 +282,7 @@ Topics: React, CSS in JS, React Toolbox\
 
 ### Zurich
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/g33konaut" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/g33konaut" height="70px" width="70px" align="left" alt="" />
 
 **Martin Splitt**\
 Topics: Virtual Reality, Web Performance\
@@ -295,13 +292,13 @@ Topics: Virtual Reality, Web Performance\
 
 ### Brighton
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/adactio" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/adactio" height="70px" width="70px" align="left" alt="" />
 
 **Jeremy Keith**\
 Topics: Standards, Web Development, Web Design, CSS, Accessibility\
 <https://twitter.com/adactio>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/paulrobertlloyd" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/paulrobertlloyd" height="70px" width="70px" align="left" alt="" />
 
 **Paul Robert Lloyd**\
 Topics: Design, Web Design, Architecture, Design Systems, Trains\
@@ -311,7 +308,7 @@ Topics: Design, Web Design, Architecture, Design Systems, Trains\
 
 ### Ottawa
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/shehackspurple" height="70px" width="70px" align="left" alt="">
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/shehackspurple" height="70px" width="70px" align="left" alt="">
 
 **Tanya Janca**\
 Topics: InfoSec, Web App Security\
@@ -337,14 +334,14 @@ Topics: InfoSec, Web App Security\
 
 ### Objective-C / Git
 
-*   [ObjectivePGP (⭐614)](https://github.com/krzyzanowskim/ObjectivePGP) - ObjectivePGP is an implementation of OpenPGP protocol for iOS and macOS. OpenPGP is the most widely used email encryption standard.
+*   [ObjectivePGP (⭐634)](https://github.com/krzyzanowskim/ObjectivePGP) - ObjectivePGP is an implementation of OpenPGP protocol for iOS and macOS. OpenPGP is the most widely used email encryption standard.
 
 ## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Cryptography
 
 *   [Bcrypt](http://bcrypt.sourceforge.net/) - A cross platform file encryption utility. Encrypted files are portable across all supported operating systems and processors. \[BSD]
-*   [Crypto++ (⭐4k)](https://github.com/weidai11/cryptopp) - A free C++ class library of cryptographic schemes. \[Boost] [website](http://www.cryptopp.com/)
+*   [Crypto++ (⭐4.2k)](https://github.com/weidai11/cryptopp) - A free C++ class library of cryptographic schemes. \[Boost] [website](http://www.cryptopp.com/)
 *   [Libgcrypt](http://www.gnu.org/software/libgcrypt/) - A general purpose cryptographic library originally based on code from GnuPG. \[LGPLv2.1+]
 
 ## [14. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)

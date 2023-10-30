@@ -105,19 +105,19 @@
 
 ### Open Source / Featured
 
-*   [WebTorrent (⭐9.3k)](https://github.com/feross/webtorrent-app) - Streaming torrent client.
-*   [Visual Studio Code (⭐146k)](https://github.com/Microsoft/vscode) - Cross-platform IDE.
+*   [WebTorrent (⭐9.4k)](https://github.com/feross/webtorrent-app) - Streaming torrent client.
+*   [Visual Studio Code (⭐152k)](https://github.com/Microsoft/vscode) - Cross-platform IDE.
 
 ### Open Source / Other
 
-*   [Git-it (⭐4.4k)](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
+*   [Git-it (⭐4.5k)](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
 *   [Caprine (⭐6.7k)](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
-*   [Simplenote (⭐4.4k)](https://github.com/Automattic/simplenote-electron) - Note keeper.
+*   [Simplenote (⭐4.5k)](https://github.com/Automattic/simplenote-electron) - Note keeper.
 *   [Abricotine (⭐2.6k)](https://github.com/brrd/Abricotine) - Markdown editor with inline preview.
 *   [Medis (⭐11k)](https://github.com/luin/medis) - Redis database management.
-*   [SmartMirror (⭐2.7k)](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror.
+*   [SmartMirror (⭐2.8k)](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror.
 *   [Google Play Music Desktop Player (⭐8.3k)](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - Unofficial Google Play Music app.
-*   [Ansel (⭐377)](https://github.com/m0g/ansel) - Image organizer.
+*   [Ansel (⭐394)](https://github.com/m0g/ansel) - Image organizer.
 
 ### Closed Source / Other
 
@@ -127,12 +127,12 @@
 
 ### For Electron / Other
 
-*   [electron-is-dev (⭐408)](https://github.com/sindresorhus/electron-is-dev) - Check if Electron is running in development.
-*   [electron-localshortcut (⭐402)](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window.
+*   [electron-is-dev (⭐416)](https://github.com/sindresorhus/electron-is-dev) - Check if Electron is running in development.
+*   [electron-localshortcut (⭐409)](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window.
 *   [electron-dl (⭐1.1k)](https://github.com/sindresorhus/electron-dl) - Simplified file downloads.
-*   [electron-release-server (⭐1.8k)](https://github.com/ArekSredzki/electron-release-server) - Self-hosted release server with front-end & auto-updater support.
-*   [electron-download (⭐302)](https://github.com/electron-userland/electron-download) - Download the Electron release zip from GitHub.
-*   [ember-electron (⭐808)](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
+*   [electron-release-server (⭐1.9k)](https://github.com/ArekSredzki/electron-release-server) - Self-hosted release server with front-end & auto-updater support.
+*   [electron-download (⭐310)](https://github.com/electron-userland/electron-download) - Download the Electron release zip from GitHub.
+*   [ember-electron (⭐804)](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
 
 ### Using Electron / Other
 
@@ -141,7 +141,7 @@
 
 ### Components / Other
 
-*   [chrome-tabs (⭐1.6k)](https://github.com/adamschwartz/chrome-tabs) - Chrome like tabs.
+*   [chrome-tabs (⭐1.7k)](https://github.com/adamschwartz/chrome-tabs) - Chrome like tabs.
 
 ## [10. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 

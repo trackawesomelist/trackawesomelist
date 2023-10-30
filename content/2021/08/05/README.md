@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 05, 2021
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,7 +14,7 @@
 
 ## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Large Language Models / Text-related Generative Tools
+### Inbox: Large Language Models (LLMs) / Text-related Generative Tools
 
 *   [DeepStory](https://www.deepstory.ai/#!/): A tale of co-creation between man & machine
 
@@ -27,9 +27,15 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-datepicker-ui (⭐417)](https://github.com/edisdev/vue-datepicker-ui) - A datepicker component for vue.js
+*   [vue-datepicker-ui (⭐422)](https://github.com/edisdev/vue-datepicker-ui) - A datepicker component for vue.js
 
-## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Embedded Systems / Phoenix
+
+*   [Mastering the FreeRTOS Real Time Kernel - a Hands On Tutorial Guide](https://freertos.org/Documentation/RTOS_book.html) - freertos.org ([PDF](https://freertos.org/fr-content-src/uploads/2018/07/161204_Mastering_the_FreeRTOS_Real_Time_Kernel-A_Hands-On_Tutorial_Guide.pdf))
+
+## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Converters
 
@@ -39,23 +45,23 @@
 
 *   [crystal-bacnet (⭐0)](https://github.com/spider-gazelle/crystal-bacnet) - BACnet protocol implementation with BACnet/IP client
 
-## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [jakewvincent/texmagic.nvim (⭐40)](https://github.com/jakewvincent/texmagic.nvim) - Enhance the lspconfig settings for Texlab by defining any number of custom LaTeX build engines and selecting them with magic comments.
+*   [jakewvincent/texmagic.nvim (⭐50)](https://github.com/jakewvincent/texmagic.nvim) - Enhance the lspconfig settings for Texlab by defining any number of custom LaTeX build engines and selecting them with magic comments.
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Issue Tracking and Project Management
 
-*   [Hygger](https://hygger.io) — Project management platform. Free plan offers unlimited users,projects & boards with 100 MB Storage.
+*   [Hygger](https://hygger.io) — Project management platform. The free plan offers unlimited users, projects & boards with 100 MB of Storage.
 
 ### Remote Desktop Tools
 
 *   [Apache Guacamole™](https://guacamole.apache.org/) — Open source clientless remote desktop gateway
 
-## [7. Public Apis](/content/public-apis/public-apis/README.md)
+## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Finance
 

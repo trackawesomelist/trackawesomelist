@@ -10,7 +10,7 @@
 
 ### Audio Related Packages / Feature extraction
 
-*   [audioFlux (⭐1.4k)](https://github.com/libAudioFlux/audioFlux) [:octocat: (⭐1.4k)](https://github.com/libAudioFlux/audioFlux) [:package:](https://pypi.python.org/pypi/audioflux) - A library for audio and music analysis, feature extraction.
+*   [audioFlux (⭐1.8k)](https://github.com/libAudioFlux/audioFlux) [:octocat: (⭐1.8k)](https://github.com/libAudioFlux/audioFlux) [:package:](https://pypi.python.org/pypi/audioflux) - A library for audio and music analysis, feature extraction.
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Other Development Tools / Smart Contracts
 
-*   [TEALScript (⭐25)](https://github.com/algorand-devrel/TEALScript) - Enables Algorand smart contract development with native TypeScript syntax, tooling, and IDE support.
+*   [TEALScript (⭐38)](https://github.com/algorand-devrel/TEALScript) - Enables Algorand smart contract development with native TypeScript syntax, tooling, and IDE support.
 
 ## [5. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -97,7 +97,7 @@
 
 ### Search
 
-*   [Typesense Cloud](https://cloud.typesense.org/) - Open-source and hosted search as a Service.
+*   [Typesense Cloud](https://cloud.typesense.org/) - Open-source and hosted search as a Service. ![Typesense](https://img.shields.io/github/contributors-anon/typesense/typesense?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ### Shipping
 
@@ -114,22 +114,22 @@
 *   :newspaper: [Binary-code obfuscations in prevalent packer tools](https://dl.acm.org/doi/10.1145/2522968.2522972) (October 2013)  :star:
 *   :newspaper: [A close look at a daily dataset of malware samples](https://dl.acm.org/doi/10.1145/3291061) (January 2019)
 *   :notebook: [Ether: Malware analysis via hardware virtualization extensions](https://dl.acm.org/doi/10.1145/1455770.1455779) (October 2008)
-*   :newspaper: [File packing from the malware perspective: Techniques, analysis approaches, and directions for enhancements](https://dl.acm.org/doi/10.1145/3530810) (April 2022)  :star:
+*   :newspaper: [File packing from the malware perspective: Techniques, analysis approaches, and directions for enhancements](https://dl.acm.org/doi/10.1145/3530810) (December 2022)  :star: :star:
 *   :notebook: [SATURN - Software deobfuscation framework based on LLVM](https://dl.acm.org/doi/10.1145/3338503.3357721) (November 2019)  :star:
 *   :notebook: [SE-PAC: A self-evolving packer classifier against rapid packers evolution](https://dl.acm.org/doi/10.1145/3422337.3447848) (April 2021)  :star:
 *   :newspaper: [WYSINWYX: What you see is not what you execute](https://dl.acm.org/doi/10.1145/1749608.1749612) (August 2010)
 
 ## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Large Language Models / Contribute to Our Repository
+### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
-*   [Haystack (⭐8.9k)](https://github.com/deepset-ai/haystack): framework for building applications with LLMs and Transformers (e.g. agents, semantic search, question-answering)
+*   [Haystack (⭐11k)](https://github.com/deepset-ai/haystack): framework for building applications with LLMs and Transformers (e.g. agents, semantic search, question-answering)
 
-### Inbox: Large Language Models / Text-related Generative Tools
+### Inbox: Large Language Models (LLMs) / Text-related Generative Tools
 
 *   [Taskade](https://taskade.com/): Taskade is an AI outliner and mind map generator for teams with built-in AI chat
 
-### Inbox: Developing + AI / Generative Adversarial Networks (GANs)
+### Inbox: DEV + AI / Generative Adversarial Networks (GANs)
 
 *   [Reduce costs when prompting using GPT](https://www.codium.ai/blog/reduce-your-costs-by-30-when-using-gpt-3-for-python-code/)
 
@@ -155,20 +155,20 @@
 
 ### Projects
 
-*   [Spaceman (⭐218)](https://github.com/eliaperantoni/spaceman) - Spaceman is a cross-platform gRPC client designed to be pleasant to use and pretty to look at.
+*   [Spaceman (⭐351)](https://github.com/eliaperantoni/spaceman) - Spaceman is a cross-platform gRPC client designed to be pleasant to use and pretty to look at.
 
 ## [12. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Log Management
 
 *   [Fluentd](https://www.fluentd.org/) - Data collector for unified logging layer. ([Source Code (⭐12k)](https://github.com/fluent/fluentd)) `Apache-2.0` `Ruby`
-*   [GoAccess](https://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ([Source Code (⭐16k)](https://github.com/allinurl/goaccess)) `MIT` `C`
+*   [GoAccess](https://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ([Source Code (⭐17k)](https://github.com/allinurl/goaccess)) `MIT` `C`
 
 ## [13. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Extensions / Community
 
-*   [Field Actions (⭐48)](https://github.com/utomic-media/directus-extension-field-actions) - Adds copy to clipboard and open URL's action-buttons to fields (interface + display).
+*   [Field Actions (⭐69)](https://github.com/utomic-media/directus-extension-field-actions) - Adds copy to clipboard and open URL's action-buttons to fields (interface + display).
 
 ## [14. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

@@ -205,14 +205,14 @@ git log --show-notes='*'
 
 ### Applications / Episodes
 
-*   [CANToolz (⭐298)](https://github.com/eik00d/CANToolz) - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline.
+*   [CANToolz (⭐300)](https://github.com/eik00d/CANToolz) - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline.
 *   [BUSMASTER](https://rbei-etas.github.io/busmaster/) -An Open Source tool to simulate, analyze and test data bus systems such as CAN, LIN, FlexRay.
 
 ## [18. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Other
 
-*   [shrinkpack (⭐791)](https://github.com/JamieMason/shrinkpack) - Lock down your dependencies and install offline.
+*   [shrinkpack (⭐792)](https://github.com/JamieMason/shrinkpack) - Lock down your dependencies and install offline.
 
 ## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -379,7 +379,7 @@ git log --show-notes='*'
 
 ### Date
 
-*   [DateHelper (⭐1.4k)](https://github.com/melvitax/DateHelper) - Simple date helper.
+*   [DateHelper (⭐1.5k)](https://github.com/melvitax/DateHelper) - Simple date helper.
 
 ## [35. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -411,13 +411,13 @@ git log --show-notes='*'
 
 ### Software / Python
 
-*   [PyGraphistry (⭐1.8k)](https://github.com/graphistry/pygraphistry) - Python library to extract, transform, and visually explore big graphs.
+*   [PyGraphistry (⭐1.9k)](https://github.com/graphistry/pygraphistry) - Python library to extract, transform, and visually explore big graphs.
 
 ## [39. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Parsing
 
-*   [ref (⭐434)](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
+*   [ref (⭐444)](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
 
 ## [40. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -427,20 +427,20 @@ git log --show-notes='*'
 
 ### Framework Components
 
-*   [filterable (⭐100)](https://github.com/omohokcoj/filterable) - Simple query params filtering for Phoenix framework inspired by Rails has\_scope.
+*   [filterable (⭐103)](https://github.com/omohokcoj/filterable) - Simple query params filtering for Phoenix framework inspired by Rails has\_scope.
 
 ### ORM and Datamapping
 
-*   [paper\_trail (⭐516)](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
+*   [paper\_trail (⭐525)](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
 
 ### Testing
 
-*   [exkorpion (⭐29)](https://github.com/wesovilabs/exkorpion) - A BDD library for Elixir developers.
-*   [ignorant (⭐13)](https://github.com/campezzi/ignorant) - Partial `Map` comparison that ensures fields are present while ignoring their values.
+*   [exkorpion (⭐30)](https://github.com/wesovilabs/exkorpion) - A BDD library for Elixir developers.
+*   [ignorant (⭐14)](https://github.com/campezzi/ignorant) - Partial `Map` comparison that ensures fields are present while ignoring their values.
 
 ### Text and Numbers
 
-*   [ex\_uc (⭐19)](https://github.com/carturoch/ex_uc) - Extensible Units Converter for Elixir.
+*   [ex\_uc (⭐20)](https://github.com/carturoch/ex_uc) - Extensible Units Converter for Elixir.
 
 ### Third Party APIs
 
@@ -492,11 +492,11 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 *   [wagtail-readability (⭐15)](https://github.com/takeflight/wagtail-readability) - Test how readable the content you enter into Wagtail is.
 *   [wagtailembedder (⭐37)](https://github.com/springload/wagtailembedder) - Snippets embedder for Wagtail richtext fields.
-*   [Wagtail TinyMCE (⭐43)](https://github.com/isotoma/wagtailtinymce) - A TinyMCE editor integration for Wagtail.
+*   [Wagtail TinyMCE (⭐44)](https://github.com/isotoma/wagtailtinymce) - A TinyMCE editor integration for Wagtail.
 
 ### Apps / StreamField
 
-*   [Wagtail Commonblocks (⭐40)](https://github.com/springload/wagtailblocks) - Common StreamField blocks for Wagtail.
+*   [Wagtail Commonblocks (⭐39)](https://github.com/springload/wagtailblocks) - Common StreamField blocks for Wagtail.
 *   [Wagtail SVGmap (⭐13)](https://github.com/City-of-Helsinki/wagtail-svgmap) - ImageMap functionality for Wagtail through inline SVGs.
 
 ### Apps / Settings management
@@ -513,23 +513,23 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 ### Apps / Media
 
-*   [wagtailmedia (⭐190)](https://github.com/torchbox/wagtailmedia) - A Wagtail module for managing video and audio files within the admin.
+*   [wagtailmedia (⭐201)](https://github.com/torchbox/wagtailmedia) - A Wagtail module for managing video and audio files within the admin.
 
 ### Apps / Translations
 
-*   [Wagtail Modeltranslation (⭐144)](https://github.com/infoportugal/wagtail-modeltranslation) - Simple app containing a mixin model that integrates [django-modeltranslation (⭐1.2k)](https://github.com/deschler/django-modeltranslation) into Wagtail panels system.
+*   [Wagtail Modeltranslation (⭐148)](https://github.com/infoportugal/wagtail-modeltranslation) - Simple app containing a mixin model that integrates [django-modeltranslation (⭐1.2k)](https://github.com/deschler/django-modeltranslation) into Wagtail panels system.
 
 ### Apps / Testing
 
-*   [wagtail-linkchecker (⭐47)](https://github.com/takeflight/wagtail-linkchecker) - A tool to assist with finding broken links on your Wagtail site.
+*   [wagtail-linkchecker (⭐48)](https://github.com/takeflight/wagtail-linkchecker) - A tool to assist with finding broken links on your Wagtail site.
 
 ### Apps / Misc
 
-*   [Wagtail Themes (⭐90)](https://github.com/moorinteractive/wagtail-themes) - Site-specific theme loader for Wagtail.
+*   [Wagtail Themes (⭐89)](https://github.com/moorinteractive/wagtail-themes) - Site-specific theme loader for Wagtail.
 
 ### Tools / Templates & Starter Kits
 
-*   [Wagtail Cookiecutter Foundation (⭐162)](https://github.com/chrisdev/wagtail-cookiecutter-foundation) - A Cookiecutter template for Wagtail CMS using Zurb Foundation 6.
+*   [Wagtail Cookiecutter Foundation (⭐163)](https://github.com/chrisdev/wagtail-cookiecutter-foundation) - A Cookiecutter template for Wagtail CMS using Zurb Foundation 6.
 
 ## [44. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -545,7 +545,7 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 ### Frameworks, Libraries and Tools / API
 
-*   [autorest (⭐4k)](https://github.com/Azure/autorest) - Swagger (OpenAPI) Specification code generator featuring C# and Razor templates. Supports C#, Java, Node.js, TypeScript, Python and Ruby. `4.5.x or above`
+*   [autorest (⭐4.3k)](https://github.com/Azure/autorest) - Swagger (OpenAPI) Specification code generator featuring C# and Razor templates. Supports C#, Java, Node.js, TypeScript, Python and Ruby. `4.5.x or above`
 
 ### Frameworks, Libraries and Tools / Bundling and Minification
 
@@ -553,7 +553,7 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 ### Frameworks, Libraries and Tools / ORM
 
-*   [NPoco (⭐808)](https://github.com/schotime/NPoco) - Simple microORM that maps the results of a query onto a POCO object. Project based on Schotime's branch of PetaPoco.
+*   [NPoco (⭐829)](https://github.com/schotime/NPoco) - Simple microORM that maps the results of a query onto a POCO object. Project based on Schotime's branch of PetaPoco.
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
@@ -561,17 +561,17 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 ### Frameworks, Libraries and Tools / Serialization
 
-*   [Channels (⭐290)](https://github.com/davidfowl/Channels) - Push based .NET Streams.
+*   [Channels (⭐291)](https://github.com/davidfowl/Channels) - Push based .NET Streams.
 
 ### Starter Kits / Workflow
 
-*   [react-aspnet-boilerplate (⭐284)](https://github.com/pauldotknopf/react-aspnet-boilerplate) - Starting point for building isomorphic React applications with ASP.NET Core 1, leveraging existing techniques.
+*   [react-aspnet-boilerplate (⭐287)](https://github.com/pauldotknopf/react-aspnet-boilerplate) - Starting point for building isomorphic React applications with ASP.NET Core 1, leveraging existing techniques.
 
 ## [46. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Web Frameworks
 
-*   [FubuMVC (⭐421)](https://github.com/DarthFubuMVC/fubumvc) - A front-controller style MVC framework for .NET
+*   [FubuMVC (⭐423)](https://github.com/DarthFubuMVC/fubumvc) - A front-controller style MVC framework for .NET
 
 ---
 

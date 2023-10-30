@@ -10,17 +10,17 @@
 
 ### Database
 
-*   [BrightstarDb (⭐452)](https://github.com/BrightstarDB/BrightstarDB) - BrightstarDB is a native .NET RDF triple store
+*   [BrightstarDb (⭐455)](https://github.com/BrightstarDB/BrightstarDB) - BrightstarDB is a native .NET RDF triple store
 
 ### MVVM
 
-*   [Caliburn.Micro (⭐2.6k)](https://github.com/Caliburn-Micro/Caliburn.Micro) - A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV\* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability.
+*   [Caliburn.Micro (⭐2.7k)](https://github.com/Caliburn-Micro/Caliburn.Micro) - A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV\* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability.
 
 ### Serialization
 
 *   [Json.NET (⭐10k)](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
 *   [ServiceStack.Text (⭐1.2k)](https://github.com/ServiceStack/ServiceStack.Text) - JSON, JSV and CSV Text Serializers used in servicestack.net
-*   [Msgpack-Cli (⭐798)](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure
+*   [Msgpack-Cli (⭐810)](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure
 
 ## [2. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
 

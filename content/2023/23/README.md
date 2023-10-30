@@ -17,7 +17,7 @@
 
 ### Crates / Utils
 
-*   [turf (⭐5)](https://github.com/myFavShrimp/turf) - Macro based compile-time SCSS transpilation, CSS minification, and class name uniquification toolchain inspired by CSS modules.
+*   [turf (⭐9)](https://github.com/myFavShrimp/turf) - Macro based compile-time SCSS transpilation, CSS minification, and class name uniquification toolchain inspired by CSS modules.
 
 ## [3. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
@@ -29,7 +29,7 @@
 
 ### Awesome TypeScript Essential Resources
 
-*   :octocat: [Codebook (⭐2)](https://github.com/gvanastasov/codebook-typescript) read and run small code snippets to progressively learn TypeScript from the basic to advanced concepts.
+*   :octocat: [Codebook (⭐3)](https://github.com/gvanastasov/codebook-typescript) read and run small code snippets to progressively learn TypeScript from the basic to advanced concepts.
 
 ## [5. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
@@ -67,7 +67,7 @@
 ### Engineering / Systems Complexity
 
 *   [Living with Complexity, by Donald A. Norman](https://www.amazon.com/Living-Complexity-Donald-Norman-2010/dp/B00DEKM5GK?_encoding=UTF8\&qid=1686404524\&sr=1-1\&linkCode=ll1\&tag=kevideld-20\&linkId=497ae387bbd398624d897bdfbf90f7b6\&language=en_US\&ref_=as_li_ss_tl) - In which we learn that, based on [Tesler's law of the conservation of complexity](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity), “the total complexity of a system is a constant: as you make the person's interaction simpler, the hidden complexity behind the scenes increases. Make one part of the system simpler, said Tesler, and the rest of the system gets more complex.”
-*   [The Efficiency-Destroying Magic of Tidying Up](https://flocrivello.com/the-efficiency-destroying-magic-of-tidying-up/) - “Efficiency tends to look messy, and good looks tend to be inefficient.” A reminder that sometimes we should just accept [the messiness of the world (⭐21k)](https://github.com/kdeldycke/awesome-falsehood).
+*   [The Efficiency-Destroying Magic of Tidying Up](https://flocrivello.com/the-efficiency-destroying-magic-of-tidying-up/) - “Efficiency tends to look messy, and good looks tend to be inefficient.” A reminder that sometimes we should just accept [the messiness of the world (⭐22k)](https://github.com/kdeldycke/awesome-falsehood).
 
 ### Engineering / Engineering Practices
 
@@ -108,7 +108,7 @@
 
 ### Communication / Style
 
-*   [JStylo & Anonymouth (⭐9)](https://github.com/spencermwoo/anonymouth) - Authorship attribution analysis tool and evasion (anonymization) framework.
+*   [JStylo & Anonymouth (⭐10)](https://github.com/spencermwoo/anonymouth) - Authorship attribution analysis tool and evasion (anonymization) framework.
 
 ### Communication / Presentations
 
@@ -124,22 +124,22 @@
 
 ## [6. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
-### Authentication / Multi-Factor
+### Multi-factor auth / Identifiers
 
 *   [A Comparative Long-Term Study of Fallback Authentication](https://maximiliangolla.com/files/2019/papers/usec2019-30-wip-fallback-long-term-study-finalv5.pdf) - Key take-away: “schemes based on email and SMS are more usable. Mechanisms based on designated trustees and personal knowledge questions, on the other hand, fall short, both in terms of convenience and efficiency.”
 
-### Authentication / OAuth2 & OpenID
-
-*   [PKCE Explained](https://www.loginradius.com/blog/engineering/pkce/) - “PKCE is used to provide one more security layer to the authorization code flow in OAuth and OpenID Connect.”
-*   [OAuth 2.0 and the Road to Hell](https://gist.github.com/nckroy/dd2d4dfc86f7d13045ad715377b6a48f) - The resignation letter from the lead author and editor of the Oauth 2.0 specification.
-
 ### Authorization / AWS policy tools
 
-*   [IAMbic (⭐134)](https://github.com/noqdev/iambic) - GitOps for IAM. The Terraform of Cloud IAM. IAMbic is a multi-cloud identity and access management (IAM) control plane that centralizes and simplifies cloud access and permissions. It maintains an eventually consistent, human-readable, bi-directional representation of IAM in version control.
+*   [IAMbic (⭐251)](https://github.com/noqdev/iambic) - GitOps for IAM. The Terraform of Cloud IAM. IAMbic is a multi-cloud identity and access management (IAM) control plane that centralizes and simplifies cloud access and permissions. It maintains an eventually consistent, human-readable, bi-directional representation of IAM in version control.
 
 ### Authorization / Macaroons
 
 *   [Google's Macaroons in Five Minutes or Less](https://blog.bren2010.io/blog/googles-macaroons) - If I'm given a Macaroon that authorizes me to perform some action(s) under certain restrictions, I can non-interactively build a second Macaroon with stricter restrictions that I can then give to you.
+
+### OAuth2 & OpenID / Macaroons
+
+*   [PKCE Explained](https://www.loginradius.com/blog/engineering/pkce/) - “PKCE is used to provide one more security layer to the authorization code flow in OAuth and OpenID Connect.”
+*   [OAuth 2.0 and the Road to Hell](https://gist.github.com/nckroy/dd2d4dfc86f7d13045ad715377b6a48f) - The resignation letter from the lead author and editor of the Oauth 2.0 specification.
 
 ### Trust & Safety / Moderation
 
@@ -159,13 +159,19 @@
 
 *   [Docker Blog](https://www.docker.com/blog/) - regular updates about Docker, the community and tools
 
-## [8. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [8. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/week/README.md)
+
+### Useful Stack Overflow questions & answers
+
+*   [GitHub Wiki doesn't support HTML tables anymore?](https://stackoverflow.com/questions/45657579/github-wiki-doesnt-support-html-tables-anymore)
+
+## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
 *   [Dev Employ](https://devemploy.com) Hand-picked developer jobs
 
-## [9. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [10. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Marketplace / Cloud Resources
 
@@ -188,7 +194,7 @@
 
 ### Payments / Credit Cards
 
-*   [pci-blackbox (⭐0)](https://github.com/pjfoley/pci-blackbox) - PCI-DSS compliant card system built on PostgreSQL and PL/pgSQL.
+*   [pci-blackbox (⭐1)](https://github.com/pjfoley/pci-blackbox) - PCI-DSS compliant card system built on PostgreSQL and PL/pgSQL.
 
 ### UX/UI / Billing
 
@@ -211,56 +217,56 @@
 
 *   [Detax](https://detax.framer.website) - A site mockup of an tax avoidance product for small businesses.
 
-## [10. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [11. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### For Electron / Other
 
 *   [Hydraulic Conveyor](https://hydraulic.dev) - CLI tool that deploys apps without needing any special update servers, multi-platform CI, or code changes.
 
-## [11. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [12. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Maps in the Wild
 
 *   [What do I use maps for?](https://blog.gardeviance.org/2023/06/what-do-i-use-maps-for.html) - Simon Wardley lists a range of examples. Jun 08, 2023.
 
-## [12. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [13. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Blog posts
 
-*   [Pandas vs Polars – Speed Comparison](https://stuffbyyuki.com/pandas-vs-polars-speed-comparison/) - A blog post that compares the performance of Polars, Pandas and Pandas 2.0 by [@StuffbyYuki](https://github.com/StuffbyYuki). Code used is available on Github [here (⭐2)](https://github.com/StuffbyYuki/Python-Polars-Tips-and-Tricks/tree/main/pandas_vs_polars).
-*   [LazyFrame vs DataFrame in Polars – Performance Comparison](https://stuffbyyuki.com/lazyframe-vs-dataframe-in-polars-performance-comparison/) - A blog post that introduces what LazyFrame is in Polars and its performance gain compared to DataFrame by [@StuffbyYuki](https://github.com/StuffbyYuki). Code used is available on Github [here (⭐2)](https://github.com/StuffbyYuki/Python-Polars-Tips-and-Tricks/tree/main/lazyframe_vs_dataframe).
+*   [Pandas vs Polars – Speed Comparison](https://stuffbyyuki.com/pandas-vs-polars-speed-comparison/) - A blog post that compares the performance of Polars, Pandas and Pandas 2.0 by [@StuffbyYuki](https://github.com/StuffbyYuki). Code used is available on Github [here (⭐7)](https://github.com/StuffbyYuki/Python-Polars-Tips-and-Tricks/tree/main/pandas_vs_polars).
+*   [LazyFrame vs DataFrame in Polars – Performance Comparison](https://stuffbyyuki.com/lazyframe-vs-dataframe-in-polars-performance-comparison/) - A blog post that introduces what LazyFrame is in Polars and its performance gain compared to DataFrame by [@StuffbyYuki](https://github.com/StuffbyYuki). Code used is available on Github [here (⭐7)](https://github.com/StuffbyYuki/Python-Polars-Tips-and-Tricks/tree/main/lazyframe_vs_dataframe).
 
-## [13. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [14. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Open Source Projects / Knowledge Management
 
-*   [Anything LLM (⭐376)](https://github.com/Mintplex-Labs/anything-llm): A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces. ![GitHub Repo stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social)
+*   [Anything LLM (⭐2.5k)](https://github.com/Mintplex-Labs/anything-llm): A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces. ![GitHub Repo stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [Cheshire Cat (⭐686)](https://github.com/cheshire-cat-ai/core): Custom AGI boT with ready-to-use chat integration and plugins development platform. ![GitHub Repo stars](https://img.shields.io/github/stars/cheshire-cat-ai/core?style=social)
-*   [Got Chaat Bot (⭐3)](https://github.com/parker84/GoT-chat-bot): Repo for creating GoT Chatbots (ex: talk with Tyrion Lannister) ![GitHub Repo stars](https://img.shields.io/github/stars/parker84/GoT-chat-bot?style=social)
+*   [Cheshire Cat (⭐917)](https://github.com/cheshire-cat-ai/core): Custom AGI boT with ready-to-use chat integration and plugins development platform. ![GitHub Repo stars](https://img.shields.io/github/stars/cheshire-cat-ai/core?style=social)
+*   [Got Chaat Bot (⭐11)](https://github.com/parker84/GoT-chat-bot): Repo for creating GoT Chatbots (ex: talk with Tyrion Lannister) ![GitHub Repo stars](https://img.shields.io/github/stars/parker84/GoT-chat-bot?style=social)
 
-### Alternatives / Articles
+### Other LLM Frameworks / Videos Playlists
 
-*   [ReLLM](https://github.com/r2d4/rellm): Regular Expressions for Language Model Completions. ![GitHub Repo stars](https://img.shields.io/github/stars/r2d4/rellm?style=social)
-*   [OpenDAN (⭐744)](https://github.com/fiatrete/OpenDAN-Personal-AI-OS): open source Personal AI OS , which consolidates various AI modules in one place for your personal use. ![GitHub Repo stars](https://img.shields.io/github/stars/fiatrete/OpenDAN-Personal-AI-OS?style=social)
+*   [ReLLM (⭐427)](https://github.com/r2d4/rellm): Regular Expressions for Language Model Completions. ![GitHub Repo stars](https://img.shields.io/github/stars/r2d4/rellm?style=social)
+*   [OpenDAN (⭐1.3k)](https://github.com/fiatrete/OpenDAN-Personal-AI-OS): open source Personal AI OS , which consolidates various AI modules in one place for your personal use. ![GitHub Repo stars](https://img.shields.io/github/stars/fiatrete/OpenDAN-Personal-AI-OS?style=social)
 
-## [14. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [15. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Style
 
-*   [perfectionist sorting (⭐128)](https://github.com/azat-io/eslint-plugin-perfectionist) - Sort objects, imports, TypeScript types, enums, JSX props, etc.
+*   [perfectionist sorting (⭐834)](https://github.com/azat-io/eslint-plugin-perfectionist) - Sort objects, imports, TypeScript types, enums, JSX props, etc.
 
-## [15. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [16. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Playbooks, Roles and Collections / French
 
 *   [redhat-cop](https://github.com/search?q=topic%3Aansible+org%3Aredhat-cop\&type=Repositories\&s=updated\&o=desc) - Repositories with ansible topic of the Red Hat Communities of Practice project.
 
-## [16. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
+## [17. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [How to Deliver More Software Projects on Time](https://www.inc.com/mark-suster/how-to-deliver-more-software-projects-on-time.html) - By [Mark Suster](https://www.linkedin.com/in/marksuster/).
 *   [Shipping is a Feature: Some Guiding Principles for People That Build Things](https://a16z.com/2014/04/16/shipping-is-a-feature-some-guiding-principals-for-people-that-build-things/) - By [Michael Copeland](https://www.linkedin.com/in/mcopeland/).
@@ -273,67 +279,63 @@
 *   [Quality is not a tradeoff](https://medium.com/the-year-of-the-looking-glass/quality-is-not-a-tradeoff-bcddf7c85553) - By [Julie Zhuo](https://www.juliezhuo.com/).
 *   [The work is never just “the work”](https://davestewart.co.uk/blog/the-work-is-never-just-the-work/) - By [Dave Stewart](https://davestewart.co.uk/).
 
-## [17. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [18. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Interpreters/Compilers
 
 *   [vfuck (⭐1)](https://github.com/ShayokhShorfuddin/VFuck) - A brainfuck interpreter written in V.
 
-## [18. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [19. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Cryptocurrencies
 
-*   [artemis (⭐1.3k)](https://github.com/paradigmxyz/artemis) - A simple, modular, and fast framework for writing MEV bots in Rust.
-*   [svm-rs (⭐146)](https://github.com/alloy-rs/svm-rs) - Solidity-Compiler Version Manager.
+*   [artemis (⭐1.7k)](https://github.com/paradigmxyz/artemis) - A simple, modular, and fast framework for writing MEV bots in Rust.
+*   [svm-rs (⭐181)](https://github.com/alloy-rs/svm-rs) - Solidity-Compiler Version Manager.
 
 ### Applications / Database
 
-*   [Neon (⭐8.4k)](https://github.com/neondatabase/neon) Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
+*   [Neon (⭐10k)](https://github.com/neondatabase/neon) Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 
 ### Applications / Utilities
 
-*   [nix-community/nix-melt (⭐109)](https://github.com/nix-community/nix-melt) — A ranger-like flake.lock viewer [![build-badge](https://github.com/nix-community/nix-melt/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nix-melt/actions/workflows/ci.yml)
+*   [nix-community/nix-melt (⭐145)](https://github.com/nix-community/nix-melt) — A ranger-like flake.lock viewer [![build-badge](https://github.com/nix-community/nix-melt/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nix-melt/actions/workflows/ci.yml)
 
 ### Development tools / Deployment
 
-*   [MarcoIeni/release-plz (⭐183)](https://github.com/MarcoIeni/release-plz) \[[release-plz](https://crates.io/crates/release-plz)] — Release Rust crates from CI, with changelog generation and semver check. [![build badge](https://github.com/MarcoIeni/release-plz/workflows/CI/badge.svg)](https://github.com/MarcoIeni/release-plz/actions)
+*   [MarcoIeni/release-plz (⭐389)](https://github.com/MarcoIeni/release-plz) \[[release-plz](https://crates.io/crates/release-plz)] — Release Rust crates from CI, with changelog generation and semver check. [![build badge](https://github.com/MarcoIeni/release-plz/workflows/CI/badge.svg)](https://github.com/MarcoIeni/release-plz/actions)
 
-### Libraries / Scripting
-
-*   [KusionStack/kcl (⭐575)](https://github.com/KusionStack/kcl) - A constraint-based record & functional language mainly used in configuration and policy scenarios.
-
-## [19. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [20. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Command-Line Tools / Discovery
 
-*   [nix-melt (⭐109)](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer.
+*   [nix-melt (⭐145)](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer.
 
-## [20. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [21. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
 
-*   [A survey of Generative AI Applications | arxiv](https://arxiv.org/abs/2306.02781): "rur survey aims to serve as a valuable resource for researchers and practitioners to navigate the rapidly expanding landscape of generative AI"
+*   [A survey of Generative AI Applications | arxiv](https://arxiv.org/abs/2306.02781): "this survey aims to serve as a valuable resource for researchers and practitioners to navigate the rapidly expanding landscape of generative AI"
 
-### Inbox: Large Language Models / Contribute to Our Repository
+### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
 *   [Falcon LLM - Home](https://falconllm.tii.ae/): a foundational large language model (LLM) with 40 billion parameters trained on one trillion tokens shared by Technology Innovation Institute from Abu Dhabi
 
 ### Hypertechniques / Deforum
 
 *   \[🔥🔥🔥] [Parseq](https://sd-parseq.web.app): parameter sequencer for Stable Diffusion [\[Youtube Tutorials\]](https://www.youtube.com/playlist?list=PLXbx1PHKHwIHsYFfb5lq2wS8g1FKz6aP8)
-*   [deforum-art/sd-webui-deforum (⭐1.6k)](https://github.com/deforum-art/sd-webui-deforum): Deforum extension for AUTOMATIC1111's Stable Diffusion webui [\[wiki docs\] (⭐1.6k)](https://github.com/deforum-art/sd-webui-deforum/wiki)
+*   [deforum-art/sd-webui-deforum (⭐2.2k)](https://github.com/deforum-art/sd-webui-deforum): Deforum extension for AUTOMATIC1111's Stable Diffusion webui [\[wiki docs\] (⭐2.2k)](https://github.com/deforum-art/sd-webui-deforum/wiki)
 
-## [21. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [22. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Scripting
 
-*   [pocketpy (⭐984)](https://github.com/blueloveTH/pocketpy) - C++17 header-only Python interpreter for game scripting. \[MIT] [website](https://pocketpy.dev/)
+*   [pocketpy (⭐1.1k)](https://github.com/blueloveTH/pocketpy) - C++17 header-only Python interpreter for game scripting. \[MIT] [website](https://pocketpy.dev/)
 
-## [22. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
+## [23. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
 ### Development / Frameworks and Libraries
 
-*   [Spaces VR (⭐155)](https://github.com/musehq/spacesvr) - A front end framework for quickly creating VR websites built on react-three-fiber.
+*   [Spaces VR (⭐166)](https://github.com/musehq/spacesvr) - A front end framework for quickly creating VR websites built on react-three-fiber.
 
 ### Monetization / Other
 
@@ -344,29 +346,29 @@
 *   [Voxels](https://www.voxels.com/) - A virtual world powered by Ethereum where players can buy land, build stores, display art, and more.
 *   [Ozone Metaverse](https://ozonemetaverse.io/) - A spatial computing cloud platform offering world creation tools with Web3 integrations and monetization.
 
-## [23. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [24. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Action
 
-*   [re3 (⭐169)](https://github.com/halpz/re3) - Reversed source code for GTA III and GTA: Vice City.
+*   [re3 (⭐225)](https://github.com/halpz/re3) - Reversed source code for GTA III and GTA: Vice City.
 
-## [24. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [25. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Others
 
-*   [BlazorSSR (⭐2)](https://github.com/danroth27/BlazorSSR) - ![stars](https://img.shields.io/github/stars/danroth27/BlazorSSR?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/danroth27/BlazorSSR?style=flat-square\&cacheSeconds=86400) Server-side rendering (SSR) with Blazor components, by Steve Sanderson.
+*   [BlazorSSR (⭐7)](https://github.com/danroth27/BlazorSSR) - ![stars](https://img.shields.io/github/stars/danroth27/BlazorSSR?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/danroth27/BlazorSSR?style=flat-square\&cacheSeconds=86400) Server-side rendering (SSR) with Blazor components, by Steve Sanderson.
 
 ### Articles / Others
 
 *   [8 Free and Open Source Blazor UI Libraries](https://www.claudiobernasconi.ch/2023/05/25/8-free-and-open-source-blazor-ui-libraries) - May 25, 2023 - List of available free and open-source user interface libraries for Blazor development.
 
-## [25. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [26. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Multimedia and File Formats / Directory Navigation
 
 *   [jc (⭐6.3k)](https://github.com/kellyjonbrazil/jc) - Convert command output, file-types, and common strings to JSON or YAML for easier use in scripts.
 
-## [26. Awesome Vala](/content/desiderantes/awesome-vala/week/README.md)
+## [27. Awesome Vala](/content/desiderantes/awesome-vala/week/README.md)
 
 ### Apps / Productivity
 
@@ -375,31 +377,30 @@
 *   [Outliner (⭐53)](https://github.com/phase1geo/Outliner) - Write outlines easily.
 *   [TextShine (⭐15)](https://github.com/phase1geo/TextShine) - Convert and manipulate text.
 
-## [27. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [28. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Menu Bar Tools
 
 *   [TextSniper](https://textsniper.app/) - Simple yet powerful OCR app in your Menu Bar. Instantly copy and paste text from anywhere. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1528890965)
 
-## [28. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [29. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-generate-html (⭐0)](https://github.com/gedouu/vite-plugin-generate-html) - Define separate output files for JavaScript and CSS bundles.
+*   [vite-plugin-generate-html (⭐5)](https://github.com/gedouu/vite-plugin-generate-html) - Define separate output files for JavaScript and CSS bundles.
 
 ### Vue / Integrations
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue (⭐229)](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue) - Official Vue 3 support.
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue-jsx (⭐229)](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
-*   ![v2](https://img.shields.io/badge/-v2-42b883) [@vitejs/plugin-vue2 (⭐466)](https://github.com/vitejs/vite-plugin-vue2) - Official Vue 2 support.
-*   ![v2](https://img.shields.io/badge/-v2-42b883) [@vitejs/plugin-vue2-jsx (⭐41)](https://github.com/vitejs/vite-plugin-vue2-jsx) - Official Vue 2 JSX support.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue-jsx (⭐319)](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [@vitejs/plugin-vue2 (⭐495)](https://github.com/vitejs/vite-plugin-vue2) - Official Vue 2 support.
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [@vitejs/plugin-vue2-jsx (⭐47)](https://github.com/vitejs/vite-plugin-vue2-jsx) - Official Vue 2 JSX support.
 
 ### React / Official
 
-*   [@vitejs/plugin-react (⭐298)](https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react) - Official React support that uses Babel.
-*   [@vitejs/plugin-react-swc (⭐467)](https://github.com/vitejs/vite-plugin-react-swc) - Official React support that uses SWC.
+*   [@vitejs/plugin-react (⭐377)](https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react) - Official React support that uses Babel.
+*   [@vitejs/plugin-react-swc (⭐575)](https://github.com/vitejs/vite-plugin-react-swc) - Official React support that uses SWC.
 
-## [29. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [30. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### General Search
 
@@ -423,7 +424,7 @@
 
 ### Language Tools / Telegram
 
-*   see the [Awesome Translations list (⭐79)](https://github.com/mbiesiad/awesome-translations#tools)
+*   see the [Awesome Translations list (⭐87)](https://github.com/mbiesiad/awesome-translations#tools)
 
 ### Image Search / Telegram
 
@@ -435,71 +436,67 @@
 *   [PhotoBucket](https://photobucket.com)
 *   [PimEyes](https://pimeyes.com) - an online face search engine that goes through the Internet to find pictures containing given faces.
 
-### Stock Images / Telegram
-
-*   See the [Awesome Stock Resources (⭐12k)](https://github.com/neutraltone/awesome-stock-resources) list.
-
-## [30. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
+## [31. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
 
 ### Development tools
 
 *   [Small-C Toolkit](https://github.com/humbertocsjr/Small-C.git) - A self-hosting Small-C Compiler Toolkit for DOS(8086) with: K\&R C Compiler, Make, Linker, Assembler. First released in 1982 by Jim E. Hendrix.
 
-## [31. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [32. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Libraries / Python
 
-*   [gtfs-segments (⭐11)](https://github.com/UTEL-UIUC/gtfs_segments) - Python package that represents GTFS data for buses in a concise tabular manner using segments.
+*   [gtfs-segments (⭐12)](https://github.com/UTEL-UIUC/gtfs_segments) - Python package that represents GTFS data for buses in a concise tabular manner using segments.
 
 ### GTFS Timetable Publishing Tools / Ruby
 
-*   [Timetable Kit (⭐19)](https://github.com/neroden/timetable_kit) - An open source Python 3.10 module and scripts depending on [GTFS Kit (⭐5)](https://github.com/mrcagney/gtfs_kit), designed to create complex printed/PDF timetables with flexible layouts. Currently only working out of the box for Amtrak's GTFS, but under active development.
+*   [Timetable Kit (⭐20)](https://github.com/neroden/timetable_kit) - An open source Python 3.10 module and scripts depending on [GTFS Kit (⭐12)](https://github.com/mrcagney/gtfs_kit), designed to create complex printed/PDF timetables with flexible layouts. Currently only working out of the box for Amtrak's GTFS, but under active development.
 
-## [32. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [33. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Collaborative Web Editors
 
 *   [CryptPad](https://cryptpad.org/) CryptPad is a collaborative office suite that is end-to-end encrypted and open-source. It provides a full-fledged office suite with all the tools necessary for productive collaboration. Applications include: Rich Text, Spreadsheets, Code/Markdown, Kanban, Slides, Whiteboard and Forms.
 
-## [33. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [34. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Item Resource Files
 
 *   [Sitecore IAR Management (⭐0)](https://github.com/GAAOPS/Sitecore.IAR.Management) - PowerShell script for managing Item as resources.
-*   [Sitecore Item as Resource Explorer (⭐1)](https://github.com/GAAOPS/Sitecore.Protobuf.Browser) - WPF application which allows you to browse the Sitecore static databases files (.dat)
+*   [Sitecore Item as Resource Explorer (⭐2)](https://github.com/GAAOPS/Sitecore.Protobuf.Browser) - WPF application which allows you to browse the Sitecore static databases files (.dat)
 
-## [34. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [35. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Tools / Extending JMeter
 
-*   [Hello JMeter plugin (⭐13)](https://github.com/Bugazelle/hello-jmeter-plugin) - A brief, clear & fast guide to create your first JMeter plugin.
+*   [Hello JMeter plugin (⭐14)](https://github.com/Bugazelle/hello-jmeter-plugin) - A brief, clear & fast guide to create your first JMeter plugin.
 
-## [35. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [36. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Tutorials
 
 *   [Let's learn D programming Game Dev!](https://www.youtube.com/watch?v=j-Zm1zgSxMQ\&list=PLgM-lc_kSqFQPF0UXgmFZpZalqcrSofe-\&ab_channel=KiRill) - A video series on learning game development with D from Ki Rill. [His channel](https://www.youtube.com/@rillki-dev/) also posts other videos related to D programming.
 
-## [36. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [37. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Web Frameworks
 
-*   [Don (⭐20)](https://github.com/abemedia/go-don) - A highly performant and simple to use API framework.
+*   [Don (⭐32)](https://github.com/abemedia/go-don) - A highly performant and simple to use API framework.
 *   [Pnutmux](https://gitlab.com/fruitygo/pnutmux) - Pnutmux is a powerful Go web framework that uses regex for matching and handling HTTP requests. It offers features such as CORS handling, structured logging, URL parameters extraction, middlewares, and concurrency limiting.
 
-## [37. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
+## [38. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
 ### Exporters / Databases
 
 *   [Consul exporter (⭐402)](https://github.com/prometheus/consul_exporter) - The exporter for Consul metrics.
 
-## [38. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [39. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
 *   ~~[Ferment ☠️ ☠️](https://github.com/mmckegg/ferment)~~: P2P audio publishing and streaming application. Like SoundCloud but decentralized. Built using SSB + Webtorrent.
 
-## [39. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
+## [40. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
 ### Blockchains for AI algorithms / Blockchain, AI and Machine Learning
 
@@ -509,20 +506,11 @@
 
 *   [Phala Network](https://phala.network/) - A decentralized off-chain compute infrastructure for Web3 development.
 
-## [40. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
-
-### Example projects
-
-*   [`TypeDB Examples - Catalogue of Life`](https://github.com/vaticle/typedb-driver-examples/tree/master/biology/catalogue_of_life) - Catalogue of Life is a database of over 4.5 million currently known taxa in biology, compiled from over a hundred different sources.
-    TypeDB Loader loads this enormous dataset in so we can elegantly query it with rule-based inference TypeQL queries.
-*   [`TypeDB Examples - XCOM`](https://github.com/vaticle/typedb-driver-examples/tree/master/gaming/xcom) - XCOM 2 is a massive sci-fi strategy game where humanity must respond to a growing alien threat. Explore data about the XCOM 2 technology tree using TypeDB and TypeQL.
-*   [`TypeDB Examples - GitHub`](https://github.com/vaticle/typedb-driver-examples/tree/master/software/github) - GitHub, the site you're on right now, is a vast pool of heavily interconnected data. See this example that integrates TypeDB and TypeQL into a GUI.
-
 ## [41. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
 ### Machine Learning Libraries / Clustering
 
-*   [kmeans-clusterer (⭐90)](https://github.com/gbuesing/kmeans-clusterer) -
+*   [kmeans-clusterer (⭐92)](https://github.com/gbuesing/kmeans-clusterer) -
     k-means clustering in Ruby.
 *   [k\_means (⭐115)](https://github.com/reddavis/K-Means) -
     Attempting to build a fast, memory efficient K-Means program.
@@ -531,20 +519,20 @@
 
 ### Machine Learning Libraries / Vector search
 
-*   [flann (⭐2k)](https://github.com/mariusmuja/flann) -
-    Ruby bindings for the [FLANN (⭐2k)](https://github.com/flann-lib/flann) (Fast Library for Approximate Nearest Neighbors). <sup>\[[flann](#flann)]</sup>
-*   [annoy-rb (⭐24)](https://github.com/yoshoku/annoy.rb) -
-    Ruby bindings for the [Annoy (⭐11k)](https://github.com/spotify/annoy) (Approximate Nearest Neighbors Oh Yeah).
-*   [hnswlib.rb (⭐11)](https://github.com/yoshoku/hnswlib.rb) -
-    Ruby bindings for the [Hnswlib (⭐3.1k)](https://github.com/nmslib/hnswlib) that implements approximate nearest neighbor search with Hierarchical Navigable Small World graphs.
-*   [ngt-ruby (⭐39)](https://github.com/ankane/ngt-ruby) -
-    Ruby bindings for the [NGT (⭐1k)](https://github.com/yahoojapan/NGT) (Neighborhood Graph and Tree for Indexing High-dimensional data).
+*   [flann (⭐2.1k)](https://github.com/mariusmuja/flann) -
+    Ruby bindings for the [FLANN (⭐2.1k)](https://github.com/flann-lib/flann) (Fast Library for Approximate Nearest Neighbors). <sup>\[[flann](#flann)]</sup>
+*   [annoy-rb (⭐27)](https://github.com/yoshoku/annoy.rb) -
+    Ruby bindings for the [Annoy (⭐12k)](https://github.com/spotify/annoy) (Approximate Nearest Neighbors Oh Yeah).
+*   [hnswlib.rb (⭐12)](https://github.com/yoshoku/hnswlib.rb) -
+    Ruby bindings for the [Hnswlib (⭐3.5k)](https://github.com/nmslib/hnswlib) that implements approximate nearest neighbor search with Hierarchical Navigable Small World graphs.
+*   [ngt-ruby (⭐44)](https://github.com/ankane/ngt-ruby) -
+    Ruby bindings for the [NGT (⭐1.1k)](https://github.com/yahoojapan/NGT) (Neighborhood Graph and Tree for Indexing High-dimensional data).
 
 ## [42. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### C/C++ libraries packaged for Zig / C
 
-*   [kassane/wolfssl (⭐0)](https://github.com/kassane/wolfssl) - wolfssl library.
+*   [kassane/wolfssl (⭐2)](https://github.com/kassane/wolfssl) - wolfssl library.
 
 ### C/C++ libraries packaged for Zig / C++
 
@@ -555,7 +543,7 @@
 
 ### Messaging
 
-*   [ExyteChat (⭐134)](https://github.com/exyte/Chat) - SwiftUI Chat UI framework with fully customizable message cells, input view, and a built-in media picker.
+*   [ExyteChat (⭐233)](https://github.com/exyte/Chat) - SwiftUI Chat UI framework with fully customizable message cells, input view, and a built-in media picker.
 
 ## [44. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
@@ -575,23 +563,23 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-form-wizard (⭐16)](https://github.com/parsajiravand/vue3-form-wizard) - Vue3-form-wizard is a vue based component with no external depenendcies which simplifies tab wizard management.
+*   [vue3-form-wizard (⭐22)](https://github.com/parsajiravand/vue3-form-wizard) - Vue3-form-wizard is a vue based component with no external depenendcies which simplifies tab wizard management.
 
 ### Components & Libraries / Integrations
 
-*   [hugoVueSFC (⭐0)](https://github.com/indus/hugoVueSFC) - Vue Single-File Components (SFC) in [Hugo](https://gohugo.io/).
+*   [hugoVueSFC (⭐3)](https://github.com/indus/hugoVueSFC) - Vue Single-File Components (SFC) in [Hugo](https://gohugo.io/).
 
 ## [46. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Application
 
-*   [Zilla (⭐155)](https://github.com/aklivity/zilla) \[Java] - Cross-platform, API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
+*   [Zilla (⭐200)](https://github.com/aklivity/zilla) \[Java] - Cross-platform, API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
 
 ## [47. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Validations
 
-*   [goal (⭐31)](https://github.com/martinthenth/goal) - A parameter validation library for LiveViews and JSON/HTML controllers - based on Ecto.
+*   [goal (⭐45)](https://github.com/martinthenth/goal) - A parameter validation library for LiveViews and JSON/HTML controllers - based on Ecto.
 
 ### Editors
 
@@ -630,32 +618,32 @@
 
 ### Editors / Runner
 
-*   [Everright-formEditor (⭐235)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
+*   [Everright-formEditor (⭐291)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
 
 ## [51. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Miscellaneous
 
-*   [Jellyseerr (⭐1.4k)](https://github.com/Fallenbagel/jellyseerr) - A free and open source software application for managing requests for your media library. It is a a fork of Overseerr built to bring support for Jellyfin & Emby media servers! `MIT` `Docker`
-*   [penpot](https://penpot.app/) - A web based design and prototyping platform meant for cross-domain teams. ([Source Code (⭐22k)](https://github.com/penpot/penpot)) `MPL-2.0` `Docker`
+*   [Jellyseerr (⭐1.9k)](https://github.com/Fallenbagel/jellyseerr) - Manage requests for your media library, supports Plex, Jellyfin and Emby media servers (fork of Overseerr). `MIT` `Docker/Nodejs`
+*   [penpot](https://penpot.app/) - A web based design and prototyping platform meant for cross-domain teams. ([Source Code (⭐24k)](https://github.com/penpot/penpot)) `MPL-2.0` `Docker`
 
 ### Software / Money, Budgeting & Management
 
 *   [Bitcart](https://bitcart.ai) - A self-hosted cryptocurrencies payment processor and development platform. ([Demo](https://admin.bitcart.ai), [Source Code](https://github.com/bitcart)) `MIT` `Docker/Python/Nodejs`
-*   [Kill Bill](https://killbill.io/) - Open-Source Subscription Billing & Payments Platform. Have access to real-time analytics and financial reports. ([Source Code (⭐4k)](https://github.com/killbill/killbill)) `Apache-2.0` `Java/Docker`
-*   [SolidInvoice](https://solidinvoice.co) - Open source invoicing and quote application. ([Source Code (⭐460)](https://github.com/SolidInvoice/SolidInvoice)) `MIT` `PHP`
+*   [Kill Bill](https://killbill.io/) - Open-Source Subscription Billing & Payments Platform. Have access to real-time analytics and financial reports. ([Source Code (⭐4.2k)](https://github.com/killbill/killbill)) `Apache-2.0` `Java/Docker`
+*   [SolidInvoice](https://solidinvoice.co) - Open source invoicing and quote application. ([Source Code (⭐484)](https://github.com/SolidInvoice/SolidInvoice)) `MIT` `PHP`
 
 ### Software / Pastebins
 
-*   [Pastefy](https://pastefy.app/) - Beautiful, simple and easy to deploy Pastebin with optional Client-Encryption, Multitab-Pastes, an API, a highlighted Editor and more. ([Source Code (⭐170)](https://github.com/interaapps/pastefy), [Clients](https://github.com/topics/pastefy-addon)) `MIT` `Java`
+*   [Pastefy](https://pastefy.app/) - Beautiful, simple and easy to deploy Pastebin with optional Client-Encryption, Multitab-Pastes, an API, a highlighted Editor and more. ([Source Code (⭐191)](https://github.com/interaapps/pastefy), [Clients](https://github.com/topics/pastefy-addon)) `MIT` `Docker/K8S/Java`
 
 ### Software / Personal Dashboards
 
-*   [envlinks (⭐3)](https://github.com/maxhollmann/envlinks) - A minimalist link dashboard showing links from environment variables. ([Demo](https://envlinks-demo.vercel.app/)) `MIT` `Docker`
+*   [envlinks (⭐12)](https://github.com/maxhollmann/envlinks) - A minimalist link dashboard showing links from environment variables. ([Demo](https://envlinks-demo.vercel.app/)) `MIT` `Docker`
 
 ### Software / Photo and Video Galleries
 
-*   [Nextcloud Memories](https://memories.gallery/) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app. ([Demo](https://demo.memories.gallery/apps/memories/), [Source Code (⭐1.4k)](https://github.com/pulsejet/memories)) `AGPL-3.0` `PHP`
+*   [Nextcloud Memories](https://memories.gallery/) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app. ([Demo](https://demo.memories.gallery/apps/memories/), [Source Code (⭐1.7k)](https://github.com/pulsejet/memories)) `AGPL-3.0` `PHP`
 
 ### Software / Software Development - Project Management
 
@@ -663,11 +651,11 @@
 
 ### Software / URL Shorteners
 
-*   [Lynx](https://getlynx.dev) - URL shortener with many functions such as multiple accounts, ShareX support and an attractive but simple interface. ([Demo](https://demo.jck.cx), [Source Code (⭐49)](https://github.com/Lynx-Shortener/Lynx)) `MIT` `Nodejs/Docker`
+*   [Lynx](https://getlynx.dev) - URL shortener with many functions such as multiple accounts, ShareX support and an attractive but simple interface. ([Demo](https://demo.getlynx.dev), [Source Code (⭐90)](https://github.com/Lynx-Shortener/Lynx)) `MIT` `Nodejs/Docker`
 
 ### Software / Wikis
 
-*   [AmuseWiki](https://amusewiki.org/) - Amusewiki is based on the Emacs Muse markup, remaining mostly compatible with the original implementation. It can work as a read-only site, as a moderated wiki, or as a fully open wiki or even as a private site. ([Demo](https://sandbox.amusewiki.org), [Source Code (⭐140)](https://github.com/melmothx/amusewiki)) `GPL-1.0` `Perl/Docker`
+*   [AmuseWiki](https://amusewiki.org/) - Amusewiki is based on the Emacs Muse markup, remaining mostly compatible with the original implementation. It can work as a read-only site, as a moderated wiki, or as a fully open wiki or even as a private site. ([Demo](https://sandbox.amusewiki.org), [Source Code (⭐152)](https://github.com/melmothx/amusewiki)) `GPL-1.0` `Perl/Docker`
 
 ### List of Licenses / Wikis
 
@@ -687,39 +675,39 @@
 
 ### Code Runner / Diagnostics
 
-*   [milanglacier/yarepl.nvim (⭐27)](https://github.com/milanglacier/yarepl.nvim) - Yet Another REPL, flexible, supporting multiple paradigms to interact with REPLs, and native dot repeat without other dependencies.
+*   [milanglacier/yarepl.nvim (⭐62)](https://github.com/milanglacier/yarepl.nvim) - Yet Another REPL, flexible, supporting multiple paradigms to interact with REPLs, and native dot repeat without other dependencies.
 
 ## [54. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Distributed Filesystems
 
-*   [JuiceFS](https://juicefs.com/) - Distributed POSIX file system built on top of Redis and S3. ([Source Code (⭐8.1k)](https://github.com/juicedata/juicefs)) `Apache-2.0` `Go`
+*   [JuiceFS](https://juicefs.com/) - Distributed POSIX file system built on top of Redis and S3. ([Source Code (⭐8.6k)](https://github.com/juicedata/juicefs)) `Apache-2.0` `Go`
 
 ### Software / Monitoring
 
-*   [Prometheus](https://prometheus.io/) - Service monitoring system and time series database. ([Source Code (⭐48k)](https://github.com/prometheus/prometheus)) `Apache-2.0` `Go`
+*   [Prometheus](https://prometheus.io/) - Service monitoring system and time series database. ([Source Code (⭐50k)](https://github.com/prometheus/prometheus)) `Apache-2.0` `Go`
 
 ### Software / Metrics & Metric Collection
 
-*   [Beats](https://www.elastic.co/beats/) - Single-purpose data shippers that send data from hundreds or thousands of machines and systems to Logstash or Elasticsearch. ([Source Code (⭐12k)](https://github.com/elastic/beats)) `Apache-2.0`
+*   [Beats](https://www.elastic.co/beats/) - Single-purpose data shippers that send data from hundreds or thousands of machines and systems to Logstash or Elasticsearch. ([Source Code (⭐12k)](https://github.com/elastic/beats)) `Apache-2.0` `Go`
 *   [Collectd](https://collectd.org/) - System statistics collection daemon. ([Source Code (⭐2.9k)](https://github.com/collectd/collectd)) `MIT` `C`
 *   [Diamond (⭐1.7k)](https://github.com/python-diamond/Diamond) - Daemon that collects system metrics and publishes them to Graphite (and others). `MIT` `Python`
-*   [Grafana](https://grafana.com/) - A Graphite & InfluxDB Dashboard and Graph Editor. ([Source Code (⭐56k)](https://github.com/grafana/grafana)) `AGPL-3.0` `Go`
+*   [Grafana](https://grafana.com/) - A Graphite & InfluxDB Dashboard and Graph Editor. ([Source Code (⭐57k)](https://github.com/grafana/grafana)) `AGPL-3.0` `Go`
 *   [Graphite](https://graphite.readthedocs.org/en/latest/) - Scalable graphing server. ([Source Code (⭐5.7k)](https://github.com/graphite-project/graphite-web)) `Apache-2.0` `Python`
-*   [RRDtool](https://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data. ([Source Code (⭐869)](https://github.com/oetiker/rrdtool-1.x)) `GPL-2.0` `C`
-*   [Statsd (⭐17k)](https://github.com/etsy/statsd/) - Daemon that listens for statistics like counters and timers, sent over UDP or TCP, and sends aggregates to one or more pluggable backend services. `Nodejs` `MIT`
-*   [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - Gathers data from local collectors and pushes the data to OpenTSDB. ([Source Code (⭐506)](https://github.com/OpenTSDB/tcollector/)) `LGPL-3.0/GPL-3.0` `Python`
+*   [RRDtool](https://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data. ([Source Code (⭐900)](https://github.com/oetiker/rrdtool-1.x)) `GPL-2.0` `C`
+*   [Statsd (⭐17k)](https://github.com/etsy/statsd/) - Daemon that listens for statistics like counters and timers, sent over UDP or TCP, and sends aggregates to one or more pluggable backend services. `MIT` `Nodejs`
+*   [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - Gathers data from local collectors and pushes the data to OpenTSDB. ([Source Code (⭐508)](https://github.com/OpenTSDB/tcollector/)) `LGPL-3.0/GPL-3.0` `Python`
 *   [Telegraf (⭐13k)](https://github.com/influxdata/telegraf) - Plugin-driven server agent for collecting, processing, aggregating, and writing metrics. `MIT` `Go`
 
 ## [55. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fast-alias-tips (⭐0)](https://github.com/decayofmind/zsh-fast-alias-tips) - Helps remember the aliases you defined and forgot about. Ported from [djui/alias-tips (⭐711)](https://github.com/djui/alias-tips). Active fork of [sei40kr/zsh-fast-alias-tips (⭐59)](https://github.com/sei40kr/zsh-fast-alias-tips).
-*   [iterm2-shell-integration (⭐34)](https://github.com/gnachman/iterm2-shell-integration) - Shell integration and utilities for iTerm2.
+*   [fast-alias-tips (⭐3)](https://github.com/decayofmind/zsh-fast-alias-tips) - Helps remember the aliases you defined and forgot about. Ported from [djui/alias-tips (⭐735)](https://github.com/djui/alias-tips). Active fork of [sei40kr/zsh-fast-alias-tips (⭐59)](https://github.com/sei40kr/zsh-fast-alias-tips).
+*   [iterm2-shell-integration (⭐39)](https://github.com/gnachman/iterm2-shell-integration) - Shell integration and utilities for iTerm2.
 *   [show-git-user (⭐2)](https://github.com/luisprgr/zsh-show-git-user) - When you need to work with multiple `git` users on the same machine this plugin will show which `git` user name is active in your prompt.
 *   [wsl (⭐0)](https://github.com/florentinl/omz-wsl) - Adds helper functions to make it easier to work in ZSH when running inside WSL.
-*   [zsh-watch (⭐0)](https://github.com/Thearas/zsh-watch) - Simple `watch` that supports alias and completion.
+*   [zsh-watch (⭐1)](https://github.com/Thearas/zsh-watch) - Simple `watch` that supports alias and completion.
 
 ## [56. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
@@ -729,15 +717,15 @@
 
 ### Libraries / Dart
 
-*   [mongo\_dart (⭐404)](https://github.com/mongo-dart/mongo_dart) - Community Dart driver
+*   [mongo\_dart (⭐413)](https://github.com/mongo-dart/mongo_dart) - Community Dart driver
 
 ### Libraries / Delphi
 
-*   [Alcinoe (⭐881)](https://github.com/MagicFoundation/Alcinoe) - Library for Delphi that includes a MongoDB client
+*   [Alcinoe (⭐916)](https://github.com/MagicFoundation/Alcinoe) - Library for Delphi that includes a MongoDB client
 
 ### Libraries / Elixir
 
-*   [elixir-mongodb-driver (⭐182)](https://github.com/zookzook/elixir-mongodb-driver) - Community Elixir driver
+*   [elixir-mongodb-driver (⭐212)](https://github.com/zookzook/elixir-mongodb-driver) - Community Elixir driver
 
 ### Libraries / Fantom
 
@@ -745,7 +733,7 @@
 
 ### Libraries / JavaScript
 
-*   [deno\_mongo (⭐484)](https://github.com/denodrivers/mongo) - Community Deno driver
+*   [deno\_mongo (⭐503)](https://github.com/denodrivers/mongo) - Community Deno driver
 
 ### Libraries / OCaml
 
@@ -753,11 +741,11 @@
 
 ### Libraries / PHP
 
-*   [mongo-php-adapter (⭐462)](https://github.com/alcaeus/mongo-php-adapter) - Adapter for applications using `ext-mongo`
+*   [mongo-php-adapter (⭐463)](https://github.com/alcaeus/mongo-php-adapter) - Adapter for applications using `ext-mongo`
 
 ### Libraries / PowerShell
 
-*   [Mdbc (⭐127)](https://github.com/nightroman/Mdbc) - MongoDB cmdlets for PowerShell
+*   [Mdbc (⭐133)](https://github.com/nightroman/Mdbc) - MongoDB cmdlets for PowerShell
 
 ### Libraries / Python
 
@@ -765,12 +753,13 @@
 
 ### Libraries / Smalltalk
 
-*   [MongoTalk (⭐18)](https://github.com/pharo-nosql/mongotalk) - Community Smalltalk driver
+*   [MongoTalk (⭐19)](https://github.com/pharo-nosql/mongotalk) - Community Smalltalk driver
 
 ### Libraries / Swift
 
-*   [MongoKitten (⭐662)](https://github.com/orlandos-nl/MongoKitten) - Community asynchronous Swift driver
+*   [MongoKitten (⭐675)](https://github.com/orlandos-nl/MongoKitten) - Community asynchronous Swift driver
 
 ---
 
+- Prev: [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
 - Next: [May 29 - Jun 04, 2023](/content/2023/22/README.md)

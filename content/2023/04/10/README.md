@@ -6,59 +6,68 @@
 
 
 
-## [1. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [1. Awesome Kustomize](/content/aabouzaid/awesome-kustomize/README.md)
 
-### Projects / API Gateway
+### Guides / Novice
 
-*   [Traefik (⭐43k)](https://github.com/traefik/traefik) - A modern, open-source API Gateway that is designed to handle dynamic container environments such as Kubernetes, Docker Swarm, and Mesos. It provides load balancing, SSL/TLS termination, rate limiting, circuit breaking, and more.
+*   📰 [Declarative Management of Kubernetes Objects Using Kustomize](https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization/) - The official Kubernetes documentation task for Kustomize.
+*   📰 [Configure Kubernetes with Kustomize](https://cloud.google.com/anthos-config-management/docs/concepts/kustomize) - A guide helps to get started with Kustomize, understand its intended use cases, and find resources for using it with other Google Cloud tools.
+*   📺 [Organizing the YAML mess with Kustomize](https://www.youtube.com/watch?v=1fCAwFGX38U) - A talk shows how Kustomize could help to manage Kubernetes YAML files with a growing number of services and environments.
+*   📺 [Kustomize: Deploy Your App with Template Free YAML](https://www.youtube.com/watch?v=ahMIBxufNR0) - A talk introduces Kustomize, a declarative application management system, that allows deployments to be described as template free YAML.
+
+### Guides / Intermediate
+
+*   📰 [3 ways to customize off-the-shelf Helm charts with Kustomize](https://tech.aabouzaid.com/2020/09/3-ways-to-customize-off-the-shelf-helm-charts-with-kustomize-kubernetes.html) - A guide covers 3 different ways to use Kustomize and Helm together.
+
+### Guides / Advanced
+
+*   📰 [Advanced Kustomize features](https://www.innoq.com/en/blog/advanced-kustomize-features/) - A guide covers more than 5 advanced Kustomize capabilities.
+*   📰 [Set OpenAPI patch strategy for Kubernetes Custom Resources](https://tech.aabouzaid.com/2022/11/set-openapi-patch-strategy-for-kubernetes-custom-resources-kustomize.html) - A guide shows how to provide schema to control the patch strategy of the CRDs.
+*   📺 [Customizing Kustomize with Client-Side Custom Resources](https://www.youtube.com/watch?v=YlFUv4F5PYc) - A talk covers extending Kustomize via plugins to address common yet idiosyncratic application needs.
+*   📺 [Own your YAML: extending Kustomize via Plugins](https://www.youtube.com/watch?v=Xoh_OpLoVtI) - A talk shows how to create custom resources using Kustomize external plugins.
+*   📰 [Kustomize Enhancement with KRM Functions](https://www.innoq.com/en/blog/kustomize-enhancement-with-krm-functions/) - A detailed guide covers KRM concept and how to use it in Kustomize plugins.
+
+### Guides / Tips & Tricks
+
+*   📰 [Delete a manifest from a Kustomize base](https://tech.aabouzaid.com/2021/05/delete-a-manifest-from-kustomize-base.html) - A handy way to delete named manifest using Kustomize patch.
+*   📰 [Apply Kustomize builtin transformers on a single resource](https://tech.aabouzaid.com/2022/04/apply-kustomize-builtin-transformers-on-a-single-resource.html) - A way to use internal transformers on specific resources.
+*   📰 [Pass extra data to the Containerized KRM function](https://tech.aabouzaid.com/2022/12/pass-extra-data-to-the-containerized-krm-function.html) - Different cases of share data with Containerized KRM function.
+
+## [2. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Resources / Structure and Validation
 
 *   [Schematron](https://www.schematron.com) - A rule-based validation language that enables developers to define and validate business rules, data reporting, quality control, and other validation scenarios. Schematron offers a flexible way to validate XML documents.
 
-## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Large Language Models / Contribute to Our Repository
+### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
-*   [lm-sys/FastChat (⭐20k)](https://github.com/lm-sys/FastChat): The release repo for "Vicuna: An Open Chatbot Impressing GPT-4" \[[demo](https://chat.lmsys.org/)]
+*   [lm-sys/FastChat (⭐29k)](https://github.com/lm-sys/FastChat): The release repo for "Vicuna: An Open Chatbot Impressing GPT-4" \[[demo](https://chat.lmsys.org/)]
 
-## [3. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+## [4. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Analyzers - API / Meetups
 
-*   [StatusList](https://statuslist.app) - Uptime, performance monitoring with debug details and hosted status page in one simple dashboard.
+*   [StatusList](https://statuslist.app) - Uptime, performance monitoring with debug details, and hosted status page in one simple dashboard.
 
-## [4. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [5. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Business/Finance / Angular
+### Business/Finance / Svelte
 
 *   [Generated.Company](https://generated.company). Unleash Your Entrepreneurial Potential with AI-Powered Company Ideas. 10 Company ideas every single week.
 
-## [5. Awesome V](/content/vlang/awesome-v/README.md)
+## [6. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Text processing
 
-*   [whisker (⭐27)](https://github.com/hungrybluedev/whisker) - Fast, robust template engine for V inspired by mustache.
+*   [whisker (⭐31)](https://github.com/hungrybluedev/whisker) - Fast, robust template engine for V inspired by mustache.
 
-## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Virtualization
 
-*   [OrbStack](https://orbstack.dev/) - OrbStack is a fast, light, and simple way to run Docker containers and Linux machines on macOS.![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-## [7. Ai Collection](/content/ai-collection/ai-collection/README.md)
-
-### Chat Bot
-
-- Name: [SiteGPT](https://sitegpt.ai/?via=aicollection)
-
-  Title: ChatGPT for Every Website.
-
-  Description: Instantly answer your visitors' questions with a personalized chatbot trained on your website content.
-
-  Offer Free Version: :white\_check\_mark:
-
-
+*   [OrbStack](https://orbstack.dev/) - OrbStack is a fast, light, and simple way to run Docker containers and Linux machines on macOS. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [8. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
@@ -85,7 +94,7 @@
 
 ### Testing / Other
 
-*   [EZDC (⭐10)](https://github.com/lynchborg/ezdc) - Golang test harness for easily setting up tests that rely on services in a docker-compose.yml. By [@byrnedo](https://github.com/byrnedo)
+*   [EZDC (⭐9)](https://github.com/lynchborg/ezdc) - Golang test harness for easily setting up tests that rely on services in a docker-compose.yml. By [@byrnedo](https://github.com/byrnedo)
 
 ---
 

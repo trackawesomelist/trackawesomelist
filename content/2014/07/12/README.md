@@ -10,19 +10,19 @@
 
 ### Packages / Image
 
-*   [image-type (⭐335)](https://github.com/sindresorhus/image-type) - Detect the image type of a Buffer/Uint8Array.
-*   [gm (⭐6.8k)](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick wrapper.
+*   [image-type (⭐348)](https://github.com/sindresorhus/image-type) - Detect the image type of a Buffer/Uint8Array.
+*   [gm (⭐6.9k)](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick wrapper.
 
 ### Packages / Text
 
 *   [iconv-lite (⭐2.9k)](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings.
-*   [escape-string-regexp (⭐546)](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
-*   [indent-string (⭐108)](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
-*   [strip-indent (⭐129)](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
+*   [escape-string-regexp (⭐557)](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
+*   [indent-string (⭐109)](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
+*   [strip-indent (⭐131)](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
 
 ### Packages / Parsing
 
-*   [URI.js (⭐6.2k)](https://github.com/medialize/URI.js) - URL mutation.
+*   [URI.js (⭐6.3k)](https://github.com/medialize/URI.js) - URL mutation.
 
 ### Packages / Humanize
 
@@ -30,11 +30,11 @@
 
 ### Packages / Network
 
-*   [get-port (⭐788)](https://github.com/sindresorhus/get-port) - Get an available port.
+*   [get-port (⭐822)](https://github.com/sindresorhus/get-port) - Get an available port.
 
 ### Packages / Weird
 
-*   [superb (⭐393)](https://github.com/sindresorhus/superb) - Get superb like words.
+*   [superb (⭐392)](https://github.com/sindresorhus/superb) - Get superb like words.
 *   [cool-ascii-faces (⭐1.8k)](https://github.com/maxogden/cool-ascii-faces) - Get some cool ascii faces.
 
 ## [2. Awesome Shell](/content/alebcay/awesome-shell/README.md)
@@ -55,7 +55,7 @@
 
 ### Key-value Data Model
 
-*   [Riak (⭐3.7k)](https://github.com/basho/riak) - a decentralized datastore.
+*   [Riak (⭐3.8k)](https://github.com/basho/riak) - a decentralized datastore.
 
 ### Applications
 
@@ -66,9 +66,9 @@
 *   [Arbor (⭐2.6k)](https://github.com/samizdatco/arbor) - graph visualization library using web workers and jQuery.
 *   [Cubism (⭐4.9k)](https://github.com/square/cubism) - JavaScript library for time series visualization.
 *   [Envisionjs (⭐1.6k)](https://github.com/HumbleSoftware/envisionjs) - dynamic HTML5 visualization.
-*   [Matplotlib (⭐16k)](https://github.com/matplotlib/matplotlib) - plotting with Python.
-*   [Recline (⭐2k)](https://github.com/okfn/recline) - simple but powerful library for building data applications in pure Javascript and HTML.
-*   [Sigma.js (⭐10k)](https://github.com/jacomyal/sigma.js) - JavaScript library dedicated to graph drawing.
+*   [Matplotlib (⭐17k)](https://github.com/matplotlib/matplotlib) - plotting with Python.
+*   [Recline (⭐2.1k)](https://github.com/okfn/recline) - simple but powerful library for building data applications in pure Javascript and HTML.
+*   [Sigma.js (⭐11k)](https://github.com/jacomyal/sigma.js) - JavaScript library dedicated to graph drawing.
 
 ## [5. Awesome Html5](/content/diegocard/awesome-html5/README.md)
 

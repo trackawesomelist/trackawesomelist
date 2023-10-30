@@ -38,13 +38,13 @@
 
 ### services
 
-*   [featureserver (⭐96)](https://github.com/featureserver/featureserver): An open source Esri-Style Feature Server
+*   [featureserver (⭐99)](https://github.com/featureserver/featureserver): An open source Esri-Style Feature Server
 
 ## [6. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
-*   [rg (⭐35k)](https://github.com/BurntSushi/ripgrep) - ripgrep is a line oriented search tool that combines the usability of The Silver Searcher with the raw speed of GNU grep
+*   [rg (⭐38k)](https://github.com/BurntSushi/ripgrep) - ripgrep is a line oriented search tool that combines the usability of The Silver Searcher with the raw speed of GNU grep
 
 ### Shell Script Development / See also
 
@@ -54,7 +54,7 @@
 
 ### CMS
 
-*   [Composite C1 (⭐245)](https://github.com/Orckestra/C1-CMS-Foundation) - A web CMS that focus on UX and adaptability
+*   [Composite C1 (⭐253)](https://github.com/Orckestra/C1-CMS-Foundation) - A web CMS that focus on UX and adaptability
 
 ### GIS
 
@@ -62,7 +62,7 @@
 
 ### Testing
 
-*   [Fluent Assertions (⭐3.3k)](https://github.com/fluentassertions/fluentassertions) - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test
+*   [Fluent Assertions (⭐3.4k)](https://github.com/fluentassertions/fluentassertions) - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test
 
 ## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Libraries / GUI
 
-*   [saurvs/nfd-rs (⭐154)](https://github.com/saurvs/nfd-rs) — [nativefiledialog (⭐1.6k)](https://github.com/mlabbe/nativefiledialog) bindings
+*   [saurvs/nfd-rs (⭐151)](https://github.com/saurvs/nfd-rs) — [nativefiledialog (⭐1.6k)](https://github.com/mlabbe/nativefiledialog) bindings
 
 ## [10. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
@@ -117,7 +117,7 @@
 ### Containers / Docker
 
 *   [elgalu/docker-selenium (⭐1.4k)](https://github.com/elgalu/docker-selenium) - Selenium in Docker with Chrome & Firefox plus video recording support.
-*   [SeleniumHQ/docker-selenium (⭐6.3k)](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox.
+*   [SeleniumHQ/docker-selenium (⭐6.9k)](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox.
 
 ## [14. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
@@ -167,7 +167,7 @@
 
 ### Tools/Debugging / Chrome Specific Tools/Debugger
 
-*   [Webgl Insight (⭐900)](https://github.com/3Dparallax/insight) - Chrome extension WebGL debugging toolkit providing a variety of capabilities.
+*   [Webgl Insight (⭐907)](https://github.com/3Dparallax/insight) - Chrome extension WebGL debugging toolkit providing a variety of capabilities.
 
 ### References / Firefox Specific Tools/Debugger
 
@@ -242,13 +242,13 @@
 
 ### Mocking / Symfony2
 
-*   [Request Baskets (⭐204)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
+*   [Request Baskets (⭐232)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
 
 ## [29. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
-*   [LosslessCut (⭐17k)](https://github.com/mifi/lossless-cut) - Lossless video trimming & cutting.
+*   [LosslessCut (⭐19k)](https://github.com/mifi/lossless-cut) - Lossless video trimming & cutting.
 
 ## [30. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
 
@@ -270,7 +270,7 @@
 
 ### Game Frameworks / XML
 
-*   [Voxelman (⭐123)](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language
+*   [Voxelman (⭐122)](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language
 
 ## [33. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
@@ -328,7 +328,7 @@
 
 ### Templating
 
-*   [exgen (⭐32)](https://github.com/rwdaigle/exgen) - A templating library for quickly generating Elixir projects.
+*   [exgen (⭐34)](https://github.com/rwdaigle/exgen) - A templating library for quickly generating Elixir projects.
 
 ### Third Party APIs
 
@@ -413,16 +413,16 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [DotNetty (⭐3.7k)](https://github.com/Azure/DotNetty) - Port of netty, event-driven asynchronous network application framework.
+*   [DotNetty (⭐3.9k)](https://github.com/Azure/DotNetty) - Port of netty, event-driven asynchronous network application framework.
 
 ### Frameworks, Libraries and Tools / Searching
 
-*   [AutoComplete (⭐201)](https://github.com/omerfarukz/autocomplete) - Persistent, simple, powerful and portable autocomplete library.
+*   [AutoComplete (⭐209)](https://github.com/omerfarukz/autocomplete) - Persistent, simple, powerful and portable autocomplete library.
 
 ### Starter Kits / Workflow
 
-*   [bitwarden-core (⭐11k)](https://github.com/bitwarden/core) - The core infrastructure backend (API, database, etc) <https://bitwarden.com>.
-*   [generator-aspnet (⭐887)](https://github.com/OmniSharp/generator-aspnet) - yo generator for ASP.NET Core.
+*   [bitwarden-core (⭐13k)](https://github.com/bitwarden/core) - The core infrastructure backend (API, database, etc) <https://bitwarden.com>.
+*   [generator-aspnet (⭐880)](https://github.com/OmniSharp/generator-aspnet) - yo generator for ASP.NET Core.
 
 ## [47. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
@@ -466,7 +466,7 @@
 
 ### Machine Learning
 
-*   [mlpack (⭐4.4k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
+*   [mlpack (⭐4.6k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
 
 ---
 

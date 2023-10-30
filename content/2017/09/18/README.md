@@ -16,7 +16,7 @@
 
 ### Apple's Playgrounds / Functional Reactive Programming
 
-*   [Interactive Newton's Cradle (⭐9)](https://github.com/p-sun/iOS-Effects-and-Animations/tree/master/Newton'sCradle) - Apple's interactive playground of a Newton's Cradle where collisions and gravity are applyed with UIKit dynamics. 🌟 (updated to Swift 3 by @p-sun)
+*   [Interactive Newton's Cradle (⭐10)](https://github.com/p-sun/iOS-Effects-and-Animations/tree/master/Newton'sCradle) - Apple's interactive playground of a Newton's Cradle where collisions and gravity are applyed with UIKit dynamics. 🌟 (updated to Swift 3 by @p-sun)
 
 ---
 

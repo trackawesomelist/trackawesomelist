@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 28 - Sep 03, 2017
 
-37 awesome lists updated this week.
+38 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Contents / Example Apps
 
-*   [Hueify (⭐90)](https://github.com/kvartborg/hueify) - Simple controller for your Philips Hue lights.
+*   [Hueify (⭐91)](https://github.com/kvartborg/hueify) - Simple controller for your Philips Hue lights.
 
 ## [3. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
@@ -42,13 +42,23 @@
 
 *   [ASP.NET Identity (⭐2k)](https://github.com/aspnet/Identity/) - New membership system for ASP.NET applications
 
-## [7. Jstips](/content/loverajoel/jstips/week/README.md)
+## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Objective-C / PicoLisp
+
+*   [Google's Objective-C Style Guide (⭐36k)](https://github.com/google/styleguide/blob/gh-pages/objcguide.md)
+
+### PowerShell / Zend
+
+*   [Mastering PowerShell v2](http://community.idera.com/powershell/powertips/b/ebookv2#pi619PostSortOrder=Ascending)
+
+## [8. Jstips](/content/loverajoel/jstips/week/README.md)
 
 ### Support the community / Let’s keep in touch
 
 *   73 - [Hash maps without side effects](http://www.jstips.co/en/javascript/hash-maps-without-side-effects/)
 
-## [8. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [9. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Plotting / Third-party APIs
 
@@ -56,28 +66,28 @@
     lispy, structure-less Gnuplot library. With its
     [cookbook](http://guicho271828.github.io/eazy-gnuplot/). [LLGPL](http://opensource.franz.com/preamble.html)
 
-## [9. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [10. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Apps / *SSH*   keys / Authentication
 
 *   [Slack notifications](http://www.ryanbrink.com/slack-ssh-session-notifications/) ([archived version](https://web.archive.org/web/20160505202303/http://www.ryanbrink.com/slack-ssh-session-notifications/)) - Guide to setup Slack notifications (can be modified for other services).
 
-## [10. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [11. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Browser automation
 
-*   [Selenium (⭐25k)](https://github.com/SeleniumHQ/selenium) - Browser automation framework and ecosystem.
+*   [Selenium (⭐27k)](https://github.com/SeleniumHQ/selenium) - Browser automation framework and ecosystem.
 *   [SlimerJS (⭐3k)](https://github.com/laurentj/slimerjs) - Scriptable browser like PhantomJS, based on Firefox.
-*   [Webdriver.io (⭐7.8k)](https://github.com/webdriverio/webdriverio/) - Node.js bindings implementation for the W3C WebDriver protocol.
+*   [Webdriver.io (⭐8.2k)](https://github.com/webdriverio/webdriverio/) - Node.js bindings implementation for the W3C WebDriver protocol.
 
 ### Tools and frameworks
 
-*   [gatling (⭐53)](https://github.com/gabrielrotbart/gatling) - Integrated visual RSpec matcher which makes real visual testing easy (Ruby).
-*   [vrtest (⭐11)](https://github.com/nathanmarks/vrtest) - JavaScript library for running visual regression tests on your components cross browser via selenium.
+*   [gatling (⭐54)](https://github.com/gabrielrotbart/gatling) - Integrated visual RSpec matcher which makes real visual testing easy (Ruby).
+*   [vrtest (⭐13)](https://github.com/nathanmarks/vrtest) - JavaScript library for running visual regression tests on your components cross browser via selenium.
 
 ### Online services
 
-*   [BrowserStack](https://www.browserstack.com) - Free for Open Source. Supports [Selenium Webdriver (⭐25k)](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
+*   [BrowserStack](https://www.browserstack.com) - Free for Open Source. Supports [Selenium Webdriver (⭐27k)](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
 *   [screener.io](https://screener.io) - For React, looks open source.
 *   [applitools](https://applitools.com) - Cloud base visual tests.
 *   [percy.io](https://percy.io) - Continuous visual reviews for web apps.
@@ -93,23 +103,23 @@
 *   [Phillip Gourley: Making visual regression useful](https://medium.com/@philgourley/making-visual-regression-useful-acfae27e5031) - Why you should use BackstopJS.
 *   [Pavels Jelisejevs: Visual Regression Testing with PhantomCSS](https://www.sitepoint.com/visual-regression-testing-with-phantomcss) - Introduction to PhantomCSS.
 
-## [11. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [12. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
-*   [has (⭐490)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
+*   [has (⭐529)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
 
-## [12. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [13. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Authentication
 
-*   [SpotifyLogin (⭐344)](https://github.com/spotify/SpotifyLogin) - Authenticate with the Spotify API.
+*   [SpotifyLogin (⭐343)](https://github.com/spotify/SpotifyLogin) - Authenticate with the Spotify API.
 
 ### Video / Barcode
 
-*   [MMPlayerView (⭐726)](https://github.com/MillmanY/MMPlayerView) - Custom AVPlayerLayer on view and transition player with good effect like YouTube and Facebook.
+*   [MMPlayerView (⭐729)](https://github.com/MillmanY/MMPlayerView) - Custom AVPlayerLayer on view and transition player with good effect like YouTube and Facebook.
 
-## [13. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
+## [14. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
 ### Standalone Editors Built on Draft.js
 
@@ -175,19 +185,19 @@
 
 *   [HKW Technosphere Magazine](https://technosphere-magazine.hkw.de/)
 
-## [14. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [15. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Videos
 
 *   [Summit 2017](https://www.youtube.com/watch?v=TDpiyrcOO30\&list=PLNYkxOF6rcIDP0PqVaJxqNWwIgvoEPzJi)
 
-## [15. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [16. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### PHP / Scala
 
 *   [Fat-Free](https://fatfreeframework.com/) - A powerful yet easy-to-use PHP micro-framework.
 
-## [16. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [17. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### User Groups / Ruby
 
@@ -197,32 +207,32 @@
 *   [Nederland](http://www.meetup.com/Domain-Driven-Design-Nederland/)
 *   [Phoenix](https://www.meetup.com/DDD-Phoenix)
 
-## [17. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [18. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Microservices
 
 *   [Resilience4j (⭐8.8k)](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming. Resilience4j provides modules for Circuit Breaking, Rate Limiting, Bulkheading, Automatic retrying, Response caching and Metric measuring.
 
-## [18. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [19. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Authentication
 
 *   [pyramid\_ldap3 (⭐11)](https://github.com/Cito/pyramid_ldap3) - Provides LDAP authentication
     services for your Pyramid application based on the ldap3 package.
 
-## [19. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [20. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line utilities
 
-*   [gradient-string (⭐915)](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
+*   [gradient-string (⭐964)](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
 
-## [20. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [21. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Books / Topic-specific
 
 *   *[The Chessboard and the Web. Strategies of Connection in a Networked World](http://yalebooks.yale.edu/book/9780300215649/chessboard-and-web)*, by Anne-Marie Slaughter (2017); applies network science to world politics.
 
-## [21. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [22. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### References / Firefox Specific Tools/Debugger
 
@@ -233,14 +243,14 @@
 
 *   [Hologram](https://hologram.cool/) - Desktop app that let you create and prototype WebVR in interactive way needing no previous coding knowledge.
 
-## [22. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [23. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Libraries / To draw using canvas
 
 *   [d3 (⭐104k)](https://github.com/d3/d3) (or D3.js) is a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML.
 *   [Konva (⭐8.7k)](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 
-## [23. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [24. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
@@ -252,42 +262,42 @@
 *   [Example of custom password hash SPI for Keycloak (⭐23)](https://github.com/pavelbogomolenko/keycloak-custom-password-hash)
 *   [Example for a custom http-client-provider with Proxy support (⭐3)](https://github.com/xiaoyvr/custom-http-client-provider)
 
-## [24. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [25. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Models/Projects
 
 *   [Attentive Object Tracking (⭐147)](https://github.com/akosiorek/hart) - Implementation of ["Hierarchical Attentive Recurrent Tracking"](https://arxiv.org/abs/1706.09262)
 
-## [25. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
+## [26. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
 
 ### Image - Metadata/Text
 
-*   **Places CNN** - Detects the scene of an image from 205 categories such as bedroom, forest, coast etc. [Download (⭐697)](https://github.com/hollance/MobileNet-CoreML/raw/master/MobileNet.mlmodel) | [Demo (⭐32)](https://github.com/chenyi1989/CoreMLDemo) | [Reference](http://places.csail.mit.edu/index.html)
-*   **Inception v3** - Detects the dominant objects present in an image. [Download (⭐215)](https://github.com/yulingtianxia/Core-ML-Sample/blob/master/CoreMLSample/Inceptionv3.mlmodel) | [Demo (⭐215)](https://github.com/yulingtianxia/Core-ML-Sample/) | [Reference](https://arxiv.org/abs/1512.00567)
-*   **ResNet50** - Detects the dominant objects present in an image. [Download (⭐38)](https://github.com/ytakzk/CoreML-samples/blob/master/CoreML-samples/Resnet50.mlmodel) | [Demo (⭐38)](https://github.com/ytakzk/CoreML-samples) | [Reference](https://arxiv.org/abs/1512.03385)
+*   **Places CNN** - Detects the scene of an image from 205 categories such as bedroom, forest, coast etc. [Download (⭐701)](https://github.com/hollance/MobileNet-CoreML/raw/master/MobileNet.mlmodel) | [Demo (⭐32)](https://github.com/chenyi1989/CoreMLDemo) | [Reference](http://places.csail.mit.edu/index.html)
+*   **Inception v3** - Detects the dominant objects present in an image. [Download (⭐217)](https://github.com/yulingtianxia/Core-ML-Sample/blob/master/CoreMLSample/Inceptionv3.mlmodel) | [Demo (⭐217)](https://github.com/yulingtianxia/Core-ML-Sample/) | [Reference](https://arxiv.org/abs/1512.00567)
+*   **ResNet50** - Detects the dominant objects present in an image. [Download (⭐41)](https://github.com/ytakzk/CoreML-samples/blob/master/CoreML-samples/Resnet50.mlmodel) | [Demo (⭐41)](https://github.com/ytakzk/CoreML-samples) | [Reference](https://arxiv.org/abs/1512.03385)
 *   **VGG16** - Detects the dominant objects present in an image. [Download](https://docs-assets.developer.apple.com/coreml/models/VGG16.mlmodel) | [Demo (⭐34)](https://github.com/alaphao/CoreMLExample) | [Reference](https://arxiv.org/abs/1409.1556)
-*   **Car Recognition** - Predict the brand & model of a car. [Download (⭐169)](https://github.com/likedan/Core-ML-Car-Recognition/blob/master/Convert/CarRecognition.mlmodel) | [Demo (⭐38)](https://github.com/ytakzk/CoreML-samples) | [Reference](http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html)
-*   **YOLO** - Recognize what the objects are inside a given image and where they are in the image. [Download (⭐893)](https://github.com/hollance/YOLO-CoreML-MPSNNGraph/blob/master/TinyYOLO-CoreML/TinyYOLO-CoreML/TinyYOLO.mlmodel) | [Demo (⭐893)](https://github.com/hollance/YOLO-CoreML-MPSNNGraph) | [Reference](http://machinethink.net/blog/object-detection-with-yolo)
-*   **AgeNet** - Predict a person's age from one's portrait. [Download](https://drive.google.com/file/d/0B1ghKa_MYL6mT1J3T1BEeWx4TWc/view?usp=sharing) | [Demo (⭐297)](https://github.com/cocoa-ai/FacesVisionDemo) | [Reference](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
-*   **GenderNet** - Predict a person's gender from one's portrait. [Download](https://drive.google.com/file/d/0B1ghKa_MYL6mYkNsZHlyc2ZuaFk/view?usp=sharing) | [Demo (⭐297)](https://github.com/cocoa-ai/FacesVisionDemo) | [Reference](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
-*   **MNIST** - Predict handwritten (drawn) digits from images. [Download (⭐64)](https://github.com/ph1ps/MNIST-CoreML/raw/master/MNISTPrediction/MNIST.mlmodel) | [Demo (⭐64)](https://github.com/ph1ps/MNIST-CoreML) | [Reference](http://yann.lecun.com/exdb/mnist/)
-*   **EmotionNet** - Predict a person's emotion from one's portrait. [Download](https://drive.google.com/file/d/0B1ghKa_MYL6mTlYtRGdXNFlpWDQ/view?usp=sharing) | [Demo (⭐297)](https://github.com/cocoa-ai/FacesVisionDemo) | [Reference](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/)
-*   **SentimentVision** - Predict positive or negative sentiments from images. [Download](https://drive.google.com/open?id=0B1ghKa_MYL6mZ0dITW5uZlgyNTg) | [Demo (⭐34)](https://github.com/cocoa-ai/SentimentVisionDemo) | [Reference](http://www.sciencedirect.com/science/article/pii/S0262885617300355?via%3Dihub)
-*   **Food101** - Predict the type of foods from images. [Download](https://drive.google.com/open?id=0B5TjkH3njRqnVjBPZGRZbkNITjA) | [Demo (⭐134)](https://github.com/ph1ps/Food101-CoreML) | [Reference](http://visiir.lip6.fr/explore)
-*   **FlickrStyle** - Detect the artistic style of images. [Download](https://drive.google.com/file/d/0B1ghKa_MYL6meDBHT2NaZGxkNzQ/view?usp=sharing) | [Demo (⭐46)](https://github.com/cocoa-ai/StylesVisionDemo) | [Reference](http://sergeykarayev.com/files/1311.3715v3.pdf)
+*   **Car Recognition** - Predict the brand & model of a car. [Download (⭐169)](https://github.com/likedan/Core-ML-Car-Recognition/blob/master/Convert/CarRecognition.mlmodel) | [Demo (⭐41)](https://github.com/ytakzk/CoreML-samples) | [Reference](http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html)
+*   **YOLO** - Recognize what the objects are inside a given image and where they are in the image. [Download (⭐905)](https://github.com/hollance/YOLO-CoreML-MPSNNGraph/blob/master/TinyYOLO-CoreML/TinyYOLO-CoreML/TinyYOLO.mlmodel) | [Demo (⭐905)](https://github.com/hollance/YOLO-CoreML-MPSNNGraph) | [Reference](http://machinethink.net/blog/object-detection-with-yolo)
+*   **AgeNet** - Predict a person's age from one's portrait. [Download](https://drive.google.com/file/d/0B1ghKa_MYL6mT1J3T1BEeWx4TWc/view?usp=sharing) | [Demo (⭐304)](https://github.com/cocoa-ai/FacesVisionDemo) | [Reference](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
+*   **GenderNet** - Predict a person's gender from one's portrait. [Download](https://drive.google.com/file/d/0B1ghKa_MYL6mYkNsZHlyc2ZuaFk/view?usp=sharing) | [Demo (⭐304)](https://github.com/cocoa-ai/FacesVisionDemo) | [Reference](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
+*   **MNIST** - Predict handwritten (drawn) digits from images. [Download (⭐63)](https://github.com/ph1ps/MNIST-CoreML/raw/master/MNISTPrediction/MNIST.mlmodel) | [Demo (⭐63)](https://github.com/ph1ps/MNIST-CoreML) | [Reference](http://yann.lecun.com/exdb/mnist/)
+*   **EmotionNet** - Predict a person's emotion from one's portrait. [Download](https://drive.google.com/file/d/0B1ghKa_MYL6mTlYtRGdXNFlpWDQ/view?usp=sharing) | [Demo (⭐304)](https://github.com/cocoa-ai/FacesVisionDemo) | [Reference](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/)
+*   **SentimentVision** - Predict positive or negative sentiments from images. [Download](https://drive.google.com/open?id=0B1ghKa_MYL6mZ0dITW5uZlgyNTg) | [Demo (⭐35)](https://github.com/cocoa-ai/SentimentVisionDemo) | [Reference](http://www.sciencedirect.com/science/article/pii/S0262885617300355?via%3Dihub)
+*   **Food101** - Predict the type of foods from images. [Download](https://drive.google.com/open?id=0B5TjkH3njRqnVjBPZGRZbkNITjA) | [Demo (⭐135)](https://github.com/ph1ps/Food101-CoreML) | [Reference](http://visiir.lip6.fr/explore)
+*   **FlickrStyle** - Detect the artistic style of images. [Download](https://drive.google.com/file/d/0B1ghKa_MYL6meDBHT2NaZGxkNzQ/view?usp=sharing) | [Demo (⭐47)](https://github.com/cocoa-ai/StylesVisionDemo) | [Reference](http://sergeykarayev.com/files/1311.3715v3.pdf)
 
 ### Text - Metadata/Text
 
-*   **Sentiment Polarity** - Predict positive or negative sentiments from sentences. [Download (⭐111)](https://github.com/cocoa-ai/SentimentCoreMLDemo/raw/master/SentimentPolarity/Resources/SentimentPolarity.mlmodel) | [Demo (⭐111)](https://github.com/cocoa-ai/SentimentCoreMLDemo) | [Reference](http://boston.lti.cs.cmu.edu/classes/95-865-K/HW/HW3/)
-*   **iMessage Spam Detection** - Detect whether a message is spam. [Download (⭐33)](https://github.com/gkswamy98/imessage-spam-detection/blob/master/MessageClassifier.mlmodel) | [Demo (⭐33)](https://github.com/gkswamy98/imessage-spam-detection/tree/master) | [Reference](http://www.dt.fee.unicamp.br/\~tiago/smsspamcollection/)
+*   **Sentiment Polarity** - Predict positive or negative sentiments from sentences. [Download (⭐116)](https://github.com/cocoa-ai/SentimentCoreMLDemo/raw/master/SentimentPolarity/Resources/SentimentPolarity.mlmodel) | [Demo (⭐116)](https://github.com/cocoa-ai/SentimentCoreMLDemo) | [Reference](http://boston.lti.cs.cmu.edu/classes/95-865-K/HW/HW3/)
+*   **iMessage Spam Detection** - Detect whether a message is spam. [Download (⭐35)](https://github.com/gkswamy98/imessage-spam-detection/blob/master/MessageClassifier.mlmodel) | [Demo (⭐35)](https://github.com/gkswamy98/imessage-spam-detection/tree/master) | [Reference](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)
 
-## [26. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [27. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Music, Radio and Podcasts / Others
 
 *   [ongaku](https://ongaku.js.org/) - Online anime music radio, with [desktop port (⭐22)](https://github.com/Anshuman-Verma/ongaku-desktop).
 
-## [27. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [28. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Developer Tools
 
@@ -300,20 +310,20 @@
 *   [Link Shell Extension](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) - Create symlinks from Explorer.
 *   [Rufus](https://rufus.akeo.ie/) - Create bootable USB drives the easy way.
 
-## [28. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [29. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Datastores / Online resources
 
 *   [blackbox (⭐6.5k)](https://github.com/StackExchange/blackbox) - Safely store secrets in a VCS repo using GPG
 *   [confidant (⭐1.8k)](https://github.com/lyft/confidant) - Stores secrets in AWS DynamoDB, encrypted at rest and integrates with IAM
-*   [dotgpg (⭐159)](https://github.com/ConradIrwin/dotgpg) - A tool for backing up and versioning your production secrets or shared passwords securely and easily.
+*   [dotgpg (⭐160)](https://github.com/ConradIrwin/dotgpg) - A tool for backing up and versioning your production secrets or shared passwords securely and easily.
 *   [redoctober (⭐1.4k)](https://github.com/cloudflare/redoctober) - Server for two-man rule style file encryption and decryption.
-*   [aws-vault (⭐7.5k)](https://github.com/99designs/aws-vault) - Store AWS credentials in the OSX Keychain or an encrypted file
+*   [aws-vault (⭐7.8k)](https://github.com/99designs/aws-vault) - Store AWS credentials in the OSX Keychain or an encrypted file
 *   [credstash (⭐2k)](https://github.com/fugue/credstash) - Store secrets using AWS KMS and DynamoDB
 *   [chamber (⭐2.3k)](https://github.com/segmentio/chamber) - Store secrets using AWS KMS and SSM Parameter Store
-*   [passpie (⭐919)](https://github.com/marcwebbie/passpie) - Multiplatform command-line password manager
+*   [passpie (⭐922)](https://github.com/marcwebbie/passpie) - Multiplatform command-line password manager
 
-## [29. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [30. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Conferences
 
@@ -327,24 +337,24 @@
 ### Projects Using Vue.js / Open Source
 
 *   [Voten (⭐1.3k)](https://github.com/voten-co/voten) - A Reddit-like platform built with Vue2 and Laravel.
-*   [News Weaver (⭐25)](https://github.com/Rud156/News-Weaver) - A web based RSS Reader/Aggregator made using VueJS and VuetifyJS
+*   [News Weaver (⭐23)](https://github.com/Rud156/News-Weaver) - A web based RSS Reader/Aggregator made using VueJS and VuetifyJS
 
 ### Components & Libraries / UI Components
 
 *   [vue-messagebox (⭐13)](https://github.com/zhangxiang958/vue-messageBox) - Easy and made-to-order messagebox component on Vue.
-*   [vue-monthly-picker (⭐67)](https://github.com/ittus/vue-monthly-picker) - Vue.js component for month and year picker only
+*   [vue-monthly-picker (⭐68)](https://github.com/ittus/vue-monthly-picker) - Vue.js component for month and year picker only
 
 ### Components & Libraries / UI Utilities
 
 *   [vue-pano](https://github.com/ChiChou/vue-pano) - A panorama viewer in Vue component.
 
-## [30. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+## [31. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
 ### Websites
 
 *   Startup Benchmarks - <https://www.startupbenchmarks.com/>
 
-## [31. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
+## [32. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
 
 ### Libraries for driving the protocol (or a layer above)
 
@@ -354,13 +364,13 @@
 
 *   [Metal.js Developer Tools](https://chrome.google.com/webstore/detail/metaljs-developer-tools/fagnjmppkokolnbloalifcmcooldhiik) - Inspect the Metal component hierarchies.
 
-## [32. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [33. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Date and Time
 
-*   [FluentDateTime (⭐584)](https://github.com/FluentDateTime/FluentDateTime) - Allows you to write cleaner DateTime expressions and operation. Partially inspired by Ruby DateTime Extensions.
+*   [FluentDateTime (⭐623)](https://github.com/FluentDateTime/FluentDateTime) - Allows you to write cleaner DateTime expressions and operation. Partially inspired by Ruby DateTime Extensions.
 
-## [33. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
+## [34. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
 ### ☤ Support Causes You Care About
 
@@ -387,13 +397,13 @@
 
 *   [Bitcoin.com Pool](https://pool.bitcoin.com/index_en.html) — I've heard good things.
 
-## [34. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [35. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### TypeScript Seed Projects / Components
 
 *   [Reboard](https://github.com/ksiabani/reboard) - Angular 4 + Material 2 starter dashboard with ngx-charts, based on generator-ngx-rocket (Typescript, SASS, Webpack, Jasmine+Karma, Protractor, TSLint, Codelyzer, Stylelint, ngx-translate, Lodash, Angular Flex-Layout)
 
-## [35. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [36. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Samsung Tizen / Official resources
 
@@ -403,13 +413,13 @@
 
 *   [Identification of LG TV models 2011-2017](http://en.tab-tv.com/?page_id=7111) - How to get screen size, matrix type, year of development, series and ohter parameters from LG TV model name.
 
-## [36. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [37. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Videos
 
 *   [React Server Side Rendering with NextJS](https://www.youtube.com/watch?v=JEBkh_vleTs\&t)
 
-## [37. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [38. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Interactive / Other
 

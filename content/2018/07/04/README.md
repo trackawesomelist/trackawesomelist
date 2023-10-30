@@ -16,11 +16,11 @@
 
 ### Command-Line Productivity
 
-*   [task-manager (⭐13)](https://github.com/lingtalfi/task-manager) - Execute all your scripts with just two or three keystrokes.
+*   [task-manager (⭐15)](https://github.com/lingtalfi/task-manager) - Execute all your scripts with just two or three keystrokes.
 
 ### For Developers / Directory Navigation
 
-*   [git-quick-stats (⭐5.6k)](https://github.com/arzzen/git-quick-stats) - Git quick statistics is a simple and efficient way to access various statistics in git repository.
+*   [git-quick-stats (⭐5.8k)](https://github.com/arzzen/git-quick-stats) - Git quick statistics is a simple and efficient way to access various statistics in git repository.
 
 ## [3. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
 
@@ -52,7 +52,7 @@
 
 ### GTFS Libraries / R
 
-*   [trread (⭐8)](https://github.com/r-gtfs/trread) - A transit (GTFS) file reader for R.
+*   [trread (⭐9)](https://github.com/r-gtfs/trread) - A transit (GTFS) file reader for R.
 
 ## [8. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Frameworks, Libraries and Tools / Blockchain
 
-*   [NBlockchain (⭐72)](https://github.com/danielgerlag/NBlockchain) - .NET standard library for building blockchain enabled applications
+*   [NBlockchain (⭐78)](https://github.com/danielgerlag/NBlockchain) - .NET standard library for building blockchain enabled applications
 
 ## [10. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

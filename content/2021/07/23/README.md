@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 23, 2021
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,14 +12,7 @@
 
 *   [build2](https://build2.org/) - cross-platform build, packaging and dependency management toolchain for developing and packaging C/C++ projects. \[MIT]
 
-## [2. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
-
-### Projects / Messaging
-
-*   [Apache Qpid](https://qpid.apache.org) - A messaging tool that supports the Advanced Message Queuing Protocol (AMQP) and multiple programming languages and platforms. Offers enterprise-grade messaging capabilities with reliable and efficient message delivery.
-*   [NATS (⭐13k)](https://github.com/nats-io/gnatsd) - A lightweight and high-performance messaging system designed for microservices, IoT, and cloud-native systems. Offers efficient and reliable message delivery and supports multiple messaging protocols.
-
-## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### System administration / Third-party APIs
 
@@ -27,12 +20,12 @@
 
 ### Project skeletons / Third-party APIs
 
-*   [cl-project (⭐207)](https://github.com/fukamachi/cl-project) - General modern project skeletons. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [cl-project (⭐217)](https://github.com/fukamachi/cl-project) - General modern project skeletons. [LLGPL](http://opensource.franz.com/preamble.html).
 *   [cl-project-with-docs (⭐3)](https://github.com/40ants/cl-project-with-docs) - uses Sphinx and reStructured text to render nice and readable HTML documentation. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   [cl-cookieproject (⭐47)](https://github.com/vindarel/cl-cookieproject) -  Generate a ready-to-use Common Lisp project. Not in Quicklisp. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [cl-cookieproject (⭐52)](https://github.com/vindarel/cl-cookieproject) -  Generate a ready-to-use Common Lisp project. Not in Quicklisp. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   test definitions, entry point to run from sources, build a binary, Roswell integration…
 
-## [4. Public Apis](/content/public-apis/public-apis/README.md)
+## [3. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Animals
 
@@ -76,33 +69,33 @@
 
 
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
-*   [vue-path-store (⭐5)](https://github.com/kouts/vue-path-store) - Simple state management that uses the dot notation path syntax, also comes with Vuex and Pinia plugins.
+*   [vue-path-store (⭐4)](https://github.com/kouts/vue-path-store) - Simple state management that uses the dot notation path syntax, also comes with Vuex and Pinia plugins.
 
-## [6. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
+## [5. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
 ### Topic Areas / Comprehensive R Tutorials
 
 *   [Intro to R course by Fabio Votta - part 1](https://colab.research.google.com/drive/1dLsdGbkvgn1JbWgsy9Z-pFmPd_2MG4Xu?usp=sharing#scrollTo=vGnW7giO9AeD) - A fun introduction to R programming grouped into categories (operators, objects, functions, exercises, and data frames).
 *   [Intro to R course by Fabio Votta - part 2](https://colab.research.google.com/drive/14CRElnKewnp5MnlxhqVu6OOcIXd-Bkaj?usp=sharing) - A fun introduction to R programming grouped into categories (data manipulation and cleaning featuring the janitor, tidyr, and dplyr packages).
 
-## [7. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [6. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Other Awesome Lists / Book Deals (Affiliated) 🛍
 
 *   [Awesome Explainable Graph Reasoning (⭐1.9k)](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 
-## [8. Computer Science](/content/ossu/computer-science/README.md)
+## [7. Computer Science](/content/ossu/computer-science/README.md)
 
 ### How to show your progress / Which programming languages should I use?
 
 *   **[Josh Hanson](https://github.com/joshmhanson)**: lead technical maintainer
 *   **[Waciuma Wanjohi](https://github.com/waciumawanjohi)**: lead academic maintainer
 
-## [9. Awesome](/content/craftcms/awesome/README.md)
+## [8. Awesome](/content/craftcms/awesome/README.md)
 
 ### Official Links
 

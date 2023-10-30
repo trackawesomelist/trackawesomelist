@@ -10,17 +10,17 @@
 
 ### Date and Time
 
-*   [Chronyk (⭐340)](https://github.com/KoffeinFlummi/Chronyk) - A Python 3 library for parsing human-written times and dates.
+*   [Chronyk (⭐341)](https://github.com/KoffeinFlummi/Chronyk) - A Python 3 library for parsing human-written times and dates.
 
 ## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Debugging / Profiling
 
-*   [njsTrace (⭐356)](https://github.com/valyouw/njstrace) - Instrument and trace your code, see all function calls, arguments, return values, as well as the time spent in each function.
+*   [njsTrace (⭐358)](https://github.com/valyouw/njstrace) - Instrument and trace your code, see all function calls, arguments, return values, as well as the time spent in each function.
 
 ### Packages / Testing
 
-*   [Mochify (⭐345)](https://github.com/mantoni/mochify.js) - TDD with Browserify, Mocha, PhantomJS and WebDriver.
+*   [Mochify (⭐344)](https://github.com/mantoni/mochify.js) - TDD with Browserify, Mocha, PhantomJS and WebDriver.
 
 ## [3. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -31,8 +31,8 @@
 ### Structural Migrations
 
 *   [Lobos (⭐267)](https://github.com/budu/lobos)
-*   [Ragtime (⭐583)](https://github.com/weavejester/ragtime)
-*   [Drift (⭐122)](https://github.com/macourtney/drift)
+*   [Ragtime (⭐587)](https://github.com/weavejester/ragtime)
+*   [Drift (⭐121)](https://github.com/macourtney/drift)
 
 ### Type System
 

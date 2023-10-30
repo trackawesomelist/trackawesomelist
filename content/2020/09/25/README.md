@@ -16,7 +16,7 @@
 
 ### Minifiers - HTML / Meetups
 
-*   [Minimize (⭐161)](https://github.com/Swaagie/minimize) - Minimize is a HTML minifier based on the node-htmlparser,currently, HTML minifier is only usable server-side. Client-side minification will be added in a future release.
+*   [Minimize (⭐162)](https://github.com/Swaagie/minimize) - Minimize is an HTML minifier based on the node-htmlparser,currently, HTML minifier is only usable server-side. Client-side minification will be added in a future release.
 
 ## [3. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Austria 🇦🇹 / Vienna
 
-> List of Awesome Hacking Locations, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists (⭐238k)](https://github.com/sindresorhus/awesome) thing.
+> List of Awesome Hacking Locations, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists (⭐258k)](https://github.com/sindresorhus/awesome) thing.
 
 This is a community curated list, please submit your PR with the spots you know and love for hacking!
 
@@ -95,18 +95,18 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ## [10. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
-### Web Scraping / Others
+### Reinforcement Learning / Others
 
-*   [Pattern (⭐8.5k)](https://github.com/clips/pattern): High level scraping for well-establish websites such as Google, Twitter, and Wikipedia. Also has NLP, machine learning algorithms, and visualization
+*   [TF-Agents (⭐2.6k)](https://github.com/tensorflow/agents) - A library for Reinforcement Learning in TensorFlow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
 
 ### Deployment / NLP
 
 *   [fastapi](https://fastapi.tiangolo.com/) - Modern, fast (high-performance), a web framework for building APIs with Python
 *   [binder](https://mybinder.org/) - Enable sharing and execute Jupyter Notebooks
 
-### Reinforcement Learning / NLP
+### Web Scraping / Synthetic Data
 
-*   [TF-Agents (⭐2.5k)](https://github.com/tensorflow/agents) - A library for Reinforcement Learning in TensorFlow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
+*   [Pattern (⭐8.6k)](https://github.com/clips/pattern): High level scraping for well-establish websites such as Google, Twitter, and Wikipedia. Also has NLP, machine learning algorithms, and visualization
 
 ## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -119,7 +119,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 ### Packages / "System" bindings
 
 *   [ROS2-Integration-Service (⭐12)](https://github.com/eProsima/ROS2-Integration-Service) - ROS2 Integration and Routing which provides a complete tool to integrate other technologies with ROS2 easily and enable ROS2 on WAN/Internet.
-*   [soss (⭐59)](https://github.com/osrf/soss) - The System Of Systems Synthesizer is used to integrate ROS2 via ROS2-Integration-Service with other (communication) systems.
+*   [soss (⭐61)](https://github.com/osrf/soss) - The System Of Systems Synthesizer is used to integrate ROS2 via ROS2-Integration-Service with other (communication) systems.
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -129,13 +129,13 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Components & Libraries / Utilities
 
-*   [vue-axillo (⭐9)](https://github.com/Scrum/vue-axillo) - Composable Axios for REST API with query notation GraphQL.
+*   [vue-axillo (⭐11)](https://github.com/Scrum/vue-axillo) - Composable Axios for REST API with query notation GraphQL.
 
 ## [14. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### YAML
 
-*   [ymlr (⭐15)](https://github.com/ufirstgroup/ymlr) - A YAML encoder for Elixir.
+*   [ymlr (⭐17)](https://github.com/ufirstgroup/ymlr) - A YAML encoder for Elixir.
 
 ## [15. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -151,7 +151,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Showcases / XML
 
-*   [GitHub Profile Trophy (⭐3.7k)](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
+*   [GitHub Profile Trophy (⭐3.9k)](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
 
 ## [17. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
@@ -166,29 +166,29 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 *   Others
     *   [Python ZEEF](https://python.zeef.com/alan.richmond)
     *   [Pythonic News](https://news.python.sc/)
-    *   [What the f\*ck Python! (⭐32k)](https://github.com/satwikkansal/wtfpython)
+    *   [What the f\*ck Python! (⭐33k)](https://github.com/satwikkansal/wtfpython)
 
 ## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Networking
 
-*   [Boost.Beast (⭐3.8k)](https://github.com/boostorg/beast) :zap: - HTTP and WebSocket built on Boost.Asio in C++11. \[Boost] [website](https://www.boost.org/libs/beast)
+*   [Boost.Beast (⭐4k)](https://github.com/boostorg/beast) :zap: - HTTP and WebSocket built on Boost.Asio in C++11. \[Boost] [website](https://www.boost.org/libs/beast)
 
 ## [20. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Books
 
-*   [Terraform Best Practices](https://www.terraform-best-practices.com/) - [open-source ebook (⭐1.7k)](https://github.com/antonbabenko/terraform-best-practices)
+*   [Terraform Best Practices](https://www.terraform-best-practices.com/) - [open-source ebook (⭐1.8k)](https://github.com/antonbabenko/terraform-best-practices)
 *   [The Terraform Book](https://terraformbook.com/)
 
 ### Community Modules / Miscellaneous
 
-*   [terraform-aws-lambda-auto-package (⭐25)](https://github.com/nozaq/terraform-aws-lambda-auto-package) - A terraform module to define a lambda function which source files are automatically built and packaged for lambda deployment.
+*   [terraform-aws-lambda-auto-package (⭐27)](https://github.com/nozaq/terraform-aws-lambda-auto-package) - A terraform module to define a lambda function which source files are automatically built and packaged for lambda deployment.
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
-*   [flora (⭐20)](https://github.com/ketchoop/flora) - Terraform version manager.
-*   [serverless.tf - Doing serverless with Terraform](https://serverless.tf/) - serverless.tf is an opinionated open-source framework for developing, building, deploying, and securing serverless applications and infrastructures on AWS using Terraform. [Read more (⭐525)](https://github.com/antonbabenko/serverless.tf).
+*   [flora (⭐22)](https://github.com/ketchoop/flora) - Terraform version manager.
+*   [serverless.tf - Doing serverless with Terraform](https://serverless.tf/) - serverless.tf is an opinionated open-source framework for developing, building, deploying, and securing serverless applications and infrastructures on AWS using Terraform. [Read more (⭐586)](https://github.com/antonbabenko/serverless.tf).
 *   [terraspace](https://terraspace.cloud) - The Terraform Framework
 
 ---

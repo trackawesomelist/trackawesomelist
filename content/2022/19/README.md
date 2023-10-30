@@ -44,7 +44,6 @@
 
 ### Databases / Pathway
 
-*   [PathwayCommon](https://www.pathwaycommons.org/) - Database of Pathways and Interactions.
 *   [KEGG PATHWAY](https://www.genome.jp/kegg/pathway.html) - Collection fo drawn pathway maps.
 *   [WikiPathways](https://wikipathways.org/) - Database of biological pathways.
 
@@ -70,21 +69,21 @@
 
 ### Preprocess / Interaction
 
-*   [Chemistry Development Kit (⭐403)](https://github.com/cdk/cdk) - A software of cheminformatics and Machine Learning.
-*   [RDKit (⭐2k)](https://github.com/rdkit/rdkit) - A software of cheminformatics and Machine Learning.
+*   [Chemistry Development Kit (⭐428)](https://github.com/cdk/cdk) - A software of cheminformatics and Machine Learning.
+*   [RDKit (⭐2.2k)](https://github.com/rdkit/rdkit) - A software of cheminformatics and Machine Learning.
 
 ### Machine Learning Tasks and Models / Drug Repurposing
 
-*   [DeepPurpose (⭐729)](https://github.com/kexinhuang12345/DeepPurpose) - A DL Library for Drug Repurposing and so on.
+*   [DeepPurpose (⭐800)](https://github.com/kexinhuang12345/DeepPurpose) - A DL Library for Drug Repurposing and so on.
 
 ### Machine Learning Tasks and Models / Drug Target Interaction
 
-*   [NeoDTI (⭐64)](https://github.com/FangpingWan/NeoDTI) - A library for Drug Target Interaction.
+*   [NeoDTI (⭐66)](https://github.com/FangpingWan/NeoDTI) - A library for Drug Target Interaction.
 
 ### Machine Learning Tasks and Models / Compound Protein Interaction
 
 *   [MCPINN (⭐3)](https://github.com/mhlee0903/multi_channels_PINN) - A library for drug discovery using Compound Protein Interaction and Machine Learning.
-*   [TransformerCPI (⭐97)](https://github.com/lifanchen-simm/transformerCPI) - A library for Compound Protein Interaction prediction using Transformer.
+*   [TransformerCPI (⭐117)](https://github.com/lifanchen-simm/transformerCPI) - A library for Compound Protein Interaction prediction using Transformer.
 
 ## [5. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -96,28 +95,28 @@
 
 ### Software / Automation
 
-*   [Eonza](https://www.eonza.org) - Eonza is used to create scripts and automate tasks on servers or VPS hosting. Manage your servers from any browser on any device. ([Demo](https://playground.eonza.org/), [Source Code (⭐101)](https://github.com/gentee/eonza)) `MIT` `Go`
+*   [Eonza](https://www.eonza.org) - Eonza is used to create scripts and automate tasks on servers or VPS hosting. Manage your servers from any browser on any device. ([Source Code (⭐124)](https://github.com/gentee/eonza)) `MIT` `Go`
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
-*   [Gray Duck Mail](https://grayduckmail.com) - Self hosted email discussion list management that uses external email providers. ([Source Code (⭐5)](https://github.com/wagesj45/gray-duck-mail)) `GPL-3.0` `Docker`
+*   [Gray Duck Mail](https://grayduckmail.com) - Self hosted email discussion list management that uses external email providers. ([Source Code (⭐10)](https://github.com/wagesj45/gray-duck-mail)) `GPL-3.0` `Docker`
 
 ## [7. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
-*   [blog-rs (⭐46)](https://github.com/songday/blog-rs) - A blog system in which frontend and backend are ALL written in Rust. Backend powered by Warp and frontend built on Yew (WASM).
+*   [blog-rs (⭐53)](https://github.com/songday/blog-rs) - A blog system in which frontend and backend are ALL written in Rust. Backend powered by Warp and frontend built on Yew (WASM).
 
 ## [8. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
-### Database
+### Database / Text-Based User Interfaces
 
-*   [QueryStream (⭐12)](https://github.com/querystream/querystream) - Build JPA Criteria queries using a Stream-like API.
-*   [QuestDB (⭐10k)](https://github.com/questdb/questdb) - High-performance SQL database for time series. Supports InfluxDB line protocol, PostgreSQL wire protocol, and REST.
-*   [Spring Data JPA MongoDB Expressions (⭐87)](https://github.com/mhewedy/spring-data-jpa-mongodb-expressions) - Allows you to use MongoDB query language to query your relational database.
+*   [QueryStream (⭐15)](https://github.com/querystream/querystream) - Build JPA Criteria queries using a Stream-like API.
+*   [QuestDB (⭐13k)](https://github.com/questdb/questdb) - High-performance SQL database for time series. Supports InfluxDB line protocol, PostgreSQL wire protocol, and REST.
+*   [Spring Data JPA MongoDB Expressions (⭐89)](https://github.com/mhewedy/spring-data-jpa-mongodb-expressions) - Allows you to use MongoDB query language to query your relational database.
 *   [Trino](https://trino.io) - Distributed SQL query engine for big data.
 
-### Distribution
+### Distribution / Text-Based User Interfaces
 
 *   [jDeploy](https://www.jdeploy.com) - Deploy desktop apps as native Mac, Windows or Linux bundles.
 
@@ -129,7 +128,7 @@
 
 ### Algorithms and data structures
 
-*   [JakubSzark/zig-string (⭐113)](https://github.com/JakubSzark/zig-string) - UTF-8 string data structure.
+*   [JakubSzark/zig-string (⭐152)](https://github.com/JakubSzark/zig-string) - UTF-8 string data structure.
 
 ## [10. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
@@ -149,7 +148,7 @@
 
 ### Shell Script Development
 
-*   [DevOps-Bash-tools (⭐969)](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Shell Scripts and Advanced Bash environment
+*   [DevOps-Bash-tools (⭐1.9k)](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Shell Scripts and Advanced Bash environment.
 
 ## [12. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
@@ -161,13 +160,13 @@
 
 ### JavaScript / FrameWorks
 
-*   [ccxt (⭐28k)](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges.
+*   [ccxt (⭐29k)](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges.
 
 ## [14. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Testing
 
-*   [tyro/arbitrater (⭐39)](https://github.com/tyro/arbitrater) - Arbitrater is a library for creating arbitrary (randomized) instances of classes by reflection for use in testing.
+*   [tyro/arbitrater (⭐40)](https://github.com/tyro/arbitrater) - Arbitrater is a library for creating arbitrary (randomized) instances of classes by reflection for use in testing.
 
 ## [15. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -185,7 +184,7 @@
 
 ### Books / Visualization Tools
 
-*   [Julia for Data Analysis](https://www.manning.com/books/julia-for-data-analysis) - Early access
+*   [Julia for Data Analysis](https://www.manning.com/books/julia-for-data-analysis) - Early Access
 
 ## [18. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
@@ -197,7 +196,7 @@
 
 ### Form Components / Tag Input
 
-*   [tagify (⭐2.9k)](https://github.com/yairEO/tagify) - [demo & docs](https://yaireo.github.io/tagify/) - Lightweight, efficient Tags input component.
+*   [tagify (⭐3.1k)](https://github.com/yairEO/tagify) - [demo & docs](https://yaireo.github.io/tagify/) - Lightweight, efficient Tags input component.
 
 ## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -213,14 +212,14 @@
 
 ### Templates / React
 
-*   [react-vite-ssr (⭐20)](https://github.com/EverSeenTOTOTO/browser-app-boilerplate/tree/react-vite-ssr) - Mobx, Typescript, Eslint, Stylelint, Husky, Lint-staged and Commitlint.
-*   [Viact (⭐36)](https://github.com/MR-Mostafa/Viact) - React + TypeScript + ESLint + Prettier + Support RTL + mock REST API Viact + Storybook, ErrorBoundary, UnoCss and more.
+*   [react-vite-ssr (⭐23)](https://github.com/EverSeenTOTOTO/browser-app-boilerplate/tree/react-vite-ssr) - Mobx, Typescript, Eslint, Stylelint, Husky, Lint-staged and Commitlint.
+*   [Viact (⭐39)](https://github.com/MR-Mostafa/Viact) - React + TypeScript + ESLint + Prettier + Support RTL + mock REST API Viact + Storybook, ErrorBoundary, UnoCss and more.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-resolve (⭐8)](https://github.com/vite-plugin/vite-plugin-resolve) - Custom resolve module content.
-*   [vite-plugin-dynamic-import (⭐105)](https://github.com/vite-plugin/vite-plugin-dynamic-import) - Enhance Vite builtin dynamic import.
-*   [vite-plugin-commonjs (⭐46)](https://github.com/vite-plugin/vite-plugin-commonjs) - A pure JavaScript implementation for CommonJs.
+*   [vite-plugin-resolve (⭐13)](https://github.com/vite-plugin/vite-plugin-resolve) - Custom resolve module content.
+*   [vite-plugin-dynamic-import (⭐147)](https://github.com/vite-plugin/vite-plugin-dynamic-import) - Enhance Vite builtin dynamic import.
+*   [vite-plugin-commonjs (⭐70)](https://github.com/vite-plugin/vite-plugin-commonjs) - A pure JavaScript implementation for CommonJs.
 
 ### Vue / Routing
 
@@ -228,7 +227,7 @@
 
 ### Rust / Community
 
-*   [create-rust-app (⭐1.2k)](https://github.com/Wulf/create-rust-app) - Integration for Rust web apps.
+*   [create-rust-app (⭐1.3k)](https://github.com/Wulf/create-rust-app) - Integration for Rust web apps.
 
 ## [22. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
@@ -250,7 +249,7 @@
 
 ### Calendar / Barcode
 
-*   [KVKCalendar (⭐383)](https://github.com/kvyatkovskys/KVKCalendar) - A most fully customization calendar for Apple platforms 📅
+*   [KVKCalendar (⭐459)](https://github.com/kvyatkovskys/KVKCalendar) - A most fully customization calendar for Apple platforms 📅
 
 ## [25. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
@@ -265,7 +264,7 @@
 
 ### :package: Packers / After 2010
 
-*   [ELFCrypt (⭐71)](https://github.com/droberson/ELFcrypt) - Simple ELF crypter using RC4 encryption.
+*   [ELFCrypt (⭐76)](https://github.com/droberson/ELFcrypt) - Simple ELF crypter using RC4 encryption.
 *   [.netshrink](https://www.pelock.com/products/netshrink) - Executable compressor for your Windows or Linux .NET application executable file using LZMA.
 *   [RapidEXE](https://sourceforge.net/projects/rapidexe) - Simple and efficient way to convert a PHP/Python script to a standalone executable.
 
@@ -278,20 +277,20 @@
 *   [Binutils](https://www.gnu.org/software/binutils) - The GNU Binutils are a collection of binary tools for Linux (it namely includes Readelf).
 *   [Eureka](https://web.archive.org/web/20150502154942/http://eureka.cyber-ta.org) - Binary static analysis preparation framework implementing a novel binary unpacking strategy based on statistical bigram analysis and coarse-grained execution tracing.
 *   [Lissom](ttp://www.fit.vutbr.cz/research/groups/lissom) - Retargetable decompiler consisting of a preprocessing part and a decompilation core.
-*   [.NET Deobfuscator (⭐862)](https://github.com/NotPrab/.NET-Deobfuscator) - List of .NET Deobfuscators and Unpackers.
+*   [.NET Deobfuscator (⭐978)](https://github.com/NotPrab/.NET-Deobfuscator) - List of .NET Deobfuscators and Unpackers.
 *   [PackID (⭐8)](https://github.com/mesaleh/PackiD) - Packer identification multiplatform tool/library using the same database syntax as PEiD.
 *   [PExplorer](http://www.heaventools.com/overview.htm) - Most feature-packed program for inspecting the inner workings of your own software, and more importantly, third party Windows applications and libraries for which you do not have source code.
-*   [PortEx (⭐443)](https://github.com/katjahahn/PortEx) - Java library for static malware analysis of PE files with a focus on PE malformation robustness and anomaly detection.
+*   [PortEx (⭐475)](https://github.com/katjahahn/PortEx) - Java library for static malware analysis of PE files with a focus on PE malformation robustness and anomaly detection.
 *   [PROTECTiON iD](https://web.archive.org/web/20210331144912/https://protectionid.net) - PE file signature-based scanner.
 *   [ProTools](http://protools.narod.ru) - Programmer's Tools, a web site dedicated for all kinds of tools and utilities for the true WinBloze programmer, including packers, crypters, etc.
 *   [ResourceHacker](http://angusj.com/resourcehacker) - Resource editor for 32bit and 64bit Windows applications.
-*   [Winbindex (⭐361)](https://github.com/m417z/winbindex) - An index of Windows binaries, including download links for executables such as EXE, DLL and SYS files.
+*   [Winbindex (⭐462)](https://github.com/m417z/winbindex) - An index of Windows binaries, including download links for executables such as EXE, DLL and SYS files.
 
 ## [26. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Static Code Analysis
 
-*   [OptView2 (⭐89)](https://github.com/OfekShilon/optview2) - Inspect missed Clang optimizations.
+*   [OptView2 (⭐97)](https://github.com/OfekShilon/optview2) - Inspect missed Clang optimizations.
 
 ## [27. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -309,12 +308,12 @@
 
 ### Individual components / Maps
 
-*   [UnlockedData.Mapael (⭐1)](https://github.com/UnlockedData/UnlockedData.Mapael) - ![last commit](https://img.shields.io/github/last-commit/unlockeddata/unlockeddata.mapael) Blazor wrapper over vector drawing/mapping library. [Jquery Mapael](https://www.vincentbroute.fr/mapael/).
+*   [UnlockedData.Mapael (⭐2)](https://github.com/UnlockedData/UnlockedData.Mapael) - ![last commit](https://img.shields.io/github/last-commit/unlockeddata/unlockeddata.mapael) Blazor wrapper over vector drawing/mapping library. [Jquery Mapael](https://www.vincentbroute.fr/mapael/).
 
 ### Tools & Utilities / Others
 
-*   [BlazorAntivirusProtection (⭐68)](https://github.com/stavroskasidis/BlazorWasmAntivirusProtection) - ![stars](https://img.shields.io/github/stars/stavroskasidis/BlazorWasmAntivirusProtection?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/stavroskasidis/BlazorWasmAntivirusProtection?style=flat-square\&cacheSeconds=86400) Antivirus protection for Blazor Wasm projects. This package attempts to guard against false positives from antiviruses that flag Blazor Wasm as malware, until Microsoft gives us an official solution.
-*   [Phork.Blazor.Reactivity (⭐21)](https://github.com/phorks/phork-blazor-reactivity) - ![stars](https://img.shields.io/github/stars/phorks/phork-blazor-reactivity?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/phorks/phork-blazor-reactivity?style=flat-square\&cacheSeconds=86400) An unopinionated Blazor state management library that utilizes INotifyPropertyChanged and INotifyCollectionChanged .NET interfaces to automatically detect state changes in components.
+*   [BlazorAntivirusProtection (⭐70)](https://github.com/stavroskasidis/BlazorWasmAntivirusProtection) - ![stars](https://img.shields.io/github/stars/stavroskasidis/BlazorWasmAntivirusProtection?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/stavroskasidis/BlazorWasmAntivirusProtection?style=flat-square\&cacheSeconds=86400) Antivirus protection for Blazor Wasm projects. This package attempts to guard against false positives from antiviruses that flag Blazor Wasm as malware, until Microsoft gives us an official solution.
+*   [Phork.Blazor.Reactivity (⭐22)](https://github.com/phorks/phork-blazor-reactivity) - ![stars](https://img.shields.io/github/stars/phorks/phork-blazor-reactivity?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/phorks/phork-blazor-reactivity?style=flat-square\&cacheSeconds=86400) An unopinionated Blazor state management library that utilizes INotifyPropertyChanged and INotifyCollectionChanged .NET interfaces to automatically detect state changes in components.
 
 ### Videos / Others
 
@@ -326,7 +325,7 @@
 *   [ASP.NET Community Standup - Native client apps with Blazor Hybrid](https://www.youtube.com/watch?v=7UM6s0QPvRQ) - ![duration](https://img.shields.io/badge/Duration:%20-88%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Mars 8, 2022 - Join this Blazor Community Standup to learn more about using Blazor Hybrid to create cross-platform native client apps for Windows, iOS, Android & Mac. [Community links](https://www.theurlist.com/blazor_community_standup_march_2022).
 *   [Building beautiful Blazor apps with Tailwind CSS](https://www.youtube.com/watch?v=zS0y9krXO6E) - ![duration](https://img.shields.io/badge/Duration:%20-55%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Mars 2, 2022 - Tailwind CSS has been growing in popularity for some time. It’s fast becoming one of the top frameworks to use when styling applications. It offers a different approach to the traditional frameworks like Bootstrap—utility based styling. Rather than using prebuilt components—which result in your application looking like a lot of others on the web—you can tailor your design by applying small focused CSS classes resulting in a unique style for your app. In this talk, you will learn how to bring the power of Tailwind CSS to your Blazor applications. We’ll start off with an introduction to Tailwind and how it differs from other CSS frameworks. Then we’ll get into some code and see how we can integrate Tailwind with Blazor. For the rest of the time, we’ll explore the various features of Tailwind and see how just how beautiful we can make our Blazor app. By Chris Sainty, at the NDC Oslo 2021.
 *   [Best practices unit testing Blazor components with bUnit](https://www.youtube.com/watch?v=Co7QetPYiO4) - ![duration](https://img.shields.io/badge/Duration:%20-54%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Mars 1, 2022 - Why create tests of UI components? Isn’t UI tests inherently brittle, run slowly, and hard to maintain? By Egil Hansen, at the NDC Oslo 2021.
-*   [Learn C# with CSharpFritz - Blazor Application Hosting](https://www.youtube.com/watch?v=AYXx5vPFzFo) - ![duration](https://img.shields.io/badge/Duration:%20-124%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 28, 2022 - You've built your Blazor application, now where do you run it?  In this demo filled session, Fritz will talk through Progressive Web Apps, packaging with Docker, and deploying your Blazor application to Azure. [Community links (⭐594)](https://github.com/csharpfritz/csharp_with_csharpfritz).
+*   [Learn C# with CSharpFritz - Blazor Application Hosting](https://www.youtube.com/watch?v=AYXx5vPFzFo) - ![duration](https://img.shields.io/badge/Duration:%20-124%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 28, 2022 - You've built your Blazor application, now where do you run it?  In this demo filled session, Fritz will talk through Progressive Web Apps, packaging with Docker, and deploying your Blazor application to Azure. [Community links (⭐622)](https://github.com/csharpfritz/csharp_with_csharpfritz).
 *   [Blazor, NET 6, and WebAssembly](https://www.youtube.com/watch?v=Rn8psTi8FBk) - ![duration](https://img.shields.io/badge/Duration:%20-60%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 21, 2022 - Talk by Steve Sanderson at the NDC Oslo 2021. .NET 6 is a huge release for Blazor, adding a ton of powerful new features for .NET web developers. This talk will be full of demos to get you up-to-speed on this hot framework.
 *   [Building a classic adventure game with Blazor](https://www.youtube.com/watch?v=WG4Pp1NGXUw) - ![duration](https://img.shields.io/badge/Duration:%20-88%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) ![duration](https://img.shields.io/badge/Duration:%20-61%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 14, 2022 - Blazor is a free and open-source web framework that enables developers to create web apps using C# and HTML. Being a .NET developer as well as a big fan of classic point-and-click adventure games, I’ve ported my Game-a-Tron 4000 adventure game engine to Blazor.
 *   [ASP.NET Community Standup - Blazor .NET 7 Roadmap](https://www.youtube.com/watch?v=3o91I6lD-Bo) - ![duration](https://img.shields.io/badge/Duration:%20-88%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 8, 2022 - Find out what's being planned for Blazor in .NET 7. [Community links](https://www.theurlist.com/blazor_community_standup_february_2022).
@@ -376,7 +375,7 @@
 
 ### Integrations
 
-*   [Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter (⭐5)](https://github.com/authbroker/authbroker)
+*   [Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter (⭐6)](https://github.com/authbroker/authbroker)
 
 ### Commercial Offerings
 
@@ -386,24 +385,24 @@
 
 ### DevSecOps / Dependency confusion
 
-*   [snync (⭐27)](https://github.com/snyk-labs/snync) - Prevent and detect if you're vulnerable to dependency confusion supply chain security attacks.
+*   [snync (⭐30)](https://github.com/snyk-labs/snync) - Prevent and detect if you're vulnerable to dependency confusion supply chain security attacks.
 
 ### Threat intelligence / Fingerprinting
 
-*   [HASSH (⭐484)](https://github.com/salesforce/hassh) - Network fingerprinting standard which can be used to identify specific client and server SSH implementations.
+*   [HASSH (⭐503)](https://github.com/salesforce/hassh) - Network fingerprinting standard which can be used to identify specific client and server SSH implementations.
 *   [JA3](https://ja3er.com/) - Extracts SSL/TLS handshake settings for fingerprinting and communicating about a given TLS implementation.
 
 ## [36. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Open Source Games / Java
 
-*   🔒 [Pixel Dungeon (⭐3.3k)](https://github.com/watabou/pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface.
+*   🔒 [Pixel Dungeon (⭐3.4k)](https://github.com/watabou/pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface.
 
 ## [37. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Extensions / Community
 
-*   [Tags M2M (⭐50)](https://github.com/dimitrov-adrian/directus-extension-tags-m2m-interface) - M2M driven tags interface.
+*   [Tags M2M (⭐64)](https://github.com/dimitrov-adrian/directus-extension-tags-m2m-interface) - M2M driven tags interface.
 
 ## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -413,30 +412,30 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-dnd (⭐208)](https://github.com/hcg1023/vue3-dnd) - React DnD in Composition API implementation, Use the Composition API for sortable and free draggable, Supported Vue2, Vue3.
+*   [vue3-dnd (⭐276)](https://github.com/hcg1023/vue3-dnd) - React DnD in Composition API implementation, Use the Composition API for sortable and free draggable, Supported Vue2, Vue3.
 
 ## [39. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zi-rbenv (⭐5)](https://github.com/z-shell/zi-rbenv) - Fast `rbenv` loads if you're using [zi (⭐488)](https://github.com/z-shell/zi/).
+*   [zi-rbenv (⭐5)](https://github.com/z-shell/zi-rbenv) - Fast `rbenv` loads if you're using [zi (⭐580)](https://github.com/z-shell/zi/).
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [brew-completions (⭐6)](https://github.com/z-shell/brew-completions) - Brings [Homebrew Shell Completion](https://docs.brew.sh/Shell-Completion) under the control of ZSH & [ZI (⭐488)](https://github.com/z-shell/zi/).
-*   [click-completion (⭐271)](https://github.com/click-contrib/click-completion) - Add automatic completion support for [Click](http://click.pocoo.org/), including displaying the options and commands help during the tab completion.
+*   [brew-completions (⭐8)](https://github.com/z-shell/brew-completions) - Brings [Homebrew Shell Completion](https://docs.brew.sh/Shell-Completion) under the control of ZSH & [ZI (⭐580)](https://github.com/z-shell/zi/).
+*   [click-completion (⭐277)](https://github.com/click-contrib/click-completion) - Add automatic completion support for [Click](http://click.pocoo.org/), including displaying the options and commands help during the tab completion.
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [021011 (⭐43)](https://github.com/guesswhozzz/021011.zsh-theme) - Minimalist. Includes a single `git` marker for VS Code.
+*   [021011 (⭐57)](https://github.com/guesswhozzz/021011.zsh-theme) - Minimalist. Includes a single `git` marker for VS Code.
 *   [arrow (⭐0)](https://github.com/milon/arrow-zsh-theme) - Minimal theme, includes `git` status decorations.
-*   [inthedeepspace (⭐1)](https://github.com/alionapermes/inthedeepspace/) - Based on [intheloop (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#user-content-intheloop) and inspired by [vim-deep-space (⭐282)](https://github.com/tyrannicaltoucan/vim-deep-space).
+*   [inthedeepspace (⭐1)](https://github.com/alionapermes/inthedeepspace/) - Based on [intheloop (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#user-content-intheloop) and inspired by [vim-deep-space (⭐285)](https://github.com/tyrannicaltoucan/vim-deep-space).
 *   [shiftys (⭐0)](https://github.com/shifty0g/shiftys-zsh-theme/) - Tweaked version of the kali theme.
 *   [ultimator (⭐0)](https://github.com/Ultimator14/ultimator-zsh-theme) - [Agnoster](https://gist.github.com/agnoster/3712874)-like theme. Includes decorators for current directory, `user@host`, python virtualenv, background jobs, last command exit status, and `git` status information. Requires [zsh-git-prompt (⭐0)](https://github.com/Ultimator14/zsh-git-prompt) plugin and Nerdfonts.
 
-### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [shtab (⭐254)](https://github.com/iterative/shtab) - Automatically generate shell tab completion scripts for Python CLI apps, supports `zsh`, `bash` and `tcsh`.
+*   [shtab (⭐286)](https://github.com/iterative/shtab) - Automatically generate shell tab completion scripts for Python CLI apps, supports `zsh`, `bash` and `tcsh`.
 
 ## [40. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -448,33 +447,33 @@
 
 ### Miscellaneous Data Structures and Algorithms
 
-*   [genfuncs (⭐44)](https://github.com/nwillc/genfuncs) - Go 1.18+ generics package inspired by Kotlin's Sequence and Map.
+*   [genfuncs (⭐46)](https://github.com/nwillc/genfuncs) - Go 1.18+ generics package inspired by Kotlin's Sequence and Map.
 
 ## [42. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Text search
 
-*   [tantivy (⭐8.1k)](https://github.com/quickwit-oss/tantivy) \[[tantivy](https://crates.io/crates/tantivy)] — A horse-speed full-text search engine library written in Rust. [![Build Status](https://github.com/quickwit-oss/tantivy/actions/workflows/test.yml/badge.svg)](https://github.com/quickwit-oss/tantivy/actions/workflows/test.yml)
+*   [tantivy (⭐8.8k)](https://github.com/quickwit-oss/tantivy) \[[tantivy](https://crates.io/crates/tantivy)] — A horse-speed full-text search engine library written in Rust. [![Build Status](https://github.com/quickwit-oss/tantivy/actions/workflows/test.yml/badge.svg)](https://github.com/quickwit-oss/tantivy/actions/workflows/test.yml)
 
 ## [43. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [chrsm/paramount-ng.nvim (⭐13)](https://github.com/chrsm/paramount-ng.nvim) - A dark color scheme written using Lush. Treesitter supported.
+*   [chrsm/paramount-ng.nvim (⭐14)](https://github.com/chrsm/paramount-ng.nvim) - A dark color scheme written using Lush. Treesitter supported.
 
 ### Editing Support / Diagnostics
 
-*   [nvim-treesitter/nvim-treesitter-context (⭐1.5k)](https://github.com/nvim-treesitter/nvim-treesitter-context) - Shows floating hover with the current function/block context.
+*   [nvim-treesitter/nvim-treesitter-context (⭐1.8k)](https://github.com/nvim-treesitter/nvim-treesitter-context) - Shows floating hover with the current function/block context.
 
 ### Session / Diagnostics
 
-*   [jedrzejboczar/possession.nvim (⭐224)](https://github.com/jedrzejboczar/possession.nvim) - Flexible session management with arbitrary persistent data stored as JSON.
+*   [jedrzejboczar/possession.nvim (⭐259)](https://github.com/jedrzejboczar/possession.nvim) - Flexible session management with arbitrary persistent data stored as JSON.
 
 ## [44. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### File Management and Sharing
 
-*   [Blindsend (⭐146)](https://github.com/blindnet-io/blindsend) - Open source tool for private, end-to-end encrypted file exchange.
+*   [Blindsend (⭐157)](https://github.com/blindnet-io/blindsend) - Open source tool for private, end-to-end encrypted file exchange.
 
 ### Google Fonts Replacements
 
@@ -490,7 +489,7 @@
 
 ### Modules / String utils
 
-*   [written (⭐5)](https://github.com/vixalien/written) - A provides a set of utilities for manipulating text, with a focus on providing typographic tools rather than pure string manipulation.
+*   [written (⭐7)](https://github.com/vixalien/written) - A provides a set of utilities for manipulating text, with a focus on providing typographic tools rather than pure string manipulation.
 
 ## [47. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -507,7 +506,7 @@
 
 ### Explainability / Explainable Deep Learning
 
-*   [pytorch-grad-cam (⭐7.5k)](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
+*   [pytorch-grad-cam (⭐8.3k)](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
 
 ### John Hopcroft / Commonsense Knowledgebase
 
@@ -515,15 +514,15 @@
 
 ## [48. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
 *   [file.coffee](https://file.coffee/) - A platform where you can store up to 15MB/file (30/MB file with an account).
-*   [Flatirons Fuse](https://flatironsdevelopment.com/products/fuse/) - An embeddable CSV and spreadsheet import tool that makes importing data to your website fast, easy, and painless.
-*   [IP2Location.io](https://www.ip2location.io/) — Freemium, fast and reliable IP geolocation API to determine geolocation data like city, coordinates, ISP and so on. Free plan is available with 30k credits per month. Subscribe paid plans for more advanced features or contact us for a personalized plan.
+*   [Flatirons Fuse](https://flatironsdevelopment.com/products/fuse/) - An embeddable CSV and spreadsheet import tool that makes data to your website fast, easy, and painless.
+*   [IP2Location.io](https://www.ip2location.io/) — Freemium, fast and reliable IP geolocation API to determine geolocation data like city, coordinates, ISP, etc. The free plan is available with 30k credits per month. Subscribe to paid plans for more advanced features or contact us for a personalized plan.
 
 ### Log Management
 
-*   [papertrailapp.com](https://papertrailapp.com/) — 48 hours search, 7 days archive, 50 MB/month
+*   [papertrailapp.com](https://papertrailapp.com/) — 48 hours search, seven days archive, 50 MB/month
 
 ### Font
 
@@ -531,7 +530,7 @@
 
 ### Web Hosting
 
-*   [fleek.co](https://fleek.co/) - Build modern sites and apps on the Open Web and its protocols seamlessly free for, unlimited websites and 50 GB/month bandwidth.
+*   [fleek.co](https://fleek.co/) - Build modern sites and apps on the Open Web and its protocols seamlessly free for unlimited websites and 50 GB/month bandwidth.
 
 ### Design and UI
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 18 - Apr 24, 2016
 
-37 awesome lists updated this week.
+36 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -44,166 +44,7 @@
 *   [Nocket (⭐9)](https://github.com/Nocket/nocket) - Naked Object based framework for wicket.
 *   [Wicketopia (⭐18)](https://github.com/jwcarman/Wicketopia) - Rapid Application Development (RAD) library for the Wicket.
 
-## [4. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
-
-### [git-secret](https://github.com/sobolevn/git-secret)
-
-### unpublish
-
-    $ git unpublish master
-    Unpublishing master.
-
-<!---->
-
-    $ git when-merged a2c9e695ecf3600f21fa731e705fd1a0503632d9
-    refs/heads/master                      5a2ec1b1a6633f830bd4a2b1daab578c062e6975
-    $ git when-merged HEAD
-    refs/heads/master                      Commit is directly on this branch.
-
-<!---->
-
-    $ git playback README.md
-
-![](https://camo.githubusercontent.com/9abe1d2de474dbc0d1ad4f48acf9e954ff0d0b30/68747470733a2f2f7261772e6769746875622e636f6d2f6a69616e6c692f6769742d706c61796261636b2f6d61737465722f616e696d6174696f6e2e676966)
-
-    $ git branch-status
-     4.0       [57 ahead and 38 behind master]    [up to date with origin/4.0]
-     master    [current branch]                   [1 ahead of origin/master]
-
-<!---->
-
-    $ git open
-    > open https://github.com/REMOTE_ORIGIN_USER/CURRENT_REPO/tree/CURRENT_BRANCH
-
-    $ git open upstream
-    > open https://github.com/REMOTE_UPSTREAM_USER/CURRENT_REPO/tree/CURRENT_BRANCH
-
-    $ git open upstream master
-    > open https://github.com/REMOTE_UPSTREAM_USER/CURRENT_REPO/tree/master
-
-<!---->
-
-    $ git my
-
-    +------------------------------------------------------------------------------+
-    | your name's remote branches in git@repo:repopath/reponame.git                |
-    +------------------------------------------------------------------------------+
-
-       local copy?  in master?  branch name
-      ................[merged]. EC-242
-      .....[local]....[merged]. commonjs-lazyload
-      .....[local]............. enqueue-gpt
-      ......................... defunct-ios-app-nag
-      .....[local]............. factor-bundles
-
-<!---->
-
-    $ git ink
-
-    • enqueue-gpt ........................................... 2015-08-31
-    • factor-bundles ........................................ 2015-10-14
-        - Pull out more modules into node_modules
-        - Works but does not provide any gains
-    • hbsfy ................................................. 2015-10-21
-    ✓ master ................................................ 2015-10-22
-    • nda-ads4 .............................................. 2015-10-22
-    • remove-equalize_content_height ........................ 2015-10-21
-    • remove-exorcise ....................................... 2015-10-21
-        - Need to DRY up exorcise function
-        - Does not map properly when uglified
-        - Need to undo postCSS mapping changes
-    • rm-convert_dates-order ................................ 2015-10-22
-    • sass-lint ............................................. 2015-10-14
-        - module does not work
-
-<!---->
-
-    $ git recursive-blame version package.json
-
-    Commit: 247479d017f138c26be27c64a0ce27f5f21fc0af
-    Author: Jeff Cross <middlefloor@gmail.com>
-    Date:   Tue Oct 13 15:58:13 2015 -0700 (7 weeks ago)
-    Path:   package.json
-    Match:  1 of 1
-
-        chore(release): bump angular version to alpha.42
-
-    1) {
-    2)   "name": "angular",
-    3)   "version": "2.0.0-alpha.42",
-    4)   "branchPattern": "2.0.*",
-    5)   "description": "Angular 2 - a web framework for modern web apps",
-    6)   "homepage": "https://github.com/angular/angular",
-    7)   "bugs": "https://github.com/angular/angular/issues",
-
-    Next action [r,n,p,c,d,q,?]? r
-
-    Commit: bb9d299b3860f6d579192828451ccd7ace70e1d8
-    Author: Igor Minar <igor@angularjs.org>
-    Date:   Tue Oct 13 12:28:03 2015 -0700 (7 weeks ago)
-    Path:   package.json
-    Match:  1 of 1
-
-        chore(release): bump angular version to alpha.41
-
-    1) {
-    2)   "name": "angular",
-    3)   "version": "2.0.0-alpha.41",
-    4)   "branchPattern": "2.0.*",
-    5)   "description": "Angular 2 - a web framework for modern web apps",
-    6)   "homepage": "https://github.com/angular/angular",
-    7)   "bugs": "https://github.com/angular/angular/issues",
-
-<!---->
-
-    $ git hyper-blame -i 3ddda43c ipsum.txt
-    c6eb3bfa (lorem 2014-08-11 23:15:57 +0000  1) LOREM IPSUM DOLOR SIT AMET, CONSECTETUR
-    134200d1 (lorem 2014-04-10 08:54:46 +0000 2*) ADIPISCING ELIT, SED DO EIUSMOD TEMPOR
-    a34a1d0d (ipsum 2014-04-11 11:25:04 +0000 3*) INCIDIDUNT UT LABORE ET DOLORE MAGNA
-    134200d1 (lorem 2014-04-10 08:54:46 +0000 4*) ALIQUA. UT ENIM AD MINIM VENIAM, QUIS
-    c6eb3bfa (lorem 2014-08-11 23:15:57 +0000  5) NOSTRUD EXERCITATION ULLAMCO LABORIS
-    0f0d17bd (dolor 2014-06-02 11:31:48 +0000 6*) NISI UT ALIQUIP EX EA COMMODO CONSEQUAT.
-
-<!---->
-
-    $ git word-blame README.md
-    results in /tmp/word-blame-output/
-     - author_stats.tsv
-     - commit_stats.tsv
-     - word-blame-by-commit.html
-     - word-blame-by-author.html
-     - text-output
-
-![git word-blame on this README](https://user-images.githubusercontent.com/1469823/57202569-0247eb00-6fa7-11e9-8549-f55d81299fab.png)
-
-    $ git fire
-    Switched to a new branch 'fire-master-maochenyan@gmail.com-1451379915'
-    On branch fire-master-maochenyan@gmail.com-1451379915
-    nothing to commit, working directory clean
-    Counting objects: 2, done.
-    Writing objects: 100% (2/2), 168 bytes | 0 bytes/s, done.
-    Total 2 (delta 0), reused 0 (delta 0)
-    To git@bitbucket.org:maochenyan/fire.git
-     * [new branch]      fire-master-maochenyan@gmail.com-1451379915 -> fire-master-maochenyan@gmail.com-1451379915
-    Branch fire-master-maochenyan@gmail.com-1451379915 set up to track remote branch fire-master-maochenyan@gmail.com-1451379915 from origin.
-
-
-    Leave building!
-
-TBD - PR Welcome!
-
-    $ git blame-someone-else 'Steve Mao <maochenyan@gmail.com>' 2efb4e3a061a2e8aaa58033e9c13c3e0e5fcde4b
-    Steve Mao  is now the author of 2efb4e3. You're officially an asshole.
-
-<!---->
-
-    $ git dsf
-
-![diff-highlight vs diff-so-fancy](https://user-images.githubusercontent.com/3429760/32387617-44c873da-c082-11e7-829c-6160b853adcb.png)
-
-![](http://i.imgur.com/PpM0i3v.png)
-
-## [5. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [4. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### PHP / Scala
 
@@ -227,7 +68,7 @@ TBD - PR Welcome!
 
 *   [Schema.org](http://schema.org/) - Collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.
 
-## [6. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/week/README.md)
+## [5. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/week/README.md)
 
 ### Royalties, Advances, and Other Money Stuff
 
@@ -235,7 +76,7 @@ TBD - PR Welcome!
 *   [How Book Advances Work – A Simple Explanation for Writers](http://www.writersdigest.com/online-editor/how-book-advances-work-a-simple-explanation-for-writers)
 *   [Typical O'Reilly Advance Structure](http://web.archive.org/web/20130704110948/http://oreilly.com/oreilly/author/ch03.html#advance)
 
-## [7. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
+## [6. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
 
 ### Data Science
 
@@ -249,7 +90,7 @@ The primary focus on group-wise data manipulation with the split-apply-combine s
 
 By the end of this book, you will have learned about text manipulation using stringr, how to extract data from twitter using twitteR library, how to clean raw data, and how to structure your raw data for data mining.
 
-## [8. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [7. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Segmentation / On-line APIs
 
@@ -261,25 +102,25 @@ By the end of this book, you will have learned about text manipulation using str
 *   [weka (⭐67)](https://github.com/paulgoetze/weka-jruby) -
     JRuby bindings for Weka, different ML algorithms implemented through Weka.
 
-## [9. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
+## [8. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
 
 ### Extensions / Toolbox
 
 *   [comment (⭐5)](https://github.com/subk/vorpal-comment) - Bash-like comment support.
 
-## [10. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [9. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Resources / Misc
 
 *   [Email toolbox](http://email-toolbox.com/) - Hand-picked resources for email marketers and designers.
 
-## [11. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [10. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Templating
 
 *   [Pug (⭐21k)](https://github.com/pugjs/pug) - High-performance template engine heavily influenced by Haml.
 
-## [12. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [11. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Articles
 
@@ -287,15 +128,15 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### Other
 
-*   [npm-upgrade (⭐312)](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively.
+*   [npm-upgrade (⭐329)](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively.
 
-## [13. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [12. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### WebSocket
 
 *   [Firehose (⭐726)](https://github.com/firehoseio/firehose) - Build realtime Ruby web applications.
 
-## [14. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
+## [13. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
 
 ### Videos / Tutorial-only
 
@@ -305,19 +146,19 @@ By the end of this book, you will have learned about text manipulation using str
 
 *   [SketchApp Rocks](http://sketchapp.rocks/)
 
-## [15. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [14. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Subtitling
 
 *   [CCExtractor](http://ccextractor.sourceforge.net/about-ccextractor.html) - A tool that analyzes video files and produces stand-alone subtitle files.
 
-## [16. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### API
 
-*   [Mobius: C# API for Spark (⭐941)](https://github.com/Microsoft/Mobius) - Mobius adds C# language binding to Apache Spark, enabling the implementation of Spark driver code and data processing operations in C#.
+*   [Mobius: C# API for Spark (⭐940)](https://github.com/Microsoft/Mobius) - Mobius adds C# language binding to Apache Spark, enabling the implementation of Spark driver code and data processing operations in C#.
 
-## [17. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [16. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
@@ -346,34 +187,34 @@ By the end of this book, you will have learned about text manipulation using str
 
 
 
-## [18. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [17. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Articles
 
 *   [Encapsulated Routing with Elements](https://www.polymer-project.org/1.0/articles/routing.html)
 *   [NET-A-PORTER case study](https://developers.google.com/web/showcase/case-study/net-a-porter)
 
-## [19. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [18. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Tools
 
-*   [CodeXL (⭐976)](https://github.com/GPUOpen-Tools/CodeXL) - CodeXL goes open source. \[MIT]
+*   [CodeXL (⭐986)](https://github.com/GPUOpen-Tools/CodeXL) - CodeXL goes open source. \[MIT]
 
-## [20. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [19. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Caching
 
-*   [Microsoft Caching (⭐481)](https://github.com/aspnet/Caching) - Libraries for in-memory caching and distributed caching.
+*   [Microsoft Caching (⭐480)](https://github.com/aspnet/Caching) - Libraries for in-memory caching and distributed caching.
 
 ### Frameworks, Libraries and Tools / Web Framework
 
-*   [ReactJS.NET (⭐2.2k)](https://github.com/reactjs/React.NET) - .NET library for JSX compilation and server-side rendering of React components.
+*   [ReactJS.NET (⭐2.3k)](https://github.com/reactjs/React.NET) - .NET library for JSX compilation and server-side rendering of React components.
 
-## [21. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [20. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Miscellaneous
 
-*   [exldap (⭐57)](https://github.com/jmerriweather/exldap) - A module for working with LDAP from Elixir.
+*   [exldap (⭐58)](https://github.com/jmerriweather/exldap) - A module for working with LDAP from Elixir.
 *   [phone (⭐104)](https://github.com/fcevado/phone) - A parser to get useful info from telephone numbers.
 
 ### Testing
@@ -384,25 +225,25 @@ By the end of this book, you will have learned about text manipulation using str
 
 *   [pay (⭐26)](https://github.com/era/pay) - An Elixir Lib to deal with Paypal and other payment solutions.
 
-## [22. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [21. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Visualization
 
 *   [chartd](http://chartd.co/) - responsive, retina-compatible charts with just an img tag.
 
-## [23. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [22. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Data Structure and Storage
 
 *   [JsonMapper (⭐1.4k)](https://github.com/cweiske/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
 
-## [24. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
+## [23. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
 ### Orchestration / Extensions
 
 *   [azk (⭐906)](https://github.com/azukiapp/azk) - a lightweight open source engine to orchestrate development environments
 
-## [25. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Auto Layout / Barcode
 
@@ -410,9 +251,9 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### Video / Barcode
 
-*   [PlayerView (⭐131)](https://github.com/davidlondono/PlayerView) - Easy to use video player using a UIView, manage rate of reproduction, screenshots and callbacks-delegate for player state.
+*   [PlayerView (⭐130)](https://github.com/davidlondono/PlayerView) - Easy to use video player using a UIView, manage rate of reproduction, screenshots and callbacks-delegate for player state.
 
-## [26. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [25. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Data Manipulation
 
@@ -426,7 +267,7 @@ By the end of this book, you will have learned about text manipulation using str
 *   [rho (⭐131)](https://github.com/rho-devel/rho) - Refactor the interpreter of the R language into a fully-compatible, efficient, VM for R.
 *   [TERR](http://spotfire.tibco.com/discover-spotfire/what-does-spotfire-do/predictive-analytics/tibco-enterprise-runtime-for-r-terr) - TIBCO Enterprise Runtime for R.
 
-## [27. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
+## [26. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
 ### REST API / Other
 
@@ -437,7 +278,7 @@ By the end of this book, you will have learned about text manipulation using str
 *   [Apoc : Awesome Procedures on Cypher (⭐1.5k)](https://github.com/neo4j-contrib/neo4j-apoc-procedures) - Collection of useful procedures for Neo4j 3.x
 *   [Graphgen (⭐8)](https://github.com/graphaware/neo4j-graphgen-procedure) - Neo4j procedure for generating test data easily with Cypher
 
-## [28. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [27. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Slides
 
@@ -458,13 +299,13 @@ By the end of this book, you will have learned about text manipulation using str
 
 *   [mciparelli/cyclejs-gravatar ★0 (⭐0)](https://github.com/mciparelli/cyclejs-gravatar) - Cycle.js component for rendering a gravatar profile image.
 
-## [29. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [28. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Javascript Libraries for Salesforce / Open Source Projects Repositories from Salesforce
 
 *   [Formulon (⭐55)](https://github.com/leifg/formulon) - Formula parser completely implemented in ES6. [See Demo](http://formulon.io)
 
-## [30. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [29. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Models/Projects
 
@@ -480,13 +321,13 @@ By the end of this book, you will have learned about text manipulation using str
 
 *   [Stack Overflow](http://stackoverflow.com/questions/tagged/tensorflow)
 
-## [31. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [30. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Articles / Outdated articles (Not relevant for current Elm architecture)
 
 *   [Elm & Components](https://medium.com/p/elm-components-3d9c00c6c612) - A blog post describing a possible approach to reducing TEA boilerplate. Useful for component libraries and anyone interested in seeing the amazing things you can do with function types.
 
-## [32. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [31. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 
@@ -551,23 +392,23 @@ By the end of this book, you will have learned about text manipulation using str
 *   [Matt DesLauriers](https://github.com/mattdesl) - Creative coder at Jam 3.
 *   [Patrick Heng](http://hengpatrick.fr/) - Creative front-end developer. Studied at Hetic and Gobelins and works at Grouek.
 
-## [33. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [32. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Featured
 
-*   [WebTorrent (⭐9.3k)](https://github.com/feross/webtorrent-app) - Streaming torrent client.
-*   [Visual Studio Code (⭐146k)](https://github.com/Microsoft/vscode) - Cross-platform IDE.
+*   [WebTorrent (⭐9.4k)](https://github.com/feross/webtorrent-app) - Streaming torrent client.
+*   [Visual Studio Code (⭐152k)](https://github.com/Microsoft/vscode) - Cross-platform IDE.
 
 ### Open Source / Other
 
-*   [Git-it (⭐4.4k)](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
+*   [Git-it (⭐4.5k)](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
 *   [Caprine (⭐6.7k)](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
-*   [Simplenote (⭐4.4k)](https://github.com/Automattic/simplenote-electron) - Note keeper.
+*   [Simplenote (⭐4.5k)](https://github.com/Automattic/simplenote-electron) - Note keeper.
 *   [Abricotine (⭐2.6k)](https://github.com/brrd/Abricotine) - Markdown editor with inline preview.
 *   [Medis (⭐11k)](https://github.com/luin/medis) - Redis database management.
-*   [SmartMirror (⭐2.7k)](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror.
+*   [SmartMirror (⭐2.8k)](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror.
 *   [Google Play Music Desktop Player (⭐8.3k)](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - Unofficial Google Play Music app.
-*   [Ansel (⭐377)](https://github.com/m0g/ansel) - Image organizer.
+*   [Ansel (⭐394)](https://github.com/m0g/ansel) - Image organizer.
 
 ### Closed Source / Other
 
@@ -577,12 +418,12 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### For Electron / Other
 
-*   [electron-is-dev (⭐408)](https://github.com/sindresorhus/electron-is-dev) - Check if Electron is running in development.
-*   [electron-localshortcut (⭐402)](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window.
+*   [electron-is-dev (⭐416)](https://github.com/sindresorhus/electron-is-dev) - Check if Electron is running in development.
+*   [electron-localshortcut (⭐409)](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window.
 *   [electron-dl (⭐1.1k)](https://github.com/sindresorhus/electron-dl) - Simplified file downloads.
-*   [electron-release-server (⭐1.8k)](https://github.com/ArekSredzki/electron-release-server) - Self-hosted release server with front-end & auto-updater support.
-*   [electron-download (⭐302)](https://github.com/electron-userland/electron-download) - Download the Electron release zip from GitHub.
-*   [ember-electron (⭐808)](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
+*   [electron-release-server (⭐1.9k)](https://github.com/ArekSredzki/electron-release-server) - Self-hosted release server with front-end & auto-updater support.
+*   [electron-download (⭐310)](https://github.com/electron-userland/electron-download) - Download the Electron release zip from GitHub.
+*   [ember-electron (⭐804)](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
 
 ### Using Electron / Other
 
@@ -591,20 +432,20 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### Components / Other
 
-*   [chrome-tabs (⭐1.6k)](https://github.com/adamschwartz/chrome-tabs) - Chrome like tabs.
+*   [chrome-tabs (⭐1.7k)](https://github.com/adamschwartz/chrome-tabs) - Chrome like tabs.
 
 ### Videos / Other
 
 *   [Building Native Desktop apps using Electron](https://www.youtube.com/watch?v=nXIrFq5-FC8)
 
-## [34. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [33. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
 *   [fn-curry (⭐5)](https://github.com/thunklife/fn-curry) – A simple function to curry a function.
 *   [date-fp (⭐122)](https://github.com/cullophid/date-fp) – A functional utility library for working with JavaScript dates. All functions in date-fp are pure, autocurried and will not mutate the date objects they are applied to.
 
-## [35. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [34. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -622,13 +463,13 @@ By the end of this book, you will have learned about text manipulation using str
 
 *   [Service Level Agreements in the Cloud: Who cares?](http://www.wired.com/insights/2011/12/service-level-agreements-in-the-cloud-who-cares/)
 
-## [36. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [35. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Individuals/Group Contributors / R individuals
 
 *   Rachel Kroll <https://rachelbythebay.com/w/>
 
-## [37. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [36. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Books / Dissemination
 
@@ -690,7 +531,7 @@ By the end of this book, you will have learned about text manipulation using str
 *   [KONECT - The Koblenz Network Collection](http://konect.uni-koblenz.de/) - Includes, among other things, networks of collaboration in DBpedia and Wikipedia, GitHub ([companion handbook](https://arxiv.org/abs/1402.5500)).
     <!-- -   [James H. Fowler’s Cosponsorship Network Data Page](http://jhfowler.ucsd.edu/cosponsorship.htm). -->
 *   [Linton Freeman’s Network Data](http://moreno.ss.uci.edu/data.html) - Over 300 datasets of all sorts, in UCINET format.
-*   [Mangal](http://mangal.io/) - Online platform to analyze, archive and share ecological network data ([preprint](https://doi.org/10.1101/002634), [Python package (⭐2)](https://github.com/mangal-wg/pymangal), [R package (⭐11)](https://github.com/mangal-wg/rmangal)).
+*   [Mangal](http://mangal.io/) - Online platform to analyze, archive and share ecological network data ([preprint](https://doi.org/10.1101/002634), [Python package (⭐2)](https://github.com/mangal-wg/pymangal), [R package (⭐12)](https://github.com/mangal-wg/rmangal)).
 *   [Mark E.J. Newman’s Network Data](http://www-personal.umich.edu/~mejn/netdata/) ([example visualizations](http://www-personal.umich.edu/~mejn/networks/)).
 *   [Norwegian Interlocking Directorate, 2002-2011](http://www.boardsandgender.com/data.php) - Two-mode and one-mode data on gender representation in Norwegian firms.
 *   [tnet Datasets](https://toreopsahl.com/datasets/) - Weighted network data.

@@ -10,21 +10,21 @@
 
 ### Debug
 
-*   [Phalcon BB Debugger (⭐6)](https://github.com/ismail0234/Phalcon-BB-Debugger) - Phalcon BB Debugger Strong and easy install.
+*   [Phalcon BB Debugger (⭐5)](https://github.com/ismail0234/Phalcon-BB-Debugger) - Phalcon BB Debugger Strong and easy install.
 
 ## [2. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Node.js
 
-*   [Nestjsx/crud (⭐3.4k)](https://github.com/nestjsx/crud) - Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.
+*   [Nestjsx/crud (⭐3.7k)](https://github.com/nestjsx/crud) - Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.
 
 ## [3. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Related projects / Syntax highlighting packages
 
-*   [Game Boy Link Cable Breakout Board (⭐62)](https://github.com/Palmr/gb-link-cable)
-*   [GBCartFlasher firmware (⭐23)](https://github.com/Tauwasser/GBCartFlasher)
-*   [VerilogBoy (⭐402)](https://github.com/zephray/VerilogBoy/) - Game Boy compatible console Verilog RTL implementation.
+*   [Game Boy Link Cable Breakout Board (⭐73)](https://github.com/Palmr/gb-link-cable)
+*   [GBCartFlasher firmware (⭐24)](https://github.com/Tauwasser/GBCartFlasher)
+*   [VerilogBoy (⭐418)](https://github.com/zephray/VerilogBoy/) - Game Boy compatible console Verilog RTL implementation.
 
 ## [4. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -65,7 +65,6 @@
 ### General Web Development
 
 *   [Web Development Reading List](https://wdrl.info). This Newsletter shares the latest articles in web development.
-*   [Pony Foo Weekly](https://ponyfoo.com/weekly). A weekly newsletter discussing interesting and trending topics around the web platform. [Archive](https://ponyfoo.com/weekly/history).
 
 ### JavaScript
 
@@ -87,20 +86,15 @@
 ### JavaScript / VueJS
 
 *   [Vue.js Newsletter](https://news.vuejs.org). Weekly dose of handpicked Vue.js news.
-*   [Vue.js Developers Newsletter](https://www.getrevue.co/profile/vuejs-developers). A weekly curated publication of the best articles, latest news and coolest Vue projects.
 *   [VueDose](https://vuedose.tips). Tips & tricks about the Vue ecosystem, for busy devs. Published weekly.
 
-### Data Visualization / Angular
-
-*   [Best in Visual Storytelling](https://us16.list-manage.com/subscribe?u=5c12dabe1e59a9fbde1174b8c\&id=e27a48af53). Monday roundup of the best in data journalism from the past week. Paid version also includes data visualization job postings.
-
-### CSS / Angular
+### CSS / Svelte
 
 *   [CSS Weekly](https://css-weekly.com/). Weekly e-mail roundup of css articles, tutorials, experiments and tools curated by Zoran Jambor.
 *   [CSS-Tricks](https://css-tricks.com). signup is at the bottom of the page right under the **Get the newsletter** header!.
 *   [CSS Layout News](http://csslayout.news/). A weekly collection of tutorials, news and information on all things CSS Layout.
 
-### Design / Angular
+### Design / Svelte
 
 *   [Web Design Weekly](https://web-design-weekly.com/). Just pure awesome links to the best news and articles to hit the interweb during the week.
 *   [Sidebar](https://sidebar.io). Five design-centric posts each day.
@@ -109,7 +103,6 @@
 *   [Alertbox E-Mail Newsletter](https://www.nngroup.com/articles/subscribe/). The latest articles about interface usability, website design, and UX research from the Nielsen Norman Group.
 *   [UI Movement](https://uimovement.com). Only the best UI design inspiration, right in your inbox.
 *   [Designer News](https://www.designernews.co). Where the design community meets.
-*   [Design Faves](https://www.designfaves.com/). Daily posts and exclusive articles marry the very best modern expressions and innovations from the Branding, Art and Graphic Design worlds.
 *   [Hack Design](https://hackdesign.org). An easy to follow design course for people who do amazing things.
 *   [Hacking UI](http://hackingui.com/). Weekly hand-picked resources for front-end developers and product managers.
 *   [eWebDesign](https://ewebdesign.com/). Latest web news and articles from industry experts.
@@ -119,38 +112,38 @@
 *   [Designgest](http://designgest.com/). Designgest is an easy way to get fresh information about interactive design trends.
 *   [Unreadit/Design](https://unread.it/n/design/). Design inspiration and great design-related content sourced from the best subreddits.
 
-### HTML5 / Angular
+### HTML5 / Svelte
 
 *   [FrontEnd Focus](https://frontendfoc.us). A once–weekly HTML5 and Web Platform technology roundup. CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.
 *   [Gamedev.js Weekly](http://gamedevjsweekly.com/). Weekly newsletter about HTML5 Game Development.
 *   [Phaser World](http://phaser.io/community/newsletter). Weekly newsletter as a summary of all the new content -game releases, tutorials, videos, etc- added to Phaser site over the last week.
 
-### SVG / Angular
+### SVG / Svelte
 
 *   [SVG Weekly](https://tinyletter.com/svgweekly). A weekly email focused on Scalable Vector Graphics (SVG), sharing tutorials, tools, experiments, talks and data.
 
-### Common Section / Angular
+### General Section / Svelte
 
 *   [O’Reilly Programming Newsletter](https://www.oreilly.com/programming/newsletter.html). Receive weekly Programming news and insights from industry insiders.
-*   [Weekly Dev Tips](https://ardalis.com/tips). A weekly email each Wednesday with a new software development tip from [Steve "ardalis" Smith](https://twitter.com/ardalis). Topics range from git to career to web development to personal development and teamwork.
+*   [Weekly Dev Tips](https://ardalis.com/tips). A weekly email each Wednesday with a new software development tip. Topics range from git to career to web development to personal development and teamwork.
 *   [LLVM Weekly](http://llvmweekly.org). A weekly newsletter covering developments in LLVM, Clang, and related projects.
 *   [Discover dev](https://www.discoverdev.io). Weekly digest of the best engineering blogs from across the web. [Archive](https://www.discoverdev.io/archive).
 
-### ObjectiveC / Angular
+### ObjectiveC / Svelte
 
 *   [ObjC](https://www.objc.io/). Free monthly issues covering the most important aspects of advanced iOS and OS X development.
 *   [Awesome iOS Newsletter](https://ios.libhunt.com/newsletter). A curated list of awesome iOS libraries, including Objective-C and Swift Projects.
 
-### C# / Angular
+### C# / Svelte
 
 *   [Awesome .Net Newsletter](https://dotnet.libhunt.com/newsletter). A collection of awesome .Net libraries, tools & frameworks.
 
-### Node.js / Angular
+### Node.js / Svelte
 
 *   [Node Weekly](https://nodeweekly.com/). A free, once–weekly e-mail round-up of Node.js news and articles.
 *   [Awesome Node.js Newsletter](https://nodejs.libhunt.com/newsletter). A weekly overview of the most popular Node.js news, articles and packages.
 
-### Swift / Angular
+### Swift / Svelte
 
 *   [Swift Newsletter](https://swiftweekly.com/). Code examples, tutorials, screencasts and much more to learn Apple’s new programming language.
 *   [iOS Dev Weekly](https://iosdevweekly.com/). The best iOS development links every week. [Archive](https://iosdevweekly.com/issues).
@@ -159,21 +152,21 @@
 *   [iOS Goodies](https://ios-goodies.com). Weekly iOS newsletter. [Archive](https://ios-goodies.com/archive).
 *   [Swift Developments](https://andybargh.com/swiftdevelopments/). Weekly curated newsletter containing a hand picked selection of the latest links, videos, tools and tutorials for people interested in designing and developing their own iOS, macOS, watchOS and tvOS apps using Swift.
 
-### Go / Angular
+### Go / Svelte
 
 *   [Go Newsletter](https://golangweekly.com/). A weekly newsletter about the Go programming language. [Archive](https://golangweekly.com/issues).
 *   [Awesome Go Newsletter](https://go.libhunt.com/newsletter). A weekly overview of the most popular Go news, articles and libraries.
 
-### R / Angular
+### R / Svelte
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐592)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐637)](https://github.com/rweekly/rweekly.org).
 
-### Ruby / Angular
+### Ruby / Svelte
 
 *   [Ruby Weekly](https://rubyweekly.com/). A free, once–weekly e-mail round-up of Ruby news and articles.
 *   [Awesome Ruby Newsletter](https://ruby.libhunt.com/newsletter). A collection of awesome Ruby gems, tools, frameworks and software.
 
-### PHP / Angular
+### PHP / Svelte
 
 *   [PHP Weekly](http://www.phpweekly.com/). A free once-a-week newsletter, featuring some great articles, news and blog posts.
 *   [Laravel News](https://laravel-news.com/). Every week lots of tips, tutorials, and packages are released for Laravel.
@@ -181,112 +174,109 @@
 *   [Laravel Daily](https://laraveldaily.com/weekly-laravel-newsletter/) Weekly tips and tricks from Laravel community.
 *   [La semana PHP](https://www.lasemanaphp.com/). A weekly collection of news, tutorials and information in Spanish about PHP and its ecosystem: Laravel, Symfony, WordPress, Drupal, ... Manually selected by Jesús Amieiro.
 
-### Python / Angular
+### Python / Svelte
 
 *   [Python Weekly](https://www.pythonweekly.com/). A free weekly newsletter featuring curated news, articles, new releases, jobs etc related to Python.
 *   [Pycoders Weekly](https://pycoders.com/). A free weekly e-mail newsletter, on Fridays, for those interested in python development and various topics around python.
 *   [Awesome Python Newsletter](https://python.libhunt.com/newsletter). A weekly overview of the most popular Python news, articles and packages.
 
-### Groovy / Angular
+### Groovy / Svelte
 
 *   [Groovy Weekly Newsletter](http://www.groovy-lang.org/groovy-weekly.html). The latest releases, interesting articles, interviews, presentations, relevant tweets or Google+ posts, links to podcasts or screencasts, code snippets, books, upcoming events, and more.
 
-### Perl / Angular
+### Perl / Svelte
 
 *   [Perl Weekly](http://perlweekly.com/). A free, once a week e-mail round-up of hand-picked news and articles about Perl.
 
-### Elixir / Angular
+### Elixir / Svelte
 
 *   [Elixir Radar](http://plataformatec.com.br/elixir-radar). A weekly email with blog posts, latest libraries, talks, events and job opportunities.
 *   [Awesome Elixir Newsletter](https://elixir.libhunt.com/newsletter). A curated list of awesome Elixir and Erlang packages and resources. [Archive](https://elixir.libhunt.com/newsletter/archive).
 
-### Clojure / Angular
+### Clojure / Svelte
 
 *   [The REPL](https://www.therepl.net/). A weekly newsletter about Clojure and ClojureScript.
 
-### Haskell / Angular
+### Haskell / Svelte
 
 *   [Haskell Weekly](https://haskellweekly.news). A free email newsletter about the Haskell programming language.
 
-### Elm / Angular
+### Elm / Svelte
 
 *   [Elm Weekly](http://www.elmweekly.nl/). The wonderful world of the Elm programming language, in your inbox.
 
-### Rust / Angular
+### Rust / Svelte
 
 *   [This Week in Rust](https://this-week-in-rust.org). Stay up to date with events, learning resources, and recent developments in Rust community. [Archive](https://this-week-in-rust.org/blog/archives/index.html).
 *   [Awesome Rust Newsletter](https://rust.libhunt.com/newsletter). A curated list of Rust libraries and resources.
 
-### C/C++ / Angular
+### C/C++ / Svelte
 
 *   [Awesome C++ Newsletter](https://cpp.libhunt.com/newsletter). A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things.
 
-### Scala / Angular
+### Scala / Svelte
 
 *   [Awesome Scala Newsletter](https://scala.libhunt.com/newsletter). A community driven list of useful Scala libraries, frameworks and software.
 
-### Java / Angular
+### Java / Svelte
 
 *   [Awesome Java Newsletter](https://java.libhunt.com/newsletter). A curated list of awesome Java frameworks, libraries and software.
 
-### Kotlin / Angular
+### Kotlin / Svelte
 
 *   [Awesome Kotlin Newsletter](https://kotlin.libhunt.com/newsletter). A weekly overview of the most popular Kotlin news, articles and libraries.
 
-### Vim / Angular
+### Vim / Svelte
 
 *   [Mastering Vim Quickly](https://masteringvim.com/). Best Vim stuff, once a week.
 
-### Databases / Angular
+### Databases / Svelte
 
 *   [DB Weekly](https://dbweekly.com/). A weekly round-up of database technology news and articles covering new developments, SQL, NoSQL, document databases, graph databases, and more.
 
-### PostgreSQL / Angular
+### PostgreSQL / Svelte
 
 *   [Postgres Weekly](https://postgresweekly.com/). A free, once–weekly e-mail round-up of PostgreSQL news and articles.
 
-### Redis / Angular
+### Redis / Svelte
 
 *   [Redis Watch](https://redislabs.com/resources/redis-watch-archive/). Periodic newsletter about everything and anything Redis.
 
-### NoSQL / Angular
+### NoSQL / Svelte
 
-*   [NoSQL Weekly](https://www.nosqlweekly.com/). A free weekly newsletter featuring curated news, articles, new releases, jobs etc related to NoSQL.
 *   [mongoDB Weekly](https://mongodb.email/). A free, once–weekly e-mail round-up of MongoDB news and articles.
 
-### Docker / Angular
+### Docker / Svelte
 
 *   [Docker Weekly](https://www.docker.com/newsletter-subscription). Weekly newsletter filled with great updates from Docker, our users and ecosystem.
 
-### Devops / Angular
+### Devops / Svelte
 
 *   [DevOps Weekly](https://www.devopsweekly.com/). A weekly slice of devops news.
-*   [DevOps newsletter](https://blog.serverdensity.com/devops-newsletter/). The best DevOps links of the week delivered to your inbox
-    every Sunday in the form of the DevOps newsletter.
 *   [Sysadmin Casts](https://sysadmincasts.com/get-notified). Sysadmin Casts - bite-sized sysadmin screencasts (released weekly).
 *   [Cron.Weekly](https://www.cronweekly.com). A weekly newsletter, delivered to you every Sunday, with news & tools tailored to Linux sysadmins. [Archige](https://www.cronweekly.com/archives/).
 *   [Awesome SysAdmin Newsletter](https://sysadmin.libhunt.com/newsletter). A curated list of awesome SysAdmin tools, software and resources.
 *   [Monitoring Weekly](https://monitoring.love/). Monitoring Weekly delivers the latest monitoring news, articles, and tools right to your inbox.
 *   [SRE Weekly](http://sreweekly.com/). SRE Weekly is a newsletter devoted to everything related to keeping a site or service available as consistently as possible.
 
-### Cloud Development / Angular
+### Cloud Development / Svelte
 
 *   [Serverless Status](https://serverless.email/). A weekly newsletter about serverless architectures and paradigms, function-as-a-service, AWS Lambda, etc.
 *   [Google Cloud Weekly Newsletter](https://www.gcpweekly.com/). This Google Cloud Weekly is a summary of the week's top news, tutorials, videos, podcasts associated to the Google Cloud ecosystem, it's well worth reading.
 
-### Kubernetes / Angular
+### Kubernetes / Svelte
 
 *   [kubelist](https://kubelist.com). Your curated weekly kubernetes information reconciliation loop.
 *   [KubeWeekly](https://kube.news). Interesting weekly news about Kubernetes in the form of a newsletter.
 *   [LWKD](http://lwkd.info). LWKD is a weekly newsletter summarizing code activity in the Kubernetes project: merges, PRs, deprecations, version updates, release schedules, and the weekly community meeting.
 
-### Mobile / Angular
+### Mobile / Svelte
 
 *   [Mobile Web Weekly](https://mobiledevweekly.com/). A weekly round-up of the releases, articles, and links that affect Web developers working on the mobile-facing Web.
 *   [Awesome Android Newsletter](https://android.libhunt.com/newsletter). A curated list of awesome Android packages and resources.
 *   [Weekly Xamarin](http://weeklyxamarin.com). Xamarin development.
 
-### Artificial Intelligence / Machine Learning / Big Data / Angular
+### Artificial Intelligence / Machine Learning / Big Data / Svelte
 
 *   [Data Elixir](https://dataelixir.com/). A weekly newsletter of the best data science news and resources from around the web. [Archive](https://dataelixir.com/newsletters/).
 *   [Artificial Intelligence Weekly](http://aiweekly.co/). A weekly collection of the best news and resources on Artificial Intelligence amd Machine Learning.
@@ -294,23 +284,20 @@
 *   [Inside AI](https://inside.com/ai). Weekly newsletter bringing you the latest in Artificial Intelligence, Robotics, and Neurotechnology.
 *   [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5\&id=6c9d98ff2c). The latest breakthroughs, applications and foul-ups in artificial intelligence. [Archive](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5\&id=6c9d98ff2c)
 
-### Technology in General / Angular
+### Technology in General / Svelte
 
 *   [TLDR](https://www.tldrnewsletter.com/). TLDR is a daily curated newsletter containing links and summaries of the most interesting stories in tech.
 *   [Barista.io](https://www.barista.io/). Stay on top of today's most popular Tech news with a daily e-mail of crowd-curated articles from across the Web.
 *   [The Morning Paper](https://blog.acolyer.org/). An interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer.
 
-### Business/Finance / Angular
+### Business/Finance / Svelte
 
-*   [Finimize](https://insider.finimize.com/). Understand today's financial news within 3 minutes. For free.
 *   [The Pricing Newsletter](https://taprun.com/newsletter/). Q\&As, lessons, and news articles to help startups and business owners understand how to implement pricing strategy.
 *   [Capital minded](https://capitalminded.com). Weekly intelligence brief on navigating the index fund age, understanding the economy, and hacking capitalism.
-*   [AngelList Weekly](https://angel.co/newsletters). The best of the startup world, curated weekly.
 *   [Startup Curated](https://startup.curated.co). The startup community’s newsletter with the best content from and for founders. [Archive](https://startup.curated.co/issues).
 
-### Awesome news / Angular
+### Awesome news / Svelte
 
-*   [HackerNewsLetter](https://www.hackernewsletter.com/). A weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from the popular Hacker News site.
 *   [ChangeLog Weekly](https://changelog.com/weekly). A weekly newsletter, covering everything that hits open source radar.
 *   [GitHub News](https://www.gitlogs.com/). Discover top trending repos at GitHub, detected by a peak detection algorithm.
 *   [Startup Digest](https://www.startupdigest.com/reading-lists). Curated reading materials from around the world, customized by your interests.
@@ -321,13 +308,17 @@
 *   [GitHub Trending Repos (⭐2.5k)](https://github.com/vitalets/github-trending-repos). A special repo allowing to track trending projects in your favorite programming language on GitHub. Updates come as GitHub notifications once a day or a week.
 *   [HN Mail](https://hnmail.io). A customizable weekly newsletter that delivers Hacker News stories based on your interests.
 
-### Resilience / Angular
+### Resilience / Svelte
 
 *   [Resilience Roundup](https://resilienceroundup.com). Learn from Resilence Engineering research without having to dig through long, academic papers.
 
-### Miscellaneous / Angular
+### Entrepreneurship / Svelte
 
 *   [Founder Weekly](http://www.founderweekly.com/). A free weekly newsletter for entrepreneurs featuring best curated content, must read articles, how to guides, tips and tricks, resources, events and more.
+*   [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/). Cutting edge news regarding entrepreneurship, growth, investing and startups sourced from the best Reddit posts.
+
+### Miscellaneous / Svelte
+
 *   [WebRTC Weekly](https://webrtcweekly.com/). A weekly & brief newsletter with all the latest news and activities on WebRTC.
 *   [Web Audio Weekly](https://www.webaudioweekly.com/). A weekly newsletter for people are interested in the Web Audio API, the Web MIDI API, or sound on the web in general.
 *   [Data Is Plural](https://tinyletter.com/data-is-plural). A weekly newsletter of useful/curious datasets.
@@ -335,9 +326,7 @@
 *   [Code Cartoons](https://tinyletter.com/codecartoons). Learn code via cartoons via email.
 *   [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter). A directory of free software solutions and web applications which can be hosted locally.
 *   [lkml.wtf](https://lkml.wtf/). A weekly roundup of Linux Kernel Mailing List threads but with a lot more sarcasm.
-*   [Startup Watching](https://startupwatching.com/). Curated knowledge, inspiration and background stories for startups. Delivered to your inbox every Monday and Thursday.
 *   [Unreadit/Tech](https://unread.it/n/tech/). Hardware and software news for tech junkies from the best posts on Reddit.
-*   [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/). Cutting edge news regarding entrepreneurship, growth, investing and startups sourced from the best Reddit posts.
 *   [Tech Productivity](https://techproductivity.co/). Tech Productivity is a short weekly newsletter for tech professionals (programmers, developers, designers, etc). Each issue includes a brief list of productivity-related tools, articles, and other resources that can help workers in various tech-related fields be more productive.
 
 ## [8. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
@@ -457,7 +446,7 @@
 
 ### Plex Requests / Third Party Hosts
 
-*   [Mellow (⭐200)](https://github.com/v0idp/Mellow/) Bot which can communicate with several APIs like Ombi, Sonarr, Radarr and Tautulli which are related to home streaming. Based off of node:9.3
+*   [Mellow (⭐206)](https://github.com/v0idp/Mellow/) Bot which can communicate with several APIs like Ombi, Sonarr, Radarr and Tautulli which are related to home streaming. Based off of node:9.3
 
 ### ROMs / Third Party Hosts
 
@@ -541,7 +530,7 @@
 
 ### Non-JavaScript Libraries / Themes
 
-*   [syn-antd](https://gitlab.com/synqrinus/syn-antd) - Ant Design wrapper for [ClojureScript](https://clojurescript.org/) and [Reagent (⭐4.6k)](https://github.com/reagent-project/reagent) using [shadow-cljs](http://shadow-cljs.org/) with tree-shaking support. As with other ClojureScript libraries, it cross-compiles to JavaScript.
+*   [syn-antd](https://gitlab.com/synqrinus/syn-antd) - Ant Design wrapper for [ClojureScript](https://clojurescript.org/) and [Reagent (⭐4.7k)](https://github.com/reagent-project/reagent) using [shadow-cljs](http://shadow-cljs.org/) with tree-shaking support. As with other ClojureScript libraries, it cross-compiles to JavaScript.
 
 ## [22. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
@@ -575,13 +564,21 @@
 
 ### Integrations
 
-*   [remount (⭐635)](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
+*   [remount (⭐671)](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
 
 ## [26. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
 
+### WWDC Students Submissions
+
+*   [2018 (⭐267)](https://github.com/wwdc/2018)
+*   [2017 (⭐243)](https://github.com/wwdc/2017)
+*   [2016 (⭐82)](https://github.com/wwdc/2016)
+*   [2015 (⭐131)](https://github.com/wwdc/2015)
+*   [2014 (⭐185)](https://github.com/wwdc/2014)
+
 ### Mathematics / SpriteKit
 
-*   [Guilloche Pattern Playground Book (⭐16)](https://github.com/TheWildHorse/GuillochePlayground) - Learn more about this pattern you see every day, but probably never knew it was really carefully designed. 🍁
+*   [Guilloche Pattern Playground Book (⭐17)](https://github.com/TheWildHorse/GuillochePlayground) - Learn more about this pattern you see every day, but probably never knew it was really carefully designed. 🍁
 
 ### PlaygroundBooks
 
@@ -595,34 +592,26 @@
 *   [Codable Playground (⭐16)](https://github.com/filip-zielinski/CodablePlayground) - Playground that demonstrates advanced uses of Codable. 🍁
 *   [Generics In Swift](https://github.com/LukeSkywalker55/Generics-In-Swift) - Playground that explains generics. 🍁
 *   [Swift String Cheat Sheet (⭐58)](https://github.com/kharrison/Playground-Strings) - A quick guide to using Strings with Swift. 🍁
-*   [About Swift (⭐73)](https://github.com/NicolaLancellotti-About/About-Swift) - A playground about Swift language.  🍁
+*   [About Swift (⭐79)](https://github.com/NicolaLancellotti-About/About-Swift) - A playground about Swift language.  🍁
 
 ### Learning Swift: Advanced Topics / Design Patterns
 
-*   [The Principles of OOD in Swift 4 (⭐1.8k)](https://github.com/ochococo/OOD-Principles-In-Swift) - The Principles of OOD based on Uncle Bob articles.🍁
-
-### WWDC Students Submissions / Functional Reactive Programming
-
-*   [2018 (⭐267)](https://github.com/wwdc/2018)
-*   [2017 (⭐244)](https://github.com/wwdc/2017)
-*   [2016 (⭐82)](https://github.com/wwdc/2016)
-*   [2015 (⭐130)](https://github.com/wwdc/2015)
-*   [2014 (⭐186)](https://github.com/wwdc/2014)
+*   [The Principles of OOD in Swift 4 (⭐1.9k)](https://github.com/ochococo/OOD-Principles-In-Swift) - The Principles of OOD based on Uncle Bob articles.🍁
 
 ### Theoretical Computer Science / Functional Reactive Programming
 
-*   [Functional Debug View (⭐37)](https://github.com/tomquist/DebugView) - Playground to visualize functional programming with graphical sequences. 🍁 🌟
-*   [OOP with Functions in Swift (⭐58)](https://github.com/iamleeg/OOPInFPInSwift) - Object-Oriented Programming in Functional Programming in Swift. 🍁
+*   [Functional Debug View (⭐38)](https://github.com/tomquist/DebugView) - Playground to visualize functional programming with graphical sequences. 🍁 🌟
+*   [OOP with Functions in Swift (⭐59)](https://github.com/iamleeg/OOPInFPInSwift) - Object-Oriented Programming in Functional Programming in Swift. 🍁
 
 ### Theoretical Computer Science / Algorithms and Data Structures
 
-*   [Animated Sorting Algorithms (⭐32)](https://github.com/p-sun/Animated-Sorting-Algorithms) - Swift 4 playgrounds to view and manipulate sorting algorithms.🍁
-*   [Expressions (⭐398)](https://github.com/mpangburn/Expressions) - Arithmetic and logical expressions elegantly modeled and visualized using protocol-oriented binary trees.🍁
+*   [Animated Sorting Algorithms (⭐34)](https://github.com/p-sun/Animated-Sorting-Algorithms) - Swift 4 playgrounds to view and manipulate sorting algorithms.🍁
+*   [Expressions (⭐397)](https://github.com/mpangburn/Expressions) - Arithmetic and logical expressions elegantly modeled and visualized using protocol-oriented binary trees.🍁
 
 ### Theoretical Computer Science / Languages
 
-*   [Introduction to Compilers (⭐404)](https://github.com/ahoppen/introduction-to-compilers) - Great introduction to the inner workings of compilers. 🍁🌟
-*   [Pascal Interpreter (⭐277)](https://github.com/igorkulman/SwiftPascalInterpreter) - Simple Swift interpreter for the Pascal language inspired by the Let’s Build A Simple Interpreter article series. 🍁
+*   [Introduction to Compilers (⭐432)](https://github.com/ahoppen/introduction-to-compilers) - Great introduction to the inner workings of compilers. 🍁🌟
+*   [Pascal Interpreter (⭐282)](https://github.com/igorkulman/SwiftPascalInterpreter) - Simple Swift interpreter for the Pascal language inspired by the Let’s Build A Simple Interpreter article series. 🍁
 
 ### UIKit And Graphics / SpriteKit
 
@@ -630,8 +619,8 @@
 
 ### Playground Sets / SpriteKit
 
-*   [Parks And Recreation (⭐170)](https://github.com/zwaldowski/ParksAndRecreation) - Great collection of interesting playgrounds, for fun and for profit. 🍁🌟
-*   [URaimo's Playgrounds (⭐140)](https://github.com/uraimo/Swift-Playgrounds) - My playgrounds, various topics. 🍁
+*   [Parks And Recreation (⭐172)](https://github.com/zwaldowski/ParksAndRecreation) - Great collection of interesting playgrounds, for fun and for profit. 🍁🌟
+*   [URaimo's Playgrounds (⭐139)](https://github.com/uraimo/Swift-Playgrounds) - My playgrounds, various topics. 🍁
 
 ### Miscellaneous / SpriteKit
 
@@ -642,7 +631,7 @@
 
 ### Apps / Media
 
-*   [Wagtail-Textract (⭐29)](https://github.com/fourdigits/wagtail_textract) - Make Wagtail search Documents contents (PDF, Excel and Word, etc.).
+*   [Wagtail-Textract (⭐30)](https://github.com/fourdigits/wagtail_textract) - Make Wagtail search Documents contents (PDF, Excel and Word, etc.).
 
 ### Resources / Presentations
 
@@ -655,9 +644,9 @@
 *   [Wagtail & Whatsapp – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=47) by Lisa Adams & Codie Roelf.
 *   [Slack2Wagtail – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=785) by Coen van der Kamp & Lucas Moeskops.
 *   [Wagtail and Oscar – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=1634) by Lars van de Kerkhof.
-*   [wagtail-textract – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3313) by Kees Hink. [Code (⭐29)](https://github.com/fourdigits/wagtail_textract).
+*   [wagtail-textract – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3313) by Kees Hink. [Code (⭐30)](https://github.com/fourdigits/wagtail_textract).
 *   [Django 2.2 compatibility – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3468) by Matt Wescott.
-*   [SEO dashboard – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3937) by Janneke Janssen. [Code (⭐19)](https://github.com/LUKKIEN/wagtail-marketing-addons).
+*   [SEO dashboard – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3937) by Janneke Janssen. [Code (⭐20)](https://github.com/LUKKIEN/wagtail-marketing-addons).
 *   [My First Wagtail Contribution – More formats in RichText Editor – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=4126) by Arifin Ibne Matin.
 *   [Fly, Wagtail, fly! – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=4404) by Daniele Procida.
 *   [Wagtail & GraphQL – Wagtail Space 2019](https://youtu.be/YydSbL8gMS4?t=24) by Arthur Bayr.
@@ -701,7 +690,7 @@
 
 ### Package Repositories
 
-*   [bandersnatch (⭐364)](https://github.com/pypa/bandersnatch/) - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
+*   [bandersnatch (⭐370)](https://github.com/pypa/bandersnatch/) - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
 
 ## [32. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
@@ -722,17 +711,17 @@
 
 ### Date and Time Processing
 
-*   [timezone (⭐322)](https://github.com/panthomakos/timezone) - Accurate current and historical timezones and transformations, with support for Geonames and Google latitude - longitude timezone lookups.
+*   [timezone (⭐331)](https://github.com/panthomakos/timezone) - Accurate current and historical timezones and transformations, with support for Geonames and Google latitude - longitude timezone lookups.
 
 ### Process Management and Monitoring
 
-*   [Health Monitor Rails (⭐198)](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
+*   [Health Monitor Rails (⭐203)](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
 
 ## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Realm
 
-*   [RealmWrapper (⭐73)](https://github.com/k-lpmg/RealmWrapper) - Safe and easy wrappers for RealmSwift.
+*   [RealmWrapper (⭐72)](https://github.com/k-lpmg/RealmWrapper) - Safe and easy wrappers for RealmSwift.
 
 ## [35. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -744,7 +733,7 @@
 
 ### Transport-layer defenses / Threat signature packages and collections
 
-*   [MITMEngine (⭐678)](https://github.com/cloudflare/mitmengine) - Golang library for server-side detection of TLS interception events.
+*   [MITMEngine (⭐703)](https://github.com/cloudflare/mitmengine) - Golang library for server-side detection of TLS interception events.
 
 ## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -778,15 +767,15 @@
 
 ### E-Commerce and Payments
 
-*   [NopCommerce (⭐8.1k)](https://github.com/nopSolutions/nopCommerce) - nopCommerce. Free open-source e-commerce shopping cart (ASP.NET Core)
+*   [NopCommerce (⭐8.5k)](https://github.com/nopSolutions/nopCommerce) - nopCommerce. Free open-source e-commerce shopping cart (ASP.NET Core)
 
 ### HTTP
 
-*   [Tiny.RestClient (⭐197)](https://github.com/jgiacomini/Tiny.RestClient) - Simpliest Fluent REST client for .NET.
+*   [Tiny.RestClient (⭐201)](https://github.com/jgiacomini/Tiny.RestClient) - Simpliest Fluent REST client for .NET.
 
 ### Package Management
 
-*   [Sleet (⭐304)](https://github.com/emgarten/sleet/) - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
+*   [Sleet (⭐313)](https://github.com/emgarten/sleet/) - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
 
 ## [42. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
@@ -806,7 +795,7 @@
 
 ### Libraries
 
-*   [react-on-lambda (⭐257)](https://github.com/sultan99/react-on-lambda) - Replace JSX in React with functions (currying, compositions and etc).
+*   [react-on-lambda (⭐259)](https://github.com/sultan99/react-on-lambda) - Replace JSX in React with functions (currying, compositions and etc).
 
 ### Resources / Articles
 
@@ -816,7 +805,7 @@
 
 ### Frameworks, Libraries and Tools / Database
 
-*   [StringDB (⭐60)](https://github.com/SirJosh3917/StringDB) - StringDB is a modular, key/value pair archival DB designed to consume *tiny* amounts of ram & produce *tiny* databases.
+*   [StringDB (⭐70)](https://github.com/SirJosh3917/StringDB) - StringDB is a modular, key/value pair archival DB designed to consume *tiny* amounts of ram & produce *tiny* databases.
 
 ### Frameworks, Libraries and Tools / Misc
 
@@ -824,7 +813,7 @@
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [System.CommandLine (⭐2.9k)](https://github.com/dotnet/command-line-api) - System.CommandLine, a set of libraries for command line parsing, invocation, and rendering of terminal output.
+*   [System.CommandLine (⭐3.2k)](https://github.com/dotnet/command-line-api) - System.CommandLine, a set of libraries for command line parsing, invocation, and rendering of terminal output.
 
 ## [45. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
@@ -847,7 +836,7 @@
 
 ### Artificial Intelligence / Web
 
-*   [Duck Hunt (⭐531)](https://github.com/MattSurabian/DuckHunt-JS) - Shooting game in ducks. [Play](http://duckhuntjs.com/).
+*   [Duck Hunt (⭐542)](https://github.com/MattSurabian/DuckHunt-JS) - Shooting game in ducks. [Play](http://duckhuntjs.com/).
 *   [Starship](http://maettig.com/code/canvas/starship-sorades-13k.zip) - Traditional starship game. [Play](http://games.leonardomauro.com/starshipsorades/).
 *   [WebNES](https://github.com/pubby) - Play rooms of NES in web browser. [Play](http://pubby.github.io/webnes/index_app.html).
 

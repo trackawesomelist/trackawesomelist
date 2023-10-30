@@ -8,27 +8,22 @@
 
 ## [1. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
-### Actors
-
-*   [exos (⭐75)](https://github.com/awetzel/exos) - A Port Wrapper which forwards cast and call to a linked Port.
-*   [sbroker (⭐160)](https://github.com/fishcakez/sbroker) - Sojourn-time based active queue management library.
-
 ### Authentication
 
 *   [aws\_auth (⭐65)](https://github.com/bryanjos/aws_auth) - AWS Signature Version 4 Signing Library for Elixir.
 
 ### Email
 
-*   [mailer (⭐40)](https://github.com/antp/mailer) - A simple SMTP mailer.
+*   [mailer (⭐41)](https://github.com/antp/mailer) - A simple SMTP mailer.
 
 ### Framework Components
 
-*   [plug\_session\_memcached (⭐14)](https://github.com/gutschilla/plug-session-memcached) - A very simple memcached session store for Elixir's plug.
+*   [plug\_session\_memcached (⭐15)](https://github.com/gutschilla/plug-session-memcached) - A very simple memcached session store for Elixir's plug.
 
 ### Text and Numbers
 
-*   [base58 (⭐14)](https://github.com/jrdnull/base58) - Base58 encoding/decoding for Elixir.
-*   [faust (⭐25)](https://github.com/jquadrin/faust) - Markov Text Generator for Elixir.
+*   [base58 (⭐15)](https://github.com/jrdnull/base58) - Base58 encoding/decoding for Elixir.
+*   [faust (⭐26)](https://github.com/jquadrin/faust) - Markov Text Generator for Elixir.
 *   [kitsune (⭐11)](https://github.com/edubkendo/kitsune) - An Elixir library for transforming the representation of data.
 
 ## [2. Typography](/content/deanhume/typography/README.md)

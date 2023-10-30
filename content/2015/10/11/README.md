@@ -60,7 +60,7 @@
 
 ### Build Automation and Package management
 
-*   [Boot (⭐1.7k)](https://github.com/boot-clj/boot)
+*   [Boot (⭐1.8k)](https://github.com/boot-clj/boot)
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -76,7 +76,7 @@
 
 ## [8. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 
-### File Format DSL
+### DSLs
 
 *   [document-builder (⭐95)](https://github.com/craigburke/document-builder) - A document builder for Groovy for PDF or Word documents.
 
@@ -90,7 +90,7 @@
 
 ### Disassemblers and debuggers
 
-*   [radare2 (⭐17k)](https://github.com/radare/radare2) - A portable reversing framework
+*   [radare2 (⭐19k)](https://github.com/radare/radare2) - A portable reversing framework
 
 ## [11. Awesome R](/content/qinwf/awesome-R/README.md)
 

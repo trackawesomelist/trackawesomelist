@@ -119,7 +119,7 @@
 
 ### Auto Layout / Barcode
 
-*   [Cassowary (⭐110)](https://github.com/tribalworldwidelondon/CassowarySwift) - A linear constraint solving library using the same algorithm as AutoLayout.
+*   [Cassowary (⭐111)](https://github.com/tribalworldwidelondon/CassowarySwift) - A linear constraint solving library using the same algorithm as AutoLayout.
 
 ## [7. Awesome D3](/content/wbkd/awesome-d3/README.md)
 

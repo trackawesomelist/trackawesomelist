@@ -10,7 +10,7 @@
 
 ### Game Frameworks / XML
 
-*   [Dagon (⭐275)](https://github.com/gecko0307/dagon) - 3D game engine for D. see <https://gecko0307.github.io/dagon/>
+*   [Dagon (⭐291)](https://github.com/gecko0307/dagon) - 3D game engine for D. see <https://gecko0307.github.io/dagon/>
 
 ## [2. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
@@ -27,7 +27,7 @@
     ![](https://img.shields.io/github/stars/argyleink/open-props.svg?style=social\&label=Star)
     [Demo](https://open-props.style/#gallery),
     [Docs](https://open-props.style/#getting-started),
-    [Repo (⭐2.8k)](https://github.com/argyleink/open-props/)
+    [Repo (⭐3.7k)](https://github.com/argyleink/open-props/)
     \| #CSS #PostCSS
 
 ## [4. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
@@ -47,15 +47,15 @@
 ### conversion
 
 *   **OpenStreetMap**
-    *   [osmtogeojson (⭐617)](https://github.com/tyrasd/osmtogeojson): convert OpenStreetMap data to GeoJSON
+    *   [osmtogeojson (⭐635)](https://github.com/tyrasd/osmtogeojson): convert OpenStreetMap data to GeoJSON
     *   [osm2geojson (⭐11)](https://github.com/rclark/osm2geojson): converts OSM XML to GeoJSON
-    *   [osm2geojson (⭐71)](https://github.com/aspectumapp/osm2geojson): (Python) converts OSM XML and Overpass XML/JSON to GeoJSON
+    *   [osm2geojson (⭐77)](https://github.com/aspectumapp/osm2geojson): (Python) converts OSM XML and Overpass XML/JSON to GeoJSON
     *   [minjur (⭐58)](https://github.com/mapbox/minjur): converts OpenStreetMap data to GeoJSON faster than anything else
-    *   [geojsontoosm (⭐16)](https://github.com/tyrasd/geojsontoosm): convert GeoJSON to OSM XML
+    *   [geojsontoosm (⭐17)](https://github.com/tyrasd/geojsontoosm): convert GeoJSON to OSM XML
     *   [geojson2osm (⭐6)](https://github.com/Rub21/geojson2osm): convert GeoJSON to OSM XML
-    *   [osm-and-geojson (⭐89)](https://github.com/aaronlidman/osm-and-geojson): convert GeoJSON to OSM XML and OSM XML to GeoJSON
+    *   [osm-and-geojson (⭐90)](https://github.com/aaronlidman/osm-and-geojson): convert GeoJSON to OSM XML and OSM XML to GeoJSON
     *   [geojson2osm-es6 (⭐0)](https://github.com/DenisCarriere/geojson2osm-es6/): convert GeoJSON to OSM XML
-    *   [query-overpass (⭐144)](https://github.com/perliedman/query-overpass) CLI to make Overpass query and transform result to GeoJSON. Based on [osmtogeojson (⭐617)](https://github.com/tyrasd/osmtogeojson)
+    *   [query-overpass (⭐146)](https://github.com/perliedman/query-overpass) CLI to make Overpass query and transform result to GeoJSON. Based on [osmtogeojson (⭐635)](https://github.com/tyrasd/osmtogeojson)
 
 ## [6. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/week/README.md)
 
@@ -105,14 +105,14 @@
 
 ## [9. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
-### Time Series / NLP
+### Time Series / Others
 
-*   [sktime (⭐6.5k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [tslearn (⭐2.5k)](https://github.com/rtavenar/tslearn) - Machine learning toolkit dedicated to time-series data. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [tick (⭐422)](https://github.com/X-DataInitiative/tick) - Module for statistical learning, with a particular emphasis on time-dependent modeling.  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [Prophet (⭐16k)](https://github.com/facebook/prophet) - Automatic Forecasting Procedure.
-*   [PyFlux (⭐2k)](https://github.com/RJT1990/pyflux) - Open source time series library for Python.
-*   [bayesloop (⭐130)](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models.
+*   [sktime (⭐7k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [tslearn (⭐2.6k)](https://github.com/rtavenar/tslearn) - Machine learning toolkit dedicated to time-series data. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [tick (⭐436)](https://github.com/X-DataInitiative/tick) - Module for statistical learning, with a particular emphasis on time-dependent modeling.  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [Prophet (⭐17k)](https://github.com/facebook/prophet) - Automatic Forecasting Procedure.
+*   [PyFlux (⭐2.1k)](https://github.com/RJT1990/pyflux) - Open source time series library for Python.
+*   [bayesloop (⭐132)](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models.
 *   [luminol (⭐1.1k)](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library.
 *   [dateutil](https://dateutil.readthedocs.io/en/stable/) - Powerful extensions to the standard datetime module
 *   [maya (⭐3.4k)](https://github.com/timofurrer/maya) - makes it very easy to parse a string and for changing timezones
@@ -224,35 +224,31 @@
 
 ### Software / Database Management
 
-*   [Directus](https://directus.io/) - An Instant App & API for your SQL Database. Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. ([Source Code (⭐22k)](https://github.com/directus/directus)) `GPL-3.0` `Nodejs`
+*   [Directus](https://directus.io/) - An Instant App & API for your SQL Database. Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. ([Source Code (⭐24k)](https://github.com/directus/directus)) `GPL-3.0` `Nodejs`
 
 ### Software / Media Streaming - Video Streaming
 
-*   [OvenMediaEngine](https://ovenmediaengine.com) - OvenMediaEngine is a selfhostable Open-Source Streaming Server with Sub-Second Latency. ([Demo](https://demo.ovenplayer.com), [Source Code (⭐2k)](https://github.com/AirenSoft/OvenMediaEngine)) `GPL-3.0` `C++`
+*   [OvenMediaEngine](https://ovenmediaengine.com) - OvenMediaEngine is a selfhostable Open-Source Streaming Server with Sub-Second Latency. ([Demo](https://demo.ovenplayer.com), [Source Code (⭐2.3k)](https://github.com/AirenSoft/OvenMediaEngine)) `GPL-3.0` `C++/Docker`
 
 ### Software / Money, Budgeting & Management
 
 *   [Hub20](https://hub20.io/) - A self-hosted payment processor for Ethereum and ERC20 Tokens. ([Source Code](https://gitlab.com/mushroomlabs/hub20/)) `AGPL-3.0` `Docker/Python`
-*   [IHateMoney](https://ihatemoney.org/) - Manage your shared expenses, easily. ([Demo](https://ihatemoney.org/demo/), [Source Code (⭐879)](https://github.com/spiral-project/ihatemoney)) `BSD-3-Clause` `Docker/Python`
-
-### Software / Password Managers
-
-*   [vaults (⭐32)](https://github.com/MatrixEternal/vaults) - Password manager featuring client side AES-256 encryption, PBKDF2 hashing, vaults, password generation & more. `GPL-3.0` `PHP`
+*   [IHateMoney](https://ihatemoney.org/) - Manage your shared expenses, easily. ([Demo](https://ihatemoney.org/demo/), [Source Code (⭐972)](https://github.com/spiral-project/ihatemoney)) `BSD-3-Clause` `Docker/Python`
 
 ### Software / Polls and Events
 
-*   [ClearFlask](https://clearflask.com) - Community-feedback tool for managing incoming feedback and prioritizing a public roadmap. Alternative to Canny, UserVoice, Upvoty. ([Demo](https://product.clearflask.com), [Source Code (⭐156)](https://github.com/clearflask/clearflask)) `AGPL-3.0` `Docker`
+*   [ClearFlask](https://clearflask.com) - Community-feedback tool for managing incoming feedback and prioritizing a public roadmap (alternative to Canny, UserVoice, Upvoty). ([Demo](https://product.clearflask.com), [Source Code (⭐202)](https://github.com/clearflask/clearflask)) `AGPL-3.0` `Docker`
 
 ### Software / Software Development - Project Management
 
-*   [OneDev](https://onedev.io/) - All-In-One DevOps Platform. With Git Management, Issue Tracking, and CI/CD. Simple yet Powerful. ([Source Code](https://code.onedev.io/projects/160)) `MIT` `Java`
+*   [OneDev](https://onedev.io/) - All-In-One DevOps Platform. With Git Management, Issue Tracking, and CI/CD. Simple yet Powerful. ([Source Code](https://code.onedev.io/projects/160)) `MIT` `Java/Docker/K8S`
 
 ## [15. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Forms / Image Picker
 
-*   [Form Builder (⭐1.2k)](https://github.com/danvick/flutter_form_builder) <!--stargazers:danvick/flutter_form_builder--> - Framework that simplifies building forms, validating fields, reacting to changes, and collecting the final user input by [Danvick Miller](https://github.com/danvick)
-*   [Reactive Forms (⭐342)](https://github.com/joanpablo/reactive_forms) <!--stargazers:joanpablo/reactive_forms--> - Model-driven approach to handling Forms inputs and validations, heavily inspired in Angular's Reactive Forms.
+*   [Form Builder (⭐1.3k)](https://github.com/danvick/flutter_form_builder) <!--stargazers:danvick/flutter_form_builder--> - Framework that simplifies building forms, validating fields, reacting to changes, and collecting the final user input by [Danvick Miller](https://github.com/danvick)
+*   [Reactive Forms (⭐378)](https://github.com/joanpablo/reactive_forms) <!--stargazers:joanpablo/reactive_forms--> - Model-driven approach to handling Forms inputs and validations, heavily inspired in Angular's Reactive Forms.
 
 ## [16. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
@@ -264,7 +260,7 @@
 
 ### Tools / Linters
 
-*   [flake8-type-checking (⭐78)](https://github.com/snok/flake8-type-checking) - Plugin to help you guard any type-annotation-only import correctly.
+*   [flake8-type-checking (⭐100)](https://github.com/snok/flake8-type-checking) - Plugin to help you guard any type-annotation-only import correctly.
 
 ## [18. Tools](/content/lvwzhen/tools/week/README.md)
 
@@ -284,7 +280,7 @@
 
 *   Prelude
     *   [JasonShin/fp-core.rs (⭐1.2k)](https://github.com/JasonShin/fp-core.rs) — A library for functional programming in Rust
-    *   [myrrlyn/tap (⭐250)](https://github.com/myrrlyn/tap) - Suffix-Position Pipeline Behavior
+    *   [myrrlyn/tap (⭐283)](https://github.com/myrrlyn/tap) - Suffix-Position Pipeline Behavior
 
 ## [21. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
@@ -296,40 +292,36 @@
 
 ### Validation / Playground
 
-*   [ts-codec (⭐11)](https://github.com/julienvincent/ts-codec) - TypeScript Codecs for encoding, decoding and validating data
+*   [ts-codec (⭐12)](https://github.com/julienvincent/ts-codec) - TypeScript Codecs for encoding, decoding and validating data
 
 ## [23. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [@vitejs/plugin-legacy (⭐56k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
-
-### Vue / Integrations
-
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue-jsx (⭐56k)](https://github.com/vitejs/vite/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
+*   [@vitejs/plugin-legacy (⭐60k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
 
 ### Svelte / Integrations
 
-*   [vite-plugin-svelte (⭐681)](https://github.com/sveltejs/vite-plugin-svelte) - Adds Svelte support. Official plugin of Svelte team.
+*   [vite-plugin-svelte (⭐734)](https://github.com/sveltejs/vite-plugin-svelte) - Adds Svelte support. Official plugin of Svelte team.
 
 ## [24. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [rmagatti/goto-preview (⭐519)](https://github.com/rmagatti/goto-preview) - Previewing native LSP's goto definition calls in floating windows.
+*   [rmagatti/goto-preview (⭐621)](https://github.com/rmagatti/goto-preview) - Previewing native LSP's goto definition calls in floating windows.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [andersevenrud/nordic.nvim (⭐161)](https://github.com/andersevenrud/nordic.nvim) - A nord-esque colorscheme.
+*   [andersevenrud/nordic.nvim (⭐166)](https://github.com/andersevenrud/nordic.nvim) - A nord-esque colorscheme.
 
 ### Utility / Diagnostics
 
-*   [sudormrfbin/cheatsheet.nvim (⭐510)](https://github.com/sudormrfbin/cheatsheet.nvim) - Searchable cheatsheet.
-*   [stevearc/dressing.nvim (⭐1k)](https://github.com/stevearc/dressing.nvim) - Improve the built-in `vim.ui` interfaces with telescope, fzf, etc.
+*   [sudormrfbin/cheatsheet.nvim (⭐565)](https://github.com/sudormrfbin/cheatsheet.nvim) - Searchable cheatsheet.
+*   [stevearc/dressing.nvim (⭐1.3k)](https://github.com/stevearc/dressing.nvim) - Improve the built-in `vim.ui` interfaces with telescope, fzf, etc.
 
 ### Editing Support / Diagnostics
 
-*   [ethanholz/nvim-lastplace (⭐254)](https://github.com/ethanholz/nvim-lastplace) - Reopen files at your last edit position.
+*   [ethanholz/nvim-lastplace (⭐284)](https://github.com/ethanholz/nvim-lastplace) - Reopen files at your last edit position.
 
 ## [25. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
@@ -361,7 +353,7 @@
 
 ### Application Frameworks
 
-*   [Signals (⭐43)](https://github.com/EmitKnowledge/Signals) - Signals is a .NET5 based framework which focuses on increasing the quality and productivity within development teams by providing them with tools, aspects and processes.
+*   [Signals (⭐50)](https://github.com/EmitKnowledge/Signals) - Signals is a .NET5 based framework which focuses on increasing the quality and productivity within development teams by providing them with tools, aspects and processes.
 
 ### GUI
 
@@ -369,11 +361,11 @@
 
 ### MVVM
 
-*   [Community Toolkit](https://github.com/CommunityToolkit) - Collection of control & helper libraries and samples for various .NET technologies. Contains modern MVVM library, supported by Microsoft. Includes [Windows Community Toolkit (⭐5.5k)](https://github.com/CommunityToolkit/WindowsCommunityToolkit), [MAUI Community Toolkit (⭐1.5k)](https://github.com/CommunityToolkit/Maui), and [Dotnet Community Toolkit (⭐2.1k)](https://github.com/CommunityToolkit/dotnet).
+*   [Community Toolkit](https://github.com/CommunityToolkit) - Collection of control & helper libraries and samples for various .NET technologies. Contains modern MVVM library, supported by Microsoft. Includes [Windows Community Toolkit (⭐5.7k)](https://github.com/CommunityToolkit/WindowsCommunityToolkit), [MAUI Community Toolkit (⭐1.8k)](https://github.com/CommunityToolkit/Maui), and [Dotnet Community Toolkit (⭐2.4k)](https://github.com/CommunityToolkit/dotnet).
 
 ### Serialization
 
-*   [FlatSharp (⭐411)](https://github.com/jamescourtney/FlatSharp) - Fast, idiomatic FlatBuffers implementation. Use .fbs files or attributes.
+*   [FlatSharp (⭐453)](https://github.com/jamescourtney/FlatSharp) - Fast, idiomatic FlatBuffers implementation. Use .fbs files or attributes.
 
 ## [28. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
@@ -401,7 +393,7 @@
 
 ### Contents / Libraries
 
-*   [Nano Stores (⭐3.2k)](https://github.com/nanostores/nanostores) - A tiny (199 bytes) state manager with many atomic tree-shakable stores.
+*   [Nano Stores (⭐3.9k)](https://github.com/nanostores/nanostores) - A tiny (199 bytes) state manager with many atomic tree-shakable stores.
 
 ## [32. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
@@ -413,7 +405,7 @@
 
 ### Testing
 
-*   [lambdatest.com](https://www.lambdatest.com/) — Manual, visual, screenshot and automated browser testing on selenium and cypress, [free for Open Source](https://www.lambdatest.com/open-source-cross-browser-testing-tool)
+*   [lambdatest.com](https://www.lambdatest.com/) — Manual, visual, screenshot, and automated browser testing on selenium and cypress, [free for Open Source](https://www.lambdatest.com/open-source-cross-browser-testing-tool)
 
 ### Security and PKI
 
@@ -429,14 +421,14 @@
 
 ### Design Inspiration
 
-*   [awwwards.](https://www.awwwards.com/) - \[Top websites] A showcases of all the best designed websites (voted on by designers).
+*   [awwwards.](https://www.awwwards.com/) - \[Top websites] A showcase of all the best-designed websites (voted on by designers).
 *   [Behance](https://www.behance.net/) - \[Design showcase] A place where designers showcase their work. Filterable with categories for UI/UX projects.
 *   [dribbble](https://dribbble.com/) - \[Design showcase] Unique design inspiration, generally not from real applications.
 *   [Mobbin](https://mobbin.design/) - \[Mobile screenshots] Save hours of UI & UX research with our library of 50,000+ fully searchable mobile app screenshots.
-*   [Mobile Patterns](https://www.mobile-patterns.com/) - \[Mobile screenshots] A design inspirational library featuring finest UI UX Patterns (iOS and Android) for designers, developers, and product makers to reference.
+*   [Mobile Patterns](https://www.mobile-patterns.com/) - \[Mobile screenshots] A design inspirational library featuring the finest UI UX Patterns (iOS and Android) for designers, developers, and product makers to reference.
 *   [Screenlane](https://screenlane.com/) - \[Mobile screenshots] Get inspired and keep up with the latest web & mobile app UI design trends. Filterable by pattern and app.
 *   [scrnshts](https://scrnshts.club/) - \[Mobile screenshots] A hand-picked collection of the finest app store design screenshots.
-*   [UI Garage](https://uigarage.net/) - \[Mobile and web screenshots] Daily UI inspiration & patterns for designers, developers to find inspiration, tools and the best resources for your project.
+*   [UI Garage](https://uigarage.net/) - \[Mobile and web screenshots] Daily UI inspiration & patterns for designers and developers to find inspiration, tools, and the best resources for your project.
 
 ## [34. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -446,11 +438,7 @@
 
 ## [35. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
-### JavaScript / Angular
-
-*   [Angular Weekly](https://www.getrevue.co/profile/angular-newsletter). Angular Weekly is a summary of #angular related topics and news from the last week.
-
-### Awesome news / Angular
+### Awesome news / Svelte
 
 *   [Weekly Robotics](https://weeklyrobotics.com/). A weekly newsletter with news, projects and research related to robotics.
 
@@ -516,13 +504,13 @@
 
 ### Command-Line Productivity
 
-*   [sshrc (⭐123)](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH
-*   [zoxide (⭐9.1k)](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
+*   [sshrc (⭐163)](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH.
+*   [zoxide (⭐12k)](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
 
 ### Shell Script Development
 
-*   [bashly (⭐1.4k)](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
-*   [bash-modules (⭐98)](https://github.com/vlisivka/bash-modules) - a collection of modules for [unofficial strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
+*   [bashly (⭐1.7k)](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator.
+*   [bash-modules (⭐117)](https://github.com/vlisivka/bash-modules) - A collection of modules for unofficial strict mode.
 
 ## [40. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
@@ -554,11 +542,11 @@
 
 ### Libraries/Frameworks / Graphics
 
-*   [JetBrains/skiko (⭐1.4k)](https://github.com/JetBrains/skiko) - Kotlin Multiplatform bindings to Skia
+*   [JetBrains/skiko (⭐1.6k)](https://github.com/JetBrains/skiko) - Kotlin Multiplatform bindings to Skia
 
 ### Projects / Web
 
-*   [spolnik/JAlgoArena (⭐35)](https://github.com/spolnik/JAlgoArena) - JAlgoArena is a highly scalable programming contest platform which you can host on own infrastructure. It allows to define new problems and solve them in Kotlin and Java.
+*   [spolnik/JAlgoArena (⭐36)](https://github.com/spolnik/JAlgoArena) - JAlgoArena is a highly scalable programming contest platform which you can host on own infrastructure. It allows to define new problems and solve them in Kotlin and Java.
 
 ## [43. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -585,7 +573,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [imbalanced-ensemble (⭐219)](https://github.com/ZhiningLiu1998/imbalanced-ensemble) - Python toolbox for quick implementation, modification, evaluation, and visualization of ensemble learning algorithms for class-imbalanced data. Supports out-of-the-box multi-class imbalanced (long-tailed) classification.
+*   [imbalanced-ensemble (⭐246)](https://github.com/ZhiningLiu1998/imbalanced-ensemble) - Python toolbox for quick implementation, modification, evaluation, and visualization of ensemble learning algorithms for class-imbalanced data. Supports out-of-the-box multi-class imbalanced (long-tailed) classification.
 
 ## [46. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -595,20 +583,20 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-emoji-picker (⭐73)](https://github.com/delowardev/vue3-emoji-picker) - Simple and Powerful Emoji Picker for Vue3.
+*   [vue3-emoji-picker (⭐112)](https://github.com/delowardev/vue3-emoji-picker) - Simple and Powerful Emoji Picker for Vue3.
 *   [vue-otp-2 (⭐12)](https://github.com/tonghoai/vue-otp-2) - Vue OTP input 2, A Vue component for OTP input.
-*   [vue3-otp-input (⭐55)](https://github.com/ejirocodes/vue3-otp-input) - A fully customizable, OTP (one-time-password) input component built with Vue 3.x and Vue Composition API.
+*   [vue3-otp-input (⭐73)](https://github.com/ejirocodes/vue3-otp-input) - A fully customizable, OTP (one-time-password) input component built with Vue 3.x and Vue Composition API.
 *   [Vueform](https://vueform.com) - (probably) the most comprehensive form builder for Vue.js [Online Demo](https://vueform.com/examples)
 
 ### Components & Libraries / Utilities
 
-*   [vue-storage-watcher (⭐61)](https://github.com/dreambo8563/vue-storage-watcher) / [Vue 3 version (⭐7)](https://github.com/dreambo8563/next-vue-storage-watcher) - A reactive localStorage/sessionStorage plugin for Vue.js with strong typed for Vue 2 / Vue 3.
+*   [vue-storage-watcher (⭐61)](https://github.com/dreambo8563/vue-storage-watcher) / [Vue 3 version (⭐8)](https://github.com/dreambo8563/next-vue-storage-watcher) - A reactive localStorage/sessionStorage plugin for Vue.js with strong typed for Vue 2 / Vue 3.
 
 ## [47. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Testing Frameworks / Runner
 
-*   [Playwright (⭐50k)](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+*   [Playwright (⭐55k)](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
 ## [48. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/week/README.md)
 
@@ -651,7 +639,7 @@
 
 ### Harvard / Commonsense Knowledgebase
 
-*   [Elizabeth Spelke](https://psychology.fas.harvard.edu/people/elizabeth-s-spelke) - ***Harvard***, [Harvard Laboratory for Developmental Studies](https://www.harvardlds.org/) - ***Department of Psychology, Harvard***.
+*   [Elizabeth Spelke](https://psychology.fas.harvard.edu/people/elizabeth-s-spelke) - ***Department of Psychology, Harvard***, [Harvard Laboratory for Developmental Studies](https://www.harvardlds.org/) - ***Harvard***.
 
 ---
 

@@ -27,7 +27,7 @@
 
 ### Testing / Matchers
 
-*   [XMLUnit (⭐276)](https://github.com/xmlunit/xmlunit) - Simplifies testing for XML output.
+*   [XMLUnit (⭐283)](https://github.com/xmlunit/xmlunit) - Simplifies testing for XML output.
 
 ## [4. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -77,7 +77,7 @@
 
 ### API Gateway / Symfony2
 
-*   [KrakenD (⭐5.4k)](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middleware. Written in Go.
+*   [KrakenD (⭐5.7k)](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middleware. Written in Go.
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -87,13 +87,13 @@
 
 ### Misc
 
-*   [zaru\_crystal (⭐10)](https://github.com/szTheory/zaru_crystal) - Filename sanitization
+*   [zaru\_crystal (⭐9)](https://github.com/szTheory/zaru_crystal) - Filename sanitization
 
 ## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### E-Books / Others
 
-*   [Archives (⭐7.7k)](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018 (⭐7.7k)](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
+*   [Archives (⭐8.1k)](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018 (⭐8.1k)](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
 
 ## [10. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
@@ -106,18 +106,18 @@
 
 ### Games
 
-*   [Binbo (⭐107)](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
+*   [Binbo (⭐112)](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
 
 ### Miscellaneous
 
-*   [Apex (⭐275)](https://github.com/bjro/apex) - Awesome Print for Elixir.
+*   [Apex (⭐276)](https://github.com/bjro/apex) - Awesome Print for Elixir.
 
 ## [12. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Dynamic type checkers
 
-*   [pydantic (⭐12k)](https://github.com/samuelcolvin/pydantic) - Data parsing using Python type hinting. Supports dataclasses.
-*   [typeguard (⭐1.1k)](https://github.com/agronholm/typeguard) - Another one runtime type checker.
+*   [pydantic (⭐15k)](https://github.com/samuelcolvin/pydantic) - Data parsing using Python type hinting. Supports dataclasses.
+*   [typeguard (⭐1.2k)](https://github.com/agronholm/typeguard) - Another one runtime type checker.
 
 ## [13. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 
@@ -173,19 +173,18 @@
 
 ### Packages / Command-line apps
 
-*   [npkill (⭐7.2k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
+*   [npkill (⭐7.6k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
 
 ## [15. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### NewSQL Databases
 
-*   [KarelDB (⭐382)](https://github.com/rayokota/kareldb) - a relational database backed by Apache Kafka.
+*   [KarelDB (⭐383)](https://github.com/rayokota/kareldb) - a relational database backed by Apache Kafka.
 
 ## [16. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Tech / Aggregator
 
-*   [Free & Open Source Jobs](https://www.fossjobs.net/)
 *   [Relocate.me](https://relocate.me/) - Verified relocation packages
 
 ---

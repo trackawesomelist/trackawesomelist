@@ -18,11 +18,11 @@
 
 ### Windows 10 Privacy
 
-*   [Tallow (⭐451)](https://github.com/basil00/TorWall) Tallow is a transparent Tor firewall and proxying solution for Windows.
+*   [Tallow (⭐474)](https://github.com/basil00/TorWall) Tallow is a transparent Tor firewall and proxying solution for Windows.
 
 ### Torrent Clients / Public Trackers
 
-*   [qBitTorrent plugins for public sites (⭐2.4k)](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins#plugins-for-public-sites) List of qBitTorrent plugins for searching public torrent sites.
+*   [qBitTorrent plugins for public sites (⭐2.9k)](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins#plugins-for-public-sites) List of qBitTorrent plugins for searching public torrent sites.
 *   [Tornado](https://tornado-torrent.gitlab.io/posts/first-beta/) Tornado is a modern web-first BitTorrent client designed with usability in mind. Based on Transmission.
 
 ### Torrent Clients / rTorrent
@@ -31,7 +31,7 @@
 
 ### Download Managers / Free Indexers
 
-*   [idm-trial-reset (⭐1.5k)](https://github.com/J2TeaM/idm-trial-reset) Use IDM forever without cracking.
+*   [idm-trial-reset (⭐1.9k)](https://github.com/J2TeaM/idm-trial-reset) Use IDM forever without cracking.
 
 ### Plex / Third Party Hosts
 
@@ -39,7 +39,7 @@
 
 ### Gaming / Third Party Hosts
 
-*   [Steamless (⭐1.4k)](https://github.com/atom0s/Steamless) Steamless is a DRM remover of the SteamStub variants.
+*   [Steamless (⭐1.9k)](https://github.com/atom0s/Steamless) Steamless is a DRM remover of the SteamStub variants.
 
 ### ROMs / Third Party Hosts
 
@@ -72,21 +72,21 @@
 
 ### PreDB Sites / Third Party Hosts
 
-*   [WarezBot (⭐30)](https://github.com/enzobes/WarezBot) Discord bot for scene releases.
+*   [WarezBot (⭐36)](https://github.com/enzobes/WarezBot) Discord bot for scene releases.
 *   [NSW Releases](http://nswdb.com/) Nintendo Switch scene releases.
 *   [3DS Releases](http://3dsdb.com/) Nintedo 3DS scene releases.
 *   [NSWDBot](https://github.com/HunterKing/NSWDBot) A discord bot for scraping NSWDB.com for "Scene" releases.
 
 ### Telegram Piracy / Third Party Hosts
 
-*   [aria-telegram-mirror-bot (⭐508)](https://github.com/out386/aria-telegram-mirror-bot) A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
+*   [aria-telegram-mirror-bot (⭐514)](https://github.com/out386/aria-telegram-mirror-bot) A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
 *   [CrackWatch trackers](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) Telegram channels for CrachWatch.com games & cracks by /u/SHADOWSLIFER.
 
 ### Miscellaneous / Third Party Hosts
 
 *   [/v/piracy](https://voat.co/v/piracy) Voat forum for Piracy - another potential fallback option for /r/Piracy.
 *   [NFForce](http://nfforce.temari.fr/) Another NFO viewer.
-*   [PiracyArchive (⭐418)](https://github.com/nid666/PiracyArchive) A complete backup of the Reddit /r/Piracy subreddit
+*   [PiracyArchive (⭐425)](https://github.com/nid666/PiracyArchive) A complete backup of the Reddit /r/Piracy subreddit
 *   [List of warez groups](https://en.wikipedia.org/wiki/List_of_warez_groups) Wikipedia's list of warez groups and individuals.
 
 ## [2. Awesome C](/content/inputsh/awesome-c/README.md)
@@ -103,9 +103,9 @@
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [IPList](https://www.iplist.cc) — Lookup details about any IP address, such as Geo IP information, tor addresses, hostnames and ASN details. Free for personal and business users.
+*   [IPList](https://www.iplist.cc) — Lookup details about any IP address, such as Geo IP information, tor addresses, hostnames, and ASN details. Free for personal and business users.
 
 ## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -122,11 +122,11 @@
 
 ## [7. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Common Section / Angular
+### General Section / Svelte
 
 *   [Programming Digest](https://programmingdigest.net/). A weekly newsletter for software engineers featuring top 5 links. [Archive](https://programmingdigest.net/digests).
 
-### C# / Angular
+### C# / Svelte
 
 *   [C# Digest](https://csharpdigest.net/). A weekly newsletter featuring only the top 5 links for C# and .NET developers. [Archive](https://csharpdigest.net/digests).
 

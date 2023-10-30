@@ -34,7 +34,7 @@
 
 ### Quality / Barcode
 
-*   [AnyLint (⭐118)](https://github.com/Flinesoft/AnyLint) :penguin: - Lint anything by combining the power of Swift & regular expressions.
+*   [AnyLint (⭐119)](https://github.com/Flinesoft/AnyLint) :penguin: - Lint anything by combining the power of Swift & regular expressions.
 
 ## [4. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Languages
 
-*   [Folders (⭐368)](https://github.com/rottytooth/Folders) - Code written with folders.
+*   [Folders (⭐366)](https://github.com/rottytooth/Folders) - Code written with folders.
 
 ## [6. Awesome K6](/content/grafana/awesome-k6/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Programming Languages
 
-*   [V (⭐1.6k)](https://github.com/vlang/awesome-v#readme) - Simple, fast, safe, compiled language for developing maintainable software.
+*   [V (⭐1.7k)](https://github.com/vlang/awesome-v#readme) - Simple, fast, safe, compiled language for developing maintainable software.
 
 ## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -94,29 +94,29 @@
 ### Custom Elements
 
 *   [A Guide to Custom Elements for React Developers](https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/)
-*   [All about HTML Custom Elements (⭐195)](https://github.com/shawnbot/custom-elements)
+*   [All about HTML Custom Elements (⭐199)](https://github.com/shawnbot/custom-elements)
 *   [HTML Living Standard: Custom elements](https://html.spec.whatwg.org/multipage/custom-elements.html)
-*   [web-platform-tests (⭐4.2k)](https://github.com/web-platform-tests/wpt/tree/master/custom-elements)
+*   [web-platform-tests (⭐4.4k)](https://github.com/web-platform-tests/wpt/tree/master/custom-elements)
 
 ### Shadow DOM
 
 *   [DOM Living Standard: Shadow tree](https://dom.spec.whatwg.org/#shadow-trees)
 *   [Open vs. Closed Shadow DOM](https://blog.revillweb.com/open-vs-closed-shadow-dom-9f3d7427d1af)
-*   [Shadow DOM in depth (⭐221)](https://github.com/praveenpuglia/shadow-dom-in-depth)
+*   [Shadow DOM in depth (⭐227)](https://github.com/praveenpuglia/shadow-dom-in-depth)
 *   [The Rise of Shadow DOM](https://medium.com/front-end-hacking/the-rise-of-shadow-dom-84aa1f731e82)
 *   [What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
-*   [web-platform-tests (⭐4.2k)](https://github.com/web-platform-tests/wpt/tree/master/shadow-dom)
+*   [web-platform-tests (⭐4.4k)](https://github.com/web-platform-tests/wpt/tree/master/shadow-dom)
 
 ### HTML Templates
 
 *   [HTML Living Standard: The `template` element](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
-*   [web-platform-tests (⭐4.2k)](https://github.com/web-platform-tests/wpt/tree/master/html/semantics/scripting-1/the-template-element)
+*   [web-platform-tests (⭐4.4k)](https://github.com/web-platform-tests/wpt/tree/master/html/semantics/scripting-1/the-template-element)
 
 ### CSS Shadow Parts
 
 *   [W3C First Public Working Draft](https://www.w3.org/TR/css-shadow-parts-1/)
 *   [CSS Shadow Parts are coming!](https://dev.to/webpadawan/css-shadow-parts-are-coming-mi5)
-*   [web-platform-tests (⭐4.2k)](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow-parts)
+*   [web-platform-tests (⭐4.4k)](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow-parts)
 
 ### Interoperability
 
@@ -132,13 +132,13 @@
 
 *   [Form Participation API Explained](https://docs.google.com/document/d/1JO8puctCSpW-ZYGU8lF-h4FWRIDQNDVexzHoOQ2iQmY/edit?usp=sharing) - Document by Google Chrome team.
 *   [Form-associated custom elements](https://www.chromestatus.com/features/4708990554472448) - Feature in Chrome platform status.
-*   [web-platform-tests (⭐4.2k)](https://github.com/web-platform-tests/wpt/tree/master/custom-elements/form-associated)
+*   [web-platform-tests (⭐4.4k)](https://github.com/web-platform-tests/wpt/tree/master/custom-elements/form-associated)
 
 ### Constructable Stylesheet Objects
 
 *   [Specification Draft](https://wicg.github.io/construct-stylesheets/)
-*   [web-platform-tests (⭐4.2k)](https://github.com/web-platform-tests/wpt/blob/master/css/cssom/CSSStyleSheet-constructable.html)
-*   [Explainer (⭐136)](https://github.com/WICG/construct-stylesheets/blob/gh-pages/explainer.md)
+*   [web-platform-tests (⭐4.4k)](https://github.com/web-platform-tests/wpt/blob/master/css/cssom/CSSStyleSheet-constructable.html)
+*   [Explainer (⭐139)](https://github.com/WICG/construct-stylesheets/blob/gh-pages/explainer.md)
 *   [Constructable Stylesheets](https://www.chromestatus.com/feature/5394843094220800) - Feature in Chrome platform status.
 
 ### Custom State Pseudo Class
@@ -148,23 +148,23 @@
 
 ### Polyfills / Custom Elements polyfills
 
-*   [@webcomponents/custom-elements (⭐1k)](https://github.com/webcomponents/polyfills/tree/master/packages/custom-elements) - Custom Elements polyfill by Polymer team.
+*   [@webcomponents/custom-elements (⭐1.1k)](https://github.com/webcomponents/polyfills/tree/master/packages/custom-elements) - Custom Elements polyfill by Polymer team.
 *   [document-register-element (⭐1.1k)](https://github.com/WebReflection/document-register-element) - Custom Elements polyfill by Andrea Giammarchi.
 
 ### Polyfills / Customized Built-in Elements polyfills
 
-*   [@corpuscule/custom-builtin-elements (⭐14)](https://github.com/corpusculejs/custom-builtin-elements) - Customized built-in elements polyfill by [CorpusculeJS](https://github.com/corpusculejs).
+*   [@corpuscule/custom-builtin-elements (⭐12)](https://github.com/corpusculejs/custom-builtin-elements) - Customized built-in elements polyfill by [CorpusculeJS](https://github.com/corpusculejs).
 *   [@ungap/custom-elements-builtin (⭐103)](https://github.com/ungap/custom-elements-builtin) - Customized built-in elements polyfill by [ungap project](https://ungap.github.io).
 
 ### Polyfills / Shadow DOM shims
 
-*   [@webcomponents/shadydom (⭐1k)](https://github.com/webcomponents/polyfills/tree/master/packages/shadydom) - ShadowDOM v1 shim.
-*   [@webcomponents/shadycss (⭐1k)](https://github.com/webcomponents/polyfills/tree/master/packages/shadycss) - ShadowDOM style encapsulation shim.
-*   [@lwc/synthetic-shadow (⭐1.4k)](https://github.com/salesforce/lwc/blob/master/packages/@lwc/synthetic-shadow) - Shadow DOM polyfill by [LWC](https://lwc.dev).
+*   [@webcomponents/shadydom (⭐1.1k)](https://github.com/webcomponents/polyfills/tree/master/packages/shadydom) - ShadowDOM v1 shim.
+*   [@webcomponents/shadycss (⭐1.1k)](https://github.com/webcomponents/polyfills/tree/master/packages/shadycss) - ShadowDOM style encapsulation shim.
+*   [@lwc/synthetic-shadow (⭐1.5k)](https://github.com/salesforce/lwc/blob/master/packages/@lwc/synthetic-shadow) - Shadow DOM polyfill by [LWC](https://lwc.dev).
 
 ### Polyfills / HTML Templates polyfills
 
-*   [@webcomponents/template (⭐1k)](https://github.com/webcomponents/polyfills/tree/master/packages/template) - Minimal polyfill for `<template>`.
+*   [@webcomponents/template (⭐1.1k)](https://github.com/webcomponents/polyfills/tree/master/packages/template) - Minimal polyfill for `<template>`.
 *   [@ungap/import-node (⭐7)](https://github.com/ungap/import-node) - An `importNode` polyfill for IE11 by [ungap project](https://ungap.github.io).
 
 ## [13. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/README.md)

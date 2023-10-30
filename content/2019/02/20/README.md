@@ -16,11 +16,11 @@
 
 ### C bindings
 
-*   [ssh2.cr (⭐36)](https://github.com/spider-gazelle/ssh2.cr) - Bindings for libssh2 library
+*   [ssh2.cr (⭐38)](https://github.com/spider-gazelle/ssh2.cr) - Bindings for libssh2 library
 
 ### HTTP
 
-*   [http-params-serializable (⭐19)](https://github.com/vladfaust/http-params-serializable) - HTTP params (de)serialization, applicable to URL queries and URL-encoded forms
+*   [http-params-serializable (⭐20)](https://github.com/vladfaust/http-params-serializable) - HTTP params (de)serialization, applicable to URL queries and URL-encoded forms
 
 ## [3. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
@@ -32,13 +32,13 @@
 
 ### Tools
 
-*   [cl-data-structures (⭐41)](https://github.com/sirherrbatka/cl-data-structures) - a portable collection of data structures and algorithms (mainly dicts and sequences, with some statistical functions). [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [cl-data-structures (⭐40)](https://github.com/sirherrbatka/cl-data-structures) - a portable collection of data structures and algorithms (mainly dicts and sequences, with some statistical functions). [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Email
 
-*   [pepipost.com](https://pepipost.com) — 30k emails free for first month, then first 100 emails/day free
+*   [pepipost.com](https://pepipost.com) — 30k emails free for the first month, then the first 100 emails/day free.
 
 ## [6. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

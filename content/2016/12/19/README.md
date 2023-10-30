@@ -56,11 +56,11 @@
 
 ### Documentation tools / Components
 
-*   [Compodoc (⭐3.8k)](https://github.com/compodoc/compodoc) : "The missing documentation tool for your Angular 2 application", integrate well with npm scripts
+*   [Compodoc (⭐3.9k)](https://github.com/compodoc/compodoc) : "The missing documentation tool for your Angular 2 application", integrate well with npm scripts
 
 ### TypeScript Seed Projects / Components
 
-*   [famn (⭐27)](https://github.com/implustech/famn) - Angular 2 + FeathersJS application framework for both client and server side
+*   [famn (⭐26)](https://github.com/implustech/famn) - Angular 2 + FeathersJS application framework for both client and server side
 
 ### Haxe General Resources / Components
 
@@ -82,13 +82,13 @@
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [docfx (⭐3.2k)](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects <http://dotnet.github.io/docfx>
+*   [docfx (⭐3.6k)](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects <http://dotnet.github.io/docfx>
 
 ## [8. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Coding Style Guides
 
-*   [Fundamental Ruby (⭐451)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
+*   [Fundamental Ruby (⭐456)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
 
 ## [9. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

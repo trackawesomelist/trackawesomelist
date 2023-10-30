@@ -12,10 +12,6 @@
 
 *   [elixire](https://elixi.re) - Simple yet advanced screenshot uploading and link shortening service. ([Source Code](https://gitlab.com/elixire/elixire), [Clients](https://gitlab.com/elixire/elixiremanager)) `AGPL-3.0` `Python`
 
-### Software / Polls and Events
-
-*   [dudle](http://primelife.ercim.eu/results/opensource/63-dudle) - Online scheduling application. ([Demo](https://dudle.inf.tu-dresden.de/), [Source Code (⭐308)](https://github.com/kellerben/dudle)) `AGPL-3.0` `Ruby`
-
 ## [2. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
 
 ### Frameworks / Graph
@@ -90,44 +86,44 @@
 
 ### UI / Barcode
 
-*   [MultiSelectSegmentedControl (⭐292)](https://github.com/yonat/MultiSelectSegmentedControl) - UISegmentedControl remake that supports selecting multiple segments, vertical stacking, combining text and images.
+*   [MultiSelectSegmentedControl (⭐298)](https://github.com/yonat/MultiSelectSegmentedControl) - UISegmentedControl remake that supports selecting multiple segments, vertical stacking, combining text and images.
 
 ## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Parallax / Syntax Highlight
 
-*   [react-parallax-tilt (⭐711)](https://github.com/mkosir/react-parallax-tilt) - [demo](https://mkosir.github.io/react-parallax-tilt) - Easily apply parallax tilt hover effect on components.
+*   [react-parallax-tilt (⭐816)](https://github.com/mkosir/react-parallax-tilt) - [demo](https://mkosir.github.io/react-parallax-tilt) - Easily apply parallax tilt hover effect on components.
 
 ## [11. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
 ### Related Resources / Vector search
 
 *   <a name="lightgbm"></a>
-    [LightGBM (⭐15k)](https://github.com/microsoft/LightGBM)
+    [LightGBM (⭐16k)](https://github.com/microsoft/LightGBM)
 *   <a name="xgboost"></a>
-    [XGBoost (⭐24k)](https://github.com/dmlc/xgboost)
+    [XGBoost (⭐25k)](https://github.com/dmlc/xgboost)
 
 ## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI
 
-*   [Before After (⭐738)](https://github.com/xsahil03x/before_after) <!--stargazers:xsahil03x/before_after--> - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
+*   [Before After (⭐792)](https://github.com/xsahil03x/before_after) <!--stargazers:xsahil03x/before_after--> - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
 
 ### UI / Drawers
 
-*   [Flutter Inner Drawer (⭐444)](https://github.com/Dn-a/flutter_inner_drawer) <!--stargazers:Dn-a/flutter_inner_drawer--> - Easy way to create an internal drawer (left / right) where you can enter a list-menu or other by [Di Natale Antonino](https://github.com/Dn-a).
+*   [Flutter Inner Drawer (⭐476)](https://github.com/Dn-a/flutter_inner_drawer) <!--stargazers:Dn-a/flutter_inner_drawer--> - Easy way to create an internal drawer (left / right) where you can enter a list-menu or other by [Di Natale Antonino](https://github.com/Dn-a).
 
 ### UI / UI Helpers
 
-*   [Infinite Listview (⭐255)](https://github.com/fluttercommunity/flutter_infinite_listview) <!--stargazers:fluttercommunity/flutter_infinite_listview--> - Infinite scroll in both directions by [Simon Lightfoot](https://github.com/slightfoot).
+*   [Infinite Listview (⭐277)](https://github.com/fluttercommunity/flutter_infinite_listview) <!--stargazers:fluttercommunity/flutter_infinite_listview--> - Infinite scroll in both directions by [Simon Lightfoot](https://github.com/slightfoot).
 
 ### UI / Cupertino Design
 
-*   [Peek & Pop (⭐227)](https://github.com/aliyigitbireroglu/flutter-peek-and-pop) <!--stargazers:aliyigitbireroglu/flutter-peek-and-pop--> - Peek & Pop implementation based on the iOS functionality by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu)
+*   [Peek & Pop (⭐234)](https://github.com/aliyigitbireroglu/flutter-peek-and-pop) <!--stargazers:aliyigitbireroglu/flutter-peek-and-pop--> - Peek & Pop implementation based on the iOS functionality by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu)
 
 ### Text & Rich Content / Image Picker
 
-*   [Parsed Text (⭐212)](https://github.com/fayeed/flutter_parsed_text) <!--stargazers:fayeed/flutter_parsed_text--> - Interactive text based on content recognition, also supports Regex by [Fayeed Pawaskar](https://github.com/fayeed/)
+*   [Parsed Text (⭐214)](https://github.com/fayeed/flutter_parsed_text) <!--stargazers:fayeed/flutter_parsed_text--> - Interactive text based on content recognition, also supports Regex by [Fayeed Pawaskar](https://github.com/fayeed/)
 
 ## [13. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

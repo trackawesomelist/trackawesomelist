@@ -14,7 +14,7 @@
 
 ### Resources / Tutorials
 
-*   [pg-utils (⭐722)](https://github.com/dataegret/pg-utils) - Useful DBA tools by Data Egret
+*   [pg-utils (⭐772)](https://github.com/dataegret/pg-utils) - Useful DBA tools by Data Egret
 
 ## [2. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Resources / Job Portal
 
-*   [Vue.js Interview Questions (⭐2k)](https://github.com/sudheerj/vuejs-interview-questions) - A List of 300 VueJS Interview Questions and Answers
+*   [Vue.js Interview Questions (⭐2.2k)](https://github.com/sudheerj/vuejs-interview-questions) - A List of 300 VueJS Interview Questions and Answers
 
 ### Resources / Community
 
@@ -55,11 +55,11 @@
 
 ### Networking
 
-*   [librdkafka (⭐6.7k)](https://github.com/edenhill/librdkafka) - Apache Kafka client library for C and C++. \[BSD-2-Clause]
+*   [librdkafka (⭐7k)](https://github.com/edenhill/librdkafka) - Apache Kafka client library for C and C++. \[BSD-2-Clause]
 
 ### Reflection
 
-*   [meta (⭐475)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. \[MIT]
+*   [meta (⭐503)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. \[MIT]
 
 ### Scripting
 
@@ -126,21 +126,21 @@
 
 ### Project Management
 
-*   [milestones (⭐111)](https://github.com/turbopape/milestones)
+*   [milestones (⭐112)](https://github.com/turbopape/milestones)
 
 ### Terminal UI
 
-*   [triki (⭐142)](https://github.com/lambdaisland/trikl)
-*   [zaffre (⭐98)](https://github.com/aaron-santos/zaffre)
+*   [triki (⭐143)](https://github.com/lambdaisland/trikl)
+*   [zaffre (⭐100)](https://github.com/aaron-santos/zaffre)
 *   [closh (⭐1.6k)](https://github.com/dundalek/closh)
 
 ### Graphviz
 
 *   [zipper-viz (⭐8)](https://github.com/lambdaisland/zipper-viz)
-*   [dorothy (⭐236)](https://github.com/daveray/dorothy)
+*   [dorothy (⭐237)](https://github.com/daveray/dorothy)
 *   [viz.cljc (⭐31)](https://github.com/jebberjeb/viz.cljc)
 *   [fsmviz (⭐49)](https://github.com/jebberjeb/fsmviz)
-*   [rhizome (⭐450)](https://github.com/ztellman/rhizome)
+*   [rhizome (⭐449)](https://github.com/ztellman/rhizome)
 
 ## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

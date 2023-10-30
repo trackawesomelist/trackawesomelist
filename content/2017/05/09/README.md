@@ -16,7 +16,7 @@
 
 ### Templates / TikZ
 
-*   [Ultimate Beamer Theme List (⭐969)](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) - Links to various beamer themes along with PDF previews.
+*   [Ultimate Beamer Theme List (⭐1.1k)](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) - Links to various beamer themes along with PDF previews.
 
 ## [3. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
@@ -28,7 +28,7 @@
 
 ### ORM and Datamapping
 
-*   [elastic (⭐65)](https://github.com/radar/elastic) - A thin-veneer over HTTPotion to help you talk to Elastic Search.
+*   [elastic (⭐64)](https://github.com/radar/elastic) - A thin-veneer over HTTPotion to help you talk to Elastic Search.
 
 ## [5. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Routing
 
-*   [router.cr (⭐255)](https://github.com/tbrand/router.cr) - Minimum but powerful http router for HTTP::Server
+*   [router.cr (⭐256)](https://github.com/tbrand/router.cr) - Minimum but powerful http router for HTTP::Server
 
 ## [8. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -69,11 +69,11 @@
 
 ### IoC
 
-*   [VS MEF (⭐367)](https://github.com/Microsoft/vs-mef) - Managed Extensibility Framework (MEF) implementation used by Visual Studio.
+*   [VS MEF (⭐379)](https://github.com/Microsoft/vs-mef) - Managed Extensibility Framework (MEF) implementation used by Visual Studio.
 
 ### ORM
 
-*   [Dapper (⭐16k)](https://github.com/StackExchange/Dapper) - A simple object mapper for .NET by [StackExchange](https://stackexchange.github.io/)
+*   [Dapper (⭐17k)](https://github.com/StackExchange/Dapper) - A simple object mapper for .NET by [StackExchange](https://stackexchange.github.io/)
 
 ## [10. Citizen Science](/content/dylanrees/citizen-science/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 11, 2020
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -17,77 +17,83 @@
 ### Packages / Database
 
 *   ODM / ORM
-    *   [Sequelize (⭐28k)](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL, and more.
+    *   [Sequelize (⭐29k)](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL, and more.
     *   [Bookshelf (⭐6.3k)](https://github.com/bookshelf/bookshelf) - ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
     *   [Mongoose (⭐26k)](https://github.com/Automattic/mongoose) - Elegant MongoDB object modeling.
     *   [Waterline (⭐5.4k)](https://github.com/balderdashy/waterline) - Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
-    *   [OpenRecord (⭐486)](https://github.com/PhilWaldmann/openrecord) - ORM for PostgreSQL, MySQL, SQLite3 and RESTful datastores. Similar to ActiveRecord.
-    *   [pg-promise (⭐3.3k)](https://github.com/vitaly-t/pg-promise) - PostgreSQL framework for native SQL using promises.
-    *   [slonik (⭐3.9k)](https://github.com/gajus/slonik) - PostgreSQL client with strict types, detailed logging and assertions.
-    *   [Objection.js (⭐7k)](https://github.com/Vincit/objection.js) - Lightweight ORM built on the SQL query builder Knex.
-    *   [TypeORM (⭐31k)](https://github.com/typeorm/typeorm) - ORM for PostgreSQL, MariaDB, MySQL, SQLite, and more.
-    *   [MikroORM (⭐5.9k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
-    *   [Prisma (⭐31k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative). Auto-generated and type-safe query builder in TypeScript. Supports PostgreSQL, MySQL & SQLite.
+    *   [OpenRecord (⭐485)](https://github.com/PhilWaldmann/openrecord) - ORM for PostgreSQL, MySQL, SQLite3 and RESTful datastores. Similar to ActiveRecord.
+    *   [pg-promise (⭐3.4k)](https://github.com/vitaly-t/pg-promise) - PostgreSQL framework for native SQL using promises.
+    *   [slonik (⭐4.1k)](https://github.com/gajus/slonik) - PostgreSQL client with strict types, detailed logging and assertions.
+    *   [Objection.js (⭐7.1k)](https://github.com/Vincit/objection.js) - Lightweight ORM built on the SQL query builder Knex.
+    *   [TypeORM (⭐32k)](https://github.com/typeorm/typeorm) - ORM for PostgreSQL, MariaDB, MySQL, SQLite, and more.
+    *   [MikroORM (⭐6.6k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
+    *   [Prisma (⭐34k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative). Auto-generated and type-safe query builder in TypeScript. Supports PostgreSQL, MySQL & SQLite.
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Storage / Runner
 
-*   [awesome-web-storage (⭐422)](https://github.com/softvar/awesome-web-storage) - Everything you need to know about client-side storage.
+*   [awesome-web-storage (⭐429)](https://github.com/softvar/awesome-web-storage) - Everything you need to know about client-side storage.
 
-## [4. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### C# / Non-X86
+
+*   [C# Smorgasbord](https://www.filipekberg.se) - Filip Ekberg (HTML) [(PDF, EPUB, MOBI)](https://www.filipekberg.se/2018/04/02/csharp-smorgasbord-free/) (2018)
+
+## [5. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
 ### Other sources
 
 *   [M-Lab Visualization Platform](https://www.measurementlab.net/visualizations/) - M-Lab is an open, verifiable measurement platform for global network performance.
 
-## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [6. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Distributed Filesystems
 
-*   [Perkeep](https://perkeep.org/) (née Camlistore) - A set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data.
+*   [Perkeep](https://perkeep.org/) - A set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data (previously Camlistore). ([Source Code (⭐6.3k)](https://github.com/perkeep/perkeep)) `Apache-2.0` `C`
 
-## [6. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
+## [7. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Modules / File System
 
 *   [read-git-user (⭐3)](https://github.com/RocktimSaikia/read-git-user) - Reads the username and email from `.gitconfig` :wrench: and returns it as json object.
 
-## [7. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [8. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Threat intelligence / Threat hunting
 
-*   [DATA (⭐92)](https://github.com/hadojae/DATA) - Credential phish analysis and automation tool that can accept suspected phishing URLs directly or trigger on observed network traffic containing such a URL.
+*   [DATA (⭐94)](https://github.com/hadojae/DATA) - Credential phish analysis and automation tool that can accept suspected phishing URLs directly or trigger on observed network traffic containing such a URL.
 
-## [8. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
+## [9. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
 ### Languages
 
 *   [legit](https://morr.cc/legit) - Programs defined entirely by the graph of the git repository instead of its contents.
 
-## [9. Awesome R](/content/qinwf/awesome-R/README.md)
+## [10. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Lists / Book/monograph Lists and Reviews
 
 *   [Posts (⭐5.2k)](https://github.com/qinwf/awesome-R/blob/master/misc/posts.md) - Great R blog posts or Rticles.
 
-## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
 *   [Postorius](https://docs.mailman3.org/projects/postorius/en/latest/) - Web user interface to access GNU Mailman. ([Source Code](https://gitlab.com/mailman/postorius/)) `GPL-3.0` `Python`
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### PaaS
 
-*   [m3o.com](https://m3o.com) - A cloud platform for API services development. M3O is a fully managed Micro as a Service offering focusing on Go microservices development in the Cloud. Free tier provides enough to run 5 services and collaborate with others.
+*   [m3o.com](https://m3o.com) - A cloud platform for API services development. M3O is a fully managed Micro as a Service offering focusing on Go microservices development in the Cloud. The free tier provides enough to run five services and collaborate with others.
 
 ### Analytics, Events and Statistics
 
 *   [Panelbear.com](https://panelbear.com/) — Blazingly fast and private, free tier includes 5,000 pageviews per month for unlimited websites
 
-## [12. Public Apis](/content/public-apis/public-apis/README.md)
+## [13. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Anti-Malware
 
@@ -152,7 +158,7 @@
   CORS: Unknown
 
 
-- API: [Foodish (⭐53)](https://github.com/surhud004/Foodish#readme)
+- API: [Foodish (⭐64)](https://github.com/surhud004/Foodish#readme)
 
   Description: Random pictures of food dishes
 
@@ -189,25 +195,21 @@
 
 
 
-## [13. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/README.md)
+## [14. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/README.md)
 
 ### Site Search
 
 *   [Silverstripe Searchable (⭐13)](https://github.com/i-lateral/silverstripe-searchable) - Adds more complex site searching using the Silverstripe ORM. With dedicated templates for search results across multiple search objects.
 *   [Searchable DataObjects (⭐25)](https://github.com/g4b0/silverstripe-searchable-dataobjects) - Fast and simple MySQL based search. Useful for single language sites.
-*   [Fulltext Search (⭐44)](https://github.com/silverstripe/silverstripe-fulltextsearch) - Full fledged search interface for Solr4.
-*   [Fulltext Search Local Solr](https://addons.silverstripe.org/add-ons/silverstripe/fulltextsearch-localsolr) - Easy to install Solr4 instance for local development.
+*   [Fulltext Search (⭐43)](https://github.com/silverstripe/silverstripe-fulltextsearch) - Full fledged search interface for Solr4 (EOL).
+*   [Fulltext Search Local Solr](https://addons.silverstripe.org/add-ons/silverstripe/fulltextsearch-localsolr) - Easy to install Solr4 (EOL) instance for local development.
 
-## [14. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
+## [15. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
 ### Books
 
 *   [Happily Ever Esther](https://www.grandcentralpublishing.com/titles/steve-jenkins/happily-ever-esther/9781538728123/) - Wonderful true life tale, with a lot of love and compassion, and it's hilarious.
 *   [That's Not My Momma's Milk!](https://veganpublishers.com/multimedia-archive/thats-not-my-mommas-milk/) - Really simple book, really easy to grasp and makes anyone of any age think, by exploring the animal kingdom and where baby animals get their milk from.
-
-### Shoes
-
-*   [Adidas Superstar Vegan](https://www.adidas.com/us/superstar-vegan-shoes/FW2295.html) - New and vegan version model of old school skater shoes.
 
 ### Bakeries
 
@@ -216,16 +218,6 @@
 
 ### Restaurants
 
-*   Amsterdam, Netherlands
-    *   [Deer Mama](https://deermama.nl/) - Mylkshakes, burgers, nice food, and colorful cakes.
-    *   [Koffie Ende Koeck](https://koffieendekoeck.nl/) - Small vegan cafe, with nice brunch, and awesome vegan high tea.
-    *   [Loving Hut](https://www.facebook.com/lovinghutamsterdam) - Cozy and family friendly with Asian kitchen and some dutch classics.
-    *   [Mooshka](https://www.mooshka.nl/) - Stylish place with nice atmosphere, and a great variety of tasty dishes and drinks.
-    *   [Mr. & Mrs. Watson](https://watsonsfood.com/) - Relaxed atmosphere, nice drinks, and great dishes.
-    *   [TerraZen Centre](http://terrazencentre.com/) - Chill vibe and mouth-watering dishes with Caribbean and Japanese influence, really close to central station.
-    *   [Trevi's Plant Based Italian Food](https://www.trevisamsterdam.nl/) - Cozy Italian, lovely vibe, amazing and authentic food, feels and tastes like in Italy.
-    *   [Vegan Junk Food Bar](https://www.veganjunkfoodbar.com/) - High quality burgers, fancy hotdogs, Dutch specialties like Bitterballen, cocktails, and more.
-    *   [Yemayá's Vegan Corner](https://yemaya.estate/) - Super tasty food driven by sustainable local community efforts.
 *   Köln, Germany
     *   [Sattgrün](https://www.sattgruen.com/) - Buffet with great varieity and quality.
 *   London, UK
@@ -236,7 +228,6 @@
 ### Shops
 
 *   [VEGA-LIFE](https://www.vega-life.nl/) - Shoes, fashion, lifestlye products, 20+ years around.
-*   [Vegabond](https://vegabond.nl/) - Fully vegan store, in-house deli, and catering in Amsterdam, Netherlands.
 *   [Vegan Mission](https://www.veganmission.nl/) - Online store for Belgium and the Netherlands.
 *   [veggie4u](https://webshop.veggie4u.nl/) - Dutch webshop with big selection of food.
 
@@ -260,7 +251,7 @@
 *   [Nederlandse Vereniging voor Veganisme](https://www.veganisme.org/) - Dutch association for veganism, running a magazine, giving yearly vegan awards, supporting the community, and various other projects.
 *   [Vegan Wiki](https://veganwiki.nl/) - Wiki from the Dutch association for veganism with a huge collection of products available in the Netherlands.
 
-## [15. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [16. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Scala / General-Purpose Machine Learning
 
@@ -268,28 +259,28 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [igel (⭐3k)](https://github.com/nidhaloff/igel) -> A delightful machine learning tool that allows you to train/fit, test and use models **without writing code**
+*   [igel (⭐3.1k)](https://github.com/nidhaloff/igel) -> A delightful machine learning tool that allows you to train/fit, test and use models **without writing code**
 
 ### Python / Neural Networks
 
-*   [TResNet: Simple and powerful neural network library for python (⭐158)](https://github.com/zueve/neurolab) - Variety of supported types of Artificial Neural Network and learning algorithms.
+*   [TResNet: Simple and powerful neural network library for python (⭐159)](https://github.com/zueve/neurolab) - Variety of supported types of Artificial Neural Network and learning algorithms.
 
 ### Ruby / Natural Language Processing
 
 *   [Raspell](https://sourceforge.net/projects/raspell/) - raspell is an interface binding for ruby. **\[Deprecated]**
 
-## [16. Awesome Algorithms Education](/content/gaerae/awesome-algorithms-education/README.md)
+## [17. Awesome Algorithms Education](/content/gaerae/awesome-algorithms-education/README.md)
 
 ### Competitions / Advanced
 
 *   [Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart) - University students looking to develop their coding skills and potentially pursue a Google career.
 *   [Google Hash Code](https://codingcompetitions.withgoogle.com/hashcode) - Students in Africa, Europe, and the Middle East looking to work as a team on real Google problems.
 
-## [17. Awesome Preact](/content/preactjs/awesome-preact/README.md)
+## [18. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
 ### Contents / Toolkits
 
-*   [Vite (⭐56k)](https://github.com/vitejs/vite) - Fast native-ESM powered web dev build tool for Preact, Vue or React.
+*   [Vite (⭐60k)](https://github.com/vitejs/vite) - Fast native-ESM powered web dev build tool for Preact, Vue or React.
 
 ---
 

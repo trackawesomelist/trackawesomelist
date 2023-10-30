@@ -10,7 +10,7 @@
 
 ### Packages / Text
 
-*   [detect-indent (⭐186)](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
+*   [detect-indent (⭐189)](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
 
 ## [2. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
@@ -31,13 +31,13 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [SKLL (⭐535)](https://github.com/EducationalTestingService/skll) - A wrapper around scikit-learn that makes it simpler to conduct experiments.
+*   [SKLL (⭐533)](https://github.com/EducationalTestingService/skll) - A wrapper around scikit-learn that makes it simpler to conduct experiments.
 
 ## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Package Managers
 
-*   [spm (⭐905)](https://github.com/spmjs/spm) - Brand new static package manager.
+*   [spm (⭐903)](https://github.com/spmjs/spm) - Brand new static package manager.
 
 ### Editors / Runner
 
@@ -45,13 +45,13 @@
 
 ### Control Flow / Runner
 
-*   [contra (⭐761)](https://github.com/bevacqua/contra/) - Asynchronous flow control with a functional taste to it.
+*   [contra (⭐771)](https://github.com/bevacqua/contra/) - Asynchronous flow control with a functional taste to it.
 
 ## [5. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Organizations
 
-*   [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash (⭐415)](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
+*   [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash (⭐414)](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
 
 ## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

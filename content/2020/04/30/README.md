@@ -10,11 +10,11 @@
 
 ### Applications / Database
 
-*   [ParityDB (⭐201)](https://github.com/paritytech/parity-db) — Fast and reliable database, optimised for read operation
+*   [ParityDB (⭐221)](https://github.com/paritytech/parity-db) — Fast and reliable database, optimised for read operation
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### VSCode Extensions / MIT
+### VSCode Extensions / Apache License
 
 *   [ada-utilities (⭐0)](https://github.com/Lucretia/ada-utilities) - VSCode extension Ada programmers which provides a few utility functions.
 
@@ -44,7 +44,7 @@
 
 ### Misc / Other
 
-*   [iooxa (⭐155)](https://github.com/iooxa/article) - Components for interactive scientific writing, reactive documents and explorable explanations.
+*   [iooxa (⭐162)](https://github.com/iooxa/article) - Components for interactive scientific writing, reactive documents and explorable explanations.
 
 ## [6. Awesome Tap](/content/sindresorhus/awesome-tap/README.md)
 
@@ -62,19 +62,18 @@
 
 ### Forms
 
-*   [WaiverStevie.com](https://waiverstevie.com) - Electronic Signature platform with a REST API. Receive notifications with webhooks. Free plan watermarks signed documents, but allows unlimited envelopes + signatures.
+*   [WaiverStevie.com](https://waiverstevie.com) - Electronic Signature platform with a REST API. You can receive notifications with webhooks. Free plan watermarks signed documents but allow unlimited envelopes + signatures.
 
 ### Commenting Platforms
 
-*   [Staticman](https://staticman.net/) - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub and/or GitLab repository, using Pull Requests.
-*   [Utterances](https://utteranc.es/) - A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more!
+*   [Utterances](https://utteranc.es/) - A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages, and more!
 *   [Disqus](https://disqus.com/) - Disqus is a networked community platform used by hundreds of thousands of sites all over the web.
 
 ## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### universally from / webpage/html
 
-*   [Feed43](https://feed43.com) <sup>[110](https://t.me/s/aboutrss/110), [137](https://t.me/s/aboutrss/137), [138](https://t.me/s/aboutrss/138), [159](https://t.me/s/aboutrss/159), [160](https://t.me/s/aboutrss/160), [327](https://t.me/s/aboutrss/327), [553![Video](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-circled-play-16.png)](https://t.me/s/aboutrss/553)</sup>
+*   ~~[Feed43](https://feed43.com)~~ <sup>[110](https://t.me/s/aboutrss/110), [137](https://t.me/s/aboutrss/137), [138](https://t.me/s/aboutrss/138), [159](https://t.me/s/aboutrss/159), [160](https://t.me/s/aboutrss/160), [327](https://t.me/s/aboutrss/327), [553![Video](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-circled-play-16.png)](https://t.me/s/aboutrss/553)</sup>
 
 ### Aggregators of Podcasts / Podcast Navigation / Crypto or Blockchain relevant
 
@@ -89,7 +88,7 @@
 
 ### Web frameworks / Clack plugins
 
-*   [cl-rest-server (⭐60)](https://github.com/mmontone/cl-rest-server) - a library for writing REST web APIs. Features validation with schemas, annotations for logging, caching, permissions or authentication, documentation via Swagger, etc. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-rest-server (⭐64)](https://github.com/mmontone/cl-rest-server) - a library for writing REST web APIs. Features validation with schemas, annotations for logging, caching, permissions or authentication, documentation via Swagger, etc. [MIT](https://opensource.org/licenses/MIT).
 
 ### Others / OpenAPI, OData, OpenRPC
 
@@ -117,7 +116,7 @@
 
 ### Helix
 
-*   [Helix Publishing Pipeline (⭐65)](https://github.com/richardszalay/helix-publishing-pipeline) - Allows Helix solutions to be published as a single unit, with content from modules (like views and config patches) being automatically included. It also contains optimisations and guidance around local development deployments. Since it  extends the standard Web Publishing Pipeline it should work with any supported target (package, file system, Azure, Docker) via either Visual Studio or the command line.
+*   [Helix Publishing Pipeline (⭐67)](https://github.com/richardszalay/helix-publishing-pipeline) - Allows Helix solutions to be published as a single unit, with content from modules (like views and config patches) being automatically included. It also contains optimisations and guidance around local development deployments. Since it  extends the standard Web Publishing Pipeline it should work with any supported target (package, file system, Azure, Docker) via either Visual Studio or the command line.
 
 ### Media
 
@@ -144,7 +143,7 @@
 
 ### Images / Barcode
 
-*   [SwiftWebImage (⭐42)](https://github.com/geekaurora/SwiftWebImage) - 🚀SwiftUI Image downloader with performant LRU mem/disk cache.
+*   [SwiftWebImage (⭐44)](https://github.com/geekaurora/SwiftWebImage) - 🚀SwiftUI Image downloader with performant LRU mem/disk cache.
 
 ## [18. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
 
@@ -156,7 +155,7 @@
 
 ### WSL Tools / WSL Utilities
 
-*   [xclip-xsel-WSL (⭐55)](https://github.com/Konfekt/xclip-xsel-WSL) -  Make `xclip` and `xsel` in `WSL` read and write on the Windows instead of the Linux clipboard.
+*   [xclip-xsel-WSL (⭐58)](https://github.com/Konfekt/xclip-xsel-WSL) -  Make `xclip` and `xsel` in `WSL` read and write on the Windows instead of the Linux clipboard.
     . ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [20. Awesome Cytodata](/content/cytodata/awesome-cytodata/README.md)
@@ -176,7 +175,7 @@
 
 ### Table of Contents / Data Pipeline
 
-*   [Gazette (⭐464)](https://github.com/gazette/core) \[golang] - Distributed streaming infrastructure built on cloud storage which makes it easy to mix and match batch and streaming paradigms.
+*   [Gazette (⭐487)](https://github.com/gazette/core) \[golang] - Distributed streaming infrastructure built on cloud storage which makes it easy to mix and match batch and streaming paradigms.
 
 ## [23. Public Apis](/content/public-apis/public-apis/README.md)
 

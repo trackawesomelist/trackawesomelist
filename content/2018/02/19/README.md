@@ -28,7 +28,7 @@
 
 ### Samples
 
-*   Sascha Willems's [Vulkan-glTF-PBR (⭐679)](https://github.com/SaschaWillems/Vulkan-glTF-PBR) - physical based rendering with Vulkan using glTF 2.0 models. \[MIT]
+*   Sascha Willems's [Vulkan-glTF-PBR (⭐763)](https://github.com/SaschaWillems/Vulkan-glTF-PBR) - physical based rendering with Vulkan using glTF 2.0 models. \[MIT]
 
 ## [4. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Web Frameworks
 
-*   [spider-gazelle (⭐166)](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility
+*   [spider-gazelle (⭐171)](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -60,11 +60,11 @@
 
 ### Frameworks, Libraries and Tools / Database
 
-*   [LiteDB (⭐6.8k)](https://github.com/mbdavid/LiteDB) - .NET NoSQL Document Store in a single data file - <http://www.litedb.org>.
+*   [LiteDB (⭐7.8k)](https://github.com/mbdavid/LiteDB) - .NET NoSQL Document Store in a single data file - <http://www.litedb.org>.
 
 ### Frameworks, Libraries and Tools / Database Tools and Utilities
 
-*   [DbUp (⭐1.8k)](https://github.com/DbUp/DbUp) - .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date.
+*   [DbUp (⭐2k)](https://github.com/DbUp/DbUp) - .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date.
 *   [NReco.PivotData](https://www.nuget.org/packages/NReco.PivotData) - In-memory data cube with OLAP operations and PivotTable data model.
 
 ---

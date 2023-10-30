@@ -22,7 +22,7 @@
 
 ### Testing
 
-*   [Expectations (⭐392)](https://github.com/clojure-expectations/expectations)
+*   [Expectations (⭐394)](https://github.com/clojure-expectations/expectations)
 
 ## [4. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Visualizations
 
-*   [Mapnificent](https://www.mapnificent.net/) - Shows areas you can reach with public transport in a given time. Open-source [on GitHub (⭐344)](https://github.com/mapnificent/mapnificent), live at <https://www.mapnificent.net/>.
+*   [Mapnificent](https://www.mapnificent.net/) - Shows areas you can reach with public transport in a given time. Open-source [on GitHub (⭐359)](https://github.com/mapnificent/mapnificent), live at <https://www.mapnificent.net/>.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -64,19 +64,19 @@
 ### Frameworks, Libraries and Tools / Build Automation
 
 *   [CatLight](https://catlight.io) - Status notifier for developers that monitors builds and tasks in the project. Built using .Net Core and Electron.
-*   [GitInfo (⭐383)](https://github.com/kzu/GitInfo) - Git and SemVer Info from MSBuild, C# and VB.
-*   [GitVersioning (⭐1k)](https://github.com/AArnott/Nerdbank.GitVersioning) - Stamp your assemblies and NuGet packages with a version from a single, simple version.txt file and include git commit IDs for non-official builds.
+*   [GitInfo (⭐471)](https://github.com/kzu/GitInfo) - Git and SemVer Info from MSBuild, C# and VB.
+*   [GitVersioning (⭐1.2k)](https://github.com/AArnott/Nerdbank.GitVersioning) - Stamp your assemblies and NuGet packages with a version from a single, simple version.txt file and include git commit IDs for non-official builds.
 *   [Image2Docker (⭐299)](https://github.com/docker/communitytools-image2docker-win) - PowerShell module which ports existing Windows application workloads to Docker.
-*   [Nuke (⭐1.7k)](https://github.com/nuke-build/nuke) - Cross-platform build automation system.
-*   [Opserver (⭐4.2k)](https://github.com/opserver/Opserver) - Stack Exchange's Monitoring System.
+*   [Nuke (⭐2.1k)](https://github.com/nuke-build/nuke) - Cross-platform build automation system.
+*   [Opserver (⭐4.4k)](https://github.com/opserver/Opserver) - Stack Exchange's Monitoring System.
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [Wyam (⭐124)](https://github.com/Wyamio/Wyam) - Modular static content and static site generator.
+*   [Wyam (⭐134)](https://github.com/Wyamio/Wyam) - Modular static content and static site generator.
 
 ### Frameworks, Libraries and Tools / Security
 
-*   [SecurityHeaders (⭐467)](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders) - Small package to allow adding security headers to ASP.NET Core websites.
+*   [SecurityHeaders (⭐550)](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders) - Small package to allow adding security headers to ASP.NET Core websites.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 11, 2018
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -19,13 +19,7 @@
 
 *   [cmake-cookbook (⭐1.9k)](https://github.com/dev-cafe/cmake-cookbook) - A huge CMake cookbook full of recipes. [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
-
-### Official Documentation Translations
-
-*   [Crystular](http://www.crystular.org) - Regular expression tester
-
-## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Introduction
 
@@ -43,101 +37,101 @@
 
 ### Demonstrations
 
-*   [Flutter Examples (⭐6.3k)](https://github.com/nisrulz/flutter-examples) <!--stargazers:nisrulz/flutter-examples--> - Simple basic isolated apps for devs by [Nishant Srivastava](https://github.com/nisrulz)
+*   [Flutter Examples (⭐6.5k)](https://github.com/nisrulz/flutter-examples) <!--stargazers:nisrulz/flutter-examples--> - Simple basic isolated apps for devs by [Nishant Srivastava](https://github.com/nisrulz)
 
 ### UI
 
-*   [StaggeredGridView (⭐2.7k)](https://github.com/letsar/flutter_staggered_grid_view) <!--stargazers:letsar/flutter_staggered_grid_view--> - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar)
-*   [Radial Menu (⭐432)](https://github.com/xqwzts/flutter_radial_menu) <!--stargazers:xqwzts/flutter_radial_menu--> - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts)
-*   [Tinder Cards (⭐724)](https://github.com/Ivaskuu/tinder_cards) <!--stargazers:Ivaskuu/tinder_cards--> - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu)
+*   [StaggeredGridView (⭐2.9k)](https://github.com/letsar/flutter_staggered_grid_view) <!--stargazers:letsar/flutter_staggered_grid_view--> - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar)
+*   [Radial Menu (⭐463)](https://github.com/xqwzts/flutter_radial_menu) <!--stargazers:xqwzts/flutter_radial_menu--> - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts)
+*   [Tinder Cards (⭐766)](https://github.com/Ivaskuu/tinder_cards) <!--stargazers:Ivaskuu/tinder_cards--> - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu)
 
 ### Image / Backend-Driven
 
-*   [Carousel Slider (⭐1.4k)](https://github.com/serenader2014/flutter_carousel_slider) <!--stargazers:serenader2014/flutter_carousel_slider--> - Carousel slider widget, support infinite scroll and custom child widget by [serenader](https://github.com/serenader2014)
-*   [Parallax Image (⭐272)](https://github.com/pulyaevskiy/parallax-image) <!--stargazers:pulyaevskiy/parallax-image--> - Image parallax by [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy)
+*   [Carousel Slider (⭐1.5k)](https://github.com/serenader2014/flutter_carousel_slider) <!--stargazers:serenader2014/flutter_carousel_slider--> - Carousel slider widget, support infinite scroll and custom child widget by [serenader](https://github.com/serenader2014)
+*   [Parallax Image (⭐276)](https://github.com/pulyaevskiy/parallax-image) <!--stargazers:pulyaevskiy/parallax-image--> - Image parallax by [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy)
 
 ### Map / Image Picker
 
-*   [Google Map View (⭐416)](https://github.com/apptreesoftware/flutter_google_map_view) <!--stargazers:apptreesoftware/flutter_google_map_view--> - Displaying google map plugin by [AppTree Software](https://www.linkedin.com/company/apptree-software/)
-*   [GeoCoder (⭐176)](https://github.com/aloisdeniel/flutter_geocoder) <!--stargazers:aloisdeniel/flutter_geocoder--> - Forward and reverse geocoding by [Aloïs Deniel](https://aloisdeniel.github.com)
-*   [Mapbox GL (⭐258)](https://github.com/mapbox/flutter-mapbox-gl) <!--stargazers:mapbox/flutter-mapbox-gl--> - Interactive, customizable vector maps by Mapbox
+*   [Google Map View (⭐414)](https://github.com/apptreesoftware/flutter_google_map_view) <!--stargazers:apptreesoftware/flutter_google_map_view--> - Displaying google map plugin by [AppTree Software](https://www.linkedin.com/company/apptree-software/)
+*   [GeoCoder (⭐180)](https://github.com/aloisdeniel/flutter_geocoder) <!--stargazers:aloisdeniel/flutter_geocoder--> - Forward and reverse geocoding by [Aloïs Deniel](https://aloisdeniel.github.com)
+*   [Mapbox GL (⭐264)](https://github.com/mapbox/flutter-mapbox-gl) <!--stargazers:mapbox/flutter-mapbox-gl--> - Interactive, customizable vector maps by Mapbox
 
 ### Charts / Image Picker
 
-*   [Circular Chart (⭐386)](https://github.com/xqwzts/flutter_circular_chart) <!--stargazers:xqwzts/flutter_circular_chart--> - Animated radial and pie charts by [Victor Choueiri](https://github.com/xqwzts)
-*   [Sparkline (⭐255)](https://github.com/xqwzts/flutter_sparkline) <!--stargazers:xqwzts/flutter_sparkline--> - Sparkline by [Victor Choueiri](https://github.com/xqwzts)
+*   [Circular Chart (⭐390)](https://github.com/xqwzts/flutter_circular_chart) <!--stargazers:xqwzts/flutter_circular_chart--> - Animated radial and pie charts by [Victor Choueiri](https://github.com/xqwzts)
+*   [Sparkline (⭐257)](https://github.com/xqwzts/flutter_sparkline) <!--stargazers:xqwzts/flutter_sparkline--> - Sparkline by [Victor Choueiri](https://github.com/xqwzts)
 *   [Charts (⭐2.8k)](https://github.com/google/charts) <!--stargazers:google/charts--> - By Google Charts Team
-*   [Candlesticks (⭐402)](https://github.com/trentpiercy/flutter-candlesticks) <!--stargazers:trentpiercy/flutter-candlesticks--> - OHLC and Trade Volume Charts by [Trent Piercy](https://github.com/trentpiercy)
+*   [Candlesticks (⭐410)](https://github.com/trentpiercy/flutter-candlesticks) <!--stargazers:trentpiercy/flutter-candlesticks--> - OHLC and Trade Volume Charts by [Trent Piercy](https://github.com/trentpiercy)
 
 ### Navigation / Image Picker
 
-*   [Fluro (⭐3.5k)](https://github.com/goposse/fluro) <!--stargazers:goposse/fluro--> - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com)
+*   [Fluro (⭐3.6k)](https://github.com/goposse/fluro) <!--stargazers:goposse/fluro--> - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com)
 
 ### Auth / Image Picker
 
 *   [Google Sign-In (⭐17k)](https://github.com/flutter/plugins/tree/master/packages/google_sign_in) - Google OAuth
-*   [Facebook Login (⭐404)](https://github.com/roughike/flutter_facebook_login) <!--stargazers:roughike/flutter_facebook_login--> - Authenticate with native Android & iOS Facebook login SDKs by [Iiro Krankka](https://github.com/roughike)
+*   [Facebook Login (⭐403)](https://github.com/roughike/flutter_facebook_login) <!--stargazers:roughike/flutter_facebook_login--> - Authenticate with native Android & iOS Facebook login SDKs by [Iiro Krankka](https://github.com/roughike)
 
 ### Analytics / Image Picker
 
-*   [Usage (⭐139)](https://github.com/dart-lang/usage) <!--stargazers:dart-lang/usage--> - Google Analytics wrapper for command-line, web, and Flutter apps
+*   [Usage (⭐140)](https://github.com/dart-lang/usage) <!--stargazers:dart-lang/usage--> - Google Analytics wrapper for command-line, web, and Flutter apps
 
 ### Styling / Image Picker
 
 *   [Flutterial (⭐1.7k)](https://github.com/rxlabz/flutterial) <!--stargazers:rxlabz/flutterial--> - Flutter Material Theme explorer by [Erick Ghaumez](https://twitter.com/rxlabz)
-*   [Pigment (⭐204)](https://github.com/bregydoc/pigment) <!--stargazers:bregydoc/pigment--> - Simple but useful package for use colors in flutter
+*   [Pigment (⭐209)](https://github.com/bregydoc/pigment) <!--stargazers:bregydoc/pigment--> - Simple but useful package for use colors in flutter
 
 ### Media / Audio
 
-*   [Audio Recorder (⭐171)](https://github.com/ZaraclaJ/audio_recorder) <!--stargazers:ZaraclaJ/audio_recorder--> - Record audio and store it locally by [Jordan Alcaraz](https://twitter.com/jordanalcrz)
+*   [Audio Recorder (⭐176)](https://github.com/ZaraclaJ/audio_recorder) <!--stargazers:ZaraclaJ/audio_recorder--> - Record audio and store it locally by [Jordan Alcaraz](https://twitter.com/jordanalcrz)
 
 ### Media / Video
 
-*   [WebRTC (⭐3.4k)](https://github.com/cloudwebrtc/flutter-webrtc) <!--stargazers:cloudwebrtc/flutter-webrtc--> - WebRTC plugin for iOS/Android by [CloudWebRtc](https://github.com/cloudwebrtc)
-*   [Chewie (⭐1.6k)](https://github.com/brianegan/chewie) <!--stargazers:brianegan/chewie--> - Provides low-level access to video playback by [Brian Egan](https://github.com/brianegan)
+*   [WebRTC (⭐3.6k)](https://github.com/cloudwebrtc/flutter-webrtc) <!--stargazers:cloudwebrtc/flutter-webrtc--> - WebRTC plugin for iOS/Android by [CloudWebRtc](https://github.com/cloudwebrtc)
+*   [Chewie (⭐1.7k)](https://github.com/brianegan/chewie) <!--stargazers:brianegan/chewie--> - Provides low-level access to video playback by [Brian Egan](https://github.com/brianegan)
 
 ### Media / Voice
 
-*   [Speech Recognition (⭐331)](https://github.com/rxlabz/speech_recognition) <!--stargazers:rxlabz/speech_recognition--> - Speech to text by [Erick Ghaumez](https://twitter.com/rxlabz)
+*   [Speech Recognition (⭐335)](https://github.com/rxlabz/speech_recognition) <!--stargazers:rxlabz/speech_recognition--> - Speech to text by [Erick Ghaumez](https://twitter.com/rxlabz)
 *   [OK Google](https://marcinszalek.pl/flutter/ok-google-flutter/) - Integrate google assistant by [Marcin Szalek](https://marcinszalek.pl/)
 
 ### Templates / Preferences
 
-*   [Movie Details (⭐399)](https://github.com/FlutterRocks/movie-details-ui) <!--stargazers:FlutterRocks/movie-details-ui--> - Movie details page by [Iiro Krankka](https://github.com/roughike)
-*   [Weather (⭐147)](https://github.com/alessandroaime/Weather) <!--stargazers:alessandroaime/Weather--> - Weather app to learn how to use Canvas and Animation by [Alessandro Aime](https://github.com/alessandroaime)
-*   [TodoMVC (⭐8.2k)](https://github.com/brianegan/flutter_architecture_samples) <!--stargazers:brianegan/flutter_architecture_samples--> - TODO application ready to go with different flavors : Vanilla, Redux, built\_redux by [Brian Egan](https://github.com/brianegan)
-*   [Restaurant Menu (⭐591)](https://github.com/braulio94/menu_flutter) <!--stargazers:braulio94/menu_flutter--> - Restaurant menu by [Braulio Cassule](https://github.com/braulio94)
+*   [Movie Details (⭐423)](https://github.com/FlutterRocks/movie-details-ui) <!--stargazers:FlutterRocks/movie-details-ui--> - Movie details page by [Iiro Krankka](https://github.com/roughike)
+*   [Weather (⭐150)](https://github.com/alessandroaime/Weather) <!--stargazers:alessandroaime/Weather--> - Weather app to learn how to use Canvas and Animation by [Alessandro Aime](https://github.com/alessandroaime)
+*   [TodoMVC (⭐8.5k)](https://github.com/brianegan/flutter_architecture_samples) <!--stargazers:brianegan/flutter_architecture_samples--> - TODO application ready to go with different flavors : Vanilla, Redux, built\_redux by [Brian Egan](https://github.com/brianegan)
+*   [Restaurant Menu (⭐608)](https://github.com/braulio94/menu_flutter) <!--stargazers:braulio94/menu_flutter--> - Restaurant menu by [Braulio Cassule](https://github.com/braulio94)
 *   [UI Challenges (⭐1.4k)](https://github.com/tomialagbe/flutter_ui_challenges) <!--stargazers:tomialagbe/flutter_ui_challenges--> - Profile, Travel, Food App by [Tomi Alagbe](https://github.com/tomialagbe)
-*   [Cupertino Settings (⭐233)](https://github.com/matthinc/flutter_cupertino_settings) <!--stargazers:matthinc/flutter_cupertino_settings--> - iOS Settings by [Matthias Rupp](https://github.com/matthinc)
-*   [Music Player (⭐215)](https://github.com/thosakwe/flutter_music_player) <!--stargazers:thosakwe/flutter_music_player--> - music player component by [Tobe O](https://thosakwe.com/)
-*   [Dashboard (⭐856)](https://github.com/Ivaskuu/dashboard) <!--stargazers:Ivaskuu/dashboard--> - Dashboard and Shop Items by [Ivascu Adrian](https://github.com/Ivaskuu)
-*   [Todo (⭐551)](https://github.com/littlemarc2011/FlutterTodo) <!--stargazers:littlemarc2011/FlutterTodo--> - Todo template from Dribble by [Marc L](https://www.marc-little.com/)
-*   [Card Swipe Animation (⭐516)](https://github.com/geekruchika/FlutterCardSwipe) <!--stargazers:geekruchika/FlutterCardSwipe--> - Swipe cards template by [Ruchika Gupta](https://github.com/geekruchika)
+*   [Cupertino Settings (⭐231)](https://github.com/matthinc/flutter_cupertino_settings) <!--stargazers:matthinc/flutter_cupertino_settings--> - iOS Settings by [Matthias Rupp](https://github.com/matthinc)
+*   [Music Player (⭐221)](https://github.com/thosakwe/flutter_music_player) <!--stargazers:thosakwe/flutter_music_player--> - music player component by [Tobe O](https://thosakwe.com/)
+*   [Dashboard (⭐886)](https://github.com/Ivaskuu/dashboard) <!--stargazers:Ivaskuu/dashboard--> - Dashboard and Shop Items by [Ivascu Adrian](https://github.com/Ivaskuu)
+*   [Todo (⭐569)](https://github.com/littlemarc2011/FlutterTodo) <!--stargazers:littlemarc2011/FlutterTodo--> - Todo template from Dribble by [Marc L](https://www.marc-little.com/)
+*   [Card Swipe Animation (⭐547)](https://github.com/geekruchika/FlutterCardSwipe) <!--stargazers:geekruchika/FlutterCardSwipe--> - Swipe cards template by [Ruchika Gupta](https://github.com/geekruchika)
 
 ### Device / Augmented Reality
 
-*   [Geolocation (⭐220)](https://github.com/loup-v/geolocation) <!--stargazers:loup-v/geolocation--> - Fully featured geolocation plugin: current location, location updates, geocode, places and more by [Loup](http://intheloup.io)
-*   [Local Notifications (⭐2.1k)](https://github.com/MaikuB/flutter_local_notifications) <!--stargazers:MaikuB/flutter_local_notifications--> - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB)
+*   [Geolocation (⭐225)](https://github.com/loup-v/geolocation) <!--stargazers:loup-v/geolocation--> - Fully featured geolocation plugin: current location, location updates, geocode, places and more by [Loup](http://intheloup.io)
+*   [Local Notifications (⭐2.2k)](https://github.com/MaikuB/flutter_local_notifications) <!--stargazers:MaikuB/flutter_local_notifications--> - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB)
 
 ### State management / Redux / ELM / Dependency Injection
 
-*   [Redux.dart (⭐504)](https://github.com/johnpryan/redux.dart) <!--stargazers:johnpryan/redux.dart--> - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by [John Ryan](https://github.com/johnpryan) and [Brian Egan](https://gitlab.com/users/brianegan/projects)
+*   [Redux.dart (⭐509)](https://github.com/johnpryan/redux.dart) <!--stargazers:johnpryan/redux.dart--> - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by [John Ryan](https://github.com/johnpryan) and [Brian Egan](https://gitlab.com/users/brianegan/projects)
 
 ### Top / Game Engine resources
 
-*   [Lime (⭐375)](https://github.com/fablue/lime-flutter) <!--stargazers:fablue/lime-flutter--> - Lime social network by Sebastian Sellmair
-*   [NewsBuzz (⭐544)](https://github.com/theankurkedia/NewsBuzz) <!--stargazers:theankurkedia/NewsBuzz--> - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia)
-*   [DroidKaigi2018-flutter (⭐515)](https://github.com/konifar/droidkaigi2018-flutter) <!--stargazers:konifar/droidkaigi2018-flutter--> - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar)
-*   [Music Player (⭐1.5k)](https://github.com/iampawan/Flutter-Music-Player) <!--stargazers:iampawan/Flutter-Music-Player--> - Full featured music player by [Pawan Kumar](https://about.me/imthepk)
-*   [FlutterGram (⭐2.1k)](https://github.com/mdanics/fluttergram) <!--stargazers:mdanics/fluttergram--> - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics)
+*   [Lime (⭐378)](https://github.com/fablue/lime-flutter) <!--stargazers:fablue/lime-flutter--> - Lime social network by Sebastian Sellmair
+*   [NewsBuzz (⭐575)](https://github.com/theankurkedia/NewsBuzz) <!--stargazers:theankurkedia/NewsBuzz--> - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia)
+*   [DroidKaigi2018-flutter (⭐513)](https://github.com/konifar/droidkaigi2018-flutter) <!--stargazers:konifar/droidkaigi2018-flutter--> - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar)
+*   [Music Player (⭐1.6k)](https://github.com/iampawan/Flutter-Music-Player) <!--stargazers:iampawan/Flutter-Music-Player--> - Full featured music player by [Pawan Kumar](https://about.me/imthepk)
+*   [FlutterGram (⭐2.2k)](https://github.com/mdanics/fluttergram) <!--stargazers:mdanics/fluttergram--> - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics)
 
-## [5. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
+## [4. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
 
 ### Blockchains for AI in finance / Blockchain projects for AI algorithms
 
 *   [Numerai](https://numer.ai/) - Numerai is a hedge fund powered by a network of anonymous data scientists that build machine learning models to operate on encrypted data and stake cryptocurrency to express confidence in their models.
 
-## [6. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
+## [5. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
 
 ### Programming Language Design Patterns
 
@@ -158,28 +152,28 @@
 
 *   [martinfowler](https://www.martinfowler.com/articles/web-security-basics.html) - Web-security-basics.
 
-## [7. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
+## [6. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
 ### Wargames
 
 *   [Hone Your Ninja Skills](https://honeyourskills.ninja/) - Web challenges starting from basic ones.
 
-## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Exceptions
 
-*   [Demystifier (⭐2.4k)](https://github.com/benaadams/Ben.Demystifier) - High performance understanding for stack traces (Make error logs more productive).
+*   [Demystifier (⭐2.6k)](https://github.com/benaadams/Ben.Demystifier) - High performance understanding for stack traces (Make error logs more productive).
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [MQTTnet (⭐3.1k)](https://github.com/chkr1011/MQTTnet) - MQTTnet is a high performance .NET library for MQTT based communication.
+*   [MQTTnet (⭐3.8k)](https://github.com/chkr1011/MQTTnet) - MQTTnet is a high performance .NET library for MQTT based communication.
 
 ### Frameworks, Libraries and Tools / Template Engine
 
-*   [Razor (⭐885)](https://github.com/aspnet/Razor) - Parser and code generator for CSHTML files used in view pages for MVC web apps.
-*   [RazorLight (⭐1.3k)](https://github.com/toddams/RazorLight) - Template engine based on Microsoft's Razor parsing engine for .NET Core.
+*   [Razor (⭐883)](https://github.com/aspnet/Razor) - Parser and code generator for CSHTML files used in view pages for MVC web apps.
+*   [RazorLight (⭐1.4k)](https://github.com/toddams/RazorLight) - Template engine based on Microsoft's Razor parsing engine for .NET Core.
 
-## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / CloudWatch
 

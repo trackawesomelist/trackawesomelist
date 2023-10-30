@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 24, 2019
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -30,41 +30,31 @@
 *   Unpublished - Cell painting profiles of 596 overexpressed alleles from 53 genes in A549 cells (Access from public S3 bucket: `s3://cytodata/datasets/LUAD-BBBC043-Caicedo/profiles_cp/LUAD-BBBC043-Caicedo/`)
 *   Unpublished - 3,456 cell painting profiles from CRISPR experiments knocking down 59 genes in A549, ES2, and HCC44 cells ([Access from GitHub (⭐29)](https://github.com/broadinstitute/cell-health/tree/master/0.generate-profiles/data/profiles)).
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Note-taking & Editors
-
-*   [savepad (⭐28)](https://github.com/shelltr/textpad) - Minimalist notepad based on notepad.cc. `MIT` `PHP`
-
-### Software / Software Development - IDE & Tools
-
-*   [ICEcoder](https://icecoder.net/) - ICEcoder is a web IDE / browser based code editor, which allows you to develop websites directly within the web browser. ([Demo](http://demo.icecoder.net/ICEcoder/), [Source Code (⭐1.4k)](https://github.com/icecoder/ICEcoder)) `MIT` `PHP`
-
-## [4. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [3. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### API / Comments
 
 *   [Utterances](https://utteranc.es/) - A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more.
 
-## [5. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [4. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Artificial Intelligence / Machine Learning / Big Data / Angular
+### Artificial Intelligence / Machine Learning / Big Data / Svelte
 
 *   [The ML Engineer Newsletter](https://ethical.institute/mle.html). Receive updates on open source frameworks, tutorials and articles curated by machine learning professionals. Obtain insights on best practices, tools and techniques in machine learning explainability, reproducibility, model evaluation, feature analysis and beyond.
 
-## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Auth / Image Picker
 
 *   [Apple Sign-In (⭐157)](https://github.com/tomgilder/flutter_apple_sign_in) <!--stargazers:tomgilder/flutter_apple_sign_in--> - Apple sign in by [Tom Gilder](https://github.com/tomgilder)
 
-## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
 *   [The Modern Site Reliability Workbench on Top of OCI](https://www.youtube.com/watch?v=bC5dIPzNH24)
 
-## [8. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
+## [7. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 
 ### Libraries and Frameworks
 
@@ -74,7 +64,7 @@
 
 *   [extensionizr.com](https://extensionizr.com) - Web UI that helps you create an initial configuration and files.
 
-## [9. Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md)
+## [8. Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md)
 
 ### Articles / Introductions
 
@@ -108,35 +98,35 @@
 
 ### Tools / Ansible
 
-*   [bashdot (⭐95)](https://github.com/bashdot/bashdot) - Minimalist dotfile management framework written entirely in bash.
-*   [chezmoi (⭐8.3k)](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines.
-*   [dotbot (⭐5.9k)](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
-*   [dotdrop (⭐1.5k)](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
-*   [Fisher (⭐6.3k)](https://github.com/jorgebucaran/fisher) - A package manager for Fish
-*   [homeshick (⭐1.9k)](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
-*   [mackup (⭐13k)](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
+*   [bashdot (⭐98)](https://github.com/bashdot/bashdot) - Minimalist dotfile management framework written entirely in bash.
+*   [chezmoi (⭐10k)](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines.
+*   [dotbot (⭐6.4k)](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
+*   [dotdrop (⭐1.7k)](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
+*   [Fisher (⭐6.9k)](https://github.com/jorgebucaran/fisher) - A package manager for Fish
+*   [homeshick (⭐2k)](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
+*   [mackup (⭐14k)](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
 
 ### Tools / macOS
 
 *   [dockutil (⭐1.2k)](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items
-*   [mas (⭐9.5k)](https://github.com/mas-cli/mas) - Mac App Store command line interface
+*   [mas (⭐10k)](https://github.com/mas-cli/mas) - Mac App Store command line interface
 
 ### Archive/abandoned projects / macOS
 
 *   [Bashstrap (⭐1.6k)](https://github.com/barryclark/bashstrap)
 *   [battleschool (⭐417)](https://github.com/spencergibb/battleschool)
-*   [Eduardo's dotfiles (⭐420)](https://github.com/eduardolundgren/dotfiles)
-*   [Kevin's dotfiles (⭐115)](https://github.com/kdeldycke/dotfiles)
-*   [kody (⭐134)](https://github.com/jh3y/kody)
+*   [Eduardo's dotfiles (⭐421)](https://github.com/eduardolundgren/dotfiles)
+*   [Kevin's dotfiles (⭐129)](https://github.com/kdeldycke/dotfiles)
+*   [kody (⭐133)](https://github.com/jh3y/kody)
 *   [osxc](http://osxc.github.io)
 
-## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Testing
 
-*   [Atata (⭐441)](https://github.com/atata-framework/atata) - Web UI test automation full-featured framework based on Selenium WebDriver. <https://atata.io>
+*   [Atata (⭐470)](https://github.com/atata-framework/atata) - Web UI test automation full-featured framework based on Selenium WebDriver. <https://atata.io>
 
-## [11. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
+## [10. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
 ### Other
 
@@ -151,14 +141,13 @@
 
 *   [One Million Pixel Waves](https://www.onemillionpixelwaves.com/) - Smart Contract powered website entirely running on the Waves blockchain where anyone can own a piece of the blockchain and immortalize it with an image and a link.
 
-## [12. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [11. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### News / Video tutorials
 
 *   [Official Elm News](https://elm-lang.org/news) - Official Elm blog
 *   [Elm Weekly](http://www.elmweekly.nl/) - A weekly newsletter about Elm
 *   [Elm News](https://elm-news.com/) - All Elm news in one place
-*   [Elm Greenwood](https://elm-greenwood.com/) - Elm packages releases
 *   [Elm Reddit](https://www.reddit.com/r/elm/) - Elm news in Reddit
 
 ---

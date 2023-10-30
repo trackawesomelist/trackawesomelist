@@ -40,21 +40,21 @@
 
 ### Network / Scanning / Pentesting
 
-*   [RustScan (⭐10k)](https://github.com/RustScan/RustScan) - Faster Nmap scanning with Rust. Take a 17 minute Nmap scan down to 19 seconds.
+*   [RustScan (⭐11k)](https://github.com/RustScan/RustScan) - Faster Nmap scanning with Rust. Take a 17 minute Nmap scan down to 19 seconds.
 
 ## [7. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
 
 ### Backup
 
-*   [Dumpling (⭐268)](https://github.com/pingcap/dumpling) - Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library
+*   [Dumpling (⭐282)](https://github.com/pingcap/dumpling) - Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library
 
 ### Benchmarking
 
-*   [go-tpc (⭐132)](https://github.com/pingcap/go-tpc) - A golang port of [TPCC](http://www.tpc.org/tpcc/) and [TPCH](http://www.tpc.org/tpch/) benchmark for MySQL.
+*   [go-tpc (⭐148)](https://github.com/pingcap/go-tpc) - A golang port of [TPCC](http://www.tpc.org/tpcc/) and [TPCH](http://www.tpc.org/tpch/) benchmark for MySQL.
 
 ### Binlog-Replication
 
-*   [DM (⭐456)](https://github.com/pingcap/dm) - A High-Availability data migration platform which supports migrating data from MySQL/MariaDB to TiDB and merging shard tables
+*   [DM (⭐453)](https://github.com/pingcap/dm) - A High-Availability data migration platform which supports migrating data from MySQL/MariaDB to TiDB and merging shard tables
 
 ## [8. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 

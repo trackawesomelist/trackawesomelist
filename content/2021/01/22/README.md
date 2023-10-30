@@ -10,7 +10,7 @@
 
 ### Projects / Boilerplate
 
-*   [launchr (⭐201)](https://github.com/jayfk/launchr) - Launchr is a specialized Django starter template for SaaS web apps.
+*   [launchr (⭐220)](https://github.com/jayfk/launchr) - Launchr is a specialized Django starter template for SaaS web apps.
 
 ## [2. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
@@ -39,27 +39,27 @@
 ### Simulators / Object detection and object tracking
 
 *   [AirSim](https://microsoft.github.io/AirSim) - Unreal Engine based simulator for drones and automotive. Compatible with ROS.
-    *   [GitHub repository :octocat: (⭐14k)](https://github.com/microsoft/AirSim)
+    *   [GitHub repository :octocat: (⭐15k)](https://github.com/microsoft/AirSim)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=gnz1X3UNM5Y)
 
 ### Related awesome / Object detection and object tracking
 
-*   [Awesome point cloud analysis :octocat: (⭐3.6k)](https://github.com/Yochengliu/awesome-point-cloud-analysis#readme)
-*   [Awesome robotics :octocat: (⭐3.2k)](https://github.com/Kiloreux/awesome-robotics#readme)
-*   [Awesome robotics libraries :octocat: (⭐1.7k)](https://github.com/jslee02/awesome-robotics-libraries#readme)
-*   [Awesome artificial intelligence :octocat: (⭐7.4k)](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
-*   [Awesome computer vision :octocat: (⭐18k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
-*   [Awesome machine learning :octocat: (⭐58k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
-*   [Awesome deep learning :octocat: (⭐20k)](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
-*   [Awesome reinforcement learning :octocat: (⭐8.1k)](https://github.com/aikorea/awesome-rl/#readme)
-*   [Awesome SLAM datasets :octocat: (⭐1.2k)](https://github.com/youngguncho/awesome-slam-datasets#readme)
-*   [Awesome vehicle security and car hacking :octocat: (⭐2.4k)](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
+*   [Awesome point cloud analysis :octocat: (⭐3.8k)](https://github.com/Yochengliu/awesome-point-cloud-analysis#readme)
+*   [Awesome robotics :octocat: (⭐3.4k)](https://github.com/Kiloreux/awesome-robotics#readme)
+*   [Awesome robotics libraries :octocat: (⭐1.9k)](https://github.com/jslee02/awesome-robotics-libraries#readme)
+*   [Awesome artificial intelligence :octocat: (⭐8.1k)](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
+*   [Awesome computer vision :octocat: (⭐19k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
+*   [Awesome machine learning :octocat: (⭐60k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
+*   [Awesome deep learning :octocat: (⭐21k)](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
+*   [Awesome reinforcement learning :octocat: (⭐8.3k)](https://github.com/aikorea/awesome-rl/#readme)
+*   [Awesome SLAM datasets :octocat: (⭐1.4k)](https://github.com/youngguncho/awesome-slam-datasets#readme)
+*   [Awesome vehicle security and car hacking :octocat: (⭐2.5k)](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 
 ## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Node.js management
 
-*   [fnm (⭐12k)](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
+*   [fnm (⭐14k)](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
 
 ## [6. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -69,30 +69,26 @@
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
-
-*   [Unixtime](https://unixtime.co.za) - Free API to convert Unixtime to DateTime and vice versa.
-
 ### Security and PKI
 
 *   [StackHawk](https://www.stackhawk.com/) Automate application scanning throughout your pipeline to find and fix security bugs before they hit production. Unlimited scans and environments for a single app.
-*   [TestTLS.com](https://testtls.com) - Test a SSL/TLS service for secure server configuration, certificates, chains etc. Not limited to HTTPS.
+*   [TestTLS.com](https://testtls.com) - Test an SSL/TLS service for secure server configuration, certificates, chains, etc. Not limited to HTTPS.
 
 ### Messaging and Streaming
 
 *   [cloudamqp.com](https://www.cloudamqp.com/) — RabbitMQ as a Service. Little Lemur plan: max 1 million messages/month, max 20 concurrent connections, max 100 queues, max 10,000 queued messages, multiple nodes in different AZ's
 
+### Miscellaneous
+
+*   [Form2Channel](https://form2channel.com) — Place a static html form on your website and receive submissions directly to Google Sheets, Email, Slack, Telegram, or HTTP. No coding is necessary.
+
 ### Design and UI
 
-*   [Grapedrop](https://grapedrop.com/) — Responsive, powerful, SEO optimized web page builder based on GrapesJS Framework. Free for first 5 pages, unlimited custom domains, all features and simple usage.
+*   [Grapedrop](https://grapedrop.com/) — Responsive, powerful, SEO-optimized web page builder based on GrapesJS Framework. Free for the first five pages, unlimited custom domains, all features, and simple usage.
 
 ### Commenting Platforms
 
-*   [GraphComment](https://graphcomment.com/) - GraphComment is a comments platform that helps you build an active community from website’s audience.
-
-### Miscellaneous
-
-*   [Form2Channel](https://form2channel.com) — Place a static html form on your website and receive submissions directly to Google Sheets, Email, Slack, Telegram or Http. No coding necessary.
+*   [GraphComment](https://graphcomment.com/) - GraphComment is a comments platform that helps you build an active community from the website’s audience.
 
 ## [8. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -104,7 +100,7 @@
 
 ### Tools
 
-*   [Visual Novel OCR (⭐53)](https://github.com/leminhyen2/Visual-Novel-OCR) - Japanese optical character recognition for visual novels. \[English]
+*   [Visual Novel OCR (⭐64)](https://github.com/leminhyen2/Visual-Novel-OCR) - Japanese optical character recognition for visual novels. \[English]
 
 ## [10. Awesome Esp](/content/agucova/awesome-esp/README.md)
 
@@ -124,7 +120,7 @@
 
 ### Misc
 
-*   [Quickenshtein (⭐230)](https://github.com/Turnerj/Quickenshtein) - An extremely quick and memory efficient Levenshtein Distance calculator with SIMD and Threading support
+*   [Quickenshtein (⭐252)](https://github.com/Turnerj/Quickenshtein) - An extremely quick and memory efficient Levenshtein Distance calculator with SIMD and Threading support
 
 ## [12. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

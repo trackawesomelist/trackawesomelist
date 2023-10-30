@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 04 - Oct 10, 2021
 
-75 awesome lists updated this week.
+74 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,11 +16,11 @@
 
 ### Resources / Controllers
 
-*   [gdx-controllers (⭐52)](https://github.com/libgdx/gdx-controllers) - Adds support to gamepads and joysticks.
+*   [gdx-controllers (⭐61)](https://github.com/libgdx/gdx-controllers) - Adds support to gamepads and joysticks.
 
 ### Resources / Others
 
-*   [gdx-jnigen (⭐40)](https://github.com/libgdx/gdx-jnigen) - Small library that allows C/C++ code to be written inline with Java source code.
+*   [gdx-jnigen (⭐42)](https://github.com/libgdx/gdx-jnigen) - Small library that allows C/C++ code to be written inline with Java source code.
 
 ## [3. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Fuzzy Finder / Diagnostics
 
-*   [jvgrootveld/telescope-zoxide (⭐187)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐11k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
+*   [jvgrootveld/telescope-zoxide (⭐220)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐12k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 
 ## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -56,8 +56,8 @@
 
 ### Libraries
 
-*   [ts-multimethod (⭐2)](https://github.com/darky/ts-multimethod) - TypeScript multimethods inspired by Clojure multimethods. +TS
-*   [ts-fp-di (⭐1)](https://github.com/darky/ts-fp-di) - Tiny TypeScript functional dependency injection, based on Node.js AsyncLocalStorage. +TS
+*   [ts-multimethod (⭐3)](https://github.com/darky/ts-multimethod) - TypeScript multimethods inspired by Clojure multimethods. +TS
+*   [ts-fp-di (⭐2)](https://github.com/darky/ts-fp-di) - Tiny TypeScript functional dependency injection, based on Node.js AsyncLocalStorage. +TS
 
 ## [9. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -75,13 +75,13 @@
 
 ### Tools / Online Analyzers
 
-*   ~~[AMAaaS](https://amaaas.com) - Free Android Malware Analysis Service. A baremetal service features static and dynamic analysis for Android applications. A product of [MalwarePot](https://malwarepot.com/index.php/AMAaaS)~~.
+*   ~~[AMAaaS](https://amaaas.com) - Free Android Malware Analysis Service. A bare-metal service features static and dynamic analysis for Android applications. A product of [MalwarePot](https://malwarepot.com/index.php/AMAaaS)~~.
 *   ~~[AppCritique](https://appcritique.boozallen.com) - Upload your Android APKs and receive comprehensive free security assessments~~
 
 ### Tools / Dynamic Analysis Tools
 
-*   [Android\_application\_analyzer (⭐128)](https://github.com/NotSoSecure/android_application_analyzer) - The tool is used to analyze the content of the android application in local storage.
-*   ~~[Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (linux distro) Earlier it use to be an [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)~~
+*   [Android\_application\_analyzer (⭐132)](https://github.com/NotSoSecure/android_application_analyzer) - The tool is used to analyze the content of the Android application in local storage.
+*   ~~[Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (Linux distro) Earlier it use to be an [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)~~
 *   ~~[Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE (android reverse engineering) not under active development anymore~~
 *   ~~[ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/)~~
 *   ~~[Mercury](https://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/)~~
@@ -89,11 +89,11 @@
 
 ### Tools / Market Crawlers
 
-*   [APK Downloader](https://apkcombo.com/apk-downloader/) Online Sevrice to download APK from Playstore for specific Android Device Configuration
+*   [APK Downloader](https://apkcombo.com/apk-downloader/) Online Service to download APK from Playstore for specific Android Device Configuration
 
 ### Tools / Vulnerable Applications for practice
 
-*   [Insecureshop (⭐216)](https://github.com/optiv/insecureshop)
+*   [Insecureshop (⭐215)](https://github.com/optiv/insecureshop)
 
 ## [12. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
 
@@ -173,22 +173,18 @@
 
 ### Recruitment / Interview
 
-*   [Engineering Leadership Interviews (⭐77)](https://github.com/kaushikb9/em-interviews) - An outline on how to recruit for engineering manager roles.
+*   [Engineering Leadership Interviews (⭐93)](https://github.com/kaushikb9/em-interviews) - An outline on how to recruit for engineering manager roles.
 
 ### Cognitive Tools / Collections
 
-*   [Awesome Concepts (⭐421)](https://github.com/lukasz-madon/awesome-concepts) - Laws, principles, mental models and cognitive biases.
-
-### Engineering / Engineering Practices
-
-*   [How to Misuse Code Coverage](http://www.testingeducation.org/BBST/foundations/Marick_coverage.pdf) - “If a part of your test suite is weak in a way that coverage can detect, it's likely also weak in a way coverage can't detect.” I.e. the great benefit of a coverage report is that it tells you what you forgot to think about when you wrote the test suite itself ([source](https://news.ycombinator.com/item?id=28678098)).
+*   [Awesome Concepts (⭐454)](https://github.com/lukasz-madon/awesome-concepts) - Laws, principles, mental models and cognitive biases.
 
 ## [19. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Accounting / Bookkeeping
 
-*   [Ledger (⭐627)](https://github.com/numary/ledger) - A scriptable financial ledger, designed to make it easy to model complex financial transactions.
-*   [Akaunting (⭐6.1k)](https://github.com/akaunting/akaunting) - Open source software designed for small businesses and freelancers.
+*   [Ledger (⭐700)](https://github.com/numary/ledger) - A scriptable financial ledger, designed to make it easy to model complex financial transactions.
+*   [Akaunting (⭐6.6k)](https://github.com/akaunting/akaunting) - Open source software designed for small businesses and freelancers.
 
 ## [20. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -210,47 +206,47 @@
 
 ### Operating systems / Build system (ROS2)
 
-*   [ReconROS (⭐15)](https://github.com/Lien182/ReconROS) - Framework for ROS2 FPGA-based hardware acceleration. Based on [ReconOS (⭐27)](https://github.com/reconos/reconos). ![ReconROS](https://img.shields.io/github/stars/Lien182/ReconROS.svg)
+*   [ReconROS (⭐16)](https://github.com/Lien182/ReconROS) - Framework for ROS2 FPGA-based hardware acceleration. Based on [ReconOS (⭐27)](https://github.com/reconos/reconos). ![ReconROS](https://img.shields.io/github/stars/Lien182/ReconROS.svg)
 
 ## [23. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [Umbraco (⭐3.7k)](https://github.com/umbraco/umbraco-cms) - An extensible and friendly Open source ASP.NET Core CMS
+*   [Umbraco (⭐4k)](https://github.com/umbraco/umbraco-cms) - An extensible and friendly Open source ASP.NET Core CMS
 
 ## [24. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
 *   [Adonis (⭐14k)](https://github.com/adonisjs/core) - The Node.js Framework highly focused on developer ergonomics, stability and confidence.
-*   [GrapesJS (⭐18k)](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding.
-*   [Rete.js (⭐8.4k)](https://github.com/retejs/rete) - A modular framework for visual programming allows to create node based editor in browser.
-*   [litegraph.js (⭐3.6k)](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D.
-*   [Drawflow (⭐3.2k)](https://github.com/jerosoler/Drawflow) - This allow you to create data flows easily and quickly.
-*   [Blockly (⭐11k)](https://github.com/google/blockly) - A library that adds a visual code editor to web and mobile apps by Google.
+*   [GrapesJS (⭐19k)](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding.
+*   [Rete.js (⭐9k)](https://github.com/retejs/rete) - A modular framework for visual programming allows to create node based editor in browser.
+*   [litegraph.js (⭐4k)](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D.
+*   [Drawflow (⭐3.6k)](https://github.com/jerosoler/Drawflow) - This allow you to create data flows easily and quickly.
+*   [Blockly (⭐12k)](https://github.com/google/blockly) - A library that adds a visual code editor to web and mobile apps by Google.
 
 ### Data Visualization / Runner
 
 *   [metrics-graphics (⭐7.5k)](https://github.com/mozilla/metrics-graphics) - A library optimized for concise, principled data graphics and layouts.
 *   [visjs](https://github.com/visjs) - Multiple Libraries for dynamic, browser-based data visualization.
-*   [Cytoscape.js (⭐9.1k)](https://github.com/cytoscape/cytoscape.js) - A fully featured graph theory library.
+*   [Cytoscape.js (⭐9.3k)](https://github.com/cytoscape/cytoscape.js) - A fully featured graph theory library.
 *   [cola.js](https://ialab.it.monash.edu/webcola/) - library for arranging your HTML5 documents and diagrams using constraint-based optimization techniques
-*   [jointjs (⭐3.9k)](https://github.com/clientIO/joint) - Diagramming library to create static diagrams or fully interactive diagramming tools.
+*   [jointjs (⭐4.1k)](https://github.com/clientIO/joint) - Diagramming library to create static diagrams or fully interactive diagramming tools.
 
 ### Data Structure / Runner
 
-*   [ngraph.graph (⭐432)](https://github.com/anvaka/ngraph.graph) - Graph data structure in javascript.
+*   [ngraph.graph (⭐465)](https://github.com/anvaka/ngraph.graph) - Graph data structure in javascript.
 
 ### Storage / Runner
 
 *   [pouchdb (⭐16k)](https://github.com/pouchdb/pouchdb) - Javascript db inspired by Apache CouchDB to run well within the browser.
-*   [datavore (⭐242)](https://github.com/StanfordHCI/datavore) - A small, fast, in-browser database engine written in JavaScript.
+*   [datavore (⭐244)](https://github.com/StanfordHCI/datavore) - A small, fast, in-browser database engine written in JavaScript.
 *   [Hoodie (⭐4.4k)](https://github.com/hoodiehq/hoodie) - Offline First backend to work in browser without internet connectivity.
 *   [NeDB (⭐13k)](https://github.com/louischatriot/nedb) - Embedded Persistent database for Browsers, nw\.js, electron.
 
 ### Operating System / Runner
 
-*   [os.js (⭐6.3k)](https://github.com/os-js/OS.js) - An open-source web desktop platform with a window manager, application APIs, GUI toolkit, filesystem abstractions and much more.
+*   [os.js (⭐6.6k)](https://github.com/os-js/OS.js) - An open-source web desktop platform with a window manager, application APIs, GUI toolkit, filesystem abstractions and much more.
 
 ### Form Widgets / Calendar
 
@@ -258,43 +254,43 @@
 
 ### Form Widgets / Other
 
-*   [dat.GUI (⭐6.8k)](https://github.com/dataarts/dat.gui) - A lightweight gui controller for changing variables in JavaScript.
+*   [dat.GUI (⭐7k)](https://github.com/dataarts/dat.gui) - A lightweight gui controller for changing variables in JavaScript.
 
 ### Modals and Popups / Other
 
 *   [SweetAlert2 (⭐16k)](https://github.com/sweetalert2/sweetalert2) - An awesome replacement for JavaScript's alert.
-*   [screenfull.js (⭐6.8k)](https://github.com/sindresorhus/screenfull.js) - the JavaScript Fullscreen API, which lets you bring the page or any element into fullscreen. Smoothens out the browser implementation differences, so you don't have to.
+*   [screenfull.js (⭐6.9k)](https://github.com/sindresorhus/screenfull.js) - the JavaScript Fullscreen API, which lets you bring the page or any element into fullscreen. Smoothens out the browser implementation differences, so you don't have to.
 
 ### Scroll / Other
 
-*   [asscroll (⭐936)](https://github.com/ashthornton/asscroll) - A hybrid smooth scroll setup that combines the performance gains of virtual scroll with the reliability of native scroll.
-*   [stroll (⭐4.3k)](https://github.com/hakimel/stroll.js) - A collection of CSS List scroll effects bind to dom through javascript.
-*   [locomotive-scroll (⭐6.4k)](https://github.com/locomotivemtl/locomotive-scroll) - Detects the elements in viewport and smooth scrolling with parallax.
+*   [asscroll (⭐943)](https://github.com/ashthornton/asscroll) - A hybrid smooth scroll setup that combines the performance gains of virtual scroll with the reliability of native scroll.
+*   [stroll (⭐4.4k)](https://github.com/hakimel/stroll.js) - A collection of CSS List scroll effects bind to dom through javascript.
+*   [locomotive-scroll (⭐6.9k)](https://github.com/locomotivemtl/locomotive-scroll) - Detects the elements in viewport and smooth scrolling with parallax.
 *   [elevator.js (⭐6.6k)](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
 
 ### Images / Other
 
 *   [Drift (⭐1.5k)](https://github.com/imgix/drift) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
-*   [Magnificent.js (⭐166)](https://github.com/AndersDJohnson/magnificent.js) - Zoom responsively, images & more, w/ jQuery.
-*   [Panolens.js (⭐2.6k)](https://github.com/pchen66/panolens.js) - Panolens.js is an event-driven and WebGL based panorama viewer. Lightweight and flexible
+*   [Magnificent.js (⭐168)](https://github.com/AndersDJohnson/magnificent.js) - Zoom responsively, images & more, w/ jQuery.
+*   [Panolens.js (⭐2.7k)](https://github.com/pchen66/panolens.js) - Panolens.js is an event-driven and WebGL based panorama viewer. Lightweight and flexible
 
 ### Maps / Other
 
-*   [H3js (⭐4k)](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system ported to javascript by Uber for geospatial visualization.
+*   [H3js (⭐4.2k)](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system ported to javascript by Uber for geospatial visualization.
 
 ### Video/Audio / Other
 
-*   [ts-audio (⭐298)](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API.
-*   [ractive-player (⭐697)](https://github.com/ysulyma/ractive-player) - A library for making interactive videos in React.js.
-*   [ffmpeg.js (⭐2.9k)](https://github.com/Kagami/ffmpeg.js) - FFmpeg optimized for in-browser use: minimal size for faster loading, asm.js, performance tunings, etc.
+*   [ts-audio (⭐303)](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API.
+*   [ractive-player (⭐708)](https://github.com/ysulyma/ractive-player) - A library for making interactive videos in React.js.
+*   [ffmpeg.js (⭐3k)](https://github.com/Kagami/ffmpeg.js) - FFmpeg optimized for in-browser use: minimal size for faster loading, asm.js, performance tunings, etc.
 *   [flv.js (⭐22k)](https://github.com/bilibili/flv.js) - An HTML5 Flash Video (FLV) Player written in pure JavaScript without Flash.
 *   [hls.js (⭐13k)](https://github.com/video-dev/hls.js) -  A JavaScript library that implements an HTTP Live Streaming client. It relies on HTML5 video and MediaSource Extensions for playback.
 
 ### Animations / Other
 
 *   [Effeckt.css (⭐11k)](https://github.com/h5bp/Effeckt.css) - A Performant Transitions and Animations Library.
-*   [shuffle-images (⭐212)](https://github.com/peachananr/shuffle-images) - The Simplest Way to shuffle through images in a Creative Way.
-*   [tsParticles (⭐5.3k)](https://github.com/matteobruni/tsparticles) - A new and improved version of particles.js with bug fixes and many new features.
+*   [shuffle-images (⭐213)](https://github.com/peachananr/shuffle-images) - The Simplest Way to shuffle through images in a Creative Way.
+*   [tsParticles (⭐5.8k)](https://github.com/matteobruni/tsparticles) - A new and improved version of particles.js with bug fixes and many new features.
 *   [barbajs (⭐11k)](https://github.com/barbajs/barba) - It helps you create fluid and smooth transitions between your website's pages.
 *   [typicaljs (⭐1.2k)](https://github.com/camwiegert/typical) - Animated typing in \~400 bytes 🐡 of JavaScript
 
@@ -304,23 +300,23 @@
 
 ### Full Text Search / Other
 
-*   [lunr (⭐8.5k)](https://github.com/olivernn/lunr.js) - Library for use in the browser and It indexes JSON documents and provides a simple search interface for retrieving documents that best match text queries.
-*   [flexsearch (⭐10k)](https://github.com/nextapps-de/flexsearch) - It is a Next-Generation full text search library for Browser and Node.js.
+*   [lunr (⭐8.6k)](https://github.com/olivernn/lunr.js) - Library for use in the browser and It indexes JSON documents and provides a simple search interface for retrieving documents that best match text queries.
+*   [flexsearch (⭐11k)](https://github.com/nextapps-de/flexsearch) - It is a Next-Generation full text search library for Browser and Node.js.
 *   [Elasticlunr (⭐2k)](https://github.com/weixsong/elasticlunr.js) - This library is based on lunr.js, but more flexible and customized.
 
 ### Misc / Other
 
-*   [BitSet.js (⭐211)](https://github.com/infusion/BitSet.js) - A JavaScript Bit-Vector implementation.
+*   [BitSet.js (⭐213)](https://github.com/infusion/BitSet.js) - A JavaScript Bit-Vector implementation.
 *   [Array Explorer (⭐2.6k)](https://github.com/sdras/array-explorer) and [Object Explorer](https://objectexplorer.netlify.app/) - Resources to help figure out what native JavaScript method would be best to use at any given time.
 *   [Fcal (⭐97)](https://github.com/5anthosh/fcal) -  Math expression evaluator.
-*   [emoji-button (⭐1.1k)](https://github.com/joeattardi/emoji-button) - Vanilla JavaScript emoji picker component.
-*   [Peg.js (⭐4.6k)](https://github.com/pegjs/pegjs) - A simple parser generator for JavaScript that produces fast parsers with excellent error reporting. Usable from your browser, from the command line, or via JavaScript API.
-*   [lune (⭐106)](https://github.com/ryanseys/lune) - Library to calculate the phases of the moon accurately.
-*   [jsemu (⭐1.6k)](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language.
+*   [emoji-button (⭐1.2k)](https://github.com/joeattardi/emoji-button) - Vanilla JavaScript emoji picker component.
+*   [Peg.js (⭐4.7k)](https://github.com/pegjs/pegjs) - A simple parser generator for JavaScript that produces fast parsers with excellent error reporting. Usable from your browser, from the command line, or via JavaScript API.
+*   [lune (⭐107)](https://github.com/ryanseys/lune) - Library to calculate the phases of the moon accurately.
+*   [jsemu (⭐1.7k)](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language.
 
 ## [25. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
-### Other
+### Graphics
 
 ### ElectropaintOSX
 
@@ -338,7 +334,7 @@ Free (Open Source)
 
 ### Public Data Resources / Employment
 
-*   [Longitudinal Employer-Household Dynamics (LEHD)](https://lehd.ces.census.gov/) -  The LEHD program combines these administrative data, and data from censuses and surveys. From these data, the program creates statistics on employment, earnings, and job flows at detailed levels of geography and industry and for different demographic groups. Additional Information: [On The Map Download Page](https://onthemap.ces.census.gov/).
+*   [Longitudinal Employer-Household Dynamics (LEHD)](https://lehd.ces.census.gov/) - The LEHD program combines administrative data, and data from censuses and surveys. From these data, the program creates statistics on employment, earnings, and job flows at detailed levels of geography and industry and for different demographic groups. Additional Information: [On The Map Download Page](https://onthemap.ces.census.gov/).
 
 ### Public Data Resources / Equity and Environmental Justice
 
@@ -355,7 +351,7 @@ Free (Open Source)
 
 ### Planning Data Specifications / Transportation
 
-*   [CurbLR](https://www.curblr.org) -  An open data specification for curb regulations maintained by SharedStreets. Additional Information: [GitHub](https://www.github.com/sharedstreets/curblr), Demo: Interactive [map and example feed](https://demo.curblr.org/), Blog post: [Why CurbLR was built](https://medium.com/sharedstreets/crossroads-for-the-curb-be3137154148).
+*   [CurbLR](https://www.curblr.org) - An open data specification for curb regulations maintained by SharedStreets. Additional Information: [GitHub](https://www.github.com/sharedstreets/curblr), Demo: Interactive [map and example feed](https://demo.curblr.org/), Blog post: [Why CurbLR was built](https://medium.com/sharedstreets/crossroads-for-the-curb-be3137154148).
 
 ### Platforms and Software Resources / Geospatial Data and Visualization
 
@@ -365,7 +361,7 @@ Free (Open Source)
 
 ### Plugins and scripts / Various Godot versions
 
-*   [obs-websocket-gd (⭐50)](https://github.com/you-win/obs-websocket-gd) - Script and editor plugin to control Open Broadcaster Software from Godot via obs-websocket (Godot 3.x).
+*   [obs-websocket-gd (⭐55)](https://github.com/you-win/obs-websocket-gd) - Script and editor plugin to control Open Broadcaster Software from Godot via obs-websocket (Godot 3.x).
 
 ## [28. Awesome](/content/craftcms/awesome/week/README.md)
 
@@ -387,7 +383,7 @@ Free (Open Source)
 
 ### Tools & Software / Acquisition
 
-*   [Wayback (⭐1.3k)](https://github.com/wabarc/wayback) - A toolkit for snapshot webpage to Internet Archive, archive.today, IPFS and beyond. *(Stable)*
+*   [Wayback (⭐1.5k)](https://github.com/wabarc/wayback) - A toolkit for snapshot webpage to Internet Archive, archive.today, IPFS and beyond. *(Stable)*
 
 ## [31. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
 
@@ -403,33 +399,15 @@ Free (Open Source)
 
 ### Extensions / Community
 
-*   [Editor.js Interface (⭐159)](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) - Block editor (Editor.js) interface for Directus 9.
+*   [Editor.js Interface (⭐174)](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) - Block editor (Editor.js) interface for Directus 9.
 
 ## [33. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
-*   [optionals (⭐140)](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options with exhaustive pattern matching.
+*   [optionals (⭐151)](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options with exhaustive pattern matching.
 
-## [34. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
-
-### Assembly / 理論計算機科学
-
-*   [リバースエンジニアリング入門 | Reverse Engineering for Beginners](https://beginners.re/RE4B-JA.pdf) - Dennis Yurichev, shmz, 4ryuJP (PDF)
-
-### Go / 理論計算機科学
-
-*   [とほほの Go 言語入門](https://www.tohoho-web.com/ex/golang.html) - 杜甫々
-
-### Scala / Flask
-
-*   [ScalaによるWebアプリケーション開発 (⭐2.2k)](https://github.com/hatena/Hatena-Textbook/blob/master/web-application-development-scala.md) - はてな教科書
-
-### Swift / Flask
-
-*   [逆引きSwift](http://faboplatform.github.io/SwiftDocs/) - FaBo
-
-## [35. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [34. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### MOOC's
 
@@ -438,7 +416,7 @@ Free (Open Source)
 
 ### Books / Visualization Tools
 
-*   [Regression, a Friendly guide](https://www.manning.com/books/regression-a-friendly-guide) - Early access
+*   [Regression, a Friendly guide](https://www.manning.com/books/regression-a-friendly-guide) - Early Access
 *   [Deep Learning](https://www.deeplearningbook.org/)
 *   [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/)
 *   [Deep Learning with PyTorch](https://www.simonandschuster.com/books/Deep-Learning-with-PyTorch/Eli-Stevens/9781617295263)
@@ -448,71 +426,71 @@ Free (Open Source)
 *   [Comic compilation](https://medium.com/@nikhil_garg/a-compilation-of-comics-explaining-statistics-data-science-and-machine-learning-eeefbae91277)
 *   [Cartoons](https://www.kdnuggets.com/websites/cartoons.html)
 
-## [36. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [35. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Miscellaneous / Development and testing
 
-*   [sixel-tmux (⭐395)](https://github.com/csdvrx/sixel-tmux) a fork of tmux, with just one goal: having the most reliable support of graphics
+*   [sixel-tmux (⭐438)](https://github.com/csdvrx/sixel-tmux) a fork of tmux, with just one goal: having the most reliable support of graphics
 
-## [37. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [36. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Account Management
 
-*   [SuperTokens (⭐8.6k)](https://github.com/supertokens/supertokens-core) - Open-source project for login and session management which supports passwordless, social login, email and phone logins.
+*   [SuperTokens (⭐10k)](https://github.com/supertokens/supertokens-core) - Open-source project for login and session management which supports passwordless, social login, email and phone logins.
 *   [UserFrosting (⭐1.6k)](https://github.com/userfrosting/UserFrosting) - Modern PHP user login and management framework.
 
-### Authentication / Multi-Factor
+### Multi-factor auth / Identifiers
 
-*   [Authelia (⭐16k)](https://github.com/authelia/authelia) - Open-source authentication and authorization server providing two-factor authentication and single sign-on (SSO) for your applications via a web portal.
+*   [Authelia (⭐18k)](https://github.com/authelia/authelia) - Open-source authentication and authorization server providing two-factor authentication and single sign-on (SSO) for your applications via a web portal.
 
-### Authentication / JWT
+### Password-less auth / JWT
 
-*   [jwtXploiter (⭐219)](https://github.com/DontPanicO/jwtXploiter) - A tool to test security of json web token.
+*   [jwtXploiter (⭐246)](https://github.com/DontPanicO/jwtXploiter) - A tool to test security of json web token.
 
 ### Authorization / Policy models
 
 *   [Zanzibar: Google's Consistent, Global Authorization System](https://ai.google/research/pubs/pub48190) - Scales to trillions of access control lists and millions of authorization requests per second to support services used by billions of people. It has maintained 95th-percentile latency of less than 10 milliseconds and availability of greater than 99.999% over 3 years of production use. [Other bits not in the paper](https://twitter.com/LeaKissner/status/1136626971566149633). [Zanzibar Academy](https://zanzibar.academy/) is a site dedicated to explaining how Zanzibar works.
 
-## [38. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [37. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### GUI
 
-*   [Sequel Ace (⭐5.3k)](https://github.com/Sequel-Ace/Sequel-Ace) - a Mac database management application for working with MySQL databases.
+*   [Sequel Ace (⭐5.8k)](https://github.com/Sequel-Ace/Sequel-Ace) - a Mac database management application for working with MySQL databases.
 
-## [39. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [38. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Articles
 
 *   [K6 — Custom Slack Integration: Metrics are the Magic of Tests](https://medium.com/geekculture/k6-custom-slack-integration-metrics-are-the-magic-of-tests-527aaf613595) -  How to send k6 output results to Slack using the handleSummary callback.
 
-## [40. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [39. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Image / Backend-Driven
 
-*   [Lottie (⭐889)](https://github.com/xvrh/lottie-flutter) <!--stargazers:xvrh/lottie-flutter--> - Use airbnb's popular [After Effects Animation library](https://airbnb.design/lottie/) by [xvrh (⭐889)](https://github.com/xvrh/lottie-flutter)
+*   [Lottie (⭐990)](https://github.com/xvrh/lottie-flutter) <!--stargazers:xvrh/lottie-flutter--> - Use airbnb's popular [After Effects Animation library](https://airbnb.design/lottie/) by [xvrh (⭐990)](https://github.com/xvrh/lottie-flutter)
 
 ### Bonus / Game Engine resources
 
-*   [Awesome Flutter Linux (⭐110)](https://github.com/jpnurmi/awesome-flutter-linux) - A curated list of awesome Linux-specific Flutter packages and projects by [J-P Nurmi](https://twitter.com/jpnurmi)
+*   [Awesome Flutter Linux (⭐144)](https://github.com/jpnurmi/awesome-flutter-linux) - A curated list of awesome Linux-specific Flutter packages and projects by [J-P Nurmi](https://twitter.com/jpnurmi)
 
-## [41. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [40. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / System tools
 
-*   [bustd (⭐192)](https://github.com/vrmiguel/bustd) - Lightweight process killer daemon to handle out-of-memory scenarios on Linux. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/vrmiguel/bustd/build-and-test)](https://github.com/vrmiguel/bustd/actions?query=branch%3Amaster)
-*   [ouch (⭐1.4k)](https://github.com/ouch-org/ouch) - Painless compression and decompression on the command-line [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ouch-org/ouch/build-and-test)](https://github.com/ouch-org/ouch/actions?query=branch%3Amaster)
+*   [bustd (⭐199)](https://github.com/vrmiguel/bustd) - Lightweight process killer daemon to handle out-of-memory scenarios on Linux. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/vrmiguel/bustd/build-and-test)](https://github.com/vrmiguel/bustd/actions?query=branch%3Amaster)
+*   [ouch (⭐1.6k)](https://github.com/ouch-org/ouch) - Painless compression and decompression on the command-line [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ouch-org/ouch/build-and-test)](https://github.com/ouch-org/ouch/actions?query=branch%3Amaster)
 
 ### Libraries / Asynchronous
 
-*   [async-std](https://async.rs/) [\[async-std\]](https://crates.io/crates/async-std) - Async version of the Rust standard library [![CI](https://github.com/async-rs/async-std/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/async-rs/async-std/actions/workflows/ci.yml)
+*   [async-std](https://async.rs/) \[[async-std](https://crates.io/crates/async-std)] - Async version of the Rust standard library [![CI](https://github.com/async-rs/async-std/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/async-rs/async-std/actions/workflows/ci.yml)
 
-## [42. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [41. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
 *   [Setting Up A Keycloak Server For Authenticating To FileMaker](https://soundsessential.medium.com/setting-up-a-keycloak-server-for-authenticating-to-filemaker-introduction-bfe8bba7a8b2)
 
-## [43. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
+## [42. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
 ### Languages
 
@@ -522,44 +500,44 @@ Free (Open Source)
 
 *   [Bashcrawl](https://gitlab.com/slackermedia/bashcrawl) - Learn Linux commands by playing a simple text adventure .
 
-## [44. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+## [43. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
 ### Subtitles and Captions / Web
 
 *   [IMSC HRM validator (⭐7)](https://github.com/sandflow/imscHRM)  - Validator for the IMSC Hypothetical Render Model (HRM), which constrains TTML document complexity
 *   [imscJS: IMSC/TTML/SMPTE-TT/EBU-TT-D renderer (⭐75)](https://github.com/sandflow/imscJS/)  - Renders IMSC/TTML/SMPTE-TT/EBU-TT-D subtitles and captions to HTML
-*   [ttconv: subtitle/caption format converter (⭐119)](https://github.com/sandflow/ttconv)  - Converts EBU STL, IMSC/TTML/SMPTE-TT/EBU-TT-D and 608/SCC into IMSC, WebVTT and SRT
+*   [ttconv: subtitle/caption format converter (⭐126)](https://github.com/sandflow/ttconv)  - Converts EBU STL, IMSC/TTML/SMPTE-TT/EBU-TT-D and 608/SCC into IMSC, WebVTT and SRT
 
-## [45. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [44. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Graphics
 
 *   [ImagePut (⭐41)](https://github.com/iseahound/ImagePut) - by iseahound - Image library for converting to files, streams, windows, base64, urls, cursors, screen coordinates, clipboard, pointers, handles, and more. Supports AutoHotkey v1 and v2. - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=76301\&p=330615)
 
-## [46. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [45. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Collaboration Tools / Malware Analysis Books
 
 *   [Reconmap](https://reconmap.org/) - Open-source collaboration platform for InfoSec professionals that streamlines the pentest process.
 
-## [47. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [46. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Libraries
 
 *   [Algebra Tactics (⭐28)](https://github.com/math-comp/algebra-tactics) - Ring and field tactics for Mathematical Components.
-*   [Bedrock Bit Vectors (⭐26)](https://github.com/mit-plv/bbv) - Library for reasoning on fixed precision machine words.
+*   [Bedrock Bit Vectors (⭐25)](https://github.com/mit-plv/bbv) - Library for reasoning on fixed precision machine words.
 *   [CoLoR (⭐30)](https://github.com/fblanqui/color) - Library on rewriting theory, lambda-calculus and termination, with sub-libraries on common data structures extending the Coq standard library.
 *   [Flocq](https://gitlab.inria.fr/flocq/flocq) - Formalization of floating-point numbers and computations.
 
 ### Projects / Tools
 
-*   [coq-dpdgraph (⭐80)](https://github.com/coq-community/coq-dpdgraph) - Tool for building dependency graphs between Coq objects.
+*   [coq-dpdgraph (⭐82)](https://github.com/coq-community/coq-dpdgraph) - Tool for building dependency graphs between Coq objects.
 
 ### Projects / Verified Software
 
 *   [Prosa](https://gitlab.mpi-sws.org/RT-PROOFS/rt-proofs) - Definitions and proofs for real-time system schedulability analysis.
 
-## [48. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [47. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
@@ -567,49 +545,49 @@ Free (Open Source)
 
 ### Libraries/Frameworks / Configuration
 
-*   [uchuhimo/konf (⭐293)](https://github.com/uchuhimo/konf) - A type-safe cascading configuration library for Kotlin/Java, supporting most configuration formats
+*   [uchuhimo/konf (⭐300)](https://github.com/uchuhimo/konf) - A type-safe cascading configuration library for Kotlin/Java, supporting most configuration formats
 
-## [49. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [48. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
-### Terraform Enterprise / Vendor supported providers
+### Terraform Enterprise / IDE
 
 *   [tfe-state-explorer (⭐18)](https://github.com/segmentio/tfe-state-explorer) - Simple shell for exploring remote terraform enterprise state, with autocomplete. :skull:
 
-## [50. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [49. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Resources / Articles
 
 *   [Tuning MongoDB performance for production systems (Marek Trunkat, Apify)](https://blog.apify.com/tuning-mongodb-performance/) - The techniques and MongoDB Cloud features to debug performance issues and expose sub-optimal queries
 
-## [51. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [50. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Commercial Products
 
-*   [NocoDB (⭐36k)](https://github.com/nocodb/nocodb) - An opensource Airtable alternative.
+*   [NocoDB (⭐38k)](https://github.com/nocodb/nocodb) - An opensource Airtable alternative.
 
 ### Components & Libraries / UI Components
 
-*   [vue-color-input (⭐15)](https://github.com/gVguy/vue-color-input) – Vue 3 color picker component whose goal is to replace `<input type="color">`
+*   [vue-color-input (⭐19)](https://github.com/gVguy/vue-color-input) – Vue 3 color picker component whose goal is to replace `<input type="color">`
 
 ### Components & Libraries / UI Layout
 
-*   [iron-grid-system (⭐3)](https://github.com/ilker0/iron-grid-system) - A responsive grid system for Vue 3.x.
+*   [iron-grid-system (⭐4)](https://github.com/ilker0/iron-grid-system) - A responsive grid system for Vue 3.x.
 
 ### Components & Libraries / Frameworks
 
-*   [Vue-Admin-Template (⭐7)](https://github.com/Mani1124/vue-admin-template) - A beautiful free vuejs admin template, designed using vuetify and apexcharts. [Live Demo](https://mani1124.github.io)
+*   [Vue-Admin-Template (⭐8)](https://github.com/Mani1124/vue-admin-template) - A beautiful free vuejs admin template, designed using vuetify and apexcharts. [Live Demo](https://mani1124.github.io)
 
 ### Components & Libraries / Scaffold
 
-*   [vuejs-vuetify-structured-template boilerplate (⭐23)](https://github.com/huogerac/crud-vuetify-structured-template) - A vue-cli template for a full-featured Vuejs + Vuetify + Great structure + API Ready
+*   [vuejs-vuetify-structured-template boilerplate (⭐25)](https://github.com/huogerac/crud-vuetify-structured-template) - A vue-cli template for a full-featured Vuejs + Vuetify + Great structure + API Ready
 
-## [52. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [51. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Tools
 
-*   [One Second Diary (⭐172)](https://github.com/KyleKun/one_second_diary) - Minimalist Video Diary app by [KyleKun](https://github.com/KyleKun).
+*   [One Second Diary (⭐203)](https://github.com/KyleKun/one_second_diary) - Minimalist Video Diary app by [KyleKun](https://github.com/KyleKun).
 
-## [53. Awesome Low Code](/content/zenitysec/awesome-low-code/week/README.md)
+## [52. Awesome Low Code](/content/zenitysec/awesome-low-code/week/README.md)
 
 ### Platforms / Robotic Process Automation
 
@@ -619,24 +597,24 @@ Free (Open Source)
 
 ### Tools, Extensions and Frameworks / Power Platform (Microsoft)
 
-*   [XrmToolBox (⭐512)](https://github.com/MscrmTools/XrmToolBox) - An application that gather multiple tools to ease the customization and configuration of Microsoft Dynamics CRM/365/Dataverse/PowerApps.
-*   [Levelup for Dynamics CRM (⭐156)](https://github.com/rajyraman/Levelup-for-Dynamics-CRM) - Chrome, Edge Chromium and Firefox Extension for Dynamics CRM/365/Power Apps Power users.
-*   [Power Platform Adoption Framework (⭐114)](https://github.com/PowerPlatformAF/PowerPlatformAF) - The framework that enables people to create beautiful and useful things on Power Platform deployed in large, enterprise-grade organizations.
-*   [Flow & Power Apps Migrator (⭐98)](https://github.com/Zerg00s/FlowPowerAppsMigrator) - Converts SharePoint Data sources for the MS Flow and PowerApps to a new tenant of your choice.
-*   [SharePoint Workflow Converter (⭐15)](https://github.com/TracyGH/SharePointWorkflowConverter) - A proof-of-concept C# console application for retrieving legacy 2010 & 2013 custom SharePoint workflow definition files, and creating new Power Automate flows programmatically.
+*   [XrmToolBox (⭐533)](https://github.com/MscrmTools/XrmToolBox) - An application that gather multiple tools to ease the customization and configuration of Microsoft Dynamics CRM/365/Dataverse/PowerApps.
+*   [Levelup for Dynamics CRM (⭐163)](https://github.com/rajyraman/Levelup-for-Dynamics-CRM) - Chrome, Edge Chromium and Firefox Extension for Dynamics CRM/365/Power Apps Power users.
+*   [Power Platform Adoption Framework (⭐120)](https://github.com/PowerPlatformAF/PowerPlatformAF) - The framework that enables people to create beautiful and useful things on Power Platform deployed in large, enterprise-grade organizations.
+*   [Flow & Power Apps Migrator (⭐110)](https://github.com/Zerg00s/FlowPowerAppsMigrator) - Converts SharePoint Data sources for the MS Flow and PowerApps to a new tenant of your choice.
+*   [SharePoint Workflow Converter (⭐14)](https://github.com/TracyGH/SharePointWorkflowConverter) - A proof-of-concept C# console application for retrieving legacy 2010 & 2013 custom SharePoint workflow definition files, and creating new Power Automate flows programmatically.
 
 ### Reference Resources / Power Platform (Microsoft)
 
-*   [Power Platform Connectors (⭐654)](https://github.com/microsoft/PowerPlatformConnectors) - This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors.
+*   [Power Platform Connectors (⭐731)](https://github.com/microsoft/PowerPlatformConnectors) - This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors.
 
 ### Reference Resources / Workato
 
-*   [Custom Connector Docs (⭐39)](https://github.com/workato/custom_connector_docs) - Source files for Workato custom connector documentation.
+*   [Custom Connector Docs (⭐40)](https://github.com/workato/custom_connector_docs) - Source files for Workato custom connector documentation.
 
 ### Learning Resources / Power Platform (Microsoft)
 
-*   [Power Apps & Azure Lab (⭐37)](https://github.com/microsoft/PowerApps-Azure-Lab) - Repository to host the PowerApps Azure Lab.
-*   [PL-900: Power Platform Fundamentals (⭐206)](https://github.com/MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals) - Power Platform Fundamentals course materials.
+*   [Power Apps & Azure Lab (⭐38)](https://github.com/microsoft/PowerApps-Azure-Lab) - Repository to host the PowerApps Azure Lab.
+*   [PL-900: Power Platform Fundamentals (⭐220)](https://github.com/MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals) - Power Platform Fundamentals course materials.
 
 ### Learning Resources / Workato
 
@@ -644,14 +622,14 @@ Free (Open Source)
 
 ### Samples, Templates and Solutions / Power Platform (Microsoft)
 
-*   [Power Apps Samples (⭐251)](https://github.com/pnp/powerapps-samples) - Contains curated community Microsoft Power App samples.
-*   [PowerApps Samples (⭐55)](https://github.com/Eickhel/PowerApps-samples) - Power Apps samples by Power Nimbus.
-*   [Power Apps Branding Template (⭐44)](https://github.com/iAmManCat/PowerApps-Branding-Template) - A template to empower developers and reduce time wasted on control changes.
-*   [SharePoint Power Platform Solutions (⭐122)](https://github.com/pnp/sp-power-platform-solutions) - Sample PowerApps solutions designed to be used in SharePoint context.
-*   [Power Automate Samples (⭐147)](https://github.com/pnp/powerautomate-samples) - Contains curated community samples for Microsoft Power Automate.
+*   [Power Apps Samples (⭐302)](https://github.com/pnp/powerapps-samples) - Contains curated community Microsoft Power App samples.
+*   [PowerApps Samples (⭐59)](https://github.com/Eickhel/PowerApps-samples) - Power Apps samples by Power Nimbus.
+*   [Power Apps Branding Template (⭐52)](https://github.com/iAmManCat/PowerApps-Branding-Template) - A template to empower developers and reduce time wasted on control changes.
+*   [SharePoint Power Platform Solutions (⭐131)](https://github.com/pnp/sp-power-platform-solutions) - Sample PowerApps solutions designed to be used in SharePoint context.
+*   [Power Automate Samples (⭐180)](https://github.com/pnp/powerautomate-samples) - Contains curated community samples for Microsoft Power Automate.
 *   [Automatic travel time (⭐2)](https://github.com/wortell/PowerAutomate-AutomatischeReistijd) - Automatic travel time in your Office 365 calendar.
 *   [Message Center in Teams (⭐1)](https://github.com/ericsche/MCinTeams) - Message Center in Teams is a simple PowerAutomate Solution to gather Message Center Announcement and post them in a Teams Channel.
-*   [Consume Power BI (⭐12)](https://github.com/ferrybouwman/Power-BI-Read-Only-REST-API) - Solution based on either Powershell or Power Automate (Flow) to consume the recently released Power BI Asynchronous Unified Scanning API.
+*   [Consume Power BI (⭐16)](https://github.com/ferrybouwman/Power-BI-Read-Only-REST-API) - Solution based on either Powershell or Power Automate (Flow) to consume the recently released Power BI Asynchronous Unified Scanning API.
 *   [Post List Item To Twitter (⭐0)](https://github.com/vaibhav21791/PostListItemToTwitter) - A Microsoft Power Automate Flow to Post a SharePoint List Item to Twitter along with media content.
 
 ### Samples, Templates and Solutions / Workato
@@ -682,30 +660,30 @@ Free (Open Source)
 
 ### Other Lists / Power Platform (Microsoft)
 
-*   [Awesome Microsoft Power Platform (⭐57)](https://github.com/Power-Maverick/awesome-power-platform) - A collection of awesome things regarding the Power Platform ecosystem.
+*   [Awesome Microsoft Power Platform (⭐66)](https://github.com/Power-Maverick/awesome-power-platform) - A collection of awesome things regarding the Power Platform ecosystem.
 
-## [54. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [53. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
 *   [Simple icons](https://simpleicons.org/) - Over 1000 Free SVG icons for popular brands.
 *   [Mono Icons](https://icons.mono.company) - A simple, consistent open-source icon set designed to be used in a wide variety of digital products
 
-## [55. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
+## [54. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
 ### Governance
 
 *   [Beyond Debiasing](https://complexdiscovery.com/wp-content/uploads/2021/09/EDRi-Beyond-Debiasing-Report.pdf)
 
-## [56. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [55. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
-*   [vite-tauri-template (⭐249)](https://github.com/yooneskh/vite-tauri-template) - Tauri + Vite + Vue 3 + Vuetify 3 desktop app template.
-*   [vue-vite-h5 (⭐53)](https://github.com/LZHD/vue-vite-h5) - Use Vue3, TypeScript and Vant to develop mobile applications.
-*   [Vitesome (⭐179)](https://github.com/alvarosaburido/vitesome) - Vue3 + TypeScript + WindiCSS + Vue Router 4, i18n and Iconify.
+*   [vite-tauri-template (⭐278)](https://github.com/yooneskh/vite-tauri-template) - Tauri + Vite + Vue 3 + Vuetify 3 desktop app template.
+*   [vue-vite-h5 (⭐57)](https://github.com/LZHD/vue-vite-h5) - Use Vue3, TypeScript and Vant to develop mobile applications.
+*   [Vitesome (⭐257)](https://github.com/alvarosaburido/vitesome) - Vue3 + TypeScript + WindiCSS + Vue Router 4, i18n and Iconify.
 *   [vite-ts-vue3-todo (⭐46)](https://github.com/nabaonan/todos-action/tree/master/vue-vite-ts-setup) - Vue3 + TS + Vue-Router4 + Pinia2 template.
-*   [vitailse (⭐124)](https://github.com/zynth17/vitailse) - Like Vitesse but with Tailwind CSS.
+*   [vitailse (⭐134)](https://github.com/zynth17/vitailse) - Like Vitesse but with Tailwind CSS.
 
 ### Templates / Vue 2
 
@@ -713,79 +691,79 @@ Free (Open Source)
 
 ### Templates / React
 
-*   [Vitamin (⭐370)](https://github.com/wtchnm/Vitamin) - React TypeScript, TailwindCSS, SPA + PWA, Cypress and CI.
-*   [vitejs-template-react-rescript (⭐95)](https://github.com/jihchi/vitejs-template-react-rescript) - React + ReScript.
-*   [vite-reactts-tailwind-rtk-eslint (⭐40)](https://github.com/IsaiaPhiliph/vite-reactts-tailwind-rtk-eslint) - React, TypeScript, Tailwind CSS, Redux Toolkit, eslint.
-*   [vite-react-tailwind-template (⭐23)](https://github.com/Innei/vite-react-tailwind-template) - React 17, TypeScript, Jest, ESLint, Prettier, Husky, Tailwind CSS, PostCSS, pnpm.
-*   [vite-react-ts-tailwind-firebase-starter (⭐214)](https://github.com/TeXmeijin/vite-react-ts-tailwind-firebase-starter) - Starter using Vite + React + TypeScript + Tailwind CSS (daisyUI) + Firebase (v9) + Prettier + ESLint.
+*   [Vitamin (⭐427)](https://github.com/wtchnm/Vitamin) - React TypeScript, TailwindCSS, SPA + PWA, Cypress and CI.
+*   [vitejs-template-react-rescript (⭐116)](https://github.com/jihchi/vitejs-template-react-rescript) - React + ReScript.
+*   [vite-reactts-tailwind-rtk-eslint (⭐47)](https://github.com/IsaiaPhiliph/vite-reactts-tailwind-rtk-eslint) - React, TypeScript, Tailwind CSS, Redux Toolkit, eslint.
+*   [vite-react-tailwind-template (⭐35)](https://github.com/Innei/vite-react-tailwind-template) - React 17, TypeScript, Jest, ESLint, Prettier, Husky, Tailwind CSS, PostCSS, pnpm.
+*   [vite-react-ts-tailwind-firebase-starter (⭐242)](https://github.com/TeXmeijin/vite-react-ts-tailwind-firebase-starter) - Starter using Vite + React + TypeScript + Tailwind CSS (daisyUI) + Firebase (v9) + Prettier + ESLint.
 
 ### Templates / Svelte
 
-*   [sttv (⭐115)](https://github.com/srmullen/sttv) - Svelte, Tailwind CSS, TypeScript.
+*   [sttv (⭐121)](https://github.com/srmullen/sttv) - Svelte, Tailwind CSS, TypeScript.
 
 ### Templates / Elm
 
-*   [vite-elm-template (⭐94)](https://github.com/lindsaykwardell/vite-elm-template) - A default template for building Elm applications.
+*   [vite-elm-template (⭐106)](https://github.com/lindsaykwardell/vite-elm-template) - A default template for building Elm applications.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [unplugin-icons (⭐2.6k)](https://github.com/antfu/unplugin-icons) - Access thousands of icons as components.
+*   [unplugin-icons (⭐3k)](https://github.com/antfu/unplugin-icons) - Access thousands of icons as components.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [rollup-plugin-critical (⭐72)](https://github.com/nystudio107/rollup-plugin-critical) - Generate critical CSS.
+*   [rollup-plugin-critical (⭐76)](https://github.com/nystudio107/rollup-plugin-critical) - Generate critical CSS.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-html-template (⭐101)](https://github.com/IndexXuan/vite-plugin-html-template) - HTML template, like `html-webpack-plugin` for Webpack.
-*   [vite-plugin-virtual-html (⭐49)](https://github.com/Windson1806/vite-plugin-virtual-html) - Make Vite MPA consistent with `@vue/cli`.
-*   [vite-plugin-require-context (⭐154)](https://github.com/originjs/vite-plugins/tree/main/packages/vite-plugin-require-context) - Supports `require.context`.
-*   [vite-plugin-commonjs (⭐154)](https://github.com/originjs/vite-plugins/tree/main/packages/vite-plugin-commonjs) - Support CommonJS to ESM.
-*   [vite-plugin-global-style (⭐112)](https://github.com/originjs/origin.js/tree/main/packages/vite-plugin-global-style) - Deal with global styles for CSS, SASS, LESS and Stylus.
+*   [vite-plugin-html-template (⭐109)](https://github.com/IndexXuan/vite-plugin-html-template) - HTML template, like `html-webpack-plugin` for Webpack.
+*   [vite-plugin-virtual-html (⭐57)](https://github.com/Windson1806/vite-plugin-virtual-html) - Make Vite MPA consistent with `@vue/cli`.
+*   [vite-plugin-require-context (⭐161)](https://github.com/originjs/vite-plugins/tree/main/packages/vite-plugin-require-context) - Supports `require.context`.
+*   [vite-plugin-commonjs (⭐161)](https://github.com/originjs/vite-plugins/tree/main/packages/vite-plugin-commonjs) - Support CommonJS to ESM.
+*   [vite-plugin-global-style (⭐119)](https://github.com/originjs/origin.js/tree/main/packages/vite-plugin-global-style) - Deal with global styles for CSS, SASS, LESS and Stylus.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-mkcert (⭐309)](https://github.com/liuweiGL/vite-plugin-mkcert) - Provide certificates https dev server.
-*   [vitawind (⭐123)](https://github.com/huibizhang/vitawind) - Install and Setting Tailwind CSS automatically.
-*   [unplugin-auto-import (⭐2.2k)](https://github.com/antfu/unplugin-auto-import) - On-demand API auto-importing.
-*   [vite-plugin-inspect (⭐865)](https://github.com/antfu/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins.
+*   [vite-plugin-mkcert (⭐395)](https://github.com/liuweiGL/vite-plugin-mkcert) - Provide certificates https dev server.
+*   [vitawind (⭐138)](https://github.com/huibizhang/vitawind) - Install and Setting Tailwind CSS automatically.
+*   [unplugin-auto-import (⭐2.5k)](https://github.com/antfu/unplugin-auto-import) - On-demand API auto-importing.
+*   [vite-plugin-inspect (⭐971)](https://github.com/antfu/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins.
 
 ### Vue / Integrations
 
-*   ![v2](https://img.shields.io/badge/-v2-42b883) [unplugin-vue2-script-setup (⭐559)](https://github.com/antfu/unplugin-vue2-script-setup) - Enabling `<script setup>` syntax for Vue 2.
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [unplugin-vue2-script-setup (⭐576)](https://github.com/antfu/unplugin-vue2-script-setup) - Enabling `<script setup>` syntax for Vue 2.
 
 ### Vue / Helpers
 
-*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [unplugin-vue-components (⭐2.9k)](https://github.com/antfu/unplugin-vue-components) - On-demand components auto-importing.
-*   ![v2](https://img.shields.io/badge/-v2-42b883) [vite-plugin-vue2-suffix (⭐8)](https://github.com/williamyorkl/vite-plugin-vue2-suffix) - Compatible without '.vue' suffix.
+*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [unplugin-vue-components (⭐3.2k)](https://github.com/antfu/unplugin-vue-components) - On-demand components auto-importing.
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [vite-plugin-vue2-suffix (⭐9)](https://github.com/williamyorkl/vite-plugin-vue2-suffix) - Compatible without '.vue' suffix.
 
 ### Rollup Plugins / Covered by default in Vite
 
-*   [@rollup/plugin-typescript (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/typescript) - Integration between Rollup and TypeScript.
+*   [@rollup/plugin-typescript (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/typescript) - Integration between Rollup and TypeScript.
 
 ### Apps/Websites / Community
 
-*   [Context Note (⭐647)](https://github.com/betterRunner/context-note) - A note-taking chrome extension built by Vue3 & Vite.
+*   [Context Note (⭐670)](https://github.com/betterRunner/context-note) - A note-taking chrome extension built by Vue3 & Vite.
 
-## [57. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [56. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Analysis Tools / Ruby
 
-*   [GTFS-to-Chart (⭐19)](https://github.com/BlinkTagInc/gtfs-to-chart) - Creates stringline charts showing all vehicles on a transit route from GTFS data.
+*   [GTFS-to-Chart (⭐21)](https://github.com/BlinkTagInc/gtfs-to-chart) - Creates stringline charts showing all vehicles on a transit route from GTFS data.
 
-## [58. Awesome Devtools](/content/moimikey/awesome-devtools/week/README.md)
+## [57. Awesome Devtools](/content/moimikey/awesome-devtools/week/README.md)
 
-### Resources / Validation as a Service
+### Resources / Validation & Parsers
 
 *   [CSP Evaluator](https://csp-evaluator.withgoogle.com) - Evaluate CSP rules
 
-## [59. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [58. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Miscellaneous / Episodes
 
 *   [Uptane](https://uptane.github.io/overview.html) - Uptane is an open and secure software update system design protecting software delivered over-the-air to the computerized units of automobiles and is designed to be resilient even to the best efforts of nation state attackers.
 
-## [60. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [59. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Family
 
@@ -868,48 +846,43 @@ Free (Open Source)
 | ------: | -------: | -----: |
 |   2 - 5 |        8 | 40-80m |
 
-## [61. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [60. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Data Visualization and Mission Control / Command Line Interface
 
 *   [Foxglove Studio (⭐1.3k)](https://github.com/foxglove/studio) - Web and desktop app for robotics visualization and debugging; actively maintained fork of webviz.
 
-## [62. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [61. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Tools / Frameworks
 
+*   [Carrier](https://getcarrier.io/) - Continuous test execution platform with ability to perform load testing using customized JMeter and Gatling containers.
 *   [Karate Gatling](https://karatelabs.github.io/karate/karate-gatling/) - Re-use Karate API-tests as performance tests executed by Gatling.
 
-## [63. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [62. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
-### Automation / Frameworks
+### APIs, Data, and ML
 
-*   [Carrier](https://getcarrier.io/) - Continuous test execution platform with ability to perform load testing using customized JMeter and Gatling containers.
-
-## [64. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
-
-### APIs, Data and ML
-
-*   [Mocky](https://designer.mocky.io/) - A simple web app to generate custom HTTP responses for mocking HTTP request. Also available as [open source (⭐1.9k)](https://github.com/julien-lafont/Mocky).
-*   [CraftMyPDF](https://craftmypdf.com) - Auto-Generate PDF documents from reusable templates with a drop-and-drop editor and a simple API. Free plan comes with 100 PDFs/month and 3 templates.
+*   [Mocky](https://designer.mocky.io/) - A simple web app to generate custom HTTP responses for mocking HTTP requests. Also available as [open source (⭐2k)](https://github.com/julien-lafont/Mocky).
+*   [CraftMyPDF](https://craftmypdf.com) - Auto-Generate PDF documents from reusable templates with a drop-and-drop editor and a simple API. The free plan comes with 100 PDFs/month and three templates.
 
 ### Web Hosting
 
-*   [FreeFlarum](https://freeflarum.com/) - Community powered free Flarum hosting for up to 250 users (donate to remove watermark from footer).
+*   [FreeFlarum](https://freeflarum.com/) - Community-powered free Flarum hosting for up to 250 users (donate to remove the watermark from the footer).
 
 ### Miscellaneous
 
-*   [Carbon.now.sh](https://carbon.now.sh) - create and share code snippet in an aesthetic screenshot-like image format. Usually used to aesthetically share/show-off code snippet on Twitter or blog posts.
-*   [QuickType.io](https://quicktype.io/) - Quickly auto generate models/class/type/interface and serializers from JSON, schema, and GraphQL for working with data quickly & safely in any programming language. Convert JSON into gorgeous, typesafe code in any language.
+*   [Carbon.now.sh](https://carbon.now.sh) - create and share code snippets in an aesthetic screenshot-like image format. Usually used to aesthetically share/show off code snippets on Twitter or blog posts.
+*   [QuickType.io](https://quicktype.io/) - Quickly auto-generate models/class/type/interface and serializers from JSON, schema, and GraphQL for working with data quickly & safely in any programming language. Convert JSON into gorgeous, typesafe code in any language.
 *   [ray.so](https://ray.so/) - Create beautiful images of your code snippets.
 
-## [65. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [63. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Computer Vision
 
-*   [dockerface (⭐186)](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container. **\[Deprecated]**
+*   [dockerface (⭐187)](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container. **\[Deprecated]**
 
-## [66. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [64. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Starter Templates
 
@@ -919,41 +892,41 @@ Free (Open Source)
 
 *   [Some things to know about Lit](https://dev.to/open-wc/some-things-to-know-about-litelement-282c)
 
-## [67. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [65. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
-*   [FINAL CUT (⭐783)](https://github.com/gansm/finalcut) - Library for creating terminal applications with text-based widgets. \[LGPL]
+*   [FINAL CUT (⭐855)](https://github.com/gansm/finalcut) - Library for creating terminal applications with text-based widgets. \[LGPL]
 
 ### Scientific Computing
 
-*   [preCICE (⭐551)](https://github.com/precice/precice) - Coupling library for partitioned multi-physics simulations (FSI, CHT, and more). \[LGPL] [website](https://precice.org/)
+*   [preCICE (⭐600)](https://github.com/precice/precice) - Coupling library for partitioned multi-physics simulations (FSI, CHT, and more). \[LGPL] [website](https://precice.org/)
 
 ### Serialization
 
-*   [cista (⭐1.3k)](https://github.com/felixguendling/cista) - A C++17 library for zero-copy high-performance (de-)serialization. \[MIT]
+*   [cista (⭐1.5k)](https://github.com/felixguendling/cista) - A C++17 library for zero-copy high-performance (de-)serialization. \[MIT]
 
-## [68. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
+## [66. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
 ### File Formats and Parsers
 
 *   [squiggly (⭐2)](https://github.com/edadma/squiggly) - Cross-platform template language for Scala, inspired by Liquid and Hugo templates.
 
-## [69. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [67. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / IDS / IPS / Host IDS / Host IPS
 
-*   [CrowdSec (⭐6.6k)](https://github.com/crowdsecurity/crowdsec) - CrowdSec is a free, modern & collaborative behavior detection engine, coupled with a global IP reputation network. It stacks on Fail2Ban's philosophy but is IPV6 compatible and 60x faster (Go vs Python), uses Grok patterns to parse logs and YAML scenario to identify behaviors. CrowdSec is engineered for modern Cloud / Containers / VM based infrastructures (by decoupling detection and remediation). Once detected, you can remedy threats with various bouncers (firewall block, nginx http 403, Captchas, etc.) while the aggressive IPs can be sent to CrowdSec for curation before being shared among all users to further strengthen the community
+*   [CrowdSec (⭐7.1k)](https://github.com/crowdsecurity/crowdsec) - CrowdSec is a free, modern & collaborative behavior detection engine, coupled with a global IP reputation network. It stacks on Fail2Ban's philosophy but is IPV6 compatible and 60x faster (Go vs Python), uses Grok patterns to parse logs and YAML scenario to identify behaviors. CrowdSec is engineered for modern Cloud / Containers / VM based infrastructures (by decoupling detection and remediation). Once detected, you can remedy threats with various bouncers (firewall block, nginx http 403, Captchas, etc.) while the aggressive IPs can be sent to CrowdSec for curation before being shared among all users to further strengthen the community
 
 ### Web / Scanning / Pentesting
 
-*   [Keyscope (⭐370)](https://github.com/SpectralOps/keyscope) - Keyscope is an extensible key and secret validation for checking active secrets against multiple SaaS vendors built in Rust
+*   [Keyscope (⭐364)](https://github.com/SpectralOps/keyscope) - Keyscope is an extensible key and secret validation for checking active secrets against multiple SaaS vendors built in Rust
 
 ### EBooks / Online resources
 
 *   [The Security Engineer Handbook](https://securityhandbook.io/) - A short read that discusses the dos and dont's of working in a security team, and the many tricks and tips that can help you in your day-to-day as a security engineer.
 
-## [70. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [68. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Infrastructure as Code Analysis / Multi-Platform
 
@@ -963,29 +936,29 @@ Free (Open Source)
 
 *   [Sigstore](https://www.sigstore.dev/) - sigstore is a set of free to use and open source tools, including [fulcio (⭐385)](https://github.com/sigstore/fulcio), [cosign (⭐2.6k)](https://github.com/sigstore/cosign) and [rekor (⭐598)](https://github.com/sigstore/rekor), handling digital signing, verification and checks for provenance needed to make it safer to distribute and use open source software.
 
-## [71. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [69. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Library
 
-*   [YoMo (⭐1.4k)](https://github.com/yomorun/yomo) \[Go] - An open source Streaming Serverless Framework for building Low-latency Geo-distributed system. YoMo Built atop [QUIC Transport Protocol](https://en.wikipedia.org/wiki/QUIC) and Functional Reactive Programming interface.
+*   [YoMo (⭐1.5k)](https://github.com/yomorun/yomo) \[Go] - An open source Streaming Serverless Framework for building Low-latency Geo-distributed system. YoMo Built atop [QUIC Transport Protocol](https://en.wikipedia.org/wiki/QUIC) and Functional Reactive Programming interface.
 
 ### Table of Contents / Data Pipeline
 
-*   [fluvio (⭐1.8k)](https://github.com/infinyon/fluvio) \[Rust/WASM] - Real-time programmable data streaming platform with in-line computation capabilities.
+*   [fluvio (⭐1.9k)](https://github.com/infinyon/fluvio) \[Rust/WASM] - Real-time programmable data streaming platform with in-line computation capabilities.
 
-## [72. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [70. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
-*   [VIR (⭐140)](https://github.com/TommyX12/VIR) - Intelligent time manager with automatic planning.
+*   [VIR (⭐147)](https://github.com/TommyX12/VIR) - Intelligent time manager with automatic planning.
 
-## [73. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [71. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Mods / Performance
 
 *   [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) - A Fabric mod to allow Optifine to run using Fabric loader.
 
-## [74. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [72. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Anime
 
@@ -1186,7 +1159,7 @@ Free (Open Source)
   CORS: Unknown
 
 
-- API: [Ethplorer (⭐747)](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API)
+- API: [Ethplorer (⭐802)](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API)
 
   Description: Ethereum tokens, balances, addresses, history of transactions, contracts, and custom structures
 
@@ -1208,7 +1181,7 @@ Free (Open Source)
   CORS: Yes
 
 
-- API: [Indodax (⭐88)](https://github.com/btcid/indodax-official-api-docs)
+- API: [Indodax (⭐97)](https://github.com/btcid/indodax-official-api-docs)
 
   Description: Trade your Bitcoin and other assets with rupiah
 
@@ -1949,7 +1922,7 @@ Free (Open Source)
   CORS: Unknown
 
 
-- API: [Botd (⭐410)](https://github.com/fingerprintjs/botd)
+- API: [Botd (⭐735)](https://github.com/fingerprintjs/botd)
 
   Description: Botd is a browser library for JavaScript bot detection
 
@@ -1960,7 +1933,7 @@ Free (Open Source)
   CORS: Yes
 
 
-- API: [Dehash.lt (⭐10)](https://github.com/Dehash-lt/api)
+- API: [Dehash.lt](https://github.com/Dehash-lt/api)
 
   Description: Hash decryption MD5, SHA1, SHA3, SHA256, SHA384, SHA512
 
@@ -2238,17 +2211,105 @@ Free (Open Source)
 
 
 
-## [75. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [73. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Assembly Language / Blazor
+
+*   [WebAssembly friendly programming with C/C++ (⭐1.3k)](https://github.com/3dgen/cppwasm-book/tree/master/en) - Ending, Chai Shushan, Yushih (HTML, [:package: examples (⭐1.3k)](https://github.com/3dgen/cppwasm-book/tree/master/examples))
+
+### C++ / Non-X86
+
+*   [Working Draft, Standard for Programming Language C++, 2021 Revision](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/n4885.pdf) - Thomas Köppe (PDF) *(:construction: in process)*
+
+### CMake / Non-X86
+
+*   [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/) - Henry Schreiner (HTML)
+*   [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html) (HTML)
+*   [Quick CMake tutorial](https://www.jetbrains.com/help/clion/quick-cmake-tutorial.html) (HTML)
+
+### Graphs / GraphQL
+
+*   [Learning graphqL](https://riptutorial.com/Download/graphql.pdf) - Compiled from StackOverflow Documentation (PDF)
+
+### HTML and CSS / Spock Framework
+
+*   [HTML5 Canvas Notes for Professionals](https://goalkicker.com/HTML5CanvasBook/) - Compiled from StackOverflow documentation (PDF)
+*   [HTML5 Notes for Professionals](https://goalkicker.com/HTML5Book/) - Compiled from StackOverflow documentation (PDF)
+
+### Java / Bootstrap
+
+*   [Learning Java Language](https://riptutorial.com/Download/java-language.pdf) - Compiled from StackOverflow Documentation (PDF)
+
+### JavaScript / Wicket
+
+*   [Understanding the DOM — Document Object Model](https://www.digitalocean.com/community/books/understanding-the-dom-document-object-model-ebook) - Tania Rascia (PDF, EPUB)
+
+### JavaScript / Electron
+
+*   [Electron Succinctly, Syncfusion](https://www.syncfusion.com/succinctly-free-ebooks/electron-succinctly) (PDF, Kindle) (email address requested, not required)
+
+### JavaScript / Next.js
+
+*   [Mastering Next.js](https://masteringnextjs.com)
+
+### JavaScript / Node.js
+
+*   [From Containers to Kubernetes with Node.js](https://www.digitalocean.com/community/books/from-containers-to-kubernetes-with-node-js-ebook) - Kathleen Juell (PDF, EPUB)
+*   [How To Code in Node.js - eBook](https://www.digitalocean.com/community/books/how-to-code-in-node-js-ebook) - David Landup, Marcus Sanatan @ Stack Abuse, Digital Ocean (PDF, EPUB)
+*   [Mastering Node (⭐1.8k)](https://github.com/visionmedia/masteringnode) - visionmedia ([PDF (⭐1.8k)](https://github.com/visionmedia/masteringnode/blob/master/book.pdf))
+
+### JavaScript / React
+
+*   [How To Code in React.js](https://www.digitalocean.com/community/books/how-to-code-in-react-js-ebook) - Joe Morgan
+*   [React in patterns](https://krasimir.gitbooks.io/react-in-patterns/content) - Krasimir Tsonev
+
+### JavaScript / Svelte
+
+*   [Svelte Tutorial](https://svelte.dev/tutorial/basics) - Svelte.dev
+
+### Kotlin / Vue.js
+
+*   [Kotlin Quick Reference](https://kotlin-quick-reference.com) - Alvin Alexander (gitbook)
+
+### MongoDB / PicoLisp
+
+*   [Learning MongoDB](https://riptutorial.com/Download/mongodb.pdf) - Based on Unaffiliated  Stack Overflow Documentation (PDF)
+*   [MongoDB Koans (⭐178)](https://github.com/chicagoruby/MongoDB_Koans)
+*   [MongoDB Notes for Professionals](https://goalkicker.com/MongoDBBook/) - Compiled from StackOverflow Documentation (PDF)
+*   [MongoDB Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/mongodb) (PDF, Kindle) (email address *requested*, not required)
+*   [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/)
+
+### NoSQL / PicoLisp
+
+*   [How To Manage a Redis Database](https://www.digitalocean.com/community/books/how-to-manage-a-redis-database-ebook) - Mark Drake (PDF, EPUB)
+
+### OCaml / PicoLisp
+
+*   [OCaml From the Ground Up](https://ocamlbook.org) - Daniil Baturin (HTML) (:construction: *in process*)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Supporting Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)
+
+### Python / Django
+
+*   [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/3.2.x/django.pdf) (PDF) (3.2)
+
+### Ruby / Tornado
+
+*   [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) - Zed A. Shaw
+
+## [74. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
-*   [Agregore (⭐595)](https://github.com/AgregoreWeb/agregore-browser): A minimalistic web browser that supports multiple peer-to-peer protocols and is extensible with standard WebExtensions.
-*   [airpaste ☠️ (⭐814)](https://github.com/mafintosh/airpaste): A 1-1 network pipe that auto discovers other peers using mdns. Can send text or files.
+*   [Agregore (⭐622)](https://github.com/AgregoreWeb/agregore-browser): A minimalistic web browser that supports multiple peer-to-peer protocols and is extensible with standard WebExtensions.
+*   [airpaste ☠️ (⭐817)](https://github.com/mafintosh/airpaste): A 1-1 network pipe that auto discovers other peers using mdns. Can send text or files.
 *   [Friendica (⭐1.2k)](https://github.com/friendica/friendica): Decentralised communications platform that integrates social communication. Connect effortlessly to a federated communications network of several thousand servers, with more than half a million users. Directly connect to anyone on Friendica, Mastodon, Diaspora, GnuSocial, Pleroma, or Hubzilla, regardless of where each user profile is hosted.
-*   [LF (⭐877)](https://github.com/zerotier/lf): Fully decentralized fully replicated key/value store. Fully decentralized means anyone can run a node without obtaining special permission, and all nodes are effectively equal. Fully replicated means every node stores all data.
-*   [ShareDrop ☠️ (⭐6.4k)](https://github.com/cowbell/sharedrop): Clone of Apple AirDrop service. Allows transferring files directly between devices, without having to upload them to any server first.
+*   [LF (⭐883)](https://github.com/zerotier/lf): Fully decentralized fully replicated key/value store. Fully decentralized means anyone can run a node without obtaining special permission, and all nodes are effectively equal. Fully replicated means every node stores all data.
+*   [ShareDrop ☠️ (⭐6.6k)](https://github.com/cowbell/sharedrop): Clone of Apple AirDrop service. Allows transferring files directly between devices, without having to upload them to any server first.
 *   [TheDistributedBay ☠️ (⭐28)](https://github.com/TheDistributedBay/TheDistributedBay): P2P rewrite of the Open Bay/Pirate Bay. It uses a completely distributed protocol to share entries between numerous nodes. This makes it nearly impossible to take down by seizure of servers. Each node contains a complete copy, and any changes are propagated through the network.
-*   [webcat ☠️ (⭐433)](https://github.com/mafintosh/webcat): P2P pipe across the web using webrtc that uses Github private/public key for authentication and a signalhub for discovery. Can send text or files.
+*   [webcat ☠️ (⭐438)](https://github.com/mafintosh/webcat): P2P pipe across the web using webrtc that uses Github private/public key for authentication and a signalhub for discovery. Can send text or files.
 
 ---
 

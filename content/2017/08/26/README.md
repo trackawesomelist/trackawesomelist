@@ -21,7 +21,7 @@
 
 ### OS / XML
 
-*   [XOmB (⭐332)](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D
+*   [XOmB (⭐334)](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D
 
 ## [3. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 
@@ -49,22 +49,22 @@
 
 ### Theoretical Computer Science / Languages
 
-*   [Let's build a compiler in Swift (⭐160)](https://github.com/mkchoi212/LBAC-Swift) - Let's Build a Compiler by Jack Crenshaw translated to Swift Playgrounds. 🌟
+*   [Let's build a compiler in Swift (⭐161)](https://github.com/mkchoi212/LBAC-Swift) - Let's Build a Compiler by Jack Crenshaw translated to Swift Playgrounds. 🌟
 
 ### UIKit And Graphics / Metal
 
-*   [Metalbrot (⭐82)](https://github.com/jtbandes/metalbrot-playground) - Interactive playground that draws the Mandelbrot fractal with Metal. 🌟
+*   [Metalbrot (⭐84)](https://github.com/jtbandes/metalbrot-playground) - Interactive playground that draws the Mandelbrot fractal with Metal. 🌟
 
 ### Playground Sets / SpriteKit
 
 *   [Mgrebenets's Playgrounds (⭐9)](https://github.com/mgrebenets/playgrounds) - Various playgrounds.c 🌟
-*   [Cocoa With Love Playgrounds (⭐89)](https://github.com/mattgallagher/CocoaWithLovePlaygrounds) - Playground versions of select articles from Cocoa with Love.  🌟
+*   [Cocoa With Love Playgrounds (⭐88)](https://github.com/mattgallagher/CocoaWithLovePlaygrounds) - Playground versions of select articles from Cocoa with Love.  🌟
 
 ### Miscellaneous / SpriteKit
 
-*   [Pixel Art Maker (⭐94)](https://github.com/BenEmdon/PixelArtMaker) - A playground where you can make pixel art.
-*   [SwiftCoin (⭐32)](https://github.com/Thomvis/Swiftcoin) - A simplistic blockchain & cryptocurrency in a playground.
-*   [SentimentlySwift (⭐12)](https://github.com/benbahrenburg/SentimentlySwift) - Sentiment analysis in Swift.
+*   [Pixel Art Maker (⭐102)](https://github.com/BenEmdon/PixelArtMaker) - A playground where you can make pixel art.
+*   [SwiftCoin (⭐31)](https://github.com/Thomvis/Swiftcoin) - A simplistic blockchain & cryptocurrency in a playground.
+*   [SentimentlySwift (⭐13)](https://github.com/benbahrenburg/SentimentlySwift) - Sentiment analysis in Swift.
 
 ## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

@@ -11,13 +11,13 @@
 ### Python / Computer Vision
 
 *   [Detectron (⭐26k)](https://github.com/facebookresearch/Detectron) - FAIR's software system that implements state-of-the-art object detection algorithms, including Mask R-CNN. It is written in Python and powered by the Caffe2 deep learning framework. **\[Deprecated]**
-*   [Detecto (⭐589)](https://github.com/alankbi/detecto) - Train and run a computer vision model with 5-10 lines of code.
+*   [Detecto (⭐599)](https://github.com/alankbi/detecto) - Train and run a computer vision model with 5-10 lines of code.
 
 ## [2. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### ORM / Database / Datamapping
 
-*   [Muffin/Sti plugin (⭐5)](https://github.com/UseMuffin/Sti) - Single Table Inheritance for CakePHP.
+*   [Muffin/Sti plugin (⭐6)](https://github.com/UseMuffin/Sti) - Single Table Inheritance for CakePHP.
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -29,19 +29,19 @@
 
 ### GTFS Converters / Ruby
 
-*   [onebusaway-vdv-modules (⭐12)](https://github.com/OneBusAway/onebusaway-vdv-modules) - A Java library for working with transit data in the VDV format, including converting VDV-452 schedule data into GTFS.
+*   [onebusaway-vdv-modules (⭐13)](https://github.com/OneBusAway/onebusaway-vdv-modules) - A Java library for working with transit data in the VDV format, including converting VDV-452 schedule data into GTFS.
 
 ## [5. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### eBPF Workflow: Tools and Utilities / User Space eBPF
 
-*   [oster (⭐269)](https://github.com/grantseltzer/oster) - Written in Go. A tool for tracing execution of Go programs by attaching eBPF to uprobes.
+*   [oster (⭐282)](https://github.com/grantseltzer/oster) - Written in Go. A tool for tracing execution of Go programs by attaching eBPF to uprobes.
 
 ## [6. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / Scanning / Pentesting
 
-*   [Sublist3r (⭐8.3k)](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
+*   [Sublist3r (⭐8.7k)](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 
 ## [7. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Design and UI
 
-*   [Pixelixe](https://pixelixe.com/) — Create and edit engaging and unique graphics and images online.
+*   [Pixelixe](https://pixelixe.com/) — Create and edit engaging, unique graphics and images online.
 
 ## [10. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

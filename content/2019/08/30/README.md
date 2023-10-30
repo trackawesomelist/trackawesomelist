@@ -8,22 +8,22 @@
 
 ## [1. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
+### Model Explanation / Others
+
+*   [Auralisation (⭐40)](https://github.com/keunwoochoi/Auralisation) - Auralisation of learned features in CNN (for audio).
+*   [CapsNet-Visualization (⭐391)](https://github.com/bourdakos1/CapsNet-Visualization) - A visualization of the CapsNet layers to better understand how it works.
+*   [lucid (⭐4.6k)](https://github.com/tensorflow/lucid) - A collection of infrastructure and tools for research in neural network interpretability.
+*   [Netron (⭐24k)](https://github.com/lutzroeder/Netron) - Visualizer for deep learning and machine learning models (no Python code, but visualizes models from most Python Deep Learning frameworks).
+*   [FlashLight](https://github.com/dlguys/flashlight) - Visualization Tool for your NeuralNetwork.
+*   [tensorboard-pytorch (⭐7.7k)](https://github.com/lanpa/tensorboard-pytorch) - Tensorboard for PyTorch (and chainer, mxnet, numpy, ...).
+
 ### Data Manipulation / Data Frames
 
-*   [swifter (⭐2.3k)](https://github.com/jmcarpenter2/swifter) - A package that efficiently applies any function to a pandas dataframe or series in the fastest available manner.
+*   [swifter (⭐2.4k)](https://github.com/jmcarpenter2/swifter) - A package that efficiently applies any function to a pandas dataframe or series in the fastest available manner.
 
 ### Data Manipulation / Pipelines
 
-*   [meza (⭐406)](https://github.com/reubano/meza) - A Python toolkit for processing tabular data.
-
-### Model Explanation / NLP
-
-*   [Auralisation (⭐40)](https://github.com/keunwoochoi/Auralisation) - Auralisation of learned features in CNN (for audio).
-*   [CapsNet-Visualization (⭐389)](https://github.com/bourdakos1/CapsNet-Visualization) - A visualization of the CapsNet layers to better understand how it works.
-*   [lucid (⭐4.5k)](https://github.com/tensorflow/lucid) - A collection of infrastructure and tools for research in neural network interpretability.
-*   [Netron (⭐23k)](https://github.com/lutzroeder/Netron) - Visualizer for deep learning and machine learning models (no Python code, but visualizes models from most Python Deep Learning frameworks).
-*   [FlashLight](https://github.com/dlguys/flashlight) - Visualization Tool for your NeuralNetwork.
-*   [tensorboard-pytorch (⭐7.6k)](https://github.com/lanpa/tensorboard-pytorch) - Tensorboard for PyTorch (and chainer, mxnet, numpy, ...).
+*   [meza (⭐407)](https://github.com/reubano/meza) - A Python toolkit for processing tabular data.
 
 ## [2. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [OpenStreetMap](https://www.openstreetmap.org/) - Collaborative project to create a free editable map of the world. ([Source Code (⭐1.8k)](https://github.com/openstreetmap/openstreetmap-website), [Clients](https://wiki.openstreetmap.org/wiki/Software)) `GPL-2.0` `Ruby`
+*   [OpenStreetMap](https://www.openstreetmap.org/) - Collaborative project to create a free editable map of the world. ([Source Code (⭐1.9k)](https://github.com/openstreetmap/openstreetmap-website), [Clients](https://wiki.openstreetmap.org/wiki/Software)) `GPL-2.0` `Ruby`
 
 ### Software / Miscellaneous
 
@@ -49,19 +49,19 @@
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [IPTrace](https://iptrace.io) — An embarrassingly simple API that provides reliable and useful IP geolocation data for your business.
+*   [IPTrace](https://iptrace.io) — An embarrassingly simple API that provides your business with reliable and helpful IP geolocation data.
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [Vue Crypto Dashboard (⭐217)](https://github.com/JayeshLab/vue-crypto-dashboard) - Cryptocurrency Dashboard made with Vue.js
+*   [Vue Crypto Dashboard (⭐223)](https://github.com/JayeshLab/vue-crypto-dashboard) - Cryptocurrency Dashboard made with Vue.js
 
 ### Components & Libraries / UI Components
 
-*   [vue-sweetalert2 (⭐610)](https://github.com/avil13/vue-sweetalert2) - wrapper for sweatlaert2 with support for TypeScript, Nuxt and SSR
+*   [vue-sweetalert2 (⭐626)](https://github.com/avil13/vue-sweetalert2) - wrapper for sweatlaert2 with support for TypeScript, Nuxt and SSR
 *   [vue-modality (⭐5)](https://github.com/ovictorpereira/vue-modality) - A really nice Vue.js modal component
 
 ## [7. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)

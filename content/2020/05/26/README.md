@@ -1,6 +1,6 @@
 # Awesome List Updates on May 26, 2020
 
-11 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,13 +10,13 @@
 
 ### TextField & TextView / Collection View Layout
 
-*   [CHIOTPField (⭐247)](https://github.com/ChiliLabs/CHIOTPField) - A set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc.
+*   [CHIOTPField (⭐258)](https://github.com/ChiliLabs/CHIOTPField) - A set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc.
 
 ## [2. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Communications / MQTT
 
-*   [MQBoard (⭐104)](https://github.com/tve/mqboard) - A micro-framework for using MQTT with asyncio on MicroPython boards, primarily on the ESP32.
+*   [MQBoard (⭐107)](https://github.com/tve/mqboard) - A micro-framework for using MQTT with asyncio on MicroPython boards, primarily on the ESP32.
 *   [sonoff-mqtt by davea (⭐57)](https://github.com/davea/sonoff-mqtt) - MicroPython scripts to control Sonoff/ESP8266 using MQTT.
 *   [micropython-thingspeak-mqtt-esp8266 (⭐26)](https://github.com/miketeachman/micropython-thingspeak-mqtt-esp8266) - Publish and Subscribe to ThingSpeak using MQTT with MicroPython running on ESP8266/ESP32 platforms.
 
@@ -26,45 +26,33 @@
 
 *   [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 
-## [4. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
-
-### Tools
-
-*   [galacteek](https://galacteek.github.io) - A multi-platform Qt5-based browser for the distributed web [Source (⭐152)](https://github.com/pinnaculum/galacteek)
-
-## [5. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [4. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### specifically from (*a certain platform*) / Links on social streams
 
 *   [Filter RSS](https://filterrss.com/) <sup>[377](https://t.me/s/aboutrss/377)</sup> : Create an RSS feed from all the links shared on your social streams.
 *   [Siftlink](http://siftlinks.com/) <sup>[628](https://t.me/s/aboutrss/628)</sup> : monitors your friend stream on Twitter, pulls out the links and creates an RSS feed for you
 
-## [6. Awesome Qsharp](/content/ebraminio/awesome-qsharp/README.md)
+## [5. Awesome Qsharp](/content/ebraminio/awesome-qsharp/README.md)
 
 ### Q/A
 
 *   [Q# tag on Stack Overflow](https://stackoverflow.com/questions/tagged/q%23)
 *   [Q# tag on Quantum Computing StackExchange](https://quantumcomputing.stackexchange.com/questions/tagged/q%23)
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Note-taking & Editors
-
-*   [Wreeto](https://wreeto.com) - Wreeto is an open source note-taking, knowledge management and wiki system built on top of Ruby on Rails framework. ([Source Code (⭐381)](https://github.com/chrisvel/wreeto_official)) `AGPL-3.0` `Ruby`
-
-## [8. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [6. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Resources / Books
 
-*   [scriptum (⭐373)](https://github.com/kongware/scriptum/blob/master/README.md) - a no-frills functional programming library and a online course based on it
+*   [scriptum (⭐378)](https://github.com/kongware/scriptum/blob/master/README.md) - a no-frills functional programming library and a online course based on it
 
-## [9. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
+## [7. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Neural Natural Language Generation
 
-*   [This Word Does Not Exist (⭐971)](https://github.com/turtlesoupy/this-word-does-not-exist) - This is a project allows people to train a variant of GPT-2 that makes up words, definitions and examples from scratch.
+*   [This Word Does Not Exist (⭐1k)](https://github.com/turtlesoupy/this-word-does-not-exist) - This is a project allows people to train a variant of GPT-2 that makes up words, definitions and examples from scratch.
 
-## [10. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [8. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Accessibility
 
@@ -77,10 +65,10 @@
 
 ### Examples
 
-*   [generic-components (⭐494)](https://github.com/thepassle/generic-components) - Collection of generic web components with a focus on accessibility, and ease of use.
-*   [howto-components (⭐842)](https://github.com/GoogleChromeLabs/howto-components) - Collection of web components that implement common web UI patterns.
-*   [vanilla-retro-js (⭐10)](https://github.com/martine-dowden/vanilla-retro-js) - Vanilla JS UI component library of HTML deprecated tags.
-*   [web-components-examples (⭐2.5k)](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation.
+*   [generic-components (⭐526)](https://github.com/thepassle/generic-components) - Collection of generic web components with a focus on accessibility, and ease of use.
+*   [howto-components (⭐854)](https://github.com/GoogleChromeLabs/howto-components) - Collection of web components that implement common web UI patterns.
+*   [vanilla-retro-js (⭐12)](https://github.com/martine-dowden/vanilla-retro-js) - Vanilla JS UI component library of HTML deprecated tags.
+*   [web-components-examples (⭐2.8k)](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation.
 
 ### Architecture
 
@@ -94,7 +82,7 @@
 
 ### Starter Kits
 
-*   [nutmeg (⭐113)](https://github.com/abraham/nutmeg) - Build, test, and publish vanilla Web Components with a little spice.
+*   [nutmeg (⭐115)](https://github.com/abraham/nutmeg) - Build, test, and publish vanilla Web Components with a little spice.
 
 ### Talks
 
@@ -102,12 +90,12 @@
 *   [Styling and Theming Web Components](https://youtu.be/FM7ROEVPA4k) by [@justinfagnani](https://twitter.com/justinfagnani)
 *   [Web Components at Enterprise Scale](https://youtu.be/iFp-P2UJT_Y) by [@diervo](https://twitter.com/diervo)
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-text-middle-ellipsis (⭐9)](https://github.com/Tardigrada777/vue-text-middle-ellipsis) - A simple vue-directive(2+) that clamps the content in the middle of the element if the content inside is too long.
-*   [vue-toggles (⭐44)](https://github.com/juliandreas/vue-toggles) - A highly customizable and accessible toggle component
+*   [vue-toggles (⭐45)](https://github.com/juliandreas/vue-toggles) - A highly customizable and accessible toggle component
 
 ---
 

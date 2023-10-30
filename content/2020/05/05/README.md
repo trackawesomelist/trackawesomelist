@@ -116,25 +116,25 @@
 
 ### Date and Time Processing
 
-*   [holidays (⭐769)](https://github.com/holidays/holidays) - A collection of Ruby methods to deal with statutory and other holidays.
+*   [holidays (⭐778)](https://github.com/holidays/holidays) - A collection of Ruby methods to deal with statutory and other holidays.
 
 ## [10. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 
 ### Software Tools / Analysis Frameworks
 
-*   [HomePWN (⭐764)](https://github.com/ElevenPaths/HomePWN) - Swiss Army Knife for Pentesting of IoT Devices.
+*   [HomePWN (⭐787)](https://github.com/ElevenPaths/HomePWN) - Swiss Army Knife for Pentesting of IoT Devices.
 
 ### Software Tools / Misc Tools
 
-*   [Cotopaxi (⭐331)](https://github.com/Samsung/cotopaxi) - Set of tools for security testing of Internet of Things devices using specific network IoT protocols.
-*   [dumpflash (⭐261)](https://github.com/ohjeongwook/dumpflash) - Low-level NAND Flash dump and parsing utility.
-*   [flashrom (⭐679)](https://github.com/flashrom/flashrom) - Tool for detecting, reading, writing, verifying and erasing flash chips.
-*   [Samsung Firmware Magic (⭐178)](https://github.com/chrivers/samsung-firmware-magic) - Decrypt Samsung SSD firmware updates.
+*   [Cotopaxi (⭐334)](https://github.com/Samsung/cotopaxi) - Set of tools for security testing of Internet of Things devices using specific network IoT protocols.
+*   [dumpflash (⭐264)](https://github.com/ohjeongwook/dumpflash) - Low-level NAND Flash dump and parsing utility.
+*   [flashrom (⭐731)](https://github.com/flashrom/flashrom) - Tool for detecting, reading, writing, verifying and erasing flash chips.
+*   [Samsung Firmware Magic (⭐191)](https://github.com/chrivers/samsung-firmware-magic) - Decrypt Samsung SSD firmware updates.
 
 ### Hardware Tools / Misc Tools
 
 *   [HydraBus](https://hydrabus.com/hydrabus-1-0-specifications/) - Open source multi-tool hardware similar to the BusPirate but with NFC capabilities.
-*   [Glasgow (⭐1.6k)](https://github.com/GlasgowEmbedded/Glasgow) - Tool for exploring and debugging different digital interfaces.
+*   [Glasgow (⭐1.8k)](https://github.com/GlasgowEmbedded/Glasgow) - Tool for exploring and debugging different digital interfaces.
 
 ### Books / RFID NFC Tools
 

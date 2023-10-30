@@ -1,18 +1,24 @@
 # Awesome List Updates on Mar 31, 2022
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Flutter / Phoenix
+
+*   [Flutter in Action](https://livebook.manning.com/book/flutter-in-action/) - Eric Windmill (HTML) *(email address requested, not required)*
+
+## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Apps/Websites / Community
 
 *   [Preview.js](https://previewjs.com) - An IDE extension to instantly preview React, Vue 2 and Vue 3 components.
 
-## [2. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
+## [3. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
 ### :books: Literature / Documentation
 
@@ -41,7 +47,7 @@
 
 ### :bookmark_tabs: Datasets / Scientific Research
 
-*   [Dataset of Packed ELF (⭐5)](https://github.com/dhondta/dataset-packed-elf) - Dataset of packed ELF samples.
+*   [Dataset of Packed ELF (⭐10)](https://github.com/dhondta/dataset-packed-elf) - Dataset of packed ELF samples.
 *   [VX Underground](https://vx-underground.org/samples.html) - PL-CERT based open source MWDB python application holding a malware database containing every APT sample from 2010 and over 7.5M maliciousbinaries.
 
 ### :package: Packers / Between 2000 and 2010
@@ -80,125 +86,125 @@
 *   [Defacto2 Unpackers Archive](https://defacto2.net/f/a218ab4) - Collection of 152 binary files unpackers for MS-DOS and Windows 32 from the 1990s and 2000s.
 *   [ExeScan](https://defacto2.net/f/ae2c42e) - Executable file analyzer which detects the most famous  EXE/COM Protectors, Packers, Converters and compilers.
 *   [GetTyp](https://www.helger.com/gt/gt.htm) - File format detection program for DOS based on special strings and byte code.
-*   [LIEF (⭐3.7k)](https://github.com/lief-project/LIEF) - Library to Instrument Executable Formats ; Python package for parsing PE, ELF, Mach-O and DEX formats, modifying and rebuilding executables.
+*   [LIEF (⭐3.8k)](https://github.com/lief-project/LIEF) - Library to Instrument Executable Formats ; Python package for parsing PE, ELF, Mach-O and DEX formats, modifying and rebuilding executables.
 *   [PCjs](https://www.pcjs.org) - PCjs uses JavaScript to recreate the IBM PC experience, using original ROMs, CPUs running at their original speeds, and early IBM video cards and monitors.
-*   [PETools (⭐807)](https://github.com/petoolse/petools) - Old-school reverse engineering tool (with a long history since 2002) for manipulating PE files.
+*   [PETools (⭐874)](https://github.com/petoolse/petools) - Old-school reverse engineering tool (with a long history since 2002) for manipulating PE files.
 *   [RDG Packer Detector](http://www.rdgsoft.net) - Packer detection tool.
-*   [Reko (⭐1.7k)](https://github.com/uxmal/reko) - Free decompiler for machine code binaries.
-*   [RetDec (⭐7.2k)](https://github.com/avast/retdec) - Retargetable machine-code decompiler based on LLVM.
+*   [Reko (⭐1.8k)](https://github.com/uxmal/reko) - Free decompiler for machine code binaries.
+*   [RetDec (⭐7.4k)](https://github.com/avast/retdec) - Retargetable machine-code decompiler based on LLVM.
 *   [SAFE](https://github.com/packing-box/awesome-executable-packing/blob/main/README.md/mailto:mihai@cs.wisc.edu) - Static Analyzer For Executables (available on demand).
 *   [Tuts 4 You](https://tuts4you.com) - Non-commercial, independent community dedicated to the sharing of knowledge and information on reverse code engineering.
 *   [UnpacMe](https://www.unpac.me) - Automated malware unpacking service.
 
-## [3. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [4. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Other Development Tools / Testing
 
-*   [graviton (⭐19)](https://github.com/algorand/graviton) - Algorand's TEAL blackbox testing toolkit.
-*   [tealer (⭐53)](https://github.com/crytic/tealer) - Static TEAL analyser with a set of vulnerability detectors for quick contracts reviews.
+*   [graviton (⭐18)](https://github.com/algorand/graviton) - Algorand's TEAL blackbox testing toolkit.
+*   [tealer (⭐56)](https://github.com/crytic/tealer) - Static TEAL analyser with a set of vulnerability detectors for quick contracts reviews.
 
-## [4. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [5. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Infrastructure as Code
 
 *   [Pulumi](https://www.pulumi.com/) -  Developer-first IaC with Python, TypeScript, Go and more languages...
-*   [Terraform](https://www.hashicorp.com/products/terraform) - DSL, open-source and free (paid solution adds team management, policy-as-code...).
+*   [Terraform](https://www.hashicorp.com/products/terraform) - DSL, open-source and free (paid solution adds team management, policy-as-code...). ![Terraform](https://img.shields.io/github/contributors-anon/hashicorp/terraform?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
-## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Web/ReactJS / Playground
 
-*   :octocat: [Materio Free MUI React NextJS Typescript Admin Template (⭐810)](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) - Most Powerful & Comprehensive Free MUI React NextJS Admin Dashboard Template built for developers. Made With Typecript & JavaScript.
+*   :octocat: [Materio Free MUI React NextJS Typescript Admin Template (⭐1k)](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) - Most Powerful & Comprehensive Free MUI React NextJS Admin Dashboard Template built for developers. Made With Typecript & JavaScript.
 
-## [6. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [7. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### API / Samples
 
-*   [Datasette (⭐7.3k)](https://github.com/simonw/datasette) - A tool for exploring and publishing data.
+*   [Datasette (⭐8.3k)](https://github.com/simonw/datasette) - A tool for exploring and publishing data.
 
 ### Application platforms / Samples
 
-*   [Budibase (⭐18k)](https://github.com/Budibase/budibase) - Low-code platform for creating internal apps in minutes.
-*   [Saltcorn (⭐1.1k)](https://github.com/saltcorn/saltcorn) - Open source no-code builder for web datatabase applications. Server and drag-and-drop UI builder, data stored in PostgreSQL or SQLite.
+*   [Budibase (⭐19k)](https://github.com/Budibase/budibase) - Low-code platform for creating internal apps in minutes.
+*   [Saltcorn (⭐1.3k)](https://github.com/saltcorn/saltcorn) - Open source no-code builder for web datatabase applications. Server and drag-and-drop UI builder, data stored in PostgreSQL or SQLite.
 
 ### Backup / Samples
 
-*   [pgcopydb (⭐647)](https://github.com/dimitri/pgcopydb) - Copy a Postgres database to a target Postgres server (pg\_dump | pg\_restore on steroids).
+*   [pgcopydb (⭐797)](https://github.com/dimitri/pgcopydb) - Copy a Postgres database to a target Postgres server (pg\_dump | pg\_restore on steroids).
 
 ### Cloning / Samples
 
 *   [Database Lab Engine](https://gitlab.com/postgres-ai/database-lab) - Instant thin cloning for Postgres to scale the development process.
-*   [clone\_schema (⭐119)](https://github.com/denishpatel/pg-clone-schema) - Postgres clone schema utility without need of going outside of database.
+*   [clone\_schema (⭐140)](https://github.com/denishpatel/pg-clone-schema) - Postgres clone schema utility without need of going outside of database.
 *   [Spawn](https://spawn.cc/) - Cloud service for creating instant database copies for development and CI. No more local db installs, instant recovery to arbitrary save points, isolated copies for each feature branch or test. Instant provisioning regardless of database size.
 
 ### SQL / Über SQL
 
-*   [CloudQuery (⭐4.3k)](https://github.com/cloudquery/cloudquery) - Extracts, transforms, and loads your cloud assets into normalized PostgreSQL tables.
+*   [CloudQuery (⭐5.2k)](https://github.com/cloudquery/cloudquery) - Extracts, transforms, and loads your cloud assets into normalized PostgreSQL tables.
 *   [Resmo](https://www.resmo.com) - Audit and evaluate resources using SQL.
-*   [Steampipe (⭐5k)](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more).
+*   [Steampipe (⭐5.6k)](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more).
 
-## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Menu Bar Tools
 
 *   [Fishing Funds](https://ff.1zilc.top) - Display real-time trends of Chinese funds in the menubar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/1zilc/fishing-funds) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [8. Awesome Go](/content/avelino/awesome-go/README.md)
+## [9. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Security
 
-*   [Coraza (⭐1.1k)](https://github.com/corazawaf/coraza) - Enterprise-ready, modsecurity and OWASP CRS compatible WAF library.
+*   [Coraza (⭐1.4k)](https://github.com/corazawaf/coraza) - Enterprise-ready, modsecurity and OWASP CRS compatible WAF library.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [ko (⭐6k)](https://github.com/google/ko) - Command line tool for building and deploying Go applications on Kubernetes
+*   [ko (⭐6.4k)](https://github.com/google/ko) - Command line tool for building and deploying Go applications on Kubernetes
 
-## [9. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+## [10. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
 ### Authorization / Open-source policy frameworks
 
-*   [Open Policy Administration Layer (⭐1.3k)](https://github.com/permitio/opal) - Open Source administration layer for OPA, detecting changes to both policy and policy data in realtime and pushing live updates to OPA agents. OPAL brings open-policy up to the speed needed by live applications.
+*   [Open Policy Administration Layer (⭐1.9k)](https://github.com/permitio/opal) - Open Source administration layer for OPA, detecting changes to both policy and policy data in realtime and pushing live updates to OPA agents. OPAL brings open-policy up to the speed needed by live applications.
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Translation Management
 
-*   [Tolgee](https://tolgee.io) - Free SaaS offering with limited translations, forever-free self hosted version
+*   [Tolgee](https://tolgee.io) - Free SaaS offering with limited translations, forever-free self-hosted version
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-img-lazy-tiny (⭐5)](https://github.com/peterroe/vue-img-lazy-tiny) - A vue3 directive that provide a shield while loading.
 
-## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [13. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Frontend framework
 
-*   [ultra (⭐2.9k)](https://github.com/exhibitionist-digital/ultra) - 💎 Modern Streaming React Framework in Deno.
+*   [ultra (⭐3k)](https://github.com/exhibitionist-digital/ultra) - 💎 Modern Streaming React Framework in Deno.
 
 ### Modules / Utils
 
-*   [tryify (⭐4)](https://github.com/twilsoft/tryify) - Functional style error handling; never throw/try/catch/finally again.
-*   [wasm-gzip (⭐17)](https://github.com/manyuanrong/wasm_gzip) - Perform gzip operations for Deno.
+*   [tryify (⭐6)](https://github.com/twilsoft/tryify) - Functional style error handling; never throw/try/catch/finally again.
+*   [wasm-gzip (⭐19)](https://github.com/manyuanrong/wasm_gzip) - Perform gzip operations for Deno.
 
 ### Modules / Validation
 
-*   [zod (⭐22k)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
+*   [zod (⭐25k)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
 
 ### Modules / Video
 
-*   [Fast Forward (⭐39)](https://github.com/c4spar/deno-fast-forward) - An easy to use ffmpeg module for Deno. 🦕
+*   [Fast Forward (⭐45)](https://github.com/c4spar/deno-fast-forward) - An easy to use ffmpeg module for Deno. 🦕
 
 ### Tools / XML
 
-*   [dnt (⭐674)](https://github.com/denoland/dnt) - Deno to npm package build tool.
+*   [dnt (⭐1k)](https://github.com/denoland/dnt) - Deno to npm package build tool.
 
 ### Resources in Other Languages / Chinese
 
 *   [Node之父 - Deno，一个新的JS运行时](https://www.bilibili.com/video/av52038617)
 
-## [13. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
+## [14. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
 
 ### Browser-Based / Puzzle
 

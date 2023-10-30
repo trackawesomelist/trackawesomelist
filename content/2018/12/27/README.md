@@ -10,8 +10,8 @@
 
 ### Payment Service Provider
 
-*   [PAYONE (⭐28)](https://github.com/PAYONE-GmbH/magento-2) - PAYONE Payment Integration.
-*   [Stripe (⭐48)](https://github.com/pmclain/module-stripe) - Stripe Payments for Magento 2.
+*   [PAYONE (⭐29)](https://github.com/PAYONE-GmbH/magento-2) - PAYONE Payment Integration.
+*   [Stripe (⭐47)](https://github.com/pmclain/module-stripe) - Stripe Payments for Magento 2.
 
 ## [2. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
@@ -32,25 +32,25 @@
 
 ### Moscow
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/nikitonsky" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/nikitonsky" height="70px" width="70px" align="left" alt="" />
 
 **Nikita Prokopov**\
 Topics: Clojure, DataScript, Rum, FiraCode, AnyBar\
 <https://twitter.com/nikitonsky>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/elixir_lang_mos" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/elixir_lang_mos" height="70px" width="70px" align="left" alt="" />
 
 **Nikita Sobolev**\
 Topics: Elixir, Python, JavaScript, Management, RSDP\
 <https://twitter.com/elixir_lang_mos>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ai_boy" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/ai_boy" height="70px" width="70px" align="left" alt="" />
 
 **Oleksii Okhrymenko**\
 Topics: Angular, JavaScript, RxJS, i18n, HTML, CSS\
 <https://twitter.com/ai_boy>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/chicoxyzzy" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/chicoxyzzy" height="70px" width="70px" align="left" alt="" />
 
 **Sergey Rubanov**\
 Topics: Standards, Web Assembly\
@@ -60,7 +60,7 @@ Topics: Standards, Web Assembly\
 
 ### Bug Reporting
 
-*   [Khronos Github Issue Page (⭐2.3k)](https://github.com/KhronosGroup/WebGL/issues) - Spec or Conformance related bugs
+*   [Khronos Github Issue Page (⭐2.5k)](https://github.com/KhronosGroup/WebGL/issues) - Spec or Conformance related bugs
 
 ### Tools/Debugging
 

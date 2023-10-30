@@ -16,7 +16,7 @@
 
 ### Third Party APIs
 
-*   [sendgrid (⭐85)](https://github.com/alexgaribay/sendgrid_elixir) - Send composable, transactional emails with SendGrid.
+*   [sendgrid (⭐87)](https://github.com/alexgaribay/sendgrid_elixir) - Send composable, transactional emails with SendGrid.
 
 ## [3. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Command-Line Productivity
 
-*   [sheet (⭐247)](https://github.com/oscardelben/sheet) -  Text snippets for the command line
+*   [sheet (⭐251)](https://github.com/oscardelben/sheet) -  Text snippets for the command line
 
 ## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Key-value Data Model
 
-*   [GridDB (⭐1.9k)](https://github.com/griddb/griddb_nosql) - suitable for sensor data stored in a timeseries.
+*   [GridDB (⭐2.1k)](https://github.com/griddb/griddb_nosql) - suitable for sensor data stored in a timeseries.
 
 ## [9. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 
@@ -67,13 +67,13 @@
 
 ### Modules / CLI
 
-*   [username (⭐140)](https://github.com/sindresorhus/username) - Get the username of the current user.
+*   [username (⭐142)](https://github.com/sindresorhus/username) - Get the username of the current user.
 
 ## [11. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Libraries / JavaScript
 
-*   [Camo (⭐552)](https://github.com/scottwrobinson/camo) - Class-based ES6 ODM for Mongo-like databases
+*   [Camo (⭐554)](https://github.com/scottwrobinson/camo) - Class-based ES6 ODM for Mongo-like databases
 
 ### Libraries / Scala
 

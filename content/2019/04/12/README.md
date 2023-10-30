@@ -454,24 +454,24 @@
 
 ### Basic / Bare metal / kernel development
 
-*   [hunt (⭐88)](https://github.com/huntlabs/hunt) - A refined core library for D programming language. The module has concurrency / collection / event / io / logging / text / serialize and more.
+*   [hunt (⭐90)](https://github.com/huntlabs/hunt) - A refined core library for D programming language. The module has concurrency / collection / event / io / logging / text / serialize and more.
 *   [hunt-time (⭐2)](https://github.com/huntlabs/hunt-time) - A time library and similar to Joda-time and Java.time api.
 *   [hunt-validation (⭐3)](https://github.com/huntlabs/hunt-validation) - A data validation library for DLang based on hunt library.
 
 ### Web Frameworks / Bare metal / kernel development
 
 *   [hunt-net (⭐19)](https://github.com/huntlabs/hunt-net) - High-performance network library for D programming language, event-driven asynchonous implemention(IOCP / kqueue / epoll).
-*   [hunt-http (⭐30)](https://github.com/huntlabs/hunt-http) - HTTP/1 and HTTP/2 protocol library for D.
+*   [hunt-http (⭐31)](https://github.com/huntlabs/hunt-http) - HTTP/1 and HTTP/2 protocol library for D.
 *   [hunt-stomp (⭐0)](https://github.com/huntlabs/hunt-stomp) - STOMP for websocket protocol library implement in D.
-*   [Hunt Framework (⭐288)](https://github.com/huntlabs/hunt-framework/) - Hunt is a high-level D Programming Language Web framework that encourages rapid development and clean, pragmatic design. It lets you build high-performance Web applications quickly and easily.
+*   [Hunt Framework (⭐294)](https://github.com/huntlabs/hunt-framework/) - Hunt is a high-level D Programming Language Web framework that encourages rapid development and clean, pragmatic design. It lets you build high-performance Web applications quickly and easily.
 *   [grpc (⭐45)](https://github.com/huntlabs/grpc-dlang) - Grpc for D programming language, hunt-http library based.
-*   [kissrpc (⭐39)](https://github.com/huntlabs/kissrpc) - Fast and light, flatbuffers based rpc framework.
+*   [kissrpc (⭐40)](https://github.com/huntlabs/kissrpc) - Fast and light, flatbuffers based rpc framework.
 *   [hunt-gossip (⭐0)](https://github.com/huntlabs/hunt-gossip) - A Apache V2 gossip protocol implementation for D programming language.
 *   [hunt-cache (⭐6)](https://github.com/huntlabs/hunt-cache) - D language universal cache library, using radix, redis and memcached.
 
 ### Database clients / XML
 
-*   [hunt-entity (⭐54)](https://github.com/huntlabs/hunt-entity) - Hunt entity is an object-relational mapping tool for the D programming language. Referring to the design idea of JPA, support PostgreSQL / MySQL / SQLite.
+*   [hunt-entity (⭐55)](https://github.com/huntlabs/hunt-entity) - Hunt entity is an object-relational mapping tool for the D programming language. Referring to the design idea of JPA, support PostgreSQL / MySQL / SQLite.
 *   [hunt-database (⭐45)](https://github.com/huntlabs/hunt-database) - Hunt database abstraction layer for D programing language, support PostgreSQL / MySQL / SQLite.
 
 ### Command Line / XML
@@ -522,7 +522,7 @@
 
 ### Tools
 
-*   [MageSpecialist DevTools for Magento 2 (⭐206)](https://github.com/magespecialist/m2-MSP_DevTools) Developer Toolbar
+*   [MageSpecialist DevTools for Magento 2 (⭐213)](https://github.com/magespecialist/m2-MSP_DevTools) Developer Toolbar
 
 ## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

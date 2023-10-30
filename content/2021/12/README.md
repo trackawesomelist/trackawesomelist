@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 22 - Mar 28, 2021
 
-59 awesome lists updated this week.
+58 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Languages
 
-*   [FreakC (⭐126)](https://github.com/FreakC-Foundation/FreakC) - Full-blown programming language with NSFW contents and memes.
+*   [FreakC (⭐129)](https://github.com/FreakC-Foundation/FreakC) - Full-blown programming language with NSFW contents and memes.
 *   [JellyScript](https://github.com/nguyenphuminh/Jellyscript) - Brainfuck-based with delicious jelly.
 
 ## [3. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
@@ -51,27 +51,27 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [MediaCMS](https://mediacms.io) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django/React, featuring a REST API. ([Source Code (⭐1.7k)](https://github.com/mediacms-io/mediacms)) `AGPL-3.0` `Python/Docker`
+*   [MediaCMS](https://mediacms.io) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django/React, featuring a REST API. ([Source Code (⭐2k)](https://github.com/mediacms-io/mediacms)) `AGPL-3.0` `Python/Docker`
 
 ## [7. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Svelte
 
-*   [svelte-vite-ssr (⭐49)](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
+*   [svelte-vite-ssr (⭐53)](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-radar (⭐74)](https://github.com/stafyniaksacha/vite-plugin-radar) - All in one analytics loader (with 7+ providers supported).
+*   [vite-plugin-radar (⭐90)](https://github.com/stafyniaksacha/vite-plugin-radar) - All in one analytics loader (with 7+ providers supported).
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-imp (⭐206)](https://github.com/onebay/vite-plugin-imp) - Import library component styles on demand, make your app slimmer.
+*   [vite-plugin-imp (⭐219)](https://github.com/onebay/vite-plugin-imp) - Import library component styles on demand, make your app slimmer.
 
 ## [8. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Cloud platform security / Kubernetes
 
-*   [kube-forensics (⭐183)](https://github.com/keikoproj/kube-forensics) - Allows a cluster administrator to dump the current state of a running pod and all its containers so that security professionals can perform off-line forensic analysis.
+*   [kube-forensics (⭐199)](https://github.com/keikoproj/kube-forensics) - Allows a cluster administrator to dump the current state of a running pod and all its containers so that security professionals can perform off-line forensic analysis.
 
 ### Communications security (COMSEC) / Service meshes
 
@@ -86,7 +86,7 @@
 
 ### Network Tools / Intentionally Vulnerable Systems as Docker Containers
 
-*   [SigPloit](https://github.com/SigPloiter/SigPloit) - Signaling security testing framework dedicated to telecom security for researching vulnerabilites in the signaling protocols used in mobile (cellular phone) operators.
+*   [SigPloit (⭐9)](https://github.com/SigPloiter/SigPloit) - Signaling security testing framework dedicated to telecom security for researching vulnerabilites in the signaling protocols used in mobile (cellular phone) operators.
 
 ## [10. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -104,7 +104,7 @@
 
 ### Authentication and Authorization
 
-*   [ADmad/JwtAuth plugin](https://github.com/ADmad/cakephp-jwt-auth) - A plugin for authenticating using JSON Web Tokens.
+*   [ADmad/JwtAuth plugin (⭐165)](https://github.com/ADmad/cakephp-jwt-auth) - A plugin for authenticating using JSON Web Tokens.
 
 ### ORM / Database / Datamapping
 
@@ -112,21 +112,21 @@
 
 ### Search
 
-*   [Cake/ElasticSearch plugin (⭐85)](https://github.com/cakephp/elastic-search) - Alternative ORM using [Elasticsearch](https://www.elastic.co/) as its backend.
+*   🍰 [Cake/ElasticSearch plugin (⭐86)](https://github.com/cakephp/elastic-search) - Alternative ORM using [Elasticsearch](https://www.elastic.co/) as its backend.
 
 ### Security
 
-*   [Recaptcha plugin](https://github.com/ctlabvn/Recaptcha) - Simple, lightweight Google Recaptcha v2.
+*   🍰 [Recaptcha plugin (⭐20)](https://github.com/ctlabvn/Recaptcha) - Simple, lightweight Google Recaptcha v2.
 
 ### Templating
 
-*   [TwigView plugin (⭐11)](https://github.com/cakephp/twig-view) - A plugin to use the Twig Templating Language for views.
+*   🍰 [TwigView plugin (⭐12)](https://github.com/cakephp/twig-view) - A plugin to use the Twig Templating Language for views.
 
 ## [13. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Standalone apps / Playground
 
-*   :octocat: [App Outlet (⭐360)](https://github.com/app-outlet/app-outlet) - An universal linux app store for AppImages/Flatpaks/Snaps written in TypeScript + Angular
+*   :octocat: [App Outlet (⭐380)](https://github.com/app-outlet/app-outlet) - An universal linux app store for AppImages/Flatpaks/Snaps written in TypeScript + Angular
 
 ## [14. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -138,7 +138,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [AckslD/nvim-revJ.lua (⭐106)](https://github.com/AckslD/nvim-revJ.lua) - Neovim Lua plugin for doing the opposite of join-line (J) for arguments.
+*   [AckslD/nvim-revJ.lua (⭐107)](https://github.com/AckslD/nvim-revJ.lua) - Neovim Lua plugin for doing the opposite of join-line (J) for arguments.
 
 ## [16. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -150,15 +150,15 @@
 
 ### Internationalization
 
-*   [SimpleLocalize ★19 (⭐38)](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in Xmarin projects.
+*   [SimpleLocalize ★19 (⭐40)](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in Xmarin projects.
 
 ### Network
 
-*   [Apizr ★4 (⭐104)](https://github.com/Respawnsive/Apizr) - Refit based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
+*   [Apizr ★4 (⭐109)](https://github.com/Respawnsive/Apizr) - Refit based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
 
 ### UI
 
-*   [IridescentView (⭐17)](https://github.com/alexandrehtrb/IridescentView) - A custom Xamarin.Android ImageView with iridescence effect.
+*   [IridescentView (⭐19)](https://github.com/alexandrehtrb/IridescentView) - A custom Xamarin.Android ImageView with iridescence effect.
 
 ### Websites
 
@@ -203,10 +203,10 @@
 ### Tools / Community Chat Rooms
 
 *   [Knurling Tools](https://knurling.ferrous-systems.com/tools/) are developed by \[Ferrous Systems] to ease the development process for building, debugging, and testing embedded Rust systems. These tools include:
-    *   [Probe Run (⭐564)](https://github.com/knurling-rs/probe-run): a cargo runner to flash and run embedded applications just like you would native applications, including backtraces and panicking behavior
-    *   [defmt (⭐535)](https://github.com/knurling-rs/defmt): a highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
-    *   [flip-link (⭐168)](https://github.com/knurling-rs/flip-link), a linker wrapper that provides stack overflow protection without an MMU by flipping the standard memory layout of ARM Cortex-M programs
-    *   [app-template (⭐237)](https://github.com/knurling-rs/app-template), a `cargo-generate` powered project template for quickly setting up new projects using the Knurling Tools.
+    *   [Probe Run (⭐630)](https://github.com/knurling-rs/probe-run): a cargo runner to flash and run embedded applications just like you would native applications, including backtraces and panicking behavior
+    *   [defmt (⭐603)](https://github.com/knurling-rs/defmt): a highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
+    *   [flip-link (⭐191)](https://github.com/knurling-rs/flip-link), a linker wrapper that provides stack overflow protection without an MMU by flipping the standard memory layout of ARM Cortex-M programs
+    *   [app-template (⭐257)](https://github.com/knurling-rs/app-template), a `cargo-generate` powered project template for quickly setting up new projects using the Knurling Tools.
     *   [defmt-test (⭐8)](https://github.com/knurling-rs/defmt-test), an embedded test harness that lets you write and run unit tests as if you were using the built-in `#[test]` attribute, but will run on an embedded target
 
 ### HAL implementation crates / STMicroelectronics
@@ -222,7 +222,7 @@
 
 ### Visualization / Interactive plots
 
-*   [pyecharts (⭐14k)](https://github.com/pyecharts/pyecharts) - Migrated from [Echarts (⭐55k)](https://github.com/apache/echarts), a charting and visualization library, to Python's interactive visual drawing library.<img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pyecharts.png" alt="pyecharts"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/echarts.png" alt="echarts">
+*   [pyecharts (⭐14k)](https://github.com/pyecharts/pyecharts) - Migrated from [Echarts (⭐57k)](https://github.com/apache/echarts), a charting and visualization library, to Python's interactive visual drawing library.<img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pyecharts.png" alt="pyecharts"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/echarts.png" alt="echarts">
 
 ## [25. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
@@ -234,32 +234,28 @@
 
 ### Contents / Education
 
-*   [Mathematics (⭐77)](https://github.com/j-j-gajjar/mathematics/) - Generate MCQ PDF / Question PDF : With Answer and Quiz [J-J-GAJJAR](https://github.com/j-j-gajjar).
+*   [Mathematics (⭐87)](https://github.com/j-j-gajjar/mathematics/) - Generate MCQ PDF / Question PDF : With Answer and Quiz [J-J-GAJJAR](https://github.com/j-j-gajjar).
 
 ### Contents / Finance
 
-*   [Be Thrifty Today (⭐129)](https://github.com/AmruthPillai/BeThriftyToday) - A simple and secure money manager that keeps you financially vigilant by [Amruth Pillai](https://github.com/AmruthPillai)
-
-### Contents / Health and Fitness
-
-*   [Smooth App (⭐383)](https://github.com/openfoodfacts/smooth-app) - To showcase Open Food Facts's power to a broad range of users through a smooth user experience and sleek user interface by [Open Food facts](https://github.com/openfoodfacts/)
+*   [Be Thrifty Today (⭐135)](https://github.com/AmruthPillai/BeThriftyToday) - A simple and secure money manager that keeps you financially vigilant by [Amruth Pillai](https://github.com/AmruthPillai)
 
 ### Contents / Media
 
-*   [Flutter Music (⭐144)](https://github.com/o-ifeanyi/musicPlayer) - A Flutter music player to play songs by [o-ifeanyi](https://github.com/o-ifeanyi)
+*   [Flutter Music (⭐150)](https://github.com/o-ifeanyi/musicPlayer) - A Flutter music player to play songs by [o-ifeanyi](https://github.com/o-ifeanyi)
 
 ### Contents / Social Network
 
-*   [Fwitter (⭐2.9k)](https://github.com/TheAlphamerc/flutter_twitter_clone) - Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage by [Sonu Sharma](https://github.com/TheAlphamerc)
-*   [GroupChatApp (⭐239)](https://github.com/ahmedgulabkhan/GroupChatApp) - Group chat application using Flutter and Firebase, where users can register and create groups or join already existing groups and start conversing with each other by [Ahmed Gulab Khan](https://github.com/ahmedgulabkhan)
+*   [Fwitter (⭐3.3k)](https://github.com/TheAlphamerc/flutter_twitter_clone) - Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage by [Sonu Sharma](https://github.com/TheAlphamerc)
+*   [GroupChatApp (⭐242)](https://github.com/ahmedgulabkhan/GroupChatApp) - Group chat application using Flutter and Firebase, where users can register and create groups or join already existing groups and start conversing with each other by [Ahmed Gulab Khan](https://github.com/ahmedgulabkhan)
 
 ### Contents / Shopping
 
-*   [LaCoro Q-commerce app (⭐56)](https://github.com/LaCoro/ConsumerFlutterApp) - An open source quick commerce app in flutter by [LaCoro](https://github.com/LaCoro)
+*   [LaCoro Q-commerce app (⭐59)](https://github.com/LaCoro/ConsumerFlutterApp) - An open source quick commerce app in flutter by [LaCoro](https://github.com/LaCoro)
 
 ### Contents / Tools
 
-*   [Flutter Browser App (⭐304)](https://github.com/pichillilorenzo/flutter_browser_app) - A Full-Featured Mobile Browser App by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
+*   [Flutter Browser App (⭐340)](https://github.com/pichillilorenzo/flutter_browser_app) - A Full-Featured Mobile Browser App by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 
 ## [27. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
@@ -298,29 +294,29 @@
 
 ### Development / Books
 
-*   [just (⭐12k)](https://github.com/casey/just) - Modern `make`-like command runner.
+*   [just (⭐13k)](https://github.com/casey/just) - Modern `make`-like command runner.
 
 ### Development / Docker
 
-*   [lstags (⭐307)](https://github.com/ivanilves/lstags) - Synchronize images across registries.
-*   [dockly (⭐3.5k)](https://github.com/lirantal/dockly) - Interactively manage containers.
-*   [lazydocker (⭐27k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
-*   [docker-pushrm (⭐111)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
+*   [lstags (⭐306)](https://github.com/ivanilves/lstags) - Synchronize images across registries.
+*   [dockly (⭐3.6k)](https://github.com/lirantal/dockly) - Interactively manage containers.
+*   [lazydocker (⭐30k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
+*   [docker-pushrm (⭐120)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 
 ### Data Manipulation / Internet Speedtest
 
-*   [visidata (⭐6.6k)](https://github.com/saulpw/visidata) - Spreadsheet multitool for data discovery and arrangement.
+*   [visidata (⭐6.8k)](https://github.com/saulpw/visidata) - Spreadsheet multitool for data discovery and arrangement.
 
 ## [29. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue3-signature (⭐38)](https://github.com/WangShayne/vue3-signature) - A electronic signature component for Vue 3
-*   [vue-signature (⭐190)](https://github.com/WangShayne/vue-signature) - A electronic signature component for Vue2.x
+*   [vue3-signature (⭐49)](https://github.com/WangShayne/vue3-signature) - A electronic signature component for Vue 3
+*   [vue-signature (⭐195)](https://github.com/WangShayne/vue-signature) - A electronic signature component for Vue2.x
 
 ### Components & Libraries / UI Utilities
 
-*   [Reforms.js (⭐14)](https://github.com/empla/reforms) - Vue 3 and Bootstrap forms and cards generator. Validation, multiple fields, grouping, schema and more.
+*   [Reforms.js (⭐15)](https://github.com/empla/reforms) - Vue 3 and Bootstrap forms and cards generator. Validation, multiple fields, grouping, schema and more.
 
 ### Components & Libraries / Utilities
 
@@ -328,17 +324,17 @@
 
 ### Components & Libraries / Dev Tools
 
-*   [Volar (⭐4.5k)](https://github.com/johnsoncodehk/volar) - The Fastest Vue Language Support Extension
+*   [Volar (⭐4.9k)](https://github.com/johnsoncodehk/volar) - The Fastest Vue Language Support Extension
 
 ## [30. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Status Bar
 
-*   [tmux-world-clock (⭐26)](https://github.com/alexanderjeurissen/tmux-world-clock) Show multiple timezones using Olson tz database.
+*   [tmux-world-clock (⭐27)](https://github.com/alexanderjeurissen/tmux-world-clock) Show multiple timezones using Olson tz database.
 
 ### Plugins
 
-*   [tmux-copytk (⭐41)](https://github.com/CrispyConductor/tmux-copy-toolkit) - Multi utility rapid copy toolkit.
+*   [tmux-copytk (⭐48)](https://github.com/CrispyConductor/tmux-copy-toolkit) - Multi utility rapid copy toolkit.
 
 ## [31. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
@@ -372,7 +368,7 @@
 
 ### Stub packages
 
-*   [lxml-stubs (⭐26)](https://github.com/lxml/lxml-stubs) - Stubs for [lxml](https://lxml.de).
+*   [lxml-stubs (⭐32)](https://github.com/lxml/lxml-stubs) - Stubs for [lxml](https://lxml.de).
 
 ## [36. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
 
@@ -389,7 +385,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Backprop (⭐238)](https://github.com/backprop-ai/backprop) - Backprop makes it simple to use, finetune, and deploy state-of-the-art ML models.
+*   [Backprop (⭐240)](https://github.com/backprop-ai/backprop) - Backprop makes it simple to use, finetune, and deploy state-of-the-art ML models.
 
 ## [38. Awesome Xai](/content/altamiracorp/awesome-xai/week/README.md)
 
@@ -412,32 +408,32 @@
 
 ### Modules / CLI utils
 
-*   [chart (⭐56)](https://github.com/maximousblk/chart) - Console ASCII line charts with no dependencies.
+*   [chart (⭐57)](https://github.com/maximousblk/chart) - Console ASCII line charts with no dependencies.
 
 ## [40. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Automation
 
-*   [Runbook (⭐696)](https://github.com/braintree/runbook) - A framework and Ruby DSL for progressive system automation.
+*   [Runbook (⭐707)](https://github.com/braintree/runbook) - A framework and Ruby DSL for progressive system automation.
 
 ### Game Development and Graphics
 
-*   [Mittsu (⭐486)](https://github.com/jellymann/mittsu) - Mittsu makes 3D graphics easier by providing an abstraction over OpenGL, and is based heavily off of THREE.js.
+*   [Mittsu (⭐499)](https://github.com/jellymann/mittsu) - Mittsu makes 3D graphics easier by providing an abstraction over OpenGL, and is based heavily off of THREE.js.
 
 ### Internationalization
 
-*   [mini\_i18n (⭐95)](https://github.com/markets/mini_i18n) - Minimalistic, flexible and fast Internationalization library. It supports localization, interpolations, pluralization, fallbacks, nested keys and more.
+*   [mini\_i18n (⭐96)](https://github.com/markets/mini_i18n) - Minimalistic, flexible and fast Internationalization library. It supports localization, interpolations, pluralization, fallbacks, nested keys and more.
 
 ### Machine Learning
 
-*   [TensorFlow (⭐350)](https://github.com/ankane/tensorflow) - The end-to-end machine learning platform for Ruby.
-*   [Torch.rb (⭐553)](https://github.com/ankane/torch.rb) - Deep learning for Ruby, powered by LibTorch.
+*   [TensorFlow (⭐358)](https://github.com/ankane/tensorflow) - The end-to-end machine learning platform for Ruby.
+*   [Torch.rb (⭐579)](https://github.com/ankane/torch.rb) - Deep learning for Ruby, powered by LibTorch.
 
 ## [41. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Developer Tools / Other Tools
 
-*   [FastAPI Code Generator (⭐665)](https://github.com/koxudaxi/fastapi-code-generator) - Create a FastAPI app from an OpenAPI file, enabling schema-driven development.
+*   [FastAPI Code Generator (⭐759)](https://github.com/koxudaxi/fastapi-code-generator) - Create a FastAPI app from an OpenAPI file, enabling schema-driven development.
 
 ### Courses / Other Tools
 
@@ -453,23 +449,17 @@
 
 ### UI / Calendar
 
-*   [Time Planner (⭐150)](https://github.com/Jamalianpour/time_planner) <!--stargazers:Jamalianpour/time_planner--> - A beautiful, easy to use and customizable time planner for flutter mobile, desktop and web by [Mohammad Jamalianpour](https://github.com/Jamalianpour)
+*   [Time Planner (⭐171)](https://github.com/Jamalianpour/time_planner) <!--stargazers:Jamalianpour/time_planner--> - A beautiful, easy to use and customizable time planner for flutter mobile, desktop and web by [Mohammad Jamalianpour](https://github.com/Jamalianpour)
 
 ### Rendering / Redux / ELM / Dependency Injection
 
-*   [Graphx (⭐382)](https://github.com/roipeker/graphx) <!--stargazers:roipeker/graphx--> - Making drawings and animations extremely simple, inspired by Flash, by [Roi Peker](https://github.com/roipeker).
+*   [Graphx (⭐439)](https://github.com/roipeker/graphx) <!--stargazers:roipeker/graphx--> - Making drawings and animations extremely simple, inspired by Flash, by [Roi Peker](https://github.com/roipeker).
 
 ### Game / Open source games
 
-*   [Ghost Rigger (⭐183)](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) <!--stargazers:Float-like-a-dash-Sting-like-a-dart/GhostRigger--> - Ghost Rigger is a cyberpunk inspired puzzle game by [Iain Smith](https://github.com/b099l3) and [Julio Ernesto Rodríguez Cabañas](https://github.com/ernestoyaquello).
+*   [Ghost Rigger (⭐192)](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) <!--stargazers:Float-like-a-dash-Sting-like-a-dart/GhostRigger--> - Ghost Rigger is a cyberpunk inspired puzzle game by [Iain Smith](https://github.com/b099l3) and [Julio Ernesto Rodríguez Cabañas](https://github.com/ernestoyaquello).
 
-## [44. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
-
-### UI Libraries, Components & Templates
-
-*   📁 [Resume (⭐116)](https://github.com/Thomashighbaugh/resume) - A stylized resume template built with Tailwind CSS, featuring a nifty hero-pattern background and custom font.
-
-## [45. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [44. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Articles & Posts
 
@@ -479,7 +469,7 @@
 
 *   [Miro](https://miro.com) (fka Realtime Board) - Distributed permanent virtual whiteboard.
 
-## [46. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [45. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Resources / Learning
 
@@ -490,85 +480,79 @@
 
 *   [Hound](https://search.nix.gsc.io) - Handily search across all or selected Nix-related repositories.
 
-### Resources / Newsletters
+### Installation Media / Discovery
 
-*   [NixOS Weekly](https://weekly.nixos.org/) - *The* newsletter to stay informed about community updates.
+*   [nixos-generators (⭐1.1k)](https://github.com/nix-community/nixos-generators) -  Take a NixOS config and build multiple different images types including VirtualBox VMs, Azure images, and installation ISOs.
 
-### Installation Media / Newsletters
-
-*   [nixos-generators (⭐919)](https://github.com/nix-community/nixos-generators) -  Take a NixOS config and build multiple different images types including VirtualBox VMs, Azure images, and installation ISOs.
-
-### Channel History / Newsletters
+### Channel History / Discovery
 
 *   [Channel History](https://channels.nix.gsc.io) - Get historical git commits for Nix channels.
 *   [Nix Infra Status](https://status.nixos.org) - Get the age and current git commit of each Nix channel.
 
-### Deployment Tools / Newsletters
+### Deployment Tools / Discovery
 
 *   [krops](https://cgit.krebsco.de/krops/about/) - A lightweight toolkit to deploy NixOS systems, remotely or locally.
-*   [KubeNix (⭐296)](https://github.com/xtruder/kubenix) - A Kubernetes resource builder using Nix.
-*   [KuberNix (⭐690)](https://github.com/saschagrunert/kubernix) - Single-dependency Kubernetes clusters via Nix packages.
-*   [NixOps (⭐1.3k)](https://github.com/NixOS/nixops) - The official Nix deployment tool, compatible with AWS, Hetzner, and more.
-*   [terraform-nixos (⭐251)](https://github.com/tweag/terraform-nixos) - A set of Terraform modules designed to deploy NixOS.
+*   [KubeNix (⭐301)](https://github.com/xtruder/kubenix) - A Kubernetes resource builder using Nix.
+*   [KuberNix (⭐718)](https://github.com/saschagrunert/kubernix) - Single-dependency Kubernetes clusters via Nix packages.
+*   [NixOps (⭐1.5k)](https://github.com/NixOS/nixops) - The official Nix deployment tool, compatible with AWS, Hetzner, and more.
+*   [terraform-nixos (⭐274)](https://github.com/tweag/terraform-nixos) - A set of Terraform modules designed to deploy NixOS.
 
-### Command-Line Tools / Newsletters
+### Command-Line Tools / Discovery
 
-*   [nixfmt (⭐379)](https://github.com/serokell/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
-*   [nix-index (⭐508)](https://github.com/bennofs/nix-index) - Quickly locate Nix packages with specific files.
-*   [nix-prefetch (⭐86)](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
+*   [nixfmt (⭐429)](https://github.com/serokell/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
+*   [nix-index (⭐584)](https://github.com/bennofs/nix-index) - Quickly locate Nix packages with specific files.
+*   [nix-prefetch (⭐94)](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
 
-### Development / Newsletters
+### Development / Discovery
 
-*   [Arion (⭐410)](https://github.com/hercules-ci/arion) - Run `docker-compose` with help from Nix/NixOS.
-*   [cached-nix-shell (⭐149)](https://github.com/xzfc/cached-nix-shell) - A `nix-shell` replacement that uses caching to open subsequent shells quickly.
+*   [Arion (⭐474)](https://github.com/hercules-ci/arion) - Run `docker-compose` with help from Nix/NixOS.
+*   [cached-nix-shell (⭐163)](https://github.com/xzfc/cached-nix-shell) - A `nix-shell` replacement that uses caching to open subsequent shells quickly.
 *   [Cachix](https://cachix.org/) - Hosted binary cache service; free for open-source projects.
-*   [gitignore.nix (⭐192)](https://github.com/hercules-ci/gitignore.nix) - The most feature-complete and easy-to-use `.gitignore` integration.
-*   [niv (⭐1.2k)](https://github.com/nmattia/niv/) - Easy dependency management for Nix projects with package pinning.
-*   [nix-direnv (⭐904)](https://github.com/nix-community/nix-direnv) - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
-*   [nixpkgs-review (⭐247)](https://github.com/Mic92/nixpkgs-review) - The best tool to verify that a pull-request in Nixpkgs is building properly.
+*   [gitignore.nix (⭐210)](https://github.com/hercules-ci/gitignore.nix) - The most feature-complete and easy-to-use `.gitignore` integration.
+*   [niv (⭐1.3k)](https://github.com/nmattia/niv/) - Easy dependency management for Nix projects with package pinning.
+*   [nix-direnv (⭐1.1k)](https://github.com/nix-community/nix-direnv) - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
+*   [nixpkgs-review (⭐276)](https://github.com/Mic92/nixpkgs-review) - The best tool to verify that a pull-request in Nixpkgs is building properly.
 
 ### Programming Languages / Haskell
 
-*   [cabal2nix (⭐328)](https://github.com/NixOS/cabal2nix) - Converts a Cabal file into a Nix build expression.
-*   [haskell.nix (⭐480)](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs.
+*   [cabal2nix (⭐334)](https://github.com/NixOS/cabal2nix) - Converts a Cabal file into a Nix build expression.
+*   [haskell.nix (⭐498)](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs.
 
 ### Programming Languages / PureScript
 
-*   [Easy PureScript Nix (⭐178)](https://github.com/justinwoo/easy-purescript-nix) - A project to easily use PureScript and other tools with Nix.
+*   [Easy PureScript Nix (⭐184)](https://github.com/justinwoo/easy-purescript-nix) - A project to easily use PureScript and other tools with Nix.
 
 ### Programming Languages / Python
 
-*   [mach-nix (⭐743)](https://github.com/DavHau/mach-nix) - Tool to create highly reproducible python environments.
-*   [poetry2nix (⭐487)](https://github.com/nix-community/poetry2nix) - Build Python packages directly from [Poetry's](https://python-poetry.org/) `poetry.lock`. No conversion step needed.
-*   [pypi2nix (⭐189)](https://github.com/nix-community/pypi2nix) - Generate Nix expressions for Python packages.
+*   [poetry2nix (⭐582)](https://github.com/nix-community/poetry2nix) - Build Python packages directly from [Poetry's](https://python-poetry.org/) `poetry.lock`. No conversion step needed.
 
 ### Programming Languages / Ruby
 
-*   [Bundix (⭐132)](https://github.com/nix-community/bundix) - Generates a Nix expression for your Bundler-managed application.
+*   [Bundix (⭐144)](https://github.com/nix-community/bundix) - Generates a Nix expression for your Bundler-managed application.
 
 ### Programming Languages / Rust
 
-*   [naersk (⭐500)](https://github.com/nmattia/naersk) - Build Rust packages directly from `Cargo.lock`. No conversion step needed.
-*   [rust-nix-templater (⭐48)](https://github.com/yusdacra/rust-nix-templater) - Generates Nix build and development files for Rust projects.
+*   [naersk (⭐560)](https://github.com/nmattia/naersk) - Build Rust packages directly from `Cargo.lock`. No conversion step needed.
+*   [rust-nix-templater (⭐50)](https://github.com/yusdacra/rust-nix-templater) - Generates Nix build and development files for Rust projects.
 
-### NixOS Modules / Scala
+### NixOS Modules / Zig
 
-*   [musnix (⭐308)](https://github.com/musnix/musnix) - Do real-time audio work in NixOS.
-*   [nixcloud-webservices (⭐143)](https://github.com/nixcloud/nixcloud-webservices) - A Nixpkgs extension with a focus on ease of deployment of web-related technologies.
+*   [musnix (⭐346)](https://github.com/musnix/musnix) - Do real-time audio work in NixOS.
+*   [nixcloud-webservices (⭐152)](https://github.com/nixcloud/nixcloud-webservices) - A Nixpkgs extension with a focus on ease of deployment of web-related technologies.
 *   [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver, managed with NixOS modules.
-*   [nix-bitcoin (⭐326)](https://github.com/fort-nix/nix-bitcoin) - Modules and packages for Bitcoin nodes with higher-layer protocols with an emphasis on security.
+*   [nix-bitcoin (⭐371)](https://github.com/fort-nix/nix-bitcoin) - Modules and packages for Bitcoin nodes with higher-layer protocols with an emphasis on security.
 
 ### Overlays / Webinterface
 
-*   [awesome-nix-hpc (⭐44)](https://github.com/freuk/awesome-nix-hpc) - High Performance Computing package sets.
-*   [NUR (⭐873)](https://github.com/nix-community/NUR/) - Nix User Repositories. The mother of all overlays, allowing access to user repositories and installing packages via attributes.
+*   [awesome-nix-hpc (⭐49)](https://github.com/freuk/awesome-nix-hpc) - High Performance Computing package sets.
+*   [NUR (⭐970)](https://github.com/nix-community/NUR/) - Nix User Repositories. The mother of all overlays, allowing access to user repositories and installing packages via attributes.
 
 ### Community / Webinterface
 
 *   [Discourse](https://discourse.nixos.org/) - The best place to get help and discuss Nix-related topics.
 *   [NixCon](https://nixcon.org/) - The annual community conference for contributors and users of Nix and NixOS.
 
-## [47. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [46. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### App Releases / Arcade
 
@@ -578,19 +562,19 @@
 
 *   Pool Ball Classic - [Android](https://play.google.com/store/apps/details?id=com.ignacemaes.poolball), [iOS](https://apps.apple.com/us/app/pool-ball-classic/id1557034712) - Play 8 Ball Pool like you know and love on your mobile device featuring 3D graphics, realistic physics, and a challenging AI mode. By [Ignace Maes](https://ignacemaes.com/)
 
-## [48. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [47. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Research Papers
 
 *   [Citizen Science Data Show Temperature-Driven Declines in Riverine Sentinel Invertebrates](https://pubs.acs.org/doi/10.1021/acs.estlett.0c00206) Timothy J. Maguire, Scott O. C. Mundle. (2020)
 
-## [49. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/week/README.md)
+## [48. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/week/README.md)
 
 ### Community OSS projects
 
 *   [ghost-digitalocean (⭐21)](https://github.com/shiva-hack/ghost-digitalocean) - A DigitalOcean Storage adapter for Ghost.
 
-## [50. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [49. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Web Apps (open source)
 
@@ -602,13 +586,13 @@
 
 ### GTFS Libraries / PostgreSQL
 
-*   [gtfs-via-postgres (⭐45)](https://github.com/derhuerst/gtfs-via-postgres) – Yet another tool to process GTFS using PostgreSQL.
+*   [gtfs-via-postgres (⭐57)](https://github.com/derhuerst/gtfs-via-postgres) – Yet another tool to process GTFS using PostgreSQL.
 
 ### Other multimodal data formats / Ruby
 
-*   [Transport Operator Mobility-as-a-service Provider (TOMP)-API (⭐81)](https://github.com/TOMP-WG/TOMP-API) - Working group in the Netherlands with a goal to develop an API for use by Transport Operators and Mobility-as-a-service Providers for operator discovery, trip planning, end user interaction, booking, and payment.
+*   [Transport Operator Mobility-as-a-service Provider (TOMP)-API (⭐86)](https://github.com/TOMP-WG/TOMP-API) - Working group in the Netherlands with a goal to develop an API for use by Transport Operators and Mobility-as-a-service Providers for operator discovery, trip planning, end user interaction, booking, and payment.
 
-## [51. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [50. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### iOS
 
@@ -630,11 +614,11 @@
 
 *   [*Practical AI with Swift* by Mars Geldard, Jonathon Manning, Paris Buttfield-Addison, Tim Nugent](https://aiwithswift.com/book/)
 
-## [52. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [51. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Code Quality
 
-*   [CodeBeat](https://codebeat.co) — Automated Code Review Platform available for many languages. Free forever for public repositories with Slack & E-mail integration.
+*   [CodeBeat](https://codebeat.co) — Automated Code Review Platform available for many languages. Free forever for public repositories with Slack and e-mail integration.
 
 ### CI and CD
 
@@ -642,26 +626,25 @@
 
 ### Testing
 
-*   [Bird Eats Bug](https://www.birdeatsbug.com/) — Report bugs faster (and better). Record your screen with Bird browser extension, it will auto-capture technical data that engineers need to debug. Free tier suitable for small teams.
-*   [percy.io](https://percy.io) - Add visual testing to any web app, static site, style guide, or component library.  Unlimited team members, Demo app and unlimited projects, 5,000 snapshots / month.
-*   [Vaadin](https://vaadin.com) — Build scalable UIs in Java or TypeScript, and use the integrated tooling, components and design system to iterate faster, design better and simplify the development process. Unlimited Projects with 5 years free maintenance.
+*   [percy.io](https://percy.io) - Add visual testing to any web app, static site, style guide, or component library.  Unlimited team members, Demo app, and unlimited projects, 5,000 snapshots/month.
+*   [Vaadin](https://vaadin.com) — Build scalable UIs in Java or TypeScript, and use the integrated tooling, components, and design system to iterate faster, design better, and simplify the development process. Unlimited Projects with five years of free maintenance.
 
 ### Email
 
-*   [Zoho](https://www.zoho.com) — Started as an e-mail provider but now provides a suite of services out of which some of them have free plans. List of services having free plans :
-    *   [Email](https://zoho.com/mail) Free for 5 users. 5GB/user & 25 MB attachment limit, 1 domain.
+*   [Zoho](https://www.zoho.com) — Started as an e-mail provider but now provides a suite of services, some of which have free plans. List of services having free plans :
+    *   [Email](https://zoho.com/mail) Free for 5 users. 5GB/user & 25 MB attachment limit, one domain.
     *   [Sprints](https://zoho.com/sprints) Free for 5 users,5 Projects & 500MB storage.
-    *   [Docs](https://zoho.com/docs) — Free for 5 users with 1 GB upload limit & 5GB storage. Zoho Office Suite (Writer,Sheets & Show) comes bundled with it.
-    *   [Projects](https://zoho.com/projects) — Free for 3 users, 2 projects & 10 MB attachment limit. Same plan applies to [Bugtracker](https://zoho.com/bugtracker).
-    *   [Connect](https://zoho.com/connect) — Team Collaboration free for 25 users with 3 groups, 3 custom apps, 3 Boards, 3 Manuals, 10 Integrations along with channels,events & forums.
+    *   [Docs](https://zoho.com/docs) — Free for 5 users with 1 GB upload limit & 5GB storage. Zoho Office Suite (Writer, Sheets & Show) comes bundled.
+    *   [Projects](https://zoho.com/projects) — Free for 3 users, 2 projects & 10 MB attachment limit. The same plan applies to [Bugtracker](https://zoho.com/bugtracker).
+    *   [Connect](https://zoho.com/connect) — Team Collaboration free for 25 users with three groups, three custom apps, 3 Boards, 3 Manuals, and 10 Integrations along with channels, events & forums.
     *   [Meeting](https://zoho.com/meeting) — Meetings with upto 3 meeting participants & 10 Webinar attendees.
-    *   [Vault](https://zoho.com/vault) — Password Management free for Individuals.
-    *   [Showtime](https://zoho.com/showtime) — Yet another Meeting software for training for a remote session upto 5 attendees.
+    *   [Vault](https://zoho.com/vault) — Password Management is accessible for Individuals.
+    *   [Showtime](https://zoho.com/showtime) — Yet another Meeting software for training for a remote session of up to 5 attendees.
     *   [Notebook](https://zoho.com/notebook) — A free alternative to Evernote.
-    *   [Wiki](https://zoho.com/wiki) — Free for 3 users with 50 MB storage, unlimited pages, zip backups, RSS & Atom feed, access controls & customisable CSS.
-    *   [Subscriptions](https://zoho.com/subscriptions) — Recurring Billing management free for 20 customers/subscriptions & 1 user with all the payment hosting done by Zoho themselves. Last 40 subscription metrics are stored
+    *   [Wiki](https://zoho.com/wiki) — Free for three users with 50 MB storage, unlimited pages, zip backups, RSS & Atom feed, access controls & customizable CSS.
+    *   [Subscriptions](https://zoho.com/subscriptions) — Recurring Billing management free for 20 customers/subscriptions & 1 user with all the payment hosting done by Zoho. The last 40 subscription metrics are stored
     *   [Checkout](https://zoho.com/checkout) — Product Billing management with 3 pages & up to 50 payments.
-    *   [Desk](https://zoho.com/desk) — Customer Support management with 3 agents and private knowledge base, email tickets. Integrates with [Assist](https://zoho.com/assist) for 1 remote technician & 5 unattended computers.
+    *   [Desk](https://zoho.com/desk) — Customer Support management with three agents, private knowledge base, and email tickets. Integrates with [Assist](https://zoho.com/assist) for one remote technician & 5 unattended computers.
     *   [Cliq](https://zoho.com/cliq) — Team chat software with 100 GB storage, unlimited users, 100 users per channel & SSO.
     *   [Campaigns](https://zoho.com/campaigns)
     *   [Forms](https://zoho.com/forms)
@@ -670,22 +653,22 @@
     *   [Bookings](https://zoho.com/bookings)
     *   [Analytics](https://zoho.com/analytics)
 
-### DBaaS
+### Managed Data Services
 
-*   [StackBy](https://stackby.com/) — One tool that brings together flexibility of spreadsheets, power of databases and built-in integrations with your favorite business apps. Free plan includes unlimited users, 10 stacks, 2GB attachment per stack.
+*   [StackBy](https://stackby.com/) — One tool that combines spreadsheets' flexibility, databases' power, and built-in integrations with your favorite business apps. The free plan includes unlimited users, ten stacks, and a 2GB attachment per stack.
 
 ### Issue Tracking and Project Management
 
-*   [Zube](https://zube.io) — Project management with free plan for 4 Projects & 4 users. GitHub integration available.
+*   [Zube](https://zube.io) — Project management with free plan for 4 Projects & 4 users. GitHub integration is available.
 
 ### Storage and Media Processing
 
-*   [Pinata IPFS](https://pinata.cloud) — Pinata is the simplest way to upload and manage files on IPFS. Our friendly user interface combined with our IPFS API makes Pinata the easiest IPFS pinning service for platforms, creators, and collectors. 1 GB storage free along with access to API.
+*   [Pinata IPFS](https://pinata.cloud) — Pinata is the simplest way to upload and manage files on IPFS. Our friendly user interface and IPFS API make Pinata the easiest IPFS pinning service for platforms, creators, and collectors. 1 GB storage free, along with access to API.
 
 ### Design and UI
 
 *   [Icons8](https://icons8.com) — Icons, illustrations, photos, music, and design tools. Free Plan offers Limited formats in lower resolution. Link to Icons8 when you use our assets.
-*   [Rive](https://rive.app) — Create and ship beautiful animations to any platform. Free forever for Individuals. The service is a editor which hosts all the graphics on their servers as well. They also provide runtimes for many platforms to run graphics made using Rive.
+*   [Rive](https://rive.app) — Create and ship beautiful animations to any platform. Free forever for Individuals. The service is an editor that also hosts all the graphics on their servers. They also provide runtimes for many platforms to run representations made using Rive.
 
 ### IDE and Code Editing
 
@@ -693,14 +676,14 @@
 
 ### Analytics, Events and Statistics
 
-*   [Clicky](https://clicky.com) — Website Analytics Platform. Free Plan for 1 website with 3000 views analytics.
+*   [Clicky](https://clicky.com) — Website Analytics Platform. Free Plan for one website with 3000 views analytics.
 
 ### Miscellaneous
 
-*   [Blynk](https://blynk.io) — A SaaS with API to control, build & evaluate IoT devices. Free Developer Plan with 5 devices,Free Cloud & data storage. Mobile Apps also available.
+*   [Blynk](https://blynk.io) — A SaaS with API to control, build & evaluate IoT devices. Free Developer Plan with 5 devices, Free Cloud & data storage. Mobile Apps are also available.
 *   [Elementor](https://elementor.com) — WordPress website builder. Free plan available with 40+ Basic Widgets.
 
-## [53. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [52. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Cache
 
@@ -713,49 +696,49 @@
 
 ### Maintenance
 
-*   [Admin Scripts for Development and Deploying (⭐3)](https://github.com/jbluemink/Sitecore-Admin-Scripts-for-Development-and-Deploying) - The additional features for `/admin` folder: AddAdminUser, AddEditorUser, ResetAdminPassword, FillDbWithExtranetUser, InstallUpdatePackage, InstallZipPackage, ParameterDrivenPublish and IsPublishTaskRunning.
+*   [Admin Scripts for Development and Deploying (⭐5)](https://github.com/jbluemink/Sitecore-Admin-Scripts-for-Development-and-Deploying) - The additional features for `/admin` folder: AddAdminUser, AddEditorUser, ResetAdminPassword, FillDbWithExtranetUser, InstallUpdatePackage, InstallZipPackage, ParameterDrivenPublish and IsPublishTaskRunning.
 
 ### Packaging
 
 *   [UpdatePackageInstaller (⭐5)](https://github.com/HedgehogDevelopment/UpdatePackageInstaller) - Installs update packages in Sitecore from the command line.
-*   [Sitecore Package Deployer (⭐37)](https://github.com/HedgehogDevelopment/SitecorePackageDeployer) - Uses a Sitecore Job to automatically deploy update packages from a file system folder on the Sitecore server.
+*   [Sitecore Package Deployer (⭐36)](https://github.com/HedgehogDevelopment/SitecorePackageDeployer) - Uses a Sitecore Job to automatically deploy update packages from a file system folder on the Sitecore server.
 
-## [54. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [53. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Iteration
 
 *   [doplus (⭐7)](https://github.com/alessiostalla/doplus) – another extensible iteration library, similar to :for.
 
-## [55. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [54. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
-### Common Section / Angular
+### General Section / Svelte
 
 *   [Docto Tech Life](https://doctolib.engineering/engineering-news-ruby-rails-react/). A weekly newsletter featuring the latest Rails + Javascript + software engineering content.
 
-## [56. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [55. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Framework Components
 
-*   [phoenix\_linguist (⭐17)](https://github.com/jxs/phoenix_linguist) - A project that integrates Phoenix with Linguist, providing a plug and view helpers. It looks abandoned: its last commit was on 2015 and its CI runs Elixir 1.0.3.
+*   [phoenix\_linguist (⭐18)](https://github.com/jxs/phoenix_linguist) - A project that integrates Phoenix with Linguist, providing a plug and view helpers. It looks abandoned: its last commit was on 2015 and its CI runs Elixir 1.0.3.
 
 ### Translations and Internationalizations
 
-*   [linguist (⭐173)](https://github.com/change/linguist) - Elixir Internationalization library.
+*   [linguist (⭐175)](https://github.com/change/linguist) - Elixir Internationalization library.
 
-## [57. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [56. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Engine
 
-*   [HStreamDB (⭐609)](https://github.com/hstreamdb/hstream) \[Haskell] - The streaming database built for IoT data storage and real-time processing.
-*   [Kuiper (⭐991)](https://github.com/emqx/kuiper) \[Golang] - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
+*   [HStreamDB (⭐645)](https://github.com/hstreamdb/hstream) \[Haskell] - The streaming database built for IoT data storage and real-time processing.
+*   [Kuiper (⭐1.2k)](https://github.com/emqx/kuiper) \[Golang] - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
 
-## [58. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [57. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Middlewares
 
 *   [NanoMQ (⭐738)](https://github.com/nanomq/nanomq) - A lightweight and Blazing-fast MQTT Broker for IoT Edge platform.
 
-## [59. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [58. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Calendar
 

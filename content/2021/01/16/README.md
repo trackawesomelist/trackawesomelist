@@ -10,15 +10,15 @@
 
 ### Issue Tracking and Project Management
 
-*   [easyretro.io](https://www.easyretro.io/) — Simple and intuitive sprint retrospective tool. Free plan has 3 public boards and 1 survey per board per month.
+*   [easyretro.io](https://www.easyretro.io/) — Simple and intuitive sprint retrospective tool. The free plan has three public boards and one survey per board per month.
 
 ## [2. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Godot 3.2+
 
 *   [Code Snapshot (⭐49)](https://github.com/fenix-hub/godot-engine.code-snapshot) - A plugin which lets you take beautified screenshots of your code within the editor.
-*   [Dialogic (⭐2.3k)](https://github.com/coppolaemilio/dialogic) - Create dialogs, characters and scenes to display conversations.
-*   [Scatter (⭐1.2k)](https://github.com/HungryProton/scatter) - Randomly fill an area with props or other scenes.
+*   [Dialogic (⭐2.5k)](https://github.com/coppolaemilio/dialogic) - Create dialogs, characters and scenes to display conversations.
+*   [Scatter (⭐1.4k)](https://github.com/HungryProton/scatter) - Randomly fill an area with props or other scenes.
 
 ## [3. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -42,7 +42,7 @@
 
 ### R / Time Series
 
-*   [matrixprofile (⭐311)](https://github.com/matrix-profile-foundation/matrixprofile) - Time series data mining library built on top of the novel Matrix Profile data structure and algorithms.
+*   [matrixprofile (⭐332)](https://github.com/matrix-profile-foundation/matrixprofile) - Time series data mining library built on top of the novel Matrix Profile data structure and algorithms.
 
 ## [6. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
 

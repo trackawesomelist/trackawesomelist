@@ -27,12 +27,12 @@
 
 ### Actors
 
-*   [bpe (⭐242)](https://github.com/spawnproc/bpe) - Business Process Engine in Erlang. ([Doc](https://bpe.n2o.dev)).
+*   [bpe (⭐251)](https://github.com/spawnproc/bpe) - Business Process Engine in Erlang. ([Doc](https://bpe.n2o.dev)).
 
 ### Applications
 
-*   [chat (⭐22)](https://github.com/synrc/chat) - A tiny text chat sample based on N2O.
-*   [exchat (⭐257)](https://github.com/tony612/exchat) - A Slack-like app by Elixir, Phoenix & React (redux).
+*   [chat (⭐7)](https://github.com/synrc/chat) - A tiny text chat sample based on N2O.
+*   [exchat (⭐256)](https://github.com/tony612/exchat) - A Slack-like app by Elixir, Phoenix & React (redux).
 
 ### CSV
 
@@ -45,15 +45,15 @@
 
 ### ORM and Datamapping
 
-*   [kvs (⭐172)](https://github.com/synrc/kvs) - Erlang Abstract Term Database.
+*   [kvs (⭐174)](https://github.com/synrc/kvs) - Erlang Abstract Term Database.
 
 ### Security
 
-*   [ca (⭐12)](https://github.com/synrc/ca) - Certificate Authority.
+*   [ca (⭐17)](https://github.com/synrc/ca) - Certificate Authority.
 
 ### Validations
 
-*   [form (⭐39)](https://github.com/synrc/form) - Document forms and validation library.
+*   [form (⭐40)](https://github.com/synrc/form) - Document forms and validation library.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Tools / Machine translation for developers
 
-*   [attranslate (⭐285)](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
+*   [attranslate (⭐286)](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
 
 ## [6. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -79,10 +79,6 @@
 
 *   [Phalcon-autorouter (⭐28)](https://github.com/kahur/Phalcon-autorouter) - Simple way to auto load modules without complicate definition of routes
 
-### Magazines / Slides
-
-*   [German magazine - PHPMagazin n°1.21](https://kiosk.entwickler.de/php-magazin/php-magazin-1-2021/) - The Phalcon among the PHP frameworks
-
 ### Websites / Tutorials
 
 *   [Phalcon Documentation](https://docs.phalcon.io/4.0/en/introduction) - Phalcon Documentation
@@ -91,18 +87,18 @@
 
 ### Community
 
-*   [Japan Discord](https://discord.com/invite/YTXq3ZtBbx) - Svelte日本.
+*   [Japan Discord](https://discord.com/invite/YTXq3ZtBbx) - Svelte 日本.
 
 ## [9. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Document
 
 *   Khronos
-    *   [Vulkan Guide (⭐1.5k)](https://github.com/KhronosGroup/Vulkan-Guide)
+    *   [Vulkan Guide (⭐1.6k)](https://github.com/KhronosGroup/Vulkan-Guide)
 
 ### Bindings
 
-*   [vulkan-zig (⭐208)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator for Zig \[MIT]
+*   [vulkan-zig (⭐294)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator for Zig \[MIT]
 
 ---
 

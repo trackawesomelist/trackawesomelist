@@ -360,7 +360,7 @@ A curated list of cryptography resources and links.
 *   [charm (⭐487)](https://github.com/JHUISI/charm) - Framework for rapidly prototyping cryptosystems.
 *   [Crypto-Vinaigrette (⭐17)](https://github.com/aditisrinivas97/Crypto-Vinaigrette) - Quantum resistant asymmetric key generation tool for digital signatures.
 *   [cryptography](https://cryptography.io/en/latest/) - Python library which exposes cryptographic recipes and primitives.
-*   [cryptopy](https://sourceforge.net/projects/cryptopy/) - Pure python implmentation of cryptographic algorithms and applications.
+*   [cryptopy](https://sourceforge.net/projects/cryptopy/) - Pure python implementation of cryptographic algorithms and applications.
 *   [django-cryptography (⭐329)](https://github.com/georgemarshall/django-cryptography) - Easily encrypt data in Django.
 *   [ecdsa (⭐835)](https://github.com/tlsfuzzer/python-ecdsa) - An easy-to-use implementation of ECC with support for ECDSA and ECDH.
 *   [hashids (⭐1.4k)](https://github.com/davidaurelio/hashids-python) - Implementation of [hashids](http://hashids.org) in Python.
@@ -389,7 +389,7 @@ A curated list of cryptography resources and links.
 *   [mundane (⭐1.1k)](https://github.com/google/mundane) - is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant.
 *   [ockam (⭐3.4k)](https://github.com/ockam-network/ockam) - is a Rust library for end-to-end encryption and mutual authentication.
 *   [octavo (⭐140)](https://github.com/libOctavo/octavo) - Highly modular & configurable hash & crypto library.
-*   [orion (⭐509)](https://github.com/orion-rs/orion) - is a cryptography library written in pure Rust. It aims to provide easy and usable crypto while trying to minimize the use of unsafe code.
+*   [orion (⭐513)](https://github.com/orion-rs/orion) - is a cryptography library written in pure Rust. It aims to provide easy and usable crypto while trying to minimize the use of unsafe code.
 *   [proteus (⭐410)](https://github.com/wireapp/proteus) - Axolotl protocol implementation, without header keys, in Rust.
 *   [rage (⭐2k)](https://github.com/str4d/rage) - is a simple, modern, and secure file encryption tool, using the age format.
 *   [recrypt (⭐135)](https://github.com/IronCoreLabs/recrypt-rs) - A pure-Rust library that implements cryptographic primitives for building a multi-hop Proxy Re-encryption scheme, known as Transform Encryption.

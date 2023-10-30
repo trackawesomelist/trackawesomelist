@@ -12,27 +12,23 @@
 
 *   [ecs-blue-green-deployment :fire::fire: (⭐443)](https://github.com/awslabs/ecs-blue-green-deployment) - Blue-green deployment on ECS.
 
-## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
-
-### Algorithms and Data structures
-
-*   [ksuid.cr (⭐15)](https://github.com/Sija/ksuid.cr) - K-Sortable Globally Unique IDs
-
-## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Code Quality
 
 *   [sonarcloud.io](https://sonarcloud.io) — Automated source code analysis for Java, JavaScript, C/C++, C#, VB.NET, PHP, Objective-C, Swift, Python, Groovy and even more languages, free for Open Source
 
-### BaaS
+## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
-*   [pushtechnology.com](https://www.pushtechnology.com/) — Real-time Messaging for browsers, smartphones and everyone. 100 concurrent connections. Free 10 GB data/month
+### Algorithms and Data structures
+
+*   [ksuid.cr (⭐15)](https://github.com/Sija/ksuid.cr) - K-Sortable Globally Unique IDs
 
 ## [4. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Visualization
 
-*   [jupyter-gmaps (⭐752)](https://github.com/pbugnion/gmaps) - Interactive visualization library for Google Maps in Jupyter notebooks.
+*   [jupyter-gmaps (⭐754)](https://github.com/pbugnion/gmaps) - Interactive visualization library for Google Maps in Jupyter notebooks.
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

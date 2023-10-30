@@ -111,7 +111,7 @@
 ### Tools / Community Chat Rooms
 
 *   [xargo (⭐1k)](https://github.com/japaric/xargo) Rust package manager with support for non-default std libraries — build rust runtime for your own embedded system.
-    *   xargo is great but it's in maintenance mode, [cargo-xbuild (⭐245)](https://github.com/rust-osdev/cargo-xbuild) is catching up as intended replacement.
+    *   xargo is great but it's in maintenance mode, [cargo-xbuild (⭐248)](https://github.com/rust-osdev/cargo-xbuild) is catching up as intended replacement.
 
 ---
 

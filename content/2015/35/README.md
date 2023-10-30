@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 31 - Sep 06, 2015
 
-33 awesome lists updated this week.
+34 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -33,7 +33,13 @@
 *   [Realtime pixel tracking with Nginx, syslog-ng, and Redis](https://benwilber.github.io/nginx/redis/syslog/pixel-tracking/2013/09/13/realtime-pixel-tracking-with-nginx-syslog-ng-and-redis.html)
 *   [Dynamic log formats in Nginx](https://benwilber.github.io/nginx/syslog/logging/2015/08/26/dynamic-log-formats-in-nginx.html)
 
-## [5. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
+## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### iOS / Bootstrap
+
+*   [NSHipster](http://nshipster.com/#archive) (Resource)
+
+## [6. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
 ### Automation / Browsers
 
@@ -97,7 +103,7 @@
 *   [AutoIT Scripting For Beginners](https://books.google.com.vn/books?id=ugdeCgAAQBAJ) by Rajan.
 *   [Learn To Program Using FREE Tools with AutoIt 1.2](https://www.autoitscript.com/forum/files/file/351-learn-to-program-using-free-tools-with-autoit/) by Jfish.
 
-## [6. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
+## [7. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
 
 ### Preludes
 
@@ -113,32 +119,32 @@
 *   [purescript-quickcheck-laws (⭐21)](https://github.com/garyb/purescript-quickcheck-laws) - Law tests for core classes.
 *   [purescript-benchotron (⭐32)](https://github.com/hdgarrood/purescript-benchotron) - Straightforward benchmarking for PureScript/JavaScript.
 
-## [7. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [8. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Native Apps (closed source)
 
 *   [TransLoc Rider](http://translocrider.com/) - Real-time transit maps for over 100 transit systems.
 
-## [8. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [9. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts
 
 *   [d3pie (⭐372)](https://github.com/benkeen/d3pie) - A configurable pie chart lib and generator
 
-## [9. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [10. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Other Awesome Lists
 
 *   [ci tools compare](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)
 
-## [10. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [11. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Tutorials/Guides
 
 *   [Flexbox layout with iron-flex-layout](https://elements.polymer-project.org/guides/flex-layout)
 *   [Using Neon Animations](https://elements.polymer-project.org/guides/using-neon-animations)
 
-## [11. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
+## [12. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
 
 ### EventDispatcher
 
@@ -148,38 +154,38 @@
 
 *   [The Framework as an implementation](https://www.youtube.com/watch?v=0L_9NutiJlc) by Marcello Duarte & Konstantin Kudryashov \[2013], [Github repository (⭐213)](https://github.com/MarcelloDuarte/hexagonal-symfony)
 
-## [12. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [13. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Library Distributions / Web
 
 *   [ASPDM (⭐58)](https://github.com/ahkscript/ASPDM) - package/stdlib distribution and management from the [ahkscript](https://github.com/ahkscript) folks. Trello [link](https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management).
 *   [pAHKlight (⭐36)](https://github.com/hi5/pAHKlight) - Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools.
 
-## [13. Amas](/content/sindresorhus/amas/week/README.md)
+## [14. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [JD Ballard (⭐4)](https://github.com/Qix-/ama) - Idaho native, Chalk collaborator, sunshine burns us. Likes hypotheticals, dislikes bees.
 
-## [14. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [15. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Tools
 
 *   [gulp-dart (⭐4)](https://github.com/agudulin/gulp-dart) - A gulp plugin for compiling Dart code to JavaScript using dart2js.
 
-## [15. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [16. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### GUI
 
 *   [seesaw (⭐1.4k)](https://github.com/daveray/seesaw)
 
-## [16. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [17. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Artificial Intelligence
 
 *   [AIMLBot (Program#)](http://aimlbot.sourceforge.net/) - A small, fast, standards-compliant yet easily customizable implementation of an AIML (Artificial Intelligence Markup Language) based chatter bot in C#.
 
-## [17. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
+## [18. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
 
 ### Beginner Books
 
@@ -211,7 +217,7 @@ Your contributions are always welcome and greately appreciated, just follow [the
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-## [18. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [19. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Newsletter
 
@@ -222,7 +228,7 @@ Your contributions are always welcome and greately appreciated, just follow [the
 
 *   [What IS Flexbox?](https://medium.com/@spaceninja/what-is-flexbox-6aed968555ef)
 
-## [19. Tips](/content/git-tips/tips/week/README.md)
+## [20. Tips](/content/git-tips/tips/week/README.md)
 
 ## Prunes references to remove branches that have been deleted in the remote.
 
@@ -236,14 +242,14 @@ git fetch -p
 git remote prune origin
 ```
 
-## [20. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [21. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Mobile Development
 
 *   [dryrun (⭐3.8k)](https://github.com/cesarferreira/dryrun) - Try any Android library on your smartphone directly from the command line.
 *   [RubyMotion](http://www.rubymotion.com) - A revolutionary toolchain that lets you quickly develop and test full-fledged native iOS and OS X applications for iPhone, iPad, Mac and Android.
 
-## [21. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [22. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Bytecode
 
@@ -272,7 +278,7 @@ git remote prune origin
 
 *   [JOL](http://openjdk.java.net/projects/code-tools/jol/) - Analyze actual object layout schemes, footprint, and references in JVMs.
 
-## [22. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [23. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Graphic
 
@@ -294,7 +300,7 @@ git remote prune origin
 *   [WMI Delphi Code Creator (⭐161)](https://github.com/RRUZ/wmi-delphi-code-creator). Allows you to generate Object Pascal, Oxygene, C++ and C# code to access the WMI (Windows Management Instrumentation) classes, events and methods. Also includes a set of tools to explorer and Query the content of the WMI.
 *   [Delphi Dev. Shell Tools (⭐129)](https://github.com/RRUZ/delphi-dev-shell-tools). Windows shell extension with useful tasks for Object Pascal Developers (Delphi, Free Pascal).
 
-## [23. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
+## [24. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
 
 ### [git-extras](https://github.com/tj/git-extras)
 
@@ -958,24 +964,22 @@ git remote prune origin
 
 ### License
 
-### Delete branches with day-offset
+### Filter by author, range, and more
 
-    $ git branchcut execute -o 7
-    Switched to branch 'main'
-    Deleted branch bugfix/test (was e2afad6).
-    Deleted branch too-old-branch (was 1d3f82d).
+    $ git spend sum --author stevemao --author antoine@goutenoir.com --since tags/v1.0.0
+    1 week 3 hours
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Steve Mao](https://github.com/stevemao) has waived all copyright and related or neighboring rights to this work.
 
-## [24. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [25. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Resources / Twitter
 
 *   [@end3r](https://twitter.com/end3r) - HTML5 game developer and EnclaveGames indie studio founder
 
-## [25. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [26. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Individuals/Group Contributors / F individuals
 
@@ -985,41 +989,41 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 *   Huon Wilson <http://huonw.github.io/>
 
-## [26. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [27. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Framework Components
 
-*   [raygun (⭐18)](https://github.com/cobenian/raygun) - Capture bugs and send them to Raygun.
+*   [raygun (⭐19)](https://github.com/cobenian/raygun) - Capture bugs and send them to Raygun.
 
 ### Third Party APIs
 
-*   [nadia (⭐363)](https://github.com/zhyu/nadia) - Telegram Bot API Wrapper written in Elixir.
+*   [nadia (⭐361)](https://github.com/zhyu/nadia) - Telegram Bot API Wrapper written in Elixir.
 
-## [27. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [28. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Templates / Misc
 
-*   [Campaign (⭐645)](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
+*   [Campaign (⭐644)](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
 
 ### Resources / Misc
 
 *   [Mailchimp](http://mailchimp.com/resources/) - Super awesome resources from Mailchimp.
 
-## [28. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [29. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Node-Powered CMS Frameworks / Runner
 
-*   [Hatch.js (⭐73)](https://github.com/inventures/hatchjs) - CMS platform with social features.
+*   [Hatch.js (⭐74)](https://github.com/inventures/hatchjs) - CMS platform with social features.
 *   [TaracotJS (⭐19)](https://github.com/xtremespb/taracotjs-generator/) - fast and minimalist CMS based on Node.js.
 
-## [29. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [30. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [YCML (⭐116)](https://github.com/yconst/YCML) - A Machine Learning framework for Objective-C and Swift (OS X / iOS).
+*   [YCML (⭐117)](https://github.com/yconst/YCML) - A Machine Learning framework for Objective-C and Swift (OS X / iOS).
 *   [PredictionBuilder (⭐109)](https://github.com/denissimon/prediction-builder) - A library for machine learning that builds predictions using a linear regression.
 
-## [30. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [31. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
@@ -1038,16 +1042,16 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 *   [Linticator](http://linticator.com) - Eclipse CDT integration of Pc-/FlexeLint.
 
-## [31. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [32. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Containers
 
-*   [Bocker (⭐10k)](https://github.com/p8952/bocker)\
+*   [Bocker (⭐11k)](https://github.com/p8952/bocker)\
     Docker implemented in around 100 lines of bash.
 
 ### Security / Tools
 
-*   [Docker bench security (⭐8k)](https://github.com/docker/docker-bench-security)\
+*   [Docker bench security (⭐8.4k)](https://github.com/docker/docker-bench-security)\
     The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 
 ### Security / Links
@@ -1056,29 +1060,29 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 *   [CIS Docker 1.6 Benchmark v1.0.0](https://benchmarks.cisecurity.org/tools2/docker/CIS_Docker_1.6_Benchmark_v1.0.0.pdf)
 *   [Understanding docker security and best practices](https://blog.docker.com/2015/05/understanding-docker-security-and-best-practices/)
 
-## [32. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [33. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Testing
 
 *   Mock
     *   [doublex](https://pypi.org/project/doublex/) - Powerful test doubles framework for Python.
-    *   [freezegun (⭐3.6k)](https://github.com/spulec/freezegun) - Travel through time by mocking the datetime module.
-    *   [httmock (⭐453)](https://github.com/patrys/httmock) - A mocking library for requests for Python 2.6+ and 3.2+.
-    *   [httpretty (⭐2k)](https://github.com/gabrielfalcao/HTTPretty) - HTTP request mock tool for Python.
+    *   [freezegun (⭐3.7k)](https://github.com/spulec/freezegun) - Travel through time by mocking the datetime module.
+    *   [httmock (⭐458)](https://github.com/patrys/httmock) - A mocking library for requests for Python 2.6+ and 3.2+.
+    *   [httpretty (⭐2.1k)](https://github.com/gabrielfalcao/HTTPretty) - HTTP request mock tool for Python.
     *   [mock](https://docs.python.org/3/library/unittest.mock.html) - (Python standard library) A mocking and patching library.
-    *   [mocket (⭐258)](https://github.com/mindflayer/python-mocket) - A socket mock framework with gevent/asyncio/SSL support.
-    *   [responses (⭐3.8k)](https://github.com/getsentry/responses) - A utility library for mocking out the requests Python library.
+    *   [mocket (⭐264)](https://github.com/mindflayer/python-mocket) - A socket mock framework with gevent/asyncio/SSL support.
+    *   [responses (⭐3.9k)](https://github.com/getsentry/responses) - A utility library for mocking out the requests Python library.
     *   [VCR.py (⭐2.4k)](https://github.com/kevin1024/vcrpy) - Record and replay HTTP interactions on your tests.
 *   Object Factories
     *   [factory\_boy (⭐3.1k)](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python.
-    *   [mixer (⭐881)](https://github.com/klen/mixer) - Another fixtures replacement. Supports Django, Flask, SQLAlchemy, Peewee and etc.
-    *   [model\_mommy (⭐918)](https://github.com/vandersonmota/model_mommy) - Creating random fixtures for testing in Django.
+    *   [mixer (⭐905)](https://github.com/klen/mixer) - Another fixtures replacement. Supports Django, Flask, SQLAlchemy, Peewee and etc.
+    *   [model\_mommy (⭐915)](https://github.com/vandersonmota/model_mommy) - Creating random fixtures for testing in Django.
 
-## [33. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [34. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Malware Analysis (⭐9.8k)](https://github.com/rshipp/awesome-malware-analysis) - A curated list of awesome malware analysis tools and resources.
+*   [Awesome Malware Analysis (⭐10k)](https://github.com/rshipp/awesome-malware-analysis) - A curated list of awesome malware analysis tools and resources.
 
 ---
 

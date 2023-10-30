@@ -10,7 +10,7 @@
 
 ### Books, blogs and training materials / Community Chat Rooms
 
-*   [Writing an embedded OS in Rust on the Raspberry Pi (⭐11k)](https://github.com/rust-embedded/rust-raspi3-OS-tutorials) A set of tutorials that give a guided, step-by-step tour of how to write a monolithic Operating System kernel for an embedded system from scratch. Runs on the Raspberry Pi 3 and the Raspberry Pi 4.
+*   [Writing an embedded OS in Rust on the Raspberry Pi (⭐12k)](https://github.com/rust-embedded/rust-raspi3-OS-tutorials) A set of tutorials that give a guided, step-by-step tour of how to write a monolithic Operating System kernel for an embedded system from scratch. Runs on the Raspberry Pi 3 and the Raspberry Pi 4.
 
 ## [2. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 
@@ -20,7 +20,7 @@
 
 ## [3. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### JVM and JDK
+### JVM and JDK / Text-Based User Interfaces
 
 *   [Adopt Open JDK](https://adoptopenjdk.net) - Community-driven OpenJDK builds, including both HotSpot and OpenJ9.
 *   [Open JDK](https://openjdk.java.net) - Open JDK community home. (GPL-2.0-only WITH Classpath-exception-2.0)
@@ -39,7 +39,7 @@
 
 ### Boilerplate / Mouse Events
 
-*   [create-react-dependency (⭐26)](https://github.com/andrelmlins/create-react-dependency) - Create react dependencies with no build configuration.
+*   [create-react-dependency (⭐25)](https://github.com/andrelmlins/create-react-dependency) - Create react dependencies with no build configuration.
 
 ## [6. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

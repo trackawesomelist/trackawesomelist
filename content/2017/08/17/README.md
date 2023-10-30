@@ -113,10 +113,6 @@
 *   [Wat Nong Pah Pong](http://watnongpahpong.org/indexe.php) - Ubon Ratchathani, Thailand - Forest monastery established by the venerable Ajahn Chah.
 *   [Wat Pah Nanachat](http://www.watpahnanachat.org/) - Ubon Ratchathani, Thailand - Where English-speakers can practice the simple lifestyle as taught by the Buddha.
 
-### Videos / Individual Videos
-
-*   [The Mindful Way](https://www.youtube.com/watch?v=Anf1yhX9VQo) - BBC documentary about the life and function of a Buddhist monastery of the Forest Tradition in Thailand.
-
 ### Videos / YouTube Channels
 
 *   [Short Dhamma Talks by Thanissaro Bhikkhu](https://www.youtube.com/channel/UCQRkIum1cnPNI5QZ0XtIMWw) - Daily talks given by Thanissaro Bhikkhu at Metta Forest Monastery.
@@ -133,7 +129,7 @@
 
 ### Reverse Engineering / Reverse Engineering Tools
 
-*   [Voltron (⭐5.9k)](https://github.com/snare/voltron) - Extensible debugger UI toolkit written in Python.
+*   [Voltron (⭐6k)](https://github.com/snare/voltron) - Extensible debugger UI toolkit written in Python.
 
 ## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
@@ -153,8 +149,8 @@
 
 *   [CIDER (Emacs) (⭐3.4k)](https://github.com/clojure-emacs/cider)
 *   [smartparens (Emacs) (⭐1.7k)](https://github.com/Fuco1/smartparens)
-*   [rainbow-delimiters (Emacs) (⭐605)](https://github.com/Fanael/rainbow-delimiters)
-*   [aggressive-indent (Emacs) (⭐803)](https://github.com/Malabarba/aggressive-indent-mode)
+*   [rainbow-delimiters (Emacs) (⭐613)](https://github.com/Fanael/rainbow-delimiters)
+*   [aggressive-indent (Emacs) (⭐808)](https://github.com/Malabarba/aggressive-indent-mode)
 *   [vim-fireplace (Vim) (⭐1.7k)](https://github.com/tpope/vim-fireplace)
 *   [vim-redl (Vim) (⭐107)](https://github.com/dgrnbrg/vim-redl)
 *   [vim-leiningen (Vim) (⭐196)](https://github.com/tpope/vim-salve)
@@ -163,19 +159,19 @@
 
 ### Guides
 
-*   [The Clojure Style Guide (⭐3.9k)](https://github.com/bbatsov/clojure-style-guide)
+*   [The Clojure Style Guide (⭐4k)](https://github.com/bbatsov/clojure-style-guide)
 
 ## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### GUI
 
-*   [libui (⭐10k)](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports. \[MIT]
+*   [libui (⭐11k)](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports. \[MIT]
 
 ## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
-*   [Auth0 (⭐251)](https://github.com/auth0/auth0.net) - Hosted, enterprise-grade platform for modern identity.
+*   [Auth0 (⭐298)](https://github.com/auth0/auth0.net) - Hosted, enterprise-grade platform for modern identity.
 
 ## [11. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 

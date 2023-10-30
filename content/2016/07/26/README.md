@@ -50,7 +50,7 @@
 
 ### Styleguides
 
-*   [rrrene/elixir-style-guide (⭐393)](https://github.com/rrrene/elixir-style-guide) - Style guide checked by [Credo (⭐4.6k)](https://github.com/rrrene/credo).
+*   [rrrene/elixir-style-guide (⭐395)](https://github.com/rrrene/elixir-style-guide) - Style guide checked by [Credo (⭐4.7k)](https://github.com/rrrene/credo).
 
 ## [7. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Libraries / Python
 
-*   [minimongo (⭐328)](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface
+*   [minimongo (⭐332)](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface
 
 ## [9. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
@@ -97,7 +97,7 @@
 
 ### Internationalization
 
-*   [MessageFormat.NET (⭐143)](https://github.com/jeffijoe/MessageFormat.NET) - ICU MessageFormat implementation in .NET lets you write contextual UI messages (PCL library)
+*   [MessageFormat.NET (⭐150)](https://github.com/jeffijoe/MessageFormat.NET) - ICU MessageFormat implementation in .NET lets you write contextual UI messages (PCL library)
 
 ---
 

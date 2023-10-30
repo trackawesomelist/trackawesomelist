@@ -10,15 +10,15 @@
 
 ### Markup
 
-*   [Markup plugin (⭐3)](https://github.com/dereuromark/cakephp-markup) - Allows to use PHP or JS based syntax highlighting.
+*   🍰 [Markup plugin (⭐3)](https://github.com/dereuromark/cakephp-markup) - Allows to use PHP or JS based syntax highlighting.
 
 ### Miscellaneous
 
-*   [Setup:Maintenance (⭐35)](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
+*   🍰 [Setup:Maintenance (⭐34)](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
 
 ### Social
 
-*   [Ratings plugin](https://github.com/dereuromark/cakephp-ratings) - Allows users to rate records and displays ratings.
+*   🍰 [Ratings plugin (⭐9)](https://github.com/dereuromark/cakephp-ratings) - Allows users to rate records and displays ratings.
 
 ## [2. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -42,13 +42,13 @@
 
 ### Automation / Frameworks
 
-*   [Performance testing framework (⭐363)](https://github.com/serputko/performance-testing-framework) - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
+*   [Performance testing framework (⭐374)](https://github.com/serputko/performance-testing-framework) - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
 
 ## [4. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
-*   [StringSifter (⭐612)](https://github.com/fireeye/stringsifter) - A machine learning tool that ranks strings based on their relevance for malware analysis.
+*   [StringSifter (⭐624)](https://github.com/fireeye/stringsifter) - A machine learning tool that ranks strings based on their relevance for malware analysis.
 
 ## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -58,7 +58,7 @@
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [IBI Data Tools (⭐93)](https://github.com/ibi-group/datatools-ui) - A web application that handles GTFS editing, validating, quality checking, and deploying to OpenTripPlanner. (Combines and builds upon the functionality of the deprecated [Gtfs Data Manager (⭐25)](https://github.com/conveyal/gtfs-data-manager) and [GTFS Editor (⭐130)](https://github.com/conveyal/gtfs-editor).)
+*   [IBI Data Tools (⭐97)](https://github.com/ibi-group/datatools-ui) - A web application that handles GTFS editing, validating, quality checking, and deploying to OpenTripPlanner. (Combines and builds upon the functionality of the deprecated [Gtfs Data Manager (⭐24)](https://github.com/conveyal/gtfs-data-manager) and [GTFS Editor (⭐131)](https://github.com/conveyal/gtfs-editor).)
 
 ## [6. Awesome Economics](/content/antontarasenko/awesome-economics/README.md)
 
@@ -95,13 +95,13 @@
 
 ### Libraries
 
-*   [futil-js (⭐825)](https://github.com/smartprocure/futil-js) - A collection of functional utilities that could conceivably be part of a library like lodash/fp, but for some reason or other are not.
+*   [futil-js (⭐896)](https://github.com/smartprocure/futil-js) - A collection of functional utilities that could conceivably be part of a library like lodash/fp, but for some reason or other are not.
 
 ## [11. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
 ### CMS & Blogs
 
-*   [Hummingbird CMS (⭐6)](https://github.com/mvanvu/hummingbird-cms) - A CMS based on Phalcon 4 with many powerful features
+*   [Hummingbird CMS (⭐7)](https://github.com/mvanvu/hummingbird-cms) - A CMS based on Phalcon 4 with many powerful features
 
 ## [12. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
@@ -115,7 +115,7 @@
 
 ### Remote Work / Technical Debt
 
-*   [Awesome Remote Job (⭐24k)](https://github.com/lukasz-madon/awesome-remote-job) - Resources on working remotely, including job boards, coworking spaces, and a list of companies embracing the culture.
+*   [Awesome Remote Job (⭐26k)](https://github.com/lukasz-madon/awesome-remote-job) - Resources on working remotely, including job boards, coworking spaces, and a list of companies embracing the culture.
 
 ### Agile / Tickets
 
@@ -139,7 +139,7 @@
 
 ### Marketplace / Market Research
 
-*   [Papers we love: Auctions and Bidding (⭐72k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
+*   [Papers we love: Auctions and Bidding (⭐76k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
 
 ### Taxes / Currencies
 
@@ -163,12 +163,11 @@
 
 ### Business Intelligence / Tools
 
-*   [Metabase (⭐32k)](https://github.com/metabase/metabase) - Metabase is an open source solution to explore and visualize data and supports lots of databases.
+*   [Metabase (⭐34k)](https://github.com/metabase/metabase) - Metabase is an open source solution to explore and visualize data and supports lots of databases.
 
 ### Competitive Analysis / Cloud providers
 
 *   [More choice, less complexity: New Compute Engine pricing options on tap](https://cloud.google.com/blog/products/compute/more-choice-less-complexity-new-compute-engine-pricing-options-on-tap) - A wrap-up of recent GCP pricing features.
-*   [Orbitera](https://www.orbitera.com) - GCP's billing subsidiary.
 
 ---
 

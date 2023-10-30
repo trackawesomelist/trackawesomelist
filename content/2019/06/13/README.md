@@ -42,23 +42,23 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-backtotop (⭐181)](https://github.com/caiofsouza/vue-backtotop) - A Back-to-top component for Vue.js, which scroll page to the top when clicked.
+*   [vue-backtotop (⭐182)](https://github.com/caiofsouza/vue-backtotop) - A Back-to-top component for Vue.js, which scroll page to the top when clicked.
 
 ## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Monetization / Preferences
 
-*   [Square In-App Payments SDK (⭐317)](https://github.com/square/in-app-payments-flutter-plugin) <!--stargazers:square/in-app-payments-flutter-plugin--> - Take payments by embedding a card entry form in your app that produces nonces from customer-provided card information or digital wallets by [Square](https://github.com/orgs/square)
+*   [Square In-App Payments SDK (⭐326)](https://github.com/square/in-app-payments-flutter-plugin) <!--stargazers:square/in-app-payments-flutter-plugin--> - Take payments by embedding a card entry form in your app that produces nonces from customer-provided card information or digital wallets by [Square](https://github.com/orgs/square)
 
 ## [7. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ### Github Libraries / Randomized Algorithms
 
 *   C++
-    *   [by @xtaci (⭐4.8k)](https://github.com/xtaci/algorithms)
-    *   [by @PetarV- (⭐600)](https://github.com/PetarV-/Algorithms)
+    *   [by @xtaci (⭐5k)](https://github.com/xtaci/algorithms)
+    *   [by @PetarV- (⭐617)](https://github.com/PetarV-/Algorithms)
     *   [by @faheel (⭐491)](https://github.com/faheel/Algos)
-    *   [by @sslotin (⭐140)](http://github.com/sslotin/algo)
+    *   [by @sslotin (⭐154)](http://github.com/sslotin/algo)
 
 ---
 

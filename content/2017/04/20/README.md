@@ -14,11 +14,11 @@
 
 ### Applications / Directory Navigation
 
-*   [choosealicense-cli (⭐65)](https://github.com/lord63/choosealicense-cli) - Choose an OSS license from the comfort of your terminal
+*   [choosealicense-cli (⭐66)](https://github.com/lord63/choosealicense-cli) - Choose an OSS license from the comfort of your terminal
 
 ### Shell Package Management / Directory Navigation
 
-*   [vcsh (⭐2k)](https://github.com/RichiH/vcsh) - Config manager based on Git
+*   [vcsh (⭐2.1k)](https://github.com/RichiH/vcsh) - Config manager based on Git
 
 ### Shell Script Development / Directory Navigation
 
@@ -42,19 +42,19 @@
 
 *   [Awesome Ruby (⭐13k)](https://github.com/markets/awesome-ruby#natural-language-processing) -
     Among other awesome items a short list of NLP related projects.
-*   [Ruby NLP (⭐1.2k)](https://github.com/diasks2/ruby-nlp) -
+*   [Ruby NLP (⭐1.3k)](https://github.com/diasks2/ruby-nlp) -
     State-of-Art collection of Ruby libraries for NLP.
-*   [Speech and Natural Language Processing (⭐2.1k)](https://github.com/edobashira/speech-language-processing) -
+*   [Speech and Natural Language Processing (⭐2.2k)](https://github.com/edobashira/speech-language-processing) -
     General List of NLP related resources (mostly not for Ruby programmers).
 *   [Scientific Ruby](http://sciruby.com/) -
     Linear Algebra, Visualization and Scientific Computing for Ruby.
 *   [Kiba (⭐1.7k)](https://github.com/thbar/kiba) -
     Lightweight [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) (Extract, Transform, Load) pipeline.
-*   [Awesome OCR (⭐2.3k)](https://github.com/kba/awesome-ocr) -
+*   [Awesome OCR (⭐2.4k)](https://github.com/kba/awesome-ocr) -
     Multitude of OCR (Optical Character Recognition) resources.
 *   [Awesome TensorFlow (⭐17k)](https://github.com/jtoy/awesome-tensorflow) -
     Machine Learning with TensorFlow libraries.
-*   [rb-gsl (⭐93)](https://github.com/SciRuby/rb-gsl) -
+*   [rb-gsl (⭐96)](https://github.com/SciRuby/rb-gsl) -
     Ruby interface to the [GNU Scientific Library](https://www.gnu.org/software/gsl/).
 *   [The Definitive Guide to Ruby's C API](https://silverhammermba.github.io/emberb/) -
     Modern Reference and Tutorial on Embedding and Extending Ruby using C programming language.
@@ -111,7 +111,7 @@
 
 ### Contents / Data
 
-*   [Synthea Patient Generator (⭐1.7k)](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
+*   [Synthea Patient Generator (⭐1.8k)](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
 
 ## [8. Citizen Science](/content/dylanrees/citizen-science/README.md)
 

@@ -20,7 +20,7 @@
 
 ### Example Projects
 
-*   [A Keycloak Mobile Implementation using Angular v4 and Ionic v3 (⭐25)](https://github.com/tomjackman/keyonic-v2)
+*   [A Keycloak Mobile Implementation using Angular v4 and Ionic v3 (⭐24)](https://github.com/tomjackman/keyonic-v2)
 
 ## [3. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Cartridges / Custom cartridges
 
-*   [Homebrew Gameboy Color Cartridge (⭐62)](https://github.com/Xyl2k/Gameboy-Color-Cartridge) - Board layout for an EEPROM powered cartridge.
+*   [Homebrew Gameboy Color Cartridge (⭐68)](https://github.com/Xyl2k/Gameboy-Color-Cartridge) - Board layout for an EEPROM powered cartridge.
 
 ### Tools / Graphics utilities
 
@@ -38,32 +38,32 @@
 
 ### ASM / Music drivers and trackers
 
-*   [DMGreport (⭐52)](https://github.com/lancekindle/DMGreport) - Game programming tutorials in assembly.
+*   [DMGreport (⭐56)](https://github.com/lancekindle/DMGreport) - Game programming tutorials in assembly.
 
 ### ASM / Sources
 
 *   [dev'rs ASM section](http://www.devrs.com/gb/asmcode.php) - A lot of working demos and sources.
-*   [EmmaEwert's experiments (⭐17)](https://github.com/EmmaEwert/gameboy) - A collection of prototype programs, mostly just toying around. Among others, a daylight effect, transparency and a weather effect.
+*   [EmmaEwert's experiments (⭐19)](https://github.com/EmmaEwert/gameboy) - A collection of prototype programs, mostly just toying around. Among others, a daylight effect, transparency and a weather effect.
 
 ### ASM / Syntax highlighting packages
 
 *   [Vim syntax file for the Game Boy assembler RGBASM](http://www.vim.org/scripts/script.php?script_id=819) - Vim syntax highlighting for RGBDS assembly.
 *   [Vim syntax file for RGBDS (⭐10)](https://github.com/Leandros/dotfiles/blob/master/.vim/syntax/rgbds.vim) - Another Vim syntax highlighting file for RGBDS assembly.
-*   [Z80 Assembly support for Visual Studio Code (⭐26)](https://github.com/Imanolea/z80asm-vscode)
-*   [minesweepGB (⭐9)](https://github.com/lancekindle/minesweepGB)
-*   [Libbet and the Magic Floor (⭐32)](https://github.com/pinobatch/libbet)
+*   [Z80 Assembly support for Visual Studio Code (⭐30)](https://github.com/Imanolea/z80asm-vscode)
+*   [minesweepGB (⭐11)](https://github.com/lancekindle/minesweepGB)
+*   [Libbet and the Magic Floor (⭐34)](https://github.com/pinobatch/libbet)
 
 ### Reverse Engineering / Syntax highlighting packages
 
 *   [Reverse engineering Kirby's Dreamland 2](http://ecc-comp.blogspot.it/2016/03/reverse-engineering-kirbys-dreamland-2.html)
-*   [pokemontools (⭐305)](https://github.com/pret/pokemon-reverse-engineering-tools) - a python module that provides various reverse engineering components for various Pokémon games.
+*   [pokemontools (⭐314)](https://github.com/pret/pokemon-reverse-engineering-tools) - a python module that provides various reverse engineering components for various Pokémon games.
 *   [Reverse Engineering a Gameboy ROM with radare2](https://www.megabeets.net/reverse-engineering-a-gameboy-rom-with-radare2) - A walkthrough to reverse engineer a Game Boy ROM challenge using radare2.
 *   [Disassembling Link's Awakening](http://kemenaran.winosx.com/posts/category-disassembling-links-awakening/) - A series of blog posts about disassembling Link's Awakening DX.
-*   [Reverse Engineering the GameBoy Tetris (⭐21)](https://github.com/h3nnn4n/Reverse-Engineering-the-GameBoy-Tetris)
+*   [Reverse Engineering the GameBoy Tetris (⭐24)](https://github.com/h3nnn4n/Reverse-Engineering-the-GameBoy-Tetris)
 
 ### Related projects / Syntax highlighting packages
 
-*   [gbos (⭐22)](https://github.com/ekimekim/gbos) - A basic operating system for the Game Boy.
+*   [gbos (⭐25)](https://github.com/ekimekim/gbos) - A basic operating system for the Game Boy.
 
 ## [4. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

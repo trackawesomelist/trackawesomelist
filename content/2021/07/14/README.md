@@ -10,19 +10,19 @@
 
 ### Libraries
 
-*   [NetKet (⭐420)](https://github.com/netket/netket) - Machine Learning toolbox for Quantum Physics. <img src="https://img.shields.io/github/stars/netket/netket?style=social" align="center">
+*   [NetKet (⭐455)](https://github.com/netket/netket) - Machine Learning toolbox for Quantum Physics. <img src="https://img.shields.io/github/stars/netket/netket?style=social" align="center">
 
 ## [2. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
-*   [StoryTeller Engine (⭐17)](https://github.com/HeavenMercy/StoryTeller-Engine) - Dialog and interactive fiction engine (Godot 3.x).
+*   [StoryTeller Engine (⭐20)](https://github.com/HeavenMercy/StoryTeller-Engine) - Dialog and interactive fiction engine (Godot 3.x).
 
 ## [3. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
 ### Image Generation
 
-*   [hololive-fusion-generator (⭐101)](https://github.com/vaexenc/hololive-fusion-generator) - Dynamically generates combinations of names and pictures of Hololive members on the fly. \[English]
+*   [hololive-fusion-generator (⭐108)](https://github.com/vaexenc/hololive-fusion-generator) - Dynamically generates combinations of names and pictures of Hololive members on the fly. \[English]
 
 ## [4. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
@@ -56,13 +56,13 @@
 
 ### Game Engine
 
-*   [o3de (⭐6.2k)](https://github.com/o3de/o3de) - An open-source, real-time, multi-platform 3D engine based on Amazon Lumberyard. \[Apache2] [website](https://o3de.org/)
+*   [o3de (⭐6.7k)](https://github.com/o3de/o3de) - An open-source, real-time, multi-platform 3D engine based on Amazon Lumberyard. \[Apache2] [website](https://o3de.org/)
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Email
 
-*   [EmailJS](https://www.emailjs.com/) – This is not a full email server, this is just email client which you can use to send emails right from client send without exposing your credentials, the free tier has: 200 monthly requests, 2 email templates, Requests up to 50Kb, Limited contacts history.
+*   [EmailJS](https://www.emailjs.com/) – This is not an entire email server; this is just an email client that you can use to send emails right from the client without exposing your credentials, the free tier has 200 monthly requests, 2 email templates, Requests up to 50Kb, Limited contacts history.
 
 ### Issue Tracking and Project Management
 

@@ -10,13 +10,13 @@
 
 ### Memory Allocation
 
-*   [mimalloc (⭐8.2k)](https://github.com/microsoft/mimalloc) - A compact general purpose allocator with excellent performance. \[MIT]
+*   [mimalloc (⭐8.6k)](https://github.com/microsoft/mimalloc) - A compact general purpose allocator with excellent performance. \[MIT]
 
 ## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### .Net Core
 
-*   [Bike (⭐114)](https://github.com/Lovesan/bike) - a cross-platform .Net Core interface. [MIT](https://opensource.org/licenses/MIT).
+*   [Bike (⭐118)](https://github.com/Lovesan/bike) - a cross-platform .Net Core interface. [MIT](https://opensource.org/licenses/MIT).
 
 ### Miscellaneous
 

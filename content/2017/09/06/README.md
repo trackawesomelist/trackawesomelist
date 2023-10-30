@@ -36,11 +36,11 @@
 
 ### Frameworks, Libraries and Tools / Database
 
-*   [DBreeze (⭐445)](https://github.com/hhblaze/DBreeze) - C# .NET MONO NOSQL (key value store embedded) ACID multi-paradigm database management system.
-*   [JsonFlatFileDataStore (⭐323)](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data.
-*   [NoDb (⭐178)](https://github.com/joeaudette/NoDb) - "no database" file system storage for .NET Core/ASP.NET Core because not every project needs a database.
-*   [marten (⭐1.9k)](https://github.com/JasperFx/marten) - Postgresql as a Document Database and Event Store for .NET Applications <http://jasperfx.github.io/marten>.
-*   [yessql (⭐1k)](https://github.com/sebastienros/yessql) - .NET document database working on any RDBMS.
+*   [DBreeze (⭐481)](https://github.com/hhblaze/DBreeze) - C# .NET MONO NOSQL (key value store embedded) ACID multi-paradigm database management system.
+*   [JsonFlatFileDataStore (⭐389)](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data.
+*   [NoDb (⭐182)](https://github.com/joeaudette/NoDb) - "no database" file system storage for .NET Core/ASP.NET Core because not every project needs a database.
+*   [marten (⭐2.5k)](https://github.com/JasperFx/marten) - Postgresql as a Document Database and Event Store for .NET Applications <http://jasperfx.github.io/marten>.
+*   [yessql (⭐1.1k)](https://github.com/sebastienros/yessql) - .NET document database working on any RDBMS.
 
 ### Frameworks, Libraries and Tools / SDKs
 

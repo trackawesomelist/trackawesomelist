@@ -50,7 +50,7 @@
 
 ### Hosted Readers / Outline Processor Markup Language
 
-*   [Feedly](https://feedly.com) <sup>[322](https://t.me/s/aboutrss/332), [759](https://t.me/s/aboutrss/759)</sup> ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)[![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/feedly-smart-news-reader/id396069556)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.devhd.feedly)
+*   [Feedly](https://feedly.com) <sup>[322](https://t.me/s/aboutrss/332), [759](https://t.me/s/aboutrss/759)</sup> ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)[![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/feedly-smart-news-reader/id396069556)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.devhd.feedly)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
     *   [Feedly Notifier](https://olsh.me/Feedly-Notifier/) <sup>[913](https://t.me/s/aboutrss/913)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/feedly-notifier/egikgfbhipinieabdmcpigejkaomgjgb)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/feedly-notifier/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/olsh/Feedly-Notifier/)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [已思 OhMyRSS](https://ohmyrss.com/) <sup>[390](https://t.me/s/aboutrss/390)</sup> ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/richshaw2015/oh-my-rss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [A RSS Reader Demo partially using blockchain](http://tool.ppkpub.org/rss/) <sup>[891](https://t.me/s/aboutrss/891)</sup> ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://www.chainnode.com/post/452368)
@@ -72,7 +72,7 @@
 
 ### specifically from (*a certain platform*) / ProductHunt
 
-*   [ProductHunt daily RSS feed (⭐28)](https://github.com/headllines/producthunt-daily-rss) <sup>[918](https://t.me/s/aboutrss/918)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/headllines/producthunt-daily-rss)
+*   [ProductHunt daily RSS feed (⭐32)](https://github.com/headllines/producthunt-daily-rss) <sup>[918](https://t.me/s/aboutrss/918)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/headllines/producthunt-daily-rss)
 
 ### specifically from (*a certain platform*) / YouTube
 
@@ -83,17 +83,17 @@
 
 *   [Spotifeed](https://spotifeed.timdorr.com/) <sup>[898](https://t.me/s/aboutrss/898)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/timdorr/spotifeed)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### Feed item filtering / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Feed item filtering / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Feed Control](https://feedcontrol.fivefilters.org/) <sup>[919](https://t.me/s/aboutrss/919)</sup>
 
-### Obtain translated RSS feed / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Obtain translated RSS feed / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [by Using Javascript](https://8430177.github.io/post/jiang-rss-yuan-fan-yi-cheng-zhi-ding-yu-yan-hou-fan-hui/) <sup>[904](https://t.me/s/aboutrss/904)</sup>
 
-### RSS Feed Finding/Detection / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### RSS Feed Finding/Detection / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [RSSAid (⭐641)](https://github.com/lt94/RSSAid/) <sup>[911](https://t.me/s/aboutrss/911)</sup> : Android-version RSSHub Radar [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://github.com/lt94/RSSAid/releases)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lt94/RSSAid/)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [RSSAid (⭐778)](https://github.com/lt94/RSSAid/) <sup>[911](https://t.me/s/aboutrss/911)</sup> : Android-version RSSHub Radar [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://github.com/lt94/RSSAid/releases)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lt94/RSSAid/)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Multi-subject / Crypto or Blockchain relevant
 
@@ -121,7 +121,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Your Spotify (⭐1.6k)](https://github.com/Yooooomi/your_spotify) `⚠` - Allows you to record your Spotify listening activity and have statistics about them served through a Web application. `MIT` `Nodejs/Docker`
+*   [Your Spotify (⭐1.9k)](https://github.com/Yooooomi/your_spotify) `⚠` - Allows you to record your Spotify listening activity and have statistics about them served through a Web application. `MIT` `Nodejs/Docker`
 
 ## [7. Awesome Indie](/content/mezod/awesome-indie/README.md)
 
@@ -139,7 +139,7 @@
 
 ## [9. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### Game Development
+### Game Development / Text-Based User Interfaces
 
 *   [JBox2D](http://www.jbox2d.org/) - Port of the renowned C++ 2D physics engine.
 *   [libGDX](https://libgdx.com) - All-round cross-platform, high-level framework.
@@ -155,15 +155,15 @@
 
 ### Content Management Systems
 
-*   [Silverstripe CMS (⭐44)](https://github.com/wernerkrauss/awesome-silverstripe-cms#readme) - PHP MVC framework that serves as a classic or headless CMS.
+*   [Silverstripe CMS (⭐46)](https://github.com/wernerkrauss/awesome-silverstripe-cms#readme) - PHP MVC framework that serves as a classic or headless CMS.
 
 ### Hardware
 
-*   [Robotic Tooling (⭐2.5k)](https://github.com/protontypes/awesome-robotic-tooling#readme) - Free and open tools for professional robotic development.
+*   [Robotic Tooling (⭐2.7k)](https://github.com/protontypes/awesome-robotic-tooling#readme) - Free and open tools for professional robotic development.
 
 ### Miscellaneous
 
-*   [Biological Visualizations (⭐121)](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
+*   [Biological Visualizations (⭐138)](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
 
 ## [12. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 

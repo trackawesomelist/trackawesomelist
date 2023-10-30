@@ -10,17 +10,17 @@
 
 ### Errors and Exception Handling
 
-*   [OK (⭐589)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
+*   [OK (⭐591)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Search
 
-*   [hermes (⭐38)](https://github.com/imdrasil/hermes.cr) - Data Mapper pattern implementation for ElastiSearch
+*   [hermes (⭐37)](https://github.com/imdrasil/hermes.cr) - Data Mapper pattern implementation for ElastiSearch
 
 ### Task management
 
-*   [sam (⭐86)](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
+*   [sam (⭐89)](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
 
 ## [3. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
@@ -59,7 +59,7 @@
 
 ### QA Tools / Runner
 
-*   [JavaScript Standard Style (⭐28k)](https://github.com/feross/standard) - Opinionated, no-configuration style guide, style checker, and formatter
+*   [JavaScript Standard Style (⭐29k)](https://github.com/feross/standard) - Opinionated, no-configuration style guide, style checker, and formatter
 
 ## [8. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
 

@@ -10,7 +10,7 @@
 
 ### React Internationalization
 
-*   [react-i18next (⭐8.2k)](https://github.com/i18next/react-i18next) - Internationalization for React done right
+*   [react-i18next (⭐8.5k)](https://github.com/i18next/react-i18next) - Internationalization for React done right
 
 ## [2. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 
@@ -23,14 +23,14 @@
 
 ### Machine Learning Libraries / Frameworks
 
-*   [rumale (⭐644)](https://github.com/yoshoku/rumale) -
+*   [rumale (⭐700)](https://github.com/yoshoku/rumale) -
     Machine Learninig toolkit in Ruby with wide range of implemented algorithms
     (SVM, Logistic Regression, Linear Regression, Random Forest etc.) and
     interfaces similar to [Scikit-Learn](https://scikit-learn.org/stable/index.html) in Python.
 
 ### Machine Learning Libraries / Deep learning
 
-*   [tensorflow (⭐825)](https://github.com/somaticio/tensorflow.rb) - Ruby bindings for [TensorFlow](https://www.tensorflow.org/).
+*   [tensorflow (⭐824)](https://github.com/somaticio/tensorflow.rb) - Ruby bindings for [TensorFlow](https://www.tensorflow.org/).
 
 ### Related Resources / Vector search
 
@@ -43,7 +43,7 @@
 
 ### Packages / Utilities
 
-*   [web-audio-generator (⭐56)](https://github.com/ISNIT0/webaudio-generator) - A UI for generating Web Audio code.
+*   [web-audio-generator (⭐57)](https://github.com/ISNIT0/webaudio-generator) - A UI for generating Web Audio code.
 
 ---
 

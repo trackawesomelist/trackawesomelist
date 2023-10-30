@@ -47,7 +47,7 @@
 
 ### Boilerplates / Other
 
-*   [electron-react-boilerplate (⭐21k)](https://github.com/chentsulin/electron-react-boilerplate) - Boilerplate based on React and webpack.
+*   [electron-react-boilerplate (⭐22k)](https://github.com/chentsulin/electron-react-boilerplate) - Boilerplate based on React and webpack.
 
 ### Videos / Other
 

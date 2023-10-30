@@ -26,16 +26,16 @@
 
 ### Chemistry
 
-*   [MADNESS (⭐150)](https://github.com/m-a-d-n-e-s-s/madness) - Multiresolution Adaptive Numerical Environment for Scientific Simulation. \[GPL] [website (⭐150)](https://github.com/m-a-d-n-e-s-s/madness)
-*   [MPQC (⭐57)](https://github.com/ValeevGroup/mpqc) - The Massively Parallel Quantum Chemistry program, MPQC, computes properties of atoms and molecules from first principles using the time independent Schrödinger equation. \[GPL] [website](https://mpqc.org/)
+*   [MADNESS (⭐156)](https://github.com/m-a-d-n-e-s-s/madness) - Multiresolution Adaptive Numerical Environment for Scientific Simulation. \[GPL] [website (⭐156)](https://github.com/m-a-d-n-e-s-s/madness)
+*   [MPQC (⭐59)](https://github.com/ValeevGroup/mpqc) - The Massively Parallel Quantum Chemistry program, MPQC, computes properties of atoms and molecules from first principles using the time independent Schrödinger equation. \[GPL] [website](https://mpqc.org/)
 *   [ORCA](https://en.wikipedia.org/wiki/ORCA_\(quantum_chemistry_program\)) - An ab initio quantum chemistry program package that contains modern electronic structure methods. \[Academic] [website](https://orcaforum.kofo.mpg.de/)
-*   [Psi (⭐805)](https://github.com/psi4/psi4) - An ab initio computational chemistry package. \[GPL] [website](https://psicode.org/)
+*   [Psi (⭐852)](https://github.com/psi4/psi4) - An ab initio computational chemistry package. \[GPL] [website](https://psicode.org/)
 
 ## [4. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ### Simulators / Analog and Mixed Signal Circuit Simulators
 
-*   [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project (⭐27)](https://github.com/geckocircuits/GeckoCIRCUITS). Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
+*   [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project (⭐37)](https://github.com/geckocircuits/GeckoCIRCUITS). Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
 
 ## [5. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -45,7 +45,7 @@
 
 ## [6. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
-### Other / Machine translation
+### Tools / Automatic translation for end users
 
 *   [Watson Language Translator](https://www.ibm.com/cloud/watson-language-translator) - A service on the IBM Cloud that enables dynamically translation news, patents, or conversational documents.
 
@@ -77,12 +77,12 @@
 ### Algorithms / Semantic segmentation
 
 *   [SuperPoint Graph :newspaper:](https://arxiv.org/pdf/1711.09869.pdf)- Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs
-    *   [GitHub repository :octocat: (⭐420)](https://github.com/PRBonn/LiDAR-MOS)
+    *   [GitHub repository :octocat: (⭐480)](https://github.com/PRBonn/LiDAR-MOS)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=Ijr3kGSU_tU)
 
 ### Related awesome / Object detection and object tracking
 
-*   [Awesome electronics :octocat: (⭐4.6k)](https://github.com/kitspace/awesome-electronics#readme)
+*   [Awesome electronics :octocat: (⭐4.9k)](https://github.com/kitspace/awesome-electronics#readme)
 
 ---
 

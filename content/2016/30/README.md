@@ -51,7 +51,7 @@
 
 ### Registry
 
-*   [npm-register (⭐480)](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy.
+*   [npm-register (⭐478)](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy.
 
 ## [8. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
@@ -120,14 +120,14 @@
 
 ### Machine Learning / Runner
 
-*   [DN2A (⭐462)](https://github.com/dn2a/dn2a-javascript) - Digital Neural Networks Architecture.
+*   [DN2A (⭐461)](https://github.com/dn2a/dn2a-javascript) - Digital Neural Networks Architecture.
 *   [Brain.js (⭐8k)](https://github.com/harthur/brain) - Neural networks in JavaScript.
 *   [Mind.js (⭐1.5k)](https://github.com/stevenmiller888/mind) - A flexible neural network library.
 *   [Synaptic.js (⭐6.9k)](https://github.com/cazala/synaptic) - Architecture-free neural network library for node.js and the browser.
 
-### Podcasts / Other
+### Misc / Other
 
-*   [How to Write an Open Source JavaScript Library (⭐176)](https://github.com/sarbbottam/write-an-open-source-js-lib) - A comprehensive guide through a set of steps to publish a JavaScript open source library.
+*   [How to Write an Open Source JavaScript Library (⭐175)](https://github.com/sarbbottam/write-an-open-source-js-lib) - A comprehensive guide through a set of steps to publish a JavaScript open source library.
 
 ## [16. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
@@ -234,7 +234,7 @@
 
 ### Command-Line Productivity
 
-*   [aliases (⭐442)](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for bash
+*   [aliases (⭐472)](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for bash
 
 ## [23. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
@@ -298,26 +298,25 @@
 ### Applications / Episodes
 
 *   [Kayak](http://kayak.2codeornot2code.org/) - Java application for CAN bus diagnosis and monitoring.
-*   [UDSim (⭐226)](https://github.com/zombieCraig/UDSim/) - GUI tool that can monitor a CAN bus and automatically learn the devices attached to it by watching communications.
+*   [UDSim (⭐245)](https://github.com/zombieCraig/UDSim/) - GUI tool that can monitor a CAN bus and automatically learn the devices attached to it by watching communications.
 *   [RomRaider](http://www.romraider.com/) - An open source tuning suite for the Subaru engine control unit that lets you view and log data and tune the ECU.
-*   [O2OO](https://www.vanheusden.com/O2OO/) - Works with the ELM327 to record data to a SQLite database for graphing purposes. It also supports reading GPS data. You can connect this to your car and have it map out using Google Maps KML data where you drive.
 
 ### Libraries and Tools / C
 
-*   [SocketCAN Utils (⭐1.8k)](https://github.com/linux-can/can-utils) - Userspace utilites for SocketCAN on Linux.
+*   [SocketCAN Utils (⭐2k)](https://github.com/linux-can/can-utils) - Userspace utilites for SocketCAN on Linux.
 
 ### Libraries and Tools / Python
 
-*   [Caring Caribou (⭐500)](https://github.com/CaringCaribou/caringcaribou/) - Intended to be the *nmap of vehicle security*.
-*   [c0f (⭐78)](https://github.com/zombieCraig/c0f/) - A fingerprinting tool for CAN communications that can be used to find a specific signal on a CAN network when testing interactions with a vehicle.
+*   [Caring Caribou (⭐566)](https://github.com/CaringCaribou/caringcaribou/) - Intended to be the *nmap of vehicle security*.
+*   [c0f (⭐80)](https://github.com/zombieCraig/c0f/) - A fingerprinting tool for CAN communications that can be used to find a specific signal on a CAN network when testing interactions with a vehicle.
 
 ### Libraries and Tools / Go
 
-*   [CANNiBUS (⭐99)](https://github.com/Hive13/CANiBUS/) - A Go server that allows a room full of researchers to simultaneously work on the same vehicle, whether for instructional purposes or team reversing sessions.
+*   [CANNiBUS (⭐101)](https://github.com/Hive13/CANiBUS/) - A Go server that allows a room full of researchers to simultaneously work on the same vehicle, whether for instructional purposes or team reversing sessions.
 
 ### Libraries and Tools / JavaScript
 
-*   [NodeJS extension to SocketCAN (⭐187)](https://github.com/sebi2k1/node-can) - Allows you to communicate over CAN networks with simple JavaScript functions.
+*   [NodeJS extension to SocketCAN (⭐193)](https://github.com/sebi2k1/node-can) - Allows you to communicate over CAN networks with simple JavaScript functions.
 *   [UberATC](https://www.uberatc.com/) - Uber Advanced Technologies Center - [info@uberatc.com](https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/README.md/mailto:info@uberatc.com).
 *   [Tesla](https://www.tesla.com/careers/search#/filter/?keyword=security\&department=1) - Tesla hires security professionals for a variety of roles, particularly securing their vehicles.
 *   [Intrepid Control Systems](https://www.intrepidcs.com/jobs/) - Embedded security company building tools for reversing vehicles.
@@ -327,17 +326,17 @@
 ### Coordinated disclosure / JavaScript
 
 *   Security
-    *   [Application Security (⭐5.5k)](https://github.com/paragonie/awesome-appsec)
-    *   [Security (⭐9.5k)](https://github.com/sbilly/awesome-security)
-    *   [Capture the Flag (⭐7.8k)](https://github.com/apsdehal/awesome-ctf)
-    *   [Malware Analysis (⭐9.5k)](https://github.com/rshipp/awesome-malware-analysis)
-    *   [Android Security (⭐6.7k)](https://github.com/ashishb/android-security-awesome)
-    *   [Hacking (⭐9.7k)](https://github.com/carpedm20/awesome-hacking)
-    *   [Honeypots (⭐6.7k)](https://github.com/paralax/awesome-honeypots)
-    *   [Incident Response (⭐6k)](https://github.com/meirwah/awesome-incident-response)
+    *   [Application Security (⭐5.7k)](https://github.com/paragonie/awesome-appsec)
+    *   [Security (⭐10k)](https://github.com/sbilly/awesome-security)
+    *   [Capture the Flag (⭐8.2k)](https://github.com/apsdehal/awesome-ctf)
+    *   [Malware Analysis (⭐10k)](https://github.com/rshipp/awesome-malware-analysis)
+    *   [Android Security (⭐7.1k)](https://github.com/ashishb/android-security-awesome)
+    *   [Hacking (⭐10k)](https://github.com/carpedm20/awesome-hacking)
+    *   [Honeypots (⭐7.1k)](https://github.com/paralax/awesome-honeypots)
+    *   [Incident Response (⭐6.4k)](https://github.com/meirwah/awesome-incident-response)
 *   Meta
-    *   [awesome (⭐238k)](https://github.com/sindresorhus/awesome)
-    *   [lists (⭐8.8k)](https://github.com/jnv/lists)
+    *   [awesome (⭐262k)](https://github.com/sindresorhus/awesome)
+    *   [lists (⭐9.1k)](https://github.com/jnv/lists)
 
 ## [24. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
@@ -404,7 +403,7 @@
 
 ### Scientific Computing
 
-*   [Trilinos (⭐877)](https://github.com/trilinos/Trilinos) - High performance PDE solvers. \[BSD]
+*   [Trilinos (⭐1.1k)](https://github.com/trilinos/Trilinos) - High performance PDE solvers. \[BSD]
 
 ## [30. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -456,7 +455,7 @@
 
 ### Libraries / Python
 
-*   [minimongo (⭐328)](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface
+*   [minimongo (⭐332)](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface
 
 ## [37. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
@@ -519,7 +518,7 @@
 
 ### Internationalization
 
-*   [MessageFormat.NET (⭐143)](https://github.com/jeffijoe/MessageFormat.NET) - ICU MessageFormat implementation in .NET lets you write contextual UI messages (PCL library)
+*   [MessageFormat.NET (⭐150)](https://github.com/jeffijoe/MessageFormat.NET) - ICU MessageFormat implementation in .NET lets you write contextual UI messages (PCL library)
 
 ### ORM
 
@@ -527,7 +526,7 @@
 
 ### Template Engine
 
-*   [Stubble (⭐344)](https://github.com/stubbleorg/stubble) - Trimmed down {{mustache}} templates in .NET. Successor of Nustache.
+*   [Stubble (⭐365)](https://github.com/stubbleorg/stubble) - Trimmed down {{mustache}} templates in .NET. Successor of Nustache.
 
 ## [42. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
@@ -544,7 +543,7 @@
 
 ### Algorithms and Data structures
 
-*   [merkle\_tree (⭐96)](https://github.com/yosriady/merkle_tree) - A Merkle hash tree implementation in Elixir.
+*   [merkle\_tree (⭐97)](https://github.com/yosriady/merkle_tree) - A Merkle hash tree implementation in Elixir.
 *   [navigation\_tree (⭐2)](https://github.com/gutschilla/elixir-navigation-tree) - A navigation tree representation with helpers to generate HTML out of it.
 
 ### Build Tools
@@ -553,37 +552,37 @@
 
 ### Cryptography
 
-*   [crypto\_rsassa\_pss (⭐10)](https://github.com/potatosalad/erlang-crypto_rsassa_pss) - RSASSA-PSS Public Key Cryptographic Signature Algorithm for Erlang.
+*   [crypto\_rsassa\_pss (⭐11)](https://github.com/potatosalad/erlang-crypto_rsassa_pss) - RSASSA-PSS Public Key Cryptographic Signature Algorithm for Erlang.
 
 ### Examples and funny stuff
 
-*   [stranger (⭐66)](https://github.com/cazrin/stranger) - Elixir Phoenix app to chat anonymously with a randomly chosen stranger.
+*   [stranger (⭐65)](https://github.com/cazrin/stranger) - Elixir Phoenix app to chat anonymously with a randomly chosen stranger.
 
 ### Framework Components
 
-*   [graphql\_parser (⭐18)](https://github.com/graphql-elixir/graphql_parser) - An Elixir binding for [libgraphqlparser (⭐1k)](https://github.com/graphql/libgraphqlparser).
-*   [http\_router (⭐13)](https://github.com/sugar-framework/elixir-http-router) - HTTP Router with various macros to assist in developing your application and organizing your code.
+*   [graphql\_parser (⭐19)](https://github.com/graphql-elixir/graphql_parser) - An Elixir binding for [libgraphqlparser (⭐1k)](https://github.com/graphql/libgraphqlparser).
+*   [http\_router (⭐14)](https://github.com/sugar-framework/elixir-http-router) - HTTP Router with various macros to assist in developing your application and organizing your code.
 *   [plug\_fprof (⭐4)](https://github.com/obmarg/plug_fprof) - A Plug that adds fprof tracing to requests, to allow for easy profiling.
 *   [plug\_graphql (⭐126)](https://github.com/graphql-elixir/plug_graphql) - Phoenix Plug integration for [GraphQL Elixir](http://graphql-elixir.org/).
 
 ### Geolocation
 
-*   [geohash (⭐25)](https://github.com/polmuz/elixir-geohash) - Geohash encode/decode library.
+*   [geohash (⭐26)](https://github.com/polmuz/elixir-geohash) - Geohash encode/decode library.
 
 ### HTTP
 
-*   [tesla (⭐1.8k)](https://github.com/teamon/tesla) - HTTP client library, with support for middleware and multiple adapters.
+*   [tesla (⭐1.9k)](https://github.com/teamon/tesla) - HTTP client library, with support for middleware and multiple adapters.
 
 ### Networking
 
-*   [eio (⭐12)](https://github.com/falood/eio) - Elixir server of engine.io.
+*   [eio (⭐13)](https://github.com/falood/eio) - Elixir server of engine.io.
 
 ### ORM and Datamapping
 
-*   [ecto (⭐5.7k)](https://github.com/elixir-ecto/ecto) - A database wrapper and language integrated query for Elixir.
-*   [ecto\_ordered (⭐39)](https://github.com/zovafit/ecto-ordered) - Ecto extension for ordered models.
-*   [postgrex (⭐996)](https://github.com/elixir-ecto/postgrex) - PostgreSQL driver for Elixir.
-*   [sql\_dust (⭐115)](https://github.com/bettyblocks/sql_dust) - Generate (complex) SQL queries using magical Elixir SQL dust.
+*   [ecto (⭐5.8k)](https://github.com/elixir-ecto/ecto) - A database wrapper and language integrated query for Elixir.
+*   [ecto\_ordered (⭐40)](https://github.com/zovafit/ecto-ordered) - Ecto extension for ordered models.
+*   [postgrex (⭐1k)](https://github.com/elixir-ecto/postgrex) - PostgreSQL driver for Elixir.
+*   [sql\_dust (⭐116)](https://github.com/bettyblocks/sql_dust) - Generate (complex) SQL queries using magical Elixir SQL dust.
 
 ### Queue
 
@@ -595,13 +594,13 @@
 
 ### Third Party APIs
 
-*   [bandwidth (⭐4)](https://github.com/bandwidthcom/elixir-bandwidth) - An Elixir client library for the Bandwidth Application Platform.
-*   [kane (⭐96)](https://github.com/peburrows/kane) - A [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/overview) client.
+*   [bandwidth (⭐5)](https://github.com/bandwidthcom/elixir-bandwidth) - An Elixir client library for the Bandwidth Application Platform.
+*   [kane (⭐98)](https://github.com/peburrows/kane) - A [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/overview) client.
 *   [semver (⭐2)](https://github.com/lee-dohm/semver) - Utilities for working with semver.org-compliant version strings.
 
 ### Utilities
 
-*   [plasm (⭐86)](https://github.com/facto/plasm) - Plasm is Ecto's composable query multitool, containing higher-level functions such as .count, .random, .first, .last, .find, .inserted\_before, .inserted\_after, etc.
+*   [plasm (⭐87)](https://github.com/facto/plasm) - Plasm is Ecto's composable query multitool, containing higher-level functions such as .count, .random, .first, .last, .find, .inserted\_before, .inserted\_after, etc.
 
 ### Books
 
@@ -613,7 +612,7 @@
 
 ### Styleguides
 
-*   [rrrene/elixir-style-guide (⭐393)](https://github.com/rrrene/elixir-style-guide) - Style guide checked by [Credo (⭐4.6k)](https://github.com/rrrene/credo).
+*   [rrrene/elixir-style-guide (⭐395)](https://github.com/rrrene/elixir-style-guide) - Style guide checked by [Credo (⭐4.7k)](https://github.com/rrrene/credo).
 
 ## [44. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
@@ -625,7 +624,7 @@
 
 ### Modules / Browser
 
-*   [document-ready (⭐57)](https://github.com/bendrucker/document-ready) - Document ready listener for modern browsers.
+*   [document-ready (⭐59)](https://github.com/bendrucker/document-ready) - Document ready listener for modern browsers.
 
 ## [46. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 

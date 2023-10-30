@@ -10,7 +10,7 @@
 
 ### Misc
 
-*   [YoutubeExplode (⭐2.4k)](https://github.com/Tyrrrz/YoutubeExplode) - Ultimate library for extracting metadata and downloading Youtube videos and playlists.
+*   [YoutubeExplode (⭐2.5k)](https://github.com/Tyrrrz/YoutubeExplode) - Ultimate library for extracting metadata and downloading Youtube videos and playlists.
 
 ## [2. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
@@ -41,19 +41,19 @@
 
 ### DevOps
 
-*   [ansible-crystal (⭐7)](https://github.com/CorbanR/ansible-crystal) - Ansible playbook for installing crystal
+*   [ansible-crystal (⭐8)](https://github.com/CorbanR/ansible-crystal) - Ansible playbook for installing crystal
 
 ## [6. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Libraries and Tools / C++
 
-*   [High Level ViWi Service (⭐12)](https://github.com/iotbzh/high-level-viwi-service) - High level Volkswagen CAN signaling protocol implementation.
+*   [High Level ViWi Service (⭐13)](https://github.com/iotbzh/high-level-viwi-service) - High level Volkswagen CAN signaling protocol implementation.
 
 ## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### JavaScript / Misc
 
-*   [stdlib (⭐3.3k)](https://github.com/stdlib-js/stdlib) - A standard library for JavaScript and Node.js, with an emphasis on numeric computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
+*   [stdlib (⭐3.5k)](https://github.com/stdlib-js/stdlib) - A standard library for JavaScript and Node.js, with an emphasis on numeric computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
 
 ---
 

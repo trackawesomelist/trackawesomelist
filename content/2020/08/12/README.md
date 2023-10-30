@@ -10,11 +10,11 @@
 
 ### Web
 
-*   🔌 [firebase-kotlin-sdk (⭐562)](https://github.com/GitLiveApp/firebase-kotlin-sdk/) - Kotlin-first SDK for Firebase supporting multiplatform projects (`ios`, `android` & `js`).
+*   🔌 [firebase-kotlin-sdk (⭐685)](https://github.com/GitLiveApp/firebase-kotlin-sdk/) - Kotlin-first SDK for Firebase supporting multiplatform projects (`ios`, `android` & `js`).
 
 ### CLI & Editor / iOS
 
-*   🔧 [Firetable (⭐4.6k)](https://github.com/AntlerVC/firetable) - Excel/Google Sheets like UI for Firebase/Firestore. No more admin portals!
+*   🔧 [Firetable (⭐5.1k)](https://github.com/AntlerVC/firetable) - Excel/Google Sheets like UI for Firebase/Firestore. No more admin portals!
 
 ## [2. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md)
 
@@ -43,8 +43,8 @@
 
 ### AppImage developer tools / Continuous integration
 
-*   [GitHub Actions example (⭐47)](https://github.com/probonopd/Zoom.AppImage/blob/master/.github/workflows/main.yml) - Example of how to upload AppImages built using GitHub Actions to GitHub Releases.
-*   [appimage.yml (⭐477)](https://github.com/iotang/Project_LemonLime/blob/master/.github/workflows/appimage.yml) - Bigger, more complex example of how to build and upload AppImages using GitHub Actions.
+*   [GitHub Actions example (⭐48)](https://github.com/probonopd/Zoom.AppImage/blob/master/.github/workflows/main.yml) - Example of how to upload AppImages built using GitHub Actions to GitHub Releases.
+*   [appimage.yml (⭐485)](https://github.com/iotang/Project_LemonLime/blob/master/.github/workflows/appimage.yml) - Bigger, more complex example of how to build and upload AppImages using GitHub Actions.
 
 ### Resources / Miscellaneous
 
@@ -91,11 +91,11 @@
 
 ### Projects Using Vue.js / Apps/Websites
 
-*   [n2ex (⭐272)](https://github.com/OrangeXC/n2ex) - A vue ssr(nuxt) website, use v2ex API
+*   [n2ex (⭐271)](https://github.com/OrangeXC/n2ex) - A vue ssr(nuxt) website, use v2ex API
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-digital-transform (⭐56)](https://github.com/DakerHub/vue-digital-transform) A vue component for better digital transform animation
+*   [vue-digital-transform (⭐57)](https://github.com/DakerHub/vue-digital-transform) A vue component for better digital transform animation
 
 ## [11. Awesome Json](/content/burningtree/awesome-json/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Table of Contents / Streaming Library
 
-*   [Tributary (⭐7)](https://github.com/timkpaine/tributary) \[Python] - A python library for constructing dataflow graphs. Supports synchronous, reactive data streams built using python generators that mimic complex event processors, as well as lazily-evaluated acyclic graphs and functional currying streams.
+*   [Tributary (⭐15)](https://github.com/timkpaine/tributary) \[Python] - A python library for constructing dataflow graphs. Supports synchronous, reactive data streams built using python generators that mimic complex event processors, as well as lazily-evaluated acyclic graphs and functional currying streams.
 
 ## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

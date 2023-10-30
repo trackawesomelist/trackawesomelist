@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 08, 2015
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [assert.sh (⭐466)](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
+*   [assert.sh (⭐476)](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
 
 ## [2. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -22,22 +22,16 @@
 
 *   [Overcast](https://overcast.fm) - An elegant podcast tracker for iOS and the web
 *   [AntennaPod](http://antennapod.org) - (Android and Open Source)
-*   [Soundwaves (⭐140)](https://github.com/bottiger/SoundWaves) - (Android and Open Source)
+*   [Soundwaves (⭐142)](https://github.com/bottiger/SoundWaves) - (Android and Open Source)
 *   [DoggCatcher](http://www.doggcatcher.com) - Android Podcast player
 
-## [3. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
-
-### Tools / Market Crawlers
-
-*   [Google play crawler (Java) (⭐537)](https://github.com/Akdeniz/google-play-crawler)
-
-## [4. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
+## [3. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
 
 ### Videos
 
 *   [How to Talk to Developers](https://www.youtube.com/watch?v=l9JXH7JPjR4) - by **Ben Orenstein** \[47:37]
 
-## [5. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
+## [4. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
 ### Awesome lists that include links to InfluxDB / Hooks
 

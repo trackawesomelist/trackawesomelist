@@ -10,8 +10,8 @@
 
 ### UI / Login
 
-*   [Login Animation (⭐1.1k)](https://github.com/GeekyAnts/flutter-login-home-animation) <!--stargazers:GeekyAnts/flutter-login-home-animation--> - Smooth animation from login to home by [Ruchika Gupta](https://github.com/geekruchika)
-*   [Flutter Login (⭐1.2k)](https://github.com/NearHuscarl/flutter_login) - Login widget with slick animation from start to finish by [NearHuscarl](https://github.com/NearHuscarl)
+*   [Login Animation (⭐1.2k)](https://github.com/GeekyAnts/flutter-login-home-animation) <!--stargazers:GeekyAnts/flutter-login-home-animation--> - Smooth animation from login to home by [Ruchika Gupta](https://github.com/geekruchika)
+*   [Flutter Login (⭐1.3k)](https://github.com/NearHuscarl/flutter_login) - Login widget with slick animation from start to finish by [NearHuscarl](https://github.com/NearHuscarl)
 
 ## [2. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -24,11 +24,11 @@
 ### Algorithms and Data structures
 
 *   [haversine (⭐15)](https://github.com/geocrystal/haversine) - An Implementation of the Haversine formula
-*   [kd\_tree (⭐17)](https://github.com/geocrystal/kd_tree) - An implementation of "K-Dimensional Tree" and "N-Nearest Neighbors"
+*   [kd\_tree (⭐16)](https://github.com/geocrystal/kd_tree) - An implementation of "K-Dimensional Tree" and "N-Nearest Neighbors"
 
 ### Machine Learning
 
-*   [Cadmium (⭐196)](https://github.com/cadmiumcr/cadmium) - NLP library based heavily on [natural (⭐10k)](https://github.com/NaturalNode/natural)
+*   [Cadmium (⭐199)](https://github.com/cadmiumcr/cadmium) - NLP library based heavily on [natural (⭐10k)](https://github.com/NaturalNode/natural)
 
 ## [4. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 

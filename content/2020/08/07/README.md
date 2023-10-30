@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 07, 2020
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,25 +18,19 @@
 
 
 
-## [2. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
-
-### Application Skeleton
-
-*   [Sakura Panel](https://github.com/yassinrais/sakura-panel) - A Phalcon Panel created to install plugins Without Editing the Panel Source Code (Auth, ACL, Lite Bootstrap Template, And more...).
-
-## [3. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [2. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
 *   [Evolution or Rebellion? The rise of Site Reliability Engineers (SRE)](https://robhirschfeld.com/2016/12/29/evolution-or-rebellion-the-rise-of-site-reliability-engineers-sre/)
 
-## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [3. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### SQL-like processing
 
-*   [Materialize (⭐4.6k)](https://github.com/materializeinc/materialize) - is a streaming database for real-time applications using SQL for queries and supporting a large fraction of PostgreSQL.
+*   [Materialize (⭐5.1k)](https://github.com/materializeinc/materialize) - is a streaming database for real-time applications using SQL for queries and supporting a large fraction of PostgreSQL.
 
-## [5. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
+## [4. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ### Templates / Misc
 
@@ -46,41 +40,42 @@
 
 *   [Email Design Blog](https://designmodo.com/design/email-design/) - Articles, tutorial, inspiration for all email geeks.
 
-## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [5. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / Other
 
-*   [Adafruit-7segment](https://crates.io/crates/adafruit-7segment) - I2C - Driver for Adafruit 7-segment LED Numeric Backpack based on the ht16k33 chip - [github (⭐1)](https://github.com/kallemooo/adafruit-7segment) - ![crates.io](https://img.shields.io/crates/v/adafruit-7segment.svg)
+*   [Adafruit-7segment](https://crates.io/crates/adafruit-7segment) - I2C - Driver for Adafruit 7-segment LED Numeric Backpack based on the ht16k33 chip - [github (⭐2)](https://github.com/kallemooo/adafruit-7segment) - ![crates.io](https://img.shields.io/crates/v/adafruit-7segment.svg)
 
 ### Driver crates / WIP
 
 *   [epd-waveshare](https://crates.io/crates/epd-waveshare) - SPI - driver for E-Paper Modules from Waveshare ![crates.io](https://img.shields.io/crates/v/epd-waveshare.svg)
 
-## [7. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [6. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [DDD-starter-dotnet (⭐181)](https://github.com/itlibrium/DDD-starter-dotnet) - Sample implementation and comparison of various approaches to building DDD applications. Useful as a baseline to quickly start a DDD .net project.
+*   [DDD-starter-dotnet (⭐280)](https://github.com/itlibrium/DDD-starter-dotnet) - Sample implementation and comparison of various approaches to building DDD applications. Useful as a baseline to quickly start a DDD .net project.
 
-## [8. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [7. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Prisma (⭐31k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
+*   :octocat: [Prisma (⭐34k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
+    *   :octocat: [prisma-markdown (⭐119)](https://github.com/samchon/prisma-markdown): Generates markdown document composed with ERD diagrams and their descriptions.
 
-## [9. Awesome Icons](/content/notlmn/awesome-icons/README.md)
+## [8. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
 ### Logos
 
 *   [Devicon (⭐7.1k)](https://github.com/devicons/devicon#readme) - Aims to gather all logos representing development languages and tools. ([Website](https://devicons.github.io/devicon))
 
-## [10. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [9. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Companies / Robotics Capture the Flag (RCTF)
 
 *   [GESTALT ROBOTICS](https://www.gestalt-robotics.com/en/home) - Service provider for intelligent automation.
 
-## [11. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+## [10. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Miscellaneous / Episodes
 

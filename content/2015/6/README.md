@@ -24,7 +24,7 @@
 
 ### Machine Learning
 
-*   [OpenCV (⭐69k)](https://github.com/Itseez/opencv) :zap: - Open Source Computer Vision Library. \[BSD] [website](http://opencv.org/)
+*   [OpenCV (⭐72k)](https://github.com/Itseez/opencv) :zap: - Open Source Computer Vision Library. \[BSD] [website](http://opencv.org/)
 
 ### Networking
 
@@ -92,11 +92,11 @@
 
 #### [Codecademy](https://www.codecademy.com/)
 
-**Free** platform for learning to code in web technologies\
-*(HTML, CSS, JavaScript, jQuery, Python, Ruby, Rails, PHP)*
+**Freemium** platform for learning to code in many different programming languages\
+*(HTML, CSS, JavaScript, jQuery, Python, Ruby, Rails, PHP, C++, Java)*
 #### [Khan Academy's Hour of Code](https://www.khanacademy.org/hourofcode)
 
-**Free** interactive 1-hour course to learn the very basics of web development\
+**Free** interactive 1-hour courses to learn the very basics of web development\
 *(HTML, CSS, JavaScript, SQL)*
 #### [Treehouse](https://teamtreehouse.com/)
 
@@ -108,31 +108,23 @@
 *(CSS)*
 #### Udemy [Programming](https://www.udemy.com/courses/search/?q=programming), [Development](https://www.udemy.com/courses/Development/)
 
-**Freemium** marketplace of courses from third party providers. Quality may vary.\
+**Freemium** marketplace of courses from third party providers - quality may vary\
 *(HTML, CSS, JavaScript, Ruby, Rails, Python, iOS, Android)*
 #### [Code Avengers](https://www.codeavengers.com/)
 
-**Freemium** platform for basic web and app develoment courses\
-*(HTML, CSS, JavaScript)*
-#### [learn.shayhowe.com](https://learn.shayhowe.com/)
-
-**Free** beginner to intermediate guides on web development\
+**Freemium** platform for basic web and app development courses\
 *(HTML, CSS, JavaScript)*
 #### [HTML Dog](https://www.htmldog.com/)
 
 **Free** beginner and intermediate guides on web development\
 *(HTML, CSS, JavaScript)*
-#### Degreed [Web Development](https://degreed.com/learning/web%20development), [Programming](https://degreed.com/learning/programming)
-
-**Mixed** directory of courses, videos and other learning resources for web development and programming. Quality may vary.\
-*(HTML, CSS, JavaScript, AngularJS, Rails)*
 
 ### Intermediate
 
 #### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
 
 **Free** intermediate to advanced courses on how to program drawings, animations, games and webpages and more advanced computer science topics\
-*(HTML, CSS, JavaScript, algorithms, cryptography)*
+*(HTML, CSS, JavaScript, SQL, algorithms, cryptography)*
 #### [Udacity](https://www.udacity.com/)
 
 **Free** platform for computer science and web development courses\
@@ -153,17 +145,9 @@
 
 **Free** crowdsourced mentorship platform of programming exercises and code reviews\
 *(Clojure, CoffeeScript, C++, C#, Elixir, Erlang, F#, Go, Haskell, JavaScript, Common Lisp, Lua, Objective-C, OCaml, Perl 5, PL/SQL, Python, Ruby, Scala, Swift)*
-#### [Stanford on iTunes U](https://itunes.stanford.edu/)
-
-**Free** programming and mobile development courses on iTunes from Stanford University\
-*(programming, startups, iOS)*
-#### [PluralSight](https://www.pluralsight.com/tag/developer?pageSize=48\&sort=popular)
-
-**Paid** platform for web development courses\
-*(JavaScript, AngularJS, Java)*
 #### [CodeChef Problems](https://www.codechef.com/problems/easy/)
 
-**Free** intermediate to advanced programming problems\
+**Freemium** intermediate to advanced programming problems\
 *(programming)*
 #### [CodingBat](https://codingbat.com/)
 
@@ -172,15 +156,11 @@
 
 ### Advanced
 
-#### [MIT Courseware](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering\&subcat=computerscience)
-
-**Free** courses from MIT on advanced computer science topics\
-*(varied and extensive computer science topics, C, C++, ..)*
 #### [Coursera](https://www.coursera.org/courses?categories=cs-ai,cs-programming,cs-systems,cs-theory,infotech)
 
-**Free** platform for courses from universities and organizations worldwide\
+**Mixed** platform for courses from universities and organizations worldwide\
 *(varied computer science subjects including theory and programming, data science, algorithms, ...)*
-#### [Awesome CS Courses (⭐44k)](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
+#### [Awesome CS Courses (⭐48k)](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
 
 **Free** university-level courses scoured from around the internet.\
 *(varied and extensive computer science topics, ...)*
@@ -194,20 +174,20 @@
 ### Database Tools
 
 *   [Foreigner (⭐1.3k)](https://github.com/matthuhiggins/foreigner) - Adds foreign key helpers to migrations and correctly dumps foreign keys to schema.rb.
-*   [Upsert (⭐659)](https://github.com/seamusabshere/upsert) - Upsert on MySQL, PostgreSQL, and SQLite3. Transparently creates functions (UDF) for MySQL and PostgreSQL; on SQLite3, uses INSERT OR IGNORE.
+*   [Upsert (⭐657)](https://github.com/seamusabshere/upsert) - Upsert on MySQL, PostgreSQL, and SQLite3. Transparently creates functions (UDF) for MySQL and PostgreSQL; on SQLite3, uses INSERT OR IGNORE.
 
 ### Profiler and Optimization
 
-*   [benchmark-ips (⭐1.6k)](https://github.com/evanphx/benchmark-ips) - Provides iteration per second benchmarking for Ruby.
+*   [benchmark-ips (⭐1.7k)](https://github.com/evanphx/benchmark-ips) - Provides iteration per second benchmarking for Ruby.
 
 ### Scheduling
 
-*   [minicron (⭐2.4k)](https://github.com/jamesrwhite/minicron) - A system to manage and monitor cron jobs.
+*   [minicron (⭐2.3k)](https://github.com/jamesrwhite/minicron) - A system to manage and monitor cron jobs.
 
 ### Scientific
 
 *   Classifiers
-    *   [classifier-reborn (⭐536)](https://github.com/jekyll/classifier-reborn) - An active fork of Classifier, and general module to allow Bayesian and other types of classifications.
+    *   [classifier-reborn (⭐540)](https://github.com/jekyll/classifier-reborn) - An active fork of Classifier, and general module to allow Bayesian and other types of classifications.
 
 ## [10. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
@@ -220,17 +200,17 @@
 
 ### Algorithms and Data structures
 
-*   [structurez (⭐12)](https://github.com/hamiltop/structurez) - A playground for data structures in Elixir.
+*   [structurez (⭐13)](https://github.com/hamiltop/structurez) - A playground for data structures in Elixir.
 
 ### Audio and Sounds
 
-*   [erlaudio (⭐24)](https://github.com/asonge/erlaudio) - Erlang PortAudio bindings.
+*   [erlaudio (⭐25)](https://github.com/asonge/erlaudio) - Erlang PortAudio bindings.
 
 ### Cryptography
 
-*   [cipher (⭐59)](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
-*   [exgpg (⭐17)](https://github.com/rozap/exgpg) - Use gpg from Elixir.
-*   [pot (⭐229)](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
+*   [cipher (⭐60)](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
+*   [exgpg (⭐18)](https://github.com/rozap/exgpg) - Use gpg from Elixir.
+*   [pot (⭐231)](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
 
 ### Documentation
 
@@ -238,7 +218,7 @@
 
 ### Email
 
-*   [gen\_smtp (⭐651)](https://github.com/Vagabond/gen_smtp) - A generic Erlang SMTP server and client that can be extended via callback modules.
+*   [gen\_smtp (⭐661)](https://github.com/Vagabond/gen_smtp) - A generic Erlang SMTP server and client that can be extended via callback modules.
 
 ### Examples and funny stuff
 
@@ -250,13 +230,13 @@
 
 ### Framework Components
 
-*   [addict (⭐648)](https://github.com/trenpixster/addict) - User authentication for Phoenix Framework.
+*   [addict (⭐649)](https://github.com/trenpixster/addict) - User authentication for Phoenix Framework.
 *   [plug\_heartbeat (⭐36)](https://github.com/whatyouhide/plug_heartbeat) - A plug for responding to heartbeat requests.
-*   [scrivener (⭐552)](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
+*   [scrivener (⭐550)](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
 
 ### Geolocation
 
-*   [geolix (⭐175)](https://github.com/mneudert/geolix) - MaxMind GeoIP2 database reader/decoder.
+*   [geolix (⭐183)](https://github.com/mneudert/geolix) - MaxMind GeoIP2 database reader/decoder.
 
 ### Networking
 
@@ -264,31 +244,31 @@
 
 ### ORM and Datamapping
 
-*   [esqlite (⭐116)](https://github.com/mmzeeman/esqlite) - Erlang NIF for sqlite.
-*   [sqlitex (⭐118)](https://github.com/mmmries/sqlitex) - An Elixir wrapper around esqlite. Allows access to sqlite3 databases.
-*   [tds (⭐102)](https://github.com/livehelpnow/tds) - MSSQL / TDS Database driver for Elixir.
+*   [esqlite (⭐119)](https://github.com/mmzeeman/esqlite) - Erlang NIF for sqlite.
+*   [sqlitex (⭐119)](https://github.com/mmmries/sqlitex) - An Elixir wrapper around esqlite. Allows access to sqlite3 databases.
+*   [tds (⭐106)](https://github.com/livehelpnow/tds) - MSSQL / TDS Database driver for Elixir.
 *   [yar (⭐8)](https://github.com/dantswain/yar) - Yet another Redis client for Elixir.
 
 ### Templating
 
-*   [mustachex (⭐16)](https://github.com/jui/mustachex) - Mustache for Elixir - Logic-less templates.
+*   [mustachex (⭐17)](https://github.com/jui/mustachex) - Mustache for Elixir - Logic-less templates.
 
 ### Text and Numbers
 
-*   [secure\_random (⭐95)](https://github.com/patricksrobertson/secure_random.ex) - Convenience library for random base64 strings modeled after my love for Ruby's SecureRandom.
-*   [slugger (⭐156)](https://github.com/h4cc/slugger) - Slugger can generate slugs from given strings that can be used in URLs or file names.
+*   [secure\_random (⭐96)](https://github.com/patricksrobertson/secure_random.ex) - Convenience library for random base64 strings modeled after my love for Ruby's SecureRandom.
+*   [slugger (⭐158)](https://github.com/h4cc/slugger) - Slugger can generate slugs from given strings that can be used in URLs or file names.
 
 ### Third Party APIs
 
-*   [bitpay (⭐31)](https://github.com/bitpay/elixir-client) - Elixir core library for connecting to bitpay.com.
+*   [bitpay (⭐30)](https://github.com/bitpay/elixir-client) - Elixir core library for connecting to bitpay.com.
 *   [everyoneapi (⭐1)](https://github.com/knewter/everyoneapi) - API Client for EveryoneAPI.com.
 *   [exjira (⭐6)](https://github.com/mattweldon/exjira) - JIRA client library for Elixir.
-*   [mandrill (⭐50)](https://github.com/slogsdon/mandrill-elixir) - A Mandrill wrapper for Elixir.
+*   [mandrill (⭐51)](https://github.com/slogsdon/mandrill-elixir) - A Mandrill wrapper for Elixir.
 *   [tagplay (⭐0)](https://github.com/tagplay/elixir-tagplay) - Elixir client for Tagplay API.
 
 ### YAML
 
-*   [yamerl (⭐194)](https://github.com/yakaz/yamerl) - YAML 1.2 parser in Erlang.
+*   [yamerl (⭐195)](https://github.com/yakaz/yamerl) - YAML 1.2 parser in Erlang.
 
 ### Books
 

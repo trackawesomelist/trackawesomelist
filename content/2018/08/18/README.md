@@ -120,57 +120,57 @@
 
 ### Frameworks, Libraries and Tools / Database Tools and Utilities
 
-*   [fluentmigrator (⭐2.8k)](https://github.com/fluentmigrator/fluentmigrator) - Migration framework for .NET much like Ruby on Rails Migrations.
+*   [fluentmigrator (⭐3k)](https://github.com/fluentmigrator/fluentmigrator) - Migration framework for .NET much like Ruby on Rails Migrations.
 
 ## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Third party Guides
 
-*   [swift-tips (⭐946)](https://github.com/vincent-pradeilles/swift-tips) - A series of useful tips by Vincent Pradeilles.
+*   [swift-tips (⭐966)](https://github.com/vincent-pradeilles/swift-tips) - A series of useful tips by Vincent Pradeilles.
 
 ### Other Awesome Lists
 
-*   [Awesome iOS Interview (⭐1k)](https://github.com/dashvlas/awesome-ios-interview) - List of the questions that helps you to prepare for the interview.
+*   [Awesome iOS Interview (⭐1.1k)](https://github.com/dashvlas/awesome-ios-interview) - List of the questions that helps you to prepare for the interview.
 
 ### API
 
-*   [RandomUserSwift (⭐95)](https://github.com/dingwilson/RandomUserSwift) - Framework to Generate Random Users - An Unofficial SDK for randomuser.me.
+*   [RandomUserSwift (⭐96)](https://github.com/dingwilson/RandomUserSwift) - Framework to Generate Random Users - An Unofficial SDK for randomuser.me.
 
 ### Augmented Reality
 
-*   [ARVideoKit (⭐1.5k)](https://github.com/AFathi/ARVideoKit) - Capture & record ARKit videos, photos, Live Photos, and GIFs.
+*   [ARVideoKit (⭐1.6k)](https://github.com/AFathi/ARVideoKit) - Capture & record ARKit videos, photos, Live Photos, and GIFs.
 
 ### Colors
 
-*   [UIGradient (⭐252)](https://github.com/dqhieu/UIGradient) - A simple and powerful library for using gradient layer, image, color.
+*   [UIGradient (⭐260)](https://github.com/dqhieu/UIGradient) - A simple and powerful library for using gradient layer, image, color.
 
 ### Command Line
 
-*   [LineNoise (⭐115)](https://github.com/andybest/linenoise-swift) :penguin: - A zero-dependency replacement for readline.
+*   [LineNoise (⭐129)](https://github.com/andybest/linenoise-swift) :penguin: - A zero-dependency replacement for readline.
 
 ### JSON
 
-*   [EVReflection (⭐965)](https://github.com/evermeer/EVReflection) - Reflection based JSON encoding and decoding. Including support for NSDictionary, NSCoding, Printable, Hashable and Equatable.
+*   [EVReflection (⭐966)](https://github.com/evermeer/EVReflection) - Reflection based JSON encoding and decoding. Including support for NSDictionary, NSCoding, Printable, Hashable and Equatable.
 
 ### Key Value Store
 
-*   [Default (⭐475)](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support.
+*   [Default (⭐472)](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support.
 
 ### Dependency Injection
 
-*   [Weaver (⭐704)](https://github.com/scribd/Weaver) - A declarative, easy-to-use and safe Dependency Injection framework.
+*   [Weaver (⭐720)](https://github.com/scribd/Weaver) - A declarative, easy-to-use and safe Dependency Injection framework.
 
 ### Images / Barcode
 
-*   [ImageViewer (⭐2.4k)](https://github.com/Krisiacik/ImageViewer) - An image viewer à la Twitter.
+*   [ImageViewer (⭐2.5k)](https://github.com/Krisiacik/ImageViewer) - An image viewer à la Twitter.
 
 ### Auto Layout / Barcode
 
-*   [NorthLayout (⭐36)](https://github.com/banjun/NorthLayout) - Fast path to layout using Visual Format Language (VFL) with extended syntax.
+*   [NorthLayout (⭐40)](https://github.com/banjun/NorthLayout) - Fast path to layout using Visual Format Language (VFL) with extended syntax.
 
 ### Network / Barcode
 
-*   [MultiPeer (⭐205)](https://github.com/dingwilson/MultiPeer) - A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices.
+*   [MultiPeer (⭐215)](https://github.com/dingwilson/MultiPeer) - A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices.
 
 ### Cards / Barcode
 
@@ -178,7 +178,7 @@
 
 ### Menu / Barcode
 
-*   [PagingKit (⭐1.3k)](https://github.com/kazuhiro4949/PagingKit) - PagingKit provides customizable menu UI.
+*   [PagingKit (⭐1.4k)](https://github.com/kazuhiro4949/PagingKit) - PagingKit provides customizable menu UI.
 
 ### Tab / Barcode
 
@@ -186,11 +186,11 @@
 
 ### UITableView / Barcode
 
-*   [ExpandableCell (⭐748)](https://github.com/younatics/ExpandableCell) - Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate.
+*   [ExpandableCell (⭐761)](https://github.com/younatics/ExpandableCell) - Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate.
 
 ### Utility / Barcode
 
-*   [Vaccine (⭐299)](https://github.com/zenangst/Vaccine) - Make your apps immune to recompile-decease.
+*   [Vaccine (⭐303)](https://github.com/zenangst/Vaccine) - Make your apps immune to recompile-decease.
 
 ### Validation / Barcode
 

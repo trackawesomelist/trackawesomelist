@@ -16,15 +16,15 @@
 
 ### Frameworks, Libraries and Tools / API
 
-*   [NSwag (⭐5.4k)](https://github.com/RSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, Web API and TypeScript. <http://NSwag.org>.
+*   [NSwag (⭐6.1k)](https://github.com/RSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, Web API and TypeScript. <http://NSwag.org>.
 
 ### Frameworks, Libraries and Tools / E-Commerce and Payments
 
-*   [PayPal (⭐515)](https://github.com/paypal/PayPal-NET-SDK) - .NET SDK for PayPal's RESTful APIs.
+*   [PayPal (⭐527)](https://github.com/paypal/PayPal-NET-SDK) - .NET SDK for PayPal's RESTful APIs.
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Fody (⭐3.8k)](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies
+*   [Fody (⭐4.1k)](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies
 
 ## [3. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

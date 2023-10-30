@@ -10,7 +10,7 @@
 
 ### Plugins
 
-*   [Spark (⭐296)](https://github.com/jorgebucaran/spark.fish) - Sparklines for Fish
+*   [Spark (⭐298)](https://github.com/jorgebucaran/spark.fish) - Sparklines for Fish
 
 ## [2. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -22,7 +22,7 @@
 
 ### SPE (Sitecore PowerShell Extension)
 
-*   [SPE Content Migrator (⭐16)](https://github.com/michaellwest/Spe-Content-Migrator) - Script used to migrate content between Sitecore instances using SPE.
+*   [SPE Content Migrator (⭐17)](https://github.com/michaellwest/Spe-Content-Migrator) - Script used to migrate content between Sitecore instances using SPE.
 
 ## [4. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 

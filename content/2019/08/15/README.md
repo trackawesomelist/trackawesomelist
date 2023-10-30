@@ -10,13 +10,13 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [Ether.Network (⭐8)](https://github.com/aloisdg/Ether.Network) - Ether.Network is an open source networking library that allow developers to create simple, fast and scalable socket server or client applications over the TCP/IP protocol.
+*   [Ether.Network (⭐10)](https://github.com/aloisdg/Ether.Network) - Ether.Network is an open source networking library that allow developers to create simple, fast and scalable socket server or client applications over the TCP/IP protocol.
 
 ## [2. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
 ### Languages
 
-*   [Vigil (⭐2.7k)](https://github.com/munificent/vigil) - Only Vigil is truly vigilant about not allowing code that fails to pass programmatic specifications.
+*   [Vigil (⭐2.8k)](https://github.com/munificent/vigil) - Only Vigil is truly vigilant about not allowing code that fails to pass programmatic specifications.
 
 ## [3. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Form Logic / Mouse Events
 
-*   [formik (⭐32k)](https://github.com/jaredpalmer/formik) - Build forms without tears and supports Validation in ease.
+*   [formik (⭐33k)](https://github.com/jaredpalmer/formik) - Build forms without tears and supports Validation in ease.
 
 ---
 

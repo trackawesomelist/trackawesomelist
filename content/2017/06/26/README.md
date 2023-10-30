@@ -22,8 +22,8 @@
 
 ### Tools & Software
 
-*   [Comparison of web archiving software (⭐86)](https://github.com/archivers-space/research/tree/master/web_archiving)
-*   [Awesome Website Change Monitoring (⭐447)](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring)
+*   [Comparison of web archiving software (⭐87)](https://github.com/archivers-space/research/tree/master/web_archiving)
+*   [Awesome Website Change Monitoring (⭐460)](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring)
 
 ## [4. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -107,18 +107,18 @@
 
 ### Community Extensions
 
-*   [Keyloak Proxy written in Go (⭐947)](https://github.com/gambol99/keycloak-proxy)
+*   [Keyloak Proxy written in Go (⭐951)](https://github.com/gambol99/keycloak-proxy)
 
 ### Integrations
 
 *   [Keycloak support for Aurelia (⭐3)](https://github.com/waynepennington/aurelia-keycloak)
-*   [Keycloak OAuth2 Auth for PHP (⭐166)](https://github.com/stevenmaguire/oauth2-keycloak)
-*   [Jenkins Keycloak Authentication Plugin (⭐28)](https://github.com/jenkinsci/keycloak-plugin)
+*   [Keycloak OAuth2 Auth for PHP (⭐179)](https://github.com/stevenmaguire/oauth2-keycloak)
+*   [Jenkins Keycloak Authentication Plugin (⭐31)](https://github.com/jenkinsci/keycloak-plugin)
 
 ### Themes
 
 *   [Community Keycloak Ionic Theme (⭐19)](https://github.com/lfryc/keycloak-ionic-theme)
-*   [A Keycloak theme based on the AdminLTE UI library (⭐88)](https://github.com/MAXIMUS-DeltaWare/adminlte-keycloak-theme)
+*   [A Keycloak theme based on the AdminLTE UI library (⭐89)](https://github.com/MAXIMUS-DeltaWare/adminlte-keycloak-theme)
 
 ### Docker
 
@@ -127,12 +127,12 @@
 
 ### Example Projects
 
-*   [Official Examples (⭐16k)](https://github.com/keycloak/keycloak/tree/master/examples)
-*   [Keycloak Quickstarts (⭐1.5k)](https://github.com/keycloak/keycloak-quickstarts)
+*   [Official Examples (⭐18k)](https://github.com/keycloak/keycloak/tree/master/examples)
+*   [Keycloak Quickstarts (⭐1.6k)](https://github.com/keycloak/keycloak-quickstarts)
 *   [Drupal 7.0 with Keycloak](https://gist.github.com/thomasdarimont/17fa146c4fb5440d7fc2ee6322ec392d)
-*   [Securing Realm Resources With Custom Roles (⭐13)](https://github.com/dteleguin/custom-admin-roles)
-*   [BeerCloak: a comprehensive KeyCloak extension example (⭐121)](https://github.com/dteleguin/beercloak)
-*   [KeyCloak Extensions: Securing Realm Resources With Custom Roles (⭐13)](https://github.com/dteleguin/custom-admin-roles)
+*   [Securing Realm Resources With Custom Roles (⭐14)](https://github.com/dteleguin/custom-admin-roles)
+*   [BeerCloak: a comprehensive KeyCloak extension example (⭐123)](https://github.com/dteleguin/beercloak)
+*   [KeyCloak Extensions: Securing Realm Resources With Custom Roles (⭐14)](https://github.com/dteleguin/custom-admin-roles)
 
 ### Benchmarks
 
@@ -175,7 +175,7 @@
 
 ### Audio Related Packages / Transformations - General DSP
 
-*   [NSGT](https://grrrr.org/research/software/nsgt/) [:octocat: (⭐87)](https://github.com/grrrr/nsgt) [:package:](https://pypi.python.org/pypi/nsgt) - Non-stationary gabor transform, constant-q.
+*   [NSGT](https://grrrr.org/research/software/nsgt/) [:octocat: (⭐90)](https://github.com/grrrr/nsgt) [:package:](https://pypi.python.org/pypi/nsgt) - Non-stationary gabor transform, constant-q.
 
 ## [15. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
 

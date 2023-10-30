@@ -28,25 +28,25 @@
 
 ### Utility / Collection View Layout
 
-*   [Eject (⭐524)](https://github.com/Rightpoint/Eject) - An eject button for Interface Builder to generate swift code.
+*   [Eject (⭐523)](https://github.com/Rightpoint/Eject) - An eject button for Interface Builder to generate swift code.
 
 ## [5. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Cloud Development / Angular
+### Cloud Development / Svelte
 
 *   [Your weekly Azure news fix](https://azureweekly.info/). Azure Weekly is a summary of the week's top news in the Microsoft Azure ecosystem, as well as interesting historic content that's well worth reading.
 
 ## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Build and Package / MIT
+### Build and Package / Apache License
 
-*   [alire (⭐208)](https://github.com/alire-project/alire) - A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam.
+*   [alire (⭐230)](https://github.com/alire-project/alire) - A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam.
 
 ## [7. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Honeypots / Tarpits
 
-*   [Endlessh (⭐5.8k)](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner.
+*   [Endlessh (⭐6.2k)](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner.
 *   [LaBrea](http://labrea.sourceforge.net/labrea-info.html) - Program that answers ARP requests for unused IP space, creating the appearance of fake machines that answer further requests very slowly in order to slow down scanners, worms, etcetera.
 
 ## [8. Awesome Ava](/content/avajs/awesome-ava/README.md)

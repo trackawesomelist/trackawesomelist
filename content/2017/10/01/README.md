@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 01, 2017
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,27 +16,27 @@
 
 ### C / Git
 
-*   [themis (⭐1.6k)](https://github.com/cossacklabs/themis) - High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many languages and platforms, suitable for client-server infastructures.
+*   [themis (⭐1.7k)](https://github.com/cossacklabs/themis) - High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many languages and platforms, suitable for client-server infastructures.
 
 ### Go / Git
 
-*   [goThemis (⭐1.6k)](https://github.com/cossacklabs/themis/wiki/Go-Howto) - Go wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+*   [goThemis (⭐1.7k)](https://github.com/cossacklabs/themis/wiki/Go-Howto) - Go wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ### Java / Git
 
-*   [Java Themis (⭐1.6k)](https://github.com/cossacklabs/themis/wiki/Java-and-Android-Howto) - Java/Android wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+*   [Java Themis (⭐1.7k)](https://github.com/cossacklabs/themis/wiki/Java-and-Android-Howto) - Java/Android wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ### PHP / Git
 
-*   [PHP Themis (⭐1.6k)](https://github.com/cossacklabs/themis/wiki/PHP-Howto) - PHP wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+*   [PHP Themis (⭐1.7k)](https://github.com/cossacklabs/themis/wiki/PHP-Howto) - PHP wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ### Python / Git
 
-*   [pythemis (⭐1.6k)](https://github.com/cossacklabs/themis/wiki/Python-Howto) - Python wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+*   [pythemis (⭐1.7k)](https://github.com/cossacklabs/themis/wiki/Python-Howto) - Python wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ### Ruby / Git
 
-*   [Ruby Themis (⭐1.6k)](https://github.com/cossacklabs/themis/wiki/Ruby-Howto) - Ruby wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+*   [Ruby Themis (⭐1.7k)](https://github.com/cossacklabs/themis/wiki/Ruby-Howto) - Ruby wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ## [3. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -81,27 +81,19 @@
 
 *   Dragan Djuric <http://dragan.rocks>
 
-## [6. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
-
-### Stalled Development
-
-*   [**Flexbox Grid**](https://flexboxgrid.com) - Grid based on CSS3 flexbox.\
-    ![](https://img.shields.io/github/stars/kristoferjoseph/flexboxgrid.svg?style=social\&label=Star)
-    [Repo (⭐9.3k)](https://github.com/kristoferjoseph/flexboxgrid)
-
-## [7. Awesome Computer History](/content/watson/awesome-computer-history/README.md)
+## [6. Awesome Computer History](/content/watson/awesome-computer-history/README.md)
 
 ### Videos / Old recordings
 
 *   [A Computer Animated Hand](https://www.youtube.com/watch?v=Jjbax5HYHLQ) (1972) - One of the earliest examples of computer animation
 
-## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### IoC
 
 *   [Unity (⭐1.6k)](https://github.com/unitycontainer/unity) - Lightweight extensible dependency injection container with support for constructor, property, and method call injection
 
-## [9. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [8. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Hardware / Companies
 

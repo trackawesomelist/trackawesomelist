@@ -34,7 +34,7 @@
 
 ### C / Syntax highlighting packages
 
-*   [Grooves Game Boy Programming (⭐81)](https://github.com/gbdk-salvage/grooves-game-boy-programming) - A complete set of lessons about implementing various game mechanics in a Game Boy game.
+*   [Grooves Game Boy Programming (⭐82)](https://github.com/gbdk-salvage/grooves-game-boy-programming) - A complete set of lessons about implementing various game mechanics in a Game Boy game.
 *   [GBDK Sprite](http://gbdev.gg8.se/wiki/articles/GBDK_Sprite_Tutorial) - Presents a workflow for getting multiple sprites to display and animate.
 *   [GBDK Color](http://gbdev.gg8.se/wiki/articles/GBDK_Color_Tutorial) - Extends your knowledge of basic spriting on the Game Boy by adding colors to sprites, backgrounds and the window layer.
 *   [GBDK Joypad](http://gbdev.gg8.se/wiki/articles/GBDK_Joypad_Tutorial) - Details the use of the joypad with GBDK.
@@ -104,14 +104,14 @@
 
 *   Profiler
     *   [line\_profiler (⭐3.6k)](https://github.com/rkern/line_profiler) - Line-by-line profiling.
-    *   [memory\_profiler (⭐79)](https://github.com/fabianp/memory_profiler) - Monitor Memory usage of Python code.
-    *   [py-spy (⭐9.9k)](https://github.com/benfred/py-spy) - A sampling profiler for Python programs. Written in Rust.
+    *   [memory\_profiler (⭐81)](https://github.com/fabianp/memory_profiler) - Monitor Memory usage of Python code.
+    *   [py-spy (⭐10k)](https://github.com/benfred/py-spy) - A sampling profiler for Python programs. Written in Rust.
     *   [pyflame (⭐3k)](https://github.com/uber/pyflame) - A ptracing profiler For Python.
     *   [vprof (⭐3.9k)](https://github.com/nvdv/vprof) - Visual Python profiler.
 
 ### Third-party APIs
 
-*   [boto3 (⭐8k)](https://github.com/boto/boto3) - Python interface to Amazon Web Services.
+*   [boto3 (⭐8.2k)](https://github.com/boto/boto3) - Python interface to Amazon Web Services.
 
 ## [14. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -155,7 +155,7 @@
 *   [Zotero](https://www.zotero.org/) - Open-source citation management software.
 *   [TiddlyWiki](http://tiddlywiki.com/) - Easily create your own wikis to organize information.
 *   [Evergreen ILS](http://evergreen-ils.org/) - Software for managing a library of books (and the loaning process).
-*   [ISLE (⭐211)](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA.
+*   [ISLE (⭐213)](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA.
 *   [GanttProject](http://www.ganttproject.biz/) - Productivity tool for scheduling tasks and making Gantt charts.
 *   [Open Science Framework](https://osf.io/) - Open-source collaborative project manager for scientific research.
 *   [Calibre](http://calibre-ebook.com/) - eBook management software.
@@ -203,13 +203,13 @@
 
 ### Packages / Command-line apps
 
-*   [lessmd (⭐127)](https://github.com/linuxenko/lessmd) - Markdown in the terminal.
+*   [lessmd](https://github.com/linuxenko/lessmd) - Markdown in the terminal.
 *   [cost-of-modules (⭐2.8k)](https://github.com/siddharthkp/cost-of-modules) - Find out which dependencies are slowing you down.
-*   [localtunnel (⭐16k)](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world.
+*   [localtunnel (⭐17k)](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world.
 
 ### Packages / Text
 
-*   [unhomoglyph (⭐32)](https://github.com/nodeca/unhomoglyph) - Normalize visually similar unicode characters.
+*   [unhomoglyph (⭐34)](https://github.com/nodeca/unhomoglyph) - Normalize visually similar unicode characters.
 
 ## [19. Tools](/content/lvwzhen/tools/week/README.md)
 
@@ -221,7 +221,7 @@
 
 ### GUI
 
-*   [FastColoredTextBox (⭐1.1k)](https://github.com/PavelTorgashov/FastColoredTextBox) - Fast Colored TextBox is text editor component for .NET. Allows you to create custom text editor with syntax highlighting. It works well with small, medium, large and very-very large files.
+*   [FastColoredTextBox (⭐1.2k)](https://github.com/PavelTorgashov/FastColoredTextBox) - Fast Colored TextBox is text editor component for .NET. Allows you to create custom text editor with syntax highlighting. It works well with small, medium, large and very-very large files.
 
 ## [21. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
@@ -233,7 +233,7 @@
 
 ### Demo
 
-*   [Xeta (⭐55)](https://github.com/XetaIO/Xeta) - A resource to help people starting with CakePHP.
+*   [Xeta (⭐54)](https://github.com/XetaIO/Xeta) - A resource to help people starting with CakePHP.
 
 ## [23. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -324,7 +324,7 @@
 
 ### Open Source / Other
 
-*   [Stacer (⭐8.4k)](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer.
+*   [Stacer (⭐8.6k)](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer.
 
 ## [34. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
@@ -358,11 +358,11 @@
 
 ### Frameworks, Libraries and Tools / Mail
 
-*   [MailBody (⭐155)](https://github.com/doxakis/MailBody) - Create transactional email with a fluent interface (.NET).
+*   [MailBody (⭐154)](https://github.com/doxakis/MailBody) - Create transactional email with a fluent interface (.NET).
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [AngleSharp (⭐4.3k)](https://github.com/AngleSharp/AngleSharp) - The ultimate angle brackets parser library. It parses HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specification. Comparable to beautifulsoup4 of python.
+*   [AngleSharp (⭐4.8k)](https://github.com/AngleSharp/AngleSharp) - The ultimate angle brackets parser library. It parses HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specification. Comparable to beautifulsoup4 of python.
 
 ## [39. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -457,7 +457,7 @@ git var -l | <variable>
 
 ### Tools and session management
 
-*   [tat (⭐37)](https://github.com/ryandotsmith/tat) Tab completion for tmux sessions
+*   [tat (⭐38)](https://github.com/ryandotsmith/tat) Tab completion for tmux sessions
 
 ### Books / Development and testing
 
@@ -485,7 +485,7 @@ git var -l | <variable>
 
 ### Modules / Date & Time
 
-*   [timeago.js (⭐4.8k)](https://github.com/hustcc/timeago.js) - A tiny(\~1.7kb) library used to format date with `*** time ago` statement.
+*   [timeago.js (⭐5k)](https://github.com/hustcc/timeago.js) - A tiny(\~1.7kb) library used to format date with `*** time ago` statement.
 
 ---
 

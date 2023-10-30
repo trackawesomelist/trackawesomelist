@@ -28,7 +28,7 @@
 
 ### Specialty Topics / Shaders
 
-*   📚 [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html) 🔥 - Shaders to improve your games. \[[Source (⭐15k)](https://github.com/lettier/3d-game-shaders-for-beginners)]
+*   📚 [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html) 🔥 - Shaders to improve your games. \[[Source (⭐16k)](https://github.com/lettier/3d-game-shaders-for-beginners)]
 
 ### Specialty Topics / Signed Distance Fields
 
@@ -36,19 +36,19 @@
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zpy (⭐40)](https://github.com/AndydeCleyre/zpy) - Manage Python Environments, dependencies, and isolated app installations, with a ZSH frontend to [pip-tools (⭐6.8k)](https://github.com/jazzband/pip-tools).
+*   [zpy (⭐45)](https://github.com/AndydeCleyre/zpy) - Manage Python Environments, dependencies, and isolated app installations, with a ZSH frontend to [pip-tools (⭐7.2k)](https://github.com/jazzband/pip-tools).
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [kubectl-plugin (⭐10)](https://github.com/MartinSimango/kubectl-plugin_completion) - Generates `kubectl` completion scripts to extend the `kubectl` auto complete functionality to accomodate for plugin sub-commands.
+*   [kubectl-plugin (⭐11)](https://github.com/MartinSimango/kubectl-plugin_completion) - Generates `kubectl` completion scripts to extend the `kubectl` auto complete functionality to accomodate for plugin sub-commands.
 
 ## [5. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
 ### Global Connectivity Indexes
 
-*   [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) - (2021) Measures countries against four enablers of mobile internet adoption: Infrastructure, Affordability, Consumer Readiness and Content.
+*   [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) - (2022) Measures countries against four enablers of mobile internet adoption: Infrastructure, Affordability, Consumer Readiness and Content.
 *   [Inclusive Internet Index](https://theinclusiveinternet.eiu.com/) - (2022) Index sponsored by Meta measuring internet connectivity against Availability, Affordability, Relevance and Readiness.
 
 ### Connectivity Maps
@@ -58,10 +58,9 @@
 
 ### Periodic Global Connectivity Reports
 
-*   Mobile Gender Gap Report from GSMA - ([2022](https://www.gsma.com/r/wp-content/uploads/2022/06/The-Mobile-Gender-Gap-Report-2022.pdf)) ([2021](https://www.gsma.com/r/wp-content/uploads/2021/07/The-Mobile-Gender-Gap-Report-2021.pdf)) ([2020](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2020/02/GSMA-The-Mobile-Gender-Gap-Report-2020.pdf)) ([2019](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/03/GSMA-Connected-Women-The-Mobile-Gender-Gap-Report-2019.pdf)) ([2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/04/GSMA_The_Mobile_Gender_Gap_Report_2018_32pp_WEBv7.pdf))
 *   [GSMA Mobile Economy](https://www.gsma.com/mobileeconomy/) - ([2023](https://www.gsma.com/mobileeconomy/wp-content/uploads/2023/03/270223-The-Mobile-Economy-2023.pdf)) ([2022](https://www.gsma.com/mobileeconomy/wp-content/uploads/2022/02/280222-The-Mobile-Economy-2022.pdf)) ([2019](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2019.pdf)) ([2018](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2018.pdf))
 *   Broadband Commission: The State of Broadband - ([2021](https://broadbandcommission.org/publication/state-of-broadband-2021/)) ([2020](https://www.itu.int/dms_pub/itu-s/opb/pol/S-POL-BROADBAND.21-2020-PDF-E.pdf)) ([2019](https://www.broadbandcommission.org/Documents/StateofBroadband19.pdf))([2018](https://www.broadbandcommission.org/publications/Pages/SOB-2018.aspx))  ([2017](http://www.broadbandcommission.org/publications/Pages/SOB-2017.aspx))
-*   [Ericsson Mobility Report](https://www.ericsson.com/en/mobility-report) - ([Nov 2022](https://www.ericsson.com/4ae28d/assets/local/reports-papers/mobility-report/documents/2022/ericsson-mobility-report-november-2022.pdf)) ([Jun 2022](https://www.ericsson.com/49d3a0/assets/local/reports-papers/mobility-report/documents/2022/ericsson-mobility-report-june-2022.pdf)) ([Nov 2021](https://www.ericsson.com/assets/local/reports-papers/mobility-report/documents/2021/ericsson-mobility-report-november-2021.pdf)) ([Q2 2020 Update](https://www.ericsson.com/4a4e5d/assets/local/mobility-report/documents/2020/emr-q2-update-03092020.pdf)) ([Jun 2020](https://www.ericsson.com/49c840/assets/local/mobility-report/documents/2020/june2020-ericsson-mobility-report.pdf)) ([Nov 2019](https://www.ericsson.com/en/mobility-report/reports/november-2019)) ([Nov 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-november-2018.pdf)) ([June 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-june-2018.pdf)).
+*   [Ericsson Mobility Report](https://www.ericsson.com/en/mobility-report) - ([Jun 2023](https://www.ericsson.com/en/reports-and-papers/mobility-report/reports/june-2023)) ([Nov 2022](https://www.ericsson.com/4ae28d/assets/local/reports-papers/mobility-report/documents/2022/ericsson-mobility-report-november-2022.pdf)) ([Jun 2022](https://www.ericsson.com/49d3a0/assets/local/reports-papers/mobility-report/documents/2022/ericsson-mobility-report-june-2022.pdf)) ([Nov 2021](https://www.ericsson.com/assets/local/reports-papers/mobility-report/documents/2021/ericsson-mobility-report-november-2021.pdf)) ([Q2 2020 Update](https://www.ericsson.com/4a4e5d/assets/local/mobility-report/documents/2020/emr-q2-update-03092020.pdf)) ([Jun 2020](https://www.ericsson.com/49c840/assets/local/mobility-report/documents/2020/june2020-ericsson-mobility-report.pdf)) ([Nov 2019](https://www.ericsson.com/en/mobility-report/reports/november-2019)) ([Nov 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-november-2018.pdf)) ([June 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-june-2018.pdf)).
 *   [OECD Broadband Portal](https://www.oecd.org/internet/broadband/broadband-statistics/) - Latest data update: 10 February 2022.
 
 ### Regional Connectivity Reports and Data
@@ -95,11 +94,11 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [GitHub CLI (⭐32k)](https://github.com/cli/cli) - gh is GitHub on the command line. It brings pull requests, issues, and other GitHub concepts to the terminal next to where you are already working with git and your code. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [GitHub CLI (⭐34k)](https://github.com/cli/cli) - gh is GitHub on the command line. It brings pull requests, issues, and other GitHub concepts to the terminal next to where you are already working with git and your code. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Version Control
 
-*   [Gitbar (⭐349)](https://github.com/Shikkic/gitbar) - Open-source，display GitHub contribution statistics on your menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Shikkic/gitbar)
+*   [Gitbar (⭐352)](https://github.com/Shikkic/gitbar) - Open-source，display GitHub contribution statistics on your menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Shikkic/gitbar)
 
 ### Developer Tools / Virtualization
 
@@ -111,7 +110,7 @@
 
 ### Design and Product / Design Tools
 
-*   [ScreenToLayers (⭐126)](https://github.com/duyquoc/ScreenToLayers) - Easily export your screen into a layered PSD file. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/duyquoc/ScreenToLayers) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/screentolayers/id1077317077)
+*   [ScreenToLayers (⭐134)](https://github.com/duyquoc/ScreenToLayers) - Easily export your screen into a layered PSD file. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/duyquoc/ScreenToLayers) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/screentolayers/id1077317077)
 
 ### Audio and Video Tools / File Sharing
 
@@ -124,7 +123,7 @@
 
 ### Input Methods / File Sharing
 
-*   [Touch Emoji (⭐46)](https://github.com/lessmess-dev/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/lessmess-dev/touch-emoji)
+*   [Touch Emoji (⭐48)](https://github.com/lessmess-dev/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/lessmess-dev/touch-emoji)
 
 ### Browsers / File Sharing
 
@@ -136,7 +135,7 @@
 
 ### Security Tools / File Sharing
 
-*   [LuLu](https://objective-see.com/products/lulu.html) - LuLu is the free macOS firewall that aims to block unauthorized (outgoing) network traffic. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://www.tinc-vpn.org/git/browse?p=tinc) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [LuLu](https://objective-see.com/products/lulu.html) - LuLu is the free macOS firewall that aims to block unauthorized (outgoing) network traffic. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/objective-see/LuLu) [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md/1) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / File Organization Tools
 

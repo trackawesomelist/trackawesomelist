@@ -10,7 +10,7 @@
 
 ### Software / Web Applications
 
-*   [Neocities](https://neocities.org/) - GeoCities for the modern world. ([BSD 2-clause (⭐954)](https://github.com/neocities/neocities/blob/master/LICENSE.txt))
+*   [Neocities](https://neocities.org/) - GeoCities for the modern world. ([BSD 2-clause (⭐1.1k)](https://github.com/neocities/neocities/blob/master/LICENSE.txt))
 
 ## [2. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Extensions
 
-*   [Next Routes (⭐2.4k)](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
+*   [Next Routes (⭐2.5k)](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
 
 ## [5. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-image-lightbox (⭐328)](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
+*   [vue-image-lightbox (⭐335)](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
 
 ## [11. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [optparse (⭐144)](https://github.com/nk412/optparse) - A BASH wrapper for getopts, for simple command line arguments.
+*   [optparse (⭐146)](https://github.com/nk412/optparse) - A BASH wrapper for getopts, for simple command line arguments.
 *   [shellfire (⭐1.2k)](https://github.com/shellfire-dev/shellfire) -  A repository of namespaced, composable shell (bash, sh and dash) function libraries
 
 ## [2. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
@@ -23,13 +23,13 @@
 
 ### Web Apps (open source)
 
-*   [Transitive.js (⭐658)](https://github.com/conveyal/transitive.js) - Creates a customizable web map layer of transit routes using Leaflet or D3.
+*   [Transitive.js (⭐664)](https://github.com/conveyal/transitive.js) - Creates a customizable web map layer of transit routes using Leaflet or D3.
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### UI / Barcode
 
-*   [LeeGo (⭐968)](https://github.com/wangshengjia/LeeGo) - Declarative, configurable & highly reusable UI development as making Lego bricks.
+*   [LeeGo (⭐967)](https://github.com/wangshengjia/LeeGo) - Declarative, configurable & highly reusable UI development as making Lego bricks.
 
 ### Walkthrough / Barcode
 
@@ -65,7 +65,7 @@
 
 ### Cryptography
 
-*   [Pkcs11Interop (⭐231)](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
+*   [Pkcs11Interop (⭐235)](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
 
 ## [9. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
@@ -123,41 +123,41 @@
 
 ### Development Environment
 
-*   [CakePHP Vagrant Setup](https://github.com/cpierce/cakephp-vagrant-setup) - Tool for spinning up multiple CakePHP 3.x Vanilla Dev Environments.
+*   [CakePHP Vagrant Setup (⭐5)](https://github.com/cpierce/cakephp-vagrant-setup) - Tool for spinning up multiple CakePHP vanilla dev environments.
 
 ## [15. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### E-Commerce and Payments
 
-*   [Braintree (⭐429)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
+*   [Braintree (⭐433)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
 
 ## [16. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
 ### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
-*   [Русский (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU)
+*   [Русский (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU)
 
 ## [17. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Stream
 
-*   [split (⭐345)](https://github.com/dominictarr/split) - Break up a stream and reassemble it so that each line is a chunk.
+*   [split (⭐346)](https://github.com/dominictarr/split) - Break up a stream and reassemble it so that each line is a chunk.
 
 ## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Artificial Intelligence
 
 *   [ANNetGPGPU (⭐99)](https://github.com/ANNetGPGPU/ANNetGPGPU) - A GPU (CUDA) based Artificial Neural Network library. \[LGPL]
-*   [Recast/Detour (⭐5.5k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
-*   [Veles (⭐900)](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. \[Apache]
+*   [Recast/Detour (⭐5.8k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
+*   [Veles (⭐904)](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. \[Apache]
 
 ### Multimedia
 
-*   [SFML (⭐8.7k)](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. \[zlib] [website](http://www.sfml-dev.org/)
+*   [SFML (⭐9.1k)](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. \[zlib] [website](http://www.sfml-dev.org/)
 
 ### Scripting
 
-*   [Duktape (⭐5.6k)](https://github.com/svaarala/duktape) - An embeddable Javascript engine with compact footprint. \[MIT] [website](http://duktape.org)
+*   [Duktape (⭐5.7k)](https://github.com/svaarala/duktape) - An embeddable Javascript engine with compact footprint. \[MIT] [website](http://duktape.org)
 
 ### Web Application Framework
 
@@ -166,7 +166,7 @@
 ### Other Awesome Projects
 
 *   [Awesome C](https://notabug.org/koz.ross/awesome-c) 1
-*   [Awesome C (⭐3.1k)](https://github.com/aleksandar-todorovic/awesome-c) 2
+*   [Awesome C (⭐3.2k)](https://github.com/aleksandar-todorovic/awesome-c) 2
 
 ## [19. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
@@ -178,11 +178,11 @@
 
 ### Examples and funny stuff
 
-*   [ex\_chain (⭐19)](https://github.com/eljojo/ex_chain) - Simple Markov Chain that generates funny tweets, built using Elixir.
+*   [ex\_chain (⭐20)](https://github.com/eljojo/ex_chain) - Simple Markov Chain that generates funny tweets, built using Elixir.
 
 ### Images
 
-*   [cloudex (⭐98)](https://github.com/smeevil/cloudex) - Cloudex is an Elixir library that can upload image files or urls to Cloudinary.
+*   [cloudex (⭐99)](https://github.com/smeevil/cloudex) - Cloudex is an Elixir library that can upload image files or urls to Cloudinary.
 
 ## [21. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -219,7 +219,7 @@
 
 ### Open Source / Other
 
-*   [Crypter (⭐449)](https://github.com/HR/Crypter) - Secure encryption client.
+*   [Crypter (⭐453)](https://github.com/HR/Crypter) - Secure encryption client.
 
 ## [26. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 

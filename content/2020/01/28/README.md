@@ -57,13 +57,13 @@
     *   [Good first issues](https://make.wordpress.org/cli/good-first-issues/) - List of issues on that are limited in scope and complexity.
 *   [WP-CLI GitHub organization](https://github.com/wp-cli) - Canonical home of the WP-CLI source code.
     *   [WP-CLI framework repository (⭐4.7k)](https://github.com/wp-cli/wp-cli) - The source code for the WP-CLI framework that powers all of the commands.
-    *   [WP-CLI bundle repository (⭐72)](https://github.com/wp-cli/wp-cli-bundle) - The source for the WP-CLI "binary" and how it is assembled.
+    *   [WP-CLI bundle repository (⭐74)](https://github.com/wp-cli/wp-cli-bundle) - The source for the WP-CLI "binary" and how it is assembled.
     *   [WP-CLI tests repository (⭐30)](https://github.com/wp-cli/wp-cli-tests) - The testing framework used throughout all WP-CLI repositories.
 
 ### Third-party packages / Notable packages
 
-*   [Yoast/wp-cli-faker (⭐55)](https://github.com/Yoast/wp-cli-faker) - Generate fake WordPress and WooCommerce content for testing purposes.
-*   [aaemnnosttv/wp-cli-login-command (⭐266)](https://github.com/aaemnnosttv/wp-cli-login-command) - Login to WordPress with secure passwordless magic links.
+*   [Yoast/wp-cli-faker (⭐59)](https://github.com/Yoast/wp-cli-faker) - Generate fake WordPress and WooCommerce content for testing purposes.
+*   [aaemnnosttv/wp-cli-login-command (⭐269)](https://github.com/aaemnnosttv/wp-cli-login-command) - Login to WordPress with secure passwordless magic links.
 
 ### Tutorials & guides / Notable packages
 
@@ -87,24 +87,24 @@
 
 ### Auditing / Logging
 
-*   [Muffin/Footprint plugin (⭐89)](https://github.com/UseMuffin/Footprint) - Plugin to allow passing currently logged in user to model layer.
+*   🍰 [Muffin/Footprint plugin (⭐89)](https://github.com/UseMuffin/Footprint) - Plugin to allow passing currently logged in user to model layer.
 
 ### Authentication and Authorization
 
-*   [CakeDC/Users plugin (⭐510)](https://github.com/CakeDC/users) - Complete user management (admin panel, remember me, etc), Social login (FB, Twitter, LinkedIn, Google, Instagram), RBAC, API and more.
+*   🍰 [CakeDC/Users plugin (⭐513)](https://github.com/CakeDC/users) - Complete user management (admin panel, remember me, etc), Social login (FB, Twitter, LinkedIn, Google, Instagram), RBAC, API and more.
 *   [Muffin/Tokenize plugin (⭐12)](https://github.com/UseMuffin/Tokenize) - Event driven behavior for easily generating single-use security tokens.
 
 ### Migration
 
-*   [Migrations plugin (⭐123)](https://github.com/cakephp/migrations) - (DB) Migration plugin.
+*   🍰 [Migrations plugin (⭐128)](https://github.com/cakephp/migrations) - (DB) Migration plugin.
 
 ### ORM / Database / Datamapping
 
-*   [Muffin/Trash plugin](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP.
+*   🍰 [Muffin/Trash plugin (⭐80)](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP.
 
 ### REST and API
 
-*   [CakeDC/Api plugin (⭐59)](https://github.com/CakeDC/cakephp-api) - All-in-one solution to provide a complete API. It includes versioning, renderers, CRUD, authentication, extensions (paginate, filter, HATEOAS), and much more.
+*   🍰 [CakeDC/Api plugin (⭐59)](https://github.com/CakeDC/cakephp-api) - All-in-one solution to provide a complete API. It includes versioning, renderers, CRUD, authentication, extensions (paginate, filter, HATEOAS), and much more.
 
 ## [8. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
@@ -134,7 +134,7 @@
 
 ### Tab Bar
 
-*   [BEKCurveTabbar (⭐170)](https://github.com/behrad-kzm/BEKCurveTabbar) - compatible with XCode +10 and fully customizable via Interface\_Builder panel. BEKCurveTabBar derived UITabBar class and compatible with every iOS devices.
+*   [BEKCurveTabbar (⭐172)](https://github.com/behrad-kzm/BEKCurveTabbar) - compatible with XCode +10 and fully customizable via Interface\_Builder panel. BEKCurveTabBar derived UITabBar class and compatible with every iOS devices.
 
 ## [12. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

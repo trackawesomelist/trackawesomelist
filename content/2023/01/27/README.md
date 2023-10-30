@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 27, 2023
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,17 +16,17 @@
 
 ### Projects
 
-*   [hurlurl (⭐27)](https://github.com/lucasmerlin/hurlurl) - A randomizing link shortener, [Live Demo](https://hurlurl.com/).
+*   [hurlurl (⭐40)](https://github.com/lucasmerlin/hurlurl) - A randomizing link shortener, [Live Demo](https://hurlurl.com/).
 
 ### Crates / Component Libraries
 
-*   [yew-duskmoon-ui (⭐4)](https://github.com/gsmlg-dev/yew-duskmoon-ui) - Duskmoon UI Component Library. This package use `stylist` to embbed css in components, so no extra CSS file is needed. [Live Demo](https://gsmlg-dev.github.io/yew-duskmoon-ui/).
+*   [yew-duskmoon-ui (⭐5)](https://github.com/gsmlg-dev/yew-duskmoon-ui) - Duskmoon UI Component Library. This package use `stylist` to embbed css in components, so no extra CSS file is needed. [Live Demo](https://gsmlg-dev.github.io/yew-duskmoon-ui/).
 
 ## [3. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / Spotify
 
-*   [spotifyd (⭐8.7k)](https://github.com/Spotifyd/spotifyd): unix daemon, using librespot.
+*   [spotifyd (⭐9k)](https://github.com/Spotifyd/spotifyd): unix daemon, using librespot.
 
 ### Overview / Medium
 
@@ -35,21 +35,21 @@
 
 ### Overview / IMDb
 
-*   [libremdb (⭐133)](https://github.com/zyachel/libremdb): A FOSS alternative front-end to IMDb.
+*   [libremdb (⭐174)](https://github.com/zyachel/libremdb): A FOSS alternative front-end to IMDb.
     *   Official instance: <https://libremdb.iket.me/>
-    *   Public Instances: [https://github.com/zyachel/libremdb#instances (⭐133)](https://github.com/zyachel/libremdb#instances)
+    *   Public Instances: [https://github.com/zyachel/libremdb#instances (⭐174)](https://github.com/zyachel/libremdb#instances)
 
 ### Overview / Quora
 
-*   [Quetre (⭐227)](https://github.com/zyachel/quetre): A libre front-end for Quora
+*   [Quetre (⭐342)](https://github.com/zyachel/quetre): A libre front-end for Quora
     *   Official website: <https://quetre.iket.me/>
-    *   Public instances: [https://github.com/zyachel/quetre#instances (⭐227)](https://github.com/zyachel/quetre#instances)
+    *   Public instances: [https://github.com/zyachel/quetre#instances (⭐342)](https://github.com/zyachel/quetre#instances)
 
 ## [4. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Media
 
-*   [TMDBM (⭐5)](https://github.com/88srzh/comics_db) - The Movie Database Mobile is a popular database for movies and TV shows by [srzh](https://github.com/88srzh)
+*   [TMDBM (⭐6)](https://github.com/88srzh/comics_db) - The Movie Database Mobile is a popular database for movies and TV shows by [srzh](https://github.com/88srzh)
 
 ## [5. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
@@ -73,10 +73,6 @@
 
 ## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-### Software / Communication - Social Networks and Forums
-
-*   [Libreddit (⭐4.4k)](https://github.com/spikecodes/libreddit/) `⚠` - Private front-end for Reddit written in Rust. `AGPL-3.0` `Rust`
-
 ### Software / Communication - XMPP - Web Clients
 
 *   [Libervia](https://repos.goffi.org/libervia-web) - Web frontend from Salut à Toi. `AGPL-3.0` `Python`
@@ -85,36 +81,32 @@
 
 *   [Magento Open Source (⭐11k)](https://github.com/magento/magento2) - Leading provider of open omnichannel innovation. `OSL-3.0` `PHP`
 *   [Mailchimp Open Commerce](https://mailchimp.com/developer/open-commerce/) - Customizable, real-time reactive, Javascript commerce platform (formerly Reaction Commerce). ([Source Code (⭐12k)](https://github.com/reactioncommerce/reaction)) `GPL-3.0` `Nodejs`
-*   [Open Source POS (⭐2.9k)](https://github.com/opensourcepos/opensourcepos) - Open Source Point of Sale is a web based point of sale system. `MIT` `PHP`
+*   [Open Source POS (⭐3k)](https://github.com/opensourcepos/opensourcepos) - Open Source Point of Sale is a web based point of sale system. `MIT` `PHP`
 *   [OXID eShop](https://oxidforge.org/en/) - OXID eShop is a flexible open source e-commerce software with a wide range of functionalities. ([Source Code (⭐214)](https://github.com/OXID-eSales/oxideshop_ce)) `GPL-3.0` `PHP`
 
 ### Software / Feed Readers
 
-*   [Kriss Feed (⭐272)](https://github.com/tontof/kriss_feed) - Simple and smart (or stupid) feed reader. `CC0-1.0` `PHP`
-
-### Software / File Transfer - Single-click & Drag-n-drop Upload
-
-*   [Picsur (⭐204)](https://github.com/rubikscraft/Picsur) - A simple imaging hosting playtfom that allows you to easily host, edit, and share images. `GPL-3.0` `Docker`
+*   [Kriss Feed (⭐271)](https://github.com/tontof/kriss_feed) - Simple and smart (or stupid) feed reader. `CC0-1.0` `PHP`
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
 *   [Arize AI](https://arize.com/) - Machine learning observability for model monitoring and root-causing issues such as data quality and performance drift. Free up to two models.
 
 ### Code Generation
 
-*   [Codeium](https://www.codeium.com/) — Codeium is a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc) and integrates with all major standalone and web IDEs.
+*   [Codeium](https://www.codeium.com/) — Codeium is a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc.) and integrates with all significant standalone and web IDEs.
 
 ### Monitoring
 
-*   [pagerly.io](https://pagerly.io/) -  Manage oncalls on Slack  (integrates with Pagerduty, OpsGenie) .Free upto 1 team (one team refers to one oncall)
+*   [pagerly.io](https://pagerly.io/) -  Manage on-calls on Slack  (integrates with Pagerduty, OpsGenie). Free up to 1 team (one team refers to one on call)
 
 ## [9. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Wwise (⭐135)](https://github.com/alessandrofama/wwise-godot-integration) - Wwise audio middleware integration.
+*   [Wwise (⭐162)](https://github.com/alessandrofama/wwise-godot-integration) - Wwise audio middleware integration.
 
 ## [10. Magictools](/content/ellisonleao/magictools/README.md)
 
@@ -124,7 +116,7 @@
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [6502 Unit Test executor (⭐3)](https://github.com/AsaiYusuke/6502_test_executor) - A cross-platform unit testing tool for MOS 6502 assembly. (i.e. NES)
+*   :tada: [6502 Unit Test executor (⭐5)](https://github.com/AsaiYusuke/6502_test_executor) - A cross-platform unit testing tool for MOS 6502 assembly. (i.e. NES)
 
 ## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -137,13 +129,7 @@
 
 ### Form Logic / Mouse Events
 
-*   [Phormal (⭐2)](https://github.com/phormal/phormal) - [Docs & Demos](https://phormal.dev/getting-started/react) - Responsive, multilingual forms with built-in validation, support for dark mode and right-to-left languages.
-
-## [13. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
-
-### Software / ChatOps
-
-*   [Errbot](http://errbot.io/) - a plugin based chatbot designed to be easily deployable, extensible and maintainable. ([Source Code (⭐2.9k)](https://github.com/errbotio/errbot)) `GPL-3.0` `Python`
+*   [Phormal (⭐3)](https://github.com/phormal/phormal) - [Docs & Demos](https://phormal.dev/getting-started/react) - Responsive, multilingual forms with built-in validation, support for dark mode and right-to-left languages.
 
 ---
 

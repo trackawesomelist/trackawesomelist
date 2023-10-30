@@ -16,7 +16,7 @@
 ### Services / Misc
 
 *   [Sendgrid](https://sendgrid.com/) - Delivering your transactional and marketing email through one reliable platform.
-*   [Postal (⭐12k)](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
+*   [Postal (⭐13k)](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
 
 ### Copy / Misc
 
@@ -26,19 +26,19 @@
 
 ### Audio Libraries
 
-*   [Librosa (⭐5.8k)](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
+*   [Librosa (⭐6.2k)](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
 
 ## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Demo
 
-*   [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld (⭐72k)](https://github.com/gothinkster/realworld-example-apps) spec and API.
+*   [RealWorld (⭐105)](https://github.com/gothinkster/cakephp-realworld-example-app) - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld (⭐77k)](https://github.com/gothinkster/realworld-example-apps) spec and API.
 
 ## [4. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 
 ### System
 
-*   [Fkill (⭐467)](https://github.com/SamVerschueren/alfred-fkill) - Fabulously search and kill processes.
+*   [Fkill (⭐473)](https://github.com/SamVerschueren/alfred-fkill) - Fabulously search and kill processes.
 
 ## [5. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
@@ -50,13 +50,13 @@
 
 ### IDE
 
-*   [RoslynPad (⭐1.9k)](https://github.com/aelij/RoslynPad) - A simple C# editor based on Roslyn and AvalonEdit.
+*   [RoslynPad (⭐2.1k)](https://github.com/aelij/RoslynPad) - A simple C# editor based on Roslyn and AvalonEdit.
 
 ## [7. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 
 ### Libraries
 
-*   [Pangolin (⭐1.8k)](https://github.com/stevenlovegrove/Pangolin) - Lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
+*   [Pangolin (⭐2k)](https://github.com/stevenlovegrove/Pangolin) - Lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
 
 ---
 

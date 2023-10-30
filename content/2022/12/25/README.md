@@ -16,21 +16,13 @@
 
 ### Runtimes/Frontends
 
-*   [Panel (⭐2.7k)](https://github.com/holoviz/panel) - Notebooks as static files or interactive and standalone server-/client-side (via pyodide) apps.
+*   [Panel (⭐3k)](https://github.com/holoviz/panel) - Notebooks as static files or interactive and standalone server-/client-side (via pyodide) apps.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Akkoma](https://akkoma.social/) - Federated microblogging server with Mastodon, GNU social, and ActivityPub compatibility. ([Source Code](https://akkoma.dev/AkkomaGang/akkoma)) `AGPL-3.0` `Elixir`
-
-### Software / Photo and Video Galleries
-
-*   [Chevereto (⭐148)](https://github.com/chevereto/chevereto) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. ([Source Code (⭐148)](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP`
-
-### Software / URL Shorteners
-
-*   [goshorly](https://gitea.hackmi.ch/Phil/goshorly) - An easy self-hosted Link shortener in Golang. `MIT` `Go`
+*   [Akkoma](https://akkoma.social/) - Federated microblogging server with Mastodon, GNU social, and ActivityPub compatibility. ([Source Code](https://akkoma.dev/AkkomaGang/akkoma)) `AGPL-3.0` `Elixir/Docker`
 
 ---
 

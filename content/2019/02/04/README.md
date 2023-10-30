@@ -26,12 +26,12 @@
 
 *   [Adapter](https://macroplant.com/adapter) -  Free audio, video and image conversion software. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Audacity](http://www.audacityteam.org/) - Free, open-source, cross-platform audio software for multi-track recording and editing. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/audacity/audacity)
-*   [Carol (⭐61)](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/AnaghSharma/Carol) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Carol (⭐84)](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/AnaghSharma/Carol) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Hydrogen](http://hydrogen-music.org/) - Professional yet simple and intuitive pattern-based drum programming for GNU/Linux. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/hydrogen-music/hydrogen)
 *   [IINA](https://lhc70000.github.io/iina/) - The modern video player for macOS. Based on mpv, the powerful media player project. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/lhc70000/iina) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Kodi](https://kodi.tv/) - Award-winning free and open-source (GPL) software media center for playing videos, music, pictures, games, and more. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/xbmc/xbmc) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [LosslessCut (⭐17k)](https://github.com/mifi/lossless-cut) - Cross platform tool for quick and lossless video and audio trimming using ffmpeg. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/mifi/lossless-cut)
-*   [LyricsX (⭐4k)](https://github.com/ddddxxx/LyricsX) - Lyrics for iTunes, Spotify and Vox. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ddddxxx/LyricsX) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [LosslessCut (⭐19k)](https://github.com/mifi/lossless-cut) - Cross platform tool for quick and lossless video and audio trimming using ffmpeg. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/mifi/lossless-cut)
+*   [LyricsX (⭐4.3k)](https://github.com/ddddxxx/LyricsX) - Lyrics for iTunes, Spotify and Vox. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ddddxxx/LyricsX) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Metadatics](http://markvapps.com/metadatics) - Advanced Audio Metadata Editor. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/metadatics/id554883654?mt=12)
 *   [Mixxx](http://mixxx.org/) - The most advanced free DJ software. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/mixxxdj/mixxx)
 *   [Movie Catcher](https://evilcult.github.io/moviecatcher/) - Movie movie and online viewing offline download software, with Baidu cloud to make offline download and online playback. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/EvilCult/moviecatcher)
@@ -47,7 +47,7 @@
 
 ## [3. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/README.md)
 
-### Articles
+### Articles / Video
 
 *   [Flash is dead, long live OpenFL!](http://gamasutra.com/blogs/LarsDoucet/20140318/213407/Flash_is_dead_long_live_OpenFL.php)
 *   [Flash is gone, what now?](https://www.linkedin.com/pulse/flash-gone-what-now-matan-uberstein/)
@@ -128,7 +128,7 @@
 
 ### Top / Game Engine resources
 
-*   [TailorMade (⭐282)](https://github.com/jogboms/tailor_made) <!--stargazers:jogboms/tailor_made--> - Managing a Fashion designer's daily routine using a mixture of ReBLoC w/ Firebase Cloud Store & Functions by [Jeremiah Ogbomo](https://twitter.com/jogboms)
+*   [TailorMade (⭐296)](https://github.com/jogboms/tailor_made) <!--stargazers:jogboms/tailor_made--> - Managing a Fashion designer's daily routine using a mixture of ReBLoC w/ Firebase Cloud Store & Functions by [Jeremiah Ogbomo](https://twitter.com/jogboms)
 
 ## [6. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

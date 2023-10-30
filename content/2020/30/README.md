@@ -24,9 +24,8 @@
 
 ## [3. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
-### Authentication / SAML
+### SAML / Macaroons
 
-*   [SAML vs. OAuth](https://www.cloudflare.com/learning/access-management/what-is-oauth/) - “OAuth is a protocol for authorization: it ensures Bob goes to the right parking lot. In contrast, SAML is a protocol for authentication, or allowing Bob to get past the guardhouse.”
 *   [The Difference Between SAML 2.0 and OAuth 2.0](https://www.ubisecure.com/uncategorized/difference-between-saml-and-oauth/) - “Even though SAML was actually designed to be widely applicable, its contemporary usage is typically shifted towards enterprise SSO scenarios. On the other hand, OAuth was designed for use with applications on the Internet, especially for delegated authorisation.”
 
 ## [4. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
@@ -37,7 +36,7 @@
 
 ## [5. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
 *   [terraform-landscape (⭐1.5k)](https://github.com/coinbase/terraform-landscape) - *(only 0.11 and earlier)* Improve Terraform's plan output to be easier to read and understand.
 
@@ -45,10 +44,10 @@
 
 ### Deprecated
 
-*   [PhantomFlow (⭐688)](https://github.com/Huddle/PhantomFlow) - Experimental approach to UI testing, based on Decision Trees.
-*   [Visual Review (⭐280)](https://github.com/xebia/VisualReview) - A human-friendly tool for testing and reviewing visual regressions.
-*   [Huxley (⭐4.1k)](https://github.com/facebookarchive/huxley) - Python framework based on [Selenium Webdriver (⭐25k)](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
-*   [WebdriverCSS (⭐625)](https://github.com/webdriverio/webdrivercss) - WebdriverCSS sits on top of [Webdriver.io (⭐7.8k)](https://github.com/webdriverio/webdriverio/) and hooks into [Selenium (⭐25k)](https://github.com/SeleniumHQ/selenium).
+*   [PhantomFlow (⭐686)](https://github.com/Huddle/PhantomFlow) - Experimental approach to UI testing, based on Decision Trees.
+*   [Visual Review (⭐279)](https://github.com/xebia/VisualReview) - A human-friendly tool for testing and reviewing visual regressions.
+*   [Huxley (⭐4.1k)](https://github.com/facebookarchive/huxley) - Python framework based on [Selenium Webdriver (⭐27k)](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
+*   [WebdriverCSS (⭐622)](https://github.com/webdriverio/webdrivercss) - WebdriverCSS sits on top of [Webdriver.io (⭐8.2k)](https://github.com/webdriverio/webdriverio/) and hooks into [Selenium (⭐27k)](https://github.com/SeleniumHQ/selenium).
 
 ## [7. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
 
@@ -76,13 +75,13 @@
 
 ### Files and Directories / File Sync/Sharing
 
-*   [google-drive-upload (⭐643)](https://github.com/labbots/google-drive-upload) - Upload/sync with Google Drive.
+*   [google-drive-upload (⭐656)](https://github.com/labbots/google-drive-upload) - Upload/sync with Google Drive.
 
 ## [11. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Other
 
-*   [shurley (⭐5)](https://github.com/BrunoBernardino/shurley) - Parses URLs from user input (with potential typos in protocols, bad copy+paste, etc.) and returns a proper URL.
+*   [shurley (⭐6)](https://github.com/BrunoBernardino/shurley) - Parses URLs from user input (with potential typos in protocols, bad copy+paste, etc.) and returns a proper URL.
 
 ## [12. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
@@ -99,8 +98,8 @@
 
 ### Libraries / Elixir
 
-*   [mongodb (⭐543)](https://github.com/kobil-systems/mongodb) - Community Elixir driver
-*   [mongodb\_ecto (⭐349)](https://github.com/kobil-systems/mongodb_ecto) - Adapter for the Ecto database wrapper
+*   [mongodb (⭐555)](https://github.com/kobil-systems/mongodb) - Community Elixir driver
+*   [mongodb\_ecto (⭐358)](https://github.com/kobil-systems/mongodb_ecto) - Adapter for the Ecto database wrapper
 
 ### Libraries / PHP
 
@@ -136,7 +135,7 @@
 ### Data Visualization / Runner
 
 *   [Frappe Charts (⭐15k)](https://github.com/frappe/charts) - GitHub-inspired simple and modern SVG charts for the web with zero dependencies.
-*   [Frappe Gantt (⭐3.7k)](https://github.com/frappe/gantt) - A simple, interactive, modern gantt chart library for the web.
+*   [Frappe Gantt (⭐3.9k)](https://github.com/frappe/gantt) - A simple, interactive, modern gantt chart library for the web.
 
 ## [16. Awesome Corda](/content/chainstack/awesome-corda/week/README.md)
 
@@ -148,11 +147,11 @@
 
 ### Applications / System tools
 
-*   [gitui (⭐13k)](https://github.com/extrawurst/gitui) - Blazing fast terminal client for git written in Rust. [![build](https://github.com/extrawurst/gitui/workflows/CI/badge.svg?branch=master)](https://github.com/extrawurst/gitui/actions)
+*   [gitui (⭐14k)](https://github.com/extrawurst/gitui) - Blazing fast terminal client for git written in Rust. [![build](https://github.com/extrawurst/gitui/workflows/CI/badge.svg?branch=master)](https://github.com/extrawurst/gitui/actions)
 
 ### Libraries / Macro
 
-*   [Linq-in-Rust (⭐97)](https://github.com/StardustDL/Linq-in-Rust) - Macro and methods for C#-LINQ-like expressions. [![CI](https://github.com/StardustDL/Linq-in-Rust/workflows/CI/badge.svg?branch=master)](https://github.com/StardustDL/Linq-in-Rust/actions?query=workflow%3ACI)
+*   [Linq-in-Rust (⭐107)](https://github.com/StardustDL/Linq-in-Rust) - Macro and methods for C#-LINQ-like expressions. [![CI](https://github.com/StardustDL/Linq-in-Rust/workflows/CI/badge.svg?branch=master)](https://github.com/StardustDL/Linq-in-Rust/actions?query=workflow%3ACI)
 
 ## [18. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
@@ -254,7 +253,7 @@
 
 ### Apps / Outline Processor Markup Language
 
-*   [Readrops (⭐179)](https://github.com/readrops/Readrops) <sup>[690](https://t.me/s/aboutrss/690)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.readrops.app)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/readrops/Readrops)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Readrops (⭐209)](https://github.com/readrops/Readrops) <sup>[690](https://t.me/s/aboutrss/690)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.readrops.app)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/readrops/Readrops)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Self Hosted Readers / Outline Processor Markup Language
 
@@ -280,12 +279,12 @@
 
 *   [RSS订阅源](https://www.wechatrss.com/) <sup>[409](https://t.me/s/aboutrss/409), [410](https://t.me/s/aboutrss/410), [728](https://t.me/s/aboutrss/728)</sup>
 
-### Full Article Extractors / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Full Article Extractors / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [morss.it](https://morss.it/) <sup>[713](https://t.me/s/aboutrss/713)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://git.pictuga.com/pictuga/morss)
 *   [fulltextrssplz](https://fulltextrssplz.whtsky.me/) <sup>[717](https://t.me/s/aboutrss/717)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/whtsky/fulltextrssplz)
 
-### iOS Shortcut / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### iOS Shortcut / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [播客转换 RSS](https://sharecuts.cn/shortcut/7620) <sup>[726](https://t.me/s/aboutrss/726)</sup>
 
@@ -319,18 +318,18 @@
 
 ### Back-end API / Playground
 
-*   :octocat: [LoopBack 4 (⭐4.5k)](https://github.com/strongloop/loopback-next) - A highly extensible Node.js and TypeScript framework for building APIs and microservices. :rocket: (see also: <https://loopback.io/>)
+*   :octocat: [LoopBack 4 (⭐4.7k)](https://github.com/strongloop/loopback-next) - A highly extensible Node.js and TypeScript framework for building APIs and microservices. :rocket: (see also: <https://loopback.io/>)
 
 ## [25. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Templates
 
-*   [CleanArchitecture (⭐11k)](https://github.com/ardalis/CleanArchitecture) - A starting point for Clean Architecture with ASP.NET Core. Clean Architecture is just the latest in a series of names for the same loosely-coupled, dependency-inverted architecture. You will also find it named hexagonal, ports-and-adapters, or onion architecture.
-*   [CleanArchitecture (SPA) (⭐10k)](https://github.com/JasonGT/CleanArchitecture) - Solution template for creating a Single Page App (SPA) with Angular 8 and ASP.NET Core 3 following the principles of Clean Architecture
+*   [CleanArchitecture (⭐14k)](https://github.com/ardalis/CleanArchitecture) - A starting point for Clean Architecture with ASP.NET Core. Clean Architecture is just the latest in a series of names for the same loosely-coupled, dependency-inverted architecture. You will also find it named hexagonal, ports-and-adapters, or onion architecture.
+*   [CleanArchitecture (SPA) (⭐14k)](https://github.com/JasonGT/CleanArchitecture) - Solution template for creating a Single Page App (SPA) with Angular 8 and ASP.NET Core 3 following the principles of Clean Architecture
 
 ### Frameworks, Libraries and Tools / Office
 
-*   [EPPlus (⭐1.3k)](https://github.com/EPPlusSoftware/EPPlus) - Create advanced Excel spreadsheets using .NET.
+*   [EPPlus (⭐1.6k)](https://github.com/EPPlusSoftware/EPPlus) - Create advanced Excel spreadsheets using .NET.
 
 ## [26. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
@@ -361,13 +360,13 @@
 
 ### Asset Management
 
-*   [AssetMix plugin](https://github.com/ishanvyas22/asset-mix) - Provides integration with [Laravel Mix](https://laravel-mix.com) asset compilation.
+*   🍰 [AssetMix plugin (⭐29)](https://github.com/ishanvyas22/asset-mix) - Provides integration with [Laravel Mix](https://laravel-mix.com) asset compilation.
 
 ## [29. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Memory Analysis Tools
 
-*   [AVML (⭐664)](https://github.com/microsoft/avml) - A portable volatile memory acquisition tool for Linux.
+*   [AVML (⭐709)](https://github.com/microsoft/avml) - A portable volatile memory acquisition tool for Linux.
 
 ## [30. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
@@ -379,9 +378,9 @@
 
 ### Softwares / Libraries
 
-*   [CraftLib (⭐63)](https://github.com/zerite/craftlib) - Complete [Kotlin](https://kotlinlang.org) / Java library for wrapping the entire Minecraft codebase, including protocol, NBT, schematics, chat and more.
-*   [MCProtocolLib (⭐630)](https://github.com/Steveice10/MCProtocolLib) - A simple library for communicating with a Minecraft client/server, written in Java.
-*   [node-minecraft-protocol (⭐1k)](https://github.com/PrismarineJS/node-minecraft-protocol) - A NodeJS library to parse and serialize minecraft packets, plus authentication and encryption.
+*   [CraftLib (⭐78)](https://github.com/zerite/craftlib) - Complete [Kotlin](https://kotlinlang.org) / Java library for wrapping the entire Minecraft codebase, including protocol, NBT, schematics, chat and more.
+*   [MCProtocolLib (⭐663)](https://github.com/Steveice10/MCProtocolLib) - A simple library for communicating with a Minecraft client/server, written in Java.
+*   [node-minecraft-protocol (⭐1.1k)](https://github.com/PrismarineJS/node-minecraft-protocol) - A NodeJS library to parse and serialize minecraft packets, plus authentication and encryption.
 
 ## [32. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -393,12 +392,12 @@
 
 ### External Services
 
-*   [chess-com-box-py (⭐10)](https://github.com/sciencepal/chess-com-box-py) - Update a pinned gist to contain your Chess.com Ratings.
-*   [typeracer-box (⭐6)](https://github.com/tobimori/typeracer-box) - Update a pinned gist to contain your latest TypeRacer races
+*   [chess-com-box-py (⭐9)](https://github.com/sciencepal/chess-com-box-py) - Update a pinned gist to contain your Chess.com Ratings.
+*   [typeracer-box (⭐8)](https://github.com/tobimori/typeracer-box) - Update a pinned gist to contain your latest TypeRacer races
 
 ### GitHub
 
-*   [productive-box (⭐438)](https://github.com/maxam2017/productive-box) - Update a pinned gist to contain your most productive hours during the day.
+*   [productive-box (⭐452)](https://github.com/maxam2017/productive-box) - Update a pinned gist to contain your most productive hours during the day.
 
 ## [34. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
@@ -407,7 +406,7 @@
 *   [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) - Use function-based views to build a blog app.
 *   [LearnDjango](https://learndjango.com/) - Tutorials and premium courses on Django and Django REST Framework.
 *   [TestDriven](https://testdriven.io/blog/) - Multiple Django-specific tutorials on topics like Docker, payments, and more.
-*   [Django Styleguide (⭐3.6k)](https://github.com/HackSoftware/Django-Styleguide) - Styleguide for Django with best practices and examples.
+*   [Django Styleguide (⭐4.1k)](https://github.com/HackSoftware/Django-Styleguide) - Styleguide for Django with best practices and examples.
 
 ### Resources / Podcasts
 
@@ -417,7 +416,7 @@
 
 ### Chart
 
-*   [ChartView (⭐4.8k)](https://github.com/AppPear/ChartView) - Swift package for displaying beautiful charts effortlessly
+*   [ChartView (⭐5k)](https://github.com/AppPear/ChartView) - Swift package for displaying beautiful charts effortlessly
 
 ## [36. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -538,12 +537,12 @@
 ### Integrations / Components
 
 *   [ng-sapphiredb (⭐43)](https://github.com/SapphireDb/ng-sapphiredb) - Client implementation of SapphireDb, a framework for easy development of applications with realtime data synchronization and a self hosted alternative to firebase realtime database/firestore for asp.net core and ef core. Check out the documentation for more details: [Documentation](https://sapphire-db.com)
-*   [ckeditor5-angular (⭐184)](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+
-*   [ckeditor4-angular (⭐44)](https://github.com/ckeditor/ckeditor4-angular) - An official CKEditor 4 rich text editor component for Angular 2+
+*   [ckeditor5-angular (⭐191)](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+
+*   [ckeditor4-angular (⭐49)](https://github.com/ckeditor/ckeditor4-angular) - An official CKEditor 4 rich text editor component for Angular 2+
 
 ### Site Templates / Components
 
-*   [HowToKeepAngularDeploymentSizeSmall (⭐14)](https://github.com/younos1986/HowToKeepAngularDeploymentSizeSmall) - A sample included Homepage and Dashboard for Angular 7 and a demonestration of How To Keep Angular Deployment Size Small
+*   [HowToKeepAngularDeploymentSizeSmall (⭐17)](https://github.com/younos1986/HowToKeepAngularDeploymentSizeSmall) - A sample included Homepage and Dashboard for Angular 7 and a demonestration of How To Keep Angular Deployment Size Small
 
 ### Developer tools / Components
 
@@ -589,11 +588,11 @@
 
 ### Individual components / Datagrids / tables
 
-*   [Grid.Blazor (⭐615)](https://github.com/gustavnavar/Grid.Blazor) - ![stars](https://img.shields.io/github/stars/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=86400) Grid component with CRUD forms for Blazor and ASP.NET MVC, supporting filtering, sorting, searching, paging, subgrids and others ([Demo](http://gridblazor.azurewebsites.net)).
+*   [Grid.Blazor (⭐647)](https://github.com/gustavnavar/Grid.Blazor) - ![stars](https://img.shields.io/github/stars/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=86400) Grid component with CRUD forms for Blazor and ASP.NET MVC, supporting filtering, sorting, searching, paging, subgrids and others ([Demo](http://gridblazor.azurewebsites.net)).
 
 ### Tools & Utilities / Others
 
-*   [Blazm.Bluetooth (⭐73)](https://github.com/EngstromJimmy/Blazm.Bluetooth) - ![last commit](https://img.shields.io/github/last-commit/EngstromJimmy/Blazm.Bluetooth?style=flat-square\&cacheSeconds=86400) A Blazor library for connecting to devices using Bluetooth.
+*   [Blazm.Bluetooth (⭐75)](https://github.com/EngstromJimmy/Blazm.Bluetooth) - ![last commit](https://img.shields.io/github/last-commit/EngstromJimmy/Blazm.Bluetooth?style=flat-square\&cacheSeconds=86400) A Blazor library for connecting to devices using Bluetooth.
 
 ## [42. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -609,22 +608,22 @@
 
 ### Packages / Application layer
 
-*   [ros2-ORB\_SLAM2 (⭐84)](https://github.com/alsora/ros2-ORB_SLAM2) - ROS2 node wrapping the ORB\_SLAM2 library. ![ros2-ORB\_SLAM2](https://img.shields.io/github/stars/alsora/ros2-ORB_SLAM2.svg)
+*   [ros2-ORB\_SLAM2 (⭐92)](https://github.com/alsora/ros2-ORB_SLAM2) - ROS2 node wrapping the ORB\_SLAM2 library. ![ros2-ORB\_SLAM2](https://img.shields.io/github/stars/alsora/ros2-ORB_SLAM2.svg)
 *   [basalt\_ros2 (⭐15)](https://github.com/berndpfrommer/basalt_ros2) - ROS2 wrapper for Basalt VIO. ![basalt\_ros2](https://img.shields.io/github/stars/berndpfrommer/basalt_ros2.svg)
-*   [slam\_gmapping (⭐71)](https://github.com/Project-MANAS/slam_gmapping) - Slam Gmapping for ROS2. ![slam\_gmapping](https://img.shields.io/github/stars/Project-MANAS/slam_gmapping.svg)
+*   [slam\_gmapping (⭐80)](https://github.com/Project-MANAS/slam_gmapping) - Slam Gmapping for ROS2. ![slam\_gmapping](https://img.shields.io/github/stars/Project-MANAS/slam_gmapping.svg)
 *   [slam\_toolbox (⭐1.1k)](https://github.com/SteveMacenski/slam_toolbox) - Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS. ![slam\_toolbox](https://img.shields.io/github/stars/SteveMacenski/slam_toolbox.svg)
-*   [lidarslam\_ros2 (⭐283)](https://github.com/rsasaki0109/lidarslam_ros2) - ROS2 package of 3D lidar slam using ndt/gicp registration and pose-optimization. ![lidarslam\_ros2](https://img.shields.io/github/stars/rsasaki0109/lidarslam_ros2.svg)
-*   [li\_slam\_ros2 (⭐169)](https://github.com/rsasaki0109/li_slam_ros2) - ROS2 package of tightly-coupled lidar inertial ndt/gicp slam referenced from LIO-SAM. ![li\_slam\_ros2](https://img.shields.io/github/stars/rsasaki0109/li_slam_ros2.svg)
+*   [lidarslam\_ros2 (⭐328)](https://github.com/rsasaki0109/lidarslam_ros2) - ROS2 package of 3D lidar slam using ndt/gicp registration and pose-optimization. ![lidarslam\_ros2](https://img.shields.io/github/stars/rsasaki0109/lidarslam_ros2.svg)
+*   [li\_slam\_ros2 (⭐191)](https://github.com/rsasaki0109/li_slam_ros2) - ROS2 package of tightly-coupled lidar inertial ndt/gicp slam referenced from LIO-SAM. ![li\_slam\_ros2](https://img.shields.io/github/stars/rsasaki0109/li_slam_ros2.svg)
 
 ### Packages / Driver layer
 
-*   [ros2\_ouster\_drivers (⭐103)](https://github.com/SteveMacenski/ros2_ouster_drivers) - ROS2 Drivers for the Ouster OS-1 Lidars. ![ros2\_ouster\_drivers](https://img.shields.io/github/stars/SteveMacenski/ros2_ouster_drivers)
+*   [ros2\_ouster\_drivers (⭐111)](https://github.com/SteveMacenski/ros2_ouster_drivers) - ROS2 Drivers for the Ouster OS-1 Lidars. ![ros2\_ouster\_drivers](https://img.shields.io/github/stars/SteveMacenski/ros2_ouster_drivers)
 
 ## [44. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
-*   [next-deploy (⭐47)](https://github.com/lone-cloud/next-deploy) - 🚀 Effortless deployment to AWS and GitHub Pages.
+*   [next-deploy (⭐46)](https://github.com/lone-cloud/next-deploy) - 🚀 Effortless deployment to AWS and GitHub Pages.
 
 ## [45. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)
 
@@ -640,14 +639,14 @@
 
 ## [47. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
-### Deep Learning / PyTorch
+### Graph Machine Learning / Others
 
-*   [pytorch\_geometric\_temporal (⭐2.1k)](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - Temporal Extension Library for PyTorch Geometric. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [pytorch\_geometric\_temporal (⭐2.3k)](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - Temporal Extension Library for PyTorch Geometric. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ### Visualization / Map
 
 *   [folium](https://python-visualization.github.io/folium/quickstart.html#Getting-Started) - Makes it easy to visualize data on an interactive open street map
-*   [geemap (⭐2.7k)](https://github.com/giswqs/geemap) - Python package for interactive mapping with Google Earth Engine (GEE)
+*   [geemap (⭐2.9k)](https://github.com/giswqs/geemap) - Python package for interactive mapping with Google Earth Engine (GEE)
 
 ### Deployment / NLP
 
@@ -668,25 +667,21 @@
 
 ### Tools
 
-*   [WebStation SYSMON (⭐181)](https://github.com/t0xic0der/sysmon) - An intuitive remotely-accessible system performance monitoring and task management tool for servers  and headless Raspberry Pi setups.
+*   [WebStation SYSMON (⭐183)](https://github.com/t0xic0der/sysmon) - An intuitive remotely-accessible system performance monitoring and task management tool for servers  and headless Raspberry Pi setups.
 
 ## [50. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Zipcodebase](https://zipcodebase.com) - Free Zip Code API, access to Worldwide Postal Code Data. 10000 free requests/month.
+*   [Zipcodebase](https://zipcodebase.com) - Free Zip Code API, access to Worldwide Postal Code Data. Ten thousand free requests/month.
 
 ### Tools for Teams and Collaboration
 
-*   [userforge.com](https://userforge.com/) - Interconnected online personas, user stories and context mapping.  Helps keep design and dev in sync, free for up to 3 personas and 2 collaborators.
+*   [userforge.com](https://userforge.com/) - Interconnected online personas, user stories and context mapping.  Helps keep design and dev in sync free for up to 3 personas and two collaborators.
 
 ### Font
 
 *   [FontGet](https://www.fontget.com/) - Has a variety of fonts available to download and sorted neatly with tags.
-
-### Data Visualization on Maps
-
-*   [GeocodeAPI](https://geocodeapi.io) - Geocode API: Address to Coordinate Conversion & Geoparsing based on Pelias. Batch geocoding via CSV. 350000 free requests/month.
 
 ## [51. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
@@ -702,11 +697,11 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-ins-progress-bar (⭐334)](https://github.com/meloalright/vue-ins-progress-bar) - A Vue component of ins-style progress bar 一款 ins 风格的 vue 进度条组件
-*   [vue-horizontal-timeline (⭐90)](https://github.com/guastallaigor/vue-horizontal-timeline) - Just a simple horizontal timeline component made with Vue.js.
-*   [vue-image-kit (⭐9)](https://github.com/guastallaigor/vue-image-kit) - Vue.js Image Kit Component with Lazy Load built in and Responsive Images.
-*   [vue-paycard (⭐98)](https://github.com/guastallaigor/vue-paycard) - Credit card component made with Vue.js.
-*   [vue-list-picker (⭐14)](https://github.com/guastallaigor/vue-list-picker) - Just a simple list picker component made with Vue.js.
+*   [vue-ins-progress-bar (⭐333)](https://github.com/meloalright/vue-ins-progress-bar) - A Vue component of ins-style progress bar 一款 ins 风格的 vue 进度条组件
+*   [vue-horizontal-timeline (⭐95)](https://github.com/guastallaigor/vue-horizontal-timeline) - Just a simple horizontal timeline component made with Vue.js.
+*   [vue-image-kit (⭐10)](https://github.com/guastallaigor/vue-image-kit) - Vue.js Image Kit Component with Lazy Load built in and Responsive Images.
+*   [vue-paycard (⭐104)](https://github.com/guastallaigor/vue-paycard) - Credit card component made with Vue.js.
+*   [vue-list-picker (⭐15)](https://github.com/guastallaigor/vue-list-picker) - Just a simple list picker component made with Vue.js.
 
 ## [53. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
@@ -728,7 +723,7 @@
 
 ### Articles / Plugins
 
-*   [The-Economist (⭐3.2k)](https://github.com/nailperry-zd/The-Economist) - The Economist.
+*   [The-Economist (⭐3.4k)](https://github.com/nailperry-zd/The-Economist) - The Economist.
 
 ## [54. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
@@ -749,20 +744,20 @@
 ### Simulators / Object detection and object tracking
 
 *   [OSRF Gazebo](http://gazebosim.org/) - OGRE-based general-purpose robotic simulator, ROS/ROS 2 compatible.
-    *   [GitHub repository :octocat: (⭐996)](https://github.com/osrf/gazebo)
+    *   [GitHub repository :octocat: (⭐1.1k)](https://github.com/osrf/gazebo)
 
 ## [55. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Canvas
 
-*   [react-konva (⭐5k)](https://github.com/konvajs/react-konva) - React Konva is a JavaScript library for drawing complex canvas graphics with bindings to the Konva Framework.
-*   [react-sketch (⭐610)](https://github.com/tbolis/react-sketch) - A Sketch tool for React based applications, backed-up by FabricJS
-*   [react-sketch-canvas (⭐261)](https://github.com/vinothpandian/react-sketch-canvas) - [Demo](https://vinoth.info/react-sketch-canvas/?path=/story/*) Freehand vector drawing tool for React using SVG as canvas. Accepts input from Mouse, touch, and graphic tablets
+*   [react-konva (⭐5.3k)](https://github.com/konvajs/react-konva) - React Konva is a JavaScript library for drawing complex canvas graphics with bindings to the Konva Framework.
+*   [react-sketch (⭐644)](https://github.com/tbolis/react-sketch) - A Sketch tool for React based applications, backed-up by FabricJS
+*   [react-sketch-canvas (⭐302)](https://github.com/vinothpandian/react-sketch-canvas) - [Demo](https://vinoth.info/react-sketch-canvas/?path=/story/*) Freehand vector drawing tool for React using SVG as canvas. Accepts input from Mouse, touch, and graphic tablets
 
 ### Form Components / Rich Text Editor
 
-*   [ckeditor4-react (⭐86)](https://github.com/ckeditor/ckeditor4-react) - An official CKEditor 4 rich text editor wrapper.
-*   [ckeditor5-react (⭐376)](https://github.com/ckeditor/ckeditor5-react) - An official CKEditor 5 rich text editor wrapper.
+*   [ckeditor4-react (⭐88)](https://github.com/ckeditor/ckeditor4-react) - An official CKEditor 4 rich text editor wrapper.
+*   [ckeditor5-react (⭐392)](https://github.com/ckeditor/ckeditor5-react) - An official CKEditor 5 rich text editor wrapper.
 
 ## [56. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
 
@@ -797,18 +792,18 @@
 
 ### Other Testing
 
-*   [SnapshotTesting (⭐3.1k)](https://github.com/pointfreeco/swift-snapshot-testing) - Delightful Swift snapshot testing.
+*   [SnapshotTesting (⭐3.3k)](https://github.com/pointfreeco/swift-snapshot-testing) - Delightful Swift snapshot testing.
 
 ### TextField & TextView / Collection View Layout
 
-*   [Streamoji (⭐245)](https://github.com/getstream/Streamoji) - Custom emoji rendering library with support for GIFs and images, UITextView extension.
+*   [Streamoji (⭐250)](https://github.com/getstream/Streamoji) - Custom emoji rendering library with support for GIFs and images, UITextView extension.
 
 ## [61. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Reading
 
 *   [Wardley maps - Topographical intelligence in business](https://medium.com/wardleymaps) - Creative Commons book by [Simon Wardley](https://twitter.com/swardley).
-    *   E-book - PDF and Kindle [downloads (⭐272)](https://github.com/andrewharmellaw/wardley-maps-book/releases).
+    *   E-book - PDF and Kindle [downloads (⭐278)](https://github.com/andrewharmellaw/wardley-maps-book/releases).
     *   Audiobook - MP3 [downloads](https://feststelltaste.github.io/wardley-maps-audiobook/).
     *   [Spanish Translation](https://mapasdewardley.com/estrategia/el-libro-de-simon-wardley/) - Mapas de Wardley. El uso de la inteligencia topográfica en la estrategia empresarial.
 *   [The Art of Strategy](https://medium.com/@erik_schon/the-art-of-strategy-ac4165c0c085) - Sun Tzu, Boyd & Wardley on situational awareness, OODA "Loops" and Wardley mapping by [Erik Schön](https://twitter.com/erik_schon). [PDF](https://leanpub.com/TheArtOfStrategy)/[Paperback](https://www.amazon.com/ART-STRATEGY-Towards-Business-Agility/dp/B086PTDZT1).
@@ -829,7 +824,7 @@
 
 ### Software / Continuous Integration & Continuous Deployment
 
-*   [werf](https://werf.io/) - Open Source CI/CD tool for building Docker images and deploying to Kubernetes via GitOps. ([Source Code (⭐3.6k)](https://github.com/werf/werf)) `Apache-2.0` `Go`
+*   [werf](https://werf.io/) - Open Source CI/CD tool for building Docker images and deploying to Kubernetes via GitOps. ([Source Code (⭐3.8k)](https://github.com/werf/werf)) `Apache-2.0` `Go`
 
 ## [64. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
@@ -864,11 +859,11 @@
 
 *   [FreeCodeCamp](https://www.freecodecamp.org). Weekly selection of five articles, videos or entire courses from FreeCodeCamp learning platform.
 
-### Common Section / Angular
+### General Section / Svelte
 
 *   [Programming Feedback for Advanced Beginners](https://advancedbeginners.substack.com/). Bi-weekly in-depth code-review related write-up.
 
-### Security / Angular
+### Security / Svelte
 
 *   [tl;dr sec](https://tldrsec.com/). A weekly distillation of the best security tools, blog posts, and conference talks, covering AppSec, cloud and container security, DevSecOps, and more.
 
@@ -884,7 +879,7 @@
 ### XML
 
 *   [elixir-map-to-xml (⭐4)](https://github.com/gunnar2k/elixir-map-to-xml) - Converts an Elixir map to an XML document.
-*   [elixir-xml-to-map (⭐42)](https://github.com/homanchou/elixir-xml-to-map) - Creates an Elixir Map data structure from an XML string.
+*   [elixir-xml-to-map (⭐45)](https://github.com/homanchou/elixir-xml-to-map) - Creates an Elixir Map data structure from an XML string.
 
 ## [68. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 

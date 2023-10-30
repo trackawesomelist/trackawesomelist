@@ -16,7 +16,7 @@
 
 ### Software / Task Management & To-do Lists
 
-*   [Kanbana (⭐54)](https://github.com/SrGMC/kanbana) - Create boards to track users and projects from flat markdown files. Forked from Crepido. `MIT` `Nodejs`
+*   [Kanbana (⭐58)](https://github.com/SrGMC/kanbana) - Create boards to track users and projects from flat markdown files (fork of Crepido). `MIT` `Nodejs`
 
 ## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -31,7 +31,7 @@
 ### Boilerplates
 
 *   [Next Right Now (⭐1.2k)](https://github.com/UnlyEd/next-right-now) - Flexible **production-grade boilerplate** with Next.js 9 and Vercel, with pre-configured Sentry, cookies, Amplitude, Emotion, FontAwesome, GraphQL/GraphCMS (Apollo), Bootstrap (Reactstrap), i18next (Locize), Jest, Cypress (E2E tests) and CI/CD (GH Actions), with full TypeScript support and **support for B2B multi-tenants web apps (monorepo)**
-*   [Next & Vercel Typescript template (⭐38)](https://github.com/alepacheco/landing-template) - Serverless, Typescript, Jest, Github CI, SCSS, prettier boilerplate
+*   [Next & Vercel Typescript template (⭐40)](https://github.com/alepacheco/landing-template) - Serverless, Typescript, Jest, Github CI, SCSS, prettier boilerplate
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Peripherals / Opcodes
 
-*   [Edge of Emulation](https://shonumi.github.io/articles.html), a series of articles about emulating and investigating Game Boy accessories. Also available as [technical documents (⭐408)](https://github.com/shonumi/gbe-plus/tree/master/src/docs/technical) in the GBE- emulator documentation.
+*   [Edge of Emulation](https://shonumi.github.io/articles.html), a series of articles about emulating and investigating Game Boy accessories. Also available as [technical documents (⭐434)](https://github.com/shonumi/gbe-plus/tree/master/src/docs/technical) in the GBE- emulator documentation.
     *   [Mobile Adapter GB](https://shonumi.github.io/articles/art14.html) - Internet connectivity and DLC on the Game Boy Color.
     *   [The Game Boy Printer](https://shonumi.github.io/articles/art2.html)
     *   [Pocket Sonar](https://shonumi.github.io/articles/art13.html) - A blue cart with built-in sonar hardware.
@@ -80,12 +80,12 @@
 
 ### Assemblers / Misc
 
-*   [wla-dx (⭐498)](https://github.com/vhelin/wla-dx) - Yet Another GB-Z80/Z80/... Multi Platform Cross Assembler Package. [Documentation](http://www.villehelin.com/wla.txt).
+*   [wla-dx (⭐509)](https://github.com/vhelin/wla-dx) - Yet Another GB-Z80/Z80/... Multi Platform Cross Assembler Package. [Documentation](http://www.villehelin.com/wla.txt).
 
 ### Emulators / Experimental/Proof of Concepts
 
-*   [Binjgb (⭐408)](https://github.com/binji/binjgb) - 5Kloc emulator that passes most of the tests. \*Rewind- feature. Runs in the browser using WebAssembly.
-*   [gbe-plus (⭐408)](https://github.com/shonumi/gbe-plus) - A recently rewritten emulator that has a large effort in preserving the functions of obscure accessories (such as IR link, Mobile Network GB, Barcode Boy, GB Printer, local and online GB Serial Link Cable, ... )
+*   [Binjgb (⭐490)](https://github.com/binji/binjgb) - 5Kloc emulator that passes most of the tests. \*Rewind- feature. Runs in the browser using WebAssembly.
+*   [gbe-plus (⭐434)](https://github.com/shonumi/gbe-plus) - A recently rewritten emulator that has a large effort in preserving the functions of obscure accessories (such as IR link, Mobile Network GB, Barcode Boy, GB Printer, local and online GB Serial Link Cable, ... )
 
 ### ASM / Syntax highlighting packages
 
@@ -99,7 +99,7 @@
 
 ### CLI Utilities
 
-*   [Tabulo (⭐218)](https://github.com/matt-harvey/tabulo) - Plain text table generator with a DRY, column-based API.
+*   [Tabulo (⭐240)](https://github.com/matt-harvey/tabulo) - Plain text table generator with a DRY, column-based API.
 
 ## [7. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
@@ -121,7 +121,7 @@
 
 ### Runtime / Playground
 
-*   [json-decoder (⭐74)](https://github.com/venil7/json-decoder) - Typesafe JSON decoder and runtime checker
+*   [json-decoder (⭐75)](https://github.com/venil7/json-decoder) - Typesafe JSON decoder and runtime checker
 
 ## [10. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -151,17 +151,17 @@
 
 ### Miscellaneous
 
-*   [react-searchbox-awesome (⭐27)](https://github.com/axmz/react-searchbox-awesome) - [demo](https://axmz.github.io/react-searchbox-awesome-page/) - Minimalistic searchbox.
+*   [react-searchbox-awesome (⭐28)](https://github.com/axmz/react-searchbox-awesome) - [demo](https://axmz.github.io/react-searchbox-awesome-page/) - Minimalistic searchbox.
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### DBaaS
+### Managed Data Services
 
-*   [MemCachier](https://www.memcachier.com/) — Managed Memcache service. Free for up to 25MB, 1 Proxy Server and basic analytics
+*   [MemCachier](https://www.memcachier.com/) — Managed Memcache service. Free for up to 25MB, 1 Proxy Server, and basic analytics
 
 ### Miscellaneous
 
-*   [newreleases.io](https://newreleases.io/) - Receive notifications on email, Slack, Telegram, Discord and custom webhooks for new releases from GitHub, GitLab, Bitbucket, Python PyPI, Java Maven, Node.js NPM, Node.js Yarn, Ruby Gems, PHP Packagist, .NET NuGet, Rust Cargo and Docker Hub.
+*   [newreleases.io](https://newreleases.io/) - Receive notifications on email, Slack, Telegram, Discord, and custom webhooks for new releases from GitHub, GitLab, Bitbucket, Python PyPI, Java Maven, Node.js NPM, Node.js Yarn, Ruby Gems, PHP Packagist, .NET NuGet, Rust Cargo and Docker Hub.
 
 ## [13. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 

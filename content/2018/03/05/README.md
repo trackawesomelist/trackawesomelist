@@ -84,7 +84,7 @@
 
 ### Packages / Security
 
-*   [upash (⭐512)](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
+*   [upash (⭐519)](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
 
 ## [4. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 
@@ -113,11 +113,11 @@
 
 ### Algorithms and Data structures
 
-*   [machinery (⭐478)](https://github.com/joaomdmoura/machinery) - A state machine library for structs in general, it integrates with Phoenix out of the box.
+*   [machinery (⭐493)](https://github.com/joaomdmoura/machinery) - A state machine library for structs in general, it integrates with Phoenix out of the box.
 
 ### Miscellaneous
 
-*   [codec-beam (⭐169)](https://github.com/hkgumbs/codec-beam) - Generate Erlang VM byte code from Haskell.
+*   [codec-beam (⭐171)](https://github.com/hkgumbs/codec-beam) - Generate Erlang VM byte code from Haskell.
 
 ### Books
 
@@ -127,14 +127,14 @@
 
 ### Forms / Normal Forms
 
-*   [GitHub Issues](https://help.github.com/articles/about-issues/) - This is an interesting way for developers to get comments/questions. See [github.com/sindresorhus/ama (⭐124)](https://github.com/sindresorhus/ama) for an example.
-*   [Utterences (⭐7.2k)](https://github.com/utterance/utterances) - A lightweight comments widget built on GitHub issues.
+*   [GitHub Issues](https://help.github.com/articles/about-issues/) - This is an interesting way for developers to get comments/questions. See [github.com/sindresorhus/ama (⭐128)](https://github.com/sindresorhus/ama) for an example.
+*   [Utterences (⭐8.1k)](https://github.com/utterance/utterances) - A lightweight comments widget built on GitHub issues.
 
 ## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Pagination / Barcode
 
-*   [SlideController (⭐413)](https://github.com/touchlane/SlideController) - It is a nice alternative for UIPageViewController built using power of generic types. Swipe between pages with an interactive title navigation control. Configure horizontal or vertical chains for unlimited pages amount.
+*   [SlideController (⭐418)](https://github.com/touchlane/SlideController) - It is a nice alternative for UIPageViewController built using power of generic types. Swipe between pages with an interactive title navigation control. Configure horizontal or vertical chains for unlimited pages amount.
 
 ## [10. Awesome Charting](/content/zingchart/awesome-charting/README.md)
 
@@ -571,12 +571,12 @@
 
 ### Resources / Examples
 
-*   [laravel-vue-boilerplate (⭐537)](https://github.com/alefesouza/laravel-vue-boilerplate) - A Laravel 5.5 SPA boilerplate with a users CRUD using Vue.js 2.5, Bootstrap 4, TypeScript, Sass, Pug and Jest.
-*   [Vue Design System (⭐2.1k)](https://github.com/viljamis/vue-design-system) - An open source boilerplate for building UI Design Systems with Vue.js.
+*   [laravel-vue-boilerplate (⭐541)](https://github.com/alefesouza/laravel-vue-boilerplate) - A Laravel 5.5 SPA boilerplate with a users CRUD using Vue.js 2.5, Bootstrap 4, TypeScript, Sass, Pug and Jest.
+*   [Vue Design System (⭐2.2k)](https://github.com/viljamis/vue-design-system) - An open source boilerplate for building UI Design Systems with Vue.js.
 
 ### Projects Using Vue.js / Open Source
 
-*   [Leo Vue (⭐156)](https://github.com/kaleguy/leovue) - Use the open source Leo outlining editor/IDE to create webapps with nested menus, with support for Vue components in content.
+*   [Leo Vue (⭐161)](https://github.com/kaleguy/leovue) - Use the open source Leo outlining editor/IDE to create webapps with nested menus, with support for Vue components in content.
 
 ---
 

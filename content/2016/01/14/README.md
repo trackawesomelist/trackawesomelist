@@ -65,11 +65,11 @@ Webpage: <http://coffeecollective.dk/>
 ### Logging
 
 *   [exsentry](https://github.com/appcues/exsentry) - Error logging to [Sentry](https://getsentry.com/).
-*   [honeybadger (⭐170)](https://github.com/honeybadger-io/honeybadger-elixir) - Error logging to [Honeybadger](https://www.honeybadger.io/).
+*   [honeybadger (⭐171)](https://github.com/honeybadger-io/honeybadger-elixir) - Error logging to [Honeybadger](https://www.honeybadger.io/).
 
 ### Queue
 
-*   [elixir\_nsq (⭐83)](https://github.com/wistia/elixir_nsq) - NSQ client library for Elixir.
+*   [elixir\_nsq (⭐85)](https://github.com/wistia/elixir_nsq) - NSQ client library for Elixir.
 
 ## [8. Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md)
 

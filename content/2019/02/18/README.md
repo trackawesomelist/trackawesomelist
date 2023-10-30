@@ -76,7 +76,7 @@
 
 ## [6. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/README.md)
 
-### Articles
+### Articles / Video
 
 *   [Porting to console via Unity](https://do-games.com/blog/the-adventure-pals-console-tech-part1)
 
@@ -108,7 +108,7 @@
 
 ### API
 
-*   [SwiftyInsta (⭐218)](https://github.com/TheM4hd1/SwiftyInsta) - Private and Tokenless Instagram RESTful API.
+*   [SwiftyInsta (⭐222)](https://github.com/TheM4hd1/SwiftyInsta) - Private and Tokenless Instagram RESTful API.
 
 ## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -120,11 +120,11 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [impromptu-interface (⭐601)](https://github.com/ekonbenefits/impromptu-interface) - Static interface to dynamic implementation (duck casting). Uses the DLR combined with Reflect.Emit.
+*   [impromptu-interface (⭐639)](https://github.com/ekonbenefits/impromptu-interface) - Static interface to dynamic implementation (duck casting). Uses the DLR combined with Reflect.Emit.
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [scoop (⭐16k)](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
+*   [scoop (⭐19k)](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
 
 ---
 

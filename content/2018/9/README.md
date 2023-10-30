@@ -83,17 +83,17 @@
 ### Projects Using Vue.js / Open Source
 
 *   [vuegg (⭐2.3k)](https://github.com/vuegg/vuegg) - vue GUI generator: Create mockups and code in one go! It leverages the creation of pages, components and styles with its visual editor. Generate all scaffolding code for your next vuejs project.
-*   [Podlove Web Player (⭐354)](https://github.com/podlove/podlove-web-player) - Podcast-optimized, HTML5-based audio player featuring chapters, transcripts and embedding.
+*   [Podlove Web Player (⭐352)](https://github.com/podlove/podlove-web-player) - Podcast-optimized, HTML5-based audio player featuring chapters, transcripts and embedding.
 
 ## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Friendica](https://friendi.ca/) - Social Communication Server. ([Source Code (⭐1.2k)](https://github.com/friendica/friendica)) `AGPL-3.0` `PHP`
+*   [Friendica](https://friendi.ca/) - Social Communication Server. ([Source Code (⭐1.3k)](https://github.com/friendica/friendica)) `AGPL-3.0` `PHP`
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [GraphHopper](https://graphhopper.com/) - Fast routing library and server using OpenStreetMap. ([Source Code (⭐4.1k)](https://github.com/graphhopper/graphhopper)) `Apache-2.0` `Java`
+*   [GraphHopper](https://graphhopper.com/) - Fast routing library and server using OpenStreetMap. ([Source Code (⭐4.4k)](https://github.com/graphhopper/graphhopper)) `Apache-2.0` `Java`
 
 ## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -111,7 +111,7 @@
 
 ### Datasets / Topic-specific
 
-*   [Movie galaxies](http://moviegalaxies.com/) - A databse of movie characters interaction graphs.
+*   [Movie galaxies](http://moviegalaxies.com/) - A database of movie characters interaction graphs.
 
 ## [10. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
@@ -139,7 +139,6 @@
 ### Number Theory / Surreal Numbers
 
 *   [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) - Leo Moser
-*   [Yet Another Introductary Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt/) - Jonathan A. Poritz
 
 ### Algebra / Abstract Algebra
 
@@ -232,11 +231,11 @@
 
 ### Audio Related Packages / Transformations - General DSP
 
-*   [pyroomacoustics (⭐1.1k)](https://github.com/LCAV/pyroomacoustics) [:octocat: (⭐1.1k)](https://github.com/LCAV/pyroomacoustics) [:package:](https://pypi.python.org/pypi/pyroomacoustics) - Room Acoustics Simulation (RIR generator)
+*   [pyroomacoustics (⭐1.2k)](https://github.com/LCAV/pyroomacoustics) [:octocat: (⭐1.2k)](https://github.com/LCAV/pyroomacoustics) [:package:](https://pypi.python.org/pypi/pyroomacoustics) - Room Acoustics Simulation (RIR generator)
 
 ### Audio Related Packages / Feature extraction
 
-*   [pyYAAFE (⭐235)](https://github.com/Yaafe/Yaafe) [:octocat: (⭐235)](https://github.com/Yaafe/Yaafe) - Python bindings for YAAFE feature extractor.
+*   [pyYAAFE (⭐236)](https://github.com/Yaafe/Yaafe) [:octocat: (⭐236)](https://github.com/Yaafe/Yaafe) - Python bindings for YAAFE feature extractor.
 
 ## [13. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
@@ -248,7 +247,7 @@
 
 ### For Electron / Other
 
-*   [electron-timber (⭐372)](https://github.com/sindresorhus/electron-timber) - Pretty logger.
+*   [electron-timber (⭐379)](https://github.com/sindresorhus/electron-timber) - Pretty logger.
 
 ## [15. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -294,14 +293,14 @@
 
 ### CLI
 
-*   [Argu (⭐386)](https://github.com/fsprojects/Argu) - Declarative CLI argument & XML configuration parser for F# applications.
-*   [clipr (⭐87)](https://github.com/nemec/clipr) - A CLI library inspired by Python's argparse that transforms a command line into a strongly-typed object. It supports custom argument types, automated (and localized) help generation, and a variety of ways to store parsed arguments.
-*   [CliWrap (⭐3.6k)](https://github.com/Tyrrrz/CliWrap) - Wrapper for command line interfaces.
-*   [Command Line Parser (⭐4k)](https://github.com/commandlineparser/commandline) - The Command Line Parser Library offers to CLR applications a clean and concise API for manipulating command-line arguments and related tasks
-*   [CsConsoleFormat (⭐356)](https://github.com/Athari/CsConsoleFormat) - .NET C# library for advanced formatting of console output.
-*   [Docopt (⭐332)](https://github.com/docopt/docopt.net) - Command-line interface description language that will make you smile.
-*   [Fluent Command Line Parser (⭐520)](https://github.com/fclp/fluent-command-line-parser) - A simple, strongly typed .NET C# command-line parser library using a fluent easy to use interface
-*   [Power Args (⭐533)](https://github.com/adamabdelhamed/PowerArgs) - PowerArgs converts command-line arguments into .NET objects that are easy to program against. It also provides a ton of optional capabilities such as argument validation, auto generated usage, tab completion, and plenty of extensibility
+*   [Argu (⭐398)](https://github.com/fsprojects/Argu) - Declarative CLI argument & XML configuration parser for F# applications.
+*   [clipr (⭐88)](https://github.com/nemec/clipr) - A CLI library inspired by Python's argparse that transforms a command line into a strongly-typed object. It supports custom argument types, automated (and localized) help generation, and a variety of ways to store parsed arguments.
+*   [CliWrap (⭐3.9k)](https://github.com/Tyrrrz/CliWrap) - Wrapper for command line interfaces.
+*   [Command Line Parser (⭐4.2k)](https://github.com/commandlineparser/commandline) - The Command Line Parser Library offers to CLR applications a clean and concise API for manipulating command-line arguments and related tasks
+*   [CsConsoleFormat (⭐358)](https://github.com/Athari/CsConsoleFormat) - .NET C# library for advanced formatting of console output.
+*   [Docopt (⭐340)](https://github.com/docopt/docopt.net) - Command-line interface description language that will make you smile.
+*   [Fluent Command Line Parser (⭐523)](https://github.com/fclp/fluent-command-line-parser) - A simple, strongly typed .NET C# command-line parser library using a fluent easy to use interface
+*   [Power Args (⭐551)](https://github.com/adamabdelhamed/PowerArgs) - PowerArgs converts command-line arguments into .NET objects that are easy to program against. It also provides a ton of optional capabilities such as argument validation, auto generated usage, tab completion, and plenty of extensibility
 
 ## [21. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -319,25 +318,25 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [microdot (⭐1.4k)](https://github.com/gigya/microdot) - An open source .NET microservices framework.
+*   [microdot (⭐1.5k)](https://github.com/gigya/microdot) - An open source .NET microservices framework.
 
 ### Frameworks, Libraries and Tools / Code Analysis and Metrics
 
-*   [awesome-static-analysis (⭐10k)](https://github.com/mre/awesome-static-analysis) - Curated list of static analysis tools, linters and code quality checkers for various programming languages.
+*   [awesome-static-analysis (⭐12k)](https://github.com/mre/awesome-static-analysis) - Curated list of static analysis tools, linters and code quality checkers for various programming languages.
 *   Code Analysis
     *   [CodeFormatter (⭐1.2k)](https://github.com/dotnet/codeformatter) - Tool that uses Roslyn to automatically rewrite the source to follow netfx coding styles. [Nuget Package](https://www.nuget.org/packages/Dotnet.CodeFormatter.BuildTask.Fork)
-    *   [DevSkim (⭐748)](https://github.com/Microsoft/DevSkim) - A set of IDE plugins and rules that provide security "linting" capabilities.
-    *   [RefactoringEssentials (⭐640)](https://github.com/icsharpcode/RefactoringEssentials) - Refactoring Essentials for Visual Studio.
-    *   [roslyn-analyzers (⭐1.3k)](https://github.com/dotnet/roslyn-analyzers) - .NET Compiler Platform ("Roslyn") Analyzers.
-    *   [StyleCopAnalyzers (⭐2.3k)](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) - StyleCop rules using the .NET Compiler Platform.
+    *   [DevSkim (⭐832)](https://github.com/Microsoft/DevSkim) - A set of IDE plugins and rules that provide security "linting" capabilities.
+    *   [RefactoringEssentials (⭐638)](https://github.com/icsharpcode/RefactoringEssentials) - Refactoring Essentials for Visual Studio.
+    *   [roslyn-analyzers (⭐1.5k)](https://github.com/dotnet/roslyn-analyzers) - .NET Compiler Platform ("Roslyn") Analyzers.
+    *   [StyleCopAnalyzers (⭐2.5k)](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) - StyleCop rules using the .NET Compiler Platform.
 
 ### Frameworks, Libraries and Tools / Functional Programming
 
-*   [echo-process (⭐98)](https://github.com/louthy/echo-process) - Actor library for C# with additional modules that support persistence to Redis, as well as JS integration.
+*   [echo-process (⭐109)](https://github.com/louthy/echo-process) - Actor library for C# with additional modules that support persistence to Redis, as well as JS integration.
 
 ### Frameworks, Libraries and Tools / Security
 
-*   [reCAPTCHA (⭐133)](https://github.com/PaulMiami/reCAPTCHA) - reCAPTCHA 2.0 for ASP.NET Core.
+*   [reCAPTCHA (⭐134)](https://github.com/PaulMiami/reCAPTCHA) - reCAPTCHA 2.0 for ASP.NET Core.
 
 ## [24. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
@@ -360,15 +359,15 @@
 
 ### Built-in Classes Enhancement
 
-*   [attrs (⭐4.7k)](https://github.com/python-attrs/attrs) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions.
+*   [attrs (⭐4.8k)](https://github.com/python-attrs/attrs) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions.
 *   [bidict (⭐1.3k)](https://github.com/jab/bidict) - Efficient, Pythonic bidirectional map data structures and related functionality..
 *   [Box (⭐2.2k)](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access.
 
 ### Database Drivers
 
 *   MySQL - [awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/)
-    *   [mysqlclient (⭐2.2k)](https://github.com/PyMySQL/mysqlclient-python) - MySQL connector with Python 3 support ([mysql-python](https://sourceforge.net/projects/mysql-python/) fork).
-    *   [PyMySQL (⭐7.2k)](https://github.com/PyMySQL/PyMySQL) - A pure Python MySQL driver compatible to mysql-python.
+    *   [mysqlclient (⭐2.3k)](https://github.com/PyMySQL/mysqlclient-python) - MySQL connector with Python 3 support ([mysql-python](https://sourceforge.net/projects/mysql-python/) fork).
+    *   [PyMySQL (⭐7.3k)](https://github.com/PyMySQL/PyMySQL) - A pure Python MySQL driver compatible to mysql-python.
 
 ## [27. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -394,7 +393,7 @@
 
 ### Security / Components
 
-*   So you thought you were safe using AngularJS? Think again! [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) - Lewis Ardern speaking at OWASP London 2017
+*   So you thought you were safe using AngularJS? Think again! [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) - Lewis Ardern speaking at OWASP London 2017.
     ##### Authentication
 
 ## [29. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
@@ -427,17 +426,17 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [neonrvm (⭐33)](https://github.com/siavashserver/neonrvm) - neonrvm is an open source machine learning library based on RVM technique. It's written in C programming language and comes with Python programming language bindings.
+*   [neonrvm (⭐35)](https://github.com/siavashserver/neonrvm) - neonrvm is an open source machine learning library based on RVM technique. It's written in C programming language and comes with Python programming language bindings.
 
 ## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Events
 
-*   [Tempura (⭐696)](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
+*   [Tempura (⭐704)](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
 
 ### Network / Barcode
 
-*   [SolarNetwork (⭐103)](https://github.com/ThreeGayHub/SolarNetwork) - Elegant network abstraction layer.
+*   [SolarNetwork (⭐102)](https://github.com/ThreeGayHub/SolarNetwork) - Elegant network abstraction layer.
 
 ## [34. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -469,7 +468,7 @@
 
 ### Directly On Top Of A RMDB
 
-*   [pREST (⭐3.6k)](https://github.com/prest/prest) - A fully RESTful API from any existing PostgreSQL database written in Go.
+*   [pREST (⭐3.9k)](https://github.com/prest/prest) - A fully RESTful API from any existing PostgreSQL database written in Go.
 
 ### Mocking / Symfony2
 
@@ -496,7 +495,7 @@
 
 ### Containers / Docker
 
-*   [bravostudiodev/bravo-grid (⭐4)](https://github.com/bravostudiodev/bravo-grid) - Docker image/setup for Selenium Grid Extras (see under Selenium Grid section), for providing remote Sikuli test/automation execution and grid node file upload/download support.
+*   [bravostudiodev/bravo-grid (⭐6)](https://github.com/bravostudiodev/bravo-grid) - Docker image/setup for Selenium Grid Extras (see under Selenium Grid section), for providing remote Sikuli test/automation execution and grid node file upload/download support.
 
 ### Driver / Mobile (browsers and apps)
 
@@ -506,26 +505,24 @@
 
 ### Driver / Desktop GUI Automation (non-browser-centric)
 
-*   [WinAppDriver (⭐2.9k)](https://github.com/Microsoft/WinAppDriver) - Microsoft's WebDriver implementation for Windows application automation.
-*   [Winium (⭐351)](https://github.com/2gis/Winium) - Automation framework for Windows platforms. It is free. It is opensource. It is Selenium-based. Supports: Windows Desktop (WPF, WinForms); Windows Store or Universal Apps for Windows Phone; Windows Phone Silverlight Apps.
-*   [QtWebDriver (⭐174)](https://github.com/cisco-open-source/qtwebdriver) - For using WebDriver to automate Qt-based GUI applications.
-*   [AutoItDriverServer (⭐31)](https://github.com/daluu/AutoItDriverServer) - Selenium server to control/drive AutoIt via (Remote)WebDriver API.
+*   [WinAppDriver (⭐3.2k)](https://github.com/Microsoft/WinAppDriver) - Microsoft's WebDriver implementation for Windows application automation.
+*   [Winium (⭐366)](https://github.com/2gis/Winium) - Automation framework for Windows platforms. It is free. It is opensource. It is Selenium-based. Supports: Windows Desktop (WPF, WinForms); Windows Store or Universal Apps for Windows Phone; Windows Phone Silverlight Apps.
+*   [QtWebDriver (⭐185)](https://github.com/cisco-open-source/qtwebdriver) - For using WebDriver to automate Qt-based GUI applications.
+*   [AutoItDriverServer (⭐32)](https://github.com/daluu/AutoItDriverServer) - Selenium server to control/drive AutoIt via (Remote)WebDriver API.
 *   [AutoPyDriverServer (⭐14)](https://github.com/daluu/AutoPyDriverServer) - Selenium server to control/drive AutoPy via (Remote)WebDriver API.
-*   [Appium for Mac](https://appium.io/docs/en/drivers/mac/) - Appium/WebDriver implementation for automating Mac OS X desktop.
 *   [SilkAppDriver (⭐8)](https://github.com/MicroFocus/SilkAppDriver) - Selenium server to control/drive the commercial SilkTest platform via (Remote)WebDriver API.
 
 ### Desktop Tools / Desktop GUI Automation (non-browser-centric)
 
 *   [SWET (⭐34)](https://github.com/sergueik/SWET) - A successor to SWD Page Recorder, for the same functionality.
 *   [Looking Glass (⭐52)](https://github.com/dmolchanenko/LookingGlass) - Java application that offers a cross-browser element inspector and Selenium code generator.
-*   [Ranorex Selocity](https://www.ranorex.com/selocity/browser-extension/) - A Firebug/FirePath/Firefinder and Selenium IDE alternative for browser element inspection from the creators of Ranorex.
 *   [Silk WebDriver](https://www.microfocus.com/products/silk-portfolio/silk-webdriver/) - A Selenium IDE alternative for record, playback, and script export, from the creators of SilkTest.
 *   [Fire IE Selenium](https://code.google.com/archive/p/fire-ie-selenium/) - Microsoft Excel-based tool providing element inspection for Internet Explorer browser.
 
 ### Selenium Grid / Desktop GUI Automation (non-browser-centric)
 
-*   [Selenium Grid Extras (⭐533)](https://github.com/groupon/Selenium-Grid-Extras) - A framework that provides additional features beyond the basic Selenium Grid like video recording.
-*   [SeLion (⭐268)](https://github.com/paypal/SeLion) - A (Java) framework for running Selenium tests with additional features beyond the basic Selenium Grid functionality, particularly like stability improvements, etc.
+*   [Selenium Grid Extras (⭐537)](https://github.com/groupon/Selenium-Grid-Extras) - A framework that provides additional features beyond the basic Selenium Grid like video recording.
+*   [SeLion (⭐271)](https://github.com/paypal/SeLion) - A (Java) framework for running Selenium tests with additional features beyond the basic Selenium Grid functionality, particularly like stability improvements, etc.
 *   [Selenium Grid Extensions (⭐46)](https://github.com/sterodium/selenium-grid-extensions) - A set of extensions for Selenium Grid that provide additional features like running Sikuli tests/automation remotely, upload/download files on a grid node.
 
 ### Blogs / Desktop GUI Automation (non-browser-centric)
@@ -571,7 +568,7 @@
 
 ### Data Visualization / Graph Based approach
 
-*   Public Datasets [awesome-public-datasets (⭐52k)](https://github.com/awesomedata/awesome-public-datasets).
+*   Public Datasets [awesome-public-datasets (⭐54k)](https://github.com/awesomedata/awesome-public-datasets).
 
 ## [43. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 

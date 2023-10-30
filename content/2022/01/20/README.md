@@ -14,7 +14,7 @@
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### General Purpose Computing / MIT
+### General Purpose Computing / Apache License
 
 *   [cuda (⭐17)](https://github.com/AdaCore/cuda) - CUDA support from AdaCore.
 
@@ -22,13 +22,13 @@
 
 ### Network / VPN
 
-*   [Firezone (⭐4.2k)](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard that makes it simple to manage secure remote access to your company’s private networks. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
+*   [Firezone (⭐5.4k)](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard that makes it simple to manage secure remote access to your company’s private networks. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
 
 ## [4. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Tools / Testing Tools
 
-*   [eslint-remote-tester (⭐108)](https://github.com/AriPerkkio/eslint-remote-tester) - CLI tool for testing given ESlint rules against multiple repositories at once.
+*   [eslint-remote-tester (⭐109)](https://github.com/AriPerkkio/eslint-remote-tester) - CLI tool for testing given ESlint rules against multiple repositories at once.
 
 ## [5. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
@@ -40,13 +40,13 @@
 
 ### Applications / Productivity
 
-*   [Bartib (⭐422)](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
+*   [Bartib (⭐484)](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### PaaS
 
-*   [Northflank](https://northflank.com) — Build and deploy microservices, jobs and managed databases with a powerful UI, API & CLI. Seamlessly scale containers from version control and external Docker registries. Free tier includes 2 services, 2 cron jobs and 1 database.
+*   [Northflank](https://northflank.com) — Build and deploy microservices, jobs, and managed databases with a powerful UI, API & CLI. Seamlessly scale containers from version control and external Docker registries. The free tier includes two services, two cron jobs and 1 database.
 
 ## [8. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Component bundles
 
-*   [MASA Blazor (⭐676)](https://github.com/BlazorComponent/MASA.Blazor) - ![stars](https://img.shields.io/github/stars/BlazorComponent/MASA.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorComponent/MASA.Blazor?style=flat-square\&cacheSeconds=86400) A set of enterprise-class UI components based on Material Design and Blazor. It's an almost perfect copy of Vuetify, and Long-term roadmaps have been mapped out. It is powered by the MASA team and remains free and open source. [Documentation](http://blazor.masastack.com/). [Pro Demo](https://blazor-pro.masastack.com/).
+*   [MASA Blazor (⭐941)](https://github.com/BlazorComponent/MASA.Blazor) - ![stars](https://img.shields.io/github/stars/BlazorComponent/MASA.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorComponent/MASA.Blazor?style=flat-square\&cacheSeconds=86400) A set of enterprise-class UI components based on Material Design and Blazor. It's an almost perfect copy of Vuetify, and Long-term roadmaps have been mapped out. It is powered by the MASA team and remains free and open source. [Documentation](http://blazor.masastack.com/). [Pro Demo](https://blazor-pro.masastack.com/).
 
 ## [10. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -99,7 +99,7 @@
 
 ### Video
 
-- API: [Web Series Quotes Generator (⭐13)](https://github.com/yogeshwaran01/web-series-quotes)
+- API: [Web Series Quotes Generator (⭐17)](https://github.com/yogeshwaran01/web-series-quotes)
 
   Description: API generates various Web Series Quote Images
 

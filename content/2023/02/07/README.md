@@ -16,30 +16,30 @@
 
 ### Logging
 
-*   [ecto\_dev\_logger (⭐132)](https://github.com/fuelen/ecto_dev_logger) - An alternative logger for Ecto queries that helps in debugging.
+*   [ecto\_dev\_logger (⭐138)](https://github.com/fuelen/ecto_dev_logger) - An alternative logger for Ecto queries that helps in debugging.
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Simulation
 
-*   [hEngine (⭐787)](https://github.com/hashintel/hash/tree/main/apps/engine) - A Rust-implemented computational simulation engine, supporting large-scale agent-based modelling, with simulation logic written in JavaScript and Python.
+*   [hEngine (⭐868)](https://github.com/hashintel/hash/tree/main/apps/engine) - A Rust-implemented computational simulation engine, supporting large-scale agent-based modelling, with simulation logic written in JavaScript and Python.
 
 ## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Database
 
-*   [SliccDB (⭐77)](https://github.com/pmikstacki/SliccDB) - Lightweight Embedded (In-Memory) Graph Database for .net
+*   [SliccDB (⭐107)](https://github.com/pmikstacki/SliccDB) - Lightweight Embedded (In-Memory) Graph Database for .net
 
 ### Database Drivers
 
-*   [FluentStorage (⭐74)](https://github.com/robinrodricks/FluentStorage) - A polycloud .NET cloud storage abstraction layer originally known as Storage.Net. Provides a generic interface for Blob storage (AWS S3, GCP, FTP, SFTP, Azure Blob/File/Event Hub/Data Lake) and Messaging (AWS SQS, Azure Queue/ServiceBus).
+*   [FluentStorage (⭐132)](https://github.com/robinrodricks/FluentStorage) - A polycloud .NET cloud storage abstraction layer originally known as Storage.Net. Provides a generic interface for Blob storage (AWS S3, GCP, FTP, SFTP, Azure Blob/File/Event Hub/Data Lake) and Messaging (AWS SQS, Azure Queue/ServiceBus).
 
 ## [5. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### eBPF Workflow: Tools and Utilities / Go libraries
 
-*   [cilium/ebpf (⭐4.5k)](https://github.com/cilium/ebpf) - Pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
-*   [libbpfgo (⭐480)](https://github.com/aquasecurity/libbpfgo) - eBPF library for Go, powered by libbpf.
+*   [cilium/ebpf (⭐5k)](https://github.com/cilium/ebpf) - Pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
+*   [libbpfgo (⭐571)](https://github.com/aquasecurity/libbpfgo) - eBPF library for Go, powered by libbpf.
 *   [gobpf (⭐2k)](https://github.com/iovisor/gobpf) - Go bindings for BCC for creating eBPF programs.
 
 ## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
@@ -50,9 +50,9 @@
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Meteosource Weather API](https://www.meteosource.com/) — global weather API for current and forecasted weather data. Forecasts are based on a machine learning combination of more weather models to achieve better accuracy. Free plan comes with 400 calls per day.
+*   [Meteosource Weather API](https://www.meteosource.com/) — global weather API for current and forecasted weather data. Forecasts are based on a machine learning combination of more weather models to achieve better accuracy. The free plan comes with 400 calls per day.
 
 ## [8. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Audio Libraries
 
-*   [chord-mark (⭐18)](https://github.com/no-chris/chord-mark) - reference implementation of ChordMark, a text notation format for lyrics, chords and rhythm.
+*   [chord-mark (⭐31)](https://github.com/no-chris/chord-mark) - reference implementation of ChordMark, a text notation format for lyrics, chords and rhythm.
 
 ### Music Notation
 
@@ -81,41 +81,37 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-image-placeholder (⭐2)](https://github.com/pengzhanbo/vite-plugin-image-placeholder) - Generate placeholder images by path matches.
+*   [vite-plugin-image-placeholder (⭐4)](https://github.com/pengzhanbo/vite-plugin-image-placeholder) - Generate placeholder images by path matches.
 
 ## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [jinzhongjia/LspUI.nvim (⭐64)](https://github.com/jinzhongjia/LspUI.nvim) - A modern and useful UI that wraps LSP operations.
+*   [jinzhongjia/LspUI.nvim (⭐114)](https://github.com/jinzhongjia/LspUI.nvim) - A modern and useful UI that wraps LSP operations.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [savq/melange-nvim (⭐426)](https://github.com/savq/melange-nvim) - Warm colorscheme written in Lua with support for various terminal emulators.
+*   [savq/melange-nvim (⭐516)](https://github.com/savq/melange-nvim) - Warm colorscheme written in Lua with support for various terminal emulators.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [linrongbin16/lin.nvim (⭐11)](https://github.com/linrongbin16/lin.nvim) - A highly configured Neovim distribution integrated with tons of utilities for development, inspired by spf13-vim.
+*   [linrongbin16/lin.nvim (⭐39)](https://github.com/linrongbin16/lin.nvim) - A highly configured Neovim distribution integrated with tons of utilities for development, inspired by spf13-vim.
 
 ## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [adonisjs (⭐0)](https://github.com/baliestri/adonisjs.plugin.zsh) - Plugin for skipping the `node` part of the `ace` command.
-*   [aws-vault-profiles (⭐0)](https://github.com/jonscheiding/zsh-plugin-aws-vault-profiles) - Plugin that integrates usage of [aws-vault (⭐7.5k)](https://github.com/99designs/aws-vault) with the `$AWS_PROFILE` environment variable.
-*   [dietpi (⭐0)](https://github.com/unixorn/dietpi.plugin.zsh) - Adds utilities for [dietpi](https://dietpi.com) to your `$PATH` (and includes aliases to automagically run them with `sudo`) when you log into a machine running  [dietpi](https://dietpi.com).
+*   [aws-vault-profiles (⭐0)](https://github.com/jonscheiding/zsh-plugin-aws-vault-profiles) - Plugin that integrates usage of [aws-vault (⭐7.9k)](https://github.com/99designs/aws-vault) with the `$AWS_PROFILE` environment variable.
+*   [dietpi (⭐1)](https://github.com/unixorn/dietpi.plugin.zsh) - Adds utilities for [dietpi](https://dietpi.com) to your `$PATH` (and includes aliases to automagically run them with `sudo`) when you log into a machine running  [dietpi](https://dietpi.com).
 *   [laravel (baliestri) (⭐0)](https://github.com/baliestri/laravel.plugin.zsh) - Plugin for skiping the `php` command when running `artisan` commands and `./sail` or `./vendor/bin/sail` when running `sail` commands.
-*   [laravel (crazybooot) (⭐16)](https://github.com/crazybooot/laravel-zsh-plugin) - Add shortcuts for [Laravel](https://laravel.com/) 5, 5.1, 5.2 & 5.3.
-
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
-
-*   [bashpluszsh (⭐0)](https://github.com/Elagoht/BashPlusZshTheme) - Colorized replica of the default `bash` prompt with decorators for `virtualenv` and `git` status.
+*   [laravel (crazybooot) (⭐17)](https://github.com/crazybooot/laravel-zsh-plugin) - Add shortcuts for [Laravel](https://laravel.com/) 5, 5.1, 5.2 & 5.3.
 
 ## [14. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Content Hub One
 
-*   [Sitecore.Demo.CHONE (⭐0)](https://github.com/Sitecore/Sitecore.Demo.CHONE) - Repository for all the Content Hub ONE demos built by the Sitecore Demo Solutions team.
+*   [Sitecore.Demo.CHONE (⭐2)](https://github.com/Sitecore/Sitecore.Demo.CHONE) - Repository for all the Content Hub ONE demos built by the Sitecore Demo Solutions team.
 
 ## [15. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 

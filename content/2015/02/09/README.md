@@ -10,7 +10,7 @@
 
 ### Loaders
 
-*   [ESL (⭐834)](https://github.com/ecomfe/esl) - Module loader browser first, support lazy define and AMD.
+*   [ESL (⭐835)](https://github.com/ecomfe/esl) - Module loader browser first, support lazy define and AMD.
 
 ## [2. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -24,7 +24,7 @@
 
 ### Natural Language Processing
 
-*   [Pragmatic Segmenter (⭐515)](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
+*   [Pragmatic Segmenter (⭐522)](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
 
 ## [4. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Eventhandling
 
-*   [reaxive (⭐277)](https://github.com/alfert/reaxive) - Reaxive is a reactive event handling library, inspired by [Elm](http://elm-lang.org) and Reactive Extensions.
+*   [reaxive (⭐278)](https://github.com/alfert/reaxive) - Reaxive is a reactive event handling library, inspired by [Elm](http://elm-lang.org) and Reactive Extensions.
 
 ### Examples and funny stuff
 
@@ -44,7 +44,7 @@
 
 ### HTTP
 
-*   [http (⭐11)](https://github.com/slogsdon/http) - HTTP server for Elixir.
+*   [http (⭐12)](https://github.com/slogsdon/http) - HTTP server for Elixir.
 
 ## [6. Htaccess](/content/phanan/htaccess/README.md)
 

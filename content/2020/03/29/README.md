@@ -57,13 +57,13 @@
 
 ### Data Validation
 
-*   [struct (⭐118)](https://github.com/funcool/struct)
+*   [struct (⭐119)](https://github.com/funcool/struct)
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [LeagueStats (⭐362)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
+*   [LeagueStats (⭐376)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
 
 ## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Packages / Filesystem
 
-*   [filehound (⭐213)](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
+*   [filehound (⭐219)](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
 
 ## [2. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Testing
 
-*   [bypass (⭐889)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
+*   [bypass (⭐912)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
 
 ### Third Party APIs
 
@@ -69,13 +69,13 @@
 
 ### Frameworks, Libraries and Tools / Security
 
-*   [jose-jwt (⭐801)](https://github.com/dvsekhvalnov/jose-jwt) - Library for processing JOSE objects (JWT, JWA, JWS and related).
+*   [jose-jwt (⭐884)](https://github.com/dvsekhvalnov/jose-jwt) - Library for processing JOSE objects (JWT, JWA, JWS and related).
 
 ## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Game
 
-*   [MonoGame (⭐9.5k)](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games
+*   [MonoGame (⭐10k)](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games
 
 ## [9. Git Cheat Sheet](/content/arslanbilal/git-cheat-sheet/README.md)
 

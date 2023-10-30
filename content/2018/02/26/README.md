@@ -29,7 +29,7 @@
 
 ### Containers / Docker
 
-*   [bravostudiodev/bravo-grid (⭐4)](https://github.com/bravostudiodev/bravo-grid) - Docker image/setup for Selenium Grid Extras (see under Selenium Grid section), for providing remote Sikuli test/automation execution and grid node file upload/download support.
+*   [bravostudiodev/bravo-grid (⭐6)](https://github.com/bravostudiodev/bravo-grid) - Docker image/setup for Selenium Grid Extras (see under Selenium Grid section), for providing remote Sikuli test/automation execution and grid node file upload/download support.
 
 ### Driver / Mobile (browsers and apps)
 
@@ -39,26 +39,24 @@
 
 ### Driver / Desktop GUI Automation (non-browser-centric)
 
-*   [WinAppDriver (⭐2.9k)](https://github.com/Microsoft/WinAppDriver) - Microsoft's WebDriver implementation for Windows application automation.
-*   [Winium (⭐351)](https://github.com/2gis/Winium) - Automation framework for Windows platforms. It is free. It is opensource. It is Selenium-based. Supports: Windows Desktop (WPF, WinForms); Windows Store or Universal Apps for Windows Phone; Windows Phone Silverlight Apps.
-*   [QtWebDriver (⭐174)](https://github.com/cisco-open-source/qtwebdriver) - For using WebDriver to automate Qt-based GUI applications.
-*   [AutoItDriverServer (⭐31)](https://github.com/daluu/AutoItDriverServer) - Selenium server to control/drive AutoIt via (Remote)WebDriver API.
+*   [WinAppDriver (⭐3.2k)](https://github.com/Microsoft/WinAppDriver) - Microsoft's WebDriver implementation for Windows application automation.
+*   [Winium (⭐366)](https://github.com/2gis/Winium) - Automation framework for Windows platforms. It is free. It is opensource. It is Selenium-based. Supports: Windows Desktop (WPF, WinForms); Windows Store or Universal Apps for Windows Phone; Windows Phone Silverlight Apps.
+*   [QtWebDriver (⭐185)](https://github.com/cisco-open-source/qtwebdriver) - For using WebDriver to automate Qt-based GUI applications.
+*   [AutoItDriverServer (⭐32)](https://github.com/daluu/AutoItDriverServer) - Selenium server to control/drive AutoIt via (Remote)WebDriver API.
 *   [AutoPyDriverServer (⭐14)](https://github.com/daluu/AutoPyDriverServer) - Selenium server to control/drive AutoPy via (Remote)WebDriver API.
-*   [Appium for Mac](https://appium.io/docs/en/drivers/mac/) - Appium/WebDriver implementation for automating Mac OS X desktop.
 *   [SilkAppDriver (⭐8)](https://github.com/MicroFocus/SilkAppDriver) - Selenium server to control/drive the commercial SilkTest platform via (Remote)WebDriver API.
 
 ### Desktop Tools / Desktop GUI Automation (non-browser-centric)
 
 *   [SWET (⭐34)](https://github.com/sergueik/SWET) - A successor to SWD Page Recorder, for the same functionality.
 *   [Looking Glass (⭐52)](https://github.com/dmolchanenko/LookingGlass) - Java application that offers a cross-browser element inspector and Selenium code generator.
-*   [Ranorex Selocity](https://www.ranorex.com/selocity/browser-extension/) - A Firebug/FirePath/Firefinder and Selenium IDE alternative for browser element inspection from the creators of Ranorex.
 *   [Silk WebDriver](https://www.microfocus.com/products/silk-portfolio/silk-webdriver/) - A Selenium IDE alternative for record, playback, and script export, from the creators of SilkTest.
 *   [Fire IE Selenium](https://code.google.com/archive/p/fire-ie-selenium/) - Microsoft Excel-based tool providing element inspection for Internet Explorer browser.
 
 ### Selenium Grid / Desktop GUI Automation (non-browser-centric)
 
-*   [Selenium Grid Extras (⭐533)](https://github.com/groupon/Selenium-Grid-Extras) - A framework that provides additional features beyond the basic Selenium Grid like video recording.
-*   [SeLion (⭐268)](https://github.com/paypal/SeLion) - A (Java) framework for running Selenium tests with additional features beyond the basic Selenium Grid functionality, particularly like stability improvements, etc.
+*   [Selenium Grid Extras (⭐537)](https://github.com/groupon/Selenium-Grid-Extras) - A framework that provides additional features beyond the basic Selenium Grid like video recording.
+*   [SeLion (⭐271)](https://github.com/paypal/SeLion) - A (Java) framework for running Selenium tests with additional features beyond the basic Selenium Grid functionality, particularly like stability improvements, etc.
 *   [Selenium Grid Extensions (⭐46)](https://github.com/sterodium/selenium-grid-extensions) - A set of extensions for Selenium Grid that provide additional features like running Sikuli tests/automation remotely, upload/download files on a grid node.
 
 ### Blogs / Desktop GUI Automation (non-browser-centric)
@@ -104,7 +102,7 @@
 
 ### Data Visualization / Graph Based approach
 
-*   Public Datasets [awesome-public-datasets (⭐52k)](https://github.com/awesomedata/awesome-public-datasets).
+*   Public Datasets [awesome-public-datasets (⭐54k)](https://github.com/awesomedata/awesome-public-datasets).
 
 ## [7. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
 

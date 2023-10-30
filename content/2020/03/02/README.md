@@ -22,13 +22,13 @@
 
 ### Runtime / Playground
 
-*   [type-plus (⭐233)](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
+*   [type-plus (⭐304)](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
 
 ## [4. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Bindings / MIT
+### Bindings / Apache License
 
-*   [tcl-ada-shell (⭐5)](https://github.com/simonjwright/tcladashell) - Tcl Ada SHell (Tash) is an Ada binding to Tcl/Tk.
+*   [tcl-ada-shell (⭐6)](https://github.com/simonjwright/tcladashell) - Tcl Ada SHell (Tash) is an Ada binding to Tcl/Tk.
 
 ## [5. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 
@@ -40,17 +40,17 @@
 
 ### Learn
 
-*   [Learn Elm (⭐467)](https://github.com/dwyl/learn-elm) - Discover the beautiful programming language that makes front-end web apps a joy to build and maintain!
+*   [Learn Elm (⭐470)](https://github.com/dwyl/learn-elm) - Discover the beautiful programming language that makes front-end web apps a joy to build and maintain!
 
 ### Community and Support / Games
 
-*   [Companies using Elm (⭐416)](https://github.com/jah2488/elm-companies) - A list of companies using Elm in production.
+*   [Companies using Elm (⭐424)](https://github.com/jah2488/elm-companies) - A list of companies using Elm in production.
 
 ## [7. Awesome React](/content/enaqx/awesome-react/README.md)
 
 ### React Graphics and Animations
 
-*   [react-parallax-tilt (⭐711)](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
+*   [react-parallax-tilt (⭐816)](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
 
 ## [8. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

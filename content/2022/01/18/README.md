@@ -49,14 +49,14 @@
 ### Algorithms / Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
 
 *   [Removert :newspaper:](http://ras.papercept.net/images/temp/IROS/files/0855.pdf) - Remove, then Revert: Static Point cloud Map Construction using Multiresolution Range Images.
-    *   [GitHub repository :octocat: (⭐369)](https://github.com/irapkaist/removert)
+    *   [GitHub repository :octocat: (⭐420)](https://github.com/irapkaist/removert)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=M9PEGi5fAq8)
 
 ### Algorithms / Object detection and object tracking
 
 *   [urban\_road\_filter :newspaper:](https://doi.org/10.3390/s22010194)-
     Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles
-    *   [GitHub repository :octocat: (⭐187)](https://github.com/jkk-research/urban_road_filter)
+    *   [GitHub repository :octocat: (⭐220)](https://github.com/jkk-research/urban_road_filter)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=T2qi4pldR-E)
 
 ## [6. Awesome Ci](/content/ligurio/awesome-ci/README.md)
@@ -117,9 +117,9 @@
 
 ### Testing
 
-*   [snippets.uilicious.com](https://snippets.uilicious.com) - It's like CodePen, but for cross browser testing. UI-licious lets write tests like user stories, and offers a free platform - UI-licious Snippets - that allows you to run unlimited number of tests on Chrome for free with no sign up requred, for up to 3 minutes per test run. Found a bug? You can simply copy the unique url to your test to show your devs exactly how to reproduce the bug.
+*   [snippets.uilicious.com](https://snippets.uilicious.com) - It's like CodePen but for cross-browser testing. UI-licious lets you write tests like user stories and offers a free platform - UI-licious Snippets - that allows you to run unlimited tests on Chrome with no sign-up required for up to 3 minutes per test run. Found a bug? You can copy the unique URL to your test to show your devs exactly how to reproduce the bug.
 
-### DBaaS
+### Managed Data Services
 
 *   [Dgraph Cloud](https://cloud.dgraph.io/pricing?type=free) — Managed native Graph DBMS with a GraphQL API. Limited to 1 MB data transfer per day.
 

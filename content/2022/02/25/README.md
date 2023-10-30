@@ -14,7 +14,7 @@
 
 ## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [devj121 (⭐0)](https://github.com/cjeonguk/devj121-zsh-theme) - Includes `git` decorations with branch glyphs.
 
@@ -23,8 +23,8 @@
 ### Libraries / APIs & Web Services
 
 *   SteamID - A library for manipulating Steam IDs.
-    *   [Node.js (⭐59)](https://github.com/DoctorMcKay/node-steamid)
-    *   [PHP (⭐6)](https://github.com/DoctorMcKay/php-steamid)
+    *   [Node.js (⭐65)](https://github.com/DoctorMcKay/node-steamid)
+    *   [PHP (⭐8)](https://github.com/DoctorMcKay/php-steamid)
 
 ## [4. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-static-copy (⭐140)](https://github.com/sapphi-red/vite-plugin-static-copy) - Copy files and folders.
+*   [vite-plugin-static-copy (⭐174)](https://github.com/sapphi-red/vite-plugin-static-copy) - Copy files and folders.
 
 ## [7. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 

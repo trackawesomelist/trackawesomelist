@@ -22,9 +22,9 @@
 
 ### Debug
 
-*   [benchmark (⭐7.5k)](https://github.com/google/benchmark) - Google provided small microbenchmark support library. \[Apache2]
-*   [Google Mock (⭐30k)](https://github.com/google/googletest/blob/master/googlemock/README.md) - A library for writing and using C++ mock classes. \[BSD]
-*   [Google Test (⭐30k)](https://github.com/google/googletest) - Google C++ Testing Framework. \[BSD]
+*   [benchmark (⭐7.9k)](https://github.com/google/benchmark) - Google provided small microbenchmark support library. \[Apache2]
+*   [Google Mock (⭐31k)](https://github.com/google/googletest/blob/master/googlemock/README.md) - A library for writing and using C++ mock classes. \[BSD]
+*   [Google Test (⭐31k)](https://github.com/google/googletest) - Google C++ Testing Framework. \[BSD]
 
 ## [4. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Command-Line Productivity
 
-*   [boilr (⭐1.5k)](https://github.com/tmrts/boilr) - A blazingly fast CLI tool for creating projects from boilerplate templates.
+*   [boilr (⭐1.6k)](https://github.com/tmrts/boilr) - A blazingly fast CLI tool for creating projects from boilerplate templates.
 
 ## [6. Awesome Purescript](/content/passy/awesome-purescript/README.md)
 

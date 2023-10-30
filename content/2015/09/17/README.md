@@ -46,7 +46,7 @@
 
 ### Third Party APIs
 
-*   [airbrakex (⭐25)](https://github.com/fazibear/airbrakex) - Elixir client for the Airbrake service.
+*   [airbrakex (⭐26)](https://github.com/fazibear/airbrakex) - Elixir client for the Airbrake service.
 
 ## [3. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 
@@ -82,8 +82,8 @@
 
 ### Packages / URL
 
-*   [url-unshort (⭐107)](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
-*   [embedza (⭐58)](https://github.com/nodeca/embedza) - Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags.
+*   [url-unshort (⭐109)](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
+*   [embedza (⭐62)](https://github.com/nodeca/embedza) - Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags.
 
 ## [6. Awesome Mad Science](/content/feross/awesome-mad-science/README.md)
 

@@ -39,7 +39,7 @@
 
 ### Cheat Sheets / Randomized Algorithms
 
-*   [Algo Deck (⭐5k)](https://github.com/teivah/algodeck/) - An open-source collection of +200 algorithmic cards.
+*   [Algo Deck (⭐5.2k)](https://github.com/teivah/algodeck/) - An open-source collection of +200 algorithmic cards.
 
 ## [6. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
@@ -55,129 +55,127 @@
 
 ## [8. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### Distributed Applications
+### Distributed Applications / Text-Based User Interfaces
 
-*   [Hazelcast (⭐5.2k)](https://github.com/hazelcast/hazelcast) - Highly scalable in-memory datagrid with a free open-source version.
+*   [Hazelcast (⭐5.6k)](https://github.com/hazelcast/hazelcast) - Highly scalable in-memory datagrid with a free open-source version.
 
-### Functional Programming
+### Functional Programming / Text-Based User Interfaces
 
 *   [Cyclops (⭐1.3k)](https://github.com/aol/cyclops) - Monad and stream utilities, comprehensions, pattern matching, functional extensions for all JDK collections, future streams, trampolines and much more.
 *   [Vavr](https://www.vavr.io) - Functional component library that provides persistent data types and functional control structures.
 
-### Game Development
+### Game Development / Text-Based User Interfaces
 
 *   [FXGL](https://almasb.github.io/FXGL/) - JavaFX Game Development Framework.
 *   [jMonkeyEngine](https://jmonkeyengine.org) - Game engine for modern 3D development.
 
-### Geospatial
+### Geospatial / Text-Based User Interfaces
 
 *   [Jgeohash](https://astrapi69.github.io/jgeohash/) - Library for using the GeoHash algorithm.
 
-### GUI
+### GUI / Text-Based User Interfaces
 
 *   [Scene Builder](https://gluonhq.com/products/scene-builder/) - Visual layout tool for JavaFX applications.
 *   [SWT](https://www.eclipse.org/swt/) - Graphical widget toolkit.
 
-### High Performance
+### High Performance / Text-Based User Interfaces
 
 *   [Disruptor](https://lmax-exchange.github.io/disruptor/) - Inter-thread messaging library.
 
-### HTTP Clients
+### HTTP Clients / Text-Based User Interfaces
 
-*   [Feign (⭐8.6k)](https://github.com/OpenFeign/feign) - HTTP client binder inspired by Retrofit, JAXRS-2.0, and WebSocket.
-*   [restQL-java](https://github.com/b2wdigital/restQL-java) - Microservice query language that fetches information from multiple services.
+*   [Feign (⭐9.1k)](https://github.com/OpenFeign/feign) - HTTP client binder inspired by Retrofit, JAXRS-2.0, and WebSocket.
 *   [Retrofit](https://square.github.io/retrofit/) - Typesafe REST client.
 
-### IDE
+### IDE / Text-Based User Interfaces
 
 *   [IntelliJ IDEA ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg)](https://www.jetbrains.com/idea/) - Supports many JVM languages and provides good options for Android development. The commercial edition targets the enterprise sector.
 
-### Imagery
+### Imagery / Text-Based User Interfaces
 
-*   [Imgscalr (⭐1.1k)](https://github.com/rkalla/imgscalr) - Simple, efficient and hardware-accelerated image-scaling library implemented in pure Java 2D.
+*   [Imgscalr (⭐1.2k)](https://github.com/rkalla/imgscalr) - Simple, efficient and hardware-accelerated image-scaling library implemented in pure Java 2D.
 
-### Introspection
+### Introspection / Text-Based User Interfaces
 
 *   [Mirror](http://projetos.vidageek.net/mirror/mirror/) - Mirror was created to bring light to a simple problem, usually named ReflectionUtil, which is on almost all projects that rely on reflection to do advanced tasks.
 
-### JSON
+### JSON / Text-Based User Interfaces
 
 *   [Genson](http://genson.io) - Powerful and easy-to-use Java-to-JSON conversion library.
-*   [Yasson (⭐184)](https://github.com/eclipse-ee4j/yasson) - Binding layer between classes and JSON documents similar to JAXB.
-*   [JsonPath (⭐7.7k)](https://github.com/json-path/JsonPath) - Extract data from JSON using XPATH-like syntax.
+*   [Yasson (⭐192)](https://github.com/eclipse-ee4j/yasson) - Binding layer between classes and JSON documents similar to JAXB.
+*   [JsonPath (⭐8.3k)](https://github.com/json-path/JsonPath) - Extract data from JSON using XPATH-like syntax.
 
-### JVM and JDK
+### JVM and JDK / Text-Based User Interfaces
 
 *   [Corretto](https://aws.amazon.com/corretto/) - No-cost, multiplatform, production-ready distribution of OpenJDK by Amazon. (GPL-2.0-only WITH Classpath-exception-2.0)
 *   [Liberica JDK](https://bell-sw.com) - Built from OpenJDK, thoroughly tested and passed the JCK. (GPL-2.0-only WITH Classpath-exception-2.0)
 *   [SAP Machine](https://sap.github.io/SapMachine/) - SAP's no-cost, rigorously tested and JCK-verified OpenJDK friendly fork. (GPL-2.0-only WITH Classpath-exception-2.0)
 *   [Zulu](https://www.azul.com/products/zulu-community/) - OpenJDK builds for Windows, Linux, and macOS. (GPL-2.0-only WITH Classpath-exception-2.0)
 
-### Logging
+### Logging / Text-Based User Interfaces
 
 *   [Apache Log4j 2](https://logging.apache.org/log4j/) - Complete rewrite with a powerful plugin and configuration architecture.
 *   [Kibana](https://www.elastic.co/kibana) - Analyzes and visualizes log files. Some features require payment.
 *   [Logback](http://logback.qos.ch) - Robust logging library with interesting configuration options via Groovy.
 *   [tinylog](https://tinylog.org/v2/) - Lightweight logging framework with static logger class.
-*   [OpenTracing Toolbox (⭐181)](https://github.com/zalando/opentracing-toolbox) - Collection of libraries that build on top of OpenTracing and provide extensions and plugins to existing instrumentations.
+*   [OpenTracing Toolbox (⭐182)](https://github.com/zalando/opentracing-toolbox) - Collection of libraries that build on top of OpenTracing and provide extensions and plugins to existing instrumentations.
 
-### Machine Learning
+### Machine Learning / Text-Based User Interfaces
 
 *   [Weka](https://www.cs.waikato.ac.nz/ml/weka/) - Collection of algorithms for data mining tasks ranging from pre-processing to visualization. (GPL-3.0-only)
 
-### Messaging
+### Messaging / Text-Based User Interfaces
 
-*   [NATS client (⭐455)](https://github.com/nats-io/nats.java) - NATS client.
+*   [NATS client (⭐506)](https://github.com/nats-io/nats.java) - NATS client.
 
-### Microservice
+### Microservice / Text-Based User Interfaces
 
 *   [Apollo](https://spotify.github.io/apollo/) - Libraries for writing composable microservices.
 *   [Micronaut](https://micronaut.io) - Modern full-stack framework with focus on modularity, minimal memory footprint and startup time.
 
-### Miscellaneous
+### Miscellaneous / Text-Based User Interfaces
 
 *   [JBake](https://jbake.org) - Static website generator.
 *   [JBot (⭐1.2k)](https://github.com/rampatra/jbot) - Framework for building chatbots. (GPL-3.0-only)
 *   [Joda-Money](https://www.joda.org/joda-money/) - Basic currency and money classes and algorithms not provided by the JDK.
-*   [Modernizer (⭐327)](https://github.com/gaul/modernizer-maven-plugin) - Detect uses of legacy Java APIs.
-*   [OctoLinker (⭐5.1k)](https://github.com/OctoLinker/OctoLinker) - Browser extension which allows to navigate through code on GitHub more efficiently.
+*   [Modernizer (⭐340)](https://github.com/gaul/modernizer-maven-plugin) - Detect uses of legacy Java APIs.
+*   [OctoLinker (⭐5.2k)](https://github.com/OctoLinker/OctoLinker) - Browser extension which allows to navigate through code on GitHub more efficiently.
 
-### Monitoring
+### Monitoring / Text-Based User Interfaces
 
 *   [Failsafe Actuator (⭐52)](https://github.com/zalando/failsafe-actuator) - Out of the box monitoring of Failsafe Circuit Breaker in Spring-Boot environment.
 *   [inspectIT](https://www.inspectit.rocks) - Captures detailed run-time information via hooks that can be changed on the fly. It supports tracing over multiple systems via the OpenTracing API and can correlate the data with end user monitoring.
-*   [Metrics (⭐7.7k)](https://github.com/dropwizard/metrics) - Expose metrics via JMX or HTTP and send them to a database.
 
-### Natural Language Processing
+### Natural Language Processing / Text-Based User Interfaces
 
 *   [LingPipe](http://alias-i.com/lingpipe/) - Toolkit for tasks ranging from POS tagging to sentiment analysis.
 
-### Networking
+### Networking / Text-Based User Interfaces
 
-*   [Dubbo (⭐38k)](https://github.com/apache/dubbo) - High-performance RPC framework.
+*   [Dubbo (⭐39k)](https://github.com/apache/dubbo) - High-performance RPC framework.
 *   [Grizzly](https://javaee.github.io/grizzly/) - NIO framework. Used as a network layer in Glassfish.
-*   [Drift (⭐229)](https://github.com/airlift/drift) - Easy-to-use, annotation-based library for creating Thrift clients and serializable types.
+*   [Drift (⭐232)](https://github.com/airlift/drift) - Easy-to-use, annotation-based library for creating Thrift clients and serializable types.
 
-### ORM
+### ORM / Text-Based User Interfaces
 
-*   [Doma (⭐362)](https://github.com/domaframework/doma) - Database access framework that verifies and generates source code at compile time using annotation processing as well as native SQL templates called two-way SQL.
+*   [Doma (⭐392)](https://github.com/domaframework/doma) - Database access framework that verifies and generates source code at compile time using annotation processing as well as native SQL templates called two-way SQL.
 *   [Ebean](https://ebean.io) - Provides simple and fast data access.
 *   [EclipseLink](https://www.eclipse.org/eclipselink/) - Supports a number of persistence standards: JPA, JAXB, JCA and SDO.
 *   [Hibernate](http://hibernate.org/orm/) - Robust and widely used, with an active community. (LGPL-2.1-only)
-*   [MyBatis (⭐18k)](https://github.com/mybatis/mybatis-3) - Couples objects with stored procedures or SQL statements.
+*   [MyBatis (⭐19k)](https://github.com/mybatis/mybatis-3) - Couples objects with stored procedures or SQL statements.
 
-### PaaS
+### PaaS / Text-Based User Interfaces
 
 *   [AWS Elastic Beanstalk ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg)](https://aws.amazon.com/elasticbeanstalk/) - AWS-based, with support for Tomcat and Jetty.
 *   [AWS Lambda ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg)](https://aws.amazon.com/lambda/) - Serverless computation.
 *   [Microsoft Azure ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg)](https://azure.microsoft.com/en-us/) - Microsoft's cloud infrastructure.
 
-### PDF
+### PDF / Text-Based User Interfaces
 
 *   [Apache FOP](https://xmlgraphics.apache.org/fop/) - Creates PDFs from XSL-FO.
 *   [iText ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg)](https://itextpdf.com/en) - Creates PDF files programmatically.
 
-### Performance analysis
+### Performance analysis / Text-Based User Interfaces
 
 *   [fastThread ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg)](https://fastthread.io) - Analyze and visualize thread dumps with a free cloud-based upload interface.
 *   [GCeasy ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg)](https://gceasy.io) - Tool to analyze and visualize GC logs. It provides a free cloud-based upload interface.
@@ -243,17 +241,17 @@
 ### Platform / Other
 
 *   [CUBA Platform](https://www.cuba-platform.com/) - High-level framework for developing enterprise applications with a rich web interface, based on Spring, EclipseLink and Vaadin.
-*   [Light-4J (⭐3.5k)](https://github.com/networknt/light-4j/) - Fast, lightweight and productive microservices framework with built-in [security (⭐292)](https://github.com/networknt/light-oauth2/).
-*   [Orienteer (⭐190)](https://github.com/OrienteerBAP/Orienteer/) - Open-source business application platform for rapid configuration/development of CRM, ERP, LMS and other applications.
+*   [Light-4J (⭐3.5k)](https://github.com/networknt/light-4j/) - Fast, lightweight and productive microservices framework with built-in [security (⭐306)](https://github.com/networknt/light-oauth2/).
+*   [Orienteer (⭐211)](https://github.com/OrienteerBAP/Orienteer/) - Open-source business application platform for rapid configuration/development of CRM, ERP, LMS and other applications.
 *   [Spring](https://spring.io/projects/) - Provides many packages for dependency injection, aspect-oriented programming, security, etc.
 
 ### Reactive libraries / Other
 
-*   [Reactor (⭐4.4k)](https://github.com/reactor/reactor-core) - Library for building reactive fast-data applications.
+*   [Reactor (⭐4.7k)](https://github.com/reactor/reactor-core) - Library for building reactive fast-data applications.
 
 ### REST Frameworks / Other
 
-*   [Dropwizard (⭐8.3k)](https://github.com/dropwizard/dropwizard) - Opinionated framework for setting up modern web applications with Jetty, Jackson, Jersey and Metrics.
+*   [Dropwizard (⭐8.4k)](https://github.com/dropwizard/dropwizard) - Opinionated framework for setting up modern web applications with Jetty, Jackson, Jersey and Metrics.
 *   [Elide](https://elide.io) - Opinionated framework for JSON- or GraphQL-APIs based on a JPA data model.
 *   [Microserver (⭐940)](https://github.com/aol/micro-server) - Convenient, extensible microservices plugin system for Spring & Spring Boot. With more than 30 plugins and growing, it supports both micro-monolith and pure microservices styles.
 *   [RESTEasy](https://resteasy.github.io) - Fully certified and portable implementation of the JAX-RS specification.
@@ -261,8 +259,8 @@
 ### Science / Other
 
 *   [JFreeChart](http://www.jfree.org/jfreechart/) - 2D chart library for Swing, JavaFX and server-side applications. (LGPL-2.1-only)
-*   [Morpheus (⭐226)](https://github.com/zavtech/morpheus-core) - Provides a versatile two-dimensional memory efficient tabular data structure called a DataFrame to enable efficient in-memory analytics for scientific computing on the JVM.
-*   [Tablesaw (⭐3.1k)](https://github.com/jtablesaw/tablesaw) - Includes a data-frame, an embedded column store, and hundreds of methods to transform, summarize, or filter data.
+*   [Morpheus (⭐236)](https://github.com/zavtech/morpheus-core) - Provides a versatile two-dimensional memory efficient tabular data structure called a DataFrame to enable efficient in-memory analytics for scientific computing on the JVM.
+*   [Tablesaw (⭐3.3k)](https://github.com/jtablesaw/tablesaw) - Includes a data-frame, an embedded column store, and hundreds of methods to transform, summarize, or filter data.
 
 ### Search / Other
 
@@ -280,15 +278,14 @@
 
 ### Testing / Asynchronous
 
-*   [Awaitility (⭐3.3k)](https://github.com/awaitility/awaitility) - DSL for synchronizing asynchronous operations.
-*   [GreenMail](http://www.icegreen.com/greenmail/) - In-memory email server for integration testing. Supports SMTP, POP3 and IMAP including SSL. (GPL-2.0-only)
-*   [REST Assured (⭐6.2k)](https://github.com/rest-assured/rest-assured) - DSL for easy testing of REST/HTTP services.
+*   [Awaitility (⭐3.6k)](https://github.com/awaitility/awaitility) - DSL for synchronizing asynchronous operations.
+*   [REST Assured (⭐6.5k)](https://github.com/rest-assured/rest-assured) - DSL for easy testing of REST/HTTP services.
 
 ### Testing / BDD
 
-*   [Cukes-REST (⭐102)](https://github.com/ctco/cukes) - Collection of Gherkin steps for REST-service testing using Cucumber.
+*   [Cukes-REST (⭐106)](https://github.com/ctco/cukes) - Collection of Gherkin steps for REST-service testing using Cucumber.
 *   [JBehave](https://jbehave.org) - Extensively configurable framework that describes stories.
-*   [Serenity BDD (⭐656)](https://github.com/serenity-bdd/serenity-core) - Automated Acceptance testing and reporting library that works with Cucumber, JBehave and JUnit to make it easier to write high quality executable specifications.
+*   [Serenity BDD (⭐691)](https://github.com/serenity-bdd/serenity-core) - Automated Acceptance testing and reporting library that works with Cucumber, JBehave and JUnit to make it easier to write high quality executable specifications.
 
 ### Testing / Frameworks
 
@@ -305,21 +302,21 @@
 
 ### Testing / Mocking
 
-*   [PowerMock (⭐4k)](https://github.com/powermock/powermock) - Mocks static methods, constructors, final classes and methods, private methods, and removal of static initializers.
+*   [PowerMock (⭐4.1k)](https://github.com/powermock/powermock) - Mocks static methods, constructors, final classes and methods, private methods, and removal of static initializers.
 
 ### Utility / Mocking
 
-*   [cactoos (⭐694)](https://github.com/yegor256/cactoos) - Collection of object-oriented primitives.
+*   [cactoos (⭐714)](https://github.com/yegor256/cactoos) - Collection of object-oriented primitives.
 *   [Embulk (⭐1.7k)](https://github.com/embulk/embulk) - Bulk data loader that helps data transfer between various databases, storages, file formats, and cloud services.
 *   [JGit](https://www.eclipse.org/jgit/) - Lightweight, pure Java library implementing the Git version control system.
 
 ### Version Managers / Mocking
 
-*   [jenv (⭐4.7k)](https://github.com/jenv/jenv) - Java Version Manager inspired by rbenv. Can configure globally or per project. Tested on Debian and macOS.
+*   [jenv (⭐5.2k)](https://github.com/jenv/jenv) - Java Version Manager inspired by rbenv. Can configure globally or per project. Tested on Debian and macOS.
 
 ### Web Frameworks / Mocking
 
-*   [Blade (⭐5.7k)](https://github.com/lets-blade/blade) - Lightweight, modular framework that aims to be elegant and simple.
+*   [Blade (⭐5.8k)](https://github.com/lets-blade/blade) - Lightweight, modular framework that aims to be elegant and simple.
 *   [Jooby](http://www.jooby.org) - Scalable, fast and modular micro-framework that offers multiple programming models.
 *   [PrimeFaces](https://www.primefaces.org) - JSF framework with both free and commercial/support versions and frontend components.
 *   [Vaadin](https://vaadin.com) - Event-driven framework that uses standard web components. Server-side architecture with Ajax on the client side.
@@ -332,7 +329,7 @@
 
 ### Examples
 
-*   [React Parallax Tilt (⭐696)](https://github.com/mkosir/react-parallax-tilt#readme) - GIF demo. Multiple badges. Feature list. Great live demo with code examples. Easy to follow instructions for local development set up.
+*   [React Parallax Tilt (⭐816)](https://github.com/mkosir/react-parallax-tilt#readme) - GIF demo. Multiple badges. Feature list. Great live demo with code examples. Easy to follow instructions for local development set up.
 
 ## [10. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
 

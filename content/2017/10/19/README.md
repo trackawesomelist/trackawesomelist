@@ -10,13 +10,13 @@
 
 ### Tools for Teams and Collaboration
 
-*   [Igloo](https://www.igloosoftware.com/) — Internal portal for sharing documents, blogs and calendars etc. Free for up to 10 users.
+*   [Igloo](https://www.igloosoftware.com/) — Internal portal for sharing documents, blogs, calendars, etc. Free for up to 10 users.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Networking
 
-*   [Seasocks (⭐655)](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support. \[BSD]
+*   [Seasocks (⭐693)](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support. \[BSD]
 
 ## [3. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Modules / CLI
 
-*   [help-version (⭐4)](https://github.com/eush77/help-version) - Easily handle --help and --version arguments in your CLI application
+*   [help-version (⭐5)](https://github.com/eush77/help-version) - Easily handle --help and --version arguments in your CLI application
 
 ## [5. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
@@ -57,9 +57,9 @@
 
 ### Web / Playground
 
-*   :octocat: [ionic (⭐49k)](https://github.com/ionic-team/ionic) - An open-source mobile app development framework build in TypeScript
+*   :octocat: [ionic (⭐50k)](https://github.com/ionic-team/ionic) - An open-source mobile app development framework build in TypeScript
 *   :octocat: [Stencil (⭐12k)](https://github.com/ionic-team/stencil) - a tool for building modern Web Components
-*   :octocat: [wretch (⭐3.9k)](https://github.com/elbywan/wretch) - A tiny (< 2.2Kb g-zipped) wrapper built around fetch with an intuitive syntax.
+*   :octocat: [wretch (⭐4.2k)](https://github.com/elbywan/wretch) - A tiny (< 2.2Kb g-zipped) wrapper built around fetch with an intuitive syntax.
 
 ## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Apps
 
-*   [Gank (⭐128)](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
+*   [Gank (⭐129)](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
 
 ## [12. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

@@ -10,7 +10,7 @@
 
 ### IDE
 
-*   [DataStation (⭐2.7k)](https://github.com/multiprocessio/datastation) - Easily query, script, and visualize data from every database, file, and API.
+*   [DataStation (⭐2.8k)](https://github.com/multiprocessio/datastation) - Easily query, script, and visualize data from every database, file, and API.
 
 ## [2. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Libraries / Community
 
-*   [ssr (⭐2.3k)](https://github.com/zhangyuang/ssr) - A Server Side Rendering framework combined with Webpack/Vite. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883) ![vue2](https://img.shields.io/badge/-Vue%202-42b883)
+*   [ssr (⭐2.4k)](https://github.com/zhangyuang/ssr) - A Server Side Rendering framework combined with Webpack/Vite. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883) ![vue2](https://img.shields.io/badge/-Vue%202-42b883)
 
 ## [4. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
@@ -125,20 +125,20 @@
 
 ### Examples
 
-*   [zenml-io/zenml (⭐2.7k)](https://github.com/zenml-io/zenml#readme) - Clean project logo. Useful TOC. Clear code examples amongst feature list. Quickstart example.
+*   [zenml-io/zenml (⭐3.2k)](https://github.com/zenml-io/zenml#readme) - Clean project logo. Useful TOC. Clear code examples amongst feature list. Quickstart example.
 
 ## [6. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Auth
 
-*   [AuthX (⭐441)](https://github.com/yezz123/AuthX) - Customizable Authentications and Oauth2 management for FastAPI.
-*   [FastAPI Security (⭐111)](https://github.com/jacobsvante/fastapi-security) - Implements authentication and authorization as dependencies in FastAPI.
+*   [AuthX (⭐546)](https://github.com/yezz123/AuthX) - Customizable Authentications and Oauth2 management for FastAPI.
+*   [FastAPI Security (⭐116)](https://github.com/jacobsvante/fastapi-security) - Implements authentication and authorization as dependencies in FastAPI.
 
 ### Utils / Other Tools
 
-*   [ASGI Correlation ID (⭐188)](https://github.com/snok/asgi-correlation-id) - Request ID logging middleware.
-*   [FastAPI Cache (⭐602)](https://github.com/long2ice/fastapi-cache) - A tool to cache FastAPI response and function results, with support for Redis, Memcached, DynamoDB, and in-memory backends.
-*   [FastAPI Lazy (⭐97)](https://github.com/yezz123/fastapi-lazy) - Lazy package to start your project using FastAPI.
+*   [ASGI Correlation ID (⭐244)](https://github.com/snok/asgi-correlation-id) - Request ID logging middleware.
+*   [FastAPI Cache (⭐796)](https://github.com/long2ice/fastapi-cache) - A tool to cache FastAPI response and function results, with support for Redis, Memcached, DynamoDB, and in-memory backends.
+*   [FastAPI Lazy (⭐100)](https://github.com/yezz123/fastapi-lazy) - Lazy package to start your project using FastAPI.
 
 ### Tutorials / Other Tools
 
@@ -168,7 +168,7 @@
 
 ### Python / Git
 
-*   [ecdsa (⭐801)](https://github.com/tlsfuzzer/python-ecdsa) - An easy-to-use implementation of ECC with support for ECDSA and ECDH.
+*   [ecdsa (⭐835)](https://github.com/tlsfuzzer/python-ecdsa) - An easy-to-use implementation of ECC with support for ECDSA and ECDH.
 
 ## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -184,33 +184,33 @@
 
 ### Software / Community-Supported Agriculture (CSA)
 
-*   [FoodCoopShop](https://www.foodcoopshop.com/) - User-friendly open source software for food-coops. ([Source Code (⭐65)](https://github.com/foodcoopshop/foodcoopshop)) `AGPL-3.0` `PHP`
+*   [FoodCoopShop](https://www.foodcoopshop.com/) - User-friendly open source software for food-coops. ([Source Code (⭐67)](https://github.com/foodcoopshop/foodcoopshop)) `AGPL-3.0` `PHP/Docker`
 
 ### Software / Search Engines
 
-*   [Jina (⭐18k)](https://github.com/jina-ai/jina/) - Cloud-native neural search framework for any kind of data. `Apache-2.0` `Python`
+*   [Jina (⭐19k)](https://github.com/jina-ai/jina/) - Cloud-native neural search framework for any kind of data. `Apache-2.0` `Python/Docker`
 
 ## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Component bundles
 
-*   [FAST Blazor (⭐1.3k)](https://github.com/microsoft/fast-blazor) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/fast-blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/microsoft/fast-blazor?style=flat-square\&cacheSeconds=86400) A lightweight wrapper around Microsoft's official FluentUI Web Components for use with .NET 6.0 Razor views & Blazor. ([Samples & demo](https://www.fast.design/)).
-*   [BootstrapBlazor (⭐1.4k)](https://github.com/ArgoZhang/BootstrapBlazor) - ![stars](https://img.shields.io/github/stars/ArgoZhang/BootstrapBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ArgoZhang/BootstrapBlazor?style=flat-square\&cacheSeconds=86400) Reusable bootstrap components for Blazor. ([Docs as Demo](https://www.blazor.zone/)).
+*   [FAST Blazor (⭐1.8k)](https://github.com/microsoft/fast-blazor) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/fast-blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/microsoft/fast-blazor?style=flat-square\&cacheSeconds=86400) A lightweight wrapper around Microsoft's official FluentUI Web Components for use with .NET 6.0 Razor views & Blazor. ([Samples & demo](https://www.fast.design/)).
+*   [BootstrapBlazor (⭐1.6k)](https://github.com/ArgoZhang/BootstrapBlazor) - ![stars](https://img.shields.io/github/stars/ArgoZhang/BootstrapBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ArgoZhang/BootstrapBlazor?style=flat-square\&cacheSeconds=86400) Reusable bootstrap components for Blazor. ([Docs as Demo](https://www.blazor.zone/)).
 
 ### Tools & Utilities / Others
 
-*   [BlazorTemplater (⭐110)](https://github.com/conficient/BlazorTemplater) - ![last-commit](https://img.shields.io/github/last-commit/conficient/BlazorTemplater?style=flat-square\&cacheSeconds=86400) Use `.razor` components to render HTML strings for email content.
+*   [BlazorTemplater (⭐132)](https://github.com/conficient/BlazorTemplater) - ![last-commit](https://img.shields.io/github/last-commit/conficient/BlazorTemplater?style=flat-square\&cacheSeconds=86400) Use `.razor` components to render HTML strings for email content.
 *   [MediaSession.Blazor (⭐5)](https://github.com/zuozishi/MediaSession.Blazor) - ![last-commit](https://img.shields.io/github/last-commit/zuozishi/MediaSession.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for Media Session API. The Media Session API provides a way to customize media notifications. ([Demo](https://zuozishi.github.io/MediaSession.Blazor/)).
 
 ## [13. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
-### Inbox: Large Language Models / Contribute to Our Repository
+### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
 *   [DeepMind says its new language model can beat others 25 times its size | MIT Technology Review](https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/)
 
 ### Image Synthesis / Promptism
 
-*   [mikaelalafriz/lucid-sonic-dreams (⭐749)](https://github.com/mikaelalafriz/lucid-sonic-dreams): syncs GAN-generated visuals to music
+*   [mikaelalafriz/lucid-sonic-dreams (⭐762)](https://github.com/mikaelalafriz/lucid-sonic-dreams): syncs GAN-generated visuals to music
 
 ### Miscellaneous / Improving Google Colab experience
 
@@ -219,7 +219,7 @@
 ### Miscellaneous / Auxiliary tools and concepts
 
 *   [The Art of PNG Glitch](https://ucnv.github.io/pnglitch/)
-*   [HashLips/hashlips\_art\_engine (⭐6.9k)](https://github.com/HashLips/hashlips_art_engine): tool used to create multiple different instances of artworks based on provided layers
+*   [HashLips/hashlips\_art\_engine (⭐7k)](https://github.com/HashLips/hashlips_art_engine): tool used to create multiple different instances of artworks based on provided layers
 
 ## [14. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
@@ -239,7 +239,7 @@
 
 ### Game Development
 
-*   [MyECS (⭐13)](https://github.com/konovod/myecs) - A Sparse Entity Component System Framework for Crystal
+*   [MyECS (⭐15)](https://github.com/konovod/myecs) - A Sparse Entity Component System Framework for Crystal
 
 ## [16. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -397,7 +397,7 @@
   CORS: No
 
 
-- API: [SpaceX (⭐9.6k)](https://github.com/r-spacex/SpaceX-API)
+- API: [SpaceX (⭐10k)](https://github.com/r-spacex/SpaceX-API)
 
   Description: Company, vehicle, launchpad and launch data
 
@@ -495,14 +495,14 @@
 
 ### GTFS Realtime Utilities / Ruby
 
-*   [bus\_kalman (⭐21)](https://github.com/cmoscardi/bus_kalman) - A Kalman Filter used to interpolate bus travel times using NYC MTA real-time data.
+*   [bus\_kalman (⭐22)](https://github.com/cmoscardi/bus_kalman) - A Kalman Filter used to interpolate bus travel times using NYC MTA real-time data.
 *   [gtfs-realtime-test-service (⭐2)](https://github.com/CUTR-at-USF/gtfs-realtime-test-service) - A tool for mocking GTFS-realtime feed content (e.g., for use in testing a GTFS-realtime consuming application).
 *   [GTFS-realtime Printer (⭐7)](https://github.com/laidig/gtfs-rt-printer) - Java-based utility to print out information from a GTFS-realtime file or URL.
 *   [gtfs-rt-differential-to-full-dataset (⭐3)](https://github.com/derhuerst/gtfs-rt-differential-to-full-dataset) – Javascript tool to transform a continuous GTFS Realtime stream of `DIFFERENTIAL` incrementality data into a `FULL_DATASET` dump.
 *   [gtfs-rt-dump (⭐18)](https://github.com/kurtraschke/gtfs-rt-dump) - Converts protocol buffer format to plain text for easy viewing of a GTFS-realtime feed in plain text (for debugging purposes)
-*   [gtfs-rt-inspector](https://public-transport.github.io/gtfs-rt-inspector/) – Web app to inspect & analyze any (CORS-enabled) GTFS Realtime feed. Open-source on [GitHub (⭐19)](https://github.com/public-transport/gtfs-rt-inspector).
-*   [print-gtfs-rt-cli (⭐12)](https://github.com/derhuerst/print-gtfs-rt-cli) – Javascript tool to read a GTFS Realtime feed from stdin, print human-readable or as JSON.
-*   [transit-feed-quality-calculator (⭐6)](https://github.com/CUTR-at-USF/transit-feed-quality-calculator) - A Java project that uses the [gtfs-realtime-validator (⭐90)](https://github.com/CUTR-at-USF/gtfs-realtime-validator) to assess the quality of a large number of transit feeds, fetching the feed URLs from a global directory ([TransitFeeds.com/OpenMobilityData.org](https://openmobilitydata.org/)).
+*   [gtfs-rt-inspector](https://public-transport.github.io/gtfs-rt-inspector/) – Web app to inspect & analyze any (CORS-enabled) GTFS Realtime feed. Open-source on [GitHub (⭐23)](https://github.com/public-transport/gtfs-rt-inspector).
+*   [print-gtfs-rt-cli (⭐13)](https://github.com/derhuerst/print-gtfs-rt-cli) – Javascript tool to read a GTFS Realtime feed from stdin, print human-readable or as JSON.
+*   [transit-feed-quality-calculator (⭐7)](https://github.com/CUTR-at-USF/transit-feed-quality-calculator) - A Java project that uses the [gtfs-realtime-validator (⭐89)](https://github.com/CUTR-at-USF/gtfs-realtime-validator) to assess the quality of a large number of transit feeds, fetching the feed URLs from a global directory ([TransitFeeds.com/OpenMobilityData.org](https://openmobilitydata.org/)).
 *   [Transit Network Model (⭐12)](https://github.com/tmelliott/TransitNetworkModel) - A tool to generate predictions using GTFS-realtime VehiclePositions, a particle filter, and a Kalman Filter.
 
 ## [20. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
@@ -556,12 +556,12 @@
 
 ### Editing Support / Diagnostics
 
-*   [gbprod/cutlass.nvim (⭐97)](https://github.com/gbprod/cutlass.nvim) - Plugin that adds a 'cut' operation separate from 'delete'.
-*   [sQVe/sort.nvim (⭐96)](https://github.com/sQVe/sort.nvim) - Sorting plugin that intelligently supports line-wise and delimiter sorting.
+*   [gbprod/cutlass.nvim (⭐139)](https://github.com/gbprod/cutlass.nvim) - Plugin that adds a 'cut' operation separate from 'delete'.
+*   [sQVe/sort.nvim (⭐109)](https://github.com/sQVe/sort.nvim) - Sorting plugin that intelligently supports line-wise and delimiter sorting.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [CosmicNvim/CosmicNvim (⭐946)](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!
+*   [CosmicNvim/CosmicNvim (⭐1k)](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!
 
 ## [23. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -573,40 +573,34 @@
 
 ### Tooling / Frameworks
 
-*   [trunk-action (⭐18)](https://github.com/jetli/trunk-action) - Github action to install `Trunk` by downloading the executable to speed up CI/CD.
+*   [trunk-action (⭐20)](https://github.com/jetli/trunk-action) - Github action to install `Trunk` by downloading the executable to speed up CI/CD.
 
 ## [25. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / General Tools
 
-*   [Equinox (⭐815)](https://github.com/rlxone/Equinox) - Create dynamic wallpapers for macOS. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/equinox-create-wallpaper/id1591510203)
+*   [Equinox (⭐902)](https://github.com/rlxone/Equinox) - Create dynamic wallpapers for macOS. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/equinox-create-wallpaper/id1591510203)
 
-## [26. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
-
-### Web
-
-*   [Codelib.club](https://codelib.club) - Search and discover open-source apps by dependencies.
-
-## [27. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [26. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### JavaScript
 
 *   [Bytes](https://bytes.dev/). Become a smarter JavaScript developer. Staying informed on the JavaScript ecosystem has never been so entertaining. Delivered every Monday, for free.
 
-## [28. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [27. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Networking and Communication Middleware / MIT
+### Networking and Communication Middleware / Apache License
 
 *   [tomi-4-ada](https://sourceforge.net/projects/tomi4ada) - Wrappers for various client/server and pub/sub messaging protocols (AMQP, STOMP and ZeroMQ), focusing exclusively on text message communications.
 *   [mosquitto-ada (⭐5)](https://github.com/persan/mosquitto-ada) - Binding for the MQTT broker Mosquitto.
 
-## [29. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
+## [28. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
 ### ☤ Coin Market Tools & Utilities
 
 *   ~~[CoinScanner.co](https://coinscanner.co/) — Gives you multiple trade routes from 1 crypto to another.~~
 
-## [30. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [29. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
@@ -616,14 +610,14 @@
 *   🛑💼 [Text Decoration Color (⭐11)](https://github.com/ahmadawais/tailwind-text-decoration-color) - Adds `text-decoration-color` utilities.
 *   🛑💼 [Downwind CSS Text Decoration (⭐8)](https://github.com/downwindcss/text-decoration) - Adds composable `text-decoration` utilities.
 *   🛑💼 [Capitalize first letter (⭐3)](https://github.com/riderx/capitalize-first-tailwind) - Adds `capitalize-first` utilities.
-*   🛑💼 [Aspect Ratio (⭐252)](https://github.com/webdna/tailwindcss-aspect-ratio) - Adds `aspect-ratio` utilities.
+*   🛑💼 [Aspect Ratio (⭐249)](https://github.com/webdna/tailwindcss-aspect-ratio) - Adds `aspect-ratio` utilities.
 *   🛑💼 [Shadow Outline Colors (⭐9)](https://github.com/octoper/tailwindcss-shadow-outline-colors) - Adds `box-shadow` utilities based on configured colors.
-*   🛑💼 [Alpha (⭐71)](https://github.com/bradlc/tailwindcss-alpha) - Adds alpha color variant utilities.
-*   🛑🧬 [Direction (⭐217)](https://github.com/RonMelkhior/tailwindcss-dir) - Adds `RTL` and `LTR` variants.
+*   🛑💼 [Alpha (⭐70)](https://github.com/bradlc/tailwindcss-alpha) - Adds alpha color variant utilities.
+*   🛑🧬 [Direction (⭐221)](https://github.com/RonMelkhior/tailwindcss-dir) - Adds `RTL` and `LTR` variants.
 *   🛑🧬 [Important (⭐42)](https://github.com/chasegiunta/tailwindcss-important) - Adds an `important` variant.
 *   🛑🧬🎨 [Prefers Dark Mode (⭐12)](https://github.com/javifm86/tailwindcss-prefers-dark-mode) - Adds variants based on the `prefers-color-scheme` media query.
 *   🛑🧬🎨 [Dark Mode (⭐15)](https://github.com/danestves/tailwindcss-darkmode) - Adds `dark` variants based on CSS classes.
-*   🛑🧬🎨 [Dark Mode (⭐648)](https://github.com/ChanceArthur/tailwindcss-dark-mode) - Adds `dark` variants based on the `prefers-color-scheme` media query.
+*   🛑🧬🎨 [Dark Mode (⭐644)](https://github.com/ChanceArthur/tailwindcss-dark-mode) - Adds `dark` variants based on the `prefers-color-scheme` media query.
 
 ### Tools
 
@@ -632,9 +626,9 @@
 
 ### UI Libraries, Components & Templates
 
-*   📁 [Admin One Vue 3 (⭐1.4k)](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
+*   📁 [Admin One Vue 3 (⭐1.7k)](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
 
-## [31. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [30. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Developer Groups
 
@@ -645,21 +639,21 @@
 *   [MoeFront](https://github.com/moefront) \[中文]
 *   [Project ShangriLa](https://github.com/Project-ShangriLa) \[日本語]
 
-## [32. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [31. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / Material Design
 
-*   [Backdrop (⭐267)](https://github.com/fluttercommunity/backdrop) <!--stargazers:fluttercommunity/backdrop--> - [Backdrop](https://material.io/design/components/backdrop.html) implementation for flutter.
+*   [Backdrop (⭐284)](https://github.com/fluttercommunity/backdrop) <!--stargazers:fluttercommunity/backdrop--> - [Backdrop](https://material.io/design/components/backdrop.html) implementation for flutter.
 
 ### Navigation / Image Picker
 
-*   [go\_router (⭐427)](https://github.com/csells/go_router) <!--stargazers:csells/go_router--> - Declarative routes to reduce complexity, deep linking for mobile and the web while maintaining developer experience by [Chris Sells](https://github.com/csells).
+*   [go\_router (⭐443)](https://github.com/csells/go_router) <!--stargazers:csells/go_router--> - Declarative routes to reduce complexity, deep linking for mobile and the web while maintaining developer experience by [Chris Sells](https://github.com/csells).
 
 ### Top / Game Engine resources
 
-*   [Mooltik (⭐170)](https://github.com/ruskakimov/mooltik) <!--stargazers:ruskakimov/mooltik--> - Animation app for making cartoons by [Rustem Kakimov](https://github.com/ruskakimov)
+*   [Mooltik (⭐182)](https://github.com/ruskakimov/mooltik) <!--stargazers:ruskakimov/mooltik--> - Animation app for making cartoons by [Rustem Kakimov](https://github.com/ruskakimov)
 
-## [33. Jstips](/content/loverajoel/jstips/week/README.md)
+## [32. Jstips](/content/loverajoel/jstips/week/README.md)
 
 ### Support the community / Let’s keep in touch
 
@@ -667,7 +661,7 @@
 *   68 - [Why you should use Object.is() in equality comparison](http://www.jstips.co/en/javascript/why-you-should-use-Object.is\(\)-in-equality-comparison/)
 *   33 - [Create Range 0...N easily using one line](http://www.jstips.co/en/javascript/create-range-0-n-easily-using-one-line/)
 
-## [34. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [33. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
@@ -675,9 +669,9 @@
 
 ### Tools
 
-*   [stressberry (⭐255)](https://github.com/nschloe/stressberry) - Stress test your Raspberry Pi and plot temperatures.
+*   [stressberry (⭐287)](https://github.com/nschloe/stressberry) - Stress test your Raspberry Pi and plot temperatures.
 
-## [35. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [34. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Interactive Experiences
 
@@ -691,7 +685,7 @@
 
 *   [Doge Temple](https://www.dogetemple.io/) - Online microverse devoted to Dogecoin.
 
-## [36. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [35. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment / Games
 
@@ -703,7 +697,7 @@
 
 ### Productivity / Finance
 
-*   [ledger](https://ledger-cli.org/) - Powerful, double-entry accounting system on the terminal
+*   [ledger](https://ledger-cli.org/) - Powerful, double-entry accounting system.
 
 ### Productivity / Calendars
 
@@ -712,11 +706,11 @@
 
 ### Utilities / Calendars
 
-*   [deadlink (⭐124)](https://github.com/nschloe/deadlink) - Find dead links in files.
+*   [deadlink (⭐132)](https://github.com/nschloe/deadlink) - Find dead links in files.
 
 ### Utilities / System Interaction Utilities
 
-*   [tiptop (⭐1.4k)](https://github.com/nschloe/tiptop) - System monitor.
+*   [tiptop (⭐1.5k)](https://github.com/nschloe/tiptop) - System monitor.
 
 ### Command Line Learning / Internet Speedtest
 
@@ -726,7 +720,7 @@
 
 *   [renameutils](https://www.nongnu.org/renameutils/) - Mass renaming in your editor.
 
-## [37. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
+## [36. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
 ### Component Libraries
 
@@ -736,7 +730,7 @@
 
 *   [Snehil Vijay](https://github.com/snehilvj)
 
-## [38. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [37. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / Vorago
 
@@ -746,19 +740,19 @@
 
 *   [`nrf52840-dk-bsp`](https://crates.io/crates/nrf52840-dk-bsp) - [nrf52840-dk](https://www.nordicsemi.com/Products/Development-hardware/nrf52840-dk) - ![crates.io](https://img.shields.io/crates/v/nrf52840-dk-bsp.svg)
 
-## [39. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [38. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Themes
 
-*   [tmux-gruvbox (⭐384)](https://github.com/egel/tmux-gruvbox) Light and dark tmux theme
+*   [tmux-gruvbox (⭐416)](https://github.com/egel/tmux-gruvbox) Light and dark tmux theme
 
-## [40. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [39. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Tools
 
 *   [xhub](https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee)
 
-## [41. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [40. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -766,7 +760,13 @@
 
 ### Community Extensions
 
-*   [Keycloak: Home IdP Discovery extension (⭐118)](https://github.com/sventorben/keycloak-home-idp-discovery)
+*   [Keycloak: Home IdP Discovery extension (⭐163)](https://github.com/sventorben/keycloak-home-idp-discovery)
+
+## [41. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### C / Non-X86
+
+*   [C Internals](https://www.avabodh.com/cin/cin.html) - Rajeev Kumar (HTML)
 
 ## [42. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
@@ -782,7 +782,7 @@
 
 ### Game Engine Bindings / XML
 
-*   [Godot-D (⭐195)](https://github.com/godot-d/godot-d) - D language bindings for the Godot Engine's GDNative API
+*   [Godot-D (⭐200)](https://github.com/godot-d/godot-d) - D language bindings for the Godot Engine's GDNative API
 
 ## [44. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -801,7 +801,7 @@
 ### MVC Frameworks and Libraries / Runner
 
 *   [react](https://reactjs.org/) - A library for building user interfaces. It's declarative, efficient, and extremely flexible. Works with a Virtual DOM.
-*   [Million (⭐6.9k)](https://github.com/aidenybai/million) - <1kb compiler-focused virtual DOM. It's fast!
+*   [Million (⭐13k)](https://github.com/aidenybai/million) - <1kb compiler-focused virtual DOM. It's fast!
 
 ### Templating Engines / Runner
 
@@ -816,7 +816,7 @@
 
 *   [DevDocs](https://devdocs.io/) is an all-in-one API documentation reader with a fast, organized, and consistent interface.
 *   [docco](http://ashkenas.com/docco/) is a quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.
-*   [Beautiful docs (⭐299)](https://github.com/beautiful-docs/beautiful-docs) is a documentation viewer based on markdown files.
+*   [Beautiful docs (⭐298)](https://github.com/beautiful-docs/beautiful-docs) is a documentation viewer based on markdown files.
 
 ### Reactive Programming / Runner
 
@@ -829,7 +829,7 @@
 ### Machine Learning / Runner
 
 *   [TensorFlow.js](https://www.tensorflow.org/js/) - A JavaScript library for training and deploying ML models in the browser and on Node.js.
-*   [m2cgen (⭐2.5k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native JavaScript code with zero dependencies.
+*   [m2cgen (⭐2.6k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native JavaScript code with zero dependencies.
 
 ### Loading Status / Runner
 
@@ -866,7 +866,7 @@
 
 *   [flowplayer (⭐1.9k)](https://github.com/flowplayer/flowplayer) - The HTML5 video player for the web
     <https://flowplayer.com/>
-*   [mediaelement (⭐8k)](https://github.com/johndyer/mediaelement) - HTML5 <audio> or <video> player with Flash and Silverlight shims that mimics the HTML5 MediaElement API, enabling a consistent UI in all browsers. <http://www.mediaelementjs.com/>
+*   [mediaelement (⭐8.1k)](https://github.com/johndyer/mediaelement) - HTML5 <audio> or <video> player with Flash and Silverlight shims that mimics the HTML5 MediaElement API, enabling a consistent UI in all browsers. <http://www.mediaelementjs.com/>
 
 ### Animations / Other
 
@@ -877,77 +877,77 @@
 *   [Logical Or Not](https://gabinaureche.com/logicalornot/) - A game about JavaScript specificities.
 *   [list.js (⭐11k)](https://github.com/javve/list.js) - Adds search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
     <https://listjs.com>
-
-### Podcasts / Other
-
 *   [SJSJ (⭐2.3k)](https://github.com/KittyGiraudel/SJSJ) - Simplified JavaScript Jargon is a community-driven attempt at explaining the loads of buzzwords making the current JavaScript ecosystem in a few simple words.
 
 ## [45. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Java / Deep Learning
 
-*   [deepjavalibrary/djl (⭐3.2k)](https://github.com/deepjavalibrary/djl) - Deep Java Library (DJL) is an open-source, high-level, engine-agnostic Java framework for deep learning, designed to be easy to get started with and simple to use for Java developers.
+*   [deepjavalibrary/djl (⭐3.5k)](https://github.com/deepjavalibrary/djl) - Deep Java Library (DJL) is an open-source, high-level, engine-agnostic Java framework for deep learning, designed to be easy to get started with and simple to use for Java developers.
 
 ### Kotlin / Deep Learning
 
-*   [KotlinDL (⭐1.2k)](https://github.com/JetBrains/KotlinDL) - Deep learning framework written in Kotlin.
+*   [KotlinDL (⭐1.3k)](https://github.com/JetBrains/KotlinDL) - Deep learning framework written in Kotlin.
 
 ## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### Major Cloud Providers
+
+*   [Cloudflare](https://www.cloudflare.com/)
+    *   [Application Services](https://www.cloudflare.com/plans/) - Free DNS for an unlimited number of domains, DDoS Protection, CDN along with free SSL, Firewall rules and page rules,  WAF, Bot Mitigation, Free Unmetered Rate Limiting - 1 rule per domain, Analytics, Email forwarding
+    *   [Zero Trust & SASE](https://www.cloudflare.com/plans/zero-trust-services/) - Up to 50 Users, 24 hours of activity logging, three network locations
+    *   [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/) -  You can expose locally running HTTP port over a tunnel to a random subdomain on trycloudflare.com use [Quick Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare), No account required. More features (TCP tunnel, Load balancing, VPN) in [Zero Trust](https://www.cloudflare.com/products/zero-trust/) Free Plan.
+    *   [Workers](https://developers.cloudflare.com/workers/) - Deploy serverless code for free on Cloudflare's global network—100k daily requests.
+    *   [Workers KV](https://developers.cloudflare.com/kv) - 100k read requests per day, 1000 write requests per day, 1000 delete requests per day, 1000 list requests per day, 1 GB stored data
+    *   [R2](https://developers.cloudflare.com/r2/) - 10 GB per month, 1 million Class A operations per month, 10 million Class B operations per month
+    *   [D1](https://developers.cloudflare.com/d1/) - 5 million rows read per day, 100k rows written per day, 1 GB storage
+    *   [Pages](https://developers.cloudflare.com/pages/) - Develop and deploy your web apps on Cloudflare's fast, secure global network. Five hundred monthly builds, 100 custom domains, Integrated SSL, unlimited accessible seats, unlimited preview deployments, and full-stack capability via Cloudflare Workers integration.
+    *   [Queues](https://developers.cloudflare.com/queues/) - 1 million operations per month
 
 ### Source Code Repos
 
 *   [Bitbucket](https://bitbucket.org/) — Unlimited public and private Git repos for up to 5 users with Pipelines for CI/CD
 *   [Codeberg.org](https://codeberg.org/) - Unlimited public and private Git repos for free and open-source projects. Static website hosting with [Codeberg Pages](https://codeberg.page/).
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Public-Apis Github Repo (⭐240k)](https://github.com/public-apis/public-apis) — A list of free public APIs.
+*   [Public-Apis Github Repo (⭐261k)](https://github.com/public-apis/public-apis) — A list of free public APIs.
 
 ### Code Quality
 
-*   [deepcode.ai](https://www.deepcode.ai) — DeepCode finds bugs, security vulnerabilities, performance and API issues based on AI. DeepCode's speed of analysis allow us to analyse your code in real time and deliver results when you hit the save button in your IDE. Supported languages are Java, C/C++, JavaScript, Python, and TypeScript. Integrations with GitHub, BitBucket and GitLab. Free for open source and private repos, free up to 30 developers.
+*   [deepcode.ai](https://www.deepcode.ai) — DeepCode finds bugs, security vulnerabilities, performance and API issues based on AI. DeepCode's speed of analysis allows us to analyze your code in real time and deliver results when you hit the save button in your IDE. Supported languages are Java, C/C++, JavaScript, Python, and TypeScript. Integrations with GitHub, BitBucket, and GitLab. Free for open source and private repos and up to 30 developers.
 
 ### Monitoring
 
-*   [Squadcast.com](https://squadcast.com) - Squadcast is an end-to-end incident management software that's designed to help you promote SRE best practices. Free forever plan available for upto 10 users.
+*   [Squadcast.com](https://squadcast.com) - Squadcast is an end-to-end incident management software designed to help you promote SRE best practices. Free forever plan available for up to 10 users.
 
 ### CDN and Protection
 
-*   [Cloudflare](https://www.cloudflare.com/)
-    *   CDN along with free SSL
-    *   Free DNS for unlimited number of domains
-    *   Firewall rules and pagerules
-    *   Analytics
-    *   Email forwarding
-    *   Free Unmetered Rate Limiting - 1 rule per domain
-    *   [Cloudflare Pages](https://pages.cloudflare.com/) — Free web hosting (JAMstack platform) for frontend developers to collaborate and deploy websites. 1 build at a time, 500 builds/month, unlimited sites, unlimited requests, unlimited bandwidth.
-    *   [Cloudflare Workers](https://workers.cloudflare.com/) — Deploy serverless code for free on Cloudflare's global network. 100,000 free requests per day with a workers.dev subdomain.
-    *   [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/) -  You can expose locally running HTTP port over a tunnel to a random subdomain on trycloudflare.com use [Quick Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare), No account required. More feature (TCP tunnel, Load balancing , VPN) in [Zero Trust](https://www.cloudflare.com/products/zero-trust/) Free Plan.
 *   [UNPKG](https://unpkg.com/) — CDN for everything on npm
 
 ### PaaS
 
-*   [Glitch](https://glitch.com/) — Free public hosting with features such as code sharing and real-time collaboration. Free plan has 1000 hours/month limit.
+*   [Glitch](https://glitch.com/) — Free public hosting with code sharing and real-time collaboration features. The free plan has a 1000-hours/month limit.
 
 ### Web Hosting
 
 *   [Neocities](https://neocities.org) — Static, 1 GB free storage with 200 GB Bandwidth.
-*   [Netlify](https://www.netlify.com/) — Builds, deploy and hosts static site/app free for, 100 GB data and 100 GB/month bandwidth.
-*   [SourceForge](https://sourceforge.net/) — Find, Create and Publish Open Source software for free
+*   [Netlify](https://www.netlify.com/) — Builds, deploys and hosts static site/app free for 100 GB data and 100 GB/month bandwidth.
+*   [SourceForge](https://sourceforge.net/) — Find, Create, and Publish Open Source software for free
 
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
 *   [localhost.run](https://localhost.run/) — Expose locally running servers over a tunnel to a public URL.
-*   [localtunnel](https://theboroer.github.io/localtunnel-www/) — Expose locally running servers over a tunnel to a public URL. Free hosted version, and [open source (⭐16k)](https://github.com/localtunnel/localtunnel).
-*   [Radmin VPN](https://www.radmin-vpn.com/) — Connect multiple computers together via a VPN enabling LAN-like networks. Unlimited peers. (Hamachi alternative)
+*   [localtunnel](https://theboroer.github.io/localtunnel-www/) — Expose locally running servers over a tunnel to a public URL. Free hosted version, and [open source (⭐17k)](https://github.com/localtunnel/localtunnel).
+*   [Radmin VPN](https://www.radmin-vpn.com/) — Connect multiple computers together via a VPN-enabling LAN-like network. Unlimited peers. (Hamachi alternative)
 *   [STUN](https://en.wikipedia.org/wiki/STUN) — Session Traversal of User Datagram Protocol \[UDP] Through Network Address Translators \[NATs])
     *   Google STUN — [stun:stun.l.google.com:19302](https://github.com/ripienaar/free-for-dev/blob/master/README.md/stun:stun.l.google.com:19302)
     *   Twilio STUN — [stun:global.stun.twilio.com:3478?transport=udp](https://github.com/ripienaar/free-for-dev/blob/master/README.md/stun:global.stun.twilio.com:3478?transport=udp)
-*   [Tailscale](https://tailscale.com/) — Zero config VPN, using the open source WireGuard protocol. Installs on MacOS, iOS, Windows, Linux, and Android devices. Free plan for personal use with 100 devices and 3 user.
+*   [Tailscale](https://tailscale.com/) — Zero config VPN, using the open-source WireGuard protocol. Installs on MacOS, iOS, Windows, Linux, and Android devices. Free plan for personal use with 100 devices and three users.
 
 ### Analytics, Events and Statistics
 
-*   [GoatCounter](https://www.goatcounter.com/) — GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app. It aims to offer easy to use and meaningful privacy-friendly web analytics as an alternative to Google Analytics or Matomo. Free tier is for non-commerical use and includes unlimited number of sites, 6 months of data retention, and 100k pageviews/month.
+*   [GoatCounter](https://www.goatcounter.com/) — GoatCounter is an open-source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app. It aims to offer easy-to-use and meaningful privacy-friendly web analytics as an alternative to Google Analytics or Matomo. The free tier is for non-commercial use and includes unlimited sites, six months of data retention, and 100k pageviews/month.
 *   [Expensify](https://www.expensify.com/) — Expense reporting, free personal reporting approval workflow
 *   [Keen](https://keen.io/) — Custom Analytics for data collection, analysis and visualization. 1,000 events/month free
 *   [Yandex.Metrica](https://metrica.yandex.com/) — Unlimited free analytics
@@ -955,20 +955,20 @@
 
 ### International Mobile Number Verification API and SDK
 
-*   [Cognalys](https://cognalys.com/) — Freemium mobile number verification through an innovative and reliable method than using SMS gateway. Free 10 tries and 15 verifications/day
+*   [Cognalys](https://cognalys.com/) — Freemium mobile number verification through an innovative and reliable method rather than using an SMS gateway. Free ten tries and 15 verifications/day
 *   [numverify](https://numverify.com/) — Global phone number validation and lookup JSON API. 250 API requests/month
 *   [veriphone](https://veriphone.io/) — Global phone number verification in a free, fast, reliable JSON API. 1000 requests/month
 
 ### Payment and Billing Integration
 
-*   [CurrencyApi](https://currencyapi.net/) — Live Currency Rates for Physical and Crypto currencies, delivered in JSON and XML. Free tier offers 1,250 API requests/month.
+*   [CurrencyApi](https://currencyapi.net/) — Live Currency Rates for Physical and Cryptocurrencies, delivered in JSON and XML. The free tier offers 1,250 API requests/month.
 *   [currencylayer](https://currencylayer.com/) — Reliable Exchange Rates and Currency Conversion for your Business, 1,000 API requests/month free
 *   [FraudLabsPRO](https://www.fraudlabspro.com) — Help merchants to prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month.
 *   [MailPopin](https://mailpop.in) - Get the most of your Stripe notifications with contextualized information.
 *   [Nami ML](https://www.namiml.com/) - Complete platform for in-app purchases and subscriptions on iOS and Android, including no-code paywalls, CRM, and analytics.  Free for all base features to run an IAP business.
-*   [RevenueCat](https://www.revenuecat.com/) — Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $10k/mo in tracked revenue.
+*   [RevenueCat](https://www.revenuecat.com/) — Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $2.5k/mo in tracked revenue.
 *   [vatlayer](https://vatlayer.com/) — Instant VAT number validation and EU VAT rates API, free 100 API requests/month
-*   [Freecurrencyapi.net](https://freecurrencyapi.net/) — Free currency conversion and exchange rate data API. 10 requests/hour without an API key, 50 000 requests per month when you register for free.
+*   [Freecurrencyapi.net](https://freecurrencyapi.net/) — Free currency conversion and exchange rate data API. 10 requests/hour without an API key, 50,000 requests per month when you register for free.
 
 ### Vagrant Related
 
@@ -977,9 +977,9 @@
 
 ### Dev Blogging Sites
 
-*   [BearBlog](https://bearblog.dev/) - Minimalist, and Markdown powered blog and website builder.
+*   [BearBlog](https://bearblog.dev/) - Minimalist, Markdown-powered blog and website builder.
 *   [Dev.to](https://dev.to/) - Where programmers share ideas and help each other grow.
-*   [Medium](https://medium.com/) — Get smarter about what matters to you.
+*   [Medium](https://medium.com/) — Get more thoughtful about what matters to you.
 
 ### Other Free Resources
 
@@ -1003,36 +1003,36 @@
 
 ### Media
 
-*   [SeeShark (⭐118)](https://github.com/vignetteapp/SeeShark) - Cross-platform camera library for .NET using FFmpeg supporting over 190 pixel formats
+*   [SeeShark (⭐127)](https://github.com/vignetteapp/SeeShark) - Cross-platform camera library for .NET using FFmpeg supporting over 190 pixel formats
 
 ### Reactive Programming
 
-*   [ObsevableComputations (⭐97)](https://github.com/IgorBuchelnikov/ObservableComputations) - A cross-platform .NET library for computations whose arguments and results are objects that implement INotifyPropertyChanged and INotifyCollectionChanged (ObservableCollection) interfaces.
+*   [ObsevableComputations (⭐105)](https://github.com/IgorBuchelnikov/ObservableComputations) - A cross-platform .NET library for computations whose arguments and results are objects that implement INotifyPropertyChanged and INotifyCollectionChanged (ObservableCollection) interfaces.
 
 ## [49. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [Dashy (⭐11k)](https://github.com/lissy93/dashy) - A self-hosted startpage, with an easy to use visual editor, status checking, themes, widgets and tons more
+*   [Dashy (⭐13k)](https://github.com/lissy93/dashy) - A self-hosted startpage, with an easy to use visual editor, status checking, themes, widgets and tons more
 
 ### Projects Using Vue.js / Commercial Products
 
-*   [KodaDot (⭐451)](https://github.com/kodadot/nft-gallery) - NFT Marketplace on Polkadot funded as public good, written in Vue.js
+*   [KodaDot (⭐508)](https://github.com/kodadot/nft-gallery) - NFT Marketplace on Polkadot funded as public good, written in Vue.js
 
 ### Components & Libraries / Frameworks
 
-*   [Admin One Vue 3 Tailwind dashboard (⭐1.4k)](https://github.com/justboil/admin-one-vue-tailwind) - Vue.js 3 Tailwind CSS admin template with dark mode.
+*   [Admin One Vue 3 Tailwind dashboard (⭐1.7k)](https://github.com/justboil/admin-one-vue-tailwind) - Vue.js 3 Tailwind CSS admin template with dark mode.
 
 ### Components & Libraries / Utilities
 
-*   [vueuse (⭐15k)](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition API utils works for Vue 2.x and 3.x.
+*   [vueuse (⭐17k)](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition API utils works for Vue 2.x and 3.x.
 *   [localize-vue-2x (⭐0)](https://github.com/uiwebkit/localize-vue-2x) - Uni Localization Vue 2 integration example. Customizable Language Menu widget built with Web Components.
 
 ## [50. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
-*   [fxts (⭐587)](https://github.com/marpple/FxTS) - Lazy evaluation and concurrency. +TS
+*   [fxts (⭐668)](https://github.com/marpple/FxTS) - Lazy evaluation and concurrency. +TS
 
 ---
 

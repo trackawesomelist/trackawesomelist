@@ -10,7 +10,7 @@
 
 ### Libraries / Data Structures & Data Types
 
-*   [Graphene (⭐318)](https://github.com/ebassi/graphene) - A thin layer of types for graphic libraries. It provides common types needed to handle 3D transformations: points, triangles, rectangles, quads, quaternions, vectors, matrices, spheres, etc.
+*   [Graphene (⭐331)](https://github.com/ebassi/graphene) - A thin layer of types for graphic libraries. It provides common types needed to handle 3D transformations: points, triangles, rectangles, quads, quaternions, vectors, matrices, spheres, etc.
 *   [Numeric-GLib (⭐9)](https://github.com/arteymix/numeric-glib) - A collection of numeric data types for GLib (and Vala) via GCC extensions. It includes 128 bit integers & floats, complex types, vectorized operations, and decimal types.
 
 ### Libraries / Graphics Libraries
@@ -24,7 +24,7 @@
 
 ### Libraries / Templating
 
-*   [Compose (⭐16)](https://github.com/arteymix/compose) - A functional templating library for Vala.
+*   [Compose (⭐18)](https://github.com/arteymix/compose) - A functional templating library for Vala.
 *   [template-glib](https://gitlab.gnome.org/GNOME/template-glib) - A library for template expansion which supports calling into GObject Introspection from templates.
 
 ## [2. Awesome Math](/content/rossant/awesome-math/README.md)
@@ -37,7 +37,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Lambdo (⭐17)](https://github.com/asavinov/lambdo) - A workflow engine for solving machine learning problems by combining in one analysis pipeline (i) feature engineering and machine learning (ii) model training and prediction (iii) table population and column evaluation via user-defined (Python) functions.
+*   [Lambdo (⭐19)](https://github.com/asavinov/lambdo) - A workflow engine for solving machine learning problems by combining in one analysis pipeline (i) feature engineering and machine learning (ii) model training and prediction (iii) table population and column evaluation via user-defined (Python) functions.
 
 ## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

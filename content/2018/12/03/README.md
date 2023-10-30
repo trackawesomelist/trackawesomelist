@@ -38,7 +38,7 @@
 
 ### Languages
 
-*   [Charcoal (⭐190)](https://github.com/somebody1234/Charcoal) - Concise language for sketching ASCII art.
+*   [Charcoal (⭐196)](https://github.com/somebody1234/Charcoal) - Concise language for sketching ASCII art.
 
 ## [5. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Community Extensions
 
-*   [SMS 2 Factor Authentication for Keycloak via AWS SNS (⭐70)](https://github.com/nickpack/keycloak-sms-authenticator-sns)
+*   [SMS 2 Factor Authentication for Keycloak via AWS SNS (⭐71)](https://github.com/nickpack/keycloak-sms-authenticator-sns)
 
 ## [11. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
@@ -93,9 +93,9 @@
 ### DDL Tools / Free Indexers
 
 *   [youtube-dl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/) A cross-platform front-end GUI of the popular youtube-dl written in wxPython
-*   [RapidLeech (⭐545)](https://github.com/Th3-822/rapidleech) a free server transfer script for use on various popular upload/download sites such as uploaded.net, Rapidgator.net, and more than 127 others.
-*   [MegaCrypt.js (⭐105)](https://github.com/JohnDeved/megacrypt.js) MegaCrypt.js lets you share your Mega.nz files without actually having to share any Mega.nz links by encrypting them to create a secure proxy for your files.
-*   [netclix (⭐76)](https://github.com/ston3o/netclix) A simple CLI tool to get movie streaming premium links from VodLocker's API
+*   [RapidLeech (⭐574)](https://github.com/Th3-822/rapidleech) a free server transfer script for use on various popular upload/download sites such as uploaded.net, Rapidgator.net, and more than 127 others.
+*   [MegaCrypt.js (⭐106)](https://github.com/JohnDeved/megacrypt.js) MegaCrypt.js lets you share your Mega.nz files without actually having to share any Mega.nz links by encrypting them to create a secure proxy for your files.
+*   [netclix (⭐84)](https://github.com/ston3o/netclix) A simple CLI tool to get movie streaming premium links from VodLocker's API
 *   [wget for Windows](https://eternallybored.org/misc/wget/) A command-line utility for retrieving files using HTTP, HTTPS, and FTP protocols.
 *   [FlixGrab](https://www.flixgrab.com/) FlixGrab+ is a unique application for downloading entire NetFlix serials, TV shows, documentaries, movies.
 
@@ -116,14 +116,14 @@
 
 ### Media Centre Applications / Third Party Hosts
 
-*   [OpenPHT (⭐585)](https://github.com/RasPlex/OpenPHT) a community-driven fork of Plex Home Theater
-*   [Streama (⭐9.2k)](https://github.com/streamaserver/streama) Self-hosted streaming media server.
+*   [OpenPHT (⭐593)](https://github.com/RasPlex/OpenPHT) a community-driven fork of Plex Home Theater
+*   [Streama (⭐9.3k)](https://github.com/streamaserver/streama) Self-hosted streaming media server.
 *   [Stremio](https://www.stremio.com/) Multi-platform video content aggregator with a comprehensive add-on system for extending the functionality
 
 ### Plex Scripts and Tools / Third Party Hosts
 
-*   [plex-sync (⭐288)](https://github.com/jacobwgillespie/plex-sync) A simple command-line utility to synchronize watched/seen status between different Plex Media Servers.
-*   [PlexIPTV (⭐181)](https://github.com/xiaodoudou/PlexIPTV) This app simulates a DVR device for Plex by providing a layer to any IPTV provider (that provide an m3u8 playlist)
+*   [plex-sync (⭐293)](https://github.com/jacobwgillespie/plex-sync) A simple command-line utility to synchronize watched/seen status between different Plex Media Servers.
+*   [PlexIPTV (⭐185)](https://github.com/xiaodoudou/PlexIPTV) This app simulates a DVR device for Plex by providing a layer to any IPTV provider (that provide an m3u8 playlist)
 
 ### Kodi / Third Party Hosts
 
@@ -153,7 +153,7 @@
 *   [Deezloader Remaster](https://www.reddit.com/r/DeezloadersIsBack/comments/9n3pf1/deezloader_alpha_latest_version_download10102018/) Tool for downloading music from Deezer
 *   [Deezloader Remix](https://notabug.org/RemixDevs/DeezloaderRemix) Another program with the same purpose, both based on the original, now defunct Deezloader.
 *   [KHInsider](https://downloads.khinsider.com/) Site collecting soundtracks, mostly MP3, some FLAC, OGG or M4A.
-*   [VGMLoader (⭐58)](https://github.com/TheLastZombie/VGMLoader) Tool for bulk downloading from KHInsider.
+*   [VGMLoader (⭐60)](https://github.com/TheLastZombie/VGMLoader) Tool for bulk downloading from KHInsider.
 
 ### Ebooks / Third Party Hosts
 
@@ -176,7 +176,7 @@
 
 ### TV Automation / Third Party Hosts
 
-*   [Sonarr (⭐7.8k)](https://github.com/Sonarr/Sonarr) :star2: Smart PVR for newsgroup and BitTorrent users.
+*   [Sonarr (⭐8.7k)](https://github.com/Sonarr/Sonarr) :star2: Smart PVR for newsgroup and BitTorrent users.
 
 ### File Renaming and Tagging / Third Party Hosts
 
@@ -195,7 +195,7 @@
 
 ### IPTV and DVR / Third Party Hosts
 
-*   [tvheadend (⭐2.2k)](https://github.com/tvheadend/tvheadend) Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV, SAT>IP, and other formats through the Unix pipe as input sources.
+*   [tvheadend (⭐2.4k)](https://github.com/tvheadend/tvheadend) Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV, SAT>IP, and other formats through the Unix pipe as input sources.
 *   [allsprk.tv](https://stream.allsprk.tv) A channel-hoppable live streaming site with a chat room
 
 ### IRC Networks / Third Party Hosts
@@ -208,7 +208,7 @@
 
 ### Content Discovery / Third Party Hosts
 
-*   [Flox (⭐1.1k)](https://github.com/devfake/flox) Flox is a self-hosted movie, series and anime watch list.
+*   [Flox (⭐1.2k)](https://github.com/devfake/flox) Flox is a self-hosted movie, series and anime watch list.
 
 ### Dashboards and Homepages / Third Party Hosts
 

@@ -8,18 +8,18 @@
 
 ## [1. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
-### [Aparajita’s plugins](https://github.com/aparajita?tab=repositories&q=capacitor)
+### [Aparajita plugins](https://github.com/aparajita?tab=repositories&q=capacitor)
 
-*   [Biometric Auth (⭐42)](https://github.com/aparajita/capacitor-biometric-auth) – Easy access to native biometric auth APIs on iOS and Android.
-*   [Dark Mode (⭐13)](https://github.com/aparajita/capacitor-dark-mode) - Universal, reliable dark mode support on the web, iOS and Android.
-*   [Logger (⭐13)](https://github.com/aparajita/capacitor-logger) – Better logging for the web and native Ionic/Capacitor apps.
-*   [Secure Storage (⭐47)](https://github.com/aparajita/capacitor-secure-storage) – Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore. Supports Keychain sync across devices on iOS.
+*   [Biometric Auth (⭐46)](https://github.com/aparajita/capacitor-biometric-auth) - Easy access to native biometric auth APIs on iOS and Android.
+*   [Dark Mode (⭐12)](https://github.com/aparajita/capacitor-dark-mode) - Universal, reliable dark mode support on the web, iOS and Android.
+*   [Logger (⭐13)](https://github.com/aparajita/capacitor-logger) - Better logging for the web and native Ionic/Capacitor apps.
+*   [Secure Storage (⭐49)](https://github.com/aparajita/capacitor-secure-storage) - Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore. Supports Keychain sync across devices on iOS.
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Functional
 
-*   [go-functional (⭐180)](https://github.com/BooleanCat/go-functional) - Functional programming in Go using generics
+*   [go-functional (⭐211)](https://github.com/BooleanCat/go-functional) - Functional programming in Go using generics
 
 ## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -29,17 +29,17 @@
 
 ### Inbox: Large Language Models (LLMs) / Autonomous LLM Agents
 
-*   [a16z-infra/ai-town (⭐1.8k)](https://github.com/a16z-infra/AI-town): A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
+*   [a16z-infra/ai-town (⭐5.4k)](https://github.com/a16z-infra/AI-town): A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
 *   [AI Town](https://www.convex.dev/ai-town): a virtual town where AI characters live, chat and socialize.
-*   [joonspk-research/generative\_agents - Generative Agents (⭐10k)](https://github.com/joonspk-research/generative_agents): code for interactive simulacra of human behavior
+*   [joonspk-research/generative\_agents - Generative Agents (⭐13k)](https://github.com/joonspk-research/generative_agents): code for interactive simulacra of human behavior
 
 ### Inbox: Large Language Models (LLMs) / LangChain
 
-*   [Embedchain (⭐3.9k)](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset
+*   [Embedchain (⭐5.8k)](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset
 
 ### Inbox: Large Language Models (LLMs) / LLMOps
 
-*   [LLM App (⭐158)](https://github.com/pathwaycom/llm-app): LLM App is a Python library that helps you build real-time AI-powered data pipelines with few lines of code.
+*   [LLM App (⭐682)](https://github.com/pathwaycom/llm-app): LLM App is a Python library that helps you build real-time AI-powered data pipelines with few lines of code.
 
 ### Courses and Educational Materials / Deforum
 
@@ -50,7 +50,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [ask (⭐38)](https://github.com/Licheam/zsh-ask) - Serves as a ChatGPT API frontend, enabling you to interact with ChatGPT directly from the ZSH shell using only `cURL` and `jq`.
+*   [ask (⭐45)](https://github.com/Licheam/zsh-ask) - Serves as a ChatGPT API frontend, enabling you to interact with ChatGPT directly from the ZSH shell using only `cURL` and `jq`.
 *   [kubectlenv (⭐0)](https://github.com/rafalmasiarek/oh-my-zsh-kubectlenv-plugin) - Easily switch between multiple `kubectl` versions.
 
 ## [5. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
@@ -74,4 +74,5 @@
 
 ---
 
+- Prev: [Aug 17, 2023](/content/2023/08/17/README.md)
 - Next: [Aug 15, 2023](/content/2023/08/15/README.md)

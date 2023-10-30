@@ -10,7 +10,7 @@
 
 ### Examples
 
-*   [Stack-in-a-box/triumphmayflowerclub.com (⭐3)](https://github.com/Stack-in-a-box/triumphmayflowerclub.com#readme) - Stands-out because, while only a simple website, it is presented as a very open project for lesser-experienced developers to cut their teeth on, with a friendly, inclusive tone and accessible set-up instructions. Includes many common elements found in other beautiful READMEs.
+*   [Stack-in-a-box/triumphmayflowerclub.com (⭐5)](https://github.com/Stack-in-a-box/triumphmayflowerclub.com#readme) - Stands-out because, while only a simple website, it is presented as a very open project for lesser-experienced developers to cut their teeth on, with a friendly, inclusive tone and accessible set-up instructions. Includes many common elements found in other beautiful READMEs.
 
 ## [2. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
@@ -40,13 +40,13 @@
 
 ### Languages
 
-*   [Ni (⭐7)](https://github.com/DeybisMelendez/ni) - Brainfuck-based with more helpful instructions.
+*   [Ni (⭐6)](https://github.com/DeybisMelendez/ni) - Brainfuck-based with more helpful instructions.
 
 ## [6. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md)
 
 ### Resources / Packages
 
-*   [Monetization (⭐5)](https://github.com/KNawm/monetization) - A wrapper around the Web Monetization API to monetize apps. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/dart.png)
+*   [Monetization (⭐4)](https://github.com/KNawm/monetization) - A wrapper around the Web Monetization API to monetize apps. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/dart.png)
 *   [react-webmonetization-meta (⭐3)](https://github.com/uchibeke/react-webmonetization-meta) - A Web Monetization meta tag manager for React. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/react.png)
 
 ## [7. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
@@ -59,9 +59,9 @@
 
 ### Computer Vision
 
-*   [EasyOCR (⭐17k)](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported.
-*   [Kornia (⭐7.9k)](https://github.com/kornia/kornia/) - Open Source Differentiable Computer Vision Library for PyTorch.
-*   [pytesseract (⭐4.7k)](https://github.com/madmaze/pytesseract) - A wrapper for [Google Tesseract OCR](https://github.com/tesseract-ocr).
+*   [EasyOCR (⭐19k)](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported.
+*   [Kornia (⭐8.3k)](https://github.com/kornia/kornia/) - Open Source Differentiable Computer Vision Library for PyTorch.
+*   [pytesseract (⭐4.9k)](https://github.com/madmaze/pytesseract) - A wrapper for [Google Tesseract OCR](https://github.com/tesseract-ocr).
 
 ## [9. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Design and UI
 
-*   [Responsively App](https://responsively.app) - A free dev-tool for faster and precise responsive web application development.
+*   [Responsively App](https://responsively.app) - A free dev tool for faster and more precise responsive web application development.
 *   [SceneLab](https://scenelab.io) - Online mockup graphics editor with an ever-expanding collection of free design templates
 
 ## [11. Awesome Qsharp](/content/ebraminio/awesome-qsharp/README.md)

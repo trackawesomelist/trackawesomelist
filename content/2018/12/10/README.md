@@ -32,79 +32,79 @@
 
 ### New York City
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/andrey_sitnik" height="70px" width="70px" align="left" alt="">
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/andrey_sitnik" height="70px" width="70px" align="left" alt="">
 
 **Andrey Sitnik**\
 Topics: PostCSS, CRDT\
 <https://twitter.com/sitnikcode>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/swannodette" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/swannodette" height="70px" width="70px" align="left" alt="" />
 
 **David Nolen**\
 Topics: Clojure, ClojureScript, Om, Functional Programming, Computer Science\
 <https://twitter.com/swannodette>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/broccolini" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/broccolini" height="70px" width="70px" align="left" alt="" />
 
 **Diana Mounter**\
 Topics: Design Systems, CSS, Product Design\
 <https://twitter.com/broccolini>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/left_pad" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/left_pad" height="70px" width="70px" align="left" alt="" />
 
 **Henry Zhu**\
 Topics: Open Source, Babel\
 <https://twitter.com/left_pad>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jaredpalmer" height="70px" width="70px" align="left" alt="">
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/jaredpalmer" height="70px" width="70px" align="left" alt="">
 
 **Jared Palmer**\
 Topics: React, React Native, Developer Tools, Forms, TypeScript, CSS\
 <https://twitter.com/jaredpalmer>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jensimmons" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/jensimmons" height="70px" width="70px" align="left" alt="" />
 
 **Jen Simmons**\
 Topics: Design, CSS, HTML, Web\
 <https://twitter.com/jensimmons>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/joe_sepi" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/joe_sepi" height="70px" width="70px" align="left" alt="" />
 
 **Joe Sepi**\
 Topics: Open Source, Community, Node.js, JavaScript\
 <https://twitter.com/joe_sepi>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/lara_hogan" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/lara_hogan" height="70px" width="70px" align="left" alt="" />
 
 **Lara Hogan**\
 Topics: Design, Performance, Engineering Management, Public Speaking\
 <https://twitter.com/lara_hogan>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/kosamari" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/kosamari" height="70px" width="70px" align="left" alt="" />
 
 **Mariko Kosaka**\
 Topics: HTML, CSS, JavaScript, Web\
 <https://twitter.com/kosamari>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/peggyrayzis" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/peggyrayzis" height="70px" width="70px" align="left" alt="" />
 
 **Peggy Rayzis**\
 Topics: React, React Native, GraphQL\
 <https://twitter.com/peggyrayzis>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/swyx" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/swyx" height="70px" width="70px" align="left" alt="" />
 
 **Shawn Wang**\
 Topics: React, Serverless, JAMstack\
 <https://twitter.com/swyx>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/una" height="70px" width="70px" align="left" alt="">
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/una" height="70px" width="70px" align="left" alt="">
 
 **Una Kravets**\
 Topics: CSS, Web\
 <https://twitter.com/una>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bitandbang" height="70px" width="70px" align="left" alt="">
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/bitandbang" height="70px" width="70px" align="left" alt="">
 
 **Tierney Cyren**\
 Topics: Node.js, JavaScript, CLI tools, Developer Tools, Open Source, Community\
@@ -127,11 +127,11 @@ Topics: Node.js, JavaScript, CLI tools, Developer Tools, Open Source, Community\
 
 ### Frameworks, Libraries and Tools / Database Tools and Utilities
 
-*   [Mongo.Migration (⭐143)](https://github.com/SRoddis/Mongo.Migration) - Mongo.Migration is designed for the [MongoDB C# Driver (⭐2.9k)](https://github.com/mongodb/mongo-csharp-driver) to migrate your documents easily and on-the-fly. No more downtime for schema-migrations. Just write small and simple migrations. [Link (⭐143)](https://github.com/SRoddis/Mongo.Migration)
+*   [Mongo.Migration (⭐164)](https://github.com/SRoddis/Mongo.Migration) - Mongo.Migration is designed for the [MongoDB C# Driver (⭐3.1k)](https://github.com/mongodb/mongo-csharp-driver) to migrate your documents easily and on-the-fly. No more downtime for schema-migrations. Just write small and simple migrations. [Link (⭐164)](https://github.com/SRoddis/Mongo.Migration)
 
 ### Frameworks, Libraries and Tools / Mail
 
-*   [PreMailer.Net (⭐574)](https://github.com/milkshakesoftware/PreMailer.Net) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with E-mail clients.
+*   [PreMailer.Net (⭐626)](https://github.com/milkshakesoftware/PreMailer.Net) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with E-mail clients.
 
 ## [7. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -231,7 +231,7 @@ Topics: Node.js, JavaScript, CLI tools, Developer Tools, Open Source, Community\
 
 ### Application Frameworks
 
-*   [ABP (⭐10k)](https://github.com/abpframework/abp) - The next generation of the ASP.NET Boilerplate web application framework.
+*   [ABP (⭐12k)](https://github.com/abpframework/abp) - The next generation of the ASP.NET Boilerplate web application framework.
 
 ### Books
 
@@ -243,15 +243,15 @@ Topics: Node.js, JavaScript, CLI tools, Developer Tools, Open Source, Community\
 
 ### GUI
 
-*   [SciterSharp (⭐96)](https://github.com/ramon-mendes/SciterSharp) - Create .NET cross-platform desktop apps using not just HTML, but all features of Sciter engine: CSS3, SVG, scripting, AJAX, \<video>... Sciter is free for commercial use
+*   [SciterSharp (⭐99)](https://github.com/ramon-mendes/SciterSharp) - Create .NET cross-platform desktop apps using not just HTML, but all features of Sciter engine: CSS3, SVG, scripting, AJAX, \<video>... Sciter is free for commercial use
 
 ### Mathematics
 
-*   [UnitConversion (⭐168)](https://github.com/atulmish/UnitConversion) - Expansible Unit Conversion Library for .NET Core and .NET Framework
+*   [UnitConversion (⭐172)](https://github.com/atulmish/UnitConversion) - Expansible Unit Conversion Library for .NET Core and .NET Framework
 
 ### Trading
 
-*   [StockSharp (⭐5.7k)](https://github.com/StockSharp/StockSharp) - Trading and algorithmic trading open source platform (stock markets, forex, bitcoins and options). <https://stocksharp.com>
+*   [StockSharp (⭐6k)](https://github.com/StockSharp/StockSharp) - Trading and algorithmic trading open source platform (stock markets, forex, bitcoins and options). <https://stocksharp.com>
 
 ### Visual Studio Plugins
 

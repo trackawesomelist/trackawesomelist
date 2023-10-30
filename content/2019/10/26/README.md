@@ -10,7 +10,7 @@
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [Modular Monolith (⭐7.5k)](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith .NET application with Domain-Driven Design approach.
+*   [Modular Monolith (⭐8.9k)](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith .NET application with Domain-Driven Design approach.
 
 ## [2. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
@@ -28,13 +28,13 @@
 
 ### IR Tools Collection / Memory Analysis Tools
 
-*   [MalConfScan (⭐450)](https://github.com/JPCERTCC/MalConfScan) - MalConfScan is a Volatility plugin extracts configuration data of known malware. Volatility is an open-source memory forensics framework for incident response and malware analysis. This tool searches for malware in memory images and dumps configuration data. In addition, this tool has a function to list strings to which malicious code refers.
+*   [MalConfScan (⭐457)](https://github.com/JPCERTCC/MalConfScan) - MalConfScan is a Volatility plugin extracts configuration data of known malware. Volatility is an open-source memory forensics framework for incident response and malware analysis. This tool searches for malware in memory images and dumps configuration data. In addition, this tool has a function to list strings to which malicious code refers.
 
 ## [5. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Keyboard
 
-*   [Ribbon (⭐295)](https://github.com/chriszielinski/Ribbon) - A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.
+*   [Ribbon (⭐296)](https://github.com/chriszielinski/Ribbon) - A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.
 
 ## [6. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Routing / Runner
 
-*   [navaid (⭐739)](https://github.com/lukeed/navaid) - A navigation aid (aka, router) for the browser in 850 bytes\~!
+*   [navaid (⭐748)](https://github.com/lukeed/navaid) - A navigation aid (aka, router) for the browser in 850 bytes\~!
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 20, 2020
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,36 +10,30 @@
 
 ### Starters & Themes
 
-*   🚀 [Eleventy Starter (⭐251)](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) - Production-ready, SEO-friendly blog starter using Tailwind CSS.
+*   🚀 [Eleventy Starter (⭐258)](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) - Production-ready, SEO-friendly blog starter using Tailwind CSS.
 
-## [2. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
-
-### Open Source Projects / Other Tools
-
-*   [Bitcart (⭐287)](https://github.com/bitcartcc/bitcart) - Platform for merchants, users and developers which offers easy setup and use.
-
-## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [2. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Component bundles
 
 *   [Syncfusion Blazor UI Components](https://www.syncfusion.com/blazor-components) - ![GitHub stars](https://img.shields.io/github/stars/syncfusion/blazor-samples?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/syncfusion/blazor-samples?style=flat-square\&cacheSeconds=86400) The most comprehensive native Blazor component library including [Data Grid](https://www.syncfusion.com/blazor-components/blazor-datagrid), [Charts](https://www.syncfusion.com/blazor-components/blazor-charts), [Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler), [Diagram](https://www.syncfusion.com/blazor-components/blazor-diagram) and [Document Editor](https://www.syncfusion.com/blazor-components/blazor-word-processor) components. ([Demo](https://blazor.syncfusion.com/demos/)).
 
-## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
-*   [ParaMonte (⭐194)](https://github.com/cdslaborg/paramonte) - A general-purpose Python library for Bayesian data analysis and visualization via serial/parallel Monte Carlo and MCMC simulations. Documentation can be found [here](https://www.cdslab.org/paramonte/).
+*   [ParaMonte (⭐210)](https://github.com/cdslaborg/paramonte) - A general-purpose Python library for Bayesian data analysis and visualization via serial/parallel Monte Carlo and MCMC simulations. Documentation can be found [here](https://www.cdslab.org/paramonte/).
 
 ### Fortran / General-Purpose Machine Learning
 
-*   [neural-fortran (⭐298)](https://github.com/modern-fortran/neural-fortran) - A parallel neural net microframework.
+*   [neural-fortran (⭐325)](https://github.com/modern-fortran/neural-fortran) - A parallel neural net microframework.
     Read the paper [here](https://arxiv.org/abs/1902.06714).
 
 ### Python / Natural Language Processing
 
 *   [Pattern (⭐8.5k)](https://github.com/clips/pattern) - A web mining module for the Python programming language. It has tools for natural language processing, machine learning, among others.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 

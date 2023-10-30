@@ -10,7 +10,7 @@
 
 ### Android App Store
 
-*   [Obtainium (⭐1.5k)](https://github.com/ImranR98/Obtainium) - Get app updates directly from the source.
+*   [Obtainium (⭐2.8k)](https://github.com/ImranR98/Obtainium) - Get app updates directly from the source.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -22,19 +22,19 @@
 
 ### Concurrency and Parallelism
 
-*   [Polyphony (⭐598)](https://github.com/digital-fabric/polyphony) - Fine-grained concurrency for Ruby.
+*   [Polyphony (⭐639)](https://github.com/digital-fabric/polyphony) - Fine-grained concurrency for Ruby.
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Database Schema Migration
 
-*   [dbmate (⭐3.4k)](https://github.com/amacneil/dbmate) - A lightweight, framework-agnostic database migration tool.
+*   [dbmate (⭐3.9k)](https://github.com/amacneil/dbmate) - A lightweight, framework-agnostic database migration tool.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Caching
 
-*   [moka-rs/moka (⭐856)](https://github.com/moka-rs/moka) - A high performance concurrent caching library for Rust inspired by the Caffeine library for Java [![build badge](https://github.com/moka-rs/moka/workflows/CI/badge.svg)](https://github.com/moka-rs/moka/actions/workflows/CI.yml)
+*   [moka-rs/moka (⭐1k)](https://github.com/moka-rs/moka) - A high performance concurrent caching library for Rust inspired by the Caffeine library for Java [![build badge](https://github.com/moka-rs/moka/workflows/CI/badge.svg)](https://github.com/moka-rs/moka/actions/workflows/CI.yml)
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -46,11 +46,11 @@
 
 ### PaaS
 
-*   [WunderGraph](https://cloud.wundergraph.com) - An open source platform that allows you to  quickly build, ship and manage modern APIs. Builtin CI/CD, GitHub integration, automatic HTTPS. Up to 3 projects, 1GB egress, 300 minutes of build time per month on the [free plan](https://wundergraph.com/pricing)
+*   [WunderGraph](https://cloud.wundergraph.com) - An open-source platform that allows you to  quickly build, ship and manage modern APIs. Built-in CI/CD, GitHub integration, and automatic HTTPS. Up to 3 projects, 1GB egress, 300 minutes of build time per month on the [free plan](https://wundergraph.com/pricing)
 
 ## [8. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [Remote teams](https://managershandbook.notion.site/Remote-teams-5ca3f257580040718fde6eb25c47e134) - By Notion Team.
 
@@ -58,7 +58,7 @@
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [asimov-ts (⭐7)](https://github.com/pedrozaalex/asimov-ts) - A type safe (as much as possible) engine for the web written in TypeScript.
+*   :tada: [asimov-ts (⭐9)](https://github.com/pedrozaalex/asimov-ts) - A type safe (as much as possible) engine for the web written in TypeScript.
 
 ## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -68,7 +68,7 @@
 
 ## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [zypper-short (⭐0)](https://github.com/justanotherinternetguy/zypper-short) - Plugin for OpenSuse Tumbleweed's package manager, `zypper`.
 

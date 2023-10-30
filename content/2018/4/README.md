@@ -77,25 +77,21 @@
 
 ### Software / Backups
 
-*   [rclone](https://rclone.org/) - a command line program to sync files and directories to and from several cloud storage systems/providers.
+*   [rclone](https://rclone.org/) - Command-line program to sync files and directories to and from different cloud storage providers.. ([Source Code (⭐40k)](https://github.com/rclone/rclone)) `MIT` `Go`
 
 ### Software / Editors
 
-*   [Micro](https://micro-editor.github.io/) - A modern and intuitive terminal-based text editor
+*   [Micro](https://micro-editor.github.io/) - A modern and intuitive terminal-based text editor. ([Source Code (⭐23k)](https://github.com/zyedidia/micro)) `MIT` `Go`
 
 ## [11. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
-*   [Ramda Adjunct (⭐663)](https://github.com/char0n/ramda-adjunct) is a community-maintained extension of Ramda.
+*   [Ramda Adjunct (⭐671)](https://github.com/char0n/ramda-adjunct) is a community-maintained extension of Ramda.
 
 ### Resources / Articles
 
 *   [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0) - A simple introduction by @ericelliott to functional principles and vocabulary.
-
-### Resources / Examples and Exercises
-
-*   [Functional Programming for Beginners](http://paqmind.com/courses/fp-beginner/) – Dozens of exercises with solutions and explanations.
 
 ## [12. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
@@ -117,7 +113,7 @@
 
 ### Job processing / Third-party APIs
 
-*   [psychiq (⭐47)](https://github.com/fukamachi/psychiq) - redis-based background job processing for Common Lisp applications. Inspired by Ruby's Sidekiq and compatible with its web UI. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [psychiq (⭐48)](https://github.com/fukamachi/psychiq) - redis-based background job processing for Common Lisp applications. Inspired by Ruby's Sidekiq and compatible with its web UI. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### Logging / Third-party APIs
 
@@ -127,7 +123,7 @@
 
 ### Documentation / Build system (ROS2)
 
-*   [ROS 2 Tutorials (⭐2.6k)](https://github.com/ros2/ros2/wiki/Tutorials) - Study about ROS2 concept, libraries, build, and development with demoes/examples.
+*   [ROS 2 Tutorials (⭐2.7k)](https://github.com/ros2/ros2/wiki/Tutorials) - Study about ROS2 concept, libraries, build, and development with demoes/examples.
 
 ### Community / Build system (ROS2)
 
@@ -147,7 +143,7 @@
 
 ### Modules / Date & Time
 
-*   [twas (⭐235)](https://github.com/vutran/twas) - Generate a relative time string (Example: "3 seconds ago")
+*   [twas (⭐245)](https://github.com/vutran/twas) - Generate a relative time string (Example: "3 seconds ago")
 
 ## [18. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
@@ -237,7 +233,7 @@
 
 ### Email
 
-*   [burnex (⭐64)](https://github.com/Betree/burnex) - Burner email (temporary address) detector.
+*   [burnex (⭐65)](https://github.com/Betree/burnex) - Burner email (temporary address) detector.
 
 ## [29. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -247,11 +243,11 @@
 
 ### Misc
 
-*   [DeviceDetector.NET (⭐248)](https://github.com/totpero/DeviceDetector.NET) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
+*   [DeviceDetector.NET (⭐273)](https://github.com/totpero/DeviceDetector.NET) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
 
 ### Web Frameworks
 
-*   [Giraffe (⭐1.9k)](https://github.com/giraffe-fsharp/Giraffe) - Functional (F#) ASP.NET Core micro framework for building rich web applications
+*   [Giraffe (⭐2k)](https://github.com/giraffe-fsharp/Giraffe) - Functional (F#) ASP.NET Core micro framework for building rich web applications
 
 ## [30. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -281,8 +277,8 @@
 
 ### Cursors / Skeumorphic Icons
 
-*   [Bibata (⭐1.2k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
-*   [Capitaine Cursors (⭐958)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
+*   [Bibata (⭐1.4k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
+*   [Capitaine Cursors (⭐995)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
 ## [32. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -336,7 +332,7 @@
 
 ### App Store
 
-*   [InAppPurchase (⭐274)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
+*   [InAppPurchase (⭐280)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
 
 ### JSON
 
@@ -352,7 +348,7 @@
 
 ### HUD / Barcode
 
-*   [GradientLoadingBar (⭐833)](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
+*   [GradientLoadingBar (⭐884)](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
 
 ## [37. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
@@ -391,7 +387,7 @@
 
 ### Hypervisors
 
-*   [MultiDocker (⭐40)](https://github.com/marty90/multidocker)\
+*   [MultiDocker (⭐42)](https://github.com/marty90/multidocker)\
     Create a secure multi-user Docker machine, where each user is segregated into an indepentent container.
 
 ## [40. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
@@ -412,8 +408,8 @@
 
 ### Boilerplates
 
-*   [Next Redux Starter (⭐365)](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS.
-*   [Staart (⭐313)](https://github.com/nmaro/staart) - 😎 Actively maintained Next.js components library *and* minimal boilerplate to rapidly get staarted with app with working user accounts based on Ooth.
+*   [Next Redux Starter (⭐373)](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS.
+*   [Staart (⭐314)](https://github.com/nmaro/staart) - 😎 Actively maintained Next.js components library *and* minimal boilerplate to rapidly get staarted with app with working user accounts based on Ooth.
 
 ---
 

@@ -10,34 +10,34 @@
 
 ### Tools
 
-*   💼 [Tails Devtools (⭐180)](https://github.com/vechai/tails-devtools) - All-in-one browser extension for Tailwind CSS.
+*   💼 [Tails Devtools (⭐202)](https://github.com/vechai/tails-devtools) - All-in-one browser extension for Tailwind CSS.
 
 ## [2. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
 ### Related / Awesome Lists
 
-*   [Awesome Locust (⭐43)](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load testing framework written in Python.
+*   [Awesome Locust (⭐64)](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load testing framework written in Python.
 
 ### Related / Other
 
-*   [How They Load Test (⭐23)](https://github.com/aliesbelik/how-they-load) - A curated collection of publicly available resources on how companies around the world perform load testing.
-*   [Load Testing Toolkit (⭐80)](https://github.com/aliesbelik/load-testing-toolkit) - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+*   [How They Load Test (⭐50)](https://github.com/aliesbelik/how-they-load) - A curated collection of publicly available resources on how companies around the world perform load testing.
+*   [Load Testing Toolkit (⭐111)](https://github.com/aliesbelik/load-testing-toolkit) - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
 
 ## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Books, blogs and training materials / Community Chat Rooms
 
-*   [Ferrous Systems' Embedded Training Courses: 2020-current edition (⭐221)](https://github.com/ferrous-systems/embedded-trainings-2020) A hands-on training course for beginner and advanced learners of Embedded Rust, based on Nordic Semiconductor's nRF52840 hardware. This training was given at Oxidize Conferences and by \[Ferrous Systems] to corporate customers.
+*   [Ferrous Systems' Embedded Training Courses: 2020-current edition (⭐229)](https://github.com/ferrous-systems/embedded-trainings-2020) A hands-on training course for beginner and advanced learners of Embedded Rust, based on Nordic Semiconductor's nRF52840 hardware. This training was given at Oxidize Conferences and by \[Ferrous Systems] to corporate customers.
 
 ### Old books, blogs and training materials / WIP
 
-*   [Ferrous Systems' Embedded Training Courses: 2019 edition (⭐105)](https://github.com/ferrous-systems/embedded-trainings/) A hands-on training course for beginner and advanced learners of Embedded Rust, based on Nordic Semiconductor's nRF52 and Decawave's DWM1001-DEV hardware. This training was given at Oxidize Conferences and by Ferrous Systems to corporate customers.
+*   [Ferrous Systems' Embedded Training Courses: 2019 edition (⭐110)](https://github.com/ferrous-systems/embedded-trainings/) A hands-on training course for beginner and advanced learners of Embedded Rust, based on Nordic Semiconductor's nRF52 and Decawave's DWM1001-DEV hardware. This training was given at Oxidize Conferences and by Ferrous Systems to corporate customers.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Screenshot APIs
 
-*   [Httpic.com](https://httpic.com) — Turn any website into jpg, png or pdf. Capture full page screenshots, adjust viewport, inject custom code. Free tier at 150 images / month.
+*   [Httpic.com](https://httpic.com) — Turn any website into jpg, png or pdf. Capture full-page screenshots, adjust the viewport, and inject custom code. Free tier at 150 images/month.
 
 ## [5. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
 
@@ -49,12 +49,12 @@
 
 ### Modules / Database
 
-*   [cotton (⭐131)](https://github.com/rahmanfadhil/cotton) - SQL Database Toolkit for deno
-*   [dangoDB (⭐111)](https://github.com/oslabs-beta/dangoDB) - A MongoDB ODM for Deno.
-*   [deno\_mongo (⭐484)](https://github.com/denodrivers/deno_mongo) - MongoDB database driver.
-*   [deno\_mysql (⭐246)](https://github.com/denodrivers/mysql) - MySQL database driver.
+*   [cotton (⭐132)](https://github.com/rahmanfadhil/cotton) - SQL Database Toolkit for deno
+*   [dangoDB (⭐117)](https://github.com/oslabs-beta/dangoDB) - A MongoDB ODM for Deno.
+*   [deno\_mongo (⭐498)](https://github.com/denodrivers/deno_mongo) - MongoDB database driver.
+*   [deno\_mysql (⭐250)](https://github.com/denodrivers/mysql) - MySQL database driver.
 *   [maxminddb (⭐8)](https://github.com/josh-hemphill/maxminddb-deno) - A library that enables the usage of MaxmindDB geoIP database files
-*   [redis (⭐428)](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
+*   [redis (⭐437)](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
 
 ## [7. Awesome K6](/content/grafana/awesome-k6/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Web / Scanning / Pentesting
 
-*   [Cyclops (⭐81)](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking) - The Cyclops is a web browser with XSS detection feature, it is chromium-based xss detection that used to find the flows from a source to a sink.
+*   [Cyclops (⭐88)](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking) - The Cyclops is a web browser with XSS detection feature, it is chromium-based xss detection that used to find the flows from a source to a sink.
 
 ---
 

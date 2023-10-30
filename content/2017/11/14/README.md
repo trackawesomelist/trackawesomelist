@@ -30,7 +30,7 @@
 
 ### Madrid
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/D3DVincent" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/D3DVincent" height="70px" width="70px" align="left" alt="" />
 
 **Vincenzo Chianese**\
 Topics: WebAPI, Microservices, JavaScript\

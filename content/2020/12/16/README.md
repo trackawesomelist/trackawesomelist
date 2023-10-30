@@ -10,7 +10,7 @@
 
 ### Miscellaneous
 
-*   [@restpace/schema-form (⭐38)](https://github.com/restspace/schema-form) - [Demo](https://restspace.io/react/schema-form/demo) - Easily build complex forms automatically from a JSON Schema.
+*   [@restpace/schema-form (⭐41)](https://github.com/restspace/schema-form) - [Demo](https://restspace.io/react/schema-form/demo) - Easily build complex forms automatically from a JSON Schema.
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Packages / Containerization
 
-*   [ros-tooling/cross\_compile (⭐171)](https://github.com/ros-tooling/cross_compile) - Cross compile ROS and ROS 2 workspaces to non-native architectures and generate corresponding Docker images.
+*   [ros-tooling/cross\_compile (⭐172)](https://github.com/ros-tooling/cross_compile) - Cross compile ROS and ROS 2 workspaces to non-native architectures and generate corresponding Docker images.
 
 ## [5. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
 
@@ -53,7 +53,7 @@
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
 *   [OpenAPI3 Designer](https://openapidesigner.com/) — Visually create Open API 3 definitions for free.
 

@@ -82,11 +82,11 @@
 
 ### Authentication
 
-*   [goth (⭐259)](https://github.com/peburrows/goth) - OAuth 2.0 library for server to server applications via Google Cloud APIs.
+*   [goth (⭐267)](https://github.com/peburrows/goth) - OAuth 2.0 library for server to server applications via Google Cloud APIs.
 
 ### Editors
 
-*   [atom-iex (⭐14)](https://github.com/indiejames/atom-iex) - Run an IEx session in Atom.
+*   [atom-iex (⭐15)](https://github.com/indiejames/atom-iex) - Run an IEx session in Atom.
 
 ## [13. Awesome Security](/content/sbilly/awesome-security/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Libraries/Frameworks / Validation
 
-*   [LeoColman/SimpleCpfValidator (⭐18)](https://github.com/LeoColman/SimpleCpfValidator) - Simple Brazilian taxpayer document (CPF) validator
+*   [LeoColman/SimpleCpfValidator (⭐22)](https://github.com/LeoColman/SimpleCpfValidator) - Simple Brazilian taxpayer document (CPF) validator
 
 ## [3. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [kaiuri/nvim-juliana (⭐70)](https://github.com/kaiuri/nvim-juliana) - Port of Sublime's Mariana Theme to Neovim for short attention span developers with Tree-sitter support.
+*   [kaiuri/nvim-juliana (⭐85)](https://github.com/kaiuri/nvim-juliana) - Port of Sublime's Mariana Theme to Neovim for short attention span developers with Tree-sitter support.
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Application platforms / Samples
 
-*   [Nhost (⭐6.4k)](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐7.1k)](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 
 ## [9. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -69,9 +69,9 @@
 
 ## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [tarcadia (⭐2)](https://github.com/Tarcadia/tarcadia-zsh-theme) - Based on [jonathan (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/jonathan.zsh-theme). Includes decorators for current directory and `git` status.
+*   [tarcadia (⭐2)](https://github.com/Tarcadia/tarcadia-zsh-theme) - Based on [jonathan (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/jonathan.zsh-theme). Includes decorators for current directory and `git` status.
 
 ## [11. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
@@ -83,13 +83,13 @@
 
 ### PaaS
 
-*   [YepCode](https://yepcode.io) - All-in-one platform to connect APIs and services in a serverless environment. It brings all the agility and benefits of NoCode tools, but with all the power of use programming languages. Free tier includes [1.000 yeps](https://yepcode.io/pricing/).
+*   [YepCode](https://yepcode.io) - All-in-one platform to connect APIs and services in a serverless environment. It brings all the agility and benefits of NoCode tools but with all the power of using programming languages. The free tier includes [1.000 yeps](https://yepcode.io/pricing/).
 
 ## [13. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Other Development Tools / Smart Contracts
 
-*   [beaker (⭐86)](https://github.com/algorand-devrel/beaker) - A tool for smart contract development on the Algorand blockchain. Inspired by `flask`.
+*   [beaker (⭐95)](https://github.com/algorand-devrel/beaker) - A tool for smart contract development on the Algorand blockchain. Inspired by `flask`.
 
 ### Projects / Wallets
 
@@ -99,7 +99,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-vision-camera (⭐3)](https://github.com/xulihang/vue-vision-camera) - Camera component for Vue 3. We can use this component for computer vision tasks like barcode/QR code scanning, text recognition, etc.
+*   [vue-vision-camera (⭐4)](https://github.com/xulihang/vue-vision-camera) - Camera component for Vue 3. We can use this component for computer vision tasks like barcode/QR code scanning, text recognition, etc.
 
 ## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

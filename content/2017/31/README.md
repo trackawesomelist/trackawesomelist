@@ -69,7 +69,7 @@
 
 ### Software / Web Applications
 
-*   [Etherpad](http://etherpad.org/) - Collaborative document editing in real-time. ([Apache License 2.0 (⭐13k)](https://github.com/ether/etherpad-lite/blob/develop/LICENSE))
+*   [Etherpad](http://etherpad.org/) - Collaborative document editing in real-time. ([Apache License 2.0 (⭐14k)](https://github.com/ether/etherpad-lite/blob/develop/LICENSE))
 
 ## [5. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
@@ -91,11 +91,11 @@
 
 ### GUI
 
-*   [WinApi (⭐767)](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
+*   [WinApi (⭐788)](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
 
 ### State machines
 
-*   [LiquidState (⭐229)](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
+*   [LiquidState (⭐233)](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
 
 ## [8. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -173,7 +173,7 @@
 
 ### Scheduling
 
-*   [Apache Airflow (⭐28k)](https://github.com/apache/incubator-airflow) - a platform to programmatically author, schedule and monitor workflows.
+*   [Apache Airflow (⭐30k)](https://github.com/apache/incubator-airflow) - a platform to programmatically author, schedule and monitor workflows.
 *   [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/data-factory-introduction) - cloud-based pipeline orchestration for on-prem, cloud and HDInsight
 
 ## [14. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
@@ -198,7 +198,7 @@
 
 ### Command Line / XML
 
-*   [argsd (⭐12)](https://github.com/burner/argsd) - A command line and config file parser for DLang
+*   [argsd (⭐14)](https://github.com/burner/argsd) - A command line and config file parser for DLang
 
 ### Machine Learning / XML
 
@@ -230,7 +230,7 @@
 
 ### Tools
 
-*   [gapid (⭐2.1k)](https://github.com/google/gapid) - Graphics API Debugger, can trace and replay Android OpenGL ES and Vulkan applications. \[Apache License 2.0]
+*   [gapid (⭐2.2k)](https://github.com/google/gapid) - Graphics API Debugger, can trace and replay Android OpenGL ES and Vulkan applications. \[Apache License 2.0]
 
 ## [21. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
@@ -273,11 +273,11 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [ChuckNorris (⭐21)](https://github.com/mazipan/chucknorris) - Chuck Norris Jokes Generator built with VueJS + api.chucknorris.io
+*   [ChuckNorris (⭐20)](https://github.com/mazipan/chucknorris) - Chuck Norris Jokes Generator built with VueJS + api.chucknorris.io
 
 ### Components & Libraries / UI Components
 
-*   [vue-pure-lightbox (⭐159)](https://github.com/DCzajkowski/vue-pure-lightbox) - Very simple lightbox plugin without any dependencies - only Vue! 🖼
+*   [vue-pure-lightbox (⭐160)](https://github.com/DCzajkowski/vue-pure-lightbox) - Very simple lightbox plugin without any dependencies - only Vue! 🖼
 
 ## [26. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -287,7 +287,7 @@
 
 ### ORM/ODM Extensions
 
-*   [jennifer.cr (⭐391)](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
+*   [jennifer.cr (⭐406)](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
 
 ## [27. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
@@ -351,7 +351,7 @@
 
 ### Frameworks, Libraries and Tools / IOC
 
-*   [Stashbox (⭐112)](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
+*   [Stashbox (⭐130)](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
 
 ## [31. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -383,7 +383,7 @@
 
 ### Augmented Reality
 
-*   [ARKit-CoreLocation (⭐5.3k)](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
+*   [ARKit-CoreLocation (⭐5.4k)](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
 
 ### Concurrency
 
@@ -391,7 +391,7 @@
 
 ### UI / Barcode
 
-*   [ShadowView (⭐404)](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView.
+*   [ShadowView (⭐410)](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView.
 *   [UIPheonix (⭐29)](https://github.com/MKGitHub/UIPheonix) - Easy, flexible, dynamic and highly scalable UI framework + concept for reusable component/control-driven apps.
 
 ### Button / Barcode
@@ -400,7 +400,7 @@
 
 ### Walkthrough / Barcode
 
-*   [AwesomeSpotlightView (⭐313)](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView) - Create tutorial or coach tour.
+*   [AwesomeSpotlightView (⭐318)](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView) - Create tutorial or coach tour.
 
 ## [35. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
@@ -414,8 +414,8 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [sh-semver (⭐29)](https://github.com/qzb/sh-semver) - Semver tool for bash - finds versions matching to specified rules
-*   [zunit (⭐175)](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH
+*   [sh-semver (⭐31)](https://github.com/qzb/sh-semver) - Semver tool for bash - finds versions matching to specified rules
+*   [zunit (⭐180)](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH
 
 ## [37. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -454,7 +454,7 @@
 
 ### Integrations
 
-*   [HapiJS Keycloak Auth (⭐35)](https://github.com/felixheck/hapi-auth-keycloak)
+*   [HapiJS Keycloak Auth (⭐36)](https://github.com/felixheck/hapi-auth-keycloak)
 
 ## [42. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 

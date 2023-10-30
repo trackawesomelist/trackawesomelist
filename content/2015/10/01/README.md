@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 01, 2015
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -79,9 +79,16 @@
 
 ### Git Tools
 
-*   [posh-git (⭐6.9k)](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
+*   [posh-git (⭐7.2k)](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 
-## [7. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Embedded Systems / Phoenix
+
+*   [Discovering the STM32 Microcontroller](http://www.cs.indiana.edu/~geobrown/book.pdf) (PDF)
+*   [Introduction to Microcontrollers](http://www.embeddedrelated.com/showarticle/453.php) (HTML)
+
+## [8. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Researchers / Miscellaneous
 

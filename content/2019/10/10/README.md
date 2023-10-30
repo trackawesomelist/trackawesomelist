@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 10, 2019
 
-23 awesome lists updated today.
+22 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -59,22 +59,22 @@
 
 ### Storage / Runner
 
-*   [crumbsjs (⭐233)](https://github.com/nirtz89/crumbsjs) - A lightweight vanilla ES6 cookies and local storage JavaScript library.
+*   [crumbsjs (⭐232)](https://github.com/nirtz89/crumbsjs) - A lightweight vanilla ES6 cookies and local storage JavaScript library.
 
 ## [8. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### JupyterLab Extensions
 
-*   [code\_formatter (⭐680)](https://github.com/ryantam626/jupyterlab_code_formatter) - A universal code formatter.
-*   [nb\_black (⭐341)](https://github.com/dnanhkhoa/nb_black) - Extension to keep Python code automatically formatted using [black (⭐32k)](https://github.com/psf/black).
+*   [code\_formatter (⭐735)](https://github.com/ryantam626/jupyterlab_code_formatter) - A universal code formatter.
+*   [nb\_black (⭐355)](https://github.com/dnanhkhoa/nb_black) - Extension to keep Python code automatically formatted using [black (⭐33k)](https://github.com/psf/black).
 *   [python-bytecode (⭐60)](https://github.com/jtpio/jupyterlab-python-bytecode) - Explore CPython Bytecode in JupyterLab.
-*   [quickopen (⭐74)](https://github.com/parente/jupyterlab-quickopen) - Quickly open a file in JupyterLab by typing part of its name.
-*   [sidecar (⭐216)](https://github.com/jupyter-widgets/jupyterlab-sidecar) - A sidecar output widget for JupyterLab.
-*   [sql (⭐390)](https://github.com/pbugnion/jupyterlab-sql) - SQL GUI for JupyterLab.
-*   [system-monitor (⭐281)](https://github.com/jtpio/jupyterlab-system-monitor) - Extension to display system metrics.
-*   [theme-darcula (⭐178)](https://github.com/telamonian/theme-darcula) - A handsome Darcula theme for Jupyterlab.
-*   [topbar (⭐4)](https://github.com/jtpio/jupyterlab-topbar) - Top Bar extension for JupyterLab.
-*   [vim (⭐942)](https://github.com/jwkvam/jupyterlab-vim) - Vim notebook cell bindings.
+*   [quickopen (⭐76)](https://github.com/parente/jupyterlab-quickopen) - Quickly open a file in JupyterLab by typing part of its name.
+*   [sidecar (⭐227)](https://github.com/jupyter-widgets/jupyterlab-sidecar) - A sidecar output widget for JupyterLab.
+*   [sql (⭐396)](https://github.com/pbugnion/jupyterlab-sql) - SQL GUI for JupyterLab.
+*   [system-monitor (⭐293)](https://github.com/jtpio/jupyterlab-system-monitor) - Extension to display system metrics.
+*   [theme-darcula (⭐185)](https://github.com/telamonian/theme-darcula) - A handsome Darcula theme for Jupyterlab.
+*   [topbar (⭐5)](https://github.com/jtpio/jupyterlab-topbar) - Top Bar extension for JupyterLab.
+*   [vim (⭐949)](https://github.com/jwkvam/jupyterlab-vim) - Vim notebook cell bindings.
 
 ## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -90,8 +90,8 @@
 
 ### In Portuguese
 
+*   [Dragões de Garagem](http://dragoesdegaragem.com/) - Um podcast de divulgação científica, do desejo de falar sobre ciência de forma acessível e descontraída, incentivando a curiosidade e o pensamento crítico.
 *   [Zone Of Front-Enders](https://zofe.com.br/) - Podcast com enfoque no desenvolvimento front-end da web.
-*   [Dragões de Garagem](http://dragoesdegaragem.com/) - Um podcast de divulgação científica,  do desejo de falar sobre ciência de forma acessível e descontraída, incentivando a curiosidade e o pensamento crítico.
 
 ## [11. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/README.md)
 
@@ -103,37 +103,31 @@
 
 *   [Sensorium Festival](https://www.sensorium.is/) - 3 day festival for designers, creative directors, technologists, architects, innovators, artists and scientists interested in humane technology. **(June)**
 
-## [12. Awesome Nix](/content/nix-community/awesome-nix/README.md)
-
-### Resources / Learning
-
-*   [Nix Shorts (⭐372)](https://github.com/justinwoo/nix-shorts/) - A collection of short notes about Nix.
-
-## [13. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [12. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Tools
 
-*   [Orangetool (⭐101)](https://github.com/Moduland/Orangetool) - Control functions for Single-Board computers in Python.
+*   [Orangetool (⭐103)](https://github.com/Moduland/Orangetool) - Control functions for Single-Board computers in Python.
 
-## [14. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [13. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### Combine
 
 *   [*Combine: Asynchronous Programming with Swift* by Raywenderlich Tutorial Team](https://store.raywenderlich.com/products/combine-asynchronous-programming-with-swift)
 
-## [15. Awesome Jquery](/content/petk/awesome-jquery/README.md)
+## [14. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
 ### Images, Maps and Charts / Paid Books
 
 *   [Slick (⭐28k)](https://github.com/kenwheeler/slick) - The last carousel you'll ever need.
 
-## [16. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [15. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Example Projects
 
 *   [Keycloak Theme Development Kit (⭐49)](https://github.com/anthonny/kit-keycloak-theme)
 
-## [17. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
+## [16. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
 ### Bruteforcers
 
@@ -150,13 +144,13 @@
 *   [Mzfr (⭐109)](https://github.com/mzfr/ctf-writeups/) - CTF competition write-ups by mzfr
 *   [SababaSec (⭐15)](https://github.com/SababaSec/ctf-writeups) - A collection of CTF write-ups by the SababaSec team
 
-## [18. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [17. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Closed Source / Other
 
 *   [Notion](https://notion.so) - All-in-one workspace for your notes, tasks, wikis, and databases.
 
-## [19. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [18. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### React Native / Misc
 
@@ -174,37 +168,37 @@
 
 *   [Data Visualization Society](https://www.datavisualizationsociety.com/) - The Data Visualization Society is an organization dedicated to fostering community for data visualization professionals.
 
-## [20. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+## [19. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / DSL
 
-*   [Apache Beam (⭐6.8k)](https://github.com/apache/beam) \[Java, Python, SQL, Scala, Go] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs), open sourced by Google.
+*   [Apache Beam (⭐7.1k)](https://github.com/apache/beam) \[Java, Python, SQL, Scala, Go] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs), open sourced by Google.
 
 ### Table of Contents / Closed Source
 
 *   [Cloud Dataflow](https://cloud.google.com/dataflow/)\[Java, Python, SQL, Scala] - Google's managed stream and batch data processing engine. Supports running Beam pipelines.
 
-## [21. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [20. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Scripting
 
 *   [Testing with Groovy](https://static.packt-cdn.com/downloads/Testingwithgroovy.pdf) - Using JMeter and Groovy for load testing.
 
-## [22. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [21. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Monitoring & Observability & Alerting
 
 *   [Observations on Observability](https://blog.colinbreck.com/observations-on-observability/)
 
-## [23. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [22. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Form Components / Input Types
 
-*   [react-payment-inputs (⭐309)](https://github.com/medipass/react-payment-inputs) - [demo](https://medipass.github.io/react-payment-inputs/?path=/story/usepaymentinputs--basic-no-styles) - A zero-dependency container to help with payment card input fields.
+*   [react-payment-inputs (⭐321)](https://github.com/medipass/react-payment-inputs) - [demo](https://medipass.github.io/react-payment-inputs/?path=/story/usepaymentinputs--basic-no-styles) - A zero-dependency container to help with payment card input fields.
 
 ### Form Logic / Mouse Events
 
-*   [react-hook-form (⭐34k)](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
+*   [react-hook-form (⭐37k)](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
 
 ---
 

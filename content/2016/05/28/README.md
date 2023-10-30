@@ -10,7 +10,7 @@
 
 ### Data Visualization
 
-*   [Bloomery (⭐15)](https://github.com/ufukomer/bloomery) - Web UI for Impala.
+*   [Bloomery (⭐16)](https://github.com/ufukomer/bloomery) - Web UI for Impala.
 
 ## [2. Awesome D](/content/dlang-community/awesome-d/README.md)
 
@@ -21,17 +21,17 @@
 ### Containers / Bare metal / kernel development
 
 *   [memutils (⭐40)](https://github.com/etcimon/memutils) - Overhead allocators, allocator-aware containers and lifetime management for D objects
-*   [dlib.container (⭐209)](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
+*   [dlib.container (⭐210)](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
 *   [std.rcstring (⭐9)](https://github.com/burner/std.rcstring) - A reference counted string implementation for D's build in string construct
 
 ### GUI Libs / XML
 
-*   [LibUI (⭐34)](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui (⭐10k)](https://github.com/andlabs/libui)
+*   [LibUI (⭐33)](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui (⭐11k)](https://github.com/andlabs/libui)
 
 ### Image Processing / XML
 
-*   [dlib.image (⭐209)](https://github.com/gecko0307/dlib) - image processing (8 and 16 bits per channel, floating point operations, filtering, FFT, HDRI, graphics formats support including JPEG and PNG)
-*   [color.d (⭐489)](https://github.com/adamdruppe/arsd/blob/master/color.d) + [bmp.d (⭐489)](https://github.com/adamdruppe/arsd/blob/master/bmp.d), [jpg.d (⭐489)](https://github.com/adamdruppe/arsd/blob/master/jpg.d), [png.d (⭐489)](https://github.com/adamdruppe/arsd/blob/master/png.d) - basic color struct, HSL functions and reading and writing image files
+*   [dlib.image (⭐210)](https://github.com/gecko0307/dlib) - image processing (8 and 16 bits per channel, floating point operations, filtering, FFT, HDRI, graphics formats support including JPEG and PNG)
+*   [color.d (⭐495)](https://github.com/adamdruppe/arsd/blob/master/color.d) + [bmp.d (⭐495)](https://github.com/adamdruppe/arsd/blob/master/bmp.d), [jpg.d (⭐495)](https://github.com/adamdruppe/arsd/blob/master/jpg.d), [png.d (⭐495)](https://github.com/adamdruppe/arsd/blob/master/png.d) - basic color struct, HSL functions and reading and writing image files
 
 ### Logging / Language Processing
 
@@ -53,7 +53,7 @@
 
 ### CLI Builders
 
-*   [commander (⭐126)](https://github.com/mrrooijen/commander) - Command-line interface builder
+*   [commander (⭐125)](https://github.com/mrrooijen/commander) - Command-line interface builder
 
 ### Web Frameworks
 
@@ -61,7 +61,7 @@
 
 ## [5. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
-### Germany 🇩🇪 / Berlin
+### France 🇫🇷 / Lille
 
 #### Bibliothèque Sainte-Geneviève
 

@@ -23,15 +23,15 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Line Collider 2D (⭐5)](https://github.com/Kylogias/godot-line-collider-2d) - A script which adds colliders that follow an array of Line2Ds (useful for prototypes).
+*   [Line Collider 2D (⭐7)](https://github.com/Kylogias/godot-line-collider-2d) - A script which adds colliders that follow an array of Line2Ds (useful for prototypes).
 
 ## [3. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### UI Libraries, Components & Templates
 
 *   📚 [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
-*   📚 [tails-ui (⭐189)](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
-*   📚 [tails (⭐29)](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
+*   📚 [tails-ui (⭐194)](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
+*   📚 [tails (⭐34)](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
 *   📁 [Vue Notus](https://www.creative-tim.com/product/vue-notus) - Open-source Tailwind CSS and Vue.js UI kit.
 *   📁 [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.
 
@@ -39,13 +39,13 @@
 
 ### (requires Neovim 0.5)
 
-*   [mfussenegger/nvim-lint (⭐559)](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin, complementary to the built-in Language Server Protocol support.
+*   [mfussenegger/nvim-lint (⭐1.1k)](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin, complementary to the built-in Language Server Protocol support.
 
 ## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Testing
 
-*   [NBomber (⭐1.8k)](https://github.com/PragmaticFlow/NBomber) - Very simple load testing framework for Pull and Push scenarios. It's 100% written in F# and targeting .NET Core and full .NET Framework.
+*   [NBomber (⭐1.9k)](https://github.com/PragmaticFlow/NBomber) - Very simple load testing framework for Pull and Push scenarios. It's 100% written in F# and targeting .NET Core and full .NET Framework.
 
 ## [6. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Adapters / Server-side
 
-*   [Oak (Deno) (⭐6)](https://github.com/jcs224/oak_inertia)
+*   [Oak (Deno) (⭐8)](https://github.com/jcs224/oak_inertia)
 
 ## [9. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
@@ -78,7 +78,7 @@
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### DBaaS
+### Managed Data Services
 
 *   [cockroachlabs.com](https://www.cockroachlabs.com/free-tier/) — Free CockroachDB up to 5GB and 1vCPU (limited [request units](https://www.cockroachlabs.com/docs/cockroachcloud/serverless-faqs.html#what-are-the-usage-limits-of-cockroachdb-serverless-beta))
 
@@ -203,7 +203,7 @@
 
 ### Communications / LoRaWAN
 
-*   [u-lora (⭐42)](https://github.com/martynwheeler/u-lora) - Raspi-lora for MicroPython.
+*   [u-lora (⭐46)](https://github.com/martynwheeler/u-lora) - Raspi-lora for MicroPython.
 
 ### Display / E-Paper
 
@@ -211,11 +211,11 @@
 
 ### IO / Potentiometers
 
-*   [mcp4131 (⭐2)](https://github.com/scruss/mcp4131) - MicroPython module to control MicroChip's MCP4131 SPI digital potentiometer.
+*   [mcp4131 (⭐3)](https://github.com/scruss/mcp4131) - MicroPython module to control MicroChip's MCP4131 SPI digital potentiometer.
 
 ### Sensors / Motion Inertial
 
-*   [micropython-bno055 (⭐35)](https://github.com/micropython-IMU/micropython-bno055) - Bosch BNO055 driver for MicroPython. IMU with hardware sensor fusion.
+*   [micropython-bno055 (⭐37)](https://github.com/micropython-IMU/micropython-bno055) - Bosch BNO055 driver for MicroPython. IMU with hardware sensor fusion.
 
 ## [14. Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md)
 
@@ -227,7 +227,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐21)](https://github.com/meetup/swarm-design-system/)
+  Source code \*: [:octocat: (⭐20)](https://github.com/meetup/swarm-design-system/)
 
 
 - : [Mozilla Protocol](https://protocol.mozilla.org/)
@@ -238,7 +238,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐235)](https://github.com/mozilla/protocol)
+  Source code \*: [:octocat: (⭐245)](https://github.com/mozilla/protocol)
 
 
 

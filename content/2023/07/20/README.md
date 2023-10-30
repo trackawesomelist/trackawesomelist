@@ -10,13 +10,13 @@
 
 ### Applications
 
-*   [shoes (⭐60)](https://github.com/cfal/shoes) - A multi-protocol proxy server
+*   [shoes (⭐88)](https://github.com/cfal/shoes) - A multi-protocol proxy server
 
 ## [2. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Motion / Servo
 
-*   [MicroPython\_MOTOR (⭐0)](https://github.com/jposada202020/MicroPython_MOTOR) - MicroPython Helper for controlling PWM based motors.
+*   [MicroPython\_MOTOR (⭐1)](https://github.com/jposada202020/MicroPython_MOTOR) - MicroPython Helper for controlling PWM based motors.
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -28,25 +28,25 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-hierarchy (⭐0)](https://github.com/pratik227/vue-hierarchy) - Library to display hierarchical data
+*   [vue-hierarchy (⭐1)](https://github.com/pratik227/vue-hierarchy) - Library to display hierarchical data
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [nvimdev/lspsaga.nvim (⭐2.9k)](https://github.com/nvimdev/lspsaga.nvim) - A light-weight LSP plugin based on Neovim's built-in LSP with a highly performant UI.
+*   [nvimdev/lspsaga.nvim (⭐3k)](https://github.com/nvimdev/lspsaga.nvim) - A light-weight LSP plugin based on Neovim's built-in LSP with a highly performant UI.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [nvimdev/zephyr-nvim (⭐297)](https://github.com/nvimdev/zephyr-nvim) - A dark colorscheme with Tree-sitter support.
+*   [nvimdev/zephyr-nvim (⭐307)](https://github.com/nvimdev/zephyr-nvim) - A dark colorscheme with Tree-sitter support.
 
 ### Startup / Diagnostics
 
-*   [nvimdev/dashboard-nvim (⭐1.6k)](https://github.com/nvimdev/dashboard-nvim) - A minimalist dashboard, inspired by doom-emacs.
+*   [nvimdev/dashboard-nvim (⭐1.7k)](https://github.com/nvimdev/dashboard-nvim) - A minimalist dashboard, inspired by doom-emacs.
 
 ### Formatting / Diagnostics
 
-*   [elentok/format-on-save.nvim (⭐39)](https://github.com/elentok/format-on-save.nvim) - A synchronous formatter that combines LSP and non-LSP formatting (e.g. shfmt, stylua, prettier), focused specifically on format-on-save.
+*   [elentok/format-on-save.nvim (⭐106)](https://github.com/elentok/format-on-save.nvim) - A synchronous formatter that combines LSP and non-LSP formatting (e.g. shfmt, stylua, prettier), focused specifically on format-on-save.
 
 ## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Coding
 
-*   [I Don't Care About Commit Message (VS Code Extension) (⭐75)](https://github.com/mefengl/vscode-i-dont-care-about-commit-message): Yet another AI git commit plugin, but without the need for manual confirmation.
+*   [I Don't Care About Commit Message (VS Code Extension) (⭐110)](https://github.com/mefengl/vscode-i-dont-care-about-commit-message): Yet another AI git commit plugin, but without the need for manual confirmation.
 
 ## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Wikipedia
 
-*   [Wikiless](https://wikiless.whateveritworks.org/) - A maintained fork of the free open source alternative Wikipedia front-end focused on privacy [Source Code (⭐87)](https://github.com/Metastem/wikiless). (Original instance: [wikiless.org](https://wikiless.org/), Wikiless repository has been removed by Codeberg, [follow news here](https://orenom.fi/))
+*   [Wikiless](https://wikiless.whateveritworks.org/) - A maintained fork of the free open source alternative Wikipedia front-end focused on privacy [Source Code (⭐113)](https://github.com/Metastem/wikiless). (Original instance: [wikiless.org](https://wikiless.org/), Wikiless repository has been removed by Codeberg, [follow news here](https://orenom.fi/))
 
 ### Utilities
 
@@ -104,9 +104,9 @@
 
 ## [12. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### OS and Kernels / MIT
+### OS and Kernels / Apache License
 
-*   [hirtos (⭐11)](https://github.com/jgrivera67/HiRTOS) - A high-integrity RTOS written in SPARK Ada.
+*   [hirtos (⭐13)](https://github.com/jgrivera67/HiRTOS) - A high-integrity RTOS written in SPARK Ada.
 
 ## [13. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -138,7 +138,7 @@
 
 ### Development / Frameworks and Libraries
 
-*   [X3DOM](https://x3dom.org) - A framework for integrating and manipulating X3D scenes as HTML5/DOM elements. Support will be included in release 1.8.3. Until then, build from master branch of the [GitHub repository (⭐785)](https://github.com/x3dom/x3dom).
+*   [X3DOM](https://x3dom.org) - A framework for integrating and manipulating X3D scenes as HTML5/DOM elements.
     *   [Official Documentation](https://doc.x3dom.org/)
 
 ## [15. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
@@ -156,9 +156,9 @@
 
 *   [Remini - AI Photo Enhancer](https://remini.ai/): photo and video enhancer
 
-### Inbox: Text-to-speech (TTS) tools and Avatars / Generative Adversarial Networks (GANs)
+### Inbox: Text-to-speech (TTS) and avatars / Generative Adversarial Networks (GANs)
 
-*   [Shaunwei/RealChar (⭐3.3k)](https://github.com/Shaunwei/RealChar): AI Character/Companion in Realtime
+*   [Shaunwei/RealChar (⭐5.4k)](https://github.com/Shaunwei/RealChar): AI Character/Companion in Realtime
 *   [UneeQ Digital Humans](https://www.digitalhumans.com/): 3D character lib synced
 *   [AI Voice Generator](https://www.aivoicegenerator.org): free online AI-powered text-to-speech generator that creates voice overs with natural, realistic voices
 
@@ -191,7 +191,7 @@
 
 ### Photo / Image
 
-*   [zoom-image (⭐164)](https://github.com/willnguyen1312/zoom-image) - [demo](https://willnguyen1312.github.io/zoom-image/examples/react.html) - [docs](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic library to zoom image on the web
+*   [zoom-image (⭐247)](https://github.com/willnguyen1312/zoom-image) - [demo](https://willnguyen1312.github.io/zoom-image/examples/react.html) - [docs](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic library to zoom image on the web
 
 ## [19. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
@@ -223,4 +223,5 @@
 
 ---
 
+- Prev: [Jul 21, 2023](/content/2023/07/21/README.md)
 - Next: [Jul 19, 2023](/content/2023/07/19/README.md)

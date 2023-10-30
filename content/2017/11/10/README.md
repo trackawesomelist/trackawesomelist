@@ -18,14 +18,14 @@
 
 ### Belo Horizonte
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/obetomuniz" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/obetomuniz" height="70px" width="70px" align="left" alt="" />
 
 **Beto Muniz**\
 Topics: React, JavaScript, Progressive Web Apps, Polymer, Community\
 <https://twitter.com/obetomuniz>
 ### Curitiba
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/fdaciuk" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/fdaciuk" height="70px" width="70px" align="left" alt="" />
 
 **Fernando Daciuk**\
 Topics: React, JavaScript\

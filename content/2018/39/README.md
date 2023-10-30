@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 24 - Sep 30, 2018
 
-55 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,16 +22,16 @@
 
 ### Modules / Function
 
-*   [compose-tiny (⭐45)](https://github.com/hipstersmoothie/compose-tiny) - A very tiny and fast compose function.
+*   [compose-tiny (⭐46)](https://github.com/hipstersmoothie/compose-tiny) - A very tiny and fast compose function.
 
 ## [4. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
 *   macOS - Operating system for Apple's Mac computers.
-    *   [Screensavers (⭐3k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
-    *   [Apps (⭐61k)](https://github.com/jaywcjlove/awesome-mac#readme)
-    *   [Open Source Apps (⭐35k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
+    *   [Screensavers (⭐3.7k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
+    *   [Apps (⭐64k)](https://github.com/jaywcjlove/awesome-mac#readme)
+    *   [Open Source Apps (⭐37k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 
 ## [5. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
@@ -40,7 +40,7 @@
 *   [**HiQ**](https://jonathanharrell.github.io/hiq/) - Simple CSS foundation with responsive typography and input styling.\
     ![](https://img.shields.io/github/stars/jonathanharrell/hiq.svg?style=social\&label=Star)
     [Docs](https://jonathanharrell.github.io/hiq/guide/),
-    [Repo (⭐284)](https://github.com/jonathanharrell/hiq/)
+    [Repo (⭐303)](https://github.com/jonathanharrell/hiq/)
     \| #PostCSS
 
 ## [6. Git Cheat Sheet](/content/arslanbilal/git-cheat-sheet/week/README.md)
@@ -62,11 +62,11 @@ Rename Index.txt to Index.html
 ### USB / Capture tools
 
 *   [usbmon](https://www.kernel.org/doc/Documentation/usb/usbmon.txt) - a subsystem of Linux kernel to capture usb packets.
-*   [USBPcap (⭐702)](https://github.com/desowin/usbpcap) - a solution for Windows.
+*   [USBPcap (⭐798)](https://github.com/desowin/usbpcap) - a solution for Windows.
 
 ### USB / Analysis
 
-*   [USBPcapOdinDumper (⭐3)](https://github.com/KOLANICH/USBPcapOdinDumper) - transforms .pcap files with `usbmon` and `USBPcap` frames format of captures from flashing an Android phone with Odin or [Heimdall](https://gitlab.com/BenjaminDobell/Heimdall) into a set of files with frames payload. Useful for reverse-engineering. Has a modular architecture easily transformable for other applications formats.
+*   [USBPcapOdinDumper (⭐6)](https://github.com/KOLANICH/USBPcapOdinDumper) - transforms .pcap files with `usbmon` and `USBPcap` frames format of captures from flashing an Android phone with Odin or [Heimdall](https://gitlab.com/BenjaminDobell/Heimdall) into a set of files with frames payload. Useful for reverse-engineering. Has a modular architecture easily transformable for other applications formats.
 
 ## [8. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
@@ -95,7 +95,7 @@ Rename Index.txt to Index.html
 ### Languages
 
 *   [Chicken](https://esolangs.org/wiki/Chicken) - Only 1 valid symbol: 'chicken'.
-*   [Thue (⭐23)](https://github.com/jcolag/Thue) - *Matrioshka* language based on nondeterministic string rewriting of a semi-Thue grammar.
+*   [Thue (⭐25)](https://github.com/jcolag/Thue) - *Matrioshka* language based on nondeterministic string rewriting of a semi-Thue grammar.
 
 ### Resources
 
@@ -199,21 +199,21 @@ Rename Index.txt to Index.html
 
 ### UI
 
-*   [Stepper Touch (⭐269)](https://github.com/Rahiche/stepper_touch) <!--stargazers:Rahiche/stepper_touch--> - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
+*   [Stepper Touch (⭐286)](https://github.com/Rahiche/stepper_touch) <!--stargazers:Rahiche/stepper_touch--> - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
 
 ### Templates / Preferences
 
-*   [Liquid Pay Payment App (⭐279)](https://github.com/longhoang2984/flutter_payment_app_ui) <!--stargazers:longhoang2984/flutter_payment_app_ui--> - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984)
+*   [Liquid Pay Payment App (⭐293)](https://github.com/longhoang2984/flutter_payment_app_ui) <!--stargazers:longhoang2984/flutter_payment_app_ui--> - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984)
 
 ### Device / Augmented Reality
 
-*   [Downloader (⭐786)](https://github.com/hnvn/flutter_downloader) <!--stargazers:hnvn/flutter_downloader--> - Create and manage download tasks by [HungHD](https://github.com/hnvn)
+*   [Downloader (⭐831)](https://github.com/hnvn/flutter_downloader) <!--stargazers:hnvn/flutter_downloader--> - Create and manage download tasks by [HungHD](https://github.com/hnvn)
 *   [AppAvailability (⭐89)](https://github.com/pichillilorenzo/flutter_appavailability) <!--stargazers:pichillilorenzo/flutter_appavailability--> - List, launch and check installed apps by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 
 ### Device / Scanner
 
-*   [QR Code Reader (⭐226)](https://github.com/villela/flutter_qrcode_reader) <!--stargazers:villela/flutter_qrcode_reader--> - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
-*   [Fast QR Reader View (⭐287)](https://github.com/facundomedica/fast_qr_reader_view) <!--stargazers:facundomedica/fast_qr_reader_view--> - Live multicode reader by [Facundo Medica](https://github.com/facundomedica)
+*   [QR Code Reader (⭐227)](https://github.com/villela/flutter_qrcode_reader) <!--stargazers:villela/flutter_qrcode_reader--> - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
+*   [Fast QR Reader View (⭐292)](https://github.com/facundomedica/fast_qr_reader_view) <!--stargazers:facundomedica/fast_qr_reader_view--> - Live multicode reader by [Facundo Medica](https://github.com/facundomedica)
 
 ### Device / Bluetooth / NFC / Beacon
 
@@ -222,7 +222,7 @@ Rename Index.txt to Index.html
 
 ### Storage / Bluetooth / NFC / Beacon
 
-*   [Sqflite (⭐2.5k)](https://github.com/tekartik/sqflite) <!--stargazers:tekartik/sqflite--> - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/)
+*   [Sqflite (⭐2.7k)](https://github.com/tekartik/sqflite) <!--stargazers:tekartik/sqflite--> - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/)
 
 ### Services / Bluetooth / NFC / Beacon
 
@@ -404,7 +404,7 @@ Rename Index.txt to Index.html
 
 ### no-std crates / WIP
 
-*   [OxCC (⭐16)](https://github.com/jonlamb-gh/oxcc): A port of Open Source Car Control written in Rust
+*   [OxCC (⭐17)](https://github.com/jonlamb-gh/oxcc): A port of Open Source Car Control written in Rust
 
 ## [26. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
@@ -427,7 +427,7 @@ Rename Index.txt to Index.html
 
 ### Lille
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/EmmanuelDemey" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/EmmanuelDemey" height="70px" width="70px" align="left" alt="" />
 
 **Emmanuel Demey**\
 Topics: Angular, JavaScript, Progressive Web Apps, Vue, React, Elasticsearch\
@@ -437,7 +437,7 @@ Topics: Angular, JavaScript, Progressive Web Apps, Vue, React, Elasticsearch\
 
 ### Montréal
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/AurelienLoyer" height="70px" width="70px" align="left" alt="">
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/AurelienLoyer" height="70px" width="70px" align="left" alt="">
 
 **Aurélien Loyer**\
 Topics: JavaScript, Angular, Vue.js, Node.js, TypeScript, IoT\
@@ -457,7 +457,7 @@ Webpage: <https://www.facebook.com/TEKTURAcafe/>
 | ---- | ----- | -------------------------------------------------------------- | ------------------- |
 | ✔    | ✔     | [Krupnicza 7, 33-332 Kraków](https://goo.gl/maps/UJ3uijZZAcA2) | Mon-Sun 08:00-21:00 |
 
-### United States 🇺🇸 / Washington   <a id="washington">  </a>
+### United States 🇺🇸 / Washington <a id="washington"></a>
 
 #### Ironclad Coffee
 
@@ -473,7 +473,7 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Miscellaneous / Development and testing
 
-*   [tmux-tail-f (⭐30)](https://github.com/mapio/tmux-tail-f) A tool to tail multiple files using tmux
+*   [tmux-tail-f (⭐32)](https://github.com/mapio/tmux-tail-f) A tool to tail multiple files using tmux
 
 ## [30. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
@@ -536,7 +536,7 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Docker
 
-*   [Keycloak Maven SDK for managing the entire lifecycle of your extensions with Docker (⭐31)](https://github.com/OpenPj/keycloak-docker-quickstart)
+*   [Keycloak Maven SDK for managing the entire lifecycle of your extensions with Docker (⭐32)](https://github.com/OpenPj/keycloak-docker-quickstart)
 
 ## [38. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -554,7 +554,7 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Tools and frameworks
 
-*   [AyeSpy (⭐173)](https://github.com/newsuk/ayespy) - 44 image comparisons in 90 seconds.
+*   [AyeSpy (⭐184)](https://github.com/newsuk/ayespy) - 44 image comparisons in 90 seconds.
 
 ## [41. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
@@ -689,7 +689,7 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Examples and funny stuff
 
-*   [crystalworld (⭐42)](https://github.com/vladfaust/crystalworld) - [realworld.io](https://realworld.io) back-end API implementation
+*   [crystalworld (⭐43)](https://github.com/vladfaust/crystalworld) - [realworld.io](https://realworld.io) back-end API implementation
 
 ### Unofficial
 
@@ -726,25 +726,24 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Chat
 
-*   [InputBarAccessoryView (⭐1k)](https://github.com/nathantannar4/InputBarAccessoryView) - A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.
+*   [InputBarAccessoryView (⭐1.1k)](https://github.com/nathantannar4/InputBarAccessoryView) - A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.
 
 ### Dependency Injection
 
-*   [DITranquillity (⭐397)](https://github.com/ivlevAstef/DITranquillity/) - Dependency injection framework with tranquility.
+*   [DITranquillity (⭐401)](https://github.com/ivlevAstef/DITranquillity/) - Dependency injection framework with tranquility.
 
 ### Pagination / Barcode
 
-*   [FlexiblePageControl (⭐748)](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
+*   [FlexiblePageControl (⭐783)](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
 
 ## [53. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Hardware / Opcodes
 
 *   [The Game Boy Project](http://marc.rawer.de/Gameboy/Docs/GBProject.pdf) - Provides a study on the hardware and detailed constructional information for the implementation of three 8-bit bidirectional parallel ports.
-*   [Related custom hardware (⭐258)](https://github.com/Gekkio/gb-hardware) - by Gekkio.
-*   [ESP8266 GB Dev Board (⭐21)](https://github.com/applefreak/esp8266-gameboy-dev-board) - Dev board for Game Boy accessories development, powered by ESP8266.
-*   [ESP8266 GB Printer (⭐41)](https://github.com/applefreak/esp8266-gameboy-printer) - A device that emulates the GB Printer and lets you retrieve images using WiFi.
-*   [fruttenboel](http://verhoeven272.nl/fruttenboel/Gameboy/index.html) - Page with loads of information on the hardware, custom boards to interface with the console and other related projects.
+*   [Related custom hardware (⭐273)](https://github.com/Gekkio/gb-hardware) - by Gekkio.
+*   [ESP8266 GB Dev Board (⭐24)](https://github.com/applefreak/esp8266-gameboy-dev-board) - Dev board for Game Boy accessories development, powered by ESP8266.
+*   [ESP8266 GB Printer (⭐44)](https://github.com/applefreak/esp8266-gameboy-printer) - A device that emulates the GB Printer and lets you retrieve images using WiFi.
 
 ### Peripherals / Opcodes
 
@@ -768,40 +767,34 @@ Webpage: <https://ironcladcoffee.com/>
 
 *   [Blargg's test roms](http://gbdev.gg8.se/files/roms/blargg-gb-tests/)
 *   [Gekkio's test roms](https://gekkio.fi/files/mooneye-gb/latest/)
-*   [SameSuite (⭐23)](https://github.com/LIJI32/SameSuite)
+*   [SameSuite (⭐27)](https://github.com/LIJI32/SameSuite)
 *   [GB Accuracy Tests](http://tasvideos.org/EmulatorResources/GBAccuracyTests.html)
-*   [144p Test Suite (⭐163)](https://github.com/pinobatch/240p-test-mini/tree/master/gameboy) - Port of Artemio Urbina's 240p Test Suite to the Game Boy.
+*   [144p Test Suite (⭐186)](https://github.com/pinobatch/240p-test-mini/tree/master/gameboy) - Port of Artemio Urbina's 240p Test Suite to the Game Boy.
 
 ### Emulators / Experimental/Proof of Concepts
 
-*   [SameBoy (⭐1.3k)](https://github.com/LIJI32/SameBoy) - Accurate emulator with a wide range of powerful debugging features.
-*   [Mooneye GB (⭐835)](https://github.com/Gekkio/mooneye-gb) - Research project and emulator in Rust.
+*   [SameBoy (⭐1.4k)](https://github.com/LIJI32/SameBoy) - Accurate emulator with a wide range of powerful debugging features.
+*   [Mooneye GB (⭐849)](https://github.com/Gekkio/mooneye-gb) - Research project and emulator in Rust.
 
 ### C / Syntax highlighting packages
 
-*   [flappybird-gameboy (⭐13)](https://github.com/pashutk/flappybird-gameboy)
+*   [flappybird-gameboy (⭐14)](https://github.com/pashutk/flappybird-gameboy)
 *   [fbgb (⭐3)](https://github.com/gb-archive/fbgb)
 
 ### Demos / Syntax highlighting packages
 
-*   [matrix-rain-gb (⭐24)](https://github.com/wtjones/matrix-rain-gb) - A Matrix digital rain effect in assembler.
+*   [matrix-rain-gb (⭐28)](https://github.com/wtjones/matrix-rain-gb) - A Matrix digital rain effect in assembler.
 
 ### Related projects / Syntax highlighting packages
 
-*   [liblsdj (⭐77)](https://github.com/stijnfrishert/liblsdj) - Utility library for interacting with the LSDj save format (.sav), song files (.lsdsng) and more.
-*   [lsdpatch (⭐136)](https://github.com/jkotlinski/lsdpatch) - Tool for modifying samples, fonts and palettes on LSDj ROM images.
+*   [liblsdj (⭐79)](https://github.com/stijnfrishert/liblsdj) - Utility library for interacting with the LSDj save format (.sav), song files (.lsdsng) and more.
+*   [lsdpatch (⭐147)](https://github.com/jkotlinski/lsdpatch) - Tool for modifying samples, fonts and palettes on LSDj ROM images.
 
 ### Directories / Syntax highlighting packages
 
-*   [The Game Boy Archive - Salvage (⭐25)](https://github.com/gb-archive/salvage) - Historical archive of software, old articles, FAQs and various documents.
+*   [The Game Boy Archive - Salvage (⭐26)](https://github.com/gb-archive/salvage) - Historical archive of software, old articles, FAQs and various documents.
 
-## [54. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
-
-### Software / Software Containers
-
-*   [Docker](http://www.docker.com/) - Platform for developers and sysadmins to build, ship, and run distributed applications.
-
-## [55. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [54. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 

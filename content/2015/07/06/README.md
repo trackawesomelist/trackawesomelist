@@ -26,8 +26,8 @@
 
 ### Related lists
 
-*   [awesome (⭐223k)](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
-*   [awesome-computer-vision (⭐17k)](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources.
+*   [awesome (⭐264k)](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
+*   [awesome-computer-vision (⭐19k)](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources.
 
 ## [4. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 

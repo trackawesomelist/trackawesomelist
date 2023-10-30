@@ -14,17 +14,17 @@
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
 *   [Data Miner](https://dataminer.io/) - A browser extension (Google Chrome, MS Edge) for data extraction from web pages CSV or Excel. The free plan gives you 500 pages/month.
 
 ### Tools for Teams and Collaboration
 
-*   [Teamhood](https://teamhood.com/) - Free Project, Task and Issue tracking software. Supports Kanban with Swimlanes and full Scrum implementation. Has integrated time tracking. Free for 5 users and 3 project portfolios.
+*   [Teamhood](https://teamhood.com/) - Free Project, Task, and Issue-tracking software. Supports Kanban with Swimlanes and full Scrum implementation. Has integrated time tracking. Free for five users and three project portfolios.
 
 ### Issue Tracking and Project Management
 
-*   [Lucidchart](https://www.lucidchart.com/) - A online diagram tools with collaboration features. Free plan with 3 editable documents, 100 professional templates and basic collaboration features.
+*   [Lucidchart](https://www.lucidchart.com/) - An online diagram tool with collaboration features. Free plan with three editable documents, 100 professional templates, and basic collaboration features.
 
 ## [3. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -40,9 +40,9 @@
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [ortiz (andres-ortizl) (⭐4)](https://github.com/andres-ortizl/ortiz-zsh-theme) - Fork of [eriner (⭐13)](https://github.com/zimfw/eriner) with decorations for the interval between commands and k8s context.
+*   [ortiz (andres-ortizl) (⭐4)](https://github.com/andres-ortizl/ortiz-zsh-theme) - Fork of [eriner (⭐16)](https://github.com/zimfw/eriner) with decorations for the interval between commands and k8s context.
 
 ## [6. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Templates / React
 
-*   [chrome-extension-boilerplate-react-vite (⭐600)](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - React + TypeScript + SASS + Prettier + ESLint + GitHub Actions + Chrome Extension Manifest v3.
+*   [chrome-extension-boilerplate-react-vite (⭐1k)](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - React + TypeScript + SASS + Prettier + ESLint + GitHub Actions + Chrome Extension Manifest v3.
 
 ## [8. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -74,58 +74,54 @@
 
 ### Video and Audio Conferencing / Alternative clients/modifications of Discord:
 
-*   [WebCord (⭐1.2k)](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord API-less client made with the Electron.
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Aliucord (⭐2.4k)](https://github.com/Aliucord/Aliucord) - A modification for the Android Discord app that fully [disables the Discord Tracking (⭐2.4k)](https://github.com/Aliucord/Aliucord/blob/main/Aliucord/src/main/java/com/aliucord/coreplugins/NoTrack.java).
+*   [WebCord (⭐1.4k)](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord API-less client made with the Electron.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Aliucord (⭐2.7k)](https://github.com/Aliucord/Aliucord) - A modification for the Android Discord app that fully [disables the Discord Tracking (⭐2.7k)](https://github.com/Aliucord/Aliucord/blob/main/Aliucord/src/main/java/com/aliucord/coreplugins/NoTrack.java).
 
 ## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Blogging Platforms
 
-*   [Castopod](https://castopod.org) - A podcast management hosting platform that includes the latest podcast 2.0 standards, an automated Fediverse feed, analytics, an embeddable player, and more. ([Source Code](https://code.castopod.org/adaures/castopod)) `AGPL-3.0` `PHP`
-
-### Software / Calendar & Contacts - CalDAV or CardDAV Web-based Clients
-
-*   [AgenDAV](https://agendav.github.io/agendav/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support. ([Source Code (⭐561)](https://github.com/agendav/agendav)) `GPL-3.0` `PHP`
+*   [Castopod](https://castopod.org) - A podcast management hosting platform that includes the latest podcast 2.0 standards, an automated Fediverse feed, analytics, an embeddable player, and more. ([Source Code](https://code.castopod.org/adaures/castopod)) `AGPL-3.0` `PHP/Docker`
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
-*   [Listmonk](https://listmonk.app/) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. ([Source Code (⭐10k)](https://github.com/knadh/listmonk)) `AGPL-3.0` `Go`
+*   [Listmonk](https://listmonk.app/) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. ([Source Code (⭐12k)](https://github.com/knadh/listmonk)) `AGPL-3.0` `Go/Docker`
 
 ### Software / File Transfer - Object Storage & File Servers
 
-*   [GarageHQ](https://garagehq.deuxfleurs.fr/) - An open-source geo-distributed storage service you can self-host to fulfill many needs - S3 compatible. ([Source Code](https://git.deuxfleurs.fr/Deuxfleurs/garage)) `AGPL-3.0` `Rust`
+*   [GarageHQ](https://garagehq.deuxfleurs.fr/) - An open-source geo-distributed storage service you can self-host to fulfill many needs - S3 compatible. ([Source Code](https://git.deuxfleurs.fr/Deuxfleurs/garage)) `AGPL-3.0` `Docker/Rust`
 
 ### Software / Internet of Things (IoT)
 
-*   [Thingsboard](https://thingsboard.io/) - Open-source IoT Platform - Device management, data collection, processing and visualization. ([Demo](https://demo.thingsboard.io/signup), [Source Code (⭐14k)](https://github.com/thingsboard/thingsboard)) `Apache-2.0` `Java`
+*   [Thingsboard](https://thingsboard.io/) - Open-source IoT Platform - Device management, data collection, processing and visualization. ([Demo](https://demo.thingsboard.io/signup), [Source Code (⭐15k)](https://github.com/thingsboard/thingsboard)) `Apache-2.0` `Java/Docker/K8S`
 
 ### Software / Note-taking & Editors
 
-*   [Livebook](https://livebook.dev) - Realtime collaborative notebook app based on Markdown that supports running Elixir codesnippets, TeX and Mermaid Diagrams. Easily deployed using Docker or Elixir. ([Source Code (⭐3.5k)](https://github.com/livebook-dev/livebook)) `Apache-2.0` `Elixir`
+*   [Livebook](https://livebook.dev) - Realtime collaborative notebook app based on Markdown that supports running Elixir code snippets, TeX and Mermaid Diagrams. Easily deployed using Docker or Elixir. ([Source Code (⭐3.9k)](https://github.com/livebook-dev/livebook)) `Apache-2.0` `Elixir/Docker`
 
 ### Software / Photo and Video Galleries
 
-*   [MediaHut (⭐19)](https://github.com/Fortyseven/MediaHut/) - A truly single-file, no-database, drop-in PHP media gallery. ([Demo](https://media.Network47.org/)) `MIT` `PHP`
+*   [MediaHut (⭐22)](https://github.com/Fortyseven/MediaHut/) - A truly single-file, no-database, drop-in PHP media gallery. ([Demo](https://media.Network47.org/)) `MIT` `PHP`
 
 ### Software / Ticketing
 
-*   [OTOBO](https://otobo.de/en/) - Flexible web-based ticketing system used for Customer Service, Help Desk, IT Service Management. ([Demo](https://otobo.de/en/open-source-ticketing-system/#demos), [Source Code (⭐179)](https://github.com/RotherOSS/otobo)) `GPL-3.0` `Perl`
+*   [OTOBO](https://otobo.de/en/) - Flexible web-based ticketing system used for Customer Service, Help Desk, IT Service Management. ([Demo](https://otobo.de/en/open-source-ticketing-system/#demos), [Source Code (⭐201)](https://github.com/RotherOSS/otobo)) `GPL-3.0` `Perl/Docker`
 
 ## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Other Tools / Telegram
 
-*   [Sub3 Suite (⭐342)](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
+*   [Sub3 Suite (⭐423)](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
 
 ## [11. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Command-line utilities
 
-*   [zx (⭐37k)](https://github.com/google/zx) - Write shell scripts JavaScript.
+*   [zx (⭐39k)](https://github.com/google/zx) - Write shell scripts JavaScript.
 
 ### Packages / Job queues
 
-*   [bullmq (⭐3.8k)](https://github.com/taskforcesh/bullmq) - Persistent job and message queue.
+*   [bullmq (⭐4.5k)](https://github.com/taskforcesh/bullmq) - Persistent job and message queue.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -137,7 +133,7 @@
 
 ### Contents / Media
 
-*   [Movies App (⭐158)](https://github.com/vellt/Movies-App-Flutter) - A user-friendly interface using themoviedb API by [vellt](https://github.com/vellt).
+*   [Movies App (⭐164)](https://github.com/vellt/Movies-App-Flutter) - A user-friendly interface using themoviedb API by [vellt](https://github.com/vellt).
 
 ## [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -156,13 +152,13 @@
 
 ### Templates
 
-*   [axum-yew-setup (⭐102)](https://github.com/rksm/axum-yew-setup) - A starter project that sets up Axum and Yew for full stack Rust web apps.
+*   [axum-yew-setup (⭐122)](https://github.com/rksm/axum-yew-setup) - A starter project that sets up Axum and Yew for full stack Rust web apps.
 
 ## [16. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / Other
 
-*   [PAC194X (⭐2)](https://github.com/kiranshila/pac194x) - I2C - Single/multi channel power monitor - [Intro blog post](https://blog.kiranshila.com/blog/pac_rust_driver.md) - ![crates.io](https://img.shields.io/crates/v/pac194x)
+*   [PAC194X (⭐2)](https://github.com/kiranshila/pac194x) - I2C - Single/multi channel power monitor - [Intro blog post](https://blog.kiranshila.com/post/pac_rust_driver) - ![crates.io](https://img.shields.io/crates/v/pac194x)
 
 ---
 

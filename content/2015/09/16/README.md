@@ -32,7 +32,7 @@
 
 ### Images / Barcode
 
-*   [APNGKit (⭐2.1k)](https://github.com/onevcat/APNGKit) - High performance and delightful way to play with APNG format in iOS.
+*   [APNGKit (⭐2.2k)](https://github.com/onevcat/APNGKit) - High performance and delightful way to play with APNG format in iOS.
 
 ## [4. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 

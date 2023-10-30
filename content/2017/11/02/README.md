@@ -12,19 +12,19 @@
 
 ### Bristol
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/LeonieWatson" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/LeonieWatson" height="70px" width="70px" align="left" alt="" />
 
 **Léonie Watson**\
 Topics: Accessibility, Web Standards, Screen Readers\
 <https://twitter.com/LeonieWatson>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/rachelandrew" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/rachelandrew" height="70px" width="70px" align="left" alt="" />
 
 **Rachel Andrew**\
 Topics: CSS\
 <https://twitter.com/rachelandrew>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/Rumyra" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/Rumyra" height="70px" width="70px" align="left" alt="" />
 
 **Ruth John**\
 Topics: Browser Technologies, Web Audio, Web MIDI\
@@ -48,7 +48,7 @@ Topics: Browser Technologies, Web Audio, Web MIDI\
 
 ### API Builder and Discovery
 
-*   [Crepe (⭐126)](https://github.com/crepe/crepe) - The thin API stack.
+*   [Crepe (⭐127)](https://github.com/crepe/crepe) - The thin API stack.
 
 ## [5. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
@@ -217,11 +217,11 @@ Topics: Browser Technologies, Web Audio, Web MIDI\
 
 ### Projects Using Vue.js / Open Source
 
-*   [grid-awesome (⭐24)](https://github.com/louisbourque/grid-awesome) - Generate boilerplate css for grid layouts using the css display: grid; property.
+*   [grid-awesome (⭐25)](https://github.com/louisbourque/grid-awesome) - Generate boilerplate css for grid layouts using the css display: grid; property.
 
 ### Components & Libraries / UI Components
 
-*   [vue-datetime (⭐982)](https://github.com/mariomka/vue-datetime) - Mobile friendly datetime picker for Vue. Supports date, datetime and time modes, i18n and disabling dates.
+*   [vue-datetime (⭐988)](https://github.com/mariomka/vue-datetime) - Mobile friendly datetime picker for Vue. Supports date, datetime and time modes, i18n and disabling dates.
 
 ---
 

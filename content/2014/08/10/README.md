@@ -21,17 +21,17 @@
 
 ### Packages / Process management
 
-*   [node-linux (⭐411)](https://github.com/coreybutler/node-linux) - Run scripts as native system service and log to syslog.
+*   [node-linux (⭐415)](https://github.com/coreybutler/node-linux) - Run scripts as native system service and log to syslog.
 
 ## [3. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Command Line / XML
 
-*   [terminal.d (⭐489)](https://github.com/adamdruppe/arsd/blob/master/terminal.d) - Part of Adam Ruppe's [arsd (⭐489)](https://github.com/adamdruppe/arsd) library supporting cursor and color manipulation on the console.
+*   [terminal.d (⭐495)](https://github.com/adamdruppe/arsd/blob/master/terminal.d) - Part of Adam Ruppe's [arsd (⭐495)](https://github.com/adamdruppe/arsd) library supporting cursor and color manipulation on the console.
 
 ### Image Processing / XML
 
-*   [ArmageddonEngine (⭐167)](https://github.com/CyberShadow/ae/tree/master/utils/graphics) - Vladimir Panteleev's ae library has a package for image processing in functional style, which is described in the article [Functional Image Processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/).
+*   [ArmageddonEngine (⭐169)](https://github.com/CyberShadow/ae/tree/master/utils/graphics) - Vladimir Panteleev's ae library has a package for image processing in functional style, which is described in the article [Functional Image Processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/).
 *   [Blogsort](https://bitbucket.org/infognition/bsort/) -  A simple Windows app for viewing photos and preparing them for a blog.
 
 ---

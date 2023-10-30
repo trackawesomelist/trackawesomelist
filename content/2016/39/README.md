@@ -10,21 +10,46 @@
 
 ### Haskell / Git
 
-*   [cryptol (⭐1k)](https://github.com/GaloisInc/cryptol) - The Language of Cryptography.
+*   [cryptol (⭐1.1k)](https://github.com/GaloisInc/cryptol) - The Language of Cryptography.
 
 ### JavaScript / Git
 
-*   [jsrsasign (⭐2.9k)](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation.
+*   [jsrsasign (⭐3.1k)](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation.
 
 ### Rust / Git
 
-*   [rustls (⭐3.8k)](https://github.com/ctz/rustls) - Rustls is a new, modern TLS library written in Rust.
+*   [rustls (⭐4.6k)](https://github.com/ctz/rustls) - Rustls is a new, modern TLS library written in Rust.
 
-## [2. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
+## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
-### Java / Spock Framework
+### Chapel / Non-X86
 
-*   [頑健なJavaプログラムの書き方](http://seiza.dip.jp/link/files/writingrobustjavacode.pdf) - Scott W. Ambler, 高橋徹(翻訳) (PDF)
+*   [Chapel Tutorial for Programmers](http://web.archive.org/web/20150310075109/http://cs.colby.edu/kgburke/?resource=chapelTutorial) *(:card\_file\_box: archived)*
+
+### COBOL / Non-X86
+
+*   [OpenCOBOL 1.1 - Programmer's Guide](http://open-cobol.sourceforge.net/guides/OpenCOBOL%20Programmers%20Guide.pdf) (PDF)
+
+### F Sharp / Phoenix
+
+*   [F# for fun and profit](https://www.gitbook.com/book/swlaschin/fsharpforfunandprofit/details) (ePub)
+
+### Haxe / Spock Framework
+
+*   [Kha Handbook (⭐1.4k)](https://github.com/KTXSoftware/Kha/wiki/Tutorials)
+
+### Lisp / TeX
+
+*   [Google's Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Google's Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+*   [Learning to Program](http://www.alan-g.me.uk)
+
+### Standard ML / Play Scala
+
+*   [Programming in Standard ML, DRAFT](http://www.cs.cmu.edu/~rwh/isml/book.pdf) - Robert Harper (PDF)
 
 ## [3. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
@@ -165,25 +190,25 @@ Webpage: N/A
 
 ### Audio
 
-*   [AudioPlayerSwift (⭐272)](https://github.com/tbaranes/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps.
+*   [AudioPlayerSwift (⭐275)](https://github.com/tbaranes/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps.
 
 ## [18. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Database Drivers/Clients
 
 *   [crystal-mysql (⭐104)](https://github.com/crystal-lang/crystal-mysql) - MySQL connector for Crystal
-*   [crystal-sqlite3 (⭐122)](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
+*   [crystal-sqlite3 (⭐125)](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
 
 ## [19. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Time-Series Databases
 
-*   [Druid (⭐12k)](https://github.com/druid-io/druid/) Column oriented distributed data store ideal for powering interactive applications
+*   [Druid (⭐13k)](https://github.com/druid-io/druid/) Column oriented distributed data store ideal for powering interactive applications
 *   [Riak-TS](http://basho.com/products/riak-ts/) Riak TS is the only enterprise-grade NoSQL time series database optimized specifically for IoT and Time Series data.
-*   [Akumuli (⭐806)](https://github.com/akumuli/Akumuli) Akumuli is a numeric time-series database. It can be used to capture, store and process time-series data in real-time. The word "akumuli" can be translated from esperanto as "accumulate".
+*   [Akumuli (⭐818)](https://github.com/akumuli/Akumuli) Akumuli is a numeric time-series database. It can be used to capture, store and process time-series data in real-time. The word "akumuli" can be translated from esperanto as "accumulate".
 *   [Rhombus](https://github.com/Pardot/Rhombus) A time-series object store for Cassandra that handles all the complexity of building wide row indexes.
-*   [Dalmatiner DB (⭐700)](https://github.com/dalmatinerdb/dalmatinerdb) Fast distributed metrics database
-*   [Blueflood (⭐595)](https://github.com/rackerlabs/blueflood) A distributed system designed to ingest and process time series data
+*   [Dalmatiner DB (⭐699)](https://github.com/dalmatinerdb/dalmatinerdb) Fast distributed metrics database
+*   [Blueflood (⭐591)](https://github.com/rackerlabs/blueflood) A distributed system designed to ingest and process time series data
 *   [Timely (⭐367)](https://github.com/NationalSecurityAgency/timely) Timely is a time series database application that provides secure access to time series data based on Accumulo and Grafana.
 
 ## [20. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
@@ -197,7 +222,7 @@ Webpage: N/A
 
 ### Functional Programming / Runner
 
-*   [preludejs (⭐96)](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript.
+*   [preludejs (⭐97)](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript.
 
 ## [22. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
 
@@ -251,7 +276,7 @@ A portable public domain password hashing framework for use in PHP applications.
 
 ### Instrumenting / Monitoring
 
-*   [prometheus.ex (⭐396)](https://github.com/deadtrickster/prometheus.ex) - Elixir-friendly [Prometheus.io](https://prometheus.io) monitoring system and time series database client.
+*   [prometheus.ex (⭐395)](https://github.com/deadtrickster/prometheus.ex) - Elixir-friendly [Prometheus.io](https://prometheus.io) monitoring system and time series database client.
 
 ## [25. Tips](/content/git-tips/tips/week/README.md)
 
@@ -332,7 +357,7 @@ git merge-base <branch-name> <other-branch-name>
 
 ### Web Frameworks
 
-*   [Syro (⭐132)](https://github.com/soveran/syro/) - Simple router for web applications.
+*   [Syro (⭐136)](https://github.com/soveran/syro/) - Simple router for web applications.
 
 ## [35. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
@@ -403,7 +428,7 @@ git merge-base <branch-name> <other-branch-name>
 
 ### GUI
 
-*   [ScintillaNET (⭐919)](https://github.com/jacobslusser/ScintillaNET) - Windows Forms control for the Scintilla text editor component (Scintilla is used by Notepad++)
+*   [ScintillaNET (⭐940)](https://github.com/jacobslusser/ScintillaNET) - Windows Forms control for the Scintilla text editor component (Scintilla is used by Notepad++)
 
 ### Image Processing
 
@@ -411,15 +436,15 @@ git merge-base <branch-name> <other-branch-name>
 
 ### Media
 
-*   [NAudio (⭐4.6k)](https://github.com/naudio/NAudio) - Playback, decode and encode audio in a variety of file formats such as MP3, MP4, WAV, AIFF, Speex, etc.
+*   [NAudio (⭐4.9k)](https://github.com/naudio/NAudio) - Playback, decode and encode audio in a variety of file formats such as MP3, MP4, WAV, AIFF, Speex, etc.
 
 ### Protocols
 
-*   [SSH.NET (⭐3.3k)](https://github.com/sshnet/SSH.NET) - A Secure Shell (SSH) library for .NET, optimized for parallelism. Provides SSH commands, SFTP/SCP uploads and downloads, and SOCKS4/SOCKS5/HTTP proxies.
+*   [SSH.NET (⭐3.5k)](https://github.com/sshnet/SSH.NET) - A Secure Shell (SSH) library for .NET, optimized for parallelism. Provides SSH commands, SFTP/SCP uploads and downloads, and SOCKS4/SOCKS5/HTTP proxies.
 
 ### Web Browsers
 
-*   [CefSharp (⭐9.3k)](https://github.com/cefsharp/CefSharp/) - HTML5, CSS3 and JS web browser powered by Chromium, for WinForms and WPF
+*   [CefSharp (⭐9.4k)](https://github.com/cefsharp/CefSharp/) - HTML5, CSS3 and JS web browser powered by Chromium, for WinForms and WPF
 
 ## [43. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 

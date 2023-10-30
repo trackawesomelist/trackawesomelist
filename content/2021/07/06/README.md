@@ -10,7 +10,7 @@
 
 ### Public Data Resources / Demographic
 
-*   [Census Reporter](https://censusreporter.org/) - Census Reporter is an open-source website that makes it easy to explore and report census data. Census Reporter automatically provides descriptive statistics, downloadable tabular data, and interactive visualizations of American Community Survey (ACS) data for the United States. Visualizations can be [embedded as HTML](https://censusreporter.org/examples/embed-charts/) iframes. Additional Information:License: MIT License Geographic Coverage: Contains geographies matching the coverage and scale of the [ACS 2019 1-year and 5-year estimates.](https://web.archive.org/web/20210519000200/https://www.census.gov/programs-surveys/acs/geography-acs/areas-published.html) Provider: [About Page.](https://censusreporter.org/about/) Additional Links: [GitHub Repository. (⭐668)](https://github.com/censusreporter/censusreporter)
+*   [Census Reporter](https://censusreporter.org/) - Census Reporter is an open-source website that makes it easy to explore and report census data. Census Reporter automatically provides descriptive statistics, downloadable tabular data, and interactive visualizations of American Community Survey (ACS) data for the United States. Visualizations can be [embedded as HTML](https://censusreporter.org/examples/embed-charts/) iframes. Additional Information:License: MIT License Geographic Coverage: Contains geographies matching the coverage and scale of the [ACS 2019 1-year and 5-year estimates.](https://web.archive.org/web/20210519000200/https://www.census.gov/programs-surveys/acs/geography-acs/areas-published.html) Provider: [About Page.](https://censusreporter.org/about/) Additional Links: [GitHub Repository. (⭐691)](https://github.com/censusreporter/censusreporter)
 *   [IPUMS National Historic GIS](https://www.nhgis.org/) - The National Historical Geographic Information System (NHGIS) provides easy access to summary tables and time series of population, housing, agriculture, and economic data, along with GIS-compatible boundary files, for years from 1790 through the present and for all levels of U.S. census geography, including states, counties, tracts, and blocks.
 
 ### Public Data Resources / Environment and Ecosystem Services
@@ -44,19 +44,19 @@
 ### General / Misc
 
 *   [Steam WebAPI Documentation by xPaw](https://lab.xpaw.me/steam_api_documentation.html)
-*   [Steam Internal WebAPI Documentation by Revadike (⭐100)](https://github.com/Revadike/UnofficialSteamWebAPI)
+*   [Steam Internal WebAPI Documentation by Revadike (⭐198)](https://github.com/Revadike/UnofficialSteamWebAPI)
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Lightly](https://www.lightly.ai/) — Improve your machine learning models by using the right data. Use datasets of up to 1'000 samples for free.
+*   [Lightly](https://www.lightly.ai/) — Improve your machine-learning models by using the correct data. Use datasets of up to 1000 samples for free.
 
 ## [5. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### JavaScript / Git
 
-*   [TweetNaCl.js (⭐1.5k)](https://github.com/dchest/tweetnacl-js) - A port of TweetNaCl / NaCl for JavaScript for modern browsers and Node.js.
+*   [TweetNaCl.js (⭐1.6k)](https://github.com/dchest/tweetnacl-js) - A port of TweetNaCl / NaCl for JavaScript for modern browsers and Node.js.
 
 ## [6. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -85,13 +85,13 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-checker (⭐691)](https://github.com/fi3ework/vite-plugin-checker) - Fast run checkers (TypeScript/VLS/vue-tsc, etc.) in worker threads with overlay and terminal hint.
+*   [vite-plugin-checker (⭐782)](https://github.com/fi3ework/vite-plugin-checker) - Fast run checkers (TypeScript/VLS/vue-tsc, etc.) in worker threads with overlay and terminal hint.
 
 ## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
-- API: [Cloudflare Trace (⭐37)](https://github.com/fawazahmed0/cloudflare-trace-api)
+- API: [Cloudflare Trace (⭐61)](https://github.com/fawazahmed0/cloudflare-trace-api)
 
   Description: Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More
 
@@ -150,25 +150,25 @@
 ### Firebase Extensions
 
 *   🔧 [Firebase Extensions](https://firebase.google.com/products/extensions) - Firebase Extensions provide extended functionality to your apps without the need to research, write, or debug code on your own.
-*   🔧 [Experimental Firebase Extensions (⭐231)](https://github.com/FirebaseExtended/experimental-extensions) -  laboratory for new extensions created by Firebase.
-*   🔧 [Stripe Extensions (⭐355)](https://github.com/stripe/stripe-firebase-extensions) - Official Stripe subscriptions and invoices extensions.
-*   🔧 [MessageBird Extensions (⭐10)](https://github.com/messagebird/firestore-send-msg) - Official MessageBird extension to send messages via the MessageBird Converstations API.
-*   🔧 [Algolia Extensions (⭐82)](https://github.com/algolia/firestore-algolia-search) - Official Algolia extension to enable full text search of Cloud Firestore with Algolia.
-*   🔧 [Mailchimp Extensions (⭐15)](https://github.com/mailchimp/Firebase) - Official Mailchimp extension to sync Firebase Authentication events to create member tags, merge fields, and member events with Mailchimp.
-*   🔧 [Typesense Extension for Full-Text Search (⭐112)](https://github.com/typesense/firestore-typesense-search) - Official Typesense extension to add full-text search in Firestore, by syncing the data to [Typesense (⭐13k)](https://github.com/typesense/typesense), an OSS alternative to Algolia.
+*   🔧 [Experimental Firebase Extensions (⭐237)](https://github.com/FirebaseExtended/experimental-extensions) -  laboratory for new extensions created by Firebase.
+*   🔧 [Stripe Extensions (⭐384)](https://github.com/stripe/stripe-firebase-extensions) - Official Stripe subscriptions and invoices extensions.
+*   🔧 [MessageBird Extensions (⭐11)](https://github.com/messagebird/firestore-send-msg) - Official MessageBird extension to send messages via the MessageBird Converstations API.
+*   🔧 [Algolia Extensions (⭐95)](https://github.com/algolia/firestore-algolia-search) - Official Algolia extension to enable full text search of Cloud Firestore with Algolia.
+*   🔧 [Mailchimp Extensions (⭐18)](https://github.com/mailchimp/Firebase) - Official Mailchimp extension to sync Firebase Authentication events to create member tags, merge fields, and member events with Mailchimp.
+*   🔧 [Typesense Extension for Full-Text Search (⭐123)](https://github.com/typesense/firestore-typesense-search) - Official Typesense extension to add full-text search in Firestore, by syncing the data to [Typesense (⭐14k)](https://github.com/typesense/typesense), an OSS alternative to Algolia.
 
 ### Web
 
-*   🔌 [GeoFirestore (⭐494)](https://github.com/MichaelSolati/geofirestore-js) - Location-based querying and filtering using Firebase Firestore.
+*   🔌 [GeoFirestore (⭐500)](https://github.com/MichaelSolati/geofirestore-js) - Location-based querying and filtering using Firebase Firestore.
 
 ### Server-side (Cloud Functions, BigQuery etc) / iOS
 
-*   🔌 [Pyrebase (⭐1.9k)](https://github.com/thisbejim/Pyrebase) - A simple python wrapper for the Firebase API.
-*   🔌 [Firecode (⭐178)](https://github.com/kafkas/firecode) - A light, fast, and memory-efficient collection traversal library for Firestore and Node.js.
+*   🔌 [Pyrebase (⭐2k)](https://github.com/thisbejim/Pyrebase) - A simple python wrapper for the Firebase API.
+*   🔌 [Firecode (⭐0)](https://github.com/kafkas/firecode) - A light, fast, and memory-efficient collection traversal library for Firestore and Node.js.
 
 ### CLI & Editor / iOS
 
-*   🔧 [asdf-firebase (⭐13)](https://github.com/jthegedus/asdf-firebase) - An [asdf-vm](https://asdf-vm.com/) plugin for `firebase-tools`. Manage your Firebase CLI without Node.js or `npm`! Great for `python`, `golang`, `c++` & `java` Firebase projects.
+*   🔧 [asdf-firebase (⭐15)](https://github.com/jthegedus/asdf-firebase) - An [asdf-vm](https://asdf-vm.com/) plugin for `firebase-tools`. Manage your Firebase CLI without Node.js or `npm`! Great for `python`, `golang`, `c++` & `java` Firebase projects.
 
 ### Other / iOS
 
@@ -186,15 +186,11 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [ass (⭐443)](https://github.com/tycrek/ass) - The superior self-hosted ShareX server. For use with clients such as ShareX (Windows), Flameshot (Linux), & MagicCap (Linux, macOS). `ISC` `Nodejs`
+*   [ass (⭐526)](https://github.com/tycrek/ass) - The superior self-hosted ShareX server. For use with clients such as ShareX (Windows), Flameshot (Linux), & MagicCap (Linux, macOS). `ISC` `Nodejs/Docker`
 
 ### Software / Office Suites
 
 *   [Collabora Online Development Edition](https://www.collaboraoffice.com/code) - Collabora Online Development Edition (CODE) is a powerful LibreOffice-based online office that supports all major document, spreadsheet and presentation file formats, which you can integrate in your own infrastructure. ([Source Code](https://cgit.freedesktop.org/libreoffice/online/)) `MPL-2.0` `C++`
-
-### External Links / Wikis
-
-*   [Easy Indie App](https://easyindie.app) - Apps that can be self-hosted in a few clicks.
 
 ---
 

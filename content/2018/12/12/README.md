@@ -24,20 +24,20 @@
 
 *   [Instant-Music-Downloader (⭐1.4k)](https://github.com/yask123/Instant-Music-Downloader) - Instant music downloader.
 *   [pianobar](https://6xq.net/pianobar/) - Pandora client.
-*   [somafm-cli (⭐122)](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
-*   [mpd (⭐1.8k)](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon.
+*   [somafm-cli (⭐126)](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
+*   [mpd (⭐1.9k)](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon.
 *   [moc](http://moc.daper.net/) - Console audio player for Linux/UNIX.
-*   [musikcube (⭐3.6k)](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
+*   [musikcube (⭐3.7k)](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
 
 ### Development / Text Editors
 
-*   [emacs (⭐3.9k)](https://github.com/emacs-mirror/emacs) - An extensible, customizable, free/libre text editor — and more.
-*   [vim (⭐30k)](https://github.com/vim/vim) - Vim - the ubiquitous text editor.
+*   [emacs (⭐4k)](https://github.com/emacs-mirror/emacs) - An extensible, customizable, free/libre text editor — and more.
+*   [vim (⭐33k)](https://github.com/vim/vim) - Vim - the ubiquitous text editor.
 
 ### Files and Directories / File Managers
 
-*   [ranger (⭐13k)](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
-*   [midnight-commander (⭐2k)](https://github.com/MidnightCommander/mc) - A feature rich visual file manager.
+*   [ranger (⭐14k)](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
+*   [midnight-commander (⭐2.1k)](https://github.com/MidnightCommander/mc) - A feature rich visual file manager.
 
 ## [4. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Physics
 
-*   [Project Chrono (⭐1.7k)](https://github.com/projectchrono/chrono) - An open source multi-physics simulation engine. \[BSD-3-Clause] [website](https://projectchrono.org/)
+*   [Project Chrono (⭐1.9k)](https://github.com/projectchrono/chrono) - An open source multi-physics simulation engine. \[BSD-3-Clause] [website](https://projectchrono.org/)
 
 ## [8. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
@@ -76,31 +76,31 @@
 
 ### Waterford
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/rjrodger" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/rjrodger" height="70px" width="70px" align="left" alt="" />
 
 **Richard Rodger**\
 Topics: Node.js, Microservices\
 <https://twitter.com/rjrodger>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/nirgn975" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/nirgn975" height="70px" width="70px" align="left" alt="" />
 
 **Nir Galon**\
 Topics: Python, API Star, Open Source, Node.js, Angular\
 <https://twitter.com/nirgn975>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/nirkaufman" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/nirkaufman" height="70px" width="70px" align="left" alt="" />
 
 **Nir Kaufman**\
 Topics: Angular, Firebase, Redux\
 <https://twitter.com/nirkaufman>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/UriShaked" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/UriShaked" height="70px" width="70px" align="left" alt="" />
 
 **Uri Shaked**\
 Topics: Web Bluetooth, WebVR, Angular, Internet of Things with JavaScript\
 <https://twitter.com/UriShaked>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/yoniweisbrod" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/yoniweisbrod" height="70px" width="70px" align="left" alt="" />
 
 **Yoni Weisbrod**\
 Topics: React, MobX, MobX State Tree, React-Native\
@@ -110,7 +110,7 @@ Topics: React, MobX, MobX State Tree, React-Native\
 
 ### Gouda
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/rowdyrabouw" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/rowdyrabouw" height="70px" width="70px" align="left" alt="" />
 
 **Rowdy Rabouw**\
 Topics: NativeScript, Browser APIs\
@@ -120,33 +120,17 @@ Topics: NativeScript, Browser APIs\
 
 ### Aveiro
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/FilipaLacerda" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/FilipaLacerda" height="70px" width="70px" align="left" alt="" />
 
 **Filipa Lacerda**\
 Topics: Vue, Vuex\
 <https://twitter.com/FilipaLacerda>
 
-### Europe / Russia 🇷🇺
-
-### Porto
-
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/maskedwarrior" height="70px" width="70px" align="left" alt="" />
-
-**Miguel Andrade**\
-Topics: Ember, JavaScript\
-<https://twitter.com/maskedwarrior>
-
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/martonkodok" height="70px" width="70px" align="left" alt="" />
-
-**Márton Kodok**\
-Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
-<https://twitter.com/martonkodok>
-
 ### Europe / United Kingdom 🇬🇧
 
 ### Odessa
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/geek_timofey" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/geek_timofey" height="70px" width="70px" align="left" alt="" />
 
 **Timofey Lavrenyuk**\
 Topics: Progressive Web Apps, Modern Browser APIs\
@@ -156,7 +140,7 @@ Topics: Progressive Web Apps, Modern Browser APIs\
 
 ### Rio de Janeiro
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/raphamorims" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/raphamorims" height="70px" width="70px" align="left" alt="" />
 
 **Raphael Amorim**\
 Topics: React, JavaScript, jQuery\
@@ -166,7 +150,7 @@ Topics: React, JavaScript, jQuery\
 
 ### Frameworks, Libraries and Tools / Security
 
-*   [aspnetcore-security-headers (⭐231)](https://github.com/juunas11/aspnetcore-security-headers) - Middleware for adding security headers to an ASP.NET Core application.
+*   [aspnetcore-security-headers (⭐243)](https://github.com/juunas11/aspnetcore-security-headers) - Middleware for adding security headers to an ASP.NET Core application.
 
 ---
 

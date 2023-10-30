@@ -10,7 +10,7 @@
 
 ### Frameworks, Libraries and Tools / ORM
 
-*   [RepoDb (⭐1.5k)](https://github.com/mikependon/RepoDb) - A hybrid ORM library for .NET.
+*   [RepoDb (⭐1.6k)](https://github.com/mikependon/RepoDb) - A hybrid ORM library for .NET.
 
 ## [2. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
 
@@ -25,7 +25,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [gonic (⭐1.1k)](https://github.com/sentriz/gonic) - Lightweight music streaming server. Subsonic compatible. `GPL-3.0` `Go`
+*   [gonic (⭐1.2k)](https://github.com/sentriz/gonic) - Lightweight music streaming server. Subsonic compatible. `GPL-3.0` `Go/Docker`
 
 ### Software / Proxy
 
@@ -33,7 +33,7 @@
 
 ### Software / Software Development - Project Management
 
-*   [Leantime](https://leantime.io) - Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery. ([Source Code (⭐2.2k)](https://github.com/leantime/leantime)) `GPL-2.0` `PHP`
+*   [Leantime](https://leantime.io) - Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery. ([Source Code (⭐3.3k)](https://github.com/leantime/leantime)) `GPL-2.0` `PHP/Docker`
 
 ## [4. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [scikit-multiflow (⭐686)](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning framework for multi-output/multi-label and stream data.
+*   [scikit-multiflow (⭐711)](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning framework for multi-output/multi-label and stream data.
 
 ---
 

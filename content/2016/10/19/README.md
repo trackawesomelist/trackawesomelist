@@ -14,19 +14,19 @@
 
 ### DLR
 
-*   [cmd (⭐345)](https://github.com/manojlds/cmd) - C# library to run external programs in a simpler way. Demonstration of "dynamic" features of C#.
+*   [cmd (⭐348)](https://github.com/manojlds/cmd) - C# library to run external programs in a simpler way. Demonstration of "dynamic" features of C#.
 
 ### Functional programming
 
-*   [language-ext (⭐5.5k)](https://github.com/louthy/language-ext) - This library uses and abuses the features of C# 6+ to provide a functional 'Base class library', that, if you squint, can look like extensions to the language itself. It also includes an 'Erlang like' process system (actors) that can optionally persist messages and state to Redis (note you can use it without Redis for in-app messaging). The process system additionally supports Rx streams of messages and state allowing for a complete system of reactive events and message dispatch.
+*   [language-ext (⭐5.8k)](https://github.com/louthy/language-ext) - This library uses and abuses the features of C# 6+ to provide a functional 'Base class library', that, if you squint, can look like extensions to the language itself. It also includes an 'Erlang like' process system (actors) that can optionally persist messages and state to Redis (note you can use it without Redis for in-app messaging). The process system additionally supports Rx streams of messages and state allowing for a complete system of reactive events and message dispatch.
 
 ### Graphics
 
-*   [LibTessDotNet (⭐267)](https://github.com/speps/LibTessDotNet) - .NET port of the famous GLU Tessellator, triangulates polygons
+*   [LibTessDotNet (⭐283)](https://github.com/speps/LibTessDotNet) - .NET port of the famous GLU Tessellator, triangulates polygons
 
 ### Office
 
-*   [ClosedXML (⭐3.8k)](https://github.com/ClosedXML/ClosedXML) - ClosedXML makes it easier for developers to create Excel 2007/2010 files
+*   [ClosedXML (⭐4k)](https://github.com/ClosedXML/ClosedXML) - ClosedXML makes it easier for developers to create Excel 2007/2010 files
 
 ### WebSocket
 
@@ -34,7 +34,7 @@
 
 ### Source Generator
 
-*   [Awesome Unity (⭐5.8k)](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
+*   [Awesome Unity (⭐6.1k)](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
 
 ## [2. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
 
@@ -63,7 +63,7 @@
 
 ### R / General-Purpose Machine Learning
 
-*   [TDSP-Utilities (⭐366)](https://github.com/Azure/Azure-TDSP-Utilities) - Two data science utilities in R from Microsoft: 1) Interactive Data Exploration, Analysis, and Reporting (IDEAR) ; 2) Automated Modelling and Reporting (AMR).
+*   [TDSP-Utilities (⭐368)](https://github.com/Azure/Azure-TDSP-Utilities) - Two data science utilities in R from Microsoft: 1) Interactive Data Exploration, Analysis, and Reporting (IDEAR) ; 2) Automated Modelling and Reporting (AMR).
 
 ## [5. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
@@ -119,7 +119,7 @@
 
 ### Samples
 
-*   [C# Samples (⭐28)](https://github.com/FacticiusVir/SharpVk-Samples) - Port of Overv's tutorials to [SharpVk (⭐140)](https://github.com/FacticiusVir/SharpVk) \[MIT]
+*   [C# Samples (⭐27)](https://github.com/FacticiusVir/SharpVk-Samples) - Port of Overv's tutorials to [SharpVk (⭐142)](https://github.com/FacticiusVir/SharpVk) \[MIT]
 
 ## [12. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
@@ -149,17 +149,17 @@
 
 ### Apps / Blogging/news
 
-*   [wagtailnews (⭐64)](https://github.com/takeflight/wagtailnews) - A plugin for Wagtail that provides news / blogging functionality.
+*   [wagtailnews (⭐67)](https://github.com/takeflight/wagtailnews) - A plugin for Wagtail that provides news / blogging functionality.
 
 ## [17. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Serialization
 
-*   [ExtendedXmlSerializer (⭐292)](https://github.com/wojtpl2/ExtendedXmlSerializer) - Extended Xml Serializer for .NET.
+*   [ExtendedXmlSerializer (⭐316)](https://github.com/wojtpl2/ExtendedXmlSerializer) - Extended Xml Serializer for .NET.
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [OctoLinker (⭐5.1k)](https://github.com/OctoLinker/browser-extension) - Navigate through `projects.json` files efficiently with the OctoLinker browser extension for GitHub.
+*   [OctoLinker (⭐5.2k)](https://github.com/OctoLinker/browser-extension) - Navigate through `projects.json` files efficiently with the OctoLinker browser extension for GitHub.
 
 ## [18. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
@@ -171,7 +171,7 @@
 
 ### Add Citations to Your Code / HTML+CSS+JS
 
-*   [duecredit (⭐216)](https://github.com/duecredit/duecredit): Allows you to add decorators to Python functions that encode bibliographic details.
+*   [duecredit (⭐230)](https://github.com/duecredit/duecredit): Allows you to add decorators to Python functions that encode bibliographic details.
 
 ## [20. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

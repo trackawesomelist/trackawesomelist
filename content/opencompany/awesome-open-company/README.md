@@ -2,7 +2,7 @@
 
 A community-curated list of awesome open companies.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/opencompany/awesome-open-company/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 opencompany/awesome-open-company](https://github.com/opencompany/awesome-open-company) · ⭐ 713 · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/opencompany/awesome-open-company/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 opencompany/awesome-open-company](https://github.com/opencompany/awesome-open-company) · ⭐ 820 · 🏷️ Business
 
 [ Daily / [Weekly](/content/opencompany/awesome-open-company/week/README.md) / [Overview](/content/opencompany/awesome-open-company/readme/README.md) ]
 
@@ -30,7 +30,7 @@ A community-curated list of awesome open companies.
 
 ### Similar lists / Videos
 
-*   [Awesome Open (⭐57)](https://github.com/paulhendricks/awesome-open):
+*   [Awesome Open (⭐69)](https://github.com/paulhendricks/awesome-open):
     A curated list of organizations, projects and initiatives that maintain open codebases and datasets
 
 ## [Jun 28, 2016](/content/2016/06/28/README.md)

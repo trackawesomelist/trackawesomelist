@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 21, 2020
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -58,7 +58,7 @@
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
 *   [Cloudmersive](https://cloudmersive.com/) — Utility API platform with full access to expansive API Library including Document Conversion, Virus Scanning, and more with 800 calls/month.
 
@@ -86,7 +86,7 @@
 
 ### Resources / Examples
 
-*   [Ping CRM / CakePHP (⭐8)](https://github.com/ishanvyas22/cakephp-pingcrm) - Demonstration application made with CakePHP and Vue.js.
+*   [Ping CRM / CakePHP (⭐9)](https://github.com/ishanvyas22/cakephp-pingcrm) - Demonstration application made with CakePHP and Vue.js.
 
 ## [5. Awesome Tensorflow Js](/content/aaronhma/awesome-tensorflow-js/README.md)
 
@@ -511,7 +511,7 @@
 
 ### Email / Other Tools
 
-*   [FastAPI Mail (⭐422)](https://github.com/sabuhish/fastapi-mail) - Lightweight mail system for sending emails and attachments (individual and bulk).
+*   [FastAPI Mail (⭐513)](https://github.com/sabuhish/fastapi-mail) - Lightweight mail system for sending emails and attachments (individual and bulk).
 
 ## [8. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 
@@ -539,23 +539,14 @@
 
 ## [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
-### General Search
-
-*   [Wolfram Alpha](http://www.wolframalpha.com) - Wolfram Alpha is a computational knowledge engine (answer engine) developed by Wolfram Alpha. It will compute expert-level answers using Wolfram’s breakthrough
-    algorithms, knowledgebase and AI technology.
-
 ### Real-Time Search, Social Media Search, and General Social Media Tools
 
 *   [Audiense](https://www.audiense.com) - Tool to identify relevant audience, discover actionable insights and inform strategies to grow your business.
 *   [Buzz sumo](http://buzzsumo.com) - "Use our content insights to generate ideas, create high-performing content, monitor your performance and identify influencers."
 
-### Social Media Tools / Twitter
-
-*   [Backtweets](http://backtweets.com) - BackTweets is a Twitter analytics tool that allows users to search through a Tweet archive.
-
 ### Username Check / Telegram
 
-*   [Sherlock (⭐41k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
+*   [Sherlock (⭐43k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
 
 ### DNS / Telegram
 
@@ -581,14 +572,14 @@
 
 ### Transition
 
-*   [DropdownTransition (⭐67)](https://github.com/nugmanoff/DropdownTransition) - Simple and elegant Dropdown Transition for presenting controllers from top to bottom.
+*   [DropdownTransition (⭐69)](https://github.com/nugmanoff/DropdownTransition) - Simple and elegant Dropdown Transition for presenting controllers from top to bottom.
 
 ## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [bee-grid-table (⭐45)](https://github.com/jiahengaa/BeeGridTable) -BeeGridTable , is a Highly Customizable Table UI component library based on Vue.js. Rich functions、More efficient、Easy to use!
-*   [vnodes (⭐89)](https://github.com/txlabs/vnodes) - General purpose components to create svg interactive graphs, diagrams or node based visual tools.
+*   [vnodes (⭐103)](https://github.com/txlabs/vnodes) - General purpose components to create svg interactive graphs, diagrams or node based visual tools.
 
 ## [16. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
 
@@ -600,7 +591,17 @@
 
 *   [WrapperValueObject (⭐42)](https://github.com/martinothamar/WrapperValueObject) - Creates boilerplate free wrappers around types. Especially useful for creating [strongly typed wrappers around primitive types](https://andrewlock.net/series/using-strongly-typed-entity-ids-to-avoid-primitive-obsession/).
 
-## [17. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [17. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Java / Spring Boot
+
+*   [Building modern Web Apps with Spring Boot and Vaadin](https://v.vaadin.com/hubfs/Pdfs/Building%20Modern%20Web%20Apps%20with%20Spring%20Boot%20and%20Vaadin.pdf) (PDF)
+
+### JavaScript / Wicket
+
+*   [JavaScript Notes for Professionals](https://goalkicker.com/JavaScriptBook/) - Compiled from StackOverflow documentation (PDF)
+
+## [18. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Articles & Posts
 

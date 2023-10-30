@@ -14,12 +14,12 @@
     *   [gensim (⭐14k)](https://github.com/RaRe-Technologies/gensim) - Topic Modeling for Humans.
     *   [langid.py (⭐2.1k)](https://github.com/saffsd/langid.py) - Stand-alone language identification system.
     *   [nltk](http://www.nltk.org/) - A leading platform for building Python programs to work with human language data.
-    *   [pattern (⭐8.4k)](https://github.com/clips/pattern) - A web mining module.
-    *   [polyglot (⭐2.1k)](https://github.com/aboSamoor/polyglot) - Natural language pipeline supporting hundreds of languages.
+    *   [pattern (⭐8.5k)](https://github.com/clips/pattern) - A web mining module.
+    *   [polyglot (⭐2.2k)](https://github.com/aboSamoor/polyglot) - Natural language pipeline supporting hundreds of languages.
     *   [pytext (⭐6.4k)](https://github.com/facebookresearch/pytext) - A natural language modeling framework based on PyTorch.
     *   [PyTorch-NLP (⭐2.2k)](https://github.com/PetrochukM/PyTorch-NLP) - A toolkit enabling rapid deep learning NLP prototyping for research.
     *   [spacy](https://spacy.io/) - A library for industrial-strength natural language processing in Python and Cython.
-    *   [Stanza (⭐6.5k)](https://github.com/stanfordnlp/stanza) - The Stanford NLP Group's official Python library, supporting 60+ languages.
+    *   [Stanza (⭐6.7k)](https://github.com/stanfordnlp/stanza) - The Stanford NLP Group's official Python library, supporting 60+ languages.
 
 ## [2. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
@@ -31,7 +31,7 @@
 
 ### Network Protocols
 
-*   [amqp-client.cr (⭐62)](https://github.com/cloudamqp/amqp-client.cr) - AMQP 0-9.1, a messaging protocol, implemented by eg. RabbitMQ
+*   [amqp-client.cr (⭐63)](https://github.com/cloudamqp/amqp-client.cr) - AMQP 0-9.1, a messaging protocol, implemented by eg. RabbitMQ
 
 ## [4. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Demo
 
-*   [Sitecore.Demo.Group (⭐18)](https://github.com/Sitecore/Sitecore.Demo.Group) - Habitat Group Demo site - a developer example of a Habitat Based Demo.
+*   [Sitecore.Demo.Group (⭐16)](https://github.com/Sitecore/Sitecore.Demo.Group) - Habitat Group Demo site - a developer example of a Habitat Based Demo.
 
 ### Fields
 
@@ -59,7 +59,13 @@
 
 *   [DynamicWorkflows (⭐2)](https://github.com/ivansharamok/DynamicWorkflows) - Rule Engine based workflow management tool.
 
-## [5. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
+## [5. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+
+### Tools
+
+*   [iprfc (⭐3)](https://github.com/RTradeLtd/iprfc) - IETF RFC downloader which stores RFCs on IPFS and indexes them with RTradeLtd/Lens.
+
+## [6. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
 ### Hygiene
 
@@ -94,13 +100,13 @@
 *   [All Green](https://www.all-green.co.uk/) - A selection of environmentally friendly products for the home, garden, pets and other stuff.
 *   [Lehman's Appliances](https://www.lehmans.com/category/appliances) - Off the grid and super efficient appliances, including gas refrigerators, freezers, composting toilets, wood stoves, water heaters and pumps.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Books
 
 *   [Vue.js](https://www.amazon.com/Vue-js-Actionable-Chris-Minnick/dp/1951959019) by Chris Minnick and Nat Dunn, Webucator (February, 2020)
 
-## [7. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Articles
 
@@ -110,27 +116,17 @@
 
 *   [EmberConf 2020](https://www.youtube.com/playlist?list=PL4eq2DPpyBbkC03mdzlyej6tcbEqrZK8N) - Videos of the sessions from EmberConf 2020.
 
-## [8. Awesome Naming](/content/gruhn/awesome-naming/README.md)
+## [9. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
 ### Other
 
 *   [Glue Code](https://en.wikipedia.org/wiki/Glue_code) - Jenga and LEGO bricks don't share the same interface but you can always glue them together.
 
-## [9. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
-
-### Datasets
-
-*   [7-piece Syzygy tablebases](https://syzygy-tables.info/) - Solutions for all chess endgames with up to 7 pieces. [Source (⭐178)](https://github.com/syzygy1/tb)
-
-### Tools
-
-*   [iprfc (⭐2)](https://github.com/RTradeLtd/iprfc) - IETF RFC downloader which stores RFCs on IPFS and indexes them with RTradeLtd/Lens.
-
 ## [10. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Miscellaneous
 
-*   [Web Archiving (⭐1.5k)](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
+*   [Web Archiving (⭐1.6k)](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
 
 ---
 

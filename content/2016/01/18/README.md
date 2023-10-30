@@ -10,19 +10,19 @@
 
 ### Data Generators
 
-*   [faker (⭐142)](https://github.com/askn/faker) - A library for generating fake data
+*   [faker (⭐141)](https://github.com/askn/faker) - A library for generating fake data
 
 ## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Source Generator
 
-*   [.NET-libraries-that-make-your-life-easier (⭐733)](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier
+*   [.NET-libraries-that-make-your-life-easier (⭐761)](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Color / Runner
 
-*   [color (⭐4.5k)](https://github.com/Qix-/color) - JavaScript color conversion and manipulation library.
+*   [color (⭐4.6k)](https://github.com/Qix-/color) - JavaScript color conversion and manipulation library.
 
 ### Scroll / Other
 
@@ -82,7 +82,7 @@
 
 ### Macros
 
-*   [ok\_jose (⭐96)](https://github.com/vic/ok_jose) - Pipe elixir functions that match `{:ok,_}`, `{:error,_}` tuples or custom patterns.
+*   [ok\_jose (⭐98)](https://github.com/vic/ok_jose) - Pipe elixir functions that match `{:ok,_}`, `{:error,_}` tuples or custom patterns.
 
 ## [9. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
@@ -127,7 +127,7 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [Warp-CTC (⭐4k)](https://github.com/baidu-research/warp-ctc) - A fast parallel implementation of Connectionist Temporal Classification (CTC), on both CPU and GPU.
+*   [Warp-CTC (⭐4.1k)](https://github.com/baidu-research/warp-ctc) - A fast parallel implementation of Connectionist Temporal Classification (CTC), on both CPU and GPU.
 
 ---
 

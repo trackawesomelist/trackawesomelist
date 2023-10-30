@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 18, 2017
 
-18 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -96,7 +96,7 @@
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [JSMLT (⭐24)](https://github.com/jsmlt/jsmlt) - Machine learning toolkit with classification and clustering for Node.js; supports visualization (see [visualml.io](https://visualml.io)).
+*   [JSMLT (⭐25)](https://github.com/jsmlt/jsmlt) - Machine learning toolkit with classification and clustering for Node.js; supports visualization (see [visualml.io](https://visualml.io)).
 
 ## [14. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -109,8 +109,8 @@
 ### Projects Using Vue.js / Open Source
 
 *   [TidyTab (⭐68)](https://github.com/eggplanetio/tidytab) - A Chrome extension for tidying up those tabs.
-*   [peregrine-cms (⭐50)](https://github.com/headwirecom/peregrine-cms) - A Vue.js and Apache Sling based head-optional CMS
-*   [concept-to-clinic (⭐368)](https://github.com/concept-to-clinic/concept-to-clinic) - Lung cancer prediction project with Vue.js interface
+*   [peregrine-cms (⭐49)](https://github.com/headwirecom/peregrine-cms) - A Vue.js and Apache Sling based head-optional CMS
+*   [concept-to-clinic (⭐367)](https://github.com/concept-to-clinic/concept-to-clinic) - Lung cancer prediction project with Vue.js interface
 
 ## [16. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -131,6 +131,12 @@
 *   [Hopper](https://www.hopperapp.com/) - The macOS and Linux Disassembler.
 *   [ILSpy](http://ilspy.net/) - ILSpy is the open-source .NET assembly browser and decompiler.
 *   [WinDbg](https://developer.microsoft.com/en-us/windows/hardware/download-windbg) - multipurpose debugger for the Microsoft Windows computer operating system, used to debug user mode applications, device drivers, and the kernel-mode memory dumps.
+
+## [19. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Clojure / Non-X86
+
+*   [Clojure by Example](https://kimh.github.io/clojure-by-example/) - Hirokuni Kim
 
 ---
 

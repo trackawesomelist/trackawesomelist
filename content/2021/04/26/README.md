@@ -38,15 +38,15 @@
 
 ### Libraries
 
-*   [Distrax (⭐400)](https://github.com/deepmind/distrax) - Reimplementation of TensorFlow Probability, containing probability distributions and bijectors. <img src="https://img.shields.io/github/stars/deepmind/distrax?style=social" align="center">
-*   [cvxpylayers (⭐1.5k)](https://github.com/cvxgrp/cvxpylayers) - Construct differentiable convex optimization layers. <img src="https://img.shields.io/github/stars/cvxgrp/cvxpylayers?style=social" align="center">
+*   [Distrax (⭐472)](https://github.com/deepmind/distrax) - Reimplementation of TensorFlow Probability, containing probability distributions and bijectors. <img src="https://img.shields.io/github/stars/deepmind/distrax?style=social" align="center">
+*   [cvxpylayers (⭐1.6k)](https://github.com/cvxgrp/cvxpylayers) - Construct differentiable convex optimization layers. <img src="https://img.shields.io/github/stars/cvxgrp/cvxpylayers?style=social" align="center">
 *   [TensorLy (⭐1.4k)](https://github.com/tensorly/tensorly) - Tensor learning made simple. <img src="https://img.shields.io/github/stars/tensorly/tensorly?style=social" align="center">
 
 ## [5. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### WSL Tools / Terminals
 
-*   [Fluent Terminal (⭐8.9k)](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
+*   [Fluent Terminal (⭐9k)](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 
 ## [6. Awesome Unity](/content/RyanNielson/awesome-unity/README.md)
 

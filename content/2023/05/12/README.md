@@ -10,7 +10,7 @@
 
 ### Open Source Projects / Other / Chatbots
 
-*   [MM ReAct (⭐673)](https://github.com/microsoft/MM-REACT): Multi Modal ReAct Design
+*   [MM ReAct (⭐799)](https://github.com/microsoft/MM-REACT): Multi Modal ReAct Design
 
 ## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -23,18 +23,18 @@
 
 *   [Paper Digest - ChatGPT](https://www.paperdigest.org/2023/01/recent-papers-on-chatgpt/): Recent Papers on ChatGPT
 
-### Inbox: Large Language Models / Autonomous LLM Agents
+### Inbox: Large Language Models (LLMs) / Autonomous LLM Agents
 
 *   [Fine-Tuner.ai](https://fine-tuner.ai/): no code approach to build AI agents
 *   [AI Agent Basics: Let’s Think Step By Step - by Jon Stokes](https://www.jonstokes.com/p/ai-agent-basics-lets-think-step-by)
 
-### Inbox: Large Language Models / LangChain
+### Inbox: Large Language Models (LLMs) / LangChain
 
 *   [FlowiseAI](https://flowiseai.com/): "Open source UI visual tool to build your customized LLM flow using LangchainJS, written in Node Typescript/Javascript"
 *   [LangChain Docs](https://langchain.readthedocs.io/en/latest/#): Python library that helps building applications with LLMs through composability
 *   [Getting started with LangChain | by Avra | Feb, 2023 | Medium](https://medium.com/@avra42/getting-started-with-langchain-a-powerful-tool-for-working-with-large-language-models-286419ba0842): A powerful tool for working with Large Language Models
 
-### Inbox: Large Language Models / Text-related Generative Tools
+### Inbox: Large Language Models (LLMs) / Text-related Generative Tools
 
 *   [ChatBotKit](https://chatbotkit.com/): toolkit to build AI chat bots
 *   [Boring Report](https://www.boringreport.org/): "an app that uses AI to remove sensationalism from the news and makes it boring to read"
@@ -44,7 +44,7 @@
 *   [Stable Animation SDK](https://stability.ai/blog/stable-animation-sdk): a text-to-animation tool for developers by Stability AI [\[dev platform\]](https://platform.stability.ai/docs/features/animation)
 *   [Twelve Labs](https://twelvelabs.io/): multimodal, contextual understanding for video search
 
-### Inbox: Developing + AI / Generative Adversarial Networks (GANs)
+### Inbox: DEV + AI / Generative Adversarial Networks (GANs)
 
 *   [Metabob](https://metabob.com/): Generative AI to improve and automate code reviews
 
@@ -58,8 +58,8 @@
 
 ### Extensions / Community
 
-*   [Inline Form Interface (⭐8)](https://github.com/hanneskuettner/directus-extension-inline-form-interface) - Edit M2O relations in an inline form contained in the parent record.
-*   [Tab Group Interface (⭐7)](https://github.com/hanneskuettner/directus-extension-group-tabs-interface) - Display groups as tab panels, as a pretty, space saving alternative to the accordion group.
+*   [Inline Form Interface (⭐22)](https://github.com/hanneskuettner/directus-extension-inline-form-interface) - Edit M2O relations in an inline form contained in the parent record.
+*   [Tab Group Interface (⭐26)](https://github.com/hanneskuettner/directus-extension-group-tabs-interface) - Display groups as tab panels, as a pretty, space saving alternative to the accordion group.
 
 ## [5. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 

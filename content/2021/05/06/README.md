@@ -58,15 +58,15 @@
 
 ### Automation / Frameworks
 
-*   [JMeter Load Testing Center (⭐189)](https://github.com/innogames/ltc) - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter.
+*   [JMeter Load Testing Center (⭐191)](https://github.com/innogames/ltc) - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter.
 
 ## [6. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Audio Dataset and Dataloaders
 
-*   [musdb](http://dsdtools.readthedocs.io) [:octocat: (⭐124)](https://github.com/sigsep/sigsep-mus-db) [:package:](https://pypi.python.org/pypi/musdb) - Parse and process the MUSDB18 dataset.
-*   [audiomate (⭐122)](https://github.com/ynop/audiomate) [:octocat: (⭐122)](https://github.com/ynop/audiomate) [:package:](https://pypi.python.org/pypi/audiomate/) - Loading different types of audio datasets.
-*   [mirdata](https://mirdata.readthedocs.io/en/latest/) [:octocat: (⭐274)](https://github.com/mir-dataset-loaders/mirdata) [:package:](https://pypi.python.org/pypi/mirdata) - Common loaders for Music Information Retrieval (MIR) datasets.
+*   [musdb](http://dsdtools.readthedocs.io) [:octocat: (⭐130)](https://github.com/sigsep/sigsep-mus-db) [:package:](https://pypi.python.org/pypi/musdb) - Parse and process the MUSDB18 dataset.
+*   [audiomate (⭐124)](https://github.com/ynop/audiomate) [:octocat: (⭐124)](https://github.com/ynop/audiomate) [:package:](https://pypi.python.org/pypi/audiomate/) - Loading different types of audio datasets.
+*   [mirdata](https://mirdata.readthedocs.io/en/latest/) [:octocat: (⭐290)](https://github.com/mir-dataset-loaders/mirdata) [:package:](https://pypi.python.org/pypi/mirdata) - Common loaders for Music Information Retrieval (MIR) datasets.
 
 ## [7. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
 
@@ -78,20 +78,20 @@
 
 ### Resources / Examples
 
-*   [Vue Word Game (⭐2)](https://github.com/debadeepsen/vuewordgame) - A simple Hangman-like word guessing game, built with Vue 2.
+*   [Vue Word Game (⭐3)](https://github.com/debadeepsen/vuewordgame) - A simple Hangman-like word guessing game, built with Vue 2.
 *   [Coinchartsvue (⭐4)](https://github.com/okandas/coinchartsvue) - Coinchartsvue is a cryptocurrency price chart based off Coinbase's original price chart.
 
 ## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Machine Learning
 
-*   [ncnn (⭐17k)](https://github.com/Tencent/ncnn) - A high-performance neural network inference computing framework optimized for mobile platforms. \[BSD]
+*   [ncnn (⭐18k)](https://github.com/Tencent/ncnn) - A high-performance neural network inference computing framework optimized for mobile platforms. \[BSD]
 
 ## [10. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [Stock\_Analysis\_For\_Quant (⭐1.3k)](https://github.com/LastAncientOne/Stock_Analysis_For_Quant) - Different Types of Stock Analysis in Excel, Matlab, Power BI, Python, R, and Tableau.
+*   [Stock\_Analysis\_For\_Quant (⭐1.4k)](https://github.com/LastAncientOne/Stock_Analysis_For_Quant) - Different Types of Stock Analysis in Excel, Matlab, Power BI, Python, R, and Tableau.
 
 ---
 

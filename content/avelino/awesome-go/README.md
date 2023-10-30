@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Oct 30, 2023](/content/2023/10/30/README.md)
+
+### Caches
+
+*   [coherence-go-client (⭐7)](https://github.com/oracle/coherence-go-client) - Full implementation of Oracle Coherence cache API for Go applications using gRPC as network transport.
+
 ## [Oct 26, 2023](/content/2023/10/26/README.md)
 
 ### Blockchain

@@ -16,7 +16,7 @@
 
 ### Python / Natural Language Processing
 
-*   [Dedupe (⭐3.7k)](https://github.com/dedupeio/dedupe) - A python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution.
+*   [Dedupe (⭐3.8k)](https://github.com/dedupeio/dedupe) - A python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution.
 
 ## [3. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Frameworks, Libraries and Tools / ORM
 
-*   [SmartSql (⭐888)](https://github.com/Ahoo-Wang/SmartSql) - SmartSql = MyBatis + Cache(Memory | Redis) + ZooKeeper + R/W Splitting +Dynamic Repository ....
+*   [SmartSql (⭐1k)](https://github.com/Ahoo-Wang/SmartSql) - SmartSql = MyBatis + Cache(Memory | Redis) + ZooKeeper + R/W Splitting +Dynamic Repository ....
 
 ## [11. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Miscellaneous
 
-*   [Software Patreons (⭐456)](https://github.com/uraimo/awesome-software-patreons#readme) - Fund individual programmers or the development of open source projects.
+*   [Software Patreons (⭐469)](https://github.com/uraimo/awesome-software-patreons#readme) - Fund individual programmers or the development of open source projects.
 
 ## [17. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
@@ -125,7 +125,7 @@
 
 ### Applications / System tools
 
-*   [pop-os/system76-power (⭐504)](https://github.com/pop-os/system76-power/) — Linux power management daemon (DBus-interface) with CLI tool.
+*   [pop-os/system76-power (⭐520)](https://github.com/pop-os/system76-power/) — Linux power management daemon (DBus-interface) with CLI tool.
 
 ---
 

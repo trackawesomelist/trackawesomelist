@@ -47,11 +47,11 @@
 
 ### Images / Barcode
 
-*   [MapleBacon (⭐337)](https://github.com/JanGorman/MapleBacon) - Image download and caching library.
+*   [MapleBacon (⭐340)](https://github.com/JanGorman/MapleBacon) - Image download and caching library.
 
 ### Text / Barcode
 
-*   [MarkyMark (⭐289)](https://github.com/M2Mobi/Marky-Mark) - Converts Markdown into native views or attributed strings.
+*   [MarkyMark (⭐293)](https://github.com/M2Mobi/Marky-Mark) - Converts Markdown into native views or attributed strings.
 
 ### UICollectionView / Barcode
 
@@ -79,19 +79,19 @@ Wifi pw: `fermento`
 
 ### Chatting
 
-*   [alice (⭐105)](https://github.com/alice-bot/alice) - A Slack bot framework for Elixir.
+*   [alice (⭐108)](https://github.com/alice-bot/alice) - A Slack bot framework for Elixir.
 
 ### Encoding and Compression
 
-*   [ex\_rlp (⭐26)](https://github.com/exthereum/ex_rlp) - Elixir implementation of Ethereum's RLP (Recursive Length Prefix) encoding.
+*   [ex\_rlp (⭐28)](https://github.com/exthereum/ex_rlp) - Elixir implementation of Ethereum's RLP (Recursive Length Prefix) encoding.
 
 ### HTTP
 
-*   [neuron (⭐312)](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
+*   [neuron (⭐316)](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
 
 ### Macros
 
-*   [expat (⭐175)](https://github.com/vic/expat) - Reusable, composable patterns across Elixir libraries.
+*   [expat (⭐176)](https://github.com/vic/expat) - Reusable, composable patterns across Elixir libraries.
 
 ### Natural Language Processing (NLP)
 
@@ -99,11 +99,11 @@ Wifi pw: `fermento`
 
 ### Queue
 
-*   [que (⭐644)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
+*   [que (⭐658)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
 
 ### Static Page Generation
 
-*   [blogit (⭐38)](https://github.com/meddle0x53/blogit) - An OTP application for generating blogs from git repositories containing markdown files.
+*   [blogit (⭐40)](https://github.com/meddle0x53/blogit) - An OTP application for generating blogs from git repositories containing markdown files.
 
 ## [7. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -127,7 +127,7 @@ Wifi pw: `fermento`
 
 ### Contents / Distributions
 
-*   [PostgreSql.Binaries.Lite (⭐28)](https://github.com/mihasic/PostgreSql.Binaries.Lite) - Minimum set of Windows binaries of the PostgreSQL database. Also made available through NuGet.
+*   [PostgreSql.Binaries.Lite (⭐29)](https://github.com/mihasic/PostgreSql.Binaries.Lite) - Minimum set of Windows binaries of the PostgreSQL database. Also made available through NuGet.
 
 ## [10. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 

@@ -1,25 +1,18 @@
 # Awesome List Updates on Mar 23, 2023
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
-
-### R / Data Sources
-
-*   [rb3 (⭐57)](https://github.com/ropensci/rb3) - A bunch of downloaders and parsers for data delivered from B3.
-*   [simfinapi (⭐13)](https://github.com/matthiasgomolka/simfinapi) - Makes 'SimFin' data (<https://simfin.com/>) easily accessible in R.
-
-## [2. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ### Resources / Tutorials & workshops
 
 *   [Prise en main de Polars](http://colab.research.google.com/github/inseefrlab/ssphub/blob/main/content/notebooks/polars-tuto.ipynb) - A notebook tutorial in French that illustrates the main features of Polars by [@romaintailhurat](https://github.com/romaintailhurat) and [@linogaliana](https://github.com/linogaliana). There is also an accompanying [blog post ](https://ssphub.netlify.app/post/polars/).
 
-## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
 
@@ -33,30 +26,30 @@
 
 *   [AudioLDM](https://audioldm.github.io/): Text-to-Audio Generation with Latent Diffusion Models - Speech Research
 
-## [4. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
+## [3. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
 ### Libraries / Rust
 
 *   Rust: Audio
-    *   🎉 [Kira (⭐594)](https://github.com/tesselode/kira) - Create expressive audio for games.
+    *   🎉 [Kira (⭐706)](https://github.com/tesselode/kira) - Create expressive audio for games.
 *   Rust: Gui
-    *   🔒 [Azul (⭐5.5k)](https://github.com/fschutt/azul) - Desktop gui framework.
-    *   🎉 [Dioxus (⭐8.7k)](https://github.com/dioxuslabs/dioxus) - Cross-platform, React-like gui library.
-    *   🎉 [Druid (⭐8.8k)](https://github.com/linebender/druid) - Data-first gui design toolkit.
-    *   🎉 [egui (⭐15k)](https://github.com/emilk/egui) - Easy to use immediate mode gui. Runs on web and native. \[[Demo](https://www.egui.rs/)]
-    *   🔒 [Slint (⭐7.8k)](https://github.com/slint-ui/slint) - Gui toolkit for embedded / desktop. Formerly *SixtyFPS*. \[[Website](https://slint-ui.com/)]
+    *   🔒 [Azul (⭐5.7k)](https://github.com/fschutt/azul) - Desktop gui framework.
+    *   🎉 [Dioxus (⭐14k)](https://github.com/dioxuslabs/dioxus) - Cross-platform, React-like gui library.
+    *   🎉 [Druid (⭐9.1k)](https://github.com/linebender/druid) - Data-first gui design toolkit.
+    *   🎉 [egui (⭐17k)](https://github.com/emilk/egui) - Easy to use immediate mode gui. Runs on web and native. \[[Demo](https://www.egui.rs/)]
+    *   🔒 [Slint (⭐10k)](https://github.com/slint-ui/slint) - Gui toolkit for embedded / desktop. Formerly *SixtyFPS*. \[[Website](https://slint-ui.com/)]
 
-## [5. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
+## [4. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### JavaScript Libraries
 
 *   [scure-btc-signer (⭐36)](https://github.com/paulmillr/scure-btc-signer) — audited & minimal library for creating, signing & decoding Bitcoin transactions. With Schnorr, Taproot, UTXO & PSBT.
 
-## [6. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [5. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### CI/CD / Other
 
-*   [Jaypore CI (⭐26)](https://github.com/theSage21/jaypore_ci) - Simple, very flexible, powerful CI / CD / automation system configured in Python. Offline and local first.
+*   [Jaypore CI (⭐29)](https://github.com/theSage21/jaypore_ci) - Simple, very flexible, powerful CI / CD / automation system configured in Python. Offline and local first.
 
 ---
 

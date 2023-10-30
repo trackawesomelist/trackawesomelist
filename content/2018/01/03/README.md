@@ -12,7 +12,7 @@
 
 *   [GLBoost (⭐105)](https://github.com/emadurandal/GLBoost) - Rendering library for 3D graphic geeks.
 *   [GrimoireGL](https://grimoire.gl/) - Bridge between Web engineers and CG engineers.
-*   [Hilo3d (⭐525)](https://github.com/hiloteam/Hilo3d) - WebGL rendering engine for 3D games.
+*   [Hilo3d (⭐612)](https://github.com/hiloteam/Hilo3d) - WebGL rendering engine for 3D games.
 
 ## [2. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
 
@@ -30,13 +30,13 @@
 
 ### Software / Other
 
-*   [OpenMapTiles](https://openmaptiles.org/) - Set of open-source tools for self-hosting of OpenStreetMap maps in more than 50 languages. It provides both raster as well as vector tiles, WMS and WMTS services for GIS programs, support for JavaScript viewers and mobile SDK. ([BSD (⭐1.7k)](https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md))
+*   [OpenMapTiles](https://openmaptiles.org/) - Set of open-source tools for self-hosting of OpenStreetMap maps in more than 50 languages. It provides both raster as well as vector tiles, WMS and WMTS services for GIS programs, support for JavaScript viewers and mobile SDK. ([BSD (⭐2k)](https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md))
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Web Application Framework
 
-*   [Cutelyst (⭐837)](https://github.com/cutelyst/cutelyst) - A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework. \[LGPLv2.1+] [website](https://cutelyst.org/)
+*   [Cutelyst (⭐860)](https://github.com/cutelyst/cutelyst) - A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework. \[LGPLv2.1+] [website](https://cutelyst.org/)
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -74,13 +74,13 @@
 ### Community / Interfaces to other package managers
 
 *   [qldeb (⭐4)](https://github.com/ralt/qldeb) -  Quicklisp systems to debian packages, along with [deb-packager (⭐4)](https://github.com/ralt/deb-packager) (simply create a debian package by defining an s-expression) and an introductory [blog post](http://margaine.com/2015/12/22/quicklisp-packagecloud-debian-packages.html). Both [MIT](https://opensource.org/licenses/MIT).
-*   [ql-to-deb (⭐20)](https://github.com/dimitri/ql-to-deb) -  Update cl-\* debian packages from Quicklisp releases. WTFPL.
+*   [ql-to-deb (⭐21)](https://github.com/dimitri/ql-to-deb) -  Update cl-\* debian packages from Quicklisp releases. WTFPL.
 
 ## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### GUI
 
-*   [QtSharp (⭐562)](https://github.com/ddobrev/QtSharp) - Mono/.NET Bindings for Qt
+*   [QtSharp (⭐565)](https://github.com/ddobrev/QtSharp) - Mono/.NET Bindings for Qt
 
 ### IDE
 
@@ -94,11 +94,11 @@
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [NetCoreCMS (⭐167)](https://github.com/OnnoRokomSoftware/NetCoreCMS) - An Open source ASP.NET Core 2.0 CMS. It currently supports MySQL and planned to implement MSSQL, SQLite and PostgreSQL. Also it is a modular CMS supports theme, skin, custom layout, widgets, multiple language (En, BN).
+*   [NetCoreCMS (⭐164)](https://github.com/OnnoRokomSoftware/NetCoreCMS) - An Open source ASP.NET Core 2.0 CMS. It currently supports MySQL and planned to implement MSSQL, SQLite and PostgreSQL. Also it is a modular CMS supports theme, skin, custom layout, widgets, multiple language (En, BN).
 
 ### Frameworks, Libraries and Tools / Logging
 
-*   [LibLog (⭐927)](https://github.com/damianh/LibLog) - Single file for you to either copy/paste or install via nuget, into your library/ framework/ application to provide a logging abstraction.
+*   [LibLog (⭐930)](https://github.com/damianh/LibLog) - Single file for you to either copy/paste or install via nuget, into your library/ framework/ application to provide a logging abstraction.
 
 ## [14. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Validation / Runner
 
-*   [validatr (⭐279)](https://github.com/jaymorrow/validatr/) - Cross Browser HTML5 Form Validation.
+*   [validatr (⭐280)](https://github.com/jaymorrow/validatr/) - Cross Browser HTML5 Form Validation.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 28, 2021
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,13 +16,13 @@
 
 ### Traffic Analysis/Inspection
 
-*   [BruteShark (⭐2.5k)](https://github.com/odedshimon/BruteShark): Is an open-source, cross-platform network forensic analysis tool with many features. It includes: password extracting,  displaying a visual network map, reconstruct TCP sessions, extract hashes of encrypted passwords and even convert them to a Hashcat format in order to perform an offline Brute Force attack.
+*   [BruteShark (⭐2.8k)](https://github.com/odedshimon/BruteShark): Is an open-source, cross-platform network forensic analysis tool with many features. It includes: password extracting,  displaying a visual network map, reconstruct TCP sessions, extract hashes of encrypted passwords and even convert them to a Hashcat format in order to perform an offline Brute Force attack.
 
 ## [3. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Plugins
 
-*   [tmux-fuzzback (⭐90)](https://github.com/roosta/tmux-fuzzback) Search your scrollback buffer using fzf.
+*   [tmux-fuzzback (⭐100)](https://github.com/roosta/tmux-fuzzback) Search your scrollback buffer using fzf.
 
 ## [4. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Tools for Teams and Collaboration
 
-*   [vadoo.tv](https://vadoo.tv/) — Video hosting and marketing made simple. Upload videos with a single click. Record, manage, share & more. Free tier provides upto 10 videos, 1 GB storage, 10 GB bandwidth/month
+*   [vadoo.tv](https://vadoo.tv/) — Video hosting and marketing made simple. Upload videos with a single click. Record, manage, share & more. The free tier provides up to 10 videos, 1 GB of storage, and 10 GB of bandwidth/per month
 
 ## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Individual components / Others
 
-*   [BlazorMergely (⭐6)](https://github.com/akovac35/BlazorMergely) - ![last commit](https://img.shields.io/github/last-commit/akovac35/BlazorMergely?style=flat-square\&cacheSeconds=86400) An implementation of Blazor diff and merge component based on Mergely with server side support.
+*   [BlazorMergely (⭐8)](https://github.com/akovac35/BlazorMergely) - ![last commit](https://img.shields.io/github/last-commit/akovac35/BlazorMergely?style=flat-square\&cacheSeconds=86400) An implementation of Blazor diff and merge component based on Mergely with server side support.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -85,7 +85,7 @@
 
 ### Libraries / Cryptography
 
-*   [w3f/schnorrkel (⭐266)](https://github.com/w3f/schnorrkel) - Schnorr VRFs and signatures on the Ristretto group
+*   [w3f/schnorrkel (⭐274)](https://github.com/w3f/schnorrkel) - Schnorr VRFs and signatures on the Ristretto group
 
 ## [10. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
@@ -93,27 +93,21 @@
 
 *   [tRPC Prisma Starter (⭐466)](https://github.com/trpc/examples-next-prisma-starter) - Starter project with Prisma + Next.js + CI + testing + E2E type-safety using [tRPC](https://trpc.io)
 
-## [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)
-
-### Social Media Tools / Twitter
-
-*   [Alldaytrends](https://alldaytrends.com) - A website where you can find trending hashtags.
-
-## [12. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+## [11. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ### Research Papers
 
 *   [Maturity of gray matter structures and white matter connectomes, and their relationship with psychiatric symptoms in youth](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25565) Alex Luna, Joel Bernanke, Kakyeong Kim, Natalie Aw, Jordan D. Dworkin, Jiook Cha, Jonathan Posner (2021).
 
-## [13. Awesome List](/content/sindresorhus/awesome/README.md)
+## [12. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Media
 
-*   [VLC (⭐80)](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
+*   [VLC (⭐95)](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
 
 ### Work
 
-*   [Internships (⭐284)](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
+*   [Internships (⭐320)](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
 
 ---
 

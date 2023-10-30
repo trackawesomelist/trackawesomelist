@@ -10,7 +10,7 @@
 
 ### Office
 
-*   [xlsxir (⭐197)](https://github.com/kennellroxco/xlsxir) - Xlsx file parser with support for ISO 8601 date formats. Data is extracted to an Erlang Term Storage (ETS) table and is accessed through various functions.
+*   [xlsxir (⭐202)](https://github.com/kennellroxco/xlsxir) - Xlsx file parser with support for ISO 8601 date formats. Data is extracted to an Erlang Term Storage (ETS) table and is accessed through various functions.
 
 ## [2. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
@@ -44,7 +44,7 @@
 
 ## [6. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
-### United States 🇺🇸 / Virginia   <a id="virginia">  </a>
+### United States 🇺🇸 / Virginia <a id="virginia"></a>
 
 #### Pushcart Coffee Chelsea
 

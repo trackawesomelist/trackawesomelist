@@ -62,7 +62,7 @@
 
 ### Tools / Ruby
 
-*   [Domain Storytelling](http://www.domainstorytelling.org/) - a knowledge-crunching technique that helps the people involved to familiarize themselves with the domain and work out a model that expresses their shared understanding. Available as a [print-out template](http://www.domainstorytelling.org/images/DST_Whiteboard-Kit.pdf), as well as open-source online tool, [WPS Modeler](https://www.wps.de/modeler) ([source (⭐546)](https://github.com/wps/domain-story-modeler)).
+*   [Domain Storytelling](http://www.domainstorytelling.org/) - a knowledge-crunching technique that helps the people involved to familiarize themselves with the domain and work out a model that expresses their shared understanding. Available as a [print-out template](http://www.domainstorytelling.org/images/DST_Whiteboard-Kit.pdf), as well as open-source online tool, [WPS Modeler](https://www.wps.de/modeler) ([source (⭐646)](https://github.com/wps/domain-story-modeler)).
 
 ## [6. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
 
@@ -80,12 +80,12 @@
 
 ### Frameworks, Libraries and Tools / API
 
-*   [OpenAPI Generator (⭐14k)](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (e.g. C#, TypeScript, etc), server stubs (ASP.NET Core, NancyFx, etc), documentation and configuration automatically given an OpenAPI Spec (v2, v3).
+*   [OpenAPI Generator (⭐18k)](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (e.g. C#, TypeScript, etc), server stubs (ASP.NET Core, NancyFx, etc), documentation and configuration automatically given an OpenAPI Spec (v2, v3).
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Bleak (⭐600)](https://github.com/Akaion/Bleak) - A Windows native DLL injection library.
-*   [NFlags (⭐43)](https://github.com/bartoszgolek/NFlags) - Simple library to made parsing CLI arguments easy. Library also allow to print usage help "out of box".
+*   [Bleak](https://github.com/Akaion/Bleak) - A Windows native DLL injection library.
+*   [NFlags (⭐45)](https://github.com/bartoszgolek/NFlags) - Simple library to made parsing CLI arguments easy. Library also allow to print usage help "out of box".
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
 

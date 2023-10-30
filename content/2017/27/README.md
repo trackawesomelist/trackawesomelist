@@ -6,13 +6,29 @@
 
 
 
-## [1. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [1. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
+
+### Resources / Articles
+
+*   [Conscious Success](https://www.stevepavlina.com/blog/2011/12/conscious-success/) - Explores the idea of conscious success rather than accidental success, using ads as an example.
+*   [Criticism of Advertising on Wikipedia](https://en.wikipedia.org/wiki/Criticism_of_advertising) - Overview of common criticisms of advertising.
+*   [Saying Goodbye to $100K Per Year in Easy Income](https://www.stevepavlina.com/blog/2008/10/dropping-adsense-saying-goodbye-to-100k-per-year-in-easy-income/) - Story of a blogger who chose a better way to make a living.
+*   [Vote With Your Wallet, Not Your Ad Blocker](http://practicaltypography.com/vote-with-your-wallet.html) - Paying for ad-free services casts a bigger vote.
+
+### Resources / Make Money Without Ads
+
+*   [Flattr](https://flattr.com/) - Browser add-on that distributes a monthly budget to websites you engage with the most.
+*   [Liberapay](https://liberapay.com/) - Open source recurring donations platform.
+*   [OpenCollective](https://opencollective.com/) - Enables groups to set up a collective, raise funds, and manage them transparently.
+*   [Patreon](https://www.patreon.com/) - Recurring funding for artists and creators on either a monthly basis or per creation.
+
+## [2. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Learning / Check Also
 
-*   [Awesome JS Books (⭐56)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best JavaScript books.
+*   [Awesome JS Books (⭐58)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best JavaScript books.
 
-## [2. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [3. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -23,7 +39,7 @@
 *   [Designing reliable systems with cloud infrastructure (Google Cloud Next '17)](https://www.youtube.com/watch?v=7Hy_6SMn8pY)
 *   [A Google SRE explores GitHub reliability with BigQuery](https://cloud.google.com/blog/big-data/2016/10/a-google-sre-explores-github-reliability-with-bigquery)
 
-## [3. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+## [4. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Other useful repositories
 
@@ -33,7 +49,7 @@
 
 
 
-## [4. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [5. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Command Line
 
@@ -43,21 +59,11 @@
 
 *   [Seven PHP](https://7php.com/) - A website that interviews members of the PHP community.
 
-## [5. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
+## [6. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
 ### Academic
 
 *   [A Systematic Study of the Majjhima Nikaya](http://bodhimonastery.org/a-systematic-study-of-the-majjhima-nikaya.html) - Lectures on the life of the Buddha, ethics, meditation, and wisdom.
-
-## [6. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
-
-### Software / Communication
-
-*   [Matrix](https://matrix.org/) - Open standard for decentralised, persistent, and interoperable communications. ([Apache License 2.0 (⭐10k)](https://github.com/matrix-org/synapse/blob/master/LICENSE))
-
-### Software / Web Applications
-
-*   [Weblate](https://weblate.org) - Translation management system with version control integration. ([GNU GPLv3 (⭐3.2k)](https://github.com/WeblateOrg/weblate/blob/master/COPYING))
 
 ## [7. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
@@ -140,7 +146,7 @@
 
 ### Contents / Components
 
-*   [Preact Head (⭐37)](https://github.com/matthewmueller/preact-head) - Standalone, declarative \<Head /> for Preact.
+*   [Preact Head (⭐36)](https://github.com/matthewmueller/preact-head) - Standalone, declarative \<Head /> for Preact.
 
 ## [19. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -188,7 +194,7 @@
 ### Graph Data Model
 
 *   [GCHQ Gaffer (⭐1.7k)](https://github.com/gchq/Gaffer) - Gaffer by GCHQ is a framework that makes it easy to store large-scale graphs in which the nodes and edges have statistics.
-*   [Google Cayley (⭐14k)](https://github.com/cayleygraph/cayley) - open-source graph database.
+*   [Google Cayley (⭐15k)](https://github.com/cayleygraph/cayley) - open-source graph database.
 *   [Twitter FlockDB (⭐3.3k)](https://github.com/twitter-archive/flockdb) - distributed graph database.
 
 ### Columnar Databases
@@ -246,7 +252,7 @@
 ### Applications
 
 *   [Apache Metron](http://metron.apache.org/) - a platform that integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
-*   [Argus (⭐492)](https://github.com/salesforce/Argus) - Time series monitoring and alerting platform.
+*   [Argus (⭐497)](https://github.com/salesforce/Argus) - Time series monitoring and alerting platform.
 *   [Hunk](https://www.splunk.com/en_us/download/hunk.html) - Splunk analytics for Hadoop.
 *   [MADlib](http://madlib.incubator.apache.org/community/) - data-processing library of an RDBMS to analyze data.
 *   [Splunk](https://www.splunk.com/) - analyzer for machine-generated data.
@@ -295,8 +301,8 @@
 *   [Graphite](http://graphiteapp.org/) - scalable Realtime Graphing.
 *   [Highcharts](https://www.highcharts.com/) - simple and flexible charting API.
 *   [Metricsgraphic.js](https://metricsgraphicsjs.org/) - a library built on top of D3 that is optimized for time-series data
-*   [Superset (⭐49k)](https://github.com/apache/incubator-superset) - a data exploration platform designed to be visual, intuitive and interactive, making it easy to slice, dice and visualize data and perform analytics at the speed of thought.
-*   [Zeppelin (⭐417)](https://github.com/ZEPL/zeppelin) - a notebook-style collaborative data analysis.
+*   [Superset (⭐52k)](https://github.com/apache/incubator-superset) - a data exploration platform designed to be visual, intuitive and interactive, making it easy to slice, dice and visualize data and perform analytics at the speed of thought.
+*   [Zeppelin (⭐413)](https://github.com/ZEPL/zeppelin) - a notebook-style collaborative data analysis.
 *   [Zing Charts](https://www.zingchart.com/) - JavaScript charting library for big data.
 
 ### Internet of things and sensor data
@@ -399,7 +405,7 @@
 
 ### CLI
 
-*   [ReadLine (⭐790)](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
+*   [ReadLine (⭐792)](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
 
 ### Decompilation
 
@@ -407,11 +413,11 @@
 
 ### Distributed Computing
 
-*   [Foundatio (⭐1.7k)](https://github.com/FoundatioFx/Foundatio#jobs) - Pluggable foundation blocks for building distributed apps.
+*   [Foundatio (⭐1.8k)](https://github.com/FoundatioFx/Foundatio#jobs) - Pluggable foundation blocks for building distributed apps.
 
 ### GUI
 
-*   [Modern UI for WPF - MUI (⭐2.5k)](https://github.com/firstfloorsoftware/mui) - Set of controls and styles to convert WPF applications into a great looking Modern UI apps.
+*   [Modern UI for WPF - MUI (⭐2.6k)](https://github.com/firstfloorsoftware/mui) - Set of controls and styles to convert WPF applications into a great looking Modern UI apps.
 
 ### MVVM
 
@@ -429,13 +435,13 @@
 
 ### Network Tools / Network Reconnaissance Tools
 
-*   [dnsenum (⭐466)](https://github.com/fwaeytens/dnsenum/) - Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.
-*   [dnsmap (⭐104)](https://github.com/makefu/dnsmap/) - Passive DNS network mapper.
-*   [dnsrecon (⭐2.1k)](https://github.com/darkoperator/dnsrecon/) - DNS enumeration script.
+*   [dnsenum (⭐522)](https://github.com/fwaeytens/dnsenum/) - Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.
+*   [dnsmap (⭐108)](https://github.com/makefu/dnsmap/) - Passive DNS network mapper.
+*   [dnsrecon (⭐2.3k)](https://github.com/darkoperator/dnsrecon/) - DNS enumeration script.
 *   [dnstracer](http://www.mavetju.org/unix/dnstracer.php) - Determines where a given DNS server gets its information from, and follows the chain of DNS servers.
-*   [passivedns-client (⭐190)](https://github.com/chrislee35/passivedns-client) - Library and query tool for querying several passive DNS providers.
+*   [passivedns-client (⭐194)](https://github.com/chrislee35/passivedns-client) - Library and query tool for querying several passive DNS providers.
 *   [passivedns (⭐1.6k)](https://github.com/gamelinux/passivedns) - Network sniffer that logs all DNS server replies for use in a passive DNS setup.
-*   [smbmap (⭐1.4k)](https://github.com/ShawnDEvans/smbmap) - Handy SMB enumeration tool.
+*   [smbmap (⭐1.6k)](https://github.com/ShawnDEvans/smbmap) - Handy SMB enumeration tool.
 
 ### Vulnerability Databases / Social Engineering Tools
 
@@ -512,15 +518,15 @@
 
 ### ZIP
 
-*   [Zip Foundation (⭐2k)](https://github.com/weichsel/ZIPFoundation) - A library to create, read and modify ZIP archive files.
+*   [Zip Foundation (⭐2.1k)](https://github.com/weichsel/ZIPFoundation) - A library to create, read and modify ZIP archive files.
 
 ### Bluetooth
 
-*   [Bluejay (⭐1k)](https://github.com/steamclock/bluejay) - A simple framework for building reliable Bluetooth LE apps.
+*   [Bluejay (⭐1.1k)](https://github.com/steamclock/bluejay) - A simple framework for building reliable Bluetooth LE apps.
 
 ### Images / Barcode
 
-*   [MapleBacon (⭐337)](https://github.com/JanGorman/MapleBacon) - Image download and caching library.
+*   [MapleBacon (⭐340)](https://github.com/JanGorman/MapleBacon) - Image download and caching library.
 
 ### Maps / Barcode
 
@@ -528,7 +534,7 @@
 
 ### Text / Barcode
 
-*   [MarkyMark (⭐289)](https://github.com/M2Mobi/Marky-Mark) - Converts Markdown into native views or attributed strings.
+*   [MarkyMark (⭐293)](https://github.com/M2Mobi/Marky-Mark) - Converts Markdown into native views or attributed strings.
 
 ### UICollectionView / Barcode
 
@@ -556,19 +562,19 @@ Wifi pw: `fermento`
 
 ### Chatting
 
-*   [alice (⭐105)](https://github.com/alice-bot/alice) - A Slack bot framework for Elixir.
+*   [alice (⭐108)](https://github.com/alice-bot/alice) - A Slack bot framework for Elixir.
 
 ### Encoding and Compression
 
-*   [ex\_rlp (⭐26)](https://github.com/exthereum/ex_rlp) - Elixir implementation of Ethereum's RLP (Recursive Length Prefix) encoding.
+*   [ex\_rlp (⭐28)](https://github.com/exthereum/ex_rlp) - Elixir implementation of Ethereum's RLP (Recursive Length Prefix) encoding.
 
 ### HTTP
 
-*   [neuron (⭐312)](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
+*   [neuron (⭐316)](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
 
 ### Macros
 
-*   [expat (⭐175)](https://github.com/vic/expat) - Reusable, composable patterns across Elixir libraries.
+*   [expat (⭐176)](https://github.com/vic/expat) - Reusable, composable patterns across Elixir libraries.
 
 ### Natural Language Processing (NLP)
 
@@ -576,11 +582,11 @@ Wifi pw: `fermento`
 
 ### Queue
 
-*   [que (⭐644)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
+*   [que (⭐658)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
 
 ### Static Page Generation
 
-*   [blogit (⭐38)](https://github.com/meddle0x53/blogit) - An OTP application for generating blogs from git repositories containing markdown files.
+*   [blogit (⭐40)](https://github.com/meddle0x53/blogit) - An OTP application for generating blogs from git repositories containing markdown files.
 
 ## [33. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -614,25 +620,19 @@ Wifi pw: `fermento`
 
     [AJ](https://twitter.com/ajlkn) writes about the making of carrd.co and the different steps that he took on the way to a successful product.
 
-## [37. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
+## [37. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
-### Alternatives / Music
+### Software / Audio
 
-*   [Libre.fm](https://libre.fm/) - Stream, download, remix, and share music for free.
+*   [Libre.fm](https://libre.fm/) - Stream, download, remix, and share music for free. ([GNU AGPLv3](https://git.gnu.io/gnu/gnu-fm/blob/master/COPYING))
 
-### Resources / Articles
+### Software / Communication
 
-*   [Conscious Success](https://www.stevepavlina.com/blog/2011/12/conscious-success/) - Explores the idea of conscious success rather than accidental success, using ads as an example.
-*   [Criticism of Advertising on Wikipedia](https://en.wikipedia.org/wiki/Criticism_of_advertising) - Overview of common criticisms of advertising.
-*   [Saying Goodbye to $100K Per Year in Easy Income](https://www.stevepavlina.com/blog/2008/10/dropping-adsense-saying-goodbye-to-100k-per-year-in-easy-income/) - Story of a blogger who chose a better way to make a living.
-*   [Vote With Your Wallet, Not Your Ad Blocker](http://practicaltypography.com/vote-with-your-wallet.html) - Paying for ad-free services casts a bigger vote.
+*   [Matrix](https://matrix.org/) - Open standard for decentralised, persistent, and interoperable communications. ([Apache License 2.0 (⭐11k)](https://github.com/matrix-org/synapse/blob/master/LICENSE))
 
-### Resources / Make Money Without Ads
+### Software / Web Applications
 
-*   [Flattr](https://flattr.com/) - Browser add-on that distributes a monthly budget to websites you engage with the most.
-*   [Liberapay](https://liberapay.com/) - Open source recurring donations platform.
-*   [OpenCollective](https://opencollective.com/) - Enables groups to set up a collective, raise funds, and manage them transparently.
-*   [Patreon](https://www.patreon.com/) - Recurring funding for artists and creators on either a monthly basis or per creation.
+*   [Weblate](https://weblate.org) - Translation management system with version control integration. ([GNU GPLv3 (⭐3.7k)](https://github.com/WeblateOrg/weblate/blob/master/COPYING))
 
 ## [38. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
@@ -686,13 +686,13 @@ Wifi pw: `fermento`
 
 ### Writing, running scripts / Third-party APIs
 
-*   👍 [Roswell (⭐1.6k)](https://github.com/roswell/roswell#scripting-with-roswell) -
+*   👍 [Roswell (⭐1.7k)](https://github.com/roswell/roswell#scripting-with-roswell) -
     a lisp installer and scripting environment (helper, launcher,
     installer) and more. [MIT](https://opensource.org/licenses/MIT).
 
 ### Plotting / Third-party APIs
 
-*   [vgplot (⭐44)](https://github.com/volkers/vgplot) - an interface to the
+*   [vgplot (⭐46)](https://github.com/volkers/vgplot) - an interface to the
     gnuplot plotting utility with the intention to resemble some of
     the plot commands of octave or matlab. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
@@ -721,14 +721,14 @@ Wifi pw: `fermento`
 
 ### Contents / Distributions
 
-*   [PostgreSql.Binaries.Lite (⭐28)](https://github.com/mihasic/PostgreSql.Binaries.Lite) - Minimum set of Windows binaries of the PostgreSQL database. Also made available through NuGet.
+*   [PostgreSql.Binaries.Lite (⭐29)](https://github.com/mihasic/PostgreSql.Binaries.Lite) - Minimum set of Windows binaries of the PostgreSQL database. Also made available through NuGet.
 
 ## [42. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Example Projects
 
 *   [Red Hat Single Sign-On Labs (⭐13)](https://github.com/RedHatWorkshops/red-hat-sso)
-*   [Spring Boot Keycloak Tutorial (⭐192)](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial)
+*   [Spring Boot Keycloak Tutorial (⭐197)](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial)
 
 ## [43. Inspire](/content/noahbuscher/inspire/week/README.md)
 

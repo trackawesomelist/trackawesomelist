@@ -10,7 +10,7 @@
 
 ### HTTP Clients
 
-*   [httplib2 (⭐462)](https://github.com/httplib2/httplib2) - Comprehensive HTTP client library.
+*   [httplib2 (⭐468)](https://github.com/httplib2/httplib2) - Comprehensive HTTP client library.
 
 ## [2. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Projection Mapping • VJing
 
-*   [VirtualMapper (⭐218)](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
+*   [VirtualMapper (⭐219)](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 

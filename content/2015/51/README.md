@@ -32,7 +32,7 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Web Hacking (⭐4.8k)](https://github.com/infoslack/awesome-web-hacking) - This list is for anyone wishing to learn about web application security but do not have a starting point.
+*   [Awesome Web Hacking (⭐5.1k)](https://github.com/infoslack/awesome-web-hacking) - This list is for anyone wishing to learn about web application security but do not have a starting point.
 
 ## [3. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -108,27 +108,27 @@
 ### Development / Frontend Development
 
 *   [strip-css-comments-cli (⭐36)](https://github.com/sindresorhus/strip-css-comments-cli) - Strip comments from CSS.
-*   [viewport-list-cli (⭐55)](https://github.com/kevva/viewport-list-cli) - Return a list of devices and their viewports.
+*   [viewport-list-cli (⭐56)](https://github.com/kevva/viewport-list-cli) - Return a list of devices and their viewports.
 
 ### Files and Directories / Deleting, Copying, and Renaming
 
 *   [trash-cli (⭐1.2k)](https://github.com/sindresorhus/trash-cli) - Move files and directories to the trash.
-*   [empty-trash-cli (⭐118)](https://github.com/sindresorhus/empty-trash-cli) - Empty the trash.
+*   [empty-trash-cli (⭐121)](https://github.com/sindresorhus/empty-trash-cli) - Empty the trash.
 
 ### Files and Directories / Directory Navigation
 
-*   [pm (⭐178)](https://github.com/Angelmmiguel/pm) - The easy way to switch to your projects on the shell.
+*   [pm (⭐184)](https://github.com/Angelmmiguel/pm) - The easy way to switch to your projects on the shell.
 *   [z (⭐15k)](https://github.com/rupa/z) - z is the new j, yo.
 
 ### Images / Gif Creation
 
-*   [gifsicle (⭐3.3k)](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations.
+*   [gifsicle (⭐3.4k)](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations.
 *   [ttygif (⭐3.8k)](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs.
-*   [ttygif (⭐261)](https://github.com/sugyan/ttygif) - ttyrec to gif.
+*   [ttygif (⭐263)](https://github.com/sugyan/ttygif) - ttyrec to gif.
 
 ### Graphics / Image Conversion
 
-*   [sparkly-cli (⭐125)](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
+*   [sparkly-cli (⭐129)](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
 
 ## [10. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -168,17 +168,17 @@
 
 ### Libs
 
-*   [Capcake](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano.
-*   [Chronos](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon).
+*   [Capcake (⭐114)](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano.
+*   [Chronos (⭐1.3k)](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon).
 *   [Composer Installers (⭐1.4k)](https://github.com/composer/installers) - A multi framework Composer library installer.
 *   [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
-*   [Graphviz (⭐70)](https://github.com/alexandresalome/graphviz) - A Graphviz library.
+*   [Graphviz (⭐71)](https://github.com/alexandresalome/graphviz) - A Graphviz library.
 *   [Rocketeer (⭐2.7k)](https://github.com/rocketeers/rocketeer) - PHP task runner and deployment package.
 
 ### Testing
 
-*   [CakePHP CodeSniffer rules](https://github.com/cakephp/cakephp-codesniffer) - The official CakePHP CS rules.
-*   [Faker plugin (⭐18)](https://github.com/gourmet/faker) - [Faker](https://github.com/fzaninotto/Faker) support for CakePHP fixtures.
+*   [CakePHP CodeSniffer rules (⭐238)](https://github.com/cakephp/cakephp-codesniffer) - The official CakePHP CS rules.
+*   [Faker plugin (⭐18)](https://github.com/gourmet/faker) - [Faker (⭐27k)](https://github.com/fzaninotto/Faker) support for CakePHP fixtures.
 
 ### Help
 
@@ -257,11 +257,11 @@ git update-index --no-assume-unchanged <file_name>
 
 ### Natural Language Processing / Data Analysis / Data Visualization
 
-*   [jieba-php (⭐1.2k)](https://github.com/fukuball/jieba-php) - Chinese Words Segmentation Utilities.
+*   [jieba-php (⭐1.3k)](https://github.com/fukuball/jieba-php) - Chinese Words Segmentation Utilities.
 
 ### Python / Computer Vision
 
-*   [Scikit-Image (⭐5.4k)](https://github.com/scikit-image/scikit-image) - A collection of algorithms for image processing in Python.
+*   [Scikit-Image (⭐5.6k)](https://github.com/scikit-image/scikit-image) - A collection of algorithms for image processing in Python.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
@@ -338,78 +338,35 @@ git update-index --no-assume-unchanged <file_name>
 
 *   [Rest for Haskell (⭐387)](https://github.com/silkapp/rest) - This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
 
-## [28. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
+## [28. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
-### 0 - 言語非依存 / グラフィックスプログラミング
+### Haxe / Spock Framework
 
-*   [仮想物理実験室構築のためのOpenGL, WebGL, GLSL入門](http://www.natural-science.or.jp/laboratory/opengl_intro.php) - 遠藤理平
+*   [HaxeFlixel Handbook](http://haxeflixel.com/documentation/haxeflixel-handbook/) (HTML)
 
-### 0 - 言語非依存 / その他の話題
+### iOS / Bootstrap
 
-*   [青木靖 翻訳集](http://www.aoky.net) - 青木靖
+*   [Start Developing iOS Apps Today (Objective-C) - Last updated 22.10.2013](http://everythingcomputerscience.com/books/RoadMapiOS.pdf) (PDF)
 
-### 0 - 言語非依存 / 正規表現
+### LaTeX / TeX / TeX
 
-*   [正規表現メモ](http://www.kt.rim.or.jp/~kbk/regex/regex.html) - 木村浩一
+*   [Notes On Programming in TeX](http://pgfplots.sourceforge.net/TeX-programming-notes.pdf) - Christian Feursänger (PDF)
+*   [TeX by Topic, A TeXnician's Reference](http://eijkhout.net/texbytopic/texbytopic.html) - Victor Eijkhout
 
-### Android / 理論計算機科学
+### Lisp / TeX
 
-*   [Android Open Text book (⭐255)](https://github.com/TechBooster/AndroidOpenTextbook) - TechBooster
-*   [Android アプリのセキュア設計・セキュアコーディングガイド](https://www.jssec.org/report/securecoding.html) - 一般社団法人日本スマートフォンセキュリティ協会(JSSEC)
+*   [Common Lisp Quick Reference](http://clqr.boundp.org)
+*   [Common Lisp the Language, 2nd Edition](http://www.cs.cmu.edu/Groups/AI/html/cltl/mirrors.html)
 
-### AppleScript / 理論計算機科学
+### Python / Constraint Logic Programming (extended Prolog)
 
-*   [AppleScript 言語ガイド(改訂版)](https://sites.google.com/site/zzaatrans/home/applescriptlangguide)
+*   [Learn Python, Break Python](http://learnpythonbreakpython.com)
+*   [Python 2 Official Documentation](https://docs.python.org/2/download.html) (PDF, HTML, TEXT) (2.x)
+*   [Python 3 Official Documentation](https://docs.python.org/3/download.html) (PDF, EPUB, HTML, TEXT) (3.x)
 
-### AWK / 理論計算機科学
+### Ruby / Sinatra
 
-*   [Effective AWK Programming](http://www.kt.rim.or.jp/~kbk/gawk-30/gawk_toc.html) - Arnold D. Robbins
-
-### C / 理論計算機科学
-
-*   [C言語](https://ja.wikibooks.org/wiki/C%E8%A8%80%E8%AA%9E) - Wikibooks
-
-### C++ / 理論計算機科学
-
-*   [C++11の文法と機能(C++11: Syntax and Feature)](https://ezoeryou.github.io/cpp-book/C++11-Syntax-and-Feature.xhtml) - 江添亮
-
-### Git / 理論計算機科学
-
-*   [デザイナのための Git (⭐227)](https://github.com/hatena/Git-for-Designers) - はてな教科書
-
-### JavaScript / Spock Framework
-
-*   [JavaScript 言語リファレンス](https://msdn.microsoft.com/ja-jp/library/d1et7k7c.aspx) - MSDN Library
-*   [Mozilla Developer Network 日本語ドキュメント](https://developer.mozilla.org/ja/docs/Web/JavaScript) - MDN
-
-### JavaScript / Node.js
-
-*   [node.js 怒濤の50サンプル!! – socket.io編 (⭐23)](https://github.com/omatoro/NodeSample) - omatoro
-
-### Mercurial / Svelte
-
-*   [Mercurial: The Definitive Guide](http://foozy.bitbucket.org/hgbook-ja/index.ja.html) - Bryan O'Sullivan, 藤原克則(翻訳)
-
-### Objective-C / Svelte
-
-*   [Google Objective-C スタイルガイド 日本語訳](http://www.textdrop.net/google-styleguide-ja/objcguide.xml) - Mike Pinkerton, Greg Miller, Dave MacLachlan, Takashi Sasai(翻訳)
-
-### PHP / Svelte
-
-*   [PHP によるデザインパターン入門](https://web.archive.org/web/20140703001758/http://www.doyouphp.jp/book/book_phpdp.shtml)
-
-### Python / Symfony
-
-*   [Dive Into Python 3 日本語版](http://diveintopython3-ja.rdy.jp) - Mark Pilgrim, Fukada(翻訳), Fujimoto(翻訳)
-
-### R / Flask
-
-*   [R-Tips](http://cse.naro.affrc.go.jp/takezawa/r-tips/r2.html) - 舟尾暢男
-
-### Scheme / Flask
-
-*   [Gauche プログラミング(立読み版)](https://web.archive.org/web/20140521224625/http://karetta.jp/book-cover/gauche-hacks) - 川合史朗(監修), Kahuaプロジェクト
-*   [Scheme 入門 スーパービギナー編](https://sites.google.com/site/atponslisp/home/scheme/racket/schemenyuumon-1/schemenyuumon)
+*   [Sinatra Book (⭐667)](https://github.com/sinatra/sinatra-book)
 
 ## [29. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -456,7 +413,7 @@ git update-index --no-assume-unchanged <file_name>
 
 ### Algorithms and Data structures
 
-*   [aruspex (⭐35)](https://github.com/dkendal/aruspex) - Aruspex is a configurable constraint solver, written purely in Elixir.
+*   [aruspex (⭐37)](https://github.com/dkendal/aruspex) - Aruspex is a configurable constraint solver, written purely in Elixir.
 
 ### Images
 
@@ -466,12 +423,12 @@ git update-index --no-assume-unchanged <file_name>
 
 ### Hypervisors
 
-*   [Docker (⭐23k)](https://github.com/veggiemonk/awesome-docker#cloud-infrastructure)\
+*   [Docker (⭐26k)](https://github.com/veggiemonk/awesome-docker#cloud-infrastructure)\
     An open platform for distributed applications for developers and sysadmins. **Standard de facto**.
 
 ### Sandboxes
 
-*   [NsJail (⭐2.2k)](https://github.com/google/nsjail)\
+*   [NsJail (⭐2.4k)](https://github.com/google/nsjail)\
     NsJail is a process isolation tool for Linux. It makes use of the namespacing, resource control, and seccomp-bpf syscall filter subsystems of the Linux kernel.
 
 ### Security / Tools
@@ -490,13 +447,13 @@ git update-index --no-assume-unchanged <file_name>
 
 ### Data Visualization
 
-*   [D3.compose (⭐699)](https://github.com/CSNW/d3.compose) - Compose complex, data-driven visualizations from reusable charts and components.
+*   [D3.compose (⭐698)](https://github.com/CSNW/d3.compose) - Compose complex, data-driven visualizations from reusable charts and components.
 
 ## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Alert / Barcode
 
-*   [GSMessage (⭐705)](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications for iOS 7+.
+*   [GSMessage (⭐708)](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications for iOS 7+.
 
 ---
 

@@ -10,11 +10,11 @@
 
 ### Bytecode Manipulation
 
-*   [Maker (⭐31)](https://github.com/cojen/maker) - Provides low level bytecode generation.
+*   [Maker (⭐40)](https://github.com/cojen/maker) - Provides low level bytecode generation.
 
 ### Testing / Asynchronous
 
-*   [WebTau (⭐282)](https://github.com/testingisdocumenting/webtau) - Test across REST-API, Graph QL, Browser, Database, CLI and Business Logic with consistent set of matchers and concepts.
+*   [WebTau (⭐345)](https://github.com/testingisdocumenting/webtau) - Test across REST-API, Graph QL, Browser, Database, CLI and Business Logic with consistent set of matchers and concepts.
 
 ## [2. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Table of Contents / Streaming Library
 
-*   [Quix Streams (⭐164)](https://github.com/quixio/quix-streams) \[Python] - a streaming library originally designed for the McLaren Formula 1 racing team that can process high volumes of time-series data with up to nanosecond precision using Apache Kafka as a message broker.
+*   [Quix Streams (⭐243)](https://github.com/quixio/quix-streams) \[Python] - a streaming library originally designed for the McLaren Formula 1 racing team that can process high volumes of time-series data with up to nanosecond precision using Apache Kafka as a message broker.
 
 ## [6. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
@@ -71,31 +71,31 @@
 
 ### Bot Building
 
-*   [bot (⭐98)](https://github.com/go-telegram/bot) - Zero-dependencies Telegram Bot library with additional UI components
+*   [bot (⭐200)](https://github.com/go-telegram/bot) - Zero-dependencies Telegram Bot library with additional UI components
 
 ### Build Automation
 
-*   [xc (⭐845)](https://github.com/joerdav/xc) - Task runner with README.md defined tasks, executable markdown.
+*   [xc (⭐902)](https://github.com/joerdav/xc) - Task runner with README.md defined tasks, executable markdown.
 
 ### Database Tools
 
-*   [onedump (⭐18)](https://github.com/liweiyi88/onedump) - Database backup from different drivers to different destinations with one command and configuration.
+*   [onedump (⭐23)](https://github.com/liweiyi88/onedump) - Database backup from different drivers to different destinations with one command and configuration.
 
 ### Error Handling
 
-*   [Fault (⭐125)](https://github.com/Southclaws/fault) - An ergonomic mechanism for wrapping errors in order to facilitate structured metadata and context for error values.
+*   [Fault (⭐137)](https://github.com/Southclaws/fault) - An ergonomic mechanism for wrapping errors in order to facilitate structured metadata and context for error values.
 
 ### Messaging
 
-*   [Watermill (⭐5.6k)](https://github.com/ThreeDotsLabs/watermill) - Working efficiently with message streams. Building event driven applications, enabling event sourcing, RPC over messages, sagas. Can use conventional pub/sub implementations like Kafka or RabbitMQ, but also HTTP or MySQL binlog.
+*   [Watermill (⭐6.2k)](https://github.com/ThreeDotsLabs/watermill) - Working efficiently with message streams. Building event driven applications, enabling event sourcing, RPC over messages, sagas. Can use conventional pub/sub implementations like Kafka or RabbitMQ, but also HTTP or MySQL binlog.
 
 ### Security
 
-*   [booster (⭐351)](https://github.com/anatol/booster) - Fast initramfs generator with full-disk encryption support.
+*   [booster (⭐395)](https://github.com/anatol/booster) - Fast initramfs generator with full-disk encryption support.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [hotswap (⭐223)](https://github.com/edwingeng/hotswap) - A complete solution to reload your go code without restarting your server, interrupting or blocking any ongoing procedure.
+*   [hotswap (⭐260)](https://github.com/edwingeng/hotswap) - A complete solution to reload your go code without restarting your server, interrupting or blocking any ongoing procedure.
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 
@@ -105,7 +105,7 @@
 
 ### Software / Booking and Scheduling
 
-*   [QloApps](https://qloapps.com/) - An open-source, customizable and intuitive web-based hotel reservation system and a booking engine. ([Demo](https://demo.qloapps.com/), [Source Code (⭐859)](https://github.com/webkul/hotelcommerce)) `OSL-3.0` `PHP`
+*   [QloApps](https://qloapps.com/) - An open-source, customizable and intuitive web-based hotel reservation system and a booking engine. ([Demo](https://demo.qloapps.com/), [Source Code (⭐2.7k)](https://github.com/webkul/hotelcommerce)) `OSL-3.0` `PHP/Nodejs`
 
 ### List of Licenses / Wikis
 
@@ -115,27 +115,27 @@
 
 ### BaaS
 
-*   [Activepieces](https://www.activepieces.com) - Build automation flows to connect several apps together in the backend of your app. For example, when an event fires in your app, send a Slack message or add a Google Sheet row. Free up to 5,000 tasks per month.
+*   [Activepieces](https://www.activepieces.com) - Build automation flows to connect several apps together in your app's backend. For example, send a Slack message or add a Google Sheet row when an event fires in your app. Free up to 5,000 tasks per month.
 
 ## [11. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Audio Libraries
 
-*   [audioFlux (⭐1.6k)](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
+*   [audioFlux (⭐1.9k)](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 
 ## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [embark-theme/vim (⭐552)](https://github.com/embark-theme/vim) - A deep inky purple theme leveraging bright colors.
+*   [embark-theme/vim (⭐588)](https://github.com/embark-theme/vim) - A deep inky purple theme leveraging bright colors.
 
 ### Bars and Lines / Diagnostics
 
-*   [m4xshen/smartcolumn.nvim (⭐139)](https://github.com/m4xshen/smartcolumn.nvim) - Hide your colorcolumn when unneeded.
+*   [m4xshen/smartcolumn.nvim (⭐180)](https://github.com/m4xshen/smartcolumn.nvim) - Hide your colorcolumn when unneeded.
 
 ### Utility / Diagnostics
 
-*   [yaocccc/nvim-foldsign (⭐25)](https://github.com/yaocccc/nvim-foldsign) - Display folds on sign column.
+*   [yaocccc/nvim-foldsign (⭐31)](https://github.com/yaocccc/nvim-foldsign) - Display folds on sign column.
 
 ## [13. Awesome Pleb Projects](/content/quilloughbee/awesome-pleb-projects/README.md)
 

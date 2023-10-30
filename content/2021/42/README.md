@@ -57,8 +57,8 @@
 
 ### Examples
 
-*   [alichtman/shallow-backup (⭐1k)](https://github.com/alichtman/shallow-backup#readme) - Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
-*   [aregtech/areg-sdk (⭐85)](https://github.com/aregtech/areg-sdk#readme) - Description of the project and use cases with explanation graphics. Build with multiple tools and integration instructions, reference to the guidance to create the first project. Examples. Project logo. Multiple badges. Headlines with graphics. TOC for easy navigation.
+*   [alichtman/shallow-backup (⭐1.1k)](https://github.com/alichtman/shallow-backup#readme) - Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
+*   [aregtech/areg-sdk (⭐150)](https://github.com/aregtech/areg-sdk#readme) - Logo. Multiple info and statistics badges. List of contributors and stargazers with pictures. TOC and "Back to top" links for easy navigation. Headlines with graphics. Topic hide/show menu. Project description and philosophy. Clone and integration instructions. Quick build with multiple tools. Tools configuration instructions. Reference to examples and Demo projects. Reference to use cases. References to guidance and Wiki pages. Links with badges to contact. Links with badges to share project in social network.
 
 ## [5. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -83,16 +83,15 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Line Collider 2D (⭐5)](https://github.com/Kylogias/godot-line-collider-2d) - A script which adds colliders that follow an array of Line2Ds (useful for prototypes).
+*   [Line Collider 2D (⭐7)](https://github.com/Kylogias/godot-line-collider-2d) - A script which adds colliders that follow an array of Line2Ds (useful for prototypes).
 
 ## [8. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### UI Libraries, Components & Templates
 
 *   📚 [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
-*   📚 [tails-ui (⭐189)](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
-*   📚 [tails (⭐29)](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
-*   🧩 [Material Tailwind](https://material-tailwind.com/) - Easy to use components library for Tailwind CSS and Material Design.
+*   📚 [tails-ui (⭐194)](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
+*   📚 [tails (⭐34)](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
 *   📁 [Vue Notus](https://www.creative-tim.com/product/vue-notus) - Open-source Tailwind CSS and Vue.js UI kit.
 *   📁 [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.
 *   📁 [Material Tailwind Kit React](https://www.creative-tim.com/product/material-tailwind-kit-react) - Free Tailwind CSS and React UI kit.
@@ -102,27 +101,27 @@
 
 ### JavaScript Engines
 
-*   [YantraJS (⭐103)](https://github.com/yantrajs/yantra) - JavaScript Runtime (Similar to NodeJS) for .NET Standard, compiles JavaScript to IL, support for many ES6 features, generators, CommonJS modules, CSX modules and expression compiler.
+*   [YantraJS (⭐131)](https://github.com/yantrajs/yantra) - JavaScript Runtime (Similar to NodeJS) for .NET Standard, compiles JavaScript to IL, support for many ES6 features, generators, CommonJS modules, CSX modules and expression compiler.
 
 ### Mathematics
 
-*   [WPF-Math (⭐509)](https://github.com/ForNeVeR/wpf-math) - a .NET library for rendering mathematical formulae using the LaTeX typesetting style, for the WPF framework
+*   [WPF-Math (⭐567)](https://github.com/ForNeVeR/wpf-math) - a .NET library for rendering mathematical formulae using the LaTeX typesetting style, for the WPF framework
 
 ### Misc
 
-*   [Build Versioning (⭐47)](https://github.com/TurnerSoftware/BuildVersioning) - Simple build versioning for .NET, powered by Git tags
+*   [Build Versioning (⭐52)](https://github.com/TurnerSoftware/BuildVersioning) - Simple build versioning for .NET, powered by Git tags
 
 ### Office
 
-*   [Toxy (⭐311)](https://github.com/nissl-lab/toxy) - .NET text extraction framework supports a few file formats
+*   [Toxy (⭐328)](https://github.com/nissl-lab/toxy) - .NET text extraction framework supports a few file formats
 
 ### ORM
 
-*   [SqlSugar (⭐4.4k)](https://github.com/donet5/SqlSugar) - Another ORM library supports many RDBMS including MySql, SqlServer, Sqlite, Oracle, Postgresql
+*   [SqlSugar (⭐4.6k)](https://github.com/donet5/SqlSugar) - Another ORM library supports many RDBMS including MySql, SqlServer, Sqlite, Oracle, Postgresql
 
 ### Testing
 
-*   [NBomber (⭐1.8k)](https://github.com/PragmaticFlow/NBomber) - Very simple load testing framework for Pull and Push scenarios. It's 100% written in F# and targeting .NET Core and full .NET Framework.
+*   [NBomber (⭐1.9k)](https://github.com/PragmaticFlow/NBomber) - Very simple load testing framework for Pull and Push scenarios. It's 100% written in F# and targeting .NET Core and full .NET Framework.
 
 ## [10. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
@@ -144,7 +143,7 @@
 
 ### Adapters / Server-side
 
-*   [Oak (Deno) (⭐6)](https://github.com/jcs224/oak_inertia)
+*   [Oak (Deno) (⭐8)](https://github.com/jcs224/oak_inertia)
 
 ## [13. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -157,7 +156,7 @@
 
 ### Communications / LoRaWAN
 
-*   [u-lora (⭐42)](https://github.com/martynwheeler/u-lora) - Raspi-lora for MicroPython.
+*   [u-lora (⭐46)](https://github.com/martynwheeler/u-lora) - Raspi-lora for MicroPython.
 
 ### Display / E-Paper
 
@@ -165,11 +164,11 @@
 
 ### IO / Potentiometers
 
-*   [mcp4131 (⭐2)](https://github.com/scruss/mcp4131) - MicroPython module to control MicroChip's MCP4131 SPI digital potentiometer.
+*   [mcp4131 (⭐3)](https://github.com/scruss/mcp4131) - MicroPython module to control MicroChip's MCP4131 SPI digital potentiometer.
 
 ### Sensors / Motion Inertial
 
-*   [micropython-bno055 (⭐35)](https://github.com/micropython-IMU/micropython-bno055) - Bosch BNO055 driver for MicroPython. IMU with hardware sensor fusion.
+*   [micropython-bno055 (⭐37)](https://github.com/micropython-IMU/micropython-bno055) - Bosch BNO055 driver for MicroPython. IMU with hardware sensor fusion.
 
 ## [15. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
@@ -193,7 +192,7 @@
 
 ### File Management and Sharing
 
-*   [Sharik (⭐953)](https://github.com/marchellodev/sharik) - Sharik works with Wi-Fi connection or Tethering (Wi-Fi Hotspot). No internet connection needed. Available for Android, iOS, Linux, MacOS & Windows.
+*   [Sharik (⭐1k)](https://github.com/marchellodev/sharik) - Sharik works with Wi-Fi connection or Tethering (Wi-Fi Hotspot). No internet connection needed. Available for Android, iOS, Linux, MacOS & Windows.
 
 ## [19. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
@@ -298,21 +297,17 @@
 
 ## [25. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [ipaddress.sh](https://ipaddress.sh) — Simple service to get public IP address in different [formats](https://about.ipaddress.sh/).
+*   [ipaddress.sh](https://ipaddress.sh) — Simple service to get a public IP address in different [formats](https://about.ipaddress.sh/).
 
-### Tools for Teams and Collaboration
-
-*   [vspace](https://vvv.space/) — Free links manager with private/public spaces, includes slack and google docs integration and chrome plugin.
-
-### DBaaS
+### Managed Data Services
 
 *   [cockroachlabs.com](https://www.cockroachlabs.com/free-tier/) — Free CockroachDB up to 5GB and 1vCPU (limited [request units](https://www.cockroachlabs.com/docs/cockroachcloud/serverless-faqs.html#what-are-the-usage-limits-of-cockroachdb-serverless-beta))
 
 ### Issue Tracking and Project Management
 
-*   [Toggl](https://toggl.com/) — Provides 2 free productivity tools. [Toggl Track](https://toggl.com/track/) for time management and tracking app with a free plan provides seamless time tracking and reporting designed for freelancers in mind. It has unlimited tracking records, projects, clients, tags, reporting and more. And [Toggl Plan](https://toggl.com/plan/) for task planning that comes with a free plan for solo developers with unlimited tasks, milestones and timelines.
+*   [Toggl](https://toggl.com/) — Provides two free productivity tools. [Toggl Track](https://toggl.com/track/) for time management and tracking app with a free plan provides seamless time tracking and reporting designed with freelancers in mind. It has unlimited tracking records, projects, clients, tags, reporting, and more. And [Toggl Plan](https://toggl.com/plan/) for task planning with a free plan for solo developers with unlimited tasks, milestones, and timelines.
 
 ### Analytics, Events and Statistics
 
@@ -320,13 +315,13 @@
 
 ### Docker Related
 
-*   [Platform9](https://platform9.com/) - Managed Kubernetes plane. Free plan offers management capabilities up to 3 clusters & 20 nodes. Note: you must provide cluster infrastructure by yourself.
+*   [Platform9](https://platform9.com/) - Managed Kubernetes plane. The free plan offers management capabilities for up to 3 clusters & 20 nodes. Just so you know, you must provide cluster infrastructure by yourself.
 
-## [26. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [26. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
-### Tools / Reverse Engineering
+### Tools / Other
 
-*   [Decompiler.com](https://www.decompiler.com/) - Online APK and Java decompiler
+*   [Decompiler.com](https://www.decompiler.com/) - Java, Android, Python, C# online decompiler.
 
 ## [27. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
@@ -344,13 +339,13 @@
 
 ### validation
 
-*   [check-geojson (⭐50)](https://github.com/placemark/check-geojson): alternative to geojsonhint
+*   [check-geojson (⭐55)](https://github.com/placemark/check-geojson): alternative to geojsonhint
 
 ## [30. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### ScrollView
 
-*   [SpreadsheetView (⭐3.4k)](https://github.com/bannzai/SpreadsheetView) - Full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, Gantt chart or timetable as if you are using Excel.
+*   [SpreadsheetView (⭐3.5k)](https://github.com/bannzai/SpreadsheetView) - Full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, Gantt chart or timetable as if you are using Excel.
 
 ## [31. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
@@ -365,13 +360,9 @@
 
 ## [32. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
-### Software / Media Streaming - Audio Streaming
-
-*   [euterpe](https://listen-to-euterpe.eu) - Self-hosted music streaming server with RESTful API and Web interface. ([Demo](https://listen-to-euterpe.eu/demo), [Source Code (⭐477)](https://github.com/ironsmile/euterpe)) `GPL-3.0` `Go`
-
 ### Software / Media Streaming - Multimedia Streaming
 
-*   [SheetAble](https://sheetable.net) - Self-hosted music sheet organizing software for all music enthusiasts. Upload and organize your sheets for any kind of instrument. ([Source Code (⭐222)](https://github.com/SheetAble/SheetAble)) `AGPL-3.0` `Go`
+*   [SheetAble](https://sheetable.net) - Self-hosted music sheet organizing software for all music enthusiasts. Upload and organize your sheets for any kind of instrument. ([Source Code (⭐253)](https://github.com/SheetAble/SheetAble)) `AGPL-3.0` `Docker/Go`
 
 ## [33. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
 
@@ -383,7 +374,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐7.7k)](https://github.com/adobe/react-spectrum)
+  Source code \*: [:octocat: (⭐9.4k)](https://github.com/adobe/react-spectrum)
 
 
 - : [Alibaba Ant Design](https://ant.design)
@@ -394,7 +385,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐83k)](https://github.com/ant-design/ant-design/)
+  Source code \*: [:octocat: (⭐87k)](https://github.com/ant-design/ant-design/)
 
 
 - : [Appear Here Styleguide](https://bloom.appearhere.co.uk/)
@@ -405,7 +396,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐51)](https://github.com/appearhere/bloom)
+  Source code \*: [:octocat: (⭐52)](https://github.com/appearhere/bloom)
 
 
 - : [Apple Developer Design Guidelines](https://developer.apple.com/design/)
@@ -427,7 +418,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐339)](https://github.com/aragon/ui)
+  Source code \*: [:octocat: (⭐342)](https://github.com/aragon/ui)
 
 
 - : [Artsy Palette](https://palette.artsy.net/)
@@ -438,7 +429,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐195)](https://github.com/artsy/palette)
+  Source code \*: [:octocat: (⭐206)](https://github.com/artsy/palette)
 
 
 - : [Astro UXDS](https://astrouxds.com/)
@@ -449,7 +440,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐21)](https://github.com/RocketCommunicationsInc/astro-components)
+  Source code \*: [:octocat: (⭐24)](https://github.com/RocketCommunicationsInc/astro-components)
 
 
 - : [AT UIKIT](https://at-ui.github.io/at-ui/#/en)
@@ -482,7 +473,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐281)](https://github.com/audi/audi-ui)
+  Source code \*: [:octocat: (⭐293)](https://github.com/audi/audi-ui)
 
 
 - : [Aurora (Government of Canada)](https://design.gccollab.ca/)
@@ -493,7 +484,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐86)](https://github.com/gctools-outilsgc/design-system)
+  Source code \*: [:octocat: (⭐88)](https://github.com/gctools-outilsgc/design-system)
 
 
 - : [AutoGuru Overdrive](http://overdrive.autoguru.io/)
@@ -504,7 +495,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐40)](https://github.com/autoguru-au/overdrive)
+  Source code \*: [:octocat: (⭐42)](https://github.com/autoguru-au/overdrive)
 
 
 - : [Backpack (Skyscanner)](https://skyscanner.design/)
@@ -515,7 +506,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐445)](https://github.com/skyscanner/backpack)
+  Source code \*: [:octocat: (⭐472)](https://github.com/skyscanner/backpack)
 
 
 - : [Barnardo’s Design System](https://design-system.barnardos.org.uk)
@@ -559,7 +550,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐19k)](https://github.com/palantir/blueprint)
+  Source code \*: [:octocat: (⭐20k)](https://github.com/palantir/blueprint)
 
 
 - : [Braid Design System](https://seek-oss.github.io/braid-design-system/)
@@ -570,7 +561,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐1.3k)](https://github.com/seek-oss/braid-design-system)
+  Source code \*: [:octocat: (⭐1.4k)](https://github.com/seek-oss/braid-design-system)
 
 
 - : [British Gas Nucleus](https://britishgas.design/)
@@ -617,7 +608,7 @@
   Source code \*: [:octocat: (⭐1k)](https://github.com/bumbag/bumbag-ui)
 
 
-- : [Cards Binary Design (⭐68)](https://github.com/opensource-cards/binary-ui)
+- : [Cards Binary Design](https://github.com/opensource-cards/binary-ui)
 
   Components: 👍
 
@@ -625,7 +616,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐68)](https://github.com/opensource-cards/binary-ui)
+  Source code \*: [:octocat:](https://github.com/opensource-cards/binary-ui)
 
 
 - : [CBRE Blocks](https://blocks.cbrebuild.com/)
@@ -647,7 +638,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐1)](https://github.com/rei/rei-cedar)
+  Source code \*: [:octocat: (⭐9)](https://github.com/rei/rei-cedar)
 
 
 - : [censhare Zen](https://design.censhare.com/)
@@ -669,7 +660,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐30k)](https://github.com/chakra-ui/chakra-ui)
+  Source code \*: [:octocat: (⭐34k)](https://github.com/chakra-ui/chakra-ui)
 
 
 - : [Co-op Design Manual](https://coop-design-manual.herokuapp.com/)
@@ -680,7 +671,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐4)](https://github.com/coopdigital/design-system)
+  Source code \*: [:octocat:](https://github.com/coopdigital/design-system)
 
 
 - : [Contentful Forma 36](https://f36.contentful.com/)
@@ -691,7 +682,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐263)](https://github.com/contentful/forma-36)
+  Source code \*: [:octocat: (⭐310)](https://github.com/contentful/forma-36)
 
 
 - : [Decathlon Design System - Vitamin](https://decathlon.design/)
@@ -702,7 +693,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐201)](https://github.com/decathlon/vitamin-web)
+  Source code \*: [:octocat: (⭐252)](https://github.com/decathlon/vitamin-web)
 
 
 - : [Decentraland UI](https://ui.decentraland.org/)
@@ -713,7 +704,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐180)](https://github.com/decentraland/ui)
+  Source code \*: [:octocat: (⭐188)](https://github.com/decentraland/ui)
 
 
 - : [Duet](https://www.duetds.com)
@@ -779,7 +770,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐31)](https://github.com/lessmess-dev/figma-ui-components)
+  Source code \*: [:octocat: (⭐33)](https://github.com/lessmess-dev/figma-ui-components)
 
 
 - : [Financial Times Origami](https://origami.ft.com/)
@@ -790,7 +781,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐26)](https://github.com/Financial-Times/origami)
+  Source code \*: [:octocat: (⭐35)](https://github.com/Financial-Times/origami)
 
 
 - : [Finastra Design System](https://design.fusionfabric.cloud/)
@@ -801,7 +792,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐94)](https://github.com/fusionfabric/finastra-design-system)
+  Source code \*: [:octocat: (⭐110)](https://github.com/fusionfabric/finastra-design-system)
 
 
 - : [Finland Toolbox](https://toolbox.finland.fi/)
@@ -823,7 +814,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐264)](https://github.com/FirefoxUX/photon)
+  Source code \*: [:octocat: (⭐271)](https://github.com/FirefoxUX/photon)
 
 
 - : [Fish Tank Design System](https://fishtank.bna.com/)
@@ -900,7 +891,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐987)](https://github.com/material-components/material-components)
+  Source code \*: [:octocat: (⭐1k)](https://github.com/material-components/material-components)
 
 
 - : [GOV.UK Design System](https://www.gov.uk/design-system)
@@ -911,7 +902,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐344)](https://github.com/alphagov/govuk-design-system)
+  Source code \*: [:octocat: (⭐399)](https://github.com/alphagov/govuk-design-system)
 
 
 - : [Gympass Yoga](https://gympass.github.io/yoga/)
@@ -922,7 +913,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐195)](https://github.com/gympass/yoga)
+  Source code \*: [:octocat: (⭐209)](https://github.com/gympass/yoga)
 
 
 - : [Halstack](https://developer.dxc.com/design/guidelines/principles/overview)
@@ -944,7 +935,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐34)](https://github.com/helpscout/seed-framework)
+  Source code \*: [:octocat: (⭐35)](https://github.com/helpscout/seed-framework)
 
 
 - : [Heroku Purple3](https://design.herokai.com/)
@@ -966,7 +957,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐8.1k)](https://github.com/grommet/grommet)
+  Source code \*: [:octocat: (⭐8.2k)](https://github.com/grommet/grommet)
 
 
 - : [HubSpot Canvas](https://canvas.hubspot.com/)
@@ -977,7 +968,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐28)](https://github.com/HubSpot/canvas)
+  Source code \*: [:octocat: (⭐29)](https://github.com/HubSpot/canvas)
 
 
 - : [Hudl Design System](https://uniform.hudl.com/)
@@ -999,7 +990,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐6.2k)](https://github.com/ibm/carbon-components)
+  Source code \*: [:octocat: (⭐7k)](https://github.com/ibm/carbon-components)
 
 
 - : [IBM Design Language](https://www.ibm.com/design/language/)
@@ -1043,7 +1034,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐3.4k)](https://github.com/JetBrains/ring-ui)
+  Source code \*: [:octocat: (⭐3.5k)](https://github.com/JetBrains/ring-ui)
 
 
 - : [Kalo UI](https://kalo.design)
@@ -1054,7 +1045,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐24)](https://github.com/kalohq/ui)
+  Source code \*: [:octocat: (⭐26)](https://github.com/kalohq/ui)
 
 
 - : [Kiwi.com Orbit](https://orbit.kiwi)
@@ -1076,7 +1067,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐232)](https://github.com/skbkontur/retail-ui/)
+  Source code \*: [:octocat: (⭐239)](https://github.com/skbkontur/retail-ui/)
 
 
 - : [Latitude](https://www.flexport.com/design)
@@ -1087,7 +1078,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐21)](https://github.com/flexport/latitude/)
+  Source code \*: [:octocat: (⭐22)](https://github.com/flexport/latitude/)
 
 
 - : [Lexicon](https://lexicondesign.io/)
@@ -1142,7 +1133,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐16k)](https://github.com/mantinedev/mantine)
+  Source code \*: [:octocat: (⭐21k)](https://github.com/mantinedev/mantine)
 
 
 - : [Marvel Styleguide](https://marvelapp.com/styleguide)
@@ -1164,7 +1155,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐21)](https://github.com/meetup/swarm-design-system/)
+  Source code \*: [:octocat: (⭐20)](https://github.com/meetup/swarm-design-system/)
 
 
 - : [Mesh Design System](https://www.meshdesignsystem.com/)
@@ -1197,7 +1188,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐14k)](https://github.com/microsoft/fluentui)
+  Source code \*: [:octocat: (⭐16k)](https://github.com/microsoft/fluentui)
 
 
 - : [Mixpanel Design System](https://design.mixpanel.com)
@@ -1219,7 +1210,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐23)](https://github.com/mongodb/design)
+  Source code \*: [:octocat: (⭐28)](https://github.com/mongodb/design)
 
 
 - : [Monzo Tone of Voice](https://monzo.com/tone-of-voice/)
@@ -1252,7 +1243,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐235)](https://github.com/mozilla/protocol)
+  Source code \*: [:octocat: (⭐245)](https://github.com/mozilla/protocol)
 
 
 - : [NASA Web Design System](https://nasa.github.io/nasawds-site/)
@@ -1263,7 +1254,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐82)](https://github.com/nasa/nasawds)
+  Source code \*: [:octocat: (⭐94)](https://github.com/nasa/nasawds)
 
 
 - : [NationBuilder Radius](https://www.nationbuilder.design/)
@@ -1296,7 +1287,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐92)](https://github.com/okta/odyssey)
+  Source code \*: [:octocat: (⭐94)](https://github.com/okta/odyssey)
 
 
 - : [Opattern](https://ux.opower.com/opattern)
@@ -1340,7 +1331,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐62)](https://github.com/ithaka/pharos)
+  Source code \*: [:octocat: (⭐84)](https://github.com/ithaka/pharos)
 
 
 - : [Pinterest Gestalt](https://pinterest.github.io/gestalt/#/)
@@ -1351,7 +1342,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐4k)](https://github.com/pinterest/gestalt)
+  Source code \*: [:octocat: (⭐4.1k)](https://github.com/pinterest/gestalt)
 
 
 - : [Pivotal](https://styleguide.pivotal.io/)
@@ -1362,7 +1353,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐640)](https://github.com/pivotal-cf/pivotal-ui)
+  Source code \*: [:octocat: (⭐639)](https://github.com/pivotal-cf/pivotal-ui)
 
 
 - : [Pluralsight Design System](https://design-system.pluralsight.com/)
@@ -1373,7 +1364,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐293)](https://github.com/pluralsight/design-system)
+  Source code \*: [:octocat: (⭐297)](https://github.com/pluralsight/design-system)
 
 
 - : [Priceline Design System](https://priceline.github.io/design-system/)
@@ -1384,7 +1375,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐683)](https://github.com/priceline/design-system)
+  Source code \*: [:octocat: (⭐714)](https://github.com/priceline/design-system)
 
 
 - : [Pulse Design System](https://pulse.heartbeat.ua/)
@@ -1395,7 +1386,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐114)](https://github.com/heartbeatua/Pulse-Boilerplate)
+  Source code \*: [:octocat: (⭐115)](https://github.com/heartbeatua/Pulse-Boilerplate)
 
 
 - : [Pusher Chameleon](https://pusher.github.io/chameleon/)
@@ -1417,7 +1408,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐1.7k)](https://github.com/modulz/radix)
+  Source code \*: [:octocat: (⭐2.1k)](https://github.com/modulz/radix)
 
 
 - : [Rambler](https://rambler-digital-solutions.github.io/rambler-ui/)
@@ -1428,7 +1419,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐187)](https://github.com/rambler-digital-solutions/rambler-ui)
+  Source code \*: [:octocat: (⭐189)](https://github.com/rambler-digital-solutions/rambler-ui)
 
 
 - : [Rendition](https://balena-io-modules.github.io/rendition/)
@@ -1439,7 +1430,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐206)](https://github.com/balena-io-modules/rendition/)
+  Source code \*: [:octocat: (⭐213)](https://github.com/balena-io-modules/rendition/)
 
 
 - : [Salesforce Lightning Design System](https://www.lightningdesignsystem.com)
@@ -1450,7 +1441,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐3.3k)](https://github.com/salesforce-ux/design-system)
+  Source code \*: [:octocat: (⭐3.5k)](https://github.com/salesforce-ux/design-system)
 
 
 - : [SAP Fiori](https://experience.sap.com/fiori-design/)
@@ -1464,7 +1455,7 @@
   Source code \*: 
 
 
-- : [SAP Fundamental (⭐258)](https://github.com/SAP/fundamental)
+- : [SAP Fundamental (⭐266)](https://github.com/SAP/fundamental)
 
   Components: 👍
 
@@ -1472,10 +1463,10 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐258)](https://github.com/SAP/fundamental)
+  Source code \*: [:octocat: (⭐266)](https://github.com/SAP/fundamental)
 
 
-- : [SAP OpenUI (⭐2.7k)](https://github.com/SAP/openui5)
+- : [SAP OpenUI (⭐2.8k)](https://github.com/SAP/openui5)
 
   Components: 👍
 
@@ -1483,7 +1474,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐2.7k)](https://github.com/SAP/openui5)
+  Source code \*: [:octocat: (⭐2.8k)](https://github.com/SAP/openui5)
 
 
 - : [Seeds](https://sproutsocial.com/seeds)
@@ -1516,7 +1507,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐84)](https://github.com/semrush/intergalactic)
+  Source code \*: [:octocat: (⭐112)](https://github.com/semrush/intergalactic)
 
 
 - : [Shopify Polaris](https://polaris.shopify.com)
@@ -1527,7 +1518,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐5.1k)](https://github.com/Shopify/polaris)
+  Source code \*: [:octocat: (⭐5.4k)](https://github.com/Shopify/polaris)
 
 
 - : [Stacks – Stack Overflow](https://stackoverflow.design/)
@@ -1538,7 +1529,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐522)](https://github.com/StackExchange/Stacks)
+  Source code \*: [:octocat: (⭐567)](https://github.com/StackExchange/Stacks)
 
 
 - : [Starbucks Style Guide](https://www.starbucks.com/static/reference/styleguide/)
@@ -1571,7 +1562,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐8)](https://github.com/Telefonica/mistica)
+  Source code \*: [:octocat: (⭐14)](https://github.com/Telefonica/mistica)
 
 
 - : [Thumbprint](https://thumbprint.design/)
@@ -1582,7 +1573,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐191)](https://github.com/thumbtack/thumbprint)
+  Source code \*: [:octocat: (⭐194)](https://github.com/thumbtack/thumbprint)
 
 
 - : [Tizen CircularUI](https://developer.samsung.com/one-ui-watch-tizen)
@@ -1593,7 +1584,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐80)](https://github.com/Samsung/Tizen.CircularUI)
+  Source code \*: [:octocat: (⭐81)](https://github.com/Samsung/Tizen.CircularUI)
 
 
 - : [Twilio Paste](https://paste.twilio.design/)
@@ -1604,7 +1595,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐325)](https://github.com/twilio-labs/paste)
+  Source code \*: [:octocat: (⭐381)](https://github.com/twilio-labs/paste)
 
 
 - : [Uber's Base Web](https://baseweb.design/)
@@ -1615,7 +1606,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐8.1k)](https://github.com/uber-web/baseui)
+  Source code \*: [:octocat: (⭐8.4k)](https://github.com/uber-web/baseui)
 
 
 - : [Ubuntu Vanilla framework](https://vanillaframework.io/)
@@ -1626,7 +1617,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐647)](https://github.com/canonical-web-and-design/vanilla-framework)
+  Source code \*: [:octocat: (⭐719)](https://github.com/canonical-web-and-design/vanilla-framework)
 
 
 - : [USPTO UI Design Library](https://uspto.github.io/designpatterns/index.html)
@@ -1637,7 +1628,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐238)](https://github.com/uspto/designpatterns)
+  Source code \*: [:octocat: (⭐244)](https://github.com/uspto/designpatterns)
 
 
 - : [uSwitch style guide](https://ustyle.guide/)
@@ -1648,7 +1639,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐18)](https://github.com/uswitch/ustyle)
+  Source code \*: [:octocat: (⭐19)](https://github.com/uswitch/ustyle)
 
 
 - : [U.S. Web Design Standards](https://designsystem.digital.gov/)
@@ -1659,7 +1650,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐6.3k)](https://github.com/uswds/uswds)
+  Source code \*: [:octocat: (⭐6.4k)](https://github.com/uswds/uswds)
 
 
 - : [U.S. CMS.gov Design System](https://design.cms.gov/)
@@ -1681,7 +1672,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐162)](https://github.com/vtex/styleguide)
+  Source code \*: [:octocat: (⭐163)](https://github.com/vtex/styleguide)
 
 
 - : [Vue Design System](https://vueds.com/)
@@ -1692,7 +1683,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐2.1k)](https://github.com/viljamis/vue-design-system)
+  Source code \*: [:octocat: (⭐2.2k)](https://github.com/viljamis/vue-design-system)
 
 
 - : [Ray by WeWork](https://ray.wework.com)
@@ -1703,7 +1694,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐55)](https://github.com/wework/ray)
+  Source code \*: [:octocat: (⭐54)](https://github.com/wework/ray)
 
 
 - : [Welcome UI](http://www.welcome-ui.com/)
@@ -1714,7 +1705,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐488)](https://github.com/WTTJ/welcome-ui)
+  Source code \*: [:octocat: (⭐562)](https://github.com/WTTJ/welcome-ui)
 
 
 - : [West Midlands Network Design System](https://designsystem.wmnetwork.co.uk/)
@@ -1725,7 +1716,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐2)](https://github.com/wmcadigital/wmn-design-system)
+  Source code \*: [:octocat: (⭐5)](https://github.com/wmcadigital/wmn-design-system)
 
 
 - : [Vercel](https://vercel.com/design)
@@ -1747,7 +1738,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐256)](https://github.com/Workday/canvas-kit)
+  Source code \*: [:octocat: (⭐280)](https://github.com/Workday/canvas-kit)
 
 
 - : [Yelp Styleguide](https://www.yelp.com/styleguide)
@@ -1775,7 +1766,7 @@
 
 ## [34. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
 *   [tfmigrator (⭐35)](https://github.com/tfmigrator/cli) - Go library and CLI to migrate Terraform Configuration and State
 
@@ -1809,15 +1800,15 @@
 
 ### (requires Neovim 0.5)
 
-*   [mfussenegger/nvim-lint (⭐559)](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin, complementary to the built-in Language Server Protocol support.
+*   [mfussenegger/nvim-lint (⭐1.1k)](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin, complementary to the built-in Language Server Protocol support.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [olimorris/onedarkpro.nvim (⭐505)](https://github.com/olimorris/onedarkpro.nvim) - One Dark Pro theme, written in Lua and based on the VS Code theme. Includes dark and light themes with completely customisable colors, styles and highlights.
+*   [olimorris/onedarkpro.nvim (⭐578)](https://github.com/olimorris/onedarkpro.nvim) - One Dark Pro theme, written in Lua and based on the VS Code theme. Includes dark and light themes with completely customisable colors, styles and highlights.
 
 ### Command Line / Diagnostics
 
-*   [gelguy/wilder.nvim (⭐1k)](https://github.com/gelguy/wilder.nvim) - A plugin for fuzzy command line autocompletion.
+*   [gelguy/wilder.nvim (⭐1.1k)](https://github.com/gelguy/wilder.nvim) - A plugin for fuzzy command line autocompletion.
 
 ## [39. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/week/README.md)
 
@@ -1835,8 +1826,8 @@
 
 ### Rust / General-Purpose Machine Learning
 
-*   [smartcore (⭐504)](https://github.com/smartcorelib/smartcore) - "The Most Advanced Machine Learning Library In Rust."
-*   [linfa (⭐2.6k)](https://github.com/rust-ml/linfa) - a comprehensive toolkit to build Machine Learning applications with Rust
+*   [smartcore (⭐571)](https://github.com/smartcorelib/smartcore) - "The Most Advanced Machine Learning Library In Rust."
+*   [linfa (⭐2.9k)](https://github.com/rust-ml/linfa) - a comprehensive toolkit to build Machine Learning applications with Rust
 
 ## [42. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -1848,9 +1839,8 @@
 
 ### Resources / Packages
 
-*   [svelte-monetization](https://github.com/wobsoriano/svelte-monetization) - A minimal and lightweight wrapper for the Web Monetization API. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/svelte.png)
 *   [web-monetized-video (⭐15)](https://github.com/Jasmin2895/web-monetized-video) - A web component with has play and pay policy and charges you for the amount of video watched. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
-*   [awesome-jsgames (⭐345)](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
+*   [awesome-jsgames (⭐399)](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [mediadisclosures (⭐0)](https://github.com/oofdere/mediadisclosures) - An open-source, always evolving, universal content rating system. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [web-monetization-demo (⭐1)](https://github.com/peter279k/web-monetization-demo) - This is a Web Monetization Demo ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [money-chat (⭐3)](https://github.com/dfoderick/money-chat) - Web Monetization chat app ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
@@ -1865,41 +1855,72 @@
 
 *   [Vizzu (⭐1.6k)](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
 
-## [45. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [45. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Assembly Language / Blazor
+
+*   [Assembly Language Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/assemblylanguage) - Christopher Rose, Syncfusion Inc. (HTML, PDF, EPUB, Kindle)
+
+### C / Non-X86
+
+*   [The Basics of C Programming](https://www.phys.uconn.edu/~rozman/Courses/P2200_13F/downloads/TheBasicsofCProgramming-draft-20131030.pdf) - Marshall Brain (PDF)
+
+### Flutter / Phoenix
+
+*   [Flutter UI Succinctly, Syncfusion](https://www.syncfusion.com/succinctly-free-ebooks/flutter-ui-succinctly) - Ed Freitas
+
+### HTML and CSS / Spock Framework
+
+*   [Airbnb CSS / Sass Styleguide (⭐6.8k)](https://github.com/airbnb/css) - Airbnb
+*   [Airbnb CSS-in-JavaScript Style Guide](https://airbnb.io/javascript/css-in-javascript/) - Airbnb
+
+### JavaScript / React
+
+*   [Airbnb React/JSX Style Guide](https://airbnb.io/javascript/react/) - Airbnb
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [The Python Handbook](https://flaviocopes.com/page/python-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
+
+### Ruby / Tornado
+
+*   [Ruby Style Guide (⭐3.7k)](https://github.com/airbnb/ruby) - Airbnb
+
+## [46. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
-*   [vite-react-ts-starter (⭐109)](https://github.com/uchihamalolan/vite-react-ts) - React, TypeScript, Jest, ESLint, Prettier, TailwindCSS, Husky, Conventional Commits.
+*   [vite-react-ts-starter (⭐117)](https://github.com/uchihamalolan/vite-react-ts) - React, TypeScript, Jest, ESLint, Prettier, TailwindCSS, Husky, Conventional Commits.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-monaco-editor (⭐140)](https://github.com/vdesjs/vite-plugin-monaco-editor) - Monaco Editor integration.
+*   [vite-plugin-monaco-editor (⭐167)](https://github.com/vdesjs/vite-plugin-monaco-editor) - Monaco Editor integration.
 
-## [46. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [47. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [Python-for-Finance-Cookbook (⭐598)](https://github.com/PacktPublishing/Python-for-Finance-Cookbook) - Python for Finance Cookbook, published by Packt.
-*   [modelos\_vol\_derivativos (⭐38)](https://github.com/ysaporito/modelos_vol_derivativos) - "Modelos de Volatilidade para Derivativos" book's Jupyter notebooks
+*   [Python-for-Finance-Cookbook (⭐643)](https://github.com/PacktPublishing/Python-for-Finance-Cookbook) - Python for Finance Cookbook, published by Packt.
+*   [modelos\_vol\_derivativos (⭐52)](https://github.com/ysaporito/modelos_vol_derivativos) - "Modelos de Volatilidade para Derivativos" book's Jupyter notebooks
 
-## [47. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [48. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Projects Related to eBPF / Observability
 
-*   [pixie (⭐4.6k)](https://github.com/pixie-io/pixie) - Observability for Kubernetes using eBPF. Features include protocol tracing, application profiling, and support for distributed bpftrace deployments.
+*   [pixie (⭐4.9k)](https://github.com/pixie-io/pixie) - Observability for Kubernetes using eBPF. Features include protocol tracing, application profiling, and support for distributed bpftrace deployments.
 
-## [48. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
+## [49. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
 ### Tooling
 
 *   [REVISE: REvealing VIsual biaSEs (⭐91)](https://github.com/princetonvisualai/revise-tool) - Automatically detect bias in visual data sets.
 
-## [49. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [50. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Mocks and Fakes
 
-*   [bluegroundltd/kfactory (⭐52)](https://github.com/bluegroundltd/kfactory) - Fixture factory in Kotlin
-*   [moove-it/fakeit (⭐523)](https://github.com/moove-it/fakeit) - Generates realistic fake data — like names, emails, dates, countries — to be used in your Android development environment.
+*   [bluegroundltd/kfactory (⭐55)](https://github.com/bluegroundltd/kfactory) - Fixture factory in Kotlin
+*   [moove-it/fakeit (⭐530)](https://github.com/moove-it/fakeit) - Generates realistic fake data — like names, emails, dates, countries — to be used in your Android development environment.
 
 ### Libraries/Frameworks / Functional Programming
 
@@ -1911,15 +1932,15 @@
 
 ### Android / Tests
 
-*   [KakaoCup/Compose (⭐83)](https://github.com/KakaoCup/Compose) - Nice and simple DSL for Espresso Compose UI testing in Kotlin
+*   [KakaoCup/Compose (⭐97)](https://github.com/KakaoCup/Compose) - Nice and simple DSL for Espresso Compose UI testing in Kotlin
 
-## [50. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [51. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Scanning / Pentesting
 
-*   [Deepfence ThreatMapper (⭐3.7k)](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
+*   [Deepfence ThreatMapper (⭐4.5k)](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 
-## [51. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
+## [52. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
 
 ### Resources
 
@@ -1972,7 +1993,7 @@
 
 *   [Scales (⭐7)](https://github.com/virto-network/scales) - Serializing SCALE using type information from a type registry.
 
-## [52. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [53. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Admin Interface
 
@@ -1980,11 +2001,11 @@
 
 ### Core Extensions
 
-*   [Bitwise (⭐44)](https://github.com/kenn/bitwise) - Fast, memory efficient bitwise operations on large binary strings
+*   [Bitwise (⭐43)](https://github.com/kenn/bitwise) - Fast, memory efficient bitwise operations on large binary strings
 
 ### Email
 
-*   [Ahoy Email (⭐1k)](https://github.com/ankane/ahoy_email) - Analytics and tracking for e-mails.
+*   [Ahoy Email (⭐1.1k)](https://github.com/ankane/ahoy_email) - Analytics and tracking for e-mails.
 
 ### Game Development and Graphics
 
@@ -1992,48 +2013,48 @@
 
 ### Machine Learning
 
-*   [m2cgen (⭐2.5k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Ruby code with zero dependencies.
+*   [m2cgen (⭐2.6k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Ruby code with zero dependencies.
 
-## [53. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [54. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
-*   [CVue-Awesome (⭐18)](https://github.com/coskuncayemre/CVue-Awesome) Auto Resume Builder by [Emre Coşkunçay](https://github.com/coskuncayemre)
+*   [CVue-Awesome (⭐17)](https://github.com/coskuncayemre/CVue-Awesome) Auto Resume Builder by [Emre Coşkunçay](https://github.com/coskuncayemre)
 
 ### Components & Libraries / UI Components
 
 *   [vue-follow-tooltip (⭐4)](https://github.com/gVguy/vue-follow-tooltip) - Tiny tooltip directive for Vue 3.
-*   [vue-icomoon (⭐21)](https://github.com/aykutkardas/vue-icomoon) - With vue-icomoon you can easily use the icons you have selected or created in icomoon.
-*   [vue-mars3d (⭐44)](https://github.com/marsgis/mars3d-vue-template) - Vue 2.x 3D earth visualization JS development platform.
+*   [vue-icomoon (⭐22)](https://github.com/aykutkardas/vue-icomoon) - With vue-icomoon you can easily use the icons you have selected or created in icomoon.
+*   [vue-mars3d (⭐48)](https://github.com/marsgis/mars3d-vue-template) - Vue 2.x 3D earth visualization JS development platform.
 
-## [54. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [55. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Tools / Ironsworn
 
 *   [Fusake Play Aid](https://docs.google.com/document/d/191sfXfcrxars0CXgLNN54eCoQRsuPmyd5Qe-IS5Vlhg/view) - Microsoft Excel play-aid for solo Ironsworn play
 
-## [55. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [56. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Games
 
-*   [Board Games (⭐67)](https://github.com/alexyakunin/BoardGames) - ![stars](https://img.shields.io/github/stars/alexyakunin/BoardGames?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/alexyakunin/BoardGames?style=flat-square\&cacheSeconds=86400) [Fusion (⭐1.6k)](https://github.com/servicetitan/Stl.Fusion) + Blazor sample and a fully functional web app allowing you to play real-time multiplayer board games. [Demo (⭐67)](https://github.com/alexyakunin/BoardGames).
+*   [Board Games (⭐68)](https://github.com/alexyakunin/BoardGames) - ![stars](https://img.shields.io/github/stars/alexyakunin/BoardGames?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/alexyakunin/BoardGames?style=flat-square\&cacheSeconds=86400) [Fusion (⭐1.7k)](https://github.com/servicetitan/Stl.Fusion) + Blazor sample and a fully functional web app allowing you to play real-time multiplayer board games. [Demo (⭐68)](https://github.com/alexyakunin/BoardGames).
 
 ### Hybrid
 
-*   [Photino (⭐576)](https://github.com/tryphotino/photino.NET) - ![stars](https://img.shields.io/github/stars/tryphotino/photino.NET?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/tryphotino/photino.NET?style=flat-square\&cacheSeconds=86400) Build native, cross-platform desktop apps that are lighter than light. Photino is a lightweight open-source framework for building native, cross-platform desktop applications with Web UI technology.
+*   [Photino (⭐669)](https://github.com/tryphotino/photino.NET) - ![stars](https://img.shields.io/github/stars/tryphotino/photino.NET?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/tryphotino/photino.NET?style=flat-square\&cacheSeconds=86400) Build native, cross-platform desktop apps that are lighter than light. Photino is a lightweight open-source framework for building native, cross-platform desktop applications with Web UI technology.
 
 ### Others
 
 *   [WordTester (⭐4)](https://github.com/KamilBugnoKrk/WordTester) - ![last commit](https://img.shields.io/github/last-commit/KamilBugnoKrk/WordTester) An application for learning foreign words using flashcards and spaced repetition.
 
-## [56. Awesome Imba](/content/koolamusic/awesome-imba/week/README.md)
+## [57. Awesome Imba](/content/koolamusic/awesome-imba/week/README.md)
 
 ### Resources / Toolkits and Frameworks
 
 *   [Formidable](https://www.formidablejs.org/) - Imba Framework for Rapid API Development.
 *   [Imba Shell (⭐13)](https://github.com/donaldp/imba-shell) - Interactive debugger and REPL for Imba.
 
-## [57. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [58. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Family
 
@@ -2102,13 +2123,13 @@
 | ------: | -------: | -----: |
 |   2 - 6 |      18+ | 20-30m |
 
-## [58. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
+## [59. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
 
 ### Databases
 
 *   [Zover](http://www.mgc.ac.cn/cgi-bin/ZOVER/main.cgi) - A conglomeration of the previous bat ([DBatVir](https://github.com/ecohealthalliance/awesome-parasite/blob/master/README.md/www.mgc.ac.cn/DBatVir)) and rodent virus ([DRodVir](http://www.mgc.ac.cn/DRodVir/)) databases with the addition of mosquito- and tick- borne viruses. Database is described [here](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab862/6389491?login=true).
 
-## [59. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [60. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Dates and Time
 
@@ -2118,44 +2139,38 @@
 
 *   [What every software engineer should know about search](https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d) - A better sourced article on the difficulty of implementing search engines.
 
-## [60. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [61. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Augmented Reality
 
-*   [ARHeadsetKit (⭐92)](https://github.com/philipturner/ARHeadsetKit) - High-level framework for using $5 Google Cardboard to replicate Microsoft Hololens.
+*   [ARHeadsetKit (⭐113)](https://github.com/philipturner/ARHeadsetKit) - High-level framework for using $5 Google Cardboard to replicate Microsoft Hololens.
 
 ### Utility / Barcode
 
-*   [Rugby (⭐529)](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
+*   [Rugby (⭐590)](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
 
 ### Alert / Barcode
 
-*   [Toast-Swift (⭐282)](https://github.com/BastiaanJansen/Toast-Swift) - An easy to use library to create iOS 14 and newer style toasts.
-
-## [61. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
-
-### Common Section / Angular
-
-*   [GIMTEC](https://www.gimtec.io/). The weekly newsletter I wish I had when I finished my development bootcamp.
+*   [Toast-Swift (⭐359)](https://github.com/BastiaanJansen/Toast-Swift) - An easy to use library to create iOS 14 and newer style toasts.
 
 ## [62. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / System tools
 
-*   [cantino/mcfly (⭐5.1k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
-*   [dalance/procs (⭐4k)](https://github.com/dalance/procs) — A modern replacement for 'ps' written by Rust [![Regression](https://github.com/dalance/procs/actions/workflows/regression.yml/badge.svg)](https://github.com/dalance/procs/actions/workflows/regression.yml)
+*   [cantino/mcfly (⭐5.4k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
+*   [dalance/procs (⭐4.3k)](https://github.com/dalance/procs) — A modern replacement for 'ps' written by Rust [![Regression](https://github.com/dalance/procs/actions/workflows/regression.yml/badge.svg)](https://github.com/dalance/procs/actions/workflows/regression.yml)
 
 ### Applications / Web
 
-*   [LemmyNet/lemmy (⭐7.7k)](https://github.com/LemmyNet/lemmy) — A link aggregator / reddit clone for the fediverse [![Build Status](https://cloud.drone.io/api/badges/LemmyNet/lemmy/status.svg)](https://cloud.drone.io/LemmyNet/lemmy)
+*   [LemmyNet/lemmy (⭐12k)](https://github.com/LemmyNet/lemmy) — A link aggregator / reddit clone for the fediverse [![Build Status](https://cloud.drone.io/api/badges/LemmyNet/lemmy/status.svg)](https://cloud.drone.io/LemmyNet/lemmy)
 
 ### Libraries / Audio and Music
 
-*   [pdeljanov/Symphonia (⭐1.6k)](https://github.com/pdeljanov/Symphonia) — A pure Rust audio decoding and media demuxing library supporting AAC, FLAC, MP3, MP4, OGG, Vorbis, and WAV.
+*   [pdeljanov/Symphonia (⭐1.8k)](https://github.com/pdeljanov/Symphonia) — A pure Rust audio decoding and media demuxing library supporting AAC, FLAC, MP3, MP4, OGG, Vorbis, and WAV.
 
 ### Libraries / Caching
 
-*   [al8n/stretto (⭐347)](https://github.com/al8n/stretto) - A high performance thread-safe memory-bound Rust cache [![build badge](https://github.com/al8n/stretto/actions/workflows/ci.yml/badge.svg)](https://github.com/al8n/stretto/actions/workflows/ci.yml)
+*   [al8n/stretto (⭐365)](https://github.com/al8n/stretto) - A high performance thread-safe memory-bound Rust cache [![build badge](https://github.com/al8n/stretto/actions/workflows/ci.yml/badge.svg)](https://github.com/al8n/stretto/actions/workflows/ci.yml)
 
 ## [63. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -2778,7 +2793,7 @@
 
 ### Deep Learning Packages / Visualization Tools
 
-*   [vizzu (⭐1.7k)](https://github.com/vizzuhq/vizzu-lib)
+*   [vizzu (⭐1.8k)](https://github.com/vizzuhq/vizzu-lib)
 
 ### Books / Visualization Tools
 

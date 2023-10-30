@@ -16,23 +16,23 @@
 
 ### App Routing
 
-*   [SwiftCurrent (⭐299)](https://github.com/wwt/SwiftCurrent) - Manage complex workflows wherever Swift can be built. It comes with built-in support for UIKit, Storyboards, and SwiftUI.
+*   [SwiftCurrent (⭐305)](https://github.com/wwt/SwiftCurrent) - Manage complex workflows wherever Swift can be built. It comes with built-in support for UIKit, Storyboards, and SwiftUI.
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
-*   [fluent-vue (⭐188)](https://github.com/Demivan/fluent-vue) - Internationalization plugin for Vue.js (2 and 3). Vue.js integration for Fluent.js - JavaScript implementation of Project Fluent
+*   [fluent-vue (⭐201)](https://github.com/Demivan/fluent-vue) - Internationalization plugin for Vue.js (2 and 3). Vue.js integration for Fluent.js - JavaScript implementation of Project Fluent
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Community
 
-*   [quick-patch (⭐16)](https://github.com/tdrhq/quick-patch/) -  easily override quicklisp projects without using git submodules. MPL-2.0.
+*   [quick-patch (⭐20)](https://github.com/tdrhq/quick-patch/) -  easily override quicklisp projects without using git submodules. MPL-2.0.
 
 ### Web development utilities / Web project skeletons and generators
 
-*   [cl-cookieweb (⭐25)](https://github.com/vindarel/cl-cookieweb) - a  Cookiecutter template to start a web project. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause). Not in Quicklisp.
+*   [cl-cookieweb (⭐30)](https://github.com/vindarel/cl-cookieweb) - a  Cookiecutter template to start a web project. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause). Not in Quicklisp.
     *   Provides a working toy web app with the Hunchentoot web server, easy-routes, Djula templates, styled with Bulma, based on SQLite, with migrations, an example table definition and a test suite using FiveAM.
 *   [make-like (⭐11)](https://github.com/container-lisp/make-like) - an application template builder for LIKE (Lisp In Kubernetes + Emacs) applications. [Apache2.0](https://directory.fsf.org/wiki/License:ArtisticLicense2.0).
     *   Makefile, podman support, GitHub Actions, Prometheus metrics support, TOML-style config.ini, easy-route preconfigured with health-check and more.
@@ -40,29 +40,29 @@
 
 ### Others / Web project skeletons and generators
 
-*   [cl-wget (⭐9)](https://github.com/cl-wget/cl-wget) - Makes retrieving large files or mirroring entire websites easy. [AGPL-3.0](https://directory.fsf.org/wiki/License:ArtisticLicense2.0).
-*   [trivial-download (⭐35)](https://github.com/eudoxia0/trivial-download) - Download files. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-wget](https://github.com/cl-wget/cl-wget) - Makes retrieving large files or mirroring entire websites easy. [AGPL-3.0](https://directory.fsf.org/wiki/License:ArtisticLicense2.0).
+*   [trivial-download (⭐36)](https://github.com/eudoxia0/trivial-download) - Download files. [MIT](https://opensource.org/licenses/MIT).
 
 ### Writing, running scripts / Third-party APIs
 
-*   [ScriptL (⭐67)](https://github.com/rpav/ScriptL) - Shell scripting made Lisp-like! Or, live-coding remote function calls for the shell. Write a command in the REPL, and run it instantly in the shell. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [ScriptL (⭐69)](https://github.com/rpav/ScriptL) - Shell scripting made Lisp-like! Or, live-coding remote function calls for the shell. Write a command in the REPL, and run it instantly in the shell. [LLGPL](http://opensource.franz.com/preamble.html).
     *   similar and maybe simpler: [lserver](https://notabug.org/quasus/lserver/)
 
 ### Command-line options parsers / Third-party APIs
 
-*   [Adopt (⭐23)](https://github.com/sjl/adopt/) - A Damn OPTion parsing library. [MIT](https://opensource.org/licenses/MIT).
+*   [Adopt (⭐27)](https://github.com/sjl/adopt/) - A Damn OPTion parsing library. [MIT](https://opensource.org/licenses/MIT).
 
 ## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Types / Playground
 
-*   [@tool-belt/type-predicates (⭐49)](https://github.com/tool-belt/type-predicates) - Type Predicates, Assertion Functions and Utilities.
+*   [@tool-belt/type-predicates (⭐51)](https://github.com/tool-belt/type-predicates) - Type Predicates, Assertion Functions and Utilities.
 
 ## [6. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
 ### Applications
 
-*   [Vdo.Ninja (⭐2.1k)](https://github.com/steveseguin/vdo.ninja): 100% free; no downloads; no personal data collection; no sign-in, cutting edge Peer-to-Peer forwarding technology that offers privacy and ultra-low latency
+*   [Vdo.Ninja (⭐2.2k)](https://github.com/steveseguin/vdo.ninja): 100% free; no downloads; no personal data collection; no sign-in, cutting edge Peer-to-Peer forwarding technology that offers privacy and ultra-low latency
 
 ## [7. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -74,17 +74,17 @@
 
 ### Adapters / Server-side
 
-*   [Rust (⭐16)](https://github.com/stuarth/inertia-rs)
+*   [Rust (⭐23)](https://github.com/stuarth/inertia-rs)
 
 ### Resources / Examples
 
-*   [Ping CRM / Clojure (⭐78)](https://github.com/prestancedesign/pingcrm-clojure) - Demonstration application made with Clojure and Reagent.
+*   [Ping CRM / Clojure (⭐97)](https://github.com/prestancedesign/pingcrm-clojure) - Demonstration application made with Clojure and Reagent.
 
 ## [9. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
 ### Image Processing
 
-*   [Waifu2x-Extension-GUI (⭐8.8k)](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x, SRMD, RealSR, Anime4K, RIFE, CAIN, DAIN and ACNet. \[English/中文]
+*   [Waifu2x-Extension-GUI (⭐11k)](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x, SRMD, RealSR, Anime4K, RIFE, CAIN, DAIN and ACNet. \[English/中文]
 
 ---
 

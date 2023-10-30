@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 31, 2016
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -73,14 +73,14 @@ git config --global help.autocorrect 1
 
 ### Files and Directories
 
-*   [eye\_drops (⭐51)](https://github.com/rkotze/eye_drops) - Configurable mix task to watch file changes and run the corresponding command.
+*   [eye\_drops (⭐52)](https://github.com/rkotze/eye_drops) - Configurable mix task to watch file changes and run the corresponding command.
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Game development
 
 *   Corange
-    *   [lucidscape/corange-rs (⭐45)](https://github.com/lucidscape/corange-rs) — [Corange (⭐1.6k)](https://github.com/orangeduck/Corange) bindings
+    *   [lucidscape/corange-rs (⭐45)](https://github.com/lucidscape/corange-rs) — [Corange (⭐1.7k)](https://github.com/orangeduck/Corange) bindings
 
 ## [7. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
@@ -94,7 +94,13 @@ git config --global help.autocorrect 1
 
 *   Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
 
-## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [9. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Objective-C / PicoLisp
+
+*   [Object-Oriented Programming with Objective-C](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/OOP_ObjC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40005149)
+
+## [10. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Books / Components
 

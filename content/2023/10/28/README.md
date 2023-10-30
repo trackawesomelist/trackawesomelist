@@ -6,13 +6,25 @@
 
 
 
-## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [1. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+
+### General Writing
+
+*   [StealthGPT](https://www.stealthgpt.ai/) - Generates undetectable AI Content avoiding plagiarism issues. `#paid`
+
+### SEO
+
+*   [Frase](https://www.frase.io/) - Content optimization tool that helps businesses create SEO-friendly content quickly and easily. `#paid`
+*   [Surfer SEO](https://surferseo.com/) - SEO tool that helps users optimize their content for better search engine rankings. `#paid`
+*   [GrowthBar](https://www.growthbarseo.com/) - SEO tool designed to help marketers, bloggers, and content teams create SEO-friendly content. `#paid`
+
+## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Science Logology / Democratization of Science
 
 *   [Human–machine collaboration for improving semiconductor process development](https://www.nature.com/articles/s41586-023-05773-7) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10295771969614897767\&hl=en\&as_sdt=0,5)]. \[[Nature News](https://www.nature.com/articles/d41586-023-01353-x)].
 
-## [2. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [3. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### CLI / Argument Parsing
 
@@ -46,19 +58,19 @@
 *   [JADE](https://jade.tilab.com) - Framework and environment for building and debugging multi-agent systems. (LGPL-2.0-only)
 *   [Semver4j (⭐43)](https://github.com/semver4j/semver4j) - Lightweight library that helps you handling semantic versioning with different modes.
 
-## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Productivity
 
 *   [Journey Navigation](https://gowithjourney.com) - A powerful route planning app with weather along your route, traffic alerts, turn by turn directions, and more. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/journey-navigation/id1662059644)
 
-## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Transition / Barcode
 
 *   [MijickNavigattie (⭐46)](https://github.com/Mijick/Navigattie) - Easy navigation with SwiftUI.
 
-## [5. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [6. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Productivity and Time
 
@@ -76,12 +88,6 @@
 
 *   [Forge Sparks (⭐47)](https://github.com/rafaelmardojai/forge-sparks) - Git forge (GitHub, Gitea, Forgejo) desktop notification application. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 *   [Turtle](https://gitlab.gnome.org/philippun1/turtle) - Tool to manage Git repositories within Nautilus by providing emblems and context menus.
-
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Libraries/Frameworks / Graphics
-
-*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
 
 ## [7. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
@@ -118,10 +124,11 @@
 
 ## [10. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
-### Multiple languages / [Other](#other-1)
+### Programming Languages / [Other](#other-1)
 
 *   [fta](https://ftaproject.dev/) — Rust-based static analysis for TypeScript projects
 
 ---
 
+- Prev: [Oct 29, 2023](/content/2023/10/29/README.md)
 - Next: [Oct 27, 2023](/content/2023/10/27/README.md)

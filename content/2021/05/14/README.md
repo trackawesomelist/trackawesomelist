@@ -10,13 +10,13 @@
 
 ### Examples
 
-*   [priyavrat-misra/xrays-and-gradcam (⭐36)](https://github.com/priyavrat-misra/xrays-and-gradcam#readme) - TOC for easy navigation. Clear introduction of what the project does. Complete list of all files in the repo and what their function is. Usage section. Clean and concise tables.
+*   [priyavrat-misra/xrays-and-gradcam (⭐40)](https://github.com/priyavrat-misra/xrays-and-gradcam#readme) - TOC for easy navigation. Clear introduction of what the project does. Complete list of all files in the repo and what their function is. Usage section. Clean and concise tables.
 
 ## [2. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### IO / ADC
 
-*   [MicroPython-ADC\_Cal (⭐14)](https://github.com/matthias-bs/MicroPython-ADC_Cal) - ESP32 ADC driver using reference voltage calibration value from efuse.
+*   [MicroPython-ADC\_Cal (⭐16)](https://github.com/matthias-bs/MicroPython-ADC_Cal) - ESP32 ADC driver using reference voltage calibration value from efuse.
 
 ## [3. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 

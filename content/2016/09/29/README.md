@@ -59,7 +59,7 @@
 
 ### Audio
 
-*   [AudioPlayerSwift (⭐272)](https://github.com/tbaranes/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps.
+*   [AudioPlayerSwift (⭐275)](https://github.com/tbaranes/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps.
 
 ## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -72,18 +72,18 @@
 ### Database Drivers/Clients
 
 *   [crystal-mysql (⭐104)](https://github.com/crystal-lang/crystal-mysql) - MySQL connector for Crystal
-*   [crystal-sqlite3 (⭐122)](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
+*   [crystal-sqlite3 (⭐125)](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
 
 ## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Time-Series Databases
 
-*   [Druid (⭐12k)](https://github.com/druid-io/druid/) Column oriented distributed data store ideal for powering interactive applications
+*   [Druid (⭐13k)](https://github.com/druid-io/druid/) Column oriented distributed data store ideal for powering interactive applications
 *   [Riak-TS](http://basho.com/products/riak-ts/) Riak TS is the only enterprise-grade NoSQL time series database optimized specifically for IoT and Time Series data.
-*   [Akumuli (⭐806)](https://github.com/akumuli/Akumuli) Akumuli is a numeric time-series database. It can be used to capture, store and process time-series data in real-time. The word "akumuli" can be translated from esperanto as "accumulate".
+*   [Akumuli (⭐818)](https://github.com/akumuli/Akumuli) Akumuli is a numeric time-series database. It can be used to capture, store and process time-series data in real-time. The word "akumuli" can be translated from esperanto as "accumulate".
 *   [Rhombus](https://github.com/Pardot/Rhombus) A time-series object store for Cassandra that handles all the complexity of building wide row indexes.
-*   [Dalmatiner DB (⭐700)](https://github.com/dalmatinerdb/dalmatinerdb) Fast distributed metrics database
-*   [Blueflood (⭐595)](https://github.com/rackerlabs/blueflood) A distributed system designed to ingest and process time series data
+*   [Dalmatiner DB (⭐699)](https://github.com/dalmatinerdb/dalmatinerdb) Fast distributed metrics database
+*   [Blueflood (⭐591)](https://github.com/rackerlabs/blueflood) A distributed system designed to ingest and process time series data
 *   [Timely (⭐367)](https://github.com/NationalSecurityAgency/timely) Timely is a time series database application that provides secure access to time series data based on Accumulo and Grafana.
 
 ## [11. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)

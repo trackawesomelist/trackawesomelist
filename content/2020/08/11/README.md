@@ -16,12 +16,12 @@
 
 ### Calculators
 
-*   [farm-calculators (⭐12)](https://github.com/brycejohnston/farm-calculators) - WordPress plugin for calculating various farming and crop related information.
+*   [farm-calculators (⭐15)](https://github.com/brycejohnston/farm-calculators) - WordPress plugin for calculating various farming and crop related information.
 
 ### Climate, Environment and Weather
 
-*   [agroclimatology (⭐15)](https://github.com/brycejohnston/agroclimatology) - Ruby client for interacting with the NASA (POWER) Agroclimatology Web Resource.
-*   [evapotranspiration (⭐11)](https://github.com/brycejohnston/evapotranspiration) - Ruby library for calculating reference crop evapotranspiration (ETo).
+*   [agroclimatology (⭐16)](https://github.com/brycejohnston/agroclimatology) - Ruby client for interacting with the NASA (POWER) Agroclimatology Web Resource.
+*   [evapotranspiration (⭐13)](https://github.com/brycejohnston/evapotranspiration) - Ruby library for calculating reference crop evapotranspiration (ETo).
 
 ### Data Standardization, Interoperability and APIs
 
@@ -29,7 +29,7 @@
 
 ## [3. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
-### Machine Learning
+### Machine Learning and Artificial Intelligence
 
 *   [Confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix) - A tabular summary of a classifiers "confusion", i.e. how often it thought to make correct predictions when it actually didn't.
 
@@ -37,7 +37,7 @@
 
 ### Driver crates / Other
 
-*   [dht-sensor](https://crates.io/crates/dht-sensor) - 1-Wire - DHT11/DHT22 temperature/humidity sensor driver - [github (⭐16)](https://github.com/michaelbeaumont/dht-sensor) - ![crates.io](https://img.shields.io/crates/v/dht-sensor.svg)
+*   [dht-sensor](https://crates.io/crates/dht-sensor) - 1-Wire - DHT11/DHT22 temperature/humidity sensor driver - [github (⭐20)](https://github.com/michaelbeaumont/dht-sensor) - ![crates.io](https://img.shields.io/crates/v/dht-sensor.svg)
 
 ## [5. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Projects
 
-*   [RustMart (⭐254)](https://github.com/sheshbabu/rustmart-yew-example) - Single Page Application (SPA) written using Rust, Wasm and Yew.
+*   [RustMart (⭐260)](https://github.com/sheshbabu/rustmart-yew-example) - Single Page Application (SPA) written using Rust, Wasm and Yew.
 
 ## [8. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 
@@ -98,7 +98,7 @@
 
 ### Software / Proxy
 
-*   [Nginx Proxy Manager](https://nginxproxymanager.com/) - Nginx Proxy Manager is an easy way to accomplish reverse proxying hosts with SSL termination. ([Source Code (⭐14k)](https://github.com/jc21/nginx-proxy-manager)) `MIT` `Nodejs/Docker`
+*   [Nginx Proxy Manager](https://nginxproxymanager.com/) - Nginx Proxy Manager is an easy way to accomplish reverse proxying hosts with SSL termination. ([Source Code (⭐16k)](https://github.com/NginxProxyManager/nginx-proxy-manager)) `MIT` `Nodejs/Docker`
 
 ## [12. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -110,7 +110,7 @@
 
 ### Containers
 
-*   [PGM-index (⭐684)](https://github.com/gvinciguerra/PGM-index) - A data structure that enables fast lookup, predecessor, range searches and updates in arrays of billions of items using orders of magnitude less space than traditional indexes. \[Apache2] [website](https://pgm.di.unipi.it)
+*   [PGM-index (⭐710)](https://github.com/gvinciguerra/PGM-index) - A data structure that enables fast lookup, predecessor, range searches and updates in arrays of billions of items using orders of magnitude less space than traditional indexes. \[Apache2] [website](https://pgm.di.unipi.it)
 
 ## [14. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -158,7 +158,7 @@
 
 *   [JSON Feed](https://jsonfeed.org/) <sup>[259](https://t.me/s/aboutrss/259), [711](https://t.me/s/aboutrss/711), [751](https://t.me/s/aboutrss/751)</sup>
 
-### 🧩 API / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### 🧩 API / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSS2JSONFeed converter](https://rss2json.com) <sup>[226](https://t.me/s/aboutrss/226)</sup>
 
@@ -175,7 +175,6 @@
 ### 🔱 Workflow Automation / 酷Q Plugin
 
 *   [Pipethru](https://www.pipethru.com/)
-*   [Automate.io](https://automate.io/)
 
 ### universally from / Kanban
 
@@ -237,7 +236,7 @@
 
 ### GUI Development
 
-*   [DearPyGui (⭐9.9k)](https://github.com/RaylockLLC/DearPyGui/) - A Simple GPU accelerated Python GUI framework
+*   [DearPyGui (⭐11k)](https://github.com/RaylockLLC/DearPyGui/) - A Simple GPU accelerated Python GUI framework
 
 ### Job Scheduler
 

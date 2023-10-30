@@ -10,7 +10,7 @@
 
 ### Projects
 
-*   [yew-react-example (⭐52)](https://github.com/hobofan/yew-react-example) - This project shows how to create a web app using a React component inside a Yew component.
+*   [yew-react-example (⭐57)](https://github.com/hobofan/yew-react-example) - This project shows how to create a web app using a React component inside a Yew component.
 
 ### Crates / Wasm
 
@@ -20,9 +20,9 @@
 
 ### Software / Make your life easier
 
-*   [Kiwi TCMS (⭐802)](https://github.com/kiwitcms/Kiwi) - Open Source test case management system.
-*   [Captura (⭐8.1k)](https://github.com/MathewSachin/Captura) - Open Source video recording tool.
-*   [QA Wolf (⭐3.2k)](https://github.com/qawolf/qawolf) - Open Source Node.js library for creating browser tests 10x faster.
+*   [Kiwi TCMS (⭐870)](https://github.com/kiwitcms/Kiwi) - Open Source test case management system.
+*   [Captura (⭐8.8k)](https://github.com/MathewSachin/Captura) - Open Source video recording tool.
+*   [QA Wolf (⭐3.3k)](https://github.com/qawolf/qawolf) - Open Source Node.js library for creating browser tests 10x faster.
 
 ## [3. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -52,19 +52,19 @@
 
 ### Auditing / Logging
 
-*   [DatabaseLog plugin (⭐41)](https://github.com/dereuromark/CakePHP-DatabaseLog) - Simple and stand-alone logging to database instead of files.
+*   🍰 [DatabaseLog plugin (⭐41)](https://github.com/dereuromark/CakePHP-DatabaseLog) - Simple and stand-alone logging to database instead of files.
 
 ### Code Analysis
 
-*   [TestHelper plugin](https://github.com/dereuromark/cakephp-test-helper) - Provides testing enhancements and TDD support as browser backend.
+*   🍰 [TestHelper plugin (⭐7)](https://github.com/dereuromark/cakephp-test-helper) - Provides testing enhancements and TDD support as browser backend.
 
 ### Migration
 
-*   [Upgrade app (⭐101)](https://github.com/cakephp/upgrade) - Official upgrade app for 2.x=>3.x and 3.x=>4.x.
+*   [Upgrade app (⭐106)](https://github.com/cakephp/upgrade) - Official upgrade app for 2.x=>3.x and 3.x=>4.x.
 
 ### Miscellaneous
 
-*   [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) - Quickly generate useful data transfer objects for your app (mutable/immutable), replacing messy arrays and leveraging your IDE through typehinting and autocomplete.
+*   🍰 [CakeDto plugin (⭐24)](https://github.com/dereuromark/cakephp-dto) - Quickly generate useful data transfer objects for your app (mutable/immutable), replacing messy arrays and leveraging your IDE through typehinting and autocomplete.
 
 ## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -74,17 +74,17 @@
 
 ## [8. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### Database
+### Database / Text-Based User Interfaces
 
-*   [Leaf (⭐5.8k)](https://github.com/Meituan-Dianping/Leaf) - Distributed ID generate service.
+*   [Leaf (⭐6.1k)](https://github.com/Meituan-Dianping/Leaf) - Distributed ID generate service.
 
-### Messaging
+### Messaging / Text-Based User Interfaces
 
 *   [Apache RocketMQ](https://rocketmq.apache.org) - Fast, reliable, and scalable distributed messaging platform.
 
 ### REST Frameworks / Other
 
-*   [springdoc-openapi (⭐2.4k)](https://github.com/springdoc/springdoc-openapi) - Automates the generation of API documentation using Spring Boot projects.
+*   [springdoc-openapi (⭐2.9k)](https://github.com/springdoc/springdoc-openapi) - Automates the generation of API documentation using Spring Boot projects.
 
 ---
 

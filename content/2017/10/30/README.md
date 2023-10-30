@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 30, 2017
 
-18 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -29,25 +29,31 @@
 
 *   [ScaleCube (⭐576)](https://github.com/scalecube/scalecube) - Toolkit for building reactive microservices for the JVM: low-latency, high-throughput, scalable and resilient.
 
-## [4. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Python / Django
+
+*   [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) (1.11)
+
+## [5. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/README.md)
 
 ### Websites
 
 *   [HTML5 UP!](https://html5up.net/) Responsive HTML5 and CSS3 Site Templates.
 
-## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Apps / Third-party APIs
 
-*   [Check-it (⭐50)](https://github.com/DalekBaldwin/check-it) - A QuickCheck-style randomized property-based testing. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [Check-it (⭐51)](https://github.com/DalekBaldwin/check-it) - A QuickCheck-style randomized property-based testing. [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [7. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Professional services
 
 *   [OneSpeed](https://onespeed.io) - Agency.
 
-## [7. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+## [8. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Books
 
@@ -57,31 +63,31 @@
 
 *   [Keen Security Lab Blog](http://keenlab.tencent.com/en/) - Blog created by Keen Security Lab of Tencent that posts research on car security.
 
-## [8. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [9. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
-*   [AdvancedNewFile (⭐216)](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories in a recursive way. Inspired by the Vim plugin.
+*   [AdvancedNewFile (⭐227)](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories in a recursive way. Inspired by the Vim plugin.
 
-## [9. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+## [10. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ### Esoteric languages
 
 *   [Spooky (⭐150)](https://github.com/ftripier/spookyc) - The Programming Language of Fear 🌚.
 
-## [10. Awesome Framer](/content/podo/awesome-framer/README.md)
+## [11. Awesome Framer](/content/podo/awesome-framer/README.md)
 
 ### Modules
 
 *   [Framer Slider (⭐42)](https://github.com/benjamindenboer/FramerSlider) - Module that allows you to design sliders and then bring them to life, without losing customizability. Appearance and logic—separated.
 
-## [11. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+## [12. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Browser automation
 
 *   [Cypress.io](https://www.cypress.io/) - An automation framework that runs in-browser.
 
-## [12. Tips](/content/git-tips/tips/README.md)
+## [13. Tips](/content/git-tips/tips/README.md)
 
 ## Remove sensitive data from history, after a push
 
@@ -89,13 +95,13 @@
 git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch <path-to-your-file>' --prune-empty --tag-name-filter cat -- --all && git push origin --force --all
 ```
 
-## [13. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
+## [14. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
 ### Organizations
 
 *   [GoodForPoc (⭐58)](https://github.com/GoodForPoC/GoodForPoC) - List of inclusive companies for people of color in tech.
 
-## [14. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+## [15. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### Laravel
 
@@ -107,25 +113,25 @@ git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch <path
 
 
 
-## [15. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [16. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Java / Symfony2
 
-*   [Dropwizard (⭐8.3k)](https://github.com/dropwizard/dropwizard) - A framework for developing ops-friendly, high-performance, RESTful web services.
+*   [Dropwizard (⭐8.4k)](https://github.com/dropwizard/dropwizard) - A framework for developing ops-friendly, high-performance, RESTful web services.
 
-## [16. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [17. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Logging
 
 *   [SEQ](https://getseq.net) - Seq collects data over HTTP, while your applications use the best available structured logging APIs for your platform.
 
-## [17. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
+## [18. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
 
 ### Places / Monasteries
 
 *   [Dhammapala](http://dhammapala.ch/home-eng/) -  Kandersteg, Switzerland - Quiet monastery in the mountains.
 
-## [18. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
+## [19. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
 
 ### Resources
 

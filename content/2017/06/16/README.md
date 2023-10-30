@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 16, 2017
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,13 +10,13 @@
 
 ### Web Apps (open source)
 
-*   [Google I/O Transport Tracker (⭐558)](https://github.com/googlemaps/transport-tracker) - Shows shuttle arrival times for Google I/O conference, based on the open-source [transport-tracker project (⭐558)](https://github.com/googlemaps/transport-tracker).  Note: To implement this yourself, you need a [Google Maps APIs Premium Plan license](https://developers.google.com/maps/pricing-and-plans/).
+*   [Google I/O Transport Tracker (⭐561)](https://github.com/googlemaps/transport-tracker) - Shows shuttle arrival times for Google I/O conference, based on the open-source [transport-tracker project (⭐561)](https://github.com/googlemaps/transport-tracker).  Note: To implement this yourself, you need a [Google Maps APIs Premium Plan license](https://developers.google.com/maps/pricing-and-plans/).
 
 ## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [EmbedIO (⭐1.3k)](https://github.com/unosquare/embedio) - A tiny, cross-platform, module based web server for .NET Framework and .NET Core.
+*   [EmbedIO (⭐1.4k)](https://github.com/unosquare/embedio) - A tiny, cross-platform, module based web server for .NET Framework and .NET Core.
 
 ## [3. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
@@ -28,7 +28,14 @@
 
 *   [IIPC](http://netpreserve.org/about-us/iipc-mailing-list/)
 
-## [4. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Java / Bootstrap
+
+*   [Processing XML with Java (A Guide to SAX, DOM, JDOM, JAXP, and TrAX) (2002)](http://www.cafeconleche.org/books/xmljava/) - Elliotte Rusty Harold
+*   [Welcome to the Java Workshop (2006)](http://javaworkshop.sourceforge.net) - Trevor Miller
+
+## [5. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Codecs
 
@@ -65,7 +72,7 @@
 
 *   [UPipe (⭐0)](https://github.com/cmassiot/upipe/) - Primarily designed to be the core of a multimedia player, transcoder or streamer.
 
-## [5. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
+## [6. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
 
 ### Frameworks / Game Frameworks
 
@@ -138,13 +145,13 @@
 
 *   [WinDebug](http://www.henke37.cjb.net/windebug/) - Windows ANE to control applications, windows, memory, breakpoints, metadata, registry, etc.
 
-## [6. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
+## [7. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
 ### Awesome ClojureScript / Development
 
 *   [Lumo (⭐1.9k)](https://github.com/anmonteiro/lumo) – Fast, cross-platform, standalone ClojureScript environment.
 
-## [7. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [8. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Database Clients
 

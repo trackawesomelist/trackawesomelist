@@ -22,7 +22,7 @@
 
 ### Frameworks, Libraries and Tools / Date and Time
 
-*   [FluentDateTime (⭐584)](https://github.com/FluentDateTime/FluentDateTime) - Allows you to write cleaner DateTime expressions and operation. Partially inspired by Ruby DateTime Extensions.
+*   [FluentDateTime (⭐623)](https://github.com/FluentDateTime/FluentDateTime) - Allows you to write cleaner DateTime expressions and operation. Partially inspired by Ruby DateTime Extensions.
 
 ## [4. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 

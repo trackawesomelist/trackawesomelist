@@ -29,7 +29,7 @@
 
 ### Key-value Data Model
 
-*   [Edis (⭐464)](https://github.com/cbd/edis) - is a protocol-compatible Server replacement for Redis.
+*   [Edis (⭐467)](https://github.com/cbd/edis) - is a protocol-compatible Server replacement for Redis.
 
 ### Data Ingestion
 
@@ -147,16 +147,16 @@
 
 ### Suggested Awesome Lists / Must Read
 
-*   [Falsehoods (⭐20k)](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?
+*   [Falsehoods (⭐22k)](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?
 *   [Naughty Strings (⭐45k)](https://github.com/minimaxir/big-list-of-naughty-strings) - This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration.
-*   [Unicode (⭐827)](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
+*   [Unicode (⭐861)](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
 
 ### Suggested Awesome Lists / Useful References
 
-*   [The Original (⭐238k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
-*   [Application Security (⭐5.5k)](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
-*   [Selenium (⭐876)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
-*   [Security (⭐9.5k)](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
+*   [The Original (⭐266k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
+*   [Application Security (⭐5.7k)](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
+*   [Selenium (⭐925)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
+*   [Security (⭐10k)](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
 
 ## [12. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
@@ -172,22 +172,22 @@
 
 ### Open Source / Other
 
-*   [Cerebro (⭐7.8k)](https://github.com/KELiON/cerebro) - Launcher with inline previews.
+*   [Cerebro (⭐8k)](https://github.com/KELiON/cerebro) - Launcher with inline previews.
 
 ### Samples / Other
 
-*   [Electron API usage (⭐3.8k)](https://github.com/hokein/electron-sample-apps) - Sample apps illustrating usage of Electron APIs.
-*   [Screen Recorder (⭐390)](https://github.com/hokein/electron-screen-recorder) - WebRTC screen recorder.
+*   [Electron API usage (⭐3.9k)](https://github.com/hokein/electron-sample-apps) - Sample apps illustrating usage of Electron APIs.
+*   [Screen Recorder (⭐398)](https://github.com/hokein/electron-screen-recorder) - WebRTC screen recorder.
 
 ## [14. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Chessie (⭐183)](https://github.com/fsprojects/Chessie) - Railway-oriented programming for .NET <http://fsprojects.github.io/Chessie>.
+*   [Chessie (⭐190)](https://github.com/fsprojects/Chessie) - Railway-oriented programming for .NET <http://fsprojects.github.io/Chessie>.
 
 ### Frameworks, Libraries and Tools / Serialization
 
-*   [Wire (⭐380)](https://github.com/rogeralsing/Wire) - Binary serializer for POCO objects.
+*   [Wire (⭐378)](https://github.com/rogeralsing/Wire) - Binary serializer for POCO objects.
 
 ## [15. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 

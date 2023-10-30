@@ -42,14 +42,14 @@
 
 ### JSON
 
-*   [Jansson (⭐2.8k)](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data. \[MIT]
-*   [jbson (⭐40)](https://github.com/chrismanning/jbson) - jbson is a library for building & iterating BSON data, and JSON documents in C++14. \[Boost]
-*   [JeayeSON (⭐131)](https://github.com/jeaye/jeayeson) - A very sane (header only) C++ JSON library. \[BSD]
-*   [JSON++ (⭐516)](https://github.com/hjiang/jsonxx) - A JSON parser in C++. \[MIT]
-*   [json11 (⭐2.4k)](https://github.com/dropbox/json11) - A tiny JSON library for C++11. \[MIT]
-*   [libjson (⭐264)](https://github.com/vincenthz/libjson) - A JSON parser and printer library in C. easy to integrate with any model. \[LGPL]
-*   [PicoJSON (⭐1k)](https://github.com/kazuho/picojson) - A header-file-only, JSON parser serializer in C++. \[BSD]
-*   [qt-json (⭐314)](https://github.com/gaudecker/qt-json) - A simple class for parsing JSON data into a QVariant hierarchy and vice versa. \[GPLv3]
+*   [Jansson (⭐2.9k)](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data. \[MIT]
+*   [jbson (⭐39)](https://github.com/chrismanning/jbson) - jbson is a library for building & iterating BSON data, and JSON documents in C++14. \[Boost]
+*   [JeayeSON (⭐129)](https://github.com/jeaye/jeayeson) - A very sane (header only) C++ JSON library. \[BSD]
+*   [JSON++ (⭐526)](https://github.com/hjiang/jsonxx) - A JSON parser in C++. \[MIT]
+*   [json11 (⭐2.5k)](https://github.com/dropbox/json11) - A tiny JSON library for C++11. \[MIT]
+*   [libjson (⭐268)](https://github.com/vincenthz/libjson) - A JSON parser and printer library in C. easy to integrate with any model. \[LGPL]
+*   [PicoJSON (⭐1.1k)](https://github.com/kazuho/picojson) - A header-file-only, JSON parser serializer in C++. \[BSD]
+*   [qt-json (⭐316)](https://github.com/gaudecker/qt-json) - A simple class for parsing JSON data into a QVariant hierarchy and vice versa. \[GPLv3]
 
 ### Networking
 
@@ -57,11 +57,11 @@
 
 ### Serialization
 
-*   [FlatBuffers (⭐20k)](https://github.com/google/flatbuffers) - A Memory efficient serialization library. \[Apache2]
+*   [FlatBuffers (⭐21k)](https://github.com/google/flatbuffers) - A Memory efficient serialization library. \[Apache2]
 
 ### Talks
 
-*   [Quick game development with C++11/C++14 (⭐87)](https://github.com/SuperV1234/cppcon2014) - CppCon 2014 talk by Vittorio Romeo.
+*   [Quick game development with C++11/C++14 (⭐88)](https://github.com/SuperV1234/cppcon2014) - CppCon 2014 talk by Vittorio Romeo.
 
 ### Videos
 
@@ -79,8 +79,8 @@
 
 ### Other Awesome Projects
 
-*   [lists (⭐9k)](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
-*   [free-programming-books (⭐281k)](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books.
+*   [lists (⭐9.2k)](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
+*   [free-programming-books (⭐300k)](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books.
 
 ## [4. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 
@@ -105,11 +105,11 @@
 ### API / Runner
 
 *   [amygdala (⭐392)](https://github.com/lincolnloop/amygdala) - RESTful HTTP client for JavaScript powered web applications.
-*   [jquery.rest (⭐618)](https://github.com/jpillora/jquery.rest) - A jQuery plugin for easy consumption of RESTful APIs.
+*   [jquery.rest (⭐614)](https://github.com/jpillora/jquery.rest) - A jQuery plugin for easy consumption of RESTful APIs.
 
 ### Sliders / Runner
 
-*   [reveal.js (⭐64k)](https://github.com/hakimel/reveal.js) - A framework for easily creating beautiful presentations using HTML.
+*   [reveal.js (⭐65k)](https://github.com/hakimel/reveal.js) - A framework for easily creating beautiful presentations using HTML.
 
 ## [8. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -129,16 +129,16 @@
 
 ## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
-### [dotzsh](https://github.com/dotphiles/dotzsh) / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### [dotzsh](https://github.com/dotphiles/dotzsh) / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   Load the plugin module in `.zshrc`
 
-### [Oh-My-Zsh](http://ohmyz.sh/) / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### [Oh-My-Zsh](http://ohmyz.sh/) / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   `cd ~/.oh-my-zsh/custom/plugins`
 *   `git clone repo`
 
-### [Prezto](https://github.com/sorin-ionescu/prezto) / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### [Prezto](https://github.com/sorin-ionescu/prezto) / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   Clone the plugin into your prezto modules directory
 *   Add the plugin to your `.zpreztorc` file

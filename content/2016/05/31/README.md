@@ -31,7 +31,7 @@
 
 ### Menu / Barcode
 
-*   [SlideMenuControllerSwift (⭐3.3k)](https://github.com/dekatotoro/SlideMenuControllerSwift) - iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app.
+*   [SlideMenuControllerSwift (⭐3.4k)](https://github.com/dekatotoro/SlideMenuControllerSwift) - iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app.
 
 ## [4. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md)
 

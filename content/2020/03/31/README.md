@@ -16,7 +16,7 @@
 
 ### Utility / Barcode
 
-*   [Playbook (⭐998)](https://github.com/playbook-ui/playbook-ios) - 📘A library for isolated developing UI components and automatically snapshots of them.
+*   [Playbook (⭐1.1k)](https://github.com/playbook-ui/playbook-ios) - 📘A library for isolated developing UI components and automatically snapshots of them.
 
 ## [3. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
@@ -26,21 +26,27 @@
 
 ### Self-Hosted Services / Misc
 
-*   [SimpleLogin (⭐3.5k)](https://github.com/simple-login/app) - Self-hosted email alias solution.
+*   [SimpleLogin (⭐3.9k)](https://github.com/simple-login/app) - Self-hosted email alias solution.
 
-## [4. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Java / Bootstrap
+
+*   [The Java Web Scraping Handbook](https://www.scrapingbee.com/java-webscraping-book) - Kevin Sahin (PDF, HTML)
+
+## [5. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 
 ### Software Tools / Analysis Frameworks
 
-*   [HAL – The Hardware Analyzer (⭐455)](https://github.com/emsec/hal) - A comprehensive reverse engineering and manipulation framework for gate-level netlists.
+*   [HAL – The Hardware Analyzer (⭐480)](https://github.com/emsec/hal) - A comprehensive reverse engineering and manipulation framework for gate-level netlists.
 *   [IoTSecFuzz](https://gitlab.com/invuls/iot-projects/iotsecfuzz) - Framework for automatisation of IoT layers security analysis: hardware, software and communication.
-*   [Killerbee (⭐681)](https://github.com/riverloopsec/killerbee) - Framework for Testing & Auditing ZigBee and IEEE 802.15.4 Networks.
-*   [PRET (⭐3.5k)](https://github.com/RUB-NDS/PRET) - Printer Exploitation Toolkit.
+*   [Killerbee (⭐707)](https://github.com/riverloopsec/killerbee) - Framework for Testing & Auditing ZigBee and IEEE 802.15.4 Networks.
+*   [PRET (⭐3.6k)](https://github.com/RUB-NDS/PRET) - Printer Exploitation Toolkit.
 *   [Routersploit (⭐11k)](https://github.com/threat9/routersploit) - Framework dedicated to exploit embedded devices.
 
 ### Software Tools / Analysis Tools
 
-*   [Firmwalker (⭐890)](https://github.com/craigz28/firmwalker) - Searches extracted firmware images for interesting files and information.
+*   [Firmwalker (⭐942)](https://github.com/craigz28/firmwalker) - Searches extracted firmware images for interesting files and information.
 
 ### Books / RFID NFC Tools
 
@@ -58,10 +64,10 @@
 
 ### Free Training / RFID NFC Tools
 
-*   [CSAW Embedded Security Challenge 2019 (⭐31)](https://github.com/TrustworthyComputing/csaw_esc_2019) - CSAW 2019 Embedded Security Challenge (ESC).
+*   [CSAW Embedded Security Challenge 2019 (⭐33)](https://github.com/TrustworthyComputing/csaw_esc_2019) - CSAW 2019 Embedded Security Challenge (ESC).
 *   [Embedded Security CTF](https://microcorruption.com) - Microcorruption: Embedded Security CTF.
-*   [Rhme-2016 (⭐272)](https://github.com/Riscure/Rhme-2016) - Riscure Hack me 2 is a low level hardware CTF challenge.
-*   [Rhme-2017/2018 (⭐80)](https://github.com/Riscure/Rhme-2017) - Riscure Hack Me 3 embedded hardware CTF 2017-2018.
+*   [Rhme-2016 (⭐286)](https://github.com/Riscure/Rhme-2016) - Riscure Hack me 2 is a low level hardware CTF challenge.
+*   [Rhme-2017/2018 (⭐84)](https://github.com/Riscure/Rhme-2017) - Riscure Hack Me 3 embedded hardware CTF 2017-2018.
 
 ### Websites / RFID NFC Tools
 
@@ -76,39 +82,33 @@
 *   [jcjc's Hack The World](https://jcjc-dev.com/)
 *   [Quarkslab](https://blog.quarkslab.com/)
 
-## [5. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
-
-### C / 理論計算機科学
-
-*   [苦しんで覚えるＣ言語](https://9cguide.appspot.com) - MMGames/森口将憲
-
 ## [6. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Themes
 
-*   [Carbon Design (⭐21)](https://github.com/httpsOmkar/carbon-keycloak-theme)
+*   [Carbon Design (⭐23)](https://github.com/httpsOmkar/carbon-keycloak-theme)
 
 ### Kubernetes
 
-*   [keycloak-operator (⭐431)](https://github.com/keycloak/keycloak-operator)
+*   [keycloak-operator (⭐432)](https://github.com/keycloak/keycloak-operator)
 
 ### Tools
 
-*   [keycloakmigration: Manage your Keycloak configuration with code (⭐95)](https://github.com/klg71/keycloakmigration)
+*   [keycloakmigration: Manage your Keycloak configuration with code (⭐99)](https://github.com/klg71/keycloakmigration)
 
 ## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Encryption / MIT
+### Encryption / Apache License
 
-*   [ada-keystore (⭐29)](https://github.com/stcarrez/ada-keystore) - Ada Keystore - protect your sensitive data with secure storage.
+*   [ada-keystore (⭐30)](https://github.com/stcarrez/ada-keystore) - Ada Keystore - protect your sensitive data with secure storage.
 
-### Algorithms, Containers and Protocols / MIT
+### Algorithms, Containers and Protocols / Apache License
 
-*   [ada-language-server (⭐184)](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
+*   [ada-language-server (⭐201)](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
 
-### Simulation / MIT
+### Simulation / Apache License
 
-*   [ghdl (⭐1.9k)](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator.
+*   [ghdl (⭐2k)](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator.
 
 ## [8. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 

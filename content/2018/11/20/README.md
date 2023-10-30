@@ -16,7 +16,7 @@
 
 ### Frameworks, Libraries and Tools / Blockchain
 
-*   [Trezor.Net (⭐38)](https://github.com/MelbourneDeveloper/Trezor.Net) - Cross platform C# library for talking to the Trezor Hardwarewallet
+*   [Trezor.Net (⭐41)](https://github.com/MelbourneDeveloper/Trezor.Net) - Cross platform C# library for talking to the Trezor Hardwarewallet
 
 ## [3. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -56,10 +56,10 @@
 
 ### Parser Library
 
-*   [Sprache (⭐2.1k)](https://github.com/sprache/Sprache) - A simple, lightweight library for constructing parsers directly in C# code
-*   [Pidgin (⭐723)](https://github.com/benjamin-hodgson/Pidgin) - A lightweight, fast and flexible parsing library for C#, developed at Stack Overflow
-*   [FParsec (⭐472)](https://github.com/stephan-tolksdorf/fparsec) - A parser combinator library for F#
-*   [Superpower (⭐920)](https://github.com/datalust/superpower) - A C# parser construction toolkit with high-quality error reporting
+*   [Sprache (⭐2.2k)](https://github.com/sprache/Sprache) - A simple, lightweight library for constructing parsers directly in C# code
+*   [Pidgin (⭐751)](https://github.com/benjamin-hodgson/Pidgin) - A lightweight, fast and flexible parsing library for C#, developed at Stack Overflow
+*   [FParsec (⭐489)](https://github.com/stephan-tolksdorf/fparsec) - A parser combinator library for F#
+*   [Superpower (⭐937)](https://github.com/datalust/superpower) - A C# parser construction toolkit with high-quality error reporting
 
 ## [9. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 

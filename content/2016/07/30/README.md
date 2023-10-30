@@ -27,7 +27,7 @@
 
 ### Registry
 
-*   [npm-register (⭐480)](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy.
+*   [npm-register (⭐478)](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy.
 
 ## [4. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 

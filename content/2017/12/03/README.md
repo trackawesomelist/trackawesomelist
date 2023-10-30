@@ -12,7 +12,7 @@
 
 ### Strasbourg
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/svensauleau" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/svensauleau" height="70px" width="70px" align="left" alt="" />
 
 **Sven Sauleau**\
 Topics: JavaScript (Babel), Artificial Intelligence, Linux, Cloud, Ops, Computer Science\
@@ -22,22 +22,22 @@ Topics: JavaScript (Babel), Artificial Intelligence, Linux, Cloud, Ops, Computer
 
 ### Productivity
 
-*   [Google Calendar View (⭐217)](https://github.com/deanishe/alfred-gcal) - View your Google Calendar events.
-*   [PDF Tools (⭐131)](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files.
-*   [Things (⭐352)](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
+*   [Google Calendar View (⭐220)](https://github.com/deanishe/alfred-gcal) - View your Google Calendar events.
+*   [PDF Tools (⭐134)](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files.
+*   [Things (⭐356)](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
 
 ## [3. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 
 ### Partial Access
 
-*   [Moby (⭐64k)](https://github.com/moby/moby)\
+*   [Moby (⭐66k)](https://github.com/moby/moby)\
     A "Lego set" of toolkit components for containers software created by Docker.
 
 ### Filesystem
 
-*   [container-diff (⭐3.3k)](https://github.com/GoogleCloudPlatform/container-diff)\
+*   [container-diff (⭐3.5k)](https://github.com/GoogleCloudPlatform/container-diff)\
     A tool for analyzing and comparing container images.
-*   [buildah (⭐5.7k)](https://github.com/projectatomic/buildah)\
+*   [buildah (⭐6.4k)](https://github.com/projectatomic/buildah)\
     A tool which facilitates building OCI container images.
 
 ## [4. Awesome Computer History](/content/watson/awesome-computer-history/README.md)
@@ -57,7 +57,7 @@ Topics: JavaScript (Babel), Artificial Intelligence, Linux, Cloud, Ops, Computer
 
 ### Open Source / Other
 
-*   [Mailspring (⭐14k)](https://github.com/Foundry376/Mailspring) - Extensible email client. (Fork of Nylas Mail)
+*   [Mailspring (⭐15k)](https://github.com/Foundry376/Mailspring) - Extensible email client. (Fork of Nylas Mail)
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

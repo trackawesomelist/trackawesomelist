@@ -10,11 +10,7 @@
 
 ### Software / Office Suites
 
-*   [ONLYOFFICE](https://helpcenter.onlyoffice.com/faq/server-opensource.aspx) - Office suite that enables you to manage documents, projects, team and customer relations in one place. ([Source Code (⭐3.3k)](https://github.com/ONLYOFFICE/DocumentServer)) `AGPL-3.0` `Nodejs`
-
-### Software / Ticketing
-
-*   [OpenSupports](https://www.opensupports.com/) - Multi language ticket system with FAQ, role management, metrics and canned response features. ([Demo](https://www.opensupports.com/demo/), [Source Code (⭐789)](https://github.com/opensupports/opensupports)) `GPL-3.0` `PHP`
+*   [ONLYOFFICE](https://helpcenter.onlyoffice.com/faq/server-opensource.aspx) - Office suite that enables you to manage documents, projects, team and customer relations in one place. ([Source Code (⭐3.9k)](https://github.com/ONLYOFFICE/DocumentServer)) `AGPL-3.0` `Nodejs/Docker`
 
 ## [2. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
@@ -56,7 +52,7 @@
 
 ### Packages / Content management systems
 
-*   [KeystoneJS (⭐8k)](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
+*   [KeystoneJS (⭐8.4k)](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
 
 ## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -68,7 +64,7 @@
 
 ### UI
 
-*   [Flip Panel (⭐551)](https://github.com/hnvn/flutter_flip_panel) <!--stargazers:hnvn/flutter_flip_panel--> - Flip panel with built-in animation by [HungHD](https://github.com/hnvn)
+*   [Flip Panel (⭐582)](https://github.com/hnvn/flutter_flip_panel) <!--stargazers:hnvn/flutter_flip_panel--> - Flip panel with built-in animation by [HungHD](https://github.com/hnvn)
 
 ## [9. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -86,7 +82,7 @@
 
 ### Admin Interface
 
-*   [Trestle (⭐1.8k)](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Rails. Build a back-end in minutes that will grow with the needs of your application.
+*   [Trestle (⭐1.9k)](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Rails. Build a back-end in minutes that will grow with the needs of your application.
 
 ---
 

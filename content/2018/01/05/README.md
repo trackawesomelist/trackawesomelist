@@ -10,7 +10,7 @@
 
 ### Official Documentation Translations
 
-*   [cry (⭐33)](https://github.com/elorest/cry) - Ability to execute crystal code in a fashion similar to Ruby's pry edit
+*   [cry (⭐34)](https://github.com/elorest/cry) - Ability to execute crystal code in a fashion similar to Ruby's pry edit
 
 ## [2. Awesome Dropwizard](/content/stve/awesome-dropwizard/README.md)
 
@@ -31,17 +31,17 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [vue-chrome-extension-boilerplate (⭐249)](https://github.com/mubaidr/vue-chrome-extension-boilerplate) - Boilerplate for Chrome extension using Vue.js and Webpack
+*   [vue-chrome-extension-boilerplate (⭐254)](https://github.com/mubaidr/vue-chrome-extension-boilerplate) - Boilerplate for Chrome extension using Vue.js and Webpack
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-seamless-scroll (⭐1.6k)](https://github.com/chenxuan0000/vue-seamless-scroll) - A simple, Seamless scrolling for Vue.js.
+*   [vue-seamless-scroll (⭐1.7k)](https://github.com/chenxuan0000/vue-seamless-scroll) - A simple, Seamless scrolling for Vue.js.
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Mobile
 
-*   👍 [serapeum (⭐365)](https://github.com/TBRSS/serapeum/) - Another general-purpose utility library. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   👍 [serapeum (⭐378)](https://github.com/TBRSS/serapeum/) - Another general-purpose utility library. [Expat](https://directory.fsf.org/wiki/License:Expat).
 *   [anaphora](https://common-lisp.net/project/anaphora/) - A collection of anaphoric macros. Public domain.
 
 ## [5. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
@@ -60,7 +60,7 @@
 
 ### Misc
 
-*   [Beak (⭐571)](https://github.com/yonaskolb/Beak) - A command line interface for your Swift scripts.
+*   [Beak (⭐579)](https://github.com/yonaskolb/Beak) - A command line interface for your Swift scripts.
 
 ### Animation
 
@@ -72,19 +72,19 @@
 
 ### Network / Barcode
 
-*   [Ciao (⭐57)](https://github.com/AlTavares/Ciao) - Publish and discover services using mDNS (Bonjour, Zeroconf).
+*   [Ciao (⭐59)](https://github.com/AlTavares/Ciao) - Publish and discover services using mDNS (Bonjour, Zeroconf).
 
 ### Styling / Barcode
 
-*   [Stylist (⭐285)](https://github.com/yonaskolb/Stylist) - Define UI styles in a hot-loadable external yaml or json file.
+*   [Stylist (⭐289)](https://github.com/yonaskolb/Stylist) - Define UI styles in a hot-loadable external yaml or json file.
 
 ### UI / Barcode
 
-*   [Shiny (⭐778)](https://github.com/efremidze/Shiny) - Iridescent Effect View (inspired by Apple Pay Cash).
+*   [Shiny (⭐789)](https://github.com/efremidze/Shiny) - Iridescent Effect View (inspired by Apple Pay Cash).
 
 ### Alert / Barcode
 
-*   [StatusAlert (⭐840)](https://github.com/LowKostKustomz/StatusAlert) - Display Apple system-like self-hiding status alerts without interrupting user flow.
+*   [StatusAlert (⭐844)](https://github.com/LowKostKustomz/StatusAlert) - Display Apple system-like self-hiding status alerts without interrupting user flow.
 
 ---
 

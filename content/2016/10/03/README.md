@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 03, 2016
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Swift / Git
 
-*   [IDZSwiftCommonCrypto (⭐469)](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - Wrapper for Apple's [CommonCrypto](https://opensource.apple.com/source/CommonCrypto/) library written in Swift.
+*   [IDZSwiftCommonCrypto (⭐476)](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - Wrapper for Apple's [CommonCrypto](https://opensource.apple.com/source/CommonCrypto/) library written in Swift.
 
 ## [2. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 
@@ -161,7 +161,7 @@
 
 ### Literate Programming
 
-*   [klipse (⭐3k)](https://github.com/viebel/klipse)
+*   [klipse (⭐3.1k)](https://github.com/viebel/klipse)
 
 ## [8. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -179,13 +179,7 @@
 *   [C (⭐4)](https://github.com/jaymine/TCP-eventbus-client-C) - Event bus client for C99 using the [TCP-based protocol (⭐48)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
 *   [Go (⭐28)](https://github.com/jponge/vertx-go-tcp-eventbus-bridge)- Event bus client for Go-lang using the [TCP-based protocol (⭐48)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
 
-## [10. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
-
-### Official Documentation Translations
-
-*   [crystalshards.herokuapp.com](https://crystalshards.herokuapp.com/), [crystalshards.xyz](http://crystalshards.xyz/) - Web services that list all available Crystal shards
-
-## [11. Tips](/content/git-tips/tips/README.md)
+## [10. Tips](/content/git-tips/tips/README.md)
 
 ## Specific fetch reference
 
@@ -193,7 +187,7 @@
 git fetch origin master:refs/remotes/origin/mymaster
 ```
 
-## [12. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
+## [11. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
 
 ### Government
 

@@ -10,7 +10,7 @@
 
 ### Crates / Component Libraries
 
-*   [yew-mdc (⭐60)](https://github.com/dungeonfog/yew-mdc) - Material Design Components for the Yew framework.
+*   [yew-mdc (⭐61)](https://github.com/dungeonfog/yew-mdc) - Material Design Components for the Yew framework.
 
 ## [2. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -41,8 +41,8 @@
 
 ### DevSecOps / Dependency confusion
 
-*   [Dependency Combobulator (⭐83)](https://github.com/apiiro/combobulator) - Open source, modular and extensible framework to detect and prevent dependency confusion leakage and potential attacks.
-*   [Confusion checker (⭐59)](https://github.com/sonatype-nexus-community/repo-diff) - Script to check if you have artifacts containing the same name between your repositories.
+*   [Dependency Combobulator (⭐85)](https://github.com/apiiro/combobulator) - Open source, modular and extensible framework to detect and prevent dependency confusion leakage and potential attacks.
+*   [Confusion checker (⭐58)](https://github.com/sonatype-nexus-community/repo-diff) - Script to check if you have artifacts containing the same name between your repositories.
 
 ## [4. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Libraries / New Libraries
 
-*   [JaxDF (⭐66)](https://github.com/ucl-bug/jaxdf) - Framework for differentiable simulators with arbitrary discretizations. <img src="https://img.shields.io/github/stars/ucl-bug/jaxdf?style=social" align="center">
+*   [JaxDF (⭐98)](https://github.com/ucl-bug/jaxdf) - Framework for differentiable simulators with arbitrary discretizations. <img src="https://img.shields.io/github/stars/ucl-bug/jaxdf?style=social" align="center">
 
 ## [6. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -83,13 +83,13 @@
 
 ### Logging
 
-*   [Sejil (⭐115)](https://github.com/alaatm/Sejil) - Capture, view and filter your ASP.NET Core app's logs right from your app. It supports structured logging, querying as well as saving log queries.
+*   [Sejil (⭐158)](https://github.com/alaatm/Sejil) - Capture, view and filter your ASP.NET Core app's logs right from your app. It supports structured logging, querying as well as saving log queries.
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
-*   [Element Plus (⭐20k)](https://github.com/element-plus/element-plus) - A Vue 3 UI Framework.
+*   [Element Plus (⭐22k)](https://github.com/element-plus/element-plus) - A Vue 3 UI Framework.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 06 - Jun 12, 2022
 
-55 awesome lists updated this week.
+56 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -52,20 +52,20 @@
 ### Development tools / Embedded
 
 *   nRF
-    *   [nrf-rs/nrf-hal (⭐388)](https://github.com/nrf-rs/nrf-hal) — A Rust HAL for the nRF family of devices
+    *   [nrf-rs/nrf-hal (⭐423)](https://github.com/nrf-rs/nrf-hal) — A Rust HAL for the nRF family of devices
 
 ### Libraries / Audio and Music
 
 *   [RustAudio](https://github.com/RustAudio)
-    *   [RustAudio/cpal (⭐1.9k)](https://github.com/RustAudio/cpal) - Low-level cross-platform audio I/O library in pure Rust. [![Actions Status](https://github.com/RustAudio/cpal/workflows/cpal/badge.svg?branch=master)](https://github.com/RustAudio/cpal/actions)
-    *   [RustAudio/rodio (⭐1.3k)](https://github.com/RustAudio/rodio) — A Rust audio playback library
-    *   [RustAudio/rust-portaudio (⭐341)](https://github.com/RustAudio/rust-portaudio) — PortAudio bindings
+    *   [RustAudio/cpal (⭐2.1k)](https://github.com/RustAudio/cpal) - Low-level cross-platform audio I/O library in pure Rust. [![Actions Status](https://github.com/RustAudio/cpal/workflows/cpal/badge.svg?branch=master)](https://github.com/RustAudio/cpal/actions)
+    *   [RustAudio/rodio (⭐1.4k)](https://github.com/RustAudio/rodio) — A Rust audio playback library
+    *   [RustAudio/rust-portaudio (⭐346)](https://github.com/RustAudio/rust-portaudio) — PortAudio bindings
 
 ## [8. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Rust / Git
 
-*   [orion (⭐450)](https://github.com/orion-rs/orion) - is a cryptography library written in pure Rust. It aims to provide easy and usable crypto while trying to minimize the use of unsafe code.
+*   [orion (⭐513)](https://github.com/orion-rs/orion) - is a cryptography library written in pure Rust. It aims to provide easy and usable crypto while trying to minimize the use of unsafe code.
 
 ## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -79,57 +79,63 @@
 
 *   [ESP3D (⭐1.4k)](https://github.com/luc-github/ESP3D) - An experimental firmware for 3D Printers, both the ESP32 and 8266.
 
-## [11. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [11. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### PHP / PicoLisp
+
+*   [An Introduction to the PHP Programming Language](https://codeahoy.com/learn/php/toc/) - CodeAhoy (HTML)
+
+## [12. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Standalone apps / Chrome Extensions
 
-*   [lc-mate (⭐2)](https://github.com/cglotr/lc-mate) - Extension that adds contest rating to usernames in LC
+*   [lc-mate (⭐1)](https://github.com/cglotr/lc-mate) - Extension that adds contest rating to usernames in LC
 
-## [12. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [13. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Other / [Other](#other-1)
 
-*   [dennis (⭐0)](https://github.com/willkg/dennis) — A set of utilities for working with PO files to ease development and improve quality.
+*   [dennis (⭐0)](https://github.com/willkg/dennis) :warning: — A set of utilities for working with PO files to ease development and improve quality.
 
-## [13. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [14. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / Frameworks
 
-*   [Clinical Quality Language (⭐213)](https://github.com/cqframework/clinical_quality_language) - Clinical Quality Language is a HL7 standard for the expression of clinical knowledge.
+*   [Clinical Quality Language (⭐217)](https://github.com/cqframework/clinical_quality_language) - Clinical Quality Language is a HL7 standard for the expression of clinical knowledge.
 
 ### Contents / Libraries
 
-*   [Android FHIR SDK (⭐331)](https://github.com/google/android-fhir) - The Android FHIR SDK
+*   [Android FHIR SDK (⭐352)](https://github.com/google/android-fhir) - The Android FHIR SDK
 *   [FHIRKit Client (⭐149)](https://github.com/Vermonster/fhir-kit-client) - Node FHIR client library.
-*   [FHIRModels (⭐142)](https://github.com/apple/FHIRModels) - FHIRModels is a Swift library for FHIR resource data models.
+*   [FHIRModels (⭐147)](https://github.com/apple/FHIRModels) - FHIRModels is a Swift library for FHIR resource data models.
 
 ### Contents / Integration
 
-*   [Open eHealth Integration Platform (⭐143)](https://github.com/oehf/ipf) - An extension of the Apache Camel routing and mediation engine
+*   [Open eHealth Integration Platform (⭐146)](https://github.com/oehf/ipf) - An extension of the Apache Camel routing and mediation engine
 
-## [14. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [15. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Results Processing / Tutorials & Demo
 
 *   [Latency Lingo](https://latencylingo.com) - Publish test results to generate hosted, interactive dashboards containing insights.
 
-## [15. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [16. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
-*   [true-myth (⭐636)](https://github.com/true-myth/true-myth) A library for safe, idiomatic null and error handling in TypeScript, with `Maybe` and `Result` types, supporting both a functional style and a more traditional method-call style
+*   [true-myth (⭐753)](https://github.com/true-myth/true-myth) A library for safe, idiomatic null and error handling in TypeScript, with `Maybe` and `Result` types, supporting both a functional style and a more traditional method-call style
 
-## [16. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [17. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Incident Management
 
 *   [Cyphon](https://medevel.com/cyphon/) - Cyphon eliminates the headaches of incident management by streamlining a multitude of related tasks through a single platform. It receives, processes and triages events to provide an all-encompassing solution for your analytic workflow — aggregating data, bundling and prioritizing alerts, and empowering analysts to investigate and document incidents.
 
-## [17. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [18. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Misc
 
-*   [Wagtail Grapple (⭐133)](https://github.com/torchbox/wagtail-grapple) - A Wagtail app that makes building GraphQL endpoints a breeze.
+*   [Wagtail Grapple (⭐139)](https://github.com/torchbox/wagtail-grapple) - A Wagtail app that makes building GraphQL endpoints a breeze.
 
 ### Resources / Getting started
 
@@ -147,51 +153,61 @@
 
 ### Open-source sites / Lists
 
-*   [WagtailParadise (⭐2)](https://github.com/abrahamrome/WagtailParadise) - demo Wagtail site showing common features and recipes
+*   [WagtailParadise (⭐3)](https://github.com/abrahamrome/WagtailParadise) - demo Wagtail site showing common features and recipes
 
-## [18. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [19. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Web
 
-*   [perwendel/spark-kotlin (⭐975)](https://github.com/perwendel/spark-kotlin) - A DSL in idiomatic Kotlin for the Spark web framework.
+*   [perwendel/spark-kotlin (⭐977)](https://github.com/perwendel/spark-kotlin) - A DSL in idiomatic Kotlin for the Spark web framework.
 *   [jetbrains/kotless (⭐1.1k)](https://github.com/jetbrains/kotless) - Kotlin serverless framework reducing the routine of serverless deployment.
 
 ### Libraries/Frameworks / Testing
 
-*   [robfletcher/strikt (⭐491)](https://github.com/robfletcher/strikt) - An assertion library for Kotlin
-*   [tschuchortdev/kotlin-compile-testing (⭐547)](https://github.com/tschuchortdev/kotlin-compile-testing) - A library for testing Kotlin and Java annotation processors, compiler plugins and code generation
+*   [robfletcher/strikt (⭐511)](https://github.com/robfletcher/strikt) - An assertion library for Kotlin
+*   [tschuchortdev/kotlin-compile-testing (⭐589)](https://github.com/tschuchortdev/kotlin-compile-testing) - A library for testing Kotlin and Java annotation processors, compiler plugins and code generation
 
 ### Libraries/Frameworks / Misc
 
 *   [InsanusMokrassar/KSLog (⭐8)](https://github.com/InsanusMokrassar/KSLog) - Fully customizable and lightweight logging library for Kotlin
-*   [charleskorn/kaml (⭐358)](https://github.com/charleskorn/kaml) - YAML support for kotlinx.serialization
+*   [charleskorn/kaml (⭐404)](https://github.com/charleskorn/kaml) - YAML support for kotlinx.serialization
 
-## [19. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [20. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Books / Visualization Tools
 
-*   [How to Lead in Data Science](https://www.manning.com/books/how-to-lead-in-data-science) - Early access
-*   [Casual Inference for Data Science](https://www.manning.com/books/julia-for-data-analysis) - Early access
+*   [How to Lead in Data Science](https://www.manning.com/books/how-to-lead-in-data-science) - Early Access
+*   [Casual Inference for Data Science](https://www.manning.com/books/julia-for-data-analysis) - Early Access
 
-## [20. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
+## [21. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
 
 ### Observability
 
 *   [Business metrics monitoring based on TDengine (⭐6)](https://github.com/gunnerliu/horus) - Highly customized business metrics monitoring with TDengine & Spring Boot
 
-## [21. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [22. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+
+### IDE
+
+*   [Sql Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms) - SQL Server Management Studio (SSMS) is an integrated environment for managing any SQL infrastructure, for SQL Server and Azure SQL Databases.
+
+### Application platforms / Samples
+
+*   [Tooljet (⭐24k)](https://github.com/ToolJet/ToolJet) - Open-source low-code platform to build internal tools.
+
+## [23. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Crates / Components
 
 *   [yew-scroll-area (⭐2)](https://github.com/MatchaChoco010/yew-scroll-area) - Custom scroll area for Yew.
 
-## [22. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [24. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
-### Awesome news / Angular
+### Awesome news / Svelte
 
 *   [Future Crunch](https://futurecrunch.com). A fortnightly newsletter with all the good news you don't get to hear about, in science, the environment, and across the world. You can see a feed of their good news [here](https://futurecrun.ch/goodnews).
 
-## [23. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [25. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Boilerplates
 
@@ -199,78 +215,64 @@
 
 ### Contents / Components
 
-*   [Preact Compat (⭐948)](https://github.com/preactjs/preact-compat) - Use any React library with Preact *([full example (⭐52)](https://github.com/developit/preact-compat-example))*.
-*   [Preact Render To String (⭐543)](https://github.com/preactjs/preact-render-to-string) - Universal rendering.
-*   [Preact Markup (⭐194)](https://github.com/developit/preact-markup) - Render HTML & Custom Elements as JSX & Components.
-*   [Preact Portal (⭐175)](https://github.com/developit/preact-portal) - Render Preact components into (a) SPACE.
-*   [Preact Richtextarea (⭐37)](https://github.com/developit/preact-richtextarea) - Simple HTML editor component.
-*   [Preact Cycle (⭐131)](https://github.com/developit/preact-cycle) - Functional-reactive paradigm for Preact.
-*   [Preact MUI (⭐36)](https://github.com/luisvinicius167/preact-mui) - The MUI CSS Preact library.
-*   [Preact MDL (⭐186)](https://github.com/developit/preact-mdl) - Use [MDL](https://getmdl.io) as Preact components.
-*   [Preact Photon (⭐169)](https://github.com/developit/preact-photon) - Build beautiful desktop UI with [photon](http://photonkit.com).
+*   [Preact Compat (⭐952)](https://github.com/preactjs/preact-compat) - Use any React library with Preact *([full example (⭐52)](https://github.com/developit/preact-compat-example))*.
+*   [Preact Render To String (⭐566)](https://github.com/preactjs/preact-render-to-string) - Universal rendering.
+*   [Preact Markup (⭐196)](https://github.com/developit/preact-markup) - Render HTML & Custom Elements as JSX & Components.
+*   [Preact Portal (⭐176)](https://github.com/developit/preact-portal) - Render Preact components into (a) SPACE.
+*   [Preact Richtextarea (⭐39)](https://github.com/developit/preact-richtextarea) - Simple HTML editor component.
+*   [Preact Cycle (⭐132)](https://github.com/developit/preact-cycle) - Functional-reactive paradigm for Preact.
+*   [Preact MUI (⭐37)](https://github.com/luisvinicius167/preact-mui) - The MUI CSS Preact library.
+*   [Preact MDL (⭐185)](https://github.com/developit/preact-mdl) - Use [MDL](https://getmdl.io) as Preact components.
+*   [Preact Photon (⭐172)](https://github.com/developit/preact-photon) - Build beautiful desktop UI with [photon](http://photonkit.com).
 
 ### Contents / Testing Utils
 
 *   [Preact JSX Chai (⭐57)](https://github.com/developit/preact-jsx-chai) - JSX assertion testing *(no DOM, right in Node)*.
 
-## [24. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [26. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Projects Related to eBPF / Networking
 
-*   [merbridge (⭐613)](https://github.com/merbridge/merbridge/) - Use eBPF to speed up your Service Mesh. Merbridge replaces iptables rules with eBPF to intercept traffic. It also combines msg\_redirect to reduce latency with a shortened datapath between sidecars and services.
+*   [merbridge (⭐669)](https://github.com/merbridge/merbridge/) - Use eBPF to speed up your Service Mesh. Merbridge replaces iptables rules with eBPF to intercept traffic. It also combines msg\_redirect to reduce latency with a shortened datapath between sidecars and services.
 
 ### Projects Related to eBPF / Observability
 
-*   [SkyWalking Rover (⭐140)](https://github.com/apache/skywalking-rover) - [Apache SkyWalking](https://skywalking.apache.org/) is an open-source Application Performance Monitoring (APM) platform specially designed for distributed systems with microservices, cloud-native and container-based (Kubernetes) architectures. SkyWalking Rover is an eBPF-based profiler and metrics collector for C, C++, Golang, and Rust applications.
+*   [SkyWalking Rover (⭐150)](https://github.com/apache/skywalking-rover) - [Apache SkyWalking](https://skywalking.apache.org/) is an open-source Application Performance Monitoring (APM) platform specially designed for distributed systems with microservices, cloud-native and container-based (Kubernetes) architectures. SkyWalking Rover is an eBPF-based profiler and metrics collector for C, C++, Golang, and Rust applications.
 
-## [25. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [27. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Querying / Symfony2
 
-*   [Schemathesis (⭐1.6k)](https://github.com/schemathesis/schemathesis) - Property-based testing tool for web applications built with Open API and GraphQL specifications.
+*   [Schemathesis (⭐1.8k)](https://github.com/schemathesis/schemathesis) - Property-based testing tool for web applications built with Open API and GraphQL specifications.
 
-## [26. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [28. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Make your life easier
 
 *   [BugBug](https://bugbug.io) - Lightweight test automation tool for web applications. Easy to learn and doesn't require coding. It's free, with unlimited tests. For an additional monthly fee, you also get cloud monitoring and CI/CD integration.
 
-## [27. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
-
-### IDE
-
-*   [Sql Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms) - SQL Server Management Studio (SSMS) is an integrated environment for managing any SQL infrastructure, for SQL Server and Azure SQL Databases.
-
-### GUI
-
-*   [Arctype](https://arctype.com) - The SQL client and database management tool that's fun to use.
-
-### Application platforms / Samples
-
-*   [Tooljet (⭐18k)](https://github.com/ToolJet/ToolJet) - Open-source low-code platform to build internal tools.
-
-## [28. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [29. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / File Management
 
-*   [WinSCP (⭐1.5k)](https://github.com/winscp/winscp) - SFTP and FTP client for Windows ([GNU GPLv3 (⭐1.5k)](https://github.com/winscp/winscp/blob/master/license.txt))
+*   [WinSCP (⭐1.9k)](https://github.com/winscp/winscp) - SFTP and FTP client for Windows ([GNU GPLv3 (⭐1.9k)](https://github.com/winscp/winscp/blob/master/license.txt))
 
 ### Software / Utilities
 
-*   [Espanso (⭐6.1k)](https://github.com/federico-terzi/espanso) - A cross-playform text expander ([GNU GPLv3 (⭐6.1k)](https://github.com/federico-terzi/espanso/blob/master/LICENSE))
+*   [Espanso (⭐7.7k)](https://github.com/federico-terzi/espanso) - A cross-playform text expander ([GNU GPLv3 (⭐7.7k)](https://github.com/federico-terzi/espanso/blob/master/LICENSE))
 
-## [29. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
+## [30. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
 
 ### Browser-Based / Arcade
 
-*   [ExecutiveMan (⭐82)](https://github.com/CamHenlin/ExecutiveMan) - Clone of NES game MegaMan, written in JavaScript.
-*   [Snake (⭐26)](https://github.com/jrgdiz/snake) - Simple clone of the snake game, using canvas and JavaScript.
+*   [ExecutiveMan (⭐81)](https://github.com/CamHenlin/ExecutiveMan) - Clone of NES game MegaMan, written in JavaScript.
+*   [Snake (⭐27)](https://github.com/jrgdiz/snake) - Simple clone of the snake game, using canvas and JavaScript.
 
 ### Browser-Based / Strategy
 
-*   [Command & Conquer (⭐756)](https://github.com/adityaravishankar/command-and-conquer) - Recreation of the original Command and Conquer, Real Time Strategy game entirely in HTML5 and JavaScript.
+*   [Command & Conquer (⭐758)](https://github.com/adityaravishankar/command-and-conquer) - Recreation of the original Command and Conquer, Real Time Strategy game entirely in HTML5 and JavaScript.
 
-## [30. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
+## [31. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
 
 ### Introduction and Pre-Security / Level 1 - Intro
 
@@ -347,31 +349,27 @@
 *   [Carpe Diem 1](https://tryhackme.com/room/carpediem1) - Recover your client's encrypted files before the ransomware timer runs out.
 *   [EnterPrize](https://tryhackme.com/room/enterprize) - Enterprise-themed network to hack into.
 
-## [31. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [32. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### validation
 
-*   [Jest-GeoJSON (⭐7)](https://github.com/M-Scott-Lassiter/jest-geojson): an extended set of matcher functions for the Jest Javascript unit testing framework tailored to evaluating GeoJSON data
+*   [Jest-GeoJSON (⭐8)](https://github.com/M-Scott-Lassiter/jest-geojson): an extended set of matcher functions for the Jest Javascript unit testing framework tailored to evaluating GeoJSON data
 
-## [32. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [33. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Jam](https://jamshelf.com/) - Jam is an open source alternative to Clubhouse: private audio chat rooms to talk to friends and family. ([Demo](https://jam.systems/), [Source Code (⭐1.2k)](https://github.com/jam-systems/jam)) `AGPL-3.0` `Docker/Nodejs`
-
-### Software / Communication - Social Networks and Forums
-
-*   [schnack (⭐1.8k)](https://github.com/schn4ck/schnack) - Schnack is simple self-hosted node app for Disqus-like drop-in commenting on static websites. `LIL-1.0` `Nodejs`
+*   [Jam](https://jamshelf.com/) - Private audio chat rooms to talk to friends and family (alternative to Clubhouse). ([Demo](https://jam.systems/), [Source Code (⭐1.2k)](https://github.com/jam-systems/jam)) `AGPL-3.0` `Docker/Nodejs`
 
 ### Software / Content Management Systems (CMS)
 
-*   [Apostrophe](https://apostrophecms.com/) - CMS with a focus on extensible in-context editing tools. ([Demo](https://apostrophecms.com/demo), [Source Code (⭐4k)](https://github.com/apostrophecms/apostrophe)) `MIT` `Nodejs`
-*   [Flextype](https://flextype.org/) - Flextype is an open-source Hybrid Content Management System with the freedom of a headless CMS and with the full functionality of a traditional CMS. ([Source Code (⭐553)](https://github.com/flextype/flextype)) `MIT` `PHP`
-*   [KeystoneJS](https://keystonejs.com/) - CMS and Web Application Platform. ([Source Code (⭐8k)](https://github.com/keystonejs/keystone)) `MIT` `Nodejs`
+*   [Apostrophe](https://apostrophecms.com/) - CMS with a focus on extensible in-context editing tools. ([Demo](https://apostrophecms.com/demo), [Source Code (⭐4.2k)](https://github.com/apostrophecms/apostrophe)) `MIT` `Nodejs`
+*   [Flextype](https://flextype.org/) - Flextype is an open-source Hybrid Content Management System with the freedom of a headless CMS and with the full functionality of a traditional CMS. ([Source Code (⭐562)](https://github.com/flextype/flextype)) `MIT` `PHP`
+*   [KeystoneJS](https://keystonejs.com/) - CMS and Web Application Platform. ([Source Code (⭐8.4k)](https://github.com/keystonejs/keystone)) `MIT` `Nodejs`
 
 ### Software / Document Management - E-books
 
-*   [Stump](https://www.stumpapp.dev) - A fast, free and open source comics, manga and digital book server with OPDS support. ([Source Code (⭐440)](https://github.com/aaronleopold/stump)) `MIT` `Rust`
+*   [Stump](https://www.stumpapp.dev) - A fast, free and open source comics, manga and digital book server with OPDS support. ([Source Code (⭐563)](https://github.com/stumpapp/stump)) `MIT` `Rust`
 
 ### Software / File Transfer & Synchronization
 
@@ -379,52 +377,49 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Zipline (⭐453)](https://github.com/diced/zipline) - A lightweight, fast and reliable file sharing server that is commonly used with ShareX, offering a react-based Web UI and fast API. `MIT` `Nodejs`
+*   [Zipline (⭐700)](https://github.com/diced/zipline) - A lightweight, fast and reliable file sharing server that is commonly used with ShareX, offering a react-based Web UI and fast API. `MIT` `Docker/Nodejs`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [ARRCON (⭐21)](https://github.com/radj307/ARRCON) - Terminal-based RCON client compatible with any game servers using the Source RCON Protocol. `GPL-3.0` `C++`
-*   [LinuxGSM](https://linuxgsm.com/) - CLI tool for deployment and management of dedicated game servers on Linux: more than 120 games are supported. ([Source Code (⭐3.7k)](https://github.com/GameServerManagers/LinuxGSM)) `MIT` `Shell`
-*   [Pterodactyl](https://pterodactyl.io/) - Management panel for game servers, with an intuitive UI for end users. ([Source Code (⭐5k)](https://github.com/pterodactyl/panel)) `MIT` `PHP`
-*   [RconCli (⭐152)](https://github.com/gorcon/rcon-cli) - CLI for executing queries on a remote Valve Source dedicated server using the RCON Protocol. `MIT` `Go`
+*   [ARRCON (⭐34)](https://github.com/radj307/ARRCON) - Terminal-based RCON client compatible with any game servers using the Source RCON Protocol. `GPL-3.0` `C++`
+*   [LinuxGSM](https://linuxgsm.com/) - CLI tool for deployment and management of dedicated game servers on Linux: more than 120 games are supported. ([Source Code (⭐3.9k)](https://github.com/GameServerManagers/LinuxGSM)) `MIT` `Shell`
+*   [Pterodactyl](https://pterodactyl.io/) - Management panel for game servers, with an intuitive UI for end users. ([Source Code (⭐5.4k)](https://github.com/pterodactyl/panel)) `MIT` `PHP`
+*   [RconCli (⭐193)](https://github.com/gorcon/rcon-cli) - CLI for executing queries on a remote Valve Source dedicated server using the RCON Protocol. `MIT` `Go`
 
 ### Software / Pastebins
 
-*   [MicroBin (⭐1.2k)](https://github.com/szabodanika/microbin) - Simple, performant, configurable, entirely self-contained pastebin and URL shortener. `BSD-3-Clause` `Rust`
-*   [Pastila](https://pastila.nl/) - Minimalistic paste service. Single page, zero click experience. ([Source Code (⭐36)](https://github.com/ClickHouse/pastila)) `Apache-2.0` `SQL`
-*   [Spacebin (⭐74)](https://github.com/spacebin-org/spirit) - Text-sharing for the final frontier — Reliable Pastebin server in Golang and Fiber. `Apache-2.0` `Go`
+*   [MicroBin (⭐1.8k)](https://github.com/szabodanika/microbin) - Simple, performant, configurable, entirely self-contained pastebin and URL shortener. `BSD-3-Clause` `Rust/Docker`
 
 ### Software / Self-hosting Solutions
 
-*   [LibreServer](https://libreserver.org/) - Home server configuration based on Debian. ([Source Code (⭐16)](https://github.com/bashrc2/libreserver)) `AGPL-3.0` `Shell`
-*   [Mars Server (⭐45)](https://github.com/borjapazr/mars-server) - Managed home server with Docker, Docker Compose, Make and Bash. `MIT` `Docker`
-*   [NextCloudPi (⭐2k)](https://github.com/nextcloud/nextcloudpi) - Nextcloud preinstalled and preconfigured, with a text and web management interface and all the tools needed to self host private data. With installation images for Raspberry Pi, Odroid, Rock64, Docker, and a curl installer for Armbian/Debian. `GPL-2.0-or-later` `Bash/PHP`
+*   [LibreServer](https://libreserver.org/) - Home server configuration based on Debian. ([Source Code (⭐20)](https://github.com/bashrc2/libreserver)) `AGPL-3.0` `Shell`
+*   [Mars Server (⭐54)](https://github.com/borjapazr/mars-server) - Managed home server with Docker, Docker Compose, Make and Bash. `MIT` `Docker`
+*   [NextCloudPi (⭐2.2k)](https://github.com/nextcloud/nextcloudpi) - Nextcloud preinstalled and preconfigured, with a text and web management interface and all the tools needed to self host private data. With installation images for Raspberry Pi, Odroid, Rock64, Docker, and a curl installer for Armbian/Debian. `GPL-2.0` `Shell/PHP`
 
 ### Software / Software Development - Localization
 
-*   [Traduora](https://traduora.co) - Translation management platform for teams. ([Source Code (⭐1.8k)](https://github.com/ever-co/ever-traduora)) `AGPL-3.0` `Docker/Nodejs`
+*   [Traduora](https://traduora.co) - Translation management platform for teams. ([Source Code (⭐1.9k)](https://github.com/ever-co/ever-traduora)) `AGPL-3.0` `Docker/K8S/Nodejs`
 
 ### Software / Task Management & To-do Lists
 
-*   [Kanboard](https://kanboard.org/) - Simple and open source visual task board. ([Source Code (⭐7.2k)](https://github.com/kanboard/kanboard)) `MIT` `PHP`
-*   [Restyaboard (⭐2k)](https://github.com/RestyaPlatform/board/) - Open source Trello-like kanban board. `OSL-3.0` `PHP`
+*   [Kanboard](https://kanboard.org/) - Simple and open source visual task board. ([Source Code (⭐7.8k)](https://github.com/kanboard/kanboard)) `MIT` `PHP`
 
-## [33. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [34. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Others
 
-*   [Css in Blazor presentation's source code (⭐15)](https://github.com/EdCharbeneau/Css-For-Blazor-Developers-Presentation) - ![last commit](https://img.shields.io/github/last-commit/EdCharbeneau/Css-For-Blazor-Developers-Presentation) Source code of a presentation by Ed Charbeneau about Blazor and CSS.
+*   [Css in Blazor presentation's source code (⭐17)](https://github.com/EdCharbeneau/Css-For-Blazor-Developers-Presentation) - ![last commit](https://img.shields.io/github/last-commit/EdCharbeneau/Css-For-Blazor-Developers-Presentation) Source code of a presentation by Ed Charbeneau about Blazor and CSS.
 
 ### Individual components / Others
 
-*   [Z.Blazor.Diagrams (⭐555)](https://github.com/zHaytam/Blazor.Diagrams) - ![stars](https://img.shields.io/github/stars/zHaytam/Blazor.Diagrams?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/zHaytam/Blazor.Diagrams?style=flat-square\&cacheSeconds=86400) A fully customizable and extensible all-purpose diagrams library for Blazor, inspired by the popular react-diagrams library, with many additions. [Demo](https://blazor-diagrams.zhaytam.com/demos/simple).
-*   [BlazorCurrentDevice (⭐17)](https://github.com/arivera12/BlazorCurrentDevice) - ![last commit](https://img.shields.io/github/last-commit/arivera12/BlazorCurrentDevice?style=flat-square\&cacheSeconds=86400) Device detection for blazor using current-device.js.
-*   [BlazorStyledTextArea (⭐15)](https://github.com/JByfordRew/BlazorStyledTextArea) - ![last commit](https://img.shields.io/github/last-commit/JByfordRew/BlazorStyledTextArea?style=flat-square\&cacheSeconds=86400) A textarea with style. This component essentially remains and works as a textarea but can have any of the text styled based on your application needs. Its simplicity is purposefully designed to avoid the complexities and issues that come with rich text editors.
+*   [Z.Blazor.Diagrams (⭐685)](https://github.com/zHaytam/Blazor.Diagrams) - ![stars](https://img.shields.io/github/stars/zHaytam/Blazor.Diagrams?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/zHaytam/Blazor.Diagrams?style=flat-square\&cacheSeconds=86400) A fully customizable and extensible all-purpose diagrams library for Blazor, inspired by the popular react-diagrams library, with many additions. [Demo](https://blazor-diagrams.zhaytam.com/demos/simple).
+*   [BlazorCurrentDevice (⭐20)](https://github.com/arivera12/BlazorCurrentDevice) - ![last commit](https://img.shields.io/github/last-commit/arivera12/BlazorCurrentDevice?style=flat-square\&cacheSeconds=86400) Device detection for blazor using current-device.js.
+*   [BlazorStyledTextArea (⭐16)](https://github.com/JByfordRew/BlazorStyledTextArea) - ![last commit](https://img.shields.io/github/last-commit/JByfordRew/BlazorStyledTextArea?style=flat-square\&cacheSeconds=86400) A textarea with style. This component essentially remains and works as a textarea but can have any of the text styled based on your application needs. Its simplicity is purposefully designed to avoid the complexities and issues that come with rich text editors.
 
 ### Others / Others
 
-*   [Fun.Blazor (⭐120)](https://github.com/slaveOftime/Fun.Blazor) - ![stars](https://img.shields.io/github/stars/slaveOftime/Fun.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/slaveOftime/Fun.Blazor?style=flat-square\&cacheSeconds=86400) This is a project to make F# developer to write blazor easier - Use F# for Blazor, Computation expression (CE) style DSL for internal and third party blazor libraries, Dependency injection, Adaptive and Elmish models, Giraffe style routing, Type safe style.
-*   [Blazor.DownloadFileFast (⭐26)](https://github.com/StefH/Blazor.DownloadFileFast) - ![stars](https://img.shields.io/github/stars/StefH/Blazor.DownloadFileFast?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/StefH/Blazor.DownloadFileFast?style=flat-square\&cacheSeconds=86400) Fast download of files to the browser from Blazor without any javascript library reference or dependency. ([Demo](https://stefh.github.io/Blazor.DownloadFileFast/)).
+*   [Fun.Blazor (⭐130)](https://github.com/slaveOftime/Fun.Blazor) - ![stars](https://img.shields.io/github/stars/slaveOftime/Fun.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/slaveOftime/Fun.Blazor?style=flat-square\&cacheSeconds=86400) This is a project to make F# developer to write blazor easier - Use F# for Blazor, Computation expression (CE) style DSL for internal and third party blazor libraries, Dependency injection, Adaptive and Elmish models, Giraffe style routing, Type safe style.
+*   [Blazor.DownloadFileFast (⭐27)](https://github.com/StefH/Blazor.DownloadFileFast) - ![stars](https://img.shields.io/github/stars/StefH/Blazor.DownloadFileFast?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/StefH/Blazor.DownloadFileFast?style=flat-square\&cacheSeconds=86400) Fast download of files to the browser from Blazor without any javascript library reference or dependency. ([Demo](https://stefh.github.io/Blazor.DownloadFileFast/)).
 *   [Blazor.DynamicJavascriptRuntime.Evaluator (⭐16)](https://github.com/jameschch/Blazor.DynamicJavascriptRuntime.Evaluator) - ![stars](https://img.shields.io/github/stars/jameschch/Blazor.DynamicJavascriptRuntime.Evaluator?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jameschch/Blazor.DynamicJavascriptRuntime.Evaluator?style=flat-square\&cacheSeconds=86400) Execute dynamic object expressions as Javascript in Blazor client-side apps.
 
 ### Podcasts / Others
@@ -435,7 +430,7 @@
 
 *   [Learning Blazor](https://learning.oreilly.com/library/view/learning-blazor/9781098113230) - Build Single-Page Apps with WebAssembly and C# (By David Pine via O'Reilly Early Release February 3rd, 2022).
 
-## [34. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [35. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Hardware / Plotters
 
@@ -454,81 +449,81 @@
 *   [Parametric 3d-Printable Plotter Pen Adapter](https://openjscad.xyz/#https://gist.githubusercontent.com/beardicus/d668c0f6b96be53d16dc/raw/plotter-pen-adapter.jscad) - Adjustable model to print adapters for various pens.
 *   [Plotter Pen STL Models](https://www.printables.com/model/156722-plotter-pen) - Accurate STL models of both short and long standard plotter pens.
 
-### Software / Plotter-Specific
+### Software / Plotter Control
 
-*   [axidraw (⭐373)](https://github.com/evil-mad/axidraw) - Official AxiDraw extensions for Inkscape.
+*   [axidraw (⭐394)](https://github.com/evil-mad/axidraw) - Official AxiDraw extensions for Inkscape.
 *   [Line-us Inkscape Plugin (⭐7)](https://github.com/Line-us/Inkscape-Plugin) - Sends drawings to the Line-us plotter directly from Inkscape.
-*   [Line-us API Examples (⭐101)](https://github.com/Line-us/Line-us-Programming) - Example code for the Line-us plotter's G-code-based API.
-*   [@beardicus/line-us (⭐24)](https://github.com/beardicus/line-us) - JavaScript library for controlling the Line-us machine from Node or the browser.
+*   [Line-us API Examples (⭐105)](https://github.com/Line-us/Line-us-Programming) - Example code for the Line-us plotter's G-code-based API.
+*   [@beardicus/line-us (⭐25)](https://github.com/beardicus/line-us) - JavaScript library for controlling the Line-us machine from Node or the browser.
 
 ### Inspiration, Instruction, and Research / Fonts
 
 *   [An Intro to Pen Plotters](https://medium.com/quarterstudio/an-intro-to-pen-plotters-29b6bd4327ba) - Good info on getting started with old HPGL plotters.
 
-## [35. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
+## [36. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
 
 ### Workflow Managers
 
 *   **[SciPipe (⭐972)](https://github.com/scipipe/scipipe)** - Workflow library embedded in the Go programming language, focusing on supporting complex workflow constructs, compiling to a single binary, providing powerful file naming and comprehensive audit reports for every output \[ [paper-2019](https://pubmed.ncbi.nlm.nih.gov/31029061/) | [web](https://scipipe.org/) ]
 
-## [36. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [37. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Finance
 
-*   [HADWIN (⭐55)](https://github.com/brownboycodes/HADWIN) - a prototype of a fund transfer platform by [Nabhodipta Garai](https://github.com/brownboycodes).
+*   [HADWIN (⭐66)](https://github.com/brownboycodes/HADWIN) - a prototype of a fund transfer platform by [Nabhodipta Garai](https://github.com/brownboycodes).
 
-## [37. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [38. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Scanning / Pentesting
 
 *   [tsurugi](https://tsurugi-linux.org/) - heavily customized Linux distribution that designed to support DFIR investigations, malware analysis and OSINT activities. It is based on Ubuntu 20.04(64-bit with a 5.15.12 custom kernel)
 
-## [38. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [39. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Game engine
 
-*   [caviar (⭐114)](https://github.com/load1n9/caviar) - ⚡ Blazing fast, modern, Game Engine powered by WebGPU for Deno and the browser
+*   [caviar (⭐124)](https://github.com/load1n9/caviar) - ⚡ Blazing fast, modern, Game Engine powered by WebGPU for Deno and the browser
 *   [neko (⭐45)](https://github.com/load1n9/neko) - 🐈 caviar's twin frame buffer deno module with a framebuffer canvas implementation
-*   [sdl2 (⭐109)](https://github.com/littledivy/deno_sdl2) - SDL2 module for Deno
+*   [sdl2 (⭐112)](https://github.com/littledivy/deno_sdl2) - SDL2 module for Deno
 
-## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [qalendar (⭐75)](https://github.com/tomosterlund/qalendar) - An event calendar and datepicker for Vue 3
-*   [sortablejs-vue3 (⭐230)](https://github.com/MaxLeiter/sortablejs-vue3) - A Vue 3 component acting as a thin wrapper around SortableJS
+*   [qalendar (⭐140)](https://github.com/tomosterlund/qalendar) - An event calendar and datepicker for Vue 3
+*   [sortablejs-vue3 (⭐287)](https://github.com/MaxLeiter/sortablejs-vue3) - A Vue 3 component acting as a thin wrapper around SortableJS
 
 ### Components & Libraries / UI Utilities
 
 *   [VFM (⭐1)](https://github.com/ccqgithub/vfm) - Vue driven form management tool.
 
-## [40. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [41. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### API
 
-*   [WTelegramClient (⭐566)](https://github.com/wiz0u/WTelegramClient) - Automate a user account on Telegram, using the latest version of [Telegram Client API](https://core.telegram.org/methods)
+*   [WTelegramClient (⭐692)](https://github.com/wiz0u/WTelegramClient) - Automate a user account on Telegram, using the latest version of [Telegram Client API](https://core.telegram.org/methods)
 
 ### Blazor
 
-*   [Megabit.Blazorise (⭐2.8k)](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor and CSS frameworks like Bootstrap, Bulma and Material. Very easy to use.
+*   [Megabit.Blazorise (⭐3k)](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor and CSS frameworks like Bootstrap, Bulma and Material. Very easy to use.
 
-## [41. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [42. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tools
 
-*   [TS-PICO-8 (⭐23)](https://github.com/tmountain/pico-8-typescript) - Create PICO-8 games using TypeScript.
+*   [TS-PICO-8 (⭐31)](https://github.com/tmountain/pico-8-typescript) - Create PICO-8 games using TypeScript.
 
 ### Contents / Text Editors Language Support
 
-*   Visual Studio Code: [pico8-ls (⭐33)](https://github.com/japhib/pico8-ls) - PICO-8 Language Server, providing full language support for the PICO-8 dialect of Lua.
+*   Visual Studio Code: [pico8-ls (⭐46)](https://github.com/japhib/pico8-ls) - PICO-8 Language Server, providing full language support for the PICO-8 dialect of Lua.
 
-## [42. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [43. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Tools
 
 *   [k6-html-reporter (⭐20)](https://github.com/szboynono/k6-html-reporter) - Tool for generating k6 HTML reports.
 
-## [43. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
+## [44. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
 
 ### General analytics
 
@@ -538,17 +533,17 @@
 
 *   [Hatica](https://www.hatica.io/) - Engineering Analytics to boost developer productivity `©` `SaaS`
 
-## [44. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [45. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Libraries / Java
 
-*   [OSM2World](http://osm2world.org) - OSM2World is a converter that creates three-dimensional models of the world from OpenStreetMap data. It can be used as a stand-alone tool, on a server or as a library in Java programs. ([Source Code (⭐456)](https://github.com/tordanik/OSM2World) / [Wiki](https://wiki.openstreetmap.org/wiki/OSM2World))
+*   [OSM2World](http://osm2world.org) - OSM2World is a converter that creates three-dimensional models of the world from OpenStreetMap data. It can be used as a stand-alone tool, on a server or as a library in Java programs. ([Source Code (⭐490)](https://github.com/tordanik/OSM2World) / [Wiki](https://wiki.openstreetmap.org/wiki/OSM2World))
 
-## [45. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [46. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Messaging
 
-*   [Quamina (⭐337)](https://github.com/timbray/quamina) - Fast pattern-matching for filtering messages and events.
+*   [Quamina (⭐351)](https://github.com/timbray/quamina) - Fast pattern-matching for filtering messages and events.
 
 ### Conferences / Libraries for creating HTTP middlewares
 
@@ -558,41 +553,41 @@
 
 *   [Network Programming With Go](https://jan.newmarch.name/golang/)
 
-## [46. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [47. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fastcache (⭐15)](https://github.com/QuarticCat/zsh-fastcache) - Caches command output to improve shell startup time.
-*   [fzf (gimbo) (⭐0)](https://github.com/gimbo/fzf.zsh) - Helpers for using [fzf (⭐52k)](https://github.com/junegunn/fzf) in ZSH. Requires [brew.sh](https://brew.sh).
-*   [pnpm (baliestri) (⭐2)](https://github.com/baliestri/pnpm.plugin.zsh) - Adds useful aliases for many common [pnpm](https://pnpm.io/) commands. Includes tab-completions.
-*   [pnpm (ntnyq) (⭐48)](https://github.com/ntnyq/omz-plugin-pnpm) - Adds useful aliases for common [pnpm](https://pnpm.io/) commands.
+*   [fastcache (⭐18)](https://github.com/QuarticCat/zsh-fastcache) - Caches command output to improve shell startup time.
+*   [fzf (gimbo) (⭐0)](https://github.com/gimbo/fzf.zsh) - Helpers for using [fzf (⭐55k)](https://github.com/junegunn/fzf) in ZSH. Requires [brew.sh](https://brew.sh).
+*   [pnpm (baliestri) (⭐4)](https://github.com/baliestri/pnpm.plugin.zsh) - Adds useful aliases for many common [pnpm](https://pnpm.io/) commands. Includes tab-completions.
+*   [pnpm (ntnyq) (⭐57)](https://github.com/ntnyq/omz-plugin-pnpm) - Adds useful aliases for common [pnpm](https://pnpm.io/) commands.
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [myincr (⭐0)](https://github.com/gaojunbin/zsh-myincr/) - Speeds up pasting with autosuggest and incr.
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [gugulenok (⭐0)](https://github.com/gugulen0k/gugulenok/) - Has both a dark and a light mode. Includes decorators for `git` status, time and current directory.
-*   [ivabus (⭐5)](https://github.com/ivabus/ivabus-zsh-theme) - Inspired by the GitHub Codespaces prompt. Includes decorators for `git` status, username and current directory.
+*   [ivabus (⭐7)](https://github.com/ivabus/ivabus-zsh-theme) - Inspired by the GitHub Codespaces prompt. Includes decorators for `git` status, username and current directory.
 *   [link (⭐1)](https://github.com/kylegl/link-zsh-theme) - Minimalist. Includes `git` status and last command exit decorations.
-*   [zish (⭐0)](https://github.com/RubixDev/zish/) - Based on the `fish` shell's default look.
+*   [zish (⭐1)](https://github.com/RubixDev/zish/) - Based on the `fish` shell's default look.
 
-## [47. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [48. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Miscellaneous
 
-*   [Gitmoji (⭐16)](https://github.com/techouse/alfred-gitmoji) - Search for [Gitmojis](https://gitmoji.dev) easily.
+*   [Gitmoji (⭐20)](https://github.com/techouse/alfred-gitmoji) - Search for [Gitmojis](https://gitmoji.dev) easily.
 
 ### Helpers
 
-*   [Alfred Workflow (for Dart) (⭐7)](https://github.com/techouse/alfred_workflow) - Dart library for writing Alfred workflows. Inspired by [Alfred-Workflow (⭐2.9k)](https://github.com/deanishe/alfred-workflow) for Python.
+*   [Alfred Workflow (for Dart) (⭐8)](https://github.com/techouse/alfred_workflow) - Dart library for writing Alfred workflows. Inspired by [Alfred-Workflow (⭐2.9k)](https://github.com/deanishe/alfred-workflow) for Python.
 
-## [48. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [49. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C, C++
 
-*   ⭐ [Ironclad (⭐142)](https://github.com/sharplispers/ironclad) - A library of crypto functions for Common Lisp. Not considered secure, but is still useful for the message digest functions. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   ⭐ [Ironclad (⭐148)](https://github.com/sharplispers/ironclad) - A library of crypto functions for Common Lisp. Not considered secure, but is still useful for the message digest functions. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
 ### ORMs
 
@@ -604,12 +599,14 @@
 
 ### C
 
-*   ⭐ [CFFI (⭐380)](https://github.com/cffi/cffi) - Portable, easy-to-use C foreign function interface. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   ⭐ [CFFI (⭐393)](https://github.com/cffi/cffi) - Portable, easy-to-use C foreign function interface. [Expat](https://directory.fsf.org/wiki/License:Expat).
+    *   [cffi-ops (⭐26)](https://github.com/bohonghuang/cffi-ops) - helps write concise CFFI-related code.
+    *   [cffi-objects (⭐13)](https://github.com/bohonghuang/cffi-object) - enables fast and convenient interoperation with foreign objects.
 
 ### Miscellaneous
 
 *   ⭐ [Sketch (⭐1.3k)](https://github.com/vydd/sketch) - A CL framework for the creation of electronic art, graphics, and lots more. [MIT](https://opensource.org/licenses/MIT).
-*   ⭐ [CommonQt (⭐109)](https://github.com/commonqt/commonqt) - A Common Lisp binding for Qt4 via QtSmoke. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+*   ⭐ [CommonQt (⭐112)](https://github.com/commonqt/commonqt) - A Common Lisp binding for Qt4 via QtSmoke. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
     *   [CommonQt5 (⭐29)](https://github.com/commonqt/commonqt5/) - bindings for Qt5.
         *   warn: currently difficult to install. Used in production© by SISCOG.
 
@@ -617,7 +614,7 @@
 
 *   ⭐ [CCL](https://github.com/CodyReichert/awesome-cl/blob/master//ccl.clozure.com/) - Clozure Common Lisp; compiler-only implementation, generates native code.  [LLGPL](http://opensource.franz.com/preamble.html).
 *   ⭐ [alexandria](https://common-lisp.net/project/alexandria/) - A general-purpose utility library. Public domain.
-*   ⭐ [trivia (⭐285)](https://github.com/guicho271828/trivia/) - Optimized pattern-matching library. [LLGPL](http://opensource.franz.com/preamble.html).
+*   ⭐ [trivia (⭐300)](https://github.com/guicho271828/trivia/) - Optimized pattern-matching library. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### CLOS extensions
 
@@ -630,7 +627,7 @@
 ### Community
 
 *   ⭐ [Quicklisp](https://www.quicklisp.org/beta/) - A library manager containing many libraries, with easy depencency management. [Expat](https://directory.fsf.org/wiki/License:Expat).
-    *   [ql-https (⭐8)](https://github.com/rudolfochrist/ql-https) - shell out to cURL and use HTTPS by default.
+    *   [ql-https (⭐11)](https://github.com/rudolfochrist/ql-https) - shell out to cURL and use HTTPS by default.
     *   [Quicklisp bundles](https://quicklisp.org/beta/bundles.html) -  self-contained sets of systems that are exported from Quicklisp and loadable without involving Quicklisp.
 
 ### HTTP Servers / Interfaces to other package managers
@@ -644,7 +641,6 @@
 ### Utils / Third-party APIs
 
 *   ⭐ [BordeauxThreads](https://common-lisp.net/project/bordeaux-threads/) - Portable, shared-state concurrency. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   ⭐ [lparallel (⭐226)](https://github.com/lmj/lparallel) - A library for parallel programming. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### Job processing / Third-party APIs
 
@@ -652,21 +648,21 @@
 
 ### Emacs / Third-party APIs
 
-*   ⭐ [Slime (⭐1.7k)](https://github.com/slime/slime) - Superior Lisp Interaction Mode for Emacs; a full-blown environment for Common Lisp inside of Emacs. Public domain.
+*   ⭐ [Slime (⭐1.8k)](https://github.com/slime/slime) - Superior Lisp Interaction Mode for Emacs; a full-blown environment for Common Lisp inside of Emacs. Public domain.
 
 ### Apps / Third-party APIs
 
-*   ⭐ [esrap (⭐65)](https://github.com/scymtym/esrap) - Packrat parser. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   ⭐ [FiveAM (⭐167)](https://github.com/sionescu/fiveam) - Simple regression testing framework. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
-    *   [fiveam-matchers (⭐7)](https://github.com/tdrhq/fiveam-matchers/) -  an extensible, composable matchers library for fiveam. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
+*   ⭐ [esrap (⭐70)](https://github.com/scymtym/esrap) - Packrat parser. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   ⭐ [FiveAM (⭐172)](https://github.com/sionescu/fiveam) - Simple regression testing framework. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+    *   [fiveam-matchers (⭐8)](https://github.com/tdrhq/fiveam-matchers/) -  an extensible, composable matchers library for fiveam. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ### Caching / Third-party APIs
 
-*   [clache (⭐12)](https://github.com/html/clache) - General caching facility. Cache any Lisp object on disk or in memory. A cache can be persistent or have an expiration time. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [clache (⭐13)](https://github.com/html/clache) - General caching facility. Cache any Lisp object on disk or in memory. A cache can be persistent or have an expiration time. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### CSV / Third-party APIs
 
-*   ⭐ [cl-csv (⭐107)](https://github.com/AccelerationNet/cl-csv) - A library for parsing CSV files. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   ⭐ [cl-csv (⭐113)](https://github.com/AccelerationNet/cl-csv) - A library for parsing CSV files. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### Date and time / Third-party APIs
 
@@ -674,33 +670,33 @@
 
 ### Documentation builders / Third-party APIs
 
-*   [mgl-pax (⭐56)](https://github.com/melisgl/mgl-pax) - Exploratory
+*   [mgl-pax (⭐64)](https://github.com/melisgl/mgl-pax) - Exploratory
     programming environment and documentation generator. one may
     accomplish similar effects as with Literate Programming, but
     documentation is generated from code, not vice versa. Code is first,
     code must look pretty, documentation is code. [MIT](https://opensource.org/licenses/MIT).
-    *   see this [40ants fork (⭐13)](https://github.com/40ants/doc) for: a lighter core system, a JavaScript search index, multiple format output, HTML themes, RSS and Atom feed for the Changelog and more.
-*   [Declt (⭐33)](https://github.com/didierverna/declt) - Reference manual generator for Common Lisp libraries. Builds a texinfo document that can be further processed into various formats, such as HTML or PDF. BSD.
-*   [Codex (⭐83)](https://github.com/CommonDoc/codex) - A beautiful
+    *   see this [40ants fork (⭐15)](https://github.com/40ants/doc) for: a lighter core system, a JavaScript search index, multiple format output, HTML themes, RSS and Atom feed for the Changelog and more.
+*   [Declt (⭐36)](https://github.com/didierverna/declt) - Reference manual generator for Common Lisp libraries. Builds a texinfo document that can be further processed into various formats, such as HTML or PDF. BSD.
+*   [Codex (⭐84)](https://github.com/CommonDoc/codex) - A beautiful
     documentation system for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 *   [QBook (⭐6)](https://github.com/mmontone/qbook) - generates HTML (or LaTeX) formatted code listings of Common Lisp source files. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   all comments started with 4 `;` (";;;;") are interpreted as documentation. Enhance the documentation with headings and directives.
     *   QBook acts as "a lightweight literate programming system, where Lisp code is not rendered inline, but in separate sections, and that makes the document more pleasant to navigate." @mmontone
-*   [cl-bibtex (⭐23)](https://github.com/mkoeppe/cl-bibtex) - A compatible re-implementation of the BibTeX program in Common Lisp, with a BST-to-CL compiler. [GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
+*   [cl-bibtex (⭐24)](https://github.com/mkoeppe/cl-bibtex) - A compatible re-implementation of the BibTeX program in Common Lisp, with a BST-to-CL compiler. [GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
 *   [docbrowser (⭐15)](https://github.com/lokedhs/docbrowser) - a server that generates documentation for the loaded systems on the fly.
     *   Its main page presents a list of all loaded systems in your Lisp image. Click on one system, and you get a page with three panes: functions, classes and variables. Click on a function to see its source, in context, with line numbers. Click on classes to see their slots and specializing functions.
 
 ### Literate programming / Third-party APIs
 
-*   [literate-lisp (⭐49)](https://github.com/jingtaozf/literate-lisp) -  Load Common Lisp code blocks from Emacs' Org files. [MIT](https://opensource.org/licenses/MIT).
-*   [erudite (⭐60)](https://github.com/mmontone/erudite) - Literate Programming System built with interactive development in mind. [MIT](https://opensource.org/licenses/MIT).
+*   [literate-lisp (⭐51)](https://github.com/jingtaozf/literate-lisp) -  Load Common Lisp code blocks from Emacs' Org files. [MIT](https://opensource.org/licenses/MIT).
+*   [erudite (⭐67)](https://github.com/mmontone/erudite) - Literate Programming System built with interactive development in mind. [MIT](https://opensource.org/licenses/MIT).
 
 ### Other / Third-party APIs
 
 *   absolute de-facto libraries, like BordeauxThreads or Quicklisp,
     should be denoted with a ⭐ (Unicode code U+2B50).
 
-## [49. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [50. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### iOS / React
 
@@ -708,34 +704,34 @@
 
 ### Tools - Editors & IDEs & Explorers / React
 
-*   [gqt (⭐442)](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal.
+*   [gqt (⭐443)](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal.
 
-## [50. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [51. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [smjonas/inc-rename.nvim (⭐349)](https://github.com/smjonas/inc-rename.nvim) - Provides an incremental LSP rename command based on Neovim's command-preview feature.
+*   [smjonas/inc-rename.nvim (⭐394)](https://github.com/smjonas/inc-rename.nvim) - Provides an incremental LSP rename command based on Neovim's command-preview feature.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [ldelossa/vimdark (⭐68)](https://github.com/ldelossa/vimdark) - A minimal Vim theme for night time. Loosely based on vim-monotonic and chrome's dark reader extension. A light theme is included as well for the day time.
+*   [ldelossa/vimdark (⭐69)](https://github.com/ldelossa/vimdark) - A minimal Vim theme for night time. Loosely based on vim-monotonic and chrome's dark reader extension. A light theme is included as well for the day time.
 
 ### Editing Support / Diagnostics
 
-*   [h-hg/fcitx.nvim (⭐57)](https://github.com/h-hg/fcitx.nvim) - Switching and restoring fcitx state for each buffer separately.
-*   [filipdutescu/renamer.nvim (⭐262)](https://github.com/filipdutescu/renamer.nvim) - VS Code-like renaming UI, written in Lua.
+*   [h-hg/fcitx.nvim (⭐64)](https://github.com/h-hg/fcitx.nvim) - Switching and restoring fcitx state for each buffer separately.
+*   [filipdutescu/renamer.nvim (⭐283)](https://github.com/filipdutescu/renamer.nvim) - VS Code-like renaming UI, written in Lua.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [imbacraft/dusk.nvim (⭐27)](https://github.com/imbacraft/dusk.nvim) - Dusk is a lightweight, aesthetically minimal Neovim config, written in Lua, able to provide for web and Java development.
+*   [imbacraft/dusk.nvim (⭐36)](https://github.com/imbacraft/dusk.nvim) - Dusk is a lightweight, aesthetically minimal Neovim config, written in Lua, able to provide for web and Java development.
 
-## [51. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
+## [52. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
 
-### WWDC Students Submissions / Functional Reactive Programming
+### WWDC Students Submissions
 
-*   [2022 (⭐58)](https://github.com/wwdc/2022)
+*   [2022 (⭐135)](https://github.com/wwdc/2022)
 
-## [52. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
+## [53. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 
 ### Construct Libraries / APIs
 
@@ -749,31 +745,31 @@
 
 *   [cdk-organizations (⭐91)](https://github.com/pepperize/cdk-organizations) - CDK constructs that helps to provision AWS Organization, Organizational Units (OU), Accounts and Policies.
 
-## [53. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [54. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Graphics
 
-*   [Harfang 3D (⭐340)](https://github.com/harfang3d/harfang3d) 3D visualization library usable in C++, Python, Lua and Go. Based on BGFX. \[GPLv3/LGPLv3/Commercial] [website](https://www.harfang3d.com)
+*   [Harfang 3D (⭐414)](https://github.com/harfang3d/harfang3d) 3D visualization library usable in C++, Python, Lua and Go. Based on BGFX. \[GPLv3/LGPLv3/Commercial] [website](https://www.harfang3d.com)
 
-## [54. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [55. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### CI and CD
 
-*   [Argonaut](https://argonaut.dev/) - Deploy apps and infrastructure on your cloud in minutes. Support for custom and third-party app deployments on Kubernetes and Lambda environments. Free tier allows unlimited apps and deployments for 5 environments and 2 users.
+*   [Argonaut](https://argonaut.dev/) - Deploy apps and infrastructure on your cloud in minutes. Support for custom and third-party app deployments on Kubernetes and Lambda environments. The free tier allows unlimited apps and deployments for 5 domains and 2 users.
 
 ### DNS
 
 *   [sslip.io](https://sslip.io/) — Free DNS service that when queried with a hostname with an embedded IP address returns that IP address.
 
-### DBaaS
+### Managed Data Services
 
-*   [TiDB Cloud](https://en.pingcap.com/tidb-cloud/) — TiDB is an open source MySQL compatible distributed HTAP RDBMS. TiDB Cloud provides one-year free Developer Tier, 500 MiB of OLTP storage, and 500 MiB of OLAP Storage.
+*   [TiDB Cloud](https://en.pingcap.com/tidb-cloud/) — TiDB is an open-source MySQL-compatible distributed HTAP RDBMS. TiDB Serverless provides 5GB of row storage, 5GB of column storage, and 50 million Request Units (RUs) for free each month.
 
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
-*   [Hookdeck](https://hookdeck.com/pricing) — Develop, test and monitor your webhooks from a single place. 100K requests and 100K attempts per month with 3 days retention.
+*   [Hookdeck](https://hookdeck.com/pricing) — Develop, test, and monitor your webhooks from anywhere. 100K requests and 100K attempts per month with three days retention.
 
-## [55. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+## [56. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
 ### Books / Monograph
 
@@ -785,8 +781,8 @@
 
 ### Network Groups / Monograph
 
-*   [Mathematics (⭐7.1k)](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics
-*   P.S. See also [Math (⭐2.3k)](https://github.com/ossu/math) and [CS (⭐138k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
+*   [Mathematics (⭐7.5k)](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics
+*   P.S. See also [Math (⭐2.8k)](https://github.com/ossu/math) and [CS (⭐149k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
 
 ---
 

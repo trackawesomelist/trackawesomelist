@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 04, 2020
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -23,13 +23,13 @@
 
 ### Threat Intelligence / Telegram
 
-*   [OnionScan (⭐2.5k)](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
+*   [OnionScan (⭐2.6k)](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
 
 ## [3. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Tools and frameworks
 
-*   [Selenide (⭐1.6k)](https://github.com/selenide/selenide) - Framework powered by Selenium WebDriver for writing easy-to-read and easy-to-maintain automated tests in Java.
+*   [Selenide (⭐1.7k)](https://github.com/selenide/selenide) - Framework powered by Selenium WebDriver for writing easy-to-read and easy-to-maintain automated tests in Java.
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -39,17 +39,17 @@
 
 ### Software / Miscellaneous
 
-*   [CapRover](https://caprover.com/) - Build your own PaaS in a few minutes. ([Demo](https://captain.server.demo.caprover.com/#/login), [Source Code (⭐10k)](https://github.com/caprover/caprover)) `Apache-2.0` `Docker/Nodejs`
+*   [CapRover](https://caprover.com/) - Build your own PaaS in a few minutes. ([Demo](https://captain.server.demo.caprover.com/#/login), [Source Code (⭐11k)](https://github.com/caprover/caprover)) `Apache-2.0` `Docker/Nodejs`
 
 ### Software / Ticketing
 
-*   [Erxes](https://erxes.io/install/) - Marketing, sales, and customer service platform designed to help businesses attract more engaged customers. ([Demo](https://demo.erxes.io/), [Source Code (⭐2.8k)](https://github.com/erxes/erxes)) `GPL-3.0` `Javascript`
+*   [Erxes](https://erxes.io/install/) - Marketing, sales, and customer service platform designed to help businesses attract more engaged customers. ([Source Code (⭐3.2k)](https://github.com/erxes/erxes)) `GPL-3.0` `Docker`
 
 ## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Miscellaneous
 
-*   [react-advanced-news-ticker (⭐36)](https://github.com/ahmetcanaydemir/react-advanced-news-ticker) - [demo](https://www.ahmetcanaydemir.com/react-advanced-news-ticker/) - A flexible and animated vertical news ticker component
+*   [react-advanced-news-ticker (⭐42)](https://github.com/ahmetcanaydemir/react-advanced-news-ticker) - [demo](https://www.ahmetcanaydemir.com/react-advanced-news-ticker/) - A flexible and animated vertical news ticker component
 
 ## [6. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Plugins
 
-*   [Abstract Connect (⭐6)](https://github.com/MichaelZaporozhets/abstractconnect) - A Design tokens extractor for devs using Abstract & JavaScript.
+*   [Abstract Connect (⭐7)](https://github.com/MichaelZaporozhets/abstractconnect) - A Design tokens extractor for devs using Abstract & JavaScript.
 
 ### Articles
 
@@ -88,8 +88,8 @@
 
 ### Develop isolated components / Storybook addons
 
-*   [Source (⭐75k)](https://github.com/storybookjs/storybook/tree/master/addons/storysource) - View a story's source code to see how it works and paste into your app.
-*   [Viewport (⭐75k)](https://github.com/storybookjs/storybook/tree/master/addons/viewport) - Build responsive components by adjusting Storybook's viewport size and orientation.
+*   [Source (⭐79k)](https://github.com/storybookjs/storybook/tree/master/addons/storysource) - View a story's source code to see how it works and paste into your app.
+*   [Viewport (⭐79k)](https://github.com/storybookjs/storybook/tree/master/addons/viewport) - Build responsive components by adjusting Storybook's viewport size and orientation.
 
 ### Books / Storybook addons
 
@@ -111,7 +111,7 @@
 
 ### Scroll / Other
 
-*   [rellax (⭐6.8k)](https://github.com/dixonandmoe/rellax) - Buttery smooth, super lightweight, vanilla javascript parallax library.
+*   [rellax (⭐6.9k)](https://github.com/dixonandmoe/rellax) - Buttery smooth, super lightweight, vanilla javascript parallax library.
 
 ## [8. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
 
@@ -129,7 +129,7 @@
 
 ### Web
 
-*   🔌 [SvelteFire (⭐932)](https://github.com/codediodeio/sveltefire) - Cybernetically enhanced Firebase apps.
+*   🔌 [SvelteFire (⭐1.4k)](https://github.com/codediodeio/sveltefire) - Cybernetically enhanced Firebase apps.
 
 ## [11. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -141,19 +141,29 @@
 
 ### Merchants
 
-*   [Cryptocurrency Icons (⭐2.3k)](https://github.com/spothq/cryptocurrency-icons) - over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.
+*   [Cryptocurrency Icons (⭐2.5k)](https://github.com/spothq/cryptocurrency-icons) - over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.
 
-## [13. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/README.md)
+## [13. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### HTML and CSS / Spock Framework
+
+*   [Pocket Guide to Writing SVG](https://svgpocketguide.com) - Joni Trythall
+
+### Ruby / Tornado
+
+*   [The Ruby Reference](https://rubyreferences.github.io/rubyref/) - Victor Shepelev
+
+## [14. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/README.md)
 
 ### (Non-spatial) Transcriptomics
 
 *   [TISCH](http://tisch.comp-genomics.org/home/) - Tumor Immune Single-cell Hub (TISCH) is a scRNA-seq database focusing on tumor microenvironment.
 
-## [14. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [15. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### UI Libraries, Components & Templates
 
-*   💙📚 [Headless UI (⭐21k)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
+*   💙📚 [Headless UI (⭐23k)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
 
 ---
 

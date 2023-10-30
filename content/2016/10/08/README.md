@@ -10,13 +10,13 @@
 
 ### ACL
 
-*   [PhalconUserPlugin (⭐186)](https://github.com/calinrada/PhalconUserPlugin) - Plugin based on Vökuró ACL idea
+*   [PhalconUserPlugin (⭐185)](https://github.com/calinrada/PhalconUserPlugin) - Plugin based on Vökuró ACL idea
 
 ## [2. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries / Data Structures
 
-*   [Icepick (⭐416)](https://github.com/aearly/icepick) Utilities for treating frozen JavaScript objects as persistent immutable collections
+*   [Icepick (⭐419)](https://github.com/aearly/icepick) Utilities for treating frozen JavaScript objects as persistent immutable collections
 
 ## [3. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/README.md)
 

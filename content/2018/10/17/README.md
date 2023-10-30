@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 17, 2018
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,17 +14,17 @@
 
 ### Official Documentation Translations
 
-*   [shards.info](http://shards.info/) - Web service that lists all repositories on GitHub that have Crystal code in them. The sources are available on [GitHub (⭐34)](https://github.com/mamantoha/shards-info)
+*   [shards.info](http://shards.info/) - Web service that lists all repositories on GitHub that have Crystal code in them. The sources are available on [GitHub (⭐38)](https://github.com/mamantoha/shards-info)
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Cryptography
 
-*   [libhydrogen (⭐493)](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments. \[ISC]
+*   [libhydrogen (⭐534)](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments. \[ISC]
 
 ### Serialization
 
-*   [YAS (⭐628)](https://github.com/niXman/yas) - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. \[Boost]
+*   [YAS (⭐675)](https://github.com/niXman/yas) - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. \[Boost]
 
 ## [3. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Other Tools / Telegram
 
-*   [Zen (⭐493)](https://github.com/s0md3v/Zen) - Find email addresses of Github users
+*   [Zen (⭐512)](https://github.com/s0md3v/Zen) - Find email addresses of Github users
 
 ## [6. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Key Value Store
 
-*   [Defaults (⭐1.5k)](https://github.com/sindresorhus/Defaults) - Strongly-typed UserDefaults with support for Codable and key observation.
+*   [Defaults (⭐1.6k)](https://github.com/sindresorhus/Defaults) - Strongly-typed UserDefaults with support for Codable and key observation.
 
 ## [9. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -115,7 +115,13 @@
 
 *   [react-native-segment-control ★7 (⭐21)](https://github.com/ainurb/react-native-segment-control) - A swipeable SegmentedControl component for React Native apps.
 
-## [12. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [12. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### JavaScript / Ember.js
+
+*   [Ember.js - Getting started](https://guides.emberjs.com/release/)
+
+## [13. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### VPN Guides and Tutorials
 
@@ -177,12 +183,12 @@
 
 ### Plex Scripts and Tools / Third Party Hosts
 
-*   [plex\_top\_playlists (⭐102)](https://github.com/pbrink231/plex_top_playlists) A python script to get top weekly or top popular lists and put them in plex as playlists.
+*   [plex\_top\_playlists (⭐107)](https://github.com/pbrink231/plex_top_playlists) A python script to get top weekly or top popular lists and put them in plex as playlists.
 *   [plex-subtitles-normalizer (⭐14)](https://github.com/caridy/plex-subtitles-normalizer) CLI tool to fix subtitles needed by Plex Media Center
 
 ### Plex Logging and Metrics / Third Party Hosts
 
-*   [Plex-Data-Collector-For-InfluxDB (⭐171)](https://github.com/barrycarey/Plex-Data-Collector-For-InfluxDB) Collects data about your Plex server and sends it to InfluxDB
+*   [Plex-Data-Collector-For-InfluxDB (⭐170)](https://github.com/barrycarey/Plex-Data-Collector-For-InfluxDB) Collects data about your Plex server and sends it to InfluxDB
 
 ### Repacks / Third Party Hosts
 
@@ -196,7 +202,7 @@
 ### IRC Clients / Third Party Hosts
 
 *   [HexChat](https://hexchat.github.io/) HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like systems.
-*   [KVIrc (⭐199)](https://github.com/kvirc/KVIrc) Graphical IRC client
+*   [KVIrc (⭐208)](https://github.com/kvirc/KVIrc) Graphical IRC client
 *   [mIRC](https://www.mirc.com/) IRC client for Windows
 
 ### IRC Networks / Third Party Hosts
@@ -212,10 +218,10 @@
 
 ### DC++ / Third Party Hosts
 
-*   [EiskaltDC++ (⭐329)](https://github.com/eiskaltdcpp/eiskaltdcpp) Windows/Linux/macOS DC++ client, with ADC and DHT support
+*   [EiskaltDC++ (⭐346)](https://github.com/eiskaltdcpp/eiskaltdcpp) Windows/Linux/macOS DC++ client, with ADC and DHT support
 *   [LinuxDC++](https://launchpad.net/linuxdcpp) Utilizing the latest DC++ core, LinuxDC++ offers similar functionality to the Windows client like segmented downloading, TTH based file integrity, etc. with a GTK+ user interface.
 
-## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Natural Language Processing
 

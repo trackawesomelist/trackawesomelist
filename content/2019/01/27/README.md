@@ -28,11 +28,11 @@
 ### Usenet / Seedbox Setup Tools and Guides
 
 *   [NZB Monkey](https://nzblnk.info/nzb-monkey/) NZB download helper-tool
-*   [SABconnect++ (⭐67)](https://github.com/gboudreau/sabconnectplusplus) Chrome extension which adds one-click 'Send to SABnzbd' buttons to many popular NZB index sites.
+*   [SABconnect++ (⭐71)](https://github.com/gboudreau/sabconnectplusplus) Chrome extension which adds one-click 'Send to SABnzbd' buttons to many popular NZB index sites.
 
 ### Premium Link Generators / Free Indexers
 
-*   [Premiumizer (⭐153)](https://github.com/piejanssens/premiumizer) Premiumizer is a download management tool for premiumize.me cloud downloads.
+*   [Premiumizer (⭐168)](https://github.com/piejanssens/premiumizer) Premiumizer is a download management tool for premiumize.me cloud downloads.
 
 ### Streaming Sites / Big Media Libraries
 
@@ -73,7 +73,7 @@
 
 ### IPTV and DVR / Third Party Hosts
 
-*   [antennas (⭐230)](https://github.com/TheJF/antennas) HDHomeRun emulator for Plex DVR to connect to Tvheadend.
+*   [antennas (⭐260)](https://github.com/TheJF/antennas) HDHomeRun emulator for Plex DVR to connect to Tvheadend.
 
 ### Content Discovery / Third Party Hosts
 
@@ -134,7 +134,7 @@
 
 ### Mods / Technology
 
-*   [Railcraft (⭐497)](https://github.com/Railcraft/Railcraft) - Greatly expand and improve the Minecart system in Minecraft.
+*   [Railcraft (⭐499)](https://github.com/Railcraft/Railcraft) - Greatly expand and improve the Minecart system in Minecraft.
 
 ### Mods / Utilities
 

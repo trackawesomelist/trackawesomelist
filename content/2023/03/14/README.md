@@ -14,7 +14,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [cmatrix (⭐3.2k)](https://github.com/abishekvashok/cmatrix/) - CMatrix is based on the screensaver from The Matrix website. It shows text flying in and out in a terminal like as seen in "The Matrix" movie. It can scroll lines all at the same rate or asynchronously and at a user-defined speed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/abishekvashok/cmatrix/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [cmatrix (⭐3.5k)](https://github.com/abishekvashok/cmatrix/) - CMatrix is based on the screensaver from The Matrix website. It shows text flying in and out in a terminal like as seen in "The Matrix" movie. It can scroll lines all at the same rate or asynchronously and at a user-defined speed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/abishekvashok/cmatrix/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [2. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 
@@ -71,30 +71,20 @@
 
 ### Clients
 
-*   [Keycloak Mock Library (⭐98)](https://github.com/TNG/keycloak-mock)
+*   [Keycloak Mock Library (⭐107)](https://github.com/TNG/keycloak-mock)
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Third-party APIs
 
-*   [go-openai (⭐5.2k)](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, DALL·E, Whisper API library for Go.
+*   [go-openai (⭐6.5k)](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, DALL·E, Whisper API library for Go.
 
 ## [8. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / YouTube
 
-*   [Poketube (⭐63)](https://github.com/ashley0143/poketube): The privacy-friendly youtube front-end built with the InnerTube API
+*   [Poketube (⭐74)](https://github.com/ashley0143/poketube): The privacy-friendly youtube front-end built with the InnerTube API
     *   Official instance: <https://poketube.fun>
-
-### Overview / Imgur
-
-*   [Omgur](https://gitlab.wuhoo.xyz/jerry/omgur): Omgur is a free and open-source alternative Imgur front-end focused on privacy. Inspired by the Invidious, Nitter, and Teddit projects.
-    *   No JavaScript or ads
-    *   All requests go through the Omgur backend, client never talks to Imgur
-    *   Prevents Imgur from tracking your IP or JavaScript fingerprint
-    *   Lightweight
-    *   Self-hostable
-    *   Mirror of the original repository on Github: [https://github.com/geraldwuhoo/omgur (⭐11)](https://github.com/geraldwuhoo/omgur)
 
 ### Overview / Bandcamp
 
@@ -107,18 +97,18 @@
 
 ### Overview / Medium
 
-*   [Libmedium (⭐20)](https://github.com/realaravinth/libmedium): Alternative front-end to Medium.com
+*   [Libmedium (⭐30)](https://github.com/realaravinth/libmedium): Alternative front-end to Medium.com
     *   Official website: <https://libmedium.batsense.net>
 
 ### Overview / Other services
 
-*   [Wikiless (⭐34)](https://github.com/Metastem/wikiless): A free open source alternative Wikipedia front-end focused on privacy
+*   [Wikiless (⭐87)](https://github.com/Metastem/wikiless): A free open source alternative Wikipedia front-end focused on privacy
     *   Official instance: <https://wikiless.org/>
-    *   Public instances: [https://github.com/Metastem/wikiless (⭐34)](https://github.com/Metastem/wikiless)
+    *   Public instances: [https://github.com/Metastem/wikiless (⭐87)](https://github.com/Metastem/wikiless)
 
 ### Redirection / Other services
 
-*   [Redirector (⭐1.1k)](https://github.com/einaregilsson/Redirector): Web browser extension (Firefox, Vivaldi, Chrome, Opera, Edge) to redirect URLs based on regex or wildcard patterns.
+*   [Redirector (⭐1.2k)](https://github.com/einaregilsson/Redirector): Web browser extension (Firefox, Vivaldi, Chrome, Opera, Edge) to redirect URLs based on regex or wildcard patterns.
     *   [Firefox Add-On: Redirector](https://addons.mozilla.org/firefox/addon/redirector/)
     *   [Chrome Extension: Redirector](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd)
 
@@ -139,19 +129,19 @@
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [What The Diff](https://whatthediff.ai) - AI-powered code review assistant. The free plan has a limit of 25,000 tokens per month (\~10 PRs).
+*   [What The Diff](https://whatthediff.ai) - AI-powered code review assistant. The free plan has a limit of 25,000 monthly tokens (\~10 PRs).
 
 ## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
-*   [vite-vue-lib-template (⭐7)](https://github.com/ehsan-shv/vite-vue-lib-template) - Vue 3, Eslint, Prettier, Conventional Commit, Pre-commit, Lint-staged, Semantic-release, TypeScript.
+*   [vite-vue-lib-template (⭐8)](https://github.com/ehsan-shv/vite-vue-lib-template) - Vue 3, Eslint, Prettier, Conventional Commit, Pre-commit, Lint-staged, Semantic-release, TypeScript.
 
 ### Solid / Integrations
 
-*   [vite-plugin-solid-svg (⭐38)](https://github.com/jfgodoy/vite-plugin-solid-svg) - Import SVG files as Solid.js Components.
+*   [vite-plugin-solid-svg (⭐49)](https://github.com/jfgodoy/vite-plugin-solid-svg) - Import SVG files as Solid.js Components.
 
 ## [12. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/README.md)
 

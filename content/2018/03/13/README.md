@@ -16,7 +16,7 @@
 
 ### Software / Communication
 
-*   [Tutanota](https://tutanota.com/) - Encrypted email at no cost with support for business accounts. ([GNU GPLv3 (⭐4.9k)](https://github.com/tutao/tutanota/blob/master/LICENSE.txt))
+*   [Tutanota](https://tutanota.com/) - Encrypted email at no cost with support for business accounts. ([GNU GPLv3 (⭐5.4k)](https://github.com/tutao/tutanota/blob/master/LICENSE.txt))
 
 ## [3. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 

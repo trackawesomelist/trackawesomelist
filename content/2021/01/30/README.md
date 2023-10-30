@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 30, 2021
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,33 +10,39 @@
 
 ### Overview / Twitter
 
-*   [Nitter (⭐6.9k)](https://github.com/zedeus/nitter): Alternative Twitter front-end - Lightweight, no ads, no tracking, no JavaScript required
+*   [Nitter (⭐7.9k)](https://github.com/zedeus/nitter): Alternative Twitter front-end - Lightweight, no ads, no tracking, no JavaScript required
     *   Official instance: [nitter.net](https://nitter.net)
-    *   Public instances: [https://github.com/zedeus/nitter/wiki/Instances (⭐6.9k)](https://github.com/zedeus/nitter/wiki/Instances)
+    *   Public instances: [https://github.com/zedeus/nitter/wiki/Instances (⭐7.9k)](https://github.com/zedeus/nitter/wiki/Instances)
     *   Example: Troy Hunt on [Twitter](https://twitter.com/troyhunt) and [Nitter](https://nitter.net/troyhunt)
 
 ### Overview / Reddit
 
-*   [Updoot (⭐60)](https://github.com/adityam49/Updoot): Android, alternative front-end for Reddit
+*   [Updoot (⭐63)](https://github.com/adityam49/Updoot): Android, alternative front-end for Reddit
 
 ### Overview / Hacker News
 
-*   [HN-search (⭐457)](https://github.com/algolia/hn-search): Algolia Hacker News search
+*   [HN-search (⭐476)](https://github.com/algolia/hn-search): Algolia Hacker News search
     *   Example: [Highest rated submissions of the past 24 hours](https://hn.algolia.com/?sort=byPopularity\&page=0\&dateRange=last24h\&type=all)
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Forms
 
-*   [Form.taxi](https://form.taxi/) — Endpoint for HTML forms submissions. With notifications, spam blocker and GDPR-compliant data processing. Free plan for basic usage.
+*   [Form.taxi](https://form.taxi/) — Endpoint for HTML forms submissions. With notifications, spam blockers, and GDPR-compliant data processing. Free plan for basic usage.
 
-## [3. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Standard ML / Play Scala
+
+*   [ML for the Working Programmer, 2nd Edition](https://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html) - Lawrence C. Paulson
+
+## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
 *   💼 [Bidirectional (⭐9)](https://github.com/yassinebridi/tailwind-direction) - Replace the core utilities to be bi-direction compatible.
 
-## [4. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
+## [5. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
 
 ### Hosted Bitcoin Payment Processors / Custodial
 
@@ -93,34 +99,34 @@
 
 
 
-## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
-*   [vue-vben-admin (⭐18k)](https://github.com/anncwb/vue-vben-admin) - Background management template based on Vue3, Ant-Design-Vue, TypeScript.
+*   [vue-vben-admin (⭐20k)](https://github.com/anncwb/vue-vben-admin) - Background management template based on Vue3, Ant-Design-Vue, TypeScript.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-pwa (⭐2k)](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA.
+*   [vite-plugin-pwa (⭐2.3k)](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA.
 
 ### Rollup Plugins / Covered by default in Vite
 
-*   [@rollup/plugin-babel (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/babel) - Compile your files with Babel.
-*   [@rollup/plugin-buble (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/buble) - Compile ES2015 with buble.
-*   [@rollup/plugin-data-uri (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/data-uri) - Import modules from Data URIs.
-*   [@rollup/plugin-html (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/html) - Create HTML files to serve Rollup bundles.
-*   [@rollup/plugin-node-resolve (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/node-resolve) - Locate and bundle third-party dependencies in node\_modules.
-*   [@rollup/plugin-sucrase (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile TypeScript, Flow, JSX, etc with Sucrase.
-*   [@rollup/plugin-wasm (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/wasm) - Import WebAssembly code with Rollup.
-*   [@rollup/plugin-url (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/url) - Import files as data-URIs or ES Modules.
+*   [@rollup/plugin-babel (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/babel) - Compile your files with Babel.
+*   [@rollup/plugin-buble (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/buble) - Compile ES2015 with buble.
+*   [@rollup/plugin-data-uri (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/data-uri) - Import modules from Data URIs.
+*   [@rollup/plugin-html (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/html) - Create HTML files to serve Rollup bundles.
+*   [@rollup/plugin-node-resolve (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/node-resolve) - Locate and bundle third-party dependencies in node\_modules.
+*   [@rollup/plugin-sucrase (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile TypeScript, Flow, JSX, etc with Sucrase.
+*   [@rollup/plugin-wasm (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/wasm) - Import WebAssembly code with Rollup.
+*   [@rollup/plugin-url (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/url) - Import files as data-URIs or ES Modules.
 
 ### Rollup Plugins / Compatible with Vite
 
-*   [@rollup/plugin-eslint (⭐3.2k)](https://github.com/rollup/plugins/blob/master/packages/eslint) - Verify entry point and all imported files with ESLint.
-*   [@rollup/plugin-legacy (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/legacy) - Add export declarations to legacy non-module scripts.
-*   [@rollup/plugin-yaml (⭐3.2k)](https://github.com/rollup/plugins/blob/master/packages/yaml) - Convert YAML files to ES6 modules.
+*   [@rollup/plugin-eslint (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/eslint) - Verify entry point and all imported files with ESLint.
+*   [@rollup/plugin-legacy (⭐3.4k)](https://github.com/rollup/plugins/tree/master/packages/legacy) - Add export declarations to legacy non-module scripts.
+*   [@rollup/plugin-yaml (⭐3.4k)](https://github.com/rollup/plugins/blob/master/packages/yaml) - Convert YAML files to ES6 modules.
 
-## [6. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
+## [7. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
 ### App Releases / Casual
 
@@ -132,7 +138,7 @@
 *   Ripple Effect Puzzle - [Android](https://play.google.com/store/apps/details?id=com.tbuonomo.rippleeffectpuzzle), [iOS](https://apps.apple.com/us/app/id1521454937) - A sophisticated variation of Sudoku.
     By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
-## [7. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
+## [8. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 
 ### Videos
 
@@ -151,13 +157,12 @@
 
 ### Exporters / Databases
 
-*   [Consol exporter (⭐399)](https://github.com/prometheus/consul_exporter) - The exporter for Consul metrics.
-*   [Memcached exporter (⭐147)](https://github.com/prometheus/memcached_exporter) - The Memcached exporter periodically scrapes Memcached stats.
-*   [MySQL server exporter (⭐1.7k)](https://github.com/prometheus/mysqld_exporter) - The MySQL server exporter periodically scrapes MySQL stats.
+*   [Memcached exporter (⭐160)](https://github.com/prometheus/memcached_exporter) - The Memcached exporter periodically scrapes Memcached stats.
+*   [MySQL server exporter (⭐1.8k)](https://github.com/prometheus/mysqld_exporter) - The MySQL server exporter periodically scrapes MySQL stats.
 
 ### Exporters / Hardware related
 
-*   [Node/system metrics exporter (⭐8.5k)](https://github.com/prometheus/node_exporter) - The Node exporter periodically scrapes system stats.
+*   [Node/system metrics exporter (⭐9k)](https://github.com/prometheus/node_exporter) - The Node exporter periodically scrapes system stats.
 
 ### Exporters / HTTP
 
@@ -165,23 +170,23 @@
 
 ### Exporters / Other monitoring systems
 
-*   [AWS CloudWatch exporter (⭐755)](https://github.com/prometheus/cloudwatch_exporter) - The exporter for Amazon AWS CloudWatch metrics.
-*   [Collectd exporter (⭐229)](https://github.com/prometheus/collectd_exporter) - The exporter for Collectd metrics.
-*   [Graphite exporter (⭐299)](https://github.com/prometheus/graphite_exporter) - The exporter for Graphite metrics.
-*   [InfluxDB (⭐211)](https://github.com/prometheus/influxdb_exporter) - The exporter for InfluxDB metrics.
-*   [JMX exporter (⭐2.5k)](https://github.com/prometheus/jmx_exporter) - The exporter for JMX metrics.
-*   [SNMP exporter (⭐1.2k)](https://github.com/prometheus/snmp_exporter) - The exporter for SNMP metrics.
-*   [StatsD exporter (⭐819)](https://github.com/prometheus/statsd_exporter) - The exporter for StatsD metrics.
+*   [AWS CloudWatch exporter (⭐783)](https://github.com/prometheus/cloudwatch_exporter) - The exporter for Amazon AWS CloudWatch metrics.
+*   [Collectd exporter (⭐233)](https://github.com/prometheus/collectd_exporter) - The exporter for Collectd metrics.
+*   [Graphite exporter (⭐305)](https://github.com/prometheus/graphite_exporter) - The exporter for Graphite metrics.
+*   [InfluxDB (⭐226)](https://github.com/prometheus/influxdb_exporter) - The exporter for InfluxDB metrics.
+*   [JMX exporter (⭐2.6k)](https://github.com/prometheus/jmx_exporter) - The exporter for JMX metrics.
+*   [SNMP exporter (⭐1.3k)](https://github.com/prometheus/snmp_exporter) - The exporter for SNMP metrics.
+*   [StatsD exporter (⭐837)](https://github.com/prometheus/statsd_exporter) - The exporter for StatsD metrics.
 
 ### Exporters / Miscellaneous
 
-*   [Blackbox (⭐3.5k)](https://github.com/prometheus/blackbox_exporter) - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP.
+*   [Blackbox (⭐3.7k)](https://github.com/prometheus/blackbox_exporter) - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP.
 
-## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Databases
 
-*   [Another Redis Desktop Manager (⭐26k)](https://github.com/qishibo/AnotherRedisDesktopManager) - A faster, better and more stable redis desktop manager.[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://directory.apache.org/sources.html)![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Another Redis Desktop Manager (⭐27k)](https://github.com/qishibo/AnotherRedisDesktopManager) - A faster, better and more stable redis desktop manager.[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://directory.apache.org/sources.html)![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ---
 

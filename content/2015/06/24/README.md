@@ -10,15 +10,15 @@
 
 ### Caching
 
-*   [crystal-memcached (⭐32)](https://github.com/comandeo/crystal-memcached) - Implementation of a memcached client
+*   [crystal-memcached (⭐34)](https://github.com/comandeo/crystal-memcached) - Implementation of a memcached client
 
 ### Database Drivers/Clients
 
-*   [crystal-pg (⭐433)](https://github.com/will/crystal-pg) - A Postgres driver
+*   [crystal-pg (⭐448)](https://github.com/will/crystal-pg) - A Postgres driver
 
 ### HTTP
 
-*   [crul (⭐113)](https://github.com/porras/crul) - Command line HTTP client
+*   [crul (⭐112)](https://github.com/porras/crul) - Command line HTTP client
 
 ### Testing
 
@@ -48,7 +48,7 @@
 
 ### Framework Components
 
-*   [plug\_ribbon (⭐22)](https://github.com/stnly/plug_ribbon) - Injects a ribbon to your web application in the development environment.
+*   [plug\_ribbon (⭐23)](https://github.com/stnly/plug_ribbon) - Injects a ribbon to your web application in the development environment.
 
 ### JSON
 
@@ -86,7 +86,7 @@
 
 ### Bundlers
 
-*   [webpack (⭐63k)](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser.
+*   [webpack (⭐64k)](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser.
 
 ### Testing Frameworks / Assertion
 
@@ -106,7 +106,7 @@
 ### Functional Programming / Runner
 
 *   [underscore (⭐27k)](https://github.com/jashkenas/underscore) - JavaScript's utility \_ belt.
-*   [lodash (⭐56k)](https://github.com/lodash/lodash) - A utility library delivering consistency, customization, performance, & extras.
+*   [lodash (⭐57k)](https://github.com/lodash/lodash) - A utility library delivering consistency, customization, performance, & extras.
 *   [lazy.js (⭐6k)](https://github.com/dtao/lazy.js) - Like Underscore, but lazier.
 
 ### Data Structure / Runner
@@ -121,9 +121,9 @@
 ### String / Runner
 
 *   [string.js (⭐1.8k)](https://github.com/jprichardson/string.js) - Extra JavaScript string methods.
-*   [he (⭐3.2k)](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder written in JavaScript.
+*   [he (⭐3.3k)](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder written in JavaScript.
 *   [multiline (⭐1.4k)](https://github.com/sindresorhus/multiline) - Multiline strings in JavaScript.
-*   [query-string (⭐6.4k)](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings.
+*   [query-string (⭐6.5k)](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings.
 
 ### Number / Runner
 
@@ -132,13 +132,13 @@
 ### Storage / Runner
 
 *   [store.js (⭐14k)](https://github.com/marcuswestin/store.js) - LocalStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage, and userData behavior under the hood.
-*   [localForage (⭐22k)](https://github.com/mozilla/localForage) - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+*   [localForage (⭐23k)](https://github.com/mozilla/localForage) - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 
 ### Color / Runner
 
-*   [randomColor (⭐5.9k)](https://github.com/davidmerfield/randomColor) - A color generator for JavaScript.
-*   [chroma.js (⭐9.4k)](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations.
-*   [TinyColor (⭐4.6k)](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
+*   [randomColor (⭐6k)](https://github.com/davidmerfield/randomColor) - A color generator for JavaScript.
+*   [chroma.js (⭐9.6k)](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations.
+*   [TinyColor (⭐4.8k)](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
 
 ### Control Flow / Runner
 
@@ -158,7 +158,7 @@
 
 *   [Spin.js (⭐9.3k)](https://github.com/fgnass/spin.js) - A spinning activity indicator.
 *   [pace (⭐16k)](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site.
-*   [topbar (⭐381)](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator.
+*   [topbar (⭐395)](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator.
 *   [nanobar (⭐2.9k)](https://github.com/jacoborus/nanobar) - Very lightweight progress bars. No jQuery.
 
 ### Keyboard Wrappers / Runner
@@ -177,7 +177,7 @@
 
 ### Sliders / Runner
 
-*   [Swiper (⭐35k)](https://github.com/nolimits4web/Swiper) - Mobile touch slider and framework with hardware accelerated transitions.
+*   [Swiper (⭐36k)](https://github.com/nolimits4web/Swiper) - Mobile touch slider and framework with hardware accelerated transitions.
 *   [slick (⭐28k)](https://github.com/kenwheeler/slick) - The last carousel you'll ever need.
 
 ### Form Widgets / Input
@@ -191,12 +191,12 @@
 
 ### Form Widgets / File Uploader
 
-*   [dropzone (⭐17k)](https://github.com/enyo/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
+*   [dropzone (⭐18k)](https://github.com/enyo/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 
 ### Misc / Other
 
 *   [echo (⭐3.7k)](https://github.com/toddmotto/echo) - Lazy-loading images with data-\* attributes.
-*   [platform.js (⭐3.1k)](https://github.com/bestiejs/platform.js) - A platform detection library that works on nearly all JavaScript platforms.
+*   [platform.js (⭐3.2k)](https://github.com/bestiejs/platform.js) - A platform detection library that works on nearly all JavaScript platforms.
 *   [json3 (⭐1k)](https://github.com/bestiejs/json3) - A modern JSON implementation compatible with nearly all JavaScript platforms.
 
 ---

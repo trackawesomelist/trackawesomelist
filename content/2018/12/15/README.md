@@ -16,7 +16,7 @@
 
 ### Types / Playground
 
-*   [ts-essentials (⭐3.1k)](https://github.com/krzkaczor/ts-essentials) - All essential TypeScript types in one place
+*   [ts-essentials (⭐3.4k)](https://github.com/krzkaczor/ts-essentials) - All essential TypeScript types in one place
 
 ## [3. Amas](/content/sindresorhus/amas/README.md)
 
@@ -87,11 +87,11 @@
 
 ### Movie Automation / Third Party Hosts
 
-*   [RadarrSync (⭐115)](https://github.com/Sperryfreak01/RadarrSync) Syncs two Radarr servers through web API.
+*   [RadarrSync (⭐117)](https://github.com/Sperryfreak01/RadarrSync) Syncs two Radarr servers through web API.
 
 ### Subtitles Automation / Third Party Hosts
 
-*   [nzb-subliminal (⭐91)](https://github.com/caronc/nzb-subliminal) Fetches subtitles for the videos it's provided. It can be easily integrated into NZBGet and SABnzbd too.
+*   [nzb-subliminal (⭐90)](https://github.com/caronc/nzb-subliminal) Fetches subtitles for the videos it's provided. It can be easily integrated into NZBGet and SABnzbd too.
 
 ### Cloud Storage / Third Party Hosts
 
@@ -125,7 +125,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [spaceship (⭐18k)](https://github.com/denysdovhan/spaceship-prompt) - A Zsh prompt for Astronauts. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/denysdovhan/spaceship-prompt) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [spaceship (⭐19k)](https://github.com/denysdovhan/spaceship-prompt) - A Zsh prompt for Astronauts. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/denysdovhan/spaceship-prompt) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -135,16 +135,16 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [core-server (⭐17)](https://github.com/skyhark-projects/core-server) - Highly scalable VueJs framework with an integrated API system, and multiple advanced features.
+*   [core-server (⭐16)](https://github.com/skyhark-projects/core-server) - Highly scalable VueJs framework with an integrated API system, and multiple advanced features.
 
 ### Components & Libraries / UI Components
 
-*   [vue-hotel-datepicker (⭐794)](https://github.com/krystalcampioni/vue-hotel-datepicker) - A responsive date range picker that displays the number of nights selected, allows custom check-in/check-out rules, blocking dates, localization support and more.
-*   [vue2-persian-datepicker (⭐101)](https://github.com/dyonir/vue2-persian-datepicker) - An awesome Persian datepicker component for vue. کامپوننت انتخاب تاریخ برای ویو.
+*   [vue-hotel-datepicker (⭐809)](https://github.com/krystalcampioni/vue-hotel-datepicker) - A responsive date range picker that displays the number of nights selected, allows custom check-in/check-out rules, blocking dates, localization support and more.
+*   [vue2-persian-datepicker (⭐102)](https://github.com/dyonir/vue2-persian-datepicker) - An awesome Persian datepicker component for vue. کامپوننت انتخاب تاریخ برای ویو.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-scroll-sync (⭐28)](https://github.com/metawin-m/vue-scroll-sync) - A component that synchronizes containers’ scroll positions
+*   [vue-scroll-sync (⭐29)](https://github.com/metawin-m/vue-scroll-sync) - A component that synchronizes containers’ scroll positions
 
 ## [7. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -175,7 +175,7 @@
 
 ### Platforms
 
-*   [Flutter (⭐47k)](https://github.com/Solido/awesome-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
+*   [Flutter (⭐49k)](https://github.com/Solido/awesome-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
 
 ## [12. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 

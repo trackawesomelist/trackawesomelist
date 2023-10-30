@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 27, 2018
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -30,15 +30,22 @@
 ### Database
 
 *   [Datahike (⭐1.5k)](https://github.com/replikativ/datahike)
-*   [Datascript (⭐5.1k)](https://github.com/tonsky/datascript)
+*   [Datascript (⭐5.2k)](https://github.com/tonsky/datascript)
 
-## [5. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Java / Codename One
+
+*   [Codename One Developer Guide](https://www.codenameone.com/files/developer-guide.pdf) (PDF)
+*   [Create an Uber Clone in 7 Days (first 2 chapters)](http://uber.cn1.co) - Shai Almog (PDF)
+
+## [6. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Tools and frameworks
 
 *   [Zombie.js](http://zombie.js.org/) - Insanely fast, headless full-stack testing using Node.js.
 
-## [6. Guides](/content/NARKOZ/guides/README.md)
+## [7. Guides](/content/NARKOZ/guides/README.md)
 
 ### Programming Languages / C#
 
@@ -87,36 +94,36 @@
 
 *   [How To Ask Questions The Smart Way](http://www.catb.org/\~esr/faqs/smart-questions.html)
 
-## [7. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [8. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Threat intelligence / Threat hunting
 
 *   [Unfetter](https://nsacyber.github.io/unfetter/) - Identifies defensive gaps in security posture by leveraging Mitre's ATT\&CK framework.
 
-## [8. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [9. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Learning
 
 *   [Quantum in the Cloud](http://cnotmz.appspot.com/#) - Four qubit photonic quantum simulator and computer.
 
-## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
-*   [Swashbuckle (⭐4.6k)](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Seamlessly adds a swagger to WebApi projects.
-    *   [MicroElements.Swashbuckle.FluentValidation (⭐276)](https://github.com/micro-elements/MicroElements.Swashbuckle.FluentValidation) - Adds FluentValidation rules to swagger.
-    *   [Swashbuckle.AspNetCore.Filters (⭐351)](https://github.com/mattfrear/Swashbuckle.AspNetCore.Filters) - A bunch of useful filters for Swashbuckle.AspNetCore.
+*   [Swashbuckle (⭐4.9k)](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Seamlessly adds a swagger to WebApi projects.
+    *   [MicroElements.Swashbuckle.FluentValidation (⭐335)](https://github.com/micro-elements/MicroElements.Swashbuckle.FluentValidation) - Adds FluentValidation rules to swagger.
+    *   [Swashbuckle.AspNetCore.Filters (⭐394)](https://github.com/mattfrear/Swashbuckle.AspNetCore.Filters) - A bunch of useful filters for Swashbuckle.AspNetCore.
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [Aggregates.NET (⭐381)](https://github.com/volak/Aggregates.NET) - Aggregates.NET is a framework to help developers integrate the excellent NServiceBus and EventStore libraries together.
-*   [Finbuckle.MultiTenant (⭐867)](https://github.com/Finbuckle/Finbuckle.MultiTenant) - Finbuckle.MultiTenant is a .NET Standard library for multitenant support designed for ASP.NET 2.0+. It provides functionality for tenant resolution, per-tenant app configuration, and per-tenant data isolation.
+*   [Aggregates.NET (⭐437)](https://github.com/volak/Aggregates.NET) - Aggregates.NET is a framework to help developers integrate the excellent NServiceBus and EventStore libraries together.
+*   [Finbuckle.MultiTenant (⭐1.1k)](https://github.com/Finbuckle/Finbuckle.MultiTenant) - Finbuckle.MultiTenant is a .NET Standard library for multitenant support designed for ASP.NET 2.0+. It provides functionality for tenant resolution, per-tenant app configuration, and per-tenant data isolation.
 
-## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / General Tools
 
-*   [Mac Cache Cleaner (⭐213)](https://github.com/kaunteya/MacCacheCleaner) - Cache cleaner for Mac [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kaunteya/MacCacheCleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Mac Cache Cleaner (⭐219)](https://github.com/kaunteya/MacCacheCleaner) - Cache cleaner for Mac [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kaunteya/MacCacheCleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ---
 

@@ -32,7 +32,7 @@
 
 ### Bots
 
-*   [Telegrammer (⭐282)](https://github.com/givip/Telegrammer) :penguin: - Open-source framework for Telegram Bots developers. It was built on top of Apple/SwiftNIO which help to demonstrate excellent performance.
+*   [Telegrammer (⭐287)](https://github.com/givip/Telegrammer) :penguin: - Open-source framework for Telegram Bots developers. It was built on top of Apple/SwiftNIO which help to demonstrate excellent performance.
 
 ## [5. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [UnitsNet (⭐1.7k)](https://github.com/angularsen/UnitsNet) - Units.NET gives you all the common units of measurement and the conversions between them.
+*   [UnitsNet (⭐2k)](https://github.com/angularsen/UnitsNet) - Units.NET gives you all the common units of measurement and the conversions between them.
 
 ## [12. Awesome Research](/content/emptymalei/awesome-research/README.md)
 

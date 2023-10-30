@@ -28,11 +28,11 @@
 
 ### CLI Builder
 
-*   [Rake (⭐2.2k)](https://github.com/ruby/rake) - A make-like build utility for Ruby.
+*   [Rake (⭐2.3k)](https://github.com/ruby/rake) - A make-like build utility for Ruby.
 
 ### Database Tools
 
-*   [SchemaPlus (⭐690)](https://github.com/SchemaPlus/schema_plus) - SchemaPlus provides a collection of enhancements and extensions to ActiveRecord
+*   [SchemaPlus (⭐691)](https://github.com/SchemaPlus/schema_plus) - SchemaPlus provides a collection of enhancements and extensions to ActiveRecord
 
 ### Process Management and Monitoring
 

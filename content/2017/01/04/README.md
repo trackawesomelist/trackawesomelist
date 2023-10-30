@@ -16,13 +16,13 @@
 
 ### Frameworks, Libraries and Tools / API
 
-*   [RestEase (⭐862)](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable.
+*   [RestEase (⭐998)](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable.
 
 ## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Cyber Skills (⭐2.7k)](https://github.com/joe-shenouda/awesome-cyber-skills) - A curated list of hacking environments where you can train your cyber skills legally and safely.
+*   [Awesome Cyber Skills (⭐2.9k)](https://github.com/joe-shenouda/awesome-cyber-skills) - A curated list of hacking environments where you can train your cyber skills legally and safely.
 
 ## [4. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
@@ -48,23 +48,23 @@
 
 ### System Utilities / Directory Navigation
 
-*   [ls++ (⭐488)](https://github.com/trapd00r/ls--) - Colorized ls on steroids
+*   [ls++ (⭐497)](https://github.com/trapd00r/ls--) - Colorized ls on steroids
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [xidel (⭐532)](https://github.com/benibela/xidel/) - Cli tool to filter, map and create HTML/XML/JSON data with (Turing-complete) XPath and XQuery.
+*   [xidel (⭐575)](https://github.com/benibela/xidel/) - Cli tool to filter, map and create HTML/XML/JSON data with (Turing-complete) XPath and XQuery.
 
 ## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### ORM and Datamapping
 
-*   [Bolt.Sips (⭐244)](https://github.com/florinpatrascu/bolt_sips) - Neo4j driver for Elixir using the Bolt protocol.
+*   [Bolt.Sips (⭐249)](https://github.com/florinpatrascu/bolt_sips) - Neo4j driver for Elixir using the Bolt protocol.
 
 ## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Go / Natural Language Processing
 
-*   [snowball (⭐37)](https://github.com/tebeka/snowball) - Snowball Stemmer for Go.
+*   [snowball (⭐38)](https://github.com/tebeka/snowball) - Snowball Stemmer for Go.
 
 ## [9. Vim Galore](/content/mhinz/vim-galore/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 25, 2022
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,21 +14,21 @@
 
 ## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [mcfly (⭐5.1k)](https://github.com/cantino/mcfly) - Replaces your default ctrl-r shell history search with an intelligent search engine that takes into account your working directory and the context of recently executed commands. McFly's suggestions are prioritized in real time with a small neural network.
+*   [mcfly (⭐5.4k)](https://github.com/cantino/mcfly) - Replaces your default ctrl-r shell history search with an intelligent search engine that takes into account your working directory and the context of recently executed commands. McFly's suggestions are prioritized in real time with a small neural network.
 
 ## [3. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [joffref/opa-middleware (⭐14)](https://github.com/Joffref/opa-middleware) - Provides an OPA middleware integration for fiber.
+*   [joffref/opa-middleware (⭐17)](https://github.com/Joffref/opa-middleware) - Provides an OPA middleware integration for fiber.
 
 ## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Starters & Themes
 
-*   🚀 [AstroWind (⭐906)](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
+*   🚀 [AstroWind (⭐1.6k)](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
 
 ## [5. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -51,21 +51,43 @@
 
 *   [CalcuPi](https://dvjn.github.io/CalcuPi) - A beautiful Monte Carlo simulation for approximating the value of pi.
 
-## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### CoffeeScript / Non-X86
+
+*   [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto/read) - Reginald Braithwaite
+
+### JavaScript / AngularJS
+
+*   [AngularJS vs EmberJs](https://angularjs-emberjs-compare.bguiz.com) - Brendan Graetz (HTML)
+
+### JavaScript / Ember.js
+
+*   [AngularJs vs EmberJs](https://angularjs-emberjs-compare.bguiz.com) - Brendan Graetz (HTML)
+
+### Lisp / TeX
+
+*   [Loving Common Lisp, or the Savvy Programmer's Secret Weapon](https://leanpub.com/lovinglisp/read) - Mark Watson (HTML)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Inside The Python Virtual Machine](https://leanpub.com/insidethepythonvirtualmachine/read) - Obi Ike-Nwosu (HTML)
+
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-zip-file (⭐8)](https://github.com/Ssis53/vite-plugin-zip) - Compress files or folders into zip.
+*   [vite-plugin-zip-file (⭐11)](https://github.com/Ssis53/vite-plugin-zip) - Compress files or folders into zip.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-browserslist-useragent (⭐10)](https://github.com/kingyue737/vite-plugin-browserslist-useragent) - Compile browserslist query to a RegExp to test browser useragent.
+*   [vite-plugin-browserslist-useragent (⭐11)](https://github.com/kingyue737/vite-plugin-browserslist-useragent) - Compile browserslist query to a RegExp to test browser useragent.
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Einblick](https://www.einblick.ai/) - a modern data science platform that brings Python notebooks to a collaborative canvas and includes tools that automate common tasks such as building predictive models (AutoML) or comparing populations. Free tier includes 5 canvases and unlimited collaborators.
+*   [Einblick](https://www.einblick.ai/) - a modern data science platform that brings Python notebooks to a collaborative canvas and includes tools that automate everyday tasks such as building predictive models (AutoML) or comparing populations. The free tier consists of 5 canvases and unlimited collaborators.
 
 ### Security and PKI
 

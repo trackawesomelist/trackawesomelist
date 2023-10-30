@@ -38,11 +38,11 @@
 
 ### Packages / Templating
 
-*   [EJS (⭐7.1k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
+*   [EJS (⭐7.3k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
 
 ### Packages / Parsing
 
-*   [Stylecow (⭐159)](https://github.com/stylecow/stylecow) - Parse, manipulate and convert modern CSS to make it compatible with all browsers. Extensible with plugins.
+*   [Stylecow (⭐161)](https://github.com/stylecow/stylecow) - Parse, manipulate and convert modern CSS to make it compatible with all browsers. Extensible with plugins.
 
 ## [6. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

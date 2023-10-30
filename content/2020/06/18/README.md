@@ -203,7 +203,7 @@
 
 ### Apps / Outline Processor Markup Language
 
-*   [Brief (⭐199)](https://github.com/brief-rss/brief) <sup>[667](https://t.me/s/aboutrss/667)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/brief/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/brief-rss/brief)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Brief (⭐205)](https://github.com/brief-rss/brief) <sup>[667](https://t.me/s/aboutrss/667)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/brief/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/brief-rss/brief)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Hosted Readers / Outline Processor Markup Language
 

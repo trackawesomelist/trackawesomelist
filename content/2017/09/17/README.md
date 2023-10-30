@@ -16,9 +16,9 @@
 
 ### Helpers
 
-*   [Alfy (⭐2.5k)](https://github.com/sindresorhus/alfy) - Node.js library to create Alfred workflows with ease.
-*   [AwGo (⭐829)](https://github.com/deanishe/awgo) - Full-featured library for Go to build lightning-fast workflows in a jiffy.
-*   [Fuzzy Search (⭐88)](https://github.com/deanishe/alfred-fuzzy) - Add fuzzy search to any Script Filter.
+*   [Alfy (⭐2.6k)](https://github.com/sindresorhus/alfy) - Node.js library to create Alfred workflows with ease.
+*   [AwGo (⭐838)](https://github.com/deanishe/awgo) - Full-featured library for Go to build lightning-fast workflows in a jiffy.
+*   [Fuzzy Search (⭐89)](https://github.com/deanishe/alfred-fuzzy) - Add fuzzy search to any Script Filter.
 
 ## [3. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
 
@@ -31,7 +31,7 @@
 
 ### Office
 
-*   [ExcelDataReader (⭐3.5k)](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files (2.0-2007).
+*   [ExcelDataReader (⭐3.6k)](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files (2.0-2007).
 
 ## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Machine Learning
 
-*   [crystal-fann (⭐82)](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artifical Neural Network) binding
+*   [crystal-fann (⭐79)](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artifical Neural Network) binding
 
 ---
 

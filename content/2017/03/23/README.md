@@ -63,7 +63,7 @@ Webpage: <http://copenhagencoffeelab.com/cafe-at-rua-nova-da-piedade/>
 
 #### [Hexlet.io](https://en.hexlet.io)
 
-**Mixed** Self paced, interactive projects to learn JavaScript, C, Regular Expressions and computer science in general.\
+**Mixed** self paced, interactive projects to learn JavaScript, C, Regular Expressions and computer science in general\
 *(JavaScript, Regular Expressions, Bash, computer science, Ansible)*
 
 ## [8. Tips](/content/git-tips/tips/README.md)
@@ -97,11 +97,11 @@ git log -S'<a term in the source>'
 
 ### Frameworks, Libraries and Tools / Profiling
 
-*   [MiniProfiler (⭐2.6k)](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET websites.
+*   [MiniProfiler (⭐2.8k)](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET websites.
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [Rebus (⭐1.9k)](https://github.com/rebus-org/Rebus) - Simple and lean service bus implementation for .NET.
+*   [Rebus (⭐2.1k)](https://github.com/rebus-org/Rebus) - Simple and lean service bus implementation for .NET.
 
 ## [13. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

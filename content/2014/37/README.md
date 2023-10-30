@@ -16,7 +16,7 @@
 
 ### Data Visualization / Runner
 
-*   [chartist-js (⭐42)](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
+*   [chartist-js (⭐48)](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
 
 ### I18n And L10n / Runner
 
@@ -26,17 +26,17 @@
 
 ### Packages / Mad science
 
-*   [peerflix (⭐6k)](https://github.com/mafintosh/peerflix) - Streaming torrent client.
+*   [peerflix (⭐6.1k)](https://github.com/mafintosh/peerflix) - Streaming torrent client.
 *   [peerwiki (⭐309)](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
 
 ### Packages / Command-line apps
 
-*   [is-up (⭐386)](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
-*   [bcat (⭐333)](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
+*   [is-up (⭐385)](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
+*   [bcat (⭐338)](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
 
 ### Packages / Debugging / Profiling
 
-*   [stackman (⭐244)](https://github.com/watson/stackman) - Enhance an error stacktrace with code excerpts and other goodies.
+*   [stackman (⭐247)](https://github.com/watson/stackman) - Enhance an error stacktrace with code excerpts and other goodies.
 
 ### Packages / Build tools
 
@@ -69,6 +69,11 @@
 
 *   [MySQL++](http://www.tangentsoft.net/mysql++/) - A C++ wrapper for MySQL's C API. \[LGPL]
 
+### Scientific Computing
+
+*   [FFTW](http://www.fftw.org/) - A C library for computing the DFT in one or more dimensions. \[GPL]
+*   [GSL](http://www.gnu.org/software/gsl/) - GNU scientific library. \[GPL]
+
 ### GUI
 
 *   [QCustomPlot](http://qcustomplot.com/) - Qt plotting widget without further dependencies. \[GPLv3]
@@ -94,11 +99,6 @@
 ### Networking
 
 *   [libcurl](http://curl.haxx.se/libcurl/) - Multiprotocol file transfer library. \[MIT/X derivate license]
-
-### Scientific Computing
-
-*   [FFTW](http://www.fftw.org/) - A C library for computing the DFT in one or more dimensions. \[GPL]
-*   [GSL](http://www.gnu.org/software/gsl/) - GNU scientific library. \[GPL]
 
 ### Miscellaneous
 

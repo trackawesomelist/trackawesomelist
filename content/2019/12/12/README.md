@@ -10,7 +10,7 @@
 
 ### Packages / Testing
 
-*   [nve (⭐614)](https://github.com/ehmicky/nve) - Run any command on multiple versions of Node.js locally.
+*   [nve (⭐658)](https://github.com/ehmicky/nve) - Run any command on multiple versions of Node.js locally.
 
 ## [2. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Front-End Development
 
-*   [Seed (⭐194)](https://github.com/seed-rs/awesome-seed-rs#readme) - Rust framework for creating web apps running in WebAssembly.
+*   [Seed (⭐205)](https://github.com/seed-rs/awesome-seed-rs#readme) - Rust framework for creating web apps running in WebAssembly.
 
 ## [4. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
@@ -49,10 +49,6 @@
 
 *   [Bento4 | Fast, Modern Tools and C++ Class Library for all your MP4 and DASH media format needs](https://www.bento4.com/)  -
 
-### FFMPEG / Web
-
-*   [x264 FFmpeg Options Guide - Linux Encoding](https://sites.google.com/site/linuxencoding/x264-ffmpeg-mapping)  -
-
 ### Testing / Dolby
 
 *   [HTTP Live Streaming (HLS) - Artillery.io Docs](https://artillery.io/docs/plugin-hls/)  -
@@ -71,7 +67,7 @@
 
 ### Miscellaneous
 
-*   [react-simple-chatbot (⭐1.6k)](https://github.com/LucasBassetti/react-simple-chatbot) - [demo (⭐1)](https://github.com/anishagg17/PIzzaBuilder) - A simple chatbot component to create conversation chats.
+*   [react-simple-chatbot (⭐1.6k)](https://github.com/LucasBassetti/react-simple-chatbot) - [demo (⭐2)](https://github.com/anishagg17/PIzzaBuilder) - A simple chatbot component to create conversation chats.
 
 ## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -93,7 +89,7 @@
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [ICanHasDotnetCore (⭐70)](https://github.com/OctopusDeploy/ICanHasDotnetCore) - Scans uploaded packages.config files or GitHub repository and determines whether the nuget packages target .NET Standard.
+*   [ICanHasDotnetCore (⭐71)](https://github.com/OctopusDeploy/ICanHasDotnetCore) - Scans uploaded packages.config files or GitHub repository and determines whether the nuget packages target .NET Standard.
 
 ## [10. Awesome Qa](/content/seriousran/awesome-qa/README.md)
 

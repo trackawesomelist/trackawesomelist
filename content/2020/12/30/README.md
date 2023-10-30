@@ -10,13 +10,13 @@
 
 ### Graphics
 
-*   [vRayTracer (⭐45)](https://github.com/ali-raheem/vraytracer) - A simple ray tracer written in V.
+*   [vRayTracer (⭐44)](https://github.com/ali-raheem/vraytracer) - A simple ray tracer written in V.
 
 ## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Editable data grid / spreadsheet
 
-*   [revo-grid (⭐2.3k)](https://github.com/revolist/revogrid) - [demo/docs](https://revolist.github.io/revogrid/) - Powerfull Data Grid for React / AngularJS / Vue / Web Components with advanced customization.
+*   [revo-grid (⭐2.5k)](https://github.com/revolist/revogrid) - [demo/docs](https://revolist.github.io/revogrid/) - Powerfull Data Grid for React / AngularJS / Vue / Web Components with advanced customization.
 
 ## [3. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Containers
 
-*   [Sitecore Docker Examples (⭐65)](https://github.com/Sitecore/docker-examples) - An official Docker Examples images for the most recent versions of Sitecore 10.\*, including 'getting-started' XP0 container environment.
+*   [Sitecore Docker Examples (⭐71)](https://github.com/Sitecore/docker-examples) - An official Docker Examples images for the most recent versions of Sitecore 10.\*, including 'getting-started' XP0 container environment.
 
 ### Demo
 
@@ -54,11 +54,11 @@
 
 ### Tools / Music drivers and trackers
 
-*   [hUGETracker (⭐212)](https://github.com/SuperDisk/hUGETracker) - A music tracker based on OpenMPT, focused on ease of use, compact output, and embeddability in homebrew games.
+*   [hUGETracker (⭐237)](https://github.com/SuperDisk/hUGETracker) - A music tracker based on OpenMPT, focused on ease of use, compact output, and embeddability in homebrew games.
 
 ### ASM / Boilerplates and libraries
 
-*   [gb-vwf (⭐33)](https://github.com/ISSOtm/gb-vwf) - Library to print variable-width text, comes with a demo.
+*   [gb-vwf (⭐38)](https://github.com/ISSOtm/gb-vwf) - Library to print variable-width text, comes with a demo.
 
 ## [8. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Languages
 
-*   [Watson (⭐270)](https://github.com/genkami/watson) - Stack-based Turing-incomplete configuration files.
+*   [Watson (⭐271)](https://github.com/genkami/watson) - Stack-based Turing-incomplete configuration files.
 
 ## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

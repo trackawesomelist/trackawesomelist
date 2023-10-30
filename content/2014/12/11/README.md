@@ -16,7 +16,7 @@
 
 ### Editors / Runner
 
-*   [Squire (⭐4.5k)](https://github.com/neilj/Squire) - HTML5 rich text editor.
+*   [Squire (⭐4.6k)](https://github.com/neilj/Squire) - HTML5 rich text editor.
 
 ### Sliders / Runner
 

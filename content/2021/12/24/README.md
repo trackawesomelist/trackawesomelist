@@ -10,7 +10,7 @@
 
 ### C / Git
 
-*   [XKCP (⭐481)](https://github.com/XKCP/XKCP) — is a repository that gathers different free and open-source implementations of the cryptographic schemes defined by the Keccak team.
+*   [XKCP (⭐521)](https://github.com/XKCP/XKCP) — is a repository that gathers different free and open-source implementations of the cryptographic schemes defined by the Keccak team.
 
 ## [2. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
@@ -22,75 +22,72 @@
 
 ### Crates / Hooks
 
-*   [yew-hooks (⭐132)](https://github.com/jetli/yew-hooks) - Custom Hooks library for Yew, inspired by [streamich/react-use (⭐36k)](https://github.com/streamich/react-use) and [alibaba/hooks (⭐12k)](https://github.com/alibaba/hooks).
+*   [yew-hooks (⭐144)](https://github.com/jetli/yew-hooks) - Custom Hooks library for Yew, inspired by [streamich/react-use (⭐38k)](https://github.com/streamich/react-use) and [alibaba/hooks (⭐12k)](https://github.com/alibaba/hooks).
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Forms
 
-*   [Qualtrics Survey](https://qualtrics.com/free-account) — Create professional forms & survey using this first class tool. 50+ expert-designed survey templates. Free Account has limit of 1 active survey, 100 responses/survey & 8 response types.
-*   [stepFORM.io](https://stepform.io) - Quiz and Form Builder. Free plan has 5 forms, up to 3 steps per form, 50 responses per month.
-*   [WebAsk](https://webask.io) - Survey and Form Builder. Free plan has 3 surveys per account, 100 responses per month, 10 elements per survey.
-*   [Wufoo](https://www.wufoo.com/) - Quick forms to use on websites. Free plan has a limit of 100 submissions each month.
+*   [Qualtrics Survey](https://qualtrics.com/free-account) — Create professional forms & survey using this first class tool. 50+ expert-designed survey templates. Free Account has a limit of 1 active survey, 100 responses/survey & 8 response types.
+*   [stepFORM.io](https://stepform.io) - Quiz and Form Builder. The free plan has five forms, up to 3 steps per form, and 50 monthly responses.
+*   [WebAsk](https://webask.io) - Survey and Form Builder. The free plan has three surveys per account, 100 monthly responses, and ten elements per survey.
+*   [Wufoo](https://www.wufoo.com/) - Quick forms to use on websites. The free plan has a limit of 100 submissions each month.
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [IFstruct-parser-vue (⭐87)](https://github.com/iofod/IFstruct-parser/tree/main/temps/web) - Converts [iofod](https://www.iofod.com) edited projects into production-ready Vue projects
+*   [IFstruct-parser-vue (⭐89)](https://github.com/iofod/IFstruct-parser/tree/main/temps/web) - Converts [iofod](https://www.iofod.com) edited projects into production-ready Vue projects
 
 ## [6. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Call to Action
 
 *   Do you know any other **free/open-source** projects that are not included in the overview yet? (front ends, alternatives to websites, apps, etc.)
-*   Just create an [issue (⭐3.7k)](https://github.com/mendel5/alternative-front-ends/issues) and let me know. I'm always looking for new free/open-source projects to add.
+*   Just create an [issue (⭐4.5k)](https://github.com/mendel5/alternative-front-ends/issues) and let me know. I'm always looking for new free/open-source projects to add.
 
 ### Overview / YouTube
 
 *   [CloudTube](https://git.sr.ht/~cadence/cloudtube): Alternative front-end for Invidious
     *   Official instance: <https://tube.cadence.moe>
     *   Installation guide for self-hosting: <https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md>
-*   [FreeTube (⭐6.8k)](https://github.com/FreeTubeApp/FreeTube): Open source YouTube desktop player for privacy on Windows, Mac and Linux
+*   [FreeTube (⭐7.3k)](https://github.com/FreeTubeApp/FreeTube): Open source YouTube desktop player for privacy on Windows, Mac and Linux
     *   Official Instance: <https://freetubeapp.io/>
-*   [Invuedious (⭐30)](https://github.com/bocchilorenzo/invuedious): An alternative frontend for invidious built with vue.js
+*   [Invuedious (⭐34)](https://github.com/bocchilorenzo/invuedious): An alternative frontend for invidious built with vue.js
     *   Official instance: <https://bocchilorenzo.github.io/invuedious>
-*   [TubeSync (⭐1k)](https://github.com/meeb/tubesync): TubeSync is a PVR (personal video recorder) for YouTube. It syncs YouTube channels and playlists to a locally hosted media server
-*   [ytfzf (⭐3.1k)](https://github.com/pystardust/ytfzf): A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl
+*   [TubeSync (⭐1.2k)](https://github.com/meeb/tubesync): TubeSync is a PVR (personal video recorder) for YouTube. It syncs YouTube channels and playlists to a locally hosted media server
+*   [ytfzf (⭐3.3k)](https://github.com/pystardust/ytfzf): A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl
 
 ### Overview / Reddit
 
-*   [Xeddit (⭐10)](https://github.com/ErlingMK/Xeddit): A Xamarin.Forms app for Reddit
+*   [Xeddit (⭐11)](https://github.com/ErlingMK/Xeddit): A Xamarin.Forms app for Reddit
     *   Official instance: [xeddit.com](https://www.xeddit.com)
     *   Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy) and [Xeddit](https://www.xeddit.com/r/privacy)
 
 ### Overview / Spotify
 
-*   [spot (⭐1.9k)](https://github.com/xou816/spot): Gtk/Rust native Spotify client for the GNOME desktop. Only works with premium accounts
+*   [spot (⭐2k)](https://github.com/xou816/spot): Gtk/Rust native Spotify client for the GNOME desktop. Only works with premium accounts
 
 ### Overview / Google Translate
 
-*   [Lingva Translate (⭐1k)](https://github.com/TheDavidDelta/lingva-translate): Alternative front-end for Google Translate, serving as a free and open-source translator with over a hundred languages available
+*   [Lingva Translate (⭐1.1k)](https://github.com/TheDavidDelta/lingva-translate): Alternative front-end for Google Translate, serving as a free and open-source translator with over a hundred languages available
     *   Official instance: [lingva.ml](https://lingva.ml)
-    *   Public instances: [https://github.com/TheDavidDelta/lingva-translate#instances (⭐1k)](https://github.com/TheDavidDelta/lingva-translate#instances)
-*   [SimplyTranslate](https://sr.ht/~metalune/SimplyTranslate): Provide fast and private translations to the user without wasting much overhead for extensive styling or JavaScript. Supports Google Translate, DeepL, ICIBA and LibreTranslate.
-    *   Official instance: [simplytranslate.org](https://simplytranslate.org)
-    *   Home page and public instances: <https://simple-web.org/projects/simplytranslate.html>
-*   [SimplyTranslate Mobile (⭐110)](https://github.com/ManeraKai/simplytranslate_mobile): Unofficial Android client of SimplyTranslate.
+    *   Public instances: [https://github.com/TheDavidDelta/lingva-translate#instances (⭐1.1k)](https://github.com/TheDavidDelta/lingva-translate#instances)
+*   [SimplyTranslate Mobile (⭐127)](https://github.com/ManeraKai/simplytranslate_mobile): Unofficial Android client of SimplyTranslate.
     *   Available on [F-Droid](https://f-droid.org/en/packages/com.simplytranslate_mobile)
 *   [InstaLate](https://gitlab.com/concept1tech/instalate): Distraction-free translation for Android, to be used directly from within any app. Supports Beolingus, DeepL, Dict.cc, GNU CIDE, Heinzelnisse, LibreTranslate, Linguee, WikDict and Wiktionary.
     *   Available on [F-Droid](https://f-droid.org/en/packages/com.concept1tech.instalate)
-*   [DeepL Android (⭐297)](https://github.com/sakusaku3939/DeepLAndroid): Unofficial Android client for DeepL
+*   [DeepL Android (⭐306)](https://github.com/sakusaku3939/DeepLAndroid): Unofficial Android client for DeepL
     *   Available on [F-Droid](https://f-droid.org/en/packages/com.example.deeplviewer)
 
 ### Overview / Facebook
 
-*   [SlimSocial (⭐245)](https://github.com/rignaneseleo/SlimSocial-for-Facebook): Android, alternative front-end for Facebook, built with Java
-*   [Frost (⭐932)](https://github.com/AllanWang/Frost-for-Facebook): An extensive and functional third party app for Facebook (Android app)
+*   [SlimSocial (⭐281)](https://github.com/rignaneseleo/SlimSocial-for-Facebook): Android, alternative front-end for Facebook, built with Java
+*   [Frost (⭐980)](https://github.com/AllanWang/Frost-for-Facebook): An extensive and functional third party app for Facebook (Android app)
 
 ### Overview / Apple AirPlay
 
-*   [RPiPlay (⭐4.5k)](https://github.com/FD-/RPiPlay): An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
+*   [RPiPlay (⭐4.6k)](https://github.com/FD-/RPiPlay): An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
 *   [air-pi-play (⭐1.4k)](https://github.com/rahul-thakoor/air-pi-play): Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors.
 
 ### Overview / Hacker News
@@ -98,12 +95,12 @@
 *   [Hackerweb (⭐1.2k)](https://github.com/cheeaun/hackerweb): A simply readable Hacker News web app
     *   Official instance: <https://hackerweb.app>
     *   About Hackerweb: <https://hackerwebapp.com>
-*   [Hckrnws (⭐54)](https://github.com/rajatkulkarni95/hckrnws): A custom front-end for a better reading experience of HackerNews
+*   [Hckrnws (⭐67)](https://github.com/rajatkulkarni95/hckrnws): A custom front-end for a better reading experience of HackerNews
     *   Official instance: <https://www.hckrnws.com>
 
 ### Redirection / Other services
 
-*   [Farside (⭐373)](https://github.com/benbusby/farside): Farside provides links that automatically redirect to working instances of privacy-oriented alternative frontends, such as Nitter, Libreddit, etc. This allows for users to have more reliable access to the available public instances for a particular service, while also helping to distribute traffic more evenly across all instances and avoid performance bottlenecks and rate-limiting.
+*   [Farside (⭐425)](https://github.com/benbusby/farside): Farside provides links that automatically redirect to working instances of privacy-oriented alternative frontends, such as Nitter, Libreddit, etc. This allows for users to have more reliable access to the available public instances for a particular service, while also helping to distribute traffic more evenly across all instances and avoid performance bottlenecks and rate-limiting.
 *   [UntrackMe](https://framagit.org/tom79/nitterizeme): UntrackMe transforms Twitter, YouTube, Reddit and Medium and Wikipedia links to links of open source, privacy friendly front-ends. Converts Google Maps links to OpenStreetMap links. Removes tracking parameters from any url. Then delegates the action to other apps that are capable of handling them. (Android app)
 
 ### Related projects / Other services

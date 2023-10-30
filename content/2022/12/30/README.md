@@ -16,24 +16,24 @@
 
 ### Command-Line Productivity
 
-*   [arttime (⭐489)](https://github.com/reportaman/arttime) - Beauty of text art meets functionality of clock, timer, pomodoro++ time manager
-*   [await (⭐56)](https://github.com/slavaGanzin/await) - single binary that run list of commands in parallel and waits for their termination
-*   [lf (⭐5.3k)](https://github.com/gokcehan/lf) - Terminal file manager written in Go, inspired by ranger
+*   [arttime (⭐632)](https://github.com/reportaman/arttime) - Beauty of text art meets functionality of clock, timer, pomodoro++ time manager
+*   [await (⭐81)](https://github.com/slavaGanzin/await) - single binary that run list of commands in parallel and waits for their termination
+*   [lf (⭐5.9k)](https://github.com/gokcehan/lf) - Terminal file manager written in Go, inspired by ranger
 
 ### Customization / Directory Navigation
 
-*   [aphrodite-terminal-theme (⭐73)](https://github.com/win0err/aphrodite-terminal-theme) — Minimalistic Aphrodite theme (prompt) for sexy terminals that works in bash, fish and zsh
+*   [aphrodite-terminal-theme (⭐82)](https://github.com/win0err/aphrodite-terminal-theme) — Minimalistic Aphrodite theme (prompt) for sexy terminals that works in bash, fish and zsh
 
 ### For Developers / Directory Navigation
 
 *   [1Password SSH Agent](https://developer.1password.com/docs/ssh/) - Authenticate Git and SSH workflows with biometric unlock using 1Password
-*   [nve (⭐606)](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions.
+*   [nve (⭐614)](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions.
 *   [trunk](https://www.npmjs.com/package/@trunkio/launcher) - Blazingly fast meta code checker and formatter
-*   [vmn (⭐53)](https://github.com/final-israel/vmn) - git-based automatic versioning and state recovery solution agnostic to language or architecture
+*   [vmn (⭐55)](https://github.com/final-israel/vmn) - git-based automatic versioning and state recovery solution agnostic to language or architecture
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [dzr (⭐112)](https://github.com/yne/dzr) - Cross-platform Deezer.com audio player.
+*   [dzr (⭐136)](https://github.com/yne/dzr) - Cross-platform Deezer.com audio player.
 
 ---
 

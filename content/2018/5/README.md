@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 29 - Feb 04, 2018
 
-47 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -53,15 +53,15 @@
 
 ### Other
 
-*   [npm-run-all (⭐5k)](https://github.com/mysticatea/npm-run-all) - CLI tool to run multiple npm-scripts in parallel or serial.
-*   [onchange (⭐775)](https://github.com/Qard/onchange) - Watch files and folders and run a command when something changed.
-*   [cli-error-notifier (⭐64)](https://github.com/micromata/cli-error-notifier) - Sends native desktop notifications when npm scripts fail.
+*   [npm-run-all (⭐5.4k)](https://github.com/mysticatea/npm-run-all) - CLI tool to run multiple npm-scripts in parallel or serial.
+*   [onchange (⭐793)](https://github.com/Qard/onchange) - Watch files and folders and run a command when something changed.
+*   [cli-error-notifier (⭐67)](https://github.com/micromata/cli-error-notifier) - Sends native desktop notifications when npm scripts fail.
 
 ## [7. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line apps
 
-*   [gtop (⭐9.4k)](https://github.com/aksakalli/gtop) - System monitoring dashboard for the terminal.
+*   [gtop (⭐9.5k)](https://github.com/aksakalli/gtop) - System monitoring dashboard for the terminal.
 
 ## [8. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -71,11 +71,11 @@
 
 ### Alert / Barcode
 
-*   [Alerts Pickers (⭐5.5k)](https://github.com/dillidon/alerts-and-pickers) - Advanced usage of UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.
+*   [Alerts Pickers (⭐5.6k)](https://github.com/dillidon/alerts-and-pickers) - Advanced usage of UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.
 
 ### Video / Barcode
 
-*   [NextLevelSessionExporter (⭐237)](https://github.com/NextLevel/NextLevelSessionExporter) - Export and transcode media.
+*   [NextLevelSessionExporter (⭐242)](https://github.com/NextLevel/NextLevelSessionExporter) - Export and transcode media.
 
 ## [9. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
@@ -87,7 +87,7 @@
 
 ### WebSocket
 
-*   [Chord (⭐435)](https://github.com/jarohen/chord)
+*   [Chord (⭐437)](https://github.com/jarohen/chord)
 
 ## [11. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -112,24 +112,24 @@
 
 ### Tools and frameworks
 
-*   [Look-alike (⭐29)](https://github.com/kdzwinel/Look-alike) - Chrome Extension for taking and comparing screenshots.
-*   [Differencify (⭐613)](https://github.com/NimaSoroush/differencify) - A library for visual regression testing using [Puppeteer (⭐81k)](https://github.com/GoogleChrome/puppeteer).
-*   [ResembleJS (⭐4.2k)](https://github.com/Huddle/Resemble.js) - Analyse and compare images with Javascript and HTML5.
+*   [Look-alike (⭐33)](https://github.com/kdzwinel/Look-alike) - Chrome Extension for taking and comparing screenshots.
+*   [Differencify (⭐624)](https://github.com/NimaSoroush/differencify) - A library for visual regression testing using [Puppeteer (⭐84k)](https://github.com/GoogleChrome/puppeteer).
+*   [ResembleJS (⭐4.4k)](https://github.com/Huddle/Resemble.js) - Analyse and compare images with Javascript and HTML5.
 
 ### Blog posts
 
-*   [Make visual regression testing easier](https://medium.com/@nima.soroush.h/make-visual-regression-testing-easier-4a3dc7073737) - Introduction to [Differencify (⭐613)](https://github.com/NimaSoroush/differencify) and how to use it.
+*   [Make visual regression testing easier](https://medium.com/@nima.soroush.h/make-visual-regression-testing-easier-4a3dc7073737) - Introduction to [Differencify (⭐624)](https://github.com/NimaSoroush/differencify) and how to use it.
 
 ### Deprecated
 
 *   [PhantomCSS (⭐4.7k)](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS or SlimerJS. No longer maintained since 22 Dec 2017.
-*   [DalekJS (⭐705)](https://github.com/dalekjs/dalek) - Automated cross browser testing with JavaScript. No longer maintained since 4 Jun 2017.
+*   [DalekJS (⭐701)](https://github.com/dalekjs/dalek) - Automated cross browser testing with JavaScript. No longer maintained since 4 Jun 2017.
 
 ## [15. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
-*   [Nuclear (⭐10k)](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
+*   [Nuclear (⭐11k)](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
 
 ### For Electron / Other
 
@@ -156,8 +156,8 @@
 
 ### Packages / MIDI
 
-*   [JZZ (⭐443)](https://github.com/jazz-soft/JZZ) - MIDI library for Node.js and all major browsers.
-*   [JZZ-midi-Gear (⭐11)](https://github.com/jazz-soft/JZZ-midi-Gear) - Retrieve your MIDI device model and manufacturer.
+*   [JZZ (⭐476)](https://github.com/jazz-soft/JZZ) - MIDI library for Node.js and all major browsers.
+*   [JZZ-midi-Gear (⭐12)](https://github.com/jazz-soft/JZZ-midi-Gear) - Retrieve your MIDI device model and manufacturer.
 
 ## [19. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
@@ -200,7 +200,7 @@
 ### Command-Line Productivity
 
 *   [how2 (⭐5.6k)](https://github.com/santinic/how2) - `how2` finds the simplest way to do something in a unix shell. It's like `man`, but you can query it in natural language.
-*   [hss (⭐309)](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution
+*   [hss (⭐322)](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution
 
 ### For Developers / Directory Navigation
 
@@ -208,7 +208,7 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [bats (⭐3.7k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System
+*   [bats (⭐4k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 
 ## [25. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
 
@@ -248,13 +248,13 @@
 
 ### Libraries / Parsing
 
-*   [lalrpop/lalrpop (⭐2.6k)](https://github.com/lalrpop/lalrpop) — LR(1) parser generator for Rust
+*   [lalrpop/lalrpop (⭐2.7k)](https://github.com/lalrpop/lalrpop) — LR(1) parser generator for Rust
 
 ## [27. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Tips for Researchers / HTML+CSS+JS
 
-*   Check the [Academic Resources and Grey Literature List (⭐11k)](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature) of the [Awesome Open-Source Intelligence List (⭐11k)](https://github.com/jivoi/awesome-osint) for search engines to search for papers.
+*   Check the [Academic Resources and Grey Literature List (⭐13k)](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature) of the [Awesome Open-Source Intelligence List (⭐13k)](https://github.com/jivoi/awesome-osint) for search engines to search for papers.
 
 ## [28. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -276,13 +276,13 @@
 
 ### Development Tools
 
-*   [QCL](http://tph.tuwien.ac.at/\~oemer/qcl.html) - Older, C like language for quantum computers. Only has a simulator and debugger.
+*   [QCL](http://tph.tuwien.ac.at/~oemer/qcl.html) - Older, C like language for quantum computers. Only has a simulator and debugger.
 
 ## [30. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Games
 
-*   [Lila](https://lichess.org/) - The forever free, adless and open source chess server powering lichess.org, with official iOS and Android client apps. ([Source Code (⭐13k)](https://github.com/ornicar/lila)) `AGPL-3.0` `Scala`
+*   [Lila](https://lichess.org/) - The forever free, adless and open source chess server powering lichess.org, with official iOS and Android client apps. ([Source Code (⭐14k)](https://github.com/lichess-org/lila)) `AGPL-3.0` `Scala`
 
 ## [31. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -369,25 +369,25 @@
 ### Components & Libraries / UI Components
 
 *   [vue-modaltor (⭐82)](https://github.com/davodaslanifakor/modaltor) - most advance configurable modal component for vuejs
-*   [vue-datepicker-local (⭐301)](https://github.com/weifeiyue/vue-datepicker-local) - A Beautiful Datepicker Component For Vue2.
+*   [vue-datepicker-local (⭐299)](https://github.com/weifeiyue/vue-datepicker-local) - A Beautiful Datepicker Component For Vue2.
 
 ## [41. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Audio
 
-*   [minimp3 (⭐1.3k)](https://github.com/lieff/minimp3) - Public domain, header-only MP3 decoder with clean-room implementation. \[CC0]
+*   [minimp3 (⭐1.4k)](https://github.com/lieff/minimp3) - Public domain, header-only MP3 decoder with clean-room implementation. \[CC0]
 
 ### Cryptography
 
-*   [digestpp (⭐166)](https://github.com/kerukuro/digestpp) - C++11 header-only message digest (hash) library. \[PublicDomain]
+*   [digestpp (⭐177)](https://github.com/kerukuro/digestpp) - C++11 header-only message digest (hash) library. \[PublicDomain]
 
 ### Scientific Computing
 
-*   [TileDB (⭐1.5k)](https://github.com/TileDB-Inc/TileDB) - Fast Dense and Sparse Multidimensional Array DBMS. \[MIT] [website](https://tiledb.io/)
+*   [TileDB (⭐1.6k)](https://github.com/TileDB-Inc/TileDB) - Fast Dense and Sparse Multidimensional Array DBMS. \[MIT] [website](https://tiledb.io/)
 
 ### Debug
 
-*   [MinUnit (⭐486)](https://github.com/siu/minunit) - A minimal unit testing framework for C self-contained in a single header file. \[MIT]
+*   [MinUnit (⭐508)](https://github.com/siu/minunit) - A minimal unit testing framework for C self-contained in a single header file. \[MIT]
 
 ### Math
 
@@ -399,7 +399,7 @@
 
 ### Serialization
 
-*   [MessagePack (⭐2.7k)](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C and C++. \[Apache2] [website](http://msgpack.org/)
+*   [MessagePack (⭐2.8k)](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C and C++. \[Apache2] [website](http://msgpack.org/)
 
 ### Integrated Development Environment
 
@@ -409,11 +409,11 @@
 
 ### Books
 
-*   [List of Free C or C++ Books (⭐46k)](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
+*   [List of Free C or C++ Books (⭐50k)](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
 
 ### Videos
 
-*   [List of C or C++ YouTube Videos (⭐46k)](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
+*   [List of C or C++ YouTube Videos (⭐50k)](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
 
 ### Websites
 
@@ -422,7 +422,7 @@
 ### Other Awesome Projects
 
 *   [Awesome C++](https://cpp.libhunt.com/) - LibHunt's mirror.
-*   [Awesome interview questions (⭐55k)](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C and C++.
+*   [Awesome interview questions (⭐58k)](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C and C++.
 
 ## [42. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
@@ -460,13 +460,13 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [ElectronNET (⭐6.5k)](https://github.com/ElectronNET/Electron.NET) - Build cross platform desktop apps with ASP.NET NET Core.
-*   [MassTransit (⭐4.9k)](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET.
-*   [opencvsharp (⭐4.2k)](https://github.com/shimat/opencvsharp) - .NET Framework wrapper for OpenCV.
+*   [ElectronNET (⭐6.9k)](https://github.com/ElectronNET/Electron.NET) - Build cross platform desktop apps with ASP.NET NET Core.
+*   [MassTransit (⭐6k)](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET.
+*   [opencvsharp (⭐4.8k)](https://github.com/shimat/opencvsharp) - .NET Framework wrapper for OpenCV.
 
 ### Frameworks, Libraries and Tools / Application Templates
 
-*   [aspnet-core-react-template (⭐594)](https://github.com/bradymholt/aspnet-core-react-template) - ASP.NET Core 2.0 / React SPA Template App.
+*   [aspnet-core-react-template (⭐622)](https://github.com/bradymholt/aspnet-core-react-template) - ASP.NET Core 2.0 / React SPA Template App.
 
 ### Frameworks, Libraries and Tools / Bot
 
@@ -474,11 +474,11 @@
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [CommandLineUtils (⭐2k)](https://github.com/natemcmaster/CommandLineUtils) - Command line parsing and utilities for .NET Core and .NET Framework.
+*   [CommandLineUtils (⭐2.1k)](https://github.com/natemcmaster/CommandLineUtils) - Command line parsing and utilities for .NET Core and .NET Framework.
 
 ### Frameworks, Libraries and Tools / Web Socket
 
-*   [websocket-manager (⭐434)](https://github.com/radu-matei/websocket-manager) - Real-Time library for ASP .NET Core.
+*   [websocket-manager (⭐443)](https://github.com/radu-matei/websocket-manager) - Real-Time library for ASP .NET Core.
 
 ## [47. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -489,6 +489,30 @@
 ### Products/Technologies / S technologies
 
 *   Sketch <https://blog.sketchapp.com/>
+
+## [48. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Go / Phoenix
+
+*   [Practical Cryptography With Go](https://leanpub.com/gocrypto/read) - Kyle Isom
+
+### Lisp / TeX
+
+*   [Lisp Hackers: Interviews with 100x More Productive Programmers](https://leanpub.com/lisphackers/read) - Vsevolod Dyomkin
+*   [Lisp Web Tales](https://leanpub.com/lispwebtales) - Pavel Penev *(Leanpub account or valid email requested)*
+
+### Ruby / Tornado
+
+*   [Developing Games With Ruby](https://leanpub.com/developing-games-with-ruby/read) - Tomas Varaneckas
+*   [Ruby Web Dev: The Other Way](https://leanpub.com/rwdtow/read) - Yevhen Kuzminov
+
+### Ruby / Ruby on Rails
+
+*   [Kestrels, Quirky Birds, and Hopeless Egocentricity](https://leanpub.com/combinators/read) - Reg Braithwaite
+
+### Workflow / Vulkan
+
+*   [Declare Peace on Virtual Machines. A guide to simplifying vm-based development on a Mac](https://leanpub.com/declarepeaceonvms/read)
 
 ---
 

@@ -69,7 +69,7 @@
 
 ### ORM/ODM Extensions
 
-*   [jennifer.cr (⭐391)](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
+*   [jennifer.cr (⭐406)](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
 
 ## [6. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Scheduling
 
-*   [Apache Airflow (⭐28k)](https://github.com/apache/incubator-airflow) - a platform to programmatically author, schedule and monitor workflows.
+*   [Apache Airflow (⭐30k)](https://github.com/apache/incubator-airflow) - a platform to programmatically author, schedule and monitor workflows.
 *   [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/data-factory-introduction) - cloud-based pipeline orchestration for on-prem, cloud and HDInsight
 
 ## [11. Awesome D](/content/dlang-community/awesome-d/README.md)
@@ -114,7 +114,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [ChuckNorris (⭐21)](https://github.com/mazipan/chucknorris) - Chuck Norris Jokes Generator built with VueJS + api.chucknorris.io
+*   [ChuckNorris (⭐20)](https://github.com/mazipan/chucknorris) - Chuck Norris Jokes Generator built with VueJS + api.chucknorris.io
 
 ---
 

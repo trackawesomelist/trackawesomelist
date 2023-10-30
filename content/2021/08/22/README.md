@@ -28,7 +28,7 @@
 
 ### Types / Playground
 
-*   [getmytypes (⭐10)](https://github.com/halchester/getmytypes) - Install @types files into your devDependencies.
+*   [getmytypes (⭐11)](https://github.com/halchester/getmytypes) - Install @types files into your devDependencies.
 
 ## [5. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Assistants
 
-*   [ai-commit - Automagically generate conventional commit messages with AI (⭐13)](https://github.com/guanguans/ai-commit)
+*   [ai-commit - Automagically generate conventional commit messages with AI (⭐159)](https://github.com/guanguans/ai-commit)
 
 ## [2. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
@@ -22,9 +22,9 @@
 
 *   [Dapp.tools](https://dapp.tools/) - Command line tools and smart contract libraries for Ethereum smart contract development.
 *   [Ganache](https://trufflesuite.com/ganache/) - Personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.
-*   [Foundry (⭐5.4k)](https://github.com/foundry-rs/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+*   [Foundry (⭐6.4k)](https://github.com/foundry-rs/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 *   [Hardhat](https://hardhat.org/) - Multichain Ethereum development environment.
-*   [Robot Framework Solidity Testing Toolkit (⭐5)](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - This combines popular smart contract testing and deployment libraries with Robot Framework.
+*   [Robot Framework Solidity Testing Toolkit (⭐6)](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - This combines popular smart contract testing and deployment libraries with Robot Framework.
 *   [Truffle Suite](https://trufflesuite.com/) - Comprehensive suite of tools for smart contract development.
 
 ## [3. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
@@ -37,7 +37,7 @@
 
 ### Libraries and Tools / Python
 
-*   [Python-CAN (⭐941)](https://github.com/hardbyte/python-can) - Python interface to various CAN implementations, including SocketCAN. Allows you to use Python 2.7.x or 3.3.x+ to communicate over CAN networks.
+*   [Python-CAN (⭐1k)](https://github.com/hardbyte/python-can) - Python interface to various CAN implementations, including SocketCAN. Allows you to use Python 2.7.x or 3.3.x+ to communicate over CAN networks.
 
 ## [5. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -76,20 +76,11 @@
 
 ### Applications / Web Servers
 
-*   [emanuele-em/man-in-the-middle-proxy (⭐254)](https://github.com/emanuele-em/man-in-the-middle-proxy) — A MITM Proxy 🦀! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities [![Rust](https://github.com/emanuele-em/man-in-the-middle-proxy/actions/workflows/rust.yml/badge.svg)](https://github.com/emanuele-em/man-in-the-middle-proxy/actions/workflows/rust.yml)
+*   [emanuele-em/man-in-the-middle-proxy (⭐290)](https://github.com/emanuele-em/man-in-the-middle-proxy) — A MITM Proxy 🦀! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities [![Rust](https://github.com/emanuele-em/man-in-the-middle-proxy/actions/workflows/rust.yml/badge.svg)](https://github.com/emanuele-em/man-in-the-middle-proxy/actions/workflows/rust.yml)
 
 ### Libraries / Email
 
-*   [stalwartlabs/mail-auth (⭐59)](https://github.com/stalwartlabs/mail-auth) \[[mail-auth](https://crates.io/crates/mail-auth)] - DKIM, ARC, SPF and DMARC message authentication library [![build badge](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml)
-
-### Libraries / Filesystem
-
-*   Operations
-    *   [ParthJadhav/Rust\_Search (⭐85)](https://github.com/ParthJadhav/Rust_Search) \[[rust\_search](https://crates.io/crates/rust_search)] - Blazingly fast file search library built in Rust.
-    *   [pop-os/dbus-udisks2 (⭐16)](https://github.com/pop-os/dbus-udisks2) \[[dbus-udisks2](https://crates.io/crates/dbus-udisks2)] - UDisks2 DBus API
-    *   [pop-os/sys-mount (⭐36)](https://github.com/pop-os/sys-mount) \[[sys-mount](https://crates.io/crates/sys-mount)] — High level abstraction for the `mount` / `umount2` system calls.
-    *   [vitiral/path\_abs (⭐46)](https://github.com/vitiral/path_abs) \[[path\_abs](https://crates.io/crates/path_abs)] — Absolute serializable path types and associated methods.
-    *   [webdesus/fs\_extra (⭐189)](https://github.com/webdesus/fs_extra) — expanding opportunities standard library std::fs and std::io
+*   [stalwartlabs/mail-auth (⭐67)](https://github.com/stalwartlabs/mail-auth) \[[mail-auth](https://crates.io/crates/mail-auth)] - DKIM, ARC, SPF and DMARC message authentication library [![build badge](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml)
 
 ## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -109,7 +100,7 @@
 
 *   [What ChatGPT and generative AI mean for science | Nature](https://www.nature.com/articles/d41586-023-00340-6)
 
-### Inbox: Developing + AI / Generative Adversarial Networks (GANs)
+### Inbox: DEV + AI / Generative Adversarial Networks (GANs)
 
 *   [The Impact of AI on Developer Productivity: Evidence from GitHub Copilot | arxiv](https://arxiv.org/abs/2302.06590)
 
@@ -117,17 +108,17 @@
 
 ### Software / Automation
 
-*   [Matchering (⭐945)](https://github.com/sergree/matchering) - A containerized web app for automated music mastering. An open-source alternative to LANDR, eMastered, and MajorDecibel. `GPL-3.0` `Docker`
+*   [Matchering (⭐1.1k)](https://github.com/sergree/matchering) - A containerized web app for automated music mastering (alternative to LANDR, eMastered, and MajorDecibel). `GPL-3.0` `Docker`
 
 ## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Miscellaneous
 
-*   [Pika Code Screenshots](https://pika.style/templates/code-image) — Create beautiful, customizable screenshots from code snippets and VSCode using extension.
+*   [Pika Code Screenshots](https://pika.style/templates/code-image) — Create beautiful, customizable screenshots from code snippets and VSCode using the extension.
 
 ### Game Development
 
-*   [Gamefresco.com](https://gamefresco.com/) — Discover, collect and share free game assets from game artists everywhere.
+*   [Gamefresco.com](https://gamefresco.com/) — Discover, collect, and share free game assets from game artists everywhere.
 
 ## [15. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
@@ -143,7 +134,7 @@
 
 ### RPG
 
-*   [Zelda3 (⭐3.7k)](https://github.com/snesrev/zelda3) - This is a reverse engineered clone of Zelda 3 - A Link to the Past.
+*   [Zelda3 (⭐3.9k)](https://github.com/snesrev/zelda3) - This is a reverse engineered clone of Zelda 3 - A Link to the Past.
 
 ## [17. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/README.md)
 
@@ -163,7 +154,7 @@
 
 ### Remote Development / Diagnostics
 
-*   [miversen33/netman.nvim (⭐251)](https://github.com/miversen33/netman.nvim) - Lua powered Network Resource Manager.
+*   [miversen33/netman.nvim (⭐269)](https://github.com/miversen33/netman.nvim) - Lua powered Network Resource Manager.
 
 ## [20. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
@@ -189,7 +180,7 @@
 
 ### Base Tools / Other
 
-*   [dockerize (⭐167)](https://github.com/powerman/dockerize) - Utility to simplify running applications in docker containers by [@jwilder](https://github.com/jwilder), [@powerman](https://github.com/powerman)
+*   [dockerize (⭐171)](https://github.com/powerman/dockerize) - Utility to simplify running applications in docker containers by [@jwilder](https://github.com/jwilder), [@powerman](https://github.com/powerman)
 
 ---
 

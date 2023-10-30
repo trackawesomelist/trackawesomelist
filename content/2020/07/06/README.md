@@ -25,7 +25,7 @@
 
 ### Databases / Other Tools
 
-*   [FastAPI-CamelCase](https://nf1s.github.io/fastapi-camelcase/) - CamelCase JSON support for FastAPI utilizing [Pydantic](https://docs.pydantic.dev/).
+*   [FastAPI-CamelCase](https://nf1s.github.io/fastapi-camelcase/) - CamelCase JSON support for FastAPI utilizing [Pydantic](https://docs.pydantic.dev/latest/).
     *   [CamelCase Models with FastAPI and Pydantic](https://medium.com/analytics-vidhya/camel-case-models-with-fast-api-and-pydantic-5a8acb6c0eee) - Accompanying blog post from the author of the extension.
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
@@ -44,7 +44,7 @@
 
 ### Themes
 
-*   [nord tmux (⭐929)](https://github.com/arcticicestudio/nord-tmux) An arctic, north-bluish clean and elegant tmux color theme.
+*   [nord tmux (⭐986)](https://github.com/arcticicestudio/nord-tmux) An arctic, north-bluish clean and elegant tmux color theme.
 
 ## [6. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Packages / Testing
 
-*   [axe-core (⭐5.1k)](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing.
+*   [axe-core (⭐5.3k)](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing.
 
 ## [9. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -129,10 +129,6 @@
 
 ## [13. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
-### Tools / XML
-
-*   [Update Deno](https://github.com/marketplace/actions/update-deno) - Github Action that puts a file with the latest Deno Version in your repository.
-
 ### Articles / XML
 
 *   [Continuous Integration with Deno](https://semaphoreci.com/blog/continuous-integration-with-deno)
@@ -151,7 +147,7 @@
 
 ### Open Source / Casual
 
-*   [Ghost Rigger (⭐188)](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) - A cyberpunk inspired puzzle game, build for Flutter Hackathon Hack20. By [b099l3](https://github.com/b099l3) and [ernestoyaquello](https://github.com/ernestoyaquello)
+*   [Ghost Rigger (⭐194)](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) - A cyberpunk inspired puzzle game, build for Flutter Hackathon Hack20. By [b099l3](https://github.com/b099l3) and [ernestoyaquello](https://github.com/ernestoyaquello)
 
 ---
 

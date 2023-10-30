@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 18, 2020
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,32 +24,38 @@
 
 *   [Bootstrapping Microservices](https://www.manning.com/books/bootstrapping-microservices-with-docker-kubernetes-and-terraform) by [Ashley Davis](https://twitter.com/ashleydavis75)
 
-## [4. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Java / Bootstrap
+
+*   [Java Programming](https://en.wikibooks.org/wiki/Java_Programming) - Wikibooks
+
+## [5. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
 ### Websites
 
 *   Project Hatch - <https://www.projecthatch.co/your-story/>
 
-## [5. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+## [6. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Plugins / IRC
 
 *   [Composer-Symlinker (⭐18)](https://github.com/e-picas/composer-symlinker) - Enables you to load packages from different directories (instead of loading them from /vendor).
 *   [Composer-Compile-Plugin (⭐11)](https://github.com/civicrm/composer-compile-plugin) - Allow PHP libraries to define simple, freeform compilation tasks. Support post-install hooks in any package.
 
-## [6. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [7. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Development Environment / Code and Run
 
 *   [Gitpod (⭐11k)](https://github.com/gitpod-io/gitpod) - An open source developer platform that automates the provisioning of ready-to-code development environments.
 
-## [7. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [8. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### API / E-commerce
 
 *   [CartQL](https://cartql.com/) - GraphQL Shopping Cart and Checkout API built for the Jamstack and to work with any framework and inventory.
 
-## [8. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [9. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Deployment and Operation
 
@@ -59,33 +65,33 @@
 
 *   [An Architectural Risk Analysis Of Machine Learning Systems](https://berryvilleiml.com/docs/ara.pdf)
 
-## [9. Awesome Python](/content/vinta/awesome-python/README.md)
+## [10. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Books
 
 *   [Think Python](https://greenteapress.com/wp/think-python-2e/)
 
-## [10. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [11. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Migration
 
 *   [Upgrade app (extended) (⭐21)](https://github.com/dereuromark/upgrade) - An extended upgrade app for 2.x=>3.x, between 3.x and some 4.x snippets.
 
-## [11. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [12. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Schematics / Components
 
-*   [Threejs (⭐211)](https://github.com/JohnnyDevNull/ng-three-template): New three.js starter app
+*   [Threejs (⭐214)](https://github.com/JohnnyDevNull/ng-three-template): New three.js starter app
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Major Cloud Providers
 
 *   [Amazon Web Services](https://aws.amazon.com)
-    *   [CloudFront](https://aws.amazon.com/cloudfront/) - 1TB egress per month
-    *   [Cloudwatch](https://aws.amazon.com/cloudwatch/) - 10 custom metrics and 10 alarms
+    *   [CloudFront](https://aws.amazon.com/cloudfront/) - 1TB egress per month and 2M Function invocations per month
+    *   [Cloudwatch](https://aws.amazon.com/cloudwatch/) - 10 custom metrics and ten alarms
     *   [CodeBuild](https://aws.amazon.com/codebuild/) - 100min of build time per month
-    *   [CodeCommit](https://aws.amazon.com/codecommit/) - 5 active users,50GB storage and 10000 request per month
+    *   [CodeCommit](https://aws.amazon.com/codecommit/) - 5 active users,50GB storage, and 10000 requests per month
     *   [CodePipeline](https://aws.amazon.com/codepipeline/) - 1 active pipeline per month
     *   [DynamoDB](https://aws.amazon.com/dynamodb/) - 25GB NoSQL DB
     *   [EC2](https://aws.amazon.com/ec2/) - 750 hours per month of t2.micro or t3.micro(12mo). 100GB egress per month
@@ -99,13 +105,13 @@
     *   [SQS](https://aws.amazon.com/sqs/) - 1 million messaging queue requests
     *   Full, detailed list - <https://aws.amazon.com/free/>
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Collect2](https://collect2.com) — Create an API endpoint to test, automate, and connect webhooks. Free plan allows for two datasets, 2000 records, 1 forwarder, and 1 alert.
+*   [Collect2](https://collect2.com) — Create an API endpoint to test, automate, and connect webhooks. The free plan allows for two datasets, 2000 records, one forwarder, and one alert.
 
 ### Crash and Exception Handling
 
-*   [exceptionless](https://exceptionless.com) — Real-time error, feature, log reporting and more. Free for 3k events per month/1 user. Open source and easy to self-host for unlimited use.
+*   [exceptionless](https://exceptionless.com) — Real-time error, feature, log reporting, and more. Free for 3k events per month/1 user. Open source and easy to self-host for unlimited use.
 
 ---
 

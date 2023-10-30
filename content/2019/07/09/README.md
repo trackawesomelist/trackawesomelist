@@ -38,7 +38,7 @@
 ### Software / Make your life easier
 
 *   [Check All](https://chrispederick.com/work/web-developer/) - "Select All" is often not available. Why not bring your own?
-*   [recheck-web (⭐254)](https://github.com/retest/recheck-web) - Open Source change comparison tool with local Golden Masters, git-like ignore syntax and "unbreakable selenium" tests.
+*   [recheck-web (⭐261)](https://github.com/retest/recheck-web) - Open Source change comparison tool with local Golden Masters, git-like ignore syntax and "unbreakable selenium" tests.
 
 ## [5. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 

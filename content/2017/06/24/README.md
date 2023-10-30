@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 24, 2017
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,30 +16,35 @@
 
 ### Alternatives / Communication
 
-*   [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Secure video conferencing and desktop sharing using WebRTC.
 *   [ProtonMail](https://protonmail.com/) - Free encrypted email.
 *   [Telegram](https://telegram.org/) - Cloud-based mobile and desktop messaging app with a focus on security and speed.
 *   [Tox](https://tox.chat/) - Encrypted and distributed messaging platform with voice, video, and screen sharing.
 
-## [3. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [3. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+
+### Software / Communication
+
+*   [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Secure video conferencing and desktop sharing using WebRTC. ([Apache License 2.0 (⭐20k)](https://github.com/jitsi/jitsi-meet/blob/master/LICENSE))
+
+## [4. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Models/Projects
 
 *   [3D Convolutional Neural Networks in TensorFlow (⭐754)](https://github.com/astorfi/3D-convolutional-speaker-recognition) - Implementation of ["3D Convolutional Neural Networks for Speaker Verification application"](https://arxiv.org/abs/1705.09422) in TensorFlow by Torfi et al.
 
-## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Ruby / Natural Language Processing
 
-*   [Awesome NLP with Ruby (⭐997)](https://github.com/arbox/nlp-with-ruby) - Curated link list for practical natural language processing in Ruby.
+*   [Awesome NLP with Ruby (⭐1k)](https://github.com/arbox/nlp-with-ruby) - Curated link list for practical natural language processing in Ruby.
 
-## [5. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Literature / Education
 
 *   [Going serverless](https://leanpub.com/going-serverless) - Building scalable applications with the Serverless Framework and AWS Lambda.
 
-## [6. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
+## [7. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
 
 ### Frameworks / Game Frameworks
 
@@ -65,7 +70,7 @@
 
 *   [CSS.as](https://gist.github.com/trxcllnt/1161266) - Single-file CSS parser, part of TinyTLF project.
 
-## [7. ElixirBooks](/content/sger/ElixirBooks/README.md)
+## [8. ElixirBooks](/content/sger/ElixirBooks/README.md)
 
 ### **Web Development** / [Programming Phoenix LiveView](https://pragprog.com/titles/liveview/programming-phoenix-liveview/)
 

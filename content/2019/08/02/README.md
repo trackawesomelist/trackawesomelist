@@ -16,13 +16,13 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [Gossa (⭐698)](https://github.com/pldubouilh/gossa) - Gossa is a light and simple webserver for your files. `MIT` `Go`
+*   [Gossa (⭐779)](https://github.com/pldubouilh/gossa) - Gossa is a light and simple webserver for your files. `MIT` `Go`
 
 ## [3. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Visualization
 
-*   [jp\_doodle (⭐47)](https://github.com/AaronWatters/jp_doodle) - Infrastructure for building special purpose interactive diagrams in 2D and 3D.
+*   [jp\_doodle (⭐51)](https://github.com/AaronWatters/jp_doodle) - Infrastructure for building special purpose interactive diagrams in 2D and 3D.
 
 ## [4. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -130,27 +130,27 @@
 
 ## [13. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Node.js / Angular
+### Node.js / Svelte
 
 *   [npm Weekly](https://www.npmjs.com/npm-weekly). What we’re working on, thinking about, and talking about NPM
 
-### Ruby / Angular
+### Ruby / Svelte
 
 *   [Ruby Articles](https://thoughtbot.com/blog/tags/ruby). Ruby posts by [Thoughtbot](https://thoughtbot.com)
 
-### Lua / Angular
+### Lua / Svelte
 
 *   [Lua Digest](https://luadigest.immortalin.com). A regular newsletter for the Lua Programming Language.
 
-### Open Source / Angular
+### Open Source / Svelte
 
 *   [NixOS Weekly](https://weekly.nixos.org). Latest News for [NixOS](https://nixos.org)
 
-### Devops / Angular
+### Devops / Svelte
 
 *   [Server Admin for Programmers](https://serversforhackers.com/). Teaching the server tech you need for development and production. Eliminating the frustration of server configuration.
 
-### Awesome news / Angular
+### Awesome news / Svelte
 
 *   [TED](https://www.ted.com/newsletter). Inspiration in your inbox by TED
 *   [KickStarter](https://www.kickstarter.com/newsletters). Projects We Love archive by KickStarter

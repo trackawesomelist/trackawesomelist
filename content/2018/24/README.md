@@ -17,14 +17,14 @@
 ### IDE
 
 *   [Aqua Data Studio](https://www.aquafold.com/aquadatastudio) - Aqua Data Studio is productivity software for Database Developers, DBAs, and Analysts.
-*   [HeidiSQL (⭐3.8k)](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MySQL, MSSQL and PostgreSQL, written in Delphi.
+*   [HeidiSQL (⭐4.1k)](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MySQL, MSSQL and PostgreSQL, written in Delphi.
 *   [Navicat](https://www.navicat.com/en/products#navicat) - A database development tool that allows you to simultaneously connect to MySQL, MariaDB, SQL Server, Oracle, PostgreSQL, and SQLite databases from a single application.
 *   [pgAdmin](https://www.pgadmin.org) - The most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world.
 
 ### GUI
 
-*   [Adminer (⭐5.6k)](https://github.com/vrana/adminer) - Database management in a single PHP file.
-*   [phpMyAdmin (⭐6.5k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB.
+*   [Adminer (⭐5.8k)](https://github.com/vrana/adminer) - Database management in a single PHP file.
+*   [phpMyAdmin (⭐6.8k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB.
 *   [Postico](https://eggerapps.at/postico) - A Modern PostgreSQL Client for the Mac.
 
 ### Monitoring/Statistics/Perfomance / Samples
@@ -49,7 +49,7 @@
 
 ### Suttas / Resources
 
-*   [Parallel Reading of the Dhammapada](http://myweb.ncku.edu.tw/\~lsn46/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-en/) - Read and compare multiple versions of the Dhammapada side-by-side.
+*   [Parallel Reading of the Dhammapada](http://myweb.ncku.edu.tw/~lsn46/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-en/) - Read and compare multiple versions of the Dhammapada side-by-side.
 
 ## [5. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
@@ -83,7 +83,7 @@
 
 ### UITableView / Barcode
 
-*   [QuickTableViewController (⭐536)](https://github.com/bcylin/QuickTableViewController) - A simple way to create a UITableView for settings.
+*   [QuickTableViewController (⭐547)](https://github.com/bcylin/QuickTableViewController) - A simple way to create a UITableView for settings.
 
 ## [10. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -134,7 +134,13 @@
 
 *   [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) – Machine learning jobs. Filter -> Remote only.
 
-## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [15. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Go / Phoenix
+
+*   [Go 101](https://go101.org/article/101.html) - [@TapirLiu](https://twitter.com/TapirLiu)
+
+## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Markdown Tools
 
@@ -186,7 +192,7 @@
 
 *   [Electron](http://electron.atom.io) - Build cross platform desktop application with JavaScript, HTML and CSS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/electron/electron)
 *   [nw.js](http://nwjs.io) - Build desktop application with HTML and JavaScript. It lets you call all `Node.js` modules directly from DOM and enables a new way of writing applications with all Web technologies. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/nwjs/nw.js)
-*   [React Native for Ubuntu (⭐955)](https://github.com/CanonicalLtd/react-native) - Build Ubuntu desktop apps using React Native. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/CanonicalLtd/react-native) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [React Native for Ubuntu (⭐953)](https://github.com/CanonicalLtd/react-native) - Build Ubuntu desktop apps using React Native. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/CanonicalLtd/react-native) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [React Native macOS (⭐11k)](https://github.com/ptmt/react-native-desktop) - Build OS X desktop apps using React Native and Cocoa. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/ptmt/react-native-desktop)
 
 ### Developer Tools / Version Control
@@ -203,7 +209,7 @@
 ### Developer Tools / Databases
 
 *   [Postico](https://eggerapps.at/postico/) - Modern PostgreSQL client for Mac.
-*   [RedisClient (⭐137)](https://github.com/UUGU/redis-client-app) - Redis client application on mac, windows and linux. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/UUGU/redis-client-app)
+*   [RedisClient (⭐138)](https://github.com/UUGU/redis-client-app) - Redis client application on mac, windows and linux. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/UUGU/redis-client-app)
 *   [Sequel Pro](http://www.sequelpro.com/) - MySQL database management for Mac OS X. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sequelpro/sequelpro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Design Tools
@@ -276,15 +282,11 @@
 
 *   [1Password](https://1password.com/) - Cross-platform password management tool.
 
-### Utilities / Quality of Life Improvements
-
-*   [CheatSheet](https://www.mediaatelier.com/CheatSheet/) -  Hold the ⌘-Key to get a list of all active shortcuts of the current application. It's as simple as that. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
 ### Utilities / System Related Tools
 
 *   [Amphetamine](https://itunes.apple.com/us/app/amphetamine/id937984704) - Override your energy saver settings and keep your Mac awake. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/us/app/amphetamine/id937984704)
 *   [AppCleaner](http://freemacsoft.net/appcleaner/) - Small application which allows you to thoroughly uninstall unwanted apps. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Cleaner for Xcode (⭐1.5k)](https://github.com/waylybaye/XcodeCleaner) - Helps make your Xcode faster by removing unwanted and deprecated files. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/waylybaye/XcodeCleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Cleaner for Xcode (⭐1.6k)](https://github.com/waylybaye/XcodeCleaner) - Helps make your Xcode faster by removing unwanted and deprecated files. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/waylybaye/XcodeCleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [gfxCardStatus](https://gfx.io/) - Unobtrusive menu bar app for OS X that allows MacBook Pro users to see which apps are affecting their battery life by using the more power-hungry graphics. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [iStat Menus](https://bjango.com/mac/istatmenus/) - Advanced Mac system monitor on the menubar.
 *   [Monity](http://www.monityapp.com/) - System monitoring widget for OS X.
@@ -303,15 +305,15 @@
 
 *   [MacUpdate Desktop](https://www.macupdate.com/) - Simplifies finding, buying and installing apps for your Mac.
 
-## [16. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [17. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Realtime / Ruby
 
-*   [GTFS-realtime documentation (⭐414)](https://github.com/google/transit/tree/master/gtfs-realtime). Also available in [Español (⭐414)](https://github.com/google/transit/tree/master/gtfs-realtime/spec/es).
+*   [GTFS-realtime documentation (⭐446)](https://github.com/google/transit/tree/master/gtfs-realtime). Also available in [Español (⭐446)](https://github.com/google/transit/tree/master/gtfs-realtime/spec/es).
 
-## [17. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [18. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
-### United States 🇺🇸 / California   <a id="california">  </a>
+### United States 🇺🇸 / California <a id="california"></a>
 
 #### Vinaka Cafe
 
@@ -322,13 +324,13 @@
 | ---- | ----- | ------------------------------------------------------------------------------------ | ---------- |
 | ✔    | ✔     | [300 Carlsbad Village Dr #211, Carlsbad, CA 92008](https://goo.gl/maps/x9ReUJVpnYD2) | 7AM - 10PM |
 
-## [18. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [19. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / StreamField
 
 *   [Wagtail FontAwesome](https://gitlab.com/alexgleason/wagtailfontawesome) - Add FontAwesome icons to StreamField.
 *   [UWKM Streamfields (⭐33)](https://github.com/UWKM/uwkm_streamfields) – A basic set of Wagtail StreamField blocks for fun and profit.
-*   [Wagtail Code Block (⭐124)](https://github.com/FlipperPA/wagtailcodeblock) - StreamField code blocks for the Wagtail CMS with real-time PrismJS Syntax Highlighting.
+*   [Wagtail Code Block (⭐134)](https://github.com/FlipperPA/wagtailcodeblock) - StreamField code blocks for the Wagtail CMS with real-time PrismJS Syntax Highlighting.
 
 ### Apps / Misc
 
@@ -338,22 +340,22 @@
 
 *   [BVSPCA (⭐8)](https://github.com/nfletton/bvspca) – Bow Valley SPCA website.
 
-## [19. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
+## [20. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
 ### Libraries
 
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [Guardian (⭐89)](https://github.com/Jinxiansen/Guardian) – Modern rate-limiting middleware.
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [WKHTMLTOPDF (⭐32)](https://github.com/MihaelIsaev/wkhtmltopdf) – Build PDF files from Leaf templates or web pages through the `wkhtmltopdf` CLI tool.
 
-## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [21. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Talkyard](https://www.talkyard.io/) - Create a community, where your users can suggest ideas and get questions answered. And have friendly open-ended discussions and chat (Slack/StackOverflow/Discourse/Reddit/Disqus hybrid). ([Demo](https://www.talkyard.io/forum/latest), [Source Code (⭐1.6k)](https://github.com/debiki/talkyard)) `AGPL-3.0` `Scala`
+*   [Talkyard](https://www.talkyard.io/) - Create a community, where your users can suggest ideas and get questions answered. And have friendly open-ended discussions and chat (Slack/StackOverflow/Discourse/Reddit/Disqus hybrid). ([Demo](https://www.talkyard.io/forum/latest), [Source Code (⭐1.6k)](https://github.com/debiki/talkyard)) `AGPL-3.0` `Docker/Scala`
 
 ### Software / Miscellaneous
 
-*   [CUPS](https://www.cups.org/) - The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. ([Source Code (⭐1.7k)](https://github.com/apple/cups)) `GPL-2.0` `C`
+*   [CUPS](https://www.cups.org/) - The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. ([Source Code (⭐753)](https://github.com/OpenPrinting/cups/commits/master)) `GPL-2.0` `C`
 
 ### Software / Office Suites
 
@@ -361,21 +363,21 @@
 
 ### Software / Software Development - Project Management
 
-*   [OpenProject](https://www.openproject.org) - OpenProject is a web-based project management system. ([Source Code (⭐6.9k)](https://github.com/opf/openproject)) `GPL-3.0` `Ruby`
+*   [OpenProject](https://www.openproject.org) - OpenProject is a web-based project management system. ([Source Code (⭐7.5k)](https://github.com/opf/openproject)) `GPL-3.0` `Ruby/deb/Docker`
 
-## [21. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [22. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Angular
 
 *   [A list of helpful Angular related questions you can use to interview potential candidates, test yourself or completely ignore (⭐1.1k)](https://github.com/Yonet/Angular-Interview-Questions)
 
-## [22. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [23. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Typing / Web
 
 *   [KeyPress OSD (⭐222)](https://github.com/marius-sucan/KeyPress-OSD) - On-Screen Display which displays every key or mouse button press at a clearly visible text size. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=225)
 
-## [23. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [24. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### ReactJS
 
@@ -405,7 +407,7 @@
 
 
 
-## [24. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [25. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts
 
@@ -416,17 +418,17 @@
 
 *   [potion (⭐183)](https://github.com/finnfiddle/potion) - Collection of React components for composing visualizations
 
-## [25. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [26. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Frameworks
 
-*   [.NET Boxed Framework (⭐664)](https://github.com/Dotnet-Boxed/Framework) - .NET Core Extensions and Helper NuGet packages
+*   [.NET Boxed Framework (⭐692)](https://github.com/Dotnet-Boxed/Framework) - .NET Core Extensions and Helper NuGet packages
 
 ### Application Templates
 
-*   [.NET Boxed Templates (⭐3.2k)](https://github.com/Dotnet-Boxed/Templates) - .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
+*   [.NET Boxed Templates (⭐3.3k)](https://github.com/Dotnet-Boxed/Templates) - .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
 
-## [26. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [27. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -434,22 +436,22 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-a11y-dialog (⭐93)](https://github.com/morkro/vue-a11y-dialog) - A Vue.js component wrapper for the accessible dialog [`a11y-dialog`](https://github.com/edenspiekermann/a11y-dialog).
+*   [vue-a11y-dialog (⭐95)](https://github.com/morkro/vue-a11y-dialog) - A Vue.js component wrapper for the accessible dialog [`a11y-dialog`](https://github.com/edenspiekermann/a11y-dialog).
 *   [vue-slideout-panel (⭐169)](https://github.com/officert/vue-slideout-panel) - Stackable panel component for VueJS
 
-## [27. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [28. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Canvas / Examples
 
 *   [Star Time Lapse Effect](https://fralonra.github.io/star-time-lapse/demo/) \[[show me the code (⭐6)](https://github.com/fralonra/star-time-lapse)] • An example about creating a star time-lapse sky using canvas.
 
-## [28. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [29. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / T companies
 
 *   Twilio <https://www.twilio.com/blog/>
 
-## [29. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [30. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### History
 
@@ -463,24 +465,24 @@
 
 
 
-## [30. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [31. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Filesystem
 
-*   [Whaler (⭐878)](https://github.com/P3GLEG/Whaler)\
+*   [Whaler (⭐961)](https://github.com/P3GLEG/Whaler)\
     Whaler is designed to reverse engineer a Docker Image into the Dockerfile that created it.
 
 ### Dashboard
 
-*   [Liman (⭐544)](https://github.com/salihciftci/liman)\
+*   [Liman (⭐554)](https://github.com/salihciftci/liman)\
     Basic docker monitoring web application.
 
 ### Security / Tools
 
-*   [docker-explorer (⭐455)](https://github.com/google/docker-explorer/)\
+*   [docker-explorer (⭐485)](https://github.com/google/docker-explorer/)\
     A tool to help forensicate offline docker acquisitions.
 
-## [31. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [32. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Machine Learning
 
@@ -489,7 +491,7 @@
         Topics covered include probability theory and Bayesian inference; univariate distributions; Central Limit Theorem; generation of random deviates; tail (p-value) tests; multiple hypothesis correction; empirical distributions; model fitting; error estimation; contingency tables; multivariate normal distributions; phylogenetic clustering; Gaussian mixture models; EM methods; maximum likelihood estimation; Markov Chain Monte Carlo; principal component analysis; dynamic programming; hidden Markov models; performance measures for classifiers; support vector machines; Wiener filtering; wavelets; multidimensional interpolation; information theory.
     *   [Lectures and Assignments](http://wpressutexas.net/forum/)
 
-## [32. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [33. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Talks
 
@@ -499,34 +501,28 @@
 
 *   [Superluminar](https://superluminar.io) - Agency.
 
-## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [34. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Image Processing
 
-*   [TinyEXIF (⭐88)](https://github.com/cdcseacave/TinyEXIF) - Tiny ISO-compliant C++ EXIF and XMP parsing library for JPEG. \[MIT]
+*   [TinyEXIF (⭐93)](https://github.com/cdcseacave/TinyEXIF) - Tiny ISO-compliant C++ EXIF and XMP parsing library for JPEG. \[MIT]
 
 ### Build Systems
 
 *   [Bazel](https://bazel.build) - A multi-language, fast and scalable build system from Google. \[Apache]
 
-## [34. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [35. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Tutorials / Articles / Automation
 
 *   [Getting Started with Gatsby and Cockpit — Part 1 of 2](https://blog.ginetta.net/getting-started-with-gatsby-and-cockpit-part-1-of-2-d86871932d44)
 *   [Creating Static E-commerce site with GatsbyJs](https://medium.com/@pinku1/creating-static-e-commerce-site-with-gatsbyjs-a349d7e022a)
 
-## [35. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [36. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Examples / Templates
 
 *   [cmake-cookbook (⭐1.9k)](https://github.com/dev-cafe/cmake-cookbook) - A huge CMake cookbook full of recipes. [`[MIT]`](https://opensource.org/licenses/MIT)
-
-## [36. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
-
-### Official Documentation Translations
-
-*   [Crystular](http://www.crystular.org) - Regular expression tester
 
 ## [37. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -546,97 +542,97 @@
 
 ### Demonstrations
 
-*   [Flutter Examples (⭐6.3k)](https://github.com/nisrulz/flutter-examples) <!--stargazers:nisrulz/flutter-examples--> - Simple basic isolated apps for devs by [Nishant Srivastava](https://github.com/nisrulz)
+*   [Flutter Examples (⭐6.5k)](https://github.com/nisrulz/flutter-examples) <!--stargazers:nisrulz/flutter-examples--> - Simple basic isolated apps for devs by [Nishant Srivastava](https://github.com/nisrulz)
 
 ### UI
 
-*   [StaggeredGridView (⭐2.7k)](https://github.com/letsar/flutter_staggered_grid_view) <!--stargazers:letsar/flutter_staggered_grid_view--> - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar)
-*   [Radial Menu (⭐432)](https://github.com/xqwzts/flutter_radial_menu) <!--stargazers:xqwzts/flutter_radial_menu--> - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts)
-*   [Tinder Cards (⭐724)](https://github.com/Ivaskuu/tinder_cards) <!--stargazers:Ivaskuu/tinder_cards--> - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu)
+*   [StaggeredGridView (⭐2.9k)](https://github.com/letsar/flutter_staggered_grid_view) <!--stargazers:letsar/flutter_staggered_grid_view--> - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar)
+*   [Radial Menu (⭐463)](https://github.com/xqwzts/flutter_radial_menu) <!--stargazers:xqwzts/flutter_radial_menu--> - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts)
+*   [Tinder Cards (⭐766)](https://github.com/Ivaskuu/tinder_cards) <!--stargazers:Ivaskuu/tinder_cards--> - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu)
 
 ### Image / Backend-Driven
 
-*   [Carousel Slider (⭐1.4k)](https://github.com/serenader2014/flutter_carousel_slider) <!--stargazers:serenader2014/flutter_carousel_slider--> - Carousel slider widget, support infinite scroll and custom child widget by [serenader](https://github.com/serenader2014)
-*   [Parallax Image (⭐272)](https://github.com/pulyaevskiy/parallax-image) <!--stargazers:pulyaevskiy/parallax-image--> - Image parallax by [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy)
-*   [Photo View (⭐1.7k)](https://github.com/renancaraujo/photo_view) <!--stargazers:renancaraujo/photo_view--> - Scalable image view with loading placeholder by [Renan C. Araújo](https://github.com/renancaraujo)
+*   [Carousel Slider (⭐1.5k)](https://github.com/serenader2014/flutter_carousel_slider) <!--stargazers:serenader2014/flutter_carousel_slider--> - Carousel slider widget, support infinite scroll and custom child widget by [serenader](https://github.com/serenader2014)
+*   [Parallax Image (⭐276)](https://github.com/pulyaevskiy/parallax-image) <!--stargazers:pulyaevskiy/parallax-image--> - Image parallax by [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy)
+*   [Photo View (⭐1.8k)](https://github.com/renancaraujo/photo_view) <!--stargazers:renancaraujo/photo_view--> - Scalable image view with loading placeholder by [Renan C. Araújo](https://github.com/renancaraujo)
 
 ### Map / Image Picker
 
-*   [Google Map View (⭐416)](https://github.com/apptreesoftware/flutter_google_map_view) <!--stargazers:apptreesoftware/flutter_google_map_view--> - Displaying google map plugin by [AppTree Software](https://www.linkedin.com/company/apptree-software/)
-*   [GeoCoder (⭐176)](https://github.com/aloisdeniel/flutter_geocoder) <!--stargazers:aloisdeniel/flutter_geocoder--> - Forward and reverse geocoding by [Aloïs Deniel](https://aloisdeniel.github.com)
-*   [Mapbox GL (⭐258)](https://github.com/mapbox/flutter-mapbox-gl) <!--stargazers:mapbox/flutter-mapbox-gl--> - Interactive, customizable vector maps by Mapbox
+*   [Google Map View (⭐414)](https://github.com/apptreesoftware/flutter_google_map_view) <!--stargazers:apptreesoftware/flutter_google_map_view--> - Displaying google map plugin by [AppTree Software](https://www.linkedin.com/company/apptree-software/)
+*   [GeoCoder (⭐180)](https://github.com/aloisdeniel/flutter_geocoder) <!--stargazers:aloisdeniel/flutter_geocoder--> - Forward and reverse geocoding by [Aloïs Deniel](https://aloisdeniel.github.com)
+*   [Mapbox GL (⭐264)](https://github.com/mapbox/flutter-mapbox-gl) <!--stargazers:mapbox/flutter-mapbox-gl--> - Interactive, customizable vector maps by Mapbox
 
 ### Charts / Image Picker
 
-*   [Circular Chart (⭐386)](https://github.com/xqwzts/flutter_circular_chart) <!--stargazers:xqwzts/flutter_circular_chart--> - Animated radial and pie charts by [Victor Choueiri](https://github.com/xqwzts)
-*   [Sparkline (⭐255)](https://github.com/xqwzts/flutter_sparkline) <!--stargazers:xqwzts/flutter_sparkline--> - Sparkline by [Victor Choueiri](https://github.com/xqwzts)
+*   [Circular Chart (⭐390)](https://github.com/xqwzts/flutter_circular_chart) <!--stargazers:xqwzts/flutter_circular_chart--> - Animated radial and pie charts by [Victor Choueiri](https://github.com/xqwzts)
+*   [Sparkline (⭐257)](https://github.com/xqwzts/flutter_sparkline) <!--stargazers:xqwzts/flutter_sparkline--> - Sparkline by [Victor Choueiri](https://github.com/xqwzts)
 *   [Charts (⭐2.8k)](https://github.com/google/charts) <!--stargazers:google/charts--> - By Google Charts Team
-*   [Candlesticks (⭐402)](https://github.com/trentpiercy/flutter-candlesticks) <!--stargazers:trentpiercy/flutter-candlesticks--> - OHLC and Trade Volume Charts by [Trent Piercy](https://github.com/trentpiercy)
-*   [FCharts (⭐323)](https://github.com/thekeenant/fcharts) <!--stargazers:thekeenant/fcharts--> - Beautiful, responsive, animated charts by [Keenan Thompson](https://keenant.com)
+*   [Candlesticks (⭐410)](https://github.com/trentpiercy/flutter-candlesticks) <!--stargazers:trentpiercy/flutter-candlesticks--> - OHLC and Trade Volume Charts by [Trent Piercy](https://github.com/trentpiercy)
+*   [FCharts (⭐325)](https://github.com/thekeenant/fcharts) <!--stargazers:thekeenant/fcharts--> - Beautiful, responsive, animated charts by [Keenan Thompson](https://keenant.com)
 
 ### Navigation / Image Picker
 
-*   [Fluro (⭐3.5k)](https://github.com/goposse/fluro) <!--stargazers:goposse/fluro--> - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com)
+*   [Fluro (⭐3.6k)](https://github.com/goposse/fluro) <!--stargazers:goposse/fluro--> - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com)
 
 ### Auth / Image Picker
 
 *   [Google Sign-In (⭐17k)](https://github.com/flutter/plugins/tree/master/packages/google_sign_in) - Google OAuth
-*   [Facebook Login (⭐404)](https://github.com/roughike/flutter_facebook_login) <!--stargazers:roughike/flutter_facebook_login--> - Authenticate with native Android & iOS Facebook login SDKs by [Iiro Krankka](https://github.com/roughike)
+*   [Facebook Login (⭐403)](https://github.com/roughike/flutter_facebook_login) <!--stargazers:roughike/flutter_facebook_login--> - Authenticate with native Android & iOS Facebook login SDKs by [Iiro Krankka](https://github.com/roughike)
 
 ### Analytics / Image Picker
 
-*   [Usage (⭐139)](https://github.com/dart-lang/usage) <!--stargazers:dart-lang/usage--> - Google Analytics wrapper for command-line, web, and Flutter apps
+*   [Usage (⭐140)](https://github.com/dart-lang/usage) <!--stargazers:dart-lang/usage--> - Google Analytics wrapper for command-line, web, and Flutter apps
 
 ### Styling / Image Picker
 
 *   [Flutterial (⭐1.7k)](https://github.com/rxlabz/flutterial) <!--stargazers:rxlabz/flutterial--> - Flutter Material Theme explorer by [Erick Ghaumez](https://twitter.com/rxlabz)
-*   [Pigment (⭐204)](https://github.com/bregydoc/pigment) <!--stargazers:bregydoc/pigment--> - Simple but useful package for use colors in flutter
+*   [Pigment (⭐209)](https://github.com/bregydoc/pigment) <!--stargazers:bregydoc/pigment--> - Simple but useful package for use colors in flutter
 
 ### Media / Audio
 
-*   [Audio Recorder (⭐171)](https://github.com/ZaraclaJ/audio_recorder) <!--stargazers:ZaraclaJ/audio_recorder--> - Record audio and store it locally by [Jordan Alcaraz](https://twitter.com/jordanalcrz)
+*   [Audio Recorder (⭐176)](https://github.com/ZaraclaJ/audio_recorder) <!--stargazers:ZaraclaJ/audio_recorder--> - Record audio and store it locally by [Jordan Alcaraz](https://twitter.com/jordanalcrz)
 
 ### Media / Video
 
-*   [WebRTC (⭐3.4k)](https://github.com/cloudwebrtc/flutter-webrtc) <!--stargazers:cloudwebrtc/flutter-webrtc--> - WebRTC plugin for iOS/Android by [CloudWebRtc](https://github.com/cloudwebrtc)
-*   [Chewie (⭐1.6k)](https://github.com/brianegan/chewie) <!--stargazers:brianegan/chewie--> - Provides low-level access to video playback by [Brian Egan](https://github.com/brianegan)
+*   [WebRTC (⭐3.6k)](https://github.com/cloudwebrtc/flutter-webrtc) <!--stargazers:cloudwebrtc/flutter-webrtc--> - WebRTC plugin for iOS/Android by [CloudWebRtc](https://github.com/cloudwebrtc)
+*   [Chewie (⭐1.7k)](https://github.com/brianegan/chewie) <!--stargazers:brianegan/chewie--> - Provides low-level access to video playback by [Brian Egan](https://github.com/brianegan)
 
 ### Media / Voice
 
-*   [Speech Recognition (⭐331)](https://github.com/rxlabz/speech_recognition) <!--stargazers:rxlabz/speech_recognition--> - Speech to text by [Erick Ghaumez](https://twitter.com/rxlabz)
+*   [Speech Recognition (⭐335)](https://github.com/rxlabz/speech_recognition) <!--stargazers:rxlabz/speech_recognition--> - Speech to text by [Erick Ghaumez](https://twitter.com/rxlabz)
 *   [OK Google](https://marcinszalek.pl/flutter/ok-google-flutter/) - Integrate google assistant by [Marcin Szalek](https://marcinszalek.pl/)
 
 ### Templates / Preferences
 
-*   [Movie Details (⭐399)](https://github.com/FlutterRocks/movie-details-ui) <!--stargazers:FlutterRocks/movie-details-ui--> - Movie details page by [Iiro Krankka](https://github.com/roughike)
-*   [Weather (⭐147)](https://github.com/alessandroaime/Weather) <!--stargazers:alessandroaime/Weather--> - Weather app to learn how to use Canvas and Animation by [Alessandro Aime](https://github.com/alessandroaime)
-*   [TodoMVC (⭐8.2k)](https://github.com/brianegan/flutter_architecture_samples) <!--stargazers:brianegan/flutter_architecture_samples--> - TODO application ready to go with different flavors : Vanilla, Redux, built\_redux by [Brian Egan](https://github.com/brianegan)
-*   [Restaurant Menu (⭐591)](https://github.com/braulio94/menu_flutter) <!--stargazers:braulio94/menu_flutter--> - Restaurant menu by [Braulio Cassule](https://github.com/braulio94)
+*   [Movie Details (⭐423)](https://github.com/FlutterRocks/movie-details-ui) <!--stargazers:FlutterRocks/movie-details-ui--> - Movie details page by [Iiro Krankka](https://github.com/roughike)
+*   [Weather (⭐150)](https://github.com/alessandroaime/Weather) <!--stargazers:alessandroaime/Weather--> - Weather app to learn how to use Canvas and Animation by [Alessandro Aime](https://github.com/alessandroaime)
+*   [TodoMVC (⭐8.5k)](https://github.com/brianegan/flutter_architecture_samples) <!--stargazers:brianegan/flutter_architecture_samples--> - TODO application ready to go with different flavors : Vanilla, Redux, built\_redux by [Brian Egan](https://github.com/brianegan)
+*   [Restaurant Menu (⭐608)](https://github.com/braulio94/menu_flutter) <!--stargazers:braulio94/menu_flutter--> - Restaurant menu by [Braulio Cassule](https://github.com/braulio94)
 *   [UI Challenges (⭐1.4k)](https://github.com/tomialagbe/flutter_ui_challenges) <!--stargazers:tomialagbe/flutter_ui_challenges--> - Profile, Travel, Food App by [Tomi Alagbe](https://github.com/tomialagbe)
-*   [Cupertino Settings (⭐233)](https://github.com/matthinc/flutter_cupertino_settings) <!--stargazers:matthinc/flutter_cupertino_settings--> - iOS Settings by [Matthias Rupp](https://github.com/matthinc)
-*   [Music Player (⭐215)](https://github.com/thosakwe/flutter_music_player) <!--stargazers:thosakwe/flutter_music_player--> - music player component by [Tobe O](https://thosakwe.com/)
-*   [Dashboard (⭐856)](https://github.com/Ivaskuu/dashboard) <!--stargazers:Ivaskuu/dashboard--> - Dashboard and Shop Items by [Ivascu Adrian](https://github.com/Ivaskuu)
-*   [Todo (⭐551)](https://github.com/littlemarc2011/FlutterTodo) <!--stargazers:littlemarc2011/FlutterTodo--> - Todo template from Dribble by [Marc L](https://www.marc-little.com/)
-*   [Card Swipe Animation (⭐516)](https://github.com/geekruchika/FlutterCardSwipe) <!--stargazers:geekruchika/FlutterCardSwipe--> - Swipe cards template by [Ruchika Gupta](https://github.com/geekruchika)
+*   [Cupertino Settings (⭐231)](https://github.com/matthinc/flutter_cupertino_settings) <!--stargazers:matthinc/flutter_cupertino_settings--> - iOS Settings by [Matthias Rupp](https://github.com/matthinc)
+*   [Music Player (⭐221)](https://github.com/thosakwe/flutter_music_player) <!--stargazers:thosakwe/flutter_music_player--> - music player component by [Tobe O](https://thosakwe.com/)
+*   [Dashboard (⭐886)](https://github.com/Ivaskuu/dashboard) <!--stargazers:Ivaskuu/dashboard--> - Dashboard and Shop Items by [Ivascu Adrian](https://github.com/Ivaskuu)
+*   [Todo (⭐569)](https://github.com/littlemarc2011/FlutterTodo) <!--stargazers:littlemarc2011/FlutterTodo--> - Todo template from Dribble by [Marc L](https://www.marc-little.com/)
+*   [Card Swipe Animation (⭐547)](https://github.com/geekruchika/FlutterCardSwipe) <!--stargazers:geekruchika/FlutterCardSwipe--> - Swipe cards template by [Ruchika Gupta](https://github.com/geekruchika)
 
 ### Device / Augmented Reality
 
-*   [Geolocation (⭐220)](https://github.com/loup-v/geolocation) <!--stargazers:loup-v/geolocation--> - Fully featured geolocation plugin: current location, location updates, geocode, places and more by [Loup](http://intheloup.io)
-*   [Local Notifications (⭐2.1k)](https://github.com/MaikuB/flutter_local_notifications) <!--stargazers:MaikuB/flutter_local_notifications--> - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB)
+*   [Geolocation (⭐225)](https://github.com/loup-v/geolocation) <!--stargazers:loup-v/geolocation--> - Fully featured geolocation plugin: current location, location updates, geocode, places and more by [Loup](http://intheloup.io)
+*   [Local Notifications (⭐2.2k)](https://github.com/MaikuB/flutter_local_notifications) <!--stargazers:MaikuB/flutter_local_notifications--> - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB)
 
 ### State management / Redux / ELM / Dependency Injection
 
-*   [Redux.dart (⭐504)](https://github.com/johnpryan/redux.dart) <!--stargazers:johnpryan/redux.dart--> - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by [John Ryan](https://github.com/johnpryan) and [Brian Egan](https://gitlab.com/users/brianegan/projects)
+*   [Redux.dart (⭐509)](https://github.com/johnpryan/redux.dart) <!--stargazers:johnpryan/redux.dart--> - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by [John Ryan](https://github.com/johnpryan) and [Brian Egan](https://gitlab.com/users/brianegan/projects)
 
 ### Top / Game Engine resources
 
-*   [Lime (⭐375)](https://github.com/fablue/lime-flutter) <!--stargazers:fablue/lime-flutter--> - Lime social network by Sebastian Sellmair
-*   [NewsBuzz (⭐544)](https://github.com/theankurkedia/NewsBuzz) <!--stargazers:theankurkedia/NewsBuzz--> - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia)
-*   [DroidKaigi2018-flutter (⭐515)](https://github.com/konifar/droidkaigi2018-flutter) <!--stargazers:konifar/droidkaigi2018-flutter--> - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar)
-*   [Music Player (⭐1.5k)](https://github.com/iampawan/Flutter-Music-Player) <!--stargazers:iampawan/Flutter-Music-Player--> - Full featured music player by [Pawan Kumar](https://about.me/imthepk)
-*   [FlutterGram (⭐2.1k)](https://github.com/mdanics/fluttergram) <!--stargazers:mdanics/fluttergram--> - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics)
-*   [Cinematic (⭐865)](https://github.com/aaronoe/FlutterCinematic) <!--stargazers:aaronoe/FlutterCinematic--> - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe)
-*   [Beer-Me-Up (⭐468)](https://github.com/benoitletondor/Beer-Me-Up) <!--stargazers:benoitletondor/Beer-Me-Up--> - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor)
+*   [Lime (⭐378)](https://github.com/fablue/lime-flutter) <!--stargazers:fablue/lime-flutter--> - Lime social network by Sebastian Sellmair
+*   [NewsBuzz (⭐575)](https://github.com/theankurkedia/NewsBuzz) <!--stargazers:theankurkedia/NewsBuzz--> - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia)
+*   [DroidKaigi2018-flutter (⭐513)](https://github.com/konifar/droidkaigi2018-flutter) <!--stargazers:konifar/droidkaigi2018-flutter--> - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar)
+*   [Music Player (⭐1.6k)](https://github.com/iampawan/Flutter-Music-Player) <!--stargazers:iampawan/Flutter-Music-Player--> - Full featured music player by [Pawan Kumar](https://about.me/imthepk)
+*   [FlutterGram (⭐2.2k)](https://github.com/mdanics/fluttergram) <!--stargazers:mdanics/fluttergram--> - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics)
+*   [Cinematic (⭐871)](https://github.com/aaronoe/FlutterCinematic) <!--stargazers:aaronoe/FlutterCinematic--> - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe)
+*   [Beer-Me-Up (⭐479)](https://github.com/benoitletondor/Beer-Me-Up) <!--stargazers:benoitletondor/Beer-Me-Up--> - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor)
 
 ## [38. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
@@ -679,24 +675,24 @@
 
 ### Frameworks, Libraries and Tools / Application Templates
 
-*   [.NET Boxed (⭐3.1k)](https://github.com/Dotnet-Boxed/Templates) - Project templates with batteries included, providing the minimum amount of code required to get you going. Includes ASP.NET Core API and GraphQL Templates.
+*   [.NET Boxed (⭐3.3k)](https://github.com/Dotnet-Boxed/Templates) - Project templates with batteries included, providing the minimum amount of code required to get you going. Includes ASP.NET Core API and GraphQL Templates.
 
 ### Frameworks, Libraries and Tools / Build Automation
 
-*   [LocalAppVeyor (⭐118)](https://github.com/joaope/LocalAppVeyor) - Run your AppVeyor builds, locally.
+*   [LocalAppVeyor (⭐122)](https://github.com/joaope/LocalAppVeyor) - Run your AppVeyor builds, locally.
 
 ### Frameworks, Libraries and Tools / Exceptions
 
-*   [Demystifier (⭐2.4k)](https://github.com/benaadams/Ben.Demystifier) - High performance understanding for stack traces (Make error logs more productive).
+*   [Demystifier (⭐2.6k)](https://github.com/benaadams/Ben.Demystifier) - High performance understanding for stack traces (Make error logs more productive).
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [MQTTnet (⭐3.1k)](https://github.com/chkr1011/MQTTnet) - MQTTnet is a high performance .NET library for MQTT based communication.
+*   [MQTTnet (⭐3.8k)](https://github.com/chkr1011/MQTTnet) - MQTTnet is a high performance .NET library for MQTT based communication.
 
 ### Frameworks, Libraries and Tools / Template Engine
 
-*   [Razor (⭐885)](https://github.com/aspnet/Razor) - Parser and code generator for CSHTML files used in view pages for MVC web apps.
-*   [RazorLight (⭐1.3k)](https://github.com/toddams/RazorLight) - Template engine based on Microsoft's Razor parsing engine for .NET Core.
+*   [Razor (⭐883)](https://github.com/aspnet/Razor) - Parser and code generator for CSHTML files used in view pages for MVC web apps.
+*   [RazorLight (⭐1.4k)](https://github.com/toddams/RazorLight) - Template engine based on Microsoft's Razor parsing engine for .NET Core.
 
 ### Books / Workflow
 

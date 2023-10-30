@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 14, 2023
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Integrations
 
-*   [playwright-bdd (⭐44)](https://github.com/vitalets/playwright-bdd) - BDD testing with Playwright runner and CucumberJS.
+*   [playwright-bdd (⭐52)](https://github.com/vitalets/playwright-bdd) - BDD testing with Playwright runner and CucumberJS.
 
 ## [2. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -28,31 +28,25 @@
 
 ### Code Generation / SRAM
 
-*   [micropython-stubs (⭐72)](https://github.com/Josverl/micropython-stubs) - Stubs of most MicroPython ports, boards and versions to make writing code that much simpler.
+*   [micropython-stubs (⭐80)](https://github.com/Josverl/micropython-stubs) - Stubs of most MicroPython ports, boards and versions to make writing code that much simpler.
 
 ### Shells / Jupyter
 
-*   [micropython-magic (⭐2)](https://github.com/josverl/micropython-magic) - MicroPython integrated into Jupyter notebooks.
+*   [micropython-magic (⭐7)](https://github.com/josverl/micropython-magic) - MicroPython integrated into Jupyter notebooks.
 
-## [3. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
-
-### Resources / Certifications
-
-*   [SAP Certified Development Associate - SAP Integration Suite](https://training.sap.com/certification/c_cpi_14) - Validates that the candidate possesses the fundamental and core knowledge required of the SAP Integration Suite profile.
-
-## [4. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
+## [3. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
 ### Geography
 
 *   [Top 5 most insane kanji place names in Japan](https://web.archive.org/web/20210310050932/https://soranews24.com/2016/12/01/w-t-f-japan-top-5-most-insane-kanji-place-names-in-japan%E3%80%90weird-top-five%E3%80%91/) - “There's one special group of kanji that's hard even for Japanese people to read: place names.”
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Email
 
-*   [Resend](https://resend.com) - Transactional emails API for developers. 3,000 emails/month, 100 emails/day free, 1 custom domain.
+*   [Resend](https://resend.com) - Transactional emails API for developers. 3,000 emails/month, 100 emails/day free, one custom domain.
 
-## [6. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+## [5. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Accounting / Software design and implementation
 
@@ -60,13 +54,13 @@
 
 ### Contracts / Currencies
 
-*   [Quantity discounts on a virtual good: The results of a massive pricing experiment](https://sci-hub.st/https://www.pnas.org/doi/pdf/10.1073/pnas.1510501113) - “Implementing price reductions ranging from 9–70% for large purchases, we found remarkably little impact on revenue, either positively or negatively.”
+*   [Quantity discounts on a virtual good: The results of a massive pricing experiment](https://sci-hub.st/https://www.pnas.org/doi/pdf/10.1073/pnas.1510501113) - “Implementing price reductions ranging from 9–70% for large purchases, we found remarkably little impact on revenue, either positively or negatively.” If discounts are a placebo and are still widely used in the industry, maybe they are a marketing hack to lure big customers?
 
 ### Payments / Receipt
 
 *   [The humble receipt gets a brilliant redesign](https://susielu.com/data-viz/reviziting-the-receipt) - When a Netflix data engineer revisit receipts.
 
-## [7. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [6. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Recruitment / Interview
 
@@ -92,9 +86,9 @@
 
 *   [Steve Jobs explains - Why companies fail?](https://www.youtube.com/watch?v=B-fAinNDbQU\&t=6s) - On how sales and marketing takes over product focused companies.
 
-## [8. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+## [7. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
-### Authentication / SAML
+### SAML / Macaroons
 
 *   [SAML vs. OAuth](https://web.archive.org/web/20230327071347/https://www.cloudflare.com/learning/access-management/what-is-oauth/) - “OAuth is a protocol for authorization: it ensures Bob goes to the right parking lot. In contrast, SAML is a protocol for authentication, or allowing Bob to get past the guardhouse.”
 
@@ -106,41 +100,42 @@
 
 *   [You (probably) don't need ReCAPTCHA](https://web.archive.org/web/20190611190134/https://kevv.net/you-probably-dont-need-recaptcha/) - Starts with a rant on how the service is a privacy nightmare and is tedious UI-wise, then list alternatives.
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Documentation
 
-*   [Doxide (⭐8)](https://github.com/lawmurray/doxide) - Modern documentation for modern C++, configure with YAML, output Markdown. \[Apache 2.0] [website](https://doxide.org)
+*   [Doxide (⭐18)](https://github.com/lawmurray/doxide) - Modern documentation for modern C++, configure with YAML, output Markdown. \[Apache 2.0] [website](https://doxide.org)
 
-## [10. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Reading
 
-*   [Elixir Code Smells (⭐1.2k)](https://github.com/lucasvegi/Elixir-Code-Smells) - A catalog of Elixir-specific code smells that can harm the quality of software developed using this language.
+*   [Elixir Code Smells (⭐1.3k)](https://github.com/lucasvegi/Elixir-Code-Smells) - A catalog of Elixir-specific code smells that can harm the quality of software developed using this language.
 
-## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Photo / Image
 
-*   [@frameright/react-image-display-control (⭐2)](https://github.com/Frameright/react-image-display-control) - Define zoom regions for smart responsive images.
+*   [@frameright/react-image-display-control (⭐10)](https://github.com/Frameright/react-image-display-control) - Define zoom regions for smart responsive images.
 
-## [12. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [11. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Books
 
-*   :books: [The Concise TypeScript Book (Free and Open Source) (⭐11)](https://github.com/gibbok/typescript-book) by Simone Poggiali
+*   :books: [The Concise TypeScript Book (Free and Open Source) (⭐7.4k)](https://github.com/gibbok/typescript-book) by Simone Poggiali
 
-## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [bashplus (⭐0)](https://github.com/Elagoht/BashPlusZshTheme) - Colorized replica of the default `bash` prompt with decorators for `virtualenv` and `git` status.
 *   [bouni (⭐0)](https://github.com/Bouni/bouni-zsh-theme) - Includes decorators for user\@host, current directory, active python virtualenv, and `git` status.
-*   [hex (⭐0)](https://github.com/hectorBrown/hex-zsh) - Heavily based on [bira (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#bira), and [gruvbox (⭐89)](https://github.com/sbugzu/gruvbox-zsh), which in turn is based on [agnoster](https://gist.github.com/agnoster/3712874). Includes decorators for current directory, `git` status information, active python virtualenv, exit status of the last command run. Requires a Powerline-compatible font.
-*   [hoffish (⭐0)](https://github.com/emilHof/hoffish-zsh-theme) - If the [agnoster (⭐3.7k)](https://github.com/agnoster/agnoster-zsh-theme) theme and [fish](https://fishshell.com/) shell had a ZSH theme for a child. Includes decorators for `git` status, trimmed path to current directory, root status, exit status of the last command run and the active python virtualenv. Requires a Powerline font and the [zsh-autosuggestions (⭐26k)](https://github.com/zsh-users/zsh-autosuggestions) and [shrink-path (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/shrink-path/shrink-path.plugin.zsh) plugins.
+*   [hex (⭐0)](https://github.com/hectorBrown/hex-zsh) - Heavily based on [bira (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#bira), and [gruvbox (⭐91)](https://github.com/sbugzu/gruvbox-zsh), which in turn is based on [agnoster](https://gist.github.com/agnoster/3712874). Includes decorators for current directory, `git` status information, active python virtualenv, exit status of the last command run. Requires a Powerline-compatible font.
+*   [hoffish (⭐0)](https://github.com/emilHof/hoffish-zsh-theme) - If the [agnoster (⭐3.8k)](https://github.com/agnoster/agnoster-zsh-theme) theme and [fish](https://fishshell.com/) shell had a ZSH theme for a child. Includes decorators for `git` status, trimmed path to current directory, root status, exit status of the last command run and the active python virtualenv. Requires a Powerline font and the [zsh-autosuggestions (⭐28k)](https://github.com/zsh-users/zsh-autosuggestions) and [shrink-path (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/shrink-path/shrink-path.plugin.zsh) plugins.
 *   [skgeek (⭐0)](https://github.com/skippyr/skgeek) - Includes decorators for hostname, directory and `git` branch.
-*   [thygod (⭐0)](https://github.com/Thy-GoD/thy-god-zsh-theme) - Based off [gnzh (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/gnzh.zsh-theme) and [bira (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme). Includes a `git` status decorator and changes prompt to a red cross when a command fails.
+*   [thygod (⭐0)](https://github.com/Thy-GoD/thy-god-zsh-theme) - Based off [gnzh (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/gnzh.zsh-theme) and [bira (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme). Includes a `git` status decorator and changes prompt to a red cross when a command fails.
 
 ---
 
+- Prev: [Jun 15, 2023](/content/2023/06/15/README.md)
 - Next: [Jun 13, 2023](/content/2023/06/13/README.md)

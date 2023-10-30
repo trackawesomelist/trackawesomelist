@@ -10,7 +10,7 @@
 
 ### Using Electron / Other
 
-*   [electron-stream (⭐123)](https://github.com/juliangruber/electron-stream) - Streaming wrapper.
+*   [electron-stream (⭐124)](https://github.com/juliangruber/electron-stream) - Streaming wrapper.
 
 ## [2. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -49,11 +49,11 @@
 
 ### Command-Line Productivity
 
-*   [sman (⭐277)](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
+*   [sman (⭐282)](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
 
 ### Shell Script Development / Directory Navigation
 
-*   [is.sh (⭐151)](https://github.com/qzb/is.sh) - An alternative for builtin test command, it will make your "if" statements pretty
+*   [is.sh (⭐155)](https://github.com/qzb/is.sh) - An alternative for builtin test command, it will make your "if" statements pretty
 
 ## [5. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -65,7 +65,7 @@
 
 ### RESTful API
 
-*   [yada (⭐731)](https://github.com/juxt/yada)
+*   [yada (⭐733)](https://github.com/juxt/yada)
 
 ### Dependency injection
 
@@ -86,13 +86,13 @@
 
 ### Traffic Analysis/Inspection
 
-*   [CapTipper (⭐677)](https://github.com/omriher/CapTipper): Malicious HTTP traffic explorer
-*   [Chopshop (⭐468)](https://github.com/MITRECND/chopshop): is a MITRE developed framework to aid analysts in the creation and execution of pynids based decoders and detectors of APT tradecraft.
-*   [yaraPcap (⭐85)](https://github.com/kevthehermit/YaraPcap): Process HTTP Pcaps With YARA
+*   [CapTipper (⭐688)](https://github.com/omriher/CapTipper): Malicious HTTP traffic explorer
+*   [Chopshop (⭐481)](https://github.com/MITRECND/chopshop): is a MITRE developed framework to aid analysts in the creation and execution of pynids based decoders and detectors of APT tradecraft.
+*   [yaraPcap (⭐93)](https://github.com/kevthehermit/YaraPcap): Process HTTP Pcaps With YARA
 
 ### File Extraction
 
-*   [scalpel (⭐523)](https://github.com/sleuthkit/scalpel): Scalpel is an open source data carving tool.
+*   [scalpel (⭐563)](https://github.com/sleuthkit/scalpel): Scalpel is an open source data carving tool.
 
 ## [9. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
@@ -105,7 +105,7 @@
 ### Bindings
 
 *   [dvulkan (⭐16)](https://github.com/ColonelThirtyTwo/dvulkan) - Auto-generated D bindings for Vulkan.
-*   [VulkanSharp (⭐498)](https://github.com/mono/VulkanSharp) - C# bindings for Vulkan. \[MIT]
+*   [VulkanSharp (⭐514)](https://github.com/mono/VulkanSharp) - C# bindings for Vulkan. \[MIT]
 *   [LWJGL](https://www.lwjgl.org/) - Lightweight Java Game Library 3 has Vulkan bindings. \[BSD]
 
 ## [11. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
@@ -132,35 +132,35 @@
 
 ### Reactive Programming / Runner
 
-*   [MobX (⭐26k)](https://github.com/mobxjs/mobx) - TFRP library for simple, scalable state management.
+*   [MobX (⭐27k)](https://github.com/mobxjs/mobx) - TFRP library for simple, scalable state management.
 
 ## [14. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Text
 
-*   [babelfish (⭐249)](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals.
+*   [babelfish (⭐251)](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals.
 
 ### Packages / Math
 
-*   [algebra (⭐104)](https://github.com/fibo/algebra) - Algebraic structures.
+*   [algebra (⭐105)](https://github.com/fibo/algebra) - Algebraic structures.
 
 ## [15. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authorization
 
-*   [AccessGranted (⭐767)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
+*   [AccessGranted (⭐769)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
 
 ### Caching
 
-*   [Readthis (⭐506)](https://github.com/sorentwo/readthis) - High performance, pooled, ActiveSupport compliant caching with Redis.
+*   [Readthis (⭐505)](https://github.com/sorentwo/readthis) - High performance, pooled, ActiveSupport compliant caching with Redis.
 
 ### CLI Builder
 
-*   [Clamp (⭐409)](https://github.com/mdub/clamp) - A command-line application framework.
+*   [Clamp (⭐417)](https://github.com/mdub/clamp) - A command-line application framework.
 
 ### Geolocation
 
-*   [rgeo (⭐977)](https://github.com/rgeo/rgeo) - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
+*   [rgeo (⭐982)](https://github.com/rgeo/rgeo) - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
 
 ### Git Tools
 
@@ -279,7 +279,7 @@
 
 ### Images / Gif Creation
 
-*   [givegif (⭐216)](https://github.com/passy/givegif) - GIFs on the command line.
+*   [givegif (⭐217)](https://github.com/passy/givegif) - GIFs on the command line.
 
 ## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -339,7 +339,7 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 
 ### Networking
 
-*   [Restbed (⭐1.8k)](https://github.com/corvusoft/restbed) - C++11 Asynchronous RESTful framework. \[AGPL]
+*   [Restbed (⭐1.9k)](https://github.com/corvusoft/restbed) - C++11 Asynchronous RESTful framework. \[AGPL]
 
 ## [28. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
@@ -385,8 +385,8 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 *   *[Introduction to Social Network Methods](http://faculty.ucr.edu/~hanneman/nettext/)* (using mostly UCINET), by Robert A. Hanneman and Mark Riddle - Full book online (2001).
 *   *Network Analysis with R/igraph*, by Gabor Csárdi, Thomas Nepusz and Eduardo M. Airoldi (in preparation).
 *   *Network Analysis with Python/igraph*, by Thomas Nepusz, Gabor Csárdi and Eduardo M. Airoldi (in preparation).
-*   *[Social Network Analysis for Startups. Finding Connections on the Social Web](http://shop.oreilly.com/product/0636920020424.do)* (using Python), by Maksim Tsvetovat and Alexander Kouznetsov ([code (⭐237)](https://github.com/maksim2042/SNABook); 2011).
-*   *[Statistical Analysis of Network Data with R](http://www.springer.com/us/book/9781493909827)*, by Eric D. Kolaczyk and Gabor Csárdi ([R package (⭐264)](https://github.com/kolaczyk/sand); 2014).
+*   *[Social Network Analysis for Startups. Finding Connections on the Social Web](http://shop.oreilly.com/product/0636920020424.do)* (using Python), by Maksim Tsvetovat and Alexander Kouznetsov ([code (⭐238)](https://github.com/maksim2042/SNABook); 2011).
+*   *[Statistical Analysis of Network Data with R](http://www.springer.com/us/book/9781493909827)*, by Eric D. Kolaczyk and Gabor Csárdi ([R package (⭐273)](https://github.com/kolaczyk/sand); 2014).
 
 ### Books / Topic-specific
 
@@ -416,7 +416,7 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 
 *   [Bayesian Network Repository](http://www.bnlearn.com/bnrepository/).
 *   [Enron Email Dataset](https://www.cs.cmu.edu/~enron/).
-*   [Gephi Datasets (⭐5.3k)](https://github.com/gephi/gephi/wiki/Datasets).
+*   [Gephi Datasets (⭐5.5k)](https://github.com/gephi/gephi/wiki/Datasets).
 *   [International Currencies 1890-1910](http://eh.net/database/international-currencies-1890-1910/) - Historical data on the international connections between 45 currencies.
 *   [Pajek Datasets](http://vlado.fmf.uni-lj.si/pub/networks/data/).
 *   [Siena Datasets](http://www.stats.ox.ac.uk/~snijders/siena/siena_datasets.htm).
@@ -489,7 +489,7 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 ### Software / JavaScript
 
 *   [jLouvain (⭐145)](https://github.com/upphiminn/jLouvain) - Louvain community detection for Javascript ([example](http://bl.ocks.org/emeeks/125db75c9b55ddcbdeb5)).
-*   [VivaGraphJS (⭐3.6k)](https://github.com/anvaka/VivaGraphJS) - Graph drawing library ([ForceAtlas2 plugin (⭐4)](https://github.com/graphcommons/viva.forceatlas2)).
+*   [VivaGraphJS (⭐3.6k)](https://github.com/anvaka/VivaGraphJS) - Graph drawing library ([ForceAtlas2 plugin (⭐3)](https://github.com/graphcommons/viva.forceatlas2)).
 *   [viz.js](https://mdaines.github.io/viz.js/) - Use Graphviz in Web pages.
 
 ### Software / MATLAB
@@ -499,7 +499,7 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 ### Software / Python
 
 *   [graphviz](https://pypi.python.org/pypi/graphviz) - Python renderer for the DOT graph drawing language.
-*   [linkpred (⭐133)](https://github.com/rafguns/linkpred) - Assess the likelihood of potential links in a future snapshot of a network.
+*   [linkpred (⭐136)](https://github.com/rafguns/linkpred) - Assess the likelihood of potential links in a future snapshot of a network.
 *   [python-igraph](http://igraph.org/python/) - Python version of the igraph network analysis package.
 
 ### Software / R
@@ -508,15 +508,11 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 *   [networkdiffusion (⭐7)](https://github.com/chengjun/networkdiffusion) - Simulate and visualize basic epidemic diffusion in networks.
 *   [Rgraphviz](https://bioconductor.org/packages/release/bioc/html/Rgraphviz.html) - Support for using the Graphviz library and its DOT graph drawing language from within R.
 *   [RSiena](http://r-forge.r-project.org/R/?group_id=461) - Simulation Investigation for Empirical Network Analysis; fits models to longitudinal network data.
-*   [visNetwork (⭐508)](https://github.com/DataKnowledge/visNetwork) - Using vis.js library for network visualization.
+*   [visNetwork (⭐516)](https://github.com/DataKnowledge/visNetwork) - Using vis.js library for network visualization.
 
 ### Software / Stata
 
 *   [SNA with Stata](http://www.rensecorten.org/index.php/category/sna-with-stata/) - Blog documenting the use of the netplot Stata package.
-
-### Software / Syntaxes
-
-*   [GEXF](https://gephi.org/gexf/format/) - File format used by the Gephi software.
 
 ### Varia / Tutorials
 
@@ -535,7 +531,7 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 
 ### Varia / Network Science
 
-*   [Social Network and Network Science Co-Citations Across Disciplines in 1996-2013 (⭐20)](https://github.com/raffaelevacca/EUSN-co-citation-networks).
+*   [Social Network and Network Science Co-Citations Across Disciplines in 1996-2013 (⭐21)](https://github.com/raffaelevacca/EUSN-co-citation-networks).
 *   [Three Hard Questions about Network Science](http://environmentalpolicy.ucdavis.edu/node/292).
 *   [What is Network Science?](http://journals.cambridge.org/repo_A88Sa8AHdt4SoI) - First editorial of the recent *Network Science* journal.
 
@@ -543,7 +539,7 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 
 ### Algorithms and Data structures
 
-*   [gen\_fsm (⭐38)](https://github.com/pavlos/gen_fsm) - A generic finite state-machine - Elixir wrapper around OTP's gen\_fsm.
+*   [gen\_fsm (⭐39)](https://github.com/pavlos/gen_fsm) - A generic finite state-machine - Elixir wrapper around OTP's gen\_fsm.
 
 ### Debugging
 

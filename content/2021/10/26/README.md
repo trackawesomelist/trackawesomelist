@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 26, 2021
 
-18 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,13 +10,13 @@
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [NMOF (⭐31)](https://github.com/enricoschumann/NMOF) - Functions, examples and data from the first and the second edition of "Numerical Methods and Optimization in Finance" by M. Gilli, D. Maringer and E. Schumann (2019, ISBN:978-0128150658).
+*   [NMOF (⭐32)](https://github.com/enricoschumann/NMOF) - Functions, examples and data from the first and the second edition of "Numerical Methods and Optimization in Finance" by M. Gilli, D. Maringer and E. Schumann (2019, ISBN:978-0128150658).
 
 ## [2. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### Additional Resources / Miscellaneous Tools
 
-*   [Portable Node.js guide (⭐1.3k)](https://github.com/ehmicky/portable-node-guide) - Practical guide on how to write portable/cross-platform Node.js code.
+*   [Portable Node.js guide (⭐1.4k)](https://github.com/ehmicky/portable-node-guide) - Practical guide on how to write portable/cross-platform Node.js code.
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -30,37 +30,56 @@
 
 *   [scapegoat](https://crates.io/crates/scapegoat): Safe, stack-only alternative to `BTreeSet` and `BTreeMap`. - [![crates.io](https://img.shields.io/crates/v/scapegoat.svg)](https://crates.io/crates/scapegoat)
 
-## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### C++ / Non-X86
+
+*   [Learning C++ eBook](https://riptutorial.com/Download/cplusplus.pdf) - Compiled from StackOverflow Documentation (PDF)
+
+### Go / Phoenix
+
+*   [Go Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/go-succinctly) - Mark Lewin (PDF, EPUB, Kindle)
+*   [Go Web Development Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/go-web-development) - Mark Lewin (PDF, EPUB, Kindle)
+
+### HTML and CSS / Spock Framework
+
+*   [How To Build a Website with HTML](https://www.digitalocean.com/community/books/how-to-build-a-website-with-html-ebook) - Erin Glass (PDF, EPUB)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Official NumPy Reference](https://numpy.org/doc/stable/numpy-ref.pdf) - The NumPy Community (PDF)
+
+## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Desktop / Game Engine resources
 
-*   [Awesome Flutter Desktop (⭐1k)](https://github.com/leanflutter/awesome-flutter-desktop) <!--stargazers:leanflutter/awesome-flutter-desktop--> - A curated list of awesome things related to Flutter desktop by [LeanFlutter](https://github.com/leanflutter)
+*   [Awesome Flutter Desktop (⭐1.3k)](https://github.com/leanflutter/awesome-flutter-desktop) <!--stargazers:leanflutter/awesome-flutter-desktop--> - A curated list of awesome things related to Flutter desktop by [LeanFlutter](https://github.com/leanflutter)
 
-## [6. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [7. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Elastic
 
 *   [Top Elastic Stack Interview Questions](https://logit.io/blog/post/the-top-50-elk-stack-and-elasticsearch-interview-questions)
 
-## [7. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
+## [8. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
 
 ### [Strange Days](https://www.imdb.com/title/tt0114558/) (1995) [7.2] / [Imago](https://www.goodreads.com/book/show/17609348-imago) (1989) [4.2]
 
 *   [@potherca](https://github.com/potherca)
 
-## [8. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [9. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Endpoint / Mobile / Android / iOS
 
-*   [reFlutter (⭐1k)](https://github.com/ptswarm/reFlutter) - Flutter Reverse Engineering Framework
+*   [reFlutter (⭐1.1k)](https://github.com/ptswarm/reFlutter) - Flutter Reverse Engineering Framework
 
-## [9. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+## [10. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
-### Authentication / Public-Key Infrastructure (PKI)
+### Password-less auth / Public-Key Infrastructure (PKI)
 
 *   [PKI for busy people](https://gist.github.com/hoffa/5a939fd0f3bcd2a6a0e4754cb2cf3f1b) - Quick overview of the important stuff.
 
-## [10. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
+## [11. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
 
 ### Blockchains for AI algorithms / Blockchain, AI and Machine Learning
 
@@ -72,24 +91,24 @@
 *   [Decentralized and Collaborative AI on Blockchain](https://doi.org/10.1109/Blockchain.2019.00057) - Harris, J. D., & Waggoner, B. (2019, July). Decentralized and collaborative AI on blockchain. In *2019 IEEE International Conference on Blockchain (Blockchain)* (pp. 368-375). IEEE.
 *   [Decentralized and Collaborative AI on Blockchain](https://doi.org/10.1007/978-3-030-59638-5_10) - Harris, J. D. (2020, September). Analysis of Models for Decentralized and Collaborative AI on Blockchain. In *International Conference on Blockchain* (pp. 142-153). Springer, Cham.
 
-## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [12. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### VSCode / Third-party APIs
 
-*   [alive (⭐147)](https://github.com/nobody-famous/alive) -  Common Lisp Extension for VSCode. Public domain.
+*   [alive (⭐175)](https://github.com/nobody-famous/alive) -  Common Lisp Extension for VSCode. Public domain.
     *   see the Cookbook: [using VSCode with Alive](https://lispcookbook.github.io/cl-cookbook/vscode-alive.html)
 
-## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [rmehri01/onenord.nvim (⭐379)](https://github.com/rmehri01/onenord.nvim) - A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
+*   [rmehri01/onenord.nvim (⭐420)](https://github.com/rmehri01/onenord.nvim) - A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
 
 ### Utility / Diagnostics
 
-*   [saifulapm/chartoggle.nvim (⭐28)](https://github.com/saifulapm/chartoggle.nvim) - Toggle any character at end of line.
+*   [saifulapm/chartoggle.nvim (⭐34)](https://github.com/saifulapm/chartoggle.nvim) - Toggle any character at end of line.
 
-## [13. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
+## [14. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 
 ### Build Tools
 
@@ -114,35 +133,35 @@
 *   [fansi (⭐207)](https://github.com/com-lihaoyi/fansi) - Library for creating [ANSI-coloured strings](https://en.wikipedia.org/wiki/ANSI_escape_code).
 *   [mainargs (⭐147)](https://github.com/com-lihaoyi/mainargs) - Small, dependency-free library for command line argument parsing in Scala.
 
-## [14. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [15. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / React
 
-*   [vital (⭐171)](https://github.com/jvidalv/vital) - React, TypeScript, Tailwind (JIT), CSS-Modules, Jest, Atomic Design, Prettier, Husky, Commit-lint.
+*   [vital (⭐208)](https://github.com/jvidalv/vital) - React, TypeScript, Tailwind (JIT), CSS-Modules, Jest, Atomic Design, Prettier, Husky, Commit-lint.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-sass-dts (⭐73)](https://github.com/activeguild/vite-plugin-sass-dts) - This is a plugin that automatically creates a type file when using the CSS module type-safely.
+*   [vite-plugin-sass-dts (⭐85)](https://github.com/activeguild/vite-plugin-sass-dts) - This is a plugin that automatically creates a type file when using the CSS module type-safely.
 
-## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [16. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
 *   [Vuejs Authentication Tutorial](https://www.loginradius.com/blog/async/implementing-authentication-on-vuejs-using-jwt/) on LoginRadius blog
 
-## [16. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
+## [17. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 
 ### Tools / Editors
 
 *   [Bangle.io](https://bangle.io/) - A Notion like note taking webapp where data is saved in Markdown format locally. ![Globe](https://img.icons8.com/color/24/globe.png "Globe")
 
-## [17. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [18. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Tutorials
 
 *   [Create your blog with SvelteKit](https://svelteland.github.io/svelte-kit-blog-demo/) - @zhuzilin (Github).
 
-## [18. Public Apis](/content/public-apis/public-apis/README.md)
+## [19. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Art & Design
 

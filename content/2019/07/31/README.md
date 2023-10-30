@@ -56,7 +56,7 @@
 
 ### Front-End Development
 
-*   [Blazor (⭐7.7k)](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+*   [Blazor (⭐8.1k)](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 
 ## [4. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 
@@ -189,8 +189,8 @@
 
 ### Text - Metadata/Text
 
-*   **BERT for Question answering** - Swift Core ML 3 implementation of BERT for Question answering [Download (⭐1.2k)](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/BERTSQUADFP16.mlmodel) | [Demo (⭐1.2k)](https://github.com/huggingface/swift-coreml-transformers#-bert) | [Reference (⭐73k)](https://github.com/huggingface/pytorch-transformers#run_squadpy-fine-tuning-on-squad-for-question-answering)
-*   **GPT-2** - OpenAI GPT-2 Text generation (Core ML 3) [Download (⭐1.2k)](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/gpt2-512.mlmodel) | [Demo (⭐1.2k)](https://github.com/huggingface/swift-coreml-transformers#-gpt-2) | [Reference (⭐73k)](https://github.com/huggingface/pytorch-transformers)
+*   **BERT for Question answering** - Swift Core ML 3 implementation of BERT for Question answering [Download (⭐1.5k)](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/BERTSQUADFP16.mlmodel) | [Demo (⭐1.5k)](https://github.com/huggingface/swift-coreml-transformers#-bert) | [Reference (⭐105k)](https://github.com/huggingface/pytorch-transformers#run_squadpy-fine-tuning-on-squad-for-question-answering)
+*   **GPT-2** - OpenAI GPT-2 Text generation (Core ML 3) [Download (⭐1.5k)](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/gpt2-512.mlmodel) | [Demo (⭐1.5k)](https://github.com/huggingface/swift-coreml-transformers#-gpt-2) | [Reference (⭐105k)](https://github.com/huggingface/pytorch-transformers)
 
 ## [6. Awesome Cloudflare](/content/irazasyed/awesome-cloudflare/README.md)
 

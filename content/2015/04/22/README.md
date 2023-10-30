@@ -16,20 +16,20 @@
 
 ### Packages / Mad science
 
-*   [webcat (⭐435)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
+*   [webcat (⭐437)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
 
 ### Packages / Command-line apps
 
-*   [wallpaper (⭐955)](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
+*   [wallpaper (⭐995)](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
 
 ### Packages / Text
 
-*   [camelcase (⭐623)](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
+*   [camelcase (⭐649)](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
 
 ### Resources / Miscellaneous
 
-*   [node-module-boilerplate (⭐713)](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
-*   [generator-nm (⭐737)](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
+*   [node-module-boilerplate (⭐714)](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
+*   [generator-nm (⭐742)](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
 
 ## [3. Awesome Open Company](/content/opencompany/awesome-open-company/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Assembly Manipulation
 
-*   [Mono.Cecil (⭐2.5k)](https://github.com/jbevain/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
+*   [Mono.Cecil (⭐2.6k)](https://github.com/jbevain/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
 
 ## [7. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
@@ -67,16 +67,16 @@
 
 ### Build Tools
 
-*   [active (⭐65)](https://github.com/synrc/active) - Recompilation and Reloading on FileSystem changes.
+*   [active (⭐66)](https://github.com/synrc/active) - Recompilation and Reloading on FileSystem changes.
 *   [mad (⭐172)](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
 
 ### CSV
 
-*   [csv (⭐459)](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
+*   [csv (⭐462)](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
 
 ### Debugging
 
-*   [eper (⭐436)](https://github.com/massemanet/eper) - Erlang performance and debugging tools.
+*   [eper (⭐437)](https://github.com/massemanet/eper) - Erlang performance and debugging tools.
 
 ### Files and Directories
 
@@ -84,15 +84,15 @@
 
 ### HTTP
 
-*   [mochiweb (⭐1.8k)](https://github.com/mochi/mochiweb) - MochiWeb is an Erlang library for building lightweight HTTP servers.
+*   [mochiweb (⭐1.9k)](https://github.com/mochi/mochiweb) - MochiWeb is an Erlang library for building lightweight HTTP servers.
 
 ### Miscellaneous
 
-*   [huex (⭐62)](https://github.com/xavier/huex) - Elixir client for Philips Hue connected light bulbs.
+*   [huex (⭐64)](https://github.com/xavier/huex) - Elixir client for Philips Hue connected light bulbs.
 
 ### Queue
 
-*   [mqs (⭐27)](https://github.com/synrc/mqs) - RabbitMQ client library, routing keys, RPC over MQ and other stuff.
+*   [mqs (⭐28)](https://github.com/synrc/mqs) - RabbitMQ client library, routing keys, RPC over MQ and other stuff.
 
 ### Testing
 
@@ -100,7 +100,7 @@
 
 ### Version Control
 
-*   [gitex (⭐61)](https://github.com/awetzel/gitex) - Elixir implementation of the Git object storage, but with the goal to implement the same semantic with other storage and topics.
+*   [gitex (⭐62)](https://github.com/awetzel/gitex) - Elixir implementation of the Git object storage, but with the goal to implement the same semantic with other storage and topics.
 
 ---
 

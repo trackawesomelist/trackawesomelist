@@ -10,7 +10,7 @@
 
 ### Software / Identity Management - Tools and web interfaces
 
-*   [Pomerium](https://www.pomerium.io/) - An identity and context aware access-proxy inspired by BeyondCorp.
+*   [Pomerium](https://www.pomerium.io/) - An identity and context aware access-proxy inspired by BeyondCorp. ([Source Code (⭐3.7k)](https://github.com/pomerium/pomerium)) `Apache-2.0` `Docker/Go`
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -150,13 +150,13 @@
 
 ### Miscellaneous
 
-*   [potemkin (⭐553)](https://github.com/ztellman/potemkin) - reexport vars in another ns / act like a clojure map
+*   [potemkin (⭐556)](https://github.com/ztellman/potemkin) - reexport vars in another ns / act like a clojure map
 
 ## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Command Line Tools
 
-*   [job (⭐127)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/liujianping/job) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [job (⭐132)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/liujianping/job) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [11. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

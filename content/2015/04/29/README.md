@@ -34,7 +34,7 @@
 
 ### XML
 
-*   [exml (⭐24)](https://github.com/expelledboy/exml) - Most simple Elixir wrapper for xmerl xpath.
+*   [exml (⭐25)](https://github.com/expelledboy/exml) - Most simple Elixir wrapper for xmerl xpath.
 
 ---
 

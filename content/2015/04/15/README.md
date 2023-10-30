@@ -34,11 +34,11 @@
 
 ### Examples and funny stuff
 
-*   [koans (⭐246)](https://github.com/dojo-toulouse/elixir-koans) - Learn Elixir by using elixir-koans.
+*   [koans (⭐248)](https://github.com/dojo-toulouse/elixir-koans) - Learn Elixir by using elixir-koans.
 
 ### Framework Components
 
-*   [plug\_response\_header (⭐11)](https://github.com/c-rack/plug_response_header) - easy manipulation of HTTP response headers.
+*   [plug\_response\_header (⭐12)](https://github.com/c-rack/plug_response_header) - easy manipulation of HTTP response headers.
 
 ---
 

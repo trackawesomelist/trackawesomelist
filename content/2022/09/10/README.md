@@ -16,7 +16,7 @@
 
 ### Uncategorized
 
-*   [Hime Display (⭐83)](https://github.com/TSKI433/hime-display) - Universal desktop model displayer for Live2D, Spine, MMD and VRoid. \[English/中文/日本語]
+*   [Hime Display (⭐148)](https://github.com/TSKI433/hime-display) - Universal desktop model displayer for Live2D, Spine, MMD and VRoid. \[English/中文/日本語]
 
 ## [3. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -28,9 +28,9 @@
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [pagerduty (⭐0)](https://github.com/jedelson-pagerduty/pagerduty-omz-plugin) - Adds completions for the pagerduty [cli (⭐71)](https://github.com/martindstone/pagerduty-cli)
+*   [pagerduty (⭐0)](https://github.com/jedelson-pagerduty/pagerduty-omz-plugin) - Adds completions for the pagerduty [cli (⭐85)](https://github.com/martindstone/pagerduty-cli)
 
 ## [5. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 

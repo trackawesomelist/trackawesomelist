@@ -8,9 +8,9 @@
 
 ## [1. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
-### Machine Learning / General Purpose Machine Learning
+### Graph Machine Learning / Others
 
-*   [Karate Club (⭐1.9k)](https://github.com/benedekrozemberczki/karateclub) - An unsupervised machine learning library for graph-structured data.
+*   [Karate Club (⭐2k)](https://github.com/benedekrozemberczki/karateclub) - An unsupervised machine learning library for graph-structured data.
 
 ## [2. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Software / Python
 
-*   [karateclub (⭐1.9k)](https://github.com/benedekrozemberczki/karateclub) - Python package for unsupervised learning on graph structured data with a scikit-learn like API.
+*   [karateclub (⭐2k)](https://github.com/benedekrozemberczki/karateclub) - Python package for unsupervised learning on graph structured data with a scikit-learn like API.
 
 ## [4. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
@@ -34,15 +34,15 @@
 
 ### User Interface toolkits
 
-*   [vgtk3 (⭐52)](https://github.com/vgtk/vgtk3) - A wrapper for GTK3 in V.
+*   [vgtk3 (⭐55)](https://github.com/vgtk/vgtk3) - A wrapper for GTK3 in V.
 
 ## [6. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [The dark side of expertise](https://lwn.net/Articles/809556/) - By Jake Edge.
 
-### Books / Screeb
+### Books / Obsidian
 
 *   [Creative Selection](http://creativeselection.io/) - By Ken Kocienda.
 

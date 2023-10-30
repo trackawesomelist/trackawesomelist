@@ -58,7 +58,7 @@
 
 ### Debugging
 
-*   [DoraemonKit (⭐19k)](https://github.com/didi/DoraemonKit) - A full-featured iOS App development assistant，30+ tools included. You deserve it.
+*   [DoraemonKit (⭐20k)](https://github.com/didi/DoraemonKit) - A full-featured iOS App development assistant，30+ tools included. You deserve it.
 
 ### Tools / Collection View Layout
 
@@ -72,13 +72,13 @@
 
 ### Environment Management
 
-*   [crenv (⭐234)](https://github.com/crenv/crenv) - Crystal version manager
+*   [crenv (⭐238)](https://github.com/crenv/crenv) - Crystal version manager
 
 ## [7. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Data Pipeline
 
-*   [RudderStack (⭐3.5k)](https://github.com/rudderlabs/rudder-server) \[Go] - an open source customer data infrastructure (segment, mparticle alternative).
+*   [RudderStack (⭐3.7k)](https://github.com/rudderlabs/rudder-server) \[Go] - an open source customer data infrastructure (segment, mparticle alternative).
 
 ## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

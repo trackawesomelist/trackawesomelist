@@ -14,16 +14,16 @@
 
 ## [2. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
-### Other / Machine translation
+### Apps / Translation software
 
-*   [Project Fluent](https://projectfluent.org) - A localization paradigm designed to unleash the entire expressive power of natural language translations.
+*   [Project Fluent](https://projectfluent.org) - Asymetric translations (eg. gender variations) for localization.
 
 ## [3. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Serial Communications
 
-*   [vserialport (⭐9)](https://github.com/erdetn/vserialport) - V wrapper for [libserialport](https://sigrok.org/wiki/Libserialport).
-*   [vserialx (⭐9)](https://github.com/erdetn/vserialx) - A tiny (wrapper) serial communication library for Linux written in V.
+*   [vserialport (⭐11)](https://github.com/erdetn/vserialport) - V wrapper for [libserialport](https://sigrok.org/wiki/Libserialport).
+*   [vserialx (⭐10)](https://github.com/erdetn/vserialx) - A tiny (wrapper) serial communication library for Linux written in V.
 
 ## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -35,11 +35,11 @@
 
 ### CMS
 
-*   [Sanity.io](https://www.sanity.io/) - Platform for structured content that comes with an open-source editing environment and a real-time hosted data store. Unlimited projects. Unlimited admin users, 3 non-admin users, 2 datasets, 500K API CDN requests, 10GB bandwidth, 5GB assets included for free per project.
+*   [Sanity.io](https://www.sanity.io/) - Platform for structured content with an open-source editing environment and a real-time hosted data store. Unlimited projects. Unlimited admin users, three non-admin users, two datasets, 500K API CDN requests, 10GB bandwidth, and 5GB assets included for free per project.
 
 ### Forms
 
-*   [formpost.app](https://formpost.app) - Free, unlimited Form to Email service. Setup custom redirect, auto response, webhooks etc for free.
+*   [formpost.app](https://formpost.app) - Free, unlimited Form to Email service. Set up custom redirects, auto-response, webhooks, etc. for free.
 
 ## [6. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
 
@@ -61,15 +61,15 @@
 
 ### Open Source / Casual
 
-*   [Spacescape (⭐74)](https://github.com/ufrshubham/spacescape) - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage](https://www.youtube.com/devkage "DevKage").
+*   [Spacescape (⭐84)](https://github.com/ufrshubham/spacescape) - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage](https://www.youtube.com/devkage "DevKage").
 
 ### Open Source / Endless Runner
 
-*   [Dino Run (⭐117)](https://github.com/ufrshubham/dino_run) - A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.dino_run). By [DevKage](https://www.youtube.com/devkage "DevKage").
+*   [Dino Run (⭐156)](https://github.com/ufrshubham/dino_run) - A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.dino_run). By [DevKage](https://www.youtube.com/devkage "DevKage").
 
 ### Open Source / Platformer
 
-*   [Simple Platformer (⭐25)](https://github.com/ufrshubham/flame_simple_platformer) - A 2D platformer made using Flame engine. By [DevKage](https://www.youtube.com/devkage "DevKage").
+*   [Simple Platformer (⭐30)](https://github.com/ufrshubham/flame_simple_platformer) - A 2D platformer made using Flame engine. By [DevKage](https://www.youtube.com/devkage "DevKage").
 
 ## [8. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
 
@@ -81,36 +81,36 @@
 
 ### Motion / Diagnostics
 
-*   [rlane/pounce.nvim (⭐278)](https://github.com/rlane/pounce.nvim) - An EasyMotion-like plugin for quick cursor movement using fuzzy search.
+*   [rlane/pounce.nvim (⭐303)](https://github.com/rlane/pounce.nvim) - An EasyMotion-like plugin for quick cursor movement using fuzzy search.
 
 ## [10. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### OCaml / Git
 
-*   [Digestif (⭐81)](https://github.com/mirage/digestif) - is a toolbox that implements various cryptographic primitives in C and OCaml.
-*   [ocaml-tls (⭐272)](https://github.com/mirleft/ocaml-tls) - TLS in pure OCaml.
+*   [Digestif (⭐83)](https://github.com/mirage/digestif) - is a toolbox that implements various cryptographic primitives in C and OCaml.
+*   [ocaml-tls (⭐281)](https://github.com/mirleft/ocaml-tls) - TLS in pure OCaml.
 
 ## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### UCLA / Commonsense Knowledgebase
 
 *   [Ying Nian Wu](http://www.stat.ucla.edu/~ywu/) - ***Department of Statistics, UCLA***.
-*   [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/) - ***UCLA***, [StarAI Lab](http://starai.cs.ucla.edu/#) - ***Department of Computer Science, UCLA***.
+*   [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/) - ***Department of Computer Science, UCLA***, [StarAI Lab](http://starai.cs.ucla.edu/#) - ***UCLA***.
 
 ## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Emulators
 
 *   CHIP-8
-    *   [ColinEberhardt/wasm-rust-chip8 (⭐248)](https://github.com/ColinEberhardt/wasm-rust-chip8) — A WebAssembly CHIP-8 emulator written with Rust
-    *   [starrhorne/chip8-rust (⭐113)](https://github.com/starrhorne/chip8-rust) — Yet another rust chip8 emulator
+    *   [ColinEberhardt/wasm-rust-chip8 (⭐251)](https://github.com/ColinEberhardt/wasm-rust-chip8) — A WebAssembly CHIP-8 emulator written with Rust
+    *   [starrhorne/chip8-rust (⭐124)](https://github.com/starrhorne/chip8-rust) — Yet another rust chip8 emulator
 
 ### Development tools / IDEs
 
 *   [Visual Studio Code](https://code.visualstudio.com/)
     *   [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) - TOML support in vscode
     *   [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) — A LLDB extension
-    *   [crates (⭐186)](https://github.com/serayuzgur/crates) — crates is an extension for crates.io dependencies. [![build badge](https://img.shields.io/vscode-marketplace/v/serayuzgur.crates.svg)](https://github.com/serayuzgur/crates)
+    *   [crates (⭐204)](https://github.com/serayuzgur/crates) — crates is an extension for crates.io dependencies. [![build badge](https://img.shields.io/vscode-marketplace/v/serayuzgur.crates.svg)](https://github.com/serayuzgur/crates)
     *   [Prettier - Code formatter (Rust)](https://marketplace.visualstudio.com/items?itemName=jinxdash.prettier-rust) — Opinionated Rust code formatter that autofixes bad syntax ([Prettier](https://prettier.io/) community plugin)
     *   [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) — An alternative rust language server to the RLS
     *   [rust-lang/rls-vscode](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) — Rust support for Visual Studio Code (supports both RLS and rust-analyzer)

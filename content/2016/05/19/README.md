@@ -38,7 +38,7 @@
 
 ### Online / Playground
 
-*   [TypeScript playground-on-ace (⭐87)](https://github.com/hi104/typescript-playground-on-ace) by @hi104 [updated to TypeScript 1.5 (⭐56)](https://github.com/basarat/TypeScriptEditor)
+*   [TypeScript playground-on-ace (⭐88)](https://github.com/hi104/typescript-playground-on-ace) by @hi104 [updated to TypeScript 1.5 (⭐56)](https://github.com/basarat/TypeScriptEditor)
 *   [TypeScript official Playground](http://www.typescriptlang.org/Playground/)
 *   [JS Bin](http://jsbin.com/?js) (Select TypeScript)
 *   [Codepen](http://codepen.io/) (Select TypeScript)
@@ -56,12 +56,12 @@
 
 ### Other Awesome Lists
 
-*   [open-source-ios-apps (⭐34k)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
+*   [open-source-ios-apps (⭐37k)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
 
 ### API
 
-*   [PXGoogleDirections (⭐268)](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper.
-*   [reddift (⭐238)](https://github.com/sonsongithub/reddift) - reddit API wrapper.
+*   [PXGoogleDirections (⭐267)](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper.
+*   [reddift (⭐241)](https://github.com/sonsongithub/reddift) - reddit API wrapper.
 
 ### Key Value Store
 
@@ -69,7 +69,7 @@
 
 ### Other Data
 
-*   [EVCloudKitDao (⭐637)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
+*   [EVCloudKitDao (⭐644)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
 
 ### Auto Layout / Barcode
 
@@ -81,7 +81,7 @@
 
 ### Menu / Barcode
 
-*   [MenuItemKit (⭐842)](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
+*   [MenuItemKit (⭐850)](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
 
 ## [6. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 
@@ -189,14 +189,14 @@
 
 ### Images
 
-*   [eikon (⭐11)](https://github.com/tchoutri/Eikon) - An Elixir library providing a read-only interface for image files.
+*   [eikon (⭐12)](https://github.com/tchoutri/Eikon) - An Elixir library providing a read-only interface for image files.
 
 ## [8. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Tools / Monitoring
 
 *   [check\_mongodb (⭐15)](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)
-*   [nagios-plugin-mongodb (⭐349)](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
+*   [nagios-plugin-mongodb (⭐348)](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
 
 ## [9. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

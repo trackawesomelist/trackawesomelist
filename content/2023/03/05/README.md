@@ -16,27 +16,27 @@
 
 ### PaaS
 
-*   [Doprax Cloud](https://www.doprax.com) — Cloud hosting for your Apps, Websites and APIs. Free for one app, with 4 \* 256MB ram and 2 GB of disk.
+*   [Doprax Cloud](https://www.doprax.com) — Cloud hosting for your Apps, Websites and APIs. Free for one app, with 4 \* 256MB RAM and 2 GB of disk. You must have at least $3 in your account credit balance to create an app space.
 
 ## [3. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Discord
 
-*   [kitten (⭐10)](https://github.com/geniushq/kitten) - Simple Discord API library for writing bots.
+*   [kitten (⭐12)](https://github.com/geniushq/kitten) - Simple Discord API library for writing bots.
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Internationalization
 
-*   [uni-algo (⭐170)](https://github.com/uni-algo/uni-algo) - Unicode Algorithms Implementation for C/C++. \[Unlicense or MIT]
+*   [uni-algo (⭐219)](https://github.com/uni-algo/uni-algo) - Unicode Algorithms Implementation for C/C++. \[Unlicense or MIT]
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Large Language Models / Contribute to Our Repository
+### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
 *   [More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models](https://arxiv.org/abs/2302.12173): paper on LLM Security
 
-### Inbox: Large Language Models / Text-related Generative Tools
+### Inbox: Large Language Models (LLMs) / Text-related Generative Tools
 
 *   [ChatPDF - Chat with any PDF!](https://www.chatpdf.com/): upload a PDF file and make questions about it #semanticsearch
 

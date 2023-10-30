@@ -36,7 +36,7 @@
 
 ### Modules / String
 
-*   [striptags (⭐469)](https://github.com/ericnorris/striptags) - An implementation of PHP's strip\_tags in Node.js.
+*   [striptags (⭐485)](https://github.com/ericnorris/striptags) - An implementation of PHP's strip\_tags in Node.js.
 
 ## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

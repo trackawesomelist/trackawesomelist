@@ -10,13 +10,13 @@
 
 ### Cryptography
 
-*   [mbedTLS (⭐4.2k)](https://github.com/ARMmbed/mbedtls) - An open source, portable, easy to use, readable and flexible SSL library, previously known as PolarSSL. \[Apache2] [website](https://tls.mbed.org/)
+*   [mbedTLS (⭐4.5k)](https://github.com/ARMmbed/mbedtls) - An open source, portable, easy to use, readable and flexible SSL library, previously known as PolarSSL. \[Apache2] [website](https://tls.mbed.org/)
 
 ## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UI / Barcode
 
-*   [HGCircularSlider (⭐2.4k)](https://github.com/HamzaGhazouani/HGCircularSlider) - A custom reusable circular slider control for iOS application.
+*   [HGCircularSlider (⭐2.5k)](https://github.com/HamzaGhazouani/HGCircularSlider) - A custom reusable circular slider control for iOS application.
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

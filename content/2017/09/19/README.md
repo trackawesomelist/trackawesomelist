@@ -10,17 +10,17 @@
 
 ### Python / Git
 
-*   [Privy (⭐234)](https://github.com/ofek/privy) - An easy, fast lib to correctly password-protect your data.
+*   [Privy (⭐238)](https://github.com/ofek/privy) - An easy, fast lib to correctly password-protect your data.
 
 ## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [RService.io (⭐53)](https://github.com/Stoom/RService.IO) - ASP.Net Core RESTful microservice framework that focusing on speed and ease of use.
+*   [RService.io (⭐52)](https://github.com/Stoom/RService.IO) - ASP.Net Core RESTful microservice framework that focusing on speed and ease of use.
 
 ### Frameworks, Libraries and Tools / Security
 
-*   [OwaspHeaders (⭐159)](https://github.com/GaProgMan/OwaspHeaders.Core) - .NET Core middleware for injecting the Owasp recommended HTTP Headers for increased security.
+*   [OwaspHeaders (⭐251)](https://github.com/GaProgMan/OwaspHeaders.Core) - .NET Core middleware for injecting the Owasp recommended HTTP Headers for increased security.
 
 ## [3. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
 

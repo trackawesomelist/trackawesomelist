@@ -33,7 +33,7 @@
 
 ### Tools / Dynamic Analysis Tools
 
-*   [Appie](https://manifestsecurity.com/appie/) - Appie is a software package that has been pre-configured to function as an Android Pentesting Environment. It is completely portable and can be carried on USB stick or smartphone. This is a one stop answer for all the tools needed in Android Application Security Assessment and an awesome alternative to existing virtual machines.
+*   [Appie](https://manifestsecurity.com/appie/) - Appie is a software package that has been pre-configured to function as an Android Pentesting Environment. It is completely portable and can be carried on a USB stick or smartphone. This is a one-stop answer for all the tools needed in Android Application Security Assessment and an awesome alternative to existing virtual machines.
 
 ### Exploits/Vulnerabilities/Bugs / Malware
 
@@ -45,9 +45,9 @@
 
 *   [ml5.js](https://ml5js.org) - Friendly Machine Learning for the Web.
 
-### Podcasts / Other
+### Misc / Other
 
-*   [You Don't Know JS (⭐167k)](https://github.com/getify/You-Dont-Know-JS) - Possibly the best book written on modern JavaScript, completely readable online for free, or can be bought to support the author.
+*   [You Don't Know JS (⭐171k)](https://github.com/getify/You-Dont-Know-JS) - Possibly the best book written on modern JavaScript, completely readable online for free, or can be bought to support the author.
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -113,16 +113,15 @@
 
 ## [13. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### CLI
+### CLI / Argument Parsing
 
-*   [ASCII Table (⭐426)](https://github.com/vdmeer/asciitable) - Library to draw tables in ASCII.
-*   [Airline (⭐849)](https://github.com/airlift/airline) - Annotation-based framework for parsing Git-like command-line arguments.
-*   [args4j](http://args4j.kohsuke.org) - Small library to parse command-line arguments.
-*   [Jansi (⭐970)](https://github.com/fusesource/jansi) - ANSI escape codes to format console output.
-*   [Java ASCII Render (⭐141)](https://github.com/indvd00m/java-ascii-render) - Graphical primitives for the console.
 *   [JCommander](http://jcommander.org) - Command-line argument-parsing framework with custom types and validation via implementing interfaces.
-*   [JLine (⭐1.2k)](https://github.com/jline/jline3) - Includes features from modern shells like completion or history.
-*   [Text-IO (⭐299)](https://github.com/beryx/text-io) - Aids the creation of full console-based applications.
+*   [JLine (⭐1.3k)](https://github.com/jline/jline3) - Includes features from modern shells like completion or history.
+
+### CLI / Text-Based User Interfaces
+
+*   [Jansi (⭐1k)](https://github.com/fusesource/jansi) - ANSI escape codes to format console output.
+*   [Text-IO (⭐315)](https://github.com/beryx/text-io) - Aids the creation of full console-based applications.
 
 ### Security / Other
 
@@ -130,7 +129,7 @@
 
 ### Utility / Mocking
 
-*   [bucket4j (⭐1.7k)](https://github.com/vladimir-bukhtoyarov/bucket4j) - Rate limiting library based on token-bucket algorithm.
+*   [bucket4j (⭐2k)](https://github.com/vladimir-bukhtoyarov/bucket4j) - Rate limiting library based on token-bucket algorithm.
 
 ## [14. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
 
@@ -152,11 +151,11 @@
 
 ### Monads
 
-*   [Fluokitten (⭐443)](https://github.com/uncomplicate/fluokitten)
+*   [Fluokitten (⭐445)](https://github.com/uncomplicate/fluokitten)
 
 ### Science and Data Analysis
 
-*   [Bayadera - Bayesian Data Analysis on the GPU (⭐355)](https://github.com/uncomplicate/bayadera)
+*   [Bayadera - Bayesian Data Analysis on the GPU (⭐356)](https://github.com/uncomplicate/bayadera)
 *   [ClojureCUDA (⭐168)](https://github.com/uncomplicate/clojurecuda)
 *   [Neanderthal - fast matrix and linear algebra (⭐1k)](https://github.com/uncomplicate/neanderthal)
 *   [ClojureCL - parallel computations with OpenCL (⭐276)](https://github.com/uncomplicate/clojurecl)
@@ -165,7 +164,7 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Bullseye (⭐677)](https://github.com/adamralph/bullseye/) - A .NET package for describing and running targets and their dependencies.
+*   [Bullseye (⭐780)](https://github.com/adamralph/bullseye/) - A .NET package for describing and running targets and their dependencies.
 
 ## [18. Public Apis](/content/public-apis/public-apis/README.md)
 

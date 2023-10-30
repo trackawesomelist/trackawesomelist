@@ -10,17 +10,18 @@
 
 ### Tools / Low-code
 
-*   [Langflow (⭐7.2k)](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)
-*   [Flowise - LangchainJS UI (⭐5.7k)](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)
-*   [Databerry (⭐1.5k)](https://github.com/gmpetrov/databerry): The no-code platform for semantic search and documents retrieval ![GitHub Repo stars](https://img.shields.io/github/stars/gmpetrov/databerry?style=social)
-*   [LangchainUI (⭐620)](https://github.com/homanp/langchain-ui): The open source chat-ai toolkit ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/langchain-ui?style=social)
-*   [Yeager.ai (⭐409)](https://github.com/yeagerai/yeagerai-agent): Yeager.ai Agent is the first Langchain Agent creator designed to help you build, prototype, and deploy AI-powered agents with ease ![GitHub Repo stars](https://img.shields.io/github/stars/yeagerai/yeagerai-agent?style=social)
+*   [Langflow (⭐13k)](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)
+
+### Unmaintained / Videos Playlists
+
+*   [LangchainUI (⭐812)](https://github.com/homanp/langchain-ui): The open source chat-ai toolkit ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/langchain-ui?style=social)
+*   [Yeager.ai (⭐549)](https://github.com/yeagerai/yeagerai-agent): Yeager.ai Agent is the first Langchain Agent creator designed to help you build, prototype, and deploy AI-powered agents with ease ![GitHub Repo stars](https://img.shields.io/github/stars/yeagerai/yeagerai-agent?style=social)
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [PromptLeo](https://promptleo.com/) - Prompt engineering platform for creators and developers. It offers prompt engineering library, prompt forms and prompt engineering API. Free plan provides 1 prompt form, 1 prompt API endpoint and 30 generations per month.
+*   [PromptLeo](https://promptleo.com/) - Prompt engineering platform for creators and developers. It offers a prompt engineering library, forms, and API. The free plan provides one prompt formation, one prompt API endpoint, and 30 generations per month.
 
 ## [3. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
@@ -48,11 +49,11 @@
 
 ### Contents / Entertainment
 
-*   [FlutterLeague (⭐10)](https://github.com/csuka1219/Flutter_League) -  Companion app for League of Legends players that allows them to search for summoners, view their stats and match history, and check currently ongoing games. by [csuka1219](https://github.com/csuka1219).
+*   [FlutterLeague (⭐13)](https://github.com/csuka1219/Flutter_League) -  Companion app for League of Legends players that allows them to search for summoners, view their stats and match history, and check currently ongoing games. by [csuka1219](https://github.com/csuka1219).
 
 ### Contents / Personalization
 
-*   [LifeList (⭐23)](https://github.com/Spyy004/LifeList) - Plan, Track, and Achieve Your Life Goals Effortlessly by [Ayush Pawar](https://github.com/Spyy004)
+*   [LifeList (⭐29)](https://github.com/Spyy004/LifeList) - Plan, Track, and Achieve Your Life Goals Effortlessly by [Ayush Pawar](https://github.com/Spyy004)
 
 ## [5. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
@@ -64,21 +65,21 @@
 
 ### Resources / Examples
 
-*   [Vitesse Starter (⭐7.4k)](https://github.com/antfu/vitesse) ⛺️ Vue 3 starter inclode ( Layouts | i18n | UnoCSS | pinia | Markdown | Dark Mode | PWA | SSG | Component Auto-Importing | File-Based Router | Composition API | TypeScript)
-*   [Vitesse-lite Starter (⭐833)](https://github.com/antfu/vitesse-lite) ⛺️ Lightweight version of Vitesse (Vue 3 Starter)
+*   [Vitesse Starter (⭐8.1k)](https://github.com/antfu/vitesse) ⛺️ Vue 3 starter inclode ( Layouts | i18n | UnoCSS | pinia | Markdown | Dark Mode | PWA | SSG | Component Auto-Importing | File-Based Router | Composition API | TypeScript)
+*   [Vitesse-lite Starter (⭐941)](https://github.com/antfu/vitesse-lite) ⛺️ Lightweight version of Vitesse (Vue 3 Starter)
 
 ## [7. Awesome React](/content/enaqx/awesome-react/README.md)
 
 ### React State Management and Data Fetching
 
-*   [redux (⭐59k)](https://github.com/reduxjs/redux) - Predictable State Container for JavaScript Apps
-*   [xstate (⭐24k)](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web
+*   [redux (⭐60k)](https://github.com/reduxjs/redux) - Predictable State Container for JavaScript Apps
+*   [xstate (⭐25k)](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web
 
 ## [8. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Tools and session management
 
-*   [disconnected (⭐4)](https://github.com/austinwilcox/disconnected) A session manager written in Deno with json as the config files
+*   [disconnected (⭐8)](https://github.com/austinwilcox/disconnected) A session manager written in Deno with json as the config files
 
 ## [9. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

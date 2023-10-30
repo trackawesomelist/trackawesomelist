@@ -10,8 +10,8 @@
 
 ### Template Engine
 
-*   [Nustache (⭐577)](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
-*   [DotLiquid (⭐972)](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
+*   [Nustache (⭐582)](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
+*   [DotLiquid (⭐994)](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
 
 ## [2. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
@@ -27,23 +27,23 @@
 
 ### DevOps Tools
 
-*   [SSHKey (⭐269)](https://github.com/bensie/sshkey) - SSH private and public key generator in pure Ruby (RSA & DSA).
+*   [SSHKey (⭐272)](https://github.com/bensie/sshkey) - SSH private and public key generator in pure Ruby (RSA & DSA).
 
 ## [4. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
 ### operations
 
 *   [geojson-extent](https://www.npmjs.com/package/geojson-extent): compute the bounding box of geojson features
-*   [geojson-rewind (⭐110)](https://github.com/mapbox/geojson-rewind): enforce ring winding order
+*   [geojson-rewind (⭐114)](https://github.com/mapbox/geojson-rewind): enforce ring winding order
 
 ### validation
 
-*   [geojsonhint (⭐251)](https://github.com/mapbox/geojsonhint): find errors in your geojson files
+*   [geojsonhint (⭐252)](https://github.com/mapbox/geojsonhint): find errors in your geojson files
 
 ### serialization
 
-*   [python-geojson (⭐792)](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
-*   [rust-geojson (⭐190)](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
+*   [python-geojson (⭐823)](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
+*   [rust-geojson (⭐208)](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
 
 ## [5. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
@@ -64,7 +64,6 @@
 
 ### Try Groovy in Browser
 
-*   [Groovy Web Console](http://groovyconsole.appspot.com/)
 *   [Groovy Playground](https://groovy-playground.appspot.com/)
 
 ## [7. Awesome R](/content/qinwf/awesome-R/README.md)

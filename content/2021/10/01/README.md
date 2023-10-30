@@ -10,13 +10,13 @@
 
 ### Tools
 
-*   💼 [clb (⭐119)](https://github.com/crswll/clb) - clb (class list builder) is a utility function that builds a class list based on a [Stitches](https://stitches.dev/) like API.
+*   💼 [clb (⭐140)](https://github.com/crswll/clb) - clb (class list builder) is a utility function that builds a class list based on a [Stitches](https://stitches.dev/) like API.
 
 ## [2. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Component bundles
 
-*   [Blazorise (⭐2.8k)](https://github.com/Megabit/Blazorise) - ![GitHub stars](https://img.shields.io/github/stars/Megabit/Blazorise?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Megabit/Blazorise?style=flat-square\&cacheSeconds=86400) Components for Blazor with support for Bootstrap, Bulma, AntDesign and Material CSS. ([Bootstrap Demo](https://bootstrapdemo.blazorise.com/)), ([Bulma Demo](https://bulmademo.blazorise.com/)), ([AntDesign Demo](https://antdesigndemo.blazorise.com/)), ([Material Demo](https://materialdemo.blazorise.com/)).
+*   [Blazorise (⭐3k)](https://github.com/Megabit/Blazorise) - ![GitHub stars](https://img.shields.io/github/stars/Megabit/Blazorise?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Megabit/Blazorise?style=flat-square\&cacheSeconds=86400) Components for Blazor with support for Bootstrap, Bulma, AntDesign and Material CSS. ([Bootstrap Demo](https://bootstrapdemo.blazorise.com/)), ([Bulma Demo](https://bulmademo.blazorise.com/)), ([AntDesign Demo](https://antdesigndemo.blazorise.com/)), ([Material Demo](https://materialdemo.blazorise.com/)).
 
 ## [3. Machine Learning Tutorials](/content/ujjwalkarn/Machine-Learning-Tutorials/README.md)
 
@@ -30,29 +30,41 @@
 
 *   [Lad (⭐2.2k)](https://github.com/ladjs/lad) - Framework made by a former Express TC and Koa member that bundles web, API, job, and proxy servers.
 
-## [5. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
+## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### Ruby / Flask
+### C# / Non-X86
 
-*   [Ruby on Rails ガイド](https://railsguides.jp) - Rails community, 八田 昌三(翻訳), 安川 要平(翻訳)
+*   [.NET Book Zero](http://www.charlespetzold.com/dotnet) - Charles Petzold (PDF, XPS)
+
+### JavaScript / Ember.js
+
+*   [yoember.com](https://yoember.com)
+
+### PostgreSQL / Zend
+
+*   [PostgreSQL Notes for Professionals](https://goalkicker.com/PostgreSQLBook/) - Compiled from StackOverflow documentation (PDF)
+
+### Scala / Sinatra
+
+*   [Scala Book](https://alvinalexander.com/scala/scala-book-free/) - Alvin Alexander (PDF, MOBI, HTML, EPUB)
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Monitoring
 
-*   [syagent.com](https://syagent.com/) — Non commercial free server monitoring service, alerts and metrics.
+*   [syagent.com](https://syagent.com/) — Noncommercial free server monitoring service, alerts and metrics.
 
 ## [7. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
 ### Tools
 
-*   [squest](https://hewlettpackard.github.io/squest/) - Self-service portal for Ansible Tower job templates.
+*   [squest](https://hewlettpackard.github.io/squest/) - Self-service portal for Automation Controller job templates.
 
 ## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
-*   [vitespa (⭐36)](https://github.com/ctholho/vitespa) - Vitesse-based SPA without SSG.
+*   [vitespa (⭐34)](https://github.com/ctholho/vitespa) - Vitesse-based SPA without SSG.
 
 ## [9. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -71,21 +83,21 @@
 
 ### Entertainment / Books
 
-*   [medium-cli (⭐683)](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories.
+*   [medium-cli (⭐691)](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories.
 
 ### Development / Books
 
-*   [gdb-dashboard (⭐9.4k)](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB.
-*   [iola (⭐120)](https://github.com/pvarentsov/iola) - Socket client with REST API.
+*   [gdb-dashboard (⭐9.6k)](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB.
+*   [iola (⭐127)](https://github.com/pvarentsov/iola) - Socket client with REST API.
 
 ### Productivity / Note Taking and Lists
 
-*   [nb (⭐5.4k)](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
+*   [nb (⭐5.7k)](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
 
 ### Utilities / Math
 
-*   [mdlt (⭐155)](https://github.com/metadelta/mdlt) - Do quick math right from the command line.
-*   [Qalculate (⭐1.3k)](https://github.com/Qalculate/libqalculate) - Calculate non-trival math expressions. Unit conversions, symbolic calculations and more.
+*   [mdlt (⭐160)](https://github.com/metadelta/mdlt) - Do quick math right from the command line.
+*   [Qalculate (⭐1.4k)](https://github.com/Qalculate/libqalculate) - Calculate non-trival math expressions. Unit conversions, symbolic calculations and more.
 
 ### Version Control / Git
 
@@ -93,21 +105,20 @@
 *   [git-stats (⭐6.2k)](https://github.com/IonicaBizau/git-stats) - A local GitHub-like contributions calendar.
 *   [tig (⭐12k)](https://github.com/jonas/tig) - Text-mode interface for git.
 *   [grv (⭐4k)](https://github.com/rgburke/grv) - Text-mode interface for git with customisable vi bindings.
-*   [gitlab-cli (⭐258)](https://github.com/vishwanatharondekar/gitlab-cli) - Create GitLab merge requests.
+*   [gitlab-cli (⭐260)](https://github.com/vishwanatharondekar/gitlab-cli) - Create GitLab merge requests.
 *   [git-extras (⭐16k)](https://github.com/tj/git-extras) - Git utilities.
-*   [gita (⭐1.3k)](https://github.com/nosarthur/gita) - Manage multiple git repos side by side.
-*   [readme-md-generator (⭐10k)](https://github.com/kefranabg/readme-md-generator) - Interactively generate README.md files.
+*   [gita (⭐1.5k)](https://github.com/nosarthur/gita) - Manage multiple git repos side by side.
+*   [readme-md-generator (⭐11k)](https://github.com/kefranabg/readme-md-generator) - Interactively generate README.md files.
 
 ### Version Control / GitHub
 
-*   [CLI GitHub (⭐423)](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
-*   [Gistup (⭐491)](https://github.com/mbostock/gistup) - Manage GitHub gists.
-*   [hub (⭐22k)](https://github.com/github/hub) - Make git easier to use with GitHub.
+*   [CLI GitHub (⭐427)](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
+*   [hub (⭐23k)](https://github.com/github/hub) - Make git easier to use with GitHub.
 *   [git-labelmaker (⭐564)](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels.
 
 ### Images / Emoji
 
-*   [SVGO (⭐19k)](https://github.com/svg/svgo) - Optimize SVG files.
+*   [SVGO (⭐20k)](https://github.com/svg/svgo) - Optimize SVG files.
 
 ### Images / Gif Creation
 
@@ -119,15 +130,15 @@
 
 ### Screensavers / Image Conversion
 
-*   [cmatrix (⭐3.2k)](https://github.com/Treri/cmatrix) - Scrolling 'Matrix'-like screen.
-*   [pipes.sh (⭐2k)](https://github.com/pipeseroni/pipes.sh) - Random pipes that grow across the screen.
-*   [YuleLog (⭐52)](https://github.com/Duroktar/YuleLog) - Christmas Yule Log fireplace.
-*   [cli-fireplace (⭐41)](https://github.com/dolsup/cli-fireplace) - Digital fireplace.
+*   [cmatrix (⭐3.4k)](https://github.com/Treri/cmatrix) - Scrolling 'Matrix'-like screen.
+*   [pipes.sh (⭐2.1k)](https://github.com/pipeseroni/pipes.sh) - Random pipes that grow across the screen.
+*   [YuleLog (⭐53)](https://github.com/Duroktar/YuleLog) - Christmas Yule Log fireplace.
+*   [cli-fireplace (⭐46)](https://github.com/dolsup/cli-fireplace) - Digital fireplace.
 
 ### Graphics / Image Conversion
 
-*   [cli-mandelbrot (⭐78)](https://github.com/danyshaanan/cli-mandelbrot) - Traverse the Mandelbrot fractal.
-*   [lowcharts (⭐132)](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs.
+*   [cli-mandelbrot (⭐80)](https://github.com/danyshaanan/cli-mandelbrot) - Traverse the Mandelbrot fractal.
+*   [lowcharts (⭐147)](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

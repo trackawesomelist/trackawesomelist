@@ -8,7 +8,7 @@
 
 ## [1. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
-### United States 🇺🇸 / California   <a id="california">  </a>
+### United States 🇺🇸 / California <a id="california"></a>
 
 #### Arbor Cafe
 
@@ -72,7 +72,7 @@ Free
 
 ### Frameworks, Libraries and Tools / Caching
 
-*   [CacheManager (⭐2.2k)](https://github.com/MichaCo/CacheManager) - Open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features. <http://cachemanager.michaco.net>
+*   [CacheManager (⭐2.3k)](https://github.com/MichaCo/CacheManager) - Open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features. <http://cachemanager.michaco.net>
 
 ## [7. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 

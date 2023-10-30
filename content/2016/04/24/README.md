@@ -101,7 +101,7 @@
 *   [Bill Cosponsorship Networks in European Parliaments (⭐14)](https://github.com/briatte/parlnet) - Legislative cosponsorship networks, in R format.
 *   [Eric D. Kolaczyk’s Network Datasets](http://math.bu.edu/people/kolaczyk/datasets.html).
 *   [Linton Freeman’s Network Data](http://moreno.ss.uci.edu/data.html) - Over 300 datasets of all sorts, in UCINET format.
-*   [Mangal](http://mangal.io/) - Online platform to analyze, archive and share ecological network data ([preprint](https://doi.org/10.1101/002634), [Python package (⭐2)](https://github.com/mangal-wg/pymangal), [R package (⭐11)](https://github.com/mangal-wg/rmangal)).
+*   [Mangal](http://mangal.io/) - Online platform to analyze, archive and share ecological network data ([preprint](https://doi.org/10.1101/002634), [Python package (⭐2)](https://github.com/mangal-wg/pymangal), [R package (⭐12)](https://github.com/mangal-wg/rmangal)).
 *   [Mark E.J. Newman’s Network Data](http://www-personal.umich.edu/~mejn/netdata/) ([example visualizations](http://www-personal.umich.edu/~mejn/networks/)).
 *   [tnet Datasets](https://toreopsahl.com/datasets/) - Weighted network data.
 

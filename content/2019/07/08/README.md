@@ -16,7 +16,7 @@
 
 ### IDE
 
-*   [dbKoda (⭐872)](https://github.com/SouthbankSoftware/dbkoda) - Modern (JavaScript/Electron framework), open source IDE for MongoDB. It has features to support development, administration and performance tuning on MongoDB databases.
+*   [dbKoda (⭐875)](https://github.com/SouthbankSoftware/dbkoda) - Modern (JavaScript/Electron framework), open source IDE for MongoDB. It has features to support development, administration and performance tuning on MongoDB databases.
 
 ### GUI
 
@@ -28,7 +28,7 @@
 
 ### HA/Failover/Sharding / Zabbix
 
-*   [Vitess (⭐16k)](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding.
+*   [Vitess (⭐17k)](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding.
 
 ### Reporting / Zabbix
 
@@ -70,7 +70,7 @@
 
 ### Software / Photo and Video Galleries
 
-*   [Lychee](https://lycheeorg.github.io/) - Open source grid and album based photo-management-system. ([Source Code (⭐2.6k)](https://github.com/LycheeOrg/Lychee)) `MIT` `PHP`
+*   [Lychee](https://lycheeorg.github.io/) - Open source grid and album based photo-management-system. ([Source Code (⭐2.8k)](https://github.com/LycheeOrg/Lychee)) `MIT` `PHP/Docker`
 
 ---
 

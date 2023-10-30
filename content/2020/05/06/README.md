@@ -14,26 +14,26 @@
 
 ### React Native Awesome Components
 
-*   [react-native-gifted-chat (⭐12k)](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native
+*   [react-native-gifted-chat (⭐13k)](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native
 
 ### React Native Libraries
 
-*   [realm-js (⭐5.2k)](https://github.com/realm/realm-js) - A mobile database: an alternative to SQLite & key-value stores
+*   [realm-js (⭐5.4k)](https://github.com/realm/realm-js) - A mobile database: an alternative to SQLite & key-value stores
 
 ## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### ORMs
 
-*   [cl-dbi (⭐185)](https://github.com/fukamachi/cl-dbi) - A database-independent interface for Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [cl-dbi (⭐188)](https://github.com/fukamachi/cl-dbi) - A database-independent interface for Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html).
     *   [dbd-oracle (⭐4)](https://github.com/sergadin/dbd-oracle) - an Oracle database driver for CL-DBI. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### CLOS extensions
 
-*   [fast-generic-functions (⭐84)](https://github.com/marcoheisig/fast-generic-functions) - Seal your generic functions for an extra boost in performance. [MIT](https://opensource.org/licenses/MIT).
+*   [fast-generic-functions (⭐86)](https://github.com/marcoheisig/fast-generic-functions) - Seal your generic functions for an extra boost in performance. [MIT](https://opensource.org/licenses/MIT).
 
 ### Macro helpers / Third-party APIs
 
-*   [trivial-with-current-source-from (⭐28)](https://github.com/scymtym/trivial-with-current-source-form/) - Helps macro writers produce better errors for macro users. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [trivial-with-current-source-from (⭐33)](https://github.com/scymtym/trivial-with-current-source-form/) - Helps macro writers produce better errors for macro users. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
 ## [3. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -57,7 +57,7 @@
 
 *   [a Python script](https://www.sharpgan.com/receive-email-from-solidot-ithome-linuxcn/) <sup>[565](https://t.me/s/aboutrss/565)</sup> ![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)
 
-### Entertainment / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Entertainment / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [KOTOMI RSS](https://moe4sale.in/) <sup>[18](https://t.me/s/aboutrss/18)</sup> : Anime RSS 索引站，将你的搜索结果订阅为 RSS 源 [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/greensea/rssindexer)
 *   [Comics RSS](https://www.comicsrss.com/) <sup>[566](https://t.me/s/aboutrss/566)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ArtskydJ/comicsrss.com)
@@ -70,7 +70,7 @@
 
 ### Utilities / Game Engine resources
 
-*   [Environment Configuration (⭐86)](https://github.com/TatsuUkraine/dart_environment_config) <!--stargazers:TatsuUkraine/dart_environment_config--> - CLI tool to generate `.env` configurations for application environments by [TatsuUkraine](https://github.com/TatsuUkraine)
+*   [Environment Configuration (⭐88)](https://github.com/TatsuUkraine/dart_environment_config) <!--stargazers:TatsuUkraine/dart_environment_config--> - CLI tool to generate `.env` configurations for application environments by [TatsuUkraine](https://github.com/TatsuUkraine)
 
 ## [5. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -111,7 +111,7 @@
 
 ### Alert / Barcode
 
-*   [PopupView (⭐2.2k)](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
+*   [PopupView (⭐2.7k)](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
 
 ## [9. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 

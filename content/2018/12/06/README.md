@@ -16,7 +16,7 @@
 
 ### Contents / High-Availability
 
-*   [pglookout (⭐159)](https://github.com/aiven/pglookout) - Replication monitoring and failover daemon.
+*   [pglookout (⭐169)](https://github.com/aiven/pglookout) - Replication monitoring and failover daemon.
 
 ### Contents / Backups
 
@@ -34,7 +34,7 @@
 
 ### Contents / Extensions
 
-*   [pg\_partman (⭐1.5k)](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL.
+*   [pg\_partman (⭐1.6k)](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL.
 *   [pgTAP](https://pgtap.org/) - Database testing framework for Postgres
 
 ### Contents / Optimization
@@ -43,8 +43,8 @@
 
 ### Contents / Utilities
 
-*   [PostgREST (⭐20k)](https://github.com/PostgREST/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database.
-*   [sqitch (⭐2.5k)](https://github.com/sqitchers/sqitch) - Tool for managing versioned schema deployment
+*   [PostgREST (⭐21k)](https://github.com/PostgREST/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database.
+*   [sqitch (⭐2.6k)](https://github.com/sqitchers/sqitch) - Tool for managing versioned schema deployment
 
 ### Contents / Language bindings
 
@@ -58,13 +58,13 @@
 
 ## [3. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Applications / MIT
+### Applications / Apache License
 
-*   [railway-simulation (⭐5)](https://github.com/AdaCore/SPARK_Railway_Simulation_Demo) - Program simulating a railway network with trains, switches and signaling. The signaling system is proven with SPARK/Ada to ensure that trains cannot collide.
+*   [railway-simulation (⭐4)](https://github.com/AdaCore/SPARK_Railway_Simulation_Demo) - Program simulating a railway network with trains, switches and signaling. The signaling system is proven with SPARK/Ada to ensure that trains cannot collide.
 
-### Bindings / MIT
+### Bindings / Apache License
 
-*   [svd2ada (⭐51)](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
+*   [svd2ada (⭐57)](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
 
 ## [4. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 

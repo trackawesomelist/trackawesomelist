@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 02, 2019
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -38,7 +38,7 @@
 
 ### Database Tools
 
-*   [Database Consistency (⭐812)](https://github.com/djezzzl/database_consistency) - An easy way to check that application constraints and database constraints are in sync.
+*   [Database Consistency (⭐906)](https://github.com/djezzzl/database_consistency) - An easy way to check that application constraints and database constraints are in sync.
 
 ## [6. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
@@ -47,18 +47,12 @@
 *   [sh-Ride-brush (⭐1)](https://github.com/msmolyakov/sh-Ride-brush) - SyntaxHighlighter brush for the Ride language.
 *   [Ride for Pygments (⭐1.1k)](https://github.com/pygments/pygments/blob/master/pygments/lexers/ride.py) - The [Pygments (⭐1.1k)](https://github.com/pygments/pygments) highlighter oficially supports the Ride out of the box.
 
-## [7. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
-
-### Services
-
-*   [Boom.FYI](https://www.boom.fyi) - An IPFS link shortening and access control service.
-
-## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Real-time / Real-time Operating System (RTOS)
 
 *   [Drone OS](https://drone-os.github.io) An Embedded Operating System for writing real-time applications in Rust.
-*   [FreeRTOS.rs (⭐217)](https://github.com/hashmismatch/freertos.rs) Rust interface for the FreeRTOS API
+*   [FreeRTOS.rs (⭐223)](https://github.com/hashmismatch/freertos.rs) Rust interface for the FreeRTOS API
 *   [Tock](https://www.tockos.org) An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers
 
 ### Peripheral Access Crates / XMC
@@ -75,19 +69,19 @@
 
 *   [`xmc4-hal`](https://github.com/xmc-rs/xmc4-hal) - ![crates.io](https://img.shields.io/crates/v/xmc4-hal.svg)
 
-## [9. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [8. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Service Level Agreement
 
 *   [The Art of SLOs Workshop Materials](https://cre.page.link/art-of-slos)
 
-## [10. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Unofficial
 
 *   [Crystal Programming Discord Server](https://discord.gg/YS7YvQy) - Unofficial Discord server dedicated to the Crystal Programming Language
 
-## [11. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [10. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Libraries
 

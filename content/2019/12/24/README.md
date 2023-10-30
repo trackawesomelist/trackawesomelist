@@ -10,7 +10,7 @@
 
 ### Tools
 
-*   [formik-antd (⭐563)](https://github.com/jannikbuschke/formik-antd) - Declarative bindings for the popular form state management library Formik.
+*   [formik-antd (⭐566)](https://github.com/jannikbuschke/formik-antd) - Declarative bindings for the popular form state management library Formik.
 
 ## [2. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Tools
 
-*   [renderdoc (⭐7.2k)](https://github.com/baldurk/renderdoc) - by baldurk, a stand-alone graphics debugging tool. \[MIT]
+*   [renderdoc (⭐7.7k)](https://github.com/baldurk/renderdoc) - by baldurk, a stand-alone graphics debugging tool. \[MIT]
     *   [RDCtoVkCpp (⭐22)](https://github.com/azhirnov/RDCtoVkCpp) - converts RenderDoc Vulkan capture to compilable and executable C++ code. \[MIT]
 
 ---

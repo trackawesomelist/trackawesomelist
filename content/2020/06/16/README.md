@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 16, 2020
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,14 +10,14 @@
 
 ### Packages / Frameworks
 
-*   [Omnitone (⭐797)](https://github.com/GoogleChrome/omnitone) - Ambisonic spatial audio on the web.
-*   [Mach1Spatial (⭐45)](https://github.com/Mach1Studios/m1-sdk) - Vector based panning spatial audio on the web.
+*   [Omnitone (⭐815)](https://github.com/GoogleChrome/omnitone) - Ambisonic spatial audio on the web.
+*   [Mach1Spatial (⭐49)](https://github.com/Mach1Studios/m1-sdk) - Vector based panning spatial audio on the web.
 
 ## [2. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Component Libraries
 
-*   [XWeather (⭐5)](https://github.com/kherrick/x-weather) - Collection of web components implementing portions of the OpenWeatherMap API.
+*   [XWeather (⭐6)](https://github.com/kherrick/x-weather) - Collection of web components implementing portions of the OpenWeatherMap API.
 
 ## [3. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/README.md)
 
@@ -25,47 +25,41 @@
 
 *   [How to develop an Alexa Skill](https://www.pluralsight.com/guides/alexa-run-this-javascript-app) - Tutorial on creating an Alexa Skill.
 
-## [4. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
-
-### Engineering / Technical Debt
-
-*   [The Framing of the Developer](https://www.svese.de/impact-vs-backlog-frame-in-software-development) - Default framing is around the backlog, which leads to an asymmetry in which failure is blamed on lacks of developer performance, and success is celebrated as the full realization of the PM's vision. But “technology is the bank that gave credit”, and technical debt should be called product debt “because product took the credit to get a feature faster and must pay back by investing the time to clean up.” The alternative? “Companies today need a frame of impact. In this world-view success is defined by impact.”
-
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Other Awesome Lists
 
-*   [open-source-mac-os-apps (⭐35k)](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
+*   [open-source-mac-os-apps (⭐37k)](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
 
 ### AI
 
-*   [DL4S (⭐91)](https://github.com/palle-k/DL4S) - Automatic differentiation, fast tensor operations and dynamic neural networks from CNNs and RNNs to transformers.
+*   [DL4S (⭐95)](https://github.com/palle-k/DL4S) - Automatic differentiation, fast tensor operations and dynamic neural networks from CNNs and RNNs to transformers.
 
-## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Cryptocurrencies
 
-*   [tendermint-rs (⭐506)](https://github.com/informalsystems/tendermint-rs) - Rust implementation of Tendermint blockchain data structures and clients
+*   [tendermint-rs (⭐534)](https://github.com/informalsystems/tendermint-rs) - Rust implementation of Tendermint blockchain data structures and clients
 
-## [7. Awesome Python](/content/vinta/awesome-python/README.md)
+## [6. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### GUI Development
 
-*   [pyglet (⭐1.4k)](https://github.com/pyglet/pyglet) - A cross-platform windowing and multimedia library for Python.
+*   [pyglet (⭐1.5k)](https://github.com/pyglet/pyglet) - A cross-platform windowing and multimedia library for Python.
 
-## [8. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [7. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### Other multimodal data formats / Ruby
 
-*   [OMX: The Open Matrix data file format (⭐42)](https://github.com/osPlanning/omx) - A structured collection of two-dimensional array objects and associated metadata, for possible use in the transportation modeling industry.
+*   [OMX: The Open Matrix data file format (⭐43)](https://github.com/osPlanning/omx) - A structured collection of two-dimensional array objects and associated metadata, for possible use in the transportation modeling industry.
 
-## [9. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [8. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Monitoring
 
 *   [Bloonix](https://bloonix-monitoring.org/) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. ([Source Code](https://github.com/bloonix)) `GPL-3.0` `Perl`
 
-## [10. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
+## [9. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Papers and Articles
 
@@ -81,7 +75,7 @@
 *   [2017: Survey of the State of the Art in NaturalLanguage Generation: Core tasks, applicationsand evaluation](https://arxiv.org/pdf/1703.09902.pdf)
 *   [2016: Natural Language Generation enhances human decision-making with uncertain information](https://arxiv.org/pdf/1606.03254.pdf)
 
-## [11. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
+## [10. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
 
 ### Navigation libraries / Official resources
 
@@ -90,11 +84,11 @@
 *   [react-key-navigation (⭐70)](https://github.com/dead/react-key-navigation) - Spatial Navigation components for React. Similar to the ["Focus Management"](http://bbc.github.io/tal/widgets/focus-management.html) of the [BBC TAL](https://bbc.github.io/tal/).
 *   [react-spatial-navigation (⭐219)](https://github.com/NoriginMedia/react-spatial-navigation) - HOC-based Spatial Navigation (key navigation) solution for React.
 
-## [12. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
+## [11. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
 ### Softwares / Utilities
 
-*   [Amidst (⭐2k)](https://github.com/toolbox4minecraft/amidst) - Display an overview of a Minecraft world, without actually creating it.
+*   [Amidst (⭐2.1k)](https://github.com/toolbox4minecraft/amidst) - Display an overview of a Minecraft world, without actually creating it.
 
 ---
 

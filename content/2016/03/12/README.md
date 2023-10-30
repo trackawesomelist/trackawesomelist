@@ -14,14 +14,14 @@
 
 ### Libraries / Data Structures
 
-*   [immutable-sequence.js (⭐16)](https://github.com/qiao/immutable-sequence.js) –  High performance implementation of Immutable Sequence in JavaScript, based on [Finger Trees (⭐44)](https://github.com/qiao/fingertree.js).
+*   [immutable-sequence.js (⭐16)](https://github.com/qiao/immutable-sequence.js) –  High performance implementation of Immutable Sequence in JavaScript, based on [Finger Trees (⭐45)](https://github.com/qiao/fingertree.js).
 *   [Timm](http://guigrpa.github.io/timm/) – Immutability helpers with fast reads and acceptable writes.
 *   [Lazy.js (⭐6k)](https://github.com/dtao/lazy.js) – A utility library with a lazy engine under the hood that strives to do as little work as possible while being as flexible as possible.
 
 ### Libraries / Algebraic Data Types
 
-*   [union-type (⭐476)](https://github.com/paldepind/union-type) – A small JavaScript library for defining and using union types.
-*   [freeky (⭐172)](https://github.com/DrBoolean/freeky) – A collection of Free monads.
+*   [union-type (⭐477)](https://github.com/paldepind/union-type) – A small JavaScript library for defining and using union types.
+*   [freeky (⭐174)](https://github.com/DrBoolean/freeky) – A collection of Free monads.
 
 ### Resources / Articles
 

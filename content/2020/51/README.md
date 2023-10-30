@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 21 - Dec 27, 2020
 
-67 awesome lists updated this week.
+68 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,20 +10,20 @@
 
 ### Integrations
 
-*   [Apple Social Identity Provider for Keycloak (⭐100)](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider)
+*   [Apple Social Identity Provider for Keycloak (⭐104)](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider)
 
 ## [2. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Community / NumPyro
 
-*   [JAX GitHub Discussions (⭐22k)](https://github.com/google/jax/discussions)
+*   [JAX GitHub Discussions (⭐25k)](https://github.com/google/jax/discussions)
 *   [Reddit](https://www.reddit.com/r/JAX/)
 
 ## [3. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Testing / Misc
 
-*   [dmg-acid2 (⭐108)](https://github.com/mattcurrie/dmg-acid2) and [cgb-acid2 (⭐60)](https://github.com/mattcurrie/cgb-acid2) - Basic PPU rendering tests.
+*   [dmg-acid2 (⭐115)](https://github.com/mattcurrie/dmg-acid2) and [cgb-acid2 (⭐67)](https://github.com/mattcurrie/cgb-acid2) - Basic PPU rendering tests.
 
 ## [4. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
@@ -53,10 +53,10 @@
 
 ### Reading
 
-*   [scriptable-news-Widget.js (⭐99)](https://github.com/Saudumm/scriptable-News-Widget) - The latest posts from a feed or a WordPress blog.
+*   [scriptable-news-Widget.js (⭐108)](https://github.com/Saudumm/scriptable-News-Widget) - The latest posts from a feed or a WordPress blog.
 
     <img src="https://raw.githubusercontent.com/Saudumm/scriptable-News-Widget/main/images/widgets.jpg" width="800"/>
-*   [sonntagsfrage (⭐23)](https://github.com/henningtillmann/sonntagsfrage) - The latest German political poll results.
+*   [sonntagsfrage (⭐25)](https://github.com/henningtillmann/sonntagsfrage) - The latest German political poll results.
 
     <img src="https://raw.githubusercontent.com/henningtillmann/sonntagsfrage/main/screenshot-1.png" width="400"/>
 
@@ -68,11 +68,11 @@
 
 ## [9. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
-### Base / Reset / Normalize
+### Stalled Development
 
 *   [**modern-css-reset**](https://github.com/hankchizljaw/modern-css-reset) - Tiny little reset that you can use as the basis of your CSS projects.\
     ![](https://img.shields.io/github/stars/hankchizljaw/modern-css-reset.svg?style=social\&label=Star)
-    [Repo (⭐2.7k)](https://github.com/hankchizljaw/modern-css-reset)
+    [Repo (⭐2.9k)](https://github.com/hankchizljaw/modern-css-reset)
     \| #CSS
 
 ## [10. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
@@ -166,8 +166,8 @@
 
 ### Community
 
-*   [GitHub (⭐106k)](https://github.com/vercel/next.js)
-*   [GitHub discussions for Next.js (⭐106k)](https://github.com/vercel/next.js/discussions)
+*   [GitHub (⭐113k)](https://github.com/vercel/next.js)
+*   [GitHub discussions for Next.js (⭐113k)](https://github.com/vercel/next.js/discussions)
 
 ### Articles
 
@@ -175,7 +175,7 @@
 
 ### Extensions
 
-*   [Next-Pkg (⭐62)](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg (⭐23k)](https://github.com/vercel/pkg) support.
+*   [Next-Pkg (⭐65)](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg (⭐24k)](https://github.com/vercel/pkg) support.
 
 ## [12. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -187,15 +187,15 @@
 
 ### Applications / Utilities
 
-*   [vamolessa/verco (⭐220)](https://github.com/vamolessa/verco) \[[verco](https://crates.io/crates/verco)] — A simple Git/Hg tui client focused on keyboard shortcuts
+*   [vamolessa/verco (⭐226)](https://github.com/vamolessa/verco) \[[verco](https://crates.io/crates/verco)] — A simple Git/Hg tui client focused on keyboard shortcuts
 
 ## [14. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
-### Computer Vision
+### Computer Vision / Text-Based User Interfaces
 
 *   [BoofCV](https://boofcv.org) - Library for image processing, camera calibration, tracking, SFM, MVS, 3D vision, QR Code and much more.
 
-### Miscellaneous
+### Miscellaneous / Text-Based User Interfaces
 
 *   [jsweet (⭐1.4k)](https://github.com/cincheo/jsweet) - Source transpiler to TypeScript/JavaScript.
 
@@ -221,7 +221,7 @@
 
 ### LSP Language Server Protocol Implementations
 
-*   [scry (⭐335)](https://github.com/crystal-lang-tools/scry) - Code analysis server for Crystal implementing the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
+*   [scry (⭐333)](https://github.com/crystal-lang-tools/scry) - Code analysis server for Crystal implementing the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
 
 ## [19. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
@@ -233,7 +233,7 @@
 
 ### Unofficial Godot builds / Godot version unknown
 
-*   [Raspberry Pi 4 builds (⭐247)](https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi) - ARM builds of Godot Engine for the Raspberry Pi 4.
+*   [Raspberry Pi 4 builds (⭐260)](https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi) - ARM builds of Godot Engine for the Raspberry Pi 4.
 
 ## [21. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
@@ -253,10 +253,7 @@
 
 ### Finance / Currencies
 
-*   [Accounts Demystified: The Astonishingly Simple Guide To Accounting](https://amzn.com/0273744704/?tag=kevideld-20) - Helps you learn how to analyse and monitor your company's financial performance.
 *   [The Games People Play With Cash Flow](https://commoncog.com/blog/cash-flow-games/) - “Malone created a new accounting metric, something he called ‘earnings before interest, depreciation, and taxes’, or EBITDA.” This is how a cable company CEO made sense of cash flow, like real-estate business did. The article starts with this example and describes other cash flow games for SaaS models.
-*   [Financial Intelligence for Entrepreneurs: What You Really Need to Know About the Numbers](https://amzn.com/1422119157/?tag=kevideld-20) - Allows you to fully understand how to use financial data to make better decisions for your business.
-*   [Algebraic Models for Accounting Systems](https://amzn.com/9814287113/?tag=kevideld-20) - Advanced abstract algebra applied to the analysis of accounting systems.
 
 ## [23. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
@@ -275,59 +272,58 @@
 
 ### Preprocessing
 
-*   [MDSveX (⭐1.7k)](https://github.com/pngwn/MDsveX) - Preprocessor for MDX markdown.
+*   [MDSveX (⭐2k)](https://github.com/pngwn/MDsveX) - Preprocessor for MDX markdown.
 *   [svelte-preprocess-less (⭐13)](https://github.com/ls-age/svelte-preprocess-less) - Preprocessor for less.
-*   [modular-css (⭐271)](https://github.com/tivac/modular-css/tree/main/packages/svelte) - Preprocessor support for modular-css.
+*   [modular-css (⭐277)](https://github.com/tivac/modular-css/tree/main/packages/svelte) - Preprocessor support for modular-css.
 *   [svelte-preprocess-sass (⭐92)](https://github.com/ls-age/svelte-preprocess-sass) - Preprocessor for sass.
 
 ### UI Libraries
 
 *   [Smelte (⭐1.5k)](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS.
-*   [Svelte Material UI (⭐3k)](https://github.com/hperrin/svelte-material-ui) - Material UI Components.
+*   [Svelte Material UI (⭐3.2k)](https://github.com/hperrin/svelte-material-ui) - Material UI Components.
 
 ### Table
 
-*   [svelte-table (⭐416)](https://github.com/dasDaniel/svelte-table) - A table implementation that allows sorting and filtering.
+*   [svelte-table (⭐455)](https://github.com/dasDaniel/svelte-table) - A table implementation that allows sorting and filtering.
 
 ### Notification
 
-*   [svelte-notifications (⭐304)](https://github.com/beyonk-adventures/svelte-notifications) - Toast notifications component that can be used in any JS application.
+*   [svelte-notifications (⭐308)](https://github.com/beyonk-adventures/svelte-notifications) - Toast notifications component that can be used in any JS application.
 
 ### Icons
 
-*   [svelte-fa (⭐297)](https://github.com/Cweili/svelte-fa) - Tiny FontAwesome 5 component.
+*   [svelte-fa (⭐348)](https://github.com/Cweili/svelte-fa) - Tiny FontAwesome 5 component.
 *   [svelte-simple-icons (⭐13)](https://github.com/beyonk-adventures/svelte-simple-icons) - Simple Icons component.
-*   [svelte-awesome (⭐397)](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component, built with Font Awesome icons.
-*   [svelte-icons (⭐237)](https://github.com/AnxiousDarkly/svelte-icons) - Icon components.
+*   [svelte-awesome (⭐465)](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component, built with Font Awesome icons.
+*   [svelte-icons (⭐274)](https://github.com/AnxiousDarkly/svelte-icons) - Icon components.
 
 ### Calendar
 
-*   [svelte-fullcalendar (⭐167)](https://github.com/YogliB/svelte-fullcalendar) - A component wrapper around FullCalendar.
+*   [svelte-fullcalendar (⭐192)](https://github.com/YogliB/svelte-fullcalendar) - A component wrapper around FullCalendar.
 
 ### Maps
 
-*   [svelte-googlemaps (⭐64)](https://github.com/beyonk-adventures/svelte-googlemaps) - Google Maps component.
-*   [svelte-mapbox (⭐271)](https://github.com/beyonk-adventures/svelte-mapbox) - MapBox map and autocomplete components.
-*   [leaflet-svelte (⭐50)](https://github.com/anoram/leaflet-svelte) - Svelte wrapper for Leaflet.
+*   [svelte-googlemaps (⭐70)](https://github.com/beyonk-adventures/svelte-googlemaps) - Google Maps component.
+*   [svelte-mapbox (⭐317)](https://github.com/beyonk-adventures/svelte-mapbox) - MapBox map and autocomplete components.
+*   [leaflet-svelte (⭐51)](https://github.com/anoram/leaflet-svelte) - Svelte wrapper for Leaflet.
 
 ### Form / Checkbox
 
-*   [svelte-checkbox (⭐73)](https://github.com/HosseinShabani/svelte-checkbox) - A checkbox component (cool animation, customizable).
+*   [svelte-checkbox (⭐74)](https://github.com/HosseinShabani/svelte-checkbox) - A checkbox component (cool animation, customizable).
 *   [svelte-toggle (⭐22)](https://github.com/beyonk-adventures/svelte-toggle) - Basic toggle component with styling.
 
 ### Lint / Checkbox
 
-*   [eslint-plugin-svelte3 (⭐367)](https://github.com/sveltejs/eslint-plugin-svelte3) - An ESLint plugin for components.
-*   [prettier-plugin-svelte (⭐547)](https://github.com/sveltejs/prettier-plugin-svelte) - Format your components using prettier.
+*   [prettier-plugin-svelte (⭐632)](https://github.com/sveltejs/prettier-plugin-svelte) - Format your components using prettier.
 *   [svelte-check](https://www.npmjs.com/package/svelte-check) - Check your code.
 
 ### Docs / Checkbox
 
-*   [sveltedoc-parser (⭐86)](https://github.com/alexprey/sveltedoc-parser) - Generate a JSON documentation for your component.
+*   [sveltedoc-parser (⭐89)](https://github.com/alexprey/sveltedoc-parser) - Generate a JSON documentation for your component.
 
 ### Test / Checkbox
 
-*   [svelte-jester (⭐121)](https://github.com/mihar-22/svelte-jester) - A Jest transformer to compile your components before importing them into tests.
+*   [svelte-jester (⭐125)](https://github.com/mihar-22/svelte-jester) - A Jest transformer to compile your components before importing them into tests.
 
 ### Editors / Visual Studio Code
 
@@ -344,8 +340,8 @@
 
 ### Editors / Vim
 
-*   [vim-svelte-plugin (⭐111)](https://github.com/leafOfTree/vim-svelte-plugin) - Syntax highlighting and support for Vim.
-*   [coc-svelte (⭐164)](https://github.com/coc-extensions/coc-svelte) - Syntax highlighting and support for (Neo)Vim.
+*   [vim-svelte-plugin (⭐124)](https://github.com/leafOfTree/vim-svelte-plugin) - Syntax highlighting and support for Vim.
+*   [coc-svelte (⭐172)](https://github.com/coc-extensions/coc-svelte) - Syntax highlighting and support for (Neo)Vim.
 
 ### Editors / JetBrains
 
@@ -355,15 +351,15 @@
 
 ### Front-End Development
 
-*   [Svelte (⭐901)](https://github.com/TheComputerM/awesome-svelte#readme) - App framework.
+*   [Svelte (⭐1.1k)](https://github.com/TheComputerM/awesome-svelte#readme) - App framework.
 
 ### Back-End Development
 
-*   [Flask (⭐1.1k)](https://github.com/mjhea0/awesome-flask#readme) - Python framework.
+*   [Flask (⭐1.2k)](https://github.com/mjhea0/awesome-flask#readme) - Python framework.
 
 ### Work
 
-*   [Creative Technology (⭐285)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
+*   [Creative Technology (⭐329)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
 
 ## [26. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
@@ -394,19 +390,19 @@
 
 ### Localization
 
-*   [attranslate (⭐286)](https://github.com/fkirc/attranslate) - Semi-automatically translate or synchronize .strings files or crossplatform-files from different languages.
+*   [attranslate (⭐303)](https://github.com/fkirc/attranslate) - Semi-automatically translate or synchronize .strings files or crossplatform-files from different languages.
 
 ## [30. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Debugging
 
-*   [extrace (⭐43)](https://github.com/redink/extrace) - Elixir wrapper for Recon Trace.
+*   [extrace (⭐45)](https://github.com/redink/extrace) - Elixir wrapper for Recon Trace.
 
 ## [31. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Rust / Git
 
-*   [mundane (⭐1k)](https://github.com/google/mundane) - is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant.
+*   [mundane (⭐1.1k)](https://github.com/google/mundane) - is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant.
 
 ## [32. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
 
@@ -458,13 +454,13 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Back-end API / Playground
 
-*   :octocat: [ZenTS (⭐37)](https://github.com/sahachide/ZenTS) - A modern Node.js and TypeScript first framework for building rich web applications (see also: <https://zents.dev>)
+*   :octocat: [ZenTS (⭐36)](https://github.com/sahachide/ZenTS) - A modern Node.js and TypeScript first framework for building rich web applications (see also: <https://zents.dev>)
 
 ## [34. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Finance
 
-*   [Receipt Manager (⭐156)](https://github.com/ReceiptManager/Application) <!--stargazers:ReceiptManager/Application--> - Receipt parser, manager and tracker by [Monolidth](https://github.com/monolidth)
+*   [Receipt Manager (⭐170)](https://github.com/ReceiptManager/Application) <!--stargazers:ReceiptManager/Application--> - Receipt parser, manager and tracker by [Monolidth](https://github.com/monolidth)
 
 ## [35. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
@@ -481,7 +477,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Packages / Containerization
 
-*   [ros-tooling/cross\_compile (⭐171)](https://github.com/ros-tooling/cross_compile) - Cross compile ROS and ROS 2 workspaces to non-native architectures and generate corresponding Docker images.
+*   [ros-tooling/cross\_compile (⭐172)](https://github.com/ros-tooling/cross_compile) - Cross compile ROS and ROS 2 workspaces to non-native architectures and generate corresponding Docker images.
 
 ## [37. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
@@ -555,11 +551,11 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 ### Tools / Static Analysis Tools
 
 *   [Quark-Engine (⭐1.1k)](https://github.com/quark-engine/quark-engine) - An Obfuscation-Neglect Android Malware Scoring System
-*   [One Step Decompiler (⭐214)](https://github.com/b-mueller/apkx) - Android APK Decompilation for the Lazy
+*   [One Step Decompiler (⭐216)](https://github.com/b-mueller/apkx) - Android APK Decompilation for the Lazy
 
 ### Tools / Misc Tools
 
-*   [Android Mobile Device Hardening (⭐164)](https://github.com/SecTheTech/AMDH) - AMDH scans and harden device's settings and list harmful installed Apps based on permissions.
+*   [Android Mobile Device Hardening (⭐169)](https://github.com/SecTheTech/AMDH) - AMDH scans and hardens the device's settings and lists harmful installed Apps based on permissions.
 *   ~~[Opcodes table for quick reference](http://ww38.xchg.info/corkami/opcodes_tables.pdf)~~
 *   ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~ - seems dead now
 *   ~~[Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)~~
@@ -612,29 +608,29 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Infinite Scroll
 
-*   [@egjs/react-infinitegrid (⭐1.6k)](https://github.com/naver/egjs-infinitegrid/blob/master/packages/react-infinitegrid) - [npm](https://www.npmjs.com/package/@egjs/react-infinitegrid) - [demo](https://naver.github.io/egjs-infinitegrid/storybook/) - A module used to arrange card elements including content infinitely according to various layout types.
+*   [@egjs/react-infinitegrid (⭐1.7k)](https://github.com/naver/egjs-infinitegrid/blob/master/packages/react-infinitegrid) - [npm](https://www.npmjs.com/package/@egjs/react-infinitegrid) - [demo](https://naver.github.io/egjs-infinitegrid/storybook/) - A module used to arrange card elements including content infinitely according to various layout types.
 
 ### Notification
 
-*   [react-toast (⭐63)](https://github.com/moharnadreza/react-toast) - [demo](https://codesandbox.io/s/byqvk) - [docs (⭐63)](https://github.com/moharnadreza/react-toast/blob/main/README.md) - Minimal toast notifications.
+*   [react-toast (⭐69)](https://github.com/moharnadreza/react-toast) - [demo](https://codesandbox.io/s/byqvk) - [docs (⭐69)](https://github.com/moharnadreza/react-toast/blob/main/README.md) - Minimal toast notifications.
 
 ### Miscellaneous
 
 *   [fastcomments-react (⭐6)](https://github.com/fastcomments/fastcomments-react) - [demo](https://blog.fastcomments.com/\(12-30-2019\)-fastcomments-demo.html) - FastComments component for embedding a live comment thread on a page or SPA.
 *   [react-pulse-text (⭐13)](https://github.com/Kelsier90/React-Pulse-Text) - [demo/docs](https://kelsier90.github.io/React-Pulse-Text/) - Allows you to animate the text of any property of another component.
-*   [@restpace/schema-form (⭐38)](https://github.com/restspace/schema-form) - [Demo](https://restspace.io/react/schema-form/demo) - Easily build complex forms automatically from a JSON Schema.
+*   [@restpace/schema-form (⭐41)](https://github.com/restspace/schema-form) - [Demo](https://restspace.io/react/schema-form/demo) - Easily build complex forms automatically from a JSON Schema.
 
 ### Device Input / Keyboard Events
 
-*   [useKeyCapture (⭐22)](https://github.com/pranesh239/use-key-capture) - A custom hook to ease the key-press listeners of a target/global.
+*   [useKeyCapture (⭐24)](https://github.com/pranesh239/use-key-capture) - A custom hook to ease the key-press listeners of a target/global.
 
 ### Data Store / Mouse Events
 
-*   [effector-react (⭐4.2k)](https://github.com/effector/effector) - React bindings for effector, an effective multi-store state manager.
+*   [effector-react (⭐4.3k)](https://github.com/effector/effector) - React bindings for effector, an effective multi-store state manager.
 
 ### Boilerplate / Mouse Events
 
-*   [react-enterprise-starter-kit (⭐73)](https://github.com/anandgupta193/react-enterprise-starter-kit) - Highly Scalable and Performant Awesome React Starter Kit for an enterprise application with a very easy maintainable codebase.
+*   [react-enterprise-starter-kit (⭐84)](https://github.com/anandgupta193/react-enterprise-starter-kit) - Highly Scalable and Performant Awesome React Starter Kit for an enterprise application with a very easy maintainable codebase.
 
 ## [44. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
@@ -651,9 +647,9 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Apps / Translation software
 
-*   [OmegaT](https://omegat.org/) - Free translation memory application that works on Windows, macOS and Linux.
+*   [OmegaT](https://omegat.org/) - Free translation memory / CAT software that works on Windows, macOS and Linux.
 
-### Tools / i18n frameworks for developers
+### Tools / Libraries and tools for developers
 
 *   [Ruby I18n](https://guides.rubyonrails.org/i18n.html) - Rails internationalization (i18n) API.
 *   [Quasar I18n](https://quasar.dev/options/app-internationalization) - App internationalization (i18n) in Quasar framework.
@@ -662,7 +658,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Tools / Machine translation for developers
 
-*   [SwiftGoogleTranslate (⭐78)](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use cloud translation API by Google in Swift.
+*   [SwiftGoogleTranslate (⭐83)](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use cloud translation API by Google in Swift.
 
 ### Articles / Introductions to internationalization
 
@@ -723,7 +719,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Crash monitoring
 
-*   [Sentry (⭐599)](https://github.com/getsentry/sentry-dart) - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
+*   [Sentry (⭐672)](https://github.com/getsentry/sentry-dart) - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
 
 ## [48. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
@@ -734,24 +730,24 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ## [49. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
 *   [Disease.sh](https://disease.sh/) — A free API providing accurate data for building the Covid-19 related useful Apps.
 *   [OpenAPI3 Designer](https://openapidesigner.com/) — Visually create Open API 3 definitions for free.
 
 ### Code Search and Browsing
 
-*   [Namae](https://namae.dev/) - Search across various websites like github,gitlab,heroku,netlify and many more for availabilty of your project name.
+*   [Namae](https://namae.dev/) - Search various websites like GitHub, Gitlab, Heroku, Netlify, and many more for the availability of your project name.
 
 ### Design and UI
 
-*   [BoxySVG](https://boxy-svg.com/app) — A free installable Web app for drawing SVGs and exporting in svg,png,jpeg an other formats.
+*   [BoxySVG](https://boxy-svg.com/app) — A free installable Web app for drawing SVGs and exporting in SVG, PNG, jpeg, and other formats.
 
 ## [50. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - This allows you to host your own Firefox accounts server. ([Source Code (⭐500)](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs, Java`
+*   [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - This allows you to host your own Firefox accounts server. ([Source Code (⭐532)](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs/Java`
 
 ### Software / Communication - Custom Communication Systems
 
@@ -767,15 +763,15 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Python / Computer Vision
 
-*   [Learnergy (⭐59)](https://github.com/gugarosa/learnergy) - Energy-based machine learning models built upon PyTorch.
+*   [Learnergy (⭐62)](https://github.com/gugarosa/learnergy) - Energy-based machine learning models built upon PyTorch.
 
 ### Python / Natural Language Processing
 
-*   [NALP (⭐22)](https://github.com/gugarosa/nalp) - A Natural Adversarial Language Processing framework built over Tensorflow.
+*   [NALP (⭐23)](https://github.com/gugarosa/nalp) - A Natural Adversarial Language Processing framework built over Tensorflow.
 
 ### Python / General-Purpose Machine Learning
 
-*   [OPFython (⭐30)](https://github.com/gugarosa/opfython) - A Python-inspired implementation of the Optimum-Path Forest classifier.
+*   [OPFython (⭐31)](https://github.com/gugarosa/opfython) - A Python-inspired implementation of the Optimum-Path Forest classifier.
 
 ## [53. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
@@ -799,7 +795,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Starters & Themes
 
-*   🚀 [Starter Dashboard Layout (⭐186)](https://github.com/Kamona-WD/starter-dashboard-layout) - Dashboard layout using Tailwind CSS and Alpine JS.
+*   🚀 [Starter Dashboard Layout (⭐195)](https://github.com/Kamona-WD/starter-dashboard-layout) - Dashboard layout using Tailwind CSS and Alpine JS.
 
 ## [55. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -813,11 +809,11 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [Implementing DDD, CQRS and Event Sourcing](https://leanpub.com/implementing-ddd-cqrs-and-event-sourcing) - Learn how to implement DDD, CQRS and Event Sourcing. Understand the theory and put it into practice with JavaScript and Node.js.
 
-### Sample Projects / JavaScript
+### Sample Projects / JavaScript / TypeScript
 
-*   [Booster framework examples (⭐297)](https://github.com/boostercloud/booster/tree/master/docs/examples) Example applications built with Booster Framework.
+*   [Booster framework examples (⭐371)](https://github.com/boostercloud/booster/tree/master/docs/examples) Example applications built with Booster Framework.
 
-### Libraries and Frameworks / JavaScript
+### Libraries and Frameworks / JavaScript / TypeScript
 
 *   [Booster](https://www.booster.cloud/) - A CQRS, DDD and event-sourcing open-source framework that leverages all the infrastructure and uses high-level abstractions and conventions. It help users build advanved even-driven applications letting them focus on business logic exclusively.
 
@@ -917,7 +913,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Plugins / Languages and Environments
 
-*   [YAML (⭐64)](https://github.com/ota-meshi/eslint-plugin-yml) - ESLint plugin for YAML.
+*   [YAML (⭐70)](https://github.com/ota-meshi/eslint-plugin-yml) - ESLint plugin for YAML.
 
 ### Plugins / Style
 
@@ -936,7 +932,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 ### Utils / Third-party APIs
 
 *   [calispel (⭐27)](https://github.com/hawkir/calispel) - [CSP](https://en.wikipedia.org/wiki/Communicating_sequential_processes)-like channels for common lisp. With blocking, optionally buffered channels and a "CSP select" statement. ISC-style.
-    *   "It is complete, flexible and easy to use. I would recommend Calispel over Lparallel and ChanL." @Ambrevar. [discussion (⭐2.2k)](https://github.com/CodyReichert/awesome-cl/issues/290)
+    *   "It is complete, flexible and easy to use. I would recommend Calispel over Lparallel and ChanL." @Ambrevar. [discussion (⭐2.3k)](https://github.com/CodyReichert/awesome-cl/issues/290)
 
 ### Apps / Third-party APIs
 
@@ -987,7 +983,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Threat intelligence / Threat signature packages and collections
 
-*   [FireEye's Sunburst Countermeasures (⭐550)](https://github.com/fireeye/sunburst_countermeasures) - Collection of IoC in various languages for detecting backdoored SolarWinds Orion NMS activities and related vulnerabilities.
+*   [FireEye's Sunburst Countermeasures (⭐555)](https://github.com/fireeye/sunburst_countermeasures) - Collection of IoC in various languages for detecting backdoored SolarWinds Orion NMS activities and related vulnerabilities.
 
 ## [65. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
@@ -1001,19 +997,31 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [Just Remote](https://justremote.co/remote-jobs)
 
-## [67. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [67. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### BETA / Non-X86
+
+*   [MIA 90-02: BETA Compiler - Reference Manual](https://beta.cs.au.dk/Manuals/latest/compiler/index.html) - Mjølner Informatics
+*   [MIA 94-26: BETA Language Introduction - Tutorial](https://beta.cs.au.dk/Manuals/latest/beta-intro/index.html) - Mjølner Informatics
+*   [MIA 99-41: BETA Language Modifications - Reference Manual](https://beta.cs.au.dk/Manuals/latest/beta/beta-index.html) - Mjølner Informatics
+
+### OCaml / PicoLisp
+
+*   [OCaml Scientific Computing](https://ocaml.xyz/book/) - Liang Wang, Jianxin Zhao (HTML) (:construction: *in process*)
+
+## [68. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
-*   [Building a realtime quiz with VueJS using a starter kit (⭐55)](https://github.com/ably-labs/realtime-quiz-framework/blob/main/TUTORIAL.md) by Srushtika Neelakantam (October 2020)
+*   [Building a realtime quiz with VueJS using a starter kit (⭐63)](https://github.com/ably-labs/realtime-quiz-framework/blob/main/TUTORIAL.md) by Srushtika Neelakantam (October 2020)
 
 ### Resources / Examples
 
-*   [Shopify Theme Lab (⭐655)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue, Vuex and Tailwind CSS
+*   [Shopify Theme Lab (⭐687)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue, Vuex and Tailwind CSS
 
 ### Projects Using Vue.js / Open Source
 
-*   [Realtime quiz framework (⭐55)](https://github.com/ably-labs/realtime-quiz-framework) - A starter kit built with NodeJS, VueJS and Ably providing the scalable base networking framework to host a live quiz
+*   [Realtime quiz framework (⭐63)](https://github.com/ably-labs/realtime-quiz-framework) - A starter kit built with NodeJS, VueJS and Ably providing the scalable base networking framework to host a live quiz
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -1021,9 +1029,9 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Components & Libraries / UI Components
 
-*   [vue-my-toasts (⭐133)](https://github.com/Tahul/vue-my-toasts) - Provide your component and let us toast the rest.
-*   [vue-use-sound (⭐359)](https://github.com/Tahul/vue-use-sound) - A Vue Hook for playing sound effects.
-*   [@vueform/multiselect (⭐646)](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options.
+*   [vue-my-toasts (⭐134)](https://github.com/Tahul/vue-my-toasts) - Provide your component and let us toast the rest.
+*   [vue-use-sound (⭐393)](https://github.com/Tahul/vue-use-sound) - A Vue Hook for playing sound effects.
+*   [@vueform/multiselect (⭐707)](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options.
 
 ### Components & Libraries / Frameworks
 
@@ -1032,7 +1040,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Components & Libraries / Utilities
 
-*   [vue-catch-hrefs (⭐4)](https://github.com/Tahul/vue-catch-hrefs) - Catch clicks on hrefs links (in v-html) and route them to vue-router.
+*   [vue-catch-hrefs (⭐5)](https://github.com/Tahul/vue-catch-hrefs) - Catch clicks on hrefs links (in v-html) and route them to vue-router.
 
 ---
 

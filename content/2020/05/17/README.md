@@ -6,29 +6,30 @@
 
 
 
-## [1. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Ada
+
+*   [Introduction To Ada](https://learn.adacore.com/courses/intro-to-ada/index.html)
+*   [Introduction To SPARK](https://learn.adacore.com/courses/SPARK_for_the_MISRA_C_Developer/index.html)
+
+## [2. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
 ### Software Development
 
 *   [Real Software Engineering](https://www.youtube.com/watch?v=RhdlBHHimeM) by **Glenn Vanderburg** \[1:07:57]
 
-## [2. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
+## [3. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### Libraries / Others
 
 *   [eiR (⭐3)](https://github.com/girke-lab/eiR) - Accelerated similarity searching of small molecules
 
-## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Scheduling
 
-*   [que-scheduler (⭐102)](https://github.com/hlascelles/que-scheduler) - A lightweight cron scheduler for the async job worker Que.
-
-## [4. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
-
-### Visual Programming Languages
-
-*   [Pixel Nodes](https://pixelnodes.app/) \[iPad] - Live graphics node editor, powered by PixelKit.
+*   [que-scheduler (⭐105)](https://github.com/hlascelles/que-scheduler) - A lightweight cron scheduler for the async job worker Que.
 
 ## [5. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -60,15 +61,15 @@
 
 ### Online services
 
-*   [Visual Regression Tracker (⭐450)](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker) - Open Source selfhosted service for visual regression testing
+*   [Visual Regression Tracker (⭐517)](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker) - Open Source selfhosted service for visual regression testing
 
 ## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Bundlers
 
-*   [Microbundle (⭐7.6k)](https://github.com/developit/microbundle) - Zero-configuration bundler for tiny modules.
+*   [Microbundle (⭐7.8k)](https://github.com/developit/microbundle) - Zero-configuration bundler for tiny modules.
 
-### Podcasts / Other
+### Misc / Other
 
 *   [denolib/awesome-deno (⭐4k)](https://github.com/denolib/awesome-deno)
 
@@ -82,40 +83,40 @@
 
 ### Programming Languages
 
-*   [Python (⭐167k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
-    *   [Asyncio (⭐4k)](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
+*   [Python (⭐183k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
+    *   [Asyncio (⭐4.2k)](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
     *   [Scientific Audio (⭐1.4k)](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
-    *   [CircuitPython (⭐540)](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
-    *   [Data Science (⭐1.9k)](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning.
-    *   [Typing (⭐1.3k)](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
-    *   [MicroPython (⭐901)](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
+    *   [CircuitPython (⭐570)](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
+    *   [Data Science (⭐2.1k)](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning.
+    *   [Typing (⭐1.5k)](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
+    *   [MicroPython (⭐1k)](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
 
 ## [12. Awesome Captcha](/content/ZYSzys/awesome-captcha/README.md)
 
 ### Generation
 
-*   [koto-bank/kocaptcha (⭐46)](https://github.com/koto-bank/kocaptcha) - A simple captcha service with a single API endpoint, written in Rust.
+*   [koto-bank/kocaptcha (⭐52)](https://github.com/koto-bank/kocaptcha) - A simple captcha service with a single API endpoint, written in Rust.
 *   [Captcheck](https://captcheck.netsyms.com) - Lightweight, self-hostable CAPTCHA service written in PHP 7 and MySQL. Uses a selection of icons from Font-Awesome. Text-only accessibility mode and support for keyboard-only operation.
 *   [Securimage](https://www.phpcaptcha.org) - Open-source free PHP Captcha script.
-*   [Lokno/click-captcha (⭐26)](https://github.com/Lokno/click-captcha) - A visual, click-based CAPTCHA for human authentication.
-*   [ArgoZhang/SliderCaptcha (⭐176)](https://github.com/ArgoZhang/SliderCaptcha) - Slider captcha supporting mobile.
+*   [Lokno/click-captcha (⭐28)](https://github.com/Lokno/click-captcha) - A visual, click-based CAPTCHA for human authentication.
+*   [ArgoZhang/SliderCaptcha (⭐234)](https://github.com/ArgoZhang/SliderCaptcha) - Slider captcha supporting mobile.
 
 ### Other / Chinese
 
-*   [Hashcash for PHP/JavaScript forms (⭐42)](https://github.com/007/hashcash-js) - An alternative to captcha to fight spam, based on proof-of-work.
+*   [Hashcash for PHP/JavaScript forms (⭐46)](https://github.com/007/hashcash-js) - An alternative to captcha to fight spam, based on proof-of-work.
 
 ## [13. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Communications / GPS
 
-*   [mpy-agps (⭐7)](https://github.com/pulkin/mpy-agps) - MicroPython implementation of assisted location services (AGPS).
+*   [mpy-agps (⭐8)](https://github.com/pulkin/mpy-agps) - MicroPython implementation of assisted location services (AGPS).
 
 ### Storage / Database
 
-*   [uPyMySQL (⭐19)](https://github.com/dvrhax/uPyMySQL) - Pure MicroPython MySQL Client.
-*   [micropython-redis (⭐20)](https://github.com/dwighthubbard/micropython-redis) - A Redis client implementation designed for use with MicroPython.
-*   [picoredis (⭐7)](https://github.com/SpotlightKid/picoredis) - A very minimal Redis client (not only) for MicroPython.
-*   [micropg (⭐16)](https://github.com/nakagami/micropg) - PostgreSQL database driver for MicroPython.
+*   [uPyMySQL (⭐21)](https://github.com/dvrhax/uPyMySQL) - Pure MicroPython MySQL Client.
+*   [micropython-redis (⭐21)](https://github.com/dwighthubbard/micropython-redis) - A Redis client implementation designed for use with MicroPython.
+*   [picoredis (⭐8)](https://github.com/SpotlightKid/picoredis) - A very minimal Redis client (not only) for MicroPython.
+*   [micropg (⭐18)](https://github.com/nakagami/micropg) - PostgreSQL database driver for MicroPython.
 
 ### Community / SRAM
 

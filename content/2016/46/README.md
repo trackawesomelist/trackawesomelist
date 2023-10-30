@@ -121,7 +121,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [somoclu (⭐249)](https://github.com/peterwittek/somoclu) Massively parallel self-organizing maps: accelerate training on multicore CPUs, GPUs, and clusters, has python API.
+*   [somoclu (⭐250)](https://github.com/peterwittek/somoclu) Massively parallel self-organizing maps: accelerate training on multicore CPUs, GPUs, and clusters, has python API.
 
 ## [7. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
@@ -141,8 +141,8 @@
 
 ### For Electron / Other
 
-*   [electron-is-accelerator (⭐15)](https://github.com/brrd/electron-is-accelerator) - Check if a string is a valid accelerator.
-*   [electron-pdf-window (⭐267)](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows.
+*   [electron-is-accelerator (⭐16)](https://github.com/brrd/electron-is-accelerator) - Check if a string is a valid accelerator.
+*   [electron-pdf-window (⭐271)](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows.
 
 ## [10. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -166,7 +166,7 @@
 
 ### Literature / Citizen Science Theory
 
-*   [The Science Wars and the Future of the American Academic Profession](http://www.its.caltech.edu/\~bi/labinger/nontechpdfs/7sciencewars.pdf) - Caltech chemistry professor Jay A. Labinger's paper about the need for scientists to engage with critical science studies scholars.
+*   [The Science Wars and the Future of the American Academic Profession](http://www.its.caltech.edu/~bi/labinger/nontechpdfs/7sciencewars.pdf) - Caltech chemistry professor Jay A. Labinger's paper about the need for scientists to engage with critical science studies scholars.
 
 ## [14. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
@@ -328,12 +328,12 @@
 
 ### Code Analysis and Metrics
 
-*   [BenchmarkDotNet (⭐9k)](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
+*   [BenchmarkDotNet (⭐9.5k)](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
 
 ### Compilers, Transpilers and Languages
 
-*   [P (⭐2.7k)](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming.
-*   [Roslyn-linq-rewrite (⭐708)](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
+*   [P (⭐2.8k)](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming.
+*   [Roslyn-linq-rewrite (⭐716)](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
 
 ### Visual Studio Plugins
 
@@ -379,8 +379,8 @@
 
 ### Web Programming • Libraries
 
-*   [three.js (⭐90k)](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
-*   [regl (⭐4.9k)](https://github.com/regl-project/regl) - Functional WebGL.
+*   [three.js (⭐93k)](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
+*   [regl (⭐5k)](https://github.com/regl-project/regl) - Functional WebGL.
 *   [Stackgl](http://stack.gl/) - Open software ecosystem for WebGL, built on top of browserify and npm.
 *   [Paper.js](http://paperjs.org/) - The swiss army knife of vector graphics scripting.
 *   [Fabric.js](http://fabricjs.com/) - Javascript canvas library, SVG-to-canvas parser.
@@ -403,7 +403,7 @@
 *   [WebGL Lessons — Fragment Shaders (⭐307)](https://github.com/Jam3/jam3-lesson-webgl-shader-intro) - A brief introduction to fragment shaders.
 *   [Ray Marching and Signed Distance Functions](http://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing) - Introduction to ray tracing.
 *   [Introduction to Ray Tracing](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/) - A simple method for creating 3D images.
-*   [GLSL lighting walkthrough (⭐447)](https://github.com/stackgl/glsl-lighting-walkthrough) - Phong shading tutorial with glslify.
+*   [GLSL lighting walkthrough (⭐452)](https://github.com/stackgl/glsl-lighting-walkthrough) - Phong shading tutorial with glslify.
 
 ### Interactive / Other
 
@@ -497,7 +497,7 @@
 ### Ask these people anything!
 
 *   [Artem Sapegin (⭐15)](https://github.com/sapegin/ama) - Frontend developer at Here, creator of [React Styleguidist (⭐11k)](https://github.com/sapegin/react-styleguidist) and passionate photographer.
-*   [Miguel Durán](https://github.com/miduga/ama) - Developer of things and stuff at Typeform, creator of [React Slidy (⭐124)](https://github.com/miduga/react-slidy). Love videogames, embrace StandardJS. Living in Barcelona.
+*   [Miguel Durán](https://github.com/miduga/ama) - Developer of things and stuff at Typeform, creator of [React Slidy (⭐125)](https://github.com/miduga/react-slidy). Love videogames, embrace StandardJS. Living in Barcelona.
 
 ## [33. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
@@ -527,7 +527,7 @@
 
 ### Packages / Testing
 
-*   [TestCafe (⭐9.6k)](https://github.com/DevExpress/testcafe) - Automated browser testing.
+*   [TestCafe (⭐9.7k)](https://github.com/DevExpress/testcafe) - Automated browser testing.
 
 ## [37. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
@@ -544,7 +544,7 @@
 
 ### Applications
 
-*   [Rakam (⭐792)](https://github.com/rakam-io/rakam) - open-source real-time custom analytics platform powered by Postgresql, Kinesis and PrestoDB.
+*   [Rakam (⭐796)](https://github.com/rakam-io/rakam) - open-source real-time custom analytics platform powered by Postgresql, Kinesis and PrestoDB.
 
 ## [39. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 

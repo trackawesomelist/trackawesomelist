@@ -17,7 +17,7 @@
 ### Tutorials / Wrappers for Audio Plugins
 
 *   [Whirlwind Tour Of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) [:octocat: (⭐3.4k)](https://github.com/jakevdp/WhirlwindTourOfPython) - fast-paced introduction to Python essentials, aimed at researchers and developers.
-*   [Introduction to Numpy and Scipy](http://www.scipy-lectures.org/index.html) [:octocat: (⭐2.9k)](https://github.com/scipy-lectures/scipy-lecture-notes) - Highly recommended tutorial, covers large parts of the scientific Python ecosystem.
+*   [Introduction to Numpy and Scipy](http://www.scipy-lectures.org/index.html) [:octocat: (⭐3k)](https://github.com/scipy-lectures/scipy-lecture-notes) - Highly recommended tutorial, covers large parts of the scientific Python ecosystem.
 
 ## [3. Awesome Math](/content/rossant/awesome-math/README.md)
 
@@ -33,7 +33,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [LeafPlayer (⭐149)](https://github.com/paulschwoerer/leafplayer) - A simple and fast, privately hosted music streaming server.
+*   [LeafPlayer (⭐152)](https://github.com/paulschwoerer/leafplayer) - A simple and fast, privately hosted music streaming server.
 
 ### Components & Libraries / UI Utilities
 
@@ -43,7 +43,7 @@
 
 ### Menu / Barcode
 
-*   [SwipeMenuViewController (⭐1.2k)](https://github.com/yysskk/SwipeMenuViewController) - Swipable tab and menu View and ViewController.
+*   [SwipeMenuViewController (⭐1.3k)](https://github.com/yysskk/SwipeMenuViewController) - Swipable tab and menu View and ViewController.
 
 ---
 

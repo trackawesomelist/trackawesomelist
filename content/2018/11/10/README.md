@@ -26,15 +26,15 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Access to Memory (AtoM)](https://www.accesstomemory.org/) - Web-based, open source application for standards-based archival description and access in a multilingual, multi-repository environment. ([Demo](https://demo.accesstomemory.org/), [Source Code (⭐206)](https://github.com/artefactual/atom)) `AGPL-3.0` `PHP`
+*   [Access to Memory (AtoM)](https://www.accesstomemory.org/) - Web-based, open source application for standards-based archival description and access in a multilingual, multi-repository environment. ([Demo](https://demo.accesstomemory.org/), [Source Code (⭐222)](https://github.com/artefactual/atom)) `AGPL-3.0` `PHP`
 
 ### Software / Content Management Systems (CMS)
 
-*   [Expressa (⭐411)](https://github.com/thomas4019/expressa) - Content Management System for powering database driven websites using JSON schemas. Provides permission management and automatic REST APIs. `MIT` `Nodejs`
+*   [Expressa (⭐417)](https://github.com/thomas4019/expressa) - Content Management System for powering database driven websites using JSON schemas. Provides permission management and automatic REST APIs. `MIT` `Nodejs`
 
 ### Software / Personal Dashboards
 
-*   [Organizr (⭐4.4k)](https://github.com/causefx/Organizr) - Organizr aims to be your one stop shop for your Servers Frontend. `GPL-3.0` `PHP`
+*   [Organizr (⭐4.6k)](https://github.com/causefx/Organizr) - Organizr aims to be your one stop shop for your Servers Frontend. `GPL-3.0` `PHP/Docker`
 
 ## [4. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
@@ -59,18 +59,18 @@
 
 ### Plex Scripts and Tools / Third Party Hosts
 
-*   [NowShowing (⭐72)](https://github.com/ninthwalker/NowShowing) Generates an email and web page of Plex recently added content
+*   [NowShowing (⭐70)](https://github.com/ninthwalker/NowShowing) Generates an email and web page of Plex recently added content
 
 ### Kodi / Third Party Hosts
 
 *   [Yoda](http://supremacy.org.uk/zip/repo/) Another solid Exodus/Covenant fork, and this time it's from S-media.
 *   [Exodus Redux](https://www.reddit.com/r/Addons4Kodi/comments/9tasx5/requests_recommendations_basics_november_2018/e8uti6w) The newest Exodus fork around, paired with LambdaScrapers.
-*   [Sparkle (⭐40)](https://github.com/iwannabelikemike/plugin.video.sparkle) Kodi addon for finding acestream links
+*   [Sparkle (⭐41)](https://github.com/iwannabelikemike/plugin.video.sparkle) Kodi addon for finding acestream links
 *   [Plexus](http://fusion.tvaddons.co/) Plexus is used in conjunction with Sparkle to play Ace Stream links.
 
 ### Gaming / Third Party Hosts
 
-*   [SmartSteamEmu (⭐342)](https://github.com/MAXBURAOT/SmartSteamEmu) Steam emulator
+*   [SmartSteamEmu (⭐367)](https://github.com/MAXBURAOT/SmartSteamEmu) Steam emulator
 
 ### Courses and Tutorials / Third Party Hosts
 
@@ -90,7 +90,7 @@
 
 ### Dashboards and Homepages / Third Party Hosts
 
-*   [Logarr (⭐254)](https://github.com/Monitorr/logarr) "Logarr" is a self-hosted, PHP-based, single-page log consolidation tool which formats and displays log files for easy analysis.
+*   [Logarr (⭐263)](https://github.com/Monitorr/logarr) "Logarr" is a self-hosted, PHP-based, single-page log consolidation tool which formats and displays log files for easy analysis.
 
 ### Miscellaneous / Third Party Hosts
 
@@ -119,18 +119,18 @@
 
 ### Angular / Themes
 
-*   [NG-ZORRO-Mobile (⭐772)](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - Ant Design Mobile of Angular
+*   [NG-ZORRO-Mobile (⭐786)](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - Ant Design Mobile of Angular
 *   [ng-alain](https://ng-alain.com/) - ng-zorro-antd admin panel front-end framework.
 
 ### Vue.js / Themes
 
-*   [ant-design-vue (⭐18k)](https://github.com/vueComponent/ant-design-vue) - Ant Design of Vue.js 2.5.0+.
-*   [antue (⭐257)](https://github.com/zzuu666/antue) - A set of enterprise-class Vue UI components, following the Ant Design specification completely.
-*   [vue-antd-admin (⭐3.2k)](https://github.com/iczer/vue-antd-admin) - Ant Design Pro's implementation with Vue
+*   [ant-design-vue (⭐19k)](https://github.com/vueComponent/ant-design-vue) - Ant Design of Vue.js 2.5.0+.
+*   [antue (⭐256)](https://github.com/zzuu666/antue) - A set of enterprise-class Vue UI components, following the Ant Design specification completely.
+*   [vue-antd-admin (⭐3.5k)](https://github.com/iczer/vue-antd-admin) - Ant Design Pro's implementation with Vue
 
 ### Icons / Themes
 
-*   [Official Ant Design Icons (⭐772)](http://github.com/ant-design/ant-design-icons)
+*   [Official Ant Design Icons (⭐841)](http://github.com/ant-design/ant-design-icons)
 
 ### Other / Themes
 
@@ -147,7 +147,7 @@
 
 ### IoC
 
-*   [Stashbox (⭐121)](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
+*   [Stashbox (⭐130)](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
 
 ---
 

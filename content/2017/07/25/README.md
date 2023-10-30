@@ -13,7 +13,7 @@
 *   [graphql-batch (⭐1.4k)](https://github.com/Shopify/graphql-batch) – A query batching executor.
 *   [graphql-client (⭐1.1k)](https://github.com/github/graphql-client) - A library for declaring, composing and executing GraphQL queries.
 *   [graphql-guard (⭐470)](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization.
-*   [graphql-ruby (⭐5.2k)](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL.
+*   [graphql-ruby (⭐5.3k)](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL.
 
 ## [2. Awesome Lua](/content/LewisJEllis/awesome-lua/README.md)
 
@@ -83,7 +83,7 @@
 
 ### CLI
 
-*   [SharpNetSH (⭐59)](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
+*   [SharpNetSH (⭐61)](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
 
 ## [4. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
@@ -188,13 +188,13 @@
 
 ### Markdown / Third-party APIs
 
-*   [3bmd (⭐73)](https://github.com/3b/3bmd) - a markdown -> html converter. [MIT](https://opensource.org/licenses/MIT).
+*   [3bmd (⭐77)](https://github.com/3b/3bmd) - a markdown -> html converter. [MIT](https://opensource.org/licenses/MIT).
 
 ## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Castle.Core (⭐1.9k)](https://github.com/castleproject/Core) - Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter <http://www.castleproject.org>.
+*   [Castle.Core (⭐2.1k)](https://github.com/castleproject/Core) - Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter <http://www.castleproject.org>.
 
 ## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -212,7 +212,7 @@
 
 ### Animation
 
-*   [ChainPageCollectionView (⭐783)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
+*   [ChainPageCollectionView (⭐782)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
 
 ---
 

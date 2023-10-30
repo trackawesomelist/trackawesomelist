@@ -28,7 +28,7 @@
 
 ### Infinite Scroll
 
-*   [virtua (⭐8)](https://github.com/inokawa/virtua) - [demo](https://inokawa.github.io/virtua/) - Simple, fast, small and flexible virtual scroller.
+*   [virtua (⭐605)](https://github.com/inokawa/virtua) - [demo](https://inokawa.github.io/virtua/) - Simple, fast, small and flexible virtual scroller.
 
 ## [5. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

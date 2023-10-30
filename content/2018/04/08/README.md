@@ -15,7 +15,7 @@
 
 ### ORM/ODM Extensions
 
-*   [granite (⭐269)](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite
+*   [granite (⭐287)](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite
 
 ## [3. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 
@@ -27,19 +27,19 @@
 
 ### Other Data
 
-*   [KeyPathKit (⭐410)](https://github.com/vincent-pradeilles/KeyPathKit) - KeyPathKit provides a seamless syntax to manipulate data using typed keypaths.
+*   [KeyPathKit (⭐416)](https://github.com/vincent-pradeilles/KeyPathKit) - KeyPathKit provides a seamless syntax to manipulate data using typed keypaths.
 
 ### Socket / Barcode
 
-*   [sockets (⭐575)](https://github.com/vapor-community/sockets) :penguin: - TCP, UDP; Client, Server; Linux, OS X.
+*   [sockets (⭐574)](https://github.com/vapor-community/sockets) :penguin: - TCP, UDP; Client, Server; Linux, OS X.
 
 ### Quality / Barcode
 
-*   [IBLinter (⭐947)](https://github.com/IBDecodable/IBLinter) - A linter tool for Interface Builder.
+*   [IBLinter (⭐952)](https://github.com/IBDecodable/IBLinter) - A linter tool for Interface Builder.
 
 ### Text / Barcode
 
-*   [MarkdownKit (⭐710)](https://github.com/bmoliveira/MarkdownKit) - A simple and customizable Markdown Parser.
+*   [MarkdownKit (⭐739)](https://github.com/bmoliveira/MarkdownKit) - A simple and customizable Markdown Parser.
 
 ## [5. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 

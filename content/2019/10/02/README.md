@@ -86,10 +86,6 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 *   [Linux For Everyone](https://linuxforeveryone.fireside.fm/) - A show about the thrilling world of desktop Linux, open source software and the community creating it. For beginners and veterans alike! Hosted by Forbes' Jason Evangelho and friends.
 *   [Self Hosted](https://selfhosted.show/) - Discover new software and hardware to get the best out of your network, control smart devices, and secure your data on cloud services. Self-Hosted is a chat show between Chris and Alex two long-time "self-hosters" who share their lessons and take you on the journey of their new ones. A Linux Academy podcast showcasing free and open source technologies you can host yourself.
 
-### In Portuguese
-
-*   [Pizza de Dados](https://pizzadedados.com/) - O Pizza de Dados é uma iniciativa que trás assuntos relacionados à ciência de dados de forma lúdica e descontraída.
-
 ## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Games & Comics
@@ -122,7 +118,7 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 ### Personality
 
-- API: [Programming Quotes (⭐384)](https://github.com/skolakoda/programming-quotes-api)
+- API: [Programming Quotes (⭐427)](https://github.com/skolakoda/programming-quotes-api)
 
   Description: Programming Quotes API for open source projects
 
@@ -208,12 +204,12 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 ### Search engine and framework
 
-*   [Facebook Faiss (⭐18k)](https://github.com/facebookresearch/faiss) - is a library for efficient similarity search and clustering of dense vectors. It contains algorithms that search in sets of vectors of any size, up to ones that possibly do not fit in RAM. It also contains supporting code for evaluation and parameter tuning. Faiss is written in C++ with complete wrappers for Python/numpy.
-*   [Annoy (⭐10k)](https://github.com/spotify/annoy) - is a C++ library with Python bindings to search for points in space that are close to a given query point. It also creates large read-only file-based data structures that are mmapped into memory so that many processes may share the same data.
+*   [Facebook Faiss (⭐22k)](https://github.com/facebookresearch/faiss) - is a library for efficient similarity search and clustering of dense vectors. It contains algorithms that search in sets of vectors of any size, up to ones that possibly do not fit in RAM. It also contains supporting code for evaluation and parameter tuning. Faiss is written in C++ with complete wrappers for Python/numpy.
+*   [Annoy (⭐11k)](https://github.com/spotify/annoy) - is a C++ library with Python bindings to search for points in space that are close to a given query point. It also creates large read-only file-based data structures that are mmapped into memory so that many processes may share the same data.
 
 ## [12. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### IDE
+### IDE / Text-Based User Interfaces
 
 *   [NetBeans](https://netbeans.apache.org) - Provides integration for several Java SE and EE features, from database access to HTML5.
 
@@ -238,7 +234,7 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 ### Tools / Working with types
 
-*   [mypyc (⭐15k)](https://github.com/python/mypy/tree/master/mypyc) - Compiles mypy-annotated, statically typed Python modules into CPython C extensions.
+*   [mypyc (⭐16k)](https://github.com/python/mypy/tree/master/mypyc) - Compiles mypy-annotated, statically typed Python modules into CPython C extensions.
 
 ## [16. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 

@@ -22,13 +22,13 @@
 
 ### Mocking / Symfony2
 
-*   [Request Baskets (⭐204)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
+*   [Request Baskets (⭐232)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
 
 ## [4. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [LosslessCut (⭐17k)](https://github.com/mifi/lossless-cut) - Lossless video trimming & cutting.
+*   [LosslessCut (⭐19k)](https://github.com/mifi/lossless-cut) - Lossless video trimming & cutting.
 
 ## [5. Awesome Mad Science](/content/feross/awesome-mad-science/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Frameworks, Libraries and Tools / Searching
 
-*   [AutoComplete (⭐201)](https://github.com/omerfarukz/autocomplete) - Persistent, simple, powerful and portable autocomplete library.
+*   [AutoComplete (⭐209)](https://github.com/omerfarukz/autocomplete) - Persistent, simple, powerful and portable autocomplete library.
 
 ## [7. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Game Frameworks / XML
 
-*   [Voxelman (⭐123)](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language
+*   [Voxelman (⭐122)](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language
 
 ## [9. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Libraries / Caching
 
-*   [jaemk/cached (⭐1.1k)](https://github.com/jaemk/cached) — Simple function caching/memoization
+*   [jaemk/cached (⭐1.2k)](https://github.com/jaemk/cached) — Simple function caching/memoization
 
 ## [2. Awesome R](/content/qinwf/awesome-R/README.md)
 

@@ -29,7 +29,7 @@
 
 ### Templates / Preferences
 
-*   [Smart Washing Machine (⭐751)](https://github.com/pawlik92/flutter_whirlpool) <!--stargazers:pawlik92/flutter_whirlpool--> - Smart washing machine UI challenge app with Box2D physic engine by [Tomasz Pawlikowski](https://github.com/pawlik92)
+*   [Smart Washing Machine (⭐822)](https://github.com/pawlik92/flutter_whirlpool) <!--stargazers:pawlik92/flutter_whirlpool--> - Smart washing machine UI challenge app with Box2D physic engine by [Tomasz Pawlikowski](https://github.com/pawlik92)
 
 ## [5. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Applications
 
-*   [wezterm (⭐8.8k)](https://github.com/wez/wezterm) — A GPU-accelerated cross-platform terminal emulator and multiplexer
+*   [wezterm (⭐11k)](https://github.com/wez/wezterm) — A GPU-accelerated cross-platform terminal emulator and multiplexer
 
 ## [9. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
@@ -81,7 +81,7 @@
 *   [MOONMOON](https://moonmoon.org/) <sup>[648](https://t.me/s/aboutrss/648)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/moonmoon/moonmoon)
 *   [TINT](https://www.tintup.com/blog/the-best-rss-widget/) <sup>[652](https://t.me/s/aboutrss/652)</sup>
 
-### Feed item filtering / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Feed item filtering / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSSFilter](https://rssfilter.netlify.app/) <sup>[655](https://t.me/s/aboutrss/655)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/bcongdon/rssfilter)
 
@@ -93,7 +93,7 @@
 
 ### Dependency Injection
 
-*   [Athena Dependency Injection (⭐8)](https://github.com/athena-framework/dependency-injection) - Robust dependency injection service container framework
+*   [Athena Dependency Injection (⭐9)](https://github.com/athena-framework/dependency-injection) - Robust dependency injection service container framework
 
 ### Framework Components
 
@@ -101,7 +101,7 @@
 
 ### Web Frameworks
 
-*   [Athena (⭐175)](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
+*   [Athena (⭐191)](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
 
 ## [12. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -271,7 +271,7 @@
 
 ### Menu
 
-*   [hamburger-react (⭐750)](https://github.com/luukdv/hamburger-react) - [demo/docs](https://hamburger-react.netlify.app/) - Animated hamburger menu icons for React.
+*   [hamburger-react (⭐824)](https://github.com/luukdv/hamburger-react) - [demo/docs](https://hamburger-react.netlify.app/) - Animated hamburger menu icons for React.
 
 ## [17. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 

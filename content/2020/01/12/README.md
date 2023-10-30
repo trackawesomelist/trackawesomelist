@@ -17,21 +17,20 @@
 
 ### Projects / Plugins
 
-*   [CoqHammer (⭐187)](https://github.com/lukaszcz/coqhammer) - General-purpose automated reasoning hammer tool that combines learning from previous proofs with the translation of problems to automated provers and the reconstruction of found proofs.
-*   [MetaCoq (⭐286)](https://github.com/MetaCoq/metacoq) - Project formalizing Coq in Coq and providing tools for manipulating Coq terms and developing certified plugins.
-*   [Unicoq (⭐45)](https://github.com/unicoq/unicoq) - Plugin that replaces the existing unification algorithm with an enhanced one.
+*   [CoqHammer (⭐192)](https://github.com/lukaszcz/coqhammer) - General-purpose automated reasoning hammer tool that combines learning from previous proofs with the translation of problems to automated provers and the reconstruction of found proofs.
+*   [MetaCoq (⭐305)](https://github.com/MetaCoq/metacoq) - Project formalizing Coq in Coq and providing tools for manipulating Coq terms and developing certified plugins.
+*   [Unicoq (⭐46)](https://github.com/unicoq/unicoq) - Plugin that replaces the existing unification algorithm with an enhanced one.
 
 ### Projects / Type Theory and Mathematics
 
-*   [GeoCoq (⭐153)](https://github.com/GeoCoq/GeoCoq) - Formalization of geometry based on Tarski's axiom system.
-*   [Homotopy Type Theory (⭐1.2k)](https://github.com/HoTT/HoTT) - Development of homotopy-theoretic ideas.
-*   [Math Classes (⭐157)](https://github.com/coq-community/math-classes) - Abstract interfaces for mathematical structures based on type classes.
-*   [Odd Order Theorem (⭐24)](https://github.com/math-comp/odd-order) - Formal proof of the Odd Order Theorem, a landmark result of finite group theory.
-*   [UniMath (⭐835)](https://github.com/UniMath/UniMath) - Library which aims to formalize a substantial body of mathematics using the univalent point of view.
+*   [GeoCoq (⭐156)](https://github.com/GeoCoq/GeoCoq) - Formalization of geometry based on Tarski's axiom system.
+*   [Math Classes (⭐158)](https://github.com/coq-community/math-classes) - Abstract interfaces for mathematical structures based on type classes.
+*   [Odd Order Theorem (⭐23)](https://github.com/math-comp/odd-order) - Formal proof of the Odd Order Theorem, a landmark result of finite group theory.
+*   [UniMath (⭐865)](https://github.com/UniMath/UniMath) - Library which aims to formalize a substantial body of mathematics using the univalent point of view.
 
 ### Projects / Verified Software
 
-*   [Fiat-Crypto (⭐574)](https://github.com/mit-plv/fiat-crypto) - Cryptographic primitive code generation.
+*   [Fiat-Crypto (⭐623)](https://github.com/mit-plv/fiat-crypto) - Cryptographic primitive code generation.
 *   [lambda-rust](https://gitlab.mpi-sws.org/iris/lambda-rust) - Formal model of a Rust core language and type system, a logical relation for the type system, and safety proofs for some Rust libraries.
 
 ## [2. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
@@ -61,7 +60,7 @@
 
 ### Apps / Doctrine Assessement
 
-*   [Doctrine (⭐47)](https://github.com/cdaniel/doctrine/) - A simple tool for visualising how competitive a company is in light of Wardley's doctrine. Hosted version available [here](https://doctrine.wardleymaps.com/).
+*   [Doctrine (⭐50)](https://github.com/cdaniel/doctrine/) - A simple tool for visualising how competitive a company is in light of Wardley's doctrine. Hosted version available [here](https://doctrine.wardleymaps.com/).
 
 ## [5. Awesome](/content/Awesome-Windows/Awesome/README.md)
 

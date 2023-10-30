@@ -51,11 +51,11 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Hare (⭐260)](https://github.com/clarkdo/hare) - 🐇 Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js
+*   [Hare (⭐258)](https://github.com/clarkdo/hare) - 🐇 Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js
 
 ### Components & Libraries / UI Components
 
-*   [Vue-Semantic-Modal (⭐46)](https://github.com/David-Desmaisons/Vue-Semantic-Modal) - Vue 2 Semantic-UI modal component without jQuery dependency
+*   [Vue-Semantic-Modal (⭐45)](https://github.com/David-Desmaisons/Vue-Semantic-Modal) - Vue 2 Semantic-UI modal component without jQuery dependency
 
 ---
 

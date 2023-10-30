@@ -23,12 +23,12 @@
 
 ### Misc
 
-*   [Shielded (⭐228)](https://github.com/jbakic/Shielded) - Software Transactional Memory (STM) implementation for .NET
+*   [Shielded (⭐231)](https://github.com/jbakic/Shielded) - Software Transactional Memory (STM) implementation for .NET
 
 ### WebSocket
 
-*   [SignalR (⭐8.9k)](https://github.com/SignalR/SignalR) - Library for ASP.NET developers that makes it incredibly simple to add real-time web functionality to your applications
-*   [SuperSocket (⭐3.6k)](https://github.com/kerryjiang/SuperSocket) - SuperSocket is a light weight extensible socket application framework
+*   [SignalR (⭐9k)](https://github.com/SignalR/SignalR) - Library for ASP.NET developers that makes it incredibly simple to add real-time web functionality to your applications
+*   [SuperSocket (⭐3.7k)](https://github.com/kerryjiang/SuperSocket) - SuperSocket is a light weight extensible socket application framework
 
 ## [4. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 
@@ -75,31 +75,31 @@
 
 ### [Wonderland Clojure Katas](https://github.com/gigasquid/wonderland-clojure-katas)
 
-*   [Alphabet Cipher (⭐829)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/alphabet-cipher)
-*   [Card game War (⭐829)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/card-game-war)
-*   [Doublets (⭐829)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/doublets)
-*   [Fox Goose Bag of Corn (⭐829)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/fox-goose-bag-of-corn)
-*   [Magic Square (⭐829)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/magic-square)
-*   [Tiny Maze (⭐829)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/tiny-maze)
-*   [Wonderland Number (⭐829)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/wonderland-number)
+*   [Alphabet Cipher (⭐848)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/alphabet-cipher)
+*   [Card game War (⭐848)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/card-game-war)
+*   [Doublets (⭐848)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/doublets)
+*   [Fox Goose Bag of Corn (⭐848)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/fox-goose-bag-of-corn)
+*   [Magic Square (⭐848)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/magic-square)
+*   [Tiny Maze (⭐848)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/tiny-maze)
+*   [Wonderland Number (⭐848)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/wonderland-number)
 
 ### [Gaurav Arora's TDD Katas Collection](https://github.com/garora/TDD-Katas)
 
-*   [String Sum Kata (⭐684)](https://github.com/garora/TDD-Katas#string-sum-kata)
-*   [String Calculator Kata (⭐684)](https://github.com/garora/TDD-Katas#string-calculator-kata-via-roy-osherove)
-*   [The Bowling Game Kata (⭐684)](https://github.com/garora/TDD-Katas#the-bowling-game-kata-via-uncle-bob)
-*   [The FizzBuzz Kata (⭐684)](https://github.com/garora/TDD-Katas#the-fizzbuzz-kata)
-*   [The OddEven Kata (⭐684)](https://github.com/garora/TDD-Katas#the-oddeven-kata)
-*   [The PrimeFactor Kata (⭐684)](https://github.com/garora/TDD-Katas#the-primefactor-kata-via-uncle-bob)
-*   [Game of Life (⭐684)](https://github.com/garora/TDD-Katas#game-of-life-)
-*   [Harry Potter (⭐684)](https://github.com/garora/TDD-Katas#harry-potter-)
-*   [LCD Digits (⭐684)](https://github.com/garora/TDD-Katas#lcd-digits-)
-*   [Leap Year (⭐684)](https://github.com/garora/TDD-Katas#leap-year-)
-*   [Mine Fields (⭐684)](https://github.com/garora/TDD-Katas#mine-fields-)
-*   [Poker Hands (⭐684)](https://github.com/garora/TDD-Katas#poker-hands)
-*   [Recently Used List (⭐684)](https://github.com/garora/TDD-Katas#recently-used-list-)
-*   [Reversi (⭐684)](https://github.com/garora/TDD-Katas#reversi-)
-*   [Yehtzee (⭐684)](https://github.com/garora/TDD-Katas#yehtzee-)
+*   [String Sum Kata (⭐707)](https://github.com/garora/TDD-Katas#string-sum-kata)
+*   [String Calculator Kata (⭐707)](https://github.com/garora/TDD-Katas#string-calculator-kata-via-roy-osherove)
+*   [The Bowling Game Kata (⭐707)](https://github.com/garora/TDD-Katas#the-bowling-game-kata-via-uncle-bob)
+*   [The FizzBuzz Kata (⭐707)](https://github.com/garora/TDD-Katas#the-fizzbuzz-kata)
+*   [The OddEven Kata (⭐707)](https://github.com/garora/TDD-Katas#the-oddeven-kata)
+*   [The PrimeFactor Kata (⭐707)](https://github.com/garora/TDD-Katas#the-primefactor-kata-via-uncle-bob)
+*   [Game of Life (⭐707)](https://github.com/garora/TDD-Katas#game-of-life-)
+*   [Harry Potter (⭐707)](https://github.com/garora/TDD-Katas#harry-potter-)
+*   [LCD Digits (⭐707)](https://github.com/garora/TDD-Katas#lcd-digits-)
+*   [Leap Year (⭐707)](https://github.com/garora/TDD-Katas#leap-year-)
+*   [Mine Fields (⭐707)](https://github.com/garora/TDD-Katas#mine-fields-)
+*   [Poker Hands (⭐707)](https://github.com/garora/TDD-Katas#poker-hands)
+*   [Recently Used List (⭐707)](https://github.com/garora/TDD-Katas#recently-used-list-)
+*   [Reversi (⭐707)](https://github.com/garora/TDD-Katas#reversi-)
+*   [Yehtzee (⭐707)](https://github.com/garora/TDD-Katas#yehtzee-)
 *   [The Word Wrap Kata](http://codingdojo.org/cgi-bin/wiki.pl?KataWordWrap)
 
 ### Others

@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 12, 2022
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,25 +14,25 @@
 
 ### Projects / Wallets
 
-*   [AlgoWorld-Contracts (⭐31)](https://github.com/algoworldNFT/algoworld-contracts) - Collection of all smart contracts used by AlgoWorld, written in PyTeal.
+*   [AlgoWorld-Contracts (⭐30)](https://github.com/algoworldNFT/algoworld-contracts) - Collection of all smart contracts used by AlgoWorld, written in PyTeal.
 
 ## [2. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 
 ### Communication
 
 *   [Mailsy (⭐19)](https://github.com/BalliAsghar/mailsy-alfred) - Quickly generate a disposable email.
-*   [Slack (⭐317)](https://github.com/yannickglt/alfred-slack) - Alfred workflow to interact, and perform various functions with the service Slack.
-*   [TemporaryEmail (⭐2.3k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/TemporaryEmail) - Get a temporary email inbox.
+*   [Slack (⭐320)](https://github.com/yannickglt/alfred-slack) - Alfred workflow to interact, and perform various functions with the service Slack.
+*   [TemporaryEmail (⭐2.4k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/TemporaryEmail) - Get a temporary email inbox.
 
 ### Developer
 
-*   [AWS Console Services (⭐304)](https://github.com/rkoval/alfred-aws-console-services-workflow) - Quickly open up AWS Console Services in your browser or search for entities within them.
+*   [AWS Console Services (⭐306)](https://github.com/rkoval/alfred-aws-console-services-workflow) - Quickly open up AWS Console Services in your browser or search for entities within them.
 *   [Bootstrap Icons (⭐19)](https://github.com/ruedap/alfred-bootstrap-icons-workflow) - Quickly look up Bootstrap Icons and add the desired one to your clipboard.
-*   [caniuse.rs (⭐7)](https://github.com/robjtede/alfred-caniuse-rs) - Rust feature support and version info from [caniuse.rs](https://caniuse.rs).
+*   [caniuse.rs (⭐8)](https://github.com/robjtede/alfred-caniuse-rs) - Rust feature support and version info from [caniuse.rs](https://caniuse.rs).
 
 ### Productivity
 
-*   [Timing (⭐30)](https://github.com/skibitsky/alfred-timing) - Interact with the [Timing](https://timingapp.com/) app.
+*   [Timing (⭐32)](https://github.com/skibitsky/alfred-timing) - Interact with the [Timing](https://timingapp.com/) app.
 
 ### Other Lists
 
@@ -44,13 +44,7 @@
 
 *   [Cal-ITP Operational Data Standard (ODS)](https://docs.calitp.org/operational-data-standard/) -  Intended to address the lack of a standard format for representing transit schedules used by drivers, dispatchers, and planners to carry out transit operations.
 
-## [4. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
-
-### Hacks and homebrew / Ironsworn
-
-*   [Vaults & Vows](https://docs.google.com/document/d/1hBwpWN1hXWFUXF_I5nBVpNL4YuCh2q0HS3H40UXJx2U/edit) - Classic fantasy roleplaying supplement
-
-## [5. Awesome Video](/content/krzemienski/awesome-video/README.md)
+## [4. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
 ### Learning / Books
 
@@ -58,27 +52,27 @@
 *   [The H.264 Advanced Video Compression Standard](https://www.amazon.de/-/en/Iain-Richardson/dp/0470516925)  - 2010-04-23. Richardson, Iain.
 *   [Video Demystified: A Handbook for the Digital Engineer](https://www.amazon.com/Video-Demystified-Handbook-Digital-Engineer/dp/0750683953)  - 2007-05-14. Jack, Keith.
 
-## [6. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [5. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
-*   [Crabtyper (⭐186)](https://github.com/brancobruyneel/crabtyper) - A speedtyping web app written in Rust.
+*   [Crabtyper (⭐187)](https://github.com/brancobruyneel/crabtyper) - A speedtyping web app written in Rust.
 
-## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Oh-My-Zsh
 
 *   [Configuration to use Hyper.js as a ZSH terminal with a Windows Subsystem Linux on windows 10, with Oh My Zsh and the Powerlevel10k theme (⭐2)](https://github.com/jkergal/hyperjs-wsl-zsh-powerlevel10k-config-on-windows/) - How-to for getting Oh-My-ZSH running on WSL.
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [omz-git (⭐0)](https://github.com/aeons/omz-git) - [Oh-My-ZSH](https://ohmyz.sh/)'s [git (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git) plugin re-packaged to be standalone.
+*   [omz-git (⭐1)](https://github.com/aeons/omz-git) - [Oh-My-ZSH](https://ohmyz.sh/)'s [git (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git) plugin re-packaged to be standalone.
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [biratime (⭐2)](https://github.com/vemonet/biratime) - Based on the [bira (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) theme, but displays the date instead of the username in the prompt.
+*   [biratime (⭐2)](https://github.com/vemonet/biratime) - Based on the [bira (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) theme, but displays the date instead of the username in the prompt.
 
-## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Links / Blogs
 
@@ -90,7 +84,7 @@
 *   [Effective Kotlin](https://kt.academy/book/effectivekotlin)
 *   [Kotlin Coroutines: Deep Dive](https://kt.academy/book/coroutines) - A practical book dedicated to Kotlin Coroutines, common use-cases, best practices and deep understanding.
 
-## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Problem Solving / Reinforcement Learning
 

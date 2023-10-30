@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 25, 2020
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### API
 
-*   [Swiftkube (⭐100)](https://github.com/swiftkube/client) :penguin: - Swift client for Kubernetes.
+*   [Swiftkube (⭐108)](https://github.com/swiftkube/client) :penguin: - Swift client for Kubernetes.
 
 ## [2. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
@@ -48,7 +48,7 @@
 ### Packages / Ecosystem
 
 *   [LGSVL](https://www.lgsvlsimulator.com/) - Simulation software to accelerate safe autonomous vehicle development.
-*   [Unity Robotics Hub (⭐1.5k)](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - This is a central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity.
+*   [Unity Robotics Hub (⭐1.6k)](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - This is a central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity.
 
 ### Organizations / Robotics Capture the Flag (RCTF)
 
@@ -58,7 +58,7 @@
 
 ### Compilers / Experimental/Proof of Concepts
 
-*   [gbdk-go (⭐20)](https://github.com/pokemium/gbdk-go) - A compiler translates Go programs to C code. The output C code is built into GB ROM by GBDK.
+*   [gbdk-go (⭐19)](https://github.com/pokemium/gbdk-go) - A compiler translates Go programs to C code. The output C code is built into GB ROM by GBDK.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -70,37 +70,31 @@
 
 *   [vue-notification-ui (⭐5)](https://github.com/HELMAB/vue-notification-ui) - A simple push the notification UI with Vue.js
 
-## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
-
-### Radio and Podcasts Tools / Telegram
-
-*   [Podgrab (⭐1.1k)](https://github.com/akhilrex/podgrab)
-
-## [11. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [10. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Applets / Design Tooling
 
 *   [Caffeine](https://extensions.gnome.org/extension/517/caffeine/) - Applet that let you deactivate the GNOME lock screen.
 
-## [12. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [11. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Simultaneous Localization and Mapping / Visual
 
 *   [gradslam (⭐1.1k)](https://github.com/gradslam/gradslam) - An open source differentiable dense SLAM library for PyTorch.
 
-## [13. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [12. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Gaming
 
 *   [Work With Indies](https://www.workwithindies.com) - A single place find all the cool jobs in indie games
 
-## [14. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [13. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Software / Video
 
-*   [MPV](https://mpv.io/) - Customizable multimedia player with scripting support. ([GNU GPLv2 (⭐20k)](https://github.com/mpv-player/mpv/blob/master/LICENSE.GPL/))
+*   [MPV](https://mpv.io/) - Customizable multimedia player with scripting support. ([GNU GPLv2 (⭐23k)](https://github.com/mpv-player/mpv/blob/master/LICENSE.GPL/))
 
-## [15. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [14. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### Layout
 

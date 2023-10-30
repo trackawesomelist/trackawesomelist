@@ -30,13 +30,13 @@
 
 ### Frameworks, Libraries and Tools / Application Templates
 
-*   [JavaScriptServices (⭐3.1k)](https://github.com/aspnet/JavaScriptServices) - Microsoft ASP.NET Core JavaScript Services.
+*   [JavaScriptServices (⭐3k)](https://github.com/aspnet/JavaScriptServices) - Microsoft ASP.NET Core JavaScript Services.
 
 ## [5. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Software / Julia
 
-*   [TikzGraphs (⭐73)](https://github.com/sisl/TikzGraphs.jl) - Package to create graph layouts using the TikZ graphics language.
+*   [TikzGraphs (⭐77)](https://github.com/sisl/TikzGraphs.jl) - Package to create graph layouts using the TikZ graphics language.
 
 ---
 

@@ -67,7 +67,7 @@
 
 ### OS Images
 
-*   [DietPi (⭐3.7k)](https://github.com/Fourdee/DietPi) - Minimal image designed to fit on a 2GB SD card, with tons of configurable settings and scripts.
+*   [DietPi (⭐1)](https://github.com/Fourdee/DietPi) - Minimal image designed to fit on a 2GB SD card, with tons of configurable settings and scripts.
 
 ## [6. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
@@ -86,7 +86,7 @@
 ### Modules / Object
 
 *   [merge-objects (⭐2)](https://github.com/shevaroller/node-merge-objects) - Deep-merge two objects. Arrays that are values of the same object key get concatenated.
-*   [deep-object-diff (⭐818)](https://github.com/mattphillips/deep-object-diff) - Deep diff two JavaScript Objects while preserving the data structure. Including nested structures of Arrays and Objects.
+*   [deep-object-diff (⭐945)](https://github.com/mattphillips/deep-object-diff) - Deep diff two JavaScript Objects while preserving the data structure. Including nested structures of Arrays and Objects.
 
 ## [9. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [urchin (⭐209)](https://github.com/tlevine/urchin) - An idiomatic shell testing framework that uses only shell commands
+*   [urchin (⭐210)](https://github.com/tlevine/urchin) - An idiomatic shell testing framework that uses only shell commands
 
 ## [10. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
 
@@ -318,11 +318,11 @@
 
 ### Misc
 
-*   [DeviceId (⭐572)](https://github.com/MatthewKing/DeviceId) - Generate a 'device ID' that can be used to uniquely identify a computer.
+*   [DeviceId (⭐607)](https://github.com/MatthewKing/DeviceId) - Generate a 'device ID' that can be used to uniquely identify a computer.
 
 ### Object to object mapping
 
-*   [AgileMapper (⭐445)](https://github.com/agileobjects/AgileMapper) - A zero-configuration Object-Object mapper supporting .NET Standard 1.0
+*   [AgileMapper (⭐448)](https://github.com/agileobjects/AgileMapper) - A zero-configuration Object-Object mapper supporting .NET Standard 1.0
 
 ## [17. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -334,7 +334,7 @@
 
 ### Source Code Repos
 
-*   [projectlocker.com](https://projectlocker.com) — One free private project (Git and Subversion) with 50 MB space
+*   [projectlocker.com](https://projectlocker.com) — One free private project (Git and Subversion) with 50 MB of space
 
 ### CI and CD
 
@@ -344,7 +344,7 @@
 
 ### Integrations / Components
 
-*   [GraphQL + Angular (⭐1.4k)](https://github.com/apollographql/apollo-angular)
+*   [GraphQL + Angular (⭐1.5k)](https://github.com/apollographql/apollo-angular)
 
 ## [20. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
 
@@ -383,8 +383,8 @@
 
 ### Learning Swift: Advanced Topics
 
-*   [Swift Regular Expressions (⭐10)](https://github.com/ogulcan/SwiftRegEx) - A playground to learn regular expressions with Swift.
-*   [Network Stack (⭐34)](https://github.com/AndrejKolar/NetworkStack) - Clean & simple Swift networking stack playground.
+*   [Swift Regular Expressions (⭐12)](https://github.com/ogulcan/SwiftRegEx) - A playground to learn regular expressions with Swift.
+*   [Network Stack (⭐35)](https://github.com/AndrejKolar/NetworkStack) - Clean & simple Swift networking stack playground.
 
 ### Apple's Playgrounds / Functional Reactive Programming
 
@@ -392,7 +392,7 @@
 
 ### Theoretical Computer Science / Algorithms and Data Structures
 
-*   [A Star (⭐33)](https://github.com/Dev1an/A-Star) - Protocol oriented A\* pathfinding algorithm implementation in Swift 4.🍁
+*   [A Star (⭐35)](https://github.com/Dev1an/A-Star) - Protocol oriented A\* pathfinding algorithm implementation in Swift 4.🍁
 
 ### UIKit And Graphics / Animations
 
@@ -402,7 +402,7 @@
 
 ### Web / Scanning / Pentesting
 
-*   [ACSTIS (⭐276)](https://github.com/tijme/angularjs-csti-scanner) - ACSTIS helps you to scan certain web applications for AngularJS Client-Side Template Injection (sometimes referred to as CSTI, sandbox escape or sandbox bypass). It supports scanning a single request but also crawling the entire web application for the AngularJS CSTI vulnerability.
+*   [ACSTIS (⭐284)](https://github.com/tijme/angularjs-csti-scanner) - ACSTIS helps you to scan certain web applications for AngularJS Client-Side Template Injection (sometimes referred to as CSTI, sandbox escape or sandbox bypass). It supports scanning a single request but also crawling the entire web application for the AngularJS CSTI vulnerability.
 
 ## [26. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
 
@@ -478,7 +478,7 @@
 
 ### HTTP Servers / Clack plugins
 
-*   [clack-pretend (⭐12)](https://github.com/BnMcGn/clack-pretend) - a testing
+*   [clack-pretend (⭐11)](https://github.com/BnMcGn/clack-pretend) - a testing
     and debugging tool for clack. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ## [32. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
@@ -510,7 +510,17 @@
 *   [Hide Files on GitHub (⭐306)](https://github.com/sindresorhus/hide-files-on-github)
 *   [mdn/webextension-examples (⭐3.4k)](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation.
 
-## [33. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [33. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### C / Non-X86
+
+*   [Functional C (1997)](https://research.utwente.nl/files/5128727/book.pdf) - Pieter H. Hartel, Henk Muller (PDF)
+
+### Verilog / Deno
+
+*   [Verilog Quick Reference Guide - Sutherland HDL](http://sutherland-hdl.com/pdfs/verilog_2001_ref_guide.pdf) (PDF)
+
+## [34. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Community Resources
 
@@ -552,7 +562,7 @@
 
 *   [homely (⭐15)](https://github.com/baol/homely) - Collection of Go daemons for connecting Domoticz and other stuff.
 
-## [34. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [35. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Systems
 
@@ -570,13 +580,13 @@
     *   [Practicals](http://uvadlc.github.io/#practicals)
     *   [Readings](http://uvadlc.github.io/#other-links)
 
-## [35. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [36. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Productivity
 
 *   [Keyboard Maestro](http://www.keyboardmaestro.com) - Automate routine actions based on triggers from keyboard, menu, location, added devices, and more.
 
-## [36. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Official Resources
 
@@ -600,27 +610,27 @@
 *   [Testing Vue.js Applications](https://www.manning.com/books/testing-vuejs-applications) by Edd Yerburgh (Summer 2018)
 *   [Vue.js 2 and Bootstrap 4 Web Development](https://www.packtpub.com/web-development/vuejs-2-and-bootstrap-4-web-development) by Olga Filipova, Packt. (September 2017)
 
-## [37. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [38. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Featured Projects / Slides and Notes
 
 *   [grid-styled (⭐2.1k)](https://github.com/jxnblk/grid-styled) - Flexbox based responsive ReactJS grid system built with styled-components
 
-## [38. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+## [39. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
 ### Modules
 
 *   [Framer Sheet (⭐17)](https://github.com/andrewliebchen/framer-sheet) - Import information from Google Sheets into Framer.
 *   [FramerAudio (⭐47)](https://github.com/benjamindenboer/FramerAudio) — Module that allows you to design audio interfaces in Framer.
 
-## [39. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [40. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Bibliography / HTML+CSS+JS
 
 *   [Mendeley](https://www.mendeley.com/): A bibliography reference manager with cloud storage and BibTeX support.
 *   [Zotero](https://www.zotero.org/): An open source bibliography reference manager with syncing and BibTeX support.
 
-## [40. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [41. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Hardware
 
@@ -630,13 +640,13 @@
 
 *   [Pimatic](https://pimatic.org/) - Pimatic is a home automation framework that runs on node.js. It provides a common extensible platform for home control and automation tasks.
 
-## [41. Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/week/README.md)
+## [42. Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/week/README.md)
 
 ### Courses
 
 *   [Coursera - Text Retrieval and Search Engines](https://www.coursera.org/learn/text-retrieval) -  Prof. ChengXiang Zhai (University of Illinois at Urbana-Champaign).
 
-## [42. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [43. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
@@ -647,25 +657,25 @@
 *   [Maths & trigonometry cheat sheet for 2D & 3D games](https://gist.github.com/xem/99930986c5333125a13b0ea50600391f) - Maths cheat-sheet for 2D and 3D game-makers.
 *   [Tiny 3D](https://cantelope.org/tiny_3D/) - The smallest possible perspective engine on a 2D canvas.
 
-## [43. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [44. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### HTTP
 
-*   [crest (⭐223)](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem
+*   [crest (⭐225)](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem
 
-## [44. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [45. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Godot version unknown
 
 *   [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) - Screen shake effect for Camera2D.
 
-## [45. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
+## [46. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
 
 ### Books / Other
 
 *   **[SideProject Books](https://books.makesideproject.com/)** - Side Project Books is a curated collection of books for anyone interested in building a business on the side. By [Mubashar Iqbal](https://twitter.com/mubashariqbal)
 
-## [46. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [47. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / B companies
 
@@ -698,16 +708,6 @@
 
 *   Matthew Green <https://blog.cryptographyengineering.com/>
 
-## [47. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
-
-### 0 - 言語非依存 / グラフィックスプログラミング
-
-*   [iOS OpenGL ES プログラミングガイド](https://developer.apple.com/jp/documentation/3DDrawing/Conceptual/OpenGLES_ProgrammingGuide/Introduction/Introduction.html) - Apple Developer (HTML)
-
-### OCaml / Svelte
-
-*   [Objective Caml 入門](https://web.archive.org/web/20161128072705/http://www.fos.kuis.kyoto-u.ac.jp:80/~t-sekiym/classes/isle4/mltext/ocaml.html) - 五十嵐淳
-
 ## [48. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### NewSQL Databases
@@ -716,7 +716,7 @@
 
 ### Time-Series Databases
 
-*   [SiriDB (⭐467)](https://github.com/transceptor-technology/siridb-server) Highly-scalable, robust and fast, open source time series database with cluster functionality.
+*   [SiriDB (⭐480)](https://github.com/transceptor-technology/siridb-server) Highly-scalable, robust and fast, open source time series database with cluster functionality.
 
 ## [49. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
@@ -764,8 +764,8 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [CliWrap (⭐2.1k)](https://github.com/Tyrrrz/CliWrap) - Wrapper for command line interfaces.
-*   [httpclient-interception (⭐227)](https://github.com/justeat/httpclient-interception) - .NET Standard library for intercepting server-side HTTP dependencies.
+*   [CliWrap (⭐3.9k)](https://github.com/Tyrrrz/CliWrap) - Wrapper for command line interfaces.
+*   [httpclient-interception (⭐298)](https://github.com/justeat/httpclient-interception) - .NET Standard library for intercepting server-side HTTP dependencies.
 
 ### Frameworks, Libraries and Tools / ORM
 
@@ -799,7 +799,7 @@
 
 ### Transition / Barcode
 
-*   [Cards XI (⭐4.1k)](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 AppStore's Card Views.
+*   [Cards XI (⭐4.2k)](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 AppStore's Card Views.
 
 ---
 

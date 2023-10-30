@@ -11,13 +11,13 @@
 ### GDScript/C# editor support / Godot version unknown
 
 *   [Atom](https://atom.io/packages/lang-gdscript) - Syntax highlighting.
-*   [Geany (⭐18)](https://github.com/haimat/GDScript-Geany) - Syntax highlighting.
-*   [Gedit (⭐16)](https://github.com/haimat/GDScript-gedit) - Syntax highlighting.
+*   [Geany (⭐19)](https://github.com/haimat/GDScript-Geany) - Syntax highlighting.
+*   [Gedit (⭐18)](https://github.com/haimat/GDScript-gedit) - Syntax highlighting.
 *   [Sublime Text (⭐65)](https://github.com/beefsack/GDScript-sublime) - Syntax highlighting.
 
 ### Godot script editor syntax themes / Godot version unknown
 
-*   [base16-godot (⭐26)](https://github.com/Calinou/base16-godot) - All [base16 (⭐222)](https://github.com/chriskempson/base16) themes.
+*   [base16-godot (⭐28)](https://github.com/Calinou/base16-godot) - All [base16 (⭐289)](https://github.com/chriskempson/base16) themes.
 
 ## [2. Awesome Java](/content/akullpp/awesome-java/README.md)
 
@@ -25,9 +25,9 @@
 
 *   [cache2k](https://cache2k.org) - In-memory high performance caching library.
 
-### Development
+### Development / Text-Based User Interfaces
 
-*   [SneakyThrow (⭐73)](https://github.com/rainerhahnekamp/sneakythrow) - Ignores checked exceptions without bytecode manipulation. Can also be used inside Java 8 stream operations.
+*   [SneakyThrow (⭐75)](https://github.com/rainerhahnekamp/sneakythrow) - Ignores checked exceptions without bytecode manipulation. Can also be used inside Java 8 stream operations.
 
 ## [3. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
@@ -39,21 +39,21 @@
 
 ### ORM and Datamapping
 
-*   [ecto\_shortuuid (⭐24)](https://github.com/gpedic/ecto_shortuuid) - Ecto type which adds support for [ShortUUIDs (⭐38)](https://github.com/gpedic/ex_shortuuid).
+*   [ecto\_shortuuid (⭐28)](https://github.com/gpedic/ecto_shortuuid) - Ecto type which adds support for [ShortUUIDs (⭐38)](https://github.com/gpedic/ex_shortuuid).
 
 ## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [NuKeeper (⭐532)](https://github.com/NuKeeperDotNet/NuKeeper) - Automagically update nuget packages in .NET projects.
+*   [NuKeeper (⭐539)](https://github.com/NuKeeperDotNet/NuKeeper) - Automagically update nuget packages in .NET projects.
 
 ## [6. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Libraries / PHP
 
-*   [PHPMongo ODM (⭐239)](https://github.com/sokil/php-mongo) - ODM based on the PHP Mongo PECL extension
+*   [PHPMongo ODM (⭐241)](https://github.com/sokil/php-mongo) - ODM based on the PHP Mongo PECL extension
 *   [PHPMongo Migrator (⭐29)](https://github.com/sokil/php-mongo-migrator) - Migration tool based on PHPMongo ODM
-*   [yadm (⭐83)](https://github.com/formapro/yadm) - Fast schemaless ODM
+*   [yadm (⭐84)](https://github.com/formapro/yadm) - Fast schemaless ODM
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 09 - Jul 15, 2018
 
-40 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -23,7 +23,7 @@
 
 ### Software / Miscellaneous
 
-*   [AlertHub (⭐145)](https://github.com/Ardakilic/alerthub) `⚠` - AlertHub is a simple tool to get alerted from GitHub releases. `MIT` `Nodejs`
+*   [AlertHub (⭐163)](https://github.com/Ardakilic/alerthub) `⚠` - AlertHub is a simple tool to get alerted from GitHub releases. `MIT` `Nodejs/Docker`
 
 ## [4. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
@@ -35,21 +35,21 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [dotvvm (⭐631)](https://github.com/riganti/dotvvm) - Open source MVVM framework for Web Apps.
+*   [dotvvm (⭐701)](https://github.com/riganti/dotvvm) - Open source MVVM framework for Web Apps.
 
 ### Frameworks, Libraries and Tools / IOC
 
-*   [Grace (⭐290)](https://github.com/ipjohnson/Grace) - Grace is a feature rich Dependency Injection Container designed with ease of use and performance in mind.
+*   [Grace (⭐326)](https://github.com/ipjohnson/Grace) - Grace is a feature rich Dependency Injection Container designed with ease of use and performance in mind.
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [PuppeteerSharp (⭐2.4k)](https://github.com/kblok/puppeteer-sharp) - Puppeteer Sharp is a .NET port of the official Node.JS Puppeteer API.
+*   [PuppeteerSharp (⭐2.9k)](https://github.com/kblok/puppeteer-sharp) - Puppeteer Sharp is a .NET port of the official Node.JS Puppeteer API.
 
 ### Articles / Workflow
 
 *   Entity Framework Core
     *   [.NET Core Data Access](https://blogs.msdn.microsoft.com/dotnet/2016/11/09/net-core-data-access/)
-    *   [A very good example about EF Core (⭐115)](https://github.com/rowanmiller/Demo-EFCore)
+    *   [A very good example about EF Core (⭐116)](https://github.com/rowanmiller/Demo-EFCore)
     *   [Connect to Postgres with EF Core](http://en.otomatikmuhendis.com/2017/05/05/connect-to-postgres-with-ef-core/)
 
 ## [6. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
@@ -76,25 +76,19 @@
 
 *   [DevExtreme Reactive](https://devexpress.github.io/devextreme-reactive/react) - High-performance plugin-based React components for Material Design.
 
-## [10. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
-
-### JavaScript tools / React
-
-*   [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - High-performance plugin-based React chart for Bootstrap and Material Design.
-
-## [11. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [10. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Resources / Books
 
 *   [Web Audio API](https://webaudioapi.com/book/) - Intended to be a springboard for web developers with little to no digital audio expertise. Geared towards game audio and interactive apps.
 
-## [12. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [11. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Other Tools / Telegram
 
-*   [Orbit (⭐462)](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
+*   [Orbit (⭐472)](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 
-## [13. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [12. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Online Books
 
@@ -113,25 +107,25 @@
 *   [ml5.js](https://ml5js.org/) - Friendly machine learning for the web.
 *   [Model Zoo](https://modelzoo.co/) - Discover open source deep learning code and pretrained models.
 
-## [14. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [13. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / H companies
 
 *   HERE <https://developer.here.com/blog>
 
-## [15. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [14. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Testing / Mocking
 
 *   [JMockit](http://jmockit.github.io) - Integration testing, API mocking and faking, and code coverage.
 
-## [16. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [15. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Computer Vision
 
-*   [albumentations (⭐12k)](https://github.com/albu/albumentations) - А fast and framework agnostic image augmentation library that implements a diverse set of augmentation techniques. Supports classification, segmentation, detection out of the box. Was used to win a number of Deep Learning competitions at Kaggle, Topcoder and those that were a part of the CVPR workshops.
+*   [albumentations (⭐13k)](https://github.com/albu/albumentations) - А fast and framework agnostic image augmentation library that implements a diverse set of augmentation techniques. Supports classification, segmentation, detection out of the box. Was used to win a number of Deep Learning competitions at Kaggle, Topcoder and those that were a part of the CVPR workshops.
 
-## [17. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [16. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Miscellaneous
 
@@ -143,34 +137,34 @@
 
 ### i18n / Third-party APIs
 
-*   [enchant (⭐16)](https://github.com/tlikonen/cl-enchant) - bindings for the Enchant spell-checker library. Public domain.
+*   [enchant (⭐17)](https://github.com/tlikonen/cl-enchant) - bindings for the Enchant spell-checker library. Public domain.
 
-## [18. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [17. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
 *   [DSL-JSON (⭐825)](http://github.com/ngs-doo/dsl-json) - High performance JSON library with advanced compile-time databinding.
 *   [jsoniter](http://jsoniter.com/) - Claims to be the fastest JSON parser ever (copy of DSL-JSON).
 
-## [19. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [18. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Lambda
 
 *   [jorgebastida/gordon :fire::fire::fire::fire::fire: (⭐2k)](https://github.com/jorgebastida/gordon) - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation.
 
-## [20. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [19. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Plugins / Aurelia Articles
 
 *   [aurelia-json-schema-form (⭐13)](https://github.com/jbockle/aurelia-json-schema-form) \* A completely customizable plugin to dynamically generate forms & validate them based on JSON schema
 
-## [21. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [20. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Implementations/Compilers
 
 *   [LinCAS-lang](https://github.com/LinCAS-lang) - A programming language for scientific computation
 
-## [22. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [21. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### United States 🇺🇸 / Texas
 
@@ -184,7 +178,7 @@ Webpage: <https://yoghut.com/>
 | ---- | ----- | ------------- | ------------------------------------------------------------------- | ------------------------------------ |
 | ✔    | ✔     | ❄️/♨️         | [601 Main St, Columbia, SC 29201](https://goo.gl/maps/CPWuqG7QcVH2) | Mon-Sat 9:30AM-11PM, Sun 10:30AM-1PM |
 
-## [23. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Third party Guides
 
@@ -192,13 +186,13 @@ Webpage: <https://yoghut.com/>
 
 ### Animation
 
-*   [Sica (⭐1k)](https://github.com/cats-oss/Sica) - Simple Interface Core Animation. Run type-safe animation sequencially or parallelly.
+*   [Sica (⭐1.1k)](https://github.com/cats-oss/Sica) - Simple Interface Core Animation. Run type-safe animation sequencially or parallelly.
 
 ### TextField / Barcode
 
 *   [StyledTextKit (⭐1.2k)](https://github.com/GitHawkApp/StyledTextKit) - Declarative building and fast rendering attributed string library.
 
-## [24. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [23. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Articles
 
@@ -208,9 +202,9 @@ Webpage: <https://yoghut.com/>
 
 ### Extensions
 
-*   [Next SEO (⭐6.5k)](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
+*   [Next SEO (⭐6.9k)](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
 
-## [25. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [24. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### SSRF - Server-Side Request Forgery
 
@@ -224,54 +218,58 @@ Webpage: <https://yoghut.com/>
 
 *   [XSStrike (⭐11k)](https://github.com/s0md3v/XSStrike) - XSStrike is a program which can fuzz and bruteforce parameters for XSS. It can also detect and bypass WAFs by [@s0md3v](https://github.com/s0md3v).
 
-## [26. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [25. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Endpoint / Anti-Virus / Anti-Malware
 
-*   [LOKI (⭐2.9k)](https://github.com/Neo23x0/Loki) - Simple Indicators of Compromise and Incident Response Scanner
+*   [LOKI (⭐3k)](https://github.com/Neo23x0/Loki) - Simple Indicators of Compromise and Incident Response Scanner
 
-## [27. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [26. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Math
 
-*   [StatsLib (⭐443)](https://github.com/kthohr/stats) - A C++ header-only library of statistical distribution functions. \[Apache2] [website](https://www.kthohr.com/statslib.html)
+*   [StatsLib (⭐475)](https://github.com/kthohr/stats) - A C++ header-only library of statistical distribution functions. \[Apache2] [website](https://www.kthohr.com/statslib.html)
 
-## [28. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
+## [27. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
 
 ### Programming Language Design Patterns
 
 *   Go
     *   [design-patterns (⭐21k)](https://github.com/tmrts/go-patterns)
 
-## [29. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [28. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
 *   [Women Who Go](https://www.womenwhogo.org/) - A network focused on building a more diverse and inclusive Golang community.
 
-## [30. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [29. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
 *   [HackerX](https://www.hackerx.org/jobs/)
 *   [Remotees](https://remotees.com/)
 
-## [31. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [30. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Menu Bar Tools
 
-*   [iGlance (⭐2.3k)](https://github.com/Moneypulation/iGlance) - macOS System Monitor for the Status Bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Moneypulation/iGlance) [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Moneypulation/iGlance)
+*   [iGlance (⭐2.4k)](https://github.com/Moneypulation/iGlance) - macOS System Monitor for the Status Bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Moneypulation/iGlance) [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Moneypulation/iGlance)
 
-## [32. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [31. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+
+### Data Visualization
+
+*   [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - High-performance plugin-based React chart for Bootstrap and Material Design.
 
 ### Columnar Databases
 
 *   [Google BigQuery](https://cloud.google.com/bigquery/what-is-bigquery) - Google's cloud offering backed by their pioneering work on Dremel.
 *   [Amazon Redshift](https://aws.amazon.com/redshift/) - Amazon's cloud offering, also based on a columnar datastore backend.
-*   [IndexR (⭐448)](https://github.com/shunfei/indexr) - an open-source columnar storage format for fast & realtime analytic with big data.
-*   [LocustDB (⭐1.4k)](https://github.com/cswinter/LocustDB) - an experimental analytics database aiming to set a new standard for query performance on commodity hardware.
+*   [IndexR (⭐449)](https://github.com/shunfei/indexr) - an open-source columnar storage format for fast & realtime analytic with big data.
+*   [LocustDB (⭐1.5k)](https://github.com/cswinter/LocustDB) - an experimental analytics database aiming to set a new standard for query performance on commodity hardware.
 
-## [33. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [32. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### References
 
@@ -301,13 +299,13 @@ Webpage: <https://yoghut.com/>
 
 *   [CopperLicht](https://www.ambiera.com/copperlicht/index.html) - JavaScript library and WebGL 3D engine for creating games and 3D applications.
 
-## [34. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [33. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Board support crates / Texas Instruments
 
-*   [`monotron`](https://github.com/thejpster/monotron) - A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses [menu (⭐34)](https://github.com/thejpster/menu), [vga-framebuffer (⭐30)](https://github.com/thejpster/vga-framebuffer-rs) and [pc-keyboard (⭐87)](https://github.com/thejpster/pc-keyboard).
+*   [`monotron`](https://github.com/thejpster/monotron) - A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses [menu (⭐40)](https://github.com/thejpster/menu), [vga-framebuffer (⭐31)](https://github.com/thejpster/vga-framebuffer-rs) and [pc-keyboard (⭐89)](https://github.com/thejpster/pc-keyboard).
 
-## [35. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [34. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Malware Collection / Malware Corpora
 
@@ -317,13 +315,13 @@ Webpage: <https://yoghut.com/>
 
 *   [Generic File Parser](https://github.com/uppusaikiran/generic-parser) - A Single Library Parser to extract meta information,static analysis and detect macros within the files.
 
-## [36. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [35. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
 *   [How a cat inspired system reliability at Knowlarity](https://medium.com/@Knowlarity_Engineering/how-a-cat-inspired-system-reliability-at-knowlarity-ad73c24f29a7)
 
-## [37. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [36. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Testing
 
@@ -337,7 +335,7 @@ Webpage: <https://yoghut.com/>
 
 *   [Test helpers: The next generation](https://dockyard.com/blog/2018/01/18/test-helpers-the-next-generation)
 
-## [38. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [37. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Advanced
 
@@ -346,19 +344,19 @@ Webpage: <https://yoghut.com/>
 ### Auth / Image Picker
 
 *   [Firebase Phone Auth](https://medium.com/@gildaswise/flutter-adding-sign-in-with-google-and-phone-authentication-to-your-app-69f681518f9b) <!--claps:@gildaswise/flutter-adding-sign-in-with-google-and-phone-authentication-to-your-app-69f681518f9b--> - Phone number auth via SMS by [Gildásio Filho](https://github.com/gildaswise)
-*   [SimpleAuth (⭐340)](https://github.com/Clancey/simple_auth) <!--stargazers:Clancey/simple_auth--> - Azure Active Directory, Amazon, Dropbox, Facebook, Github, Google, Instagram, Linked In, Microsoft Live Connect, Github, OAuth, Basic Auth by [James Clancey](https://github.com/Clancey)
+*   [SimpleAuth (⭐346)](https://github.com/Clancey/simple_auth) <!--stargazers:Clancey/simple_auth--> - Azure Active Directory, Amazon, Dropbox, Facebook, Github, Google, Instagram, Linked In, Microsoft Live Connect, Github, OAuth, Basic Auth by [James Clancey](https://github.com/Clancey)
 
 ### Templates / Preferences
 
-*   [Book (⭐317)](https://github.com/putraxor/flutter-book-app) <!--stargazers:putraxor/flutter-book-app--> - Bookshelf by [Ardiansyah Putra](https://github.com/putraxor)
+*   [Book (⭐341)](https://github.com/putraxor/flutter-book-app) <!--stargazers:putraxor/flutter-book-app--> - Bookshelf by [Ardiansyah Putra](https://github.com/putraxor)
 
-## [39. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [38. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Command Line / XML
 
 *   [darg (⭐37)](https://github.com/jasonwhite/darg) - Robust command line argument parsing for D.
 
-## [40. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [39. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Testing & Debugging
 

@@ -16,7 +16,7 @@
 
 ### Serialization
 
-*   [cppcodec (⭐515)](https://github.com/tplgy/cppcodec) - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. \[MIT]
+*   [cppcodec (⭐554)](https://github.com/tplgy/cppcodec) - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. \[MIT]
 
 ### Miscellaneous
 
@@ -26,17 +26,17 @@
 
 ### ORM and Datamapping
 
-*   [couchdb\_connector (⭐94)](https://github.com/locolupo/couchdb_connector) - A connector for CouchDB, the Erlang-based, JSON document database.
+*   [couchdb\_connector (⭐95)](https://github.com/locolupo/couchdb_connector) - A connector for CouchDB, the Erlang-based, JSON document database.
 
 ### Utilities
 
-*   [quark (⭐321)](https://github.com/robot-overlord/quark) - A library for common functional programming idioms: combinators, currying, and partial application.
+*   [quark (⭐324)](https://github.com/robot-overlord/quark) - A library for common functional programming idioms: combinators, currying, and partial application.
 
 ## [4. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Music Notation
 
-*   [Lilyvm (⭐5)](https://github.com/olsonpm/lilyvm) - Lilypond version manager.
+*   [Lilyvm (⭐6)](https://github.com/olsonpm/lilyvm) - Lilypond version manager.
 
 ---
 

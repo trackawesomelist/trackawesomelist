@@ -75,7 +75,7 @@ git var -l | <variable>
 
 ### Tools and session management
 
-*   [tat (⭐37)](https://github.com/ryandotsmith/tat) Tab completion for tmux sessions
+*   [tat (⭐38)](https://github.com/ryandotsmith/tat) Tab completion for tmux sessions
 
 ### Books / Development and testing
 
@@ -103,7 +103,7 @@ git var -l | <variable>
 
 ### Modules / Date & Time
 
-*   [timeago.js (⭐4.8k)](https://github.com/hustcc/timeago.js) - A tiny(\~1.7kb) library used to format date with `*** time ago` statement.
+*   [timeago.js (⭐5k)](https://github.com/hustcc/timeago.js) - A tiny(\~1.7kb) library used to format date with `*** time ago` statement.
 
 ---
 

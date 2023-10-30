@@ -17,7 +17,7 @@
 ### Software / Communication
 
 *   [Mattermost](https://mattermost.com/) - Open source, private cloud alternative to Slack. ([Licensing](https://www.mattermost.org/licensing/))
-*   [Signal](https://signal.org/) - Private messaging and calling for desktop, Android, and iOS. ([GNU GPLv3 (⭐23k)](https://github.com/WhisperSystems/Signal-Android/blob/master/LICENSE))
+*   [Signal](https://signal.org/) - Private messaging and calling for desktop, Android, and iOS. ([GNU GPLv3 (⭐24k)](https://github.com/WhisperSystems/Signal-Android/blob/master/LICENSE))
 
 ### Software / File Sharing
 
@@ -26,7 +26,7 @@
 ### Software / IDEs
 
 *   [Eclipse](https://www.eclipse.org/eclipseide/) - Extensible IDE that supports the latest Java versions as well as other languages. ([EPL](http://www.eclipse.org/legal/epl-v10.html))
-*   [IntelliJ IDEA Community Edition (⭐14k)](https://github.com/JetBrains/intellij-community) - Java/Android IDE with the goal of maximizing developer productivity. ([Apache License 2.0 (⭐14k)](https://github.com/JetBrains/intellij-community/blob/master/LICENSE.txt))
+*   [IntelliJ IDEA Community Edition (⭐16k)](https://github.com/JetBrains/intellij-community) - Java/Android IDE with the goal of maximizing developer productivity. ([Apache License 2.0 (⭐16k)](https://github.com/JetBrains/intellij-community/blob/master/LICENSE.txt))
 
 ### Software / Office
 
@@ -65,7 +65,7 @@
 
 ### Demos / Syntax highlighting packages
 
-*   [GBVideoPlayer (⭐76)](https://github.com/LIJI32/GBVideoPlayer) - A technical demo demonstrating how the Game Boy LCD controller can be hacked to make a Game Boy Color play a full motion video in color, together with music.
+*   [GBVideoPlayer (⭐79)](https://github.com/LIJI32/GBVideoPlayer) - A technical demo demonstrating how the Game Boy LCD controller can be hacked to make a Game Boy Color play a full motion video in color, together with music.
 
 ## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

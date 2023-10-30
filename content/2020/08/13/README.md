@@ -16,7 +16,7 @@
 
 ### Software / Task Management & To-do Lists
 
-*   [Planka](https://planka.app/) - Open source Trello alternative. ([Demo](https://plankanban.github.io/planka/#/), [Source Code (⭐2.8k)](https://github.com/plankanban/planka)) `AGPL-3.0` `Nodejs`
+*   [Planka](https://planka.app/) - Realtime kanban board for workgroups (alternative to Trello). ([Demo](https://plankanban.github.io/planka/#/), [Source Code (⭐3.3k)](https://github.com/plankanban/planka)) `AGPL-3.0` `Nodejs/Docker/K8S`
 
 ## [3. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Tools & Utilities / Others
 
-*   [Blazor.ScriptInjection (⭐23)](https://github.com/excubo-ag/Blazor.ScriptInjection) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=86400) Smart script tags in Blazor components, ideal for lazy loading of javascript files.
+*   [Blazor.ScriptInjection (⭐22)](https://github.com/excubo-ag/Blazor.ScriptInjection) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=86400) Smart script tags in Blazor components, ideal for lazy loading of javascript files.
 
 ## [7. Learn to Program](/content/karlhorky/learn-to-program/README.md)
 
@@ -70,11 +70,11 @@
 
 ### Apps / Widgets
 
-*   [wagtail-color-panel (⭐38)](https://github.com/marteinn/wagtail-color-panel) - Introduces panels for selecting colors in Wagtail.
+*   [wagtail-color-panel (⭐44)](https://github.com/marteinn/wagtail-color-panel) - Introduces panels for selecting colors in Wagtail.
 
 ### Apps / SEO and SMO
 
-*   [wagtail-meta-preview (⭐24)](https://github.com/rinti/wagtail-meta-preview) - Adds ability to get share previews for Facebook, Twitter and Google in the Wagtail admin.
+*   [wagtail-meta-preview (⭐27)](https://github.com/rinti/wagtail-meta-preview) - Adds ability to get share previews for Facebook, Twitter and Google in the Wagtail admin.
 
 ### Resources / Articles
 
@@ -82,7 +82,7 @@
 
 ### Open-source sites / Lists
 
-*   [Federal Election Commission (⭐85)](https://github.com/fecgov/fec-cms) – The content management system (CMS) for the new Federal Election Commission website.
+*   [Federal Election Commission (⭐86)](https://github.com/fecgov/fec-cms) – The content management system (CMS) for the new Federal Election Commission website.
 
 ## [9. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 

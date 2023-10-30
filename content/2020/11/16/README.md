@@ -28,7 +28,7 @@
 
 ### Plugins
 
-*   [tmux-bitwarden (⭐24)](https://github.com/Alkindi42/tmux-bitwarden) Access your Bitwarden login items in a tmux pane.
+*   [tmux-bitwarden (⭐29)](https://github.com/Alkindi42/tmux-bitwarden) Access your Bitwarden login items in a tmux pane.
 
 ## [5. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -62,13 +62,13 @@
 
 ### Games
 
-*   [AsteroidsWasm (⭐137)](https://github.com/aesalazar/AsteroidsWasm) - ![stars](https://img.shields.io/github/stars/aesalazar/AsteroidsWasm?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aesalazar/AsteroidsWasm?style=flat-square\&cacheSeconds=86400) Collection of .NET 5 C# applications consuming a single .NET Standard project running in:  Blazor Client (WebAssembly), Blazor Server, Electron (via Blazor Server), WPF, WinForms, Xamarin. [Demo](https://aesalazar.github.io/AsteroidsWasm/).
+*   [AsteroidsWasm (⭐144)](https://github.com/aesalazar/AsteroidsWasm) - ![stars](https://img.shields.io/github/stars/aesalazar/AsteroidsWasm?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aesalazar/AsteroidsWasm?style=flat-square\&cacheSeconds=86400) Collection of .NET 5 C# applications consuming a single .NET Standard project running in:  Blazor Client (WebAssembly), Blazor Server, Electron (via Blazor Server), WPF, WinForms, Xamarin. [Demo](https://aesalazar.github.io/AsteroidsWasm/).
 
 ## [10. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Image Optimizers / Meetups
 
-*   [Optimizt (⭐839)](https://github.com/funbox/optimizt) - CLI image optimization tool. It can compress PNG, JPEG, GIF and SVG lossy and lossless and create WebP versions for raster images.
+*   [Optimizt (⭐869)](https://github.com/funbox/optimizt) - CLI image optimization tool. It can compress PNG, JPEG, GIF and SVG lossy and lossless and create WebP versions for raster images.
 
 ## [11. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -98,7 +98,7 @@
 
 ### Others / Object detection and object tracking
 
-*   [Pointcloudprinter :octocat: (⭐141)](https://github.com/marian42/pointcloudprinter) - A tool to turn point cloud data from aerial lidar scans into solid meshes for 3D printing.
+*   [Pointcloudprinter :octocat: (⭐144)](https://github.com/marian42/pointcloudprinter) - A tool to turn point cloud data from aerial lidar scans into solid meshes for 3D printing.
 
 ## [14. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 

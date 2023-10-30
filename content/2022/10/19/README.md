@@ -10,13 +10,13 @@
 
 ### Template Engine
 
-*   [Handlebars.Net (⭐1k)](https://github.com/Handlebars-Net/Handlebars.Net) - A real .NET Handlebars engine
+*   [Handlebars.Net (⭐1.1k)](https://github.com/Handlebars-Net/Handlebars.Net) - A real .NET Handlebars engine
 
 ## [2. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
-*   [vint (⭐674)](https://github.com/Kuniwak/vint) — Fast and Highly Extensible Vim script Language Lint implemented by Python.
+*   [vint (⭐683)](https://github.com/Kuniwak/vint) :warning: — Fast and Highly Extensible Vim script Language Lint implemented by Python.
 
 ## [3. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
@@ -50,60 +50,54 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [kunalsheth/units-of-measure (⭐88)](https://github.com/kunalsheth/units-of-measure) - A type-safe dimensional analysis library for Kotlin.
+*   [kunalsheth/units-of-measure (⭐93)](https://github.com/kunalsheth/units-of-measure) - A type-safe dimensional analysis library for Kotlin.
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [psgrep (⭐0)](https://github.com/voidzero/omz-plugin-psgrep/) - Makes `ps grep` hide its own process from the results of a `ps aux | grep`.
 
-## [9. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
-
-### Periodic Global Connectivity Reports
-
-*   GSMA - State of Mobile Internet Connectivity ([2022](https://www.gsma.com/r/wp-content/uploads/2022/10/The-State-of-Mobile-Internet-Connectivity-Report-2022.pdf)) ([2020](https://www.gsma.com/r/wp-content/uploads/2020/09/GSMA-State-of-Mobile-Internet-Connectivity-Report-2020.pdf)) ([2019](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/07/GSMA-State-of-Mobile-Internet-Connectivity-Report-2019.pdf)) ([2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/09/State-of-Mobile-Internet-Connectivity-2018.pdf))
-
-## [10. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+## [9. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Algorithms / Ground segmentation
 
-*   [Plane Seg :octocat: (⭐121)](https://github.com/ori-drs/plane_seg) - ROS comapatible ground plane segmentation; a library for fitting planes to LIDAR.
+*   [Plane Seg :octocat: (⭐135)](https://github.com/ori-drs/plane_seg) - ROS comapatible ground plane segmentation; a library for fitting planes to LIDAR.
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=YYs4lJ9t-Xo)
 *   [LineFit Graph :newspaper:](https://ieeexplore.ieee.org/abstract/document/5548059)- Line fitting-based fast ground segmentation for horizontal 3D LiDAR data
-    *   [GitHub repository :octocat: (⭐447)](https://github.com/lorenwel/linefit_ground_segmentation)
+    *   [GitHub repository :octocat: (⭐510)](https://github.com/lorenwel/linefit_ground_segmentation)
 *   [Patchwork :newspaper:](https://arxiv.org/pdf/2108.05560.pdf)- Region-wise plane fitting-based robust and fast ground segmentation for 3D LiDAR data
-    *   [GitHub repository :octocat: (⭐276)](https://github.com/LimHyungTae/patchwork)
+    *   [GitHub repository :octocat: (⭐351)](https://github.com/LimHyungTae/patchwork)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=rclqeDi4gow)
 *   [Patchwork++ :newspaper:](https://arxiv.org/pdf/2207.11919.pdf)- Improved version of Patchwork. Patchwork++ provides pybinding as well for deep learning users
-    *   [GitHub repository :octocat: (⭐119)](https://github.com/url-kaist/patchwork-plusplus-ros)
+    *   [GitHub repository :octocat: (⭐204)](https://github.com/url-kaist/patchwork-plusplus-ros)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=fogCM159GRk)
 
-## [11. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [10. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Container Composition
 
-*   [box (⭐237)](https://github.com/box-builder/box) :skull: - Build Dockerfile images with a mruby DSL, includes flattening and layer manipulation
+*   [box (⭐235)](https://github.com/box-builder/box) :skull: - Build Dockerfile images with a mruby DSL, includes flattening and layer manipulation
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Game Development
 
-*   [Game Icons](https://game-icons.net/) - Free styleable SVG/PNG icons provided under CC-BY license.
+*   [Game Icons](https://game-icons.net/) - Free styleable SVG/PNG icons provided under a CC-BY license.
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
-*   [vue-vroom (⭐8)](https://github.com/frederikbache/vue-vroom) - A plugin for REST APIs, that lets you quickly generate type safe stores and a mock API with minimal config.
+*   [vue-vroom (⭐10)](https://github.com/frederikbache/vue-vroom) - A plugin for REST APIs, that lets you quickly generate type safe stores and a mock API with minimal config.
 
-## [14. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [13. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
 *   [Coder](https://coder.com/) - Coder provisions software development environments on your infrastructure via Terraform.
 
-## [15. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [14. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Systems
 
@@ -176,13 +170,13 @@
     *   [Updated courses for iOS8 - Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
     *   [Updated courses for iOS9 - Swift](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961)
 
-## [16. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Science Logology / Literature Visualization
 
 *   [Galex: Exploring the evolution and intersection of disciplines](http://cic.tju.edu.cn/faculty/zhangjiawan/Jiawan_Zhang_files/paper/zeyuli2020.pdf) - ***IEEE Transactions on Visualization and Computer Graphics***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=13313104491218225635\&hl=en\&as_sdt=0,5)].
 
-## [17. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [16. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### General Machine Learning Packages / Deep Learning architectures
 
@@ -192,9 +186,19 @@
 
 *   [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://hastie.su.domains/ElemStatLearn/)
 
+## [17. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Clean Architectures in Python - A practical approach to better software design (2022)](https://www.thedigitalcatbooks.com/pycabook-introduction/) - Leonardo Giordani (3.x) (PDF)
+
+### Ruby / Ruby on Rails
+
+*   [Learn Ruby on Rails: Book Two](https://learn-rails.com/content/learnrails2) - Daniel Kehoe
+
 ## [18. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Ruby / Angular
+### Ruby / Svelte
 
 *   [Women on Rails Newsletter](https://womenonrailsinternational.substack.com/). A bi-monthly newsletter about Ruby on Rails and the web. Available in English, French, Spanish and Italian.
 

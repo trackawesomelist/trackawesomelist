@@ -10,7 +10,7 @@
 
 ### Tools
 
-*   [OctoLinker (⭐5.1k)](https://github.com/OctoLinker/OctoLinker) - Navigate through `project.json`, `packages.config`, `*.props`, `*.targets`, and C#/F#/VB.NET project files efficiently with the OctoLinker browser extension for GitHub.
+*   [OctoLinker (⭐5.2k)](https://github.com/OctoLinker/OctoLinker) - Navigate through `project.json`, `packages.config`, `*.props`, `*.targets`, and C#/F#/VB.NET project files efficiently with the OctoLinker browser extension for GitHub.
 
 ## [2. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
@@ -49,11 +49,11 @@
 
 ### Cost Forecast / Market Research
 
-*   [Forecasting with sktime (⭐6.4k)](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) - A tutorial on how to use past data to make temporal forward predictions. And read the [difference between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861) mentionned above.
+*   [Forecasting with sktime (⭐6.9k)](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) - A more detailed tutorial on how to use past data to make temporal forward predictions. And be aware of the [differences between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861) mentionned in the article above.
 
 ### Invoice / Generators
 
-*   [Volcano (⭐152)](https://github.com/volcano/volcano) - Flexible, gateway-agnostic billing system.
+*   [Volcano (⭐151)](https://github.com/volcano/volcano) - Flexible, gateway-agnostic billing system.
 
 ## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -63,10 +63,10 @@
 
 ### Notifications
 
-*   [Noticed (⭐1.9k)](https://github.com/excid3/noticed) - ActionMailer-like Notification System for your Ruby on Rails app.
+*   [Noticed (⭐2k)](https://github.com/excid3/noticed) - ActionMailer-like Notification System for your Ruby on Rails app.
 *   [Ruby Push Notifications (⭐401)](https://github.com/calonso/ruby-push-notifications) - iOS, Android and Windows Phone Push notifications made easy.
-*   [Rpush (⭐2.1k)](https://github.com/rpush/rpush) - The push notification service for Ruby which supports Apple Push Notification Service, Google Cloud Messaging, Amazon Device Messaging and Windows Phone Push Notification Service.
-*   [webpush (⭐368)](https://github.com/zaru/webpush) - Encryption Utilities for Web Push protocol.
+*   [Rpush (⭐2.2k)](https://github.com/rpush/rpush) - The push notification service for Ruby which supports Apple Push Notification Service, Google Cloud Messaging, Amazon Device Messaging and Windows Phone Push Notification Service.
+*   [webpush (⭐380)](https://github.com/zaru/webpush) - Encryption Utilities for Web Push protocol.
 
 ## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -78,11 +78,11 @@
 
 ### Framework Components
 
-*   [Shield (⭐51)](https://github.com/grottopress/shield) - Comprehensive security for *Lucky* framework
+*   [Shield (⭐52)](https://github.com/grottopress/shield) - Comprehensive security for *Lucky* framework
 
 ### Misc
 
-*   [wafalyzer (⭐32)](https://github.com/NeuraLegion/wafalyzer) - Web Application Firewall (WAF) Detector - shard + cli
+*   [wafalyzer (⭐33)](https://github.com/NeuraLegion/wafalyzer) - Web Application Firewall (WAF) Detector - shard + cli
 
 ## [10. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
@@ -112,17 +112,17 @@
 
 ### Third-Party Packages / Security
 
-*   [django-protected-media (⭐53)](https://github.com/cobusc/django-protected-media) - Manages media that are considered sensitive in a protected fashion.
+*   [django-protected-media (⭐58)](https://github.com/cobusc/django-protected-media) - Manages media that are considered sensitive in a protected fashion.
 
 ### Resources / Conferences
 
-*   [Django Day Copenhagen (⭐7k)](https://github.com/wsvincent/awesome-django#conferences)
+*   [Django Day Copenhagen (⭐7.6k)](https://github.com/wsvincent/awesome-django#conferences)
 
 ## [14. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Transition
 
-*   [Hero (⭐21k)](https://github.com/HeroTransitions/Hero) - Elegant transition library for iOS & tvOS.
+*   [Hero (⭐22k)](https://github.com/HeroTransitions/Hero) - Elegant transition library for iOS & tvOS.
 
 ### Form & Settings
 
@@ -158,7 +158,7 @@
 
 ### CMS
 
-*   [BlazorShop (⭐234)](https://github.com/kalintsenkov/BlazorShop) - ![stars](https://img.shields.io/github/stars/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=604800) ![Last commit](https://img.shields.io/github/last-commit/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=86400) Simple shop application built with Blazor WebAssembly.
+*   [BlazorShop (⭐251)](https://github.com/kalintsenkov/BlazorShop) - ![stars](https://img.shields.io/github/stars/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=604800) ![Last commit](https://img.shields.io/github/last-commit/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=86400) Simple shop application built with Blazor WebAssembly.
 
 ## [19. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -174,11 +174,11 @@
 
 ### Roles / Executives
 
-*   [What do executives do, anyway?](https://apenwarr.ca/log/20190926) - Paraphrasing [Andy Grove's book, High Output Management](https://amzn.com/0679762884/?tag=kevideld-20), “the job of an executive is: to define and enforce culture and values for their whole organization, and to ratify good decisions.” The article also details the failures modes of a CEO: forcing his own decisions downstream, or various ways of not resolving conflicts.
+*   [What do executives do, anyway?](https://apenwarr.ca/log/20190926) - Paraphrasing [Andy Grove's book, High Output Management](https://www.amazon.com/dp/0394532341?\&linkCode=ll1\&tag=kevideld-20\&linkId=f80a2e0610594cad92d301c587380f0a\&language=en_US\&ref_=as_li_ss_tl), “the job of an executive is: to define and enforce culture and values for their whole organization, and to ratify good decisions.” The article also details the failures modes of a CEO: forcing his own decisions downstream, or various ways of not resolving conflicts.
 
 ### Recruitment / Job Boards
 
-*   [Awesome Job Boards (⭐691)](https://github.com/tramcar/awesome-job-boards) - Niche job boards by domains, technology, roles and area.
+*   [Awesome Job Boards (⭐834)](https://github.com/tramcar/awesome-job-boards) - Niche job boards by domains, technology, roles and area.
 
 ### Recruitment / Hiring Process
 
@@ -188,7 +188,6 @@
 
 ### Recruitment / Interview
 
-*   [The Technical Interview is an Ego Trip](https://blog.kowsheek.com/the-technical-interview-is-an-ego-trip/) - Starts with anecdote of developers using a job interview as a vehicule to demonstrate their superiority. Then the author details a reasonable interview process that is trying to not waste anyone's time.
 *   “It's true that not all developers make positive contributions, however, I think that blaming "lowering hiring standards" (…) is a complete red herring.” ([source](https://news.ycombinator.com/item?id=13209317)) - Examples in which developers that might pass tough job interview just fine are bringing negative value later.
 
 ### Recruitment / Coding Challenge
@@ -208,7 +207,6 @@
 
 ### Motivation / Happiness
 
-*   [First, Break All the Rules: What the World's Greatest Managers Do Differently](https://amzn.com/1595621113/?tag=kevideld-20) - We learn in this book that employee happiness was not correlated to company success. A comment on HN details the [questions that were highly correlated to company success](https://news.ycombinator.com/item?id=20571219).
 *   “My team tracks life impact as a metric (pages outside business hours) and works to drive that down to zero.” ([source](https://twitter.com/dwc/status/962179099606200320)) - Maybe the best indicator of a happy team is how little it is disturbed outside office hours.
 
 ### Team Dynamics / Behavioral
@@ -236,15 +234,11 @@
 ### Politics / Equity
 
 *   [The Prince](https://en.wikipedia.org/wiki/The_Prince) - Machiavelli's ideas on how to accrue honor and power as a leader. Resorting to that level of politics in a company is a sure way to render the culture highly toxic, as well as corrupting and demoralizing the organization at all levels.
-*   [US spy manual has tips for coping with toxic bosses](https://qz.com/work/1717297/how-to-cope-with-a-toxic-boss-according-to-a-us-spy-manual-from-wwii/) - Derived from WWII-era [Simple Sabotage Field Manual](https://www.cia.gov/news-information/featured-story-archive/2012-featured-story-archive/CleanedUOSSSimpleSabotage_sm.pdf), a classic read to spot harassing and demoralizing behaviors.
+*   [US spy manual has tips for coping with toxic bosses](https://qz.com/work/1717297/how-to-cope-with-a-toxic-boss-according-to-a-us-spy-manual-from-wwii/) - Derived from WWII-era [Simple Sabotage Field Manual](https://archive.org/details/SimpleSabotageFieldManual), a classic read to spot harassing and demoralizing behaviors.
 
 ### Health / Burnout
 
 *   “Burnout is caused by resentment. (…) No. Burnout is caused when you repeatedly make large amounts of sacrifice and or effort into high-risk problems that fail. It's the result of a negative prediction error in the nucleus accumbens. You effectively condition your brain to associate work with failure.” ([source](https://news.ycombinator.com/item?id=5630618)).
-
-### Setbacks and Failures / Burnout
-
-*   [Steve Jobs explains - Why companies fail?](https://www.youtube.com/watch?v=yfeWhYj5zkQ) - On how sales and marketing takes over product focused companies.
 
 ## [21. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -254,36 +248,36 @@
 
 ## [22. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### Machine Learning
+### Machine Learning / Text-Based User Interfaces
 
 *   [DJL](https://djl.ai) - High-level and engine-agnostic framework for deep learning.
 *   [oj! Algorithms](https://www.ojalgo.org/) - High-performance mathematics, linear algebra and optimisation needed for data science, machine learning and scientific computing.
 *   [Tribuo](https://tribuo.org/) - Provides tools for classification, regression, clustering, model development and interfaces with other libraries such as scikit-learn, pytorch and TensorFlow.
 
-### Microservice
+### Microservice / Text-Based User Interfaces
 
 *   [ActiveRPC](https://rpc.activej.io) - Lightweight and fast library for complex high-load distributed applications and Memcached-like solutions.
 
-### Native
+### Native / Text-Based User Interfaces
 
-*   [Aparapi (⭐431)](https://github.com/Syncleus/aparapi) - Converts bytecode to OpenCL which allows execution on GPUs.
+*   [Aparapi (⭐448)](https://github.com/Syncleus/aparapi) - Converts bytecode to OpenCL which allows execution on GPUs.
 
-### PDF
+### PDF / Text-Based User Interfaces
 
-*   [Tabula (⭐1.5k)](https://github.com/tabulapdf/tabula-java) - Extracts tables from PDF files.
+*   [Tabula (⭐1.6k)](https://github.com/tabulapdf/tabula-java) - Extracts tables from PDF files.
 
 ### Science / Other
 
-*   [Chart-FX (⭐392)](https://github.com/GSI-CS-CO/chart-fx) - Scientific charting library with focus on performance optimised real-time data visualisation at 25 Hz update rates for large data sets.
-*   [LogicNG (⭐105)](https://github.com/logic-ng/LogicNG) - Library for creating, manipulating and solving Boolean and Pseudo-Boolean formulas.
+*   [Chart-FX (⭐448)](https://github.com/GSI-CS-CO/chart-fx) - Scientific charting library with focus on performance optimised real-time data visualisation at 25 Hz update rates for large data sets.
+*   [LogicNG (⭐120)](https://github.com/logic-ng/LogicNG) - Library for creating, manipulating and solving Boolean and Pseudo-Boolean formulas.
 
 ### Testing / Miscellaneous
 
-*   [LogCaptor (⭐254)](https://github.com/Hakky54/log-captor) - Captures log entries for unit testing purposes.
+*   [LogCaptor (⭐307)](https://github.com/Hakky54/log-captor) - Captures log entries for unit testing purposes.
 
 ### Related Awesome Lists / Mocking
 
-*   [Awesome Graal (⭐340)](https://github.com/neomatrix369/awesome-graal)
+*   [Awesome Graal (⭐350)](https://github.com/neomatrix369/awesome-graal)
 
 ### People / Twitter
 
@@ -293,7 +287,7 @@
 
 ### Contents / Business
 
-*   [Open E-Commerce App (⭐714)](https://github.com/4seer/openflutterecommerceapp) - Open Flutter Project E-commerce App by [4seer](https://github.com/4seer).
+*   [Open E-Commerce App (⭐766)](https://github.com/4seer/openflutterecommerceapp) - Open Flutter Project E-commerce App by [4seer](https://github.com/4seer).
 
 ---
 

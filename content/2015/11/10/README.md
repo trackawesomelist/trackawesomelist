@@ -8,10 +8,6 @@
 
 ## [1. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
-### Files and Directories / Directory Navigation
-
-*   [fasd (⭐5.8k)](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
-
 ### Images / Gif Creation
 
 *   [ttystudio (⭐3.2k)](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
@@ -50,7 +46,7 @@
 
 ### TypeScript Seed Projects / Components
 
-*   [ng2-play (⭐538)](https://github.com/pkozlowski-opensource/ng2-play) A minimal Angular2 playground using TypeScript and SystemJS loader
+*   [ng2-play (⭐536)](https://github.com/pkozlowski-opensource/ng2-play) A minimal Angular2 playground using TypeScript and SystemJS loader
 
 ## [8. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

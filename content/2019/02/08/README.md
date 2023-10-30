@@ -60,7 +60,6 @@
 
 ### In Portuguese
 
-*   [Lídercast Café Brasil](http://www.portalcafebrasil.com.br/todos/lidercast/) - Entrevistas tratando de assuntos como liderança e empreendedorismo.
 *   [Tecnocast](https://tecnoblog.net/categoria/podcast/) - Podcast do Tecnoblog, sobre tecnologia.
 *   [Xadrez Verbal](https://xadrezverbal.com/category/audio/podcast-do-xadrez-verbal/) - Política, história e atualidades.
 
@@ -93,11 +92,11 @@
 
 ### Package Management
 
-*   [BaGet (⭐2.3k)](https://github.com/loic-sharma/BaGet/) - A cross-platform, lightweight NuGet and Symbol server
+*   [BaGet (⭐2.4k)](https://github.com/loic-sharma/BaGet/) - A cross-platform, lightweight NuGet and Symbol server
 
 ### Tools
 
-*   [NETworkManager (⭐3.7k)](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
+*   [NETworkManager (⭐4.1k)](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
 
 ---
 

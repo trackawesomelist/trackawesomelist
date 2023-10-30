@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 27, 2015
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -57,17 +57,23 @@
 *   [LoneStarRuby 2015 - Code Club](https://www.youtube.com/watch?v=sLAvSgcrgZM) By Saron Yitbarek
 *   [My Dog Taught Me to Code](https://www.youtube.com/watch?v=yCBUsd52a3s) By Dave Thomas
 
-## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Hadoop / Spock Framework
+
+*   [Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf) (Jimmy Lin and Chris Dyer) (PDF)
+
+## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Macros
 
-*   [mdef (⭐48)](https://github.com/pragdave/mdef) - Easily define multiple function heads in Elixir.
+*   [mdef (⭐49)](https://github.com/pragdave/mdef) - Easily define multiple function heads in Elixir.
 
 ### Screencasts
 
 *   [LearnElixir.tv](https://www.learnelixir.tv/) - Beginner friendly, in-depth, step by step screencasts.
 
-## [9. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
+## [10. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
 ### Wargames
 

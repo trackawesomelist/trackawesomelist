@@ -52,19 +52,19 @@
 
 ### Data Visualization
 
-*   [diagrams (⭐29k)](https://github.com/mingrammer/diagrams) - Diagram as Code.
+*   [diagrams (⭐30k)](https://github.com/mingrammer/diagrams) - Diagram as Code.
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### HTML Builders
 
-*   [Water (⭐24)](https://github.com/shootingfly/water) - A library for writing HTML in plain Crystal
+*   [Water (⭐27)](https://github.com/shootingfly/water) - A library for writing HTML in plain Crystal
 
 ## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### UI Testing
 
-*   [AutoMate (⭐276)](https://github.com/PGSSoft/AutoMate) - XCTest extensions for writing UI automation tests.
+*   [AutoMate (⭐278)](https://github.com/PGSSoft/AutoMate) - XCTest extensions for writing UI automation tests.
 
 ## [10. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -89,24 +89,24 @@
 
 ### Build Automation
 
-*   [FlubuCore (⭐853)](https://github.com/dotnetcore/FlubuCore) -  A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
+*   [FlubuCore (⭐879)](https://github.com/dotnetcore/FlubuCore) -  A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
 
 ### CLI
 
-*   [JustCli (⭐25)](https://github.com/jden123/JustCli) - That’s just a quick way to create your own command line tool.
+*   [JustCli (⭐28)](https://github.com/jden123/JustCli) - That’s just a quick way to create your own command line tool.
 
 ### Compilers, Transpilers and Languages
 
-*   [IronScheme (⭐344)](https://github.com/IronScheme/IronScheme) - R6RS Scheme compiler, runtime and many standard libraries
-*   [VisualFSharp (⭐3.5k)](https://github.com/dotnet/fsharp) - The Visual F# compiler and tools
+*   [IronScheme (⭐354)](https://github.com/IronScheme/IronScheme) - R6RS Scheme compiler, runtime and many standard libraries
+*   [VisualFSharp (⭐3.6k)](https://github.com/dotnet/fsharp) - The Visual F# compiler and tools
 
 ### Database
 
-*   [Event Store (⭐4.9k)](https://github.com/EventStore/EventStore) - The open-source, functional database with Complex Event Processing in JavaScript
+*   [Event Store (⭐5k)](https://github.com/EventStore/EventStore) - The open-source, functional database with Complex Event Processing in JavaScript
 
 ### Documentation
 
-*   [SourceBrowser (⭐962)](https://github.com/KirillOsenkov/SourceBrowser) - Source browser website generator that powers <https://referencesource.microsoft.com>
+*   [SourceBrowser (⭐987)](https://github.com/KirillOsenkov/SourceBrowser) - Source browser website generator that powers <https://referencesource.microsoft.com>
 
 ### E-Commerce and Payments
 
@@ -130,7 +130,7 @@
 
 ### Websites
 
-*   [3D Game Shaders For Beginners (⭐14k)](https://github.com/lettier/3d-game-shaders-for-beginners) by **David Lettier**
+*   [3D Game Shaders For Beginners (⭐16k)](https://github.com/lettier/3d-game-shaders-for-beginners) by **David Lettier**
 
 ## [16. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 

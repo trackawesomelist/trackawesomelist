@@ -28,7 +28,7 @@
 
 ### Packages / Testing
 
-*   [TestCafe (⭐9.6k)](https://github.com/DevExpress/testcafe) - Automated browser testing.
+*   [TestCafe (⭐9.7k)](https://github.com/DevExpress/testcafe) - Automated browser testing.
 
 ## [4. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Applications
 
-*   [Rakam (⭐792)](https://github.com/rakam-io/rakam) - open-source real-time custom analytics platform powered by Postgresql, Kinesis and PrestoDB.
+*   [Rakam (⭐796)](https://github.com/rakam-io/rakam) - open-source real-time custom analytics platform powered by Postgresql, Kinesis and PrestoDB.
 
 ## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

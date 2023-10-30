@@ -89,8 +89,8 @@
 
 ### Mail
 
-*   [MailKit (⭐5.4k)](https://github.com/jstedfast/MailKit) - A complete cross-platform mail stack including IMAP, POP3, SMTP, authentication and more. Built on top of MimeKit.
-*   [MimeKit (⭐1.6k)](https://github.com/jstedfast/MimeKit) - A cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, TNEF and Unix mbox spools.
+*   [MailKit (⭐5.6k)](https://github.com/jstedfast/MailKit) - A complete cross-platform mail stack including IMAP, POP3, SMTP, authentication and more. Built on top of MimeKit.
+*   [MimeKit (⭐1.7k)](https://github.com/jstedfast/MimeKit) - A cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, TNEF and Unix mbox spools.
 
 ### Profiler
 
@@ -100,7 +100,7 @@
 
 ### Maps / Other
 
-*   [Cesium (⭐10k)](https://github.com/AnalyticalGraphicsInc/cesium) - Open Source WebGL virtual globe and map engine.
+*   [Cesium (⭐11k)](https://github.com/AnalyticalGraphicsInc/cesium) - Open Source WebGL virtual globe and map engine.
 
 ## [4. Awesome R](/content/qinwf/awesome-R/README.md)
 

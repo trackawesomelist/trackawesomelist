@@ -10,7 +10,7 @@
 
 ### Plugins
 
-*   💼 [Claymorphism (⭐3)](https://github.com/dulltackle/tailwindcss-claymorphism) - Adds `clay` utilities for creating claymorphism style.
+*   💼 [Claymorphism (⭐7)](https://github.com/dulltackle/tailwindcss-claymorphism) - Adds `clay` utilities for creating claymorphism style.
 
 ## [2. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [ckolkey/ts-node-action (⭐267)](https://github.com/ckolkey/ts-node-action) - A framework for executing functional transformations on Tree-sitter nodes - Has a lot of built-in actions for transforming text.
+*   [ckolkey/ts-node-action (⭐306)](https://github.com/ckolkey/ts-node-action) - A framework for executing functional transformations on Tree-sitter nodes - Has a lot of built-in actions for transforming text.
 
 ## [4. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -52,13 +52,13 @@
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Large Language Models / Text-related Generative Tools
+### Inbox: Large Language Models (LLMs) / Text-related Generative Tools
 
 *   [AI Story Generator](https://www.aistorygenerator.org): Free and fast online AI-powered story generator that writes short stories for you
 
 ### Multimodal Embedding Space / Generative Adversarial Networks (GANs)
 
-*   [facebookresearch/ImageBind (⭐2.7k)](https://github.com/facebookresearch/ImageBind): ImageBind One Embedding Space to Bind Them All
+*   [facebookresearch/ImageBind (⭐7.3k)](https://github.com/facebookresearch/ImageBind): ImageBind One Embedding Space to Bind Them All
 
 ### Online Tools and Applications / Generative Adversarial Networks (GANs)
 
@@ -81,7 +81,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Cyclops Level Builder (⭐122)](https://github.com/blackears/cyclopsLevelBuilder) - A level builder for quick prototypes and proof-of-concepts (Godot 4.x).
+*   [Cyclops Level Builder (⭐327)](https://github.com/blackears/cyclopsLevelBuilder) - A level builder for quick prototypes and proof-of-concepts (Godot 4.x).
 
 ## [9. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/README.md)
 
@@ -93,7 +93,7 @@
 
 ### Table of Contents / Streaming Library
 
-*   [Substation (⭐163)](https://github.com/brexhq/substation) \[Go] - Substation is a cloud native data pipeline and transformation toolkit written in Go.
+*   [Substation (⭐203)](https://github.com/brexhq/substation) \[Go] - Substation is a cloud native data pipeline and transformation toolkit written in Go.
 
 ---
 

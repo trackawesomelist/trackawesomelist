@@ -44,7 +44,7 @@
 
 ### Miscellaneous
 
-*   **GestureAI** - Recommend an artist based on given location and genre. [Download](https://goo.gl/avdMjD) | [Demo (⭐150)](https://github.com/akimach/GestureAI-CoreML-iOS) | [Reference (⭐150)](https://github.com/akimach/GestureAI-iOS/tree/master/GestureAI)
+*   **GestureAI** - Recommend an artist based on given location and genre. [Download](https://goo.gl/avdMjD) | [Demo (⭐154)](https://github.com/akimach/GestureAI-CoreML-iOS) | [Reference (⭐154)](https://github.com/akimach/GestureAI-iOS/tree/master/GestureAI)
 
 ## [6. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Algorithms and Data structures
 
-*   [graphlb (⭐20)](https://github.com/mettuaditya/graphlb) - Collection of graph datastructure and algorithms
+*   [graphlb (⭐19)](https://github.com/mettuaditya/graphlb) - Collection of graph datastructure and algorithms
 
 ## [9. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Others / Useful References
 
-*   [Software Testing Interview Tool (⭐31)](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
+*   [Software Testing Interview Tool (⭐32)](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
 
 ## [11. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
@@ -144,11 +144,11 @@
 
 ### State management / Redux / ELM / Dependency Injection
 
-*   [Flux (⭐374)](https://github.com/google/flutter_flux) <!--stargazers:google/flutter_flux--> - Implementation of the Flux framework by Google
+*   [Flux (⭐376)](https://github.com/google/flutter_flux) <!--stargazers:google/flutter_flux--> - Implementation of the Flux framework by Google
 
 ### Top / Game Engine resources
 
-*   [Flutter Team Samples (⭐14k)](https://github.com/flutter/samples) <!--stargazers:flutter/samples--> - Collection of examples (including maps, json, Material and Cupertino) by the [Flutter team](https://github.com/orgs/flutter/people)
+*   [Flutter Team Samples (⭐15k)](https://github.com/flutter/samples) <!--stargazers:flutter/samples--> - Collection of examples (including maps, json, Material and Cupertino) by the [Flutter team](https://github.com/orgs/flutter/people)
 
 ---
 

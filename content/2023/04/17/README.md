@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 17, 2023
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -123,90 +123,84 @@
     *   [Endpoint Redirection](https://patterns.arcitura.com/soa-patterns/design_patterns/endpoint_redirection) - Redirects clients to alternative endpoints.
     *   [Idempotent Capability](https://patterns.arcitura.com/soa-patterns/design_patterns/idempotent_capability) - Ensures that the same action can be performed multiple times without changing the system state.
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Search Engines
-
-*   [Gigablast (⭐1.4k)](https://github.com/gigablast/open-source-search-engine) - Open-source search engine. `Apache-2.0` `C++`
-
-## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Formatting / Diagnostics
 
-*   [tenxsoydev/tabs-vs-spaces.nvim (⭐10)](https://github.com/tenxsoydev/tabs-vs-spaces.nvim) - Hint and fix deviating indentation.
+*   [tenxsoydev/tabs-vs-spaces.nvim (⭐15)](https://github.com/tenxsoydev/tabs-vs-spaces.nvim) - Hint and fix deviating indentation.
 
-## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Automation
 
-*   [Rake](https://ruby.github.io/rake/) - Build automation tool similar to Make, written in and extensible in Ruby. ([Source Code (⭐2.2k)](https://github.com/ruby/rake)) `MIT` `Ruby`
+*   [Rake](https://ruby.github.io/rake/) - Build automation tool similar to Make, written in and extensible in Ruby. ([Source Code (⭐2.3k)](https://github.com/ruby/rake)) `MIT` `Ruby`
 
-## [6. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [5. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Analytics
 
-*   [PostHog](https://posthog.com/) - Open-source product analytics platform.
+*   [PostHog](https://posthog.com/) - Open-source product analytics platform. ![PostHog](https://img.shields.io/github/contributors-anon/posthog/posthog?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
-## [7. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [6. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Monitoring Services / Other
 
 *   [Better Stack](https://betterstack.com/community/guides/scaling-docker/) :heavy\_dollar\_sign: - A Docker-compatible observability stack that delivers robust log aggregation and uptime monitoring capabilities for various software application.
 
-## [8. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+## [7. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
-### Learn / Videos
+### Learn / Videos Playlists
 
 *   [LangChain Series by Sam Witteveen](https://www.youtube.com/watch?v=J_0qvRt4LNk\&list=PL8motc6AQftk1Bs42EW45kwYbyJ4jOdiZ)
 
-## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [8. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Companies with "remote DNA"
 
 *   [Docker](https://www.docker.com/career-openings/) -
 
-## [10. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [9. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Real-time / Real-time tools
 
 *   [RTIC v1.0](https://rtic.rs/1/book/en/) Real-Time Interrupt-driven Concurrency — A concurrency framework for building real time systems:
-    *   [cortex-m rtic (⭐1.2k)](https://github.com/rtic-rs/cortex-m-rtic) RTIC framework for ARM Cortex-M microcontrollers
+    *   [cortex-m rtic (⭐1.4k)](https://github.com/rtic-rs/cortex-m-rtic) RTIC framework for ARM Cortex-M microcontrollers
     *   [msp430 rtfm (⭐10)](https://github.com/japaric/msp430-rtfm) RTFM framework for MSP430 MCUs
 
-## [11. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [10. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Programming Languages / OCaml
 
 *   [opam2nix (⭐92)](https://github.com/timbertson/opam2nix) - Generate Nix expressions from opam packages.
 
-## [12. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [11. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Gaming
 
-*   [Cartridges (⭐214)](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Bottles and itch library import.
+*   [Cartridges (⭐356)](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Bottles and itch library import. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 
-## [13. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
+## [12. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
 
-### Databases / RNA Sequence
+### Databases / scRNA
 
 *   [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/) - Public functional genemics database.
 *   [Single Cell PORTAL](https://singlecell.broadinstitute.org/single_cell) - Public database for single cell RNA.
 
-## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Design and UI
 
-*   [Vertopal](https://www.vertopal.com) - Vertopal is a free online platform for converting files to a variety of file formats. Including developer converters like JPG to SVG, GIF to APNG, PNG to WEBP, JSON to XML and etc.
+*   [Vertopal](https://www.vertopal.com) - Vertopal is a free online platform for converting files to various formats. Including developer converters like JPG to SVG, GIF to APNG, PNG to WEBP, JSON to XML, etc.
 
-## [15. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [14. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### General / Components
 
 *   [NgLazyLoadComponent](https://www.npmjs.com/package/ng-lazy-load-component) . Lazy load Angular component into HTML template without routing.
 
-## [16. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [15. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Ruby / Angular
+### Ruby / Svelte
 
 *   [Rails Weekly](https://world.hey.com/this.week.in.rails). Weekly inside scoop of interesting commits, pull requests and more from Rails, delivered to your inbox every Friday.
 

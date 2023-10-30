@@ -24,13 +24,13 @@
 
 ## [3. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
-### Deep Learning / PyTorch
+### Graph Machine Learning / Others
 
-*   [pytorch\_geometric\_temporal (⭐2.1k)](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - Temporal Extension Library for PyTorch Geometric. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [pytorch\_geometric\_temporal (⭐2.3k)](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - Temporal Extension Library for PyTorch Geometric. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ## [4. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Common Section / Angular
+### General Section / Svelte
 
 *   [Programming Feedback for Advanced Beginners](https://advancedbeginners.substack.com/). Bi-weekly in-depth code-review related write-up.
 
@@ -38,7 +38,7 @@
 
 ### Files and Directories / File Sync/Sharing
 
-*   [google-drive-upload (⭐643)](https://github.com/labbots/google-drive-upload) - Upload/sync with Google Drive.
+*   [google-drive-upload (⭐656)](https://github.com/labbots/google-drive-upload) - Upload/sync with Google Drive.
 
 ## [6. awsm.fish](/content/jorgebucaran/awsm.fish/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Modules / Other
 
-*   [shurley (⭐5)](https://github.com/BrunoBernardino/shurley) - Parses URLs from user input (with potential typos in protocols, bad copy+paste, etc.) and returns a proper URL.
+*   [shurley (⭐6)](https://github.com/BrunoBernardino/shurley) - Parses URLs from user input (with potential typos in protocols, bad copy+paste, etc.) and returns a proper URL.
 
 ## [8. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
 
@@ -72,13 +72,13 @@
 
 ### Frameworks, Libraries and Tools / Office
 
-*   [EPPlus (⭐1.3k)](https://github.com/EPPlusSoftware/EPPlus) - Create advanced Excel spreadsheets using .NET.
+*   [EPPlus (⭐1.6k)](https://github.com/EPPlusSoftware/EPPlus) - Create advanced Excel spreadsheets using .NET.
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-ins-progress-bar (⭐334)](https://github.com/meloalright/vue-ins-progress-bar) - A Vue component of ins-style progress bar 一款 ins 风格的 vue 进度条组件
+*   [vue-ins-progress-bar (⭐333)](https://github.com/meloalright/vue-ins-progress-bar) - A Vue component of ins-style progress bar 一款 ins 风格的 vue 进度条组件
 
 ## [11. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 

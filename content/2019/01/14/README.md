@@ -16,7 +16,7 @@
 
 ### ASM / Syntax highlighting packages
 
-*   [waveform-gb (⭐15)](https://github.com/dannye/waveform-gb) - Program visualizing the wave form used by the wave channel. The wave form can be edited freely and playback of the wave is updated immediately.
+*   [waveform-gb (⭐17)](https://github.com/dannye/waveform-gb) - Program visualizing the wave form used by the wave channel. The wave form can be edited freely and playback of the wave is updated immediately.
 
 ## [3. Awesome](/content/craftcms/awesome/README.md)
 
@@ -36,7 +36,7 @@
 
 *   [adacore-blog](https://blog.adacore.com/) - An insight into the AdaCore ecosystem.
 
-### Graphical User Interface / MIT
+### Graphical User Interface / Apache License
 
 *   [vtk-ada](https://r3fowwcolhrzycn2yzlzzw-on.drv.tw/AdaStudio/vtkada/vtkada.html) - Ada-2012 port to VTK 8.1 (Visualization Toolkit).
 
@@ -44,7 +44,7 @@
 
 ### Algorithms and Data structures
 
-*   [Algorithmia (⭐502)](https://github.com/SolutionsDesign/Algorithmia) - Algorithm and data-structure library for .NET 3.5 and up. Algorithmia contains sophisticated algorithms and data-structures like graphs, priority queues, command, undo-redo and more.
+*   [Algorithmia (⭐513)](https://github.com/SolutionsDesign/Algorithmia) - Algorithm and data-structure library for .NET 3.5 and up. Algorithmia contains sophisticated algorithms and data-structures like graphs, priority queues, command, undo-redo and more.
 
 ### Application Frameworks
 
@@ -52,34 +52,34 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [Nemerle (⭐601)](https://github.com/rsdn/nemerle) - Nemerle is a high-level statically-typed programming language for the .NET platform. It offers functional, object-oriented and imperative features. It has a simple C#-like syntax and a powerful meta-programming system.
+*   [Nemerle (⭐607)](https://github.com/rsdn/nemerle) - Nemerle is a high-level statically-typed programming language for the .NET platform. It offers functional, object-oriented and imperative features. It has a simple C#-like syntax and a powerful meta-programming system.
 
 ### Documentation
 
-*   [DocNet (⭐238)](https://github.com/FransBouma/DocNet) - Your friendly static documentation generator, using markdown files to build the content.
+*   [DocNet (⭐241)](https://github.com/FransBouma/DocNet) - Your friendly static documentation generator, using markdown files to build the content.
 
 ### Event aggregator and messenger
 
-*   [MediatR (⭐9.6k)](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET
+*   [MediatR (⭐10k)](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET
 
 ### Logging
 
-*   [Foundatio (⭐1.7k)](https://github.com/FoundatioFx/Foundatio#logging) - A fluent logging API that can be used to log messages throughout your application.
+*   [Foundatio (⭐1.8k)](https://github.com/FoundatioFx/Foundatio#logging) - A fluent logging API that can be used to log messages throughout your application.
 
 ### Misc
 
 *   [Polly (⭐12k)](https://github.com/App-vNext/Polly) - Express transient-exception-handling and resilience policies such as Retry, Wait-and-Retry, Circuit Breaker, and Bulkhead Isolation in a fluent manner. Fully thread-safe and full async support.  (4.0 / 4.5 / .NET Core / .NET Standard / Xamarin).
-*   [Warden (⭐615)](https://github.com/warden-stack/Warden) - Define "health checks" for your applications, resources and infrastructure. Keep your Warden on the watch
+*   [Warden (⭐616)](https://github.com/warden-stack/Warden) - Define "health checks" for your applications, resources and infrastructure. Keep your Warden on the watch
 
 ### Queue
 
-*   [RestBus (⭐361)](https://github.com/tenor/RestBus) - A service-oriented .NET messaging library for RabbitMQ.
-*   [Confluent's .NET Client (⭐2.5k)](https://github.com/confluentinc/confluent-kafka-dotnet) - Confluent's .NET Client for Apache Kafka.
-*   [Brighter (⭐1.8k)](https://github.com/BrighterCommand/Brighter) - Command Dispatcher, Processor, and Distributed Task Queue <https://www.goparamore.io/>
+*   [RestBus (⭐363)](https://github.com/tenor/RestBus) - A service-oriented .NET messaging library for RabbitMQ.
+*   [Confluent's .NET Client (⭐2.6k)](https://github.com/confluentinc/confluent-kafka-dotnet) - Confluent's .NET Client for Apache Kafka.
+*   [Brighter (⭐1.9k)](https://github.com/BrighterCommand/Brighter) - Command Dispatcher, Processor, and Distributed Task Queue <https://www.goparamore.io/>
 
 ### Testing
 
-*   [Canopy (⭐497)](https://github.com/lefthandedgoat/canopy) - Canopy is a free, open source F# web automation and testing framework
+*   [Canopy (⭐502)](https://github.com/lefthandedgoat/canopy) - Canopy is a free, open source F# web automation and testing framework
 
 ## [7. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Visualization
 
-*   [ipyleaflet (⭐1.3k)](https://github.com/jupyter-widgets/ipyleaflet) - Interactive visualization library for Leaflet.js maps in Jupyter notebooks.
+*   [ipyleaflet (⭐1.4k)](https://github.com/jupyter-widgets/ipyleaflet) - Interactive visualization library for Leaflet.js maps in Jupyter notebooks.
 
 ## [9. Awesome D3](/content/wbkd/awesome-d3/README.md)
 

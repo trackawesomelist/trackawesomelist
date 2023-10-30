@@ -17,7 +17,7 @@
 
 ### Files and Directories / Deleting, Copying, and Renaming
 
-*   [del-cli (⭐280)](https://github.com/sindresorhus/del-cli) - Delete files and folders.
+*   [del-cli (⭐289)](https://github.com/sindresorhus/del-cli) - Delete files and folders.
 
 ## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Testing / Barcode
 
-*   [Erik (⭐549)](https://github.com/phimage/Erik) - An headless browser to access and manipulate webpages using javascript allowing to run functional tests.
+*   [Erik (⭐564)](https://github.com/phimage/Erik) - An headless browser to access and manipulate webpages using javascript allowing to run functional tests.
 
 ## [11. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
@@ -172,7 +172,7 @@
 
 ### Open Source / Other
 
-*   [Sqlectron (⭐4.3k)](https://github.com/sqlectron/sqlectron-gui) - SQL client.
+*   [Sqlectron (⭐4.4k)](https://github.com/sqlectron/sqlectron-gui) - SQL client.
 
 ## [19. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -316,15 +316,15 @@
 
 ### Application Frameworks
 
-*   [peasy (⭐484)](https://github.com/peasy/Peasy.NET) - Peasy is a middle tier framework that offers an easy to use and flexible rules engine and was designed to address common challenges such as concurrency handling, transactional support, fault tolerance, threading, scalability, async and multiple client support, and easy testability, all without a huge learning curve!
+*   [peasy (⭐497)](https://github.com/peasy/Peasy.NET) - Peasy is a middle tier framework that offers an easy to use and flexible rules engine and was designed to address common challenges such as concurrency handling, transactional support, fault tolerance, threading, scalability, async and multiple client support, and easy testability, all without a huge learning curve!
 
 ### Database Drivers
 
-*   [RethinkDb.Driver (⭐378)](https://github.com/bchavez/RethinkDb.Driver/) - A RethinkDB database driver in C# striving for 100% ReQL API compatibility and completeness.
+*   [RethinkDb.Driver (⭐381)](https://github.com/bchavez/RethinkDb.Driver/) - A RethinkDB database driver in C# striving for 100% ReQL API compatibility and completeness.
 
 ### IoC
 
-*   [Simple Injector (⭐1.1k)](https://github.com/simpleinjector/SimpleInjector) - Simple Injector is an easy-to-use Dependency Injection (DI) library for .NET 4+ that supports Silverlight 4+, Windows Phone 8, Windows 8 including Universal apps and Mono.
+*   [Simple Injector (⭐1.2k)](https://github.com/simpleinjector/SimpleInjector) - Simple Injector is an easy-to-use Dependency Injection (DI) library for .NET 4+ that supports Silverlight 4+, Windows Phone 8, Windows 8 including Universal apps and Mono.
 
 ### ORM
 
@@ -332,16 +332,16 @@
 
 ### Serialization
 
-*   [Bond (⭐2.5k)](https://github.com/Microsoft/bond) - cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data.
+*   [Bond (⭐2.6k)](https://github.com/Microsoft/bond) - cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data.
 
 ### Testing
 
-*   [Bogus (⭐7.3k)](https://github.com/bchavez/Bogus) - A simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
+*   [Bogus (⭐7.7k)](https://github.com/bchavez/Bogus) - A simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
 *   [FsCheck (⭐1.1k)](https://github.com/fscheck/FsCheck) - Random Testing for .NET.
 
 ### Source Generator
 
-*   [C# Algorithms, Data Structures (⭐5.5k)](https://github.com/aalhour/C-Sharp-Algorithms) - A list of algorithms and data structures implementations.
+*   [C# Algorithms, Data Structures (⭐5.7k)](https://github.com/aalhour/C-Sharp-Algorithms) - A list of algorithms and data structures implementations.
 
 ## [35. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
@@ -369,7 +369,7 @@
 
 ### Database
 
-*   [LMDB++ (⭐262)](https://github.com/bendiken/lmdbxx) - C++11 wrapper for the LMDB embedded database library. \[PublicDomain]
+*   [LMDB++ (⭐265)](https://github.com/bendiken/lmdbxx) - C++11 wrapper for the LMDB embedded database library. \[PublicDomain]
 
 ## [38. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 

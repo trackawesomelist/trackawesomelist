@@ -40,8 +40,8 @@
 
 ### Scientific / XML
 
-*   [mir (⭐211)](https://github.com/libmir/mir) -  Sandbox for some mir packages: sparse tensors, Hoffman and others.
-*   [mir-algorithm (⭐211)](https://github.com/libmir/mir) - N-dimensional arrays (matrixes, tensors), algorithms, general purpose library.
+*   [mir (⭐210)](https://github.com/libmir/mir) -  Sandbox for some mir packages: sparse tensors, Hoffman and others.
+*   [mir-algorithm (⭐210)](https://github.com/libmir/mir) - N-dimensional arrays (matrixes, tensors), algorithms, general purpose library.
 *   [mir-random (⭐31)](https://github.com/libmir/mir-random) -  Advanced Random Number Generators.
 
 ## [6. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
@@ -60,7 +60,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [JSON Editor (⭐221)](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
+*   [JSON Editor (⭐226)](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
 
 ## [9. Awesome Python](/content/vinta/awesome-python/README.md)
 

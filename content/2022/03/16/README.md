@@ -10,19 +10,19 @@
 
 ### Development tools / Web Servers
 
-*   [comtrya (⭐333)](https://github.com/comtrya/comtrya) — A configuration management tool for localhost / dotfiles [![build badge](https://github.com/comtrya/comtrya/actions/workflows/main.yaml/badge.svg)](https://github.com/comtrya/comtrya/actions)
+*   [comtrya (⭐377)](https://github.com/comtrya/comtrya) — A configuration management tool for localhost / dotfiles [![build badge](https://github.com/comtrya/comtrya/actions/workflows/main.yaml/badge.svg)](https://github.com/comtrya/comtrya/actions)
 
 ## [2. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### WSL Tools / WSL Utilities
 
-*   [community.wsl.sdk (⭐6)](https://github.com/Gitii/community.wsl.sdk) - SDK for Windows Subsystem for Linux for .NET 5, 6 and Standard 2.1 ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [community.wsl.sdk (⭐8)](https://github.com/Gitii/community.wsl.sdk) - SDK for Windows Subsystem for Linux for .NET 5, 6 and Standard 2.1 ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [3. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Showcases / XML
 
-*   [Edrys (⭐258)](https://github.com/edrys-org/edrys) - Remote Teaching Software
+*   [Edrys (⭐265)](https://github.com/edrys-org/edrys) - Remote Teaching Software
 
 ## [4. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
@@ -51,11 +51,11 @@
 
 ### Mathematical Physics / Stochastic processes
 
-*   [Theoretical Computer Science (⭐413)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
+*   [Theoretical Computer Science (⭐452)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
 
 ## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [elagoht (⭐0)](https://github.com/Elagoht/Elagoht.zsh-theme) - Includes decorators for user\@hostname, current directory, virtual environment, `git` status, whether it is running in an `ssh` session, and the execution time of the last command.
 
@@ -63,7 +63,7 @@
 
 ### GTFS Realtime Libraries & Demo Apps / Ruby
 
-*   [GTFS-realtime Vehicle Positions Consumer/Visualizer Demo (⭐48)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-visualizer) - A Java-based demo project for consuming a GTFS-realtime Vehicle Positions feed and displaying this info on a map.
+*   [GTFS-realtime Vehicle Positions Consumer/Visualizer Demo (⭐53)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-visualizer) - A Java-based demo project for consuming a GTFS-realtime Vehicle Positions feed and displaying this info on a map.
 
 ## [8. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Table of Contents / Data Pipeline
 
-*   [Redpanda (⭐6.7k)](https://github.com/redpanda-data/redpanda) \[C++] - Redpanda is Kafka compatible, ZooKeeper-free, JVM-free and source available.
+*   [Redpanda (⭐7.7k)](https://github.com/redpanda-data/redpanda) \[C++] - Redpanda is Kafka compatible, ZooKeeper-free, JVM-free and source available.
 
 ## [11. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 
@@ -308,7 +308,7 @@
 
 ### Form Components / Rich Text Editor
 
-*   [react-simple-code-editor (⭐1.3k)](https://github.com/satya164/react-simple-code-editor) - Simple no-frills code editor with syntax highlighting
+*   [react-simple-code-editor (⭐1.4k)](https://github.com/satya164/react-simple-code-editor) - Simple no-frills code editor with syntax highlighting
 
 ## [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -330,7 +330,7 @@
 
 ### Design and Product / Screencapturing Software
 
-*   [Flameshot (⭐21k)](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Flameshot (⭐22k)](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ---
 

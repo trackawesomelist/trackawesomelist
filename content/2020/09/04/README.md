@@ -60,14 +60,14 @@
 ### Introduction
 
 *   [A short history of video coding](https://www.slideshare.net/vcodex/a-short-history-of-video-coding?from_m_app=ios)  - Video coding is an essential component of video streaming, digital TV, video chat and many other technologies. This presentation, an invited lecture to the US …
-*   [Eyevinn/streaming-onboarding (⭐425)](https://github.com/Eyevinn/streaming-onboarding)  - New to streaming and don't know where to start? This is the place for you! - Eyevinn/streaming-onboarding
+*   [Eyevinn/streaming-onboarding (⭐443)](https://github.com/Eyevinn/streaming-onboarding)  - New to streaming and don't know where to start? This is the place for you! - Eyevinn/streaming-onboarding
 *   [leandromoreira/digital\_video\_introduction (⭐14k)](https://github.com/leandromoreira/digital_video_introduction)  - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). - leandromoreira/digital\_video\_introduction
 
 ## [4. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Languages and Environments
 
-*   [MDX (⭐199)](https://github.com/mdx-js/eslint-mdx/tree/master/packages/eslint-plugin-mdx) - ESLint Parser/Plugin for MDX.
+*   [MDX (⭐202)](https://github.com/mdx-js/eslint-mdx/tree/master/packages/eslint-plugin-mdx) - ESLint Parser/Plugin for MDX.
 
 ## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Examples
 
-*   [MananTank/radioactive-state (⭐297)](https://github.com/MananTank/radioactive-state#readme) - Badges (version, downloads, coverage, size), Twitter Intent, Project Logo, Feature list, Motivation, Installation, Example with GIFs, Emojis, Collapsible Sections, Live Demos, API detailed usage, FAQs, Chat link.
+*   [MananTank/radioactive-state (⭐302)](https://github.com/MananTank/radioactive-state#readme) - Badges (version, downloads, coverage, size), Twitter Intent, Project Logo, Feature list, Motivation, Installation, Example with GIFs, Emojis, Collapsible Sections, Live Demos, API detailed usage, FAQs, Chat link.
 
 ---
 

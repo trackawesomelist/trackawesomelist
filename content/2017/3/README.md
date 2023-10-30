@@ -35,13 +35,13 @@
 
 ### Environment Management
 
-*   [asdf-crystal (⭐69)](https://github.com/marciogm/asdf-crystal) - Plugin for asdf version manager
+*   [asdf-crystal (⭐72)](https://github.com/marciogm/asdf-crystal) - Plugin for asdf version manager
 
 ## [6. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Playbooks
 
-*   [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub (⭐963)](https://github.com/PagerDuty/incident-response-docs).
+*   [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub (⭐975)](https://github.com/PagerDuty/incident-response-docs).
 
 ## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Tools / Web App
 
-*   [SassMe (⭐57)](https://github.com/jimniels/sassme) - Visualize SASS color functions in real-time without compiling.
+*   [SassMe (⭐58)](https://github.com/jimniels/sassme) - Visualize SASS color functions in real-time without compiling.
 
 ### Articles / Web App
 
@@ -157,7 +157,7 @@
 
 ### Issue Tracking and Project Management
 
-*   [ubertesters.com](https://ubertesters.com/) — Test platform, integration and crowdtesters, 2 projects, 5 members
+*   [ubertesters.com](https://ubertesters.com/) — Test platform, integration and crowd testers, 2 projects, five members
 
 ## [15. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -227,11 +227,11 @@
 
 ### Trading
 
-*   [Lean (⭐7.4k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. <https://www.quantconnect.com/lean/>
+*   [Lean (⭐8k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. <https://www.quantconnect.com/lean/>
 
 ### Source Generator
 
-*   [ASP.NET Core Library and Framework Support (⭐208)](https://github.com/jpsingleton/ANCLAFS) - A list of what .NET libraries and frameworks are currently supported by ASP.NET Core and .NET Core).
+*   [ASP.NET Core Library and Framework Support (⭐209)](https://github.com/jpsingleton/ANCLAFS) - A list of what .NET libraries and frameworks are currently supported by ASP.NET Core and .NET Core).
 
 ## [19. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
@@ -248,7 +248,7 @@
 
 ### Packages / Logging
 
-*   [pino (⭐11k)](https://github.com/pinojs/pino) - Extremely fast logger inspired by Bunyan.
+*   [pino (⭐12k)](https://github.com/pinojs/pino) - Extremely fast logger inspired by Bunyan.
 
 ## [21. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -258,11 +258,11 @@
 
 ### Date and Time
 
-*   [timelier (⭐11)](https://github.com/ausimian/timelier) - A cron-style scheduler for Elixir.
+*   [timelier (⭐12)](https://github.com/ausimian/timelier) - A cron-style scheduler for Elixir.
 
 ### Third Party APIs
 
-*   [balalaika\_bear (⭐11)](https://github.com/ayrat555/balalaika_bear) - Simple VK API client for Elixir.
+*   [balalaika\_bear (⭐12)](https://github.com/ayrat555/balalaika_bear) - Simple VK API client for Elixir.
 
 ## [22. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -272,13 +272,13 @@
 
 ### Other Awesome Projects
 
-*   [C++ links (⭐3.6k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
+*   [C++ links (⭐3.7k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
 
 ## [23. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
-*   [tmux-better-mouse-mode (⭐834)](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
+*   [tmux-better-mouse-mode (⭐856)](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
 
 ## [24. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -316,7 +316,7 @@
 
 ### CAD Specific / KiCad
 
-*   [Keyboard PCB Guide (⭐3.6k)](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
+*   [Keyboard PCB Guide (⭐3.9k)](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
 
 ### Blogs / Eagle
 
@@ -357,7 +357,7 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 
 ### Web Frameworks
 
-*   [Camping (⭐785)](https://github.com/camping/camping) - A web microframework which consistently stays at less than 4kB of code.
+*   [Camping (⭐838)](https://github.com/camping/camping) - A web microframework which consistently stays at less than 4kB of code.
 
 ## [30. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
@@ -385,7 +385,7 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 
 ### For Electron / Other
 
-*   [elemon (⭐71)](https://github.com/manidlou/elemon) - Live-reload your app during development.
+*   [elemon (⭐72)](https://github.com/manidlou/elemon) - Live-reload your app during development.
 
 ## [33. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
@@ -416,13 +416,13 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 ### Math / Other
 
 *   [Math as code (⭐15k)](https://github.com/Jam3/math-as-code) - Cheat-sheet for mathematical notation in code form.
-*   [Eases (⭐376)](https://github.com/mattdesl/eases) - Grab-bag of modular easing equations.
+*   [Eases (⭐373)](https://github.com/mattdesl/eases) - Grab-bag of modular easing equations.
 *   [Algebra rules](http://algebrarules.com/) - The most useful rules of basic algebra.
 
 ### Inspiration / Other
 
 *   [Chrome Experiments](https://www.chromeexperiments.com/) - Showcase of web experiments written by the creative coding community.
-*   [People You Should Follow on CodePen (⭐650)](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen) - List of interesting people worth following.
+*   [People You Should Follow on CodePen (⭐658)](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen) - List of interesting people worth following.
 
 ### Blogs • Websites / Other
 
@@ -431,10 +431,10 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 
 ### Related / Other
 
-*   [Awesome opengl (⭐1.8k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
-*   [Awesome canvas (⭐1.3k)](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts.
-*   [Awesome audio visualization (⭐4.2k)](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization.
-*   [Awesome computer vision (⭐18k)](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
+*   [Awesome opengl (⭐1.9k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
+*   [Awesome canvas (⭐1.4k)](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts.
+*   [Awesome audio visualization (⭐4.3k)](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization.
+*   [Awesome computer vision (⭐19k)](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
 
 ## [35. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 

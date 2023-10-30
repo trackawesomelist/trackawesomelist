@@ -1,6 +1,6 @@
 # Awesome List Updates on May 11, 2021
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -37,12 +37,12 @@
 ### Bibliography tools
 
 *   [JabRef](https://www.jabref.org) - Very powerful cross-platform (Java) bibtex editor. ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
-*   [Papis (⭐1k)](https://github.com/papis/papis) - Extremely customizable,
+*   [Papis (⭐1.2k)](https://github.com/papis/papis) - Extremely customizable,
     powerful and simple cross-platform (Python) library manager. It has a very
     complete Command-Line-Interface, several GUIs and scripting capability.
     ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 *   [Mendeley](https://www.mendeley.com) - Both an app and cloud client to manage your references and PDFs. Can sync out to a bibtex file for your LaTeX workflow. ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg)
-*   [betterbib (⭐773)](https://github.com/nschloe/betterbib) - Command-line utility for improving your BibTeX files. Fetches information from online sources. ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+*   [betterbib (⭐784)](https://github.com/nschloe/betterbib) - Command-line utility for improving your BibTeX files. Fetches information from online sources. ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
 ### Build Tools
 
@@ -54,7 +54,7 @@
 
 ### Quality Check Tools
 
-*   [blacktex (⭐142)](https://github.com/nschloe/blacktex) - Command-line tool that replaces commonly occurring LaTeX anti-patterns and cleans up your files. ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+*   [blacktex (⭐139)](https://github.com/nschloe/blacktex) - Command-line tool that replaces commonly occurring LaTeX anti-patterns and cleans up your files. ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
 ### Tools centered around equations
 
@@ -64,7 +64,7 @@
 
 ### LaTeX-compatible GUI tools
 
-*   [TikZ-Editor (⭐168)](https://github.com/fredokun/TikZ-Editor) - Live-previewing editor for TikZ figures. ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+*   [TikZ-Editor (⭐171)](https://github.com/fredokun/TikZ-Editor) - Live-previewing editor for TikZ figures. ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 *   [Dia](https://wiki.gnome.org/Apps/Dia) - Cross-platform diagramming tool that can export to PSTricks and MetaPost code. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 *   [TikZiT](https://tikzit.GitHub.io) - GUI tool for creating graphs and string diagrams using PGF/TikZ. ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
@@ -79,7 +79,7 @@
 ### Graphics / TikZ
 
 *   [LaTeX en SI](https://sciences-indus-cpge.papanicola.info/-LaTeX-en-SI-) - Useful website with some custom packages to draw special plots (Bode, Nyquist, electrical schematics, block schematics, etc.) using TikZ. Note that everything is in French.
-*   [matlab2tikz (⭐1.3k)](https://github.com/matlab2tikz/matlab2tikz) - Convert your MATLAB plots to PGFPlots/TikZ. ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+*   [matlab2tikz (⭐1.4k)](https://github.com/matlab2tikz/matlab2tikz) - Convert your MATLAB plots to PGFPlots/TikZ. ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
 ### Resources / TikZ
 
@@ -89,7 +89,7 @@
 
 ### AppImage consumption tools / Desktop integration
 
-*   [Thumbnailer for AppImages (⭐6)](https://github.com/mttbernardini/appimage-thumbnailer) - Generates icons for AppImages that are shown in file managers of GNOME and KDE compatible desktop environments.
+*   [Thumbnailer for AppImages (⭐7)](https://github.com/mttbernardini/appimage-thumbnailer) - Generates icons for AppImages that are shown in file managers of GNOME and KDE compatible desktop environments.
 
 ## [3. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -99,11 +99,11 @@
 
 ### Community Extensions
 
-*   [Role-based Docker registry authentication (⭐7)](https://github.com/lifs-tools/keycloak-docker-role-mapper)
+*   [Role-based Docker registry authentication (⭐8)](https://github.com/lifs-tools/keycloak-docker-role-mapper)
 
 ### Example Projects
 
-*   [Keycloak Last Login Date Event Listener (⭐19)](https://github.com/ThoreKr/keycloak-last-login-event-listener)
+*   [Keycloak Last Login Date Event Listener (⭐20)](https://github.com/ThoreKr/keycloak-last-login-event-listener)
 
 ## [4. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 
@@ -114,12 +114,6 @@
 ### SharePoint
 
 *   [SharePoint2019Commands (⭐3)](https://github.com/sassdawe/SharePoint2019Commands) - PowerShell module to help you auto-load all SharePoint 2019 cmdlets.
-
-## [5. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/README.md)
-
-### Data Standardization, Interoperability and APIs
-
-*   [Agstack](https://agstack.org) - Open-Source Digital Infrastructure for the Agriculture Ecosystem
 
 ---
 

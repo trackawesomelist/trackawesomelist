@@ -16,13 +16,13 @@
 
 ### Traffic Analysis/Inspection
 
-*   [CapTipper (⭐677)](https://github.com/omriher/CapTipper): Malicious HTTP traffic explorer
-*   [Chopshop (⭐468)](https://github.com/MITRECND/chopshop): is a MITRE developed framework to aid analysts in the creation and execution of pynids based decoders and detectors of APT tradecraft.
-*   [yaraPcap (⭐85)](https://github.com/kevthehermit/YaraPcap): Process HTTP Pcaps With YARA
+*   [CapTipper (⭐688)](https://github.com/omriher/CapTipper): Malicious HTTP traffic explorer
+*   [Chopshop (⭐481)](https://github.com/MITRECND/chopshop): is a MITRE developed framework to aid analysts in the creation and execution of pynids based decoders and detectors of APT tradecraft.
+*   [yaraPcap (⭐93)](https://github.com/kevthehermit/YaraPcap): Process HTTP Pcaps With YARA
 
 ### File Extraction
 
-*   [scalpel (⭐523)](https://github.com/sleuthkit/scalpel): Scalpel is an open source data carving tool.
+*   [scalpel (⭐563)](https://github.com/sleuthkit/scalpel): Scalpel is an open source data carving tool.
 
 ## [3. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -40,11 +40,11 @@
 
 ### Authorization
 
-*   [AccessGranted (⭐767)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
+*   [AccessGranted (⭐769)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
 
 ### Caching
 
-*   [Readthis (⭐506)](https://github.com/sorentwo/readthis) - High performance, pooled, ActiveSupport compliant caching with Redis.
+*   [Readthis (⭐505)](https://github.com/sorentwo/readthis) - High performance, pooled, ActiveSupport compliant caching with Redis.
 
 ### Queues and Messaging
 
@@ -55,7 +55,7 @@
 ### Bindings
 
 *   [dvulkan (⭐16)](https://github.com/ColonelThirtyTwo/dvulkan) - Auto-generated D bindings for Vulkan.
-*   [VulkanSharp (⭐498)](https://github.com/mono/VulkanSharp) - C# bindings for Vulkan. \[MIT]
+*   [VulkanSharp (⭐514)](https://github.com/mono/VulkanSharp) - C# bindings for Vulkan. \[MIT]
 *   [LWJGL](https://www.lwjgl.org/) - Lightweight Java Game Library 3 has Vulkan bindings. \[BSD]
 
 ## [7. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
@@ -78,17 +78,17 @@
 
 ### Reactive Programming / Runner
 
-*   [MobX (⭐26k)](https://github.com/mobxjs/mobx) - TFRP library for simple, scalable state management.
+*   [MobX (⭐27k)](https://github.com/mobxjs/mobx) - TFRP library for simple, scalable state management.
 
 ## [10. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Text
 
-*   [babelfish (⭐249)](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals.
+*   [babelfish (⭐251)](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals.
 
 ### Packages / Math
 
-*   [algebra (⭐104)](https://github.com/fibo/algebra) - Algebraic structures.
+*   [algebra (⭐105)](https://github.com/fibo/algebra) - Algebraic structures.
 
 ## [11. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 

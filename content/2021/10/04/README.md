@@ -10,11 +10,11 @@
 
 ### GTFS Analysis Tools / Ruby
 
-*   [GTFS-to-Chart (⭐19)](https://github.com/BlinkTagInc/gtfs-to-chart) - Creates stringline charts showing all vehicles on a transit route from GTFS data.
+*   [GTFS-to-Chart (⭐21)](https://github.com/BlinkTagInc/gtfs-to-chart) - Creates stringline charts showing all vehicles on a transit route from GTFS data.
 
 ## [2. Awesome Devtools](/content/moimikey/awesome-devtools/README.md)
 
-### Resources / Validation as a Service
+### Resources / Validation & Parsers
 
 *   [CSP Evaluator](https://csp-evaluator.withgoogle.com) - Evaluate CSP rules
 
@@ -69,55 +69,50 @@
 
 ### Tools / Frameworks
 
+*   [Carrier](https://getcarrier.io/) - Continuous test execution platform with ability to perform load testing using customized JMeter and Gatling containers.
 *   [Karate Gatling](https://karatelabs.github.io/karate/karate-gatling/) - Re-use Karate API-tests as performance tests executed by Gatling.
 
-## [7. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### Automation / Frameworks
+### APIs, Data, and ML
 
-*   [Carrier](https://getcarrier.io/) - Continuous test execution platform with ability to perform load testing using customized JMeter and Gatling containers.
+*   [CraftMyPDF](https://craftmypdf.com) - Auto-Generate PDF documents from reusable templates with a drop-and-drop editor and a simple API. The free plan comes with 100 PDFs/month and three templates.
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### APIs, Data and ML
-
-*   [CraftMyPDF](https://craftmypdf.com) - Auto-Generate PDF documents from reusable templates with a drop-and-drop editor and a simple API. Free plan comes with 100 PDFs/month and 3 templates.
-
-## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Computer Vision
 
-*   [dockerface (⭐186)](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container. **\[Deprecated]**
+*   [dockerface (⭐187)](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container. **\[Deprecated]**
 
-## [10. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
+## [9. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Tutorials
 
 *   [Some things to know about Lit](https://dev.to/open-wc/some-things-to-know-about-litelement-282c)
 
-## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### CLI
 
-*   [FINAL CUT (⭐783)](https://github.com/gansm/finalcut) - Library for creating terminal applications with text-based widgets. \[LGPL]
+*   [FINAL CUT (⭐855)](https://github.com/gansm/finalcut) - Library for creating terminal applications with text-based widgets. \[LGPL]
 
 ### Scientific Computing
 
-*   [preCICE (⭐551)](https://github.com/precice/precice) - Coupling library for partitioned multi-physics simulations (FSI, CHT, and more). \[LGPL] [website](https://precice.org/)
+*   [preCICE (⭐600)](https://github.com/precice/precice) - Coupling library for partitioned multi-physics simulations (FSI, CHT, and more). \[LGPL] [website](https://precice.org/)
 
-## [12. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
+## [11. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 
 ### File Formats and Parsers
 
 *   [squiggly (⭐2)](https://github.com/edadma/squiggly) - Cross-platform template language for Scala, inspired by Liquid and Hugo templates.
 
-## [13. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [12. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Web / Scanning / Pentesting
 
-*   [Keyscope (⭐370)](https://github.com/SpectralOps/keyscope) - Keyscope is an extensible key and secret validation for checking active secrets against multiple SaaS vendors built in Rust
+*   [Keyscope (⭐364)](https://github.com/SpectralOps/keyscope) - Keyscope is an extensible key and secret validation for checking active secrets against multiple SaaS vendors built in Rust
 
-## [14. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [13. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Infrastructure as Code Analysis / Multi-Platform
 
@@ -127,25 +122,25 @@
 
 *   [Sigstore](https://www.sigstore.dev/) - sigstore is a set of free to use and open source tools, including [fulcio (⭐385)](https://github.com/sigstore/fulcio), [cosign (⭐2.6k)](https://github.com/sigstore/cosign) and [rekor (⭐598)](https://github.com/sigstore/rekor), handling digital signing, verification and checks for provenance needed to make it safer to distribute and use open source software.
 
-## [15. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+## [14. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Data Pipeline
 
-*   [fluvio (⭐1.8k)](https://github.com/infinyon/fluvio) \[Rust/WASM] - Real-time programmable data streaming platform with in-line computation capabilities.
+*   [fluvio (⭐1.9k)](https://github.com/infinyon/fluvio) \[Rust/WASM] - Real-time programmable data streaming platform with in-line computation capabilities.
 
-## [16. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [15. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [VIR (⭐140)](https://github.com/TommyX12/VIR) - Intelligent time manager with automatic planning.
+*   [VIR (⭐147)](https://github.com/TommyX12/VIR) - Intelligent time manager with automatic planning.
 
-## [17. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
+## [16. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
 ### Mods / Performance
 
 *   [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) - A Fabric mod to allow Optifine to run using Fabric loader.
 
-## [18. Public Apis](/content/public-apis/public-apis/README.md)
+## [17. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Anime
 
@@ -442,17 +437,35 @@
 
 
 
+## [18. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Graphs / GraphQL
+
+*   [Learning graphqL](https://riptutorial.com/Download/graphql.pdf) - Compiled from StackOverflow Documentation (PDF)
+
+### OCaml / PicoLisp
+
+*   [OCaml From the Ground Up](https://ocamlbook.org) - Daniil Baturin (HTML) (:construction: *in process*)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Supporting Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)
+
+### Ruby / Tornado
+
+*   [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) - Zed A. Shaw
+
 ## [19. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
 ### Applications
 
-*   [Agregore (⭐595)](https://github.com/AgregoreWeb/agregore-browser): A minimalistic web browser that supports multiple peer-to-peer protocols and is extensible with standard WebExtensions.
-*   [airpaste ☠️ (⭐814)](https://github.com/mafintosh/airpaste): A 1-1 network pipe that auto discovers other peers using mdns. Can send text or files.
+*   [Agregore (⭐622)](https://github.com/AgregoreWeb/agregore-browser): A minimalistic web browser that supports multiple peer-to-peer protocols and is extensible with standard WebExtensions.
+*   [airpaste ☠️ (⭐817)](https://github.com/mafintosh/airpaste): A 1-1 network pipe that auto discovers other peers using mdns. Can send text or files.
 *   [Friendica (⭐1.2k)](https://github.com/friendica/friendica): Decentralised communications platform that integrates social communication. Connect effortlessly to a federated communications network of several thousand servers, with more than half a million users. Directly connect to anyone on Friendica, Mastodon, Diaspora, GnuSocial, Pleroma, or Hubzilla, regardless of where each user profile is hosted.
-*   [LF (⭐877)](https://github.com/zerotier/lf): Fully decentralized fully replicated key/value store. Fully decentralized means anyone can run a node without obtaining special permission, and all nodes are effectively equal. Fully replicated means every node stores all data.
-*   [ShareDrop ☠️ (⭐6.4k)](https://github.com/cowbell/sharedrop): Clone of Apple AirDrop service. Allows transferring files directly between devices, without having to upload them to any server first.
+*   [LF (⭐883)](https://github.com/zerotier/lf): Fully decentralized fully replicated key/value store. Fully decentralized means anyone can run a node without obtaining special permission, and all nodes are effectively equal. Fully replicated means every node stores all data.
+*   [ShareDrop ☠️ (⭐6.6k)](https://github.com/cowbell/sharedrop): Clone of Apple AirDrop service. Allows transferring files directly between devices, without having to upload them to any server first.
 *   [TheDistributedBay ☠️ (⭐28)](https://github.com/TheDistributedBay/TheDistributedBay): P2P rewrite of the Open Bay/Pirate Bay. It uses a completely distributed protocol to share entries between numerous nodes. This makes it nearly impossible to take down by seizure of servers. Each node contains a complete copy, and any changes are propagated through the network.
-*   [webcat ☠️ (⭐433)](https://github.com/mafintosh/webcat): P2P pipe across the web using webrtc that uses Github private/public key for authentication and a signalhub for discovery. Can send text or files.
+*   [webcat ☠️ (⭐438)](https://github.com/mafintosh/webcat): P2P pipe across the web using webrtc that uses Github private/public key for authentication and a signalhub for discovery. Can send text or files.
 
 ---
 

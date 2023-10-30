@@ -10,7 +10,7 @@
 
 ### Projects / Open Source Projects
 
-*   [Healthchecks (⭐6.2k)](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool written in Python & Django.
+*   [Healthchecks (⭐6.7k)](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool written in Python & Django.
 
 ## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -20,11 +20,11 @@
 
 ### GTFS Validators / Ruby
 
-*   [Transport Validator (⭐28)](https://github.com/etalab/transport-validator/) - An open-source validator implemented in [Rust](https://www.rust-lang.org/). Used by the [French National Access Point](https://transport.data.gouv.fr/validation/).
+*   [Transport Validator (⭐30)](https://github.com/etalab/transport-validator/) - An open-source validator implemented in [Rust](https://www.rust-lang.org/). Used by the [French National Access Point](https://transport.data.gouv.fr/validation/).
 
 ### GTFS Realtime Convertors / Ruby
 
-*   [GTFS-realtime to SIRI-Lite (⭐20)](https://github.com/etalab/transpo-rt/) - A [Rust](https://www.rust-lang.org/) webserver to convert multiple GTFS-RT feeds to a SIRI-Lite API.
+*   [GTFS-realtime to SIRI-Lite (⭐21)](https://github.com/etalab/transpo-rt/) - A [Rust](https://www.rust-lang.org/) webserver to convert multiple GTFS-RT feeds to a SIRI-Lite API.
 
 ## [3. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Contents / Libraries
 
-*   [FHIR .NET API (⭐719)](https://github.com/FirelyTeam/firely-net-sdk) - The official .NET API for HL7 FHIR.
+*   [FHIR .NET API (⭐735)](https://github.com/FirelyTeam/firely-net-sdk) - The official .NET API for HL7 FHIR.
 *   [HAPI FHIR (⭐1.7k)](https://github.com/hapifhir/hapi-fhir) - Java API for HL7 FHIR Clients and Servers.
 
 ### Contents / Asset Management
@@ -43,7 +43,7 @@
 
 ### Contents / Logistics
 
-*   [ID3C (⭐21)](https://github.com/seattleflu/id3c) - Data logistics system enabling real-time genomic epidemiology.
+*   [ID3C (⭐22)](https://github.com/seattleflu/id3c) - Data logistics system enabling real-time genomic epidemiology.
 
 ## [4. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Resources / Examples
 
-*   [Peer to Peer game of telephone (⭐67)](https://github.com/ably-labs/depict-it) - A party game for 4 to 8 players (ideally!) where you mutate a phrase through drawings and captions, to make up funny scenarios with your friends. The project is an example of how to build a Peer-to-Peer game with Vue.
+*   [Peer to Peer game of telephone (⭐70)](https://github.com/ably-labs/depict-it) - A party game for 4 to 8 players (ideally!) where you mutate a phrase through drawings and captions, to make up funny scenarios with your friends. The project is an example of how to build a Peer-to-Peer game with Vue.
 
 ### Resources / Books
 
@@ -95,7 +95,7 @@
 
 ### Boilerplates
 
-*   [nextjs-starter (⭐418)](https://github.com/pbteja1998/nextjs-starter) - An SEO Optimized Next.js 10 starter kit template with React 17 + Typescript + Tailwind CSS 2 + React Query 3 + (GitHub Auth + Passwordless Auth) using (NextAuth.js and Fauna DB), ESLint, Prettier, Pre-commit hook with Husky. Can have different layouts for different pages.
+*   [nextjs-starter (⭐425)](https://github.com/pbteja1998/nextjs-starter) - An SEO Optimized Next.js 10 starter kit template with React 17 + Typescript + Tailwind CSS 2 + React Query 3 + (GitHub Auth + Passwordless Auth) using (NextAuth.js and Fauna DB), ESLint, Prettier, Pre-commit hook with Husky. Can have different layouts for different pages.
 
 ## [12. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 

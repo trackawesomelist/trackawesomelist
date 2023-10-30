@@ -32,7 +32,7 @@
 
 ### Samples
 
-*   [Ray Tracing In One Weekend (Vulkan RTX) (⭐890)](https://github.com/GPSnoopy/RayTracingInVulkan) - Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.
+*   [Ray Tracing In One Weekend (Vulkan RTX) (⭐1k)](https://github.com/GPSnoopy/RayTracingInVulkan) - Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.
 
 ## [5. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
@@ -59,7 +59,7 @@
 
 ### Platforms and toolkits
 
-*   [UralicNLP (⭐54)](https://github.com/mikahama/uralicNLP) - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
+*   [UralicNLP (⭐59)](https://github.com/mikahama/uralicNLP) - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
 
 ## [7. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -135,11 +135,11 @@
 
 ### Template Engine / Other
 
-*   [Rocker (⭐673)](https://github.com/fizzed/rocker) - Optimized, memory efficient and speedy template engine producing statically typed, plain objects.
+*   [Rocker (⭐698)](https://github.com/fizzed/rocker) - Optimized, memory efficient and speedy template engine producing statically typed, plain objects.
 
 ### Related Awesome Lists / Mocking
 
-*   [Java Concurrency Checklist (⭐1.1k)](https://github.com/code-review-checklists/java-concurrency)
+*   [Java Concurrency Checklist (⭐1.2k)](https://github.com/code-review-checklists/java-concurrency)
 
 ## [10. Awesome Math](/content/rossant/awesome-math/README.md)
 
@@ -150,7 +150,7 @@
 
 ### Blogs
 
-*   [Mathsisfun](https://www.mathsisfun.com) simple text light weight site for students upto highschool
+*   [Mathsisfun](https://www.mathsisfun.com) simple text lightweight site for students up to highschool
 
 ## [11. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/README.md)
 
@@ -162,7 +162,7 @@
 
 ### Frameworks, Libraries and Tools / Compression
 
-*   [lz4net (⭐493)](https://github.com/MiloszKrajewski/K4os.Compression.LZ4) - Ultra fast compression algorithm for all .NET platforms.
+*   [lz4net (⭐602)](https://github.com/MiloszKrajewski/K4os.Compression.LZ4) - Ultra fast compression algorithm for all .NET platforms.
 
 ---
 

@@ -10,11 +10,11 @@
 
 ### UI
 
-*   [Pin Code (⭐309)](https://github.com/LiewJunTung/pin_code_text_field) <!--stargazers:LiewJunTung/pin_code_text_field--> - Animated & customisable Pin code for login and OTP by [Liew Jun Tung](https://github.com/liewjuntung)
+*   [Pin Code (⭐337)](https://github.com/LiewJunTung/pin_code_text_field) <!--stargazers:LiewJunTung/pin_code_text_field--> - Animated & customisable Pin code for login and OTP by [Liew Jun Tung](https://github.com/liewjuntung)
 
 ### Analytics / Image Picker
 
-*   [Pure Mixpanel (⭐23)](https://github.com/seenickcode/pure_mixpanel) <!--stargazers:seenickcode/pure_mixpanel--> - Analytics for the popular [Mixpanel.com](https://mixpanel.com) [Nick Manning](https://twitter.com/seenickcode)
+*   [Pure Mixpanel (⭐24)](https://github.com/seenickcode/pure_mixpanel) <!--stargazers:seenickcode/pure_mixpanel--> - Analytics for the popular [Mixpanel.com](https://mixpanel.com) [Nick Manning](https://twitter.com/seenickcode)
 
 ## [2. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -24,7 +24,7 @@
 
 ### Web Programming • Libraries
 
-*   [Babylon.js (⭐20k)](https://github.com/BabylonJS/Babylon.js) - complete JavaScript framework for building 3D games with HTML 5 and WebGL.
+*   [Babylon.js (⭐21k)](https://github.com/BabylonJS/Babylon.js) - complete JavaScript framework for building 3D games with HTML 5 and WebGL.
 
 ### Other
 
@@ -44,7 +44,7 @@
 
 ### Country Data
 
-*   [validates\_zipcode (⭐127)](https://github.com/dgilperez/validates_zipcode) - Postal code / zipcode validation for Rails, supporting 233 country codes.
+*   [validates\_zipcode (⭐129)](https://github.com/dgilperez/validates_zipcode) - Postal code / zipcode validation for Rails, supporting 233 country codes.
 
 ## [5. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -110,12 +110,12 @@
 ### Development tools / Deployment
 
 *   Docker
-    *   [emk/rust-musl-builder (⭐1.4k)](https://github.com/emk/rust-musl-builder) — Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries
-    *   [kpcyrd/mini-docker-rust (⭐166)](https://github.com/kpcyrd/mini-docker-rust) — An example project for very small rust docker images
-    *   [liuchong/docker-rustup (⭐88)](https://github.com/liuchong/docker-rustup) — A multiple version (with musl tools) Rust Docker image
-    *   [LukeMathWalker/cargo-chef (⭐1.1k)](https://github.com/LukeMathWalker/cargo-chef) - A tool and pre-built images for caching compiling remote dependencies between Docker builds.
-    *   [rust-cross/rust-musl-cross (⭐444)](https://github.com/rust-cross/rust-musl-cross) — Docker images for compiling static Rust binaries using musl-cross [![Build](https://github.com/rust-cross/rust-musl-cross/workflows/Build/badge.svg)](https://github.com/rust-cross/rust-musl-cross/actions?query=workflow%3ABuild)
-    *   [rust-lang-nursery/docker-rust (⭐355)](https://github.com/rust-lang/docker-rust) — the official Rust Docker image
+    *   [emk/rust-musl-builder (⭐1.5k)](https://github.com/emk/rust-musl-builder) — Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries
+    *   [kpcyrd/mini-docker-rust (⭐178)](https://github.com/kpcyrd/mini-docker-rust) — An example project for very small rust docker images
+    *   [liuchong/docker-rustup (⭐87)](https://github.com/liuchong/docker-rustup) — A multiple version (with musl tools) Rust Docker image
+    *   [LukeMathWalker/cargo-chef (⭐1.3k)](https://github.com/LukeMathWalker/cargo-chef) - A tool and pre-built images for caching compiling remote dependencies between Docker builds.
+    *   [rust-cross/rust-musl-cross (⭐500)](https://github.com/rust-cross/rust-musl-cross) — Docker images for compiling static Rust binaries using musl-cross [![Build](https://github.com/rust-cross/rust-musl-cross/workflows/Build/badge.svg)](https://github.com/rust-cross/rust-musl-cross/actions?query=workflow%3ABuild)
+    *   [rust-lang-nursery/docker-rust (⭐376)](https://github.com/rust-lang/docker-rust) — the official Rust Docker image
 
 ## [9. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
@@ -146,7 +146,7 @@
 
 ### Contents / Hardware
 
-*   [GameShell](https://www.clockworkpi.com/) - A modular handheld game console that allows you to play & modify retro games and DIY new devices. Check the [GameShell Docs (⭐176)](https://github.com/clockworkpi/GameShellDocs/wiki/Running-PICO-8-on-the-GameShell) for how to run PICO-8 on the GameShell.
+*   [GameShell](https://www.clockworkpi.com/) - A modular handheld game console that allows you to play & modify retro games and DIY new devices. Check the [GameShell Docs (⭐182)](https://github.com/clockworkpi/GameShellDocs/wiki/Running-PICO-8-on-the-GameShell) for how to run PICO-8 on the GameShell.
 
 ### Contents / Articles & Posts
 

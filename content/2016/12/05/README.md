@@ -40,18 +40,18 @@
 
 ### conversion
 
-*   [topojson (⭐4.4k)](https://github.com/topojson/topojson): convert GeoJSON to & from TopoJSON, join data from CSV
+*   [topojson (⭐4.5k)](https://github.com/topojson/topojson): convert GeoJSON to & from TopoJSON, join data from CSV
 
 ### data
 
-*   [world-atlas (⭐965)](https://github.com/topojson/world-atlas): customizable simplified versions of natural earth data
-*   [us-atlas (⭐811)](https://github.com/topojson/us-atlas): geojson & topojson for United States features
+*   [world-atlas (⭐975)](https://github.com/topojson/world-atlas): customizable simplified versions of natural earth data
+*   [us-atlas (⭐825)](https://github.com/topojson/us-atlas): geojson & topojson for United States features
 
 ## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [SmartFormat.NET (⭐871)](https://github.com/scottrippey/SmartFormat.NET) - An extensible replacement for string.Format.
+*   [SmartFormat.NET (⭐985)](https://github.com/scottrippey/SmartFormat.NET) - An extensible replacement for string.Format.
 
 ## [5. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Laravel File Manager (⭐978)](https://github.com/alexusmai/laravel-file-manager) - Powerful file manager for Laravel
+*   [Laravel File Manager (⭐1k)](https://github.com/alexusmai/laravel-file-manager) - Powerful file manager for Laravel
 
 ## [2. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Table of Contents / Data Pipeline
 
-*   [brooklin (⭐825)](https://github.com/linkedin/Brooklin/) \[Java] - a distributed system intended for streaming data between various heterogeneous source and destination systems with high reliability and throughput at scale from Linkedin (replaced databus).
+*   [brooklin (⭐849)](https://github.com/linkedin/Brooklin/) \[Java] - a distributed system intended for streaming data between various heterogeneous source and destination systems with high reliability and throughput at scale from Linkedin (replaced databus).
 
 ## [5. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
@@ -39,15 +39,15 @@
 ### Inspired by Elm / Games
 
 *   [Elchemy (⭐1.1k)](https://github.com/wende/elchemy) - Write Elixir code using statically-typed Elm-like syntax
-*   [Elmish (⭐745)](https://github.com/elmish/elmish) - Elm-like abstractions for F# apps
+*   [Elmish (⭐762)](https://github.com/elmish/elmish) - Elm-like abstractions for F# apps
 *   [Fabulous (⭐1k)](https://github.com/fsprojects/Fabulous) - F# Functional App Development, using declarative dynamic UI
 *   [Redux](https://redux.js.org/introduction/prior-art) - A predictable state container for JavaScript apps.
 
 ### Beyond the DOM / Games
 
-*   [iOS (⭐158)](https://github.com/pzp1997/elm-ios) A POC for using Elm 0.18 for native iOS Applications
+*   [iOS (⭐160)](https://github.com/pzp1997/elm-ios) A POC for using Elm 0.18 for native iOS Applications
 *   [elmish-wasm (⭐17)](https://github.com/Chadtech/elmish-wasm) A POC for compiling elm to Web Assembly
-*   [elm-serverless (⭐169)](https://github.com/ktonon/elm-serverless) Run Elm 0.18 on Cloud Functions using the Serverless Frameworks
+*   [elm-serverless (⭐170)](https://github.com/ktonon/elm-serverless) Run Elm 0.18 on Cloud Functions using the Serverless Frameworks
 
 ## [6. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 

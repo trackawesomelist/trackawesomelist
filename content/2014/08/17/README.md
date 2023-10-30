@@ -198,7 +198,7 @@
 
 ### 2013 - 2014
 
-*   [2014](http://infolab.stanford.edu/\~ullman/mmds/book.pdf) - **Stanford** - Mining of Massive Datasets.
+*   [2014](http://infolab.stanford.edu/~ullman/mmds/book.pdf) - **Stanford** - Mining of Massive Datasets.
 
 ---
 

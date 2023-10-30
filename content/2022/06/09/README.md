@@ -10,29 +10,29 @@
 
 ### Other / [Other](#other-1)
 
-*   [dennis (⭐0)](https://github.com/willkg/dennis) — A set of utilities for working with PO files to ease development and improve quality.
+*   [dennis (⭐0)](https://github.com/willkg/dennis) :warning: — A set of utilities for working with PO files to ease development and improve quality.
 
 ## [2. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ### Contents / Frameworks
 
-*   [Clinical Quality Language (⭐213)](https://github.com/cqframework/clinical_quality_language) - Clinical Quality Language is a HL7 standard for the expression of clinical knowledge.
+*   [Clinical Quality Language (⭐217)](https://github.com/cqframework/clinical_quality_language) - Clinical Quality Language is a HL7 standard for the expression of clinical knowledge.
 
 ### Contents / Libraries
 
-*   [Android FHIR SDK (⭐331)](https://github.com/google/android-fhir) - The Android FHIR SDK
+*   [Android FHIR SDK (⭐352)](https://github.com/google/android-fhir) - The Android FHIR SDK
 *   [FHIRKit Client (⭐149)](https://github.com/Vermonster/fhir-kit-client) - Node FHIR client library.
-*   [FHIRModels (⭐142)](https://github.com/apple/FHIRModels) - FHIRModels is a Swift library for FHIR resource data models.
+*   [FHIRModels (⭐147)](https://github.com/apple/FHIRModels) - FHIRModels is a Swift library for FHIR resource data models.
 
 ### Contents / Integration
 
-*   [Open eHealth Integration Platform (⭐143)](https://github.com/oehf/ipf) - An extension of the Apache Camel routing and mediation engine
+*   [Open eHealth Integration Platform (⭐146)](https://github.com/oehf/ipf) - An extension of the Apache Camel routing and mediation engine
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [qalendar (⭐75)](https://github.com/tomosterlund/qalendar) - An event calendar and datepicker for Vue 3
+*   [qalendar (⭐140)](https://github.com/tomosterlund/qalendar) - An event calendar and datepicker for Vue 3
 
 ## [4. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -44,23 +44,19 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Jam](https://jamshelf.com/) - Jam is an open source alternative to Clubhouse: private audio chat rooms to talk to friends and family. ([Demo](https://jam.systems/), [Source Code (⭐1.2k)](https://github.com/jam-systems/jam)) `AGPL-3.0` `Docker/Nodejs`
-
-### Software / Communication - Social Networks and Forums
-
-*   [schnack (⭐1.8k)](https://github.com/schn4ck/schnack) - Schnack is simple self-hosted node app for Disqus-like drop-in commenting on static websites. `LIL-1.0` `Nodejs`
+*   [Jam](https://jamshelf.com/) - Private audio chat rooms to talk to friends and family (alternative to Clubhouse). ([Demo](https://jam.systems/), [Source Code (⭐1.2k)](https://github.com/jam-systems/jam)) `AGPL-3.0` `Docker/Nodejs`
 
 ## [6. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 
-*   [true-myth (⭐636)](https://github.com/true-myth/true-myth) A library for safe, idiomatic null and error handling in TypeScript, with `Maybe` and `Result` types, supporting both a functional style and a more traditional method-call style
+*   [true-myth (⭐753)](https://github.com/true-myth/true-myth) A library for safe, idiomatic null and error handling in TypeScript, with `Maybe` and `Result` types, supporting both a functional style and a more traditional method-call style
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf (gimbo) (⭐0)](https://github.com/gimbo/fzf.zsh) - Helpers for using [fzf (⭐52k)](https://github.com/junegunn/fzf) in ZSH. Requires [brew.sh](https://brew.sh).
+*   [fzf (gimbo) (⭐0)](https://github.com/gimbo/fzf.zsh) - Helpers for using [fzf (⭐55k)](https://github.com/junegunn/fzf) in ZSH. Requires [brew.sh](https://brew.sh).
 
 ## [8. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
@@ -72,7 +68,7 @@
 
 ### Apps / Misc
 
-*   [Wagtail Grapple (⭐133)](https://github.com/torchbox/wagtail-grapple) - A Wagtail app that makes building GraphQL endpoints a breeze.
+*   [Wagtail Grapple (⭐139)](https://github.com/torchbox/wagtail-grapple) - A Wagtail app that makes building GraphQL endpoints a breeze.
 
 ### Resources / Getting started
 
@@ -90,19 +86,19 @@
 
 ### Open-source sites / Lists
 
-*   [WagtailParadise (⭐2)](https://github.com/abrahamrome/WagtailParadise) - demo Wagtail site showing common features and recipes
+*   [WagtailParadise (⭐3)](https://github.com/abrahamrome/WagtailParadise) - demo Wagtail site showing common features and recipes
 
 ## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Web
 
-*   [perwendel/spark-kotlin (⭐975)](https://github.com/perwendel/spark-kotlin) - A DSL in idiomatic Kotlin for the Spark web framework.
+*   [perwendel/spark-kotlin (⭐977)](https://github.com/perwendel/spark-kotlin) - A DSL in idiomatic Kotlin for the Spark web framework.
 
 ## [11. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Books / Visualization Tools
 
-*   [Casual Inference for Data Science](https://www.manning.com/books/julia-for-data-analysis) - Early access
+*   [Casual Inference for Data Science](https://www.manning.com/books/julia-for-data-analysis) - Early Access
 
 ## [12. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 
@@ -120,7 +116,7 @@
 
 ### Application platforms / Samples
 
-*   [Tooljet (⭐18k)](https://github.com/ToolJet/ToolJet) - Open-source low-code platform to build internal tools.
+*   [Tooljet (⭐24k)](https://github.com/ToolJet/ToolJet) - Open-source low-code platform to build internal tools.
 
 ## [15. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

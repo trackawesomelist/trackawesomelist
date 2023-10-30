@@ -8,7 +8,7 @@
 
 ## [1. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
 *   [Dataimporter.io](https://www.dataimporter.io) - Tool for connecting, cleaning, and importing data into Salesforce. Free Plan includes up to 20,000 records per month.
 
@@ -16,11 +16,11 @@
 
 ### Grid
 
-*   [svelte-flex (⭐68)](https://github.com/himynameisdave/svelte-flex) - A simple and reusable flexbox component for Svelte.
+*   [svelte-flex (⭐72)](https://github.com/himynameisdave/svelte-flex) - A simple and reusable flexbox component for Svelte.
 
 ### Miscellaneous / Checkbox
 
-*   [svelte-copyright (⭐12)](https://github.com/himynameisdave/svelte-copyright) - A Svelte component to format and display a copyright notice.
+*   [svelte-copyright (⭐14)](https://github.com/himynameisdave/svelte-copyright) - A Svelte component to format and display a copyright notice.
 
 ## [3. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Applications / Security tools
 
-*   [Cherrybomb (⭐790)](https://github.com/blst-security/cherrybomb) - Stop half-done API specifications with a CLI tool that helps you avoid undefined user behaviour by validating your API specifications.
+*   [Cherrybomb (⭐965)](https://github.com/blst-security/cherrybomb) - Stop half-done API specifications with a CLI tool that helps you avoid undefined user behaviour by validating your API specifications.
 
 ## [5. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -100,14 +100,14 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [tiagovla/tokyodark.nvim (⭐324)](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in Lua (Neovim >= 0.5) and above.
+*   [tiagovla/tokyodark.nvim (⭐365)](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in Lua (Neovim >= 0.5) and above.
 
 ## [7. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Streaming Library
 
 *   [Akka Streams (⭐13k)](https://github.com/akka/akka) \[Scala] - stream processing library on Akka Actors.
-*   [Daggy (⭐144)](https://github.com/synacker/daggy) \[C++] - real-time streams aggregation and catching.
+*   [Daggy (⭐147)](https://github.com/synacker/daggy) \[C++] - real-time streams aggregation and catching.
 
 ---
 

@@ -39,7 +39,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-pure-lightbox (⭐159)](https://github.com/DCzajkowski/vue-pure-lightbox) - Very simple lightbox plugin without any dependencies - only Vue! 🖼
+*   [vue-pure-lightbox (⭐160)](https://github.com/DCzajkowski/vue-pure-lightbox) - Very simple lightbox plugin without any dependencies - only Vue! 🖼
 
 ## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Frameworks, Libraries and Tools / IOC
 
-*   [Stashbox (⭐112)](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
+*   [Stashbox (⭐130)](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
 
 ---
 

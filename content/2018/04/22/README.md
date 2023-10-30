@@ -294,12 +294,12 @@
 
 ### Audio Related Packages / Feature extraction
 
-*   [essentia](http://essentia.upf.edu) [:octocat: (⭐2.4k)](https://github.com/MTG/essentia) - Music related low level and high level feature extractor, C++ based, includes Python bindings.
+*   [essentia](http://essentia.upf.edu) [:octocat: (⭐2.5k)](https://github.com/MTG/essentia) - Music related low level and high level feature extractor, C++ based, includes Python bindings.
 
 ### Audio Related Packages / Deep Learning
 
-*   [Kapre (⭐874)](https://github.com/keunwoochoi/kapre) [:octocat: (⭐874)](https://github.com/keunwoochoi/kapre) [:package:](https://pypi.python.org/pypi/kapre) - Keras Audio Preprocessors
-*   [TorchAudio (⭐2k)](https://github.com/pytorch/audio) [:octocat: (⭐2k)](https://github.com/pytorch/audio) - PyTorch Audio Loaders
+*   [Kapre (⭐891)](https://github.com/keunwoochoi/kapre) [:octocat: (⭐891)](https://github.com/keunwoochoi/kapre) [:package:](https://pypi.python.org/pypi/kapre) - Keras Audio Preprocessors
+*   [TorchAudio (⭐2.1k)](https://github.com/pytorch/audio) [:octocat: (⭐2.1k)](https://github.com/pytorch/audio) - PyTorch Audio Loaders
 
 ### Tutorials / Wrappers for Audio Plugins
 
@@ -309,13 +309,13 @@
 
 ### Build tools, setup and CI
 
-*   [GMavenPlus (⭐246)](https://github.com/groovy/GMavenPlus) - A rewrite of GMaven, a Maven plugin for Groovy
+*   [GMavenPlus (⭐258)](https://github.com/groovy/GMavenPlus) - A rewrite of GMaven, a Maven plugin for Groovy
 *   [Jenkins job-dsl-plugin (⭐1.8k)](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs
 *   [travis-groovy (⭐3)](https://github.com/kdabir/travis-groovy) - execute groovy scripts on travis-ci
 
 ### Official Resources
 
-*   [Groovy's source (⭐4.7k)](https://github.com/apache/groovy) - Groovy's source code mirrored on Github
+*   [Groovy's source (⭐4.9k)](https://github.com/apache/groovy) - Groovy's source code mirrored on Github
 
 ## [8. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 

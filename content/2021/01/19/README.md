@@ -10,13 +10,13 @@
 
 ### Resources / Packages
 
-*   [Resource Links (⭐241)](https://github.com/spatie/laravel-resource-links) - Laravel package for adding links to API resources.
+*   [Resource Links (⭐245)](https://github.com/spatie/laravel-resource-links) - Laravel package for adding links to API resources.
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### CRM
 
-*   [Hitobito (⭐299)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
+*   [Hitobito (⭐316)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
 
 ## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Forms
 
-*   [Formspree.io](https://formspree.io/) — Send email using an HTTP POST request. Free tier limits to 50 submissions per form per month.
+*   [Formspree.io](https://formspree.io/) — Send email using an HTTP POST request. The free tier limits to 50 submissions per form per month.
 
 ## [7. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -80,9 +80,9 @@
 
 ## [11. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Algorithms, Containers and Protocols / MIT
+### Algorithms, Containers and Protocols / Apache License
 
-*   [az3 (⭐5)](https://github.com/Componolit/AZ3) - Ada binding for Z3.
+*   [az3 (⭐6)](https://github.com/Componolit/AZ3) - Ada binding for Z3.
 
 ## [12. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -122,7 +122,7 @@
 
 ### Demo
 
-*   [Sitecore MVP (⭐64)](https://github.com/Sitecore/MVP-Site) - The source code of real Sitecore MVP website built with Sitecore 10 and SXAworking in containers.
+*   [Sitecore MVP (⭐63)](https://github.com/Sitecore/MVP-Site) - The source code of real Sitecore MVP website built with Sitecore 10 and SXAworking in containers.
 
 ## [17. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

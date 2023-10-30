@@ -64,19 +64,19 @@
 
 ### Third-party APIs
 
-*   [pinboard.cr (⭐6)](https://github.com/oz/pinboard.cr) - [Pinboard](https://pinboard.in) API
+*   [pinboard.cr (⭐5)](https://github.com/oz/pinboard.cr) - [Pinboard](https://pinboard.in) API
 
 ## [5. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Web / Playground
 
-*   :octocat: [Angular (⭐88k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
+*   :octocat: [Angular (⭐91k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
 
 ## [6. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Web Applications
 
-*   [Ghost](https://ghost.org/) - Hackable platform for building and running online publications. ([MIT (⭐42k)](https://github.com/TryGhost/Ghost/blob/master/LICENSE))
+*   [Ghost](https://ghost.org/) - Hackable platform for building and running online publications. ([MIT (⭐43k)](https://github.com/TryGhost/Ghost/blob/master/LICENSE))
 
 ### Resources / Discovery
 
@@ -87,15 +87,15 @@
 ### Tools and frameworks
 
 *   [Wraith (⭐4.8k)](https://github.com/BBC-News/wraith) - Easy to use ruby tool with docker support.
-*   [BackstopJS (⭐6.2k)](https://github.com/garris/BackstopJS) - Config-driven automated screenshot test framework.
-*   [Galen (⭐1.4k)](https://github.com/galenframework/galen) - Java framework based on [Selenium (⭐25k)](https://github.com/SeleniumHQ/selenium).
-*   [CSSCritic (⭐476)](https://github.com/cburgmer/csscritic) - Lightweight CSS regression testing.
-*   [Spectre (⭐455)](https://github.com/wearefriday/spectre) - Provides image comparison capabilities and an admin interface for managing screenshots.
-*   [Shoov (⭐33)](https://github.com/shoov/shoov) - UI regression and functional testing focused on Drupal 7 sites.
-*   [Hardy (⭐321)](https://github.com/thingsinjars/Hardy) - Selenium-driven, cucumber-powered CSS testing.
-*   [TestCafe (⭐9.5k)](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
-*   [Needle (⭐583)](https://github.com/python-needle/needle) - Needle is a tool for testing visuals with Selenium and nose (Python).
-*   [grunt-photobox (⭐271)](https://github.com/stefanjudis/grunt-photobox) - Plugin to prevent your project of broken layout via screenshot photo sessions of your site.
+*   [BackstopJS (⭐6.4k)](https://github.com/garris/BackstopJS) - Config-driven automated screenshot test framework.
+*   [Galen (⭐1.4k)](https://github.com/galenframework/galen) - Java framework based on [Selenium (⭐27k)](https://github.com/SeleniumHQ/selenium).
+*   [CSSCritic (⭐481)](https://github.com/cburgmer/csscritic) - Lightweight CSS regression testing.
+*   [Spectre (⭐458)](https://github.com/wearefriday/spectre) - Provides image comparison capabilities and an admin interface for managing screenshots.
+*   [Shoov (⭐36)](https://github.com/shoov/shoov) - UI regression and functional testing focused on Drupal 7 sites.
+*   [Hardy (⭐320)](https://github.com/thingsinjars/Hardy) - Selenium-driven, cucumber-powered CSS testing.
+*   [TestCafe (⭐9.7k)](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
+*   [Needle (⭐587)](https://github.com/python-needle/needle) - Needle is a tool for testing visuals with Selenium and nose (Python).
+*   [grunt-photobox (⭐275)](https://github.com/stefanjudis/grunt-photobox) - Plugin to prevent your project of broken layout via screenshot photo sessions of your site.
 
 ### Blog posts
 
@@ -106,9 +106,9 @@
 
 ### Deprecated
 
-*   [trifleJS (⭐821)](https://github.com/sdesalas/trifleJS) - Headless automation for Internet Explorer. (last update 2016)
-*   [CasperJS (⭐7.3k)](https://github.com/casperjs/casperjs) - Navigation scripting and testing utility for PhantomJS and SlimerJS. (archived 2018)
-*   [Navalia (⭐956)](https://github.com/joelgriffith/navalia) - Browser Automation based on headless Chrome and GraphQL. (archived 2018)
+*   [trifleJS (⭐831)](https://github.com/sdesalas/trifleJS) - Headless automation for Internet Explorer. (last update 2016)
+*   [CasperJS (⭐7.2k)](https://github.com/casperjs/casperjs) - Navigation scripting and testing utility for PhantomJS and SlimerJS. (archived 2018)
+*   [Navalia (⭐964)](https://github.com/joelgriffith/navalia) - Browser Automation based on headless Chrome and GraphQL. (archived 2018)
 
 ## [8. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
 
@@ -204,11 +204,11 @@
 
 ### Libraries
 
-*   [zen-signals (⭐46)](https://github.com/joaomilho/zen-signals) – ☯ The simplest signal library possible
+*   [zen-signals (⭐51)](https://github.com/joaomilho/zen-signals) – ☯ The simplest signal library possible
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
-*   [ion (⭐77)](https://github.com/ion-lang/ion) - no BS JS
+*   [ion (⭐78)](https://github.com/ion-lang/ion) - no BS JS
 
 ## [10. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
@@ -216,25 +216,25 @@
 
 *   [Official Boilerplate (⭐975)](https://github.com/developit/preact-boilerplate) - Ready-to-rock Preact starter project, powered by Webpack.
 *   [Preact Simple Starter (⭐65)](https://github.com/ooade/PreactSimpleStarter) - PWA Simple Starter with Preact, Preact-mdl and Webpack2.
-*   [Preact PWA (⭐506)](https://github.com/ezekielchentnik/preact-pwa) - PWA focused on raw performance, server side rendering, prerendering, redux, express, rollup.
+*   [Preact PWA (⭐509)](https://github.com/ezekielchentnik/preact-pwa) - PWA focused on raw performance, server side rendering, prerendering, redux, express, rollup.
 
 ### Contents / Routing
 
-*   [Preact Router (⭐953)](https://github.com/developit/preact-router) - URL router for Preact.
+*   [Preact Router (⭐969)](https://github.com/developit/preact-router) - URL router for Preact.
 
 ### Contents / Components
 
-*   [Preact Token Input (⭐58)](https://github.com/developit/preact-token-input) - Text field that tokenizes input, for things like tags.
-*   [Preact Virtual List (⭐215)](https://github.com/developit/preact-virtual-list) - Easily render lists with millions of rows ([demo](https://jsfiddle.net/developit/qqan9pdo/)).
+*   [Preact Token Input (⭐60)](https://github.com/developit/preact-token-input) - Text field that tokenizes input, for things like tags.
+*   [Preact Virtual List (⭐216)](https://github.com/developit/preact-virtual-list) - Easily render lists with millions of rows ([demo](https://jsfiddle.net/developit/qqan9pdo/)).
 *   [Preact Layout](https://download.github.io/preact-layout/) - Small and simple layout library.
-*   [Preact Socrates (⭐16)](https://github.com/matthewmueller/preact-socrates) - Preact plugin for [Socrates (⭐578)](http://github.com/matthewmueller/socrates).
+*   [Preact Socrates (⭐16)](https://github.com/matthewmueller/preact-socrates) - Preact plugin for [Socrates (⭐580)](http://github.com/matthewmueller/socrates).
 *   [Preact Flyd (⭐11)](https://github.com/xialvjun/preact-flyd) - Use [flyd (⭐1.6k)](https://github.com/paldepind/flyd) FRP streams in Preact + JSX.
-*   [Preact I18nline (⭐38)](https://github.com/download/preact-i18nline) - Integrates the ecosystem around [i18n-js (⭐9)](https://github.com/everydayhero/i18n-js) with Preact via [i18nline (⭐18)](https://github.com/download/i18nline).
-*   [Preact Classless Component (⭐43)](https://github.com/ld0rman/preact-classless-component) - Create preact components without the class keyword.
-*   [Preact Hyperscript (⭐30)](https://github.com/queckezz/preact-hyperscript) - Hyperscript-like syntax for creating elements.
-*   [Shallow Compare (⭐33)](https://github.com/tkh44/shallow-compare) - Simplified `shouldComponentUpdate` helper.
+*   [Preact I18nline (⭐38)](https://github.com/download/preact-i18nline) - Integrates the ecosystem around [i18n-js (⭐10)](https://github.com/everydayhero/i18n-js) with Preact via [i18nline (⭐18)](https://github.com/download/i18nline).
+*   [Preact Classless Component (⭐44)](https://github.com/ld0rman/preact-classless-component) - Create preact components without the class keyword.
+*   [Preact Hyperscript (⭐31)](https://github.com/queckezz/preact-hyperscript) - Hyperscript-like syntax for creating elements.
+*   [Shallow Compare (⭐34)](https://github.com/tkh44/shallow-compare) - Simplified `shouldComponentUpdate` helper.
 *   [Preact Codemod (⭐40)](https://github.com/vutran/preact-codemod) - Transform your React code to Preact.
-*   [Preact Helmet (⭐78)](https://github.com/download/preact-helmet) - A document head manager for Preact.
+*   [Preact Helmet (⭐80)](https://github.com/download/preact-helmet) - A document head manager for Preact.
 *   [Preact Delegate (⭐18)](https://github.com/NekR/preact-delegate) - Delegate DOM events.
 *   [Preact No SSR (⭐7)](https://github.com/gufsky/preact-no-ssr) - Skip Server Side Rendering of Components.
 
@@ -405,7 +405,7 @@
 
 ### Icons / Icons Packages and Collections
 
-*   [Simple Icons (⭐14k)](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
+*   [Simple Icons (⭐16k)](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 
 ## [19. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -427,8 +427,8 @@
 
 ### Miscellaneous
 
-*   [stdman (⭐883)](https://github.com/jeaye/stdman) - A tool that parses archived HTML files from [cppreference](https://cppreference.com) and generates groff-formatted manual pages for Unix-based systems. \[MIT]
-*   [value-category-cheatsheet (⭐398)](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. \[Jank copyleft]
+*   [stdman (⭐899)](https://github.com/jeaye/stdman) - A tool that parses archived HTML files from [cppreference](https://cppreference.com) and generates groff-formatted manual pages for Unix-based systems. \[MIT]
+*   [value-category-cheatsheet (⭐399)](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. \[Jank copyleft]
 
 ## [22. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
@@ -531,7 +531,7 @@
 *   [graphql-batch (⭐1.4k)](https://github.com/Shopify/graphql-batch) – A query batching executor.
 *   [graphql-client (⭐1.1k)](https://github.com/github/graphql-client) - A library for declaring, composing and executing GraphQL queries.
 *   [graphql-guard (⭐470)](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization.
-*   [graphql-ruby (⭐5.2k)](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL.
+*   [graphql-ruby (⭐5.3k)](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL.
 
 ## [31. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 
@@ -605,11 +605,11 @@
 
 ### CLI
 
-*   [SharpNetSH (⭐59)](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
+*   [SharpNetSH (⭐61)](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
 
 ### CMS
 
-*   [mojoPortal  (⭐176)](https://github.com/i7media/mojoportal) - MojoPortal is an extensible, cross database, mobile friendly, web content management system (CMS) and web application framework written in C# ASP.NET
+*   [mojoPortal  (⭐178)](https://github.com/i7media/mojoportal) - MojoPortal is an extensible, cross database, mobile friendly, web content management system (CMS) and web application framework written in C# ASP.NET
 
 ### Code Analysis and Metrics
 
@@ -621,15 +621,15 @@
 
 ### Image Processing
 
-*   [Magick.NET (⭐2.8k)](https://github.com/dlemstra/Magick.NET) - .NET wrapper for the ImageMagick library.
+*   [Magick.NET (⭐3k)](https://github.com/dlemstra/Magick.NET) - .NET wrapper for the ImageMagick library.
 
 ### JavaScript Engines
 
-*   [ClearScript (⭐1.5k)](https://github.com/Microsoft/ClearScript) - A library that makes it easy to add scripting to your .NET applications. It currently supports JavaScript (via V8 and JScript) and VBScript.
+*   [ClearScript (⭐1.6k)](https://github.com/Microsoft/ClearScript) - A library that makes it easy to add scripting to your .NET applications. It currently supports JavaScript (via V8 and JScript) and VBScript.
 
 ### Logging
 
-*   [Essential Diagnostics (⭐62)](https://github.com/sgryphon/essential-diagnostics) - Extends the inbuilt features of System.Diagnostics namespace to provide flexible logging
+*   [Essential Diagnostics (⭐64)](https://github.com/sgryphon/essential-diagnostics) - Extends the inbuilt features of System.Diagnostics namespace to provide flexible logging
 *   [Semantic Logging Application Block (SLAB) (⭐214)](https://github.com/MicrosoftArchive/semantic-logging) - Extends the inbuilt features of System.Diagnostics.Tracing namespace (EventSource class) to log to several sinks including Azure Tables, Databases, files (JSON, XML, text). Supports in-process and out-of-process logging through ETW, and Rx for real-time filtering/aggregating of events.
 
 ## [33. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
@@ -738,33 +738,33 @@
 
 ### Markdown / Third-party APIs
 
-*   [3bmd (⭐73)](https://github.com/3b/3bmd) - a markdown -> html converter. [MIT](https://opensource.org/licenses/MIT).
+*   [3bmd (⭐77)](https://github.com/3b/3bmd) - a markdown -> html converter. [MIT](https://opensource.org/licenses/MIT).
 
 ## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Database Drivers
 
-*   [MongoDB.Driver (⭐2.9k)](https://github.com/mongodb/mongo-csharp-driver) - .NET Driver for MongoDB.
+*   [MongoDB.Driver (⭐3.1k)](https://github.com/mongodb/mongo-csharp-driver) - .NET Driver for MongoDB.
 
 ### Frameworks, Libraries and Tools / Functional Programming
 
-*   [CSharpFunctionalExtensions (⭐1.7k)](https://github.com/vkhorikov/CSharpFunctionalExtensions) - Functional Extensions for C#.
-*   [language-ext (⭐5k)](https://github.com/louthy/language-ext) - C# functional language extensions and 'Erlang like' concurrency system.
-*   [NetMQ.ReactiveExtensions (⭐62)](https://github.com/NetMQ/NetMQ.ReactiveExtensions) - Effortlessly send messages anywhere on the network using Reactive Extensions (RX). Transport protocol is ZeroMQ.
-*   [Optional (⭐778)](https://github.com/nlkl/Optional) - A robust option type for C#.
-*   [reactive-streams-dotnet (⭐188)](https://github.com/reactive-streams/reactive-streams-dotnet) - [Reactive Streams](http://www.reactive-streams.org/) for .NET.
-*   [ReactiveUI (⭐7.2k)](https://github.com/reactiveui/ReactiveUI) - A MVVM framework that integrates with the Reactive Extensions for .NET to create elegant, testable User Interfaces that run on any mobile or desktop platform.
-*   [Rx.NET (⭐5.6k)](https://github.com/Reactive-Extensions/Rx.NET) - The [Reactive Extensions](http://reactivex.io) for .NET.
-*   [Qactive (⭐151)](https://github.com/RxDave/Qactive) - Reactive queryable observable framework. `4.x.x or above`
+*   [CSharpFunctionalExtensions (⭐2k)](https://github.com/vkhorikov/CSharpFunctionalExtensions) - Functional Extensions for C#.
+*   [language-ext (⭐5.8k)](https://github.com/louthy/language-ext) - C# functional language extensions and 'Erlang like' concurrency system.
+*   [NetMQ.ReactiveExtensions (⭐63)](https://github.com/NetMQ/NetMQ.ReactiveExtensions) - Effortlessly send messages anywhere on the network using Reactive Extensions (RX). Transport protocol is ZeroMQ.
+*   [Optional (⭐846)](https://github.com/nlkl/Optional) - A robust option type for C#.
+*   [reactive-streams-dotnet (⭐193)](https://github.com/reactive-streams/reactive-streams-dotnet) - [Reactive Streams](http://www.reactive-streams.org/) for .NET.
+*   [ReactiveUI (⭐7.7k)](https://github.com/reactiveui/ReactiveUI) - A MVVM framework that integrates with the Reactive Extensions for .NET to create elegant, testable User Interfaces that run on any mobile or desktop platform.
+*   [Rx.NET (⭐6.2k)](https://github.com/Reactive-Extensions/Rx.NET) - The [Reactive Extensions](http://reactivex.io) for .NET.
+*   [Qactive (⭐153)](https://github.com/RxDave/Qactive) - Reactive queryable observable framework. `4.x.x or above`
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Castle.Core (⭐1.9k)](https://github.com/castleproject/Core) - Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter <http://www.castleproject.org>.
+*   [Castle.Core (⭐2.1k)](https://github.com/castleproject/Core) - Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter <http://www.castleproject.org>.
 
 ### Frameworks, Libraries and Tools / Workflow
 
-*   [CoreWF (⭐14)](https://github.com/dmetzgar/corewf/) - Port of Windows Workflow Foundation (WF) to .NET Core.
-*   [workflow-core (⭐4.2k)](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard.
+*   [CoreWF (⭐17)](https://github.com/dmetzgar/corewf/) - Port of Windows Workflow Foundation (WF) to .NET Core.
+*   [workflow-core (⭐4.8k)](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard.
 
 ## [39. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -774,7 +774,7 @@
 
 ### String / Runner
 
-*   [voca (⭐3.5k)](https://github.com/panzerdp/voca) - The ultimate JavaScript string library
+*   [voca (⭐3.6k)](https://github.com/panzerdp/voca) - The ultimate JavaScript string library
 
 ### Notifications / Runner
 
@@ -790,12 +790,12 @@
 
 ### Animation
 
-*   [ChainPageCollectionView (⭐783)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
+*   [ChainPageCollectionView (⭐782)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
 *   [Gemini (⭐3.1k)](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework.
 
 ### Network / Barcode
 
-*   [ShadowsocksX-NG (⭐31k)](https://github.com/shadowsocks/ShadowsocksX-NG) - A fast tunnel proxy that helps you bypass firewalls.
+*   [ShadowsocksX-NG (⭐32k)](https://github.com/shadowsocks/ShadowsocksX-NG) - A fast tunnel proxy that helps you bypass firewalls.
 
 ## [42. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -856,21 +856,21 @@
 
 ### Python / General
 
-*   [SteamAPI (⭐430)](https://github.com/smiley/steamapi) - An object-oriented Python 2.7+ library for accessing the Steam Web API.
+*   [SteamAPI (⭐436)](https://github.com/smiley/steamapi) - An object-oriented Python 2.7+ library for accessing the Steam Web API.
 
 ### Python / Game Interaction
 
-*   [csgo (⭐100)](https://github.com/ValvePython/csgo) - Python module for interacting with CSGO's Game Coordinator.
-*   [dota2 (⭐166)](https://github.com/ValvePython/dota2) - Python module for interacting with Dota 2's Game Coordinator.
+*   [csgo (⭐116)](https://github.com/ValvePython/csgo) - Python module for interacting with CSGO's Game Coordinator.
+*   [dota2 (⭐177)](https://github.com/ValvePython/dota2) - Python module for interacting with Dota 2's Game Coordinator.
 
 ### Python / Misc
 
-*   [vpk (⭐115)](https://github.com/ValvePython/vpk) - Python module for working with Valve's Pack format.
-*   [vdf (⭐127)](https://github.com/ValvePython/vdf) - Python module for working with Valve's KeyValue format.
+*   [vpk (⭐137)](https://github.com/ValvePython/vpk) - Python module for working with Valve's Pack format.
+*   [vdf (⭐149)](https://github.com/ValvePython/vdf) - Python module for working with Valve's KeyValue format.
 
 ### Tutorials / Misc
 
-*   [In-depth Steam Bot Guide with Node.js (⭐498)](https://github.com/andrewda/node-steam-guide)
+*   [In-depth Steam Bot Guide with Node.js (⭐580)](https://github.com/andrewda/node-steam-guide)
 
 ## [48. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
@@ -887,7 +887,7 @@
 
 ### Endpoint / Content Disarm & Reconstruct
 
-*   [DocBleach (⭐133)](https://github.com/docbleach/DocBleach) - An open-source Content Disarm & Reconstruct software sanitizing Office, PDF and RTF Documents.
+*   [DocBleach (⭐134)](https://github.com/docbleach/DocBleach) - An open-source Content Disarm & Reconstruct software sanitizing Office, PDF and RTF Documents.
 
 ## [50. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 

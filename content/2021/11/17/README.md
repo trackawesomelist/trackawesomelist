@@ -10,25 +10,25 @@
 
 ### SCALE Codec
 
-*   [C (⭐4)](https://github.com/MatthewDarnell/cScale) - Maintained by Matthew Darnell.
+*   [C (⭐5)](https://github.com/MatthewDarnell/cScale) - Maintained by Matthew Darnell.
 
 ## [2. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Tools / Music drivers and trackers
 
-*   [CBT-FX (⭐14)](https://github.com/datguywitha3ds/CBT-FX) - A GBDK-2020 sound effect driver compatible with FX-Hammer sound effects.
+*   [CBT-FX (⭐15)](https://github.com/datguywitha3ds/CBT-FX) - A GBDK-2020 sound effect driver compatible with FX-Hammer sound effects.
 
 ## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI
 
-*   [PlutoGrid (⭐446)](https://github.com/bosskmk/pluto_grid) <!--stargazers:bosskmk/pluto_grid--> - Web and desktop datagrid that can be controlled by the keyboard by [bosskmk](https://github.com/bosskmk).
+*   [PlutoGrid (⭐536)](https://github.com/bosskmk/pluto_grid) <!--stargazers:bosskmk/pluto_grid--> - Web and desktop datagrid that can be controlled by the keyboard by [bosskmk](https://github.com/bosskmk).
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Creative Uses of Generative AI Tools / Deforum
 
-*   [AgaMiko/pixel\_character\_generator (⭐103)](https://github.com/AgaMiko/pixel_character_generator): Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
+*   [AgaMiko/pixel\_character\_generator (⭐109)](https://github.com/AgaMiko/pixel_character_generator): Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
 
 ### Image Synthesis / Promptism
 
@@ -37,11 +37,11 @@
 
 ### Image Synthesis / Generative Adversarial Networks (GANs)
 
-*   [aakashjhawar/AvatarGAN (⭐54)](https://github.com/aakashjhawar/AvatarGAN): Generate Cartoon Images using Generative Adversarial Network
+*   [aakashjhawar/AvatarGAN (⭐57)](https://github.com/aakashjhawar/AvatarGAN): Generate Cartoon Images using Generative Adversarial Network
 
 ### Related Awesome Lists / Galleries
 
-*   [toxtli/awesome-machine-learning-jupyter-notebooks-for-colab (⭐256)](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab): A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory
+*   [toxtli/awesome-machine-learning-jupyter-notebooks-for-colab (⭐270)](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab): A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory
 
 ## [5. Awesome Slim](/content/nekofar/awesome-slim/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Social Media Tools / Telegram
 
-*   [Telegram Nearby Map (⭐538)](https://github.com/tejado/telegram-nearby-map) - Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.
+*   [Telegram Nearby Map (⭐596)](https://github.com/tejado/telegram-nearby-map) - Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.
 
 ### Keywords Discovery and Research / Telegram
 

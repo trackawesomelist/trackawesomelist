@@ -31,7 +31,7 @@
 *   [Zotero](https://www.zotero.org/) - Open-source citation management software.
 *   [TiddlyWiki](http://tiddlywiki.com/) - Easily create your own wikis to organize information.
 *   [Evergreen ILS](http://evergreen-ils.org/) - Software for managing a library of books (and the loaning process).
-*   [ISLE (⭐211)](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA.
+*   [ISLE (⭐213)](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA.
 *   [GanttProject](http://www.ganttproject.biz/) - Productivity tool for scheduling tasks and making Gantt charts.
 *   [Open Science Framework](https://osf.io/) - Open-source collaborative project manager for scientific research.
 *   [Calibre](http://calibre-ebook.com/) - eBook management software.
@@ -79,7 +79,7 @@
 
 ### Packages / Command-line apps
 
-*   [lessmd (⭐127)](https://github.com/linuxenko/lessmd) - Markdown in the terminal.
+*   [lessmd](https://github.com/linuxenko/lessmd) - Markdown in the terminal.
 
 ## [6. Tools](/content/lvwzhen/tools/README.md)
 
@@ -91,7 +91,7 @@
 
 ### GUI
 
-*   [FastColoredTextBox (⭐1.1k)](https://github.com/PavelTorgashov/FastColoredTextBox) - Fast Colored TextBox is text editor component for .NET. Allows you to create custom text editor with syntax highlighting. It works well with small, medium, large and very-very large files.
+*   [FastColoredTextBox (⭐1.2k)](https://github.com/PavelTorgashov/FastColoredTextBox) - Fast Colored TextBox is text editor component for .NET. Allows you to create custom text editor with syntax highlighting. It works well with small, medium, large and very-very large files.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Workout planners
 
-*   [workout.lol (⭐255)](https://github.com/Vincenius/workout-lol) - A small web application to create workouts based on your available equipment and the muscles you want to train that you can selfhost.
+*   [workout.lol (⭐957)](https://github.com/Vincenius/workout-lol) - A small web application to create workouts based on your available equipment and the muscles you want to train that you can selfhost.
 
 ## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -28,11 +28,11 @@
 
 ### Clients
 
-*   [gqty (⭐634)](https://github.com/gqty-dev/gqty) - A No GraphQL client for TypeScript
+*   [gqty (⭐772)](https://github.com/gqty-dev/gqty) - A No GraphQL client for TypeScript
 
 ### Frontend Framework Integrations / React
 
-*   [@gqty/react (⭐634)](https://github.com/gqty-dev/gqty) - A No GraphQL client for TypeScript
+*   [@gqty/react (⭐772)](https://github.com/gqty-dev/gqty) - A No GraphQL client for TypeScript
 
 ### Services / React
 
@@ -42,17 +42,17 @@
 
 ### Software / Analytics
 
-*   [Mixpost](https://mixpost.app/) - Self-hosted social media management software. Easily create, schedule, publish, and manage social media content in one place. Alternative to Hootsuite, Buffer, and other social media tools. ([Source Code (⭐11)](https://github.com/inovector/MixpostApp)) `MIT` `PHP/Docker`
+*   [Mixpost](https://mixpost.app/) - Self-hosted social media management software. Easily create, schedule, publish, and manage social media content in one place (alternative to Hootsuite, Buffer, and other social media tools). ([Source Code (⭐28)](https://github.com/inovector/MixpostApp)) `MIT` `PHP/Docker`
 
 ### Software / Database Management
 
-*   [Adminer](https://www.adminer.org/) - Database management in a single PHP file. Available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others. ([Source Code (⭐5.7k)](https://github.com/vrana/adminer/)) `Apache-2.0/GPL-2.0` `PHP`
+*   [Adminer](https://www.adminer.org/) - Database management in a single PHP file. Available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others. ([Source Code (⭐5.8k)](https://github.com/vrana/adminer/)) `Apache-2.0/GPL-2.0` `PHP`
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Web Hosting
 
-*   [Lecturify](https://www.lecturify.net/index.en.html) - Web hosting with sftp access for file upload and download, php available.
+*   [Lecturify](https://www.lecturify.net/index.en.html) - Web hosting with SFPT access for file upload and download, php available.
 
 ## [7. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
@@ -64,33 +64,29 @@
 
 ### Prerequisites
 
-*   [Spacemono (⭐313)](https://github.com/googlefonts/spacemono) - Google's new original monospace display typeface family.
+*   [Spacemono (⭐326)](https://github.com/googlefonts/spacemono) - Google's new original monospace display typeface family.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [club\_house (⭐0)](https://github.com/skippyr/club_house) - Requires a [Nerd Font (⭐45k)](https://github.com/ryanoasis/nerd-fonts).
-*   [hoozeth (⭐1)](https://github.com/hooay233/Hoozeeth) - Minimalist theme, includes decorators for user\@hostname, the date & time, and the current working directory.
+*   [club\_house (⭐0)](https://github.com/skippyr/club_house) - Requires a [Nerd Font (⭐47k)](https://github.com/ryanoasis/nerd-fonts).
 
 ## [9. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ### Open Source Projects / Knowledge Management
 
-*   [Second Brain AI Agent (⭐14)](https://github.com/flepied/second-brain-agent): A streamlit app automaticall dialog with your second brain notes using OpenAI and ChromaDB locally. ![GitHub Repo stars](https://img.shields.io/github/stars/flepied/second-brain-agent?style=social)
+*   [Second Brain AI Agent (⭐83)](https://github.com/flepied/second-brain-agent): A streamlit app dialog with your second brain notes using OpenAI and ChromaDB locally. ![GitHub Repo stars](https://img.shields.io/github/stars/flepied/second-brain-agent?style=social)
 
-### Alternatives / Articles
+### Other LLM Frameworks / Videos Playlists
 
-*   [MetaGPT (⭐2.1k)](https://github.com/geekan/MetaGPT): The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo and CI ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
+*   [MetaGPT (⭐28k)](https://github.com/geekan/MetaGPT): The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo and CI ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
 
 ## [10. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Graphics and Multimedia / MIT
+### Graphics and Multimedia / Apache License
 
 *   [vulkada](https://phasercat.com/vulkada/) - A complete Vulkan 1.1 thick binding for Ada 2012.
 
-### Sound / MIT
-
-*   \[adaogg] - Complete thin interface layer that brings the Ogg, Vorbis, and Theora libraries to the Ada 2012 programming language.
-
 ---
 
+- Prev: [Jul 11, 2023](/content/2023/07/11/README.md)
 - Next: [Jul 09, 2023](/content/2023/07/09/README.md)

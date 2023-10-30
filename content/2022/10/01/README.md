@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 01, 2022
 
-10 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,40 +12,66 @@
 
 *   [Locize](https://locize.com/) - Proprietary translation platform.
 
-### Tools / i18n frameworks for developers
+### Tools / Libraries and tools for developers
 
 *   [FormatJS](https://formatjs.io/) - A modular collection of JavaScript libraries for internationalization that are focused on formatting numbers, dates, and strings for displaying to people.
+*   [ICU - International Components for Unicode](https://icu.unicode.org/) - A mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications.
+*   [Django docs - i18n](https://docs.djangoproject.com/en/4.1/topics/i18n/) - Part of the Django docs, focused on internationalization and localization.
+    [Localizejs](https://localizejs.com/) - Translations for websites and applications to new languages and streamline translation workflow.
 
 ### Articles / For developers
 
 *   [Globalization and localization in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/localization?view=aspnetcore-6.0) - Article about Globalization and localization in ASP.NET Core.
 
-### Other / Machine translation
-
-*   [ICU - International Components for Unicode](https://icu.unicode.org/) - A mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications.
-*   [Django docs - i18n](https://docs.djangoproject.com/en/4.1/topics/i18n/) - Part of the Django docs, focused on internationalization and localization.
-
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Cryptocurrencies
 
-*   [ibc-rs (⭐343)](https://github.com/informalsystems/hermes) - Rust implementation of the [Interblockchain Communication](https://ibc.cosmos.network/) protocol
+*   [ibc-rs (⭐372)](https://github.com/informalsystems/hermes) - Rust implementation of the [Interblockchain Communication](https://ibc.cosmos.network/) protocol
 
 ### Development tools / Web Servers
 
-*   [bacon (⭐932)](https://github.com/Canop/bacon) — background rust code checker, similar to cargo-watch
+*   [bacon (⭐1.1k)](https://github.com/Canop/bacon) — background rust code checker, similar to cargo-watch
 
 ### Libraries / Audio and Music
 
-*   [musitdev/portmidi-rs (⭐72)](https://github.com/musitdev/portmidi-rs) — [PortMidi](https://portmedia.sourceforge.net/portmidi/) bindings
+*   [musitdev/portmidi-rs (⭐73)](https://github.com/musitdev/portmidi-rs) — [PortMidi](https://portmedia.sourceforge.net/portmidi/) bindings
 
-## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [3. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
+
+### Examples
+
+*   [FortAwesome/Font-Awesome (⭐72k)](https://github.com/FortAwesome/Font-Awesome/wiki)
+
+### Useful links with tips & tricks
+
+*   [Git Tutorial - 24 - GitHub Wiki](https://www.youtube.com/watch?v=4B0XNThjO0E)
+
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Delphi / Pascal / Non-X86
+
+*   [Delphi Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/delphi) - Marco Breveglieri
+
+### JavaScript / Nuxt.js
+
+*   [Nuxt.js Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/nuxtjs-succinctly) - Ed Freitas
+
+### .NET Framework / PicoLisp
+
+*   [MonoGame Role-Playing Game Development Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/monogame-role-playing-game-development-succinctly) - Jim Perry and Charles Humphrey
+
+### Pascal / PicoLisp
+
+*   [Pascal Programming](https://en.wikibooks.org/wiki/Pascal_Programming) - Wikibooks
+
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [mfussenegger/nvim-jdtls (⭐615)](https://github.com/mfussenegger/nvim-jdtls) - Extensions for the built-in LSP support for eclipse.jdt.ls.
+*   [mfussenegger/nvim-jdtls (⭐738)](https://github.com/mfussenegger/nvim-jdtls) - Extensions for the built-in LSP support for eclipse.jdt.ls.
 
-## [4. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [6. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Party
 
@@ -60,13 +86,13 @@
 | ------: | -------: | -----: |
 |       2 |        8 | 15-30m |
 
-## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [communism (⭐8)](https://github.com/victoria-riley-barnett/Communism/) - Displays a Marx quote of the day.
 
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Links / Courses
 
@@ -74,27 +100,27 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [fork-handles/tuples4k (⭐146)](https://github.com/fork-handles/forkhandles/tree/trunk/tuples4k) - Tuple classes
+*   [fork-handles/tuples4k (⭐159)](https://github.com/fork-handles/forkhandles/tree/trunk/tuples4k) - Tuple classes
 
-## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Inbox: Stable Diffusion / For text-to-image
 
-*   \[🔥🔥🔥] [JoePenna/Dreambooth-Stable-Diffusion (⭐2.9k)](https://github.com/JoePenna/Dreambooth-Stable-Diffusion): Implementation of Dreambooth (<https://arxiv.org/abs/2208.12242>) with Stable Diffusion (tweaks focused on training faces)
+*   \[🔥🔥🔥] [JoePenna/Dreambooth-Stable-Diffusion (⭐3.1k)](https://github.com/JoePenna/Dreambooth-Stable-Diffusion): Implementation of Dreambooth (<https://arxiv.org/abs/2208.12242>) with Stable Diffusion (tweaks focused on training faces)
 *   \[🔥🔥🔥] [DreamBooth](https://dreambooth.github.io/): fine tuning text-to-image diffusion models for subject-driven generation
 *   \[🔥] [Arki's Stable Diffusion Guides](https://stablediffusionguides.carrd.co/#one)
 
-## [8. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [10. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Web
 
-*   🔧 [FirelordJS (⭐55)](https://github.com/tylim88/FirelordJS) - Extremely High Precision Typescript Wrapper for Firestore Web. ([Admin version (⭐29)](https://github.com/tylim88/Firelord))
+*   🔧 [FirelordJS (⭐63)](https://github.com/tylim88/FirelordJS) - Extremely High Precision Typescript Wrapper for Firestore Web. ([Admin version (⭐35)](https://github.com/tylim88/Firelord))
 
-## [9. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [11. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / Devops
 
-*   [pm2 (⭐39k)](https://github.com/Unitech/pm2) - Production Process Manager for Node.js.
+*   [pm2 (⭐40k)](https://github.com/Unitech/pm2) - Production Process Manager for Node.js.
 
 ### Development / Release
 
@@ -102,21 +128,21 @@
 
 ### Productivity / Calendars
 
-*   [birthday (⭐72)](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
+*   [birthday (⭐73)](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
 
 ### Utilities / Calendars
 
-*   [kill-tabs (⭐377)](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
-*   [alex (⭐4.5k)](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
+*   [kill-tabs (⭐379)](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
+*   [alex (⭐4.6k)](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 
 ### Utilities / Network Utilities
 
 *   [acmetool (⭐2k)](https://github.com/hlandau/acmetool) - Automatic certificate acquisition for ACME (Let's Encrypt).
-*   [certificate-ripper (⭐398)](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
+*   [certificate-ripper (⭐412)](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
 
 ### Utilities / Theming and Customization
 
-*   [splash-cli (⭐525)](https://github.com/splash-cli/splash-cli) - Beautiful wallpapers from Unsplash.
+*   [splash-cli (⭐529)](https://github.com/splash-cli/splash-cli) - Beautiful wallpapers from Unsplash.
 
 ### Utilities / Shell Utilities
 
@@ -124,53 +150,53 @@
 
 ### Utilities / System Interaction Utilities
 
-*   [neofetch (⭐18k)](https://github.com/dylanaraps/neofetch) - System information tool.
+*   [neofetch (⭐19k)](https://github.com/dylanaraps/neofetch) - System information tool.
 *   [glances](https://nicolargo.github.io/glances/) - System monitoring tool.
-*   [gzip-size-cli (⭐182)](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file.
+*   [gzip-size-cli (⭐184)](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file.
 
 ### Utilities / Markdown
 
-*   [glow (⭐12k)](https://github.com/charmbracelet/glow) - Styled markdown rendering.
+*   [glow (⭐13k)](https://github.com/charmbracelet/glow) - Styled markdown rendering.
 
 ### Utilities / Security
 
-*   [hasha-cli (⭐68)](https://github.com/sindresorhus/hasha-cli) - Get the hash of text or stdin.
+*   [hasha-cli (⭐71)](https://github.com/sindresorhus/hasha-cli) - Get the hash of text or stdin.
 
 ### Utilities / Browser Replacement
 
-*   [s (⭐2.1k)](https://github.com/zquestz/s) - Open a web search in your terminal.
-*   [hget (⭐331)](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
-*   [mapscii (⭐6.6k)](https://github.com/rastapasta/mapscii) - Terminal Map Viewer.
-*   [nasa-cli (⭐68)](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day.
-*   [getnews.tech (⭐140)](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets.
-*   [trino (⭐128)](https://github.com/eneserdogan/trino) - Translation of words and phrases.
-*   [translate-shell (⭐6.2k)](https://github.com/soimort/translate-shell) - Google Translate interface.
+*   [s (⭐2.2k)](https://github.com/zquestz/s) - Open a web search in your terminal.
+*   [hget (⭐334)](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
+*   [mapscii (⭐6.7k)](https://github.com/rastapasta/mapscii) - Terminal Map Viewer.
+*   [nasa-cli (⭐78)](https://github.com/xxczaki/nasa-cli) - Download NASA Picture of the Day.
+*   [getnews.tech (⭐145)](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets.
+*   [trino (⭐129)](https://github.com/eneserdogan/trino) - Translation of words and phrases.
+*   [translate-shell (⭐6.4k)](https://github.com/soimort/translate-shell) - Google Translate interface.
 
 ### Utilities / Internet Speedtest
 
-*   [speedtest-net (⭐581)](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
+*   [speedtest-net (⭐591)](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
 *   [speed-test (⭐3.9k)](https://github.com/sindresorhus/speed-test) - `speedtest-net` wrapper with different UI.
 *   [speedtest-cli (⭐13k)](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
-*   [bandwhich (⭐7.9k)](https://github.com/imsnif/bandwhich) - Track bandwidth utilization by process.
+*   [bandwhich (⭐8.1k)](https://github.com/imsnif/bandwhich) - Track bandwidth utilization by process.
 
 ### Files and Directories / Directory Navigation
 
-*   [fz (⭐466)](https://github.com/changyuheng/fz.sh) - Seamless fuzzy tab completion for z.
+*   [fz (⭐477)](https://github.com/changyuheng/fz.sh) - Seamless fuzzy tab completion for z.
 
 ### Version Control / Git
 
-*   [shallow-backup (⭐1k)](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
+*   [shallow-backup (⭐1.1k)](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 
 ### Version Control / Emoji
 
-*   [gitmoji-cli (⭐4.2k)](https://github.com/carloscuesta/gitmoji-cli) - Use emoji in commit messages.
-*   [gitmoji-changelog (⭐353)](https://github.com/frinyvonnick/gitmoji-changelog) - Generate gitmoji changelogs.
+*   [gitmoji-cli (⭐4.3k)](https://github.com/carloscuesta/gitmoji-cli) - Use emoji in commit messages.
+*   [gitmoji-changelog (⭐363)](https://github.com/frinyvonnick/gitmoji-changelog) - Generate gitmoji changelogs.
 
 ### Images / Emoji
 
 *   [carbon-now-cli (⭐5.5k)](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
 
-## [10. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
+## [12. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
 
 ### Info / How To Read a Paper
 

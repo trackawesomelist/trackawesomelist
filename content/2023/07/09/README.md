@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 09, 2023
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -8,10 +8,10 @@
 
 ## [1. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
-### Alternatives / Articles
+### Other LLM Frameworks / Videos Playlists
 
-*   [Outlines (⭐157)](https://github.com/normal-computing/outlines): Generative Model Programming (Python) ![GitHub Repo stars](https://img.shields.io/github/stars/normal-computing/outlines?style=social)
-*   [AI Utils (⭐59)](https://github.com/lgrammel/ai-utils.js): TypeScript-first library for building AI apps, chatbots, and agents. ![GitHub Repo stars](https://img.shields.io/github/stars/lgrammel/ai-utils.js?style=social)
+*   [Outlines (⭐3k)](https://github.com/normal-computing/outlines): Fast and reliable neural text generation. ![GitHub Repo stars](https://img.shields.io/github/stars/normal-computing/outlines?style=social)
+*   [AI Utils (⭐457)](https://github.com/lgrammel/ai-utils.js): TypeScript-first library for building AI apps, chatbots, and agents. ![GitHub Repo stars](https://img.shields.io/github/stars/lgrammel/ai-utils.js?style=social)
 
 ## [2. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md)
 
@@ -175,29 +175,23 @@
 
 *   [Dynamics and constraints in insight problem solving](https://citeseerx.ist.psu.edu/document?repid=rep1\&type=pdf\&doi=818fec7c896ea3716eeb637da095293e9e6d1806) - ***Journal of Experimental Psychology***, 2002. \[[All Versions](https://scholar.google.com/scholar?cluster=12067671710370549516\&hl=en\&as_sdt=0,5)]. \[[APA](https://psycnet.apa.org/record/2002-01361-014)].
 
-## [4. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
-
-### Cloud Storage
-
-*   [Skiff Drive](https://https://skiff.com/drive) - Skiff Drive protects your dataq with end-to-end encryption.
-
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### DSP
 
 *   [DSPFilters (⭐1.6k)](https://github.com/vinniefalco/DSPFilters) - A collection of useful C++ classes for digital signal processing. \[MIT]
-*   [iir1 (⭐489)](https://github.com/berndporr/iir1) - IIR Realtime C++ filter library. \[MIT]
-*   [kissfft (⭐1.2k)](https://github.com/mborgerding/kissfft) - A Fast Fourier Transform (FFT) library that tries to Keep it Simple, Stupid. \[BSD-3-Clause]
-*   [pocketfft (⭐28)](https://github.com/mreineck/pocketfft) - FFT implementation based on FFTPack, but with several improvements. \[BSD-3-Clause]
-*   [wavelib (⭐296)](https://github.com/rafat/wavelib) - C implementation of 1D and 2D wavelet transforms. \[BSD-3-Clause]
+*   [iir1 (⭐527)](https://github.com/berndporr/iir1) - IIR Realtime C++ filter library. \[MIT]
+*   [kissfft (⭐1.3k)](https://github.com/mborgerding/kissfft) - A Fast Fourier Transform (FFT) library that tries to Keep it Simple, Stupid. \[BSD-3-Clause]
+*   [pocketfft (⭐32)](https://github.com/mreineck/pocketfft) - FFT implementation based on FFTPack, but with several improvements. \[BSD-3-Clause]
+*   [wavelib (⭐306)](https://github.com/rafat/wavelib) - C implementation of 1D and 2D wavelet transforms. \[BSD-3-Clause]
 
-## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Security Tools / File Sharing
 
 *   [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) - An application for inspecting macOS installer packages. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
@@ -207,4 +201,5 @@
 
 ---
 
+- Prev: [Jul 10, 2023](/content/2023/07/10/README.md)
 - Next: [Jul 08, 2023](/content/2023/07/08/README.md)

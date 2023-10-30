@@ -21,20 +21,20 @@
 
 ### Applications
 
-*   [doprz/dipc (⭐101)](https://github.com/doprz/dipc) — Convert your favorite images and wallpapers with your favorite color palettes/themes [![crates.io](https://img.shields.io/crates/v/dipc)](https://crates.io/crates/dipc)
+*   [doprz/dipc (⭐117)](https://github.com/doprz/dipc) — Convert your favorite images and wallpapers with your favorite color palettes/themes [![crates.io](https://img.shields.io/crates/v/dipc)](https://crates.io/crates/dipc)
 
 ### Development tools / Web Servers
 
-*   [frolic (⭐95)](https://github.com/FrolicOrg/Frolic)  — An API layer to build customer facing dashboards 10x faster
+*   [frolic (⭐149)](https://github.com/FrolicOrg/Frolic)  — An API layer to build customer facing dashboards 10x faster
 
 ### Libraries / Artificial Intelligence
 
-*   [huggingface/candle (⭐3.5k)](https://github.com/huggingface/candle) \[[candle-core](https://crates.io/crates/candle-core)]- a minimalist ML framework with a focus on easiness of use and on performance (including GPU support)
+*   [huggingface/candle (⭐9.2k)](https://github.com/huggingface/candle) \[[candle-core](https://crates.io/crates/candle-core)]- a minimalist ML framework with a focus on easiness of use and on performance (including GPU support)
 
 ### Libraries / Compression
 
 *   [7z](https://7-zip.org/7z.html)
-    *   [dyz1990/sevenz-rust (⭐58)](https://github.com/dyz1990/sevenz-rust) \[[sevenz-rust](https://crates.io/crates/sevenz-rust)] — A 7z decompressor/compressor written in pure rust. [![Rust](https://github.com/dyz1990/sevenz-rust/workflows/Rust/badge.svg?branch=main)](https://github.com/dyz1990/sevenz-rust/actions)
+    *   [dyz1990/sevenz-rust (⭐71)](https://github.com/dyz1990/sevenz-rust) \[[sevenz-rust](https://crates.io/crates/sevenz-rust)] — A 7z decompressor/compressor written in pure rust. [![Rust](https://github.com/dyz1990/sevenz-rust/workflows/Rust/badge.svg?branch=main)](https://github.com/dyz1990/sevenz-rust/actions)
 
 ### Libraries / Cryptography
 
@@ -42,11 +42,11 @@
 
 ### Libraries / Date and time
 
-*   [sorairolake/nt-time (⭐1)](https://github.com/sorairolake/nt-time) \[[nt-time](https://crates.io/crates/nt-time)] — A Windows file time library. [![CI](https://github.com/sorairolake/nt-time/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/nt-time/actions?query=workflow%3ACI)
+*   [sorairolake/nt-time (⭐0)](https://github.com/sorairolake/nt-time) \[[nt-time](https://crates.io/crates/nt-time)] — A Windows file time library. [![CI](https://github.com/sorairolake/nt-time/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/nt-time/actions?query=workflow%3ACI)
 
 ### Libraries / Graph algorithms
 
-*   [neo4j-labs/graph (⭐294)](https://github.com/neo4j-labs/graph) - A library for high-performant graph algorithms [![graph CI status](https://img.shields.io/github/workflow/status/neo4j-labs/graph/CI/main?label=CI)](https://github.com/neo4j-labs/graph/actions/workflows/rust.yml)
+*   [neo4j-labs/graph (⭐310)](https://github.com/neo4j-labs/graph) - A library for high-performant graph algorithms [![graph CI status](https://img.shields.io/github/workflow/status/neo4j-labs/graph/CI/main?label=CI)](https://github.com/neo4j-labs/graph/actions/workflows/rust.yml)
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Importality (⭐39)](https://github.com/nklbdev/godot-4-importality) - raster graphics and animations importers: Aseprite, Krita, Pencil2D, Piskel, Pixelorama and others (Godot 4.x).
+*   [Importality (⭐132)](https://github.com/nklbdev/godot-4-importality) - raster graphics and animations importers: Aseprite, Krita, Pencil2D, Piskel, Pixelorama and others (Godot 4.x).
 
 ## [5. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
@@ -88,8 +88,9 @@
 
 ### API / Samples
 
-*   [Graphweaver (⭐40)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL API.
+*   [Graphweaver (⭐389)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL API.
 
 ---
 
+- Prev: [Aug 11, 2023](/content/2023/08/11/README.md)
 - Next: [Aug 09, 2023](/content/2023/08/09/README.md)

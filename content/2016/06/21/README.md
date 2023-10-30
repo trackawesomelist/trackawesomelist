@@ -16,7 +16,7 @@
 
 ### Books / Hash functions
 
-*   [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/\~dabo/cryptobook/) - The book covers many constructions for different tasks in cryptography.
+*   [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/) - The book covers many constructions for different tasks in cryptography.
 
 ### Courses / Hash functions
 
@@ -24,13 +24,13 @@
 
 ### C / Git
 
-*   [crypto-algorithms (⭐1.5k)](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms, like AES and SHA-1.
+*   [crypto-algorithms (⭐1.6k)](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms, like AES and SHA-1.
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
-*   [SOMPY (⭐503)](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (Uses neural networks for data analysis).
+*   [SOMPY (⭐510)](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (Uses neural networks for data analysis).
 *   [HDBScan (⭐92)](https://github.com/lmcinnes/hdbscan) - implementation of the hdbscan algorithm in Python - used for clustering
 
 ## [4. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
@@ -43,7 +43,7 @@
 
 ### Network / Monitoring / Logging
 
-*   [Fibratus (⭐1.9k)](https://github.com/rabbitstack/fibratus) - Fibratus is a tool for exploration and tracing of the Windows kernel. It is able to capture the most of the Windows kernel activity - process/thread creation and termination, file system I/O, registry, network activity, DLL loading/unloading and much more. Fibratus has a very simple CLI which encapsulates the machinery to start the kernel event stream collector, set kernel event filters or run the lightweight Python modules called filaments.
+*   [Fibratus (⭐2k)](https://github.com/rabbitstack/fibratus) - Fibratus is a tool for exploration and tracing of the Windows kernel. It is able to capture the most of the Windows kernel activity - process/thread creation and termination, file system I/O, registry, network activity, DLL loading/unloading and much more. Fibratus has a very simple CLI which encapsulates the machinery to start the kernel event stream collector, set kernel event filters or run the lightweight Python modules called filaments.
 
 ## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Environment Management
 
-*   [rcm.cr (⭐44)](https://github.com/maiha/rcm.cr) - Redis Cluster Manager
+*   [rcm.cr (⭐45)](https://github.com/maiha/rcm.cr) - Redis Cluster Manager
 
 ## [8. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 

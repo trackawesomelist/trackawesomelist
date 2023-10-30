@@ -20,11 +20,11 @@
 
 ### (requires Neovim 0.5)
 
-*   [aznhe21/actions-preview.nvim (⭐72)](https://github.com/aznhe21/actions-preview.nvim) - Fully customizable previewer for LSP code actions.
+*   [aznhe21/actions-preview.nvim (⭐160)](https://github.com/aznhe21/actions-preview.nvim) - Fully customizable previewer for LSP code actions.
 
 ### Keybinding / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.clue (⭐2.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-clue.md) - Module of `mini.nvim` to show next key clues. Has opt-in triggers, shows next key information after customizable delay, allows hydra-like submodes, and more.
+*   [echasnovski/mini.nvim#mini.clue (⭐2.9k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-clue.md) - Module of `mini.nvim` to show next key clues. Has opt-in triggers, shows next key information after customizable delay, allows hydra-like submodes, and more.
 
 ## [3. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -51,7 +51,7 @@
 ### UI Libraries, Components & Templates
 
 *   🧩 [TailwindFlex](https://tailwindflex.com) - Free library of Tailwind CSS examples.
-*   📁 [Astro Template Cactus (⭐288)](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
+*   📁 [Astro Template Cactus (⭐408)](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -61,8 +61,9 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [checkmate (⭐0)](https://github.com/skippyr/checkmate) - Decorated with chess pieces. Includes decorators for python venv, current directory, `git` status and whether you're running as root. Requires a Nerd Font.
+*   [checkmate (⭐1)](https://github.com/skippyr/checkmate) - Decorated with chess pieces. Includes decorators for python venv, current directory, `git` status and whether you're running as root. Requires a Nerd Font.
 
 ---
 
+- Prev: [Aug 06, 2023](/content/2023/08/06/README.md)
 - Next: [Aug 04, 2023](/content/2023/08/04/README.md)

@@ -10,7 +10,7 @@
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [Mixcore CMS (⭐523)](https://github.com/mixcore/mix.core) - Open Source CMS powered by DotNet Core. Mixcore CMS is a scalable, open platform for web content management and digital experiences. Mixcore CMS provides deep capabilities and endless flexibility on the web.
+*   [Mixcore CMS (⭐662)](https://github.com/mixcore/mix.core) - Open Source CMS powered by DotNet Core. Mixcore CMS is a scalable, open platform for web content management and digital experiences. Mixcore CMS provides deep capabilities and endless flexibility on the web.
 
 ## [2. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -36,7 +36,7 @@
 
 *   [Ocean](https://docs.ocean.dwavesys.com/en/latest/overview/install.html) - D-Wave's SDK for developing on their quantum computers using Python.
 *   [pyQuil (⭐1.3k)](https://github.com/rigetticomputing/pyquil) - Python library for quantum programming using Quil by Rigetti.
-*   [Qiskit.js (⭐106)](https://github.com/QISKit/qiskit-js) - Qiskit for JavaScript made by IBM.
+*   [Qiskit.js (⭐110)](https://github.com/QISKit/qiskit-js) - Qiskit for JavaScript made by IBM.
 
 ## [4. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
@@ -66,18 +66,13 @@
 ### Projects Using Vue.js / Open Source
 
 *   [vue-realworld-example-app (⭐4k)](https://github.com/gothinkster/vue-realworld-example-app) - Exemplary fullstack Medium.com clone
-*   [Daily (⭐13k)](https://github.com/dailynowco/daily) - Curated dev news delivered to your new tab 👩🏽‍💻
+*   [Daily (⭐14k)](https://github.com/dailynowco/daily) - Curated dev news delivered to your new tab 👩🏽‍💻
 
 ### Components & Libraries / UI Components
 
 *   [vue-datepicker (⭐160)](https://github.com/mathieustan/vue-datepicker) - A clean & responsive datepicker with Material Design style for Vuejs 2.x. (date/month/quarter && date range picker) :new:
 
 ## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
-
-### Testing Frameworks / Frameworks
-
-*   [jest (⭐42k)](https://github.com/facebook/jest) - Painless JavaScript Unit Testing.
-*   [mocha (⭐22k)](https://github.com/mochajs/mocha) - Simple, flexible, fun JavaScript test framework for node.js & the browser.
 
 ### Package Managers
 
@@ -86,7 +81,11 @@
 ### Loaders
 
 *   [script.js (⭐2.9k)](https://github.com/ded/script.js) - Asynchronous JavaScript loader and dependency manager.
-*   [LodJS (⭐291)](https://github.com/yanhaijing/lodjs) - Module loader based on AMD.
+*   [LodJS (⭐290)](https://github.com/yanhaijing/lodjs) - Module loader based on AMD.
+
+### Testing Frameworks / Frameworks
+
+*   [mocha (⭐22k)](https://github.com/mochajs/mocha) - Simple, flexible, fun JavaScript test framework for node.js & the browser.
 
 ### Testing Frameworks / Coverage
 
@@ -95,36 +94,35 @@
 ### MVC Frameworks and Libraries / Runner
 
 *   [aurelia](http://aurelia.io) - A JavaScript client framework for mobile, desktop and web.
-*   [meteor (⭐43k)](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-javascript web framework.
+*   [meteor (⭐44k)](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-javascript web framework.
 *   [espresso.js (⭐534)](https://github.com/techlayer/espresso.js) - A minimal JavaScript library for crafting user interfaces.
-*   [nativescript (⭐22k)](https://github.com/NativeScript/NativeScript) - Build truly native cross-platform iOS and Android apps with JavaScript.
+*   [nativescript (⭐23k)](https://github.com/NativeScript/NativeScript) - Build truly native cross-platform iOS and Android apps with JavaScript.
 
 ### Node-Powered CMS Frameworks / Runner
 
-*   [KeystoneJS (⭐7.8k)](https://github.com/keystonejs/keystone) - powerful CMS and web app framework.
+*   [KeystoneJS (⭐8.3k)](https://github.com/keystonejs/keystone) - powerful CMS and web app framework.
 *   [Reaction Commerce (⭐12k)](https://github.com/reactioncommerce/reaction) - reactive CMS, real-time architecture and design.
-*   [Ghost (⭐43k)](https://github.com/tryghost/Ghost) - simple, powerful publishing platform.
-*   [Apostrophe (⭐4k)](https://github.com/punkave/apostrophe) - CMS with content editing and essential services.
+*   [Ghost (⭐44k)](https://github.com/tryghost/Ghost) - simple, powerful publishing platform.
+*   [Apostrophe (⭐4.1k)](https://github.com/punkave/apostrophe) - CMS with content editing and essential services.
 *   [We.js (⭐209)](https://github.com/wejs/we/) - framework for real time apps, sites or blogs.
 *   [Nodizecms (⭐176)](https://github.com/nodize/nodizecms) - CMS for CoffeeScript lovers.
-*   [Cody (⭐669)](https://github.com/jcoppieters/cody) - CMS with WSYWYG editor.
+*   [Cody (⭐672)](https://github.com/jcoppieters/cody) - CMS with WSYWYG editor.
 *   [PencilBlue (⭐1.6k)](https://github.com/pencilblue/pencilblue/) - CMS and blogging platform.
 
 ### Templating Engines / Runner
 
 *   [doT (⭐4.9k)](https://github.com/olado/doT) - The fastest + concise JavaScript template engine for nodejs and browsers.
-*   [t.js (⭐824)](https://github.com/jasonmoo/t.js) - A tiny JavaScript templating framework in \~400 bytes gzipped.
+*   [t.js (⭐822)](https://github.com/jasonmoo/t.js) - A tiny JavaScript templating framework in \~400 bytes gzipped.
 
 ### Data Visualization / Runner
 
-*   [fabric.js (⭐25k)](https://github.com/kangax/fabric.js) - JavaScript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser.
-*   [processing.js](http://processingjs.org/) - Processing.js makes your data visualizations work using web standards and without any plug-ins.
+*   [fabric.js (⭐26k)](https://github.com/kangax/fabric.js) - JavaScript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser.
 *   [nvd3 (⭐7.2k)](https://github.com/novus/nvd3) - Build re-usable charts and chart components for d3.js.
 *   [jquery.sparkline (⭐1.2k)](https://github.com/gwatts/jquery.sparkline) - A plugin for the jQuery JavaScript library to generate small sparkline charts directly in the browser.
 *   [trianglify (⭐10k)](https://github.com/qrohlf/trianglify) - Low poly style background generator with d3.js.
 *   [dimple.js](http://dimplejs.org) - Easy charts for business analytics powered by d3.
-*   [recharts (⭐20k)](https://github.com/recharts/recharts) - Redefined chart library built with React and D3.
-*   [mxGraph (⭐6.5k)](https://github.com/jgraph/mxgraph) - Diagramming library that enables interactive graph and charting applications to be quickly created that run natively in any major browser that is supported by its vendor.
+*   [recharts (⭐21k)](https://github.com/recharts/recharts) - Redefined chart library built with React and D3.
+*   [mxGraph (⭐6.6k)](https://github.com/jgraph/mxgraph) - Diagramming library that enables interactive graph and charting applications to be quickly created that run natively in any major browser that is supported by its vendor.
 
 ### Editors / Runner
 
@@ -141,33 +139,33 @@
 
 ### Date / Runner
 
-*   [moment (⭐47k)](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in JavaScript.
+*   [moment (⭐48k)](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in JavaScript.
 
 ### String / Runner
 
 *   [selecting (⭐89)](https://github.com/EvandroLG/selecting) - A library that allows you to access the text selected by the user.
 *   [underscore.string (⭐3.4k)](https://github.com/epeli/underscore.string) - String manipulation extensions for Underscore.js JavaScript library.
 *   [URI.js (⭐6.2k)](https://github.com/medialize/URI.js/) - JavaScript URL mutation library.
-*   [url-pattern (⭐567)](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for urls and other strings. Turn strings into data or data into strings.
+*   [url-pattern (⭐571)](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for urls and other strings. Turn strings into data or data into strings.
 
 ### Number / Runner
 
-*   [Numeral-js (⭐9.4k)](https://github.com/adamwdraper/Numeral-js) - A JavaScript library for formatting and manipulating numbers.
+*   [Numeral-js (⭐9.5k)](https://github.com/adamwdraper/Numeral-js) - A JavaScript library for formatting and manipulating numbers.
 *   [chance.js (⭐6.2k)](https://github.com/chancejs/chancejs) - Random generator helper in JavaScript. Can generate numbers, strings etc.
 *   [money.js (⭐11)](https://github.com/josscrowcroft/money.js) - A tiny (1kb) JavaScript currency conversion library, for web & nodeJS.
-*   [Fraction.js (⭐412)](https://github.com/infusion/Fraction.js) - A rational number library for JavaScript.
-*   [Complex.js (⭐216)](https://github.com/infusion/Complex.js) - A complex number library for JavaScript.
-*   [Polynomial.js (⭐112)](https://github.com/infusion/Polynomial.js) - A polynomials library for JavaScript.
+*   [Fraction.js (⭐430)](https://github.com/infusion/Fraction.js) - A rational number library for JavaScript.
+*   [Complex.js (⭐220)](https://github.com/infusion/Complex.js) - A complex number library for JavaScript.
+*   [Polynomial.js (⭐118)](https://github.com/infusion/Polynomial.js) - A polynomials library for JavaScript.
 
 ### Storage / Runner
 
 *   [basil.js (⭐2k)](https://github.com/Wisembly/basil.js) - The missing JavaScript smart persistent layer.
 *   [js-cookie (⭐21k)](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies.
-*   [DB.js (⭐792)](https://github.com/aaronpowell/db.js/) - Promise based IndexDB Wrapper library.
+*   [DB.js (⭐803)](https://github.com/aaronpowell/db.js/) - Promise based IndexDB Wrapper library.
 
 ### I18n And L10n / Runner
 
-*   [i18next (⭐6.8k)](https://github.com/i18next/i18next) - internationalisation (i18n) with JavaScript the easy way.
+*   [i18next (⭐7k)](https://github.com/i18next/i18next) - internationalisation (i18n) with JavaScript the easy way.
 
 ### Security / Runner
 
@@ -175,12 +173,12 @@
 
 ### Log / Runner
 
-*   [Conzole (⭐209)](https://github.com/Oaxoa/Conzole) - A debug panel built in JavaScript that wraps JavaScript native console object methods and functionality in a panel displayed inside the page.
+*   [Conzole (⭐210)](https://github.com/Oaxoa/Conzole) - A debug panel built in JavaScript that wraps JavaScript native console object methods and functionality in a panel displayed inside the page.
 *   [minilog](http://mixu.net/minilog/) – Lightweight client & server-side logging with Stream-API backends.
 
 ### Vision Detection / Runner
 
-*   [ocrad.js (⭐3.4k)](https://github.com/antimatter15/ocrad.js) - OCR in JavaScript via Emscripten.
+*   [ocrad.js (⭐3.5k)](https://github.com/antimatter15/ocrad.js) - OCR in JavaScript via Emscripten.
 
 ### Machine Learning / Runner
 
@@ -188,11 +186,11 @@
 
 ### Browser Detection / Runner
 
-*   [bowser (⭐5.2k)](https://github.com/ded/bowser) - a browser detector.
+*   [bowser (⭐5.3k)](https://github.com/ded/bowser) - a browser detector.
 
 ### Code highlighting / Runner
 
-*   [Highlight.js (⭐21k)](https://github.com/isagalaev/highlight.js) - JavaScript syntax highlighter.
+*   [Highlight.js (⭐22k)](https://github.com/isagalaev/highlight.js) - JavaScript syntax highlighter.
 
 ### Validation / Runner
 
@@ -206,7 +204,7 @@
 ### Notifications / Runner
 
 *   [toastr (⭐12k)](https://github.com/CodeSeven/toastr) - Simple JavaScript toast notifications.
-*   [smoke.js (⭐932)](https://github.com/hxgf/smoke.js) - Framework-agnostic styled alert system for JavaScript.
+*   [smoke.js (⭐931)](https://github.com/hxgf/smoke.js) - Framework-agnostic styled alert system for JavaScript.
 
 ### Sliders / Runner
 
@@ -214,7 +212,7 @@
 
 ### Range Sliders / Runner
 
-*   [jQRangeSlider (⭐677)](https://github.com/ghusse/jQRangeSlider) - A JavaScript slider selector that supports dates.
+*   [jQRangeSlider (⭐674)](https://github.com/ghusse/jQRangeSlider) - A JavaScript slider selector that supports dates.
 
 ### Form Widgets / Input
 
@@ -258,24 +256,24 @@
 
 ### Video/Audio / Other
 
-*   [Play-em JS (⭐93)](https://github.com/adrienjoly/playemjs) - Play'em is a JavaScript component that manages a music/video track queue and plays a sequence of songs by embedding several players in a HTML DIV including Youtube, Soundcloud and Vimeo.
+*   [Play-em JS (⭐94)](https://github.com/adrienjoly/playemjs) - Play'em is a JavaScript component that manages a music/video track queue and plays a sequence of songs by embedding several players in a HTML DIV including Youtube, Soundcloud and Vimeo.
 *   [polyplayer (⭐40)](https://github.com/Acconut/polyplayer) - Rule YouTube, Soundcloud and Vimeo player with one API.
-*   [video.js (⭐35k)](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player.
+*   [video.js (⭐36k)](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player.
 *   [Ion.Sound (⭐711)](https://github.com/IonDen/ion.sound) - Simple sounds on any web page.
-*   [photobooth-js (⭐577)](https://github.com/WolframHempel/photobooth-js) - A widget that allows users to take their avatar pictures on your site.
+*   [photobooth-js (⭐576)](https://github.com/WolframHempel/photobooth-js) - A widget that allows users to take their avatar pictures on your site.
 
 ### Typography / Other
 
-*   [circletype (⭐649)](https://github.com/peterhry/circletype) - A jQuery plugin that lets you curve type on the web.
+*   [circletype (⭐656)](https://github.com/peterhry/circletype) - A jQuery plugin that lets you curve type on the web.
 *   [slabText (⭐1.3k)](https://github.com/freqDec/slabText/) - A jQuery plugin for producing big, bold & responsive headlines.
-*   [simple-text-rotator (⭐754)](https://github.com/peachananr/simple-text-rotator) - Add a super simple rotating text to your website with little to no markup.
+*   [simple-text-rotator (⭐751)](https://github.com/peachananr/simple-text-rotator) - Add a super simple rotating text to your website with little to no markup.
 *   [FitText.js (⭐6.8k)](https://github.com/davatron5000/FitText.js) - A jQuery plugin for inflating web type.
 *   [Lettering.js (⭐5.4k)](https://github.com/davatron5000/Lettering.js) - A lightweight, easy to use JavaScript `<span>` injector for radical Web Typography.
 
 ### Animations / Other
 
 *   [TransitionEnd (⭐95)](https://github.com/EvandroLG/transitionEnd) - TransitionEnd is an agnostic and cross-browser library to work with transitioned event.
-*   [Dynamic.js (⭐7.5k)](https://github.com/michaelvillar/dynamics.js) - JavaScript library to create physics-based CSS animations.
+*   [Dynamic.js (⭐7.6k)](https://github.com/michaelvillar/dynamics.js) - JavaScript library to create physics-based CSS animations.
 *   [textillate (⭐3.6k)](https://github.com/jschr/textillate) - A simple plugin for CSS3 text animations.
 *   [move.js (⭐4.7k)](https://github.com/visionmedia/move.js) - CSS3 backed JavaScript animation framework.
 *   [animatable (⭐2.6k)](https://github.com/LeaVerou/animatable) - One property, two values, endless possibilities.
@@ -283,9 +281,6 @@
 ### Misc / Other
 
 *   [mixitup (⭐4.5k)](https://github.com/patrickkunka/mixitup) - MixItUp - A Filter & Sort Plugin.
-
-### Podcasts / Other
-
 *   [braziljs/js-the-right-way (⭐8.6k)](https://github.com/braziljs/js-the-right-way/) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.
 *   [JSbooks (⭐2.5k)](https://github.com/revolunet/JSbooks) - Directory of free JavaScript ebooks.
 
@@ -319,17 +314,17 @@
 
 ### Style Guides
 
-*   [Airbnb (⭐1.9k)](https://github.com/airbnb/swift) - Airbnb's Official Style Guide.
+*   [Airbnb (⭐2.1k)](https://github.com/airbnb/swift) - Airbnb's Official Style Guide.
 
 ### Mock / Barcode
 
-*   [AutoMockable (⭐40)](https://github.com/vincent-pradeilles/AutoMocker) - A framework that leverages the type system to let you easily create mocked instances of your data types.
+*   [AutoMockable (⭐42)](https://github.com/vincent-pradeilles/AutoMocker) - A framework that leverages the type system to let you easily create mocked instances of your data types.
 
 ## [11. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Top / Game Engine resources
 
-*   [Pokedex (⭐1.8k)](https://github.com/scitbiz/flutter_pokedex) - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz)
+*   [Pokedex (⭐2k)](https://github.com/scitbiz/flutter_pokedex) - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz)
 
 ### 🇨🇦 Canada / Misc
 
@@ -354,21 +349,21 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Contents / Components
 
-*   [Preact Translate (⭐62)](https://github.com/DenysVuika/preact-translate) - Minimalistic translate (i18n) library for Preact.
+*   [Preact Translate (⭐65)](https://github.com/DenysVuika/preact-translate) - Minimalistic translate (i18n) library for Preact.
 
 ## [14. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Theming / Themes
 
-*   [ant-design-dark-theme (⭐466)](https://github.com/ant-design/ant-design-dark-theme) - Dark theme variables of Ant Design.
-*   [ant-design-aliyun-theme (⭐302)](https://github.com/ant-design/ant-design-aliyun-theme) - Aliyun console theme variables of Ant Design.
+*   [ant-design-dark-theme (⭐478)](https://github.com/ant-design/ant-design-dark-theme) - Dark theme variables of Ant Design.
+*   [ant-design-aliyun-theme (⭐304)](https://github.com/ant-design/ant-design-aliyun-theme) - Aliyun console theme variables of Ant Design.
 *   [ant-dark-theme (⭐13)](https://github.com/Kuechlin/ant-dark-theme) - Dark theme variables of Ant Design.
 
 ## [15. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### SIRI / Ruby
 
-*   [Edwig (⭐17)](https://github.com/af83/edwig) - A golang server for real-time public transport data exchange, using the SIRI protocol.
+*   [Edwig (⭐16)](https://github.com/af83/edwig) - A golang server for real-time public transport data exchange, using the SIRI protocol.
 
 ## [16. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
@@ -376,35 +371,35 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 *   [adalib (⭐16)](https://github.com/reznikmm/adalib) - Standard Ada library specification as defined in Reference Manual.
 
-### Database / MIT
+### Database / Apache License
 
-*   [ada-base (⭐31)](https://github.com/jrmarino/AdaBase) - Thick database bindings to MySQL, PostgreSQL and SQLite for Ada.
+*   [ada-base (⭐30)](https://github.com/jrmarino/AdaBase) - Thick database bindings to MySQL, PostgreSQL and SQLite for Ada.
 
-### Generation / MIT
+### Generation / Apache License
 
 *   [ajunitgen (⭐1)](https://github.com/mosteo/ajunitgen) - Generator of JUnit-compatible XML reports in Ada.
 
-### Algorithms, Containers and Protocols / MIT
+### Algorithms, Containers and Protocols / Apache License
 
 *   [adagio (⭐3)](https://github.com/mosteo/adagio) - Gnutella2 (G2) network server leaf.
 *   [agpl (⭐4)](https://github.com/mosteo/agpl) - Ada General Purpose Library (Miscellaneous utilities, with a robotic flavor).
 
-### Patterns / MIT
+### Patterns / Apache License
 
-*   [rxada (⭐12)](https://github.com/mosteo/rxada) - An Ada 2012 implementation of the Rx methodology.
+*   [rxada (⭐14)](https://github.com/mosteo/rxada) - An Ada 2012 implementation of the Rx methodology.
 
-### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / MIT
+### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / Apache License
 
 *   [parser-tools (⭐6)](https://github.com/flyx/ParserTools) - Tools for writing lexers / parsers in Ada.
 
-### Utilities / MIT
+### Utilities / Apache License
 
 *   [licensing (⭐0)](https://github.com/mosteo/licensing) - Open Source Licenses library for Ada.
 *   [rsfile (⭐0)](https://github.com/mosteo/rsfile) - Command-line utility that picks a file from a folder hierarchy with probability proportional to its size.
 *   [cstrings (⭐0)](https://github.com/mosteo/cstrings) - Convenience subprograms to interact with C strings.
 *   [ada-bundler (⭐5)](https://github.com/flyx/ada-bundler) - Library and tool for transparently handling data and configuration file access in an Ada application. Supports macOS, Linux and Windows.
 
-### Libraries / MIT
+### Libraries / Apache License
 
 *   [sancta (⭐1)](https://github.com/mosteo/sancta) - SANCTA multi-robot task allocation library.
 
@@ -418,7 +413,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Tools
 
-*   [web-component-analyzer (⭐426)](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
+*   [web-component-analyzer (⭐462)](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
 
 ## [19. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
@@ -428,18 +423,13 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ## [20. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
-### Software / Automation
-
-*   [Bolt](https://puppet.com/products/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable. ([Source Code (⭐451)](https://github.com/puppetlabs/bolt)) `Apache-2.0` `Ruby`
-
 ### Software / Backups
 
-*   [BackupPC](https://backuppc.github.io/backuppc/) - BackupPC is a high-performance system for backing up to disk.
-*   [Duplicati](http://www.duplicati.com) - Multiple backends, encryption, web-ui and multi-OS backup tool.
+*   [BackupPC](https://backuppc.github.io/backuppc/) - High-performance, enterprise-grade system for backing up to a server's disk.. ([Source Code (⭐1.2k)](https://github.com/backuppc/backuppc)) `GPL-3.0` `Perl`
 
 ### Software / Identity Management - Tools and web interfaces
 
-*   [easy-rsa (⭐3.6k)](https://github.com/OpenVPN/easy-rsa) - bash script to build and manage a PKI CA.
+*   [easy-rsa (⭐3.7k)](https://github.com/OpenVPN/easy-rsa) - Bash script to build and manage a PKI CA. `GPL-2.0` `Shell`
 
 ### Repositories / Web
 
@@ -615,7 +605,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Developer Tools / Developer Utilities
 
-*   [SYM (⭐536)](https://github.com/zqqf16/SYM) - GUI Application to symbolicate iOS crash log. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zqqf16/SYM)
+*   [SYM (⭐555)](https://github.com/zqqf16/SYM) - GUI Application to symbolicate iOS crash log. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zqqf16/SYM)
 
 ### Developer Tools / Command Line Tools
 
@@ -648,16 +638,15 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 *   [yo (⭐3.7k)](https://github.com/yeoman/yo) - Scaffolding tool for running Yeoman generators.
 *   [boilr (⭐1.6k)](https://github.com/tmrts/boilr) - Create projects from boilerplate templates.
 *   [cookiecutter (⭐20k)](https://github.com/audreyr/cookiecutter) - Create projects from templates.
-*   [mevn-cli (⭐805)](http://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
-*   [scaffold-static (⭐119)](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla JS.
+*   [scaffold-static (⭐123)](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla JS.
 
 ### Utilities / Shell Utilities
 
-*   [has (⭐524)](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
-*   [Ultimate Plumber (⭐7.9k)](https://github.com/akavel/up) - Write Linux pipes with live previews.
-*   [fkill-cli (⭐6.7k)](https://github.com/sindresorhus/fkill-cli) - Simple cross-platform process killer.
-*   [undollar (⭐135)](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
-*   [pipe\_exec (⭐54)](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
+*   [has (⭐547)](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
+*   [Ultimate Plumber (⭐8k)](https://github.com/akavel/up) - Write Linux pipes with live previews.
+*   [fkill-cli (⭐6.8k)](https://github.com/sindresorhus/fkill-cli) - Simple cross-platform process killer.
+*   [undollar (⭐144)](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
+*   [pipe\_exec (⭐60)](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
 
 ## [32. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -711,10 +700,6 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 *   [BlackWidow](http://softbytelabs.com/wp/blackwidow/)
 
-### Communication Tools / Telegram
-
-*   [Signal](https://signal.org/)
-
 ### Threat Intelligence / Telegram
 
 *   [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
@@ -722,21 +707,15 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ## [36. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
-### Apps
+### Pinning services
 
-*   [Minerva (⭐25)](https://github.com/bdchain/Minerva) - Minerva is a storage plugin of Apache Drill that connects IPFS's decentralized storage and Drill's flexible query engine.
-*   [Wistful Books](https://wistfulbooks.com/) - Single page offline application for enjoying librivox.org audio books. [Source (⭐6)](https://github.com/smwa/wistfulbooks)
-
-### Services
-
-*   [Eternum](https://www.eternum.io/) - Paid pinning service with an easy-to-use API.
 *   [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
 
 ## [37. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Runtime / Playground
 
-*   [typescript-is (⭐928)](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
+*   [typescript-is (⭐944)](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
 
 ## [38. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -799,11 +778,11 @@ Webpage: <http://www.cafevitoria.com/>
 
 ### Misc
 
-*   [monads (⭐47)](https://github.com/alex-lairan/monads) - Monad implementation
+*   [monads (⭐46)](https://github.com/alex-lairan/monads) - Monad implementation
 
 ### Testing
 
-*   [vcr (⭐57)](https://github.com/spoved/vcr.cr) - A HTTP capture and replay implementation for crystal
+*   [vcr (⭐59)](https://github.com/spoved/vcr.cr) - A HTTP capture and replay implementation for crystal
 
 ### Third-party APIs
 
@@ -829,7 +808,7 @@ Webpage: <http://www.cafevitoria.com/>
 
 ### Software / Content Management Systems (CMS)
 
-*   [Contao](https://contao.org/) - Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications. ([Source Code (⭐277)](https://github.com/contao/contao/)) `LGPL-3.0` `PHP`
+*   [Contao](https://contao.org/) - Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications. ([Source Code (⭐297)](https://github.com/contao/contao/)) `LGPL-3.0` `PHP`
 
 ## [45. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -900,32 +879,31 @@ Webpage: <http://www.cafevitoria.com/>
 
 ## [47. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
+### React Testing
+
+*   [jest (⭐43k)](https://github.com/facebook/jest) - Delightful JavaScript Testing
+
 ### React Development Tools
 
 *   [reactotron (⭐14k)](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
-*   [eslint-plugin-react (⭐8.4k)](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
-
-### React Component Libraries
-
-*   [blueprint (⭐20k)](https://github.com/palantir/blueprint) - A React-based Palantir's UI toolkit for the web
-*   [semantic-ui-react (⭐13k)](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration
+*   [eslint-plugin-react (⭐8.7k)](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
 
 ### React Styling
 
-*   [styled-components (⭐39k)](https://github.com/styled-components/styled-components) - Visual primitives for the component age
-*   [emotion (⭐16k)](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition
-*   [jss (⭐6.9k)](https://github.com/cssinjs/jss) - authoring tool for CSS which uses JavaScript as a host language
+*   [styled-components (⭐40k)](https://github.com/styled-components/styled-components) - Visual primitives for the component age
+*   [emotion (⭐17k)](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition
+*   [jss (⭐7k)](https://github.com/cssinjs/jss) - authoring tool for CSS which uses JavaScript as a host language
 
 ### React Awesome Components
 
-*   [react-datepicker (⭐7.3k)](https://github.com/Hacker0x01/react-datepicker/) - A simple and reusable datepicker component for React
-*   [react-loading-skeleton (⭐3.3k)](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app
+*   [react-datepicker (⭐7.6k)](https://github.com/Hacker0x01/react-datepicker/) - A simple and reusable datepicker component for React
+*   [react-loading-skeleton (⭐3.6k)](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app
 
 ### React Components Sandboxes
 
-*   [storybook (⭐78k)](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation
+*   [storybook (⭐81k)](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation
 *   [react-styleguidist (⭐11k)](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
-*   [react-cosmos (⭐7.8k)](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
+*   [react-cosmos (⭐7.9k)](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
 
 ---
 

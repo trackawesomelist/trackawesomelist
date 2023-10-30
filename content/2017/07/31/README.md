@@ -32,7 +32,7 @@
 
 ### Augmented Reality
 
-*   [ARKit-CoreLocation (⭐5.3k)](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
+*   [ARKit-CoreLocation (⭐5.4k)](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
 
 ### Concurrency
 
@@ -40,7 +40,7 @@
 
 ### Walkthrough / Barcode
 
-*   [AwesomeSpotlightView (⭐313)](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView) - Create tutorial or coach tour.
+*   [AwesomeSpotlightView (⭐318)](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView) - Create tutorial or coach tour.
 
 ## [5. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 
@@ -54,8 +54,8 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [sh-semver (⭐29)](https://github.com/qzb/sh-semver) - Semver tool for bash - finds versions matching to specified rules
-*   [zunit (⭐175)](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH
+*   [sh-semver (⭐31)](https://github.com/qzb/sh-semver) - Semver tool for bash - finds versions matching to specified rules
+*   [zunit (⭐180)](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH
 
 ## [7. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Integrations
 
-*   [HapiJS Keycloak Auth (⭐35)](https://github.com/felixheck/hapi-auth-keycloak)
+*   [HapiJS Keycloak Auth (⭐36)](https://github.com/felixheck/hapi-auth-keycloak)
 
 ## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

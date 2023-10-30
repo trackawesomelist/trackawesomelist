@@ -94,7 +94,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Frameworks, Libraries and Tools / Bundling and Minification
 
-*   [Web Markup Minifier (⭐384)](https://github.com/Taritsyn/WebMarkupMin) - .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
+*   [Web Markup Minifier (⭐417)](https://github.com/Taritsyn/WebMarkupMin) - .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
 
 ## [8. Bots](/content/hackerkid/bots/README.md)
 

@@ -11,7 +11,7 @@
 ### Native Apps (open source)
 
 *   [OpenTripPlanner Android (⭐128)](https://github.com/CUTR-at-USF/OpenTripPlanner-for-Android/wiki) - An Android app for [OpenTripPlanner](http://www.opentripplanner.org/)
-*   [OpenTripPlanner iOS (⭐65)](https://github.com/opentripplanner/OpenTripPlanner-iOS) - An iOS app for [OpenTripPlanner](http://www.opentripplanner.org/)
+*   [OpenTripPlanner iOS (⭐66)](https://github.com/opentripplanner/OpenTripPlanner-iOS) - An iOS app for [OpenTripPlanner](http://www.opentripplanner.org/)
 
 ### Native Apps (closed source)
 
@@ -21,13 +21,13 @@
 
 ### Articles
 
-*   [C++Now 2015 Presentations (⭐203)](https://github.com/boostcon/cppnow_presentations_2015) - Presentation materials presented at C++Now 2015.
+*   [C++Now 2015 Presentations (⭐202)](https://github.com/boostcon/cppnow_presentations_2015) - Presentation materials presented at C++Now 2015.
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Logging
 
-*   [rollbax (⭐242)](https://github.com/elixir-addicts/rollbax) - Exception tracking and logging to [Rollbar](https://rollbar.com/).
+*   [rollbax (⭐241)](https://github.com/elixir-addicts/rollbax) - Exception tracking and logging to [Rollbar](https://rollbar.com/).
 
 ## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

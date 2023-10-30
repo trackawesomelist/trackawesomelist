@@ -10,7 +10,7 @@
 
 ### Command line interface (CLI) / Terminal / Shell
 
-*   [bartender (⭐37)](https://github.com/tobealive/bartender) - Gluten free bars for V term apps.
+*   [bartender (⭐46)](https://github.com/tobealive/bartender) - Customizable progress indicators for V terminal applications.
 
 ## [2. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -18,10 +18,10 @@
 
 *   dvm
     *   [asdf-community/asdf-deno](https://github.com/asdf-community/asdf-deno.git) - Deno plugin for [asdf](https://asdf-vm.com/)
-    *   [justjavac/dvm (⭐568)](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
-    *   [axetroy/dvm (⭐164)](https://github.com/axetroy/dvm) - Version manger for Deno without runtime dependencies.
+    *   [justjavac/dvm (⭐596)](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
+    *   [axetroy/dvm (⭐165)](https://github.com/axetroy/dvm) - Version manger for Deno without runtime dependencies.
     *   [dvm.cmd (⭐2)](https://github.com/MarkTiedemann/dvm.cmd) - Deno Version Manager for Windows. Written as a single batch file.
-    *   [ghosind/dvm (⭐26)](https://github.com/ghosind/dvm) - A lightweight Deno Version Manager for Linux/MacOS.
+    *   [ghosind/dvm (⭐27)](https://github.com/ghosind/dvm) - A lightweight Deno Version Manager for Linux/MacOS.
 
 ## [3. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
@@ -33,7 +33,7 @@
 
 ### AppImage developer tools / Deployment tools for .NET Core (Mono) applications
 
-*   [PupNet Deploy (⭐2)](https://github.com/kuiperzone/PupNet-Deploy) - Cross-platform deployment utility which publishes your .NET project and packages it as a ready-to-ship installation file in a single step.
+*   [PupNet Deploy (⭐45)](https://github.com/kuiperzone/PupNet-Deploy) - Cross-platform deployment utility which publishes your .NET project and packages it as a ready-to-ship installation file in a single step.
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Hypertechniques / References Collection about Stable Diffusion
 
-*   [Prompt+](https://arxiv.org/abs/2303.09522): extended textual conditioning in text-to-image generation [\[unofficial repo\] (⭐49)](https://github.com/cloneofsimo/promptplusplus) [\[arxiv\]](https://arxiv.org/abs/2303.09522) [\[page\]](https://prompt-plus.github.io/)
+*   [Prompt+](https://arxiv.org/abs/2303.09522): extended textual conditioning in text-to-image generation [\[unofficial repo\] (⭐62)](https://github.com/cloneofsimo/promptplusplus) [\[arxiv\]](https://arxiv.org/abs/2303.09522) [\[page\]](https://prompt-plus.github.io/)
 
 ### Discussions and Philosophy / Critical Views about Generative AI
 
@@ -59,7 +59,7 @@
 
 ## [6. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Technology in General / Angular
+### Technology in General / Svelte
 
 *   [SaaS Bites](https://saasbites.substack.com). Latest news, tips, and tools for SaaS growth, marketing and product management.
 
@@ -67,11 +67,11 @@
 
 ### Utility / Diagnostics
 
-*   [cpea2506/relative-toggle.nvim (⭐26)](https://github.com/cpea2506/relative-toggle.nvim) - Toggles smoothly between number and relative numbers, supporting various number combinations, highly customizable.
+*   [cpea2506/relative-toggle.nvim (⭐29)](https://github.com/cpea2506/relative-toggle.nvim) - Toggles smoothly between number and relative numbers, supporting various number combinations, highly customizable.
 
 ### Motion / Diagnostics
 
-*   [chrisgrieser/nvim-spider (⭐165)](https://github.com/chrisgrieser/nvim-spider) - Use the w, e, b motions like a spider. Considers camelCase and skips insignificant punctuation.
+*   [chrisgrieser/nvim-spider (⭐327)](https://github.com/chrisgrieser/nvim-spider) - Use the w, e, b motions like a spider. Considers camelCase and skips insignificant punctuation.
 
 ## [8. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 

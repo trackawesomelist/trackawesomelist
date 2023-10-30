@@ -61,13 +61,13 @@
 
 ### CLOS extensions
 
-*   [inlined-generic-function (⭐109)](https://github.com/guicho271828/inlined-generic-function) -
+*   [inlined-generic-function (⭐108)](https://github.com/guicho271828/inlined-generic-function) -
     Bringing the speed of Static Dispatch to CLOS. [LLGPL](http://opensource.franz.com/preamble.html).
-*   [static-dispatch (⭐68)](https://github.com/alex-gutev/static-dispatch) - allows standard generic function dispatch to be performed statically (at compile time) rather than dynamically (runtime). This is similar to what is known as "overloading" in languages such as C++ and Java. [MIT](https://opensource.org/licenses/MIT).
+*   [static-dispatch (⭐70)](https://github.com/alex-gutev/static-dispatch) - allows standard generic function dispatch to be performed statically (at compile time) rather than dynamically (runtime). This is similar to what is known as "overloading" in languages such as C++ and Java. [MIT](https://opensource.org/licenses/MIT).
 
 ### Configuration / Third-party APIs
 
-*   [chameleon (⭐15)](https://github.com/sheepduke/chameleon/) - a configuration management library shipped with profile support. [MIT](https://opensource.org/licenses/MIT).
+*   [chameleon (⭐17)](https://github.com/sheepduke/chameleon/) - a configuration management library shipped with profile support. [MIT](https://opensource.org/licenses/MIT).
 
 ### Logging / Third-party APIs
 

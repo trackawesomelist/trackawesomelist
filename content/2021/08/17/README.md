@@ -16,13 +16,13 @@
 
 ### Cryptography
 
-*   [NaCl.Core (⭐65)](https://github.com/daviddesmet/NaCl.Core) - A managed-only cryptography library for .NET which provides modern cryptographic primitives.
+*   [NaCl.Core (⭐68)](https://github.com/daviddesmet/NaCl.Core) - A managed-only cryptography library for .NET which provides modern cryptographic primitives.
 
 ## [3. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / Spotify
 
-*   [psst (⭐7.4k)](https://github.com/jpochyla/psst): Fast and multi-platform Spotify client with native GUI
+*   [psst (⭐7.7k)](https://github.com/jpochyla/psst): Fast and multi-platform Spotify client with native GUI
 
 ## [4. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
@@ -45,23 +45,19 @@
 
 ### Contents / Clones
 
-*   [PicoLove (⭐629)](https://github.com/picolove/picolove) - Pico-8 Reimplementation in LÖVE.
+*   [PicoLove (⭐679)](https://github.com/picolove/picolove) - Pico-8 Reimplementation in LÖVE.
 
 ## [7. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
 ### Applications
 
-*   [ipfs-chat (⭐104)](https://github.com/SomajitDey/ipfs-chat): Terminal-based, secure chatrooms using IPFS. Works over both LAN and internet (includes NAT traversal). Supports private-messaging and file/directory sharing.
+*   [ipfs-chat (⭐114)](https://github.com/SomajitDey/ipfs-chat): Terminal-based, secure chatrooms using IPFS. Works over both LAN and internet (includes NAT traversal). Supports private-messaging and file/directory sharing.
 
 ## [8. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ### Companies and Cooperatives / Reddit
 
 *   [Sketchfab](https://sketchfab.com/) - 3D model marketplace that offers a VR previewer.
-
-### E-Commerce / Other
-
-*   [VR Cybershop](https://vrshop.rebuffreality.com/) - Virtual storefront for Rebuff Reality.
 
 ### Social Spaces / Other
 
@@ -72,11 +68,11 @@
 ### Libraries / Game development
 
 *   Challonge
-    *   [vityafx/challonge-rs (⭐2)](https://github.com/vityafx/challonge-rs) \[[challonge](https://crates.io/crates/challonge)] — Client library for the Challonge REST API. Helps to organize tournaments. [![CI](https://github.com/vityafx/challonge-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/vityafx/challonge-rs/actions/workflows/ci.yml)
+    *   [vityafx/challonge-rs (⭐1)](https://github.com/vityafx/challonge-rs) \[[challonge](https://crates.io/crates/challonge)] — Client library for the Challonge REST API. Helps to organize tournaments. [![CI](https://github.com/vityafx/challonge-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/vityafx/challonge-rs/actions/workflows/ci.yml)
 
 ### Libraries / Scripting
 
-*   [metacall/core (⭐1.3k)](https://github.com/metacall/core) \[[metacall](https://crates.io/crates/metacall)] — Cross-platform Polyglot Runtime which supports NodeJS, JavaScript, TypeScript, Python, Ruby, C#, Wasm, Java, Cobol and more. [![build badge](https://gitlab.com/metacall/core/badges/master/pipeline.svg)](https://gitlab.com/metacall/core)
+*   [metacall/core (⭐1.4k)](https://github.com/metacall/core) \[[metacall](https://crates.io/crates/metacall)] — Cross-platform Polyglot Runtime which supports NodeJS, JavaScript, TypeScript, Python, Ruby, C#, Wasm, Java, Cobol and more. [![build badge](https://gitlab.com/metacall/core/badges/master/pipeline.svg)](https://gitlab.com/metacall/core)
 
 ## [10. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -111,7 +107,7 @@
 
 ### Other Free Resources
 
-*   [SmallDev.tools](https://smalldev.tools/) — A free tool for developers that allows you to Encode/Decode various formats, Minify HTML/CSS/Javascript, Beautify, Generate Fake/Testing real like dataset in JSON/CSV & multiple other formats and many more features. With a delightful interface.
+*   [SmallDev.tools](https://smalldev.tools/) — A free tool for developers that allows you to Encode/Decode various formats, Minify HTML/CSS/Javascript, Beautify, Generate Fake/Testing datasets in JSON/CSV & multiple other formats and many more features. With a delightful interface.
 
 ## [15. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -123,7 +119,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Aseprite Wizard (⭐362)](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Plugin for importing animations from Aseprite as SpriteFrames (Godot 3.x).
+*   [Aseprite Wizard (⭐409)](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Plugin for importing animations from Aseprite as SpriteFrames (Godot 3.x).
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on May 03, 2023
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Development
 
-*   [LoveDebug (⭐22)](https://github.com/flamendless/lovedebug) - Inline console-like debugger utility.
+*   [LoveDebug (⭐28)](https://github.com/flamendless/lovedebug) - Inline console-like debugger utility.
 
 ## [2. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
 
@@ -26,7 +26,7 @@
 
 ### DASH / Talks Presentations Podcasts
 
-*   [dash-mpd-rs (⭐32)](https://github.com/emarsden/dash-mpd-rs)  - Rust library for parsing, serializing and downloading media content from a DASH MPD file.
+*   [dash-mpd-rs (⭐34)](https://github.com/emarsden/dash-mpd-rs)  - Rust library for parsing, serializing and downloading media content from a DASH MPD file.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -38,15 +38,14 @@
 
 *   [Mailcheck.ai](https://www.mailcheck.ai/) - Prevent users to sign up with temporary email addresses, 120 requests/hour (\~86,400 per month)
 
-### DBaaS
+### Managed Data Services
 
-*   [Neon](https://neon.tech/) — Managed PostgreSQL, 10 branches, 3 GB of storage per branch, no limit on Active time for the primary branch compute, 100 hours of Active time per month (total) for non-primary branch computes.
+*   [Neon](https://neon.tech/) — Managed PostgreSQL, ten branches, 3 GB of storage per branch, no limit on Active time for the primary department compute, 100 hours of Active time per month (total) for non-primary branch compute.
 
 ## [5. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### IO Games
 
-*   [Vortelli's Pizza](https://poki.com/en/g/vortellis-pizza) - Multiplayer restaurant game.
 *   [Wheat Farming](https://poki.com/en/g/wheat-farming) - Multiplayer farming game.
 
 ## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
@@ -59,11 +58,11 @@
 
 ### Table
 
-*   [TanStack Table (⭐21k)](https://github.com/tannerlinsley/react-table) - [demo](https://tanstack.com/table/v8/docs/examples/react/basic) - Headless UI for building powerful tables & datagrids
+*   [TanStack Table (⭐23k)](https://github.com/tannerlinsley/react-table) - [demo](https://tanstack.com/table/v8/docs/examples/react/basic) - Headless UI for building powerful tables & datagrids
 
 ### Boilerplate / Mouse Events
 
-*   [elegant (⭐15)](https://github.com/elegantframework/elegant-cli) - [docs](https://www.elegantframework.com/docs/installation) - [demo](https://www.elegantframework.com/) - A simple React framework for rapidly building beautiful and expressive web applications with Next.js, Tailwind CSS, and Markdown loading.
+*   [elegant (⭐92)](https://github.com/elegantframework/elegant-cli) - [docs](https://www.elegantframework.com/docs/installation) - [demo](https://www.elegantframework.com/) - A simple React framework for rapidly building beautiful and expressive web applications with Next.js, Tailwind CSS, and Markdown loading.
 
 ## [8. Tips](/content/git-tips/tips/README.md)
 
@@ -72,17 +71,6 @@
 ```sh
 git checkout -- <file_name>
 ```
-
-## [9. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
-
-### JavaScript / Spock Framework
-
-*   [現代の JavaScript チュートリアル](https://ja.javascript.info) - Ilya Kantor
-
-### JavaScript / Svelte
-
-*   [Svelte Tutorial](https://svelte.jp/tutorial/basics) - Svelte.dev
-*   [Svelte をはじめる](https://developer.mozilla.org/ja/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN
 
 ---
 

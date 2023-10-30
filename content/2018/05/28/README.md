@@ -28,7 +28,7 @@
 
 ### Scala / General-Purpose Machine Learning
 
-*   [doddle-model (⭐140)](https://github.com/picnicml/doddle-model) - An in-memory machine learning library built on top of Breeze. It provides immutable objects and exposes its functionality through a scikit-learn-like API.
+*   [doddle-model (⭐139)](https://github.com/picnicml/doddle-model) - An in-memory machine learning library built on top of Breeze. It provides immutable objects and exposes its functionality through a scikit-learn-like API.
 
 ## [5. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
@@ -47,7 +47,7 @@
 
 ### CLI
 
-*   [pgcenter (⭐1.4k)](https://github.com/lesovsky/pgcenter) - Top-like admin tool for PostgreSQL.
+*   [pgcenter (⭐1.5k)](https://github.com/lesovsky/pgcenter) - Top-like admin tool for PostgreSQL.
 
 ## [8. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -65,8 +65,8 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [fission (⭐7.3k)](https://github.com/fission/fission) - Fast Serverless Functions for Kubernetes.
-*   [Halibut (⭐209)](https://github.com/OctopusDeploy/Halibut) - A secure communication stack for .NET using JSON-RPC over SSL.
+*   [fission (⭐7.9k)](https://github.com/fission/fission) - Fast Serverless Functions for Kubernetes.
+*   [Halibut (⭐220)](https://github.com/OctopusDeploy/Halibut) - A secure communication stack for .NET using JSON-RPC over SSL.
 
 ## [11. Awesome Framer](/content/podo/awesome-framer/README.md)
 

@@ -10,9 +10,9 @@
 
 ### Other Lists / Books
 
-*   [Awesome Jupyter (⭐2.9k)](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion)
-*   [Awesome LaTeX (⭐1.1k)](https://github.com/egeerardyn/awesome-LaTeX/#readme)
-*   [Awesome Markdown (⭐610)](https://github.com/BubuAnabelas/awesome-markdown/#readme)
+*   [Awesome Jupyter (⭐3.5k)](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion)
+*   [Awesome LaTeX (⭐1.2k)](https://github.com/egeerardyn/awesome-LaTeX/#readme)
+*   [Awesome Markdown (⭐687)](https://github.com/BubuAnabelas/awesome-markdown/#readme)
 *   [Delightful Open Science](https://codeberg.org/teaserbot-labs/delightful-open-science)
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
@@ -25,7 +25,7 @@
 
 ### Software / Make your life easier
 
-*   [DeepfakeHTTP (⭐454)](https://github.com/xnbox/DeepfakeHTTP) - DeepfakeHTTP is a web server that uses HTTP dumps as a source for responses. This tool allows you to test clients against REST, GraphQL, and other APIs.
+*   [DeepfakeHTTP (⭐485)](https://github.com/xnbox/DeepfakeHTTP) - DeepfakeHTTP is a web server that uses HTTP dumps as a source for responses. This tool allows you to test clients against REST, GraphQL, and other APIs.
 
 ## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Projects / Tools
 
-*   [coq-tools (⭐34)](https://github.com/JasonGross/coq-tools) - Scripts for manipulating Coq developments.
+*   [coq-tools (⭐35)](https://github.com/JasonGross/coq-tools) - Scripts for manipulating Coq developments.
     *   [`find-bug.py`](https://github.com/JasonGross/coq-tools/blob/master/find-bug.py) - Automatically minimizes source files producing an error, creating small test cases for Coq bugs.
     *   [`absolutize-imports.py`](https://github.com/JasonGross/coq-tools/blob/master/absolutize-imports.py) - Processes source files to make loading of dependencies robust against shadowing of file names.
     *   [`inline-imports.py`](https://github.com/JasonGross/coq-tools/blob/master/inline-imports.py) - Creates stand-alone source files from developments by inlining the loading of all dependencies.
@@ -101,7 +101,7 @@
 
 ### Responsive / Syntax Highlight
 
-*   [cdbreact (⭐34)](https://github.com/Devwares-Team/cdbreact) - [demo](https://www.devwares.com/product/contrast) - [docs](https://www.devwares.com/docs/contrast/react/index) - Elegant UI Kit library and reusable components for building mobile-first, responsive websites and web apps.
+*   [cdbreact (⭐44)](https://github.com/Devwares-Team/cdbreact) - [demo](https://www.devwares.com/product/contrast) - [docs](https://www.devwares.com/docs/contrast/react/index) - Elegant UI Kit library and reusable components for building mobile-first, responsive websites and web apps.
 
 ## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -113,13 +113,13 @@
 
 ### Packages / Ecosystem
 
-*   [ROS2 For Unity (⭐265)](https://github.com/RobotecAI/ros2-for-unity) - An asset package which enables high-performance communication between Unity3D simulations and ROS2 ecosystem. ![ros2-for-unity](https://img.shields.io/github/stars/RobotecAI/ros2-for-unity.svg)
+*   [ROS2 For Unity (⭐298)](https://github.com/RobotecAI/ros2-for-unity) - An asset package which enables high-performance communication between Unity3D simulations and ROS2 ecosystem. ![ros2-for-unity](https://img.shields.io/github/stars/RobotecAI/ros2-for-unity.svg)
 
 ## [15. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Reinforcement Learning
 
-*   [RLlib (⭐25k)](https://github.com/ray-project/ray) - RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
+*   [RLlib (⭐27k)](https://github.com/ray-project/ray) - RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
 
 ---
 

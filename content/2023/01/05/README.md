@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 05, 2023
 
-19 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Projects / Frameworks
 
-*   [Hoare Type Theory (⭐59)](https://github.com/imdea-software/htt/) - A shallow embedding of sequential separation logic formulated as a type theory.
+*   [Hoare Type Theory (⭐61)](https://github.com/imdea-software/htt/) - A shallow embedding of sequential separation logic formulated as a type theory.
 
 ## [2. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
@@ -36,17 +36,17 @@
 
 ### Miscellaneous / React
 
-*   [graphql-shield-generator (⭐7)](https://github.com/omar-dulaimi/graphql-shield-generator) - Emits a GraphQL Shield from your GraphQL schema.
+*   [graphql-shield-generator (⭐8)](https://github.com/omar-dulaimi/graphql-shield-generator) - Emits a GraphQL Shield from your GraphQL schema.
 
 ## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Web / Playground
 
-*   :octocat: [Flowbite (⭐4.7k)](https://github.com/themesberg/flowbite) - Open-source component library built on top of Tailwind CSS featuring interactive UI components built with TypeScript
+*   :octocat: [Flowbite (⭐5.8k)](https://github.com/themesberg/flowbite) - Open-source component library built on top of Tailwind CSS featuring interactive UI components built with TypeScript
 
 ### Web/ReactJS / Playground
 
-*   :octocat: [Flowbite React (⭐1.1k)](https://github.com/themesberg/flowbite-react) - Open-source component library based on React, TypeScript, and Tailwind CSS
+*   :octocat: [Flowbite React (⭐1.4k)](https://github.com/themesberg/flowbite-react) - Open-source component library based on React, TypeScript, and Tailwind CSS
 
 ## [5. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -76,27 +76,27 @@
 
 ### CLI Utils
 
-*   [hetzner-k3s (⭐764)](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to quickly create and manage Kubernetes clusters in Hetzner Cloud
+*   [hetzner-k3s (⭐1.1k)](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to quickly create and manage Kubernetes clusters in Hetzner Cloud
 
 ## [10. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Testing
 
-*   [ex\_integration\_coveralls (⭐3)](https://github.com/yeshan333/ex_integration_coveralls) - A library for Elixir run-time system code line-level coverage analysis. You can use it to evaluate the integration tests code coverage. [Introduction article (⭐3)](https://github.com/yeshan333/explore_ast_app/blob/main/examples/README.md).
+*   [ex\_integration\_coveralls (⭐3)](https://github.com/yeshan333/ex_integration_coveralls) - A library for Elixir run-time system code line-level coverage analysis. You can use it to evaluate the integration tests code coverage. [Introduction article (⭐4)](https://github.com/yeshan333/explore_ast_app/blob/main/examples/README.md).
 
 ## [11. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Queues and Messaging
 
-*   [Lowkiq (⭐139)](https://github.com/bia-technologies/lowkiq) - Ordered processing of background jobs for cases where Sidekiq can't help.
+*   [Lowkiq (⭐140)](https://github.com/bia-technologies/lowkiq) - Ordered processing of background jobs for cases where Sidekiq can't help.
 
 ## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Large Language Models / ChatGPT
+### Inbox: Large Language Models (LLMs) / ChatGPT
 
 *   [acheong08's list / Awesome ChatGPT](https://github.com/stars/acheong08/lists/awesome-chatgpt): list of wrappers for accessing ChatGPT in platform such as Discord, Telegram, and languages such as Python, JS.
 
-### Inbox: Large Language Models / Text-related Generative Tools
+### Inbox: Large Language Models (LLMs) / Text-related Generative Tools
 
 *   [DetangleAI](https://detangle.ai): AI-generated summaries of provided legal docs
 
@@ -105,15 +105,15 @@
 *   [Stable Diffusion KLMC2 Animation.ipynb forked](https://colab.research.google.com/github/dmarx/notebooks/blob/main/Stable_Diffusion_KLMC2_Animation.ipynb): fork by [@DigThatData](https://twitter.com/DigThatData)
 *   [Stable Diffusion KLMC2 Animation.ipynb](https://colab.research.google.com/drive/1m8ovBpO2QilE2o4O-p2PONSwqGn4_x2G): notebook by [@RiversHaveWings](https://twitter.com/RiversHaveWings) to generate animation based on scripted prompts using a technique called KLMC2 discretization of underdamped Langevin dynamics
 
-### Inbox: Text-to-speech (TTS) tools / Generative Adversarial Networks (GANs)
+### Inbox: Text-to-speech (TTS) and avatars / Generative Adversarial Networks (GANs)
 
-*   [neonbjb/tortoise-tts (⭐6.5k)](https://github.com/neonbjb/tortoise-tts#voice-customization-guide): "A multi-voice TTS system trained with an emphasis on quality"
+*   [neonbjb/tortoise-tts (⭐9.7k)](https://github.com/neonbjb/tortoise-tts#voice-customization-guide): "A multi-voice TTS system trained with an emphasis on quality"
 
 ## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
-*   [Automatisch](https://automatisch.io) - Business automation tool that lets you connect different services like Twitter, Slack, and more to automate your business processes (Open source Zapier alternative). ([Source Code (⭐2.5k)](https://github.com/automatisch/automatisch)) `AGPL-3.0` `Docker`
+*   [Automatisch](https://automatisch.io) - Business automation tool that lets you connect different services like Twitter, Slack, and more to automate your business processes (alternative to Zapier). ([Source Code (⭐3.1k)](https://github.com/automatisch/automatisch)) `AGPL-3.0` `Docker`
 
 ## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -165,15 +165,15 @@
 
 ## [17. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [golang (⭐3)](https://github.com/wintermi/zsh-golang) - Adds tooling for the Go programming language toolchain.
-*   [rust (wintermi) (⭐4)](https://github.com/wintermi/zsh-rust) - Plugin for the [rust](https://www.rust-lang.org/) toolchain.
+*   [rust (wintermi) (⭐5)](https://github.com/wintermi/zsh-rust) - Plugin for the [rust](https://www.rust-lang.org/) toolchain.
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [gcloud (littleq0903) (⭐77)](https://github.com/littleq0903/gcloud-zsh-completion) - Add completions for the Google Cloud SDK.
-*   [gcloud (wintermi) (⭐1)](https://github.com/wintermi/zsh-gcloud) - Adds Google Cloud Command Line Interface ([gcloud](https://cloud.google.com/cli) CLI) completions.
+*   [gcloud (littleq0903) (⭐76)](https://github.com/littleq0903/gcloud-zsh-completion) - Add completions for the Google Cloud SDK.
+*   [gcloud (wintermi) (⭐2)](https://github.com/wintermi/zsh-gcloud) - Adds Google Cloud Command Line Interface ([gcloud](https://cloud.google.com/cli) CLI) completions.
 
 ## [18. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
@@ -181,12 +181,6 @@
 
 *   [Speedster (⭐1.8k)](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/speedster) - Automatically apply SOTA optimization techniques to achieve the maximum inference speed-up on your hardware.
 *   [create-tf-app (⭐3)](https://github.com/radi-cho/create-tf-app) - Project builder command line tool for Tensorflow covering environment management, linting, and logging.
-
-## [19. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
-
-### Security
-
-*   [Sysdig Secure](https://sysdig.com/use-cases/cloud-threat-detection-and-response/) :heavy\_dollar\_sign: - Sysdig Secure addresses run-time security through behavioral monitoring and defense, and provides deep forensics based on open source Sysdig for incident response.
 
 ---
 

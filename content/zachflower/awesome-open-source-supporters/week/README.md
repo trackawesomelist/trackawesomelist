@@ -2,7 +2,7 @@
 
 ⭐️ A curated list of companies that offer their services for free to Open Source projects
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/zachflower/awesome-open-source-supporters/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zachflower/awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters) · ⭐ 555 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/zachflower/awesome-open-source-supporters/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zachflower/awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters) · ⭐ 585 · 🏷️ Miscellaneous
 
 [ [Daily](/content/zachflower/awesome-open-source-supporters/README.md) / Weekly / [Overview](/content/zachflower/awesome-open-source-supporters/readme/README.md) ]
 
@@ -58,12 +58,6 @@
 
 *   [Locale](https://www.localeapp.com/) - Localization and Translation.
 *   [Weblate](https://weblate.org/) `requires-approval` - Web-based continuous localization.
-
-## [Apr 13 - Apr 19, 2020](/content/2020/15/README.md)
-
-### Code Quality
-
-*   [Sider](https://sider.review/) - Automated code review.
 
 ## [Sep 23 - Sep 29, 2019](/content/2019/38/README.md)
 

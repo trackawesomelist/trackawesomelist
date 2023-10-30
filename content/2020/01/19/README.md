@@ -22,18 +22,18 @@
 
 ### GUI
 
-*   [RmlUi (⭐1.8k)](https://github.com/mikke89/RmlUi) - The HTML/CSS User Interface library evolved. Fork of libRocket. \[MIT]
+*   [RmlUi (⭐2.1k)](https://github.com/mikke89/RmlUi) - The HTML/CSS User Interface library evolved. Fork of libRocket. \[MIT]
 
 ### Physics
 
 *   [Simbody (⭐2.1k)](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. \[Apache2]
-*   [SOFA (⭐739)](https://github.com/sofa-framework/sofa) - SOFA is an open-source framework targeting at real-time simulation, with an emphasis on medical simulation. \[LGPL] [website](https://www.sofa-framework.org)
+*   [SOFA (⭐778)](https://github.com/sofa-framework/sofa) - SOFA is an open-source framework targeting at real-time simulation, with an emphasis on medical simulation. \[LGPL] [website](https://www.sofa-framework.org)
 
 ## [4. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
 ### Resources / User Interface
 
-*   [PieMenu (⭐67)](https://github.com/payne911/PieMenu) - Radial menus for Scene2D that are highly flexible and easy to customize.
+*   [PieMenu (⭐71)](https://github.com/payne911/PieMenu) - Radial menus for Scene2D that are highly flexible and easy to customize.
 
 ## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -76,25 +76,25 @@
 
 ### Apps / SEO and SMO
 
-*   [wagtail-opengraph-image-generator (⭐30)](https://github.com/candylabshq/wagtail-opengraph-image-generator) - Assists you in automatically creating Open Graph images for your Wagtail pages.
+*   [wagtail-opengraph-image-generator (⭐32)](https://github.com/candylabshq/wagtail-opengraph-image-generator) - Assists you in automatically creating Open Graph images for your Wagtail pages.
 
 ## [10. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Frameworks
 
-*   [CoqEAL (⭐63)](https://github.com/CoqEAL/CoqEAL) - Framework to ease change of data representations in proofs.
+*   [CoqEAL (⭐64)](https://github.com/CoqEAL/CoqEAL) - Framework to ease change of data representations in proofs.
 
 ### Projects / Libraries
 
-*   [Metalib (⭐67)](https://github.com/plclub/metalib) - Library for programming language metatheory using locally nameless variable binding representations.
+*   [Metalib (⭐68)](https://github.com/plclub/metalib) - Library for programming language metatheory using locally nameless variable binding representations.
 
 ### Projects / Package and Build Management
 
-*   [Docker-Coq (⭐31)](https://github.com/coq-community/docker-coq) - Docker images for many versions of Coq.
+*   [Docker-Coq (⭐32)](https://github.com/coq-community/docker-coq) - Docker images for many versions of Coq.
 
 ### Projects / Tools
 
-*   [lngen (⭐28)](https://github.com/plclub/lngen) - Tool for generating locally nameless Coq definitions and proofs.
+*   [lngen (⭐29)](https://github.com/plclub/lngen) - Tool for generating locally nameless Coq definitions and proofs.
 *   [mCoq (⭐25)](https://github.com/EngineeringSoftware/mcoq) - Mutation analysis tool for Coq projects.
 
 ### Resources / Books

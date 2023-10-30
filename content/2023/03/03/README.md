@@ -16,25 +16,25 @@
 
 ### Monitoring
 
-*   [Middleware.io](https://middleware.io/) -  Middleware observability platform provides complete visibility into your apps & stack, so you can monitor & diagnose issues at scale. They have a free forever plan for Dev community use that allows Log monitoring for upto 1M log events, Infrastructure monitoring & APM for upto 2 hosts.
+*   [Middleware.io](https://middleware.io/) -  Middleware observability platform provides complete visibility into your apps & stack, so you can monitor & diagnose issues at scale. They have a free forever plan for Dev community use that allows Log monitoring for up to 1M log events, Infrastructure monitoring & APM for up to 2 hosts.
 
 ## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Apps
 
-*   [Twitter Clone (⭐73)](https://github.com/AlandSleman/t3-twitter-clone) - Twitter clone built with Next.js + T3 Stack + NextAuth + Supabase + Prisma.
+*   [Twitter Clone (⭐134)](https://github.com/AlandSleman/t3-twitter-clone) - Twitter clone built with Next.js + T3 Stack + NextAuth + Supabase + Prisma.
 
 ## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / React
 
-*   [vite-react-ts-tailwind-template (⭐3)](https://github.com/nrabhiram/vite-react-ts-tailwind-template) - React, TypeScript, ESLint, Prettier, Husky, Vitest for specs, and Tailwind + CSS Modules.
+*   [vite-react-ts-tailwind-template (⭐6)](https://github.com/nrabhiram/vite-react-ts-tailwind-template) - React, TypeScript, ESLint, Prettier, Husky, Vitest for specs, and Tailwind + CSS Modules.
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Motion / Diagnostics
 
-*   [liangxianzhe/nap.nvim (⭐62)](https://github.com/liangxianzhe/nap.nvim) - Jump between next/previous buffer, tab, diagnostic, etc, with a single key.
+*   [liangxianzhe/nap.nvim (⭐82)](https://github.com/liangxianzhe/nap.nvim) - Jump between next/previous buffer, tab, diagnostic, etc, with a single key.
 
 ## [6. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
@@ -76,18 +76,18 @@
 
 ### Command Line / XML
 
-*   [dlog (⭐3)](https://github.com/deavmi/dlog) - extensible logging framework with message transformation support and custom loggers and contexts
+*   [dlog (⭐2)](https://github.com/deavmi/dlog) - extensible logging framework with message transformation support and custom loggers and contexts
 *   [gogga (⭐2)](https://github.com/deavmi/gogga) - simple easy-to-use colorful logger for command-line applications
 
 ## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Visual Studio Plugins
 
-*   [SonarSource.sonarlint-visualstudio (⭐409)](https://github.com/SonarSource/sonarlint-visualstudio) - SonarLint is a free, open source Visual Studio 2017, 2019 and 2022 extension that provides on-the-fly feedback to developers on new bugs and quality issues in C#, VB.NET, C/C++, TypeScript and JavaScript.
+*   [SonarSource.sonarlint-visualstudio (⭐429)](https://github.com/SonarSource/sonarlint-visualstudio) - SonarLint is a free, open source Visual Studio 2017, 2019 and 2022 extension that provides on-the-fly feedback to developers on new bugs and quality issues in C#, VB.NET, C/C++, TypeScript and JavaScript.
 
 ### Source Generator
 
-*   [M31.FluentAPI (⭐35)](https://github.com/m31coding/M31.FluentAPI) - Effortlessly generate fluent APIs for your C# classes.
+*   [M31.FluentAPI (⭐51)](https://github.com/m31coding/M31.FluentAPI) - Effortlessly generate fluent APIs for your C# classes.
 
 ## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -99,11 +99,11 @@
 *   [Large Language Models and Where to Use Them: Part 2](https://txt.cohere.ai/llm-use-cases-p2/)
 *   [What's the big deal with Generative AI? Is it the future or the present?](https://txt.cohere.ai/generative-ai-future-or-present/): summarization of the area of Generative AI by Cohere AI
 
-### Inbox: Large Language Models / Contribute to Our Repository
+### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
 *   [Cohere AI](https://docs.cohere.ai/): a way to integrate state-of-the-art language models to applications
 
-### Inbox: Large Language Models / Embeddings and Semantic Search
+### Inbox: Large Language Models (LLMs) / Embeddings and Semantic Search
 
 *   [What is Semantic Search?](https://txt.cohere.ai/what-is-semantic-search/)
 
@@ -111,13 +111,13 @@
 
 ### GTFS Converters / Ruby
 
-*   [gtfs2emis (⭐21)](https://github.com/ipeaGIT/gtfs2emis) - An R package to estimate the emission levels of public transport vehicles based on General Transit Feed Specification (GTFS) data.
+*   [gtfs2emis (⭐23)](https://github.com/ipeaGIT/gtfs2emis) - An R package to estimate the emission levels of public transport vehicles based on General Transit Feed Specification (GTFS) data.
 
 ## [14. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Status Bar
 
-*   [tmux-nerd-font-window-name (⭐34)](https://github.com/joshmedeski/tmux-nerd-font-window-name) Nerd Font icons for your tmux windows
+*   [tmux-nerd-font-window-name (⭐68)](https://github.com/joshmedeski/tmux-nerd-font-window-name) Nerd Font icons for your tmux windows
 
 ## [15. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 

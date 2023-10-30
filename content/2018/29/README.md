@@ -143,32 +143,32 @@
 
 ### UI / Material Design
 
-*   [Unicorn Speed Dial (⭐334)](https://github.com/tiagojencmartins/unicornspeeddial) <!--stargazers:tiagojencmartins/unicornspeeddial--> - Floating Action Button with Speed Dial by [Tiago Martins](https://github.com/tiagojencmartins)
+*   [Unicorn Speed Dial (⭐345)](https://github.com/tiagojencmartins/unicornspeeddial) <!--stargazers:tiagojencmartins/unicornspeeddial--> - Floating Action Button with Speed Dial by [Tiago Martins](https://github.com/tiagojencmartins)
 
 ### Image / Backend-Driven
 
-*   [Cached Network Image (⭐2.1k)](https://github.com/renefloor/flutter_cached_network_image) <!--stargazers:renefloor/flutter_cached_network_image--> - Show images from the internet and keep them in the cache directory by
+*   [Cached Network Image (⭐2.2k)](https://github.com/renefloor/flutter_cached_network_image) <!--stargazers:renefloor/flutter_cached_network_image--> - Show images from the internet and keep them in the cache directory by
 
 ### Storage / Voice
 
-*   [Secure Storage (⭐892)](https://github.com/mogol/flutter_secure_storage) <!--stargazers:mogol/flutter_secure_storage--> - Keychain and Keystore storage by [German Saprykin](https://github.com/mogol)
+*   [Secure Storage (⭐972)](https://github.com/mogol/flutter_secure_storage) <!--stargazers:mogol/flutter_secure_storage--> - Keychain and Keystore storage by [German Saprykin](https://github.com/mogol)
 
 ### Device / Augmented Reality
 
-*   [Badger (⭐258)](https://github.com/g123k/flutter_app_badger) <!--stargazers:g123k/flutter_app_badger--> - Update app badge on the launcher by [Edouard Marquez](https://twitter.com/g123k)
+*   [Badger (⭐272)](https://github.com/g123k/flutter_app_badger) <!--stargazers:g123k/flutter_app_badger--> - Update app badge on the launcher by [Edouard Marquez](https://twitter.com/g123k)
 
 ### State management / Redux / ELM / Dependency Injection
 
-*   [Redux (⭐1.6k)](https://github.com/brianegan/flutter_redux) <!--stargazers:brianegan/flutter_redux--> - Built to work with [redux.dart (⭐504)](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Widgets
+*   [Redux (⭐1.6k)](https://github.com/brianegan/flutter_redux) <!--stargazers:brianegan/flutter_redux--> - Built to work with [redux.dart (⭐509)](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Widgets
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [Villains (⭐356)](https://github.com/Norbert515/flutter_villains) <!--stargazers:Norbert515/flutter_villains--> - Page transition animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
+*   [Villains (⭐357)](https://github.com/Norbert515/flutter_villains) <!--stargazers:Norbert515/flutter_villains--> - Page transition animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
 
 ### Top / Game Engine resources
 
-*   [WhatTodo (⭐1k)](https://github.com/burhanrashid52/WhatTodo) <!--stargazers:burhanrashid52/WhatTodo--> - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52)
-*   [BookSearch (⭐509)](https://github.com/Norbert515/BookSearch) <!--stargazers:Norbert515/BookSearch--> - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515)
+*   [WhatTodo (⭐1.1k)](https://github.com/burhanrashid52/WhatTodo) <!--stargazers:burhanrashid52/WhatTodo--> - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52)
+*   [BookSearch (⭐525)](https://github.com/Norbert515/BookSearch) <!--stargazers:Norbert515/BookSearch--> - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515)
 
 ## [16. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
@@ -239,12 +239,12 @@
 
 *   [Album O'Rama (⭐84)](https://github.com/phalcon/album-o-rama) - Sample modular application for the Phalcon Framework
 *   [Base App (⭐63)](https://github.com/mruz/base-app) - The base application in Phalcon Framework
-*   [INVO Application (⭐344)](https://github.com/phalcon/invo) - Sample application for the Phalcon Framework
-*   [Vökuró (⭐369)](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security)
+*   [INVO Application (⭐347)](https://github.com/phalcon/invo) - Sample application for the Phalcon Framework
+*   [Vökuró (⭐370)](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security)
 
 ### CMS & Blogs
 
-*   [PhalconCMS (⭐151)](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon Framework
+*   [PhalconCMS (⭐152)](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon Framework
 
 ### Command Line
 
@@ -252,11 +252,11 @@
 
 ### Debug
 
-*   [Phalcon Debugbar (⭐162)](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon Framework
+*   [Phalcon Debugbar (⭐164)](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon Framework
 
 ### Miscellaneous
 
-*   [Incubator (⭐735)](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon Framework
+*   [Incubator (⭐732)](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon Framework
 
 ### RESTful
 
@@ -296,28 +296,28 @@
 
 ### Frameworks, Libraries and Tools / API
 
-*   [NSwag (⭐5.4k)](https://github.com/RSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, Web API and TypeScript. <http://NSwag.org>.
+*   [NSwag (⭐6.1k)](https://github.com/RSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, Web API and TypeScript. <http://NSwag.org>.
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [Xer.Cqrs (⭐98)](https://github.com/jeyjeyemem/Xer.Cqrs) - A simple library for creating applications based on the CQRS pattern with support for attribute routing and hosted handlers. Developed in C# targeting .NET Standard 1.0.
+*   [Xer.Cqrs (⭐99)](https://github.com/jeyjeyemem/Xer.Cqrs) - A simple library for creating applications based on the CQRS pattern with support for attribute routing and hosted handlers. Developed in C# targeting .NET Standard 1.0.
 
 ### Frameworks, Libraries and Tools / Compilers, Transpilers and Languages
 
-*   [Mond (⭐292)](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API.
+*   [Mond (⭐319)](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API.
 
 ### Frameworks, Libraries and Tools / E-Commerce and Payments
 
-*   [PayPal (⭐515)](https://github.com/paypal/PayPal-NET-SDK) - .NET SDK for PayPal's RESTful APIs.
+*   [PayPal (⭐527)](https://github.com/paypal/PayPal-NET-SDK) - .NET SDK for PayPal's RESTful APIs.
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Fody (⭐3.8k)](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies
-*   [Otp.NET (⭐654)](https://github.com/kspearrin/Otp.NET) - An implementation TOTP RFC 6238 and HOTP RFC 4226 in C#.
+*   [Fody (⭐4.1k)](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies
+*   [Otp.NET (⭐858)](https://github.com/kspearrin/Otp.NET) - An implementation TOTP RFC 6238 and HOTP RFC 4226 in C#.
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [SharpZipLib (⭐3.1k)](https://github.com/icsharpcode/SharpZipLib) - #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
+*   [SharpZipLib (⭐3.5k)](https://github.com/icsharpcode/SharpZipLib) - #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
 
 ## [27. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -333,11 +333,11 @@
 
 ### Documentation
 
-*   [The Cycle-Accurate Game Boy Docs (⭐178)](https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf) - A precise documentation by AntonioND to make a cycle-accurate Game Boy emulator.
+*   [The Cycle-Accurate Game Boy Docs (⭐182)](https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf) - A precise documentation by AntonioND to make a cycle-accurate Game Boy emulator.
 
 ### Related projects / Syntax highlighting packages
 
-*   [gameboy-brainfuck (⭐17)](https://github.com/bitnenfer/gameboy-brainfuck) - Brainf\*ck interpreter.
+*   [gameboy-brainfuck (⭐16)](https://github.com/bitnenfer/gameboy-brainfuck) - Brainf\*ck interpreter.
 *   [gbfk (⭐2)](https://github.com/elseyf/gbfk) - Brainf\*ck interpreter, with input.
 
 ## [29. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
@@ -370,13 +370,14 @@
 
 ### Reading and Writing Tools / Text Editors
 
-*   [Brackets](http://brackets.io) - A modern, open source text editor that understands web design. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/adobe/brackets/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Brackets](http://brackets.io) - A modern, open source text editor that understands web design. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/brackets-cont/brackets/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / IDEs
 
 *   [Deco IDE](https://www.decoide.org) - The best IDE for building React Native apps. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/decosoftware/deco-ide) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [JetBrains Toolbox App](https://www.jetbrains.com/toolbox/) - Manage installed JetBrains tools, download new ones and open recent projects. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
     *   [AppCode](https://www.jetbrains.com/objc/) - Smart IDE for iOS/macOS development
+    *   [RustRover](https://www.jetbrains.com/rust/) - A brand new JetBrains IDE for Rust Developers.
     *   [CLion](https://www.jetbrains.com/clion/) - Powerful C and C++ IDE. (**Free** for Students)
     *   [DataGrip](http://www.jetbrains.com/datagrip/) - Cross-Plaform IDE for Databases and SQL. **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info.
     *   [DataSpell](https://www.jetbrains.com/dataspell/) - The IDE for Professional Data Scientists
@@ -399,7 +400,7 @@
 
 ### ORM
 
-*   [Perfect-CRUD (⭐62)](https://github.com/PerfectlySoft/Perfect-CRUD) :penguin: - CRUD is an object-relational mapping (ORM) system using Codable protocol.
+*   [Perfect-CRUD (⭐63)](https://github.com/PerfectlySoft/Perfect-CRUD) :penguin: - CRUD is an object-relational mapping (ORM) system using Codable protocol.
 
 ### Network / Barcode
 

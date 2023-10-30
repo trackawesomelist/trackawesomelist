@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 15, 2017
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,13 +22,13 @@
 
 ### Packages / Parsing
 
-*   [xlsx-populate (⭐862)](https://github.com/dtjohnson/xlsx-populate) - Read/write Excel XLSX.
+*   [xlsx-populate (⭐890)](https://github.com/dtjohnson/xlsx-populate) - Read/write Excel XLSX.
 
 ## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / SDKs
 
-*   [azure-event-hubs-dotnet (⭐88)](https://github.com/azure/azure-event-hubs-dotnet) - .NET Standard client library for Azure Event Hubs.
+*   [azure-event-hubs-dotnet (⭐89)](https://github.com/azure/azure-event-hubs-dotnet) - .NET Standard client library for Azure Event Hubs.
 
 ## [5. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
@@ -95,12 +95,6 @@
 *   [Freenode IRC](http://webchat.freenode.net/?channels=webgl)
 *   [Google Group](https://groups.google.com/forum/#!forum/webgl-dev-list)
 *   [Google Plus](https://plus.google.com/communities/114915309361980512257)
-
-## [11. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
-
-### Programming / Go
-
-*   [we love golang](https://www.welovegolang.com/)
 
 ---
 

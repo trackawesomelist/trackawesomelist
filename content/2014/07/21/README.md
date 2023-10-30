@@ -26,7 +26,7 @@
 
 ### Files / Runner
 
-*   [jBinary (⭐532)](https://github.com/jDataView/jBinary) - High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
+*   [jBinary (⭐534)](https://github.com/jDataView/jBinary) - High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
 
 ## [4. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
 
@@ -42,11 +42,11 @@
 
 ### Profiler
 
-*   [MiniProfiler (⭐2.7k)](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET websites
+*   [MiniProfiler (⭐2.8k)](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET websites
 
 ### Scheduling
 
-*   [QuartzNet (⭐5.7k)](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
+*   [QuartzNet (⭐5.9k)](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
 
 ### Template Engine
 

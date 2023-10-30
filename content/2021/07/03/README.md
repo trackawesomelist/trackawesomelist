@@ -16,7 +16,7 @@
 
 ### Network Protocols
 
-*   [simple\_rpc (⭐61)](https://github.com/kostya/simple_rpc) - RPC Server and Client for Crystal. Implements msgpack-rpc protocol
+*   [simple\_rpc (⭐63)](https://github.com/kostya/simple_rpc) - RPC Server and Client for Crystal. Implements msgpack-rpc protocol
 
 ## [3. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -70,7 +70,7 @@
 
 ## [6. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
-### Authentication / Multi-Factor
+### Multi-factor auth / Identifiers
 
 *   [2FA is missing a key feature](https://syslog.ravelin.com/2fa-is-missing-a-key-feature-c781c3861db) - “When my 2FA code is entered incorrectly I'd like to know about it”.
 
@@ -130,22 +130,22 @@
 
 ### Third-Party Packages / Admin
 
-*   [django-jet-reboot (⭐262)](https://github.com/b1go/django-jet-reboot) - Django Jet is modern template for Django admin interface with improved functionality.
+*   [django-jet-reboot (⭐311)](https://github.com/b1go/django-jet-reboot) - Django Jet is modern template for Django admin interface with improved functionality.
 
 ## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Patterns
 
-*   [The Composable Architecture (⭐8.6k)](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+*   [The Composable Architecture (⭐9.8k)](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 
 ### Images / Barcode
 
-*   [FaceCrop (⭐41)](https://github.com/Ancestry/FaceCrop) - Detect and center faces in your images using Apple’s Vision Framework.
-*   [SwiftDraw (⭐135)](https://github.com/swhitty/SwiftDraw) - Library that converts SVG images to UIImage, NSImage and generates CoreGraphics source code.
+*   [FaceCrop (⭐45)](https://github.com/Ancestry/FaceCrop) - Detect and center faces in your images using Apple’s Vision Framework.
+*   [SwiftDraw (⭐207)](https://github.com/swhitty/SwiftDraw) - Library that converts SVG images to UIImage, NSImage and generates CoreGraphics source code.
 
 ### SOAP / Barcode
 
-*   [SOAPEngine (⭐478)](https://github.com/priore/SOAPEngine) - Generic SOAP client to access SOAP Web Services using iOS, Mac OS X, and Apple TV.
+*   [SOAPEngine (⭐480)](https://github.com/priore/SOAPEngine) - Generic SOAP client to access SOAP Web Services using iOS, Mac OS X, and Apple TV.
 
 ---
 

@@ -16,8 +16,8 @@
 
 ### Web / Playground
 
-*   :octocat: [APIs-guru/graphql-voyager (⭐7.3k)](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph 🛰️
-*   :octocat: [Rebilly/ReDoc (⭐20k)](https://github.com/Rebilly/Redoc) - OpenAPI/Swagger-generated API Reference Documentation
+*   :octocat: [APIs-guru/graphql-voyager (⭐7.5k)](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph 🛰️
+*   :octocat: [Rebilly/ReDoc (⭐21k)](https://github.com/Rebilly/Redoc) - OpenAPI/Swagger-generated API Reference Documentation
 
 ## [3. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
 
@@ -38,7 +38,7 @@
 *   Ruby
     *   [by @kanwei (⭐2.6k)](https://github.com/kanwei/algorithms)
     *   [by @sagivo (⭐3.3k)](https://github.com/sagivo/algorithms)
-    *   [by @kumar91gopi (⭐659)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
+    *   [by @kumar91gopi (⭐677)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
 
 ## [6. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
@@ -85,7 +85,7 @@
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [Squidex (⭐1.8k)](https://github.com/Squidex/squidex) - Headless CMS, based on MongoDB, CQRS and Event Sourcing.
+*   [Squidex (⭐2k)](https://github.com/Squidex/squidex) - Headless CMS, based on MongoDB, CQRS and Event Sourcing.
 
 ### Frameworks, Libraries and Tools / SDKs
 
@@ -93,13 +93,13 @@
 
 ### Frameworks, Libraries and Tools / Serialization
 
-*   [Edi.Net (⭐360)](https://github.com/indice-co/EDI.Net) - EDI Serializer/Deserializer. Supports EDIFact, X12 and TRADACOMS format.
+*   [Edi.Net (⭐400)](https://github.com/indice-co/EDI.Net) - EDI Serializer/Deserializer. Supports EDIFact, X12 and TRADACOMS format.
 
 ## [11. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
 ### Libraries / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
-*   [vscode-test-content (⭐3)](https://github.com/mlewand-org/vscode-test-content) - A method to set/get editor content, and it's selection. Especially useful for unit tests.
+*   [vscode-test-content (⭐5)](https://github.com/mlewand-org/vscode-test-content) - A method to set/get editor content, and it's selection. Especially useful for unit tests.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

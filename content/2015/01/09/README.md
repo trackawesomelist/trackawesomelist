@@ -20,11 +20,11 @@
 
 ### Bittorrent
 
-*   [tracker\_request (⭐13)](https://github.com/alehander42/tracker_request) - Dealing with bittorrent tracker requests and responses.
+*   [tracker\_request (⭐14)](https://github.com/alehander42/tracker_request) - Dealing with bittorrent tracker requests and responses.
 
 ### Build Tools
 
-*   [reaxt (⭐365)](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
+*   [reaxt (⭐366)](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
 
 ### Cryptography
 
@@ -33,14 +33,14 @@
 
 ### Documentation
 
-*   [ex\_doc\_dash (⭐64)](https://github.com/JonGretar/ExDocDash) - Formatter for ExDoc to generate docset documentation for use in Dash.app.
-*   [hexdocset (⭐20)](https://github.com/yesmeck/hexdocset) - Convert hex doc to Dash.app's docset format.
+*   [ex\_doc\_dash (⭐63)](https://github.com/JonGretar/ExDocDash) - Formatter for ExDoc to generate docset documentation for use in Dash.app.
+*   [hexdocset (⭐21)](https://github.com/yesmeck/hexdocset) - Convert hex doc to Dash.app's docset format.
 
 ### Framework Components
 
-*   [plug\_rails\_cookie\_session\_store (⭐95)](https://github.com/cconstantin/plug_rails_cookie_session_store) - Rails compatible Plug session store.
-*   [plugs (⭐18)](https://github.com/sugar-framework/plugs) - Collection of Plug middleware for web applications.
-*   [plugsnag (⭐67)](https://github.com/jarednorman/plugsnag) - Bugsnag notifier for Elixir's plug.
+*   [plug\_rails\_cookie\_session\_store (⭐96)](https://github.com/cconstantin/plug_rails_cookie_session_store) - Rails compatible Plug session store.
+*   [plugs (⭐19)](https://github.com/sugar-framework/plugs) - Collection of Plug middleware for web applications.
+*   [plugsnag (⭐66)](https://github.com/jarednorman/plugsnag) - Bugsnag notifier for Elixir's plug.
 
 ### Miscellaneous
 
@@ -52,11 +52,11 @@
 
 ### Templating
 
-*   [templates (⭐4)](https://github.com/sugar-framework/templates) - Helper library for adding templating to web applications.
+*   [templates (⭐5)](https://github.com/sugar-framework/templates) - Helper library for adding templating to web applications.
 
 ### Testing
 
-*   [pavlov (⭐128)](https://github.com/sproutapp/pavlov) - BDD framework for your Elixir projects.
+*   [pavlov (⭐127)](https://github.com/sproutapp/pavlov) - BDD framework for your Elixir projects.
 
 ### Text and Numbers
 
@@ -64,10 +64,10 @@
 
 ### Third Party APIs
 
-*   [amazon\_product\_advertising\_client (⭐35)](https://github.com/zachgarwood/elixir-amazon-product-advertising-client) - Amazon Product Advertising API client for Elixir.
+*   [amazon\_product\_advertising\_client (⭐37)](https://github.com/zachgarwood/elixir-amazon-product-advertising-client) - Amazon Product Advertising API client for Elixir.
 *   [cleverbot (⭐3)](https://github.com/BlakeWilliams/Elixir-Cleverbot) - Simple implementation of the Cleverbot API in Elixir.
-*   [digoc (⭐11)](https://github.com/kevinmontuori/digoc) - Digital Ocean API v2 Elixir Client.
-*   [exgrid (⭐7)](https://github.com/bradleyd/exgrid) - interact with Sendgrid's API.
+*   [digoc (⭐12)](https://github.com/kevinmontuori/digoc) - Digital Ocean API v2 Elixir Client.
+*   [exgrid (⭐8)](https://github.com/bradleyd/exgrid) - interact with Sendgrid's API.
 
 ## [3. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
 

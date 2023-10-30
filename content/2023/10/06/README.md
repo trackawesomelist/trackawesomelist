@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 06, 2023
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Tools
 
-*   🔧 [EasyWind (⭐1)](https://github.com/avencera/easywind) - Tailwind CSS project generator, compiler/watcher and livereload server, all in one.
+*   🔧 [EasyWind (⭐3)](https://github.com/avencera/easywind) - Tailwind CSS project generator, compiler/watcher and livereload server, all in one.
 
 ## [2. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -28,9 +28,15 @@
 
 ### Programming Languages Support / Diagnostics
 
-*   [niuiic/typst-preview.nvim (⭐1)](https://github.com/niuiic/typst-preview.nvim) - Preview typst documents, respond to file changes.
+*   [niuiic/typst-preview.nvim (⭐4)](https://github.com/niuiic/typst-preview.nvim) - Preview typst documents, respond to file changes.
 
-## [5. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [5. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+
+### Models
+
+*   [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3
+
+## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Web Feed Specifications
 
@@ -50,7 +56,7 @@
 
 ### Other Apps / Outline Processor Markup Language
 
-*   [PlainApp (⭐1.5k)](https://github.com/ismartcoding/plain-app): with an RSS reader function built in <sup>[1338](https://t.me/s/aboutrss/1338)</sup>: Using Mastodon as a RSS Reader [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ismartcoding/plain-app)
+*   [PlainApp (⭐1.6k)](https://github.com/ismartcoding/plain-app): with an RSS reader function built in <sup>[1338](https://t.me/s/aboutrss/1338)</sup>: Using Mastodon as a RSS Reader [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ismartcoding/plain-app)
 
 ### RSSHub / Outline Processor Markup Language
 
@@ -95,12 +101,12 @@
 ### RSS Feed integrated with AI generated content / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSSPath](http://www.rsspath.com/) <sup>[1363](https://t.me/s/aboutrss/1363)</sup> ![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
-*   [RSS-GPT (⭐56)](https://github.com/yinan-c/RSS-GPT) <sup>[1367](https://t.me/s/aboutrss/1367)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yinan-c/RSS-GPT)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
+*   [RSS-GPT (⭐74)](https://github.com/yinan-c/RSS-GPT) <sup>[1367](https://t.me/s/aboutrss/1367)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yinan-c/RSS-GPT)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
 
 ### RSS Feed Finding/Detection / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSS+](https://greasyfork.org/scripts/373252-rss-show-site-all-rss)
-*   [Get RSS Feed URL (⭐166)](https://github.com/shevabam/get-rss-feed-url-extension) [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/get-rss-feed-url/kfghpdldaipanmkhfpdcjglncmilendn)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/shevabam/get-rss-feed-url-extension)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Get RSS Feed URL (⭐170)](https://github.com/shevabam/get-rss-feed-url-extension) [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/get-rss-feed-url/kfghpdldaipanmkhfpdcjglncmilendn)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/shevabam/get-rss-feed-url-extension)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [RSS+Atom Feed Subscribe Button Generator](https://greasyfork.org/scripts/6261-rss-atom-feed-subscribe-button-generator) ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [FeedReader App](https://feedreader.xyz/) <sup>[1364](https://t.me/s/aboutrss/1364)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [RSS feed ASAP](https://rssfeedasap.com/) <sup>[1373](https://t.me/s/aboutrss/1373)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
@@ -117,30 +123,30 @@
 
 *   [Podcast-Standard](https://podcast-standard.org/) <sup>[1351](https://t.me/s/aboutrss/1351)</sup>
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Monitoring
 
 *   [bleemeo.com](https://bleemeo.com) - Free for 3 servers, 5 uptime monitors, unlimited users, unlimited dashboards, unlimited alerting rules.
 
-## [7. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [8. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### IO Games
 
 *   [Simply Up](https://simplyup.io) - Climb to the top of the tower in the shortest time.
 
-## [8. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
+## [9. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
 ### Game Engines / Specialty
 
-*   🎉 [Ren'Py (⭐4k)](https://github.com/renpy/renpy) - Visual novel engine. \[[Website](https://www.renpy.org/)]
+*   🎉 [Ren'Py (⭐4.1k)](https://github.com/renpy/renpy) - Visual novel engine. \[[Website](https://www.renpy.org/)]
 
-## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [fzfsh (⭐0)](https://github.com/ethan605/fzfsh) - Add [fzf (⭐55k)](https://github.com/junegunn/fzf) plugins for `chezmoi`, `docker`, `git`, `kubectl` and `pass`.
-*   [incsearch (⭐1)](https://github.com/aoyama-val/zsh-incsearch) - Friendlier `vim` mode for ZSH. Moves cursor with incremental search within current line.
+*   [incsearch (⭐3)](https://github.com/aoyama-val/zsh-incsearch) - Friendlier `vim` mode for ZSH. Moves cursor with incremental search within current line.
 
 ---
 

@@ -10,19 +10,19 @@
 
 ### Libraries / New Libraries
 
-*   [flaxmodels (⭐178)](https://github.com/matthias-wright/flaxmodels) - Pretrained models for Jax/Flax. <img src="https://img.shields.io/github/stars/matthias-wright/flaxmodels?style=social" align="center">
+*   [flaxmodels (⭐211)](https://github.com/matthias-wright/flaxmodels) - Pretrained models for Jax/Flax. <img src="https://img.shields.io/github/stars/matthias-wright/flaxmodels?style=social" align="center">
 
 ## [2. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
 ### Social
 
-*   [ig-latest-post.js (⭐165)](https://github.com/supermamon/scriptable-scripts/blob/master/instagram-widgets/ig-latest-post.js) - The latest post from selected Instagram users.
+*   [ig-latest-post.js (⭐193)](https://github.com/supermamon/scriptable-scripts/blob/master/instagram-widgets/ig-latest-post.js) - The latest post from selected Instagram users.
 
 ## [3. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Apps / Mapping
 
-*   [Mapkeep](https://mapkeep.com/) - Mapkeep is a place to keep 😉 your Wardley Maps. Create, share, and discuss maps with others. Host your maps for free with unlimited public repositories. For updates, you can follow [@mapkeep](https://twitter.com/mapkeep) on Twitter, subscribe to the [YouTube Channel](https://www.youtube.com/channel/UCgJtBt9DyTrwyMlNdoZJhFQ), or subscribe to the [News and Updates blog](https://mapkeep.substack.com/).
+*   [Mapkeep](https://mapkeep.com/) - Multiplayer Wardley Maps at a click of a button. Collaborate on your maps with others. Host your maps for free. For updates, you can follow [@mapkeep on Mastodon](https://mastodon.social/@mapkeep), [@mapkeep on X](https://twitter.com/mapkeep), [mapkeep on LinkedIn](https://www.linkedin.com/company/mapkeep), subscribe to the [YouTube Channel](https://www.youtube.com/@mapkeep), or subscribe to the [News and Updates blog](https://blog.mapkeep.com/).
 
 ### Templates / Mapping
 
@@ -41,8 +41,7 @@
 *   :free: [Iconmonstr](http://iconmonstr.com/) - Another free icons resource for your games.
 *   :money\_with\_wings: [Kenney Assets](http://kenney.nl/assets) - Royalty free assets
 *   :free: [Liberated Pixel Cup assets](http://lpc.opengameart.org) - Free graphic assets of the Liberated Pixel Cup (LPC) held by the OpenGameArt forums
-*   :free: [Matcaps (⭐1.7k)](https://github.com/nidorx/matcaps#matcaps) - A Huge library of matcap textures in PNG and ZMT, organized by color.
-*   :free: [OpenClipart](https://openclipart.org/) - Collection of free cliparts.
+*   :free: [Matcaps (⭐2.1k)](https://github.com/nidorx/matcaps#matcaps) - A Huge library of matcap textures in PNG and ZMT, organized by color.
 *   :free: [OpenGameArt](http://opengameart.org/) - a media repository intended for use with free software game projects.
 *   :moneybag: [Oryx Design Lab](http://oryxdesignlab.com/) - Cheap high quality royalty free sprites
 *   :money\_with\_wings: [PlainTextures](http://www.plaintextures.com/) - Free high resolution textures, brushes and photos
@@ -56,12 +55,12 @@
 
 ### Graphics / Spritesheet Tools
 
-*   :tada: [Cheetah-Texture-Packer (⭐223)](https://github.com/scriptum/Cheetah-Texture-Packer) - High efficient and fast 2D bin packing tool
-*   :tada: [Libgdx Texture Packer (⭐21k)](https://github.com/libgdx/libgdx/wiki/Texture-packer) - Texture Packer built into Libgdx
+*   :tada: [Cheetah-Texture-Packer (⭐227)](https://github.com/scriptum/Cheetah-Texture-Packer) - High efficient and fast 2D bin packing tool
+*   :tada: [Libgdx Texture Packer (⭐22k)](https://github.com/libgdx/libgdx/wiki/Texture-packer) - Texture Packer built into Libgdx
 *   :free: [Littera](http://kvazars.com/littera) - Bitmap font generator
 *   :free: [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools.
 *   :money\_with\_wings: [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor.
-*   :tada: [Tilesplit (⭐0)](https://github.com/AlexPoulsen/tilesplit) - CLI text-based tilesheet splitter and namer. Turn a spritesheet into many separate files with names you pick, or not if you don't care. Support templates and textures that are not all the same size.
+*   :tada: [Tilesplit (⭐1)](https://github.com/AlexPoulsen/tilesplit) - CLI text-based tilesheet splitter and namer. Turn a spritesheet into many separate files with names you pick, or not if you don't care. Support templates and textures that are not all the same size.
 
 ### Graphics / Bitmap Compression
 
@@ -80,7 +79,7 @@
 
 ### Graphics / Vector/Image Editor
 
-*   [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
+*   :free: [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
 *   :moneybag: [Affinity Designer](https://affinity.serif.com/de/designer) - Vector graphics editor with a bunch of features which also supports Adobe file formats
 *   :moneybag: [Affinity Photo](https://affinity.serif.com/de/photo) - Photo and raster graphics editor which works together with Adobe file formats and Affinity Designer
 *   :money\_with\_wings: [Aseprite](http://www.aseprite.org/) - animated sprite editor & pixel art tool.
@@ -92,17 +91,16 @@
 *   :money\_with\_wings: [Paint.NET](http://www.getpaint.net/) - Paint.NET is free image and photo editing software for PCs that run Windows.
 *   :moneybag: [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor.
 *   :tada: [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool.
-*   [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
+*   :moneybag: [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
+*   :moneybag: [Pixelator](http://pixelatorapp.com) - Turn any image into fancy pixel-art
 *   :moneybag: [Pixen (⭐931)](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX
 *   :free: [project one](http://p1.untergrund.net) - A picture converter and editor for the Commodore 64 covering different graphics mode of this computer. Windows only
-*   :moneybag: [PXL8](http://www.pxl8.it) - A cross platform (Windows, Mac, Linux) pixel art editor in development which aims to be distraction free
 *   :moneybag: [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations.
 *   :free: [REXPaint](https://www.gridsagegames.com/rexpaint/) - a powerful and user-friendly ASCII art editor.
 *   :tada: [rx](https://rx.cloudhead.io/) - a modern & minimalist pixel editor
 *   :free: [Tilemancer](https://led.itch.io/tilemancer) - A quick procedural tile creator designed for pixel-art games.
 *   :free: [Timanthes](http://csdb.dk/release/?id=75871) - A pixel art editor for the Commodore 64 computer running on Windows
 *   :free: [Spritemate](http://www.spritemate.com) - Online Editor for Commodore 64 Sprites
-*   :moneybag: [Pixelator](http://pixelatorapp.com) - Turn any image into fancy pixel-art
 
 ### Graphics / Tile/Level Editors
 
@@ -114,19 +112,17 @@
 
 ### Graphics / Animation
 
-*   :tada: [DragonBones](http://dragonbones.com) - The Open Source 2D skeleton animation solution for Flash
 *   :tada: [LWF](http://gree.github.io/lwf/) - Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more.
 *   :moneybag: [Mixamo](https://www.mixamo.com/#/) - tool for auto auto rigging and animation of 3D humanoid models,
 
 ### Graphics / Modeling
 
-*   :tada: [Blender](http://www.blender.org/)
-*   :free: [MakeHuman](http://www.makehumancommunity.org/)
-*   :free: [sculptris](http://pixologic.com/sculptris/)
-*   :moneybag: [Maya](http://www.autodesk.com/products/maya/overview)
 *   :moneybag: [3ds Max](http://www.autodesk.com/products/3ds-max/overview)
-*   :moneybag: [modo](https://www.foundry.com/products/modo)
+*   :tada: [Blender](http://www.blender.org/) - The free software and open-source 3D grate of the wolrd
 *   :free: [Clara.io](https://clara.io/)
+*   :free: [MakeHuman](http://www.makehumancommunity.org/)
+*   :moneybag: [Maya](http://www.autodesk.com/products/maya/overview)
+*   :moneybag: [modo](https://www.foundry.com/products/modo)
 
 ### Graphics / Terrain Generators
 
@@ -138,7 +134,7 @@
 
 ### Graphics / Voxel Editors
 
-*   :tada: [goxel (⭐2.4k)](https://github.com/guillaumechereau/goxel)
+*   :tada: [goxel (⭐2.5k)](https://github.com/guillaumechereau/goxel)
 *   :free: [MagicaVoxel](https://ephtracy.github.io/)
 *   :free: [Q-Block](http://kyucon.com/qblock/)
 *   :free: [Sproxel](http://sproxel.blogspot.com.br/)
@@ -148,37 +144,37 @@
 *   :tada: [Allegro](http://liballeg.org/) - Allegro 4 & 5 are cross-platform, open source, game programming libraries, primarily for C and C++ developers.
 *   :tada: [Amethyst](https://www.amethyst.rs/) - Data-driven game engine written in Rust for 2D & 3D using `gfx-rs`.
 *   :tada: [amulet](http://www.amulet.xyz/) - A free Lua-based audio/visual toolkit suitable for small games and experimentation. It runs on Windows, Mac, Linux, HTML5 and iOS.
-*   :tada: [Astera (⭐262)](https://github.com/tek256/astera) - 2D C99 Cross Platform Game Library / Framework
+*   :tada: [Astera (⭐267)](https://github.com/tek256/astera) - 2D C99 Cross Platform Game Library / Framework
 *   :tada: [Azul3D](http://azul3d.org/) - A 3D engine written in Go.
 *   :tada: [Babylon.js](https://www.babylonjs.com/) - Javascript 3D Library.
 *   :tada: [Bevy](https://bevyengine.org/) - A refreshingly simple data-driven game engine built in Rust
-*   :tada: [bgfx (⭐13k)](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
+*   :tada: [bgfx (⭐14k)](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 *   :tada: [bitsy](https://ledoux.itch.io/bitsy) - A little editor for little games or worlds. The goal is to make it easy to make games where you can walk around and talk to people and be somewhere.
-*   :tada: [Bladecoder (⭐541)](https://github.com/bladecoder/bladecoder-adventure-engine) - Classic point and click adventure game engine and editor.
+*   :tada: [Bladecoder (⭐553)](https://github.com/bladecoder/bladecoder-adventure-engine) - Classic point and click adventure game engine and editor.
 *   :money\_with\_wings: [Blend4Web](http://www.blend4web.com/) - A Javascript framework for creating and displaying interactive 3D computer graphics in web browsers.
-*   :tada: [Blitz3D (⭐230)](https://github.com/blitz-research/blitz3d) 3D basic-like programming language for fast 3D desktop games.
+*   :tada: [Blitz3D (⭐234)](https://github.com/blitz-research/blitz3d) 3D basic-like programming language for fast 3D desktop games.
 *   :tada: [Box2D](http://box2d.org/) - A 2D Physics Engine for Games.
 *   :tada: [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
-*   :tada: [Chipmunk C# (⭐70)](https://github.com/netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib.
+*   :tada: [Chipmunk C# (⭐74)](https://github.com/netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib.
 *   :tada: [Chipmunk2D](https://chipmunk-physics.net/) - A fast and lightweight 2D game physics library.
 *   :tada: [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
-*   :tada: [Cocos2D (⭐619)](https://github.com/los-cocos/cocos) - graphic library for games and multimedia, for python language
+*   :tada: [Cocos2D (⭐628)](https://github.com/los-cocos/cocos) - graphic library for games and multimedia, for python language
 *   :tada: [Cocos2d-x](http://cocos2d-x.org/) - a C++ OpenGL 2D and 3D game engine. Uses C++ but has JS and Lua bindings. Target all the major mobile platforms and operating systems. Additional tools CocoStudio and Cocos Code IDE.
 *   :tada: [Coquette](http://coquette.maryrosecook.com/) - A micro framework for JavaScript games. Handles collision detection, the game update loop, canvas rendering, and keyboard and mouse input.
-*   :tada: [Dash (⭐416)](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
-*   :tada: [Dear Imgui (⭐46k)](https://github.com/ocornut/imgui/) - A bloat-free immediate mode GUI for C++ with minimal dependencies.
-*   :tada: [DEM Net Elevation API C# (⭐235)](https://github.com/dem-net/DEM.Net) - Terrain generation from real data with textures, normal maps, glTF, OBJ, STL support
-*   :tada: [Diligent Engine (⭐2.7k)](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, and Vulkan.
+*   :tada: [Dash (⭐414)](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
+*   :tada: [Dear Imgui (⭐51k)](https://github.com/ocornut/imgui/) - A bloat-free immediate mode GUI for C++ with minimal dependencies.
+*   :tada: [DEM Net Elevation API C# (⭐253)](https://github.com/dem-net/DEM.Net) - Terrain generation from real data with textures, normal maps, glTF, OBJ, STL support
+*   :tada: [Diligent Engine (⭐3k)](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, and Vulkan.
 *   :tada: [E.B.U.R.P](http://pents90.github.io/eburp/) - The Eight-Bit Universal Role Playing Engine
-*   :tada: [ENGi (⭐399)](https://github.com/ajhager/engi) - A multi-platform 2D game library for Go.
+*   :tada: [ENGi (⭐396)](https://github.com/ajhager/engi) - A multi-platform 2D game library for Go.
 *   :tada: [engo](https://engoengine.github.io/) - Engo is an open-source 2D game engine written in Go.
 *   :tada: [Ebiten](https://ebiten.org/) - A dead simple 2D game library in Go.
-*   :tada: [ecs-lib (⭐152)](https://github.com/nidorx/ecs-lib#readme) - **ecs-lib** is a tiny and easy to use ECS (Entity Component System) library for game programming. It's written in Typescript but you can use on node.js and web browser too.
+*   :tada: [ecs-lib (⭐173)](https://github.com/nidorx/ecs-lib#readme) - **ecs-lib** is a tiny and easy to use ECS (Entity Component System) library for game programming. It's written in Typescript but you can use on node.js and web browser too.
 *   :tada: [Ejecta](http://impactjs.com/ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS.
-*   :tada: [EnTT (⭐7.8k)](https://github.com/skypjack/entt) - Gaming meets modern C++, a fast and reliable entity-component system (ECS) and much more
-*   :tada: [FXGL (⭐3k)](https://github.com/AlmasB/FXGL) - A JavaFX/Kotlin game engine for Win/Mac/Linux.
-*   :tada: [Farseer (⭐600)](https://github.com/VelcroPhysics/VelcroPhysics) - a collision detection system with realistic physics responses.
-*   :tada: [Flame (⭐7.5k)](https://github.com/flame-engine/flame) - a minimalist game engine for Flutter
+*   :tada: [EnTT (⭐8.8k)](https://github.com/skypjack/entt) - Gaming meets modern C++, a fast and reliable entity-component system (ECS) and much more
+*   :tada: [FXGL (⭐3.8k)](https://github.com/AlmasB/FXGL) - A JavaFX/Kotlin game engine for Win/Mac/Linux.
+*   :tada: [Farseer (⭐632)](https://github.com/VelcroPhysics/VelcroPhysics) - a collision detection system with realistic physics responses.
+*   :tada: [Flame (⭐8.2k)](https://github.com/flame-engine/flame) - a minimalist game engine for Flutter
 *   :tada: [FlashPunk](http://useflashpunk.net/) - free ActionScript 3 library designed for developing 2D Flash games.
 *   :moneybag: [GameMaker](http://www.yoyogames.com/en/gamemaker) - GameMaker accommodates the creation of cross-platform video games using drag and drop or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features.
 *   :tada: [gameplay](http://gameplay3d.io/) - A free, open-source, cross-platform, 2D + 3D game framework written in C++. It is aimed towards indie game developers who are creating desktop and mobile games.
@@ -187,39 +183,39 @@
 *   :tada: [GDevelop](https://gdevelop-app.com/) - An open-source, cross-platform 2D game engine designed for everyone - it's extensible, fast and easy to learn.
 *   :tada: [ggez](http://ggez.rs/) - A Rust library to create Good Games Easily.
 *   :tada: [Gideros](http://giderosmobile.com/) - A Cross-Platform framework to create Mobile Apps and games for iOS, Android using Lua programming language.
-*   :tada: [Glide Engine (⭐438)](https://github.com/cocoatoucher/Glide) - Engine for making 2d games on iOS, macOS and tvOS in Swift programming language, with practical examples and tutorials.
+*   :tada: [Glide Engine (⭐474)](https://github.com/cocoatoucher/Glide) - Engine for making 2d games on iOS, macOS and tvOS in Swift programming language, with practical examples and tutorials.
 *   :tada: [Godot](http://www.godotengine.org/) - An advanced, feature-packed, multi-platform 2D and 3D open-source game engine.
 *   :tada: [Gorgon](https://www.tape-worm.net/) - A 2D rendering API for .NET, written in C#.
 *   :tada: [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free.
 *   :tada: [Heaps](https://heaps.io/) - Cross platform graphics for high performance games.
 *   :tada: [Horde3D](http://www.horde3d.org/) - small open source 3D rendering engine.
-*   :tada: [iio.js (⭐455)](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
+*   :tada: [iio.js (⭐456)](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
 *   :tada: [ImpactJS](http://impactjs.com/) - Impact is a JavaScript Game Engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers.
 *   :free: [Inform7](http://inform7.com/) - A design system for interactive fiction based on natural language.
 *   :tada: [Ink](http://www.inklestudios.com/ink/) - Scripting language for writing interactive narrative.
 *   :tada: [Irrlicht](http://irrlicht.sourceforge.net/) - open source high performance realtime 3D engine written in C++.
-*   :tada: [Jitter (⭐25)](https://github.com/mattleibow/jitterphysics) - a fast and lightweight physics engine written in C#.
+*   :tada: [Jitter (⭐32)](https://github.com/mattleibow/jitterphysics) - a fast and lightweight physics engine written in C#.
 *   :tada: [jMonkeyEngine 3](http://jmonkeyengine.org/) - a 3D open-source game engine for adventurous Java developers.
-*   :tada: [Juno (⭐17)](https://github.com/digitsensitive/juno) - Clean and lightweight 2D game framework written in TypeScript
-*   :tada: [Juno (⭐153)](https://github.com/rxi/juno) - Framework for making 2D games with chunky pixels in Lua
+*   :tada: [Juno (⭐18)](https://github.com/digitsensitive/juno) - Clean and lightweight 2D game framework written in TypeScript
+*   :tada: [Juno (⭐158)](https://github.com/rxi/juno) - Framework for making 2D games with chunky pixels in Lua
 *   :tada: [Kivent](http://kivent.org/) - A 2D game framework for Kivy.
 *   :tada: [Kivy](http://kivy.org) - Cross platform Python framework for creating apps and games for Linux, Windows, OS X, Android and iOS
 *   :tada: [KogGE](https://korge.soywiz.com) - Modern Multiplatform Game Engine for Kotlin. Write games for the JVM, JavaScript, Android and iOS in no time using Kotlin.
 *   :tada: [LibGDX](https://libgdx.com/) - Powerful (totally free) library for Java, code once and run the game on desktop, Android, Web, and iOS.
 *   :tada: [LimeJS](http://www.limejs.com/) - HTML5 game framework for building fast, native-experience games for all modern touchscreens and
 *   :tada: [LITIengine](http://litiengine.com/) - 2D Java Game Engine. It provides all the infrastructure to create tile based 2D games with plain java
-*   :tada: [LumixEngine (⭐3k)](https://github.com/nem0/LumixEngine) - 3D Game engine built on C++.
-*   :tada: [Lums (⭐28)](https://github.com/lums-proj/Lums) - A 2D / 3D framework written in C++11. Very efficient and modern. Still under heavy development.
+*   :tada: [LumixEngine (⭐3.2k)](https://github.com/nem0/LumixEngine) - 3D Game engine built on C++.
+*   :tada: [Lums (⭐29)](https://github.com/lums-proj/Lums) - A 2D / 3D framework written in C++11. Very efficient and modern. Still under heavy development.
 *   :tada: [LÖVE](http://love2d.org) - Lua 2D Game Engine.
 *   :tada: [MINX (⭐14)](https://github.com/GearChicken/MINX) - Open Source 2D game framework written in C++ (to the style of XNA)
 *   :tada: [Magnum](http://magnum.graphics/) - a lightweight and modular 2D/3D graphics/game engine written in C++11
 *   :tada: [Matter.js](http://brm.io/matter-js/) - a 2D physics engine for the web.
 *   :tada: [MelonJS](http://melonjs.org) - open source light-weight HTML5 game engine.
 *   :tada: [Monogame](http://www.monogame.net/) - Open Source implementation of the Microsoft XNA 4 Framework.
-*   :tada: [Nakama (⭐6.9k)](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
+*   :tada: [Nakama (⭐7.7k)](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 *   :tada: [nCine](https://ncine.github.io/) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua.
 *   :free: [NodeBox](https://www.nodebox.net/) - a family of Python tools to create generative design.
-*   :tada: [ÖbEngine (⭐686)](https://github.com/Sygmei/ObEngine) - 2D Game Engine with Lua Scripting made on top of SFML !
+*   :tada: [ÖbEngine (⭐762)](https://github.com/Sygmei/ObEngine) - 2D Game Engine with Lua Scripting made on top of SFML !
 *   :tada: [ODE](http://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics.
 *   :tada: [Ogre3D](http://www.ogre3d.org/) - is a scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
 *   :tada: [OpenFL](http://www.openfl.org/) - Open Source Haxe Engine for making multi-platform games.
@@ -237,7 +233,7 @@
 *   :tada: [PuzzleScript](http://www.puzzlescript.net/) - open-source HTML5 puzzle game engine.
 *   :tada: [PyGame](http://pygame.org/hifi.html) - a 2D game engine in Python.
 *   :moneybag: [RPGMaker](http://www.rpgmakerweb.com/) - series of programs for the development of role-playing games.
-*   :tada: [Rajawali (⭐2.2k)](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
+*   :tada: [Rajawali (⭐2.3k)](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
 *   :tada: [raylib](https://www.raylib.com/) - a simple and easy-to-use library to enjoy videogames programming, hardware accelerated with OpenGL (1.1, 2.1, 3.3 or ES 2.0)
 *   :tada: [Ren'Py](http://www.renpy.org/) - An open-source visual novel engine using the Python language in simplified form. It supports Windows, Mac OS X, Linux, Android and iOS.
 *   :tada: [Rpgboss](http://rpgboss.com) - A 2d rpg game engine and editor based on scala and libgdx. Ease of use, with no programming knowledge.
@@ -259,12 +255,12 @@
 *   :tada: [voxel.js](http://voxeljs.com/) - voxel.js is a collection of projects that make it easier than ever to create 3D voxel games like Minecraft all in the browser.
 *   :tada: [Wave](http://waveengine.net/) - Cross-platform engine written in C#.
 *   :tada: [Wolf RPG Editor English](https://widderune.wixsite.com/widderune/wolf-rpg-editor-english) - open source editor for RPG Maker style gamesl
-*   :tada: [WhiteStorm.js (⭐5.9k)](https://github.com/WhitestormJS/whitestorm.js) - 3d javacript framework for building apps and games
+*   :tada: [WhiteStorm.js (⭐6.1k)](https://github.com/WhitestormJS/whitestorm.js) - 3d javacript framework for building apps and games
 
 ### AI / Voxel Editors
 
-*   :tada: [Fluent Behaviour Tree (⭐351)](https://github.com/codecapers/Fluent-Behaviour-Tree) - C# behaviour tree library with a fluent API released under MIT.
-*   :tada: [SimpleAI (⭐168)](https://github.com/mgerhardy/simpleai/) - C++11 behaviour tree based library with a QT5 based remote debugger (and with optional LUA bindings) released under MIT.
+*   :tada: [Fluent Behaviour Tree (⭐367)](https://github.com/codecapers/Fluent-Behaviour-Tree) - C# behaviour tree library with a fluent API released under MIT.
+*   :tada: [SimpleAI (⭐172)](https://github.com/mgerhardy/simpleai/) - C++11 behaviour tree based library with a QT5 based remote debugger (and with optional LUA bindings) released under MIT.
 
 ### Collections / Voxel Editors
 
@@ -286,7 +282,7 @@
 *   :tada: [jfxr](http://jfxr.frozenfractal.com) - A JavaScript port of the Bfxr sound effect generator.
 *   :tada: [LMMS](https://lmms.io/) - Cross-platform music production software.
 *   :free: [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
-*   :tada: [MilkyTracker (⭐1.4k)](https://github.com/milkytracker/MilkyTracker) - open source tracker for Mac/Linux/Windows platforms.
+*   :tada: [MilkyTracker (⭐1.6k)](https://github.com/milkytracker/MilkyTracker) - open source tracker for Mac/Linux/Windows platforms.
 *   :tada: [musagi](http://www.drpetter.se/project_musagi.html) - open source, fairly large and sophisticated music editor and synthesizer
 *   :moneybag: [Resemble](https://www.resemble.ai/unity) - Resemble's voice cloning engine within Unity
 *   :tada: [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) - Open Source MIDI sequencer.
@@ -330,12 +326,11 @@
 
 ### Videos/Podcasts / Voxel Editors
 
-*   [awesome-gametalks (⭐939)](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc).
+*   [awesome-gametalks (⭐994)](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc).
 *   [Twitch GameDev](http://www.twitch.tv/directory/game/Game%20Development) - Twitch GameDev Streams
 
 ### Game Jams / Voxel Editors
 
-*   [CompoHub](http://compohub.net/) - A compilation site of many game jams in a timeline.
 *   [Game jams on itch.io](https://itch.io/jams) - Listing of itch.io game jams
 *   [Game Off](https://gameoff.github.com) - GitHub's game jam :octocat:
 *   [Indie Game Jams](http://www.indiegamejams.com/) - Listing of game jams
@@ -353,18 +348,18 @@
 ### Complete Game Sources / Voxel Editors
 
 *   :tada: [Canabalt iOS (⭐1.6k)](https://github.com/ericjohnson/canabalt-ios)
-*   :tada: [Doom 3 (⭐2.6k)](https://github.com/id-Software/DOOM-3)
-*   :tada: [Doom (⭐10k)](https://github.com/id-Software/DOOM)
+*   :tada: [Doom 3 (⭐2.7k)](https://github.com/id-Software/DOOM-3)
+*   :tada: [Doom (⭐11k)](https://github.com/id-Software/DOOM)
 *   :tada: [Duke Nukem 3D: Atomic Edition](http://legacy.3drealms.com/duke3d/)
-*   :tada: [NetHack (⭐2.3k)](https://github.com/NetHack/NetHack)
-*   :tada: [OpenTTD (⭐4.6k)](https://github.com/OpenTTD/OpenTTD)
-*   :tada: [Prince of Persia (⭐6.2k)](https://github.com/jmechner/Prince-of-Persia-Apple-II)
-*   :tada: [Quake 2 (⭐2.3k)](https://github.com/id-Software/Quake-2)
-*   :tada: [Quake III Arena (⭐6.3k)](https://github.com/id-Software/Quake-III-Arena)
-*   :tada: [Quake (⭐4k)](https://github.com/id-Software/Quake)
-*   :tada: [SimCity (⭐785)](https://github.com/simhacker/micropolis)
-*   :tada: [Wolfenstein 3D (⭐1.9k)](https://github.com/id-Software/wolf3d)
-*   :free: [VVVVVV (⭐6.6k)](https://github.com/TerryCavanagh/VVVVVV)
+*   :tada: [NetHack (⭐2.5k)](https://github.com/NetHack/NetHack)
+*   :tada: [OpenTTD (⭐5.3k)](https://github.com/OpenTTD/OpenTTD)
+*   :tada: [Prince of Persia (⭐6.3k)](https://github.com/jmechner/Prince-of-Persia-Apple-II)
+*   :tada: [Quake 2 (⭐2.5k)](https://github.com/id-Software/Quake-2)
+*   :tada: [Quake III Arena (⭐6.6k)](https://github.com/id-Software/Quake-III-Arena)
+*   :tada: [Quake (⭐4.3k)](https://github.com/id-Software/Quake)
+*   :tada: [SimCity (⭐832)](https://github.com/simhacker/micropolis)
+*   :tada: [Wolfenstein 3D (⭐2k)](https://github.com/id-Software/wolf3d)
+*   :free: [VVVVVV (⭐6.7k)](https://github.com/TerryCavanagh/VVVVVV)
 
 ### Ads / Voxel Editors
 
@@ -380,13 +375,13 @@
 *   :free: [HandmadeHero: making 2D game from scratch](https://handmadehero.org/)
 *   :free: [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations)
 *   :free: [Simple HTML5 Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/)
-*   :free: [miloyip/game-programmer (⭐16k)](https://github.com/miloyip/game-programmer) A Study Path for Game Programmer :octocat:
+*   :free: [miloyip/game-programmer (⭐17k)](https://github.com/miloyip/game-programmer) A Study Path for Game Programmer :octocat:
 *   :free: [TheChernoProject](https://www.youtube.com/user/TheChernoProject)
 *   :free: [Udacity: HTML5 Game Development](https://www.udacity.com/course/html5-game-development--cs255)
 
 ### Computer Graphics / Voxel Editors
 
-*   :free: [3D Game Shaders For Beginners (⭐15k)](https://github.com/lettier/3d-game-shaders-for-beginners)
+*   :free: [3D Game Shaders For Beginners (⭐16k)](https://github.com/lettier/3d-game-shaders-for-beginners)
 *   :free: [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
 *   :moneybag: [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)
 
@@ -410,25 +405,25 @@
 
 ### Software / Office Suites
 
-*   [Rustpad](https://rustpad.io/) - Efficient and minimal collaborative code editor, self-hosted, no database required. ([Source Code (⭐2.7k)](https://github.com/ekzhang/rustpad)) `MIT` `Rust`
+*   [Rustpad](https://rustpad.io/) - Efficient and minimal collaborative code editor, self-hosted, no database required. ([Source Code (⭐2.8k)](https://github.com/ekzhang/rustpad)) `MIT` `Rust/Docker`
 
 ## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Database
 
-*   [consoleau/kotlin-jpa-specification-dsl (⭐238)](https://github.com/consoleau/kotlin-jpa-specification-dsl) - This library provides a fluent DSL for querying spring data JPA repositories using spring data Specifications.
+*   [consoleau/kotlin-jpa-specification-dsl (⭐243)](https://github.com/consoleau/kotlin-jpa-specification-dsl) - This library provides a fluent DSL for querying spring data JPA repositories using spring data Specifications.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [GrandNode 2.0 (⭐753)](https://github.com/grandnode/grandnode2/) - Open Source Cross Platform E-Commerce Solution based on .NET Core 5.0 and MongoDB / Azure CosmosDB / Amazon DocumentDB / VueJS
+*   [GrandNode 2.0 (⭐861)](https://github.com/grandnode/grandnode2/) - Open Source Cross Platform E-Commerce Solution based on .NET Core 5.0 and MongoDB / Azure CosmosDB / Amazon DocumentDB / VueJS
 
 ## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Asynchronous
 
-*   [dpc/mioco (⭐138)](https://github.com/dpc/mioco) — Scalable, coroutine-based, asynchronous IO handling library
+*   [dpc/mioco (⭐142)](https://github.com/dpc/mioco) — Scalable, coroutine-based, asynchronous IO handling library
 
 ## [11. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
@@ -440,22 +435,22 @@
 
 ### Tools
 
-*   [ansible-navigator (⭐253)](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
+*   [ansible-navigator (⭐265)](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
 
 ## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [jghauser/auto-pandoc.nvim (⭐22)](https://github.com/jghauser/auto-pandoc.nvim) - Easy pandoc conversion leveraging yaml blocks.
-*   [jghauser/follow-md-links.nvim (⭐95)](https://github.com/jghauser/follow-md-links.nvim) - Press enter to follow internal markdown links.
+*   [jghauser/auto-pandoc.nvim (⭐28)](https://github.com/jghauser/auto-pandoc.nvim) - Easy pandoc conversion leveraging yaml blocks.
+*   [jghauser/follow-md-links.nvim (⭐116)](https://github.com/jghauser/follow-md-links.nvim) - Press enter to follow internal markdown links.
 
 ### Utility / Diagnostics
 
-*   [jghauser/mkdir.nvim (⭐156)](https://github.com/jghauser/mkdir.nvim) - Automatically create missing directories when saving files.
+*   [jghauser/mkdir.nvim (⭐184)](https://github.com/jghauser/mkdir.nvim) - Automatically create missing directories when saving files.
 
 ### Debugging / Diagnostics
 
-*   [rcarriga/nvim-dap-ui (⭐1.5k)](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap.
+*   [rcarriga/nvim-dap-ui (⭐1.8k)](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap.
 
 ## [14. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -489,7 +484,7 @@
 
 ### Currency Exchange
 
-- API: [Currency-api (⭐881)](https://github.com/fawazahmed0/currency-api#readme)
+- API: [Currency-api (⭐1.3k)](https://github.com/fawazahmed0/currency-api#readme)
 
   Description: Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits
 
@@ -533,7 +528,7 @@
 
 ### UI Libraries
 
-*   [Sveltestrap (⭐1.2k)](https://github.com/bestguy/sveltestrap) - Bootstrap 4 & 5 components.
+*   [Sveltestrap (⭐1.3k)](https://github.com/bestguy/sveltestrap) - Bootstrap 4 & 5 components.
 
 ---
 

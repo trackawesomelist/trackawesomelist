@@ -22,7 +22,7 @@
 
 ### Asynchronous Event Loop
 
-*   [uvw (⭐1.6k)](https://github.com/skypjack/uvw) - C++ wrapper for libuv. \[MIT]
+*   [uvw (⭐1.7k)](https://github.com/skypjack/uvw) - C++ wrapper for libuv. \[MIT]
 
 ## [4. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 

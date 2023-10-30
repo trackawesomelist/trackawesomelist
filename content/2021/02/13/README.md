@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 13, 2021
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -84,7 +84,7 @@
 
 ### Security and PKI
 
-*   [atomist.com](https://atomist.com/) — A quicker and more convenient way to automate a variety of development tasks. Now in beta.
+*   [atomist.com](https://atomist.com/) — A quicker and more convenient way to automate various development tasks. Now in beta.
 
 ## [4. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -104,17 +104,7 @@
 
 *   [SimpleLocalize](https://simplelocalize.io) - A simple translation management for software projects.
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / File Transfer - Single-click & Drag-n-drop Upload
-
-*   [Kleeja](https://kleeja.net/) - File Upload/sharing application, used by thousands of webmasters since 2007. ([Source Code (⭐173)](https://github.com/kleeja-official/kleeja)) `GPL-2.0` `PHP`
-
-### Software / Media Streaming - Video Streaming
-
-*   [Olaris](https://gitlab.com/olaris/olaris-server) - Olaris is an open-source, community driven, media manager and transcoding server. `GPL-3.0` `Go`
-
-## [8. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [7. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### Effect
 
@@ -126,14 +116,14 @@
 
 
 
-## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [8. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Loader
 
-*   [react-spinners (⭐2.6k)](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react.
+*   [react-spinners (⭐2.8k)](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react.
 *   [react-content-loader (⭐13k)](https://github.com/danilowoz/react-content-loader) - SVG-Powered component to easily create placeholder loadings (like Facebook's cards loading).
 
-## [10. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [9. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### SXA (Sitecore Experience Accelerator)
 

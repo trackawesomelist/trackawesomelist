@@ -10,7 +10,7 @@
 
 ### Contents / Tools
 
-*   [Immich (⭐11k)](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone by [Alex](https://github.com/alextran1502)
+*   [Immich (⭐20k)](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone by [Alex](https://github.com/alextran1502)
 
 ## [2. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
@@ -28,13 +28,13 @@
 
 ### Bars and Lines / Diagnostics
 
-*   [ecthelionvi/NeoColumn.nvim (⭐46)](https://github.com/ecthelionvi/NeoColumn.nvim) - Toggleable colorcolumn highlighting specific characters.
+*   [ecthelionvi/NeoColumn.nvim (⭐64)](https://github.com/ecthelionvi/NeoColumn.nvim) - Toggleable colorcolumn highlighting specific characters.
 
 ## [5. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
-*   [tftarget (⭐145)](https://github.com/future-architect/tftarget) - CLI Tool to do `terraform xxx -target={...}` interactively.
+*   [tftarget (⭐174)](https://github.com/future-architect/tftarget) - CLI Tool to do `terraform xxx -target={...}` interactively.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -48,13 +48,13 @@
 
 ### Development tools / Profiling
 
-*   [Bencher (⭐78)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
+*   [Bencher (⭐166)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
 
 ## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Scroll Bars / Barcode
 
-*   [DMScrollBar (⭐15)](https://github.com/batanus/DMScrollBar) - Best in class customizable ScrollBar for any type of ScrollView with Decelerating, Bounce & Rubber band mechanisms and many many more.
+*   [DMScrollBar (⭐22)](https://github.com/batanus/DMScrollBar) - Best in class customizable ScrollBar for any type of ScrollView with Decelerating, Bounce & Rubber band mechanisms and many many more.
 
 ## [9. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 
@@ -64,16 +64,15 @@
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [APIToolkit.io](https://apitoolkit.io) - All the tools you need to fully understand what's going on in your APIs and Backends. With automatic API contract validation and monitoring. Free plan covers servers with up to 20,000 requests per month.
+*   [APIToolkit.io](https://apitoolkit.io) - All the tools you need to fully understand what's going on in your APIs and Backends. With automatic API contract validation and monitoring. The free plan covers servers with up to 20,000 requests per month.
 
 ## [11. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Misc
 
 *   [Volta](https://volta.net) - Fast, elegant GitHub desktop and web app.
-*   [Zigi](https://www.zigi.ai/) - Developer’s assistant for mundane non-coding tasks via Slack.
 
 ---
 

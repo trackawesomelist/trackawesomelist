@@ -10,7 +10,7 @@
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Awesome JMeter (⭐591)](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
+*   [Awesome JMeter (⭐634)](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
 
 ## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -41,13 +41,13 @@
 ### Dialog
 
 *   [NNDIAL (⭐346)](https://github.com/shawnwun/NNDIAL) - NNDial is an open source toolkit for building end-to-end trainable task-oriented dialogue models.
-*   [TGen (⭐203)](https://github.com/UFAL-DSG/tgen) - Statistical NLG for spoken dialogue systems.
+*   [TGen (⭐204)](https://github.com/UFAL-DSG/tgen) - Statistical NLG for spoken dialogue systems.
 
 ## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-### Software / Media Streaming - Video Streaming
+### Software / Video Surveillance
 
-*   [Bluecherry](https://www.bluecherrydvr.com/) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. ([Source Code (⭐149)](https://github.com/bluecherrydvr/bluecherry-apps)) `GPL-2.0` `PHP`
+*   [Bluecherry](https://www.bluecherrydvr.com/) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. ([Source Code (⭐158)](https://github.com/bluecherrydvr/bluecherry-apps)) `GPL-2.0` `PHP`
 
 ## [8. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -79,7 +79,7 @@
 
 ## [11. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
-### United States 🇺🇸 / South Carolina   <a id="south-carolina-">  </a>
+### United States 🇺🇸 / South Carolina <a id="south-carolina-"></a>
 
 #### Peace Coffee
 
@@ -103,7 +103,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 ### Uncategorised
 
-*   [git-bug (⭐7.7k)](https://github.com/MichaelMure/git-bug) is a distributed, offline-first bug tracker embedded in git.
+*   [git-bug (⭐7.8k)](https://github.com/MichaelMure/git-bug) is a distributed, offline-first bug tracker embedded in git.
 
 ## [14. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 

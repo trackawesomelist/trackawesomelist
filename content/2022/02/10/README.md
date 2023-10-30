@@ -10,7 +10,7 @@
 
 ### Cloud platform security / Kubernetes
 
-*   [Sealed Secrets (⭐6k)](https://github.com/bitnami-labs/sealed-secrets) - Kubernetes controller and tool for one-way encrypted Secrets.
+*   [Sealed Secrets (⭐6.4k)](https://github.com/bitnami-labs/sealed-secrets) - Kubernetes controller and tool for one-way encrypted Secrets.
 
 ## [2. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
@@ -29,7 +29,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-next-i18n (⭐13)](https://github.com/Aaronlamz/vue-next-i18n) - A lightweight internationalization plugin for Vue 3.
+*   [vue-next-i18n (⭐17)](https://github.com/Aaronlamz/vue-next-i18n) - A lightweight internationalization plugin for Vue 3.
 
 ## [5. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
@@ -41,7 +41,6 @@
 *   [Atallah & Blanton. Algorithms and Theory of Computation Handbook: Special Topics and Techniques](https://www.routledge.com/Algorithms-and-Theory-of-Computation-Handbook-Volume-2-Special-Topics/Atallah-Blanton/p/book/9780367384845) - A complete comprehensive encyclopediac handbook which surveys all related areas to theoretical computer science.
 *   [Handbook of Theoretical Computer Science. Volume A: Algorithms and Complexity](https://mitpress.mit.edu/books/handbook-theoretical-computer-science-volume) - A complete comprehensive encyclopediac handbook which surveys all related areas to theoretical computer science.
 *   [Handbook of Theoretical Computer Science. Volume B: Formal Methods and Semantics](https://mitpress.mit.edu/books/handbook-theoretical-computer-science-2-vol-set) - A complete comprehensive encyclopediac handbook which surveys all related areas to theoretical computer science.
-*   [Sipser. Introduciton to Theory of Computation](https://www.cengage.com/c/introduction-to-the-theory-of-computation-3e-sipser/9781133187790/) - A standard text for introducing theory of computation for undergrads.
 *   [Hopcroft, Motwani & Ullman. Introduction to Automata Theory, Languages, and Computation](https://www.pearson.com/us/higher-education/program/Hopcroft-Introduction-to-Automata-Theory-Languages-and-Computation-3rd-Edition/PGM64331.html) - Introductory undergrad textbook for automata, languages and theory of computation topics.
 *   [Barak. Introduction to TCS](https://introtcs.org/public/index.html) - A modern, brief, and accessible text which introduces theoretical computer science for undergrads. It includes topics not usually included in standard undergrad text-books.
 
@@ -221,7 +220,7 @@
 ### Popular Science Books / Monograph
 
 *   [Fortnow. The Golden Ticket: P, NP, and the Search for the Impossible](https://goldenticket.fortnow.com) - A nontechnical introduction to P-NP, its rich history, and its algorithmic implications for everything we do with computers and beyond.
-*   [Aaronson. Quantum Computing Since Democritus](https://assets.cambridge.org/97805211/99568/frontmatter/9780521199568_frontmatter.pdf) - It covers an amazing array of topics. Beginning in antiquity with Democritus, it progresses through logic and set theory,computability and complexity theory, quantum computing, cryptography, the information content of quantum states, and theinterpretation of quantum mechanics.
+*   [Aaronson. Quantum Computing Since Democritus](https://assets.cambridge.org/97805211/99568/frontmatter/9780521199568_frontmatter.pdf) - It covers an amazing array of topics. Beginning in antiquity with Democritus, it progresses through logic and set theory,computability and complexity theory, quantum computing, cryptography, the information content of quantum states, and the interpretation of quantum mechanics.
 *   [Deutsch. The Fabric of Reality: The Science of Parallel Universes and Its Implications](http://www.daviddeutsch.org.uk/books/the-fabric-of-reality/) - The Fabric of Reality presents a startlingly integrated, rational and optimistic world view – the result of taking seriously the deepest ideas of modern science and the philosophy of science.
 *   [Papadimitriou. Turing: A Novel About Computation](https://mitpress.mit.edu/books/turing-novel-about-computation) - The world of computation according to Turing, an interactive tutoring program, as told to star-crossed lovers: a novel.
 *   [Petzold. The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine](http://www.charlespetzold.com/AnnotatedTuring/) -  A Guided Tour through Alan Turing's Historic Paper on Computability and the Turing Machine.
@@ -237,9 +236,9 @@
 *   [PolyTCS](https://polytcs.wordpress.com/) - A project which promotes massive collaborations to solve theoretical computer science problems.
 *   [Complexity Network](https://sites.google.com/view/complexitynetwork/home) - Hosts collaboration between the three computational complexity groups at Imperial College London, University of Oxford and University of Warwick. It promotes smooth flow of ideas between the three groups and beyond.
 *   [List of TCS Conferences and Workshops](https://cstheory.blogoverflow.com/theoretical-computer-science-conferences-and-workshops/) - A list of conferences and workshops in theoretical computer science.
-*   [Algorithms (⭐14k)](https://github.com/tayllan/awesome-algorithms) - Awesome list for design and analysis of algorithms
-*   [Cryptography (⭐4.5k)](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
-*   [Quantum Computing (⭐2k)](https://github.com/desireevl/awesome-quantum-computing) - Awesome list for quantum computing
+*   [Algorithms (⭐15k)](https://github.com/tayllan/awesome-algorithms) - Awesome list for design and analysis of algorithms
+*   [Cryptography (⭐4.9k)](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
+*   [Quantum Computing (⭐2.2k)](https://github.com/desireevl/awesome-quantum-computing) - Awesome list for quantum computing
 
 ## [6. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
 
@@ -251,7 +250,7 @@
 
 ### Development tools / Web Servers
 
-*   [create-rust-app (⭐1.2k)](https://github.com/Wulf/create-rust-app) — Set up a modern rust+react web app by running one command. [![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/create-rust-app)
+*   [create-rust-app (⭐1.3k)](https://github.com/Wulf/create-rust-app) — Set up a modern rust+react web app by running one command. [![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/create-rust-app)
 
 ## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -264,21 +263,21 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-pug-transformer (⭐21)](https://github.com/TheSeally/vite-plugin-pug-transformer) - Pug template engine support.
+*   [vite-plugin-pug-transformer (⭐26)](https://github.com/TheSeally/vite-plugin-pug-transformer) - Pug template engine support.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-dynamic-base (⭐45)](https://github.com/chenxch/vite-plugin-dynamic-base) - Resolve all resource files dynamic publicPath.
+*   [vite-plugin-dynamic-base (⭐55)](https://github.com/chenxch/vite-plugin-dynamic-base) - Resolve all resource files dynamic publicPath.
 
 ## [10. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Project Layout
 
-*   [pagoda (⭐795)](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit built in Go.
+*   [pagoda (⭐955)](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit built in Go.
 
 ### Template Engines
 
-*   [got (⭐8)](https://github.com/goradd/got) - A Go code generator inspired by Hero and Fasttemplate. Has include files, custom tag definitions, injected Go code, language translation, and more.
+*   [got (⭐15)](https://github.com/goradd/got) - A Go code generator inspired by Hero and Fasttemplate. Has include files, custom tag definitions, injected Go code, language translation, and more.
 
 ### Utilities
 

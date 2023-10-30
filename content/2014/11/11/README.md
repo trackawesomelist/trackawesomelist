@@ -26,7 +26,7 @@
 
 ### Connection pools
 
-*   [hikari-cp (⭐397)](https://github.com/tomekw/hikari-cp)
+*   [hikari-cp (⭐400)](https://github.com/tomekw/hikari-cp)
 
 ## [4. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 

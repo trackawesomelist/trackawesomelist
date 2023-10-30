@@ -90,11 +90,11 @@ Webpage: <http://4sq.com/14xZ71H>
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [MediatR (⭐8.6k)](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET.
+*   [MediatR (⭐10k)](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET.
 
 ### Frameworks, Libraries and Tools / Security
 
-*   [Security (⭐1.2k)](https://github.com/aspnet/Security) - Middleware for security and authorization of web apps.
+*   [Security (⭐1.3k)](https://github.com/aspnet/Security) - Middleware for security and authorization of web apps.
 
 ## [10. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

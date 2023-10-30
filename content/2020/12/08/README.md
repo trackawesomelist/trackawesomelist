@@ -14,10 +14,10 @@
 
 ## [2. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### Computer Vision
+### Computer Vision / Text-Based User Interfaces
 
 *   [ImageJ](https://imagej.net/ImageJ) - Medical image processing application with an API.
-*   [JavaCV (⭐6.4k)](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and much more.
+*   [JavaCV (⭐7k)](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and much more.
 
 ## [3. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Algorithms and Data structures
 
-*   [qr-code (⭐18)](https://github.com/spider-gazelle/qr-code) - QR Code generator
+*   [qr-code (⭐17)](https://github.com/spider-gazelle/qr-code) - QR Code generator
 
 ## [8. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Open Source / Other
 
-*   [Hawkpass (⭐57)](https://github.com/kalpetros/hawkpass) - Password generator.
+*   [Hawkpass (⭐58)](https://github.com/kalpetros/hawkpass) - Password generator.
 
 ## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

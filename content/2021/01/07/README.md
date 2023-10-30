@@ -10,16 +10,16 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [filebrowser](https://filebrowser.org/) - Web File Browser with a Material Design web interface. ([Source Code (⭐20k)](https://github.com/filebrowser/filebrowser)) `Apache-2.0` `Go`
+*   [filebrowser](https://filebrowser.org/) - Web File Browser with a Material Design web interface. ([Source Code (⭐21k)](https://github.com/filebrowser/filebrowser)) `Apache-2.0` `Go`
 
 ## [2. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Utils / Other Tools
 
-*   [FastAPI MQTT (⭐150)](https://github.com/sabuhish/fastapi-mqtt) - An extension for the MQTT protocol.
-*   [Starlette Context (⭐316)](https://github.com/tomwojcik/starlette-context) - Allows you to store and access the request data anywhere in your project, useful for logging.
-*   [Starlette OpenTracing (⭐63)](https://github.com/acidjunk/starlette-opentracing) - Opentracing support for Starlette and FastAPI.
-*   [Starlette Prometheus (⭐236)](https://github.com/perdy/starlette-prometheus) - Prometheus integration for FastAPI and Starlette.
+*   [FastAPI MQTT (⭐183)](https://github.com/sabuhish/fastapi-mqtt) - An extension for the MQTT protocol.
+*   [Starlette Context (⭐358)](https://github.com/tomwojcik/starlette-context) - Allows you to store and access the request data anywhere in your project, useful for logging.
+*   [Starlette OpenTracing (⭐65)](https://github.com/acidjunk/starlette-opentracing) - Opentracing support for Starlette and FastAPI.
+*   [Starlette Prometheus (⭐254)](https://github.com/perdy/starlette-prometheus) - Prometheus integration for FastAPI and Starlette.
 
 ## [3. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -31,49 +31,48 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [CAEs for Data Assimilation (⭐25)](https://github.com/julianmack/Data_Assimilation) - Convolutional autoencoders for 3D image/field compression applied to reduced order [Data Assimilation](https://en.wikipedia.org/wiki/Data_assimilation).
+*   [CAEs for Data Assimilation (⭐29)](https://github.com/julianmack/Data_Assimilation) - Convolutional autoencoders for 3D image/field compression applied to reduced order [Data Assimilation](https://en.wikipedia.org/wiki/Data_assimilation).
 
 ## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
-*   🧬 [Marker](https://github.com/RadishIO/tailwindcss-marker) - Provides utilities for styling lists and `<summary>` markers.
 *   🛑💼💙 [Line Clamp (⭐1.1k)](https://github.com/tailwindlabs/tailwindcss-line-clamp) - Provides utilities for visually truncating text after a fixed number of lines.
 
 ## [6. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
-*   [website-wasm (⭐47)](https://github.com/kamiyaa/website-wasm) - My personal website written in Rust via Yew/Wasm.
+*   [website-wasm (⭐52)](https://github.com/kamiyaa/website-wasm) - My personal website written in Rust via Yew/Wasm.
 
 ## [7. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Algorithms / Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
 
 *   [LIO-SAM :newspaper:](https://arxiv.org/pdf/2007.00258.pdf) - Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping.
-    *   [GitHub repository :octocat: (⭐2.2k)](https://github.com/TixiaoShan/LIO-SAM)
+    *   [GitHub repository :octocat: (⭐2.6k)](https://github.com/TixiaoShan/LIO-SAM)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=A0H8CoORZJU)
 
 ### Others / Object detection and object tracking
 
-*   [Bpy :octocat: (⭐793)](https://github.com/uhlik/bpy) - Point cloud importer/renderer/editor for Blender, Point Cloud visualizer.
-*   [Photogrammetry importer :octocat: (⭐640)](https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer) - Blender addon to import reconstruction results of several libraries.
+*   [Bpy :octocat: (⭐858)](https://github.com/uhlik/bpy) - Point cloud importer/renderer/editor for Blender, Point Cloud visualizer.
+*   [Photogrammetry importer :octocat: (⭐732)](https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer) - Blender addon to import reconstruction results of several libraries.
 
 ## [8. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Back-End Development
 
-*   [CDK (⭐1.8k)](https://github.com/kolomied/awesome-cdk#readme) - Open-source software development framework for defining cloud infrastructure in code.
+*   [CDK (⭐1.9k)](https://github.com/kolomied/awesome-cdk#readme) - Open-source software development framework for defining cloud infrastructure in code.
 
 ## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Official Resources
 
-*   [Release Notes (⭐56k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
+*   [Release Notes (⭐60k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
 
 ### Open Source / Community
 
-*   [VitePress (⭐7.7k)](https://github.com/vuejs/vitepress) - Static Site Generator powered by Vite and Vue.
+*   [VitePress (⭐9.2k)](https://github.com/vuejs/vitepress) - Static Site Generator powered by Vite and Vue.
 
 ## [10. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -93,7 +92,7 @@
 
 ### Modules / Static site generator
 
-*   [lume (⭐1.3k)](https://github.com/lumeland/lume) - A static site generator similar to Jekyll or Eleventy with support for multiple file formats.
+*   [lume (⭐1.4k)](https://github.com/lumeland/lume) - A static site generator similar to Jekyll or Eleventy with support for multiple file formats.
 
 ### Modules / Utils
 
@@ -101,7 +100,7 @@
 
 ### Showcases / XML
 
-*   [Deno Rest (⭐101)](https://github.com/vicky-gonsalves/deno_rest) - A Boilerplate for deno RESTful apis.
+*   [Deno Rest (⭐120)](https://github.com/vicky-gonsalves/deno_rest) - A Boilerplate for deno RESTful apis.
 *   [UsingDeno](https://usingdeno.com) - Curated list of Web Applications & Projects using Deno 🦕.
 
 ---

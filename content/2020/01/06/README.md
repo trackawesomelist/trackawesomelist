@@ -28,7 +28,7 @@
 *   For advanced users
     *   [Articulate Common Lisp](http://articulate-lisp.com) - A HOWTO for putting together a Lisp environment, and has information on [useful libraries](http://articulate-lisp.com/project/abcs.html) and how to [structure projects](http://articulate-lisp.com/project/new-project.html).
     *   If you're an experienced [Emacs](https://www.gnu.org/software/emacs/) user, you can just install [SLIME](https://common-lisp.net/project/slime/) and a [supported Common Lisp implementation](https://common-lisp.net/project/slime/doc/html/Platforms.html#Platforms). See the [SLIME manual](https://common-lisp.net/project/slime/doc/html/) for more details.
-    *   The Common Lisp Cookbook has more information about [installing an implementation](https://lispcookbook.github.io/cl-cookbook/getting-started.html) using an implementation manager like [Roswell (⭐1.5k)](https://github.com/roswell/roswell/wiki), or on Docker.
+    *   The Common Lisp Cookbook has more information about [installing an implementation](https://lispcookbook.github.io/cl-cookbook/getting-started.html) using an implementation manager like [Roswell (⭐1.7k)](https://github.com/roswell/roswell/wiki), or on Docker.
 
 ### Online References
 
@@ -46,16 +46,16 @@
 
 ### Online Books
 
-*   [Common Lisp: A Gentle Introduction to Symbolic Computation by David S. Touretzky](http://www.cs.cmu.edu/\~dst/LispBook/) - a good introduction for people new to programming. Contains code for really useful utilities like [DTRACE](http://www.cs.cmu.edu/\~dst/Lisp/dtrace/) and [SDRAW](http://www.cs.cmu.edu/\~dst/Lisp/sdraw/).
-*   [Common Lisp: An interactive approach by Stuart C. Shapiro](https://www.cse.buffalo.edu/\~shapiro/Commonlisp/) - A textbook that teaches mainly through the use of exercises.
+*   [Common Lisp: A Gentle Introduction to Symbolic Computation by David S. Touretzky](http://www.cs.cmu.edu/~dst/LispBook/) - a good introduction for people new to programming. Contains code for really useful utilities like [DTRACE](http://www.cs.cmu.edu/~dst/Lisp/dtrace/) and [SDRAW](http://www.cs.cmu.edu/~dst/Lisp/sdraw/).
+*   [Common Lisp: An interactive approach by Stuart C. Shapiro](https://www.cse.buffalo.edu/~shapiro/Commonlisp/) - A textbook that teaches mainly through the use of exercises.
 *   [Practical Common Lisp by Peter Seibel](http://www.gigamonkeys.com/book/) - A great introduction for experienced programmers, and tries to highlight from the very beginning what makes CL different to other languages.
-*   [Common Lisp Koans (⭐2.9k)](https://github.com/google/lisp-koans) - Not exactly a book, but a set of koans to help you learn the language.
+*   [Common Lisp Koans (⭐3k)](https://github.com/google/lisp-koans) - Not exactly a book, but a set of koans to help you learn the language.
 *   [On Lisp by Paul Graham](http://www.paulgraham.com/onlisp.html) - A great book for intermediately experienced Lispers.
 *   [Let Over Lambda by Doug Hoyte](https://letoverlambda.com) - An advanced book on Lisp Macros.
     *   The first six chapters are available online.
     *   [Comments on Let Over Lambda](https://www.reddit.com/r/lisp/comments/3actsc/let_over_lambda/) - Several people recommend that you be comfortable with On Lisp before reading this book, and that the start is slow.
     *   [The chapter on closures](https://letoverlambda.com/index.cl/guest/chap2.html) - Has several non-trivial examples, and demonstrates the power of this feature.
-*   [Paradigms of Artificial Intelligence Programming by Peter Norvig (⭐6.4k)](https://github.com/norvig/paip-lisp) - Has many interesting applications of Lisp, but is no longer a good reference for AI.
+*   [Paradigms of Artificial Intelligence Programming by Peter Norvig (⭐6.9k)](https://github.com/norvig/paip-lisp) - Has many interesting applications of Lisp, but is no longer a good reference for AI.
 
 ### Offline Books
 
@@ -79,7 +79,6 @@
 *   The [Cliki](http://cliki.net) - The Common Lisp Wiki. A great resource for all things CL. Has a great [Getting Started](http://cliki.net/Getting+Started) page and an extensive list of [Lisp books](http://cliki.net/Lisp%20books).
 *   [Lisp Subreddit](http://www.reddit.com/r/lisp/) - An active community, and has loads of useful links and reference documents in the sidebar.
     *   [Common Lisp Subreddit](https://www.reddit.com/r/Common_Lisp) - The Subreddit for Common Lisp.
-*   [Exercism's Common Lisp track](http://exercism.io/languages/common-lisp/about) - An excellent way to learn the language through practice, have your code reviewed, and to discuss solutions with other people.
 
 ### Library Management
 
@@ -108,41 +107,68 @@
 *   [Scieneer Common Lisp (SCL)](http://web.archive.org/web/20171014210404/http://www.scieneer.com/scl/) - A commercial Linux and Unix implementation, but has an unrestricted free evaluation and non-commercial use version.
     *   [SCL manual](http://web.archive.org/web/20171014210404/http://www.scieneer.com/scl/doc/)
 
-## [3. Awesome React](/content/enaqx/awesome-react/README.md)
-
-### React Component Libraries
-
-*   [baseweb (⭐8.3k)](https://github.com/uber/baseweb) - A React Component library implementing the Uber's Base design language
-
-## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Data Formats
 
 *   [JSON::OnSteroids (⭐23)](https://github.com/anykeyh/json_on_steroids) - handle and mutate JSON document easily
 
-## [5. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
+## [4. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Neural Natural Language Generation
 
-*   [Texar (⭐2.3k)](https://github.com/asyml/texar) - Texar is a toolkit aiming to support a broad set of machine learning, especially natural language processing and text generation tasks.
+*   [Texar (⭐2.4k)](https://github.com/asyml/texar) - Texar is a toolkit aiming to support a broad set of machine learning, especially natural language processing and text generation tasks.
 
-## [6. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
-
-### Apps
-
-*   [IPFS Drive (⭐114)](https://github.com/fazo96/ipfs-drive) - In browser file manager for IPFS.
-*   [IPFS with TiddlyWiki (⭐51)](https://github.com/xmaysonnave/tiddlywiki-ipfs) - IPFS with TiddyWiki is a TiddlyWiki plugin who aims to help developers, editors or users to save their wikis and attachments over IPFS.
-*   [uport](https://www.uport.me) - Uport is a mobile, self-sovereign identity and key management system, built on the Ethereum blockchain.
+## [5. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Tools
 
-*   [ipfsecret (⭐20)](https://github.com/shlemph/ipfsecret) - Encrypt and decrypt IPFS files with a secret passphrase
+*   [ipfsecret (⭐22)](https://github.com/shlemph/ipfsecret) - Encrypt and decrypt IPFS files with a secret passphrase.
+
+## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Delphi / Pascal / Non-X86
+
+*   [Expert Delphi](https://www.packtpub.com/free-ebooks/expert-delphi) - Paweł Głowacki (Packt account *required*)
+
+### Hadoop / Spock Framework
+
+*   [Big Data Analytics with Hadoop 3](https://www.packtpub.com/free-ebooks/big-data-analytics-hadoop-3) - Sridhar Alla (Packt account *required*)
+
+### IoT / Bootstrap
+
+*   [Mastering Internet of Things](https://www.packtpub.com/free-ebooks/mastering-internet-things) - Peter Waher (Packt account *required*)
+
+### Java / Spring
+
+*   [Building Applications with Spring 5 and Vue.js 2](https://www.packtpub.com/free-ebooks/building-applications-spring-5-and-vuejs-2) - James J. Ye (Packt account *required*)
+*   [Software Architecture with Spring 5.0](https://www.packtpub.com/free-ebooks/software-architecture-spring-50) - René Enríquez, Alberto Salazar (Packt account *required*)
+
+### Linux / TeX
+
+*   [Kali Linux 2018: Assuring Security by Penetration Testing, Fourth Edition](https://www.packtpub.com/free-ebooks/kali-linux-2018-assuring-security-penetration-testing-fourth-edition) - Shiva V. N Parasram, Alex Samm, Damian Boodoo, Gerard Johansen, Lee Allen, Tedi Heriyanto, Shakeel Ali (Packt account *required*)
+
+### PowerShell / Zend
+
+*   [Learn PowerShell Core 6.0](https://www.packtpub.com/free-ebooks/learn-powershell-core-60) - David das Neves, Jan-Hendrik Peters (Packt account *required*)
+
+### Python / Django
+
+*   [Django RESTful Web Services](https://www.packtpub.com/free-ebooks/django-restful-web-services) - Gaston C. Hillar (Packt account *required*)
+
+### Splunk / Play Scala
+
+*   [Splunk 7.x Quick Start Guide](https://www.packtpub.com/free-ebooks/splunk-7x-quick-start-guide) - James H. Baxter (Packt account *required*)
+
+### SQL Server / Play Scala
+
+*   [SQL Server 2017 Administrator's Guide](https://www.packtpub.com/free-ebooks/sql-server-2017-administrators-guide) - Marek Chmel, Vladimír Mužný (Packt account *required*)
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Tools
 
-*   [base-lisp-image (⭐34)](https://github.com/40ants/base-lisp-image) - base
+*   [base-lisp-image (⭐35)](https://github.com/40ants/base-lisp-image) - base
     Docker image for Common Lisp projects with SBCL or CCL and the latest
     ASDF, Qlot and Roswell.
 
@@ -160,11 +186,11 @@
 
 ### Status Bar
 
-*   [gitmux (⭐410)](https://github.com/arl/gitmux) Show Git status in tmux status bar
+*   [gitmux (⭐467)](https://github.com/arl/gitmux) Show Git status in tmux status bar
 
 ### Plugins
 
-*   [tmux-spotify (⭐81)](https://github.com/xamut/tmux-spotify) Show a nice menu to manage Spotify application
+*   [tmux-spotify (⭐88)](https://github.com/xamut/tmux-spotify) Show a nice menu to manage Spotify application
 
 ## [10. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 

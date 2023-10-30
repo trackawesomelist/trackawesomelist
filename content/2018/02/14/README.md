@@ -18,7 +18,7 @@
 
 ### Packages / Command-line apps
 
-*   [XO (⭐7.2k)](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style.
+*   [XO (⭐7.3k)](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style.
 
 ## [3. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Misc
 
-*   [ConsoleTableExt (⭐303)](https://github.com/minhhungit/ConsoleTableExt) - Fluent library to create table for .Net console application.
+*   [ConsoleTableExt (⭐312)](https://github.com/minhhungit/ConsoleTableExt) - Fluent library to create table for .Net console application.
 
 ## [5. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
@@ -60,8 +60,8 @@
 
 ### Extensions
 
-*   [Next Plugin Graphql (⭐54)](https://github.com/lfades/next-plugin-graphql) - Next.js plugin for .graphql and .gql files using graphql-tag
-*   [Next With Apollo (⭐764)](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js
+*   [Next Plugin Graphql (⭐55)](https://github.com/lfades/next-plugin-graphql) - Next.js plugin for .graphql and .gql files using graphql-tag
+*   [Next With Apollo (⭐767)](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js
 
 ---
 

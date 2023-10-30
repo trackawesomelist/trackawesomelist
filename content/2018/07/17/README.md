@@ -38,7 +38,7 @@
 
 ### Frameworks, Libraries and Tools / Compilers, Transpilers and Languages
 
-*   [Mond (⭐292)](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API.
+*   [Mond (⭐319)](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API.
 
 ## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -50,11 +50,11 @@
 
 ### Documentation
 
-*   [The Cycle-Accurate Game Boy Docs (⭐178)](https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf) - A precise documentation by AntonioND to make a cycle-accurate Game Boy emulator.
+*   [The Cycle-Accurate Game Boy Docs (⭐182)](https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf) - A precise documentation by AntonioND to make a cycle-accurate Game Boy emulator.
 
 ### Related projects / Syntax highlighting packages
 
-*   [gameboy-brainfuck (⭐17)](https://github.com/bitnenfer/gameboy-brainfuck) - Brainf\*ck interpreter.
+*   [gameboy-brainfuck (⭐16)](https://github.com/bitnenfer/gameboy-brainfuck) - Brainf\*ck interpreter.
 *   [gbfk (⭐2)](https://github.com/elseyf/gbfk) - Brainf\*ck interpreter, with input.
 
 ## [8. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)

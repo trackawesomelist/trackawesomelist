@@ -16,19 +16,19 @@
 
 ### Navigation / Image Picker
 
-*   [go\_router (⭐427)](https://github.com/csells/go_router) <!--stargazers:csells/go_router--> - Declarative routes to reduce complexity, deep linking for mobile and the web while maintaining developer experience by [Chris Sells](https://github.com/csells).
+*   [go\_router (⭐443)](https://github.com/csells/go_router) <!--stargazers:csells/go_router--> - Declarative routes to reduce complexity, deep linking for mobile and the web while maintaining developer experience by [Chris Sells](https://github.com/csells).
 
 ## [3. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Community Extensions
 
-*   [Keycloak: Home IdP Discovery extension (⭐118)](https://github.com/sventorben/keycloak-home-idp-discovery)
+*   [Keycloak: Home IdP Discovery extension (⭐163)](https://github.com/sventorben/keycloak-home-idp-discovery)
 
 ## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Libraries / Community
 
-*   [ssr (⭐2.3k)](https://github.com/zhangyuang/ssr) - A Server Side Rendering framework combined with Webpack/Vite. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883) ![vue2](https://img.shields.io/badge/-Vue%202-42b883)
+*   [ssr (⭐2.4k)](https://github.com/zhangyuang/ssr) - A Server Side Rendering framework combined with Webpack/Vite. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883) ![vue2](https://img.shields.io/badge/-Vue%202-42b883)
 
 ## [5. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
@@ -54,20 +54,20 @@
 
 ### Examples
 
-*   [zenml-io/zenml (⭐2.7k)](https://github.com/zenml-io/zenml#readme) - Clean project logo. Useful TOC. Clear code examples amongst feature list. Quickstart example.
+*   [zenml-io/zenml (⭐3.2k)](https://github.com/zenml-io/zenml#readme) - Clean project logo. Useful TOC. Clear code examples amongst feature list. Quickstart example.
 
 ## [7. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Auth
 
-*   [AuthX (⭐441)](https://github.com/yezz123/AuthX) - Customizable Authentications and Oauth2 management for FastAPI.
-*   [FastAPI Security (⭐111)](https://github.com/jacobsvante/fastapi-security) - Implements authentication and authorization as dependencies in FastAPI.
+*   [AuthX (⭐546)](https://github.com/yezz123/AuthX) - Customizable Authentications and Oauth2 management for FastAPI.
+*   [FastAPI Security (⭐116)](https://github.com/jacobsvante/fastapi-security) - Implements authentication and authorization as dependencies in FastAPI.
 
 ### Utils / Other Tools
 
-*   [ASGI Correlation ID (⭐188)](https://github.com/snok/asgi-correlation-id) - Request ID logging middleware.
-*   [FastAPI Cache (⭐602)](https://github.com/long2ice/fastapi-cache) - A tool to cache FastAPI response and function results, with support for Redis, Memcached, DynamoDB, and in-memory backends.
-*   [FastAPI Lazy (⭐97)](https://github.com/yezz123/fastapi-lazy) - Lazy package to start your project using FastAPI.
+*   [ASGI Correlation ID (⭐244)](https://github.com/snok/asgi-correlation-id) - Request ID logging middleware.
+*   [FastAPI Cache (⭐796)](https://github.com/long2ice/fastapi-cache) - A tool to cache FastAPI response and function results, with support for Redis, Memcached, DynamoDB, and in-memory backends.
+*   [FastAPI Lazy (⭐100)](https://github.com/yezz123/fastapi-lazy) - Lazy package to start your project using FastAPI.
 
 ### Tutorials / Other Tools
 
@@ -97,7 +97,7 @@
 
 ### Python / Git
 
-*   [ecdsa (⭐801)](https://github.com/tlsfuzzer/python-ecdsa) - An easy-to-use implementation of ECC with support for ECDSA and ECDH.
+*   [ecdsa (⭐835)](https://github.com/tlsfuzzer/python-ecdsa) - An easy-to-use implementation of ECC with support for ECDSA and ECDH.
 
 ## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -255,7 +255,7 @@
   CORS: No
 
 
-- API: [SpaceX (⭐9.6k)](https://github.com/r-spacex/SpaceX-API)
+- API: [SpaceX (⭐10k)](https://github.com/r-spacex/SpaceX-API)
 
   Description: Company, vehicle, launchpad and launch data
 

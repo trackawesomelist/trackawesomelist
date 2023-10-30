@@ -10,8 +10,8 @@
 
 ### ⚙️ Middlewares / ‍💻 Contrib
 
-*   [jwt (⭐109)](https://github.com/gofiber/contrib/tree/main/jwt) - JWT returns a JSON Web Token (JWT) auth middleware.
-*   [websocket (⭐109)](https://github.com/gofiber/contrib/tree/main/websocket) - Based on Fasthttp WebSocket for Fiber with Locals support!
+*   [jwt (⭐133)](https://github.com/gofiber/contrib/tree/main/jwt) - JWT returns a JSON Web Token (JWT) auth middleware.
+*   [websocket (⭐133)](https://github.com/gofiber/contrib/tree/main/websocket) - Based on Fasthttp WebSocket for Fiber with Locals support!
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Front-End Development
 
-*   [Inertia.js (⭐205)](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
+*   [Inertia.js (⭐213)](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
 
 ## [2. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
 
@@ -22,10 +22,10 @@
 
 ### Resources / Examples
 
-*   💜 [Ping CRM / Laravel (⭐1.7k)](https://github.com/inertiajs/pingcrm/) - Demonstration application made with Laravel and Vue.js.
-*   💜 [Ping CRM / Svelte (⭐145)](https://github.com/inertiajs/pingcrm-svelte) - Demonstration application made with Laravel and Svelte.
+*   💜 [Ping CRM / Laravel (⭐1.9k)](https://github.com/inertiajs/pingcrm/) - Demonstration application made with Laravel and Vue.js.
+*   💜 [Ping CRM / Svelte (⭐175)](https://github.com/inertiajs/pingcrm-svelte) - Demonstration application made with Laravel and Svelte.
 *   [Ping CRM / Django (⭐39)](https://github.com/zodman/django-inertia-demo) - Demonstration application made with Django and Vue.js.
-*   [Ping CRM / React (⭐407)](https://github.com/Landish/pingcrm-react) - Demonstration application made with Laravel React.
+*   [Ping CRM / React (⭐475)](https://github.com/Landish/pingcrm-react) - Demonstration application made with Laravel React.
 
 ### Resources / Other
 
@@ -35,7 +35,7 @@
 
 ### Rendering/Publishing/Conversion
 
-*   [Jupyter Book (⭐3.3k)](https://github.com/executablebooks/jupyter-book) - Build publication-quality books and documents from computational material.
+*   [Jupyter Book (⭐3.5k)](https://github.com/executablebooks/jupyter-book) - Build publication-quality books and documents from computational material.
 
 ### Domain-Specific Projects
 
@@ -45,7 +45,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [folke/zen-mode.nvim (⭐923)](https://github.com/folke/zen-mode.nvim) - Distraction-free coding.
+*   [folke/zen-mode.nvim (⭐1.1k)](https://github.com/folke/zen-mode.nvim) - Distraction-free coding.
 
 ## [6. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 

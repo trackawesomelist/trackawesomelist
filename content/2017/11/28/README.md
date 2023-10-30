@@ -59,7 +59,6 @@
 *   [New Directions in Cryptography](https://www-ee.stanford.edu/~hellman/publications/24.pdf) - Seminal paper by Diffie and Hellman, introducing public key cryptography and key exchange/agreement protocol.
 *   [RFC 2631: Diffie-Hellman Key Agreement](https://tools.ietf.org/html/rfc2631) - An explanation of the Diffie-Hellman methon in more engineering terms.
 *   [RSA Algorithm](http://www.di-mgt.com.au/rsa_alg.html) - Rather education explanation of every bit behind RSA.
-*   [Secure Communications Over Insecure Channels ](http://www.merkle.com/1974/PuzzlesAsPublished.pdf) - Paper by R. Merkle,   predated "New directions in cryptography" though it was published after it. The Diffie-Hellman key exchange is an implementation of such a Merkle system.
 *   [Remote timing attacks are practical](http://crypto.stanford.edu/~dabo/papers/ssl-timing.pdf) - An example in attacking practical crypto implementationby D. Boneh, D. Brumley.
 *   [The Equivalence Between the DHP and DLP for Elliptic Curves Used in Practical Applications, Revisited](https://eprint.iacr.org/2005/307.pdf) - by K. Bentahar.
 
@@ -131,7 +130,7 @@
     *   [ChuangZhou CAN-Bus Shield](http://www.seeedstudio.com/wiki/CAN-BUS_Shield)
     *   [DFRobot CAN-BUS Shield For Arduino](http://www.dfrobot.com/index.php?route=product/product\&product_id=1444)
     *   [SparkFun CAN-BUS Shield](https://www.sparkfun.com/products/13262)
-    *   [arduino-canbus-monitor (⭐245)](https://github.com/latonita/arduino-canbus-monitor) - No matter which shield is selected you will need your own sniffer. This is implementation of standard Lawicel/SLCAN protocol for Arduino + any MCP CAN Shield to use with many standard CAN bus analysis software packages or SocketCAN
+    *   [arduino-canbus-monitor (⭐263)](https://github.com/latonita/arduino-canbus-monitor) - No matter which shield is selected you will need your own sniffer. This is implementation of standard Lawicel/SLCAN protocol for Arduino + any MCP CAN Shield to use with many standard CAN bus analysis software packages or SocketCAN
 
 ## [7. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
@@ -161,11 +160,11 @@
 
 ### CLI
 
-*   [jarro2783/cxxopts (⭐3.6k)](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. \[MIT]
+*   [jarro2783/cxxopts (⭐3.8k)](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. \[MIT]
 
 ### Graphics
 
-*   [DirectXTK (⭐2.3k)](https://github.com/Microsoft/DirectXTK) - A collection of helper classes for writing DirectX 11.x code in C++. \[MIT]
+*   [DirectXTK (⭐2.4k)](https://github.com/Microsoft/DirectXTK) - A collection of helper classes for writing DirectX 11.x code in C++. \[MIT]
 
 ## [12. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
 

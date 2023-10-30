@@ -22,12 +22,12 @@
 
 ### Cache
 
-*   [Cache (⭐2.7k)](https://github.com/hyperoslo/Cache) - Nothing but Cache.
+*   [Cache (⭐2.8k)](https://github.com/hyperoslo/Cache) - Nothing but Cache.
 
 ### HUD / Barcode
 
-*   [KRProgressHUD (⭐647)](https://github.com/krimpedance/KRProgressHUD) - A beautiful and customizable progress HUD.
-*   [PKHUD (⭐3.7k)](https://github.com/pkluz/PKHUD) - Reimplementation of the Apple HUD.
+*   [KRProgressHUD (⭐657)](https://github.com/krimpedance/KRProgressHUD) - A beautiful and customizable progress HUD.
+*   [PKHUD (⭐3.8k)](https://github.com/pkluz/PKHUD) - Reimplementation of the Apple HUD.
 
 ## [4. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Algorithms and Data structures
 
-*   [ecto\_state\_machine (⭐92)](https://github.com/asiniy/ecto_state_machine) - Finite state machine pattern implemented on Elixir and  adopted for Ecto.
+*   [ecto\_state\_machine (⭐95)](https://github.com/asiniy/ecto_state_machine) - Finite state machine pattern implemented on Elixir and  adopted for Ecto.
 
 ### Newsletters
 

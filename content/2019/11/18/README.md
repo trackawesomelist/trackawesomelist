@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 18, 2019
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -31,32 +31,38 @@
 *   [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) - A Wiki Encyclopedia dedicated to the strategy mapping techniques pioneered by Simon Wardley.
 *   [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) - Wikipedia entry.
 
-## [5. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Ruby / Tornado
+
+*   [Ruby User's Guide](https://ruby-doc.org/docs/ruby-doc-bundle/UsersGuide/rg/index.html)
+
+## [6. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### Architecture
 
 *   [*Hands-On Design Patterns with Swift* by Giordano Scalzo, Florent Vilmart, Sergio De Simone](https://www.packtpub.com/application-development/hands-design-patterns-swift#tab-label-additional)
 
-## [6. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+## [7. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ### Blog Posts & Tutorials
 
 *   [Importing, Inspecting and Scoring with MOJO models inside H2O](https://www.pavel.cool/h2o-3/h2o-mojo-import/) Dec 10, 2019
 
-## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [8. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Torrenting
 
-*   [magnetico (⭐2.8k)](https://github.com/boramalper/magnetico) Autonomous (self-hosted) BitTorrent DHT search engine suite
+*   [magnetico (⭐2.9k)](https://github.com/boramalper/magnetico) Autonomous (self-hosted) BitTorrent DHT search engine suite
 
 ### Open Directories / Free Indexers
 
 *   [andesite (⭐76)](https://github.com/nektro/andesite) Easily manage access to your open directory through OAuth2
-*   [OpenDirectoryDownloader (⭐799)](https://github.com/KoalaBear84/OpenDirectoryDownloader) Indexes open directories
+*   [OpenDirectoryDownloader (⭐926)](https://github.com/KoalaBear84/OpenDirectoryDownloader) Indexes open directories
 
 ### Plex Scripts and Tools / Third Party Hosts
 
-*   [Varken (⭐1k)](https://github.com/Boerderij/Varken) Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana for a frontend
+*   [Varken (⭐1.1k)](https://github.com/Boerderij/Varken) Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana for a frontend
 
 ### Kodi / Third Party Hosts
 
@@ -66,7 +72,7 @@
 
 ### Gaming / Third Party Hosts
 
-*   [MachineGunnur/GOG-Games (⭐8)](https://github.com/MachineGunnur/GOG-Games) A fork of Good Old Downloads' "GOG Games" hosted on Tor
+*   [MachineGunnur/GOG-Games (⭐20)](https://github.com/MachineGunnur/GOG-Games) A fork of Good Old Downloads' "GOG Games" hosted on Tor
 
 ### Software / Third Party Hosts
 
@@ -74,12 +80,12 @@
 
 ### Comicbooks / Third Party Hosts
 
-*   [Omnibus (⭐131)](https://github.com/fireshaper/Omnibus) Search for and download comics that are added to GetComics.info easily
+*   [Omnibus (⭐158)](https://github.com/fireshaper/Omnibus) Search for and download comics that are added to GetComics.info easily
 
 ### IPTV and DVR / Third Party Hosts
 
-*   [iptv-org/iptv (⭐57k)](https://github.com/iptv-org/iptv) Collection of 8000+ publicly available IPTV channels from all over the world
-*   [fastocloud (⭐13)](https://github.com/fastogt/fastocloud) IPTV/Video cloud admin panel for servers
+*   [iptv-org/iptv (⭐65k)](https://github.com/iptv-org/iptv) Collection of 8000+ publicly available IPTV channels from all over the world
+*   [fastocloud (⭐76)](https://github.com/fastogt/fastocloud) IPTV/Video cloud admin panel for servers
 
 ### Telegram Piracy / Third Party Hosts
 
@@ -87,9 +93,9 @@
 
 ### Miscellaneous / Third Party Hosts
 
-*   [netflix-proxy (⭐3.4k)](https://github.com/ab77/netflix-proxy/) Smart DNS proxy to watch Netflix out-of-region
+*   [netflix-proxy (⭐3.5k)](https://github.com/ab77/netflix-proxy/) Smart DNS proxy to watch Netflix out-of-region
 
-## [8. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
+## [9. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Other libraries and tools / Mesh tools
 
@@ -100,7 +106,7 @@
 
 *   [Nick Higham's blog](https://nhigham.com/) - Mostly on MATLAB, general computing advice.
 
-## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Databases
 

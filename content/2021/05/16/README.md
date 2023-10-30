@@ -10,7 +10,7 @@
 
 ### Integrations with Third Party Services / Mouse Events
 
-*   [react-google-autocomplete (⭐376)](https://github.com/ErrorPro/react-google-autocomplete) - Google Places API components and hooks.
+*   [react-google-autocomplete (⭐405)](https://github.com/ErrorPro/react-google-autocomplete) - Google Places API components and hooks.
 
 ## [2. Awesome Json](/content/burningtree/awesome-json/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Logging
 
-*   [fmtlog (⭐541)](https://github.com/MengRao/fmtlog) - A performant fmtlib-style logging library with latency in nanoseconds. \[MIT]
+*   [fmtlog (⭐617)](https://github.com/MengRao/fmtlog) - A performant fmtlib-style logging library with latency in nanoseconds. \[MIT]
 
 ---
 

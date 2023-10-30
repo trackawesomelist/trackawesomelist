@@ -38,14 +38,14 @@
 
 ### Utility / Barcode
 
-*   [R.swift (⭐9.1k)](https://github.com/mac-cain13/R.swift) - Tool to get strong typed, autocompleted resources like images, cells and segues.
+*   [R.swift (⭐9.3k)](https://github.com/mac-cain13/R.swift) - Tool to get strong typed, autocompleted resources like images, cells and segues.
 
 ## [5. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Applications / Directory Navigation
 
-*   [isitup (⭐54)](https://github.com/lord63/isitup) - Check whether a website is up or down
-*   [licen (⭐34)](https://github.com/lord63/licen) - Generate your license. Yet another lice, but implement with Jinja2 and docopt
+*   [isitup (⭐56)](https://github.com/lord63/isitup) - Check whether a website is up or down
+*   [licen (⭐35)](https://github.com/lord63/licen) - Generate your license. Yet another lice, but implement with Jinja2 and docopt
 
 ## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

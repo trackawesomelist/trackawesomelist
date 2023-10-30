@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 16, 2022
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,13 +10,13 @@
 
 ### Testing
 
-*   [Moq.Contrib.HttpClient (⭐176)](https://github.com/maxkagamine/Moq.Contrib.HttpClient) - A set of extension methods for mocking HttpClient and IHttpClientFactory with Moq.
+*   [Moq.Contrib.HttpClient (⭐181)](https://github.com/maxkagamine/Moq.Contrib.HttpClient) - A set of extension methods for mocking HttpClient and IHttpClientFactory with Moq.
 
 ## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Table
 
-*   [react-table-library (⭐541)](https://github.com/table-library/react-table-library) - [demo](https://react-table-library.com/) - React Table Library -- an almost headless table library -- for building better tables.
+*   [react-table-library (⭐633)](https://github.com/table-library/react-table-library) - [demo](https://react-table-library.com/) - React Table Library -- an almost headless table library -- for building better tables.
 
 ## [3. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -30,19 +30,13 @@
 
 *   [Blazor Sticker Giveaway](https://dev.to/dotnet/blazor-sticker-giveaway-try-the-new-blazor-guide-in-visual-studio-4c8b) - July 15, 2022 - Try the new Blazor Guide in Visual Studio. Read on to learn about how to give it a try and for a chance to receive a sticker.
 
-## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Wikis
-
-*   [Cowyo (⭐883)](https://github.com/schollz/cowyo) - Cowyo is a feature-rich wiki for minimalists. ([Demo](https://cowyo.com)) `MIT` `Go`
-
-## [6. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [5. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Terminal / Terminal UI
 
 *   [docui (⭐2.3k)](https://github.com/skanehira/docui) - :skull: An interactive shell UI for managing Docker containers. Also works in Windows. By [@skanehira](https://github.com/skanehira)
 
-## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Methodologies for Experiments / Virtual Reality
 

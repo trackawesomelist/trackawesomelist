@@ -36,13 +36,13 @@
 
 ### Templates / Preferences
 
-*   [Liquid Pay Payment App (⭐279)](https://github.com/longhoang2984/flutter_payment_app_ui) <!--stargazers:longhoang2984/flutter_payment_app_ui--> - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984)
+*   [Liquid Pay Payment App (⭐293)](https://github.com/longhoang2984/flutter_payment_app_ui) <!--stargazers:longhoang2984/flutter_payment_app_ui--> - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984)
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Chat
 
-*   [InputBarAccessoryView (⭐1k)](https://github.com/nathantannar4/InputBarAccessoryView) - A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.
+*   [InputBarAccessoryView (⭐1.1k)](https://github.com/nathantannar4/InputBarAccessoryView) - A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.
 
 ## [5. Motion Ui Design](/content/fliptheweb/motion-ui-design/README.md)
 
@@ -215,11 +215,11 @@
 
 ### no-std crates / WIP
 
-*   [OxCC (⭐16)](https://github.com/jonlamb-gh/oxcc): A port of Open Source Car Control written in Rust
+*   [OxCC (⭐17)](https://github.com/jonlamb-gh/oxcc): A port of Open Source Car Control written in Rust
 
 ## [7. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
-### United States 🇺🇸 / Washington   <a id="washington">  </a>
+### United States 🇺🇸 / Washington <a id="washington"></a>
 
 #### Ironclad Coffee
 
@@ -243,7 +243,7 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Lille
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/EmmanuelDemey" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/EmmanuelDemey" height="70px" width="70px" align="left" alt="" />
 
 **Emmanuel Demey**\
 Topics: Angular, JavaScript, Progressive Web Apps, Vue, React, Elasticsearch\
@@ -253,7 +253,7 @@ Topics: Angular, JavaScript, Progressive Web Apps, Vue, React, Elasticsearch\
 
 ### Montréal
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/AurelienLoyer" height="70px" width="70px" align="left" alt="">
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/AurelienLoyer" height="70px" width="70px" align="left" alt="">
 
 **Aurélien Loyer**\
 Topics: JavaScript, Angular, Vue.js, Node.js, TypeScript, IoT\

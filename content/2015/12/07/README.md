@@ -33,14 +33,10 @@
 *   [NGINX as a WebSockets Proxy](https://www.nginx.com/blog/websocket-nginx/)
 *   [HTTP Keepalive Connections and Web Performance ](https://www.nginx.com/blog/http-keepalives-and-web-performance/)
 
-### Modules development
-
-*   [Developing Nginx Modules](https://www.airpair.com/nginx/extending-nginx-tutorial)
-
 ### Hacks
 
 *   [Nginx JSON hacks](https://web.archive.org/web/20140921162448/http://www.gabrielweinberg.com/blog/2011/07/nginx-json-hacks.html)
-*   [Capture and delay unwanted requests (⭐26)](https://github.com/p0pr0ck5/lua-resty-tarpit)
+*   [Capture and delay unwanted requests (⭐25)](https://github.com/p0pr0ck5/lua-resty-tarpit)
 
 ### Nginx + Lua
 
@@ -62,7 +58,7 @@
 
 ### Third Party APIs
 
-*   [apns (⭐70)](https://github.com/chvanikoff/apns4ex) - Apple Push Notifications Service client library for elixir.
+*   [apns (⭐71)](https://github.com/chvanikoff/apns4ex) - Apple Push Notifications Service client library for elixir.
 
 ## [5. Awesome Neo4j](/content/neueda/awesome-neo4j/README.md)
 

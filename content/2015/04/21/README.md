@@ -432,7 +432,7 @@ to this,
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [MAChineLearning (⭐37)](https://github.com/gianlucabertani/MAChineLearning) - An Objective-C multilayer perceptron library, with full support for training through backpropagation. Implemented using vDSP and vecLib, it's 20 times faster than its Java equivalent. Includes sample code for use from Swift.
+*   [MAChineLearning (⭐38)](https://github.com/gianlucabertani/MAChineLearning) - An Objective-C multilayer perceptron library, with full support for training through backpropagation. Implemented using vDSP and vecLib, it's 20 times faster than its Java equivalent. Includes sample code for use from Swift.
 
 ---
 

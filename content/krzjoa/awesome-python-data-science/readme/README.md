@@ -32,7 +32,6 @@ Probably the best curated list of data science software in Python.
 *   [Machine Learning](#machine-learning)
     *   [General Purpose Machine Learning](#general-purpose-machine-learning)
     *   [Gradient Boosting](#gradient-boosting)
-    *   [Automated Machine Learning](#automated-machine-learning)
     *   [Ensemble Methods](#ensemble-methods)
     *   [Imbalanced Datasets](#imbalanced-datasets)
     *   [Random Forests](#random-forests)
@@ -44,6 +43,7 @@ Probably the best curated list of data science software in Python.
     *   [MXNet](#mxnet)
     *   [JAX](#jax)
     *   [Others](#others)
+*   [Automated Machine Learning](#automated-machine-learning)
 *   [Time Series](#time-series)
 *   [Natural Language Processing](#natural-language-processing)
 *   [Computer Audition](#computer-audition)
@@ -117,15 +117,6 @@ Probably the best curated list of data science software in Python.
 *   [ThunderGBM (⭐675)](https://github.com/Xtra-Computing/thundergbm) - Fast GBDTs and Random Forests on GPUs. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/gpu_big.png" alt="GPU accelerated">
 *   [NGBoost (⭐1.5k)](https://github.com/stanfordmlgroup/ngboost) - Natural Gradient Boosting for Probabilistic Prediction.
 *   [TensorFlow Decision Forests (⭐622)](https://github.com/tensorflow/decision-forests) - A collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models in Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="keras"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
-
-### Automated Machine Learning
-
-*   [auto-sklearn (⭐7.2k)](https://github.com/automl/auto-sklearn) - An AutoML toolkit and a drop-in replacement for a scikit-learn estimator. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [Auto-PyTorch (⭐2.1k)](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
-*   [AutoKeras (⭐9k)](https://github.com/keras-team/autokeras) - AutoML library for deep learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
-*   [AutoGluon (⭐6.3k)](https://github.com/awslabs/autogluon) - AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
-*   [TPOT (⭐9.3k)](https://github.com/rhiever/tpot) - AutoML tool that optimizes machine learning pipelines using genetic programming. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [MLBox (⭐1.4k)](https://github.com/AxeldeRomblay/MLBox) - A powerful Automated Machine Learning python library.
 
 ### Ensemble Methods
 
@@ -210,6 +201,15 @@ Probably the best curated list of data science software in Python.
 *   [autograd (⭐6.5k)](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
 *   [Caffe (⭐34k)](https://github.com/BVLC/caffe) - A fast open framework for deep learning.
 *   [nnabla (⭐2.6k)](https://github.com/sony/nnabla) - Neural Network Libraries by Sony.
+
+## Automated Machine Learning
+
+*   [auto-sklearn (⭐7.2k)](https://github.com/automl/auto-sklearn) - An AutoML toolkit and a drop-in replacement for a scikit-learn estimator. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [Auto-PyTorch (⭐2.1k)](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [AutoKeras (⭐9k)](https://github.com/keras-team/autokeras) - AutoML library for deep learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
+*   [AutoGluon (⭐6.3k)](https://github.com/awslabs/autogluon) - AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
+*   [TPOT (⭐9.3k)](https://github.com/rhiever/tpot) - AutoML tool that optimizes machine learning pipelines using genetic programming. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [MLBox (⭐1.4k)](https://github.com/AxeldeRomblay/MLBox) - A powerful Automated Machine Learning python library.
 
 ## Time Series
 

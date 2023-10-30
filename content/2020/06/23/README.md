@@ -10,19 +10,19 @@
 
 ### Godot script editor syntax themes / Godot version unknown
 
-*   [Godot syntax themes (⭐244)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
+*   [Godot syntax themes (⭐271)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Search Engines
 
-*   [sist2 (⭐547)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. `GPL-3.0` `C`
+*   [sist2 (⭐643)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. `GPL-3.0` `C/Docker`
 
 ## [3. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Utils
 
-*   [Moon (⭐182)](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
+*   [Moon (⭐186)](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
 
 ## [4. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 
@@ -56,7 +56,7 @@
 
 ### CI and CD
 
-*   [appcircle.io](https://appcircle.io) — Automated mobile CI/CD/CT for iOS and Android with online device emulators. 20 minutes build timeout (60 mins for Open Source) with single concurrency for free.
+*   [appcircle.io](https://appcircle.io) — Automated mobile CI/CD/CT for iOS and Android with online emulators. 20-minute build timeout (60 minutes for Open Source) with single concurrency for free.
 
 ### IDE and Code Editing
 
@@ -77,31 +77,29 @@
 *   [Standard (⭐28k)](https://github.com/feross/standard) - JavaScript Standard Style.
 *   [Superlint (⭐4)](https://github.com/supermind/superlint) - JavaScript Supermind Style.
 *   [XO (⭐7.2k)](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️.
-*   [Healthier (⭐79)](https://github.com/KidkArolis/healthier) - Code style agnostic version of Standard, perfect companion to Prettier.
+*   [Healthier (⭐80)](https://github.com/KidkArolis/healthier) - Code style agnostic version of Standard, perfect companion to Prettier.
 
 ### Parsers / Testing Tools
 
-*   [Babel (⭐3k)](https://github.com/babel/babel-eslint) - Use Babel's parser for linting all Babel features.
-*   [TypeScript (⭐13k)](https://github.com/typescript-eslint/typescript-eslint) - A TypeScript parser that produces output compatible with ESLint.
-*   [BrightScript (⭐43)](https://github.com/RokuRoad/eslint-plugin-roku) - BrightScript plugin for Roku development. Includes Parser and Rules.
+*   [TypeScript (⭐14k)](https://github.com/typescript-eslint/typescript-eslint) - A TypeScript parser that produces output compatible with ESLint.
+*   [BrightScript (⭐44)](https://github.com/RokuRoad/eslint-plugin-roku) - BrightScript plugin for Roku development. Includes Parser and Rules.
 
 ### Globals / Testing Tools
 
-*   [Restricted Globals (⭐16)](https://github.com/sidoshi/eslint-restricted-globals) - Expect `window` qualifier on globals that may otherwise be confusable as local variables.
-*   [ES and browser globals (⭐279)](https://github.com/sindresorhus/globals) (originally from ESLint)
+*   [ES and browser globals (⭐283)](https://github.com/sindresorhus/globals) (originally from ESLint)
 *   [chai globals (⭐2)](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
 
 ## [10. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Documentation
 
-*   [Game Boy Project Report](http://www.cs.columbia.edu/~sedwards/classes/2019/4840-spring/reports/GameBoy.pdf) - Report of an hardware [emulator (⭐2)](https://github.com/kitsuneh/SVGameBoy) (on a Terasic DE1-SoC Board) developed as final project for the CSEE4840 Embedded Systems Design course at Columbia University.
+*   [Game Boy Project Report](http://www.cs.columbia.edu/~sedwards/classes/2019/4840-spring/reports/GameBoy.pdf) - Report of an hardware [emulator (⭐3)](https://github.com/kitsuneh/SVGameBoy) (on a Terasic DE1-SoC Board) developed as final project for the CSEE4840 Embedded Systems Design course at Columbia University.
 
 ## [11. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Community Extensions
 
-*   [leroyguillaume/keycloak-bcrypt (⭐100)](https://github.com/leroyguillaume/keycloak-bcrypt)
+*   [leroyguillaume/keycloak-bcrypt (⭐110)](https://github.com/leroyguillaume/keycloak-bcrypt)
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -129,11 +127,11 @@
 
 ### Applications
 
-*   [asm-cli-rust (⭐257)](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell written in rust.
-*   [denoland/deno (⭐90k)](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
-*   [kytan (⭐394)](https://github.com/changlan/kytan) — High Performance Peer-to-Peer VPN
+*   [asm-cli-rust (⭐272)](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell written in rust.
+*   [denoland/deno (⭐91k)](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
+*   [kytan (⭐420)](https://github.com/changlan/kytan) — High Performance Peer-to-Peer VPN
 *   [linkerd/linkerd2-proxy (⭐1.8k)](https://github.com/linkerd/linkerd2-proxy) — Ultralight service mesh for Kubernetes.
-*   [rx (⭐2.8k)](https://github.com/cloudhead/rx) — Vi inspired Modern Pixel Art Editor
+*   [rx (⭐2.9k)](https://github.com/cloudhead/rx) — Vi inspired Modern Pixel Art Editor
 
 ## [16. Awesome Pagespeed Metrics](/content/csabapalfi/awesome-pagespeed-metrics/README.md)
 

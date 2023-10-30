@@ -32,27 +32,27 @@
 
 ### IDE and Code Editing
 
-*   [fakejson.com](https://fakejson.com/) — FakeJSON helps you quickly generate fake data using its API. Make an API request describing what you want and how you want it. The API returns it all in JSON. Speed up the go to market process for ideas and fake it till you make it.
+*   [fakejson.com](https://fakejson.com/) — FakeJSON helps you quickly generate fake data using its API. Make an API request describing what you want and how you want it. The API returns it all in JSON. Speed up the go-to-market process for ideas and fake it till you make it.
 
 ## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [Cofoundry (⭐752)](https://github.com/cofoundry-cms/cofoundry) - Open source .NET Core CMS and modular application framework. Code-first, unobtrusive and extensible.
+*   [Cofoundry (⭐797)](https://github.com/cofoundry-cms/cofoundry) - Open source .NET Core CMS and modular application framework. Code-first, unobtrusive and extensible.
 
 ## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Third party Guides
 
-*   [SwiftTips (⭐3.9k)](https://github.com/JohnSundell/SwiftTips) - A collection of useful tips by John Sundell.
+*   [SwiftTips (⭐4k)](https://github.com/JohnSundell/SwiftTips) - A collection of useful tips by John Sundell.
 
 ### Maps / Barcode
 
-*   [FlyoverKit (⭐693)](https://github.com/SvenTiigi/FlyoverKit) - FlyoverKit enables you to present stunning 360° flyover views on your MKMapView with zero effort while maintaining full configuration possibilities.
+*   [FlyoverKit (⭐700)](https://github.com/SvenTiigi/FlyoverKit) - FlyoverKit enables you to present stunning 360° flyover views on your MKMapView with zero effort while maintaining full configuration possibilities.
 
 ### Menu / Barcode
 
-*   [Parchment (⭐3.1k)](https://github.com/rechsteiner/Parchment) - A paging view controller with a highly customizable menu, built on UICollectionView.
+*   [Parchment (⭐3.2k)](https://github.com/rechsteiner/Parchment) - A paging view controller with a highly customizable menu, built on UICollectionView.
 
 ## [7. Awesome Algorithms Education](/content/gaerae/awesome-algorithms-education/README.md)
 

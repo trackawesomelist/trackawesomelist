@@ -10,7 +10,7 @@
 
 ### Framework Components
 
-*   [scrivener (⭐552)](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
+*   [scrivener (⭐550)](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -24,7 +24,7 @@
 
 ### Machine Learning
 
-*   [OpenCV (⭐69k)](https://github.com/Itseez/opencv) :zap: - Open Source Computer Vision Library. \[BSD] [website](http://opencv.org/)
+*   [OpenCV (⭐72k)](https://github.com/Itseez/opencv) :zap: - Open Source Computer Vision Library. \[BSD] [website](http://opencv.org/)
 
 ### Networking
 

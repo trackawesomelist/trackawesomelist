@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 31, 2018
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Navigation / Image Picker
 
-*   [PageView Indicator (⭐159)](https://github.com/leocavalcante/page_view_indicator) <!--stargazers:leocavalcante/page_view_indicator--> - Build page indicators for the PageView by [Leo Cavalcante](https://github.com/leocavalcante)
+*   [PageView Indicator (⭐160)](https://github.com/leocavalcante/page_view_indicator) <!--stargazers:leocavalcante/page_view_indicator--> - Build page indicators for the PageView by [Leo Cavalcante](https://github.com/leocavalcante)
 
 ## [3. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
 
@@ -34,17 +34,11 @@
 
 ### JupyterLab Extensions
 
-*   [drawio (⭐562)](https://github.com/QuantStack/jupyterlab-drawio) - Extension that displays drawio/mxgraph diagrams.
-*   [latex (⭐545)](https://github.com/jupyterlab/jupyterlab-latex) - Extension for live editing of LaTeX documents.
-*   [variableinspector (⭐971)](https://github.com/lckr/jupyterlab-variableInspector) - Variable inspector extension that shows variables and their values.
+*   [drawio (⭐573)](https://github.com/QuantStack/jupyterlab-drawio) - Extension that displays drawio/mxgraph diagrams.
+*   [latex (⭐563)](https://github.com/jupyterlab/jupyterlab-latex) - Extension for live editing of LaTeX documents.
+*   [variableinspector (⭐1k)](https://github.com/lckr/jupyterlab-variableInspector) - Variable inspector extension that shows variables and their values.
 
-## [6. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
-
-### Software / Version control
-
-*   [Darcs](http://darcs.net/) - Patch-based distributed version control (more info: [wiki](http://darcs.net/Theory/PekkaPatchTheory))
-
-## [7. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
+## [6. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 
 ### Live Demos
 

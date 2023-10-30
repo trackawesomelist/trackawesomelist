@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 29, 2018
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,19 +10,19 @@
 
 ### Bindings
 
-*   [vulkan-go (⭐676)](https://github.com/vulkan-go/vulkan) - Go bindings for Vulkan. \[MIT]
+*   [vulkan-go (⭐702)](https://github.com/vulkan-go/vulkan) - Go bindings for Vulkan. \[MIT]
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Graphical User Interface / MIT
+### Graphical User Interface / Apache License
 
 *   [claw](http://www.rrsoftware.com/html/prodinf/claw/claw.htm) - CLAW, a High Level, Portable, Ada 95 Binding for Microsoft Windows.
 
-### Unit Test, Testing / MIT
+### Unit Test, Testing / Apache License
 
 *   [gnatbdd (⭐5)](https://github.com/briot/gnatbdd) - Behavior Driven Development in Ada.
 
-### System Modeling / MIT
+### System Modeling / Apache License
 
 *   [ada-fuzzy (⭐3)](https://github.com/briot/adafuzzy) - A fuzzy inference system library for Ada.
 
@@ -42,55 +42,49 @@
 
 ### Other Tools / Telegram
 
-*   [sn0int (⭐1.5k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
+*   [sn0int (⭐1.6k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 
-## [6. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
-### Logging
+### Packages / Security
 
-*   [p6spy (⭐1.8k)](https://github.com/p6spy/p6spy) - Enables logging for all JDBC transactions without changes to the code.
+*   [GuardRails](https://github.com/apps/guardrails) - GitHub app that provides security feedback in pull requests.
 
-### Messaging
+## [7. Awesome Java](/content/akullpp/awesome-java/README.md)
+
+### Logging / Text-Based User Interfaces
+
+*   [p6spy (⭐1.9k)](https://github.com/p6spy/p6spy) - Enables logging for all JDBC transactions without changes to the code.
+
+### Messaging / Text-Based User Interfaces
 
 *   [Apache Qpid](https://qpid.apache.org) - Apache Qpid makes messaging tools that speak AMQP and support many languages and platforms.
-*   [RabbitMQ Java client (⭐1.1k)](https://github.com/rabbitmq/rabbitmq-java-client) - RabbitMQ client.
+*   [RabbitMQ Java client (⭐1.2k)](https://github.com/rabbitmq/rabbitmq-java-client) - RabbitMQ client.
 
-### Miscellaneous
+### Miscellaneous / Text-Based User Interfaces
 
 *   [JCuda](http://jcuda.org) - JCuda offers Java bindings for CUDA and CUDA-related libraries.
 
-### Monitoring
+### Monitoring / Text-Based User Interfaces
 
-*   [Jaeger client (⭐485)](https://github.com/jaegertracing/jaeger-client-java) - Jaeger client.
+*   [Jaeger client (⭐490)](https://github.com/jaegertracing/jaeger-client-java) - Jaeger client.
 
 ### Security / Other
 
-*   [Kalium (⭐206)](https://github.com/abstractj/kalium) - Binding for the Networking and Cryptography (NaCl) library.
+*   [Kalium (⭐207)](https://github.com/abstractj/kalium) - Binding for the Networking and Cryptography (NaCl) library.
 
 ### Websites / Other
 
 *   [Baeldung](https://www.baeldung.com)
 *   [Dzone](https://dzone.com)
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Bookmarks and Link Sharing
-
-*   [xBrowserSync](https://www.xbrowsersync.org) - Open source tool for syncing browser data between browsers and devices. ([Source Code](https://github.com/xBrowserSync)) `MIT` `Nodejs`
-
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Serialization
 
-*   [nanopb (⭐3.6k)](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
+*   [nanopb (⭐3.7k)](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
 
-## [9. Awesome Security](/content/sbilly/awesome-security/README.md)
-
-### Web / Development
-
-*   [GuardRails](https://github.com/apps/guardrails) - A GitHub App that provides security feedback in Pull Requests.
-
-## [10. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [9. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### General
 

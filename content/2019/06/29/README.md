@@ -28,15 +28,15 @@
 
 ### Packages / Image
 
-*   [qrcode (⭐6.6k)](https://github.com/soldair/node-qrcode) - QR code and bar code generator.
+*   [qrcode (⭐6.8k)](https://github.com/soldair/node-qrcode) - QR code and bar code generator.
 
 ### Packages / Job queues
 
-*   [better-queue (⭐441)](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
+*   [better-queue (⭐462)](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
 
 ### Packages / Node.js management
 
-*   [nodenv (⭐2k)](https://github.com/nodenv/nodenv) - Version manager that is similar to Ruby's rbenv. It supports auto version switching.
+*   [nodenv (⭐2.1k)](https://github.com/nodenv/nodenv) - Version manager that is similar to Ruby's rbenv. It supports auto version switching.
 
 ## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -58,19 +58,19 @@
 
 ### Frameworks, Libraries and Tools / Operating System
 
-*   [CosmosOS (⭐2.5k)](https://github.com/CosmosOS/Cosmos) - Cosmos is an operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more!
+*   [CosmosOS (⭐2.7k)](https://github.com/CosmosOS/Cosmos) - Cosmos is an operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more!
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Cryptography
 
-*   [sodium.cr (⭐45)](https://github.com/didactic-drunk/sodium.cr) - Crystal wrapper for the libsodium crypto API
+*   [sodium.cr (⭐46)](https://github.com/didactic-drunk/sodium.cr) - Crystal wrapper for the libsodium crypto API
 
 ## [9. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
 ### Related Lists
 
-*   [https://github.com/openblockchains/awesome-blockchains (⭐3.6k)](https://github.com/openblockchains/awesome-blockchains)
+*   [https://github.com/openblockchains/awesome-blockchains (⭐3.7k)](https://github.com/openblockchains/awesome-blockchains)
 
 ---
 

@@ -22,13 +22,13 @@
 
 ### UI
 
-*   [Facebook Reactions (⭐313)](https://github.com/duytq94/facebook-reaction-animation) <!--stargazers:duytq94/facebook-reaction-animation--> - Facebook reactions widget by [Duy Tran](https://github.com/duytq94)
+*   [Facebook Reactions (⭐356)](https://github.com/duytq94/facebook-reaction-animation) <!--stargazers:duytq94/facebook-reaction-animation--> - Facebook reactions widget by [Duy Tran](https://github.com/duytq94)
 
 ## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Converters
 
-*   [money (⭐27)](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney (⭐2.6k)](https://github.com/RubyMoney/money))
+*   [money (⭐30)](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney (⭐2.6k)](https://github.com/RubyMoney/money))
 
 ## [5. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Bibliography / HTML+CSS+JS
 
-*   [org-ref (⭐1.2k)](https://github.com/jkitchin/org-ref): Citations, cross-references, indexes, glossaries, and bibtex utitlies for org-mode in Emacs.
+*   [org-ref (⭐1.3k)](https://github.com/jkitchin/org-ref): Citations, cross-references, indexes, glossaries, and bibtex utitlies for org-mode in Emacs.
 
 ### Forums and Q&A's / HTML+CSS+JS
 
@@ -69,7 +69,7 @@
 
 ### Packages / Command-line utilities
 
-*   [cli-table3 (⭐439)](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
+*   [cli-table3 (⭐469)](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
 
 ## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [Piranha CMS (⭐1.7k)](https://github.com/piranhacms/piranha.core) - A Lightweight & Unobtrusive Open Source CMS for ASP.NET Core and Entity Framework Core.
+*   [Piranha CMS (⭐1.8k)](https://github.com/piranhacms/piranha.core) - A Lightweight & Unobtrusive Open Source CMS for ASP.NET Core and Entity Framework Core.
 
 ## [11. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
@@ -92,8 +92,8 @@
 
 ### GUI
 
-*   [Robo 3T (⭐9.1k)](https://github.com/Studio3T/robomongo) - Robo 3T (formerly Robomongo) is a shell-centric cross-platform MongoDB management tool.
-*   [Tabix (⭐1.8k)](https://github.com/tabixio/tabix) - SQL Editor & Open source simple business intelligence for Clickhouse.
+*   [Robo 3T (⭐9.2k)](https://github.com/Studio3T/robomongo) - Robo 3T (formerly Robomongo) is a shell-centric cross-platform MongoDB management tool.
+*   [Tabix (⭐2k)](https://github.com/tabixio/tabix) - SQL Editor & Open source simple business intelligence for Clickhouse.
 
 ### CLI
 
@@ -101,8 +101,8 @@
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [pganalyze collector (⭐256)](https://github.com/pganalyze/collector) - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
-*   [PgHero (⭐6.9k)](https://github.com/ankane/pghero) - A performance dashboard for Postgres - health checks, suggested indexes, and more.
+*   [pganalyze collector (⭐292)](https://github.com/pganalyze/collector) - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
+*   [PgHero (⭐7.2k)](https://github.com/ankane/pghero) - A performance dashboard for Postgres - health checks, suggested indexes, and more.
 
 ### DevOps / Zabbix
 
@@ -118,7 +118,7 @@
 
 ### Cards / Barcode
 
-*   [VerticalCardSwiper (⭐1.2k)](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with UICollectionView.
+*   [VerticalCardSwiper (⭐1.3k)](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with UICollectionView.
 
 ## [14. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
 

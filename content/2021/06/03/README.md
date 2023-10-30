@@ -46,7 +46,7 @@
 
 ### Music Notation
 
-*   [OpenSheetMusicDisplay (⭐1.1k)](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - Typescript library for rendering MusicXML in the browser.
+*   [OpenSheetMusicDisplay (⭐1.2k)](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - Typescript library for rendering MusicXML in the browser.
 
 ## [4. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 

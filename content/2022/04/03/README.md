@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 03, 2022
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,13 +12,19 @@
 
 *   [algofractals (⭐2)](https://github.com/aorumbayev/algofractals) - Mint randomly generated mandelbrot fractals with embedded ARC69 tags.
 
-## [2. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Odin / PicoLisp
+
+*   [Overview | Odin Programming Language](https://odin-lang.org/docs/overview/)
+
+## [3. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Schema / Changes
 
-*   [Atlas (⭐2.6k)](https://github.com/ariga/atlas) - Inspect and Apply changes to your database schema.
-*   [Reshape (⭐1.4k)](https://github.com/fabianlindfors/reshape) - An easy-to-use, zero-downtime schema migration tool for Postgres.
-*   [sqldef (⭐1.5k)](https://github.com/k0kubun/sqldef) - Idempotent schema management for MySQL, PostgreSQL, and more.
+*   [Atlas (⭐3.9k)](https://github.com/ariga/atlas) - Inspect and Apply changes to your database schema.
+*   [Reshape (⭐1.5k)](https://github.com/fabianlindfors/reshape) - An easy-to-use, zero-downtime schema migration tool for Postgres.
+*   [sqldef (⭐1.7k)](https://github.com/k0kubun/sqldef) - Idempotent schema management for MySQL, PostgreSQL, and more.
 
 ### Schema / Diagrams
 
@@ -27,10 +33,10 @@
 ### Schema / Documentations
 
 *   [dbdocs](https://dbdocs.io/) - Create web-based database documentation using DSL code.
-*   [DBML (⭐1.7k)](https://github.com/holistics/dbml) - Database Markup Language, designed to define and document database structures.
-*   [SchemaCrawler (⭐1.3k)](https://github.com/schemacrawler/SchemaCrawler) - A free database schema discovery and comprehension tool.
-*   [Schema Spy (⭐2.5k)](https://github.com/schemaspy/schemaspy) - Generating your database to HTML documentation, including Entity Relationship diagrams.
-*   [tbls (⭐2.2k)](https://github.com/k1LoW/tbls) - CI-Friendly tool for document a database, written in Go.
+*   [DBML (⭐2.1k)](https://github.com/holistics/dbml) - Database Markup Language, designed to define and document database structures.
+*   [SchemaCrawler (⭐1.5k)](https://github.com/schemacrawler/SchemaCrawler) - A free database schema discovery and comprehension tool.
+*   [Schema Spy (⭐2.8k)](https://github.com/schemaspy/schemaspy) - Generating your database to HTML documentation, including Entity Relationship diagrams.
+*   [tbls (⭐2.6k)](https://github.com/k1LoW/tbls) - CI-Friendly tool for document a database, written in Go.
 
 ### Schema / Design
 
@@ -38,11 +44,11 @@
 *   [ERBuilder Data Modeler](https://soft-builder.com/erbuilder-data-modeler) - Easy-to-use database modeling software for high-quality data models. It's a complete data modeling solution for data modelers and data architects.
 *   [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - A powerful and cost-effective database design tool which helps you build high-quality conceptual, logical and physical data models.
 *   [Oracle SQL Developer Data Modeler](http://www.oracle.com/technetwork/developer-tools/datamodeler/overview/index.html) - Oracle SQL Developer Data Modeler is a free graphical tool that enhances productivity and simplifies data modeling tasks.
-*   [pgmodeler (⭐2.6k)](https://github.com/pgmodeler/pgmodeler) - Data modeling tool designed for PostgreSQL.
+*   [pgmodeler (⭐2.8k)](https://github.com/pgmodeler/pgmodeler) - Data modeling tool designed for PostgreSQL.
 
 ### Schema / Samples
 
-*   [Oracle Database Sample Schemas (⭐575)](https://github.com/oracle/db-sample-schemas) - Oracle Database Sample Schemas.
+*   [Oracle Database Sample Schemas (⭐633)](https://github.com/oracle/db-sample-schemas) - Oracle Database Sample Schemas.
 
 ### Monitoring/Statistics/Perfomance / Samples
 
@@ -51,75 +57,70 @@
 
 ### Testing / Zabbix
 
-*   [SQLancer (⭐1.2k)](https://github.com/sqlancer/sqlancer) - Automatically test DBMS in order to find logic bugs in their implementation.
+*   [SQLancer (⭐1.3k)](https://github.com/sqlancer/sqlancer) - Automatically test DBMS in order to find logic bugs in their implementation.
 
 ### HA/Failover/Sharding / Zabbix
 
-*   [pgslice (⭐907)](https://github.com/ankane/pgslice) - Postgres partitioning as easy as pie.
+*   [pgslice (⭐967)](https://github.com/ankane/pgslice) - Postgres partitioning as easy as pie.
 
 ### Data / Generation/Masking/Subsetting
 
-*   [Benerator (⭐103)](https://github.com/rapiddweller/rapiddweller-benerator-ce) - Generate, obfuscate (anonymize / pseudonymize) and migrate data for development, testing and training purposes.
+*   [Benerator (⭐115)](https://github.com/rapiddweller/rapiddweller-benerator-ce) - Generate, obfuscate (anonymize / pseudonymize) and migrate data for development, testing and training purposes.
 *   [dbForge Data Generator for MySQL](https://www.devart.com/dbforge/mysql/data-generator) - Powerful GUI tool for creating massive volumes of realistic test data.
 *   [dbForge Data Generator for Oracle](https://www.devart.com/dbforge/oracle/data-generator) - Small but mighty GUI tool for populating Oracle schemas with tons of realistic test data.
 *   [dbForge Data Generator for SQL Server](https://www.devart.com/dbforge/sql/data-generator) - Powerful GUI tool for a fast generation of meaningful test data for databases.
-*   [Faker (⭐9k)](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and Node.js.
-*   [Noisia (⭐675)](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL.
+*   [Faker (⭐11k)](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and Node.js.
+*   [Noisia (⭐685)](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL.
 *   [SB Data Generator](https://soft-builder.com/sb-data-generator) - Simple and powerful tool to generate and populate selected tables or entire databases with realistic test data for your applications. Generate test data for: Oracle, MS SQL Server, MySQL, PostgreSQL, Firebird, SQLite, Azure SQL Database, Amazon Redshift and Amazon RDS.
 
-## [3. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [4. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Entertainment
 
-*   [Tachidesk-Sorayomi (⭐247)](https://github.com/Suwayomi/Tachidesk-Sorayomi) - Frontend for [Tachidesk-server](https://github.com/tortuvshin/open-source-flutter-apps/blob/master/README.md/github.com/Suwayomi/Tachidesk-server/), based on Tachiyomi to read manga in desktop by [DattatreyaReddy](https://github.com/DattatreyaReddy).
+*   [Tachidesk-Sorayomi (⭐393)](https://github.com/Suwayomi/Tachidesk-Sorayomi) - Frontend for [Tachidesk-server](https://github.com/tortuvshin/open-source-flutter-apps/blob/master/README.md/github.com/Suwayomi/Tachidesk-server/), based on Tachiyomi to read manga in desktop by [DattatreyaReddy](https://github.com/DattatreyaReddy).
 
 ### Contents / Media
 
-*   [Stream Music Player (⭐42)](https://github.com/vellt/GetX-Stream-Music-Player-Flutter) - A music player for online content with GetX architecture by [vellt](https://github.com/vellt).
+*   [Stream Music Player (⭐45)](https://github.com/vellt/GetX-Stream-Music-Player-Flutter) - A music player for online content with GetX architecture by [vellt](https://github.com/vellt).
 
-## [4. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+## [5. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / YouTube
 
-*   [OpenVideoDownloader aka jely2002/youtube-dl-gui (⭐5.6k)](https://github.com/jely2002/youtube-dl-gui): A cross-platform GUI for youtube-dl made in Electron and node.js
-*   [LibreTube (⭐4.6k)](https://github.com/libre-tube/LibreTube): Android frontend for YouTube, based on Piped
-*   [BlackHole (⭐4.7k)](https://github.com/Sangwan5688/BlackHole): Android music player app for YouTube Music and Spotify made with Flutter
-
-### Overview / Imgur
-
-*   [imgrs](https://git.geraldwu.com/gerald/imgrs): Imgrs is a free and open-source alternative Imgur front-end focused on privacy. It's a Rust rewrite of a previous Imgur proxy project, Omgur.
-    *   Mirror of the original repository on Github: [https://github.com/geraldwuhoo/imgrs (⭐2)](https://github.com/geraldwuhoo/imgrs)
+*   [OpenVideoDownloader aka jely2002/youtube-dl-gui (⭐5.8k)](https://github.com/jely2002/youtube-dl-gui): A cross-platform GUI for youtube-dl made in Electron and node.js
+*   [LibreTube (⭐5.7k)](https://github.com/libre-tube/LibreTube): Android frontend for YouTube, based on Piped
+*   [BlackHole (⭐5.8k)](https://github.com/Sangwan5688/BlackHole): Android music player app for YouTube Music and Spotify made with Flutter
 
 ### Overview / Spotify
 
-*   [spotube (⭐2.5k)](https://github.com/KRTirtho/spotube): A lightweight and free Spotify crossplatform-client which handles playback manually, streams music using Youtube & no Spotify premium account is needed
-*   [SpotX (⭐5.8k)](https://github.com/amd64fox/SpotX): Modified Spotify Client for Windows (Windows Only) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more
-*   [kotify (⭐24)](https://github.com/dzirbel/kotify): Requires Spotify Account - Multiplatform desktop client for Spotify focused on library organization for power users. Relies on official Spotify client for playback
+*   [spotube (⭐3.5k)](https://github.com/KRTirtho/spotube): A lightweight and free Spotify crossplatform-client which handles playback manually, streams music using Youtube & no Spotify premium account is needed
+*   [SpotX (⭐7.7k)](https://github.com/amd64fox/SpotX): Modified Spotify Client for Windows (Windows Only) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more
+*   [kotify (⭐34)](https://github.com/dzirbel/kotify): Requires Spotify Account - Multiplatform desktop client for Spotify focused on library organization for power users. Relies on official Spotify client for playback
 
 ### Overview / Apple Music
 
-*   [Cider (⭐6.2k)](https://github.com/ciderapp/Cider): Cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind
+*   [Cider (⭐6.5k)](https://github.com/ciderapp/Cider): Cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind
 
 ### Overview / Twitch
 
-*   [streamlink-twitch-gui (⭐2.4k)](https://github.com/streamlink/streamlink-twitch-gui): Multi platform Twitch.tv browser for Streamlink
-*   [Twire (⭐798)](https://github.com/twireapp/Twire): Alternative and open source Twitch client for Android
-*   [Xtra (⭐553)](https://github.com/crackededed/Xtra): Twitch player and browser for Android
-*   [ElectronPlayer (⭐417)](https://github.com/oscartbeaumont/ElectronPlayer): Electron Based Web Video Services Player. Supports Netflix, Youtube, Twitch, Floatplane, Hulu and more
+*   [streamlink-twitch-gui (⭐2.5k)](https://github.com/streamlink/streamlink-twitch-gui): Multi platform Twitch.tv browser for Streamlink
+*   [Twire (⭐871)](https://github.com/twireapp/Twire): Alternative and open source Twitch client for Android
+*   [Xtra (⭐693)](https://github.com/crackededed/Xtra): Twitch player and browser for Android
+*   [ElectronPlayer (⭐449)](https://github.com/oscartbeaumont/ElectronPlayer): Electron Based Web Video Services Player. Supports Netflix, Youtube, Twitch, Floatplane, Hulu and more
 
 ### Overview / Google Search
 
-*   [SearXNG (⭐4.2k)](https://github.com/searxng/searxng): SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled (SearXNG is a fork of searx)
-*   [LibreX (⭐475)](https://github.com/hnhx/librex): Privacy respecting free meta search engine (free as in freedom)
+*   [SearXNG (⭐4.9k)](https://github.com/searxng/searxng): SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled (SearXNG is a fork of searx)
+*   [LibreX (⭐632)](https://github.com/hnhx/librex): Privacy respecting free meta search engine (free as in freedom)
     *   Small and simple meta search engine, fetches and anonymizes results from Google only, has API support, allows redirects to Invidious/ Bibliogram/ Nitter/ Libreddit
 
 ### Overview / Facebook Messenger
 
-*   [Caprine (⭐6.6k)](https://github.com/sindresorhus/caprine): Unofficial and privacy-focused Facebook Messenger app with many useful features
+*   [Caprine (⭐6.7k)](https://github.com/sindresorhus/caprine): Unofficial and privacy-focused Facebook Messenger app with many useful features
 
 ### Overview / Shazam
 
-*   [SongRec (⭐888)](https://github.com/marin-m/SongRec): Open-source Shazam client for Linux, written in Rust
+*   [SongRec (⭐977)](https://github.com/marin-m/SongRec): Open-source Shazam client for Linux, written in Rust
 
 ### Overview / Other services
 
@@ -134,19 +135,19 @@
     *   For an explanation about the origin of Youtube Vanced see here: <https://old.reddit.com/r/Vanced/comments/o3xm9m/if_youtube_vanced_isnt_open_source_and_doesnt/h2ec7wf/>
     *   Vanced was forced to shut down by Google due to legal reasons. The project <https://github.com/revanced> tries to continue its legacy
 
-## [5. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+## [6. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Python / Time Series
 
-*   [gluon-ts (⭐3.6k)](https://github.com/awslabs/gluon-ts) - vProbabilistic time series modeling in Python.
+*   [gluon-ts (⭐3.8k)](https://github.com/awslabs/gluon-ts) - vProbabilistic time series modeling in Python.
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### CDN and Protection
 
-*   [weserv](https://images.weserv.nl/) — An image cache & resize service. Manipulate images on-the-fly with a worldwide cache.
+*   [weserv](https://images.weserv.nl/) — An image cache & resize service. Manipulate images on the fly with a worldwide cache.
 
-## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Board support crates / STMicroelectronics
 

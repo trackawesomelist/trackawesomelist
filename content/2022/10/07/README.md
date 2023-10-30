@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 07, 2022
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,55 +14,61 @@
 
 ## [2. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
 
-### [Octohint (⭐956)](https://github.com/pd4d10/octohint) <a href="https://chrome.google.com/webstore/detail/octohint/hbkpjkfdheainjkkebeoofkpgddnnbpk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+### [Octohint (⭐961)](https://github.com/pd4d10/octohint) <a href="https://chrome.google.com/webstore/detail/octohint/hbkpjkfdheainjkkebeoofkpgddnnbpk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 The missing IntelliSense hint for GitHub and GitLab
 
-Installs: 5000 | Stars: 956 | Last update: 4 Feb 2022
+Installs: 5000 | Stars: 961 | Last update: 4 Feb 2022
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### DBaaS
+### Managed Data Services
 
-*   [Planetscale](https://planetscale.com/) - PlanetScale is a MySQL compatible, serverless database platform powered by Vitess, 1 databases for free with 1 Production branch and 1 Development branch, 5GB storage, 1 Billion rows read/mo per database, and 10 Million rows written/mo per database.
+*   [Planetscale](https://planetscale.com/) - PlanetScale is a MySQL-compatible, serverless database platform powered by Vitess, one database for free with 1 Production branch and 1 Development branch, 5GB storage, 1 Billion rows read/mo per database, and 10 Million rows written/mo per database.
 
 ## [4. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Schema / Diagrams
 
-*   [Azimutt (⭐503)](https://github.com/azimuttapp/azimutt) - An Entity Relationship diagram (ERD) visualization tool, with various filters and inputs to help understand your database schema.
+*   [Azimutt (⭐751)](https://github.com/azimuttapp/azimutt) - An Entity Relationship diagram (ERD) visualization tool, with various filters and inputs to help understand your database schema.
 
 ### SQL / Analyzers
 
-*   [SQLLineage (⭐598)](https://github.com/reata/sqllineage) - SQL Lineage Analysis Tool powered by Python.
+*   [SQLLineage (⭐843)](https://github.com/reata/sqllineage) - SQL Lineage Analysis Tool powered by Python.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [conda (⭐298)](https://github.com/conda-incubator/conda-zsh-completion) - ZSH tab completion for [conda](http://conda.pydata.org/).
+*   [conda (⭐316)](https://github.com/conda-incubator/conda-zsh-completion) - ZSH tab completion for [conda](http://conda.pydata.org/).
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [purpleblood (⭐0)](https://github.com/HFMorais/oh-my-zsh-purpleblood-theme/) - Based on [darkblood (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/darkblood.zsh-theme). Includes decorators for `username@host`, `git` status, and current directory.
+*   [purpleblood (⭐0)](https://github.com/HFMorais/oh-my-zsh-purpleblood-theme/) - Based on [darkblood (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/darkblood.zsh-theme). Includes decorators for `username@host`, `git` status, and current directory.
 
-## [6. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### TypeScript / Vapor
+
+*   [TypeScript Notes for Professionals](https://goalkicker.com/TypeScriptBook2/) - Compiled from StackOverflow documentation ([PDF](https://goalkicker.com/TypeScriptBook2/TypeScriptNotesForProfessionals.pdf))
+
+## [7. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Developer Tools
 
 *   [BetterOCaml](https://betterocaml.ml) – An efficient, intuitive and cross-platform web IDE with your OCaml code interpreted and running in your browser!
 
-## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [8. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Build and Package / MIT
+### Build and Package / Apache License
 
-*   [aura (⭐16)](https://github.com/annexi-strayline/AURA) - An integrated build and source/package management tool with a more hands-on versioning approach. Alternative to alire and gprbuild. Optimized for CI/CD pipelines.
+*   [aura (⭐18)](https://github.com/annexi-strayline/AURA) - An integrated build and source/package management tool with a more hands-on versioning approach. Alternative to alire and gprbuild. Optimized for CI/CD pipelines.
 
-### Components / MIT
+### Components / Apache License
 
-*   [asap (⭐5)](https://github.com/annexi-strayline/ASAP) - A set of general libraries and thick bindings for use with the AURA package management/build tool. Includes TCP, TLS, HTTP, a high-performance JSON parser/generator, and a formally verified (SPARK) UTF-8 stream decoder.
+*   [asap (⭐6)](https://github.com/annexi-strayline/ASAP) - A set of general libraries and thick bindings for use with the AURA package management/build tool. Includes TCP, TLS, HTTP, a high-performance JSON parser/generator, and a formally verified (SPARK) UTF-8 stream decoder.
 
-## [8. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
+## [9. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
 
 ### Specific topics / Secret key cryptography
 
@@ -76,7 +82,7 @@ Installs: 5000 | Stars: 956 | Last update: 4 Feb 2022
 
 *   [MAYO: Practical Post-Quantum Signatures from Oil-and-Vinegar Maps](https://eprint.iacr.org/2021/1144.pdf) - The Oil and Vinegar signature scheme, proposed in 1997 by Patarin, is one of the oldest and best-understood multivariate quadratic signature schemes. It has excellent performance and signature sizes. This paper is about enhancing this algorithm in usage in the post-quantum era. [Official website](https://pqmayo.org/).
 
-## [9. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [10. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Party
 
@@ -90,43 +96,43 @@ Installs: 5000 | Stars: 956 | Last update: 4 Feb 2022
 | ------: | -------: | -----: |
 |   2 - 6 |       10 | 20-40m |
 
-## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Web Application Framework
 
-*   [userver (⭐1.7k)](https://github.com/userver-framework/userver) - Asynchronous C++17 framework with a rich set of abstractions and database drivers for fast and comfortable creation of efficient microservices, services and utilities. \[Apache-2.0] [website](https://userver.tech/)
+*   [userver (⭐2k)](https://github.com/userver-framework/userver) - Asynchronous C++17 framework with a rich set of abstractions and database drivers for fast and comfortable creation of efficient microservices, services and utilities. \[Apache-2.0] [website](https://userver.tech/)
 
-## [11. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+## [12. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
 ### Applications
 
-*   [FilePizza ☠️ (⭐4k)](https://github.com/kern/filepizza): Free peer-to-peer file transfers in your browser.
+*   [FilePizza ☠️ (⭐4.1k)](https://github.com/kern/filepizza): Free peer-to-peer file transfers in your browser.
 
-## [12. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [13. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
-*   [PVS-Studio](https://pvs-studio.com) :copyright: — A ([conditionally free](https://pvs-studio.com/en/order/open-source-license) for FOSS and individual developers) static analysis of C, C++, C# and Java code. For advertising purposes [you can propose a large FOSS project for analysis by PVS employees (⭐28)](https://github.com/viva64/pvs-studio-check-list). Supports CWE mapping, OWASP ASVS, MISRA, AUTOSAR and SEI CERT coding standards.
+*   [PVS-Studio](https://pvs-studio.com) :copyright: — A ([conditionally free](https://pvs-studio.com/en/order/open-source-license) for FOSS and individual developers) static analysis of C, C++, C# and Java code. For advertising purposes [you can propose a large FOSS project for analysis by PVS employees (⭐29)](https://github.com/viva64/pvs-studio-check-list). Supports CWE mapping, OWASP ASVS, MISRA, AUTOSAR and SEI CERT coding standards.
 
-## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Science Logology / Science of Science
 
 *   [Science of Science](http://ctbergstrom.com/publications/pdfs/2018Science.pdf) - ***Science***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=6471468823556848055\&hl=en\&as_sdt=0,5)]. A comprehensive large-scale review on the science of science.
 
-## [14. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [15. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Electron
 
-*   [electron-vue-template (⭐327)](https://github.com/Deluze/electron-vue-template) - Electron template with TypeScript, including Electron Builder.
+*   [electron-vue-template (⭐409)](https://github.com/Deluze/electron-vue-template) - Electron template with TypeScript, including Electron Builder.
 
-## [15. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [16. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Articles / Others
 
 *   [Creating a Generic Tree View Blazor Component](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/creating-a-generic-tree-view-blazor-component/ba-p/3640237) - October 4, 2022 - This article shows off a Blazor component that can display an object recursively in a tree view. The component was made as part as a project, FHIR Watch, a tool for comparing FHIR data from two different data sources: FHIR API Service and Dataverse. As such, it is particularly useful for displaying FHIR data.
 
-## [16. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+## [17. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ### Web3XR / Realms
 

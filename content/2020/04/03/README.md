@@ -10,12 +10,12 @@
 
 ### Security
 
-*   [BreachDetector ★11 (⭐79)](https://github.com/nmilcoff/BreachDetector) - Detect root, emulation, debug mode and other security concerns in your Xamarin apps.
-*   [Permissions ★255 (⭐285)](https://github.com/jamesmontemagno/PermissionsPlugin) - Simple cross platform plugin to check connection status of mobile device, gather connection type, bandwidths, and more.
+*   [BreachDetector ★11 (⭐83)](https://github.com/nmilcoff/BreachDetector) - Detect root, emulation, debug mode and other security concerns in your Xamarin apps.
+*   [Permissions ★255 (⭐286)](https://github.com/jamesmontemagno/PermissionsPlugin) - Simple cross platform plugin to check connection status of mobile device, gather connection type, bandwidths, and more.
 
 ### Xamarin.Forms
 
-*   [Circle Image Control (⭐244)](https://github.com/jamesmontemagno/ImageCirclePlugin) - Simple but elegant way of display circle images in your Xamarin.Forms projects.
+*   [Circle Image Control (⭐245)](https://github.com/jamesmontemagno/ImageCirclePlugin) - Simple but elegant way of display circle images in your Xamarin.Forms projects.
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -27,25 +27,25 @@
 
 ### Plugins and scripts / Godot version unknown
 
-*   [Godot Game Tools (⭐339)](https://github.com/vini-guerrero/Godot_Game_Tools) - Blender plugin to ease importing assets into Godot.
+*   [Godot Game Tools (⭐341)](https://github.com/vini-guerrero/Godot_Game_Tools) - Blender plugin to ease importing assets into Godot.
 
 ## [4. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Tools / Monitoring
 
-*   [mongotail (⭐182)](https://github.com/mrsarm/mongotail) - Log all MongoDB queries in a "tail"able way
+*   [mongotail (⭐187)](https://github.com/mrsarm/mongotail) - Log all MongoDB queries in a "tail"able way
 
 ## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### JVM and JDK
+### JVM and JDK / Text-Based User Interfaces
 
-*   [Dragonwell8 (⭐3.8k)](https://github.com/alibaba/dragonwell8) - Downstream version of OpenJDK optimized for online e-commerce, financial, logistics applications.
+*   [Dragonwell8 (⭐4k)](https://github.com/alibaba/dragonwell8) - Downstream version of OpenJDK optimized for online e-commerce, financial, logistics applications.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Inter-process communication
 
-*   [eCAL (⭐6)](https://github.com/continental/ecal) - Pub/sub, client/server, C++/Python/C#, various message protocols (protobuf, capnproto ..). \[Apache2] [website](http://www.ecal.io/)
+*   [eCAL (⭐7)](https://github.com/continental/ecal) - Pub/sub, client/server, C++/Python/C#, various message protocols (protobuf, capnproto ..). \[Apache2] [website](http://www.ecal.io/)
 
 ## [7. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [freqtrade (⭐22k)](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
+*   [freqtrade (⭐23k)](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 
 ## [11. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

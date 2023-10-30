@@ -15,21 +15,21 @@
 
 ### Tools
 
-*   [keycloak-config-cli: Configuration as Code for Keycloak (⭐513)](https://github.com/adorsys/keycloak-config-cli)
+*   [keycloak-config-cli: Configuration as Code for Keycloak (⭐578)](https://github.com/adorsys/keycloak-config-cli)
 
 ## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Events
 
-*   [OpenCombine (⭐2.4k)](https://github.com/OpenCombine/OpenCombine) - Open source implementation of Apple's Combine framework for processing values over time.
+*   [OpenCombine (⭐2.6k)](https://github.com/OpenCombine/OpenCombine) - Open source implementation of Apple's Combine framework for processing values over time.
 
 ### Calendar / Barcode
 
-*   [ElegantCalendar (⭐627)](https://github.com/ThasianX/ElegantCalendar) - The elegant full screen calendar missed in SwiftUI.
+*   [ElegantCalendar (⭐728)](https://github.com/ThasianX/ElegantCalendar) - The elegant full screen calendar missed in SwiftUI.
 
 ### Label / Barcode
 
-*   [Atributika (⭐1.2k)](https://github.com/psharanda/Atributika) - TConvert text with HTML tags, links, hashtags, mentions into NSAttributedString. Make them clickable with UILabel drop-in replacement.
+*   [Atributika (⭐1.3k)](https://github.com/psharanda/Atributika) - TConvert text with HTML tags, links, hashtags, mentions into NSAttributedString. Make them clickable with UILabel drop-in replacement.
 
 ## [3. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -53,8 +53,8 @@
 
 ### Authentication
 
-*   [TheIdServer (⭐560)](https://github.com/Aguafrommars/TheIdServer) - ![stars](https://img.shields.io/github/stars/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=86400) OpenID/Connect server base on IdentityServer4.
-*   [Blorc.OpenIdConnect (⭐63)](https://github.com/WildGums/Blorc.OpenIdConnect) - ![stars](https://img.shields.io/github/stars/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=86400) The right way to use OpenID Connect on Blazor.
+*   [TheIdServer (⭐613)](https://github.com/Aguafrommars/TheIdServer) - ![stars](https://img.shields.io/github/stars/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=86400) OpenID/Connect server base on IdentityServer4.
+*   [Blorc.OpenIdConnect (⭐73)](https://github.com/WildGums/Blorc.OpenIdConnect) - ![stars](https://img.shields.io/github/stars/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=86400) The right way to use OpenID Connect on Blazor.
 
 ### Courses / Others
 
@@ -64,13 +64,13 @@
 
 ### Apps / Widgets
 
-*   [wagtail-multi-upload (⭐13)](https://github.com/spapas/wagtail-multi-upload) - allows uploading of multiple related images for a page.
+*   [wagtail-multi-upload (⭐16)](https://github.com/spapas/wagtail-multi-upload) - allows uploading of multiple related images for a page.
 
 ## [8. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / VPN
 
-*   [Nebula (⭐12k)](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security.
+*   [Nebula (⭐13k)](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security. `MIT` `Go`
 
 ## [9. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 
@@ -161,7 +161,7 @@
 
 ### Component Libraries
 
-*   [Pixano Elements (⭐33)](https://github.com/pixano/pixano-elements) - Re-usable web components dedicated to data annotation tasks.
+*   [Pixano Elements (⭐34)](https://github.com/pixano/pixano-elements) - Re-usable web components dedicated to data annotation tasks.
 
 ### Presentations
 
@@ -171,7 +171,7 @@
 
 ### Software / Software Development - Project Management
 
-*   [Pagure](https://pagure.io/pagure) - A lightweight, powerful, and flexible git-centric forge with features laying the foundation for federated and decentralized development. ([Demo](https://pagure.io/)) `GPL-2.0` `Python`
+*   [Pagure](https://pagure.io/pagure) - A lightweight, powerful, and flexible git-centric forge with features laying the foundation for federated and decentralized development. ([Demo](https://pagure.io/)) `GPL-2.0` `Docker/Python`
 
 ---
 

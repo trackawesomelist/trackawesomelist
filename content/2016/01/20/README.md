@@ -36,7 +36,7 @@
 
 ### Blog and CMS / Social Sciences
 
-*   [Pico (⭐3.6k)](https://github.com/picocms/Pico) (`PHP`): Lightweight cms, open source, no database.
+*   [Pico (⭐3.7k)](https://github.com/picocms/Pico) (`PHP`): Lightweight cms, open source, no database.
 
 ### Mindmap / LaTeX
 
@@ -70,7 +70,7 @@
 
 ### Terminal / HTML+CSS+JS
 
-*   [fuck (⭐366)](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.
+*   [fuck (⭐371)](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.
 
 ## [5. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
 
@@ -224,7 +224,7 @@
 
 ### Data Visualization
 
-*   [Redash (⭐22k)](https://github.com/getredash/redash) - open-source platform to query and visualize data.
+*   [Redash (⭐23k)](https://github.com/getredash/redash) - open-source platform to query and visualize data.
 
 ## [13. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
@@ -398,7 +398,7 @@
 
 ### Packages / Command-line utilities
 
-*   [cross-env (⭐6.1k)](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
+*   [cross-env (⭐6.2k)](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
 
 ## [27. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
@@ -437,11 +437,11 @@
 
 ### Native Implemented Functions
 
-*   [Rustler (⭐3.7k)](https://github.com/hansihe/Rustler) - Library for writing NIFs for Erlang or Elixir safely in Rust. No segfaults.
+*   [Rustler (⭐3.9k)](https://github.com/hansihe/Rustler) - Library for writing NIFs for Erlang or Elixir safely in Rust. No segfaults.
 
 ### Protocols
 
-*   [ex\_marshal (⭐38)](https://github.com/gaynetdinov/ex_marshal) - Ruby Marshal format implemented in Elixir.
+*   [ex\_marshal (⭐39)](https://github.com/gaynetdinov/ex_marshal) - Ruby Marshal format implemented in Elixir.
 
 ## [31. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -500,7 +500,7 @@
 
 ### Scientific / XML
 
-*   [scid (⭐84)](https://github.com/DlangScience/scid) -  Scientific library for the D programming language
+*   [scid (⭐89)](https://github.com/DlangScience/scid) -  Scientific library for the D programming language
 *   [dstats (⭐25)](https://github.com/DlangScience/dstats) -  A statistics library for D.
 
 ---

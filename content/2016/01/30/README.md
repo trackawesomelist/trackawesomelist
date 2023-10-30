@@ -207,12 +207,12 @@
 
 ### Framework Components
 
-*   [params (⭐319)](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
+*   [params (⭐324)](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
 *   [revision\_plate\_ex (⭐3)](https://github.com/KazuCocoa/revision_plate_ex) - Plug application and middleware that serves endpoint returns application's REVISION.
 
 ### Text and Numbers
 
-*   [monetized (⭐47)](https://github.com/theocodes/monetized) - A lightweight solution for handling and storing money.
+*   [monetized (⭐46)](https://github.com/theocodes/monetized) - A lightweight solution for handling and storing money.
 
 ---
 

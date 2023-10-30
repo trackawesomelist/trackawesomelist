@@ -10,14 +10,14 @@
 
 ### Scripts / GitHub
 
-*   [GitHub Commit Whitespace (⭐307)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Whitespace#readme) - Adds button to hide whitespace diffs from commits.
-*   [GitHub Image Viewer (⭐307)](https://github.com/jerone/UserScripts/tree/master/Github_Image_Viewer#readme) - Preview images from within the file listing.
-*   [GitHub User Info (⭐307)](https://github.com/jerone/UserScripts/tree/master/Github_User_Info#readme) - Show user information on avatar hover.
-*   [Github Commit Diff (⭐307)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - Adds button to show diff (or patch) file for commit.
-*   [Github News Feed Filter (⭐307)](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter#readme) - Add filters for Github homepage news feed items.
-*   [Github Pages Linker (⭐307)](https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme) - Add a link to Github Pages (gh-pages) when available.
-*   [Github Pull Request From Link (⭐307)](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - Make pull request branches linkable.
-*   [Github Reply Comments (⭐307)](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
+*   [GitHub Commit Whitespace (⭐316)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Whitespace#readme) - Adds button to hide whitespace diffs from commits.
+*   [GitHub Image Viewer (⭐316)](https://github.com/jerone/UserScripts/tree/master/Github_Image_Viewer#readme) - Preview images from within the file listing.
+*   [GitHub User Info (⭐316)](https://github.com/jerone/UserScripts/tree/master/Github_User_Info#readme) - Show user information on avatar hover.
+*   [Github Commit Diff (⭐316)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - Adds button to show diff (or patch) file for commit.
+*   [Github News Feed Filter (⭐316)](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter#readme) - Add filters for Github homepage news feed items.
+*   [Github Pages Linker (⭐316)](https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme) - Add a link to Github Pages (gh-pages) when available.
+*   [Github Pull Request From Link (⭐316)](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - Make pull request branches linkable.
+*   [Github Reply Comments (⭐316)](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -29,7 +29,7 @@
 
 ### Tools / Other
 
-*   [Habu (⭐765)](https://github.com/portantier/habu) - Python Network Hacking Toolkit
+*   [Habu (⭐818)](https://github.com/portantier/habu) - Python Network Hacking Toolkit
 
 ## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -47,7 +47,7 @@
 
 ### CLI
 
-*   [PDCurses (⭐882)](https://github.com/wmcbrine/PDCurses) - Public domain curses library with both source code and pre-compiled library available. \[PublicDomain]
+*   [PDCurses (⭐920)](https://github.com/wmcbrine/PDCurses) - Public domain curses library with both source code and pre-compiled library available. \[PublicDomain]
 
 ## [7. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 

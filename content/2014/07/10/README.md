@@ -129,7 +129,7 @@
 
 ### Key-value Data Model
 
-*   [Tarantool (⭐3k)](https://github.com/tarantool/tarantool) - an efficient NoSQL database and a Lua application server.
+*   [Tarantool (⭐3.2k)](https://github.com/tarantool/tarantool) - an efficient NoSQL database and a Lua application server.
 
 ## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -139,15 +139,15 @@
 
 ### Testing Frameworks / Coverage
 
-*   [istanbul (⭐8.6k)](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool.
-*   [JSCover (⭐390)](https://github.com/tntim96/JSCover) - JSCover is a tool that measures code coverage for JavaScript programs.
+*   [istanbul (⭐8.7k)](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool.
+*   [JSCover (⭐395)](https://github.com/tntim96/JSCover) - JSCover is a tool that measures code coverage for JavaScript programs.
 
 ### Testing Frameworks / Runner
 
 *   [phantomjs (⭐29k)](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
 *   [slimerjs (⭐3k)](https://github.com/laurentj/slimerjs) - A PhantomJS-like tool running Gecko.
-*   [zombie (⭐5.6k)](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js.
-*   [totoro (⭐567)](https://github.com/totorojs/totoro) - A simple and stable cross-browser testing tool.
+*   [zombie (⭐5.7k)](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js.
+*   [totoro (⭐566)](https://github.com/totorojs/totoro) - A simple and stable cross-browser testing tool.
 *   [karma (⭐12k)](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript.
 
 ---

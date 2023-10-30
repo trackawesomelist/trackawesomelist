@@ -16,7 +16,7 @@
 
 ### Apps / E-commerce
 
-*   [django-salesman (⭐287)](https://github.com/dinoperovic/django-salesman) - Headless e-commerce framework for Django with Wagtail modeladmin integration.
+*   [django-salesman (⭐325)](https://github.com/dinoperovic/django-salesman) - Headless e-commerce framework for Django with Wagtail modeladmin integration.
 
 ### Apps / Media
 
@@ -24,7 +24,7 @@
 
 ### Apps / Translations
 
-*   [Wagtail Localize (⭐173)](https://github.com/wagtail/wagtail-localize) - A translation plugin for the Wagtail CMS, allows pages or snippets to be translated within Wagtail's admin interface.
+*   [Wagtail Localize (⭐182)](https://github.com/wagtail/wagtail-localize) - A translation plugin for the Wagtail CMS, allows pages or snippets to be translated within Wagtail's admin interface.
 
 ### Tools / Templates & Starter Kits
 
@@ -32,7 +32,7 @@
 
 ### Open-source sites / Lists
 
-*   [Consumer Financial Protection Bureau (⭐200)](https://github.com/cfpb/consumerfinance.gov) – The source code of the Wagtail-powered consumerfinance.gov is available here on GitHub.
+*   [Consumer Financial Protection Bureau (⭐233)](https://github.com/cfpb/consumerfinance.gov) – The source code of the Wagtail-powered consumerfinance.gov is available here on GitHub.
 
 ## [3. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
 
@@ -109,7 +109,7 @@
 
 ### TypeScript Seed Projects / Components
 
-*   [Eoapi (⭐3.4k)](https://github.com/eolinker/eoapi) - A lightweight, extensible API tool based on Angular and Electron
+*   [Eoapi (⭐4.4k)](https://github.com/eolinker/eoapi) - A lightweight, extensible API tool based on Angular and Electron
 
 ## [6. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
@@ -119,21 +119,21 @@
 
 ### Demo apps / Case study
 
-*   [capacitor-updater-plugin-demo (⭐1)](https://github.com/Cap-go/demo-app) - Simple Ionic Vue app to demonstrate the use of OTA updates.
+*   [capacitor-updater-plugin-demo (⭐2)](https://github.com/Cap-go/demo-app) - Simple Ionic Vue app to demonstrate the use of OTA updates.
 
 ### Community / Case study
 
-*   [Proposal (⭐67)](https://github.com/capacitor-community/proposals) - Official repo for plugin and platform requests.
+*   [Proposal (⭐69)](https://github.com/capacitor-community/proposals) - Official repo for plugin and platform requests.
 
 ## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
-*   [shuttle (⭐2.6k)](https://github.com/shuttle-hq/shuttle) — A serverless platform built for Rust
+*   [shuttle (⭐4.4k)](https://github.com/shuttle-hq/shuttle) — A serverless platform built for Rust
 
 ### Development tools / Build system
 
-*   [Fleet (⭐2.3k)](https://github.com/dimensionhq/fleet) \[[fleet-rs](https://crates.io/crates/fleet-rs)] - The blazing fast build tool for Rust.
+*   [Fleet (⭐2.4k)](https://github.com/dimensionhq/fleet) \[[fleet-rs](https://crates.io/crates/fleet-rs)] - The blazing fast build tool for Rust.
 
 ## [8. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -145,27 +145,27 @@
 
 ### Templates / Vue 3
 
-*   [ViTauri (⭐36)](https://github.com/NicolaSpadari/vitauri) - Vite + Tauri + Vue3 + TS + Vue-Router4 + Auto imports.
+*   [ViTauri (⭐48)](https://github.com/NicolaSpadari/vitauri) - Vite + Tauri + Vue3 + TS + Vue-Router4 + Auto imports.
 
 ## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Inter-process communication
 
-*   [iceoryx (⭐1.2k)](https://github.com/eclipse-iceoryx/iceoryx) - True zero-copy inter-process communication framework for safety critical systems with bindings for C, Rust. Runs on Linux, QNX, Windows, Mac OS, FreeBSD. \[Apache2] [website](https://iceoryx.io/)
+*   [iceoryx (⭐1.3k)](https://github.com/eclipse-iceoryx/iceoryx) - True zero-copy inter-process communication framework for safety critical systems with bindings for C, Rust. Runs on Linux, QNX, Windows, Mac OS, FreeBSD. \[Apache2] [website](https://iceoryx.io/)
 
 ## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [junnplus/nvim-lsp-setup (⭐198)](https://github.com/Junnplus/nvim-lsp-setup) - A simple wrapper for nvim-lspconfig and nvim-lsp-installer to easily setup LSP servers.
+*   [junnplus/nvim-lsp-setup (⭐210)](https://github.com/Junnplus/nvim-lsp-setup) - A simple wrapper for nvim-lspconfig and nvim-lsp-installer to easily setup LSP servers.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [frabjous/knap (⭐230)](https://github.com/frabjous/knap) - Plugin for creating automatic updating-as-you-type previews for markdown, LaTeX and other documents.
+*   [frabjous/knap (⭐277)](https://github.com/frabjous/knap) - Plugin for creating automatic updating-as-you-type previews for markdown, LaTeX and other documents.
 
 ### Treesitter Based / Diagnostics
 
-*   [ziontee113/syntax-tree-surfer (⭐374)](https://github.com/ziontee113/syntax-tree-surfer) - Navigate and swap Treesitter's AST Nodes. Step into, step out, step over, step back.
+*   [ziontee113/syntax-tree-surfer (⭐424)](https://github.com/ziontee113/syntax-tree-surfer) - Navigate and swap Treesitter's AST Nodes. Step into, step out, step over, step back.
 
 ---
 

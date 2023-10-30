@@ -27,7 +27,7 @@
 
 ### Other Tools / Telegram
 
-*   [BeVigil-CLI (⭐80)](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
+*   [BeVigil-CLI (⭐88)](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
 
 ## [3. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Projects / Frameworks
 
-*   [VCFloat (⭐14)](https://github.com/VeriNum/vcfloat) - Framework for verifying C programs with floating-point computations.
+*   [VCFloat (⭐19)](https://github.com/VeriNum/vcfloat) - Framework for verifying C programs with floating-point computations.
 
 ### Resources / Community
 
@@ -50,19 +50,19 @@
 
 ### Network Protocols
 
-*   [mqtt-client.cr (⭐4)](https://github.com/84codes/mqtt-client.cr) - A fast and lightweight MQTT client
+*   [mqtt-client.cr (⭐3)](https://github.com/84codes/mqtt-client.cr) - A fast and lightweight MQTT client
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Storage and Media Processing
 
-*   [kvstore.io](https://www.kvstore.io/) — Key-value storage service. Free tier allows 100 keys, 1KB/key, 100 calls/hour
+*   [kvstore.io](https://www.kvstore.io/) — Key-value storage service. The free tier allows 100 keys, 1KB/key, 100 calls/hour
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [nanika (⭐1)](https://github.com/justforuse/nanika-zsh-theme/) - Optimized variant of [robbyrussell (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell). Includes `git` status decorations.
+*   [nanika (⭐1)](https://github.com/justforuse/nanika-zsh-theme/) - Optimized variant of [robbyrussell (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell). Includes `git` status decorations.
 
 ## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -72,15 +72,15 @@
 
 ### Projects / Idea Plugins
 
-*   [dkandalov/limited-wip (⭐102)](https://github.com/dkandalov/limited-wip) - Plugin to limit your work-in-progress.
-*   [dkandalov/pomodoro-tm (⭐125)](https://github.com/dkandalov/pomodoro-tm) - Pomodoro timer.
-*   [emedinaa/kotlin-mvvm (⭐489)](https://github.com/emedinaa/kotlin-mvvm) - MVVM(Model View ViewModel) sample in Kotlin using the components ViewModel, LiveData and Retrofit library
+*   [dkandalov/limited-wip (⭐104)](https://github.com/dkandalov/limited-wip) - Plugin to limit your work-in-progress.
+*   [dkandalov/pomodoro-tm (⭐129)](https://github.com/dkandalov/pomodoro-tm) - Pomodoro timer.
+*   [emedinaa/kotlin-mvvm (⭐508)](https://github.com/emedinaa/kotlin-mvvm) - MVVM(Model View ViewModel) sample in Kotlin using the components ViewModel, LiveData and Retrofit library
 
 ## [9. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
 ### Client Libraries
 
-*   [.NET Toolchain/SDK (⭐1)](https://github.com/ajuna-network/Ajuna.SDK) - Toolchain for Substrate .NET. Pre-generated [SubstrateNET (⭐4)](https://github.com/ajuna-network/SubstrateNET); Maintained by Ajuna Network.
+*   [.NET Toolchain/SDK (⭐2)](https://github.com/ajuna-network/Ajuna.SDK) - Toolchain for Substrate .NET. Pre-generated [SubstrateNET (⭐3)](https://github.com/ajuna-network/SubstrateNET); Maintained by Ajuna Network.
 *   [`go-substrate-gen`](https://github.com/Aphoh/go-substrate-gen) - Generate Go (de)serialization/client code from Substrate metadata.
 
 ### Tools
@@ -94,19 +94,19 @@
 *   Database Honeypots
 
     *   [Delilah (⭐15)](https://github.com/SecurityTW/delilah) - Elasticsearch Honeypot written in Python (originally from Novetta).
-    *   [ESPot (⭐24)](https://github.com/mycert/ESPot) - Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.
+    *   [ESPot (⭐25)](https://github.com/mycert/ESPot) - Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.
     *   [ElasticPot](https://gitlab.com/bontchev/elasticpot) - An Elasticsearch Honeypot.
-    *   [Elastic honey (⭐171)](https://github.com/jordan-wright/elastichoney) - Simple Elasticsearch Honeypot.
-    *   [MongoDB-HoneyProxy (⭐81)](https://github.com/Plazmaz/MongoDB-HoneyProxy) - MongoDB honeypot proxy.
-    *   [NoSQLpot (⭐100)](https://github.com/torque59/nosqlpot) - Honeypot framework built on a NoSQL-style database.
-    *   [mysql-honeypotd (⭐23)](https://github.com/sjinks/mysql-honeypotd) - Low interaction MySQL honeypot written in C.
-    *   [MysqlPot (⭐21)](https://github.com/schmalle/MysqlPot) - MySQL honeypot, still very early stage.
-    *   [pghoney (⭐14)](https://github.com/betheroot/pghoney) - Low-interaction Postgres Honeypot.
-    *   [sticky\_elephant (⭐6)](https://github.com/betheroot/sticky_elephant) - Medium interaction postgresql honeypot.
-    *   [RedisHoneyPot (⭐8)](https://github.com/cypwnpwnsocute/RedisHoneyPot) - High Interaction Honeypot Solution for Redis protocol.
+    *   [Elastic honey (⭐174)](https://github.com/jordan-wright/elastichoney) - Simple Elasticsearch Honeypot.
+    *   [MongoDB-HoneyProxy (⭐85)](https://github.com/Plazmaz/MongoDB-HoneyProxy) - MongoDB honeypot proxy.
+    *   [NoSQLpot (⭐101)](https://github.com/torque59/nosqlpot) - Honeypot framework built on a NoSQL-style database.
+    *   [mysql-honeypotd (⭐25)](https://github.com/sjinks/mysql-honeypotd) - Low interaction MySQL honeypot written in C.
+    *   [MysqlPot (⭐20)](https://github.com/schmalle/MysqlPot) - MySQL honeypot, still very early stage.
+    *   [pghoney (⭐16)](https://github.com/betheroot/pghoney) - Low-interaction Postgres Honeypot.
+    *   [sticky\_elephant (⭐7)](https://github.com/betheroot/sticky_elephant) - Medium interaction postgresql honeypot.
+    *   [RedisHoneyPot (⭐12)](https://github.com/cypwnpwnsocute/RedisHoneyPot) - High Interaction Honeypot Solution for Redis protocol.
 *   SIP
 
-    *   [SentryPeer (⭐118)](https://github.com/SentryPeer/SentryPeer) - Protect your SIP Servers from bad actors.
+    *   [SentryPeer (⭐134)](https://github.com/SentryPeer/SentryPeer) - Protect your SIP Servers from bad actors.
 
 ## [11. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
@@ -132,11 +132,11 @@
 
 ### Applications
 
-*   [fend (⭐234)](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator [![build](https://github.com/printfn/fend/workflows/build/badge.svg)](https://github.com/printfn/fend)
+*   [fend (⭐323)](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator [![build](https://github.com/printfn/fend/workflows/build/badge.svg)](https://github.com/printfn/fend)
 
 ### Development tools / Formatters
 
-*   [rustfmt (⭐5.1k)](https://github.com/rust-lang/rustfmt) — Rust code formatter maintained by the Rust team and included in cargo
+*   [rustfmt (⭐5.4k)](https://github.com/rust-lang/rustfmt) — Rust code formatter maintained by the Rust team and included in cargo
 
 ## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -148,7 +148,7 @@
 
 ### ⚙️ Middlewares / 🧬 Core
 
-*   [EnvVar (⭐26k)](https://github.com/gofiber/fiber/tree/master/middleware/envvar) - Expose environment variables with providing an optional config.
+*   [EnvVar (⭐28k)](https://github.com/gofiber/fiber/tree/master/middleware/envvar) - Expose environment variables with providing an optional config.
 
 ## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -160,7 +160,6 @@
 
 ### Concepts / AI Concept Representation
 
-*   [Semantic features of object concepts generated with GPT-3](https://arxiv.org/abs/2202.03753) - 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=16958563995984242923\&hl=en\&as_sdt=0,5)]. Testing the semantic attributes of the concepts generated by the large language model GPT-3.
 *   [Unit Testing for Concepts in Neural Networks](https://arxiv.org/abs/2202.03753) - ***Transactions of the Association for Computational Linguistics***, 2022. Testing the concept representation by neural networks through Fodor's theory of concepts.
 
 ### Methodologies for Experiments / Association Test

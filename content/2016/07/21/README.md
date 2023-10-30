@@ -34,7 +34,7 @@
 
 ### Samples
 
-*   [Vulkan Quake port based on QuakeSpasm (⭐1.5k)](https://github.com/Novum/vkQuake).
+*   [Vulkan Quake port based on QuakeSpasm (⭐1.6k)](https://github.com/Novum/vkQuake).
 
 ## [6. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Network Protocols
 
-*   [fast\_irc.cr (⭐20)](https://github.com/RX14/fast_irc.cr) - Fast IRC parser/generator
+*   [fast\_irc.cr (⭐19)](https://github.com/RX14/fast_irc.cr) - Fast IRC parser/generator
 
 ## [9. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 

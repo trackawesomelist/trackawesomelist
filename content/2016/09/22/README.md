@@ -43,14 +43,14 @@
 
 ### Applications / Episodes
 
-*   [CANToolz (⭐298)](https://github.com/eik00d/CANToolz) - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline.
+*   [CANToolz (⭐300)](https://github.com/eik00d/CANToolz) - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline.
 *   [BUSMASTER](https://rbei-etas.github.io/busmaster/) -An Open Source tool to simulate, analyze and test data bus systems such as CAN, LIN, FlexRay.
 
 ## [3. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
 ### Other
 
-*   [shrinkpack (⭐791)](https://github.com/JamieMason/shrinkpack) - Lock down your dependencies and install offline.
+*   [shrinkpack (⭐792)](https://github.com/JamieMason/shrinkpack) - Lock down your dependencies and install offline.
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -70,11 +70,11 @@
 
 ### Frameworks, Libraries and Tools / API
 
-*   [autorest (⭐4k)](https://github.com/Azure/autorest) - Swagger (OpenAPI) Specification code generator featuring C# and Razor templates. Supports C#, Java, Node.js, TypeScript, Python and Ruby. `4.5.x or above`
+*   [autorest (⭐4.3k)](https://github.com/Azure/autorest) - Swagger (OpenAPI) Specification code generator featuring C# and Razor templates. Supports C#, Java, Node.js, TypeScript, Python and Ruby. `4.5.x or above`
 
 ### Frameworks, Libraries and Tools / ORM
 
-*   [NPoco (⭐808)](https://github.com/schotime/NPoco) - Simple microORM that maps the results of a query onto a POCO object. Project based on Schotime's branch of PetaPoco.
+*   [NPoco (⭐829)](https://github.com/schotime/NPoco) - Simple microORM that maps the results of a query onto a POCO object. Project based on Schotime's branch of PetaPoco.
 
 ---
 

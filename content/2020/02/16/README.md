@@ -10,7 +10,7 @@
 
 ### Open Source Projects / Wealth
 
-*   [Awesome Biomarkers (⭐254)](https://github.com/markwk/awesome-biomarkers) - Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health!
+*   [Awesome Biomarkers (⭐289)](https://github.com/markwk/awesome-biomarkers) - Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health!
 
 ## [2. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -28,23 +28,23 @@
 
 ### Tools / Templates & Starter Kits
 
-*   [Django Cookiecutter Wagtail (⭐54)](https://github.com/Jean-Zombie/cookiecutter-django-wagtail) – A Django Cookiecutter template with Wagtail. Based on the original 'Django Cookiecutter'. Features: Docker support using `docker-compose` for development and production (using Traefik with LetsEncrypt support), customizable PostgreSQL version, Bootstrap 4, media storage using Amazon S3 or Google Cloud Storage and many more.
+*   [Django Cookiecutter Wagtail (⭐58)](https://github.com/Jean-Zombie/cookiecutter-django-wagtail) – A Django Cookiecutter template with Wagtail. Based on the original 'Django Cookiecutter'. Features: Docker support using `docker-compose` for development and production (using Traefik with LetsEncrypt support), customizable PostgreSQL version, Bootstrap 4, media storage using Amazon S3 or Google Cloud Storage and many more.
 
 ## [5. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Meetings / 1 on 1
 
-*   [1 on 1 Meeting Questions (⭐9.1k)](https://github.com/VGraupera/1on1-questions) - A mega list in which most of them are great starters for conversation, some others are clearly bad ideas. A great source of inspiration nonetheless, but choose carefully.
+*   [1 on 1 Meeting Questions (⭐9.4k)](https://github.com/VGraupera/1on1-questions) - A mega list in which most of them are great starters for conversation, some others are clearly bad ideas. A great source of inspiration nonetheless, but choose carefully.
 
 ## [6. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Miscellaneous
 
-*   [react-demo-tab (⭐34)](https://github.com/mkosir/react-demo-tab) - [demo](https://mkosir.github.io/react-demo-tab) - A React component to easily create demos of other components.
+*   [react-demo-tab (⭐38)](https://github.com/mkosir/react-demo-tab) - [demo](https://mkosir.github.io/react-demo-tab) - A React component to easily create demos of other components.
 
 ### Miscellaneous / Lazy Load
 
-*   [react-demo-tab-cli (⭐51)](https://github.com/mkosir/react-demo-tab-cli) - CLI tool for creating demos of react components.
+*   [react-demo-tab-cli (⭐54)](https://github.com/mkosir/react-demo-tab-cli) - CLI tool for creating demos of react components.
 
 ## [7. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -56,13 +56,13 @@
 
 ### Front-End Development
 
-*   [Yew (⭐1.2k)](https://github.com/jetli/awesome-yew#readme) - Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.
+*   [Yew (⭐1.3k)](https://github.com/jetli/awesome-yew#readme) - Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.
 
 ## [9. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Symbolic Music - MIDI - Musicology
 
-*   [mingus (⭐753)](https://github.com/bspaans/python-mingus) [:octocat: (⭐753)](https://github.com/bspaans/python-mingus) [:package:](https://pypi.org/project/mingus) - Advanced music theory and notation package with MIDI file and playback support.
+*   [mingus (⭐785)](https://github.com/bspaans/python-mingus) [:octocat: (⭐785)](https://github.com/bspaans/python-mingus) [:package:](https://pypi.org/project/mingus) - Advanced music theory and notation package with MIDI file and playback support.
 
 ## [10. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 

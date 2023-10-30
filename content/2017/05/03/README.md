@@ -49,13 +49,13 @@
 
 ### Webdriver automation
 
-*   [Etaoin (⭐854)](https://github.com/igrishaev/etaoin)
+*   [Etaoin (⭐859)](https://github.com/igrishaev/etaoin)
 
 ## [6. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Perceptial Models - Auditory Models
 
-*   [Brian2](http://briansimulator.org/) [:octocat: (⭐746)](https://github.com/brian-team/brian2) [:package:](https://pypi.python.org/pypi/Brian2) - Spiking neural networks simulator, includes cochlea model.
+*   [Brian2](http://briansimulator.org/) [:octocat: (⭐787)](https://github.com/brian-team/brian2) [:package:](https://pypi.python.org/pypi/Brian2) - Spiking neural networks simulator, includes cochlea model.
 
 ## [7. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 
@@ -84,7 +84,7 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [protoactor-dotnet (⭐1.4k)](https://github.com/AsynkronIT/protoactor-dotnet) - Ultra fast distributed actors for Golang and C# <http://proto.actor>.
+*   [protoactor-dotnet (⭐1.6k)](https://github.com/AsynkronIT/protoactor-dotnet) - Ultra fast distributed actors for Golang and C# <http://proto.actor>.
 
 ### Books / Workflow
 
@@ -109,7 +109,7 @@
 ### Books
 
 *   [Professional WebGL Programming](https://www.amazon.com/Professional-WebGL-Programming-Developing-Graphics/dp/1119968860) by **Andreas Anyuru** - Everything you need to know about developing hardware-accelerated 3D graphics with WebGL.
-*   [WebGL Insights (⭐37)](https://github.com/WebGLInsights/WebGLInsights.github.io/releases/download/v1.0/WebGL.Insights.-.Patrick.Cozzi.pdf) by **Patrick Cozzi** - Presents real-world techniques for intermediate and advanced WebGL developers by assembling contributions from experienced WebGL engine and application developers, GPU vendors, browser developers, researchers, and educators.
+*   [WebGL Insights (⭐38)](https://github.com/WebGLInsights/WebGLInsights.github.io/releases/download/v1.0/WebGL.Insights.-.Patrick.Cozzi.pdf) by **Patrick Cozzi** - Presents real-world techniques for intermediate and advanced WebGL developers by assembling contributions from experienced WebGL engine and application developers, GPU vendors, browser developers, researchers, and educators.
     *   [Book's Personal Site](http://www.webglinsights.com/)
 *   [WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL](https://www.amazon.com/WebGL-Programming-Guide-Interactive-Graphics/dp/0321902920) by **Kouichi Matsuda** and **Rodger Lea** - WebGL Programming Guide will help you get started quickly with interactive WebGL 3D programming, even if you have no prior knowledge of HTML5, JavaScript, 3D graphics, mathematics, or OpenGL.
 
@@ -120,8 +120,8 @@
 
 ### References
 
-*   [Google Project ANGLE (⭐2.7k)](https://github.com/google/angle) - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
-*   [WebGL Source Code (⭐2.3k)](https://github.com/KhronosGroup/WebGL) - Source code to both view and contribute.
+*   [Google Project ANGLE (⭐3k)](https://github.com/google/angle) - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
+*   [WebGL Source Code (⭐2.5k)](https://github.com/KhronosGroup/WebGL) - Source code to both view and contribute.
 
 ### Tools/Debugging
 

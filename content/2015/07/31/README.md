@@ -10,13 +10,13 @@
 
 ### Testing
 
-*   [hypermock (⭐23)](https://github.com/stevegraham/hypermock) - HTTP request stubbing and expectation Elixir library.
+*   [hypermock (⭐24)](https://github.com/stevegraham/hypermock) - HTTP request stubbing and expectation Elixir library.
 
 ## [2. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Shell Package Management / Directory Navigation
 
-*   [dotfiler (⭐233)](https://github.com/svetlyak40wt/dotfiler) – Shell agnostic git based dotfiles package manager, written in Python.
+*   [dotfiler (⭐232)](https://github.com/svetlyak40wt/dotfiler) – Shell agnostic git based dotfiles package manager, written in Python.
 
 ## [3. Tips](/content/git-tips/tips/README.md)
 

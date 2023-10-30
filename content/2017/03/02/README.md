@@ -77,15 +77,15 @@
 
 ### Apps / Settings management
 
-*   [Wagtail-Flags (⭐76)](https://github.com/cfpb/wagtail-flags) - Feature flags for Wagtail sites.
+*   [Wagtail-Flags (⭐81)](https://github.com/cfpb/wagtail-flags) - Feature flags for Wagtail sites.
 
 ### Apps / Misc
 
-*   [Wagtail Sharing (⭐48)](https://github.com/cfpb/wagtail-sharing) – Easier sharing of Wagtail drafts.
+*   [Wagtail Sharing (⭐50)](https://github.com/cfpb/wagtail-sharing) – Easier sharing of Wagtail drafts.
 
 ### Tools / Templates & Starter Kits
 
-*   [Wagtail Starter Kit (⭐51)](https://github.com/tkjone/starterkit-wagtail) – A cookiecutter complete with wagtail, django layout, vagrant, provisioning scrips, front end build system and more!
+*   [Wagtail Starter Kit (⭐52)](https://github.com/tkjone/starterkit-wagtail) – A cookiecutter complete with wagtail, django layout, vagrant, provisioning scrips, front end build system and more!
 
 ### Resources / Articles
 

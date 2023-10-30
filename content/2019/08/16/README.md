@@ -53,24 +53,24 @@
 
 ### Python / Natural Language Processing
 
-*   [BigARTM (⭐643)](https://github.com/bigartm/bigartm) - topic modelling platform.
+*   [BigARTM (⭐655)](https://github.com/bigartm/bigartm) - topic modelling platform.
 
 ## [6. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Creating GIFs
 
-*   [ScreenToGif (⭐20k)](https://github.com/NickeManarin/ScreenToGif/) - **FREE** - Open source, customizable UI and easily editable GIFs, easy to get started.
+*   [ScreenToGif (⭐21k)](https://github.com/NickeManarin/ScreenToGif/) - **FREE** - Open source, customizable UI and easily editable GIFs, easy to get started.
 
 ## [7. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 
 ### Software Tools / Analysis Frameworks
 
-*   [FwAnalyzer (⭐466)](https://github.com/cruise-automation/fwanalyzer) - Analyze security of firmware based on customized rules. Intended as additional step in DevSecOps, similar to CI.
+*   [FwAnalyzer (⭐474)](https://github.com/cruise-automation/fwanalyzer) - Analyze security of firmware based on customized rules. Intended as additional step in DevSecOps, similar to CI.
 
 ### Software Tools / Analysis Tools
 
-*   [Firmware Slap (⭐454)](https://github.com/ChrisTheCoolHut/Firmware_Slap) - Discovering vulnerabilities in firmware through concolic analysis and function clustering.
-*   [Radare2 (⭐18k)](https://github.com/radare/radare2) - Software Reverse Engineering framework, also handles popular formats and arbitrary binaries, has an extensive command line toolset.
+*   [Firmware Slap (⭐462)](https://github.com/ChrisTheCoolHut/Firmware_Slap) - Discovering vulnerabilities in firmware through concolic analysis and function clustering.
+*   [Radare2 (⭐19k)](https://github.com/radare/radare2) - Software Reverse Engineering framework, also handles popular formats and arbitrary binaries, has an extensive command line toolset.
 
 ## [8. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 

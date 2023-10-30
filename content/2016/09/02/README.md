@@ -16,7 +16,7 @@
 
 ### Libraries / Cryptography
 
-*   [sfackler/rust-native-tls (⭐399)](https://github.com/sfackler/rust-native-tls) — Bindings for native TLS libraries
+*   [sfackler/rust-native-tls (⭐427)](https://github.com/sfackler/rust-native-tls) — Bindings for native TLS libraries
 
 ## [3. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
@@ -39,13 +39,13 @@
 
 ### Instrumenting / Monitoring
 
-*   [elixometer (⭐818)](https://github.com/pinterest/elixometer) - A light Elixir wrapper around exometer.
-*   [erlang-metrics (⭐68)](https://github.com/benoitc/erlang-metrics) - A generic interface to different metrics systems in Erlang.
-*   [exometer (⭐519)](https://github.com/Feuerlabs/exometer) - Basic measurement objects and probe behavior in Erlang.
+*   [elixometer (⭐823)](https://github.com/pinterest/elixometer) - A light Elixir wrapper around exometer.
+*   [erlang-metrics (⭐69)](https://github.com/benoitc/erlang-metrics) - A generic interface to different metrics systems in Erlang.
+*   [exometer (⭐523)](https://github.com/Feuerlabs/exometer) - Basic measurement objects and probe behavior in Erlang.
 *   [folsom\_ddb (⭐5)](https://github.com/dalmatinerdb/folsom_ddb) - DalmatinerDB backend to store folsom metrics.
-*   [instream (⭐213)](https://github.com/mneudert/instream) - InfluxDB driver for Elixir.
-*   [instrumental (⭐9)](https://github.com/undeadlabs/instrumental-ex) - An Elixir client for [Instrumental](https://instrumentalapp.com/).
-*   [prometheus (⭐330)](https://github.com/deadtrickster/prometheus.erl) - [Prometheus.io](https://prometheus.io) monitoring system and time series database client in Erlang.
+*   [instream (⭐217)](https://github.com/mneudert/instream) - InfluxDB driver for Elixir.
+*   [instrumental (⭐10)](https://github.com/undeadlabs/instrumental-ex) - An Elixir client for [Instrumental](https://instrumentalapp.com/).
+*   [prometheus (⭐334)](https://github.com/deadtrickster/prometheus.erl) - [Prometheus.io](https://prometheus.io) monitoring system and time series database client in Erlang.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Documentation
 
-*   [GitHub Changelog Generator (⭐7.1k)](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+*   [GitHub Changelog Generator (⭐7.2k)](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 
 ## [2. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
@@ -28,15 +28,15 @@
 
 ### Blazor
 
-*   [BootstrapBlazor (⭐1.4k)](https://github.com/dotnetcore/BootstrapBlazor) - A set of enterprise-class UI components based on Bootstrap and Blazor.
+*   [BootstrapBlazor (⭐1.6k)](https://github.com/dotnetcore/BootstrapBlazor) - A set of enterprise-class UI components based on Bootstrap and Blazor.
 
 ### Misc
 
-*   [Validot (⭐271)](https://github.com/bartoszlenar/Validot) - Validot is a performance-first, compact library for advanced model validation. Using a simple declarative fluent interface, it efficiently handles classes, structs, nested members, collections, nullables, plus any relation or combination of them. It also supports translations, custom logic extensions with tests, and DI containers.
+*   [Validot (⭐278)](https://github.com/bartoszlenar/Validot) - Validot is a performance-first, compact library for advanced model validation. Using a simple declarative fluent interface, it efficiently handles classes, structs, nested members, collections, nullables, plus any relation or combination of them. It also supports translations, custom logic extensions with tests, and DI containers.
 
 ### Source Generator
 
-*   [Awesome Microservices .NET Core (⭐2.3k)](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core.
+*   [Awesome Microservices .NET Core (⭐2.4k)](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core.
 
 ## [5. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
 
@@ -54,19 +54,19 @@
 
 ### Dynamic type checkers
 
-*   [beartype (⭐1.5k)](https://github.com/beartype/beartype) - Unbearably fast `O(1)` runtime type-checking in pure Python.
+*   [beartype (⭐1.9k)](https://github.com/beartype/beartype) - Unbearably fast `O(1)` runtime type-checking in pure Python.
 
 ### Tools / Helper tools to add annotations to existing code
 
 *   [pyannotate (⭐1.4k)](https://github.com/dropbox/pyannotate) - Insert annotations into your source code based on call arguments and return types observed at runtime.
-*   [pyre infer (⭐6.2k)](https://github.com/facebook/pyre-check) - Pyre has a powerful feature for migrating codebases to a typed format. The [infer](https://pyre-check.org/docs/pysa-coverage/) command-line option ingests a file or directory, makes educated guesses about the types used, and applies the annotations to the files.
-*   [pytype annotate-ast (⭐4.1k)](https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast) - A work-in-progress tool to annotate the nodes of an AST with their Python types.
+*   [pyre infer (⭐6.4k)](https://github.com/facebook/pyre-check) - Pyre has a powerful feature for migrating codebases to a typed format. The [infer](https://pyre-check.org/docs/pysa-coverage/) command-line option ingests a file or directory, makes educated guesses about the types used, and applies the annotations to the files.
+*   [pytype annotate-ast (⭐4.3k)](https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast) - A work-in-progress tool to annotate the nodes of an AST with their Python types.
 
 ## [8. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Framework bindings / integrations / Mouse Events
 
-*   [react-unity-webgl (⭐1.4k)](https://github.com/elraccoone/react-unity-webgl) - Unity intergration with two-way communication using a built-in Event System.
+*   [react-unity-webgl (⭐1.5k)](https://github.com/elraccoone/react-unity-webgl) - Unity intergration with two-way communication using a built-in Event System.
 
 ## [9. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
@@ -78,11 +78,11 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Tree generator (⭐121)](https://github.com/Zylann/godot_tree_generator_plugin) - Tool for generating trees.
+*   [Tree generator (⭐131)](https://github.com/Zylann/godot_tree_generator_plugin) - Tool for generating trees.
 
 ### Modules / Godot 3.2+
 
-*   [Speech to Text (⭐26)](https://github.com/menip/godot_speech_to_text) - Captures the user's microphone input and converts it to text.
+*   [Speech to Text (⭐27)](https://github.com/menip/godot_speech_to_text) - Captures the user's microphone input and converts it to text.
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -92,31 +92,30 @@
 
 ### Management System
 
-*   [Esper](https://esper.io) — MDM and MAM for Android Devices with DevOps. 100 devices free with 1 user license and 25 MB Application Storage.
+*   [Esper](https://esper.io) — MDM and MAM for Android Devices with DevOps. One hundred devices free with one user license and 25 MB Application Storage.
 
 ### PaaS
 
-*   [encore.dev](https://encore.dev/) — Backend framework using static analysis to provide automatic infrastructure, boilerplate free code, and more. Includes free cloud hosting for hobby projects.
-*   [opeNode](https://openode.io) — Free Node.js hosting for Open Source projects. 100 GB Bandwidth/month with 100 MB memory & 1000 MB storage. Deploy using CLI or existing Git repository.
+*   [encore.dev](https://encore.dev/) — Backend framework using static analysis to provide automatic infrastructure, boilerplate-free code, and more. Includes free cloud hosting for hobby projects.
 
 ### Other Free Resources
 
-*   [github.com — FOSS for Dev (⭐829)](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
-*   [RedHat for Developers](https://developers.redhat.com) — Free access to Red Hat products including RHEL,OpenShift,CodeReady etc exclusively for developers. Individual plan only. Free e-Books also offered for reference.
+*   [github.com — FOSS for Dev (⭐902)](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
+*   [RedHat for Developers](https://developers.redhat.com) — Free access to Red Hat products including RHEL, OpenShift, CodeReady, etc. exclusively for developers. Individual plan only. Free e-books are also offered for reference.
 
 ## [12. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Fraud prevention / Online resources
 
-*   [FingerprintJS (⭐19k)](https://github.com/fingerprintjs/fingerprintjs) - Identifies browser and hybrid mobile application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
-*   [FingerprintJS Android (⭐425)](https://github.com/fingerprintjs/fingerprint-android) - Identifies Android application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
+*   [FingerprintJS (⭐20k)](https://github.com/fingerprintjs/fingerprintjs) - Identifies browser and hybrid mobile application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
+*   [FingerprintJS Android (⭐473)](https://github.com/fingerprintjs/fingerprint-android) - Identifies Android application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
 
 ## [13. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 
 *   [FlaxVision (⭐41)](https://github.com/rolandgvc/flaxvision) - Flax version of TorchVision. <img src="https://img.shields.io/github/stars/rolandgvc/flaxvision?style=social" align="center">
-*   [Oryx (⭐3.9k)](https://github.com/tensorflow/probability/tree/master/spinoffs/oryx) - Probabilistic programming language based on program transformations.
+*   [Oryx (⭐4k)](https://github.com/tensorflow/probability/tree/master/spinoffs/oryx) - Probabilistic programming language based on program transformations.
 
 ### Videos / NumPyro
 

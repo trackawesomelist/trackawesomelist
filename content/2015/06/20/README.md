@@ -20,7 +20,7 @@
 
 ### MVVM
 
-*   [Stylet (⭐889)](https://github.com/canton7/stylet/) - Minimal MVVM framework inspired by Caliburn Micro, with good documentation, high test coverage, and its own IoC container
+*   [Stylet (⭐911)](https://github.com/canton7/stylet/) - Minimal MVVM framework inspired by Caliburn Micro, with good documentation, high test coverage, and its own IoC container
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Python / Computer Vision
 
-*   [Vigranumpy (⭐384)](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
+*   [Vigranumpy (⭐391)](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
 
 ## [4. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 

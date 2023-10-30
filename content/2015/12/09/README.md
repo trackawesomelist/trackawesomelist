@@ -16,7 +16,7 @@
 
 ### Database Drivers
 
-*   [TinyTDS (⭐594)](https://github.com/rails-sqlserver/tiny_tds) - FreeTDS bindings for Ruby using DB-Library.
+*   [TinyTDS (⭐599)](https://github.com/rails-sqlserver/tiny_tds) - FreeTDS bindings for Ruby using DB-Library.
 
 ## [3. Amas](/content/sindresorhus/amas/README.md)
 

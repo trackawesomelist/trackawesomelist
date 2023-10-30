@@ -50,7 +50,7 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [MassTransit (⭐4.9k)](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET.
+*   [MassTransit (⭐6k)](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET.
 
 ## [7. Awesome Purescript](/content/passy/awesome-purescript/README.md)
 
@@ -65,15 +65,15 @@
 
 ### Other
 
-*   [npm-run-all (⭐5k)](https://github.com/mysticatea/npm-run-all) - CLI tool to run multiple npm-scripts in parallel or serial.
-*   [onchange (⭐775)](https://github.com/Qard/onchange) - Watch files and folders and run a command when something changed.
-*   [cli-error-notifier (⭐64)](https://github.com/micromata/cli-error-notifier) - Sends native desktop notifications when npm scripts fail.
+*   [npm-run-all (⭐5.4k)](https://github.com/mysticatea/npm-run-all) - CLI tool to run multiple npm-scripts in parallel or serial.
+*   [onchange (⭐793)](https://github.com/Qard/onchange) - Watch files and folders and run a command when something changed.
+*   [cli-error-notifier (⭐67)](https://github.com/micromata/cli-error-notifier) - Sends native desktop notifications when npm scripts fail.
 
 ## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Command-line apps
 
-*   [gtop (⭐9.4k)](https://github.com/aksakalli/gtop) - System monitoring dashboard for the terminal.
+*   [gtop (⭐9.5k)](https://github.com/aksakalli/gtop) - System monitoring dashboard for the terminal.
 
 ---
 

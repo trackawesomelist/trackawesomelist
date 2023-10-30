@@ -14,13 +14,13 @@
 
 ### Tools
 
-*   [oidc-bash-client (⭐78)](https://github.com/please-openit/oidc-bash-client)
+*   [oidc-bash-client (⭐86)](https://github.com/please-openit/oidc-bash-client)
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Integrations
 
-*   [vue-postgrest (⭐61)](https://github.com/technowledgy/vue-postgrest) - Vue.js integration for postgREST: flexible, powerful and easy to use.
+*   [vue-postgrest (⭐66)](https://github.com/technowledgy/vue-postgrest) - Vue.js integration for postgREST: flexible, powerful and easy to use.
 
 ## [3. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -30,12 +30,12 @@
 
 ### Component Libraries
 
-*   [elements-sk (⭐27)](https://github.com/google/elements-sk) - Collection of custom elements for "a la carte" web development.
-*   [Lume (⭐918)](https://github.com/lume/lume) - Custom elements for defining 2D or 3D scenes rendered with CSS3D or WebGL.
+*   [elements-sk (⭐28)](https://github.com/google/elements-sk) - Collection of custom elements for "a la carte" web development.
+*   [Lume (⭐1.1k)](https://github.com/lume/lume) - Custom elements for defining 2D or 3D scenes rendered with CSS3D or WebGL.
 
 ### Design Systems
 
-*   [Bolt Design System (⭐273)](https://github.com/boltdesignsystem/bolt) - Twig and Web Component-powered UI components, reusable visual styles and tooling.
+*   [Bolt Design System (⭐286)](https://github.com/boltdesignsystem/bolt) - Twig and Web Component-powered UI components, reusable visual styles and tooling.
 
 ## [4. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -68,7 +68,7 @@
 
 ### TextField / Barcode
 
-*   [CHIOTPField (⭐247)](https://github.com/ChiliLabs/CHIOTPField) - A set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc.
+*   [CHIOTPField (⭐263)](https://github.com/ChiliLabs/CHIOTPField) - A set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc.
 
 ### Video / Barcode
 
@@ -109,7 +109,7 @@
 
 ### Web Programming • Libraries
 
-*   [OGL.js (⭐3k)](https://github.com/oframe/ogl) - JavaScript 3D library (WebGL)
+*   [OGL.js (⭐3.1k)](https://github.com/oframe/ogl) - JavaScript 3D library (WebGL)
 
 ### Schools • Workshops / Other
 

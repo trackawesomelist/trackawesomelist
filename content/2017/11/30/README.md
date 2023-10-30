@@ -17,7 +17,7 @@
 ### Development tools / IDEs
 
 *   [Sublime Text](https://www.sublimetext.com/)
-    *   [rust-lang/rust-enhanced (⭐724)](https://github.com/rust-lang/rust-enhanced) — official Rust package
+    *   [rust-lang/rust-enhanced (⭐743)](https://github.com/rust-lang/rust-enhanced) — official Rust package
 
 ## [3. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Cedar Rapids
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/levibostian" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/levibostian" height="70px" width="70px" align="left" alt="" />
 
 **Levi Bostian**\
 Topics: Android, RxJava, Kotlin, Freelancing, Swift, iOS, Productivity, Startups, Bootstrapping

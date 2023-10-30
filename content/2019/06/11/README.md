@@ -10,8 +10,8 @@
 
 ### Cross-platform development
 
-*   [universal\_io (⭐2)](https://github.com/terrier989/universal_io) - *dart:io* that also works in the browser.
-*   [universal\_html (⭐138)](https://github.com/terrier989/universal_html) - *dart:html* that also works in the VM/Flutter.
+*   [universal\_io (⭐82)](https://github.com/terrier989/universal_io) - *dart:io* that also works in the browser.
+*   [universal\_html (⭐170)](https://github.com/terrier989/universal_html) - *dart:html* that also works in the VM/Flutter.
 
 ## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -21,15 +21,15 @@
 
 ### Julia / Natural Language Processing
 
-*   [Word Tokenizers (⭐88)](https://github.com/JuliaText/WordTokenizers.jl) - Tokenizers for Natural Language Processing in Julia
+*   [Word Tokenizers (⭐91)](https://github.com/JuliaText/WordTokenizers.jl) - Tokenizers for Natural Language Processing in Julia
 *   [Corpus Loaders (⭐32)](https://github.com/JuliaText/CorpusLoaders.jl) - A Julia package providing a variety of loaders for various NLP corpora.
-*   [Embeddings (⭐73)](https://github.com/JuliaText/Embeddings.jl) - Functions and data dependencies for loading various word embeddings
-*   [Languages (⭐48)](https://github.com/JuliaText/Languages.jl) - Julia package for working with various human languages
+*   [Embeddings (⭐74)](https://github.com/JuliaText/Embeddings.jl) - Functions and data dependencies for loading various word embeddings
+*   [Languages (⭐50)](https://github.com/JuliaText/Languages.jl) - Julia package for working with various human languages
 *   [WordNet (⭐31)](https://github.com/JuliaText/WordNet.jl) - A Julia package for Princeton's WordNet
 
 ### Julia / Misc Stuff / Presentations
 
-*   [DataDeps (⭐134)](https://github.com/oxinabox/DataDeps.jl) - Reproducible data setup for reproducible science.
+*   [DataDeps (⭐140)](https://github.com/oxinabox/DataDeps.jl) - Reproducible data setup for reproducible science.
 
 ## [3. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Apps / Widgets
 
-*   [wagtail-instance-selector (⭐53)](https://github.com/ixc/wagtail-instance-selector) - A `ForeignKey` widget to create and select related items. Similar to Django's `raw_id_fields`.
+*   [wagtail-instance-selector (⭐54)](https://github.com/ixc/wagtail-instance-selector) - A `ForeignKey` widget to create and select related items. Similar to Django's `raw_id_fields`.
 
 ---
 

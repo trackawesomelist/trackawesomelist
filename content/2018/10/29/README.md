@@ -70,13 +70,13 @@
 
 ### Service Programming
 
-*   [Mara (⭐1.9k)](https://github.com/mara/data-integration) - A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow
+*   [Mara (⭐2k)](https://github.com/mara/data-integration) - A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow
 
 ## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Multimedia
 
-*   [TagLib (⭐1k)](https://github.com/taglib/taglib) - A library for reading and editing the metadata of several popular audio formats. \[LGPL/MPL] [website](https://taglib.org/)
+*   [TagLib (⭐1.1k)](https://github.com/taglib/taglib) - A library for reading and editing the metadata of several popular audio formats. \[LGPL/MPL] [website](https://taglib.org/)
 
 ## [10. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
@@ -95,10 +95,6 @@
 *   [Free Code Camp](https://www.freecodecamp.org/) - An open source community that helps you learn to code.
 
 ## [12. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
-
-### Unofficial
-
-*   [Crystal Mastery](https://crystalmastery.io/) - Screencasts for learning Crystal
 
 ### Official Documentation Translations
 

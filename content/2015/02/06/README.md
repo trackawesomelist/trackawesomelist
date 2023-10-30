@@ -14,7 +14,7 @@
 
 ### Scheduling
 
-*   [minicron (⭐2.4k)](https://github.com/jamesrwhite/minicron) - A system to manage and monitor cron jobs.
+*   [minicron (⭐2.3k)](https://github.com/jamesrwhite/minicron) - A system to manage and monitor cron jobs.
 
 ## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -24,7 +24,7 @@
 
 ### Third Party APIs
 
-*   [mandrill (⭐50)](https://github.com/slogsdon/mandrill-elixir) - A Mandrill wrapper for Elixir.
+*   [mandrill (⭐51)](https://github.com/slogsdon/mandrill-elixir) - A Mandrill wrapper for Elixir.
 
 ## [3. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 

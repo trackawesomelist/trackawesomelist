@@ -24,7 +24,7 @@
 
 ### Icons / Icon Fonts
 
-*   [Topcoat Icons (⭐259)](https://github.com/topcoat/icons) - [:copyright:](http://www.apache.org/licenses/LICENSE-2.0) Icons by [Topcoat](http://topcoat.io/).
+*   [Topcoat Icons (⭐260)](https://github.com/topcoat/icons) - [:copyright:](http://www.apache.org/licenses/LICENSE-2.0) Icons by [Topcoat](http://topcoat.io/).
 
 ### Colors / Icons Packages and Collections
 
@@ -39,7 +39,7 @@
 
 ### CLI Utilities
 
-*   [Paint (⭐347)](https://github.com/janlelis/paint) - Simple and fast way to set ANSI terminal colors.
+*   [Paint (⭐358)](https://github.com/janlelis/paint) - Simple and fast way to set ANSI terminal colors.
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -49,20 +49,20 @@
 
 ### Applications
 
-*   [Queerlink (⭐35)](https://github.com/Queertoo/Queerlink) - A simple yet efficient URL shortening service written in Elixir.
+*   [Queerlink (⭐36)](https://github.com/Queertoo/Queerlink) - A simple yet efficient URL shortening service written in Elixir.
 
 ### Authentication
 
 *   [ueberauth (⭐1.5k)](https://github.com/ueberauth/ueberauth) - An Elixir Authentication System for Plug-based Web Applications.
-*   [ueberauth\_facebook (⭐75)](https://github.com/ueberauth/ueberauth_Facebook) - Facebook OAuth2 Strategy for Überauth.
-*   [ueberauth\_github (⭐97)](https://github.com/ueberauth/ueberauth_github) - A GitHub strategy for Überauth.
-*   [ueberauth\_google (⭐149)](https://github.com/ueberauth/ueberauth_google) - A Google strategy for Überauth.
-*   [ueberauth\_identity (⭐78)](https://github.com/ueberauth/ueberauth_identity) - A simple username/password strategy for Überauth.
+*   [ueberauth\_facebook (⭐74)](https://github.com/ueberauth/ueberauth_Facebook) - Facebook OAuth2 Strategy for Überauth.
+*   [ueberauth\_github (⭐100)](https://github.com/ueberauth/ueberauth_github) - A GitHub strategy for Überauth.
+*   [ueberauth\_google (⭐154)](https://github.com/ueberauth/ueberauth_google) - A Google strategy for Überauth.
+*   [ueberauth\_identity (⭐79)](https://github.com/ueberauth/ueberauth_identity) - A simple username/password strategy for Überauth.
 *   [ueberauth\_slack (⭐23)](https://github.com/ueberauth/ueberauth_slack) - A Slack strategy for Überauth.
 
 ### HTTP
 
-*   [scrape (⭐324)](https://github.com/Anonyfox/elixir-scrape) - Scrape any website, article or RSS/Atom Feed with ease.
+*   [scrape (⭐326)](https://github.com/Anonyfox/elixir-scrape) - Scrape any website, article or RSS/Atom Feed with ease.
 
 ### Utilities
 
@@ -166,7 +166,7 @@
 
 ### Testing
 
-*   [ExpressionToCode (⭐146)](https://github.com/EamonNerbonne/ExpressionToCode) - Use plain C# syntax in assertions that include both the expression expression and subexpression values in the failure message.
+*   [ExpressionToCode (⭐153)](https://github.com/EamonNerbonne/ExpressionToCode) - Use plain C# syntax in assertions that include both the expression expression and subexpression values in the failure message.
 
 ## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

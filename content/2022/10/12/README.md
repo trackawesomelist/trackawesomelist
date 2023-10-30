@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 12, 2022
 
-15 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,28 +12,18 @@
 
 *   [Unacast](https://www.unacast.com/) - Provides location based analytics related to how people move across 80+ countries ranging from foot-traffic metrics to cross-visitation.
 
-## [2. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
-
-### Wikipedia
-
-*   [Wikiless](https://wikiless.org/) - [Wikiless repository has been removed by Codeberg, follow news here](https://orenom.fi/) - A free open source alternative Wikipedia front-end focused on privacy [Source Code](https://codeberg.org/orenom/wikiless).
-
-## [3. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [2. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ### Software / Libraries and Tools
 
 *   [Explore IoT Libraries](https://kandi.openweaver.com/explore/internet-of-things) - Discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 
-## [4. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [3. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Blockchain
 
 *   [Crypto Jobs](https://www.cryptojobs.co/) - CryptoJobs.co is the web's fastest growing crypto jobs discovery platform.
 *   [Remote Web3 Jobs](https://remote3.co) - A remote web3 job board onboarding people to web3 sharing web3 content, guides & tutorials for free.
-
-### Design
-
-*   [IXDA](https://www.ixda.org/jobs/)
 
 ### Programming / JavaScript
 
@@ -52,7 +42,7 @@
 *   [coolstartupjobs](https://www.coolstartupjobs.com) - Find jobs at growing startups
 *   [Work in biotech](https://workinbiotech.com/) - Find a biotech startup job
 
-## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
@@ -62,7 +52,7 @@
 
 *   [ASP.NET Core updates in .NET 7 Release Candidate 2](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-rc-2/) - October 11, 2022 - .NET 7 Release Candidate 2 (RC2) is now available and includes many great new improvements to ASP.NET Core and Blazor: improved diagnostics for authentication in Blazor WebAssembly and WebAssembly multithreading (experimental).
 
-## [6. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
+## [5. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
 ### Frontends
 
@@ -73,21 +63,21 @@
 *   **DEITY**
 *   **ScandiPWA**
 
-## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [lets-cli (⭐2)](https://github.com/lets-cli/lets-zsh-plugin) - Add autocompletion for [lets (⭐66)](https://github.com/lets-cli/lets) cli task runner.
-*   [ssh (sunlei) (⭐45)](https://github.com/sunlei/zsh-ssh) - Better host completion for `ssh`.
-*   [ssh (zpm-zsh) (⭐17)](https://github.com/zpm-zsh/ssh) - Add host completion for `ssh`.
+*   [lets-cli (⭐2)](https://github.com/lets-cli/lets-zsh-plugin) - Add autocompletion for [lets (⭐71)](https://github.com/lets-cli/lets) cli task runner.
+*   [ssh (sunlei) (⭐76)](https://github.com/sunlei/zsh-ssh) - Better host completion for `ssh`.
+*   [ssh (zpm-zsh) (⭐19)](https://github.com/zpm-zsh/ssh) - Add host completion for `ssh`.
 
-## [8. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [7. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### Flow-based programming
 
 *   [Impira](https://www.impira.com/) - Grab data from any document in seconds with Impira’s no-code platform powered by machine learning.
 
-## [9. Awesome Plone](/content/collective/awesome-plone/README.md)
+## [8. Awesome Plone](/content/collective/awesome-plone/README.md)
 
 ### Searching and Categorizing
 
@@ -97,47 +87,41 @@
 
 *   [collective.patchwatcher (⭐0)](https://github.com/collective/collective.patchwatcher) - A great companion for keeping track of patched or overridden files.
 
-## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Web
 
-*   [ExpediaDotCom/graphql-kotlin (⭐1.6k)](https://github.com/ExpediaDotCom/graphql-kotlin) - Code-only GraphQL schema generation for Kotlin
+*   [ExpediaDotCom/graphql-kotlin (⭐1.7k)](https://github.com/ExpediaDotCom/graphql-kotlin) - Code-only GraphQL schema generation for Kotlin
 
 ### Android / Multiplatform
 
-*   [cossacklabs/themis (⭐1.7k)](https://github.com/cossacklabs/themis) - Multi-language framework for solving typical data security tasks: storage and messaging encryption, authentication, works for 14 languages.
+*   [cossacklabs/themis (⭐1.8k)](https://github.com/cossacklabs/themis) - Multi-language framework for solving typical data security tasks: storage and messaging encryption, authentication, works for 14 languages.
 
-## [11. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [10. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Authentication and OAuth
 
-*   [Sorcery (⭐1.3k)](https://github.com/Sorcery/sorcery) - A stripped-down, bare-bones authentication library for Rails.
+*   [Sorcery (⭐1.4k)](https://github.com/Sorcery/sorcery) - A stripped-down, bare-bones authentication library for Rails.
 
-## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-### (requires Neovim 0.5)
-
-*   [jose-elias-alvarez/typescript.nvim (⭐444)](https://github.com/jose-elias-alvarez/typescript.nvim) - Utilities to improve the TypeScript development experience for Neovim's built-in LSP client.
-
-## [13. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [11. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Libraries
 
 *   [gluon2keras (⭐0)](https://github.com/stjordanis/gluon2keras) - Convert Gluon models to Keras (with TensorFlow backend) format
 
-## [14. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [12. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
-*   [note-to-yew (⭐3)](https://github.com/oovm/note-to-yew) - Convert your markups into Yew macro online, which is also made by Yew.
-*   [yew-d3-example (⭐21)](https://github.com/ivanschuetz/yew-d3-example) - Showing a d3 chart with Yew.
-*   [zzhack (⭐300)](https://github.com/zzhack-stack/zzhack) - A personal blog, based on Rust & Yew, [Live Demo](https://www.zzhack.fun/).
+*   [note-to-yew (⭐2)](https://github.com/oovm/note-to-yew) - Convert your markups into Yew macro online, which is also made by Yew.
+*   [yew-d3-example (⭐22)](https://github.com/ivanschuetz/yew-d3-example) - Showing a d3 chart with Yew.
+*   [zzhack (⭐308)](https://github.com/zzhack-stack/zzhack) - A personal blog, based on Rust & Yew, [Live Demo](https://www.zzhack.fun/).
 
-## [15. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
+## [13. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### PHP / Svelte
+### C / Non-X86
 
-*   [PHP4徹底攻略改訂版](https://net-newbie.com/prev/support/pdf2/)
+*   [Let us C](https://archive.org/download/let-us-c/LET%20US%20C.pdf) - Yashavant Kanetkar (PDF)
 
 ---
 

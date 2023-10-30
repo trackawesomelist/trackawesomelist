@@ -10,22 +10,22 @@
 
 ### Network / HTTP
 
-*   [truemedian/zfetch (⭐60)](https://github.com/truemedian/zfetch) - HTTP(S) client based on iguanaTLS.
-*   [ducdetronquito/requestz (⭐102)](https://github.com/ducdetronquito/requestz) - HTTP client based on h11.
+*   [truemedian/zfetch (⭐59)](https://github.com/truemedian/zfetch) - HTTP(S) client based on iguanaTLS.
+*   [ducdetronquito/requestz (⭐113)](https://github.com/ducdetronquito/requestz) - HTTP client based on h11.
 
 ## [2. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Front-End Development
 
-*   [React (⭐55k)](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
-    *   [Relay (⭐260)](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
-    *   [React Hooks (⭐1.1k)](https://github.com/glauberfc/awesome-react-hooks#readme) - Lets you use state and other React features without writing a class.
+*   [React (⭐59k)](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
+    *   [Relay (⭐269)](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
+    *   [React Hooks (⭐1.2k)](https://github.com/glauberfc/awesome-react-hooks#readme) - Lets you use state and other React features without writing a class.
 
 ## [3. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Community
 
-*   [Terraform Twitter Community](https://twitter.com/i/communities/1501688565884928007)
+*   [Terraform Twitter Community](https://twitter.com/i/communities/1501688565884928007) <!-- markdown-link-check-disable-line -->
 *   Language-specific communities:
     *   [Telegram (Ukrainian speak community)](https://t.me/terraform_ukraine)
 
@@ -33,17 +33,17 @@
 
 *   [Writing a Terraform provider](https://web.archive.org/web/20220516140659/http://blog.jfabre.net/2017/01/22/writing-terraform-provider/) - Guide for creating custom providers.
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
-*   [tfedit (⭐80)](https://github.com/minamijoyo/tfedit) - A refactoring tool for Terraform.
+*   [tfedit (⭐82)](https://github.com/minamijoyo/tfedit) - A refactoring tool for Terraform.
 
-### Terraform Enterprise / Vendor supported providers
+### Terraform Enterprise / IDE
 
 *   [Spacelift](https://spacelift.io/) - Alternative to Terraform Cloud/Enterprise. Collaborative Infrastructure Delivery Platform for Terraform :heavy\_dollar\_sign:
 
-### Editor Plugins / Vendor supported providers
+### Editor Plugins / IDE
 
-*   [Terraform-ls (⭐827)](https://github.com/hashicorp/terraform-ls) (Terraform Language Server)
+*   [Terraform-ls (⭐892)](https://github.com/hashicorp/terraform-ls) (Terraform Language Server)
 
 ## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -80,19 +80,19 @@
 
 ### Audio
 
-*   [VOICEVOX (⭐1.4k)](https://github.com/VOICEVOX/voicevox) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター. \[日本語]
+*   [VOICEVOX (⭐2k)](https://github.com/VOICEVOX/voicevox) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター. \[日本語]
 
 ## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### UI Animation / Syntax Highlight
 
-*   [react-animatable (⭐16)](https://github.com/inokawa/react-animatable) - An animation library using Web Animations API.
+*   [react-animatable (⭐25)](https://github.com/inokawa/react-animatable) - An animation library using Web Animations API.
 
 ## [10. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Logging
 
-*   [phuslu/log (⭐495)](https://github.com/phuslu/log) - High performance structured logging.
+*   [phuslu/log (⭐515)](https://github.com/phuslu/log) - High performance structured logging.
 
 ---
 

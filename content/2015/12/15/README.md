@@ -16,11 +16,11 @@
 
 ### Natural Language Processing / Data Analysis / Data Visualization
 
-*   [jieba-php (⭐1.2k)](https://github.com/fukuball/jieba-php) - Chinese Words Segmentation Utilities.
+*   [jieba-php (⭐1.3k)](https://github.com/fukuball/jieba-php) - Chinese Words Segmentation Utilities.
 
 ### Python / Computer Vision
 
-*   [Scikit-Image (⭐5.4k)](https://github.com/scikit-image/scikit-image) - A collection of algorithms for image processing in Python.
+*   [Scikit-Image (⭐5.6k)](https://github.com/scikit-image/scikit-image) - A collection of algorithms for image processing in Python.
 
 ## [3. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
@@ -79,78 +79,35 @@
 
 *   [Rest for Haskell (⭐387)](https://github.com/silkapp/rest) - This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
 
-## [6. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
+## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### 0 - 言語非依存 / グラフィックスプログラミング
+### Haxe / Spock Framework
 
-*   [仮想物理実験室構築のためのOpenGL, WebGL, GLSL入門](http://www.natural-science.or.jp/laboratory/opengl_intro.php) - 遠藤理平
+*   [HaxeFlixel Handbook](http://haxeflixel.com/documentation/haxeflixel-handbook/) (HTML)
 
-### 0 - 言語非依存 / その他の話題
+### iOS / Bootstrap
 
-*   [青木靖 翻訳集](http://www.aoky.net) - 青木靖
+*   [Start Developing iOS Apps Today (Objective-C) - Last updated 22.10.2013](http://everythingcomputerscience.com/books/RoadMapiOS.pdf) (PDF)
 
-### 0 - 言語非依存 / 正規表現
+### LaTeX / TeX / TeX
 
-*   [正規表現メモ](http://www.kt.rim.or.jp/~kbk/regex/regex.html) - 木村浩一
+*   [Notes On Programming in TeX](http://pgfplots.sourceforge.net/TeX-programming-notes.pdf) - Christian Feursänger (PDF)
+*   [TeX by Topic, A TeXnician's Reference](http://eijkhout.net/texbytopic/texbytopic.html) - Victor Eijkhout
 
-### Android / 理論計算機科学
+### Lisp / TeX
 
-*   [Android Open Text book (⭐255)](https://github.com/TechBooster/AndroidOpenTextbook) - TechBooster
-*   [Android アプリのセキュア設計・セキュアコーディングガイド](https://www.jssec.org/report/securecoding.html) - 一般社団法人日本スマートフォンセキュリティ協会(JSSEC)
+*   [Common Lisp Quick Reference](http://clqr.boundp.org)
+*   [Common Lisp the Language, 2nd Edition](http://www.cs.cmu.edu/Groups/AI/html/cltl/mirrors.html)
 
-### AppleScript / 理論計算機科学
+### Python / Constraint Logic Programming (extended Prolog)
 
-*   [AppleScript 言語ガイド(改訂版)](https://sites.google.com/site/zzaatrans/home/applescriptlangguide)
+*   [Learn Python, Break Python](http://learnpythonbreakpython.com)
+*   [Python 2 Official Documentation](https://docs.python.org/2/download.html) (PDF, HTML, TEXT) (2.x)
+*   [Python 3 Official Documentation](https://docs.python.org/3/download.html) (PDF, EPUB, HTML, TEXT) (3.x)
 
-### AWK / 理論計算機科学
+### Ruby / Sinatra
 
-*   [Effective AWK Programming](http://www.kt.rim.or.jp/~kbk/gawk-30/gawk_toc.html) - Arnold D. Robbins
-
-### C / 理論計算機科学
-
-*   [C言語](https://ja.wikibooks.org/wiki/C%E8%A8%80%E8%AA%9E) - Wikibooks
-
-### C++ / 理論計算機科学
-
-*   [C++11の文法と機能(C++11: Syntax and Feature)](https://ezoeryou.github.io/cpp-book/C++11-Syntax-and-Feature.xhtml) - 江添亮
-
-### Git / 理論計算機科学
-
-*   [デザイナのための Git (⭐227)](https://github.com/hatena/Git-for-Designers) - はてな教科書
-
-### JavaScript / Spock Framework
-
-*   [JavaScript 言語リファレンス](https://msdn.microsoft.com/ja-jp/library/d1et7k7c.aspx) - MSDN Library
-*   [Mozilla Developer Network 日本語ドキュメント](https://developer.mozilla.org/ja/docs/Web/JavaScript) - MDN
-
-### JavaScript / Node.js
-
-*   [node.js 怒濤の50サンプル!! – socket.io編 (⭐23)](https://github.com/omatoro/NodeSample) - omatoro
-
-### Mercurial / Svelte
-
-*   [Mercurial: The Definitive Guide](http://foozy.bitbucket.org/hgbook-ja/index.ja.html) - Bryan O'Sullivan, 藤原克則(翻訳)
-
-### Objective-C / Svelte
-
-*   [Google Objective-C スタイルガイド 日本語訳](http://www.textdrop.net/google-styleguide-ja/objcguide.xml) - Mike Pinkerton, Greg Miller, Dave MacLachlan, Takashi Sasai(翻訳)
-
-### PHP / Svelte
-
-*   [PHP によるデザインパターン入門](https://web.archive.org/web/20140703001758/http://www.doyouphp.jp/book/book_phpdp.shtml)
-
-### Python / Symfony
-
-*   [Dive Into Python 3 日本語版](http://diveintopython3-ja.rdy.jp) - Mark Pilgrim, Fukada(翻訳), Fujimoto(翻訳)
-
-### R / Flask
-
-*   [R-Tips](http://cse.naro.affrc.go.jp/takezawa/r-tips/r2.html) - 舟尾暢男
-
-### Scheme / Flask
-
-*   [Gauche プログラミング(立読み版)](https://web.archive.org/web/20140521224625/http://karetta.jp/book-cover/gauche-hacks) - 川合史朗(監修), Kahuaプロジェクト
-*   [Scheme 入門 スーパービギナー編](https://sites.google.com/site/atponslisp/home/scheme/racket/schemenyuumon-1/schemenyuumon)
+*   [Sinatra Book (⭐667)](https://github.com/sinatra/sinatra-book)
 
 ## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

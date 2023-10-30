@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 02, 2021
 
-19 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -21,7 +21,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [mizlan/iswap.nvim (⭐424)](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
+*   [mizlan/iswap.nvim (⭐469)](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
 
 ## [3. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -33,7 +33,7 @@
 
 ### Python / Risk Analysis
 
-*   [Empyrial (⭐728)](https://github.com/ssantoshp/Empyrial) - Portfolio's risk and performance analytics and returns predictions.
+*   [Empyrial (⭐788)](https://github.com/ssantoshp/Empyrial) - Portfolio's risk and performance analytics and returns predictions.
 
 ## [5. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
@@ -45,19 +45,19 @@
 
 ### Applications
 
-*   [Pollen (⭐5)](https://github.com/maxtheaxe/pollen): A decentralized messaging service that functions without any internet or mesh connection. Written in Python.
+*   [Pollen (⭐7)](https://github.com/maxtheaxe/pollen): A decentralized messaging service that functions without any internet or mesh connection. Written in Python.
 
 ## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Files and Directories / Search
 
-*   [rare (⭐202)](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
+*   [rare (⭐234)](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
 
 ## [8. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### File Management and Sharing
 
-*   [OnionShare (⭐5.6k)](https://github.com/micahflee/onionshare) - An open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
+*   [OnionShare (⭐5.7k)](https://github.com/micahflee/onionshare) - An open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
 
 ## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -84,11 +84,11 @@
 
 ### Apps/Websites / Community
 
-*   [react-device-frameset (⭐42)](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
+*   [react-device-frameset (⭐53)](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
 
 ## [13. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
-### Feed item filtering / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Feed item filtering / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [grepfeed](https://grepfeed.sigwait.tk/) <sup>[716](https://t.me/s/aboutrss/716)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/gromnitsky/grepfeed)
 
@@ -104,25 +104,19 @@
 
 *   [Mastershot](https://mastershot.app) - Completely free browser-based video editor. No watermark, up to 1080p export options.
 
-## [16. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
-
-### Apps
-
-*   [P2Pdoc](https://p2pdoc.glitch.me/) - P2Pdoc allows you to create a document and then upload it to the distributed web. [Source (⭐4)](https://github.com/aboutDavid/p2pdoc)
-
-## [17. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
+## [16. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
 
 ### Software and Tools
 
 *   [Eva](https://eva.guru/) - Connects the most important aspects of your Amazon business into a single intuitive dashboard - price management, replenishments, reimbursements, analytics.
 
-## [18. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/README.md)
+## [17. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/README.md)
 
 ### Conferences / Articles
 
 *   [Social Enterprise Summit](https://www.ses.org.hk/) - Annual social enterprise conference based in Hong Kong.
 
-## [19. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [18. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### CLI & Editor / iOS
 

@@ -17,19 +17,19 @@
 
 ### Algorithms and Data structures
 
-*   [bisect (⭐11)](https://github.com/spider-gazelle/bisect) - Inserting values into a sorted array
+*   [bisect (⭐12)](https://github.com/spider-gazelle/bisect) - Inserting values into a sorted array
 
 ### Processes and Threads
 
-*   [promise (⭐37)](https://github.com/spider-gazelle/promise) - A Promise implementation with type inference
+*   [promise (⭐39)](https://github.com/spider-gazelle/promise) - A Promise implementation with type inference
 
 ### Scheduling
 
-*   [tasker (⭐45)](https://github.com/spider-gazelle/tasker) - A high precision scheduler including timezone aware cron jobs
+*   [tasker (⭐47)](https://github.com/spider-gazelle/tasker) - A high precision scheduler including timezone aware cron jobs
 
 ### Shell plugins
 
-*   [crun (⭐38)](https://github.com/Val/crun) - Crystal Run : shebang wrapper for Crystal
+*   [crun (⭐42)](https://github.com/Val/crun) - Crystal Run : shebang wrapper for Crystal
 
 ## [3. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -59,7 +59,7 @@
 
 ### Images / Barcode
 
-*   [ATGMediaBrowser (⭐204)](https://github.com/altayer-digital/ATGMediaBrowser) - Image slide-show viewer with multiple predefined transition styles, and with ability to create new transitions with ease.
+*   [ATGMediaBrowser (⭐209)](https://github.com/altayer-digital/ATGMediaBrowser) - Image slide-show viewer with multiple predefined transition styles, and with ability to create new transitions with ease.
 
 ## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -98,11 +98,11 @@
 
 ### Web Frameworks
 
-*   [Spring-Boot](https://projects.spring.io/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that can you can "just run"
+*   [Spring-Boot](https://projects.spring.io/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that can you can "just run". Use Groovy as your coding language.
 
 ### Testing
 
-*   [Betamax (⭐459)](https://github.com/betamaxteam/betamax) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
+*   [Betamax (⭐462)](https://github.com/betamaxteam/betamax) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
 
 ### Concurrency
 
@@ -110,11 +110,11 @@
 
 ### Code Analysis
 
-*   [Sonar-Groovy (⭐52)](https://github.com/pmayweg/sonar-groovy) - SonarQube Groovy plugin
+*   [Sonar-Groovy (⭐53)](https://github.com/pmayweg/sonar-groovy) - SonarQube Groovy plugin
 
 ### Conferences
 
-*   [GR8Conf Europe](https://gr8conf.eu)
+*   [GR8Conf Europe](https://gr8conf.eu) (discontinued)
 
 ---
 

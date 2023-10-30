@@ -28,13 +28,13 @@ git cherry -v master <branch-to-be-merged>
 
 ### Physics
 
-*   [Box2D (⭐6.5k)](https://github.com/erincatto/Box2D) - A 2D physics engine for games. \[BSD-like]
+*   [Box2D (⭐6.8k)](https://github.com/erincatto/Box2D) - A 2D physics engine for games. \[BSD-like]
 
 ## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### SDK and API Clients
 
-*   [Azure PowerShell (⭐3.6k)](https://github.com/Azure/azure-powershell) - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
+*   [Azure PowerShell (⭐3.8k)](https://github.com/Azure/azure-powershell) - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
 
 ## [4. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 
@@ -47,9 +47,9 @@ git cherry -v master <branch-to-be-merged>
 
 ### Specifications
 
-*   [Open Container Specifications (⭐2.6k)](https://github.com/opencontainers/specs)\
+*   [Open Container Specifications (⭐2.9k)](https://github.com/opencontainers/specs)\
     This project is where the Open Container Initiative Specifications are written. This is a work in progress.
-*   [App Container basics (⭐8.9k)](https://github.com/coreos/rkt/blob/master/Documentation/app-container.md)\
+*   [App Container basics (⭐8.8k)](https://github.com/coreos/rkt/blob/master/Documentation/app-container.md)\
     App Container (appc) is an open specification that defines several aspects of how to run applications in containers: an image format, runtime environment, and discovery protocol.
 
 ### Clouds
@@ -59,22 +59,22 @@ git cherry -v master <branch-to-be-merged>
 
 ### Hypervisors
 
-*   [LXD (⭐3.5k)](https://github.com/lxc/lxd)\
+*   [LXD (⭐4k)](https://github.com/lxc/lxd)\
     Daemon based on liblxc offering a REST API to manage LXC containers.
 *   [OpenVZ](https://openvz.org/)\
     OpenVZ is container-based virtualization for Linux. OpenVZ creates multiple secure, isolated Linux containers (otherwise known as VEs or VPSs) on a single physical server enabling better server utilization and ensuring that applications do not conflict.
 
 ### Containers
 
-*   [runc (⭐9.7k)](https://github.com/opencontainers/runc)\
+*   [runc (⭐11k)](https://github.com/opencontainers/runc)\
     runc is a CLI tool for spawning and running containers according to the OCS specification.
-*   [Rocket (⭐8.9k)](https://github.com/coreos/rkt)\
+*   [Rocket (⭐8.8k)](https://github.com/coreos/rkt)\
     rkt (pronounced "rock-it") is a CLI for running app containers on Linux. rkt is designed to be composable, secure, and fast. Based on AppC specification.
-*   [LXC (⭐3.8k)](https://github.com/lxc/lxc)\
+*   [LXC (⭐4.1k)](https://github.com/lxc/lxc)\
     LXC is the well known set of tools, templates, library and language bindings. It's pretty low level, very flexible and covers just about every containment feature supported by the upstream kernel.
 *   [Vagga (⭐1.8k)](https://github.com/tailhook/vagga)\
     Vagga is a fully-userspace container engine inspired by Vagrant and Docker, specialized for development environments.
-*   [libct (⭐100)](https://github.com/xemul/libct)\
+*   [libct (⭐101)](https://github.com/xemul/libct)\
     Libct is a containers management library which provides convenient API for frontend programs to rule a container during its whole lifetime.
 *   [libvirt](https://libvirt.org/drvlxc.html)\
     A big toolkit to interact with the virtualization capabilities of recent versions of Linux (and other OSes).
@@ -83,7 +83,7 @@ git cherry -v master <branch-to-be-merged>
 
 *   [Firejail](https://l3net.wordpress.com/projects/firejail/)\
     Firejail is a SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities.
-*   [Subuser (⭐873)](https://github.com/subuser-security/subuser)\
+*   [Subuser (⭐881)](https://github.com/subuser-security/subuser)\
     Securing the Linux desktop with Docker.
 *   [Snappy](https://wiki.ubuntu.com/SecurityTeam/Specifications/SnappyConfinement)\
     Snappy Ubuntu Core is a new rendition of Ubuntu with transactional updates - a minimal server image with the same libraries as today’s Ubuntu, but applications are provided through a simpler mechanism.
@@ -98,7 +98,7 @@ git cherry -v master <branch-to-be-merged>
     Process network namespace management. Part of the iproute2.
 *   [unshare](http://man7.org/linux/man-pages/man1/unshare.1.html)\
     Run program with some namespaces unshared from parent. Part of the util-linux.
-*   [python-nsenter (⭐137)](https://github.com/zalando/python-nsenter)\
+*   [python-nsenter (⭐136)](https://github.com/zalando/python-nsenter)\
     This Python package allows entering Linux kernel namespaces (mount, IPC, net, PID, user and UTS) by doing the "setns" syscall.
 *   [butter](https://pypi.python.org/pypi/butter)\
     Python library to interface to low level linux features (inotify, fanotify, timerfd, signalfd, eventfd, containers) with asyncio support.

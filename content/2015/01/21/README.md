@@ -26,7 +26,7 @@
 
 ### Text and Numbers
 
-*   [base58check (⭐15)](https://github.com/gjaldon/base58check) - Base58Check encoding/decoding for Bitcoin.
+*   [base58check (⭐16)](https://github.com/gjaldon/base58check) - Base58Check encoding/decoding for Bitcoin.
 
 ## [4. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 

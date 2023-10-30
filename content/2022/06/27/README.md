@@ -1,51 +1,57 @@
 # Awesome List Updates on Jun 27, 2022
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
+## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Assembly Language / Blazor
+
+*   [The Grain Docs](https://grain-lang.org/docs/)
+
+## [2. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
 
 ### More resources
 
 *   [Design Systems Survey](https://designsystemssurvey.seesparkbox.com/) - Designers and developers from more than 20 industries tell us about their design systems and their uses.
 
-## [2. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+## [3. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### Parser / Package managers
 
 *   [iddev5/inon (⭐10)](https://github.com/iddev5/inon) - Data configuration file format.
 
-## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 2
 
-*   [vite-vue2-ts-template-starter (⭐7)](https://github.com/Luncode/vite-vue2-ts-template-starter) - Vite + Vue2 + Typescript + Vuex + Vue-router + Axios + Sass Simple Template.
+*   [vite-vue2-ts-template-starter (⭐8)](https://github.com/Luncode/vite-vue2-ts-template-starter) - Vite + Vue2 + Typescript + Vuex + Vue-router + Axios + Sass Simple Template.
 
 ### Framework-agnostic Plugins / Testing
 
-*   [vitest-mock-extended (⭐68)](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
+*   [vitest-mock-extended (⭐102)](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
 
-## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Color / Diagnostics
 
-*   [ziontee113/color-picker.nvim (⭐206)](https://github.com/ziontee113/color-picker.nvim) - Plugin that lets users choose & modify RGB/HSL/HEX colors inside Neovim.
+*   [ziontee113/color-picker.nvim (⭐239)](https://github.com/ziontee113/color-picker.nvim) - Plugin that lets users choose & modify RGB/HSL/HEX colors inside Neovim.
 
 ### Formatting / Diagnostics
 
-*   [mcauley-penney/tidy.nvim (⭐89)](https://github.com/mcauley-penney/tidy.nvim) - Clear trailing whitespace and empty lines at end of file on every save.
+*   [mcauley-penney/tidy.nvim (⭐95)](https://github.com/mcauley-penney/tidy.nvim) - Clear trailing whitespace and empty lines at end of file on every save.
 
-## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Official Resources and Documentation
 
 *   [Jupyter documentation](https://docs.jupyter.org/en/latest/index.html)
 *   [JupyterLab documentation](http://jupyterlab.readthedocs.io/en/stable/index.html)
 
-## [6. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [7. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Videos / Unspecified License
 
@@ -55,7 +61,7 @@
 
 *   [FreeSoundEffects](https://free-sound-effects.net/) - [:copyright:](https://creativecommons.org/) For YouTube, filmmakers, games, podcasts and to use in your next video project, for free!
 
-## [7. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+## [8. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
 ### Hosting:
 
@@ -198,9 +204,6 @@
 
 
 - Website: <https://eloquentjavascript.net/>
-
-
-- Website: <https://skillcombo.com/courses/development/web-development/free/>
 
 
 
@@ -1120,19 +1123,19 @@
 
 
 
-## [8. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+## [9. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ### Communities / Forums
 
 *   [WebXR Community Forum](https://www.webxr.community/) - Official forum for all things WebXR. Sister community to the WebXR Discord.
 
-## [9. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [10. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Analysis Tools / Ruby
 
-*   [tidytransit (⭐117)](https://github.com/r-transit/tidytransit) - An R package to read GTFS data into tibbles and simple features dataframes to map transit stops and routes, calculate travel times and transit frequencies, and validate transit feeds.
+*   [tidytransit (⭐122)](https://github.com/r-transit/tidytransit) - An R package to read GTFS data into tibbles and simple features dataframes to map transit stops and routes, calculate travel times and transit frequencies, and validate transit feeds.
 
-## [10. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
+## [11. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
 ### Projects
 
@@ -1141,13 +1144,13 @@
 
 ### Related awesome
 
-*   [Awesome Electronics (⭐4.5k)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
+*   [Awesome Electronics (⭐5k)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
 
-## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Command Line Tools
 
-*   [Termius](https://www.termius.com/) - Free terminal tool,comparable to xshell on windows platform. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/termius-terminal-ssh-client/id549039908)
+*   [Termius](https://www.termius.com/) - A beautiful SSH and SFTP client for Mac. It is also available for mobile. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/termius-terminal-ssh-client/id549039908)
 
 ### Translation Tools / File Sharing
 
@@ -1157,13 +1160,13 @@
 
 *   [FinderFix](https://synappser.github.io/apps/finderfix/) - Finally, a lasting solution for Finder windows size and position. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
-*   [ZeroTier](https://www.zerotier.com) — FOSS managed virtual Ethernet as a service. Unlimited end-to-end encrypted networks of 25 clients on free plan. Clients for desktop/mobile/NA; web interface for configuration of custom routing rules and approval of new client nodes on private networks
+*   [ZeroTier](https://www.zerotier.com) — FOSS managed virtual Ethernet as a service. Unlimited end-to-end encrypted networks of 25 clients on the free plan. Clients for desktop/mobile/NA; web interface for configuration of custom routing rules and approval of new client nodes on private networks
 
-## [13. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [14. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### OS Encryption
 
@@ -1172,9 +1175,9 @@
 
 ### Plugins for Minecraft
 
-*   [No-Telemetry (⭐184)](https://github.com/kb-1000/no-telemetry) - Mod that disables the usage data collection, aka telemetry, introduced in Minecraft 1.18 (snapshot 21w38a).
+*   [No-Telemetry (⭐202)](https://github.com/kb-1000/no-telemetry) - Mod that disables the usage data collection, aka telemetry, introduced in Minecraft 1.18 (snapshot 21w38a).
 
-## [14. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
+## [15. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 
 ### Construct Libraries / Monitoring
 

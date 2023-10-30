@@ -16,7 +16,7 @@
 
 ### Logging / Barcode
 
-*   [AEConsole (⭐143)](https://github.com/tadija/AEConsole) - Customizable Console UI overlay with debug log on top of your iOS App.
+*   [AEConsole (⭐148)](https://github.com/tadija/AEConsole) - Customizable Console UI overlay with debug log on top of your iOS App.
 
 ## [3. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
@@ -34,17 +34,17 @@
 
 ### Logging
 
-*   [logster (⭐192)](https://github.com/navinpeiris/logster) - Easily parsable, one-line logging for Phoenix and Plug applications, inspired by Lograge.
+*   [logster (⭐195)](https://github.com/navinpeiris/logster) - Easily parsable, one-line logging for Phoenix and Plug applications, inspired by Lograge.
 
 ### Release Management
 
-*   [exrm\_deb (⭐75)](https://github.com/johnhamelink/exrm_deb) - Create a deb for your Elixir release with ease.
+*   [exrm\_deb (⭐76)](https://github.com/johnhamelink/exrm_deb) - Create a deb for your Elixir release with ease.
 
 ## [6. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
 ### Tools / PHP
 
-*   [Facebook WebDriver (⭐4.7k)](https://github.com/facebook/php-webdriver) - A PHP client for webdriver.
+*   [Facebook WebDriver (⭐4.9k)](https://github.com/facebook/php-webdriver) - A PHP client for webdriver.
 *   [Selenium Setup (⭐27)](https://github.com/bogdananton/Selenium-Setup) - A tool for PHP developers to start their own Selenium server.
 
 ## [7. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)

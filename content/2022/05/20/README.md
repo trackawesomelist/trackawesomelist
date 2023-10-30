@@ -20,9 +20,9 @@
 
 ### Generic ZSH
 
-*   [zephyr (⭐35)](https://github.com/mattmc3/zephyr) - Zephyr uses built-in Zsh features to set up better default options, completions, keybindings, history, and much more.
+*   [zephyr (⭐56)](https://github.com/mattmc3/zephyr) - Zephyr uses built-in Zsh features to set up better default options, completions, keybindings, history, and much more.
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [condaenv (⭐0)](https://github.com/saravanabalagi/zsh-plugin-condaenv) - Provides a `condaenv_prompt_info` function which returns the current `conda` environment name.
 
@@ -34,11 +34,11 @@
 
 ## [4. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
-### Articles / Screeb
+### Articles / Obsidian
 
 *   [Guide to building a product roadmap](https://hellonext.co/blog/how-to-build-great-product-roadmap) - By Hellonext, Inc.
 
-### Books / Screeb
+### Books / Obsidian
 
 *   [Good Strategy, Bad Strategy](https://www.barnesandnoble.com/w/good-strategy-bad-strategy-richard-rumelt/1101087922?ean=9780307886231) - By Richard Rumelt.
 *   [Crossing The Chasm](https://www.barnesandnoble.com/w/crossing-the-chasm-3rd-edition-geoffrey-a-moore/1116092388?ean=9780062292988) - By Geoffrey A. Moore.
@@ -49,7 +49,7 @@
 ### Libraries / Network programming
 
 *   Socket.io
-    *   [1c3t3a/rust-socketio (⭐245)](https://github.com/1c3t3a/rust-socketio) \[[rust\_socketio](https://crates.io/crates/rust_socketio)] — an implementation of a [socket.io](https://socket.io) client written in Rust. [![build badge](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml/badge.svg)](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml)
+    *   [1c3t3a/rust-socketio (⭐279)](https://github.com/1c3t3a/rust-socketio) \[[rust\_socketio](https://crates.io/crates/rust_socketio)] — an implementation of a [socket.io](https://socket.io) client written in Rust. [![build badge](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml/badge.svg)](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml)
 
 ## [6. Awesome Plone](/content/collective/awesome-plone/README.md)
 
@@ -82,13 +82,13 @@
 ### Components & Libraries / Utilities
 
 *   [webpack-plugin-qiniu-upload (⭐0)](https://github.com/cduyzh/webpack-plugin-qiniu-upload) - Vue3,webpack-plugin-qiniu-upload for qiniu(七牛)|aws(亚马逊) cloud upload. support @vue/cli-service 5.0.x
-*   [vue2-jsx-runtime (⭐14)](https://github.com/LancerComet/vue2-jsx-runtime) - A Vue 2 new JSX transform runtime for TSC/SWC. Use Vue 2 JSX with TSC/SWC directly.
+*   [vue2-jsx-runtime (⭐18)](https://github.com/LancerComet/vue2-jsx-runtime) - A Vue 2 new JSX transform runtime for TSC/SWC. Use Vue 2 JSX with TSC/SWC directly.
 
 ## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Command Line Tools
 
-*   [thefuck (⭐78k)](https://github.com/nvbn/thefuck) - A interesting software that corrects errors in previous console commands. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nvbn/thefuck)
+*   [thefuck (⭐80k)](https://github.com/nvbn/thefuck) - A interesting software that corrects errors in previous console commands. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nvbn/thefuck)
 
 ### Communication / Collaboration and Team Tools
 
@@ -98,7 +98,7 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [@modyfi/vite-plugin-yaml (⭐25)](https://github.com/Modyfi/vite-plugin-yaml) - Transform YAML files to ESM with schema validation and error reporting.
+*   [@modyfi/vite-plugin-yaml (⭐42)](https://github.com/Modyfi/vite-plugin-yaml) - Transform YAML files to ESM with schema validation and error reporting.
 
 ---
 

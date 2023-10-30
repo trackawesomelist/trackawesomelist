@@ -2,7 +2,7 @@
 
 A curated list of awesome Linux Containers frameworks, libraries and software
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Friz-zy/awesome-linux-containers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers) · ⭐ 1.5K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Friz-zy/awesome-linux-containers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers) · ⭐ 1.6K · 🏷️ Platforms
 
 [ [Daily](/content/Friz-zy/awesome-linux-containers/README.md) / [Weekly](/content/Friz-zy/awesome-linux-containers/week/README.md) / Overview ]
 
@@ -10,12 +10,13 @@ A curated list of awesome Linux Containers frameworks, libraries and software
 
 # Awesome Linux Containers
 
-[Stand with Belarus against dictatorship <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Presidential_Standard_of_Belarus_%28fictional%29.svg/240px-Presidential_Standard_of_Belarus_%28fictional%29.svg.png" width="20" height="20" alt="Voices From Belarus" />](https://bysol.org/en/)  [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+[![#StandWithBelarus](https://img.shields.io/badge/Belarus-red?label=%23%20Stand%20With\&labelColor=white\&color=red) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Presidential_Standard_of_Belarus_%28fictional%29.svg/240px-Presidential_Standard_of_Belarus_%28fictional%29.svg.png" width="20" height="20" alt="Voices From Belarus" />](https://bysol.org/en/) [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Table of Contents
 
+*   [About the Author](#About-the-Author)
 *   [Foundations](#foundations)
 *   [Specifications](#specifications)
 *   [Clouds](#clouds)
@@ -34,6 +35,16 @@ A curated list of awesome Linux Containers frameworks, libraries and software
     *   [Technologies for security](#technologies-for-security)
 *   [Another Information Sources](#another-information-sources)
 
+## About the Author
+
+Hello, everyone! My name is Filipp, and I have been working with high load distribution systems and services, security, monitoring, continuous deployment and release management (DevOps domain) since 2012.
+
+One of my passions is developing DevOps solutions and contributing to the open-source community. By sharing my knowledge and experiences, I strive to save time for both myself and others while fostering a culture of collaboration and learning.
+
+I had to leave my home country, Belarus, due to my participation in [protests against the oppressive regime of dictator Lukashenko](https://en.wikipedia.org/wiki/2020%E2%80%932021_Belarusian_protests), who maintains a close affiliation with Putin. Since then, I'm trying to build my life from zero in other countries.
+
+If you are seeking a skilled DevOps lead or architect to enhance your project, I invite you to connect with me on [LinkedIn](https://www.linkedin.com/in/filipp-frizzy-289a0360/) or explore my valuable contributions on [GitHub](https://github.com/Friz-zy/). Let's collaborate and create some cool solutions together :)
+
 ## Foundations
 
 *   [OPEN CONTAINER INITIATIVE](https://www.opencontainers.org/)\
@@ -45,7 +56,7 @@ A curated list of awesome Linux Containers frameworks, libraries and software
 
 ## Specifications
 
-*   [Open Container Specifications (⭐2.8k)](https://github.com/opencontainers/specs)\
+*   [Open Container Specifications (⭐2.9k)](https://github.com/opencontainers/specs)\
     This project is where the Open Container Initiative Specifications are written. This is a work in progress.
 *   [App Container basics (⭐8.8k)](https://github.com/coreos/rkt/blob/master/Documentation/app-container.md)\
     App Container (appc) is an open specification that defines several aspects of how to run applications in containers: an image format, runtime environment, and discovery protocol.
@@ -55,7 +66,7 @@ A curated list of awesome Linux Containers frameworks, libraries and software
     Nulecule defines a pattern and model for packaging complex multi-container applications and services, referencing all their dependencies, including orchestration metadata in a container image for building, deploying, monitoring, and active management.
 *   [Oracle microcontainer manifesto](https://blogs.oracle.com/developers/the-microcontainer-manifesto)\
     This is not a new container format, but simply a specific method for constructing a container that allows for better security and stability.
-*   [Cloud Native Application Bundle Specification (⭐917)](https://github.com/deislabs/cnab-spec)\
+*   [Cloud Native Application Bundle Specification (⭐922)](https://github.com/deislabs/cnab-spec)\
     A package format specification that describes a technology for bundling, installing, and managing distributed applications, that are by design, cloud agnostic.
 
 ## Clouds
@@ -118,22 +129,22 @@ A curated list of awesome Linux Containers frameworks, libraries and software
 
 ## Hypervisors
 
-*   [Docker (⭐25k)](https://github.com/veggiemonk/awesome-docker#cloud-infrastructure)\
+*   [Docker (⭐26k)](https://github.com/veggiemonk/awesome-docker#cloud-infrastructure)\
     An open platform for distributed applications for developers and sysadmins. **Standard de facto**.
-*   [LXD (⭐3.9k)](https://github.com/lxc/lxd)\
+*   [LXD (⭐4k)](https://github.com/lxc/lxd)\
     Daemon based on liblxc offering a REST API to manage LXC containers.
 *   [OpenVZ](https://openvz.org/)\
     OpenVZ is container-based virtualization for Linux. OpenVZ creates multiple secure, isolated Linux containers (otherwise known as VEs or VPSs) on a single physical server enabling better server utilization and ensuring that applications do not conflict.
-*   [MultiDocker (⭐41)](https://github.com/marty90/multidocker)\
+*   [MultiDocker (⭐42)](https://github.com/marty90/multidocker)\
     Create a secure multi-user Docker machine, where each user is segregated into an indepentent container.
-*   [Lithos (⭐108)](https://github.com/tailhook/lithos/)\
+*   [Lithos (⭐107)](https://github.com/tailhook/lithos/)\
     Lithos is a process supervisor and containerizer for running services. It is not intended to be system init, but rather tries to be a base tool to build container orchestration.
 *   [containerd](https://containerd.io/)\
     A container runtime which can manage a complete container lifecycle - from image transfer/storage to container execution, supervision and networking.
 
 ## Containers
 
-*   [runc (⭐10k)](https://github.com/opencontainers/runc)\
+*   [runc (⭐11k)](https://github.com/opencontainers/runc)\
     runc is a CLI tool for spawning and running containers according to the OCS specification.
 *   [Bocker (⭐11k)](https://github.com/p8952/bocker)\
     Docker implemented in around 100 lines of bash.
@@ -149,29 +160,29 @@ A curated list of awesome Linux Containers frameworks, libraries and software
     A big toolkit to interact with the virtualization capabilities of recent versions of Linux (and other OSes).
 *   [systemd-nspawn](https://wiki.archlinux.org/index.php/Systemd-nspawn)\
     Spawn a namespace container for debugging, testing and building. Part of [systemd](https://wiki.freedesktop.org/www/Software/systemd/).
-*   [porto (⭐384)](https://github.com/yandex/porto)\
+*   [porto (⭐386)](https://github.com/yandex/porto)\
     The main goal of Porto is to create a convenient, reliable interface over several Linux kernel mechanism such as cgroups, namespaces, mounts, networking etc.
-*   [udocker (⭐1k)](https://github.com/indigo-dc/udocker)\
+*   [udocker (⭐1.1k)](https://github.com/indigo-dc/udocker)\
     A basic user tool to execute simple containers in batch or interactive systems without root privileges.
 *   [Let Me Contain That For You (⭐3.4k)](https://github.com/google/lmctfy)\
     LMCTFY is the open source version of Google’s container stack, which provides Linux application containers.
-*   [cc-oci-runtime (⭐417)](https://github.com/01org/cc-oci-runtime)\
+*   [cc-oci-runtime (⭐416)](https://github.com/01org/cc-oci-runtime)\
     Intel Clear Linux OCI (Open Containers Initiative) compatible runtime.
 *   [railcar (⭐1.1k)](https://github.com/oracle/railcar)\
     Railcar is a rust implementation of the opencontainers initiative's runtime spec. It is similar to the reference implementation runc, but it is implemented completely in rust for memory safety without needing the overhead of a garbage collector or multiple threads.
 *   [Kata Containers](https://katacontainers.io/)\
     Kata Containers is a new open source project building extremely lightweight virtual machines that seamlessly plug into the containers ecosystem.
-*   [plash (⭐366)](https://github.com/ihucos/plash/)\
+*   [plash (⭐367)](https://github.com/ihucos/plash/)\
     Lightweight, rootless containers.
-*   [runv (⭐826)](https://github.com/hyperhq/runv)\
+*   [runv (⭐827)](https://github.com/hyperhq/runv)\
     Hypervisor-based (KVM, Xen, QEMU) Runtime for OCI. Security by isolation.
-*   [podman (⭐18k)](https://github.com/containers/libpod)\
+*   [podman (⭐19k)](https://github.com/containers/libpod)\
     Full management of container lifecycle.
 *   [firecracker (⭐22k)](https://github.com/firecracker-microvm/firecracker)\
     Firecracker runs workloads in lightweight virtual machines, called microVMs, which combine the security and isolation properties provided by hardware virtualization technology with the speed and flexibility of containers.
-*   [sysbox (⭐2k)](https://github.com/nestybox/sysbox)\
+*   [sysbox (⭐2.1k)](https://github.com/nestybox/sysbox)\
     Sysbox is a "runc" that creates secure (rootless) containers / pods that run not just microservices, but most workloads that run in VMs (e.g., systemd, Docker, and Kubernetes), seamlessly.
-*   [youki (⭐4.8k)](https://github.com/containers/youki)\
+*   [youki (⭐4.9k)](https://github.com/containers/youki)\
     A container runtime written in Rust.
 *   [footloose (⭐1.6k)](https://github.com/weaveworks/footloose)\
     Containers that look like Virtual Machines.
@@ -188,11 +199,11 @@ A curated list of awesome Linux Containers frameworks, libraries and software
     Snappy Ubuntu Core is a new rendition of Ubuntu with transactional updates - a minimal server image with the same libraries as today’s Ubuntu, but applications are provided through a simpler mechanism.
 *   [xdg-app](https://wiki.gnome.org/Projects/SandboxedApps)\
     xdg-app is a system for building, distributing and running sandboxed desktop applications on Linux.
-*   [Bubblewrap (⭐3.1k)](https://github.com/projectatomic/bubblewrap)\
+*   [Bubblewrap (⭐3.2k)](https://github.com/projectatomic/bubblewrap)\
     Run applications in a sandbox using Linux namespaces without root privileges, with user namespacing provided via setuid binary.
 *   [singularity (⭐2.4k)](https://github.com/singularityware/singularity)\
     Universal application containers for Linux.
-*   [Lxroot (⭐87)](https://github.com/parke/lxroot)\
+*   [Lxroot (⭐88)](https://github.com/parke/lxroot)\
     Lxroot is a flexible, lightweight, and safer alternative to chroot and/or Docker for non-root users on Linux.
 
 ## Partial Access
@@ -218,25 +229,25 @@ A curated list of awesome Linux Containers frameworks, libraries and software
 
 *   [container-diff (⭐3.5k)](https://github.com/GoogleCloudPlatform/container-diff)\
     A tool for analyzing and comparing container images.
-*   [buildah (⭐6.3k)](https://github.com/projectatomic/buildah)\
+*   [buildah (⭐6.4k)](https://github.com/projectatomic/buildah)\
     A tool which facilitates building OCI container images.
-*   [skopeo (⭐6.2k)](https://github.com/projectatomic/skopeo)\
+*   [skopeo (⭐6.4k)](https://github.com/projectatomic/skopeo)\
     Work with remote images registries - retrieving information, images, signing content.
 *   [img (⭐3.8k)](https://github.com/jessfraz/img)\
     Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
-*   [dgr (⭐247)](https://github.com/blablacar/dgr)\
+*   [dgr (⭐246)](https://github.com/blablacar/dgr)\
     Command line utility designed to build and to configure at runtime App Containers Images (ACI) and App Container Pods (POD) based on convention over configuration.
-*   [Whaler (⭐951)](https://github.com/P3GLEG/Whaler)\
+*   [Whaler (⭐961)](https://github.com/P3GLEG/Whaler)\
     Whaler is designed to reverse engineer a Docker Image into the Dockerfile that created it.
 *   [dive (⭐37k)](https://github.com/wagoodman/dive)\
     A tool for exploring each layer in a docker image.
 *   [go-containerregistry (⭐2.5k)](https://github.com/google/go-containerregistry)\
     Go library and CLIs for working with container registries.
-*   [kaniko (⭐12k)](https://github.com/GoogleContainerTools/kaniko)\
+*   [kaniko (⭐13k)](https://github.com/GoogleContainerTools/kaniko)\
     Kaniko is a tool to build container images from a Dockerfile, inside a container or Kubernetes cluster.
 *   [umoci](https://umo.ci/)\
     Umoci is a tool to manipulate OCI container images, and can be used as a rudimentary build tool.
-*   [docker pushrm (⭐114)](https://github.com/christian-korneck/docker-pushrm)\
+*   [docker pushrm (⭐118)](https://github.com/christian-korneck/docker-pushrm)\
     A Docker CLI plugin that that lets you push the README.md file from the current directory to a container registry. Supports Docker Hub, Quay and Harbor.
 
 ## Dashboard
@@ -279,9 +290,9 @@ A curated list of awesome Linux Containers frameworks, libraries and software
     A proxy for docker.sock that enforces access control and isolated privileges.
 *   [gvisor (⭐14k)](https://github.com/google/gvisor)\
     gVisor is a user-space kernel, written in Go, that implements a substantial portion of the Linux system surface. It includes an Open Container Initiative (OCI) runtime called runsc that provides an isolation boundary between the application and the host kernel. The runsc runtime integrates with Docker and Kubernetes, making it simple to run sandboxed containers.
-*   [docker-explorer (⭐478)](https://github.com/google/docker-explorer/)\
+*   [docker-explorer (⭐485)](https://github.com/google/docker-explorer/)\
     A tool to help forensicate offline docker acquisitions.
-*   [oci-seccomp-bpf-hook (⭐216)](https://github.com/containers/oci-seccomp-bpf-hook)\
+*   [oci-seccomp-bpf-hook (⭐218)](https://github.com/containers/oci-seccomp-bpf-hook)\
     OCI hook to trace syscalls and generate a seccomp profile.
 
 ### Links
@@ -400,7 +411,7 @@ If you can communicate or attack one of these as a privileged process, you can o
 
 ## Another Information Sources
 
-*   [sysdig-container-ecosystem (⭐105)](https://github.com/draios/sysdig-container-ecosystem)\
+*   [sysdig-container-ecosystem (⭐104)](https://github.com/draios/sysdig-container-ecosystem)\
     The ecosystem of awesome new technologies emerging around containers and microservices can be a little overwhelming, to say the least. We thought we might be able to help: welcome to the Container Ecosystem Project.
 *   [doger.io](http://doger.io/)\
     This page is an attempt to document the ins and outs of containers on Linux. This is not just restricted to programmers looking to implement containers or use container like features in their own code but also Sysadmins and Users who want to get more of a handle on how containers work 'under the hood'.

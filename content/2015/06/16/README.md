@@ -22,7 +22,7 @@
 
 ### Command-Line Productivity
 
-*   [fzf (⭐49k)](https://github.com/junegunn/fzf) - A command-line fuzzy finder
+*   [fzf (⭐53k)](https://github.com/junegunn/fzf) - A command-line fuzzy finder
 *   [marker (⭐1.9k)](https://github.com/pindexis/marker) - Bookmark your shell commands
 
 ### System Utilities / Directory Navigation
@@ -33,11 +33,11 @@
 
 ### Logging
 
-*   [metrix (⭐51)](https://github.com/rwdaigle/metrix) - Log custom app metrics to stdout for use by Librato and other downstream processors.
+*   [metrix (⭐50)](https://github.com/rwdaigle/metrix) - Log custom app metrics to stdout for use by Librato and other downstream processors.
 
 ### Third Party APIs
 
-*   [exstagram (⭐12)](https://github.com/arthurcolle/exstagram) - Elixir library for Instagram v1 API.
+*   [exstagram (⭐13)](https://github.com/arthurcolle/exstagram) - Elixir library for Instagram v1 API.
 
 ## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

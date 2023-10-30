@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 19, 2023
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -108,19 +108,36 @@
 *   [LinkedIn](https://www.linkedin.com/groups/13657731/)
 *   [Blog](https://typedb.com/blog)
 
-## [7. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [7. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+
+### Legal Assistant
+
+*   [Casetext](https://casetext.com/) - an award-winning legal AI company developing cutting-edge tech for 10+ years. `#paid`
+*   [DoNotPay](https://donotpay.com/) - DoNotPay is an online legal service and chatbot. `#paid`
+*   [Latch](https://www.latchapp.com/) - Latch helps legal teams reduce the time, effort, and cost spent towards negotiating agreements. `#paid`
+
+### Productivity
+
+*   [Scribot](https://play.google.com/store/apps/details?id=com.scribot.app) - Efficient Note-Taking with AI `#free`
+
+### Summarizer
+
+*   [Neural Times](https://www.neuraltimes.org/) - Your Unbiased AI-Powered News Source `#free`
+*   [Quill](https://apps.apple.com/us/app/quill-news-digest/id1669557131) - The AI Way to Stay Informed `#free`
+
+## [8. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Command-line utilities
 
 *   [listr2 (⭐398)](https://github.com/listr2/listr2) - Terminal task list.
 
-## [8. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [9. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### Machine Learning
 
 *   [Landing AI](https://landing.ai/) - Building computer vision systems in minutes via natural prompting interactions.
 
-## [9. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [10. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Family
 
@@ -160,7 +177,7 @@
 | ------: | -------: | ------: |
 |   1 - 4 |       14 | 30-120m |
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Monitoring
 
@@ -174,24 +191,29 @@
 
 *   [Markdown Tools](https://markdowntools.com) - Tools for converting HTML, CSVs, PDFs, JSON, and Excel files to and from Markdown
 
-## [11. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [12. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Fabio Biondi](https://github.com/fabiobiondi)
 
-## [12. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+## [13. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ### Customization
 
-*   [LS\_COLORS (⭐1.9k)](https://github.com/trapd00r/LS_COLORS) - A collection of LS\_COLORS definitions
+*   [LS\_COLORS (⭐1.9k)](https://github.com/trapd00r/LS_COLORS) - A collection of LS\_COLORS definitions.
 
-## [13. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+## [14. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### Golang
+### iOS / Bootstrap
 
-*   [Go Web 编程](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/) - astaxie
+*   [Xcode Tutorial for Beginners](https://codewithchris.com/xcode-tutorial) - Chris Ching
+
+### MySQL / PicoLisp
+
+*   [Learning MySQL](https://riptutorial.com/Download/mysql.pdf) - Compiled from StackOverflow Documentation (PDF)
 
 ---
 
+- Prev: [Oct 20, 2023](/content/2023/10/20/README.md)
 - Next: [Oct 18, 2023](/content/2023/10/18/README.md)

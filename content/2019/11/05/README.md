@@ -10,12 +10,12 @@
 
 ### Cloud platform security / Security Orchestration, Automation, and Response (SOAR)
 
-*   [Prowler (⭐7.9k)](https://github.com/toniblyx/prowler) - Tool based on AWS-CLI commands for Amazon Web Services account security assessment and hardening.
-*   [Scout Suite (⭐5.2k)](https://github.com/nccgroup/ScoutSuite) - Open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments.
+*   [Prowler (⭐8.5k)](https://github.com/toniblyx/prowler) - Tool based on AWS-CLI commands for Amazon Web Services account security assessment and hardening.
+*   [Scout Suite (⭐5.6k)](https://github.com/nccgroup/ScoutSuite) - Open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments.
 
 ### Phishing awareness and reporting / Firewall appliances or distributions
 
-*   [CertSpotter (⭐594)](https://github.com/SSLMate/certspotter) - Certificate Transparency log monitor from SSLMate that alerts you when a SSL/TLS certificate is issued for one of your domains.
+*   [CertSpotter (⭐668)](https://github.com/SSLMate/certspotter) - Certificate Transparency log monitor from SSLMate that alerts you when a SSL/TLS certificate is issued for one of your domains.
 
 ## [2. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 

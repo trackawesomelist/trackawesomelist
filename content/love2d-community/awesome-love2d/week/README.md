@@ -519,7 +519,7 @@ A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 
 ### AI
 
-*   [astar (⭐11)](https://github.com/xiejiangzhi/astar) - An other A\* library. Any map(gird, point, mesh or infinite map) and support path cost.
+*   [astar (⭐11)](https://github.com/xiejiangzhi/astar) - An other A\* library. Any map (grid, point, mesh or infinite map) and support path cost.
 
 ## [Dec 30 - Jan 05, 2019](/content/2019/52/README.md)
 

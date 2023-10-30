@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 04, 2017
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -25,21 +25,15 @@
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [letsencrypt-win-simple (⭐4.6k)](https://github.com/Lone-Coder/letsencrypt-win-simple) - A Simple ACME Client for Windows.
+*   [letsencrypt-win-simple (⭐4.9k)](https://github.com/Lone-Coder/letsencrypt-win-simple) - A Simple ACME Client for Windows.
 
-## [4. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
-
-### Articles
-
-*   [Why I think "micro-packages" are a good thing.](http://codetunnel.io/why-i-think-micro-packages-are-a-good-thing/)
-
-## [5. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
+## [4. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
 ### Other
 
-*   [synp (⭐669)](https://github.com/imsnif/synp) - Convert yarn.lock to package-lock.json and vice versa.
+*   [synp (⭐703)](https://github.com/imsnif/synp) - Convert yarn.lock to package-lock.json and vice versa.
 
-## [6. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [5. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Cartridges / Custom cartridges
 
@@ -47,37 +41,37 @@
 
 ### Related projects / Syntax highlighting packages
 
-*   [mGB (⭐193)](https://github.com/trash80/mGB) - A Game Boy cartridge program that enables the Game Boy to act as a full MIDI supported sound module.
+*   [mGB (⭐201)](https://github.com/trash80/mGB) - A Game Boy cartridge program that enables the Game Boy to act as a full MIDI supported sound module.
 *   [GBVisualizer (⭐27)](https://github.com/LIJI32/GBVisualizer) - Demonstrating the use of two undocumented Game Boy Color registers, nicknamed PCM12 (FF76) and PCM34 (FF77), which can be used to read the current PCM amplitude of the 4 APU channels.
 *   [gbcpu (⭐9)](https://github.com/jdeblese/gbcpu) - A CPU and peripherals implementing the Game Boy instruction set and functionality.
 
-## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### ORM/ODM Extensions
 
-*   [clear (⭐269)](https://github.com/anykeyh/clear) - ORM specialized to PostgreSQL only but with advanced features
+*   [clear (⭐270)](https://github.com/anykeyh/clear) - ORM specialized to PostgreSQL only but with advanced features
 
-## [8. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [7. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Tutorials
 
 *   [The Dlang Tour](https://tour.dlang.org/) - An interactive tutorial for D, inspired by Golang Tour.
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Frameworks
 
 *   [GLib](https://wiki.gnome.org/Projects/GLib) - GLib provides the core application building blocks for libraries and applications written in C. \[LGPL]
-*   [tbox (⭐4.4k)](https://github.com/tboox/tbox) - A glib-like multi-platform c library. \[Apache2] [website](http://tboox.org/)
+*   [tbox (⭐4.5k)](https://github.com/tboox/tbox) - A glib-like multi-platform c library. \[Apache2] [website](http://tboox.org/)
 
 ### Concurrency
 
-*   [concurrentqueue (⭐7.8k)](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11. \[BSD,Boost]
-*   [readerwriterqueue (⭐3k)](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C++. \[BSD]
+*   [concurrentqueue (⭐8.3k)](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11. \[BSD,Boost]
+*   [readerwriterqueue (⭐3.2k)](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C++. \[BSD]
 
 ### GUI
 
-*   [Yue (⭐2.9k)](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps. \[LGPLv2]
+*   [Yue (⭐3.2k)](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps. \[LGPLv2]
 
 ### Graphics
 
@@ -86,15 +80,15 @@
 
 ### Scientific Computing
 
-*   [Torch (⭐8.8k)](https://github.com/torch/torch7) - A scientific computing framework with wide support for machine learning algorithms that puts GPUs first. \[BSD-3-Clause] [website](http://torch.ch/)
+*   [Torch (⭐8.9k)](https://github.com/torch/torch7) - A scientific computing framework with wide support for machine learning algorithms that puts GPUs first. \[BSD-3-Clause] [website](http://torch.ch/)
 
 ### Scripting
 
-*   [ctypes.sh (⭐1.8k)](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash. \[MIT]
+*   [ctypes.sh (⭐1.9k)](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash. \[MIT]
 
 ### Static Code Analysis
 
-*   [cpp-dependencies (⭐690)](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). \[Apache]
+*   [cpp-dependencies (⭐700)](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). \[Apache]
 
 ---
 

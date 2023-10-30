@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 08 - Feb 14, 2016
 
-37 awesome lists updated this week.
+36 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -41,7 +41,7 @@
 
 ### Concurrency
 
-*   [GPars (⭐234)](https://github.com/GPars/GPars) - The GPars concurrency and parallelism framework for the JVM
+*   [GPars (⭐235)](https://github.com/GPars/GPars) - The GPars concurrency and parallelism framework for the JVM
 
 ## [5. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -77,13 +77,13 @@
 
 ### Ask these people anything!
 
-*   [Ariya Hidayat (⭐28)](https://github.com/ariya/ama) - VP of Engineering [Shape Security](https://shapesecurity.com/), Author of [Esprima (⭐6.7k)](https://github.com/jquery/esprima) and [PhantomJS](http://phantomjs.org).
+*   [Ariya Hidayat (⭐29)](https://github.com/ariya/ama) - VP of Engineering [Shape Security](https://shapesecurity.com/), Author of [Esprima (⭐6.8k)](https://github.com/jquery/esprima) and [PhantomJS](http://phantomjs.org).
 
 ## [10. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### JavaScript Clients
 
-*   [raml-client-generator (⭐120)](https://github.com/mulesoft/raml-client-generator) - Generates static client libs for js.
+*   [raml-client-generator (⭐121)](https://github.com/mulesoft/raml-client-generator) - Generates static client libs for js.
 
 ### Python / Symfony2
 
@@ -111,23 +111,13 @@
 
 *   [HubPress (⭐2.8k)](https://github.com/HubPress/hubpress.io) - A web application to build your Blog on GitHub
 
-## [14. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
-
-### Bash / 理論計算機科学
-
-*   [The Art of Command Line (⭐136k)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ja.md) - Joshua Levy, Hayato Matsuura(翻訳)
-
-### D / 理論計算機科学
-
-*   [D言語基礎文法最速マスター](https://gist.github.com/repeatedly/2470712) - Masahiro Nakagawa
-
-## [15. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [14. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Markdown Processors
 
 *   [word-to-markdown (⭐1.4k)](https://github.com/benbalter/word-to-markdown) - Gem to convert Microsoft Word documents to Markdown.
 
-## [16. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
+## [15. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
 
 ### Rich-text editors using contenteditable
 
@@ -172,11 +162,17 @@
 *   Should have an organization backing the service and have a potential paid support plan
 *   Should copy & paste from Microsoft word
 
+## [16. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Go / Phoenix
+
+*   [Learning Go](https://miek.nl/go/)
+
 ## [17. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### Traffic Analysis/Inspection
 
-*   [potiron (⭐73)](https://github.com/CIRCL/potiron): Normalizes, indexes, enriches and visualizes network captures.
+*   [potiron (⭐77)](https://github.com/CIRCL/potiron): Normalizes, indexes, enriches and visualizes network captures.
 
 ## [18. Tips](/content/git-tips/tips/week/README.md)
 
@@ -269,7 +265,7 @@ git clean -fd --dry-run
 ### Modules / Function
 
 *   [identity-function](https://github.com/substack/identity-function) - Always return the input argument.
-*   [mem (⭐977)](https://github.com/sindresorhus/mem) - An optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
+*   [mem (⭐1k)](https://github.com/sindresorhus/mem) - An optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
 
 ## [26. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -293,11 +289,11 @@ git clean -fd --dry-run
 
 ### Algorithms and Data structures
 
-*   [exconstructor (⭐268)](https://github.com/appcues/exconstructor) - An Elixir library for generating struct constructors that handle external data with ease.
+*   [exconstructor (⭐274)](https://github.com/appcues/exconstructor) - An Elixir library for generating struct constructors that handle external data with ease.
 
 ### Email
 
-*   [mail (⭐371)](https://github.com/DockYard/elixir-mail) - An RFC2822 implementation in Elixir, built for composability.
+*   [mail (⭐375)](https://github.com/DockYard/elixir-mail) - An RFC2822 implementation in Elixir, built for composability.
 
 ## [30. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -317,32 +313,26 @@ git clean -fd --dry-run
 
 *   [PHP Versions](http://phpversions.info/) - Lists which versions of PHP are available on several popular web hosts.
 
-## [31. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
-
-### Tools / Extending JMeter
-
-*   [Custom JMeter Samplers and Config Elements](http://codyaray.com/2014/07/custom-jmeter-samplers-and-config-elements)
-
-## [32. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [31. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Websites
 
 *   [Try Pyramid](https://trypyramid.com/) - The Start Small, Finish Big,
     Stay Finished Framework. Official website.
 
-## [33. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [32. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Graphic Displays
 
 *   [gganimate (⭐1.8k)](https://github.com/dgrtwo/gganimate) - Create easy animations with ggplot2.
 
-## [34. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [33. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Kinesis
 
 *   [amazon-kinesis-connectors :fire::fire: (⭐328)](https://github.com/awslabs/amazon-kinesis-connectors) - Libary to integrate with other AWS and non-AWS services.
 
-## [35. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
+## [34. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
 
 ### Videos / Old recordings
 
@@ -371,7 +361,7 @@ git clean -fd --dry-run
 *   [The Humble Programmer](https://www.cs.utexas.edu/users/EWD/ewd03xx/EWD340.PDF) (1972) - Dijkstra's overview of the programming universe as he saw it in 1972
 *   [The Conscience of a Hacker](http://phrack.org/issues/7/3.html) (1986) - The Hacker Manifesto
 
-## [36. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [35. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### C++
 
@@ -385,7 +375,7 @@ git clean -fd --dry-run
 
 *   [phpcs](https://marketplace.visualstudio.com/items?itemName=ikappas.phpcs) - PHP CodeSniffer for Visual Studio Code
 
-## [37. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [36. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Command aliases
 

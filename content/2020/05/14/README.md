@@ -10,7 +10,7 @@
 
 ### Resources / Examples
 
-*   [Nuxt with JWT authentication via OTP (⭐20)](https://github.com/reiallenramos/nuxtjs-otp-boilerplate) - A Nuxt.js boilerplate with basic register and OTP-enabled login functions.
+*   [Nuxt with JWT authentication via OTP (⭐19)](https://github.com/reiallenramos/nuxtjs-otp-boilerplate) - A Nuxt.js boilerplate with basic register and OTP-enabled login functions.
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -20,7 +20,7 @@
 
 ## [3. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Kotlin / Angular
+### Kotlin / Svelte
 
 *   [Kotlin Weekly](http://www.kotlinweekly.net/). The weekly newsletter for Kotlin developers, with articles, libraries, videos and podcasts from the Kotlin environment.
 
@@ -28,8 +28,8 @@
 
 ### Windows Utilities / Web Exploitation Books
 
-*   [Inveigh (⭐2k)](https://github.com/Kevin-Robertson/Inveigh) - Windows PowerShell ADIDNS/LLMNR/mDNS/NBNS spoofer/machine-in-the-middle tool.
-*   [Rubeus (⭐2.9k)](https://github.com/GhostPack/Rubeus) - Toolset for raw Kerberos interaction and abuses.
+*   [Inveigh (⭐2.2k)](https://github.com/Kevin-Robertson/Inveigh) - Windows PowerShell ADIDNS/LLMNR/mDNS/NBNS spoofer/machine-in-the-middle tool.
+*   [Rubeus (⭐3.5k)](https://github.com/GhostPack/Rubeus) - Toolset for raw Kerberos interaction and abuses.
 
 ## [5. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 
@@ -46,26 +46,26 @@
 
 ### Modules / CLI utils
 
-*   [cli-spinner (⭐56)](https://github.com/ameerthehacker/cli-spinners) - Show spinners in the terminal while running long tasks.
+*   [cli-spinner (⭐57)](https://github.com/ameerthehacker/cli-spinners) - Show spinners in the terminal while running long tasks.
 
 ### Modules / Template engine
 
-*   [dejs (⭐137)](https://github.com/syumai/dejs) - Ejs template engine for deno.
+*   [dejs (⭐142)](https://github.com/syumai/dejs) - Ejs template engine for deno.
 
 ### Modules / Utils
 
 *   deno-dotenv
-    *   [pietvanzoen/deno-dotenv (⭐151)](https://github.com/pietvanzoen/deno-dotenv) - Dotenv handling for deno.
-    *   [cardosomarcos/deno-dotenv (⭐7)](https://github.com/cardosomarcos/deno-dotenv) - Loads environment variables from .env for Deno projects.
+    *   [pietvanzoen/deno-dotenv (⭐148)](https://github.com/pietvanzoen/deno-dotenv) - Dotenv handling for deno.
+    *   [cardosomarcos/deno-dotenv (⭐8)](https://github.com/cardosomarcos/deno-dotenv) - Loads environment variables from .env for Deno projects.
 *   [deno-plugin-prepare (⭐47)](https://github.com/manyuanrong/deno-plugin-prepare) - A library for managing Deno native plugin dependencies.
-*   [ms (⭐15)](https://github.com/denolib/ms) - Easily convert various time formats to milliseconds.
+*   [ms (⭐16)](https://github.com/denolib/ms) - Easily convert various time formats to milliseconds.
 
 ### Tools / XML
 
 *   [clone (⭐4)](https://github.com/ekaragodin/clone) - A simple utility for the convenient clone.
 *   [denoinit (⭐29)](https://github.com/syumai/deno-libs/tree/master/denoinit) - Denoinit generates useful files for Deno project.
 *   [denoversion (⭐7)](https://github.com/lucascaro/denoversion) - SemVer and git version management for Deno.
-*   [udd (⭐286)](https://github.com/hayd/deno-udd) - Update Deno dependencies: updates import statements to their latest published version.
+*   [udd (⭐299)](https://github.com/hayd/deno-udd) - Update Deno dependencies: updates import statements to their latest published version.
 
 ### Articles / XML
 
@@ -97,12 +97,12 @@
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [visidata (⭐6.2k)](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for exploring and arranging data (csv/json/xml/xls/yaml/etc)
+*   [visidata (⭐6.6k)](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for exploring and arranging data (csv/json/xml/xls/yaml/etc)
 
 ### Applications / Directory Navigation
 
-*   [nomino (⭐456)](https://github.com/yaa110/nomino) - Batch rename utility using regex, sort and map file options.
-*   [pockyt (⭐472)](https://github.com/achembarpu/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
+*   [nomino (⭐501)](https://github.com/yaa110/nomino) - Batch rename utility using regex, sort and map file options.
+*   [pockyt (⭐483)](https://github.com/achembarpu/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
 
 ## [8. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
 
@@ -119,7 +119,7 @@
 
 ### Integrations
 
-*   [Keycloak Connect GraphQL Adapter for Node.js (⭐153)](https://github.com/aerogear/keycloak-connect-graphql)
+*   [Keycloak Connect GraphQL Adapter for Node.js (⭐155)](https://github.com/aerogear/keycloak-connect-graphql)
 
 ### Themes
 
@@ -166,7 +166,7 @@
 
 ### Encryption / File Sharing
 
-*   [Deadbolt (⭐302)](https://github.com/alichtman/deadbolt) - The easiest file encryption tool you'll ever use. macOS-compatible, and open-source so you can trust it. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/alichtman/deadbolt) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Deadbolt (⭐313)](https://github.com/alichtman/deadbolt) - The easiest file encryption tool you'll ever use. macOS-compatible, and open-source so you can trust it. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/alichtman/deadbolt) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [13. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -178,7 +178,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [mljar-supervised (⭐2.6k)](https://github.com/mljar/mljar-supervised) - An Automated Machine Learning (AutoML) python package for tabular data. It can handle: Binary Classification, MultiClass Classification and Regression. It provides explanations and markdown reports.
+*   [mljar-supervised (⭐2.7k)](https://github.com/mljar/mljar-supervised) - An Automated Machine Learning (AutoML) python package for tabular data. It can handle: Binary Classification, MultiClass Classification and Regression. It provides explanations and markdown reports.
 
 ## [15. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
@@ -208,11 +208,11 @@
 
 ### Typescript Project Starters
 
-*   [typescript-express-starter (⭐2.1k)](https://github.com/ljlm0402/typescript-express-starter) - Quick and Easy TypeScript Express Starter.
+*   [typescript-express-starter (⭐2.3k)](https://github.com/ljlm0402/typescript-express-starter) - Quick and Easy TypeScript Express Starter.
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [ts-audio (⭐298)](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API
+*   :octocat: [ts-audio (⭐304)](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API
 
 ## [18. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

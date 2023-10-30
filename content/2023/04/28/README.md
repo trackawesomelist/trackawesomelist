@@ -32,7 +32,7 @@
 
 ## [2. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Miscellaneous / Angular
+### Miscellaneous / Svelte
 
 *   [News Minimalist](https://www.newsminimalist.com/). A curated newsletter utilizing AI (ChatGPT-4) to deliver only the most significant news. By analyzing 1000 top articles daily, it ensures subscribers stay informed without wasting time on unimportant updates.
 
@@ -40,7 +40,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [VidocqH/lsp-lens.nvim (⭐82)](https://github.com/VidocqH/lsp-lens.nvim) - Display function references above function definition like IDEA codelens.
+*   [VidocqH/lsp-lens.nvim (⭐162)](https://github.com/VidocqH/lsp-lens.nvim) - Display function references above function definition like IDEA codelens.
 
 ## [4. Awesome Plone](/content/collective/awesome-plone/README.md)
 
@@ -62,22 +62,22 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [MonitorControl (⭐22k)](https://github.com/MonitorControl/MonitorControl/) - Control your display's brightness & volume on your Mac as if it was a native Apple Display. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/MonitorControl/MonitorControl/)
-*   [TomatoBar (⭐770)](https://github.com/ivoronin/TomatoBar) - World's neatest Pomodoro timer for macOS menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ivoronin/TomatoBar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [MonitorControl (⭐24k)](https://github.com/MonitorControl/MonitorControl/) - Control your display's brightness & volume on your Mac as if it was a native Apple Display. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/MonitorControl/MonitorControl/)
+*   [TomatoBar (⭐1.5k)](https://github.com/ivoronin/TomatoBar) - World's neatest Pomodoro timer for macOS menu bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ivoronin/TomatoBar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Large Language Models / Contribute to Our Repository
+### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
-*   \[🔥🔥🔥] [Mooler0410/LLMsPracticalGuide (⭐3.7k)](https://github.com/Mooler0410/LLMsPracticalGuide): list of practical guide resources of LLMs based on the paper [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/abs/2304.13712)
-*   [hpcaitech/ColossalAI (⭐30k)](https://github.com/hpcaitech/ColossalAI): Making large AI models cheaper, faster and more accessible
-*   [microsoft/LoRA (⭐4k)](https://github.com/microsoft/LoRA): Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"s
+*   \[🔥🔥🔥] [Mooler0410/LLMsPracticalGuide (⭐6.9k)](https://github.com/Mooler0410/LLMsPracticalGuide): list of practical guide resources of LLMs based on the paper [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/abs/2304.13712)
+*   [hpcaitech/ColossalAI (⭐35k)](https://github.com/hpcaitech/ColossalAI): Making large AI models cheaper, faster and more accessible
+*   [microsoft/LoRA (⭐6.9k)](https://github.com/microsoft/LoRA): Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"s
 
 ### Courses and Educational Materials / Deforum
 
 *   \[🔥🔥🔥] [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): short course taught by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI) that provide best practices for prompt engineering
 
-### Inbox: Developing + AI / Generative Adversarial Networks (GANs)
+### Inbox: DEV + AI / Generative Adversarial Networks (GANs)
 
 *   [A Systematic Evaluation of Large Language Models of Code](https://arxiv.org/abs/2202.13169): arxiv paper
 
@@ -89,9 +89,9 @@
 
 ## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zhiyin (⭐68)](https://github.com/AmyangXYZ/zhiyin-zsh-theme) - Includes decorators for user @ host, current working directory and `git` status information.
+*   [zhiyin (⭐66)](https://github.com/AmyangXYZ/zhiyin-zsh-theme) - Includes decorators for user @ host, current working directory and `git` status information.
 
 ---
 

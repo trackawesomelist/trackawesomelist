@@ -10,50 +10,50 @@
 
 ### Python / Trading & Backtesting
 
-*   [AlphaPy (⭐914)](https://github.com/ScottfreeLLC/AlphaPy) - Automated Machine Learning \[AutoML] with Python, scikit-learn, Keras, XGBoost, LightGBM, and CatBoost
-*   [jesse (⭐4.7k)](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
+*   [AlphaPy (⭐969)](https://github.com/ScottfreeLLC/AlphaPy) - Automated Machine Learning \[AutoML] with Python, scikit-learn, Keras, XGBoost, LightGBM, and CatBoost
+*   [jesse (⭐4.9k)](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 
 ### Python / Time Series
 
-*   [Facebook Prophet (⭐16k)](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
+*   [Facebook Prophet (⭐17k)](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 
 ### Rust / Data Visualization
 
-*   [QuantMath (⭐324)](https://github.com/MarcusRainbow/QuantMath) - Financial maths library for risk-neutral pricing and risk
+*   [QuantMath (⭐335)](https://github.com/MarcusRainbow/QuantMath) - Financial maths library for risk-neutral pricing and risk
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Task Management & To-do Lists
 
-*   [Focalboard](https://www.focalboard.com/) - An open source, self-hosted alternative to Trello, Notion, and Asana. It helps define, organize, track and manage work across individuals and teams. ([Source Code (⭐15k)](https://github.com/mattermost/focalboard), [Clients](https://www.focalboard.com/download/personal-edition/desktop/)) `MIT/AGPL-3.0/Apache-2.0` `Nodejs/Go`
+*   [Focalboard](https://www.focalboard.com/) - Define, organize, track and manage work across individuals and teams (alternative to Trello, Notion, and Asana). ([Source Code (⭐17k)](https://github.com/mattermost/focalboard), [Clients](https://www.focalboard.com/download/personal-edition/desktop/)) `MIT/AGPL-3.0/Apache-2.0` `Nodejs/Go/Docker`
 
 ## [3. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / Devops
 
-*   [k9s (⭐21k)](https://github.com/derailed/k9s) - Manage Kubernetes Clusters.
+*   [k9s (⭐22k)](https://github.com/derailed/k9s) - Manage Kubernetes Clusters.
 
 ## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
-*   [vue-pure-admin (⭐8.7k)](https://github.com/xiaoxian521/vue-pure-admin) - Background management template based on Vue3, TypeScript, Tailwind CSS, element-plus.
+*   [vue-pure-admin (⭐11k)](https://github.com/xiaoxian521/vue-pure-admin) - Background management template based on Vue3, TypeScript, Tailwind CSS, element-plus.
 
 ### Templates / React
 
-*   [vite-reactts-eslint-prettier (⭐405)](https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier) - React, TypeScript, ESlint, Prettier, Pre-commit.
+*   [vite-reactts-eslint-prettier (⭐442)](https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier) - React, TypeScript, ESlint, Prettier, Pre-commit.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-html-config (⭐36)](https://github.com/ahwgs/vite-plugin-html-config) - HTML tag configuration, such as script link style meta favicon and more.
+*   [vite-plugin-html-config (⭐42)](https://github.com/ahwgs/vite-plugin-html-config) - HTML tag configuration, such as script link style meta favicon and more.
 
 ### Vue / Helpers
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-gql (⭐203)](https://github.com/wheatjs/vite-plugin-vue-gql) - GraphQL Tags for your Vue SFC.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-gql (⭐206)](https://github.com/wheatjs/vite-plugin-vue-gql) - GraphQL Tags for your Vue SFC.
 
 ## [5. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### PHP / Angular
+### PHP / Svelte
 
 *   [PHP Annotated Monthly](https://info.jetbrains.com/PHP-Annotated-Subscription.html). A free monthly newsletter containing latest news from the PHP community and the most interesting PHP articles from around the web. [Archive](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/)
 
@@ -61,34 +61,30 @@
 
 ### React Component Libraries
 
-*   [ant-design (⭐85k)](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-*   [chakra-ui (⭐32k)](https://github.com/chakra-ui/chakra-ui/) - Simple, Modular & Accessible UI Components for your React Applications
-*   [eui (⭐5.7k)](https://github.com/elastic/eui) - Elastic UI Framework
-*   [react-spectrum (⭐8.4k)](https://github.com/adobe/react-spectrum) - Adobe's collection of libraries and tools
-*   [ring-ui (⭐3.4k)](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components
+*   [ant-design (⭐88k)](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 
 ### React Awesome Components
 
-*   [react-device-detect (⭐2.3k)](https://github.com/duskload/react-device-detect) - Detect device, and render view accordingly
-*   [react-colorful (⭐2.6k)](https://github.com/omgovich/react-colorful) - A tiny color picker component
+*   [react-device-detect (⭐2.5k)](https://github.com/duskload/react-device-detect) - Detect device, and render view accordingly
+*   [react-colorful (⭐2.8k)](https://github.com/omgovich/react-colorful) - A tiny color picker component
 
 ### React Charts
 
-*   [recharts (⭐20k)](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
-*   [victory (⭐10k)](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
-*   [react-vis (⭐8.5k)](https://github.com/uber/react-vis) - Data Visualization Components
-*   [nivo (⭐11k)](https://github.com/plouc/nivo) - Provides a rich set of data visualization components built on top of the D3 and React libraries
+*   [recharts (⭐21k)](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
+*   [victory (⭐11k)](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
+*   [react-vis (⭐8.6k)](https://github.com/uber/react-vis) - Data Visualization Components
+*   [nivo (⭐12k)](https://github.com/plouc/nivo) - Provides a rich set of data visualization components built on top of the D3 and React libraries
 
 ### React Renderers
 
-*   [react-three-fiber (⭐22k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js
-*   [react-pdf (⭐12k)](https://github.com/diegomura/react-pdf) - Create PDF files using React
-*   [react-figma (⭐2.2k)](https://github.com/react-figma/react-figma) - A React renderer for Figma
+*   [react-three-fiber (⭐24k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js
+*   [react-pdf (⭐13k)](https://github.com/diegomura/react-pdf) - Create PDF files using React
+*   [react-figma (⭐2.3k)](https://github.com/react-figma/react-figma) - A React renderer for Figma
 
 ### React Graphics and Animations
 
-*   [react-spring (⭐25k)](https://github.com/pmndrs/react-spring) - A spring physics based React animation library
-*   [framer-motion (⭐18k)](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
+*   [react-spring (⭐27k)](https://github.com/pmndrs/react-spring) - A spring physics based React animation library
+*   [framer-motion (⭐20k)](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 
 ## [7. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -99,13 +95,13 @@
 
 ### Cloud platform security / Kubernetes
 
-*   [certificate-expiry-monitor (⭐149)](https://github.com/muxinc/certificate-expiry-monitor) - Utility that exposes the expiry of TLS certificates as Prometheus metrics.
+*   [certificate-expiry-monitor (⭐152)](https://github.com/muxinc/certificate-expiry-monitor) - Utility that exposes the expiry of TLS certificates as Prometheus metrics.
 
 ## [8. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Containers
 
-*   [PaaS to AKS (⭐11)](https://github.com/robhabraken/paas-to-aks) - Boilerplate project for deploying Sitecore 10.0.\* to Azure AKS coming from an Azure PaaS architecture for Sitecore. That includes ARM templates for External Data Services, required to run Sitecore k8s in production and scripts to support a full Infrastructure-as-Code setup for Sitecore on AKS.
+*   [PaaS to AKS (⭐11)](https://github.com/robhabraken/paas-to-aks) - Boilerplate project for deploying Sitecore 10.0.\* to Azure AKS coming from an Azure PaaS architecture for Sitecore. That includes ARM templates for External Data Services, required to run Sitecore k8s in production, and scripts to support a full Infrastructure-as-Code setup for Sitecore on AKS.
 
 ## [9. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 
@@ -130,42 +126,42 @@
 
 ### Audio
 
-*   [ni-media (⭐217)](https://github.com/NativeInstruments/ni-media) - C++ library for reading and writing audio files. \[MIT]
+*   [ni-media (⭐224)](https://github.com/NativeInstruments/ni-media) - C++ library for reading and writing audio files. \[MIT]
 
 ### JSON
 
-*   [yyjson (⭐2.5k)](https://github.com/ibireme/yyjson) - A high performance JSON library written in ANSI C. \[MIT]
+*   [yyjson (⭐2.6k)](https://github.com/ibireme/yyjson) - A high performance JSON library written in ANSI C. \[MIT]
 
 ### Networking
 
-*   [cpp-httplib (⭐9.5k)](https://github.com/yhirose/cpp-httplib) - A single file C++11 header-only HTTP/HTTPS server library. \[MIT]
+*   [cpp-httplib (⭐10k)](https://github.com/yhirose/cpp-httplib) - A single file C++11 header-only HTTP/HTTPS server library. \[MIT]
 
 ## [13. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
-### Deployment Tools / Newsletters
+### Deployment Tools / Discovery
 
-*   [pushnix (⭐26)](https://github.com/arnarg/pushnix) - Simple cli utility that pushes NixOS configuration and triggers a rebuild using ssh.
+*   [pushnix (⭐30)](https://github.com/arnarg/pushnix) - Simple cli utility that pushes NixOS configuration and triggers a rebuild using ssh.
 
-### Command-Line Tools / Newsletters
+### Command-Line Tools / Discovery
 
-*   [nixpkgs-fmt (⭐430)](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
+*   [nixpkgs-fmt (⭐475)](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
 
 ## [14. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### C
 
-*   [cl-cxx-jit (⭐44)](https://github.com/Islam0mar/CL-CXX-JIT) -  Common Lisp and C++ interoperation with JIT. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-cxx-jit (⭐46)](https://github.com/Islam0mar/CL-CXX-JIT) -  Common Lisp and C++ interoperation with JIT. [MIT](https://opensource.org/licenses/MIT).
 
 ### Shells, shells interfaces / Third-party APIs
 
-*   [Lish (⭐82)](https://github.com/nibbula/lish) - `lish` may someday be a lisp shell. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [Lish (⭐92)](https://github.com/nibbula/lish) - `lish` may someday be a lisp shell. [GPL3](http://www.gnu.org/copyleft/gpl.html).
     *   supports tab-completion of executables in the path and Lisp symbols, allows to write and to mix shell commands and Lisp code, has a tiny REPL and an interactive debugger, and more.
 
 ## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### IDE and Code Editing
 
-*   [Lazarus](https://www.lazarus-ide.org/) — Lazarus is a Delphi compatible cross-platform IDE for Rapid Application Development.
+*   [Lazarus](https://www.lazarus-ide.org/) — Lazarus is a Delphi-compatible cross-platform IDE for Rapid Application Development.
 
 ## [16. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 

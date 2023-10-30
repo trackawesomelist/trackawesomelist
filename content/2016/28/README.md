@@ -104,7 +104,7 @@ git shortlog
 
 ### Error Handling
 
-*   [Bugsnag (⭐233)](https://github.com/bugsnag/bugsnag-ruby) - Error monitoring for Rails, Sinatra, Rack, and plain Ruby apps.
+*   [Bugsnag (⭐241)](https://github.com/bugsnag/bugsnag-ruby) - Error monitoring for Rails, Sinatra, Rack, and plain Ruby apps.
 
 ## [9. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -148,7 +148,7 @@ git shortlog
 
 ### Network / Security Information & Event Management
 
-*   [FIR (⭐1.5k)](https://github.com/certsocietegenerale/FIR) - Fast Incident Response, a cybersecurity incident management platform.
+*   [FIR (⭐1.6k)](https://github.com/certsocietegenerale/FIR) - Fast Incident Response, a cybersecurity incident management platform.
 
 ### Network / Firewall
 
@@ -231,14 +231,14 @@ git shortlog
 
 ### Algorithms and Data structures
 
-*   [ecto\_state\_machine (⭐92)](https://github.com/asiniy/ecto_state_machine) - Finite state machine pattern implemented on Elixir and  adopted for Ecto.
+*   [ecto\_state\_machine (⭐95)](https://github.com/asiniy/ecto_state_machine) - Finite state machine pattern implemented on Elixir and  adopted for Ecto.
 *   [simhash (⭐22)](https://github.com/UniversalAvenue/simhash-ex) - Simhash implementation using Siphash and N-grams.
 
 ### Framework Components
 
-*   [kerosene (⭐226)](https://github.com/elixirdrops/kerosene) - Pagination for Ecto and Phoenix.
-*   [phoenix\_html\_simplified\_helpers (⭐29)](https://github.com/ikeikeikeike/phoenix_html_simplified_helpers) - Some helpers for phoenix html (truncate, time\_ago\_in\_words, number\_with\_delimiter).
-*   [plug\_secex (⭐25)](https://github.com/techgaun/plug_secex) - Plug that adds various HTTP Headers to make Phoenix/Elixir app more secure.
+*   [kerosene (⭐229)](https://github.com/elixirdrops/kerosene) - Pagination for Ecto and Phoenix.
+*   [phoenix\_html\_simplified\_helpers (⭐31)](https://github.com/ikeikeikeike/phoenix_html_simplified_helpers) - Some helpers for phoenix html (truncate, time\_ago\_in\_words, number\_with\_delimiter).
+*   [plug\_secex (⭐26)](https://github.com/techgaun/plug_secex) - Plug that adds various HTTP Headers to make Phoenix/Elixir app more secure.
 
 ### HTTP
 
@@ -250,8 +250,8 @@ git shortlog
 
 ### Networking
 
-*   [asn (⭐12)](https://github.com/ephe-meral/asn) - Can be used to map from IP to AS to ASN.
-*   [mac (⭐5)](https://github.com/ephe-meral/mac) - Can be used to find a vendor of a MAC given in hexadecimal string (according to IEEE).
+*   [asn (⭐14)](https://github.com/ephe-meral/asn) - Can be used to map from IP to AS to ASN.
+*   [mac (⭐6)](https://github.com/ephe-meral/mac) - Can be used to find a vendor of a MAC given in hexadecimal string (according to IEEE).
 
 ### ORM and Datamapping
 
@@ -263,15 +263,15 @@ git shortlog
 
 ### Third Party APIs
 
-*   [pigeon (⭐567)](https://github.com/codedge-llc/pigeon) - HTTP2-compliant wrapper for sending iOS and Android push notifications.
+*   [pigeon (⭐583)](https://github.com/codedge-llc/pigeon) - HTTP2-compliant wrapper for sending iOS and Android push notifications.
 
 ### Translations and Internationalizations
 
-*   [exkanji (⭐11)](https://github.com/ikeikeikeike/exkanji) - A Elixir library for translating between hiragana, katakana, romaji and kanji. It uses Mecab.
+*   [exkanji (⭐12)](https://github.com/ikeikeikeike/exkanji) - A Elixir library for translating between hiragana, katakana, romaji and kanji. It uses Mecab.
 
 ### Utilities
 
-*   [sitemap (⭐96)](https://github.com/ikeikeikeike/sitemap) - Sitemap is the easiest way to generate Sitemaps in Elixir.
+*   [sitemap (⭐103)](https://github.com/ikeikeikeike/sitemap) - Sitemap is the easiest way to generate Sitemaps in Elixir.
 
 ### Newsletters
 
@@ -325,19 +325,19 @@ git shortlog
 
 ### Other Awesome Lists
 
-*   [awesome-macOS (⭐14k)](https://github.com/iCHAIT/awesome-macOS) - A curated list of awesome applications, softwares, tools and shiny things for macOS.
+*   [awesome-macOS (⭐15k)](https://github.com/iCHAIT/awesome-macOS) - A curated list of awesome applications, softwares, tools and shiny things for macOS.
 
 ### Cache
 
-*   [Cache (⭐2.7k)](https://github.com/hyperoslo/Cache) - Nothing but Cache.
+*   [Cache (⭐2.8k)](https://github.com/hyperoslo/Cache) - Nothing but Cache.
 
 ### Dependency Injection
 
-*   [Dip (⭐950)](https://github.com/AliSoftware/Dip) - A simple Dependency Injection Container.
+*   [Dip (⭐962)](https://github.com/AliSoftware/Dip) - A simple Dependency Injection Container.
 
 ### Device
 
-*   [Device.swift (⭐219)](https://github.com/schickling/Device.swift) - Super-lightweight library to detect used device.
+*   [Device.swift (⭐220)](https://github.com/schickling/Device.swift) - Super-lightweight library to detect used device.
 
 ### Bluetooth
 
@@ -346,11 +346,11 @@ git shortlog
 
 ### Camera
 
-*   [Fusuma (⭐2.4k)](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature.
+*   [Fusuma (⭐2.5k)](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature.
 
 ### PDF / Barcode
 
-*   [SimplePDF (⭐242)](https://github.com/nRewik/SimplePDF) - Create a simple PDF effortlessly.
+*   [SimplePDF (⭐243)](https://github.com/nRewik/SimplePDF) - Create a simple PDF effortlessly.
 
 ### Streaming / Barcode
 
@@ -358,17 +358,17 @@ git shortlog
 
 ### HUD / Barcode
 
-*   [KRProgressHUD (⭐647)](https://github.com/krimpedance/KRProgressHUD) - A beautiful and customizable progress HUD.
-*   [PKHUD (⭐3.7k)](https://github.com/pkluz/PKHUD) - Reimplementation of the Apple HUD.
+*   [KRProgressHUD (⭐657)](https://github.com/krimpedance/KRProgressHUD) - A beautiful and customizable progress HUD.
+*   [PKHUD (⭐3.8k)](https://github.com/pkluz/PKHUD) - Reimplementation of the Apple HUD.
 
 ### Utility / Barcode
 
-*   [Solar (⭐517)](https://github.com/ceeK/Solar) - Calculate sunrise and sunset times given a location.
+*   [Solar (⭐537)](https://github.com/ceeK/Solar) - Calculate sunrise and sunset times given a location.
 
 ### Version Manager / Barcode
 
-*   [AppVersionMonitor (⭐257)](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.
-*   [Version Tracker Swift (⭐82)](https://github.com/tbaranes/VersionTrackerSwift) - Versions tracker for your iOS, OS X, and tvOS app.
+*   [AppVersionMonitor (⭐258)](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.
+*   [Version Tracker Swift (⭐84)](https://github.com/tbaranes/VersionTrackerSwift) - Versions tracker for your iOS, OS X, and tvOS app.
 
 ## [28. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
@@ -529,11 +529,11 @@ Webpage: <https://www.bop.pt>
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [gifgen (⭐496)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
+*   [gifgen (⭐508)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
 
 ### Applications / Directory Navigation
 
-*   [vl (⭐20)](https://github.com/ellisonleao/vl) - URL link checker on text documents
+*   [vl (⭐23)](https://github.com/ellisonleao/vl) - URL link checker on text documents
 
 ---
 

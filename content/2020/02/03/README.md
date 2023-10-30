@@ -22,7 +22,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [Dnote](https://www.getdnote.com) - A simple command line notebook with multi-device sync and web interface. ([Source Code (⭐2.5k)](https://github.com/dnote/dnote)) `AGPL-3.0` `Go`
+*   [Dnote](https://www.getdnote.com) - A simple command line notebook with multi-device sync and web interface. ([Source Code (⭐2.6k)](https://github.com/dnote/dnote)) `AGPL-3.0` `Go`
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -34,7 +34,7 @@
 
 ### GDScript/C# editor support / Godot version unknown
 
-*   [IntelliJ IDEA (⭐128)](https://github.com/exigow/intellij-gdscript) - Syntax highlighting and autocompletion.
+*   [IntelliJ IDEA (⭐134)](https://github.com/exigow/intellij-gdscript) - Syntax highlighting and autocompletion.
 
 ## [5. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
@@ -104,7 +104,7 @@
 *   [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) -  Load more results automatically and endlessly.
 *   [Google Images direct link](https://greasyfork.org/scripts/3187-google-images-direct-link) - Adds direct links to images and pages in google image search.
 *   [Google Translate Keyboard Shortcut (⭐6)](https://github.com/Greenek/google-translate-keyboard-shortcut-userscript) - Adds keyboard shortcut for quick swapping between active languages.
-*   [Reddit Search On Google (⭐68)](https://github.com/marioortizmanero/reddit-search-on-google) - Adds a button to your Google searches to show only Reddit posts.
+*   [Reddit Search On Google (⭐71)](https://github.com/marioortizmanero/reddit-search-on-google) - Adds a button to your Google searches to show only Reddit posts.
 
 ### Scripts / Media
 
@@ -144,7 +144,7 @@
 
 ### Documentation
 
-*   [Documentation (⭐216)](https://github.com/adamcooke/documentation) - A Rails engine to provide the ability to add documentation to a Rails application.
+*   [Documentation (⭐214)](https://github.com/adamcooke/documentation) - A Rails engine to provide the ability to add documentation to a Rails application.
 
 ## [12. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 
@@ -166,7 +166,7 @@
 
 ### Authentication and Authorization
 
-*   [TwoFactorAuth plugin (⭐34)](https://github.com/andrej-griniuk/cakephp-two-factor-auth) - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth (⭐913)](https://github.com/RobThree/TwoFactorAuth) library.
+*   [TwoFactorAuth plugin (⭐36)](https://github.com/andrej-griniuk/cakephp-two-factor-auth) - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth (⭐962)](https://github.com/RobThree/TwoFactorAuth) library.
 
 ## [15. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -235,8 +235,8 @@
 
 ### Driver crates / Other
 
-*   [usbd-serial](http://crates.io/crates/usbd-serial) - USB CDC-ACM class (serial) implementation - [github (⭐77)](https://github.com/mvirkkunen/usbd-serial) - ![crates.io](https://img.shields.io/crates/v/usbd-serial.svg)
-*   [usbd-hid](http://crates.io/crates/usbd-hid) - USB HID class implementation - [github (⭐66)](https://github.com/twitchyliquid64/usbd-hid) - ![crates.io](https://img.shields.io/crates/v/usbd-hid.svg)
+*   [usbd-serial](http://crates.io/crates/usbd-serial) - USB CDC-ACM class (serial) implementation - [github (⭐88)](https://github.com/mvirkkunen/usbd-serial) - ![crates.io](https://img.shields.io/crates/v/usbd-serial.svg)
+*   [usbd-hid](http://crates.io/crates/usbd-hid) - USB HID class implementation - [github (⭐71)](https://github.com/twitchyliquid64/usbd-hid) - ![crates.io](https://img.shields.io/crates/v/usbd-hid.svg)
 *   [usbd-webusb](http://crates.io/crates/usbd-webusb) - USB webUSB class implementation - [github (⭐16)](https://github.com/redpfire/usbd-webusb) - ![crates.io](https://img.shields.io/crates/v/usbd-webusb.svg)
 
 ### Driver crates / WIP

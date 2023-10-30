@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 22, 2020
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -31,7 +31,7 @@
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Algorithms, Containers and Protocols / MIT
+### Algorithms, Containers and Protocols / Apache License
 
 *   [smart-pointers (⭐1)](https://github.com/alire-project/smart_pointers) - A package providing a reference-counted access type Smart\_Pointer.
 
@@ -53,7 +53,7 @@
 
 ### Recruitment / Interview
 
-*   [Book Summary of "Who: The A Method for Hiring"](https://medium.com/mbreads/book-summary-who-c4a437d8ae3a) - The essential of [*Who*, a popular book](https://amzn.com/0345504194/?tag=kevideld-20) on recruiting executives.
+*   [Book Summary of "Who: The A Method for Hiring"](https://medium.com/mbreads/book-summary-who-c4a437d8ae3a) - The essential of [*Who*, a popular book](https://www.amazon.com/Who-Geoff-Smart/dp/0345504194?_encoding=UTF8\&qid=1686402298\&sr=1-1\&linkCode=ll1\&tag=kevideld-20\&linkId=d4a63bc5d11e6d00d942c293a640e2c1\&language=en_US\&ref_=as_li_ss_tl) on recruiting executives.
 
 ### Motivation / Happiness
 
@@ -86,10 +86,6 @@
 *   [Things to look for when hiring remote workers](https://news.ycombinator.com/item?id=17022563) - “1. You have to adhere to employment laws within the country you're hiring from; 2. To employ someone full time, many countries require you to have a legally entity within that country; 3. Prioritize countries where we have the most interest; 4. Keep a healthy timezone overlap in each of our teams.”
 *   [Managing Remote Teams - A Crash Course](http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course) - Compilation of easy rules and processes to bootstrap a remote team.
 
-### Facilities / Standups
-
-*   [The impact of the 'open' workspace on human collaboration](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2017.0239) - Open-plan offices decrease face-to-face collaboration.
-
 ### Product Management / Product Strategy
 
 *   [Sustainable Sources of Competitive Advantage](https://www.collaborativefund.com/blog/sustainable-sources-of-competitive-advantage/) - “The ability to learn faster than your competition; to empathize with customers more than your competition; to communicate more effectively than your competition; The willingness to fail more than your competition; to wait longer than your competition”.
@@ -120,10 +116,6 @@
 ### Compensation / Equity
 
 *   [On VC funding and huge growth](https://news.ycombinator.com/item?id=17448035) - “Startups need an exit strategy. (…) The idea is to raise money fast, hire experienced people for ancillary services and develop the application in a way so that it is able to hold up till IPO. Defer all costs for post IPO.” So from this angle, the only reason to join a startup is for future money windfall.
-
-### Politics / Equity
-
-*   [The 48 Laws of Power](https://amzn.com/0140280197/?tag=kevideld-20) - By Robert Greene. Can teach you how to cover your ass and be effective in a highly political org.
 
 ### Health / Holidays
 
@@ -159,12 +151,12 @@
 ### CMS
 
 *   [Cosmic](https://www.cosmicjs.com/) — Headless CMS and API toolkit. Free personal plans for developers.
-*   [Crystallize](https://crystallize.com) — Headless PIM with ecommerce support. Built-in GraphQL API. Free version includes unlimited users, 1000 catalogue items, 5 GB/month bandwidth and 25k/month API calls.
-*   [kontent.ai](https://www.kontent.ai) - A Content-as-a-Service platform that gives you all the headless CMS benefits while empowering marketers at the same time. Developer plan provides 2 users with unlimited projects with 2 environments for each, 500 content items, 2 languages with Delivery and Management API, and Custom elements support. Larger plans available to meet your needs.
+*   [Crystallize](https://crystallize.com) — Headless PIM with ecommerce support. Built-in GraphQL API. The free version includes unlimited users, 1000 catalog items, 5 GB/month bandwidth, and 25k/month API calls.
+*   [kontent.ai](https://www.kontent.ai) - A Content-as-a-Service platform that gives you all the headless CMS benefits while empowering marketers at the same time. The developer plan provides two users with unlimited projects with two environments for each, 500 content items, two languages with Delivery and Management API, and Custom elements support. You can use more detailed plans to meet your needs.
 
 ### Code Quality
 
-*   [CodeFactor](https://www.codefactor.io) — Automated Code Review for Git. Free version includes unlimited users, unlimited public repositories and 1 private repo.
+*   [CodeFactor](https://www.codefactor.io) — Automated Code Review for Git. The free version includes unlimited users, public repositories, and one private repo.
 
 ## [6. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
@@ -184,7 +176,7 @@
 
 ### Related Resources / Vector search
 
-*   [iRuby (⭐756)](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formerly IPython).
+*   [iRuby (⭐790)](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formerly IPython).
 
 ## [9. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
@@ -200,27 +192,27 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [statek (⭐8)](https://github.com/pie6k/statek) - Reactive state management library
+*   :octocat: [statek (⭐9)](https://github.com/pie6k/statek) - Reactive state management library
 
 ## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Miscellaneous
 
-*   [cl-cuda (⭐261)](https://github.com/takagi/cl-cuda) - A library to use NVIDIA CUDA in Common Lisp programs. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [cl-cuda (⭐264)](https://github.com/takagi/cl-cuda) - A library to use NVIDIA CUDA in Common Lisp programs. [LLGPL](http://opensource.franz.com/preamble.html).
 *   [LispWork's CAPI](http://www.lispworks.com/products/capi.html) - A portable GUI toolkit, with mobile runtime. Proprietary, but comes with a free version.
 
 ### HTML generators and templates / Isomorphic web frameworks
 
-*   [flute (⭐59)](https://github.com/ailisp/flute) - An easily composable HTML5 generation library with the most simplistic syntax. [MIT](https://opensource.org/licenses/MIT).
-*   [lsx (⭐76)](https://github.com/fukamachi/lsx/) and [markup (⭐58)](https://github.com/moderninterpreters/markup) - Two JSX-like templating engines, where HTML tags are Common Lisp code. `markup` comes with an Emacs package.
+*   [flute (⭐61)](https://github.com/ailisp/flute) - An easily composable HTML5 generation library with the most simplistic syntax. [MIT](https://opensource.org/licenses/MIT).
+*   [lsx (⭐76)](https://github.com/fukamachi/lsx/) and [markup (⭐59)](https://github.com/moderninterpreters/markup) - Two JSX-like templating engines, where HTML tags are Common Lisp code. `markup` comes with an Emacs package.
 
 ### Utils / Third-party APIs
 
-*   [STMX (⭐229)](https://github.com/cosmos72/stmx) -  High performance Transactional Memory for Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [STMX (⭐235)](https://github.com/cosmos72/stmx) -  High performance Transactional Memory for Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### REPLs / Third-party APIs
 
-*   [sbcli (⭐81)](https://github.com/hellerve/sbcli) - a readline REPL for SBCL. With completion, quick commands, optional syntax highlighting (with pygments), and no interactive debugger. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [sbcli (⭐80)](https://github.com/hellerve/sbcli) - a readline REPL for SBCL. With completion, quick commands, optional syntax highlighting (with pygments), and no interactive debugger. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
 ### Apps / Third-party APIs
 
@@ -264,6 +256,22 @@
 
 *   Hilversum, Netherlands
     *   [Mr. Vegan Foodbar](https://www.mrveganfoodbar.nl/) - Amazing selection of delicious soups, bowls, curries, quality junk food, and tasty snacks.
+
+## [16. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### C++ / Non-X86
+
+*   [Think C++: How To Think Like a Computer Scientist](https://greenteapress.com/wp/think-c/) - Allen B. Downey (PDF)
+
+### Java / Bootstrap
+
+*   [Think Data Structures: Algorithms and Information Retrieval in Java](https://greenteapress.com/wp/think-data-structures/) - Allen B. Downey (PDF, HTML)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Modeling and Simulation in Python](https://greenteapress.com/wp/modsimpy/) - Allen B. Downey (PDF)
+*   [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - Allen B. Downey (2nd Edition) (PDF, HTML)
+*   [Think DSP - Digital Signal Processing in Python](https://greenteapress.com/wp/think-dsp/) - Allen B. Downey (PDF, HTML)
 
 ---
 

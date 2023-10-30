@@ -41,7 +41,7 @@
 
 ### App Store
 
-*   [InAppPurchase (⭐274)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
+*   [InAppPurchase (⭐280)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
 
 ### JSON
 
@@ -49,7 +49,7 @@
 
 ### HUD / Barcode
 
-*   [GradientLoadingBar (⭐833)](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
+*   [GradientLoadingBar (⭐884)](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
 
 ## [4. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Hypervisors
 
-*   [MultiDocker (⭐40)](https://github.com/marty90/multidocker)\
+*   [MultiDocker (⭐42)](https://github.com/marty90/multidocker)\
     Create a secure multi-user Docker machine, where each user is segregated into an indepentent container.
 
 ## [7. Awesome Android](/content/JStumpp/awesome-android/README.md)
@@ -96,7 +96,7 @@
 
 ### Boilerplates
 
-*   [Next Redux Starter (⭐365)](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS.
+*   [Next Redux Starter (⭐373)](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS.
 
 ---
 

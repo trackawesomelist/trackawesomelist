@@ -61,18 +61,18 @@
 
 ### Visualization / General Purposes
 
-*   [chartify (⭐3.3k)](https://github.com/spotify/chartify/) - Python library that makes it easy for data scientists to create charts.
-*   [physt (⭐122)](https://github.com/janpipek/physt) - Improved histograms.
+*   [chartify (⭐3.4k)](https://github.com/spotify/chartify/) - Python library that makes it easy for data scientists to create charts.
+*   [physt (⭐124)](https://github.com/janpipek/physt) - Improved histograms.
 
 ### Visualization / Interactive plots
 
-*   [animatplot (⭐400)](https://github.com/t-makaro/animatplot) - A python package for animating plots built on matplotlib.
+*   [animatplot (⭐402)](https://github.com/t-makaro/animatplot) - A python package for animating plots built on matplotlib.
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Audio
 
-*   [Verovio (⭐551)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
+*   [Verovio (⭐572)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
 
 ## [8. Awesome Json](/content/burningtree/awesome-json/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Apps / Misc
 
-*   [Wagtail Live Preview (⭐27)](https://github.com/KalobTaulien/wagtail-livepreview) - Live page previews beside your content.
+*   [Wagtail Live Preview (⭐28)](https://github.com/KalobTaulien/wagtail-livepreview) - Live page previews beside your content.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Packages / Mad science
 
-*   [peercast (⭐508)](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
+*   [peercast (⭐509)](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
 
 ## [2. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
@@ -28,7 +28,7 @@
 
 ### E-commerce
 
-*   [python-currencies (⭐66)](https://github.com/Alir3z4/python-currencies) - Display money format and its filthy currencies.
+*   [python-currencies (⭐69)](https://github.com/Alir3z4/python-currencies) - Display money format and its filthy currencies.
 
 ## [5. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -86,85 +86,79 @@
 
 ## [8. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
-### Actors
-
-*   [exactor (⭐671)](https://github.com/sasa1977/exactor) - Helpers for easier implementation of actors in Elixir.
-*   [poolboy (⭐1.5k)](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory.
-*   [workex (⭐78)](https://github.com/sasa1977/workex) - Backpressure and flow control in EVM processes.
-
 ### Algorithms and Data structures
 
-*   [array (⭐32)](https://github.com/takscape/elixir-array) - An Elixir wrapper library for Erlang's array.
+*   [array (⭐33)](https://github.com/takscape/elixir-array) - An Elixir wrapper library for Erlang's array.
 
 ### Build Tools
 
-*   [ExMake (⭐16)](https://github.com/lycus/exmake) - A modern, scriptable, dependency-based build tool loosely based on Make principles.
+*   [ExMake (⭐17)](https://github.com/lycus/exmake) - A modern, scriptable, dependency-based build tool loosely based on Make principles.
 
 ### Caching
 
-*   [con\_cache (⭐866)](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
+*   [con\_cache (⭐880)](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
 
 ### Code Analysis
 
 *   [coverex (⭐99)](https://github.com/alfert/coverex) - Coverage Reports for Elixir.
-*   [excoveralls (⭐769)](https://github.com/parroty/excoveralls) - Coverage report tool for Elixir with coveralls.io integration.
+*   [excoveralls (⭐788)](https://github.com/parroty/excoveralls) - Coverage report tool for Elixir with coveralls.io integration.
 
 ### Configuration
 
-*   [conform (⭐379)](https://github.com/bitwalker/conform) - Easy release configuration for Elixir apps.
-*   [ex\_conf (⭐36)](https://github.com/phoenixframework/ex_conf) - Simple Elixir Configuration Management.
+*   [conform (⭐378)](https://github.com/bitwalker/conform) - Easy release configuration for Elixir apps.
+*   [ex\_conf (⭐35)](https://github.com/phoenixframework/ex_conf) - Simple Elixir Configuration Management.
 
 ### CSV
 
-*   [cesso (⭐27)](https://github.com/meh/cesso) - CSV handling library for Elixir.
+*   [cesso (⭐26)](https://github.com/meh/cesso) - CSV handling library for Elixir.
 *   [csvlixir (⭐33)](https://github.com/jimm/csvlixir) - A CSV reading/writing application for Elixir.
 *   [ex\_csv (⭐46)](https://github.com/CargoSense/ex_csv) - CSV for Elixir.
 
 ### Date and Time
 
 *   [timex (⭐1.7k)](https://github.com/bitwalker/timex) - Easy to use Date and Time modules for Elixir.
-*   [timex\_interval (⭐7)](https://github.com/atabary/timex-interval) - A date/time interval library for Elixir projects, based on Timex.
+*   [timex\_interval (⭐8)](https://github.com/atabary/timex-interval) - A date/time interval library for Elixir projects, based on Timex.
 
 ### Files and Directories
 
-*   [dir\_walker (⭐40)](https://github.com/pragdave/dir_walker) - DirWalker lazily traverses one or more directory trees, depth first, returning successive file names.
+*   [dir\_walker (⭐41)](https://github.com/pragdave/dir_walker) - DirWalker lazily traverses one or more directory trees, depth first, returning successive file names.
 
 ### Frameworks
 
 *   [phoenix (⭐20k)](https://github.com/phoenixframework/phoenix) - Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality.
 *   [placid (⭐188)](https://github.com/slogsdon/placid) - A REST toolkit for building highly-scalable and fault-tolerant HTTP APIs with Elixir.
-*   [sugar (⭐421)](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
+*   [sugar (⭐424)](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
 
 ### Geolocation
 
-*   [geo (⭐572)](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
+*   [geo (⭐588)](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
 
 ### Hardware
 
-*   [elixir\_ale (⭐338)](https://github.com/fhunleth/elixir_ale) - Elixir access to hardware I/O interfaces such as GPIO, I2C, and SPI.
+*   [elixir\_ale (⭐340)](https://github.com/fhunleth/elixir_ale) - Elixir access to hardware I/O interfaces such as GPIO, I2C, and SPI.
 
 ### JSON
 
-*   [jazz (⭐62)](https://github.com/meh/jazz) - Yet another library to handle JSON in Elixir.
-*   [joken (⭐711)](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
-*   [jsxn (⭐27)](https://github.com/talentdeficit/jsxn) - jsx but with maps.
+*   [jazz (⭐61)](https://github.com/meh/jazz) - Yet another library to handle JSON in Elixir.
+*   [joken (⭐723)](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
+*   [jsxn (⭐26)](https://github.com/talentdeficit/jsxn) - jsx but with maps.
 
 ### Markdown
 
-*   [discount (⭐20)](https://github.com/asaaki/discount.ex) - Elixir NIF for discount, a Markdown parser.
-*   [earmark (⭐789)](https://github.com/pragdave/earmark) - Markdown parser for Elixir.
+*   [discount (⭐21)](https://github.com/asaaki/discount.ex) - Elixir NIF for discount, a Markdown parser.
+*   [earmark (⭐815)](https://github.com/pragdave/earmark) - Markdown parser for Elixir.
 
 ### Miscellaneous
 
 *   [exquisite (⭐78)](https://github.com/meh/exquisite) - LINQ-like match\_spec generation for Elixir.
-*   [porcelain (⭐910)](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
-*   [reprise (⭐41)](https://github.com/herenowcoder/reprise) - Simplified module reloader for Elixir.
+*   [porcelain (⭐920)](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
+*   [reprise (⭐42)](https://github.com/herenowcoder/reprise) - Simplified module reloader for Elixir.
 *   [spawndir (⭐3)](https://github.com/jtmoulia/spawndir) - Spawns processes from the file system.
 
 ### Networking
 
 *   [reagent (⭐92)](https://github.com/meh/reagent) - reagent is a socket acceptor pool for Elixir.
-*   [socket (⭐677)](https://github.com/meh/elixir-socket) - Socket wrapping for Elixir.
+*   [socket (⭐679)](https://github.com/meh/elixir-socket) - Socket wrapping for Elixir.
 *   [wpa\_supplicant (⭐5)](https://github.com/fhunleth/wpa_supplicant.ex) - Elixir interface to the wpa\_supplicant.
 
 ### OTP
@@ -178,11 +172,11 @@
 
 ### Release Management
 
-*   [exrm (⭐926)](https://github.com/bitwalker/exrm) - Automatically generate a release for your Elixir project.
+*   [exrm (⭐923)](https://github.com/bitwalker/exrm) - Automatically generate a release for your Elixir project.
 
 ### REST and API
 
-*   [signaturex (⭐22)](https://github.com/edgurgel/signaturex) - Simple key/secret based authentication for APIs.
+*   [signaturex (⭐23)](https://github.com/edgurgel/signaturex) - Simple key/secret based authentication for APIs.
 *   [urna (⭐95)](https://github.com/meh/urna) - Urna is a simple DSL around cauldron to implement REST services.
 
 ### Static Page Generation
@@ -202,7 +196,7 @@
 ### XML
 
 *   [quinn (⭐49)](https://github.com/nhu313/Quinn) - XML parser for Elixir.
-*   [xml\_builder (⭐160)](https://github.com/joshnuss/xml_builder) - Elixir library for generating xml.
+*   [xml\_builder (⭐163)](https://github.com/joshnuss/xml_builder) - Elixir library for generating xml.
 
 ### Other Awesome Lists
 

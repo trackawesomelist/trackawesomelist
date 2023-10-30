@@ -10,10 +10,6 @@
 
 ### Analytics dashboards
 
-*   Other awesome lists [awesome-awesomeness (⭐29k)](https://github.com/bayandin/awesome-awesomeness).
-*   Even more lists [awesome (⭐223k)](https://github.com/sindresorhus/awesome).
-*   Another list? [list (⭐8.5k)](https://github.com/jnv/lists).
-*   WTF! [awesome-awesome-awesome (⭐1.7k)](https://github.com/t3chnoboy/awesome-awesome-awesome).
 *   Analytics [awesome-bigdata (⭐11k)](https://github.com/onurakpolat/awesome-bigdata).
 
 ## [2. Awesome Db](/content/numetriclabz/awesome-db/week/README.md)
@@ -56,7 +52,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [PyQtGraph (⭐3.2k)](https://github.com/pyqtgraph/pyqtgraph) - A pure-python graphics and GUI library built on PyQt4 / PySide and NumPy.
+*   [PyQtGraph (⭐3.4k)](https://github.com/pyqtgraph/pyqtgraph) - A pure-python graphics and GUI library built on PyQt4 / PySide and NumPy.
 
 ## [9. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -99,7 +95,7 @@
 
 ### Server Frameworks
 
-*   [Start (⭐523)](https://github.com/lvivski/start) - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
+*   [Start (⭐531)](https://github.com/lvivski/start) - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
 
 ### Game Development
 
@@ -113,11 +109,11 @@
 
 ### Template
 
-*   [jaded (⭐41)](https://github.com/dartist/jaded) - Port of the excellent Jade view engine.
+*   [jaded (⭐42)](https://github.com/dartist/jaded) - Port of the excellent Jade view engine.
 
 ### Database
 
-*   [SQLJockey (⭐21)](https://github.com/jamesots/sqljocky) - MySQL connector.
+*   [SQLJockey (⭐20)](https://github.com/jamesots/sqljocky) - MySQL connector.
 
 ### Package Managers
 
@@ -129,13 +125,21 @@
 
 ### ORM
 
-*   [Objectory (⭐54)](https://github.com/vadimtsushko/objectory) - Objectory provides typed, checked environment to model, save and query data persisted on MongoDb.
+*   [Objectory (⭐55)](https://github.com/vadimtsushko/objectory) - Objectory provides typed, checked environment to model, save and query data persisted on MongoDb.
 
 ### IDEs, Editors, and Plugins
 
 *   [IntelliJ Plugin](https://www.dartlang.org/tools/webstorm/) - Dart plugin from JetBrains for WebStorm, IntelliJ IDEA, PhpStorm, PyCharm, and RubyMine.
 
 ## [12. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+
+### Data Visualization / Graph Based approach
+
+*   Other awesome lists [awesome-awesomeness (⭐30k)](https://github.com/bayandin/awesome-awesomeness).
+*   Even more lists [awesome (⭐254k)](https://github.com/sindresorhus/awesome).
+*   Another list? [list (⭐9k)](https://github.com/jnv/lists).
+*   WTF! [awesome-awesome-awesome (⭐1.8k)](https://github.com/t3chnoboy/awesome-awesome-awesome).
+*   Analytics [awesome-analytics (⭐3.6k)](https://github.com/onurakpolat/awesome-analytics).
 
 ### Distributed Filesystem
 
@@ -144,25 +148,21 @@
 ### Key-value Data Model
 
 *   [Aerospike](http://www.aerospike.com/) - NoSQL flash-optimized, in-memory. Open source and "Server code in 'C' (not Java or Erlang) precisely tuned to avoid context switching and memory copies."
-*   [TreodeDB (⭐179)](https://github.com/Treode/store) - key-value store that's replicated and sharded and provides atomic multirow writes.
+*   [TreodeDB (⭐178)](https://github.com/Treode/store) - key-value store that's replicated and sharded and provides atomic multirow writes.
 
 ### Applications
 
-*   [Adobe spindle (⭐334)](https://github.com/adobe-research/spindle) - Next-generation web analytics processing with Scala, Spark, and Parquet.
-
-### Data Visualization / Graph Based approach
-
-*   Analytics [awesome-analytics (⭐3.4k)](https://github.com/onurakpolat/awesome-analytics).
+*   [Adobe spindle (⭐333)](https://github.com/adobe-research/spindle) - Next-generation web analytics processing with Scala, Spark, and Parquet.
 
 ## [13. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Streams
 
-*   [multistream (⭐280)](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
+*   [multistream (⭐284)](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
 
 ### Packages / Network
 
-*   [ipify (⭐247)](https://github.com/sindresorhus/ipify) - Get your public IP address.
+*   [ipify (⭐258)](https://github.com/sindresorhus/ipify) - Get your public IP address.
 
 ## [14. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Security
 
-*   [Muffin/Obfuscate plugin](https://github.com/usemuffin/obfuscate) - Primary key obfuscation/shortening using UUIDs, HashIds, Optimus, Tiny and/or custom obfuscation strategies.
+*   🍰 [Muffin/Obfuscate plugin (⭐36)](https://github.com/usemuffin/obfuscate) - Primary key obfuscation/shortening using UUIDs, HashIds, Optimus, Tiny and/or custom obfuscation strategies.
 
 ## [2. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -22,11 +22,7 @@
 
 ### Application Skeleton
 
-*   [NovaMOOC (⭐19)](https://github.com/les-enovateurs/phalcon-nova-mooc) - Sample application with API/BackEnd and FrontEnd + Authentication with JWT + Cypress tests with GitHub Actions + Docker compose.
-
-### Books / Slides
-
-*   [Phalcon Book (in French)](https://www.editions-eni.fr/livre/phalcon-3-developpez-des-applications-web-complexes-et-performantes-en-php-9782409022746) - Phalcon : Develop complex and powerful web applications in PHP
+*   [NovaMOOC (⭐21)](https://github.com/les-enovateurs/phalcon-nova-mooc) - Sample application with API/BackEnd and FrontEnd + Authentication with JWT + Cypress tests with GitHub Actions + Docker compose.
 
 ## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -45,13 +41,13 @@
 
 ### Carousel
 
-*   [@egjs/react-flicking (⭐2.3k)](https://github.com/naver/egjs-flicking/blob/master/packages/react-flicking/) - [npm](https://www.npmjs.com/package/@egjs/react-flicking) - [demo](https://naver.github.io/egjs-flicking/) - It's reliable, flexible and extendable carousel.
+*   [@egjs/react-flicking (⭐2.5k)](https://github.com/naver/egjs-flicking/blob/master/packages/react-flicking/) - [npm](https://www.npmjs.com/package/@egjs/react-flicking) - [demo](https://naver.github.io/egjs-flicking/) - It's reliable, flexible and extendable carousel.
 
 ## [7. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Social Engineering / Social Engineering Tools
 
-*   [Evilginx2 (⭐6.7k)](https://github.com/kgretzky/evilginx2) - Standalone Machine-in-the-Middle (MitM) reverse proxy attack framework for setting up phishing pages capable of defeating most forms of 2FA security schemes.
+*   [Evilginx2 (⭐8.4k)](https://github.com/kgretzky/evilginx2) - Standalone Machine-in-the-Middle (MitM) reverse proxy attack framework for setting up phishing pages capable of defeating most forms of 2FA security schemes.
 
 ---
 

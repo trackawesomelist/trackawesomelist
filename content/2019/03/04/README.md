@@ -14,19 +14,19 @@
 
 ### Machine Learning
 
-*   [AI4R (⭐711)](https://github.com/sergiofierens/ai4r) - Algorithms covering several Artificial intelligence fields.
-*   [ruby-fann (⭐456)](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
+*   [AI4R (⭐712)](https://github.com/sergiofierens/ai4r) - Algorithms covering several Artificial intelligence fields.
+*   [ruby-fann (⭐459)](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
 
 ### Process Management and Monitoring
 
 *   [Foreman (⭐5.9k)](https://github.com/ddollar/foreman) - Manage Procfile-based applications.
-*   [Procodile (⭐611)](https://github.com/adamcooke/procodile) - Run processes in the background (and foreground) on Mac & Linux from a Procfile.
+*   [Procodile (⭐613)](https://github.com/adamcooke/procodile) - Run processes in the background (and foreground) on Mac & Linux from a Procfile.
 
 ### Scientific
 
 *   Bindings
-    *   [PyCall (⭐910)](https://github.com/mrkn/pycall.rb) - Calling Python functions from the Ruby language.
-    *   [ruby-opencv (⭐810)](https://github.com/ruby-opencv/ruby-opencv) - An OpenCV wrapper for Ruby.
+    *   [PyCall (⭐996)](https://github.com/mrkn/pycall.rb) - Calling Python functions from the Ruby language.
+    *   [ruby-opencv (⭐814)](https://github.com/ruby-opencv/ruby-opencv) - An OpenCV wrapper for Ruby.
 
 ## [2. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
 
@@ -88,24 +88,24 @@
 
 ### Frameworks, Libraries and Tools / API
 
-*   [Restier (⭐418)](https://github.com/OData/RESTier) - RESTier is a RESTful API development framework for building standardized, OData V4 based RESTful services on .NET platform.
+*   [Restier (⭐452)](https://github.com/OData/RESTier) - RESTier is a RESTful API development framework for building standardized, OData V4 based RESTful services on .NET platform.
 
 ### Frameworks, Libraries and Tools / Security
 
-*   [NWebsec (⭐509)](https://github.com/NWebsec/NWebsec) - Security libraries for ASP.NET <http://www.nwebsec.com>.
+*   [NWebsec (⭐524)](https://github.com/NWebsec/NWebsec) - Security libraries for ASP.NET <http://www.nwebsec.com>.
 
 ## [5. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Style
 
-*   [Simple import sort (⭐1.4k)](https://github.com/lydell/eslint-plugin-simple-import-sort) - Easy autofixable import sorting.
+*   [Simple import sort (⭐1.5k)](https://github.com/lydell/eslint-plugin-simple-import-sort) - Easy autofixable import sorting.
 *   [Switch case (⭐14)](https://github.com/lukeapage/eslint-plugin-switch-case) - Switch-case-specific linting rules for ESLint.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Monitoring
 
-*   [paessler.com](https://www.paessler.com/) — Powerful infrastructure and network monitoring solution including alerting, strong visualization capabilities and basic reporting. Free up to 100 sensors.
+*   [paessler.com](https://www.paessler.com/) — Powerful infrastructure and network monitoring solution, including alerting, strong visualization capabilities, and basic reporting. Free up to 100 sensors.
 
 ## [7. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -130,15 +130,14 @@
 
 ### Files and Directories / Search
 
-*   [fselect (⭐3.5k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
+*   [fselect (⭐3.6k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 
 ### Just for Fun / Image Conversion
 
-*   [cowsay (⭐323)](https://github.com/tnalpgge/rank-amateur-cowsay) - A configurable talking cow (and other animals).
-*   [fortune (⭐310)](https://github.com/shlomif/fortune-mod) - Shows a random fortune.
+*   [fortune (⭐335)](https://github.com/shlomif/fortune-mod) - Shows a random fortune.
 *   [ponysay (⭐1.1k)](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
-*   [yosay (⭐202)](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
-*   [lolcat (⭐5.5k)](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
+*   [yosay (⭐204)](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
+*   [lolcat (⭐5.6k)](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
 
 ---
 

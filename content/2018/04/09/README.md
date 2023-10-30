@@ -10,15 +10,15 @@
 
 ### Contents / Tools
 
-*   [PICO-EC (⭐41)](https://github.com/JoebRogers/PICO-EC) - A tiny scene-entity-component library created for the PICO-8 fantasty console.
-*   [PICO-Tween (⭐66)](https://github.com/JoebRogers/PICO-Tween) - A small library of tweening/easing functions for use in the PICO-8 fantasy console, inspired by Robert Penner's easing functions.
+*   [PICO-EC (⭐45)](https://github.com/JoebRogers/PICO-EC) - A tiny scene-entity-component library created for the PICO-8 fantasty console.
+*   [PICO-Tween (⭐71)](https://github.com/JoebRogers/PICO-Tween) - A small library of tweening/easing functions for use in the PICO-8 fantasy console, inspired by Robert Penner's easing functions.
 
 ## [2. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
 ### Utilities
 
-*   [built\_value (⭐813)](https://github.com/google/built_value.dart) - Immutable value types, enum classes, and serialization.
-*   [Quiver (⭐899)](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
+*   [built\_value (⭐842)](https://github.com/google/built_value.dart) - Immutable value types, enum classes, and serialization.
+*   [Quiver (⭐953)](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
 *   [route\_hierarchical (⭐29)](https://github.com/angular/route.dart) - Route is a client routing library for Dart that helps make building single-page web apps.
 
 ## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
@@ -66,7 +66,7 @@
 
 ### Learning Swift: Advanced Topics / Design Patterns
 
-*   [GOF Swift (⭐118)](https://github.com/SebastianBoldt/Gang-of-Four-and-Solid-Principles-in-Swift) - Learn all 23 Gang of Four patterns using Swift.
+*   [GOF Swift (⭐134)](https://github.com/SebastianBoldt/Gang-of-Four-and-Solid-Principles-in-Swift) - Learn all 23 Gang of Four patterns using Swift.
 
 ### UIKit And Graphics / SpriteKit
 
@@ -86,7 +86,7 @@
 
 ### Containers
 
-*   [ring\_span lite (⭐136)](https://github.com/martinmoene/ring-span-lite) - A simplified implementation of Arthur O'Dwyer's ring\_span implementation ie. a circular buffer view. \[MIT]
+*   [ring\_span lite (⭐143)](https://github.com/martinmoene/ring-span-lite) - A simplified implementation of Arthur O'Dwyer's ring\_span implementation ie. a circular buffer view. \[MIT]
 
 ---
 

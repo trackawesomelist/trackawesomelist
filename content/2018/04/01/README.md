@@ -41,11 +41,11 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 
 ### Frameworks, Libraries and Tools / Profiling
 
-*   [Glimpse (⭐184)](https://github.com/Glimpse/Glimpse.Prototype) - Lightweight, open-source, real-time diagnostics and insights profiler for .NET. `Unstable version`
+*   [Glimpse (⭐183)](https://github.com/Glimpse/Glimpse.Prototype) - Lightweight, open-source, real-time diagnostics and insights profiler for .NET. `Unstable version`
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [SharpLab (⭐2k)](https://github.com/ashmind/SharpLab) - .NET code playground that shows intermediate steps and results of code compilation. <https://sharplab.io>
+*   [SharpLab (⭐2.4k)](https://github.com/ashmind/SharpLab) - .NET code playground that shows intermediate steps and results of code compilation. <https://sharplab.io>
 
 ## [4. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 

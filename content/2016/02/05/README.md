@@ -29,8 +29,7 @@
 
 ### Articles
 
-*   [One-line node modules (⭐124)](https://github.com/sindresorhus/ama/issues/10)
-*   [Build small single purpose modules](http://thenodeway.io/introduction/#build-small-single-purpose-modules)
+*   [One-line node modules (⭐128)](https://github.com/sindresorhus/ama/issues/10)
 *   [Module best practices (⭐1.5k)](https://github.com/mattdesl/module-best-practices)
 
 ### Modules / Array
@@ -39,48 +38,48 @@
 *   [array-first (⭐11)](https://github.com/jonschlinkert/array-first) - Get the first element or first n elements of an array.
 *   [array-last (⭐34)](https://github.com/jonschlinkert/array-last) - Return the last element in an array.
 *   [arr-flatten (⭐60)](https://github.com/jonschlinkert/arr-flatten) - Recursively flatten an array or arrays.
-*   [dedupe (⭐23)](https://github.com/seriousManual/dedupe) - Remove duplicates from an array.
+*   [dedupe (⭐24)](https://github.com/seriousManual/dedupe) - Remove duplicates from an array.
 *   [array-range (⭐25)](https://github.com/mattdesl/array-range) - Creates a new array with given range.
-*   [arr-diff (⭐43)](https://github.com/jonschlinkert/arr-diff) - Returns an array with only the unique values from the first array, by excluding all values from additional arrays using strict equality for comparisons.
-*   [filled-array (⭐40)](https://github.com/sindresorhus/filled-array) - Returns an array filled with the specified input
+*   [arr-diff (⭐44)](https://github.com/jonschlinkert/arr-diff) - Returns an array with only the unique values from the first array, by excluding all values from additional arrays using strict equality for comparisons.
+*   [filled-array (⭐41)](https://github.com/sindresorhus/filled-array) - Returns an array filled with the specified input
 
 ### Modules / String
 
-*   [decamelize (⭐218)](https://github.com/sindresorhus/decamelize) - Convert a camelized string into a lowercased one with a custom separator: unicornRainbow → unicorn\_rainbow.
-*   [to-camel-case (⭐37)](https://github.com/ianstormtaylor/to-camel-case) - Convert a string to a camel case.
-*   [to-capital-case (⭐12)](https://github.com/ianstormtaylor/to-capital-case) - Convert a string to a capital case.
+*   [decamelize (⭐229)](https://github.com/sindresorhus/decamelize) - Convert a camelized string into a lowercased one with a custom separator: unicornRainbow → unicorn\_rainbow.
+*   [to-camel-case (⭐36)](https://github.com/ianstormtaylor/to-camel-case) - Convert a string to a camel case.
+*   [to-capital-case (⭐11)](https://github.com/ianstormtaylor/to-capital-case) - Convert a string to a capital case.
 *   [to-constant-case (⭐4)](https://github.com/ianstormtaylor/to-constant-case) - Convert a string to a constant case.
-*   [to-dot-case (⭐4)](https://github.com/ianstormtaylor/to-dot-case) - Convert a string to a dot case.
-*   [to-no-case (⭐15)](https://github.com/ianstormtaylor/to-no-case) - Remove an existing case from a string.
+*   [to-dot-case (⭐5)](https://github.com/ianstormtaylor/to-dot-case) - Convert a string to a dot case.
+*   [to-no-case (⭐17)](https://github.com/ianstormtaylor/to-no-case) - Remove an existing case from a string.
 *   [to-pascal-case (⭐3)](https://github.com/ianstormtaylor/to-pascal-case) - Convert a string to a pascal case.
 *   [to-sentence-case (⭐6)](https://github.com/ianstormtaylor/to-sentence-case) - Convert a string to a sentence case.
-*   [to-snake-case (⭐25)](https://github.com/ianstormtaylor/to-snake-case) - Convert a string to a snake case.
-*   [to-space-case (⭐5)](https://github.com/ianstormtaylor/to-space-case) - Convert a string to a space case.
-*   [to-title-case (⭐18)](https://github.com/ianstormtaylor/to-title-case) - Convert a string to a title case.
+*   [to-snake-case (⭐26)](https://github.com/ianstormtaylor/to-snake-case) - Convert a string to a snake case.
+*   [to-space-case (⭐6)](https://github.com/ianstormtaylor/to-space-case) - Convert a string to a space case.
+*   [to-title-case (⭐17)](https://github.com/ianstormtaylor/to-title-case) - Convert a string to a title case.
 
 ### Modules / Date & Time
 
-*   [pretty-ms (⭐878)](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s.
-*   [hirestime (⭐15)](https://github.com/seriousManual/hirestime) - A wrapper around the built-in high resolution timer which simplifies the calculation of timestamps.
+*   [pretty-ms (⭐929)](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s.
+*   [hirestime (⭐16)](https://github.com/seriousManual/hirestime) - A wrapper around the built-in high resolution timer which simplifies the calculation of timestamps.
 
 ### Modules / Object
 
-*   [map-obj (⭐145)](https://github.com/sindresorhus/map-obj) - Map object keys and values into a new object.
-*   [filter-obj (⭐81)](https://github.com/sindresorhus/filter-obj) - Filter object keys and values into a new object.
-*   [object-values (⭐23)](https://github.com/sindresorhus/object-values) - Get the values of an object.
+*   [map-obj (⭐178)](https://github.com/sindresorhus/map-obj) - Map object keys and values into a new object.
+*   [filter-obj (⭐91)](https://github.com/sindresorhus/filter-obj) - Filter object keys and values into a new object.
+*   [object-values (⭐26)](https://github.com/sindresorhus/object-values) - Get the values of an object.
 *   [object-pairs (⭐2)](https://github.com/eush77/object-pairs) - Turn an object into list of \[key, value] pairs for mapping, iterating or other purposes.
 *   [zipmap (⭐4)](https://github.com/landau/zipmap) - Returns a map with the keys mapped to the corresponding vals. zipmap also accepts a single value of objects or pairs.
 *   [just-pluck (⭐11)](https://github.com/jarofghosts/just-pluck) - Pluck without the madness.
-*   [deep-equal (⭐700)](https://github.com/substack/node-deep-equal) - Node's assert.deepEqual() algorithm as a standalone module.
+*   [deep-equal (⭐732)](https://github.com/substack/node-deep-equal) - Node's assert.deepEqual() algorithm as a standalone module.
 *   [deep-assign (⭐248)](https://github.com/sindresorhus/deep-assign) - Recursive Object.assign().
-*   [set-value (⭐252)](https://github.com/jonschlinkert/set-value) - Create nested values and any intermediaries dot notation (`'a.b.c'`) paths.
-*   [get-value (⭐217)](https://github.com/jonschlinkert/get-value) - Use property paths (a.b.c) to get a nested value from an object.
+*   [set-value (⭐260)](https://github.com/jonschlinkert/set-value) - Create nested values and any intermediaries dot notation (`'a.b.c'`) paths.
+*   [get-value (⭐230)](https://github.com/jonschlinkert/get-value) - Use property paths (a.b.c) to get a nested value from an object.
 *   [flatkeys (⭐3)](https://github.com/ricardobeat/flatkeys) - Flatten object key hierarchies into a list of strings using a custom separator.
 
 ### Modules / Function
 
 *   [curry (⭐314)](https://github.com/dominictarr/curry) - A curry function without anything too clever.
-*   [once (⭐209)](https://github.com/isaacs/once) - Run a function exactly one time.
+*   [once (⭐216)](https://github.com/isaacs/once) - Run a function exactly one time.
 *   [deep-bind (⭐8)](https://github.com/jonschlinkert/deep-bind) - Bind a context to all functions in an object, including deeply nested functions.
 
 ### Modules / Stream
@@ -89,32 +88,32 @@
 *   [through2-filter (⭐35)](https://github.com/brycebaril/through2-filter) - A through2 to create an Array.prototype.filter analog for streams.
 *   [through2-map (⭐70)](https://github.com/brycebaril/through2-map) - A through2 to create an Array.prototype.map analog for streams.
 *   [stream-spigot (⭐15)](https://github.com/brycebaril/node-stream-spigot) - A readable stream generator, useful for testing or converting simple functions into Readable streams.
-*   [concat-stream (⭐565)](https://github.com/maxogden/concat-stream) - writable stream that concatenates strings or data and calls a callback with the result.
+*   [concat-stream (⭐570)](https://github.com/maxogden/concat-stream) - writable stream that concatenates strings or data and calls a callback with the result.
 *   [JSONStream (⭐1.9k)](https://github.com/dominictarr/JSONStream) - streaming JSON.parse and stringify
 
 ### Modules / File System
 
-*   [rimraf (⭐4.9k)](https://github.com/isaacs/rimraf) - A deep deletion module for node (like rm -rf).
+*   [rimraf (⭐5.3k)](https://github.com/isaacs/rimraf) - A deep deletion module for node (like rm -rf).
 *   [mkdirp](https://github.com/substack/node-mkdirp) - Recursively mkdir, like mkdir -p.
 
 ### Modules / Browser
 
-*   [delegate (⭐179)](https://github.com/zenorocha/delegate) - Lightweight event delegation.
+*   [delegate (⭐183)](https://github.com/zenorocha/delegate) - Lightweight event delegation.
 *   [insert-css](https://github.com/substack/insert-css) - Insert a string of css into the head
 
 ### Modules / Semver
 
-*   [semver (⭐4.4k)](https://github.com/npm/node-semver) - The semantic version parser used by npm.
+*   [semver (⭐4.8k)](https://github.com/npm/node-semver) - The semantic version parser used by npm.
 *   [semver-max (⭐3)](https://github.com/eush77/semver-max) - Find maximum (or minimum) version according to semver.
 
 ### Modules / Other
 
-*   [node-mime (⭐1.9k)](https://github.com/broofa/node-mime) - Comprehensive MIME type mapping API based on mime-db module.
+*   [node-mime (⭐2k)](https://github.com/broofa/node-mime) - Comprehensive MIME type mapping API based on mime-db module.
 
-### Related lists / Other
+### Related lists / Tools
 
-*   [awesome-nodejs (⭐47k)](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources.
-*   [awesome-npm (⭐4.1k)](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips.
+*   [awesome-nodejs (⭐53k)](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources.
+*   [awesome-npm (⭐4.3k)](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips.
 
 ## [5. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
@@ -125,7 +124,7 @@
 
 ## [6. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
-### United States 🇺🇸 / California   <a id="california">  </a>
+### United States 🇺🇸 / California <a id="california"></a>
 
 #### HanaHaus
 
@@ -141,7 +140,7 @@ Webpage: <http://hanahaus.com/>
 
 ### Documentation
 
-*   [bureaucrat (⭐337)](https://github.com/api-hogs/bureaucrat) - Generate Phoenix API documentation from tests.
+*   [bureaucrat (⭐350)](https://github.com/api-hogs/bureaucrat) - Generate Phoenix API documentation from tests.
 
 ### Examples and funny stuff
 
@@ -149,15 +148,15 @@ Webpage: <http://hanahaus.com/>
 
 ### Framework Components
 
-*   [phoenix\_haml (⭐157)](https://github.com/chrismccord/phoenix_haml) - Phoenix Template Engine for Haml.
+*   [phoenix\_haml (⭐156)](https://github.com/chrismccord/phoenix_haml) - Phoenix Template Engine for Haml.
 
 ### ORM and Datamapping
 
-*   [mongodb (⭐549)](https://github.com/ericmj/mongodb) - MongoDB driver for Elixir.
+*   [mongodb (⭐555)](https://github.com/ericmj/mongodb) - MongoDB driver for Elixir.
 
 ### Protocols
 
-*   [riffed (⭐300)](https://github.com/pinterest/riffed) - Provides idiomatic Elixir bindings for Apache Thrift.
+*   [riffed (⭐304)](https://github.com/pinterest/riffed) - Provides idiomatic Elixir bindings for Apache Thrift.
 
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -173,8 +172,8 @@ Webpage: <http://hanahaus.com/>
 
 ### Rust / General-Purpose Machine Learning
 
-*   [deeplearn-rs (⭐204)](https://github.com/tedsta/deeplearn-rs) - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
-*   [rustlearn (⭐567)](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
+*   [deeplearn-rs (⭐206)](https://github.com/tedsta/deeplearn-rs) - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
+*   [rustlearn (⭐594)](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
 
 ---
 

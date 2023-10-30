@@ -10,13 +10,13 @@
 
 ### Matlab / General-Purpose Machine Learning
 
-*   [Pattern Recognition and Machine Learning (⭐5.8k)](https://github.com/PRML/PRMLT) - This package contains the matlab implementation of the algorithms described in the book Pattern Recognition and Machine Learning by C. Bishop.
+*   [Pattern Recognition and Machine Learning (⭐5.9k)](https://github.com/PRML/PRMLT) - This package contains the matlab implementation of the algorithms described in the book Pattern Recognition and Machine Learning by C. Bishop.
 
 ### Python / Data Analysis / Data Visualization
 
 *   [bokeh (⭐18k)](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python.
 *   [plotly](https://plot.ly/python/) - Collaborative web plotting for Python and matplotlib.
-*   [Blaze (⭐3.1k)](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data.
+*   [Blaze (⭐3.2k)](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
@@ -204,7 +204,7 @@
 ### Applications
 
 *   [Imhotep](http://opensource.indeedeng.io/imhotep/) - Large scale analytics platform by indeed.
-*   [PivotalR (⭐117)](https://github.com/pivotalsoftware/PivotalR) - R on Pivotal HD / HAWQ and PostgreSQL.
+*   [PivotalR (⭐119)](https://github.com/pivotalsoftware/PivotalR) - R on Pivotal HD / HAWQ and PostgreSQL.
 *   [Qubole](https://www.qubole.com/) - auto-scaling Hadoop cluster, built-in data connectors.
 
 ### Search engine and framework
@@ -219,7 +219,7 @@
 
 ### Embedded Databases
 
-*   [LevelDB (⭐31k)](https://github.com/google/leveldb) - a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+*   [LevelDB (⭐33k)](https://github.com/google/leveldb) - a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 
 ### Business Intelligence
 
@@ -305,8 +305,8 @@
 
 ### Parsers
 
-*   [markdown (⭐348)](https://github.com/dart-lang/markdown) - Parse markdown into HTML on both the client and server.
-*   [PetitParser (⭐380)](https://github.com/petitparser/dart-petitparser) - PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically.
+*   [markdown (⭐409)](https://github.com/dart-lang/markdown) - Parse markdown into HTML on both the client and server.
+*   [PetitParser (⭐419)](https://github.com/petitparser/dart-petitparser) - PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically.
 *   [XML](https://pub.dartlang.org/packages/xml) - A lightweight library for parsing, traversing, querying and building XML documents.
 *   [xmlstream](https://pub.dartlang.org/packages/xml) - A streaming event-based XML Parser.
 
@@ -322,15 +322,15 @@
 
 ### Lexers, Parsers, Parser Generators / Bare metal / kernel development
 
-*   [ctpg (⭐45)](https://github.com/youxkei/ctpg) - Compile-Time Parser (with converter) Generator written in D.
+*   [ctpg (⭐44)](https://github.com/youxkei/ctpg) - Compile-Time Parser (with converter) Generator written in D.
 
 ### Preprocesors / Bare metal / kernel development
 
-*   [warp (⭐520)](https://github.com/facebookarchive/warp) - A fast preprocessor for C and C++ used in Facebook infrastructure. Written by Walter Bright.
+*   [warp (⭐522)](https://github.com/facebookarchive/warp) - A fast preprocessor for C and C++ used in Facebook infrastructure. Written by Walter Bright.
 
 ### Database clients / XML
 
-*   [mysql-native (⭐79)](https://github.com/mysql-d/mysql-native) - A MySQL client implemented in native D.
+*   [mysql-native (⭐80)](https://github.com/mysql-d/mysql-native) - A MySQL client implemented in native D.
 
 ## [13. Inspire](/content/noahbuscher/inspire/README.md)
 
@@ -368,7 +368,7 @@
 
 ### Biology
 
-*   [Wham (⭐95)](https://github.com/zeeev/wham) - Structural variants (SVs) in Genomes by directly applying association tests to BAM files. \[MIT]
+*   [Wham (⭐97)](https://github.com/zeeev/wham) - Structural variants (SVs) in Genomes by directly applying association tests to BAM files. \[MIT]
 
 ### Concurrency
 
@@ -381,7 +381,7 @@
 ### Game Engine
 
 *   [Allegro](http://liballeg.org/) - A cross-platform library mainly aimed for video games and multimedia programming. \[zlib]
-*   [Godot (⭐62k)](https://github.com/godotengine/godot) - A fully featured, open source, MIT licensed, game engine. \[MIT]
+*   [Godot (⭐77k)](https://github.com/godotengine/godot) - A fully featured, open source, MIT licensed, game engine. \[MIT]
 
 ### GUI
 
@@ -393,11 +393,11 @@
 
 ### Machine Learning
 
-*   [Minerva (⭐686)](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. \[Apache2]
+*   [Minerva (⭐688)](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. \[Apache2]
 
 ### Web Application Framework
 
-*   [Civetweb (⭐2.4k)](https://github.com/civetweb/civetweb) - Provides easy to use, powerful, C/C++ embeddable web server with optional CGI, SSL and Lua support. \[MIT]
+*   [Civetweb (⭐2.5k)](https://github.com/civetweb/civetweb) - Provides easy to use, powerful, C/C++ embeddable web server with optional CGI, SSL and Lua support. \[MIT]
 
 ### Online Compiler
 
@@ -418,7 +418,7 @@
 
 ### Coding Style
 
-*   [google-styleguide (⭐35k)](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects.
+*   [google-styleguide (⭐36k)](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects.
 
 ### Websites
 
@@ -433,24 +433,24 @@
 
 ### Algorithms and Data structures
 
-*   [rendezvous (⭐8)](https://github.com/timdeputter/Rendezvous) - Implementation of the Rendezvous or Highest Random Weight (HRW) hashing algorithm in Elixir.
+*   [rendezvous (⭐9)](https://github.com/timdeputter/Rendezvous) - Implementation of the Rendezvous or Highest Random Weight (HRW) hashing algorithm in Elixir.
 
 ### Cloud Infrastructure and Management
 
-*   [sidetask (⭐70)](https://github.com/PSPDFKit-labs/sidetask) - SideTask is an alternative to Task.Supervisor using Basho's sidejob library with parallelism and capacity limiting.
+*   [sidetask (⭐69)](https://github.com/PSPDFKit-labs/sidetask) - SideTask is an alternative to Task.Supervisor using Basho's sidejob library with parallelism and capacity limiting.
 
 ### Examples and funny stuff
 
-*   [harakiri (⭐19)](https://github.com/rubencaro/harakiri) - Help applications kill themselves.
+*   [harakiri (⭐20)](https://github.com/rubencaro/harakiri) - Help applications kill themselves.
 
 ### Framework Components
 
-*   [crudex (⭐19)](https://github.com/bitgamma/crudex) - CRUD utilities for Phoenix and Ecto.
-*   [plug\_auth (⭐66)](https://github.com/bitgamma/plug_auth) - Collection of authentication-related plugs.
+*   [crudex (⭐20)](https://github.com/bitgamma/crudex) - CRUD utilities for Phoenix and Ecto.
+*   [plug\_auth (⭐67)](https://github.com/bitgamma/plug_auth) - Collection of authentication-related plugs.
 
 ### JSON
 
-*   [jsonapi (⭐462)](https://github.com/jeregrine/jsonapi) - A project that will render your data models into [JSONAPI Documents](http://jsonapi.org/format/).
+*   [jsonapi (⭐471)](https://github.com/jeregrine/jsonapi) - A project that will render your data models into [JSONAPI Documents](http://jsonapi.org/format/).
 
 ### Miscellaneous
 
@@ -458,20 +458,20 @@
 
 ### Networking
 
-*   [sshex (⭐152)](https://github.com/rubencaro/sshex) - Simple SSH helpers for Elixir.
+*   [sshex (⭐153)](https://github.com/rubencaro/sshex) - Simple SSH helpers for Elixir.
 
 ### ORM and Datamapping
 
-*   [boltun (⭐133)](https://github.com/bitgamma/boltun) - Transforms notifications from the Postgres LISTEN/NOTIFY mechanism into callback execution.
-*   [kalecto (⭐142)](https://github.com/lau/calecto) - Glue between Kalends and Ecto for saving dates, times and datetimes.
+*   [boltun (⭐134)](https://github.com/bitgamma/boltun) - Transforms notifications from the Postgres LISTEN/NOTIFY mechanism into callback execution.
+*   [kalecto (⭐144)](https://github.com/lau/calecto) - Glue between Kalends and Ecto for saving dates, times and datetimes.
 
 ### Package Management
 
-*   [rebar3\_hex (⭐92)](https://github.com/hexpm/rebar3_hex) - Hex.pm plugin for rebar3.
+*   [rebar3\_hex (⭐96)](https://github.com/hexpm/rebar3_hex) - Hex.pm plugin for rebar3.
 
 ### Queue
 
-*   [honeydew (⭐709)](https://github.com/koudelka/honeydew) - Honeydew is a worker pool library for Elixir.
+*   [honeydew (⭐713)](https://github.com/koudelka/honeydew) - Honeydew is a worker pool library for Elixir.
 
 ### Third Party APIs
 
@@ -503,15 +503,15 @@
 
 ### Structural Migrations
 
-*   [Migratus (⭐592)](https://github.com/yogthos/migratus)
+*   [Migratus (⭐599)](https://github.com/yogthos/migratus)
 
 ### Security
 
-*   [Buddy (⭐818)](https://github.com/funcool/buddy)
+*   [Buddy (⭐822)](https://github.com/funcool/buddy)
 
 ### Monads
 
-*   [cats (⭐931)](https://github.com/funcool/cats)
+*   [cats (⭐933)](https://github.com/funcool/cats)
 
 ### Science and Data Analysis
 
@@ -589,11 +589,11 @@
 ### Testing Frameworks / Frameworks
 
 *   [jasmine (⭐16k)](https://github.com/jasmine/jasmine) - DOM-less simple JavaScript testing framework.
-*   [prova (⭐335)](https://github.com/azer/prova) - Node & Browser test runner based on Tape and Browserify
+*   [prova (⭐334)](https://github.com/azer/prova) - Node & Browser test runner based on Tape and Browserify
 
 ### Testing Frameworks / Assertion
 
-*   [Sinon.JS (⭐9.3k)](https://github.com/sinonjs/sinon) - Test spies, stubs, and mocks for JavaScript.
+*   [Sinon.JS (⭐9.4k)](https://github.com/sinonjs/sinon) - Test spies, stubs, and mocks for JavaScript.
 *   [expect.js (⭐2.1k)](https://github.com/Automattic/expect.js) - Minimalistic BDD-style assertions for Node.JS and the browser.
 
 ### Testing Frameworks / Runner
@@ -602,7 +602,7 @@
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [vue (⭐203k)](https://github.com/vuejs/vue) - Intuitive, fast & composable MVVM for building interactive interfaces.
+*   [vue (⭐205k)](https://github.com/vuejs/vue) - Intuitive, fast & composable MVVM for building interactive interfaces.
 *   [canjs (⭐1.9k)](https://github.com/canjs/canjs) - Can do JS, better, faster, easier.
 *   [derby (⭐4.7k)](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
     *   [derby-awesome (⭐13)](https://github.com/russll/awesome-derby) - A collection of awesome derby components
@@ -622,15 +622,15 @@
 
 ### Date / Runner
 
-*   [ms.js (⭐4.5k)](https://github.com/rauchg/ms.js) - Tiny millisecond conversion utility.
+*   [ms.js (⭐4.7k)](https://github.com/rauchg/ms.js) - Tiny millisecond conversion utility.
 
 ### Code highlighting / Runner
 
-*   [PrismJS (⭐11k)](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
+*   [PrismJS (⭐12k)](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 
 ### Form Widgets / Calendar
 
-*   [fullcalendar (⭐16k)](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar (jQuery plugin).
+*   [fullcalendar (⭐17k)](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar (jQuery plugin).
 
 ### Form Widgets / Select
 
@@ -640,9 +640,9 @@
 
 *   [fine-uploader (⭐8.2k)](https://github.com/FineUploader/fine-uploader) - Multiple file upload plugin with progress-bar, drag-and-drop, direct-to-S3 uploading.
 
-### Podcasts / Other
+### Misc / Other
 
-*   [instanceofpro/awesome-backbone (⭐404)](https://github.com/sadcitizen/awesome-backbone)
+*   [instanceofpro/awesome-backbone (⭐406)](https://github.com/sadcitizen/awesome-backbone)
 
 ## [20. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -784,24 +784,155 @@
 *   [Bash Completion (⭐5)](https://github.com/fusetools/UnoBashCompletion) - Simple bash completion script for UNO.
 *   [Visual Studio Code (⭐40)](https://github.com/Hazealign/vscode-fuse) - Fuse Helper for Visual Studio Code.
 
-## [27. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
+## [27. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### 0 - 言語非依存 / データベース
+### ASP.NET
 
-*   [データベース](http://www.ipa.go.jp/files/000018652.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
+*   [ASP.NET MVC Music Store](http://mvcmusicstore.codeplex.com)
 
-### iOS / Spock Framework
+### C / Non-X86
 
-*   [RubyMotion Tutorial: Ruby で iOS アプリを作ろう](http://tutorial.rubymotion.jp) - Clay Allsopp, RubyMotion JP(翻訳)
+*   [Programming in C](http://ee.hawaii.edu/~tep/EE160/Book/PDF/) - Bharat Kinariwala & Tep Dobry
+*   [The little book about OS development](http://littleosbook.github.io) - Erik Helin, Adam Renberg
 
-### Python / Symfony
+### Clojure / Non-X86
 
-*   [Notes on scientific computing with python](http://japanichaos.appspot.com) - 花田康高
-*   [Think Python：コンピュータサイエンティストのように考えてみよう](http://www.cauldron.sakura.ne.jp/thinkpython/thinkpython/ThinkPython.pdf) - Allen Downey, 相川 利樹（翻訳）(PDF)
+*   [Clojure for the Brave and True](http://www.braveclojure.com)
+*   [Clojure Koans](http://clojurekoans.com)
+*   [ClojureScript Koans](http://clojurescriptkoans.com)
+*   [SICP Distilled - An idiosyncratic tour of SICP in Clojure](http://www.sicpdistilled.com)
 
-### Tcl/Tk / Flask
+### CoffeeScript / Non-X86
 
-*   [Tcl/Tk入門](http://aoba.cc.saga-u.ac.jp/lecture/TclTk/text.pdf) - 只木進一 (PDF)
+*   [CoffeeScript Cookbook](https://coffeescript-cookbook.github.io)
+
+### ColdFusion / Non-X86
+
+*   [Learn CF in a Week](http://learncfinaweek.com)
+
+### CUDA / Non-X86
+
+*   [OpenCL Programming Guide for CUDA Architecture](http://www.nvidia.com/content/cudazone/download/OpenCL/NVIDIA_OpenCL_ProgrammingGuide.pdf) - Nvidia (PDF)
+
+### Elixir / Non-X86
+
+*   [Learning Elixir](http://learningelixir.joekain.com) - Joseph Kain Blog (HTML) (:construction: *in process*)
+
+### Embedded Systems / Phoenix
+
+*   [Control and Embedded Systems](http://www.learn-c.com) (HTML)
+
+### Forth / Phoenix
+
+*   [Thinking Forth](http://thinking-forth.sourceforge.net)
+
+### Go / Phoenix
+
+*   [Go by Example](https://gobyexample.com)
+
+### Haskell / Spock Framework
+
+*   [Exploring Generic Haskell](http://www.andres-loeh.de/ExploringGH.pdf) - Andres Löh (PDF)
+*   [Learn You a Haskell for Great Good](http://learnyouahaskell.com) - Miran Lipovača
+
+### HTML and CSS / Spock Framework
+
+*   [A free guide to learn HTML and CSS](http://marksheet.io)
+*   [HTML Dog Tutorials](http://www.htmldog.com)
+*   [HTML5 For Web Designers](http://html5forwebdesigners.com) - Jeremy Keith
+*   [Learn CSS Layout](http://learnlayout.com)
+
+### iOS / Bootstrap
+
+*   [Cocoa Dev Central](http://cocoadevcentral.com)
+
+### Java / Bootstrap
+
+*   [3D Programming in Java](http://www.mat.uniroma2.it/~picard/SMC/didattica/materiali_did/Java/Java_3D/Java_3D_Programming.pdf) - Daniel Selman (PDF)
+*   [Apache Jakarta Commons: Reusable Java Components](http://ptgmedia.pearsoncmg.com/images/0131478303/downloads/Iverson_book.pdf) - Will Iverson (PDF)
+
+### JavaScript / Node.js
+
+*   [The Node Beginner Book](http://nodebeginner.org)
+
+### Linux / TeX
+
+*   [Getting Started with Ubuntu](http://ubuntu-manual.org)
+*   [Linux 101 Hacks](http://thegeekstuff.s3.amazonaws.com/files/linux-101-hacks.zip) - Ramesh Natarajan (PDF)
+*   [Linux Advanced Routing & Traffic Control HOWTO](http://lartc.org)
+*   [Linux Newbie Administrator Guide](http://lnag.sourceforge.net)
+
+### Lisp / TeX
+
+*   [Interpreting LISP](http://www.civilized.com/files/lispbook.pdf) - Gary D. Knott (PDF)
+*   [The Evolution of Lisp](http://www.dreamsongs.com/Files/HOPL2-Uncut.pdf) - Guy L. Steele Jr., Richard P. Gabriel (PDF)
+
+### MATLAB / PicoLisp
+
+*   [An Interactive Introduction to MATLAB](http://www.science.smith.edu/~jcardell/Courses/EGR326/Intro-to-MATLAB.pdf) (PDF)
+
+### NoSQL / PicoLisp
+
+*   [Extracting Data from NoSQL Databases: A Step towards Interactive Visual Analysis of NoSQL Data](http://publications.lib.chalmers.se/records/fulltext/155048.pdf) - Petter Nasholm (PDF)
+*   [Graph Databases](http://graphdatabases.com)
+*   [NoSQL Databases](http://www.christof-strauch.de/nosqldbs.pdf) - Christof Strauch (PDF)
+
+### Perl / PicoLisp
+
+*   [Plack Handbook](http://handbook.plackperl.org)
+
+### PHP / PicoLisp
+
+*   [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
+*   [PHP Best Practices](https://phpbestpractices.org)
+*   [PHP Internals Book](http://www.phpinternalsbook.com)
+*   [PHP: The Right Way](http://www.phptherightway.com)
+
+### Prolog / Zend
+
+*   [Learn Prolog Now!](http://www.learnprolognow.org)
+*   [Warren's Abstract Machine: A Tutorial Reconstruction](http://wambook.sourceforge.net) - Hassan A¨it-Kaci
+
+### Prolog / Constraint Logic Programming (extended Prolog)
+
+*   [A Gentle Guide to Constraint Logic Programming via ECLiPSe](http://anclp.pl)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Composing Programs](http://composingprograms.com) (3.x)
+*   [Practical Programming in Python](https://launchpadlibrarian.net/165489933/PracticalProgrammingPython2014.pdf) - Jeffrey Elkner (PDF)
+*   [Program Arcade Games With Python And Pygame](http://programarcadegames.com) (3.3)
+*   [Programming Computer Vision with Python](http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf) (PDF)
+
+### R / Tornado
+
+*   [Advanced R Programming](http://adv-r.had.co.nz) - Hadley Wickham
+*   [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - Julian J. Faraway (PDF)
+*   [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Patrick Burns (PDF)
+
+### Ruby / Tornado
+
+*   [Ruby Hacking Guide](http://ruby-hacking-guide.github.io)
+*   [Ruby Koans](http://www.rubykoans.com)
+*   [The Bastards Book of Ruby](http://ruby.bastardsbook.com)
+
+### Scala / Sinatra
+
+*   [Scala & Design Patterns: Exploring Language Expressivity](http://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf) - Fredrik Skeel Løkke (PDF)
+*   [Scala Cookbook: Bonus Chapters](http://examples.oreilly.com/9781449339616-files/Scala_Cookbook_bonus_chapters.pdf) - Alvin Alexander (PDF)
+
+### Scala / Lift
+
+*   [Exploring Lift](http://exploring.liftweb.net) (published earlier as "The Definitive Guide to Lift", [PDF](http://groups.google.com/group/the-lift-book))
+*   [Simply Lift](http://simply.liftweb.net/Simply_Lift.pdf) - David Pollak (PDF)
+
+### Teradata / Vapor
+
+*   [Teradata Books](http://www.info.teradata.com)
+
+### TLA / Vapor
+
+*   [Specifying Systems: The TLA+ Language and Tools for Hardware and Software Engineers](http://research.microsoft.com/en-us/um/people/lamport/tla/book.html) - Leslie Lamport (Postscript or PDF)
 
 ## [28. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -813,7 +944,7 @@
 
 ### TypeScript General Resources / Components
 
-*   [DefinitelyTyped Repository (GitHub) (⭐44k)](https://github.com/DefinitelyTyped/DefinitelyTyped) The repository for high quality TypeScript type definitions.
+*   [DefinitelyTyped Repository (GitHub) (⭐46k)](https://github.com/DefinitelyTyped/DefinitelyTyped) The repository for high quality TypeScript type definitions.
 
 ### TypeScript Seed Projects / Components
 

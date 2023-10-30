@@ -15,14 +15,14 @@
 
 ### Cartridges / Custom cartridges
 
-*   [Nekocart (⭐83)](https://github.com/zephray/NekoCart-GB) - Open-source flash cartridge using an Xilinx CPLD as MBC5 ([Post](https://hackaday.io/project/41160-nekocart-cpld-gameboy-cartridge)).
+*   [Nekocart (⭐93)](https://github.com/zephray/NekoCart-GB) - Open-source flash cartridge using an Xilinx CPLD as MBC5 ([Post](https://hackaday.io/project/41160-nekocart-cpld-gameboy-cartridge)).
 *   [Reiner Ziegler's Game Boy page](http://reinerziegler.de.mirrors.gg8.se/) - Commercial and homemade programmable cartridges and programming systems. Tutorials, wiring and schematics provided.
 
 ## [3. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Python / Symfony2
 
-*   [FastAPI (⭐54k)](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. With automatic API documentation using Swagger UI and ReDoc, based on OpenAPI and JSON Schema.
+*   [FastAPI (⭐61k)](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. With automatic API documentation using Swagger UI and ReDoc, based on OpenAPI and JSON Schema.
 
 ## [4. Awesome Mastodon](/content/tleb/awesome-mastodon/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Modules / CLI utils
 
-*   [cac (⭐2.3k)](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
+*   [cac (⭐2.4k)](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 
 ---
 

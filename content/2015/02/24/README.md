@@ -10,15 +10,15 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [Roslyn (⭐17k)](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs. It enables building code analysis tools with the same APIs that are used by Visual Studio.
+*   [Roslyn (⭐18k)](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs. It enables building code analysis tools with the same APIs that are used by Visual Studio.
 
 ### Office
 
-*   [Open XML SDK (⭐3.5k)](https://github.com/officedev/open-xml-sdk) - The Open XML SDK provides open-source libraries for working with Open XML Documents (DOCX, XLSX, and PPTX).
+*   [Open XML SDK (⭐3.7k)](https://github.com/officedev/open-xml-sdk) - The Open XML SDK provides open-source libraries for working with Open XML Documents (DOCX, XLSX, and PPTX).
 
 ### Visual Studio Plugins
 
-*   [CodeContracts (⭐876)](https://github.com/Microsoft/CodeContracts) - Source code for the CodeContracts tools for .NET
+*   [CodeContracts (⭐872)](https://github.com/Microsoft/CodeContracts) - Source code for the CodeContracts tools for .NET
 
 ---
 

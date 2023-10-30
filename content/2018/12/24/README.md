@@ -37,7 +37,7 @@
 
 ### State management / Redux / ELM / Dependency Injection
 
-*   [Inject (⭐862)](https://github.com/google/inject.dart) <!--stargazers:google/inject.dart--> - Compile-time dependency injection by Google
+*   [Inject (⭐867)](https://github.com/google/inject.dart) <!--stargazers:google/inject.dart--> - Compile-time dependency injection by Google
 
 ### Data / Redux / ELM / Dependency Injection
 

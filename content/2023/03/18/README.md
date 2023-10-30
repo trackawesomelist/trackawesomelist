@@ -10,29 +10,29 @@
 
 ### Authentication and OAuth
 
-*   [go-jose (⭐129)](https://github.com/go-jose/go-jose) - Fairly complete implementation of the JOSE working group's JSON Web Token, JSON Web Signatures, and JSON Web Encryption specs.
+*   [go-jose (⭐166)](https://github.com/go-jose/go-jose) - Fairly complete implementation of the JOSE working group's JSON Web Token, JSON Web Signatures, and JSON Web Encryption specs.
 
 ### NoSQL Database Drivers
 
-*   [redis (⭐17k)](https://github.com/redis/go-redis) - Redis client for Golang.
+*   [redis (⭐18k)](https://github.com/redis/go-redis) - Redis client for Golang.
 
 ### JSON
 
-*   [htmljson (⭐3)](https://github.com/nikolaydubina/htmljson) - Rich rendering of JSON as HTML in Go.
+*   [htmljson (⭐4)](https://github.com/nikolaydubina/htmljson) - Rich rendering of JSON as HTML in Go.
 
 ### Science and Data Analysis
 
-*   [gograph (⭐25)](https://github.com/hmdsefi/gograph) -  A golang generic graph library that provides mathematical graph-theory and algorithms.
+*   [gograph (⭐36)](https://github.com/hmdsefi/gograph) - A golang generic graph library that provides mathematical graph-theory and algorithms.
 
 ### Utilities
 
-*   [watchhttp (⭐23)](https://github.com/nikolaydubina/watchhttp) - Run command periodically and expose latest STDOUT or its rich delta as HTTP endpoint.
+*   [watchhttp (⭐25)](https://github.com/nikolaydubina/watchhttp) - Run command periodically and expose latest STDOUT or its rich delta as HTTP endpoint.
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / System tools
 
-*   [lsd (⭐9.9k)](https://github.com/lsd-rs/lsd) — An ls with a lot of pretty colors and awesome icons [![build](https://github.com/lsd-rs/lsd/workflows/CICD/badge.svg?branch=master)](https://github.com/lsd-rs/lsd/actions)
+*   [lsd (⭐11k)](https://github.com/lsd-rs/lsd) — An ls with a lot of pretty colors and awesome icons [![build](https://github.com/lsd-rs/lsd/workflows/CICD/badge.svg?branch=master)](https://github.com/lsd-rs/lsd/actions)
 
 ## [3. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Core Extensions
 
-*   [MemoWise (⭐506)](https://github.com/panorama-ed/memo_wise) - Memoize any instance/class/module method, including support for frozen objects - rigorously tested and benchmarked on all Rubies - fast performance of memoized reads.
+*   [MemoWise (⭐513)](https://github.com/panorama-ed/memo_wise) - Memoize any instance/class/module method, including support for frozen objects - rigorously tested and benchmarked on all Rubies - fast performance of memoized reads.
 
 ## [5. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
 
@@ -63,7 +63,7 @@
 
 ## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Large Language Models / Embeddings and Semantic Search
+### Inbox: Large Language Models (LLMs) / Embeddings and Semantic Search
 
 *   [Optimize Your Chatbot’s Conversational Intelligence Using GPT-3 | by Amogh Agastya | Better Programming](https://betterprogramming.pub/how-to-give-your-chatbot-the-power-of-neural-search-with-openai-ebcff5194170): tutorial presenting semantic search concepts
 
@@ -71,11 +71,11 @@
 
 ### CI and CD
 
-*   [deploybot.com](https://www.deploybot.com/) — 1 repository with 10 deployments, free for Open Source
+*   [deploybot.com](https://www.deploybot.com/) — 1 repository with ten deployments, free for Open Source
 
 ### Font
 
-*   [FontsKey](https://www.fontskey.com/) - Provides free fonts for personal use and commercial paid fonts, and can enter text for quick filtering.
+*   [FontsKey](https://www.fontskey.com/) - Provides free and commercial paid fonts for personal use and can enter text for quick filtering.
 
 ## [8. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 

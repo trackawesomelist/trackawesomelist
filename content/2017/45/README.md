@@ -14,7 +14,7 @@
 
 ### Contents / Libraries
 
-*   [FPreact (⭐46)](https://github.com/UnwrittenFun/fpreact) - Provides an alternative api for creating preact components, heavily inspired by elm.
+*   [FPreact (⭐47)](https://github.com/UnwrittenFun/fpreact) - Provides an alternative api for creating preact components, heavily inspired by elm.
 
 ## [2. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
@@ -59,11 +59,11 @@
 
 ### Modules / String
 
-*   [strip-ansi (⭐337)](https://github.com/chalk/strip-ansi) - Strip ANSI escape codes.
+*   [strip-ansi (⭐369)](https://github.com/chalk/strip-ansi) - Strip ANSI escape codes.
 
 ### Modules / Function
 
-*   [compose-function (⭐56)](https://github.com/stoeffel/compose-function) - Compose a new function from smaller functions `f(g(x))`.
+*   [compose-function (⭐57)](https://github.com/stoeffel/compose-function) - Compose a new function from smaller functions `f(g(x))`.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -95,24 +95,20 @@
 
 ## [12. Awesome Frc](/content/andrewda/awesome-frc/week/README.md)
 
-### Programming
-
-*   [FRC Programming Done Right](http://frc-pdr.readthedocs.io/en/latest/) - Exhaustive and well-written guide to programming in FRC, the right way.
-
 ### Vision
 
-*   [CSCore (⭐24)](https://github.com/wpilibsuite/cscore) - The CScore camera vision library from WPI.
+*   [CSCore (⭐23)](https://github.com/wpilibsuite/cscore) - The CScore camera vision library from WPI.
 *   [254 2016 Vision Talk](https://www.youtube.com/watch?v=rLwOkAJqImo) - The most complete lesson about vision tracking out there.
 
 ### Scouting
 
-*   [Robot Scouter (⭐97)](https://github.com/SUPERCILEX/Robot-Scouter) - Gorgeous and powerful Android scouting app.
-*   [VictiScout (⭐18)](https://github.com/FRCScout/FRCScout) - Light Electron scouting app by Team 1418.
+*   [Robot Scouter (⭐100)](https://github.com/SUPERCILEX/Robot-Scouter) - Gorgeous and powerful Android scouting app.
+*   [VictiScout (⭐21)](https://github.com/FRCScout/FRCScout) - Light Electron scouting app by Team 1418.
 
 ### Driving
 
-*   [QDriverStation (⭐157)](https://github.com/FRC-Utilities/QDriverStation) - Popular open-source Driver Station clone for all Desktop platforms. Though not permitted in competition, essential for teams wishing to drive on another platform or up their open source cred.
-*   [FRCDashboard (⭐125)](https://github.com/FRCDashboard/FRCDashboard) - Powerful and flexible boilerplate for creating complex driving dashboards with web technologies.
+*   [QDriverStation (⭐168)](https://github.com/FRC-Utilities/QDriverStation) - Popular open-source Driver Station clone for all Desktop platforms. Though not permitted in competition, essential for teams wishing to drive on another platform or up their open source cred.
+*   [FRCDashboard (⭐132)](https://github.com/FRCDashboard/FRCDashboard) - Powerful and flexible boilerplate for creating complex driving dashboards with web technologies.
 *   [SmartDashboard.js (⭐16)](https://github.com/erikuhlmann/SmartDashboard.js) - SmartDashboard port written in JavaScript with `nw.js`.
 
 ### Community
@@ -123,27 +119,27 @@
 
 ### Repositories / Java/Kotlin
 
-*   [WPILib (⭐690)](https://github.com/wpilibsuite/allwpilib) - The official WPILib repository, containing code for the Java and C++ libraries.
-*   [SmartDashboard (⭐21)](https://github.com/wpilibsuite/SmartDashboard) - The official SmartDashboard repository containing code for the Java Driver Station dashboard.
+*   [WPILib (⭐838)](https://github.com/wpilibsuite/allwpilib) - The official WPILib repository, containing code for the Java and C++ libraries.
+*   [SmartDashboard (⭐22)](https://github.com/wpilibsuite/SmartDashboard) - The official SmartDashboard repository containing code for the Java Driver Station dashboard.
 
 ### Repositories / C++
 
-*   [WPILib (Java/C++) (⭐690)](https://github.com/wpilibsuite/allwpilib) - The official WPILib repository, containing code for the Java and C++ libraries.
+*   [WPILib (Java/C++) (⭐838)](https://github.com/wpilibsuite/allwpilib) - The official WPILib repository, containing code for the Java and C++ libraries.
 
 ### Repositories / C#
 
 *   [WPILib (C#) (⭐25)](https://github.com/robotdotnet/WPILib) - Unofficial WPILib port for writing robot code in C#.
-*   [NetworkTables (C#) (⭐4)](https://github.com/robotdotnet/NetworkTables) - Unofficial NetworkTables port for C#.
-*   [FRC-Extension (Visual Studio) (⭐6)](https://github.com/robotdotnet/FRC-Extension) - Visual Studio extension to make writing C# robots a breeze.
+*   [NetworkTables (C#) (⭐3)](https://github.com/robotdotnet/NetworkTables) - Unofficial NetworkTables port for C#.
+*   [FRC-Extension (Visual Studio) (⭐5)](https://github.com/robotdotnet/FRC-Extension) - Visual Studio extension to make writing C# robots a breeze.
 
 ### Repositories / Python
 
-*   [RobotPy-WPILib (⭐154)](https://github.com/robotpy/robotpy-wpilib) - Unofficial WPILib port allowing you to write robot code in Python.
+*   [RobotPy-WPILib (⭐165)](https://github.com/robotpy/robotpy-wpilib) - Unofficial WPILib port allowing you to write robot code in Python.
 *   [pyrobottraining (⭐7)](https://github.com/robotpy/pyrobottraining) - Fundamental tutorial for FRC robot coding in Python.
 
 ### Repositories / CSS
 
-*   [banners.css (⭐22)](https://github.com/ErikBoesen/banners.css) - Library for creating pure CSS FRC banners. Utilitarian and pretty decoration for team websites.
+*   [banners.css (⭐24)](https://github.com/ErikBoesen/banners.css) - Library for creating pure CSS FRC banners. Utilitarian and pretty decoration for team websites.
 
 ### Repositories / Ruby
 
@@ -175,7 +171,7 @@
 
 ### URI handling / Isomorphic web frameworks
 
-*   [quri (⭐98)](https://github.com/fukamachi/quri) - Another URI library for
+*   [quri (⭐101)](https://github.com/fukamachi/quri) - Another URI library for
     Common Lisp. Supports userinfo, IPv6 hostname, encoding/decoding
     utilities,… [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
@@ -183,11 +179,11 @@
 
 ### Cartridges / Opcodes
 
-*   [AntonioND's docs (⭐178)](https://github.com/AntonioND/giibiiadvance/tree/master/docs) - Corrected schematics and infos on cartridge header data.
+*   [AntonioND's docs (⭐182)](https://github.com/AntonioND/giibiiadvance/tree/master/docs) - Corrected schematics and infos on cartridge header data.
 
 ### Related projects / Syntax highlighting packages
 
-*   [papiGB (⭐13)](https://github.com/diegovalverde/papiGB) - Game Boy Classic fully functional FPGA implementation from scratch.
+*   [papiGB (⭐15)](https://github.com/diegovalverde/papiGB) - Game Boy Classic fully functional FPGA implementation from scratch.
 
 ## [17. Awesome Inspectit](/content/inspectit-labs/awesome-inspectit/week/README.md)
 
@@ -237,7 +233,7 @@
 
 ### Datetime
 
-*   [NodaTime (⭐2.5k)](https://github.com/nodatime/nodatime) - Noda Time is an alternative date and time API for .NET. It helps you to think about your data more clearly, and express operations on that data more precisely. <https://nodatime.org/>
+*   [NodaTime (⭐2.6k)](https://github.com/nodatime/nodatime) - Noda Time is an alternative date and time API for .NET. It helps you to think about your data more clearly, and express operations on that data more precisely. <https://nodatime.org/>
 
 ### Decompilation
 
@@ -271,7 +267,7 @@
 
 ### Images / Barcode
 
-*   [AXPhotoViewer (⭐604)](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.
+*   [AXPhotoViewer (⭐628)](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.
 
 ### UI / Barcode
 
@@ -290,7 +286,7 @@
 
 ### Contents / Utilities
 
-*   [pREST (⭐3.7k)](https://github.com/prest/prest) - Serve a RESTful API from any PostgreSQL database (Golang)
+*   [pREST (⭐3.8k)](https://github.com/prest/prest) - Serve a RESTful API from any PostgreSQL database (Golang)
 
 ### Contents / Language bindings
 
@@ -298,7 +294,7 @@
 
 ### Resources / Tutorials
 
-*   [postgresDBSamples (⭐283)](https://github.com/morenoh149/postgresDBSamples) - A collection of sample postgres schemas
+*   [postgresDBSamples (⭐305)](https://github.com/morenoh149/postgresDBSamples) - A collection of sample postgres schemas
 
 ## [26. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
 
@@ -339,7 +335,7 @@
 
 ### Objective-C / Git
 
-*   [ObjectivePGP (⭐614)](https://github.com/krzyzanowskim/ObjectivePGP) - ObjectivePGP is an implementation of OpenPGP protocol for iOS and macOS. OpenPGP is the most widely used email encryption standard.
+*   [ObjectivePGP (⭐634)](https://github.com/krzyzanowskim/ObjectivePGP) - ObjectivePGP is an implementation of OpenPGP protocol for iOS and macOS. OpenPGP is the most widely used email encryption standard.
 
 ## [31. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
@@ -480,8 +476,8 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 *   [basic\_auth (⭐164)](https://github.com/CultivateHQ/basic_auth) - Elixir Plug to easily add HTTP basic authentication to an app.
 *   [oauth2\_facebook (⭐4)](https://github.com/chrislaskey/oauth2_facebook) - A Facebook OAuth2 Provider for Elixir.
 *   [oauth2\_github (⭐2)](https://github.com/chrislaskey/oauth2_github) - A GitHub OAuth2 Provider for Elixir.
-*   [phauxth (⭐414)](https://github.com/riverrun/phauxth) - Authentication library for Phoenix 1.3 and other Plug-based apps.
-*   [samly (⭐117)](https://github.com/handnot2/samly) - SAML SP SSO made easy ([Doc](https://hexdocs.pm/samly/readme.html)).
+*   [phauxth (⭐413)](https://github.com/riverrun/phauxth) - Authentication library for Phoenix 1.3 and other Plug-based apps.
+*   [samly (⭐120)](https://github.com/handnot2/samly) - SAML SP SSO made easy ([Doc](https://hexdocs.pm/samly/readme.html)).
 
 ### Command Line Applications
 
@@ -490,43 +486,43 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 ### Deployment
 
 *   [elixir-on-docker (⭐168)](https://github.com/CrowdHailer/elixir-on-docker) - A project template to get started developing clustered Elixir applications for cloud environments.
-*   [exreleasy (⭐12)](https://github.com/miros/exreleasy) - Dead simple and Mix friendly tool for releasing Elixir applications.
+*   [exreleasy (⭐13)](https://github.com/miros/exreleasy) - Dead simple and Mix friendly tool for releasing Elixir applications.
 
 ### Documentation
 
-*   [blue\_bird (⭐54)](https://github.com/KittyHeaven/blue_bird) - BlueBird is a library written in the Elixir programming language for the Phoenix framework. It lets you generate API documentation in the API Blueprint format from annotations in controllers and automated tests.
+*   [blue\_bird (⭐55)](https://github.com/KittyHeaven/blue_bird) - BlueBird is a library written in the Elixir programming language for the Phoenix framework. It lets you generate API documentation in the API Blueprint format from annotations in controllers and automated tests.
 
 ### ECMAScript
 
-*   [phoenix\_routes\_js (⭐19)](https://github.com/khusnetdinov/phoenix_routes_js) - Phoenix routes helpers in JavaScript code and browser console.
+*   [phoenix\_routes\_js (⭐20)](https://github.com/khusnetdinov/phoenix_routes_js) - Phoenix routes helpers in JavaScript code and browser console.
 
 ### Framework Components
 
-*   [better\_params (⭐94)](https://github.com/sheharyarn/better_params) - Elixir Plug for cleaner request params in web apps.
+*   [better\_params (⭐96)](https://github.com/sheharyarn/better_params) - Elixir Plug for cleaner request params in web apps.
 *   [plug\_password (⭐10)](https://github.com/azranel/plug_password) - Plug for adding simple cookie-based authentication.
 *   [turn\_the\_page](https://hex.pm/packages/turn_the_page) - Fast, simple and lightweight pagination system for your Elixir application.
 
 ### HTTP
 
 *   [Ace (⭐305)](https://github.com/CrowdHailer/Ace) - HTTP web server and client, supports http1 and http2.
-*   [Crawler (⭐876)](https://github.com/fredwu/crawler) - A high performance web crawler in Elixir.
-*   [raxx (⭐396)](https://github.com/CrowdHailer/raxx) - Interface for HTTP webservers, frameworks and clients.
+*   [Crawler (⭐897)](https://github.com/fredwu/crawler) - A high performance web crawler in Elixir.
+*   [raxx (⭐397)](https://github.com/CrowdHailer/raxx) - Interface for HTTP webservers, frameworks and clients.
 
 ### Miscellaneous
 
-*   [ex\_phone\_number (⭐220)](https://github.com/socialpaymentsbv/ex_phone_number) - Format, normalize, and validate phone numbers.
+*   [ex\_phone\_number (⭐229)](https://github.com/socialpaymentsbv/ex_phone_number) - Format, normalize, and validate phone numbers.
 
 ### ORM and Datamapping
 
-*   [triplex (⭐395)](https://github.com/ateliware/triplex) - Database multitenancy with postgres schemas for Elixir applications.
+*   [triplex (⭐406)](https://github.com/ateliware/triplex) - Database multitenancy with postgres schemas for Elixir applications.
 
 ### Queue
 
-*   [opq (⭐225)](https://github.com/fredwu/opq) - A simple, in-memory queue with worker pooling and rate limiting in Elixir.
+*   [opq (⭐242)](https://github.com/fredwu/opq) - A simple, in-memory queue with worker pooling and rate limiting in Elixir.
 
 ### Testing
 
-*   [chaperon (⭐109)](https://github.com/polleverywhere/chaperon) - An HTTP service performance & load testing framework written in Elixir.
+*   [chaperon (⭐113)](https://github.com/polleverywhere/chaperon) - An HTTP service performance & load testing framework written in Elixir.
 
 ### Third Party APIs
 
@@ -535,7 +531,7 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ### Utilities
 
-*   [async\_with (⭐153)](https://github.com/fertapric/async_with) - A modifier for Elixir's "with" to execute all its clauses in parallel.
+*   [async\_with (⭐154)](https://github.com/fertapric/async_with) - A modifier for Elixir's "with" to execute all its clauses in parallel.
 
 ### Books
 
@@ -560,24 +556,24 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ### Development / Mobile Development
 
-*   [deviceframe (⭐554)](https://github.com/c0bra/deviceframe) - Put device frames around your mobile/web/progressive app screenshots.
+*   [deviceframe (⭐558)](https://github.com/c0bra/deviceframe) - Put device frames around your mobile/web/progressive app screenshots.
 
 ## [46. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Cryptography
 
 *   [Bcrypt](http://bcrypt.sourceforge.net/) - A cross platform file encryption utility. Encrypted files are portable across all supported operating systems and processors. \[BSD]
-*   [Crypto++ (⭐4k)](https://github.com/weidai11/cryptopp) - A free C++ class library of cryptographic schemes. \[Boost] [website](http://www.cryptopp.com/)
+*   [Crypto++ (⭐4.2k)](https://github.com/weidai11/cryptopp) - A free C++ class library of cryptographic schemes. \[Boost] [website](http://www.cryptopp.com/)
 *   [Libgcrypt](http://www.gnu.org/software/libgcrypt/) - A general purpose cryptographic library originally based on code from GnuPG. \[LGPLv2.1+]
 
 ### Machine Learning
 
-*   [RNNLIB (⭐886)](https://github.com/szcom/rnnlib) - RNNLIB is a recurrent neural network library for sequence learning problems. \[GPLv3]
+*   [RNNLIB (⭐885)](https://github.com/szcom/rnnlib) - RNNLIB is a recurrent neural network library for sequence learning problems. \[GPLv3]
 
 ### Math
 
-*   [CGAL (⭐3.9k)](https://github.com/CGAL/cgal) - Collection of efficient and reliable geometric algorithms. \[LGPL\&GPL] [website](http://www.cgal.org/)
-*   [linmath.h (⭐780)](https://github.com/datenwolf/linmath.h) - A lean linear math library, aimed at graphics programming. \[WTFPL]
+*   [CGAL (⭐4.2k)](https://github.com/CGAL/cgal) - Collection of efficient and reliable geometric algorithms. \[LGPL\&GPL] [website](http://www.cgal.org/)
+*   [linmath.h (⭐825)](https://github.com/datenwolf/linmath.h) - A lean linear math library, aimed at graphics programming. \[WTFPL]
 
 ### PDF
 
@@ -589,25 +585,25 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ### Mumbai
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jayeshkattar" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/jayeshkattar" height="70px" width="70px" align="left" alt="" />
 
 **Jayesh Katta Ramalingaiah**\
 Topics: Rust, Android, Angular, React, Web VR, Project Things, Common Voice, Web Compatibility\
 <https://twitter.com/jayeshkattar>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/manjula_dube" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/manjula_dube" height="70px" width="70px" align="left" alt="" />
 
 **Manjula Dube**\
 Topics: JavaScript, React, Progressive Web Apps, Node, Testing\
 <https://twitter.com/manjula_dube>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/neeharv" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/neeharv" height="70px" width="70px" align="left" alt="" />
 
 **Neehar Venugopal**\
 Topics: Code Splitting, Standards\
 <https://twitter.com/neeharv>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/chatsidhartha" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/chatsidhartha" height="70px" width="70px" align="left" alt="" />
 
 **Sidhartha Chatterjee**\
 Topics: React, Progressive Web Apps, Web Performance\
@@ -617,7 +613,7 @@ Topics: React, Progressive Web Apps, Web Performance\
 
 ### Tyre
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sarasoueidan" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/sarasoueidan" height="70px" width="70px" align="left" alt="" />
 
 **Sara Soueidan**\
 Topics: Animations, CSS, SVG\
@@ -627,44 +623,44 @@ Topics: Animations, CSS, SVG\
 
 ### Singapore
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/renettarenula" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/renettarenula" height="70px" width="70px" align="left" alt="" />
 
 **Aysha Anggraini**\
 Topics: CSS, Animations\
 <https://twitter.com/renettarenula>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/hj_chen" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/hj_chen" height="70px" width="70px" align="left" alt="" />
 
 **Chen Hui Jing**\
 Topics: CSS\
 <https://twitter.com/hj_chen>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/zellwk" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/zellwk" height="70px" width="70px" align="left" alt="" />
 
 **Zell Liew**\
 Topics: CSS, JavaScript\
 <https://twitter.com/zellwk>
 ### Melbourne
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/glenmaddern" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/glenmaddern" height="70px" width="70px" align="left" alt="" />
 
 **Glen Maddern**\
 Topics: CSS, Styled Components, React, JavaScript\
 <https://twitter.com/glenmaddern>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/fox" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/fox" height="70px" width="70px" align="left" alt="" />
 
 **Karolina Szczur**\
 Topics: CSS, HTML, Web, Inclusivity, Diversity\
 <https://twitter.com/fox>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/markdalgleish" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/markdalgleish" height="70px" width="70px" align="left" alt="" />
 
 **Mark Dalgleish**\
 Topics: Design Systems, Web Design\
 <https://twitter.com/markdalgleish>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/philnash" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/philnash" height="70px" width="70px" align="left" alt="" />
 
 **Phil Nash**\
 Topics: JavaScript, Web Development, Progressive Web Apps\
@@ -674,14 +670,14 @@ Topics: JavaScript, Web Development, Progressive Web Apps\
 
 ### Linz
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ddprrt" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/ddprrt" height="70px" width="70px" align="left" alt="" />
 
 **Stefan Baumgartner**\
 Topics: Web Ops, JavaScript, CSS, Tooling\
 <https://twitter.com/ddprrt>
 ### Salzburg
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/lisi_linhart" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/lisi_linhart" height="70px" width="70px" align="left" alt="" />
 
 **Lisi Linhart**\
 Topics: CSS, Web Animations\
@@ -691,7 +687,7 @@ Topics: CSS, Web Animations\
 
 ### Hasselt
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sambego" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/sambego" height="70px" width="70px" align="left" alt="" />
 
 **Sam Bellen**\
 Topics: Web Audio, Browser APIs\
@@ -701,7 +697,7 @@ Topics: Web Audio, Browser APIs\
 
 ### Sofia
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/rstankov" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/rstankov" height="70px" width="70px" align="left" alt="" />
 
 **Radoslav Stankov**\
 Topics: React, Redux, Ruby, Testing, GraphQL\
@@ -711,37 +707,37 @@ Topics: React, Redux, Ruby, Testing, GraphQL\
 
 ### Helsinki
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/eemeli_aro" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/eemeli_aro" height="70px" width="70px" align="left" alt="" />
 
 **Eemeli Aro**\
 Topics: Open Source, React, YAML\
 <https://twitter.com/eemeli_aro>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/pakastin" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/pakastin" height="70px" width="70px" align="left" alt="" />
 
 **Juha Lindstedt**\
 Topics: JavaScript, RE:DOM, Progressive Web Apps, Performance, Standards, CSS, Node.js\
 <https://twitter.com/pakastin>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/plrdev" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/plrdev" height="70px" width="70px" align="left" alt="" />
 
 **Juha Linnanen**\
 Topics: React Native, TypeScript, GraphQL\
 <https://twitter.com/plrdev>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/hamatti" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/hamatti" height="70px" width="70px" align="left" alt="" />
 
 **Juha-Matti Santala**\
 Topics: Community building, Documentation, JavaScript, Programming\
 <https://twitter.com/Hamatti>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/maaretp" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/maaretp" height="70px" width="70px" align="left" alt="" />
 
 **Maaret Pyhäjärvi**\
 Topics: Testing\
 <https://twitter.com/maaretp>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/varya_en" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/varya_en" height="70px" width="70px" align="left" alt="" />
 
 **Varya Stepanova**\
 Topics: CSS in JS, Style Guides, Visual Regression Testing\
@@ -751,7 +747,7 @@ Topics: CSS in JS, Style Guides, Visual Regression Testing\
 
 ### Paris
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/manekinekko" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/manekinekko" height="70px" width="70px" align="left" alt="" />
 
 **Wassim Chegham**\
 Topics: Angular, JavaScript, Progressive Web Apps, Chatbots, Firebase, Cloud, Internet of Things\
@@ -761,23 +757,20 @@ Topics: Angular, JavaScript, Progressive Web Apps, Chatbots, Firebase, Cloud, In
 
 ### Freiburg
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/smashingmag" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/smashingmag" height="70px" width="70px" align="left" alt="" />
 
 **Vitaly Friedman**\
 Topics: Web Design, Web Development, Responsive Web Design\
 <https://twitter.com/smashingmag>
-
-### Europe / Greece 🇬🇷
-
 ### Munich
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/fhinkel" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/fhinkel" height="70px" width="70px" align="left" alt="" />
 
 **Franziska Hinkelmann**\
 Topics: Node, V8\
 <https://twitter.com/fhinkel>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mathias" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/mathias" height="70px" width="70px" align="left" alt="" />
 
 **Mathias Bynens**\
 Topics: JavaScript (TC39), V8, Chrome\
@@ -787,13 +780,13 @@ Topics: JavaScript (TC39), V8, Chrome\
 
 ### Milan
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/granze" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/granze" height="70px" width="70px" align="left" alt="" />
 
 **Maurizio Mangione**\
 Topics: Web Components, Polymer, Progressive Web Apps\
 <https://twitter.com/granze>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/cef62" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/cef62" height="70px" width="70px" align="left" alt="" />
 
 **Matteo Ronchi**\
 Topics: React, JavaScript, Flow, Web Architectures, Frontend Ops\
@@ -803,7 +796,7 @@ Topics: React, JavaScript, Flow, Web Architectures, Frontend Ops\
 
 ### Zwolle
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/NorbertdeLangen" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/NorbertdeLangen" height="70px" width="70px" align="left" alt="" />
 
 **Norbert de Langen**\
 Topics: Component Libraries, React, Storybook, Open Source, Communities\
@@ -813,7 +806,7 @@ Topics: Component Libraries, React, Storybook, Open Source, Communities\
 
 ### Poznań
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/tlakomy" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/tlakomy" height="70px" width="70px" align="left" alt="" />
 
 **Tomasz Łakomy**\
 Topics: React, Virtual Reality, jQuery\
@@ -823,13 +816,13 @@ Topics: React, Virtual Reality, jQuery\
 
 ### Lisbon
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sericaia" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/sericaia" height="70px" width="70px" align="left" alt="" />
 
 **Daniela Matos de Carvalho**\
 Topics: Web protocols, Web security, JavaScript, React, Node.js, Offline First\
 <https://twitter.com/sericaia>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/daviddias" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/daviddias" height="70px" width="70px" align="left" alt="" />
 
 **David Dias**\
 Topics: IPFS, Peer to Peer, JavaScript, Node.js\
@@ -839,7 +832,7 @@ Topics: IPFS, Peer to Peer, JavaScript, Node.js\
 
 ### Córdoba
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/javivelasco" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/javivelasco" height="70px" width="70px" align="left" alt="" />
 
 **Javi Velasco**\
 Topics: React, CSS in JS, React Toolbox\
@@ -849,7 +842,7 @@ Topics: React, CSS in JS, React Toolbox\
 
 ### Zurich
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/g33konaut" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/g33konaut" height="70px" width="70px" align="left" alt="" />
 
 **Martin Splitt**\
 Topics: Virtual Reality, Web Performance\
@@ -859,20 +852,20 @@ Topics: Virtual Reality, Web Performance\
 
 ### Brighton
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/adactio" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/adactio" height="70px" width="70px" align="left" alt="" />
 
 **Jeremy Keith**\
 Topics: Standards, Web Development, Web Design, CSS, Accessibility\
 <https://twitter.com/adactio>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/paulrobertlloyd" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/paulrobertlloyd" height="70px" width="70px" align="left" alt="" />
 
 **Paul Robert Lloyd**\
 Topics: Design, Web Design, Architecture, Design Systems, Trains\
 <https://twitter.com/paulrobertlloyd>
 ### Leighton Buzzard
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/cjforms" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/cjforms" height="70px" width="70px" align="left" alt="" />
 
 **Caroline Jarrett**\
 Topics: Forms Usability, User Research\
@@ -882,7 +875,7 @@ Topics: Forms Usability, User Research\
 
 ### Ottawa
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/shehackspurple" height="70px" width="70px" align="left" alt="">
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/shehackspurple" height="70px" width="70px" align="left" alt="">
 
 **Tanya Janca**\
 Topics: InfoSec, Web App Security\
@@ -892,27 +885,27 @@ Topics: InfoSec, Web App Security\
 
 ### Carlsbad
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mjackson" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/mjackson" height="70px" width="70px" align="left" alt="" />
 
 **Michael Jackson**\
 Topics: React, JavaScript, React Router\
 <https://twitter.com/mjackson>
 ### Nashville
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/Aimee_Knight" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/Aimee_Knight" height="70px" width="70px" align="left" alt="" />
 
 **Aimee Knight**\
 Topics: JavaScript, CSS, Angular, Growing Junior Developers\
 <https://twitter.com/Aimee_Knight>
 ### New Orleans
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/GantLaborde" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/GantLaborde" height="70px" width="70px" align="left" alt="" />
 
 **Gant Laborde**\
 Topics: JavaScript, React Native, Leadership, Redux, Open Source, Tooling, Public Speaking\
 <https://twitter.com/GantLaborde>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/thegreengreek" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/thegreengreek" height="70px" width="70px" align="left" alt="" />
 
 **Sia Karamalegos**\
 Topics: React, JavaScript, React Native, Front-End Performance\
@@ -922,21 +915,21 @@ Topics: React, JavaScript, React Native, Front-End Performance\
 
 ### Buenos Aires
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/evaferreira92" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/evaferreira92" height="70px" width="70px" align="left" alt="" />
 
 **Evangelina Ferreira**\
 Topics: CSS, Animations\
 <https://twitter.com/evaferreira92>
 ### Belo Horizonte
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/obetomuniz" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/obetomuniz" height="70px" width="70px" align="left" alt="" />
 
 **Beto Muniz**\
 Topics: React, JavaScript, Progressive Web Apps, Polymer, Community\
 <https://twitter.com/obetomuniz>
 ### Curitiba
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/fdaciuk" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/fdaciuk" height="70px" width="70px" align="left" alt="" />
 
 **Fernando Daciuk**\
 Topics: React, JavaScript\

@@ -48,7 +48,7 @@
 
 ### Software Engineering
 
-*   [Falsehoods about Quantum Technology (⭐0)](https://github.com/gottfriedsz/falsehoods-quantum) - Common misconceptions about quantum technology and computers.
+*   [Falsehoods about Quantum Technology (⭐2)](https://github.com/gottfriedsz/falsehoods-quantum) - Common misconceptions about quantum technology and computers.
 
 ## [Dec 19, 2022](/content/2022/12/19/README.md)
 
@@ -72,7 +72,7 @@
 ### Software Engineering
 
 *   [Falsehoods about Undefined Behavior](https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/) - Invoking undefined behavior can cause *anything* to happen, for a much broader definition of "anything" than one might think.
-*   [Facts about State Machines (⭐711)](https://github.com/cpressey/Facts-about-State-Machines) - State machines are often misunderstood and under-applied.
+*   [Facts about State Machines (⭐712)](https://github.com/cpressey/Facts-about-State-Machines) - State machines are often misunderstood and under-applied.
 *   [I am endlessly fascinated with content tagging systems](https://twitter.com/hillelogram/status/1534301374166474752) - There are edge-cases even in tagging systems which are suposed to be barebone.
 
 ## [Sep 01, 2022](/content/2022/09/01/README.md)
@@ -131,7 +131,7 @@
 
 ### Phone Numbers
 
-*   [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐640)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.3k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.2k)](https://github.com/daviddrysdale/python-phonenumbers), [Ruby (⭐549)](https://github.com/sstephenson/global_phone) and [PHP (⭐4.4k)](https://github.com/giggsey/libphonenumber-for-php).
+*   [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐648)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.3k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.3k)](https://github.com/daviddrysdale/python-phonenumbers), [Ruby (⭐550)](https://github.com/sstephenson/global_phone) and [PHP (⭐4.4k)](https://github.com/giggsey/libphonenumber-for-php).
 
 ### Software Engineering
 
@@ -145,7 +145,7 @@
 
 ### Business
 
-*   [CLDR currency definitions (⭐714)](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
+*   [CLDR currency definitions (⭐722)](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
 
 ## [Nov 14, 2021](/content/2021/11/14/README.md)
 
@@ -218,12 +218,12 @@
 ### Business
 
 *   [Falsehoods about Prices](https://gist.github.com/rgs/6509585) - Covers currencies, amounts and localization.
-*   [Falsehoods about IBANs (⭐435)](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
+*   [Falsehoods about IBANs (⭐439)](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
 *   [Falsehoods about Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) - Economics are not simple or rational.
 
 ### Cryptocurrency
 
-*   [Falsehoods about Bitcoin (⭐46)](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - A list of mistaken perspectives on Bitcoin.
+*   [Falsehoods about Bitcoin (⭐45)](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - A list of mistaken perspectives on Bitcoin.
 
 ### Dates and Time
 
@@ -281,7 +281,7 @@
 
 ### Software Engineering
 
-*   [Falsehoods about Versions (⭐65)](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) - Attributing an identity to a software release might be harder than thought.
+*   [Falsehoods about Versions (⭐66)](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) - Attributing an identity to a software release might be harder than thought.
 *   [Falsehoods about Build Systems](https://pozorvlak.livejournal.com/174763.html) - Building software is hard. Building software that builds software is harder.
 *   [Falsehoods about CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) - While RFC4180 to exists, it is far from definitive and goes largely ignored.
 *   [Falsehoods about Testing](https://club.ministryoftesting.com/t/falsehoods-testers-believe/1371) - An attempt to establish a list of falsehoods about testing.
@@ -342,7 +342,7 @@
 
 *   [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) - A video about things you need to keep in mind when internationalizing your code.
 *   [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - A good introduction to unicode, its historical context and origins, followed by an overview of its inner working.
-*   [Awesome Unicode (⭐847)](https://github.com/Wisdom/Awesome-Unicode) - A curated list of delightful Unicode tidbits, packages and resources.
+*   [Awesome Unicode (⭐853)](https://github.com/Wisdom/Awesome-Unicode) - A curated list of delightful Unicode tidbits, packages and resources.
 *   [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/) - Unicode is extensive, here be dragons.
 *   [Let's Stop Ascribing Meaning to Code Points](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/) - Dives deeper in Unicode and dispels myths about code points.
 *   [Breaking Our `Latin-1` Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) - Most programmers spend so much time with `Latin-1` they forgets about other's scripts quirks.

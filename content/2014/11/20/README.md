@@ -63,11 +63,11 @@
 
 ### Date and Time
 
-*   [block\_timer (⭐9)](https://github.com/adamkittelson/block_timer) - Macros to use :timer.apply\_after and :timer.apply\_interval with a block.
+*   [block\_timer (⭐10)](https://github.com/adamkittelson/block_timer) - Macros to use :timer.apply\_after and :timer.apply\_interval with a block.
 
 ### Framework Components
 
-*   [blaguth (⭐19)](https://github.com/lexmag/blaguth) - Basic Access Authentication in Plug applications.
+*   [blaguth (⭐20)](https://github.com/lexmag/blaguth) - Basic Access Authentication in Plug applications.
 
 ### HTTP
 
@@ -79,12 +79,12 @@
 
 ### Miscellaneous
 
-*   [exlibris (⭐10)](https://github.com/pragdave/exlibris) - A collection of random library functions.
+*   [exlibris (⭐11)](https://github.com/pragdave/exlibris) - A collection of random library functions.
 *   [mixstar (⭐12)](https://github.com/ma2gedev/mix-star) - MixStar starred GitHub repository that depends on your project.
 
 ### Protocols
 
-*   [elixir\_radius (⭐11)](https://github.com/bearice/elixir-radius) - RADIUS Protocol on Elixir.
+*   [elixir\_radius (⭐12)](https://github.com/bearice/elixir-radius) - RADIUS Protocol on Elixir.
 
 ### Testing
 
@@ -108,7 +108,7 @@
 
 ### Miscellaneous
 
-*   [QtVerbalExpressions (⭐58)](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. \[MIT]
+*   [QtVerbalExpressions (⭐59)](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. \[MIT]
 
 ### Coding Style
 

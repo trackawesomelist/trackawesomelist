@@ -10,7 +10,7 @@
 
 ### GTFS Validators / Ruby
 
-*   [GTFS Data Package Specification (⭐18)](https://github.com/Stephen-Gates/GTFS) - A [Data Package specification](http://specs.frictionlessdata.io/data-packages/) with validation accomplished with [Good Tables](http://goodtables.okfnlabs.org/). Includes a data package, schemas, tests, and uses South East Queensland GTFS data as an example.
+*   [GTFS Data Package Specification (⭐17)](https://github.com/Stephen-Gates/GTFS) - A [Data Package specification](http://specs.frictionlessdata.io/data-packages/) with validation accomplished with [Good Tables](http://goodtables.okfnlabs.org/). Includes a data package, schemas, tests, and uses South East Queensland GTFS data as an example.
 
 ## [2. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Augmented Reality
 
-*   [ARKit-Navigation (⭐299)](https://github.com/chriswebb09/ARKitNavigationDemo) - Navigation in augmented reality with MapKit.
+*   [ARKit-Navigation (⭐302)](https://github.com/chriswebb09/ARKitNavigationDemo) - Navigation in augmented reality with MapKit.
 
 ## [12. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 
@@ -125,7 +125,7 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [orleans (⭐8.9k)](https://github.com/dotnet/orleans) - Framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns.
+*   [orleans (⭐9.5k)](https://github.com/dotnet/orleans) - Framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns.
 
 ## [14. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 

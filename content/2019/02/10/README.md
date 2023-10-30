@@ -10,7 +10,7 @@
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [pfaedle (⭐134)](https://github.com/ad-freiburg/pfaedle) - Precise map-matching for GTFS using OpenStreetMap data
+*   [pfaedle (⭐145)](https://github.com/ad-freiburg/pfaedle) - Precise map-matching for GTFS using OpenStreetMap data
 
 ## [2. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Data Formats
 
-*   [geoip2.cr (⭐16)](https://github.com/delef/geoip2.cr) - GeoIP2 reader
+*   [geoip2.cr (⭐15)](https://github.com/delef/geoip2.cr) - GeoIP2 reader
 *   [maxminddb.cr (⭐24)](https://github.com/delef/maxminddb.cr) - MaxMindDB reader
 
 ## [4. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
@@ -41,7 +41,7 @@
 
 ### Music Programming
 
-*   [Orca (⭐4.1k)](https://github.com/hundredrabbits/Orca) - live programming environment for music.
+*   [Orca (⭐4.3k)](https://github.com/hundredrabbits/Orca) - live programming environment for music.
 
 ## [7. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Reading and Writing Tools / Markdown Tools
 
-*   [MarkText (⭐40k)](https://github.com/marktext/marktext) - Next generation markdown editor, running on platforms of MacOS Windows and Linux. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/marktext/marktext) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [MarkText (⭐42k)](https://github.com/marktext/marktext) - Next generation markdown editor, running on platforms of MacOS Windows and Linux. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/marktext/marktext) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Reading and Writing Tools / Others
 
@@ -79,9 +79,9 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [cool-retro-term (⭐19k)](https://github.com/Swordfish90/cool-retro-term) - Good looking terminal emulator which mimics the old cathode display. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Swordfish90/cool-retro-term)
-*   [fselect (⭐3.5k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jhspetersson/fselect)
-*   [m-cli (⭐9.3k)](https://github.com/rgcr/m-cli) - Swiss Army Knife for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rgcr/m-cli) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [cool-retro-term (⭐20k)](https://github.com/Swordfish90/cool-retro-term) - Good looking terminal emulator which mimics the old cathode display. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Swordfish90/cool-retro-term)
+*   [fselect (⭐3.7k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jhspetersson/fselect)
+*   [m-cli (⭐9.5k)](https://github.com/rgcr/m-cli) - Swiss Army Knife for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rgcr/m-cli) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [pgcli](https://www.pgcli.com) - Pgcli is a command line interface for Postgres with auto-completion and syntax highlighting. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dbcli/pgcli) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Frameworks For Hybrid Applications
@@ -142,7 +142,7 @@
 
 ### Input Methods / File Sharing
 
-*   [Kawa (⭐1.2k)](https://github.com/utatti/kawa) - Better input source switcher for OS X. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/utatti/kawa) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Kawa (⭐1.3k)](https://github.com/utatti/kawa) - Better input source switcher for OS X. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/utatti/kawa) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Security Tools / File Sharing
 
@@ -150,10 +150,10 @@
 
 ### Proxy and VPN Tools / File Sharing
 
-*   [ShadowsocksX-NG (⭐31k)](https://github.com/qiuyuzhou/ShadowsocksX-NG) - Next generation of ShadowsocksX. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/qiuyuzhou/ShadowsocksX-NG)
+*   [ShadowsocksX-NG (⭐32k)](https://github.com/qiuyuzhou/ShadowsocksX-NG) - Next generation of ShadowsocksX. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/qiuyuzhou/ShadowsocksX-NG)
 *   [ShadowsocksX](http://shadowsocks.org/) - Secure socks5 proxy, designed to protect your internet traffic. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/shadowsocks/shadowsocks)
 *   [Shimo](https://www.shimovpn.com/) - VPN Client for Mac.
-*   [SpechtLite (⭐3k)](https://github.com/zhuhaow/SpechtLite) - Rule-based proxy app for macOS.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/shadowsocks) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [SpechtLite (⭐2.9k)](https://github.com/zhuhaow/SpechtLite) - Rule-based proxy app for macOS.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/shadowsocks) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Tunnelbear](https://www.tunnelbear.com) - Really simple VPN to browse the web privately & securely. Unblock websites around the world with applications for Mac, PC, iOS, Android & Chrome.
 *   [Tunnelblick](https://tunnelblick.net/downloads.html) - Free, open-source graphic user interface for OpenVPN on OS X. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
@@ -161,7 +161,7 @@
 
 *   [Qbserve](https://qotoqot.com/qbserve/) - Time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
 *   [RescueTime](https://www.rescuetime.com/) - Personal analytics service that shows you how you spend your time and provides tools to help you be more productive.
-*   [skhd (⭐4.1k)](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/koekeishiya/skhd)
+*   [skhd (⭐4.7k)](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/koekeishiya/skhd)
 *   [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
 
 ### Utilities / Window Management
@@ -196,21 +196,21 @@
 
 ## [10. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### Miscellaneous
+### Miscellaneous / Text-Based User Interfaces
 
-*   [FF4J (⭐1.2k)](https://github.com/ff4j/ff4j) - Feature Flags for Java.
+*   [FF4J (⭐1.3k)](https://github.com/ff4j/ff4j) - Feature Flags for Java.
 
 ## [11. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Personalization
 
-*   [Dashboard (⭐878)](https://github.com/Ivaskuu/dashboard) - Dashboard concept made by [Ivascu Adrian](https://github.com/Ivaskuu/).
-*   [Tailor made (⭐294)](https://github.com/jogboms/tailor_made) - Managing a Fashion designer's daily routine by [Jeremiah Ogbomo](https://github.com/jogboms).
+*   [Dashboard (⭐897)](https://github.com/Ivaskuu/dashboard) - Dashboard concept made by [Ivascu Adrian](https://github.com/Ivaskuu/).
+*   [Tailor made (⭐307)](https://github.com/jogboms/tailor_made) - Managing a Fashion designer's daily routine by [Jeremiah Ogbomo](https://github.com/jogboms).
 
 ### Contents / Social Network
 
-*   [FlutterWhatsAppClone (⭐1.5k)](https://github.com/iampawan/FlutterWhatsAppClone) - Building a WhatsApp Clone in Flutter by [Pawan Kumar](https://github.com/iampawan).
-*   [Tinder Card (⭐762)](https://github.com/Ivaskuu/tinder_cards) - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu/).
+*   [FlutterWhatsAppClone (⭐1.6k)](https://github.com/iampawan/FlutterWhatsAppClone) - Building a WhatsApp Clone in Flutter by [Pawan Kumar](https://github.com/iampawan).
+*   [Tinder Card (⭐797)](https://github.com/Ivaskuu/tinder_cards) - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu/).
 
 ### Contents / Shopping
 

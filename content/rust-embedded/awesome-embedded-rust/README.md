@@ -6,6 +6,12 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 [ Daily / [Weekly](/content/rust-embedded/awesome-embedded-rust/week/README.md) / [Overview](/content/rust-embedded/awesome-embedded-rust/readme/README.md) ]
 
+## [Oct 30, 2023](/content/2023/10/30/README.md)
+
+### Driver crates / WIP
+
+*   [AD9850](https://crates.io/crates/ad9850) - Embedded driver for the AD9850 DDS synthesizer chip - ![crates.io](https://img.shields.io/crates/v/ad9850.svg)
+
 ## [Oct 18, 2023](/content/2023/10/18/README.md)
 
 ### Firmware projects / WIP

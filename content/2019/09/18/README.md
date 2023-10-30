@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 18, 2019
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -34,7 +34,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Cornac (⭐712)](https://github.com/PreferredAI/cornac) - A comparative framework for multimodal recommender systems with a focus on models leveraging auxiliary data.
+*   [Cornac (⭐742)](https://github.com/PreferredAI/cornac) - A comparative framework for multimodal recommender systems with a focus on models leveraging auxiliary data.
 
 ## [5. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -52,20 +52,14 @@
 
 ### Date / Runner
 
-*   [map-countdown (⭐7)](https://github.com/dawidjaniga/map-countdown) - A browser countdown built on top of the Google Maps.
-*   [dayjs (⭐43k)](https://github.com/iamkun/dayjs) - Day.js 2KB immutable date library alternative to Moment.js with the same modern API.
+*   [map-countdown (⭐5)](https://github.com/dawidjaniga/map-countdown) - A browser countdown built on top of the Google Maps.
+*   [dayjs (⭐44k)](https://github.com/iamkun/dayjs) - Day.js 2KB immutable date library alternative to Moment.js with the same modern API.
 
 ## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [dasblog-core (⭐377)](https://github.com/poppastring/dasblog-core) - The original DasBlog reimagined with ASP.NET Core
-
-## [9. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
-
-### API / Forms
-
-*   [StaticKit](https://statickit.com) - Modern forms for static sites, with client libraries for React and HTML.
+*   [dasblog-core (⭐423)](https://github.com/poppastring/dasblog-core) - The original DasBlog reimagined with ASP.NET Core
 
 ---
 

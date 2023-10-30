@@ -47,7 +47,7 @@
 
 ### Third Party APIs
 
-*   [ethereumex (⭐350)](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain.
+*   [ethereumex (⭐364)](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain.
 
 ### Books
 
@@ -99,7 +99,7 @@ Webpage: <http://4sq.com/1dQaY6h>
 
 ### PHP / Misc
 
-*   [steam-auth (⭐16)](https://github.com/vikas5914/steam-auth) - An alternative Steam authentication library with Composer support.
+*   [steam-auth (⭐18)](https://github.com/vikas5914/steam-auth) - An alternative Steam authentication library with Composer support.
 
 ## [10. Citizen Science](/content/dylanrees/citizen-science/README.md)
 
@@ -107,11 +107,11 @@ Webpage: <http://4sq.com/1dQaY6h>
 
 *   [SpikerBox](https://backyardbrains.com/products/spikerbox) - A bioamplifier for DIY neuroscience.
 
-## [11. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
+## [11. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
-### Alternatives / Reference
+### Software / Web Applications
 
-*   [OpenStreetMap](https://www.openstreetmap.org) - Map of the world created by users and released under an open license.
+*   [OpenStreetMap](https://www.openstreetmap.org) - Map of the world created by users and released under an open license. ([GNU GPLv2](https://git.openstreetmap.org/rails.git/blob/HEAD:/LICENSE))
 
 ## [12. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 

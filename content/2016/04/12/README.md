@@ -10,7 +10,7 @@
 
 ### Images / Gif Creation
 
-*   [givegif (⭐216)](https://github.com/passy/givegif) - GIFs on the command line.
+*   [givegif (⭐217)](https://github.com/passy/givegif) - GIFs on the command line.
 
 ## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Algorithms and Data structures
 
-*   [gen\_fsm (⭐38)](https://github.com/pavlos/gen_fsm) - A generic finite state-machine - Elixir wrapper around OTP's gen\_fsm.
+*   [gen\_fsm (⭐39)](https://github.com/pavlos/gen_fsm) - A generic finite state-machine - Elixir wrapper around OTP's gen\_fsm.
 
 ## [4. Rbooks](/content/RomanTsegelskyi/rbooks/README.md)
 
@@ -160,7 +160,7 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 
 ### Software / JavaScript
 
-*   [VivaGraphJS (⭐3.6k)](https://github.com/anvaka/VivaGraphJS) - Graph drawing library ([ForceAtlas2 plugin (⭐4)](https://github.com/graphcommons/viva.forceatlas2)).
+*   [VivaGraphJS (⭐3.6k)](https://github.com/anvaka/VivaGraphJS) - Graph drawing library ([ForceAtlas2 plugin (⭐3)](https://github.com/graphcommons/viva.forceatlas2)).
 *   [viz.js](https://mdaines.github.io/viz.js/) - Use Graphviz in Web pages.
 
 ### Software / MATLAB
@@ -171,10 +171,6 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 
 *   [DiagrammeR (⭐1.6k)](https://github.com/rich-iannone/DiagrammeR) - Connects R, RStudio and JavaScript libraries to draw graph diagrams ([blog post](https://blog.rstudio.org/2015/05/01/rstudio-v0-99-preview-graphviz-and-diagrammer/)).
 *   [Rgraphviz](https://bioconductor.org/packages/release/bioc/html/Rgraphviz.html) - Support for using the Graphviz library and its DOT graph drawing language from within R.
-
-### Software / Syntaxes
-
-*   [GEXF](https://gephi.org/gexf/format/) - File format used by the Gephi software.
 
 ### Varia / Blog Series
 

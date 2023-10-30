@@ -30,11 +30,11 @@
 
 ### AppImage consumption tools / Sandboxes
 
-*   [Firejail (⭐4.8k)](https://github.com/netblue30/firejail) - Optional sandbox with support for AppImage built in.
+*   [Firejail (⭐4.9k)](https://github.com/netblue30/firejail) - Optional sandbox with support for AppImage built in.
 
 ### AppImage consumption tools / Package managers
 
-*   [Zap (⭐390)](https://github.com/srevinsaju/zap) - AppImage package manager. Downloads the AppImage if it does not exist. If it already exists, updates it with AppImageUpdate. Integrates AppImage into the system.
+*   [Zap (⭐409)](https://github.com/srevinsaju/zap) - AppImage package manager. Downloads the AppImage if it does not exist. If it already exists, updates it with AppImageUpdate. Integrates AppImage into the system.
 
 ### AppImage developer tools / Metadata tools
 
@@ -127,7 +127,7 @@
 ### DevSecOps / Service meshes
 
 *   [Bane (⭐1.1k)](https://github.com/genuinetools/bane) - Custom and better AppArmor profile generator for Docker containers.
-*   [Trivy (⭐17k)](https://github.com/aquasecurity/trivy) - Simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for use in continuous integration pipelines.
+*   [Trivy (⭐18k)](https://github.com/aquasecurity/trivy) - Simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for use in continuous integration pipelines.
 
 ---
 

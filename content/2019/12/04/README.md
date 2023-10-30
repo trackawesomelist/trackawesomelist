@@ -22,14 +22,14 @@
 
 ### Device / Augmented Reality
 
-*   [Geolocator (⭐1k)](https://github.com/baseflow/flutter-geolocator)<!--stargazers:baseflow/flutter-geolocator--> - A Flutter geolocation plugin which provides easy access to the platform specific location services by [Baseflow](https://baseflow.com)
-*   [Permission Handler (⭐1.7k)](https://github.com/baseflow/flutter-permission-handler)<!--stargazers:baseflow/flutter-permission-handler--> - A Flutter permission plugin which provides a cross-platform (iOS, Android) API to request and check permissions by [Baseflow](https://baseflow.com)
+*   [Geolocator (⭐1.1k)](https://github.com/baseflow/flutter-geolocator)<!--stargazers:baseflow/flutter-geolocator--> - A Flutter geolocation plugin which provides easy access to the platform specific location services by [Baseflow](https://baseflow.com)
+*   [Permission Handler (⭐1.8k)](https://github.com/baseflow/flutter-permission-handler)<!--stargazers:baseflow/flutter-permission-handler--> - A Flutter permission plugin which provides a cross-platform (iOS, Android) API to request and check permissions by [Baseflow](https://baseflow.com)
 
-## [4. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
+## [4. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
-### Collaboration Tools
+### Software / File Management
 
-*   [Filestash](http://www.filestash.app) - A Dropbox-like web client where users can bring their own backend (FTP, SFTP, Webdav, S3, Minio, ...).
+*   [Filestash](http://www.filestash.app) - A Dropbox-like web client where users can bring their own backend (FTP, SFTP, Webdav, S3, Minio, ...). ([GNU AGPLv3 (⭐8.1k)](https://github.com/mickael-kerjean/filestash/blob/master/LICENSE))
 
 ## [5. Awesome Corda](/content/chainstack/awesome-corda/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Time-Series Databases
 
-*   [TDengine (⭐19k)](https://github.com/taosdata/TDengine/) - a time series database in C utilizing unique features of IoT to improve read/write throughput and reduce space needed to store data
+*   [TDengine (⭐21k)](https://github.com/taosdata/TDengine/) - a time series database in C utilizing unique features of IoT to improve read/write throughput and reduce space needed to store data
 
 ### Business Intelligence
 

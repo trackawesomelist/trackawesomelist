@@ -41,7 +41,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-inject (⭐184)](https://github.com/jpex-js/vue-inject) - Dependency injection for Vue 2.x Components
+*   [vue-inject (⭐185)](https://github.com/jpex-js/vue-inject) - Dependency injection for Vue 2.x Components
 
 ## [5. Awesome Linux](/content/inputsh/awesome-linux/README.md)
 

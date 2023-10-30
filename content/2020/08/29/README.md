@@ -99,10 +99,10 @@
 
 ### Plugins / CSS in JS
 
-*   [CSS-modules (⭐136)](https://github.com/atfzl/eslint-plugin-css-modules) - Lint undefined or unused rules for css modules.
+*   [CSS-modules (⭐138)](https://github.com/atfzl/eslint-plugin-css-modules) - Lint undefined or unused rules for css modules.
 *   Styled Components
     *   [Better Styled Components (⭐63)](https://github.com/tinloof/eslint-plugin-better-styled-components) - Auto fixable ESlint's rules for styled components.
-    *   [styled-components-a11y (⭐128)](https://github.com/brendanmorrell/eslint-plugin-styled-components-a11y) - A11y for Styled Components.
+    *   [styled-components-a11y (⭐130)](https://github.com/brendanmorrell/eslint-plugin-styled-components-a11y) - A11y for Styled Components.
 
 ---
 

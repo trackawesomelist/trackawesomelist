@@ -10,8 +10,8 @@
 
 ### Community Extensions
 
-*   [Organizations for Keycloak by p2-inc (⭐157)](https://github.com/p2-inc/keycloak-orgs)
-*   [MagicLink Authenticator by p2-inc (⭐94)](https://github.com/p2-inc/keycloak-magic-link)
+*   [Organizations for Keycloak by p2-inc (⭐214)](https://github.com/p2-inc/keycloak-orgs)
+*   [MagicLink Authenticator by p2-inc (⭐129)](https://github.com/p2-inc/keycloak-magic-link)
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -23,7 +23,7 @@
 
 ### Tools and session management
 
-*   [t (⭐86)](https://github.com/joshmedeski/t-smart-tmux-session-manager) The smart tmux session manager
+*   [t (⭐184)](https://github.com/joshmedeski/t-smart-tmux-session-manager) The smart tmux session manager
 
 ## [4. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -62,11 +62,11 @@
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [Dissect (⭐644)](https://github.com/fox-it/dissect) - Dissect is a digital forensics & incident response framework and toolset that allows you to quickly access and analyse forensic artefacts from various disk and file formats, developed by Fox-IT (part of NCC Group).
+*   [Dissect (⭐710)](https://github.com/fox-it/dissect) - Dissect is a digital forensics & incident response framework and toolset that allows you to quickly access and analyse forensic artefacts from various disk and file formats, developed by Fox-IT (part of NCC Group).
 
 ### IR Tools Collection / Evidence Collection
 
-*   [Acquire (⭐23)](https://github.com/fox-it/acquire) - Acquire is a tool to quickly gather forensic artifacts from disk images or a live system into a lightweight container. This makes Acquire an excellent tool to, among others, speedup the process of digital forensic triage. It uses [Dissect (⭐644)](https://github.com/fox-it/dissect) to gather that information from the raw disk, if possible.
+*   [Acquire (⭐48)](https://github.com/fox-it/acquire) - Acquire is a tool to quickly gather forensic artifacts from disk images or a live system into a lightweight container. This makes Acquire an excellent tool to, among others, speedup the process of digital forensic triage. It uses [Dissect (⭐710)](https://github.com/fox-it/dissect) to gather that information from the raw disk, if possible.
 
 ## [6. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
@@ -82,13 +82,13 @@
 
 ### ORM and Datamapping
 
-*   [walex (⭐91)](https://github.com/cpursley/walex) - PostgreSQL Change Data Capture (CDC) events listener in Elixir.
+*   [walex (⭐143)](https://github.com/cpursley/walex) - PostgreSQL Change Data Capture (CDC) events listener in Elixir.
 
 ## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Caching
 
-*   [06chaynes/http-cache](https://github.com/06chaynes/http-cache) \[[http-cache](https://crates.io/crates/http-cache)] - A caching middleware that follows HTTP caching rules [![build badge](https://github.com/06chaynes/http-cache/workflows/Rust/badge.svg)](https://github.com/06chaynes/http-cache/actions/workflows/rust.yml)
+*   [06chaynes/http-cache (⭐44)](https://github.com/06chaynes/http-cache) \[[http-cache](https://crates.io/crates/http-cache)] - A caching middleware that follows HTTP caching rules [![build badge](https://github.com/06chaynes/http-cache/workflows/http-cache/badge.svg)](https://github.com/06chaynes/http-cache/actions/workflows/http-cache.yml)
 
 ## [9. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -104,7 +104,7 @@
 
 ### Software / Automation
 
-*   [SickChill](https://sickchill.github.io/) - SickChill is an automatic video library manager for TV shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic. ([Source Code (⭐2.3k)](https://github.com/SickChill/SickChill)) `GPL-3.0` `Python`
+*   [SickChill](https://sickchill.github.io/) - SickChill is an automatic video library manager for TV shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic. ([Source Code (⭐2.4k)](https://github.com/SickChill/SickChill)) `GPL-3.0` `Python/Docker`
 
 ### Software / Communication - Email - Mail Transfer Agents
 
@@ -112,17 +112,17 @@
 
 ### Software / Software Development - Low Code
 
-*   [PocketBase](https://pocketbase.io/) - Open Source backend for your next SaaS and Mobile app in 1 file. ([Source Code (⭐23k)](https://github.com/pocketbase/pocketbase)) `MIT` `Go/Docker`
+*   [PocketBase](https://pocketbase.io/) - Open Source backend for your next SaaS and Mobile app in 1 file. ([Source Code (⭐26k)](https://github.com/pocketbase/pocketbase)) `MIT` `Go/Docker`
 
 ## [11. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
 ### Libraries / Rust
 
 *   Rust: Game Framework
-    *   🎉 [Ambient (⭐3.1k)](https://github.com/AmbientRun/Ambient) - Multiplayer game engine.
-    *   🎉 [Amethyst (⭐7.9k)](https://github.com/amethyst/amethyst) - Data-driven 2D/3D game engine aiming to be fast and configurable.
-    *   🎉 [Bevy (⭐23k)](https://github.com/bevyengine/bevy) 🔥 - Refreshingly simple data-driven 2D/3D game engine. \[[Website](https://bevyengine.org)]
-    *   🎉 [Macroquad (⭐2.2k)](https://github.com/not-fl3/macroquad) - Easy to use game library, heavily inspired by RayLib.
+    *   🎉 [Ambient (⭐3.5k)](https://github.com/AmbientRun/Ambient) - Multiplayer game engine.
+    *   🎉 [Amethyst (⭐8k)](https://github.com/amethyst/amethyst) - Data-driven 2D/3D game engine aiming to be fast and configurable.
+    *   🎉 [Bevy (⭐28k)](https://github.com/bevyengine/bevy) 🔥 - Refreshingly simple data-driven 2D/3D game engine. \[[Website](https://bevyengine.org)]
+    *   🎉 [Macroquad (⭐2.4k)](https://github.com/not-fl3/macroquad) - Easy to use game library, heavily inspired by RayLib.
 
 ## [12. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
@@ -132,15 +132,15 @@
 
 ## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [confer (⭐3)](https://github.com/SleepyBag/zsh-confer) - Tries to find program configuration files automatically so you can do things like `conf vim` to edit your `vim` configuration files.
 *   [setpath (⭐0)](https://github.com/mys721tx/set_path) - Adds some local paths to your `fpath` and `$PATH`.
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [ho-my-zsh (⭐1)](https://github.com/Mboukhal/hoMyZsh_theme) - Includes decorators for current directory and `git` information.
-*   [parrot (⭐4)](https://github.com/trabdlkarim/parrot-zsh-theme) - Based on Parrot OS bash theme. Includes decorators for user\@host, `git` information, exit status of last command, time and current directory.
+*   [parrot (⭐5)](https://github.com/trabdlkarim/parrot-zsh-theme) - Based on Parrot OS bash theme. Includes decorators for user\@host, `git` information, exit status of last command, time and current directory.
 
 ## [14. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
@@ -158,10 +158,10 @@
 *   [Spoon](https://spoon.gforge.inria.fr) — Spoon is a metaprogramming library to analyze and transform Java source code (incl Java 9, 10, 11, 12, 13, 14). It parses source files to build a well-designed AST with powerful analysis and transformation API. Can be integrated in Maven and Gradle.
 *   [JSPrime](https://dpnishant.github.io/jsprime) :warning: — Static security analysis tool.
 *   [retire.js](https://retirejs.github.io/retire.js) — Scanner detecting the use of JavaScript libraries with known vulnerabilities.
-*   [Mondrian](https://trismegiste.github.io/Mondrian) — A set of static analysis and refactoring tools which use graph theory.
+*   [Mondrian](https://trismegiste.github.io/Mondrian) :warning: — A set of static analysis and refactoring tools which use graph theory.
 *   [PHP Refactoring Browser](https://qafoolabs.github.io/php-refactoring-browser) — Refactoring helper.
 *   [goodpractice](https://mangothecat.github.io/goodpractice) — Analyses the source code for R packages and provides best-practice recommendations.
-*   [electrolysis](https://kha.github.io/electrolysis) — A tool for formally verifying Rust programs by transpiling them into definitions in the Lean theorem prover.
+*   [electrolysis](https://kha.github.io/electrolysis) :warning: — A tool for formally verifying Rust programs by transpiling them into definitions in the Lean theorem prover.
 
 ### Multiple languages / [Other](#other-1)
 

@@ -16,7 +16,7 @@
 
 ### Docker Related
 
-*   [Play with Docker](https://labs.play-with-docker.com/) — A simple, interactive and fun playground to learn Docker.
+*   [Play with Docker](https://labs.play-with-docker.com/) — A simple, interactive, fun playground to learn Docker.
 
 ## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -35,24 +35,24 @@
 ### Code Formatting
 
 *   [RuboCop (⭐12k)](https://github.com/rubocop-hq/rubocop) - A static code analyzer, based on the community Ruby style guide.
-    *   [Rubocop Rails (⭐711)](https://github.com/rubocop-hq/rubocop-rails) - A RuboCop extension focused on enforcing Rails best practices and coding conventions.
-    *   [Rubocop Rspec (⭐745)](https://github.com/rubocop-hq/rubocop-rspec) - Code style checking for RSpec files
-    *   [Rubocop Performance (⭐540)](https://github.com/rubocop-hq/rubocop-performance) - A RuboCop extension focused on code performance checks.
+    *   [Rubocop Rails (⭐742)](https://github.com/rubocop-hq/rubocop-rails) - A RuboCop extension focused on enforcing Rails best practices and coding conventions.
+    *   [Rubocop Rspec (⭐765)](https://github.com/rubocop-hq/rubocop-rspec) - Code style checking for RSpec files
+    *   [Rubocop Performance (⭐589)](https://github.com/rubocop-hq/rubocop-performance) - A RuboCop extension focused on code performance checks.
 
 ### Core Extensions
 
 *   Attributes
     *   [ActiveAttr (⭐1.2k)](https://github.com/cgriego/active_attr) - What ActiveModel left out.
     *   [Virtus (⭐3.8k)](https://github.com/solnic/virtus) - Attributes on Steroids for Plain Old Ruby Objects.
-    *   [AttrExtras (⭐550)](https://github.com/barsoom/attr_extras) - Takes some boilerplate out of Ruby with methods like attr\_initialize.
+    *   [AttrExtras (⭐551)](https://github.com/barsoom/attr_extras) - Takes some boilerplate out of Ruby with methods like attr\_initialize.
 
 ### Date and Time Processing
 
-*   [working\_hours (⭐518)](https://github.com/intrepidd/working_hours) - A modern ruby gem allowing to do time calculation with working hours.
+*   [working\_hours (⭐522)](https://github.com/intrepidd/working_hours) - A modern ruby gem allowing to do time calculation with working hours.
 
 ### Form Builder
 
-*   [Rapidfire (⭐306)](https://github.com/code-mancers/rapidfire) - Making dynamic surveys should be easy!
+*   [Rapidfire (⭐310)](https://github.com/code-mancers/rapidfire) - Making dynamic surveys should be easy!
 
 ### Scientific
 
@@ -90,7 +90,7 @@
 
 ### Alert & Action Sheet
 
-*   [CleanyModal (⭐487)](https://github.com/loryhuz/CleanyModal) - Use nice customized alerts and action sheets with ease, API is similar to native UIAlertController.
+*   [CleanyModal (⭐490)](https://github.com/loryhuz/CleanyModal) - Use nice customized alerts and action sheets with ease, API is similar to native UIAlertController.
 
 ## [11. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
@@ -98,8 +98,7 @@
 
 *   [backbone](https://CRAN.R-project.org/package=backbone) - Provides methods for binarizing a weighted network retaining only significant edges.
     *   [Introduction to the backbone package](https://arxiv.org/abs/1912.12779)
-*   [networkdata (⭐135)](https://github.com/schochastics/networkdata) - Includes 979 network datasets containing 2135 networks.
-*   [signnet (⭐21)](https://github.com/schochastics/signnet) Methods to analyse signed networks (structural balance, blockmodeling, centrality, etc.)
+*   [networkdata (⭐138)](https://github.com/schochastics/networkdata) - Includes 979 network datasets containing 2135 networks.
 *   [snahelper](https://CRAN.R-project.org/package=snahelper) - RStudio addin which provides a GUI to visualize and analyse networks
     *   [Introduction to snahelper (Part 1)](http://blog.schochastics.net/post/an-rstudio-addin-for-network-analysis-and-visualization/)
     *   [Introduction to snahelper (Part 2)](http://blog.schochastics.net/post/new-rstudio-addins-for-network-analysis/)
@@ -108,11 +107,11 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Auto\_ViML (⭐431)](https://github.com/AutoViML/Auto_ViML) -> Automatically Build Variant Interpretable ML models fast! Auto\_ViML is pronounced "auto vimal", is a comprehensive and scalable Python AutoML toolkit with imbalanced handling, ensembling, stacking and built-in feature selection. Featured in <a href="https://towardsdatascience.com/why-automl-is-an-essential-new-tool-for-data-scientists-2d9ab4e25e46?source=friends_link&sk=d03a0cc55c23deb497d546d6b9be0653">Medium article</a>.
+*   [Auto\_ViML (⭐462)](https://github.com/AutoViML/Auto_ViML) -> Automatically Build Variant Interpretable ML models fast! Auto\_ViML is pronounced "auto vimal", is a comprehensive and scalable Python AutoML toolkit with imbalanced handling, ensembling, stacking and built-in feature selection. Featured in <a href="https://towardsdatascience.com/why-automl-is-an-essential-new-tool-for-data-scientists-2d9ab4e25e46?source=friends_link&sk=d03a0cc55c23deb497d546d6b9be0653">Medium article</a>.
 
 ### Python / Data Analysis / Data Visualization
 
-*   [AutoViz (⭐1.3k)](https://github.com/AutoViML/AutoViz) AutoViz performs automatic visualization of any dataset with a single line of Python code. Give it any input file (CSV, txt or JSON) of any size and AutoViz will visualize it. See <a href="https://towardsdatascience.com/autoviz-a-new-tool-for-automated-visualization-ec9c1744a6ad?source=friends_link&sk=c9e9503ec424b191c6096d7e3f515d10">Medium article</a>.
+*   [AutoViz (⭐1.4k)](https://github.com/AutoViML/AutoViz) AutoViz performs automatic visualization of any dataset with a single line of Python code. Give it any input file (CSV, txt or JSON) of any size and AutoViz will visualize it. See <a href="https://towardsdatascience.com/autoviz-a-new-tool-for-automated-visualization-ec9c1744a6ad?source=friends_link&sk=c9e9503ec424b191c6096d7e3f515d10">Medium article</a>.
 
 ## [13. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
@@ -126,11 +125,11 @@
 
 ### Navigation
 
-*   [Icings/Menu plugin](https://github.com/icings/menu) - A [KnpMenu (⭐1.3k)](https://github.com/KnpLabs/KnpMenu) seasoned menu plugin for CakePHP.
+*   🍰 [Icings/Menu plugin (⭐10)](https://github.com/icings/menu) - A [KnpMenu (⭐1.4k)](https://github.com/KnpLabs/KnpMenu) seasoned menu plugin for CakePHP.
 
 ### Search
 
-*   [Search plugin (⭐156)](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
+*   🍰 [Search plugin (⭐165)](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
 
 ## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -148,7 +147,7 @@
 
 ### Bindings
 
-*   [ash (⭐1.3k)](https://github.com/MaikKlein/ash) - Vulkan bindings for Rust. \[MIT]
+*   [ash (⭐1.5k)](https://github.com/MaikKlein/ash) - Vulkan bindings for Rust. \[MIT]
 
 ## [17. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 

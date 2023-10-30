@@ -30,24 +30,24 @@
 
 ### Filesystem
 
-*   [Whaler (⭐878)](https://github.com/P3GLEG/Whaler)\
+*   [Whaler (⭐961)](https://github.com/P3GLEG/Whaler)\
     Whaler is designed to reverse engineer a Docker Image into the Dockerfile that created it.
 
 ### Dashboard
 
-*   [Liman (⭐544)](https://github.com/salihciftci/liman)\
+*   [Liman (⭐554)](https://github.com/salihciftci/liman)\
     Basic docker monitoring web application.
 
 ### Security / Tools
 
-*   [docker-explorer (⭐455)](https://github.com/google/docker-explorer/)\
+*   [docker-explorer (⭐485)](https://github.com/google/docker-explorer/)\
     A tool to help forensicate offline docker acquisitions.
 
 ## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Build Automation
 
-*   [LocalAppVeyor (⭐118)](https://github.com/joaope/LocalAppVeyor) - Run your AppVeyor builds, locally.
+*   [LocalAppVeyor (⭐122)](https://github.com/joaope/LocalAppVeyor) - Run your AppVeyor builds, locally.
 
 ## [5. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Image Processing
 
-*   [TinyEXIF (⭐88)](https://github.com/cdcseacave/TinyEXIF) - Tiny ISO-compliant C++ EXIF and XMP parsing library for JPEG. \[MIT]
+*   [TinyEXIF (⭐93)](https://github.com/cdcseacave/TinyEXIF) - Tiny ISO-compliant C++ EXIF and XMP parsing library for JPEG. \[MIT]
 
 ---
 

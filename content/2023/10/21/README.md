@@ -1,24 +1,30 @@
 # Awesome List Updates on Oct 21, 2023
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [1. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
+
+### Useful links with tips & tricks
+
+*   [How to Use GitHub as a Wiki: Examples & Templates](https://almanac.io/blog/github-wiki-examples-templates)
+
+## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Configuration
 
 *   [toml11 (⭐836)](https://github.com/ToruNiina/toml11) -  a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library. \[MIT]
 
-## [2. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+## [3. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ### Clearnet & Anonymous Networking / DNS
 
 *   [dnscrypt-proxy](https://forum.qubes-os.org/t/guide-how-to-setup-a-sys-dns-qube/13749) -  Run dnscrypt-proxy inside of sys-net to encrypt and secure dns-requests.
 
-## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -28,14 +34,17 @@
 
 *   [niuiic/terminal.nvim (⭐0)](https://github.com/niuiic/terminal.nvim) - Manage terminal as buffer, multiple terminals support.
 
-## [4. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
+## [5. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
-### C++
+### Logo Generator
 
-*   [cpp.chat](https://cpp.chat) - Jon Kalb, Phil Nash (podcast)
-*   [No Diagnostic Required](https://nodiagnosticrequired.tv) - Anastasia Kazakova, Phil Nash (podcast)
+*   [Looka](https://looka.com/) - Use Looka's AI-powered platform to design a logo and build a brand you love. `#free`
 
-## [5. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+### Video Generator
+
+*   [Pictory AI](https://pictory.ai/) - Pictory AI is a video creation tool that makes it effortless to produce short videos from your long-form content like scripts, posts `#paid`
+
+## [6. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Party
 
@@ -96,9 +105,6 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 4 |       10 |  30m |
-
-### Contribute
-
 ### [Kemet](https://boardgamegeek.com/boardgame/127023/kemet)
 
 > Kemet is a thrilling and strategic board game set in the mystical world of ancient Egypt. Players take on the roles of different Egyptian tribes vying for dominance. The game is known for its asymmetric powers, offering each tribe unique abilities and strengths. The goal is to build a powerful army, engage in epic battles, and conquer temples to gain victory points. With its rich theme, engaging battles, and diverse strategies, Kemet offers a dynamic and competitive gaming experience, where only the most cunning and powerful tribe will emerge victorious.
@@ -109,15 +115,13 @@
 | ------: | -------: | ---: |
 |   2 - 5 |       13 |  90m |
 
-Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
-
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Money, Budgeting & Management
 
 *   [Galette](https://galette.eu/) - Galette is a membership management web application towards non profit organizations. ([Source Code](https://git.tuxfamily.org/galette/galette.git/)) `GPL-3.0` `PHP`
 
-## [7. Magictools](/content/ellisonleao/magictools/README.md)
+## [8. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Communities / Voxel Editors
 
@@ -128,7 +132,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 *   [Brackeys Forum](https://forum.brackeys.com/)
 *   [GameDev.tv](https://community.gamedev.tv/)
 
-## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Cheatsheet
 
@@ -174,4 +178,5 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ---
 
+- Prev: [Oct 22, 2023](/content/2023/10/22/README.md)
 - Next: [Oct 20, 2023](/content/2023/10/20/README.md)

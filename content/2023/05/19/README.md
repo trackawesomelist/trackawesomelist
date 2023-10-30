@@ -1,6 +1,6 @@
 # Awesome List Updates on May 19, 2023
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Front-End Development
 
-*   [Tiny JS (⭐301)](https://github.com/thoughtspile/awesome-tiny-js#readme) - Frontend libraries that fit into 2 kB with dependencies.
+*   [Tiny JS (⭐560)](https://github.com/thoughtspile/awesome-tiny-js#readme) - Frontend libraries that fit into 2 kB with dependencies.
 
 ## [2. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -25,27 +25,27 @@
 *   [How to Build a YouTube Video Query AI Model on Wardley Mapping with Python and OpenAI](https://medium.com/prompt-engineering/how-to-build-a-youtube-video-query-ai-model-with-python-and-openai-5b4b26cf9411) - Blog post on how to create a question & answer application AI app using OpenAI, Streamlit and Python. Full source code provided.
 *   [How to Create a Powerful Chatbot in Minutes with Streamlit and OpenAI GPT-3.5](https://medium.com/prompt-engineering/how-to-create-a-powerful-chatbot-in-minutes-with-streamlit-and-openai-gpt-3-5-7954e8e05db0) - Blog post on how to create a Wardley Map chatbot using OpenAI, Streamlit and Python. Full source code provided.
 
-### Tools & Scripts / Commercial Enterprise Platforms
+### Tools & Scripts / AI
 
-*   [Convert WM format to JSON](https://wm2json.streamlit.app/) - A simple streamlit app to convert the onlinewardleymaps wm format to JSON.
-*   [Chat with your Map](https://chatwithwardleymap.streamlit.app/) - An OpenAI/Streamlit/Python application to chat to your Wardley Map. It pulls your Wardley Map from onlinewardleymaps and you can have an AI chat with your map.
-*   [Q\&A with Simon Wardley Videos](https://simongpt.streamlit.app/) - An OpenAI/Streamlit/Python application to ask any question about Wardley Mapping from any of Simon's videos on YouTube. It pulls the transscripts from YouTube and you can have an AI chat with the video.
-*   [Q\&A with Wardley Community Videos](https://wardleygpt.streamlit.app/) - An OpenAI/Streamlit/Python application to ask any question about Wardley Mapping from any of the community videos on YouTube. It pulls the transscripts from YouTube and you can have an AI chat with the video.
-*   [Chat with WardleyGPT](https://wardleychatbot.streamlit.app/) - An OpenAI/Streamlit/Python application to have a chat with WardleyGPT.
+*   [Chat with your Map](https://chatwithwardleymap.streamlit.app/) - Chat to your Wardley Map. It pulls your Wardley Map from OnlineWardleyMaps or GitHub and you can have an AI chat with your map. It creates structured output that can be downloaded and used within documents. It highlights key responses that you can follow up.
+
+### Tools & Scripts / Development
+
+*   [Convert WM format to JSON](https://wm2json.streamlit.app/) - A simple streamlit app to convert the OnlineWardleyMaps OWM format to JSON.
 
 ## [4. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ### Tools / Services
 
-*   [Lanarky (⭐200)](https://github.com/ajndkr/lanarky): 🚢 Ship production-ready LLM projects with FastAPI ![GitHub Repo stars](https://img.shields.io/github/stars/ajndkr/lanarky?style=social)
+*   [Lanarky (⭐830)](https://github.com/ajndkr/lanarky): 🚢 Ship production-ready LLM projects with FastAPI ![GitHub Repo stars](https://img.shields.io/github/stars/ajndkr/lanarky?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [Chat with Scanned Documents (⭐0)](https://github.com/tony-xlh/Chat-with-Scanned-Documents): A demo chatting with documents scanned with Dynamic Web TWAIN.
+*   [Chat with Scanned Documents (⭐1)](https://github.com/tony-xlh/Chat-with-Scanned-Documents): A demo chatting with documents scanned with Dynamic Web TWAIN.
 
 ### Learn / Notebooks
 
-*   [BYO Knowledge Graph (⭐105)](https://github.com/prof-frink-lab/slangchain/blob/main/docs/modules/knowledge_graph/examples/byo_knowledge_graph.ipynb)
+*   [BYO Knowledge Graph (⭐126)](https://github.com/prof-frink-lab/slangchain/blob/main/docs/modules/knowledge_graph/examples/byo_knowledge_graph.ipynb)
 
 ## [5. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
@@ -55,19 +55,19 @@
 
 ## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Large Language Models / Contribute to Our Repository
+### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
-*   [togethercomputer/OpenChatKit (⭐8.3k)](https://github.com/togethercomputer/OpenChatKit): provides an open-source base to create both specialized and general purpose chatbots for various applications
+*   [togethercomputer/OpenChatKit (⭐8.9k)](https://github.com/togethercomputer/OpenChatKit): provides an open-source base to create both specialized and general purpose chatbots for various applications
 
-### Inbox: Large Language Models / Autonomous LLM Agents
+### Inbox: Large Language Models (LLMs) / Autonomous LLM Agents
 
-*   [Vercel for AI agents (⭐4.8k)](https://github.com/e2b-dev/e2b): "help developers to build, deploy, and monitor AI agents, focusing on specialized AI agents that build software for you - your personal software developers"
+*   [Vercel for AI agents (⭐5.5k)](https://github.com/e2b-dev/e2b): "help developers to build, deploy, and monitor AI agents, focusing on specialized AI agents that build software for you - your personal software developers"
 
 ### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-text
 
-*   [timqian/openprompt.co (⭐911)](https://github.com/timqian/openprompt.co): Create. Use. Share. ChatGPT prompts
+*   [timqian/openprompt.co (⭐1.1k)](https://github.com/timqian/openprompt.co): Create. Use. Share. ChatGPT prompts
 *   [60 ChatGPT Prompts for Data Science (Tried, Tested, and Rated)](https://medium.datadriveninvestor.com/60-chatgpt-prompts-for-data-science-tried-tested-and-rated-4994c7e6adb2): post by Travis Tang from DataDrivenInvestor
-*   [f/awesome-chatgpt-prompts (⭐75k)](https://github.com/f/awesome-chatgpt-prompts): this repo includes ChatGPT prompt curation to use ChatGPT better
+*   [f/awesome-chatgpt-prompts (⭐91k)](https://github.com/f/awesome-chatgpt-prompts): this repo includes ChatGPT prompt curation to use ChatGPT better
 
 ### Image Synthesis / Generative Adversarial Networks (GANs)
 
@@ -77,15 +77,15 @@
 
 *   [Nathan Lands on Twitter: "AI video has started to produce mindblowing results and could eventually disrupt Hollywood / Twitter](https://twitter.com/NathanLands/status/1659195191591596033): Twitter thread with examples of Generative AI tools for video
 
-### Inbox: Developing + AI / Generative Adversarial Networks (GANs)
+### Inbox: DEV + AI / Generative Adversarial Networks (GANs)
 
-*   [e2b-dev/e2b (⭐4.8k)](https://github.com/e2b-dev/e2b): "Open-source platform for building AI-powered virtual software developers"
+*   [e2b-dev/e2b (⭐5.5k)](https://github.com/e2b-dev/e2b): "Open-source platform for building AI-powered virtual software developers"
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
-*   [Pinggy](https://pinggy.io) — Public URLs for localhost with a single command, no downloads required. HTTPS / TCP / TLS tunnels. Free plan has 60 minutes tunnel life time.
+*   [Pinggy](https://pinggy.io) — Public URLs for localhost with a single command, no downloads required. HTTPS / TCP / TLS tunnels. The free plan has 60 minutes tunnel lifetime.
 
 ## [8. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -137,41 +137,36 @@
   Description: Convert your source code into awesome shareable images
 
 
-- Website: [yuyu.ai](https://yuyu.ai/)
-
-  Description: Is a frontend ai tool to generate html and css instantly from a jpg or png file.
-
-
 
 ## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Utility / Diagnostics
 
-*   [RutaTang/compter.nvim (⭐1)](https://github.com/RutaTang/compter.nvim) - Power and extend the ability of `<C-a>` and `<C-x>` with customized patterns.
+*   [RutaTang/compter.nvim (⭐20)](https://github.com/RutaTang/compter.nvim) - Power and extend the ability of `<C-a>` and `<C-x>` with customized patterns.
 
 ## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [archlinux (fourdim) (⭐0)](https://github.com/fourdim/zsh-archlinux) - Defines helper functions for `pacman` on Arch Linux.
-*   [archlinux (junker) (⭐7)](https://github.com/Junker/zsh-archlinux) - Based on the oh-my-zsh [archlinux (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/archlinux) plugin. Defines helper functions and aliases.
-*   [bob (⭐1)](https://github.com/wintermi/zsh-bob) - Plugin for [bob (⭐626)](https://github.com/MordechaiHadad/bob) a cross-platform and easy-to-use Neovim version manager.
-*   [fnm (dominik-schwabe) (⭐14)](https://github.com/dominik-schwabe/zsh-fnm) - Installs and loads the [Fast Node Manager (fnm) (⭐12k)](https://github.com/Schniz/fnm) if it is missing.
-*   [fnm (wintermi) (⭐2)](https://github.com/wintermi/zsh-fnm) - Helper plugin for the fast and simple Node.js version manager [fnm (⭐12k)](https://github.com/Schniz/fnm).
-*   [vivid (⭐2)](https://github.com/ryanccn/vivid-zsh) - Make it easier to use `LSCOLORS` with [vivid (⭐1.3k)](https://github.com/sharkdp/vivid).
+*   [archlinux (junker) (⭐8)](https://github.com/Junker/zsh-archlinux) - Based on the oh-my-zsh [archlinux (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/archlinux) plugin. Defines helper functions and aliases.
+*   [bob (⭐1)](https://github.com/wintermi/zsh-bob) - Plugin for [bob (⭐895)](https://github.com/MordechaiHadad/bob) a cross-platform and easy-to-use Neovim version manager.
+*   [fnm (dominik-schwabe) (⭐14)](https://github.com/dominik-schwabe/zsh-fnm) - Installs and loads the [Fast Node Manager (fnm) (⭐14k)](https://github.com/Schniz/fnm) if it is missing.
+*   [fnm (wintermi) (⭐2)](https://github.com/wintermi/zsh-fnm) - Helper plugin for the fast and simple Node.js version manager [fnm (⭐14k)](https://github.com/Schniz/fnm).
+*   [vivid (⭐3)](https://github.com/ryanccn/vivid-zsh) - Make it easier to use `LSCOLORS` with [vivid (⭐1.4k)](https://github.com/sharkdp/vivid).
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [poetry (⭐0)](https://github.com/fourdim/zsh-poetry) - Tab completions for [poetry](https://python-poetry.org/).
+*   [poetry (⭐1)](https://github.com/fourdim/zsh-poetry) - Tab completions for [poetry](https://python-poetry.org/).
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [firefoxic (⭐0)](https://github.com/firefoxic/firefoxic-zsh-theme/) - Fork of [Bureau (⭐31)](https://github.com/isqua/bureau) with tweaks to the node and `git` decorators.
+*   [firefoxic (⭐0)](https://github.com/firefoxic/firefoxic-zsh-theme/) - Fork of [Bureau (⭐33)](https://github.com/isqua/bureau) with tweaks to the node and `git` decorators.
 *   [renanborgez (⭐2)](https://github.com/renanborgez/ohmyzsh-theme-renanborgez) - Works well on dark backgrounds. Includes decorators for `nvm` and `git` information.
 
 ## [11. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
-### Other Development Tools / Nodes and Indexers
+### Nodes & Consensus Participation / Wallets
 
 *   [AlgoNode](https://algonode.io) - Free Node/Indexer APIs, Node running FAQ, Node/Indexer daily snapshots.
 
@@ -266,13 +261,7 @@
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [mikhail-bigun/go-app-template (⭐2)](https://github.com/mikhail-bigun/go-app-template) - Clean architecture Go application boilerplate with enriched Fiber implementation.
-
-## [15. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
-
-### Tools / Vendor supported providers
-
-*   [tfrepl (⭐8)](https://github.com/andreineculau/tfrepl) - A Terraform REPL, giving you a full shell experience. Readline based. No dependencies. Save config changes. History.
+*   [mikhail-bigun/go-app-template (⭐5)](https://github.com/mikhail-bigun/go-app-template) - Clean architecture Go application boilerplate with enriched Fiber implementation.
 
 ---
 

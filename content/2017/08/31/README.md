@@ -16,18 +16,18 @@
 
 ### Browser automation
 
-*   [Selenium (⭐25k)](https://github.com/SeleniumHQ/selenium) - Browser automation framework and ecosystem.
+*   [Selenium (⭐27k)](https://github.com/SeleniumHQ/selenium) - Browser automation framework and ecosystem.
 *   [SlimerJS (⭐3k)](https://github.com/laurentj/slimerjs) - Scriptable browser like PhantomJS, based on Firefox.
-*   [Webdriver.io (⭐7.8k)](https://github.com/webdriverio/webdriverio/) - Node.js bindings implementation for the W3C WebDriver protocol.
+*   [Webdriver.io (⭐8.2k)](https://github.com/webdriverio/webdriverio/) - Node.js bindings implementation for the W3C WebDriver protocol.
 
 ### Tools and frameworks
 
-*   [gatling (⭐53)](https://github.com/gabrielrotbart/gatling) - Integrated visual RSpec matcher which makes real visual testing easy (Ruby).
-*   [vrtest (⭐11)](https://github.com/nathanmarks/vrtest) - JavaScript library for running visual regression tests on your components cross browser via selenium.
+*   [gatling (⭐54)](https://github.com/gabrielrotbart/gatling) - Integrated visual RSpec matcher which makes real visual testing easy (Ruby).
+*   [vrtest (⭐13)](https://github.com/nathanmarks/vrtest) - JavaScript library for running visual regression tests on your components cross browser via selenium.
 
 ### Online services
 
-*   [BrowserStack](https://www.browserstack.com) - Free for Open Source. Supports [Selenium Webdriver (⭐25k)](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
+*   [BrowserStack](https://www.browserstack.com) - Free for Open Source. Supports [Selenium Webdriver (⭐27k)](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
 *   [screener.io](https://screener.io) - For React, looks open source.
 *   [applitools](https://applitools.com) - Cloud base visual tests.
 *   [percy.io](https://percy.io) - Continuous visual reviews for web apps.
@@ -47,7 +47,7 @@
 
 ### Command-Line Productivity
 
-*   [has (⭐490)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
+*   [has (⭐529)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
 
 ## [4. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
@@ -59,7 +59,7 @@
 
 ### Video / Barcode
 
-*   [MMPlayerView (⭐726)](https://github.com/MillmanY/MMPlayerView) - Custom AVPlayerLayer on view and transition player with good effect like YouTube and Facebook.
+*   [MMPlayerView (⭐729)](https://github.com/MillmanY/MMPlayerView) - Custom AVPlayerLayer on view and transition player with good effect like YouTube and Facebook.
 
 ## [6. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 
@@ -166,7 +166,7 @@
 
 ### Packages / Command-line utilities
 
-*   [gradient-string (⭐915)](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
+*   [gradient-string (⭐964)](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
 
 ## [13. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
 

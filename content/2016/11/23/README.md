@@ -10,7 +10,7 @@
 
 ### Math / Other
 
-*   [Math snippets (⭐103)](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
+*   [Math snippets (⭐106)](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
 
 ## [2. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
@@ -97,7 +97,7 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [PdfReport.Core (⭐320)](https://github.com/VahidN/PdfReport.Core) - PdfReport.Core is a code first reporting engine, which is built on top of the iTextSharp.LGPLv2.Core and EPPlus.Core libraries.
+*   [PdfReport.Core (⭐346)](https://github.com/VahidN/PdfReport.Core) - PdfReport.Core is a code first reporting engine, which is built on top of the iTextSharp.LGPLv2.Core and EPPlus.Core libraries.
 
 ## [5. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
@@ -257,7 +257,7 @@
 
 ### Distributed Programming
 
-*   [Skale (⭐396)](https://github.com/skale-me/skale-engine) - High performance distributed data processing in NodeJS.
+*   [Skale (⭐397)](https://github.com/skale-me/skale-engine) - High performance distributed data processing in NodeJS.
 
 ## [8. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/README.md)
 
@@ -281,7 +281,7 @@
 
 ### Java / Git
 
-*   [keywhiz (⭐2.5k)](https://github.com/square/keywhiz) - A system for distributing and managing secrets.
+*   [keywhiz (⭐2.6k)](https://github.com/square/keywhiz) - A system for distributing and managing secrets.
 
 ## [11. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 

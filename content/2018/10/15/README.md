@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 15, 2018
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -25,7 +25,7 @@
 ### Browser Extensions
 
 *   [HTTPS Everywhere](https://www.eff.org/https-everywhere) HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.
-*   [uBlock Origin (⭐33k)](https://github.com/gorhill/uBlock) :star2: An efficient blocker for Chromium and Firefox. Fast and lean.
+*   [uBlock Origin (⭐36k)](https://github.com/gorhill/uBlock) :star2: An efficient blocker for Chromium and Firefox. Fast and lean.
 
 ### Password Vaults
 
@@ -97,7 +97,7 @@
 
 ### Plex Plugins / Third Party Hosts
 
-*   [Sub-Zero.bundle (⭐1.5k)](https://github.com/pannal/Sub-Zero.bundle) :star2: Subtitles for Plex, as good you would expect them to be. (*read*: [plans for a world without Plex plugins](https://www.reddit.com/r/PleX/comments/9n9qjl/subzero_the_future/))
+*   [Sub-Zero.bundle (⭐1.6k)](https://github.com/pannal/Sub-Zero.bundle) :star2: Subtitles for Plex, as good you would expect them to be. (*read*: [plans for a world without Plex plugins](https://www.reddit.com/r/PleX/comments/9n9qjl/subzero_the_future/))
 
 ### Plex Requests / Third Party Hosts
 
@@ -127,7 +127,7 @@
 
 ### IRC Clients / Third Party Hosts
 
-*   [weechat (⭐2.6k)](https://github.com/weechat/weechat) :star2: The extensible chat client.
+*   [weechat (⭐2.7k)](https://github.com/weechat/weechat) :star2: The extensible chat client.
 
 ### Piracy Blogs and News / Third Party Hosts
 
@@ -139,7 +139,7 @@
 
 ### Dashboards and Homepages / Third Party Hosts
 
-*   [Organizr (⭐4k)](https://github.com/causefx/Organizr) :star2: HTPC/Homelab Services Organizer - Written in PHP
+*   [Organizr (⭐4.4k)](https://github.com/causefx/Organizr) :star2: HTPC/Homelab Services Organizer - Written in PHP
 
 ## [4. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -240,7 +240,7 @@
 
 ### Jobs
 
-- API: [Open Skills (⭐166)](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview)
+- API: [Open Skills (⭐183)](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview)
 
   Description: Job titles, skills and related jobs data
 
@@ -373,9 +373,9 @@
 
 ### Tools / Data
 
-*   [mongo\_fdw (⭐279)](https://github.com/EnterpriseDB/mongo_fdw) - PostgreSQL foreign data wrapper
-*   [Mongolastic (⭐137)](https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (and vice-versa) migration tool
-*   [MongoMultiMaster (⭐67)](https://github.com/rick446/mmm) - Multi-master replication
+*   [mongo\_fdw (⭐296)](https://github.com/EnterpriseDB/mongo_fdw) - PostgreSQL foreign data wrapper
+*   [Mongolastic (⭐135)](https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (and vice-versa) migration tool
+*   [MongoMultiMaster (⭐68)](https://github.com/rick446/mmm) - Multi-master replication
 
 ### Tools / Monitoring
 
@@ -387,55 +387,55 @@
 
 ### Applications / Web
 
-*   [GrandNode (⭐1.8k)](https://github.com/grandnode/grandnode) - Multi-platform e-commerce shopping cart built with ASP.NET
+*   [GrandNode (⭐1.9k)](https://github.com/grandnode/grandnode) - Multi-platform e-commerce shopping cart built with ASP.NET
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Authorization
 
-*   [speakeasy (⭐76)](https://github.com/coryodaniel/speakeasy) - Middleware based authentication and authorization for Absinthe GraphQL powered by Bodyguard.
+*   [speakeasy (⭐83)](https://github.com/coryodaniel/speakeasy) - Middleware based authentication and authorization for Absinthe GraphQL powered by Bodyguard.
 
 ### Domain-specific language
 
-*   [JSON-LD.ex (⭐59)](https://github.com/marcelotto/jsonld-ex) - An implementation of the [JSON-LD](http://www.w3.org/TR/json-ld/) standard for [RDF.ex (⭐86)](https://github.com/marcelotto/rdf-ex).
-*   [RDF.ex (⭐86)](https://github.com/marcelotto/rdf-ex) - An implementation of the [RDF](https://www.w3.org/TR/rdf11-primer/) data model in Elixir.
-*   [SPARQL.ex (⭐31)](https://github.com/marcelotto/sparql-ex) - An implementation of the [SPARQL](http://www.w3.org/TR/sparql11-overview/) standards in Elixir.
+*   [JSON-LD.ex (⭐63)](https://github.com/marcelotto/jsonld-ex) - An implementation of the [JSON-LD](http://www.w3.org/TR/json-ld/) standard for [RDF.ex (⭐88)](https://github.com/marcelotto/rdf-ex).
+*   [RDF.ex (⭐88)](https://github.com/marcelotto/rdf-ex) - An implementation of the [RDF](https://www.w3.org/TR/rdf11-primer/) data model in Elixir.
+*   [SPARQL.ex (⭐35)](https://github.com/marcelotto/sparql-ex) - An implementation of the [SPARQL](http://www.w3.org/TR/sparql11-overview/) standards in Elixir.
 
 ### Feature Flags and Toggles
 
-*   [fun\_with\_flags (⭐866)](https://github.com/tompave/fun_with_flags) - A feature toggle library using Redis or Ecto for persistence, an ETS cache for speed and PubSub for distributed cache busting. Comes with a management web UI for Phoenix and Plug.
+*   [fun\_with\_flags (⭐927)](https://github.com/tompave/fun_with_flags) - A feature toggle library using Redis or Ecto for persistence, an ETS cache for speed and PubSub for distributed cache busting. Comes with a management web UI for Phoenix and Plug.
 
 ### HTTP
 
-*   [sparql\_client (⭐24)](https://github.com/marcelotto/sparql_client) - A [SPARQL protocol](https://www.w3.org/TR/sparql11-protocol/) client for Elixir.
+*   [sparql\_client (⭐25)](https://github.com/marcelotto/sparql_client) - A [SPARQL protocol](https://www.w3.org/TR/sparql11-protocol/) client for Elixir.
 
 ### Instrumenting / Monitoring
 
-*   [spandex (⭐317)](https://github.com/spandex-project/spandex) - Platform agnostic tracing library originally developed for Datadog APM.
+*   [spandex (⭐323)](https://github.com/spandex-project/spandex) - Platform agnostic tracing library originally developed for Datadog APM.
 
 ### Miscellaneous
 
-*   [ratekeeper (⭐14)](https://github.com/whitered/ratekeeper) - Rate limiter and rate-limited actions scheduler.
+*   [ratekeeper (⭐13)](https://github.com/whitered/ratekeeper) - Rate limiter and rate-limited actions scheduler.
 
 ### ORM and Datamapping
 
 *   [ecto\_cassandra (⭐88)](https://github.com/cafebazaar/ecto-cassandra) - Cassandra DB Adapter for Ecto.
-*   [extreme (⭐125)](https://github.com/exponentially/extreme) - An Elixir library using [Eventstore](https://geteventstore.com) for persistence of events generated by aggregates (CQRS).
+*   [extreme (⭐126)](https://github.com/exponentially/extreme) - An Elixir library using [Eventstore](https://geteventstore.com) for persistence of events generated by aggregates (CQRS).
 *   [triton (⭐76)](https://github.com/blitzstudios/triton) - Pure Elixir Cassandra ORM built on top of Xandra.
-*   [xandra (⭐343)](https://github.com/lexhide/xandra) - Cassandra driver built natively in Elixir and focused on speed, simplicity, and robustness.
+*   [xandra (⭐353)](https://github.com/lexhide/xandra) - Cassandra driver built natively in Elixir and focused on speed, simplicity, and robustness.
 
 ### Search
 
-*   [elasticsearch (⭐401)](https://github.com/infinitered/elasticsearch-elixir) - A simple, no-nonsense Elasticsearch library for Elixir.
+*   [elasticsearch (⭐408)](https://github.com/infinitered/elasticsearch-elixir) - A simple, no-nonsense Elasticsearch library for Elixir.
 
 ### Text and Numbers
 
 *   [ex\_cldr (⭐1)](https://github.com/kipcole9/cldr) - Cldr is an Elixir library for the Unicode Consortium's Common Locale Data Repository (CLDR).
-*   [unit\_fun (⭐20)](https://github.com/meadsteve/unit_fun) - Attempt to add units to numbers in elixir to give some added type safety when dealing with numeric quantities.
+*   [unit\_fun (⭐21)](https://github.com/meadsteve/unit_fun) - Attempt to add units to numbers in elixir to give some added type safety when dealing with numeric quantities.
 
 ### Third Party APIs
 
-*   [google-cloud (⭐701)](https://github.com/GoogleCloudPlatform/elixir-google-api) - This repository contains all the client libraries to interact with Google APIs.
+*   [google-cloud (⭐720)](https://github.com/GoogleCloudPlatform/elixir-google-api) - This repository contains all the client libraries to interact with Google APIs.
 
 ## [7. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
@@ -461,33 +461,24 @@
 
 *   [Clearance (⭐3.6k)](https://github.com/thoughtbot/clearance) - Small and simple email & password based authentication for Rails.
 
-## [9. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
-
-### Videos
-
-*   [Distributed Apps with IPFS - Juan Benet at Fullstack Fest 2016](https://www.youtube.com/watch?v=jONZtXMu03w) - This talk breaks down how to build a dynamic app on top of IPFS with CRDTs, pub/sub, and slick UIs. It also delves into new models for distributed computation, and the ethical importance of distributing the web.
-*   [IPFS Simply Explained](https://www.youtube.com/watch?v=5Uj6uR3fp-U) - Let's take a look at how IPFS works, how it can solve issue's like censorship and if it would really work across multiple planets!
-*   [Juan Benet at Stanford 2015](https://www.youtube.com/watch?v=HUVmypx9HGI) - The talk includes a broad look at The IPFS Project, and a discussion on evolving the network stack through open source protocols R & D.
-*   [Textile Build Series - A Free Online Workshop](https://www.youtube.com/playlist?list=PLC8CEtJ9shDznO1tpvGe--BVEWmCKY9_Z) - A full Training Program to teach devs on how to build for the Decentralized Web. The series covers a ton of content, touch multiple parts of the IPFS stack and guides devs through building a simple DApp.
-
-## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Authentication
 
-*   [LinkedInSignIn (⭐34)](https://github.com/serhii-londar/LinkedInSignIn) - Simple view controller to log in and retrieve an access token from LinkedIn.
+*   [LinkedInSignIn (⭐35)](https://github.com/serhii-londar/LinkedInSignIn) - Simple view controller to log in and retrieve an access token from LinkedIn.
 
 ### Video / Barcode
 
-*   [Kitsunebi (⭐248)](https://github.com/noppefoxwolf/Kitsunebi) - Overlay alpha channel video animation player view using OpenGLES.
+*   [Kitsunebi (⭐256)](https://github.com/noppefoxwolf/Kitsunebi) - Overlay alpha channel video animation player view using OpenGLES.
 
-## [11. Bots](/content/hackerkid/bots/README.md)
+## [10. Bots](/content/hackerkid/bots/README.md)
 
 ### Tutorials / Go
 
 *   [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca).
 *   [A Beginner’s Guide To Your First Bot.](https://slackhq.com/a-beginners-guide-to-your-first-bot)
 
-## [12. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
+## [11. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 
 ### Articles
 

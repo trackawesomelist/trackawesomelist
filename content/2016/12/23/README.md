@@ -132,7 +132,7 @@
 
 ### Serialization
 
-*   [Hyperion (⭐269)](https://github.com/akkadotnet/Hyperion) - A high performance polymorphic serializer for the .NET framework.
+*   [Hyperion (⭐275)](https://github.com/akkadotnet/Hyperion) - A high performance polymorphic serializer for the .NET framework.
 
 ### Source Generator
 
@@ -142,7 +142,7 @@
 
 ### Time-Series Databases
 
-*   [Beringei (⭐3.1k)](https://github.com/facebookincubator/beringei) - Facebook's in-memory time-series database.
+*   [Beringei (⭐3.2k)](https://github.com/facebookincubator/beringei) - Facebook's in-memory time-series database.
 
 ---
 

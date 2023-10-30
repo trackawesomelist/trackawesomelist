@@ -16,26 +16,22 @@
 
 ### Software / Polls and Events
 
-*   [Bitpoll (⭐184)](https://github.com/fsinfuhh/Bitpoll) - A web application for scheduling meetings and general polling. ([Demo](https://bitpoll.de/)) `GPL-3.0` `Python`
+*   [Bitpoll (⭐199)](https://github.com/fsinfuhh/Bitpoll) - A web application for scheduling meetings and general polling. ([Demo](https://bitpoll.de/)) `GPL-3.0` `Docker/Python`
 
 ### Software / Search Engines
 
-*   [OpenSearch](https://opensearch.org) - Open source distributed and RESTful search engine. ([Source Code (⭐6.9k)](https://github.com/opensearch-project/OpenSearch)) `Apache-2.0` `Java`
-*   [Yacy](https://yacy.net/en/index.html) - Peer based, decentralized search engine server. ([Source Code (⭐2.9k)](https://github.com/yacy/yacy_search_server)) `GPL-2.0` `Java`
-
-### Software / Software Development - Project Management
-
-*   [GitPrep (⭐889)](https://github.com/yuki-kimoto/gitprep) - Portable Github clone. ([Demo](https://perlcodesample.sakura.ne.jp/gitprep/gitprep.cgi)) `Artistic-2.0` `Perl`
+*   [OpenSearch](https://opensearch.org) - Open source distributed and RESTful search engine. ([Source Code (⭐7.8k)](https://github.com/opensearch-project/OpenSearch)) `Apache-2.0` `Java/Docker/K8S/deb`
+*   [Yacy](https://yacy.net/en/index.html) - Peer based, decentralized search engine server. ([Source Code (⭐3.1k)](https://github.com/yacy/yacy_search_server)) `GPL-2.0` `Java/Docker/K8S`
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [activate-py-environment (⭐8)](https://github.com/se-jaeger/zsh-activate-py-environment) - Automagically detects and activates your python environments (`poetry`, `virtualenv` and `conda`) while traversing directories.
-*   [zbrowse (⭐8)](https://github.com/zdharma-continuum/zbrowse) - When doing shell work, it is often the case that `echo $variable` is invoked multiple times, to check the result of a loop, etc. With ZBrowse, you just need to press `Ctrl-B`, which invokes the ZBrowse – Zshell variable browser.
-*   [zimfw-extras (⭐0)](https://github.com/PatTheMav/zimfw-extras) - Custom extras for [zimfw (⭐3.1k)](https://github.com/zimfw/zimfw), packaged into a zimfw plugin.
-*   [zinit-annex-submods (⭐6)](https://github.com/z-shell/z-a-submods) - [zinit (⭐1.8k)](https://github.com/zdharma-continuum/zinit) extension that allows installing and managing additional submodules within a plugin or snippet.
-*   [zlong\_alert (⭐38)](https://github.com/kevinywlui/zlong_alert.zsh) - Uses `notify-send` and rings a bell to alert you when a command that has taken a long time (default: 15 seconds) has completed.
+*   [activate-py-environment (⭐9)](https://github.com/se-jaeger/zsh-activate-py-environment) - Automagically detects and activates your python environments (`poetry`, `virtualenv` and `conda`) while traversing directories.
+*   [zbrowse (⭐10)](https://github.com/zdharma-continuum/zbrowse) - When doing shell work, it is often the case that `echo $variable` is invoked multiple times, to check the result of a loop, etc. With ZBrowse, you just need to press `Ctrl-B`, which invokes the ZBrowse – Zshell variable browser.
+*   [zimfw-extras (⭐0)](https://github.com/PatTheMav/zimfw-extras) - Custom extras for [zimfw (⭐3.3k)](https://github.com/zimfw/zimfw), packaged into a zimfw plugin.
+*   [zinit-annex-submods (⭐6)](https://github.com/z-shell/z-a-submods) - [zinit (⭐2.1k)](https://github.com/zdharma-continuum/zinit) extension that allows installing and managing additional submodules within a plugin or snippet.
+*   [zlong\_alert (⭐40)](https://github.com/kevinywlui/zlong_alert.zsh) - Uses `notify-send` and rings a bell to alert you when a command that has taken a long time (default: 15 seconds) has completed.
 
 ## [4. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -66,11 +62,11 @@
 
 ### Templates / Electron
 
-*   [vite-plugin-electron-renderer (⭐50)](https://github.com/electron-vite/vite-plugin-electron-renderer) - Support use Node.js API in Electron-Renderer.
+*   [vite-plugin-electron-renderer (⭐78)](https://github.com/electron-vite/vite-plugin-electron-renderer) - Support use Node.js API in Electron-Renderer.
 
 ### Apps/Websites / Community
 
-*   [react-keyboard-navigator (⭐21)](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting from sibling components through the keyboard.
+*   [react-keyboard-navigator (⭐22)](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting from sibling components through the keyboard.
 
 ## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -80,16 +76,16 @@
 
 ### Protocol Buffers and gRPC
 
-*   [pronto (⭐85)](https://github.com/AppsFlyer/pronto)
+*   [pronto (⭐88)](https://github.com/AppsFlyer/pronto)
 *   [lein-protodeps (⭐22)](https://github.com/AppsFlyer/lein-protodeps)
 
 ### Testing
 
-*   [StateFlow (⭐277)](https://github.com/nubank/state-flow)
+*   [StateFlow (⭐283)](https://github.com/nubank/state-flow)
 
 ### Rule-based Programming
 
-*   [O'Doyle Rules (⭐470)](https://github.com/oakes/odoyle-rules)
+*   [O'Doyle Rules (⭐478)](https://github.com/oakes/odoyle-rules)
 
 ### Video tutorials / YouTube
 

@@ -10,13 +10,13 @@
 
 ### Algorithms and Data structures
 
-*   [eastar (⭐27)](https://github.com/herenowcoder/eastar) - A\* graph pathfinding in pure Elixir.
-*   [fnv (⭐4)](https://github.com/asaaki/fnv.ex) - Pure Elixir implementation of Fowler–Noll–Vo hash functions.
-*   [remodel (⭐139)](https://github.com/stavro/remodel) - An Elixir presenter package used to transform map structures.
+*   [eastar (⭐28)](https://github.com/herenowcoder/eastar) - A\* graph pathfinding in pure Elixir.
+*   [fnv (⭐5)](https://github.com/asaaki/fnv.ex) - Pure Elixir implementation of Fowler–Noll–Vo hash functions.
+*   [remodel (⭐141)](https://github.com/stavro/remodel) - An Elixir presenter package used to transform map structures.
 
 ### Cloud Infrastructure and Management
 
-*   [discovery (⭐249)](https://github.com/undeadlabs/discovery) - An OTP application for auto-discovering services with Consul.
+*   [discovery (⭐251)](https://github.com/undeadlabs/discovery) - An OTP application for auto-discovering services with Consul.
 
 ### Examples and funny stuff
 
@@ -25,17 +25,17 @@
 
 ### Macros
 
-*   [guardsafe (⭐24)](https://github.com/DevL/guardsafe) - Macros expanding into code that can be safely used in guard clauses.
+*   [guardsafe (⭐26)](https://github.com/DevL/guardsafe) - Macros expanding into code that can be safely used in guard clauses.
 
 ### ORM and Datamapping
 
 *   [ecto\_lazy\_float (⭐6)](https://github.com/joshdholtz/ecto-lazy-float) - Ecto.LazyFloat - An Ecto.Float that accepts binary and integers.
-*   [riak (⭐197)](https://github.com/drewkerrigan/riak-elixir-client) - A Riak client written in Elixir.
-*   [tds\_ecto (⭐56)](https://github.com/livehelpnow/tds_ecto) - MSSQL / TDS Adapter for Ecto.
+*   [riak (⭐199)](https://github.com/drewkerrigan/riak-elixir-client) - A Riak client written in Elixir.
+*   [tds\_ecto (⭐57)](https://github.com/livehelpnow/tds_ecto) - MSSQL / TDS Adapter for Ecto.
 
 ### Text and Numbers
 
-*   [expletive (⭐38)](https://github.com/xavier/expletive) - Profanity filter library for Elixir.
+*   [expletive (⭐40)](https://github.com/xavier/expletive) - Profanity filter library for Elixir.
 
 ### Third Party APIs
 

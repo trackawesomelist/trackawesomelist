@@ -10,13 +10,13 @@
 
 ### Algorithms and Data structures
 
-*   [cuid (⭐52)](https://github.com/duailibe/cuid) - Collision-resistant ids optimized for horizontal scaling and sequential lookup performance, written in Elixir.
-*   [elistrix (⭐12)](https://github.com/tobz/elistrix) - A latency / fault tolerance library to help isolate your applications from an uncertain world of slow or failed services.
+*   [cuid (⭐53)](https://github.com/duailibe/cuid) - Collision-resistant ids optimized for horizontal scaling and sequential lookup performance, written in Elixir.
+*   [elistrix (⭐13)](https://github.com/tobz/elistrix) - A latency / fault tolerance library to help isolate your applications from an uncertain world of slow or failed services.
 *   [natural\_sort (⭐14)](https://github.com/DanCouper/natural_sort) - Elixir natural sort implementation for lists of strings.
 
 ### Build Tools
 
-*   [Exscript (⭐6)](https://github.com/liveforeverx/exscript) - Elixir escript library.
+*   [Exscript (⭐7)](https://github.com/liveforeverx/exscript) - Elixir escript library.
 
 ### Debugging
 
@@ -24,13 +24,13 @@
 
 ### Examples and funny stuff
 
-*   [weather (⭐68)](https://github.com/tacticiankerala/elixir-weather) - A command line weather app built using Elixir.
+*   [weather (⭐69)](https://github.com/tacticiankerala/elixir-weather) - A command line weather app built using Elixir.
 
 ### Framework Components
 
 *   [passport (⭐160)](https://github.com/opendrops/passport) - Passport provides authentication for Phoenix applications.
-*   [phoenix\_html (⭐344)](https://github.com/phoenixframework/phoenix_html) - Phoenix.HTML functions for working with HTML strings and templates.
-*   [plug\_cloudflare (⭐20)](https://github.com/c-rack/plug_cloudflare) - Inspired by mod\_cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request header into Plug.Conn's remote\_ip field.
+*   [phoenix\_html (⭐361)](https://github.com/phoenixframework/phoenix_html) - Phoenix.HTML functions for working with HTML strings and templates.
+*   [plug\_cloudflare (⭐21)](https://github.com/c-rack/plug_cloudflare) - Inspired by mod\_cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request header into Plug.Conn's remote\_ip field.
 *   [resin (⭐4)](https://github.com/Frost/resin) - Resin is a plug that will add a configurable delay to every request that's passing through it, unless run in production.
 
 ### HTTP
@@ -52,7 +52,7 @@
 
 ### Macros
 
-*   [apix (⭐11)](https://github.com/liveforeverx/apix) - Simple convention and DSL for transformation of elixir functions to an API for later documentation and or validation.
+*   [apix (⭐12)](https://github.com/liveforeverx/apix) - Simple convention and DSL for transformation of elixir functions to an API for later documentation and or validation.
 *   [lineo (⭐0)](https://github.com/camshaft/lineo) - parse transform for accurate line numbers.
 *   [rebind (⭐0)](https://github.com/camshaft/rebind) - rebind parse transform for Erlang.
 
@@ -63,17 +63,17 @@
 
 ### Networking
 
-*   [wifi (⭐33)](https://github.com/gausby/wifi) - Various utility functions for working with the local Wifi network in Elixir.
+*   [wifi (⭐34)](https://github.com/gausby/wifi) - Various utility functions for working with the local Wifi network in Elixir.
 
 ### ORM and Datamapping
 
-*   [ecto\_validation\_case (⭐10)](https://github.com/danielberkompas/ecto_validation_case) - Simplify your Ecto model validation tests. Loosely inspired by shoulda matchers, but simpler.
-*   [exseed (⭐15)](https://github.com/seaneshbaugh/exseed) - An Elixir library that provides a simple DSL for seeding databases through Ecto.
+*   [ecto\_validation\_case (⭐11)](https://github.com/danielberkompas/ecto_validation_case) - Simplify your Ecto model validation tests. Loosely inspired by shoulda matchers, but simpler.
+*   [exseed (⭐16)](https://github.com/seaneshbaugh/exseed) - An Elixir library that provides a simple DSL for seeding databases through Ecto.
 *   [rethinkdb (⭐498)](https://github.com/hamiltop/rethinkdb-elixir) - Rethinkdb client in pure Elixir using JSON protocol.
 
 ### Queue
 
-*   [exdisque (⭐15)](https://github.com/mosic/exdisque) - Elixir client for [Disque (⭐7.9k)](https://github.com/antirez/disque), an in-memory, distributed job queue.
+*   [exdisque (⭐16)](https://github.com/mosic/exdisque) - Elixir client for [Disque (⭐7.9k)](https://github.com/antirez/disque), an in-memory, distributed job queue.
 
 ### REST and API
 
@@ -81,27 +81,27 @@
 
 ### Testing
 
-*   [espec\_phoenix (⭐135)](https://github.com/antonmi/espec_phoenix) - ESpec for Phoenix web framework.
-*   [mix\_test\_watch (⭐855)](https://github.com/lpil/mix-test.watch) - Automatically run your Elixir project's tests each time you save a file.
+*   [espec\_phoenix (⭐136)](https://github.com/antonmi/espec_phoenix) - ESpec for Phoenix web framework.
+*   [mix\_test\_watch (⭐867)](https://github.com/lpil/mix-test.watch) - Automatically run your Elixir project's tests each time you save a file.
 
 ### Text and Numbers
 
 *   [cidr (⭐42)](https://github.com/c-rack/cidr-elixir) - Classless Inter-Domain Routing (CIDR) for Elixir.
 *   [mimetype\_parser (⭐3)](https://github.com/camshaft/mimetype_parser) - parse mimetypes.
-*   [mt940 (⭐8)](https://github.com/my-flow/mt940) - MT940 (standard structured SWIFT Customer Statement message) parser for Elixir.
+*   [mt940 (⭐9)](https://github.com/my-flow/mt940) - MT940 (standard structured SWIFT Customer Statement message) parser for Elixir.
 
 ### Third Party APIs
 
-*   [docker (⭐21)](https://github.com/hexedpackets/docker-elixir) - Elixir client for the Docker Remote API.
-*   [mailchimp (⭐44)](https://github.com/duartejc/mailchimp) - A basic Elixir wrapper for version 3 of the MailChimp API.
+*   [docker (⭐23)](https://github.com/hexedpackets/docker-elixir) - Elixir client for the Docker Remote API.
+*   [mailchimp (⭐47)](https://github.com/duartejc/mailchimp) - A basic Elixir wrapper for version 3 of the MailChimp API.
 *   [marvel (⭐8)](https://github.com/bryanjos/marvel) - CLI and Elixir API Client for the Marvel API.
-*   [redtube (⭐7)](https://github.com/kkirsche/Redtube_Elixir) - Redtube API Wrapper written in Elixir.
-*   [riemann (⭐56)](https://github.com/koudelka/elixir-riemann) - A [Riemann](http://riemann.io/) client for Elixir.
-*   [statix (⭐253)](https://github.com/lexmag/statix) - Expose app metrics in the StatsD protocol.
+*   [redtube (⭐8)](https://github.com/kkirsche/Redtube_Elixir) - Redtube API Wrapper written in Elixir.
+*   [riemann (⭐57)](https://github.com/koudelka/elixir-riemann) - A [Riemann](http://riemann.io/) client for Elixir.
+*   [statix (⭐262)](https://github.com/lexmag/statix) - Expose app metrics in the StatsD protocol.
 
 ### Validations
 
-*   [voorhees (⭐41)](https://github.com/danmcclain/voorhees) - A library for validating JSON responses.
+*   [voorhees (⭐42)](https://github.com/danmcclain/voorhees) - A library for validating JSON responses.
 
 ## [2. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 

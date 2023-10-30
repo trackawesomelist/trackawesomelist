@@ -37,7 +37,7 @@
 
 ### Camera
 
-*   [Fusuma (⭐2.4k)](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature.
+*   [Fusuma (⭐2.5k)](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature.
 
 ## [5. Awesome Service Workers](/content/TalAter/awesome-service-workers/README.md)
 

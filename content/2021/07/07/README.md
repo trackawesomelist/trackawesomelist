@@ -16,7 +16,7 @@
 
 ### Software / Communication - XMPP - Servers
 
-*   [Snikket](https://snikket.org/) - All-in-one Dockerized easy XMPP solution, including web admin and clients. ([Source Code (⭐192)](https://github.com/snikket-im/snikket-server), [Clients](https://snikket.org/app/)) `Apache-2.0` `Lua/Python`
+*   [Snikket](https://snikket.org/) - All-in-one Dockerized easy XMPP solution, including web admin and clients. ([Source Code (⭐215)](https://github.com/snikket-im/snikket-server), [Clients](https://snikket.org/app/)) `Apache-2.0` `Docker`
 
 ### External Links / Wikis
 
@@ -26,25 +26,25 @@
 
 ### Libraries and Tools / Python
 
-*   [CanoPy (⭐111)](https://github.com/tbruno25/canopy) - A python gui used to visualize and plot message payloads in real time.
+*   [CanoPy (⭐144)](https://github.com/tbruno25/canopy) - A python gui used to visualize and plot message payloads in real time.
 
 ## [4. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Other Awesome Lists / Collection View Layout
 
-*   [awesome-ios-developer (⭐683)](https://github.com/jphong1111/awesome-ios-developer) - Useful knowledges and stuff for ios developer.
+*   [awesome-ios-developer (⭐744)](https://github.com/jphong1111/awesome-ios-developer) - Useful knowledges and stuff for ios developer.
 
 ## [5. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ### Related Awesome Lists / Randomized Algorithms
 
-*   [Math (⭐7k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
+*   [Math (⭐7.5k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
 
 ## [6. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Computer Science
 
-*   [Theoretical Computer Science (⭐393)](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
+*   [Theoretical Computer Science (⭐505)](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
 
 ## [7. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
@@ -56,19 +56,19 @@
 
 ### Translation Management
 
-*   [Localeum](https://localeum.com) - Free up to 1000 strings, 1 user, unlimited languages, unlimited projects
+*   [Localeum](https://localeum.com) - Free up to 1000 strings, one user, unlimited languages, unlimited projects
 
 ## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Resources / Web programming
 
-*   [RustViz (⭐2.4k)](https://github.com/rustviz/rustviz) — generates visualizations from simple Rust programs to assist users in better understanding the Rust Lifetime and Borrowing mechanism.
+*   [RustViz (⭐2.5k)](https://github.com/rustviz/rustviz) — generates visualizations from simple Rust programs to assist users in better understanding the Rust Lifetime and Borrowing mechanism.
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-cesium (⭐1k)](https://github.com/zouyaoji/vue-cesium) - Vue 2.x & Vue 3.x components for Cesium.
+*   [vue-cesium (⭐1.2k)](https://github.com/zouyaoji/vue-cesium) - Vue 2.x & Vue 3.x components for Cesium.
 
 ---
 

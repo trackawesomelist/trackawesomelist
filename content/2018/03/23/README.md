@@ -28,7 +28,7 @@
 
 ### Matlab / General-Purpose Machine Learning
 
-*   [MXNet (⭐20k)](https://github.com/apache/incubator-mxnet/) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, JavaScript and more.
+*   [MXNet (⭐21k)](https://github.com/apache/incubator-mxnet/) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, JavaScript and more.
 
 ## [5. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
@@ -79,13 +79,13 @@
 
 ### Libraries / Algebraic Data Types
 
-*   [kudo-js (⭐22)](https://github.com/blitzritz/kudojs) - A small utility library with a set of Algebraic Data Types and Helper functions to help you write code in a functional programming style in Javascript
+*   [kudo-js (⭐23)](https://github.com/blitzritz/kudojs) - A small utility library with a set of Algebraic Data Types and Helper functions to help you write code in a functional programming style in Javascript
 
 ## [10. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / Utilities
 
-*   [ldap2pg (⭐156)](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
+*   [ldap2pg (⭐165)](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
 
 ## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -95,17 +95,17 @@
 
 ### Frameworks, Libraries and Tools / SDKs
 
-*   [google-cloud-dotnet (⭐812)](https://github.com/GoogleCloudPlatform/google-cloud-dotnet) - Google Cloud Client Libraries for .NET.
+*   [google-cloud-dotnet (⭐880)](https://github.com/GoogleCloudPlatform/google-cloud-dotnet) - Google Cloud Client Libraries for .NET.
 
 ### Frameworks, Libraries and Tools / Testing
 
-*   [LightBDD (⭐260)](https://github.com/LightBDD/LightBDD) - BDD framework allowing to create easy to read and maintain tests.
+*   [LightBDD (⭐313)](https://github.com/LightBDD/LightBDD) - BDD framework allowing to create easy to read and maintain tests.
 
 ## [12. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Miscellaneous
 
-*   [virgil (⭐268)](https://github.com/ztellman/virgil)
+*   [virgil (⭐270)](https://github.com/ztellman/virgil)
 *   [javastar (⭐63)](https://github.com/tailrecursion/javastar)
 
 ---

@@ -8,13 +8,9 @@
 
 ## [1. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
-### [GNU/Linux](https://www.linux.com/what-is-linux/)
-
-*   [Mint (Cinnamon)](https://linuxmint.com/edition.php?id=299) is a beginner friendly distribution.
-
 ### YouTube
 
-*   [Youtube-Local (⭐340)](https://github.com/user234683/youtube-local) - browser-based client for watching Youtube anonymously and with greater page performance.
+*   [Youtube-Local (⭐382)](https://github.com/user234683/youtube-local) - browser-based client for watching Youtube anonymously and with greater page performance.
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -45,12 +41,11 @@
 
 ### Pricing / Usage-based Pricing
 
-*   [Octane's Meter Types](https://docs.getoctane.io/docs/meter-types#gauges) - Nice illustrations of the quantization applied to time and value quantums on variable usages.
-*   [Lago (⭐3.4k)](https://github.com/getlago/lago) - Open-source metering & usage-based billing.
+*   [Lago (⭐4.3k)](https://github.com/getlago/lago) - Open-source metering & usage-based billing.
 
 ### Pricing / Subscription Plans
 
-*   [Lotus (⭐1.3k)](https://github.com/uselotus/lotus) - Open-source project to manage pricing & packaging infrastructure.
+*   [Lotus (⭐1.5k)](https://github.com/uselotus/lotus) - Open-source project to manage pricing & packaging infrastructure.
 
 ### Pricing / Strategy
 
@@ -62,7 +57,7 @@
 
 ### Accounting / Software design and implementation
 
-*   [TigerBeetle (⭐2.3k)](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between.
+*   [TigerBeetle (⭐3.2k)](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between.
 
 ### Invoice / Structure
 
@@ -80,10 +75,6 @@
 
 *   [Survival Analysis For Customer Retention](https://two-wrongs.com/survival-analysis-for-customer-retention.html) - Illustrates how retention can be better modelled using a survival function like [Kaplan–Meier survival curves](https://two-wrongs.com/bootstrapping-kaplan-meier-confidence-intervals.html).
 
-### Competitive Analysis / Cloud providers
-
-*   [AWS reserved instances vs saving plan](https://www.prosperops.com/wp-content/uploads/ris_and_savings_plans.png) - A feature matrix of the different scheme and their average dicounts.
-
 ## [6. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
 
 ### Multimedia / Image
@@ -98,27 +89,27 @@
 
 ### Third-Party Packages / Performance
 
-*   [pyinstrument (⭐5.3k)](https://github.com/joerick/pyinstrument) - Call stack profiler for Python, Django, Flask, FastAPI.
+*   [pyinstrument (⭐5.6k)](https://github.com/joerick/pyinstrument) - Call stack profiler for Python, Django, Flask, FastAPI.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### IDE and Code Editing
 
-*   [GitPod](https://www.gitpod.io) — Instant, ready-to-code dev environments for GitHub projects. Free tier includes 50 hours/month.
+*   [GitPod](https://www.gitpod.io) — Instant, ready-to-code dev environments for GitHub projects. The free tier includes 50 hours/month.
 
 ## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Editing Support / Diagnostics
 
-*   [Wansmer/treesj (⭐508)](https://github.com/Wansmer/treesj) - Splitting/joining blocks of code like arrays, hashes, statements, objects, dictionaries, etc. Using Tree-Sitter. Inspired by greatest splitjoin.vim.
+*   [Wansmer/treesj (⭐661)](https://github.com/Wansmer/treesj) - Splitting/joining blocks of code like arrays, hashes, statements, objects, dictionaries, etc. Using Tree-Sitter. Inspired by greatest splitjoin.vim.
 
 ## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [shell-fns (⭐0)](https://github.com/Hdoc1509/shell-fns) - Includes `git`, `neovim`, `npm`, `pip` extended functionality.
+*   [shell-fns (⭐1)](https://github.com/Hdoc1509/shell-fns) - Includes `git`, `neovim`, `npm`, `pip` extended functionality.
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [shrug (⭐4)](https://github.com/to-var/shrug-zsh-theme) - Inspired by [beer-theme (⭐3)](https://github.com/tcnksm/oh-my-zsh-beer-theme), includes `git` status and current directory decorations.
 

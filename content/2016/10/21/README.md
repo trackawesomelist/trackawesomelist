@@ -18,16 +18,16 @@
 
 *   [DataVec](https://github.com/deeplearning4j/DataVec) - A vectorization and data preprocessing library for deep learning in Java and Scala. Part of the Deeplearning4j ecosystem.
 *   [Deeplearning4j](https://github.com/deeplearning4j) - Fast, open deep learning for the JVM (Java, Scala, Clojure). A neural network configuration layer powered by a C++ library. Uses Spark and Hadoop to train nets on multiple GPUs and CPUs.
-*   [H2O (⭐6k)](https://github.com/h2oai/h2o-3/) - statistical, machine learning and math runtime with Hadoop. R and Python.
-*   [Keras (⭐56k)](https://github.com/fchollet/keras) - An intuitive neural net API inspired by Torch that runs atop Theano and Tensorflow.
+*   [H2O (⭐6.3k)](https://github.com/h2oai/h2o-3/) - statistical, machine learning and math runtime with Hadoop. R and Python.
+*   [Keras (⭐58k)](https://github.com/fchollet/keras) - An intuitive neural net API inspired by Torch that runs atop Theano and Tensorflow.
 *   [Mahout](http://mahout.apache.org/) - An Apache-backed machine learning library for Hadoop.
 *   [ND4J](https://github.com/deeplearning4j/nd4j) - A matrix library for the JVM. Numpy for Java.
 *   [RL4J](https://github.com/deeplearning4j/rl4j) - Reinforcement learning for Java and Scala. Includes Deep-Q learning and A3C algorithms, and integrates with Open AI's Gym. Runs in the Deeplearning4j ecosystem.
-*   [Sibyl](https://users.soe.ucsc.edu/\~niejiazhong/slides/chandra.pdf) - System for Large Scale Machine Learning at Google.
-*   [TensorFlow (⭐169k)](https://github.com/tensorflow/tensorflow) - Library from Google for machine learning using data flow graphs.
+*   [Sibyl](https://users.soe.ucsc.edu/~niejiazhong/slides/chandra.pdf) - System for Large Scale Machine Learning at Google.
+*   [TensorFlow (⭐175k)](https://github.com/tensorflow/tensorflow) - Library from Google for machine learning using data flow graphs.
 *   [Theano](https://github.com/theano) - A Python-focused machine learning library supported by the University of Montreal.
 *   [Torch](https://github.com/torch) - A deep learning library with a Lua API, supported by NYU and Facebook.
-*   [Velox (⭐111)](https://github.com/amplab/velox-modelserver) - System for serving machine learning predictions.
+*   [Velox (⭐109)](https://github.com/amplab/velox-modelserver) - System for serving machine learning predictions.
 
 ### Benchmarking
 
@@ -49,7 +49,7 @@
 
 ### Related Projects / Themes
 
-*   [Grammar of Graphics](https://g2.alipay.com/) - Pure javascript, powerful semantic graph generation tool for big data which provides a set of graphical syntax that lets users build with simple syntax a myriad of charts and integrates a large number of statistical tools, ([Read more (⭐125)](https://github.com/antvis/feedback)).
+*   [Grammar of Graphics](https://g2.alipay.com/) - Pure javascript, powerful semantic graph generation tool for big data which provides a set of graphical syntax that lets users build with simple syntax a myriad of charts and integrates a large number of statistical tools, ([Read more (⭐123)](https://github.com/antvis/feedback)).
 
 ### Vue.js / Themes
 
@@ -59,9 +59,9 @@
 
 ### Boilerplates / Themes
 
-*   [React Admin (⭐597)](https://github.com/fireyy/react-antd-admin) - React Admin UI built on Ant Design (username: admin, password: 123456).
-*   [React Redux (⭐410)](https://github.com/Justin-lu/react-redux-antd) - React Redux for CMS/Enterprise class apps (ERP/Admin) built with Ant Design.
-*   [Webbf (⭐370)](https://github.com/peterchenhdu/webbf) - Java demo that uses Maven to build the backend with Spring, Spring MVC and Mybatis. React, Reflux, Eebpack, jQuery, React-bootstrap and Ant Design.
+*   [React Admin (⭐596)](https://github.com/fireyy/react-antd-admin) - React Admin UI built on Ant Design (username: admin, password: 123456).
+*   [React Redux (⭐413)](https://github.com/Justin-lu/react-redux-antd) - React Redux for CMS/Enterprise class apps (ERP/Admin) built with Ant Design.
+*   [Webbf (⭐390)](https://github.com/peterchenhdu/webbf) - Java demo that uses Maven to build the backend with Spring, Spring MVC and Mybatis. React, Reflux, Eebpack, jQuery, React-bootstrap and Ant Design.
 *   [React Redux Intro (⭐33)](https://github.com/LeuisKen/react-redux-intro) - Demo app built with Ant Design and can be configured to initialize a Redux dependencies.
 *   [TODO MVC (⭐10)](https://github.com/cupools/todoMVC-react) - Todo list built with React and Ant Design.
 

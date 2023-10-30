@@ -2,7 +2,7 @@
 
 📗Resources to dive into the world of social enterprises 🌼 
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/RayBB/awesome-social-enterprise/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 RayBB/awesome-social-enterprise](https://github.com/RayBB/awesome-social-enterprise) · ⭐ 59 · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/RayBB/awesome-social-enterprise/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 RayBB/awesome-social-enterprise](https://github.com/RayBB/awesome-social-enterprise) · ⭐ 66 · 🏷️ Business
 
 [ [Daily](/content/RayBB/awesome-social-enterprise/README.md) / [Weekly](/content/RayBB/awesome-social-enterprise/week/README.md) / Overview ]
 
@@ -93,11 +93,12 @@ Wikipedia is a great place to explore and find related topics.
 
 ### Books 📚
 
-| Title                                                                     | Author          | Year | Notes                                                                                                          |
-| ------------------------------------------------------------------------- | --------------- | ---- | -------------------------------------------------------------------------------------------------------------- |
-| Social Entrepreneurship: What Everyone Needs To Know                      | David Bornstein | 2010 | Great introduction to social entrepreneurship. Short and sweet with lots of great answers to common questions. |
-| [Ladderworks books](https://www.ladderworks.co/)                          | various         | 2022 | Diverse picture books for empowering over a million kids to become social entrepreneurs.                       |
-| Becoming a Social Entrepreneur: Starting Out, Scaling Up and Staying True | Michael Gordon  | 2019 |                                                                                                                |
+| Title                                                                     | Author              | Year | Notes                                                                                                          |
+| ------------------------------------------------------------------------- | ------------------- | ---- | -------------------------------------------------------------------------------------------------------------- |
+| Social Entrepreneurship: What Everyone Needs To Know                      | David Bornstein     | 2010 | Great introduction to social entrepreneurship. Short and sweet with lots of great answers to common questions. |
+| [Ladderworks books](https://www.ladderworks.co/)                          | various             | 2022 | Diverse picture books for empowering over a million kids to become social entrepreneurs.                       |
+| Becoming a Social Entrepreneur: Starting Out, Scaling Up and Staying True | Michael Gordon      | 2019 |                                                                                                                |
+| Paying It Forward: How to Be A Social Entrepreneur                        | Josh Littlejohn MBE | 2023 |                                                                                                                |
 
 ## Podcasts 🎧
 

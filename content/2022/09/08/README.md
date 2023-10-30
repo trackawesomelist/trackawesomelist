@@ -10,28 +10,20 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Zusam (⭐142)](https://github.com/zusam/zusam) - Free and open-source way to self-host private forums for groups of friends or family. ([Demo](https://demo.zusam.org)) `AGPL-3.0` `PHP`
+*   [Zusam (⭐156)](https://github.com/zusam/zusam) - Free and open-source way to self-host private forums for groups of friends or family. ([Demo](https://demo.zusam.org)) `AGPL-3.0` `PHP`
 
 ### Software / Document Management - Institutional Repository and Digital Library Software
 
-*   [Fedora Commons Repository](https://wiki.lyrasis.org/display/FF/Fedora+Repository+Home) - Robust and modular repository system for the management and dissemination of digital content especially suited for digital libraries and archives, both for access and preservation. ([Source Code (⭐171)](https://github.com/fcrepo/fcrepo)) `Apache-2.0` `Java`
-*   [Islandora](https://www.islandora.ca/) - Drupal module for browsing and managing Fedora-based digital repositories. ([Demo](https://sandbox.islandora.ca/), [Source Code (⭐147)](https://github.com/Islandora/islandora)) `GPL-3.0` `PHP`
+*   [Fedora Commons Repository](https://wiki.lyrasis.org/display/FF/Fedora+Repository+Home) - Robust and modular repository system for the management and dissemination of digital content especially suited for digital libraries and archives, both for access and preservation. ([Source Code (⭐185)](https://github.com/fcrepo/fcrepo)) `Apache-2.0` `Java`
+*   [Islandora](https://www.islandora.ca/) - Drupal module for browsing and managing Fedora-based digital repositories. ([Demo](https://sandbox.islandora.ca/), [Source Code (⭐148)](https://github.com/Islandora/islandora)) `GPL-3.0` `PHP`
 
 ### Software / File Transfer & Synchronization
 
-*   [Nextcloud](https://nextcloud.com/) - Access and share your files, calendars, contacts, mail and [more](https://apps.nextcloud.com/) from any device, on your terms. ([Demo](https://try.nextcloud.com/), [Source Code (⭐23k)](https://github.com/nextcloud/server)) `AGPL-3.0` `PHP`
+*   [Nextcloud](https://nextcloud.com/) - Access and share your files, calendars, contacts, mail and [more](https://apps.nextcloud.com/) from any device, on your terms. ([Demo](https://try.nextcloud.com/), [Source Code (⭐24k)](https://github.com/nextcloud/server)) `AGPL-3.0` `PHP/deb`
 
 ### Software / File Transfer - Object Storage & File Servers
 
-*   [Minio](https://min.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code (⭐39k)](https://github.com/minio/minio)) `AGPL-3.0` `Go`
-
-### Software / File Transfer - Single-click & Drag-n-drop Upload
-
-*   [Jirafeau](https://gitlab.com/mojo42/Jirafeau) - Jirafeau is a web site permitting to upload a file in a simple way and give an unique link to it. ([Demo](https://jirafeau.net/)) `AGPL-3.0` `PHP`
-
-### Software / Games - Administrative Utilities & Control Panels
-
-*   [SourceBans++](https://sbpp.dev/) - Admin, ban, and communication management system for games running on the Source engine. ([Source Code (⭐294)](https://github.com/sbpp/sourcebans-pp)) `CC-BY-SA-4.0` `PHP`
+*   [Minio](https://min.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code (⭐41k)](https://github.com/minio/minio)) `AGPL-3.0` `Go/Docker/K8S`
 
 ### Software / Groupware
 
@@ -39,15 +31,15 @@
 
 ### Software / Learning and Courses
 
-*   [Canvas LMS](https://www.instructure.com/canvas/) - Canvas is the trusted, open-source learning management system (LMS) that is revolutionizing the way we educate. ([Demo](https://canvas.instructure.com/register), [Source Code (⭐4.8k)](https://github.com/instructure/canvas-lms)) `AGPL-3.0` `Ruby`
+*   [Canvas LMS](https://www.instructure.com/canvas/) - Canvas is the trusted, open-source learning management system (LMS) that is revolutionizing the way we educate. ([Demo](https://canvas.instructure.com/register), [Source Code (⭐5.1k)](https://github.com/instructure/canvas-lms)) `AGPL-3.0` `Ruby`
 
 ### Software / URL Shorteners
 
-*   [liteshort](https://git.ikl.sh/132ikl/liteshort) - User-friendly, actually lightweight, and configurable URL shortener. `MIT` `Python`
+*   [liteshort](https://git.ikl.sh/132ikl/liteshort) - User-friendly, actually lightweight, and configurable URL shortener. `MIT` `Python/deb`
 
 ### Software / Wikis
 
-*   [Tiki](https://tiki.org/HomePage) - Wiki CMS Groupware with the most built-in features. ([Demo](https://tiki.org/Try-Tiki), [Source Code](https://sourceforge.net/p/tikiwiki/code/HEAD/tree/)) `LGPL-2.1` `PHP`
+*   [Tiki](https://tiki.org/HomePage) - Wiki CMS Groupware with the most built-in features. ([Demo](https://tiki.org/Try-Tiki), [Source Code](https://gitlab.com/tikiwiki/tiki)) `LGPL-2.1` `PHP`
 
 ## [2. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
@@ -55,35 +47,35 @@
 
 *   [Boreas Dataset](https://www.boreas.utias.utoronto.ca/) - The Boreas dataset was collected by driving a repeated route over the course of 1 year resulting in stark seasonal variations. In total, Boreas contains over 350km of driving data including several sequences with adverse weather conditions such as rain and heavy snow. The Boreas data-taking platform features a unique high-quality sensor suite with a 128-channel Velodyne Alpha Prime lidar, a 360-degree Navtech radar, and accurate ground truth poses obtained from an Applanix POSLV GPS/IMU.
     *   [Paper 📰](https://arxiv.org/abs/2203.10168)
-    *   [GitHub repository :octocat: (⭐50)](https://github.com/utiasASRL/pyboreas)
+    *   [GitHub repository :octocat: (⭐64)](https://github.com/utiasASRL/pyboreas)
 
 ## [3. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
-### Command-Line Tools / Newsletters
+### Command-Line Tools / Discovery
 
-*   [nixpkgs-hammering (⭐187)](https://github.com/jtojnar/nixpkgs-hammering) - An opinionated linter for Nixpkgs package expressions.
+*   [nixpkgs-hammering (⭐208)](https://github.com/jtojnar/nixpkgs-hammering) - An opinionated linter for Nixpkgs package expressions.
 
 ## [4. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Open Source Rails Apps / Other external resources
 
-*   [alonetone](https://github.com/sudara/alonetone) - A music hosting, management & distribution app (using Rails 7.0). - [:earth\_africa:](https://alonetone.com)
+*   [alonetone (⭐335)](https://github.com/sudara/alonetone) - A music hosting, management & distribution app (using Rails 7.0). - [:earth\_africa:](https://alonetone.com)
 
 ## [5. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Streaming Library
 
-*   [Streamiz (⭐372)](https://github.com/LGouellec/kafka-streams-dotnet) \[C#] - a .Net Stream Processing Library for Apache Kafka
+*   [Streamiz (⭐397)](https://github.com/LGouellec/kafka-streams-dotnet) \[C#] - a .Net Stream Processing Library for Apache Kafka
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Command Line Applications
 
-*   [owl (⭐356)](https://github.com/fuelen/owl) - Owl is a toolkit for writing command-line user interfaces in Elixir.
+*   [owl (⭐370)](https://github.com/fuelen/owl) - Owl is a toolkit for writing command-line user interfaces in Elixir.
 
 ### Macros
 
-*   [matcha (⭐68)](https://github.com/christhekeele/matcha) - First-class match specifications for Elixir `:ets` querying and function call tracing.
+*   [matcha (⭐75)](https://github.com/christhekeele/matcha) - First-class match specifications for Elixir `:ets` querying and function call tracing.
 
 ## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -95,20 +87,20 @@
 
 ### Routers / Checkbox
 
-*   [@danielsharkov/svelte-router (⭐10)](https://github.com/DanielSharkov/svelte-router) - A simple & easy to use SPA router, developed with page transitions in mind.
+*   [@danielsharkov/svelte-router (⭐11)](https://github.com/DanielSharkov/svelte-router) - A simple & easy to use SPA router, developed with page transitions in mind.
 
 ## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [complete-mac (⭐2)](https://github.com/vitkabele/complete-mac) - Add completions for macOS `ioreg`, `lsmp`, `scselect`, `system_profiler` and `tmutil` commands.
+*   [complete-mac (⭐5)](https://github.com/vitkabele/complete-mac) - Add completions for macOS `ioreg`, `lsmp`, `scselect`, `system_profiler` and `tmutil` commands.
 *   [prettier (⭐0)](https://github.com/sambergo/zsh-prettier-completion/) - Tab completion for [prettier](https://prettier.io/.)
 
 ## [10. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)
 
 ### Traffic Capture
 
-*   [PCAPdroid (⭐726)](https://github.com/emanuele-f/PCAPdroid): PCAPdroid is an Android app which lets you monitor and export the network traffic of your device without root. Traffic can be dumped in the PCAP format to be analyzed with popular tools like Wireshark, even in real time. The built-in traffic monitor lets you detect suspicious connections made by user and system apps.
+*   [PCAPdroid (⭐1.3k)](https://github.com/emanuele-f/PCAPdroid): PCAPdroid is an Android app which lets you monitor and export the network traffic of your device without root. Traffic can be dumped in the PCAP format to be analyzed with popular tools like Wireshark, even in real time. The built-in traffic monitor lets you detect suspicious connections made by user and system apps.
 
 ---
 

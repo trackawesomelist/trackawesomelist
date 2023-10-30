@@ -1,6 +1,6 @@
 # Awesome List Updates on May 14, 2019
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -36,11 +36,11 @@
 
 ### UI / Drawers
 
-*   [Hidden Drawer Menu (⭐298)](https://github.com/RafaelBarbosatec/hidden_drawer_menu) <!--stargazers:RafaelBarbosatec/hidden_drawer_menu--> - Beautiful drawer mode menu feature with perspective animations by [Rafael Almeida Barbosa](https://github.com/RafaelBarbosatec).
+*   [Hidden Drawer Menu (⭐307)](https://github.com/RafaelBarbosatec/hidden_drawer_menu) <!--stargazers:RafaelBarbosatec/hidden_drawer_menu--> - Beautiful drawer mode menu feature with perspective animations by [Rafael Almeida Barbosa](https://github.com/RafaelBarbosatec).
 
 ### UI / Sliders
 
-*   [Fluid Slider (⭐310)](https://github.com/rvamsikrishna/flutter_fluid_slider) <!--stargazers:rvamsikrishna/flutter_fluid_slider--> - A slider with a minimal design and fluid like animation by [Vamsi Krishna](https://github.com/rvamsikrishna)
+*   [Fluid Slider (⭐313)](https://github.com/rvamsikrishna/flutter_fluid_slider) <!--stargazers:rvamsikrishna/flutter_fluid_slider--> - A slider with a minimal design and fluid like animation by [Vamsi Krishna](https://github.com/rvamsikrishna)
 
 ### Templates / Preferences
 
@@ -48,8 +48,8 @@
 
 ### Device / Augmented Reality
 
-*   [UDID (⭐183)](https://github.com/GigaDroid/flutter_udid) <!--stargazers:GigaDroid/flutter_udid--> - Persistent UDID across app reinstalls by [Leon Kukuk](https://kukuk.me)
-*   [File Picker (⭐982)](https://github.com/miguelpruivo/plugins_flutter_file_picker) <!--stargazers:miguelpruivo/plugins_flutter_file_picker--> - Native file explorer to load absolute file path by [Miguel Ruivo](https://github.com/miguelpruivo)
+*   [UDID (⭐190)](https://github.com/GigaDroid/flutter_udid) <!--stargazers:GigaDroid/flutter_udid--> - Persistent UDID across app reinstalls by [Leon Kukuk](https://kukuk.me)
+*   [File Picker (⭐1.1k)](https://github.com/miguelpruivo/plugins_flutter_file_picker) <!--stargazers:miguelpruivo/plugins_flutter_file_picker--> - Native file explorer to load absolute file path by [Miguel Ruivo](https://github.com/miguelpruivo)
 
 ### Communication / Game Engine resources
 
@@ -68,25 +68,19 @@
 
 *   :books: [Programming with Types](https://www.manning.com/books/programming-with-types) - A book on how to design safe, resilient, correct software that’s easy to maintain and understand by taking advantage of the power of type systems. (by Vlad Riscutia)
 
-## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Communication - Email - Mail Transfer Agents
-
-*   [Maildrop](https://gitlab.com/markbeeson/maildrop) - Disposable email SMTP server, also useful for development. `MIT` `Scala`
-
-## [6. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
+## [5. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
 ### Dataset / Web
 
 *   [SMMnet](https://www.kaggle.com/leomauro/smmnet) - Network data from Super Mario Maker.
 
-## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Build Systems
 
-*   [Buck (⭐8.5k)](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages including C++ developed and used at Facebook. Written in Java. \[Apache]
+*   [Buck (⭐8.6k)](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages including C++ developed and used at Facebook. Written in Java. \[Apache]
 
-## [8. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
+## [7. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
 ### Monitoring / Firmwares for ESP based Devices
 
@@ -96,7 +90,7 @@
 
 *   [mqtt2mongodb (⭐15)](https://github.com/David-Lor/MQTT2MongoDB) - Subscribe to MQTT topics and insert into MongoDB.
 
-## [9. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/README.md)
+## [8. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/README.md)
 
 ### Examples
 
@@ -107,36 +101,36 @@
 
 *   [react-fetch-hook (⭐348)](https://github.com/ilyalesik/react-fetch-hook) - React hook for conveniently use Fetch API.
 
-## [10. Awesome List](/content/sindresorhus/awesome/README.md)
+## [9. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Development Environment
 
-*   [GitHub (⭐764)](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
-    *   [Browser Extensions (⭐2.7k)](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
-    *   [Cheat Sheet (⭐41k)](https://github.com/tiimgreen/github-cheat-sheet#readme)
-    *   [Pinned Gists (⭐1.6k)](https://github.com/matchai/awesome-pinned-gists#readme) - Dynamic pinned gists for your GitHub profile.
+*   [GitHub (⭐800)](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
+    *   [Browser Extensions (⭐2.8k)](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
+    *   [Cheat Sheet (⭐43k)](https://github.com/tiimgreen/github-cheat-sheet#readme)
+    *   [Pinned Gists (⭐1.7k)](https://github.com/matchai/awesome-pinned-gists#readme) - Dynamic pinned gists for your GitHub profile.
 
-## [11. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+## [10. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ### SaaS
 
 *   [Make My Link Longer](https://make-my-link-longer.glitch.me/) - The URL-elongator you've always needed.
 
-## [12. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [11. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Finance
 
-*   [Bit Alarm (⭐163)](https://github.com/damoonrashidi/bitalarm) - An app to keep track of different cryptocurrencies by [Damoon Rashidi](https://github.com/damoonrashidi).
+*   [Bit Alarm (⭐173)](https://github.com/damoonrashidi/bitalarm) - An app to keep track of different cryptocurrencies by [Damoon Rashidi](https://github.com/damoonrashidi).
 
 ### Contents / Productivity
 
-*   [Flutter Todo (⭐115)](https://github.com/tuannguyendotme/flutter_todo) - This Todo app is implemented using Flutter by [Tuan Nguyen](https://github.com/tuannguyendotme).
-*   [Notes App (⭐384)](https://github.com/bimsina/notes-app) - Note Taking App made with Flutter with Sqlite as database by [Bibek Timsina](https://github.com/bimsina).
+*   [Flutter Todo (⭐130)](https://github.com/tuannguyendotme/flutter_todo) - This Todo app is implemented using Flutter by [Tuan Nguyen](https://github.com/tuannguyendotme).
+*   [Notes App (⭐417)](https://github.com/bimsina/notes-app) - Note Taking App made with Flutter with Sqlite as database by [Bibek Timsina](https://github.com/bimsina).
 *   [WhatTodo (⭐1.1k)](https://github.com/burhanrashid52/WhatTodo) - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52).
 
 ### Contents / Tools
 
-*   [Wallpaper (⭐279)](https://github.com/bimsina/wallpaper) - Wallpaper App made with Flutter with Dynamic Theming by [Bibek Timsina](https://github.com/bimsina)
+*   [Wallpaper (⭐283)](https://github.com/bimsina/wallpaper) - Wallpaper App made with Flutter with Dynamic Theming by [Bibek Timsina](https://github.com/bimsina)
 *   [Zefyr (⭐2.2k)](https://github.com/memspace/zefyr) - Soft and gentle rich text editing for Flutter applications by [Memspace](https://github.com/memspace)
 
 ---

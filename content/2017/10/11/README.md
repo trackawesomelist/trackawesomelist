@@ -22,7 +22,7 @@
 
 ### Software / Publishing , Collaboration and Organization
 
-*   [RapidPro (⭐778)](https://github.com/rapidpro/rapidpro) - An open-source platform for building scalable applications that users can interact with via SMS.
+*   [RapidPro (⭐831)](https://github.com/rapidpro/rapidpro) - An open-source platform for building scalable applications that users can interact with via SMS.
 
 ### Literature / Citizen Science Practice
 
@@ -32,7 +32,7 @@
 
 ### Database Tools
 
-*   [connection\_pool (⭐1.5k)](https://github.com/mperham/connection_pool) - Generic connection pooling for Ruby, that can be used with anything, e.g. Redis, Dalli, etc.
+*   [connection\_pool (⭐1.6k)](https://github.com/mperham/connection_pool) - Generic connection pooling for Ruby, that can be used with anything, e.g. Redis, Dalli, etc.
 
 ## [5. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -126,7 +126,7 @@ Webpage: <http://the-refinery.cafes-city.com/>
 | ---- | ----- | ------ | --------------------------------------------------------------------------------- | ------------------------------------------------ |
 | (✔)  | ✔     | ✔      | [413 Santa Monica Blvd, Santa Monica, CA 90401](https://goo.gl/maps/uBJQacVNWd62) | Mon-Fri 7:30-18:00, Sat 8:00-18:00, Sun *closed* |
 
-### United States 🇺🇸 / Massachusetts   <a id="massachusetts">  </a>
+### United States 🇺🇸 / Massachusetts <a id="massachusetts"></a>
 
 #### Diesel Cafe
 
@@ -166,7 +166,7 @@ Notes:
 
 ### Misc
 
-*   [SystemWrapper (⭐168)](https://github.com/jozefizso/SystemWrapper) - SystemWrapper is .NET library for easier testing of system APIs.
+*   [SystemWrapper (⭐169)](https://github.com/jozefizso/SystemWrapper) - SystemWrapper is .NET library for easier testing of system APIs.
 
 ## [18. Awesome Ava](/content/avajs/awesome-ava/README.md)
 
@@ -198,7 +198,7 @@ Notes:
 
 ### Endpoint / Mobile / Android / iOS
 
-*   [OSX Security Awesome (⭐666)](https://github.com/kai5263499/osx-security-awesome) - A collection of OSX and iOS security resources
+*   [OSX Security Awesome (⭐681)](https://github.com/kai5263499/osx-security-awesome) - A collection of OSX and iOS security resources
 
 ### Usability / Development
 

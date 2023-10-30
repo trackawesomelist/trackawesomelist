@@ -16,29 +16,29 @@
 
 ### Projects Related to eBPF / Tools
 
-*   [TripleCross (⭐1.5k)](https://github.com/h3xduck/TripleCross) - A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
+*   [TripleCross (⭐1.6k)](https://github.com/h3xduck/TripleCross) - A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-### Software / Calendar & Contacts - CalDAV or CardDAV Servers
+### Software / Calendar & Contacts
 
-*   [Xandikos (⭐283)](https://github.com/jelmer/xandikos) - Open source CardDAV and CalDAV server with minimal administrative overhead, backed by a Git repository. `GPL-3.0` `Python`
+*   [Xandikos (⭐328)](https://github.com/jelmer/xandikos) - Open source CardDAV and CalDAV server with minimal administrative overhead, backed by a Git repository. `GPL-3.0` `Python/deb`
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Zulip](https://zulip.org) - Zulip is a powerful, open source group chat application. ([Source Code (⭐18k)](https://github.com/zulip/zulip)) `Apache-2.0` `Python`
+*   [Zulip](https://zulip.org) - Zulip is a powerful, open source group chat application. ([Source Code (⭐19k)](https://github.com/zulip/zulip)) `Apache-2.0` `Python`
 
 ### Software / Communication - IRC
 
-*   [InspIRCd](https://www.inspircd.org/) - Modular IRC server written in C++ for Linux, BSD, Windows, and macOS. ([Source Code (⭐1k)](https://github.com/inspircd/inspircd)) `GPL-2.0` `C++`
+*   [InspIRCd](https://www.inspircd.org/) - Modular IRC server written in C++ for Linux, BSD, Windows, and macOS. ([Source Code (⭐1.1k)](https://github.com/inspircd/inspircd)) `GPL-2.0` `C++/Docker`
 
 ### Software / Miscellaneous
 
-*   [MyPaas (⭐318)](https://github.com/almarklein/mypaas) - Run your own PaaS using Docker, Traefik, and great monitoring. `BSD-2-Clause` `Python/Docker`
+*   [MyPaas (⭐336)](https://github.com/almarklein/mypaas) - Run your own PaaS using Docker, Traefik, and great monitoring. `BSD-2-Clause` `Python/Docker`
 
 ### Software / Search Engines
 
-*   [ZincSearch](https://zincsearch.com) - A lightweight alternative to elasticsearch that requires minimal resources, written in Go. ([Demo (⭐15k)](https://github.com/zinclabs/zinc#playground-server), [Source Code (⭐15k)](https://github.com/zinclabs/zinc)) `Apache-2.0` `Go`
+*   [ZincSearch](https://zincsearch.com) - Search engine that requires minimal resources (alternative to Elasticsearch). ([Demo (⭐16k)](https://github.com/zinclabs/zinc#playground-server), [Source Code (⭐16k)](https://github.com/zincsearch/zincsearch)) `Apache-2.0` `Go/Docker/K8S`
 
 ## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -48,13 +48,13 @@
 
 ### Android / Tools
 
-*   [didi/booster (⭐4.5k)](https://github.com/didi/booster) - Booster is an optimization toolkit for Android applications
+*   [didi/booster (⭐4.6k)](https://github.com/didi/booster) - Booster is an optimization toolkit for Android applications
 
 ## [5. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Development Tools
 
-*   [Covalent (⭐179)](https://github.com/AgnostiqHQ/covalent) - Framework for distributed computing on heterogeneous infrastructure from CPUs to GPUs to quantum computers.
+*   [Covalent (⭐503)](https://github.com/AgnostiqHQ/covalent) - Framework for distributed computing on heterogeneous infrastructure from CPUs to GPUs to quantum computers.
 
 ## [6. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Collaborative Web Editors
 
-*   [CodiMD (⭐8.4k)](https://github.com/hackmdio/codimd) is a collaborative Editor based on Markdown. CodiMD is the free software version of HackMD, pads are shared via URL and provide additional functionality like editing permissions based on login status and a presentation mode (with reaveal.js).
+*   [CodiMD (⭐8.6k)](https://github.com/hackmdio/codimd) is a collaborative Editor based on Markdown. CodiMD is the free software version of HackMD, pads are shared via URL and provide additional functionality like editing permissions based on login status and a presentation mode (with reaveal.js).
 *   [WikiSuite](http://WikiSuite.org/): While Wikipedia is the broadest unified body of knowledge, WikiSuite is the most comprehensive and integrated Open Source enterprise solution. WikiSuite is especially suited to knowledge-centric organizations and offers most (80%+) of the data and information management features all organizations need. Key components include [Virtualmin](https://wikisuite.org/Virtualmin), [Tiki Wiki CMS Groupware (aka TikiWiki)](https://wikisuite.org/Tiki-Wiki-CMS-Groupware), [Jitsi Meet](https://wikisuite.org/Jitsi-Meet), [MeshCentral](https://wikisuite.org/MeshCentral), [Syncthing](https://wikisuite.org/Syncthing) and [Manticore Search](https://wikisuite.org/Manticore-Search).
 
 ### Networking
@@ -84,13 +84,13 @@
 
 ### Form Components / Star Rating
 
-*   [react-rating (⭐173)](https://github.com/smastrom/react-rating) - [demo](https://react-rating.onrender.com/) - Zero-dependency, highly customizable rating component.
+*   [react-rating (⭐234)](https://github.com/smastrom/react-rating) - [demo](https://react-rating.onrender.com/) - Zero-dependency, highly customizable rating component.
 
 ## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Utility / Diagnostics
 
-*   [xiyaowong/link-visitor.nvim (⭐30)](https://github.com/xiyaowong/link-visitor.nvim) - Let me help you open the links.
+*   [xiyaowong/link-visitor.nvim (⭐39)](https://github.com/xiyaowong/link-visitor.nvim) - Let me help you open the links.
 
 ## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

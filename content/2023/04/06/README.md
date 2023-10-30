@@ -14,7 +14,7 @@
 
 ### Third-Party Packages / Models
 
-*   [django-simple-history (⭐1.9k)](https://github.com/jazzband/django-simple-history) - Store model history and view/revert changes from the admin.
+*   [django-simple-history (⭐2k)](https://github.com/jazzband/django-simple-history) - Store model history and view/revert changes from the admin.
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -43,7 +43,7 @@
 
 ### GTFS Libraries / C++
 
-*   [just\_gtfs (⭐18)](https://github.com/mesozoic-drones/just_gtfs) - C++17 header-only library for reading and writing GTFS (used in [Valhalla (⭐2.4k)](https://github.com/valhalla/valhalla)). Main features: fast reading and writing of GTFS feeds, support for [extended GTFS route types](https://developers.google.com/transit/gtfs/reference/extended-route-types), simple working with GTFS Date and Time formats.
+*   [just\_gtfs (⭐19)](https://github.com/mesozoic-drones/just_gtfs) - C++17 header-only library for reading and writing GTFS (used in [Valhalla (⭐2.6k)](https://github.com/valhalla/valhalla)). Main features: fast reading and writing of GTFS feeds, support for [extended GTFS route types](https://developers.google.com/transit/gtfs/reference/extended-route-types), simple working with GTFS Date and Time formats.
 
 ### GTFS Libraries / R
 
@@ -51,7 +51,7 @@
 
 ### GTFS Analysis Tools / Ruby
 
-*   [gtfstools (⭐32)](https://github.com/ipeaGIT/gtfstools) - A set of convenient tools for editing and analysing transit feeds in GTFS format in R.
+*   [gtfstools (⭐34)](https://github.com/ipeaGIT/gtfstools) - A set of convenient tools for editing and analysing transit feeds in GTFS format in R.
 
 ---
 

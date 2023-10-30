@@ -32,7 +32,7 @@
 
 ### Queue
 
-*   [Kafunk (⭐162)](https://github.com/jet/kafunk) - F# Kafka client from Jet
+*   [Kafunk (⭐161)](https://github.com/jet/kafunk) - F# Kafka client from Jet
 
 ## [5. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -42,8 +42,8 @@
 
 ### Key-value Data Model
 
-*   [Bolt (⭐13k)](https://github.com/boltdb/bolt) - an embedded key-value database for Go.
-*   [BuntDB (⭐3.9k)](https://github.com/tidwall/buntdb) - a fast, embeddable, in-memory key/value database for Go with custom indexing and geospatial support.
+*   [Bolt (⭐14k)](https://github.com/boltdb/bolt) - an embedded key-value database for Go.
+*   [BuntDB (⭐4.1k)](https://github.com/tidwall/buntdb) - a fast, embeddable, in-memory key/value database for Go with custom indexing and geospatial support.
 *   [HyperDex (⭐1.4k)](https://github.com/rescrv/HyperDex) - a scalable, next generation key-value and document store with a wide array of features, including consistency, fault tolerance and high performance.
 
 ### Columnar Databases
@@ -53,19 +53,19 @@
 
 ### Applications
 
-*   [ElastAert (⭐7.8k)](https://github.com/Yelp/elastalert) - ElastAlert is a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in ElasticSearch.
+*   [ElastAert (⭐7.9k)](https://github.com/Yelp/elastalert) - ElastAlert is a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in ElasticSearch.
 *   [Kapacitor (⭐2.2k)](https://github.com/influxdata/kapacitor) - an open source framework for processing, monitoring, and alerting on time series data.
 
 ## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Core Data
 
-*   [Skopelos (⭐236)](https://github.com/albertodebortoli/Skopelos) - A minimalistic, thread safe, non-boilerplate and super easy to use version of Active Record on Core Data.
+*   [Skopelos (⭐235)](https://github.com/albertodebortoli/Skopelos) - A minimalistic, thread safe, non-boilerplate and super easy to use version of Active Record on Core Data.
 
 ### UI / Barcode
 
 *   [CustomSegue (⭐123)](https://github.com/phimage/CustomSegue) - Custom segue for OSX Storyboards with slide and cross fade effects.
-*   [URLEmbeddedView (⭐647)](https://github.com/marty-suzuki/URLEmbeddedView) - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.
+*   [URLEmbeddedView (⭐646)](https://github.com/marty-suzuki/URLEmbeddedView) - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.
 
 ## [7. Colorful](/content/Siddharth11/Colorful/README.md)
 

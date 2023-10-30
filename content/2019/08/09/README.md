@@ -27,7 +27,7 @@
 
 ### tools / Other
 
-*   [PowerSploit (⭐10k)](https://github.com/PowerShellMafia/PowerSploit) - A PowerShell post exploitation framework
+*   [PowerSploit (⭐11k)](https://github.com/PowerShellMafia/PowerSploit) - A PowerShell post exploitation framework
 
 ## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -450,17 +450,17 @@
 
 ### Resources / Controllers
 
-*   [sdl2gdx (⭐60)](https://github.com/electronstudio/sdl2gdx) - Powerful gamepad implementation using SDL. Supports hundreds of controllers under the same mapping, rumble, and hotplugging.
+*   [sdl2gdx (⭐64)](https://github.com/electronstudio/sdl2gdx) - Powerful gamepad implementation using SDL. Supports hundreds of controllers under the same mapping, rumble, and hotplugging.
 
 ### Resources / Visual Effects
 
-*   [Shape Drawer (⭐163)](https://github.com/earlygrey/shapedrawer) - A performant alternative to ShapeRenderer that avoids Batch flushing.
+*   [Shape Drawer (⭐169)](https://github.com/earlygrey/shapedrawer) - A performant alternative to ShapeRenderer that avoids Batch flushing.
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 
-*   [Large scale Vue.js application boilerplate + Vuex (⭐263)](https://github.com/arunredhu/vuejs_boilerplate) - A boilerplate for starting large scale, flexible Vue.js application with using Vuex as state management - by [Arun Redhu](https://arunredhu.in)
+*   [Large scale Vue.js application boilerplate + Vuex (⭐268)](https://github.com/arunredhu/vuejs_boilerplate) - A boilerplate for starting large scale, flexible Vue.js application with using Vuex as state management - by [Arun Redhu](https://arunredhu.in)
 
 ---
 

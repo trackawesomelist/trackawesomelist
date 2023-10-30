@@ -22,7 +22,7 @@
 
 ### Frameworks, Libraries and Tools / Database Drivers
 
-*   [couchbase-lite-net (⭐423)](https://github.com/couchbase/couchbase-lite-net) - A lightweight, document-oriented (NoSQL), syncable database engine for .NET.
+*   [couchbase-lite-net (⭐430)](https://github.com/couchbase/couchbase-lite-net) - A lightweight, document-oriented (NoSQL), syncable database engine for .NET.
 
 ## [4. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Contents / Components
 
-*   [Preact Async Route (⭐137)](https://github.com/prateekbh/preact-async-route) - Async route component for preact-router.
+*   [Preact Async Route (⭐138)](https://github.com/prateekbh/preact-async-route) - Async route component for preact-router.
 
 ## [6. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 

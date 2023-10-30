@@ -26,11 +26,11 @@
 
 ### AI
 
-*   [CoreML-Models (⭐5.8k)](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
+*   [CoreML-Models (⭐6k)](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
 
 ### UITableView / Barcode
 
-*   [AZTableViewController (⭐72)](https://github.com/AfrozZaheer/AZTableViewController) - Elegant and easy way to integrate pagination with placeholder views.
+*   [AZTableViewController (⭐73)](https://github.com/AfrozZaheer/AZTableViewController) - Elegant and easy way to integrate pagination with placeholder views.
 
 ## [4. Awesome Choo](/content/choojs/awesome-choo/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Angular / Themes
 
-*   [NG-ZORRO (⭐8.3k)](https://github.com/NG-ZORRO/ng-zorro-antd) - Ant Design of Angular.
+*   [NG-ZORRO (⭐8.6k)](https://github.com/NG-ZORRO/ng-zorro-antd) - Ant Design of Angular.
 
 ### Components / Themes
 

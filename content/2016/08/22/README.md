@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 22, 2016
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,19 +12,13 @@
 
 *   [SwiftLearner (⭐39)](https://github.com/valdanylchuk/swiftlearner/) - Simply written algorithms to help study ML or write your own implementations.
 
-## [2. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
-
-### Testing
-
-*   [packagecloud (⭐26)](https://github.com/phalcongelist/packagecloud) - Phalcon distribution hosted on PackageCloud
-
-## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Date / Runner
 
 *   [fecha (⭐2k)](https://github.com/taylorhakes/fecha) - Lightweight date formatting and parsing (\~2KB). Meant to replace parsing and formatting functionality of moment.js.
 
-## [4. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [3. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 
@@ -34,44 +28,44 @@
 
 *   [Functional-Light JavaScript (⭐16k)](https://github.com/getify/functional-light-js) – This book explores the core principles of functional programming (FP) that can be applied to JavaScript. But what makes this book different is that it approaches these principles without all the heavy terminology.
 
-## [5. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
+## [4. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
 ### Development Projects / Bots
 
 *   [PokemonGo-Bot (⭐3.8k)](https://github.com/PokemonGoF/PokemonGo-Bot) - The Pokémon GO bot script, baking with community.
 *   [Bot Builder for PokemonGoBot (⭐17)](https://github.com/shilch/pogobot-builder) - Simply build your Pokémon GO bot.
 
-## [6. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/README.md)
+## [5. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/README.md)
 
 ### Legacy
 
 *   [Migrating your project to Symfony](https://stovepipe.systems/post/migrating-your-project-to-symfony) \[2016]
 
-## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Individuals/Group Contributors / A individuals
 
 *   Ariejan de Vroom <https://ariejan.net/>
 
-## [8. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+## [7. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Python / Data Sources
 
-*   [findatapy (⭐1.3k)](https://github.com/cuemacro/findatapy) - Python library to download market data via Bloomberg, Quandl, Yahoo etc.
+*   [findatapy (⭐1.5k)](https://github.com/cuemacro/findatapy) - Python library to download market data via Bloomberg, Quandl, Yahoo etc.
 
-## [9. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
+## [8. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 
 ### Community
 
 *   [Slack](https://slackcommunity.fusetools.com/) - The official Slack channel.
 
-## [10. Bots](/content/hackerkid/bots/README.md)
+## [9. Bots](/content/hackerkid/bots/README.md)
 
 ### Telegram
 
 *   [Node.js (⭐6.6k)](https://github.com/telegraf/telegraf)
 
-## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -79,7 +73,7 @@
 
 ### Frameworks, Libraries and Tools / Bundling and Minification
 
-*   [Smidge (⭐313)](https://github.com/Shazwazza/Smidge/) - Lightweight runtime CSS/JavaScript file minification, combination, compression & management library for ASP.NET Core.
+*   [Smidge (⭐344)](https://github.com/Shazwazza/Smidge/) - Lightweight runtime CSS/JavaScript file minification, combination, compression & management library for ASP.NET Core.
 
 ### Frameworks, Libraries and Tools / Logging
 
@@ -87,11 +81,11 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [datatables (⭐295)](https://github.com/ALMMa/datatables.aspnet/tree/dev) - Microsoft ASP.NET server-side support and helpers for jQuery DataTables.
+*   [datatables (⭐303)](https://github.com/ALMMa/datatables.aspnet/tree/dev) - Microsoft ASP.NET server-side support and helpers for jQuery DataTables.
 
 ### Frameworks, Libraries and Tools / Searching
 
-*   [Elasticsearch.Net & NEST (⭐3.3k)](https://github.com/elastic/elasticsearch-net) - Repository for both NEST and Elasticsearch.NET, the two official elasticsearch .NET clients.
+*   [Elasticsearch.Net & NEST (⭐3.5k)](https://github.com/elastic/elasticsearch-net) - Repository for both NEST and Elasticsearch.NET, the two official elasticsearch .NET clients.
 
 ---
 

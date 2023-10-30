@@ -6,25 +6,31 @@
 
 
 
-## [1. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### C# / Non-X86
+
+*   [Introduction to Rx](http://www.introtorx.com)
+
+## [2. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Ruby Clients
 
-*   [httparty (⭐5.6k)](https://github.com/jnunemaker/httparty) - Makes HTTP fun again!
+*   [httparty (⭐5.7k)](https://github.com/jnunemaker/httparty) - Makes HTTP fun again!
 
-## [2. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [3. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Libraries Audio
 
 *   [audio-render (⭐41)](https://github.com/audio-lab/render) - A pass-through audio stream, providing structure for rendering stream audio data.
 
-## [3. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [4. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Utilities
 
 *   [Vert.x Cron (⭐58)](https://github.com/diabolicallabs/vertx-cron) - Schedule events with cron specifications. Has event bus and Observable versions.
 
-## [4. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [5. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Audio
 
@@ -34,7 +40,7 @@
 
 *   [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) - Another free game engine. Lots of documentation and easier to pick up, but you pay 5% royalties to Unreal when you make money from UE-based games.
 
-## [5. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [6. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Algorithms
 
@@ -60,55 +66,55 @@
     *   [Readings](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/readings/)
     *   [Resources](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/download-course-materials/)
 
-## [6. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [7. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Disassemblers and debuggers
 
 *   [plasma (⭐3k)](https://github.com/joelpx/plasma) - Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.
 
-## [7. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [8. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
 *   [Stockified](https://www.stockified.com/) - Free pictures taken in India by Kiran BV and [Aditya G Bharadwaj](http://ab-dz.com/).
 
-## [8. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [9. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Other Interesting Articles / Polyfills
 
 *   [Flexbox Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/)
 
-## [9. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [10. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Tools / Misc
 
 *   [Rollover](http://freshinbox.com/tools/rollover/) - Generates code for a Rollover Image that displays an alternative image when the email recipient hovers the cursor over the image.
 
-## [10. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [11. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### R Development
 
 *   [modules (⭐4)](https://github.com/klmr/modules) - An alternative (Python style) module system for R.
 
-## [11. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [12. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Time-Series Databases
 
 *   [Chronix](http://chronix.io/) - a time series storage built to store time series highly compressed and for fast access times.
 
-## [12. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
+## [13. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
 ### Articles
 
 *   [Testing React Native apps with AVA](https://shift.infinite.red/testing-the-bejeezus-out-of-react-native-apps-with-ava-330f51f8f6c3)
 
-## [13. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [14. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Professional Groups / Research Groups (USA)
 
 *   [Duke Network Analysis Center](https://dnac.ssri.duke.edu/).
 
-## [14. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [15. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Tutorials
 
@@ -122,7 +128,7 @@
 
 *   [Fizz Buzz in TensorFlow](http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/) - A joke by Joel Grus
 
-## [15. Empathy in Engineering](/content/KimberlyMunoz/empathy-in-engineering/week/README.md)
+## [16. Empathy in Engineering](/content/KimberlyMunoz/empathy-in-engineering/week/README.md)
 
 ### Words / Empathy for your users
 
@@ -140,40 +146,34 @@
 *   [Blameless PostMortems and a Just Culture](https://codeascraft.com/2012/05/22/blameless-postmortems/) 📰 - Etsy's Code as Craft blog discusses how they look at mistakes with a perspective of learning through blameless post-mortems.
 *   [What Google Learned From Its Quest to Build the Perfect Team](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) 📰 - The New York Times synthesizes how Google's data-driven culture discovered that norms centering communication and empathy made better teams.
 
-## [16. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [17. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Plugins / IRC
 
 *   [Composer-Asset-Plugin (⭐900)](https://github.com/fxpio/composer-asset-plugin) - A npm/Bower Dependencies Manager for Composer.
 
-## [17. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [18. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Network
 
 *   [armeria (⭐4k)](https://github.com/line/armeria) - Asynchronous RPC/API client/server library built on top of Java 8, Netty 4.1, HTTP/2, and Thrift.
 
-## [18. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [19. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Internationalization
 
-*   [Localization (⭐158)](https://github.com/aspnet/Localization) - Localization abstractions and implementations for ASP.NET Core applications.
+*   [Localization (⭐156)](https://github.com/aspnet/Localization) - Localization abstractions and implementations for ASP.NET Core applications.
 
 ### Frameworks, Libraries and Tools / Testing
 
-*   [MyTested.AspNetCore.Mvc (⭐1.6k)](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc) - Fluent testing
+*   [MyTested.AspNetCore.Mvc (⭐1.7k)](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc) - Fluent testing
     framework for ASP.NET Core MVC.
-
-## [19. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
-
-### Software / Remote Management
-
-*   [X2go](http://wiki.x2go.org/doku.php) - X2Go is an open source remote desktop software for Linux that uses the NX technology protocol.
 
 ## [20. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Introduction to machine learning with scikit-learn (⭐3.5k)](https://github.com/justmarkham/scikit-learn-videos) - IPython notebooks from Data School's video tutorials on scikit-learn.
+*   [Introduction to machine learning with scikit-learn (⭐3.6k)](https://github.com/justmarkham/scikit-learn-videos) - IPython notebooks from Data School's video tutorials on scikit-learn.
 
 ## [21. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
@@ -341,11 +341,11 @@ git blame <file-name>
 
 ### Code Analysis and Metrics
 
-*   [Metrics-Net (⭐632)](https://github.com/Recognos/Metrics.NET) - Capturing CLR and application-level metrics. So you know what's going on.
+*   [Metrics-Net (⭐634)](https://github.com/Recognos/Metrics.NET) - Capturing CLR and application-level metrics. So you know what's going on.
 
 ### Minification
 
-*   [Web Markup Minifier (⭐409)](https://github.com/Taritsyn/WebMarkupMin) - .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
+*   [Web Markup Minifier (⭐417)](https://github.com/Taritsyn/WebMarkupMin) - .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
 
 ### Queue
 
@@ -353,7 +353,7 @@ git blame <file-name>
 
 ### Testing
 
-*   [FakeItEasy (⭐1.4k)](https://github.com/FakeItEasy/FakeItEasy) - The easy mocking library for .NET <https://fakeiteasy.github.io>
+*   [FakeItEasy (⭐1.5k)](https://github.com/FakeItEasy/FakeItEasy) - The easy mocking library for .NET <https://fakeiteasy.github.io>
 
 ## [35. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -365,8 +365,8 @@ git blame <file-name>
 
 ### Packages / Command-line apps
 
-*   [jscpd (⭐3.1k)](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
-*   [atmo (⭐813)](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
+*   [jscpd (⭐3.2k)](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
+*   [atmo (⭐814)](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
 
 ## [37. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -414,7 +414,7 @@ git blame <file-name>
 
 ### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
-*   [Italiano (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/it-IT)
+*   [Italiano (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/it-IT)
 
 ## [44. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -472,7 +472,7 @@ git blame <file-name>
 
 ### Scripts / GitHub
 
-*   [GitHub Monospace Editor (⭐8)](https://github.com/devxoul/github-monospace-editor) - Provide MonoSpace font on GitHub textareas.
+*   [GitHub Monospace Editor (⭐9)](https://github.com/devxoul/github-monospace-editor) - Provide MonoSpace font on GitHub textareas.
 *   [GitHub PR Approvals (⭐1)](https://github.com/stowball/github-pr-approvals) - Require approvals in GitHub PRs before merging is allowed.
 
 ### Additional Catalogues / YouTube
@@ -511,11 +511,11 @@ git blame <file-name>
 
 ### Images / Barcode
 
-*   [Moa (⭐330)](https://github.com/evgenyneu/moa) - An image download extension of the image view for iOS, tvOS and macOS.
+*   [Moa (⭐333)](https://github.com/evgenyneu/moa) - An image download extension of the image view for iOS, tvOS and macOS.
 
 ### Utility / Barcode
 
-*   [SwiftLinkPreview (⭐1.3k)](https://github.com/LeonardoCardoso/SwiftLinkPreview) - It makes a preview from an url, grabbing all information such as title, relevant texts and images.
+*   [SwiftLinkPreview (⭐1.4k)](https://github.com/LeonardoCardoso/SwiftLinkPreview) - It makes a preview from an url, grabbing all information such as title, relevant texts and images.
 
 ## [51. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 

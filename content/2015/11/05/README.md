@@ -35,7 +35,7 @@
 
 ### Admin Interface
 
-*   [Administrate (⭐5.6k)](https://github.com/thoughtbot/administrate) - A Rails engine that helps you put together a super-flexible admin dashboard, by Thoughtbot.
+*   [Administrate (⭐5.7k)](https://github.com/thoughtbot/administrate) - A Rails engine that helps you put together a super-flexible admin dashboard, by Thoughtbot.
 
 ## [6. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
@@ -52,15 +52,15 @@
 
 ### Packages / Mad science
 
-*   [ipfs (⭐7.4k)](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
+*   [ipfs (⭐7.5k)](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
 
 ### Packages / Command-line utilities
 
-*   [chalk (⭐20k)](https://github.com/chalk/chalk) - Terminal string styling done right.
+*   [chalk (⭐21k)](https://github.com/chalk/chalk) - Terminal string styling done right.
 
 ### Packages / Streams
 
-*   [readable-stream (⭐996)](https://github.com/nodejs/readable-stream) - Mirror of Streams2 and Streams3 implementations in core.
+*   [readable-stream (⭐1k)](https://github.com/nodejs/readable-stream) - Mirror of Streams2 and Streams3 implementations in core.
 
 ### Packages / Real-time
 
@@ -68,11 +68,11 @@
 
 ### Packages / Math
 
-*   [ndarray (⭐1.1k)](https://github.com/scijs/ndarray) - Multidimensional arrays.
+*   [ndarray (⭐1.2k)](https://github.com/scijs/ndarray) - Multidimensional arrays.
 
 ### Packages / Parsing
 
-*   [PEG.js (⭐4.6k)](https://github.com/pegjs/pegjs) - Simple parser generator that produces fast parsers with excellent error reporting.
+*   [PEG.js (⭐4.7k)](https://github.com/pegjs/pegjs) - Simple parser generator that produces fast parsers with excellent error reporting.
 
 ### Packages / Compression
 
@@ -80,11 +80,11 @@
 
 ### Packages / Testing
 
-*   [Sinon.JS (⭐9.3k)](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks.
+*   [Sinon.JS (⭐9.4k)](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks.
 
 ### Packages / Minifiers
 
-*   [minimize (⭐161)](https://github.com/Swaagie/minimize) - HTML minifier.
+*   [minimize (⭐162)](https://github.com/Swaagie/minimize) - HTML minifier.
 *   [imagemin (⭐5.4k)](https://github.com/imagemin/imagemin) - Image minifier.
 
 ### Packages / Node.js management

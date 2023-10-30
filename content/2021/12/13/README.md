@@ -14,7 +14,7 @@
 
 ### Packages / Networking
 
-*   [Husarnet VPN (⭐227)](https://github.com/husarnet/husarnet) - A P2P, secure network layer dedicated for ROS & ROS 2. ![husarnet](https://img.shields.io/github/stars/husarnet/husarnet.svg)
+*   [Husarnet VPN (⭐241)](https://github.com/husarnet/husarnet) - A P2P, secure network layer dedicated for ROS & ROS 2. ![husarnet](https://img.shields.io/github/stars/husarnet/husarnet.svg)
 
 ### Companies / Robotics Capture the Flag (RCTF)
 
@@ -22,10 +22,10 @@
 
 ## [2. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
 *   [terraform-credentials-vault (⭐4)](https://github.com/oulman/terraform-credentials-vault) - A Terraform "credentials helper" plugin that allows providing credentials for Terraform-native services (private module registries, Terraform Cloud, etc) via environment variables.
-*   [terrastate (⭐73)](https://github.com/rohinivsenthil/terrastate) - Visual Studio Code extension to monitor/deploy/destroy Terraform resources in your workspace
+*   [terrastate (⭐74)](https://github.com/rohinivsenthil/terrastate) - Visual Studio Code extension to monitor/deploy/destroy Terraform resources in your workspace
 *   [tfvaultenv (⭐46)](https://github.com/oulman/tfvaultenv) - tfvaultenv reads secrets from HashiCorp Vault and outputs environment variables for various Terraform providers with those secrets.
 
 ## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
@@ -38,7 +38,7 @@
 
 ### Tools & Software / WARC I/O Libraries
 
-*   [FastWARC (⭐29)](https://github.com/chatnoir-eu/chatnoir-resiliparse) - A high-performance WARC parsing library (Python).
+*   [FastWARC (⭐32)](https://github.com/chatnoir-eu/chatnoir-resiliparse) - A high-performance WARC parsing library (Python).
 
 ## [5. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
 
@@ -50,17 +50,17 @@
 
 ### Source Code Repos
 
-*   [OSDN](https://osdn.net/) - OSDN.net is a free-of-charge service for open source software developers, offering SVN/Git/Mercurial/Bazaar/CVS repositories and more.
+*   [OSDN](https://osdn.net/) - OSDN.net is a free-of-charge service for open-source software developers, offering SVN/Git/Mercurial/Bazaar/CVS repositories.
 
 ## [7. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Software / G-code
 
-*   [node-gcode (⭐30)](https://github.com/ryansturmer/node-gcode) - Node.js G-code interpreter and simulator.
-*   [svg2gcode (⭐52)](https://github.com/em/svg2gcode) - Node.js command line utility for converting SVG to G-code.
-*   [svg2gcode (⭐86)](https://github.com/vishpat/svg2gcode) - Python utility for fast SVG to G-code conversion.
+*   [node-gcode (⭐31)](https://github.com/ryansturmer/node-gcode) - Node.js G-code interpreter and simulator.
+*   [svg2gcode (⭐53)](https://github.com/em/svg2gcode) - Node.js command line utility for converting SVG to G-code.
+*   [svg2gcode (⭐87)](https://github.com/vishpat/svg2gcode) - Python utility for fast SVG to G-code conversion.
 *   [jscut](http://jscut.org/) - A web-based utility for converting SVG to G-code.
-*   [gcodeplot (⭐134)](https://github.com/arpruss/gcodeplot) - Python utility to convert SVG and HPGL to G-code for a 3-axis CNC machine.
+*   [gcodeplot (⭐144)](https://github.com/arpruss/gcodeplot) - Python utility to convert SVG and HPGL to G-code for a 3-axis CNC machine.
 
 ## [8. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-use-paginator (⭐13)](https://github.com/Sun0fABeach/vue-use-paginator) - Vue 3 use-hook to reactively paginate data and arrange paginator buttons. Completely renderless.
+*   [vue-use-paginator (⭐16)](https://github.com/Sun0fABeach/vue-use-paginator) - Vue 3 use-hook to reactively paginate data and arrange paginator buttons. Completely renderless.
 
 ### Components & Libraries / Utilities
 
@@ -82,7 +82,7 @@
 
 ### Tools - Editors & IDEs & Explorers / React
 
-*   [CraftQL (⭐90)](https://github.com/yamafaktory/craftql) - A CLI tool to visualize GraphQL schemas and to output a graph data structure as a graphviz .dot format.
+*   [CraftQL (⭐100)](https://github.com/yamafaktory/craftql) - A CLI tool to visualize GraphQL schemas and to output a graph data structure as a graphviz .dot format.
 
 ## [11. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
@@ -127,13 +127,13 @@
 
 ### Libraries / Image processing
 
-*   [rust-cv/cv (⭐515)](https://github.com/rust-cv/cv) — Rust CV is a project to implement computer vision algorithms, abstractions, and systems in Rust. #\[no\_std] is supported where possible. ![build badge](https://github.com/rust-cv/cv/workflows/tests/badge.svg)
+*   [rust-cv/cv (⭐623)](https://github.com/rust-cv/cv) — Rust CV is a project to implement computer vision algorithms, abstractions, and systems in Rust. #\[no\_std] is supported where possible. ![build badge](https://github.com/rust-cv/cv/workflows/tests/badge.svg)
 
 ## [16. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Utils / Other Tools
 
-*   [FastAPI Events (⭐248)](https://github.com/melvinkcx/fastapi-events) - Asynchronous event dispatching/handling library for FastAPI and Starlette.
+*   [FastAPI Events (⭐297)](https://github.com/melvinkcx/fastapi-events) - Asynchronous event dispatching/handling library for FastAPI and Starlette.
 
 ---
 

@@ -16,7 +16,7 @@
 
 ### Libraries / Authentication
 
-*   [oauth2 (⭐682)](https://github.com/ramosbugs/oauth2-rs) — Extensible, strongly-typed Rust OAuth2 client library
+*   [oauth2 (⭐744)](https://github.com/ramosbugs/oauth2-rs) — Extensible, strongly-typed Rust OAuth2 client library
 
 ## [3. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -37,11 +37,6 @@
 *   [Getting started with dotfiles](https://driesvints.com/blog/getting-started-with-dotfiles/)
     ([D. Vints](https://github.com/driesvints))
 
-### Articles / Tutorials
-
-*   [Setting Up a Mac Dev Machine From Zero to Hero With Dotfiles](https://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles--net-35449);
-    [Part 2](https://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles-part-2--cms-23145)
-
 ### Find dotfiles repos / Using specific tools
 
 *   Tip: search for a filename on GitHub, e.g.
@@ -55,16 +50,16 @@
     functions, etc) from others into your own configuration files.
 *   [GNU Stow](http://www.gnu.org/software/stow/) - Symlink farm manager which takes distinct packages of software and/or
     data located in separate directories on the filesystem, and makes them appear to be installed in the same place.
-*   [Pearl (⭐203)](https://github.com/pearl-core/pearl) - Package manager that allows to control, sync, share dotfiles as
+*   [Pearl (⭐219)](https://github.com/pearl-core/pearl) - Package manager that allows to control, sync, share dotfiles as
     packages automatically activated during shells or editors startup. There is a wide range of packages already available
     in the [Official Pearl Hub](https://github.com/pearl-hub) (for Linux and OSX).
-*   [rcm (⭐2.9k)](https://github.com/thoughtbot/rcm) - rc file (dotfile) management.
-*   [yadm (⭐3.8k)](https://github.com/TheLocehiliosan/yadm) - Tool for managing a collection of files across multiple computers,
+*   [rcm (⭐3k)](https://github.com/thoughtbot/rcm) - rc file (dotfile) management.
+*   [yadm (⭐4.3k)](https://github.com/TheLocehiliosan/yadm) - Tool for managing a collection of files across multiple computers,
     using a shared Git repository and some additional features.
 
 ### Tools / macOS
 
-*   [zero (⭐225)](https://github.com/zero-sh/zero.sh) - Radically simple personal bootstrapping tool for macOS.
+*   [zero (⭐249)](https://github.com/zero-sh/zero.sh) - Radically simple personal bootstrapping tool for macOS.
 
 ### Miscellaneous / macOS
 
@@ -75,27 +70,27 @@
 
 ### Related Lists / macOS
 
-*   [Awesome Dev Env (⭐2.4k)](https://github.com/jondot/awesome-devenv) - Curated list of awesome tools, resources and workflow
+*   [Awesome Dev Env (⭐2.6k)](https://github.com/jondot/awesome-devenv) - Curated list of awesome tools, resources and workflow
     tips making an awesome development environment.
-*   [Awesome Shell (⭐26k)](https://github.com/alebcay/awesome-shell) - Curated list of awesome command-line frameworks, toolkits,
+*   [Awesome Shell (⭐28k)](https://github.com/alebcay/awesome-shell) - Curated list of awesome command-line frameworks, toolkits,
     guides and gizmos.
-*   [Awesome Zsh Plugins (⭐12k)](https://github.com/unixorn/awesome-zsh-plugins) - List of Zsh plugins suitable for use with
+*   [Awesome Zsh Plugins (⭐13k)](https://github.com/unixorn/awesome-zsh-plugins) - List of Zsh plugins suitable for use with
     oh-my-zsh, antigen & Prezto.
-*   [Terminals Are Sexy (⭐11k)](https://github.com/k4m4/terminals-are-sexy) - A curated list of Terminal frameworks, plugins &
+*   [Terminals Are Sexy (⭐12k)](https://github.com/k4m4/terminals-are-sexy) - A curated list of Terminal frameworks, plugins &
     resources for CLI lovers.
 
 ### Archive/abandoned projects / macOS
 
-*   [Bork (⭐222)](https://github.com/mattly/bork)
-*   [Cider (⭐846)](https://github.com/msanders/cider)
-*   [dev-setup (⭐5.9k)](https://github.com/donnemartin/dev-setup)
-*   [dotfiles (⭐555)](https://github.com/jbernard/dotfiles)
-*   [ellipsis (⭐347)](https://github.com/ellipsis/ellipsis)
-*   [emplace (⭐203)](https://github.com/tversteeg/emplace)
-*   [holman does dotfiles (⭐6.8k)](https://github.com/holman/dotfiles)
+*   [Bork (⭐220)](https://github.com/mattly/bork)
+*   [Cider (⭐841)](https://github.com/msanders/cider)
+*   [dev-setup (⭐6k)](https://github.com/donnemartin/dev-setup)
+*   [dotfiles (⭐563)](https://github.com/jbernard/dotfiles)
+*   [ellipsis (⭐351)](https://github.com/ellipsis/ellipsis)
+*   [emplace (⭐223)](https://github.com/tversteeg/emplace)
+*   [holman does dotfiles (⭐7k)](https://github.com/holman/dotfiles)
 *   [homesick (⭐2.4k)](https://github.com/technicalpickles/homesick)
-*   [OS X Defaults (⭐1.1k)](https://github.com/kevinSuttle/macOS-Defaults)
-*   [vcsh (⭐2k)](https://github.com/RichiH/vcsh)
+*   [OS X Defaults (⭐1.2k)](https://github.com/kevinSuttle/macOS-Defaults)
+*   [vcsh (⭐2.1k)](https://github.com/RichiH/vcsh)
     ([article](https://blog.tfnico.com/2014/03/managing-dot-files-with-vcsh-and-myrepos.html),
     [article](https://www.kunxi.org/2014/02/manage-dotfiles-using-vcsh-and-mr/))
 
@@ -107,7 +102,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-lumino (⭐66)](https://github.com/tupilabs/vue-lumino) - A component to use Vue.js with Jupyter Lumino (PhosphorJS), integrating DOM & VDOM through event listeners and Vue reactivity system.
+*   [vue-lumino (⭐69)](https://github.com/tupilabs/vue-lumino) - A component to use Vue.js with Jupyter Lumino (PhosphorJS), integrating DOM & VDOM through event listeners and Vue reactivity system.
 
 ## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -123,11 +118,11 @@
 
 *   [FeedSubscriberBot](https://t.me/FeedSubscriberBot) <sup>[705](https://t.me/s/aboutrss/705)</sup>
 
-### 🧩 API / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### 🧩 API / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [granary](https://granary.io/) <sup>[709](https://t.me/s/aboutrss/709)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/snarfed/granary/)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### Full Article Extractors / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Full Article Extractors / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSS屋](https://rss.mifaw.com/) <sup>[112](https://t.me/s/aboutrss/112)</sup>
 *   [Full-Text RSS](https://www.fivefilters.org/full-text-rss/) <sup>[245](https://t.me/s/aboutrss/245), [437](https://t.me/s/aboutrss/437)</sup>
@@ -142,11 +137,11 @@
 *   [PosterBot](https://t.me/pstrbot) <sup>[705](https://t.me/s/aboutrss/705)</sup>
 *   [rssPubBot](https://t.me/rssPubBot) <sup>[705](https://t.me/s/aboutrss/705)</sup>
 
-### Obtain translated RSS feed / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Obtain translated RSS feed / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [a Google Script](https://www.labnol.org/internet/google-translate-rss-feeds/5110/) <sup>[712](https://t.me/s/aboutrss/712)</sup>
 
-### ⛓ OPML management / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### ⛓ OPML management / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [OPML generator](https://opml-gen.ovh/) <sup>[703](https://t.me/s/aboutrss/703)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 

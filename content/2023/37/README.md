@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 11 - Sep 17, 2023
 
-47 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### CSV
 
-*   [ssp (⭐40)](https://github.com/red0124/ssp) - A header only "csv" parser which is fast and versatile with modern C++ api. \[MIT]
+*   [ssp (⭐43)](https://github.com/red0124/ssp) - A header only "csv" parser which is fast and versatile with modern C++ api. \[MIT]
 
 ### Integrated Development Environment
 
@@ -27,13 +27,14 @@
 ### Libraries / Python
 
 *   [AtlasQ (⭐5)](https://github.com/certego/AtlasQ) - MongoDB Atlas Search wrapper with MongoEngine syntax
-*   [Flask-MongoEngine (⭐830)](https://github.com/MongoEngine/flask-mongoengine) - Flask extension that integrates MongoEngine, WTForms and FlaskDebugToolbar
+*   [Flask-MongoEngine (⭐832)](https://github.com/MongoEngine/flask-mongoengine) - Flask extension that integrates MongoEngine, WTForms and FlaskDebugToolbar
 
 ## [4. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Free Courses
 
-*   [Hands-on Train and Deploy ML (⭐447)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - A hands-on course to train and deploy a serverless API that predicts crypto prices.
+*   [MLSys-NYU-2022 (⭐181)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
+*   [Hands-on Train and Deploy ML (⭐494)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - A hands-on course to train and deploy a serverless API that predicts crypto prices.
 
 ## [5. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
@@ -62,7 +63,7 @@
 
 ### Open Source / Other
 
-*   [PikaTorrent (⭐152)](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
+*   [PikaTorrent (⭐226)](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
 
 ## [9. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
@@ -72,7 +73,7 @@
 
 ### Miscellaneous / React
 
-*   [goctopus (⭐68)](https://github.com/Escape-Technologies/goctopus) - an incredibly fast GraphQL discovery & fingerprinting toolbox.
+*   [goctopus (⭐77)](https://github.com/Escape-Technologies/goctopus) - an incredibly fast GraphQL discovery & fingerprinting toolbox.
 
 ### Posts / React
 
@@ -86,15 +87,15 @@
 
 ### Applications / Cryptocurrencies
 
-*   [wagyu (⭐580)](https://github.com/howardwu/wagyu) \[[wagyu](https://crates.io/crates/wagyu)] — Rust library for generating cryptocurrency wallets
+*   [wagyu (⭐583)](https://github.com/howardwu/wagyu) \[[wagyu](https://crates.io/crates/wagyu)] — Rust library for generating cryptocurrency wallets
 
 ### Applications / Games
 
-*   [maras-archive/rsnake (⭐107)](https://github.com/maras-archive/rsnake) — Snake written in Rust.
+*   [maras-archive/rsnake (⭐110)](https://github.com/maras-archive/rsnake) — Snake written in Rust.
 
 ### Applications / System tools
 
-*   [eza-community/eza (⭐680)](https://github.com/eza-community/eza) — A replacement for 'ls'
+*   [eza-community/eza (⭐3.1k)](https://github.com/eza-community/eza) — A replacement for 'ls'
 
 ## [11. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
@@ -110,27 +111,26 @@
 
 ## [13. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
-### Courses & Books & Blogs
-
-*   [MLSys-NYU-2022 (⭐163)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
-*   [Train and Deploy a Serverless API to predict crypto prices (⭐447)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - In this tutorial you won't build an ML system that will make you rich. But you will master the MLOps frameworks and tools you need to build ML systems that, together with tons of experimentation, can take you there.
-
 ### LLMs
 
-*   [Hands-on LLMs: Train and Deploy a Real-time Financial Advisor (⭐113)](https://github.com/iusztinpaul/hands-on-llms) - Train and deploy a real-time financial advisor chatbot with Falcon 7B and CometLLM.
+*   [Hands-on LLMs: Train and Deploy a Real-time Financial Advisor (⭐283)](https://github.com/iusztinpaul/hands-on-llms) - Train and deploy a real-time financial advisor chatbot with Falcon 7B and CometLLM.
+
+### Courses & Books & Blogs
+
+*   [Train and Deploy a Serverless API to predict crypto prices (⭐467)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - In this tutorial you won't build an ML system that will make you rich. But you will master the MLOps frameworks and tools you need to build ML systems that, together with tons of experimentation, can take you there.
 
 ## [14. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Utility
 
-*   [objc (⭐1)](https://github.com/magic003/objc) - V bindings to Objective-C runtime.
-*   [vhs (⭐1)](https://github.com/KevinDaSilvaS/vhs) - Haskell prelude list functions(zip, zipwith, head, etc) implemented in V.
+*   [objc (⭐2)](https://github.com/magic003/objc) - V bindings to Objective-C runtime.
+*   [vhs (⭐2)](https://github.com/KevinDaSilvaS/vhs) - Haskell prelude list functions(zip, zipwith, head, etc) implemented in V.
 
 ## [15. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Web Hosting
 
-*   [dAppling Network](https://www.dappling.network/) - Decentralized web hosting platform for Web3 frontends focusing on increasing uptime, security, and providing an additional access point for users.
+*   [dAppling Network](https://www.dappling.network/) - Decentralized web hosting platform for Web3 frontends focusing on increasing uptime and security and providing an additional access point for users.
 
 ## [16. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
@@ -189,6 +189,15 @@
 
 
 ### Animation & 3D Modeling
+
+- Name: [Blimey](https://www.thataicollection.com/redirect/blimey?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Blimey - FROM IMAGINATION TO IMAGE IN MINUTES.
+
+  Description: Blimey is an ai image generator where you can go from idea to reality in a minute. With full control over composition, colors and style. Set up a virtual 3D scene to have full control over composition and colors when generating images with AI.
+
+  Offer Free Version: :white\_check\_mark:
+
 
 - Name: [Kaedim](https://www.thataicollection.com/redirect/kaedim?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
@@ -448,15 +457,6 @@
   Offer Free Version: :white\_check\_mark:
 
 
-- Name: [Artshop](https://www.thataicollection.com/redirect/artshop?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Artshop.
-
-  Description: Artshop brings amazing AI artworks to wall arts in your home and create welcoming addition to your beautiful home.
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [ARTSIO](https://www.thataicollection.com/redirect/artsio?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Discover  Inspire, Create Search and get inspired by millions of art images from Stable Diffusion, Midjourney, DALL-E...
@@ -484,11 +484,29 @@
   Offer Free Version: :x:
 
 
+- Name: [B^ DISCOVER](https://www.thataicollection.com/redirect/b^-discover?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: B^ Discover - DISCOVER YOUR wish, fantasy, emotion, dream, diary, life, fantasy in IMAGEEEES!.
+
+  Description: You will have a new experience of discovering your story in images. B^ DISCOVER is a service based on the AI generative model - Karlo.
+
+  Offer Free Version: :white\_check\_mark:
+
+
 - Name: [Bg Eraser](https://www.thataicollection.com/redirect/bg-eraser?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Bg Eraser - Magic Eraser for Picture Clean Up.
 
   Description: Powerful AI Inpainting and Picture Clean Up technology. Remove unwanted objects and clean up pictures in seconds.
+
+  Offer Free Version: :grey\_question:
+
+
+- Name: [Bloomoon](https://www.thataicollection.com/redirect/bloomoon?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Bloomoon - Ride the Digital Wave of Art.
+
+  Description: AI Art created by Artificial Intelligence algorithms. AI-generated art made with passion. Discover unique AI-generated paintings at bloomoon.
 
   Offer Free Version: :grey\_question:
 
@@ -536,6 +554,15 @@
   Description: CoverDesignAI can be a great asset to indie authors in the design process, providing them with inspirations, visualizing their thoughts,  reducing communication breakdowns with their designers on concrete visual preferences, showcasing the pictures to their audiences in an early stage, or simply DIYing using the generated designs.
 
   Offer Free Version: :white\_check\_mark:
+
+
+- Name: [Craiyon](https://www.thataicollection.com/redirect/craiyon?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Craiyon - Create AI Art with our free AI image generator.
+
+  Description: Craiyon is an AI model that can draw images from any text prompt! Generate your first AI image to fuel your creative momentum with new suggestions!.
+
+  Offer Free Version: :grey\_question:
 
 
 - Name: [CustomQR AI](https://www.thataicollection.com/redirect/customqr-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -590,15 +617,6 @@
   Description: Generate high-quality images from any text prompt. Let the AI draw!.
 
   Offer Free Version: :grey\_question:
-
-
-- Name: [Diffusion Land](https://www.thataicollection.com/redirect/diffusion-land?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Diffusion Land - Generate Images With AI.
-
-  Description: Generated images with 1-click, using any model of your choice.
-
-  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [DigitalMuses](https://www.thataicollection.com/redirect/digitalmuses?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -763,6 +781,15 @@
   Offer Free Version: :grey\_question:
 
 
+- Name: [ICONS8](https://www.thataicollection.com/redirect/icons8?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Icons, Illustrations, Photos, Music and Design Tools.
+
+  Description: ICONS8 ALLOWS DESIGNERS TO EXPRESS THEIR IDEAS, PROVIDING THE RIGHT DESIGN ELEMENTS AT THE RIGHT TIME.. AI features: Face Generator, Change faces of stock photos, Smart Upscaler, Update your website right from Lunacy and more.
+
+  Offer Free Version: :white\_check\_mark:
+
+
 - Name: [IllostrationAI](https://www.thataicollection.com/redirect/illostrationai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Illostrationai.
@@ -837,9 +864,9 @@
 
 - Name: [Mage Space](https://www.thataicollection.com/redirect/mage-space?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-  Title: Create Anything.
+  Title: mage.space - Create Anything - Explore Anything.
 
-  Description: .
+  Description: Explore images from different creators and categories such as Fantasy Art, Anime, Characters, Landscape, Cyberpunk, Space, Paintings, Pop Art, Cubism, Architecture, Interior Design.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -860,6 +887,24 @@
   Description: An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 
   Offer Free Version: :grey\_question:
+
+
+- Name: [Neural.Love](https://www.thataicollection.com/redirect/neural.love?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Free AI Image Generator & AI Enhance - Neural.Love.
+
+  Description: Use AI Image Generator for free or AI enhance, or access Millions Of Public Domain images - AI Enhance & Easy-to-use Online AI tools.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [Neuralblender](https://www.thataicollection.com/redirect/neuralblender?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: NeuralBlender uses state-of-the-art AI technology to generate images from text inp.
+
+  Description: Let’s blend some art Ask the AI everything and create new sick art from text input. Explore Featured Community Art, or create your own.
+
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [Neuralcanvas](https://www.thataicollection.com/redirect/neuralcanvas?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -907,6 +952,24 @@
   Offer Free Version: :grey\_question:
 
 
+- Name: [Patience](https://www.thataicollection.com/redirect/patience?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: PatienceAI - Create art with 500+ AI models & styles.
+
+  Description: Patience.ai can connect to AUTOMATIC1111's Stable Diffusion Web UI to generate images on your computer instead of in the cloud. If you are signed in, the images you generate are then saved to your Patience.ai collection. Local generation is 100% free.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [PatternedAI](https://www.thataicollection.com/redirect/patternedai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: PatterndAI - Generate unique patterns for your product using AI!.
+
+  Description: Integrate PatternedAI in your business! Get early access to PatternedAI Enterprise. Join selected clients in transforming workflows and driving growth.
+
+  Offer Free Version: :grey\_question:
+
+
 - Name: [Photosonic AI](https://www.thataicollection.com/redirect/photosonic-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Photosonic AI Art Generator - Create Unique Images With AI.
@@ -921,6 +984,15 @@
   Title: Phraser - the Collaborative Creative AI Tool.
 
   Description: Phraser is an app that helps you create images using generative AI (Midjourney, Stable Diffusion, and DALLE 2), collaborate, and get inspired.
+
+  Offer Free Version: :grey\_question:
+
+
+- Name: [Pictorial](https://www.thataicollection.com/redirect/pictorial?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Pictorial - Effortlessly Create Graphics for Your Web Applications.
+
+  Description: Inspiration is hard to come by. Get your message across hustle-free by leveraging an AI able to generate reliable, ready-to-use visual masterpieces.
 
   Offer Free Version: :grey\_question:
 
@@ -979,15 +1051,6 @@
   Offer Free Version: :white\_check\_mark:
 
 
-- Name: [Quasi](https://www.thataicollection.com/redirect/quasi?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: We Make Creating With AI Easy.
-
-  Description: Unlock with the power of AI and easily create stunning content of all types with a simple-to-use platform.
-
-  Offer Free Version: :white\_check\_mark:
-
-
 - Name: [Rayst Gradients](https://www.thataicollection.com/redirect/rayst-gradients?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Rayst Gradients.
@@ -1031,15 +1094,6 @@
   Description: Start creating beautiful art in seconds. Don't worry about the technical stuff, we've got you covered.
 
   Offer Free Version: :grey\_question:
-
-
-- Name: [Roll Art Die](https://www.thataicollection.com/redirect/roll-art-die?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Stablediffusion on Your Apple Silicon Devices.
-
-  Description: Generate AI Artworks using only text. Make your dream artworks into reality. No cloud subscription required.
-
-  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [RunDiffusion](https://www.thataicollection.com/redirect/rundiffusion?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -1164,6 +1218,24 @@
   Title: AI-Powered Tattoo Artist - Tattoosai.
 
   Description: If you have an idea for a tattoo but can't find the right design, let our AI generate one within seconds. It lets you create the perfect design based on what you like, and it will give you unlimited options so that there's something for everyone.
+
+  Offer Free Version: :grey\_question:
+
+
+- Name: [USP](https://www.thataicollection.com/redirect/usp?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Unique `AI generated` images for writers and creatives.
+
+  Description: Awesome AI generated ROYALTY FREE IMAGES for your stories and blog posts. Save time, money and get better images with usp.ai Stop spending so much time looking for the perfect images for your blogs, articles, social media posts, and sales emails... let USP.ai do it for you.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [Visuali](https://www.thataicollection.com/redirect/visuali?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Visuali - Visualize your imagination - AI image generation made easy.
+
+  Description: Turn your imagination into reality with Visuali's AI-powered generative art tools. Sign up for a free account now or try it for free by entering a text prompt below.
 
   Offer Free Version: :grey\_question:
 
@@ -1369,6 +1441,15 @@
   Offer Free Version: :x:
 
 
+- Name: [Pfpmaker](https://www.thataicollection.com/redirect/pfpmaker?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Create an awesome profile picture for free.
+
+  Description: Upload your photo and instantly create hundreds of professional profile pictures with AI to showcase your best self online. Choose from business headshot styles for LinkedIn, CVs, and resumes, or creative flair for Instagram and messaging.
+
+  Offer Free Version: :white\_check\_mark:
+
+
 - Name: [PhotoAI](https://www.thataicollection.com/redirect/photoai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Photoai.
@@ -1463,7 +1544,7 @@
 
   Title: Bring Portraits to Life With AI Magic. Instantly.
 
-  Description: .
+  Description: Tokkingheads - Puppet any Avatar from just an Image Bring portraits to life with AI magic. Instantly. Created by Rosebud AI.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -1642,6 +1723,15 @@
   Offer Free Version: :white\_check\_mark:
 
 
+- Name: [Kore.ai](https://www.thataicollection.com/redirect/kore.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: AI-First Experience Optimization Platform for Enterprises.
+
+  Description: Kore.ai automates front-office and back-office interactions for every industry by deploying conversational AI-first virtual assistants and process assistants.
+
+  Offer Free Version: :grey\_question:
+
+
 - Name: [LLM App](https://www.thataicollection.com/redirect/llm-app?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Python Library to Build Your AI Chatbot.
@@ -1735,6 +1825,15 @@
   Offer Free Version: :grey\_question:
 
 
+- Name: [Baseten](https://www.thataicollection.com/redirect/baseten?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Baseten - The Mlops Platform for Startups.
+
+  Description: Baseten is a serverless backend for building ML-powered applications. Build apps with auto-scaling, GPU access, CRON jobs, and serverless functions.
+
+  Offer Free Version: :grey\_question:
+
+
 - Name: [BI.P.EYE](https://www.thataicollection.com/redirect/bi.p.eye?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Self Service BI Platform.
@@ -1776,24 +1875,6 @@
   Title: Codeassist Is an AI Assistant / Chatbot / Copilot for Programming - Jetbrains Marketplace.
 
   Description: It generates, changes, completes the code and answers questions.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Codeball](https://www.thataicollection.com/redirect/codeball?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Codeball AI Powered Code Review.
-
-  Description: Codeball finds bugs in your Pull Requests, lets you ship faster and with higher confidence.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Codecleaningbot](https://www.thataicollection.com/redirect/codecleaningbot?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Code Cleaning Bot.
-
-  Description: Code Cleaning AI Bot fixes common code quality and security issues. Like: deleting unused and unreachable code, fix SQL injection, etc.
 
   Offer Free Version: :grey\_question:
 
@@ -1888,6 +1969,15 @@
   Offer Free Version: :white\_check\_mark:
 
 
+- Name: [Flexberry AI Assistant](https://www.thataicollection.com/redirect/flexberry-ai-assistant?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Flexberry AI Assistant - AI Assistant for Business Analyst.
+
+  Description: making it easier and faster for business analysts and other specialists like UI/UX designers to analyze text, and to generate mockup forms, SQL script and UML diagrams in a minute.
+
+  Offer Free Version: :grey\_question:
+
+
 - Name: [Ghostwriter](https://www.thataicollection.com/redirect/ghostwriter?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Replit: The Collaborative Browser Based Ide.
@@ -1933,15 +2023,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [Programminghelper](https://www.thataicollection.com/redirect/programminghelper?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Home.
-
-  Description: Generate code with AI just by typing a text description. AI will create the code for you. A tool that helps you with a wide range of tasks. All in one place.
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [QueryGenie](https://www.thataicollection.com/redirect/querygenie?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Write Db Queries Faster!.
@@ -1958,6 +2039,15 @@
   Description: Rome AI connects with your data source, analyze and allows conversational discussions with your own data! Rome is an AI powered no-code data enablement and analytics layer, empowering non-technical employees to become superhuman data analysts.
 
   Offer Free Version: :white\_check\_mark:
+
+
+- Name: [SQLgenius](https://www.thataicollection.com/redirect/sqlgenius?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: SQL Genius - English to SQL Query AI Translator.
+
+  Description: Let SQL Genius write SQL for you.  Benefits of using Upgrade SQL Genius: Unlimited queries, Save up to 15 tables at a time, Multiple joins, window functions, partitions, unnesting, Stellar customer support.
+
+  Offer Free Version: :grey\_question:
 
 
 - Name: [Swimm AI](https://www.thataicollection.com/redirect/swimm-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -2542,6 +2632,15 @@
   Offer Free Version: :white\_check\_mark:
 
 
+- Name: [TextSynth](https://www.thataicollection.com/redirect/textsynth?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: TextSynth provides access to large language or text-to-image models such as Llama2, Falcon, GPT-J, GPT-NeoX, Flan-T5, M2M100, CodeGen, Stable Diffusion thru a REST API and a playground.
+
+  Description: TextSynth employs custom inference code to get faster inference on standard GPUs and CPUs. The site was founded in 2020 and was among the first to give access to the GPT-2 language model. The basic service is free but rate limited. Users wishing no limitation can pay a small amount per request (see our pricing). If you wish custom support, please contact us: contact at textsynth dot com.
+
+  Offer Free Version: :white\_check\_mark:
+
+
 
 ### Customer Support
 
@@ -2586,6 +2685,15 @@
   Title: We Help Support Teams Communicate Faster and More Accurate.
 
   Description: OneTone.ai is an AI-powered platform that gives you valuable insights, allowing you to make informed decisions and deliver top-notch customer service.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [Poised 2.0](https://www.thataicollection.com/redirect/poised-2.0?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Poised - Free AI-Powered Communication Coach.
+
+  Description: Your AI feedback partner in presentations, interviews, customer calls. Communicate more effectively in meetings with private feedback before, during and after your online meetings.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -2731,6 +2839,15 @@
   Offer Free Version: :white\_check\_mark:
 
 
+- Name: [TutorAI](https://www.thataicollection.com/redirect/tutorai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Learn Anything - by searching your desired topic.
+
+  Description: TutoeAI Learn Anything is a search engine for learning modules from any topic. Try topics like physics, american history, or your own name!.
+
+  Offer Free Version: :white\_check\_mark:
+
+
 - Name: [Wilco Sierra](https://www.thataicollection.com/redirect/wilco-sierra?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: A Platform That Generates Engineering Challenges for Software Engineers Using AI.
@@ -2854,6 +2971,15 @@
   Offer Free Version: :grey\_question:
 
 
+- Name: [SwagAI](https://www.thataicollection.com/redirect/swagai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Spruce up your boring wardrobe with AI-generated swag.
+
+  Description: SwagAI - AI generated images on t-shirts. $1 from every sale goes towards animal conservation and anti-poaching organizations.
+
+  Offer Free Version: :grey\_question:
+
+
 - Name: [Visualhound](https://www.thataicollection.com/redirect/visualhound?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Visualhound - Prototype Your Fashion Design Ideas With AI.
@@ -2936,6 +3062,15 @@
   Description: Use AI to generate the perfect professional excuse.
 
   Offer Free Version: :grey\_question:
+
+
+- Name: [FoodAI](https://www.thataicollection.com/redirect/foodai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Foodai.App - Generate Cooking Recipes With Ai!.
+
+  Description: Select the ingredients you want to use, and our AI will give you recipes to make with some of those ingredients. Then click on the button below to get your recipe.
+
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [Jokelub](https://www.thataicollection.com/redirect/jokelub?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -3355,6 +3490,15 @@
   Offer Free Version: :white\_check\_mark:
 
 
+- Name: [Coverquick](https://www.thataicollection.com/redirect/coverquick?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Transforming your ideas into compelling content, effortlessly.
+
+  Description: CoverQuick is a revolutionary platform for effortless content creation and management. AI that learns from your data. By uploading all of your documents and resources, our platform is able to learn from your information, allowing you to create personalized content.
+
+  Offer Free Version: :white\_check\_mark:
+
+
 - Name: [Hire Hoc](https://www.thataicollection.com/redirect/hire-hoc?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Hire Hoc - The AI Powered Hiring Tool.
@@ -3484,11 +3628,29 @@
   Offer Free Version: :white\_check\_mark:
 
 
+- Name: [Ideasai](https://www.thataicollection.com/redirect/ideasai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Ideasai - Startup Ideas Powered by Openai.
+
+  Description: Ideas that are 100% generated by OpenAI's GPT-3, an artifically intelligent deep learning model, without human involvement, and trained by you and 1,856,031+ other people who liked or disliked ideas.
+
+  Offer Free Version: :white\_check\_mark:
+
+
 - Name: [Paperade](https://www.thataicollection.com/redirect/paperade?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Paperade Startup Idea Generator.
 
   Description: Paperade is the first AI-powered tool that generates commercial use cases and company ideas from over 100 million academic papers and research studies.
+
+  Offer Free Version: :grey\_question:
+
+
+- Name: [Validator AI](https://www.thataicollection.com/redirect/validator-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Start Your Entrepreneurial Journey Today For Free.
+
+  Description: Input your startup idea and our AI startup mentor will analyze it for free. You can talk with our AI mentor chatbot as much as you want, and learn anything you need to know about launching a startup!.
 
   Offer Free Version: :grey\_question:
 
@@ -3557,7 +3719,7 @@
 
   Title: Brandmark Logo Maker - The Most Advanced AI Logo Design Tool.
 
-  Description: .
+  Description: Create a unique, professional logo for your business Kickstart your brand with business card designs, social media graphics, app icons, letter heads and more.
 
   Offer Free Version: :grey\_question:
 
@@ -3590,7 +3752,46 @@
 
 
 
+### Meeting Assistant
+
+- Name: [Fireflies](https://www.thataicollection.com/redirect/fireflies?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Fireflies.Ai - Automate your meeting notes - Notetaker & Conversation Intelligence.
+
+  Description: Fireflies.ai helps your team record, transcribe, search, and analyze voice conversations. Automatically record and transcribe meetings, Find anything with AI-Powered Search, Collaborate with your co-workers, Analyze meetings using conversation intelligence.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [Jamie](https://www.thataicollection.com/redirect/jamie?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Jamie - AI Assistant for Meeting Summaries.
+
+  Description: jamie is an AI assistant that creates summaries of meetings in business-writing quality within seconds. Try now and convince yourself of the magic experience.
+
+  Offer Free Version: :grey\_question:
+
+
+- Name: [Supernormal](https://www.thataicollection.com/redirect/supernormal?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Supernormal - AI That Writes Your Meeting Notes.
+
+  Description: Spend less time writing, polishing, and sharing notes and more time on the work only you can do. Pencils down. Supernormal has you covered. Supernormal takes notes during your meeting and formats them automatically, for all different use cases, using secure AI.
+
+  Offer Free Version: :grey\_question:
+
+
+
 ### Music & Audio Generation
+
+- Name: [Adobe Mic Check](https://www.thataicollection.com/redirect/adobe-mic-check?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Adobe Mic Check - Check Your Mic for Free.
+
+  Description: Get advice on how to improve your microphone setup. Well make sure you sound podcast-ready. Enhance Speech - Remove noise and echo from voice recordings. Mic Check - Fix microphone issues before recording. Studio - Record, edit, and enhance in your browser.
+
+  Offer Free Version: :white\_check\_mark:
+
 
 - Name: [Adobe Podcast](https://www.thataicollection.com/redirect/adobe-podcast?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
@@ -3601,6 +3802,15 @@
   Offer Free Version: :grey\_question:
 
 
+- Name: [Aiva](https://www.thataicollection.com/redirect/aiva?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: AIVA - The Artificial Intelligence composing emotional soundtrack music.
+
+  Description: A Creative Assistant for Creative People Whether you are an independent game developer, a complete novice in music, or a seasoned professional composer, AIVA assists you in your creative process. Create compelling themes for your projects faster than ever before, by leveraging the power of AI-generated music.
+
+  Offer Free Version: :white\_check\_mark:
+
+
 - Name: [Assemblyai](https://www.thataicollection.com/redirect/assemblyai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: #1 Api Platform for AI Models.
@@ -3608,6 +3818,15 @@
   Description: Automatically convert audio and video files and live audio streams to text with AssemblyAI's Speech-to-Text APIs. Do more with Audio Intelligence - summarization, content moderation, topic detection.
 
   Offer Free Version: :grey\_question:
+
+
+- Name: [Boomy](https://www.thataicollection.com/redirect/boomy?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Boomy - Unleash your creativity Make music with Boomy AI.
+
+  Description: 🎶 Create original songs in seconds, even if you've never made music before 🌐 Submit your songs to streaming platforms and get paid when people listen 💜 Join a global community of artists empowered by generative music.
+
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [Cleanvoice AI](https://www.thataicollection.com/redirect/cleanvoice-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -3644,6 +3863,15 @@
   Description: Using state-of-art AI technology, it allows you to easily create your own drum samples in any music genre and modify them at will, without any technical knowledge.
 
   Offer Free Version: :white\_check\_mark:
+
+
+- Name: [Ecrett Music](https://www.thataicollection.com/redirect/ecrett-music?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Easy Way to Create Royalty Free Music - Ecrett Music.
+
+  Description: We are a team of musicians, composers, dancer, designer, and engineers. ecrett music was born to help content creators with frustrating process of choosing the right music and to enhance the creation with our AI composing software.
+
+  Offer Free Version: :grey\_question:
 
 
 - Name: [Emergent Drums](https://www.thataicollection.com/redirect/emergent-drums?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -3691,15 +3919,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [Quasi Music](https://www.thataicollection.com/redirect/quasi-music?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Create Brand-New Beats.
-
-  Description: Unleash your inner musician with Quasi's AI-powered music creation tool. Create never-before-heard sounds and remix classic artists with ease.
-
-  Offer Free Version: :white\_check\_mark:
-
-
 - Name: [Replica](https://www.thataicollection.com/redirect/replica?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Synthesize Voice AI and Natural Sounding Text-to-Speech — Replica.
@@ -3727,11 +3946,29 @@
   Offer Free Version: :x:
 
 
+- Name: [Soundful](https://www.thataicollection.com/redirect/soundful?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Empowering the World to Create Music - Soundful.
+
+  Description: Soundful empowers creators to generate royalty free tracks at the click of a button. The quality of Soundful music is so rich, you wont believe it was made with AI. Leverage the power of AI to generate royalty free background music at the click of a button for your videos, streams, podcasts and much more.
+
+  Offer Free Version: :white\_check\_mark:
+
+
 - Name: [Soundraw](https://www.thataicollection.com/redirect/soundraw?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Stop Searching for the Song You Need. Create It.
 
-  Description: Royalty-free music, AI generated for you.
+  Description: Unimaginable possibilities, Unlimited music, Simply choose the mood, the genre and the length. Our AI will generate beautiful songs for you. Generate beats like Fivio Foreign and create your own tracks.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [Splash](https://www.thataicollection.com/redirect/splash?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Imagine Music with Splash. Simply — the music you create with Splash Pro is yours to use however, wherever, whenever you want.
+
+  Description: Splash is creating the world's best AI Music platform.  We have developed an AI that can sing, rap, play instruments, and compose and produce original music.  We are using this technology to make music creation more accessible than ever before.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -3766,6 +4003,15 @@
   Offer Free Version: :white\_check\_mark:
 
 
+- Name: [AutoPredict](https://www.thataicollection.com/redirect/autopredict?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Autopredict - Predict How Long Your Car Will Last.
+
+  Description: AutoPredict is the first app that uses artificial intelligence to predict how long a car will last. By analysing over 100 million data points AutoPredict gives an accurate estimate of your car's life.
+
+  Offer Free Version: :white\_check\_mark:
+
+
 - Name: [bardeen](https://www.thataicollection.com/redirect/bardeen?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: AI Meets Automations.
@@ -3793,6 +4039,15 @@
   Offer Free Version: :white\_check\_mark:
 
 
+- Name: [H2O AI](https://www.thataicollection.com/redirect/h2o-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: H2O.Ai - AI Cloud Platform - Democratizing Generative AI.
+
+  Description: h2oGPT, a truly open source generative AI, gives organizations like yours the power to own large language models while preserving your data ownership.
+
+  Offer Free Version: :grey\_question:
+
+
 - Name: [Hexowatch](https://www.thataicollection.com/redirect/hexowatch?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Beyond Availability and Prices, 3Rd Party Websites as a Data Source, Visual Website Monitoring, Competitor Tracking.
@@ -3800,6 +4055,15 @@
   Description: Hexowatch is your AI sidekick to monitor any website for visual, content, source code, technology, availability, or price changes.
 
   Offer Free Version: :x:
+
+
+- Name: [Hubble](https://www.thataicollection.com/redirect/hubble?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Hubble - Product Feedback and Insights From Users.
+
+  Description: From design to production, monitor, measure and enhance your user experience. Create world class products by gathering high quality feedback from users on prototypes, betas and live features.
+
+  Offer Free Version: :grey\_question:
 
 
 - Name: [Keploy.io](https://www.thataicollection.com/redirect/keploy.io?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -3872,6 +4136,15 @@
   Description: AI Prompt Generator‍ - Inspire, Create, Organize. Inspire with AI Prompts, Create New Prompts with Prompt Generator, Organize Your Own Prompts with Notion Template.
 
   Offer Free Version: :white\_check\_mark:
+
+
+- Name: [Rationale](https://www.thataicollection.com/redirect/rationale?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Rationale - A Revolutionary Decision-Making Tool Powered by the Latest GPT and in-Context Learning.
+
+  Description: Our latest GPT and in-context learning algorithms will list pros and cons, generate a SWOT analysis, conduct multi-criteria analysis or causal analysis to help you weigh your options. By considering all relevant factors and your background, Rationale helps you make a rational decision.
+
+  Offer Free Version: :grey\_question:
 
 
 - Name: [Spoke](https://www.thataicollection.com/redirect/spoke?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -4192,6 +4465,15 @@
   Offer Free Version: :x:
 
 
+- Name: [Waifu XL](https://www.thataicollection.com/redirect/waifu-xl?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Waifuxl provides state of the art upscaling directly in your browser at the click of a button.
+
+  Description: Waifuxl provides state of the art upscaling directly in your browser at the click of a button. No need to choose a noise level, no captcha, and your images are never sent to us. Everything is done locally!.
+
+  Offer Free Version: :grey\_question:
+
+
 
 ### Plugins & Extensions
 
@@ -4261,6 +4543,15 @@
 
 ### Productivity & Personal Growth
 
+- Name: [Ask Poppy](https://www.thataicollection.com/redirect/ask-poppy?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Poppylist - Be the Parent You Want to Be.
+
+  Description: Preparing for the parenthood journey one baby step at a time. Welcome to Poppylist, your baby registry simplified. You know your lifestyle. We know the products. Let's build your baby registry together.
+
+  Offer Free Version: :white\_check\_mark:
+
+
 - Name: [Chivvy](https://www.thataicollection.com/redirect/chivvy?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: AI Powered Anti-Procrastination App.
@@ -4275,6 +4566,15 @@
   Title: Double Your Productivity With an Intelligent Coworker for Your Team.
 
   Description: Cogram uses AI to take notes in virtual meetings, track action items, and automate downstream tasks, while keeping your data private and secure.
+
+  Offer Free Version: :grey\_question:
+
+
+- Name: [DetangleAI](https://www.thataicollection.com/redirect/detangleai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Summarize any podcast, email, legal doc, book and more, so you can focus on what matters.
+
+  Description: Document chat + summarization for any file or link! Chat with PDFs, YouTube videos, podcasts, articles, spreadsheets and more! Hop on the waitlist.
 
   Offer Free Version: :grey\_question:
 
@@ -4531,6 +4831,15 @@
   Offer Free Version: :white\_check\_mark:
 
 
+- Name: [Genius Sheets](https://www.thataicollection.com/redirect/genius-sheets?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Genius Sheets - BUSINESS INTELLIGENCE FROM THE FUTURE AI Powered Data Analytics.
+
+  Description: Genius Sheets AI is a Self service business intelligence agent to answer all of your most important questions. Conversational AI - Talk to Genius Sheets as if you were talking to a coworker Enterprise Security - Built for enterprise security standards - keeping your data safe. Easy to Use - No SQL or Python required Native Interface - Connect to your data in our WebApp, Slack or Teams.
+
+  Offer Free Version: :white\_check\_mark:
+
+
 - Name: [GetResponse](https://www.thataicollection.com/redirect/getresponse?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Getresponse - Professional Email Marketing for Everyone.
@@ -4554,15 +4863,6 @@
   Title: The Future of Marketing Is Here.
 
   Description: Human-like all-in-one AI marketing assistant that creates landing pages, promo videos, ads, marketing copy, graphics, emails, voiceovers, blog posts, art & more.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [SaleWhale](https://www.thataicollection.com/redirect/salewhale?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Sale Whale - AI-Powered Sales Rep Chatbot.
-
-  Description: We provide impossibly good Sales Rep and Customer Support Chatbots, using the world's best available AI models. Learn how it will improve your business.
 
   Offer Free Version: :grey\_question:
 
@@ -4682,7 +4982,7 @@
 
   Title: The AI Search Engine You Control.
 
-  Description: .
+  Description: AI assistant that helps you get more done. Experience AI chat, without the effort Just ask YouChat anything and get immediate, useful answers. Comprehensive responses with GPT-4 Generate longer and more detailed responses with greater accuracy.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -4706,6 +5006,24 @@
   Description: Glimmer AI uses GPT-3 and DALL-E 2 to make creating professional-quality presentations easy and fast using text or voice commands.
 
   Offer Free Version: :white\_check\_mark:
+
+
+- Name: [My Pitch Deck](https://www.thataicollection.com/redirect/my-pitch-deck?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: My Pitch Deck - Kickstart your funding with a custom pitch deck template for your startup.
+
+  Description: A 10-slide pitch deck template. Tailored to you. Based on your answers our AI will create a custom 10-slide pitch deck outline for your startup. Ready to build upon!.
+
+  Offer Free Version: :grey\_question:
+
+
+- Name: [Pitchgrade](https://www.thataicollection.com/redirect/pitchgrade?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Pitchgrade - Presentations made painless.
+
+  Description: A pitch deck is a presentation that a company uses to pitch to investors. It goes over the companys business model, financial projections, and other key metrics that investors would want to see.
+
+  Offer Free Version: :grey\_question:
 
 
 - Name: [Plus AI for Google Slides](https://www.thataicollection.com/redirect/plus-ai-for-google-slides?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -4756,13 +5074,13 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [Elektrif](https://www.thataicollection.com/redirect/elektrif?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+- Name: [AI Social Bio](https://www.thataicollection.com/redirect/ai-social-bio?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-  Title: Your 🤖 Powered Dating Assistant.
+  Title: AI Social Bio - Your social media bio created by artificial intelligence.
 
-  Description: The first suite of AI-powered tools to supercharge your dating life ⚡️.
+  Description: Perfect for X (Twitter). Add a keyword to shape your bio, choose an influencer to inspire your AI bio and generate your bio.
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [Graham AI](https://www.thataicollection.com/redirect/graham-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -4831,15 +5149,6 @@
 - Name: [Tribescaler](https://www.thataicollection.com/redirect/tribescaler?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Tribescaler.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [TweePT3](https://www.thataicollection.com/redirect/tweept3?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Tweept3 - Twitter-Integrated, Gpt3 Powered Tweet Writer.
 
   Description: .
 
@@ -4923,6 +5232,24 @@
 
 
 ### Text
+
+- Name: [AI Rental Cover Letter](https://www.thataicollection.com/redirect/ai-rental-cover-letter?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: 🏡Sharehouse - Free Housemate Finder with AI Powered Rental Cover Letter ⚡️ Stand out from the crowd with an AI-Powered Cover Letter.
+
+  Description: With an AI-Powered Rental Reference, renters can quickly and easily generate cover letters that are tailored to their specific needs and situations, giving them a better chance of securing a rental  This revolutionary technology uses advanced AI to help renters create personalized, high-quality cover letters that will make them stand out from the competition.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [Ansy](https://www.thataicollection.com/redirect/ansy?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Ansy.Ai - Automate Community FAQs in 5 mins.
+
+  Description: GPT-3 powered Discord bot that answers questions from your Discord community members based on chat history. Get Ansy, AI bot powered by GPT-3 to your Discord and Slack to answer questions on your behalf.
+
+  Offer Free Version: :white\_check\_mark:
+
 
 - Name: [Bookclub](https://www.thataicollection.com/redirect/bookclub?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
@@ -5194,6 +5521,15 @@
   Offer Free Version: :white\_check\_mark:
 
 
+- Name: [Promptomania](https://www.thataicollection.com/redirect/promptomania?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: promptoMANIA Prompt Generator - AI art community with an online prompt builder.
+
+  Description: Do you want to become a CF Spark, Midjourney or Stable Diffusion master today? The human-friendly prompt builder will help you. You can also try it with other diffusion models, such as DALL-E 2, Disco Diffusion, WOMBO Dream, or any diffusion model. If it does, share the experience on social media.
+
+  Offer Free Version: :grey\_question:
+
+
 - Name: [Proposalgenie](https://www.thataicollection.com/redirect/proposalgenie?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Proposal Genie.
@@ -5244,6 +5580,15 @@
   Title: Sheetai App - Unlock AI Power in Your Google Sheets.
 
   Description: SheetAI is a Google Sheets add-on that helps you unlock the power of AI in your spreadsheets.
+
+  Offer Free Version: :grey\_question:
+
+
+- Name: [Solidpoint](https://www.thataicollection.com/redirect/solidpoint?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Solidpoint - Turn hours of content into minutes of key ideas!.
+
+  Description: Discover the Essential Ideas Quickly and Efficiently! Uncover the depth of the conversation with 'Comment Insights', your comprehensive tool to analyze sentiment and navigate comment timelines with ease.
 
   Offer Free Version: :grey\_question:
 
@@ -5345,9 +5690,9 @@
 
   Title: Text to Speech Online Voice Generator, Text to Speech Generator - Realistic Voices - Create AI Voice Overs.
 
-  Description: .
+  Description: Rapidly convert your text to speech with stunning lifelike sounding\nAI Voices that will resonate with your audience. NO NEED to rent a recording studio to get your script recorded.
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [ElevenLabs](https://www.thataicollection.com/redirect/eleven?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -5528,7 +5873,7 @@
 
   Title: Deepl Translate: The World'S Most Accurate Translator.
 
-  Description: .
+  Description: Perfect your writing with DeepL Write. Fix grammar and punctuation mistakes, rephrase sentences, express nuances, and find your perfect tone of voice.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -5634,9 +5979,9 @@
 
 - Name: [TranslateVideo](https://www.thataicollection.com/redirect/translatevideo?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-  Title: Translate.Video.
+  Title: Translate.Video - Translate videos with just 1-Click.
 
-  Description: .
+  Description: Everything your videos need in ONE app: Generate Captions, Translate Subtitle, Video Dubbing, AI Voice-over, Record Voice Transcript and more.\nStop wasting weeks or months\nTranslate & Subtitle videos 100x faster\n.
 
   Offer Free Version: :grey\_question:
 
@@ -5655,6 +6000,15 @@
   Title: Voicetapp - Speech to Text Transcription.
 
   Description: Get accurate transcriptions for your AUDIO & VIDEO with the latest speech rocognition technology.
+
+  Offer Free Version: :grey\_question:
+
+
+- Name: [WhisperAPI](https://www.thataicollection.com/redirect/whisperapi?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Whisper API is an Affordable, Easy-to-Use Audio Transcription API Powered by OpenAI's Whisper Model.
+
+  Description: Sign In to Whisper API Transcription Dashboard for 30 Minutes of Free Audio Transcription Today! We give you an API key to send over audio files via our API and, using OpenAI Whisper, we transcribe that audio and send you back the transcription.
 
   Offer Free Version: :grey\_question:
 
@@ -5710,6 +6064,15 @@
   Offer Free Version: :x:
 
 
+- Name: [Atlas Navi](https://www.thataicollection.com/redirect/atlas-navi?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: DRIVE-TO-EARN A.I NAVIGATION APP WITH LICENSED VEHICLE NFTs.
+
+  Description: Creating the very best navigation app. With cutting-edge technologies such as machine learning and blockchain, Atlas Navi is set to become the leading navigation choice for drivers around the world. Precise locations using A.I  for better routing It analyses the road 25 times per second which generates 100 times better data than other navigation apps;.
+
+  Offer Free Version: :white\_check\_mark:
+
+
 - Name: [Augie](https://www.thataicollection.com/redirect/augie?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Augie Transforms Words Into Videos!.
@@ -5735,6 +6098,15 @@
   Description: .
 
   Offer Free Version: :grey\_question:
+
+
+- Name: [Colossyan](https://www.thataicollection.com/redirect/colossyan?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: The AI video platform for workplace learning.
+
+  Description: Colossyan Creator makes video creation simple and stress-free. Discover our AI video creator with real actors. Create videos in less than 5 minutes.
+
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [D-ID's Creative Reality Studio](https://www.thataicollection.com/redirect/d-ids-creative-reality-studio?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -5924,6 +6296,15 @@
   Description: WZRD augments your audio with immersive video powered by artificial intelligence.
 
   Offer Free Version: :grey\_question:
+
+
+- Name: [Yepic AI](https://www.thataicollection.com/redirect/yepic-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Your AI Video Toolkit - Create, Dub & Personalise Videos.
+
+  Description: The future of video is AI Generated, Ultra Localised & Hyper Personalised. With Yepic AI, anyone can create and translate talking head style videos in minutes without expensive cameras, actors or studios.
+
+  Offer Free Version: :white\_check\_mark:
 
 
 
@@ -6188,9 +6569,9 @@
 
   Title: Rytr - Best AI Writer, Content Generator & Writing Assistant.
 
-  Description: .
+  Description: Rytr is an AI writing assistant that helps you create high-quality content, in just a few seconds, at a fraction of the cost! Generate killer content, effortlessly Never face writer's block again — from blogs to emails to ad copies, auto-generate catchy, original, and high-converting copies in popular tones & languages in just a few seconds.
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [SmartScribe](https://www.thataicollection.com/redirect/smartscribe?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -6268,15 +6649,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [Adobe Mic Check](https://www.thataicollection.com/redirect/adobe-mic-check?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Check Your Mic for Free.
-
-  Description: Get advice on how to improve your microphone setup. Well make sure you sound podcast-ready.
-
-  Offer Free Version: :white\_check\_mark:
-
-
 - Name: [AI Car Diagnosis](https://www.thataicollection.com/redirect/ai-car-diagnosis?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Car Diagnosis AI.
@@ -6349,24 +6721,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [AI Rental Cover Letter](https://www.thataicollection.com/redirect/ai-rental-cover-letter?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: 🏡Sharehouse - Free Housemate Finder.
-
-  Description: Connect with Sharehouses, Housemates Or Flatmates. Freely List & Advertise Your Room, House, or Flat.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [AI Social Bio](https://www.thataicollection.com/redirect/ai-social-bio?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: AI Social Bio.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [AI Social Media Post Writerby Socialblu](https://www.thataicollection.com/redirect/ai-social-media-post-writerby-socialblu?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Socialbu - Social Media Management and Automation.
@@ -6430,15 +6784,6 @@
   Offer Free Version: :white\_check\_mark:
 
 
-- Name: [Aiva](https://www.thataicollection.com/redirect/aiva?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Aiva - The AI Composing Emotional Soundtrack Music.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Albus](https://www.thataicollection.com/redirect/albus?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Albus - ChatGPT Now on Slack.
@@ -6484,29 +6829,11 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [Ansy](https://www.thataicollection.com/redirect/ansy?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Ansy.Ai - GPT-3 for Your Discord Server.
-
-  Description: GPT-3 powered Discord bot that answers questions from your Discord community members based on chat history.
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Artflow](https://www.thataicollection.com/redirect/artflow?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Artflow.
 
   Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Ask Poppy](https://www.thataicollection.com/redirect/ask-poppy?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Poppylist - Be the Parent You Want to Be.
-
-  Description: You know your lifestyle. We know the products. Let's build your baby registry together.
 
   Offer Free Version: :grey\_question:
 
@@ -6529,47 +6856,11 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [Atlas Navi](https://www.thataicollection.com/redirect/atlas-navi?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: DRIVE-TO-EARN A.I NAVIGATION APP WITH LICENSED VEHICLE NFTs.
-
-  Description: Creating the very best navigation app. With cutting-edge technologies such as machine learning and blockchain, Atlas Navi is set to become the leading navigation choice for drivers around the world. Precise locations using A.I  for better routing It analyses the road 25 times per second which generates 100 times better data than other navigation apps; other drivers are routed to avoid areas with problems.
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Auto Draw](https://www.thataicollection.com/redirect/auto-draw?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Autodraw.
 
   Description: Fast drawing for everyone. AutoDraw pairs machine learning with drawings from talented artists to help you draw stuff fast.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [AutoPredict](https://www.thataicollection.com/redirect/autopredict?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Autopredict - Predict How Long Your Car Will Last.
-
-  Description: AutoPredict uses state of the art AI to predict how long a UK car is likely to last.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [B^ DISCOVER](https://www.thataicollection.com/redirect/b^-discover?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: B^ Discover - Home.
-
-  Description: You will have a new experience of discovering your story in images.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Baseten](https://www.thataicollection.com/redirect/baseten?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Baseten - Mlops Platform for Startups.
-
-  Description: Baseten is a serverless backend for building ML-powered applications. Build apps with auto-scaling, GPU access, CRON jobs, and serverless functions.
 
   Offer Free Version: :grey\_question:
 
@@ -6619,36 +6910,9 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [Blimey](https://www.thataicollection.com/redirect/blimey?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Blimey.
-
-  Description: Blimey is an ai image generator where you can go from idea to reality in a minute. With full control over composition, colors and style.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Bloomoon](https://www.thataicollection.com/redirect/bloomoon?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Bloomoon.
-
-  Description: Discover unique AI-generated paintings at bloomoon.
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Boo AI](https://www.thataicollection.com/redirect/boo-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: .
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Boomy](https://www.thataicollection.com/redirect/boomy?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Boomy - Make Instant Music With Artificial Intelligence.
 
   Description: .
 
@@ -6709,15 +6973,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [Colossyan](https://www.thataicollection.com/redirect/colossyan?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Colossyan Creator.
-
-  Description: Colossyan Creator makes video creation simple and stress-free. Discover our AI video creator with real actors. Create videos in less than 5 minutes.
-
-  Offer Free Version: :white\_check\_mark:
-
-
 - Name: [Compose AI](https://www.thataicollection.com/redirect/compose-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Compose Ai: Automate Your Writing.
@@ -6745,36 +7000,9 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [Coverquick](https://www.thataicollection.com/redirect/coverquick?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Coverquick.
-
-  Description: Apply with confidence.
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Cowriter](https://www.thataicollection.com/redirect/cowriter?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Co Writer - Your AI Buddy for Inspiring Marketing Content.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Craiyon](https://www.thataicollection.com/redirect/craiyon?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Craiyon, Formerly Dall-E Mini.
-
-  Description: Craiyon is an AI model that can draw images from any text prompt!.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Dadabots](https://www.thataicollection.com/redirect/dadabots?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Neural Networks.
 
   Description: .
 
@@ -6808,24 +7036,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [deck.rocks](https://www.thataicollection.com/redirect/deck.rocks?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Deck.Rocks: Generate Pitch Decks Using GPT-3.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [DetangleAI](https://www.thataicollection.com/redirect/detangleai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Detangleai.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Diffusion Bee](https://www.thataicollection.com/redirect/diffusion-bee?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Diffusionbee - Stable Diffusion App for AI Art.
@@ -6833,15 +7043,6 @@
   Description: DiffusionBee is the easiest way to generate AI art on your computer with Stable Diffusion.
 
   Offer Free Version: :white\_check\_mark:
-
-
-- Name: [DigiMarkAI](https://www.thataicollection.com/redirect/digimarkai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Digimarkai.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
 
 
 - Name: [DREAM.page](https://www.thataicollection.com/redirect/dream.page?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -6898,15 +7099,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [Ecrett Music](https://www.thataicollection.com/redirect/ecrett-music?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Easy Way to Create Royalty Free Music - Ecrett Music.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Everypixel](https://www.thataicollection.com/redirect/everypixel?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Stock Image Search Engine - More Than 50 Best Sources - Everypixel.
@@ -6925,47 +7117,11 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [Fireflies](https://www.thataicollection.com/redirect/fireflies?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Fireflies.Ai - Fireflies AI Notetaker & Conversation Intelligence.
-
-  Description: Fireflies.ai helps your team record, transcribe, search, and analyze voice conversations.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Flexberry AI Assistant](https://www.thataicollection.com/redirect/flexberry-ai-assistant?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: AI Assistant.
-
-  Description: This helps to reduce 30% of the time business analyst uses for processing requirements  and also to generate artifacts.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [FoodAI](https://www.thataicollection.com/redirect/foodai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Foodai.App - Generate Cooking Recipes With Ai!.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Friday AI](https://www.thataicollection.com/redirect/friday-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Heyfriday - Ultimate AI Writer.
 
   Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Genius Sheets](https://www.thataicollection.com/redirect/genius-sheets?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Genius Sheets Financial Automation.
-
-  Description: Genius Sheets AI Text To Reports solutions help you analyze financial data faster - empowering teams to make better decisions. Stay in Excel and Google Sheets and automate your financial reporting process with live data connections.
 
   Offer Free Version: :grey\_question:
 
@@ -6997,15 +7153,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [H2O AI](https://www.thataicollection.com/redirect/h2o-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: H2O.Ai - AI Cloud Platform.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Handywriter](https://www.thataicollection.com/redirect/handywriter?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Handyplugins — Well-Crafted Wordpress Plugins.
@@ -7033,45 +7180,9 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [HookShot](https://www.thataicollection.com/redirect/hookshot?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Hookshot Speed Reading Game.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Hour One](https://www.thataicollection.com/redirect/hour-one?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Make AI Videos to Train Anyone or Explain Anything - Hour One.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Hubble](https://www.thataicollection.com/redirect/hubble?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Hubble - Product Feedback and Insights From Users.
-
-  Description: Create world class products by gathering high quality feedback from users on prototypes, betas and live features.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [ICONS8](https://www.thataicollection.com/redirect/icons8?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Icons, Illustrations, Photos, Music and Design Tools.
-
-  Description: Change faces of stock photos, Smart Upscaler, Update your website right from Lunacy and more.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Ideasai](https://www.thataicollection.com/redirect/ideasai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Startup Ideas Powered by Openai.
 
   Description: .
 
@@ -7087,15 +7198,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [Infinite Drum Machine](https://www.thataicollection.com/redirect/infinite-drum-machine?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Experiments With Google.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Inworld](https://www.thataicollection.com/redirect/inworld?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Inworld AI – Create AI Characters and Ask Them Anything.
@@ -7103,15 +7205,6 @@
   Description: Create AI characters and NPCs for games, metaverse, and business applications – or just for fun. You can talk to AI characters about anything. Its easy, free, and full of possibilities.
 
   Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Jamie](https://www.thataicollection.com/redirect/jamie?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Jamie - AI Assistant for Meeting Summaries.
-
-  Description: jamie is an AI assistant that creates summaries of meetings in business-writing quality within seconds. Try now and convince yourself of the magic experience.
-
-  Offer Free Version: :grey\_question:
 
 
 - Name: [Jenni](https://www.thataicollection.com/redirect/jenni?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -7128,15 +7221,6 @@
   Title: Kinestex - AI Coach in Your Phone.
 
   Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Kore.ai](https://www.thataicollection.com/redirect/kore.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: AI-First Experience Optimization Platform for Enterprises.
-
-  Description: Kore.ai automates front-office and back-office interactions for every industry by deploying conversational AI-first virtual assistants and process assistants.
 
   Offer Free Version: :grey\_question:
 
@@ -7222,15 +7306,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [Mapwith.ai](https://www.thataicollection.com/redirect/mapwith.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Using AI to Map the World.
-
-  Description: In conjunction with OpenStreetMap, we are creating tools that we hope will enable the mapping community to enjoy a faster & more accurate mapping experience.
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Masterpiece Studio](https://www.thataicollection.com/redirect/masterpiece-studio?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Masterpiece Studio.
@@ -7294,15 +7369,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [My Pitch Deck](https://www.thataicollection.com/redirect/my-pitch-deck?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: My Pitch Deck - AI-Generated Pitch Deck Templates for Startups.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Natural Language Playlist](https://www.thataicollection.com/redirect/natural-language-playlist?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Natural Language Playlist.
@@ -7317,24 +7383,6 @@
   Title: Neuralcam.
 
   Description: with AI powered image processing.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Neural.Love](https://www.thataicollection.com/redirect/neural.love?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Free AI Image Generator & AI Enhance - Neural.Love.
-
-  Description: Use AI Image Generator for free or AI enhance, or access Millions Of Public Domain images - AI Enhance & Easy-to-use Online AI tools.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Neuralblender](https://www.thataicollection.com/redirect/neuralblender?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Neuralblender.Com.
-
-  Description: .
 
   Offer Free Version: :grey\_question:
 
@@ -7378,24 +7426,6 @@
 - Name: [Nightcap](https://www.thataicollection.com/redirect/nightcap?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Nightcap Guru.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Nijijourney](https://www.thataicollection.com/redirect/nijijourney?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: にじジャーニー.
-
-  Description: 魔法でイラストをつくろう.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [NMKD Stable Diffusion](https://www.thataicollection.com/redirect/nmkd-stable-diffusion?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: N00Mkrad - Itch.Io.
 
   Description: .
 
@@ -7447,15 +7477,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [Olli](https://www.thataicollection.com/redirect/olli?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Olli.Ai - Your Personal Data Analyst.
-
-  Description: Olli is the AI platform for creating data visualizations 10x faster - it's like having an assistant that deals with the annoying parts of finding data, creating visualizations, and getting them ready for presentations.
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Once Upon A Bot](https://www.thataicollection.com/redirect/once-upon-a-bot?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Once Upon a Bot • Create Children'S Stories With AI.
@@ -7474,15 +7495,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [Patience](https://www.thataicollection.com/redirect/patience?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Patience - AI Art With Stable Diffusion.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Pattern Maker AI](https://www.thataicollection.com/redirect/pattern-maker-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Generate Seamless Patterns Using Artificial Intelligence.
@@ -7492,29 +7504,11 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [PatternedAI](https://www.thataicollection.com/redirect/patternedai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Patternai.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Peppertype.ai](https://www.thataicollection.com/redirect/peppertype.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Peppertype.Ai - Create Quality Content Faster.
 
   Description: Generate content that converts in seconds.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [PersonaCardAI](https://www.thataicollection.com/redirect/personacardai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Personacardai - Find Your Top 3 Personas Profiles.
-
-  Description: Stop spending hours in workshops to try to find your personas. Our AI reveals your top 3 personas profiles within your CRM with 20+ attributes.
 
   Offer Free Version: :grey\_question:
 
@@ -7533,24 +7527,6 @@
   Title: Pet Portrait AI - Beautiful Custom Pet Portraits.
 
   Description: Looking for a thoughtful pet gift? Pet Portrait AI generates unique, custom-made portraits of your cats, dogs, and other pets in a variety of styles. Our AI technology ensures that each portrait is one-of-a-kind, just like your pet.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Pfpmaker](https://www.thataicollection.com/redirect/pfpmaker?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Free Profile Picture Maker - Create an Awesome PFP Online.
-
-  Description: Upload your photo to create a professional-looking profile picture and a matching background cover.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Phase](https://www.thataicollection.com/redirect/phase?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Welcome to Phase!.
-
-  Description: .
 
   Offer Free Version: :grey\_question:
 
@@ -7582,15 +7558,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [Pictorial](https://www.thataicollection.com/redirect/pictorial?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Pictorial - Effortlessly Create Graphics for Your Web Applications.
-
-  Description: Inspiration is hard to come by. Get your message across hustle-free by leveraging an AI able to generate reliable, ready-to-use visual masterpieces.
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Pinegraph](https://www.thataicollection.com/redirect/pinegraph?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Magic Sketchpad.
@@ -7598,15 +7565,6 @@
   Description: Pinegraph is all you need to bring your creativity to life. Generate AI art for free with Pinecasso for styles like anime, abstract art, and more. Create your own concept characters including waifus and husbandos, game art, and more.
 
   Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Pitchgrade](https://www.thataicollection.com/redirect/pitchgrade?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Pitchgrade.
-
-  Description: A pitch deck is a presentation that a company uses to pitch to investors. It goes over the companys business model, financial projections, and other key metrics that investors would want to see.
-
-  Offer Free Version: :grey\_question:
 
 
 - Name: [Pixelmind](https://www.thataicollection.com/redirect/pixelmind?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -7625,15 +7583,6 @@
   Description: Create unique AI artwork using text, phrases, images & presets, share, download, print & mint as NFTs.
 
   Offer Free Version: :grey\_question:
-
-
-- Name: [Poised 2.0](https://www.thataicollection.com/redirect/poised-2.0?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Poised - Free AI-Powered Communication Coach.
-
-  Description: .
-
-  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [Polymath Robotics](https://www.thataicollection.com/redirect/polymath-robotics?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -7717,15 +7666,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [Promptomania](https://www.thataicollection.com/redirect/promptomania?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Promptomania: AI Art Community With Prompt Generator.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Question Base](https://www.thataicollection.com/redirect/question-base?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Scale Knowledge.
@@ -7762,15 +7702,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [Rationale](https://www.thataicollection.com/redirect/rationale?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Rationale - A Revolutionary Decision-Making Tool Powered by the Latest GPT and in-Context Learning.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Recommendme](https://www.thataicollection.com/redirect/recommendme?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Recommendme.
@@ -7801,15 +7732,6 @@
 - Name: [Resume Studio](https://www.thataicollection.com/redirect/resume-studio?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: .
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Revive](https://www.thataicollection.com/redirect/revive?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Revive - Envision Business Ideas With AI.
 
   Description: .
 
@@ -7861,15 +7783,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [Scale Catalog Forge](https://www.thataicollection.com/redirect/scale-catalog-forge?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Scale Ai: The Data Platform for AI.
-
-  Description: Trusted by world class companies, Scale delivers high quality training data for AI applications such as self-driving cars, mapping, AR/VR, robotics, and more.
-
-  Offer Free Version: :x:
-
-
 - Name: [Scene One](https://www.thataicollection.com/redirect/scene-one?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Online Book Writing App for Novels, Short Stories, and Business.
@@ -7906,15 +7819,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [Solidpoint](https://www.thataicollection.com/redirect/solidpoint?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Solidpoint.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Songmastr](https://www.thataicollection.com/redirect/songmastr?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Songmastr - Automatic Song Mastering to Reference.
@@ -7922,33 +7826,6 @@
   Description: .
 
   Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Soundful](https://www.thataicollection.com/redirect/soundful?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Empowering the World to Create Music - Soundful.
-
-  Description: Soundful empowers creators to generate royalty free tracks at the click of a button. The quality of Soundful music is so rich, you wont believe it was made with AI.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Splash](https://www.thataicollection.com/redirect/splash?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Splash - Bringing the Joy of Music Making to Everyone.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [SQLgenius](https://www.thataicollection.com/redirect/sqlgenius?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: SQL Genius - English to SQL Query AI Translator.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
 
 
 - Name: [Steve AI](https://www.thataicollection.com/redirect/steve-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -7996,15 +7873,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [Suggest Gift](https://www.thataicollection.com/redirect/suggest-gift?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Suggest Gift - Find Great Gift Suggestions Using Artificial Intelligence.
-
-  Description: Artificial Intelligence based tool to help you get amazing gift suggestions for any occasion.
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [SummerEyes](https://www.thataicollection.com/redirect/summereyes?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Summereyes: AI-Powered Summaries in Your Browser.
@@ -8046,33 +7914,6 @@
   Title: Supermeme.Ai - AI Memes to Boost Your Personal and Professional Brand.
 
   Description: Generate original AI memes in 110+ language by entering any text input and turning that into a shareable memes. Powered by GPT-3 and a custom built meme database.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Supernormal](https://www.thataicollection.com/redirect/supernormal?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Supernormal - AI That Writes Your Meeting Notes.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [SwagAI](https://www.thataicollection.com/redirect/swagai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: .
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Synth Run](https://www.thataicollection.com/redirect/synth-run?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Synth.
-
-  Description: .
 
   Offer Free Version: :grey\_question:
 
@@ -8131,15 +7972,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [TextSynth](https://www.thataicollection.com/redirect/textsynth?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Textsynth.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Textunbox](https://www.thataicollection.com/redirect/textunbox?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Textunbox.App.
@@ -8158,15 +7990,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [Thiscampsitedoesnotexist](https://www.thataicollection.com/redirect/thiscampsitedoesnotexist?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: This Campsite Does Not Exist.
-
-  Description: AI generated campsites featuring stunning locations, tents, and weather all created by AI using stable diffusion.
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Thumbsnap](https://www.thataicollection.com/redirect/thumbsnap?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: AI Art Generator! Powered by Stable Diffusion - Thumbsnap - Free Photo & Video Hosting.
@@ -8176,27 +7999,9 @@
   Offer Free Version: :white\_check\_mark:
 
 
-- Name: [Titan](https://www.thataicollection.com/redirect/titan?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Expert Compliance Systems and Resources - Compliance Quarter.
-
-  Description: Regulatory compliance management system and expertise for energy, financial services and other regulated industries. We offer expert systems and services to take regulatory burden off your shoulders.
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Tunes For Tales](https://www.thataicollection.com/redirect/tunes-for-tales?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Tunes for Tales.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [TutorAI](https://www.thataicollection.com/redirect/tutorai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Learn Anything.
 
   Description: .
 
@@ -8215,24 +8020,6 @@
 - Name: [Userpersona](https://www.thataicollection.com/redirect/userpersona?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: User Persona - AI-Generated User Personas.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [USP](https://www.thataicollection.com/redirect/usp?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Maximize Your Blog - Usp.Ai.
-
-  Description: Awesome AI generated ROYALTY FREE IMAGES for your stories and blog posts.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Validator AI](https://www.thataicollection.com/redirect/validator-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Validatorai.Com – Instant Help and Feedback With Our Startup Validator Tools for Entrepreneurs.
 
   Description: .
 
@@ -8266,15 +8053,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [Visuali](https://www.thataicollection.com/redirect/visuali?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Visuali.
-
-  Description: AI image generation made easy.
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Voice AI](https://www.thataicollection.com/redirect/voice-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: AI Voice Changer App for Pc and Mac - Change Your Voice on the Fly.
@@ -8291,15 +8069,6 @@
   Description: Express yourself with our real-time AI Voice Changer and soundboard to be who you want, when you want in the metaverse. Build your sonic identity for platforms like Roblox, OBS, VRChat, Discord, and more.
 
   Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Waifu XL](https://www.thataicollection.com/redirect/waifu-xl?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Waifuxl.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
 
 
 - Name: [Waifulabs](https://www.thataicollection.com/redirect/waifulabs?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -8323,15 +8092,6 @@
 - Name: [Whisper Memos](https://www.thataicollection.com/redirect/whisper-memos?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Whisper Memos.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [WhisperAPI](https://www.thataicollection.com/redirect/whisperapi?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Whisper Api.
 
   Description: .
 
@@ -8401,15 +8161,6 @@
   Offer Free Version: :grey\_question:
 
 
-- Name: [Yepic AI](https://www.thataicollection.com/redirect/yepic-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Your AI Video Toolkit - Create, Dub & Personalise Videos.
-
-  Description: Create, Dub and Personalise Videos Anywhere.
-
-  Offer Free Version: :grey\_question:
-
-
 
 ## [18. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
@@ -8426,11 +8177,11 @@
 
 ### Community Extensions
 
-*   [embesozzi/keycloak-webauthn-conditional-mediation WebAuthn Support for Passkeys (⭐2)](https://github.com/embesozzi/keycloak-webauthn-conditional-mediation)
+*   [embesozzi/keycloak-webauthn-conditional-mediation WebAuthn Support for Passkeys (⭐5)](https://github.com/embesozzi/keycloak-webauthn-conditional-mediation)
 
 ### Example Projects
 
-*   [Keycloak enviornment with WebAuthn Support for Stepup Auth with MFA Biometrics and Passkeys (by embesozzi) (⭐8)](https://github.com/embesozzi/keycloak-workshop-stepup-mfa-biometrics)
+*   [Keycloak enviornment with WebAuthn Support for Stepup Auth with MFA Biometrics and Passkeys (by embesozzi) (⭐12)](https://github.com/embesozzi/keycloak-workshop-stepup-mfa-biometrics)
 
 ## [20. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
@@ -8450,68 +8201,9 @@
 
 ## [22. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
-### Projects / Web
-
-*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
-
-### Projects / Build tools
-
-*   [gradle/kotlin-dsl-samples (⭐3.7k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
-*   [nebula-plugins/nebula-kotlin-plugin (⭐57)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
-
-### Projects / Misc
-
-*   [kpspemu/kpspemu (⭐70)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
-*   [chrislo27/RhythmHeavenRemixEditor (⭐420)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
-
-### Projects / Desktop
-
-*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
-
-### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
-
 ### Android / Libraries
 
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-*   [Blueprint (⭐28)](https://github.com/popovanton0/Blueprint) - 📐 A library that draws a blueprint on top of your Jetpack Compose composables. It visualizes dimensions, like paddings and sizes.
-
-### Android / Projects
-
-*   [hanjoongcho/aaf-easyphotomap (⭐40)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
-*   [mustafaberkaymutlu/uv-index (⭐66)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
-*   [hanjoongcho/aaf-easypassword (⭐34)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
-
-### Android / Extensions
-
-*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
-
-### Android / Tests
-
-*   [agoda-com/Kakao (⭐1.1k)](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
-
-### Kotlin JavaScript / JavaScript
-
-*   [pixijs/pixi-native (⭐85)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
-*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
-*   [Foso/MpApt (⭐238)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
-
-### Kotlin JavaScript / Build Tools
-
-*   [Kotlin/kotlin-frontend-plugin (⭐566)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
-
-### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐320)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-### Kotlin Native / Projects
-
-*   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
+*   [Blueprint (⭐77)](https://github.com/popovanton0/Blueprint) - 📐 A library that draws a blueprint on top of your Jetpack Compose composables. It visualizes dimensions, like paddings and sizes.
 
 ## [23. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -8540,7 +8232,7 @@
 
 ### Game Development
 
-*   [Raylib-cr (⭐46)](https://github.com/sol-vin/raylib-cr) - Direct bindings to [Raylib](https://raylib.com), which supports Linux, Windows, and Mac
+*   [Raylib-cr (⭐52)](https://github.com/sol-vin/raylib-cr) - Direct bindings to [Raylib](https://raylib.com), which supports Linux, Windows, and Mac
 
 ## [25. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
@@ -8558,57 +8250,23 @@
 
 ## [26. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
-### Projects / API Management
-
-*   [Gravitee.io API Management (⭐54) (⭐49)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-*   [WSO2 API Manager (⭐759) (⭐756)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
-
-### Projects / API Design
-
-*   [OpenAPI Diff (⭐646) (⭐642)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
-*   [OpenAPI Style Validator (⭐174) (⭐172)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
-
-### Projects / API Documentation
-
-*   [OpenAPI Explorer (⭐224) (⭐222)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
-
 ### Projects / API Gateway
 
-*   [Apinto (⭐932) (⭐925)](https://github.com/eolinker/goku) - A Golang-based microservice gateway that provides dynamic routing, service orchestration, multi-tenancy management, and API access control.
-*   [Ocelot (⭐7.8k) (⭐7.8k)](https://github.com/ThreeMammals/Ocelot) - A .NET API Gateway that provides a simple and elegant way to manage APIs with its intuitive routing and middleware configuration.
-
-### Projects / API Testing
-
-*   MQ clients
-    *   [JMSToolBox (⭐178) (⭐177)](https://github.com/jmstoolbox/jmstoolbox) - Universal JMS client designed to interact with a wide range of JMS-based message brokers.
-    *   [kcat (⭐4.9k) (⭐4.9k)](https://github.com/edenhill/kcat) - Generic non-JVM producer and consumer for Apache Kafka, functioning as a netcat for Kafka.
-    *   [MQTT Explorer (⭐2.4k) (⭐2.5k)](https://github.com/thomasnordquist/MQTT-Explorer) - All-round MQTT client with a structured topic overview, suitable for debugging and testing MQTT-based systems.
-    *   [Offset Explorer](https://www.kafkatool.com) - GUI application for managing and using Apache Kafka clusters, formerly known as Kafka Tool.
-    *   [Service Bus Explorer (⭐1.8k) (⭐1.8k)](https://github.com/paolosalvatori/ServiceBusExplorer) - GUI app for Azure Service Bus, offering advanced features like import/export functionality and the ability to test topic, queues, subscriptions, relay services, notification hubs, and events hubs.
-*   Mocking tools
-    *   [Microcks (⭐932) (⭐928)](https://github.com/microcks/microcks) - Open-source Kubernetes-native tool for API mocking and testing, supporting AsyncAPI, OpenAPI, Postman Collections, etc.
-    *   [Mockable](https://www.mockable.io/) - Simple configurable service to mock out RESTful API or SOAP web-services.
-    *   [Mockoon (⭐5.3k) (⭐5.3k)](https://github.com/mockoon/mockoon) - Easy-to-use tool for designing and running mock REST APIs.
-    *   [MockServer (⭐4.2k) (⭐4.3k)](https://github.com/mock-server/mockserver) - Easy mocking of any system you integrate with via HTTP or HTTPS.
-    *   [Mocky (⭐1.9k) (⭐2k)](https://github.com/MockyAbstract/Mocky) - Free and unlimited online service for generating custom HTTP responses.
-    *   [Prism (⭐3.7k) (⭐3.7k)](https://github.com/stoplightio/prism) - Open-source HTTP mock server that can mimic your API's behavior as if you already built it.
-    *   [WireMock (⭐5.7k) (⭐5.7k)](https://github.com/tomakehurst/wiremock) - Mock your APIs for fast, robust, and comprehensive testing.
+*   [Ocelot (⭐7.8k) (⭐7.9k)](https://github.com/ThreeMammals/Ocelot) - A .NET API Gateway that provides a simple and elegant way to manage APIs with its intuitive routing and middleware configuration.
 
 ### Projects / Messaging
 
-*   [Eclipse Mosquitto (⭐7.7k) (⭐7.7k)](https://github.com/eclipse/mosquitto) - A lightweight open-source message broker that implements the MQTT protocol. Designed for low-power devices and supports message encryption and authentication.
+*   [Eclipse Mosquitto (⭐7.7k) (⭐7.8k)](https://github.com/eclipse/mosquitto) - A lightweight open-source message broker that implements the MQTT protocol. Designed for low-power devices and supports message encryption and authentication.
 *   [RabbitMQ (⭐11k) (⭐11k)](https://github.com/rabbitmq/rabbitmq-server) - An open-source message broker that implements AMQP and supports multiple messaging protocols and patterns. Offers reliable and efficient message delivery and supports clustering and high availability.
 
 ### Projects / Workflow engine
 
 *   [Activiti (⭐9.6k) (⭐9.6k)](https://github.com/Activiti/Activiti) - A lightweight and Java-centric open-source engine for executing BPMN (Business Process Model and Notation) workflows.
-*   [Camunda (⭐3.5k) (⭐3.5k)](https://github.com/camunda/camunda-bpm-platform) - An open-source workflow and decision automation platform that helps you automate business processes and decisions in a flexible and scalable way.
-*   [Conductor (⭐10k) (⭐10k)](https://github.com/Netflix/conductor) - A cloud-based orchestration engine designed to run and manage workflows in a microservices architecture.
-*   [Temporal (⭐8k) (⭐8k)](https://github.com/temporalio/temporal) - An open-source platform that uses a workflow-as-code approach to make your applications more reliable and scalable.
+*   [Camunda (⭐3.5k) (⭐3.6k)](https://github.com/camunda/camunda-bpm-platform) - An open-source workflow and decision automation platform that helps you automate business processes and decisions in a flexible and scalable way.
 
 ### Resources / Protocols
 
-*   [OpenMessaging (⭐281) (⭐282)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
+*   [OpenMessaging (⭐281) (⭐281)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
 
 ## [27. Awesome Veganism](/content/sdassow/awesome-veganism/week/README.md)
 
@@ -8654,15 +8312,15 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Rivet (⭐842)](https://github.com/Ironclad/rivet): An IDE for creating complex AI agents and prompt chaining, and embedding it in your application. ![GitHub Repo stars](https://img.shields.io/github/stars/Ironclad/rivet?style=social)
-*   [Promptfoo (⭐927)](https://github.com/promptfoo/promptfoo): Test your prompts. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality. ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
-*   [RestGPT (⭐763)](https://github.com/Yifan-Song793/RestGPT): An LLM-based autonomous agent controlling real-world applications via RESTful APIs ![GitHub Repo stars](https://img.shields.io/github/stars/Yifan-Song793/RestGPT?style=social)
+*   [Rivet (⭐1.8k)](https://github.com/Ironclad/rivet): An IDE for creating complex AI agents and prompt chaining, and embedding it in your application. ![GitHub Repo stars](https://img.shields.io/github/stars/Ironclad/rivet?style=social)
+*   [Promptfoo (⭐1.2k)](https://github.com/promptfoo/promptfoo): Test your prompts. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality. ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
+*   [RestGPT (⭐907)](https://github.com/Yifan-Song793/RestGPT): An LLM-based autonomous agent controlling real-world applications via RESTful APIs ![GitHub Repo stars](https://img.shields.io/github/stars/Yifan-Song793/RestGPT?style=social)
 
 ## [30. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Assets
 
-*   [Shakapacker (⭐344)](https://github.com/shakacode/shakapacker) - Use Webpack to manage app-like JavaScript modules in Rails. (Official and actively maintained successor to rails/webpacker)
+*   [Shakapacker (⭐346)](https://github.com/shakacode/shakapacker) - Use Webpack to manage app-like JavaScript modules in Rails. (Official and actively maintained successor to rails/webpacker)
 
 ## [31. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
@@ -8672,13 +8330,13 @@
 
 ### Project Layout
 
-*   [nunu (⭐616)](https://github.com/go-nunu/nunu) - Nunu is a scaffolding tool for building Go applications.
+*   [nunu (⭐709)](https://github.com/go-nunu/nunu) - Nunu is a scaffolding tool for building Go applications.
 
 ## [32. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Miscellaneous
 
-*   [Flipt](https://flipt.io) - Feature flag solution with support for multiple data backends (alternative to LaunchDarkly). ([Demo](https://try.flipt.io), [Source Code (⭐2.8k)](https://github.com/flipt-io/flipt)) `GPL-3.0` `Docker/K8S/Go`
+*   [Flipt](https://flipt.io) - Feature flag solution with support for multiple data backends (alternative to LaunchDarkly). ([Demo](https://try.flipt.io), [Source Code (⭐2.9k)](https://github.com/flipt-io/flipt)) `GPL-3.0` `Docker/K8S/Go`
 
 ### Software / Search Engines
 
@@ -8694,8 +8352,8 @@
 
 ### Miscellaneous
 
-*   [cl-raylib (⭐3)](https://github.com/bohonghuang/claw-raylib) NEW in 2023 - fully auto-generated Common Lisp bindings to Raylib and Raygui using claw and cffi-object. Apache 2.0.
-*   [glfw (⭐5)](https://github.com/shirakumo/glfw) NEW in 2023 - An up-to-date Common Lisp bindings library to the most recent GLFW OpenGL context management library.
+*   [cl-raylib (⭐8)](https://github.com/bohonghuang/claw-raylib) NEW in 2023 - fully auto-generated Common Lisp bindings to Raylib and Raygui using claw and cffi-object. Apache 2.0.
+*   [glfw (⭐10)](https://github.com/shirakumo/glfw) NEW in 2023 - An up-to-date Common Lisp bindings library to the most recent GLFW OpenGL context management library.
 
 ## [35. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
@@ -8737,61 +8395,63 @@
 
 *   [CometML (⭐125)](https://github.com/comet-ml/comet-examples): The best-in-class MLOps platform with experiment tracking, model production monitoring, a model registry, and data lineage from training straight through to production.
 
-## [39. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [39. Awesome Kustomize](/content/aabouzaid/awesome-kustomize/week/README.md)
 
-### Projects / Plugins
+### Plugins / Generators
 
-*   [coq-waterproof (⭐20)](https://github.com/impermeable/coq-waterproof) - Plugin for writing Coq proof scripts in a style that resembles non-mechanized mathematical proof.
+*   [Merger (⭐9)](https://github.com/aabouzaid/kustomize-plugin-merger) - Generating manifests seamlessly by extending Kustomize merge strategies using schemaless StrategicMerge (Containerized KRM, Exec KRM).
+
+## [40. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Resources / Course Material
 
-*   [Program Logics (⭐31)](https://github.com/xavierleroy/cdf-program-logics) - Companion Coq sources for a course on program logics at Collège de France.
+*   [Program Logics (⭐32)](https://github.com/xavierleroy/cdf-program-logics) - Companion Coq sources for a course on program logics at Collège de France.
 
-## [40. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [41. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [RaspiBolt](https://raspibolt.org/) - Beginner’s Guide to ️⚡Lightning️⚡ on a Raspberry Pi.
 
-## [41. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [42. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Tools / Web App
 
 *   [Colorca](https://colorca.org/) - Design an accessible color palette for digital products in HSLuv color space
 
-## [42. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [43. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Get Started
 
-*   [bati (⭐20)](https://github.com/batijs/bati) - Scaffolding a Vike project.
+*   [bati (⭐36)](https://github.com/batijs/bati) - Scaffolding a Vike project.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-node-polyfills (⭐116)](https://github.com/davidmyersdev/vite-plugin-node-polyfills) - Polyfill Node's Core Modules for browser environments.
-*   [vite-plugin-cdn2 (⭐39)](https://github.com/nonzzz/vite-plugin-cdn) - Replace module with CDN.
+*   [vite-plugin-node-polyfills (⭐131)](https://github.com/davidmyersdev/vite-plugin-node-polyfills) - Polyfill Node's Core Modules for browser environments.
+*   [vite-plugin-cdn2 (⭐46)](https://github.com/nonzzz/vite-plugin-cdn) - Replace module with CDN.
 
-## [43. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [44. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Plugin Manager
 
-*   [lewis6991/pckr.nvim (⭐116)](https://github.com/lewis6991/pckr.nvim) - Spiritual successor of `wbthomason/packer.nvim`.
+*   [lewis6991/pckr.nvim (⭐140)](https://github.com/lewis6991/pckr.nvim) - Spiritual successor of `wbthomason/packer.nvim`.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [judaew/ronny.nvim (⭐0)](https://github.com/judaew/ronny.nvim) - A dark colorscheme, which mostly was inspired by the Monokai originally created by Wimem Hazenberg.
-*   [ribru17/bamboo.nvim (⭐118)](https://github.com/ribru17/bamboo.nvim) - A warm green theme.
+*   [judaew/ronny.nvim (⭐5)](https://github.com/judaew/ronny.nvim) - A dark colorscheme, which mostly was inspired by the Monokai originally created by Wimem Hazenberg.
+*   [ribru17/bamboo.nvim (⭐143)](https://github.com/ribru17/bamboo.nvim) - A warm green theme.
 
 ### Utility / Diagnostics
 
-*   [LintaoAmons/scratch.nvim (⭐91)](https://github.com/LintaoAmons/scratch.nvim) - Create and manage scratch files.
+*   [LintaoAmons/scratch.nvim (⭐107)](https://github.com/LintaoAmons/scratch.nvim) - Create and manage scratch files.
 
-## [44. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [45. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Other / iOS
 
 *   🔧 [Dynaboard](https://dynaboard.com) - Generate low-code web apps from Firebase using AI.
 
-## [45. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [46. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Virtualization
 
@@ -8814,24 +8474,24 @@
 
 *   [Luminescent](https://naden.co) - Bring back Keyboard Backlight Shortcuts for the MacBook.
 
-## [46. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [47. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
 *   [CodeSonar from GrammaTech](https://codesecure.com/our-products/codesonar/) :copyright: — Advanced, whole program, deep path, static analysis of C, C++, Java and C# with easy-to-understand explanations and code and path visualization.
 
-## [47. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [48. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
-*   [MaxText (⭐362)](https://github.com/google/maxtext) - A simple, performant and scalable Jax LLM written in pure Python/Jax and targeting Google Cloud TPUs. <img src="https://img.shields.io/github/stars/google/maxtext?style=social" align="center">
-*   [Pax (⭐267)](https://github.com/google/paxml) - A Jax-based machine learning framework for training large scale models. <img src="https://img.shields.io/github/stars/google/paxml?style=social" align="center">
-*   [Praxis (⭐112)](https://github.com/google/praxis) - The layer library for Pax with a goal to be usable by other JAX-based ML projects. <img src="https://img.shields.io/github/stars/google/praxis?style=social" align="center">
-*   [purejaxrl (⭐382)](https://github.com/luchris429/purejaxrl) - Vectorisable, end-to-end RL algorithms in JAX. <img src="https://img.shields.io/github/stars/luchris429/purejaxrl?style=social" align="center">
-*   [Lorax (⭐95)](https://github.com/davisyoshida/lorax) - Automatically apply LoRA to JAX models (Flax, Haiku, etc.)
-*   [SCICO (⭐64)](https://github.com/lanl/scico) - Scientific computational imaging in JAX. <img src="https://img.shields.io/github/stars/lanl/scico?style=social" align="center">
-*   [BrainPy (⭐356)](https://github.com/brainpy/BrainPy) - Brain Dynamics Programming in Python. <img src="https://img.shields.io/github/stars/brainpy/BrainPy?style=social" align="center">
-*   [OTT-JAX (⭐369)](https://github.com/ott-jax/ott) - Optimal transport tools in JAX. <img src="https://img.shields.io/github/stars/ott-jax/ott?style=social" align="center">
+*   [MaxText (⭐387)](https://github.com/google/maxtext) - A simple, performant and scalable Jax LLM written in pure Python/Jax and targeting Google Cloud TPUs. <img src="https://img.shields.io/github/stars/google/maxtext?style=social" align="center">
+*   [Pax (⭐291)](https://github.com/google/paxml) - A Jax-based machine learning framework for training large scale models. <img src="https://img.shields.io/github/stars/google/paxml?style=social" align="center">
+*   [Praxis (⭐115)](https://github.com/google/praxis) - The layer library for Pax with a goal to be usable by other JAX-based ML projects. <img src="https://img.shields.io/github/stars/google/praxis?style=social" align="center">
+*   [purejaxrl (⭐416)](https://github.com/luchris429/purejaxrl) - Vectorisable, end-to-end RL algorithms in JAX. <img src="https://img.shields.io/github/stars/luchris429/purejaxrl?style=social" align="center">
+*   [Lorax (⭐100)](https://github.com/davisyoshida/lorax) - Automatically apply LoRA to JAX models (Flax, Haiku, etc.)
+*   [SCICO (⭐71)](https://github.com/lanl/scico) - Scientific computational imaging in JAX. <img src="https://img.shields.io/github/stars/lanl/scico?style=social" align="center">
+*   [BrainPy (⭐375)](https://github.com/brainpy/BrainPy) - Brain Dynamics Programming in Python. <img src="https://img.shields.io/github/stars/brainpy/BrainPy?style=social" align="center">
+*   [OTT-JAX (⭐381)](https://github.com/ott-jax/ott) - Optimal transport tools in JAX. <img src="https://img.shields.io/github/stars/ott-jax/ott?style=social" align="center">
 
 ### Tutorials and Blog Posts / NumPyro
 
@@ -8839,4 +8499,5 @@
 
 ---
 
+- Prev: [Sep 18 - Sep 24, 2023](/content/2023/38/README.md)
 - Next: [Sep 04 - Sep 10, 2023](/content/2023/36/README.md)

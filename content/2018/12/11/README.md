@@ -30,24 +30,24 @@
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Online / MIT
+### Online / Apache License
 
 *   [jdoodle-ada-compiler](https://www.jdoodle.com/execute-ada-online) - Online compiler that provides multiple versions of GNAT to test with.
 
-### OS and Kernels / MIT
+### OS and Kernels / Apache License
 
 *   [marte-os](https://marte.unican.es/) - MaRTE OS is a Hard Real-Time Operating System for embedded applications that follows the Minimal Real-Time POSIX.13 subset. It provides an easy to use and controlled environment to develop Multi-Thread Real-Time applications.
-*   [bare-bones (⭐75)](https://github.com/Lucretia/bare_bones) - An Ada port of the [osdev.org](https://wiki.osdev.org/Ada_Bare_bones) minimal 32-bit x86 kernel.
+*   [bare-bones (⭐79)](https://github.com/Lucretia/bare_bones) - An Ada port of the [osdev.org](https://wiki.osdev.org/Ada_Bare_bones) minimal 32-bit x86 kernel.
 
-### Games / MIT
+### Games / Apache License
 
-*   [co-terminal-apps (⭐25)](https://github.com/fastrgv/CoTerminalApps) - Retro Games that run in a terminal on any platform.
+*   [co-terminal-apps (⭐27)](https://github.com/fastrgv/CoTerminalApps) - Retro Games that run in a terminal on any platform.
 
 ## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / IOC
 
-*   [DryIoc (⭐779)](https://github.com/dadhi/DryIoc) - Fast, small, full-featured IoC Container for .NET.
+*   [DryIoc (⭐918)](https://github.com/dadhi/DryIoc) - Fast, small, full-featured IoC Container for .NET.
 
 ## [4. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
@@ -59,23 +59,23 @@
 
 ### Graphics
 
-*   [Yocto/GL (⭐2.6k)](https://github.com/xelatihy/yocto-gl) - Tiny C++ Libraries for Data-Driven Physically-based Graphics. \[MIT]
+*   [Yocto/GL (⭐2.7k)](https://github.com/xelatihy/yocto-gl) - Tiny C++ Libraries for Data-Driven Physically-based Graphics. \[MIT]
 
 ### Logging
 
-*   [plog (⭐1.8k)](https://github.com/SergiusTheBest/plog) - Portable and simple log for C++ in less than 1000 lines of code. \[MPL2]
+*   [plog (⭐1.9k)](https://github.com/SergiusTheBest/plog) - Portable and simple log for C++ in less than 1000 lines of code. \[MPL2]
 
 ### Sorting
 
-*   [pdqsort (⭐2.1k)](https://github.com/orlp/pdqsort) - Pattern-defeating quicksort. \[zlib]
+*   [pdqsort (⭐2.2k)](https://github.com/orlp/pdqsort) - Pattern-defeating quicksort. \[zlib]
 
 ### Miscellaneous
 
-*   [DynaMix (⭐638)](https://github.com/iboB/dynamix) - A library which allows you to compose and modify objects at run time. \[MIT]
+*   [DynaMix (⭐646)](https://github.com/iboB/dynamix) - A library which allows you to compose and modify objects at run time. \[MIT]
 
 ### Build Systems
 
-*   [Cget (⭐430)](https://github.com/pfultz2/cget) - Cmake package retrieval. \[Boost] [website](http://cget.readthedocs.io)
+*   [Cget (⭐436)](https://github.com/pfultz2/cget) - Cmake package retrieval. \[Boost] [website](http://cget.readthedocs.io)
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Tools / Misc
 
-*   [Notebooks (⭐29)](https://github.com/rlan/notebooks) - A starter kit for Jupyter notebooks and machine learning. Companion docker images consist of all combinations of python versions, machine learning frameworks (Keras, PyTorch and Tensorflow) and CPU/CUDA versions.
+*   [Notebooks (⭐30)](https://github.com/rlan/notebooks) - A starter kit for Jupyter notebooks and machine learning. Companion docker images consist of all combinations of python versions, machine learning frameworks (Keras, PyTorch and Tensorflow) and CPU/CUDA versions.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 28 - Dec 04, 2016
 
-39 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -105,13 +105,48 @@
 
 *   [Vert.x Spring Verticle Factory (⭐7)](https://github.com/juanavelez/vertx-spring-verticle-factory) - A Vert.x Verticle Factory that makes use of Spring to obtain and configure Verticles.
 
-## [7. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
+## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Go / Phoenix
+
+*   [Go for Javascript Developers (⭐1.2k)](https://github.com/bulim/go-for-javascript-developers)
+
+### Linux / TeX
+
+*   [Ten Steps to Linux Survival: Bash for Windows People](http://dullroar.com/book/TenStepsToLinuxSurvival.html) - Jim Lehmer
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [SICP in Python](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/) (3.2)
+
+### Python / Pandas
+
+*   [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas) - Hernan Rojas (0.18.1)
+
+### Python / Tornado
+
+*   [Learn Web Programming](https://bitbucket.org/hrojas/learn-web-programming)
+
+### R / Tornado
+
+*   [Cookbook for R](http://www.cookbook-r.com) - Winston Chang
+*   [R for Spatial Analysis](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf) (PDF)
+*   [R Language for Programmers](http://www.johndcook.com/blog/r_language_for_programmers) - John D. Cook
+*   [R Practicals](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) (PDF)
+*   [The caret Package](http://topepo.github.io/caret/index.html) - Max Kuhn
+*   [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html)
+
+### Ruby / Ruby on Rails
+
+*   [Ruby on Rails Tutorial (Rails 5): Learn Web Development with Rails](https://www.railstutorial.org/book) - [Michael Hartl](http://www.michaelhartl.com)
+
+## [8. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
 
 ### Projects
 
 *   [launch (⭐26)](https://github.com/NewSpring/meteor-launch) - Automating meteor builds to the AppStore, TestFlight, Hockey, Google Play, and more
 
-## [8. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [9. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Reference material
 
@@ -139,19 +174,19 @@
 
 *   [rossmcdonald/influxdb (⭐45)](https://github.com/rossmcdonald/influxdb) - Ansible role for installing, configuring, and maintaining InfluxDB
 
-## [9. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
+## [10. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
 
 ### Authoring Frameworks & Longer Readings
 
 *   [Atomic CSS](http://acss.io/), Yahoo! Inc.
 
-## [10. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [11. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### i18n
 
-*   [xgettext-template (⭐80)](https://github.com/gmarty/xgettext) - Extract gettext messages from Volt templates using a command line program that is identical to the [xgettext invocation](http://www.gnu.org/software/gettext/manual/gettext.html#xgettext-Invocation).
+*   [xgettext-template (⭐79)](https://github.com/gmarty/xgettext) - Extract gettext messages from Volt templates using a command line program that is identical to the [xgettext invocation](http://www.gnu.org/software/gettext/manual/gettext.html#xgettext-Invocation).
 
-## [11. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [12. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Graph Making / HTML+CSS+JS
 
@@ -161,19 +196,19 @@
 
 *   [On Being a Scientist](https://www.nap.edu/read/12192/): A guide to responsible conduct in research.
 
-## [12. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [13. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Configuration / PHP Podcasts
 
 *   [PHP Town Hall](https://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
 
-## [13. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [14. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### Debug / Omniauth
 
 *   [awesome\_print (⭐4k)](https://github.com/awesome-print/awesome_print) - Awesome Print is a Ruby library that pretty prints Ruby objects in full color exposing their internal structure with proper indentation.
 
-## [14. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [15. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shells
 
@@ -182,7 +217,7 @@
 
 ### Customization / Directory Navigation
 
-*   [base16-builder (⭐404)](https://github.com/base16-builder/base16-builder) - Base16-Builder
+*   [base16-builder (⭐413)](https://github.com/base16-builder/base16-builder) - Base16-Builder
 
 ### Applications / Directory Navigation
 
@@ -191,49 +226,49 @@
 ### Shell Script Development / Directory Navigation
 
 *   [bashwithnails (⭐25)](https://github.com/mindaugasbarysas/bashwithnails) - a Bash framework written just for fun with testing, dependency management & packaging
-*   [lumberjack (⭐37)](https://github.com/molovo/lumberjack) - A logging interface for shell scripts
-*   [revolver (⭐130)](https://github.com/molovo/revolver) - A reusable progress spinner for shell scripts
+*   [lumberjack (⭐38)](https://github.com/molovo/lumberjack) - A logging interface for shell scripts
+*   [revolver (⭐134)](https://github.com/molovo/revolver) - A reusable progress spinner for shell scripts
 
-## [15. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [16. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Online Build System
 
 *   [deploybot](https://deploybot.com) - Instantly build and ship code anywhere in one consistent process for your entire team.
 *   [Semaphore CI](https://semaphoreci.com/) — Fast and easy to use continuous integration and deployment service with native Docker support.
 
-## [16. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [17. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Blogs
 
 *   [Going Serverless](http://www.goingserverless.com) - Blog about serverless architectures and the Serverless Framework.
 
-## [17. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [18. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Up and Running with the Vue.js 2.0 Framework](https://www.sitepoint.com/up-and-running-vue-js-2-0/) on SitePoint
 *   [Vue.js 2.0 Fundamentals](https://www.youtube.com/playlist?list=PLwAKR305CRO_1yAao-8aZiQnBqJeyng4O) on YouTube by DevMarketer
 
-## [18. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
+## [19. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
 ### Object Detection
 
 *   Speed/accuracy trade-offs for modern convolutional object detectors [\[Paper\]](https://arxiv.org/pdf/1611.10012v1.pdf)
     *   Jonathan Huang, Vivek Rathod, Chen Sun, Menglong Zhu, Anoop Korattikara, Alireza Fathi, Ian Fischer, Zbigniew Wojna, Yang Song, Sergio Guadarrama, Kevin Murphy, Google Research, arXiv:1611.10012
 
-## [19. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
+## [20. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 
 ### Extensions / General Purpose
 
 *   [SublimeFileBrowser (⭐388)](https://github.com/aziz/SublimeFileBrowser) - Ditch the sidebar and browse your files in a normal tab with your keyboard, like a pro! Also, [Dired](https://en.wikipedia.org/wiki/Dired) lets you modify your directory structure using the powerful text editing feature that ST provides.
 
-## [20. Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/week/README.md)
+## [21. Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/week/README.md)
 
 ### Talks / Technical Talks
 
 *   [Extreme Classification: A New Paradigm for Ranking & Recommendation](https://youtu.be/1X71fTx1LKA) - Manik Verma (Microsoft Research)
 
-## [21. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
+## [22. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
 
 ### New to Laravel
 
@@ -411,32 +446,17 @@
 *   [careercup](http://www.careercup.com/)
 *   [LeetCode](https://leetcode.com/)
 
-## [22. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [23. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Authorization
 
 *   [pyramid\_yosai (⭐5)](https://github.com/YosaiProject/pyramid_yosai) - Pyramid integration with security Framework for Python applications featuring Authorization (rbac permissions and roles), Authentication (2fa totp), Session Management and an extensive Audit Trail <https://yosaiproject.github.io/yosai/>
 
-## [23. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [24. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### General Search
 
-*   [Advangle](http://advangle.com)
-*   [Aol](http://search.aol.com)
-*   [Bing](http://www.bing.com)
-*   [Instya](http://www.instya.com)
 *   [Impersonal.me](http://www.impersonal.me)
-*   [Lycos](http://www.lycos.com)
-*   [Search.com](http://www.search.com)
-
-### Q&A Sites / Telegram
-
-*   [Ask](http://www.ask.com)
-*   [Answers.com](http://www.answers.com)
-*   [eHow](http://www.ehow.com)
-*   [Quora](http://www.quora.com)
-*   [StackExchange](http://stackexchange.com)
-*   [Yahoo Answers](http://answers.yahoo.com)
 
 ### Main National Search Engines
 
@@ -462,7 +482,6 @@
 *   [iZito](http://www.izito.com)
 *   [Myallsearch](http://www.myallsearch.com)
 *   [Qwant](http://www.qwant.com)
-*   [Zapmeta](http://www.zapmeta.com)
 
 ### Specialty Search Engines
 
@@ -480,7 +499,6 @@
 *   [Zanran](http://zanran.com)
 *   [AGOA Data Center](http://agoa.info)
 *   [AidData](http://aiddata.org)
-*   [ADB Statistics and Databases](http://www.adb.org/data/statistics)
 *   [AWS Public Datasets](http://aws.amazon.com/datasets)
 *   [Bank for International Settlements Statistics](http://www.bis.org/statistics/index.htm)
 *   [BP Statistical Review of World Energy](http://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
@@ -490,12 +508,10 @@
 *   [CEPII](http://www.cepii.fr/CEPII/en/welcome.asp)
 *   [Data.gov.uk](https://data.gov.uk)
 *   [DBPedia](http://wiki.dbpedia.org)
-*   [European Commission Eurobarometer](http://ec.europa.eu/COMMFrontOffice/PublicOpinion)
 *   [European Union Open Data Portal](http://open-data.europa.eu/en/data)
 *   [Eurostat](http://ec.europa.eu/eurostat)
 *   [Freebase](https://developers.google.com/freebase)
 *   [Gapminder World](http://www.gapminder.org/data)
-*   [GEOHIVE](http://www.geohive.com)
 *   [globalEDGE Database of International Business Statistics](http://globaledge.msu.edu/tools-and-data/dibs)
 *   [Google Finance](https://www.google.com/finance)
 *   [Google Public Data Explorer](http://www.google.com/publicdata/directory)
@@ -508,7 +524,6 @@
 *   [ILO World Employment and Social Outlook Trends](http://www.ilo.org/global/research/global-reports/weso/2015/lang--en/index.htm)
 *   [IMF World Economic Outlook Database](http://www.imf.org/external/ns/cs.aspx?id=28)
 *   [Index Mundi](http://www.indexmundi.com)
-*   [International Energy Agency Energy Atlas](http://energyatlas.iea.org)
 *   [International Energy Agency Statistics](http://www.iea.org/statistics)
 *   [Junar](http://junar.com)
 *   [LandMatrix](http://landmatrix.org)
@@ -552,13 +567,16 @@
 *   [WTO Statistics](https://www.wto.org/english/res_e/statis_e/statis_e.htm)
 *   [Vizala](https://vizala.com)
 
+### Visual Search and Clustering Search Engines
+
+*   [Zapmeta](http://www.zapmeta.com)
+
 ### Similar Sites Search
 
 *   [Google Similar Pages](https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej)
 
 ### Document and Slides Search
 
-*   [Authorstream](http://www.authorstream.com)
 *   [Find-pdf-doc](http://www.findpdfdoc.com)
 *   [Free Full PDF](http://www.freefullpdf.com)
 *   [Offshore Leak Database](https://offshoreleaks.icij.org)
@@ -571,7 +589,6 @@
 
 *   [Draugiem (Latvia)](https://www.draugiem.lv)
 *   [Facebook](http://www.facebook.com)
-*   [Facenama (Iran)](http://facenama.com)
 *   [Instagram](https://www.instagram.com)
 *   [Mixi (Japan)](https://mixi.jp)
 *   [Odnoklassniki (Russia)](http://ok.ru)
@@ -645,7 +662,6 @@
 *   [ChangeDetection](http://www.changedetection.com)
 *   [Deltafeed](http://bitreading.com/deltafeed)
 *   [DiggReader](http://digg.com/login?next=%2Freader)
-*   [Feed43](http://feed43.com)
 *   [FeedBooster](http://www.qsensei.com)
 *   [Feederator](http://www.feederator.org)
 *   [Feed Exileed](http://feed.exileed.com)
@@ -658,7 +674,6 @@
 *   [InfoMinder](http://www.infominder.com/webminder)
 *   [Mention](https://en.mention.com)
 *   [Newsblur](http://newsblur.com)
-*   [NewsRSSTicker](http://www.newsrssticker.com)
 *   [OmeaReader](http://www.jetbrains.com/omea/reader)
 *   [OnWebChange](http://onwebchange.com)
 *   [RSS Bridge](https://bridge.suumitsu.eu)
@@ -678,76 +693,37 @@
 
 ### Social Media Tools / Twitter
 
-*   [Blue Nod](http://bluenod.com)
-*   [doesfollow](https://doesfollow.com)
-*   [First Tweet](http://ctrlq.org/first)
 *   [Foller.me](http://foller.me)
-*   [Followerwonk](http://followerwonk.com)
-*   [Geochirp](http://www.geochirp.com)
-*   [GeoSocial Footprint](http://geosocialfootprint.com)
-*   [GetTwitterID](http://gettwitterid.com)
-*   [Gigatweeter](http://gigatweeter.com)
-*   [Ground Signal](https://www.groundsignal.com)
 *   [HappyGrumpy](https://www.happygrumpy.com)
-*   [Harvard TweetMap](http://worldmap.harvard.edu/tweetmap)
-*   [Hashtags.org](http://www.hashtags.org)
-*   [ManageFlitter](http://manageflitter.com)
-*   [Mentionmapp](http://mentionmapp.com)
 *   [OneMillionTweetMap](http://onemilliontweetmap.com)
-*   [Rank Speed](http://www.rankspeed.com)
 *   [RiteTag](https://ritetag.com)
 *   [Sentiment140](http://www.twittersentiment.appspot.com)
-*   [SnapBird](http://snapbird.org)
-*   [Sleeping Time](http://sleepingtime.org)
-*   [Social Bearing](http://www.socialbearing.com)
-*   [Social Rank First Follower](http://socialrank.com/firstfollower)
 *   [Tagdef](https://tagdef.com)
-*   [Tinfoleak](https://tinfoleak.com)
 *   [Trends24](http://trends24.in)
-*   [TrendsMap](http://trendsmap.com)
-*   [twbirthday](http://twbirthday.com)
 *   [TwChat](http://twchat.com)
-*   [tweepsect](http://tweepsect.com)
-*   [TweetArchivist](http://www.tweetarchivist.com)
 *   [TweetDeck](https://www.tweetdeck.com)
 *   [TweetMap](http://mapd.csail.mit.edu/tweetmap)
 *   [TweetMap](http://worldmap.harvard.edu/tweetmap)
-*   [TweetStats](http://www.tweetstats.com)
-*   [TweetTunnel](http://tweettunnel.com)
-*   [Twellow](http://www.twellow.com)
-*   [Twiangulate](http://www.twiangulate.com)
-*   [Twicsy](http://twicsy.com)
-*   [Twilert](http://www.twilert.com)
-*   [Twipho](http://www.twipho.net)
-*   [Twitonomy](http://www.twitonomy.com)
 *   [Twitter Advanced Search](https://twitter.com/search-advanced?lang=en)
 *   [Twitter Audit](https://www.twitteraudit.com)
 *   [Twitter Chat Schedule](http://tweetreports.com/twitter-chat-schedule)
-*   [Twitter Counter](http://twittercounter.com)
-*   [Twitterfall](http://twitterfall.com)
 *   [Twitter Search](http://search.twitter.com)
-*   [TWUBS Twitter Chat](http://twubs.com/twitter-chats)
-*   [Schedule Warble](https://warble.co)
+
+### Social Media Tools / Facebook
+
+*   [Agora Pulse](http://barometer.agorapulse.com)
+*   [Fanpage Karma](http://www.fanpagekarma.com)
+*   [Facebook Search](http://search.fb.com/)
+*   [Fb-sleep-stats (⭐1.5k)](https://github.com/sqren/fb-sleep-stats)
+*   [Lookup-ID.com](https://lookup-id.com)
+*   [SearchIsBack](https://searchisback.com)
+*   [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report)
 
 ### Social Media Tools / Instagram
 
 *   [Hashtagify](http://hashtagify.me)
 *   [Iconosquare](http://iconosquare.com)
 *   [Picodash](https://www.picodash.com)
-*   [SnapMap](https://snapmap.knightlab.com/)
-*   [Social Rank](https://www.socialrank.com)
-
-### Social Media Tools / Facebook
-
-*   [Agora Pulse](http://barometer.agorapulse.com)
-*   [Commun.it](http://commun.it)
-*   [Fanpage Karma](http://www.fanpagekarma.com)
-*   [Facebook Search](http://search.fb.com/)
-*   [Facebook Search Tool](http://netbootcamp.org/facebook.html)
-*   [Fb-sleep-stats (⭐1.5k)](https://github.com/sqren/fb-sleep-stats)
-*   [Lookup-ID.com](https://lookup-id.com)
-*   [SearchIsBack](https://searchisback.com)
-*   [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report)
 
 ### Social Media Tools / Pinterest
 
@@ -831,8 +807,6 @@
 *   [Business Source](https://www.ebscohost.com/academic/business-source-complete)
 *   [Bureau Van Dijk](http://www.bvdinfo.com)
 *   [Canadian Business Research](https://www.canada.ca/en/services/business/research.html)
-*   [Canadian Business Resource](http://www.cbr.ca)
-*   [Central and Eastern European Business Directory](http://www.ceebd.co.uk/ceebd)
 *   [Company Registration Round the World](http://www.commercial-register.sg.ch/home/worldwide.html)
 *   [Company Research Resources by Country Comparably](https://www.comparably.com)
 *   [CompeteShark](http://competeshark.com)
@@ -845,7 +819,6 @@
 *   [GuideStar](http://www.guidestar.org)
 *   [Hoovers](http://www.hoovers.com)
 *   [Inc. 5000](http://www.inc.com/inc5000)
-*   [InstantLogoSearch](http://instantlogosearch.com)
 *   [iSpionage](https://www.ispionage.com)
 *   [Knowledge guide to international company registration](http://www.icaew.com/en/library/subject-gateways/business-management/company-administration/knowledge-guide-international-company-registration)
 *   [National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers)
@@ -863,7 +836,6 @@
 
 *   [SEMrush](https://www.semrush.com)
 *   [Accuranker](https://www.accuranker.com)
-*   [Alexa](http://www.alexa.com)
 *   [Bing Webmaster Tools](http://www.bing.com/toolbox/webmaster)
 *   [Central Ops](http://centralops.net)
 *   [Dedicated or Not](http://dedicatedornot.com)
@@ -906,6 +878,15 @@
 *   [ViewDNS.info](http://viewdns.info)
 *   [You Get Signal](http://www.yougetsignal.com)
 
+### Q&A Sites / Telegram
+
+*   [Answers.com](http://www.answers.com)
+*   [Ask](http://www.ask.com)
+*   [eHow](http://www.ehow.com)
+*   [Quora](http://www.quora.com)
+*   [StackExchange](http://stackexchange.com)
+*   [Yahoo Answers](http://answers.yahoo.com)
+
 ### Keywords Discovery and Research / Telegram
 
 *   [Keyword Discovery](http://www.keyworddiscovery.com)
@@ -920,70 +901,33 @@
 
 *   [CashedPages](http://www.cachedpages.com)
 *   [CachedView](http://cachedview.com)
-*   [Wayback Machine Archiver (⭐2.6k)](https://github.com/jsvine/waybackpack)
-
-### Language Tools / Telegram
-
-*   [2lingual](http://www.2lingual.com)
-*   [Apertium](https://www.apertium.org)
-*   [Babelfish](https://www.babelfish.com)
-*   [Bablic](https://www.bablic.com)
-*   [Bing Translator](http://www.bing.com/translator) - is a user facing translation portal provided by Microsoft as part of its Bing services to translate texts or entire web pages into different languages.
-*   [Dict.cn](http://dict.cn)
-*   [Dictionary.com: Translation](http://translate.reference.com)
-*   [Free Translator](http://www.free-translator.com)
-*   [Free Website Translation](http://free-website-translation.com)
-*   [Frengly](http://frengly.com)
-*   [Gengo](http://gengo.com)
-*   [Google Translate](https://translate.google.com)
-*   [Google Tranlslate Extension](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en)
-*   [IdiomaX Translation](http://www.idiomax.com/online-translator.aspx)
-*   [imTranslator](http://imtranslator.net/translation)
-*   [iTranslate Voice](http://itranslatevoice.com)
-*   [Lexicool Translation](http://www.lexicool.com/translate.asp)
-*   [Linguee](http://www.linguee.com)
-*   [LingvoSoftOnline](http://www.lingvozone.com)
-*   [Microsoft Translator](http://www.microsoft.com/en-us/translator)
-*   [Noslang](http://www.noslang.com)
-*   [OdysseyTranslator](http://odysseytranslator.com)
-*   [Pleco](https://www.pleco.com)
-*   [PROMT-Online](http://translation2.paralink.com)
-*   [Reddit/r/translator](https://www.reddit.com/r/translator)
-*   [Reverso](http://www.reverso.net)
-*   [Slangit](http://slangit.com)
-*   [Systran](http://www.systransoft.com)
-*   [Translate.com](https://www.translate.com)
-*   [Unbabel](https://unbabel.com)
-*   [WorldReference.com](http://www.wordreference.com)
-*   [Yamli (Arabic Search Engine)](http://www.yamli.com)
-*   [Yandex Translate](https://translate.yandex.ru)
+*   [Wayback Machine Archiver (⭐2.7k)](https://github.com/jsvine/waybackpack)
 
 ### Image Search / Telegram
 
-*   [7Photos](http://7photos.net)
-*   [Baidu Images](http://image.baidu.com)
-*   [Bing Images](http://www.bing.com/images)
-*   [Flickr](https://secure.flickr.com)
-*   [GoodSearch Image Search](http://www.goodsearch.com/search-image)
 *   [Google Image](https://images.google.com)
-*   [Gramfeed](http://www.gramfeed.com)
 *   [Image Identification Project](https://www.imageidentify.com)
 *   [Image Raider](https://www.imageraider.com)
 *   [KarmaDecay](http://karmadecay.com)
-*   [MyPicsMap](http://www.mypicsmap.com)
-*   [PhotoBucket](http://photobucket.com)
-*   [PicTriev](http://www.pictriev.com)
-*   [StolenCameraFinder](http://www.stolencamerafinder.co.uk)
-*   [Websta](http://websta.me)
+*   [PicTriev](http://www.pictriev.com) - a face search engine.
 *   [Yahoo Image Search](https://images.search.yahoo.com)
 *   [Yandex Images](https://www.yandex.com/images)
 
+### Image Analysis / Telegram
+
+*   [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool)
+*   [Exif Search](http://www.exif-search.com)
+*   [FotoForensics](http://www.fotoforensics.com)
+*   [Ghiro](http://www.getghiro.org)
+*   [ImpulseAdventure](http://www.impulseadventure.com/photo/jpeg-snoop.html)
+*   [JPEGsnoop](https://sourceforge.net/projects/jpegsnoop)
+
 ### Video Search and Other Video Tools / Telegram
 
-*   [Clarify](http://clarify.io)
 *   [Aol Videos](http://on.aol.com)
 *   [Bing Videos](http://www.bing.com/?scope=video)
 *   [Blinkx](http://www.blinkx.com)
+*   [Clarify](http://clarify.io)
 *   [Clip Blast](http://www.clipblast.com)
 *   [DailyMotion](http://www.dailymotion.com)
 *   [Deturl](http://deturl.com)
@@ -1000,44 +944,6 @@
 *   [YouTube](https://www.youtube.com)
 *   [YouTube Data Viewer](https://www.amnestyusa.org/citizenevidence)
 
-### Image Analysis / Telegram
-
-*   [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool)
-*   [Exif Search](http://www.exif-search.com)
-*   [FotoForensics](http://www.fotoforensics.com)
-*   [Ghiro](http://www.getghiro.org)
-*   [ImpulseAdventure](http://www.impulseadventure.com/photo/jpeg-snoop.html)
-*   [JPEGsnoop](https://sourceforge.net/projects/jpegsnoop)
-
-### Stock Images / Telegram
-
-*   [AlltheFreeStock](http://allthefreestock.com)
-*   [Death to Stock](http://deathtothestockphoto.com)
-*   [Freeimages](http://www.freeimages.com)
-*   [Freestocks.org](http://freestocks.org)
-*   [Gratisography](http://www.gratisography.com)
-*   [IM Free](http://www.imcreator.com/free)
-*   [ISO Republic](http://isorepublic.com)
-*   [iStockphoto](http://www.istockphoto.com)
-*   [Kaboompics](http://kaboompics.com)
-*   [LibreStock](https://librestock.com)
-*   [Life of Pix](http://www.lifeofpix.com)
-*   [NegativeSpace](http://negativespace.co)
-*   [New Old Stock](http://nos.twnsnd.co)
-*   [Pixabay](https://pixabay.com)
-*   [Pexels](https://www.pexels.com)
-*   [Stocksnap](https://stocksnap.io)
-*   [Shutterstock](http://www.shutterstock.com)
-*   [tookapic](https://stock.tookapic.com)
-
-### Radio and Podcasts Tools / Telegram
-
-*   [iTunes Podcasts](http://www.apple.com/itunes/podcasts)
-*   [Listelive](http://www.listenlive.eu)
-*   [Pocket Casts](http://www.shiftyjelly.com/pocketcasts)
-*   [Podcast Chart](http://www.podcastchart.com)
-*   [Podkicker](https://play.google.com/store/apps/details?id=ait.podka\&hl=en)
-
 ### Academic Resources and Grey Literature / Telegram
 
 *   [Academia](https://www.academia.edu)
@@ -1045,13 +951,12 @@
 *   [African Journal Online](http://www.ajol.info) -  is the world's largest and preeminent platform of African-published scholarly journals
 *   [American Society of Civil Engineers](http://ascelibrary.org)
 *   [Base](http://www.base-search.net)
-*   [Cambridge Journals](http://journals.cambridge.org)
+*   [Bibsonomy](http://www.bibsonomy.org)
 *   [Core](https://core.ac.uk/search)
 *   [Elsevier](https://www.elsevier.com)
 *   [Google Scholar](https://scholar.google.com)
 *   [Grey Guide](http://greyguide.isti.cnr.it)
 *   [Grey Literature – List of Gateways](http://csulb.libguides.com/graylit)
-*   [Grey Literature Report](http://www.greylit.org)
 *   [Grey Literature Strategies](http://greylitstrategies.info)
 *   [GreyNet International](http://www.greynet.org)
 *   [HighWire: Free Online Full-text Articles](http://highwire.stanford.edu/lists/freeart.dtl)
@@ -1078,80 +983,6 @@
 *   [World Science](http://worldwidescience.org)
 *   [Zetoc](http://zetoc.jisc.ac.uk)
 
-### Bookmarking / Telegram
-
-*   [Bibsonomy](http://www.bibsonomy.org)
-*   [Booky](http://booky.io)
-*   [ChannelKit](http://channelkit.com)
-*   [Clipix](https://www.clipix.com)
-*   [Curabase](https://www.curabase.com)
-*   [Evernote](http://evernote.com)
-*   [eLink](https://elink.io)
-*   [FAVable](http://www.favable.com)
-*   [Instapaper](http://www.instapaper.com)
-*   [Juxtapost](http://www.juxtapost.com)
-*   [Klart](https://klart.co)
-*   [Linkman Pro](http://www.outertech.com/en/bookmarks-favorites)
-*   [Linkstash](http://www.xrayz.co.uk)
-*   [LiveBinders](http://www.livebinders.com)
-*   [Memonic](http://www.memonic.com)
-*   [Microsoft OneNote](http://office.microsoft.com/en-us/onenote)
-*   [Papaly](https://papaly.com)
-*   [Paperwork (⭐7.9k)](https://github.com/twostairs/paperwork)
-*   [Pearltrees](http://www.pearltrees.com)
-*   [Pocket](http://getpocket.com)
-*   [Raindrop](https://raindrop.io)
-*   [Refind](https://refind.com)
-*   [Scoop.it](http://www.scoop.it)
-*   [Scrible](http://www.scrible.com)
-*   [Sitehoover](http://www.sitehoover.com)
-*   [Stache](http://getstache.com)
-*   [Thinkery](http://thinkery.me)
-*   [Trackplanet](https://trackpanel.net)
-*   [Wepware](http://www.wepware.com)
-*   [Zotero](http://www.zotero.org)
-
-### Books and Reading / Telegram
-
-*   [Amazon Cheap Books](http://www.amazon.com/b?tag=mak041-20\&linkCode=as2\&ie=UTF8\&node=2245146011)
-*   [Blinkist](https://www.blinkist.com)
-*   [Bookbub](https://www.bookbub.com)
-*   [Booklikes](http://booklikes.com)
-*   [Bookmate](https://bookmate.com)
-*   [Bookseer](http://bookseer.com)
-*   [Books on the Knob](http://blog.booksontheknob.org)
-*   [Daily Cheap Reads](http://www.dailycheapreads.com)
-*   [ExplainToMe](https://explaintome.herokuapp.com)
-*   [Favobooks](http://favobooks.com)
-*   [Free Kindle Books](http://freekindlebooks.org)
-*   [Gnooks](http://www.gnooks.com)
-*   [Google Books](https://books.google.com)
-*   [Goodreads](http://www.goodreads.com)
-*   [I love my Kindle](https://ilmk.wordpress.com)
-*   [Internet Archive Texts](http://archive.org/details.php?identifier=texts)
-*   [Jellybooks](https://www.jellybooks.com)
-*   [Just Free Books](http://www.justfreebooks.info)
-*   [KindleNationDay](http://kindlenationdaily.com)
-*   [KindleWorld](http://kindleworld.blogspot.com)
-*   [Leatherbound](http://www.leatherbound.me)
-*   [Lendle](http://lendle.me)
-*   [LibraryThing](https://www.librarything.com)
-*   [Librivox](https://librivox.org)
-*   [Loyal Books](http://www.loyalbooks.com)
-*   [Many Books](http://manybooks.net)
-*   [Narro](https://www.narro.co)
-*   [Open Culture: Free Audiobooks](http://www.openculture.com/freeaudiobooks)
-*   [OpeningtheBook](http://www.openingthebook.com)
-*   [Overdrive](https://www.overdrive.com)
-*   [Pixel of Ink](http://www.pixelofink.com)
-*   [Project Gutenberg](http://www.gutenberg.org)
-*   [Read](https://medium.com/@readapp/introducing-read-for-ios-de4d2799254a#.z3lrigjr7)
-*   [Reader IQ](http://www.ereaderiq.com)
-*   [Readgeek](http://www.readgeek.com)
-*   [Riffle](https://www.rifflebooks.com)
-*   [Tinderizer](http://tinderizer.com)
-*   [WhatShouldIReadNext](http://www.whatshouldireadnext.com)
-
 ### Geospatial Research and Mapping Tools / Telegram
 
 *   [Atlasify](http://www.atlasify.com)
@@ -1172,7 +1003,7 @@
 *   [GPSVisualizer](http://www.gpsvisualizer.com)
 *   [GrassGIS](http://grass.osgeo.org)
 *   [Here](http://here.com)
-*   [Hyperlapse (⭐2.3k)](https://github.com/TeehanLax/Hyperlapse.js)
+*   [Hyperlapse (⭐2.4k)](https://github.com/TeehanLax/Hyperlapse.js)
 *   [Inspire Geoportal](http://inspire-geoportal.ec.europa.eu)
 *   [InstantAtlas](http://www.instantatlas.com)
 *   [Instant Google Street View](http://www.instantstreetview.com)
@@ -1207,11 +1038,10 @@
 *   [Mapline](https://mapline.com)
 *   [OpenLayers](http://openlayers.org)
 *   [Knoema](https://knoema.com)
-*   [Dropmark](http://www.dropmark.com)
-*   [Visme](http://www.visme.co)
 *   [Aeon](http://www.aeontimeline.com)
 *   [Arbor.js](http://arborjs.org)
 *   [Beaker](http://beakernotebook.com)
+*   [Befunky](https://www.befunky.com)
 *   [Bizint](http://www.bizint.com)
 *   [Cacoo](https://cacoo.com)
 *   [Canva](https://www.canva.com)
@@ -1220,9 +1050,10 @@
 *   [Circos](http://circos.ca)
 *   [creately](http://creately.com)
 *   [Crossfilter](http://square.github.io/crossfilter)
-*   [csvkit (⭐5.5k)](https://github.com/wireservice/csvkit)
+*   [csvkit (⭐5.6k)](https://github.com/wireservice/csvkit)
 *   [Data Visualization Catalogue](http://datavizcatalogue.com)
 *   [Datawrapper](https://datawrapper.de)
+*   [Dropmark](http://www.dropmark.com)
 *   [dygraphs](http://dygraphs.com)
 *   [easely](http://www.easel.ly)
 *   [Exhibit](http://www.simile-widgets.org/exhibit)
@@ -1239,6 +1070,7 @@
 *   [jqPlot](http://www.jqplot.com)
 *   [Listify](http://listify.okfnlabs.org)
 *   [Linkuroius](http://linkurio.us)
+*   [Lucidchart](https://www.lucidchart.com)
 *   [Nodebox](https://www.nodebox.net)
 *   [Palladio](http://hdlab.stanford.edu/palladio)
 *   [Piktochart](https://piktochart.com)
@@ -1246,13 +1078,13 @@
 *   [Pixxa](http://www.pixxa.com)
 *   [Plotly](https://plot.ly)
 *   [SpicyNodes](http://www.spicynodes.org)
+*   [StoryMap](https://storymap.knightlab.com)
 *   [QlikView](https://www.visualintelligence.co.nz/qlikview)
 *   [Quadrigram](http://www.quadrigram.com)
 *   [Raphael](http://dmitrybaranovskiy.github.io/raphael)
 *   [RAW](http://raw.densitydesign.org)
 *   [Shanti Interactive](http://www.viseyes.org)
 *   [Snappa](https://snappa.io)
-*   [Statpedia](http://statpedia.com)
 *   [Tableau](http://www.tableau.com)
 *   [Tableau Public](https://public.tableau.com)
 *   [Tagul](https://tagul.com)
@@ -1263,12 +1095,11 @@
 *   [Timeglider](http://timeglider.com/widget)
 *   [Timeline](http://timeline.knightlab.com)
 *   [Timeline](http://www.simile-widgets.org/timeline)
-*   [Timescape](https://www.timescape.io)
 *   [Timetoast](http://www.timetoast.com)
-*   [Weave](http://oicweave.org)
 *   [Venngage](https://venngage.com)
 *   [Visage](https://visage.co)
 *   [Vis.js](http://visjs.org)
+*   [Visme](http://www.visme.co)
 *   [Visualize.me](http://vizualize.me)
 *   [visually](http://create.visual.ly)
 *   [Vortex](http://www.dotmatics.com/products/vortex)
@@ -1287,7 +1118,6 @@
 *   [DailyEarth](http://dailyearth.com)
 *   [DPA International](http://www.dpa-international.com)
 *   [Euronews](http://www.euronews.com)
-*   [NewsExplorer](http://emm.newsexplorer.eu)
 *   [Factiva](http://www.dowjones.com/factiva)
 *   [France24](http://www.france24.com)
 *   [Google News](https://news.google.com)
@@ -1338,34 +1168,6 @@
 *   [Verification Handbook](http://verificationhandbook.com)
 *   [Verification Junkie](http://verificationjunkie.com)
 
-### Annotation Tools / Telegram
-
-*   [Diigo](https://www.diigo.com)
-*   [A.nnotate](http://a.nnotate.com)
-*   [Annotator](http://annotatorjs.org)
-*   [Easy Annotate](http://www.easy-annotate.com)
-*   [Hypothesis](https://hypothes.is)
-*   [Note Anywhere](https://chrome.google.com/webstore/detail/note-anywhere/bohahkiiknkelflnjjlipnaeapefmjbh)
-*   [Pith.li](http://pith.li)
-*   [Pund.it](http://thepund.it)
-*   [Skitch](https://evernote.com/skitch)
-
-### Startpages / Telegram
-
-*   [allmyfaves](http://www.allmyfaves.com)
-*   [ighome](http://www.ighome.com)
-*   [iloggo](http://iloggo.com)
-*   [Kadaza](http://www.kadaza.com)
-*   [Myfav.es](http://myfav.es)
-*   [My Yahoo](https://my.yahoo.com)
-*   [Protopage](http://www.protopage.com)
-*   [Start.io](http://start.io)
-*   [Symbaloo](http://www.symbaloo.com)
-*   [uStart.org](http://www.ustart.org)
-*   [Yourport](http://www.yourport.com)
-*   [Zeadoo](http://www.zeadoo.com)
-*   [Zenstart](http://www.zenstart.com)
-
 ### Browsers / Telegram
 
 *   [CentBrowser](http://www.centbrowser.com)
@@ -1388,7 +1190,7 @@
 ### Offline Browsing / Telegram
 
 *   [Cyotek WebCopy](http://www.cyotek.com/cyotek-webcopy) - is a free tool for automatically downloading the content of a website onto your local device.
-*   [gmapcatcher (⭐200)](https://github.com/heldersepu/gmapcatcher)
+*   [gmapcatcher (⭐201)](https://github.com/heldersepu/gmapcatcher)
 *   [Hooey webprint](http://www.hooeeywebprint.com.s3-website-us-east-1.amazonaws.com/download.html)
 *   [Offliberty](http://offliberty.com) -  is a website that lets you access any online content without a permanent Internet connection.
 *   [Resolver](https://metaproductsrevolver.com)
@@ -1396,413 +1198,17 @@
 *   [WebAssistant](http://www.proxy-offline-browser.com/download.html)
 *   [Website Ripper Copier](http://www.tensons.com/products/websiterippercopier)
 
-### Note-taking / Telegram
+### Social Network Analysis / Telegram
 
-*   [Evernote](https://www.evernote.com)
-*   [Fetchnotes](http://www.fetchnotes.com)
-*   [Google Keep](https://keep.google.com)
-*   [inkdrop](https://www.inkdrop.info)
-*   [Kl1p](http://kl1p.com)
-*   [Laverna](https://laverna.cc)
-*   [Listacular](http://www.bloomingsoft.com/listacular)
-*   [Microsoft OneNote](https://www.onenote.com)
-*   [Notebook](https://www.zoho.com/notebook)
-*   [Simplenote](http://simplenote.com)
-*   [somnote](http://somcloud.com/about/somnote)
-*   [Squid](http://squidnotes.com)
-*   [Tomboy](https://wiki.gnome.org/Apps/Tomboy)
-*   [wridea](http://wridea.com)
-
-### Productivity Tools / Telegram
-
-*   [Workflowy](https://workflowy.com)
-*   [2Do](http://www.2doapp.com)
-*   [Dapulse](https://dapulse.com)
-*   [Droptask](https://www.droptask.com)
-*   [Focus booster](https://www.focusboosterapp.com)
-*   [Freecamp](https://freedcamp.com)
-*   [Good night Chrome](http://www.goodnightchrome.com)
-*   [MyLifeOrganized](http://www.mylifeorganized.net)
-*   [Pintask](https://pintask.me)
-*   [PomodoroTechnique](http://pomodorotechnique.com)
-*   [Producteev](https://www.producteev.com)
-*   [Remember the Milk](https://www.rememberthemilk.com)
-*   [RescueTime](https://www.rescuetime.com)
-*   [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji/details)
-*   [TikiTiki](https://ticktick.com)
-*   [Tinygain](https://tinygain.com)
-*   [Todo.ly](https://todo.ly)
-*   [Todo](http://todotxt.com)
-*   [Todoist](https://en.todoist.com)
-*   [Toggle](https://www.toggl.com)
-*   [Tomighty](http://www.tomighty.org)
-*   [Toodledo](https://www.toodledo.com)
-
-### Writing and Office Tools / Telegram
-
-*   [Arguman](http://en.arguman.org)
-*   [Bibme](http://www.bibme.org)
-*   [Cite This For Me](https://chrome.google.com/webstore/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle?hl=en)
-*   [FreeOffice](http://www.freeoffice.com)
-*   [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en)
-*   [GoogleDocs](https://www.google.com/docs/about)
-*   [Office Online](https://chrome.google.com/webstore/detail/office-online/ndjpnladcallmjemlbaebfadecfhkepb/related)
-*   [OmniOutliner](https://www.omnigroup.com/omnioutliner)
-*   [oTranscribe](http://otranscribe.com)
-*   [Scrivener](http://literatureandlatte.com/scrivener.php)
-*   [TextExpander](https://smilesoftware.com/textexpander)
-*   [UltraEdit](http://www.ultraedit.com)
-
-### Slide Show and Presentation Tools / Telegram
-
-*   [LibreOffice](https://www.libreoffice.org)
-*   [MS Office](https://products.office.com)
-*   [Canva](https://www.canva.com/create/presentations)
-*   [Deckset](http://www.decksetapp.com)
-*   [emaze](https://www.emaze.com)
-*   [GoogleDocs](https://docs.google.com)
-*   [Haiku Deck](https://www.haikudeck.com)
-*   [Keyonote](http://www.apple.com/de/mac/keynote)
-*   [KnowledgeVision](http://www.knowledgevision.com)
-*   [Live Slides](https://www.liveslides.com)
-*   [Powtoon](https://www.powtoon.com)
-*   [presenterswall](http://www.presenterswall.com)
-*   [Prezi](https://prezi.com)
-*   [Slidedog](http://slidedog.com)
-*   [Slideidea](http://slideidea.com)
-*   [SlidePresenter](http://www.slidepresenter.com)
-*   [SlideRocket](http://www.sliderocket.com)
-*   [Slides](https://slides.com)
-*   [SpeechInMinutes](http://www.speechinminutes.com/)
-*   [vcasmo](http://www.vcasmo.com)
-*   [Zoho Docs](https://www.zoho.com/docs/show.html)
-
-### Collaboration and Project Management / Telegram
-
-*   [OnlyOffice](https://www.onlyoffice.com)
-*   [Any.do](http://www.any.do)
-*   [Asana](https://asana.com)
-*   [Flask](http://flask.io)
-*   [Restya](http://restya.com)
-*   [Taskboard](https://taskboard.matthewross.me)
-*   [Trello](https://trello.com)
-*   [10kinsights](https://www.10000ft.com)
-*   [15Five](http://www.15five.com)
-*   [92fiveApp](http://92fiveapp.com)
-*   [5pm](http://www.5pmweb.com)
-*   [ActionMint](https://www.actionmint.com)
-*   [ActiveCollab](https://www.activecollab.com)
-*   [Advanseez](http://www.advanseez.com)
-*   [AllThings](http://www.allthings.io)
-*   [Apollo](http://www.apollohq.com)
-*   [Authorea](https://www.authorea.com)
-*   [Azendoo](https://www.azendoo.com)
-*   [Basecamp](https://basecamp.com)
-*   [Binfire](https://www.binfire.com)
-*   [Breeze](https://www.breeze.pm)
-*   [Canvanizer](https://canvanizer.com)
-*   [Casual](https://casual.pm)
-*   [Cardboardit](https://cardboardit.com)
-*   [CloudApp](http://www.getcloudapp.com)
-*   [Collabtive](http://collabtive.o-dyn.de)
-*   [CollaborateCloud](http://www.collaboratecloud.com)
-*   [Comindwork](http://www.comindwork.com)
-*   [Conceptboard](https://conceptboard.com)
-*   [Confluence](https://www.atlassian.com/software/confluence)
-*   [CoSketch](http://cosketch.com)
-*   [Crowdbase](http://crowdbase.com)
-*   [Dayboard](https://dayboard.co)
-*   [Draw.to](http://draw.to)
-*   [eGroupWare](http://www.egroupware.org)
-*   [Elegantt](https://elegantt.com)
-*   [Firepad](https://firepad.io)
-*   [Firesub](https://firesub.com)
-*   [Float](https://www.float.com)
-*   [Flow](https://www.getflow.com)
-*   [Frame](https://frame.io)
-*   [Freedcamp](https://freedcamp.com)
-*   [GetDoneDone](https://www.getdonedone.com)
-*   [Glasscubes](https://www.glasscubes.com)
-*   [GQueues](https://www.gqueues.com)
-*   [Hightail](https://www.hightail.com)
-*   [hitask](https://hitask.com)
-*   [Huddle](https://www.huddle.com)
-*   [KabanTool](http://kanbantool.com)
-*   [Kerika](http://kerika.com)
-*   [Loomio](https://www.loomio.org)
-*   [Nozbe](https://nozbe.com)
-*   [Nutcache](http://www.nutcache.com)
-*   [Mural](https://mural.co)
-*   [OmniGroup](https://www.omnigroup.com)
-*   [Padlet](https://padlet.com)
-*   [Piematrix](http://www.piematrix.com)
-*   [Pinstriped](http://pinstriped.com)
-*   [PivotalTracker](http://www.pivotaltracker.com)
-*   [Plan](https://plan.io)
-*   [Planleaf](http://www.planleaf.com)
-*   [Planzone](https://www.planzone.com)
-*   [Podio](https://podio.com)
-*   [ProjectManager](https://www.projectmanager.com)
-*   [ProjectPlace](https://www.projectplace.com)
-*   [ProofHub](https://www.proofhub.com)
-*   [Quip](https://quip.com)
-*   [Quire](https://quire.io)
-*   [Redbooth](https://redbooth.com)
-*   [Reverb](http://reverbapp.com)
-*   [ScadaPlan](http://scadaplan.com)
-*   [Scribblar](http://www.scribblar.com)
-*   [SeavusProjectViewer](https://www.seavusprojectviewer.com)
-*   [Smartsheet](https://www.smartsheet.com)
-*   [Stackfield](https://www.stackfield.com)
-*   [Stormboard](https://www.stormboard.com)
-*   [SyncSpace](http://infinitekind.com/syncspace)
-*   [Taiga](https://taiga.io)
-*   [TargetProcess](https://www.targetprocess.com)
-*   [TeamAllocator](http://www.teamallocator.com)
-*   [Team.fm](https://team.fm)
-*   [Teamgum](http://www.teamgum.com)
-*   [Team Pad](https://www.team-pad.com)
-*   [TeamWork](https://www.teamwork.com)
-*   [TeamWorklive](http://www.teamworklive.com)
-*   [Transparent Business](http://transparentbusiness.com)
-*   [Tuzzit](https://www.tuzzit.com)
-*   [Twiddla](http://www.twiddla.com)
-*   [Twoodo](https://www.twoodo.com)
-*   [updatey](http://updatey.com)
-*   [Web Whiteboard](http://webwhiteboard.com)
-*   [Weekdone](https://weekdone.com)
-*   [Wekan](https://wekan.io)
-*   [wePaste](http://www.wepaste.com)
-*   [Whiteboard Fox](https://whiteboardfox.com)
-*   [Worknoard](http://www.workboard.com)
-*   [Workfront](https://www.workfront.com)
-*   [Wrike](https://www.wrike.com)
-*   [Yammer](https://www.yammer.com)
-*   [YouTrack](https://www.jetbrains.com/youtrack)
-*   [Zoho](https://www.zoho.com)
-
-### Digital Storytelling / Telegram
-
-*   [Sway](https://sway.com)
-*   [Adobe Voice](https://standout.adobe.com/voice)
-*   [Animatron](https://www.animatron.com)
-*   [Animoto](https://animoto.com)
-*   [Atavist](https://atavist.com)
-*   [Closr](https://www.closr.it)
-*   [eStory](https://ejfox.github.io/sStory)
-*   [Exposure](https://exposure.co)
-*   [Klynt](http://www.klynt.net)
-*   [MakeBeliefsComix](http://www.makebeliefscomix.com)
-*   [Neatline](http://neatline.org)
-*   [Odyssey](https://cartodb.github.io/odyssey.js)
-*   [Pageflow](http://pageflow.io)
-*   [Photodex](http://www.photodex.com)
-*   [Piclits](http://www.piclits.com/compose_dragdrop.aspx)
-*   [Racontr](https://racontr.com)
-*   [RaptMedia](http://www.raptmedia.com)
-*   [RawShorts](http://www.rawshorts.com)
-*   [Shorthand Social](https://shorthand.com/social)
-*   [Slate](https://slate.adobe.com)
-*   [Steller](https://steller.co)
-*   [StoryMaps](http://storymaps.arcgis.com)
-*   [Thinglink](https://www.thinglink.com)
-*   [Tripline](http://www.tripline.net)
-*   [Wevideo](https://www.wevideo.com)
-*   [VideoScribe](http://www.videoscribe.co)
-*   [Zaption](http://www.zaption.com)
-*   [Zooburst](http://zooburst.com)
-
-### Digital Publishing / Telegram
-
-*   [Doclayer](https://standaert.net/doclayer)
-*   [Issuu](https://issuu.com)
-*   [Lucidpress](https://www.lucidpress.com)
-*   [Mag.io](http://mag.io)
-*   [My eBook](http://www.myebook.com)
-*   [Omeka](http://omeka.org)
-*   [Scribd](https://www.scribd.com)
-*   [Yudu](http://yudu.com)
-
-### Newsletter Tools / Telegram
-
-*   [AWeber](http://www.aweber.com)
-*   [BombBomb](http://bombbomb.com)
-*   [Campayn](http://campayn.com)
-*   [ConstantContact](http://www.constantcontact.com)
-*   [Freshmail](http://freshmail.com)
-*   [GetResponse](http://www.getresponse.com)
-*   [iContact](https://www.icontact.com)
-*   [MadMimi](https://madmimi.com)
-*   [Mailchimp](http://mailchimp.com)
-*   [Mailjet](https://www.mailjet.com)
-*   [Mailup](http://www.mailup.com)
-*   [Newsletter Creator for Gmail](https://chrome.google.com/webstore/detail/newsletter-creator-for-gm/cihaednhfbocfdiflmpccekcmjepcnmb)
-*   [sendinblue](https://www.sendinblue.com)
-*   [Sendicate](https://www.sendicate.net)
-*   [Sendloop](https://sendloop.com)
-*   [TinyLetter](http://tinyletter.com)
-*   [VerticalResponse](http://www.verticalresponse.com)
-*   [Vision6](http://www.vision6.com.au)
-
-### Mind Mapping, Concept Mapping and Idea Generation Tools / Telegram
-
-*   [StoryMap](https://storymap.knightlab.com)
-*   [Lucidchart](https://www.lucidchart.com)
-*   [Realtimeboard](https://realtimeboard.com)
-*   [The Brain](http://www.thebrain.com)
-*   [Bubbl.us](https://bubbl.us)
-*   [Comapping](http://www.comapping.com)
-*   [Coogle](https://coggle.it)
-*   [Creately](http://creately.com)
-*   [Edynco](https://www.edynco.com)
-*   [Fast Idea Generator](http://diytoolkit.org/tools/fast-idea-generator-2)
-*   [Freemind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
-*   [Freeplane](http://freeplane.sourceforge.net/wiki/index.php/Main_Page)
-*   [GroupMap](http://www.groupmap.com)
-*   [iMindMap](http://imindmap.com/products/imindmap)
-*   [iMindQ](https://www.imindq.com)
-*   [InstaGrok](http://www.instagrok.com)
-*   [Mattermap](https://www.mattermap.nl)
-*   [Mind42](http://mind42.com)
-*   [Mind Genius](http://www.mindgenius.com)
-*   [Mindjet](https://www.mindjet.com)
-*   [Mind Manager](https://www.mindjet.com/mindmanager)
-*   [Mindmeister](https://www.mindmeister.com)
-*   [Mindomo](https://www.mindomo.com)
-*   [Popplet](http://popplet.com)
-*   [Scapple](http://literatureandlatte.com/scapple.php)
-*   [Sketchboard](http://sketchboard.io)
-*   [Slatebox](https://slatebox.com)
-*   [Spicynodes](http://www.spicynodes.org)
-*   [Spiderscribe](http://www.spiderscribe.net)
-*   [Wise Maping](http://www.wisemapping.com)
-*   [yWorks](http://www.yworks.com/en/products_yed_gallery.html)
-*   [Xmind](http://www.xmind.net)
-
-### Image and Photo Editing / Telegram
-
-*   [Befunky](https://www.befunky.com)
-*   [Apple Photos](http://www.apple.com/osx/photos)
-*   [Croppola](http://croppola.com)
-*   [FastSTone](http://www.faststone.org)
-*   [Fotor](http://www.fotor.com)
-*   [Foto Flexer](http://fotoflexer.com)
-*   [Hugin](http://hugin.sourceforge.net)
-*   [Image Composite Editor](https://research.microsoft.com/en-us/um/redmond/projects/ice/)
-*   [Image Tricks Lite](https://itunes.apple.com/us/app/image-tricks-lite/id403735824?mt=12)
-*   [Irfanview](http://www.irfanview.com)
-*   [LightZone](http://lightzoneproject.org)
-*   [Lunapic](http://www124.lunapic.com/editor)
-*   [OnlineImageSplitter](http://www.htmlkit.com/services/is)
-*   [Paint.NET](http://www.getpaint.net/index.html)
-*   [Photoscape](http://www.photoscape.org/ps/main/index.php)
-*   [Photoshop](http://www.photoshop.com)
-*   [picfull](http://www.picfull.com)
-*   [PicMoneky](http://www.picmonkey.com)
-*   [Pixlr](https://pixlr.com)
-*   [Polarr](https://www.polarr.co)
-*   [Seashore](http://seashore.sourceforge.net)
-*   [SumoPaint](http://www.sumopaint.com)
-
-### E-mail Management / Telegram
-
-*   [ActiveInbox](http://www.activeinboxhq.com)
-*   [AutoHotkey](https://www.autohotkey.com)
-*   [Batched Inbox](https://www.batchedinbox.com)
-*   [Baydin](https://www.baydin.com)
-*   [Block Sender](https://chrome.google.com/webstore/detail/block-sender/bklnjbfcmglhiaoppcckdodanccbelcg)
-*   [Boomerang Mail](http://www.boomeranggmail.com)
-*   [ClearContext](http://www.clearcontext.com)
-*   [Cleanfox](https://www.cleanfox.io)
-*   [CloudMagic](https://cloudmagic.com)
-*   [FindBigMail](https://www.findbigmail.com)
-*   [Followupthen](https://www.followupthen.com)
-*   [Hiver](http://hiverhq.com)
-*   [Integrated gmail](https://addons.mozilla.org/en-US/firefox/addon/integrated-gmail)
-*   [Mailstore](http://www.mailstore.com)
-*   [Hubspotsales](https://chrome.google.com/webstore/detail/hubspot-sales/oiiaigjnkhngdbnoookogelabohpglmd?hl=en)
-*   [Minimalist](https://chrome.google.com/webstore/detail/minimalist-for-everything/bmihblnpomgpjkfddepdpdafhhepdbek)
-*   [NudgeMail](https://www.nudgemail.com)
-*   [Rapportive](https://rapportive.com)
-*   [Sanebox](https://www.sanebox.com)
-*   [Send for Gmail](https://chrome.google.com/webstore/detail/send-from-gmail-by-google/pgphcomnlaojlmmcjmiddhdapjpbgeoc)
-*   [Sortd](http://www.sortd.com)
-*   [Ugly Email](https://uglyemail.com)
-*   [Wisestamp](https://chrome.google.com/webstore/detail/wisestamp-email-signature/pbcgnkmbeodkmiijjfnliicelkjfcldg)
-
-### Document and Reference Management / Telegram
-
-*   [Colwiz](https://www.colwiz.com)
-*   [DocumentCloud](https://www.documentcloud.org)
-*   [Endnote](http://endnote.com)
-*   [F1000](http://f1000.com)
-*   [Investigative Dashboard Search](https://data.occrp.org)
-*   [Mendeley](https://www.mendeley.com)
-*   [Overview](https://www.overviewdocs.com)
-*   [Papers](http://papersapp.com)
-*   [Readcube](https://www.readcube.com)
-*   [RefME](https://www.refme.com)
-*   [Zotero](https://www.zotero.org)
-
-### PDF Management / Telegram
-
-*   [Foxit Reader](https://www.foxitsoftware.com/products/pdf-reader)
-*   [ilovepdf](http://www.ilovepdf.com)
-*   [PDFExpert](https://pdfexpert.com)
-*   [PDFx](http://www.metachris.com/pdfx)
-*   [Smallpdf](http://smallpdf.com)
-*   [Tabula](http://tabula.technology)
-*   [XODO](http://xodo.com)
-*   [Xpdf](http://www.foolabs.com/xpdf/home.html)
-
-### OCR Tools / Telegram
-
-*   [I2OCR](http://www.i2ocr.com)
-*   [Free Online OCR](https://www.newocr.com)
-*   [Online OCR](http://www.onlineocr.net)
-
-### Cloud Storage and File Sharing / Telegram
-
-*   [4Shared](http://www.4shared.com)
-*   [ADrive](http://www.adrive.com)
-*   [Amazon Cloud drive](https://www.amazon.com/clouddrive/home)
-*   [Box](https://www.box.com)
-*   [Boxcryptor](https://www.boxcryptor.com)
-*   [Cloudapp](http://www.getcloudapp.com)
-*   [CloudFuze](https://www.cloudfuze.com)
-*   [CloudHQ](https://www.cloudhq.net)
-*   [Dropbox](https://www.dropbox.com)
-*   [Droplr](https://droplr.com)
-*   [DropSend](http://www.dropsend.com)
-*   [Duplicati](http://www.duplicati.com)
-*   [Egnyte](http://www.egnyte.com)
-*   [GoodSync](http://www.goodsync.com)
-*   [Google Drive](https://www.google.com/intl/nl/drive)
-*   [hubiC](https://hubic.com)
-*   [iCloud](https://www.icloud.com)
-*   [Mediafire](https://www.mediafire.com)
-*   [Mega](https://mega.nz)
-*   [Mozy](http://mozy.com)
-*   [Multicloud](https://www.multcloud.com)
-*   [Onedrive](https://onedrive.live.com)
-*   [Otixo](http://www.otixo.com)
-*   [pCloud](https://www.pcloud.com)
-*   [Sendthisfile](https://www.sendthisfile.com)
-*   [Sendspace](https://www.sendspace.com)
-*   [Simple.Savr](https://www.ssavr.com)
-*   [SugarSync](https://www.sugarsync.com)
-*   [Syncthing](https://syncthing.net)
-*   [TransferBigFiles](https://www.transferbigfiles.com)
-*   [Tresorit](https://tresorit.com)
-*   [WeTransfer](https://www.wetransfer.com)
+*   [ORA](http://www.casos.cs.cmu.edu/projects/ora/software.php)
+*   [Sentinel Visualizer](http://www.fmsasg.com)
+*   [Wynyard Group](https://wynyardgroup.com)
+*   [Visual Investigative Scenarios](https://vis.occrp.org)
 
 ### Privacy and Encryption Tools / Telegram
 
-*   [Spideroak](https://spideroak.com)
-*   [Encrypted Cloud](https://www.encryptedcloud.com)
 *   [Abine](https://www.abine.com)
 *   [Adium](https://adium.im)
-*   [Axcrypt](http://www.axantum.com/axcrypt)
 *   [boxcryptor](https://www.boxcryptor.com)
 *   [CCleaner](https://www.piriform.com/ccleaner)
 *   [Chatsecure](https://chatsecure.org)
@@ -1810,6 +1216,7 @@
 *   [Do Not Track](http://donottrack.us)
 *   [Duck Duck Go Search Engine](https://duckduckgo.com)
 *   [EncSF MP](http://encfsmp.sourceforge.net)
+*   [Encrypted Cloud](https://www.encryptedcloud.com)
 *   [Epic Privacy Browser](https://www.epicbrowser.com)
 *   [Eraser](http://eraser.heidi.ie)
 *   [FileVault](https://support.apple.com/en-us/HT204837)
@@ -1844,6 +1251,7 @@
 *   [Securesha](https://securesha.re)
 *   [Silent circle](https://www.silentcircle.com)
 *   [Snort](https://www.snort.org)
+*   [Spideroak](https://spideroak.com)
 *   [Surveilliance Self Defense](https://ssd.eff.org)
 *   [Tails](https://tails.boum.org)
 *   [Thunderbird](https://www.mozilla.org/en-US/thunderbird)
@@ -1852,150 +1260,13 @@
 *   [WOT](https://www.mywot.com)
 *   [ZMail](http://zmail.sourceforge.net)
 
-### Web Automation / Telegram
-
-*   [IFTTT](https://ifttt.com)
-*   [Sikuli](http://www.sikuli.org)
-*   [Workflow](https://workflow.is)
-*   [Zapier](https://zapier.com)
-
-### Dashboard Tools / Telegram
-
-*   [Analytics Portfolio](https://analyticsportfolio.com)
-*   [Chartio](https://chartio.com)
-*   [Clicdata](http://www.clicdata.com)
-*   [Cyfe](http://www.cyfe.com)
-*   [Dashthis](https://dashthis.com)
-*   [DataDeck](https://www.datadeck.com)
-*   [Geckoboard](https://www.geckoboard.com)
-*   [Happy Metrics](https://www.happymetrix.com)
-*   [Klipfolio](http://www.klipfolio.com)
-*   [Qlik](http://www.qlik.com)
-*   [Visually](http://visual.ly)
-
-### Wikis / Telegram
-
-*   [DokuWiki](https://www.dokuwiki.org/dokuwiki)
-*   [Foswiki](http://foswiki.org)
-*   [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
-*   [PmWiki](http://www.pmwiki.org)
-*   [Scribbleton](http://scribbleton.com)
-*   [TiddlyWiki](http://tiddlywiki.com)
-*   [Tiki Wiki](https://info.tiki.org)
-*   [TWiki](http://twiki.org)
-*   [Wikia](http://www.wikia.com/Wikia)
-*   [Wikidot](http://www.wikidot.com)
-*   [wikidPad](http://wikidpad.sourceforge.net)
-*   [Zim](http://zim-wiki.org/downloads.html)
-
-### Communication Tools / Telegram
-
-*   [LumoFlow](https://lumoflow.com)
-*   [Adobe Connect](http://www.adobe.com/products/adobeconnect.html)
-*   [AnyDesk](http://anydesk.com/remote-desktop)
-*   [AnyMeeting](https://www.anymeeting.com)
-*   [BeamYourScreen](http://www.beamyourscreen.com)
-*   [Blackboard](http://www.blackboard.com/online-collaborative-learning/index.aspx)
-*   [blind](https://us.teamblind.com)
-*   [Campfire](https://www.campfirenow.com)
-*   [Digital Samba](http://www.digitalsamba.com)
-*   [Discourse](http://www.discourse.org)
-*   [eBLVD](https://www.eblvd.com)
-*   [Ekiga](http://ekiga.org)
-*   [Exo Platform](https://www.exoplatform.com)
-*   [FaceFlow](http://www.faceflow.com)
-*   [Fleep](https://fleep.io)
-*   [Flowdock](https://www.flowdock.com)
-*   [FreeConferenceCall](https://www.freeconferencecall.com)
-*   [FreeScreenSharing](https://www.freescreensharing.com)
-*   [Friends](http://moose-team.github.io/friends)
-*   [Glance](http://ww2.glance.net)
-*   [GoToMeeting](http://www.gotomeeting.com)
-*   [Highfive](https://highfive.com)
-*   [Icq](https://icq.com)
-*   [iLinc](http://www.ilinc.com)
-*   [Infinite](http://www.infiniteconferencing.com)
-*   [Intercall](http://www.intercall.com)
-*   [iWowWe](http://www.iwowwe.com)
-*   [Jitsi](https://jitsi.org)
-*   [Join.me](https://www.join.me)
-*   [Jostle](http://www.jostle.me)
-*   [Lets Chat](http://sdelements.github.io/lets-chat)
-*   [lifesize](http://www.lifesize.com)
-*   [Linphone](http://www.linphone.org)
-*   [Live Conference Pro](http://www.liveconferencepro.com)
-*   [Lucid Meetings](http://www.lucidmeetings.com)
-*   [Mashme tv](http://www.mashme.tv)
-*   [MeetingOne](https://www.meetingone.com)
-*   [MeWe](https://mewe.com)
-*   [mikogo](https://www.mikogo.com)
-*   [mobilimeet](http://mobilimeet.com)
-*   [MyBB](http://www.mybb.com)
-*   [omNovia](http://www.omnovia.com)
-*   [ooVoo](http://www.oovoo.com)
-*   [Personify](http://www.personify.com)
-*   [PGi iMeet](http://www.pgi.com/imeet)
-*   [Phorum](http://www.phorum.org)
-*   [Polycom](http://www.polycom.com)
-*   [Quicktopic](http://www.quicktopic.com)
-*   [ReadyTalk](https://www.readytalk.com)
-*   [RingCentral](http://www.ringcentral.com)
-*   [Rocket.Chat](https://rocket.chat)
-*   [screenleap](http://www.screenleap.com)
-*   [Sharetronix](http://sharetronix.com)
-*   [Simple Signal](http://www.simplesignal.com)
-*   [Skarpline](https://skarpline.com)
-*   [Skype](http://www.skype.com)
-*   [Slack](https://slack.com)
-*   [Socialtext](http://www.socialtext.com)
-*   [StartMeeting](https://www.startmeeting.com)
-*   [Talky](https://talky.io)
-*   [Teamviewer](https://www.teamviewer.com)
-*   [Tibbr](http://www.tibbr.com)
-*   [Tixeo](https://www.tixeo.com/en/secure-video-conferencing)
-*   [Toc](http://toc.im)
-*   [TrueConf](http://trueconf.com)
-*   [Twchat](http://twchat.com)
-*   [Vanilla Forums](http://vanillaforums.org)
-*   [Veeting rooms](https://www.veeting.com)
-*   [VeriShow](http://www.verishow.com)
-*   [Viadesk](http://www.viadesk.com)
-*   [VideoLink2](https://videolink2.me)
-*   [Vivicom](http://www.vivicom.de)
-*   [Webex](http://www.webex.com)
-*   [WhatsApp](https://www.whatsapp.com)
-*   [Zeetings](http://www.zeetings.com)
-*   [Zoho Meeting](https://www.zoho.com/meeting)
-*   [Zoom](https://zoom.us)
-*   [Zulip](https://www.zulip.org)
-
-### Calendars and Scheduling / Telegram
-
-*   [Assistant](http://www.assistant.to)
-*   [Bunchapp](http://bunchapp.io)
-*   [Calendly](https://calendly.com)
-*   [Cozi](http://www.cozi.com)
-*   [Doodle](http://doodle.com)
-*   [Meetin.gs](http://www.meetin.gs)
-*   [MyMemorizer](http://www.mymemorizer.com)
-*   [ScheduleOnce](http://www.scheduleonce.com)
-*   [TeamUp](http://www.teamup.com)
-*   [Teamweek](https://teamweek.com)
-
-### Social Network Analysis / Telegram
-
-*   [ORA](http://www.casos.cs.cmu.edu/projects/ora/software.php)
-*   [Sentinel Visualizer](http://www.fmsasg.com)
-*   [Wynyard Group](https://wynyardgroup.com)
-*   [Visual Investigative Scenarios](https://vis.occrp.org)
-
-## [24. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [25. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Math / Other
 
 *   [Learning Maths again (⭐190)](https://github.com/silviopaganini/maths) - Collection of JS and GLSL math snippets.
 
-## [25. Awesome Fortran](/content/rabbiabram/awesome-fortran/week/README.md)
+## [26. Awesome Fortran](/content/rabbiabram/awesome-fortran/week/README.md)
 
 ### Graphics Libraries
 
@@ -2022,13 +1293,13 @@
 
 *   [Unoficial Image](https://hub.docker.com/r/baekjoon/onlinejudge-fortran/) - docker image provided by @baekjoon
 
-## [26. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [27. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Misc Articles
 
 *   [Site Reliability Engineers: “We solve cooler problems”](https://www.google.com/about/careers/stories/site-reliability-engineering-profile-google/)
 
-## [27. Amas](/content/sindresorhus/amas/week/README.md)
+## [28. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
@@ -2038,7 +1309,7 @@
 
 *   [Ansible Taiwan (⭐32)](https://github.com/ansible-tw/ama) - Helping Ansible users in Taiwan with any questions.
 
-## [28. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [29. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Language Aware String Manipulation / Constituency Parsing
 
@@ -2058,25 +1329,25 @@
 *   [Reddit](https://www.reddit.com/r/LanguageTechnology/search?q=ruby\&restrict_sr=on)
 *   [Twitter](https://twitter.com/search?q=Ruby%20NLP%20%23ruby%20OR%20%23nlproc%20OR%20%23rubynlp%20OR%20%23nlp\&src=typd\&lang=en)
 
-## [29. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [30. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Boilerplates / Themes
 
 *   [React SPA (⭐515)](https://github.com/JasonBai007/reactSPA) - Building SPA with React, Router, ES6, Fetch, Babel, Webpack, Npm, MockJs, FontAwesome, AnimateCSS, Ant Design, LESS and jQuery.
-*   [React Antd Starter (⭐102)](https://github.com/yuzhouisme/react-antd-redux-router-starter) - This project is designed to develop website/web apps using Ant Design and Redux.
+*   [React Antd Starter (⭐103)](https://github.com/yuzhouisme/react-antd-redux-router-starter) - This project is designed to develop website/web apps using Ant Design and Redux.
 *   [React Redux Antd Starter (⭐89)](https://github.com/BetaRabbit/react-redux-antd-starter) - Front-end boilerplate built with React, Redux and Ant Design.
 *   [Koa (⭐65)](https://github.com/yukrain/koa-antd-admin) - Example app to build Admin UI built with React, Ant Design and Koa.
 *   [Star Admin (⭐76)](https://github.com/pookpal/star-initReact-example) - Demo app built with React, Ant Design, Redux, React-router, Webpack and Babel.
 *   [React Start Kit (⭐109)](https://github.com/jovey-zheng/react-start-kit) - SPA Boilerplate built with React, Webpack, ES6+, Redux, Router, Babel, Express, Ant Design.
 *   [React Boilerplate (⭐19)](https://github.com/huhulab/react-frontend-boilerplate) - React Admin front-end boilerplate built with Ant Design.
 
-## [30. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [31. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Videos
 
 *   [Tensorflow and deep learning - without at PhD](https://www.youtube.com/watch?v=vq2nnJ4g6N0) -  by Martin Görner
 
-## [31. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [32. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Web Socket
 
@@ -2095,13 +1366,13 @@
 *   Testing
     *   [Selenium with .NET Core](http://www.dotnetcatch.com/2016/11/23/selenium-with-net-core/)
 
-## [32. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [33. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Job queues
 
-*   [idoit (⭐67)](https://github.com/nodeca/idoit) - Redis-backed job queue engine with advanced job control.
+*   [idoit (⭐71)](https://github.com/nodeca/idoit) - Redis-backed job queue engine with advanced job control.
 
-## [33. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [34. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Machine Learning
 
@@ -2112,7 +1383,7 @@
     *   [Lecture notes](http://web.stanford.edu/class/cs246/handouts.html)
     *   [Readings](http://www.mmds.org/#book)
 
-## [34. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [35. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / DynamoDB
 
@@ -2234,13 +1505,13 @@
 *   [Partner Network (APN)](https://aws.amazon.com/partners/) - Provides partners with the technical information and sales and marketing support to increase business opportunities.
 *   [Product Advertising API](http://docs.aws.amazon.com/AWSECommerceService/latest/GSG/Welcome.html) - Provides access to product data and electronic commerce functionality.
 
-## [35. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [36. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Books / Software-specific
 
 *   *[Data Science and Complex Networks: Real Case Studies with Python](https://global.oup.com/academic/product/data-science-and-complex-networks-9780199639601)*, by Guido Caldarelli and Alessandro Chessa (2016).
 
-## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [37. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Miscellaneous
 
@@ -2248,25 +1519,25 @@
 
 ### Protocols
 
-*   [grpc-elixir (⭐1.2k)](https://github.com/tony612/grpc-elixir) - The Elixir implementation of gRPC.
+*   [grpc-elixir (⭐1.3k)](https://github.com/tony612/grpc-elixir) - The Elixir implementation of gRPC.
 
 ### Editors
 
 *   [ilexir (⭐8)](https://github.com/dm1try/ilexir) - IDE-like things for Elixir in Neovim.
-*   [nvim (⭐23)](https://github.com/dm1try/nvim) - Neovim host for writing plugins in Elixir.
+*   [nvim (⭐25)](https://github.com/dm1try/nvim) - Neovim host for writing plugins in Elixir.
 
 ### Styleguides
 
 *   [christopheradams/elixir\_style\_guide (⭐4.2k)](https://github.com/christopheradams/elixir_style_guide) - A community-driven style guide for Elixir.
-*   [lexmag/elixir-style-guide (⭐512)](https://github.com/lexmag/elixir-style-guide) - An opinionated Elixir style guide.
+*   [lexmag/elixir-style-guide (⭐513)](https://github.com/lexmag/elixir-style-guide) - An opinionated Elixir style guide.
 
-## [37. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [38. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Resources / Blogs
 
 *   [Planet PostgreSQL](https://planet.postgresql.org/) - Blog aggregation service for PostgreSQL.
 
-## [38. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+## [39. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Awesome Repositories
 
@@ -2284,7 +1555,7 @@
 
 
 
-## [39. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [40. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Blogs
 

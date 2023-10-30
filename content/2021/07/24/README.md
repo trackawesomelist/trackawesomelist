@@ -16,14 +16,14 @@
 
 ### Templates / Vue 3
 
-*   [vitesse-lite (⭐833)](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse.
-*   [vitesse-webext (⭐2k)](https://github.com/antfu/vitesse-webext) - WebExtension Vite Starter Template.
+*   [vitesse-lite (⭐941)](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse.
+*   [vitesse-webext (⭐2.3k)](https://github.com/antfu/vitesse-webext) - WebExtension Vite Starter Template.
 
 ## [3. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
-*   [L0garithmic/FastColabCopy (⭐20)](https://github.com/L0garithmic/FastColabCopy#readme) - Project logo. Minimalist description. Badges. GIF demo. About The Project. How To Use. Examples. Credits. Additional Examples.
+*   [L0garithmic/FastColabCopy (⭐23)](https://github.com/L0garithmic/FastColabCopy#readme) - Project logo. Minimalist description. Badges. GIF demo. About The Project. How To Use. Examples. Credits. Additional Examples.
 
 ## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -31,19 +31,11 @@
 
 *   [Amplify API Management Platform](https://www.axway.com/en/products/amplify-api-management-platform) - An open platform for API management from Axway, which provides comprehensive API management capabilities and allows you to build, run, and manage APIs with ease.
 *   [Azure API Management](https://azure.microsoft.com/en-us/services/api-management/) - A hybrid, multicloud management platform for APIs across all environments, which enables you to manage APIs with ease, secure them, and gain insights into their performance.
-*   [Gravitee.io API Management](https://www.gravitee.io/products/api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
 *   [IBM API Connect](https://www.ibm.com/cloud/api-connect) - A complete, intuitive, and scalable API platform that allows you to create, expose, manage, and monetize APIs across clouds.
 *   [Kong Enterprise](https://konghq.com/products/kong-enterprise) - A comprehensive service connectivity platform that provides a range of API management capabilities and allows you to manage APIs, microservices, and service meshes with ease.
 *   [Red Hat 3scale API Management](https://www.redhat.com/en/technologies/jboss-middleware/3scale) - A cloud-native API management solution that simplifies the development of APIs and makes them more flexible.
 *   [TIBCO Cloud Mashery](https://www.tibco.com/products/api-management) - A cloud-native API platform from TIBCO that enables you to deploy APIs anywhere and manage them from everywhere.
 *   [Tyk API Management](https://tyk.io/api-lifecycle-management/) - A powerful API management solution that allows you to connect, build, and control APIs with ease.
-
-### Projects / API Gateway
-
-*   [Gloo Edge](https://www.solo.io/products/gloo-edge/) - An Envoy Proxy-based API Gateway that provides advanced traffic management, security, and observability features for modern microservices architectures.
-*   [Kong API Gateway (⭐35k)](https://github.com/Kong/kong) - A cloud-native, platform-agnostic, and scalable API Gateway that supports plugins for easy integration with third-party services.
-*   [KrakenD API Gateway (⭐1.3k)](https://github.com/devopsfaith/krakend-ce) - An ultra-high performance API Gateway that leverages middlewares for fast and efficient API management.
-*   [Ocelot (⭐7.6k)](https://github.com/ThreeMammals/Ocelot) - A .NET API Gateway that provides a simple and elegant way to manage APIs with its intuitive routing and middleware configuration.
 
 ### Projects / BPM
 
@@ -164,8 +156,8 @@
 
 ### Contents / Tools
 
-*   [Weather (⭐27)](https://github.com/1hanzla100/flutter-weather) - Weather App Built with Flutter and OpenWeatherMap API by [1hanzla100](https://github.com/1hanzla100/).
-*   [FlutterWeather (⭐203)](https://github.com/ArizArmeidi/FlutterWeather) - Weather App with clean and modern UI by [Ariz Armeidi](https://github.com/ArizArmeidi).
+*   [Weather (⭐31)](https://github.com/1hanzla100/flutter-weather) - Weather App Built with Flutter and OpenWeatherMap API by [1hanzla100](https://github.com/1hanzla100/).
+*   [FlutterWeather (⭐238)](https://github.com/ArizArmeidi/FlutterWeather) - Weather App with clean and modern UI by [Ariz Armeidi](https://github.com/ArizArmeidi).
 
 ---
 

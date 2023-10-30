@@ -207,15 +207,15 @@ Language: English
 
 ## [5. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Python / Angular
+### Python / Svelte
 
 *   [Data Science Simplified](https://mathdatasimplified.com/). A daily Python and data science snippet.
 
-### Awesome news / Angular
+### Awesome news / Svelte
 
 *   [Senior Mindset](https://seniormindset.com). Get a series of curated essays on the mindset of a senior software engineer.
 
-### Miscellaneous / Angular
+### Miscellaneous / Svelte
 
 *   [Kleroteria](https://www.kleroteria.org). A free, unique "lottery" newsletter where a subscriber is picked whose email submission is sent to all of the other subscribers. Subject matter varies in both topic and quality.
 
@@ -282,17 +282,17 @@ Language: English
 
 ### Python / General-Purpose Machine Learning
 
-*   [Synthia (⭐37)](https://github.com/dmey/synthia) - Multidimensional synthetic data generation in Python.
+*   [Synthia (⭐42)](https://github.com/dmey/synthia) - Multidimensional synthetic data generation in Python.
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [QuickMocker](https://quickmocker.com/) — Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, import from OpenAPI (Swagger) Specifications in JSON format, proxy requests, restrict endpoint by IP address and authorization header. Free account provides 1 random subdomain, 10 endpoints, 5 RegExp URL paths, 50 shortcodes per endpoint, 100 requests per day, 50 history records in requests log.
+*   [QuickMocker](https://quickmocker.com/) — Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, import from OpenAPI (Swagger) Specifications in JSON format, proxy requests, restrict endpoint by IP address and authorization header. The free account provides one random subdomain, ten endpoints, 5 RegExp URL paths, 50 shortcodes per endpoint, 100 requests per day, and 50 history records in the requests log.
 
 ### Monitoring
 
-*   [Grafana Cloud](https://grafana.com/products/cloud/) - Grafana Cloud is a composable observability platform, integrating metrics and logs with Grafana. Free: 3 users, 10 dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention)
+*   [Grafana Cloud](https://grafana.com/products/cloud/) - Grafana Cloud is a composable observability platform that integrates metrics and logs with Grafana. Free: 3 users, ten dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention)
 
 ## [13. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -314,11 +314,11 @@ Language: English
 
 ### Components & Libraries / UI Components
 
-*   [vue-bottom-sheet (⭐138)](https://github.com/webzlodimir/vue-bottom-sheet) - A swipeable bottom sheet component for Vue.js created with Hammer.js
+*   [vue-bottom-sheet (⭐163)](https://github.com/webzlodimir/vue-bottom-sheet) - A swipeable bottom sheet component for Vue.js created with Hammer.js
 
 ### Components & Libraries / Scaffold
 
-*   [vuejs-generate (⭐2)](https://github.com/tomosterlund/generate-vue-component) - An easy CLI for generating Vue components, stores, store modules & unit tests.
+*   [vuejs-generate (⭐3)](https://github.com/tomosterlund/generate-vue-component) - An easy CLI for generating Vue components, stores, store modules & unit tests.
 
 ## [16. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
 

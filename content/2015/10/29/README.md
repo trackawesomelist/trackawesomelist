@@ -76,7 +76,7 @@
 
 ### Assets
 
-*   [Emoji (⭐443)](https://github.com/wpeterson/emoji) - Exposes the Phantom Open Emoji library unicode/image assets and APIs for working with them.
+*   [Emoji (⭐444)](https://github.com/wpeterson/emoji) - Exposes the Phantom Open Emoji library unicode/image assets and APIs for working with them.
 
 ### Authentication and OAuth
 
@@ -89,8 +89,8 @@
 ### DevOps Tools
 
 *   [Backup (⭐4.8k)](https://github.com/backup/backup) - Provides an elegant DSL in Ruby for performing backups on UNIX-like systems.
-*   [Chef (⭐7.2k)](https://github.com/chef/chef) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
-*   [Logstash (⭐13k)](https://github.com/elastic/logstash) - Logs/event transport, processing, management, search.
+*   [Chef (⭐7.3k)](https://github.com/chef/chef) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
+*   [Logstash (⭐14k)](https://github.com/elastic/logstash) - Logs/event transport, processing, management, search.
 
 ### Documentation
 
@@ -102,7 +102,7 @@
 
 ### Ebook
 
-*   [Bookshop (⭐2)](https://github.com/worlduniting/bookshop) - Bookshop is a an open-source agile book development and publishing framework for authors, editors.
+*   [Bookshop (⭐5)](https://github.com/worlduniting/bookshop) - Bookshop is a an open-source agile book development and publishing framework for authors, editors.
 
 ### File Upload
 
@@ -110,11 +110,11 @@
 
 ### HTTP Clients and tools
 
-*   [HTTP (⭐2.9k)](https://github.com/httprb/http) - The HTTP Gem: a simple Ruby DSL for making HTTP requests.
+*   [HTTP (⭐3k)](https://github.com/httprb/http) - The HTTP Gem: a simple Ruby DSL for making HTTP requests.
 
 ### Mobile Development
 
-*   [fastlane (⭐37k)](https://github.com/fastlane/fastlane) - Connect all iOS deployment tools into one streamlined workflow.
+*   [fastlane (⭐38k)](https://github.com/fastlane/fastlane) - Connect all iOS deployment tools into one streamlined workflow.
 
 ### Search
 
@@ -122,7 +122,7 @@
 
 ### Third-party APIs
 
-*   [Pusher (⭐658)](https://github.com/pusher/pusher-http-ruby) - Ruby server library for the Pusher API.
+*   [Pusher (⭐661)](https://github.com/pusher/pusher-http-ruby) - Ruby server library for the Pusher API.
 
 ## [6. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/README.md)
 

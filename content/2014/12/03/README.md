@@ -25,11 +25,11 @@
 
 ### Image Processing
 
-*   [Phasion (⭐693)](https://github.com/westonplatter/phashion) - Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files.
+*   [Phasion (⭐696)](https://github.com/westonplatter/phashion) - Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files.
 
 ### Security
 
-*   [Metasploit (⭐30k)](https://github.com/rapid7/metasploit-framework) - World's most used penetration testing software.
+*   [Metasploit (⭐31k)](https://github.com/rapid7/metasploit-framework) - World's most used penetration testing software.
 
 ---
 

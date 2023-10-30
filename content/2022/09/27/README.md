@@ -12,7 +12,13 @@
 
 *   [M95320](https://crates.io/crates/m95320) - SPI - STMicroelectronics Serial flash EEPROM - ![crates.io](https://img.shields.io/crates/v/m95320.svg)
 
-## [2. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Design and UI
+
+*   [freeforcommercialuse.net](https://freeforcommercialuse.net/) — FFCU Worry-free model/property release stock photos
+
+## [3. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
 
 ### [Hacker Tab (⭐342)](https://github.com/huchenme/hacker-tab-extension) <a href="https://chrome.google.com/webstore/detail/hacker-tab/ibomigipadcieapbemkegkmadbbanbgm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
@@ -20,25 +26,25 @@ Replace browser new tab screen with GitHub trending projects.
 
 Installs: 2000 | Stars: 342 | Last update: n/a
 
-## [3. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [4. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Software / Make your life easier
 
 *   [Replayable](https://replayable.io) - Desktop dashcam that helps you capture unexpected bugs during manual testing.
 
-## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [spaceship-ocm (⭐0)](https://github.com/iamkirkbater/spaceship-ocm-plugin) - Queries your OpenShift Cluster Manager (ocm) configuration to show which environment you're connected to. Requires [NerdFont](https://www.nerdfonts.com/font-downloads) in your terminal.
 
-## [5. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+## [6. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Community Resources / Blogs and Scholarship
 
 *   [WS-DL Blog](https://ws-dl.blogspot.com/) - Web Science and Digital Libraries Research Group blogs about various Web archiving related topics, scholarly work, and academic trip reports.
 
-## [6. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Android Launcher
 
@@ -51,41 +57,31 @@ Installs: 2000 | Stars: 342 | Last update: n/a
 
 ### Self-Hosted
 
-*   [Mailcow: dockerized (⭐6.5k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
+*   [Mailcow: dockerized (⭐7.1k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
 
-## [7. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
+## [8. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ### Other Lists / Help
 
-*   [upb-lea/awesome-open-source-power-electronics (⭐36)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
+*   [upb-lea/awesome-open-source-power-electronics (⭐96)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
 
-## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Tools / Misc
 
-*   [txtai (⭐4k)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
+*   [txtai (⭐5k)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
 
-## [9. Awesome List](/content/sindresorhus/awesome/README.md)
+## [10. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Gaming
 
-*   [Open Source Games (⭐886)](https://github.com/michelpereira/awesome-open-source-games#readme)
+*   [Open Source Games (⭐1k)](https://github.com/michelpereira/awesome-open-source-games#readme)
 
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Code Runner / Diagnostics
 
-*   [desdic/greyjoy.nvim (⭐18)](https://github.com/desdic/greyjoy.nvim) - A modular task runner for Makefiles, vscode tasks, kitchen etc.
-
-## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### DBaaS
-
-*   [bit.io](https://bit.io) — Managed PostgreSQL database service. 3 database, 3GB storage per database, 1 CPU and 1GB Memory (burst), 1B rows queried per month
-
-### Design and UI
-
-*   [freeforcommercialuse.net](https://freeforcommercialuse.net/) — FFCU Worry-free model/property release stock photos
+*   [desdic/greyjoy.nvim (⭐20)](https://github.com/desdic/greyjoy.nvim) - A modular task runner for Makefiles, vscode tasks, kitchen etc.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

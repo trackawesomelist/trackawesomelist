@@ -10,15 +10,15 @@
 
 ### Haskell / Git
 
-*   [cryptol (⭐1k)](https://github.com/GaloisInc/cryptol) - The Language of Cryptography.
+*   [cryptol (⭐1.1k)](https://github.com/GaloisInc/cryptol) - The Language of Cryptography.
 
 ### JavaScript / Git
 
-*   [jsrsasign (⭐2.9k)](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation.
+*   [jsrsasign (⭐3.1k)](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation.
 
 ### Rust / Git
 
-*   [rustls (⭐3.8k)](https://github.com/ctz/rustls) - Rustls is a new, modern TLS library written in Rust.
+*   [rustls (⭐4.6k)](https://github.com/ctz/rustls) - Rustls is a new, modern TLS library written in Rust.
 
 ## [2. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 
@@ -38,11 +38,36 @@
     *   [Lecture Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a5862643-2416-49ef-b46b-13465d1b6df0%22)
     *   [Readings](http://15418.courses.cs.cmu.edu/spring2015/reading)
 
-## [4. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### Java / Spock Framework
+### Chapel / Non-X86
 
-*   [頑健なJavaプログラムの書き方](http://seiza.dip.jp/link/files/writingrobustjavacode.pdf) - Scott W. Ambler, 高橋徹(翻訳) (PDF)
+*   [Chapel Tutorial for Programmers](http://web.archive.org/web/20150310075109/http://cs.colby.edu/kgburke/?resource=chapelTutorial) *(:card\_file\_box: archived)*
+
+### COBOL / Non-X86
+
+*   [OpenCOBOL 1.1 - Programmer's Guide](http://open-cobol.sourceforge.net/guides/OpenCOBOL%20Programmers%20Guide.pdf) (PDF)
+
+### F Sharp / Phoenix
+
+*   [F# for fun and profit](https://www.gitbook.com/book/swlaschin/fsharpforfunandprofit/details) (ePub)
+
+### Haxe / Spock Framework
+
+*   [Kha Handbook (⭐1.4k)](https://github.com/KTXSoftware/Kha/wiki/Tutorials)
+
+### Lisp / TeX
+
+*   [Google's Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Google's Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+*   [Learning to Program](http://www.alan-g.me.uk)
+
+### Standard ML / Play Scala
+
+*   [Programming in Standard ML, DRAFT](http://www.cs.cmu.edu/~rwh/isml/book.pdf) - Robert Harper (PDF)
 
 ## [5. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 

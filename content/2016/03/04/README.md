@@ -20,7 +20,7 @@
 
 ### Packages / Miscellaneous
 
-*   [adit (⭐48)](https://github.com/markelog/adit) - SSH tunneling made simple.
+*   [adit (⭐53)](https://github.com/markelog/adit) - SSH tunneling made simple.
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -38,7 +38,7 @@
 
 ### ORM and Datamapping
 
-*   [eventstore (⭐941)](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
+*   [eventstore (⭐967)](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
 
 ## [6. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
@@ -62,16 +62,16 @@
 
 ### Command Line / XML
 
-*   [Argon (⭐16)](https://github.com/markuslaker/Argon) -  A processor for command-line arguments, an alternative to Getopt, written in D.
+*   [Argon (⭐17)](https://github.com/markuslaker/Argon) -  A processor for command-line arguments, an alternative to Getopt, written in D.
 
 ## [10. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 
 ### Text Manipulation
 
-*   [Encode / Decode (⭐528)](https://github.com/willfarrell/alfred-encode-decode-workflow) - Transform your query strings through base64, html, url, and utf-8 encode/decode.
+*   [Encode / Decode (⭐530)](https://github.com/willfarrell/alfred-encode-decode-workflow) - Transform your query strings through base64, html, url, and utf-8 encode/decode.
 *   [Funnel](http://www.packal.org/workflow/funnel) - Funnel selected text or a file through various filters.
 *   [HTML Entity Lookup (⭐35)](https://github.com/ajgon/alfred2-html-entity-lookup) - Search for entity characters based on how they look or by name.
-*   [Unicode Text Search (⭐186)](https://github.com/bevesce/unicode-symbols-search) - Search for Unicode Symbols.
+*   [Unicode Text Search (⭐187)](https://github.com/bevesce/unicode-symbols-search) - Search for Unicode Symbols.
 
 ### Scientific
 

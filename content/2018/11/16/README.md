@@ -53,11 +53,11 @@
 
 ### Frameworks, Libraries and Tools / Testing
 
-*   [CoreBDD (⭐16)](https://github.com/stevenknox/CoreBDD) - BDD framework for xUnit.net
+*   [CoreBDD (⭐18)](https://github.com/stevenknox/CoreBDD) - BDD framework for xUnit.net
 
 ### Frameworks, Libraries and Tools / Workflow
 
-*   [Wexflow (⭐1)](https://github.com/aelassas/Wexflow) - A high performance, extensible, modular and cross-platform workflow engine.
+*   [Wexflow (⭐352)](https://github.com/aelassas/Wexflow) - A high performance, extensible, modular and cross-platform workflow engine.
 
 ## [5. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Scientific Computing
 
-*   [AMGCL (⭐618)](https://github.com/ddemidov/amgcl) - a header-only C++ library for solving large sparse linear systems with algebraic multigrid. \[MIT]
+*   [AMGCL (⭐660)](https://github.com/ddemidov/amgcl) - a header-only C++ library for solving large sparse linear systems with algebraic multigrid. \[MIT]
 
 ## [7. Awesome Scala](/content/lauris/awesome-scala/README.md)
 
@@ -101,7 +101,7 @@
 
 ### DevSecOps / Service meshes
 
-*   [BlackBox (⭐6.4k)](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion by encrypting them "at rest" using GnuPG.
+*   [BlackBox (⭐6.5k)](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion by encrypting them "at rest" using GnuPG.
 
 ## [11. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

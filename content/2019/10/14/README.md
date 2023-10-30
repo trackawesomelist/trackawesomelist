@@ -56,9 +56,9 @@
 
 ## [3. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
-### Uncategorised
+### Dead
 
-*   [Beaker Browser](https://beakerbrowser.com/) an experimental browser for exploring the p2p web.
+*   [Beaker Browser](https://beakerbrowser.com/) an experimental browser for exploring the p2p web. The link now points at [this post (⭐6.7k)](https://github.com/beakerbrowser/beaker/blob/master/archive-notice.md) explaining its archival.
 
 ## [4. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
@@ -80,15 +80,11 @@
 
 ### Software / Automation
 
-*   [HRConvert2 (⭐677)](https://github.com/zelon88/HRConvert2) - Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. `GPL-3.0` `PHP`
-
-### Software / Groupware
-
-*   [HRCloud2 (⭐192)](https://github.com/zelon88/HRCloud2) - Full-featured home hosted Cloud Drive, Personal Assistant, App Launcher, File Converter, Streamer, Share Tool and more. `GPL-3.0` `PHP`
+*   [HRConvert2 (⭐742)](https://github.com/zelon88/HRConvert2) - Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. `GPL-3.0` `PHP`
 
 ### Software / Polls and Events
 
-*   [Open Event Server (⭐2.9k)](https://github.com/fossasia/open-event-server) - Enables organizers to manage events from concerts to conferences and meet-ups. `GPL-3.0` `Python`
+*   [Open Event Server (⭐2.9k)](https://github.com/fossasia/open-event-server) - Enables organizers to manage events from concerts to conferences and meet-ups. `GPL-3.0` `Python/Docker`
 
 ## [7. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -110,7 +106,7 @@
 
 ### Quality / Barcode
 
-*   [SwiftFormat (⭐6.6k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
+*   [SwiftFormat (⭐7k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
 
 ## [10. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

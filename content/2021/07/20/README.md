@@ -10,7 +10,7 @@
 
 ### Fuzzy Finder / Diagnostics
 
-*   [camspiers/snap (⭐397)](https://github.com/camspiers/snap) - An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.
+*   [camspiers/snap (⭐407)](https://github.com/camspiers/snap) - An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.
 
 ## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Tools & Software / Utilities
 
-*   [gowarcserver (⭐10)](https://github.com/nlnwa/gowarcserver) - [BadgerDB (⭐12k)](https://github.com/dgraph-io/badger)-based capture index (CDX) and WARC record server, used to index and serve WARC files (Go).
+*   [gowarcserver (⭐11)](https://github.com/nlnwa/gowarcserver) - [BadgerDB (⭐13k)](https://github.com/dgraph-io/badger)-based capture index (CDX) and WARC record server, used to index and serve WARC files (Go).
 
 ## [4. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Games & Comics
 
-- API: [Barter.VG (⭐15)](https://github.com/bartervg/barter.vg/wiki)
+- API: [Barter.VG (⭐17)](https://github.com/bartervg/barter.vg/wiki)
 
   Description: Provides information about Game, DLC, Bundles, Giveaways, Trading
 
@@ -62,7 +62,7 @@
 
 ### Security
 
-- API: [Passwordinator (⭐20)](https://github.com/fawazsullia/password-generator/)
+- API: [Passwordinator (⭐33)](https://github.com/fawazsullia/password-generator/)
 
   Description: Generate random passwords of varying complexities
 
@@ -78,7 +78,7 @@
 
 ### Form Components / Color Picker
 
-*   [react-color (⭐89)](https://github.com/uiwjs/react-color) - Is a tiny color picker widget component for React apps.
+*   [react-color (⭐132)](https://github.com/uiwjs/react-color) - Is a tiny color picker widget component for React apps.
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Templates / React
 
-*   [Tropical (⭐122)](https://github.com/bensmithett/tropical) - React, Storybook, MDX, Fela, SSR prerendering, and [islands architecture](https://www.npmjs.com/package/tropical-islands).
+*   [Tropical (⭐142)](https://github.com/bensmithett/tropical) - React, Storybook, MDX, Fela, SSR prerendering, and [islands architecture](https://www.npmjs.com/package/tropical-islands).
 
 ## [9. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -108,8 +108,8 @@
 
 ### Open Source Projects / Other Tools
 
-*   [DogeAPI (⭐114)](https://github.com/yezz123/DogeAPI) - API with high performance to create a simple blog and CRUD with OAuth2PasswordBearer.
-*   [JeffQL (⭐26)](https://github.com/yezz123/JeffQL/) - Simple authentication and login API using GraphQL and JWT.
+*   [DogeAPI (⭐120)](https://github.com/yezz123/DogeAPI) - API with high performance to create a simple blog and CRUD with OAuth2PasswordBearer.
+*   [JeffQL (⭐28)](https://github.com/yezz123/JeffQL/) - Simple authentication and login API using GraphQL and JWT.
 
 ---
 

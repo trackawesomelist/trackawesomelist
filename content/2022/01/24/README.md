@@ -10,7 +10,7 @@
 
 ### Communications / Ethernet
 
-*   [RP2040 Ethernet example (⭐6)](https://github.com/SteveSEK/Raspberry-Pi-Pico-MicroPython-Ethernet) - Ethernet driver, example Python code and YouTube.
+*   [RP2040 Ethernet example (⭐8)](https://github.com/SteveSEK/Raspberry-Pi-Pico-MicroPython-Ethernet) - Ethernet driver, example Python code and YouTube.
 
 ## [2. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Third-Party Packages / Testing
 
-*   [django-pattern-library (⭐273)](https://github.com/torchbox/django-pattern-library) - Pattern library generator for Django templates, to help testing of UI components.
+*   [django-pattern-library (⭐298)](https://github.com/torchbox/django-pattern-library) - Pattern library generator for Django templates, to help testing of UI components.
 
 ## [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Resources / Packages
 
-*   [Navigation (⭐343)](https://github.com/spatie/laravel-navigation) - Laravel package for generating menus, breadcrumbs and other navigational elements.
+*   [Navigation (⭐410)](https://github.com/spatie/laravel-navigation) - Laravel package for generating menus, breadcrumbs and other navigational elements.
 
 ## [9. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/README.md)
 
@@ -91,11 +91,11 @@
 
 ### Official plugins
 
-*   [Toast (⭐357)](https://github.com/ionic-team/capacitor-plugins/tree/main/toast) - Provides a native notification pop up for displaying important information to a user.
+*   [Toast (⭐398)](https://github.com/ionic-team/capacitor-plugins/tree/main/toast) - Provides a native notification pop up for displaying important information to a user.
 
 ### Community plugins
 
-*   [Keep awake (⭐87)](https://github.com/capacitor-community/keep-awake) - Prevent your screen from getting some sleep.
+*   [Keep awake (⭐97)](https://github.com/capacitor-community/keep-awake) - Prevent your screen from getting some sleep.
 *   Microsoft
     *   [Appcenter (⭐26)](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter) - AppCenter SDK.
     *   [Analytics (⭐26)](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter-analytics) - AppCenter Analytics.
@@ -103,7 +103,7 @@
 
 ### Other plugins
 
-*   [Healthkit (⭐32)](https://github.com/Ad-Scientiam/capacitor-healthkit) - Retrieve data from HealthKit.
+*   [Healthkit (⭐40)](https://github.com/Ad-Scientiam/capacitor-healthkit) - Retrieve data from HealthKit.
 *   [UDP (⭐3)](https://github.com/brugsel/capacitor-udp) - Support both IPv6 and IPv4, multicast and broadcast.
 
 ## [12. Awesome Acg](/content/soruly/awesome-acg/README.md)
@@ -116,7 +116,7 @@
 
 ### Platforms
 
-*   [Low Code (⭐175)](https://github.com/zenitysec/awesome-low-code#readme) - Allowing business professionals to address their needs on their own with little to no coding skills.
+*   [Low Code (⭐235)](https://github.com/zenitysec/awesome-low-code#readme) - Allowing business professionals to address their needs on their own with little to no coding skills.
 
 ## [14. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -128,8 +128,8 @@
 
 ### Libraries / New Libraries
 
-*   [tree-math (⭐140)](https://github.com/google/tree-math) - Convert functions that operate on arrays into functions that operate on PyTrees. <img src="https://img.shields.io/github/stars/google/tree-math?style=social" align="center">
-*   [jax-models (⭐110)](https://github.com/DarshanDeshpande/jax-models) - Implementations of research papers originally without code or code written with frameworks other than JAX. <img src="https://img.shields.io/github/stars/DarshanDeshpande/jax-modelsa?style=social" align="center">
+*   [tree-math (⭐152)](https://github.com/google/tree-math) - Convert functions that operate on arrays into functions that operate on PyTrees. <img src="https://img.shields.io/github/stars/google/tree-math?style=social" align="center">
+*   [jax-models (⭐128)](https://github.com/DarshanDeshpande/jax-models) - Implementations of research papers originally without code or code written with frameworks other than JAX. <img src="https://img.shields.io/github/stars/DarshanDeshpande/jax-modelsa?style=social" align="center">
 
 ---
 

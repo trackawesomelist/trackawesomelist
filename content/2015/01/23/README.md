@@ -16,7 +16,7 @@
 
 ### Date and Time
 
-*   [repeatex (⭐51)](https://github.com/rcdilorenzo/repeatex) - Natural language parsing for repeating dates.
+*   [repeatex (⭐52)](https://github.com/rcdilorenzo/repeatex) - Natural language parsing for repeating dates.
 
 ## [3. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 

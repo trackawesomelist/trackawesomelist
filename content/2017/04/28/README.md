@@ -32,12 +32,12 @@
 
 ### Tutorial
 
-*   [vulkan-sxs (⭐16)](https://github.com/philiptaylor/vulkan-sxs) - explain the Vulkan API step by step and [vulkan-sync (⭐46)](https://github.com/philiptaylor/vulkan-sync) - rephrase Vulkan's requirements on execution dependencies in a more precise form. \[MIT]
+*   [vulkan-sxs (⭐16)](https://github.com/philiptaylor/vulkan-sxs) - explain the Vulkan API step by step and [vulkan-sync (⭐54)](https://github.com/philiptaylor/vulkan-sync) - rephrase Vulkan's requirements on execution dependencies in a more precise form. \[MIT]
 
 ### Tools
 
-*   [LoaderAndValidationLayers (⭐414)](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers) - from KhronosGroup. \[Apache Licence 2.0]
-*   [VulkanTools (⭐575)](https://github.com/LunarG/VulkanTools) - LunarG's tools including layers and configurator. \[Apache Licence 2.0]
+*   [LoaderAndValidationLayers (⭐419)](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers) - from KhronosGroup. \[Apache Licence 2.0]
+*   [VulkanTools (⭐598)](https://github.com/LunarG/VulkanTools) - LunarG's tools including layers and configurator. \[Apache Licence 2.0]
 
 ## [4. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
@@ -55,13 +55,13 @@
 
 ### Audio Related Packages / Speech Processing
 
-*   [Montreal Forced Aligner](https://montrealcorpustools.github.io/Montreal-Forced-Aligner/) [:octocat: (⭐937)](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) - Forced aligner, based on Kaldi (HMM), English (others can be trained).
+*   [Montreal Forced Aligner](https://montrealcorpustools.github.io/Montreal-Forced-Aligner/) [:octocat: (⭐1k)](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) - Forced aligner, based on Kaldi (HMM), English (others can be trained).
 
 ## [6. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / GUI
 
-*   [temBoard (⭐340)](https://github.com/dalibo/temboard) - Web-based PostgreSQL GUI and monitoring.
+*   [temBoard (⭐349)](https://github.com/dalibo/temboard) - Web-based PostgreSQL GUI and monitoring.
 
 ## [7. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 

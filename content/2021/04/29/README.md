@@ -10,7 +10,7 @@
 
 ### Code Analysis
 
-*   [DepViz](https://depviz.jasonaxelson.com/) - A visual tool to help developers understand Elixir recompilation in their projects. ([Code (⭐177)](https://github.com/axelson/dep_viz/)).
+*   [DepViz](https://depviz.jasonaxelson.com/) - A visual tool to help developers understand Elixir recompilation in their projects. ([Code (⭐181)](https://github.com/axelson/dep_viz/)).
 
 ## [2. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
@@ -208,28 +208,28 @@
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [SmartCode (⭐526)](https://github.com/Ahoo-Wang/SmartCode) – SmartCode= IDataSource -> IBuildTask -> IOutput => Build Everything!!! (Including \[Code generator])
+*   [SmartCode (⭐559)](https://github.com/Ahoo-Wang/SmartCode) – SmartCode= IDataSource -> IBuildTask -> IOutput => Build Everything!!! (Including \[Code generator])
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Privacy Management
 
-*   [Osano](https://www.osano.com/) - Consent management and compliance platform with everything from GDPR representation to cookie banners. Free tier offers basic features.
-*   [Iubenda](https://www.iubenda.com/) - Privacy and cookie policies along with consent management. Free tier offers limited privacy and cookie policy as well as cookie banners.
-*   [Cookiefirst](https://cookiefirst.com/) - Cookie banners, auditing, and multi-language consent management solution. Free tier offers a one-time scan and a single banner.
-*   [Ketch](https://www.ketch.com/) - Consent management and privacy framework tool. Free tier offers most features with a limited visitor count.
+*   [Osano](https://www.osano.com/) - Consent management and compliance platform with everything from GDPR representation to cookie banners. The free tier offers basic features.
+*   [Iubenda](https://www.iubenda.com/) - Privacy and cookie policies and consent management. The free tier offers limited privacy and cookie policy as well as cookie banners.
+*   [Cookiefirst](https://cookiefirst.com/) - Cookie banners, auditing, and multi-language consent management solution. The free tier offers a one-time scan and a single banner.
+*   [Ketch](https://www.ketch.com/) - Consent management and privacy framework tool. The free tier offers most features with a limited visitor count.
 
 ## [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Visualization
 
-*   [lux (⭐4.5k)](https://github.com/lux-org/lux) - Recommends a set of visualizations whenever a dataframe is printed in a notebook.
+*   [lux (⭐4.7k)](https://github.com/lux-org/lux) - Recommends a set of visualizations whenever a dataframe is printed in a notebook.
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
-*   [vue-next-rx (⭐31)](https://github.com/NOPR9D/vue-next-rx) - Complete RxJS integration for Vue.js. (Update of vue-rx)
+*   [vue-next-rx (⭐32)](https://github.com/NOPR9D/vue-next-rx) - Complete RxJS integration for Vue.js. (Update of vue-rx)
 
 ## [8. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -251,14 +251,14 @@
 
 ### Tools / Templates & Starter Kits
 
-*   [wagtail-webpack-dokku (⭐9)](https://github.com/helixsoftco/wagtail-webpack-dokku/) - A template with Wagtail, Webpack using django-webpack-loader, Bootstrap 5, production ready for Dokku.
-*   [Wagtail bootstrap blog (⭐334)](https://github.com/AccordBox/wagtail-bootstrap-blog) - A Wagtail blog which has Bootstrap theme, supports writing in `Markdown`, `Latex`. It also has comment workflow, comment form supports `Mention` and `Emoji`. Frontend is built by `Webpack`, `Babel` and `SCSS`.
-*   [Wagtail react blog (⭐80)](https://github.com/AccordBox/wagtail-react-blog) - SPA blog built with React, Bootstrap4, Storybook and Wagtail Rest API. It also supports headless preview.
-*   [CodeRed CMS (⭐569)](https://github.com/coderedcorp/coderedcms) - a professionally supported WordPress alternative for building marketing websites. Create pages, blogs, forms, and every Bootstrap 4 component in the wagtail admin out-of-the-box! [Learn more](https://www.coderedcorp.com/cms/) or [watch the lightning talk](https://www.youtube.com/watch?v=U1Y-jgeGh7g\&t=228s).
+*   [wagtail-webpack-dokku (⭐10)](https://github.com/helixsoftco/wagtail-webpack-dokku/) - A template with Wagtail, Webpack using django-webpack-loader, Bootstrap 5, production ready for Dokku.
+*   [Wagtail bootstrap blog (⭐346)](https://github.com/AccordBox/wagtail-bootstrap-blog) - A Wagtail blog which has Bootstrap theme, supports writing in `Markdown`, `Latex`. It also has comment workflow, comment form supports `Mention` and `Emoji`. Frontend is built by `Webpack`, `Babel` and `SCSS`.
+*   [Wagtail react blog (⭐82)](https://github.com/AccordBox/wagtail-react-blog) - SPA blog built with React, Bootstrap4, Storybook and Wagtail Rest API. It also supports headless preview.
+*   [CodeRed CMS (⭐605)](https://github.com/coderedcorp/coderedcms) - a professionally supported WordPress alternative for building marketing websites. Create pages, blogs, forms, and every Bootstrap 4 component in the wagtail admin out-of-the-box! [Learn more](https://www.coderedcorp.com/cms/) or [watch the lightning talk](https://www.youtube.com/watch?v=U1Y-jgeGh7g\&t=228s).
 
 ### Open-source sites / Lists
 
-*   [WesternFriend (⭐35)](https://github.com/WesternFriend/WF-website) - community website with directory, ecommerce, and online subscription
+*   [WesternFriend (⭐42)](https://github.com/WesternFriend/WF-website) - community website with directory, ecommerce, and online subscription
 
 ---
 

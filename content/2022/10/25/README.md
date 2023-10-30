@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 25, 2022
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -77,24 +77,24 @@
 
 ### Libraries/Frameworks / Tools
 
-*   [facebookincubator/ktfmt (⭐677)](https://github.com/facebookincubator/ktfmt) - Kotlin code formatter that reflows lines and always produces the same result.
+*   [facebookincubator/ktfmt (⭐716)](https://github.com/facebookincubator/ktfmt) - Kotlin code formatter that reflows lines and always produces the same result.
 
 ### Libraries/Frameworks / Misc
 
-*   [ivanisidrowu/KtRssReader (⭐83)](https://github.com/ivanisidrowu/KtRssReader) - Kotlin library for parsing RSS feeds
+*   [ivanisidrowu/KtRssReader (⭐87)](https://github.com/ivanisidrowu/KtRssReader) - Kotlin library for parsing RSS feeds
 
 ### Libraries/Frameworks / Command Line Interface
 
 *   [aPureBase/arkenv (⭐17)](https://github.com/aPureBase/arkenv) - Fully fledged command line arguments / environment variables parser via simple Kotlin delegates
-*   [dbaelz/Konclik (⭐45)](https://github.com/dbaelz/Konclik) - Konclik: Kotlin/Native Command Line Interface Kit
-*   [varabyte/kotter (⭐409)](https://github.com/varabyte/kotter) - A declarative, Kotlin-idiomatic API for writing dynamic command line applications
-*   [xenomachina/kotlin-argparser (⭐472)](https://github.com/xenomachina/kotlin-argparser) - Easy to use and concise yet powerful and robust command line argument parsing for Kotlin.
-*   [ajalt/mordant (⭐743)](https://github.com/ajalt/mordant) - Mordant - Full-featured text styling for Kotlin command line applications.
-*   [ajalt/clikt (⭐2.1k)](https://github.com/ajalt/clikt) - Clikt - Intuitive command line interface parsing for Kotlin.
+*   [dbaelz/Konclik (⭐46)](https://github.com/dbaelz/Konclik) - Konclik: Kotlin/Native Command Line Interface Kit
+*   [varabyte/kotter (⭐462)](https://github.com/varabyte/kotter) - A declarative, Kotlin-idiomatic API for writing dynamic command line applications
+*   [xenomachina/kotlin-argparser (⭐473)](https://github.com/xenomachina/kotlin-argparser) - Easy to use and concise yet powerful and robust command line argument parsing for Kotlin.
+*   [ajalt/mordant (⭐816)](https://github.com/ajalt/mordant) - Mordant - Full-featured text styling for Kotlin command line applications.
+*   [ajalt/clikt (⭐2.2k)](https://github.com/ajalt/clikt) - Clikt - Intuitive command line interface parsing for Kotlin.
 
 ### Libraries/Frameworks / Browsers
 
-*   [wendigo/chrome-reactive-kotlin (⭐75)](https://github.com/wendigo/chrome-reactive-kotlin) - Headless Chrome DevTools Protocol Client (RxJava3 + Kotlin)
+*   [wendigo/chrome-reactive-kotlin (⭐74)](https://github.com/wendigo/chrome-reactive-kotlin) - Headless Chrome DevTools Protocol Client (RxJava3 + Kotlin)
 
 ### Libraries/Frameworks / I/O
 
@@ -103,40 +103,40 @@
 
 ### Libraries/Frameworks / Internationalisation and Localization
 
-*   [cashapp/barber (⭐138)](https://github.com/cashapp/barber) - A type safe Kotlin JVM library for building up localized, fillable, themed documents using Mustache templating.
+*   [cashapp/barber (⭐145)](https://github.com/cashapp/barber) - A type safe Kotlin JVM library for building up localized, fillable, themed documents using Mustache templating.
 
 ### Projects / Web
 
-*   [derveloper/kiny](https://github.com/derveloper/kiny) - Your super simple private serverless service running your kotlin functions like AWS lambda.
-*   [MichaelGrigoryan25/kotlin-url-shortener](https://github.com/MichaelGrigoryan25/kotlin-url-shortener) - Basic URL shortener built with Kotlin, Redis and Javalin
-*   [viniciusccarvalho/kodein-cloud-functions (⭐3)](https://github.com/viniciusccarvalho/kodein-cloud-functions) - Provides adapters to different cloud functions providers (AWS, Azure) to run vanilla kotlin functions defined as kodein modules
-*   [yyunikov/spring-boot-2-kotlin-starter (⭐17)](https://github.com/yyunikov/spring-boot-2-kotlin-starter) - Spring Boot 2.0 Kotlin application starter with configurations for Gradle, Mongo, JUnit 5 tests, logging, CircleCI and Docker compose.
+*   [sdeleuze/spring-boot-kotlin-demo (⭐594)](https://github.com/sdeleuze/spring-boot-kotlin-demo) - Basic Spring Boot app in Kotlin.
 *   [IRus/kotlin-dev-proxy (⭐20)](https://github.com/IRus/kotlin-dev-proxy) - Simple server for proxy requests and host static files written in Kotlin, Spark Java and Apache HttpClient.
 *   [ratpack/example-ratpack-gradle-kotlin-app (⭐37)](https://github.com/ratpack/example-ratpack-gradle-kotlin-app) - An example of a Kotlin Ratpack app built with Gradle.
-*   [eddywm/KTFLITE (⭐177)](https://github.com/eddywm/KTFLITE) - Computer Vision on Android with Kotlin and Tensorflow Lite.
-*   [mixitconf/mixit (⭐529)](https://github.com/mixitconf/mixit) - MiXiT website
-*   [sdeleuze/spring-boot-kotlin-demo (⭐586)](https://github.com/sdeleuze/spring-boot-kotlin-demo) - Basic Spring Boot app in Kotlin.
-*   [corda/corda (⭐3.9k)](https://github.com/corda/corda) - Corda is a distributed ledger platform designed to record, manage and automate legal agreements between business partners.
+*   [eddywm/KTFLITE (⭐176)](https://github.com/eddywm/KTFLITE) - Computer Vision on Android with Kotlin and Tensorflow Lite.
+*   [corda/corda (⭐4k)](https://github.com/corda/corda) - Corda is a distributed ledger platform designed to record, manage and automate legal agreements between business partners.
+*   [mixitconf/mixit (⭐535)](https://github.com/mixitconf/mixit) - MiXiT website
+*   [derveloper/kiny](https://github.com/derveloper/kiny) - Your super simple private serverless service running your kotlin functions like AWS lambda.
+*   [yyunikov/spring-boot-2-kotlin-starter (⭐17)](https://github.com/yyunikov/spring-boot-2-kotlin-starter) - Spring Boot 2.0 Kotlin application starter with configurations for Gradle, Mongo, JUnit 5 tests, logging, CircleCI and Docker compose.
+*   [viniciusccarvalho/kodein-cloud-functions (⭐3)](https://github.com/viniciusccarvalho/kodein-cloud-functions) - Provides adapters to different cloud functions providers (AWS, Azure) to run vanilla kotlin functions defined as kodein modules
+*   [MichaelGrigoryan25/kotlin-url-shortener](https://github.com/MichaelGrigoryan25/kotlin-url-shortener) - Basic URL shortener built with Kotlin, Redis and Javalin
 
 ### Projects / Build tools
 
-*   [cbeust/kobalt (⭐425)](https://github.com/cbeust/kobalt) - Build system inspired by Gradle.
+*   [cbeust/kobalt (⭐428)](https://github.com/cbeust/kobalt) - Build system inspired by Gradle.
 
 ### Projects / Misc
 
+*   [quicktype/quicktype (⭐11k)](https://github.com/quicktype/quicktype) - Generate Kotlin types and converters from JSON, Schema, TypeScript, and GraphQL
+*   [lice-lang/lice (⭐126)](https://github.com/lice-lang/lice) - A Lisp-like language's interpreter written in Kotlin
+*   [borisf/classyshark-bytecode-viewer (⭐200)](https://github.com/borisf/classyshark-bytecode-viewer) - View your Kotlin generated classes as Java and bytecode format.
+*   [mkobit/jenkins-pipeline-shared-libraries-gradle-plugin (⭐144)](https://github.com/mkobit/jenkins-pipeline-shared-libraries-gradle-plugin) - Gradle plugin to help with build and test of Jenkins Pipeline Shared Libraries.
+*   [sourcerer-io/sourcerer-app (⭐6.7k)](https://github.com/sourcerer-io/sourcerer-app) - Visual profile for software engineers written in Kotlin.
 *   [neworld/gradle-jdeploy-plugin (⭐2)](https://github.com/neworld/gradle-jdeploy-plugin) - Gradle plugin to publish JVM applications via npmjs.com
 *   [krzema12/fsynth (⭐11)](https://github.com/krzema12/fsynth) - Music synthesizer as a Kotlin multiplatform project
 *   [madhead/tyzenhaus (⭐12)](https://github.com/madhead/tyzenhaus) - Shared expenses tracking Telegram bot
-*   [lice-lang/lice (⭐126)](https://github.com/lice-lang/lice) - A Lisp-like language's interpreter written in Kotlin
-*   [mkobit/jenkins-pipeline-shared-libraries-gradle-plugin (⭐143)](https://github.com/mkobit/jenkins-pipeline-shared-libraries-gradle-plugin) - Gradle plugin to help with build and test of Jenkins Pipeline Shared Libraries.
-*   [borisf/classyshark-bytecode-viewer (⭐199)](https://github.com/borisf/classyshark-bytecode-viewer) - View your Kotlin generated classes as Java and bytecode format.
-*   [sourcerer-io/sourcerer-app (⭐6.7k)](https://github.com/sourcerer-io/sourcerer-app) - Visual profile for software engineers written in Kotlin.
-*   [quicktype/quicktype (⭐10k)](https://github.com/quicktype/quicktype) - Generate Kotlin types and converters from JSON, Schema, TypeScript, and GraphQL
 
 ### Projects / Desktop
 
-*   [ice1000/Dekoder (⭐19)](https://github.com/ice1000/Dekoder) - A kotlin music player, materially designed.
-*   [yschimke/okurl (⭐122)](https://github.com/yschimke/okurl) - cURL-like client based on OkHttp.
+*   [ice1000/Dekoder (⭐20)](https://github.com/ice1000/Dekoder) - A kotlin music player, materially designed.
+*   [yschimke/okurl (⭐124)](https://github.com/yschimke/okurl) - cURL-like client based on OkHttp.
 
 ## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -158,7 +158,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [kvrohit/mellow.nvim (⭐93)](https://github.com/kvrohit/mellow.nvim) - A soothing dark color scheme with tree-sitter support.
+*   [kvrohit/mellow.nvim (⭐155)](https://github.com/kvrohit/mellow.nvim) - A soothing dark color scheme with tree-sitter support.
 
 ## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -170,7 +170,7 @@
 
 ### Modules / Frontend framework
 
-*   [packup (⭐304)](https://github.com/kt3k/packup) - Zero-config web application packager for Deno.
+*   [packup (⭐320)](https://github.com/kt3k/packup) - Zero-config web application packager for Deno.
 
 ## [11. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -186,17 +186,17 @@
 *   [Speak News](http://www.imaja.com/speaknews/) <sup>[1241](https://t.me/s/aboutrss/1241)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://itunes.apple.com/app/speak-news-rss-news-reader/id1117146910)
 *   [想看](https://chentiansaber.notion.site/chentiansaber/APP-4befacfd391c4530b462ff85296aaaeb) <sup>[1247](https://t.me/s/aboutrss/1247)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](http://myapp.chentiansaber.top/xiangkanapp)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Next Level News](https://nextlevelnews.app/) <sup>[1258](https://t.me/s/aboutrss/1258)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/next-level-news/id1616555900)
-*   [Lettura (⭐266)](https://github.com/zhanglun/lettura) <sup>[1262](https://t.me/s/aboutrss/1262)</sup> ![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/zhanglun/lettura)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Lettura (⭐773)](https://github.com/zhanglun/lettura) <sup>[1262](https://t.me/s/aboutrss/1262)</sup> ![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/zhanglun/lettura)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Other Apps / Outline Processor Markup Language
 
 *   [Planet](https://planetable.eth.limo/C171164A-F0B7-4915-9FC6-4BC4217D7971/) <sup>[1244](https://t.me/s/aboutrss/1244)</sup>
-*   [Feedolin (⭐28)](https://github.com/strukturart/feedolin) <sup>[1252](https://t.me/s/aboutrss/1252)</sup> : An RSS reader for mobile phone system KaiOS [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/strukturart/feedolin)
+*   [Feedolin (⭐30)](https://github.com/strukturart/feedolin) <sup>[1252](https://t.me/s/aboutrss/1252)</sup> : An RSS reader for mobile phone system KaiOS [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/strukturart/feedolin)
 
 ### universally from / webpage/html
 
 *   [RSS Please](https://www.wezm.net/v2/posts/2022/generate-rss-from-webpage/) <sup>[1249](https://t.me/s/aboutrss/1249)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/wezm/rsspls)
-*   [FreshRSS 1.20.0 (⭐5.9k)](https://github.com/FreshRSS/FreshRSS/releases/tag/1.20.0) <sup>[1256](https://t.me/s/aboutrss/1256)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/FreshRSS/FreshRSS/)
+*   [FreshRSS 1.20.0 (⭐7k)](https://github.com/FreshRSS/FreshRSS/releases/tag/1.20.0) <sup>[1256](https://t.me/s/aboutrss/1256)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/FreshRSS/FreshRSS/)
 *   [ChangeDetection](https://lemonade.changedetection.io/start) <sup>[1264](https://t.me/s/aboutrss/1264)</sup>
 
 ### specifically from (*a certain platform*) / Twitter
@@ -205,13 +205,13 @@
 
 ### RSS2MAIL / Docsify
 
-*   [RSS Alerts](https://rssalert.operand.ai/) <sup>[1248](https://t.me/s/aboutrss/1248)</sup>![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [RSS Alerts](https://rssalert.operand.ai/) <sup>[1248](https://t.me/s/aboutrss/1248)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### RSS2WIDGET / For website
 
 *   [tagembed](https://tagembed.com/rss-widget/) <sup>[1259](https://t.me/s/aboutrss/1259)</sup>
 
-### RSS2Notification / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### RSS2Notification / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Check酱](https://gitee.com/easychen/checkchan-dist)
 *   [Distill.io](https://distill.io/)
@@ -220,13 +220,19 @@
 *   [网页更新提醒](https://courier.toptopn.com/)
 *   [I Am Watching You](https://www.logicjake.xyz/WebMonitor/)
 
-### RSS2WeChat / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### RSS2WeChat / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [RSSPush (⭐368)](https://github.com/easychen/rsspush) <sup>[1251](https://t.me/s/aboutrss/1251)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/easychen/rsspush)
+*   [RSSPush (⭐444)](https://github.com/easychen/rsspush) <sup>[1251](https://t.me/s/aboutrss/1251)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/easychen/rsspush)
 
 ### Multi-subject / Crypto or Blockchain relevant
 
 *   [Buzzing](https://www.buzzing.cc/) <sup>[1250](https://t.me/s/aboutrss/1250)</sup>
+
+## [12. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Carbon / Non-X86
+
+*   [Carbon Compiler User Manual](https://documentation-service.arm.com/static/5ed10fa8ca06a95ce53f8dc5)
 
 ---
 

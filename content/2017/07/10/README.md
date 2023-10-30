@@ -41,7 +41,7 @@
 
 ### Contents / Testing Utils
 
-*   [Preact Render Spy (⭐179)](https://github.com/mzgoddard/preact-render-spy) - Render Preact components with access to the produced virtual dom for testing.
+*   [Preact Render Spy (⭐178)](https://github.com/mzgoddard/preact-render-spy) - Render Preact components with access to the produced virtual dom for testing.
 
 ## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -51,7 +51,7 @@
 
 ### UI / Barcode
 
-*   [StepProgressView (⭐343)](https://github.com/yonat/StepProgressView) - Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.
+*   [StepProgressView (⭐359)](https://github.com/yonat/StepProgressView) - Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.
 
 ### Validation / Barcode
 
@@ -77,7 +77,7 @@
 
 ### Community Resources
 
-*   [Advanced Topics in Event Sourcing / CQRS / DDD (⭐102)](https://github.com/sebastianharko/adv-es-cqrs-ddd) - Advanced Topics in Event Sourcing / CQRS / DDD list compiled and maintaned by @[sebastianharko](https://github.com/sebastianharko).
+*   [Advanced Topics in Event Sourcing / CQRS / DDD (⭐106)](https://github.com/sebastianharko/adv-es-cqrs-ddd) - Advanced Topics in Event Sourcing / CQRS / DDD list compiled and maintaned by @[sebastianharko](https://github.com/sebastianharko).
 
 ## [10. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 

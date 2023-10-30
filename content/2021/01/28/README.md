@@ -55,7 +55,7 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Plugins and scripts / Various Godot versions
 
-*   [HTerrain (⭐1.3k)](https://github.com/Zylann/godot_heightmap_plugin) - Heightmap-based terrain. Supports texture painting, colouring, holes, level of detail and grass (Godot 3.x).
+*   [HTerrain (⭐1.4k)](https://github.com/Zylann/godot_heightmap_plugin) - Heightmap-based terrain. Supports texture painting, colouring, holes, level of detail and grass (Godot 3.x).
 
 ## [3. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
@@ -71,22 +71,22 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### Analytics, Events and Statistics
+### Feature Toggles Management Platforms
 
-*   [Molasses](https://www.molasses.app) - Powerful feature flags and A/B testing. Free up to 3 environments with 5 feature flags each.
+*   [Molasses](https://www.molasses.app) - Powerful feature flags and A/B testing. Free up to 3 environments with five feature flags each.
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 
-*   [vue3-webpack (⭐23)](https://github.com/boussadjra/vue3-webpack) vue 3 + webpack 4 starter.
-*   [laravel-vue-3-starter (⭐62)](https://github.com/boussadjra/laravel-vue-3-starter) a pre-configured project using Laravel 8 and Vue 3.
+*   [vue3-webpack (⭐24)](https://github.com/boussadjra/vue3-webpack) vue 3 + webpack 4 starter.
+*   [laravel-vue-3-starter (⭐61)](https://github.com/boussadjra/laravel-vue-3-starter) a pre-configured project using Laravel 8 and Vue 3.
 
 ## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Neural Networks
 
-*   [sequitur (⭐339)](https://github.com/shobrook/sequitur) PyTorch library for creating and training sequence autoencoders in just two lines of code
+*   [sequitur (⭐364)](https://github.com/shobrook/sequitur) PyTorch library for creating and training sequence autoencoders in just two lines of code
 
 ## [8. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 

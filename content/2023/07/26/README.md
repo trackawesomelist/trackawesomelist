@@ -24,11 +24,11 @@
 
 ### Note Taking / Diagnostics
 
-*   [serenevoid/kiwi.nvim (⭐22)](https://github.com/serenevoid/kiwi.nvim) - A stripped down VimWiki with necessary features.
+*   [serenevoid/kiwi.nvim (⭐88)](https://github.com/serenevoid/kiwi.nvim) - A stripped down VimWiki with necessary features.
 
 ### Utility / Diagnostics
 
-*   [gaborvecsei/usage-tracker.nvim (⭐13)](https://github.com/gaborvecsei/usage-tracker.nvim) - Track your Neovim usage and visualize statistics easily.
+*   [gaborvecsei/usage-tracker.nvim (⭐40)](https://github.com/gaborvecsei/usage-tracker.nvim) - Track your Neovim usage and visualize statistics easily.
 
 ## [4. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
@@ -40,11 +40,11 @@
 
 ### Sensors / Accelerometer Digital
 
-*   [msa301-micropython-driver (⭐1)](https://github.com/wojciech-szmyt/msa301-micropython-driver) - Homebrew MicroPython driver for MSA301 3-axis accelerometer. Tested on Raspberry Pico.
+*   [msa301-micropython-driver (⭐2)](https://github.com/wojciech-szmyt/msa301-micropython-driver) - Homebrew MicroPython driver for MSA301 3-axis accelerometer. Tested on Raspberry Pico.
 
 ### Shells / On Host
 
-*   [mpr (⭐5)](https://github.com/bulletmark/mpr) - Wrapper for MicroPython mpremote tool.
+*   [mpr (⭐6)](https://github.com/bulletmark/mpr) - Wrapper for MicroPython mpremote tool.
 
 ## [6. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
@@ -116,4 +116,5 @@
 
 ---
 
+- Prev: [Jul 27, 2023](/content/2023/07/27/README.md)
 - Next: [Jul 25, 2023](/content/2023/07/25/README.md)

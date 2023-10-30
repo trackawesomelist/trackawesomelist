@@ -14,7 +14,7 @@
 
 ### Templates / React
 
-*   [vite-react-tailwind-v3 (⭐12)](https://github.com/huibizhang/template-vite-react-tailwind-v3) - Starter template for React + TailwindCSS and `prettier-plugin-tailwindcss` build-in.
+*   [vite-react-tailwind-v3 (⭐14)](https://github.com/huibizhang/template-vite-react-tailwind-v3) - Starter template for React + TailwindCSS and `prettier-plugin-tailwindcss` build-in.
 
 ## [2. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
 
@@ -86,8 +86,8 @@
 
 ### Web Exploitation / Web shells and C2 frameworks
 
-*   [Merlin (⭐4.2k)](https://github.com/Ne0nd0g/merlin) - Cross-platform post-exploitation HTTP/2 Command and Control server and agent written in Golang.
-*   [SharPyShell (⭐726)](https://github.com/antonioCoco/SharPyShell) - Tiny and obfuscated ASP.NET webshell for C# web applications.
+*   [Merlin (⭐4.6k)](https://github.com/Ne0nd0g/merlin) - Cross-platform post-exploitation HTTP/2 Command and Control server and agent written in Golang.
+*   [SharPyShell (⭐818)](https://github.com/antonioCoco/SharPyShell) - Tiny and obfuscated ASP.NET webshell for C# web applications.
 
 ## [6. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
@@ -99,7 +99,7 @@
 
 ### Plugins
 
-*   [tmux-modal (⭐122)](https://github.com/whame/tmux-modal) - Execute complex tmux commands in just a few keystrokes with a modal mode that is designed to be efficient, easy to remember and comfortable.
+*   [tmux-modal (⭐134)](https://github.com/whame/tmux-modal) - Execute complex tmux commands in just a few keystrokes with a modal mode that is designed to be efficient, easy to remember and comfortable.
 
 ## [8. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
@@ -111,13 +111,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [swiper (⭐35k)](https://github.com/nolimits4web/swiper) - Official Swiper component for Vue 3. Tree shakable, SSR support, typing, a11y and a lot more
+*   [swiper (⭐37k)](https://github.com/nolimits4web/swiper) - Official Swiper component for Vue 3. Tree shakable, SSR support, typing, a11y and a lot more
 
 ## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Formatting / Diagnostics
 
-*   [gpanders/editorconfig.nvim (⭐308)](https://github.com/gpanders/editorconfig.nvim) - An EditorConfig plugin written in Fennel.
+*   [gpanders/editorconfig.nvim (⭐312)](https://github.com/gpanders/editorconfig.nvim) - An EditorConfig plugin written in Fennel.
 
 ## [11. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
@@ -127,7 +127,7 @@
 
 ### Tools / Testing Tools
 
-*   [eslint-interactive (⭐214)](https://github.com/mizdra/eslint-interactive) - The CLI tool to fix huge number of ESLint errors.
+*   [eslint-interactive (⭐238)](https://github.com/mizdra/eslint-interactive) - The CLI tool to fix huge number of ESLint errors.
 
 ## [12. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
@@ -143,14 +143,14 @@
 
 ### Libraries / New Libraries
 
-*   [PGMax (⭐63)](https://github.com/vicariousinc/PGMax) - A framework for building discrete Probabilistic Graphical Models (PGM's) and running inference inference on them via JAX. <img src="https://img.shields.io/github/stars/vicariousinc/pgmax?style=social" align="center">
+*   [PGMax (⭐64)](https://github.com/vicariousinc/PGMax) - A framework for building discrete Probabilistic Graphical Models (PGM's) and running inference inference on them via JAX. <img src="https://img.shields.io/github/stars/vicariousinc/pgmax?style=social" align="center">
 
 ## [14. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Authentication and OAuth
 
 *   OAuth:
-    *   [Doorkeeper (⭐5.1k)](https://github.com/doorkeeper-gem/doorkeeper) - An OAuth2 provider for Rails.
+    *   [Doorkeeper (⭐5.2k)](https://github.com/doorkeeper-gem/doorkeeper) - An OAuth2 provider for Rails.
     *   [OAuth2 (⭐2.1k)](https://github.com/intridea/oauth2) - A Ruby wrapper for the OAuth 2.0 protocol.
     *   [Rodauth-Oauth](https://gitlab.com/honeyryderchuck/rodauth-oauth) - A rodauth OAuth and OpenID provider plugin.
 
@@ -159,21 +159,21 @@
 *   [Breadcrumbs on Rails (⭐930)](https://github.com/weppos/breadcrumbs_on_rails) - A simple Ruby on Rails plugin for creating and managing a breadcrumb navigation for a Rails project.
 *   [Gretel (⭐888)](https://github.com/lassebunk/gretel) - A Ruby on Rails plugin that makes it easy yet flexible to create breadcrumbs.
 *   [loaf (⭐403)](https://github.com/peter-murach/loaf) - Manages and displays breadcrumb trails in Rails app - lean & mean.
-*   [Simple Navigation (⭐882)](https://github.com/codeplant/simple-navigation) - A ruby gem for creating navigation (html list, link list or breadcrumbs with multiple levels) for your Rails 2, 3 & 4, Sinatra or Padrino.
+*   [Simple Navigation (⭐883)](https://github.com/codeplant/simple-navigation) - A ruby gem for creating navigation (html list, link list or breadcrumbs with multiple levels) for your Rails 2, 3 & 4, Sinatra or Padrino.
 
 ### Business logic
 
-*   [ActiveInteraction (⭐1.9k)](https://github.com/AaronLasseigne/active_interaction) - Manage application specific business logic.
-*   [Interactor (⭐3.2k)](https://github.com/collectiveidea/interactor) - Interactor provides a common interface for performing complex interactions in a single request.
-*   [Light Service (⭐788)](https://github.com/adomokos/light-service) - Series of Actions with an emphasis on simplicity.
+*   [ActiveInteraction (⭐2k)](https://github.com/AaronLasseigne/active_interaction) - Manage application specific business logic.
+*   [Interactor (⭐3.3k)](https://github.com/collectiveidea/interactor) - Interactor provides a common interface for performing complex interactions in a single request.
+*   [Light Service (⭐798)](https://github.com/adomokos/light-service) - Series of Actions with an emphasis on simplicity.
 *   [Mutations (⭐1.4k)](https://github.com/cypriss/mutations) - Compose your business logic into commands that sanitize and validate input.
-*   [Surrounded (⭐227)](https://github.com/saturnflyer/surrounded) - Encapsulated related objects in a single system to add behavior during runtime. Extensible implementation of DCI.
-*   [Waterfall (⭐612)](https://github.com/apneadiving/waterfall) - A slice of functional programming to chain ruby services and blocks, thus providing a new approach to flow control.
-*   [wisper (⭐3.1k)](https://github.com/krisleech/wisper) - A micro library providing Ruby objects with Publish-Subscribe capabilities.
+*   [Surrounded (⭐240)](https://github.com/saturnflyer/surrounded) - Encapsulated related objects in a single system to add behavior during runtime. Extensible implementation of DCI.
+*   [Waterfall (⭐609)](https://github.com/apneadiving/waterfall) - A slice of functional programming to chain ruby services and blocks, thus providing a new approach to flow control.
+*   [wisper (⭐3.2k)](https://github.com/krisleech/wisper) - A micro library providing Ruby objects with Publish-Subscribe capabilities.
 
 ### Core Extensions
 
-*   [Docile (⭐402)](https://github.com/ms-ati/docile) - A tiny library that lets you map a DSL (domain specific language) to your Ruby objects in a snap.
+*   [Docile (⭐404)](https://github.com/ms-ati/docile) - A tiny library that lets you map a DSL (domain specific language) to your Ruby objects in a snap.
 *   [dry-rb](https://github.com/dry-rb) - dry-rb is a collection of next-generation Ruby libraries, each intended to encapsulate a common task.
 
 ### Decorators
@@ -186,7 +186,7 @@
 *   [Awesome Ruby @LibHunt](https://ruby.libhunt.com) - Your go-to Ruby Toolbox. The Awesome Ruby collection + ordering by popularity, additional metadata and comparisons.
 *   [GitHub Trending](https://github.com/trending?l=ruby) - Find what repositories the GitHub community is most excited about today.
 *   [Open Source Rails](https://www.opensourcerails.org/) - A gallery of the best open source rack and Ruby on Rails web applications.
-*   [Ruby Bookmarks (⭐2.1k)](https://github.com/dreikanter/ruby-bookmarks) - Ruby and Ruby on Rails bookmarks collection.
+*   [Ruby Bookmarks (⭐2.2k)](https://github.com/dreikanter/ruby-bookmarks) - Ruby and Ruby on Rails bookmarks collection.
 *   [RubyDaily](http://rubydaily.org) - Community driven news.
 *   [RubyFlow](http://www.rubyflow.com) - Ruby Programming Community Link Blog.
 *   [Ruby Land](http://rubyland.news/) - A well maintained Ruby/Rails aggregator that contains news, opinions, tutorials, and more.
@@ -197,7 +197,7 @@
 
 ### Event Sourcing
 
-*   [Eventide Project](https://eventide-project.org) - Pub/sub, event sourcing, and evented autonomous services backed by the [Message DB (⭐1.5k)](https://github.com/message-db/message-db) message store.
+*   [Eventide Project](https://eventide-project.org) - Pub/sub, event sourcing, and evented autonomous services backed by the [Message DB (⭐1.6k)](https://github.com/message-db/message-db) message store.
 *   [Rails Event Store (RES) (⭐1.3k)](https://github.com/RailsEventStore/rails_event_store) - A library for publishing, consuming, storing and retrieving events. It's your best companion for going with an event-driven architecture for your Rails application.
 
 ### Services and Apps
@@ -210,20 +210,20 @@
 *   [GitLab](https://about.gitlab.com) - Open source software to collaborate on code.
 *   [HoundCI](https://houndci.com) - Review your Ruby code for style guide violations.
 *   [Inch CI](https://inch-ci.org/) - Documentation badges for Ruby projects.
-*   [OctoLinker (⭐5.1k)](https://github.com/OctoLinker/browser-extension) - Navigate through projects on GitHub.com efficiently with the OctoLinker browser extension.
+*   [OctoLinker (⭐5.2k)](https://github.com/OctoLinker/browser-extension) - Navigate through projects on GitHub.com efficiently with the OctoLinker browser extension.
 *   [SemaphoreCI](https://semaphoreci.com) - Hosted continuous integration and deployment service for open source and private projects.
 *   [Sider](https://sider.review/) - Automated Code Review with GitHub PR. Monitoring Style Violations, Quality, Security, Dependencies.
 *   [Travis CI](https://travis-ci.com) - Test and Deploy Your Code with Confidence.
 
 ### View components
 
-*   [Cells (⭐3k)](https://github.com/trailblazer/cells) - View Components for Rails.
-*   [Komponent (⭐425)](https://github.com/komposable/komponent) - An opinionated way of organizing front-end code in Rails, based on components.
-*   [ViewComponent (⭐2.9k)](https://github.com/github/view_component) - View components for Rails.
+*   [Cells (⭐3.1k)](https://github.com/trailblazer/cells) - View Components for Rails.
+*   [Komponent (⭐424)](https://github.com/komposable/komponent) - An opinionated way of organizing front-end code in Rails, based on components.
+*   [ViewComponent (⭐3k)](https://github.com/github/view_component) - View components for Rails.
 
 ### View helpers
 
-*   [active\_link\_to (⭐828)](https://github.com/comfy/active_link_to) - View helper to manage "active" state of a link.
+*   [active\_link\_to (⭐827)](https://github.com/comfy/active_link_to) - View helper to manage "active" state of a link.
 
 ### Web Frameworks
 

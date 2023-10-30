@@ -16,14 +16,14 @@
 
 ### Audio Related Packages / Feature extraction
 
-*   [speechpy (⭐872)](https://github.com/astorfi/speechpy) [:octocat: (⭐872)](https://github.com/astorfi/speechpy) [:package:](https://pypi.python.org/pypi/speechpy) - Library for Speech Processing and Recognition, mostly feature extraction for now.
+*   [speechpy (⭐879)](https://github.com/astorfi/speechpy) [:octocat: (⭐879)](https://github.com/astorfi/speechpy) [:package:](https://pypi.python.org/pypi/speechpy) - Library for Speech Processing and Recognition, mostly feature extraction for now.
 
 ## [3. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Icons / Homogeneous Icons
 
-*   [Numix Circle (⭐838)](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
-*   [Numix Square (⭐151)](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme.
+*   [Numix Circle (⭐846)](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
+*   [Numix Square (⭐154)](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme.
 
 ---
 

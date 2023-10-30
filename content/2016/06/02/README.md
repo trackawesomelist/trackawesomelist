@@ -94,7 +94,7 @@
 
 *   [Colorable](http://jxnblk.com/colorable/) - Color palette combination contrast tester.
 *   [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - Extract dominant colors from images and apply to its parent (jQuery Plugin).
-*   [Coloor (⭐333)](https://github.com/krasimir/coloor) - Image preloading utility.
+*   [Coloor (⭐332)](https://github.com/krasimir/coloor) - Image preloading utility.
 
 ### Tools / Web App
 

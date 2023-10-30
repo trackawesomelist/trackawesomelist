@@ -2,7 +2,7 @@
 
 🚀 A curated list of awesome resources for product/program managers to learn and grow.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dend/awesome-product-management/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dend/awesome-product-management](https://github.com/dend/awesome-product-management) · ⭐ 1.1K · 🏷️ Learn
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dend/awesome-product-management/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dend/awesome-product-management](https://github.com/dend/awesome-product-management) · ⭐ 1.2K · 🏷️ Learn
 
 [ [Daily](/content/dend/awesome-product-management/README.md) / [Weekly](/content/dend/awesome-product-management/week/README.md) / Overview ]
 
@@ -34,6 +34,7 @@ By definition, a product manager is an individual who drives the product vision 
     *   [logchimp](#logchimp)
     *   [Hellonext](#hellonext)
     *   [Screeb](#screeb)
+    *   [Obsidian](#Obsidian)
 *   [Articles](#articles)
 *   [Books](#books)
 *   [Podcasts](#podcasts)
@@ -232,6 +233,19 @@ Screeb is a product-led user research platform helping product teams to build be
 | Cost      | Freemium (*start $0-39/month*)     |
 | Platform  | Web                                |
 | URL       | <https://screeb.app>               |
+
+### Obsidian
+
+Obsidian is a private and flexible writing app that adapts to the way you think. From personal notes to journaling, knowledge bases, and project management, Obsidian gives you the tools to come up with ideas and organize them. Turn your notes into an online wiki, knowledge base, documentation, or digital garden.
+
+![Obsidian](https://github.com/dend/awesome-product-management/raw/master/media/obsidian.png)
+
+| Property  | Value                                       |
+| --------- | ------------------------------------------- |
+| Developer | [Obsidian, Inc.](https://obsidian.md)       |
+| Cost      | Paid if used commercially (*$50/user/year*) |
+| Platform  | iOS, Android, Windows, Mac, Linux           |
+| URL       | <https://obsidian.md/>                      |
 
 ## Articles
 

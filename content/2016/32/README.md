@@ -42,8 +42,8 @@
 
 ### Command-Line Productivity
 
-*   [SHML (⭐421)](https://github.com/odb/shml) - Style framework for the terminal (Shell Markup Language)
-*   [sudocabulary (⭐151)](https://github.com/badarsh2/Sudocabulary) - Learn English Vocabulary from your terminal
+*   [SHML (⭐431)](https://github.com/odb/shml) - Style framework for the terminal (Shell Markup Language)
+*   [sudocabulary (⭐156)](https://github.com/badarsh2/Sudocabulary) - Learn English Vocabulary from your terminal
 
 ### Multimedia and File Formats / Directory Navigation
 
@@ -64,12 +64,12 @@
 
 ### Books / Hash functions
 
-*   [An Introduction to Mathematical Cryptography](http://www.math.brown.edu/\~jhs/MathCryptoHome.html) - Introduction to modern cryptography.
+*   [An Introduction to Mathematical Cryptography](http://www.math.brown.edu/~jhs/MathCryptoHome.html) - Introduction to modern cryptography.
 
 ### Standalone / Hash functions
 
 *   [Bcrypt](http://bcrypt.sourceforge.net/) - Cross-platform file encryption utility.
-*   [certbot (⭐29k)](https://github.com/certbot/certbot) - Previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.
+*   [certbot (⭐30k)](https://github.com/certbot/certbot) - Previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.
 *   [gpg](https://www.gnupg.org/) - Complete and free implementation of the OpenPGP standard. It allows to encrypt and sign your data and communication, features a versatile key management system. GnuPG is a command line tool with features for easy integration with other applications.
 
 ### Plugins / Git
@@ -80,30 +80,30 @@
 
 *   [libgcrypt](http://directory.fsf.org/wiki/Libgcrypt) - Cryptographic library developed as a separated module of GnuPG.
 *   [libsodium (⭐11k)](https://github.com/jedisct1/libsodium) - Modern and easy-to-use crypto library.
-*   [libtomcrypt (⭐1.3k)](https://github.com/libtom/libtomcrypt) - Fairly comprehensive, modular and portable cryptographic toolkit.
+*   [libtomcrypt (⭐1.4k)](https://github.com/libtom/libtomcrypt) - Fairly comprehensive, modular and portable cryptographic toolkit.
 *   [NaCl](https://nacl.cr.yp.to/) - High-speed library for network communication, encryption, decryption, signatures, etc.
-*   [wolfSSL (⭐1.7k)](https://github.com/wolfSSL/wolfssl) - Small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.
+*   [wolfSSL (⭐2k)](https://github.com/wolfSSL/wolfssl) - Small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.
 
 ### C++ / Git
 
 *   [Botan](https://botan.randombit.net/) - Cryptography library written in `C++11`.
-*   [HElib (⭐2.9k)](https://github.com/shaih/HElib) - Software library that implements homomorphic encryption (HE).
-*   [Nettle](http://www.lysator.liu.se/\~nisse/nettle/) - Low-level cryptographic library.
-*   [s2n (⭐4.2k)](https://github.com/awslabs/s2n) - Implementation of the TLS/SSL protocols.
+*   [HElib (⭐3k)](https://github.com/shaih/HElib) - Software library that implements homomorphic encryption (HE).
+*   [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - Low-level cryptographic library.
+*   [s2n (⭐4.3k)](https://github.com/awslabs/s2n) - Implementation of the TLS/SSL protocols.
 
 ### C-sharp / Git
 
-*   [libsodium-net (⭐351)](https://github.com/adamcaudill/libsodium-net) - Secure cryptographic library, port of libsodium for .NET.
-*   [PCLCrypto (⭐221)](https://github.com/AArnott/PCLCrypto) - Provides cryptographic APIs over algorithms implemented by the platform, including exposing them to portable libraries.
+*   [libsodium-net](https://github.com/adamcaudill/libsodium-net) - Secure cryptographic library, port of libsodium for .NET.
+*   [PCLCrypto (⭐227)](https://github.com/AArnott/PCLCrypto) - Provides cryptographic APIs over algorithms implemented by the platform, including exposing them to portable libraries.
 
 ### Common Lisp / Git
 
-*   [trivial-ssh (⭐37)](https://github.com/eudoxia0/trivial-ssh) - SSH client library for Common Lisp (Built on libssh2).
+*   [trivial-ssh (⭐39)](https://github.com/eudoxia0/trivial-ssh) - SSH client library for Common Lisp (Built on libssh2).
 
 ### Elixir / Git
 
-*   [elixir-rsa (⭐33)](https://github.com/trapped/elixir-rsa) - `:public_key` cryptography wrapper for Elixir.
-*   [ex\_crypto (⭐124)](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `:crypto` and `:public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.
+*   [elixir-rsa (⭐34)](https://github.com/trapped/elixir-rsa) - `:public_key` cryptography wrapper for Elixir.
+*   [ex\_crypto (⭐132)](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `:crypto` and `:public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.
 
 ### Erlang / Git
 
@@ -118,35 +118,35 @@
 ### JavaScript / Git
 
 *   [javascript-crypto-library (⭐284)](https://github.com/clipperz/javascript-crypto-library) - JavaScript Crypto Library provides web developers with an extensive and efficient set of cryptographic functions.
-*   [PolyCrypt (⭐263)](https://github.com/polycrypt/polycrypt) - Pure JS implementation of the WebCrypto API.
+*   [PolyCrypt (⭐264)](https://github.com/polycrypt/polycrypt) - Pure JS implementation of the WebCrypto API.
 
 ### Java / Git
 
 *   [Flexiprovider](http://www.flexiprovider.de/) - Powerful toolkit for the Java Cryptography Architecture.
-*   [scrypt (⭐424)](https://github.com/wg/scrypt) - Pure Java implementation of the scrypt key derivation function and a JNI interface to the C implementations, including the SSE2 optimized version.
+*   [scrypt (⭐421)](https://github.com/wg/scrypt) - Pure Java implementation of the scrypt key derivation function and a JNI interface to the C implementations, including the SSE2 optimized version.
 
 ### Julia / Git
 
 *   [Crypto.jl (⭐9)](https://github.com/danielsuo/Crypto.jl) - Library that wraps OpenSSL, but also has pure Julia implementations for reference.
-*   [MbedTLS.jl (⭐32)](https://github.com/JuliaWeb/MbedTLS.jl) - Wrapper around the mbed TLS and cryptography C libary.
-*   [SHA.jl (⭐35)](https://github.com/staticfloat/SHA.jl) - Performant, 100% native-julia SHA1, SHA2-{224,256,384,512} implementation.
+*   [MbedTLS.jl (⭐35)](https://github.com/JuliaWeb/MbedTLS.jl) - Wrapper around the mbed TLS and cryptography C libary.
+*   [SHA.jl (⭐38)](https://github.com/staticfloat/SHA.jl) - Performant, 100% native-julia SHA1, SHA2-{224,256,384,512} implementation.
 
 ### Lua / Git
 
-*   [lua-lockbox (⭐325)](https://github.com/somesocks/lua-lockbox) - Collection of cryptographic primitives written in pure Lua.
+*   [lua-lockbox (⭐334)](https://github.com/somesocks/lua-lockbox) - Collection of cryptographic primitives written in pure Lua.
 
 ### PHP / Git
 
 *   [halite](https://paragonie.com/project/halite) - Simple library for encryption using `libsodium`.
-*   [PHP Encryption (⭐3.5k)](https://github.com/defuse/php-encryption) - Library for encrypting data with a key or password in PHP.
+*   [PHP Encryption (⭐3.6k)](https://github.com/defuse/php-encryption) - Library for encrypting data with a key or password in PHP.
 
 ### Python / Git
 
-*   [charm (⭐442)](https://github.com/JHUISI/charm) - Framework for rapidly prototyping cryptosystems.
+*   [charm (⭐487)](https://github.com/JHUISI/charm) - Framework for rapidly prototyping cryptosystems.
 *   [cryptography](https://cryptography.io/en/latest/) - Python library which exposes cryptographic recipes and primitives.
-*   [cryptopy](https://sourceforge.net/projects/cryptopy/) - Pure python implmentation of cryptographic algorithms and applications.
+*   [cryptopy](https://sourceforge.net/projects/cryptopy/) - Pure python implementation of cryptographic algorithms and applications.
 *   [paramiko](http://www.paramiko.org/) - Python implementation of the SSHv2 protocol, providing both client and server functionality.
-*   [pycryptodome (⭐2.1k)](https://github.com/Legrandin/pycryptodome) - Self-contained Python package of low-level cryptographic primitives.
+*   [pycryptodome (⭐2.4k)](https://github.com/Legrandin/pycryptodome) - Self-contained Python package of low-level cryptographic primitives.
 
 ### R / Git
 
@@ -154,11 +154,11 @@
 
 ### Ruby / Git
 
-*   [bcrypt-ruby (⭐1.8k)](https://github.com/codahale/bcrypt-ruby) - Ruby binding for the OpenBSD bcrypt() password hashing algorithm, allowing you to easily store a secure hash of your users' passwords.
+*   [bcrypt-ruby (⭐1.9k)](https://github.com/codahale/bcrypt-ruby) - Ruby binding for the OpenBSD bcrypt() password hashing algorithm, allowing you to easily store a secure hash of your users' passwords.
 
 ### Rust / Git
 
-*   [rust-crypto (⭐1.2k)](https://github.com/DaGenix/rust-crypto) - Mostly pure-Rust implementation of various cryptographic algorithms.
+*   [rust-crypto (⭐1.3k)](https://github.com/DaGenix/rust-crypto) - Mostly pure-Rust implementation of various cryptographic algorithms.
 
 ### Swift / Git
 
@@ -219,7 +219,7 @@
 
 ### Web Hosting
 
-*   [pantheon.io](https://pantheon.io/) — Drupal and WordPress hosting, automated DevOps and scalable infrastructure. Free for developers and agencies. No custom domain.
+*   [pantheon.io](https://pantheon.io/) — Drupal and WordPress hosting, automated DevOps, and scalable infrastructure. Free for developers and agencies. No custom domain.
 
 ## [9. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
@@ -355,9 +355,9 @@ git rev-list --count <branch-name>
 
 ### Concurrency
 
-*   [CUB (⭐73)](https://github.com/NVlabs/cub) - CUB provides state-of-the-art, reusable software components for every layer of the CUDA programming mode. \[New BSD]
+*   [CUB (⭐70)](https://github.com/NVlabs/cub) - CUB provides state-of-the-art, reusable software components for every layer of the CUDA programming mode. \[New BSD]
 *   [moderngpu (⭐1.5k)](https://github.com/moderngpu/moderngpu) - moderngpu is a productivity library for general-purpose computing on GPUs. It is a header-only C++ library written for CUDA. The unique value of the library is in its accelerated primitives for solving irregularly parallel problems. \[FreeBSD & Copyright, Sean Baxter]
-*   [NCCL (⭐2.2k)](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. \[BSD]
+*   [NCCL (⭐2.4k)](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. \[BSD]
 
 ## [20. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -369,7 +369,7 @@ git rev-list --count <branch-name>
 
 ### Packages / Filesystem
 
-*   [filehound (⭐213)](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
+*   [filehound (⭐219)](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
 
 ## [22. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -414,7 +414,7 @@ git rev-list --count <branch-name>
 
 ### Game
 
-*   [MonoGame (⭐9.5k)](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games
+*   [MonoGame (⭐10k)](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games
 
 ### ORM
 
@@ -661,7 +661,7 @@ git flow init -d
 
 ### Similar lists / Videos
 
-*   [Awesome Open (⭐57)](https://github.com/paulhendricks/awesome-open):
+*   [Awesome Open (⭐69)](https://github.com/paulhendricks/awesome-open):
     A curated list of organizations, projects and initiatives that maintain open codebases and datasets
 
 ## [32. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
@@ -672,29 +672,29 @@ git flow init -d
 
 ### BSON
 
-*   [BSONMap (⭐8)](https://github.com/Nebo15/bsoneach) - Elixir package that applies a function to each document in a BSON file and has a low memory consumption.
+*   [BSONMap (⭐9)](https://github.com/Nebo15/bsoneach) - Elixir package that applies a function to each document in a BSON file and has a low memory consumption.
 
 ### Chatting
 
-*   [chatty (⭐34)](https://github.com/alco/chatty) - A basic IRC client that is most useful for writing a bot.
-*   [cog (⭐920)](https://github.com/operable/cog) - Cog is an open chatops platform that gives you a secure, collaborative command line right in your chat window.
+*   [chatty (⭐35)](https://github.com/alco/chatty) - A basic IRC client that is most useful for writing a bot.
+*   [cog (⭐921)](https://github.com/operable/cog) - Cog is an open chatops platform that gives you a secure, collaborative command line right in your chat window.
 *   [ExIrc (⭐147)](https://github.com/bitwalker/exirc) - IRC client adapter for Elixir projects.
-*   [Guri (⭐19)](https://github.com/elvio/guri) - Automate tasks using chat messages.
-*   [kaguya (⭐73)](https://github.com/Luminarys/Kaguya) - A small, powerful, and modular IRC bot.
-*   [slacker (⭐82)](https://github.com/koudelka/slacker) - A bot library for the Slack chat service.
+*   [Guri (⭐20)](https://github.com/elvio/guri) - Automate tasks using chat messages.
+*   [kaguya (⭐74)](https://github.com/Luminarys/Kaguya) - A small, powerful, and modular IRC bot.
+*   [slacker (⭐83)](https://github.com/koudelka/slacker) - A bot library for the Slack chat service.
 *   [yocingo (⭐39)](https://github.com/Yawolf/yocingo) - Create your own Telegram Bot.
 
 ### Documentation
 
-*   [phoenix\_swagger (⭐636)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
+*   [phoenix\_swagger (⭐654)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
 
 ### Examples and funny stuff
 
-*   [magnetissimo (⭐2.8k)](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
+*   [magnetissimo (⭐2.9k)](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
 
 ### Framework Components
 
-*   [multiverse (⭐90)](https://github.com/Nebo15/multiverse) - Plug that allows to add version compatibility layers via API Request/Response Gateways.
+*   [multiverse (⭐92)](https://github.com/Nebo15/multiverse) - Plug that allows to add version compatibility layers via API Request/Response Gateways.
 
 ### Geolocation
 
@@ -706,7 +706,7 @@ git flow init -d
 
 ### Images
 
-*   [ex\_image\_info (⭐89)](https://github.com/rNoz/ex_image_info) - An Elixir library to parse images (binaries) and get the dimensions, detected mime-type and overall validity for a set of image formats.
+*   [ex\_image\_info (⭐92)](https://github.com/rNoz/ex_image_info) - An Elixir library to parse images (binaries) and get the dimensions, detected mime-type and overall validity for a set of image formats.
 
 ### Logging
 
@@ -718,15 +718,15 @@ git flow init -d
 
 ### Security
 
-*   [ssl\_verify\_fun (⭐88)](https://github.com/deadtrickster/ssl_verify_fun.erl) - Collection of ssl verification functions for Erlang.
+*   [ssl\_verify\_fun (⭐96)](https://github.com/deadtrickster/ssl_verify_fun.erl) - Collection of ssl verification functions for Erlang.
 
 ### Testing
 
-*   [bypass (⭐889)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
+*   [bypass (⭐912)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
 
 ### Third Party APIs
 
-*   [digitalocean (⭐12)](https://github.com/lukeed/elixir-digitalocean) - Elixir wrapper for the Digital Ocean API v2.
+*   [digitalocean (⭐13)](https://github.com/lukeed/elixir-digitalocean) - Elixir wrapper for the Digital Ocean API v2.
 *   [exfacebook (⭐18)](https://github.com/oivoodoo/exfacebook) - Facebook API, written in Elixir using similar methods like Ruby koala gem.
 
 ### Websites
@@ -755,16 +755,16 @@ git flow init -d
 
 ### Configuration
 
-*   [cr-dotenv (⭐95)](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
+*   [cr-dotenv (⭐94)](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
 
 ### Project Generators
 
-*   [crystal\_lib (⭐139)](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
+*   [crystal\_lib (⭐137)](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
 
 ### Template Engine
 
-*   [Kilt (⭐147)](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
-*   [Slang (⭐231)](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
+*   [Kilt (⭐149)](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
+*   [Slang (⭐232)](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
 
 ### Web Frameworks
 
@@ -774,13 +774,13 @@ git flow init -d
 
 ### Developer
 
-*   [mdi (⭐41)](https://github.com/importre/alfred-mdi) - Find [Material Design Icons (⭐48k)](https://github.com/google/material-design-icons).
+*   [mdi (⭐41)](https://github.com/importre/alfred-mdi) - Find [Material Design Icons (⭐49k)](https://github.com/google/material-design-icons).
 
 ## [37. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Bindings
 
-*   [Vulkan-hpp (⭐2.5k)](https://github.com/KhronosGroup/Vulkan-Hpp) Open-Source Vulkan C++ API originated from NVIDIA and [the blog](https://developer.nvidia.com/open-source-vulkan-c-api) about it.
+*   [Vulkan-hpp (⭐2.7k)](https://github.com/KhronosGroup/Vulkan-Hpp) Open-Source Vulkan C++ API originated from NVIDIA and [the blog](https://developer.nvidia.com/open-source-vulkan-c-api) about it.
 
 ## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -790,7 +790,7 @@ git flow init -d
 
 ### Frameworks, Libraries and Tools / Security
 
-*   [jose-jwt (⭐801)](https://github.com/dvsekhvalnov/jose-jwt) - Library for processing JOSE objects (JWT, JWA, JWS and related).
+*   [jose-jwt (⭐884)](https://github.com/dvsekhvalnov/jose-jwt) - Library for processing JOSE objects (JWT, JWA, JWS and related).
 
 ---
 

@@ -10,31 +10,31 @@
 
 ### Planning Coding Resources / Other
 
-*   [global-indicators (⭐43)](https://github.com/global-healthy-liveable-cities/global-indicators) - Case study projected dedicated to developing global healthy and sustainable city-indicators collaboration.
+*   [global-indicators (⭐66)](https://github.com/global-healthy-liveable-cities/global-indicators) - Case study projected dedicated to developing global healthy and sustainable city-indicators collaboration.
 
 ## [2. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### AI
 
-*   [beehive.lua (⭐11)](https://github.com/drhayes/beehive.lua) - A functional behavior tree implementation.
+*   [beehive.lua (⭐12)](https://github.com/drhayes/beehive.lua) - A functional behavior tree implementation.
 
 ## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Extensions
 
-*   [UseSIWE (⭐18)](https://github.com/random-bits-studio/use-siwe) - React hooks and Next.js API routes that make it super easy to add Sign-In with Ethereum to your app.
+*   [UseSIWE (⭐21)](https://github.com/random-bits-studio/use-siwe) - React hooks and Next.js API routes that make it super easy to add Sign-In with Ethereum to your app.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 
-*   [drie (⭐70)](https://github.com/janvorisek/drie) - A Vue 3 component library for three.js inspired by react-three-fiber.
+*   [drie (⭐77)](https://github.com/janvorisek/drie) - A Vue 3 component library for three.js inspired by react-three-fiber.
 
 ## [5. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Analyzers - API / Meetups
 
-*   [RoboMiri](https://robomiri.com) - RoboMiri is a stable Uptime Monitor that offer a wide range of monitors: cronjob, keyword, website, port, ping. 25 uptime checks with a 3 minutes interval checks for free. Alerts via Phone Call, SMS, Email and Web Hook.
+*   [RoboMiri](https://robomiri.com) - RoboMiri is a stable Uptime Monitor that offers a wide range of monitors: cronjob, keyword, website, port, ping. 25 uptime checks with 3 minutes interval checks for free. Alerts via Phone Call, SMS, Email, and WebHook.
 
 ## [6. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -48,21 +48,17 @@
 
 ### Language / Diagnostics
 
-*   [niuiic/translate.nvim (⭐11)](https://github.com/niuiic/translate.nvim) - Invoke any translation engine via shell command.
-
-### Project / Diagnostics
-
-*   [jinzhongjia/PS\_manager.nvim (⭐5)](https://github.com/jinzhongjia/PS_manager.nvim) - Multi-project management, switch pwd automatically.
+*   [niuiic/translate.nvim (⭐25)](https://github.com/niuiic/translate.nvim) - Invoke any translation engine via shell command.
 
 ## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Video
 
-*   [vidmerger (⭐66)](https://github.com/TGotwig/vidmerger) — 📼 Merge video & audio files via CLI
+*   [vidmerger (⭐73)](https://github.com/TGotwig/vidmerger) — 📼 Merge video & audio files via CLI
 
 ### Libraries / Parsing
 
-*   [comex/rust-shlex (⭐59)](https://github.com/comex/rust-shlex) \[[shlex](https://crates.io/crates/shlex)] — Split a string into shell words, like Python's shlex. [![build badge](https://github.com/comex/rust-shlex/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/comex/rust-shlex/actions/workflows/test.yml)
+*   [comex/rust-shlex (⭐68)](https://github.com/comex/rust-shlex) \[[shlex](https://crates.io/crates/shlex)] — Split a string into shell words, like Python's shlex. [![build badge](https://github.com/comex/rust-shlex/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/comex/rust-shlex/actions/workflows/test.yml)
 
 ## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -80,21 +76,21 @@
 
 ### Java / React
 
-*   [graphql-orchestrator-java (⭐39)](https://github.com/graph-quilt/graphql-orchestrator-java) GraphQL Orchestrator/Gateway library that supports Schema Stitching and Apollo Federation directives to combine schema from multiple GraphQL microservices into a single unified schema.
+*   [graphql-orchestrator-java (⭐53)](https://github.com/graph-quilt/graphql-orchestrator-java) GraphQL Orchestrator/Gateway library that supports Schema Stitching and Apollo Federation directives to combine schema from multiple GraphQL microservices into a single unified schema.
 
 ## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [WBO (⭐1.6k)](https://github.com/lovasoa/whitebophir) - Web Whiteboard to collaborate in real-time on schemas, drawings, and notes. ([Demo](https://wbo.ophir.dev/)) `AGPL-3.0` `Nodejs/Docker`
+*   [WBO (⭐1.8k)](https://github.com/lovasoa/whitebophir) - Web Whiteboard to collaborate in real-time on schemas, drawings, and notes. ([Demo](https://wbo.ophir.dev/)) `AGPL-3.0` `Nodejs/Docker`
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Isso](https://isso-comments.de/) - Lightweight commenting server written in Python and Javascript. It aims to be a drop-in replacement for Disqus. ([Source Code (⭐4.8k)](https://github.com/posativ/isso)) `MIT` `Python/Docker`
+*   [Isso](https://isso-comments.de/) - Lightweight commenting server written in Python and Javascript. It aims to be a drop-in replacement for Disqus. ([Source Code (⭐4.9k)](https://github.com/posativ/isso)) `MIT` `Python/Docker`
 
 ### Software / Software Development - Project Management
 
-*   [Gitblit](https://www.gitblit.com/) - Pure Java stack for managing, viewing, and serving Git repositories. ([Source Code (⭐2.2k)](https://github.com/gitblit/gitblit)) `Apache-2.0` `Java`
+*   [Gitblit](https://www.gitblit.com/) - Pure Java stack for managing, viewing, and serving Git repositories. ([Source Code (⭐2.2k)](https://github.com/gitblit-org/gitblit)) `Apache-2.0` `Java`
 
 ### List of Licenses / Wikis
 
@@ -142,5 +138,5 @@
 
 ---
 
-- Prev: [Jan 30, 2023](/content/2023/01/30/README.md)
+- Prev: [Jan 29, 2023](/content/2023/01/29/README.md)
 - Next: [Jan 27, 2023](/content/2023/01/27/README.md)

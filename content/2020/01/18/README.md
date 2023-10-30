@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 18, 2020
 
-20 awesome lists updated today.
+21 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,9 +20,9 @@
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [CurrencyScoop](https://currencyscoop.com) - Realtime currency data API for fintech apps. Free plan includes 5000 calls per month.
+*   [CurrencyScoop](https://currencyscoop.com) - Realtime currency data API for fintech apps. The free plan includes 5,000 calls per month.
 
 ## [4. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Music Programming
 
-*   [Midica (⭐87)](https://github.com/truj/midica) - MIDI programming language with decompiler and player, supports karaoke.
+*   [Midica (⭐95)](https://github.com/truj/midica) - MIDI programming language with decompiler and player, supports karaoke.
 
 ## [8. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
@@ -75,13 +75,13 @@
 
 ### Open Source / Other
 
-*   [ExifCleaner (⭐1.3k)](https://github.com/szTheory/exifcleaner) - Clean image metadata with drag and drop.
+*   [ExifCleaner (⭐1.4k)](https://github.com/szTheory/exifcleaner) - Clean image metadata with drag and drop.
 
 ## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Image / Backend-Driven
 
-*   [Crop (⭐221)](https://github.com/xclud/flutter_crop) <!--stargazers:xclud/flutter_crop--> - Crop any widget/image in Android, iOS, Web and Desktop by [Mahdi K. Fard](https://github.com/xclud/)
+*   [Crop (⭐239)](https://github.com/xclud/flutter_crop) <!--stargazers:xclud/flutter_crop--> - Crop any widget/image in Android, iOS, Web and Desktop by [Mahdi K. Fard](https://github.com/xclud/)
 
 ## [13. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
@@ -97,7 +97,7 @@
 
 ### Quality / Barcode
 
-*   [swift-mod (⭐97)](https://github.com/ra1028/swift-mod) - A tool for Swift code modification intermediating between code generation and formatting.
+*   [swift-mod (⭐100)](https://github.com/ra1028/swift-mod) - A tool for Swift code modification intermediating between code generation and formatting.
 
 ## [15. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Calculator / Market Research
 
-*   [Cloud Cost Calculator (⭐85)](https://github.com/scalyr/cloud-costs) - Web-based tool for finding the cheapest cloud servers for a given set of requirements.
+*   [Cloud Cost Calculator (⭐86)](https://github.com/scalyr/cloud-costs) - Web-based tool for finding the cheapest cloud servers for a given set of requirements.
 *   [EC2Instances.info](https://ec2instances.info) - Easy Amazon EC2 Instance Comparison.
 
 ### Marketplace / Cloud Resources
@@ -128,7 +128,7 @@
 
 ### Taxes / Currencies
 
-*   [{Digital,Cloud,Electronic,Online} Services VAT Rate Database (⭐86)](https://github.com/kdeldycke/vat-rates) - Centralize applicable VAT rates on foreign online services, for each country of residence (including territorial exceptions).
+*   [{Digital,Cloud,Electronic,Online} Services VAT Rate Database (⭐87)](https://github.com/kdeldycke/vat-rates) - Centralize applicable VAT rates on foreign online services, for each country of residence (including territorial exceptions).
 
 ### Invoice / European VAT
 
@@ -142,18 +142,13 @@
 ### Invoice / Generators
 
 *   [Manta (⭐5.2k)](https://github.com/hql287/Manta) - Flexible invoicing desktop app with beautiful & customizable templates.
-*   [InvoicePlane (⭐2.2k)](https://github.com/InvoicePlane/InvoicePlane) - A self-hosted open-source application for managing your invoices, clients and payments.
+*   [InvoicePlane (⭐2.3k)](https://github.com/InvoicePlane/InvoicePlane) - A self-hosted open-source application for managing your invoices, clients and payments.
 
 ### Payments / Electronic invoices
 
 *   [How to Build an Insurance Company](https://www.moderntreasury.com/journal/how-to-build-an-insurance-company) - The importance of payment ops architecture.
-*   [EU's Late Payment Directive](https://ec.europa.eu/growth/smes/support/late-payment_en) - European rules on applicable fees for late payments.
 *   [High failure rate of Point Of Sale devices in the upper Midwest](https://news.ycombinator.com/item?id=20043944) - The root cause? People wearing a lot of wool in low humidity air, generating a lot of static.
 *   How ACH works: A developer perspective, [part 1](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-1/), [part 2](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-2/), [part 3](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-3/), [part 4](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-4/).
-
-### Payments / Receipt
-
-*   [The humble receipt gets a brilliant redesign](https://www.fastcompany.com/90347782/the-humble-receipt-gets-a-brilliant-redesign) - When a Netflix data engineer revisit receipts.
 
 ### Payments / Credit Cards
 
@@ -163,7 +158,7 @@
 
 ### Fraud / Online Payments
 
-*   [Awesome List of IAM: Fraud links (⭐1.1k)](https://github.com/kdeldycke/awesome-iam#fraud) - Section dedicated to fraud management related to user accounts, from our sister repository.
+*   [Awesome List of IAM: Fraud links (⭐1.3k)](https://github.com/kdeldycke/awesome-iam#fraud) - Section dedicated to fraud management related to user accounts, from our sister repository.
 
 ### Fraud / Cards
 
@@ -181,7 +176,6 @@
 
 ### UX/UI / Billing
 
-*   [Apple Subscriptions HIG](https://developer.apple.com/design/human-interface-guidelines/subscriptions/overview/) - Guide and recommendation on how to make [auto-renewable subscriptions](https://developer.apple.com/app-store/subscriptions/) user-friendly.
 *   [Which has a higher conversion rate: A single long ecommerce checkout form or a multi-step one?](https://capitalandgrowth.org/questions/2055/which-has-a-higher-conversion-rate-a-single-long-e.html) - Focus first on other things in the cart, like easing anxiety and second-guessing by adding reassurance (trust marks, testimonials) near the credit card and completion steps, as well as some guarantee language that you may have used earlier in the product exploration process.
 
 ### Competitive Analysis / Cloud providers
@@ -237,12 +231,18 @@
 
 *   [Rector (⭐6.1k)](https://github.com/rectorphp/rector) - A tool to upgrade and refactor code.
 
-## [20. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [20. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Assembly Language / Blazor
+
+*   [PC Assembly Language](http://pacman128.github.io/pcasm/) - P. A. Carter
+
+## [21. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / User Interfaces
 
 *   [Proof General](https://proofgeneral.github.io) - Generic interface for proof assistants based on the extensible, customizable text editor Emacs.
-*   [Jupyter kernel for Coq (⭐82)](https://github.com/EugeneLoy/coq_jupyter) - Coq support for the Jupyter Notebook web environment.
+*   [Jupyter kernel for Coq (⭐87)](https://github.com/EugeneLoy/coq_jupyter) - Coq support for the Jupyter Notebook web environment.
 
 ---
 

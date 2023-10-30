@@ -10,7 +10,7 @@
 
 ### Icons / Icon Fonts
 
-*   [Batch Icons](http://adamwhitcroft.com/batch/) - [:copyright:](https://github.com/AdamWhitcroft/Batch/blob/master/License.txt) Icon set of 300+ icons, which is part of [inuit.css (⭐3.9k)](https://github.com/csswizardry/inuit.css).
+*   [Batch Icons](http://adamwhitcroft.com/batch/) - [:copyright:](https://github.com/AdamWhitcroft/Batch/blob/master/License.txt) Icon set of 300+ icons, which is part of [inuit.css (⭐3.8k)](https://github.com/csswizardry/inuit.css).
 *   [WeLoveIconFonts](http://weloveiconfonts.com) – A free & open source icon fonts hosting service (like Google Web Fonts, but icon fonts only).
 
 ## [2. Awesome Github](/content/phillipadsmith/awesome-github/README.md)

@@ -52,15 +52,15 @@
 
 ### Messaging Protocol / Barcode
 
-*   [CocoaMQTT (⭐1.4k)](https://github.com/emqx/CocoaMQTT) - MQTT for iOS and OS X.
+*   [CocoaMQTT (⭐1.5k)](https://github.com/emqx/CocoaMQTT) - MQTT for iOS and OS X.
 
 ### Text / Barcode
 
-*   [Tagging (⭐111)](https://github.com/k-lpmg/Tagging) - A TextView that provides easy to use tagging feature for Mention or Hashtag.
+*   [Tagging (⭐117)](https://github.com/k-lpmg/Tagging) - A TextView that provides easy to use tagging feature for Mention or Hashtag.
 
 ### Transition / Barcode
 
-*   [SamuraiTransition (⭐274)](https://github.com/hachinobu/SamuraiTransition) - Swift based library providing a collection of ViewController transitions featuring a number of neat cutting animations.
+*   [SamuraiTransition (⭐276)](https://github.com/hachinobu/SamuraiTransition) - Swift based library providing a collection of ViewController transitions featuring a number of neat cutting animations.
 
 ## [6. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Form Logic / Mouse Events
 
-*   [surveyjs (⭐3.6k)](https://github.com/surveyjs/survey-library) - The advanced Survey and Form library
+*   [surveyjs (⭐3.8k)](https://github.com/surveyjs/survey-library) - The advanced Survey and Form library
 
 ## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

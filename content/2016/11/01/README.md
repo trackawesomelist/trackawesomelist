@@ -51,7 +51,7 @@
 
 ### Errors and Exception Handling
 
-*   [sentry-elixir (⭐554)](https://github.com/getsentry/sentry-elixir) - The Official Elixir client for [Sentry](https://sentry.io/).
+*   [sentry-elixir (⭐571)](https://github.com/getsentry/sentry-elixir) - The Official Elixir client for [Sentry](https://sentry.io/).
 
 ### Miscellaneous
 
@@ -61,7 +61,7 @@
 
 ### Database
 
-*   [Postgres (⭐127)](https://github.com/stablekernel/postgresql-dart) - A PostgreSQL database driver that uses the extended, binary protocol for more efficient and secure queries.
+*   [Postgres (⭐130)](https://github.com/stablekernel/postgresql-dart) - A PostgreSQL database driver that uses the extended, binary protocol for more efficient and secure queries.
 
 ## [8. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Traffic Analysis/Inspection
 
-*   [Tcptrace (⭐65)](https://github.com/blitz/tcptrace): A tool written by Shawn Ostermann at Ohio University, for analysis of TCP dump files. It can take as input the files produced by several popular packet- capture programs, including tcpdump, snoop, etherpeek, HP Net Metrix, and WinDump. tcptrace can produce several different types of output containing information on each connection seen, such as elapsed time, bytes and segments sent and received, retransmissions, round trip times, window advertisements, throughput, and more. It can also produce a number of graphs for further analysis.
+*   [Tcptrace (⭐68)](https://github.com/blitz/tcptrace): A tool written by Shawn Ostermann at Ohio University, for analysis of TCP dump files. It can take as input the files produced by several popular packet- capture programs, including tcpdump, snoop, etherpeek, HP Net Metrix, and WinDump. tcptrace can produce several different types of output containing information on each connection seen, such as elapsed time, bytes and segments sent and received, retransmissions, round trip times, window advertisements, throughput, and more. It can also produce a number of graphs for further analysis.
 
 ## [13. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 

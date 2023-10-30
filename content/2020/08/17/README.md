@@ -30,7 +30,7 @@
 
 ## [3. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Components / MIT
+### Components / Apache License
 
 *   [simple-components](http://www.dmitry-kazakov.de/ada/components.htm) - ASN.1, MQTT client and server/broker implementation, B-trees, Multiple connection TCP servers, Chebyshev series, Mutexes, Cryptography, Objects and handles to, Doubly-linked webs and lists, ODBC bindings, Blackboards (lock-free), OpenSSL bindings, ELV/eQ-3 MAX! client implementation, Parsers, Events (plain, pulse, array of), Persistent objects and handles to, GNUTLS bindings, Persistent storage and handles to, Graphs (directed, weighted, acyclic, trees), Pools, HTTP implementation, Sets and maps, FIFO (lock-free), SMTP client implementation, IEEE 754, SQLite bindings, Inter-process communication, Stacks, Interfacing Julia language, Streams, JSON, Strings editing, LDAP, Tables (maps of strings), MODBUS client implementation, Unbounded arrays.
 
@@ -44,12 +44,12 @@
 
 ### Endpoint / Mobile / Android / iOS
 
-*   [hardened\_malloc (⭐948)](https://github.com/GrapheneOS/hardened_malloc) - Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms. It will gain more portability / integration over time.
+*   [hardened\_malloc (⭐1k)](https://github.com/GrapheneOS/hardened_malloc) - Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms. It will gain more portability / integration over time.
 
 ### DevOps / Development
 
 *   [Securing DevOps](https://manning.com/books/securing-devops) - A book on Security techniques for DevOps that reviews state of the art practices used in securing web applications and their infrastructure.
-*   [ansible-os-hardening (⭐3.2k)](https://github.com/dev-sec/ansible-os-hardening) - Ansible role for OS hardening
+*   [ansible-os-hardening (⭐3.4k)](https://github.com/dev-sec/ansible-os-hardening) - Ansible role for OS hardening
 
 ## [6. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -65,15 +65,15 @@
 
 ### API Builder and Discovery
 
-*   [Blueprinter (⭐944)](https://github.com/procore/blueprinter) - Simple, Fast, and Declarative Serialization Library for Ruby.
+*   [Blueprinter (⭐989)](https://github.com/procore/blueprinter) - Simple, Fast, and Declarative Serialization Library for Ruby.
 
 ### GUI
 
-*   [Glimmer (⭐341)](https://github.com/AndyObtiva/glimmer) - Ruby DSL for SWT
+*   [Glimmer (⭐406)](https://github.com/AndyObtiva/glimmer) - Ruby DSL for SWT
 
 ### Web Crawling
 
-*   [Kimurai (⭐967)](https://github.com/vifreefly/kimuraframework) - A modern web scraping framework written in Ruby which works out of box with Headless Chromium/Firefox, PhantomJS, or simple HTTP requests and allows to scrape and interact with JavaScript rendered websites.
+*   [Kimurai (⭐984)](https://github.com/vifreefly/kimuraframework) - A modern web scraping framework written in Ruby which works out of box with Headless Chromium/Firefox, PhantomJS, or simple HTTP requests and allows to scrape and interact with JavaScript rendered websites.
 
 ## [8. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
@@ -120,13 +120,13 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-component-media-queries (⭐74)](https://github.com/CyberAP/vue-component-media-queries) - MatchMedia component library for Vue.
+*   [vue-component-media-queries (⭐73)](https://github.com/CyberAP/vue-component-media-queries) - MatchMedia component library for Vue.
 
 ## [15. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
-*   [DevAndDev (⭐39)](https://github.com/alepez/devand) - A website where developers can find pair-programming partners. Written in Rust, Yew frontend.
+*   [DevAndDev (⭐40)](https://github.com/alepez/devand) - A website where developers can find pair-programming partners. Written in Rust, Yew frontend.
 
 ---
 

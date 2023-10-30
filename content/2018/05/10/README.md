@@ -10,7 +10,7 @@
 
 ### Resources / Other Lists
 
-*   [Awesome Humane Tech (⭐2.8k)](https://github.com/engagingspaces/awesome-humane-tech) - List of projects focusing on ethics, transparency, and privacy.
+*   [Awesome Humane Tech (⭐2.9k)](https://github.com/engagingspaces/awesome-humane-tech) - List of projects focusing on ethics, transparency, and privacy.
 
 ## [2. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
@@ -26,8 +26,8 @@
 
 ### System
 
-*   [baked\_file\_system (⭐170)](https://github.com/schovi/baked_file_system) - Virtual file system implementation
-*   [hardware (⭐71)](https://github.com/crystal-community/hardware) - Get CPU, Memory and Network informations of the running OS and its processes
+*   [baked\_file\_system (⭐171)](https://github.com/schovi/baked_file_system) - Virtual file system implementation
+*   [hardware (⭐70)](https://github.com/crystal-community/hardware) - Get CPU, Memory and Network informations of the running OS and its processes
 
 ## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-router-user-roles (⭐241)](https://github.com/anthonygore/vue-router-user-roles) - Protects routes based on user roles. Add your own authentication.
+*   [vue-router-user-roles (⭐242)](https://github.com/anthonygore/vue-router-user-roles) - Protects routes based on user roles. Add your own authentication.
 
 ## [6. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
@@ -64,21 +64,21 @@
 
 ### Logging / Barcode
 
-*   [TraceLog (⭐51)](https://github.com/tonystone/tracelog) :penguin: - Dead Simple: logging the way it's meant to be!  Runs on iOS, macOS, and Linux.
+*   [TraceLog (⭐52)](https://github.com/tonystone/tracelog) :penguin: - Dead Simple: logging the way it's meant to be!  Runs on iOS, macOS, and Linux.
 
 ### Scripting / Barcode
 
-*   [Swift for Scripting (⭐234)](https://github.com/artemnovichkov/Swift-For-Scripting) - A hand-curated collection of useful and informative scripting material.
+*   [Swift for Scripting (⭐266)](https://github.com/artemnovichkov/Swift-For-Scripting) - A hand-curated collection of useful and informative scripting material.
 
 ## [9. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 
 ### Debug
 
-*   [CodeXL (⭐974)](https://github.com/GPUOpen-Tools/CodeXL) - AMD's tool suite that includes debugger, profiler and frame/shader analysis.
+*   [CodeXL (⭐986)](https://github.com/GPUOpen-Tools/CodeXL) - AMD's tool suite that includes debugger, profiler and frame/shader analysis.
 
 ### Libraries
 
-*   [assimp (⭐8.3k)](https://github.com/assimp/assimp) - Portable library to import 3D models in a uniform manner.
+*   [assimp (⭐9.4k)](https://github.com/assimp/assimp) - Portable library to import 3D models in a uniform manner.
 
 ### Videos
 

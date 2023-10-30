@@ -35,18 +35,18 @@
 
 ### Generation
 
-*   [dchest/captcha (⭐1.6k)](https://github.com/dchest/captcha) - Go package captcha implements generation and verification of image and audio CAPTCHAs.
-*   [lepture/captcha (⭐852)](https://github.com/lepture/captcha) - A captcha library that generates audio and image CAPTCHAs.
-*   [lemonce/svg-captcha (⭐1.5k)](https://github.com/lemonce/svg-captcha) - Generate svg captcha in Node.js.
-*   [DoubleSpout/ccap (⭐478)](https://github.com/DoubleSpout/ccap) - Node.js generate captcha using c++ library CImg without install any other lib or software.
-*   [contra/captchagen (⭐173)](https://github.com/contra/captchagen) - Captcha generation for Node.js.
-*   [jineshfrancs/CaptchaImageView (⭐610)](https://github.com/jineshfrancs/CaptchaImageView) - Custom ImageView to generate captcha image.
-*   [mcxtzhang/SwipeCaptcha (⭐703)](https://github.com/mcxtzhang/SwipeCaptcha) - Swipe captcha of Android platform.
-*   [mojocn/base64Captcha (⭐1.6k)](https://github.com/mojocn/base64Captcha) - Golang base64-captcha supports digits, numbers,alphabet, arithmetic, audio and digit-alphabet captcha.
+*   [dchest/captcha (⭐1.8k)](https://github.com/dchest/captcha) - Go package captcha implements generation and verification of image and audio CAPTCHAs.
+*   [lepture/captcha (⭐923)](https://github.com/lepture/captcha) - A captcha library that generates audio and image CAPTCHAs.
+*   [lemonce/svg-captcha (⭐1.8k)](https://github.com/lemonce/svg-captcha) - Generate svg captcha in Node.js.
+*   [DoubleSpout/ccap (⭐481)](https://github.com/DoubleSpout/ccap) - Node.js generate captcha using c++ library CImg without install any other lib or software.
+*   [contra/captchagen (⭐179)](https://github.com/contra/captchagen) - Captcha generation for Node.js.
+*   [jineshfrancs/CaptchaImageView (⭐611)](https://github.com/jineshfrancs/CaptchaImageView) - Custom ImageView to generate captcha image.
+*   [mcxtzhang/SwipeCaptcha (⭐707)](https://github.com/mcxtzhang/SwipeCaptcha) - Swipe captcha of Android platform.
+*   [mojocn/base64Captcha (⭐1.9k)](https://github.com/mojocn/base64Captcha) - Golang base64-captcha supports digits, numbers,alphabet, arithmetic, audio and digit-alphabet captcha.
 
 ### Crack / Chinese
 
-*   [nickliqian/cnn\_captcha (⭐2.4k)](https://github.com/nickliqian/cnn_captcha) - Use cnn recognize captcha by tensorflow.
+*   [nickliqian/cnn\_captcha (⭐2.6k)](https://github.com/nickliqian/cnn_captcha) - Use cnn recognize captcha by tensorflow.
 
 ## [6. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
@@ -99,11 +99,11 @@
 
 ### Network Tools / Protocol Analyzers and Sniffers
 
-*   [sniffglue (⭐912)](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer.
+*   [sniffglue (⭐977)](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer.
 
 ### Reverse Engineering / Reverse Engineering Tools
 
-*   [boxxy (⭐67)](https://github.com/kpcyrd/boxxy-rs) - Linkable sandbox explorer.
+*   [boxxy (⭐72)](https://github.com/kpcyrd/boxxy-rs) - Linkable sandbox explorer.
 
 ---
 

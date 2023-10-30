@@ -29,7 +29,7 @@
 
 ### Animations / Other
 
-*   [GreenSock-JS (⭐16k)](https://github.com/greensock/GreenSock-JS) - High-performance HTML5 animations that work in all major browsers.
+*   [GreenSock-JS (⭐17k)](https://github.com/greensock/GreenSock-JS) - High-performance HTML5 animations that work in all major browsers.
 
 ## [5. Awesome Play1](/content/PerfectCarl/awesome-play1/README.md)
 
@@ -41,12 +41,12 @@
 
 ### API
 
-*   [WebAPI Contrib (⭐774)](https://github.com/WebApiContrib/WebAPIContrib) - Collection of open source projects to help improve your work with ASP.NET Web API
+*   [WebAPI Contrib (⭐770)](https://github.com/WebApiContrib/WebAPIContrib) - Collection of open source projects to help improve your work with ASP.NET Web API
 
 ### Assets
 
-*   [Cassette (⭐537)](https://github.com/andrewdavey/cassette) - Manages .NET web application assets (scripts, css and templates)
-*   [Bundler (⭐266)](https://github.com/ServiceStack/Bundler) - Compile & Minify Less/Sass/Stylus/Css/JS/CoffeeScript/LiveScript files. Integrates with MVC and ServiceStack
+*   [Cassette (⭐535)](https://github.com/andrewdavey/cassette) - Manages .NET web application assets (scripts, css and templates)
+*   [Bundler (⭐265)](https://github.com/ServiceStack/Bundler) - Compile & Minify Less/Sass/Stylus/Css/JS/CoffeeScript/LiveScript files. Integrates with MVC and ServiceStack
 
 ### Authentication and Authorization
 
@@ -58,7 +58,7 @@
 
 ### Caching
 
-*   [CacheCow (⭐825)](https://github.com/aliostad/CacheCow) - An ASP.NET Web API HTTP caching implementation both on client and server
+*   [CacheCow (⭐838)](https://github.com/aliostad/CacheCow) - An ASP.NET Web API HTTP caching implementation both on client and server
 
 ### Code Analysis and Metrics
 
@@ -70,12 +70,12 @@
 
 ### Internationalization
 
-*   [i18n (⭐546)](https://github.com/turquoiseowl/i18n) - Smart internationalization for ASP.NET MVC
+*   [i18n (⭐551)](https://github.com/turquoiseowl/i18n) - Smart internationalization for ASP.NET MVC
 
 ### IoC
 
 *   [Castle Windsor (⭐1.5k)](https://github.com/castleproject/Windsor) - Castle Windsor is best of breed, mature Inversion of Control container available for .NET and Silverlight
-*   [Autofac (⭐4.2k)](https://github.com/autofac/Autofac) - An addictive .NET IoC container
+*   [Autofac (⭐4.3k)](https://github.com/autofac/Autofac) - An addictive .NET IoC container
 
 ### Logging
 
@@ -89,16 +89,16 @@
 ### Queue
 
 *   [NServiceBus (⭐2k)](https://github.com/Particular/NServiceBus) - The most popular service bus for .NET
-*   [NetMQ (⭐2.7k)](https://github.com/zeromq/netmq) - NetMQ is 100% native C# port of ZeroMQ
+*   [NetMQ (⭐2.8k)](https://github.com/zeromq/netmq) - NetMQ is 100% native C# port of ZeroMQ
 
 ### SDK and API Clients
 
-*   [AWS SDK (⭐1.9k)](https://github.com/aws/aws-sdk-net) - The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services
+*   [AWS SDK (⭐2k)](https://github.com/aws/aws-sdk-net) - The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services
 *   [Octokit.NET (⭐2.5k)](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
 
 ### Testing
 
-*   [AutoFixture (⭐3k)](https://github.com/AutoFixture/AutoFixture) - AutoFixture is an open source framework for .NET designed to minimize the 'Arrange' phase of your unit tests
+*   [AutoFixture (⭐3.1k)](https://github.com/AutoFixture/AutoFixture) - AutoFixture is an open source framework for .NET designed to minimize the 'Arrange' phase of your unit tests
 
 ### Web Servers
 
@@ -106,8 +106,8 @@
 
 ### WebSocket
 
-*   [Fleck (⭐2.1k)](https://github.com/statianzo/Fleck) - Fleck is a WebSocket server implementation in C#. Branched from the Nugget project
-*   [Websocket-Sharp (⭐5.1k)](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
+*   [Fleck (⭐2.2k)](https://github.com/statianzo/Fleck) - Fleck is a WebSocket server implementation in C#. Branched from the Nugget project
+*   [Websocket-Sharp (⭐5.3k)](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
 
 ## [7. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 
@@ -151,7 +151,7 @@
 
 ### Java / Data Analysis / Data Visualization
 
-*   [Spark (⭐36k)](https://github.com/apache/spark) - Spark is a fast and general engine for large-scale data processing.
+*   [Spark (⭐37k)](https://github.com/apache/spark) - Spark is a fast and general engine for large-scale data processing.
 
 ### JavaScript / Data Analysis / Data Visualization
 
@@ -161,11 +161,11 @@
 ### Julia / General-Purpose Machine Learning
 
 *   [PGM (⭐51)](https://github.com/JuliaStats/PGM.jl) - A Julia framework for probabilistic graphical models.
-*   [Clustering (⭐310)](https://github.com/JuliaStats/Clustering.jl) - Basic functions for clustering data: k-means, dp-means, etc.
+*   [Clustering (⭐322)](https://github.com/JuliaStats/Clustering.jl) - Basic functions for clustering data: k-means, dp-means, etc.
 
 ### Julia / Data Analysis / Data Visualization
 
-*   [Distributions (⭐986)](https://github.com/JuliaStats/Distributions.jl) - A Julia package for probability distributions and associated functions.
+*   [Distributions (⭐1k)](https://github.com/JuliaStats/Distributions.jl) - A Julia package for probability distributions and associated functions.
 
 ### Lua / General-Purpose Machine Learning
 
@@ -202,7 +202,7 @@
 
 ### .NET / Natural Language Processing
 
-*   [Stanford.NLP for .NET (⭐572)](https://github.com/sergey-tihon/Stanford.NLP.NET/) - A full port of Stanford NLP packages to .NET and also available precompiled as a NuGet package.
+*   [Stanford.NLP for .NET (⭐582)](https://github.com/sergey-tihon/Stanford.NLP.NET/) - A full port of Stanford NLP packages to .NET and also available precompiled as a NuGet package.
 
 ### Python / Computer Vision
 
@@ -216,7 +216,7 @@
 
 *   [MLlib in Apache Spark](http://spark.apache.org/docs/latest/mllib-guide.html) - Distributed machine learning library in Spark
 *   [BigML](https://bigml.com) - A library that contacts external servers.
-*   [Restricted Boltzmann Machines (⭐933)](https://github.com/echen/restricted-boltzmann-machines) -Restricted Boltzmann Machines in Python. \[DEEP LEARNING]
+*   [Restricted Boltzmann Machines (⭐930)](https://github.com/echen/restricted-boltzmann-machines) -Restricted Boltzmann Machines in Python. \[DEEP LEARNING]
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
@@ -229,7 +229,7 @@
 
 ### Ruby / General-Purpose Machine Learning
 
-*   [CardMagic-Classifier (⭐653)](https://github.com/cardmagic/classifier) - A general classifier module to allow Bayesian and other types of classifications.
+*   [CardMagic-Classifier (⭐655)](https://github.com/cardmagic/classifier) - A general classifier module to allow Bayesian and other types of classifications.
 
 ### Ruby / Data Analysis / Data Visualization
 
@@ -237,17 +237,17 @@
 
 ### Ruby / Misc
 
-*   [Big Data For Chimps (⭐167)](https://github.com/infochimps-labs/big_data_for_chimps)
+*   [Big Data For Chimps (⭐168)](https://github.com/infochimps-labs/big_data_for_chimps)
 
 ### Scala / Data Analysis / Data Visualization
 
-*   [BIDMat (⭐265)](https://github.com/BIDData/BIDMat) - CPU and GPU-accelerated matrix library intended to support large-scale exploratory data analysis.
+*   [BIDMat (⭐266)](https://github.com/BIDData/BIDMat) - CPU and GPU-accelerated matrix library intended to support large-scale exploratory data analysis.
 
 ### Scala / General-Purpose Machine Learning
 
-*   [adam (⭐948)](https://github.com/bigdatagenomics/adam) - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed.
+*   [adam (⭐958)](https://github.com/bigdatagenomics/adam) - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed.
 *   [bioscala (⭐105)](https://github.com/bioscala/bioscala) - Bioinformatics for the Scala programming language
-*   [BIDMach (⭐915)](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
+*   [BIDMach (⭐912)](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
 
 ---
 

@@ -25,7 +25,7 @@
 
 ### Computer Vision
 
-*   [clj-tesseract (⭐53)](https://github.com/antoniogarrote/clj-tesseract)
+*   [clj-tesseract (⭐55)](https://github.com/antoniogarrote/clj-tesseract)
 *   [vision](http://nakkaya.com/vision.html)
 
 ## [3. Awesome Radio](/content/kyleterry/awesome-radio/README.md)

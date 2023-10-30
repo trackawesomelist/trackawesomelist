@@ -24,11 +24,11 @@
 
 ### Code Analysis and Metrics
 
-*   [Pronto (⭐2.5k)](https://github.com/mmozuras/pronto) - Quick automated code review of your changes.
+*   [Pronto (⭐2.6k)](https://github.com/mmozuras/pronto) - Quick automated code review of your changes.
 
 ### Database Drivers
 
-*   [SQL Server (⭐953)](https://github.com/rails-sqlserver/activerecord-sqlserver-adapter) - The SQL Server adapter for ActiveRecord.
+*   [SQL Server (⭐954)](https://github.com/rails-sqlserver/activerecord-sqlserver-adapter) - The SQL Server adapter for ActiveRecord.
 
 ### Database Tools
 

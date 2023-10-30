@@ -17,7 +17,7 @@
 
 ### Tools
 
-*   [ipfs-action (⭐142)](https://github.com/aquiladev/ipfs-action) - GitHub Action for delivery of static websites.
+*   [ipfs-action (⭐172)](https://github.com/aquiladev/ipfs-action) - GitHub Action for delivery of static websites.
 
 ## [3. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -28,9 +28,9 @@
 
 ## [4. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### ORM
+### ORM / Text-Based User Interfaces
 
-*   [Permazen (⭐323)](https://github.com/permazen/permazen) - Language-natural persistence layer.
+*   [Permazen (⭐385)](https://github.com/permazen/permazen) - Language-natural persistence layer.
 
 ## [5. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
@@ -50,12 +50,12 @@
 
 *   Testing in Cloud
     *   Kubernetes
-        *   [jmeter-kubernetes (⭐330)](https://github.com/kubernauts/jmeter-kubernetes) - JMeter cluster support for Kubernetes and OpenShift.
-        *   [jmeter-k8s-starterkit (⭐53)](https://github.com/Rbillon59/jmeter-k8s-starterkit) - JMeter k8s starter kit, with live test reporting, JMeter monitoring, k8s monitoring and mock as a service.
-        *   [kangal (⭐140)](https://github.com/hellofresh/kangal) - Kubernetes and Go Automatic Loader solution to run performance tests in Kubernetes cluster using multiple load generators.
+        *   [jmeter-kubernetes (⭐345)](https://github.com/kubernauts/jmeter-kubernetes) - JMeter cluster support for Kubernetes and OpenShift.
+        *   [jmeter-k8s-starterkit (⭐61)](https://github.com/Rbillon59/jmeter-k8s-starterkit) - JMeter k8s starter kit, with live test reporting, JMeter monitoring, k8s monitoring and mock as a service.
+        *   [kangal (⭐146)](https://github.com/hellofresh/kangal) - Kubernetes and Go Automatic Loader solution to run performance tests in Kubernetes cluster using multiple load generators.
         *   [aks\_testing\_fwk (⭐36)](https://github.com/petegrimsdale/aks_testing_fwk) - AKS-based scalable JMeter test framework with Grafana reporting.
     *   Amazon Web Services
-        *   [jmeter-ec2 (⭐457)](https://github.com/oliverlloyd/jmeter-ec2/) - Automates running Apache JMeter on Amazon EC2.
+        *   [jmeter-ec2 (⭐461)](https://github.com/oliverlloyd/jmeter-ec2/) - Automates running Apache JMeter on Amazon EC2.
         *   [gee (⭐16)](https://github.com/kowalcj0/gee) - A modified version of JMeter-EC2 project.
         *   [os-jmeter-aws (⭐1)](https://github.com/Aptimyze/os-jmeter-aws) - Run JMeter on multiple Amazon EC2 instances, view results in ELK.
         *   [Load Testing with JMeter and Amazon EC2](https://medium.com/@alttaf/load-testing-with-jmeter-and-amazon-ec2-e143a7350596)
@@ -65,25 +65,25 @@
     *   DigitalOcean
         *   [Lightweight JMeter Cloud](https://docs.google.com/presentation/d/1Yi5C27C3Q0AnT-uw9SRnMeEqXSKLQ8h9O9Jqo1gQiyI/) - Building your own JMeter Cloud using DigitalOcean, JMeter and Docker.
     *   Microsoft Azure
-        *   [Load Testing Pipeline with JMeter, ACI and Terraform (⭐119)](https://github.com/Azure-Samples/jmeter-aci-terraform) - Scalable cloud load/stress testing pipeline solution with Apache JMeter and Terraform to dynamically provision and destroy the required infrastructure on Azure.
+        *   [Load Testing Pipeline with JMeter, ACI and Terraform (⭐120)](https://github.com/Azure-Samples/jmeter-aci-terraform) - Scalable cloud load/stress testing pipeline solution with Apache JMeter and Terraform to dynamically provision and destroy the required infrastructure on Azure.
 
 ## [8. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
-*   [sulu/sulu (⭐955)](https://github.com/sulu/sulu#readme) - Project logo, useful badges, clear instructions on where to find more information and report bugs, GIF screenshots, nice use of emoticons.
+*   [sulu/sulu (⭐1k)](https://github.com/sulu/sulu#readme) - Project logo, useful badges, clear instructions on where to find more information and report bugs, GIF screenshots, nice use of emoticons.
 
 ## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Chart
 
-*   [jscharting-react (⭐16)](https://github.com/jscharting/jscharting-react) – React chart component offering a complete set of chart types and engaging data visualizations with [JSCharting](https://jscharting.com/).
+*   [jscharting-react (⭐17)](https://github.com/jscharting/jscharting-react) – React chart component offering a complete set of chart types and engaging data visualizations with [JSCharting](https://jscharting.com/).
 
 ## [10. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Samples
 
-*   Sascha Willems's [samples (⭐8.3k)](https://github.com/SaschaWillems/Vulkan) and [Deferred rendering of Sponza (⭐159)](https://github.com/SaschaWillems/VulkanSponza) and his talk of [Khronos\_meetup\_munich](https://www.saschawillems.de/blog/2016/04/11/khronos-chapter-munich-vulkan-slides/).
+*   Sascha Willems's [samples (⭐8.9k)](https://github.com/SaschaWillems/Vulkan) and [Deferred rendering of Sponza (⭐168)](https://github.com/SaschaWillems/VulkanSponza) and his talk of [Khronos\_meetup\_munich](https://www.saschawillems.de/blog/2016/04/11/khronos-chapter-munich-vulkan-slides/).
 
 ## [11. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -93,7 +93,7 @@
 
 ### Just for Fun / Image Conversion
 
-*   [dankcli (⭐46)](https://github.com/sggts04/dankcli) - Add text to meme image templates.
+*   [dankcli (⭐47)](https://github.com/sggts04/dankcli) - Add text to meme image templates.
 
 ## [12. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -115,20 +115,19 @@
 
 ### Blazor / Themes
 
-*   [ant-design-blazor (⭐13)](https://github.com/ElderJames/ant-design-blazor) - Ant Design of Blazor(both Server-side and WebAssembly).
+*   [ant-design-blazor (⭐15)](https://github.com/ElderJames/ant-design-blazor) - Ant Design of Blazor(both Server-side and WebAssembly).
 
 ## [15. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Web / Playground
 
-*   :octocat: [Tridactyl (⭐4.4k)](https://github.com/tridactyl/tridactyl) - A Firefox browser addon that replaces browser's control mechanism with one modelled on the one true editor, Vim.
+*   :octocat: [Tridactyl (⭐4.6k)](https://github.com/tridactyl/tridactyl) - A Firefox browser addon that replaces browser's control mechanism with one modelled on the one true editor, Vim.
 
 ## [16. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Recruitment / Job Boards
 
-*   [Hiring Without Whiteboards (⭐34k)](https://github.com/poteto/hiring-without-whiteboards) - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
-*   [TechMeAbroad](https://techmeabroad.com) - List job posts from tech startups and tech companies who will recruit from abroad.
+*   [Hiring Without Whiteboards (⭐38k)](https://github.com/poteto/hiring-without-whiteboards) - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
 
 ### Recruitment / Interview
 
@@ -137,8 +136,8 @@
 
 ### Recruitment / Coding Challenge
 
-*   [FizzBuzz Enterprise Edition (⭐18k)](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A satire of over-engineering for the sake of enterprise-grade software.
-*   [Awesome Interviews (⭐52k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A huge database of questions sorted by topic to get inspiration from.
+*   [FizzBuzz Enterprise Edition (⭐19k)](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A satire of over-engineering for the sake of enterprise-grade software.
+*   [Awesome Interviews (⭐57k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A huge database of questions sorted by topic to get inspiration from.
 
 ### Meetings / 1 on 1
 
@@ -146,7 +145,7 @@
 
 ### Objectives and Key Results (OKR) / Tickets
 
-*   [Awesome OKR (⭐1.4k)](https://github.com/domenicosolazzo/awesome-okr) - There is no shortage of content on how to measure and communicate objectives.
+*   [Awesome OKR (⭐1.5k)](https://github.com/domenicosolazzo/awesome-okr) - There is no shortage of content on how to measure and communicate objectives.
 
 ## [17. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
 
@@ -158,7 +157,7 @@
 
 ### REST and API
 
-*   [Alt3/Swagger plugin](https://github.com/alt3/cakephp-swagger) - Swagger 2.0 documentation for your CakePHP APIs using swagger-php and swagger-ui.
+*   [Alt3/Swagger plugin (⭐62)](https://github.com/alt3/cakephp-swagger) - Swagger 2.0 documentation for your CakePHP APIs using swagger-php and swagger-ui.
 
 ---
 

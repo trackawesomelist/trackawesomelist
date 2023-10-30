@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 06, 2017
 
-4 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,13 +12,7 @@
 
 *   [Making Games with Python & Pygame](http://inventwithpython.com/pygame/)
 
-## [2. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
-
-### Exploits/Vulnerabilities/Bugs / Malware
-
-*   [androguard - Database Android Malwares wiki](https://code.google.com/p/androguard/wiki/DatabaseAndroidMalwares)
-
-## [3. Awesome Couchdb](/content/quangv/awesome-couchdb/README.md)
+## [2. Awesome Couchdb](/content/quangv/awesome-couchdb/README.md)
 
 ### Map/Reduce
 
@@ -63,7 +57,7 @@
 *   [Official CouchDB Wiki (old)](https://wiki.apache.org/couchdb/) - Some things aren't on new wiki yet.
 *   [Cloudant Official Guides](https://docs.cloudant.com/guides.html) - Applicable to CouchDB.
 
-## [4. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [3. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries / Data Structures
 

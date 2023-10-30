@@ -38,19 +38,19 @@
 
 ### QA Tools / Runner
 
-*   [Pre-evaluate code at buildtime (⭐120)](https://github.com/kentcdodds/preval.macro) - Pre-evaluate your front end javascript code at build-time
+*   [Pre-evaluate code at buildtime (⭐125)](https://github.com/kentcdodds/preval.macro) - Pre-evaluate your front end javascript code at build-time
 
 ### API / Runner
 
-*   [wretch (⭐3.9k)](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax.
+*   [wretch (⭐4.2k)](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax.
 
 ## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Compression
 
-*   [Crystar (⭐37)](https://github.com/naqvis/crystar) - Readers and writers of Tar archive format
+*   [Crystar (⭐38)](https://github.com/naqvis/crystar) - Readers and writers of Tar archive format
 *   [snappy (⭐17)](https://github.com/naqvis/snappy) -  Snappy compression format reader/writer for Crystal
-*   [zstd.cr (⭐38)](https://github.com/didactic-drunk/zstd.cr) - Bindings for [Zstandard (⭐20k)](https://github.com/facebook/zstd) compression library
+*   [zstd.cr (⭐39)](https://github.com/didactic-drunk/zstd.cr) - Bindings for [Zstandard (⭐21k)](https://github.com/facebook/zstd) compression library
 
 ## [7. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
@@ -115,11 +115,11 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Pychat (⭐217)](https://github.com/akoidan/pychat) - Self-hosted webrtc video chat (an alternative to Slack)
+*   [Pychat (⭐226)](https://github.com/akoidan/pychat) - Self-hosted webrtc video chat (an alternative to Slack)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-html-to-paper (⭐285)](https://github.com/mycurelabs/vue-html-to-paper) - Vue mixin for paper printing html elements to paper.
+*   [vue-html-to-paper (⭐291)](https://github.com/mycurelabs/vue-html-to-paper) - Vue mixin for paper printing html elements to paper.
 
 ## [13. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -135,11 +135,11 @@
 
 ### Tools / Dynamic Analysis Tools
 
-*   [ARTist](https://artist.cispa.saarland) - a flexible open source instrumentation and hybrid analysis framework for Android apps and Android's java middleware. It is based on the Android Runtime's (ART) compiler and modifies code during on-device compilation.
+*   [ARTist](https://artist.cispa.saarland) - a flexible open-source instrumentation and hybrid analysis framework for Android apps and Android's Java middleware. It is based on the Android Runtime's (ART) compiler and modifies code during on-device compilation.
 
 ### Tools / Reverse Engineering
 
-*   [apk-mitm (⭐2.7k)](https://github.com/shroudedcode/apk-mitm) - A CLI application that prepares Android APK files for HTTPS inspection
+*   [apk-mitm (⭐2.9k)](https://github.com/shroudedcode/apk-mitm) - A CLI application that prepares Android APK files for HTTPS inspection
 
 ---
 

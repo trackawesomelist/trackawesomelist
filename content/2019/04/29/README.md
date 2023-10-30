@@ -11,7 +11,7 @@
 ### File System Listener
 
 *   [Guard::LiveReload (⭐2.1k)](https://github.com/guard/guard-livereload) - Automatically reload your browser when 'view' files are modified.
-*   [Rerun (⭐943)](https://github.com/alexch/rerun) - Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X.
+*   [Rerun (⭐956)](https://github.com/alexch/rerun) - Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X.
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -27,7 +27,7 @@
 
 ### Related Awesome Lists / Mocking
 
-*   [Java Developer Roadmap (⭐3.2k)](https://github.com/s4kibs4mi/java-developer-roadmap)
+*   [Java Developer Roadmap (⭐3.5k)](https://github.com/s4kibs4mi/java-developer-roadmap)
 
 ## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -52,19 +52,19 @@
 
 ### Packages / Command-line apps
 
-*   [npm-name (⭐160)](https://github.com/sindresorhus/npm-name) - Check a package name's availability on npm.
+*   [npm-name (⭐162)](https://github.com/sindresorhus/npm-name) - Check a package name's availability on npm.
 
 ### Packages / Date
 
-*   [Day.js (⭐43k)](https://github.com/iamkun/dayjs) - Immutable date library alternative to Moment.js.
+*   [Day.js (⭐44k)](https://github.com/iamkun/dayjs) - Immutable date library alternative to Moment.js.
 
 ### Packages / Job queues
 
-*   [RedisSMQ (⭐527)](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue with real-time monitoring.
+*   [RedisSMQ (⭐545)](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue with real-time monitoring.
 
 ### Packages / Natural language processing
 
-*   [nlp.js (⭐5.6k)](https://github.com/axa-group/nlp.js) - Building bots, with entity extraction, sentiment analysis, automatic language identify, and more.
+*   [nlp.js (⭐5.9k)](https://github.com/axa-group/nlp.js) - Building bots, with entity extraction, sentiment analysis, automatic language identify, and more.
 
 ### Resources / Books
 

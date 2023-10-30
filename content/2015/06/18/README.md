@@ -22,13 +22,13 @@
 
 ### Templating Engines / Runner
 
-*   [xtemplate (⭐555)](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
+*   [xtemplate (⭐558)](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
 
 ## [4. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
-*   [thefuck (⭐75k)](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
+*   [thefuck (⭐78k)](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
 
 ### Customization / Directory Navigation
 
@@ -36,7 +36,7 @@
 
 ### For Developers / Directory Navigation
 
-*   [git-open (⭐3k)](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser
+*   [git-open (⭐3.1k)](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser
 
 ## [5. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

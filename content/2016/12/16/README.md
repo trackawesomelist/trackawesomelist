@@ -10,7 +10,7 @@
 
 ### Frameworks, Libraries and Tools / Mail
 
-*   [MailBody (⭐155)](https://github.com/doxakis/MailBody) - Create transactional email with a fluent interface (.NET).
+*   [MailBody (⭐154)](https://github.com/doxakis/MailBody) - Create transactional email with a fluent interface (.NET).
 
 ## [2. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Third-party APIs
 
-*   [boto3 (⭐8k)](https://github.com/boto/boto3) - Python interface to Amazon Web Services.
+*   [boto3 (⭐8.2k)](https://github.com/boto/boto3) - Python interface to Amazon Web Services.
 
 ## [8. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Example Projects
 
-*   [Angular Webapp secured with Keycloak (⭐322)](https://github.com/CodepediaOrg/bookmarks.dev)
+*   [Angular Webapp secured with Keycloak (⭐334)](https://github.com/CodepediaOrg/bookmarks.dev)
 
 ### Miscellaneous
 
@@ -20,7 +20,7 @@
 
 ### Visualization
 
-*   [tqdm (⭐24k)](https://github.com/tqdm/tqdm) - Fast, extensible progress bar for loops and iterables.
+*   [tqdm (⭐25k)](https://github.com/tqdm/tqdm) - Fast, extensible progress bar for loops and iterables.
 
 ## [3. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
@@ -45,25 +45,25 @@
 
 ### Utils / Third-party APIs
 
-*   [cl-gearman (⭐21)](https://github.com/taksatou/cl-gearman) - a library for the [Gearman](http://gearman.org/) distributed job system. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [cl-gearman (⭐22)](https://github.com/taksatou/cl-gearman) - a library for the [Gearman](http://gearman.org/) distributed job system. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Compilers, Transpilers and Languages
 
-*   [IL2C (⭐347)](https://github.com/kekyo/IL2C) - A translator for ECMA-335 CIL/MSIL to C language.
+*   [IL2C (⭐376)](https://github.com/kekyo/IL2C) - A translator for ECMA-335 CIL/MSIL to C language.
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Baget (⭐2.2k)](https://github.com/loic-sharma/BaGet) - A lightweight NuGet server.
+*   [Baget (⭐2.4k)](https://github.com/loic-sharma/BaGet) - A lightweight NuGet server.
 
 ### Frameworks, Libraries and Tools / ORM
 
-*   [FreeSql (⭐3.5k)](https://github.com/2881099/FreeSql) - a convenient ORM in dotnet,supports Mysql, Postgresql, SqlServer, Oracle and Sqlite.
+*   [FreeSql (⭐3.8k)](https://github.com/2881099/FreeSql) - a convenient ORM in dotnet,supports Mysql, Postgresql, SqlServer, Oracle and Sqlite.
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [Linq\_Faster (⭐710)](https://github.com/jackmott/LinqFaster) - Linq-like extension functions for Arrays, Span<T>, and List<T> that are faster and allocate less.
+*   [Linq\_Faster (⭐736)](https://github.com/jackmott/LinqFaster) - Linq-like extension functions for Arrays, Span<T>, and List<T> that are faster and allocate less.
 
 ### Books / Workflow
 
@@ -88,11 +88,11 @@
 
 ### Firebase
 
-*   [Ballcap (⭐231)](https://github.com/1amageek/Ballcap-iOS) - Ballcap is a database schema design framework for Cloud Firestore.
+*   [Ballcap (⭐228)](https://github.com/1amageek/Ballcap-iOS) - Ballcap is a database schema design framework for Cloud Firestore.
 
 ### Game Engine
 
-*   [glide engine (⭐448)](https://github.com/cocoatoucher/Glide) - SpriteKit and GameplayKit based engine for making 2d games, with practical examples and tutorials.
+*   [glide engine (⭐474)](https://github.com/cocoatoucher/Glide) - SpriteKit and GameplayKit based engine for making 2d games, with practical examples and tutorials.
 
 ### Validation / Barcode
 
@@ -119,7 +119,7 @@
 
 ### Internationalization
 
-*   [utf8proc (⭐891)](https://github.com/JuliaStrings/utf8proc) - A clean C library for processing UTF-8 Unicode data. \[MIT]
+*   [utf8proc (⭐929)](https://github.com/JuliaStrings/utf8proc) - A clean C library for processing UTF-8 Unicode data. \[MIT]
 
 ## [13. Awesome R](/content/qinwf/awesome-R/README.md)
 

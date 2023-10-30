@@ -36,37 +36,37 @@
 
 ### Frameworks
 
-*   [FunctionalPlus (⭐1.8k)](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C++. Write concise and readable C++ code. \[MIT]
+*   [FunctionalPlus (⭐1.9k)](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C++. Write concise and readable C++ code. \[MIT]
 
 ### Artificial Intelligence
 
-*   [frugally-deep (⭐956)](https://github.com/Dobiasd/frugally-deep) - Header-only library for using Keras models in C++. \[MIT]
+*   [frugally-deep (⭐994)](https://github.com/Dobiasd/frugally-deep) - Header-only library for using Keras models in C++. \[MIT]
 
 ### Cryptography
 
-*   [Tiny AES in C (⭐3.6k)](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C. \[PublicDomain]
+*   [Tiny AES in C (⭐3.8k)](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C. \[PublicDomain]
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Command Line Applications
 
-*   [ex\_prompt (⭐29)](https://github.com/behind-design/ex_prompt) - Helper package to add interactivity to your command line applications as easy as possible.
+*   [ex\_prompt (⭐30)](https://github.com/behind-design/ex_prompt) - Helper package to add interactivity to your command line applications as easy as possible.
 
 ### Cryptography
 
-*   [ntru\_elixir (⭐13)](https://github.com/alisinabh/ntru_elixir) - Elixir wrapper for libntru. A post quantum cryptography system.
+*   [ntru\_elixir (⭐14)](https://github.com/alisinabh/ntru_elixir) - Elixir wrapper for libntru. A post quantum cryptography system.
 
 ### Debugging
 
-*   [rexbug (⭐226)](https://github.com/nietaki/rexbug) - An Elixir wrapper for the `redbug` production-friendly Erlang tracing debugger.
+*   [rexbug (⭐232)](https://github.com/nietaki/rexbug) - An Elixir wrapper for the `redbug` production-friendly Erlang tracing debugger.
 
 ### Deployment
 
-*   [akd (⭐51)](https://github.com/annkissam/akd) - Capistrano like, Configurable, and easy to set up Elixir Deployment Automation Framework.
+*   [akd (⭐52)](https://github.com/annkissam/akd) - Capistrano like, Configurable, and easy to set up Elixir Deployment Automation Framework.
 
 ### Framework Components
 
-*   [plug\_checkup (⭐70)](https://github.com/ggpasqualino/plug_checkup) - Plug for adding simple health checks to your app.
+*   [plug\_checkup (⭐71)](https://github.com/ggpasqualino/plug_checkup) - Plug for adding simple health checks to your app.
 
 ### Miscellaneous
 
@@ -78,8 +78,8 @@
 
 ### Templating
 
-*   [calliope (⭐193)](https://github.com/nurugger07/calliope) - An Elixir HAML parser.
-*   [slime (⭐346)](https://github.com/slime-lang/slime) - An Elixir library for rendering slim-like templates.
+*   [calliope (⭐194)](https://github.com/nurugger07/calliope) - An Elixir HAML parser.
+*   [slime (⭐357)](https://github.com/slime-lang/slime) - An Elixir library for rendering slim-like templates.
 
 ### Text and Numbers
 
@@ -87,7 +87,7 @@
 
 ### Third Party APIs
 
-*   [gringotts (⭐451)](https://github.com/aviabird/gringotts) - A complete payment library for Elixir and Phoenix Framework similar to [ActiveMerchant (⭐4.5k)](https://github.com/activemerchant/active_merchant) from the Ruby world.
+*   [gringotts (⭐462)](https://github.com/aviabird/gringotts) - A complete payment library for Elixir and Phoenix Framework similar to [ActiveMerchant (⭐4.5k)](https://github.com/activemerchant/active_merchant) from the Ruby world.
 
 ### Books
 
@@ -95,7 +95,7 @@
 
 ### Editors
 
-*   [vim-mix-format (⭐216)](https://github.com/mhinz/vim-mix-format) - Async `mix format` for Vim and Neovim.
+*   [vim-mix-format (⭐219)](https://github.com/mhinz/vim-mix-format) - Async `mix format` for Vim and Neovim.
 
 ### Screencasts
 

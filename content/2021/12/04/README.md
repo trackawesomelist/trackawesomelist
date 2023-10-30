@@ -29,21 +29,21 @@
 ### conversion
 
 *   **OpenStreetMap**
-    *   [osmtogeojson (⭐617)](https://github.com/tyrasd/osmtogeojson): convert OpenStreetMap data to GeoJSON
+    *   [osmtogeojson (⭐635)](https://github.com/tyrasd/osmtogeojson): convert OpenStreetMap data to GeoJSON
     *   [osm2geojson (⭐11)](https://github.com/rclark/osm2geojson): converts OSM XML to GeoJSON
-    *   [osm2geojson (⭐71)](https://github.com/aspectumapp/osm2geojson): (Python) converts OSM XML and Overpass XML/JSON to GeoJSON
+    *   [osm2geojson (⭐77)](https://github.com/aspectumapp/osm2geojson): (Python) converts OSM XML and Overpass XML/JSON to GeoJSON
     *   [minjur (⭐58)](https://github.com/mapbox/minjur): converts OpenStreetMap data to GeoJSON faster than anything else
-    *   [geojsontoosm (⭐16)](https://github.com/tyrasd/geojsontoosm): convert GeoJSON to OSM XML
+    *   [geojsontoosm (⭐17)](https://github.com/tyrasd/geojsontoosm): convert GeoJSON to OSM XML
     *   [geojson2osm (⭐6)](https://github.com/Rub21/geojson2osm): convert GeoJSON to OSM XML
-    *   [osm-and-geojson (⭐89)](https://github.com/aaronlidman/osm-and-geojson): convert GeoJSON to OSM XML and OSM XML to GeoJSON
+    *   [osm-and-geojson (⭐90)](https://github.com/aaronlidman/osm-and-geojson): convert GeoJSON to OSM XML and OSM XML to GeoJSON
     *   [geojson2osm-es6 (⭐0)](https://github.com/DenisCarriere/geojson2osm-es6/): convert GeoJSON to OSM XML
-    *   [query-overpass (⭐144)](https://github.com/perliedman/query-overpass) CLI to make Overpass query and transform result to GeoJSON. Based on [osmtogeojson (⭐617)](https://github.com/tyrasd/osmtogeojson)
+    *   [query-overpass (⭐146)](https://github.com/perliedman/query-overpass) CLI to make Overpass query and transform result to GeoJSON. Based on [osmtogeojson (⭐635)](https://github.com/tyrasd/osmtogeojson)
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
-*   [vue-storage-watcher (⭐61)](https://github.com/dreambo8563/vue-storage-watcher) / [Vue 3 version (⭐7)](https://github.com/dreambo8563/next-vue-storage-watcher) - A reactive localStorage/sessionStorage plugin for Vue.js with strong typed for Vue 2 / Vue 3.
+*   [vue-storage-watcher (⭐61)](https://github.com/dreambo8563/vue-storage-watcher) / [Vue 3 version (⭐8)](https://github.com/dreambo8563/next-vue-storage-watcher) - A reactive localStorage/sessionStorage plugin for Vue.js with strong typed for Vue 2 / Vue 3.
 
 ## [5. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
 
@@ -65,21 +65,21 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [andersevenrud/nordic.nvim (⭐161)](https://github.com/andersevenrud/nordic.nvim) - A nord-esque colorscheme.
+*   [andersevenrud/nordic.nvim (⭐166)](https://github.com/andersevenrud/nordic.nvim) - A nord-esque colorscheme.
 
 ### Utility / Diagnostics
 
-*   [stevearc/dressing.nvim (⭐1k)](https://github.com/stevearc/dressing.nvim) - Improve the built-in `vim.ui` interfaces with telescope, fzf, etc.
+*   [stevearc/dressing.nvim (⭐1.3k)](https://github.com/stevearc/dressing.nvim) - Improve the built-in `vim.ui` interfaces with telescope, fzf, etc.
 
 ## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Application Frameworks
 
-*   [Signals (⭐43)](https://github.com/EmitKnowledge/Signals) - Signals is a .NET5 based framework which focuses on increasing the quality and productivity within development teams by providing them with tools, aspects and processes.
+*   [Signals (⭐50)](https://github.com/EmitKnowledge/Signals) - Signals is a .NET5 based framework which focuses on increasing the quality and productivity within development teams by providing them with tools, aspects and processes.
 
 ### Serialization
 
-*   [FlatSharp (⭐411)](https://github.com/jamescourtney/FlatSharp) - Fast, idiomatic FlatBuffers implementation. Use .fbs files or attributes.
+*   [FlatSharp (⭐453)](https://github.com/jamescourtney/FlatSharp) - Fast, idiomatic FlatBuffers implementation. Use .fbs files or attributes.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

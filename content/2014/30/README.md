@@ -38,7 +38,7 @@
 
 ### Organizations
 
-*   [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash (⭐415)](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
+*   [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash (⭐414)](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
 
 ## [4. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
@@ -166,7 +166,7 @@
 
 ### Packages / Text
 
-*   [detect-indent (⭐186)](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
+*   [detect-indent (⭐189)](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
 
 ### Packages / Parsing
 
@@ -180,13 +180,13 @@
 
 ### Articles
 
-*   [C++Now 2014 Presentations (⭐430)](https://github.com/boostcon/cppnow_presentations_2014) - Presentation materials presented at C++Now 2014.
+*   [C++Now 2014 Presentations (⭐431)](https://github.com/boostcon/cppnow_presentations_2014) - Presentation materials presented at C++Now 2014.
 *   [C++Now 2013 Presentations (⭐192)](https://github.com/boostcon/cppnow_presentations_2013) - Presentation materials presented at C++Now 2013.
 *   [C++Now 2012 Presentations (⭐172)](https://github.com/boostcon/cppnow_presentations_2012) - Presentation materials presented at C++Now 2012.
 
 ### Other Awesome Projects
 
-*   [awesome-talks (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks) - A lot of screencasts, recordings of user group gatherings and conference talks.
+*   [awesome-talks (⭐5.9k)](https://github.com/JanVanRyswyck/awesome-talks) - A lot of screencasts, recordings of user group gatherings and conference talks.
 
 ## [10. Awesome Play1](/content/PerfectCarl/awesome-play1/week/README.md)
 
@@ -216,8 +216,8 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [pyhsmm (⭐530)](https://github.com/mattjj/pyhsmm) - library for approximate unsupervised inference in Bayesian Hidden Markov Models (HMMs) and explicit-duration Hidden semi-Markov Models (HSMMs), focusing on the Bayesian Nonparametric extensions, the HDP-HMM and HDP-HSMM, mostly with weak-limit approximations.
-*   [SKLL (⭐535)](https://github.com/EducationalTestingService/skll) - A wrapper around scikit-learn that makes it simpler to conduct experiments.
+*   [pyhsmm (⭐534)](https://github.com/mattjj/pyhsmm) - library for approximate unsupervised inference in Bayesian Hidden Markov Models (HMMs) and explicit-duration Hidden semi-Markov Models (HSMMs), focusing on the Bayesian Nonparametric extensions, the HDP-HMM and HDP-HSMM, mostly with weak-limit approximations.
+*   [SKLL (⭐533)](https://github.com/EducationalTestingService/skll) - A wrapper around scikit-learn that makes it simpler to conduct experiments.
 
 ## [13. Magictools](/content/ellisonleao/magictools/week/README.md)
 
@@ -347,13 +347,13 @@
 
 ### Package Managers
 
-*   [spm (⭐905)](https://github.com/spmjs/spm) - Brand new static package manager.
+*   [spm (⭐903)](https://github.com/spmjs/spm) - Brand new static package manager.
 
 ### QA Tools / Runner
 
 *   [JSHint (⭐8.9k)](https://github.com/jshint/jshint/) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
 *   [jsfmt (⭐1.7k)](https://github.com/rdio/jsfmt) - For formatting, searching, and rewriting JavaScript.
-*   [buddy.js (⭐839)](https://github.com/danielstjules/buddy.js) - Magic number detection for JavaScript.
+*   [buddy.js (⭐848)](https://github.com/danielstjules/buddy.js) - Magic number detection for JavaScript.
 
 ### Editors / Runner
 
@@ -361,15 +361,15 @@
 
 ### Files / Runner
 
-*   [jBinary (⭐532)](https://github.com/jDataView/jBinary) - High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
+*   [jBinary (⭐534)](https://github.com/jDataView/jBinary) - High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
 
 ### Control Flow / Runner
 
-*   [contra (⭐761)](https://github.com/bevacqua/contra/) - Asynchronous flow control with a functional taste to it.
+*   [contra (⭐771)](https://github.com/bevacqua/contra/) - Asynchronous flow control with a functional taste to it.
 
 ### Maps / Other
 
-*   [Cesium (⭐10k)](https://github.com/AnalyticalGraphicsInc/cesium) - Open Source WebGL virtual globe and map engine.
+*   [Cesium (⭐11k)](https://github.com/AnalyticalGraphicsInc/cesium) - Open Source WebGL virtual globe and map engine.
 
 ### Animations / Other
 
@@ -389,7 +389,7 @@
 
 ### IoC
 
-*   [Spring.Net (⭐804)](https://github.com/spring-projects/spring-net) - Spring.NET is an open source application framework that makes building  enterprise .NET applications easier
+*   [Spring.Net (⭐816)](https://github.com/spring-projects/spring-net) - Spring.NET is an open source application framework that makes building  enterprise .NET applications easier
 
 ### GUI
 
@@ -397,17 +397,17 @@
 
 ### Mail
 
-*   [MailKit (⭐5.4k)](https://github.com/jstedfast/MailKit) - A complete cross-platform mail stack including IMAP, POP3, SMTP, authentication and more. Built on top of MimeKit.
-*   [MimeKit (⭐1.6k)](https://github.com/jstedfast/MimeKit) - A cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, TNEF and Unix mbox spools.
+*   [MailKit (⭐5.6k)](https://github.com/jstedfast/MailKit) - A complete cross-platform mail stack including IMAP, POP3, SMTP, authentication and more. Built on top of MimeKit.
+*   [MimeKit (⭐1.7k)](https://github.com/jstedfast/MimeKit) - A cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, TNEF and Unix mbox spools.
 
 ### Profiler
 
-*   [MiniProfiler (⭐2.7k)](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET websites
+*   [MiniProfiler (⭐2.8k)](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET websites
 *   [Glimpse (⭐2.3k)](https://github.com/glimpse/glimpse) - The open source diagnostics platform for the web
 
 ### Scheduling
 
-*   [QuartzNet (⭐5.7k)](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
+*   [QuartzNet (⭐5.9k)](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
 
 ### Template Engine
 

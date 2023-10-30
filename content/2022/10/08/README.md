@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 08, 2022
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -36,9 +36,20 @@
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [h0tk3y/kotlin-monads (⭐115)](https://github.com/h0tk3y/kotlin-monads) - Monads for Kotlin
+*   [h0tk3y/kotlin-monads (⭐118)](https://github.com/h0tk3y/kotlin-monads) - Monads for Kotlin
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
+
+### Useful links with tips & tricks
+
+*   [GitHub Wiki Markdown tips and examples](https://medium.com/@apcoyne100/github-wiki-markdown-tips-and-examples-1bab1f0c0d25)
+
+### Useful Stack Overflow questions & answers
+
+*   [Resize image in the wiki of GitHub using Markdown](https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-using-markdown)
+*   [Linking to other Wiki pages on GitHub?](https://stackoverflow.com/questions/6474045/linking-to-other-wiki-pages-on-github)
+
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Design and UI
 
@@ -48,7 +59,7 @@
 
 *   [3DModelsCC0](https://www.3dmodelscc0.com/) - Library of public domain 3D models made for game development.
 
-## [6. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [7. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Books
 

@@ -10,11 +10,11 @@
 
 ### Algorithms and Data structures
 
-*   [exkad (⭐2)](https://github.com/rozap/exkad) - A [kademlia](https://en.wikipedia.org/wiki/Kademlia) implementation in Elixir.
+*   [exkad (⭐3)](https://github.com/rozap/exkad) - A [kademlia](https://en.wikipedia.org/wiki/Kademlia) implementation in Elixir.
 
 ### Macros
 
-*   [pattern\_tap (⭐57)](https://github.com/mgwidmann/elixir-pattern_tap) - Macro for tapping into a pattern match while using the pipe operator.
+*   [pattern\_tap (⭐58)](https://github.com/mgwidmann/elixir-pattern_tap) - Macro for tapping into a pattern match while using the pipe operator.
 
 ### Miscellaneous
 
@@ -22,17 +22,17 @@
 
 ### Security
 
-*   [safetybox (⭐19)](https://github.com/aforward/safetybox) - Security oriented helper functions for Elixir.
+*   [safetybox (⭐20)](https://github.com/aforward/safetybox) - Security oriented helper functions for Elixir.
 
 ### Text and Numbers
 
-*   [curtail (⭐30)](https://github.com/seankay/curtail) - HTML tag-safe string truncation.
+*   [curtail (⭐32)](https://github.com/seankay/curtail) - HTML tag-safe string truncation.
 
 ### Third Party APIs
 
 *   [exgenius (⭐1)](https://github.com/jeffweiss/exgenius) - Elixir library for the (undocumented) Rap Genius API.
 *   [exlingr](https://github.com/mtwtkman/exlingr) - A Lingr client module.
-*   [keenex (⭐29)](https://github.com/bryanjos/keenex) - A Keen.io API Client.
+*   [keenex (⭐28)](https://github.com/bryanjos/keenex) - A Keen.io API Client.
 *   [qiita\_ex (⭐7)](https://github.com/ma2gedev/qiita_ex) - A Qiita API v2 Interface for Elixir.
 *   [stripe](https://github.com/SenecaSystems/stripe) - An Elixir Library wrapping Stripe's API.
 

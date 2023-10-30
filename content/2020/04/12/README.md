@@ -10,7 +10,7 @@
 
 ### Decentralised Networks
 
-*   [Loki (⭐1.2k)](https://github.com/loki-project/loki-network) Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
+*   [Loki (⭐1.5k)](https://github.com/loki-project/loki-network) Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
 *   [IPFS](https://ipfs.io/) A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.
 *   [Yggdrasil](https://yggdrasil-network.github.io/about.html) Makes use of a global spanning tree to form a scalable IPv6 encrypted mesh network.
 
@@ -58,7 +58,7 @@
 
 ### Debug
 
-*   [tracy (⭐4.4k)](https://github.com/wolfpld/tracy) - A real time remote telemetry frame profiler for games and other applications.
+*   [tracy (⭐6.1k)](https://github.com/wolfpld/tracy) - A real time remote telemetry frame profiler for games and other applications.
 
 ## [6. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 

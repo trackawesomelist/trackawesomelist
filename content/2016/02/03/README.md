@@ -17,7 +17,7 @@
 ### Github Libraries / Randomized Algorithms
 
 *   Swift
-    *   [by @kingreza (⭐38)](https://github.com/kingreza/Swift-Algorithms-Strings-)
+    *   [by @kingreza (⭐39)](https://github.com/kingreza/Swift-Algorithms-Strings-)
     *   [by @waynewbishop (⭐2.1k)](https://github.com/waynewbishop/SwiftStructures)
     *   [by @hollance (⭐28k)](https://github.com/hollance/swift-algorithm-club)
 
@@ -25,7 +25,7 @@
 
 ### Third Party APIs
 
-*   [xe (⭐21)](https://github.com/paulodiniz/xe) - Real time conversion for currencies.
+*   [xe (⭐22)](https://github.com/paulodiniz/xe) - Real time conversion for currencies.
 
 ## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 

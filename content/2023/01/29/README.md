@@ -6,19 +6,11 @@
 
 
 
-## [1. Ai Collection](/content/ai-collection/ai-collection/README.md)
+## [1. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
 
-### Email Assistant
+### Useful links with tips & tricks
 
-- Name: [Intellimail](https://www.intellimail.xyz/)
-
-  Title: Your Personal Email Assistant.
-
-  Description: IntelliMail is a chrome extension that generates your emails - so you'll never have to write one again.
-
-  Offer Free Version: :white\_check\_mark:
-
-
+*   [Hack GitHub to build your own wiki in five steps](https://ably.com/blog/hacking-github-to-build-your-own-wiki)
 
 ---
 

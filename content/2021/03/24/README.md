@@ -10,11 +10,11 @@
 
 ### Status Bar
 
-*   [tmux-world-clock (⭐26)](https://github.com/alexanderjeurissen/tmux-world-clock) Show multiple timezones using Olson tz database.
+*   [tmux-world-clock (⭐27)](https://github.com/alexanderjeurissen/tmux-world-clock) Show multiple timezones using Olson tz database.
 
 ### Plugins
 
-*   [tmux-copytk (⭐41)](https://github.com/CrispyConductor/tmux-copy-toolkit) - Multi utility rapid copy toolkit.
+*   [tmux-copytk (⭐48)](https://github.com/CrispyConductor/tmux-copy-toolkit) - Multi utility rapid copy toolkit.
 
 ## [2. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
@@ -36,7 +36,7 @@
 ### Design and UI
 
 *   [Icons8](https://icons8.com) — Icons, illustrations, photos, music, and design tools. Free Plan offers Limited formats in lower resolution. Link to Icons8 when you use our assets.
-*   [Rive](https://rive.app) — Create and ship beautiful animations to any platform. Free forever for Individuals. The service is a editor which hosts all the graphics on their servers as well. They also provide runtimes for many platforms to run graphics made using Rive.
+*   [Rive](https://rive.app) — Create and ship beautiful animations to any platform. Free forever for Individuals. The service is an editor that also hosts all the graphics on their servers. They also provide runtimes for many platforms to run representations made using Rive.
 
 ## [5. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Stub packages
 
-*   [lxml-stubs (⭐26)](https://github.com/lxml/lxml-stubs) - Stubs for [lxml](https://lxml.de).
+*   [lxml-stubs (⭐32)](https://github.com/lxml/lxml-stubs) - Stubs for [lxml](https://lxml.de).
 
 ## [9. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
@@ -74,66 +74,62 @@
 
 *   [Hound](https://search.nix.gsc.io) - Handily search across all or selected Nix-related repositories.
 
-### Resources / Newsletters
+### Installation Media / Discovery
 
-*   [NixOS Weekly](https://weekly.nixos.org/) - *The* newsletter to stay informed about community updates.
+*   [nixos-generators (⭐1.1k)](https://github.com/nix-community/nixos-generators) -  Take a NixOS config and build multiple different images types including VirtualBox VMs, Azure images, and installation ISOs.
 
-### Installation Media / Newsletters
-
-*   [nixos-generators (⭐919)](https://github.com/nix-community/nixos-generators) -  Take a NixOS config and build multiple different images types including VirtualBox VMs, Azure images, and installation ISOs.
-
-### Channel History / Newsletters
+### Channel History / Discovery
 
 *   [Nix Infra Status](https://status.nixos.org) - Get the age and current git commit of each Nix channel.
 
-### Deployment Tools / Newsletters
+### Deployment Tools / Discovery
 
 *   [krops](https://cgit.krebsco.de/krops/about/) - A lightweight toolkit to deploy NixOS systems, remotely or locally.
-*   [KubeNix (⭐296)](https://github.com/xtruder/kubenix) - A Kubernetes resource builder using Nix.
-*   [KuberNix (⭐690)](https://github.com/saschagrunert/kubernix) - Single-dependency Kubernetes clusters via Nix packages.
-*   [NixOps (⭐1.3k)](https://github.com/NixOS/nixops) - The official Nix deployment tool, compatible with AWS, Hetzner, and more.
-*   [terraform-nixos (⭐251)](https://github.com/tweag/terraform-nixos) - A set of Terraform modules designed to deploy NixOS.
+*   [KubeNix (⭐301)](https://github.com/xtruder/kubenix) - A Kubernetes resource builder using Nix.
+*   [KuberNix (⭐718)](https://github.com/saschagrunert/kubernix) - Single-dependency Kubernetes clusters via Nix packages.
+*   [NixOps (⭐1.5k)](https://github.com/NixOS/nixops) - The official Nix deployment tool, compatible with AWS, Hetzner, and more.
+*   [terraform-nixos (⭐274)](https://github.com/tweag/terraform-nixos) - A set of Terraform modules designed to deploy NixOS.
 
-### Command-Line Tools / Newsletters
+### Command-Line Tools / Discovery
 
-*   [nix-index (⭐508)](https://github.com/bennofs/nix-index) - Quickly locate Nix packages with specific files.
-*   [nix-prefetch (⭐86)](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
+*   [nix-index (⭐584)](https://github.com/bennofs/nix-index) - Quickly locate Nix packages with specific files.
+*   [nix-prefetch (⭐94)](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
 
-### Development / Newsletters
+### Development / Discovery
 
-*   [Arion (⭐410)](https://github.com/hercules-ci/arion) - Run `docker-compose` with help from Nix/NixOS.
-*   [cached-nix-shell (⭐149)](https://github.com/xzfc/cached-nix-shell) - A `nix-shell` replacement that uses caching to open subsequent shells quickly.
+*   [Arion (⭐474)](https://github.com/hercules-ci/arion) - Run `docker-compose` with help from Nix/NixOS.
+*   [cached-nix-shell (⭐163)](https://github.com/xzfc/cached-nix-shell) - A `nix-shell` replacement that uses caching to open subsequent shells quickly.
 *   [Cachix](https://cachix.org/) - Hosted binary cache service; free for open-source projects.
-*   [gitignore.nix (⭐192)](https://github.com/hercules-ci/gitignore.nix) - The most feature-complete and easy-to-use `.gitignore` integration.
-*   [niv (⭐1.2k)](https://github.com/nmattia/niv/) - Easy dependency management for Nix projects with package pinning.
-*   [nixpkgs-review (⭐247)](https://github.com/Mic92/nixpkgs-review) - The best tool to verify that a pull-request in Nixpkgs is building properly.
+*   [gitignore.nix (⭐210)](https://github.com/hercules-ci/gitignore.nix) - The most feature-complete and easy-to-use `.gitignore` integration.
+*   [niv (⭐1.3k)](https://github.com/nmattia/niv/) - Easy dependency management for Nix projects with package pinning.
+*   [nixpkgs-review (⭐276)](https://github.com/Mic92/nixpkgs-review) - The best tool to verify that a pull-request in Nixpkgs is building properly.
 
 ### Programming Languages / PureScript
 
-*   [Easy PureScript Nix (⭐178)](https://github.com/justinwoo/easy-purescript-nix) - A project to easily use PureScript and other tools with Nix.
+*   [Easy PureScript Nix (⭐184)](https://github.com/justinwoo/easy-purescript-nix) - A project to easily use PureScript and other tools with Nix.
 
 ### Programming Languages / Python
 
-*   [poetry2nix (⭐487)](https://github.com/nix-community/poetry2nix) - Build Python packages directly from [Poetry's](https://python-poetry.org/) `poetry.lock`. No conversion step needed.
+*   [poetry2nix (⭐582)](https://github.com/nix-community/poetry2nix) - Build Python packages directly from [Poetry's](https://python-poetry.org/) `poetry.lock`. No conversion step needed.
 
 ### Programming Languages / Ruby
 
-*   [Bundix (⭐132)](https://github.com/nix-community/bundix) - Generates a Nix expression for your Bundler-managed application.
+*   [Bundix (⭐144)](https://github.com/nix-community/bundix) - Generates a Nix expression for your Bundler-managed application.
 
 ### Programming Languages / Rust
 
-*   [naersk (⭐500)](https://github.com/nmattia/naersk) - Build Rust packages directly from `Cargo.lock`. No conversion step needed.
+*   [naersk (⭐560)](https://github.com/nmattia/naersk) - Build Rust packages directly from `Cargo.lock`. No conversion step needed.
 
-### NixOS Modules / Scala
+### NixOS Modules / Zig
 
-*   [musnix (⭐308)](https://github.com/musnix/musnix) - Do real-time audio work in NixOS.
-*   [nixcloud-webservices (⭐143)](https://github.com/nixcloud/nixcloud-webservices) - A Nixpkgs extension with a focus on ease of deployment of web-related technologies.
+*   [musnix (⭐346)](https://github.com/musnix/musnix) - Do real-time audio work in NixOS.
+*   [nixcloud-webservices (⭐152)](https://github.com/nixcloud/nixcloud-webservices) - A Nixpkgs extension with a focus on ease of deployment of web-related technologies.
 *   [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver, managed with NixOS modules.
-*   [nix-bitcoin (⭐326)](https://github.com/fort-nix/nix-bitcoin) - Modules and packages for Bitcoin nodes with higher-layer protocols with an emphasis on security.
+*   [nix-bitcoin (⭐371)](https://github.com/fort-nix/nix-bitcoin) - Modules and packages for Bitcoin nodes with higher-layer protocols with an emphasis on security.
 
 ### Overlays / Webinterface
 
-*   [NUR (⭐873)](https://github.com/nix-community/NUR/) - Nix User Repositories. The mother of all overlays, allowing access to user repositories and installing packages via attributes.
+*   [NUR (⭐970)](https://github.com/nix-community/NUR/) - Nix User Repositories. The mother of all overlays, allowing access to user repositories and installing packages via attributes.
 
 ### Community / Webinterface
 

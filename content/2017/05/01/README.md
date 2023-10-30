@@ -10,8 +10,8 @@
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [X.Web.Sitemap (⭐3)](https://github.com/dncuug/X.Web.Sitemap) – Simple sitemap generator for .NET and .NET Core
-*   [X.Web.RSS (⭐20)](https://github.com/dncuug/X.Web.RSS) – Simple RSS Feed generator for .NET and .NET Core
+*   [X.Web.Sitemap (⭐5)](https://github.com/dncuug/X.Web.Sitemap) – Simple sitemap generator for .NET and .NET Core
+*   [X.Web.RSS (⭐25)](https://github.com/dncuug/X.Web.RSS) – Simple RSS Feed generator for .NET and .NET Core
 
 ## [2. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
@@ -21,7 +21,7 @@
 
 ### Tools / Web
 
-*   [adminMongo (⭐3.8k)](https://github.com/mrvautin/adminMongo) - Web-based user interface to handle connections and databases needs
+*   [adminMongo (⭐3.9k)](https://github.com/mrvautin/adminMongo) - Web-based user interface to handle connections and databases needs
 *   [Rockmongo (⭐1k)](https://github.com/iwind/rockmongo) - PHPMyAdmin for MongoDB, sort of
 
 ## [3. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)

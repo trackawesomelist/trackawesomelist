@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 23 - Jul 29, 2018
 
-46 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -150,23 +150,23 @@
 
 ### Platforms
 
-*   [Amazon Alexa (⭐549)](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
+*   [Amazon Alexa (⭐558)](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
 
 ### Work
 
-*   [Code Review (⭐3.9k)](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
+*   [Code Review (⭐4k)](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
 
 ### Miscellaneous
 
 *   [Open Source Maintainers (⭐1.1k)](https://github.com/nayafia/awesome-maintainers#readme) - The experience of being an open source maintainer.
-*   [Calculators (⭐123)](https://github.com/xxczaki/awesome-calculators#readme) - Calculators for every platform.
-*   [Captcha (⭐980)](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
+*   [Calculators (⭐138)](https://github.com/xxczaki/awesome-calculators#readme) - Calculators for every platform.
+*   [Captcha (⭐1.1k)](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
 
 ## [10. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Monitoring
 
-*   [EdMon (⭐4)](https://github.com/Edraens/EdMon) - A command-line monitoring application helping you to check that your hosts and services are available, with notifications support. `MIT` `Java`
+*   [EdMon (⭐5)](https://github.com/Edraens/EdMon) - A command-line monitoring application helping you to check that your hosts and services are available, with notifications support. `MIT` `Java`
 
 ## [11. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
@@ -192,15 +192,22 @@
 ### Database
 
 *   [Datahike (⭐1.5k)](https://github.com/replikativ/datahike)
-*   [Datascript (⭐5.1k)](https://github.com/tonsky/datascript)
+*   [Datascript (⭐5.2k)](https://github.com/tonsky/datascript)
 
-## [15. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [15. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Java / Codename One
+
+*   [Codename One Developer Guide](https://www.codenameone.com/files/developer-guide.pdf) (PDF)
+*   [Create an Uber Clone in 7 Days (first 2 chapters)](http://uber.cn1.co) - Shai Almog (PDF)
+
+## [16. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks
 
 *   [Zombie.js](http://zombie.js.org/) - Insanely fast, headless full-stack testing using Node.js.
 
-## [16. Guides](/content/NARKOZ/guides/week/README.md)
+## [17. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Programming Languages / C#
 
@@ -249,13 +256,13 @@
 
 *   [How To Ask Questions The Smart Way](http://www.catb.org/\~esr/faqs/smart-questions.html)
 
-## [17. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [18. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Books / Hash functions
 
 *   [Serious Cryptography](https://nostarch.com/seriouscrypto) - A Practical Introduction to Modern Encryption by Jean-Philippe Aumasson.
 
-## [18. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
+## [19. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
 ### Using Cassandra / Cassandra as a Service / Managed Cassandra Based on Proprietary Technology
 
@@ -275,7 +282,7 @@
 *   [Quora: Cassandra](https://www.quora.com/topic/Cassandra-database)
 *   [Meetups: Cassandra](https://www.meetup.com/topics/cassandra/?_cookie-check=mHgLvBy3N6Cke1RU)
 
-## [19. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [20. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / UI components
 
@@ -285,44 +292,44 @@
 
 *   [Tips for improving build time of large apps](https://discuss.emberjs.com/t/tips-for-improving-build-time-of-large-apps/15008)
 
-## [20. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [21. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Tools
 
-*   [Dva Cli (⭐971)](https://github.com/dvajs/dva-cli) - Create Ant Design projects based on [Dva.js (⭐16k)](https://github.com/dvajs/dva), a
-    lightweight front-end framework based on Redux and React and inspired by [Elm](http://elm-lang.org) and [Choo (⭐6.7k)](https://github.com/yoshuawuyts/choo).
+*   [Dva Cli (⭐969)](https://github.com/dvajs/dva-cli) - Create Ant Design projects based on [Dva.js (⭐16k)](https://github.com/dvajs/dva), a
+    lightweight front-end framework based on Redux and React and inspired by [Elm](http://elm-lang.org) and [Choo (⭐6.8k)](https://github.com/yoshuawuyts/choo).
 
 ### Components / Themes
 
 *   [React Grid (⭐10)](https://github.com/kagawagao/react-grid) **\[Deprecated]** - Grid React UI Component based on Ant Design.
 
-## [21. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [22. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Reading
 
 *   [Symfony 4.1 Jobeet Tutorial](https://jobeet-tutorial.readthedocs.io/en/latest/)
 
-## [22. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [23. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tools / Other
 
-*   [Amass (⭐8k)](https://github.com/OWASP/Amass) - In-depth subdomain enumeration tool that performs scraping, recursive brute forcing, crawling of web archives, name altering and reverse DNS sweeping
+*   [Amass (⭐10k)](https://github.com/OWASP/Amass) - In-depth subdomain enumeration tool that performs scraping, recursive brute forcing, crawling of web archives, name altering and reverse DNS sweeping
 
-## [23. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [24. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Making Your Appium Tests Fast and Reliable, Part 9: When Things Go Wrong](https://appiumpro.com/editions/27)
 
-## [24. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [25. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue2-image-loader (⭐6)](https://github.com/leepyng/vue2-image-loader) - A image lazyLoad loader component for vue2
 *   [@owumaro/vue-date-range-picker (⭐28)](https://github.com/Owumaro/vue-date-range-picker) - A vue component using Bootstrap 4 styles for date range selection
-*   [vue-autonumeric (⭐87)](https://github.com/autoNumeric/vue-autoNumeric) - A Vue.js component that wraps the awesome [AutoNumeric](http://autonumeric.org/) input formatter library
+*   [vue-autonumeric (⭐90)](https://github.com/autoNumeric/vue-autoNumeric) - A Vue.js component that wraps the awesome [AutoNumeric](http://autonumeric.org/) input formatter library
 
-## [25. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [26. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Plotter Art For Sale / Ephemera
 
@@ -331,10 +338,10 @@
 
 ### Other Awesomes / Ephemera
 
-*   [awesome-generative-art (⭐1.5k)](https://github.com/kosmos/awesome-generative-art)
+*   [awesome-generative-art (⭐1.6k)](https://github.com/kosmos/awesome-generative-art)
 *   [awesome-creative-coding (⭐11k)](https://github.com/terkelg/awesome-creative-coding)
 
-## [26. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [27. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### CLI Utils
 
@@ -344,7 +351,7 @@
 
 *   [base62.cr (⭐9)](https://github.com/Sija/base62.cr) - Base62 encoder/decoder, well suited for url-shortening
 
-## [27. Tips](/content/git-tips/tips/week/README.md)
+## [28. Tips](/content/git-tips/tips/week/README.md)
 
 ## Use SSH instead of HTTPs for remotes
 
@@ -352,7 +359,7 @@
 git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 ```
 
-## [28. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [29. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Programming Editors and IDEs / Others
 
@@ -362,7 +369,7 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 *   [Edubirdie](https://edubirdie.com/plagiarism-checker) - An online plagiarism checker which gives percentage of similarity comparing our content with online resources.
 
-## [29. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [30. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
@@ -371,26 +378,26 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 ### Development Tools
 
-*   [Cirq (⭐3.6k)](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
+*   [Cirq (⭐3.9k)](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
 *   [Project Q](http://projectq.ch/) - Framework for implementing quantum computing in Python.
 
 ### Blogs
 
 *   [Quantum Weekly](https://quantumweekly.com/) - A weekly correlation of all things quantum - computing, cryptography, entanglement.
 
-## [30. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [31. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Downloads
 
 *   [Soundwhich](http://soundwhich.com/)
 
-## [31. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [32. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Resources / Articles
 
 *   [Anonymous Recursion in JavaScript](https://dev.to/simov/anonymous-recursion-in-javascript) - Short and easy to understand article about implementing anonymous recursion in JavaScript.
 
-## [32. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [33. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -400,7 +407,7 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 *   [DevDrops](https://anchor.fm/devdrops) - O seu podcast sobre desenvolvimento de software.
 
-## [33. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [34. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / M companies
 
@@ -414,25 +421,25 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 *   Edward Faulkner <https://eaf4.com/>
 
-## [34. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [35. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Services / Bluetooth / NFC / Beacon
 
-*   [Dialogflow (⭐207)](https://github.com/VictorRancesCode/flutter_dialogflow) <!--stargazers:VictorRancesCode/flutter_dialogflow--> - Plugin to easily integrate with dialogflow by [Victor Rances](https://github.com/VictorRancesCode/)
+*   [Dialogflow (⭐209)](https://github.com/VictorRancesCode/flutter_dialogflow) <!--stargazers:VictorRancesCode/flutter_dialogflow--> - Plugin to easily integrate with dialogflow by [Victor Rances](https://github.com/VictorRancesCode/)
 
-## [35. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [36. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Books, blogs and training materials / Community Chat Rooms
 
 *   [MicroRust](https://droogmic.github.io/microrust/) Introductory book for embedded development in Rust on the micro:bit.
 
-## [36. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [37. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Web Frameworks
 
 *   [Vert.x Vaadin (⭐42)](https://github.com/mcollovati/vertx-vaadin) - Run Vaadin applications on Vert.x.
 
-## [37. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [38. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Network perimeter defenses / Evidence collection
 
@@ -451,16 +458,16 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 ### Threat intelligence / Threat hunting
 
-*   [GRASSMARLIN (⭐804)](https://github.com/nsacyber/GRASSMARLIN) - Provides IP network situational awareness of industrial control systems (ICS) and Supervisory Control and Data Acquisition (SCADA) by passively mapping, accounting for, and reporting on your ICS/SCADA network topology and endpoints.
+*   [GRASSMARLIN (⭐831)](https://github.com/nsacyber/GRASSMARLIN) - Provides IP network situational awareness of industrial control systems (ICS) and Supervisory Control and Data Acquisition (SCADA) by passively mapping, accounting for, and reporting on your ICS/SCADA network topology and endpoints.
 *   [Unfetter](https://nsacyber.github.io/unfetter/) - Identifies defensive gaps in security posture by leveraging Mitre's ATT\&CK framework.
 
-## [38. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [39. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Blog Posts & Tutorials
 
 *   [Using machine learning with LIME to understand employee churn](http://www.business-science.io/business/2018/06/25/lime-local-feature-interpretation.html) June 25, 2018
 
-## [39. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [40. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
@@ -471,7 +478,7 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 *   [Baremetrics](https://baremetrics.com/about) - Analytics and insights for Stripe, Braintree, Recurly and Chargify.
 
-## [40. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [41. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / IDEs
 
@@ -479,32 +486,32 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 ### Utilities / General Tools
 
-*   [Mac Cache Cleaner (⭐213)](https://github.com/kaunteya/MacCacheCleaner) - Cache cleaner for Mac [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kaunteya/MacCacheCleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Mac Cache Cleaner (⭐219)](https://github.com/kaunteya/MacCacheCleaner) - Cache cleaner for Mac [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kaunteya/MacCacheCleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [41. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/week/README.md)
+## [42. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/week/README.md)
 
 ### Deployment
 
 *   `article` [Six Tips for Mastering your Procfile](https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779) — improvements for how you run your Heroku processes.
 
-## [42. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [43. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Cryptography / Barcode
 
-*   [Themis (⭐1.7k)](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
+*   [Themis (⭐1.8k)](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
 
-## [43. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [44. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Backups
 
-*   [pg\_back (⭐270)](https://github.com/orgrim/pg_back/) - pg\_back is a simple backup script
+*   [pg\_back (⭐281)](https://github.com/orgrim/pg_back/) - pg\_back is a simple backup script
 
 ### Contents / Utilities
 
-*   [pg\_chameleon (⭐332)](https://github.com/the4thdoctor/pg_chameleon) - Real time replica from MySQL to PostgreSQL with optional type override migration and migration capabilities.
+*   [pg\_chameleon (⭐346)](https://github.com/the4thdoctor/pg_chameleon) - Real time replica from MySQL to PostgreSQL with optional type override migration and migration capabilities.
 *   [pg\_bulkload](http://ossc-db.github.io/pg_bulkload/index.html) - It's a high speed data loading utility for PostgreSQL.
 
-## [44. Awesome](/content/craftcms/awesome/week/README.md)
+## [45. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Community
 
@@ -514,7 +521,7 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 *   [Language switcher for Craft 3](https://www.thebasement.be/language-switcher-for-craft-3/) by Jan D'Hollander - `25 July 2018`
 
-## [45. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [46. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Academic Papers
 
@@ -545,54 +552,54 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 *   [Code Reviews: Honesty, Kindness, Inspiration: Pick Three - Jacob Stoebel RubyConf 2017](http://confreaks.tv/videos/rubyconf2017-code-reviews-honesty-kindness-inspiration-pick-three) How to do effective code review while remaining kind to the original author.
 *   [Implementing a Strong Code-Review Culture - Derek Prior Railsconf 2015](https://www.youtube.com/watch?v=PJjmw9TRB7s) How to instill a healthy code review culture in a team.
 
-## [46. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [47. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
-*   [Swashbuckle (⭐4.6k)](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Seamlessly adds a swagger to WebApi projects.
-    *   [MicroElements.Swashbuckle.FluentValidation (⭐276)](https://github.com/micro-elements/MicroElements.Swashbuckle.FluentValidation) - Adds FluentValidation rules to swagger.
-    *   [Swashbuckle.AspNetCore.Filters (⭐351)](https://github.com/mattfrear/Swashbuckle.AspNetCore.Filters) - A bunch of useful filters for Swashbuckle.AspNetCore.
+*   [Swashbuckle (⭐4.9k)](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Seamlessly adds a swagger to WebApi projects.
+    *   [MicroElements.Swashbuckle.FluentValidation (⭐335)](https://github.com/micro-elements/MicroElements.Swashbuckle.FluentValidation) - Adds FluentValidation rules to swagger.
+    *   [Swashbuckle.AspNetCore.Filters (⭐394)](https://github.com/mattfrear/Swashbuckle.AspNetCore.Filters) - A bunch of useful filters for Swashbuckle.AspNetCore.
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [AsyncEx (⭐3.1k)](https://github.com/StephenCleary/AsyncEx) - A helper library for async/await.
-*   [Aggregates.NET (⭐381)](https://github.com/volak/Aggregates.NET) - Aggregates.NET is a framework to help developers integrate the excellent NServiceBus and EventStore libraries together.
-*   [CAP (⭐5.7k)](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for system integration in SOA or Microservice architecture.
-*   [DotNetCorePlugins (⭐1.2k)](https://github.com/natemcmaster/DotNetCorePlugins) - .NET Core library for loading assemblies as a plugin.
-*   [DotnetSpider (⭐3.5k)](https://github.com/dotnetcore/DotnetSpider) - DotnetSpider, a .NET Standard web crawling library similar to WebMagic and Scrapy. It is a lightweight ,efficient and fast high-level web crawling & scraping framework for .NET.
-*   [ExcelDataReader (⭐3.2k)](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files.
-*   [Finbuckle.MultiTenant (⭐867)](https://github.com/Finbuckle/Finbuckle.MultiTenant) - Finbuckle.MultiTenant is a .NET Standard library for multitenant support designed for ASP.NET 2.0+. It provides functionality for tenant resolution, per-tenant app configuration, and per-tenant data isolation.
-*   [MoreLINQ (⭐3k)](https://github.com/morelinq/MoreLINQ) - Extensions to LINQ to Objects.
-*   [X.PagedList (⭐723)](https://github.com/dncuug/X.PagedList) - Library for easily paging through any IEnumerable/IQueryable in ASP.NET/ASP.NET Core.
+*   [AsyncEx (⭐3.3k)](https://github.com/StephenCleary/AsyncEx) - A helper library for async/await.
+*   [Aggregates.NET (⭐437)](https://github.com/volak/Aggregates.NET) - Aggregates.NET is a framework to help developers integrate the excellent NServiceBus and EventStore libraries together.
+*   [CAP (⭐6.2k)](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for system integration in SOA or Microservice architecture.
+*   [DotNetCorePlugins (⭐1.5k)](https://github.com/natemcmaster/DotNetCorePlugins) - .NET Core library for loading assemblies as a plugin.
+*   [DotnetSpider (⭐3.7k)](https://github.com/dotnetcore/DotnetSpider) - DotnetSpider, a .NET Standard web crawling library similar to WebMagic and Scrapy. It is a lightweight ,efficient and fast high-level web crawling & scraping framework for .NET.
+*   [ExcelDataReader (⭐3.6k)](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files.
+*   [Finbuckle.MultiTenant (⭐1.1k)](https://github.com/Finbuckle/Finbuckle.MultiTenant) - Finbuckle.MultiTenant is a .NET Standard library for multitenant support designed for ASP.NET 2.0+. It provides functionality for tenant resolution, per-tenant app configuration, and per-tenant data isolation.
+*   [MoreLINQ (⭐3.5k)](https://github.com/morelinq/MoreLINQ) - Extensions to LINQ to Objects.
+*   [X.PagedList (⭐830)](https://github.com/dncuug/X.PagedList) - Library for easily paging through any IEnumerable/IQueryable in ASP.NET/ASP.NET Core.
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [Swastika I/O Core CMS (⭐125)](https://github.com/Swastika-IO/Swastika-IO-Core) - Open source ASP.NET Core 2.x CMS. It currently supports MS SQL and planned to implement MSSQL, SQLite in the near future. It has many built-in features out of the box like multilanguage support, theme, template...
+*   [Swastika I/O Core CMS (⭐134)](https://github.com/Swastika-IO/Swastika-IO-Core) - Open source ASP.NET Core 2.x CMS. It currently supports MS SQL and planned to implement MSSQL, SQLite in the near future. It has many built-in features out of the box like multilanguage support, theme, template...
 
 ### Frameworks, Libraries and Tools / Code Analysis and Metrics
 
 *   Metrics
-    *   [AppMetrics (⭐2.1k)](https://github.com/alhardy/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application and reports it's health.
-    *   [Audit.NET (⭐1.9k)](https://github.com/thepirat000/Audit.NET) - Small framework to audit .NET object changes.
-    *   [BenchmarkDotNet (⭐8.2k)](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
-    *   [coverlet (⭐2.5k)](https://github.com/tonerdo/coverlet) - Cross platform code coverage library for .NET Core.
-    *   [Foundatio (⭐1.6k)](https://github.com/exceptionless/Foundatio#metrics) - A common interface with in memory, redis, StatsD, and Metrics.NET implementations.
-    *   [MiniCover (⭐204)](https://github.com/lucaslorentz/minicover) - Minimalist Code Coverage Tool for .NET Core.
-    *   [NBench (⭐520)](https://github.com/petabridge/NBench) - Performance benchmarking and testing framework for .NET applications.
+    *   [AppMetrics (⭐2.2k)](https://github.com/alhardy/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application and reports it's health.
+    *   [Audit.NET (⭐2.1k)](https://github.com/thepirat000/Audit.NET) - Small framework to audit .NET object changes.
+    *   [BenchmarkDotNet (⭐9.5k)](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
+    *   [coverlet (⭐2.8k)](https://github.com/tonerdo/coverlet) - Cross platform code coverage library for .NET Core.
+    *   [Foundatio (⭐1.8k)](https://github.com/exceptionless/Foundatio#metrics) - A common interface with in memory, redis, StatsD, and Metrics.NET implementations.
+    *   [MiniCover (⭐208)](https://github.com/lucaslorentz/minicover) - Minimalist Code Coverage Tool for .NET Core.
+    *   [NBench (⭐529)](https://github.com/petabridge/NBench) - Performance benchmarking and testing framework for .NET applications.
     *   [Nexogen.Libraries.Metrics (⭐61)](https://github.com/nexogen-international/Nexogen.Libraries.Metrics) - Library for collecting application metrics in .NET and exporting them to Prometheus.
     *   [OpenCover (⭐1.3k)](https://github.com/OpenCover/opencover) - Code coverage tool for .NET 2 and above (WINDOWS OS only), support for 32 and 64 processes with both branch and sequence points.
-    *   [PerformanceMonitor (⭐230)](https://github.com/dotnet-architecture/PerformanceMonitor) - .NET Core Application Performance Monitor.
-    *   [prometheus-net (⭐1.4k)](https://github.com/prometheus-net/prometheus-net) - .NET Client for <https://prometheus.io>.
-    *   [Prometheus.Client (⭐111)](https://github.com/PrometheusClientNet/Prometheus.Client) - .NET Client for [Prometheus](https://prometheus.io).
-        *   [Prometheus.Client.MetricPusher (⭐9)](https://github.com/PrometheusClientNet/Prometheus.Client.MetricPusher) -  Push metrics to a PushGateaway for the Prometheus.Client.
-        *   [Prometheus.Client.AspNetCore (⭐6)](https://github.com/PrometheusClientNet/Prometheus.Client.AspNetCore) -  Middleware for the Prometheus.Client.
-        *   [Prometheus.Client.MetricServer (⭐13)](https://github.com/PrometheusClientNet/Prometheus.Client.MetricServer) -  MetricServer for the Prometheus.Client.
+    *   [PerformanceMonitor (⭐236)](https://github.com/dotnet-architecture/PerformanceMonitor) - .NET Core Application Performance Monitor.
+    *   [prometheus-net (⭐1.7k)](https://github.com/prometheus-net/prometheus-net) - .NET Client for <https://prometheus.io>.
+    *   [Prometheus.Client (⭐120)](https://github.com/PrometheusClientNet/Prometheus.Client) - .NET Client for [Prometheus](https://prometheus.io).
+        *   [Prometheus.Client.MetricPusher (⭐13)](https://github.com/PrometheusClientNet/Prometheus.Client.MetricPusher) -  Push metrics to a PushGateaway for the Prometheus.Client.
+        *   [Prometheus.Client.AspNetCore (⭐7)](https://github.com/PrometheusClientNet/Prometheus.Client.AspNetCore) -  Middleware for the Prometheus.Client.
+        *   [Prometheus.Client.MetricServer (⭐14)](https://github.com/PrometheusClientNet/Prometheus.Client.MetricServer) -  MetricServer for the Prometheus.Client.
         *   [Prometheus.Client.HttpRequestDurations (⭐9)](https://github.com/PrometheusClientNet/Prometheus.Client.HttpRequestDurations) -  Metrics logging of request durations for the Prometheus.Client.
 
 ### Frameworks, Libraries and Tools / Graphics
 
-*   [LibVLCSharp (⭐1.1k)](https://github.com/videolan/libvlcsharp): .NET/Mono bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
-*   [MagicScaler (⭐393)](https://github.com/saucecontrol/PhotoSauce) - MagicScaler high-performance, high-quality image processing pipeline for .NET
+*   [LibVLCSharp (⭐1.3k)](https://github.com/videolan/libvlcsharp): .NET/Mono bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
+*   [MagicScaler (⭐486)](https://github.com/saucecontrol/PhotoSauce) - MagicScaler high-performance, high-quality image processing pipeline for .NET
 
 ### Frameworks, Libraries and Tools / GUI
 
@@ -600,19 +607,19 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [AgileMapper (⭐429)](https://github.com/agileobjects/AgileMapper) - AgileMapper is a zero-configuration, highly-configurable object-object mapper with viewable execution plans.
+*   [AgileMapper (⭐448)](https://github.com/agileobjects/AgileMapper) - AgileMapper is a zero-configuration, highly-configurable object-object mapper with viewable execution plans.
 
 ### Frameworks, Libraries and Tools / ORM
 
-*   [Chloe (⭐1.4k)](https://github.com/shuxinqin/Chloe) - A lightweight and high-performance Object/Relational Mapping(ORM) library for .NET.
+*   [Chloe (⭐1.5k)](https://github.com/shuxinqin/Chloe) - A lightweight and high-performance Object/Relational Mapping(ORM) library for .NET.
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [OpenCQRS](https://github.com/OpenCQRS/OpenCQRS) - .NET Core library for DDD, CQRS and Event Sourcing with Azure Service Bus integration. Supported database providers for the Command and the Event stores are: DocumentDB, MongoDB, SQL Server, MySQL, PostgreSQL and SQLite.
+*   [OpenCQRS (⭐1)](https://github.com/OpenCQRS/OpenCQRS) - .NET Core library for DDD, CQRS and Event Sourcing with Azure Service Bus integration. Supported database providers for the Command and the Event stores are: DocumentDB, MongoDB, SQL Server, MySQL, PostgreSQL and SQLite.
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [NJsonSchema (⭐1.1k)](https://github.com/RSuter/NJsonSchema) - NJsonSchema is a .NET library to read, generate and validate JSON Schema draft v4+ schemas.
+*   [NJsonSchema (⭐1.2k)](https://github.com/RSuter/NJsonSchema) - NJsonSchema is a .NET library to read, generate and validate JSON Schema draft v4+ schemas.
 
 ---
 

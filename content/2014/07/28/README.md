@@ -26,7 +26,7 @@
 
 ### Packages / Compression
 
-*   [tar-stream (⭐372)](https://github.com/mafintosh/tar-stream) - Streaming tar parser and generator. Also see [tar-fs (⭐338)](https://github.com/mafintosh/tar-fs).
+*   [tar-stream (⭐384)](https://github.com/mafintosh/tar-stream) - Streaming tar parser and generator. Also see [tar-fs (⭐340)](https://github.com/mafintosh/tar-fs).
 
 ## [4. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Tutorials
 
-*   [D Template Tutorial (⭐217)](https://github.com/PhilippeSigaud/D-templates-tutorial) - A tutorial dedicated to D Templates. Very good explanation about templates. Has pdf version. by Philippe Sigaud.
+*   [D Template Tutorial (⭐221)](https://github.com/PhilippeSigaud/D-templates-tutorial) - A tutorial dedicated to D Templates. Very good explanation about templates. Has pdf version. by Philippe Sigaud.
 
 ### Blogs / Bare metal / kernel development
 

@@ -15,7 +15,7 @@
 
 ### Books / Software-specific
 
-*   *[Statistical Analysis of Network Data with R](http://www.springer.com/us/book/9781493909827)*, by Eric D. Kolaczyk and Gabor Csárdi ([R package (⭐264)](https://github.com/kolaczyk/sand); 2014).
+*   *[Statistical Analysis of Network Data with R](http://www.springer.com/us/book/9781493909827)*, by Eric D. Kolaczyk and Gabor Csárdi ([R package (⭐273)](https://github.com/kolaczyk/sand); 2014).
 
 ### Datasets / Topic-specific
 

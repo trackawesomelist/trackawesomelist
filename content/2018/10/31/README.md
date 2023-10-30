@@ -89,7 +89,7 @@
 
 ### How to show your progress / Which programming languages should I use?
 
-*   **[Contributors (⭐137k)](https://github.com/ossu/computer-science/graphs/contributors)**
+*   **[Contributors (⭐150k)](https://github.com/ossu/computer-science/graphs/contributors)**
 
 ## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
@@ -164,7 +164,7 @@
 
 ### Tools / Misc
 
-*   [DVC (⭐11k)](https://github.com/iterative/dvc) - Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
+*   [DVC (⭐12k)](https://github.com/iterative/dvc) - Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
 
 ## [14. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
 

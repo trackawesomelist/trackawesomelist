@@ -275,7 +275,7 @@
 
 ### Libraries
 
-*   [Rambda (⭐1.4k)](https://github.com/selfrefactor/rambda) - A faster alternative to Ramda in under 10kB.
+*   [Rambda (⭐1.5k)](https://github.com/selfrefactor/rambda) - A faster alternative to Ramda in under 10kB.
 
 ## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -295,7 +295,7 @@
 
 ### Apps
 
-*   [IPFS Desktop (⭐4.6k)](https://github.com/ipfs-shipyard/ipfs-desktop) - Run your IPFS node on your machine without having to bother with command line tools. Manage your node, add your files, easily change the settings... everything from just one interface.
+*   [IPFS Desktop (⭐5.5k)](https://github.com/ipfs-shipyard/ipfs-desktop) - IPFS Desktop gives you all the power of IPFS in a convenient desktop app: a complete IPFS node, plus handy OS menubar/taskbar shortcuts and an all-in-one file manager, peer map, and content explorer.
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -319,8 +319,8 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [AspNetCore Extension Library (⭐163)](https://github.com/sgjsakura/AspNetCore) - ASP.NET Core Extension Library.
-*   [Eighty (⭐36)](https://github.com/benjamin-hodgson/Eighty) - A simple HTML generation library
+*   [AspNetCore Extension Library (⭐164)](https://github.com/sgjsakura/AspNetCore) - ASP.NET Core Extension Library.
+*   [Eighty (⭐38)](https://github.com/benjamin-hodgson/Eighty) - A simple HTML generation library
 
 ## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

@@ -22,7 +22,7 @@
 
 ### Network / Honey Pot / Honey Net
 
-*   [T-Pot Honeypot Distro](http://dtag-dev-sec.github.io/mediator/feature/2017/11/07/t-pot-17.10.html) - T-Pot is based on the network installer of Ubuntu Server 16/17.x LTS. The honeypot daemons as well as other support components being used have been containerized using docker. This allows us to run multiple honeypot daemons on the same network interface while maintaining a small footprint and constrain each honeypot within its own environment. Installation over vanilla Ubuntu - [T-Pot Autoinstall (⭐130)](https://github.com/dtag-dev-sec/t-pot-autoinstall) - This script will install T-Pot 16.04/17.10 on a fresh Ubuntu 16.04.x LTS (64bit). It is intended to be used on hosted servers, where an Ubuntu base image is given and there is no ability to install custom ISO images. Successfully tested on vanilla Ubuntu 16.04.3 in VMware.
+*   [T-Pot Honeypot Distro](http://dtag-dev-sec.github.io/mediator/feature/2017/11/07/t-pot-17.10.html) - T-Pot is based on the network installer of Ubuntu Server 16/17.x LTS. The honeypot daemons as well as other support components being used have been containerized using docker. This allows us to run multiple honeypot daemons on the same network interface while maintaining a small footprint and constrain each honeypot within its own environment. Installation over vanilla Ubuntu - [T-Pot Autoinstall](https://github.com/dtag-dev-sec/t-pot-autoinstall) - This script will install T-Pot 16.04/17.10 on a fresh Ubuntu 16.04.x LTS (64bit). It is intended to be used on hosted servers, where an Ubuntu base image is given and there is no ability to install custom ISO images. Successfully tested on vanilla Ubuntu 16.04.3 in VMware.
 
 ## [4. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -41,7 +41,7 @@
 ### Graphics / TikZ
 
 *   [A very minimal introduction to TikZ (PDF)](https://cremeronline.com/LaTeX/minimaltikz.pdf) - Short introductory document to the world of TikZ, written by Jacques Crémer.
-*   [PetarV-/TikZ (⭐976)](https://github.com/PetarV-/TikZ) - Collection of publication-ready PGF/TikZ figures by Petar Veličković.
+*   [PetarV-/TikZ (⭐1k)](https://github.com/PetarV-/TikZ) - Collection of publication-ready PGF/TikZ figures by Petar Veličković.
 
 ### Resources / TikZ
 
@@ -73,7 +73,7 @@
 
 ### Tools / Market Crawlers
 
-*   [Apkpure](https://apkpure.com/) - Online apk downloader. Provides also an own app for downloading.
+*   [Apkpure](https://apkpure.com/) - Online apk downloader. Provides also its own app for downloading.
 
 ---
 

@@ -16,7 +16,7 @@
 
 ### conversion
 
-*   [esri2open (⭐248)](https://github.com/project-open-data/esri2open) converts proprietary Esri formats to GeoJSON
+*   [esri2open (⭐250)](https://github.com/project-open-data/esri2open) converts proprietary Esri formats to GeoJSON
 
 ## [3. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
@@ -26,9 +26,9 @@
 
 ## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
-### Podcasts / Other
+### Misc / Other
 
-*   [enaqx/awesome-react (⭐55k)](https://github.com/enaqx/awesome-react)
+*   [enaqx/awesome-react (⭐58k)](https://github.com/enaqx/awesome-react)
 
 ## [5. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

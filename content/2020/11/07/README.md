@@ -16,19 +16,19 @@
 
 ### DevOps / Development
 
-*   [bunkerized-nginx (⭐2.9k)](https://github.com/bunkerity/bunkerized-nginx) - nginx Docker image secure by default
+*   [bunkerized-nginx (⭐3.1k)](https://github.com/bunkerity/bunkerized-nginx) - nginx Docker image secure by default
 
 ## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Internationalization / Image Picker
 
-*   [attranslate (⭐271)](https://github.com/fkirc/attranslate) - Semi-automated translation of ARB or JSON files by [fkirc](https://github.com/fkirc)
+*   [attranslate (⭐296)](https://github.com/fkirc/attranslate) - Semi-automated translation of ARB or JSON files by [fkirc](https://github.com/fkirc)
 
 ## [4. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Audio Tools
 
-*   [cyanrip (⭐119)](https://github.com/atomnuker/cyanrip) - rips and encodes standard audio CDs with the least effort required from user. Cross platform.
+*   [cyanrip (⭐156)](https://github.com/atomnuker/cyanrip) - rips and encodes standard audio CDs with the least effort required from user. Cross platform.
 
 ## [5. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 

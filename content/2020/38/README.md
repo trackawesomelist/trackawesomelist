@@ -6,38 +6,32 @@
 
 
 
-## [1. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
-
-### Open Source Projects / Other Tools
-
-*   [Bitcart (⭐287)](https://github.com/bitcartcc/bitcart) - Platform for merchants, users and developers which offers easy setup and use.
-
-## [2. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [1. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Editors
 
-*   [django-ckeditor (⭐2.2k)](https://github.com/shaunsephton/django-ckeditor) - Django admin CKEditor integration.
-*   [django-markdownx (⭐769)](https://github.com/adi-/django-markdownx) - Comprehensive Markdown plugin built for Django.
-*   [django-markdown-editor (⭐705)](https://github.com/agusmakmun/django-markdown-editor) - Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI.
+*   [django-ckeditor (⭐2.3k)](https://github.com/shaunsephton/django-ckeditor) - Django admin CKEditor integration.
+*   [django-markdownx (⭐789)](https://github.com/adi-/django-markdownx) - Comprehensive Markdown plugin built for Django.
+*   [django-markdown-editor (⭐732)](https://github.com/agusmakmun/django-markdown-editor) - Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI.
 
 ### Python Packages / Views
 
 *   [faker (⭐16k)](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
-*   [python-decouple (⭐2.4k)](https://github.com/henriquebastos/python-decouple) - Strict separation of settings from code.
+*   [python-decouple (⭐2.6k)](https://github.com/henriquebastos/python-decouple) - Strict separation of settings from code.
 
-## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Video/Audio / Other
 
 *   [AmplitudeJS](https://521dimensions.com/open-source/amplitudejs) - Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
 
-## [4. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [3. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Accounting / Bookkeeping
 
-*   [Sequence (⭐443)](https://github.com/decimals/sequence) - API that store, validate and reports asset movements. Also known as a Ledger. Sequence is immutable, scalable, and easy to use.
+*   [Sequence (⭐462)](https://github.com/decimals/sequence) - API that store, validate and reports asset movements. Also known as a Ledger. Sequence is immutable, scalable, and easy to use.
 
-## [5. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [4. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Training Courses
 
@@ -47,20 +41,20 @@
 
 *   [Domain-Driven Design Europe](https://dddeurope.com) - The Leading DDD conference (online during COVID19)
 
-## [6. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
+## [5. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
 ### AppImage developer tools / Deployment tools for Python applications
 
-*   [PyAppImage (⭐15)](https://github.com/srevinsaju/pyappimage) - Ultimately simple python-to-appimage bundler.
+*   [PyAppImage (⭐16)](https://github.com/srevinsaju/pyappimage) - Ultimately simple python-to-appimage bundler.
 
-## [7. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [6. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
-*   [Mouseless (⭐119)](https://github.com/ueberdosis/mouseless) - Keyboard shortcut training and look-up.
-*   [Glyphfinder (⭐125)](https://github.com/ueberdosis/glyphfinder) - Unicode character search.
+*   [Mouseless (⭐129)](https://github.com/ueberdosis/mouseless) - Keyboard shortcut training and look-up.
+*   [Glyphfinder (⭐130)](https://github.com/ueberdosis/glyphfinder) - Unicode character search.
 
-## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Component bundles
 
@@ -70,44 +64,44 @@
 
 *   [Build a web app with Blazor WebAssembly and Visual Studio Code](https://docs.microsoft.com/learn/modules/build-blazor-webassembly-visual-studio-code/) - Build a web app with Blazor WebAssembly and Visual Studio Code, on Microsoft Learn.
 
-## [9. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [8. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### Dataset / Web
 
 *   [CartolaFC](https://www.kaggle.com/schiller/cartolafc) - Popular brazilian fantasy football (from 2014 to 2017).
 
-## [10. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
+## [9. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
 
 ### Examples
 
 *   [Dota Underlord Perfect Build (⭐0)](https://github.com/warycat/dotawasm) - An app to help build optimal deck in Dota Underlord.
 
-## [11. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [10. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Tools / Linters
 
-*   [flake8-annotations (⭐130)](https://github.com/sco1/flake8-annotations) - Plugin for flake8 to check for presence of type annotations in function definitions.
+*   [flake8-annotations (⭐138)](https://github.com/sco1/flake8-annotations) - Plugin for flake8 to check for presence of type annotations in function definitions.
 
-## [12. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [11. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Data Sources
 
-*   [iexfinance (⭐644)](https://github.com/addisonlynch/iexfinance) - Python Interface for retrieving real-time and historical prices and equities data from The Investor's Exchange.
-*   [pyEX (⭐407)](https://github.com/timkpaine/pyEX) - Python interface to IEX with emphasis on pandas, support for streaming data, premium data, points data (economic, rates, commodities), and technical indicators.
+*   [iexfinance (⭐643)](https://github.com/addisonlynch/iexfinance) - Python Interface for retrieving real-time and historical prices and equities data from The Investor's Exchange.
+*   [pyEX (⭐405)](https://github.com/timkpaine/pyEX) - Python interface to IEX with emphasis on pandas, support for streaming data, premium data, points data (economic, rates, commodities), and technical indicators.
 
-## [13. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [12. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### GDScript/C# editor support / Godot version unknown
 
-*   [JetBrains Rider (C#) (⭐189)](https://github.com/JetBrains/godot-support) - Syntax highlighting, autocompletion and run configurations.
+*   [JetBrains Rider (C#) (⭐224)](https://github.com/JetBrains/godot-support) - Syntax highlighting, autocompletion and run configurations.
 
-## [14. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [13. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Tools / Miscellaneous
 
 *   [mdformat (⭐229)](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
 
-## [15. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [14. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
@@ -115,15 +109,15 @@
 
 ### Starters & Themes
 
-*   🚀 [Eleventy Starter (⭐251)](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) - Production-ready, SEO-friendly blog starter using Tailwind CSS.
+*   🚀 [Eleventy Starter (⭐258)](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) - Production-ready, SEO-friendly blog starter using Tailwind CSS.
 
-## [16. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [15. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
-*   [tfmigrate (⭐883)](https://github.com/minamijoyo/tfmigrate) - A Terraform state migration tool for GitOps.
+*   [tfmigrate (⭐958)](https://github.com/minamijoyo/tfmigrate) - A Terraform state migration tool for GitOps.
 
-## [17. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/week/README.md)
+## [16. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/week/README.md)
 
 ### Peer-to-Peer Lending
 
@@ -132,6 +126,12 @@
 ### Model Explainability
 
 *   [Explainable Machine learning in Credit Risk Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3506274) - Proposes an explainable AI model that can be used in credit risk management and, in particular, in measuring the risks that arise when credit is borrowed employing credit scoring platforms.
+
+## [17. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Assembly Language / Blazor
+
+*   [Wizard Code, A View on Low-Level Programming](https://web.archive.org/web/20170712195930/http://vendu.twodots.nl/files/wizardcode4.pdf) - Tuomo Tuomo Venäläinen (PDF) *(:card\_file\_box: archived)*
 
 ## [18. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
@@ -159,7 +159,7 @@
 
 ### DevSecOps / Fuzzing
 
-*   [OneFuzz (⭐2.7k)](https://github.com/microsoft/onefuzz) - Self-hosted Fuzzing-as-a-Service (FaaS) platform.
+*   [OneFuzz (⭐2.8k)](https://github.com/microsoft/onefuzz) - Self-hosted Fuzzing-as-a-Service (FaaS) platform.
 
 ## [22. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
@@ -171,8 +171,8 @@
 
 ### Tools & Software / Replay
 
-*   [OpenWayback (⭐444)](https://github.com/iipc/openwayback/) - The open source project aimed to develop Wayback Machine, the key software used by web archives worldwide to play back archived websites in the user's browser. *(Stable)*
-*   [PyWb (⭐1.1k)](https://github.com/ikreymer/pywb) - A Python (2 and 3) implementation of web archival replay tools, sometimes also known as 'Wayback Machine'. *(Stable)*
+*   [OpenWayback (⭐453)](https://github.com/iipc/openwayback/) - The open source project aimed to develop Wayback Machine, the key software used by web archives worldwide to play back archived websites in the user's browser. *(Stable)*
+*   [PyWb (⭐1.2k)](https://github.com/ikreymer/pywb) - A Python (2 and 3) implementation of web archival replay tools, sometimes also known as 'Wayback Machine'. *(Stable)*
 *   [ReplayWeb.Page](https://replayweb.page/) - A browser-based, fully client-side replay engine for both local and remote WARC files.
 
 ### Community Resources / Blogs and Scholarship
@@ -214,7 +214,7 @@
 
 ### Scheduling
 
-*   [Dagster (⭐5.7k)](https://github.com/dagster-io/dagster) - a data orchestrator for machine learning, analytics, and ETL.
+*   [Dagster (⭐7.5k)](https://github.com/dagster-io/dagster) - a data orchestrator for machine learning, analytics, and ETL.
 
 ### Videos
 
@@ -285,8 +285,8 @@
 
 ### Communications / Cryptography
 
-*   [mpyaes (⭐23)](https://github.com/iyassou/mpyaes) - MicroPython module for AES encryption.
-*   [micropython-aes (⭐15)](https://github.com/piaca/micropython-aes) - AES algorithm with pure python implementation.
+*   [mpyaes (⭐26)](https://github.com/iyassou/mpyaes) - MicroPython module for AES encryption.
+*   [micropython-aes (⭐17)](https://github.com/piaca/micropython-aes) - AES algorithm with pure python implementation.
 
 ### Communications / RTC
 
@@ -298,28 +298,28 @@
 
 ### Display / GUI
 
-*   [lvgl (⭐187)](https://github.com/lvgl/lv_binding_micropython) - An object-oriented, component-based high-level GUI library with MicroPython binding.
+*   [lvgl (⭐197)](https://github.com/lvgl/lv_binding_micropython) - An object-oriented, component-based high-level GUI library with MicroPython binding.
 *   [micropython-lcd160cr-gui (⭐24)](https://github.com/peterhinch/micropython-lcd160cr-gui) - Simple touch-driven event based GUI for the Pyboard and LCD160CR colour display.
-*   [micropython\_ra8875 (⭐7)](https://github.com/peterhinch/micropython_ra8875) - MicroPython device driver and nano-GUI for RA8875 based displays.
+*   [micropython\_ra8875 (⭐8)](https://github.com/peterhinch/micropython_ra8875) - MicroPython device driver and nano-GUI for RA8875 based displays.
 
 ### Sensors / Camera
 
-*   [micropython-camera-driver (⭐292)](https://github.com/lemariva/micropython-camera-driver) - OV2640 camera driver for MicroPython on ESP32.
+*   [micropython-camera-driver (⭐313)](https://github.com/lemariva/micropython-camera-driver) - OV2640 camera driver for MicroPython on ESP32.
 
 ### Sensors / Temperature Digital
 
 *   [micropython-tmp1075 (⭐0)](https://github.com/mattytrentini/micropython-tmp1075) - Driver for the TI TMP1075 temperature sensor.
 *   [micropython-sht11 (⭐2)](https://github.com/2black0/micropython-sht11) - Driver for Sensirion SHT11 temperature and humidity sensor.
-*   [micropython-lm75a (⭐2)](https://github.com/mcauser/micropython-lm75a) - Driver for the NXP LM75A digital temperature sensor.
+*   [micropython-lm75a (⭐4)](https://github.com/mcauser/micropython-lm75a) - Driver for the NXP LM75A digital temperature sensor.
 
 ### Frameworks / SRAM
 
-*   [micrOS (⭐62)](https://github.com/BxNxM/micrOS) - MicroPython-based IoT Framework.
-*   [terkin-datalogger (⭐48)](https://github.com/hiveeyes/terkin-datalogger) - Flexible data logger application for MicroPython and CPython.
+*   [micrOS (⭐74)](https://github.com/BxNxM/micrOS) - MicroPython-based IoT Framework.
+*   [terkin-datalogger (⭐49)](https://github.com/hiveeyes/terkin-datalogger) - Flexible data logger application for MicroPython and CPython.
 
 ### Code Generation / SRAM
 
-*   [micropy-stubs (⭐25)](https://github.com/BradenM/micropy-stubs) - Automatically Generated Stub Packages for Micropy-Cli and whomever else.
+*   [micropy-stubs (⭐26)](https://github.com/BradenM/micropy-stubs) - Automatically Generated Stub Packages for Micropy-Cli and whomever else.
 
 ## [32. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
@@ -328,15 +328,21 @@
 *   [ebpf.io](https://ebpf.io/) - A gateway to discover all the basics of eBPF, including a listing of the main related projects and of community resources.
 *   [Cilium's BPF and XDP Reference Guide](http://docs.cilium.io/en/latest/bpf/) - In-depth documentation about most features and aspects of eBPF.
 
-## [33. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [33. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
+
+### Resources / Tutorials
+
+*   ['A Web Monetization Story'](https://esse-dev.github.io/a-web-monetization-story/) - An interactive, story-based Web Monetization tutorial for online creators.
+
+## [34. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
-*   [ParaMonte (⭐194)](https://github.com/cdslaborg/paramonte) - A general-purpose Python library for Bayesian data analysis and visualization via serial/parallel Monte Carlo and MCMC simulations. Documentation can be found [here](https://www.cdslab.org/paramonte/).
+*   [ParaMonte (⭐210)](https://github.com/cdslaborg/paramonte) - A general-purpose Python library for Bayesian data analysis and visualization via serial/parallel Monte Carlo and MCMC simulations. Documentation can be found [here](https://www.cdslab.org/paramonte/).
 
 ### Fortran / General-Purpose Machine Learning
 
-*   [neural-fortran (⭐298)](https://github.com/modern-fortran/neural-fortran) - A parallel neural net microframework.
+*   [neural-fortran (⭐325)](https://github.com/modern-fortran/neural-fortran) - A parallel neural net microframework.
     Read the paper [here](https://arxiv.org/abs/1902.06714).
 
 ### Python / Natural Language Processing
@@ -345,13 +351,13 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [skorch (⭐5.1k)](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch.
+*   [skorch (⭐5.3k)](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
 *   [Hyperparameter-Optimization-of-Machine-Learning-Algorithms (⭐1.1k)](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms) - Code for hyperparameter tuning/optimization of machine learning and deep learning algorithms.
 
-## [34. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [35. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Foundations of Mathematics / Logic
 
@@ -361,11 +367,11 @@
 
 *   [Category Theory in Context](http://www.math.jhu.edu/~eriehl/context/) - Emily Riehl (John Hopkins University)
 
-## [35. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [36. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
-*   [Drumbooth controller with touch interface (⭐4)](https://github.com/FDelporte/DrumBoothController) - Project using Java, JavaFX, Pi4J and Arduino to control 8 relays and LED strips.
+*   [Drumbooth controller with touch interface (⭐5)](https://github.com/FDelporte/DrumBoothController) - Project using Java, JavaFX, Pi4J and Arduino to control 8 relays and LED strips.
 *   [Rhasspy](https://rhasspy.readthedocs.io) - Open source, fully offline set of voice assistant services that works well with Home Assistant, Node-RED, MQTT and more.
 
 ### Books / iOS
@@ -373,31 +379,31 @@
 *   [Control Your Home with Raspberry Pi](https://koen.vervloesem.eu/books/control-your-home-with-raspberry-pi/) - Teaches you how to turn a Raspberry Pi into a secure, modular, open source and self-hosted home automation gateway with Docker Compose, MQTT and TLS.
 *   [Getting Started with Java on the Raspberry Pi](https://leanpub.com/gettingstartedwithjavaontheraspberrypi/) - A lot of info and history about Java itself and how to install and use it on the Raspberry Pi with a lot of example projects.
 
-## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Database
 
 *   [UnQLite (⭐1.9k)](https://github.com/symisc/unqlite) - A self-contained, serverless, zero-configuration, transactional NoSQL engine. \[BSD-2-Clause] [website](https://unqlite.org/)
 
-## [37. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
+## [38. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
 ### Client libraries / Rust
 
 *   [waves-lib-rust (⭐1)](https://github.com/waves-rust/waves-lib-rust) - Library to work with Waves blockchain.
 
-## [38. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [39. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Dashboard
 
-*   [swarmpit (⭐2.5k)](https://github.com/swarmpit/swarmpit)\
+*   [swarmpit (⭐2.7k)](https://github.com/swarmpit/swarmpit)\
     Lightweight mobile-friendly Docker Swarm management UI.
 
 ### Security / Tools
 
-*   [oci-seccomp-bpf-hook (⭐171)](https://github.com/containers/oci-seccomp-bpf-hook)\
+*   [oci-seccomp-bpf-hook (⭐218)](https://github.com/containers/oci-seccomp-bpf-hook)\
     OCI hook to trace syscalls and generate a seccomp profile.
 
-## [39. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [40. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Mobile Applications
 
@@ -405,48 +411,48 @@
     *   [OCaml on iOS 7 Released](http://psellos.com/2014/08/2014.08.ocamlxarm-402.html)
     *   [OCaml + Cordova = more secured, typed and hybrid mobile applications](https://dannywillems.github.io/2016/07/14/ocaml-cordova-secured-typed-hybrid-mobile-applications.html)
 
-## [40. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [41. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Cloud Infrastructure and Management
 
-*   [k8s (⭐271)](https://github.com/coryodaniel/k8s) - Kubernetes Elixir client with CRD support, multi-cluster support, pluggable auth, and configurable middleware.
+*   [k8s (⭐287)](https://github.com/coryodaniel/k8s) - Kubernetes Elixir client with CRD support, multi-cluster support, pluggable auth, and configurable middleware.
 
-## [41. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [42. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### e-books
 
 *   [Database Systems Lecture Notes](http://spots.augusta.edu/caubert/db/ln/) - lecture notes on Database Systems (available in pdf, html, odt and markdown) including a Chapter on SQL that covers basic set-up, exercises and problems.
 
-## [42. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [43. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Data augmentation
 
-*   [audiomentations (⭐1.3k)](https://github.com/iver56/audiomentations) [:octocat: (⭐1.3k)](https://github.com/iver56/audiomentations) [:package:](https://pypi.org/project/audiomentations/) -  Audio Data Augmentation.
-*   [muda](https://muda.readthedocs.io/en/latest/) [:octocat: (⭐215)](https://github.com/bmcfee/muda) [:package:](https://pypi.python.org/pypi/muda) -  Musical Data Augmentation.
+*   [audiomentations (⭐1.4k)](https://github.com/iver56/audiomentations) [:octocat: (⭐1.4k)](https://github.com/iver56/audiomentations) [:package:](https://pypi.org/project/audiomentations/) -  Audio Data Augmentation.
+*   [muda](https://muda.readthedocs.io/en/latest/) [:octocat: (⭐221)](https://github.com/bmcfee/muda) [:package:](https://pypi.python.org/pypi/muda) -  Musical Data Augmentation.
 
-## [43. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [44. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Graphics
 
-*   [Color Picker](https://gitlab.gnome.org/World/gcolor3/) - Color pickle, working on both X11 and Wayland.
+*   [Color Picker](https://gitlab.gnome.org/World/gcolor3/) - Color picker, working on both X11 and Wayland.
 
-## [44. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [45. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Server-side (Cloud Functions, BigQuery etc) / iOS
 
-*   🔌 [Firestore Queue System (⭐5)](https://github.com/sbarbat/firestore-queuer) - Simple queue system using Firestore and Cloud Functions.
+*   🔌 [Firestore Queue System (⭐6)](https://github.com/sbarbat/firestore-queuer) - Simple queue system using Firestore and Cloud Functions.
 
 ### Follow / Community
 
 *   :fire: [Firebase Developers Discord](https://discord.gg/BN2cgc3) - an open community dedicated to Firebase and its services, where you can to socialize and help other web and app developers from around the world.
 
-## [45. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/week/README.md)
+## [46. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/week/README.md)
 
 ### Tools / Timecode
 
 *   [El-Tee-See](http://elteesee.pehrhovey.net/) - LTC wav file generator.
 
-## [46. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [47. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Roles / Executives
 
@@ -456,15 +462,15 @@
 
 *   [The Surprising Traits of Good Remote Leaders](https://www.bbc.com/worklife/article/20200827-why-in-person-leaders-may-not-be-the-best-virtual-ones) - “the confidence, intelligence and extroversion that have long propelled ambitious workers into the executive suite are not enough online because they simply don't translate into virtual leadership. (…) Instead, workers who are organized, dependable and productive take the reins of virtual teams.” As the [source paper](https://link.springer.com/article/10.1007/s10869-020-09698-0) say it best: “virtually, the emphasis shifts from saying to doing.”
 
-## [47. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [48. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Frameworks
 
-*   [Newbe.Claptrap (⭐212)](https://github.com/newbe36524/Newbe.Claptrap) - This is a set of server-side development frameworks with reactive, event sourcing and Actor pattern as basic theories. On top of this, developers can develop "distributed", "scale out", and "easy to test" application more simply.
+*   [Newbe.Claptrap (⭐214)](https://github.com/newbe36524/Newbe.Claptrap) - This is a set of server-side development frameworks with reactive, event sourcing and Actor pattern as basic theories. On top of this, developers can develop "distributed", "scale out", and "easy to test" application more simply.
 
 ### Authentication and Authorization
 
-*   [Logibit Hawk (⭐37)](https://github.com/logibit/logibit.hawk/) - A F# [Hawk (⭐1.9k)](https://github.com/outmoded/hawk) authentication library
+*   [Logibit Hawk (⭐36)](https://github.com/logibit/logibit.hawk/) - A F# [Hawk (⭐1.9k)](https://github.com/outmoded/hawk) authentication library
 
 ### Build Automation
 
@@ -480,17 +486,17 @@
 
 ### Graphics
 
-*   [Silk.NET (⭐2.8k)](https://github.com/Ultz/Silk.NET) - A cross-platform, high-performance, low-level .NET Standard wrapper for many advanced APIs such as OpenGL, OpenCL, OpenAL, OpenXR, Assimp, GLFW, as well as many others. In addition to wrapping over Native APIs, it also comes with its own Windowing and Input abstraction. This makes game and application development with Silk.NET a breeze, and has pretty much everything a 3D application developer would need.
-*   [RealTimeGraphX (⭐186)](https://github.com/royben/RealTimeGraphX) - RealTimeGraphX is a data type agnostic, high performance plotting library for WPF, UWP and soon, Xamarin Forms.
+*   [Silk.NET (⭐3.2k)](https://github.com/Ultz/Silk.NET) - A cross-platform, high-performance, low-level .NET Standard wrapper for many advanced APIs such as OpenGL, OpenCL, OpenAL, OpenXR, Assimp, GLFW, as well as many others. In addition to wrapping over Native APIs, it also comes with its own Windowing and Input abstraction. This makes game and application development with Silk.NET a breeze, and has pretty much everything a 3D application developer would need.
+*   [RealTimeGraphX (⭐191)](https://github.com/royben/RealTimeGraphX) - RealTimeGraphX is a data type agnostic, high performance plotting library for WPF, UWP and soon, Xamarin Forms.
 
 ### GUI
 
-*   [Lara (⭐130)](https://github.com/integrativesoft/lara) - Lara Web Engine is a library for developing Web user interfaces in C#
+*   [Lara (⭐139)](https://github.com/integrativesoft/lara) - Lara Web Engine is a library for developing Web user interfaces in C#
 *   [Empty Keys UI](https://www.emptykeys.com/ui_library/) - Multi-platform and multi-engine XAML based user interface library **\[Free]\[Proprietary]**
 
 ### Internationalization
 
-*   [ResX Resource Manager (⭐1.1k)](https://github.com/dotnet/ResXResourceManager) - The most popular free tool to localize all kind of applications with resx-based resources.
+*   [ResX Resource Manager (⭐1.2k)](https://github.com/dotnet/ResXResourceManager) - The most popular free tool to localize all kind of applications with resx-based resources.
 
 ### Interoperability
 
@@ -498,7 +504,7 @@
 
 ### Mathematics
 
-*   [MKL.NET (⭐67)](https://github.com/AnthonyLloyd/MKL.NET) - A simple cross platform .NET API for Intel MKL.
+*   [MKL.NET (⭐76)](https://github.com/AnthonyLloyd/MKL.NET) - A simple cross platform .NET API for Intel MKL.
 
 ### Misc
 
@@ -519,30 +525,30 @@
 
 ### Reactive Programming
 
-*   [Dynamic Data (⭐1.5k)](https://github.com/reactivemarbles/DynamicData) - Reactive Extensions (Rx) for collections
+*   [Dynamic Data (⭐1.6k)](https://github.com/reactivemarbles/DynamicData) - Reactive Extensions (Rx) for collections
 
 ### Serialization
 
-*   [ProtoBuf (⭐280)](https://github.com/SilentOrbit/protobuf) - Generate C# code for protocol buffer serialization from a .proto specification.
+*   [ProtoBuf (⭐282)](https://github.com/SilentOrbit/protobuf) - Generate C# code for protocol buffer serialization from a .proto specification.
 
 ### Template Engine
 
-*   [Scriban (⭐2.5k)](https://github.com/lunet-io/scriban) - A fast, powerful, safe and lightweight text templating language and engine for .NET
+*   [Scriban (⭐2.6k)](https://github.com/lunet-io/scriban) - A fast, powerful, safe and lightweight text templating language and engine for .NET
 
 ### Testing
 
-*   [Verify (⭐1.9k)](https://github.com/VerifyTests/Verify) - Verification tool to enable simple approval of complex models and documents.
+*   [Verify (⭐2.1k)](https://github.com/VerifyTests/Verify) - Verification tool to enable simple approval of complex models and documents.
 
 ### Tools
 
 *   [Open Live Writer (⭐2.4k)](https://github.com/OpenLiveWriter/OpenLiveWriter) - Blog writer which integrated with WordPress, Blogger, et. al. Open Live Writer makes it easy to write, preview, and post to your blog.
-*   [Papercut (⭐2.5k)](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut is an open source (.NET based) test email viewer that runs locally with a built-in SMTP server designed to receive and notify of test email messages.
-*   [SmartCode (⭐552)](https://github.com/dotnetcore/SmartCode) - SmartCode = IDataSource -> IBuildTask -> IOutput => Build Everything!!! (Including \[**Code generator**])
+*   [Papercut (⭐2.7k)](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut is an open source (.NET based) test email viewer that runs locally with a built-in SMTP server designed to receive and notify of test email messages.
+*   [SmartCode (⭐559)](https://github.com/dotnetcore/SmartCode) - SmartCode = IDataSource -> IBuildTask -> IOutput => Build Everything!!! (Including \[**Code generator**])
 
 ### UI Automation
 
-*   [FlaUI (⭐1.6k)](https://github.com/FlaUI/FlaUI) - FlaUI is a .NET library which helps with automated UI testing of Windows applications (Win32, WinForms, WPF, Store Apps, ...).
-*   [PuppeteerSharp (⭐2.7k)](https://github.com/hardkoded/puppeteer-sharp) - Puppeteer Sharp is a .NET port of the official Node.JS Puppeteer API.
+*   [FlaUI (⭐1.9k)](https://github.com/FlaUI/FlaUI) - FlaUI is a .NET library which helps with automated UI testing of Windows applications (Win32, WinForms, WPF, Store Apps, ...).
+*   [PuppeteerSharp (⭐2.9k)](https://github.com/hardkoded/puppeteer-sharp) - Puppeteer Sharp is a .NET port of the official Node.JS Puppeteer API.
 *   [PuppeteerSharp.Contrib (⭐76)](https://github.com/hlaueriksson/puppeteer-sharp-contrib) - Contributions to Puppeteer Sharp that provides a convenient way to write readable and robust browser tests.
 
 ### Visual Studio Plugins
@@ -551,9 +557,9 @@
 
 ### Parser Library
 
-*   [CSLY (⭐270)](https://github.com/b3b00/CSLY) - A light embedded C# lexer/parser generator.
+*   [CSLY (⭐307)](https://github.com/b3b00/CSLY) - A light embedded C# lexer/parser generator.
 
-## [48. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [49. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Calendar
 
@@ -569,29 +575,22 @@
 
 
 
-## [49. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [50. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Compression
 
 *   zip
-    *   [zip-rs/zip (⭐613)](https://github.com/zip-rs/zip) — read and write ZIP archives
+    *   [zip-rs/zip (⭐679)](https://github.com/zip-rs/zip) — read and write ZIP archives
 
-## [50. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [51. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Utilities / Game Engine resources
 
-*   [FlutterGen (⭐1.1k)](https://github.com/FlutterGen/flutter_gen) <!--stargazers:FlutterGen/flutter_gen--> - Assets code generator for your images, fonts, colors, etc — Get rid of String-based APIs.
+*   [FlutterGen (⭐1.2k)](https://github.com/FlutterGen/flutter_gen) <!--stargazers:FlutterGen/flutter_gen--> - Assets code generator for your images, fonts, colors, etc — Get rid of String-based APIs.
 
 ### Bangladesh / Misc
 
 *   [Facebook Group](https://www.facebook.com/groups/flutter.bangladesh/)
-
-## [51. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
-
-### Resources / Tutorials
-
-*   [Exclusive content in a Godot web game](https://innkeepergames.com/how-to-monetize-a-godot-game-with-web-monetization) - Put exclusive content in a web game made with the Godot Game Engine.
-*   ['A Web Monetization Story'](https://esse-dev.github.io/a-web-monetization-story/) - An interactive, story-based Web Monetization tutorial for online creators.
 
 ## [52. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
@@ -622,7 +621,7 @@
 
 ### APL
 
-*   [April (⭐513)](https://github.com/phantomics/april) - The APL programming language (a subset thereof) compiling to Common Lisp. Replace hundreds of lines of number-crunching code with a single line of APL. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
+*   [April (⭐537)](https://github.com/phantomics/april) - The APL programming language (a subset thereof) compiling to Common Lisp. Replace hundreds of lines of number-crunching code with a single line of APL. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ### Iteration
 
@@ -630,20 +629,20 @@
 
 ### Non-deterministic, logic programming
 
-*   [Temperance (⭐51)](https://github.com/sjl/temperance) - logic programming. [MIT](https://opensource.org/licenses/MIT). A focus on performance, with General Game Playing in mind.
+*   [Temperance (⭐53)](https://github.com/sjl/temperance) - logic programming. [MIT](https://opensource.org/licenses/MIT). A focus on performance, with General Game Playing in mind.
 
 ### Community / Interfaces to other package managers
 
-*   🚀 [sparser (⭐43)](https://github.com/ddmcdonald/sparser) - A natural language understanding system for English. [Eclipse](http://www.eclipse.org/legal/epl-v10.html).
+*   🚀 [sparser (⭐47)](https://github.com/ddmcdonald/sparser) - A natural language understanding system for English. [Eclipse](http://www.eclipse.org/legal/epl-v10.html).
     *   > a model-driven, rule-based language text analysis system for large volume, high-precision information extraction. At its heart, Sparser is a bottom-up, phrase-structure-based chart parser, optimized for semantic grammars and partial parsing.
 
 ### HTTP Servers / Hunchentoot plugins
 
-*   👍 [easy-routes (⭐42)](https://github.com/mmontone/easy-routes) - a routes handling system on top of Hunchentoot. It supports dispatch based on HTTP method, arguments extraction from the url path, decorators, url generation from route name, etc. [MIT](https://opensource.org/licenses/MIT).
+*   👍 [easy-routes (⭐50)](https://github.com/mmontone/easy-routes) - a routes handling system on top of Hunchentoot. It supports dispatch based on HTTP method, arguments extraction from the url path, decorators, url generation from route name, etc. [MIT](https://opensource.org/licenses/MIT).
 
 ### Job processing / Third-party APIs
 
-*   [one-more-re-nightmare (⭐117)](https://github.com/no-defun-allowed/one-more-re-nightmare) - a fast-ish regular expression compiler in Common Lisp. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [one-more-re-nightmare (⭐127)](https://github.com/no-defun-allowed/one-more-re-nightmare) - a fast-ish regular expression compiler in Common Lisp. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
 ### Shells, shells interfaces / Third-party APIs
 
@@ -651,9 +650,9 @@
 
 ### Apps / Third-party APIs
 
-*   [cl-yacc (⭐54)](https://github.com/jech/cl-yacc) - a LALR(1) parser generator. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-yacc (⭐55)](https://github.com/jech/cl-yacc) - a LALR(1) parser generator. [MIT](https://opensource.org/licenses/MIT).
 *   [cl-shlex (⭐6)](https://github.com/ruricolist/cl-shlex/) - simple lexical analyzer for shell-like syntaxes. [MIT](https://opensource.org/licenses/MIT).
-*   [smug (⭐101)](https://github.com/drewc/smug) - parser combinators for Common Lisp. SMUG makes it simple to create quick extensible recursive descent parsers without funky syntax or impenetrable macrology. [MIT](https://opensource.org/licenses/MIT).
+*   [smug (⭐103)](https://github.com/drewc/smug) - parser combinators for Common Lisp. SMUG makes it simple to create quick extensible recursive descent parsers without funky syntax or impenetrable macrology. [MIT](https://opensource.org/licenses/MIT).
 
 ### i18n / Third-party APIs
 
@@ -661,8 +660,8 @@
 
 ### Linting, code formatting / Third-party APIs
 
-*   [sblint (⭐113)](https://github.com/fukamachi/sblint) - a linter for Common Lisp source code using SBCL, suited for Reviewdog ([slides](http://www.slideshare.net/fukamachi/sblint)). [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
-*   [trivial-formatter (⭐31)](https://github.com/hyotang666/trivial-formatter) - code formatter for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [sblint (⭐114)](https://github.com/fukamachi/sblint) - a linter for Common Lisp source code using SBCL, suited for Reviewdog ([slides](http://www.slideshare.net/fukamachi/sblint)). [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [trivial-formatter (⭐33)](https://github.com/hyotang666/trivial-formatter) - code formatter for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ## [55. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
 
@@ -835,30 +834,28 @@
 
 ## [56. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Abstract API](https://www.abstractapi.com) — API suite for a variety of use cases including IP geolocation, gender detection or even email validation.
-*   [algorithmia.com](https://algorithmia.com/) — Host algorithms for free. Includes free monthly allowance for running algorithms. Now with CLI support.
-*   [Atlas toolkit](https://atlastk.org/) - Lightweight library to develop single-page web applications that are instantly accessible. Available for Java, Node.js, Perl, Python and Ruby.
+*   [Abstract API](https://www.abstractapi.com) — API suite for various use cases, including IP geolocation, gender detection, or email validation.
+*   [Atlas toolkit](https://atlastk.org/) - Lightweight library to develop single-page web applications that are instantly accessible. Available for Java, Node.js, Perl, Python, and Ruby.
 *   [bigml.com](https://bigml.com/) — Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16 MB data/task.
 *   [monkeylearn.com](https://monkeylearn.com/) — Text analysis with machine learning, free 300 queries/month.
-*   [MockAPI](https://www.mockapi.io/) — MockAPI is a simple tool that lets you easily mock up APIs, generate custom data, and preform operations on it using RESTful interface. MockAPI is meant to be used as a prototyping/testing/learning tool. 1 project/4 resources per project for free.
-*   [parsehub.com](https://parsehub.com/) — Extract data from dynamic sites, turn dynamic websites into APIs, 5 projects free.
-*   [restlet.com](https://restlet.com/products/apispark/) — APISpark enables any API, application or data owner to become an API provider in minutes via an intuitive browser interface.
-*   [scrapinghub.com](https://scrapinghub.com) — Data scraping with visual interface and plugins. Free plan includes unlimited scraping on a shared server.
+*   [MockAPI](https://www.mockapi.io/) — MockAPI is a simple tool that lets you quickly mock up APIs, generate custom data, and perform operations using a RESTful interface. MockAPI is meant to be a prototyping/testing/learning tool. One project/4 resources per project for free.
+*   [parsehub.com](https://parsehub.com/) — Extract data from dynamic sites, turn dynamic websites into APIs, five projects free.
+*   [scrapinghub.com](https://scrapinghub.com) — Data scraping with visual interface and plugins. The free plan includes unlimited scraping on a shared server.
 *   [wit.ai](https://wit.ai/) — NLP for developers.
 *   [wrapapi.com](https://wrapapi.com/) — Turn any website into a parameterized API. 30k API calls per month.
-*   [Zenscrape](https://zenscrape.com/web-scraping-api) — Web scraping API with headless browsers, residentials IPs and simple pricing. 1000 free API calls/month, extra free credits for students and non-profits.
+*   [Zenscrape](https://zenscrape.com/web-scraping-api) — Web scraping API with headless browsers, residentials IPs, and straightforward pricing. One thousand free API calls/month and extra credits for students and non-profits.
 
 ### Tools for Teams and Collaboration
 
-*   [TeleType](https://teletype.oorja.io/) — share terminals, voice, code, whiteboard and more. no sign-in required, end-to-end encrypted collaboration for developers.
+*   [TeleType](https://teletype.oorja.io/) — share terminals, voice, code, whiteboard, and more. no sign-in is required for end-to-end encrypted collaboration for developers.
 
 ### Email
 
-*   [Outlook.com](https://outlook.live.com/owa/) - Free personal email and calendar
+*   [Outlook.com](https://outlook.live.com/owa/) - Free personal email and calendar.
 
-### DBaaS
+### Managed Data Services
 
 *   [redsmin.com](https://www.redsmin.com/) — Online real-time monitoring and administration service for Redis, Monitoring for 1 Redis instance free
 
@@ -893,10 +890,10 @@
 ### Components & Libraries / UI Components
 
 *   [vue-js-datatable (⭐9)](https://github.com/Parthfaladu/vue-js-datatable) - VueJS light weight wrapper datatable component for [datatables.net](https://datatables.net)
-*   [vue-splide (⭐273)](https://github.com/Splidejs/vue-splide) - Splide is a free lightweight but powerful slider and carousel, written in pure JavaScript without any dependencies. It supports a thumbnail slider, nested slide.
+*   [vue-splide (⭐292)](https://github.com/Splidejs/vue-splide) - Splide is a free lightweight but powerful slider and carousel, written in pure JavaScript without any dependencies. It supports a thumbnail slider, nested slide.
 *   [vue-jquery-calendar (⭐1)](https://github.com/Parthfaladu/vue-jquery-calendar) - VueJS light weight wrapper component for [jquery ui datepicker](https://jqueryui.com/datepicker)
 *   [@grafikri/vue-infinite-scroll (⭐1)](https://github.com/grafikri/vue-infinite-scroll) - Basic infinite scroll for Vue
-*   [Vue Flow Form (⭐659)](https://github.com/ditdot-dev/vue-flow-form) - Create conversational conditional-logic forms with Vue.js. [Online Demo](https://www.ditdot.hr/demo/vff/questionnaire/)
+*   [Vue Flow Form (⭐705)](https://github.com/ditdot-dev/vue-flow-form) - Create conversational conditional-logic forms with Vue.js. [Online Demo](https://www.ditdot.hr/demo/vff/questionnaire/)
 
 ### Components & Libraries / Frameworks
 

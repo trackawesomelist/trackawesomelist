@@ -28,7 +28,7 @@
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [Tossit (⭐61)](https://github.com/turgayozgur/tossit) - Simple, easy to use library for distributed job/worker logic. Distributed messages handled by built in RabbitMQ implementation.
+*   [Tossit (⭐63)](https://github.com/turgayozgur/tossit) - Simple, easy to use library for distributed job/worker logic. Distributed messages handled by built in RabbitMQ implementation.
 
 ## [4. Awesome Eta](/content/sfischer13/awesome-eta/README.md)
 

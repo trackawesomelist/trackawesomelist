@@ -28,13 +28,13 @@ Free
 
 ### Network / Scanning / Pentesting
 
-*   [Legion (⭐887)](https://github.com/GoVanguard/legion) - Open source semi-automated discovery and reconnaissance network penetration testing framework.
+*   [Legion (⭐921)](https://github.com/GoVanguard/legion) - Open source semi-automated discovery and reconnaissance network penetration testing framework.
 
 ## [4. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 
 ### Alertmanager / Miscellaneous
 
-*   [Karma (⭐1.9k)](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager.
+*   [Karma (⭐2k)](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager.
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -95,13 +95,13 @@ Free
 
 ### Data Formats
 
-*   [BinData (⭐41)](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
+*   [BinData (⭐42)](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
 
 ## [10. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Browser Extensions
 
-*   [Anti-Paywall (⭐628)](https://github.com/nextgens/anti-paywall) A browser extension that maximizes the chances of bypassing paywalls
+*   [Anti-Paywall (⭐647)](https://github.com/nextgens/anti-paywall) A browser extension that maximizes the chances of bypassing paywalls
 
 ### Password Vaults
 
@@ -113,7 +113,7 @@ Free
 
 ### Seedboxes / WebTorrent Clients
 
-*   [SeedSync (⭐251)](https://github.com/ipsingh06/seedsync) SeedSync is a GUI-configurable, LFTP-based file transfer and management program.
+*   [SeedSync (⭐268)](https://github.com/ipsingh06/seedsync) SeedSync is a GUI-configurable, LFTP-based file transfer and management program.
 
 ### DDL Search Engines and Crawlers / Free Indexers
 
@@ -137,9 +137,9 @@ Free
 
 ### Plex Scripts and Tools / Third Party Hosts
 
-*   [PlexMissingEpisodes (⭐42)](https://github.com/MysticRyuujin/PlexMissingEpisodes) Scan Plex library for missing episodes using TheTVDB#
-*   [Gaps (⭐514)](https://github.com/JasonHHouse/Gaps) Find the missing movies in your Plex Server
-*   [PlexRecs (⭐30)](https://github.com/nwithan8/PlexRecs) A Discord bot that provides movie and TV show recommendations from your Plex library
+*   [PlexMissingEpisodes (⭐43)](https://github.com/MysticRyuujin/PlexMissingEpisodes) Scan Plex library for missing episodes using TheTVDB#
+*   [Gaps (⭐546)](https://github.com/JasonHHouse/Gaps) Find the missing movies in your Plex Server
+*   [PlexRecs (⭐33)](https://github.com/nwithan8/PlexRecs) A Discord bot that provides movie and TV show recommendations from your Plex library
 *   ["I made my own Pseudo TV for Plex with Kodi and Nvidia Shield"](https://old.reddit.com/r/PleX/comments/awsvp9/i_made_my_own_pseudo_tv_for_plex_with_kodi_and/ehox9zf/) Guide from /u/nads84 on how to make your own "live" TV channels with a Plex library, Kodi, and an NVIDIA Shield
 
 ### Gaming / Third Party Hosts
@@ -163,7 +163,7 @@ Free
 
 ### Fonts, Icons, and Graphics / Third Party Hosts
 
-*   [gallery-dl (⭐5.7k)](https://github.com/mikf/gallery-dl) Command-line program to download image-galleries and -collections from several image hosting sites
+*   [gallery-dl (⭐7.6k)](https://github.com/mikf/gallery-dl) Command-line program to download image-galleries and -collections from several image hosting sites
 
 ### Automation / Third Party Hosts
 
@@ -213,7 +213,7 @@ Free
 
 *   [Multiup](https://multiup.org/) Website which allows you to upload files to several different file hosting websites.
 *   [DirtyWarez](https://dirtywarez.org/) Lists top warez sites with Alexa rankings and other metadata.
-*   [MacGuffin (⭐84)](https://github.com/hwkns/macguffin) Automated tools for handling Scene and P2P film releases.
+*   [MacGuffin (⭐87)](https://github.com/hwkns/macguffin) Automated tools for handling Scene and P2P film releases.
 
 ## [11. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -235,7 +235,7 @@ Free
 
 ### API
 
-*   [Ocelot (⭐7.6k)](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
+*   [Ocelot (⭐7.9k)](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
 
 ## [14. Public Apis](/content/public-apis/public-apis/README.md)
 

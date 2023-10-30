@@ -10,17 +10,17 @@
 
 ### Software / Automation
 
-*   [Huginn (⭐38k)](https://github.com/huginn/huginn) - Allows you to build agents that monitor and act on your behalf. `MIT` `Ruby`
+*   [Huginn (⭐40k)](https://github.com/huginn/huginn) - Allows you to build agents that monitor and act on your behalf. `MIT` `Ruby`
 
 ## [2. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Schema / Code generation
 
-*   [scheme2ddl (⭐73)](https://github.com/qwazer/scheme2ddl) - Command line util for export Oracle schema to set of ddl init scripts with ability to filter undesirable information, separate DDL in different files, pretty format output.
+*   [scheme2ddl (⭐75)](https://github.com/qwazer/scheme2ddl) - Command line util for export Oracle schema to set of ddl init scripts with ability to filter undesirable information, separate DDL in different files, pretty format output.
 
 ### API / Samples
 
-*   [restSQL (⭐132)](https://github.com/restsql/restsql) - SQL generator with Java and HTTP APIs, uses a simple RESTful HTTP API with XML or JSON serialization.
+*   [restSQL (⭐137)](https://github.com/restsql/restsql) - SQL generator with Java and HTTP APIs, uses a simple RESTful HTTP API with XML or JSON serialization.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Frameworks, Libraries and Tools / Distributed Computing
 
-*   [jasper (⭐402)](https://github.com/JasperFx/jasper) - Next generation application development framework for .NET
+*   [jasper (⭐411)](https://github.com/JasperFx/jasper) - Next generation application development framework for .NET
 
 ## [5. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 

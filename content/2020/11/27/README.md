@@ -23,13 +23,13 @@
 
 ### Cars
 
-*   [FordPassWidget (⭐14)](https://github.com/dschablowsky/FordPassWidget) - Information about your Ford, like location or mileage.
+*   [FordPassWidget (⭐15)](https://github.com/dschablowsky/FordPassWidget) - Information about your Ford, like location or mileage.
 
     <img src="https://github.com/dschablowsky/FordPassWidget/raw/master/fp-widget.jpg" width="400"/>
-*   [tankstellenpreise.js (⭐34)](https://github.com/Necriso/ScriptableWidgets/blob/main/tankstellenpreise.js) - Fuel prices from a nearby gas station.
+*   [tankstellenpreise.js (⭐36)](https://github.com/Necriso/ScriptableWidgets/blob/main/tankstellenpreise.js) - Fuel prices from a nearby gas station.
 
     <img src="https://raw.githubusercontent.com/Necriso/ScriptableWidgets/main/images/tankstellenpreise.png" width="200"/>
-*   [TeslaData-Widget (⭐54)](https://github.com/DrieStone/TeslaData-Widget) - Information about your Tesla, like charging status and doors locked/unlocked.
+*   [TeslaData-Widget (⭐57)](https://github.com/DrieStone/TeslaData-Widget) - Information about your Tesla, like charging status and doors locked/unlocked.
 
     <img src="https://github.com/DrieStone/TeslaData-Widget/raw/main/documentation/screen_001.png" width="400"/>
 
@@ -37,13 +37,13 @@
 
 ### Download Managers / Free Indexers
 
-*   [Persepolis (⭐5.5k)](https://github.com/persepolisdm/persepolis) An open source download manager and GUI for Aria2 written in Python with IDM like browser integration. Cross platfrom.
+*   [Persepolis (⭐5.7k)](https://github.com/persepolisdm/persepolis) An open source download manager and GUI for Aria2 written in Python with IDM like browser integration. Cross platfrom.
 
 ## [5. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Messaging
 
-*   [ChatLayout (⭐610)](https://github.com/ekazaev/ChatLayout) - A lightweight framework to build chat UI that uses custom `UICollectionViewLayout` to provide full control over the presentation as well as all the tools available in `UICollectionView`.
+*   [ChatLayout (⭐689)](https://github.com/ekazaev/ChatLayout) - A lightweight framework to build chat UI that uses custom `UICollectionViewLayout` to provide full control over the presentation as well as all the tools available in `UICollectionView`.
 
 ## [6. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
@@ -64,7 +64,13 @@
 
 *   [2020: A Gold Standard Methodology for Evaluating Accuracy in Data-To-Text Systems](https://arxiv.org/abs/2011.03992)
 
-## [8. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Testing
+
+*   [knapsackpro.com](https://knapsackpro.com) - Speed up your tests with optimal test suite parallelization on any CI provider. Split Ruby, JavaScript tests on parallel CI nodes to save time. Free plan for up to 10 minutes of test files and free unlimited plan for Open Source projects.
+
+## [9. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ### Papers
 
@@ -72,30 +78,20 @@
 
 ### Time Series Data
 
-*   🌟 [Ensemble-Strategy (⭐1.5k)](https://github.com/AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020) - Deep Reinforcement Learning for Automated Stock Trading.
-*   [FinRL (⭐7.3k)](https://github.com/AI4Finance-LLC/FinRL-Library) - A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance.
+*   🌟 [Ensemble-Strategy (⭐1.7k)](https://github.com/AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020) - Deep Reinforcement Learning for Automated Stock Trading.
+*   [FinRL (⭐8.2k)](https://github.com/AI4Finance-LLC/FinRL-Library) - A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance.
 
-## [9. Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/README.md)
+## [10. Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/README.md)
 
 ### Online Community
 
 *   [Lisp Discord server](https://discord.gg/7tSq5EaA6Z) - Is a Discord for Lisp. Has a channel dedicated to Common Lisp and will happily answer questions.
 
-## [10. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [11. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Software / Graphics
 
-*   [Pinta](https://pinta-project.com/) - Gtk# clone of Paint.NET. ([MIT (⭐1.2k)](https://github.com/PintaProject/Pinta/blob/master/license-mit.txt))
-
-## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### APIs, Data and ML
-
-*   [Similar Words API](https://word-simi.herokuapp.com/) — An API to find similar words, has vocabulary of about 4Million words.
-
-### Testing
-
-*   [knapsackpro.com](https://knapsackpro.com) - Speed up your tests with optimal test suite parallelisation on any CI provider. Split Ruby, JavaScript tests on parallel CI nodes to save time. Free plan for up to 10 minutes test files and free unlimited plan for Open Source projects.
+*   [Pinta](https://pinta-project.com/) - Gtk# clone of Paint.NET. ([MIT (⭐1.5k)](https://github.com/PintaProject/Pinta/blob/master/license-mit.txt))
 
 ---
 

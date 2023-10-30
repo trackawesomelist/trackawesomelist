@@ -11,9 +11,9 @@
 ### Platforms
 
 *   macOS - Operating system for Apple's Mac computers.
-    *   [Screensavers (⭐3k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
-    *   [Apps (⭐61k)](https://github.com/jaywcjlove/awesome-mac#readme)
-    *   [Open Source Apps (⭐35k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
+    *   [Screensavers (⭐3.7k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
+    *   [Apps (⭐64k)](https://github.com/jaywcjlove/awesome-mac#readme)
+    *   [Open Source Apps (⭐37k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 
 ## [2. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
@@ -22,7 +22,7 @@
 *   [**HiQ**](https://jonathanharrell.github.io/hiq/) - Simple CSS foundation with responsive typography and input styling.\
     ![](https://img.shields.io/github/stars/jonathanharrell/hiq.svg?style=social\&label=Star)
     [Docs](https://jonathanharrell.github.io/hiq/guide/),
-    [Repo (⭐284)](https://github.com/jonathanharrell/hiq/)
+    [Repo (⭐303)](https://github.com/jonathanharrell/hiq/)
     \| #PostCSS
 
 ## [3. Git Cheat Sheet](/content/arslanbilal/git-cheat-sheet/README.md)
@@ -44,11 +44,11 @@ Rename Index.txt to Index.html
 ### USB / Capture tools
 
 *   [usbmon](https://www.kernel.org/doc/Documentation/usb/usbmon.txt) - a subsystem of Linux kernel to capture usb packets.
-*   [USBPcap (⭐702)](https://github.com/desowin/usbpcap) - a solution for Windows.
+*   [USBPcap (⭐798)](https://github.com/desowin/usbpcap) - a solution for Windows.
 
 ### USB / Analysis
 
-*   [USBPcapOdinDumper (⭐3)](https://github.com/KOLANICH/USBPcapOdinDumper) - transforms .pcap files with `usbmon` and `USBPcap` frames format of captures from flashing an Android phone with Odin or [Heimdall](https://gitlab.com/BenjaminDobell/Heimdall) into a set of files with frames payload. Useful for reverse-engineering. Has a modular architecture easily transformable for other applications formats.
+*   [USBPcapOdinDumper (⭐6)](https://github.com/KOLANICH/USBPcapOdinDumper) - transforms .pcap files with `usbmon` and `USBPcap` frames format of captures from flashing an Android phone with Odin or [Heimdall](https://gitlab.com/BenjaminDobell/Heimdall) into a set of files with frames payload. Useful for reverse-engineering. Has a modular architecture easily transformable for other applications formats.
 
 ## [5. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 
@@ -77,7 +77,7 @@ Rename Index.txt to Index.html
 ### Languages
 
 *   [Chicken](https://esolangs.org/wiki/Chicken) - Only 1 valid symbol: 'chicken'.
-*   [Thue (⭐23)](https://github.com/jcolag/Thue) - *Matrioshka* language based on nondeterministic string rewriting of a semi-Thue grammar.
+*   [Thue (⭐25)](https://github.com/jcolag/Thue) - *Matrioshka* language based on nondeterministic string rewriting of a semi-Thue grammar.
 
 ### Resources
 
@@ -87,13 +87,13 @@ Rename Index.txt to Index.html
 
 ### Device / Augmented Reality
 
-*   [Downloader (⭐786)](https://github.com/hnvn/flutter_downloader) <!--stargazers:hnvn/flutter_downloader--> - Create and manage download tasks by [HungHD](https://github.com/hnvn)
+*   [Downloader (⭐831)](https://github.com/hnvn/flutter_downloader) <!--stargazers:hnvn/flutter_downloader--> - Create and manage download tasks by [HungHD](https://github.com/hnvn)
 *   [AppAvailability (⭐89)](https://github.com/pichillilorenzo/flutter_appavailability) <!--stargazers:pichillilorenzo/flutter_appavailability--> - List, launch and check installed apps by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 
 ### Device / Scanner
 
-*   [QR Code Reader (⭐226)](https://github.com/villela/flutter_qrcode_reader) <!--stargazers:villela/flutter_qrcode_reader--> - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
-*   [Fast QR Reader View (⭐287)](https://github.com/facundomedica/fast_qr_reader_view) <!--stargazers:facundomedica/fast_qr_reader_view--> - Live multicode reader by [Facundo Medica](https://github.com/facundomedica)
+*   [QR Code Reader (⭐227)](https://github.com/villela/flutter_qrcode_reader) <!--stargazers:villela/flutter_qrcode_reader--> - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
+*   [Fast QR Reader View (⭐292)](https://github.com/facundomedica/fast_qr_reader_view) <!--stargazers:facundomedica/fast_qr_reader_view--> - Live multicode reader by [Facundo Medica](https://github.com/facundomedica)
 
 ### Device / Bluetooth / NFC / Beacon
 
@@ -102,7 +102,7 @@ Rename Index.txt to Index.html
 
 ### Storage / Bluetooth / NFC / Beacon
 
-*   [Sqflite (⭐2.5k)](https://github.com/tekartik/sqflite) <!--stargazers:tekartik/sqflite--> - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/)
+*   [Sqflite (⭐2.7k)](https://github.com/tekartik/sqflite) <!--stargazers:tekartik/sqflite--> - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/)
 
 ### Services / Bluetooth / NFC / Beacon
 

@@ -10,7 +10,7 @@
 
 ### Key Map Data Model
 
-*   [InfiniDB (⭐245)](https://github.com/infinidb/infinidb/) - is accessed through a MySQL interface and use massive parallel processing to parallelize queries.
+*   [InfiniDB (⭐246)](https://github.com/infinidb/infinidb/) - is accessed through a MySQL interface and use massive parallel processing to parallelize queries.
 
 ### NewSQL Databases
 
@@ -23,7 +23,7 @@
 
 ### System Deployment
 
-*   [Apache Slider (⭐78)](https://github.com/apache/incubator-slider) - is a YARN application to deploy existing distributed applications on YARN.
+*   [Apache Slider (⭐77)](https://github.com/apache/incubator-slider) - is a YARN application to deploy existing distributed applications on YARN.
 
 ### Applications
 
@@ -31,15 +31,15 @@
 
 ### Data Visualization
 
-*   [CartoDB (⭐2.6k)](https://github.com/CartoDB/cartodb) - open-source or freemium hosting for geospatial databases with powerful front-end editing capabilities and a robust API.
+*   [CartoDB (⭐2.7k)](https://github.com/CartoDB/cartodb) - open-source or freemium hosting for geospatial databases with powerful front-end editing capabilities and a robust API.
 *   [Crossfilter](http://square.github.io/crossfilter/) -  JavaScript library for exploring large multivariate datasets in the browser. Works well with dc.js and d3.js.
-*   [Gephi (⭐5k)](https://github.com/gephi/gephi) - An award-winning open-source platform for visualizing and manipulating large graphs and network connections. It's like Photoshop, but for graphs. Available for Windows and Mac OS X.
+*   [Gephi (⭐5.3k)](https://github.com/gephi/gephi) - An award-winning open-source platform for visualizing and manipulating large graphs and network connections. It's like Photoshop, but for graphs. Available for Windows and Mac OS X.
 
 ## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Miscellaneous
 
-*   [html\_entities (⭐82)](https://github.com/martinsvalin/html_entities) - Elixir module for decoding HTML entities in a string.
+*   [html\_entities (⭐84)](https://github.com/martinsvalin/html_entities) - Elixir module for decoding HTML entities in a string.
 
 ## [3. Awesome Honeypots](/content/paralax/awesome-honeypots/README.md)
 

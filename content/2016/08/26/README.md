@@ -93,11 +93,11 @@
 ### Third Party APIs
 
 *   [honeywell (⭐0)](https://github.com/jeffutter/honeywell-elixir) - A client for the Honeywell Lyric, Round and Water Leak & Freeze Detector APIs.
-*   [particle (⭐4)](https://github.com/jeffutter/particle-elixir) - An Elixir client for the Particle IoT platform's HTTP API.
+*   [particle (⭐5)](https://github.com/jeffutter/particle-elixir) - An Elixir client for the Particle IoT platform's HTTP API.
 
 ### Translations and Internationalizations
 
-*   [trans (⭐211)](https://github.com/belaustegui/trans) - A Elixir library to manage embedded translations into models leveraging PostgreSQL JSONB datatype.
+*   [trans (⭐220)](https://github.com/belaustegui/trans) - A Elixir library to manage embedded translations into models leveraging PostgreSQL JSONB datatype.
 
 ## [5. Tips](/content/git-tips/tips/README.md)
 
@@ -211,8 +211,8 @@ git config --global alias.undo '!f() { git reset --hard $(git rev-parse --abbrev
 ### Material Design
 
 *   [md2](https://www.npmjs.com/package/md2) Angular2 based Material Design components, directives and services are Accordion, Autocomplete, Collapse, Colorpicker, Datepicker, Dialog(Modal), Menu, Multiselect, Select, Switch, Tabs, Tags(Chips), Toast and Tooltip.
-*   [ng2-material](https://www.npmjs.com/package/ng2-material) set of material2 examples and extra components (data table, dialog, ...) built on top of @angular2-material/core
-*   [angular2-mdl](https://www.npmjs.com/package/angular2-mdl) Angular 2 components, directives and styles based on Material Design Lite
+*   [ng2-material](https://www.npmjs.com/package/ng2-material) set of material2 examples and extra components (data table, dialog, ...) built on top of @angular2-material/core.
+*   [angular2-mdl](https://www.npmjs.com/package/angular2-mdl) Angular 2 components, directives and styles based on Material Design Lite.
 
 ## [10. Amas](/content/sindresorhus/amas/README.md)
 

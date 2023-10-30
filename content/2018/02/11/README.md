@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 11, 2018
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -76,7 +76,7 @@
 
 ### For Electron / Other
 
-*   [electron-serve (⭐385)](https://github.com/sindresorhus/electron-serve) - Static file serving (Useful for routing, like `react-router`).
+*   [electron-serve (⭐395)](https://github.com/sindresorhus/electron-serve) - Static file serving (Useful for routing, like `react-router`).
 
 ## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -90,35 +90,29 @@
 
 *   [Stickers, t-shirts, etc](https://www.redbubble.com/people/sindresorhus/works/30330590-ava-logo) - The products are sold at production price without any markup.
 
-## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
-
-### OCR Tools / Telegram
-
-*   [OCRmyPDF (⭐8.9k)](https://github.com/jbarlow83/OCRmyPDF/)
-
-## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### SDK and API Clients
 
 *   [Countly SDK for Windows (⭐21)](https://github.com/Countly/countly-sdk-windows/) - Windows SDK for Countly analytics and marketing platform for product and marketing managers
 
-## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [8. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Job boards
 
 *   [Crypto Jobs List](https://cryptojobslist.com/remote) - #1 job board to find and post crypto, bitcoin and blockchain jobs.
 
-## [10. Awesome Unity](/content/RyanNielson/awesome-unity/README.md)
+## [9. Awesome Unity](/content/RyanNielson/awesome-unity/README.md)
 
 ### AI
 
 *   [Crystal AI (⭐396)](https://github.com/igiagkiozis/CrystalAI) - Crystal is a fast, scalable and extensible utility based AI framework for C# and Unity.
 
-## [11. Awesome Captcha](/content/ZYSzys/awesome-captcha/README.md)
+## [10. Awesome Captcha](/content/ZYSzys/awesome-captcha/README.md)
 
 ### Tools / Chinese
 
-*   [MotionCAPTCHA (⭐829)](https://github.com/wjcrowcroft/MotionCAPTCHA) - MotionCAPTCHA jQuery Plugin - Stop Spam, Draw Shapes.
+*   [MotionCAPTCHA (⭐825)](https://github.com/wjcrowcroft/MotionCAPTCHA) - MotionCAPTCHA jQuery Plugin - Stop Spam, Draw Shapes.
 
 ---
 

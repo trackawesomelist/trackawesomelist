@@ -49,7 +49,7 @@
 
 ### Files and Directories
 
-*   [waffle (⭐629)](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
+*   [waffle (⭐651)](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
 
 ## [6. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 
@@ -80,13 +80,13 @@
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Sofodata](https://www.sofodata.com/) - Create secure RESTful APIs from CSV files. Upload a CSV file and instantly access the data via its API allowing faster application development. Free plan includes 2 APIs and 2,500 API calls per month. No credit card required.
+*   [Sofodata](https://www.sofodata.com/) - Create secure RESTful APIs from CSV files. Upload a CSV file and instantly access the data via its API allowing faster application development. The free plan includes 2 APIs and 2,500 API calls per month. You don't need a credit card.
 
 ### Testing
 
-*   [qase.io](https://qase.io) - Test management system for Dev and QA teams. Manage test cases, compose test runs, perform test runs, track defects and measure impact. The free tier includes all core features, with 500Mb available for attachments and up to 3 users.
+*   [qase.io](https://qase.io) - Test management system for Dev and QA teams. Manage test cases, compose test runs, perform tests, track defects, and measure impact. The free tier includes all core features, with 500MB available for attachments and up to 3 users.
 
 ## [11. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Python / Git
 
-*   [django-cryptography (⭐294)](https://github.com/georgemarshall/django-cryptography) - Easily encrypt data in Django.
+*   [django-cryptography (⭐329)](https://github.com/georgemarshall/django-cryptography) - Easily encrypt data in Django.
 
 ### Web-sites / Git
 
@@ -106,7 +106,7 @@
 
 ### Packages / Libraries
 
-*   [@magenta/music (⭐1.8k)](https://github.com/magenta/magenta-js/tree/master/music) - A JavaScript library to use machine learning models and generate music in the browser, by having some neat abstractions over the Webaudio API.
+*   [@magenta/music (⭐1.9k)](https://github.com/magenta/magenta-js/tree/master/music) - A JavaScript library to use machine learning models and generate music in the browser, by having some neat abstractions over the Webaudio API.
 
 ## [13. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
 

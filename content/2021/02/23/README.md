@@ -10,9 +10,9 @@
 
 ### Distribution
 
-*   [boon (⭐120)](https://github.com/camchenry/boon) - Multi-platform, easy to use tool supporting Windows, macOS, Linux.
+*   [boon (⭐124)](https://github.com/camchenry/boon) - Multi-platform, easy to use tool supporting Windows, macOS, Linux.
 *   [love-release (⭐441)](https://github.com/MisterDA/love-release) - A Lua script that automates game distribution. Supports Windows, macOS, Debian, Linux.
-*   [makelove (⭐89)](https://github.com/pfirsich/makelove) - Advanced multi-platform tool to fuse your game written in Python 3. Supports Windows and Linux with AppImage.
+*   [makelove (⭐100)](https://github.com/pfirsich/makelove) - Advanced multi-platform tool to fuse your game written in Python 3. Supports Windows and Linux with AppImage.
 
 ## [2. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -37,7 +37,7 @@
 
 ### Concurrency
 
-*   [Throttler (⭐77)](https://github.com/boraseoksoon/Throttler) - Throttle massive number of asynchronous inputs in a single drop of one line API.
+*   [Throttler (⭐90)](https://github.com/boraseoksoon/Throttler) - Throttle massive number of asynchronous inputs in a single drop of one line API.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -45,34 +45,33 @@
 
 *   [Pagure.io](https://pagure.io) — Pagure.io is a free and open source software code collaboration platform for FOSS-licensed projects, Git-based
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Roboflow](https://roboflow.com) - create and deploy a custom computer vision model with no prior machine learning experience required. Free tier includes up to 1,000 free source images.
+*   [Roboflow](https://roboflow.com) - create and deploy a custom computer vision model with no prior machine learning experience required. The free tier includes up to 1,000 free source images.
 
 ### Testing
 
-*   [loadmill.com](https://www.loadmill.com/) - Automatically create API and load tests by analyzing network traffic. Simulate up to 50 concurrent users for up to 60 minutes for free every month.
+*   [loadmill.com](https://www.loadmill.com/) - Automatically create API and load tests by analyzing network traffic. Simulate up to 50 concurrent users for up to 60 minutes for free monthly.
 
 ### Messaging and Streaming
 
-*   [courier.com](https://www.courier.com/) — Single API for push, in-app, email, chat, SMS, and other messaging channels with template management and other features. Free plan includes 10,000 messages/mo.
+*   [courier.com](https://www.courier.com/) — Single API for push, in-app, email, chat, SMS, and other messaging channels with template management and other features. The free plan includes 10,000 messages/mo.
 
 ### Crash and Exception Handling
 
-*   [GlitchTip](https://glitchtip.com/) — Simple, open source error tracking. Compatible with open-source Sentry SDKs. 1000 events per month for free, or can self-host with no limits
+*   [GlitchTip](https://glitchtip.com/) — Simple, open-source error tracking. Compatible with open-source Sentry SDKs. 1000 events per month for free, or can self-host with no limits
 
 ### BaaS
 
-*   [darklang.com](https://darklang.com/) - Hosted language combined with editor and infrastructure. Free during the beta, generous free tier planned after beta.
+*   [darklang.com](https://darklang.com/) - Hosted language combined with editor and infrastructure. Accessible during the beta, a generous free tier is planned after beta.
 
 ### Issue Tracking and Project Management
 
-*   [Issue Embed](https://issueembed.dev/) - A bug reporting tool for websites to go directly into your Github Issues. Free plan for personal repositories with up to 500 issues/month and 10,000 page views/month.
 *   [Kitemaker.co](https://kitemaker.co) - Collaborate through all phases of the product development process and keep track of work across Slack, Discord, Figma, and Github. Unlimited users, unlimited spaces. Free plan up to 250 work items.
 
 ### IDE and Code Editing
 
-*   [Eclipse Che](https://www.eclipse.org/che/) - Web based and Kubernetes-Native IDE for Developer Teams with multi-language support. Open Source and community driven. A online instance hosted by Red Hat is available at [workspaces.openshift.com](https://workspaces.openshift.com/).
+*   [Eclipse Che](https://www.eclipse.org/che/) - Web-based and Kubernetes-Native IDE for Developer Teams with multi-language support. Open Source and community-driven. An online instance hosted by Red Hat is available at [workspaces.openshift.com](https://workspaces.openshift.com/).
 
 ### Screenshot APIs
 
@@ -87,17 +86,17 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Ridiculous Coding (⭐628)](https://github.com/jotson/ridiculous_coding) - Makes your coding experience in Godot 1000× more ridiculous (Godot 3.x).
+*   [Ridiculous Coding (⭐650)](https://github.com/jotson/ridiculous_coding) - Makes your coding experience in Godot 1000× more ridiculous (Godot 3.x).
 
 ### Modules / Godot 3.2+
 
-*   [GodotAIGym (⭐162)](https://github.com/lupoglaz/GodotAIGym) - Make your Godot project into an OpenAI Gym environment to train RL models with PyTorch.
+*   [GodotAIGym (⭐179)](https://github.com/lupoglaz/GodotAIGym) - Make your Godot project into an OpenAI Gym environment to train RL models with PyTorch.
 
 ## [8. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Utils / Other Tools
 
-*   [FastAPI Websocket Pub/Sub (⭐8)](https://github.com/authorizon/fastapi_websocket_pubsub) - The classic pub/sub pattern made easily accessible and scalable over the web and across your cloud in realtime.
+*   [FastAPI Websocket Pub/Sub (⭐10)](https://github.com/authorizon/fastapi_websocket_pubsub) - The classic pub/sub pattern made easily accessible and scalable over the web and across your cloud in realtime.
 *   [FastAPI Websocket RPC (⭐4)](https://github.com/authorizon/fastapi_websocket_rpc) - RPC (bidirectional JSON RPC) over Websockets made easy, robust, and production ready.
 
 ## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
@@ -105,7 +104,7 @@
 ### REST and API
 
 *   [mazurka (⭐15)](https://github.com/exstruct/mazurka) - Hypermedia API toolkit.
-*   [SOAP client (⭐120)](https://github.com/elixir-soap/soap) - Hex-documented SOAP client based on HTTPoison.
+*   [SOAP client (⭐126)](https://github.com/elixir-soap/soap) - Hex-documented SOAP client based on HTTPoison.
 
 ## [10. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 

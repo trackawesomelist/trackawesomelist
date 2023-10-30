@@ -1,6 +1,6 @@
 # Awesome List Updates on May 01 - May 07, 2017
 
-40 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -65,41 +65,7 @@
 
 *   [iotaCSS](https://www.iotacss.com) - Open source Sass-based OOCSS framework built for scale.
 
-## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
-
-### Resources / Web programming
-
-*   Learning
-    *   [Awesome Rust Streaming (⭐632)](https://github.com/jamesmunns/awesome-rust-streaming) - A community curated list of livestreams about Rust.
-    *   [awesome-rust-mentors](https://rustbeginners.github.io/awesome-rust-mentors/) — A list of helpful Rust mentors willing to take mentees and educate them about Rust and programming.
-    *   [Build a language VM](https://blog.subnetzero.io/post/building-language-vm-part-00/)
-    *   [CodeCrafters.io](https://app.codecrafters.io/tracks/rust) — Build your own Redis, Git, Docker, or SQLite in Rust
-    *   [Easy Rust (⭐7.5k)](https://github.com/Dhghomon/easy_rust) - Learn Rust in easy English.
-    *   [exercism.org](https://exercism.org/tracks/rust) — programming exercises that help you learn new concepts in Rust.
-    *   [Hands-on Rust](https://pragprog.com/titles/hwrust/hands-on-rust/) - A hands-on guide to learning Rust by making games - by [Herbert Wolverson](https://github.com/thebracket/) (paid)
-    *   [Idiomatic Rust (⭐4.7k)](https://github.com/mre/idiomatic-rust) —  A peer-reviewed collection of articles/talks/repos which teach idiomatic Rust.
-    *   [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/) — in-depth exploration of Rust's memory management rules, through implementing a few different types of list structures.
-    *   [Little Book of Rust Books](https://lborb.github.io/book/) - Curated list of rust books and how-tos.
-    *   [Programming Community Curated Resources for Learning Rust](https://hackr.io/tutorials/learn-rust) — A list of recommended resources voted by the programming community.
-    *   [Refactoring to Rust](https://www.manning.com/books/refactoring-to-rust) - A book that introduces to Rust language.
-    *   [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
-    *   [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) — A collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.
-    *   [Rust for professionals](https://overexact.com/rust-for-professionals/) — A quick introduction to Rust for experienced software developers.
-    *   [Rust Gym (⭐709)](https://github.com/warycat/rustgym) - A big collection of coding interview problems solved in Rust.
-    *   [Rust in Action](https://www.manning.com/books/rust-in-action) — A hands-on guide to systems programming with Rust by [Tim McNamara](https://github.com/timClicks) (paid)
-    *   [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion?a_aid=cnichols\&a_bid=6a993c2e) — A video series by [Carol Nichols](https://github.com/carols10cents) and [Jake Goulding](https://github.com/shepmaster) (paid)
-    *   [Rust Language Cheat Sheet](https://cheats.rs/)
-    *   [Rust Online Courses at Classpert](https://classpert.com/search/rust) — A list of Rust online courses (paid) from Classpert Online Course Search
-    *   [Rust Tiếng Việt](https://rust-tieng-viet.github.io/) - Learn Rust in Vietnamese.
-    *   [rust-how-do-i-start (⭐879)](https://github.com/jondot/rust-how-do-i-start) - A repo dedicated to answering the question: "So, Rust. How do I *start*?". A beginner only hand-picked resources and learning track.
-    *   [rust-learning (⭐9.8k)](https://github.com/ctjhoa/rust-learning) — A collection of useful resources to learn Rust
-    *   [Rustlings (⭐39k)](https://github.com/rust-lang/rustlings) — small exercises to get you used to reading and writing Rust code
-    *   [Rusty CS (⭐715)](https://github.com/AbdesamedBendjeddou/Rusty-CS) - A Computer Science Curriculum that helps practice the acquired academic knowledge in Rust
-    *   [stdx (⭐1.9k)](https://github.com/brson/stdx) — Learn these crates first as an extension to std
-    *   [Take your first steps with Rust](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/) - Lay the foundation of knowledge you need to build fast and effective programs in Rust.
-    *   [University of Pennsylvania's Comp Sci Rust Programming Course](http://cis198-2016s.github.io/schedule/)
-
-## [7. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [6. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### C++
 
@@ -113,25 +79,25 @@
 
 *   [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
 
-## [8. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [7. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Visualization, Dashboards / Firmwares for ESP based Devices
 
 *   [HOMR-REACT (⭐16)](https://github.com/klauserber/homr-react) - A configurable MQTT Visualization.
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Asynchronous Event Loop
 
-*   [uvw (⭐1.6k)](https://github.com/skypjack/uvw) - C++ wrapper for libuv. \[MIT]
+*   [uvw (⭐1.7k)](https://github.com/skypjack/uvw) - C++ wrapper for libuv. \[MIT]
 
-## [10. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [9. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Multimedia content processing
 
 *   [SoX](http://sox.sourceforge.net/) - The Swiss Army knife of sound processing programs.
 
-## [11. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [10. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI / Camera
 
@@ -141,7 +107,7 @@
 
 *   [Moshi (⭐8.6k)](https://github.com/square/moshi) - A modern JSON library for Android and Java.
 
-## [12. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [11. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Elements / Canvas
 
@@ -185,31 +151,31 @@
 
 *   [HTML5 development guide from MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
-## [13. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [12. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Tools / Web App
 
 *   [Colormind](http://www.colormind.io/) - Colormind is a color scheme generator that uses deep learning.
 
-## [14. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [13. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Design patterns / Chrome Extensions
 
-*   :octocat: [Design Patterns implementation (⭐4.8k)](https://github.com/torokmark/design_patterns_in_typescript) - Implementation of the well-known 23 patterns of GoF
+*   :octocat: [Design Patterns implementation (⭐5k)](https://github.com/torokmark/design_patterns_in_typescript) - Implementation of the well-known 23 patterns of GoF
 
-## [15. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Neural Networks
 
-*   [NeuralTalk (⭐5.3k)](https://github.com/karpathy/neuraltalk) - NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.
+*   [NeuralTalk (⭐5.4k)](https://github.com/karpathy/neuraltalk) - NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.
 
 ### Python / Reinforcement Learning
 
 *   [DeepMind Lab (⭐6.9k)](https://github.com/deepmind/lab) - DeepMind Lab is a 3D learning environment based on id Software's Quake III Arena via ioquake3 and other open source software. Its primary purpose is to act as a testbed for research in artificial intelligence, especially deep reinforcement learning.
-*   [Gym (⭐31k)](https://github.com/openai/gym) - OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms.
-*   [ViZDoom (⭐1.5k)](https://github.com/mwydmuch/ViZDoom) - ViZDoom allows developing AI bots that play Doom using only the visual information (the screen buffer). It is primarily intended for research in machine visual learning, and deep reinforcement learning, in particular.
+*   [Gym (⭐33k)](https://github.com/openai/gym) - OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms.
+*   [ViZDoom (⭐1.6k)](https://github.com/mwydmuch/ViZDoom) - ViZDoom allows developing AI bots that play Doom using only the visual information (the screen buffer). It is primarily intended for research in machine visual learning, and deep reinforcement learning, in particular.
 
-## [16. Guides](/content/NARKOZ/guides/week/README.md)
+## [15. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Markup / HTML
 
@@ -270,19 +236,19 @@
 *   [Writing style](https://atlassian.design/server/foundations/writing-style/)
 *   [Documentation Style Guide](https://web.archive.org/web/20150320233932/http://docs.basho.com/riak/latest/community/style-guide/)
 
-## [17. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [16. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### JSON Schema Tools
 
 *   [JSONSchema.net](https://jsonschema.net//) - JSON Schema generator from JSON object.
 
-## [18. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [17. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Utilities
 
 *   [Vert.x Util (⭐2)](https://github.com/juanavelez/vertx-util) - A collection of Vert.x utility methods.
 
-## [19. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [18. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Podcasts
 
@@ -294,15 +260,15 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-inject (⭐184)](https://github.com/jpex-js/vue-inject) - Dependency injection for Vue 2.x Components
+*   [vue-inject (⭐185)](https://github.com/jpex-js/vue-inject) - Dependency injection for Vue 2.x Components
 
-## [20. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [19. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Media
 
 *   [Wagtail FilePreviews (⭐22)](https://github.com/filepreviews/wagtail-filepreviews) - Extend Wagtail's Documents with image previews and metadata from FilePreviews.io.
 
-## [21. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
+## [20. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
 
 ### Podcasts / Other
 
@@ -512,7 +478,7 @@
 *   'how do i deal with support'
 *   'types of digital products'
 
-## [22. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [21. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -528,29 +494,29 @@
 
 *   [Increment](https://increment.com/) - A digital magazine about how teams build and operate software systems at scale.
 
-## [23. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [22. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Webdriver automation
 
-*   [Etaoin (⭐854)](https://github.com/igrishaev/etaoin)
+*   [Etaoin (⭐859)](https://github.com/igrishaev/etaoin)
 
-## [24. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [23. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Perceptial Models - Auditory Models
 
-*   [Brian2](http://briansimulator.org/) [:octocat: (⭐746)](https://github.com/brian-team/brian2) [:package:](https://pypi.python.org/pypi/Brian2) - Spiking neural networks simulator, includes cochlea model.
+*   [Brian2](http://briansimulator.org/) [:octocat: (⭐787)](https://github.com/brian-team/brian2) [:package:](https://pypi.python.org/pypi/Brian2) - Spiking neural networks simulator, includes cochlea model.
 
 ### Audio Related Packages / Source Separation
 
 *   [NTFLib (⭐46)](https://github.com/stitchfix/NTFLib) [:octocat: (⭐46)](https://github.com/stitchfix/NTFLib) - Sparse Beta-Divergence Tensor Factorization.
 
-## [25. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [24. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Apps / *SSH*   keys / Authentication
 
 *   [kr (⭐1.6k)](https://github.com/KryptCo/kr) [![stars](https://img.shields.io/github/stars/dolmen/github-keygen.svg?style=social\&label=stars)](https://github.com/KryptCo/kr) - Kr agent that route access request to the paired mobile phone where Kryptonite is installed.
 
-## [26. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
+## [25. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
 ### Augmented & Virtual Reality
 
@@ -561,7 +527,7 @@
 
 *   [CharacterController2D (⭐979)](https://github.com/prime31/CharacterController2D) - A 2D controller that behaves very similarly to Unity's CharacterController component.
 
-## [27. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [26. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Community
 
@@ -571,7 +537,7 @@
 *   [Reddit](https://www.reddit.com/r/vulkan/)
 *   [Stack Overflow](http://stackoverflow.com/questions/tagged/vulkan)
 
-## [28. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [27. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Pipeline Generation
 
@@ -585,7 +551,7 @@
 *   [RSyntaxTree](https://yohasebe.com/rsyntaxtree/) -
     Web based demonstration of the syntactic tree visualization.
 
-## [29. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [28. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Online Courses
 
@@ -599,22 +565,22 @@
 *   [CodeWars](http://www.codewars.com/) - A website that houses support to solve algorithms in many languages in varying difficulty.
 *   [Kattis](https://open.kattis.com/)- Online judge and problem archive
 
-## [30. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [29. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Webpack / Components
 
-*   [Angular Nightly Webpack Starter (⭐894)](https://github.com/qdouble/angular-webpack2-starter)
-*   [Angular Webpack with Visual Studio ASP.NET Core from Damien Bowden (⭐487)](https://github.com/damienbod/AngularWebpackVisualStudio)
-*   [Angular Typescript Webpack from schempy (⭐68)](https://github.com/schempy/angular2-typescript-webpack)
+*   [Angular Nightly Webpack Starter (⭐890)](https://github.com/qdouble/angular-webpack2-starter)
+*   [Angular Webpack with Visual Studio ASP.NET Core from Damien Bowden (⭐486)](https://github.com/damienbod/AngularWebpackVisualStudio)
+*   [Angular Typescript Webpack from schempy (⭐67)](https://github.com/schempy/angular2-typescript-webpack)
 *   [Angular Webpack + rxjs + modules (⭐5)](https://github.com/jorgeas80/angular2-webpack-toh)
 
-## [31. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [30. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Books
 
 *   [Machine Learning with TensorFlow](http://tensorflowbook.com) by Nishant Shukla, computer vision researcher at UCLA and author of Haskell Data Analysis Cookbook. This book makes the math-heavy topic of ML approachable and practicle to a newcomer.
 
-## [32. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [31. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Drawing / Others
 
@@ -643,13 +609,13 @@
 *   [PrintWhatYouLike](http://www.printwhatyoulike.com/) - Print any webpage or save it as HTML or PDF.
 *   [WhatTheFont](http://www.myfonts.com/WhatTheFont/) - Determine font name from an image.
 
-## [33. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [32. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Plugins / IRC
 
 *   [Symfony-Flex (⭐3.9k)](https://github.com/symfony/flex) - Provides [recipe-based (⭐846)](https://github.com/symfony/recipes) installation and configuration management for Symfony packages.
 
-## [34. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [33. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Build And Release System
 
@@ -659,34 +625,34 @@
 
 *   [mesosphere-dc/os](https://github.com/cicdops/awesome-ciandcd/blob/master/README.md/mesosphere.com) As a datacenter operating system, DC/OS is itself a distributed system, a cluster manager, a container platform, and an operating system.
 
-## [35. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [34. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### General
 
 *   [27 fonts (give or take) that explain your world](https://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)
 
-## [36. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [35. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Blog Posts & Tutorials
 
 *   [Autoencoders and anomaly detection with machine learning in fraud analytics ](https://shiring.github.io/machine_learning/2017/05/01/fraud) May 1, 2017
 
-## [37. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [36. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [protoactor-dotnet (⭐1.4k)](https://github.com/AsynkronIT/protoactor-dotnet) - Ultra fast distributed actors for Golang and C# <http://proto.actor>.
+*   [protoactor-dotnet (⭐1.6k)](https://github.com/AsynkronIT/protoactor-dotnet) - Ultra fast distributed actors for Golang and C# <http://proto.actor>.
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [X.Web.Sitemap (⭐3)](https://github.com/dncuug/X.Web.Sitemap) – Simple sitemap generator for .NET and .NET Core
-*   [X.Web.RSS (⭐20)](https://github.com/dncuug/X.Web.RSS) – Simple RSS Feed generator for .NET and .NET Core
+*   [X.Web.Sitemap (⭐5)](https://github.com/dncuug/X.Web.Sitemap) – Simple sitemap generator for .NET and .NET Core
+*   [X.Web.RSS (⭐25)](https://github.com/dncuug/X.Web.RSS) – Simple RSS Feed generator for .NET and .NET Core
 
 ### Books / Workflow
 
 *   [Dependency Injection in .NET Core, 2nd edition](https://www.manning.com/books/dependency-injection-in-dot-net-second-edition)
 
-## [38. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [37. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Desktop
 
@@ -694,10 +660,10 @@
 
 ### Tools / Web
 
-*   [adminMongo (⭐3.8k)](https://github.com/mrvautin/adminMongo) - Web-based user interface to handle connections and databases needs
+*   [adminMongo (⭐3.9k)](https://github.com/mrvautin/adminMongo) - Web-based user interface to handle connections and databases needs
 *   [Rockmongo (⭐1k)](https://github.com/iwind/rockmongo) - PHPMyAdmin for MongoDB, sort of
 
-## [39. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [38. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Blog Series
 
@@ -706,7 +672,7 @@
 ### Books
 
 *   [Professional WebGL Programming](https://www.amazon.com/Professional-WebGL-Programming-Developing-Graphics/dp/1119968860) by **Andreas Anyuru** - Everything you need to know about developing hardware-accelerated 3D graphics with WebGL.
-*   [WebGL Insights (⭐37)](https://github.com/WebGLInsights/WebGLInsights.github.io/releases/download/v1.0/WebGL.Insights.-.Patrick.Cozzi.pdf) by **Patrick Cozzi** - Presents real-world techniques for intermediate and advanced WebGL developers by assembling contributions from experienced WebGL engine and application developers, GPU vendors, browser developers, researchers, and educators.
+*   [WebGL Insights (⭐38)](https://github.com/WebGLInsights/WebGLInsights.github.io/releases/download/v1.0/WebGL.Insights.-.Patrick.Cozzi.pdf) by **Patrick Cozzi** - Presents real-world techniques for intermediate and advanced WebGL developers by assembling contributions from experienced WebGL engine and application developers, GPU vendors, browser developers, researchers, and educators.
     *   [Book's Personal Site](http://www.webglinsights.com/)
 *   [WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL](https://www.amazon.com/WebGL-Programming-Guide-Interactive-Graphics/dp/0321902920) by **Kouichi Matsuda** and **Rodger Lea** - WebGL Programming Guide will help you get started quickly with interactive WebGL 3D programming, even if you have no prior knowledge of HTML5, JavaScript, 3D graphics, mathematics, or OpenGL.
 
@@ -717,8 +683,8 @@
 
 ### References
 
-*   [Google Project ANGLE (⭐2.7k)](https://github.com/google/angle) - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
-*   [WebGL Source Code (⭐2.3k)](https://github.com/KhronosGroup/WebGL) - Source code to both view and contribute.
+*   [Google Project ANGLE (⭐3k)](https://github.com/google/angle) - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
+*   [WebGL Source Code (⭐2.5k)](https://github.com/KhronosGroup/WebGL) - Source code to both view and contribute.
 
 ### Tools/Debugging
 
@@ -734,13 +700,13 @@
 *   [Learning WebGL](http://learningwebgl.com/blog/?page_id=1217) - Tutorials from the author of *WebGL Up and Running*.
 *   [WebGL Academy](http://www.webglacademy.com/) - Simplified online IDE with automatic indentation, syntax highlighting for HTML, Javascript, GLSL and Python. You can run your code and download your projects.
 *   [WebGL Fundamentals](https://webglfundamentals.org/) - Series of online tutorials with code samples and live demonstrations.
-*   [WebGL 2 Examples (⭐445)](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2.
+*   [WebGL 2 Examples (⭐487)](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2.
 
 ### WebGL 2 / Particles
 
 *   [PicoGL.js](https://tsherif.github.io/picogl.js/) - Minimal WebGL 2-only rendering library.
 
-## [40. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [39. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### API Gateways / Edge Services / Scala
 

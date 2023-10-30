@@ -60,12 +60,12 @@
 
 ### Utilities / Theming and Customization
 
-*   [QuickWall (⭐184)](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
+*   [QuickWall (⭐185)](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
 
 ### Data Manipulation / JSON
 
-*   [strip-json-comments-cli (⭐61)](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
-*   [GROQ (⭐170)](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
+*   [strip-json-comments-cli (⭐64)](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
+*   [GROQ (⭐178)](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
 
 ## [8. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -134,7 +134,7 @@
 
 ### RESTful
 
-*   [REST API (⭐83)](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon
+*   [REST API (⭐85)](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon
 
 ## [12. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
@@ -150,18 +150,18 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [dowel (⭐28)](https://github.com/rlworkgroup/dowel) - A little logger for machine learning research. Output any object to the terminal, CSV, TensorBoard, text logs on disk, and more with just one call to `logger.log()`.
+*   [dowel (⭐31)](https://github.com/rlworkgroup/dowel) - A little logger for machine learning research. Output any object to the terminal, CSV, TensorBoard, text logs on disk, and more with just one call to `logger.log()`.
 
 ### Python / Reinforcement Learning
 
 *   [garage (⭐1.7k)](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research
-*   [metaworld (⭐905)](https://github.com/rlworkgroup/metaworld) - An open source robotics benchmark for meta- and multi-task reinforcement learning
+*   [metaworld (⭐969)](https://github.com/rlworkgroup/metaworld) - An open source robotics benchmark for meta- and multi-task reinforcement learning
 
 ## [14. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### WSL Tools / Terminals
 
-*   [Windows Terminal (⭐89k)](https://github.com/microsoft/terminal) - The new open-source Windows Terminal. ![github\_project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [Windows Terminal (⭐90k)](https://github.com/microsoft/terminal) - The new open-source Windows Terminal. ![github\_project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ---
 

@@ -10,13 +10,13 @@
 
 ### Extensions
 
-*   [Serverless Framework plugin for Next.js (⭐4.1k)](https://github.com/danielcondemarin/serverless-nextjs-plugin) - Deploy serverless applications with ease.
+*   [Serverless Framework plugin for Next.js (⭐4.3k)](https://github.com/danielcondemarin/serverless-nextjs-plugin) - Deploy serverless applications with ease.
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Automation / Code libraries and bindings
 
-*   [censys-python (⭐313)](https://github.com/censys/censys-python) - Python wrapper to the Censys REST API.
+*   [censys-python (⭐337)](https://github.com/censys/censys-python) - Python wrapper to the Censys REST API.
 
 ## [3. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [mRemoteNG (⭐6.9k)](https://github.com/mRemoteNG/mRemoteNG) - The next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager
+*   [mRemoteNG (⭐7.9k)](https://github.com/mRemoteNG/mRemoteNG) - The next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager
 
 ---
 

@@ -51,7 +51,7 @@
 
 ### Domain-Specific Projects
 
-*   [Jupylet (⭐194)](https://github.com/nir/jupylet) - Create 2D and 3D games, graphics, live music and sound interactively in a Jupyter notebook.
+*   [Jupylet (⭐201)](https://github.com/nir/jupylet) - Create 2D and 3D games, graphics, live music and sound interactively in a Jupyter notebook.
 
 ## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Apps / Misc
 
-*   [Wagtail Trash (⭐29)](https://github.com/Frojd/wagtail-trash) - Will place pages in a trash can from where they can be restored instead of being permanently deleted.
+*   [Wagtail Trash (⭐32)](https://github.com/Frojd/wagtail-trash) - Will place pages in a trash can from where they can be restored instead of being permanently deleted.
 
 ## [11. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -87,9 +87,9 @@
 
 ### Tools & Utilities / Others
 
-*   [BlazorGoogleMaps (⭐241)](https://github.com/rungwiroon/BlazorGoogleMaps) - ![stars](https://img.shields.io/github/stars/rungwiroon/BlazorGoogleMaps?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/rungwiroon/BlazorGoogleMaps?style=flat-square\&cacheSeconds=86400) Blazor interop for GoogleMap library.
-*   [BlazorRouter (⭐54)](https://github.com/hez2010/BlazorRouter) - ![stars](https://img.shields.io/github/stars/hez2010/BlazorRouter?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/hez2010/BlazorRouter?style=flat-square\&cacheSeconds=86400) BlazorRouter is an awesome router inspired by react-router, providing declarative routing for Blazor.
-*   [DataJuggler.Blazor.FileUpload (⭐24)](https://github.com/DataJuggler/BlazorFileUpload) - ![stars](https://img.shields.io/github/stars/DataJuggler/BlazorFileUpload?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DataJuggler/BlazorFileUpload?style=flat-square\&cacheSeconds=86400) Wrapper for Steve Sanderson's BlazorFileInput component.
+*   [BlazorGoogleMaps (⭐261)](https://github.com/rungwiroon/BlazorGoogleMaps) - ![stars](https://img.shields.io/github/stars/rungwiroon/BlazorGoogleMaps?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/rungwiroon/BlazorGoogleMaps?style=flat-square\&cacheSeconds=86400) Blazor interop for GoogleMap library.
+*   [BlazorRouter (⭐58)](https://github.com/hez2010/BlazorRouter) - ![stars](https://img.shields.io/github/stars/hez2010/BlazorRouter?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/hez2010/BlazorRouter?style=flat-square\&cacheSeconds=86400) BlazorRouter is an awesome router inspired by react-router, providing declarative routing for Blazor.
+*   [DataJuggler.Blazor.FileUpload (⭐28)](https://github.com/DataJuggler/BlazorFileUpload) - ![stars](https://img.shields.io/github/stars/DataJuggler/BlazorFileUpload?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DataJuggler/BlazorFileUpload?style=flat-square\&cacheSeconds=86400) Wrapper for Steve Sanderson's BlazorFileInput component.
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

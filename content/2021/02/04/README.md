@@ -10,7 +10,7 @@
 
 ### Tools / Collection View Layout
 
-*   [Xcodes.app (⭐4.8k)](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode.
+*   [Xcodes.app (⭐5.5k)](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode.
 
 ## [2. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 
@@ -560,13 +560,7 @@ Language: English \ <br>
 *   [Awesome ImageHarmonization (⭐14)](https://github.com/subeeshvasu/Awesome-ImageHarmonization)
 *   [Awsome GAN Training (⭐12)](https://github.com/subeeshvasu/Awsome-GAN-Training)
 
-## [4. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
-
-### Swift / Angular
-
-*   [Indie iOS Focus Weekly](https://indieiosfocus.com). Best iOS development, marketing, Swift, design, and Xcode links.
-
-## [5. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [4. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Emulator Development / Misc
 
@@ -574,27 +568,27 @@ Language: English \ <br>
 
 ### Demos / Syntax highlighting packages
 
-*   [GBVideoPlayer2 (⭐76)](https://github.com/LIJI32/GBVideoPlayer2) - The second iteration of the above demo, which increases the resolution, adds *stereo- PCM audio, and introduces video compression*.
+*   [GBVideoPlayer2 (⭐79)](https://github.com/LIJI32/GBVideoPlayer2) - The second iteration of the above demo, which increases the resolution, adds *stereo- PCM audio, and introduces video compression*.
 
-## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### UI Libraries, Components & Templates
 
 *   🧩 [Kometa UI Kit](https://kitwind.io/products/kometa/components) - Free multi-purpose UI kit, built with Tailwind CSS.
 
-## [7. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [6. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### Misc
 
 *   [Autocode](https://autocode.com) - New user notifications. Purchase alerts. Scheduled jobs. SQL queries.
 
-## [8. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+## [7. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Pricing / Strategy
 
 *   "There are two ways to make money. You can bundle, or you can unbundle." - [Jim Barksdale](https://hbr.org/podcast/2014/07/marc-andreessen-and-jim-barksdale-on-how-to-make-money.html#transcript-section).
 
-## [9. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
+## [8. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Data formats / Mesh tools
 
@@ -614,15 +608,21 @@ Language: English \ <br>
 *   [pyGAM](https://pygam.readthedocs.io/en/latest/) - Generalized Additive Models in Python.
     (Python, Apache 2.0, [GitHub (⭐760)](https://github.com/dswah/pyGAM))
 
-## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Boilerplate / Mouse Events
 
-*   [rockpack (⭐494)](https://github.com/AlexSergey/rockpack) - Simple solution for creating React application with SSR, bundling, linting, testing within 5 minutes.
+*   [rockpack (⭐529)](https://github.com/AlexSergey/rockpack) - Simple solution for creating React application with SSR, bundling, linting, testing within 5 minutes.
 
 ### Server-Side Rendering / Lazy Load
 
 *   [iSSR (⭐98)](https://github.com/AlexSergey/issr) - The easiest way to move your React application to Server-Side Rendering. Handles Side Effects and synchronizes State.
+
+## [10. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Julia / Vue.js
+
+*   [Julia language: a concise tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial) - Antonello Lobianco (GitBook)
 
 ---
 

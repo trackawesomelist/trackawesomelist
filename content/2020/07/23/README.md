@@ -45,14 +45,14 @@
 
 ### Back-end API / Playground
 
-*   :octocat: [LoopBack 4 (⭐4.5k)](https://github.com/strongloop/loopback-next) - A highly extensible Node.js and TypeScript framework for building APIs and microservices. :rocket: (see also: <https://loopback.io/>)
+*   :octocat: [LoopBack 4 (⭐4.7k)](https://github.com/strongloop/loopback-next) - A highly extensible Node.js and TypeScript framework for building APIs and microservices. :rocket: (see also: <https://loopback.io/>)
 
 ## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Templates
 
-*   [CleanArchitecture (⭐11k)](https://github.com/ardalis/CleanArchitecture) - A starting point for Clean Architecture with ASP.NET Core. Clean Architecture is just the latest in a series of names for the same loosely-coupled, dependency-inverted architecture. You will also find it named hexagonal, ports-and-adapters, or onion architecture.
-*   [CleanArchitecture (SPA) (⭐10k)](https://github.com/JasonGT/CleanArchitecture) - Solution template for creating a Single Page App (SPA) with Angular 8 and ASP.NET Core 3 following the principles of Clean Architecture
+*   [CleanArchitecture (⭐14k)](https://github.com/ardalis/CleanArchitecture) - A starting point for Clean Architecture with ASP.NET Core. Clean Architecture is just the latest in a series of names for the same loosely-coupled, dependency-inverted architecture. You will also find it named hexagonal, ports-and-adapters, or onion architecture.
+*   [CleanArchitecture (SPA) (⭐14k)](https://github.com/JasonGT/CleanArchitecture) - Solution template for creating a Single Page App (SPA) with Angular 8 and ASP.NET Core 3 following the principles of Clean Architecture
 
 ## [8. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
@@ -75,19 +75,19 @@
 
 ### Asset Management
 
-*   [AssetMix plugin](https://github.com/ishanvyas22/asset-mix) - Provides integration with [Laravel Mix](https://laravel-mix.com) asset compilation.
+*   🍰 [AssetMix plugin (⭐29)](https://github.com/ishanvyas22/asset-mix) - Provides integration with [Laravel Mix](https://laravel-mix.com) asset compilation.
 
 ## [11. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Memory Analysis Tools
 
-*   [AVML (⭐664)](https://github.com/microsoft/avml) - A portable volatile memory acquisition tool for Linux.
+*   [AVML (⭐709)](https://github.com/microsoft/avml) - A portable volatile memory acquisition tool for Linux.
 
 ## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Individual components / Datagrids / tables
 
-*   [Grid.Blazor (⭐615)](https://github.com/gustavnavar/Grid.Blazor) - ![stars](https://img.shields.io/github/stars/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=86400) Grid component with CRUD forms for Blazor and ASP.NET MVC, supporting filtering, sorting, searching, paging, subgrids and others ([Demo](http://gridblazor.azurewebsites.net)).
+*   [Grid.Blazor (⭐647)](https://github.com/gustavnavar/Grid.Blazor) - ![stars](https://img.shields.io/github/stars/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=86400) Grid component with CRUD forms for Blazor and ASP.NET MVC, supporting filtering, sorting, searching, paging, subgrids and others ([Demo](http://gridblazor.azurewebsites.net)).
 
 ## [13. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
 
@@ -104,7 +104,7 @@
 ### Visualization / Map
 
 *   [folium](https://python-visualization.github.io/folium/quickstart.html#Getting-Started) - Makes it easy to visualize data on an interactive open street map
-*   [geemap (⭐2.7k)](https://github.com/giswqs/geemap) - Python package for interactive mapping with Google Earth Engine (GEE)
+*   [geemap (⭐2.9k)](https://github.com/giswqs/geemap) - Python package for interactive mapping with Google Earth Engine (GEE)
 
 ## [15. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
@@ -116,9 +116,9 @@
 
 ### Softwares / Libraries
 
-*   [CraftLib (⭐63)](https://github.com/zerite/craftlib) - Complete [Kotlin](https://kotlinlang.org) / Java library for wrapping the entire Minecraft codebase, including protocol, NBT, schematics, chat and more.
-*   [MCProtocolLib (⭐630)](https://github.com/Steveice10/MCProtocolLib) - A simple library for communicating with a Minecraft client/server, written in Java.
-*   [node-minecraft-protocol (⭐1k)](https://github.com/PrismarineJS/node-minecraft-protocol) - A NodeJS library to parse and serialize minecraft packets, plus authentication and encryption.
+*   [CraftLib (⭐78)](https://github.com/zerite/craftlib) - Complete [Kotlin](https://kotlinlang.org) / Java library for wrapping the entire Minecraft codebase, including protocol, NBT, schematics, chat and more.
+*   [MCProtocolLib (⭐663)](https://github.com/Steveice10/MCProtocolLib) - A simple library for communicating with a Minecraft client/server, written in Java.
+*   [node-minecraft-protocol (⭐1.1k)](https://github.com/PrismarineJS/node-minecraft-protocol) - A NodeJS library to parse and serialize minecraft packets, plus authentication and encryption.
 
 ---
 

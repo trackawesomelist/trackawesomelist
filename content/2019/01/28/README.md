@@ -66,13 +66,13 @@
 
 ### Warsaw
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/aganaplocha" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/aganaplocha" height="70px" width="70px" align="left" alt="" />
 
 **Aga Naplocha**\
 Topics: CSS, Teaching Web Technologies\
 <https://twitter.com/aganaplocha>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/tomasz_ducin" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/tomasz_ducin" height="70px" width="70px" align="left" alt="" />
 
 **Tomasz Ducin**\
 Topics: JavaScript, TypeScript, React, Angular, RxJS, Async, Architecture\

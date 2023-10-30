@@ -10,7 +10,7 @@
 
 ### Languages
 
-*   [Suzy (⭐7)](https://github.com/gvx/suzy) - 3D language inspired in Befunge.
+*   [Suzy (⭐8)](https://github.com/gvx/suzy) - 3D language inspired in Befunge.
 
 ## [2. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
@@ -147,7 +147,7 @@
 
 ### Misc
 
-*   [crz (⭐88)](https://github.com/dhruvrajvanshi/crz) - Functional programming library
+*   [crz (⭐90)](https://github.com/dhruvrajvanshi/crz) - Functional programming library
 
 ## [10. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -158,23 +158,23 @@
 
 ### Machine learning • Computer Vision • Ai / Other
 
-*   [Machine Learning (⭐945)](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources.
+*   [Machine Learning (⭐948)](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources.
 
 ## [11. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Bindings
 
-*   [vulkan (⭐396)](https://github.com/realitix/vulkan) - Ultimate Python bindings for Vulkan generated with CFFI. \[Apache Licence 2.0]
+*   [vulkan (⭐414)](https://github.com/realitix/vulkan) - Ultimate Python bindings for Vulkan generated with CFFI. \[Apache Licence 2.0]
 
 ## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Code Analysis and Metrics
 
-*   [NsDepCop (⭐154)](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
+*   [NsDepCop (⭐165)](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
 
 ### Decompilation
 
-*   [dnSpy (⭐23k)](https://github.com/0xd4d/dnSpy) - open-source .NET assembly browser, editor, decompiler and debugger
+*   [dnSpy (⭐24k)](https://github.com/0xd4d/dnSpy) - open-source .NET assembly browser, editor, decompiler and debugger
 
 ---
 

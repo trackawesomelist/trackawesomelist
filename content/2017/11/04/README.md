@@ -16,13 +16,13 @@
 
 ### Node.js / WebAPI
 
-*   [steamapi (⭐126)](https://github.com/lloti/node-steamapi) - A nice Steam API wrapper.
+*   [steamapi (⭐140)](https://github.com/lloti/node-steamapi) - A nice Steam API wrapper.
 
 ## [3. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Disk Image Creation Tools
 
-*   [Bitscout (⭐423)](https://github.com/vitaly-kamluk/bitscout) - Bitscout by Vitaly Kamluk helps you build your fully-trusted customizable LiveCD/LiveUSB image to be used for remote digital forensics (or perhaps any other task of your choice). It is meant to be transparent and monitorable by the owner of the system, forensically sound, customizable and compact.
+*   [Bitscout (⭐424)](https://github.com/vitaly-kamluk/bitscout) - Bitscout by Vitaly Kamluk helps you build your fully-trusted customizable LiveCD/LiveUSB image to be used for remote digital forensics (or perhaps any other task of your choice). It is meant to be transparent and monitorable by the owner of the system, forensically sound, customizable and compact.
 
 ## [4. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Augsburg
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/Jhnnns" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/Jhnnns" height="70px" width="70px" align="left" alt="" />
 
 **Johannes Ewald**\
 Topics: Tooling, Standards, webpack\
@@ -70,7 +70,7 @@ Topics: Tooling, Standards, webpack\
 
 ### Apps
 
-*   [Decoupled CMS example with GraphQL and Next.js (⭐30)](https://github.com/janit/decoupled-cms-nextjs-graphql)
+*   [Decoupled CMS example with GraphQL and Next.js (⭐29)](https://github.com/janit/decoupled-cms-nextjs-graphql)
 
 ## [10. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/README.md)
 

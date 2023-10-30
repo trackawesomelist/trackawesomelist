@@ -14,9 +14,9 @@
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### DBaaS
+### Managed Data Services
 
-*   [TiDB Cloud](https://en.pingcap.com/tidb-cloud/) — TiDB is an open source MySQL compatible distributed HTAP RDBMS. TiDB Cloud provides one-year free Developer Tier, 500 MiB of OLTP storage, and 500 MiB of OLAP Storage.
+*   [TiDB Cloud](https://en.pingcap.com/tidb-cloud/) — TiDB is an open-source MySQL-compatible distributed HTAP RDBMS. TiDB Serverless provides 5GB of row storage, 5GB of column storage, and 50 million Request Units (RUs) for free each month.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -26,32 +26,28 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Zipline (⭐453)](https://github.com/diced/zipline) - A lightweight, fast and reliable file sharing server that is commonly used with ShareX, offering a react-based Web UI and fast API. `MIT` `Nodejs`
+*   [Zipline (⭐700)](https://github.com/diced/zipline) - A lightweight, fast and reliable file sharing server that is commonly used with ShareX, offering a react-based Web UI and fast API. `MIT` `Docker/Nodejs`
 
 ### Software / Self-hosting Solutions
 
-*   [LibreServer](https://libreserver.org/) - Home server configuration based on Debian. ([Source Code (⭐16)](https://github.com/bashrc2/libreserver)) `AGPL-3.0` `Shell`
-
-### Software / Task Management & To-do Lists
-
-*   [Restyaboard (⭐2k)](https://github.com/RestyaPlatform/board/) - Open source Trello-like kanban board. `OSL-3.0` `PHP`
+*   [LibreServer](https://libreserver.org/) - Home server configuration based on Debian. ([Source Code (⭐20)](https://github.com/bashrc2/libreserver)) `AGPL-3.0` `Shell`
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [ldelossa/vimdark (⭐68)](https://github.com/ldelossa/vimdark) - A minimal Vim theme for night time. Loosely based on vim-monotonic and chrome's dark reader extension. A light theme is included as well for the day time.
+*   [ldelossa/vimdark (⭐69)](https://github.com/ldelossa/vimdark) - A minimal Vim theme for night time. Loosely based on vim-monotonic and chrome's dark reader extension. A light theme is included as well for the day time.
 
 ### Editing Support / Diagnostics
 
-*   [h-hg/fcitx.nvim (⭐57)](https://github.com/h-hg/fcitx.nvim) - Switching and restoring fcitx state for each buffer separately.
-*   [filipdutescu/renamer.nvim (⭐262)](https://github.com/filipdutescu/renamer.nvim) - VS Code-like renaming UI, written in Lua.
+*   [h-hg/fcitx.nvim (⭐64)](https://github.com/h-hg/fcitx.nvim) - Switching and restoring fcitx state for each buffer separately.
+*   [filipdutescu/renamer.nvim (⭐283)](https://github.com/filipdutescu/renamer.nvim) - VS Code-like renaming UI, written in Lua.
 
 ## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Testing
 
-*   [robfletcher/strikt (⭐491)](https://github.com/robfletcher/strikt) - An assertion library for Kotlin
+*   [robfletcher/strikt (⭐511)](https://github.com/robfletcher/strikt) - An assertion library for Kotlin
 
 ## [6. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
@@ -74,26 +70,26 @@
 ### Libraries / Audio and Music
 
 *   [RustAudio](https://github.com/RustAudio)
-    *   [RustAudio/cpal (⭐1.9k)](https://github.com/RustAudio/cpal) - Low-level cross-platform audio I/O library in pure Rust. [![Actions Status](https://github.com/RustAudio/cpal/workflows/cpal/badge.svg?branch=master)](https://github.com/RustAudio/cpal/actions)
-    *   [RustAudio/rodio (⭐1.3k)](https://github.com/RustAudio/rodio) — A Rust audio playback library
-    *   [RustAudio/rust-portaudio (⭐341)](https://github.com/RustAudio/rust-portaudio) — PortAudio bindings
+    *   [RustAudio/cpal (⭐2.1k)](https://github.com/RustAudio/cpal) - Low-level cross-platform audio I/O library in pure Rust. [![Actions Status](https://github.com/RustAudio/cpal/workflows/cpal/badge.svg?branch=master)](https://github.com/RustAudio/cpal/actions)
+    *   [RustAudio/rodio (⭐1.4k)](https://github.com/RustAudio/rodio) — A Rust audio playback library
+    *   [RustAudio/rust-portaudio (⭐346)](https://github.com/RustAudio/rust-portaudio) — PortAudio bindings
 
 ## [9. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Rust / Git
 
-*   [orion (⭐450)](https://github.com/orion-rs/orion) - is a cryptography library written in pure Rust. It aims to provide easy and usable crypto while trying to minimize the use of unsafe code.
+*   [orion (⭐513)](https://github.com/orion-rs/orion) - is a cryptography library written in pure Rust. It aims to provide easy and usable crypto while trying to minimize the use of unsafe code.
 
 ## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [pnpm (baliestri) (⭐2)](https://github.com/baliestri/pnpm.plugin.zsh) - Adds useful aliases for many common [pnpm](https://pnpm.io/) commands. Includes tab-completions.
-*   [pnpm (ntnyq) (⭐48)](https://github.com/ntnyq/omz-plugin-pnpm) - Adds useful aliases for common [pnpm](https://pnpm.io/) commands.
+*   [pnpm (baliestri) (⭐4)](https://github.com/baliestri/pnpm.plugin.zsh) - Adds useful aliases for many common [pnpm](https://pnpm.io/) commands. Includes tab-completions.
+*   [pnpm (ntnyq) (⭐57)](https://github.com/ntnyq/omz-plugin-pnpm) - Adds useful aliases for common [pnpm](https://pnpm.io/) commands.
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zish (⭐0)](https://github.com/RubixDev/zish/) - Based on the `fish` shell's default look.
+*   [zish (⭐1)](https://github.com/RubixDev/zish/) - Based on the `fish` shell's default look.
 
 ## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -105,7 +101,7 @@
 
 ### Books / Visualization Tools
 
-*   [How to Lead in Data Science](https://www.manning.com/books/how-to-lead-in-data-science) - Early access
+*   [How to Lead in Data Science](https://www.manning.com/books/how-to-lead-in-data-science) - Early Access
 
 ---
 

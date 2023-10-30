@@ -26,7 +26,7 @@
 
 ### Debug
 
-*   [MinUnit (⭐486)](https://github.com/siu/minunit) - A minimal unit testing framework for C self-contained in a single header file. \[MIT]
+*   [MinUnit (⭐508)](https://github.com/siu/minunit) - A minimal unit testing framework for C self-contained in a single header file. \[MIT]
 
 ### Math
 
@@ -38,7 +38,7 @@
 
 ### Serialization
 
-*   [MessagePack (⭐2.7k)](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C and C++. \[Apache2] [website](http://msgpack.org/)
+*   [MessagePack (⭐2.8k)](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C and C++. \[Apache2] [website](http://msgpack.org/)
 
 ### Integrated Development Environment
 
@@ -48,11 +48,11 @@
 
 ### Books
 
-*   [List of Free C or C++ Books (⭐46k)](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
+*   [List of Free C or C++ Books (⭐50k)](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
 
 ### Videos
 
-*   [List of C or C++ YouTube Videos (⭐46k)](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
+*   [List of C or C++ YouTube Videos (⭐50k)](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
 
 ### Websites
 
@@ -61,7 +61,7 @@
 ### Other Awesome Projects
 
 *   [Awesome C++](https://cpp.libhunt.com/) - LibHunt's mirror.
-*   [Awesome interview questions (⭐55k)](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C and C++.
+*   [Awesome interview questions (⭐58k)](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C and C++.
 
 ## [4. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
 
@@ -77,7 +77,7 @@
 ### Command-Line Productivity
 
 *   [how2 (⭐5.6k)](https://github.com/santinic/how2) - `how2` finds the simplest way to do something in a unix shell. It's like `man`, but you can query it in natural language.
-*   [hss (⭐309)](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution
+*   [hss (⭐322)](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution
 
 ### For Developers / Directory Navigation
 

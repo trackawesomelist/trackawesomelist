@@ -16,7 +16,6 @@
 
 ### Placeholder
 
-*   [placehold.it](http://placehold.it/)
 *   [temp.im](http://temp.im/)
 *   [lorempixel](http://lorempixel.com/)
 *   [dummyimage](http://dummyimage.com/)
@@ -83,7 +82,7 @@
 *   [qiuziti](http://www.qiuziti.com/)
 *   [fonts2u](http://www.fonts2u.com/index.html)
 *   [justfont](http://www.justfont.com/)
-*   [iconpark (⭐357)](https://github.com/lvwzhen/iconpark)
+*   [iconpark (⭐360)](https://github.com/lvwzhen/iconpark)
 
 ### API Doc
 
@@ -107,33 +106,33 @@
 
 ### HTTP
 
-*   [cauldron (⭐73)](https://github.com/meh/cauldron) - An HTTP/SPDY server as a library.
+*   [cauldron (⭐74)](https://github.com/meh/cauldron) - An HTTP/SPDY server as a library.
 *   [httpoison (⭐2.2k)](https://github.com/edgurgel/httpoison) - Yet Another HTTP client for Elixir powered by hackney.
-*   [httpotion (⭐729)](https://github.com/myfreeweb/httpotion) - Fancy HTTP client for Elixir, based on ibrowse.
+*   [httpotion (⭐727)](https://github.com/myfreeweb/httpotion) - Fancy HTTP client for Elixir, based on ibrowse.
 
 ### ORM and Datamapping
 
 *   [atlas (⭐213)](https://github.com/chrismccord/atlas) - Object Relational Mapper for Elixir.
 *   [dexts (⭐5)](https://github.com/meh/dexts) - Disk Elixir Terms Storage, dest wrapper.
-*   [exts (⭐7)](https://github.com/meh/exts) - Elixir Terms Storage, ets wrapper.
+*   [exts (⭐8)](https://github.com/meh/exts) - Elixir Terms Storage, ets wrapper.
 
 ### Queue
 
-*   [exrabbit (⭐47)](https://github.com/d0rc/exrabbit) - RabbitMQ bindings and DSL for Elixir.
+*   [exrabbit (⭐48)](https://github.com/d0rc/exrabbit) - RabbitMQ bindings and DSL for Elixir.
 
 ### Text and Numbers
 
 *   [colors (⭐7)](https://github.com/lidashuang/colors) - Colors util written in Elixir.
-*   [decimal (⭐427)](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic for Elixir.
-*   [inflex (⭐369)](https://github.com/nurugger07/inflex) - An Inflector library for Elixir.
-*   [uuid (⭐347)](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
+*   [decimal (⭐437)](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic for Elixir.
+*   [inflex (⭐376)](https://github.com/nurugger07/inflex) - An Inflector library for Elixir.
+*   [uuid (⭐349)](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
 
 ### Third Party APIs
 
 *   [currently (⭐5)](https://github.com/chatgris/currently) - A tool to display cards currently assigns on Trello.
 *   [dpd\_client (⭐1)](https://github.com/knewter/dpd_client) - An API client for the DPD service.
 *   [dropbox (⭐13)](https://github.com/ammmir/elixir-dropbox) - Dropbox Core API client for Elixir.
-*   [facebook (⭐133)](https://github.com/mweibel/facebook.ex) - Facebook Graph API Wrapper written in Elixir.
+*   [facebook (⭐134)](https://github.com/mweibel/facebook.ex) - Facebook Graph API Wrapper written in Elixir.
 *   [reap (⭐4)](https://github.com/Raynes/reap) - Reap is a simple Elixir library for working with the refheap API.
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
@@ -162,7 +161,7 @@
 
 *   [peity (⭐4.2k)](https://github.com/benpickles/peity) - Progressive <svg> bar, line and pie charts.
 *   [raphael (⭐11k)](https://github.com/DmitryBaranovskiy/raphael) - JavaScript Vector Library.
-*   [two.js (⭐8k)](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
+*   [two.js (⭐8.1k)](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
 *   [g.raphael (⭐1.5k)](https://github.com/DmitryBaranovskiy/g.raphael) - Charts for Raphaël.
 *   [sigma.js (⭐11k)](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing.
 *   [arbor (⭐2.6k)](https://github.com/samizdatco/arbor) - A graph visualization library using web workers and jQuery.
@@ -173,24 +172,24 @@
 *   [rickshaw (⭐6.5k)](https://github.com/shutterstock/rickshaw) - JavaScript toolkit for creating interactive real-time graphs.
 *   [flot (⭐6k)](https://github.com/flot/flot) - Attractive JavaScript charts for jQuery.
 *   [morris.js (⭐7k)](https://github.com/morrisjs/morris.js) - Pretty time-series line graphs.
-*   [svg.js (⭐10k)](https://github.com/wout/svg.js) - A lightweight library for manipulating and animating SVG.
+*   [svg.js (⭐11k)](https://github.com/wout/svg.js) - A lightweight library for manipulating and animating SVG.
 *   [heatmap.js (⭐6k)](https://github.com/pa7/heatmap.js) - JavaScript Library for HTML5 canvas based heatmaps.
 *   [d3-cloud (⭐3.7k)](https://github.com/jasondavies/d3-cloud) - Create word clouds in JavaScript.
-*   [d4 (⭐430)](https://github.com/heavysixer/d4) - A friendly reusable charts DSL for D3.
+*   [d4 (⭐431)](https://github.com/heavysixer/d4) - A friendly reusable charts DSL for D3.
 
 ### Date / Runner
 
-*   [moment-timezone (⭐3.7k)](https://github.com/moment/moment-timezone) - Timezone support for moment.js.
-*   [timezone-js (⭐827)](https://github.com/mde/timezone-js) - Timezone-enabled JavaScript Date object. Uses Olson zoneinfo files for timezone data.
+*   [moment-timezone (⭐3.8k)](https://github.com/moment/moment-timezone) - Timezone support for moment.js.
+*   [timezone-js (⭐825)](https://github.com/mde/timezone-js) - Timezone-enabled JavaScript Date object. Uses Olson zoneinfo files for timezone data.
 
 ### String / Runner
 
-*   [sprintf.js (⭐2k)](https://github.com/alexei/sprintf.js) - A sprintf implementation.
+*   [sprintf.js (⭐2.1k)](https://github.com/alexei/sprintf.js) - A sprintf implementation.
 
 ### Loading Status / Runner
 
 *   [progress.js (⭐2.4k)](https://github.com/usablica/progress.js) - Create and manage progress bar for every objects on the page.
-*   [PageLoadingEffects (⭐634)](https://github.com/codrops/PageLoadingEffects) - Modern ways of revealing new content using SVG animations.
+*   [PageLoadingEffects (⭐636)](https://github.com/codrops/PageLoadingEffects) - Modern ways of revealing new content using SVG animations.
 
 ## [4. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 

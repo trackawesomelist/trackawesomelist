@@ -20,7 +20,7 @@
 
 ### Release Management
 
-*   [eliver (⭐54)](https://github.com/glasnoster/eliver) - Interactive semantic versioning for Elixir packages.
+*   [eliver (⭐55)](https://github.com/glasnoster/eliver) - Interactive semantic versioning for Elixir packages.
 
 ### Testing
 
@@ -28,12 +28,12 @@
 
 ### Text and Numbers
 
-*   [stemmer (⭐145)](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
+*   [stemmer (⭐148)](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
 
 ### Third Party APIs
 
 *   [airbax (⭐5)](https://github.com/adjust/airbax) - Exception tracking from Elixir to Airbrake.
-*   [diplomat (⭐93)](https://github.com/peburrows/diplomat) - A [Google Cloud Datastore](https://cloud.google.com/datastore/) client.
+*   [diplomat (⭐94)](https://github.com/peburrows/diplomat) - A [Google Cloud Datastore](https://cloud.google.com/datastore/) client.
 
 ## [3. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
 

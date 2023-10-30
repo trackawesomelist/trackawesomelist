@@ -72,13 +72,13 @@
 
 ### NewSQL Databases
 
-*   [TiDB (⭐33k)](https://github.com/pingcap/tidb) - TiDB is a distributed SQL database. Inspired by the design of Google F1.
+*   [TiDB (⭐34k)](https://github.com/pingcap/tidb) - TiDB is a distributed SQL database. Inspired by the design of Google F1.
 
 ## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
-### Podcasts / Other
+### Misc / Other
 
-*   [peterkokot/awesome-jquery (⭐866)](https://github.com/peterkokot/awesome-jquery)
+*   [peterkokot/awesome-jquery (⭐884)](https://github.com/peterkokot/awesome-jquery)
 
 ## [10. Amas](/content/sindresorhus/amas/README.md)
 

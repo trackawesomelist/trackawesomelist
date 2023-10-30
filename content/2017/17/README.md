@@ -59,7 +59,7 @@
 
 ### I18n
 
-*   [Translate plugin (⭐18)](https://github.com/dereuromark/cakephp-translate) - Manage translations of your static content the easy way via web backend, incl. import from POT files, auto-suggest and auto-translate via API.
+*   [Translate plugin (⭐17)](https://github.com/dereuromark/cakephp-translate) - Manage translations of your static content the easy way via web backend, incl. import from POT files, auto-suggest and auto-translate via API.
 
 ## [6. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
 
@@ -116,13 +116,13 @@
 
 ### Audio Related Packages / Speech Processing
 
-*   [Montreal Forced Aligner](https://montrealcorpustools.github.io/Montreal-Forced-Aligner/) [:octocat: (⭐937)](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) - Forced aligner, based on Kaldi (HMM), English (others can be trained).
+*   [Montreal Forced Aligner](https://montrealcorpustools.github.io/Montreal-Forced-Aligner/) [:octocat: (⭐1k)](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) - Forced aligner, based on Kaldi (HMM), English (others can be trained).
 
 ## [10. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / GUI
 
-*   [temBoard (⭐340)](https://github.com/dalibo/temboard) - Web-based PostgreSQL GUI and monitoring.
+*   [temBoard (⭐349)](https://github.com/dalibo/temboard) - Web-based PostgreSQL GUI and monitoring.
 
 ### Resources / Articles
 
@@ -150,19 +150,19 @@
 
 ### Tutorial
 
-*   [vulkan-sxs (⭐16)](https://github.com/philiptaylor/vulkan-sxs) - explain the Vulkan API step by step and [vulkan-sync (⭐46)](https://github.com/philiptaylor/vulkan-sync) - rephrase Vulkan's requirements on execution dependencies in a more precise form. \[MIT]
+*   [vulkan-sxs (⭐16)](https://github.com/philiptaylor/vulkan-sxs) - explain the Vulkan API step by step and [vulkan-sync (⭐54)](https://github.com/philiptaylor/vulkan-sync) - rephrase Vulkan's requirements on execution dependencies in a more precise form. \[MIT]
 
 ### Tools
 
-*   [LoaderAndValidationLayers (⭐414)](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers) - from KhronosGroup. \[Apache Licence 2.0]
-*   [VulkanTools (⭐575)](https://github.com/LunarG/VulkanTools) - LunarG's tools including layers and configurator. \[Apache Licence 2.0]
+*   [LoaderAndValidationLayers (⭐419)](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers) - from KhronosGroup. \[Apache Licence 2.0]
+*   [VulkanTools (⭐598)](https://github.com/LunarG/VulkanTools) - LunarG's tools including layers and configurator. \[Apache Licence 2.0]
 
 ### Books
 
 *   [Learning Vulkan](https://www.amazon.com/Learning-Vulkan-Parminder-Singh/dp/1786469804) - by **Parminder Singh** - Get started with the Vulkan API and its programming techniques using the easy-to-follow examples.
-    *   [Book's Examples (⭐181)](https://github.com/PacktPublishing/Learning-Vulkan)
+    *   [Book's Examples (⭐193)](https://github.com/PacktPublishing/Learning-Vulkan)
 *   [Vulkan Cookbook](https://www.amazon.com/Vulkan-Cookbook-Pawel-Lapinski/dp/1786468158)- by **Pawel Lapinski** - Explores a wide range of graphics programming and GPU compute methods to make the best use of the Vulkan API.
-    *   [Book's Examples (⭐656)](https://github.com/PacktPublishing/Vulkan-Cookbook)
+    *   [Book's Examples (⭐720)](https://github.com/PacktPublishing/Vulkan-Cookbook)
 
 ## [12. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
@@ -211,7 +211,7 @@
 
 ### Tools / Libraries
 
-*   [Palettable (⭐685)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
+*   [Palettable (⭐702)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
 
 ### Color Palettes / Web App
 
@@ -248,17 +248,17 @@
 
 ### Files and Directories / Directory Navigation
 
-*   [PathPicker (⭐4.9k)](https://github.com/facebook/pathpicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
+*   [PathPicker (⭐5k)](https://github.com/facebook/pathpicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
 
 ## [21. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Date and Time
 
-*   [Exceptionless.DateTimeExtensions (⭐185)](https://github.com/exceptionless/Exceptionless.DateTimeExtensions) - DateTimeRange, Business Day and various DateTime, DateTimeOffset, TimeSpan extension methods.
+*   [Exceptionless.DateTimeExtensions (⭐228)](https://github.com/exceptionless/Exceptionless.DateTimeExtensions) - DateTimeRange, Business Day and various DateTime, DateTimeOffset, TimeSpan extension methods.
 
 ### Frameworks, Libraries and Tools / Logging
 
-*   [Exceptionless (⭐478)](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
+*   [Exceptionless (⭐531)](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
 
 ### Frameworks, Libraries and Tools / Networking
 
@@ -266,11 +266,11 @@
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [Foundatio (⭐1.6k)](https://github.com/exceptionless/Foundatio#queues) - A common interface with in memory, redis and azure implementations.
+*   [Foundatio (⭐1.8k)](https://github.com/exceptionless/Foundatio#queues) - A common interface with in memory, redis and azure implementations.
 
 ### Frameworks, Libraries and Tools / Searching
 
-*   [SimMetrics.Net (⭐91)](https://github.com/StefH/SimMetrics.Net) - A Similarity Metric Library, e.g. from edit distance's (Levenshtein, Gotoh, Jaro etc) to other metrics, (e.g Soundex, Chapman)
+*   [SimMetrics.Net (⭐104)](https://github.com/StefH/SimMetrics.Net) - A Similarity Metric Library, e.g. from edit distance's (Levenshtein, Gotoh, Jaro etc) to other metrics, (e.g Soundex, Chapman)
 
 ## [22. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
@@ -305,7 +305,7 @@
 
 ### URI handling / Isomorphic web frameworks
 
-*   [cl-slug (⭐22)](https://github.com/EuAndreh/cl-slug) - a small library to make slugs, mainly for URIs, transform in CamelCase, remove accentuation and punctuation, for english and beyound. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [cl-slug (⭐23)](https://github.com/EuAndreh/cl-slug) - a small library to make slugs, mainly for URIs, transform in CamelCase, remove accentuation and punctuation, for english and beyound. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### Other scripting utilities / Third-party APIs
 
@@ -321,7 +321,7 @@
 
 ### Shell Package Management / Directory Navigation
 
-*   [dotdrop (⭐1.5k)](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
+*   [dotdrop (⭐1.6k)](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 
 ## [27. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
@@ -430,7 +430,7 @@
 
 ### Authentication and OAuth
 
-*   [Monban (⭐377)](https://github.com/halogenandtoast/monban) - A very simple and extensible user authentication library for rails.
+*   [Monban (⭐373)](https://github.com/halogenandtoast/monban) - A very simple and extensible user authentication library for rails.
 
 ### E-Commerce and Payments
 
@@ -498,7 +498,7 @@
 ### Contents / Community
 
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/preact)
-*   [Github (⭐34k)](https://github.com/developit/preact)
+*   [Github (⭐35k)](https://github.com/developit/preact)
 *   [Twitter](https://twitter.com/preactjs)
 
 ### Contents / Toolkits
@@ -507,11 +507,11 @@
 
 ### Contents / Components
 
-*   [Preact Material Components (⭐545)](https://github.com/prateekbh/preact-material-components) - Preact wrapper for "Material Components for the web".
+*   [Preact Material Components (⭐547)](https://github.com/prateekbh/preact-material-components) - Preact wrapper for "Material Components for the web".
 
 ### Contents / Related Libraries
 
-*   [React (⭐207k)](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+*   [React (⭐214k)](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 *   [Inferno (⭐16k)](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces.
 
 ## [42. Awesome Php](/content/ziadoz/awesome-php/week/README.md)

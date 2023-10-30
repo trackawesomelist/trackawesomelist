@@ -41,7 +41,7 @@
 
 ### Audio Editing
 
-*   [Stargate DAW (⭐386)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
+*   [Stargate DAW (⭐492)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
 
 ## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -53,13 +53,13 @@
 
 ### Statusline / Diagnostics
 
-*   [freddiehaddad/feline.nvim (⭐124)](https://github.com/freddiehaddad/feline.nvim) - A minimal, stylish and customizable statusline written in Lua.
+*   [freddiehaddad/feline.nvim (⭐195)](https://github.com/freddiehaddad/feline.nvim) - A minimal, stylish and customizable statusline written in Lua.
 
 ## [7. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Books / Visualization Tools
 
-*   [Software Engineering for Data Scientists](https://www.manning.com/books/software-engineering-for-data-scientists) - Early access
+*   [Software Engineering for Data Scientists](https://www.manning.com/books/software-engineering-for-data-scientists) - Early Access
 
 ## [8. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
@@ -69,29 +69,16 @@
 *   [Twitter account](https://twitter.com/LangChainAI): follow to get fresh updates
 *   [Discord](https://discord.gg/6adMQxSpJS): discussion
 
-### Learn / Videos
+### Learn / Videos Playlists
 
 *   [LangChain Tutorials Playlist](https://www.youtube.com/playlist?list=PL611FKPtL866MnlDPHvI3KwVGqCB-QJAx)
 *   [LangChain James Briggs' Playlist](https://www.youtube.com/watch?v=nE2skSRWTTs\&list=PLIUOU7oqGTLieV9uTIFMm6_4PXg-hlN6F)
-*   [What Is LangChain? - LangChain + ChatGPT Overview](https://www.youtube.com/watch?v=_v_fgW2SkkQ)
-*   [LangChain Demo + Q\&A with Harrison Chase](https://www.youtube.com/watch?v=zaYTXQFR0_s)
-*   [LangChain for LLMs is... basically just an Ansible playbook](https://www.youtube.com/watch?v=X51N9C-OhlE) (David Shapiro)
-*   [Data Independent Playlist](https://www.youtube.com/watch?v=_v_fgW2SkkQ\&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
-
-### Learn / Articles
-
-*   [Build a GitHub support bot with GPT3, LangChain, and Python](https://dagster.io/blog/chatgpt-langchain)
-*   [The Emergence Of Large Language Model (LLM) API Build Frameworks](https://cobusgreyling.medium.com/the-emergence-of-large-language-model-llm-api-build-frameworks-78d83d68eeda)
-*   [How I used LangChain 🦜🔗 and GPT-3 to Automate my Boss 🤖](https://dev.to/ironcladdev/how-i-used-langchain-and-gpt-3-to-automate-my-boss-3bk4)
-*   [Multilingual Semantic Search with Cohere and Langchain](https://txt.cohere.ai/search-cohere-langchain/)
-*   [How Haystack and LangChain are Empowering Large Language Models](https://mantiumai.com/blog/how-haystack-and-langchain-are-empowering-large-language-models/)
-*   [DataIndependent Tutorials (⭐3.1k)](https://github.com/gkamradt/langchain-tutorials)
 
 ## [9. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Code Analysis and Linter
 
-*   [splint (⭐53)](https://github.com/NoahTheDuke/splint)
+*   [splint (⭐59)](https://github.com/NoahTheDuke/splint)
 
 ## [10. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -107,12 +94,12 @@
 
 ### Applications / Operating systems
 
-*   [Andy-Python-Programmer/aero (⭐909)](https://github.com/Andy-Python-Programmer/aero) — A modern, unix-like operating system following the monolithic kernel design.
+*   [Andy-Python-Programmer/aero (⭐1k)](https://github.com/Andy-Python-Programmer/aero) — A modern, unix-like operating system following the monolithic kernel design.
 
 ### Libraries / Encoding
 
 *   [FlatBuffers](https://flatbuffers.dev/)
-    *   [frol/flatc-rust (⭐91)](https://github.com/frol/flatc-rust) — FlatBuffers compiler (flatc) integration for Cargo build scripts
+    *   [frol/flatc-rust (⭐96)](https://github.com/frol/flatc-rust) — FlatBuffers compiler (flatc) integration for Cargo build scripts
 
 ## [12. BEM Resources](/content/sturobson/BEM-resources/README.md)
 

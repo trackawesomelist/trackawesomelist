@@ -34,13 +34,13 @@
 
 ### Contents / Toolkits
 
-*   [Create Preact App (⭐99)](https://github.com/just-boris/create-preact-app) - Create Preact apps with no build configuration.
+*   [Create Preact App (⭐96)](https://github.com/just-boris/create-preact-app) - Create Preact apps with no build configuration.
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Web Servers
 
-*   [ptags (⭐113)](https://github.com/dalance/ptags) — A parallel universal-ctags wrapper for git repository
+*   [ptags (⭐117)](https://github.com/dalance/ptags) — A parallel universal-ctags wrapper for git repository
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -88,15 +88,15 @@
 
 *   WebAssembly
     *   [Blazor (⭐1.7k)](https://github.com/SteveSanderson/Blazor) - UI framework running .NET in the browser via WebAssembly.
-        *   [Awesome Blazor (⭐7.1k)](https://github.com/AdrienTorris/awesome-blazor) - Collection of awesome resources (samples, components, articles, videos and others) about Blazor.
-        *   [Blazor Redux (⭐468)](https://github.com/torhovland/blazor-redux) - Connecting a Redux state store with Blazor.
+        *   [Awesome Blazor (⭐8.1k)](https://github.com/AdrienTorris/awesome-blazor) - Collection of awesome resources (samples, components, articles, videos and others) about Blazor.
+        *   [Blazor Redux (⭐482)](https://github.com/torhovland/blazor-redux) - Connecting a Redux state store with Blazor.
     *   [Ooui (⭐1.6k)](https://github.com/praeclarum/Ooui) - Small cross-platform UI library that brings the simplicity of native UI development to the web.
 
 ## [13. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### CMS
 
-*   [Fae (⭐828)](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
+*   [Fae (⭐830)](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
 
 ---
 

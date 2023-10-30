@@ -8,18 +8,18 @@
 
 ## [1. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### Code Analysis
+### Code Analysis / Text-Based User Interfaces
 
-*   [Error Prone Support (⭐94)](https://github.com/PicnicSupermarket/error-prone-support) - Error Prone extensions: extra bug checkers and a large battery of Refaster templates.
-*   [p3c (⭐29k)](https://github.com/alibaba/p3c) - Provides Alibaba's coding guidelines for PMD, IDEA and Eclipse.
+*   [Error Prone Support (⭐140)](https://github.com/PicnicSupermarket/error-prone-support) - Error Prone extensions: extra bug checkers and a large battery of Refaster templates.
+*   [p3c (⭐30k)](https://github.com/alibaba/p3c) - Provides Alibaba's coding guidelines for PMD, IDEA and Eclipse.
 
-### Database
+### Database / Text-Based User Interfaces
 
 *   [Lettuce](https://lettuce.io/) - Lettuce is a scalable Redis client for building non-blocking Reactive applications.
 
-### Machine Learning
+### Machine Learning / Text-Based User Interfaces
 
-*   [Intelligent java (⭐44)](https://github.com/Barqawiz/IntelliJava) - Seamlessly integrate with remote deep learning and language models programmatically.
+*   [Intelligent java (⭐60)](https://github.com/Barqawiz/IntelliJava) - Seamlessly integrate with remote deep learning and language models programmatically.
 
 ### Podcasts and Screencasts / Mocking
 
@@ -29,7 +29,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Fast Fourier Transform (FFT) (⭐9)](https://github.com/tavurth/godot-fft) - Fast Fourier Transform in GDScript (Godot 4.x).
+*   [Fast Fourier Transform (FFT) (⭐15)](https://github.com/tavurth/godot-fft) - Fast Fourier Transform in GDScript (Godot 4.x).
 
 ## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -41,23 +41,23 @@
 
 ### Database
 
-*   [Kvrocks (⭐2.1k)](https://github.com/apache/incubator-kvrocks) - A distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol. \[Apache2]
+*   [Kvrocks (⭐2.5k)](https://github.com/apache/incubator-kvrocks) - A distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol. \[Apache2]
 
 ## [5. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Data Manipulation / Data Frames
 
-*   [polars (⭐17k)](https://github.com/pola-rs/polars) - A fast multi-threaded, hybrid-out-of-core DataFrame library.
+*   [polars (⭐21k)](https://github.com/pola-rs/polars) - A fast multi-threaded, hybrid-out-of-core DataFrame library.
 
 ## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Web Feed Specifications / Specification Converters
 
 *   [RSS/Atom to JSONFeed Converter](https://feed2json.org/) <sup>[1285](https://t.me/s/aboutrss/1285)</sup>
-*   [rss to json (⭐149)](https://github.com/nasa8x/rss-to-json) <sup>[1285](https://t.me/s/aboutrss/1285)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/nasa8x/rss-to-json)
+*   [rss to json (⭐162)](https://github.com/nasa8x/rss-to-json) <sup>[1285](https://t.me/s/aboutrss/1285)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/nasa8x/rss-to-json)
 *   [rsscrape (⭐14)](https://github.com/trbznk/rsscrape) <sup>[1285](https://t.me/s/aboutrss/1285)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/trbznk/rsscrape)
 
-### 🧩 API / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### 🧩 API / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSS feed to JSON API](https://rss-to-json-serverless-api.vercel.app/) <sup>[1285](https://t.me/s/aboutrss/1285)</sup>
 
@@ -73,7 +73,7 @@
 
 ### Self Hosted Readers / Outline Processor Markup Language
 
-*   [Orpinton News (⭐84)](https://github.com/frysztak/orpington-news) <sup>[1267](https://t.me/s/aboutrss/1267)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/frysztak/orpington-news)
+*   [Orpinton News (⭐94)](https://github.com/frysztak/orpington-news) <sup>[1267](https://t.me/s/aboutrss/1267)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/frysztak/orpington-news)
 *   [Informate.club](https://infomate.club/) <sup>[1283](https://t.me/s/aboutrss/1283)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/vas3k/infomate.club)
 
 ### RSSHub / Outline Processor Markup Language
@@ -118,15 +118,11 @@
 *   [Tabhub.app](https://www.tabhub.app/) <sup>[1269](https://t.me/s/aboutrss/1269)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/%E6%AF%8F%E6%97%A5%E7%9C%8B%E6%9D%BF%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5-tabhub/oimhfdhkpahmoofobemjefadcopbjbal)
 *   [烟·红](https://www.appinn.com/yan-hong-rss-reader-in-new-tab/) <sup>[1294](https://t.me/s/aboutrss/1294)</sup> ![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/zh-CN/firefox/addon/%E7%83%9F-%E7%BA%A2/)
 
-### RSS2Mastodon / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
-
-*   [Mastogeed](https://mastofeed.org/) <sup>[1272](https://t.me/s/aboutrss/1272)</sup>
-
-### Combine multiple feeds into one / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Combine multiple feeds into one / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Feed Filter Maker](https://feed.janicek.co/) <sup>[1279](https://t.me/s/aboutrss/1279)</sup>
 
-### ⛓ OPML management / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### ⛓ OPML management / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [FeedLand](http://docs.feedland.org/firstThings.opml) <sup>[495](https://t.me/s/aboutrss/495), [1271](https://t.me/s/aboutrss/1271)</sup>
 
@@ -155,14 +151,14 @@
 
 ## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Large Language Models / Contribute to Our Repository
+### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
 *   [GPTZero](https://gptzero.me/): "Detect AI Plagiarism. Accurately"
 
 ### Inbox: Music and Audio projects / Generative Adversarial Networks (GANs)
 
-*   [lucidrains/musiclm-pytorch (⭐2.4k)](https://github.com/lucidrains/musiclm-pytorch): Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
-*   \[🔥🔥🔥] [archinetai/audio-ai-timeline (⭐1.4k)](https://github.com/archinetai/audio-ai-timeline): A timeline of the latest AI models for audio generation, starting in 2023
+*   [lucidrains/musiclm-pytorch (⭐2.8k)](https://github.com/lucidrains/musiclm-pytorch): Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
+*   \[🔥🔥🔥] [archinetai/audio-ai-timeline (⭐1.7k)](https://github.com/archinetai/audio-ai-timeline): A timeline of the latest AI models for audio generation, starting in 2023
 
 ## [9. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -172,19 +168,19 @@
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
 *   [GeoCod](https://geocod.xyz) — Free geocoding API: Convert postal addresses into geographic coordinates or convert geographic coordinates into postal addresses (reverse geocoding).
 
 ### Forms
 
-*   [SimplePDF.eu](https://simplepdf.eu/embed) - Embed a PDF editor on your website and turn any PDF into a fillable form. Free plan allows unlimited PDFs with 3 submissions per PDF.
+*   [SimplePDF.eu](https://simplepdf.eu/embed) - Embed a PDF editor on your website and turn any PDF into a fillable form. The free plan allows unlimited PDFs with three submissions per PDF.
 
 ## [11. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
 ### RPG
 
-*   [OpenEnroth (⭐580)](https://github.com/OpenEnroth/OpenEnroth) - Might and Magic VI-VIII engine remake using original data & code.
+*   [OpenEnroth (⭐609)](https://github.com/OpenEnroth/OpenEnroth) - Might and Magic VI-VIII engine remake using original data & code.
 
 ## [12. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
@@ -216,12 +212,12 @@
 
 ### (requires Neovim 0.5)
 
-*   [DNLHC/glance.nvim (⭐338)](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations.
+*   [DNLHC/glance.nvim (⭐494)](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations.
 
 ### Editing Support / Diagnostics
 
 *   [\~nedia/auto-save.nvim](https://git.sr.ht/~nedia/auto-save.nvim) - Extremely simple auto saving on `InsertLeave` & `TextChanged`. Based on Pocco81/AutoSave but lighter.
-*   [echasnovski/mini.nvim#mini.basics (⭐2.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-basics.md) - Module of `mini.nvim` with customizable configuration presets for common options, mappings, and autocommands.
+*   [echasnovski/mini.nvim#mini.basics (⭐2.9k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-basics.md) - Module of `mini.nvim` with customizable configuration presets for common options, mappings, and autocommands.
 
 ### Formatting / Diagnostics
 
@@ -231,11 +227,11 @@
 
 ### User Defined
 
-*   [date-box (⭐2)](https://github.com/kf-liu/date-box) - Update a pinned gist to contain your anniversaries and countdown days (or hours).
+*   [date-box (⭐3)](https://github.com/kf-liu/date-box) - Update a pinned gist to contain your anniversaries and countdown days (or hours).
 
 ## [17. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [pnpm (mat2ja) (⭐0)](https://github.com/mat2ja/pnpm.plugin.zsh) - Better [pnpm](https://pnpm.io/) aliases.
 
@@ -243,9 +239,9 @@
 
 ### Developer tools and frameworks
 
-*   [DB3 Network (⭐233)](https://github.com/dbpunk-labs/db3) - DB3 Network is an open-source decentralized firebase firestore alternative to build dapps quickly with minimal engineering effort.
+*   [DB3 Network (⭐298)](https://github.com/dbpunk-labs/db3) - DB3 Network is an open-source decentralized firebase firestore alternative to build dapps quickly with minimal engineering effort.
 
 ---
 
 - Prev: [Jan 31, 2023](/content/2023/01/31/README.md)
-- Next: [Jan 28, 2023](/content/2023/01/28/README.md)
+- Next: [Jan 29, 2023](/content/2023/01/29/README.md)

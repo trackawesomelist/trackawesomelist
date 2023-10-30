@@ -10,21 +10,21 @@
 
 ### Caches
 
-*   [gocache (⭐2)](https://github.com/yuseferi/gocache) - A data race free Go ache library with high performance and auto pruge functionality
+*   [gocache (⭐3)](https://github.com/yuseferi/gocache) - A data race free Go ache library with high performance and auto pruge functionality
 
 ### Logging
 
-*   [zax (⭐5)](https://github.com/yuseferi/zax) - Integrate Context with Zap logger, which leads to more flexibility in Go logging.
+*   [zax (⭐9)](https://github.com/yuseferi/zax) - Integrate Context with Zap logger, which leads to more flexibility in Go logging.
 
 ### Utilities
 
-*   [gofn (⭐5)](https://github.com/tiendc/gofn) - High performance utitlity functions written using Generics for Go 1.18+.
+*   [gofn (⭐25)](https://github.com/tiendc/gofn) - High performance utility functions written using Generics for Go 1.18+.
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
-*   [mdBook (⭐14k)](https://github.com/rust-lang/mdBook) — A command line utility to create books from markdown files [![Build Status](https://github.com/rust-lang/mdBook/workflows/CI/badge.svg?branch=master)](https://github.com/rust-lang/mdBook/actions)
+*   [mdBook (⭐15k)](https://github.com/rust-lang/mdBook) — A command line utility to create books from markdown files [![Build Status](https://github.com/rust-lang/mdBook/workflows/CI/badge.svg?branch=master)](https://github.com/rust-lang/mdBook/actions)
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Gaming
 
-*   [Game Engine Development (⭐237)](https://github.com/stevinz/awesome-game-engine-dev#readme) - Building software to speed up game creation.
+*   [Game Engine Development (⭐437)](https://github.com/stevinz/awesome-game-engine-dev#readme) - Building software to speed up game creation.
 
 ## [5. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
@@ -101,6 +101,7 @@
 ### Visual Analytics
 
 *   [Scrapinghub](https://education.github.com/pack) \[FREE] - Scrapinghub's Scrapy Cloud is a battle-tested cloud platform for running web crawlers. Manage and automate your web spiders at scale.1 Free Forever Scrapy Cloud Unit - unlimited team members, projects or requests. Unlimited crawl time and 120 day data retention.
+    [Crawlbase](https://crawlbase.com/) \[FREE / CREDIT] Crawlbase, a web scraping and web crawling tool, is generously offering 5000 successful requests for free over a three-month period to students, who can take advantage of this opportunity by using the discount code 'SDNT2023'.
 *   [Typeform](https://education.github.com/pack) \[FREE] - Interactive forms, surveys & quizzes to engage and grow your audience.Free professional plan for 1 year.
 *   [Baremetrics](https://education.github.com/pack) \[FREE] - Metrics, dunning, and engagement tools for SaaS & subscription businesses.Get Baremetrics for free up to $2.5k Monthly Recurring Revenue while you are a student.
 *   [CodeScene](https://education.github.com/pack) \[FREE] - A powerful visualization tool that uses Predictive Analytics to identify social patterns in your code, detect delivery risks and manage technical debt.A free Student account to analyze private GitHub repositories.
@@ -124,7 +125,7 @@
 
 ## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Science Logology / Democratization
+### Science Logology / Democratization of Science
 
 *   [The Internet of Things comes to the lab](https://www.nature.com/articles/542125a) - ***Nature***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7747117198956166976\&hl=en\&as_sdt=0,5)].
 
@@ -132,17 +133,17 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [Kotlin/kotlinx-benchmark (⭐359)](https://github.com/Kotlin/kotlinx-benchmark) - A powerful library for benchmarking in Kotlin.
+*   [Kotlin/kotlinx-benchmark (⭐399)](https://github.com/Kotlin/kotlinx-benchmark) - A powerful library for benchmarking in Kotlin.
 
 ## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Large Language Models / Contribute to Our Repository
+### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
-*   [SolidUI (⭐135)](https://github.com/CloudOrc/SolidUI): AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.
+*   [SolidUI (⭐362)](https://github.com/CloudOrc/SolidUI): AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.
 
 ## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [joje (⭐0)](https://github.com/joje6/joje.zsh-theme) - Includes decorators for `git` status and current directory.
 *   [rs (⭐0)](https://github.com/sam-621/rs-zsh-theme) - Includes `git` decorations. Requires unicode capable terminal.
@@ -151,8 +152,8 @@
 
 ### LLMs
 
-*   [PIXIU (⭐46)](https://github.com/chancefocus/PIXIU) - An open-source resource providing a financial large language model, a dataset with 136K instruction samples, and a comprehensive evaluation benchmark.
-*   [FinGPT (⭐5.5k)](https://github.com/AI4Finance-Foundation/FinGPT) - Provides a playground for all people interested in LLMs and NLP in Finance.
+*   [PIXIU (⭐236)](https://github.com/chancefocus/PIXIU) - An open-source resource providing a financial large language model, a dataset with 136K instruction samples, and a comprehensive evaluation benchmark.
+*   [FinGPT (⭐9k)](https://github.com/AI4Finance-Foundation/FinGPT) - Provides a playground for all people interested in LLMs and NLP in Finance.
 
 ## [12. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -197,4 +198,5 @@
 
 ---
 
+- Prev: [Jun 23, 2023](/content/2023/06/23/README.md)
 - Next: [Jun 21, 2023](/content/2023/06/21/README.md)

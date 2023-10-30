@@ -2,7 +2,7 @@
 
 :mortar_board: Path to a free self-taught education in Computer Science!
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ossu/computer-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ossu/computer-science](https://github.com/ossu/computer-science) · ⭐ 137K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ossu/computer-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ossu/computer-science](https://github.com/ossu/computer-science) · ⭐ 150K · 🏷️ Computer Science
 
 [ [Daily](/content/ossu/computer-science/README.md) / [Weekly](/content/ossu/computer-science/week/README.md) / Overview ]
 
@@ -74,11 +74,11 @@ just remember that you can't purchase success!
 **Process**. Students can work through the curriculum alone or in groups, in order or out of order.
 
 *   We recommend doing all courses in Core CS, only skipping a course when you are certain that you've already learned the material previously.
-*   For simplicity, we recommend working through courses (especially Core CS) in order from top to bottom, as they have already been [topologically sorted](https://en.wikipedia.org/wiki/Topological_sorting) by their prerequisites.
-*   Courses in Advanced CS are electives. Choose one subject (e.g. Advanced programming) you want to become an expert in and take all the courses under that heading. You can also create your own custom subject, but we recommend getting validation from the community on the subject you choose.
+*   For simplicity, we recommend working through courses (especially Core CS) in order from top to bottom. Some students choose to study multiple courses at a time in order to vary the material they are working on is a day/week. A popular option is to take the math courses in parallel with the introductory courses. Course prerequisites are listed to help you determine if you are prepared for a given course.
+*   Courses in Advanced CS are electives. Choose one subject (e.g. Advanced programming) you want to become an expert in and take all the courses under that heading. You can also create your own custom subject; the discord community may provide feedback on your planned subject.
 
 **Content policy**. If you plan on showing off some of your coursework publicly, you must share only files that you are allowed to.
-*Do NOT disrespect the code of conduct* that you signed in the beginning of each course!
+*Respect the code of conduct* that you signed in the beginning of each course!
 
 **[How to contribute](https://github.com/ossu/computer-science/blob/master/README.md/CONTRIBUTING.md)**
 
@@ -121,7 +121,7 @@ just remember that you can't purchase success!
 
 ## Prerequisites
 
-*   [Core CS](#core-cs) assumes the student has already taken [high school math (⭐137k)](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites), including algebra, geometry, and pre-calculus.
+*   [Core CS](#core-cs) assumes the student has already taken [high school math (⭐150k)](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites), including algebra, geometry, and pre-calculus.
 *   [Advanced CS](#advanced-cs) assumes the student has already taken the entirety of Core CS
     and is knowledgeable enough now to decide which electives to take.
 *   Note that [Advanced systems](#advanced-systems) assumes the student has taken a basic physics course (e.g. AP Physics in high school).
@@ -136,9 +136,9 @@ If you've never written a for-loop, or don't know what a string is in programmin
 `simple programs`
 `simple data structures`
 
-| Courses                                              | Duration |     Effort    | Prerequisites |             Discussion             |
-| :--------------------------------------------------- | :------: | :-----------: | :-----------: | :--------------------------------: |
-| [Python for Everybody](https://www.py4e.com/lessons) | 10 weeks | 10 hours/week |      none     | [chat](https://discord.gg/syA242Z) |
+| Courses                                                                                                                               | Duration |     Effort    | Prerequisites |             Discussion             |
+| :------------------------------------------------------------------------------------------------------------------------------------ | :------: | :-----------: | :-----------: | :--------------------------------: |
+| [Introduction to programming](https://github.com/ossu/computer-science/blob/master/README.md/coursepages/intro-programming/README.md) | 10 weeks | 10 hours/week |      none     | [chat](https://discord.gg/syA242Z) |
 
 ### Introduction to Computer Science
 
@@ -174,16 +174,15 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 `Ruby`
 `and more`
 
-| Courses                                                                                                                                 | Duration |      Effort     |                                                     Prerequisites                                                    |             Discussion             |
-| :-------------------------------------------------------------------------------------------------------------------------------------- | :------: | :-------------: | :------------------------------------------------------------------------------------------------------------------: | :--------------------------------: |
-| [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) [(textbook)](https://htdp.org/2022-8-7/Book/index.html) |  7 weeks | 8-10 hours/week |                                                         none                                                         | [chat](https://discord.gg/RfqAmGJ) |
-| [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data)                                                       |  6 weeks | 8-10 hours/week |                                               How to Code: Simple Data                                               | [chat](https://discord.gg/kczJzpm) |
-| [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)                                                   |  5 weeks |  4-8 hours/week | How to Code ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | [chat](https://discord.gg/8BkJtXN) |
-| [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)                                            |  3 weeks |  4-8 hours/week |                                             Programming Languages, Part A                                            | [chat](https://discord.gg/EeA7VR9) |
-| [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)                                            |  3 weeks |  4-8 hours/week |                                             Programming Languages, Part B                                            | [chat](https://discord.gg/8EZUVbA) |
-| [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design)                                                         |  4 weeks |   4 hours/week  |                               [Basic Java](https://www.youtube.com/watch?v=GoXwIVyNvX0)                              |                                    |
-| [Design Patterns](https://www.coursera.org/learn/design-patterns)                                                                       |  4 weeks |   4 hours/week  |                                                Object-Oriented Design                                                |                                    |
-| [Software Architecture](https://www.coursera.org/learn/software-architecture)                                                           |  4 weeks |  2-5 hours/week |                                                    Design Patterns                                                   |                                    |
+| Courses                                                                                                                                                                                                                                                                               | Duration |      Effort     |                                                            Prerequisites                                                           |                                     Discussion                                    |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------: | :-------------: | :--------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+| [Systematic Program Design](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015) [(textbook)](https://htdp.org/2023-8-14/Book/index.html) (alt: [part 1](https://www.edx.org/course/how-to-code-simple-data) / [part 2](https://www.edx.org/course/how-to-code-complex-data)) | 13 weeks | 8-10 hours/week |                                                                none                                                                | chat: [part 1](https://discord.gg/RfqAmGJ) / [part 2](https://discord.gg/kczJzpm) |
+| [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)                                                                                                                                                                                                 |  5 weeks |  4-8 hours/week | Systematic Program Design ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) |                         [chat](https://discord.gg/8BkJtXN)                        |
+| [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)                                                                                                                                                                                          |  3 weeks |  4-8 hours/week |                                                    Programming Languages, Part A                                                   |                         [chat](https://discord.gg/EeA7VR9)                        |
+| [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)                                                                                                                                                                                          |  3 weeks |  4-8 hours/week |                                                    Programming Languages, Part B                                                   |                         [chat](https://discord.gg/8EZUVbA)                        |
+| [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design)                                                                                                                                                                                                       |  4 weeks |   4 hours/week  |                                      [Basic Java](https://www.youtube.com/watch?v=GoXwIVyNvX0)                                     |                                                                                   |
+| [Design Patterns](https://www.coursera.org/learn/design-patterns)                                                                                                                                                                                                                     |  4 weeks |   4 hours/week  |                                                       Object-Oriented Design                                                       |                                                                                   |
+| [Software Architecture](https://www.coursera.org/learn/software-architecture)                                                                                                                                                                                                         |  4 weeks |  2-5 hours/week |                                                           Design Patterns                                                          |                                                                                   |
 
 ### Core math
 
@@ -202,7 +201,7 @@ Discrete math (Math for CS) is a prerequisite and closely related to the study o
 | [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) ([alt](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)) | 13 weeks | 6-10 hours/week |                                                                                                                                      The alternate covers this and the following 2 courses                                                                                                                                      | [high school math](https://github.com/ossu/computer-science/blob/master/README.md/FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/mPCt45F) |
 | [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about)                                                                                                           | 13 weeks | 5-10 hours/week |                                                                                                                                                                -                                                                                                                                                                |                                                            Calculus 1A                                                            | [chat](https://discord.gg/sddAsZg) |
 | [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about)                                                                                  |  6 weeks | 5-10 hours/week |                                                                                                                                                                -                                                                                                                                                                |                                                            Calculus 1B                                                            | [chat](https://discord.gg/FNEcNNq) |
-| [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alt](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/))              | 13 weeks |   5 hours/week  | [2015/2019 solutions (⭐56)](https://github.com/spamegg1/Math-for-CS-solutions) [2010 solutions (⭐197)](https://github.com/frevib/mit-cs-math-6042-fall-2010-problems) [2005 solutions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/). |                                                            Calculus 1C                                                            | [chat](https://discord.gg/EuTzNbF) |
+| [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alt](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/))              | 13 weeks |   5 hours/week  | [2015/2019 solutions (⭐83)](https://github.com/spamegg1/Math-for-CS-solutions) [2010 solutions (⭐218)](https://github.com/frevib/mit-cs-math-6042-fall-2010-problems) [2005 solutions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/). |                                                            Calculus 1C                                                            | [chat](https://discord.gg/EuTzNbF) |
 
 ### CS Tools
 
@@ -307,14 +306,14 @@ Choose **one** of the following:
 `ray tracing`
 `and more`
 
-| Courses                                                                                            | Duration |      Effort     |                                                                                              Prerequisites                                                                                             |             Discussion             |
-| :------------------------------------------------------------------------------------------------- | :------: | :-------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------: |
-| [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)                   |  2 weeks |  10 hours/week  |                                                                                            core programming                                                                                            | [chat](https://discord.gg/pMFqNf4) |
-| [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)              |  2 weeks |  10 hours/week  |                                                                                            core programming                                                                                            | [chat](https://discord.gg/P8SPPyF) |
-| [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)                   |  2 weeks |  10 hours/week  |                                                                                            core programming                                                                                            | [chat](https://discord.gg/duCJ3GN) |
-| [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)         | 11 weeks |   9 hours/week  |                                                                                              Basic coding                                                                                              | [chat](https://discord.gg/NcXHDjy) |
-| [Computer Graphics](https://www.edx.org/course/computer-graphics-2)                                |  6 weeks |  12 hours/week  |                                                                                       C++ or Java, linear algebra                                                                                      | [chat](https://discord.gg/68WqMNV) |
-| [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction) |  6 weeks | 8-10 hours/week | Core Programming, and a [sizable project](https://github.com/ossu/computer-science/blob/master/README.md/FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses) | [chat](https://discord.gg/5Qtcwtz) |
+| Courses                                                                                                                                         | Duration |      Effort     |                                                                                              Prerequisites                                                                                             |             Discussion             |
+| :---------------------------------------------------------------------------------------------------------------------------------------------- | :------: | :-------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------: |
+| [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)                                                                |  2 weeks |  10 hours/week  |                                                                                            core programming                                                                                            | [chat](https://discord.gg/pMFqNf4) |
+| [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)                                                           |  2 weeks |  10 hours/week  |                                                                                            core programming                                                                                            | [chat](https://discord.gg/P8SPPyF) |
+| [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)                                                                |  2 weeks |  10 hours/week  |                                                                                            core programming                                                                                            | [chat](https://discord.gg/duCJ3GN) |
+| [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)                                                      | 11 weeks |   9 hours/week  |                                                                                              Basic coding                                                                                              | [chat](https://discord.gg/NcXHDjy) |
+| [Computer Graphics](https://www.edx.org/course/computer-graphics-2) ([alt](https://cseweb.ucsd.edu/~viscomp/classes/cse167/wi22/schedule.html)) |  6 weeks |  12 hours/week  |                                                                                       C++ or Java, linear algebra                                                                                      | [chat](https://discord.gg/68WqMNV) |
+| [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction)                                              |  6 weeks | 8-10 hours/week | Core Programming, and a [sizable project](https://github.com/ossu/computer-science/blob/master/README.md/FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses) | [chat](https://discord.gg/5Qtcwtz) |
 
 ### Core ethics
 
@@ -354,11 +353,11 @@ But students should take *every* course that is relevant to the field they inten
 | [Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming)                                                                                |  4 weeks | 6-8 hours/week |          Scala programming          |
 | [Compilers](https://www.edx.org/course/compilers)                                                                                                                |  9 weeks | 6-8 hours/week |                 none                |
 | [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/)                                                                                            | 14 weeks |        -       |                  -                  |
-| [Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online) ([alt (⭐137k)](https://github.com/ossu/computer-science/files/6085884/lpn.pdf))\* | 12 weeks |        -       |                  -                  |
+| [Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online) ([alt (⭐150k)](https://github.com/ossu/computer-science/files/6085884/lpn.pdf))\* | 12 weeks |        -       |                  -                  |
 | [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)                                                                                   |  8 weeks |  6 hours/week  | Python, object-oriented programming |
 | [Software Testing](https://www.udacity.com/course/software-testing--cs258)                                                                                       |  4 weeks |  6 hours/week  |    Python, programming experience   |
 
-(\*) book by Blackburn, Bos, Striegnitz (compiled from [source (⭐70)](https://github.com/LearnPrologNow/lpn), redistributed under [CC license](https://creativecommons.org/licenses/by-sa/4.0/))
+(\*) book by Blackburn, Bos, Striegnitz (compiled from [source (⭐75)](https://github.com/LearnPrologNow/lpn), redistributed under [CC license](https://creativecommons.org/licenses/by-sa/4.0/))
 
 ### Advanced systems
 
@@ -506,7 +505,7 @@ What is next for you? The possibilities are boundless and overlapping:
 
 # Code of conduct
 
-[OSSU's code of conduct (⭐221)](https://github.com/ossu/code-of-conduct).
+[OSSU's code of conduct (⭐266)](https://github.com/ossu/code-of-conduct).
 
 ## How to show your progress
 
@@ -536,5 +535,5 @@ You can change the status of your board to be *public* or *private*.
 *   **[Eric Douglas](https://github.com/ericdouglas)**: founder of OSSU
 *   **[Josh Hanson](https://github.com/joshmhanson)**: lead technical maintainer
 *   **[Waciuma Wanjohi](https://github.com/waciumawanjohi)**: lead academic maintainer
-*   **[Contributors (⭐137k)](https://github.com/ossu/computer-science/graphs/contributors)**
+*   **[Contributors (⭐150k)](https://github.com/ossu/computer-science/graphs/contributors)**
 

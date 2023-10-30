@@ -16,7 +16,7 @@
 
 ### Documentation / Build system (ROS2)
 
-*   [ROS2 CLI cheats sheet (⭐135)](https://github.com/artivis/ros2_cheats_sheet/blob/master/cli/cli_cheats_sheet.pdf) - A cheats sheet for ROS 2 Command Line Interface.
+*   [ROS2 CLI cheats sheet (⭐138)](https://github.com/artivis/ros2_cheats_sheet/blob/master/cli/cli_cheats_sheet.pdf) - A cheats sheet for ROS 2 Command Line Interface.
 
 ## [3. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -28,21 +28,21 @@
 
 ### UI / Sticky Headers
 
-*   [Sticky Infinite List (⭐291)](https://github.com/TatsuUkraine/flutter_sticky_infinite_list) <!--stargazers:TatsuUkraine/flutter_sticky_infinite_list--> - Highly configurable multi directional infinite list with Sticky Headers by [TatsuUkraine](https://github.com/TatsuUkraine)
-*   [Sticky Header (⭐773)](https://github.com/letsar/flutter_sticky_header) <!--stargazers:letsar/flutter_sticky_header--> - Sliver based sticky headers by [Romain Rastel](https://github.com/letsar)
-*   [Sticky Headers (⭐900)](https://github.com/slightfoot/flutter_sticky_headers) <!--stargazers:slightfoot/flutter_sticky_headers--> - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/)
+*   [Sticky Infinite List (⭐325)](https://github.com/TatsuUkraine/flutter_sticky_infinite_list) <!--stargazers:TatsuUkraine/flutter_sticky_infinite_list--> - Highly configurable multi directional infinite list with Sticky Headers by [TatsuUkraine](https://github.com/TatsuUkraine)
+*   [Sticky Header (⭐816)](https://github.com/letsar/flutter_sticky_header) <!--stargazers:letsar/flutter_sticky_header--> - Sliver based sticky headers by [Romain Rastel](https://github.com/letsar)
+*   [Sticky Headers (⭐959)](https://github.com/slightfoot/flutter_sticky_headers) <!--stargazers:slightfoot/flutter_sticky_headers--> - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/)
 
 ## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Examples and funny stuff
 
-*   [coderplanets.com (⭐221)](https://github.com/coderplanets/coderplanets_server) - GraphQL api for coderplanets.com built with Phoenix 1.4 and Absinthe.
+*   [coderplanets.com (⭐222)](https://github.com/coderplanets/coderplanets_server) - GraphQL api for coderplanets.com built with Phoenix 1.4 and Absinthe.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Debug
 
-*   [dbg-macro (⭐2.4k)](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++. \[MIT]
+*   [dbg-macro (⭐2.6k)](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++. \[MIT]
 
 ### GUI
 

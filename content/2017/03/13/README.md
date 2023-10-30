@@ -33,7 +33,7 @@
 
 ### Logging
 
-*   [timber (⭐217)](https://github.com/timberio/timber-elixir) - Structured logging platform; turns raw text logs into rich structured events.
+*   [timber (⭐214)](https://github.com/timberio/timber-elixir) - Structured logging platform; turns raw text logs into rich structured events.
 
 ## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Text Processing
 
-*   [postagga (⭐156)](https://github.com/turbopape/postagga)
+*   [postagga (⭐157)](https://github.com/turbopape/postagga)
 
 ### Debugging
 
@@ -55,7 +55,7 @@
 
 ### Libraries
 
-*   [FPO.js (⭐450)](https://github.com/getify/fpo) – FP library for JavaScript by Kyle Simpson (aka getify). Supports named-argument style methods.
+*   [FPO.js (⭐449)](https://github.com/getify/fpo) – FP library for JavaScript by Kyle Simpson (aka getify). Supports named-argument style methods.
 
 ## [8. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 

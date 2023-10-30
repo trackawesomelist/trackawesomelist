@@ -11,27 +11,27 @@
 ### Network / IDS / IPS / Host IDS / Host IPS
 
 *   [Zeek](https://zeek.org/) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
-    *   [zeek2es (⭐30)](https://github.com/corelight/zeek2es) - An open source tool to convert Zeek logs to Elastic/OpenSearch.  You can also output pure JSON from Zeek's TSV logs!
+    *   [zeek2es (⭐31)](https://github.com/corelight/zeek2es) - An open source tool to convert Zeek logs to Elastic/OpenSearch.  You can also output pure JSON from Zeek's TSV logs!
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
 *   [vue-admin-next (⭐130)](https://github.com/openfext/vue-admin-next) - Professional enterprise application with Multi-Module Design, Vue Composition API, and Friendly User Interface. [Online Demo](https://openfext.github.io/vue-admin-next/#/table/basic/query)
-*   [vue-pro-sidebar (⭐80)](https://github.com/boussadjra/vue-pro-sidebar) : A responsive template starter with the ecosystem configuration (vue-router, vuex), this boilerplate allows you to choose your preferred colors. [Live demo](http://boussadjra.github.io/vue-pro-sidebar)
+*   [vue-pro-sidebar (⭐82)](https://github.com/boussadjra/vue-pro-sidebar) : A responsive template starter with the ecosystem configuration (vue-router, vuex), this boilerplate allows you to choose your preferred colors. [Live demo](http://boussadjra.github.io/vue-pro-sidebar)
 
 ### Components & Libraries / UI Utilities
 
 *   [vue-form-container (⭐24)](https://github.com/VitorLuizC/vue-form-container) - A `Provider Component` that encapsulates your forms and handles their states and validations.
 *   [ps-validation (⭐15)](https://github.com/PrimitiveSocial/ps-validation) - A Vue plugin that provides out-of-the-box data validation rules, very much inspired by the Laravel validation system.
-*   [vue-stickto (⭐53)](https://github.com/JALBAA/vue-stickto) - A vue directive that supports multiple DOM nodes stick to top automatically
+*   [vue-stickto (⭐54)](https://github.com/JALBAA/vue-stickto) - A vue directive that supports multiple DOM nodes stick to top automatically
 *   [@kooljay82/vue-m-camera (⭐10)](https://github.com/kooljay82/vue-m-camera) - To avoid changing orientation of photo automatically which is taken via camera of user's device.
 
 ### Components & Libraries / Utilities
 
-*   [vue-api-request (⭐128)](https://github.com/ftgibran/vue-api-request) - A plugin that provides full control on your APIs, making your request simple, fast, and easy to implement.
-*   [vue-request (⭐909)](https://github.com/Attojs/vue-request) - ⚡️ Vue 3 Composable for data fetching, supports SWR, polling, error retry, cache request, pagination, and other cool features.
-*   [vue-worker (⭐571)](https://github.com/israelss/vue-worker) - A Vue.js plugin to use webworkers in a simple way.
+*   [vue-api-request (⭐129)](https://github.com/ftgibran/vue-api-request) - A plugin that provides full control on your APIs, making your request simple, fast, and easy to implement.
+*   [vue-request (⭐1k)](https://github.com/Attojs/vue-request) - ⚡️ Vue 3 Composable for data fetching, supports SWR, polling, error retry, cache request, pagination, and other cool features.
+*   [vue-worker (⭐583)](https://github.com/israelss/vue-worker) - A Vue.js plugin to use webworkers in a simple way.
 
 ### Components & Libraries / Scaffold
 
@@ -41,74 +41,74 @@
 
 ### Board support crates / Adafruit
 
-*   [`metro_m0`](https://crates.io/crates/metro_m0) - Board support for the [Metro M0 board](https://www.adafruit.com/product/3505) in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/metro_m0.svg)
-*   [`metro_m4`](https://crates.io/crates/metro_m4) - Board support for the [Metro M4 board](https://www.adafruit.com/product/3382) in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/metro_m4.svg)
-*   [`pyportal`](https://crates.io/crates/pyportal) - Board support for the [PyPortal board](https://www.adafruit.com/product/4116) in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/pyportal.svg)
-*   [`pygamer`](https://crates.io/crates/pygamer) - Board support for the [PyGamer board](https://www.adafruit.com/product/4242) in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/pygamer.svg)
-*   [`trellis_m4`](https://crates.io/crates/trellis_m4) - Board support for the [NeoTrellis M4 board](https://www.adafruit.com/product/3938) in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/trellis_m4.svg)
-*   [`feather_m0`](https://crates.io/crates/feather_m0) - Board support for the [Feather M0 board](https://www.adafruit.com/product/2772), and some variants in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/feather_m0.svg)
-*   [`feather_m4`](https://crates.io/crates/feather_m4) - Board support for the [Feather M4 board](https://www.adafruit.com/product/3857) in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/feather_m4.svg)
-*   [`circuit_playground_express`](https://crates.io/crates/circuit_playground_express) - Board support for the [Circuit Playground Express board](https://www.adafruit.com/product/3333) in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/circuit_playground_express.svg)
-*   [`edgebadge`](https://crates.io/crates/edgebadge) - Board support for the [EdgeBadge board](https://www.adafruit.com/product/4400) in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/edgebadge.svg)
-*   [`gemma_m0`](https://crates.io/crates/gemma_m0) - Board support for the [Gemma M0 board](https://www.adafruit.com/product/3501) in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/gemma_m0.svg)
-*   [`itsybitsy_m0`](https://crates.io/crates/itsybitsy_m0) - Board support for the [ItsyBitsy M0 board](https://www.adafruit.com/product/3727) in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/itsybitsy_m0.svg)
-*   [`itsybitsy_m4`](https://crates.io/crates/itsybitsy_m4) - Board support for the [ItsyBitsy M4 Express board](https://www.adafruit.com/product/3800) in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/itsybitsy_m4.svg)
-*   [`trinket_m0`](https://crates.io/crates/trinket_m0) - Board support for the [Trinket M0 board](https://www.adafruit.com/product/3500) in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/trinket_m0.svg)
-*   [`neo_trinkey`](https://crates.io/crates/neo_trinkey) - Board support for the [neo trinkey board](https://www.adafruit.com/product/4870) in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/neo_trinkey.svg)
-*   [`neokey_trinkey`](https://crates.io/crates/neokey_trinkey) - Board support for the [neokey trinkey board](https://www.adafruit.com/product/5020) in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/neokey_trinkey.svg)
-*   [`grand_central_m4`](https://crates.io/crates/grand_central_m4) - Board support for the [grand central m4 board](https://www.adafruit.com/product/4064) in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/grand_central_m4.svg)
-*   [`qt_py_m0`](https://crates.io/crates/qt_py_m0) - Board support for the [QT Py board](https://www.adafruit.com/product/4600) in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/qt_py_m0.svg)
+*   [`metro_m0`](https://crates.io/crates/metro_m0) - Board support for the [Metro M0 board](https://www.adafruit.com/product/3505) in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/metro_m0.svg)
+*   [`metro_m4`](https://crates.io/crates/metro_m4) - Board support for the [Metro M4 board](https://www.adafruit.com/product/3382) in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/metro_m4.svg)
+*   [`pyportal`](https://crates.io/crates/pyportal) - Board support for the [PyPortal board](https://www.adafruit.com/product/4116) in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/pyportal.svg)
+*   [`pygamer`](https://crates.io/crates/pygamer) - Board support for the [PyGamer board](https://www.adafruit.com/product/4242) in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/pygamer.svg)
+*   [`trellis_m4`](https://crates.io/crates/trellis_m4) - Board support for the [NeoTrellis M4 board](https://www.adafruit.com/product/3938) in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/trellis_m4.svg)
+*   [`feather_m0`](https://crates.io/crates/feather_m0) - Board support for the [Feather M0 board](https://www.adafruit.com/product/2772), and some variants in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/feather_m0.svg)
+*   [`feather_m4`](https://crates.io/crates/feather_m4) - Board support for the [Feather M4 board](https://www.adafruit.com/product/3857) in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/feather_m4.svg)
+*   [`circuit_playground_express`](https://crates.io/crates/circuit_playground_express) - Board support for the [Circuit Playground Express board](https://www.adafruit.com/product/3333) in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/circuit_playground_express.svg)
+*   [`edgebadge`](https://crates.io/crates/edgebadge) - Board support for the [EdgeBadge board](https://www.adafruit.com/product/4400) in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/edgebadge.svg)
+*   [`gemma_m0`](https://crates.io/crates/gemma_m0) - Board support for the [Gemma M0 board](https://www.adafruit.com/product/3501) in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/gemma_m0.svg)
+*   [`itsybitsy_m0`](https://crates.io/crates/itsybitsy_m0) - Board support for the [ItsyBitsy M0 board](https://www.adafruit.com/product/3727) in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/itsybitsy_m0.svg)
+*   [`itsybitsy_m4`](https://crates.io/crates/itsybitsy_m4) - Board support for the [ItsyBitsy M4 Express board](https://www.adafruit.com/product/3800) in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/itsybitsy_m4.svg)
+*   [`trinket_m0`](https://crates.io/crates/trinket_m0) - Board support for the [Trinket M0 board](https://www.adafruit.com/product/3500) in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/trinket_m0.svg)
+*   [`neo_trinkey`](https://crates.io/crates/neo_trinkey) - Board support for the [neo trinkey board](https://www.adafruit.com/product/4870) in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/neo_trinkey.svg)
+*   [`neokey_trinkey`](https://crates.io/crates/neokey_trinkey) - Board support for the [neokey trinkey board](https://www.adafruit.com/product/5020) in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/neokey_trinkey.svg)
+*   [`grand_central_m4`](https://crates.io/crates/grand_central_m4) - Board support for the [grand central m4 board](https://www.adafruit.com/product/4064) in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/grand_central_m4.svg)
+*   [`qt_py_m0`](https://crates.io/crates/qt_py_m0) - Board support for the [QT Py board](https://www.adafruit.com/product/4600) in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/qt_py_m0.svg)
 
 ### Board support crates / Arduino
 
-*   [`arduino_mkr1000`](https://crates.io/crates/arduino_mkr1000) - Board support for the [MKR 1000 WiFi board](https://docs.arduino.cc/hardware/mkr-1000-wifi) in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/arduino_mkr1000.svg)
-*   [`arduino_mkrvidor4000`](https://crates.io/crates/arduino_mkrvidor4000) - Board support for the [MKR Vidor board](https://store.arduino.cc/usa/mkr-vidor-4000) in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/arduino_mkrvidor4000.svg)
-*   [`arduino_mkrzero`](https://crates.io/crates/arduino_mkrzero) - Board support for the [mkrzero board](https://store.arduino.cc/arduino-mkrzero) in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/arduino_mkrzero.svg)
-*   [`arduino_nano33iot`](https://crates.io/crates/arduino_nano33iot) - Board support for the [Arduino Nano 33 IoT](https://store.arduino.cc/usa/nano-33-iot) in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/arduino_nano33iot.svg)
+*   [`arduino_mkr1000`](https://crates.io/crates/arduino_mkr1000) - Board support for the [MKR 1000 WiFi board](https://docs.arduino.cc/hardware/mkr-1000-wifi) in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/arduino_mkr1000.svg)
+*   [`arduino_mkrvidor4000`](https://crates.io/crates/arduino_mkrvidor4000) - Board support for the [MKR Vidor board](https://store.arduino.cc/usa/mkr-vidor-4000) in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/arduino_mkrvidor4000.svg)
+*   [`arduino_mkrzero`](https://crates.io/crates/arduino_mkrzero) - Board support for the [mkrzero board](https://store.arduino.cc/arduino-mkrzero) in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/arduino_mkrzero.svg)
+*   [`arduino_nano33iot`](https://crates.io/crates/arduino_nano33iot) - Board support for the [Arduino Nano 33 IoT](https://store.arduino.cc/usa/nano-33-iot) in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/arduino_nano33iot.svg)
 
 ### Board support crates / Sparkfun
 
-*   [`samd21_mini`](https://crates.io/crates/samd21_mini) - Board support for the [SAMD21 Mini Breakout](https://www.sparkfun.com/products/13664) in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/samd21_mini.svg)
+*   [`samd21_mini`](https://crates.io/crates/samd21_mini) - Board support for the [SAMD21 Mini Breakout](https://www.sparkfun.com/products/13664) in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/samd21_mini.svg)
 
 ### Board support crates / SeeedStudio
 
-*   [`xiao_m0`](https://crates.io/crates/xiao_m0) - Board support for the [Seeed Studio Seeeduino XIAO](http://wiki.seeedstudio.com/Seeeduino-XIAO/) in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/xiao_m0.svg)
-*   [`wio_lite_mg126`](https://crates.io/crates/wio_lite_mg126) - Board support for the [Seeed Studio wio\_lite\_mg126](https://wiki.seeedstudio.com/Wio-Lite-MG126) in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io.crates/v/wio_lite_mg126.svg)
-*   [`wio_lite_w600`](https://crates.io/crates/wio_lite_w600) - Board support for the [Seeed Studio wio\_lite\_w600](https://wiki.seeedstudio.com/Wio-Lite-W600/) in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io.crates/v/wio_lite_w600.svg)
-*   [`wio_terminal`](https://crates.io/crates/wio_terminal) - Board support for the [Seeed Studio wio\_terminal](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/) in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board ![crates.io](https://img.shields.io.crates/v/wio_terminal.svg)
+*   [`xiao_m0`](https://crates.io/crates/xiao_m0) - Board support for the [Seeed Studio Seeeduino XIAO](http://wiki.seeedstudio.com/Seeeduino-XIAO/) in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/xiao_m0.svg)
+*   [`wio_lite_mg126`](https://crates.io/crates/wio_lite_mg126) - Board support for the [Seeed Studio wio\_lite\_mg126](https://wiki.seeedstudio.com/Wio-Lite-MG126) in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io.crates/v/wio_lite_mg126.svg)
+*   [`wio_lite_w600`](https://crates.io/crates/wio_lite_w600) - Board support for the [Seeed Studio wio\_lite\_w600](https://wiki.seeedstudio.com/Wio-Lite-W600/) in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io.crates/v/wio_lite_w600.svg)
+*   [`wio_terminal`](https://crates.io/crates/wio_terminal) - Board support for the [Seeed Studio wio\_terminal](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/) in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 1 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board ![crates.io](https://img.shields.io.crates/v/wio_terminal.svg)
 
 ### Board support crates / Sodaq
 
-*   [`sodaq_one`](https://crates.io/crates/sodaq_one) - Board support for the [Sodaq one board](https://shop.sodaq.com/sodaq-one-eu-rn2483-v3.html) in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/sodaq_one.svg)
-*   [`sodaq_sara_aff`](https://crates.io/crates/sodaq_sara_aff) - Board support for the [Sodaq sara aff board](https://shop.sodaq.com/sodaq-sara-sff-r410m.html) in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/sodaq_sara_aff.svg)
+*   [`sodaq_one`](https://crates.io/crates/sodaq_one) - Board support for the [Sodaq one board](https://shop.sodaq.com/sodaq-one-eu-rn2483-v3.html) in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/sodaq_one.svg)
+*   [`sodaq_sara_aff`](https://crates.io/crates/sodaq_sara_aff) - Board support for the [Sodaq sara aff board](https://shop.sodaq.com/sodaq-sara-sff-r410m.html) in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/sodaq_sara_aff.svg)
 
 ### Board support crates / Other
 
-*   [`serpente`](https://crates.io/crates/serpente) - Board support for the [serpente board](https://www.solder.party/docs/serpente/) in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/serpente.svg)
-*   [`p1am_100`](https://crates.io/crates/p1am_100) - Board support for the [p1am\_100 board](https://facts-engineering.github.io) in the [atsamd-rs (⭐477)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐477)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/p1am_100.svg)
+*   [`serpente`](https://crates.io/crates/serpente) - Board support for the [serpente board](https://www.solder.party/docs/serpente/) in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/serpente.svg)
+*   [`p1am_100`](https://crates.io/crates/p1am_100) - Board support for the [p1am\_100 board](https://facts-engineering.github.io) in the [atsamd-rs (⭐491)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐491)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. ![crates.io](https://img.shields.io/crates/v/p1am_100.svg)
 
 ## [4. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
 ### Cars
 
-*   [BMW Linker (⭐123)](https://github.com/opp100/bmw-scriptable-widgets) - Information about your BMW, like location or mileage.
+*   [BMW Linker (⭐146)](https://github.com/opp100/bmw-scriptable-widgets) - Information about your BMW, like location or mileage.
 
     <img src="https://raw.githubusercontent.com/opp100/bmw-scriptable-widgets/main/screenshots/sc_1.png" width="400"/>
 
 ### Tools
 
-*   [scriptable-testflight-watcher (⭐28)](https://github.com/FifiTheBulldog/scriptable-testflight-watcher) - Get notifications about new spots in TestFlight betas.
+*   [scriptable-testflight-watcher (⭐46)](https://github.com/FifiTheBulldog/scriptable-testflight-watcher) - Get notifications about new spots in TestFlight betas.
 
 ## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### Software for Creating APIs
 
-*   [GraphHopper Routing Engine (⭐4.1k)](https://github.com/graphhopper/graphhopper/#public-transit) Open source routing engine for OpenStreetMap. Use it as Java library or server.
-*   [gtfs-server (⭐22)](https://github.com/denysvitali/gtfs-server) - A web server, written in Rust that uses PostGIS as a backend to serve GTFS data via a HTTP endpoint
-*   [hafas-rest-api (⭐14)](https://github.com/public-transport/hafas-rest-api) – Expose a [HAFAS](https://de.wikipedia.org/wiki/HAFAS) endpoint as a REST API.
+*   [GraphHopper Routing Engine (⭐4.2k)](https://github.com/graphhopper/graphhopper/#public-transit) Open source routing engine for OpenStreetMap. Use it as Java library or server.
+*   [gtfs-server (⭐25)](https://github.com/denysvitali/gtfs-server) - A web server, written in Rust that uses PostGIS as a backend to serve GTFS data via a HTTP endpoint
+*   [hafas-rest-api (⭐19)](https://github.com/public-transport/hafas-rest-api) – Expose a [HAFAS](https://de.wikipedia.org/wiki/HAFAS) endpoint as a REST API.
 *   [Linked Connections](http://linkedconnections.org/) - An open-source, scalable intermodal route planning engine, which allows clients to execute the route planning algorithm (as opposed to the server). Uses GTFS data.
-*   [MOTIS (⭐102)](https://github.com/motis-project/motis) - Multi Objective Travel Information System, written in C++ and Java. Can consume schedule timetables in the GTFS or HAFAS format as well as real time information in the GTFS-RT (and RISML, a propriatary format at Deutsche Bahn) as input data. For pedestrian routing (handled by Per Pedes Routing) and car routing (handled by OSRM) OpenStreetMap data is used.
-*   [pyBikes (⭐502)](https://github.com/eskerda/pybikes) - Software powering [CityBikes](http://api.citybik.es) for worldwide bikeshare system info
+*   [MOTIS (⭐123)](https://github.com/motis-project/motis) - Multi Objective Travel Information System, written in C++ and Java. Can consume schedule timetables in the GTFS or HAFAS format as well as real time information in the GTFS-RT (and RISML, a propriatary format at Deutsche Bahn) as input data. For pedestrian routing (handled by Per Pedes Routing) and car routing (handled by OSRM) OpenStreetMap data is used.
+*   [pyBikes (⭐516)](https://github.com/eskerda/pybikes) - Software powering [CityBikes](http://api.citybik.es) for worldwide bikeshare system info
 
 ## [6. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
@@ -130,9 +130,9 @@
 
 ## [9. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
-### Development / Newsletters
+### Development / Discovery
 
-*   [robotnix (⭐441)](https://github.com/danielfullmer/robotnix) - A declarative and reproducible build system for Android (AOSP) images.
+*   [robotnix (⭐491)](https://github.com/danielfullmer/robotnix) - A declarative and reproducible build system for Android (AOSP) images.
 
 ## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -142,22 +142,22 @@
 
 ### Google Colaboratory
 
-*   [swift-colab (⭐72)](https://github.com/philipturner/swift-colab) - Run Swift in a browser.
+*   [swift-colab (⭐91)](https://github.com/philipturner/swift-colab) - Run Swift in a browser.
 
 ### Misc
 
-*   [xcbeautify (⭐698)](https://github.com/tuist/xcbeautify) - Little beautifier tool for xcodebuild.
+*   [xcbeautify (⭐782)](https://github.com/tuist/xcbeautify) - Little beautifier tool for xcodebuild.
 
 ### Location / Barcode
 
-*   [AsyncLocationKit (⭐110)](https://github.com/AsyncSwift/AsyncLocationKit) - Wrapper for Apple CoreLocation framework with Modern Concurrency Swift (async/await).
-*   [STLocationRequest (⭐637)](https://github.com/SvenTiigi/STLocationRequest) - An elegant and simple 3D Flyover Location Request Screen.
+*   [AsyncLocationKit (⭐152)](https://github.com/AsyncSwift/AsyncLocationKit) - Wrapper for Apple CoreLocation framework with Modern Concurrency Swift (async/await).
+*   [STLocationRequest (⭐640)](https://github.com/SvenTiigi/STLocationRequest) - An elegant and simple 3D Flyover Location Request Screen.
 
 ## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / GUI
 
-*   [emilk/egui (⭐15k)](https://github.com/emilk/egui) - Simple, fast, and highly portable immediate mode GUI library for Rust. egui runs on the web, natively, and in your favorite game engine. [![Build Status](https://github.com/emilk/egui/workflows/CI/badge.svg)](https://github.com/emilk/egui/actions?workflow=CI)
+*   [emilk/egui (⭐17k)](https://github.com/emilk/egui) - Simple, fast, and highly portable immediate mode GUI library for Rust. egui runs on the web, natively, and in your favorite game engine. [![Build Status](https://github.com/emilk/egui/workflows/CI/badge.svg)](https://github.com/emilk/egui/actions?workflow=CI)
 
 ## [12. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -169,7 +169,7 @@
 
 ### React Forms
 
-*   [vest (⭐2.1k)](https://github.com/ealush/vest) - Declarative validations framework
+*   [vest (⭐2.2k)](https://github.com/ealush/vest) - Declarative validations framework
 
 ## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

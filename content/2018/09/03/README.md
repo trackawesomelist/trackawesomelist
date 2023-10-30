@@ -36,7 +36,7 @@
 
 ### Misc
 
-*   [retriable.cr (⭐36)](https://github.com/Sija/retriable.cr) - Simple DSL to retry failed code blocks
+*   [retriable.cr (⭐37)](https://github.com/Sija/retriable.cr) - Simple DSL to retry failed code blocks
 
 ### DevOps
 
@@ -56,21 +56,21 @@
 
 ### DNS
 
-*   [luadns.com](https://www.luadns.com/) — Free DNS hosting, 3 domains, all features with reasonable limits
+*   [luadns.com](https://www.luadns.com/) — Free DNS hosting, three domains, all features with reasonable limits
 
-### DBaaS
+### Managed Data Services
 
 *   [elephantsql.com](https://www.elephantsql.com/) — PostgreSQL as a service, 20 MB free
 
 ### Storage and Media Processing
 
-*   [embed.ly](https://embed.ly/) — Provides APIs for embedding media in a webpage, responsive image scaling, extracting elements from a webpage. Free for up to 5,000 URLs/month at 15 requests/second
+*   [embed.ly](https://embed.ly/) — Provides APIs for embedding media in a webpage, responsive image scaling, and extracting elements from a webpage. Free for up to 5,000 URLs/month at 15 requests/second
 
 ## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Caching
 
-*   [Faster (⭐5.3k)](https://github.com/Microsoft/FASTER/tree/master/cs) - Fast key-value store from Microsoft Research.
+*   [Faster (⭐5.7k)](https://github.com/Microsoft/FASTER/tree/master/cs) - Fast key-value store from Microsoft Research.
 
 ## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -97,11 +97,11 @@
 
 ### Mod Loaders / Archives
 
-*   [Meddle (⭐27)](https://github.com/FyberOptic/Meddle) - Everything related to modding 1.9/1.10 snapshots in one place.
+*   [Meddle (⭐28)](https://github.com/FyberOptic/Meddle) - Everything related to modding 1.9/1.10 snapshots in one place.
 
 ### Mods / Skins And Capes
 
-*   [Custom Skin Loader (⭐400)](https://github.com/xfl03/MCCustomSkinLoader) - Custom Skin Loader for Minecraft.
+*   [Custom Skin Loader (⭐447)](https://github.com/xfl03/MCCustomSkinLoader) - Custom Skin Loader for Minecraft.
 
 ### Web Applications / Building
 

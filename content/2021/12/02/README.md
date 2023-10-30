@@ -109,41 +109,37 @@
 
 ### Software / Database Management
 
-*   [Directus](https://directus.io/) - An Instant App & API for your SQL Database. Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. ([Source Code (⭐22k)](https://github.com/directus/directus)) `GPL-3.0` `Nodejs`
+*   [Directus](https://directus.io/) - An Instant App & API for your SQL Database. Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. ([Source Code (⭐24k)](https://github.com/directus/directus)) `GPL-3.0` `Nodejs`
 
 ### Software / Media Streaming - Video Streaming
 
-*   [OvenMediaEngine](https://ovenmediaengine.com) - OvenMediaEngine is a selfhostable Open-Source Streaming Server with Sub-Second Latency. ([Demo](https://demo.ovenplayer.com), [Source Code (⭐2k)](https://github.com/AirenSoft/OvenMediaEngine)) `GPL-3.0` `C++`
+*   [OvenMediaEngine](https://ovenmediaengine.com) - OvenMediaEngine is a selfhostable Open-Source Streaming Server with Sub-Second Latency. ([Demo](https://demo.ovenplayer.com), [Source Code (⭐2.3k)](https://github.com/AirenSoft/OvenMediaEngine)) `GPL-3.0` `C++/Docker`
 
 ### Software / Money, Budgeting & Management
 
 *   [Hub20](https://hub20.io/) - A self-hosted payment processor for Ethereum and ERC20 Tokens. ([Source Code](https://gitlab.com/mushroomlabs/hub20/)) `AGPL-3.0` `Docker/Python`
-*   [IHateMoney](https://ihatemoney.org/) - Manage your shared expenses, easily. ([Demo](https://ihatemoney.org/demo/), [Source Code (⭐879)](https://github.com/spiral-project/ihatemoney)) `BSD-3-Clause` `Docker/Python`
-
-### Software / Password Managers
-
-*   [vaults (⭐32)](https://github.com/MatrixEternal/vaults) - Password manager featuring client side AES-256 encryption, PBKDF2 hashing, vaults, password generation & more. `GPL-3.0` `PHP`
+*   [IHateMoney](https://ihatemoney.org/) - Manage your shared expenses, easily. ([Demo](https://ihatemoney.org/demo/), [Source Code (⭐972)](https://github.com/spiral-project/ihatemoney)) `BSD-3-Clause` `Docker/Python`
 
 ### Software / Polls and Events
 
-*   [ClearFlask](https://clearflask.com) - Community-feedback tool for managing incoming feedback and prioritizing a public roadmap. Alternative to Canny, UserVoice, Upvoty. ([Demo](https://product.clearflask.com), [Source Code (⭐156)](https://github.com/clearflask/clearflask)) `AGPL-3.0` `Docker`
+*   [ClearFlask](https://clearflask.com) - Community-feedback tool for managing incoming feedback and prioritizing a public roadmap (alternative to Canny, UserVoice, Upvoty). ([Demo](https://product.clearflask.com), [Source Code (⭐202)](https://github.com/clearflask/clearflask)) `AGPL-3.0` `Docker`
 
 ### Software / Software Development - Project Management
 
-*   [OneDev](https://onedev.io/) - All-In-One DevOps Platform. With Git Management, Issue Tracking, and CI/CD. Simple yet Powerful. ([Source Code](https://code.onedev.io/projects/160)) `MIT` `Java`
+*   [OneDev](https://onedev.io/) - All-In-One DevOps Platform. With Git Management, Issue Tracking, and CI/CD. Simple yet Powerful. ([Source Code](https://code.onedev.io/projects/160)) `MIT` `Java/Docker/K8S`
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue3-emoji-picker (⭐73)](https://github.com/delowardev/vue3-emoji-picker) - Simple and Powerful Emoji Picker for Vue3.
+*   [vue3-emoji-picker (⭐112)](https://github.com/delowardev/vue3-emoji-picker) - Simple and Powerful Emoji Picker for Vue3.
 
 ## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Forms / Image Picker
 
-*   [Form Builder (⭐1.2k)](https://github.com/danvick/flutter_form_builder) <!--stargazers:danvick/flutter_form_builder--> - Framework that simplifies building forms, validating fields, reacting to changes, and collecting the final user input by [Danvick Miller](https://github.com/danvick)
-*   [Reactive Forms (⭐342)](https://github.com/joanpablo/reactive_forms) <!--stargazers:joanpablo/reactive_forms--> - Model-driven approach to handling Forms inputs and validations, heavily inspired in Angular's Reactive Forms.
+*   [Form Builder (⭐1.3k)](https://github.com/danvick/flutter_form_builder) <!--stargazers:danvick/flutter_form_builder--> - Framework that simplifies building forms, validating fields, reacting to changes, and collecting the final user input by [Danvick Miller](https://github.com/danvick)
+*   [Reactive Forms (⭐378)](https://github.com/joanpablo/reactive_forms) <!--stargazers:joanpablo/reactive_forms--> - Model-driven approach to handling Forms inputs and validations, heavily inspired in Angular's Reactive Forms.
 
 ## [8. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
@@ -156,7 +152,7 @@
 
 ### Svelte / Integrations
 
-*   [vite-plugin-svelte (⭐681)](https://github.com/sveltejs/vite-plugin-svelte) - Adds Svelte support. Official plugin of Svelte team.
+*   [vite-plugin-svelte (⭐734)](https://github.com/sveltejs/vite-plugin-svelte) - Adds Svelte support. Official plugin of Svelte team.
 
 ## [10. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -168,7 +164,7 @@
 
 ### Tools / Linters
 
-*   [flake8-type-checking (⭐78)](https://github.com/snok/flake8-type-checking) - Plugin to help you guard any type-annotation-only import correctly.
+*   [flake8-type-checking (⭐100)](https://github.com/snok/flake8-type-checking) - Plugin to help you guard any type-annotation-only import correctly.
 
 ## [12. Tools](/content/lvwzhen/tools/README.md)
 
@@ -203,7 +199,7 @@
 
 ### Testing
 
-*   [lambdatest.com](https://www.lambdatest.com/) — Manual, visual, screenshot and automated browser testing on selenium and cypress, [free for Open Source](https://www.lambdatest.com/open-source-cross-browser-testing-tool)
+*   [lambdatest.com](https://www.lambdatest.com/) — Manual, visual, screenshot, and automated browser testing on selenium and cypress, [free for Open Source](https://www.lambdatest.com/open-source-cross-browser-testing-tool)
 
 ## [16. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 

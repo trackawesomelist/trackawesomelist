@@ -39,17 +39,17 @@
 ### Authentication
 
 *   [ueberauth\_auth0](https://hex.pm/packages/ueberauth_auth0) - An Ueberauth strategy for using Auth0 to authenticate your users.
-*   [ueberauth\_weibo (⭐12)](https://github.com/he9qi/ueberauth_weibo) - [Weibo](https://weibo.com) OAuth2 Strategy for Überauth.
+*   [ueberauth\_weibo (⭐11)](https://github.com/he9qi/ueberauth_weibo) - [Weibo](https://weibo.com) OAuth2 Strategy for Überauth.
 
 ### Behaviours and Interfaces
 
-*   [gen\_state\_machine (⭐283)](https://github.com/antipax/gen_state_machine) - Elixir wrapper for gen\_statem.
+*   [gen\_state\_machine (⭐289)](https://github.com/antipax/gen_state_machine) - Elixir wrapper for gen\_statem.
 
 ### Benchmarking
 
 *   [benchee (⭐1.3k)](https://github.com/PragTob/benchee) - Easy and extensible benchmarking in Elixir.
-*   [benchfella (⭐505)](https://github.com/alco/benchfella) - Benchmarking tool for Elixir.
-*   [bmark (⭐69)](https://github.com/joekain/bmark) - A benchmarking tool for Elixir.
+*   [benchfella (⭐511)](https://github.com/alco/benchfella) - Benchmarking tool for Elixir.
+*   [bmark (⭐70)](https://github.com/joekain/bmark) - A benchmarking tool for Elixir.
 
 ### Cryptography
 
@@ -57,15 +57,15 @@
 
 ### Natural Language Processing (NLP)
 
-*   [Woolly (⭐48)](https://github.com/pjhampton/woolly) - Woolly is an ambitious Text Mining and Natural Language Processing API for Elixir.
+*   [Woolly (⭐49)](https://github.com/pjhampton/woolly) - Woolly is an ambitious Text Mining and Natural Language Processing API for Elixir.
 
 ### ORM and Datamapping
 
-*   [shards (⭐286)](https://github.com/cabol/shards) - Transparent and out-of-box Sharding support for Erlang/Elixir ETS tables.
+*   [shards (⭐289)](https://github.com/cabol/shards) - Transparent and out-of-box Sharding support for Erlang/Elixir ETS tables.
 
 ### Queue
 
-*   [cspex (⭐22)](https://github.com/costaraphael/cspex) - Simple, OTP compliant, Elixir implementation of CSP channels.
+*   [cspex (⭐23)](https://github.com/costaraphael/cspex) - Simple, OTP compliant, Elixir implementation of CSP channels.
 
 ## [5. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/README.md)
 

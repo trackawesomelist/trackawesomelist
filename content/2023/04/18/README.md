@@ -10,7 +10,7 @@
 
 ### Command-line
 
-*   [vzcc (⭐17)](https://github.com/malisipi/vzcc) - A CLI cross-compiling tool based on Zig CC for V.
+*   [vzcc (⭐20)](https://github.com/malisipi/vzcc) - A CLI cross-compiling tool based on Zig CC for V.
 
 ## [2. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md)
 
@@ -34,7 +34,7 @@
 
 ### React Testing
 
-*   [cypress (⭐43k)](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser
+*   [cypress (⭐45k)](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser
 
 ### React Awesome Components
 
@@ -44,15 +44,15 @@
 
 ### Color / Diagnostics
 
-*   [Mr-LLLLL/interestingwords.nvim (⭐11)](https://github.com/Mr-LLLLL/interestingwords.nvim) - Highlight multiple word same time and navigate word under cursor with scrolling smoothly, display search count in virualtext.
+*   [Mr-LLLLL/interestingwords.nvim (⭐23)](https://github.com/Mr-LLLLL/interestingwords.nvim) - Highlight multiple word same time and navigate word under cursor with scrolling smoothly, display search count in virualtext.
 
 ### Colorscheme Creation / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.colors (⭐2.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-colors.md) - Module of `mini.nvim` to tweak and save any color scheme. Also can animate transition and convert between some color spaces.
+*   [echasnovski/mini.nvim#mini.colors (⭐2.9k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-colors.md) - Module of `mini.nvim` to tweak and save any color scheme. Also can animate transition and convert between some color spaces.
 
 ### Utility / Diagnostics
 
-*   [hbac.nvim (⭐51)](https://github.com/axkirillov/hbac.nvim) - Automatically close buffers you are not working on.
+*   [hbac.nvim (⭐127)](https://github.com/axkirillov/hbac.nvim) - Automatically close buffers you are not working on.
 
 ## [5. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -80,7 +80,7 @@
 
 ### HTML Builders
 
-*   [blueprint (⭐27)](https://github.com/gunbolt/blueprint) - Write reusable and testable HTML templates in plain Crystal
+*   [blueprint (⭐37)](https://github.com/gunbolt/blueprint) - Write reusable and testable HTML templates in plain Crystal
 
 ## [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -156,7 +156,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [nvm (⭐67k)](https://github.com/nvm-sh/nvm) - Node Version Manager is a POSIX-compliant bash script to manage multiple active node.js versions. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nvm-sh/nvm) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [nvm (⭐71k)](https://github.com/nvm-sh/nvm) - Node Version Manager is a POSIX-compliant bash script to manage multiple active node.js versions. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nvm-sh/nvm) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / General Tools
 
@@ -164,7 +164,7 @@
 
 ### Utilities / Window Management
 
-*   [Rectangle-app (⭐21k)](https://github.com/rxhanson/Rectangle) - Rectangle is a window management app based on Spectacle, written in Swift: Move and resize windows on macOS with keyboard shortcuts and snap areas. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/rxhanson/Rectangle)
+*   [Rectangle-app (⭐23k)](https://github.com/rxhanson/Rectangle) - Rectangle is a window management app based on Spectacle, written in Swift: Move and resize windows on macOS with keyboard shortcuts and snap areas. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/rxhanson/Rectangle)
 *   [Sidebar](http://sidebarapp.net/) - The modern Dock replacement for your Mac.
 
 ## [11. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
@@ -172,20 +172,20 @@
 ### GTFS Merge Tools / Ruby
 
 *   [onebusaway-gtfs-merge-cli](http://developer.onebusaway.org/modules/onebusaway-gtfs-modules/1.3.94/onebusaway-gtfs-merge-cli.html) - A command line tool for merging GTFS feeds. Info provided at the link on how the tool detects and merges duplicate IDs.
-*   [Transitfeed merge function (⭐658)](https://github.com/google/transitfeed/wiki/Merge) - A Python library with a function to merge two different GTFS feeds.
+*   [Transitfeed merge function (⭐661)](https://github.com/google/transitfeed/wiki/Merge) - A Python library with a function to merge two different GTFS feeds.
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Design Inspiration
 
-*   [LovelyLanding.net](https://www.lovelylanding.net/) - \[Landing Page Designs] Frequently updated landing page screenshots. Includes Desktop, Tablet and Mobile screeshots.
+*   [LovelyLanding.net](https://www.lovelylanding.net/) - \[Landing Page Designs] Frequently updated landing page screenshots. Includes Desktop, Tablet, and Mobile screenshots.
 
 ## [13. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
 ### conversion
 
-*   [topojson for Python (⭐150)](https://github.com/mattijn/topojson): Topojson is a library that is capable of creating a topojson encoded format of merely any spatial object in Python.
-*   [geomet (⭐148)](https://github.com/geomet/geomet): Pure Python conversion library for common geospatial data formats
+*   [topojson for Python (⭐153)](https://github.com/mattijn/topojson): Topojson is a library that is capable of creating a topojson encoded format of merely any spatial object in Python.
+*   [geomet (⭐155)](https://github.com/geomet/geomet): Pure Python conversion library for common geospatial data formats
 
 ## [14. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
@@ -197,7 +197,7 @@
 
 ### Plugins
 
-*   💼 [TailwindCSS 3D (⭐20)](https://github.com/sambauers/tailwindcss-3d) - Adds 3D `transform` utilities and animations.
+*   💼 [TailwindCSS 3D (⭐113)](https://github.com/sambauers/tailwindcss-3d) - Adds 3D `transform` utilities and animations.
 
 ---
 

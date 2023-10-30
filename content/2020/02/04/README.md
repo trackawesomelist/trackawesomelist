@@ -10,13 +10,13 @@
 
 ### Network / Scanning / Pentesting
 
-*   [scapy (⭐119)](https://github.com/gpotter2/awesome-scapy) - Scapy: the python-based interactive packet manipulation program & library.
+*   [scapy (⭐155)](https://github.com/gpotter2/awesome-scapy) - Scapy: the python-based interactive packet manipulation program & library.
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Software Development - IDE & Tools
 
-*   [Atheos](https://www.atheos.io) - Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad. ([Source Code (⭐358)](https://github.com/Atheos/Atheos)) `MIT` `PHP`
+*   [Atheos](https://www.atheos.io) - Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad. ([Source Code (⭐401)](https://github.com/Atheos/Atheos)) `MIT` `PHP/Docker`
 
 ## [3. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
@@ -38,7 +38,7 @@
 
 ## [6. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
-### Authentication / OAuth2 & OpenID
+### OAuth2 & OpenID / Macaroons
 
 *   [Hydra](https://gethydra.sh) - Open-source OIDC & OAuth2 Server.
 
@@ -46,11 +46,11 @@
 
 ### Styling / Barcode
 
-*   [Themes (⭐239)](https://github.com/onmyway133/EasyTheme) - Theme management.
+*   [Themes (⭐240)](https://github.com/onmyway133/EasyTheme) - Theme management.
 
 ### Video / Barcode
 
-*   [Swifty360Player (⭐152)](https://github.com/abdullahselek/Swifty360Player) - iOS 360-degree video player streaming from an AVPlayer.
+*   [Swifty360Player (⭐165)](https://github.com/abdullahselek/Swifty360Player) - iOS 360-degree video player streaming from an AVPlayer.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [CliFx (⭐1.2k)](https://github.com/Tyrrrz/CliFx) - Declarative framework for building command line interfaces.
+*   [CliFx (⭐1.4k)](https://github.com/Tyrrrz/CliFx) - Declarative framework for building command line interfaces.
 
 ## [10. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -92,21 +92,21 @@
 
 ### Productivity / Note Taking and Lists
 
-*   [dnote (⭐2.5k)](https://github.com/dnote/dnote) - A interactive, multi-device notebook.
+*   [dnote (⭐2.6k)](https://github.com/dnote/dnote) - A interactive, multi-device notebook.
 
 ### Utilities / Theming and Customization
 
-*   [JackPaper (⭐10)](https://github.com/jackel27/jackpaper) - Set images from Unsplash as wallpaper.
+*   [JackPaper (⭐11)](https://github.com/jackel27/jackpaper) - Set images from Unsplash as wallpaper.
 
 ## [14. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Offline / Other (Plugins || Cross-platform || OSS || Free)
 
-*   [Typescript tooling for Neovim (⭐618)](https://github.com/mhartington/nvim-typescript) is a language service plugin for typescript for Neovim.
+*   [Typescript tooling for Neovim (⭐617)](https://github.com/mhartington/nvim-typescript) is a language service plugin for typescript for Neovim.
 
 ### Web / Playground
 
-*   :octocat: [Dnote (⭐2.5k)](https://github.com/dnote/dnote) - A command line notebook with a multi-device sync and a web interface.
+*   :octocat: [Dnote (⭐2.6k)](https://github.com/dnote/dnote) - A command line notebook with a multi-device sync and a web interface.
 
 ---
 

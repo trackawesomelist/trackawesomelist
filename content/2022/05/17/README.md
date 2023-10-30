@@ -10,10 +10,10 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-env0 (⭐29)](https://github.com/env0/terraform-provider-env0) - Provider for [env0](https://www.env0.com/)
-*   [terraform-provider-scalr (⭐15)](https://github.com/Scalr/terraform-provider-scalr) - Provider for [Scalr](https://scalr.com)
+*   [terraform-provider-env0 (⭐31)](https://github.com/env0/terraform-provider-env0) - Provider for [env0](https://www.env0.com/)
+*   [terraform-provider-scalr (⭐18)](https://github.com/Scalr/terraform-provider-scalr) - Provider for [Scalr](https://scalr.com)
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
 *   [Argonaut](https://argonaut.dev/) - Deploy apps and infrastructure on your cloud in minutes. Autogenerate Terraform modules, customize configurations through PRs. Support for app deployments on Kubernetes and Lambda environments.
 
@@ -21,7 +21,7 @@
 
 ### Tools
 
-*   [Polkadot PANIC (⭐40)](https://github.com/SimplyVC/panic_polkadot) - Monitoring and alerting solution for Polkadot nodes by Simply VC, compatible with many Substrate chains.
+*   [Polkadot PANIC (⭐39)](https://github.com/SimplyVC/panic_polkadot) - Monitoring and alerting solution for Polkadot nodes by Simply VC, compatible with many Substrate chains.
 
 ## [3. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
@@ -37,7 +37,7 @@
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [simple-chack (⭐0)](https://github.com/chack93/simple-chack.zsh-theme) - Works well with solarized terminal color scheme. Includes `git` status decorations.
 
@@ -57,12 +57,12 @@
 
 ### Modules / Machine learning
 
-*   [netsaur (⭐140)](https://github.com/denosaurs/netsaur) - Powerful machine learning, accelerated by WebGPU
+*   [netsaur (⭐160)](https://github.com/denosaurs/netsaur) - Powerful machine learning, accelerated by WebGPU
 *   [synaptic (⭐14)](https://github.com/load1n9/synaptic) - Dependency-less neural network library ported to deno
 
 ### Modules / Math
 
-*   [neo (⭐57)](https://github.com/denosaurs/neo/) - Matrix and other math, accelerated by WebGPU
+*   [neo (⭐62)](https://github.com/denosaurs/neo/) - Matrix and other math, accelerated by WebGPU
 
 ## [8. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-connect-wallet (⭐65)](https://github.com/neelansh15/vue-connect-wallet) - A Vue plugin for connecting to web3 wallets with a UI button + MetaMask utils
+*   [vue-connect-wallet (⭐81)](https://github.com/neelansh15/vue-connect-wallet) - A Vue plugin for connecting to web3 wallets with a UI button + MetaMask utils
 
 ### Components & Libraries / UI Utilities
 
@@ -99,13 +99,13 @@
 
 ### Form / Checkbox
 
-*   [svelte-formly (⭐220)](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles.
+*   [svelte-formly (⭐239)](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles.
 
 ## [12. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Open Source Projects / Other Tools
 
-*   [Bali (⭐126)](https://github.com/bali-framework/bali) - Simplify Cloud Native Microservices development base on FastAPI and gRPC.
+*   [Bali (⭐183)](https://github.com/bali-framework/bali) - Simplify Cloud Native Microservices development base on FastAPI and gRPC.
 
 ## [13. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 

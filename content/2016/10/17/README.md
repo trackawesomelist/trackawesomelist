@@ -16,11 +16,11 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [PyDexter (⭐31)](https://github.com/D3xterjs/pydexter) - Simple plotting for Python. Wrapper for D3xterjs; easily render charts in-browser.
+*   [PyDexter (⭐32)](https://github.com/D3xterjs/pydexter) - Simple plotting for Python. Wrapper for D3xterjs; easily render charts in-browser.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Suiron (⭐705)](https://github.com/kendricktan/suiron/) - Machine Learning for RC Cars.
+*   [Suiron (⭐704)](https://github.com/kendricktan/suiron/) - Machine Learning for RC Cars.
 
 ## [3. Awesome Neo4j](/content/neueda/awesome-neo4j/README.md)
 
@@ -54,7 +54,6 @@
 *   [Domain Language eLearning](http://elearn.domainlanguage.com/) - Using our video lessons with Eric Evans, author of the original book on Domain-Driven Design (DDD), teach yourself techniques for evolving practical models that improve your software — not just your documents.
 *   [Greg Young's CQRS Class](http://subscriptions.viddler.com/GregYoung/) - These videos include the entirety of Greg Young's DDD, CQRS, and Event Sourcing class.
 *   [Nomad PHP](https://nomadphp.com/product/introduction-event-sourcing-cqrs/) - Introduction to Event Sourcing and CQRS.
-*   [Event Sourcery](https://eventsourcery.com/) - Introduction to DDD, CQRS, and Event Sourcing.
 *   [Pluralsight](https://pluralsight.com)
     *   [Domain-Driven Design Fundamentals](https://www.pluralsight.com/courses/domain-driven-design-fundamentals) - Teaches the fundamentals of Domain-Driven Design (DDD) through a demonstration of customer interactions and a complex demo application, along with advice from Eric Evans.
     *   [Domain-Driven Design in Practice](https://www.pluralsight.com/courses/domain-driven-design-in-practice) - A descriptive, in-depth walk-through for applying Domain-Driven Design principles in practice.
@@ -104,19 +103,19 @@
 ### Sample Projects / .NET (C#/F#)
 
 *   [Example of Domain-Driven Design in F#](https://gist.github.com/swlaschin/2ad8627d0400b2ab70e9f3da08902c9d) - Example of Domain Driven Design for the game of checkers. There are two files: a scratch file with a series of designs, and a final version.
-*   [Microsoft Patterns and Practices: CQRS Journey Sample Code (⭐1.3k)](https://github.com/mspnp/cqrs-journey) - Sample code from CQRS Journey.
-*   [Simple CQRS in F# (⭐70)](https://github.com/thinkbeforecoding/m-r) - Greg Young's SimpleCQRS in F#.
+*   [Microsoft Patterns and Practices: CQRS Journey Sample Code (⭐1.4k)](https://github.com/mspnp/cqrs-journey) - Sample code from CQRS Journey.
+*   [Simple CQRS in F# (⭐73)](https://github.com/thinkbeforecoding/m-r) - Greg Young's SimpleCQRS in F#.
 
 ### Sample Projects / JVM languages
 
-*   [Akka CQRS ES Demo (⭐59)](https://github.com/mdonkers/akka-cqrs-es-demo) - Demo project to implement the CQRS and Event Sourcing patterns in Scala-Akka.
-*   [DDD Leaven (⭐776)](https://github.com/BottegaIT/ddd-leaven-v2) - DDD-CQRS sample v2.0 project that helps you with starting out advanced domain modeling using Spring, JPA and testing.
+*   [Akka CQRS ES Demo (⭐58)](https://github.com/mdonkers/akka-cqrs-es-demo) - Demo project to implement the CQRS and Event Sourcing patterns in Scala-Akka.
+*   [DDD Leaven (⭐815)](https://github.com/BottegaIT/ddd-leaven-v2) - DDD-CQRS sample v2.0 project that helps you with starting out advanced domain modeling using Spring, JPA and testing.
 
 ### Libraries and Frameworks / .NET
 
-*   [MessageRouter (⭐45)](https://github.com/QuickenLoans/MessageRouter) - Described in this video: [The Beating Heart of CQRS, or Actor-Based Message Routing on the CLR](https://vimeo.com/171178586) by Paulmichael Blasucci at the New York F# .NET User Group.
-*   [Projac (⭐135)](https://github.com/yreynhout/Projac) - Projac is a set of projection libraries that allow you to write projections targetting various backing stores.
-*   [Streamstone (⭐352)](https://github.com/yevhen/Streamstone) - Event Store for Azure Table Storage.
+*   [MessageRouter](https://github.com/QuickenLoans/MessageRouter) - Described in this video: [The Beating Heart of CQRS, or Actor-Based Message Routing on the CLR](https://vimeo.com/171178586) by Paulmichael Blasucci at the New York F# .NET User Group.
+*   [Projac (⭐138)](https://github.com/yreynhout/Projac) - Projac is a set of projection libraries that allow you to write projections targetting various backing stores.
+*   [Streamstone (⭐386)](https://github.com/yevhen/Streamstone) - Event Store for Azure Table Storage.
 
 ### Podcasts and Interviews / Ruby
 

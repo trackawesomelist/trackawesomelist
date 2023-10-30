@@ -10,7 +10,7 @@
 
 ### PDF
 
-*   [CombinePDF (⭐665)](https://github.com/boazsegev/combine_pdf) - A Pure ruby library to merge or stump PDF files, number pages and more.
+*   [CombinePDF (⭐692)](https://github.com/boazsegev/combine_pdf) - A Pure ruby library to merge or stump PDF files, number pages and more.
 
 ## [2. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/README.md)
 
@@ -49,7 +49,7 @@
 
 ### JSON
 
-*   [JSONNeverDie (⭐456)](https://github.com/johnlui/JSONNeverDie) - Auto reflection tool from JSON to Model, user friendly JSON encoder / decoder, aims to never die.
+*   [JSONNeverDie (⭐454)](https://github.com/johnlui/JSONNeverDie) - Auto reflection tool from JSON to Model, user friendly JSON encoder / decoder, aims to never die.
 
 ## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -61,11 +61,11 @@
 
 ### Audio
 
-*   [Alda (⭐5.3k)](https://github.com/alda-lang/alda)
+*   [Alda (⭐5.4k)](https://github.com/alda-lang/alda)
 
 ## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
-### Podcasts / Other
+### Misc / Other
 
 *   [Superhero.js](http://superherojs.com) - A collection of resources about creating, testing and maintaining a large JavaScript code base.
 
@@ -97,21 +97,21 @@
 
 ### Packages / Mad science
 
-*   [turf (⭐8k)](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
+*   [turf (⭐8.4k)](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
 
 ### Packages / Filesystem
 
-*   [find-up (⭐530)](https://github.com/sindresorhus/find-up) - Find a file by walking up parent directories.
-*   [load-json-file (⭐229)](https://github.com/sindresorhus/load-json-file) - Read and parse a JSON file.
-*   [write-json-file (⭐207)](https://github.com/sindresorhus/write-json-file) - Stringify and write JSON to a file atomically.
+*   [find-up (⭐552)](https://github.com/sindresorhus/find-up) - Find a file by walking up parent directories.
+*   [load-json-file (⭐234)](https://github.com/sindresorhus/load-json-file) - Read and parse a JSON file.
+*   [write-json-file (⭐208)](https://github.com/sindresorhus/write-json-file) - Stringify and write JSON to a file atomically.
 
 ### Packages / Streams
 
-*   [get-stream (⭐302)](https://github.com/sindresorhus/get-stream) - Get a stream as a string or buffer.
+*   [get-stream (⭐324)](https://github.com/sindresorhus/get-stream) - Get a stream as a string or buffer.
 
 ### Packages / Parsing
 
-*   [parse-json (⭐304)](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
+*   [parse-json (⭐323)](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
 
 ### Packages / Testing
 
@@ -119,7 +119,7 @@
 
 ### Packages / Process management
 
-*   [PM2 (⭐39k)](https://github.com/Unitech/pm2) - Advanced Process Manager.
+*   [PM2 (⭐40k)](https://github.com/Unitech/pm2) - Advanced Process Manager.
 
 ### Packages / Miscellaneous
 

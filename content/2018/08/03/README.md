@@ -17,13 +17,19 @@
 
 *   [Forget](https://forget.codl.fr/about/) - Delete toots after a user defined period of time (Python [source code (⭐147)](https://github.com/codl/forget/)).
 
-## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [2. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+
+### Tools
+
+*   [gatsby-plugin-ipfs (⭐114)](https://github.com/moxystudio/gatsby-plugin-ipfs) - Adds support for deploying Gatsby websites to IPFS by ensuring that assets are relative.
+
+## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Video / Barcode
 
-*   [Cabbage (⭐1.4k)](https://github.com/VideoFlint/Cabbage) - A video composition framework build on top of AVFoundation.
+*   [Cabbage (⭐1.5k)](https://github.com/VideoFlint/Cabbage) - A video composition framework build on top of AVFoundation.
 
-## [3. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [4. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Resources / Custom Dialog
 
@@ -33,13 +39,13 @@
 
 *   [Android Store](https://mindorks.com/android/store) - Search Android Libraries, Projects, and Tools.
 
-## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Concurrency
 
-*   [transwarp (⭐602)](https://github.com/bloomen/transwarp) - A header-only C++ library for task concurrency. \[MIT]
+*   [transwarp (⭐606)](https://github.com/bloomen/transwarp) - A header-only C++ library for task concurrency. \[MIT]
 
-## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [6. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Jump-Start Articles
 
@@ -81,7 +87,7 @@
 
 *   [Extracting Metadata from a Custom API with Ember Data](https://thejsguy.com/2018/04/06/extracting-metadata-from-a-custom-api-with-ember-data.html)
 
-## [6. Awesome Qa](/content/seriousran/awesome-qa/README.md)
+## [7. Awesome Qa](/content/seriousran/awesome-qa/README.md)
 
 ### Most QA systems have roughly 3 parts / Subtypes of QA
 
@@ -90,29 +96,18 @@
         1.  [Named-Entity Recognition(NER)](https://github.com/seriousran/awesome-qa/blob/master/README.md/mds/named-entity-recognition.md)
     2.  [Relation Extraction](https://github.com/seriousran/awesome-qa/blob/master/README.md/mds/relation-extraction.md) <br/>
 
-## [7. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)
+## [8. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)
 
 ### Traffic Analysis/Inspection
 
 *   [Joy (⭐1.2k)](https://github.com/cisco/joy): joy is a traffic analysis and parsing tool that was developed. In part to assist in classifying encrypted traffic streams, such as HTTPS traffic. It is able to parse pcap files into usable json files that contain details on the capture statistics and features.
 
-## [8. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
+## [9. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
 ### Softwares / Launchers
 
-*   [MultiMC (⭐3.8k)](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
-*   [HMCL (⭐4.8k)](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features.
-
-## [9. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
-
-### Apps
-
-*   [enzypt.io](https://enzypt.io/) - A website to buy and sell files through Ethereum and IPFS. [Source (⭐34)](https://github.com/flex-dapps/enzypt)
-*   [IPFS ID and Public Key QR Codes Demo](https://ipfs.io/ipfs/zdj7Whr8X3zah99TSuyPjENaERcBW9C7B36EaCb1DEZ5pbbL9/) - A demo app that uses windows.ipfs to show you a QR Code of your IPNS Link and of your Public Key. [Source (⭐23)](https://github.com/ipfs-shipyard/demo-ipfs-id-qr-codes)
-
-### Tools
-
-*   [gatsby-plugin-ipfs (⭐110)](https://github.com/moxystudio/gatsby-plugin-ipfs) - Adds support for deploying Gatsby websites to IPFS by ensuring that assets are relative.
+*   [MultiMC (⭐4k)](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
+*   [HMCL (⭐5.6k)](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features.
 
 ## [10. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 

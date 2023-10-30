@@ -10,7 +10,7 @@
 
 ### RPC
 
-*   [BloomRPC (⭐8.9k)](https://github.com/bloomrpc/bloomrpc) - BloomRPC aims to provide the simplest and most efficient developer experience for exploring and querying your GRPC services.
+*   [BloomRPC (⭐9k)](https://github.com/bloomrpc/bloomrpc) - BloomRPC aims to provide the simplest and most efficient developer experience for exploring and querying your GRPC services.
 
 ## [2. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
@@ -28,13 +28,13 @@
 
 ### Miscellaneous
 
-*   [Emoji picker (⭐14)](https://github.com/devnoname120/alfred-emoji-picker) - Fast emoji input.
+*   [Emoji picker (⭐15)](https://github.com/devnoname120/alfred-emoji-picker) - Fast emoji input.
 
 ## [5. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ### Development / Engines
 
-*   [Ethereal Engine (⭐581)](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
+*   [Ethereal Engine (⭐642)](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -53,11 +53,11 @@
 
 ### Contents / Health and Fitness
 
-*   [WorkoutTracker (⭐65)](https://github.com/jerichoi224/WorkoutTracker) - A Flutter app to help you keep track of workout sessions by [Daniel Choi](https://github.com/jerichoi224).
+*   [WorkoutTracker (⭐72)](https://github.com/jerichoi224/WorkoutTracker) - A Flutter app to help you keep track of workout sessions by [Daniel Choi](https://github.com/jerichoi224).
 
 ### Contents / Media
 
-*   [MovieLab (⭐270)](https://github.com/ErfanRht/MovieLab) - A useful and modern movie database app by [Erfan Rahmati](https://github.com/ErfanRht).
+*   [MovieLab (⭐329)](https://github.com/ErfanRht/MovieLab) - A useful and modern movie database app by [Erfan Rahmati](https://github.com/ErfanRht).
 
 ## [9. Awesome Esp](/content/agucova/awesome-esp/README.md)
 

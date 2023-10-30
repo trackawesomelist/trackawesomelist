@@ -10,13 +10,13 @@
 
 ### Date
 
-*   [DateHelper (⭐1.4k)](https://github.com/melvitax/DateHelper) - Simple date helper.
+*   [DateHelper (⭐1.5k)](https://github.com/melvitax/DateHelper) - Simple date helper.
 
 ## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Testing
 
-*   [exkorpion (⭐29)](https://github.com/wesovilabs/exkorpion) - A BDD library for Elixir developers.
+*   [exkorpion (⭐30)](https://github.com/wesovilabs/exkorpion) - A BDD library for Elixir developers.
 
 ## [3. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 

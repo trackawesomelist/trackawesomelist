@@ -23,19 +23,19 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [ByteHub (⭐51)](https://github.com/bytehub-ai/bytehub) - An easy-to-use, Python-based feature store. Optimized for time-series data.
+*   [ByteHub (⭐56)](https://github.com/bytehub-ai/bytehub) - An easy-to-use, Python-based feature store. Optimized for time-series data.
 
 ## [4. Awesome Flask](/content/mjhea0/awesome-flask/README.md)
 
 ### Utils / Testing
 
-*   [Flask-Shell2HTTP (⭐125)](https://github.com/Eshaan7/Flask-Shell2HTTP) - RESTful/HTTP wrapper for Python's subprocess API, so you can convert any command-line tool into a RESTful API service.
+*   [Flask-Shell2HTTP (⭐143)](https://github.com/Eshaan7/Flask-Shell2HTTP) - RESTful/HTTP wrapper for Python's subprocess API, so you can convert any command-line tool into a RESTful API service.
 
 ## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-ts-nameof (⭐14)](https://github.com/Shinigami92/vite-plugin-ts-nameof) - Ability to resolve [nameof (⭐468)](https://github.com/dsherret/ts-nameof) in TypeScript.
+*   [vite-plugin-ts-nameof (⭐17)](https://github.com/Shinigami92/vite-plugin-ts-nameof) - Ability to resolve [nameof (⭐479)](https://github.com/dsherret/ts-nameof) in TypeScript.
 
 ## [6. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
@@ -59,17 +59,17 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Oblecto (⭐137)](https://github.com/robinp7720/Oblecto) `⚠` - Media server for Movies and TV Shows with a responsive Vue.js frontend. It has robust transcoding support as well as federation capabilities to share your library with your friends. `AGPL-3.0` `Nodejs`
+*   [Oblecto (⭐150)](https://github.com/robinp7720/Oblecto) `⚠` - Media server for Movies and TV Shows with a responsive Vue.js frontend. It has robust transcoding support as well as federation capabilities to share your library with your friends. `AGPL-3.0` `Nodejs`
 
 ### Software / Miscellaneous
 
-*   [changedetection.io (⭐8.9k)](https://github.com/dgtlmoon/changedetection.io) - Self-hosted tool for staying up-to-date with web-site content changes. `Apache-2.0` `Python/Docker`
+*   [changedetection.io (⭐13k)](https://github.com/dgtlmoon/changedetection.io) - Self-hosted tool for staying up-to-date with web-site content changes. `Apache-2.0` `Python/Docker`
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Messaging and Streaming
 
-*   [connectycube.com](https://connectycube.com) - Unlimited chat messages, p2p voice & video calls, files attachments and push notifications. Free for apps up to 20K MAU.
+*   [connectycube.com](https://connectycube.com) - Unlimited chat messages, p2p voice & video calls, files attachments and push notifications. Free for apps up to 1000 users.
 
 ## [9. Awesome K6](/content/grafana/awesome-k6/README.md)
 
@@ -81,8 +81,8 @@
 
 ### Yaml
 
-*   [mini-yaml (⭐176)](https://github.com/jimmiebergmann/mini-yaml) - Single header YAML 1.0 C++11 serializer/deserializer. \[MIT]
-*   [yaml-cpp (⭐4.1k)](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++. \[MIT]
+*   [mini-yaml (⭐193)](https://github.com/jimmiebergmann/mini-yaml) - Single header YAML 1.0 C++11 serializer/deserializer. \[MIT]
+*   [yaml-cpp (⭐4.4k)](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++. \[MIT]
 
 ## [11. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Plugins / Misc
 
-*   [Diff (⭐106)](https://github.com/paleite/eslint-plugin-diff) - Run ESLint on your changed lines only. Also supports CI!
+*   [Diff (⭐122)](https://github.com/paleite/eslint-plugin-diff) - Run ESLint on your changed lines only. Also supports CI!
 
 ---
 

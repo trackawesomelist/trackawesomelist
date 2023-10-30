@@ -20,7 +20,7 @@
 
 ### Software Tools / Support Tools
 
-*   [JTAGenum (⭐591)](https://github.com/cyphunk/JTAGenum) - Add JTAG capabilities to an Arduino.
+*   [JTAGenum (⭐625)](https://github.com/cyphunk/JTAGenum) - Add JTAG capabilities to an Arduino.
 *   [OpenOCD](http://openocd.org/) - Free and Open On-Chip Debugging, In-System Programming and Boundary-Scan Testing.
 
 ### Hardware Tools / Misc Tools
@@ -31,21 +31,21 @@
 
 ### Free Training / RFID NFC Tools
 
-*   [Hardware Hacking 101 (⭐36)](https://github.com/rdomanski/hardware_hacking/tree/master/my_talks/Hardware_Hacking_101) - Workshop @ BSides Munich 2019.
-*   [IoTGoat (⭐173)](https://github.com/scriptingxss/IoTGoat) - IoTGoat is a deliberately insecure firmware based on OpenWrt.
-*   [Rhme-2015 (⭐103)](https://github.com/Riscure/RHme-2015) - First riscure Hack me hardware CTF challenge.
+*   [Hardware Hacking 101 (⭐37)](https://github.com/rdomanski/hardware_hacking/tree/master/my_talks/Hardware_Hacking_101) - Workshop @ BSides Munich 2019.
+*   [IoTGoat (⭐177)](https://github.com/scriptingxss/IoTGoat) - IoTGoat is a deliberately insecure firmware based on OpenWrt.
+*   [Rhme-2015 (⭐105)](https://github.com/Riscure/RHme-2015) - First riscure Hack me hardware CTF challenge.
 
 ## [3. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
 ### Tools
 
-*   [IconFont2Code ★52 (⭐253)](https://github.com/andreinitescu/IconFont2Code) - Generates a C# class with the glyph Unicode values in your font file (.ttf/.otf).
+*   [IconFont2Code ★52 (⭐261)](https://github.com/andreinitescu/IconFont2Code) - Generates a C# class with the glyph Unicode values in your font file (.ttf/.otf).
 
 ## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### IntelliJ / Android Studio / Game Engine resources
 
-*   [Enhancement\_Suite (⭐241)](https://github.com/marius-h/flutter_enhancement_suite) <!--stargazers:marius-h/flutter_enhancement_suite--> - Search for pub.dev libraries, update version, Bloc, Snippet, etc you're covered by [Marius Höfler](https://github.com/marius-h)
+*   [Enhancement\_Suite (⭐252)](https://github.com/marius-h/flutter_enhancement_suite) <!--stargazers:marius-h/flutter_enhancement_suite--> - Search for pub.dev libraries, update version, Bloc, Snippet, etc you're covered by [Marius Höfler](https://github.com/marius-h)
 
 ### 🇷🇺 Russia / Misc
 
@@ -65,17 +65,17 @@
 
 ### Icons
 
-*   [iconify-react (⭐186)](https://github.com/iconify/iconify-react) - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets.
+*   [iconify-react (⭐194)](https://github.com/iconify/iconify-react) - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets.
 
 ### Form Components / Star Rating
 
-*   [react-awesome-stars-rating (⭐22)](https://github.com/fedoryakubovich/react-awesome-stars-rating) - [demo](https://react-awesome-stars-rating.herokuapp.com/) - The star rating component with accessibility.
+*   [react-awesome-stars-rating (⭐26)](https://github.com/fedoryakubovich/react-awesome-stars-rating) - [demo](https://react-awesome-stars-rating.herokuapp.com/) - The star rating component with accessibility.
 
 ## [6. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Sample Projects / JVM languages
 
-*   [DDD Workshop - Project Manager (⭐54)](https://github.com/mkopylec/project-manager) - "Do It Yourself" DDD workshop and a sample DDD application at the same time. Based on a project managing domain.
+*   [DDD Workshop - Project Manager (⭐60)](https://github.com/mkopylec/project-manager) - "Do It Yourself" DDD workshop and a sample DDD application at the same time. Based on a project managing domain.
 
 ## [7. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 

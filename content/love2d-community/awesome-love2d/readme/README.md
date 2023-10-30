@@ -67,7 +67,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 *   [Jumper (⭐591)](https://github.com/Yonaba/Jumper) - Grid-based pathfinding library.
 *   [Lua-star (⭐49)](https://github.com/wesleywerner/lua-star) - Easy and pure Lua A\* path finding.
-*   [astar (⭐11)](https://github.com/xiejiangzhi/astar) - An other A\* library. Any map(gird, point, mesh or infinite map) and support path cost.
+*   [astar (⭐11)](https://github.com/xiejiangzhi/astar) - An other A\* library. Any map (grid, point, mesh or infinite map) and support path cost.
 *   [pathfun (⭐14)](https://github.com/apicici/pathfun) - Pure Lua library for 2D pathfinding using the funnel algorithm.
 *   [beehive.lua (⭐12)](https://github.com/drhayes/beehive.lua) - A functional behavior tree implementation.
 *   [Luafinding (⭐18)](https://github.com/GlorifiedPig/Luafinding) - Class-based A\* implementation written purely in Lua.

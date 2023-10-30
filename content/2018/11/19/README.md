@@ -22,7 +22,7 @@
 
 ### Tools / Graphics utilities
 
-*   [tpp1 (⭐17)](https://github.com/TwitchPlaysPokemon/tpp1) - Definition and specification of a custom GB/GBC memory/hardware mapper, as a functional superset of MBC.
+*   [tpp1 (⭐20)](https://github.com/TwitchPlaysPokemon/tpp1) - Definition and specification of a custom GB/GBC memory/hardware mapper, as a functional superset of MBC.
 
 ## [4. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Database
 
-*   [sqlpp11 (⭐2.2k)](https://github.com/rbock/sqlpp11) - A type safe embedded domain specific language for SQL queries and results in C++. \[BSD-2-Clause]
+*   [sqlpp11 (⭐2.3k)](https://github.com/rbock/sqlpp11) - A type safe embedded domain specific language for SQL queries and results in C++. \[BSD-2-Clause]
 
 ---
 

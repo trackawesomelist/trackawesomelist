@@ -28,7 +28,7 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [copyparty (⭐180)](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, deduplication, WebDAV, FTP, zeroconf, media indexer, video thumbnails, audio transcoding, and write-only folders, in a single file with no mandatory dependencies. ([Demo](https://a.ocv.me/pub/demo/)) `MIT` `Python`
+*   [copyparty (⭐303)](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, deduplication, WebDAV, FTP, zeroconf, media indexer, video thumbnails, audio transcoding, and write-only folders, in a single file with no mandatory dependencies. ([Demo](https://a.ocv.me/pub/demo/)) `MIT` `Python`
 
 ## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -38,7 +38,7 @@
 
 ## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [hogbal (⭐0)](https://github.com/hogbal/hogbal.zsh-theme) - Works best with a dark background and a 256 color terminal program. Includes decorators for `virtualenv`, `git` information, `username@hostname` and current directory.
 
@@ -46,11 +46,11 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [coffeelint](https://coffeelint.github.io/) — A style checker that helps keep CoffeeScript code clean and consistent.
+*   [coffeelint](https://coffeelint.github.io/) :warning: — A style checker that helps keep CoffeeScript code clean and consistent.
 
 ### Multiple languages / [Other](#other-1)
 
-*   [ShiftLeft Scan (⭐658)](https://github.com/ShiftLeftSecurity/sast-scan) — Scan is a free open-source DevSecOps platform for detecting security issues in source code and dependencies. It supports a broad range of languages and CI/CD pipelines.
+*   [ShiftLeft Scan (⭐725)](https://github.com/ShiftLeftSecurity/sast-scan) — Scan is a free open-source DevSecOps platform for detecting security issues in source code and dependencies. It supports a broad range of languages and CI/CD pipelines.
 
 ---
 

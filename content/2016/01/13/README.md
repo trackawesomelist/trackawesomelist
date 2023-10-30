@@ -20,7 +20,7 @@
 
 ### Packages / Command-line apps
 
-*   [diff2html-cli (⭐432)](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
+*   [diff2html-cli (⭐456)](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
 
 ## [3. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 
@@ -32,14 +32,13 @@
 
 ### Articles
 
-*   [Small focused modules (⭐124)](https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328)
+*   [Small focused modules (⭐128)](https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328)
 *   [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/) *(Must read!)*
 *   [Semver: Tilde and Caret](https://nodesource.com/blog/semver-tilde-and-caret/)
 *   [Offline installation of npm packages](https://addyosmani.com/blog/using-npm-offline/)
 
 ### Web
 
-*   [node-modules](http://node-modules.com) - Personalized package search based on your GitHub social graph.
 *   [NodeICO](https://nodei.co/) - Package badges.
 *   [Libraries.io](https://libraries.io/npm) - Package discovery.
 *   [npm-stat](http://npm-stat.com) - Statistics charts for packages.
@@ -56,35 +55,35 @@
 
 ### Publishing
 
-*   [np (⭐6.8k)](https://github.com/sindresorhus/np) - A better `npm publish`.
-*   [publish-please (⭐744)](https://github.com/inikulin/publish-please) - Publish packages safely and gracefully.
+*   [np (⭐7.2k)](https://github.com/sindresorhus/np) - A better `npm publish`.
+*   [publish-please (⭐741)](https://github.com/inikulin/publish-please) - Publish packages safely and gracefully.
 *   [npm-release (⭐102)](https://github.com/phuu/npm-release) - Making releasing to npm so easy a kitten could probably do it™.
 *   [pkgfiles (⭐83)](https://github.com/timoxley/pkgfiles) - List all files which would be published in a package.
-*   [semantic-release (⭐17k)](https://github.com/semantic-release/semantic-release) - Fully automated package publishing.
+*   [semantic-release (⭐18k)](https://github.com/semantic-release/semantic-release) - Fully automated package publishing.
 
 ### Registry
 
-*   [npm-name (⭐270)](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
-*   [package-json (⭐208)](https://github.com/sindresorhus/package-json) - Get the package.json of a package from the npm registry.
-*   [npm-keyword (⭐47)](https://github.com/sindresorhus/npm-keyword) - Get a list of npm packages with a certain keyword.
-*   [dpn (⭐25)](https://github.com/gillstrom/dpn) - Get the dependents of a user's npm packages.
+*   [npm-name (⭐271)](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
+*   [package-json (⭐215)](https://github.com/sindresorhus/package-json) - Get the package.json of a package from the npm registry.
+*   [npm-keyword (⭐49)](https://github.com/sindresorhus/npm-keyword) - Get a list of npm packages with a certain keyword.
+*   [dpn (⭐26)](https://github.com/gillstrom/dpn) - Get the dependents of a user's npm packages.
 
 ### Other
 
-*   [npm-home (⭐179)](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
-*   [gh-home (⭐182)](https://github.com/sindresorhus/gh-home) - Open the GitHub page of a package.
-*   [david (⭐957)](https://github.com/alanshaw/david) - Check if your package dependencies are out of date.
-*   [npm-check (⭐6.3k)](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update.
-*   [npm-shrinkwrap (⭐779)](https://github.com/uber/npm-shrinkwrap) - A consistent shrinkwrap tool.
+*   [npm-home (⭐183)](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
+*   [gh-home (⭐187)](https://github.com/sindresorhus/gh-home) - Open the GitHub page of a package.
+*   [david (⭐960)](https://github.com/alanshaw/david) - Check if your package dependencies are out of date.
+*   [npm-check (⭐6.4k)](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update.
+*   [npm-shrinkwrap (⭐776)](https://github.com/uber/npm-shrinkwrap) - A consistent shrinkwrap tool.
 *   [npm-windows-upgrade (⭐2.5k)](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows.
-*   [pkg-up (⭐134)](https://github.com/sindresorhus/pkg-up) - Find the closest package.json file.
-*   [read-pkg-up (⭐226)](https://github.com/sindresorhus/read-pkg-up) - Read the closest package.json file.
-*   [normalize-package-data (⭐166)](https://github.com/npm/normalize-package-data) - Normalize package metadata.
-*   [pkg-conf (⭐115)](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
-*   [npm-run-path (⭐92)](https://github.com/sindresorhus/npm-run-path) - Run locally installed binaries in the terminal by name like with global ones.
+*   [pkg-up (⭐147)](https://github.com/sindresorhus/pkg-up) - Find the closest package.json file.
+*   [read-pkg-up (⭐236)](https://github.com/sindresorhus/read-pkg-up) - Read the closest package.json file.
+*   [normalize-package-data (⭐177)](https://github.com/npm/normalize-package-data) - Normalize package metadata.
+*   [pkg-conf (⭐114)](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
+*   [npm-run-path (⭐94)](https://github.com/sindresorhus/npm-run-path) - Run locally installed binaries in the terminal by name like with global ones.
 *   [local-npm (⭐1.1k)](https://github.com/nolanlawson/local-npm) - Use npm [offline](https://addyosmani.com/blog/using-npm-offline/).
-*   [npe (⭐86)](https://github.com/zeke/npe) - CLI for inspecting and editing properties in package.json.
-*   [engine-deps (⭐21)](https://github.com/samccone/engine-deps) - Manage Node.js version specific dependencies with ease.
+*   [npe (⭐92)](https://github.com/zeke/npe) - CLI for inspecting and editing properties in package.json.
+*   [engine-deps (⭐20)](https://github.com/samccone/engine-deps) - Manage Node.js version specific dependencies with ease.
 
 ### Command aliases
 
@@ -93,7 +92,7 @@
 *   `npm it` → `npm install && npm test`
 *   `npm r` → `npm uninstall`
 
-### FAQ / `pre`   and   `post`   scripts
+### FAQ / `pre` and `post` scripts
 
 *   [Check in node\_modules vs. shrinkwrap](http://stackoverflow.com/questions/11459733/check-in-node-modules-vs-shrinkwrap)
 *   [What is the difference between Bower and npm?](http://stackoverflow.com/questions/18641899/what-is-the-difference-between-bower-and-npm)
@@ -101,13 +100,13 @@
 *   [Find the version of an installed npm package](http://stackoverflow.com/questions/10972176/find-the-version-of-an-installed-npm-package)
 *   [What's the difference between dependencies, devDependencies, and peerDependencies in package.json?](http://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies)
 
-### Community / `pre`   and   `post`   scripts
+### Community / `pre` and `post` scripts
 
 *   [`#npm` on Freenode](http://webchat.freenode.net/?channels=npm)
 *   [Reddit](https://www.reddit.com/r/npm)
 *   [Twitter](https://twitter.com/npmjs)
 
-### Documentation / `pre`   and   `post`   scripts
+### Documentation / `pre` and `post` scripts
 
 *   [Official](https://docs.npmjs.com)
 *   [Troubleshooting (⭐17k)](https://github.com/npm/npm/wiki/Troubleshooting)
@@ -117,7 +116,7 @@
 *   [npm run script](https://docs.npmjs.com/cli/run-script)
 *   [Stats API (⭐328)](https://github.com/npm/download-counts)
 
-### Support / `pre`   and   `post`   scripts
+### Support / `pre` and `post` scripts
 
 *   [Twitter](https://twitter.com/npm_support)
 *   [Contact form](https://www.npmjs.com/support)
@@ -153,7 +152,7 @@
 
 ### Distributed Computing
 
-*   [Orleans (⭐9.3k)](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns. It was created by Microsoft Research.
+*   [Orleans (⭐9.5k)](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns. It was created by Microsoft Research.
 
 ## [10. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
@@ -292,7 +291,7 @@ Webpage: <http://dolcecasacafe.com/>
 | ---- | ----- | ----------------------------------------------------------------------- | -------------------------------------- |
 | ✔    | ✔     | [4947 N Damen Ave, Chicago, IL 60625](https://goo.gl/maps/eNmG3ETExt92) | Mon-Fri 7:00-16:00, Sat-Sun 8:00-15:00 |
 
-### United States 🇺🇸 / Maryland   <a id="maryland">  </a>
+### United States 🇺🇸 / Maryland <a id="maryland"></a>
 
 #### The Perfect Cup
 

@@ -28,7 +28,7 @@
 
 ### Contents / Components
 
-*   [Preact Head (⭐37)](https://github.com/matthewmueller/preact-head) - Standalone, declarative \<Head /> for Preact.
+*   [Preact Head (⭐36)](https://github.com/matthewmueller/preact-head) - Standalone, declarative \<Head /> for Preact.
 
 ## [5. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 
@@ -88,7 +88,7 @@
 ### Graph Data Model
 
 *   [GCHQ Gaffer (⭐1.7k)](https://github.com/gchq/Gaffer) - Gaffer by GCHQ is a framework that makes it easy to store large-scale graphs in which the nodes and edges have statistics.
-*   [Google Cayley (⭐14k)](https://github.com/cayleygraph/cayley) - open-source graph database.
+*   [Google Cayley (⭐15k)](https://github.com/cayleygraph/cayley) - open-source graph database.
 *   [Twitter FlockDB (⭐3.3k)](https://github.com/twitter-archive/flockdb) - distributed graph database.
 
 ### Columnar Databases
@@ -146,7 +146,7 @@
 ### Applications
 
 *   [Apache Metron](http://metron.apache.org/) - a platform that integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
-*   [Argus (⭐492)](https://github.com/salesforce/Argus) - Time series monitoring and alerting platform.
+*   [Argus (⭐497)](https://github.com/salesforce/Argus) - Time series monitoring and alerting platform.
 *   [Hunk](https://www.splunk.com/en_us/download/hunk.html) - Splunk analytics for Hadoop.
 *   [MADlib](http://madlib.incubator.apache.org/community/) - data-processing library of an RDBMS to analyze data.
 *   [Splunk](https://www.splunk.com/) - analyzer for machine-generated data.
@@ -195,8 +195,8 @@
 *   [Graphite](http://graphiteapp.org/) - scalable Realtime Graphing.
 *   [Highcharts](https://www.highcharts.com/) - simple and flexible charting API.
 *   [Metricsgraphic.js](https://metricsgraphicsjs.org/) - a library built on top of D3 that is optimized for time-series data
-*   [Superset (⭐49k)](https://github.com/apache/incubator-superset) - a data exploration platform designed to be visual, intuitive and interactive, making it easy to slice, dice and visualize data and perform analytics at the speed of thought.
-*   [Zeppelin (⭐417)](https://github.com/ZEPL/zeppelin) - a notebook-style collaborative data analysis.
+*   [Superset (⭐52k)](https://github.com/apache/incubator-superset) - a data exploration platform designed to be visual, intuitive and interactive, making it easy to slice, dice and visualize data and perform analytics at the speed of thought.
+*   [Zeppelin (⭐413)](https://github.com/ZEPL/zeppelin) - a notebook-style collaborative data analysis.
 *   [Zing Charts](https://www.zingchart.com/) - JavaScript charting library for big data.
 
 ### Internet of things and sensor data
@@ -259,11 +259,11 @@
 
 ### ZIP
 
-*   [Zip Foundation (⭐2k)](https://github.com/weichsel/ZIPFoundation) - A library to create, read and modify ZIP archive files.
+*   [Zip Foundation (⭐2.1k)](https://github.com/weichsel/ZIPFoundation) - A library to create, read and modify ZIP archive files.
 
 ### Bluetooth
 
-*   [Bluejay (⭐1k)](https://github.com/steamclock/bluejay) - A simple framework for building reliable Bluetooth LE apps.
+*   [Bluejay (⭐1.1k)](https://github.com/steamclock/bluejay) - A simple framework for building reliable Bluetooth LE apps.
 
 ### Maps / Barcode
 
@@ -273,7 +273,7 @@
 
 ### CLI
 
-*   [ReadLine (⭐790)](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
+*   [ReadLine (⭐792)](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
 
 ### Decompilation
 
@@ -281,11 +281,11 @@
 
 ### Distributed Computing
 
-*   [Foundatio (⭐1.7k)](https://github.com/FoundatioFx/Foundatio#jobs) - Pluggable foundation blocks for building distributed apps.
+*   [Foundatio (⭐1.8k)](https://github.com/FoundatioFx/Foundatio#jobs) - Pluggable foundation blocks for building distributed apps.
 
 ### GUI
 
-*   [Modern UI for WPF - MUI (⭐2.5k)](https://github.com/firstfloorsoftware/mui) - Set of controls and styles to convert WPF applications into a great looking Modern UI apps.
+*   [Modern UI for WPF - MUI (⭐2.6k)](https://github.com/firstfloorsoftware/mui) - Set of controls and styles to convert WPF applications into a great looking Modern UI apps.
 
 ### MVVM
 
@@ -311,13 +311,13 @@
 
 ### Network Tools / Network Reconnaissance Tools
 
-*   [dnsenum (⭐466)](https://github.com/fwaeytens/dnsenum/) - Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.
-*   [dnsmap (⭐104)](https://github.com/makefu/dnsmap/) - Passive DNS network mapper.
-*   [dnsrecon (⭐2.1k)](https://github.com/darkoperator/dnsrecon/) - DNS enumeration script.
+*   [dnsenum (⭐522)](https://github.com/fwaeytens/dnsenum/) - Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.
+*   [dnsmap (⭐108)](https://github.com/makefu/dnsmap/) - Passive DNS network mapper.
+*   [dnsrecon (⭐2.3k)](https://github.com/darkoperator/dnsrecon/) - DNS enumeration script.
 *   [dnstracer](http://www.mavetju.org/unix/dnstracer.php) - Determines where a given DNS server gets its information from, and follows the chain of DNS servers.
-*   [passivedns-client (⭐190)](https://github.com/chrislee35/passivedns-client) - Library and query tool for querying several passive DNS providers.
+*   [passivedns-client (⭐194)](https://github.com/chrislee35/passivedns-client) - Library and query tool for querying several passive DNS providers.
 *   [passivedns (⭐1.6k)](https://github.com/gamelinux/passivedns) - Network sniffer that logs all DNS server replies for use in a passive DNS setup.
-*   [smbmap (⭐1.4k)](https://github.com/ShawnDEvans/smbmap) - Handy SMB enumeration tool.
+*   [smbmap (⭐1.6k)](https://github.com/ShawnDEvans/smbmap) - Handy SMB enumeration tool.
 
 ## [15. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
 

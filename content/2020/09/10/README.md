@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 10, 2020
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -23,7 +23,7 @@
 
 ### Projects / Libraries
 
-*   [TLC (⭐27)](https://github.com/charguer/tlc) - Non-constructive alternative to Coq's standard library.
+*   [TLC (⭐32)](https://github.com/charguer/tlc) - Non-constructive alternative to Coq's standard library.
 
 ### Projects / Tools
 
@@ -32,9 +32,9 @@
 ### Projects / Type Theory and Mathematics
 
 *   [Completeness and Decidability of Modal Logic Calculi (⭐8)](https://github.com/coq-community/comp-dec-modal) - Soundness, completeness, and decidability for the logics K, K\*, CTL, and PDL.
-*   [CoqPrime (⭐29)](https://github.com/thery/coqprime) - Library for certifying primality using Pocklington and Elliptic Curve certificates.
-*   [Finmap (⭐46)](https://github.com/math-comp/finmap) - Extension of Mathematical Components with finite maps, sets, and multisets.
-*   [Gaia (⭐21)](https://github.com/coq-community/gaia) - Implementation of books from Bourbaki's Elements of Mathematics, including set theory and number theory.
+*   [CoqPrime (⭐33)](https://github.com/thery/coqprime) - Library for certifying primality using Pocklington and Elliptic Curve certificates.
+*   [Finmap (⭐45)](https://github.com/math-comp/finmap) - Extension of Mathematical Components with finite maps, sets, and multisets.
+*   [Gaia (⭐23)](https://github.com/coq-community/gaia) - Implementation of books from Bourbaki's Elements of Mathematics, including set theory and number theory.
 
 ### Resources / Community
 
@@ -48,19 +48,13 @@
 
 *   [Foundations of Separation Logic](https://chargueraud.org/teach/verif/) - Introduction to using separation logic to reason about sequential imperative programs in Coq.
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### Web Hosting
-
-*   [Vercel](https://vercel.com/) — Build, deploy, and host web apps with free SSL, global CDN, and unique Preview URLs each time you `git push`. Perfect for Next.js and other Static Site Generators.
-
-## [5. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [4. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Tools
 
-*   [Atlas toolkit (⭐215)](https://github.com/epeios-q37/atlas-python) - Very lightweight and easy to install toolkit to write in Python single-page web applications to pilot your RPi, without having to install a web server.
+*   [Atlas toolkit (⭐230)](https://github.com/epeios-q37/atlas-python) - Very lightweight and easy to install toolkit to write in Python single-page web applications to pilot your RPi, without having to install a web server.
 
-## [6. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+## [5. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Private repositories / IRC
 
@@ -70,13 +64,13 @@
 
 *   [Cloudsmith](https://cloudsmith.com/) - A fully managed package management SaaS with PHP/Composer support (and many others).
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-ultimate-skeleton-cards (⭐88)](https://github.com/neelansh15/vue-ultimate-skeleton-cards) - The Ultimate, fully-customizable Skeleton Card plugin for Vue 🚀
+*   [vue-ultimate-skeleton-cards (⭐89)](https://github.com/neelansh15/vue-ultimate-skeleton-cards) - The Ultimate, fully-customizable Skeleton Card plugin for Vue 🚀
 
-## [8. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
+## [7. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
 
 ### Articles
 
@@ -91,17 +85,17 @@
 *   [Web Performance Warrior](https://www.oreilly.com/library/view/web-performance-warrior/9781492048114/)
 *   [Designing for Performance](http://designingforperformance.com/)
 
-## [9. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [8. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Apps
 
-*   [Q2RTX (⭐1.1k)](https://github.com/NVIDIA/Q2RTX) - NVIDIA’s implementation of RTX ray-tracing in Quake II. \[[LICENSE (⭐1.1k)](https://github.com/NVIDIA/Q2RTX/blob/master/license.txt)]
+*   [Q2RTX (⭐1.2k)](https://github.com/NVIDIA/Q2RTX) - NVIDIA’s implementation of RTX ray-tracing in Quake II. \[[LICENSE (⭐1.2k)](https://github.com/NVIDIA/Q2RTX/blob/master/license.txt)]
 
 ### Tools
 
-*   [MangoHud (⭐4.5k)](https://github.com/flightlessmango/MangoHud) - Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load. \[MIT]
+*   [MangoHud (⭐5k)](https://github.com/flightlessmango/MangoHud) - Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load. \[MIT]
 
-## [10. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [9. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Health and Fitness
 
@@ -109,9 +103,9 @@
 
 ### Contents / Personalization
 
-*   [Wallbay (⭐107)](https://github.com/tsvillain/Wallbay) - Wallpaper App developed in Flutter using Pexels API by [Tekeshwar Singh](https://github.com/tsvillain).
+*   [Wallbay (⭐110)](https://github.com/tsvillain/Wallbay) - Wallpaper App developed in Flutter using Pexels API by [Tekeshwar Singh](https://github.com/tsvillain).
 
-## [11. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
+## [10. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
 
 ### Miscellaneous
 

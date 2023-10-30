@@ -10,13 +10,13 @@
 
 ### Generate Table Schema / Treat CSV as SQL
 
-*   [PSKit Query (⭐34)](https://github.com/dfinke/PSKit#sql-query) — Powershell module lets you run simple queries over objects, including imported with csv
+*   [PSKit Query (⭐36)](https://github.com/dfinke/PSKit#sql-query) — Powershell module lets you run simple queries over objects, including imported with csv
 
 ## [2. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Web / Playground
 
-*   :octocat: [n8n.io (⭐30k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
+*   :octocat: [n8n.io (⭐34k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
 
 ## [3. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Tools
 
-*   [Tellit](https://gitlab.com/terceranexus6/tellit) - Encrypt files before uploading them using a keypair or a passphrase
+*   [Tellit](https://gitlab.com/terceranexus6/tellit) - Encrypt files before uploading them using a keypair or a passphrase.
 
 ## [8. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Image / Backend-Driven
 
-*   [Bitmap (⭐152)](https://github.com/renancaraujo/bitmap) <!--stargazers:renancaraujo/bitmap--> - Perform Bitmap manipulations (such as contrast and exposure) with a help from the Dart FFI by [Renan C. Araújo](https://github.com/renancaraujo)
+*   [Bitmap (⭐153)](https://github.com/renancaraujo/bitmap) <!--stargazers:renancaraujo/bitmap--> - Perform Bitmap manipulations (such as contrast and exposure) with a help from the Dart FFI by [Renan C. Araújo](https://github.com/renancaraujo)
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -75,15 +75,15 @@
 
 *   [Oracle Cloud](https://www.oracle.com/cloud/)
     *   Compute
-        *   2 AMD based Compute VMs with 1/8 OCPU and 1 GB memory eachs
+        *   2 AMD-based Compute VMs with 1/8 OCPU and 1 GB memory each
         *   4 Arm-based Ampere A1 cores and 24 GB of memory usable as one VM or up to 4 VMs
         *   Instances will be reclaimed when [deemed idle](https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm#compute__idleinstances)
     *   Block Volume - 2 volumes, 200 GB total (used for compute)
     *   Object Storage - 10 GB
     *   Load balancer - 1 instance with 10 Mbps
     *   Databases - 2 DBs, 20 GB each
-    *   Monitoring - 500 million ingestion datapoints, 1 billion retrieval datapoints
-    *   Bandwidth - 10 TB egress per month, speed limited to 50 Mbps on x64 based VM, 500 Mbps \* core count on ARM based VM
+    *   Monitoring - 500 million ingestion data points, 1 billion retrieval datapoints
+    *   Bandwidth - 10 TB egress per month, speed limited to 50 Mbps on x64-based VM, 500 Mbps \* core count on ARM-based VM
     *   Public IP - 2 IPv4 for VMs, 1 IPv4 for load balancer
     *   Notifications - 1 million delivery options per month, 1000 emails sent per month
     *   Full, detailed list - <https://www.oracle.com/cloud/free/>
@@ -108,15 +108,15 @@
 
 ### Date and Time
 
-*   [open\_hours (⭐41)](https://github.com/hopsor/open_hours) - Time calculations using business hours.
+*   [open\_hours (⭐43)](https://github.com/hopsor/open_hours) - Time calculations using business hours.
 
 ### Macros
 
-*   [crudry (⭐78)](https://github.com/gabrielpra1/crudry) - Crudry is an elixir library for DRYing CRUD of Phoenix Contexts and Absinthe Resolvers.
+*   [crudry (⭐85)](https://github.com/gabrielpra1/crudry) - Crudry is an elixir library for DRYing CRUD of Phoenix Contexts and Absinthe Resolvers.
 
 ### ORM and Datamapping
 
-*   [panoramix (⭐34)](https://github.com/gameanalytics/panoramix) - Apache Druid client for Elixir.
+*   [panoramix (⭐37)](https://github.com/gameanalytics/panoramix) - Apache Druid client for Elixir.
 
 ### Text and Numbers
 
@@ -130,7 +130,7 @@
 
 ### Form Logic / Mouse Events
 
-*   [formsy-react (⭐762)](https://github.com/formsy/formsy-react/) - A form input builder and validator for React JS.
+*   [formsy-react (⭐768)](https://github.com/formsy/formsy-react/) - A form input builder and validator for React JS.
 
 ## [15. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 

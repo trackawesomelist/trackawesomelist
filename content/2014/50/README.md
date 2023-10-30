@@ -10,7 +10,7 @@
 
 ### Packages / Image
 
-*   [pica (⭐3.3k)](https://github.com/nodeca/pica) - High quality & fast resize (lanczos3) in pure JS. Alternative to canvas drawImage(), when no pixelation allowed.
+*   [pica (⭐3.4k)](https://github.com/nodeca/pica) - High quality & fast resize (lanczos3) in pure JS. Alternative to canvas drawImage(), when no pixelation allowed.
 
 ## [2. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Editors / Runner
 
-*   [Squire (⭐4.5k)](https://github.com/neilj/Squire) - HTML5 rich text editor.
+*   [Squire (⭐4.6k)](https://github.com/neilj/Squire) - HTML5 rich text editor.
 
 ### Sliders / Runner
 
@@ -96,7 +96,7 @@
 
 ### Other Awesome Projects
 
-*   [awesome-algorithms (⭐14k)](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
+*   [awesome-algorithms (⭐15k)](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 
 ## [10. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
@@ -123,7 +123,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [deap (⭐5.1k)](https://github.com/deap/deap) - Evolutionary algorithm framework.
+*   [deap (⭐5.3k)](https://github.com/deap/deap) - Evolutionary algorithm framework.
 
 ## [13. Awesome R](/content/qinwf/awesome-R/week/README.md)
 

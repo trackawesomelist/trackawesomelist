@@ -28,11 +28,11 @@
 
 ### Algorithms and Data structures
 
-*   [qex (⭐27)](https://github.com/princemaple/elixir-queue) - Wraps `:queue`, with improved API and `Inspect`, `Collectable` and `Enumerable` protocol implementations.
+*   [qex (⭐28)](https://github.com/princemaple/elixir-queue) - Wraps `:queue`, with improved API and `Inspect`, `Collectable` and `Enumerable` protocol implementations.
 
 ### Date and Time
 
-*   [cronex (⭐46)](https://github.com/jbernardo95/cronex) - Cron like system you can mount in your supervision tree.
+*   [cronex (⭐47)](https://github.com/jbernardo95/cronex) - Cron like system you can mount in your supervision tree.
 
 ## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -50,7 +50,7 @@
 
 ### System
 
-*   [Keyboard Maestro (⭐384)](https://github.com/iansinnott/alfred-maestro) - Execute Keyboard Maestro macros from Alfred.
+*   [Keyboard Maestro (⭐386)](https://github.com/iansinnott/alfred-maestro) - Execute Keyboard Maestro macros from Alfred.
 
 ---
 

@@ -28,7 +28,7 @@
 
 ### Modules / CLI utils
 
-*   [cliffy (⭐685)](https://github.com/c4spar/deno-cliffy) - The complete solution for building interactive command-line tools.
+*   [cliffy (⭐758)](https://github.com/c4spar/deno-cliffy) - The complete solution for building interactive command-line tools.
 
 ## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [oh-vue-icons (⭐198)](https://github.com/Renovamen/oh-vue-icons) - A Vue component for including inline SVG icons from different popular iconpacks easily.
+*   [oh-vue-icons (⭐209)](https://github.com/Renovamen/oh-vue-icons) - A Vue component for including inline SVG icons from different popular iconpacks easily.
 
 ## [7. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Software / Communication - XMPP - Servers
 
-*   [ejabberd](https://www.ejabberd.im/) - XMPP instant messaging server. ([Source Code (⭐5.5k)](https://github.com/processone/ejabberd)) `GPL-2.0` `Erlang`
+*   [ejabberd](https://www.ejabberd.im/) - XMPP instant messaging server. ([Source Code (⭐5.7k)](https://github.com/processone/ejabberd)) `GPL-2.0` `Erlang/Docker`
 
 ### Software / Learning and Courses
 
@@ -26,7 +26,7 @@
 
 ### Linters / More
 
-*   [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO (⭐6.9k)](https://github.com/xojs/xo).
+*   [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO (⭐7.3k)](https://github.com/xojs/xo).
 
 ## [4. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
 

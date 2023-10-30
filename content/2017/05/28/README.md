@@ -28,19 +28,19 @@
 
 ### Framework Components
 
-*   [multi-auth (⭐105)](https://github.com/msa7/multi_auth) - Standardized multi-provider OAuth2 authentication (inspired by omniauth)
+*   [multi-auth (⭐112)](https://github.com/msa7/multi_auth) - Standardized multi-provider OAuth2 authentication (inspired by omniauth)
 
 ## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [ReverseMarkdown (⭐170)](https://github.com/mysticmind/reversemarkdown-net) - Html to Markdown converter library.
+*   [ReverseMarkdown (⭐217)](https://github.com/mysticmind/reversemarkdown-net) - Html to Markdown converter library.
 
 ## [6. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Software / Utilities
 
-*   [Sandman](https://alexanderepstein.github.io/Sandman/) - Lets you know when to turn off the computer and sleep based on calculated sleep cycles. ([MIT (⭐508)](https://github.com/alexanderepstein/Sandman/blob/master/License.md))
+*   [Sandman](https://alexanderepstein.github.io/Sandman/) - Lets you know when to turn off the computer and sleep based on calculated sleep cycles. ([MIT (⭐505)](https://github.com/alexanderepstein/Sandman/blob/master/License.md))
 
 ---
 

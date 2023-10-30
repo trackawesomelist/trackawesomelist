@@ -16,11 +16,11 @@
 
 ### GTFS Realtime Libraries & Demo Apps / Ruby
 
-*   [gtfs-realtime-bindings (⭐321)](https://github.com/google/gtfs-realtime-bindings) - The official bindings for Java, .NET, Node.js, Python, and Ruby generated from the official [GTFS-realtime protocol buffer specification (⭐414)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto).
+*   [gtfs-realtime-bindings (⭐332)](https://github.com/google/gtfs-realtime-bindings) - The official bindings for Java, .NET, Node.js, Python, and Ruby generated from the official [GTFS-realtime protocol buffer specification (⭐446)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto).
 
 ### GTFS Realtime (and Other Real-time API) Archival Tools / Ruby
 
-*   [gtfsrdb (⭐33)](https://github.com/CUTR-at-USF/gtfsrdb) - A Python tool that supports reading and archiving GTFS-realtime feeds into a database
+*   [gtfsrdb (⭐35)](https://github.com/CUTR-at-USF/gtfsrdb) - A Python tool that supports reading and archiving GTFS-realtime feeds into a database
 
 ### SIRI / Ruby
 

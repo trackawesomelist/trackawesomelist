@@ -14,9 +14,9 @@
 
 ## [2. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
-### Social Spaces / Other
+### Web3XR / Realms
 
-*   [Raspberry Dream Land](https://www.rdland.io/) - A progressive WebXR events platform focused on inclusivity, radical self-expression, and virtual relationships.
+*   [Raspberry Dream Land](https://www.rdland.io/) - A progressive events platform focused on inclusivity, radical self-expression, and virtual relationships. Also has its own NFT avatar collection.
 
 ### YouTube / Realms
 
@@ -28,7 +28,7 @@
 
 ### Libraries / New Libraries
 
-*   [bayex (⭐41)](https://github.com/alonfnt/bayex) - Bayesian Optimization powered by JAX. <img src="https://img.shields.io/github/stars/alonfnt/bayex?style=social" align="center">
+*   [bayex (⭐59)](https://github.com/alonfnt/bayex) - Bayesian Optimization powered by JAX. <img src="https://img.shields.io/github/stars/alonfnt/bayex?style=social" align="center">
 
 ## [4. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
@@ -46,7 +46,7 @@
 
 ### 2D / Godot 3.2+
 
-*   [Portal 2D (⭐60)](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games.
+*   [Portal 2D (⭐64)](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games.
 
 ## [7. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
@@ -55,18 +55,24 @@
 *   [Tortoise ORM](https://tortoise.github.io) - An easy-to-use asyncio ORM (Object Relational Mapper) inspired by Django.
     *   [FastAPI Example](https://tortoise.github.io/examples/fastapi.html) - An example of the Tortoise-ORM FastAPI integration.
     *   [Tutorial: Setting up Tortoise ORM with FastAPI](https://web.archive.org/web/20200523174158/https://robwagner.dev/tortoise-fastapi-setup/)
-    *   [Aerich (⭐625)](https://github.com/tortoise/aerich) - Tortoise ORM migrations tools.
+    *   [Aerich (⭐683)](https://github.com/tortoise/aerich) - Tortoise ORM migrations tools.
 *   [SQLModel](https://sqlmodel.tiangolo.com/) - SQLModel (which is powered by Pydantic and SQLAlchemy) is a library for interacting with SQL databases from Python code, with Python objects.
 
 ### Databases / ODMs
 
-*   [Beanie (⭐1.1k)](https://github.com/roman-right/beanie) - Asynchronous Python ODM for MongoDB, based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://docs.pydantic.dev/), which supports data and schema migrations out of the box.
+*   [Beanie (⭐1.4k)](https://github.com/roman-right/beanie) - Asynchronous Python ODM for MongoDB, based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://docs.pydantic.dev/latest/), which supports data and schema migrations out of the box.
 
 ### Open Source Projects / Other Tools
 
-*   [Universities (⭐56)](https://github.com/ycd/universities) - API service for obtaining information about +9600 universities worldwide.
+*   [Universities (⭐55)](https://github.com/ycd/universities) - API service for obtaining information about +9600 universities worldwide.
 
-## [8. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [8. Asdf Plugins](/content/asdf-vm/asdf-plugins/week/README.md)
+
+### Creating a new Plugin
+
+*   Read the [creating plugins guide (⭐19k)](https://github.com/asdf-vm/asdf/blob/master/docs/plugins/create.md)
+
+## [9. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Books
 
@@ -77,7 +83,7 @@
 *   [Depression Level Prediction in People with Parkinson’s Disease during the COVID-19 Pandemic](https://embc.embs.org/2021/)) Hashneet Kaur, Patrick Ka-Cheong Poon, Sophie Yuefei Wang, Diane Myung-kyung Woodbridge. (2021)
 *   [Machine Learning-based Meal Detection Using Continuous Glucose Monitoring on Healthy Participants: An Objective Measure of Participant Compliance to Protocol](https://embc.embs.org/2021/) Victor Palacios, Diane Myung-kyung Woodbridge, Jean L. Fry. (2021)
 
-## [9. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
+## [10. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
 
 ### Software and Tools
 
@@ -91,21 +97,21 @@
 
 *   [500K ASIN Lists](https://app.turbopiranha.com/Download/bestselleritems) - Weekly FREE 500K ASIN lists in popular categories of 8 marketplaces (US, CA, MX, UK, DE, ES, FR, IT).
 
-## [10. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [11. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Toolchains
 
 *   [Cloud Security and DevSecOps Best Practices *and* Securing Web Application Technologies (SWAT) Checklist](https://www.sans.org/posters/cloud-security-devsecops-best-practices/) - *SANS* - A poster containing the Securing Web Application Technologies (SWAT) Checklist, SANS Cloud Security Curriculum, Cloud Security Top 10, Top 12 Kubernetes Threats, and Secure DevOps Toolchain.
 
-## [11. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [12. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### SIRI / Ruby
 
 *   [SIRI to GTFS-realtime (⭐8)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-from-siri-cli/wiki) - A Java-based command-line utility to convert from the [SIRI format](https://www.siri.org.uk/) to GTFS-realtime.
-*   [SIRI API (⭐313)](https://github.com/OneBusAway/onebusaway/wiki/SIRI-Resources) - Java classes generated from the v1.0 and v1.3 [SIRI](https://www.siri.org.uk/) schemas.
+*   [SIRI API (⭐321)](https://github.com/OneBusAway/onebusaway/wiki/SIRI-Resources) - Java classes generated from the v1.0 and v1.3 [SIRI](https://www.siri.org.uk/) schemas.
 *   [SIRI 2.0 API (⭐6)](https://github.com/laidig/siri-20-java) - Java classes generated from the v2.0 [SIRI](https://www.siri.org.uk/) schemas.
 
-## [12. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
+## [13. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
 ### Topic Areas / Comprehensive R Tutorials
 
@@ -119,24 +125,13 @@
 
 *   [Cédric Scherer](https://www.youtube.com/playlist?list=PLd6eTXMmV3X-4-pHkZSJwHRACzSSyeT9T) - A collection of talks and seminars about R-related topics such as ggplot2 or Shiny, and data visualization in general.
 
-## [13. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [14. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Resources / Community
 
 *   [Coq Zulip chat archive](https://coq.gitlab.io/zulip-archive/)
 *   [coq-community package maintenance project (⭐67)](https://github.com/coq-community/manifesto)
-*   [100 famous theorems proved using Coq (⭐43)](https://github.com/coq-community/coq-100-theorems)
-
-## [14. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
-
-### Projects / API Testing
-
-*   MQ clients
-    *   [JMSToolBox (⭐168)](https://github.com/jmstoolbox/jmstoolbox) - Universal JMS client designed to interact with a wide range of JMS-based message brokers.
-    *   [kcat (⭐4.8k)](https://github.com/edenhill/kcat) - Generic non-JVM producer and consumer for Apache Kafka, functioning as a netcat for Kafka.
-    *   [MQTT Explorer (⭐2.3k)](https://github.com/thomasnordquist/MQTT-Explorer) - All-round MQTT client with a structured topic overview, suitable for debugging and testing MQTT-based systems.
-    *   [Offset Explorer](https://www.kafkatool.com) - GUI application for managing and using Apache Kafka clusters, formerly known as Kafka Tool.
-    *   [Service Bus Explorer (⭐1.8k)](https://github.com/paolosalvatori/ServiceBusExplorer) - GUI app for Azure Service Bus, offering advanced features like import/export functionality and the ability to test topic, queues, subscriptions, relay services, notification hubs, and events hubs.
+*   [100 famous theorems proved using Coq (⭐50)](https://github.com/coq-community/coq-100-theorems)
 
 ## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -148,13 +143,13 @@
 
 ### Web Application Framework
 
-*   [Crow (⭐1.8k)](https://github.com/CrowCpp/Crow) - Crow is a C++ microframework for running web services. It uses routing similar to Python's Flask. \[BSD] [website](https://crowcpp.org)
+*   [Crow (⭐2.2k)](https://github.com/CrowCpp/Crow) - Crow is a C++ microframework for running web services. It uses routing similar to Python's Flask. \[BSD] [website](https://crowcpp.org)
 
 ## [17. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Elixir/Erlang / Data Visualization
 
-*   [Prop (⭐36)](https://github.com/fremantle-industries/prop) - An open and opinionated trading platform using productive & familiar open source libraries and tools for strategy research, execution and operation.
+*   [Prop (⭐39)](https://github.com/fremantle-industries/prop) - An open and opinionated trading platform using productive & familiar open source libraries and tools for strategy research, execution and operation.
 
 ## [18. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -166,7 +161,7 @@
 
 ### Databases & Spreadsheets
 
-*   [Supabase](https://supabase.io/) - Hosted and open source managed postgres DB like firebase.
+*   [Supabase](https://supabase.io/) - Hosted and open source managed postgres DB like firebase. ![Supabase](https://img.shields.io/github/contributors-anon/supabase/supabase?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ## [20. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
@@ -174,7 +169,7 @@
 
 *   [LiteCoin](https://litecoin.org/)  is a peer-to-peer Internet currency that enables instant payments to anyone in the world (was based on Bitcoin)
 
-### General
+### Protocols
 
 *   [Solidproject.org](https://solidproject.org/) Solid is a project lead by Tim Berners Lee that aims to re-decentralize the web. Solid (derived from "social linked data") is a proposed set of conventions and tools for building decentralized Web applications based on Linked Data principles. Solid is modular and extensible. It relies as much as possible on existing W3C standards and protocols. You can find more information also at [Inrupt](https://inrupt.com/solid) and [Solid MIT](https://solid.mit.edu/) webpages
 
@@ -208,7 +203,7 @@
 
 ### WSL Tools / WSL Utilities
 
-*   [vim-wsl-copy-paste (⭐8)](https://github.com/Konfekt/vim-wsl-copy-paste) -  Adds mappings in Vim to write and read on the Windows clipboard.
+*   [vim-wsl-copy-paste (⭐10)](https://github.com/Konfekt/vim-wsl-copy-paste) -  Adds mappings in Vim to write and read on the Windows clipboard.
     . ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [25. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
@@ -235,27 +230,27 @@
 
 ## [28. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
-*   [Shisho (⭐355)](https://github.com/flatt-security/shisho) - Lightweight static analyzer for Terraform.
+*   [Shisho (⭐360)](https://github.com/flatt-security/shisho) - Lightweight static analyzer for Terraform.
 
 ## [29. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
-### Financial
+### Financial / Text-Based User Interfaces
 
-*   [Cassandre (⭐453)](https://github.com/cassandre-tech/cassandre-trading-bot) - Trading bot framework.
+*   [Cassandre (⭐514)](https://github.com/cassandre-tech/cassandre-trading-bot) - Trading bot framework.
 
-### Machine Learning
+### Machine Learning / Text-Based User Interfaces
 
-*   [m2cgen (⭐2.4k)](https://github.com/BayesWitnesses/m2cgen) - CLI tool to transpile models into native code.
+*   [m2cgen (⭐2.6k)](https://github.com/BayesWitnesses/m2cgen) - CLI tool to transpile models into native code.
 
 ### Testing / Miscellaneous
 
-*   [ConsoleCaptor (⭐19)](https://github.com/Hakky54/console-captor) - Captures console output for unit testing purposes.
+*   [ConsoleCaptor (⭐23)](https://github.com/Hakky54/console-captor) - Captures console output for unit testing purposes.
 
 ### Workflow Orchestration Engines / Mocking
 
-*   [flowable (⭐6.1k)](https://github.com/flowable/flowable-engine) - Compact and efficient workflow and business process management platform.
+*   [flowable (⭐6.8k)](https://github.com/flowable/flowable-engine) - Compact and efficient workflow and business process management platform.
 
 ## [30. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
@@ -267,15 +262,15 @@
 
 ### Mathematics
 
-*   [Vim.Math3d (⭐77)](https://github.com/vimaec/math3d) - A feature-rich cross-platform replacement for System.Numerics with support for consistent serialization and binary layout, and additional structures and algorithms for efficient 3D Math.
+*   [Vim.Math3d (⭐81)](https://github.com/vimaec/math3d) - A feature-rich cross-platform replacement for System.Numerics with support for consistent serialization and binary layout, and additional structures and algorithms for efficient 3D Math.
 
 ## [32. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
-### Inbox: Large Language Models / Contribute to Our Repository
+### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
 *   [Integrated AI: How to talk to AI for free using nine platforms (Megatron, GPT-3, GPT-J, Wudao, J1..) - YouTube](https://www.youtube.com/watch?v=yWM_8QwLyuY\&list=LL\&index=1\&t=17s) by Dr Alan D. Thompson. The following references came from this video description
 
-### Inbox: Large Language Models / Text-related Generative Tools
+### Inbox: Large Language Models (LLMs) / Text-related Generative Tools
 
 *   [InferKit](https://app.inferkit.com/demo)
 *   [CopyHat](https://copyhat.com/)
@@ -304,20 +299,16 @@
 
 ### Software / Blogging Platforms
 
-*   [Haven](https://havenweb.org/) - Private blogging system with markdown editing and built in RSS reader. ([Demo](https://havenweb.org/demo.html), [Source Code (⭐523)](https://github.com/havenweb/haven)) `MIT` `Ruby`
+*   [Haven](https://havenweb.org/) - Private blogging system with markdown editing and built in RSS reader. ([Demo](https://havenweb.org/demo.html), [Source Code (⭐554)](https://github.com/havenweb/haven)) `MIT` `Ruby`
 
 ### Software / Booking and Scheduling
 
 *   [Alf.io](https://alf.io/) - The open source ticket reservation system. ([Demo](https://demo.alf.io/authentication), [Source Code (⭐1.2k)](https://github.com/alfio-event/alf.io)) `GPL-3.0` `Java`
-*   [Easy!Appointments](https://easyappointments.org/) - A highly customizable web application that allows your customers to book appointments with you via the web. ([Demo](https://easyappointments.org/demo/), [Source Code (⭐2.7k)](https://github.com/alextselegidis/easyappointments)) `GPL-3.0` `PHP`
-
-### Software / Communication - Custom Communication Systems
-
-*   [StoneAge Messenger](https://cweb.gitlab.io/StoneAge.html) - A self-hosted Android messenger, S3-compatible storage is the only backend needed. ([Source Code](https://gitlab.com/cweb-repos/cweb-conversations), [Clients](https://f-droid.org/en/packages/com.cweb.messenger/)) `GPL-3.0` `Java`
+*   [Easy!Appointments](https://easyappointments.org/) - A highly customizable web application that allows your customers to book appointments with you via the web. ([Demo](https://easyappointments.org/demo/), [Source Code (⭐2.8k)](https://github.com/alextselegidis/easyappointments)) `GPL-3.0` `PHP`
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [Mailu](https://mailu.io/) - Mailu is a simple yet full-featured mail server as a set of Docker images. ([Source Code (⭐4.5k)](https://github.com/Mailu/Mailu)) `MIT` `Docker/Python`
+*   [Mailu](https://mailu.io/) - Mailu is a simple yet full-featured mail server as a set of Docker images. ([Source Code (⭐4.9k)](https://github.com/Mailu/Mailu)) `MIT` `Docker/Python`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -325,45 +316,41 @@
 
 ### Software / Media Streaming - Multimedia Streaming
 
-*   [Gerbera](https://gerbera.io/) - Gerbera is an UPnP Media Server. It allows you to stream your digital media throughout your home network and listen to/watch it on a variety of UPnP compatible devices. ([Source Code (⭐1k)](https://github.com/gerbera/gerbera)) `GPL-2.0` `C++`
-*   [homehost (⭐945)](https://github.com/ridhwaans/homehost) `⚠` - Self-hosted React + Redux app that streams your media collection (music, movies, books, podcasts, comics etc). `MIT` `Nodejs`
-*   [Jellyfin](https://jellyfin.org) - Media server for audio, video, books, comics, and photos with a sleek interface and robust transcoding capabilities. Almost all modern platforms have clients, including Roku, Android TV, iOS, and Kodi. ([Demo](https://demo.jellyfin.org/stable), [Source Code (⭐22k)](https://github.com/jellyfin/jellyfin)) `GPL-2.0` `C#`
-*   [LBRY](https://lbry.com/) - Is a secure, open, and community-run digital marketplace that aims to replace Youtube and Amazon. ([Demo](https://lbry.tv/), [Source Code (⭐252)](https://github.com/lbryio/lbry.com), [Clients (⭐3.6k)](https://github.com/lbryio/lbry-desktop)) `MIT` `PHP`
-*   [MistServer](https://mistserver.org/) - Streaming media server that works well in any streaming environment. ([Source Code (⭐295)](https://github.com/DDVTECH/mistserver)) `AGPL-3.0` `C++`
-*   [NymphCast](http://nyanko.ws/nymphcast.php) - NymphCast is a Chromecast alternative which turns your choice of Linux-capable hardware into an audio and video source for a television or powered speakers. ([Source Code (⭐2.3k)](https://github.com/MayaPosch/NymphCast)) `BSD-3-Clause` `C++`
-*   [Podify](https://www.podify.org/) - Allows you to download videos and audio from any source supported by youtube-dl and subscribe to and watch these downloads using your favorite podcast app. ([Source Code (⭐235)](https://github.com/podify-org/podify/)) `GPL-3.0` `Ruby`
+*   [Gerbera](https://gerbera.io/) - Gerbera is an UPnP Media Server. It allows you to stream your digital media throughout your home network and listen to/watch it on a variety of UPnP compatible devices. ([Source Code (⭐1.1k)](https://github.com/gerbera/gerbera)) `GPL-2.0` `Docker/deb/C++`
+*   [Jellyfin](https://jellyfin.org) - Media server for audio, video, books, comics, and photos with a sleek interface and robust transcoding capabilities. Almost all modern platforms have clients, including Roku, Android TV, iOS, and Kodi. ([Demo](https://demo.jellyfin.org/stable), [Source Code (⭐26k)](https://github.com/jellyfin/jellyfin)) `GPL-2.0` `C#/deb/Docker`
+*   [LBRY](https://lbry.com/) - Is a secure, open, and community-run digital marketplace that aims to replace Youtube and Amazon. ([Demo](https://lbry.tv/), [Source Code (⭐255)](https://github.com/lbryio/lbry.com), [Clients (⭐3.6k)](https://github.com/lbryio/lbry-desktop)) `MIT` `PHP`
+*   [MistServer](https://mistserver.org/) - Streaming media server that works well in any streaming environment. ([Source Code (⭐313)](https://github.com/DDVTECH/mistserver)) `AGPL-3.0` `C++`
+*   [NymphCast](http://nyanko.ws/nymphcast.php) - Turn your choice of Linux-capable hardware into an audio and video source for a television or powered speakers (alternative to Chromecast). ([Source Code (⭐2.3k)](https://github.com/MayaPosch/NymphCast)) `BSD-3-Clause` `C++`
+*   [Podify](https://www.podify.org/) - Allows you to download videos and audio from any source supported by youtube-dl and subscribe to and watch these downloads using your favorite podcast app. ([Source Code (⭐261)](https://github.com/podify-org/podify/)) `GPL-3.0` `Docker/Ruby`
 *   [ReadyMedia](https://sourceforge.net/projects/minidlna/) - Simple media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients. Formerly known as MiniDLNA. ([Source Code](https://sourceforge.net/p/minidlna/git/ci/master/tree/)) `GPL-2.0` `C`
 *   [Rygel](https://wiki.gnome.org/action/show/Projects/Rygel) - Rygel is a UPnP AV MediaServer that allows you to easily share audio, video, and pictures. Media player software may use Rygel to become a MediaRenderer that may be controlled remotely by a UPnP or DLNA Controller. ([Source Code](https://gitlab.gnome.org/GNOME/rygel/)) `GPL-3.0` `C`
 
 ### Software / Software Development - API Management
 
-*   [DreamFactory](https://www.dreamfactory.com/) - Turns any SQL/NoSQL/Structured data into Restful API. ([Source Code (⭐1.4k)](https://github.com/dreamfactorysoftware/dreamfactory)) `Apache-2.0` `PHP`
-*   [form.io](https://form.io) - A REST API building platform that utilizes a drag & drop form builder, and is application framework agnostic. Contains open source and enterprise version. ([Demo](https://portal.form.io), [Source Code](https://github.com/formio)) `MIT` `Nodejs`
-*   [Fusio](https://www.fusio-project.org/) - Open-source API management platform which helps to build and manage REST APIs. ([Demo](https://fusio-project.org/demo), [Source Code (⭐1.3k)](https://github.com/apioo/fusio)) `AGPL-3.0` `PHP`
-*   [Hasura](https://hasura.io) - Fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events. ([Source Code (⭐30k)](https://github.com/hasura/graphql-engine)) `Apache-2.0` `Haskell`
-*   [Hoppscotch](https://hoppscotch.io) - A free, fast and beautiful API request builder. ([Source Code (⭐51k)](https://github.com/hoppscotch/hoppscotch)) `MIT` `Nodejs/Vue/Nuxt`
-*   [Kong](https://konghq.com/kong/) - The World’s Most Popular Open Source Microservice API Gateway and Platform. ([Source Code (⭐35k)](https://github.com/Kong/kong)) `Apache-2.0` `Lua`
-*   [Lura](https://luraproject.org/) - Open source High-Performance API Gateway. ([Source Code (⭐5.5k)](https://github.com/luraproject/lura)) `Apache-2.0` `Go`
-*   [Para](https://paraio.org) - Flexible and modular backend framework/server for object persistence, API development and authentication. ([Source Code (⭐478)](https://github.com/erudika/para)) `Apache-2.0` `Java`
-*   [Tyk](https://tyk.io) - Fast and scalable open source API Gateway. Out of the box, Tyk offers an API Management Platform with an API Gateway, API Analytics, Developer Portal and API Management Dashboard. ([Source Code (⭐8.4k)](https://github.com/TykTechnologies/tyk)) `MPL-2.0` `Go`
+*   [DreamFactory](https://www.dreamfactory.com/) - Turns any SQL/NoSQL/Structured data into Restful API. ([Source Code (⭐1.4k)](https://github.com/dreamfactorysoftware/dreamfactory)) `Apache-2.0` `PHP/Docker/K8S`
+*   [form.io](https://form.io) - A REST API building platform that utilizes a drag & drop form builder, and is application framework agnostic. Contains open source and enterprise version. ([Demo](https://portal.form.io), [Source Code](https://github.com/formio)) `MIT` `Nodejs/Docker`
+*   [Fusio](https://www.fusio-project.org/) - Open-source API management platform which helps to build and manage REST APIs. ([Demo](https://fusio-project.org/demo), [Source Code (⭐1.6k)](https://github.com/apioo/fusio)) `AGPL-3.0` `PHP/Docker`
+*   [Hasura](https://hasura.io) - Fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events. ([Source Code (⭐30k)](https://github.com/hasura/graphql-engine)) `Apache-2.0` `Haskell/Docker/K8S`
+*   [Kong](https://konghq.com/kong/) - The World's Most Popular Open Source Microservice API Gateway and Platform. ([Source Code (⭐36k)](https://github.com/Kong/kong)) `Apache-2.0` `Lua/Docker/K8S/deb`
+*   [Lura](https://luraproject.org/) - Open source High-Performance API Gateway. ([Source Code (⭐5.8k)](https://github.com/luraproject/lura)) `Apache-2.0` `Go`
+*   [Para](https://paraio.org) - Flexible and modular backend framework/server for object persistence, API development and authentication. ([Source Code (⭐498)](https://github.com/erudika/para)) `Apache-2.0` `Java/Docker`
+*   [Tyk](https://tyk.io) - Fast and scalable open source API Gateway. Out of the box, Tyk offers an API Management Platform with an API Gateway, API Analytics, Developer Portal and API Management Dashboard. ([Source Code (⭐8.9k)](https://github.com/TykTechnologies/tyk)) `MPL-2.0` `Go/Docker/K8S`
 
 ### Software / Software Development - FaaS & Serverless
 
-*   [Appwrite](https://appwrite.io) - End to end backend server for web, native, and mobile developers 🚀. ([Source Code (⭐31k)](https://github.com/appwrite/appwrite)) `BSD-3-Clause` `PHP`
-*   [LocalStack](https://localstack.cloud/) - LocalStack is a fully functional local AWS cloud stack. This includes Lambda for serverless computation. ([Source Code (⭐47k)](https://github.com/localstack/localstack)) `Apache-2.0` `Python/Other`
-*   [OpenFaaS](https://www.openfaas.com/) - Serverless Functions Made Simple for Docker & Kubernetes. ([Source Code (⭐23k)](https://github.com/openfaas/faas)) `MIT` `Go`
-*   [Trusted-CGI (⭐170)](https://github.com/reddec/trusted-cgi) - Lightweight self-hosted lambda/applications/cgi/serverless-functions platform. `MIT` `Go`
+*   [Appwrite](https://appwrite.io) - End to end backend server for web, native, and mobile developers 🚀. ([Source Code (⭐38k)](https://github.com/appwrite/appwrite)) `BSD-3-Clause` `Docker`
+*   [LocalStack](https://localstack.cloud/) - LocalStack is a fully functional local AWS cloud stack. This includes Lambda for serverless computation. ([Source Code (⭐50k)](https://github.com/localstack/localstack)) `Apache-2.0` `Python/Docker/K8S`
+*   [OpenFaaS](https://www.openfaas.com/) - Serverless Functions Made Simple for Docker & Kubernetes. ([Source Code (⭐24k)](https://github.com/openfaas/faas)) `MIT` `Go`
+*   [Trusted-CGI (⭐188)](https://github.com/reddec/trusted-cgi) - Lightweight self-hosted lambda/applications/cgi/serverless-functions platform. `MIT` `Go/deb/Docker`
 
 ### Software / Software Development - IDE & Tools
 
-*   [Eclipse Che](https://www.eclipse.org/che/) - Open source workspace server and cloud IDE. ([Source Code (⭐6.8k)](https://github.com/eclipse/che)) `EPL-1.0` `Docker/Java`
+*   [Eclipse Che](https://www.eclipse.org/che/) - Open source workspace server and cloud IDE. ([Source Code (⭐6.9k)](https://github.com/eclipse/che)) `EPL-1.0` `Docker/Java`
 
 ### Software / Software Development - Localization
 
-*   [Accent](https://www.accent.reviews/) - Open-source, self-hosted, developer-oriented translation tool. ([Source Code (⭐943)](https://github.com/mirego/accent)) `BSD-3-Clause` `Elixir`
-*   [Localizer](https://localizer.dev) - Free self-hosted open-source crowd-translating service for your product. ([Demo](https://localize.todorant.com), [Source Code (⭐36)](https://github.com/backmeupplz/localizer-backend)) `MIT` `Nodejs/Docker`
-*   [Pootle](https://pootle.translatehouse.org) - Online translation and localization tool. ([Source Code (⭐1.5k)](https://github.com/translate/pootle)) `GPL-3.0` `Python`
-*   [Weblate](https://weblate.org) - Web-based translation tool with tight version control integration. ([Demo](https://demo.weblate.org), [Source Code (⭐3.6k)](https://github.com/WeblateOrg/weblate)) `GPL-3.0` `Python`
+*   [Accent](https://www.accent.reviews/) - Open-source, self-hosted, developer-oriented translation tool. ([Source Code (⭐1k)](https://github.com/mirego/accent)) `BSD-3-Clause` `Elixir/Docker`
+*   [Weblate](https://weblate.org) - Web-based translation tool with tight version control integration. ([Demo](https://demo.weblate.org), [Source Code (⭐3.9k)](https://github.com/WeblateOrg/weblate)) `GPL-3.0` `Python/Docker/K8S`
 
 ## [36. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
@@ -380,11 +367,11 @@
 
 ### Libraries/Frameworks / Serialization
 
-*   [lectra-tech/koson (⭐79)](https://github.com/lectra-tech/koson) - A concise and lightweight Kotlin DSL to build JSON objects and render their String representations
+*   [lectra-tech/koson (⭐85)](https://github.com/lectra-tech/koson) - A concise and lightweight Kotlin DSL to build JSON objects and render their String representations
 
 ### Libraries/Frameworks / Misc
 
-*   [Rasalexman/KDispatcher (⭐64)](https://github.com/Rasalexman/KDispatcher) - Simple and light-weight event dispatcher for Kotlin
+*   [Rasalexman/KDispatcher (⭐66)](https://github.com/Rasalexman/KDispatcher) - Simple and light-weight event dispatcher for Kotlin
 
 ## [38. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -395,7 +382,7 @@
 
 ### Python / Computer Vision
 
-*   [computer-vision-in-action (⭐2k)](https://github.com/Charmve/computer-vision-in-action) - as known as `L0CV`, is a new generation of computer vision open source online learning media, a cross-platform interactive learning framework integrating graphics, source code and HTML. the L0CV ecosystem — Notebook, Datasets, Source Code, and from Diving-in to Advanced — as well as the L0CV Hub.
+*   [computer-vision-in-action (⭐2.2k)](https://github.com/Charmve/computer-vision-in-action) - as known as `L0CV`, is a new generation of computer vision open source online learning media, a cross-platform interactive learning framework integrating graphics, source code and HTML. the L0CV ecosystem — Notebook, Datasets, Source Code, and from Diving-in to Advanced — as well as the L0CV Hub.
 
 ## [39. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -497,13 +484,13 @@
 
 ### Authorization / Open-source policy frameworks
 
-*   [Cerbos (⭐1.3k)](https://github.com/cerbos/cerbos) - An authorization endpoint to write context-aware access control policies.
+*   [Cerbos (⭐1.8k)](https://github.com/cerbos/cerbos) - An authorization endpoint to write context-aware access control policies.
 
 ## [42. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Accounting / Bookkeeping
 
-*   [Go DB Ledger (⭐467)](https://github.com/darcys22/godbledger) - An open source accounting system that aims to make the recording of double entry bookkeeping transactions programmable.
+*   [Go DB Ledger (⭐474)](https://github.com/darcys22/godbledger) - An open source accounting system that aims to make the recording of double entry bookkeeping transactions programmable.
 
 ### Payments / Online Payments
 
@@ -565,28 +552,27 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [rafamadriz/neon (⭐137)](https://github.com/rafamadriz/neon) - Customizable colorscheme with excellent italic and bold support, dark and light variants. Made to work and look good with Tree-sitter.
-*   [bluz71/vim-moonfly-colors (⭐607)](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal colorscheme with modern Neovim support including Tree-sitter.
-*   [ChristianChiarulli/nvcode-color-schemes.vim (⭐281)](https://github.com/ChristianChiarulli/nvcode-color-schemes.vim) - Nvcode, onedark, nord colorschemes with Tree-sitter support.
-*   [folke/tokyonight.nvim (⭐3.6k)](https://github.com/folke/tokyonight.nvim) - A clean, dark and light Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.
-*   [glepnir/zephyr-nvim (⭐288)](https://github.com/glepnir/zephyr-nvim) - A dark colorscheme with Tree-sitter support.
-*   [rockerBOO/boo-colorscheme-nvim (⭐114)](https://github.com/rockerBOO/boo-colorscheme-nvim) - A colorscheme with handcrafted support for LSP, Tree-sitter.
-*   [ray-x/aurora (⭐229)](https://github.com/ray-x/aurora) - A 24-bit dark theme with Tree-sitter and LSP support.
-*   [lourenci/github-colors (⭐74)](https://github.com/lourenci/github-colors) - GitHub colors leveraging Tree-sitter to get 100% accuracy.
-*   [yashguptaz/calvera-dark.nvim (⭐125)](https://github.com/yashguptaz/calvera-dark.nvim) - A port of [VSCode Calvara Dark (⭐13)](https://github.com/saurabhdaware/vscode-calvera-dark) Theme to Neovim with Tree-sitter and many other plugins support.
-*   [kdheepak/monochrome.nvim (⭐48)](https://github.com/kdheepak/monochrome.nvim) - A 16 bit monochrome colorscheme that uses hsluv for perceptually distinct gray colors, with support for Tree-sitter and other commonly used plugins.
-*   [EdenEast/nightfox.nvim (⭐2.1k)](https://github.com/EdenEast/nightfox.nvim) - A soft dark, fully customizable Neovim theme, with support for lsp, treesitter and a variety of plugins.
+*   [rafamadriz/neon (⭐152)](https://github.com/rafamadriz/neon) - Customizable colorscheme with excellent italic and bold support, dark and light variants. Made to work and look good with Tree-sitter.
+*   [bluz71/vim-moonfly-colors (⭐668)](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal colorscheme with modern Neovim support including Tree-sitter.
+*   [ChristianChiarulli/nvcode-color-schemes.vim (⭐280)](https://github.com/ChristianChiarulli/nvcode-color-schemes.vim) - Nvcode, onedark, nord colorschemes with Tree-sitter support.
+*   [folke/tokyonight.nvim (⭐4.2k)](https://github.com/folke/tokyonight.nvim) - A clean, dark and light Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.
+*   [rockerBOO/boo-colorscheme-nvim (⭐145)](https://github.com/rockerBOO/boo-colorscheme-nvim) - A colorscheme with handcrafted support for LSP, Tree-sitter.
+*   [ray-x/aurora (⭐254)](https://github.com/ray-x/aurora) - A 24-bit dark theme with Tree-sitter and LSP support.
+*   [lourenci/github-colors (⭐86)](https://github.com/lourenci/github-colors) - GitHub colors leveraging Tree-sitter to get 100% accuracy.
+*   [yashguptaz/calvera-dark.nvim (⭐135)](https://github.com/yashguptaz/calvera-dark.nvim) - A port of [VSCode Calvara Dark (⭐12)](https://github.com/saurabhdaware/vscode-calvera-dark) Theme to Neovim with Tree-sitter and many other plugins support.
+*   [kdheepak/monochrome.nvim (⭐60)](https://github.com/kdheepak/monochrome.nvim) - A 16 bit monochrome colorscheme that uses hsluv for perceptually distinct gray colors, with support for Tree-sitter and other commonly used plugins.
+*   [EdenEast/nightfox.nvim (⭐2.4k)](https://github.com/EdenEast/nightfox.nvim) - A soft dark, fully customizable Neovim theme, with support for lsp, treesitter and a variety of plugins.
 
 ### Lua Colorscheme / Diagnostics
 
-*   [tjdevries/gruvbuddy.nvim (⭐96)](https://github.com/tjdevries/gruvbuddy.nvim) - Gruvbox colors.
+*   [tjdevries/gruvbuddy.nvim (⭐106)](https://github.com/tjdevries/gruvbuddy.nvim) - Gruvbox colors.
 
 ## [48. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### GUI
 
 *   [MissionKontrol](https://www.missionkontrol.io) - Modern drag & drop admin panel/client with full user permissions for non-technical users.
-*   [sqlite-tui (⭐1.2k)](https://github.com/mathaou/sqlite-tui) - A TUI for viewing sqlite databases, written in Go.
+*   [sqlite-tui (⭐1.3k)](https://github.com/mathaou/sqlite-tui) - A TUI for viewing sqlite databases, written in Go.
 
 ### Reporting / Zabbix
 
@@ -596,7 +582,7 @@
 
 ### UI
 
-*   [Rounded Loading Button (⭐221)](https://github.com/chrisedg87/flutter_rounded_loading_button) <!--stargazers:chrisedg87/flutter_rounded_loading_button--> - Button with a loading indicator, complete with success and error animations by [Chris Edgington](https://twitter.com/ChrisTheEdg)
+*   [Rounded Loading Button (⭐257)](https://github.com/chrisedg87/flutter_rounded_loading_button) <!--stargazers:chrisedg87/flutter_rounded_loading_button--> - Button with a loading indicator, complete with success and error animations by [Chris Edgington](https://twitter.com/ChrisTheEdg)
 
 ## [50. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
@@ -642,7 +628,7 @@
 
 ### HTTP
 
-*   [hato (⭐326)](https://github.com/gnarroway/hato) : An HTTP client for Clojure, wrapping JDK 11's HttpClient
+*   [hato (⭐331)](https://github.com/gnarroway/hato) : An HTTP client for Clojure, wrapping JDK 11's HttpClient
 
 ### Database
 
@@ -652,7 +638,7 @@
 
 ### Localization / Barcode
 
-*   [Locheck (⭐78)](https://github.com/Asana/locheck) - Validate .strings and .stringsdict files for errors
+*   [Locheck (⭐89)](https://github.com/Asana/locheck) - Validate .strings and .stringsdict files for errors
 
 ## [55. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -671,31 +657,31 @@
 
 ### Components & Libraries / UI Components
 
-*   [v-use-places-autocomplete (⭐20)](https://github.com/wobsoriano/v-use-places-autocomplete) - 📍 Vue composable for Google Maps Places Autocomplete.
-*   [v-perfect-signature (⭐153)](https://github.com/wobsoriano/v-perfect-signature) - Pressure-sensitive signature drawing for Vue 2 and 3.
+*   [v-use-places-autocomplete (⭐26)](https://github.com/wobsoriano/v-use-places-autocomplete) - 📍 Vue composable for Google Maps Places Autocomplete.
+*   [v-perfect-signature (⭐170)](https://github.com/wobsoriano/v-perfect-signature) - Pressure-sensitive signature drawing for Vue 2 and 3.
 
 ### Components & Libraries / Utilities
 
-*   [pinia (⭐10k)](https://github.com/posva/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support.
+*   [pinia (⭐11k)](https://github.com/posva/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support.
 *   [mobx-vue-lite](https://github.com/wobsoriano/mobx-vue-lite) - Lightweight Vue 3 bindings for MobX based on Composition API.
-*   [pinia-shared-state (⭐125)](https://github.com/wobsoriano/pinia-shared-state) - A lightweight plugin to sync your pinia state across browser tabs.
-*   [pinia-undo (⭐35)](https://github.com/wobsoriano/pinia-undo) - Undo/Redo plugin for pinia.
-*   [pinia-xstate (⭐39)](https://github.com/wobsoriano/pinia-xstate) - Put your xstate state machines into a global pinia store.
+*   [pinia-shared-state (⭐222)](https://github.com/wobsoriano/pinia-shared-state) - A lightweight plugin to sync your pinia state across browser tabs.
+*   [pinia-undo (⭐44)](https://github.com/wobsoriano/pinia-undo) - Undo/Redo plugin for pinia.
+*   [pinia-xstate (⭐48)](https://github.com/wobsoriano/pinia-xstate) - Put your xstate state machines into a global pinia store.
 
 ## [56. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Log Management
 
-*   [logflare.app](https://logflare.app/) — Free for upto 12,960,000 entries per app per month, 3 days retention
+*   [logflare.app](https://logflare.app/) — Free for up to 12,960,000 entries per app per month, 3 days retention
 
 ### Font
 
-*   [Fontshare](https://www.fontshare.com/) - is a free fonts service. It’s a growing collection of professional grade fonts that are 100% free for personal and commercial use.
+*   [Fontshare](https://www.fontshare.com/) - is a free fonts service. It’s a growing collection of professional-grade fonts, 100% free for personal and commercial use.
 
 ### Storage and Media Processing
 
-*   [uploadcare.com](https://uploadcare.com/hub/developers/) — Uploadcare provides media pipeline  with ultimate toolkit based on cutting-edge algorithms. All features are available for developers absolutely for free: File Uploading API and UI, Image CDN and Origin Services, Adaptive Delivery and Smart Compression. Limit free tier has 3000 uploads, 3 GB traffic and 3 GB storage.
-*   [degoo.com](https://degoo.com/) – AI based cloud storage with free up to 20 Gb, 3 devices, 5 Gb referral bonus (90 days account inactivity).
+*   [uploadcare.com](https://uploadcare.com/hub/developers/) — Uploadcare provides the media pipeline  with the ultimate toolkit based on cutting-edge algorithms. All features are available for developers absolutely for free: File Uploading API and UI, Image CDN and Origin Services, Adaptive Delivery, and Smart Compression. The free tier has 3000 uploads, 3 GB traffic, and 3 GB storage.
+*   [degoo.com](https://degoo.com/) – AI based cloud storage with free up to 20 GB, three devices, 5 GB referral bonus (90 days account inactivity).
 
 ## [57. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 

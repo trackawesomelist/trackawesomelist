@@ -10,7 +10,7 @@
 
 ### Software / Vector Creation
 
-*   [cozyvec (⭐65)](https://github.com/brubsby/cozyvec) - Web/Standalone terminal environment for plotter art and tweet plots.
+*   [cozyvec (⭐67)](https://github.com/brubsby/cozyvec) - Web/Standalone terminal environment for plotter art and tweet plots.
 
 ### Plotter Art For Sale / Ephemera
 
@@ -41,7 +41,7 @@
 
 ## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### Logging
+### Logging / Text-Based User Interfaces
 
 *   [Logstash](https://www.elastic.co/logstash) - Tool for managing log files.
 
@@ -63,7 +63,7 @@
 
 ### Resources / Articles
 
-*   [You don't (may not) need loops ➿ (⭐980)](https://github.com/you-dont-need/You-Dont-Need-Loops) - Loops are one of the first constructs that junior programmers learn, but they can pose many potential issues in the software development process, and could be avoided in many cases.
+*   [You don't (may not) need loops ➿ (⭐1k)](https://github.com/you-dont-need/You-Dont-Need-Loops) - Loops are one of the first constructs that junior programmers learn, but they can pose many potential issues in the software development process, and could be avoided in many cases.
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

@@ -16,7 +16,7 @@
 
 ### System
 
-*   [Finder New item (⭐30)](https://github.com/danielbayley/alfred-finder-new-item) - Swiftly create new items in Finder with support for templates.
+*   [Finder New item (⭐32)](https://github.com/danielbayley/alfred-finder-new-item) - Swiftly create new items in Finder with support for templates.
 
 ## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
@@ -34,11 +34,11 @@
 
 ### Sliders / Runner
 
-*   [Glide.js (⭐6.8k)](https://github.com/jedrzejchalubek/glidejs) - Responsive and touch-friendly jQuery slider. It's simple, lightweight and fast.
+*   [Glide.js (⭐7k)](https://github.com/jedrzejchalubek/glidejs) - Responsive and touch-friendly jQuery slider. It's simple, lightweight and fast.
 
 ### Video/Audio / Other
 
-*   [clappr (⭐6.4k)](https://github.com/clappr/clappr) - An extensible media player for the web <http://clappr.io>
+*   [clappr (⭐6.7k)](https://github.com/clappr/clappr) - An extensible media player for the web <http://clappr.io>
 
 ## [6. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
@@ -57,12 +57,12 @@
 
 ### Frameworks, Libraries and Tools / Scheduler and Job
 
-*   [FluentScheduler (⭐2.5k)](https://github.com/fluentscheduler/FluentScheduler) - Automated job scheduler with fluent interface.
-*   [stateless (⭐4.6k)](https://github.com/dotnet-state-machine/stateless) - Simple library for creating state machines in C# code.
+*   [FluentScheduler (⭐2.6k)](https://github.com/fluentscheduler/FluentScheduler) - Automated job scheduler with fluent interface.
+*   [stateless (⭐5.1k)](https://github.com/dotnet-state-machine/stateless) - Simple library for creating state machines in C# code.
 
 ### Frameworks, Libraries and Tools / Serialization
 
-*   [bond (⭐2.5k)](https://github.com/Microsoft/bond) - Cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data. Bond is broadly used at Microsoft in high scale services.
+*   [bond (⭐2.6k)](https://github.com/Microsoft/bond) - Cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data. Bond is broadly used at Microsoft in high scale services.
 
 ## [9. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -74,15 +74,15 @@
 
 ### Algorithms and Data structures
 
-*   [C# Algorithms (⭐5.5k)](https://github.com/aalhour/C-Sharp-Algorithms) - A C# plug-and-play class-library project of standard Data Structures and Algorithms. It contains 35+ Data Structures and 30+ Algorithms designed as Object-Oriented isolated components.
+*   [C# Algorithms (⭐5.7k)](https://github.com/aalhour/C-Sharp-Algorithms) - A C# plug-and-play class-library project of standard Data Structures and Algorithms. It contains 35+ Data Structures and 30+ Algorithms designed as Object-Oriented isolated components.
 
 ### Misc
 
-*   [ByteSize (⭐473)](https://github.com/omar/ByteSize) - ByteSize is a utility class that makes byte size representation in code easier by removing ambiguity of the value being represented. ByteSize is to bytes what System.TimeSpan is to time.
+*   [ByteSize (⭐503)](https://github.com/omar/ByteSize) - ByteSize is a utility class that makes byte size representation in code easier by removing ambiguity of the value being represented. ByteSize is to bytes what System.TimeSpan is to time.
 
 ### Template Engine
 
-*   [Mustache Sharp (⭐296)](https://github.com/jehugaleahsa/mustache-sharp) - An extension of the mustache text template engine for .NET.
+*   [Mustache Sharp (⭐300)](https://github.com/jehugaleahsa/mustache-sharp) - An extension of the mustache text template engine for .NET.
 
 ### UI Automation
 
@@ -96,7 +96,7 @@
 
 ### Instrumenting / Monitoring
 
-*   [prometheus-ecto (⭐74)](https://github.com/deadtrickster/prometheus-ecto) - Ecto instrumenter for prometheus.ex.
+*   [prometheus-ecto (⭐73)](https://github.com/deadtrickster/prometheus-ecto) - Ecto instrumenter for prometheus.ex.
 
 ### Miscellaneous
 
@@ -108,7 +108,7 @@
 
 ### Editors
 
-*   [atom-elixir (⭐409)](https://github.com/msaraiva/atom-elixir) - An Atom package for Elixir.
+*   [atom-elixir (⭐408)](https://github.com/msaraiva/atom-elixir) - An Atom package for Elixir.
 
 ## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

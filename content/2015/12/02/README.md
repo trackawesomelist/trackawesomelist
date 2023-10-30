@@ -16,7 +16,7 @@
 
 ### Open Source / Other
 
-*   [Sqlectron (⭐4.3k)](https://github.com/sqlectron/sqlectron-gui) - SQL client.
+*   [Sqlectron (⭐4.4k)](https://github.com/sqlectron/sqlectron-gui) - SQL client.
 
 ## [3. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -68,15 +68,15 @@
 
 ### Application Frameworks
 
-*   [peasy (⭐484)](https://github.com/peasy/Peasy.NET) - Peasy is a middle tier framework that offers an easy to use and flexible rules engine and was designed to address common challenges such as concurrency handling, transactional support, fault tolerance, threading, scalability, async and multiple client support, and easy testability, all without a huge learning curve!
+*   [peasy (⭐497)](https://github.com/peasy/Peasy.NET) - Peasy is a middle tier framework that offers an easy to use and flexible rules engine and was designed to address common challenges such as concurrency handling, transactional support, fault tolerance, threading, scalability, async and multiple client support, and easy testability, all without a huge learning curve!
 
 ### IoC
 
-*   [Simple Injector (⭐1.1k)](https://github.com/simpleinjector/SimpleInjector) - Simple Injector is an easy-to-use Dependency Injection (DI) library for .NET 4+ that supports Silverlight 4+, Windows Phone 8, Windows 8 including Universal apps and Mono.
+*   [Simple Injector (⭐1.2k)](https://github.com/simpleinjector/SimpleInjector) - Simple Injector is an easy-to-use Dependency Injection (DI) library for .NET 4+ that supports Silverlight 4+, Windows Phone 8, Windows 8 including Universal apps and Mono.
 
 ### Serialization
 
-*   [Bond (⭐2.5k)](https://github.com/Microsoft/bond) - cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data.
+*   [Bond (⭐2.6k)](https://github.com/Microsoft/bond) - cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data.
 
 ### Testing
 

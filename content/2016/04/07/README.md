@@ -39,13 +39,13 @@
 ### Static Site Generation
 
 *   [Jekyll](https://jekyllrb.com) - Transform your plain text into static websites and blogs.
-    *   [Awesome Jekyll (⭐571)](https://github.com/planetjekyll/awesome-jekyll) - A collection of awesome Jekyll tools, plugins, themes, guides and much more.
+    *   [Awesome Jekyll (⭐575)](https://github.com/planetjekyll/awesome-jekyll) - A collection of awesome Jekyll tools, plugins, themes, guides and much more.
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Images
 
-*   [alchemic\_avatar (⭐50)](https://github.com/zhangsoledad/alchemic_avatar) - Elixir library for generating letter avatar from string.
+*   [alchemic\_avatar (⭐52)](https://github.com/zhangsoledad/alchemic_avatar) - Elixir library for generating letter avatar from string.
 
 ---
 

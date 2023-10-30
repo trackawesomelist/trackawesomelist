@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 25 - Jul 01, 2018
 
-53 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -285,11 +285,11 @@
 
 ### API / Runner
 
-*   [axios (⭐100k)](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js.
+*   [axios (⭐102k)](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js.
 
 ### Animations / Other
 
-*   [particles.js (⭐27k)](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
+*   [particles.js (⭐28k)](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
 
 ## [17. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
@@ -374,7 +374,7 @@
 
 ### Bots
 
-*   [Telegrammer (⭐282)](https://github.com/givip/Telegrammer) :penguin: - Open-source framework for Telegram Bots developers. It was built on top of Apple/SwiftNIO which help to demonstrate excellent performance.
+*   [Telegrammer (⭐287)](https://github.com/givip/Telegrammer) :penguin: - Open-source framework for Telegram Bots developers. It was built on top of Apple/SwiftNIO which help to demonstrate excellent performance.
 
 ## [24. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
@@ -386,7 +386,7 @@
 
 ### Framework Components
 
-*   [Exception Page (⭐64)](https://github.com/crystal-loot/exception_page) - An exceptional exception page for Crystal web libraries and frameworks
+*   [Exception Page (⭐63)](https://github.com/crystal-loot/exception_page) - An exceptional exception page for Crystal web libraries and frameworks
 
 ### Testing
 
@@ -437,7 +437,7 @@
 
 ### Libraries / JavaScript
 
-*   [CASL Mongoose (⭐4.7k)](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
+*   [CASL Mongoose (⭐5.2k)](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
 
 ## [33. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
@@ -461,23 +461,29 @@
 
 ### Frameworks, Libraries and Tools / Mail
 
-*   [FluentEmail (⭐2.3k)](https://github.com/lukencode/FluentEmail) - All in one email sender for .NET and .NET Core
+*   [FluentEmail (⭐2.7k)](https://github.com/lukencode/FluentEmail) - All in one email sender for .NET and .NET Core
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [UnitsNet (⭐1.7k)](https://github.com/angularsen/UnitsNet) - Units.NET gives you all the common units of measurement and the conversions between them.
+*   [UnitsNet (⭐2k)](https://github.com/angularsen/UnitsNet) - Units.NET gives you all the common units of measurement and the conversions between them.
 
 ### Frameworks, Libraries and Tools / ORM
 
-*   [nhibernate-core (⭐2k)](https://github.com/nhibernate/nhibernate-core) - NHibernate Object Relational Mapper.
+*   [nhibernate-core (⭐2.1k)](https://github.com/nhibernate/nhibernate-core) - NHibernate Object Relational Mapper.
 
-## [37. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [37. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### C++ / Non-X86
+
+*   [C++ Language](http://www.cplusplus.com/doc/tutorial/)
+
+## [38. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
-*   [Lidarr](https://lidarr.audio/) - Lidarr is a music collection manager for Usenet and BitTorrent users. ([Source Code (⭐2.8k)](https://github.com/Lidarr/Lidarr)) `GPL-3.0` `C#`
+*   [Lidarr](https://lidarr.audio/) - Lidarr is a music collection manager for Usenet and BitTorrent users. ([Source Code (⭐3k)](https://github.com/Lidarr/Lidarr)) `GPL-3.0` `C#/Docker`
 
-## [38. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/week/README.md)
+## [39. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/week/README.md)
 
 ### Genomics
 
@@ -488,13 +494,13 @@
 
 *   [GIVe](https://mcf7.givengine.org/) - Epigenome and genome interaction.
 
-## [39. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
+## [40. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
 
 ### Codius
 
 *   [Codius Hosts](http://codiushosts.com/)
 
-## [40. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [41. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Other
 
@@ -502,28 +508,28 @@
 
 ### Software / Web Applications
 
-*   [Inventaire](https://inventaire.io/welcome) - Share books with friends and communities. ([GNU AGPLv3 (⭐351)](https://github.com/inventaire/inventaire/blob/master/LICENSE.md))
+*   [Inventaire](https://inventaire.io/welcome) - Share books with friends and communities. ([GNU AGPLv3 (⭐386)](https://github.com/inventaire/inventaire/blob/master/LICENSE.md))
 
 ### Resources / Blogs
 
 *   [BrainBlasted's Privacy and Free Software Blog](https://brainblasted.gitlab.io/) - Practical look at issues involving free software and privacy.
 
-## [41. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
+## [42. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
 
 ### Rich-text editors using contenteditable
 
 *   [Slate (⭐26k)](https://github.com/ianstormtaylor/slate) - Rich text editor built on top of React and Immutable
 
-## [42. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [43. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Image / Backend-Driven
 
-*   [SVG (⭐1.5k)](https://github.com/dnfield/flutter_svg) <!--stargazers:dnfield/flutter_svg--> - SVG parsing, rendering, and widget library by [Dan Field](https://github.com/dnfield)
-*   [Image Cropper (⭐889)](https://github.com/hnvn/flutter_image_cropper) <!--stargazers:hnvn/flutter_image_cropper--> - Crop your images support ratio, rotation, zoom by [HungHD](https://github.com/hnvn)
+*   [SVG (⭐1.6k)](https://github.com/dnfield/flutter_svg) <!--stargazers:dnfield/flutter_svg--> - SVG parsing, rendering, and widget library by [Dan Field](https://github.com/dnfield)
+*   [Image Cropper (⭐924)](https://github.com/hnvn/flutter_image_cropper) <!--stargazers:hnvn/flutter_image_cropper--> - Crop your images support ratio, rotation, zoom by [HungHD](https://github.com/hnvn)
 
 ### Auth / Image Picker
 
-*   [Login (⭐670)](https://github.com/AppleEducate/flutter_login) <!--stargazers:AppleEducate/flutter_login--> - FaceID, TouchID, and Fingerprint Reader by [Rody Davis](http://appleeducate.com)
+*   [Login (⭐688)](https://github.com/AppleEducate/flutter_login) <!--stargazers:AppleEducate/flutter_login--> - FaceID, TouchID, and Fingerprint Reader by [Rody Davis](http://appleeducate.com)
 *   [OAuth (⭐173)](https://github.com/hitherejoe/FlutterOAuth) <!--stargazers:hitherejoe/FlutterOAuth--> - Buffer, Strava, Unsplash, Github OAuth by [Joe Birch](http://www.hitherejoe.com)
 
 ### Text & Rich Content / Image Picker
@@ -532,8 +538,8 @@
 
 ### Templates / Preferences
 
-*   [Mates (⭐525)](https://github.com/CodemateLtd/FlutterMates) <!--stargazers:CodemateLtd/FlutterMates--> - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
-*   [UI Kit (⭐6k)](https://github.com/iampawan/Flutter-UI-Kit) <!--stargazers:iampawan/Flutter-UI-Kit--> - Collection of useful UIs in a UIKit by [Pawan Kumar](https://github.com/iampawan)
+*   [Mates (⭐547)](https://github.com/CodemateLtd/FlutterMates) <!--stargazers:CodemateLtd/FlutterMates--> - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
+*   [UI Kit (⭐6.1k)](https://github.com/iampawan/Flutter-UI-Kit) <!--stargazers:iampawan/Flutter-UI-Kit--> - Collection of useful UIs in a UIKit by [Pawan Kumar](https://github.com/iampawan)
 
 ### Plugins / Augmented Reality
 
@@ -541,38 +547,38 @@
 
 ### Device / Augmented Reality
 
-*   [Location (⭐953)](https://github.com/Lyokone/flutterlocation) <!--stargazers:Lyokone/flutterlocation--> - Handle location, handling callbacks to get continuous location by [Lyokone](https://github.com/Lyokone)
+*   [Location (⭐1k)](https://github.com/Lyokone/flutterlocation) <!--stargazers:Lyokone/flutterlocation--> - Handle location, handling callbacks to get continuous location by [Lyokone](https://github.com/Lyokone)
 
 ### State management / Redux / ELM / Dependency Injection
 
-*   [Built redux (⭐80)](https://github.com/davidmarne/flutter_built_redux) <!--stargazers:davidmarne/flutter_built_redux--> - Automatic subscribing to your redux stores. Based on the built pattern by [David Marne](https://github.com/davidmarne)
+*   [Built redux (⭐79)](https://github.com/davidmarne/flutter_built_redux) <!--stargazers:davidmarne/flutter_built_redux--> - Automatic subscribing to your redux stores. Based on the built pattern by [David Marne](https://github.com/davidmarne)
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [SpinKit (⭐2.7k)](https://github.com/jogboms/flutter_spinkit) <!--stargazers:jogboms/flutter_spinkit--> - Animated loading indicators by [Jeremiah Ogbomo](https://twitter.com/jogboms)
+*   [SpinKit (⭐2.8k)](https://github.com/jogboms/flutter_spinkit) <!--stargazers:jogboms/flutter_spinkit--> - Animated loading indicators by [Jeremiah Ogbomo](https://twitter.com/jogboms)
 
 ### Top / Game Engine resources
 
-*   [Flitter (⭐187)](https://github.com/dart-flitter/flitter) <!--stargazers:dart-flitter/flitter--> - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It uses Redux and Jaguar.
-*   [Planets (⭐751)](https://github.com/sergiandreplace/flutter_planets_tutorial) <!--stargazers:sergiandreplace/flutter_planets_tutorial--> - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com)
+*   [Flitter (⭐188)](https://github.com/dart-flitter/flitter) <!--stargazers:dart-flitter/flitter--> - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It uses Redux and Jaguar.
+*   [Planets (⭐753)](https://github.com/sergiandreplace/flutter_planets_tutorial) <!--stargazers:sergiandreplace/flutter_planets_tutorial--> - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com)
 
 ### Utilities / Game Engine resources
 
-*   [Launcher Icons (⭐1.7k)](https://github.com/franzsilva/flutter_launcher_icons) - Generate your launcher icons easily by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva)
+*   [Launcher Icons (⭐1.8k)](https://github.com/franzsilva/flutter_launcher_icons) - Generate your launcher icons easily by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva)
 
-## [43. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [44. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Modules
 
 *   [YCM (⭐43)](https://github.com/robotology/ycm) - Extra CMake Modules for [Yet Another Robot Platform (⭐442)](https://github.com/robotology/yarp) and friends. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
 
-## [44. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [45. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Development Tools
 
 *   [Vert.x health check (⭐13)](https://github.com/vert-x3/vertx-health-check) - Allows for remote health checking in Vert.x projects.
 
-## [45. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [46. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
 *   [@alyssais](https://github.com/alyssais), [Homebrew (⭐34k)](https://github.com/Homebrew/brew)
     *   "Why I helped maintain Homebrew" ([video](https://vimeo.com/276832570))
@@ -584,7 +590,7 @@
 *   [@tbrisker](https://github.com/tbrisker), [Foreman (⭐2.3k)](https://github.com/theforeman/foreman)
     *   "On maintaining Foreman" ([video](https://vimeo.com/276832413))
 
-## [46. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [47. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -597,9 +603,9 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [mlens (⭐781)](https://github.com/flennerhag/mlens) - A high performance, memory efficient, maximally parallelized ensemble learning, integrated with scikit-learn.
+*   [mlens (⭐803)](https://github.com/flennerhag/mlens) - A high performance, memory efficient, maximally parallelized ensemble learning, integrated with scikit-learn.
 
-## [47. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [48. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Plugins / Aurelia Articles
 
@@ -607,13 +613,13 @@
 *   [aurelia-slickgrid (⭐116)](https://github.com/ghiscoding/aurelia-slickgrid) \* Slickgrid the best javascript datagrid for performance & customization is now available in Aurelia - [Demo](https://ghiscoding.github.io/aurelia-slickgrid/)
 *   [casl-aurelia (⭐4.3k)](https://github.com/stalniy/casl/tree/master/packages/casl-aurelia) \* Permissions management plugin which allows to integrate Aurelia and CASL
 
-## [48. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [49. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Debugging
 
-*   [tools.trace (⭐347)](https://github.com/clojure/tools.trace)
+*   [tools.trace (⭐350)](https://github.com/clojure/tools.trace)
 
-## [49. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [50. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Office
 
@@ -623,7 +629,7 @@
 
 *   [Lollypop](https://gitlab.gnome.org/World/lollypop) - Beautiful music application.
 
-## [50. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [51. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Media Consumption
 
@@ -634,15 +640,15 @@
 
 *   [AutoSleep](http://autosleep.tantsissa.com/) - Automatically tracks your sleep via your Apple Watch (iOS).
 
-## [51. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [52. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tools / Other
 
-*   [NoSQLMap (⭐2.2k)](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
-*   [VHostScan (⭐984)](https://github.com/codingo/VHostScan) - A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
-*   [SubFinder (⭐6.4k)](https://github.com/subfinder/subfinder) - SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.
+*   [NoSQLMap (⭐2.5k)](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
+*   [VHostScan (⭐1.1k)](https://github.com/codingo/VHostScan) - A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
+*   [SubFinder (⭐8.3k)](https://github.com/subfinder/subfinder) - SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.
 
-## [52. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [53. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Mad science
 
@@ -650,9 +656,9 @@
 
 ### Packages / AST
 
-*   [babel-parser (⭐42k)](https://github.com/babel/babel/tree/master/packages/babel-parser) - JavaScript parser used in Babel.
+*   [babel-parser (⭐43k)](https://github.com/babel/babel/tree/master/packages/babel-parser) - JavaScript parser used in Babel.
 
-## [53. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [54. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / B companies
 

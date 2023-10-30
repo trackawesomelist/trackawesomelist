@@ -22,13 +22,13 @@
 
 ### Software / Personal Dashboards
 
-*   [Dashboard (⭐814)](https://github.com/phntxx/dashboard) - Minimalist homepage for organizing your web applications and bookmarks using JSON-files. `MIT` `Nodejs/Docker`
+*   [Dashboard (⭐894)](https://github.com/phntxx/dashboard) - Minimalist homepage for organizing your web applications and bookmarks using JSON-files. `MIT` `Nodejs/Docker`
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Command Line
 
-*   [Swift Argument Parser (⭐2.9k)](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift.
+*   [Swift Argument Parser (⭐3.1k)](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift.
 
 ### Cards / Barcode
 
@@ -38,7 +38,7 @@
 
 ### Articles
 
-*   [Install npm packages globally without sudo on macOS and Linux (⭐2.3k)](https://github.com/sindresorhus/guides/blob/main/npm-global-without-sudo.md)
+*   [Install npm packages globally without sudo on macOS and Linux (⭐2.4k)](https://github.com/sindresorhus/guides/blob/main/npm-global-without-sudo.md)
 
 ## [6. Amas](/content/sindresorhus/amas/README.md)
 

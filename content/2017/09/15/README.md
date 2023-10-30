@@ -28,7 +28,7 @@
 
 ### Miscellaneous / Symfony2
 
-*   [swagger-codegen (⭐15k)](https://github.com/swagger-api/swagger-codegen) - Auto generation of client libraries or server stubs given an OpenAPI specification (formerly known as the Swagger Specification).
+*   [swagger-codegen (⭐16k)](https://github.com/swagger-api/swagger-codegen) - Auto generation of client libraries or server stubs given an OpenAPI specification (formerly known as the Swagger Specification).
 
 ## [5. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Audio Related Packages / Read-Write
 
-*   [mutagen](https://mutagen.readthedocs.io/) [:octocat: (⭐1.2k)](https://github.com/quodlibet/mutagen) [:package:](https://pypi.python.org/pypi/mutagen) - Reads and writes all kind of audio metadata for various formats.
+*   [mutagen](https://mutagen.readthedocs.io/) [:octocat: (⭐1.3k)](https://github.com/quodlibet/mutagen) [:package:](https://pypi.python.org/pypi/mutagen) - Reads and writes all kind of audio metadata for various formats.
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -58,26 +58,26 @@
 
 ### Debug
 
-*   [utest.h (⭐636)](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++. \[Unlicense]
+*   [utest.h (⭐687)](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++. \[Unlicense]
 
 ### Internationalization
 
-*   [utf8.h (⭐1.4k)](https://github.com/sheredom/utf8.h) - Single header utf8 string functions for C and C++. \[Unlicense]
+*   [utf8.h (⭐1.5k)](https://github.com/sheredom/utf8.h) - Single header utf8 string functions for C and C++. \[Unlicense]
 
 ### JSON
 
-*   [json.h (⭐581)](https://github.com/sheredom/json.h) - A simple one header/one source solution to parsing JSON in C and C++. \[Unlicense]
+*   [json.h (⭐630)](https://github.com/sheredom/json.h) - A simple one header/one source solution to parsing JSON in C and C++. \[Unlicense]
 
 ### Networking
 
-*   [curlcpp (⭐574)](https://github.com/JosephP91/curlcpp) - An object oriented C++ wrapper for CURL(libcurl). \[MIT]
+*   [curlcpp (⭐591)](https://github.com/JosephP91/curlcpp) - An object oriented C++ wrapper for CURL(libcurl). \[MIT]
 *   [wdt (⭐2.8k)](https://github.com/facebook/wdt) - An embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths. \[BSD-3-Clause]
 
 ## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Functional Programming
 
-*   [Giraffe (⭐1.8k)](https://github.com/dustinmoris/Giraffe) - A native functional ASP.NET Core web framework for F# developers.
+*   [Giraffe (⭐2k)](https://github.com/dustinmoris/Giraffe) - A native functional ASP.NET Core web framework for F# developers.
 
 ## [11. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

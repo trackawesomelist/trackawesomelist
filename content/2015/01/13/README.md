@@ -10,7 +10,7 @@
 
 ### Money
 
-*   [Monetize (⭐368)](https://github.com/RubyMoney/monetize) - A library for converting various objects into Money objects.
+*   [Monetize (⭐385)](https://github.com/RubyMoney/monetize) - A library for converting various objects into Money objects.
 
 ## [2. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
@@ -81,7 +81,7 @@
 
 ## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### [dotzsh](https://github.com/dotphiles/dotzsh) / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### [dotzsh](https://github.com/dotphiles/dotzsh) / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   Clone new plugins into `.zsh.local/modules`
 

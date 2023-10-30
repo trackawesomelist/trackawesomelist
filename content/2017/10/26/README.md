@@ -33,7 +33,7 @@
 
 ### Object to object mapping
 
-*   [AgileMapper (⭐445)](https://github.com/agileobjects/AgileMapper) - A zero-configuration Object-Object mapper supporting .NET Standard 1.0
+*   [AgileMapper (⭐448)](https://github.com/agileobjects/AgileMapper) - A zero-configuration Object-Object mapper supporting .NET Standard 1.0
 
 ## [5. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Integrations / Components
 
-*   [GraphQL + Angular (⭐1.4k)](https://github.com/apollographql/apollo-angular)
+*   [GraphQL + Angular (⭐1.5k)](https://github.com/apollographql/apollo-angular)
 
 ## [8. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
 

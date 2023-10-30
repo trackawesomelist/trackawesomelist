@@ -10,7 +10,7 @@
 
 ### Image Processing
 
-*   [ruby-vips (⭐781)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
+*   [ruby-vips (⭐792)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
 
 ## [2. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
@@ -20,7 +20,7 @@
 
 ### Libraries / JavaScript
 
-*   [mongration (⭐81)](https://github.com/awapps/mongration) - Node.js migration framework
+*   [mongration (⭐82)](https://github.com/awapps/mongration) - Node.js migration framework
 
 ### Tools / Deployment
 
@@ -30,13 +30,13 @@
 
 ### Development Environment
 
-*   [Oven (⭐140)](https://github.com/CakeDC/oven) - Setup your favorite framework with 1 file and 1 click.
+*   [Oven (⭐141)](https://github.com/CakeDC/oven) - Setup your favorite framework with 1 file and 1 click.
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### To third parties
 
-*   [cl-influxdb (⭐21)](https://github.com/mmaul/cl-influxdb/) - an interface to the Time Series Database InfluxDB. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-influxdb (⭐22)](https://github.com/mmaul/cl-influxdb/) - an interface to the Time Series Database InfluxDB. [MIT](https://opensource.org/licenses/MIT).
 
 ## [5. Awesome Calculators](/content/xxczaki/awesome-calculators/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Threat Detection and Hunting (⭐2.7k)](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources.
+*   [Awesome Threat Detection and Hunting (⭐3k)](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources.
 
 ---
 

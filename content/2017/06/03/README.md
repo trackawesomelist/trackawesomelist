@@ -50,10 +50,6 @@
 
 *   [Wayback Machine](http://archive.org/web/web.php) - Explore the history of a website.
 
-### Stock Images / Telegram
-
-*   [Unsplash](https://unsplash.com) - Free high-resolution photos.
-
 ### Academic Resources and Grey Literature / Telegram
 
 *   [JSTOR](http://www.jstor.org) - Search over 10 million academic journal articles, books, and primary sources.
@@ -64,7 +60,7 @@
 *   [Intrigue Core (⭐1.3k)](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
 *   [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
 *   [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
-*   [OsintStalker (⭐550)](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
+*   [OsintStalker (⭐566)](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
 *   [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
 
 ## [2. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
@@ -78,7 +74,7 @@
 ### Ionic 2 General Resources / Components
 
 *   [Ionic 2 Repository (GitHub)](https://github.com//ionic-team/ionic)
-*   [Ionic 2 Awesome (⭐834)](https://github.com/candelibas/awesome-ionic)
+*   [Ionic 2 Awesome (⭐844)](https://github.com/candelibas/awesome-ionic)
 
 ## [4. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 

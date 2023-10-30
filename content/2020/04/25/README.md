@@ -16,9 +16,9 @@
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [ScrapingAnt](https://scrapingant.com/) — Headless Chrome scraping API and free checked proxies service. Javascript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans available.
+*   [ScrapingAnt](https://scrapingant.com/) — Headless Chrome scraping API and free checked proxies service. Javascript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans are available.
 
 ## [3. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -26,7 +26,7 @@
 
 *   [Grapevine (⭐4)](https://github.com/MichaelRBond/Grapevine-Rss-Aggregator/) <sup>[544](https://t.me/s/aboutrss/544)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/MichaelRBond/Grapevine-Rss-Aggregator/)
 
-### ⛓ OPML management / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### ⛓ OPML management / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSS-OPML-to-Markdown (⭐9)](https://github.com/idealclover/RSS-OPML-to-Markdown) <sup>[542](https://t.me/s/aboutrss/542)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/idealclover/RSS-OPML-to-Markdown)
 
@@ -34,7 +34,7 @@
 
 ### Modules / Database
 
-*   [nessie (⭐517)](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
+*   [nessie (⭐519)](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
 
 ## [5. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 
@@ -58,7 +58,7 @@ Language: English
 
 ### Beginner
 
-*   [Roadmap to Flutter Development (⭐4.3k)](https://github.com/olexale/flutter_roadmap) <!--stargazers:olexale/flutter_roadmap--> - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by [Olexandr Leuschenko](https://github.com/olexale).
+*   [Roadmap to Flutter Development (⭐4.7k)](https://github.com/olexale/flutter_roadmap) <!--stargazers:olexale/flutter_roadmap--> - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by [Olexandr Leuschenko](https://github.com/olexale).
 
 ## [8. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -70,7 +70,7 @@ Language: English
 
 ### Linter
 
-*   [AnyLint (⭐118)](https://github.com/Flinesoft/AnyLint) - Lint anything by combining the power of Swift & regular expressions.
+*   [AnyLint (⭐119)](https://github.com/Flinesoft/AnyLint) - Lint anything by combining the power of Swift & regular expressions.
 
 ## [10. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
@@ -82,16 +82,16 @@ Language: English
 
 ### Contents / Backups
 
-*   [wal-g (⭐2.5k)](https://github.com/wal-g/wal-g) - The successor of WAL-E rewritten in Go. Currently supports cloud object storage services by AWS (S3), Google Cloud (GCS), Azure, as well as OpenStack Swift, MinIO, and file system storages. Supports block-level incremental backups, offloading backup tasks to a standby server, provides parallelization and throttling options. In addition to Postgres, WAL-G can be used for MySQL and MongoDB databases.
+*   [wal-g (⭐2.6k)](https://github.com/wal-g/wal-g) - The successor of WAL-E rewritten in Go. Currently supports cloud object storage services by AWS (S3), Google Cloud (GCS), Azure, as well as OpenStack Swift, MinIO, and file system storages. Supports block-level incremental backups, offloading backup tasks to a standby server, provides parallelization and throttling options. In addition to Postgres, WAL-G can be used for MySQL and MongoDB databases.
 
 ### Contents / CLI
 
-*   [pgsh (⭐516)](https://github.com/sastraxi/pgsh) - Branch your PostgreSQL Database like Git
-*   [schemaspy (⭐2.5k)](https://github.com/schemaspy/schemaspy) - SchemaSpy is a JAVA JDBC-compliant tool for generating your database to HTML documentation, including Entity Relationship diagrams
+*   [pgsh (⭐523)](https://github.com/sastraxi/pgsh) - Branch your PostgreSQL Database like Git
+*   [schemaspy (⭐2.6k)](https://github.com/schemaspy/schemaspy) - SchemaSpy is a JAVA JDBC-compliant tool for generating your database to HTML documentation, including Entity Relationship diagrams
 
 ### Contents / Monitoring
 
-*   [PMM (⭐332)](https://github.com/percona/pmm) - Percona Monitoring and Management (PMM) is a Free and Open Source platform for monitoring and managing PostgreSQL, MySQL, and MongoDB.
+*   [PMM (⭐361)](https://github.com/percona/pmm) - Percona Monitoring and Management (PMM) is a Free and Open Source platform for monitoring and managing PostgreSQL, MySQL, and MongoDB.
 *   [pgmetrics](https://pgmetrics.io/) - pgmetrics is an open-source, zero-dependency, single-binary tool that can collect a lot of information and statistics from a running PostgreSQL server and display it in easy-to-read text format or export it as JSON and CSV for scripting.
 *   [okmeter.io](https://okmeter.io/pg) - Commercial SaaS agent-based monitoring with a very detailed PostgreSQL plugin. It automatically gathers 100s of stats, displays dashboards on every aspect and sends alerts when something goes wrong (Commercial Software).
 
@@ -102,21 +102,21 @@ Language: English
 ### Contents / Optimization
 
 *   [pg\_flame (⭐1.5k)](https://github.com/mgartner/pg_flame) - A flamegraph generator for query plans.
-*   [TimescaleDB Tune (⭐336)](https://github.com/timescale/timescaledb-tune) - a program for tuning a TimescaleDB database to perform its best based on the host's resources such as memory and number of CPUs.
+*   [TimescaleDB Tune (⭐347)](https://github.com/timescale/timescaledb-tune) - a program for tuning a TimescaleDB database to perform its best based on the host's resources such as memory and number of CPUs.
 
 ### Contents / Utilities
 
-*   [Hasura GraphQL Engine (⭐29k)](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+*   [Hasura GraphQL Engine (⭐30k)](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 *   [pg\_activity (⭐2.1k)](https://github.com/dalibo/pg_activity) - top like application for PostgreSQL server activity monitoring.
 *   [PgBouncer](http://www.pgbouncer.org/) - Lightweight connection pooler for PostgreSQL.
 *   [pgpool-II](https://www.pgpool.net/mediawiki/index.php/Main_Page) - Middleware that provides connection pooling, replication, load balancing and limiting exceeding connections.
 
 ### Contents / Language bindings
 
-*   Go: [pq (⭐7.9k)](https://github.com/lib/pq), [pgx (⭐6.8k)](https://github.com/jackc/pgx)
-*   Node: [node-postgres (⭐11k)](https://github.com/brianc/node-postgres), [pg-promise (⭐3.3k)](https://github.com/vitaly-t/pg-promise), [pogi (⭐139)](https://github.com/holdfenytolvaj/pogi), [slonik (⭐3.7k)](https://github.com/gajus/slonik), [postgres (⭐4.5k)](https://github.com/porsager/postgres)
+*   Go: [pq (⭐8.1k)](https://github.com/lib/pq), [pgx (⭐7.3k)](https://github.com/jackc/pgx)
+*   Node: [node-postgres (⭐11k)](https://github.com/brianc/node-postgres), [pg-promise (⭐3.3k)](https://github.com/vitaly-t/pg-promise), [pogi (⭐138)](https://github.com/holdfenytolvaj/pogi), [slonik (⭐3.9k)](https://github.com/gajus/slonik), [postgres (⭐4.6k)](https://github.com/porsager/postgres)
 *   Python: [psycopg2](https://pypi.org/project/psycopg2/), [asyncpg](https://pypi.org/project/asyncpg/)
-*   Ruby: [pg (⭐669)](https://github.com/ged/ruby-pg)
+*   Ruby: [pg (⭐695)](https://github.com/ged/ruby-pg)
 
 ### Resources / Articles
 

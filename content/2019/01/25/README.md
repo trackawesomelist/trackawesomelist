@@ -14,11 +14,11 @@
 
 ### C / Git
 
-*   [libVES.c (⭐29)](https://github.com/vesvault/libVES.c) - End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.
+*   [libVES.c (⭐33)](https://github.com/vesvault/libVES.c) - End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.
 
 ### JavaScript / Git
 
-*   [libVES.js (⭐5)](https://github.com/vesvault/libVES) - End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.
+*   [libVES.js (⭐6)](https://github.com/vesvault/libVES) - End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.
 
 ## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Generators / Other
 
-*   [Gatsby.js (⭐54k)](https://github.com/gatsbyjs/gatsby) - React-based static site generator.
+*   [Gatsby.js (⭐55k)](https://github.com/gatsbyjs/gatsby) - React-based static site generator.
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -44,14 +44,14 @@
 
 ### Apps
 
-*   [vkQuake2 (⭐758)](https://github.com/kondrak/vkQuake2) - id Software's Quake 2 v3.21 with Vulkan support (Windows and Linux). \[GPL]
-*   [q2vkpt (⭐948)](https://github.com/cschied/q2vkpt/) - Real-time path tracer VKPT integrated into q2pro Quake 2 client. \[gpl]
+*   [vkQuake2 (⭐816)](https://github.com/kondrak/vkQuake2) - id Software's Quake 2 v3.21 with Vulkan support (Windows and Linux). \[GPL]
+*   [q2vkpt (⭐951)](https://github.com/cschied/q2vkpt/) - Real-time path tracer VKPT integrated into q2pro Quake 2 client. \[gpl]
 
 ## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
-*   [Polyaxon (⭐3.3k)](https://github.com/polyaxon/polyaxon) - A platform for reproducible and scalable machine learning and deep learning.
+*   [Polyaxon (⭐3.4k)](https://github.com/polyaxon/polyaxon) - A platform for reproducible and scalable machine learning and deep learning.
 
 ## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -75,11 +75,11 @@
 
 ### Contents / Games
 
-*   [Solitaire (⭐235)](https://github.com/deven98/FlutterSolitaire) -A Solitaire clone made by [Deven Joshi](https://github.com/deven98/).
+*   [Solitaire (⭐242)](https://github.com/deven98/FlutterSolitaire) -A Solitaire clone made by [Deven Joshi](https://github.com/deven98/).
 
 ### Contents / Productivity
 
-*   [Habbit (⭐137)](https://github.com/lzyy/habbit) - Habbit is an ultra simple habit tracker that just works by [Li Zhong (⭐137)](https://github.com/lzyy/habbit).
+*   [Habbit (⭐136)](https://github.com/lzyy/habbit) - Habbit is an ultra simple habit tracker that just works by [Li Zhong (⭐136)](https://github.com/lzyy/habbit).
 
 ## [9. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Contents / Utilities
 
-*   [PGXN client (⭐109)](https://github.com/pgxn/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
+*   [PGXN client (⭐114)](https://github.com/pgxn/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
 
 ---
 

@@ -16,13 +16,13 @@
 
 ### Frameworks, Libraries and Tools / Mathematics
 
-*   [UnitConversion (⭐159)](https://github.com/Stratajet/UnitConversion) - Expansible Unit Conversion Library for .NET Core and .NET Framework.
+*   [UnitConversion (⭐172)](https://github.com/Stratajet/UnitConversion) - Expansible Unit Conversion Library for .NET Core and .NET Framework.
 
 ## [3. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Music Notation
 
-*   [Lyp (⭐68)](https://github.com/noteflakes/lyp) - the Lilypond swiss army knife - easily install packages, manage multiple versions of Lilypond, and other tools for power users.
+*   [Lyp (⭐69)](https://github.com/noteflakes/lyp) - the Lilypond swiss army knife - easily install packages, manage multiple versions of Lilypond, and other tools for power users.
 
 ## [4. Awesome R](/content/qinwf/awesome-R/README.md)
 

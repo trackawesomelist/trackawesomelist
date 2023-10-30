@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 07 - Sep 13, 2015
 
-30 awesome lists updated this week.
+29 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Applications
 
-*   [Hermes (⭐731)](https://github.com/allegro/hermes) - asynchronous message broker built on top of Kafka.
+*   [Hermes (⭐755)](https://github.com/allegro/hermes) - asynchronous message broker built on top of Kafka.
 
 ## [2. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Writing / Social Sciences
 
-*   [Theoretical Physics (⭐197)](https://github.com/certik/theoretical-physics)
+*   [Theoretical Physics (⭐205)](https://github.com/certik/theoretical-physics)
 
 ### Sharing Slides / HTML+CSS+JS
 
@@ -37,13 +37,13 @@
 
 ### Blog and CMS / Social Sciences
 
-*   [Ghost (⭐42k)](https://github.com/tryghost/Ghost) (`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
+*   [Ghost (⭐44k)](https://github.com/tryghost/Ghost) (`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
 *   [Dropplets (⭐1.6k)](https://github.com/circa75/dropplets) (`PHP`): Open source, simple, and elegant blog system; write in Markdown.
 
 ### Static Site Generator / Social Sciences
 
 *   [Pelican](http://getpelican.com) (Written in `Python`)(`reStructuredText`,`Markdown`,`AsciiDoc`): Pelican is a modularized framework and is perfect for blogging.
-    *   [Pelican Svbtle Theme (⭐153)](https://github.com/wting/pelican-svbtle)
+    *   [Pelican Svbtle Theme (⭐154)](https://github.com/wting/pelican-svbtle)
 
 ### Editors / LaTeX
 
@@ -58,13 +58,13 @@
 *   Mind Manager
 *   XMind
 *   Docear
-*   [KityMinder By Baidu (⭐4.2k)](https://github.com/fex-team/kityminder) : Chinese Interface
-*   [my-mind](http://my-mind.github.io/): repo [here (⭐3k)](https://github.com/ondras/my-mind).
-*   [beautiful Mind](http://beautifulmind.io/): repo [here (⭐117)](https://github.com/ierror/BeautifulMind.io)
-*   [mindmaps](http://drichard.org/mindmaps/): repo [here (⭐2.5k)](https://github.com/drichard/mindmaps)
-*   [jsmind (⭐2.6k)](https://github.com/hizzgdev/jsmind)
+*   [KityMinder By Baidu (⭐4.3k)](https://github.com/fex-team/kityminder) : Chinese Interface
+*   [my-mind](http://my-mind.github.io/): repo [here (⭐3.2k)](https://github.com/ondras/my-mind).
+*   [beautiful Mind](http://beautifulmind.io/): repo [here (⭐116)](https://github.com/ierror/BeautifulMind.io)
+*   [mindmaps](http://drichard.org/mindmaps/): repo [here (⭐2.6k)](https://github.com/drichard/mindmaps)
+*   [jsmind (⭐3k)](https://github.com/hizzgdev/jsmind)
 *   [jsmind](http://sourceforge.net/projects/jsmind/)
-*   [mindmaps (⭐2.5k)](https://github.com/drichard/mindmaps)
+*   [mindmaps (⭐2.6k)](https://github.com/drichard/mindmaps)
 
 ### Concept Map and Diagrams / LaTeX
 
@@ -74,20 +74,20 @@
 
 *   [slides.com](http://slides.com/): Easy to use with remote controlled page presentation.
 *   [Strut (⭐1.7k)](https://github.com/tantaman/Strut)
-*   [Impressionist (⭐586)](https://github.com/harish-io/Impressionist)
-*   [hovercraft (⭐1.4k)](https://github.com/regebro/hovercraft)
+*   [Impressionist (⭐629)](https://github.com/harish-io/Impressionist)
+*   [hovercraft (⭐1.5k)](https://github.com/regebro/hovercraft)
 
 ### Use The Source / HTML+CSS+JS
 
 *   [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page (⭐37k)](https://github.com/impress/impress.js/wiki).
 *   [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
-*   [Reveal.js (⭐62k)](https://github.com/hakimel/reveal.js)
+*   [Reveal.js (⭐64k)](https://github.com/hakimel/reveal.js)
 *   [CSSS (⭐1.7k)](https://github.com/LeaVerou/CSSS)
-*   [Scrolldeck (⭐679)](https://github.com/johnpolacek/scrolldeck.js)
+*   [Scrolldeck (⭐676)](https://github.com/johnpolacek/scrolldeck.js)
 *   [Deck.js (⭐5.4k)](https://github.com/imakewebthings/deck.js)
-*   [Shower (⭐4.7k)](https://github.com/shower/shower)
+*   [Shower (⭐4.8k)](https://github.com/shower/shower)
 *   [Flowtime.js (⭐1.3k)](https://github.com/marcolago/flowtime.js)
-*   [Slides (⭐494)](https://github.com/briancavalier/slides)
+*   [Slides (⭐496)](https://github.com/briancavalier/slides)
 
 ### The Power of SVG / HTML+CSS+JS
 
@@ -99,7 +99,7 @@
 *   [iPython Notebook](http://ipython.org/notebook.html) (`Python`): a useful tool for inline calculation, making graphs and writing notes.
     *   [wakari.io](https://wakari.io/) is a comercial one mostly aimed for data analysis.
     *   [jiffylab (⭐186)](https://github.com/ptone/jiffylab) is an open source one but not that well done.
-    *   [supervised-ipython-nbserver (⭐7)](https://github.com/writefaruq/supervised-ipython-nbserver) is a multiuser version of notebook using Django/Pinax.
+    *   [supervised-ipython-nbserver (⭐6)](https://github.com/writefaruq/supervised-ipython-nbserver) is a multiuser version of notebook using Django/Pinax.
 *   [Matlab](http://www.mathworks.com/products/matlab/)
 
 ### Scientific Computing / HTML+CSS+JS
@@ -143,7 +143,7 @@
 *   [Raphaël](http://raphaeljs.com/) (`js`)
 *   [JavaScript InfoVis Toolkit](http://philogb.github.io/jit/demos.html) (`js`)
 *   [Paper.js](http://paperjs.org/) (`js`)
-*   [matplotlib (⭐1.9k)](https://github.com/jbmouret/matplotlib_for_papers)
+*   [matplotlib (⭐2k)](https://github.com/jbmouret/matplotlib_for_papers)
 *   [ggplot for python](http://ggplot.yhathq.com/)
 *   [plot.ly](https://plot.ly/ipython-notebooks/): Internet required, interactive plotting.
 *   [bokeh](http://bokeh.pydata.org/en/latest/docs/quickstart.html#quickstart):  Internet required, interactive plotting.
@@ -170,9 +170,9 @@
 
 ### Terminal / HTML+CSS+JS
 
-*   [plot in terminal (⭐1.7k)](https://github.com/glamp/bashplotlib)
+*   [plot in terminal (⭐1.8k)](https://github.com/glamp/bashplotlib)
 *   [asciinema](https://asciinema.org/): Command line recording.
-*   [bashplot (⭐1.7k)](https://github.com/glamp/bashplotlib): plot in terminal.
+*   [bashplot (⭐1.8k)](https://github.com/glamp/bashplotlib): plot in terminal.
 
 ### Free Multimedia / HTML+CSS+JS
 
@@ -241,7 +241,7 @@
 
 ### Realtime
 
-*   [Eventsim (⭐422)](https://github.com/Interana/eventsim) Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.
+*   [Eventsim (⭐452)](https://github.com/Interana/eventsim) Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.
 
 ## [5. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
@@ -278,7 +278,7 @@ This is a great introduction to several aspects of R programming. Loading data i
 
 ### Templates / Misc
 
-*   [Grunt Email Boilerplate (⭐286)](https://github.com/dwightjack/grunt-email-boilerplate) - A Grunt template to create emails.
+*   [Grunt Email Boilerplate (⭐287)](https://github.com/dwightjack/grunt-email-boilerplate) - A Grunt template to create emails.
 *   [Responsive Email Patterns](http://responsiveemailpatterns.com/) - A collection of patterns & modules for responsive emails.
 
 ### Articles / Misc
@@ -325,7 +325,7 @@ This is a great introduction to several aspects of R programming. Loading data i
 
 ### Debug
 
-*   [UnitTest++ (⭐522)](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. \[MIT/X Consortium license]
+*   [UnitTest++ (⭐533)](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. \[MIT/X Consortium license]
 
 ## [10. Tips](/content/git-tips/tips/week/README.md)
 
@@ -517,7 +517,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [cmus (⭐4.8k)](https://github.com/cmus/cmus) - Cross-platform cli audio player.
+*   [cmus (⭐5k)](https://github.com/cmus/cmus) - Cross-platform cli audio player.
 
 ## [19. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
@@ -577,7 +577,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [bus-router (⭐34)](https://github.com/atlregional/bus-router) - Python script that generates missing shapes.txt for GTFS using routing from [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) or [OSRM (⭐5.5k)](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
+*   [bus-router (⭐34)](https://github.com/atlregional/bus-router) - Python script that generates missing shapes.txt for GTFS using routing from [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) or [OSRM (⭐5.6k)](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
 
 ## [23. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
@@ -825,13 +825,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 *   [Kovert (⭐155)](https://github.com/kohesive/kovert) - Invisible REST framework for Kotlin + Vert.x Web.
 
-## [26. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
-
-### Scheme / Flask
-
-*   [入門Scheme](https://web.archive.org/web/20140812144348/http://www4.ocn.ne.jp/~inukai/scheme_primer_j.html) - 犬飼大
-
-## [27. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [26. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Layout
 
@@ -880,28 +874,28 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 
 
-## [28. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
+## [27. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
 
 ### Themes / Dojo 2
 
 *   [Semantic Dojo Theme](http://websemantics.github.io/semantic-dojo/) - A responsive Dojo theme that harnesses the style awesomeness of [Semantic UI](http://semantic-ui.com/) Framework.
 
-## [29. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [28. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
 *   [bitmap (⭐32)](https://github.com/hashd/bitmap-elixir) - Pure Elixir implementation of [bitmaps](https://en.wikipedia.org/wiki/Bitmap).
-*   [tfidf (⭐15)](https://github.com/OCannings/tf-idf) - An Elixir implementation of term frequency–inverse document frequency.
+*   [tfidf (⭐16)](https://github.com/OCannings/tf-idf) - An Elixir implementation of term frequency–inverse document frequency.
 
 ### Office
 
-*   [excellent (⭐24)](https://github.com/leifg/excellent) - An OpenXL (Excel 2000) Parser for Elixir.
+*   [excellent (⭐23)](https://github.com/leifg/excellent) - An OpenXL (Excel 2000) Parser for Elixir.
 
 ### Text and Numbers
 
-*   [money (⭐728)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
+*   [money (⭐747)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
 
-## [30. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
+## [29. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
 ### Social Media and other Website API / OpenOffice
 

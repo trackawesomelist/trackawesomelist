@@ -26,8 +26,8 @@
 
 ### Command-Line Productivity
 
-*   [funky (⭐619)](https://github.com/bbugyi200/funky) - Extends functionality of shell functions making them more powerful and flexible.
-*   [navi (⭐12k)](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+*   [funky (⭐626)](https://github.com/bbugyi200/funky) - Extends functionality of shell functions making them more powerful and flexible.
+*   [navi (⭐13k)](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 
 ### Command-Line Productivity / Directory Navigation
 
@@ -35,26 +35,22 @@
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [fx (⭐16k)](https://github.com/antonmedv/fx) - Command-line JSON processing tool by anononymus JavaScript functions
+*   [fx (⭐17k)](https://github.com/antonmedv/fx) - Command-line JSON processing tool by anononymus JavaScript functions
 
 ## [4. Learn to Program](/content/karlhorky/learn-to-program/README.md)
 
-### Advanced
+### Intermediate
 
 #### [Wes Bos](https://wesbos.com/courses/)
 
 **Mixed** guided video courses to build products using new technologies\
 *(JavaScript, CSS, React, Node.js, GraphQL, Redux)*
-#### [EDX](https://www.edx.org/course/subject/computer-science)
-
-**Free** courses from Harvard, MIT, and other universities\
-*(varied computer science subjects including theory and programming, data science, algorithms, ...)*
 
 ## [5. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Miscellaneous
 
-*   [Naming (⭐1.1k)](https://github.com/gruhn/awesome-naming#readme) - Naming things in computer science done right.
+*   [Naming (⭐1.2k)](https://github.com/gruhn/awesome-naming#readme) - Naming things in computer science done right.
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -88,13 +84,13 @@
 
 ### C, C++
 
-*   [cl-yesql (⭐55)](https://github.com/ruricolist/cl-yesql) - SQL statements live in their own files, in SQL syntax, and are imported into Lisp as functions. You are not limited to the features a DSL supports. Based on Clojure's Yesql. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-yesql (⭐57)](https://github.com/ruricolist/cl-yesql) - SQL statements live in their own files, in SQL syntax, and are imported into Lisp as functions. You are not limited to the features a DSL supports. Based on Clojure's Yesql. [MIT](https://opensource.org/licenses/MIT).
 
 ## [11. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
 ### Playbooks, Roles and Collections / French
 
-*   [T.A.D.S. boilerplate (⭐668)](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
+*   [T.A.D.S. boilerplate (⭐679)](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -117,13 +113,13 @@
 
 ### Open Source / RPG
 
-*   [Darkness Dungeon (⭐266)](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
+*   [Darkness Dungeon (⭐285)](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
 
 ## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### DBaaS
+### Managed Data Services
 
-*   [scalingo.com](https://scalingo.com/) — Primarily a PaaS but offers a 128MB to 192MB free tier of MySQL, PostgreSQL or MongoDB
+*   [scalingo.com](https://scalingo.com/) — Primarily a PaaS but offers a 128MB to 192MB free tier of MySQL, PostgreSQL, or MongoDB
 
 ### Design and UI
 
@@ -132,20 +128,20 @@
 
 ### Data Visualization on Maps
 
-*   [geocod.io](https://www.geocod.io/) — Geocoding via API or CSV Upload. 2,500 free queries/day.
-*   [giscloud.com](https://www.giscloud.com/) — Visualize, analyze and share geo data online.
+*   [geocod.io](https://www.geocod.io/) — Geocoding via API or CSV Upload. Two thousand five hundred free queries/day.
+*   [giscloud.com](https://www.giscloud.com/) — Visualize, analyze, and share geo data online.
 *   [mapbox.com](https://www.mapbox.com/) — Maps, geospatial services and SDKs for displaying map data.
 
 ### Package Build System
 
-*   [build.opensuse.org](https://build.opensuse.org/) — Package build service for multiple distros (SUSE, EL, Fedora, Debian etc).
+*   [build.opensuse.org](https://build.opensuse.org/) — Package build service for multiple distros (SUSE, EL, Fedora, Debian, etc.).
 *   [copr.fedorainfracloud.org](https://copr.fedorainfracloud.org) — Mock-based RPM build service for Fedora and EL.
 *   [help.launchpad.net](https://help.launchpad.net/Packaging) — Ubuntu and Debian build service.
 
 ### IDE and Code Editing
 
-*   [apiary.io](https://apiary.io/) — Collaborative design API with instant API mock and generated documentation (Free for unlimited API blueprints and unlimited user with one admin account and hosted documentation).
-*   [jsbin.com](https://jsbin.com) — JS Bin is another playground and code sharing site of front end web (HTML, CSS and JavaScript. Also supports Markdown, Jade and Sass).
+*   [apiary.io](https://apiary.io/) — Collaborative design API with instant API mock and generated documentation (Free for unlimited API blueprints and unlimited users with one admin account and hosted documentation).
+*   [jsbin.com](https://jsbin.com) — JS Bin is another playground and code-sharing site of front-end web (HTML, CSS, and JavaScript. It Also supports Markdown, Jade, and Sass).
 *   [VSCodium](https://vscodium.com/) - Community-driven, without telemetry/tracking, and freely-licensed binary distribution of Microsoft’s editor VSCode
 
 ---

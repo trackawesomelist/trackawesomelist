@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 09, 2021
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -30,7 +30,7 @@
 
 ### Game Development
 
-*   [MyECS (⭐13)](https://github.com/konovod/myecs) - A Sparse Entity Component System Framework for Crystal
+*   [MyECS (⭐15)](https://github.com/konovod/myecs) - A Sparse Entity Component System Framework for Crystal
 
 ## [4. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -50,19 +50,19 @@
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Public-Apis Github Repo (⭐240k)](https://github.com/public-apis/public-apis) — A list of free public APIs.
+*   [Public-Apis Github Repo (⭐261k)](https://github.com/public-apis/public-apis) — A list of free public APIs.
 
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
 *   [localhost.run](https://localhost.run/) — Expose locally running servers over a tunnel to a public URL.
-*   [localtunnel](https://theboroer.github.io/localtunnel-www/) — Expose locally running servers over a tunnel to a public URL. Free hosted version, and [open source (⭐16k)](https://github.com/localtunnel/localtunnel).
-*   [Radmin VPN](https://www.radmin-vpn.com/) — Connect multiple computers together via a VPN enabling LAN-like networks. Unlimited peers. (Hamachi alternative)
+*   [localtunnel](https://theboroer.github.io/localtunnel-www/) — Expose locally running servers over a tunnel to a public URL. Free hosted version, and [open source (⭐17k)](https://github.com/localtunnel/localtunnel).
+*   [Radmin VPN](https://www.radmin-vpn.com/) — Connect multiple computers together via a VPN-enabling LAN-like network. Unlimited peers. (Hamachi alternative)
 *   [STUN](https://en.wikipedia.org/wiki/STUN) — Session Traversal of User Datagram Protocol \[UDP] Through Network Address Translators \[NATs])
     *   Google STUN — [stun:stun.l.google.com:19302](https://github.com/ripienaar/free-for-dev/blob/master/README.md/stun:stun.l.google.com:19302)
     *   Twilio STUN — [stun:global.stun.twilio.com:3478?transport=udp](https://github.com/ripienaar/free-for-dev/blob/master/README.md/stun:global.stun.twilio.com:3478?transport=udp)
-*   [Tailscale](https://tailscale.com/) — Zero config VPN, using the open source WireGuard protocol. Installs on MacOS, iOS, Windows, Linux, and Android devices. Free plan for personal use with 100 devices and 3 user.
+*   [Tailscale](https://tailscale.com/) — Zero config VPN, using the open-source WireGuard protocol. Installs on MacOS, iOS, Windows, Linux, and Android devices. Free plan for personal use with 100 devices and three users.
 
 ## [6. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
@@ -81,14 +81,14 @@
 
 ### GTFS Realtime Utilities / Ruby
 
-*   [bus\_kalman (⭐21)](https://github.com/cmoscardi/bus_kalman) - A Kalman Filter used to interpolate bus travel times using NYC MTA real-time data.
+*   [bus\_kalman (⭐22)](https://github.com/cmoscardi/bus_kalman) - A Kalman Filter used to interpolate bus travel times using NYC MTA real-time data.
 *   [gtfs-realtime-test-service (⭐2)](https://github.com/CUTR-at-USF/gtfs-realtime-test-service) - A tool for mocking GTFS-realtime feed content (e.g., for use in testing a GTFS-realtime consuming application).
 *   [GTFS-realtime Printer (⭐7)](https://github.com/laidig/gtfs-rt-printer) - Java-based utility to print out information from a GTFS-realtime file or URL.
 *   [gtfs-rt-differential-to-full-dataset (⭐3)](https://github.com/derhuerst/gtfs-rt-differential-to-full-dataset) – Javascript tool to transform a continuous GTFS Realtime stream of `DIFFERENTIAL` incrementality data into a `FULL_DATASET` dump.
 *   [gtfs-rt-dump (⭐18)](https://github.com/kurtraschke/gtfs-rt-dump) - Converts protocol buffer format to plain text for easy viewing of a GTFS-realtime feed in plain text (for debugging purposes)
-*   [gtfs-rt-inspector](https://public-transport.github.io/gtfs-rt-inspector/) – Web app to inspect & analyze any (CORS-enabled) GTFS Realtime feed. Open-source on [GitHub (⭐19)](https://github.com/public-transport/gtfs-rt-inspector).
-*   [print-gtfs-rt-cli (⭐12)](https://github.com/derhuerst/print-gtfs-rt-cli) – Javascript tool to read a GTFS Realtime feed from stdin, print human-readable or as JSON.
-*   [transit-feed-quality-calculator (⭐6)](https://github.com/CUTR-at-USF/transit-feed-quality-calculator) - A Java project that uses the [gtfs-realtime-validator (⭐90)](https://github.com/CUTR-at-USF/gtfs-realtime-validator) to assess the quality of a large number of transit feeds, fetching the feed URLs from a global directory ([TransitFeeds.com/OpenMobilityData.org](https://openmobilitydata.org/)).
+*   [gtfs-rt-inspector](https://public-transport.github.io/gtfs-rt-inspector/) – Web app to inspect & analyze any (CORS-enabled) GTFS Realtime feed. Open-source on [GitHub (⭐23)](https://github.com/public-transport/gtfs-rt-inspector).
+*   [print-gtfs-rt-cli (⭐13)](https://github.com/derhuerst/print-gtfs-rt-cli) – Javascript tool to read a GTFS Realtime feed from stdin, print human-readable or as JSON.
+*   [transit-feed-quality-calculator (⭐7)](https://github.com/CUTR-at-USF/transit-feed-quality-calculator) - A Java project that uses the [gtfs-realtime-validator (⭐89)](https://github.com/CUTR-at-USF/gtfs-realtime-validator) to assess the quality of a large number of transit feeds, fetching the feed URLs from a global directory ([TransitFeeds.com/OpenMobilityData.org](https://openmobilitydata.org/)).
 *   [Transit Network Model (⭐12)](https://github.com/tmelliott/TransitNetworkModel) - A tool to generate predictions using GTFS-realtime VehiclePositions, a particle filter, and a Kalman Filter.
 
 ## [9. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
@@ -142,7 +142,7 @@
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [Million (⭐6.9k)](https://github.com/aidenybai/million) - <1kb compiler-focused virtual DOM. It's fast!
+*   [Million (⭐13k)](https://github.com/aidenybai/million) - <1kb compiler-focused virtual DOM. It's fast!
 
 ## [12. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -154,7 +154,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [gbprod/cutlass.nvim (⭐97)](https://github.com/gbprod/cutlass.nvim) - Plugin that adds a 'cut' operation separate from 'delete'.
+*   [gbprod/cutlass.nvim (⭐139)](https://github.com/gbprod/cutlass.nvim) - Plugin that adds a 'cut' operation separate from 'delete'.
 
 ## [14. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -166,19 +166,13 @@
 
 ### Tooling / Frameworks
 
-*   [trunk-action (⭐18)](https://github.com/jetli/trunk-action) - Github action to install `Trunk` by downloading the executable to speed up CI/CD.
+*   [trunk-action (⭐20)](https://github.com/jetli/trunk-action) - Github action to install `Trunk` by downloading the executable to speed up CI/CD.
 
 ## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / General Tools
 
-*   [Equinox (⭐815)](https://github.com/rlxone/Equinox) - Create dynamic wallpapers for macOS. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/equinox-create-wallpaper/id1591510203)
-
-## [17. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
-
-### Web
-
-*   [Codelib.club](https://codelib.club) - Search and discover open-source apps by dependencies.
+*   [Equinox (⭐902)](https://github.com/rlxone/Equinox) - Create dynamic wallpapers for macOS. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/equinox-create-wallpaper/id1591510203)
 
 ---
 

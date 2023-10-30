@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 02, 2022
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,10 +14,10 @@
 
 ## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [skim (casonadams) (⭐2)](https://github.com/casonadams/skim.zsh) - Tries to determine where [skim (⭐4.2k)](https://github.com/lotabout/skim) is installed, then enables its fuzzy auto-completion and key bindings.
-*   [skim (hackerchai) (⭐3)](https://github.com/hackerchai/skim-zsh) - Adds support for [skim (⭐4.2k)](https://github.com/lotabout/skim)
+*   [skim (casonadams) (⭐2)](https://github.com/casonadams/skim.zsh) - Tries to determine where [skim (⭐4.5k)](https://github.com/lotabout/skim) is installed, then enables its fuzzy auto-completion and key bindings.
+*   [skim (hackerchai) (⭐3)](https://github.com/hackerchai/skim-zsh) - Adds support for [skim (⭐4.5k)](https://github.com/lotabout/skim)
 
 ## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -29,39 +29,33 @@
 
 ### Back-end API / Playground
 
-*   :octocat: [Nest (⭐57k)](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript 🚀 (see also: <https://nestjs.com/>)
-    *   :octocat: [nestia (⭐869)](https://github.com/samchon/nestia) - 15,000x faster validation decorators than `class-validator` and Swagger/SDK generators.
+*   :octocat: [Nest (⭐60k)](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript 🚀 (see also: <https://nestjs.com/>)
+    *   :octocat: [nestia (⭐1.4k)](https://github.com/samchon/nestia) - 20,000x faster validation and 200x faster JSON serialization decorators using `typia`. Enable to utilize pure TypeScript interface type as DTO, and overall server performance improved by about 30x times. Also, it supports SDK (collection of `fetch` functions with type definitions) and Mockup Simulator (backend server simulator embedded in SDK) generation, and even possible to migrate NestJS project only by `swagger.json` file. 🚀 (see also: <https://nestia.io/docs>)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [TypeORM (⭐31k)](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-    *   :octocat: [Safe-TypeORM (⭐212)](https://github.com/samchon/safe-typeorm) - Enhances `TypeORM` in the compilation level and supports automated performance tuning tools through the application level joining. Furthermore, your raw SQL queries would be ensured safety by type meta programming.
+*   :octocat: [TypeORM (⭐32k)](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+    *   :octocat: [Safe-TypeORM (⭐226)](https://github.com/samchon/safe-typeorm) - Enhances `TypeORM` in the compilation level and supports automated performance tuning tools through the application level joining. Furthermore, your raw SQL queries would be ensured safety by type meta programming.
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### APIs, Data and ML
-
-*   [Hookbin](https://hookbin.com/) - Create unique (public or private) endpoints to collect, parse, and inspect HTTP requests. Inspect headers, body, query strings, cookies, uploaded files, etc. Useful for testing/inspecting webhook. Similar to RequestBin, and Webhook.site.
-
-## [6. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [5. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### JavaScript / EmberJS
 
 *   [The Ember Times](https://embertimes.substack.com/). Updates from the Ember.js Learning Team.
 
-### Blockchain / Cryptocurrencies / Angular
+### Blockchain / Cryptocurrencies / Svelte
 
 *   [Inside Cryptocurrency](https://inside.com/cryptocurrency). Tracking trends, news, and analysis around Bitcoin and cryptocurrencies.
 
-## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Syntax / Diagnostics
 
-*   [kylechui/nvim-surround (⭐1.7k)](https://github.com/kylechui/nvim-surround) - A plugin for adding/changing/deleting surrounding delimiter pairs.
+*   [kylechui/nvim-surround (⭐2.1k)](https://github.com/kylechui/nvim-surround) - A plugin for adding/changing/deleting surrounding delimiter pairs.
 
 ### Utility / Diagnostics
 
-*   [kevinhwang91/nvim-ufo (⭐1.2k)](https://github.com/kevinhwang91/nvim-ufo) - Ultra fold with modern looking and performance boosting.
+*   [kevinhwang91/nvim-ufo (⭐1.6k)](https://github.com/kevinhwang91/nvim-ufo) - Ultra fold with modern looking and performance boosting.
 
 ---
 

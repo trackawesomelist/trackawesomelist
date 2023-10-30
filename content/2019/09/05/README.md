@@ -10,7 +10,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [MikroORM (⭐5.9k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
+*   :octocat: [MikroORM (⭐6.6k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
 
 ## [2. Awesome Flask](/content/mjhea0/awesome-flask/README.md)
 
@@ -40,13 +40,13 @@
 ### Serverless / Testing
 
 *   [Zappa (⭐12k)](https://github.com/Miserlou/Zappa)
-*   [Chalice (⭐9.3k)](https://github.com/aws/chalice)
+*   [Chalice (⭐9.8k)](https://github.com/aws/chalice)
 *   [AWS Lambda](https://aws.amazon.com/lambda/)
 *   [Google Cloud Functions](https://cloud.google.com/functions/)
 
 ### Open Source Projects / Testing
 
-*   [Airflow (⭐28k)](https://github.com/apache/airflow/tree/master/airflow/www)
+*   [Airflow (⭐31k)](https://github.com/apache/airflow/tree/master/airflow/www)
 
 ## [3. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
@@ -79,19 +79,19 @@
 
 ### Connection pools
 
-*   [metabase/connection-pool (⭐13)](https://github.com/metabase/connection-pool)
+*   [metabase/connection-pool (⭐14)](https://github.com/metabase/connection-pool)
 
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
-### Software / Software Development - IDE & Tools
+### Tools / Misc
 
-*   [ML Workspace (⭐3k)](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science. `Apache-2.0` `Docker`
+*   [ML Workspace (⭐3.2k)](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science. The workspace is deployed as a docker container and is preloaded with a variety of popular data science libraries (e.g., Tensorflow, PyTorch) and dev tools (e.g., Jupyter, VS Code).
 
 ## [9. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
-### Quantum Computing / NLP
+### Quantum Computing / Synthetic Data
 
-*   [PennyLane (⭐1.8k)](https://github.com/XanaduAI/pennylane) - Quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
+*   [PennyLane (⭐1.9k)](https://github.com/XanaduAI/pennylane) - Quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
 
 ## [10. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -104,7 +104,7 @@
 ### Testing / Individual Podcast episodes
 
 *   [Elm test (⭐230)](https://github.com/elm-explorations/test) - Unit and fuzz tests
-*   [Elm Program test (⭐85)](https://github.com/avh4/elm-program-test/tree/3.0.0) - Test complete Elm programs
+*   [Elm Program test (⭐88)](https://github.com/avh4/elm-program-test/tree/3.0.0) - Test complete Elm programs
 
 ---
 

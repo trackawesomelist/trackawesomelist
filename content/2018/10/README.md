@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 05 - Mar 11, 2018
 
-60 awesome lists updated this week.
+61 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -46,7 +46,7 @@
 
 ### Tools / Static Analysis Tools
 
-*   [StaCoAn (⭐786)](https://github.com/vincentcox/StaCoAn) - Crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications. This tool was created with a big focus on usability and graphical guidance in the user interface.
+*   [StaCoAn (⭐796)](https://github.com/vincentcox/StaCoAn) - Cross-platform tool which aids developers, bug-bounty hunters, and ethical hackers in performing static code analysis on mobile applications. This tool was created with a big focus on usability and graphical guidance in the user interface.
 
 ## [6. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
@@ -173,7 +173,7 @@ We run many types of info-sec security training, covering Physical, People, VPS,
 
 ### Filesystem
 
-*   [img (⭐3.7k)](https://github.com/jessfraz/img)\
+*   [img (⭐3.8k)](https://github.com/jessfraz/img)\
     Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
 
 ## [15. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
@@ -240,7 +240,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### CLI
 
-*   [CLI11 (⭐2.6k)](https://github.com/CLIUtils/CLI11) - Header only single or multi-file C++11 library for simple and advanced CLI parsing. \[BSD]
+*   [CLI11 (⭐2.8k)](https://github.com/CLIUtils/CLI11) - Header only single or multi-file C++11 library for simple and advanced CLI parsing. \[BSD]
 
 ## [21. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -262,24 +262,24 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### Image Processing
 
-*   [ImageSharp (⭐6.5k)](https://github.com/SixLabors/ImageSharp) - Fully managed cross-platform library for processing of image files.
+*   [ImageSharp (⭐6.8k)](https://github.com/SixLabors/ImageSharp) - Fully managed cross-platform library for processing of image files.
 
 ## [24. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Command-line
 
 *   Progress
-    *   [a8m/pb (⭐527)](https://github.com/a8m/pb) \[[pbr](https://crates.io/crates/pbr)] — console progress bar for Rust
-    *   [console-rs/indicatif (⭐3.5k)](https://github.com/console-rs/indicatif) \[[indicatif](https://crates.io/crates/indicatif)] — indicate progress to users
-    *   [etienne-napoleone/spinach (⭐72)](https://github.com/etienne-napoleone/spinach) \[[spinach](https://crates.io/crates/spinach)] — Practical spinner for Rust. [![CI](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml/badge.svg)](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml)
-    *   [FGRibreau/spinners (⭐464)](https://github.com/FGRibreau/spinners) \[[spinners](https://crates.io/crates/spinners)] — 60+ elegant terminal spinners
+    *   [a8m/pb (⭐546)](https://github.com/a8m/pb) \[[pbr](https://crates.io/crates/pbr)] — console progress bar for Rust
+    *   [console-rs/indicatif (⭐3.8k)](https://github.com/console-rs/indicatif) \[[indicatif](https://crates.io/crates/indicatif)] — indicate progress to users
+    *   [etienne-napoleone/spinach (⭐82)](https://github.com/etienne-napoleone/spinach) \[[spinach](https://crates.io/crates/spinach)] — Practical spinner for Rust. [![CI](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml/badge.svg)](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml)
+    *   [FGRibreau/spinners (⭐486)](https://github.com/FGRibreau/spinners) \[[spinners](https://crates.io/crates/spinners)] — 60+ elegant terminal spinners
 
 ## [25. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tools
 
-*   [Pico-Kit (⭐66)](https://github.com/outkine/pico-kit) - An opinionated collection of Pico-8 helpers that make it easier to get going.  Adds OOP, better debugging, and physics.
-*   [pico8Grunt (⭐11)](https://github.com/TeamNoComplyGames/pico8Grunt) - A build system for pico8 games, using gruntjs.
+*   [Pico-Kit (⭐68)](https://github.com/outkine/pico-kit) - An opinionated collection of Pico-8 helpers that make it easier to get going.  Adds OOP, better debugging, and physics.
+*   [pico8Grunt (⭐12)](https://github.com/TeamNoComplyGames/pico8Grunt) - A build system for pico8 games, using gruntjs.
 
 ## [26. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -297,34 +297,34 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [Strathweb.TypedRouting.AspNetCore (⭐76)](https://github.com/filipw/Strathweb.TypedRouting.AspNetCore) - A library enabling strongly typed routing in ASP.NET Core MVC projects.
+*   [Strathweb.TypedRouting.AspNetCore (⭐75)](https://github.com/filipw/Strathweb.TypedRouting.AspNetCore) - A library enabling strongly typed routing in ASP.NET Core MVC projects.
 
 ### Frameworks, Libraries and Tools / Blockchain
 
 *   [NEO (⭐3.4k)](https://github.com/neo-project/neo) - Open Network For Smart Economy.
-*   [StratisBitcoinFullNode (⭐773)](https://github.com/stratisproject/StratisBitcoinFullNode) - Simple and affordable end-to-end solutions for development, testing and deployment of native C# blockchain applications on the .Net framework.
+*   [StratisBitcoinFullNode (⭐776)](https://github.com/stratisproject/StratisBitcoinFullNode) - Simple and affordable end-to-end solutions for development, testing and deployment of native C# blockchain applications on the .Net framework.
 
 ### Frameworks, Libraries and Tools / Compilers, Transpilers and Languages
 
-*   [fparsec (⭐436)](https://github.com/stephan-tolksdorf/fparsec) - A parser combinatory library for F# and C#.
+*   [fparsec (⭐489)](https://github.com/stephan-tolksdorf/fparsec) - A parser combinatory library for F# and C#.
 
 ### Frameworks, Libraries and Tools / Database Drivers
 
 *   Neo4j
-    *   [neo4j-dotnet-driver (⭐178)](https://github.com/neo4j/neo4j-dotnet-driver) - Neo4j Bolt driver for .NET.
-    *   [Neo4jClient (⭐391)](https://github.com/Readify/Neo4jClient) - .NET client binding for Neo4j.
+    *   [neo4j-dotnet-driver (⭐204)](https://github.com/neo4j/neo4j-dotnet-driver) - Neo4j Bolt driver for .NET.
+    *   [Neo4jClient (⭐412)](https://github.com/Readify/Neo4jClient) - .NET client binding for Neo4j.
 
 ### Frameworks, Libraries and Tools / Exceptions
 
-*   [GlobalExceptionHandlerDotNet (⭐260)](https://github.com/JosephWoodward/GlobalExceptionHandlerDotNet) - GlobalExceptionHandlerDotNet allows you to configure exception handling as a convention with your ASP.NET Core application pipeline as opposed to explicitly handling them within each controller action.
+*   [GlobalExceptionHandlerDotNet (⭐267)](https://github.com/JosephWoodward/GlobalExceptionHandlerDotNet) - GlobalExceptionHandlerDotNet allows you to configure exception handling as a convention with your ASP.NET Core application pipeline as opposed to explicitly handling them within each controller action.
 
 ### Frameworks, Libraries and Tools / Graphics
 
-*   [Magick.NET (⭐2.4k)](https://github.com/dlemstra/Magick.NET) - The .NET library for ImageMagick.
+*   [Magick.NET (⭐3k)](https://github.com/dlemstra/Magick.NET) - The .NET library for ImageMagick.
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [EventStore (⭐4.7k)](https://github.com/EventStore/EventStore) - The open-source, functional database with Complex Event Processing in JavaScript.
+*   [EventStore (⭐5k)](https://github.com/EventStore/EventStore) - The open-source, functional database with Complex Event Processing in JavaScript.
 
 ### Community / Workflow
 
@@ -346,7 +346,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### Contents / Optimization
 
-*   [pg\_web\_stats (⭐91)](https://github.com/kirs/pg_web_stats) - Web UI to view pg\_stat\_statements.
+*   [pg\_web\_stats (⭐93)](https://github.com/kirs/pg_web_stats) - Web UI to view pg\_stat\_statements.
 
 ## [31. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
@@ -382,7 +382,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### Networking
 
-*   [ipaddress.cr (⭐41)](https://github.com/Sija/ipaddress.cr) - Library to handle IPv4 and IPv6 addresses
+*   [ipaddress.cr (⭐42)](https://github.com/Sija/ipaddress.cr) - Library to handle IPv4 and IPv6 addresses
 
 ### Template Engine
 
@@ -400,16 +400,16 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [RxJS (⭐29k)](https://github.com/ReactiveX/RxJS) - A reactive programming library for JavaScript.
-*   :octocat: [xstream (⭐2.3k)](https://github.com/staltz/xstream) - An extremely intuitive, small, and fast functional reactive stream library for JavaScript.
-*   :octocat: [TypeMoq (⭐423)](https://github.com/florinn/typemoq) - A simple mocking library for TypeScript.
-*   :octocat: [InversifyJS (⭐9.9k)](https://github.com/inversify/InversifyJS/) -  powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
+*   :octocat: [RxJS (⭐30k)](https://github.com/ReactiveX/RxJS) - A reactive programming library for JavaScript.
+*   :octocat: [xstream (⭐2.4k)](https://github.com/staltz/xstream) - An extremely intuitive, small, and fast functional reactive stream library for JavaScript.
+*   :octocat: [TypeMoq (⭐426)](https://github.com/florinn/typemoq) - A simple mocking library for TypeScript.
+*   :octocat: [InversifyJS (⭐10k)](https://github.com/inversify/InversifyJS/) -  powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
 
 ## [34. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Example Apps
 
-*   [Golazon (⭐34)](https://github.com/sobstel/golazon) - Football data mnmlist way.
+*   [Golazon (⭐33)](https://github.com/sobstel/golazon) - Football data mnmlist way.
 
 ## [35. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
@@ -433,7 +433,27 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 *   [Creative Audio Visualizers](https://tympanus.net/codrops/2018/03/06/creative-audio-visualizers/?utm_source=feedburner\&utm_medium=feed\&utm_campaign=Feed%3A+tympanus+%28Codrops%29)
 
-## [38. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
+## [38. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Bash / Non-X86
+
+*   [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - M. Cooper (HTML)
+*   [Bash Guide for Beginners (2008)](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) - M. Garrels (HTML)
+*   [BASH Programming (2000)](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) - Mike G. (HTML)
+*   [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html) (HTML)
+*   [BashGuide](http://mywiki.wooledge.org/BashGuide) - Maarten Billemont (HTML) [(PDF)](http://s.ntnu.no/bashguide.pdf)
+*   [Getting Started with BASH](http://www.hypexr.org/bash_tutorial.php) (HTML)
+*   [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml) - Paul Armstrong (HTML)
+*   [Introduction to the Command Line](https://launchschool.com/books/command_line) - Launch School (HTML)
+*   [Linux Shell Scripting Tutorial - A Beginner's Handbook (2002)](http://www.freeos.com/guides/lsst/) - Vivek G. Gite (HTML)
+*   [Linux Shell Scripting Tutorial (LSST) v2.0](https://bash.cyberciti.biz/guide/Main_Page) - Vivek Gite (HTML)
+*   [The Bash Academy](http://guide.bash.academy) - Maarten Billemont (HTML)
+
+### HTML and CSS / Spock Framework
+
+*   [Dive Into HTML5](http://diveinto.html5doctor.com) - Mark Pilgrim ([PDF](http://mislav.net/2011/10/dive-into-html5/))
+
+## [39. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
 ### Base Shells
 
@@ -495,7 +515,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 *   [bash-guide (⭐11k)](https://github.com/Idnan/bash-guide) - Guide to learn bash.
 
-## [39. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [40. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Ethics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -505,7 +525,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 *   [Loop Habit Tracker (⭐5.4k)](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
 
-## [40. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [41. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Books
 
@@ -545,13 +565,13 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 *   [Yale Face Database B](http://cvc.yale.edu/projects/yalefacesB/yalefacesB.html) - 5760 single light source images of 10 subjects each seen under 576 viewing conditions (9 poses x 64 illumination conditions). (Formats: PGM)
 *   [Fashion-MNIST (⭐10k)](https://github.com/zalandoresearch/fashion-mnist) - MNIST like fashion product dataset consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
 
-## [41. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [42. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [xgboost-node (⭐33)](https://github.com/nuanio/xgboost-node) - Run XGBoost model and make predictions in Node.js.
+*   [xgboost-node (⭐34)](https://github.com/nuanio/xgboost-node) - Run XGBoost model and make predictions in Node.js.
 
-## [42. Awesome C](/content/inputsh/awesome-c/week/README.md)
+## [43. Awesome C](/content/inputsh/awesome-c/week/README.md)
 
 ### Deep Learning
 
@@ -629,13 +649,13 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 *   [What every programmer should know about memory](https://www.akkadia.org/drepper/cpumemory.pdf)
 *   [Expert C Programming: Deep C Secrets](https://dl.acm.org/citation.cfm?id=179241) - Interesting, in-depth and *entertaining* look at the innards of C.
 
-## [43. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [44. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Search
 
 *   [TNTSearch driver (⭐1k)](https://github.com/teamtnt/laravel-scout-tntsearch-driver) - Driver for [Laravel Scout (⭐1.3k)](https://github.com/laravel/scout) search package based on TNTSearch
 
-## [44. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
+## [45. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
 
 ### [git-url](https://github.com/zdharma/git-url)
 
@@ -693,7 +713,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
     Checking out revision/reference v1.0... OK
     HEAD is at: 5d10a204, created directory git-url
 
-## [45. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [46. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Free fonts / Collections
 
@@ -714,26 +734,26 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 *   [Design Essentials](https://github.com/collections/design-essentials)
 
-## [46. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [47. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Security
 
-*   [upash (⭐512)](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
+*   [upash (⭐519)](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
 
-## [47. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [48. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### Testing / Omniauth
 
 *   [factory\_bot (⭐7.6k)](https://github.com/thoughtbot/factory_bot) - Factory\_bot is a fixtures replacement with a straightforward definition syntax, support for multiple build strategies (saved instances, unsaved instances, attribute hashes, and stubbed objects), and support for multiple factories for the same class (user, admin\_user, and so on), including factory inheritance.
 *   [factory\_bot\_rails (⭐2.9k)](https://github.com/thoughtbot/factory_bot_rails) - Factory\_bot\_rails provides Rails integration for factory\_bot.
 
-## [48. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [49. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Resources / Custom Dialog
 
 *   [Programming Community Curated Resources for Learning Android Development](https://hackr.io/tutorials/learn-android-development) - Android Tutorials & Courses submitted and voted by the programming community.
 
-## [49. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [50. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Retro
 
@@ -743,23 +763,23 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/pongSaver.png)](https://mikeash.com/software/pongsaver/)
 
-## [50. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [51. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
-*   [machinery (⭐478)](https://github.com/joaomdmoura/machinery) - A state machine library for structs in general, it integrates with Phoenix out of the box.
+*   [machinery (⭐493)](https://github.com/joaomdmoura/machinery) - A state machine library for structs in general, it integrates with Phoenix out of the box.
 
 ### HTML
 
 *   [floki (⭐1.9k)](https://github.com/philss/floki) - A simple HTML parser that enables searching using CSS like selectors.
-*   [html\_sanitize\_ex (⭐235)](https://github.com/rrrene/html_sanitize_ex) - HTML sanitizer for Elixir.
+*   [html\_sanitize\_ex (⭐249)](https://github.com/rrrene/html_sanitize_ex) - HTML sanitizer for Elixir.
 *   [modest\_ex (⭐32)](https://github.com/f34nk/modest_ex) - A library to do pipeable transformations on html strings with CSS selectors, e.g. find(), prepend(), append(), replace() etc.
 *   [myhtmlex (⭐14)](https://github.com/Overbryd/myhtmlex) - Elixir/Erlang bindings for lexborisov's myhtml.
-*   [readability (⭐201)](https://github.com/keepcosmos/readability) - Readability is for extracting and curating articles.
+*   [readability (⭐204)](https://github.com/keepcosmos/readability) - Readability is for extracting and curating articles.
 
 ### Miscellaneous
 
-*   [codec-beam (⭐169)](https://github.com/hkgumbs/codec-beam) - Generate Erlang VM byte code from Haskell.
+*   [codec-beam (⭐171)](https://github.com/hkgumbs/codec-beam) - Generate Erlang VM byte code from Haskell.
 
 ### XML
 
@@ -769,26 +789,26 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 *   [The Beam Book](https://happi.github.io/theBeamBook/) - A description of the Erlang Runtime System ERTS and the virtual Machine BEAM.
 
-## [51. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [52. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Forms / Normal Forms
 
-*   [GitHub Issues](https://help.github.com/articles/about-issues/) - This is an interesting way for developers to get comments/questions. See [github.com/sindresorhus/ama (⭐124)](https://github.com/sindresorhus/ama) for an example.
-*   [Utterences (⭐7.2k)](https://github.com/utterance/utterances) - A lightweight comments widget built on GitHub issues.
+*   [GitHub Issues](https://help.github.com/articles/about-issues/) - This is an interesting way for developers to get comments/questions. See [github.com/sindresorhus/ama (⭐128)](https://github.com/sindresorhus/ama) for an example.
+*   [Utterences (⭐8.1k)](https://github.com/utterance/utterances) - A lightweight comments widget built on GitHub issues.
 
-## [52. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [53. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Pagination / Barcode
 
-*   [SlideController (⭐413)](https://github.com/touchlane/SlideController) - It is a nice alternative for UIPageViewController built using power of generic types. Swipe between pages with an interactive title navigation control. Configure horizontal or vertical chains for unlimited pages amount.
+*   [SlideController (⭐418)](https://github.com/touchlane/SlideController) - It is a nice alternative for UIPageViewController built using power of generic types. Swipe between pages with an interactive title navigation control. Configure horizontal or vertical chains for unlimited pages amount.
 
-## [53. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
+## [54. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
 
 ### Framework-Specific Libraries / React
 
 *   [Potion](http://numberpicture.com/build) - Low-level building blocks for constructing animated visualizations with React & D3.
 
-## [54. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [55. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Investigate Papers / HTML+CSS+JS
 
@@ -798,25 +818,25 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 *   [CC Search](https://ccsearch.creativecommons.org/): Search engine for images under CC License.
 
-## [55. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [56. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Related projects / Syntax highlighting packages
 
 *   [Digitized Speech in Game Boy Games](https://youtube.com/watch?v=1lzHfLYzyRM)
 
-## [56. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [57. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### R / Time Series
 
 *   [tibbletime (⭐178)](https://github.com/business-science/tibbletime) - Built on top of the tidyverse, tibbletime is an extension that allows for the creation of time aware tibbles through the setting of a time index.
 
-## [57. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [58. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Serverless Framework Plugins
 
 *   [Nocode (⭐10)](https://github.com/ServerlessOpsIO/serverless-nocode) - Deploy nocode via the Serverless Framework.
 
-## [58. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
+## [59. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
 
 ### Code
 
@@ -830,7 +850,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 *   [XRP Tip Bot for Reddit, Twitter & Discord](https://xrptipbot.com)
 
-## [59. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [60. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Layout
 
@@ -1224,7 +1244,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 
 
-## [60. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [61. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Conferences
 
@@ -1232,13 +1252,13 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### Resources / Examples
 
-*   [laravel-vue-boilerplate (⭐537)](https://github.com/alefesouza/laravel-vue-boilerplate) - A Laravel 5.5 SPA boilerplate with a users CRUD using Vue.js 2.5, Bootstrap 4, TypeScript, Sass, Pug and Jest.
-*   [Vue Design System (⭐2.1k)](https://github.com/viljamis/vue-design-system) - An open source boilerplate for building UI Design Systems with Vue.js.
-*   [Vue Bulma Demo (⭐49)](https://github.com/faisaltheparttimecoder/bulma-vuejs-demo-website) - A simple demo website to check out Bulma / Vue JS & express in conjunction.
+*   [laravel-vue-boilerplate (⭐541)](https://github.com/alefesouza/laravel-vue-boilerplate) - A Laravel 5.5 SPA boilerplate with a users CRUD using Vue.js 2.5, Bootstrap 4, TypeScript, Sass, Pug and Jest.
+*   [Vue Design System (⭐2.2k)](https://github.com/viljamis/vue-design-system) - An open source boilerplate for building UI Design Systems with Vue.js.
+*   [Vue Bulma Demo (⭐50)](https://github.com/faisaltheparttimecoder/bulma-vuejs-demo-website) - A simple demo website to check out Bulma / Vue JS & express in conjunction.
 
 ### Projects Using Vue.js / Open Source
 
-*   [Leo Vue (⭐156)](https://github.com/kaleguy/leovue) - Use the open source Leo outlining editor/IDE to create webapps with nested menus, with support for Vue components in content.
+*   [Leo Vue (⭐161)](https://github.com/kaleguy/leovue) - Use the open source Leo outlining editor/IDE to create webapps with nested menus, with support for Vue components in content.
 
 ### Components & Libraries / UI Components
 

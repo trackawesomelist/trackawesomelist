@@ -16,7 +16,7 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [akka.net (⭐4.2k)](https://github.com/akkadotnet/akka.net) - Toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono.
+*   [akka.net (⭐4.5k)](https://github.com/akkadotnet/akka.net) - Toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono.
 
 ## [3. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -38,11 +38,11 @@
 
 ### Date
 
-*   [Datify (⭐44)](https://github.com/hemangshah/Datify) - Easypeasy date functions.
+*   [Datify (⭐43)](https://github.com/hemangshah/Datify) - Easypeasy date functions.
 
 ### Auto Layout / Barcode
 
-*   [Cupcake (⭐288)](https://github.com/nerdycat/Cupcake) - An easy way to create and layout UI components for iOS.
+*   [Cupcake (⭐286)](https://github.com/nerdycat/Cupcake) - An easy way to create and layout UI components for iOS.
 
 ### Logging / Barcode
 
@@ -54,7 +54,7 @@
 
 ### Calendar / Barcode
 
-*   [Workaholic (⭐116)](https://github.com/hemangshah/Workaholic) - A GitHub-like work contribution timeline.
+*   [Workaholic (⭐115)](https://github.com/hemangshah/Workaholic) - A GitHub-like work contribution timeline.
 
 ## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

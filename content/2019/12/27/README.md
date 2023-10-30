@@ -22,56 +22,55 @@
 
 ### Asset Management
 
-*   [AssetCompress plugin](https://github.com/markstory/asset_compress) - A complete asset manager for CakePHP.
+*   🍰 [AssetCompress plugin (⭐366)](https://github.com/markstory/asset_compress) - A complete asset manager for CakePHP.
 
 ### Authentication and Authorization
 
-*   [Authentication plugin](https://github.com/cakephp/authentication) - Official CakePHP authentication middleware plugin.
-*   [Authorization plugin](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.
-*   [TinyAuth plugin (⭐129)](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role based (single/multi) authorization as very light-weight approach.
+*   🍰 [Authentication plugin (⭐108)](https://github.com/cakephp/authentication) - Official CakePHP authentication middleware plugin.
+*   🍰 [Authorization plugin (⭐67)](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.
+*   🍰 [TinyAuth plugin (⭐126)](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role based (single/multi) authorization as very light-weight approach.
 
 ### Code Analysis
 
-*   [IdeHelper plugin](https://github.com/dereuromark/cakephp-ide-helper) - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code.
+*   🍰 [IdeHelper plugin (⭐176)](https://github.com/dereuromark/cakephp-ide-helper) - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code.
 
 ### I18n
 
-*   [ADmad/I18n plugin (⭐40)](https://github.com/ADmad/cakephp-i18n) - A plugin with I18n related tools.
-*   [ShadowTranslate plugin](https://github.com/AD7six/cakephp-shadow-translate) - A plugin with shadow table based replacement for core's Translate behavior.
+*   🍰 [ADmad/I18n plugin (⭐42)](https://github.com/ADmad/cakephp-i18n) - A plugin with I18n related tools.
 
 ### Imagery
 
-*   [ADmad/Glide plugin (⭐34)](https://github.com/ADmad/cakephp-glide) - A plugin for using [Glide](https://glide.thephpleague.com/) image manipulation library.
+*   🍰 [ADmad/Glide plugin (⭐34)](https://github.com/ADmad/cakephp-glide) - A plugin for using [Glide](https://glide.thephpleague.com/) image manipulation library.
 
 ### Miscellaneous
 
-*   [Flash plugin](https://github.com/dereuromark/cakephp-flash) - More powerful flash messages for your application.
-*   [Shim plugin](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
+*   🍰 [Flash plugin (⭐12)](https://github.com/dereuromark/cakephp-flash) - More powerful flash messages for your application.
+*   🍰 [Shim plugin (⭐37)](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
 
 ### ORM / Database / Datamapping
 
-*   [ADmad/Sequence plugin](https://github.com/ADmad/cakephp-sequence) - Behavior for maintaining ordered list of records.
-*   [Duplicatable plugin (⭐45)](https://github.com/riesenia/cakephp-duplicatable) - Behavior for duplicating entities including related data.
-*   [Muffin/Orderly plugin](https://github.com/usemuffin/orderly) - Allows setting default order for your tables.
-*   [Muffin/Webservices ORM plugin (⭐84)](https://github.com/usemuffin/webservice) - An ORM like interface for webservices.
+*   🍰 [ADmad/Sequence plugin (⭐42)](https://github.com/ADmad/cakephp-sequence) - Behavior for maintaining ordered list of records.
+*   🍰 [Duplicatable plugin (⭐45)](https://github.com/riesenia/cakephp-duplicatable) - Behavior for duplicating entities including related data.
+*   🍰 [Muffin/Orderly plugin (⭐21)](https://github.com/usemuffin/orderly) - Allows setting default order for your tables.
+*   [Muffin/Webservices ORM plugin (⭐87)](https://github.com/usemuffin/webservice) - An ORM like interface for webservices.
 
 ### PDF
 
-*   [CakePdf plugin](https://github.com/FriendsOfCake/CakePdf) - A plugin around PDF generation.
+*   🍰 [CakePdf plugin (⭐374)](https://github.com/FriendsOfCake/CakePdf) - A plugin around PDF generation.
 
 ### Security
 
-*   [Muffin/Throttle plugin (⭐59)](https://github.com/usemuffin/throttle) - A plugin for rate limiting (API) requests.
+*   🍰 [Muffin/Throttle plugin (⭐60)](https://github.com/usemuffin/throttle) - A plugin for rate limiting (API) requests.
 
 ### SEO
 
-*   [Muffin/Slug plugin (⭐33)](https://github.com/UseMuffin/Slug) - A plugin for generating slugs and finding records by slug. Uses a pluggable architecture which allows using your own slug generator class.
+*   🍰 [Muffin/Slug plugin (⭐33)](https://github.com/UseMuffin/Slug) - A plugin for generating slugs and finding records by slug. Uses a pluggable architecture which allows using your own slug generator class.
 
 ### Templating
 
-*   [Bake plugin](https://github.com/cakephp/bake) - Provides code generation functionality.
-*   [BootstrapUI plugin (⭐325)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 3 integration.
-*   [CsvView plugin (⭐173)](https://github.com/FriendsOfCake/cakephp-csvview) - A view class to easily generate CSV.
+*   🍰 [Bake plugin (⭐100)](https://github.com/cakephp/bake) - Provides code generation functionality.
+*   🍰 [BootstrapUI plugin (⭐333)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 4/5 integration.
+*   🍰 [CsvView plugin (⭐175)](https://github.com/FriendsOfCake/cakephp-csvview) - A view class to easily generate CSV.
 
 ## [4. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -93,11 +92,11 @@
 
 ### Forms
 
-*   [staticforms.xyz](https://www.staticforms.xyz/) - Integrate HTML forms easily without any server side code for free. After user submits the form an email will be sent to your registered address with form content.
+*   [staticforms.xyz](https://www.staticforms.xyz/) - Integrate HTML forms easily without any server-side code for free. After the user submits the form, an email with the form content will be sent to your registered address.
 
 ### Design and UI
 
-*   [Webflow](https://webflow.com) - WYSIWYG web site builder with animations and website hosting. Free for 2 projects.
+*   [Webflow](https://webflow.com) - WYSIWYG website builder with animations and website hosting. Free for two projects.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Resources / Books
 
-*   [Professor Frisby’s Mostly Adequate Guide to Functional Programming (⭐22k)](https://github.com/MostlyAdequate/mostly-adequate-guide) – This is a book on the functional paradigm in general using the world’s most popular functional programming language: JavaScript. It’s a practical introduction that builds up intuition through real-world examples. Strongly recommended. By [Brian Lonsdorf](https://twitter.com/drboolean) (2016)
+*   [Professor Frisby’s Mostly Adequate Guide to Functional Programming (⭐23k)](https://github.com/MostlyAdequate/mostly-adequate-guide) – This is a book on the functional paradigm in general using the world’s most popular functional programming language: JavaScript. It’s a practical introduction that builds up intuition through real-world examples. Strongly recommended. By [Brian Lonsdorf](https://twitter.com/drboolean) (2016)
 *   [JavaScript Allongé](https://leanpub.com/javascriptallongesix), the “Six” edition. Starts with as little as possible about functions – but no less! – and builds up towards powerful combinators and decorators. A foundational book. By [Reginald  Braithwaite](https://github.com/raganwald) (2016)
 *   [Functional Programming in JavaScript](https://www.manning.com/books/functional-programming-in-javascript) teaches JavaScript developers functional techniques that will improve extensibility, modularity, reusability, testability, and performance. Through concrete examples and jargon-free explanations, this book teaches you how to apply functional programming to real-life development tasks. By Luis Atencio (2016)
 *   [Eloquent JavaScript](http://eloquentjavascript.net/). A modern introduction to programming using JavaScript. By Marijn Haverbeke (2014)
@@ -34,7 +34,7 @@
 
 ### Resources / Examples and Exercises
 
-*   [FPJS-Class (⭐95)](https://github.com/loop-recur/FPJS-Class) – Functional Programming learned through JavaScript.
+*   [FPJS-Class (⭐94)](https://github.com/loop-recur/FPJS-Class) – Functional Programming learned through JavaScript.
 *   [functional-javascript-workshop (⭐2k)](https://github.com/timoxley/functional-javascript-workshop) – The goal of this workshop is to create realistic problems that can be solved using terse, vanilla, idiomatic JavaScript to teach fundamental functional programming features of JavaScript.
 
 ## [2. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
@@ -54,9 +54,9 @@
 ### Testing
 
 *   GUI / Web Testing
-    *   [locust (⭐21k)](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
-    *   [PyAutoGUI (⭐7.9k)](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
-    *   [Schemathesis (⭐1.6k)](https://github.com/kiwicom/schemathesis) - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.
+    *   [locust (⭐22k)](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
+    *   [PyAutoGUI (⭐8.3k)](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
+    *   [Schemathesis (⭐1.8k)](https://github.com/kiwicom/schemathesis) - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.
     *   [Selenium](https://pypi.org/project/selenium/) - Python bindings for [Selenium](http://www.seleniumhq.org/) WebDriver.
     *   [sixpack (⭐1.7k)](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework.
     *   [splinter (⭐2.6k)](https://github.com/cobrateam/splinter) - Open source tool for testing web applications.

@@ -29,7 +29,7 @@
 
 ### Torrent Clients / rTorrent
 
-*   [rtorrent-ps (⭐429)](https://github.com/pyroscope/rtorrent-ps) Extended rTorrent distribution with a fully customizable canvas and colors, other feature additions, and complete docs.
+*   [rtorrent-ps (⭐442)](https://github.com/pyroscope/rtorrent-ps) Extended rTorrent distribution with a fully customizable canvas and colors, other feature additions, and complete docs.
 
 ### Usenet Indexers / Usenet Indexing Software
 
@@ -47,7 +47,7 @@
 
 *   [acestream.org](http://acestream.org/) Ace Stream is a peer-to-peer streaming application that lets you stream live sports and other content
 *   [AceStreamSearch](https://acestreamsearch.com/en/) Ace Stream Broadcasts Search
-*   [aceproxy (⭐192)](https://github.com/ValdikSS/aceproxy) Ace Stream HTTP Proxy. (abandonware)
+*   [aceproxy (⭐194)](https://github.com/ValdikSS/aceproxy) Ace Stream HTTP Proxy. (abandonware)
 *   [iktason/aceproxy](https://hub.docker.com/r/ikatson/aceproxy/) A docker image to run aceengine + aceproxy, e.g. to watch Torrent-TV.ru.
 
 ### IRC Networks / Third Party Hosts
@@ -95,7 +95,7 @@
 
 ### Concurrency
 
-*   [libdispatch (⭐2.3k)](https://github.com/apple/swift-corelibs-libdispatch) - Grand Central Dispatch (GCD), developed by Apple Inc., is a task parallelism technology based on the thread pool pattern. libdispatch is a library that provides the implementation of GCD's services. \[Apache-2.0] [website](https://apple.github.io/swift-corelibs-libdispatch/)
+*   [libdispatch (⭐2.4k)](https://github.com/apple/swift-corelibs-libdispatch) - Grand Central Dispatch (GCD), developed by Apple Inc., is a task parallelism technology based on the thread pool pattern. libdispatch is a library that provides the implementation of GCD's services. \[Apache-2.0] [website](https://apple.github.io/swift-corelibs-libdispatch/)
 
 ## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

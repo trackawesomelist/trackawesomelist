@@ -33,25 +33,25 @@
 
 ### Development Environment
 
-*   [CakePHP Vagrant Setup](https://github.com/cpierce/cakephp-vagrant-setup) - Tool for spinning up multiple CakePHP 3.x Vanilla Dev Environments.
+*   [CakePHP Vagrant Setup (⭐5)](https://github.com/cpierce/cakephp-vagrant-setup) - Tool for spinning up multiple CakePHP vanilla dev environments.
 
 ## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### E-Commerce and Payments
 
-*   [Braintree (⭐429)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
+*   [Braintree (⭐433)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
 
 ## [5. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 
 ### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
-*   [Русский (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU)
+*   [Русский (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU)
 
 ## [6. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Modules / Stream
 
-*   [split (⭐345)](https://github.com/dominictarr/split) - Break up a stream and reassemble it so that each line is a chunk.
+*   [split (⭐346)](https://github.com/dominictarr/split) - Break up a stream and reassemble it so that each line is a chunk.
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

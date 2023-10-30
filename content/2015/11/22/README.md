@@ -47,11 +47,11 @@
 
 ### Key Value Store
 
-*   [Prephirences (⭐560)](https://github.com/phimage/Prephirences) - Manage application preferences, NSUserDefaults, iCloud, Keychain and more.
+*   [Prephirences (⭐564)](https://github.com/phimage/Prephirences) - Manage application preferences, NSUserDefaults, iCloud, Keychain and more.
 
 ### Logging / Barcode
 
-*   [XCGLogger (⭐3.8k)](https://github.com/DaveWoodCom/XCGLogger) - Full featured & Configurable logging utility with log levels, timestamps, and line numbers.
+*   [XCGLogger (⭐3.9k)](https://github.com/DaveWoodCom/XCGLogger) - Full featured & Configurable logging utility with log levels, timestamps, and line numbers.
 
 ## [6. Guides](/content/NARKOZ/guides/README.md)
 

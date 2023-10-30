@@ -8,9 +8,9 @@
 
 ## [1. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
-### Alternatives / Articles
+### Ports to other languages
 
-*   [LangchainRb (⭐121)](https://github.com/andreibondarev/langchainrb): Ruby Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/andreibondarev/langchainrb?style=social)
+*   [LangchainRb (⭐620)](https://github.com/andreibondarev/langchainrb): Ruby Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/andreibondarev/langchainrb?style=social)
 
 ## [2. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
@@ -20,10 +20,10 @@
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
-### Starter Templates
+### Starter Templates / Diagnostics
 
-*   [tokiory/neovim-boilerplate (⭐8)](https://github.com/tokiory/neovim-boilerplate) - Starter boilerplate for making new configurations.
-*   [frans-johansson/lazy-nvim-starter (⭐7)](https://github.com/frans-johansson/lazy-nvim-starter) - Starter boilerplate with lazy plugin manager.
+*   [tokiory/neovim-boilerplate (⭐52)](https://github.com/tokiory/neovim-boilerplate) - Starter boilerplate for making new configurations.
+*   [frans-johansson/lazy-nvim-starter (⭐46)](https://github.com/frans-johansson/lazy-nvim-starter) - Starter boilerplate with lazy plugin manager.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -33,11 +33,11 @@
 
 ### BaaS
 
-*   [nudge-hook.net](https://nudge-hook.net/client) — Job Scheduling API (with swagger/openapi client). Allows you to schedule as many adhoc/cron/periodic webhook deliveries as you like. Free for everyone (no signup required), but infinite schedules are limited to 500 'nudges' max. Accepts donations.
+*   [nudge-hook.net](https://nudge-hook.net/client) — Job Scheduling API (with swagger/openapi client). Allows you to schedule as many ad-hoc/cron/periodic webhook deliveries as possible. Free for everyone (no signup required), but infinite schedules are limited to 500 'nudges' max. Accepts donations.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [ssh-quickconnect (⭐0)](https://github.com/breda/zsh-ssh-quickconnect) - Simple utility to quickly connect to hosts from your `ssh` config & `known_hosts` file.
 
@@ -55,9 +55,9 @@
 
 ## [8. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
-*   [tpm (⭐66)](https://github.com/Madh93/tpm) - A package manager for Terraform providers.
+*   [tpm (⭐75)](https://github.com/Madh93/tpm) - A package manager for Terraform providers.
 
 ---
 

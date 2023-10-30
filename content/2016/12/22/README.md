@@ -16,7 +16,7 @@
 
 ### Command Line Applications
 
-*   [loki (⭐81)](https://github.com/khusnetdinov/loki) - Library for creating interactive command-line application.
+*   [loki (⭐84)](https://github.com/khusnetdinov/loki) - Library for creating interactive command-line application.
 
 ### Images
 
@@ -79,13 +79,13 @@
 
 ### Network / Honey Pot / Honey Net
 
-*   [awesome-honeypots (⭐7k)](https://github.com/paralax/awesome-honeypots) - The canonical awesome honeypot list.
+*   [awesome-honeypots (⭐7.4k)](https://github.com/paralax/awesome-honeypots) - The canonical awesome honeypot list.
 
 ## [7. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Widgets
 
-*   [Wagtail-Geo-Widget (⭐113)](https://github.com/Frojd/wagtail-geo-widget) - Google Maps widget for the GeoDjango PointField field in Wagtail.
+*   [Wagtail-Geo-Widget (⭐122)](https://github.com/Frojd/wagtail-geo-widget) - Google Maps widget for the GeoDjango PointField field in Wagtail.
 
 ---
 

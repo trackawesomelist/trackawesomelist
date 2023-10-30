@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 18 - Jan 24, 2021
 
-55 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Command Line
 
-*   [Swift Argument Parser (⭐2.9k)](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift.
+*   [Swift Argument Parser (⭐3.1k)](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift.
 
 ### Cards / Barcode
 
@@ -20,7 +20,7 @@
 
 ### Articles
 
-*   [Install npm packages globally without sudo on macOS and Linux (⭐2.3k)](https://github.com/sindresorhus/guides/blob/main/npm-global-without-sudo.md)
+*   [Install npm packages globally without sudo on macOS and Linux (⭐2.4k)](https://github.com/sindresorhus/guides/blob/main/npm-global-without-sudo.md)
 
 ## [3. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
 
@@ -137,13 +137,7 @@
 *   [Klipfolio](https://www.klipfolio.com/) - Klipfolio is an online dashboard platform for building powerful real-time business dashboards for your team or your clients. `©` `SaaS`
 *   [Vizia](https://www.brandwatch.com/products/vizia/) - Visual command center dashboarding solution `©` `SaaS`
 
-## [4. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
-
-### About Web Monetization
-
-*   [Documentation](https://webmonetization.org/docs/getting-started)
-
-## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Cryptocurrencies
 
@@ -151,43 +145,24 @@
 
 ### Applications / System tools
 
-*   [cristianoliveira/funzzy (⭐198)](https://github.com/cristianoliveira/funzzy) — A configurable filesystem watcher inspired by [entr](http://eradman.com/entrproject/)
+*   [cristianoliveira/funzzy (⭐207)](https://github.com/cristianoliveira/funzzy) — A configurable filesystem watcher inspired by [entr](http://eradman.com/entrproject/)
 
 ### Libraries / GUI
 
-*   [ImGui (⭐48k)](https://github.com/ocornut/imgui)
-    *   [imgui-rs (⭐2.2k)](https://github.com/imgui-rs/imgui-rs) — Rust bindings for ImGui [![Build Status](https://github.com/imgui-rs/imgui-rs/workflows/ci/badge.svg?branch=master)](https://github.com/imgui-rs/imgui-rs/actions)
+*   [ImGui (⭐51k)](https://github.com/ocornut/imgui)
+    *   [imgui-rs (⭐2.3k)](https://github.com/imgui-rs/imgui-rs) — Rust bindings for ImGui [![Build Status](https://github.com/imgui-rs/imgui-rs/workflows/ci/badge.svg?branch=master)](https://github.com/imgui-rs/imgui-rs/actions)
 
-## [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Collaboration/Education
 
-*   [nbgitpuller (⭐179)](https://github.com/jupyterhub/nbgitpuller) - Sync a git repository one-way to a local path.
+*   [nbgitpuller (⭐183)](https://github.com/jupyterhub/nbgitpuller) - Sync a git repository one-way to a local path.
 
-## [7. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
-
-### 0 - 言語非依存 / ネットワーキング
-
-*   [http2 explained](https://http2-explained.haxx.se/ja) - Daniel Stenberg
-
-### 0 - 言語非依存 / 機械学習
-
-*   [強化学習入門 (⭐202)](https://github.com/komi1230/Resume/raw/master/book_reinforcement/book.pdf) - 小南佑介 (PDF)
-
-### Processing / Symfony
-
-*   [Processing 入門講座](http://ap.kakoku.net/index.html) - maeda
-
-### R / Flask
-
-*   [Rによる保健医療データ解析演習](http://minato.sip21c.org/msb/medstatbook.pdf) - 中澤港 (PDF)
-*   [無料統計ソフトRで心理学](http://blue.zero.jp/yokumura/Rhtml/Haebera2002.html) - 奥村泰之
-
-## [8. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [6. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Models and Projects / JAX
 
-*   [Fourier Feature Networks (⭐962)](https://github.com/tancik/fourier-feature-networks) - Official implementation of [*Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains*](https://people.eecs.berkeley.edu/~bmild/fourfeat).
+*   [Fourier Feature Networks (⭐1.1k)](https://github.com/tancik/fourier-feature-networks) - Official implementation of [*Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains*](https://people.eecs.berkeley.edu/~bmild/fourfeat).
 
 ### Videos / NumPyro
 
@@ -206,7 +181,7 @@
 
 *   [Using JAX to accelerate our research by David Budden and Matteo Hessel](https://deepmind.com/blog/article/using-jax-to-accelerate-our-research) - Describes the state of JAX and the JAX ecosystem at DeepMind.
 *   [Getting started with JAX (MLPs, CNNs & RNNs) by Robert Lange](https://roberttlange.github.io/posts/2020/03/blog-post-10/) - Neural network building blocks from scratch with the basic JAX operators.
-*   [Tutorial: image classification with JAX and Flax Linen by 8bitmp3 (⭐18)](https://github.com/8bitmp3/JAX-Flax-Tutorial-Image-Classification-with-Linen) - Learn how to create a simple convolutional network with the Linen API by Flax and train it to recognize handwritten digits.
+*   [Tutorial: image classification with JAX and Flax Linen by 8bitmp3 (⭐21)](https://github.com/8bitmp3/JAX-Flax-Tutorial-Image-Classification-with-Linen) - Learn how to create a simple convolutional network with the Linen API by Flax and train it to recognize handwritten digits.
 *   [Meta-Learning in 50 Lines of JAX by Eric Jang](https://blog.evjang.com/2019/02/maml-jax.html) - Introduction to both JAX and Meta-Learning.
 *   [Normalizing Flows in 100 Lines of JAX by Eric Jang](https://blog.evjang.com/2019/07/nf-jax.html) - Concise implementation of [RealNVP](https://arxiv.org/abs/1605.08803).
 *   [Differentiable Path Tracing on the GPU/TPU by Eric Jang](https://blog.evjang.com/2019/11/jaxpt.html) - Tutorial on implementing path tracing.
@@ -214,13 +189,13 @@
 *   [Understanding Autodiff with JAX by Srihari Radhakrishna](https://www.radx.in/jax.html) - Understand how autodiff works using JAX.
 *   [From PyTorch to JAX: towards neural net frameworks that purify stateful code by Sabrina J. Mielke](https://sjmielke.com/jax-purify.htm) - Showcases how to go from a PyTorch-like style of coding to a more Functional-style of coding.
 
-## [9. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [7. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Projects / Boilerplate
 
-*   [launchr (⭐201)](https://github.com/jayfk/launchr) - Launchr is a specialized Django starter template for SaaS web apps.
+*   [launchr (⭐220)](https://github.com/jayfk/launchr) - Launchr is a specialized Django starter template for SaaS web apps.
 
-## [10. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
+## [8. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
 ### Topic Areas / Comprehensive R Tutorials
 
@@ -232,34 +207,48 @@
 
 *   [Data Science in Education Using R](https://datascienceineducation.com/) - This book is primarily about learning to use R as a tool for data science in education. Authors: Ryan A. Estrellado, Emily A. Bovee, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez.
 
-## [11. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+
+### Tools
+
+*   🔧 [create-tailwind-plugin (⭐21)](https://github.com/Landish/create-tailwind-plugin) - Plugin scaffolder for Tailwind CSS.
+
+### UI Libraries, Components & Templates
+
+*   🧩📁 [themes.dev](https://www.themes.dev/) - Handcrafted, free and premium Tailwind CSS themes and components.
+
+### Learning
+
+*   🎓 [Typographic defaults in Tailwind CSS](https://www.themes.dev/blog/typographic-defaults-in-tailwind-css/)
+
+## [10. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Simulators / Object detection and object tracking
 
 *   [AirSim](https://microsoft.github.io/AirSim) - Unreal Engine based simulator for drones and automotive. Compatible with ROS.
-    *   [GitHub repository :octocat: (⭐14k)](https://github.com/microsoft/AirSim)
+    *   [GitHub repository :octocat: (⭐15k)](https://github.com/microsoft/AirSim)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=gnz1X3UNM5Y)
 
 ### Related awesome / Object detection and object tracking
 
-*   [Awesome point cloud analysis :octocat: (⭐3.6k)](https://github.com/Yochengliu/awesome-point-cloud-analysis#readme)
-*   [Awesome robotics :octocat: (⭐3.2k)](https://github.com/Kiloreux/awesome-robotics#readme)
-*   [Awesome robotics libraries :octocat: (⭐1.7k)](https://github.com/jslee02/awesome-robotics-libraries#readme)
-*   [Awesome artificial intelligence :octocat: (⭐7.4k)](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
-*   [Awesome computer vision :octocat: (⭐18k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
-*   [Awesome machine learning :octocat: (⭐58k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
-*   [Awesome deep learning :octocat: (⭐20k)](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
-*   [Awesome reinforcement learning :octocat: (⭐8.1k)](https://github.com/aikorea/awesome-rl/#readme)
-*   [Awesome SLAM datasets :octocat: (⭐1.2k)](https://github.com/youngguncho/awesome-slam-datasets#readme)
-*   [Awesome vehicle security and car hacking :octocat: (⭐2.4k)](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
+*   [Awesome point cloud analysis :octocat: (⭐3.8k)](https://github.com/Yochengliu/awesome-point-cloud-analysis#readme)
+*   [Awesome robotics :octocat: (⭐3.4k)](https://github.com/Kiloreux/awesome-robotics#readme)
+*   [Awesome robotics libraries :octocat: (⭐1.9k)](https://github.com/jslee02/awesome-robotics-libraries#readme)
+*   [Awesome artificial intelligence :octocat: (⭐8.1k)](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
+*   [Awesome computer vision :octocat: (⭐19k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
+*   [Awesome machine learning :octocat: (⭐60k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
+*   [Awesome deep learning :octocat: (⭐21k)](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
+*   [Awesome reinforcement learning :octocat: (⭐8.3k)](https://github.com/aikorea/awesome-rl/#readme)
+*   [Awesome SLAM datasets :octocat: (⭐1.4k)](https://github.com/youngguncho/awesome-slam-datasets#readme)
+*   [Awesome vehicle security and car hacking :octocat: (⭐2.5k)](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 
-## [12. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [11. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Node.js management
 
-*   [fnm (⭐12k)](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
+*   [fnm (⭐14k)](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
 
-## [13. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [12. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -269,7 +258,7 @@
 
 *   [97 Things Every SRE Should Know](https://www.oreilly.com/library/view/97-things-every/9781492081487/)
 
-## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### HTTP
 
@@ -277,15 +266,15 @@
 
 ### Misc
 
-*   [Quickenshtein (⭐230)](https://github.com/Turnerj/Quickenshtein) - An extremely quick and memory efficient Levenshtein Distance calculator with SIMD and Threading support
+*   [Quickenshtein (⭐252)](https://github.com/Turnerj/Quickenshtein) - An extremely quick and memory efficient Levenshtein Distance calculator with SIMD and Threading support
 
-## [15. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [14. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
 *   [Introduction to Quantum Computing](https://home.cern/news/announcement/computing/online-introductory-lectures-quantum-computing-6-november) - Online introductory lectures on quantum computing by CERN (European Organization for Nuclear Research).
 
-## [16. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
+## [15. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
 
 ### Projects / Smart Home and IoT
 
@@ -299,122 +288,122 @@
 
 *   [CanAirIO SensorLib (⭐25)](https://github.com/kike-canaries/canairio_sensorlib#canairio-air-quality-sensors-library) - ESP32/8266 library with auto-configuration of multiple PM2.5, CO2 and environment sensors.
 
-## [17. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
+## [16. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
 ### Blog posts and opinions
 
 *   [Contributing to Prometheus](https://atibhiagrawal.medium.com/contributing-to-prometheus-2bf35bd28256) - Contributing to Prometheus by Atibhi Agrawal.
 
-## [18. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [17. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / Interactivity
 
-*   [Jupyter ROS2 (⭐22)](https://github.com/zmk5/jupyter-ros2) - Jupyter widget helpers for ROS2.
+*   [Jupyter ROS2 (⭐23)](https://github.com/zmk5/jupyter-ros2) - Jupyter widget helpers for ROS2.
 
 ### Companies / Robotics Capture the Flag (RCTF)
 
 *   [iRobot](https://www.irobot.de/) - Manufacturer of vacuuming and mopping robots.
 
-## [19. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [18. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Database Drivers
 
-*   SQlite - [awesome-sqlite (⭐218)](https://github.com/planetopendata/awesome-sqlite)
+*   SQlite - [awesome-sqlite (⭐229)](https://github.com/planetopendata/awesome-sqlite)
     *   [sqlite3](https://docs.python.org/3/library/sqlite3.html) - (Python standard library) SQlite interface compliant with DB-API 2.0
-    *   [SuperSQLite (⭐705)](https://github.com/plasticityai/supersqlite) - A supercharged SQLite library built on top of [apsw (⭐629)](https://github.com/rogerbinns/apsw).
+    *   [SuperSQLite (⭐711)](https://github.com/plasticityai/supersqlite) - A supercharged SQLite library built on top of [apsw (⭐648)](https://github.com/rogerbinns/apsw).
 
-## [20. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [19. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Audio
 
-*   [0x40-web (⭐310)](https://github.com/mon/0x40-web) - HTML5/CSS3 Canvas + Web Audio clone of the 0x40 Hues Flash. \[English]
+*   [0x40-web (⭐347)](https://github.com/mon/0x40-web) - HTML5/CSS3 Canvas + Web Audio clone of the 0x40 Hues Flash. \[English]
 *   [chiru.no](https://chiru.no/) - High quality ACG music streaming. \[English]
 *   [Mikutap](https://aidn.jp/mikutap/) - Interactive music mixer with Hatsune Miku. \[English]
 *   [moefm.sh (⭐15)](https://github.com/mike2718/moefm.sh) - Client script for moefm radio. \[中文]
 
 ### Danmaku
 
-*   [ABPlayerHTML5 (⭐878)](https://github.com/jabbany/ABPlayerHTML5) - Video Player for danmaku comments. ABPlayer in HTML5. \[English/中文]
-*   [CommentCoreLibrary (⭐1.8k)](https://github.com/jabbany/CommentCoreLibrary) - Javascript Live Comment (Danmaku) Engine Implementation. \[English/中文]
-*   [Danmaku (⭐548)](https://github.com/weizhenye/Danmaku) - High performance JavaScript danmaku engine. \[English/中文]
-*   [danmaku2ass (⭐480)](https://github.com/m13253/danmaku2ass) - Convert comments from Niconico/AcFun/bilibili to ASS format. \[English/中文]
+*   [ABPlayerHTML5 (⭐876)](https://github.com/jabbany/ABPlayerHTML5) - Video Player for danmaku comments. ABPlayer in HTML5. \[English/中文]
+*   [CommentCoreLibrary (⭐1.9k)](https://github.com/jabbany/CommentCoreLibrary) - Javascript Live Comment (Danmaku) Engine Implementation. \[English/中文]
+*   [Danmaku (⭐589)](https://github.com/weizhenye/Danmaku) - High performance JavaScript danmaku engine. \[English/中文]
+*   [danmaku2ass (⭐517)](https://github.com/m13253/danmaku2ass) - Convert comments from Niconico/AcFun/bilibili to ASS format. \[English/中文]
 *   [DPlayer (⭐14k)](https://github.com/DIYgod/DPlayer) - HTML5 danmaku video player. \[English/中文]
 
 ### Downloaders
 
-*   [Albireo (⭐124)](https://github.com/lordfriend/Albireo) - Bangumi auto download and management project. It has a webclient called [Deneb (⭐30)](https://github.com/lordfriend/Deneb). \[English]
-*   [anilist-crawler (⭐41)](https://github.com/soruly/anilist-crawler) - Crawl data from anilist API and store in elasticsearch. \[English]
-*   [BooruDownloader (⭐19)](https://github.com/fgRuslan/BooruDownloader) - Downloader for gelbooru, danbooru and other websites that use their engines. \[English]
-*   [CeJS (⭐2.2k)](https://github.com/kanasimi/work_crawler) - Online novels / comics downloader. \[English/中文]
-*   [Comic-DL (⭐476)](https://github.com/Xonshiz/comic-dl) - Command line tool to download manga and comics from various comic and manga sites. \[English]
-*   [Danbooru Downloader (⭐336)](https://github.com/Nandaka/DanbooruDownloader) - Downloader for [Danbooru](https://danbooru.donmai.us/). \[English]
-*   [DMHY (⭐401)](https://github.com/yaqinking/DMHY) - Easily download/auto-download torrent(s) from share.dmhy.org / acg.rip etc. sites for OS X. \[中文]
-*   [E-Hentai-Downloader (⭐1.4k)](https://github.com/ccloli/E-Hentai-Downloader) - Download E-Hentai archive as zip file. \[English]
-*   [gallery-dl (⭐6.4k)](https://github.com/mikf/gallery-dl) - Command-line program to download image-galleries and -collections from several image hosting sites. \[English]
+*   [Albireo (⭐124)](https://github.com/lordfriend/Albireo) - Bangumi auto download and management project. It has a webclient called [Deneb (⭐32)](https://github.com/lordfriend/Deneb). \[English]
+*   [anilist-crawler (⭐42)](https://github.com/soruly/anilist-crawler) - Crawl data from anilist API and store in elasticsearch. \[English]
+*   [BooruDownloader (⭐33)](https://github.com/fgRuslan/BooruDownloader) - Downloader for gelbooru, danbooru and other websites that use their engines. \[English]
+*   [CeJS (⭐2.5k)](https://github.com/kanasimi/work_crawler) - Online novels / comics downloader. \[English/中文]
+*   [Comic-DL (⭐501)](https://github.com/Xonshiz/comic-dl) - Command line tool to download manga and comics from various comic and manga sites. \[English]
+*   [Danbooru Downloader (⭐359)](https://github.com/Nandaka/DanbooruDownloader) - Downloader for [Danbooru](https://danbooru.donmai.us/). \[English]
+*   [DMHY (⭐423)](https://github.com/yaqinking/DMHY) - Easily download/auto-download torrent(s) from share.dmhy.org / acg.rip etc. sites for OS X. \[中文]
+*   [E-Hentai-Downloader (⭐1.6k)](https://github.com/ccloli/E-Hentai-Downloader) - Download E-Hentai archive as zip file. \[English]
+*   [gallery-dl (⭐8.3k)](https://github.com/mikf/gallery-dl) - Command-line program to download image-galleries and -collections from several image hosting sites. \[English]
 *   [getComic (⭐193)](https://github.com/abcfy2/getComic) - Download tencent comics. \[中文]
-*   [imgbrd-grabber (⭐1.6k)](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features. \[English]
-*   [JComicDownloader (⭐232)](https://github.com/abc9070410/JComicDownloader) - Tool for downloading some comics and light novels from China. \[中文]
-*   [MangaRipper (⭐178)](https://github.com/NguyenDanPhuong/MangaRipper) - Download manga (Japanese Comic) from several websites for your offline viewing. \[English]
+*   [imgbrd-grabber (⭐2k)](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features. \[English]
+*   [JComicDownloader (⭐239)](https://github.com/abc9070410/JComicDownloader) - Tool for downloading some comics and light novels from China. \[中文]
+*   [MangaRipper (⭐184)](https://github.com/NguyenDanPhuong/MangaRipper) - Download manga (Japanese Comic) from several websites for your offline viewing. \[English]
 *   [OkanimeDownloader (⭐13)](https://github.com/MoHD20/OkanimeDownloader) - Scrape Arabic translated anime from [Okanime](http://okanime.com/) without any effort. \[English]
-*   [PixivUtil (Pixiv Downloader) (⭐2k)](https://github.com/Nandaka/PixivUtil2) - Downloader and tag manager for [Pixiv](https://www.pixiv.net/). \[English]
-*   [Pixiv Illust (⭐5)](https://github.com/HakurouKen/pixiv-illust/) - Both a downloader and a third-party Node.js api for [Pixiv](https://www.pixiv.net/). \[English]
-*   [you-get (⭐46k)](https://github.com/soimort/you-get) - Dumb downloader that scrapes the web. \[English]
+*   [PixivUtil (Pixiv Downloader) (⭐2.1k)](https://github.com/Nandaka/PixivUtil2) - Downloader and tag manager for [Pixiv](https://www.pixiv.net/). \[English]
+*   [Pixiv Illust (⭐6)](https://github.com/HakurouKen/pixiv-illust/) - Both a downloader and a third-party Node.js api for [Pixiv](https://www.pixiv.net/). \[English]
+*   [you-get (⭐48k)](https://github.com/soimort/you-get) - Dumb downloader that scrapes the web. \[English]
 
 ### Databases / Data Sources
 
 *   [AniDB API](https://wiki.anidb.net/w/API) - Official API for [AniDB](https://anidb.net/). \[English]
-*   [Anilist APIv2 (⭐810)](https://github.com/AniList/ApiV2-GraphQL-Docs) - Official API for [Anilist](https://anilist.co/). \[English]
-*   [Anilogia (⭐310)](https://github.com/anilogia/animedb) - Anime list database. \[日本語]
-*   [anime-relations (⭐72)](https://github.com/erengy/anime-relations) - Episode redirections for Taiga. \[English]
+*   [Anilist APIv2 (⭐951)](https://github.com/AniList/ApiV2-GraphQL-Docs) - Official API for [Anilist](https://anilist.co/). \[English]
+*   [Anilogia (⭐314)](https://github.com/anilogia/animedb) - Anime list database. \[日本語]
+*   [anime-relations (⭐81)](https://github.com/erengy/anime-relations) - Episode redirections for Taiga. \[English]
 *   [animecharactersdatabase](https://www.animecharactersdatabase.com) - A anime characters database. \[English]
 *   [Animeloop](https://animeloop.org/) - Website for animeloop-cli. \[English]
 *   [atwiki](https://www7.atwiki.jp/anime_wiki/) - A wiki anime STAFF. \[日本語]
-*   [arm-server (⭐69)](https://github.com/BeeeQueue/arm-server) - A service for mapping Anime ID's between AniList, AniDB, MAL, and Kitsu. \[English]
+*   [arm-server (⭐78)](https://github.com/BeeeQueue/arm-server) - A service for mapping Anime ID's between AniList, AniDB, MAL, and Kitsu. \[English]
 *   [Atarashii API](https://bitbucket.org/animeneko/atarashii-api) - Unofficial API for [MyAnimeList](http://myanimelist.net/). \[English]
-*   [Bangumi Data (⭐411)](https://github.com/bangumi-data/bangumi-data) - Raw data for Japanese Anime. \[中文]
+*   [Bangumi Data (⭐436)](https://github.com/bangumi-data/bangumi-data) - Raw data for Japanese Anime. \[中文]
 *   [cal.syoboi](https://cal.syoboi.jp) - anime bangumi timeline. \[日本語]
 *   [Dhufufu (⭐2)](https://github.com/sorz/dhufufu) - Additional API Docs for some Chinese ACG sites & Related Services (currently outdated). \[中文]
-*   [E-HentaiCrawler (⭐374)](https://github.com/shuiqukeyou/E-HentaiCrawler) - E-Heitai Crawler. \[中文]
+*   [E-HentaiCrawler (⭐377)](https://github.com/shuiqukeyou/E-HentaiCrawler) - E-Heitai Crawler. \[中文]
 *   [gochiusa-faces-dataset](https://www.kaggle.com/rignak/gochiusa-faces) - A croped animeface dataset from 'Gochuumon wa Usagi Desuka?' \[English]
 *   [一言（ヒトコト）](http://hitokoto.cn) - Get random quotes from ACG. \[中文]
 *   [hummingbird.me](https://github.com/hummingbird-me) - Anime discovery platform. \[English]
 *   [iakesi (⭐6)](https://github.com/zend10/iakesi) - A website collection to map anime scene to real life locations(圣地巡礼). \[English]
 *   [Jikan API](https://jikan.moe) - Unofficial API for [MyAnimeList](https://myanimelist.net/). \[English]
-*   [nyaa (⭐3k)](https://github.com/nyaadevs/nyaa) - The software behind Nyaa.si. \[English]
-*   [NyaaPantsu (⭐958)](https://github.com/NyaaPantsu/nyaa) - Nyaa.se replacement written in golang. \[English]
-*   [pixivpy (⭐1.5k)](https://github.com/upbit/pixivpy) - Pixiv API for Python. \[English/中文]
+*   [nyaa (⭐3.1k)](https://github.com/nyaadevs/nyaa) - The software behind Nyaa.si. \[English]
+*   [NyaaPantsu (⭐982)](https://github.com/NyaaPantsu/nyaa) - Nyaa.se replacement written in golang. \[English]
+*   [pixivpy (⭐1.6k)](https://github.com/upbit/pixivpy) - Pixiv API for Python. \[English/中文]
 *   [sakugabooru](https://sakugabooru.com) - A booru like site with anime shot clip with sakuga label. \[English]
-*   [Seiyuu.moe (⭐16)](https://github.com/Ervie/Seiyuu.moe) - A webpage for searching collaborate anime works between seiyuu. \[English]
-*   [Vocaloid Database (⭐241)](https://github.com/VocaDB/vocadb) - Server software used by [vocadb.net](http://vocadb.net/). \[English]
+*   [Seiyuu.moe (⭐17)](https://github.com/Ervie/Seiyuu.moe) - A webpage for searching collaborate anime works between seiyuu. \[English]
+*   [Vocaloid Database (⭐276)](https://github.com/VocaDB/vocadb) - Server software used by [vocadb.net](http://vocadb.net/). \[English]
 
 ### Image Board
 
 *   [aint.moe (⭐7)](https://github.com/maxpowa/aint.moe) - Your waifu aint moe. \[English]
-*   [animeshot2 (⭐35)](https://github.com/bitinn/animeshot2) - An open and searchable image repository with telegram bot integration in Node.js. \[English]
+*   [animeshot2 (⭐39)](https://github.com/bitinn/animeshot2) - An open and searchable image repository with telegram bot integration in Node.js. \[English]
 *   [atogatari (⭐16)](https://github.com/kingdido999/atogatari) - Share and discover your favorite anime characters. \[English]
 *   [BooruSurfer2 (⭐13)](https://github.com/spillerrec/BooruSurfer2) - Consistent and space-efficient interface to Booru-like image boards. \[English]
-*   [danbooru (⭐1.7k)](https://github.com/r888888888/danbooru) - Taggable image board written in Rails 4 for [danbooru.donmai.us](https://danbooru.donmai.us/). \[English]
-*   [Hydron (⭐88)](https://github.com/bakape/hydron) - Media tagger and organizer backend and GUI frontend. \[English]
-*   [Hydrus (⭐1.6k)](https://github.com/hydrusnetwork/hydrus) - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. \[English]
-*   [Moebooru (⭐457)](https://github.com/moebooru/moebooru) - Fork of danbooru1 that has been heavily modified. Used on [yande.re](https://yande.re/) , [Konachan.com](https://konachan.com/). \[English]
-*   [PBooru (⭐40)](https://github.com/Kycklingar/PBooru) - Permanent Booru is an image board web server which takes leverage of the decentralization of IPFS to distribute its content. \[English]
-*   [szurubooru (⭐471)](https://github.com/rr-/szurubooru) - Python-powered booru for small to medium communities. \[English]
-*   [TagsTable (⭐393)](https://github.com/zcyzcy88/TagsTable) - Chinese ⇔ Engish translation table for common booru tags. \[中文]
+*   [danbooru (⭐1.9k)](https://github.com/r888888888/danbooru) - Taggable image board written in Rails 4 for [danbooru.donmai.us](https://danbooru.donmai.us/). \[English]
+*   [Hydron (⭐90)](https://github.com/bakape/hydron) - Media tagger and organizer backend and GUI frontend. \[English]
+*   [Hydrus (⭐1.9k)](https://github.com/hydrusnetwork/hydrus) - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. \[English]
+*   [Moebooru (⭐494)](https://github.com/moebooru/moebooru) - Fork of danbooru1 that has been heavily modified. Used on [yande.re](https://yande.re/) , [Konachan.com](https://konachan.com/). \[English]
+*   [PBooru (⭐41)](https://github.com/Kycklingar/PBooru) - Permanent Booru is an image board web server which takes leverage of the decentralization of IPFS to distribute its content. \[English]
+*   [szurubooru (⭐552)](https://github.com/rr-/szurubooru) - Python-powered booru for small to medium communities. \[English]
+*   [TagsTable (⭐501)](https://github.com/zcyzcy88/TagsTable) - Chinese ⇔ Engish translation table for common booru tags. \[中文]
 
 ### Image Generation
 
-*   [animate-me (⭐222)](https://github.com/Aneureka/animate-me) - A miniapp to convert selfie to anime. \[中文]
+*   [animate-me (⭐223)](https://github.com/Aneureka/animate-me) - A miniapp to convert selfie to anime. \[中文]
 *   [avatars.moe](https://avatars.moe/) - Automatic avatars generator. \[English]
-*   [chainer-DCGAN (⭐921)](https://github.com/mattya/chainer-DCGAN) - Generate anime face with neural network. \[日本語]
+*   [chainer-DCGAN (⭐930)](https://github.com/mattya/chainer-DCGAN) - Generate anime face with neural network. \[日本語]
 *   [crypko.ai](https://crypko.ai) - Cryptocollectible game on anime character icons. \[English]
-*   [DeepAA (⭐1.4k)](https://github.com/OsciiArt/DeepAA) - Make Ascii Arts by Deep Learning. \[English]
+*   [DeepAA (⭐1.5k)](https://github.com/OsciiArt/DeepAA) - Make Ascii Arts by Deep Learning. \[English]
 *   [DeepAnime](https://lp.deepanime.com/) - Generate Anime automatically from illust. \[日本語]
 *   [FindTwin (⭐1)](https://github.com/klimaleksus/FindTwin) - A pick and match game by random generated avatars. \[English]
 *   [girl\_friend\_factory](https://hiroshiba.github.io/girl_friend_factory) - Anime character generator (Description on [Qiita](http://qiita.com/Hiroshiba/items/d5749d8896613e6f0b48)). \[日本語]
 *   [gwern.net blog](https://www.gwern.net/Faces) - A anime GANs guidebook. \[English]
-*   [kemonogen (⭐115)](https://github.com/aratama/kemonogen) - Kemono Friends logo generator. \[日本語]
+*   [kemonogen (⭐119)](https://github.com/aratama/kemonogen) - Kemono Friends logo generator. \[日本語]
 *   [make.girls.moe](http://make.girls.moe) - Create Anime Characters with A.I. \[English]
-*   [seeprettyface dongman (⭐152)](https://github.com/a312863063/seeprettyface-ganerator-dongman) - A stylegan danbooru pretrain model with Chinese document. \[中文]
+*   [seeprettyface dongman (⭐154)](https://github.com/a312863063/seeprettyface-ganerator-dongman) - A stylegan danbooru pretrain model with Chinese document. \[中文]
 *   [Talking Head Anime](https://pkhungurn.github.io/talking-head-anime/) - Talking Head Anime from a Single Image ([source](https://github.com/pkhungurn/talking-head-anime)). \[English]
 *   [This Anime Does Not Exist](https://thisanimedoesnotexist.ai/) - Synthesize Your Waifu Full-body using StyleGAN2. \[English]
 *   [This Fursona Does Not Exist](https://thisfursonadoesnotexist.com/) - AI-generated furries in an endless scrolling grid. \[English]
@@ -424,149 +413,149 @@
 
 ### Image Processing
 
-*   [Anime4K (⭐16k)](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Anime Upscaler. \[English]
+*   [Anime4K (⭐17k)](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Anime Upscaler. \[English]
 *   [animeloop-cli (⭐95)](https://github.com/moeoverflow/animeloop-cli) - Automatically detect and cut anime loops. \[English]
 *   [cgCompress (⭐13)](https://github.com/spillerrec/cgCompress) - Compression tool tailored for Visual Novel CGs. \[English]
 *   [DeepCreamPy](https://github.com/deeppomf/DeepCreamPy) - Decensoring hentai with deep neural networks. \[English]
 *   [hoshizora](https://github.com/BlueCocoa/hoshizora) - Merge two image by alpha channel to get displayed respectively on white/black background. \[English]
-*   [MangaCraft (⭐724)](https://github.com/lllyasviel/MangaCraft) - Semi-automatic manga colorization. \[English]
+*   [MangaCraft (⭐711)](https://github.com/lllyasviel/MangaCraft) - Semi-automatic manga colorization. \[English]
 *   [mangaEditor](http://moeka.me/mangaEditor/) - Edit manga and translate it online. \[中文]
-*   [Overmix (⭐162)](https://github.com/spillerrec/Overmix) - Automatic anime screenshot stitching in high quality. \[English]
+*   [Overmix (⭐173)](https://github.com/spillerrec/Overmix) - Automatic anime screenshot stitching in high quality. \[English]
 *   [PaintsChainer (⭐3.7k)](https://github.com/pfnet/PaintsChainer) - Line drawing colorization using chainer. \[English]
-*   [sketchKeras (⭐425)](https://github.com/lllyasviel/sketchKeras) - An u-net with some algorithm to take sketch from paints. \[English]
-*   [style2paints (⭐16k)](https://github.com/lllyasviel/style2paints) - Paint line images with AI. \[English]
-*   [TachibanaYoshino AnimeGAN (⭐4k)](https://github.com/TachibanaYoshino/AnimeGAN) - [shinkaimakoto mentioned](https://twitter.com/shinkaimakoto/status/1293130397312643072) "shinkaimakoto" animestyle transfer model \[English]
+*   [sketchKeras (⭐439)](https://github.com/lllyasviel/sketchKeras) - An u-net with some algorithm to take sketch from paints. \[English]
+*   [style2paints (⭐17k)](https://github.com/lllyasviel/style2paints) - Paint line images with AI. \[English]
+*   [TachibanaYoshino AnimeGAN (⭐4.3k)](https://github.com/TachibanaYoshino/AnimeGAN) - [shinkaimakoto mentioned](https://twitter.com/shinkaimakoto/status/1293130397312643072) "shinkaimakoto" animestyle transfer model \[English]
 *   [upscale.wiki.anime](https://upscale.wiki/wiki/Model_Database#Manga.2FAnime) - Image Super-Resolution model wiki \[English]
-*   [waifu2x (⭐25k)](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art. \[English]
-*   [waifu2x-converter-cpp (⭐320)](https://github.com/tanakamura/waifu2x-converter-cpp) - Improved version of waifu2x. \[English]
+*   [waifu2x (⭐27k)](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art. \[English]
+*   [waifu2x-converter-cpp (⭐318)](https://github.com/tanakamura/waifu2x-converter-cpp) - Improved version of waifu2x. \[English]
 
 ### Image Recognition
 
 *   [alt-i2v (⭐34)](https://github.com/GINK03/alt-i2v) - Alternative illustration2vec implitation of sigmoids of fully connected layer. \[日本語]
-*   [animeface-2009 (⭐284)](https://github.com/nagadomi/animeface-2009) - Face and Landmark Detector for Anime/Manga. Similar to lbpcascade\_animeface but more accurate. \[English]
+*   [animeface-2009 (⭐290)](https://github.com/nagadomi/animeface-2009) - Face and Landmark Detector for Anime/Manga. Similar to lbpcascade\_animeface but more accurate. \[English]
 *   [AnimeFace Search v3](http://animeface3.libotama.so/) - Face detection for Anime. Powered by [Imager::AnimeFace](http://anime.udp.jp/imager-animeface.html) and [otama - CBIR Engine (⭐61)](https://github.com/nagadomi/otama). \[日本語]
-*   [AniSeg (⭐172)](https://github.com/jerryli27/AniSeg) - A faster-rcnn model for anime character segmentation. \[English]
-*   [danbooru-tagger (⭐15)](https://github.com/anthony-dipofi/danbooru-tagger) - auto labeling danboorulike tags for anime illustration. \[English]
-*   [deep cascaded landmark detection (⭐182)](https://github.com/kanosawa/anime_face_landmark_detection) - Anime face landmark detection by deep cascaded regression. \[English]
-*   [Illustration2Vec (⭐661)](https://github.com/rezoo/illustration2vec) - Semantic Vector Representation of Illustrations. \[English]
-*   [lbpcascade\_animeface (⭐1.8k)](https://github.com/nagadomi/lbpcascade_animeface) - Face detector for anime/manga using OpenCV. \[English]
-*   [LFFD animeface (⭐46)](https://github.com/cheese-roll/light-anime-face-detector) - A fast and light-weighted anime face detection based on LFFD \&mxnet. \[English]
+*   [AniSeg (⭐186)](https://github.com/jerryli27/AniSeg) - A faster-rcnn model for anime character segmentation. \[English]
+*   [danbooru-tagger (⭐16)](https://github.com/anthony-dipofi/danbooru-tagger) - auto labeling danboorulike tags for anime illustration. \[English]
+*   [deep cascaded landmark detection (⭐208)](https://github.com/kanosawa/anime_face_landmark_detection) - Anime face landmark detection by deep cascaded regression. \[English]
+*   [Illustration2Vec (⭐669)](https://github.com/rezoo/illustration2vec) - Semantic Vector Representation of Illustrations. \[English]
+*   [lbpcascade\_animeface (⭐1.9k)](https://github.com/nagadomi/lbpcascade_animeface) - Face detector for anime/manga using OpenCV. \[English]
+*   [LFFD animeface (⭐51)](https://github.com/cheese-roll/light-anime-face-detector) - A fast and light-weighted anime face detection based on LFFD \&mxnet. \[English]
 *   [n\_jigen\_bot](https://t.me/n_jigen_bot) - Telegram bot. Identify if an image is 二次元 or 三次元. \[English]
 *   [Osomatsu-san](http://bohemia.hatenablog.com/entry/2015/11/22/161858) - Use deep learning to distinguish the characters in Osomatsu-san. \[日本語]
-*   [transfer-learning-anime (⭐175)](https://github.com/freedomofkeima/transfer-learning-anime) - Transfer learning for anime characters recognition. Powered by [lbpcascade\_animeface (⭐1.8k)](https://github.com/nagadomi/lbpcascade_animeface) for face detection. Available at [MoeFlow](https://freedomofkeima.com/moeflow/). \[English]
+*   [transfer-learning-anime (⭐182)](https://github.com/freedomofkeima/transfer-learning-anime) - Transfer learning for anime characters recognition. Powered by [lbpcascade\_animeface (⭐1.9k)](https://github.com/nagadomi/lbpcascade_animeface) for face detection. Available at [MoeFlow](https://freedomofkeima.com/moeflow/). \[English]
 
 ### Image Reverse Search
 
 *   [ascii2d](http://www.ascii2d.net/) - 2D art search. \[日本語]
-*   [Gochiusearch (⭐393)](https://github.com/ksasao/Gochiusearch) - Fast Scene Search Engine for 'Gochuumon wa Usagi Desuka?'. \[日本語]
+*   [Gochiusearch (⭐394)](https://github.com/ksasao/Gochiusearch) - Fast Scene Search Engine for 'Gochuumon wa Usagi Desuka?'. \[日本語]
 *   Image Search Options ([Chrome Extension](https://chrome.google.com/webstore/detail/image-search-options/kljmejbpilkadikecejccebmccagifhl) / [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/image-search-options/)) - Search multiple image reverse search engines. \[English]
 *   [iqdb](https://iqdb.org/) - Multi-service image search engine, source code [here](https://iqdb.org/code/). \[English]
 *   [SauceNAO](https://saucenao.com/) - Reverse image search service, see database coverage [here](https://saucenao.com/status.html). \[English]
 *   [saucenao.kgmi.moe](http://saucenao.kgmi.moe/) - Better front-end for SauceNAO. \[English]
-*   [WAIT: What Anime Is This? (⭐3.7k)](https://github.com/soruly/trace.moe) - Anime scene search engine. Powered by [liresolr (⭐163)](https://github.com/dermotte/liresolr). \[English]
+*   [WAIT: What Anime Is This? (⭐4k)](https://github.com/soruly/trace.moe) - Anime scene search engine. Powered by [liresolr (⭐166)](https://github.com/dermotte/liresolr). \[English]
 
 ### Mobile Apps
 
-*   [Amadeus (⭐906)](https://github.com/Yink/Amadeus) - A side project that aims to replicate the Amadeus App shown in Steins;Gate 0. \[English]
-*   [Atarashii (⭐79)](https://github.com/AnimeNeko/Atarashii) - Android client for [MyAnimeList](http://myanimelist.net/). \[English]
-*   [EhViewer (⭐7.5k)](https://github.com/seven332/EhViewer) - Unofficial E-Hentai Application for Android. \[中文]
+*   [Amadeus (⭐928)](https://github.com/Yink/Amadeus) - A side project that aims to replicate the Amadeus App shown in Steins;Gate 0. \[English]
+*   [Atarashii (⭐80)](https://github.com/AnimeNeko/Atarashii) - Android client for [MyAnimeList](http://myanimelist.net/). \[English]
+*   [EhViewer (⭐8k)](https://github.com/seven332/EhViewer) - Unofficial E-Hentai Application for Android. \[中文]
 *   [KonaBot (⭐29)](https://github.com/hkalexling/KonaBot-iOS) - iOS client for [konachan.net](http://konachan.net). \[English]
-*   [LNReader-Android (⭐115)](https://github.com/calvinaquino/LNReader-Android) - Light novel reader for android. \[English]
-*   [NineAnimator (⭐629)](https://github.com/SuperMarcus/NineAnimator) - Elegant, concise, and intuitive anime discovery app for iOS. \[English]
-*   [Tachiyomi (⭐20k)](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android. \[English]
+*   [LNReader-Android (⭐116)](https://github.com/calvinaquino/LNReader-Android) - Light novel reader for android. \[English]
+*   [NineAnimator (⭐708)](https://github.com/SuperMarcus/NineAnimator) - Elegant, concise, and intuitive anime discovery app for iOS. \[English]
+*   [Tachiyomi (⭐25k)](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android. \[English]
 
 ### Programming
 
-*   [aaencoder (⭐39)](https://github.com/mervick/php-aaencoder) - Convert Javascript to kaomoji(顔文字). \[日本語]
-*   [gochiusa\_lang (⭐20)](https://github.com/dolciss/gochiusa_lang) - . \[日本語]
-*   [hanabi (⭐241)](https://github.com/egoist/hanabi) - Colorful syntax highlighter inspired by [kemono-friends-syntax-highlight](http://pronama.azurewebsites.net/2017/02/23/kemono-friends-syntax-highlight/) and [its friends](https://gist.github.com/kuwa72/753f8ae998a84dda184c21cc874bd694). \[English]
+*   [aaencoder (⭐38)](https://github.com/mervick/php-aaencoder) - Convert Javascript to kaomoji(顔文字). \[日本語]
+*   [gochiusa\_lang (⭐21)](https://github.com/dolciss/gochiusa_lang) - . \[日本語]
+*   [hanabi (⭐245)](https://github.com/egoist/hanabi) - Colorful syntax highlighter inspired by [kemono-friends-syntax-highlight](http://pronama.azurewebsites.net/2017/02/23/kemono-friends-syntax-highlight/) and [its friends](https://gist.github.com/kuwa72/753f8ae998a84dda184c21cc874bd694). \[English]
 *   [hhiro\_lang (⭐5)](https://github.com/zonuexe/hhiro_lang) - . \[日本語]
-*   [kawaii-term (⭐106)](https://github.com/GINK03/kawaii-term) - Kawaii shell terminal to relieve engineer's stress. \[日本語]
+*   [kawaii-term (⭐109)](https://github.com/GINK03/kawaii-term) - Kawaii shell terminal to relieve engineer's stress. \[日本語]
 *   [kemono\_friends\_lang (⭐194)](https://github.com/consomme/kemono_friends_lang) - . \[日本語]
-*   [nyaruko\_lang (⭐152)](https://github.com/masarakki/nyaruko_lang) - . \[日本語]
-*   [RADWIMPS (⭐259)](https://github.com/approvers/RADWIMPS) - 君の then-then-then 世は Promise で Future. \[日本語]
+*   [nyaruko\_lang (⭐157)](https://github.com/masarakki/nyaruko_lang) - . \[日本語]
+*   [RADWIMPS (⭐262)](https://github.com/approvers/RADWIMPS) - 君の then-then-then 世は Promise で Future. \[日本語]
 *   [We-i\_lang (⭐1)](https://github.com/oppai/We-i_lang) - . \[日本語]
 
 ### Subtitles
 
-*   [aeneas (⭐2.1k)](https://github.com/readbeyond/aeneas) - Automagically synchronize audio and text. \[English]
-*   [ASS.js (⭐432)](https://github.com/weizhenye/ASS) - JavaScript ASS subtitle format renderer. \[English]
-*   [dialogue.moe (⭐204)](https://github.com/windrises/dialogue.moe) - Search where a dialogue comes from. \[English/中文]
-*   [JavascriptSubtitlesOctopus (⭐309)](https://github.com/Dador/JavascriptSubtitlesOctopus) - Displays subtitles in .ass format and easily integrates with HTML5 videos. Supports all SSA/ASS features. \[English]
-*   [libjass (⭐169)](https://github.com/Arnavion/libjass) - Renders ASS subs in the browser. \[English]
+*   [aeneas (⭐2.3k)](https://github.com/readbeyond/aeneas) - Automagically synchronize audio and text. \[English]
+*   [ASS.js (⭐460)](https://github.com/weizhenye/ASS) - JavaScript ASS subtitle format renderer. \[English]
+*   [dialogue.moe (⭐268)](https://github.com/windrises/dialogue.moe) - Search where a dialogue comes from. \[English/中文]
+*   [JavascriptSubtitlesOctopus (⭐358)](https://github.com/Dador/JavascriptSubtitlesOctopus) - Displays subtitles in .ass format and easily integrates with HTML5 videos. Supports all SSA/ASS features. \[English]
+*   [libjass (⭐171)](https://github.com/Arnavion/libjass) - Renders ASS subs in the browser. \[English]
 *   [SubBuilder (⭐8)](https://github.com/KamigamiSub/SubBuilder) - Toolset to help checking and organizing bilingual subtitles (諸神字幕組). \[English/中文]
 *   [subsearch.madsck.com](http://subsearch.madsck.com/) - Search source of anime dialogue. \[English/中文]
-*   [Sushi (⭐537)](https://github.com/tp7/Sushi) - Automatic subtitle shifter based on audio. \[English]
+*   [Sushi (⭐587)](https://github.com/tp7/Sushi) - Automatic subtitle shifter based on audio. \[English]
 
 ### Tools
 
-*   [anitomy (⭐207)](https://github.com/erengy/anitomy) - Anime video filename parser. \[English]
-*   [arc\_unpacker (⭐487)](https://github.com/vn-tools/arc_unpacker) - Visual novel extracting tool in CLI. \[English]
+*   [anitomy (⭐238)](https://github.com/erengy/anitomy) - Anime video filename parser. \[English]
+*   [arc\_unpacker (⭐534)](https://github.com/vn-tools/arc_unpacker) - Visual novel extracting tool in CLI. \[English]
 *   [bgm (⭐20)](https://github.com/egoist/bgm) - Display bangumi list in CLI. \[中文]
-*   [Comicbook (⭐275)](https://github.com/moeoverflow/comicbook) - Convert online comics to .epub e-book. \[English]
-*   [getnative (⭐179)](https://github.com/Infiziert90/getnative) - Find the native resolution(s) of upscaled material (mostly anime). \[English]
-*   [kuroshiro (⭐593)](https://github.com/hexenq/kuroshiro) - Japanese language utility mainly for converting Kanji-mixed sentence to Hiragana, Katakana or Romaji with furigana and okurigana modes supported. \[English]
-*   [OpenCC (⭐6.9k)](https://github.com/BYVoid/OpenCC) - Project for conversion between Traditional and Simplified Chinese. \[中文]
-*   [rankit.ikely.me](http://rankit.ikely.me/) - Scientific ranking of anime ratings by [Rankit (⭐68)](https://github.com/wattlebird/ranking). \[English]
+*   [Comicbook (⭐282)](https://github.com/moeoverflow/comicbook) - Convert online comics to .epub e-book. \[English]
+*   [getnative (⭐201)](https://github.com/Infiziert90/getnative) - Find the native resolution(s) of upscaled material (mostly anime). \[English]
+*   [kuroshiro (⭐689)](https://github.com/hexenq/kuroshiro) - Japanese language utility mainly for converting Kanji-mixed sentence to Hiragana, Katakana or Romaji with furigana and okurigana modes supported. \[English]
+*   [OpenCC (⭐7.5k)](https://github.com/BYVoid/OpenCC) - Project for conversion between Traditional and Simplified Chinese. \[中文]
+*   [rankit.ikely.me](http://rankit.ikely.me/) - Scientific ranking of anime ratings by [Rankit (⭐74)](https://github.com/wattlebird/ranking). \[English]
 *   [Shoko](https://github.com/shokoanime) - Anime Collection Manager. \[English]
-*   [Taiga (⭐1.7k)](https://github.com/erengy/taiga) - Lightweight anime tracker for Windows. \[English]
-*   [Visual Novel OCR (⭐53)](https://github.com/leminhyen2/Visual-Novel-OCR) - Japanese optical character recognition for visual novels. \[English]
+*   [Taiga (⭐1.9k)](https://github.com/erengy/taiga) - Lightweight anime tracker for Windows. \[English]
+*   [Visual Novel OCR (⭐64)](https://github.com/leminhyen2/Visual-Novel-OCR) - Japanese optical character recognition for visual novels. \[English]
 *   [wikipedia\_anime\_graph (⭐4)](https://github.com/Project-ShangriLa/wikipedia_anime_graph) - Calculate anime relevance from wikipedia. \[日本語]
 
 ### Web
 
 *   [acgn-stock (⭐261)](https://github.com/mrbigmouth/acgn-stock) - Stock market for trading waifu on PPT (Taiwan). \[English/中文]
-*   [awesome-bangumi (⭐185)](https://github.com/jokester/awesome-bangumi) - Collection of [bangumi.tv](http://bangumi.tv) related projects. \[中文]
-*   [Bangumi scripts (⭐262)](https://github.com/bangumi/scripts) - Collection of user scripts for [bangumi.tv](http://bangumi.tv). \[中文]
-*   [Deneb (⭐30)](https://github.com/lordfriend/Deneb) - Web client for [Albireo (⭐124)](https://github.com/lordfriend/Albireo). \[English]
+*   [awesome-bangumi (⭐221)](https://github.com/jokester/awesome-bangumi) - Collection of [bangumi.tv](http://bangumi.tv) related projects. \[中文]
+*   [Bangumi scripts (⭐279)](https://github.com/bangumi/scripts) - Collection of user scripts for [bangumi.tv](http://bangumi.tv). \[中文]
+*   [Deneb (⭐32)](https://github.com/lordfriend/Deneb) - Web client for [Albireo (⭐124)](https://github.com/lordfriend/Albireo). \[English]
 *   [japari-pedia (⭐56)](https://github.com/miyaoka/japari-pedia) - Chrome extension that turns Wikipedia into Japari-Library. \[English]
 *   [KarasamaEgg (⭐5)](https://github.com/ClassicOldSong/KarasamaEgg) - KarasamaEgg dynamic wallpaper for WallpaperEngine. \[English]
-*   [Kemono Adblocker (⭐12)](https://github.com/akira02/Kemono_Adblocker) - Replace Advertisements with Kenomo Friends pictures using perceptual techniques. \[English]
+*   [Kemono Adblocker (⭐13)](https://github.com/akira02/Kemono_Adblocker) - Replace Advertisements with Kenomo Friends pictures using perceptual techniques. \[English]
 *   [Moelib](http://www.moelib.com) - Website with collections of various nijigen(二次元)-related development resources with filters and multi-language support. Inspired by awesome-acg. \[English]
-*   [My Diary (⭐86)](https://github.com/ssshooter/MyDiary-Vue/blob/master/README.En.md) - MyDiary from movie 「Your Name」.\[中文]
+*   [My Diary (⭐85)](https://github.com/ssshooter/MyDiary-Vue/blob/master/README.En.md) - MyDiary from movie 「Your Name」.\[中文]
 *   [nKemono (⭐16)](https://github.com/cornguo/nKemono) - [Chrome Extension](https://chrome.google.com/webstore/detail/nkemono/pfeabhccnkpilbkjncnndoahffhjgkak) that replaces all images with Kemono Friends. \[English]
-*   [pixi-live2d (⭐630)](https://github.com/avgjs/pixi-live2d) - Display live2D model as a sprite in pixi.js. \[English]
+*   [pixi-live2d (⭐660)](https://github.com/avgjs/pixi-live2d) - Display live2D model as a sprite in pixi.js. \[English]
 *   [WebLive2D (⭐31)](https://github.com/yutarochan/WebLive2D) - Rebuild of Cybernoids' Live2D demo for interactive systems on mobile platforms. \[English]
 
 ### Uncategorized
 
-*   [AnimeEffects (⭐707)](https://github.com/hidefuku/AnimeEffects) - 2D Animation Tool. \[English]
-*   [guide.encode.moe (⭐115)](https://github.com/Irrational-Encoding-Wizardry/guide.encode.moe) - A anime RIPPER manual. \[English]
-*   [notify.moe (⭐294)](https://github.com/animenotifier/notify.moe) - Fetches your anime "watching" list and notifies you when a new anime episode is available. \[English]
+*   [AnimeEffects (⭐745)](https://github.com/hidefuku/AnimeEffects) - 2D Animation Tool. \[English]
+*   [guide.encode.moe (⭐133)](https://github.com/Irrational-Encoding-Wizardry/guide.encode.moe) - A anime RIPPER manual. \[English]
+*   [notify.moe (⭐331)](https://github.com/animenotifier/notify.moe) - Fetches your anime "watching" list and notifies you when a new anime episode is available. \[English]
 
-## [21. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / DNS
 
-*   [blocky (⭐2.6k)](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go`
+*   [blocky (⭐3k)](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go/Docker`
 
 ### Software / Personal Dashboards
 
-*   [Dashboard (⭐814)](https://github.com/phntxx/dashboard) - Minimalist homepage for organizing your web applications and bookmarks using JSON-files. `MIT` `Nodejs/Docker`
+*   [Dashboard (⭐894)](https://github.com/phntxx/dashboard) - Minimalist homepage for organizing your web applications and bookmarks using JSON-files. `MIT` `Nodejs/Docker`
 
-## [22. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [21. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Tools
 
-*   [Keycloak Pulumi (⭐25)](https://github.com/pulumi/pulumi-keycloak)
+*   [Keycloak Pulumi (⭐28)](https://github.com/pulumi/pulumi-keycloak)
 
-## [23. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
+## [22. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
 ### Evaluation
 
-*   [BLEURT: a Transfer Learning-Based Metric for Natural Language Generation (⭐502)](https://github.com/google-research/bleurt)
+*   [BLEURT: a Transfer Learning-Based Metric for Natural Language Generation (⭐569)](https://github.com/google-research/bleurt)
 
 ### Papers and Articles
 
 *   [2020: The Curious Case of Neural Text Degeneration](https://openreview.net/forum?id=rygGQyrFvH)
 
-## [24. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [23. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Natural Language Processing
 
-*   [Rasa (⭐16k)](https://github.com/RasaHQ/rasa) - A "machine learning framework to automate text-and voice-based conversations."
+*   [Rasa (⭐17k)](https://github.com/RasaHQ/rasa) - A "machine learning framework to automate text-and voice-based conversations."
 
-## [25. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [24. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### 2D / Godot 3.2+
 
@@ -574,7 +563,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [2D Day/Night Cycle (⭐271)](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle) - A ☀️ Day / 🌔 Night cycle for 2D (Godot 3.x).
+*   [2D Day/Night Cycle (⭐278)](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle) - A ☀️ Day / 🌔 Night cycle for 2D (Godot 3.x).
 
 ### Plugins and scripts / Godot version unknown
 
@@ -582,51 +571,51 @@
 
 ### Modules / Various Godot versions
 
-*   [Entity Spell System (⭐105)](https://github.com/Relintai/entity_spell_system) - An entity and spell system for complex (optionally multiplayer) RPGs (Godot 3.2, 4.0).
-*   [godot-anl (⭐99)](https://github.com/Xrayez/godot-anl) - A wrapper for [Accidental Noise Library (⭐74)](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
-*   [godot-python (⭐1.5k)](https://github.com/touilleMan/godot-python) - Python support for Godot 3.
-*   [godot-voxel (⭐1.7k)](https://github.com/Zylann/godot_voxel) - Module for creating volumetric worlds (Godot 3.1+).
-*   [Gdnet for Godot 3 (⭐114)](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3.
+*   [Entity Spell System (⭐115)](https://github.com/Relintai/entity_spell_system) - An entity and spell system for complex (optionally multiplayer) RPGs (Godot 3.2, 4.0).
+*   [godot-anl (⭐103)](https://github.com/Xrayez/godot-anl) - A wrapper for [Accidental Noise Library (⭐75)](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
+*   [godot-python (⭐1.6k)](https://github.com/touilleMan/godot-python) - Python support for Godot 3.
+*   [godot-voxel (⭐1.9k)](https://github.com/Zylann/godot_voxel) - Module for creating volumetric worlds (Godot 3.1+).
+*   [Gdnet for Godot 3 (⭐115)](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3.
 
 ### Modules / Godot 3.2+
 
-*   [godotcord (⭐44)](https://github.com/drachenfrucht1/godotcord) - A wrapper for the [Discord Game SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide).
+*   [godotcord (⭐50)](https://github.com/drachenfrucht1/godotcord) - A wrapper for the [Discord Game SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide).
 *   [godot-apple-id (⭐30)](https://github.com/Wild-Pluto/godot-apple-id) - Module for sign in with Apple in Godot.
-*   [Godot-Slicer (⭐104)](https://github.com/cj-dimaggio/godot-slicer) - A port of [Ezy-Slicer (⭐1.6k)](https://github.com/DavidArayan/ezy-slice) for Godot.
-*   [Goost (⭐416)](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable extension.
-*   [PortAudio (⭐11)](https://github.com/sebastian-heinz/portaudio) - Wrapper methods and Godot-friendly types to use [PortAudio](http://www.portaudio.com).
+*   [Godot-Slicer (⭐107)](https://github.com/cj-dimaggio/godot-slicer) - A port of [Ezy-Slicer (⭐1.6k)](https://github.com/DavidArayan/ezy-slice) for Godot.
+*   [Goost (⭐440)](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable extension.
+*   [PortAudio (⭐13)](https://github.com/sebastian-heinz/portaudio) - Wrapper methods and Godot-friendly types to use [PortAudio](http://www.portaudio.com).
 
 ### Modules / Godot 3.1
 
-*   [FMOD Integration (⭐169)](https://github.com/alexfonseka/godot-fmod-integration) - Module to integrate the FMOD audio engine in Godot.
+*   [FMOD Integration (⭐174)](https://github.com/alexfonseka/godot-fmod-integration) - Module to integrate the FMOD audio engine in Godot.
 
 ### Modules / Godot version unknown
 
-*   [godot-enet-better (⭐91)](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot.
-*   [Head tracking using OpenCV (⭐41)](https://github.com/antarktikali/godot-opencv-gpu-perspective)
+*   [godot-enet-better (⭐93)](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot.
+*   [Head tracking using OpenCV (⭐42)](https://github.com/antarktikali/godot-opencv-gpu-perspective)
 *   [Open Adaptive Music Library (⭐57)](https://github.com/oamldev/oamlGodotModule)
 *   [NativeDialogs (⭐22)](https://github.com/GodotExplorer/NativeDialogs) - Using native dialogs in Godot.
-*   [RawPacker (⭐20)](https://github.com/empyreanx/rawpacker) - Simple binary packing/unpacking for RawArray.
-*   [spine (⭐126)](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module.
-*   [WaterSplash 2D node (⭐35)](https://github.com/laverneth/water)
+*   [RawPacker (⭐22)](https://github.com/empyreanx/rawpacker) - Simple binary packing/unpacking for RawArray.
+*   [spine (⭐128)](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module.
+*   [WaterSplash 2D node (⭐37)](https://github.com/laverneth/water)
 
 ### Bash scripts / Godot version unknown
 
 *   [godot.sh (⭐27)](https://github.com/adolson/godot-stuff/blob/master/godot.sh) - Script that automatically downloads and launches latest version of Godot, or compiles and launches the Git `master` branch.
-*   [godot-wrapper (⭐14)](https://github.com/nsrosenqvist/godot-wrapper) - Script that helps Debian and Ubuntu users install and use Godot.
+*   [godot-wrapper (⭐15)](https://github.com/nsrosenqvist/godot-wrapper) - Script that helps Debian and Ubuntu users install and use Godot.
 *   [replicate-file.sh (⭐27)](https://github.com/adolson/godot-stuff/blob/master/replicate-file.sh) - Script to update copies of a file with one master file.
 
 ### Other / Godot version unknown
 
-*   [gd2cs.py (⭐53)](https://github.com/kiriri/gd2cs.py) - Python script that converts GDScript code to C# (WIP).
+*   [gd2cs.py (⭐58)](https://github.com/kiriri/gd2cs.py) - Python script that converts GDScript code to C# (WIP).
 
-## [26. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
+## [25. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
 
 ### Forms and Templates
 
 *   [ostrio:templatehelpers (⭐34)](https://github.com/VeliovGroup/Meteor-Template-helpers) - Utility helpers for your Blaze templates.
 
-## [27. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [26. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Infrastructure as Code Analysis / Containers
 
@@ -636,17 +625,17 @@
 
 *   [Regula (⭐790)](https://github.com/fugue/regula) - *Fugue* - Evaluate Terraform infrastructure-as-code for potential security misconfigurations and compliance violations prior to deployment.
 
-## [28. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [27. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
-*   [phx\_gen\_auth (⭐787)](https://github.com/aaronrenner/phx_gen_auth) - An authentication system generator for Phoenix 1.5 applications.
+*   [phx\_gen\_auth (⭐784)](https://github.com/aaronrenner/phx_gen_auth) - An authentication system generator for Phoenix 1.5 applications.
 
 ### Security
 
-*   [Ockam (⭐3.2k)](https://github.com/ockam-network/ockam) - A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [Docs](https://www.ockam.io/learn/concepts/) .
+*   [Ockam (⭐3.7k)](https://github.com/ockam-network/ockam) - A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [Docs](https://www.ockam.io/learn/concepts/) .
 
-## [29. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [28. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tutorials
 
@@ -660,46 +649,46 @@
 
 ### Tools and session management
 
-*   [libtmux (⭐866)](https://github.com/tmux-python/libtmux) Python API for tmux
+*   [libtmux (⭐915)](https://github.com/tmux-python/libtmux) Python API for tmux
 *   [teamocil (⭐2.3k)](https://github.com/remi/teamocil) A simple tool used to automatically create windows and panes in tmux with YAML files
-*   [tmuxp (⭐3.7k)](https://github.com/tmux-python/tmuxp) :computer: tmux session manager and python library
+*   [tmuxp (⭐3.8k)](https://github.com/tmux-python/tmuxp) :computer: tmux session manager and python library
 
 ### Books / Development and testing
 
 *   [tmux 2: Productive Mouse-Free Development](https://pragprog.com/book/bhtmux2/tmux-2/)
 
-## [30. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
+## [29. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
 
 ### Libraries for driving the protocol (or a layer above)
 
 *   Java: [jvppeteer (⭐468)](https://github.com/fanyong920/jvppeteer)  - Headless Chrome For Java
 *   Go: [Rod (⭐2.9k)](https://github.com/go-rod/rod)
 
-## [31. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [30. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
-*   [embassy (⭐2.1k)](https://github.com/akiles/embassy): A set of embedded async tools to make async/await a first-class option for embedded development
+*   [embassy (⭐3k)](https://github.com/akiles/embassy): A set of embedded async tools to make async/await a first-class option for embedded development
 
-## [32. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
+## [31. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
 ### Resources / Packages
 
-*   [Resource Links (⭐241)](https://github.com/spatie/laravel-resource-links) - Laravel package for adding links to API resources.
+*   [Resource Links (⭐245)](https://github.com/spatie/laravel-resource-links) - Laravel package for adding links to API resources.
 
-## [33. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [32. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CRM
 
-*   [Hitobito (⭐299)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
+*   [Hitobito (⭐316)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
 
-## [34. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [33. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
 *   [Sitemap generator for NextJS & StrAPI (⭐6)](https://github.com/stovv/next-strapi-sitemap) - 🦾 An additional server on express that runs alongside nextjs and regenerates sitemap ( with index sitemap ) and robots.txt files on request from STR API.
 
-## [35. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
+## [34. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
 ### Tools / Custom Time Series
 
@@ -711,27 +700,23 @@
 *   [Cassandra Nagios (⭐5)](https://github.com/causes/cassandra-nagios) - Perl Based scripts to get metrics for monitoring using Jolokia.
 *   [Cassandra StatD Agent (⭐13)](https://github.com/lookout/cassandra-statsd-agent) - Java Agent for Cassandra integration with StatsD.
 
-## [36. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+## [35. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
 ### Websites
 
 *   Fiddy - <https://fiddy.co>
 
-## [37. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
-
-### APIs, Data and ML
-
-*   [Unixtime](https://unixtime.co.za) - Free API to convert Unixtime to DateTime and vice versa.
+## [36. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Code Search and Browsing
 
-*   [CodeKeep](https://codekeep.io) - Google Keep for Code Snippets. Organize,Discover and share code snippets, featuring a powerful code screenshot tool with preset templates and linking feature.
+*   [CodeKeep](https://codekeep.io) - Google Keep for Code Snippets. Organize, Discover, and share code snippets, featuring a powerful code screenshot tool with preset templates and a linking feature.
 
 ### Security and PKI
 
 *   [StackHawk](https://www.stackhawk.com/) Automate application scanning throughout your pipeline to find and fix security bugs before they hit production. Unlimited scans and environments for a single app.
-*   [TestTLS.com](https://testtls.com) - Test a SSL/TLS service for secure server configuration, certificates, chains etc. Not limited to HTTPS.
-*   [Ubiq Security](https://ubiqsecurity.com/) — Encrypt and decrypt data with 3 lines of code and automatic key management. Free for 1 application and up to 1,000,000 encryptions per month.
+*   [TestTLS.com](https://testtls.com) - Test an SSL/TLS service for secure server configuration, certificates, chains, etc. Not limited to HTTPS.
+*   [Ubiq Security](https://ubiqsecurity.com/) — Encrypt and decrypt data with three lines of code and automatic key management. Free for one application and up to 1,000,000 encryptions per month.
 
 ### Messaging and Streaming
 
@@ -741,31 +726,31 @@
 
 *   [localazy.com](https://localazy.com) - Free for 1000 source language strings, unlimited languages, unlimited contributors, startup and open source deals
 
+### Miscellaneous
+
+*   [Form2Channel](https://form2channel.com) — Place a static html form on your website and receive submissions directly to Google Sheets, Email, Slack, Telegram, or HTTP. No coding is necessary.
+
 ### Forms
 
-*   [Formspree.io](https://formspree.io/) — Send email using an HTTP POST request. Free tier limits to 50 submissions per form per month.
-*   [Web3Forms](https://web3forms.com) - Contact forms for Static & JAMStack Websites without writing backend code. Free plan allows Unlimited Forms, Unlimited Domains & 250 Submissions per month.
+*   [Formspree.io](https://formspree.io/) — Send email using an HTTP POST request. The free tier limits to 50 submissions per form per month.
+*   [Web3Forms](https://web3forms.com) - Contact forms for Static & JAMStack Websites without writing backend code. The free plan allows Unlimited Forms, Unlimited Domains & 250 Submissions per month.
 
 ### Design and UI
 
-*   [Grapedrop](https://grapedrop.com/) — Responsive, powerful, SEO optimized web page builder based on GrapesJS Framework. Free for first 5 pages, unlimited custom domains, all features and simple usage.
+*   [Grapedrop](https://grapedrop.com/) — Responsive, powerful, SEO-optimized web page builder based on GrapesJS Framework. Free for the first five pages, unlimited custom domains, all features, and simple usage.
 
 ### Commenting Platforms
 
-*   [GraphComment](https://graphcomment.com/) - GraphComment is a comments platform that helps you build an active community from website’s audience.
+*   [GraphComment](https://graphcomment.com/) - GraphComment is a comments platform that helps you build an active community from the website’s audience.
 
-### Miscellaneous
-
-*   [Form2Channel](https://form2channel.com) — Place a static html form on your website and receive submissions directly to Google Sheets, Email, Slack, Telegram or Http. No coding necessary.
-
-## [38. Amas](/content/sindresorhus/amas/week/README.md)
+## [37. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Sindre Sorhus (⭐128)](https://github.com/sindresorhus/ama) - Aspiring rebel. Fabulously quirky. Creator of [AVA](https://avajs.dev), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io).
 *   [Lali Akhil Raj](https://github.com/Lalisfeed/ama) - Creating stuff for web & AI.
 
-## [39. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [38. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Utils & Infra / Navigation Demos
 
@@ -775,36 +760,30 @@
 
 *   [fetch ★10 (⭐28)](https://github.com/react-native-community/fetch) - A fetch API polyfill for React Native with text streaming support.
 
-## [40. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [39. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Algorithms, Containers and Protocols / MIT
+### Algorithms, Containers and Protocols / Apache License
 
-*   [az3 (⭐5)](https://github.com/Componolit/AZ3) - Ada binding for Z3.
+*   [az3 (⭐6)](https://github.com/Componolit/AZ3) - Ada binding for Z3.
 
-## [41. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [40. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Social Networks
 
 *   [GNU/consensus](https://gnu.org/consensus) is a GNU project to coordinate development efforts of free software for social networking. It recommends using the [AGPLv3+ license](https://gnu.org/licenses/agpl) and aims to inform free software developers about interesting projects and perspectives for a decentralized, freedom-respecting, and privacy-respecting online social networking environment. The GNU/consensus promotes convergence towards the use of the extensible [GNUnet Social API](https://gnunet.org/design-social-messaging-system).
 
-## [42. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [41. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Databases / ORMs
 
-*   [Piccolo (⭐975)](https://github.com/piccolo-orm/piccolo) - An async ORM and query builder, supporting Postgres and SQLite, with batteries (migrations, security, etc).
-    *   [FastAPI Examples (⭐17)](https://github.com/piccolo-orm/piccolo_examples) - Using FastAPI with Piccolo.
+*   [Piccolo (⭐1.1k)](https://github.com/piccolo-orm/piccolo) - An async ORM and query builder, supporting Postgres and SQLite, with batteries (migrations, security, etc).
+    *   [FastAPI Examples (⭐18)](https://github.com/piccolo-orm/piccolo_examples) - Using FastAPI with Piccolo.
 
 ### Tutorials / Other Tools
 
 *   [Deploy a Dockerized FastAPI App to Google Cloud Platform](https://towardsdatascience.com/deploy-a-dockerized-fastapi-app-to-google-cloud-platform-24f72266c7ef) - A short guide to deploying a Dockerized Python app to Google Cloud Platform using Cloud Run and a SQL instance.
-*   [FastAPI Microservice Patterns](https://florian-kromer.medium.com/fastapi-microservice-patterns-3052c1241019) - Blog post series with exemplary implementations of microservice patterns.
-    *   [Local Development Environment](https://florian-kromer.medium.com/fastapi-microservice-patterns-local-development-environment-12182e786f1c) - Skaffold, docker, kubectl and minikube in a nutshell.
-    *   [Service discovery in Container Orchestration Platforms](https://florian-kromer.medium.com/fastapi-microservice-patterns-service-discovery-in-container-orchestration-platforms-290c00d1ad8) - Enabling FastAPI service communication in Kubernetes explained.
-    *   [Asynchronous Communication](https://florian-kromer.medium.com/fastapi-microservice-patterns-asynchronous-communication-45a3b68f8bb8) - Enabling loosely coupled services with messaging.
-    *   [Application Monitoring](https://medium.com/swlh/fastapi-microservice-patterns-application-monitoring-49fcb7341d9a) - Application metric monitoring with Prometheus and Grafana.
-    *   [Serverless Deployment](https://medium.com/swlh/fastapi-microservice-serverless-deployment-41a6d21e5cb3) - About the current status of the compatibility between FastAPI and Kubernetes-native FaaS platforms.
 
-## [43. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [42. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Books
 
@@ -848,15 +827,15 @@
 
 
 
-## [44. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [43. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Demo
 
-*   [Sitecore MVP (⭐64)](https://github.com/Sitecore/MVP-Site) - The source code of real Sitecore MVP website built with Sitecore 10 and SXAworking in containers.
+*   [Sitecore MVP (⭐63)](https://github.com/Sitecore/MVP-Site) - The source code of real Sitecore MVP website built with Sitecore 10 and SXAworking in containers.
 
 ### Containers
 
-*   [Sitecore Docker Tools (⭐24)](https://github.com/sitecore/docker-tools) - Set of utilities to improve developer experience when running Sitecore in a Docker environment. This an image with development scripts and entrypoints which can be used during Sitecore container builds and a PowerShell module with functions used on the Sitecore container host to initialize the Sitecore Docker environment.
+*   [Sitecore Docker Tools (⭐25)](https://github.com/sitecore/docker-tools) - Set of utilities to improve developer experience when running Sitecore in a Docker environment. This an image with development scripts and entrypoints that can be used during Sitecore container builds and a PowerShell module with functions used on the Sitecore container host to initialize the Sitecore Docker environment.
 
 ### Publishing
 
@@ -867,7 +846,7 @@
 *   [Speak 3 starter template (⭐0)](https://github.com/Mitya88/SitecoreSpeak3StarterProject) - Speak 3 starter template generated with Angular CLI version 1.2.7.
 *   [Sitecore Speak UI Library (⭐2)](https://github.com/Mitya88/SitecoreSpeakUILibrary) - Speak 3 components generated with Angular CLI version 1.2.7.
 
-## [45. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [44. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Unity SDK
 
@@ -881,60 +860,42 @@
 
 *   [jordanpotti/AWSBucketDump :fire::fire::fire::fire: (⭐1.2k)](https://github.com/jordanpotti/AWSBucketDump) - Security Tool to Look For Interesting Files in S3 Buckets.
 
-## [46. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [45. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Window Management
 
 *   [IntelliDock](https://mightymac.app/intellidock/) - Hides the Dock, Automatically.
 
-## [47. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [46. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / IDS / IPS / Host IDS / Host IPS
 
 *   [Security Onion](http://blog.securityonion.net/) - Security Onion is a Linux distro for intrusion detection, network security monitoring, and log management. It's based on Ubuntu and contains Snort, Suricata, Zeek, OSSEC, Sguil, Squert, Snorby, ELSA, Xplico, NetworkMiner, and many other security tools. The easy-to-use Setup wizard allows you to build an army of distributed sensors for your enterprise in minutes!
 
-## [48. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/week/README.md)
+## [47. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/week/README.md)
 
 ### C Sharp
 
 *   [Code Hero](http://www.codehero.org) - A first-person coding puzzle platformer that equips you with a code ray that casts C# at your target.
 
-## [49. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
+## [48. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 
 ### Blog Posts & Talks / Multi-accounts setup
 
 *   [Custom Resources with AWS CDK](https://medium.com/cyberark-engineering/custom-resources-with-aws-cdk-d9a8fad6b673?source=friends_link\&sk=549fcf9d998bbea304bdd8d834aca9e6) - By Roy Ben-Yosef.
 
-## [50. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
-
-### Plugins
-
-*   🛑💼 [Caret Color (⭐12)](https://github.com/naoray/tailwind-caret-color) - Adds `caret` color utilities.
-
-### Tools
-
-*   🔧 [create-tailwind-plugin (⭐19)](https://github.com/Landish/create-tailwind-plugin) - Plugin scaffolder for Tailwind CSS.
-
-### UI Libraries, Components & Templates
-
-*   🧩📁 [themes.dev](https://www.themes.dev/) - Handcrafted, free and premium Tailwind CSS themes and components.
-
-### Learning
-
-*   🎓 [Typographic defaults in Tailwind CSS](https://www.themes.dev/blog/typographic-defaults-in-tailwind-css/)
-
-## [51. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [49. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Database
 
-*   [next.jdbc (⭐668)](https://github.com/seancorfield/next-jdbc)
-*   [clojure.java.jdbc (⭐702)](https://github.com/clojure/java.jdbc)
+*   [next.jdbc (⭐674)](https://github.com/seancorfield/next-jdbc)
+*   [clojure.java.jdbc (⭐709)](https://github.com/clojure/java.jdbc)
 
 ### Text Processing
 
-*   [lmgrep (⭐174)](https://github.com/dainiusjocas/lucene-grep)
+*   [lmgrep (⭐187)](https://github.com/dainiusjocas/lucene-grep)
 
-## [52. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [50. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -945,17 +906,31 @@
 *   [Second Career Devs](https://secondcareerdevs.com/) - Each episode of the Second Career Devs podcast focuses on a guest who became a software engineer after a previous career.
 *   [The Hackersploit Podcast](https://www.listennotes.com/podcasts/the-hackersploit-podcast-alexis-rwTafnO1K9c/) - The HackerSploit podcast is aimed at educating anyone interested in Infosec, Hacking or Cybersecurity.
 
-## [53. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [51. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### BETA / Non-X86
+
+*   [MIA 99-42: The Fragment System: Further Specification](https://beta.cs.au.dk/Manuals/latest/beta/fragment.html) - Mjølner Informatics
+
+### JavaScript / React
+
+*   [React Book, your beginner guide to React (⭐1.3k)](https://github.com/softchris/react-book/) - Chris Noring
+
+### JavaScript / Vue.js
+
+*   [30 Days Of Vue](https://www.newline.co/30-days-of-vue) - Hassan Djirdeh (HTML; *email required for PDF*)
+
+## [52. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-gauge (⭐11)](https://github.com/chrisheanan/vue-gauge) - Vue.js component to create animated svg gauge charts
+*   [vue-gauge (⭐12)](https://github.com/chrisheanan/vue-gauge) - Vue.js component to create animated svg gauge charts
 
 ### Components & Libraries / Utilities
 
 *   [v-fetch (⭐6)](https://github.com/shaynekasai/v-fetch) - Vue.js directive to make AJAX requests.
 
-## [54. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [53. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Frameworks and Stacks
 
@@ -973,15 +948,15 @@
 
 *   [PyQtGraph (⭐3.2k)](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications.
 
-## [55. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [54. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Gaming
 
-*   [Games of Coding (⭐1.6k)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
+*   [Games of Coding (⭐1.7k)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
 
 ### Miscellaneous
 
-*   [Web Monetization (⭐254)](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
+*   [Web Monetization (⭐270)](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
 
 ---
 

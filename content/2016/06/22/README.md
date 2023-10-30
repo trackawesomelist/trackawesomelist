@@ -22,7 +22,7 @@
 
 ### Python / Natural Language Processing
 
-*   [jellyfish (⭐1.8k)](https://github.com/jamesturk/jellyfish) - a python library for doing approximate and phonetic matching of strings.
+*   [jellyfish (⭐1.9k)](https://github.com/jamesturk/jellyfish) - a python library for doing approximate and phonetic matching of strings.
 
 ## [4. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Scala / Git
 
-*   [scrypto (⭐193)](https://github.com/input-output-hk/scrypto) - Cryptographic primitives for Scala.
+*   [scrypto (⭐195)](https://github.com/input-output-hk/scrypto) - Cryptographic primitives for Scala.
 
 ## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Python / Financial Instruments and Pricing
 
-*   [vollib (⭐456)](https://github.com/vollib/vollib) - vollib is a python library for calculating option prices, implied volatility and greeks.
+*   [vollib (⭐532)](https://github.com/vollib/vollib) - vollib is a python library for calculating option prices, implied volatility and greeks.
 
 ### Python / Time Series
 
@@ -66,7 +66,7 @@
 
 ### Julia / FrameWorks
 
-*   [QuantLib.jl (⭐126)](https://github.com/pazzo83/QuantLib.jl) - Quantlib implementation in pure Julia.
+*   [QuantLib.jl (⭐130)](https://github.com/pazzo83/QuantLib.jl) - Quantlib implementation in pure Julia.
 
 ### Java / FrameWorks
 
@@ -74,8 +74,8 @@
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [Derman Papers (⭐154)](https://github.com/MarcosCarreira/DermanPapers) - Notebooks that replicate original quantitative finance papers from Emanuel Derman.
-*   [volatility-trading (⭐1.2k)](https://github.com/jasonstrimpel/volatility-trading) - A complete set of volatility estimators based on Euan Sinclair's Volatility Trading.
+*   [Derman Papers (⭐267)](https://github.com/MarcosCarreira/DermanPapers) - Notebooks that replicate original quantitative finance papers from Emanuel Derman.
+*   [volatility-trading (⭐1.4k)](https://github.com/jasonstrimpel/volatility-trading) - A complete set of volatility estimators based on Euan Sinclair's Volatility Trading.
 
 ## [8. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 

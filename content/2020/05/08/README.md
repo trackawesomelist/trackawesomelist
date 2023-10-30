@@ -83,7 +83,7 @@
 
 ### Third-Party Packages / Content Management Systems
 
-*   [wagtail (⭐15k)](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS). See [awesome-wagtail (⭐1.8k)](https://github.com/springload/awesome-wagtail) too.
+*   [wagtail (⭐16k)](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS). See [awesome-wagtail (⭐1.8k)](https://github.com/springload/awesome-wagtail) too.
 
 ### Resources / Educational
 
@@ -115,7 +115,7 @@
 
 ### Blockchain
 
-*   [EthereumKit (⭐462)](https://github.com/yuzushioh/EthereumKit) - EthereumKit is a free, open-source Swift framework for easily interacting with the Ethereum.
+*   [EthereumKit (⭐466)](https://github.com/yuzushioh/EthereumKit) - EthereumKit is a free, open-source Swift framework for easily interacting with the Ethereum.
 
 ### Bridging
 
@@ -135,11 +135,11 @@
 
 ### Transition
 
-*   [TransitionableTab (⭐791)](https://github.com/ParkGwangBeom/TransitionableTab) - TransitionableTab makes it easy to animate when switching between tab.
+*   [TransitionableTab (⭐805)](https://github.com/ParkGwangBeom/TransitionableTab) - TransitionableTab makes it easy to animate when switching between tab.
 
 ### Popup
 
-*   [PopupView (⭐2.1k)](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
+*   [PopupView (⭐2.5k)](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
 
 ### Extensions (Xcode 8+) / Collection View Layout
 
@@ -204,13 +204,13 @@
 
 ### Articles
 
-*   [Kong / Konga / Keycloak: securing API through OIDC (⭐242)](https://github.com/d4rkstar/kong-konga-keycloak)
+*   [Kong / Konga / Keycloak: securing API through OIDC (⭐262)](https://github.com/d4rkstar/kong-konga-keycloak)
 
 ## [12. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 
-*   [RSS Guard (⭐989)](https://github.com/martinrotter/rssguard) <sup>[574](https://t.me/s/aboutrss/574)</sup> ![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/martinrotter/rssguard)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [RSS Guard (⭐1.2k)](https://github.com/martinrotter/rssguard) <sup>[574](https://t.me/s/aboutrss/574)</sup> ![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/martinrotter/rssguard)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Hosted Readers / Outline Processor Markup Language
 
@@ -218,7 +218,7 @@
 
 ### 🦾 Others / Crypto or Blockchain relevant
 
-*   [Collect-Info-Research (⭐33)](https://github.com/p1g3/Collect-Info-Research) <sup>[367](https://t.me/s/aboutrss/367)</sup> : a project to help you collect info every day. [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/p1g3/Collect-Info-Research)
+*   [Collect-Info-Research (⭐34)](https://github.com/p1g3/Collect-Info-Research) <sup>[367](https://t.me/s/aboutrss/367)</sup> : a project to help you collect info every day. [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/p1g3/Collect-Info-Research)
 
 ## [13. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 

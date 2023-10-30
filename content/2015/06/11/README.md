@@ -10,15 +10,15 @@
 
 ### Templating Engines / Runner
 
-*   [EJS (⭐7.1k)](https://github.com/mde/ejs) - Effective JavaScript templating.
+*   [EJS (⭐7.3k)](https://github.com/mde/ejs) - Effective JavaScript templating.
 
 ### Validation / Runner
 
 *   [FieldVal (⭐136)](https://github.com/FieldVal/fieldval-js) - multipurpose validation library. Supports both sync and async validation.
 
-### Podcasts / Other
+### Misc / Other
 
-*   [obetomuniz/awesome-webcomponents (⭐571)](https://github.com/obetomuniz/awesome-webcomponents)
+*   [obetomuniz/awesome-webcomponents (⭐604)](https://github.com/obetomuniz/awesome-webcomponents)
 
 ## [2. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
 
@@ -38,11 +38,11 @@ Developed from the materials of NYU Poly's old Penetration Testing and Vulnerabi
 
 ### For Developers / Directory Navigation
 
-*   [repren (⭐318)](https://github.com/jlevy/repren) - Command-line search-and-replace and file-renaming swiss army knife
+*   [repren (⭐331)](https://github.com/jlevy/repren) - Command-line search-and-replace and file-renaming swiss army knife
 
 ### Shell Script Development / Directory Navigation
 
-*   [The Art of Command Line (⭐124k)](https://github.com/jlevy/the-art-of-command-line)
+*   [The Art of Command Line (⭐137k)](https://github.com/jlevy/the-art-of-command-line)
 
 ---
 

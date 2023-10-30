@@ -28,7 +28,7 @@
 
 ### Dependency Injection
 
-*   [Deli (⭐134)](https://github.com/kawoou/Deli) - Deli is an easy-to-use Dependency Injection(DI).
+*   [Deli (⭐135)](https://github.com/kawoou/Deli) - Deli is an easy-to-use Dependency Injection(DI).
 
 ## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Media / Audio
 
-*   [Flutter Sound (⭐762)](https://github.com/dooboolab/flutter_sound) <!--stargazers:dooboolab/flutter_sound--> - Flutter audio recorder and player at one hand by [dooboolab](https://github.com/dooboolab)
+*   [Flutter Sound (⭐801)](https://github.com/dooboolab/flutter_sound) <!--stargazers:dooboolab/flutter_sound--> - Flutter audio recorder and player at one hand by [dooboolab](https://github.com/dooboolab)
 
 ---
 

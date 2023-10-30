@@ -64,7 +64,7 @@
 
 ### String / Runner
 
-*   [voca (⭐3.5k)](https://github.com/panzerdp/voca) - The ultimate JavaScript string library
+*   [voca (⭐3.6k)](https://github.com/panzerdp/voca) - The ultimate JavaScript string library
 
 ## [9. Awesome Gideros](/content/stetso/awesome-gideros/README.md)
 
@@ -81,7 +81,7 @@
 
 ### CMS
 
-*   [mojoPortal  (⭐176)](https://github.com/i7media/mojoportal) - MojoPortal is an extensible, cross database, mobile friendly, web content management system (CMS) and web application framework written in C# ASP.NET
+*   [mojoPortal  (⭐178)](https://github.com/i7media/mojoportal) - MojoPortal is an extensible, cross database, mobile friendly, web content management system (CMS) and web application framework written in C# ASP.NET
 
 ### Code Analysis and Metrics
 
@@ -93,15 +93,15 @@
 
 ### Image Processing
 
-*   [Magick.NET (⭐2.8k)](https://github.com/dlemstra/Magick.NET) - .NET wrapper for the ImageMagick library.
+*   [Magick.NET (⭐3k)](https://github.com/dlemstra/Magick.NET) - .NET wrapper for the ImageMagick library.
 
 ### JavaScript Engines
 
-*   [ClearScript (⭐1.5k)](https://github.com/Microsoft/ClearScript) - A library that makes it easy to add scripting to your .NET applications. It currently supports JavaScript (via V8 and JScript) and VBScript.
+*   [ClearScript (⭐1.6k)](https://github.com/Microsoft/ClearScript) - A library that makes it easy to add scripting to your .NET applications. It currently supports JavaScript (via V8 and JScript) and VBScript.
 
 ### Logging
 
-*   [Essential Diagnostics (⭐62)](https://github.com/sgryphon/essential-diagnostics) - Extends the inbuilt features of System.Diagnostics namespace to provide flexible logging
+*   [Essential Diagnostics (⭐64)](https://github.com/sgryphon/essential-diagnostics) - Extends the inbuilt features of System.Diagnostics namespace to provide flexible logging
 *   [Semantic Logging Application Block (SLAB) (⭐214)](https://github.com/MicrosoftArchive/semantic-logging) - Extends the inbuilt features of System.Diagnostics.Tracing namespace (EventSource class) to log to several sinks including Azure Tables, Databases, files (JSON, XML, text). Supports in-process and out-of-process logging through ETW, and Rx for real-time filtering/aggregating of events.
 
 ## [11. Awesome Iot](/content/HQarroum/awesome-iot/README.md)

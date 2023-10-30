@@ -23,11 +23,11 @@
 
 ### Frameworks
 
-*   [MiLi (⭐17)](https://github.com/MariadeAnton/MiLi) - Minimal headers-only C++ Library. \[Boost]
+*   [MiLi (⭐18)](https://github.com/MariadeAnton/MiLi) - Minimal headers-only C++ Library. \[Boost]
 
 ### Chemistry
 
-*   [gromacs (⭐536)](https://github.com/gromacs/gromacs) - A message-passing parallel molecular dynamics implementation. \[GPL] [website](http://www.gromacs.org)
+*   [gromacs (⭐590)](https://github.com/gromacs/gromacs) - A message-passing parallel molecular dynamics implementation. \[GPL] [website](http://www.gromacs.org)
 
 ### Image Processing
 
@@ -36,7 +36,7 @@
 
 ### Logging
 
-*   [Easylogging++ (⭐3.4k)](https://github.com/amrayn/easyloggingpp) - Extremely light-weight high performance logging library for C++11 (or higher) applications. \[MIT]
+*   [Easylogging++ (⭐3.5k)](https://github.com/amrayn/easyloggingpp) - Extremely light-weight high performance logging library for C++11 (or higher) applications. \[MIT]
 
 ### Math
 
@@ -44,11 +44,11 @@
 
 ### Reflection
 
-*   [clReflect (⭐236)](https://github.com/Celtoys/clReflect) - C++ Reflection using clang. \[MIT]
+*   [clReflect (⭐241)](https://github.com/Celtoys/clReflect) - C++ Reflection using clang. \[MIT]
 
 ### Miscellaneous
 
-*   [libsigc++ (⭐274)](https://github.com/libsigcplusplus/libsigcplusplus) - A typesafe callback system for standard C++. \[LGPL] [website](https://libsigcplusplus.github.io/libsigcplusplus)
+*   [libsigc++ (⭐300)](https://github.com/libsigcplusplus/libsigcplusplus) - A typesafe callback system for standard C++. \[LGPL] [website](https://libsigcplusplus.github.io/libsigcplusplus)
 
 ### Compiler
 
@@ -70,7 +70,7 @@
 
 ### Related projects / Other services
 
-*   [Pluja's Awesome Privacy (⭐8.4k)](https://github.com/pluja/awesome-privacy): A curated list of services and alternatives that respect your privacy because privacy matters.
+*   [Pluja's Awesome Privacy (⭐9.3k)](https://github.com/pluja/awesome-privacy): A curated list of services and alternatives that respect your privacy because privacy matters.
 
 ## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -82,13 +82,13 @@
 
 ### CLI Utils
 
-*   [meet (⭐37)](https://github.com/ryanprior/meet) - Start a jitsi meeting quickly from the comfort of your command line
+*   [meet (⭐36)](https://github.com/ryanprior/meet) - Start a jitsi meeting quickly from the comfort of your command line
 
 ## [9. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Tools
 
-*   [keycloak-scanner Python CLI (⭐33)](https://github.com/NeuronAddict/keycloak-scanner)
+*   [keycloak-scanner Python CLI (⭐42)](https://github.com/NeuronAddict/keycloak-scanner)
 
 ## [10. Awesome Ava](/content/avajs/awesome-ava/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 23, 2021
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Backprop (⭐238)](https://github.com/backprop-ai/backprop) - Backprop makes it simple to use, finetune, and deploy state-of-the-art ML models.
+*   [Backprop (⭐240)](https://github.com/backprop-ai/backprop) - Backprop makes it simple to use, finetune, and deploy state-of-the-art ML models.
 
 ## [2. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Code Quality
 
-*   [CodeBeat](https://codebeat.co) — Automated Code Review Platform available for many languages. Free forever for public repositories with Slack & E-mail integration.
+*   [CodeBeat](https://codebeat.co) — Automated Code Review Platform available for many languages. Free forever for public repositories with Slack and e-mail integration.
 
 ## [4. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -103,19 +103,19 @@
 
 ### Modules / CLI utils
 
-*   [chart (⭐56)](https://github.com/maximousblk/chart) - Console ASCII line charts with no dependencies.
+*   [chart (⭐57)](https://github.com/maximousblk/chart) - Console ASCII line charts with no dependencies.
 
 ## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Internationalization
 
-*   [mini\_i18n (⭐95)](https://github.com/markets/mini_i18n) - Minimalistic, flexible and fast Internationalization library. It supports localization, interpolations, pluralization, fallbacks, nested keys and more.
+*   [mini\_i18n (⭐96)](https://github.com/markets/mini_i18n) - Minimalistic, flexible and fast Internationalization library. It supports localization, interpolations, pluralization, fallbacks, nested keys and more.
 
 ## [8. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Developer Tools / Other Tools
 
-*   [FastAPI Code Generator (⭐665)](https://github.com/koxudaxi/fastapi-code-generator) - Create a FastAPI app from an OpenAPI file, enabling schema-driven development.
+*   [FastAPI Code Generator (⭐759)](https://github.com/koxudaxi/fastapi-code-generator) - Create a FastAPI app from an OpenAPI file, enabling schema-driven development.
 
 ### Courses / Other Tools
 
@@ -131,21 +131,15 @@
 
 ### UI / Calendar
 
-*   [Time Planner (⭐150)](https://github.com/Jamalianpour/time_planner) <!--stargazers:Jamalianpour/time_planner--> - A beautiful, easy to use and customizable time planner for flutter mobile, desktop and web by [Mohammad Jamalianpour](https://github.com/Jamalianpour)
+*   [Time Planner (⭐171)](https://github.com/Jamalianpour/time_planner) <!--stargazers:Jamalianpour/time_planner--> - A beautiful, easy to use and customizable time planner for flutter mobile, desktop and web by [Mohammad Jamalianpour](https://github.com/Jamalianpour)
 
-## [11. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [11. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
-### UI Libraries, Components & Templates
-
-*   📁 [Resume (⭐116)](https://github.com/Thomashighbaugh/resume) - A stylized resume template built with Tailwind CSS, featuring a nifty hero-pattern background and custom font.
-
-## [12. Awesome Nix](/content/nix-community/awesome-nix/README.md)
-
-### Channel History / Newsletters
+### Channel History / Discovery
 
 *   [Channel History](https://channels.nix.gsc.io) - Get historical git commits for Nix channels.
 
-## [13. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [12. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Articles & Posts
 

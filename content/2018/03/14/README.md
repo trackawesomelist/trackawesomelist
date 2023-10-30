@@ -31,7 +31,7 @@
 
 ### Tours And Guides / Runner
 
-*   [driver.js (⭐15k)](https://github.com/kamranahmedse/driver.js) - Powerful yet light-weight, vanilla JavaScript engine to drive the user's focus across the page
+*   [driver.js (⭐19k)](https://github.com/kamranahmedse/driver.js) - Powerful yet light-weight, vanilla JavaScript engine to drive the user's focus across the page
 
 ## [4. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
@@ -55,9 +55,9 @@
 
 ### Frameworks, Libraries and Tools / Testing
 
-*   [GenFu (⭐772)](https://github.com/MisterJames/GenFu) - Library you can use to generate realistic test data.
-*   [mockhttp (⭐1.2k)](https://github.com/richardszalay/mockhttp) - Testing layer for Microsoft's HttpClient library.
-*   [xUnit.net (⭐3.5k)](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
+*   [GenFu (⭐815)](https://github.com/MisterJames/GenFu) - Library you can use to generate realistic test data.
+*   [mockhttp (⭐1.4k)](https://github.com/richardszalay/mockhttp) - Testing layer for Microsoft's HttpClient library.
+*   [xUnit.net (⭐3.8k)](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -67,7 +67,7 @@
 
 ### HTTP
 
-*   [halite (⭐172)](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers
+*   [halite (⭐173)](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-comment-grid (⭐156)](https://github.com/TugayYaldiz/vue-comment-grid) - 💬 Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.
+*   [vue-comment-grid (⭐160)](https://github.com/TugayYaldiz/vue-comment-grid) - 💬 Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.
 
 ## [10. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 

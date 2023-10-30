@@ -10,7 +10,7 @@
 
 ### Demos / Syntax highlighting packages
 
-*   [matrix-rain-gb (⭐24)](https://github.com/wtjones/matrix-rain-gb) - A Matrix digital rain effect in assembler.
+*   [matrix-rain-gb (⭐28)](https://github.com/wtjones/matrix-rain-gb) - A Matrix digital rain effect in assembler.
 
 ## [2. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Modules / Function
 
-*   [compose-tiny (⭐45)](https://github.com/hipstersmoothie/compose-tiny) - A very tiny and fast compose function.
+*   [compose-tiny (⭐46)](https://github.com/hipstersmoothie/compose-tiny) - A very tiny and fast compose function.
 
 ---
 

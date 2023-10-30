@@ -26,7 +26,7 @@
 
 ### Images / Gif Creation
 
-*   [gifgen (⭐508)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
+*   [gifgen (⭐521)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
 
 ## [3. Awesome Dtrace](/content/xen0l/awesome-dtrace/README.md)
 
@@ -108,7 +108,7 @@
 
 ### Miscellaneous
 
-*   [std\_json\_io (⭐28)](https://github.com/hassox/std_json_io) - Application for managing and communicating with IO servers via JSON.
+*   [std\_json\_io (⭐29)](https://github.com/hassox/std_json_io) - Application for managing and communicating with IO servers via JSON.
 
 ## [8. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -129,7 +129,7 @@
 
 ### Python / Git
 
-*   [bcrypt (⭐923)](https://github.com/pyca/bcrypt) - Modern password hashing for your software and your servers.
+*   [bcrypt (⭐1k)](https://github.com/pyca/bcrypt) - Modern password hashing for your software and your servers.
 
 ## [10. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -171,13 +171,13 @@ Webpage: <http://espaijoliu.tumblr.com/>
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [rabbitmq-dotnet-client (⭐1.7k)](https://github.com/rabbitmq/rabbitmq-dotnet-client) - RabbitMQ .NET client <https://www.rabbitmq.com>.
+*   [rabbitmq-dotnet-client (⭐1.9k)](https://github.com/rabbitmq/rabbitmq-dotnet-client) - RabbitMQ .NET client <https://www.rabbitmq.com>.
 
 ## [13. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Packages / Libraries
 
-*   [Audiojs (⭐236)](https://github.com/audiojs/audio) - An object that enables you to store, read, and write PCM audio data more easily.
+*   [Audiojs (⭐237)](https://github.com/audiojs/audio) - An object that enables you to store, read, and write PCM audio data more easily.
 
 ---
 

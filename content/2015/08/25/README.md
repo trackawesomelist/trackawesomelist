@@ -415,12 +415,10 @@ git remote prune origin
 
 ### License
 
-### Delete branches with day-offset
+### Filter by author, range, and more
 
-    $ git branchcut execute -o 7
-    Switched to branch 'main'
-    Deleted branch bugfix/test (was e2afad6).
-    Deleted branch too-old-branch (was 1d3f82d).
+    $ git spend sum --author stevemao --author antoine@goutenoir.com --since tags/v1.0.0
+    1 week 3 hours
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
@@ -452,13 +450,13 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 ### Framework Components
 
-*   [raygun (⭐18)](https://github.com/cobenian/raygun) - Capture bugs and send them to Raygun.
+*   [raygun (⭐19)](https://github.com/cobenian/raygun) - Capture bugs and send them to Raygun.
 
 ## [12. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ### Templates / Misc
 
-*   [Campaign (⭐645)](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
+*   [Campaign (⭐644)](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
 
 ### Resources / Misc
 

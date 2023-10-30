@@ -10,13 +10,13 @@
 
 ### Audio Related Packages / Feature extraction
 
-*   [pyYAAFE (⭐235)](https://github.com/Yaafe/Yaafe) [:octocat: (⭐235)](https://github.com/Yaafe/Yaafe) - Python bindings for YAAFE feature extractor.
+*   [pyYAAFE (⭐236)](https://github.com/Yaafe/Yaafe) [:octocat: (⭐236)](https://github.com/Yaafe/Yaafe) - Python bindings for YAAFE feature extractor.
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [GraphHopper](https://graphhopper.com/) - Fast routing library and server using OpenStreetMap. ([Source Code (⭐4.1k)](https://github.com/graphhopper/graphhopper)) `Apache-2.0` `Java`
+*   [GraphHopper](https://graphhopper.com/) - Fast routing library and server using OpenStreetMap. ([Source Code (⭐4.4k)](https://github.com/graphhopper/graphhopper)) `Apache-2.0` `Java`
 
 ## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -34,13 +34,13 @@
 
 ### Frameworks, Libraries and Tools / Code Analysis and Metrics
 
-*   [awesome-static-analysis (⭐10k)](https://github.com/mre/awesome-static-analysis) - Curated list of static analysis tools, linters and code quality checkers for various programming languages.
+*   [awesome-static-analysis (⭐12k)](https://github.com/mre/awesome-static-analysis) - Curated list of static analysis tools, linters and code quality checkers for various programming languages.
 
 ## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Datasets / Topic-specific
 
-*   [Movie galaxies](http://moviegalaxies.com/) - A databse of movie characters interaction graphs.
+*   [Movie galaxies](http://moviegalaxies.com/) - A database of movie characters interaction graphs.
 
 ---
 

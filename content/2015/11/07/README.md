@@ -32,7 +32,7 @@
 
 ### CLI Utilities
 
-*   [Pastel (⭐618)](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
+*   [Pastel (⭐627)](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
 
 ### Code Analysis and Metrics
 
@@ -45,7 +45,7 @@
 ### Natural Language Processing
 
 *   [Parslet](http://kschiess.github.io/parslet/) - A small Ruby library for constructing parsers in the PEG (Parsing Expression Grammar) fashion.
-*   [Treetop (⭐287)](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
+*   [Treetop (⭐296)](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
 
 ## [5. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 

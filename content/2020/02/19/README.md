@@ -10,13 +10,13 @@
 
 ### Software / Graphics
 
-*   [ExifCleaner](https://exifcleaner.com/) - GUI app to remove exif metadata from images and videos with simple drag and drop. ([MIT (⭐992)](https://github.com/szTheory/exifcleaner/blob/master/LICENSE))
+*   [ExifCleaner](https://exifcleaner.com/) - GUI app to remove exif metadata from images and videos with simple drag and drop. ([MIT (⭐1.3k)](https://github.com/szTheory/exifcleaner/blob/master/LICENSE))
 
 ## [2. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
-### Services
+### Services & Platforms
 
-*   [Fission](https://fission.codes) - App and website hosting powered by IPFS, including DNS automation, identity, and end-to-end encryption.
+*   [Fission](https://fission.codes) - Fission builds open source protocols and managed solutions that empower developers to construct scalable and secure software applications.
 
 ## [3. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
@@ -34,13 +34,13 @@
 
 ### Video/Audio / Other
 
-*   [exifr (⭐838)](https://github.com/MikeKovarik/exifr) - The fastest and most versatile EXIF reading library. <https://mutiny.cz/exifr/>
+*   [exifr (⭐894)](https://github.com/MikeKovarik/exifr) - The fastest and most versatile EXIF reading library. <https://mutiny.cz/exifr/>
 
 ## [5. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
 ### General
 
-*   [Fluent Validation ★3,570 (⭐8.1k)](https://github.com/FluentValidation/FluentValidation) - Fluent interface and lambda expressions for building validation rules.
+*   [Fluent Validation ★3,570 (⭐8.3k)](https://github.com/FluentValidation/FluentValidation) - Fluent interface and lambda expressions for building validation rules.
 
 ### Game Engine
 
@@ -49,17 +49,17 @@
 ### Media
 
 *   [Lottie ★643 (⭐1.2k)](https://github.com/Baseflow/LottieXamarin) - Render After Effects animations natively on Android and iOS for Xamarin.
-*   [MediaManager ★269 (⭐757)](https://github.com/Baseflow/XamarinMediaManager) - Cross platform Xamarin plugin to play Media from PCL.
+*   [MediaManager ★269 (⭐758)](https://github.com/Baseflow/XamarinMediaManager) - Cross platform Xamarin plugin to play Media from PCL.
 
 ### Network
 
-*   [RestSharp ★6,994 (⭐9.1k)](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET.
+*   [RestSharp ★6,994 (⭐9.2k)](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET.
 
 ### UI
 
-*   [SimpleBottomDrawer (⭐111)](https://github.com/galadril/Xam.Plugin.SimpleBottomDrawer) - Just a nice and simple BottomDrawer for your Xamarin Forms project
+*   [SimpleBottomDrawer (⭐112)](https://github.com/galadril/Xam.Plugin.SimpleBottomDrawer) - Just a nice and simple BottomDrawer for your Xamarin Forms project
 *   [SimpleColorPicker (⭐10)](https://github.com/galadril/Xam.Plugin.SimpleColorPicker) - Just a nice and simple ColorPicker for your Xamarin Forms project
-*   [SimpleAppIntro (⭐140)](https://github.com/galadril/Xam.Plugin.SimpleAppIntro) - Just a nice and simple AppIntro for your Xamarin Forms project
+*   [SimpleAppIntro (⭐142)](https://github.com/galadril/Xam.Plugin.SimpleAppIntro) - Just a nice and simple AppIntro for your Xamarin Forms project
 
 ## [6. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
@@ -88,7 +88,6 @@
 ### Pricing / Hybrid
 
 *   [The Three Part Tariff](https://tomtunguz.com/three-part-tariffs/) - Beyond linear pricing, there is a place for additional platform fees and free-tiers in the pricing structure.
-*   [Google Ads API: `BillingCap` enum](https://developers.google.com/ad-manager/api/reference/v201911/CompanyService.BillingCap) - Capped actuals: monthly with rollover, an optimized pricing scheme to limit surprises from customers, in which we more or less sell quotas.
 
 ### Pricing / Strategy
 
@@ -116,15 +115,15 @@
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [microenv.com](https://microenv.com) —  Create fake REST API for developers with possibility to generate code and app in docker container.
+*   [microenv.com](https://microenv.com) —  Create fake REST API for developers with the possibility to generate code and app in a docker container.
 
 ## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Monitoring / Isomorphic web frameworks
 
-*   [cl-sentry-client (⭐21)](https://github.com/mmontone/cl-sentry-client) - a Sentry client for Common Lisp, the cloud-based error monitoring system. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-sentry-client (⭐22)](https://github.com/mmontone/cl-sentry-client) - a Sentry client for Common Lisp, the cloud-based error monitoring system. [MIT](https://opensource.org/licenses/MIT).
 
 ## [12. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 

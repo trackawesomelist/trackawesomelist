@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 01, 2020
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -23,7 +23,7 @@
 
 ### Top / Game Engine resources
 
-*   [AuthPass (⭐1.5k)](https://github.com/authpass/authpass) <!--stargazers:authpass/authpass--> - Keepass compatible password manager for mobile and desktop by [hpoul](https://github.com/hpoul)
+*   [AuthPass (⭐1.8k)](https://github.com/authpass/authpass) <!--stargazers:authpass/authpass--> - Keepass compatible password manager for mobile and desktop by [hpoul](https://github.com/hpoul)
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -35,16 +35,16 @@
 
 ### Command-Line Productivity / Directory Navigation
 
-*   [aliasme (⭐103)](https://github.com/Jintin/aliasme) - alias helper to change directory quickly
-*   [autojump (⭐14k)](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
+*   [aliasme (⭐109)](https://github.com/Jintin/aliasme) - alias helper to change directory quickly
+*   [autojump (⭐15k)](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 *   [bashmarks (⭐1.8k)](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
-*   [bd (⭐891)](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory
-*   [commacd (⭐339)](https://github.com/shyiko/commacd) - A faster way to move around in Bash
-*   [enhancd (⭐2.2k)](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with an interactive filter
-*   [goto (⭐824)](https://github.com/iridakos/goto) - A shell utility for navigation to aliased directories supporting auto-completion
-*   [jump (⭐1.5k)](https://github.com/gsamokovarov/jump) - Jump helps you navigate your file system faster by learning your habits.
-*   [lazy-cd (⭐20)](https://github.com/pedramamini/lazy-cd) - Simple bash commands for bookmarked navigation of the file system, complete with bash-completion.
-*   [up (⭐147)](https://github.com/shannonmoeller/up) - Ascend directories by name or count; for bash, zsh, and fish.
+*   [bd (⭐904)](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory
+*   [commacd (⭐344)](https://github.com/shyiko/commacd) - A faster way to move around in Bash
+*   [enhancd (⭐2.3k)](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with an interactive filter
+*   [goto (⭐834)](https://github.com/iridakos/goto) - A shell utility for navigation to aliased directories supporting auto-completion
+*   [jump (⭐1.6k)](https://github.com/gsamokovarov/jump) - Jump helps you navigate your file system faster by learning your habits.
+*   [lazy-cd (⭐19)](https://github.com/pedramamini/lazy-cd) - Simple bash commands for bookmarked navigation of the file system, complete with bash-completion.
+*   [up (⭐152)](https://github.com/shannonmoeller/up) - Ascend directories by name or count; for bash, zsh, and fish.
 
 ## [6. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Other Testing
 
-*   [Mockingbird (⭐187)](https://github.com/Farfetch/mockingbird) - Simplify software testing, by easily mocking any system using HTTP/HTTPS, allowing a team to test and develop against a service that is not complete, unstable or just to reproduce planned cases.
+*   [Mockingbird (⭐189)](https://github.com/Farfetch/mockingbird) - Simplify software testing, by easily mocking any system using HTTP/HTTPS, allowing a team to test and develop against a service that is not complete, unstable or just to reproduce planned cases.
 
 ## [8. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Developer Tools / Other Tools
 
-*   [msgpack-asgi (⭐131)](https://github.com/florimondmanca/msgpack-asgi) - Automatic [MessagePack](https://msgpack.org/) content negotiation.
+*   [msgpack-asgi (⭐136)](https://github.com/florimondmanca/msgpack-asgi) - Automatic [MessagePack](https://msgpack.org/) content negotiation.
 
 ### Official Resources / Other Tools
 
@@ -101,16 +101,16 @@
 
 ### Boilerplate / Other Tools
 
-*   [FastAPI and Tortoise ORM (⭐102)](https://github.com/prostomarkeloff/fastapi-tortoise) - Powerful but simple template for web APIs w/ FastAPI (as web framework) and Tortoise-ORM (for working via database without headache).
-*   [cookiecutter-fastapi (⭐253)](https://github.com/arthurhenrique/cookiecutter-fastapi) - Cookiecutter template for FastAPI projects using: Machine Learning, Poetry, Azure Pipelines and pytest.
-*   [FastAPI and React Template (⭐1.5k)](https://github.com/Buuntu/fastapi-react) - Full stack cookiecutter boilerplate using FastAPI, TypeScript, Docker, PostgreSQL, and React.
+*   [FastAPI and Tortoise ORM (⭐113)](https://github.com/prostomarkeloff/fastapi-tortoise) - Powerful but simple template for web APIs w/ FastAPI (as web framework) and Tortoise-ORM (for working via database without headache).
+*   [cookiecutter-fastapi (⭐318)](https://github.com/arthurhenrique/cookiecutter-fastapi) - Cookiecutter template for FastAPI projects using: Machine Learning, Poetry, Azure Pipelines and pytest.
+*   [FastAPI and React Template (⭐1.7k)](https://github.com/Buuntu/fastapi-react) - Full stack cookiecutter boilerplate using FastAPI, TypeScript, Docker, PostgreSQL, and React.
 
 ### Open Source Projects / Other Tools
 
-*   [FastAPI with Celery, RabbitMQ, and Redis (⭐380)](https://github.com/GregaVrbancic/fastapi-celery) - Minimal example utilizing FastAPI and Celery with RabbitMQ for task queue, Redis for Celery backend, and Flower for monitoring the Celery tasks.
-*   [JSON-RPC Server (⭐204)](https://github.com/smagafurov/fastapi-jsonrpc) - JSON-RPC server based on FastAPI.
-*   [redis-streams-fastapi-chat (⭐142)](https://github.com/leonh/redis-streams-fastapi-chat) - A simple Redis Streams backed chat app using Websockets, Asyncio and FastAPI/Starlette.
-*   [TermPair (⭐1.5k)](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption.
+*   [FastAPI with Celery, RabbitMQ, and Redis (⭐421)](https://github.com/GregaVrbancic/fastapi-celery) - Minimal example utilizing FastAPI and Celery with RabbitMQ for task queue, Redis for Celery backend, and Flower for monitoring the Celery tasks.
+*   [JSON-RPC Server (⭐234)](https://github.com/smagafurov/fastapi-jsonrpc) - JSON-RPC server based on FastAPI.
+*   [redis-streams-fastapi-chat (⭐157)](https://github.com/leonh/redis-streams-fastapi-chat) - A simple Redis Streams backed chat app using Websockets, Asyncio and FastAPI/Starlette.
+*   [TermPair (⭐1.6k)](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption.
 
 ## [10. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
 
@@ -129,12 +129,6 @@
 ### Interviewing
 
 *   [Codility](https://www.codility.com/) - Online platform that offers sponsored challenges
-
-## [13. Awesome Osint](/content/jivoi/awesome-osint/README.md)
-
-### Social Media Tools / Twitter
-
-*   [Nations24](https://nations24.com)
 
 ---
 

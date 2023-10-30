@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 07 - Oct 13, 2019
 
-81 awesome lists updated this week.
+79 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -94,29 +94,39 @@
 
 *   [Mutek Tokyo](https://mutek.jp/) - Electronic music and the digital arts festival. **(December)**
 
-## [3. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
+## [3. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+
+### Machine Learning / General Purpose Machine Learning
+
+*   [hyperlearn (⭐1.4k)](https://github.com/danielhanchen/hyperlearn) - 50%+ Faster, 50%+ less RAM usage, GPU support re-written Sklearn, Statsmodels. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+
+### Natural Language Processing / Others
+
+*   [spaCy](https://spacy.io/) - Industrial-Strength Natural Language Processing.
+
+## [4. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
 ### Base / Reset / Normalize
 
 *   [**ress**](https://github.com/filipelinhares/ress) - Modern CSS reset.\
     ![](https://img.shields.io/github/stars/filipelinhares/ress.svg?style=social\&label=Star)
-    [Repo (⭐1.9k)](https://github.com/filipelinhares/ress)
+    [Repo (⭐2k)](https://github.com/filipelinhares/ress)
     \| #CSS
 
-## [4. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
+## [5. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
 
 ### Security
 
 *   [Nishang (⭐6.9k)](https://github.com/samratashok/nishang) - Enables scripting for red team, penetration testing, and offensive security.
 
-## [5. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [6. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### MOOCs
 
 *   [The Quantum Internet and Quantum Computers: How Will They Change the World?](https://www.edx.org/course/quantum-internet-quantum-computers-how-delftx-qtm1x) - Learn the principles and promises behind developments in quantum computers and quantum internet and how they will impact our future.
 *   [Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing) - Introduction to the key concepts of quantum computing with minimal mathematics.
 
-## [6. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
+## [7. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
 ### Government
 
@@ -125,25 +135,11 @@
     *   [Province of Barcelona Municipalities](https://do.diba.cat/api/dataset/municipis/format/json2)
     *   [Province of Madrid Educational Centers (non-university)](https://datos.comunidad.madrid/catalogo/dataset/ae433b7e-98f7-4547-8aa5-6ada557a429f/resource/21424b1c-6465-4db9-a5e3-6ddf180c634b/download/centros_educativos.json)
 
-## [7. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [8. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Network Protocols
 
-*   [telnet.cr (⭐10)](https://github.com/spider-gazelle/telnet.cr) - Telnet protocol
-
-## [8. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
-
-### Machine Learning / General Purpose Machine Learning
-
-*   [hyperlearn (⭐1.4k)](https://github.com/danielhanchen/hyperlearn) - 50%+ Faster, 50%+ less RAM usage, GPU support re-written Sklearn, Statsmodels. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
-
-### Data Manipulation / Data Frames
-
-*   [pandas\_flavor (⭐276)](https://github.com/Zsailer/pandas_flavor) - A package that allows writing your own flavor of Pandas easily.
-
-### Natural Language Processing / NLP
-
-*   [spaCy](https://spacy.io/) - Industrial-Strength Natural Language Processing.
+*   [telnet.cr (⭐11)](https://github.com/spider-gazelle/telnet.cr) - Telnet protocol
 
 ## [9. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
@@ -162,7 +158,7 @@
 
 ### Web / Playground
 
-*   :octocat: [n8n.io (⭐30k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
+*   :octocat: [n8n.io (⭐34k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
 
 ## [12. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
@@ -235,7 +231,7 @@
 
 ### Tools
 
-*   [Tellit](https://gitlab.com/terceranexus6/tellit) - Encrypt files before uploading them using a keypair or a passphrase
+*   [Tellit](https://gitlab.com/terceranexus6/tellit) - Encrypt files before uploading them using a keypair or a passphrase.
 
 ## [17. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
@@ -249,15 +245,15 @@
 
 *   [Oracle Cloud](https://www.oracle.com/cloud/)
     *   Compute
-        *   2 AMD based Compute VMs with 1/8 OCPU and 1 GB memory eachs
+        *   2 AMD-based Compute VMs with 1/8 OCPU and 1 GB memory each
         *   4 Arm-based Ampere A1 cores and 24 GB of memory usable as one VM or up to 4 VMs
         *   Instances will be reclaimed when [deemed idle](https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm#compute__idleinstances)
     *   Block Volume - 2 volumes, 200 GB total (used for compute)
     *   Object Storage - 10 GB
     *   Load balancer - 1 instance with 10 Mbps
     *   Databases - 2 DBs, 20 GB each
-    *   Monitoring - 500 million ingestion datapoints, 1 billion retrieval datapoints
-    *   Bandwidth - 10 TB egress per month, speed limited to 50 Mbps on x64 based VM, 500 Mbps \* core count on ARM based VM
+    *   Monitoring - 500 million ingestion data points, 1 billion retrieval datapoints
+    *   Bandwidth - 10 TB egress per month, speed limited to 50 Mbps on x64-based VM, 500 Mbps \* core count on ARM-based VM
     *   Public IP - 2 IPv4 for VMs, 1 IPv4 for load balancer
     *   Notifications - 1 million delivery options per month, 1000 emails sent per month
     *   Full, detailed list - <https://www.oracle.com/cloud/free/>
@@ -266,13 +262,13 @@
 
 ### Applications
 
-*   [CaptainFact (⭐176)](https://github.com/CaptainFact/captain-fact-api) - A collaborative, real-time video fact-checking platform. ([Docs](https://captainfact.io/)).
-*   [Exon (⭐21)](https://github.com/tchoutri/Exon) - A “mess manager” developed in Elixir and provides a simple API to manage & document your stuff. ([Docs](https://hexdocs.pm/exon/readme.html)).
+*   [CaptainFact (⭐180)](https://github.com/CaptainFact/captain-fact-api) - A collaborative, real-time video fact-checking platform. ([Docs](https://captainfact.io/)).
+*   [Exon (⭐22)](https://github.com/tchoutri/Exon) - A “mess manager” developed in Elixir and provides a simple API to manage & document your stuff. ([Docs](https://hexdocs.pm/exon/readme.html)).
 *   [medusa\_server (⭐7)](https://github.com/IcaliaLabs/medusa_server) - A simple cowboy web server written in Elixir to stack images. ([Docs](https://hexdocs.pm/medusa/0.2.0/api-reference.html)).
 
 ### Artificial Intelligence
 
-*   [Exnn (⭐97)](https://github.com/zampino/exnn) - Evolutive Neural Networks framework à la G.Sher written in Elixir. ([Docs](http://zampino.github.io/exnn/)).
+*   [Exnn (⭐99)](https://github.com/zampino/exnn) - Evolutive Neural Networks framework à la G.Sher written in Elixir. ([Docs](http://zampino.github.io/exnn/)).
 *   [Neat-Ex](https://gitlab.com/onnoowl/Neat-Ex) - An Elixir implementation of the NEAT algorithm. ([Docs](https://hexdocs.pm/neat_ex/Neat.html)).
 
 ### Authentication
@@ -283,35 +279,35 @@
 
 ### Authorization
 
-*   [canary (⭐464)](https://github.com/cpjk/canary) - An authorization library for Elixir applications that restricts what resources the current user is allowed to access. ([Docs](https://hexdocs.pm/canary/api-reference.html)).
+*   [canary (⭐469)](https://github.com/cpjk/canary) - An authorization library for Elixir applications that restricts what resources the current user is allowed to access. ([Docs](https://hexdocs.pm/canary/api-reference.html)).
 *   [terminator (⭐59)](https://github.com/MilosMosovsky/terminator) - Database based authorization (ACL), with custom DSL rules for requiring needed permissions. ([Docs](https://hexdocs.pm/terminator/readme.html)).
 
 ### Chatting
 
-*   [ExGram (⭐158)](https://github.com/rockneurotiko/ex_gram) - a library to build Telegram Bots, you can use the low-level methods and models or use the really opinionated framework included. ([Docs](https://hexdocs.pm/ex_gram/readme.html)).
+*   [ExGram (⭐170)](https://github.com/rockneurotiko/ex_gram) - a library to build Telegram Bots, you can use the low-level methods and models or use the really opinionated framework included. ([Docs](https://hexdocs.pm/ex_gram/readme.html)).
 *   [hedwig (⭐648)](https://github.com/hedwig-im/hedwig) - XMPP Client/Bot Framework for Elixir.([Docs](https://hexdocs.pm/hedwig/readme.html)).
 
 ### Cloud Infrastructure and Management
 
-*   [erlcloud (⭐651)](https://github.com/erlcloud/erlcloud) - Cloud Computing library for Erlang (Amazon EC2, S3, SQS, SimpleDB, Mechanical Turk, ELB). ([Docs](https://hexdocs.pm/erlcloud/)).
-*   [libcluster (⭐1.7k)](https://github.com/bitwalker/libcluster) - Automatic cluster formation/healing for Elixir applications.([Docs](https://hexdocs.pm/libcluster/readme.html)).
+*   [erlcloud (⭐649)](https://github.com/erlcloud/erlcloud) - Cloud Computing library for Erlang (Amazon EC2, S3, SQS, SimpleDB, Mechanical Turk, ELB). ([Docs](https://hexdocs.pm/erlcloud/)).
+*   [libcluster (⭐1.8k)](https://github.com/bitwalker/libcluster) - Automatic cluster formation/healing for Elixir applications.([Docs](https://hexdocs.pm/libcluster/readme.html)).
 
 ### Code Analysis
 
-*   [credo (⭐4.6k)](https://github.com/rrrene/credo) - A static code analysis tool with a focus on code consistency and teaching Elixir. ([Docs](https://hexdocs.pm/credo/Credo.html)).
+*   [credo (⭐4.7k)](https://github.com/rrrene/credo) - A static code analysis tool with a focus on code consistency and teaching Elixir. ([Docs](https://hexdocs.pm/credo/Credo.html)).
 *   [dialyxir (⭐1.6k)](https://github.com/jeremyjh/dialyxir) - Mix tasks to simplify use of Dialyzer in Elixir projects.([Docs](https://hexdocs.pm/dialyzex/Mix.Tasks.Dialyzer.html)).
-*   [dogma (⭐471)](https://github.com/lpil/dogma) - A code style linter for Elixir, powered by shame.([Docs](https://hexdocs.pm/dogma/api-reference.html)).
+*   [dogma (⭐472)](https://github.com/lpil/dogma) - A code style linter for Elixir, powered by shame.([Docs](https://hexdocs.pm/dogma/api-reference.html)).
 
 ### Cryptography
 
-*   [cloak (⭐521)](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.([Docs](https://hexdocs.pm/cloak/readme.html)).
+*   [cloak (⭐525)](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.([Docs](https://hexdocs.pm/cloak/readme.html)).
 *   [comeonin (⭐1.3k)](https://github.com/riverrun/comeonin) - Password hashing (argon2, bcrypt, pbkdf2\_sha512) library for Elixir.(<https://hexdocs.pm/comeonin/api-reference.html>).
-*   [ex\_crypto (⭐131)](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `crypto` and `public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.([Docs](https://hexdocs.pm/ex_crypto/readme.html)).
+*   [ex\_crypto (⭐132)](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `crypto` and `public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.([Docs](https://hexdocs.pm/ex_crypto/readme.html)).
 
 ### Date and Time
 
-*   [open\_hours (⭐41)](https://github.com/hopsor/open_hours) - Time calculations using business hours.
-*   [quantum (⭐2.1k)](https://github.com/quantum-elixir/quantum-core) - Cron-like job scheduler for Elixir applications.
+*   [open\_hours (⭐43)](https://github.com/hopsor/open_hours) - Time calculations using business hours.
+*   [quantum (⭐2.2k)](https://github.com/quantum-elixir/quantum-core) - Cron-like job scheduler for Elixir applications.
 
 ### Framework Components
 
@@ -319,17 +315,17 @@
 
 ### Macros
 
-*   [crudry (⭐78)](https://github.com/gabrielpra1/crudry) - Crudry is an elixir library for DRYing CRUD of Phoenix Contexts and Absinthe Resolvers.
+*   [crudry (⭐85)](https://github.com/gabrielpra1/crudry) - Crudry is an elixir library for DRYing CRUD of Phoenix Contexts and Absinthe Resolvers.
 
 ### Miscellaneous
 
 *   [AlloyCI (⭐289)](https://github.com/AlloyCI/alloy_ci) - AlloyCI is a Continuous Integration, Deployment, and Delivery coordinator, written in Elixir, that takes advantage of the GitLab CI Runner, and its capabilities as executor, to prepare and run your pipelines.
 *   [epub\_cover\_extractor (⭐6)](https://github.com/zelazna/epub_cover_extractor) - Extract cover from EPUB files.
-*   [Jisho-Elixir (⭐29)](https://github.com/nbw/jisho_elixir) - An API wrapper for Jisho.org, an online Japanese dictionary. Allows users to search by word, symbol, and or tags (refer to docs).
+*   [Jisho-Elixir (⭐31)](https://github.com/nbw/jisho_elixir) - An API wrapper for Jisho.org, an online Japanese dictionary. Allows users to search by word, symbol, and or tags (refer to docs).
 
 ### ORM and Datamapping
 
-*   [panoramix (⭐34)](https://github.com/gameanalytics/panoramix) - Apache Druid client for Elixir.
+*   [panoramix (⭐37)](https://github.com/gameanalytics/panoramix) - Apache Druid client for Elixir.
 
 ### Static Page Generation
 
@@ -341,7 +337,7 @@
 
 ### Third Party APIs
 
-*   [conekta (⭐15)](https://github.com/echavezNS/conekta-elixir) - Elixir wrapper for Conekta API.
+*   [conekta (⭐16)](https://github.com/echavezNS/conekta-elixir) - Elixir wrapper for Conekta API.
 
 ### Screencasts
 
@@ -409,15 +405,15 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [Featuretools (⭐6.6k)](https://github.com/featuretools/featuretools) - A library for automated feature engineering. It excels at transforming transactional and relational datasets into feature matrices for machine learning using reusable feature engineering "primitives".
+*   [Featuretools (⭐6.8k)](https://github.com/featuretools/featuretools) - A library for automated feature engineering. It excels at transforming transactional and relational datasets into feature matrices for machine learning using reusable feature engineering "primitives".
 
 ### Elixir / General-Purpose Machine Learning
 
-*   [Tensorflex (⭐305)](https://github.com/anshuman23/tensorflex) - Tensorflow bindings for the Elixir programming language.
+*   [Tensorflex (⭐306)](https://github.com/anshuman23/tensorflex) - Tensorflow bindings for the Elixir programming language.
 
 ### Go / Computer vision
 
-*   [GoCV (⭐5.5k)](https://github.com/hybridgroup/gocv) - Package for computer vision using OpenCV 4 and beyond.
+*   [GoCV (⭐5.7k)](https://github.com/hybridgroup/gocv) - Package for computer vision using OpenCV 4 and beyond.
 
 ### Data Analysis / Data Visualization / Data Analysis / Data Visualization
 
@@ -428,25 +424,25 @@
 
 ### Python / Computer Vision
 
-*   [neural-style-pt (⭐785)](https://github.com/ProGamerGov/neural-style-pt) - A PyTorch implementation of Justin Johnson's neural-style (neural style transfer).
+*   [neural-style-pt (⭐801)](https://github.com/ProGamerGov/neural-style-pt) - A PyTorch implementation of Justin Johnson's neural-style (neural style transfer).
 
 ### Python / Natural Language Processing
 
-*   [pkuseg-python (⭐6.1k)](https://github.com/lancopku/pkuseg-python) - A better version of Jieba, developed by Peking University.
+*   [pkuseg-python (⭐6.3k)](https://github.com/lancopku/pkuseg-python) - A better version of Jieba, developed by Peking University.
 
 ### Python / General-Purpose Machine Learning
 
 *   [auto\_ml (⭐1.6k)](https://github.com/ClimbsRocks/auto_ml) - Automated machine learning for production and analytics. Lets you focus on the fun parts of ML, while outputting production-ready code, and detailed analytics of your dataset and results. Includes support for NLP, XGBoost, CatBoost, LightGBM, and soon, deep learning.
-*   [Cogitare (⭐76)](https://github.com/cogitare-ai/cogitare): A Modern, Fast, and Modular Deep Learning and Machine Learning framework for Python.
-*   [JAX (⭐23k)](https://github.com/google/jax) - JAX is Autograd and XLA, brought together for high-performance machine learning research.
+*   [Cogitare (⭐77)](https://github.com/cogitare-ai/cogitare): A Modern, Fast, and Modular Deep Learning and Machine Learning framework for Python.
+*   [JAX (⭐25k)](https://github.com/google/jax) - JAX is Autograd and XLA, brought together for high-performance machine learning research.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Map/Reduce implementations of common ML algorithms (⭐61)](https://github.com/Yannael/BigDataAnalytics_INFOH515): Jupyter notebooks that cover how to implement from scratch different ML algorithms (ordinary least squares, gradient descent, k-means, alternating least squares), using Python NumPy, and how to then make these implementations scalable using Map/Reduce and Spark.
+*   [Map/Reduce implementations of common ML algorithms (⭐60)](https://github.com/Yannael/BigDataAnalytics_INFOH515): Jupyter notebooks that cover how to implement from scratch different ML algorithms (ordinary least squares, gradient descent, k-means, alternating least squares), using Python NumPy, and how to then make these implementations scalable using Map/Reduce and Spark.
 
 ### Python / Reinforcement Learning
 
-*   [Serpent.AI (⭐6.5k)](https://github.com/SerpentAI/SerpentAI) - Serpent.AI is a game agent framework that allows you to turn any video game you own into a sandbox to develop AI and machine learning experiments. For both researchers and hobbyists.
+*   [Serpent.AI (⭐6.6k)](https://github.com/SerpentAI/SerpentAI) - Serpent.AI is a game agent framework that allows you to turn any video game you own into a sandbox to develop AI and machine learning experiments. For both researchers and hobbyists.
 
 ### Swift / General-Purpose Machine Learning
 
@@ -472,13 +468,13 @@
 ### Generate Table Schema / Treat CSV as SQL
 
 *   [q](https://harelba.github.io/q/) - Run SQL Directly on CSV Files
-*   [PSKit Query (⭐34)](https://github.com/dfinke/PSKit#sql-query) — Powershell module lets you run simple queries over objects, including imported with csv
+*   [PSKit Query (⭐36)](https://github.com/dfinke/PSKit#sql-query) — Powershell module lets you run simple queries over objects, including imported with csv
 
 ## [31. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Utility / Barcode
 
-*   [DuctTape (⭐171)](https://github.com/marty-suzuki/DuctTape) - 📦 KeyPath dynamicMemberLookup based syntax sugar for Swift.
+*   [DuctTape (⭐176)](https://github.com/marty-suzuki/DuctTape) - 📦 KeyPath dynamicMemberLookup based syntax sugar for Swift.
 
 ## [32. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -495,25 +491,19 @@
 
 *   [Daily Coding Interview Practice](https://www.techseries.dev/daily)
 
-## [33. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
-
-### IDE and Code Editing
-
-*   [GitPod](https://www.gitpod.io/github-student-developer-pack/)\[FREE] - An online IDE for GitHub that provides a complete dev environment with a single click.Free personal plan subscription for six months for students via [Github Student Developer Pack](https://education.github.com/pack).
-
-## [34. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+## [33. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
 ### General
 
 *   [Unicons (⭐1.3k)](https://github.com/iconscout/unicons) - 1000+ pixel-perfect vector icons and icon font for your next project. ([Website](https://iconscout.com/unicons))
 
-## [35. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [34. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Internet and Networking
 
 *   [Cawbird](https://ibboard.co.uk/cawbird/) - Twitter client.
 
-## [36. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [35. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Frameworks
 
@@ -523,20 +513,20 @@
 
 *   [Z-Ray](https://www.zend.com/products/z-ray) - A debug and profile tool for Zend Server.
 
-## [37. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [36. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Tech / United Kingdom
 
 *   [IT Jobs Watch](https://www.itjobswatch.co.uk/) - Includes free technology skill set trends, salary/contractor rate benchmarking and real-time job vacancy statistics.
 
-## [38. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [37. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Audio Tools
 
 *   [Beets](http://beets.io/) - a powerful command-line music organizer and manipulator.
 *   [MusicBrainz](https://musicbrainz.org) - Open Encyclopedia for Music information and Metadata, providing a unique ID for everything
 
-## [39. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+## [38. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Awesome Repositories
 
@@ -546,119 +536,119 @@
 
 
 
-## [40. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [39. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Search engine and framework
 
-*   [Facebook Faiss (⭐18k)](https://github.com/facebookresearch/faiss) - is a library for efficient similarity search and clustering of dense vectors. It contains algorithms that search in sets of vectors of any size, up to ones that possibly do not fit in RAM. It also contains supporting code for evaluation and parameter tuning. Faiss is written in C++ with complete wrappers for Python/numpy.
-*   [Annoy (⭐10k)](https://github.com/spotify/annoy) - is a C++ library with Python bindings to search for points in space that are close to a given query point. It also creates large read-only file-based data structures that are mmapped into memory so that many processes may share the same data.
+*   [Facebook Faiss (⭐22k)](https://github.com/facebookresearch/faiss) - is a library for efficient similarity search and clustering of dense vectors. It contains algorithms that search in sets of vectors of any size, up to ones that possibly do not fit in RAM. It also contains supporting code for evaluation and parameter tuning. Faiss is written in C++ with complete wrappers for Python/numpy.
+*   [Annoy (⭐11k)](https://github.com/spotify/annoy) - is a C++ library with Python bindings to search for points in space that are close to a given query point. It also creates large read-only file-based data structures that are mmapped into memory so that many processes may share the same data.
 
 ### Business Intelligence
 
 *   [Knowage](https://www.knowage-suite.com/) - open source business intelligence platform. (former [SpagoBi](http://www.spagobi.org/))
 
-## [41. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [40. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Bytecode Manipulation
 
 *   [bytecode-viewer (⭐14k)](https://github.com/Konloch/bytecode-viewer) - Java 8 Jar & Android APK reverse engineering suite. (GPL-3.0-only)
 *   [Byteman](https://byteman.jboss.org) - Manipulate bytecode at runtime via DSL (rules); mainly for testing/troubleshooting. (LGPL-2.1-or-later)
 
-### CLI
+### CLI / Text-Based User Interfaces
 
-*   [Lanterna (⭐2k)](https://github.com/mabe02/lanterna) - Easy console text-GUI library, similar to curses. (LGPL-3.0-only)
+*   [Lanterna (⭐2.1k)](https://github.com/mabe02/lanterna) - Easy console text-GUI library, similar to curses. (LGPL-3.0-only)
 
-### Code Analysis
+### Code Analysis / Text-Based User Interfaces
 
-*   [Checkstyle (⭐7.5k)](https://github.com/checkstyle/checkstyle) - Static analysis of coding conventions and standards. (LGPL-2.1-or-later)
+*   [Checkstyle (⭐7.9k)](https://github.com/checkstyle/checkstyle) - Static analysis of coding conventions and standards. (LGPL-2.1-or-later)
 *   [jQAssistant](https://jqassistant.org) - Static code analysis with Neo4J-based query language. (GPL-3.0-only)
-*   [SonarJava (⭐988)](https://github.com/SonarSource/sonar-java) - Static analyzer for SonarQube & SonarLint. (LGPL-3.0-only)
-*   [Spotbugs (⭐3k)](https://github.com/spotbugs/spotbugs) - Static analysis of bytecode to find potential bugs. (LGPL-2.1-only)
+*   [SonarJava (⭐1k)](https://github.com/SonarSource/sonar-java) - Static analyzer for SonarQube & SonarLint. (LGPL-3.0-only)
+*   [Spotbugs (⭐3.2k)](https://github.com/spotbugs/spotbugs) - Static analysis of bytecode to find potential bugs. (LGPL-2.1-only)
 
-### Constraint Satisfaction Problem Solver
+### Constraint Satisfaction Problem Solver / Text-Based User Interfaces
 
-*   [JaCoP (⭐202)](https://github.com/radsz/jacop) - Includes an interface for the FlatZinc language, enabling it to execute MiniZinc models. (AGPL-3.0)
+*   [JaCoP (⭐211)](https://github.com/radsz/jacop) - Includes an interface for the FlatZinc language, enabling it to execute MiniZinc models. (AGPL-3.0)
 
-### Date and Time
+### Date and Time / Text-Based User Interfaces
 
-*   [Time4J (⭐386)](https://github.com/MenoData/Time4J) - Advanced date and time library. (LGPL-2.1-only)
+*   [Time4J (⭐406)](https://github.com/MenoData/Time4J) - Advanced date and time library. (LGPL-2.1-only)
 
-### Dependency Injection
+### Dependency Injection / Text-Based User Interfaces
 
-*   [JayWire (⭐53)](https://github.com/vanillasource/jaywire) - Lightweight dependency injection framework. (LGPL-3.0-only)
+*   [JayWire (⭐54)](https://github.com/vanillasource/jaywire) - Lightweight dependency injection framework. (LGPL-3.0-only)
 
-### Development
+### Development / Text-Based User Interfaces
 
 *   [DCEVM](https://dcevm.github.io) - JVM modification that allows unlimited redefinition of loaded classes at runtime. (GPL-2.0-only)
-*   [HotswapAgent (⭐1.9k)](https://github.com/HotswapProjects/HotswapAgent) - Unlimited runtime class and resource redefinition. (GPL-2.0-only)
+*   [HotswapAgent (⭐2.1k)](https://github.com/HotswapProjects/HotswapAgent) - Unlimited runtime class and resource redefinition. (GPL-2.0-only)
 
-### Distributed Applications
+### Distributed Applications / Text-Based User Interfaces
 
 *   [Atomix](https://atomix.io) - Fault-tolerant distributed coordination framework.
 *   [Dropwizard Circuit Breaker (⭐41)](https://github.com/mtakaki/dropwizard-circuitbreaker) - Circuit breaker design pattern for Dropwizard. (GPL-2.0-only)
 
-### Distribution
+### Distribution / Text-Based User Interfaces
 
 *   [Boxfuse ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg)](https://boxfuse.com) - Deployment of JVM applications to AWS using the principles of immutable infrastructure.
 
-### Document Processing
+### Document Processing / Text-Based User Interfaces
 
 *   [Apache POI](https://poi.apache.org) - Supports OOXML (XLSX, DOCX, PPTX) as well as OLE2 (XLS, DOC or PPT).
 
-### Formal Verification
+### Formal Verification / Text-Based User Interfaces
 
 *   [Checker Framework](https://checkerframework.org) - Pluggable type systems. Includes nullness types, physical units, immutability types and more. (GPL-2.0-only WITH Classpath-exception-2.0)
-*   [Java Path Finder (JPF) (⭐432)](https://github.com/javapathfinder/jpf-core) - JVM formal verification tool containing a model checker and more. Created by NASA.
+*   [Java Path Finder (JPF) (⭐473)](https://github.com/javapathfinder/jpf-core) - JVM formal verification tool containing a model checker and more. Created by NASA.
 
-### Functional Programming
+### Functional Programming / Text-Based User Interfaces
 
-*   [derive4j (⭐544)](https://github.com/derive4j/derive4j) - Java 8 annotation processor and framework for deriving algebraic data types constructors, pattern-matching and morphisms. (GPL-3.0-only)
+*   [derive4j (⭐556)](https://github.com/derive4j/derive4j) - Java 8 annotation processor and framework for deriving algebraic data types constructors, pattern-matching and morphisms. (GPL-3.0-only)
 
-### Geospatial
+### Geospatial / Text-Based User Interfaces
 
 *   [GeoTools](https://geotools.org) - Library that provides tools for geospatial data. (LGPL-2.1-only)
-*   [Mapsforge (⭐1k)](https://github.com/mapsforge/mapsforge) - Map rendering based on OpenStreetMap data. (LGPL-3.0-only)
+*   [Mapsforge (⭐1.1k)](https://github.com/mapsforge/mapsforge) - Map rendering based on OpenStreetMap data. (LGPL-3.0-only)
 
-### IDE
+### IDE / Text-Based User Interfaces
 
 *   [NetBeans](https://netbeans.apache.org) - Provides integration for several Java SE and EE features, from database access to HTML5.
 
-### Introspection
+### Introspection / Text-Based User Interfaces
 
 *   [jOOR (⭐2.7k)](https://github.com/jOOQ/jOOR) - jOOR stands for jOOR Object Oriented Reflection. It is a simple wrapper for the java.lang.reflect package.
 
-### JVM and JDK
+### JVM and JDK / Text-Based User Interfaces
 
-*   [Graal (⭐18k)](https://github.com/oracle/graal) - Polyglot embeddable JVM. (GPL-2.0-only WITH Classpath-exception-2.0)
-*   [ParparVM (⭐1.4k)](https://github.com/codenameone/CodenameOne/tree/master/vm) - VM with non-blocking, concurrent GC for iOS. (GPL-2.0-only WITH Classpath-exception-2.0)
+*   [Graal (⭐19k)](https://github.com/oracle/graal) - Polyglot embeddable JVM. (GPL-2.0-only WITH Classpath-exception-2.0)
+*   [ParparVM (⭐1.6k)](https://github.com/codenameone/CodenameOne/tree/master/vm) - VM with non-blocking, concurrent GC for iOS. (GPL-2.0-only WITH Classpath-exception-2.0)
 *   [RedHat Open JDK](https://developers.redhat.com/products/openjdk/overview) - RedHat's OpenJDK distribution. (GPL-2.0-only WITH Classpath-exception-2.0)
 
-### Logging
+### Logging / Text-Based User Interfaces
 
 *   [Graylog](https://www.graylog.org) - Open-source aggregator suited for extended role and permission management. (GPL-3.0-only)
 
-### Machine Learning
+### Machine Learning / Text-Based User Interfaces
 
-*   [JSAT (⭐755)](https://github.com/EdwardRaff/JSAT) - Algorithms for pre-processing, classification, regression, and clustering with support for multi-threaded execution. (GPL-3.0-only)
+*   [JSAT (⭐772)](https://github.com/EdwardRaff/JSAT) - Algorithms for pre-processing, classification, regression, and clustering with support for multi-threaded execution. (GPL-3.0-only)
 
-### Miscellaneous
+### Miscellaneous / Text-Based User Interfaces
 
-*   [FizzBuzz Enterprise Edition (⭐19k)](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - No-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (No explicit license)
+*   [FizzBuzz Enterprise Edition (⭐20k)](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - No-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (No explicit license)
 
-### Natural Language Processing
+### Natural Language Processing / Text-Based User Interfaces
 
-*   [CogCompNLP (⭐459)](https://github.com/CogComp/cogcomp-nlp) - Provides common annotators for plain text input. (Research and Academic Use License)
+*   [CogCompNLP (⭐468)](https://github.com/CogComp/cogcomp-nlp) - Provides common annotators for plain text input. (Research and Academic Use License)
 *   [CoreNLP](https://nlp.stanford.edu/software/corenlp.shtml) - Provides a set of fundamental tools for tasks like tagging, named entity recognition, and sentiment analysis. (GPL-3.0-or-later)
 
-### Networking
+### Networking / Text-Based User Interfaces
 
 *   [Undertow](http://undertow.io) - Web server providing both blocking and non-blocking APIs based on NIO. Used as a network layer in WildFly. (LGPL-2.1-only)
-*   [urnlib (⭐24)](https://github.com/slub/urnlib) - Represent, parse and encode URNs, as in RFC 2141. (GPL-3.0-only)
+*   [urnlib (⭐26)](https://github.com/slub/urnlib) - Represent, parse and encode URNs, as in RFC 2141. (GPL-3.0-only)
 
-### PDF
+### PDF / Text-Based User Interfaces
 
 *   [Dynamic Jasper](http://dynamicjasper.com) - Abstraction layer to JasperReports. (LGPL-3.0-only)
-*   [DynamicReports (⭐166)](https://github.com/dynamicreports/dynamicreports) - Simplifies JasperReports. (LGPL-3.0-only)
+*   [DynamicReports (⭐179)](https://github.com/dynamicreports/dynamicreports) - Simplifies JasperReports. (LGPL-3.0-only)
 *   [flyingsaucer (⭐1.8k)](https://github.com/flyingsaucerproject/flyingsaucer) - XML/XHTML and CSS 2.1 renderer. (LGPL-2.1-or-later)
 *   [JasperReports](https://community.jaspersoft.com/project/jasperreports-library) - Complex reporting engine. (LGPL-3.0-only)
 
@@ -668,7 +658,7 @@
 
 ### Science / Other
 
-*   [Orson-Charts (⭐98)](https://github.com/jfree/orson-charts) - Generates a wide variety of 3D charts that can be displayed with Swing and JavaFX or exported to PDF, SVG, PNG and JPEG. (GPL-3.0-only)
+*   [Orson-Charts (⭐102)](https://github.com/jfree/orson-charts) - Generates a wide variety of 3D charts that can be displayed with Swing and JavaFX or exported to PDF, SVG, PNG and JPEG. (GPL-3.0-only)
 
 ### Security / Other
 
@@ -679,20 +669,19 @@
 ### Utility / Mocking
 
 *   [CRaSH](http://www.crashub.org) - Provides a shell into a JVM that's running CRaSH. Used by Spring Boot and others. (LGPL-2.1-or-later)
-*   [Gephi (⭐5.2k)](https://github.com/gephi/gephi) - Cross-platform for visualizing and manipulating large graph networks. (GPL-3.0-only)
-*   [JADE](http://jade.tilab.com) - Framework and environment for building and debugging multi-agent systems. (LGPL-2.0-only)
+*   [Gephi (⭐5.5k)](https://github.com/gephi/gephi) - Cross-platform for visualizing and manipulating large graph networks. (GPL-3.0-only)
 
 ### Web Frameworks / Mocking
 
 *   [Bootique](https://bootique.io) - Minimally opinionated framework for runnable apps.
 
-## [42. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
+## [41. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
 
 ### Style Guide Generators :slot_machine: / Editor's Draft :black_nib:
 
 *   [Source (⭐553)](https://github.com/sourcejs/Source)
 
-## [43. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [42. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Stub packages
 
@@ -700,22 +689,22 @@
 
 ### Tools / Working with types
 
-*   [mypyc (⭐15k)](https://github.com/python/mypy/tree/master/mypyc) - Compiles mypy-annotated, statically typed Python modules into CPython C extensions.
+*   [mypyc (⭐16k)](https://github.com/python/mypy/tree/master/mypyc) - Compiles mypy-annotated, statically typed Python modules into CPython C extensions.
 
-## [44. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [43. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
-*   [Next & Now 2.0 Typescript template (⭐38)](https://github.com/alepacheco/landing-template) - Serverless, Typescript, Jest, Github CI, SCSS, prettier boilerplate
+*   [Next & Now 2.0 Typescript template (⭐40)](https://github.com/alepacheco/landing-template) - Serverless, Typescript, Jest, Github CI, SCSS, prettier boilerplate
 *   [nextjs-mongodb-app (⭐1.4k)](https://github.com/hoangvvo/nextjs-mongodb-app) - Full-fledged app made with Next.JS and MongoDB, with authentication and much more (Next.js 9, MongoDB)
 
-## [45. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [44. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Samsung Tizen / Other
 
 *   [Tizen Studio development references (⭐4)](https://github.com/claromes/tizenstudio) - Documents focused on web apps for Smart TVs e Professional Monitors, based in personal researches.
 
-## [46. Awesome Imba](/content/koolamusic/awesome-imba/week/README.md)
+## [45. Awesome Imba](/content/koolamusic/awesome-imba/week/README.md)
 
 ### Resources / Official Resources
 
@@ -753,13 +742,13 @@
 *   [Weather App (⭐3)](https://github.com/taw/imba-weather) - [view online](https://taw.github.io/imba-weather) - Weather app.
 *   [Top Down Shooter (⭐9)](https://github.com/CassianoSF/imba-top-down-shooter) - [view online](https://cassianosf.github.io/imba-top-down-shooter/dist/index.html) - 2D zombie shooter game.
 
-## [47. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/week/README.md)
+## [46. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/week/README.md)
 
 ### Cancer
 
 *   [ExploSig](http://explosig.lrgr.io) - Interactive visualization of mutational signatures and clinical data.
 
-## [48. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [47. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -771,9 +760,8 @@
 ### In Portuguese
 
 *   [DataHackers](https://datahackers.com.br/podcast) - Podcast mensal que traz profissionais da ciência de dados para falar do mercado de trabalho, carreira e novidades.
-*   [Pizza de Dados](https://pizzadedados.com/) - O Pizza de Dados é uma iniciativa que trás assuntos relacionados à ciência de dados de forma lúdica e descontraída.
 
-## [49. Awesome C](/content/inputsh/awesome-c/week/README.md)
+## [48. Awesome C](/content/inputsh/awesome-c/week/README.md)
 
 ### Build Systems
 
@@ -792,7 +780,7 @@
 
 *   [CommonMark (⭐4.7k)](https://github.com/commonmark/commonmark-spec) - C implementation of the CommonMark spec. [`Various Licenses`](https://github.com/commonmark/commonmark-spec/blob/master/LICENSE)
 
-## [50. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
+## [49. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
 
 ### Events/Meetups / Ruby
 
@@ -800,13 +788,13 @@
 
     Rails Girls Summer of Code is a global fellowship program for women and non-binary coders. Students receive a three-month scholarship to work on existing Open Source projects and expand their skill set.
 
-## [51. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [50. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2016
 
 *   [Anjana Vakil: **Learning Functional Programming with JavaScript**](https://www.youtube.com/watch?v=e-5obm1G_FY) \[29:56]
 
-## [52. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [51. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Anti-Malware
 
@@ -979,7 +967,7 @@
 
 ### Personality
 
-- API: [Programming Quotes (⭐384)](https://github.com/skolakoda/programming-quotes-api)
+- API: [Programming Quotes (⭐427)](https://github.com/skolakoda/programming-quotes-api)
 
   Description: Programming Quotes API for open source projects
 
@@ -1144,7 +1132,7 @@
 
 
 
-## [53. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
+## [52. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
 ### Companies / Vegetation & Agriculture
 
@@ -1188,7 +1176,7 @@
 *   [Mercator Research Institute on Global Commons and Climate Change](https://www.mcc-berlin.net/en.html) - Providing solution-oriented policy pathways for governing the global commons to enhance sustainable development and human well-being.
 *   [NASA climate](http://climate.nasa.gov/) - Vital signs of the planet, facts, and solutions.
 
-## [54. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [53. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Responsive / Syntax Highlight
 
@@ -1196,26 +1184,26 @@
 
 ### Form Logic / Mouse Events
 
-*   [formsy-react (⭐762)](https://github.com/formsy/formsy-react/) - A form input builder and validator for React JS.
+*   [formsy-react (⭐768)](https://github.com/formsy/formsy-react/) - A form input builder and validator for React JS.
 
-## [55. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
+## [54. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
 ### Contents / Quotes That Capture the General Spirit of this List's Contents
 
 *   [Planning, Roadmaps and Processes](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/Planning-roadmaps.md)
 
-## [56. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [55. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Database Drivers
 
-*   [MongoDB.Entities (⭐382)](https://github.com/dj-nitehawk/MongoDB.Entities) - A data access library for MongoDB with an elegant api, LINQ support and built-in entity relationship management
+*   [MongoDB.Entities (⭐491)](https://github.com/dj-nitehawk/MongoDB.Entities) - A data access library for MongoDB with an elegant api, LINQ support and built-in entity relationship management
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Remote.Linq (⭐227)](https://github.com/6bee/Remote.Linq) - Remote Linq is a small and easy to use - yet very powerful - library to translate LINQ expression trees to strongly typed, serializable expression trees and vice versa.
-*   [Vanara (⭐1.2k)](https://github.com/dahall/Vanara) - A set of .NET libraries for Windows implementing PInvoke calls to many native Windows APIs with supporting wrappers.
+*   [Remote.Linq (⭐284)](https://github.com/6bee/Remote.Linq) - Remote Linq is a small and easy to use - yet very powerful - library to translate LINQ expression trees to strongly typed, serializable expression trees and vice versa.
+*   [Vanara (⭐1.6k)](https://github.com/dahall/Vanara) - A set of .NET libraries for Windows implementing PInvoke calls to many native Windows APIs with supporting wrappers.
 
-## [57. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
+## [56. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
 
 ### Conferences
 
@@ -1225,6 +1213,12 @@
 ### Jobs
 
 *   [Find Voice Jobs](https://www.findvoicejobs.com) - Website to find jobs in VUI Domain
+
+## [57. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### OpenMP / PicoLisp
+
+*   [OpenMP Application Programming Interface Standard Version 5.0](https://www.openmp.org/wp-content/uploads/OpenMP-API-Specification-5.0.pdf) (PDF)
 
 ## [58. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
@@ -1310,7 +1304,7 @@
 
 > The race is woven around a storyline about finding King Kandy, the lost king of Candy Land...game requires no reading and minimal counting skills, making it suitable for young children...players are never required to make choices, just follow directions.
 
-![Candy Land image](https://upload.wikimedia.org/wikipedia/en/d/de/Classic_Candy_Land_by_Winning_Moves.jpg)
+![Candy Land image](https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Candy_land_mb_cover_1949.jpg/250px-Candy_land_mb_cover_1949.jpg)
 
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
@@ -1732,7 +1726,7 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 ### Microsoft Windows
 
-*   [PyWin32 (⭐4.3k)](https://github.com/mhammond/pywin32) - Python Extensions for Windows.
+*   [PyWin32 (⭐4.4k)](https://github.com/mhammond/pywin32) - Python Extensions for Windows.
 
 ## [65. Awesome Qlik](/content/ambster-public/awesome-qlik/week/README.md)
 
@@ -1769,60 +1763,50 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 *   [Software Art Thou: Debugging The Tech Industry](https://www.youtube.com/watch?v=zjjvaIaYMd0o) - By Lena Reinhard.
 *   [Survival Tips For Women In Tech](https://www.pscp.tv/w/1BdGYepvvLQGX) - By Patricia Aas.
 
-## [70. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
-
-### Software / Virtualization
-
-*   [XCP-ng](http://www.xcp-ng.org/) - Based on Citrix XenServer, XCP-ng is a fully open source virtualization platform.
-
-## [71. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [70. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks
 
 *   [basset](https://basset.io) - Open source platform for generating and reviewing visual differences. Supports multiple browsers, integrations for github and slack.
 
-## [72. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [71. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Image / Backend-Driven
 
-*   [Bitmap (⭐152)](https://github.com/renancaraujo/bitmap) <!--stargazers:renancaraujo/bitmap--> - Perform Bitmap manipulations (such as contrast and exposure) with a help from the Dart FFI by [Renan C. Araújo](https://github.com/renancaraujo)
+*   [Bitmap (⭐153)](https://github.com/renancaraujo/bitmap) <!--stargazers:renancaraujo/bitmap--> - Perform Bitmap manipulations (such as contrast and exposure) with a help from the Dart FFI by [Renan C. Araújo](https://github.com/renancaraujo)
 
 ### 🏴 Kurdistan / Misc
 
 *   Meetup [Kurdistan](https://www.meetup.com/Flutter-Kurdistan/)
 
-## [73. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [72. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / Penetration testing
 
-*   [aztarna (⭐85)](https://github.com/aliasrobotics/aztarna) - A footprinting tool for robots.
+*   [aztarna (⭐86)](https://github.com/aliasrobotics/aztarna) - A footprinting tool for robots.
 *   [ros2\_fuzzer (⭐19)](https://github.com/aliasrobotics/ros2_fuzzer) - ROS2 Topic & Service Fuzzer.
 
 ### Companies / Robotics Capture the Flag (RCTF)
 
 *   [Rover Robotics](https://roverrobotics.com/) - Rugged, industrial-grade robots.
 
-## [74. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [73. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - IRC
 
-*   [ngircd](https://ngircd.barton.de/) - Free, portable and lightweight Internet Relay Chat server for small or private networks. ([Source Code (⭐364)](https://github.com/ngircd/ngircd)) `GPL-2.0` `C`
+*   [ngircd](https://ngircd.barton.de/) - Free, portable and lightweight Internet Relay Chat server for small or private networks. ([Source Code (⭐385)](https://github.com/ngircd/ngircd)) `GPL-2.0` `C/deb`
 
 ### Software / Games
 
-*   [piqueserver (⭐174)](https://github.com/piqueserver/piqueserver) - Server for openspades, the first-person shooter in a destructible voxel world. ([Clients (⭐1k)](https://github.com/yvt/openspades)) `GPL-3.0` `Python/C++`
+*   [piqueserver (⭐182)](https://github.com/piqueserver/piqueserver) - Server for openspades, the first-person shooter in a destructible voxel world. ([Clients (⭐1.1k)](https://github.com/yvt/openspades)) `GPL-3.0` `Python/C++`
 
-### Software / Media Streaming - Video Streaming
-
-*   [Oddworks](https://gitlab.com/oddnetworks/oddworks/core) - Oddworks is an open source video distribution platform built to destroy the barriers to streaming television with SDKs for Roku, Apple iOS/tvOS, Google Android, and Amazon FireTV. `MIT` `Nodejs`
-
-## [75. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [74. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-accessible-modal (⭐20)](https://github.com/andrewvasilchuk/vue-accessible-modal) - A Vue.js accessible modal wrapper over your components.
 
-## [76. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [75. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Books
 
@@ -1837,19 +1821,13 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 *   [CircuitPython 5 release poster](https://www.adafruit.com/product/4365) - CircuitPython release version 5 poster.
 
-## [77. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
-
-### TypeScript / Flask
-
-*   [TypeScript Deep Dive 日本語版](https://typescript-jp.gitbook.io/deep-dive/) - basarat, yohamta(翻訳)
-
-## [78. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [76. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### E-Books / Others
 
 *   [Blazor for ASP.NET Web Forms developers](https://dotnet.microsoft.com/learn/aspnet/architecture#blazor-for-web-forms-devs-ebook-swim) - Blazor for ASP.NET Web Forms developers, a free e-book from Microsoft.
 
-## [79. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [77. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Utility / Docker Container Actions
 
@@ -1867,7 +1845,7 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 *   [Upload files to any OpenStack Swift service provider (⭐1)](https://github.com/iksaku/openstack-swift-action)
 
-## [80. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
+## [78. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
 
 ### Document
 
@@ -1880,7 +1858,7 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 *   [Mandy Chan](https://twitter.com/MandyChanNYC) - Developer Advocate for the Actions On Google team.
 
-## [81. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [79. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Office
 

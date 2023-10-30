@@ -91,7 +91,7 @@
 
 ### Writing / Social Sciences
 
-*   [Statistical Physics (⭐36)](https://github.com/emptymalei/statisticalphysics)
+*   [Statistical Physics (⭐42)](https://github.com/emptymalei/statisticalphysics)
 *   [Neutrino Physics (⭐6)](https://github.com/NeuPhysics/neutrino)
 
 ### Hosting / Social Sciences
@@ -117,7 +117,7 @@
 *   [Haroopad](http://pad.haroopress.com/)(`Mac`,`Win`,`Linux`): A powerful github flavored markdown editor with useful extensions. Math (mathjax) is supported.
 *   [jbt/markdown-editor](http://jbt.github.io/markdown-editor/)(`Cloud`): Just another online Markdown editor without math support.
 *   [MarkdownPad](http://markdownpad.com/) (`Win`): If you have no bad feelings about .NET, this is pretty good.
-*   [ReText (⭐1.6k)](https://github.com/retext-project/retext) (`Mac`,`Win`,`Linux`): ReText one of the best, even on Linux. It also supports reStructuredText input.
+*   [ReText (⭐1.7k)](https://github.com/retext-project/retext) (`Mac`,`Win`,`Linux`): ReText one of the best, even on Linux. It also supports reStructuredText input.
 
 ### Editors / LaTeX
 
@@ -125,7 +125,7 @@
 
 ### IPython Notebook / LaTeX
 
-*   [Scientific Python Lectures (⭐3.3k)](https://github.com/jrjohansson/scientific-python-lectures)
+*   [Scientific Python Lectures (⭐3.4k)](https://github.com/jrjohansson/scientific-python-lectures)
 *   [Reproduced Papers](http://reproduced-papers.github.io/)
 *   [More (⭐16k)](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks): For more IPython notebook on GitHub please read this enormous list.
 
@@ -143,7 +143,7 @@
 ### Graph Making / HTML+CSS+JS
 
 *   [GeoGebra](http://www.geogebra.org/)(`Cloud`,`Mac`,`Win`,`Linux`,`Android`,`iOS`,`Win Store`): Geogebra is a very cool tool to make math graphs both 2D and 3D.
-*   [LaTeXDraw (⭐382)](https://github.com/arnobl/latexdraw)(`Linux`): "A vector drawing editor for LaTeX."
+*   [LaTeXDraw (⭐404)](https://github.com/arnobl/latexdraw)(`Linux`): "A vector drawing editor for LaTeX."
 *   [TikZ](http://www.texample.net/tikz/)(`LaTeX`)
 
 ### More / HTML+CSS+JS
@@ -261,11 +261,11 @@
 
 ### Registry
 
-*   [nrm (⭐2.4k)](https://github.com/Pana/nrm) - Registry manager.
+*   [nrm (⭐2.6k)](https://github.com/Pana/nrm) - Registry manager.
 
 ### Other
 
-*   [ntl (⭐872)](https://github.com/ruyadorno/ntl) - Interactive CLI menu to list & run npm tasks.
+*   [ntl (⭐886)](https://github.com/ruyadorno/ntl) - Interactive CLI menu to list & run npm tasks.
 
 ## [15. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
@@ -322,17 +322,17 @@
 
 ### Bundlers
 
-*   [Rollup (⭐23k)](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
+*   [Rollup (⭐24k)](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
 
 ### Editors / Runner
 
 *   [bootstrap-wysihtml5 (⭐4.2k)](https://github.com/jhollingworth/bootstrap-wysihtml5) - Simple, beautiful wysiwyg editor
 *   [wysihtml5 (⭐6.5k)](https://github.com/xing/wysihtml5) - Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security concept and aims to generate fully valid HTML5 markup by preventing unmaintainable tag soups and inline styles.
-*   [raptor-editor (⭐532)](https://github.com/PANmedia/raptor-editor) - Raptor, an HTML5 WYSIWYG content editor!
+*   [raptor-editor (⭐531)](https://github.com/PANmedia/raptor-editor) - Raptor, an HTML5 WYSIWYG content editor!
 
 ### Date / Runner
 
-*   [countdown.js (⭐398)](https://github.com/gumroad/countdown.js) - Super simple countdowns.
+*   [countdown.js (⭐399)](https://github.com/gumroad/countdown.js) - Super simple countdowns.
 
 ### Loading Status / Runner
 
@@ -345,7 +345,7 @@
 ### Tips / Other
 
 *   [toolbar (⭐2.3k)](https://github.com/paulkinzett/toolbar) - A tooltip style toolbar jQuery plugin
-*   [hint.css (⭐8.3k)](https://github.com/chinchang/hint.css) - A tooltip library in CSS for your lovely websites.
+*   [hint.css (⭐8.4k)](https://github.com/chinchang/hint.css) - A tooltip library in CSS for your lovely websites.
 
 ### Modals and Popups / Other
 
@@ -357,10 +357,10 @@
 
 ### Boilerplates / Other
 
-*   [html5-boilerplate (⭐54k)](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+*   [html5-boilerplate (⭐55k)](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 *   [mobile-boilerplate (⭐3.9k)](https://github.com/h5bp/mobile-boilerplate) - A front-end template that helps you build fast, modern mobile web apps.
-*   [webplate (⭐561)](https://github.com/chrishumboldt/webplate) - An awesome front-end framework that lets you stay focused on building your site or app while remaining really easy to use.
-*   [Cerberus (⭐4.7k)](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML emails. Even in Outlook.
+*   [webplate (⭐559)](https://github.com/chrishumboldt/webplate) - An awesome front-end framework that lets you stay focused on building your site or app while remaining really easy to use.
+*   [Cerberus (⭐4.8k)](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML emails. Even in Outlook.
 *   [Fluid-Squares (⭐32)](https://github.com/crozynski/Fluid-Squares) - A fluid grid of square units.
 
 ### Video/Audio / Other
@@ -372,22 +372,19 @@
 *   [FlowType.JS (⭐4.6k)](https://github.com/simplefocus/FlowType.JS) - Web typography at its finest: font-size and line-height based on element width.
 *   [BigText (⭐888)](https://github.com/zachleat/BigText) - jQuery plugin, calculates the font-size and word-spacing needed to match a line of text to a specific width.
 *   [novacancy.js (⭐184)](https://github.com/chuckyglitch/novacancy.js) - Text Neon Golden effect jQuery plug-in.
-*   [jquery-responsive-text (⭐123)](https://github.com/ghepting/jquery-responsive-text) - Make your text sizing responsive!
+*   [jquery-responsive-text (⭐124)](https://github.com/ghepting/jquery-responsive-text) - Make your text sizing responsive!
 
 ### Animations / Other
 
-*   [the-cube (⭐11)](https://github.com/pstadler/the-cube) - The Cube is an experiment with CSS3 transitions.
-*   [animate.css (⭐78k)](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
+*   [the-cube (⭐10)](https://github.com/pstadler/the-cube) - The Cube is an experiment with CSS3 transitions.
+*   [animate.css (⭐79k)](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
 
 ### Misc / Other
 
 *   [spoiler-alert (⭐473)](https://github.com/joshbuddy/spoiler-alert) - SPOILER ALERT! A happy little jquery plugin to hide spoilers on your site.
 *   [jquery.vibrate.js (⭐144)](https://github.com/illyism/jquery.vibrate.js) - Vibration API Wrappers
 *   [jquery-match-height (⭐3.1k)](https://github.com/liabru/jquery-match-height) - a responsive equal heights plugin for jQuery.
-
-### Podcasts / Other
-
-*   [sotayamashita/awesome-css (⭐4.4k)](https://github.com/sotayamashita/awesome-css)
+*   [sotayamashita/awesome-css (⭐4.6k)](https://github.com/sotayamashita/awesome-css)
 
 ## [23. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
@@ -440,11 +437,11 @@
 ### Development tools / FFI
 
 *   Objective-C
-    *   [SSheldon/rust-objc (⭐358)](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
+    *   [SSheldon/rust-objc (⭐364)](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
 
 ### Libraries / Virtualization
 
-*   [saurvs/hypervisor-rs (⭐58)](https://github.com/saurvs/hypervisor-rs) — Hardware-accelerated virtualization on OS X
+*   [saurvs/hypervisor-rs (⭐59)](https://github.com/saurvs/hypervisor-rs) — Hardware-accelerated virtualization on OS X
 
 ## [25. Tips](/content/git-tips/tips/week/README.md)
 
@@ -475,13 +472,13 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 ### Tools
 
-*   [ShareX (⭐24k)](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
+*   [ShareX (⭐26k)](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
 
 ## [28. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Bittorrent
 
-*   [bento (⭐78)](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
+*   [bento (⭐87)](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
 
 ### Email
 
@@ -493,11 +490,11 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 ### Queue
 
-*   [verk (⭐711)](https://github.com/edgurgel/verk) - Verk is a job processing system backed by Redis. It uses the same job definition of Sidekiq/Resque.
+*   [verk (⭐716)](https://github.com/edgurgel/verk) - Verk is a job processing system backed by Redis. It uses the same job definition of Sidekiq/Resque.
 
 ### Editors
 
-*   [Alchemist.vim (⭐655)](https://github.com/slashmili/alchemist.vim) - Elixir Tooling Integration Into Vim.
+*   [Alchemist.vim (⭐653)](https://github.com/slashmili/alchemist.vim) - Elixir Tooling Integration Into Vim.
 
 ### Websites
 
@@ -507,7 +504,7 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 ### Distributed Programming
 
-*   [Netflix PigPen (⭐542)](https://github.com/Netflix/PigPen) - map-reduce for Clojure which compiles to Apache Pig.
+*   [Netflix PigPen (⭐547)](https://github.com/Netflix/PigPen) - map-reduce for Clojure which compiles to Apache Pig.
 *   [Streamdrill](https://streamdrill.com/) - useful for counting activities of event streams over different time windows and finding the most active one.
 
 ## [30. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
@@ -522,7 +519,7 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 ### Open Source / Other
 
-*   [Catify (⭐64)](https://github.com/MeoBeoI/Catify) - Utility for Spotify.
+*   [Catify (⭐62)](https://github.com/MeoBeoI/Catify) - Utility for Spotify.
 
 ## [32. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -556,7 +553,7 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 ### Related lists
 
-*   [awesome-vulkan (⭐2.6k)](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem.
+*   [awesome-vulkan (⭐2.9k)](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem.
 
 ## [36. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
@@ -725,7 +722,7 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 ### Modules / Array
 
-*   [unordered-array-remove (⭐118)](https://github.com/mafintosh/unordered-array-remove) - Efficiently remove an element from an unordered array without doing a splice.
+*   [unordered-array-remove (⭐117)](https://github.com/mafintosh/unordered-array-remove) - Efficiently remove an element from an unordered array without doing a splice.
 
 ### Modules / Object
 

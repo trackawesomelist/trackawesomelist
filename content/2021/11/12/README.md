@@ -34,13 +34,13 @@
 
 ### Tools / Community Chat Rooms
 
-*   [ferros (⭐88)](https://github.com/auxoncorp/ferros) A Rust-based userland which also adds compile-time assurances to seL4 development.
+*   [ferros (⭐94)](https://github.com/auxoncorp/ferros) A Rust-based userland which also adds compile-time assurances to seL4 development.
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [yole/kxdate (⭐250)](https://github.com/yole/kxdate) - Kotlin extensions for Java 8 java.time API
+*   [yole/kxdate (⭐252)](https://github.com/yole/kxdate) - Kotlin extensions for Java 8 java.time API
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -60,31 +60,23 @@
 
 ## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-### Software / Communication - Custom Communication Systems
-
-*   [Enigma Reloaded (⭐59)](https://github.com/enigma-reloaded/enigma-reloaded) - DIY Message and file encryption for any platform. `GPL-3.0` `Javascript`
-
 ### Software / Media Streaming - Multimedia Streaming
 
-*   [Stash](https://stashapp.cc) - A web-based library organizer and player for your adult media stash, with auto-tagging and metadata scraping support. ([Source Code (⭐5.9k)](https://github.com/stashapp/stash)) `AGPL-3.0` `Go`
-
-### Software / Media Streaming - Video Streaming
-
-*   [Owncast (⭐7.3k)](https://github.com/owncast/owncast) - Owncast is an open source, self-hosted, decentralized, single user live video streaming and chat server for running your own live streams similar in style to the large mainstream options. `MIT` `Go`
+*   [Stash](https://stashapp.cc) - A web-based library organizer and player for your adult media stash, with auto-tagging and metadata scraping support. ([Source Code (⭐6.5k)](https://github.com/stashapp/stash)) `AGPL-3.0` `Docker/Go`
 
 ### Software / Ticketing
 
-*   [Trudesk](https://trudesk.io/) - Trudesk is an open-source help desk/ticketing solution. ([Source Code (⭐1k)](https://github.com/polonel/trudesk)) `Apache-2.0` `Nodejs`
+*   [Trudesk](https://trudesk.io/) - Trudesk is an open-source help desk/ticketing solution. ([Source Code (⭐1.1k)](https://github.com/polonel/trudesk)) `Apache-2.0` `Nodejs/Docker`
 
 ### Software / Wikis
 
-*   [WackoWiki](https://wackowiki.org/) - WackoWiki is a light and easy to install multilingual Wiki-engine. ([Source Code (⭐32)](https://github.com/WackoWiki/wackowiki)) `BSD-3-Clause` `PHP`
+*   [WackoWiki](https://wackowiki.org/) - WackoWiki is a light and easy to install multilingual Wiki-engine. ([Source Code (⭐33)](https://github.com/WackoWiki/wackowiki)) `BSD-3-Clause` `PHP`
 
 ## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [catppuccin/nvim (⭐2.8k)](https://github.com/catppuccin/nvim) - Warm mid-tone dark theme to show off your vibrant self! with support for native LSP, Tree-sitter, and more 🍨!
+*   [catppuccin/nvim (⭐3.5k)](https://github.com/catppuccin/nvim) - Warm mid-tone dark theme to show off your vibrant self! with support for native LSP, Tree-sitter, and more 🍨!
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -108,7 +100,7 @@
 
 ### Resources / Books
 
-*   [Hydras & Co. (⭐42)](https://github.com/coq-community/hydra-battles) - Continuously in-progress book and library on Kirby and Paris' hydra battles and other entertaining formalized mathematics in Coq, including a proof of the Gödel-Rosser first incompleteness theorem.
+*   [Hydras & Co. (⭐51)](https://github.com/coq-community/hydra-battles) - Continuously in-progress book and library on Kirby and Paris' hydra battles and other entertaining formalized mathematics in Coq, including a proof of the Gödel-Rosser first incompleteness theorem.
 
 ## [14. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -132,7 +124,7 @@
 
 ### Storage / Flash
 
-*   [micropython\_data\_to\_py (⭐22)](https://github.com/peterhinch/micropython_data_to_py) - A Python 3 utility to convert an arbitrary binary file to Python source for freezing as bytecode in Flash.
+*   [micropython\_data\_to\_py (⭐24)](https://github.com/peterhinch/micropython_data_to_py) - A Python 3 utility to convert an arbitrary binary file to Python source for freezing as bytecode in Flash.
 
 ---
 

@@ -8,6 +8,17 @@
 
 ## [1. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
+### NewSQL Databases
+
+*   [Haeinsa (⭐157)](https://github.com/VCNC/haeinsa) - linearly scalable multi-row, multi-table transaction library for HBase based on Percolator.
+*   [Amazon RedShift](http://aws.amazon.com/redshift/) - data warehouse service, based on PostgreSQL.
+*   [H-Store](http://hstore.cs.brown.edu/) - is an experimental main-memory, parallel database management system that is optimized for on-line transaction processing (OLTP) applications.
+*   [InfiniSQL](http://www.infinisql.org/) - infinity scalable RDBMS.
+*   [MemSQL](http://www.memsql.com/) - in memory SQL database witho optimized columnar storage on flash.
+*   [NuoDB](http://www.nuodb.com/) - SQL/ACID compliant distributed database.
+*   [Sky](http://skydb.io/) - database used for flexible, high performance analysis of behavioral data.
+*   [SymmetricDS](http://www.symmetricds.org/) - open source software for both file and database synchronization.
+
 ### Distributed Programming
 
 *   [AMPLab SIMR](http://databricks.github.io/simr/) - run Spark on Hadoop MapReduce v1.
@@ -19,8 +30,8 @@
 *   [Cascalog](http://cascalog.org/) - data processing and querying library.
 *   [Cheetah](http://vldbarc.org/pvldb/vldb2010/pvldb_vol3/I08.pdf) - High Performance, Custom Data Warehouse on Top of MapReduce.
 *   [Concurrent Cascading](http://www.cascading.org/) - framework for data management/analytics on Hadoop.
-*   [Damballa Parkour (⭐257)](https://github.com/damballa/parkour) - MapReduce library for Clojure.
-*   [Datasalt Pangool (⭐58)](https://github.com/datasalt/pangool) - alternative MapReduce paradigm.
+*   [Damballa Parkour (⭐258)](https://github.com/damballa/parkour) - MapReduce library for Clojure.
+*   [Datasalt Pangool (⭐57)](https://github.com/datasalt/pangool) - alternative MapReduce paradigm.
 *   [Facebook Corona](https://www.facebook.com/notes/facebook-engineering/under-the-hood-scheduling-mapreduce-jobs-more-efficiently-with-corona/10151142560538920) - Hadoop enhancement which removes single point of failure.
 *   [Facebook Peregrine](http://peregrine_mapreduce.bitbucket.org/) - Map Reduce framework.
 *   [Facebook Scuba](https://www.facebook.com/notes/facebook-engineering/under-the-hood-data-diving-with-scuba/10150599692628920) - distributed in-memory datastore.
@@ -45,10 +56,10 @@
 
 ### Key-value Data Model
 
-*   [ElephantDB (⭐551)](https://github.com/nathanmarz/elephantdb) - Distributed database specialized in exporting data from Hadoop.
+*   [ElephantDB (⭐553)](https://github.com/nathanmarz/elephantdb) - Distributed database specialized in exporting data from Hadoop.
 *   [LinkedIn Krati (⭐26)](https://github.com/linkedin-sna/sna-page/tree/master/krati) - is a simple persistent data store with very low latency and high throughput.
 *   [Linkedin Voldemort](http://www.project-voldemort.com/voldemort/) - distributed key/value storage system.
-*   [Storehaus (⭐463)](https://github.com/twitter/storehaus) - library to work with asynchronous key value stores, by Twitter.
+*   [Storehaus (⭐466)](https://github.com/twitter/storehaus) - library to work with asynchronous key value stores, by Twitter.
 
 ### Graph Data Model
 
@@ -57,24 +68,14 @@
 *   [Google Pregel](http://kowshik.github.io/JPregel/pregel_paper.pdf) - graph processing framework.
 *   [GraphX](https://amplab.cs.berkeley.edu/publication/graphx-grades/) - resilient Distributed Graph System on Spark.
 *   [Intel GraphBuilder](https://01.org/graphbuilder/) - tools to construct large-scale graphs on top of Hadoop.
-*   [Phoebus (⭐384)](https://github.com/xslogic/phoebus) - framework for large scale graph processing.
+*   [Phoebus (⭐382)](https://github.com/xslogic/phoebus) - framework for large scale graph processing.
 *   [Titan](http://thinkaurelius.github.io/titan/) - distributed graph database, built over Cassandra.
-
-### NewSQL Databases
-
-*   [Amazon RedShift](http://aws.amazon.com/redshift/) - data warehouse service, based on PostgreSQL.
-*   [H-Store](http://hstore.cs.brown.edu/) - is an experimental main-memory, parallel database management system that is optimized for on-line transaction processing (OLTP) applications.
-*   [InfiniSQL](http://www.infinisql.org/) - infinity scalable RDBMS.
-*   [MemSQL](http://www.memsql.com/) - in memory SQL database witho optimized columnar storage on flash.
-*   [NuoDB](http://www.nuodb.com/) - SQL/ACID compliant distributed database.
-*   [Sky](http://skydb.io/) - database used for flexible, high performance analysis of behavioral data.
-*   [SymmetricDS](http://www.symmetricds.org/) - open source software for both file and database synchronization.
 
 ## [2. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Lexers, Parsers, Parser Generators / Bare metal / kernel development
 
-*   [Martin Nowak's Lexer (⭐11)](https://github.com/MartinNowak/lexer) - A lexer generator.
+*   [Martin Nowak's Lexer (⭐12)](https://github.com/MartinNowak/lexer) - A lexer generator.
 *   [Goldie](https://bitbucket.org/Abscissa/goldie/wiki/Home) - Goldie Parsing System.
 
 ### Web Frameworks / Bare metal / kernel development
@@ -84,23 +85,22 @@
 ### Command Line / XML
 
 *   [scriptlike (⭐89)](https://github.com/Abscissa/scriptlike) - Utility library to aid writing script-like programs in D.
-*   [todod (⭐15)](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise (⭐3.3k)](https://github.com/antirez/linenoise).
+*   [todod (⭐15)](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise (⭐3.4k)](https://github.com/antirez/linenoise).
 
 ## [3. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
-
-### NoSQL
-
-*   [Haeinsa (⭐158)](https://github.com/VCNC/haeinsa) - Haeinsa is linearly scalable multi-row, multi-table transaction library for HBase
-*   [Apache HBase](http://hbase.apache.org) - Apache HBase
-*   [happybase (⭐595)](https://github.com/wbolster/happybase) - A developer-friendly Python library to interact with Apache HBase.
-*   [Hannibal (⭐170)](https://github.com/sentric/hannibal) - Hannibal is tool to help monitor and maintain HBase-Clusters that are configured for manual splitting.
-*   [hindex (⭐588)](https://github.com/Huawei-Hadoop/hindex) - Secondary Index for HBase
 
 ### Hadoop
 
 *   [Apache Hadoop](http://hadoop.apache.org/) - Apache Hadoop
 *   [SpatialHadoop](http://spatialhadoop.cs.umn.edu/) - SpatialHadoop is a MapReduce extension to Apache Hadoop designed specially to work with spatial data.
 *   [GIS Tools for Hadoop](http://esri.github.io/gis-tools-for-hadoop/) - Big Data Spatial Analytics for the Hadoop Framework
+
+### NoSQL
+
+*   [Apache HBase](http://hbase.apache.org) - Apache HBase
+*   [happybase (⭐595)](https://github.com/wbolster/happybase) - A developer-friendly Python library to interact with Apache HBase.
+*   [Hannibal (⭐170)](https://github.com/sentric/hannibal) - Hannibal is tool to help monitor and maintain HBase-Clusters that are configured for manual splitting.
+*   [hindex (⭐588)](https://github.com/Huawei-Hadoop/hindex) - Secondary Index for HBase
 
 ### Workflow, Lifecycle and Governance
 

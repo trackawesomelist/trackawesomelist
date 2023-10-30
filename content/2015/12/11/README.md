@@ -14,7 +14,7 @@
 
 ### Audio and Sounds
 
-*   [synthex (⭐42)](https://github.com/bitgamma/synthex) - A signal synthesis library.
+*   [synthex (⭐44)](https://github.com/bitgamma/synthex) - A signal synthesis library.
 
 ### Authentication
 
@@ -26,7 +26,7 @@
 
 ### Caching
 
-*   [lru\_cache (⭐35)](https://github.com/arago/lru_cache) - Simple LRU Cache, implemented with ets.
+*   [lru\_cache (⭐36)](https://github.com/arago/lru_cache) - Simple LRU Cache, implemented with ets.
 
 ### Examples and funny stuff
 
@@ -35,11 +35,11 @@
 
 ### Framework Components
 
-*   [exdjango (⭐17)](https://github.com/nicksanders/exdjango) - A few elixir libraries for working with django.
+*   [exdjango (⭐18)](https://github.com/nicksanders/exdjango) - A few elixir libraries for working with django.
 
 ### HTTP
 
-*   [yuri (⭐11)](https://github.com/kemonomachi/yuri) - Simple struct for representing URIs.
+*   [yuri (⭐12)](https://github.com/kemonomachi/yuri) - Simple struct for representing URIs.
 
 ### Images
 
@@ -55,7 +55,7 @@
 
 ### OTP
 
-*   [erlexec (⭐481)](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
+*   [erlexec (⭐496)](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
 
 ### Queue
 
@@ -63,7 +63,7 @@
 
 ### Text and Numbers
 
-*   [bencode (⭐16)](https://github.com/gausby/bencode) - A Bencode encoder and decoder for Elixir. The decoder will return the checksum value of the info dictionary, if an info dictionary was found in the input.
+*   [bencode (⭐17)](https://github.com/gausby/bencode) - A Bencode encoder and decoder for Elixir. The decoder will return the checksum value of the info dictionary, if an info dictionary was found in the input.
 *   [elixir-range-extras (⭐8)](https://github.com/lnikkila/elixir-range-extras) - Elixir range utilities: constant-time random sampling and set operations.
 
 ### Third Party APIs
@@ -72,13 +72,13 @@
 
 ### YAML
 
-*   [fast\_yaml (⭐49)](https://github.com/processone/fast_yaml) - Fast YAML is an Erlang wrapper for libyaml "C" library.
+*   [fast\_yaml (⭐48)](https://github.com/processone/fast_yaml) - Fast YAML is an Erlang wrapper for libyaml "C" library.
 
 ## [2. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Version Control / Git
 
-*   [dev-time (⭐179)](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
+*   [dev-time (⭐181)](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
 
 ## [3. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -94,7 +94,7 @@
 
 ### XML
 
-*   [AEXML (⭐979)](https://github.com/tadija/AEXML) - xml wrapper.
+*   [AEXML (⭐980)](https://github.com/tadija/AEXML) - xml wrapper.
 
 ### Images / Barcode
 
@@ -102,7 +102,7 @@
 
 ### Network / Barcode
 
-*   [ResponseDetective (⭐2k)](https://github.com/netguru/ResponseDetective) - A non-intrusive framework for intercepting any outgoing requests and incoming responses between your app and server for debugging purposes.
+*   [ResponseDetective (⭐1.9k)](https://github.com/netguru/ResponseDetective) - A non-intrusive framework for intercepting any outgoing requests and incoming responses between your app and server for debugging purposes.
 
 ### UI / Barcode
 
@@ -116,7 +116,7 @@
 ### Transition / Barcode
 
 *   [PinterestSwift (⭐1.9k)](https://github.com/demonnico/PinterestSwift) - Pinterest style transition.
-*   [StarWars.iOS (⭐3.7k)](https://github.com/Yalantis/StarWars.iOS) - Transition animation to crumble view-controller into tiny pieces.
+*   [StarWars.iOS (⭐3.8k)](https://github.com/Yalantis/StarWars.iOS) - Transition animation to crumble view-controller into tiny pieces.
 
 ## [5. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

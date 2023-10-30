@@ -105,7 +105,7 @@
 
 ### Packages / Frameworks
 
-*   [Tone.js (⭐12k)](https://github.com/Tonejs/Tone.js) - A framework for making interactive music in the browser.
+*   [Tone.js (⭐13k)](https://github.com/Tonejs/Tone.js) - A framework for making interactive music in the browser.
 
 ### Packages / MIDI
 
@@ -113,7 +113,7 @@
 
 ### Packages / Apps
 
-*   [LoopDrop App (⭐815)](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
+*   [LoopDrop App (⭐819)](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
 
 ## [8. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 

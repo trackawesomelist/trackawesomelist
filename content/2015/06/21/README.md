@@ -50,13 +50,13 @@
 
 ### Files and Directories
 
-*   [elixgrep (⭐27)](https://github.com/bbense/elixgrep) - A framework for doing Hadoop style Map/Reduce operations on collections of files.
+*   [elixgrep (⭐28)](https://github.com/bbense/elixgrep) - A framework for doing Hadoop style Map/Reduce operations on collections of files.
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### C++ / Natural Language Processing
 
-*   [MeTA (⭐661)](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
+*   [MeTA (⭐672)](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
 
 ## [7. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 18, 2022
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,20 +10,20 @@
 
 ### Using ChatGPT in other apps
 
-*   [ChatGPT for Slack bot (⭐161)](https://github.com/pedrorito/ChatGPTSlackBot)
+*   [ChatGPT for Slack bot (⭐361)](https://github.com/pedrorito/ChatGPTSlackBot)
 
 ### Coding
 
-*   [Explain runtime error message with ChatGPT (⭐381)](https://github.com/shobrook/stackexplain)
-*   ⭐️ [PR code review using ChatGPT (⭐306)](https://github.com/kxxt/chatgpt-action)
+*   [Explain runtime error message with ChatGPT (⭐504)](https://github.com/shobrook/stackexplain)
+*   ⭐️ [PR code review using ChatGPT (⭐551)](https://github.com/kxxt/chatgpt-action)
 
 ### Other
 
-*   [Share your wildest ChatGPT conversations with one click (⭐322)](https://github.com/domeccleston/sharegpt)
+*   [Share your wildest ChatGPT conversations with one click (⭐1.5k)](https://github.com/domeccleston/sharegpt)
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### Authentication, Authorization and User Management
+### Authentication, Authorization, and User Management
 
 *   [PropelAuth](https://propelauth.com) — A Sell to companies of any size immediately with a few lines of code, free up to 200 users and 10k Transactional Emails (with a watermark branding: "Powered by PropelAuth").
 
@@ -31,13 +31,13 @@
 
 ### Misc libraries
 
-*   [kassane/libvlc-zig (⭐10)](https://github.com/kassane/libvlc-zig) - Zig bindings for libVLC media framework.
+*   [kassane/libvlc-zig (⭐11)](https://github.com/kassane/libvlc-zig) - Bindings for libVLC media framework.
 
 ## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Algorithms and Data structures
 
-*   [Goban (⭐18)](https://github.com/soya-daizu/goban) - A fast and efficient QR Code implementation
+*   [Goban (⭐19)](https://github.com/soya-daizu/goban) - A fast and efficient QR Code implementation
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -48,43 +48,30 @@
 ### Development tools / IDEs
 
 *   [Atom](https://github.blog/2022-06-08-sunsetting-atom/)
-    *   [rust-lang/atom-ide-rust (⭐247)](https://github.com/rust-lang/atom-ide-rust) — Rust IDE support for Atom, powered by the Rust Language Server (RLS)
+    *   [rust-lang/atom-ide-rust (⭐252)](https://github.com/rust-lang/atom-ide-rust) — Rust IDE support for Atom, powered by the Rust Language Server (RLS)
 
 ## [6. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Databases
 
-*   [Supabase (⭐157)](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
+*   [Supabase (⭐199)](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
 
 ## [7. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Emulator Development / Misc
 
-*   [Game Boy Doctor (⭐121)](https://github.com/robert/gameboy-doctor) - A command line tool for comparing logs from your emulator to those from a known-correct one. Useful for line-by-line debugging of Blargg's test ROMs.
+*   [Game Boy Doctor (⭐135)](https://github.com/robert/gameboy-doctor) - A command line tool for comparing logs from your emulator to those from a known-correct one. Useful for line-by-line debugging of Blargg's test ROMs.
 
 ### Tools / Development tools
 
-*   [evscript (⭐4)](https://github.com/eievui5/evscript) - A scripting language for the Game Boy, useful for enemy AI, dialogue, animations, and coroutines.
-*   [evunit (⭐8)](https://github.com/eievui5/evunit) - A unit testing program for assembly code.
+*   [evscript (⭐7)](https://github.com/eievui5/evscript) - A scripting language for the Game Boy, useful for enemy AI, dialogue, animations, and coroutines.
+*   [evunit (⭐15)](https://github.com/eievui5/evunit) - A unit testing program for assembly code.
 
 ## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Formatting / Diagnostics
 
-*   [emileferreira/nvim-strict (⭐32)](https://github.com/emileferreira/nvim-strict) - Strict, native code style formatting which exposes deep nesting, overlong lines, trailing whitespace, trailing empty lines, todos and inconsistent indentation.
-
-## [9. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
-
-### List of Licenses / Web
-
-*   `AGPL-3.0` - [GNU Affero General Public License 3.0](https://www.gnu.org/licenses/agpl-3.0)
-*   `Apache-2.0` - [Apache, Version 2.0](https://www.apache.org/licenses/)
-*   `BSD-2-Clause` - [BSD 2-clause "Simplified"](https://opensource.org/licenses/BSD-2-Clause)
-*   `BSD-3-Clause` - [BSD 3-Clause "New" or "Revised"](https://opensource.org/licenses/BSD-3-Clause)
-*   `GPL-2.0` - [GNU General Public License 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
-*   `GPL-3.0` - [GNU General Public License 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
-*   `MIT` - [MIT License](https://opensource.org/licenses/MIT)
-*   `MPL-2.0` - [Mozilla Public License](https://www.mozilla.org/MPL/2.0/index.txt)
+*   [emileferreira/nvim-strict (⭐33)](https://github.com/emileferreira/nvim-strict) - Strict, native code style formatting which exposes deep nesting, overlong lines, trailing whitespace, trailing empty lines, todos and inconsistent indentation.
 
 ---
 

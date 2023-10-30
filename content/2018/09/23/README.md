@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 23, 2018
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,9 +10,19 @@
 
 ### Services / Bluetooth / NFC / Beacon
 
-*   [OneSignal (⭐561)](https://github.com/OneSignal/OneSignal-Flutter-SDK) <!--stargazers:OneSignal/OneSignal-Flutter-SDK--> - Push notification service by [OneSignal](https://github.com/OneSignal)
+*   [OneSignal (⭐582)](https://github.com/OneSignal/OneSignal-Flutter-SDK) <!--stargazers:OneSignal/OneSignal-Flutter-SDK--> - Push notification service by [OneSignal](https://github.com/OneSignal)
 
-## [2. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
+## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### JavaScript / Elm
+
+*   [Elm Accelerated](https://accelerated.amimetic.co.uk) - James Porter
+
+### TypeScript / Vapor
+
+*   [TypeScript Accelerated](https://accelerated.amimetic.co.uk) - James Porter
+
+## [3. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
 
 ### Internet protocol suite / OpenOffice
 
@@ -26,19 +36,19 @@
 
 *   [Experimental Maps UDF (by TheDcoder) (⭐3)](https://github.com/TheDcoder/Experimental-Maps-UDF) - UDF for the new Map datatype in AutoIt, similar to the Array UDF included in standard UDFs.
 
-## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+## [4. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
 ### Test-Driven Development
 
 *   [The Clean Code Talks - Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w) by **Misko Hevery** \[32:07]
 
-## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-### Software / Resource Planning - Enterprise Resource Planning
+### Software / Resource Planning
 
-*   [LedgerSMB](https://ledgersmb.org/) - Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more. ([Demo](https://demo.cloud.efficito.com/erp/1.5/login.pl), [Source Code (⭐326)](https://github.com/ledgersmb/LedgerSMB)) `GPL-2.0` `Perl`
+*   [LedgerSMB](https://ledgersmb.org/) - Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more. ([Demo](https://demo.cloud.efficito.com/erp/1.5/login.pl), [Source Code (⭐342)](https://github.com/ledgersmb/LedgerSMB)) `GPL-2.0` `Docker/Perl`
 
-## [5. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [6. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Researchers / Frameworks
 

@@ -10,13 +10,13 @@
 
 ### Plugins / Practices and Specific ES Features
 
-*   [toplevel (⭐14)](https://github.com/HKalbasi/eslint-plugin-toplevel) - An eslint plugin for disallow side effect at module toplevel.
+*   [toplevel (⭐15)](https://github.com/HKalbasi/eslint-plugin-toplevel) - An eslint plugin for disallow side effect at module toplevel.
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Calendarific](https://calendarific.com) - Enterprise-grade Public holiday API service for over 200 countries. Free plan includes 1000 calls per month.
+*   [Calendarific](https://calendarific.com) - Enterprise-grade Public holiday API service for over 200 countries. The free plan includes 1,000 calls per month.
 
 ## [3. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
@@ -34,15 +34,15 @@
 
 ### React Tutorials
 
-*   [Cheatsheets for experienced React developers getting started with TypeScript (⭐41k)](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+*   [Cheatsheets for experienced React developers getting started with TypeScript (⭐43k)](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 
 ### React Awesome Components
 
-*   [react-archer (⭐917)](https://github.com/pierpo/react-archer) - Draw arrows between React elements
+*   [react-archer (⭐990)](https://github.com/pierpo/react-archer) - Draw arrows between React elements
 
 ### React Real Apps
 
-*   [kibana (⭐18k)](https://github.com/elastic/kibana) - Your window into the Elastic Stack
+*   [kibana (⭐19k)](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 *   [overreacted (⭐6.7k)](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
 
 ---

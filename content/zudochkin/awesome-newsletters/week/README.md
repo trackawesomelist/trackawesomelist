@@ -530,7 +530,7 @@ A list of amazing Newsletters
 
 ### Miscellaneous / Svelte
 
-*   [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates). A weekly newsletter focussing on latest in mobile, web, AI, UI/UX, jobs/carrers and anything related to developers and the industry.
+*   [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates). A weekly newsletter focussing on latest in mobile, web, AI, UI/UX, jobs/careers and anything related to developers and the industry.
 
 ## [Aug 19 - Aug 25, 2019](/content/2019/33/README.md)
 

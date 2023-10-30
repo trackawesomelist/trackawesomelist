@@ -44,7 +44,6 @@
 
 ### Databases / Pathway
 
-*   [PathwayCommon](https://www.pathwaycommons.org/) - Database of Pathways and Interactions.
 *   [KEGG PATHWAY](https://www.genome.jp/kegg/pathway.html) - Collection fo drawn pathway maps.
 *   [WikiPathways](https://wikipathways.org/) - Database of biological pathways.
 
@@ -70,25 +69,25 @@
 
 ### Preprocess / Interaction
 
-*   [Chemistry Development Kit (⭐403)](https://github.com/cdk/cdk) - A software of cheminformatics and Machine Learning.
-*   [RDKit (⭐2k)](https://github.com/rdkit/rdkit) - A software of cheminformatics and Machine Learning.
+*   [Chemistry Development Kit (⭐428)](https://github.com/cdk/cdk) - A software of cheminformatics and Machine Learning.
+*   [RDKit (⭐2.2k)](https://github.com/rdkit/rdkit) - A software of cheminformatics and Machine Learning.
 
 ### Machine Learning Tasks and Models / Drug Repurposing
 
-*   [DeepPurpose (⭐729)](https://github.com/kexinhuang12345/DeepPurpose) - A DL Library for Drug Repurposing and so on.
+*   [DeepPurpose (⭐800)](https://github.com/kexinhuang12345/DeepPurpose) - A DL Library for Drug Repurposing and so on.
 
 ### Machine Learning Tasks and Models / Drug Target Interaction
 
-*   [NeoDTI (⭐64)](https://github.com/FangpingWan/NeoDTI) - A library for Drug Target Interaction.
+*   [NeoDTI (⭐66)](https://github.com/FangpingWan/NeoDTI) - A library for Drug Target Interaction.
 
 ### Machine Learning Tasks and Models / Compound Protein Interaction
 
 *   [MCPINN (⭐3)](https://github.com/mhlee0903/multi_channels_PINN) - A library for drug discovery using Compound Protein Interaction and Machine Learning.
-*   [TransformerCPI (⭐97)](https://github.com/lifanchen-simm/transformerCPI) - A library for Compound Protein Interaction prediction using Transformer.
+*   [TransformerCPI (⭐117)](https://github.com/lifanchen-simm/transformerCPI) - A library for Compound Protein Interaction prediction using Transformer.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
 *   [file.coffee](https://file.coffee/) - A platform where you can store up to 15MB/file (30/MB file with an account).
 
@@ -102,13 +101,13 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-resolve (⭐8)](https://github.com/vite-plugin/vite-plugin-resolve) - Custom resolve module content.
-*   [vite-plugin-dynamic-import (⭐105)](https://github.com/vite-plugin/vite-plugin-dynamic-import) - Enhance Vite builtin dynamic import.
-*   [vite-plugin-commonjs (⭐46)](https://github.com/vite-plugin/vite-plugin-commonjs) - A pure JavaScript implementation for CommonJs.
+*   [vite-plugin-resolve (⭐13)](https://github.com/vite-plugin/vite-plugin-resolve) - Custom resolve module content.
+*   [vite-plugin-dynamic-import (⭐147)](https://github.com/vite-plugin/vite-plugin-dynamic-import) - Enhance Vite builtin dynamic import.
+*   [vite-plugin-commonjs (⭐70)](https://github.com/vite-plugin/vite-plugin-commonjs) - A pure JavaScript implementation for CommonJs.
 
 ### Rust / Community
 
-*   [create-rust-app (⭐1.2k)](https://github.com/Wulf/create-rust-app) - Integration for Rust web apps.
+*   [create-rust-app (⭐1.3k)](https://github.com/Wulf/create-rust-app) - Integration for Rust web apps.
 
 ---
 

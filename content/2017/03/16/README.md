@@ -16,7 +16,7 @@
 
 ### Other Awesome Lists / Other Common Awesome Lists
 
-*   [Movies For Hacker (⭐9.7k)](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
+*   [Movies For Hacker (⭐9.9k)](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
 
 ## [3. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
@@ -34,20 +34,20 @@
 
 ### Frameworks, Libraries and Tools / Build Automation
 
-*   [dotnet-docker (⭐3.5k)](https://github.com/dotnet/dotnet-docker) - The base Docker images for working with .NET Core and the .NET Core Tools.
+*   [dotnet-docker (⭐4k)](https://github.com/dotnet/dotnet-docker) - The base Docker images for working with .NET Core and the .NET Core Tools.
 
 ## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Code Analysis and Metrics
 
-*   [.NET Compiler Platform ("Roslyn") Analyzers (⭐1.4k)](https://github.com/dotnet/roslyn-analyzers) - A number of Roslyn diagnostic analyzers initially developed to help flesh out the design and implementation of the static analysis APIs.
+*   [.NET Compiler Platform ("Roslyn") Analyzers (⭐1.5k)](https://github.com/dotnet/roslyn-analyzers) - A number of Roslyn diagnostic analyzers initially developed to help flesh out the design and implementation of the static analysis APIs.
 
 ## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### ORM/ODM Extensions
 
 *   Multi-tenancy
-    *   [Acts As Tennant (⭐1.3k)](https://github.com/ErwinM/acts_as_tenant) - Add multi-tenancy to a Rails app through a shared database strategy.
+    *   [Acts As Tennant (⭐1.4k)](https://github.com/ErwinM/acts_as_tenant) - Add multi-tenancy to a Rails app through a shared database strategy.
     *   [Apartment (⭐2.6k)](https://github.com/influitive/apartment) - Multi-tenancy for Rails and ActiveRecord.
     *   [Milia (⭐337)](https://github.com/jekuno/milia) - Non-invasive multi-tenancy for Rails which supports Devise authentication out of the box.
 
@@ -61,7 +61,7 @@
 
 ### Samples
 
-*   [SDF Font Demo (⭐204)](https://github.com/kocsis1david/font-demo) - Text rendering in Vulkan by estimating signed distance. \[MIT]
+*   [SDF Font Demo (⭐211)](https://github.com/kocsis1david/font-demo) - Text rendering in Vulkan by estimating signed distance. \[MIT]
 
 ---
 

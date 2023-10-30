@@ -11,11 +11,11 @@
 ### Authentication
 
 *   [ueberauth\_cas (⭐14)](https://github.com/marceldegraaf/ueberauth_cas) - Central Authentication Service strategy for Überauth.
-*   [ueberauth\_line (⭐3)](https://github.com/alexfilatov/ueberauth_line) - LINE Strategy for Überauth.
+*   [ueberauth\_line (⭐4)](https://github.com/alexfilatov/ueberauth_line) - LINE Strategy for Überauth.
 
 ### Cloud Infrastructure and Management
 
-*   [nomad (⭐79)](https://github.com/sashaafm/nomad) - Create cloud portable Elixir and Phoenix apps. Write once, use everywhere.
+*   [nomad (⭐81)](https://github.com/sashaafm/nomad) - Create cloud portable Elixir and Phoenix apps. Write once, use everywhere.
 
 ### HTTP
 
@@ -27,7 +27,7 @@
 
 ### Utilities
 
-*   [erlang-history (⭐496)](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell.
+*   [erlang-history (⭐495)](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell.
 
 ## [2. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
-*   [日本語 (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ja-JP)
+*   [日本語 (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ja-JP)
 
 ## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

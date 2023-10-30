@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 25, 2021
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -79,23 +79,23 @@
 
 ### Libraries / Configuration
 
-*   [andoriyu/uclicious (⭐14)](https://github.com/andoriyu/uclicious) \[[uclicious](https://crates.io/crates/uclicious)] — [libUCL (⭐1.5k)](https://github.com/vstakhov/libucl) based feature-rich configuration library. [![CircleCI](https://circleci.com/gh/vstakhov/libucl.svg?style=svg)](https://app.circleci.com/pipelines/github/vstakhov/libucl)
+*   [andoriyu/uclicious (⭐14)](https://github.com/andoriyu/uclicious) \[[uclicious](https://crates.io/crates/uclicious)] — [libUCL (⭐1.6k)](https://github.com/vstakhov/libucl) based feature-rich configuration library. [![CircleCI](https://circleci.com/gh/vstakhov/libucl.svg?style=svg)](https://app.circleci.com/pipelines/github/vstakhov/libucl)
 
 ### Libraries / Cryptography
 
-*   [cossacklabs/themis (⭐1.7k)](https://github.com/cossacklabs/themis) \[[themis](https://crates.io/crates/themis)] — a high-level cryptographic library for solving typical data security tasks, best fit for multi-platform apps. [![build badge](https://circleci.com/gh/cossacklabs/themis/tree/master.svg?style=shield)](https://app.circleci.com/pipelines/github/cossacklabs/themis)
+*   [cossacklabs/themis (⭐1.8k)](https://github.com/cossacklabs/themis) \[[themis](https://crates.io/crates/themis)] — a high-level cryptographic library for solving typical data security tasks, best fit for multi-platform apps. [![build badge](https://circleci.com/gh/cossacklabs/themis/tree/master.svg?style=shield)](https://app.circleci.com/pipelines/github/cossacklabs/themis)
 
 ## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Logging / Barcode
 
-*   [Puppy (⭐111)](https://github.com/sushichop/Puppy) :penguin: - A flexible logging library that supports multiple transports and platforms.
+*   [Puppy (⭐127)](https://github.com/sushichop/Puppy) :penguin: - A flexible logging library that supports multiple transports and platforms.
 
 ## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Chatwoot](https://www.chatwoot.com) - Self-hosted customer communication platform, an alternative to Intercom & Zendesk. ([Source Code (⭐15k)](https://github.com/chatwoot/chatwoot)) `MIT` `Ruby`
+*   [Chatwoot](https://www.chatwoot.com) - Self-hosted customer communication platform (alternative to Intercom & Zendesk). ([Source Code (⭐17k)](https://github.com/chatwoot/chatwoot)) `MIT` `Ruby/Docker/K8S`
 
 ## [9. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 
@@ -114,7 +114,7 @@
 ### Tools
 
 *   🌍🔧 [brands-tail-color](https://brands-tail-color.vercel.app/) - Configuration generator using various brands' colors.
-*   💼 [@ngneat/tailwind (⭐601)](https://github.com/ngneat/tailwind) - Tailwind CSS integration for Angular.
+*   💼 [@ngneat/tailwind](https://github.com/ngneat/tailwind) - Tailwind CSS integration for Angular.
 
 ## [12. Typedb Awesome](/content/vaticle/typedb-awesome/README.md)
 
@@ -127,38 +127,32 @@
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [GRR Rapid Response (⭐4.4k)](https://github.com/google/grr) - Incident response framework focused on remote live forensics. It consists of a python agent (client) that is installed on target systems, and a python server infrastructure that can manage and talk to the agent. Besides the included Python API client, [PowerGRR (⭐54)](https://github.com/swisscom/PowerGRR) provides an API client library in PowerShell working on Windows, Linux and macOS for GRR automation and scripting.
+*   [GRR Rapid Response (⭐4.5k)](https://github.com/google/grr) - Incident response framework focused on remote live forensics. It consists of a python agent (client) that is installed on target systems, and a python server infrastructure that can manage and talk to the agent. Besides the included Python API client, [PowerGRR (⭐56)](https://github.com/swisscom/PowerGRR) provides an API client library in PowerShell working on Windows, Linux and macOS for GRR automation and scripting.
 
-## [14. Awesome Osint](/content/jivoi/awesome-osint/README.md)
-
-### PDF Management / Telegram
-
-*   [PDF Shelter](https://pdfshelter.com/) - Unlimited, privacy-aware, PDF tools running locally on browser
-
-## [15. Awesome Acg](/content/soruly/awesome-acg/README.md)
+## [14. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
 ### Databases / Data Sources
 
-*   [anime-offline-database (⭐573)](https://github.com/manami-project/anime-offline-database/) - A JSON based offline anime database containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more. \[English]
+*   [anime-offline-database (⭐707)](https://github.com/manami-project/anime-offline-database/) - A JSON based offline anime database containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more. \[English]
 
-## [16. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
+## [15. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
 *   [blog-box (⭐2)](https://github.com/Aveek-Saha/blog-box) - Update a pinned gist to show your latest dev.to blog post.
-*   [medium-stat-box (⭐37)](https://github.com/kylemocode/medium-stat-box) - Update a pinned gist to show your medium stats and latest articles.
+*   [medium-stat-box (⭐38)](https://github.com/kylemocode/medium-stat-box) - Update a pinned gist to show your medium stats and latest articles.
 
-## [17. Awesome Python](/content/vinta/awesome-python/README.md)
+## [16. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### WSGI Servers
 
-*   [gunicorn (⭐8.8k)](https://github.com/benoitc/gunicorn) - Pre-forked, ported from Ruby's Unicorn project.
+*   [gunicorn (⭐9k)](https://github.com/benoitc/gunicorn) - Pre-forked, ported from Ruby's Unicorn project.
 
-## [18. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [17. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Animations / Components
 
-*   [ng-particles (⭐5.3k)](https://github.com/matteobruni/tsparticles/blob/master/components/angular) - A component to easily add Particles animations to your Angular application
+*   [ng-particles (⭐5.9k)](https://github.com/matteobruni/tsparticles/blob/master/components/angular) - A component to easily add Particles animations to your Angular application
 
 ---
 

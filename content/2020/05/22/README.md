@@ -10,7 +10,7 @@
 
 ### QA Tools / Runner
 
-*   [JS-Beautifier (⭐8.1k)](https://github.com/beautify-web/js-beautify) - Npm cli and library to format JS code.
+*   [JS-Beautifier (⭐8.3k)](https://github.com/beautify-web/js-beautify) - Npm cli and library to format JS code.
 
 ## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -28,11 +28,11 @@
 
 ### Community Extensions
 
-*   [zonaut/keycloak-extensions (⭐181)](https://github.com/zonaut/keycloak-extensions)
+*   [zonaut/keycloak-extensions (⭐185)](https://github.com/zonaut/keycloak-extensions)
 
 ### Integrations
 
-*   [python-keycloak (⭐529)](https://github.com/marcospereirampj/python-keycloak)
+*   [python-keycloak (⭐575)](https://github.com/marcospereirampj/python-keycloak)
 
 ### Themes
 
@@ -55,7 +55,7 @@
 
 ### Programming Languages
 
-*   [Julia (⭐1.3k)](https://github.com/svaksha/Julia.jl#readme) - High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.
+*   [Julia (⭐1.4k)](https://github.com/svaksha/Julia.jl#readme) - High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.
 
 ## [8. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
@@ -66,7 +66,7 @@
 ### Contents / Utilities
 
 *   [pg\_docs\_bot (⭐16)](https://github.com/mchristofides/pg_docs_bot/) - Browser extension to redirect PostgreSQL docs links to the current version.
-*   [pg-differ (⭐37)](https://github.com/multum/pg-differ) - Tool for easy initialization / updating of the structure of PostgreSQL tables, migration alternative (Node.js).
+*   [pg-differ (⭐36)](https://github.com/multum/pg-differ) - Tool for easy initialization / updating of the structure of PostgreSQL tables, migration alternative (Node.js).
 
 ### Resources / Blogs
 
@@ -133,10 +133,10 @@
 
 ### Deployment tools
 
-*   [Ansitheus (⭐19)](https://github.com/ntk148v/ansitheus) - Ansible playbook to containerize, configure and deploy Prometheus ecosystem *by ntk148v*.
-*   [Ansible-prometheus (⭐87)](https://github.com/ernestas-poskus/ansible-prometheus) - Ansible playbook for installing Prometheus monitoring system, exporters such as: node, snmp, blackbox, thus alert manager and push gateway *by Ernestas Poskus*.
-*   [Click-to-deploy Prometheus (⭐657)](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s/prometheus) - Source for Google Click to Deploy Prometheus solutions listed on Google Cloud Marketplace *by GoogleCloudPlatform*.
-*   [Prometheus Operator (⭐7.8k)](https://github.com/coreos/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes *by CoreOS*.
+*   [Ansitheus (⭐20)](https://github.com/ntk148v/ansitheus) - Ansible playbook to containerize, configure and deploy Prometheus ecosystem *by ntk148v*.
+*   [Ansible-prometheus (⭐89)](https://github.com/ernestas-poskus/ansible-prometheus) - Ansible playbook for installing Prometheus monitoring system, exporters such as: node, snmp, blackbox, thus alert manager and push gateway *by Ernestas Poskus*.
+*   [Click-to-deploy Prometheus (⭐673)](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s/prometheus) - Source for Google Click to Deploy Prometheus solutions listed on Google Cloud Marketplace *by GoogleCloudPlatform*.
+*   [Prometheus Operator (⭐8.1k)](https://github.com/coreos/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes *by CoreOS*.
 
 ## [11. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -148,7 +148,7 @@
 
 ### Modules / Static site generator
 
-*   [pagic (⭐1.5k)](https://github.com/xcatliu/pagic) - The easiest way to generate static html page from markdown, built with Deno.
+*   [pagic (⭐1.6k)](https://github.com/xcatliu/pagic) - The easiest way to generate static html page from markdown, built with Deno.
 
 ### Articles / XML
 
@@ -168,27 +168,27 @@
 
 ### Component Libraries
 
-*   [Brightspace UI core (⭐39)](https://github.com/BrightspaceUI/core) - Collection of web components for building Brightspace applications.
-*   [Clever components (⭐160)](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
-*   [DataFormsJS (⭐159)](https://github.com/dataformsjs/dataformsjs) - Standalone Components for SPA routing, displaying data from web services, and more.
-*   [Elix (⭐711)](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns.
-*   [Lion Web Components (⭐1.5k)](https://github.com/ing-bank/lion) - Set of highly performant, accessible and flexible Web Components.
-*   [LRNWebComponents (⭐213)](https://github.com/elmsln/lrnwebcomponents/) - ELMS:LN produced web components for any project.
-*   [Microsoft Graph Toolkit (⭐772)](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph.
-*   [Nuxeo Elements (⭐24)](https://github.com/nuxeo/nuxeo-elements) - Components for building web applications with Nuxeo using Web Components.
-*   [Tradeshift Elements (⭐13)](https://github.com/Tradeshift/elements) - Reusable Tradeshift UI Components as Web Components.
-*   [Wired Elements (⭐9.3k)](https://github.com/wiredjs/wired-elements) - Set of common UI elements with a hand-drawn, sketchy look.
-*   [Wokwi Elements (⭐122)](https://github.com/wokwi/wokwi-elements) - Web Components for Arduino and various electronic parts.
+*   [Brightspace UI core (⭐46)](https://github.com/BrightspaceUI/core) - Collection of web components for building Brightspace applications.
+*   [Clever components (⭐189)](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
+*   [DataFormsJS (⭐171)](https://github.com/dataformsjs/dataformsjs) - Standalone Components for SPA routing, displaying data from web services, and more.
+*   [Elix (⭐752)](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns.
+*   [Lion Web Components (⭐1.6k)](https://github.com/ing-bank/lion) - Set of highly performant, accessible and flexible Web Components.
+*   [LRNWebComponents (⭐226)](https://github.com/elmsln/lrnwebcomponents/) - ELMS:LN produced web components for any project.
+*   [Microsoft Graph Toolkit (⭐840)](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph.
+*   [Nuxeo Elements (⭐27)](https://github.com/nuxeo/nuxeo-elements) - Components for building web applications with Nuxeo using Web Components.
+*   [Tradeshift Elements (⭐14)](https://github.com/Tradeshift/elements) - Reusable Tradeshift UI Components as Web Components.
+*   [Wired Elements (⭐9.5k)](https://github.com/wiredjs/wired-elements) - Set of common UI elements with a hand-drawn, sketchy look.
+*   [Wokwi Elements (⭐144)](https://github.com/wokwi/wokwi-elements) - Web Components for Arduino and various electronic parts.
 
 ### Design Systems
 
-*   [Calcite Components (⭐198)](https://github.com/Esri/calcite-components) - Shared Web Components for Esri's Calcite design framework.
-*   [Helix UI (⭐53)](https://github.com/HelixDesignSystem/helix-ui) - Web Component library for the Helix Design System.
-*   [NuML | NUDE Elements (⭐314)](https://github.com/tenphi/numl) - HTML Framework and Design System based on Web Components and runtime CSS generation.
-*   [PatternFly Elements (⭐318)](https://github.com/patternfly/patternfly-elements) - Collection of flexible and lightweight Web Components based on the Unified Design Kit.
-*   [Spectrum Web Components (⭐792)](https://github.com/adobe/spectrum-web-components) - Adobe Spectrum design language implementation built with Web Components.
-*   [UI5 Web Components (⭐1.3k)](https://github.com/SAP/ui5-webcomponents) - Set of reusable UI elements implementing SAP Fiori Design Guidelines.
-*   [Zooplus web components (⭐43)](https://github.com/zooplus/zoo-web-components) - Set of web components that implement Z+ shop style guide.
+*   [Calcite Components (⭐238)](https://github.com/Esri/calcite-components) - Shared Web Components for Esri's Calcite design framework.
+*   [Helix UI (⭐55)](https://github.com/HelixDesignSystem/helix-ui) - Web Component library for the Helix Design System.
+*   [NuML | NUDE Elements (⭐337)](https://github.com/tenphi/numl) - HTML Framework and Design System based on Web Components and runtime CSS generation.
+*   [PatternFly Elements (⭐351)](https://github.com/patternfly/patternfly-elements) - Collection of flexible and lightweight Web Components based on the Unified Design Kit.
+*   [Spectrum Web Components (⭐1k)](https://github.com/adobe/spectrum-web-components) - Adobe Spectrum design language implementation built with Web Components.
+*   [UI5 Web Components (⭐1.4k)](https://github.com/SAP/ui5-webcomponents) - Set of reusable UI elements implementing SAP Fiori Design Guidelines.
+*   [Zooplus web components (⭐45)](https://github.com/zooplus/zoo-web-components) - Set of web components that implement Z+ shop style guide.
 
 ### Presentations
 

@@ -10,7 +10,7 @@
 
 ### Image Processing
 
-*   [MetadataExtractor (⭐780)](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts Exif, IPTC, XMP, ICC and other metadata from image files.
+*   [MetadataExtractor (⭐818)](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts Exif, IPTC, XMP, ICC and other metadata from image files.
 
 ## [2. Awesome D](/content/dlang-community/awesome-d/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Game Frameworks / XML
 
-*   [DSFML (⭐98)](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. see <http://dsfml.com/>.
+*   [DSFML (⭐96)](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. see <http://dsfml.com/>.
 
 ## [3. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
 

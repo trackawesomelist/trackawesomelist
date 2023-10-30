@@ -22,7 +22,7 @@
 
 ### Languages
 
-*   [FreakC (⭐126)](https://github.com/FreakC-Foundation/FreakC) - Full-blown programming language with NSFW contents and memes.
+*   [FreakC (⭐129)](https://github.com/FreakC-Foundation/FreakC) - Full-blown programming language with NSFW contents and memes.
 *   [JellyScript](https://github.com/nguyenphuminh/Jellyscript) - Brainfuck-based with delicious jelly.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
@@ -33,7 +33,7 @@
 
 ### Components & Libraries / Dev Tools
 
-*   [Volar (⭐4.5k)](https://github.com/johnsoncodehk/volar) - The Fastest Vue Language Support Extension
+*   [Volar (⭐4.9k)](https://github.com/johnsoncodehk/volar) - The Fastest Vue Language Support Extension
 
 ## [5. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
@@ -53,11 +53,11 @@
 
 ### Analytics, Events and Statistics
 
-*   [Clicky](https://clicky.com) — Website Analytics Platform. Free Plan for 1 website with 3000 views analytics.
+*   [Clicky](https://clicky.com) — Website Analytics Platform. Free Plan for one website with 3000 views analytics.
 
 ### Miscellaneous
 
-*   [Blynk](https://blynk.io) — A SaaS with API to control, build & evaluate IoT devices. Free Developer Plan with 5 devices,Free Cloud & data storage. Mobile Apps also available.
+*   [Blynk](https://blynk.io) — A SaaS with API to control, build & evaluate IoT devices. Free Developer Plan with 5 devices, Free Cloud & data storage. Mobile Apps are also available.
 
 ## [7. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
 

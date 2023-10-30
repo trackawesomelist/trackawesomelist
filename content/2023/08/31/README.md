@@ -10,21 +10,21 @@
 
 ### Software / Miscellaneous
 
-*   [Watcharr (⭐8)](https://github.com/sbondCo/Watcharr) - A free and open source content watch list. Add and track all the shows and movies you are watching. Comes with user authentication, modern and clean UI and a very simple setup. ([Demo](https://beta.watcharr.app/)) `MIT` `Docker`
+*   [Watcharr (⭐23)](https://github.com/sbondCo/Watcharr) - A free and open source content watch list. Add and track all the shows and movies you are watching. Comes with user authentication, modern and clean UI and a very simple setup. ([Demo](https://beta.watcharr.app/)) `MIT` `Docker`
 
 ### Software / Software Development - Project Management
 
-*   [Review Board](https://www.reviewboard.org/) - Extensible and friendly code review tool for projects and companies of all sizes. ([Demo](https://demo.reviewboard.org/), [Source Code (⭐1.5k)](https://github.com/reviewboard/reviewboard)) `MIT` `Python`
+*   [Review Board](https://www.reviewboard.org/) - Extensible and friendly code review tool for projects and companies of all sizes. ([Demo](https://demo.reviewboard.org/), [Source Code (⭐1.5k)](https://github.com/reviewboard/reviewboard)) `MIT` `Python/Docker`
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [ipbase.com](https://ipbase.com) - IP Geolocation API - Forever free plan that spans 150 requests per month.
+*   [ipbase.com](https://ipbase.com) - IP Geolocation API - Forever free plan that spans 150 monthly requests.
 
 ### Security and PKI
 
-*   [pixee.ai](https://pixee.ai) - Automated Product Security Engineer as a free GitHub bot that submits PRs to your java code base to automatically resolve vulnerabilities. Other languages coming soon!
+*   [pixee.ai](https://pixee.ai) - Automated Product Security Engineer as a free GitHub bot that submits PRs to your Java code base to automatically resolve vulnerabilities. Other languages coming soon!
 
 ## [3. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
@@ -40,17 +40,17 @@
 
 ### Templates / React
 
-*   [vite-react-ssr-boost-template (⭐9)](https://github.com/Lomray-Software/vite-template) - Template for creating `React 18` SSR/SPA apps with `TypeScript`, `Mobx`, `React Router`, `Head Manager`, Suspense, Streaming. Also included CI/CD, `ESLint`, `Prettier`, `Stylelint`, `Husky`, `Semantic Release`.
+*   [vite-react-ssr-boost-template (⭐10)](https://github.com/Lomray-Software/vite-template) - Template for creating `React 18` SSR/SPA apps with `TypeScript`, `Mobx`, `React Router`, `Head Manager`, Suspense, Streaming. Also included CI/CD, `ESLint`, `Prettier`, `Stylelint`, `Husky`, `Semantic Release`.
 
 ### Libraries / Community
 
-*   [vite-ssr-boost (⭐21)](https://github.com/Lomray-Software/vite-ssr-boost) - Server side rendering library for create awesome app based on `react-router`. ![react](https://img.shields.io/badge/-React-4ab2cf)
+*   [vite-ssr-boost (⭐27)](https://github.com/Lomray-Software/vite-ssr-boost) - Server side rendering library for create awesome app based on `react-router`. ![react](https://img.shields.io/badge/-React-4ab2cf)
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### AI / Diagnostics
 
-*   [gsuuon/llm.nvim (⭐39)](https://github.com/gsuuon/llm.nvim) - Integrate LLM's via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), PaLM, HuggingFace and local engines like llamacpp.
+*   [gsuuon/llm.nvim (⭐114)](https://github.com/gsuuon/llm.nvim) - Integrate LLM's via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), PaLM, HuggingFace and local engines like llamacpp.
 
 ## [6. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Libraries/Packages/Scripts / Rust
 
-*   [Polars CLI (⭐32)](https://github.com/pola-rs/polars-cli) `Polars CLI` is a command line interface for running SQL queries with Polars as backend.
+*   [Polars CLI (⭐46)](https://github.com/pola-rs/polars-cli) `Polars CLI` is a command line interface for running SQL queries with Polars as backend.
 
 ### Resources / Tutorials & workshops
 
@@ -88,49 +88,50 @@
 
 ### Private Registries / Miscellaneous
 
-*   [nrkno/terraform-registry (⭐50)](https://github.com/nrkno/terraform-registry) - A private Terraform registry with modular store backends.
-*   [petra (⭐30)](https://github.com/devoteamgcloud/petra) - Private Terraform Registry Manager
-*   [philips-labs/terraform-registry (⭐65)](https://github.com/philips-labs/terraform-registry) - Terraform registry to serve arbitrary Terraform provider releases hosted on Github
+*   [nrkno/terraform-registry (⭐53)](https://github.com/nrkno/terraform-registry) - A private Terraform registry with modular store backends.
+*   [petra (⭐31)](https://github.com/devoteamgcloud/petra) - Private Terraform Registry Manager
+*   [philips-labs/terraform-registry (⭐67)](https://github.com/philips-labs/terraform-registry) - Terraform registry to serve arbitrary Terraform provider releases hosted on Github
 
 ### Providers / Community providers
 
-*   [terraform-provider-docker (⭐452)](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider.
+*   [terraform-provider-docker (⭐464)](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider.
 *   [terraform-provider-value (⭐14)](https://github.com/pseudo-dynamic/terraform-provider-value) - Value Provider for Terraform.
 
 ### Tools / Community providers
 
 *   [balcony](https://oguzhan-yilmaz.github.io/balcony/) - CLI tool for easy AWS API reads. Also generates Terraform import-blocks, and actual Terraform Resource code.
 *   [burrito](https://padok-team.github.io/burrito/) - Burrito is a TACoS (Terraform Automation Collaboration Software) Kubernetes Operator.
-*   [cfnctl (⭐130)](https://github.com/rogerwelin/cfnctl) - Cfnctl brings the Terraform cli experience to AWS Cloudformation.
+*   [cfnctl (⭐129)](https://github.com/rogerwelin/cfnctl) - Cfnctl brings the Terraform cli experience to AWS Cloudformation.
 *   [coretech/terrafile (⭐137)](https://github.com/coretech/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Go).
 *   [dxw/terrafile (⭐2)](https://github.com/dxw/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Ruby).
 *   [hatchet](https://docs.hatchet.run/) - An all-in-one Terraform management tool.
-*   [layerform (⭐874)](https://github.com/ergomake/layerform) - Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple "staging" environments.
+*   [layerform (⭐1.2k)](https://github.com/ergomake/layerform) - Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple "staging" environments.
 *   [pytest-terraform (⭐50)](https://github.com/cloud-custodian/pytest-terraform) - pytest terraform plugin with fixtures and offline replay support.
 *   [renovate-config (⭐33)](https://github.com/SpotOnInc/renovate-config) - Sharable Config Presets for Renovatebot, especially useful for DevOps folks.
-*   [stacks (⭐101)](https://github.com/cisco-open/stacks) - Stacks, the Terraform code pre-processor
+*   [stacks (⭐106)](https://github.com/cisco-open/stacks) - Stacks, the Terraform code pre-processor
 *   [terracove](https://elementtech.github.io/terracove/) - Recursively test a directory tree for Terraform diffs and coverage.
 *   [terraeasy (⭐32)](https://github.com/jaceq/terraeasy) - Easy Terraform wrapper
-*   [terraform-cleaner (⭐147)](https://github.com/sylwit/terraform-cleaner) - Tiny utility which detects unused variables in your terraform modules.
-*   [terramagic (⭐35)](https://github.com/miltlima/terramagic) - Wizard tool for create folders and terraform files automated, written in Python !
+*   [terraform-cleaner (⭐151)](https://github.com/sylwit/terraform-cleaner) - Tiny utility which detects unused variables in your terraform modules.
+*   [terramagic (⭐41)](https://github.com/miltlima/terramagic) - Wizard tool for create folders and terraform files automated, written in Python !
 *   [terrap-cli (⭐62)](https://github.com/sirrend/terrap-cli) - Terrap - a powerful CLI tool that scans your infrastructure and identifies any required changes.
-*   [terrars (⭐66)](https://github.com/andrewbaxter/terrars) - Terrars is a tool for building Terraform stacks in Rust. This is an alternative to the CDK.
+*   [terrars (⭐65)](https://github.com/andrewbaxter/terrars) - Terrars is a tool for building Terraform stacks in Rust. This is an alternative to the CDK.
 *   [terrascope (⭐27)](https://github.com/spilliams/terrascope) - Build orchestrator for terraform monorepos.
 *   [terrashine](https://isawan.github.io/terrashine/) - Terrashine is a terraform provider mirror1 implementation that works by automatically caching dependencies as providers are requested.
-*   [tfgen (⭐67)](https://github.com/refl3ction/tfgen) - Terraform code generator for consistent codebase and DRY.
+*   [tfgen (⭐68)](https://github.com/refl3ction/tfgen) - Terraform code generator for consistent codebase and DRY.
 *   [tfrepl (⭐25)](https://github.com/ysoftwareab/tfrepl) - A Terraform REPL, giving you a full shell experience. Readline based. No dependencies. Save config changes. History.
-*   [tfsort (⭐108)](https://github.com/AlexNabokikh/tfsort) - CLI utility to sort Terraform variables and outputs.
-*   [travelgrunt (⭐63)](https://github.com/ivanilves/travelgrunt) - cd inside \[mono]repos without fatigue!
+*   [tfsort (⭐111)](https://github.com/AlexNabokikh/tfsort) - CLI utility to sort Terraform variables and outputs.
+*   [travelgrunt (⭐59)](https://github.com/ivanilves/travelgrunt) - cd inside \[mono]repos without fatigue!
 
 ### Tools / CI
 
 *   [setup-terraform (⭐1.1k)](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.
-*   [terraform-plan (⭐44)](https://github.com/cds-snc/terraform-plan) - GitHub Action to run Terraform plan and add a comment with the changes.
+*   [terraform-plan (⭐45)](https://github.com/cds-snc/terraform-plan) - GitHub Action to run Terraform plan and add a comment with the changes.
 
 ### Tools / IDE
 
-*   [vscode-terraform-live-graph (⭐194)](https://github.com/adamiBs/vscode-terraform-live-graph) - Terraform Live Graph Extension for Visual Studio Code is a plugin that allows you to generate a live Terraform graph as you code.
+*   [vscode-terraform-live-graph (⭐196)](https://github.com/adamiBs/vscode-terraform-live-graph) - Terraform Live Graph Extension for Visual Studio Code is a plugin that allows you to generate a live Terraform graph as you code.
 
 ---
 
+- Prev: [Sep 01, 2023](/content/2023/09/01/README.md)
 - Next: [Aug 30, 2023](/content/2023/08/30/README.md)

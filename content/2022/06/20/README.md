@@ -10,13 +10,13 @@
 
 ### Software / Database Management
 
-*   [Datasette](https://datasette.io/) - An open source multi-tool for exploring and publishing data, easy import and export and database management. ([Demo](https://global-power-plants.datasettes.com/global-power-plants/global-power-plants), [Source Code (⭐7.7k)](https://github.com/simonw/datasette)) `Apache-2.0` `Python`
+*   [Datasette](https://datasette.io/) - An open source multi-tool for exploring and publishing data, easy import and export and database management. ([Demo](https://global-power-plants.datasettes.com/global-power-plants/global-power-plants), [Source Code (⭐8.4k)](https://github.com/simonw/datasette)) `Apache-2.0` `Python/Docker`
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### CMS
 
-*   [InstaWP](https://instawp.com/) - Launch a WordPress site in a few seconds. A free tier with: 5 Active Sites, 500 MB Space, 48 hrs Site Expiry.
+*   [InstaWP](https://instawp.com/) - Launch a WordPress site in a few seconds. A free tier with 5 Active Sites, 500 MB Space, 48 hrs Site Expiry.
 
 ## [3. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -34,22 +34,22 @@
 
 ### Languages / JavaScript & TypeScript
 
-*   [perawallet-connect (⭐57)](https://github.com/perawallet/connect) - JavaScript SDK for integrating Pera Wallet to web applications.
+*   [perawallet-connect (⭐58)](https://github.com/perawallet/connect) - JavaScript SDK for integrating Pera Wallet to web applications.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Game development
 
 *   [Raylib](https://www.raylib.com/)
-    *   [deltaphc/raylib-rs (⭐524)](https://github.com/deltaphc/raylib-rs) \[[raylib](https://crates.io/crates/raylib)] — Rust bindings for raylib
+    *   [deltaphc/raylib-rs (⭐595)](https://github.com/deltaphc/raylib-rs) \[[raylib](https://crates.io/crates/raylib)] — Rust bindings for raylib
 
 ### Libraries / Logging
 
-*   [rbatis/fast\_log (⭐132)](https://github.com/rbatis/fast_log) — Rust async log High-performance asynchronous logging
+*   [rbatis/fast\_log (⭐160)](https://github.com/rbatis/fast_log) — Rust async log High-performance asynchronous logging
 
 ### Libraries / Virtualization
 
-*   [bytecodealliance/wasmtime (⭐12k)](https://github.com/bytecodealliance/wasmtime) — A standalone runtime for WebAssembly [![Build Status](https://github.com/bytecodealliance/wasmtime/workflows/CI/badge.svg)](https://github.com/bytecodealliance/wasmtime/actions?query=workflow%3ACI)
+*   [bytecodealliance/wasmtime (⭐13k)](https://github.com/bytecodealliance/wasmtime) — A standalone runtime for WebAssembly [![Build Status](https://github.com/bytecodealliance/wasmtime/workflows/CI/badge.svg)](https://github.com/bytecodealliance/wasmtime/actions?query=workflow%3ACI)
 
 ## [6. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Examples
 
-*   [NASA/ogma (⭐261)](https://github.com/NASA/ogma#readme) - Clear description. Feature list. Demo GIFs. Simple install instructions. Usage code samples. TOC for easy navigation.
+*   [NASA/ogma (⭐294)](https://github.com/NASA/ogma#readme) - Clear description. Feature list. Demo GIFs. Simple install instructions. Usage code samples. TOC for easy navigation.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
-*   [RamdaScript (⭐132)](https://github.com/yosbelms/ramdascript) - A Lisp that compiles to opinionated JavaScript on top of RamdaJS
+*   [RamdaScript (⭐131)](https://github.com/yosbelms/ramdascript) - A Lisp that compiles to opinionated JavaScript on top of RamdaJS
 
 ## [2. Awesome Eta](/content/sfischer13/awesome-eta/README.md)
 
@@ -37,17 +37,17 @@
 ### Miscellaneous
 
 *   [Caffe Model Zoo (⭐33k)](https://github.com/BVLC/caffe/wiki/Model-Zoo) - Big list of models in Caffe format.
-*   [TensorFlow Models (⭐75k)](https://github.com/tensorflow/models) - Models for TensorFlow.
+*   [TensorFlow Models (⭐76k)](https://github.com/tensorflow/models) - Models for TensorFlow.
 
 ## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Events
 
-*   [Observable (⭐367)](https://github.com/roberthein/Observable) - The easiest way to observe values.
+*   [Observable (⭐368)](https://github.com/roberthein/Observable) - The easiest way to observe values.
 
 ### Images / Barcode
 
-*   [ZImageCropper (⭐222)](https://github.com/ZaidPathan/ZImageCropper) - Crop image in any shape.
+*   [ZImageCropper (⭐228)](https://github.com/ZaidPathan/ZImageCropper) - Crop image in any shape.
 
 ## [7. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 
@@ -140,7 +140,7 @@
 
 ### Email
 
-*   [Maily (⭐686)](https://github.com/markets/maily) - A Rails Engine to manage, test and navigate through all your email templates of your app, being able to preview them directly in your browser.
+*   [Maily (⭐692)](https://github.com/markets/maily) - A Rails Engine to manage, test and navigate through all your email templates of your app, being able to preview them directly in your browser.
 
 ### Form Builder
 
@@ -151,7 +151,7 @@
 
 ### Boilerplates / Themes
 
-*   [Ng-Alain (⭐4.4k)](https://github.com/cipchk/ng-alain) - Angular Admin UI built on Ant Design (with ng-zorro-antd).
+*   [Ng-Alain (⭐4.5k)](https://github.com/cipchk/ng-alain) - Angular Admin UI built on Ant Design (with ng-zorro-antd).
 
 ## [10. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 

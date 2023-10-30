@@ -216,7 +216,7 @@
 
 ### Alert / Barcode
 
-*   [SCLAlertView (⭐5.2k)](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view.
+*   [SCLAlertView (⭐5.3k)](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view.
 
 ## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -301,7 +301,7 @@
 
 ### Number / Runner
 
-*   [accounting.js (⭐33)](https://github.com/josscrowcroft/accounting.js) - A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies.
+*   [accounting.js (⭐34)](https://github.com/josscrowcroft/accounting.js) - A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies.
 
 ### Storage / Runner
 
@@ -323,7 +323,7 @@
 ### Validation / Runner
 
 *   [jquery-validation (⭐10k)](https://github.com/jzaefferer/jquery-validation) - jQuery Validation Plugin.
-*   [validator.js (⭐21k)](https://github.com/chriso/validator.js) - String validation and sanitization.
+*   [validator.js (⭐22k)](https://github.com/chriso/validator.js) - String validation and sanitization.
 *   [validate.js (⭐2.6k)](https://github.com/rickharrison/validate.js) - Lightweight JavaScript form validation library inspired by CodeIgniter.
 
 ### Keyboard Wrappers / Runner
@@ -355,7 +355,7 @@
 ### Form Widgets / Input
 
 *   [tag-it (⭐2.5k)](https://github.com/aehlke/tag-it) - A jQuery UI plugin to handle multi-tag fields as well as tag suggestions/autocomplete.
-*   [Placeholders.js (⭐955)](https://github.com/jamesallardice/Placeholders.js) - A JavaScript polyfill for the HTML5 placeholder attribute.
+*   [Placeholders.js (⭐954)](https://github.com/jamesallardice/Placeholders.js) - A JavaScript polyfill for the HTML5 placeholder attribute.
 *   [fancyInput (⭐1.9k)](https://github.com/yairEO/fancyInput) - Makes typing in input fields fun with CSS3 effects.
 *   [jQuery-Tags-Input (⭐2.3k)](https://github.com/xoxco/jQuery-Tags-Input) - Magically convert a simple text input into a cool tag list with this jQuery plugin.
 
@@ -363,7 +363,7 @@
 
 *   [pickadate.js (⭐7.7k)](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
 *   [bootstrap-datepicker (⭐13k)](https://github.com/eternicode/bootstrap-datepicker) - A datepicker for @twitter bootstrap forked from Stefan Petre's (of eyecon.ro), improvements by @eternicode.
-*   [Pikaday (⭐7.9k)](https://github.com/dbushell/Pikaday) - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS.
+*   [Pikaday (⭐8k)](https://github.com/dbushell/Pikaday) - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS.
 
 ### Form Widgets / Select
 
@@ -386,12 +386,12 @@
 *   [tipsy (⭐2k)](https://github.com/jaz303/tipsy) - Facebook-style tooltips plugin for jQuery.
 *   [qTip2 (⭐2k)](https://github.com/qTip2/qTip2) - Pretty powerful tooltips.
 *   [tooltipster (⭐2.8k)](https://github.com/iamceege/tooltipster) - A jQuery tooltip plugin.
-*   [simptip (⭐650)](https://github.com/arashmanteghi/simptip) - A simple CSS tooltip made with Sass.
+*   [simptip (⭐647)](https://github.com/arashmanteghi/simptip) - A simple CSS tooltip made with Sass.
 
 ### Modals and Popups / Other
 
 *   [Magnific-Popup (⭐11k)](https://github.com/dimsemenov/Magnific-Popup) - Light and responsive lightbox script with focus on performance.
-*   [jquery-popbox (⭐426)](https://github.com/gristmill/jquery-popbox) - jQuery PopBox UI Element.
+*   [jquery-popbox (⭐422)](https://github.com/gristmill/jquery-popbox) - jQuery PopBox UI Element.
 *   [jquery.avgrund.js (⭐1.8k)](https://github.com/voronianski/jquery.avgrund.js) - A jQuery plugin with new modal concept for popups.
 *   [vex (⭐6.9k)](https://github.com/HubSpot/vex) - A modern dialog library which is highly configurable and easy to style.
 *   [bootstrap-modal (⭐5k)](https://github.com/jschr/bootstrap-modal) - Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.
@@ -399,7 +399,7 @@
 
 ### Maps / Other
 
-*   [Leaflet (⭐37k)](https://github.com/Leaflet/Leaflet) - JavaScript library for mobile-friendly interactive maps.
+*   [Leaflet (⭐38k)](https://github.com/Leaflet/Leaflet) - JavaScript library for mobile-friendly interactive maps.
 *   [gmaps (⭐7.1k)](https://github.com/HPNeo/gmaps) - The easiest way to use Google Maps.
 *   [polymaps (⭐1.6k)](https://github.com/simplegeo/polymaps) - A free JavaScript library for making dynamic, interactive maps in modern web browsers.
 *   [kartograph.js (⭐1.5k)](https://github.com/kartograph/kartograph.js) - Open source JavaScript renderer for Kartograph SVG maps.

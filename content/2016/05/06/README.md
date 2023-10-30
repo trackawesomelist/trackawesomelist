@@ -50,7 +50,7 @@
 
 ### Traffic Analysis/Inspection
 
-*   [PacketQ (⭐379)](https://github.com/dotse/PacketQ): A tool that provides a basic SQL-frontend to PCAP-files. Outputs JSON, CSV and XML and includes a build-in webserver with JSON-api and a nice looking AJAX GUI.
+*   [PacketQ (⭐385)](https://github.com/dotse/PacketQ): A tool that provides a basic SQL-frontend to PCAP-files. Outputs JSON, CSV and XML and includes a build-in webserver with JSON-api and a nice looking AJAX GUI.
 
 ## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 

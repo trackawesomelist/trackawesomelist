@@ -20,16 +20,16 @@
 
 ### API Builder and Discovery
 
-*   [Version Cake (⭐649)](https://github.com/bwillis/versioncake) - An unobtrusive way to version APIs in your Rails app.
-*   [versionist (⭐965)](https://github.com/bploetz/versionist) - A plugin for versioning Rails based RESTful APIs.
+*   [Version Cake (⭐653)](https://github.com/bwillis/versioncake) - An unobtrusive way to version APIs in your Rails app.
+*   [versionist (⭐968)](https://github.com/bploetz/versionist) - A plugin for versioning Rails based RESTful APIs.
 
 ### Authorization
 
-*   [acl9 (⭐856)](https://github.com/be9/acl9) - Acl9 is a role-based authorization system that provides a concise DSL for securing your Rails application.
+*   [acl9 (⭐855)](https://github.com/be9/acl9) - Acl9 is a role-based authorization system that provides a concise DSL for securing your Rails application.
 
 ### Data Visualization
 
-*   [LazyHighCharts (⭐1.1k)](https://github.com/michelson/lazy_high_charts) - A simple and extremely flexible way to use HighCharts from ruby code. Tested on Ruby on Rails, Sinatra and Nanoc, but it should work with others too.
+*   [LazyHighCharts (⭐1k)](https://github.com/michelson/lazy_high_charts) - A simple and extremely flexible way to use HighCharts from ruby code. Tested on Ruby on Rails, Sinatra and Nanoc, but it should work with others too.
 
 ### Database Tools
 
@@ -46,12 +46,12 @@
 
 ### Geolocation
 
-*   [geoip (⭐713)](https://github.com/cjheath/geoip) - Searches a GeoIP database for a given host or IP address, and returns information about the country where the IP address is allocated, and the city, ISP and other information.
+*   [geoip (⭐710)](https://github.com/cjheath/geoip) - Searches a GeoIP database for a given host or IP address, and returns information about the country where the IP address is allocated, and the city, ISP and other information.
 *   [Google Maps for Rails (⭐2.3k)](https://github.com/apneadiving/Google-Maps-for-Rails) - Enables easy Google map + overlays creation in Ruby apps.
 
 ### Internationalization
 
-*   [FastGettext (⭐388)](https://github.com/grosser/fast_gettext) - Ruby internationalization tool with less memory, simple, clean namespace and threadsafe.
+*   [FastGettext (⭐389)](https://github.com/grosser/fast_gettext) - Ruby internationalization tool with less memory, simple, clean namespace and threadsafe.
 *   [Globalize (⭐2.1k)](https://github.com/globalize/globalize) - Globalize builds on the I18n API in Ruby on Rails to add model translations to ActiveRecord models.
 
 ### Security

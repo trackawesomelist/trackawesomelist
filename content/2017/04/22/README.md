@@ -84,13 +84,13 @@
 
 ### Contents / Clones
 
-*   [PX8 (⭐892)](https://github.com/Gigoteur/PX8) - Open Source Fantasy Console (128x128 pixels) in Rust (with Python/LUA code support).
+*   [PX8 (⭐906)](https://github.com/Gigoteur/PX8) - Open Source Fantasy Console (128x128 pixels) in Rust (with Python/LUA code support).
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vodal (⭐379)](https://github.com/chenjiahan/vodal) - A vue modal with animations.
+*   [vodal (⭐376)](https://github.com/chenjiahan/vodal) - A vue modal with animations.
 
 ---
 

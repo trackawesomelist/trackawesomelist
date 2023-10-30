@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 08, 2017
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### System
 
-*   [Swift Windows Switcher (⭐325)](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs.
+*   [Swift Windows Switcher (⭐328)](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs.
 
 ## [2. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
@@ -42,13 +42,7 @@
 
 *   [TRADFRI2MQTT (⭐79)](https://github.com/hardillb/TRADFRI2MQTT) - MQTT Bridge for IKEA TRÅDFRI Light Gateway.
 
-## [6. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
-
-### Design
-
-*   [Krop](https://www.krop.com/creative-jobs/)
-
-## [7. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
+## [6. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
 
 ### Specific topics / Secret key cryptography
 

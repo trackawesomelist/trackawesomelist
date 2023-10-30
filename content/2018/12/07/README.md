@@ -57,29 +57,29 @@
 
 ### Crack / General
 
-*   [arunpatala/captcha (⭐173)](https://github.com/arunpatala/captcha) - Breaking captchas using torch.
-*   [zakizhou/CAPTCHA (⭐61)](https://github.com/zakizhou/CAPTCHA) - Implement classification for CAPTCHA in TensorFlow.
-*   [nladuo/captcha-break (⭐688)](https://github.com/nladuo/captcha-break) - Captcha break based on opencv2, tesseract-ocr and some machine learning algorithm.
-*   [ypwhs/captcha\_break (⭐2.4k)](https://github.com/ypwhs/captcha_break) - Captcha break using CNN with Keras.
-*   [ptigas/simple-captcha-solver (⭐483)](https://github.com/ptigas/simple-captcha-solver) - Simple CAPTCHA solver in python 🐍.
-*   [rickyhan/SimGAN-Captcha (⭐421)](https://github.com/rickyhan/SimGAN-Captcha) - Solve captcha without manually labeling a training set.
-*   [arunpatala/captcha.irctc (⭐202)](https://github.com/arunpatala/captcha.irctc) - Reading irctc captchas with 98% accuracy using deep learning.
-*   [JackonYang/captcha-tensorflow (⭐842)](https://github.com/JackonYang/captcha-tensorflow) - Image Captcha Solving Using TensorFlow and CNN Model.
-*   [skyduy/CNN\_keras (⭐273)](https://github.com/skyduy/CNN_keras) - CNN | Keras | CAPTCHA recognition（卷积神经网络、Keras框架、验证码识别）.
-*   [PatrickLib/captcha\_recognize (⭐502)](https://github.com/PatrickLib/captcha_recognize) - Image Recognition captcha without image segmentation.
-*   [zhengwh/captcha-svm (⭐200)](https://github.com/zhengwh/captcha-svm) - Use svm to hack simple captcha.
-*   [chxj1992/captcha\_cracker (⭐159)](https://github.com/chxj1992/captcha_cracker) - Crack captcha with CNN.
-*   [chxj1992/slide\_captcha\_cracker (⭐125)](https://github.com/chxj1992/slide_captcha_cracker) - Crack solution for slide captcha with Canny algorithm.
-*   [JasonLiTW/simple-railway-captcha-solver#english-version (⭐694)](https://github.com/JasonLiTW/simple-railway-captcha-solver#english-version) - Simple captcha solver based on CNN and a training set generator by imitating the style of captcha.
-*   [lllcho/CAPTCHA-breaking (⭐228)](https://github.com/lllcho/CAPTCHA-breaking) - Breaking the captcha.
+*   [arunpatala/captcha (⭐176)](https://github.com/arunpatala/captcha) - Breaking captchas using torch.
+*   [zakizhou/CAPTCHA (⭐67)](https://github.com/zakizhou/CAPTCHA) - Implement classification for CAPTCHA in TensorFlow.
+*   [nladuo/captcha-break (⭐711)](https://github.com/nladuo/captcha-break) - Captcha break based on opencv2, tesseract-ocr and some machine learning algorithm.
+*   [ypwhs/captcha\_break (⭐2.6k)](https://github.com/ypwhs/captcha_break) - Captcha break using CNN with Keras.
+*   [ptigas/simple-captcha-solver (⭐528)](https://github.com/ptigas/simple-captcha-solver) - Simple CAPTCHA solver in python 🐍.
+*   [rickyhan/SimGAN-Captcha (⭐424)](https://github.com/rickyhan/SimGAN-Captcha) - Solve captcha without manually labeling a training set.
+*   [arunpatala/captcha.irctc (⭐204)](https://github.com/arunpatala/captcha.irctc) - Reading irctc captchas with 98% accuracy using deep learning.
+*   [JackonYang/captcha-tensorflow (⭐930)](https://github.com/JackonYang/captcha-tensorflow) - Image Captcha Solving Using TensorFlow and CNN Model.
+*   [skyduy/CNN\_keras (⭐280)](https://github.com/skyduy/CNN_keras) - CNN | Keras | CAPTCHA recognition（卷积神经网络、Keras框架、验证码识别）.
+*   [PatrickLib/captcha\_recognize (⭐536)](https://github.com/PatrickLib/captcha_recognize) - Image Recognition captcha without image segmentation.
+*   [zhengwh/captcha-svm (⭐201)](https://github.com/zhengwh/captcha-svm) - Use svm to hack simple captcha.
+*   [chxj1992/captcha\_cracker (⭐167)](https://github.com/chxj1992/captcha_cracker) - Crack captcha with CNN.
+*   [chxj1992/slide\_captcha\_cracker (⭐134)](https://github.com/chxj1992/slide_captcha_cracker) - Crack solution for slide captcha with Canny algorithm.
+*   [JasonLiTW/simple-railway-captcha-solver#english-version (⭐755)](https://github.com/JasonLiTW/simple-railway-captcha-solver#english-version) - Simple captcha solver based on CNN and a training set generator by imitating the style of captcha.
+*   [lllcho/CAPTCHA-breaking (⭐225)](https://github.com/lllcho/CAPTCHA-breaking) - Breaking the captcha.
 
 ### Crack / Chinese
 
 *   [burness/chinese\_hand\_write\_rec (⭐1.1k)](https://github.com/burness/tensorflow-101/tree/master/chinese_hand_write_rec/src) - Handwritten chinese recognition.
-*   [taosir/cnn\_handwritten\_chinese\_recognition (⭐434)](https://github.com/taosir/cnn_handwritten_chinese_recognition) - As the name shows, handwritten\_chinese\_recognition with cnn.
-*   [soloice/Chinese-Character-Recognition (⭐195)](https://github.com/soloice/Chinese-Character-Recognition) - This project shows how to use CNN to perform Chinese character recognition, a much more complicated task compared to MNIST digit recognition.
-*   [muchrooms/zheye (⭐778)](https://github.com/muchrooms/zheye) - Chinese captcha recognition program for handstand character of zhihu.
-*   [aaronshan/12306-captcha (⭐265)](https://github.com/aaronshan/12306-captcha) - Recognize 12306 captcha with deep learning.
+*   [taosir/cnn\_handwritten\_chinese\_recognition (⭐470)](https://github.com/taosir/cnn_handwritten_chinese_recognition) - As the name shows, handwritten\_chinese\_recognition with cnn.
+*   [soloice/Chinese-Character-Recognition (⭐198)](https://github.com/soloice/Chinese-Character-Recognition) - This project shows how to use CNN to perform Chinese character recognition, a much more complicated task compared to MNIST digit recognition.
+*   [muchrooms/zheye (⭐779)](https://github.com/muchrooms/zheye) - Chinese captcha recognition program for handstand character of zhihu.
+*   [aaronshan/12306-captcha (⭐274)](https://github.com/aaronshan/12306-captcha) - Recognize 12306 captcha with deep learning.
 
 ## [5. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Graphics
 
-*   [Veldrid (⭐2.2k)](https://github.com/mellinoe/veldrid) - A low-level, portable graphics and compute library for .NET
+*   [Veldrid (⭐2.3k)](https://github.com/mellinoe/veldrid) - A low-level, portable graphics and compute library for .NET
 
 ## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [DynamoDb-GUI-Client (⭐643)](https://github.com/Arattian/DynamoDb-GUI-Client): Cross-platform GUI client for DynamoDb
+*   [DynamoDb-GUI-Client (⭐646)](https://github.com/Arattian/DynamoDb-GUI-Client): Cross-platform GUI client for DynamoDb
 
 ---
 

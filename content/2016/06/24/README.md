@@ -52,13 +52,13 @@
 
 ### Third-party APIs
 
-*   [fb\_graph2 (⭐105)](https://github.com/nov/fb_graph2) - A full-stack Facebook Graph API wrapper.
+*   [fb\_graph2 (⭐106)](https://github.com/nov/fb_graph2) - A full-stack Facebook Graph API wrapper.
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Math / Barcode
 
-*   [SigmaSwiftStatistics (⭐666)](https://github.com/evgenyneu/SigmaSwiftStatistics) - A collection of functions for statistical calculation.
+*   [SigmaSwiftStatistics (⭐681)](https://github.com/evgenyneu/SigmaSwiftStatistics) - A collection of functions for statistical calculation.
 
 ## [5. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
@@ -81,8 +81,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [pythalesians (⭐56)](https://github.com/thalesians/pythalesians) - Python library to backtest trading strategies, plot charts, seamlessly download market data, analyse market patterns etc.
-*   [pybacktest (⭐752)](https://github.com/ematvey/pybacktest) - Vectorized backtesting framework in Python / pandas, designed to make your backtesting easier.
+*   [pybacktest (⭐767)](https://github.com/ematvey/pybacktest) - Vectorized backtesting framework in Python / pandas, designed to make your backtesting easier.
 
 ## [8. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -92,37 +91,37 @@
 
 ### Standalone / Hash functions
 
-*   [cryptomator (⭐8.3k)](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud.
+*   [cryptomator (⭐9.6k)](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud.
 
 ### Plugins / Git
 
-*   [git-crypt (⭐6.8k)](https://github.com/AGWA/git-crypt) - Transparent file encryption in git.
+*   [git-crypt (⭐7.4k)](https://github.com/AGWA/git-crypt) - Transparent file encryption in git.
 
 ### C / Git
 
-*   [OpenSSL (⭐20k)](https://github.com/openssl/openssl) - TLS/SSL and crypto library.
+*   [OpenSSL (⭐22k)](https://github.com/openssl/openssl) - TLS/SSL and crypto library.
 *   [PolarSSL](https://tls.mbed.org/) - PolarSSL makes it trivially easy for developers to include cryptographic and SSL/TLS capabilities in their (embedded) products, facilitating this functionality with a minimal coding footprint.
 
 ### C++ / Git
 
-*   [cryptopp (⭐3.7k)](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
+*   [cryptopp (⭐4.1k)](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
 
 ### C-sharp / Git
 
-*   [SecurityDriven.Inferno (⭐537)](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto done right.
+*   [SecurityDriven.Inferno (⭐560)](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto done right.
 
 ### Go / Git
 
-*   [dkeyczar (⭐111)](https://github.com/dgryski/dkeyczar) - Port of Google's Keyczar cryptography library to Go.
+*   [dkeyczar (⭐112)](https://github.com/dgryski/dkeyczar) - Port of Google's Keyczar cryptography library to Go.
 
 ### JavaScript / Git
 
-*   [crypto-js (⭐14k)](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
-*   [rusha (⭐273)](https://github.com/srijs/rusha) - High-performance pure-javascript SHA1 implementation suitable for large binary data, reaching up to half the native speed.
+*   [crypto-js (⭐15k)](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
+*   [rusha (⭐274)](https://github.com/srijs/rusha) - High-performance pure-javascript SHA1 implementation suitable for large binary data, reaching up to half the native speed.
 
 ### Julia / Git
 
-*   [Nettle.jl (⭐47)](https://github.com/staticfloat/Nettle.jl) - Julia wrapper around nettle cryptographic hashing/
+*   [Nettle.jl (⭐49)](https://github.com/staticfloat/Nettle.jl) - Julia wrapper around nettle cryptographic hashing/
     encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as well as AES encryption/decryption.
 
 ### Web-sites / Git

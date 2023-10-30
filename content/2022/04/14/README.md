@@ -10,7 +10,7 @@
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [darkweak/souin (⭐443)](https://github.com/darkweak/souin) - HTTP cache, RFC compliant, alternative to Varnish available as a middleware.
+*   [darkweak/souin (⭐501)](https://github.com/darkweak/souin) - HTTP cache, RFC compliant, alternative to Varnish available as a middleware.
 
 ## [2. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Libraries/Frameworks / Graphics
 
-*   [java-opengl-labs/learn-OpenGL (⭐35)](https://github.com/java-opengl-labs/learn-OpenGL) - port of <https://learnopengl.com/> tutorial (lwjgl)
+*   [java-opengl-labs/learn-OpenGL (⭐36)](https://github.com/java-opengl-labs/learn-OpenGL) - port of <https://learnopengl.com/> tutorial (lwjgl)
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -42,13 +42,13 @@
 
 ### Electron / Integrations
 
-*   [electron-vite (⭐937)](https://github.com/alex8088/electron-vite) - An Electron CLI integrated with Vite.
+*   [electron-vite (⭐1.6k)](https://github.com/alex8088/electron-vite) - An Electron CLI integrated with Vite.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [kvrohit/rasmus.nvim (⭐82)](https://github.com/kvrohit/rasmus.nvim) - A dark color scheme written in Lua ported from [rsms/sublime-theme (⭐179)](https://github.com/rsms/sublime-theme) theme.
+*   [kvrohit/rasmus.nvim (⭐108)](https://github.com/kvrohit/rasmus.nvim) - A dark color scheme written in Lua ported from [rsms/sublime-theme (⭐182)](https://github.com/rsms/sublime-theme) theme.
 
 ## [7. Awesome K6](/content/grafana/awesome-k6/README.md)
 
@@ -78,11 +78,11 @@
 
 ### Python / Reinforcement Learning
 
-*   [DI-engine (⭐2.5k)](https://github.com/opendilab/DI-engine) - DI-engine is a generalized Decision Intelligence engine. It supports most basic deep reinforcement learning (DRL) algorithms, such as DQN, PPO, SAC, and domain-specific algorithms like QMIX in multi-agent RL, GAIL in inverse RL, and RND in exploration problems.
+*   [DI-engine (⭐2.8k)](https://github.com/opendilab/DI-engine) - DI-engine is a generalized Decision Intelligence engine. It supports most basic deep reinforcement learning (DRL) algorithms, such as DQN, PPO, SAC, and domain-specific algorithms like QMIX in multi-agent RL, GAIL in inverse RL, and RND in exploration problems.
 
 ### Tools / Misc
 
-*   [milvus](https://milvus.io) – Milvus is [open source (⭐18k)](https://github.com/milvus-io/milvus) vector database for production AI, written in Go and C++, scalable and blazing fast for billions of embedding vectors.
+*   [milvus](https://milvus.io) – Milvus is [open source (⭐22k)](https://github.com/milvus-io/milvus) vector database for production AI, written in Go and C++, scalable and blazing fast for billions of embedding vectors.
 
 ## [11. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -109,7 +109,7 @@
 ### Video and Audio Conferencing / Alternative clients/modifications of Discord:
 
 *   [BetterDiscord](https://betterdiscord.app/) - A client modification for Discord, also you need to install a [DoNotTrack](https://betterdiscord.app/plugin/DoNotTrack) plugin to block trackers.
-*   [Kernel (⭐74)](https://github.com/kernel-mod/electron) - A super small and fast Electron client mod with the most capability, also you need to install a [Discord Utilities (⭐3)](https://github.com/slow/discord-utilities) package to block trackers.
+*   [Kernel (⭐79)](https://github.com/kernel-mod/electron) - A super small and fast Electron client mod with the most capability, also you need to install a [Discord Utilities (⭐5)](https://github.com/slow/discord-utilities) package to block trackers.
 
 ---
 

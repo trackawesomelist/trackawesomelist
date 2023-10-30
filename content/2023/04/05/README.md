@@ -22,19 +22,19 @@
 
 ### Utilities
 
-*   [just (⭐21)](https://github.com/kazhuravlev/just) - Just a collection of useful functions for working with generic data structures.
+*   [just (⭐19)](https://github.com/kazhuravlev/just) - Just a collection of useful functions for working with generic data structures.
 
 ## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Testing
 
-*   [Trendyol/stove4k (⭐55)](https://github.com/Trendyol/stove4k) - The easiest way of writing e2e tests for your back-end API with all physical dependencies in Kotlin.
+*   [Trendyol/stove4k (⭐85)](https://github.com/Trendyol/stove4k) - The easiest way of writing e2e tests for your back-end API with all physical dependencies in Kotlin.
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Scrollbar / Diagnostics
 
-*   [lewis6991/satellite.nvim (⭐296)](https://github.com/lewis6991/satellite.nvim) - Decorate scrollbar.
+*   [lewis6991/satellite.nvim (⭐392)](https://github.com/lewis6991/satellite.nvim) - Decorate scrollbar.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Tools / XML
 
-*   [pup (⭐61)](https://github.com/hexagon/pup) - Advanced process manager for Deno. With autorestart, fs watch, cron start, process telemetry, ipc, clustering, load balancer and more.
+*   [pup (⭐86)](https://github.com/hexagon/pup) - Advanced process manager for Deno. With autorestart, fs watch, cron start, process telemetry, ipc, clustering, load balancer and more.
 
 ## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -59,27 +59,27 @@
 
 ### Planning Coding Resources / Python
 
-*   [Gleam (⭐240)](https://github.com/dgrtwo/gleam) - A plotting library inspired by R-Shiny to create interactive plots.
+*   [Gleam (⭐245)](https://github.com/dgrtwo/gleam) - A plotting library inspired by R-Shiny to create interactive plots.
 
 ### Other Resources / Other GitHub Resource Lists
 
-*   [ai-collection (⭐2.8k)](https://github.com/ai-collection/ai-collection) - Review of the generative AI landscape including tools/utilities.
+*   [ai-collection (⭐5.6k)](https://github.com/ai-collection/ai-collection) - Review of the generative AI landscape including tools/utilities.
 
 ## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Booking and Scheduling
 
-*   [Seatsurfing](https://seatsurfing.app/) - Webbased app to book seats, desks and rooms for offices. ([Demo](https://seatsurfing.app/get-started/), [Source Code (⭐17)](https://github.com/seatsurfing/backend)) `GPL-3.0` `Docker`
+*   [Seatsurfing](https://seatsurfing.app/) - Webbased app to book seats, desks and rooms for offices. ([Demo](https://seatsurfing.app/get-started/), [Source Code (⭐36)](https://github.com/seatsurfing/backend)) `GPL-3.0` `Docker`
 
 ### Software / Money, Budgeting & Management
 
-*   [Actual](https://actualbudget.github.io/docs/) - Actual is a local-first personal finance tool based on zero-sum budgeting. It support synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks. ([Source Code (⭐1.6k)](https://github.com/actualbudget/actual-server)) `MIT` `Nodejs`
+*   [Actual](https://actualbudget.github.io/docs/) - Actual is a local-first personal finance tool based on zero-sum budgeting. It support synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks. ([Source Code (⭐2k)](https://github.com/actualbudget/actual-server)) `MIT` `Nodejs/Docker`
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Zipcodestack](https://zipcodestack.com) - Free Zip Code API and Postal Code Validation. 10000 free requests/month.
+*   [Zipcodestack](https://zipcodestack.com) - Free Zip Code API and Postal Code Validation. Ten thousand free requests/month.
 
 ### Tools for Teams and Collaboration
 
@@ -87,7 +87,7 @@
 
 ### Search
 
-*   [Meilisearch](https://www.meilisearch.com/) - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow. Free plan includes 100K documents and 10K searches/month.
+*   [Meilisearch](https://www.meilisearch.com/) - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow. The free plan includes 100K documents and 10K searches/month.
 
 ## [12. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

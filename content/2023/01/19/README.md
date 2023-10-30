@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 19, 2023
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,7 +14,7 @@
 *   [The importance of mixed selectivity in complex cognitive tasks](https://oar.princeton.edu/rt4ds/file/11875/2161) - ***Nature***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=2707751672275136220\&hl=en\&as_sdt=0,5)]. The original paper introducing mixed selectivity with high-dimensional neural representations.
 *   [Abstract strategy learning underlies flexible transfer in physical problem solving](https://cognitivesciencesociety.org/cogsci20/papers/0765/0765.pdf) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=Abstract+strategy+learning+underlies+flexible+transfer+in+physical+problem+solving.\&btnG=)].
 
-### Theory of Mind / Democratization
+### Theory of Mind / Democratization of Science
 
 *   [The naïve utility calculus: Computational principles underlying commonsense psychology](http://sll.stanford.edu/docs/2016_JaraEttinger_Gweon_Schulz_Tenenbaum_TiCS.pdf) - ***Trends in Cognitive Sciences***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=6894095575934067763\&hl=en\&as_sdt=0,5)]. A perspective on understanding social interactions through the naïve utility calculus framework.
 *   [Planning with theory of mind](https://saxelab.mit.edu/sites/default/files/publications/HoSaxeCushman2022.pdf) - ***Trends in Cognitive Sciences***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=8461125353366208047\&hl=en\&as_sdt=0,5)]. A perspective on understanding Theory of Mind through planning that consists of abstract structured causal representations and supports efficient search and selection from innumerable possible actions.
@@ -23,26 +23,26 @@
 
 ### Tools / Sandbox
 
-*   [gatling-scaffold (⭐13)](https://github.com/robsonbittencourt/gatling-scaffold) - Base for load test project using Gatling, InfluxDB and Grafana.
-*   [perfiz (⭐14)](https://github.com/znsio/perfiz) - A dockerised API performance test setup based on Gatling with Grafana dashboards and Prometheus monitoring.
+*   [gatling-scaffold (⭐14)](https://github.com/robsonbittencourt/gatling-scaffold) - Base for load test project using Gatling, InfluxDB and Grafana.
+*   [perfiz (⭐13)](https://github.com/znsio/perfiz) - A dockerised API performance test setup based on Gatling with Grafana dashboards and Prometheus monitoring.
 
 ## [3. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Link in Bio Tools
 
 *   [Keyoxide](https://keyoxide.org/) - A modern, secure and privacy-friendly platform to establish your decentralized online identity.
-*   [LinkFree (⭐3.9k)](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
+*   [LinkFree (⭐4.9k)](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 
 ## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Text editors
 
-*   [emacs-ng (⭐1.4k)](https://github.com/emacs-ng/emacs-ng) — Complementing the C codebase with rust code to introduce new features.
-*   [Lapce (⭐26k)](https://github.com/lapce/lapce) — A modern editor with a backend written in Rust. Taking inspiration from the discontinued [xi-editor (⭐20k)](https://github.com/xi-editor/xi-editor).
+*   [emacs-ng (⭐1.5k)](https://github.com/emacs-ng/emacs-ng) — Complementing the C codebase with rust code to introduce new features.
+*   [Lapce (⭐28k)](https://github.com/lapce/lapce) — A modern editor with a backend written in Rust. Taking inspiration from the discontinued [xi-editor (⭐20k)](https://github.com/xi-editor/xi-editor).
 
 ### Libraries / GUI
 
-*   [xilem (⭐1.6k)](https://github.com/linebender/xilem) — Successor of the data-first Rust-native UI design toolkit [druid (⭐8.9k)](https://github.com/linebender/druid).
+*   [xilem (⭐2k)](https://github.com/linebender/xilem) — Successor of the data-first Rust-native UI design toolkit [druid (⭐9.1k)](https://github.com/linebender/druid).
 
 ## [5. Awesome Cytodata](/content/cytodata/awesome-cytodata/README.md)
 
@@ -87,7 +87,7 @@
 
 ## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Large Language Models / Text-related Generative Tools
+### Inbox: Large Language Models (LLMs) / Text-related Generative Tools
 
 *   [Character.AI](https://beta.character.ai/): platform for creating and talking to advanced AI Characters
 
@@ -95,7 +95,7 @@
 
 ### Software / Wikis
 
-*   [Wiki.js](https://js.wiki/) - Modern, lightweight and powerful wiki app using Git and Markdown. ([Demo](https://docs.requarks.io), [Source Code (⭐21k)](https://github.com/Requarks/wiki)) `AGPL-3.0` `Nodejs`
+*   [Wiki.js](https://js.wiki/) - Modern, lightweight and powerful wiki app using Git and Markdown. ([Demo](https://docs.requarks.io), [Source Code (⭐22k)](https://github.com/Requarks/wiki)) `AGPL-3.0` `Nodejs/Docker/K8S`
 
 ## [9. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -111,8 +111,8 @@
 
 ### State Libraries
 
-*   [Svelte-Domain (⭐2)](https://github.com/thegenius/svelte-domain) - The state management for svelte.
-*   [svelte-asyncable (⭐136)](https://github.com/sveltetools/svelte-asyncable) - The Svelte store contract with support for asynchronous values.
+*   [Svelte-Domain (⭐4)](https://github.com/thegenius/svelte-domain) - The state management for svelte.
+*   [svelte-asyncable (⭐164)](https://github.com/sveltetools/svelte-asyncable) - The Svelte store contract with support for asynchronous values.
 
 ### Miscellaneous / Checkbox
 
@@ -126,35 +126,9 @@
 
 ## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [gianu-alternative (⭐1)](https://github.com/zbentzinger/gianu-alternative-theme) - An alternative to [OMZ Gianu (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/blob/61dd3682e69aa990a8a3589c5c61ea2e1edf8312/themes/gianu.zsh-theme) that changes prompt based on privilege. Includes `git` status and current directory decorators.
-
-## [13. Ai Collection](/content/ai-collection/ai-collection/README.md)
-
-### Logo Generator
-
-- Name: [Looka](https://looka.grsm.io/jscfk35v34tn)
-
-  Title: Free Logo Maker & Intelligent Brand Designer.
-
-  Description: Make a logo and build a brand you love with Looka.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Video
-
-- Name: [AI Host](https://livereacting.sjv.io/beth0)
-
-  Title: Run Interactive Live Streams.
-
-  Description: LiveReacting helps you get more followers and engagement by adding pre-recorded videos, games, countdowns, and polls to your stream.
-
-  Offer Free Version: :x:
-
-
+*   [gianu-alternative (⭐1)](https://github.com/zbentzinger/gianu-alternative-theme) - An alternative to [OMZ Gianu (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/blob/61dd3682e69aa990a8a3589c5c61ea2e1edf8312/themes/gianu.zsh-theme) that changes prompt based on privilege. Includes `git` status and current directory decorators.
 
 ---
 

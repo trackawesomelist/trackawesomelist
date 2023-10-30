@@ -38,7 +38,7 @@
 
 ### Integrations
 
-*   [heroku-playwright-buildpack (⭐36)](https://github.com/mxschmitt/heroku-playwright-buildpack) - Heroku buildpack for running Playwright on a Heroku Dyno.
+*   [heroku-playwright-buildpack (⭐40)](https://github.com/mxschmitt/heroku-playwright-buildpack) - Heroku buildpack for running Playwright on a Heroku Dyno.
 
 ### Showcases
 
@@ -54,7 +54,7 @@
 
 ### Logging / Third-party APIs
 
-*   ⭐ [log4cl (⭐71)](https://github.com/sharplispers/log4cl/) - Logging framework modelled after Log4J. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0). Advanced integration with Slime.
+*   ⭐ [log4cl (⭐76)](https://github.com/sharplispers/log4cl/) - Logging framework modelled after Log4J. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0). Advanced integration with Slime.
     *   [log4cl-json (⭐2)](https://github.com/40ants/log4cl-json) - JSON appender extension. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
@@ -71,11 +71,11 @@
 
 ### Class Based
 
-*   [FAST Element (⭐8k)](https://github.com/microsoft/fast/tree/master/packages/web-components/fast-element) - Lightweight library for building performant, memory-efficient, standards-compliant Web Components.
+*   [FAST Element (⭐8.6k)](https://github.com/microsoft/fast/tree/master/packages/web-components/fast-element) - Lightweight library for building performant, memory-efficient, standards-compliant Web Components.
 
 ### Integrations
 
-*   [reactify-wc (⭐154)](https://github.com/BBKolton/reactify-wc) - Use web components with React properties and functions.
+*   [reactify-wc (⭐167)](https://github.com/BBKolton/reactify-wc) - Use web components with React properties and functions.
 
 ## [10. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
@@ -121,7 +121,7 @@
 
 ### DevSecOps / Service meshes
 
-*   [SOPS (⭐12k)](https://github.com/mozilla/sops) - Editor of encrypted files that supports YAML, JSON, ENV, INI and binary formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, and PGP.
+*   [SOPS (⭐14k)](https://github.com/mozilla/sops) - Editor of encrypted files that supports YAML, JSON, ENV, INI and binary formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, and PGP.
 *   [Vault](https://www.vaultproject.io/) - Tool for securely accessing secrets such as API keys, passwords, or certificates through a unified interface.
 *   [git-crypt](https://www.agwa.name/projects/git-crypt/) - Transparent file encryption in git; files which you choose to protect are encrypted when committed, and decrypted when checked out.
 

@@ -10,8 +10,8 @@
 
 ### Class Based
 
-*   [DNA (⭐27)](https://github.com/chialab/dna) - Progressive Web Components library.
-*   [Tonic (⭐741)](https://github.com/optoolco/tonic) - Minimalist, stable, audit friendly component framework.
+*   [DNA (⭐28)](https://github.com/chialab/dna) - Progressive Web Components library.
+*   [Tonic (⭐810)](https://github.com/optoolco/tonic) - Minimalist, stable, audit friendly component framework.
 
 ### Tutorials
 
@@ -21,7 +21,7 @@
 
 ### Scripts / YouTube
 
-*   [Hide YouTube recommendations (⭐11)](https://github.com/artli/hide-youtube-recommendations) - Hides the thumbnails and titles of the recommended videos to reduce distraction and procrastination.
+*   [Hide YouTube recommendations (⭐13)](https://github.com/artli/hide-youtube-recommendations) - Hides the thumbnails and titles of the recommended videos to reduce distraction and procrastination.
 
 ## [3. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -33,34 +33,34 @@
 
 ### GTFS Libraries / C
 
-*   [CGTFS (⭐4)](https://github.com/rakhack/cgtfs) - C library for reading static GTFS feeds. Supports reading unpacked feeds into application memory or into SQLite databases.
-*   [RRRR Rapid Real-time Routing (⭐152)](https://github.com/bliksemlabs/rrrr) - RRRR (usually pronounced R4) is a C-language implementation of the RAPTOR public transit routing algorithm.
+*   [CGTFS (⭐5)](https://github.com/rakhack/cgtfs) - C library for reading static GTFS feeds. Supports reading unpacked feeds into application memory or into SQLite databases.
+*   [RRRR Rapid Real-time Routing (⭐154)](https://github.com/bliksemlabs/rrrr) - RRRR (usually pronounced R4) is a C-language implementation of the RAPTOR public transit routing algorithm.
 
 ### GTFS Libraries / Python
 
-*   [ESRI public-transit-tools (⭐138)](https://github.com/Esri/public-transit-tools) - Tools for working with public transit data in ArcGIS (license for ArcGIS required).
-*   [gtfsdb (⭐137)](https://github.com/OpenTransitTools/gtfsdb) - Python library for converting GTFS files into a relational database.
+*   [ESRI public-transit-tools (⭐149)](https://github.com/Esri/public-transit-tools) - Tools for working with public transit data in ArcGIS (license for ArcGIS required).
+*   [gtfsdb (⭐142)](https://github.com/OpenTransitTools/gtfsdb) - Python library for converting GTFS files into a relational database.
 *   [gtfsman (⭐19)](https://github.com/geops/gtfsman) - Repository-like tool in Python to manage and update a huge number of GTFS feeds.
-*   [gtfspy (⭐132)](https://github.com/CxAalto/gtfspy) - Public transport network analysis and travel time computations using Python3. Compatible with Postgres/PostGIS, Oracle, MySQL, and SQLite. Used by [gtfspy-webviz (⭐39)](https://github.com/CxAalto/gtfspy-webviz).
-*   [Make GTFS (⭐0)](https://github.com/mrcagney/make_gtfs) - A Python library to make GTFS feeds from basic route information.
-*   [Mapzen GTFS (⭐27)](https://github.com/transitland/mapzen-gtfs) - A Python GTFS library that supports reading individual GTFS tables, or constructing a graph to represent each agency in a feed.
-*   [multigtfs (⭐50)](https://github.com/tulsawebdevs/django-multi-gtfs) - A Django application to import and export GTFS.
+*   [gtfspy (⭐138)](https://github.com/CxAalto/gtfspy) - Public transport network analysis and travel time computations using Python3. Compatible with Postgres/PostGIS, Oracle, MySQL, and SQLite. Used by [gtfspy-webviz (⭐44)](https://github.com/CxAalto/gtfspy-webviz).
+*   [Make GTFS (⭐1)](https://github.com/mrcagney/make_gtfs) - A Python library to make GTFS feeds from basic route information.
+*   [Mapzen GTFS (⭐29)](https://github.com/transitland/mapzen-gtfs) - A Python GTFS library that supports reading individual GTFS tables, or constructing a graph to represent each agency in a feed.
+*   [multigtfs (⭐51)](https://github.com/tulsawebdevs/django-multi-gtfs) - A Django application to import and export GTFS.
 
 ### GTFS Libraries / C#
 
-*   [GTFS Feed Parser (⭐58)](https://github.com/OsmSharp/GTFS) - .Net/Mono implementation of a GTFS parser.
+*   [GTFS Feed Parser (⭐59)](https://github.com/OsmSharp/GTFS) - .Net/Mono implementation of a GTFS parser.
 
 ### GTFS Libraries / Go
 
-*   [Go GTFS Parser (⭐39)](https://github.com/geops/gtfsparser) - A GTFS parsing library for Go.
+*   [Go GTFS Parser (⭐40)](https://github.com/geops/gtfsparser) - A GTFS parsing library for Go.
 
 ### GTFS Libraries / PostgreSQL
 
-*   [gtfs-schema (⭐26)](https://github.com/tyleragreen/gtfs-schema) - PostgreSQL schema for GTFS feeds.
+*   [gtfs-schema (⭐28)](https://github.com/tyleragreen/gtfs-schema) - PostgreSQL schema for GTFS feeds.
 
 ### GTFS Libraries / Ruby
 
-*   [GTFS-viz (⭐81)](https://github.com/vasile/GTFS-viz) - Ruby script that converts a set of GTFS files into a SQLite database + GeoJSONs (needed by the [Transit Map (⭐330)](https://github.com/vasile/transit-map) web application)
+*   [GTFS-viz (⭐82)](https://github.com/vasile/GTFS-viz) - Ruby script that converts a set of GTFS files into a SQLite database + GeoJSONs (needed by the [Transit Map (⭐339)](https://github.com/vasile/transit-map) web application)
 
 ## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -82,20 +82,20 @@
 
 ### Tools / Libraries
 
-*   [color2k (⭐533)](https://github.com/ricokahler/color2k) - A color parsing and manipulation lib.
+*   [color2k (⭐557)](https://github.com/ricokahler/color2k) - A color parsing and manipulation lib.
 
 ## [8. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Open Source Projects / Other Tools
 
-*   [RealWorld Example App - mongo (⭐393)](https://github.com/markqiu/fastapi-mongodb-realworld-example-app)
-*   [RealWorld Example App - postgres (⭐2.3k)](https://github.com/nsidnev/fastapi-realworld-example-app)
+*   [RealWorld Example App - mongo (⭐413)](https://github.com/markqiu/fastapi-mongodb-realworld-example-app)
+*   [RealWorld Example App - postgres (⭐2.5k)](https://github.com/nsidnev/fastapi-realworld-example-app)
 
 ## [9. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
-### Machine Learning / General Purpose Machine Learning
+### Graph Machine Learning / Others
 
-*   [Little Ball of Fur (⭐643)](https://github.com/benedekrozemberczki/littleballoffur) - A library for sampling graph structured data.
+*   [Little Ball of Fur (⭐659)](https://github.com/benedekrozemberczki/littleballoffur) - A library for sampling graph structured data.
 
 ## [10. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Software / Python
 
-*   [littleballoffur (⭐643)](https://github.com/benedekrozemberczki/littleballoffur) - Python package for sampling from graph structured data with a scikit-learn like API.
+*   [littleballoffur (⭐658)](https://github.com/benedekrozemberczki/littleballoffur) - Python package for sampling from graph structured data with a scikit-learn like API.
 
 ## [12. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
@@ -125,13 +125,13 @@
 
 ### Queue
 
-*   [CakeQueuesadilla plugin](https://github.com/josegonzalez/cakephp-queuesadilla) - A plugin that provides queueing integration with a variety of backends (BeanstalkD, MySQL, Redis, etc.).
+*   [CakeQueuesadilla plugin (⭐34)](https://github.com/josegonzalez/cakephp-queuesadilla) - A plugin that provides queueing integration with a variety of backends (BeanstalkD, MySQL, Redis, etc.).
 
 ## [15. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Algorithms and Data structures
 
-*   [blurhash.cr (⭐18)](https://github.com/Sija/blurhash.cr) - [BlurHash (⭐14k)](https://github.com/woltapp/blurhash) implementation
+*   [blurhash.cr (⭐21)](https://github.com/Sija/blurhash.cr) - [BlurHash (⭐14k)](https://github.com/woltapp/blurhash) implementation
 
 ## [16. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -154,9 +154,9 @@
 
 ### CAD Specific / KiCad
 
-*   [Xesscorp's list of KiCad 3rd party tools (⭐627)](https://github.com/xesscorp/kicad-3rd-party-tools)
+*   [Xesscorp's list of KiCad 3rd party tools (⭐680)](https://github.com/xesscorp/kicad-3rd-party-tools)
 *   [KiCad.info Forums](https://forum.kicad.info) - User discussion and help forum.
-*   [Footprint Collection (⭐285)](https://github.com/kitspace/kicad_footprints) - Collection of all the KiCad footprints available online and some scripts to manage them.
+*   [Footprint Collection (⭐291)](https://github.com/kitspace/kicad_footprints) - Collection of all the KiCad footprints available online and some scripts to manage them.
 
 ### Project Sharing Platforms / Eagle
 
@@ -186,22 +186,21 @@
 
 ### Other Lists / Help
 
-*   [PwnKitteh/InsanelyCheapElectronics (⭐287)](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects.
-*   [intajay/open-electronics (⭐407)](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
-*   [Vitorian/awesome-fpga (⭐255)](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources.
-*   [cajt/list\_of\_robot\_electronics (⭐246)](https://github.com/cajt/list_of_robot_electronics) - A GitHub list of resources, projects and products for robot electronics.
-*   [embedded-boston/awesome-embedded-systems (⭐603)](https://github.com/embedded-boston/awesome-embedded-systems) - Awesome list of embedded programming resources.
-*   [TCAD Central](https://tcad.com/Software.html) - List of Technology CAD (TCAD) software and resources from the maker of DEVSIM.
+*   [PwnKitteh/InsanelyCheapElectronics (⭐314)](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects.
+*   [intajay/open-electronics (⭐455)](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
+*   [Vitorian/awesome-fpga (⭐280)](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources.
+*   [cajt/list\_of\_robot\_electronics (⭐272)](https://github.com/cajt/list_of_robot_electronics) - A GitHub list of resources, projects and products for robot electronics.
+*   [embedded-boston/awesome-embedded-systems (⭐671)](https://github.com/embedded-boston/awesome-embedded-systems) - Awesome list of embedded programming resources.
 
 ## [17. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 
 *   [deno-context (⭐6)](https://github.com/code-hex/deno-context) - Propagate deadlines, a cancellation and other request-scoped values to multiple promise. The behaviour is like Go's context.
-*   [invert-kv (⭐2)](https://github.com/denorg/invert-kv) - Invert key-value pairs in Deno.
+*   [invert-kv (⭐3)](https://github.com/denorg/invert-kv) - Invert key-value pairs in Deno.
 *   [online (⭐7)](https://github.com/denorg/online) - Check if you're currently online in Deno.
-*   [qrcode (⭐34)](https://github.com/denorg/qrcode) - QR code image generator for Deno.
-*   [recursive-readdir (⭐8)](https://github.com/denorg/recursive-readdir) - Recursively read directories in Deno.
+*   [qrcode (⭐38)](https://github.com/denorg/qrcode) - QR code image generator for Deno.
+*   [recursive-readdir (⭐9)](https://github.com/denorg/recursive-readdir) - Recursively read directories in Deno.
 
 ### Modules / Web utils
 
@@ -212,7 +211,7 @@
 
 *   [dedep (⭐66)](https://github.com/egoist/dedep) - Manage dependency versions.
 *   [packer-provisioner-deno (⭐4)](https://github.com/dontlaugh/packer-provisioner-deno) - A Packer plugin that makes it easy to build virtual machine images with Deno scripts.
-*   [starter (⭐24)](https://github.com/denorg/starter) - Deno module starter template with GitHub Actions CI
+*   [starter (⭐25)](https://github.com/denorg/starter) - Deno module starter template with GitHub Actions CI
 
 ### Articles / XML
 

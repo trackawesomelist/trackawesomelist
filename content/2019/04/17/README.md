@@ -56,7 +56,7 @@
 
 ### Dataset / Web
 
-*   [StarData (⭐556)](https://github.com/TorchCraft/StarData) - Matches, videos, etc. [Website](http://nova.wolfwork.com/dataMining.html), [paper](https://arxiv.org/abs/1708.02139).
+*   [StarData (⭐558)](https://github.com/TorchCraft/StarData) - Matches, videos, etc. [Website](http://nova.wolfwork.com/dataMining.html), [paper](https://arxiv.org/abs/1708.02139).
 
 ## [9. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -78,13 +78,13 @@
 
 ### Networking
 
-*   [ZeroMQ (⭐8.5k)](https://github.com/zeromq/libzmq) - High-speed, modular asynchronous communication library. \[LGPL] [website](http://zeromq.org/)
+*   [ZeroMQ (⭐8.8k)](https://github.com/zeromq/libzmq) - High-speed, modular asynchronous communication library. \[LGPL3/MPL2] [website](http://zeromq.org/)
 
 ## [12. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Boilerplates / Other
 
-*   [angular-electron (⭐5.4k)](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.
+*   [angular-electron (⭐5.5k)](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.
 
 ## [13. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

@@ -22,11 +22,11 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Talkyard](https://www.talkyard.io/) - Create a community, where your users can suggest ideas and get questions answered. And have friendly open-ended discussions and chat (Slack/StackOverflow/Discourse/Reddit/Disqus hybrid). ([Demo](https://www.talkyard.io/forum/latest), [Source Code (⭐1.6k)](https://github.com/debiki/talkyard)) `AGPL-3.0` `Scala`
+*   [Talkyard](https://www.talkyard.io/) - Create a community, where your users can suggest ideas and get questions answered. And have friendly open-ended discussions and chat (Slack/StackOverflow/Discourse/Reddit/Disqus hybrid). ([Demo](https://www.talkyard.io/forum/latest), [Source Code (⭐1.6k)](https://github.com/debiki/talkyard)) `AGPL-3.0` `Docker/Scala`
 
 ### Software / Miscellaneous
 
-*   [CUPS](https://www.cups.org/) - The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. ([Source Code (⭐1.7k)](https://github.com/apple/cups)) `GPL-2.0` `C`
+*   [CUPS](https://www.cups.org/) - The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. ([Source Code (⭐753)](https://github.com/OpenPrinting/cups/commits/master)) `GPL-2.0` `C`
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -44,12 +44,12 @@
 
 ### Charts / Image Picker
 
-*   [FCharts (⭐323)](https://github.com/thekeenant/fcharts) <!--stargazers:thekeenant/fcharts--> - Beautiful, responsive, animated charts by [Keenan Thompson](https://keenant.com)
+*   [FCharts (⭐325)](https://github.com/thekeenant/fcharts) <!--stargazers:thekeenant/fcharts--> - Beautiful, responsive, animated charts by [Keenan Thompson](https://keenant.com)
 
 ### Top / Game Engine resources
 
-*   [Cinematic (⭐865)](https://github.com/aaronoe/FlutterCinematic) <!--stargazers:aaronoe/FlutterCinematic--> - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe)
-*   [Beer-Me-Up (⭐468)](https://github.com/benoitletondor/Beer-Me-Up) <!--stargazers:benoitletondor/Beer-Me-Up--> - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor)
+*   [Cinematic (⭐871)](https://github.com/aaronoe/FlutterCinematic) <!--stargazers:aaronoe/FlutterCinematic--> - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe)
+*   [Beer-Me-Up (⭐479)](https://github.com/benoitletondor/Beer-Me-Up) <!--stargazers:benoitletondor/Beer-Me-Up--> - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor)
 
 ## [7. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
@@ -107,11 +107,11 @@
 
 ### Application Frameworks
 
-*   [.NET Boxed Framework (⭐664)](https://github.com/Dotnet-Boxed/Framework) - .NET Core Extensions and Helper NuGet packages
+*   [.NET Boxed Framework (⭐692)](https://github.com/Dotnet-Boxed/Framework) - .NET Core Extensions and Helper NuGet packages
 
 ### Application Templates
 
-*   [.NET Boxed Templates (⭐3.2k)](https://github.com/Dotnet-Boxed/Templates) - .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
+*   [.NET Boxed Templates (⭐3.3k)](https://github.com/Dotnet-Boxed/Templates) - .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

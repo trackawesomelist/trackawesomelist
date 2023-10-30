@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 07, 2023
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -72,7 +72,7 @@
 
 ### Libraries / Image processing
 
-*   [marekm4/dominant\_color (⭐19)](https://github.com/marekm4/dominant_color) \[[dominant\_color](https://crates.io/crates/dominant_color)] — Dominant color extractor ![build badge](https://github.com/marekm4/dominant_color/actions/workflows/rust.yml/badge.svg?branch=master)
+*   [marekm4/dominant\_color (⭐23)](https://github.com/marekm4/dominant_color) \[[dominant\_color](https://crates.io/crates/dominant_color)] — Dominant color extractor ![build badge](https://github.com/marekm4/dominant_color/actions/workflows/rust.yml/badge.svg?branch=master)
 
 ## [4. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [utilyre/sentiment.nvim (⭐51)](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.
+*   [utilyre/sentiment.nvim (⭐123)](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.
 
 ## [6. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -108,7 +108,7 @@
 
 ### Papers and References / AI Tools for Searching
 
-*   [whitead/paper-qa (⭐2.4k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations"
+*   [whitead/paper-qa (⭐3.1k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations"
 
 ### Image Synthesis / Promptism
 
@@ -118,13 +118,19 @@
 
 ### Web Hosting
 
-*   [Patr Cloud](https://patr.cloud/) — An easy-to-use cloud platform, among its paid services it offers hosting 3 static sites for free.
+*   [Patr Cloud](https://patr.cloud/) — An easy-to-use cloud platform, among its paid services it offers to host three static sites for free.
 
 ## [10. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### Utilities
 
 *   [`<qr-code>`](https://github.com/bitjson/qr-code) – A no-framework, no-dependencies, customizable, animate-able, SVG-based `<qr-code>` web component.
+
+## [11. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Elixir / Phoenix
+
+*   [Versioned APIs with Phoenix](https://web.archive.org/web/20210309052043/https://elviovicosa.com/freebies/versioned-apis-with-phoenix-by-elvio-vicosa.pdf) - Elvio Vicosa (PDF) *(:card\_file\_box: archived)*
 
 ---
 

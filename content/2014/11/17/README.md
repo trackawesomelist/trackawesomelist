@@ -23,11 +23,11 @@
 
 ### ORM and Datamapping
 
-*   [diver (⭐47)](https://github.com/novabyte/diver) - A HBase driver for Erlang/Elixir using Jinterface and the Asynchbase Java client to query the database.
+*   [diver (⭐48)](https://github.com/novabyte/diver) - A HBase driver for Erlang/Elixir using Jinterface and the Asynchbase Java client to query the database.
 
 ### PDF
 
-*   [gutenex (⭐240)](https://github.com/SenecaSystems/gutenex) - Native PDF generation for Elixir.
+*   [gutenex (⭐241)](https://github.com/SenecaSystems/gutenex) - Native PDF generation for Elixir.
 
 ### Queue
 
@@ -35,20 +35,20 @@
 
 ### Testing
 
-*   [blitzy (⭐82)](https://github.com/benjamintanweihao/blitzy) - A simple HTTP load tester in Elixir.
+*   [blitzy (⭐84)](https://github.com/benjamintanweihao/blitzy) - A simple HTTP load tester in Elixir.
 
 ### Text and Numbers
 
 *   [elixilorem (⭐9)](https://github.com/mgamini/elixilorem) - Lorem Ipsum generator for Elixir.
-*   [pretty\_hex (⭐6)](https://github.com/polsab/pretty_hex) - A binary hex dumping library in Elixir.
+*   [pretty\_hex (⭐7)](https://github.com/polsab/pretty_hex) - A binary hex dumping library in Elixir.
 
 ### Third Party APIs
 
-*   [dogstatsd (⭐38)](https://github.com/adamkittelson/dogstatsd-elixir) - An Elixir client for [DogStatsd](https://www.datadoghq.com/).
+*   [dogstatsd (⭐39)](https://github.com/adamkittelson/dogstatsd-elixir) - An Elixir client for [DogStatsd](https://www.datadoghq.com/).
 
 ### Editors
 
-*   [Alchemist (⭐901)](https://github.com/tonini/alchemist.el) - Elixir Tooling Integration Into Emacs.
+*   [Alchemist (⭐905)](https://github.com/tonini/alchemist.el) - Elixir Tooling Integration Into Emacs.
 *   [Notepad++ (⭐7)](https://github.com/Hades32/elixir-udl-npp) - Elixir syntax highlighting for Notepad++.
 
 ## [2. Typography](/content/deanhume/typography/README.md)

@@ -24,7 +24,7 @@
 
 ### CI
 
-*   [lambdacd (⭐669)](https://github.com/flosell/lambdacd)
+*   [lambdacd (⭐671)](https://github.com/flosell/lambdacd)
 
 ## [4. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
@@ -165,7 +165,19 @@ A **must-read** for anyone looking to build their own cryptography features.
 
 *   [MarionetteJS + Brunch + Babel/ES6 (⭐14)](https://github.com/denar90/brunch-with-marionettejs)
 
-## [16. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [16. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### PHP / PicoLisp
+
+*   [PHP Pandas](http://daylerees.com/php-pandas/) - Dayle Rees
+
+### Spark / Play Scala
+
+*   [Databricks Spark Knowledge Base](https://www.gitbook.com/book/databricks/databricks-spark-knowledge-base/details)
+*   [Databricks Spark Reference Applications](https://www.gitbook.com/book/databricks/databricks-spark-reference-applications/details)
+*   [Mastering Apache Spark](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
+
+## [17. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Authentication & Authorization
 
@@ -175,7 +187,7 @@ A **must-read** for anyone looking to build their own cryptography features.
 
 *   [Laravel Langman (⭐869)](https://github.com/themsaid/laravel-langman) - Manage language files from Artisan Console
 
-## [17. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/week/README.md)
+## [18. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/week/README.md)
 
 ### Frontoffice extensions
 
@@ -185,26 +197,26 @@ A **must-read** for anyone looking to build their own cryptography features.
 
 *   [spree-refinery-authentication (⭐11)](https://github.com/refinerycms-contrib/spree-refinery-authentication) - Shared auth between Spree and Refinery
 
-## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Database
 
 *   [upscaledb](https://upscaledb.com) - An embedded "typed" key/value store with a built-in query interface. \[GPLv3]
 
-## [19. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [20. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Static Site Generation
 
 *   [Jekyll](https://jekyllrb.com) - Transform your plain text into static websites and blogs.
-    *   [Awesome Jekyll (⭐571)](https://github.com/planetjekyll/awesome-jekyll) - A collection of awesome Jekyll tools, plugins, themes, guides and much more.
+    *   [Awesome Jekyll (⭐575)](https://github.com/planetjekyll/awesome-jekyll) - A collection of awesome Jekyll tools, plugins, themes, guides and much more.
 
-## [20. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [21. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Resources / Tutorials
 
-*   [Percussion Synthesis Using Web Audio (⭐31)](https://github.com/irritant/WAC-2016-Tutorial) - This tutorial will introduce the basics of web audio programming by writing code to synthesize simple percussion sounds (from WAC2016).
+*   [Percussion Synthesis Using Web Audio (⭐32)](https://github.com/irritant/WAC-2016-Tutorial) - This tutorial will introduce the basics of web audio programming by writing code to synthesize simple percussion sounds (from WAC2016).
 
-## [21. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [22. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Courses
 
@@ -215,7 +227,7 @@ A **must-read** for anyone looking to build their own cryptography features.
 
 *   [AIResources](http://airesources.org/) - Directory of open source software and open access data for the AI research community
 
-## [22. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [23. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Binary Serialization
 
@@ -229,7 +241,7 @@ A **must-read** for anyone looking to build their own cryptography features.
 
 *   [AlpacaJS](http://www.alpacajs.org) - Generates JSON Schema driven forms on top of Bootstrap, jQuery Mobile, jQuery UI and HTML (jQuery)
 
-## [23. Tips](/content/git-tips/tips/week/README.md)
+## [24. Tips](/content/git-tips/tips/week/README.md)
 
 ## View the GPG signatures in the commit log
 
@@ -247,13 +259,13 @@ git config --global --unset <entry-name>
 git checkout --orphan <branch_name>
 ```
 
-## [24. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [25. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Key-value Data Model
 
-*   [TiKV (⭐12k)](https://github.com/pingcap/tikv) - a distributed key-value database powered by Rust and inspired by Google Spanner and HBase.
+*   [TiKV (⭐13k)](https://github.com/pingcap/tikv) - a distributed key-value database powered by Rust and inspired by Google Spanner and HBase.
 
-## [25. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [26. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
@@ -324,32 +336,32 @@ git checkout --orphan <branch_name>
 
 
 
-## [26. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [27. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Other Interesting Articles / Polyfills
 
 *   [Almost complete guide to flexbox (without flexbox)](http://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox?utm_campaign=CSS%2BLayout%2BNews\&utm_medium=email\&utm_source=CSS_Layout_News_36):metal:
 
-## [27. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [28. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Competitions
 
 *   [Eurobot](http://www.eurobot.org/) International Students Robotics Contest
 
-## [28. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/week/README.md)
+## [29. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/week/README.md)
 
 ### General
 
 *   `book` [Heroku Cookbook](http://www.amazon.com/Heroku-Cookbook-Mike-Coutermarsh/dp/1782177949) — step-by-step recipes to solve the challenges of administering and scaling a real-world production web application on Heroku.
 
-## [29. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [30. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Tools / PHP
 
-*   [Facebook WebDriver (⭐4.7k)](https://github.com/facebook/php-webdriver) - A PHP client for webdriver.
+*   [Facebook WebDriver (⭐4.9k)](https://github.com/facebook/php-webdriver) - A PHP client for webdriver.
 *   [Selenium Setup (⭐27)](https://github.com/bogdananton/Selenium-Setup) - A tool for PHP developers to start their own Selenium server.
 
-## [30. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [31. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### GUI / ListView
 
@@ -359,13 +371,13 @@ git checkout --orphan <branch_name>
 
 *   [AutoHotkey decompiler](https://gist.github.com/Uberi/3334552#file-decompiler-ahk) - for AHK 1.1+ Forum thread: [link](https://autohotkey.com/board/topic/82986-ahk-l-decompiler-payload-method/).
 
-## [31. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [32. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Utilities
 
 *   [Mining visualization](http://www.yogh.io/#mine:last)
 
-## [32. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [33. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Layout
 
@@ -397,17 +409,17 @@ git checkout --orphan <branch_name>
 
 
 
-## [33. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [34. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Documentation
 
-*   [DocFX (⭐3.5k)](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects
+*   [DocFX (⭐3.6k)](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects
 
 ### Tools
 
 *   [Myrtille (⭐1.6k)](https://github.com/cedrozor/myrtille) - A native HTML4/5 Remote Desktop Protocol client, HTTP gateway written in C# for .NET
 
-## [34. Codeface](/content/chrissimpkins/codeface/week/README.md)
+## [35. Codeface](/content/chrissimpkins/codeface/week/README.md)
 
 ### The Gallery
 
@@ -427,12 +439,6 @@ git checkout --orphan <branch_name>
 <img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/nimbus-mono-STPC.png" width="725">
 <img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/nimbus-mono-dark.png" width="725">
 <img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/nimbus-mono-light.png" width="725">
-
-## [35. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
-
-### Perl / Svelte
-
-*   [Perl でのデータベース操作 (⭐2.2k)](https://github.com/hatena/Hatena-Textbook/blob/master/database-programming-perl.md) - はてな教科書
 
 ## [36. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
@@ -475,11 +481,11 @@ git checkout --orphan <branch_name>
 
 ### JSON
 
-*   [Alembic (⭐117)](https://github.com/ra1028/Alembic) - Functional JSON parsing, mapping to objects, and serialize to JSON.
+*   [Alembic (⭐116)](https://github.com/ra1028/Alembic) - Functional JSON parsing, mapping to objects, and serialize to JSON.
 
 ### Logging / Barcode
 
-*   [AEConsole (⭐143)](https://github.com/tadija/AEConsole) - Customizable Console UI overlay with debug log on top of your iOS App.
+*   [AEConsole (⭐148)](https://github.com/tadija/AEConsole) - Customizable Console UI overlay with debug log on top of your iOS App.
 
 ### Text / Barcode
 
@@ -489,19 +495,19 @@ git checkout --orphan <branch_name>
 
 ### Authentication
 
-*   [ueberauth\_vk (⭐18)](https://github.com/sobolevn/ueberauth_vk) - [vk.com](https://vk.com) Strategy for Überauth.
+*   [ueberauth\_vk (⭐19)](https://github.com/sobolevn/ueberauth_vk) - [vk.com](https://vk.com) Strategy for Überauth.
 
 ### Images
 
-*   [alchemic\_avatar (⭐50)](https://github.com/zhangsoledad/alchemic_avatar) - Elixir library for generating letter avatar from string.
+*   [alchemic\_avatar (⭐52)](https://github.com/zhangsoledad/alchemic_avatar) - Elixir library for generating letter avatar from string.
 
 ### Logging
 
-*   [logster (⭐192)](https://github.com/navinpeiris/logster) - Easily parsable, one-line logging for Phoenix and Plug applications, inspired by Lograge.
+*   [logster (⭐195)](https://github.com/navinpeiris/logster) - Easily parsable, one-line logging for Phoenix and Plug applications, inspired by Lograge.
 
 ### Release Management
 
-*   [exrm\_deb (⭐75)](https://github.com/johnhamelink/exrm_deb) - Create a deb for your Elixir release with ease.
+*   [exrm\_deb (⭐76)](https://github.com/johnhamelink/exrm_deb) - Create a deb for your Elixir release with ease.
 
 ## [40. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
 
@@ -526,37 +532,37 @@ git checkout --orphan <branch_name>
 
 ### Configuration
 
-*   [Example tmux config (⭐1.7k)](https://github.com/tony/tmux-config) :green\_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar
+*   [Example tmux config (⭐1.8k)](https://github.com/tony/tmux-config) :green\_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar
 *   [practical tmux](https://mutelight.org/practical-tmux)
-*   [tmux-extra (⭐105)](https://github.com/brandur/tmux-extra) Configuration and scripts for sane Tmux default behavior
+*   [tmux-extra (⭐108)](https://github.com/brandur/tmux-extra) Configuration and scripts for sane Tmux default behavior
 
 ### Tools and session management
 
 *   [powerline (⭐14k)](https://github.com/powerline/powerline) Statusline plugin for vim, and provides statuslines and prompts for several other applications including tmux
-*   [tmuxifier (⭐962)](https://github.com/jimeh/tmuxifier) Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
+*   [tmuxifier (⭐1k)](https://github.com/jimeh/tmuxifier) Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
 *   [tmuxinator (⭐12k)](https://github.com/tmuxinator/tmuxinator) Manage complex tmux sessions easily
 *   [tmuxomatic (⭐1k)](https://github.com/oxidane/tmuxomatic) Intelligent tmux session management
 
 ### Plugins
 
-*   [tmux2html (⭐665)](https://github.com/tweekmonster/tmux2html) :cat2: Render full tmux windows or individual panes as HTML
+*   [tmux2html (⭐672)](https://github.com/tweekmonster/tmux2html) :cat2: Render full tmux windows or individual panes as HTML
 *   [tmux-plugins](https://github.com/tmux-plugins) Official tmux plugins
-    *   [tmux-continuum (⭐2.7k)](https://github.com/tmux-plugins/tmux-continuum) Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
-    *   [tmux-copycat (⭐999)](https://github.com/tmux-plugins/tmux-copycat) A plugin that enhances tmux search
-    *   [tmux-fpp (⭐266)](https://github.com/tmux-plugins/tmux-fpp) Quickly open any path on your terminal window in your $EDITOR of choice!
-    *   [tmux-logging (⭐915)](https://github.com/tmux-plugins/tmux-logging) Easy logging and screen capturing for Tmux.
-    *   [tmux-open (⭐546)](https://github.com/tmux-plugins/tmux-open) Tmux key bindings for quick opening of a highlighted file or url
-    *   [tmux-pain-control (⭐633)](https://github.com/tmux-plugins/tmux-pain-control) standard pane key-bindings for tmux
-    *   [tmux-resurrect (⭐9.8k)](https://github.com/tmux-plugins/tmux-resurrect) Persists tmux environment across system restarts.
-    *   [tmux-sessionist (⭐348)](https://github.com/tmux-plugins/tmux-sessionist) Lightweight tmux utils for manipulating sessions
-    *   [tmux-sidebar (⭐462)](https://github.com/tmux-plugins/tmux-sidebar) A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
-    *   [tmux-tpm (⭐9.4k)](https://github.com/tmux-plugins/tpm) Tmux Plugin Manager
-    *   [tmux-urlview (⭐234)](https://github.com/tmux-plugins/tmux-urlview) Quickly open any url on your terminal window! (No commits since 2016, see tmux-urlscan or tmux-fzf-url for a maintained alternative.)
-    *   [tmux-yank (⭐2.2k)](https://github.com/tmux-plugins/tmux-yank) Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
+    *   [tmux-continuum (⭐2.8k)](https://github.com/tmux-plugins/tmux-continuum) Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
+    *   [tmux-copycat (⭐1k)](https://github.com/tmux-plugins/tmux-copycat) A plugin that enhances tmux search
+    *   [tmux-fpp (⭐279)](https://github.com/tmux-plugins/tmux-fpp) Quickly open any path on your terminal window in your $EDITOR of choice!
+    *   [tmux-logging (⭐948)](https://github.com/tmux-plugins/tmux-logging) Easy logging and screen capturing for Tmux.
+    *   [tmux-open (⭐572)](https://github.com/tmux-plugins/tmux-open) Tmux key bindings for quick opening of a highlighted file or url
+    *   [tmux-pain-control (⭐667)](https://github.com/tmux-plugins/tmux-pain-control) standard pane key-bindings for tmux
+    *   [tmux-resurrect (⭐10k)](https://github.com/tmux-plugins/tmux-resurrect) Persists tmux environment across system restarts.
+    *   [tmux-sessionist (⭐370)](https://github.com/tmux-plugins/tmux-sessionist) Lightweight tmux utils for manipulating sessions
+    *   [tmux-sidebar (⭐493)](https://github.com/tmux-plugins/tmux-sidebar) A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
+    *   [tmux-tpm (⭐10k)](https://github.com/tmux-plugins/tpm) Tmux Plugin Manager
+    *   [tmux-urlview (⭐243)](https://github.com/tmux-plugins/tmux-urlview) Quickly open any url on your terminal window! (No commits since 2016, see tmux-urlscan or tmux-fzf-url for a maintained alternative.)
+    *   [tmux-yank (⭐2.3k)](https://github.com/tmux-plugins/tmux-yank) Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
 
 ### Plugins / Development and testing
 
-*   [tmux-example-plugin (⭐35)](https://github.com/tmux-plugins/tmux-example-plugin) Example Tmux plugin that actually demonstrates how to build plugins for Tmux
+*   [tmux-example-plugin (⭐36)](https://github.com/tmux-plugins/tmux-example-plugin) Example Tmux plugin that actually demonstrates how to build plugins for Tmux
 *   [tmux-test (⭐15)](https://github.com/tmux-plugins/tmux-test) A small framework for isolated testing of tmux plugins.
 
 ### Miscellaneous / Development and testing

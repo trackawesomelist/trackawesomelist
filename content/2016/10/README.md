@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 07 - Mar 13, 2016
 
-42 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Network / Scanning / Pentesting
 
-*   [pig (⭐442)](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool.
+*   [pig (⭐452)](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool.
 
 ## [2. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/week/README.md)
 
@@ -69,14 +69,14 @@
 
 ### Libraries
 
-*   [fnuc (⭐13)](https://github.com/algesten/fnuc) – A functional library for CoffeeScript (and JavaScript) to facilitate functional composition and higher order functions.
+*   [fnuc (⭐15)](https://github.com/algesten/fnuc) – A functional library for CoffeeScript (and JavaScript) to facilitate functional composition and higher order functions.
 *   [curry (⭐85)](https://github.com/thisables/curry) – Curry your functions using function bind syntax.
-*   [compose-function (⭐56)](https://github.com/stoeffel/compose-function) – Compose a new function from smaller functions.
-*   [functionize (⭐48)](https://github.com/paldepind/functionize) – A collection of functions which aid in making non-functional libraries functional.
-*   [lambdajs (⭐145)](https://github.com/loop-recur/lambdajs) – The full ECMAScript API done a functional way.
+*   [compose-function (⭐57)](https://github.com/stoeffel/compose-function) – Compose a new function from smaller functions.
+*   [functionize (⭐50)](https://github.com/paldepind/functionize) – A collection of functions which aid in making non-functional libraries functional.
+*   [lambdajs (⭐144)](https://github.com/loop-recur/lambdajs) – The full ECMAScript API done a functional way.
 *   [fp-dom](https://github.com/fp-dom/) – Making the DOM functional.
 *   [trifl (⭐36)](https://github.com/algesten/trifl) – A functional user interface library with unidirectional dataflow and a virtual dom.
-*   [funcy (⭐249)](https://github.com/bramstein/funcy) – An experiment in adding functional pattern matching to JavaScript. *Experimental*  :triangular\_flag\_on\_post:
+*   [funcy (⭐247)](https://github.com/bramstein/funcy) – An experiment in adding functional pattern matching to JavaScript. *Experimental*  :triangular\_flag\_on\_post:
 *   [\_part\_ (⭐41)](https://github.com/AutoSponge/_part_) – A micro library that encourages functional programming by making native methods available as partially applied functions.
 *   [claire (⭐80)](https://github.com/robotlolita/claire) – A property-based testing library for clearly specifying code invariants and behaviour.
 
@@ -84,34 +84,34 @@
 
 *   [Immutable.js (⭐33k)](https://github.com/facebook/immutable-js) – Immutable persistent data collections.
 *   [Mori (⭐3.4k)](https://github.com/swannodette/mori) – ClojureScript’s persistent data structures and supporting API from the comfort of vanilla JavaScript.
-*   [immutable-sequence.js (⭐16)](https://github.com/qiao/immutable-sequence.js) –  High performance implementation of Immutable Sequence in JavaScript, based on [Finger Trees (⭐44)](https://github.com/qiao/fingertree.js).
+*   [immutable-sequence.js (⭐16)](https://github.com/qiao/immutable-sequence.js) –  High performance implementation of Immutable Sequence in JavaScript, based on [Finger Trees (⭐45)](https://github.com/qiao/fingertree.js).
 *   [Timm](http://guigrpa.github.io/timm/) – Immutability helpers with fast reads and acceptable writes.
 *   [Lazy.js (⭐6k)](https://github.com/dtao/lazy.js) – A utility library with a lazy engine under the hood that strives to do as little work as possible while being as flexible as possible.
 
 ### Libraries / Algebraic Data Types
 
-*   [daggy (⭐696)](https://github.com/puffnfresh/daggy) – Library for creating tagged constructors.
-*   [union-type (⭐476)](https://github.com/paldepind/union-type) – A small JavaScript library for defining and using union types.
-*   [freeky (⭐172)](https://github.com/DrBoolean/freeky) – A collection of Free monads.
-*   [fantasy-combinators (⭐64)](https://github.com/fantasyland/fantasy-combinators) – Common combinators.
+*   [daggy (⭐695)](https://github.com/puffnfresh/daggy) – Library for creating tagged constructors.
+*   [union-type (⭐477)](https://github.com/paldepind/union-type) – A small JavaScript library for defining and using union types.
+*   [freeky (⭐174)](https://github.com/DrBoolean/freeky) – A collection of Free monads.
+*   [fantasy-combinators (⭐66)](https://github.com/fantasyland/fantasy-combinators) – Common combinators.
 *   [fantasy-birds (⭐85)](https://github.com/fantasyland/fantasy-birds) – Port of the Haskell package Data.Aviary.Birds. Everything for your combinatory needs.
 
 ### Libraries / Lenses
 
-*   [lenses (⭐212)](https://github.com/DrBoolean/lenses) – Composable [kmett (⭐1.9k)](https://github.com/ekmett/lens) style lenses.
-*   [optics (⭐84)](https://github.com/flunc/optics) – Profunctor optics (Lens, Prism, iso).
+*   [lenses (⭐211)](https://github.com/DrBoolean/lenses) – Composable [kmett (⭐2k)](https://github.com/ekmett/lens) style lenses.
+*   [optics (⭐86)](https://github.com/flunc/optics) – Profunctor optics (Lens, Prism, iso).
 *   [ramda-lens (⭐182)](https://github.com/ramda/ramda-lens) – :ram: :mag\_right: Lens library built on Ramda.
 *   [fantasy-lenses (⭐108)](https://github.com/fantasyland/fantasy-lenses) – Composable, immutable getters and setters. (Profunctor lenses WIP)
-*   [nanoscope (⭐177)](https://github.com/5outh/nanoscope) – Lenses with dotty support.
+*   [nanoscope (⭐176)](https://github.com/5outh/nanoscope) – Lenses with dotty support.
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
-*   [ClojureScript (⭐9k)](https://github.com/clojure/clojurescript) – Compiles [Clojure](http://clojure.org/), a hosted Lisp with immutable persistent data structures, to JavaScript.
+*   [ClojureScript (⭐9.1k)](https://github.com/clojure/clojurescript) – Compiles [Clojure](http://clojure.org/), a hosted Lisp with immutable persistent data structures, to JavaScript.
 *   [Elm](http://elm-lang.org/) – A type-safe functional programming language for declaratively creating web browser-based graphical user interfaces. Implemented in Haskell.
 *   [PureScript](http://www.purescript.org/) – A small strongly typed programming language that compiles to JavaScript.
 *   [Idris](http://www.idris-lang.org/) – A general purpose pure functional programming language with dependent types.
 *   [GHCJS (⭐2.6k)](https://github.com/ghcjs/ghcjs) – [Haskell](https://www.haskell.org/) to JavaScript compiler, based on GHC.
-*   [ElixirScript (⭐1.5k)](https://github.com/bryanjos/elixirscript) – Compiles a subset of [Elixir](http://elixir-lang.org/), a dynamic, functional language designed for building scalable and maintainable applications, to JavaScript.
+*   [ElixirScript (⭐1.6k)](https://github.com/bryanjos/elixirscript) – Compiles a subset of [Elixir](http://elixir-lang.org/), a dynamic, functional language designed for building scalable and maintainable applications, to JavaScript.
 *   [Js\_of\_ocaml](http://ocsigen.org/js_of_ocaml/) – Compiles [OCaml](http://ocaml.org/) bytecode to JavaScript, making it possible to run OCaml programs in the browser.
 *   [Scala.js](http://www.scala-js.org/) – Compiles [Scala](http://www.scala-lang.org/) to JavaScript.
 *   [LiveScript](http://gkz.github.io/LiveScript/) – LiveScript has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate.
@@ -129,13 +129,13 @@
 ### Resources / Examples and Exercises
 
 *   [functional-frontend-architecture (⭐1.4k)](https://github.com/paldepind/functional-frontend-architecture) – A functional frontend framework. Based on Ramda + union-type-js + Flyd + Snabbdom
-*   [cube-composer (⭐1.9k)](https://github.com/sharkdp/cube-composer) – A puzzle game inspired by functional programming.
-*   [FP Youtube Search (⭐58)](https://github.com/jaysoo/example-fp-youtube-search) – YouTube search app with ReactJS, Redux, and FP concepts
+*   [cube-composer (⭐2k)](https://github.com/sharkdp/cube-composer) – A puzzle game inspired by functional programming.
+*   [FP Youtube Search (⭐57)](https://github.com/jaysoo/example-fp-youtube-search) – YouTube search app with ReactJS, Redux, and FP concepts
 *   [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/) – Learn to apply techniques from the forefront of computer science research to solve practical problems in Javascript. Discover functional programming and see it demonstrated step-by-step with how to build an example web app using abstract interfaces like Monads, Functors, Monoids and Applicatives. (*commercial*)
 
 ### Community / Related Lists
 
-*   [Awesome FRP JS (⭐284)](https://github.com/stoeffel/awesome-frp-js) – A curated list of awesome (functional) reactive programming stuff in JavaScript.
+*   [Awesome FRP JS (⭐286)](https://github.com/stoeffel/awesome-frp-js) – A curated list of awesome (functional) reactive programming stuff in JavaScript.
 
 ## [4. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -175,7 +175,7 @@
 
 ### Contents / Language bindings
 
-*   PHP: [Pomm](http://www.pomm-project.org), [pecl/pq (⭐34)](https://github.com/m6w6/ext-pq)
+*   PHP: [Pomm](http://www.pomm-project.org), [pecl/pq (⭐35)](https://github.com/m6w6/ext-pq)
 
 ## [8. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -308,7 +308,7 @@
 
 ### Packages / Debugging / Profiling
 
-*   [0x (⭐2.8k)](https://github.com/davidmarkclements/0x) - Flamegraph profiling.
+*   [0x (⭐2.9k)](https://github.com/davidmarkclements/0x) - Flamegraph profiling.
 
 ## [17. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
@@ -333,7 +333,7 @@
 
 ### Boilerplates / Outdated Boilerplates
 
-*   [elm-webpack-starter (⭐868)](https://github.com/moarwick/elm-webpack-starter) - A simple Webpack setup for writing Elm apps.
+*   [elm-webpack-starter (⭐865)](https://github.com/moarwick/elm-webpack-starter) - A simple Webpack setup for writing Elm apps.
 
 ## [20. Tips](/content/git-tips/tips/week/README.md)
 
@@ -356,8 +356,8 @@ git diff --name-only | uniq | xargs $EDITOR
 
 ### For Electron / Other
 
-*   [electron-installer-debian (⭐346)](https://github.com/unindented/electron-installer-debian) - Create a Debian package.
-*   [electron-installer-redhat (⭐74)](https://github.com/unindented/electron-installer-redhat) - Create a Red Hat package.
+*   [electron-installer-debian (⭐350)](https://github.com/unindented/electron-installer-debian) - Create a Debian package.
+*   [electron-installer-redhat (⭐75)](https://github.com/unindented/electron-installer-redhat) - Create a Red Hat package.
 *   [electron-installer-windows (⭐464)](https://github.com/unindented/electron-installer-windows) - Create a Windows package.
 
 ## [22. Vim Galore](/content/mhinz/vim-galore/week/README.md)
@@ -458,13 +458,7 @@ git diff --name-only | uniq | xargs $EDITOR
 *   [JS: Interview Algorithm](http://thatjsdude.com/interview/js1.html)
 *   [Interview Cake JavaScript Interview Questions](https://www.interviewcake.com/javascript-interview-questions)
 
-## [32. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
-
-### Julia / Svelte
-
-*   [実例で学ぶ Julia-0.4.1](https://www.dropbox.com/s/lk7y8lifjcr1vf2/JuliaBook-20151201.pdf) - Yuichi Motoyama (PDF)
-
-## [33. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
+## [32. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
 
 ### Eddystone by Google
 
@@ -500,7 +494,7 @@ git diff --name-only | uniq | xargs $EDITOR
 *   [Web Bluetooth Intro](https://dev.opera.com/articles/web-bluetooth-intro/) by Opera
 *   [Web Bluetooth Demos (⭐506)](https://github.com/WebBluetoothCG/demos)
 
-## [34. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [33. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Music Notation
 
@@ -511,7 +505,7 @@ git diff --name-only | uniq | xargs $EDITOR
 
 *   [Bach: Automated Composer's Helper](http://www.bachproject.net/) - a cross-platform set of patches and externals for Max, aimed to bring the richness of computer-aided composition into the real-time world.
 
-## [35. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [34. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Debugging
 
@@ -530,34 +524,34 @@ git diff --name-only | uniq | xargs $EDITOR
 
 *   [pyramid\_extdirect (⭐10)](https://github.com/jenner/pyramid_extdirect) - This pyramid plugin provides a router for the ExtDirect Sencha API included in ExtJS. ExtDirect allows to run server-side callbacks directly through JavaScript without the extra AJAX boilerplate.
 
-## [36. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [35. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Database / ORM
 
 *   [requery (⭐3.1k)](https://github.com/requery/requery) - Compile time ORM and SQL query library for Java & Android.
 
-## [37. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [36. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Plugins
 
 *   [Alfred Workflow (⭐1)](https://github.com/Hazealign/fuse-alfred-workflow) - Integrate Fuse on Alfred.
 
-## [38. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [37. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Registry
 
-*   [npm-cli-login (⭐91)](https://github.com/postmanlabs/npm-cli-login) - Log in to npm.
+*   [npm-cli-login (⭐104)](https://github.com/postmanlabs/npm-cli-login) - Log in to npm.
 
-## [39. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [38. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Videos
 
 *   [TensorFlow Guide 2](http://bit.ly/1R27Ki9) - Continuation of first video
 *   [TensorFlow Deep MNIST for Experts](http://bit.ly/1L9IfJx) - Goes over Deep MNIST
 
-## [40. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [39. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
-### United States 🇺🇸 / Massachusetts   <a id="massachusetts">  </a>
+### United States 🇺🇸 / Massachusetts <a id="massachusetts"></a>
 
 #### District Hall
 
@@ -587,43 +581,43 @@ Webpage: <http://www.tosci.com/>
 | ---- | ----- | ------ | -------------------------------------------------------------------- | ---------------------------------------- |
 | open | ✔     | ✔      | [1899 Main St, Cambridge, MA 02139](https://goo.gl/maps/moxJxcmX2bp) | Mon-Fri 08:00-23:00, Sat-Sun 09:00-23:00 |
 
-## [41. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [40. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Applications
 
-*   [Nvjorn (⭐14)](https://github.com/tchoutri/Nvjorn) - A multi-protocol network services monitor written in Elixir using Poolboy.
+*   [Nvjorn (⭐15)](https://github.com/tchoutri/Nvjorn) - A multi-protocol network services monitor written in Elixir using Poolboy.
 
 ### Email
 
-*   [gmail (⭐47)](https://github.com/craigp/elixir-gmail) - A simple Gmail REST API client for Elixir.
+*   [gmail (⭐48)](https://github.com/craigp/elixir-gmail) - A simple Gmail REST API client for Elixir.
 
 ### Framework Components
 
-*   [scrivener\_headers (⭐48)](https://github.com/doomspork/scrivener_headers) - Helpers for paginating API responses with Scrivener and HTTP headers.
-*   [scrivener\_html (⭐121)](https://github.com/mgwidmann/scrivener_html) - Helpers built to work with Scrivener's page struct to easily build HTML output for various CSS frameworks.
+*   [scrivener\_headers (⭐49)](https://github.com/doomspork/scrivener_headers) - Helpers for paginating API responses with Scrivener and HTTP headers.
+*   [scrivener\_html (⭐122)](https://github.com/mgwidmann/scrivener_html) - Helpers built to work with Scrivener's page struct to easily build HTML output for various CSS frameworks.
 
 ### HTTP
 
-*   [mnemonic\_slugs (⭐21)](https://github.com/devshane/mnemonic_slugs) - A memorable, mnemonic slug generator in Elixir.
+*   [mnemonic\_slugs (⭐23)](https://github.com/devshane/mnemonic_slugs) - A memorable, mnemonic slug generator in Elixir.
 
 ### Logging
 
-*   [slack\_logger\_backend (⭐32)](https://github.com/craigp/slack_logger_backend) - A logger backend for posting errors to Slack.
+*   [slack\_logger\_backend (⭐33)](https://github.com/craigp/slack_logger_backend) - A logger backend for posting errors to Slack.
 
 ### ORM and Datamapping
 
-*   [neo4j\_sips (⭐79)](https://github.com/florinpatrascu/neo4j_sips) - Neo4j driver for Elixir.
-*   [neo4j\_sips\_models (⭐5)](https://github.com/florinpatrascu/neo4j_sips_models) - Minimalistic Model support for the Neo4j.Sips Elixir driver.
+*   [neo4j\_sips (⭐80)](https://github.com/florinpatrascu/neo4j_sips) - Neo4j driver for Elixir.
+*   [neo4j\_sips\_models (⭐6)](https://github.com/florinpatrascu/neo4j_sips_models) - Minimalistic Model support for the Neo4j.Sips Elixir driver.
 
 ### Third Party APIs
 
-*   [sparkpost (⭐44)](https://github.com/SparkPost/elixir-sparkpost) - An Elixir library for sending email using SparkPost.
+*   [sparkpost (⭐45)](https://github.com/SparkPost/elixir-sparkpost) - An Elixir library for sending email using SparkPost.
 
 ### Reading
 
 *   [Elixir School](https://elixirschool.com/) - Lessons about the Elixir programming language.
 
-## [42. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
+## [41. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
 
 ### Free and Open Source Libraries
 

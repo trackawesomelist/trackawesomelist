@@ -69,7 +69,7 @@
 
 ### Software / Conference Management
 
-*   [pretalx](https://pretalx.org) - Web-based event management, including running a Call for Papers, reviewing submissions, and scheduling talks. Exports and imports for various related tools. ([Source Code (⭐536)](https://github.com/pretalx/pretalx)) `Apache-2.0` `Python`
+*   [pretalx](https://pretalx.org) - Web-based event management, including running a Call for Papers, reviewing submissions, and scheduling talks. Exports and imports for various related tools. ([Source Code (⭐583)](https://github.com/pretalx/pretalx)) `Apache-2.0` `Python`
 
 ## [8. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 
@@ -78,7 +78,7 @@
 *   [Dru](https://agorapulse.github.io/dru/) - Data Reconstruction Utility loads data from external sources JSON, YML for easy testing GORM, DynamoDB or just plain POJOs.
 *   [Gru](https://agorapulse.github.io/gru/) - Groovy HTTP Testing Framework for running integration and semi-ingetration tests for any HTTP backend with native unit test support for Grails and Spring MVC.
 
-### File Format DSL
+### DSLs
 
 *   [spreadsheet-builder](http://spreadsheet.dsl.builders/) - Spreadsheet builder provides convenient way how to create MS Excel OfficeOpenXML Documents (XSLX)
 

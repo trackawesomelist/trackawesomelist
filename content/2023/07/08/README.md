@@ -10,17 +10,17 @@
 
 ### Tools / Agents
 
-*   [BlockAGI (⭐96)](https://github.com/blockpipe/blockagi): BlockAGI conducts iterative, domain-specific research, and outputs detailed narrative reports to showcase its findings ![GitHub Repo stars](https://img.shields.io/github/stars/blockpipe/blockagi?style=social)
+*   [BlockAGI (⭐209)](https://github.com/blockpipe/blockagi): BlockAGI conducts iterative, domain-specific research, and outputs detailed narrative reports to showcase its findings ![GitHub Repo stars](https://img.shields.io/github/stars/blockpipe/blockagi?style=social)
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Data visualization
 
-*   [blitzarx1/egui\_graphs (⭐152)](https://github.com/blitzarx1/egui_graphs) - \[[egui\_graphs](https://crates.io/crates/egui_graphs)] - Interactive graph visualization widget for rust powered by egui and petgraph. [![Crates.io](https://img.shields.io/crates/v/egui_graphs)](https://crates.io/crates/egui_graphs) [![docs.rs](https://img.shields.io/docsrs/egui_graphs)](https://docs.rs/egui_graphs)
+*   [blitzarx1/egui\_graphs (⭐195)](https://github.com/blitzarx1/egui_graphs) - \[[egui\_graphs](https://crates.io/crates/egui_graphs)] - Interactive graph visualization widget for rust powered by egui and petgraph. [![Crates.io](https://img.shields.io/crates/v/egui_graphs)](https://crates.io/crates/egui_graphs) [![docs.rs](https://img.shields.io/docsrs/egui_graphs)](https://docs.rs/egui_graphs)
 
 ### Libraries / Scripting
 
-*   [kcl (⭐605)](https://github.com/kcl-lang/kcl) - A constraint-based record & functional language mainly used in configuration and policy scenarios.
+*   [kcl (⭐841)](https://github.com/kcl-lang/kcl) - A constraint-based record & functional language mainly used in configuration and policy scenarios.
 
 ## [3. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -229,30 +229,30 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [2nthony/vitesse.nvim (⭐21)](https://github.com/2nthony/vitesse.nvim) - Vitesse theme Lua port.
+*   [2nthony/vitesse.nvim (⭐29)](https://github.com/2nthony/vitesse.nvim) - Vitesse theme Lua port.
 
 ## [7. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
-*   [tfgpt (⭐58)](https://github.com/flavius-dinu/tfgpt) - A CLI tool that integrates Terraform with OpenAI's GPT-3.5 Turbo to provide explanations for Terraform commands and concepts.
-*   [tfvar (⭐128)](https://github.com/shihanng/tfvar) - tfvar scans your Terraform configurations or modules and extracts the variables into formats of your choice (tfvar, environment variables, etc.) for editing.
+*   [tfgpt (⭐67)](https://github.com/flavius-dinu/tfgpt) - A CLI tool that integrates Terraform with OpenAI's GPT-3.5 Turbo to provide explanations for Terraform commands and concepts.
+*   [tfvar (⭐180)](https://github.com/shihanng/tfvar) - tfvar scans your Terraform configurations or modules and extracts the variables into formats of your choice (tfvar, environment variables, etc.) for editing.
 
 ## [8. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ### Resources / Talks and videos
 
-*   [How to update mass data using Polars DataFrame](https://www.youtube.com/watch?v=ivJSk6JLWBQ) ⏳ `9 min` - A video that presents the process of writing code to update mass columns across CSV or data files by [@AmitXShukla](https://github.com/AmitXShukla). Notebook used for the video [in this github repo (⭐2)](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Basic%20calculator.ipynb).
+*   [How to update mass data using Polars DataFrame](https://www.youtube.com/watch?v=ivJSk6JLWBQ) ⏳ `9 min` - A video that presents the process of writing code to update mass columns across CSV or data files by [@AmitXShukla](https://github.com/AmitXShukla). Notebook used for the video [in this github repo (⭐13)](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Basic%20calculator.ipynb).
 
 ## [9. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### Algorithms and data structures
 
-*   [karlseguin/cache.zig (⭐9)](https://github.com/karlseguin/cache.zig) - Thread-safe, expiration-aware, LRU cache.
+*   [karlseguin/cache.zig (⭐12)](https://github.com/karlseguin/cache.zig) - Thread-safe, expiration-aware, LRU cache.
 
 ### Database
 
-*   [karlseguin/zuckdb.zig (⭐13)](https://github.com/karlseguin/zuckdb.zig) - DuckDB wrapper.
+*   [karlseguin/zuckdb.zig (⭐16)](https://github.com/karlseguin/zuckdb.zig) - DuckDB wrapper.
 
 ### Misc libraries
 
@@ -262,7 +262,7 @@
 
 ### Web
 
-*   [vest (⭐0)](https://github.com/alexferl/vest) - A REST client in V.
+*   [vest (⭐2)](https://github.com/alexferl/vest) - A REST client in V.
 
 ## [11. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
@@ -274,7 +274,7 @@
 
 ### Software / R
 
-*   [edgebundle (⭐104)](https://github.com/schochastics/edgebundle) - Edge bundling algorithms, useful to e.g. draw networks of transport maps.
+*   [edgebundle (⭐105)](https://github.com/schochastics/edgebundle) - Edge bundling algorithms, useful to e.g. draw networks of transport maps.
 
 ## [13. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
 
@@ -311,7 +311,7 @@
 
 ### RSS services powered by utilizing Obsidian / Outline Processor Markup Language
 
-*   [Obsidian-RSS (⭐249)](https://github.com/joethei/obsidian-rss) <sup>[1141](https://t.me/s/aboutrss/1141)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/joethei/obsidian-rss)
+*   [Obsidian-RSS (⭐280)](https://github.com/joethei/obsidian-rss) <sup>[1141](https://t.me/s/aboutrss/1141)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/joethei/obsidian-rss)
 
 ### RSS2Podcast / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
@@ -331,41 +331,42 @@
 
 ### Managed Data Services
 
-*   [Aiven](https://aiven.io/) - Aiven offers free PostgreSQL, MySQL and Redis plans on its open source data platform. Single node, 1 CPU, 1GB RAM and for PostgreSQL and MySQL, 5GB storage. Easy migration to larger plans or across clouds.
+*   [Aiven](https://aiven.io/) - Aiven offers free PostgreSQL, MySQL and Redis plans on its open-source data platform. Single node, 1 CPU, 1GB RAM, and for PostgreSQL and MySQL, 5GB storage. Easy migration to more extensive plans or across clouds.
 
 ## [17. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-auto-mpa-html (⭐0)](https://github.com/iamspark1e/vite-plugin-auto-mpa-html) - A file directory-based automated multi-page build plugin that supports HTML templates using EJS.
+*   [vite-plugin-auto-mpa-html (⭐1)](https://github.com/iamspark1e/vite-plugin-auto-mpa-html) - A file directory-based automated multi-page build plugin that supports HTML templates using EJS.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-thumbhash (⭐5)](https://github.com/cijiugechu/vite-plugin-thumbhash) - Load and transform images using ThumbHash.
+*   [vite-plugin-thumbhash (⭐7)](https://github.com/cijiugechu/vite-plugin-thumbhash) - Load and transform images using ThumbHash.
 
 ### Vue / Helpers
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-devtools (⭐1.1k)](https://github.com/webfansplz/vite-plugin-vue-devtools) - Designed to enhance the Vue developer experience.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-devtools (⭐1.5k)](https://github.com/webfansplz/vite-plugin-vue-devtools) - Designed to enhance the Vue developer experience.
 
 ## [18. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bira (⭐0)](https://github.com/zimfw/bira) - Fork of Oh-My-ZSH [bira (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) theme. Includes decorators for working directory, username\@host, `git` status information, Python [venv](https://docs.python.org/3/library/venv.html) and a status code when the last command had an error.
-*   [nostalgia (⭐0)](https://github.com/skippyr/nostalgia) - Minimalist theme, includes decorators for user\@hostname, `git` status, current directory and python virtualenv.
+*   [bira (⭐0)](https://github.com/zimfw/bira) - Fork of Oh-My-ZSH [bira (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) theme. Includes decorators for working directory, username\@host, `git` status information, Python [venv](https://docs.python.org/3/library/venv.html) and a status code when the last command had an error.
+*   [nostalgia (⭐0)](https://github.com/skippyr/nostalgia) - Minimalist theme inspired by Windows CMD prompt. Includes decorators for user\@hostname, `git` status, current directory and python virtualenv.
 
 ## [19. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
 ### JavaScript / Node.js
 
-*   [Node.js Best Practices (⭐90k)](https://github.com/goldbergyoni/nodebestpractices) - Yoni Goldberg, et al.
+*   [Node.js Best Practices (⭐93k)](https://github.com/goldbergyoni/nodebestpractices) - Yoni Goldberg, et al.
 
 ## [20. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Open Source Rails Apps / Other external resources
 
-*   [podiscover (⭐16)](https://github.com/enderahmetyurt/podiscover) - An open source social media platform to discover new podcasts. (using Rails 7.0) - [:earth\_africa:](https://www.podiscover.me)
+*   [podiscover (⭐17)](https://github.com/enderahmetyurt/podiscover) - An open source social media platform to discover new podcasts. (using Rails 7.0) - [:earth\_africa:](https://www.podiscover.me)
 
 ---
 
+- Prev: [Jul 09, 2023](/content/2023/07/09/README.md)
 - Next: [Jul 07, 2023](/content/2023/07/07/README.md)

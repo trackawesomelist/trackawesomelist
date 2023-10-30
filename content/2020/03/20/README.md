@@ -56,7 +56,7 @@
 
 ### JavaScript / Misc
 
-*   [Pipcook (⭐2.4k)](https://github.com/alibaba/pipcook) - A JavaScript application framework for machine learning and its engineering.
+*   [Pipcook (⭐2.5k)](https://github.com/alibaba/pipcook) - A JavaScript application framework for machine learning and its engineering.
 
 ---
 

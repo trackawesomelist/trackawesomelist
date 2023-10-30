@@ -10,7 +10,7 @@
 
 ### CLI
 
-*   [zsh-better-npm-completion (⭐411)](https://github.com/lukechilds/zsh-better-npm-completion) - Better ZSH completion for npm.
+*   [zsh-better-npm-completion (⭐432)](https://github.com/lukechilds/zsh-better-npm-completion) - Better ZSH completion for npm.
 
 ## [2. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -18,7 +18,7 @@
 
 *   [Angular 2 with OpenID Connect Implicit Flow from Damien Bowden](https://damienbod.com/2016/03/02/angular2-openid-connect-implicit-flow-with-identityserver4/)
 *   [Angular 2 bootstrap4 OAuth2 Webpack from Michael Oryl (⭐194)](https://github.com/michaeloryl/angular2-bootstrap4-oauth2-webpack)
-*   [Angular 2 authentication sample from auth0-blog (⭐972)](https://github.com/auth0-blog/angular2-authentication-sample)
+*   [Angular 2 authentication sample from auth0-blog (⭐970)](https://github.com/auth0-blog/angular2-authentication-sample)
 
 ## [3. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 

@@ -53,13 +53,13 @@
 
 ### Audio Related Packages / Transformations - General DSP
 
-*   [pyroomacoustics (⭐1.1k)](https://github.com/LCAV/pyroomacoustics) [:octocat: (⭐1.1k)](https://github.com/LCAV/pyroomacoustics) [:package:](https://pypi.python.org/pypi/pyroomacoustics) - Room Acoustics Simulation (RIR generator)
+*   [pyroomacoustics (⭐1.2k)](https://github.com/LCAV/pyroomacoustics) [:octocat: (⭐1.2k)](https://github.com/LCAV/pyroomacoustics) [:package:](https://pypi.python.org/pypi/pyroomacoustics) - Room Acoustics Simulation (RIR generator)
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Events
 
-*   [Tempura (⭐696)](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
+*   [Tempura (⭐704)](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
 
 ## [5. Awesome Framer](/content/podo/awesome-framer/README.md)
 
@@ -71,7 +71,7 @@
 
 ### For Electron / Other
 
-*   [electron-timber (⭐372)](https://github.com/sindresorhus/electron-timber) - Pretty logger.
+*   [electron-timber (⭐379)](https://github.com/sindresorhus/electron-timber) - Pretty logger.
 
 ## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -79,14 +79,14 @@
 
 *   Code Analysis
     *   [CodeFormatter (⭐1.2k)](https://github.com/dotnet/codeformatter) - Tool that uses Roslyn to automatically rewrite the source to follow netfx coding styles. [Nuget Package](https://www.nuget.org/packages/Dotnet.CodeFormatter.BuildTask.Fork)
-    *   [DevSkim (⭐748)](https://github.com/Microsoft/DevSkim) - A set of IDE plugins and rules that provide security "linting" capabilities.
-    *   [RefactoringEssentials (⭐640)](https://github.com/icsharpcode/RefactoringEssentials) - Refactoring Essentials for Visual Studio.
-    *   [roslyn-analyzers (⭐1.3k)](https://github.com/dotnet/roslyn-analyzers) - .NET Compiler Platform ("Roslyn") Analyzers.
-    *   [StyleCopAnalyzers (⭐2.3k)](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) - StyleCop rules using the .NET Compiler Platform.
+    *   [DevSkim (⭐832)](https://github.com/Microsoft/DevSkim) - A set of IDE plugins and rules that provide security "linting" capabilities.
+    *   [RefactoringEssentials (⭐638)](https://github.com/icsharpcode/RefactoringEssentials) - Refactoring Essentials for Visual Studio.
+    *   [roslyn-analyzers (⭐1.5k)](https://github.com/dotnet/roslyn-analyzers) - .NET Compiler Platform ("Roslyn") Analyzers.
+    *   [StyleCopAnalyzers (⭐2.5k)](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) - StyleCop rules using the .NET Compiler Platform.
 
 ### Frameworks, Libraries and Tools / Security
 
-*   [reCAPTCHA (⭐133)](https://github.com/PaulMiami/reCAPTCHA) - reCAPTCHA 2.0 for ASP.NET Core.
+*   [reCAPTCHA (⭐134)](https://github.com/PaulMiami/reCAPTCHA) - reCAPTCHA 2.0 for ASP.NET Core.
 
 ## [8. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 

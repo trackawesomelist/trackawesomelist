@@ -28,17 +28,17 @@
 
 ### Developer
 
-*   [Source Tree (⭐98)](https://github.com/zhaocai/alfred2-sourcetree-workflow) - List, search, and open Source Tree repositories.
+*   [Source Tree (⭐100)](https://github.com/zhaocai/alfred2-sourcetree-workflow) - List, search, and open Source Tree repositories.
 
 ## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### CMS
 
-*   [BlogEngine.NET (⭐916)](https://github.com/rxtur/BlogEngine.NET) - Simple but full featured ASP.NET blog
+*   [BlogEngine.NET (⭐929)](https://github.com/rxtur/BlogEngine.NET) - Simple but full featured ASP.NET blog
 
 ### Misc
 
-*   [Valit (⭐314)](https://github.com/valit-stack/Valit) - Valit is dead simple, fluent validation for .NET Core.
+*   [Valit (⭐319)](https://github.com/valit-stack/Valit) - Valit is dead simple, fluent validation for .NET Core.
 
 ## [6. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 

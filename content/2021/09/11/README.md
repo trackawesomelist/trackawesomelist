@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 11, 2021
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,7 +22,7 @@
 
 ### 2D / Godot 3.2+
 
-*   [Portal 2D (⭐60)](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games.
+*   [Portal 2D (⭐64)](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games.
 
 ## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -31,28 +31,28 @@
 *   [Tortoise ORM](https://tortoise.github.io) - An easy-to-use asyncio ORM (Object Relational Mapper) inspired by Django.
     *   [FastAPI Example](https://tortoise.github.io/examples/fastapi.html) - An example of the Tortoise-ORM FastAPI integration.
     *   [Tutorial: Setting up Tortoise ORM with FastAPI](https://web.archive.org/web/20200523174158/https://robwagner.dev/tortoise-fastapi-setup/)
-    *   [Aerich (⭐625)](https://github.com/tortoise/aerich) - Tortoise ORM migrations tools.
+    *   [Aerich (⭐683)](https://github.com/tortoise/aerich) - Tortoise ORM migrations tools.
 *   [SQLModel](https://sqlmodel.tiangolo.com/) - SQLModel (which is powered by Pydantic and SQLAlchemy) is a library for interacting with SQL databases from Python code, with Python objects.
 
 ### Databases / ODMs
 
-*   [Beanie (⭐1.1k)](https://github.com/roman-right/beanie) - Asynchronous Python ODM for MongoDB, based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://docs.pydantic.dev/), which supports data and schema migrations out of the box.
+*   [Beanie (⭐1.4k)](https://github.com/roman-right/beanie) - Asynchronous Python ODM for MongoDB, based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://docs.pydantic.dev/latest/), which supports data and schema migrations out of the box.
 
 ### Open Source Projects / Other Tools
 
-*   [Universities (⭐56)](https://github.com/ycd/universities) - API service for obtaining information about +9600 universities worldwide.
+*   [Universities (⭐55)](https://github.com/ycd/universities) - API service for obtaining information about +9600 universities worldwide.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Log Management
 
-*   [logflare.app](https://logflare.app/) — Free for upto 12,960,000 entries per app per month, 3 days retention
+*   [logflare.app](https://logflare.app/) — Free for up to 12,960,000 entries per app per month, 3 days retention
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Serialization
 
-*   [lectra-tech/koson (⭐79)](https://github.com/lectra-tech/koson) - A concise and lightweight Kotlin DSL to build JSON objects and render their String representations
+*   [lectra-tech/koson (⭐85)](https://github.com/lectra-tech/koson) - A concise and lightweight Kotlin DSL to build JSON objects and render their String representations
 
 ## [7. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
@@ -60,7 +60,13 @@
 
 *   [Introduction to Data Analysis with R](https://jmbuhr.de/dataIntro20/) - This is a lecture series with videos, scripts and exercises introducing R and the tidyverse as well as statistical concepts.
 
-## [8. Public Apis](/content/public-apis/public-apis/README.md)
+## [8. Asdf Plugins](/content/asdf-vm/asdf-plugins/README.md)
+
+### Creating a new Plugin
+
+*   Read the [creating plugins guide (⭐19k)](https://github.com/asdf-vm/asdf/blob/master/docs/plugins/create.md)
+
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Authentication & Authorization
 
@@ -90,13 +96,13 @@
 
 
 
-## [9. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [10. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Database
 
 *   [xtdb (⭐2.3k)](https://github.com/xtdb/xtdb): bitemporal database for SQL, Datalog & graph queries
 
-## [10. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+## [11. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ### Books
 

@@ -14,7 +14,7 @@
 
 ## [2. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
-### United States 🇺🇸 / Massachusetts   <a id="massachusetts">  </a>
+### United States 🇺🇸 / Massachusetts <a id="massachusetts"></a>
 
 #### Pavement Coffeehouse
 
@@ -33,19 +33,19 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 ### Developer
 
 *   [Github (⭐2.8k)](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github.
-*   [npms (⭐354)](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io).
+*   [npms (⭐358)](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io).
 
 ## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [Keo (⭐226)](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support.
+*   [Keo (⭐227)](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support.
 
 ## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [Wire (⭐1k)](https://github.com/wireapp/wire-desktop) - Messenger and calling app.
+*   [Wire (⭐1.1k)](https://github.com/wireapp/wire-desktop) - Messenger and calling app.
 
 ## [6. Awesome Math](/content/rossant/awesome-math/README.md)
 

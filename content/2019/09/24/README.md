@@ -16,7 +16,7 @@
 
 ### Phishing awareness and reporting / Firewall appliances or distributions
 
-*   [Phishing Intelligence Engine (PIE) (⭐171)](https://github.com/LogRhythm-Labs/PIE) - Framework that will assist with the detection and response to phishing attacks.
+*   [Phishing Intelligence Engine (PIE) (⭐174)](https://github.com/LogRhythm-Labs/PIE) - Framework that will assist with the detection and response to phishing attacks.
 
 ## [3. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
 
@@ -176,31 +176,31 @@
 
 ### Tools
 
-*   [go-orbit-db (⭐270)](https://github.com/berty/go-orbit-db) - This is a Golang port of OrbitDB that intends to be fully compatible with the original JavaScript version. OrbitDB is a serverless, distributed, peer-to-peer database.
+*   [go-orbit-db (⭐363)](https://github.com/berty/go-orbit-db) - This is a Golang port of OrbitDB that intends to be fully compatible with the original JavaScript version. OrbitDB is a serverless, distributed, peer-to-peer database.
 
 ## [11. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Swift / Angular
+### Swift / Svelte
 
 *   [The Swift by Sundell](https://www.swiftbysundell.com/newsletter/). Introducing the Swift by Sundell monthly newsletter!
 
-### PHP / Angular
+### PHP / Svelte
 
 *   [Freek.dev](https://freek.dev/newsletter/). A bi weekly newsletter on modern PHP and Laravel.
 
-### Devops / Angular
+### Devops / Svelte
 
 *   [StatusCode Weekly](https://weekly.statuscode.com/). A weekly newsletter on Web operations, infrastructure, performance, and tooling, from the browser down to the metal.
 
-### Cloud Development / Angular
+### Cloud Development / Svelte
 
 *   [Last Week in AWS](https://www.lastweekinaws.com/). A weekly roundup of news from Amazon's cloud ecosystem.
 
-### Business/Finance / Angular
+### Business/Finance / Svelte
 
 *   [FBA monthly](https://www.fbamonthly.com/). FBA Monthly is an across-the-board summary of the month's most important news articles and blog posts regarding Amazon businesses. Only actual news, solutions, strategies, seller-to-seller tips and much more.
 
-### Miscellaneous / Angular
+### Entrepreneurship / Svelte
 
 *   [Founders Grid](https://smash.vc/founders-grid/). A weekly newsletter for startup founders that rounds up the best resources from startup ecosystem.
 
@@ -232,7 +232,7 @@
 
 ### Auth / Image Picker
 
-*   [Flutter AppAuth (⭐230)](https://github.com/MaikuB/flutter_appauth) <!--stargazers:MaikuB/flutter_appauth--> - Plugin that provides a wrapper around the AppAuth iOS and Android SDKs by [Michael Bui](https://github.com/MaikuB)
+*   [Flutter AppAuth (⭐252)](https://github.com/MaikuB/flutter_appauth) <!--stargazers:MaikuB/flutter_appauth--> - Plugin that provides a wrapper around the AppAuth iOS and Android SDKs by [Michael Bui](https://github.com/MaikuB)
 
 ### 🇦🇺 Australia / Misc
 
@@ -305,17 +305,13 @@
 ### Tools / Reverse Engineering
 
 *   [Simplify Android deobfuscator (⭐4.2k)](https://github.com/CalebFenton/simplify)
-*   [Andromeda (⭐682)](https://github.com/secrary/Andromeda) - Another basic command-line reverse engineering tool
+*   [Andromeda (⭐681)](https://github.com/secrary/Andromeda) - Another basic command-line reverse engineering tool
 
 ## [18. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Deep Learning / TensorFlow
 
 *   [tensorpack (⭐6.3k)](https://github.com/ppwwyyxx/tensorpack) - A Neural Net Training Interface on TensorFlow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
-
-### Probabilistic Methods / NLP
-
-*   [MXFusion (⭐101)](https://github.com/amzn/MXFusion) - Modular Probabilistic Programming on MXNet. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/mxnet_big.png" alt="MXNet based">
 
 ## [19. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
 

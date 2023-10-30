@@ -655,6 +655,7 @@ additional ordered map implementations.
 *   [cache2go (⭐2k)](https://github.com/muesli/cache2go) - In-memory key:value cache which supports automatic invalidation based on timeouts.
 *   [cachego (⭐304)](https://github.com/faabiosr/cachego) - Golang Cache component for multiple drivers.
 *   [clusteredBigCache (⭐43)](https://github.com/oaStuff/clusteredBigCache) - BigCache with clustering support and individual item expiration.
+*   [coherence-go-client (⭐7)](https://github.com/oracle/coherence-go-client) - Full implementation of Oracle Coherence cache API for Go applications using gRPC as network transport.
 *   [couchcache (⭐60)](https://github.com/codingsince1985/couchcache) - RESTful caching micro-service backed by Couchbase server.
 *   [fastcache (⭐1.9k)](https://github.com/VictoriaMetrics/fastcache) - fast thread-safe inmemory cache for big number of entries. Minimizes GC overhead.
 *   [GCache (⭐2.4k)](https://github.com/bluele/gcache) - Cache library with support for expirable Cache, LFU, LRU and ARC.

@@ -89,10 +89,6 @@
 
 ## [6. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
-### Websites / Wiki
-
-*   [Official Minecraft Wiki](https://minecraft.gamepedia.com/Minecraft_Wiki) - Minecraft Wiki is a complete resource for Minecraft, including gameplay, blocks, crafting, updates, events, mods, running a server, and resource packs.
-
 ### Websites / Forums
 
 *   [Minecraft Forums](https://www.minecraftforum.net/) - Official community forums, a great place to talk about the game.
@@ -100,7 +96,7 @@
 
 ### Mod Loaders / Archives
 
-*   [Minecraft Forge (⭐6k)](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods.
+*   [Minecraft Forge (⭐6.4k)](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods.
 *   [liteloader](http://www.liteloader.com/) - A lightweight mod loader for Minecraft designed to provide simple, high-performance and reliable loader functionality for mods which don't need to modify game mechanics.
 
 ### Mods / Performance
@@ -109,7 +105,7 @@
 
 ### Mods / Skins And Capes
 
-*   [Universal Skin Mod (⭐29)](https://github.com/RecursiveG/UniSkinMod) - A Minecraft Forge Mod allows players load custom skin & cape textures.
+*   [Universal Skin Mod (⭐28)](https://github.com/RecursiveG/UniSkinMod) - A Minecraft Forge Mod allows players load custom skin & cape textures.
 
 ### Softwares / Utilities
 

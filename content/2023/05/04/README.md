@@ -10,15 +10,15 @@
 
 ### Templates / Vue 3
 
-*   [vue3-ts-pinia-vant (⭐29)](https://github.com/zhousg/consult-patient-h5-vue3-ts-pinia-vant) - Vue3, Vant, Pinia, VueUse, TypeScript, SocketIO, Mobile Demo.
+*   [vue3-ts-pinia-vant (⭐62)](https://github.com/zhousg/consult-patient-h5-vue3-ts-pinia-vant) - Vue3, Vue Router, Pinia, Composition API, TypeScript, Vant4, VueUse, Axios, SocketIO, PostCSS, ESlint, Prettier, Husky, Lint-staged, Mock, Amap, QQ Login, Alipay Sandbox, Eruda, CI/CD, Vercel, Mobile Project.
 
 ### Templates / Solid
 
-*   [vitesse-lite-solid (⭐0)](https://github.com/Nauxscript/vitesse-lite-solid) - Lightweight Vite Starter Template for SolidJS.
+*   [vitesse-lite-solid (⭐6)](https://github.com/Nauxscript/vitesse-lite-solid) - Lightweight Vite Starter Template for SolidJS.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-svg-spritemap (⭐3)](https://github.com/g-makarov/vite-plugin-svg-spritemap) - Generates a SVG spritemap from multiple .svg files.
+*   [vite-plugin-svg-spritemap (⭐15)](https://github.com/g-makarov/vite-plugin-svg-spritemap) - Generates a SVG spritemap from multiple .svg files.
 
 ### Framework-agnostic Plugins / Transformers
 
@@ -28,16 +28,16 @@
 
 ### Search / Diagnostics
 
-*   [AckslD/muren.nvim (⭐170)](https://github.com/AckslD/muren.nvim/) - Multiple replacements through interactive UI.
+*   [AckslD/muren.nvim (⭐283)](https://github.com/AckslD/muren.nvim/) - Multiple replacements through interactive UI.
 
 ### Indent / Diagnostics
 
-*   [nvimdev/indentmini.nvim (⭐21)](https://github.com/nvimdev/indentmini.nvim) - A minimal and blazing fast indentline plugin by using nvim\_set\_decoration\_provide api.
+*   [nvimdev/indentmini.nvim (⭐64)](https://github.com/nvimdev/indentmini.nvim) - A minimal and blazing fast indentline plugin by using nvim\_set\_decoration\_provide api.
 
 ### Workflow / Diagnostics
 
-*   [m4xshen/hardtime.nvim (⭐19)](https://github.com/m4xshen/hardtime.nvim) - Helping you establish good command workflow and habit.
-*   [antonk52/bad-practices.nvim (⭐45)](https://github.com/antonk52/bad-practices.nvim) - Helping you give up bad practices in Vim.
+*   [m4xshen/hardtime.nvim (⭐522)](https://github.com/m4xshen/hardtime.nvim) - Helping you establish good command workflow and habit.
+*   [antonk52/bad-practices.nvim (⭐67)](https://github.com/antonk52/bad-practices.nvim) - Helping you give up bad practices in Vim.
 
 ## [3. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
@@ -51,11 +51,11 @@
 
 ### Client Libraries
 
-*   [Subsocial JS SDK (⭐25)](https://github.com/dappforce/subsocial-js) - A JS SDK for developers to build web3 social apps on top of Subsocial.
+*   [Subsocial JS SDK (⭐26)](https://github.com/dappforce/subsocial-js) - A JS SDK for developers to build web3 social apps on top of Subsocial.
 
 ### Tools
 
-*   [SubID (⭐4)](https://github.com/dappforce/subid) - An advanced cross-chain portfolio management tool for the Polkadot ecosystem, allowing any user to see their balances across chains; view their crowdloan history; view their NFTs across Polkadot ecosystem chains; claim their vested tokens and perform cross-chain transfers.
+*   [SubID (⭐5)](https://github.com/dappforce/subid) - An advanced cross-chain portfolio management tool for the Polkadot ecosystem, allowing any user to see their balances across chains; view their crowdloan history; view their NFTs across Polkadot ecosystem chains; claim their vested tokens and perform cross-chain transfers.
 *   [Subsocial SDK Playground](https://play.subsocial.network) - Subsocial JS SDK Playground allows you to fetch spaces, send transactions on blockchain and test the SDK code snippets on the go without the need to download or setup anything locally.
 
 ## [4. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
@@ -71,7 +71,7 @@
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [lazy-load (⭐0)](https://github.com/goarano/zsh-lazy-load) - Lazy load tab completions only when you actually need them.
 *   [oh-my-tmux-manager](https://github.com/unixorn/awesome-zsh-plugins/blob/main/README.md/omt-manager) - Lets you easily manage your tmux configurations.

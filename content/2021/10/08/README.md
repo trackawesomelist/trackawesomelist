@@ -31,17 +31,17 @@
 
 ### Components & Libraries / UI Layout
 
-*   [iron-grid-system (⭐3)](https://github.com/ilker0/iron-grid-system) - A responsive grid system for Vue 3.x.
+*   [iron-grid-system (⭐4)](https://github.com/ilker0/iron-grid-system) - A responsive grid system for Vue 3.x.
 
 ### Components & Libraries / Scaffold
 
-*   [vuejs-vuetify-structured-template boilerplate (⭐23)](https://github.com/huogerac/crud-vuetify-structured-template) - A vue-cli template for a full-featured Vuejs + Vuetify + Great structure + API Ready
+*   [vuejs-vuetify-structured-template boilerplate (⭐25)](https://github.com/huogerac/crud-vuetify-structured-template) - A vue-cli template for a full-featured Vuejs + Vuetify + Great structure + API Ready
 
 ## [4. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Employment
 
-*   [Longitudinal Employer-Household Dynamics (LEHD)](https://lehd.ces.census.gov/) -  The LEHD program combines these administrative data, and data from censuses and surveys. From these data, the program creates statistics on employment, earnings, and job flows at detailed levels of geography and industry and for different demographic groups. Additional Information: [On The Map Download Page](https://onthemap.ces.census.gov/).
+*   [Longitudinal Employer-Household Dynamics (LEHD)](https://lehd.ces.census.gov/) - The LEHD program combines administrative data, and data from censuses and surveys. From these data, the program creates statistics on employment, earnings, and job flows at detailed levels of geography and industry and for different demographic groups. Additional Information: [On The Map Download Page](https://onthemap.ces.census.gov/).
 
 ### Public Data Resources / Equity and Environmental Justice
 
@@ -54,7 +54,7 @@
 
 ### Planning Data Specifications / Transportation
 
-*   [CurbLR](https://www.curblr.org) -  An open data specification for curb regulations maintained by SharedStreets. Additional Information: [GitHub](https://www.github.com/sharedstreets/curblr), Demo: Interactive [map and example feed](https://demo.curblr.org/), Blog post: [Why CurbLR was built](https://medium.com/sharedstreets/crossroads-for-the-curb-be3137154148).
+*   [CurbLR](https://www.curblr.org) - An open data specification for curb regulations maintained by SharedStreets. Additional Information: [GitHub](https://www.github.com/sharedstreets/curblr), Demo: Interactive [map and example feed](https://demo.curblr.org/), Blog post: [Why CurbLR was built](https://medium.com/sharedstreets/crossroads-for-the-curb-be3137154148).
 
 ### Platforms and Software Resources / Geospatial Data and Visualization
 
@@ -76,85 +76,75 @@
 
 ### Recruitment / Interview
 
-*   [Engineering Leadership Interviews (⭐77)](https://github.com/kaushikb9/em-interviews) - An outline on how to recruit for engineering manager roles.
+*   [Engineering Leadership Interviews (⭐93)](https://github.com/kaushikb9/em-interviews) - An outline on how to recruit for engineering manager roles.
 
 ### Cognitive Tools / Collections
 
-*   [Awesome Concepts (⭐421)](https://github.com/lukasz-madon/awesome-concepts) - Laws, principles, mental models and cognitive biases.
-
-### Engineering / Engineering Practices
-
-*   [How to Misuse Code Coverage](http://www.testingeducation.org/BBST/foundations/Marick_coverage.pdf) - “If a part of your test suite is weak in a way that coverage can detect, it's likely also weak in a way coverage can't detect.” I.e. the great benefit of a coverage report is that it tells you what you forgot to think about when you wrote the test suite itself ([source](https://news.ycombinator.com/item?id=28678098)).
+*   [Awesome Concepts (⭐454)](https://github.com/lukasz-madon/awesome-concepts) - Laws, principles, mental models and cognitive biases.
 
 ## [8. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Accounting / Bookkeeping
 
-*   [Ledger (⭐627)](https://github.com/numary/ledger) - A scriptable financial ledger, designed to make it easy to model complex financial transactions.
-*   [Akaunting (⭐6.1k)](https://github.com/akaunting/akaunting) - Open source software designed for small businesses and freelancers.
+*   [Ledger (⭐700)](https://github.com/numary/ledger) - A scriptable financial ledger, designed to make it easy to model complex financial transactions.
+*   [Akaunting (⭐6.6k)](https://github.com/akaunting/akaunting) - Open source software designed for small businesses and freelancers.
 
 ## [9. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
 ### Account Management
 
-*   [SuperTokens (⭐8.6k)](https://github.com/supertokens/supertokens-core) - Open-source project for login and session management which supports passwordless, social login, email and phone logins.
+*   [SuperTokens (⭐10k)](https://github.com/supertokens/supertokens-core) - Open-source project for login and session management which supports passwordless, social login, email and phone logins.
 *   [UserFrosting (⭐1.6k)](https://github.com/userfrosting/UserFrosting) - Modern PHP user login and management framework.
 
-### Authentication / Multi-Factor
+### Multi-factor auth / Identifiers
 
-*   [Authelia (⭐16k)](https://github.com/authelia/authelia) - Open-source authentication and authorization server providing two-factor authentication and single sign-on (SSO) for your applications via a web portal.
+*   [Authelia (⭐18k)](https://github.com/authelia/authelia) - Open-source authentication and authorization server providing two-factor authentication and single sign-on (SSO) for your applications via a web portal.
 
-### Authentication / JWT
+### Password-less auth / JWT
 
-*   [jwtXploiter (⭐219)](https://github.com/DontPanicO/jwtXploiter) - A tool to test security of json web token.
+*   [jwtXploiter (⭐246)](https://github.com/DontPanicO/jwtXploiter) - A tool to test security of json web token.
 
-## [10. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
-
-### Scala / Flask
-
-*   [ScalaによるWebアプリケーション開発 (⭐2.2k)](https://github.com/hatena/Hatena-Textbook/blob/master/web-application-development-scala.md) - はてな教科書
-
-## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Configuration
 
-*   [uchuhimo/konf (⭐293)](https://github.com/uchuhimo/konf) - A type-safe cascading configuration library for Kotlin/Java, supporting most configuration formats
+*   [uchuhimo/konf (⭐300)](https://github.com/uchuhimo/konf) - A type-safe cascading configuration library for Kotlin/Java, supporting most configuration formats
 
-## [12. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [11. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / IDS / IPS / Host IDS / Host IPS
 
-*   [CrowdSec (⭐6.6k)](https://github.com/crowdsecurity/crowdsec) - CrowdSec is a free, modern & collaborative behavior detection engine, coupled with a global IP reputation network. It stacks on Fail2Ban's philosophy but is IPV6 compatible and 60x faster (Go vs Python), uses Grok patterns to parse logs and YAML scenario to identify behaviors. CrowdSec is engineered for modern Cloud / Containers / VM based infrastructures (by decoupling detection and remediation). Once detected, you can remedy threats with various bouncers (firewall block, nginx http 403, Captchas, etc.) while the aggressive IPs can be sent to CrowdSec for curation before being shared among all users to further strengthen the community
+*   [CrowdSec (⭐7.1k)](https://github.com/crowdsecurity/crowdsec) - CrowdSec is a free, modern & collaborative behavior detection engine, coupled with a global IP reputation network. It stacks on Fail2Ban's philosophy but is IPV6 compatible and 60x faster (Go vs Python), uses Grok patterns to parse logs and YAML scenario to identify behaviors. CrowdSec is engineered for modern Cloud / Containers / VM based infrastructures (by decoupling detection and remediation). Once detected, you can remedy threats with various bouncers (firewall block, nginx http 403, Captchas, etc.) while the aggressive IPs can be sent to CrowdSec for curation before being shared among all users to further strengthen the community
 
-## [13. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [12. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / jQuery
 
 *   [Top JQuery Interview Questions and Answers](https://www.techgeekbuzz.com/top-jquery-interview-questions/)
 
-## [14. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [13. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Apps / VPN
 
 *   [Yagna httpx client (⭐2)](https://github.com/golemfactory/ya-httpx-client/tree/johny-b/vpn) - VPN usage on Yagna demonstrating communication with a provider-based HTTP server the way you communicate with any other HTTP server.
 
-## [15. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [14. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Operating systems / Build system (ROS2)
 
-*   [ReconROS (⭐15)](https://github.com/Lien182/ReconROS) - Framework for ROS2 FPGA-based hardware acceleration. Based on [ReconOS (⭐27)](https://github.com/reconos/reconos). ![ReconROS](https://img.shields.io/github/stars/Lien182/ReconROS.svg)
+*   [ReconROS (⭐16)](https://github.com/Lien182/ReconROS) - Framework for ROS2 FPGA-based hardware acceleration. Based on [ReconOS (⭐27)](https://github.com/reconos/reconos). ![ReconROS](https://img.shields.io/github/stars/Lien182/ReconROS.svg)
 
-## [16. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [15. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [Umbraco (⭐3.7k)](https://github.com/umbraco/umbraco-cms) - An extensible and friendly Open source ASP.NET Core CMS
+*   [Umbraco (⭐4k)](https://github.com/umbraco/umbraco-cms) - An extensible and friendly Open source ASP.NET Core CMS
 
-## [17. Public Apis](/content/public-apis/public-apis/README.md)
+## [16. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Cryptocurrency
 
-- API: [Indodax (⭐88)](https://github.com/btcid/indodax-official-api-docs)
+- API: [Indodax (⭐97)](https://github.com/btcid/indodax-official-api-docs)
 
   Description: Trade your Bitcoin and other assets with rupiah
 
@@ -249,6 +239,16 @@
   CORS: Unknown
 
 
+
+## [17. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### JavaScript / React
+
+*   [React in patterns](https://krasimir.gitbooks.io/react-in-patterns/content) - Krasimir Tsonev
+
+### Python / Django
+
+*   [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/3.2.x/django.pdf) (PDF) (3.2)
 
 ---
 

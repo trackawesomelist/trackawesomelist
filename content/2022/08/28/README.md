@@ -10,25 +10,25 @@
 
 ### Spreadsheet / Runner
 
-*   [Frappe Datatable (⭐863)](https://github.com/frappe/datatable) - Frappe DataTable is a simple, modern and interactive datatable library for displaying tabular data.
+*   [Frappe Datatable (⭐918)](https://github.com/frappe/datatable) - Frappe DataTable is a simple, modern and interactive datatable library for displaying tabular data.
 
 ### String / Runner
 
-*   [url-state-machine (⭐178)](https://github.com/anonrig/url-js) - Super fast spec-compliant URL parser state machine for Node.js.
+*   [url-state-machine (⭐166)](https://github.com/anonrig/url-js) - Super fast spec-compliant URL parser state machine for Node.js.
 
 ### Storage / Runner
 
-*   [Dexie.js (⭐9.2k)](https://github.com/dexie/Dexie.js) - Dexie.js is a wrapper library for indexedDB.
+*   [Dexie.js (⭐9.7k)](https://github.com/dexie/Dexie.js) - Dexie.js is a wrapper library for indexedDB.
 
 ## [2. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ### Official plugins
 
-*   [Preferences (⭐357)](https://github.com/ionic-team/capacitor-plugins/tree/main/preferences) - Provides a simple key/value persistent store for lightweight data, ex Storage.
+*   [Preferences (⭐398)](https://github.com/ionic-team/capacitor-plugins/tree/main/preferences) - Provides a simple key/value persistent store for lightweight data, ex Storage.
 
 ### Community plugins
 
-*   [Electron (⭐247)](https://github.com/capacitor-community/electron) - Support for the Electron platform.
+*   [Electron (⭐263)](https://github.com/capacitor-community/electron) - Support for the Electron platform.
 
 ## [3. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -40,19 +40,19 @@
 
 ### Image Synthesis / Promptism
 
-*   [apple/ml-no-token-left-behind (⭐129)](https://github.com/apple/ml-no-token-left-behind): PyTorch Implementation of No Token Left Behind: Explainability-Aided Image Classification and Generation
+*   [apple/ml-no-token-left-behind (⭐135)](https://github.com/apple/ml-no-token-left-behind): PyTorch Implementation of No Token Left Behind: Explainability-Aided Image Classification and Generation
 
 ### Image Synthesis / Generative Adversarial Networks (GANs)
 
-*   [yuval-alaluf/stylegan3-editing (⭐572)](https://github.com/yuval-alaluf/stylegan3-editing): Official Implementation of "Third Time's the Charm? Image and Video Editing with StyleGAN3" <https://arxiv.org/abs/2201.13433>
-*   [autonomousvision/projected\_gan (⭐834)](https://github.com/autonomousvision/projected_gan): \[NeurIPS'21] Projected GANs Converge Faster
+*   [yuval-alaluf/stylegan3-editing (⭐616)](https://github.com/yuval-alaluf/stylegan3-editing): Official Implementation of "Third Time's the Charm? Image and Video Editing with StyleGAN3" <https://arxiv.org/abs/2201.13433>
+*   [autonomousvision/projected\_gan (⭐862)](https://github.com/autonomousvision/projected_gan): \[NeurIPS'21] Projected GANs Converge Faster
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Font
 
 *   [Bunny](https://bunny.net)
-    *   [Bunny Fonts](https://fonts.bunny.net/) - All the Google Fonts with Google Fonts drop-in compatible API. Privacy oriented!.
+    *   [Bunny Fonts](https://fonts.bunny.net/) - All the Google Fonts with Google Fonts drop-in compatible API. Privacy oriented!
     *   [Bunny DNS](https://bunny.net/dns/) - DNS hosting, 20 million free queries
 
 ### CDN and Protection
@@ -65,11 +65,11 @@
 
 ### Utility / Diagnostics
 
-*   [nguyenvukhang/nvim-toggler (⭐95)](https://github.com/nguyenvukhang/nvim-toggler) - Invert text, such as toggling between `true` and `false`.
+*   [nguyenvukhang/nvim-toggler (⭐125)](https://github.com/nguyenvukhang/nvim-toggler) - Invert text, such as toggling between `true` and `false`.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [nvim-lua/kickstart.nvim (⭐5.3k)](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal Neovim configuration.
+*   [nvim-lua/kickstart.nvim (⭐8.3k)](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal Neovim configuration.
 
 ## [7. Awesome Esports](/content/Strift/awesome-esports/README.md)
 

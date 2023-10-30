@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 16, 2022
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Video / Barcode
 
-*   [YiVideoEditor (⭐99)](https://github.com/coderyi/YiVideoEditor) - a library for rotating, cropping, adding layers (watermark) and as well as adding audio (music) to the videos.
+*   [YiVideoEditor (⭐108)](https://github.com/coderyi/YiVideoEditor) - a library for rotating, cropping, adding layers (watermark) and as well as adding audio (music) to the videos.
 
 ## [2. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -31,7 +31,7 @@
 
 ## [4. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Marketing / Angular
+### Marketing / Svelte
 
 *   [The Content Odyssey](https://newsletter.mktodyssey.com/). Biweekly tried-and-tested content growth experiments.
 
@@ -44,17 +44,11 @@
 *   [`ossu/data-science`](https://github.com/ossu/data-science) (see also [`ossu/computer-science`](https://github.com/ossu/computer-science))
 *   Prof. Mark A. Girolami's [Machine Learning Module (GitHub Mirror). (⭐440)](https://github.com/josephmisiti/machine-learning-module) "Good for people with a strong mathematics background."
 
-## [6. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
-
-### Resources / Presets
-
-*   ⭐ [Laravel Inertia Preset (⭐78)](https://github.com/laravel-presets/inertia) - One-command Laravel preset with Tailwind CSS, Vite, Inertia.js and Vue.js.
-
-## [7. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+## [6. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### Articles and Presentations / Hardware Offload
 
-*   [hBPF - eBPF in hardware (⭐350)](https://github.com/rprinz08/hBPF) - An eBPF CPU written for FPGAs.
+*   [hBPF - eBPF in hardware (⭐368)](https://github.com/rprinz08/hBPF) - An eBPF CPU written for FPGAs.
 
 ---
 

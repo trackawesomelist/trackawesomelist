@@ -21,9 +21,7 @@
     *   [Wikipedia's List of Web Archiving Initiatives](https://en.wikipedia.org/wiki/List_of_Web_archiving_initiatives)
     *   [Glossary of Archive-It and Web Archiving Terms](https://support.archive-it.org/hc/en-us/articles/208111686-Glossary-of-Archive-It-and-Web-Archiving-Terms)
     *   [The Web Archiving Lifecycle Model](https://archive-it.org/blog/post/announcing-the-web-archiving-life-cycle-model/) - The Web Archiving Lifecycle Model is an attempt to incorporate the technological and programmatic arms of the web archiving into a framework that will be relevant to any organization seeking to archive content from the web. Archive-It, the web archiving service from the Internet Archive, developed the model based on its work with memory institutions around the world.
-    *   [Training materials: module for beginners (8 sessions)](https://netpreserve.org/web-archiving/training-materials/)
-    *   [UNT Web Archiving Course 2022 (⭐14)](https://github.com/vphill/web-archiving-course)
-    *   [Continuing Education to Advance Web Archiving (CEDWARC)](https://cedwarc.github.io/)
+    *   [Retrieving and Archiving Information from Websites by Wael Eskandar and Brad Murray](https://kit.exposingtheinvisible.org/en/web-archive.html/)
 
 ### Tools & Software / WARC I/O Libraries
 
@@ -31,7 +29,7 @@
 
 ### Tools & Software / Analysis
 
-*   [Archives Research Compute Hub (⭐5)](https://github.com/internetarchive/arch) - Web application for distributed compute analysis of Archive-It web archive collections. *(Stable)*
+*   [Archives Research Compute Hub (⭐11)](https://github.com/internetarchive/arch) - Web application for distributed compute analysis of Archive-It web archive collections. *(Stable)*
 
 ## [3. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -45,21 +43,21 @@
 
 ## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
-*   [terramate (⭐1.4k)](https://github.com/mineiros-io/terramate) - Tool for managing multiple Terraform stacks that comes with support for change detection and code generation
+*   [terramate (⭐2.6k)](https://github.com/mineiros-io/terramate) - Tool for managing multiple Terraform stacks that comes with support for change detection and code generation
 
 ## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Tools
 
-*   [SonarSource/sonarlint-intellij (⭐530)](https://github.com/SonarSource/sonarlint-intellij) - An IDE extension that helps you detect and fix quality issues as you write code.
+*   [SonarSource/sonarlint-intellij (⭐556)](https://github.com/SonarSource/sonarlint-intellij) - An IDE extension that helps you detect and fix quality issues as you write code.
 
 ## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### PDF
 
-*   [Kevsoft.PDFtk (⭐23)](https://github.com/kevbite/Kevsoft.PDFtk) - A wrapper to drive the awesome pdftk binary, which can fill PDF forms, get field information, concatenate multiple documents or pages, split documents, add or replace stamps, and can attach files to or download files from pages.
+*   [Kevsoft.PDFtk (⭐25)](https://github.com/kevbite/Kevsoft.PDFtk) - A wrapper to drive the awesome pdftk binary, which can fill PDF forms, get field information, concatenate multiple documents or pages, split documents, add or replace stamps, and can attach files to or download files from pages.
 
 ## [7. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -71,7 +69,7 @@
 
 ### Machine Learning
 
-*   [ONNX runtime (⭐9.3k)](https://github.com/microsoft/onnxruntime) - C and C++ library for training and inference ONNX models. ONNX is a standard that AI models can be converted into, regardless of the library they are trained with. \[MIT] [website](https://onnxruntime.ai/)
+*   [ONNX runtime (⭐11k)](https://github.com/microsoft/onnxruntime) - C and C++ library for training and inference ONNX models. ONNX is a standard that AI models can be converted into, regardless of the library they are trained with. \[MIT] [website](https://onnxruntime.ai/)
 
 ## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

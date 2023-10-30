@@ -115,13 +115,13 @@
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [TensorFlow (⭐279)](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow.
+*   [TensorFlow (⭐281)](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow.
 
 ## [6. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
-### Libraries and Frameworks / JavaScript
+### Libraries and Frameworks / JavaScript / TypeScript
 
-*   [Node API Boilerplate (⭐3k)](https://github.com/talyssonoc/node-api-boilerplate) - NodeJS web API boilerplate for DDD and Clean Architecture applications.
+*   [Node API Boilerplate (⭐3.2k)](https://github.com/talyssonoc/node-api-boilerplate) - NodeJS web API boilerplate for DDD and Clean Architecture applications.
 
 ## [7. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -139,17 +139,17 @@
 
 ### For Developers / Directory Navigation
 
-*   [starring (⭐155)](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
+*   [starring (⭐154)](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
 
 ## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Graphics
 
-*   [veldrid (⭐2.1k)](https://github.com/mellinoe/veldrid) - A low-level, hardware-accelerated 3D graphics library for .NET.
+*   [veldrid (⭐2.3k)](https://github.com/mellinoe/veldrid) - A low-level, hardware-accelerated 3D graphics library for .NET.
 
 ### Starter Kits / Workflow
 
-*   [dotNetify (⭐1.1k)](https://github.com/dsuryd/dotNetify) - Simple, lightweight, yet powerful way to build real-time HTML5/C# .NET web apps.
+*   [dotNetify (⭐1.2k)](https://github.com/dsuryd/dotNetify) - Simple, lightweight, yet powerful way to build real-time HTML5/C# .NET web apps.
 
 ## [11. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
 
@@ -165,7 +165,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [itunes-remote (⭐422)](https://github.com/mischah/itunes-remote) - Software for controlling iTunes via the terminal. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mischah/itunes-remote) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [itunes-remote (⭐428)](https://github.com/mischah/itunes-remote) - Software for controlling iTunes via the terminal. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mischah/itunes-remote) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Databases
 

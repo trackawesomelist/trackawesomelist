@@ -172,15 +172,15 @@
 
 ### Chat
 
-*   [Real-time Chat with Firebase (⭐675)](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
+*   [Real-time Chat with Firebase (⭐708)](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
 
 ### UI / Barcode
 
-*   [GradientProgressBar (⭐515)](https://github.com/fxm90/GradientProgressBar) - An animated gradient progress bar.
+*   [GradientProgressBar (⭐527)](https://github.com/fxm90/GradientProgressBar) - An animated gradient progress bar.
 
 ### UITableView / Barcode
 
-*   [CollapsibleTableSectionViewController (⭐349)](https://github.com/jeantimex/CollapsibleTableSectionViewController) - A library to support collapsible sections in a table view.
+*   [CollapsibleTableSectionViewController (⭐353)](https://github.com/jeantimex/CollapsibleTableSectionViewController) - A library to support collapsible sections in a table view.
 
 ## [8. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
 
@@ -293,16 +293,16 @@
 
 ### Front-End Development
 
-*   [CSS (⭐4.4k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
+*   [CSS (⭐4.6k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
     *   [Critical-Path Tools (⭐1.1k)](https://github.com/addyosmani/critical-path-css-tools#readme)
     *   [Scalability (⭐1.5k)](https://github.com/davidtheclark/scalable-css-reading-list#readme)
-    *   [Must-Watch Talks (⭐4.5k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
-    *   [Protips (⭐25k)](https://github.com/AllThingsSmitty/css-protips#readme)
-    *   [Frameworks (⭐6.1k)](https://github.com/troxler/awesome-css-frameworks#readme)
+    *   [Must-Watch Talks (⭐4.6k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
+    *   [Protips (⭐26k)](https://github.com/AllThingsSmitty/css-protips#readme)
+    *   [Frameworks (⭐6.6k)](https://github.com/troxler/awesome-css-frameworks#readme)
 
 ### Gaming
 
-*   [PICO-8 (⭐2.3k)](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
+*   [PICO-8 (⭐2.4k)](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
 
 ## [15. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
 

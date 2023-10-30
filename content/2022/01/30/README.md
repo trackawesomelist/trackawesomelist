@@ -16,7 +16,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐568)](https://github.com/aws-amplify/amplify-ui/)
+  Source code \*: [:octocat: (⭐698)](https://github.com/aws-amplify/amplify-ui/)
 
 
 
@@ -31,7 +31,7 @@
 
 ### Endpoint / Anti-Virus / Anti-Malware
 
-*   [Fastfinder (⭐181)](https://github.com/codeyourweb/fastfinder) - Fast customisable cross-platform suspicious file finder. Supports md5/sha1/sha256 hashs, litteral/wildcard strings, regular expressions and YARA rules. Can easily be packed to be deployed on any windows / linux host.
+*   [Fastfinder (⭐208)](https://github.com/codeyourweb/fastfinder) - Fast customisable cross-platform suspicious file finder. Supports md5/sha1/sha256 hashs, litteral/wildcard strings, regular expressions and YARA rules. Can easily be packed to be deployed on any windows / linux host.
 
 ## [4. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
@@ -55,39 +55,39 @@
 
 ### Form Components / Type Select
 
-*   [rich-textarea (⭐191)](https://github.com/inokawa/rich-textarea) - A textarea to colorize, highlight, decorate texts and offer autocomplete.
+*   [rich-textarea (⭐230)](https://github.com/inokawa/rich-textarea) - A textarea to colorize, highlight, decorate texts and offer autocomplete.
 
 ## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
-*   [MetaTube (⭐192)](https://github.com/JVT038/MetaTube) `⚠` - A Web GUI to automatically download music from YouTube add metadata from Spotify, Deezer or Musicbrainz. `GPL-3.0` `Python`
+*   [MetaTube (⭐234)](https://github.com/JVT038/MetaTube) `⚠` - A Web GUI to automatically download music from YouTube add metadata from Spotify, Deezer or Musicbrainz. `GPL-3.0` `Python`
 
 ### Software / Feed Readers
 
-*   [JARR](https://1pxsolidblack.pl/jarr-en.html) - JARR (Just Another RSS Reader) is a web-based news aggregator and reader (fork of Newspipe). ([Demo](https://www.jarr.info/), [Source Code (⭐103)](https://github.com/jaesivsm/JARR)) `AGPL-3.0` `Python`
+*   [JARR](https://1pxsolidblack.pl/jarr-en.html) - JARR (Just Another RSS Reader) is a web-based news aggregator and reader (fork of Newspipe). ([Demo](https://www.jarr.info/), [Source Code (⭐112)](https://github.com/jaesivsm/JARR)) `AGPL-3.0` `Docker/Python`
 
 ### Software / Internet of Things (IoT)
 
-*   [SIP Irrigation Control](https://dan-in-ca.github.io/SIP/) - Open source software for sprinkler/irrigation control. ([Source Code (⭐292)](https://github.com/Dan-in-CA/SIP)) `GPL-3.0` `Python`
+*   [SIP Irrigation Control](https://dan-in-ca.github.io/SIP/) - Open source software for sprinkler/irrigation control. ([Source Code (⭐323)](https://github.com/Dan-in-CA/SIP)) `GPL-3.0` `Python`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Supysonic (⭐239)](https://github.com/spl0k/supysonic) - Python implementation of the Subsonic server API. `AGPL-3.0` `Python`
+*   [Supysonic (⭐250)](https://github.com/spl0k/supysonic) - Python implementation of the Subsonic server API. `AGPL-3.0` `Python`
 
 ### Software / Office Suites
 
-*   [Grist](https://getgrist.com/) - Grist is a next-generation spreadsheet with relational structure, formula-based access control, and a portable, self-contained format. Alternative to Airtable. ([Demo](https://docs.getgrist.com), [Source Code (⭐3.9k)](https://github.com/gristlabs/grist-core)) `Apache-2.0` `Nodejs/Python`
+*   [Grist](https://getgrist.com/) - Grist is a next-generation spreadsheet with relational structure, formula-based access control, and a portable, self-contained format (alternative to Airtable). ([Demo](https://docs.getgrist.com), [Source Code (⭐4.2k)](https://github.com/gristlabs/grist-core)) `Apache-2.0` `Nodejs/Python/Docker`
 
 ### Software / Pastebins
 
-*   [wantguns/bin (⭐123)](https://github.com/wantguns/bin) - Minimal pastebin for both textual and binary files shipped in a single statically linked binary. ([Demo](https://basedbin.fly.dev)) `GPL-3.0` `Rust`
+*   [wantguns/bin (⭐150)](https://github.com/wantguns/bin) - Minimal pastebin for both textual and binary files shipped in a single statically linked binary. ([Demo](https://basedbin.fly.dev)) `GPL-3.0` `Rust/Docker`
 
 ## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [aminography/PrimeCalendar (⭐55)](https://github.com/aminography/PrimeCalendar) - Provides all of the java.util.Calendar functionalities for Civil, Persian, Hijri, Japanese, etc, as well as their conversion to each other.
+*   [aminography/PrimeCalendar (⭐63)](https://github.com/aminography/PrimeCalendar) - Provides all of the java.util.Calendar functionalities for Civil, Persian, Hijri, Japanese, etc, as well as their conversion to each other.
 
 ## [10. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -98,13 +98,13 @@
 
 ### Overview / Other services
 
-*   [NoPaste (⭐238)](https://github.com/bokub/nopaste): NoPaste is an open-source website similar to Pastebin where you can store any piece of code, and generate links for easy sharing
+*   [NoPaste (⭐263)](https://github.com/bokub/nopaste): NoPaste is an open-source website similar to Pastebin where you can store any piece of code, and generate links for easy sharing
 
 ## [11. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### CI/CD
 
-*   [Gitpod](https://www.gitpod.io/) - Automated cloud dev environments.
+*   [Gitpod](https://www.gitpod.io/) - Automated cloud dev environments. ![Gitpod](https://img.shields.io/github/contributors-anon/gitpod-io/gitpod?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ## [12. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -122,19 +122,19 @@
 
 ### Bayesian Modeling / Generative Model
 
-*   [Learning Energy-Based Models by Diffusion Recovery Likelihood](https://openreview.net/forum?id=v_1Soh8QUNc) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=4399294843209736764)]. \[[Code (⭐41)](https://github.com/ruiqigao/recovery_likelihood)].
+*   [Learning Energy-Based Models by Diffusion Recovery Likelihood](https://openreview.net/forum?id=v_1Soh8QUNc) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=4399294843209736764)]. \[[Code (⭐44)](https://github.com/ruiqigao/recovery_likelihood)].
 
 ## [14. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Crates / Utils
 
-*   [Yew Interop (⭐35)](https://github.com/Madoshakalaka/yew-interop) - Load JavaScript and CSS asynchronously in Yew.
+*   [Yew Interop (⭐39)](https://github.com/Madoshakalaka/yew-interop) - Load JavaScript and CSS asynchronously in Yew.
 
 ## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Design and UI
 
-*   [svgrepo.com](https://www.svgrepo.com/) - Explore, search and find the best fitting icons or vectors for your projects using wide variety vector library. Download free SVG Vectors for commercial use.
+*   [svgrepo.com](https://www.svgrepo.com/) - Explore, search, and find the best-fitting icons or vectors for your projects using various vector libraries. Download free SVG Vectors for commercial use.
 
 ---
 

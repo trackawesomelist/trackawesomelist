@@ -26,7 +26,7 @@
 
 ### Writing / Social Sciences
 
-*   [Statistical Physics (⭐36)](https://github.com/emptymalei/statisticalphysics)
+*   [Statistical Physics (⭐42)](https://github.com/emptymalei/statisticalphysics)
 *   [Neutrino Physics (⭐6)](https://github.com/NeuPhysics/neutrino)
 
 ### Hosting / Social Sciences
@@ -52,7 +52,7 @@
 *   [Haroopad](http://pad.haroopress.com/)(`Mac`,`Win`,`Linux`): A powerful github flavored markdown editor with useful extensions. Math (mathjax) is supported.
 *   [jbt/markdown-editor](http://jbt.github.io/markdown-editor/)(`Cloud`): Just another online Markdown editor without math support.
 *   [MarkdownPad](http://markdownpad.com/) (`Win`): If you have no bad feelings about .NET, this is pretty good.
-*   [ReText (⭐1.6k)](https://github.com/retext-project/retext) (`Mac`,`Win`,`Linux`): ReText one of the best, even on Linux. It also supports reStructuredText input.
+*   [ReText (⭐1.7k)](https://github.com/retext-project/retext) (`Mac`,`Win`,`Linux`): ReText one of the best, even on Linux. It also supports reStructuredText input.
 
 ### Editors / LaTeX
 
@@ -60,7 +60,7 @@
 
 ### IPython Notebook / LaTeX
 
-*   [Scientific Python Lectures (⭐3.3k)](https://github.com/jrjohansson/scientific-python-lectures)
+*   [Scientific Python Lectures (⭐3.4k)](https://github.com/jrjohansson/scientific-python-lectures)
 *   [Reproduced Papers](http://reproduced-papers.github.io/)
 *   [More (⭐16k)](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks): For more IPython notebook on GitHub please read this enormous list.
 
@@ -78,7 +78,7 @@
 ### Graph Making / HTML+CSS+JS
 
 *   [GeoGebra](http://www.geogebra.org/)(`Cloud`,`Mac`,`Win`,`Linux`,`Android`,`iOS`,`Win Store`): Geogebra is a very cool tool to make math graphs both 2D and 3D.
-*   [LaTeXDraw (⭐382)](https://github.com/arnobl/latexdraw)(`Linux`): "A vector drawing editor for LaTeX."
+*   [LaTeXDraw (⭐404)](https://github.com/arnobl/latexdraw)(`Linux`): "A vector drawing editor for LaTeX."
 *   [TikZ](http://www.texample.net/tikz/)(`LaTeX`)
 
 ### More / HTML+CSS+JS
@@ -191,11 +191,11 @@
 
 ### Registry
 
-*   [nrm (⭐2.4k)](https://github.com/Pana/nrm) - Registry manager.
+*   [nrm (⭐2.6k)](https://github.com/Pana/nrm) - Registry manager.
 
 ### Other
 
-*   [ntl (⭐872)](https://github.com/ruyadorno/ntl) - Interactive CLI menu to list & run npm tasks.
+*   [ntl (⭐886)](https://github.com/ruyadorno/ntl) - Interactive CLI menu to list & run npm tasks.
 
 ## [8. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 

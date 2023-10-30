@@ -16,19 +16,19 @@
 
 ### GUI
 
-*   [TablePlus (⭐2.9k)](https://github.com/TablePlus/TablePlus) - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more.
+*   [TablePlus (⭐3k)](https://github.com/TablePlus/TablePlus) - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more.
 
 ### Schema / Changes
 
-*   [2bass (⭐37)](https://github.com/CourseOrchestra/2bass) - Database configuration-as-code tool that utilizes concept of idempotent DDL scripts.
-*   [flyway (⭐7.1k)](https://github.com/flyway/flyway) - Database migration tool.
-*   [liquibase (⭐3.8k)](https://github.com/liquibase/liquibase) - Database-independent library for tracking, managing and applying database schema changes.
-*   [Pyrseas (⭐361)](https://github.com/perseas/Pyrseas) - Provides utilities to describe a PostgreSQL database schema as YAML.
+*   [2bass (⭐39)](https://github.com/CourseOrchestra/2bass) - Database configuration-as-code tool that utilizes concept of idempotent DDL scripts.
+*   [flyway (⭐7.4k)](https://github.com/flyway/flyway) - Database migration tool.
+*   [liquibase (⭐4.1k)](https://github.com/liquibase/liquibase) - Database-independent library for tracking, managing and applying database schema changes.
+*   [Pyrseas (⭐373)](https://github.com/perseas/Pyrseas) - Provides utilities to describe a PostgreSQL database schema as YAML.
 
 ### API / Samples
 
 *   [Prisma (⭐17k)](https://github.com/prismagraphql/prisma) -  Prisma turns your database into a realtime GraphQL API.
-*   [PostgREST (⭐20k)](https://github.com/PostgREST/postgrest) - REST API for any Postgres database.
+*   [PostgREST (⭐21k)](https://github.com/PostgREST/postgrest) - REST API for any Postgres database.
 
 ## [3. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -40,8 +40,8 @@
 
 ### Tools and frameworks
 
-*   [ember-visual-test (⭐24)](https://github.com/Cropster/ember-visual-test) - Simple visual regression testing for [Ember](https://emberjs.com/).
-*   [AET (⭐121)](https://github.com/Cognifide/aet) - Scalable testing tool providing visual regression testing, accessibility and performance validation, markup analysis and more.
+*   [ember-visual-test (⭐25)](https://github.com/Cropster/ember-visual-test) - Simple visual regression testing for [Ember](https://emberjs.com/).
+*   [AET (⭐132)](https://github.com/Cognifide/aet) - Scalable testing tool providing visual regression testing, accessibility and performance validation, markup analysis and more.
 
 ## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

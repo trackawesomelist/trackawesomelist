@@ -116,29 +116,29 @@
 
 ### Starters/Boilerplates / Other external resources
 
-*   [default\_rails\_template (⭐28)](https://github.com/infinum/default_rails_template) - Default template for generating new Rails applications.
+*   [default\_rails\_template (⭐26)](https://github.com/infinum/default_rails_template) - Default template for generating new Rails applications.
 *   [docker-Rails-Template (⭐130)](https://github.com/Ruby-Starter-Kits/Docker-Rails-Template) - A freshly updated version of "rails new", preconfigured to be run with Docker.
 *   [docker-rails (⭐1.1k)](https://github.com/ledermann/docker-rails)
 *   [jumpstart(excid3) (⭐1.1k)](https://github.com/excid3/jumpstart) - Easily jumpstart a new Rails application with a bunch of great features by default.
-*   [jumpstart(thomasvanholder) (⭐19)](https://github.com/thomasvanholder/jumpstart) - Template for set-up of Rails 6, Tailwind 2.0 and Devise.
-*   [kickoff\_tailwind (⭐461)](https://github.com/justalever/kickoff_tailwind) - A rapid Rails 6 application template for personal use bundled with Tailwind CSS.
-*   [rails-devise-graphql (⭐280)](https://github.com/zauberware/rails-devise-graphql) - A Rails 6 boilerplate to create your next Saas product. Preloaded with graphQL, devise, JWT, CanCanCan, RailsAdmin, Rubocop, Rspec, and more.
-*   [rails-template(mattbrictson)](https://github.com/mattbrictson/rails-template) - Application template for Rails 6 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.
-*   [rails-template(TristanToye) (⭐32)](https://github.com/TristanToye/rails-template) - MVP Ready Rails - A Template for Your Next Rails App
-*   [rails-template(ackama) (⭐138)](https://github.com/ackama/rails-template) - Application template for Rails 6.1 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.
-*   [rails-template(astrocket) (⭐74)](https://github.com/astrocket/rails-template) - Template for Rails 6.0 + Kubernetes + Webpacker + Stimulus + TailwindCSS + Let's Encrypt.
-*   [rails-template(dao42) (⭐381)](https://github.com/dao42/rails-template) - A best & newest & fastest rails 6.x template for senior rails developer.
-*   [rails-templates(lewagon)](https://github.com/lewagon/rails-templates) - Jump start your Rails development with Le Wagon best practices.
-*   [rails-templates(nimblehq) (⭐68)](https://github.com/nimblehq/rails-templates) - Our optimized Rails templates used in our projects.
-*   [rails-vue-template (⭐23)](https://github.com/scottrobertson/rails-vue-template) - An example of how to use VueJS as a single page application inside Rails using Webpacker.
+*   [jumpstart(thomasvanholder) (⭐20)](https://github.com/thomasvanholder/jumpstart) - Template for set-up of Rails 6, Tailwind 2.0 and Devise.
+*   [kickoff\_tailwind (⭐515)](https://github.com/justalever/kickoff_tailwind) - A rapid Rails 6 application template for personal use bundled with Tailwind CSS.
+*   [rails-devise-graphql (⭐278)](https://github.com/zauberware/rails-devise-graphql) - A Rails 6 boilerplate to create your next Saas product. Preloaded with graphQL, devise, JWT, CanCanCan, RailsAdmin, Rubocop, Rspec, and more.
+*   [rails-template(mattbrictson) (⭐1.1k)](https://github.com/mattbrictson/rails-template) - Application template for Rails 6 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.
+*   [rails-template(TristanToye) (⭐34)](https://github.com/TristanToye/rails-template) - MVP Ready Rails - A Template for Your Next Rails App
+*   [rails-template(ackama) (⭐204)](https://github.com/ackama/rails-template) - Application template for Rails 6.1 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.
+*   [rails-template(astrocket) (⭐77)](https://github.com/astrocket/rails-template) - Template for Rails 6.0 + Kubernetes + Webpacker + Stimulus + TailwindCSS + Let's Encrypt.
+*   [rails-template(dao42) (⭐382)](https://github.com/dao42/rails-template) - A best & newest & fastest rails 6.x template for senior rails developer.
+*   [rails-templates(lewagon) (⭐627)](https://github.com/lewagon/rails-templates) - Jump start your Rails development with Le Wagon best practices.
+*   [rails-templates(nimblehq) (⭐92)](https://github.com/nimblehq/rails-templates) - Our optimized Rails templates used in our projects.
+*   [rails-vue-template (⭐24)](https://github.com/scottrobertson/rails-vue-template) - An example of how to use VueJS as a single page application inside Rails using Webpacker.
 *   [suspenders (⭐3.9k)](https://github.com/thoughtbot/suspenders) - A Rails template with our standard defaults, ready to deploy to Heroku.
-*   [vuejs-rails-starterkit (⭐221)](https://github.com/jetthoughts/vuejs-rails-starterkit) - Vue.js + Rails Starting Kit GitHub Template to develop Hybrid Mobile Application.
+*   [vuejs-rails-starterkit (⭐218)](https://github.com/jetthoughts/vuejs-rails-starterkit) - Vue.js + Rails Starting Kit GitHub Template to develop Hybrid Mobile Application.
 
 ## [7. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Rendering/Publishing/Conversion
 
-*   [ContainDS Dashboards (⭐184)](https://github.com/ideonate/cdsdashboards) - JupyterHub extension to host authenticated scripts or notebooks in any framework (Voilà, Streamlit, Plotly Dash etc).
+*   [ContainDS Dashboards (⭐190)](https://github.com/ideonate/cdsdashboards) - JupyterHub extension to host authenticated scripts or notebooks in any framework (Voilà, Streamlit, Plotly Dash etc).
 
 ## [8. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -148,9 +148,9 @@
 
 ## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-### Software / Calendar & Contacts - CalDAV or CardDAV Servers
+### Software / Calendar & Contacts
 
-*   [Etebase (EteSync)](https://www.etebase.com/) - End-to-end encrypted and journaled personal information server supporting calendar and contact data, offering its own clients. ([Source Code (⭐1.3k)](https://github.com/etesync/server)) `AGPL-3.0` `Python/Django`
+*   [Etebase (EteSync)](https://www.etebase.com/) - End-to-end encrypted and journaled personal information server supporting calendar and contact data, offering its own clients. ([Source Code (⭐1.4k)](https://github.com/etesync/server)) `AGPL-3.0` `Python/Django`
 
 ## [10. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -162,13 +162,13 @@
 
 ### Third-Party Packages / Testing
 
-*   [drf-openapi-tester (⭐112)](https://github.com/snok/drf-openapi-tester) - Django test utility for validating Swagger 2.0 and OpenAPI 3.0 documentation.
+*   [drf-openapi-tester (⭐121)](https://github.com/snok/drf-openapi-tester) - Django test utility for validating Swagger 2.0 and OpenAPI 3.0 documentation.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
-*   [Mijin (⭐192)](https://github.com/lecoueyl/mijin) - Responsive Tailwind CSS UI components, without dependencies
+*   [Mijin (⭐195)](https://github.com/lecoueyl/mijin) - Responsive Tailwind CSS UI components, without dependencies
 
 ## [13. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -182,30 +182,26 @@
 
 *   [heptapod.net](https://foss.heptapod.net/) — Heptapod is a friendly fork of GitLab Community Edition providing support for Mercurial
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [ipapi](https://ipapi.co/) - IP Address Location API by Kloudend, Inc - A reliable geolocation API, built on AWS, trusted by Fortune 500. Free tier offers 30k lookups/month (1k/day) without signup. Contact us for a higher limit trial plan.
+*   [ipapi](https://ipapi.co/) - IP Address Location API by Kloudend, Inc - A reliable geolocation API built on AWS, trusted by Fortune 500. The free tier offers 30k lookups/month (1k/day) without signup.
 *   [Kreya](https://kreya.app) — Free gRPC GUI client to call and test gRPC APIs. Can import gRPC APIs via server reflection.
 
 ### Tools for Teams and Collaboration
 
-*   [Braid](https://www.braidchat.com/) — Chat app designed for teams. Free for public access group, unlimited users, history, and integrations. also it provide self-hostable open-source version.
-*   [Fibery](https://fibery.io/) — Connected workspace platform. Free for single user, up to 2 GB disk space.
-*   [wormhol.org](https://www.wormhol.org/) — Straightforward file sharing service. Share unlimited files up to 5GB to as many peers as you want.
-*   [Zulip](https://zulip.com/) — Real-time chat with unique email-like threading model. Free plan includes 10,000 messages of search history and File storage up to 5 GB. also it provides self-hostable open-source version.
+*   [Braid](https://www.braidchat.com/) — Chat app designed for teams. Free for public access group, unlimited users, history, and integrations. also, it provides a self-hostable open-source version.
+*   [Fibery](https://fibery.io/) — Connected workspace platform. Free for single users, up to 2 GB disk space.
+*   [wormhol.org](https://www.wormhol.org/) — Straightforward file sharing service. Share unlimited files up to 5GB with as many peers as you want.
+*   [Zulip](https://zulip.com/) — Real-time chat with a unique email-like threading model. The free plan includes 10,000 messages of search history and File storage up to 5 GB. also, it provides a self-hostable open-source version.
 
 ### Code Quality
 
 *   [holistic.dev](https://holistic.dev/) - The #1 static code analyzer for Postgresql optimization. Performance, security, and architect database issues automatic detection service
 *   [parsers.dev](https://parsers.dev/) - Abstract syntax tree parsers and intermediate representation compilers as a service
 
-### Security and PKI
-
-*   [Cmd](https://cmd.com/) — Security platform providing real-time access control and dynamic policy enforcement on every Linux instance in your cloud or datacenter
-
 ### Management System
 
-*   [ploi.io](https://ploi.io/) - Server management tool to easily manage and deploy your servers & sites. Free for 1 server.
+*   [ploi.io](https://ploi.io/) - Server management tool to easily manage and deploy your servers & sites. Free for one server.
 
 ### Translation Management
 
@@ -213,45 +209,44 @@
 
 ### Monitoring
 
-*   [newrelic.com](https://www.newrelic.com) — New Relic observability platform built to help engineers create more perfect software. From monoliths to serverless, you can instrument everything, then analyze, troubleshoot, and optimize your entire software stack. Free tier offers 100GB/month of free data ingest, 1 free full access user, and unlimited free basic users.
-*   [thundra.io/apm](https://www.thundra.io/apm) — Application monitoring and debugging. Has a free tier up to 250k monthly invocations.
+*   [newrelic.com](https://www.newrelic.com) — New Relic observability platform built to help engineers create more perfect software. From monoliths to serverless, you can instrument everything and then analyze, troubleshoot, and optimize your entire software stack. The free tier offers 100GB/month of free data ingest, one free full-access user, and unlimited free primary users.
 
 ### Crash and Exception Handling
 
 *   [honeybadger.io](https://www.honeybadger.io) - Exception, uptime, and cron monitoring. Free for small teams and open-source projects (12,000 errors/month).
 
-### DBaaS
+### Managed Data Services
 
 *   [Upstash](https://upstash.com/) — Serverless Redis with free tier up to 10,000 requests per day, 256MB max database size, and 20 concurrent connections
-*   [SeaTable](https://seatable.io/) — Flexible, Spreadsheet-like Database built by Seafile team. unlimited tables, 2,000 lines, 1-month versioning, up to 25 team members.
+*   [SeaTable](https://seatable.io/) — Flexible, Spreadsheet-like Database built by the Seafile team. unlimited tables, 2,000 lines, 1-month versioning, up to 25 team members.
 
 ### Issue Tracking and Project Management
 
-*   [Linear](https://linear.app/) — Issue tracker with streamlined interface. Free for unlimited members, up to 10MB file upload size, 250 issues (excluding Archive)
-*   [MeisterTask](https://www.meistertask.com/) — Online task management for teams. Free up to 3 projects, unlimited project members.
-*   [Tara AI](https://tara.ai/) — Simple sprint management service. Free plan has unlimited tasks, sprints and workspaces, with no user limits.
-*   [teamwork.com](https://teamwork.com/) — Project management & Team Chat. Free for 5 users and 2 projects. Premium plans available.
+*   [Linear](https://linear.app/) — Issue tracker with a streamlined interface. Free for unlimited members, up to 10MB file upload size, 250 issues (excluding Archive)
+*   [MeisterTask](https://www.meistertask.com/) — Online task management for teams. Free up to 3 projects and unlimited project members.
+*   [Tara AI](https://tara.ai/) — Simple sprint management service. The free plan has unlimited tasks, sprints, and workspaces without user limits.
+*   [teamwork.com](https://teamwork.com/) — Project management & Team Chat. Free for five users and two projects. Premium plans are available.
 *   [Yodiz](https://www.yodiz.com/) — Agile development and issue tracking. Free up to 3 users, unlimited projects.
 
 ### Storage and Media Processing
 
-*   [cloudinary.com](https://cloudinary.com/) — Image upload, powerful manipulations, storage and delivery for sites and apps, with libraries for Ruby, Python, Java, PHP, Objective-C and more. Free tier includes 25 monthly credits. 1 credit is equal to 1,000 image transformations, 1 GB of storage, or 1 GB of CDN usage.
+*   [cloudinary.com](https://cloudinary.com/) — Image upload, powerful manipulations, storage, and delivery for sites and apps, with Ruby, Python, Java, PHP, Objective-C, and more libraries. The free tier includes 25 monthly credits. One credit equals 1,000 image transformations, 1 GB of storage, or 1 GB of CDN usage.
 
 ### Data Visualization on Maps
 
-*   [developers.arcgis.com](https://developers.arcgis.com) — APIs and SDKs for maps, geospatial data storage, analysis, geocoding, routing, and more across web, desktop, and mobile. 2,000,000 free basemap tiles, 20,000 non-stored geocodes, 20,000 simple routes, 5,000 drive time calculations, 5GB free tile+data storage per month.
+*   [developers.arcgis.com](https://developers.arcgis.com) — APIs and SDKs for maps, geospatial data storage, analysis, geocoding, routing, and more across web, desktop, and mobile. Two million free base map tiles, 20,000 non-stored geocodes, 20,000 simple routes, 5,000 drive time calculations, and 5GB free tile+data storage per month.
 
 ### IDE and Code Editing
 
-*   [3v4l](https://3v4l.org/) - Free online PHP shell and snippet sharing site, runs your code in 300+ PHP versions
+*   [3v4l](https://3v4l.org/) - Free online PHP shell and snippet-sharing site, that runs your code in 300+ PHP versions
 
 ### Analytics, Events and Statistics
 
-*   [Avo](https://avo.app/) — Simplified analytics release workflow. Single-source-of-truth tracking plan, type safe analytics tracking library, in-app debuggers, data observability to catch all data issues before you release. Free for 2 workspace members and 1 hour data observability lookback.
+*   [Avo](https://avo.app/) — Simplified analytics release workflow. Single-source-of-truth tracking plan, type-safe analytics tracking library, in-app debuggers, and data observability to catch all data issues before you release. Free for two workspace members and 1 hour data observability lookback.
 
 ### Visitor Session Recording
 
-*   [LogRocket.com](https://www.logrocket.com) - 1,000 sessions/month with 30 day retention, error tracking, live mode
+*   [LogRocket.com](https://www.logrocket.com) - 1,000 sessions/month with 30-day retention, error tracking, live mode
 
 ### Miscellaneous
 

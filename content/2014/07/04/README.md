@@ -18,7 +18,7 @@
 
 *   [peity (⭐4.2k)](https://github.com/benpickles/peity) - Progressive <svg> bar, line and pie charts.
 *   [raphael (⭐11k)](https://github.com/DmitryBaranovskiy/raphael) - JavaScript Vector Library.
-*   [two.js (⭐8k)](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
+*   [two.js (⭐8.1k)](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
 *   [g.raphael (⭐1.5k)](https://github.com/DmitryBaranovskiy/g.raphael) - Charts for Raphaël.
 *   [sigma.js (⭐11k)](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing.
 *   [arbor (⭐2.6k)](https://github.com/samizdatco/arbor) - A graph visualization library using web workers and jQuery.
@@ -29,10 +29,10 @@
 *   [rickshaw (⭐6.5k)](https://github.com/shutterstock/rickshaw) - JavaScript toolkit for creating interactive real-time graphs.
 *   [flot (⭐6k)](https://github.com/flot/flot) - Attractive JavaScript charts for jQuery.
 *   [morris.js (⭐7k)](https://github.com/morrisjs/morris.js) - Pretty time-series line graphs.
-*   [svg.js (⭐10k)](https://github.com/wout/svg.js) - A lightweight library for manipulating and animating SVG.
+*   [svg.js (⭐11k)](https://github.com/wout/svg.js) - A lightweight library for manipulating and animating SVG.
 *   [heatmap.js (⭐6k)](https://github.com/pa7/heatmap.js) - JavaScript Library for HTML5 canvas based heatmaps.
 *   [d3-cloud (⭐3.7k)](https://github.com/jasondavies/d3-cloud) - Create word clouds in JavaScript.
-*   [d4 (⭐430)](https://github.com/heavysixer/d4) - A friendly reusable charts DSL for D3.
+*   [d4 (⭐431)](https://github.com/heavysixer/d4) - A friendly reusable charts DSL for D3.
 
 ## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

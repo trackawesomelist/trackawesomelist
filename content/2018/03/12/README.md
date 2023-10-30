@@ -53,7 +53,7 @@
 
 ### Packages / HTTP
 
-*   [gotql (⭐396)](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got (⭐13k)](https://github.com/sindresorhus/got).
+*   [gotql (⭐400)](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got (⭐13k)](https://github.com/sindresorhus/got).
 
 ### Packages / Job queues
 
@@ -77,13 +77,13 @@
 
 ### Gdańsk
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/kejt_bw" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/kejt_bw" height="70px" width="70px" align="left" alt="" />
 
 **Kasia Jastrzębska**\
 Topics: React, Redux, Async, CSS in JS, ClojureScript\
 <https://twitter.com/kejt_bw>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/thekitze" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/thekitze" height="70px" width="70px" align="left" alt="" />
 
 **Kitze**\
 Topics: MobX, State Management, GraphQL, CSS in JS\
@@ -215,7 +215,7 @@ Topics: MobX, State Management, GraphQL, CSS in JS\
 
 ### Packages / Apps
 
-*   [SoundCycle (⭐40)](https://github.com/scriptify/soundcycle) - A Web Audio based Loopstation for musicians with effects and different looping modes.
+*   [SoundCycle (⭐41)](https://github.com/scriptify/soundcycle) - A Web Audio based Loopstation for musicians with effects and different looping modes.
 
 ---
 

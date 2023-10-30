@@ -10,23 +10,23 @@
 
 ### Plugins / Frameworks
 
-*   [Solid (⭐146)](https://github.com/joshwilsonvu/eslint-plugin-solid) - Linting rules for Solid and JSX.
+*   [Solid (⭐152)](https://github.com/joshwilsonvu/eslint-plugin-solid) - Linting rules for Solid and JSX.
 
 ## [2. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
 
-### [Tab Size on GitHub (⭐283)](https://github.com/sindresorhus/tab-size-on-github) <a href="https://chrome.google.com/webstore/detail/tab-size-on-github/ofjbgncegkdemndciafljngjbdpfmbkn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+### [Tab Size on GitHub (⭐280)](https://github.com/sindresorhus/tab-size-on-github) <a href="https://chrome.google.com/webstore/detail/tab-size-on-github/ofjbgncegkdemndciafljngjbdpfmbkn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Make tab indented code more readable by forcing the tab size to 4 instead of 8.
 
-Installs: 2000 | Stars: 283 | Last update: 25 Sep 2021
+Installs: 2000 | Stars: 280 | Last update: 25 Sep 2021
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [qwy (⭐0)](https://github.com/Ryooooooga/qwy) - ZSH fuzzy completion plugin.
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [born-in-the-purple (⭐1)](https://github.com/LeonardMH/born-in-the-purple) - Simple theme with a purple motif. Inspired by [Pure (⭐12k)](https://github.com/sindresorhus/pure).
 
@@ -41,20 +41,20 @@ Installs: 2000 | Stars: 283 | Last update: 25 Sep 2021
 
 ## [5. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Security / Angular
+### Security / Svelte
 
-*   [Shift Security Left](https://shift-security-left.curated.co/). A free biweekly newsletter for security-aware developers covering application security, secure architecture, DevSecOps, cryptography, incidents, etc. that can be useful for builders and (to a lesser extent) for breakers. Get a deeper understanding of causes for security vulnerabilities, designing defences, inventing and implementing security controls—with Felix, an imaginary mascot and a security engineer at [@cossacklabs](https://twitter.com/cossacklabs).
+*   [Shift Security Left](https://shift-security-left.curated.co/). A free biweekly newsletter for security-aware developers covering application security, secure architecture, DevSecOps, cryptography, incidents, etc. that can be useful for builders and (to a lesser extent) for breakers. Get a deeper understanding of causes for security vulnerabilities, designing defences, inventing and implementing security controls—with Felix, an imaginary mascot and a security engineer at @cossacklabs.
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [spoptchev/kotlin-preconditions (⭐18)](https://github.com/spoptchev/kotlin-preconditions) - Precondition error checking in kotlin.
-*   [holgerbrandl/kravis (⭐177)](https://github.com/holgerbrandl/kravis) - A Kotlin grammar for scientific data visualization
+*   [spoptchev/kotlin-preconditions (⭐19)](https://github.com/spoptchev/kotlin-preconditions) - Precondition error checking in kotlin.
+*   [holgerbrandl/kravis (⭐180)](https://github.com/holgerbrandl/kravis) - A Kotlin grammar for scientific data visualization
 
 ### Libraries/Frameworks / Multiplatform
 
-*   [ionspin/kotlin-multiplatform-libsodium (⭐55)](https://github.com/ionspin/kotlin-multiplatform-libsodium) - Kotlin multiplatform wrapper for Libsodium cryptographic library.
+*   [ionspin/kotlin-multiplatform-libsodium (⭐63)](https://github.com/ionspin/kotlin-multiplatform-libsodium) - Kotlin multiplatform wrapper for Libsodium cryptographic library.
 
 ## [7. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 
@@ -72,31 +72,31 @@ Installs: 2000 | Stars: 283 | Last update: 25 Sep 2021
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Security Newsletters (⭐690)](https://github.com/TalEliyahu/awesome-security-newsletters) - A curated list of awesome newsletters to keep up to date on security news via e-mail.
+*   [Awesome Security Newsletters (⭐723)](https://github.com/TalEliyahu/awesome-security-newsletters) - A curated list of awesome newsletters to keep up to date on security news via e-mail.
 
 ## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / React
 
-*   [react-vite-ts-boilerplate (⭐62)](https://github.com/choisohyun/react-vite-ts-boilerplate) - React 18, TypeScript, SCSS, ESLint, Prettier, Vitest.
+*   [react-vite-ts-boilerplate (⭐78)](https://github.com/choisohyun/react-vite-ts-boilerplate) - React 18, TypeScript, SCSS, ESLint, Prettier, Vitest.
 
 ## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Testing
 
-*   [NetArchTest (⭐892)](https://github.com/BenMorris/NetArchTest) - A fluent API for .Net Standard that can enforce architectural rules in unit tests.
+*   [NetArchTest (⭐1.1k)](https://github.com/BenMorris/NetArchTest) - A fluent API for .Net Standard that can enforce architectural rules in unit tests.
 
 ## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Editing Support / Diagnostics
 
-*   [m4xshen/autoclose.nvim (⭐242)](https://github.com/m4xshen/autoclose.nvim) - A minimalist autoclose plugin written in Lua.
+*   [m4xshen/autoclose.nvim (⭐330)](https://github.com/m4xshen/autoclose.nvim) - A minimalist autoclose plugin written in Lua.
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [Snippets.Ninja (⭐87)](https://github.com/dd3v/snippets.ninja) - Progressive web application for code snippet management. Offline first. Open Source. App uses IndexedDB for local storage.
+*   [Snippets.Ninja (⭐96)](https://github.com/dd3v/snippets.ninja) - Progressive web application for code snippet management. Offline first. Open Source. App uses IndexedDB for local storage.
 
 ## [14. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
@@ -116,9 +116,12 @@ Installs: 2000 | Stars: 283 | Last update: 25 Sep 2021
 
 *   [The successor representation in human reinforcement learning](https://gershmanlab.com/pubs/Momennejad17.pdf) - ***Nature Human Behavior***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7317529612823134939\&hl=en\&as_sdt=0,5)].
 
-### Others / Commonsense Knowledgebase
+### PKU / Commonsense Knowledgebase
 
 *   [Yixin Zhu](https://yzhu.io/) - ***School of AI and Institute for AI, Peking University (PKU)***, [Cognitive Reasoning Lab (CoRe Lab)](https://pku.ai/) - ***PKU***.
+
+### JHU / Commonsense Knowledgebase
+
 *   [Chaz Firestone](https://perception.jhu.edu/chaz/) - ***Department of Psychological and Brain Sciences, Johns Hopkins University (JHU)***, [Hopkins Perception & Mind Lab](https://perception.jhu.edu/) - ***JHU***.
 
 ---

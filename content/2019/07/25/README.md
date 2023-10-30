@@ -53,7 +53,7 @@
 
 ### Web Servers
 
-*   [Agoo (⭐837)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
+*   [Agoo (⭐851)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
 
 ## [3. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -131,7 +131,6 @@
 ### React Component Libraries
 
 *   [react-bootstrap (⭐22k)](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
-*   [reactstrap (⭐10k)](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap components
 
 ## [10. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
@@ -153,7 +152,7 @@
 
 ### Frameworks, Libraries and Tools / Testing
 
-*   [SpecFlow (⭐2k)](https://github.com/techtalk/SpecFlow) - Pragmatic BDD solution for .NET. It uses the Gherkin specification language and integrates to Visual Studio.
+*   [SpecFlow (⭐2.1k)](https://github.com/techtalk/SpecFlow) - Pragmatic BDD solution for .NET. It uses the Gherkin specification language and integrates to Visual Studio.
 
 ## [13. Awesome Purescript](/content/passy/awesome-purescript/README.md)
 

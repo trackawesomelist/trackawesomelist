@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 10 - Aug 16, 2020
 
-55 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,13 +10,13 @@
 
 ### Examples / Games
 
-*   [elm-games (⭐132)](https://github.com/rofrol/elm-games) - An excellent list of games made in Elm
+*   [elm-games (⭐137)](https://github.com/rofrol/elm-games) - An excellent list of games made in Elm
 
 ## [2. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Querying / Symfony2
 
-*   [Milkman (⭐865)](https://github.com/warmuuh/milkman) - Extensible cross-platform request/response workbench, not only for http calls.
+*   [Milkman (⭐919)](https://github.com/warmuuh/milkman) - Extensible cross-platform request/response workbench, not only for http calls.
 
 ## [3. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -102,19 +102,13 @@
 
 
 
-## [13. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
-
-### Application Skeleton
-
-*   [Sakura Panel](https://github.com/yassinrais/sakura-panel) - A Phalcon Panel created to install plugins Without Editing the Panel Source Code (Auth, ACL, Lite Bootstrap Template, And more...).
-
-## [14. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [13. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### SQL-like processing
 
-*   [Materialize (⭐4.6k)](https://github.com/materializeinc/materialize) - is a streaming database for real-time applications using SQL for queries and supporting a large fraction of PostgreSQL.
+*   [Materialize (⭐5.1k)](https://github.com/materializeinc/materialize) - is a streaming database for real-time applications using SQL for queries and supporting a large fraction of PostgreSQL.
 
-## [15. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [14. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Templates / Misc
 
@@ -124,11 +118,11 @@
 
 *   [Email Design Blog](https://designmodo.com/design/email-design/) - Articles, tutorial, inspiration for all email geeks.
 
-## [16. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [15. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / Other
 
-*   [Adafruit-7segment](https://crates.io/crates/adafruit-7segment) - I2C - Driver for Adafruit 7-segment LED Numeric Backpack based on the ht16k33 chip - [github (⭐1)](https://github.com/kallemooo/adafruit-7segment) - ![crates.io](https://img.shields.io/crates/v/adafruit-7segment.svg)
+*   [Adafruit-7segment](https://crates.io/crates/adafruit-7segment) - I2C - Driver for Adafruit 7-segment LED Numeric Backpack based on the ht16k33 chip - [github (⭐2)](https://github.com/kallemooo/adafruit-7segment) - ![crates.io](https://img.shields.io/crates/v/adafruit-7segment.svg)
 
 ### Driver crates / WIP
 
@@ -139,39 +133,40 @@
 *   [embedded-crc-macros](https://crates.io/crates/embedded-crc-macros): Macros implementing portable CRC algorithms and build-time lookup table generation. ![crates.io](https://img.shields.io/crates/v/embedded-crc-macros.svg)
 *   [smbus-pec](https://crates.io/crates/smbus-pec): Minimal portable System Management Bus Packet Error Code calculation algorithm. ![crates.io](https://img.shields.io/crates/v/smbus-pec.svg)
 
-## [17. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [16. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Prisma (⭐31k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
-*   :octocat: [tsParticles (⭐5.4k)](https://github.com/matteobruni/tsparticles) - A lightweight library for easily creating particles animations for websites (Supports also ReactJS, VueJS, Angular, Svelte and others)
+*   :octocat: [Prisma (⭐34k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
+    *   :octocat: [prisma-markdown (⭐119)](https://github.com/samchon/prisma-markdown): Generates markdown document composed with ERD diagrams and their descriptions.
+*   :octocat: [tsParticles (⭐5.9k)](https://github.com/matteobruni/tsparticles) - A lightweight library for easily creating particles animations for websites (Supports also ReactJS, VueJS, Angular, Svelte and others)
 
-## [18. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [17. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Miscellaneous / Episodes
 
 *   [CAN MITM Bridge by MUXSCAN](https://www.tindie.com/products/muxsan/can-mitm-bridge-3-port-rev-25/) - a tool to MITM CAN messages, allowing easy interaction with your car.
 
-## [19. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [18. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Calendar
 
-*   [ElegantCalendar (⭐611)](https://github.com/ThasianX/ElegantCalendar) - The elegant full-screen calendar missed in SwiftUI.
+*   [ElegantCalendar (⭐709)](https://github.com/ThasianX/ElegantCalendar) - The elegant full-screen calendar missed in SwiftUI.
 
-## [20. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [19. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Projects / Open Source Projects
 
 *   [HyperKitty](https://gitlab.com/mailman/hyperkitty) - A web interface to access GNU Mailman v3 archives.
 
-## [21. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [20. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [DDD-starter-dotnet (⭐181)](https://github.com/itlibrium/DDD-starter-dotnet) - Sample implementation and comparison of various approaches to building DDD applications. Useful as a baseline to quickly start a DDD .net project.
-*   [EventFlow.Example (⭐181)](https://github.com/OKTAYKIR/EventFlow.Example) - DDD, CQRS, and Event-Sourcing example and contains following technology stack: [EventFlow (⭐2.1k)](https://github.com/eventflow/EventFlow), [EventStore](https://eventstore.com), [RabbitMQ](https://www.rabbitmq.com), [MongoDB](https://www.mongodb.com), [PostgreSQL](https://www.postgresql.org), [Docker](https://www.docker.com)
+*   [DDD-starter-dotnet (⭐280)](https://github.com/itlibrium/DDD-starter-dotnet) - Sample implementation and comparison of various approaches to building DDD applications. Useful as a baseline to quickly start a DDD .net project.
+*   [EventFlow.Example (⭐202)](https://github.com/OKTAYKIR/EventFlow.Example) - DDD, CQRS, and Event-Sourcing example and contains following technology stack: [EventFlow (⭐2.2k)](https://github.com/eventflow/EventFlow), [EventStore](https://eventstore.com), [RabbitMQ](https://www.rabbitmq.com), [MongoDB](https://www.mongodb.com), [PostgreSQL](https://www.postgresql.org), [Docker](https://www.docker.com)
 
-## [22. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [21. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -181,24 +176,24 @@
 
 *   [Training Site Reliability Engineers: What Your Organization Needs to Create a Learning Program](https://landing.google.com/sre/resources/practicesandprocesses/training-site-reliability-engineers)
 
-## [23. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [22. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Sublime Text / Third-party APIs
 
 *   [Sublime Text](http://www.sublimetext.com/3) (proprietary) has
     Common Lisp support with its SublimeREPL and
-    [Slyblime (⭐38)](https://github.com/s-clerc/slyblime) packages. Slyblime
+    [Slyblime (⭐45)](https://github.com/s-clerc/slyblime) packages. Slyblime
     is an implementation of SLY and it uses the same backend (SLYNK). It
     ships advanced features including a debugger with stack frame
     inspection.
 
-## [24. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [23. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Business
 
 *   [Decimal Point Error in Etsy's Accounting System](https://www.reddit.com/r/Etsy/comments/hz4877/if_you_are_an_etsy_seller_do_not_purchase_postage/) - The importance of types in accounting software: missing the decimal point ends up with 100x over-charges.
 
-## [25. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [24. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Ethics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -363,11 +358,21 @@
 
 *   [degoogle](https://degoogle.jmoore.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 
-## [26. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [25. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Tools / XML
 
-*   [make-deno-edition (⭐42)](https://github.com/bevry/make-deno-edition) - Automatically makes package.json projects (such as npm packages and node.js modules) compatible with Deno.
+*   [make-deno-edition (⭐41)](https://github.com/bevry/make-deno-edition) - Automatically makes package.json projects (such as npm packages and node.js modules) compatible with Deno.
+
+## [26. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### HTML and CSS / Spock Framework
+
+*   [Interneting is Hard (But it Doesn't Have to Be)](https://www.internetingishard.com) - Oliver James
+
+### Perl / PicoLisp
+
+*   [Data Munging with Perl](https://datamungingwithperl.com) (PDF)
 
 ## [27. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
@@ -379,11 +384,11 @@
 
 ### Software / Feed Readers
 
-*   [reader (⭐295)](https://github.com/lemon24/reader) - A Python feed reader web app and library (so you can use it to build your own), with only standard library and pure-Python dependencies. `BSD-3-Clause` `Python`
+*   [reader (⭐366)](https://github.com/lemon24/reader) - A Python feed reader web app and library (so you can use it to build your own), with only standard library and pure-Python dependencies. `BSD-3-Clause` `Python`
 
 ### Software / Software Development - Project Management
 
-*   [Lazylead](https://lazylead.org) `⚠` - Eliminate the annoying work within ticketing systems (Jira, GitHub, Trello). Allows to automate daily actions like tickets fields verification, email notifications by JQL/GQL, meeting requests to your (or teammates) calendar. ([Source Code (⭐53)](https://github.com/dgroup/lazylead)) `MIT` `Ruby`
+*   [Lazylead](https://lazylead.org) `⚠` - Eliminate the annoying work within ticketing systems (Jira, GitHub, Trello). Allows to automate daily actions like tickets fields verification, email notifications by JQL/GQL, meeting requests to your (or teammates) calendar. ([Source Code (⭐60)](https://github.com/dgroup/lazylead)) `MIT` `Ruby/Docker`
 
 ## [29. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -395,54 +400,48 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-rough (⭐24)](https://github.com/dneustadt/vue-rough) - Components for Rough.js, a graphics library that lets you draw in a sketchy, hand-drawn-like, style.
+*   [vue-rough (⭐25)](https://github.com/dneustadt/vue-rough) - Components for Rough.js, a graphics library that lets you draw in a sketchy, hand-drawn-like, style.
 
 ### Components & Libraries / Dev Tools
 
-*   [vue-dom-hints (⭐20)](https://github.com/privatenumber/vue-dom-hints) - 💡 Get hints in the DOM. Minimal Vue devtool alternative.
+*   [vue-dom-hints (⭐23)](https://github.com/privatenumber/vue-dom-hints) - 💡 Get hints in the DOM. Minimal Vue devtool alternative.
 
 ## [31. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Form Components / Drag and Drop
 
-*   [react-movable (⭐1.3k)](https://github.com/tajo/react-movable) - Accessible and minimalistic (<4kB gzipped) library for vertical drag and drop in lists and tables.
+*   [react-movable (⭐1.4k)](https://github.com/tajo/react-movable) - Accessible and minimalistic (<4kB gzipped) library for vertical drag and drop in lists and tables.
 
 ### UI Animation / Syntax Highlight
 
-*   [react-tsparticles (⭐5.3k)](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
+*   [react-tsparticles (⭐5.9k)](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
 
-## [32. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
-
-### Apps
-
-*   [Everforo](https://www.everforo.com) - Everforo is the next generation of online community groups build on top of IPFS.
-
-## [33. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [32. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Other Awesome Lists
 
 *   [awesome-docker (⭐23k)](https://github.com/veggiemonk/awesome-docker)\
     \*[awesome-cicd](https://github.com/awsomecicd/awesomecicd.git)
 
-## [34. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
+## [33. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
 
 ### Crowd-Sourced Information
 
 *   [NoSQL - Wikipedia](https://en.wikipedia.org/wiki/NoSQL) - Wikipedia entry on all things NoSQL databases.
 
-## [35. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
+## [34. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
 *   [bilibili-box (⭐15)](https://github.com/KeJunMao/bilibili-box) - Update a pinned gist to contain your latest Bilibili videos.
 
-## [36. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [35. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tools / Other
 
-*   [Ciphey (⭐11k)](https://github.com/ciphey/ciphey) - Automated decryption tool using artificial intelligence & natural language processing.
+*   [Ciphey (⭐14k)](https://github.com/ciphey/ciphey) - Automated decryption tool using artificial intelligence & natural language processing.
 
-## [37. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [36. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Simulation / Version Control
 
@@ -456,90 +455,90 @@
 
 *   [openscap (⭐1.1k)](https://github.com/OpenSCAP/openscap) - The oscap program is a command line tool that allows users to load, scan, validate, edit, and export SCAP documents.
 
-## [38. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [37. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Travel
 
-*   [ShareACab (⭐68)](https://github.com/devclub-iitd/ShareACab) - Cab Sharing App for college students by [DevClub IIT Delhi](https://github.com/devclub-iitd/).
+*   [ShareACab (⭐70)](https://github.com/devclub-iitd/ShareACab) - Cab Sharing App for college students by [DevClub IIT Delhi](https://github.com/devclub-iitd/).
 
-## [39. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [38. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Skeleton
 
-*   [App template](https://github.com/cakephp/app) - An empty CakePHP project for use with composer.
+*   [App template (⭐353)](https://github.com/cakephp/app) - An empty CakePHP project for use with composer.
 
-## [40. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [39. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Online / MIT
+### Online / Apache License
 
 *   [compiler-explorer](https://godbolt.org/) - Run GNAT FSF compilers interactively from your web browser and interact with the assembly.
 
-## [41. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
+## [40. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
 
 ### Analyzers / Meetups
 
 *   [Screpy](https://screpy.com) - AI-Based SEO Analysis & Monitoring Tool
 
-## [42. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [41. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
-### Boilerplates / Vendor supported providers
+### Boilerplates / IDE
 
-*   [Terraform Generator (⭐245)](https://github.com/sudokar/generator-tf-module) - Scaffolding for a new terraform module or project with support of test frameworks (terratest and kitchen-terraform)
+*   [Terraform Generator (⭐249)](https://github.com/sudokar/generator-tf-module) - Scaffolding for a new terraform module or project with support of test frameworks (terratest and kitchen-terraform)
 
-## [43. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [42. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Hybrid
 
-*   [Blazor + Umbraco Heartcore (⭐13)](https://github.com/umbraco/Umbraco.Headless.Client.Net/tree/master/samples/Umbraco.Headless.Client.Samples.BlazorServer) - ![Last commit](https://img.shields.io/github/last-commit/umbraco/Umbraco.Headless.Client.Net?style=flat-square\&cacheSeconds=86400) Example of using [Umbraco Heartcore](https://umbraco.com/products/umbraco-heartcore/) with Blazor.
+*   [Blazor + Umbraco Heartcore (⭐12)](https://github.com/umbraco/Umbraco.Headless.Client.Net/tree/master/samples/Umbraco.Headless.Client.Samples.BlazorServer) - ![Last commit](https://img.shields.io/github/last-commit/umbraco/Umbraco.Headless.Client.Net?style=flat-square\&cacheSeconds=86400) Example of using [Umbraco Heartcore](https://umbraco.com/products/umbraco-heartcore/) with Blazor.
 
 ### Machine Learning
 
-*   [Scalable sentiment analysis (⭐4k)](https://github.com/dotnet/machinelearning-samples/tree/master/samples/csharp/end-to-end-apps/ScalableSentimentAnalysisBlazorWebApp) - ![stars](https://img.shields.io/github/stars/dotnet/machinelearning-samples?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/dotnet/machinelearning-samples?style=flat-square\&cacheSeconds=86400) A sample ables to make sentiment analysis prediction/detection of what the user is writing in a very UI interactive app (Blazor based) in the client side and running an ML.NET model (Sentiment analysis based on binary-classification) in the server side.
-*   [optimizer.ml (⭐52)](https://github.com/jameschch/LeanParameterOptimization) - ![stars](https://img.shields.io/github/stars/jameschch/LeanParameterOptimization?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/jameschch/LeanParameterOptimization?style=flat-square\&cacheSeconds=86400) A "server-less" general purpose optimization suite for algorithm parameters. Also provides offline optimization of [Quantconnect Lean (⭐7.4k)](https://github.com/QuantConnect/Lean) trading algorithms. [Demo (https://optimizer.ml)](https://optimizer.ml).
-*   [Baseball Machine Learning Workbench (⭐40)](https://github.com/bartczernicki/MachineLearning-BaseballPrediction-BlazorApp) - ![stars](https://img.shields.io/github/stars/bartczernicki/MachineLearning-BaseballPrediction-BlazorApp?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/bartczernicki/MachineLearning-BaseballPrediction-BlazorApp?style=flat-square\&cacheSeconds=86400) A web application that showcases performing what-if analysis using in-memory Machine Learning models. [Live demo](https://baseballmlworkbench-v1.azurewebsites.net).
-*   [BlazorML5 (⭐50)](https://github.com/sps014/BlazorML5) - ![last-commit](https://img.shields.io/github/last-commit/sps014/BlazorML5?style=flat-square\&cacheSeconds=86400) ML5 Machine Learning for Blazor with JSInterop mechanism.
+*   [Scalable sentiment analysis (⭐4.2k)](https://github.com/dotnet/machinelearning-samples/tree/master/samples/csharp/end-to-end-apps/ScalableSentimentAnalysisBlazorWebApp) - ![stars](https://img.shields.io/github/stars/dotnet/machinelearning-samples?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/dotnet/machinelearning-samples?style=flat-square\&cacheSeconds=86400) A sample ables to make sentiment analysis prediction/detection of what the user is writing in a very UI interactive app (Blazor based) in the client side and running an ML.NET model (Sentiment analysis based on binary-classification) in the server side.
+*   [optimizer.ml (⭐53)](https://github.com/jameschch/LeanParameterOptimization) - ![stars](https://img.shields.io/github/stars/jameschch/LeanParameterOptimization?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/jameschch/LeanParameterOptimization?style=flat-square\&cacheSeconds=86400) A "server-less" general purpose optimization suite for algorithm parameters. Also provides offline optimization of [Quantconnect Lean (⭐8k)](https://github.com/QuantConnect/Lean) trading algorithms. [Demo (https://optimizer.ml)](https://optimizer.ml).
+*   [Baseball Machine Learning Workbench (⭐44)](https://github.com/bartczernicki/MachineLearning-BaseballPrediction-BlazorApp) - ![stars](https://img.shields.io/github/stars/bartczernicki/MachineLearning-BaseballPrediction-BlazorApp?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/bartczernicki/MachineLearning-BaseballPrediction-BlazorApp?style=flat-square\&cacheSeconds=86400) A web application that showcases performing what-if analysis using in-memory Machine Learning models. [Live demo](https://baseballmlworkbench-v1.azurewebsites.net).
+*   [BlazorML5 (⭐52)](https://github.com/sps014/BlazorML5) - ![last-commit](https://img.shields.io/github/last-commit/sps014/BlazorML5?style=flat-square\&cacheSeconds=86400) ML5 Machine Learning for Blazor with JSInterop mechanism.
 
 ### ToDos
 
-*   [Bolero.TodoMVC (⭐38)](https://github.com/fsbolero/TodoMVC) - ![GitHub stars](https://img.shields.io/github/stars/fsbolero/TodoMVC?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/fsbolero/TodoMVC?style=flat-square\&cacheSeconds=86400) A TodoMVC clone using Bolero.
+*   [Bolero.TodoMVC (⭐40)](https://github.com/fsbolero/TodoMVC) - ![GitHub stars](https://img.shields.io/github/stars/fsbolero/TodoMVC?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/fsbolero/TodoMVC?style=flat-square\&cacheSeconds=86400) A TodoMVC clone using Bolero.
 
 ### Others
 
-*   [Oqtane Framework (⭐1.3k)](https://github.com/oqtane/oqtane.framework) - ![GitHub stars](https://img.shields.io/github/stars/oqtane/oqtane.framework?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/oqtane/oqtane.framework?style=flat-square\&cacheSeconds=86400) Modular Application Framework for Blazor.
-*   [BlazorFileReader (⭐400)](https://github.com/Tewr/BlazorFileReader) - ![GitHub stars](https://img.shields.io/github/stars/Tewr/BlazorFileReader?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/Tewr/BlazorFileReader?style=flat-square\&cacheSeconds=86400) Read-only File streams in Blazor. [Demo](https://tewr.github.io/BlazorFileReader/).
-*   [BlazorChatSample (⭐214)](https://github.com/conficient/blazorchatsample) - ![stars](https://img.shields.io/github/stars/conficient/blazorchatsample?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/conficient/blazorchatsample?style=flat-square\&cacheSeconds=86400) Blazor chat demo using SignalR JS client with interop.
-*   [Money (⭐169)](https://github.com/maraf/Money) - ![stars](https://img.shields.io/github/stars/maraf/Money?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/maraf/Money?style=flat-square\&cacheSeconds=86400) A money manager implemented using CQRS+ES. [Demo](https://app.money.neptuo.com/).
-*   [NethereumBlazor (⭐117)](https://github.com/Nethereum/NethereumBlazor) - ![GitHub stars](https://img.shields.io/github/stars/Nethereum/NethereumBlazor?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/Nethereum/NethereumBlazor?style=flat-square\&cacheSeconds=86400) Ethereum blockchain explorer and simple wallet.
-*   [Planning Poker (⭐56)](https://github.com/duracellko/planningpoker4azure) – ![Last commit](https://img.shields.io/github/last-commit/duracellko/planningpoker4azure?style=flat-square\&cacheSeconds=86400) An app to play Planning Poker for distributed teams. The app is implemented using Blazor and shows how to switch between client-side and server-side mode with a configuration change. [Demo](http://planningpoker.duracellko.net).
-*   [C# Regex Tester online (⭐8)](https://github.com/lsvhome/regex-tester) - ![Last commit](https://img.shields.io/github/last-commit/lsvhome/regex-tester?style=flat-square\&cacheSeconds=86400) Online tool for verify .Net regex syntax. ([Demo](https://lsvhome.github.io/regex-tester/)).
-*   [C# Regex Online tool (⭐3)](https://github.com/MichaelSL/blazor-wasm-test-012020) - ![Last commit](https://img.shields.io/github/last-commit/MichaelSL/blazor-wasm-test-012020?style=flat-square\&cacheSeconds=86400) Online tool for verify .Net regex syntax, see splits list, table etc. ([Demo](https://dotnet-regex.com/)).
-*   [Blazor Wake-on-LAN (⭐24)](https://github.com/georg-jung/BlazorWoL) - ![Last commit](https://img.shields.io/github/last-commit/georg-jung/BlazorWoL?style=flat-square\&cacheSeconds=86400) Wake-on-LAN app for local networks. Blazor Server + EF Core + DI + CI.
-*   [BlazingWaffles (⭐4)](https://github.com/gbiellem/BlazingWaffles) - ![last commit](https://img.shields.io/github/last-commit/gbiellem/BlazingWaffles?style=flat-square\&cacheSeconds=86400) A Blazor app that wraps [Waffle Generator (⭐84)](https://github.com/SimonCropp/WaffleGenerator). The generator outputs readable gibberish that can be used in place of Lorum Ipsum. [Demo](http://wafflegen.azurewebsites.net/).
-*   [Nethereum Playground (⭐25)](https://github.com/Nethereum/Nethereum.Playground) - ![last commit](https://img.shields.io/github/last-commit/Nethereum/Nethereum.Playground?style=flat-square\&cacheSeconds=86400) Compile and run Nethereum snippets on the browser. You can run it here: <http://playground.nethereum.com/>.
+*   [Oqtane Framework (⭐1.5k)](https://github.com/oqtane/oqtane.framework) - ![GitHub stars](https://img.shields.io/github/stars/oqtane/oqtane.framework?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/oqtane/oqtane.framework?style=flat-square\&cacheSeconds=86400) Modular Application Framework for Blazor.
+*   [BlazorFileReader (⭐414)](https://github.com/Tewr/BlazorFileReader) - ![GitHub stars](https://img.shields.io/github/stars/Tewr/BlazorFileReader?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/Tewr/BlazorFileReader?style=flat-square\&cacheSeconds=86400) Read-only File streams in Blazor. [Demo](https://tewr.github.io/BlazorFileReader/).
+*   [BlazorChatSample (⭐227)](https://github.com/conficient/blazorchatsample) - ![stars](https://img.shields.io/github/stars/conficient/blazorchatsample?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/conficient/blazorchatsample?style=flat-square\&cacheSeconds=86400) Blazor chat demo using SignalR JS client with interop.
+*   [Money (⭐184)](https://github.com/maraf/Money) - ![stars](https://img.shields.io/github/stars/maraf/Money?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/maraf/Money?style=flat-square\&cacheSeconds=86400) A money manager implemented using CQRS+ES. [Demo](https://app.money.neptuo.com/).
+*   [NethereumBlazor (⭐122)](https://github.com/Nethereum/NethereumBlazor) - ![GitHub stars](https://img.shields.io/github/stars/Nethereum/NethereumBlazor?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/Nethereum/NethereumBlazor?style=flat-square\&cacheSeconds=86400) Ethereum blockchain explorer and simple wallet.
+*   [Planning Poker (⭐61)](https://github.com/duracellko/planningpoker4azure) – ![Last commit](https://img.shields.io/github/last-commit/duracellko/planningpoker4azure?style=flat-square\&cacheSeconds=86400) An app to play Planning Poker for distributed teams. The app is implemented using Blazor and shows how to switch between client-side and server-side mode with a configuration change. [Demo](http://planningpoker.duracellko.net).
+*   [C# Regex Tester online (⭐9)](https://github.com/lsvhome/regex-tester) - ![Last commit](https://img.shields.io/github/last-commit/lsvhome/regex-tester?style=flat-square\&cacheSeconds=86400) Online tool for verify .Net regex syntax. ([Demo](https://lsvhome.github.io/regex-tester/)).
+*   [C# Regex Online tool (⭐4)](https://github.com/MichaelSL/blazor-wasm-test-012020) - ![Last commit](https://img.shields.io/github/last-commit/MichaelSL/blazor-wasm-test-012020?style=flat-square\&cacheSeconds=86400) Online tool for verify .Net regex syntax, see splits list, table etc. ([Demo](https://dotnet-regex.com/)).
+*   [Blazor Wake-on-LAN (⭐26)](https://github.com/georg-jung/BlazorWoL) - ![Last commit](https://img.shields.io/github/last-commit/georg-jung/BlazorWoL?style=flat-square\&cacheSeconds=86400) Wake-on-LAN app for local networks. Blazor Server + EF Core + DI + CI.
+*   [BlazingWaffles (⭐4)](https://github.com/gbiellem/BlazingWaffles) - ![last commit](https://img.shields.io/github/last-commit/gbiellem/BlazingWaffles?style=flat-square\&cacheSeconds=86400) A Blazor app that wraps [Waffle Generator (⭐90)](https://github.com/SimonCropp/WaffleGenerator). The generator outputs readable gibberish that can be used in place of Lorum Ipsum. [Demo](http://wafflegen.azurewebsites.net/).
+*   [Nethereum Playground (⭐26)](https://github.com/Nethereum/Nethereum.Playground) - ![last commit](https://img.shields.io/github/last-commit/Nethereum/Nethereum.Playground?style=flat-square\&cacheSeconds=86400) Compile and run Nethereum snippets on the browser. You can run it here: <http://playground.nethereum.com/>.
 
 ### Tools & Utilities / Others
 
-*   [Blazor PDF (⭐73)](https://github.com/tossnet/Blazor-PDF) - ![stars](https://img.shields.io/github/stars/tossnet/Blazor-PDF?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/tossnet/Blazor-PDF?style=flat-square\&cacheSeconds=86400) Generate de PDF document with iTextSharp from a Blazor Server App.
-*   [Blazor-Color-Picker (⭐27)](https://github.com/tossnet/Blazor-Color-Picker) - ![last commit](https://img.shields.io/github/last-commit/tossnet/Blazor-Color-Picker?style=flat-square\&cacheSeconds=86400) Opens a palette with the Material colors for Blazor application.
+*   [Blazor PDF (⭐76)](https://github.com/tossnet/Blazor-PDF) - ![stars](https://img.shields.io/github/stars/tossnet/Blazor-PDF?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/tossnet/Blazor-PDF?style=flat-square\&cacheSeconds=86400) Generate de PDF document with iTextSharp from a Blazor Server App.
+*   [Blazor-Color-Picker (⭐28)](https://github.com/tossnet/Blazor-Color-Picker) - ![last commit](https://img.shields.io/github/last-commit/tossnet/Blazor-Color-Picker?style=flat-square\&cacheSeconds=86400) Opens a palette with the Material colors for Blazor application.
 
 ### Others / Others
 
-*   [SpotifyService (⭐17)](https://github.com/tresoneur/SpotifyService) - ![stars](https://img.shields.io/github/stars/tresoneur/SpotifyService?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/tresoneur/SpotifyService?style=flat-square\&cacheSeconds=86400) A high-level Spotify API library for Blazor WebAssembly projects that enables Spotify playback in the browser, manages OAuth 2.0 authorization, provides easy access to the Spotify Web API and uses IndexedDB caching.
+*   [SpotifyService (⭐19)](https://github.com/tresoneur/SpotifyService) - ![stars](https://img.shields.io/github/stars/tresoneur/SpotifyService?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/tresoneur/SpotifyService?style=flat-square\&cacheSeconds=86400) A high-level Spotify API library for Blazor WebAssembly projects that enables Spotify playback in the browser, manages OAuth 2.0 authorization, provides easy access to the Spotify Web API and uses IndexedDB caching.
 
 ### Tooling / Others
 
-*   [Blazor Minimum Project Templates (⭐30)](https://github.com/jsakamoto/BlazorMinimumTemplates) - ![GitHub stars](https://img.shields.io/github/stars/jsakamoto/BlazorMinimumTemplates?style=flat-square\&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/jsakamoto/BlazorMinimumTemplates?style=flat-square\&cacheSeconds=86400) A project templates package of Blazor apps without JavaScript and CSS libraries.
-*   [Blazor REPL (⭐247)](https://github.com/BlazorRepl/BlazorRepl) - ![GitHub stars](https://img.shields.io/github/stars/BlazorRepl/BlazorRepl?style=flat-square\&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/BlazorRepl/BlazorRepl?style=flat-square\&cacheSeconds=86400) Write, compile, execute and share Blazor components entirely in the browser - <https://blazorrepl.com>.
-*   [WebCompiler (⭐125)](https://github.com/excubo-ag/WebCompiler) - ![GitHub stars](https://img.shields.io/github/stars/excubo-ag/WebCompiler?style=flat-square\&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/excubo-ag/WebCompiler?style=flat-square\&cacheSeconds=86400) A dotnet global tool for compilation, minification, and compression of scss, css and js.
-*   [Tracetool (⭐31)](https://github.com/capslock66/Tracetool#Blazor-client--server) - ![GitHub stars](https://img.shields.io/github/stars/capslock66/Tracetool?style=flat-square\&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/capslock66/Tracetool?style=flat-square\&cacheSeconds=86400) Tracetool viewer, client Api for Dotnet, Java, Javasvript, C++ , Python, Delphi.
+*   [Blazor Minimum Project Templates (⭐33)](https://github.com/jsakamoto/BlazorMinimumTemplates) - ![GitHub stars](https://img.shields.io/github/stars/jsakamoto/BlazorMinimumTemplates?style=flat-square\&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/jsakamoto/BlazorMinimumTemplates?style=flat-square\&cacheSeconds=86400) A project templates package of Blazor apps without JavaScript and CSS libraries.
+*   [Blazor REPL (⭐249)](https://github.com/BlazorRepl/BlazorRepl) - ![GitHub stars](https://img.shields.io/github/stars/BlazorRepl/BlazorRepl?style=flat-square\&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/BlazorRepl/BlazorRepl?style=flat-square\&cacheSeconds=86400) Write, compile, execute and share Blazor components entirely in the browser - <https://blazorrepl.com>.
+*   [WebCompiler (⭐138)](https://github.com/excubo-ag/WebCompiler) - ![GitHub stars](https://img.shields.io/github/stars/excubo-ag/WebCompiler?style=flat-square\&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/excubo-ag/WebCompiler?style=flat-square\&cacheSeconds=86400) A dotnet global tool for compilation, minification, and compression of scss, css and js.
+*   [Tracetool (⭐34)](https://github.com/capslock66/Tracetool#Blazor-client--server) - ![GitHub stars](https://img.shields.io/github/stars/capslock66/Tracetool?style=flat-square\&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/capslock66/Tracetool?style=flat-square\&cacheSeconds=86400) Tracetool viewer, client Api for Dotnet, Java, Javasvript, C++ , Python, Delphi.
 
-## [44. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [43. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### 🇮🇳 India / Misc
 
 *   Telegram [Flutter India 🇮🇳](https://t.me/flutterindia)
 
-## [45. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [44. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Companies / Robotics Capture the Flag (RCTF)
 
@@ -547,7 +546,7 @@
 *   [GESTALT ROBOTICS](https://www.gestalt-robotics.com/en/home) - Service provider for intelligent automation.
 *   [synapticon](https://www.synapticon.com/technology) - ROS compatible motion control and drive products with efforts to support ROS2.
 
-## [46. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [45. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
@@ -556,34 +555,34 @@
 *   [DevUI Icons, by Huawei Cloud (⭐18)](https://github.com/DevCloudFE/devui-icons) - DevUI font icons.
 *   [Ant Design Icons, by Ant Financial](https://ant.design/components/icon/) - ⭐ Ant Design SVG Icons.
 
-## [47. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [46. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### QA Tools / Runner
 
-*   [husky (⭐29k)](https://github.com/typicode/husky) - Prevents bad git commit, git push and more.
+*   [husky (⭐30k)](https://github.com/typicode/husky) - Prevents bad git commit, git push and more.
 
 ### API / Runner
 
-*   [Optic (⭐1.1k)](https://github.com/opticdev/optic) - Optic automatically documents and tests your APIs.
-*   [SWR (⭐26k)](https://github.com/vercel/swr) - React Hooks library for remote data fetching.
+*   [Optic (⭐1.2k)](https://github.com/opticdev/optic) - Optic automatically documents and tests your APIs.
+*   [SWR (⭐28k)](https://github.com/vercel/swr) - React Hooks library for remote data fetching.
 
 ### Modals and Popups / Other
 
-*   [keukenhof (⭐17)](https://github.com/Alexandrshy/keukenhof) - Lightweight, no dependencies, accessibility enabled TypeScript library for creating modal windows.
+*   [keukenhof (⭐18)](https://github.com/Alexandrshy/keukenhof) - Lightweight, no dependencies, accessibility enabled TypeScript library for creating modal windows.
 
-## [48. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+## [47. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
 ### Websites
 
 *   Hackerspad - <https://hackerspad.net/submit-software/>
 
-## [49. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [48. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### ASM / Music drivers and trackers
 
 *   **[gb asm tutorial](https://eldred.fr/gb-asm-tutorial)** - Step by step tutorial, building several ROMs to accompany its explanations.
 
-## [50. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+## [49. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
 ### General
 
@@ -594,11 +593,11 @@
 
 *   [Devicon (⭐7.1k)](https://github.com/devicons/devicon#readme) - Aims to gather all logos representing development languages and tools. ([Website](https://devicons.github.io/devicon))
 
-## [51. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [50. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Engineering to Management Transition
 
-*   “So the trick is basically to put them (your direct reports) in charge, not you. You have the supporting role, they can request things from you. But the goal needs to be very clear.” ([source](https://news.ycombinator.com/item?id=23973859)) - A recipe on how to work with your direct reports, from a section of [7 habits of highly effective people](https://amzn.com/B01069X4H0/?tag=kevideld-20).
+*   “So the trick is basically to put them (your direct reports) in charge, not you. You have the supporting role, they can request things from you. But the goal needs to be very clear.” ([source](https://news.ycombinator.com/item?id=23973859)) - A recipe on how to work with your direct reports, from a section of [7 habits of highly effective people](https://www.amazon.com/dp/1982137274?\&linkCode=ll1\&tag=kevideld-20\&linkId=5920a3d486de941b37430f948d377bc9\&language=en_US\&ref_=as_li_ss_tl).
 
 ### Engineering / Technology
 
@@ -608,13 +607,13 @@
 
 *   [benefits.fyi](https://benefits.fyi) - Same as above, but trying to evaluate the values of benefits across companies.
 
-## [52. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [51. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
 *   [Software Sessions](https://www.softwaresessions.com/) - Practical conversations about building software.
 
-## [53. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
+## [52. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
 ### AppImage discovery / App catalogs
 
@@ -637,46 +636,46 @@
 
 ### AppImage consumption tools / Desktop integration
 
-*   [go-appimaged (⭐492)](https://github.com/probonopd/go-appimage/tree/master/src/appimaged) - Optional daemon that integrates AppImages into the system (experimental).
-*   [AppImageLauncher (⭐3.7k)](https://github.com/TheAssassin/AppImageLauncher) - Integrates into users' systems and establishes a single `~/Applications` directory, assisting the user to move AppImages into there, with support for updating and removing AppImages through apps launcher.
+*   [go-appimaged (⭐518)](https://github.com/probonopd/go-appimage/tree/master/src/appimaged) - Optional daemon that integrates AppImages into the system (experimental).
+*   [AppImageLauncher (⭐3.9k)](https://github.com/TheAssassin/AppImageLauncher) - Integrates into users' systems and establishes a single `~/Applications` directory, assisting the user to move AppImages into there, with support for updating and removing AppImages through apps launcher.
 *   [appimage2desktop](https://github.com/me1ting/appimage2desktop) - Creates a desktop file and an icon in the system for an AppImage, nothing else.
 *   [appimagehelper](https://gitlab.com/posktomten/appimagehelper) - Program for creating, deleting, controlling and organizing shortcuts to AppImage.
 *   [LinuxPA (⭐24)](https://github.com/CalebQ42/LinuxPA) - PortableApps.com type launcher for Linux with AppImage support.
 
 ### AppImage consumption tools / Updaters
 
-*   [AppImageUpdate (⭐453)](https://github.com/AppImage/AppImageUpdate) - Official grapical application to update AppImages; command-line tool to update AppImages.
+*   [AppImageUpdate (⭐465)](https://github.com/AppImage/AppImageUpdate) - Official grapical application to update AppImages; command-line tool to update AppImages.
 *   [AppImageUpdater (⭐34)](https://github.com/antony-jr/AppImageUpdater) - Simple updater for humans written in C++ and Qt.
-*   [appimage-update (⭐3)](https://github.com/AppImageCrafters/appimage-update) - AppImage Update implementation written in Go.
+*   [appimage-update (⭐4)](https://github.com/AppImageCrafters/appimage-update) - AppImage Update implementation written in Go.
 
 ### AppImage consumption tools / Package managers
 
-*   [appimage-manager (⭐84)](https://github.com/AppImageCrafters/appimage-manager) - Command-line tool for managing AppImages allowing to search, install, remove and update applications.
-*   [bauh (⭐685)](https://github.com/vinifmor/bauh) - Graphical user interface for managing Linux applications supporting AppImage, Arch (repositories/AUR), Flatpak, Snap and native Web applications.
+*   [appimage-manager (⭐86)](https://github.com/AppImageCrafters/appimage-manager) - Command-line tool for managing AppImages allowing to search, install, remove and update applications.
+*   [bauh (⭐723)](https://github.com/vinifmor/bauh) - Graphical user interface for managing Linux applications supporting AppImage, Arch (repositories/AUR), Flatpak, Snap and native Web applications.
 *   [homebrew-appimage (⭐8)](https://github.com/athrunsun/homebrew-appimage) - Linuxbrew AppImage Formulae.
 *   [AIPM (⭐13)](https://github.com/michaeldelago/aipm) - A Package Manager for AppImages.
 
 ### AppImage developer tools / Low-level tools
 
-*   [appimagetool (⭐7.8k)](https://github.com/AppImage/AppImageKit/releases/tag/continuous) - Converts AppDirs into AppImages.
-*   [nix-bundle (⭐487)](https://github.com/matthewbauer/nix-bundle) - Converts Nix derivations into AppImages.
+*   [appimagetool (⭐8k)](https://github.com/AppImage/AppImageKit/releases/tag/continuous) - Converts AppDirs into AppImages.
+*   [nix-bundle (⭐498)](https://github.com/matthewbauer/nix-bundle) - Converts Nix derivations into AppImages.
 
 ### AppImage developer tools / Build systems
 
-*   [appimagecraft (⭐29)](https://github.com/TheAssassin/appimagecraft) - Recipe based AppImage creation tool working from source.
-*   [appimage-builder (⭐225)](https://github.com/AppImageCrafters/appimage-builder) - Recipe based AppImage creation tool working from source.
+*   [appimagecraft (⭐30)](https://github.com/TheAssassin/appimagecraft) - Recipe based AppImage creation tool working from source.
+*   [appimage-builder (⭐233)](https://github.com/AppImageCrafters/appimage-builder) - Recipe based AppImage creation tool working from source.
 *   [KDE Craft](https://invent.kde.org/packaging/craft) - Build system used by KDE that can produce AppImages and other formats.
 *   [appimage-tooling](https://gitlab.com/sgclarkkde/appimage-tooling) - Ruby tooling to generate Appimages.
 
 ### AppImage developer tools / Deployment tools for compiled applications
 
-*   [go-appimagetool (⭐492)](https://github.com/probonopd/go-appimage/tree/master/src/appimagetool) - Tool that deploys dependencies into AppDirs, and converts AppDirs into AppImages (experimental).
-*   [linuxdeployqt (⭐1.8k)](https://github.com/probonopd/linuxdeployqt) - Deploys dependencies into AppDirs and creates AppImages; for Qt and other compiled applications.
-*   [linuxdeploy (⭐378)](https://github.com/linuxdeploy/linuxdeploy) - AppDir creation and maintenance tool using plugins.
+*   [go-appimagetool (⭐518)](https://github.com/probonopd/go-appimage/tree/master/src/appimagetool) - Tool that deploys dependencies into AppDirs, and converts AppDirs into AppImages (experimental).
+*   [linuxdeployqt (⭐1.9k)](https://github.com/probonopd/linuxdeployqt) - Deploys dependencies into AppDirs and creates AppImages; for Qt and other compiled applications.
+*   [linuxdeploy (⭐399)](https://github.com/linuxdeploy/linuxdeploy) - AppDir creation and maintenance tool using plugins.
 
 ### AppImage developer tools / Deployment tools for Python applications
 
-*   [python-appimage (⭐122)](https://github.com/niess/python-appimage) - Ready to use AppImage distributions of Python (can be modified to include your application).
+*   [python-appimage (⭐128)](https://github.com/niess/python-appimage) - Ready to use AppImage distributions of Python (can be modified to include your application).
 *   [linuxdeploy-plugin-python (⭐19)](https://github.com/niess/linuxdeploy-plugin-python) - Bundle Python into an AppDir using a source distribution and linuxdeploy.
 *   [linuxdeploy-plugin-conda (⭐26)](https://github.com/linuxdeploy/linuxdeploy-plugin-conda) - Bundle Python into an AppDir using a source distribution, Conda, and linuxdeploy.
 *   [Briefcase](https://briefcase.readthedocs.io/) - Convert Python project into a standalone native application, e.g., using AppImage.
@@ -688,8 +687,8 @@
 
 ### AppImage developer tools / Deployment tools for Windows applications
 
-*   [wine32-deploy (⭐48)](https://github.com/sudo-give-me-coffee/wine32-deploy) - Creates AppImages for 32-bit Windows applications that can run on 64-bit Linux systems without multilib installed.
-*   [AppImage For WINE (⭐474)](https://github.com/Hackerl/Wine_Appimage) - WINE-based AppImages and LD\_PRELOAD based patches to launch WINE from AppImages.
+*   [wine32-deploy (⭐50)](https://github.com/sudo-give-me-coffee/wine32-deploy) - Creates AppImages for 32-bit Windows applications that can run on 64-bit Linux systems without multilib installed.
+*   [AppImage For WINE (⭐477)](https://github.com/Hackerl/Wine_Appimage) - WINE-based AppImages and LD\_PRELOAD based patches to launch WINE from AppImages.
 
 ### AppImage developer tools / Deployment tools for Java applications
 
@@ -697,25 +696,25 @@
 
 ### AppImage developer tools / Tools to convert from other package formats
 
-*   [pkg2appimage (⭐616)](https://github.com/AppImage/pkg2appimage) - Converts from deb, zip, tar.gz and other formats to AppImage using YAML recipes.
+*   [pkg2appimage (⭐624)](https://github.com/AppImage/pkg2appimage) - Converts from deb, zip, tar.gz and other formats to AppImage using YAML recipes.
 *   [appimage2pkg](https://gitlab.com/nixtux-packaging/appimage2pkg) - Repack AppImage and make rpm/deb which does not require FUSE.
-*   [flatpak2appdir (⭐21)](https://github.com/sudo-give-me-coffee/flatpak2appdir) - Turn Flatpak into AppDir which in turn can be turned into AppImage.
-*   [make-portable (⭐21)](https://github.com/sudo-give-me-coffee/make-portable) - Deploys installed application to AppDir, uses strace to fetch all file system calls and copies all accessed files in to AppDir including glibc.
+*   [flatpak2appdir (⭐23)](https://github.com/sudo-give-me-coffee/flatpak2appdir) - Turn Flatpak into AppDir which in turn can be turned into AppImage.
+*   [make-portable (⭐23)](https://github.com/sudo-give-me-coffee/make-portable) - Deploys installed application to AppDir, uses strace to fetch all file system calls and copies all accessed files in to AppDir including glibc.
 *   [AppImage cobbler](https://gitlab.com/brinkervii/appimage-cobbler) - Python application that takes strace.log and turns it into a directory suited for an AppImage.
 
 ### AppImage developer tools / QC tools
 
-*   [appimagelint (⭐31)](https://github.com/TheAssassin/appimagelint) - Tool to check AppImages for compatibility, best practices etc.
+*   [appimagelint (⭐33)](https://github.com/TheAssassin/appimagelint) - Tool to check AppImages for compatibility, best practices etc.
 
 ### AppImage developer tools / Continuous integration
 
-*   [build-appimage-action (⭐20)](https://github.com/AppImageCrafters/build-appimage-action) - GitHub Action for producing AppImages using appimage-builder.
-*   [jniltinho/packages (⭐5)](https://github.com/jniltinho/packages) - Drone.io example for producing AppImages using go-appimagetool.
+*   [build-appimage-action (⭐19)](https://github.com/AppImageCrafters/build-appimage-action) - GitHub Action for producing AppImages using appimage-builder.
+*   [jniltinho/packages (⭐6)](https://github.com/jniltinho/packages) - Drone.io example for producing AppImages using go-appimagetool.
 
 ### AppImage developer tools / Libraries
 
 *   [AppImageServices (⭐5)](https://github.com/azubieta/AppImageServices) - D-Bus services providing a high-level interface over the AppImage manipulation libraries for file managers, software centers and other tools.
-*   [libappimage (⭐32)](https://github.com/AppImage/libappimage) - Implements functionality for dealing with AppImage files, written in C++ using Boost.
+*   [libappimage (⭐34)](https://github.com/AppImage/libappimage) - Implements functionality for dealing with AppImage files, written in C++ using Boost.
 *   [libzsync-go (⭐9)](https://github.com/AppImageCrafters/libzsync-go) - Zsync implementation written in Go that can be used to update AppImages.
 
 ### AppImage developer tools / Templates
@@ -724,11 +723,11 @@
 *   [qt-hello-world (⭐1)](https://github.com/AppImageCrafters/qt-hello-world) - Qt Hello World project for AppImage creation using appimage-builder.
 *   [qt-qml-project-template-with-ci (⭐40)](https://github.com/219-design/qt-qml-project-template-with-ci) - Template for a Qt/QML application with batteries included: GitHub CI, automated GUI testing, automatic code-format checks and more. Compiles for Linux (AppImage), Mac, and Android.
 *   [wxWidgetsTemplate (⭐15)](https://github.com/Ravbug/wxWidgetsTemplate) - Cross-platform application template for wxWidgets C++, with pre-set files and IDE projects, supporting AppImage.
-*   [Briefcase Linux AppImage Template (⭐16)](https://github.com/beeware/briefcase-linux-appimage-template) - Cookiecutter template for building Python apps that will run under Linux, packaged as an AppImage.
+*   [Briefcase Linux AppImage Template (⭐18)](https://github.com/beeware/briefcase-linux-appimage-template) - Cookiecutter template for building Python apps that will run under Linux, packaged as an AppImage.
 
 ### Resources / Specs
 
-*   [AppImageSpec (⭐54)](https://github.com/AppImage/AppImageSpec) - Official specification for the AppImage format.
+*   [AppImageSpec (⭐56)](https://github.com/AppImage/AppImageSpec) - Official specification for the AppImage format.
 *   [Desktop Entry Specification](https://specifications.freedesktop.org/desktop-entry-spec/latest/) - Specification for the matadata used inside AppImages.
 
 ### Resources / Documentation
@@ -770,25 +769,25 @@
 
 ### Resources / Miscellaneous
 
-*   [AppImage wiki (⭐7.8k)](https://github.com/AppImage/AppImageKit/wiki) - Official AppImage wiki.
+*   [AppImage wiki (⭐8k)](https://github.com/AppImage/AppImageKit/wiki) - Official AppImage wiki.
 *   [AppImageZip (⭐3)](https://github.com/sagebind/appimagezip) - Experimental pure Rust implementation of the AppImage runtime that uses Zip as the backing file system image.
 
 ### Resources / Related
 
-*   [Similar projects (⭐7.8k)](https://github.com/AppImage/AppImageKit/wiki/Similar-projects) - Comparison to other packaging systems.
+*   [Similar projects (⭐8k)](https://github.com/AppImage/AppImageKit/wiki/Similar-projects) - Comparison to other packaging systems.
 
 ### Resources / Other awesome lists
 
-*   [awesome-linuxdeploy (⭐27)](https://github.com/linuxdeploy/awesome-linuxdeploy) - Awesome list on linuxdeploy.
+*   [awesome-linuxdeploy (⭐29)](https://github.com/linuxdeploy/awesome-linuxdeploy) - Awesome list on linuxdeploy.
 *   [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
 
-## [54. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [53. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Learning / Switzerland
 
 *   [The CTP Book](https://comp-think.github.io/) - A book for teaching Computational Thinking and Programming skills to people with a background in the Humanities.
 
-## [55. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [54. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Learning Platforms
 

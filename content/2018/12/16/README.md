@@ -26,7 +26,7 @@
 
 ### Clojure / General-Purpose Machine Learning
 
-*   [Infer (⭐177)](https://github.com/aria42/infer) - Inference and machine learning in Clojure. **\[Deprecated]**
+*   [Infer (⭐176)](https://github.com/aria42/infer) - Inference and machine learning in Clojure. **\[Deprecated]**
 
 ## [4. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
 
@@ -54,7 +54,7 @@
 
 ## [8. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Components / MIT
+### Components / Apache License
 
 *   [gnatcoll-json (⭐6)](https://github.com/persan/gnatcoll-json) - This is a set of helpers for writing JSON-intefaces it contains JSON parses for most of the Ada runtime components.
 

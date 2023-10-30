@@ -8,23 +8,6 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
-### Libraries/Frameworks / Graphics
-
-*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
-
-### Libraries/Frameworks / Data Science
-
-*   [holgerbrandl/krangl (⭐563)](https://github.com/holgerbrandl/krangl) - krangl is a {K}otlin library for data w{rangl}ing.
-*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
-
-### Libraries/Frameworks / Logging
-
-*   [Foso/Cabret-Log (⭐192)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
-
-### Libraries/Frameworks / Mail
-
-*   [bluefireoly/SimpleKotlinMail (⭐58)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
-
 ### Projects / Web
 
 *   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
@@ -181,8 +164,8 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / API Clients
 
-*   [MoviebaseApp/tmdb-api (⭐150)](https://github.com/MoviebaseApp/tmdb-api) - Modern powerful TMDB API to fetch movies and TV shows for Kotlin Multiplatform.
 *   [MoviebaseApp/trakt-api (⭐36)](https://github.com/MoviebaseApp/trakt-api) - Modern powerful Trakt API to track, discover and share your movies & TV shows.
+*   [MoviebaseApp/tmdb-api (⭐150)](https://github.com/MoviebaseApp/tmdb-api) - Modern powerful TMDB API to fetch movies and TV shows for Kotlin Multiplatform.
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
@@ -286,28 +269,28 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Command Line Interface
 
-*   [ajalt/clikt (⭐2.2k)](https://github.com/ajalt/clikt) - Clikt - Intuitive command line interface parsing for Kotlin.
+*   [aPureBase/arkenv (⭐17)](https://github.com/aPureBase/arkenv) - Fully fledged command line arguments / environment variables parser via simple Kotlin delegates
+*   [dbaelz/Konclik (⭐46)](https://github.com/dbaelz/Konclik) - Konclik: Kotlin/Native Command Line Interface Kit
+*   [fork-handles/bunting4k (⭐159)](https://github.com/fork-handles/forkhandles/tree/trunk/bunting4k) - Simple, typesafe, testable command line flags
+*   [kotlin-inquirer (⭐178)](https://github.com/kotlin-inquirer/kotlin-inquirer) - A collection of common interactive command line user interfaces written in Kotlin
+*   [varabyte/kotter (⭐462)](https://github.com/varabyte/kotter) - A declarative, Kotlin-idiomatic API for writing dynamic command line applications
 *   [xenomachina/kotlin-argparser (⭐473)](https://github.com/xenomachina/kotlin-argparser) - Easy to use and concise yet powerful and robust command line argument parsing for Kotlin.
 *   [ajalt/mordant (⭐816)](https://github.com/ajalt/mordant) - Mordant - Full-featured text styling for Kotlin command line applications.
-*   [aPureBase/arkenv (⭐17)](https://github.com/aPureBase/arkenv) - Fully fledged command line arguments / environment variables parser via simple Kotlin delegates
-*   [fork-handles/bunting4k (⭐159)](https://github.com/fork-handles/forkhandles/tree/trunk/bunting4k) - Simple, typesafe, testable command line flags
-*   [dbaelz/Konclik (⭐46)](https://github.com/dbaelz/Konclik)
-*   [varabyte/kotter (⭐462)](https://github.com/varabyte/kotter) - A declarative, Kotlin-idiomatic API for writing dynamic command line applications
-*   [kotlin-inquirer (⭐178)](https://github.com/kotlin-inquirer/kotlin-inquirer) - A collection of common interactive command line user interfaces written in Kotlin
+*   [ajalt/clikt (⭐2.2k)](https://github.com/ajalt/clikt) - Clikt - Intuitive command line interface parsing for Kotlin.
 
 ### Libraries/Frameworks / Browsers
 
-*   [wendigo/chrome-reactive-kotlin (⭐74)](https://github.com/wendigo/chrome-reactive-kotlin)
+*   [wendigo/chrome-reactive-kotlin (⭐74)](https://github.com/wendigo/chrome-reactive-kotlin) - Headless Chrome DevTools Protocol Client (RxJava3 + Kotlin)
 
 ### Libraries/Frameworks / I/O
 
-*   [square/okio](https://square.github.io/okio) - A modern I/O library for Android, Kotlin, and Java.
 *   [rsocket/rsocket-kotlin](https://rsocket.io) - Kotlin implementation of RSocket.
+*   [square/okio](https://square.github.io/okio) - A modern I/O library for Android, Kotlin, and Java.
 
 ### Libraries/Frameworks / Internationalisation and Localization
 
-*   [cashapp/barber (⭐145)](https://github.com/cashapp/barber) - A type safe Kotlin JVM library for building up localized, fillable, themed documents using Mustache templating.
 *   [projectfluent/fluent-kotlin (⭐29)](https://github.com/projectfluent/fluent-kotlin) - Kotlin tooling implementation of ProjectFluent. Read, write, and transform Fluent files.
+*   [cashapp/barber (⭐145)](https://github.com/cashapp/barber) - A type safe Kotlin JVM library for building up localized, fillable, themed documents using Mustache templating.
 
 ### Libraries/Frameworks / Jetpack-Compose
 
@@ -649,20 +632,20 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Data Science
 
-*   [JetBrains/lets-plot-kotlin (⭐361)](https://github.com/JetBrains/lets-plot-kotlin) - Grammar of graphics visualization for Kotlin
-*   [JetBrains/KotlinDL](https://jetbrains.github.io/KotlinDL/) - High-level Deep Learning Framework written in Kotlin and inspired by Keras.
-*   [Kotlin/kotlin-jupyter (⭐962)](https://github.com/Kotlin/kotlin-jupyter) - Official Kotlin Jupyter kernel
-*   [kyonifer/koma (⭐270)](https://github.com/kyonifer/koma) - A scientific computing library for Kotlin.
-*   [mipt-npm/kmath (⭐566)](https://github.com/mipt-npm/kmath) - A (not so numpy-like) multiplatform mathematical library with higher level abstractions.
+*   [cdietze/euklid (⭐2)](https://github.com/cdietze/euklid) - A cross-platform geometry library in Kotlin
 *   [unipu-ict/ksdtoolkit (⭐3)](https://github.com/unipu-ict/ksdtoolkit) - Kotlin System Dynamics Toolkit - for system dynamics modelling and simulation with Kotlin.
-*   [MarcinMoskala/KotlinDiscreteMathToolkit (⭐179)](https://github.com/MarcinMoskala/KotlinDiscreteMathToolkit) - Set of extensions for Kotlin that provides Discrete Math functionalities as an Kotlin extension functions.
+*   [lamba92/KGraph (⭐15)](https://github.com/lamba92/KGraph) - A Kotlin multi-platform library for graph data structures
+*   [grinisrit/noa-atra (⭐25)](https://github.com/grinisrit/noa-atra) - Analytics for Trading with NOA
 *   [sanity/pairAdjacentViolators (⭐49)](https://github.com/sanity/pairAdjacentViolators) - A Kotlin implementation of the Pair Adjacent Violators algorithm for isotonic regression.
 *   [holgerbrandl/kalasim](https://www.kalasim.org) - Discrete event simulator that enables complex, dynamic process models.
-*   [cdietze/euklid (⭐2)](https://github.com/cdietze/euklid)
-*   [lamba92/KGraph (⭐15)](https://github.com/lamba92/KGraph) - A Kotlin multi-platform library for graph data structures
+*   [breandan/kaliningraph (⭐92)](https://github.com/breandan/kaliningraph) - 🕸️ Graphs, finite fields and discrete dynamical systems in Kotlin
+*   [MarcinMoskala/KotlinDiscreteMathToolkit (⭐179)](https://github.com/MarcinMoskala/KotlinDiscreteMathToolkit) - Set of extensions for Kotlin that provides Discrete Math functionalities as an Kotlin extension functions.
+*   [kyonifer/koma (⭐270)](https://github.com/kyonifer/koma) - A scientific computing library for Kotlin.
+*   [JetBrains/lets-plot-kotlin (⭐361)](https://github.com/JetBrains/lets-plot-kotlin) - Grammar of graphics visualization for Kotlin
+*   [mipt-npm/kmath (⭐566)](https://github.com/mipt-npm/kmath) - A (not so numpy-like) multiplatform mathematical library with higher level abstractions.
 *   [Kotlin/dataframe (⭐570)](https://github.com/Kotlin/dataframe) - A Kotlin library for in-memory data manipulation
-*   [breandan/kaliningraph (⭐92)](https://github.com/breandan/kaliningraph)
-*   [grinisrit/noa-atra (⭐25)](https://github.com/grinisrit/noa-atra) - Analytics for Trading with NOA
+*   [Kotlin/kotlin-jupyter (⭐962)](https://github.com/Kotlin/kotlin-jupyter) - Official Kotlin Jupyter kernel
+*   [JetBrains/KotlinDL](https://jetbrains.github.io/KotlinDL/) - High-level Deep Learning Framework written in Kotlin and inspired by Keras.
 
 ### Libraries/Frameworks / API Clients
 
@@ -943,8 +926,8 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Graphics
 
-*   [kotlin-graphics/bullet (⭐39)](https://github.com/kotlin-graphics/bullet) - bullet port
 *   [java-opengl-labs/learn-OpenGL (⭐36)](https://github.com/java-opengl-labs/learn-OpenGL) - port of <https://learnopengl.com/> tutorial (lwjgl)
+*   [kotlin-graphics/bullet (⭐39)](https://github.com/kotlin-graphics/bullet) - bullet port
 
 ## [Mar 28 - Apr 03, 2022](/content/2022/13/README.md)
 
@@ -1459,9 +1442,9 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Configuration
 
-*   [davidohana/kofiko-kotlin (⭐22)](https://github.com/davidohana/kofiko-kotlin) - Kofiko: Code-First configuration library. Lightweight, simple and minimal boilerplate.
 *   [daviddenton/configur8 (⭐11)](https://github.com/daviddenton/configur8) - A Kotlin port of Configur8 - A Type Safe Configuration API for Kotlin, extendable to user-defined types.
 *   [Nohus/AutoKonfig](https://autokonfig.nohus.dev/) - A Kotlin configuration library with batteries included. Type-safe, zero lines of setup.
+*   [davidohana/kofiko-kotlin (⭐22)](https://github.com/davidohana/kofiko-kotlin) - Kofiko: Code-First configuration library. Lightweight, simple and minimal boilerplate.
 *   [ufoscout/properlty (⭐26)](https://github.com/ufoscout/properlty) - Simple configuration library with placeholders resolution and zero magic!
 *   [mariomac/kaconf (⭐57)](https://github.com/mariomac/kaconf) - KickAss Configuration. An annotation-based configuration system for Java and Kotlin
 *   [jdiazcano/cfg4k (⭐81)](https://github.com/jdiazcano/cfg4k) - Flexible and easy to use config library written in kotlin.
@@ -1472,9 +1455,9 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Graphics
 
-*   [data2viz/data2viz (⭐393)](https://github.com/data2viz/data2viz) - multiplatform dataviz library, d3js port
-*   [kotlin-graphics/uno-sdk (⭐24)](https://github.com/kotlin-graphics/uno-sdk) - Unofficial OpenGL SDK
 *   [kotlin-graphics/ovr (⭐6)](https://github.com/kotlin-graphics/ovr) - Oculus binding
+*   [kotlin-graphics/uno-sdk (⭐24)](https://github.com/kotlin-graphics/uno-sdk) - Unofficial OpenGL SDK
+*   [data2viz/data2viz (⭐393)](https://github.com/data2viz/data2viz) - multiplatform dataviz library, d3js port
 *   [kotlin-graphics/imgui (⭐571)](https://github.com/kotlin-graphics/imgui) - jvm port of imgui
 *   [openrndr/openrndr (⭐795)](https://github.com/openrndr/openrndr) - OPENRNDR, a framework for creative coding in Kotlin. Accelerated 2D and 3D graphics, vector graphics, shaders and animation
 
@@ -1674,8 +1657,8 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 ### Libraries/Frameworks / Data Science
 
 *   [Kotlin for Data Science](https://kotlinlang.org/docs/reference/data-science-overview.html) - Kotlin for Data Science overview page
-*   [breandan/kotlingrad (⭐498)](https://github.com/breandan/kotlingrad) - Shape-Safe Differentiable Programming with Algebraic Data Types.
 *   [kiegroup/optaplanner](https://www.optaplanner.org/compatibility/kotlin.html) - Constraint solving AI for planning and scheduling problems.
+*   [breandan/kotlingrad (⭐498)](https://github.com/breandan/kotlingrad) - Shape-Safe Differentiable Programming with Algebraic Data Types.
 
 ### Libraries/Frameworks / Command Line Interface
 

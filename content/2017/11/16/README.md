@@ -39,7 +39,7 @@
 
 ### Localization
 
-*   [pt\_BR (⭐67)](https://github.com/rafaelstz/traducao_magento2_pt_br) 🇧🇷 - Portuguese Brazil Language Package.
+*   [pt\_BR (⭐70)](https://github.com/rafaelstz/traducao_magento2_pt_br) 🇧🇷 - Portuguese Brazil Language Package.
 
 ## [6. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [AmmoBin.ca (⭐17)](https://github.com/ammobinDOTca/ammobin-client) - meta search site for online ammo prices across Canada
+*   [AmmoBin.ca (⭐19)](https://github.com/ammobinDOTca/ammobin-client) - meta search site for online ammo prices across Canada
 
 ## [9. Amas](/content/sindresorhus/amas/README.md)
 
@@ -87,16 +87,16 @@
 
 ### UI / Barcode
 
-*   [Mandoline (⭐891)](https://github.com/blueapron/Mandoline) - An iOS picker view to serve all your 'picking' needs.
+*   [Mandoline (⭐895)](https://github.com/blueapron/Mandoline) - An iOS picker view to serve all your 'picking' needs.
 
 ### Menu / Barcode
 
-*   [FlowingMenu (⭐977)](https://github.com/yannickl/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects.
+*   [FlowingMenu (⭐976)](https://github.com/yannickl/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects.
 *   [HHFloatingView (⭐94)](https://github.com/hemangshah/HHFloatingView) - An easy to use and setup floating view for your app.
 
 ### UICollectionView / Barcode
 
-*   [CardsLayout (⭐809)](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
+*   [CardsLayout (⭐824)](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
 
 ---
 

@@ -18,96 +18,7 @@
 
 *   [dump-ipfs (⭐0)](https://github.com/quasarch/dump-ipfs) - A decentralized encrypted backup agent for popular databases supported by IPFS and Filecoin.
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Libraries/Frameworks / Extensions
-
-*   [Kotlin/kotlinx.support (⭐54)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
-
-### Libraries/Frameworks / Graphics
-
-*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
-
-### Libraries/Frameworks / Data Science
-
-*   [holgerbrandl/krangl (⭐563)](https://github.com/holgerbrandl/krangl) - krangl is a {K}otlin library for data w{rangl}ing.
-*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
-
-### Libraries/Frameworks / Logging
-
-*   [Foso/Cabret-Log (⭐192)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
-
-### Libraries/Frameworks / Mail
-
-*   [bluefireoly/SimpleKotlinMail (⭐58)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
-
-### Projects / Web
-
-*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
-
-### Projects / Build tools
-
-*   [gradle/kotlin-dsl-samples (⭐3.7k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
-*   [nebula-plugins/nebula-kotlin-plugin (⭐57)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
-
-### Projects / Misc
-
-*   [kpspemu/kpspemu (⭐69)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
-*   [chrislo27/RhythmHeavenRemixEditor (⭐421)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
-
-### Projects / Desktop
-
-*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
-
-### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
-
-### Projects / Android
-
-*   [skydoves/githubfollows (⭐295)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
-
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-
-### Android / Projects
-
-*   [hanjoongcho/aaf-easyphotomap (⭐39)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
-*   [mustafaberkaymutlu/uv-index (⭐67)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
-*   [hanjoongcho/aaf-easypassword (⭐34)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
-
-### Android / Extensions
-
-*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
-
-### Android / Tests
-
-*   [agoda-com/Kakao (⭐1.1k)](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
-
-### Kotlin JavaScript / JavaScript
-
-*   [pixijs/pixi-native (⭐85)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
-*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
-*   [Foso/MpApt (⭐238)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
-
-### Kotlin JavaScript / Build Tools
-
-*   [Kotlin/kotlin-frontend-plugin (⭐567)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
-
-### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐319)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-### Kotlin Native / Projects
-
-*   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
-
-## [4. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
+## [3. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
 ### Sports
 
@@ -115,19 +26,19 @@
 
     <img src="https://raw.githubusercontent.com/bestmacfly/Scriptable-lichess-Widget/main/Screenshot.png" width="400"/>
 
-## [5. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [4. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### IO Games
 
 *   [GUMMYZ](https://gummyz.fitfuns.com) - Sword-swinging multiplayer combat game.
 
-## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Others
 
 *   [vite-vue3-chrome-extension-v3 (⭐140)](https://github.com/mubaidr/vite-vue3-chrome-extension-v3) - Web extension starter template for Chrome, Firefox and Edge.
 
-## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -137,7 +48,7 @@
 
 *   [mrcjkb/kickstart-nix.nvim (⭐18)](https://github.com/mrcjkb/kickstart-nix.nvim) - A simple [Nix flake](https://nixos.wiki/wiki/Flakes) template repo for Neovim derivations, with the goal of simplifying the migration from existing Neovim configurations.
 
-## [8. Awesome Directus](/content/directus-community/awesome-directus/README.md)
+## [7. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Extensions / Community
 
@@ -146,7 +57,7 @@
 *   [Classified Group (⭐0)](https://github.com/formfcw/directus-extension-classified-group) - A group to which a class can be assigned for custom styling.
 *   [Tokenized Preview (⭐1)](https://github.com/formfcw/directus-extension-tokenized-preview) - An endpoint that adds an active auth token to your preview URL.
 
-## [9. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [8. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 
@@ -157,7 +68,7 @@
 
 *   [Learn JAX: From Linear Regression to Neural Networks by Rito Ghosh](https://www.kaggle.com/code/truthr/jax-0) - A gentle introduction to JAX and using it to implement Linear and Logistic Regression, and Neural Network models and using them to solve real world problems.
 
-## [10. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [9. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Tutorials
 
@@ -167,11 +78,27 @@
 
 *   KNN
 
-## [11. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [10. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### Mathematics
+### Go / Phoenix
 
-*   [A First Course in Complex Analysis](https://matthbeck.github.io/papers/complexorth.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka (PDF)
+*   [Essentials of Go Programming](https://essentials-of-go-programming.readthedocs.io) - Baiju Muthukadan (HTML)
+
+## [11. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+
+### Productivity
+
+*   [Taskade](https://www.taskade.com/) - Taskade elegantly unifies your team tasks, notes, and mind, stripping away the noise to reveal the essence of productivity. `#freemium`
+
+### Startup Tools
+
+*   [ClickUp](https://clickup.com/) - All of your work in one place: Tasks, Docs, Chat, Goals, & more. `#free`
+*   [Jasper AI](https://www.jasper.ai/) - Jasper is an AI copilot for enterprise marketing teams. `#paid`
+
+### Story Teller
+
+*   [Plot Factory](https://plotfactory.com/) - An online collaborative story planner that lets writers plan, organize, and write stories & fictional universes. `#paid`
+*   [Sudowrite](https://www.sudowrite.com/) - The model generates text by guessing what's most likely to come next, one word at a time. Kind of like autocomplete on your phone. `#paid`
 
 ## [12. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
@@ -291,9 +218,6 @@
 | Players | Min. Age |    Time |
 | ------: | -------: | ------: |
 |   1 - 4 |       13 | 60-120m |
-
-### Contribute
-
 ### [Falling Koalas](https://boardgamegeek.com/boardgame/270365/falling-koalas)
 
 > Falling Koalas is a card game all about koalas. Drop Bears, as they are affectionately called, are known to eat eucalyptus leaves and sleep all day. Although seemingly cute and cuddly, they attack!
@@ -306,8 +230,6 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 5 |        8 | 10-20m |
-
-Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
 
 ## [16. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
@@ -351,4 +273,5 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ---
 
+- Prev: [Oct 24, 2023](/content/2023/10/24/README.md)
 - Next: [Oct 22, 2023](/content/2023/10/22/README.md)

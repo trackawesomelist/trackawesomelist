@@ -23,7 +23,7 @@
 
 ### Security / Components
 
-*   So you thought you were safe using AngularJS? Think again! [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) - Lewis Ardern speaking at OWASP London 2017
+*   So you thought you were safe using AngularJS? Think again! [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) - Lewis Ardern speaking at OWASP London 2017.
     ##### Authentication
 
 ## [2. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
@@ -48,19 +48,19 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [neonrvm (⭐33)](https://github.com/siavashserver/neonrvm) - neonrvm is an open source machine learning library based on RVM technique. It's written in C programming language and comes with Python programming language bindings.
+*   [neonrvm (⭐35)](https://github.com/siavashserver/neonrvm) - neonrvm is an open source machine learning library based on RVM technique. It's written in C programming language and comes with Python programming language bindings.
 
 ## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Network / Barcode
 
-*   [SolarNetwork (⭐103)](https://github.com/ThreeGayHub/SolarNetwork) - Elegant network abstraction layer.
+*   [SolarNetwork (⭐102)](https://github.com/ThreeGayHub/SolarNetwork) - Elegant network abstraction layer.
 
 ## [7. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Directly On Top Of A RMDB
 
-*   [pREST (⭐3.6k)](https://github.com/prest/prest) - A fully RESTful API from any existing PostgreSQL database written in Go.
+*   [pREST (⭐3.9k)](https://github.com/prest/prest) - A fully RESTful API from any existing PostgreSQL database written in Go.
 
 ### Mocking / Symfony2
 

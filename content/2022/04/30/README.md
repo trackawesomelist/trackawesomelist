@@ -8,19 +8,19 @@
 
 ## [1. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Select Star](https://www.selectstar.com/) - is an intelligent data discovery platform that automatically analyzes and documents your data. Free light tier with 1 Data Source, up to 100 Tables and up to 10 Users.
+*   [Select Star](https://www.selectstar.com/) - is an intelligent data discovery platform that automatically analyzes and documents your data. Free light tier with 1 Data Source, up to 100 Tables and 10 Users.
 
 ### Email
 
-*   [MailerSend.com](https://www.mailersend.com) — Email API, SMTP, 12,000 emails/month free for transactional emails
+*   [MailerSend.com](https://www.mailersend.com) — Email API, SMTP, 3,000 emails/month free for transactional emails
 
 ## [2. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Game Disassemblies / Syntax highlighting packages
 
-*   [Final Fantasy Adventure (⭐14)](https://github.com/daid/FFA-disassembly)
+*   [Final Fantasy Adventure (⭐15)](https://github.com/daid/FFA-disassembly)
 
 ## [3. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -33,7 +33,7 @@
 
 ### Tutorials / Getting Started
 
-*   [Scene2D.UI From the Ground Up (⭐368)](https://github.com/raeleus/skin-composer/wiki/From-the-Ground-Up:-Scene2D.UI-Tutorials) - Covers the basics of UI design in Scene2D, libGDX's premiere scene graph and layout toolkit.
+*   [Scene2D.UI From the Ground Up (⭐381)](https://github.com/raeleus/skin-composer/wiki/From-the-Ground-Up:-Scene2D.UI-Tutorials) - Covers the basics of UI design in Scene2D, libGDX's premiere scene graph and layout toolkit.
 
 ### Tutorials / Advanced
 
@@ -71,17 +71,17 @@
 
 ### zgenom
 
-*   [zsh-quickstart-kit (⭐640)](https://github.com/unixorn/zsh-quickstart-kit) - A simple quickstart for using ZSH with [zgenom (⭐268)](https://github.com/jandamm/zgenom). This automatically configures ZSH to use [zgenom (⭐268)](https://github.com/jandamm/zgenom) to load a curated (but easily customizable) collection of plugins and periodically automatically update itself, the plugins, and the quickstart kit itself.
+*   [zsh-quickstart-kit (⭐685)](https://github.com/unixorn/zsh-quickstart-kit) - A simple quickstart for using ZSH with [zgenom (⭐299)](https://github.com/jandamm/zgenom). This automatically configures ZSH to use [zgenom (⭐299)](https://github.com/jandamm/zgenom) to load a curated (but easily customizable) collection of plugins and periodically automatically update itself, the plugins, and the quickstart kit itself.
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [git-worktrees (⭐7)](https://github.com/egyptianbman/zsh-git-worktrees) - Makes `git` worktrees more functional. Includes tab completions.
+*   [git-worktrees (⭐12)](https://github.com/egyptianbman/zsh-git-worktrees) - Makes `git` worktrees more functional. Includes tab completions.
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [bref (⭐3)](https://github.com/mpostaire/bref-zsh-prompt) - A simple prompt. It includes decorators to display `git` status asynchronously, a notification if the `ssh` session is remote, the battery level and the number of background jobs.
 *   [winline (⭐2)](https://github.com/khuei/winline) - Async version of Greg Hurrell's [prompt (⭐1.1k)](https://github.com/wincent/wincent/blob/master/aspects/dotfiles/files/.zshrc). Includes decorators for `git` status, duration of last command, current directory, nested shells, root status.
-*   [zen (⭐11)](https://github.com/cybardev/zen.zsh) - A minimalist theme for `*NIX` systems. Includes decorators for execution time of last command run, vcs status information,
+*   [zen (⭐12)](https://github.com/cybardev/zen.zsh) - A minimalist theme for `*NIX` systems. Includes decorators for execution time of last command run, vcs status information,
 *   [zshify (⭐1)](https://github.com/nrjdalal/zshify) - A minimalistic, one command installation to customize your prompt. Requires [npx](https://docs.npmjs.com/getting-started/installing-npm-packages-locally).
 
 ## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)

@@ -22,7 +22,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-tour (⭐2.2k)](https://github.com/pulsardev/vue-tour) - Lightweight and customizable tour plugin
+*   [vue-tour (⭐2.3k)](https://github.com/pulsardev/vue-tour) - Lightweight and customizable tour plugin
 
 ## [4. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -41,14 +41,14 @@
 
 ### Packages / Apps
 
-*   [waveform-playlist (⭐1.3k)](https://github.com/naomiaro/waveform-playlist) - Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Record audio tracks or provide audio annotations. Export your mix to AudioBuffer or WAV! Project inspired by Audacity.
+*   [waveform-playlist (⭐1.4k)](https://github.com/naomiaro/waveform-playlist) - Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Record audio tracks or provide audio annotations. Export your mix to AudioBuffer or WAV! Project inspired by Audacity.
 
 ## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
 *   Stocks
-    *   [Trady (⭐499)](https://github.com/lppkarl/Trady) - Handy library for computing technical indicators, and it targets to be an automated trading system that provides stock data feeding, indicator computing, strategy building and automatic trading.
+    *   [Trady (⭐523)](https://github.com/lppkarl/Trady) - Handy library for computing technical indicators, and it targets to be an automated trading system that provides stock data feeding, indicator computing, strategy building and automatic trading.
 
 ## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

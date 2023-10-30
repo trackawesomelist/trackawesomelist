@@ -19,11 +19,11 @@
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [Sequence Animation (⭐380)](https://github.com/Norbert515/flutter_sequence_animation) <!--stargazers:Norbert515/flutter_sequence_animation--> - Composite staggered animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
+*   [Sequence Animation (⭐386)](https://github.com/Norbert515/flutter_sequence_animation) <!--stargazers:Norbert515/flutter_sequence_animation--> - Composite staggered animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
 
 ### Top / Game Engine resources
 
-*   [Meme Chat (⭐527)](https://github.com/efortuna/memechat) <!--stargazers:efortuna/memechat--> - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
+*   [Meme Chat (⭐531)](https://github.com/efortuna/memechat) <!--stargazers:efortuna/memechat--> - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
 
 ## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
@@ -82,16 +82,16 @@
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [Miniblog (⭐1.3k)](https://github.com/madskristensen/Miniblog.Core) - An ASP.NET Core blogging engine.
-*   [Orchard Core CMS (⭐6.2k)](https://github.com/OrchardCMS/OrchardCore) - Open Source Content Management System built with ASP.NET Core on top of a Modular and Extensible Application Framework.
+*   [Miniblog (⭐1.4k)](https://github.com/madskristensen/Miniblog.Core) - An ASP.NET Core blogging engine.
+*   [Orchard Core CMS (⭐6.8k)](https://github.com/OrchardCMS/OrchardCore) - Open Source Content Management System built with ASP.NET Core on top of a Modular and Extensible Application Framework.
 
 ### Frameworks, Libraries and Tools / Database Tools and Utilities
 
-*   [SharpRepository (⭐608)](https://github.com/SharpRepository/SharpRepository) - SharpRepository is a generic repository written in C# which includes support for various relational, document and object databases including Entity Framework, RavenDB, MongoDb and Db4o. SharpRepository includes Xml and InMemory repository implementations as well.
+*   [SharpRepository (⭐649)](https://github.com/SharpRepository/SharpRepository) - SharpRepository is a generic repository written in C# which includes support for various relational, document and object databases including Entity Framework, RavenDB, MongoDb and Db4o. SharpRepository includes Xml and InMemory repository implementations as well.
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [posh-dotnet (⭐38)](https://github.com/bergmeister/posh-dotnet) - `PowerShell` tab completion for the [dotnet CLI (⭐3.5k)](https://github.com/dotnet/cli).
+*   [posh-dotnet (⭐44)](https://github.com/bergmeister/posh-dotnet) - `PowerShell` tab completion for the [dotnet CLI (⭐3.5k)](https://github.com/dotnet/cli).
 
 ---
 

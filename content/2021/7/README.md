@@ -29,7 +29,7 @@
 
 ### Table of Contents / Streaming Engine
 
-*   [Maki Nage (⭐35)](https://github.com/maki-nage/makinage) \[Python] - A stream processing framework for data scientists, based on Kafka and ReactiveX.
+*   [Maki Nage (⭐37)](https://github.com/maki-nage/makinage) \[Python] - A stream processing framework for data scientists, based on Kafka and ReactiveX.
 
 ## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
@@ -53,43 +53,43 @@
 
 ### Overview / YouTube
 
-*   [Youtube-viewer (⭐1k)](https://github.com/trizen/youtube-viewer): Lightweight YouTube client for Linux
-*   [Invidious-viewer (⭐13)](https://github.com/git-bruh/invidious-viewer): Python application to watch YouTube videos through the Invidious API, in the terminal (requires MPV player and libmpv.so, provided by Linux distro)
-*   [Youtube-dl (⭐119k)](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
-*   [Alltube (⭐2.8k)](https://github.com/Rudloff/alltube): Web GUI for youtube-dl
-*   [Vividl (⭐274)](https://github.com/Bluegrams/Vividl): Modern Windows GUI for youtube-dl
-*   [Tartube (⭐1.4k)](https://github.com/axcore/tartube): A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
-*   [Plumber (⭐48)](https://github.com/keshavbhatt/plumber): Local and remote video trimmer, can trim parts of video without downloading whole video, utilizes youtube-dl, allows conversion to GIFs
-*   [ViewTube (⭐665)](https://github.com/ViewTube/viewtube-vue): An alternative front-end for YouTube, written in Vue.js, uses Plyr video player; supports SponsorBlock, multiple Invidious instances support, chapters
+*   [Youtube-viewer (⭐1.1k)](https://github.com/trizen/youtube-viewer): Lightweight YouTube client for Linux
+*   [Invidious-viewer (⭐15)](https://github.com/git-bruh/invidious-viewer): Python application to watch YouTube videos through the Invidious API, in the terminal (requires MPV player and libmpv.so, provided by Linux distro)
+*   [Youtube-dl (⭐122k)](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
+*   [Alltube (⭐2.9k)](https://github.com/Rudloff/alltube): Web GUI for youtube-dl
+*   [Vividl (⭐425)](https://github.com/Bluegrams/Vividl): Modern Windows GUI for youtube-dl
+*   [Tartube (⭐1.5k)](https://github.com/axcore/tartube): A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
+*   [Plumber (⭐54)](https://github.com/keshavbhatt/plumber): Local and remote video trimmer, can trim parts of video without downloading whole video, utilizes youtube-dl, allows conversion to GIFs
+*   [ViewTube (⭐755)](https://github.com/ViewTube/viewtube-vue): An alternative front-end for YouTube, written in Vue.js, uses Plyr video player; supports SponsorBlock, multiple Invidious instances support, chapters
 
 ### Overview / Twitter
 
-*   [Shitter (⭐151)](https://github.com/nuclearfog/Shitter): Android, alternative front-end for Twitter, built with Java
-*   [Harpy (⭐1.9k)](https://github.com/robertodoering/harpy): Android, alternative front-end for Twitter, built with Flutter/Dart
-*   [Twidere X (⭐921)](https://github.com/TwidereProject/TwidereX-Android): Android, alternative front-end for Twitter, built mostly with Kotlin, in early stage
-*   [Tweeterr (⭐4)](https://github.com/sherwyn11/Tweeterr): A tool to use Twitter from the command line on the fly
-*   [Tweet-app (⭐60)](https://github.com/rhysd/tweet-app): Desktop Twitter client only for tweeting. Timeline never shows up
-*   [Tweepy (⭐9.5k)](https://github.com/tweepy/tweepy): Twitter for Python
+*   [Shitter (⭐196)](https://github.com/nuclearfog/Shitter): Android, alternative front-end for Twitter, built with Java
+*   [Harpy (⭐2k)](https://github.com/robertodoering/harpy): Android, alternative front-end for Twitter, built with Flutter/Dart
+*   [Twidere X (⭐970)](https://github.com/TwidereProject/TwidereX-Android): Android, alternative front-end for Twitter, built mostly with Kotlin, in early stage
+*   [Tweeterr (⭐6)](https://github.com/sherwyn11/Tweeterr): A tool to use Twitter from the command line on the fly
+*   [Tweet-app (⭐65)](https://github.com/rhysd/tweet-app): Desktop Twitter client only for tweeting. Timeline never shows up
+*   [Tweepy (⭐9.8k)](https://github.com/tweepy/tweepy): Twitter for Python
 
 ### Overview / Reddit
 
-*   [RedditClient (⭐13)](https://github.com/grey-r/RedditSharp): Alternative front-end for Reddit, built with Angular
-*   [Eddrit (⭐18)](https://github.com/corenting/eddrit): Alternative front-end for Reddit, inspired by Nitter, built with Python & Starlette
+*   [RedditClient (⭐15)](https://github.com/grey-r/RedditSharp): Alternative front-end for Reddit, built with Angular
+*   [Eddrit (⭐21)](https://github.com/corenting/eddrit): Alternative front-end for Reddit, inspired by Nitter, built with Python & Starlette
 *   [Top of Reddit (⭐23)](https://github.com/mgerb/top-of-reddit): Top Reddit posts every day
 
 ### Overview / Hacker News
 
-*   [HNTopLinks (⭐28)](https://github.com/eguller/hntoplinks): Top Links on Hacker News
+*   [HNTopLinks (⭐30)](https://github.com/eguller/hntoplinks): Top Links on Hacker News
 
 ### Redirection / Other services
 
-*   [Privacy Redirect (⭐1.6k)](https://github.com/SimonBrazell/privacy-redirect): A simple web extension that redirects Twitter, YouTube, & Google Maps requests to privacy friendly alternatives
+*   [Privacy Redirect (⭐1.7k)](https://github.com/SimonBrazell/privacy-redirect): A simple web extension that redirects Twitter, YouTube, & Google Maps requests to privacy friendly alternatives
     *   [Firefox Add-On: Privacy Redirect](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect)
     *   [Chrome Extension: Privacy Redirect](https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb)
 
 ### Related projects / Other services
 
-*   [uBlock Origin (⭐35k)](https://github.com/gorhill/uBlock): An efficient blocker for Chromium and Firefox. Fast and lean
+*   [uBlock Origin (⭐37k)](https://github.com/gorhill/uBlock): An efficient blocker for Chromium and Firefox. Fast and lean
     *   [Firefox Add-On: uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin)
     *   [Chrome Extension: uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
@@ -104,22 +104,22 @@
 ### Plugins / Languages and Environments
 
 *   JSON
-    *   [JSON (⭐172)](https://github.com/azeemba/eslint-plugin-json) - Lint your JSON files.
-    *   [JSON, package.json (⭐35)](https://github.com/Bkucera/eslint-plugin-json-format) - Lint, format, and auto-fix your JSON files. Sort your `package.json`.
-    *   [JSON with Comments (⭐88)](https://github.com/ota-meshi/eslint-plugin-jsonc) - ESLint plugin for JSON, JSONC and JSON5.
-    *   [JSON Schema (⭐42)](https://github.com/ota-meshi/eslint-plugin-json-schema-validator) - Validates data defined in JavaScript, JSON, YAML and TOML using JSON Schema Validator.
+    *   [JSON (⭐173)](https://github.com/azeemba/eslint-plugin-json) - Lint your JSON files.
+    *   [JSON, package.json (⭐36)](https://github.com/Bkucera/eslint-plugin-json-format) - Lint, format, and auto-fix your JSON files. Sort your `package.json`.
+    *   [JSON with Comments (⭐97)](https://github.com/ota-meshi/eslint-plugin-jsonc) - ESLint plugin for JSON, JSONC and JSON5.
+    *   [JSON Schema (⭐44)](https://github.com/ota-meshi/eslint-plugin-json-schema-validator) - Validates data defined in JavaScript, JSON, YAML and TOML using JSON Schema Validator.
 
 ## [11. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Online services
 
-*   [Micoo (⭐157)](https://github.com/Mikuu/Micoo) - Open source service for all UI application visual regression solution
+*   [Micoo (⭐175)](https://github.com/Mikuu/Micoo) - Open source service for all UI application visual regression solution
 
 ## [12. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Inspired by Elm / Games
 
-*   [Bucklescript-TEA (⭐592)](https://github.com/OvermindDL1/bucklescript-tea) - The Elm Architecture based on OCaml / Reason and [Bucklescript](https://bucklescript.github.io/)
+*   [Bucklescript-TEA (⭐595)](https://github.com/OvermindDL1/bucklescript-tea) - The Elm Architecture based on OCaml / Reason and [Bucklescript](https://bucklescript.github.io/)
 *   [Oolong](https://oolong-kt.org/) - An Elm inspired Model-View-Update (MVU) implementation for Kotlin multiplatform.
 
 ## [13. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
@@ -129,111 +129,117 @@
 *   [BulletinBoard (⭐5.3k)](https://github.com/alexisakers/BulletinBoard) - Generates and manages contextual cards displayed at the bottom of the screen.
 *   [Wallet](https://github.com/russ-stamant/Wallet) - A replica of the Apple's Wallet interface. Add, delete or present your cards and passes.
 
-## [14. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [14. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Programming for Non-Programmers, Release 2.6.2](https://web.archive.org/web/20180921063136/http://buildingskills.itmaybeahack.com/book/programming-2.6/latex/ProgrammingforNon-Programmers.pdf) - Steven F. Lott (PDF) (2.6) *(:card\_file\_box: archived)*
+
+## [15. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Utilities / Navigation Demos
 
 *   [SimpleLocalize CLI (⭐34)](https://github.com/simplelocalize/simplelocalize-cli) - An open source Localization CLI tool for finding i18n keys in project files.
 
-## [15. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [16. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Components / MIT
+### Components / Apache License
 
 *   [lace (⭐6)](https://github.com/charlie5/lace) - A set of Ada components to allow 3D simulations, games and GUI's in Ada.
 
-### Automation / MIT
+### Automation / Apache License
 
 *   [aicwl](http://www.dmitry-kazakov.de/ada/aicwl.htm) - Collection of packages provided for design of high-quality industrial control widgets for Ada applications.
 *   [ada-for-automation](https://gitlab.com/ada-for-automation/ada-for-automation) - A4A is a framework for designing industrial automation applications using the Ada language.
 
-### Science / MIT
+### Science / Apache License
 
 *   [si](http://archive.adaic.com/tools/CKWG/Dimension/SI.html) - SI units checked and unchecked.
 
-### Shells, Interpreters and Emulators / MIT
+### Shells, Interpreters and Emulators / Apache License
 
-*   [a-shell (⭐13)](https://github.com/charlie5/aShell) - A component to aid in writing shell-like applications in Ada.
+*   [a-shell (⭐12)](https://github.com/charlie5/aShell) - A component to aid in writing shell-like applications in Ada.
 
-## [16. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [17. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Packages / General Purpose Libraries
 
 *   [itachi (⭐44)](https://github.com/yaooqinn/itachi) <img src="https://img.shields.io/github/last-commit/yaooqinn/itachi.svg"> - A library that brings useful functions from modern database management systems to Apache Spark.
 
-## [17. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [18. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Messaging and Streaming
 
-*   [Ably](https://www.ably.com/) - Realtime messaging service with presence, persistence and guaranteed delivery. Free plan includes 3m messages per month, 100 peak connections and 100 peak channels.
+*   [Ably](https://www.ably.com/) - Realtime messaging service with presence, persistence and guaranteed delivery. The free plan includes 3m messages per month, 100 peak connections, and 100 peak channels.
 
 ### Email
 
-*   [forwardemail.net](https://forwardemail.net) — Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name (**note**: You must pay if you use .casa, .cf, .click, .email, .fit, .ga, .gdn, .gq, .loan, .london, .men, .ml, .pl, .rest, .ru, .tk, .top, .work TLDs due to spam)
+*   [forwardemail.net](https://forwardemail.net) — Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name (**note**: You must pay if you use .casa, .cf, .click, .email, .fit, .ga, .gdn, .gq, .lat, .loan, .london, .men, .ml, .pl, .rest, .ru, .tk, .top, .work TLDs due to spam)
 
-## [18. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+## [19. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Food
 
-*   [scriptable-recipe (⭐4)](https://github.com/shfrmn/scriptable-recipe) - Random food recipe widget that opens cooking video on YouTube.
+*   [scriptable-recipe (⭐3)](https://github.com/shfrmn/scriptable-recipe) - Random food recipe widget that opens cooking video on YouTube.
 
     <img src="https://user-images.githubusercontent.com/12446468/108283292-f11b9e80-717a-11eb-9a79-8848e5803166.PNG" width="400"/>
 
-## [19. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [20. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Libraries
 
-*   [react-uploady (⭐828)](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React
+*   [react-uploady (⭐911)](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React
 
-## [20. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [21. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### General
 
 *   [themesof.net](https://themesof.net/) - .NET 6 planning process.
 
-## [21. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
+## [22. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
 
 ### Books / Storybook addons
 
 *   [Introduction to Design Systems](https://fem-design-systems.netlify.app/) - A practical introduction to design systems by using React, Figma and Storybook by Emma Bostian
 
-## [22. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [23. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Sample Projects / GO
 
-*   [BDD in GO (⭐2)](https://github.com/JankariTech/bsDateServer) - Sample app demonstrating the use of Cucumber + GO for a BDD testing approach. Blog post can be found [here](https://dev.to/jankaritech/demonstrating-bdd-behavior-driven-development-in-go-1eci).
-*   [Citerus DDD Sample App GO Port (⭐2.2k)](https://github.com/marcusolsson/goddd) - This is an attempt to port the [DDD Sample App (⭐4.2k)](https://github.com/citerus/dddsample-core) to idiomatic Go. It can be run in a dockerized mode for previewing the application.
-*   [DDD by Refactoring (⭐3.1k)](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Complete serverless application to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project. A full blog series about it can be found at <https://threedots.tech/>.
-*   [DDD Food App (⭐461)](https://github.com/victorsteven/food-app-server) - Sample DDD application implementing the 4 layers (Domain, Infrastructure, Application and Interface) and considering two domain patterns. There's a blog article written for it [here](https://dev.to/stevensunflash/using-domain-driven-design-ddd-in-golang-3ee5).
-*   [DDD Sample in GO (⭐224)](https://github.com/takashabe/go-ddd-sample) - Just another sample application implementing the four layers of DDD.
-*   [Evolutive CRUD API (⭐70)](https://github.com/friendsofgo/gopherapi) - API implementation with full CRUD using a SOLID, Hexagonal Architecture. There is a series of blog post written for it at <https://blog.friendsofgo.tech/>.
-*   [Simple Hexagonal Architecture PoC API (⭐23)](https://github.com/tomiok/patients-API) - PoC for a patients API using the hexagonal architecture pattern.
+*   [BDD in GO (⭐3)](https://github.com/JankariTech/bsDateServer) - Sample app demonstrating the use of Cucumber + GO for a BDD testing approach. Blog post can be found [here](https://dev.to/jankaritech/demonstrating-bdd-behavior-driven-development-in-go-1eci).
+*   [Citerus DDD Sample App GO Port (⭐2.3k)](https://github.com/marcusolsson/goddd) - This is an attempt to port the [DDD Sample App (⭐4.6k)](https://github.com/citerus/dddsample-core) to idiomatic Go. It can be run in a dockerized mode for previewing the application.
+*   [DDD by Refactoring (⭐4.3k)](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Complete serverless application to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project. A full blog series about it can be found at <https://threedots.tech/>.
+*   [DDD Food App (⭐564)](https://github.com/victorsteven/food-app-server) - Sample DDD application implementing the 4 layers (Domain, Infrastructure, Application and Interface) and considering two domain patterns. There's a blog article written for it [here](https://dev.to/stevensunflash/using-domain-driven-design-ddd-in-golang-3ee5).
+*   [DDD Sample in GO (⭐259)](https://github.com/takashabe/go-ddd-sample) - Just another sample application implementing the four layers of DDD.
+*   [Evolutive CRUD API (⭐72)](https://github.com/friendsofgo/gopherapi) - API implementation with full CRUD using a SOLID, Hexagonal Architecture. There is a series of blog post written for it at <https://blog.friendsofgo.tech/>.
+*   [Simple Hexagonal Architecture PoC API (⭐26)](https://github.com/tomiok/patients-API) - PoC for a patients API using the hexagonal architecture pattern.
 
 ### Libraries and Frameworks / GO
 
-*   [Ginkgo (⭐6.5k)](https://github.com/onsi/ginkgo) - Ginkgo builds on Go's testing package, allowing expressive Behavior-Driven Development ("BDD") style tests.
-*   [GOBDD (⭐71)](https://github.com/go-bdd/gobdd) - Small BDD framework for GO.
-*   [GoConvey (⭐7.5k)](https://github.com/smartystreets/goconvey) - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
-*   [Godog (⭐1.8k)](https://github.com/cucumber/godog) - Package godog is the official Cucumber BDD framework for Golang, it merges specification and test documentation into one cohesive whole, using Gherkin formatted scenarios in the format of Given, When, Then.
+*   [Ginkgo (⭐7.4k)](https://github.com/onsi/ginkgo) - Ginkgo builds on Go's testing package, allowing expressive Behavior-Driven Development ("BDD") style tests.
+*   [GOBDD (⭐92)](https://github.com/go-bdd/gobdd) - Small BDD framework for GO.
+*   [GoConvey (⭐7.9k)](https://github.com/smartystreets/goconvey) - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
+*   [Godog (⭐2k)](https://github.com/cucumber/godog) - Package godog is the official Cucumber BDD framework for Golang, it merges specification and test documentation into one cohesive whole, using Gherkin formatted scenarios in the format of Given, When, Then.
 
-## [23. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [24. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Toolchains
 
 *   [Periodic Table of DevOps Tools](https://xebialabs.com/periodic-table-of-devops-tools/) - *XebiaLabs* - A collection of DevSecOps tooling categorised by tool functionality.
 
-## [24. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [25. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Trackers / Public Trackers
 
 *   [YggTorrent](https://yggtorrent.li/) French tracker and search engine (have a download/upload ratio limitation)
 
-## [25. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [26. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Angular CLI / Components
 
 *   [ng-cli-hooks (⭐6)](https://github.com/smartin85/ng-cli-hooks) - Hooks for the Angular CLI to customize the build
 
-## [26. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [27. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### CI / Tools & Plugins
 
@@ -256,35 +262,35 @@
 
 *   [`r/jmeter` on Reddit](https://www.reddit.com/r/jmeter/)
 
-## [27. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
+## [28. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
 ### Tutorials
 
 *   [Kubernetes monitoring with Prometheus, the ultimate guide](https://sysdig.com/blog/kubernetes-monitoring-prometheus/) - Kubernetes monitoring with Prometheus, the ultimate guide by Mateo Burillo.
 
-## [28. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [29. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CSV
 
-*   [Csv::Parser (⭐19)](https://github.com/ashaduri/csv-parser) - Compile-time and runtime CSV parser written in C++17. \[Zlib]
+*   [Csv::Parser (⭐22)](https://github.com/ashaduri/csv-parser) - Compile-time and runtime CSV parser written in C++17. \[Zlib]
 
 ### Reflection
 
-*   [Refureku (⭐185)](https://github.com/jsoysouvanh/Refureku) - A C++17 runtime reflection and code generation library. \[MIT]
+*   [Refureku (⭐189)](https://github.com/jsoysouvanh/Refureku) - A C++17 runtime reflection and code generation library. \[MIT]
 
-## [29. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [30. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects
 
 *   [AngouriMath](https://www.patreon.com/AngouriMath) - Computer/symbolic algebra library for .NET.
 
-## [30. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [31. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Navigation / Image Picker
 
-*   [Beamer (⭐480)](https://github.com/slovnicki/beamer) <!--stargazers:slovnicki/beamer--> - Route through guarded page stacks and URLs using the Navigator 2.0 API effortlessly by [Sandro Lovnički](https://github.com/slovnicki)
+*   [Beamer (⭐535)](https://github.com/slovnicki/beamer) <!--stargazers:slovnicki/beamer--> - Route through guarded page stacks and URLs using the Navigator 2.0 API effortlessly by [Sandro Lovnički](https://github.com/slovnicki)
 
-## [31. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [32. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Official
 
@@ -296,19 +302,19 @@
 
 ### Crates / Component Libraries
 
-*   [yew-feather (⭐14)](https://github.com/pedrodesu/yew-feather) - Feather Icons components for Yew.
+*   [yew-feather (⭐17)](https://github.com/pedrodesu/yew-feather) - Feather Icons components for Yew.
 
-## [32. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [33. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-windicss (⭐834)](https://github.com/windicss/vite-plugin-windicss) - Windi CSS integration.
+*   [vite-plugin-windicss (⭐846)](https://github.com/windicss/vite-plugin-windicss) - Windi CSS integration.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-html (⭐404)](https://github.com/anncwb/vite-plugin-html) - Plugin to minimize and use ejs template syntax in `index.html`.
+*   [vite-plugin-html (⭐458)](https://github.com/anncwb/vite-plugin-html) - Plugin to minimize and use ejs template syntax in `index.html`.
 
-## [33. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [34. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -316,13 +322,13 @@
 *   [ReadKit](https://readkitapp.com/) <sup>[466](https://t.me/s/aboutrss/466), [939](https://t.me/s/aboutrss/939)</sup> [![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://itunes.apple.com/app/readkit/id588726889?ls=1\&mt=12)[![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://readkit.app/#ios)
 *   [gReader](http://noinnion.com/greader/) <sup>[627](https://t.me/s/aboutrss/627), [958](https://t.me/s/aboutrss/958)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://github.com/noinnion/greader/tree/master/apk)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/noinnion/greader/)
 *   [Fluent Reader](https://hyliu.me/fluent-reader/) <sup>[676](https://t.me/s/aboutrss/676), [746](https://t.me/s/aboutrss/746)</sup> [![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://github.com/yang991178/fluent-reader/releases)[![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)](https://www.microsoft.com/store/apps/9P71FC94LRH8)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yang991178/fluent-reader/)
-    *   [Fluent Reader Lite (⭐762)](https://github.com/yang991178/fluent-reader-lite) <sup>[949](https://t.me/s/aboutrss/949)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/id1549611796)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=me.hyliu.fluent_reader_lite)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yang991178/fluent-reader-lite)
-*   [baRSS (⭐67)](https://github.com/relikd/baRSS) <sup>[799](https://t.me/s/aboutrss/799)</sup> [![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://github.com/relikd/baRSS/releases)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
-*   [Yarr (⭐1.9k)](https://github.com/nkanaev/yarr) <sup>[822](https://t.me/s/aboutrss/822)</sup> ![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/nkanaev/yarr)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+    *   [Fluent Reader Lite (⭐892)](https://github.com/yang991178/fluent-reader-lite) <sup>[949](https://t.me/s/aboutrss/949)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/id1549611796)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=me.hyliu.fluent_reader_lite)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yang991178/fluent-reader-lite)
+*   [baRSS (⭐79)](https://github.com/relikd/baRSS) <sup>[799](https://t.me/s/aboutrss/799)</sup> [![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://github.com/relikd/baRSS/releases)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Yarr (⭐2.3k)](https://github.com/nkanaev/yarr) <sup>[822](https://t.me/s/aboutrss/822)</sup> ![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/nkanaev/yarr)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Elytra](https://elytra.app/) <sup>[824](https://t.me/s/aboutrss/824), [873](https://t.me/s/aboutrss/873), [888](https://t.me/s/aboutrss/888)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://itunes.apple.com/us/app/elytra/id1433266971?ls=1\&mt=8)[![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://elytra.app/mac)
 *   [An Otter RSS](https://twitter.com/AnOtterRSS) <sup>[817](https://t.me/s/aboutrss/817), [930](https://t.me/s/aboutrss/930)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/cn/app/an-otter-rss-reader/id1529696614)
 *   [Pindoo](https://steveluoxin.github.io/) <sup>[942](https://t.me/s/aboutrss/942)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/apple-store/id1500275364)
-*   [知微 (⭐82)](https://github.com/wizos/loread) <sup>[943](https://t.me/s/aboutrss/943)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](http://www.coolapk.com/apk/168423)
+*   [知微 (⭐108)](https://github.com/wizos/loread) <sup>[943](https://t.me/s/aboutrss/943)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](http://www.coolapk.com/apk/168423)
 
 ### Hosted Readers / Outline Processor Markup Language
 
@@ -352,13 +358,13 @@
 
 *   [RSSHub](https://docs.rsshub.app/new-media.html#wei-xin) <sup>[195](https://t.me/s/aboutrss/195), [953](https://t.me/s/aboutrss/953)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/DIYgod/RSSHub)
 
-### Feed item filtering / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Feed item filtering / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSS Generator](https://synk.info/) <sup>[952](https://t.me/s/aboutrss/952)</sup>
 
-### Tech or IT / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Tech or IT / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [A collection of over 900 RSS feeds for web developers, updated monthly (⭐320)](https://github.com/simevidas/web-dev-feeds) <sup>[929](https://t.me/s/aboutrss/929)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/simevidas/web-dev-feeds)
+*   [A collection of over 900 RSS feeds for web developers, updated monthly (⭐334)](https://github.com/simevidas/web-dev-feeds) <sup>[929](https://t.me/s/aboutrss/929)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/simevidas/web-dev-feeds)
 *   [Information Security News](https://attachments.convertkitcdnn2.com/446246/c3c56058-be1f-4967-9fae-f21b2b563020/security-news.opml) <sup>[947](https://t.me/s/aboutrss/947)</sup>
 *   [The iOS Dev Directory](https://iosdevdirectory.com/) <sup>[954](https://t.me/s/aboutrss/954)</sup>
 *   [Indie Hackers Unofficial Feeds](https://feed.indiehackers.world/) <sup>[961](https://t.me/s/aboutrss/961)</sup>
@@ -391,18 +397,12 @@
 
 *   <sup>[53![Podcast](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-sound-surround-16.png)](https://t.me/s/aboutrss/53), [129](https://t.me/s/aboutrss/129), [773![Podcast](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-sound-surround-16.png)](https://t.me/s/aboutrss/773), [916](https://t.me/s/aboutrss/916), [941](https://t.me/s/aboutrss/941)</sup>
 
-## [34. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [35. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Maps in the Wild
 
 *   [Some initial thoughts about ERP systems](https://www.feststelltaste.de/some-initial-thoughts-about-erp-systems/) - Jan 23, 2020.
 *   [The Art of Strategy](https://erik-schon.medium.com/the-art-of-strategy-811c00a96fad) - A curated atlas of Wardley mapping examples. Mar 6, 2019 - Present.
-
-## [35. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
-
-### Learning
-
-*   🔧 [Web2Tailwind](https://web2tailwind.com) - How to build web components with Tailwind CSS with AlpineJS.
 
 ## [36. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/week/README.md)
 
@@ -415,7 +415,7 @@
 
 ### Types / Playground
 
-*   [typetype (⭐359)](https://github.com/mistlog/typetype) - A programming language designed for typescript type generation
+*   [typetype (⭐371)](https://github.com/mistlog/typetype) - A programming language designed for typescript type generation
 
 ## [38. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -428,46 +428,46 @@
 ### Tools / Other
 
 *   [CSP Scanner](https://cspscanner.com/) - Analyze a site's Content-Security-Policy (CSP) to find bypasses and missing directives.
-*   [RustScan (⭐7.4k)](https://github.com/rustscan/rustscan) - Extremely fast port scanner built with Rust, designed to scan all ports in a couple of seconds and utilizes nmap to perform port enumeration in a fraction of the time.
+*   [RustScan (⭐11k)](https://github.com/rustscan/rustscan) - Extremely fast port scanner built with Rust, designed to scan all ports in a couple of seconds and utilizes nmap to perform port enumeration in a fraction of the time.
 
 ## [40. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Miscellaneous / Lazy Load
 
-*   [SimpleLocalize (⭐37)](https://github.com/simplelocalize/simplelocalize-cli) - Open source CLI tool for finding i18n keys in React projects.
+*   [SimpleLocalize (⭐41)](https://github.com/simplelocalize/simplelocalize-cli) - Open source CLI tool for finding i18n keys in React projects.
 
 ### Router / Mouse Events
 
-*   [wouter (⭐5.1k)](https://github.com/molefrog/wouter) - A minimalist-friendly \~1.3KB routing library. Nothing else but hooks.
-*   [redux-first-history (⭐384)](https://github.com/salvoravida/redux-first-history) - Redux First History - Redux history binding support react-router - @reach/router - wouter
+*   [wouter (⭐5.5k)](https://github.com/molefrog/wouter) - A minimalist-friendly \~1.3KB routing library. Nothing else but hooks.
+*   [redux-first-history (⭐414)](https://github.com/salvoravida/redux-first-history) - Redux First History - Redux history binding support react-router - @reach/router - wouter
 
 ### Form Components / Color Picker
 
-*   [react-colorful (⭐2.6k)](https://github.com/omgovich/react-colorful) - A tiny (2,5 KB), dependency-free, fast and accessible color picker component.
+*   [react-colorful (⭐2.8k)](https://github.com/omgovich/react-colorful) - A tiny (2,5 KB), dependency-free, fast and accessible color picker component.
 
 ## [41. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Configuration
 
-*   [hush (⭐122)](https://github.com/gordalina/hush) - Read and inject configuration at runtime, and in release mode with support for multiple providers.
+*   [hush (⭐125)](https://github.com/gordalina/hush) - Read and inject configuration at runtime, and in release mode with support for multiple providers.
 *   [hush\_aws\_secrets\_manager (⭐19)](https://github.com/gordalina/hush_aws_secrets_manager) - AWS Secrets Manager provider for hush.
 *   [hush\_gcp\_secret\_manager (⭐18)](https://github.com/gordalina/hush_gcp_secret_manager) - Google Secret Manager provider for hush.
 
 ### Feature Flags and Toggles
 
-*   [ConfigCat (⭐13)](https://github.com/configcat/elixir-sdk) - Elixir SDK for ConfigCat hosted feature flag service.
+*   [ConfigCat (⭐14)](https://github.com/configcat/elixir-sdk) - Elixir SDK for ConfigCat hosted feature flag service.
 
 ### Templating
 
-*   [temple (⭐418)](https://github.com/mhanberg/temple) - An HTML DSL for Elixir and Phoenix.
+*   [temple (⭐436)](https://github.com/mhanberg/temple) - An HTML DSL for Elixir and Phoenix.
 
 ### Testing
 
-*   [mix\_test\_interactive (⭐58)](https://github.com/influxdata/mix_test_interactive) - Interactive test runner for mix test with watch mode.
+*   [mix\_test\_interactive (⭐61)](https://github.com/influxdata/mix_test_interactive) - Interactive test runner for mix test with watch mode.
 
 ### Text and Numbers
 
-*   [bitcoinex (⭐41)](https://github.com/RiverFinancial/bitcoinex) - Bitcoin utilities in Elixir.
+*   [bitcoinex (⭐47)](https://github.com/RiverFinancial/bitcoinex) - Bitcoin utilities in Elixir.
 
 ## [42. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
@@ -488,11 +488,11 @@
 
 ### Applications / Audio and Music
 
-*   [ncspot (⭐3.8k)](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client, inspired by ncmpc and the likes. [![build badge](https://github.com/hrkfdn/ncspot/workflows/Build/badge.svg)](https://github.com/hrkfdn/ncspot/actions?query=workflow%3ABuild)
+*   [ncspot (⭐4.2k)](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client, inspired by ncmpc and the likes. [![build badge](https://github.com/hrkfdn/ncspot/workflows/Build/badge.svg)](https://github.com/hrkfdn/ncspot/actions?query=workflow%3ABuild)
 
 ### Applications / Database
 
-*   [WooriDB (⭐118)](https://github.com/naomijub/wooridb) - General purpose time serial database inspired by Crux and Datomic.
+*   [WooriDB (⭐123)](https://github.com/naomijub/wooridb) - General purpose time serial database inspired by Crux and Datomic.
 
 ## [44. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -554,20 +554,20 @@
 
 ### Demos / Godot 3.2+
 
-*   [Godot experiments (⭐396)](https://github.com/MrEliptik/godot_experiments) - Several 2D, 3D and VR experiments.
+*   [Godot experiments (⭐455)](https://github.com/MrEliptik/godot_experiments) - Several 2D, 3D and VR experiments.
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Anima (⭐443)](https://github.com/ceceppa/anima) - Run sequential and parallel animations with less code compared to Tween (Godot 3.x).
+*   [Anima (⭐467)](https://github.com/ceceppa/anima) - Run sequential and parallel animations with less code compared to Tween (Godot 3.x).
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Godot GamePad (⭐106)](https://github.com/ACB-prgm/Godot_GamePad) - Allows players to use their mobile devices as controllers.
-*   [SmartShape2D (⭐807)](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool.
+*   [Godot GamePad (⭐107)](https://github.com/ACB-prgm/Godot_GamePad) - Allows players to use their mobile devices as controllers.
+*   [SmartShape2D (⭐875)](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool.
 
 ### Modules / Godot 4.0
 
-*   [Godex (⭐832)](https://github.com/GodotECS/godex) - An entity component system library.
+*   [Godex (⭐909)](https://github.com/GodotECS/godex) - An entity component system library.
 
 ## [49. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -582,16 +582,16 @@
 
 ### Projects Using Vue.js / Commercial Products
 
-*   [NxShell (⭐788)](https://github.com/nxshell/nxshell) - An easy to use new terminal for SSH, which based on Electron and VueJS.
+*   [NxShell (⭐873)](https://github.com/nxshell/nxshell) - An easy to use new terminal for SSH, which based on Electron and VueJS.
 
 ### Components & Libraries / UI Components
 
 *   [vue-dd-form (⭐79)](https://github.com/marekmensa/vue-dd-form) - 📋 Build forms only by describing data nodes - without programming! [Online Demo](https://marekmensa.github.io/vue-dd-form/)
-*   [@alireza-ab/vue-persian-datepicker (⭐36)](https://github.com/alireza-ab/vue-persian-datepicker) - A datepicker component for select persian date. **(single and range selection, select date and time, select with keyboard, customizable style, localization)**
+*   [@alireza-ab/vue-persian-datepicker (⭐40)](https://github.com/alireza-ab/vue-persian-datepicker) - A datepicker component for select persian date. **(single and range selection, select date and time, select with keyboard, customizable style, localization)**
 
 ### Components & Libraries / Frameworks
 
-*   [Native script (⭐5.1k)](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using NativeScript
+*   [Native script (⭐5.2k)](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using NativeScript
 *   [Vue Native (⭐8.3k)](https://github.com/GeekyAnts/vue-native-core) - Build cross platform native mobile apps using JavaScript
 
 ### Components & Libraries / UI Utilities
@@ -600,7 +600,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vuse-rx (⭐55)](https://github.com/Raiondesu/vuse-rx) - Complete first-class rxjs support for Vue 3
+*   [vuse-rx (⭐57)](https://github.com/Raiondesu/vuse-rx) - Complete first-class rxjs support for Vue 3
 
 ## [50. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
 
@@ -612,17 +612,17 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-checkly (⭐40)](https://github.com/checkly/terraform-provider-checkly) - Manage [Checkly](https://www.checklyhq.com) resources for API & E2E monitoring.
+*   [terraform-provider-checkly (⭐41)](https://github.com/checkly/terraform-provider-checkly) - Manage [Checkly](https://www.checklyhq.com) resources for API & E2E monitoring.
 
 ## [52. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### JAMstack
 
-*   [Next.js Starter kit using GraphQL and Sitecore Experience Edge for Content Hub (⭐8)](https://github.com/konabos/Next.js-Starter-kit-using-GraphQL-and-Sitecore-Content-Hub-Content-as-a-Service) - This is a great example of Sitecore Experience Edge Content as-a-Service approach using NextJS upon React, using a demo instance of the latest Content Hub.
+*   [Next.js Starter kit using GraphQL and Sitecore Experience Edge for Content Hub (⭐9)](https://github.com/konabos/Next.js-Starter-kit-using-GraphQL-and-Sitecore-Content-Hub-Content-as-a-Service) - This is a great example of Sitecore Experience Edge Content as-a-Service approach using NextJS upon React, using a demo instance of the latest Content Hub.
 
 ### Helix
 
-*   [Sitecore Foundation (⭐47)](https://github.com/Avanade/SitecoreFoundation) - Sitecore Framework from Avanade that follows the Helix modular architecture design principles.
+*   [Sitecore Foundation (⭐46)](https://github.com/Avanade/SitecoreFoundation) - Sitecore Framework from Avanade that follows the Helix modular architecture design principles.
 *   [Helixify (⭐0)](https://github.com/konabos/Konabos.Helixify) - The module designed to add instant Helix compatilbility to any Sitecore project.
 
 ### Rules

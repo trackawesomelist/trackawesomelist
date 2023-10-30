@@ -10,14 +10,14 @@
 
 ### Packages / Node.js management
 
-*   [nvm for Windows (⭐28k)](https://github.com/coreybutler/nvm-windows) - Version management for Windows.
+*   [nvm for Windows (⭐31k)](https://github.com/coreybutler/nvm-windows) - Version management for Windows.
 
 ## [2. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
 
 ### Platforms and toolkits
 
 *   [Haxe-linguistics (⭐26)](https://github.com/sexybiggetje/haxe-linguistics) - Early linguistical analysis and natural language processing library for Haxe.
-*   [Natural (⭐9.9k)](https://github.com/NaturalNode/natural) - General natural language tools for Node.js.
+*   [Natural (⭐10k)](https://github.com/NaturalNode/natural) - General natural language tools for Node.js.
 *   [Natural Language ToolKit (NLTK)](http://www.nltk.org/) - The most complete platform for building Python programs to work with human language data.
 
 ### Algorithms
@@ -29,10 +29,10 @@
 
 ### Algorithms and Data structures
 
-*   [fsm (⭐352)](https://github.com/sasa1977/fsm) - Finite state machine as a functional data structure.
-*   [key2value (⭐8)](https://github.com/okeuday/key2value) - Erlang 2-way Set Associative Map.
+*   [fsm (⭐353)](https://github.com/sasa1977/fsm) - Finite state machine as a functional data structure.
+*   [key2value (⭐7)](https://github.com/okeuday/key2value) - Erlang 2-way Set Associative Map.
 *   [lfsr (⭐8)](https://github.com/pma/lfsr) - Elixir implementation of a binary Galois Linear Feedback Shift Register.
-*   [trie (⭐129)](https://github.com/okeuday/trie) - Erlang Trie Implementation.
+*   [trie (⭐130)](https://github.com/okeuday/trie) - Erlang Trie Implementation.
 
 ### Authentication
 
@@ -40,8 +40,8 @@
 
 ### Build Tools
 
-*   [coffee\_rotor (⭐15)](https://github.com/HashNuke/coffee_rotor) - Rotor plugin to compile CoffeeScript files.
-*   [reltool\_util (⭐27)](https://github.com/okeuday/reltool_util) - Erlang reltool utility functionality application.
+*   [coffee\_rotor (⭐16)](https://github.com/HashNuke/coffee_rotor) - Rotor plugin to compile CoffeeScript files.
+*   [reltool\_util (⭐26)](https://github.com/okeuday/reltool_util) - Erlang reltool utility functionality application.
 *   [rotor (⭐82)](https://github.com/HashNuke/rotor) - Super-simple build system for Elixir.
 
 ### Cloud Infrastructure and Management
@@ -52,34 +52,34 @@
 
 ### Configuration
 
-*   [figaro (⭐8)](https://github.com/trestrantham/ex_figaro) - Simple Elixir project configuration.
+*   [figaro (⭐9)](https://github.com/trestrantham/ex_figaro) - Simple Elixir project configuration.
 
 ### Date and Time
 
-*   [moment (⭐28)](https://github.com/atabary/moment) - Parse, validate, manipulate, and display dates in Elixir.
+*   [moment (⭐29)](https://github.com/atabary/moment) - Parse, validate, manipulate, and display dates in Elixir.
 
 ### Debugging
 
-*   [dbg (⭐161)](https://github.com/fishcakez/dbg) - Distributed tracing for Elixir.
+*   [dbg (⭐162)](https://github.com/fishcakez/dbg) - Distributed tracing for Elixir.
 
 ### Framework Components
 
 *   [exrecaptcha (⭐11)](https://github.com/adanselm/exrecaptcha) - Simple reCaptcha display/verify code for Elixir applications.
-*   [plug\_jwt (⭐37)](https://github.com/bryanjos/plug_jwt) - Plug for JWT authentication.
+*   [plug\_jwt (⭐38)](https://github.com/bryanjos/plug_jwt) - Plug for JWT authentication.
 
 ### Images
 
-*   [mogrify (⭐533)](https://github.com/route/mogrify) - An Elixir wrapper for ImageMagick command line.
+*   [mogrify (⭐542)](https://github.com/route/mogrify) - An Elixir wrapper for ImageMagick command line.
 
 ### Miscellaneous
 
-*   [address\_us (⭐27)](https://github.com/smashedtoatoms/address_us) - Library for parsing US Addresses into their individual parts.
-*   [erlang\_term (⭐34)](https://github.com/okeuday/erlang_term) - Provide the in-memory size of Erlang terms, ignoring where these are stored.
-*   [keys1value (⭐2)](https://github.com/okeuday/keys1value) - Erlang set associative map for key lists.
+*   [address\_us (⭐26)](https://github.com/smashedtoatoms/address_us) - Library for parsing US Addresses into their individual parts.
+*   [erlang\_term (⭐33)](https://github.com/okeuday/erlang_term) - Provide the in-memory size of Erlang terms, ignoring where these are stored.
+*   [keys1value (⭐1)](https://github.com/okeuday/keys1value) - Erlang set associative map for key lists.
 
 ### ORM and Datamapping
 
-*   [exleveldb (⭐42)](https://github.com/skovsgaard/exleveldb) - Elixir wrapper around Basho's eleveldb module for LevelDB.
+*   [exleveldb (⭐43)](https://github.com/skovsgaard/exleveldb) - Elixir wrapper around Basho's eleveldb module for LevelDB.
 *   [hstore](https://github.com/senecasystems/hstore) - Hstore support for Postgrex.
 
 ### Protocols
@@ -88,26 +88,26 @@
 
 ### Queue
 
-*   [pqueue (⭐169)](https://github.com/okeuday/pqueue) - Erlang Priority Queue Implementation.
+*   [pqueue (⭐168)](https://github.com/okeuday/pqueue) - Erlang Priority Queue Implementation.
 
 ### Statistics
 
-*   [statistics (⭐130)](https://github.com/msharp/elixir-statistics) - Some basic statistical functions for Elixir.
+*   [statistics (⭐133)](https://github.com/msharp/elixir-statistics) - Some basic statistical functions for Elixir.
 
 ### Text and Numbers
 
-*   [dicer (⭐3)](https://github.com/olhado/dicer) - A dice roller expression evaluator.
-*   [quickrand (⭐39)](https://github.com/okeuday/quickrand) - Quick Random Number Generation.
-*   [uuid\_erl (⭐208)](https://github.com/okeuday/uuid) - Erlang Native UUID Generation.
+*   [dicer (⭐4)](https://github.com/olhado/dicer) - A dice roller expression evaluator.
+*   [quickrand (⭐40)](https://github.com/okeuday/quickrand) - Quick Random Number Generation.
+*   [uuid\_erl (⭐209)](https://github.com/okeuday/uuid) - Erlang Native UUID Generation.
 
 ### Third Party APIs
 
-*   [ex\_statsd (⭐94)](https://github.com/CargoSense/ex_statsd) - A statsd client implementation for Elixir.
-*   [forecast\_io (⭐7)](https://github.com/r-icarus/forecast_io) - Simple wrapper for Forecast.IO API.
+*   [ex\_statsd (⭐95)](https://github.com/CargoSense/ex_statsd) - A statsd client implementation for Elixir.
+*   [forecast\_io (⭐8)](https://github.com/r-icarus/forecast_io) - Simple wrapper for Forecast.IO API.
 *   [hexoku](https://github.com/JonGretar/Hexoku) - Heroku API client and Heroku Mix tasks for Elixir projects.
-*   [link\_shrinkex (⭐9)](https://github.com/jonahoffline/link_shrinkex) - Elixir library for creating short URLs using Google's URL Shortener API.
-*   [mailgun (⭐190)](https://github.com/chrismccord/mailgun) - Elixir Mailgun Client.
-*   [parsex (⭐1)](https://github.com/maarek/ParsEx) - ParsEx is an Elixir HTTP Client for communicating with Parse.com's Restful API.
+*   [link\_shrinkex (⭐8)](https://github.com/jonahoffline/link_shrinkex) - Elixir library for creating short URLs using Google's URL Shortener API.
+*   [mailgun (⭐193)](https://github.com/chrismccord/mailgun) - Elixir Mailgun Client.
+*   [parsex (⭐2)](https://github.com/maarek/ParsEx) - ParsEx is an Elixir HTTP Client for communicating with Parse.com's Restful API.
 
 ### XML
 
@@ -121,7 +121,6 @@
 ### Editors
 
 *   [Atom](https://atom.io/packages/language-elixir) - Elixir language support for Atom.
-*   [Jetbrains](http://plugins.jetbrains.com/plugin/7522) - Elixir for IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm, AppCode, Android Studio, 0xDBE.
 
 ## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

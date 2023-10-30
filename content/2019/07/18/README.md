@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 18, 2019
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -38,20 +38,20 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Contents / Components
 
-*   [Preact Translate (⭐62)](https://github.com/DenysVuika/preact-translate) - Minimalistic translate (i18n) library for Preact.
+*   [Preact Translate (⭐65)](https://github.com/DenysVuika/preact-translate) - Minimalistic translate (i18n) library for Preact.
 
 ## [5. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Theming / Themes
 
-*   [ant-design-dark-theme (⭐466)](https://github.com/ant-design/ant-design-dark-theme) - Dark theme variables of Ant Design.
+*   [ant-design-dark-theme (⭐478)](https://github.com/ant-design/ant-design-dark-theme) - Dark theme variables of Ant Design.
 *   [ant-dark-theme (⭐13)](https://github.com/Kuechlin/ant-dark-theme) - Dark theme variables of Ant Design.
 
 ## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### SIRI / Ruby
 
-*   [Edwig (⭐17)](https://github.com/af83/edwig) - A golang server for real-time public transport data exchange, using the SIRI protocol.
+*   [Edwig (⭐16)](https://github.com/af83/edwig) - A golang server for real-time public transport data exchange, using the SIRI protocol.
 
 ## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -59,35 +59,35 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 *   [adalib (⭐16)](https://github.com/reznikmm/adalib) - Standard Ada library specification as defined in Reference Manual.
 
-### Database / MIT
+### Database / Apache License
 
-*   [ada-base (⭐31)](https://github.com/jrmarino/AdaBase) - Thick database bindings to MySQL, PostgreSQL and SQLite for Ada.
+*   [ada-base (⭐30)](https://github.com/jrmarino/AdaBase) - Thick database bindings to MySQL, PostgreSQL and SQLite for Ada.
 
-### Generation / MIT
+### Generation / Apache License
 
 *   [ajunitgen (⭐1)](https://github.com/mosteo/ajunitgen) - Generator of JUnit-compatible XML reports in Ada.
 
-### Algorithms, Containers and Protocols / MIT
+### Algorithms, Containers and Protocols / Apache License
 
 *   [adagio (⭐3)](https://github.com/mosteo/adagio) - Gnutella2 (G2) network server leaf.
 *   [agpl (⭐4)](https://github.com/mosteo/agpl) - Ada General Purpose Library (Miscellaneous utilities, with a robotic flavor).
 
-### Patterns / MIT
+### Patterns / Apache License
 
-*   [rxada (⭐12)](https://github.com/mosteo/rxada) - An Ada 2012 implementation of the Rx methodology.
+*   [rxada (⭐14)](https://github.com/mosteo/rxada) - An Ada 2012 implementation of the Rx methodology.
 
-### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / MIT
+### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / Apache License
 
 *   [parser-tools (⭐6)](https://github.com/flyx/ParserTools) - Tools for writing lexers / parsers in Ada.
 
-### Utilities / MIT
+### Utilities / Apache License
 
 *   [licensing (⭐0)](https://github.com/mosteo/licensing) - Open Source Licenses library for Ada.
 *   [rsfile (⭐0)](https://github.com/mosteo/rsfile) - Command-line utility that picks a file from a folder hierarchy with probability proportional to its size.
 *   [cstrings (⭐0)](https://github.com/mosteo/cstrings) - Convenience subprograms to interact with C strings.
 *   [ada-bundler (⭐5)](https://github.com/flyx/ada-bundler) - Library and tool for transparently handling data and configuration file access in an Ada application. Supports macOS, Linux and Windows.
 
-### Libraries / MIT
+### Libraries / Apache License
 
 *   [sancta (⭐1)](https://github.com/mosteo/sancta) - SANCTA multi-robot task allocation library.
 
@@ -97,26 +97,19 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 *   [Compress-Or-Die](https://compress-or-die.com/)
 
-## [9. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
-
-### Apps
-
-*   [Minerva (⭐25)](https://github.com/bdchain/Minerva) - Minerva is a storage plugin of Apache Drill that connects IPFS's decentralized storage and Drill's flexible query engine.
-*   [Wistful Books](https://wistfulbooks.com/) - Single page offline application for enjoying librivox.org audio books. [Source (⭐6)](https://github.com/smwa/wistfulbooks)
-
-## [10. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
+## [9. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Similar libraries / Other Tools
 
 *   [htm (⭐7.9k)](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 
-## [11. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [10. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Tools
 
-*   [web-component-analyzer (⭐426)](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
+*   [web-component-analyzer (⭐462)](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
 
-## [12. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [11. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
@@ -141,7 +134,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 *   [Blameless Blog](https://www.blameless.com/blog/) - Blog posts about SRE culture and practices.
 
-## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Command Line Tools
 

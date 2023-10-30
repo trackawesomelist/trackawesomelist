@@ -23,15 +23,15 @@
 
 ### Internationalization
 
-*   [SimpleLocalize ★19 (⭐38)](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in Xmarin projects.
+*   [SimpleLocalize ★19 (⭐40)](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in Xmarin projects.
 
 ### Network
 
-*   [Apizr ★4 (⭐104)](https://github.com/Respawnsive/Apizr) - Refit based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
+*   [Apizr ★4 (⭐109)](https://github.com/Respawnsive/Apizr) - Refit based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
 
 ### UI
 
-*   [IridescentView (⭐17)](https://github.com/alexandrehtrb/IridescentView) - A custom Xamarin.Android ImageView with iridescence effect.
+*   [IridescentView (⭐19)](https://github.com/alexandrehtrb/IridescentView) - A custom Xamarin.Android ImageView with iridescence effect.
 
 ### Websites
 
@@ -140,7 +140,7 @@
 
 ### Packaging
 
-*   [Sitecore Package Deployer (⭐37)](https://github.com/HedgehogDevelopment/SitecorePackageDeployer) - Uses a Sitecore Job to automatically deploy update packages from a file system folder on the Sitecore server.
+*   [Sitecore Package Deployer (⭐36)](https://github.com/HedgehogDevelopment/SitecorePackageDeployer) - Uses a Sitecore Job to automatically deploy update packages from a file system folder on the Sitecore server.
 
 ## [11. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -151,10 +151,10 @@
 ### Tools / Community Chat Rooms
 
 *   [Knurling Tools](https://knurling.ferrous-systems.com/tools/) are developed by \[Ferrous Systems] to ease the development process for building, debugging, and testing embedded Rust systems. These tools include:
-    *   [Probe Run (⭐564)](https://github.com/knurling-rs/probe-run): a cargo runner to flash and run embedded applications just like you would native applications, including backtraces and panicking behavior
-    *   [defmt (⭐535)](https://github.com/knurling-rs/defmt): a highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
-    *   [flip-link (⭐168)](https://github.com/knurling-rs/flip-link), a linker wrapper that provides stack overflow protection without an MMU by flipping the standard memory layout of ARM Cortex-M programs
-    *   [app-template (⭐237)](https://github.com/knurling-rs/app-template), a `cargo-generate` powered project template for quickly setting up new projects using the Knurling Tools.
+    *   [Probe Run (⭐630)](https://github.com/knurling-rs/probe-run): a cargo runner to flash and run embedded applications just like you would native applications, including backtraces and panicking behavior
+    *   [defmt (⭐603)](https://github.com/knurling-rs/defmt): a highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
+    *   [flip-link (⭐191)](https://github.com/knurling-rs/flip-link), a linker wrapper that provides stack overflow protection without an MMU by flipping the standard memory layout of ARM Cortex-M programs
+    *   [app-template (⭐257)](https://github.com/knurling-rs/app-template), a `cargo-generate` powered project template for quickly setting up new projects using the Knurling Tools.
     *   [defmt-test (⭐8)](https://github.com/knurling-rs/defmt-test), an embedded test harness that lets you write and run unit tests as if you were using the built-in `#[test]` attribute, but will run on an embedded target
 
 ### HAL implementation crates / STMicroelectronics
@@ -170,17 +170,17 @@
 
 ### Visualization / Interactive plots
 
-*   [pyecharts (⭐14k)](https://github.com/pyecharts/pyecharts) - Migrated from [Echarts (⭐55k)](https://github.com/apache/echarts), a charting and visualization library, to Python's interactive visual drawing library.<img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pyecharts.png" alt="pyecharts"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/echarts.png" alt="echarts">
+*   [pyecharts (⭐14k)](https://github.com/pyecharts/pyecharts) - Migrated from [Echarts (⭐57k)](https://github.com/apache/echarts), a charting and visualization library, to Python's interactive visual drawing library.<img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pyecharts.png" alt="pyecharts"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/echarts.png" alt="echarts">
 
 ## [13. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Rendering / Redux / ELM / Dependency Injection
 
-*   [Graphx (⭐382)](https://github.com/roipeker/graphx) <!--stargazers:roipeker/graphx--> - Making drawings and animations extremely simple, inspired by Flash, by [Roi Peker](https://github.com/roipeker).
+*   [Graphx (⭐439)](https://github.com/roipeker/graphx) <!--stargazers:roipeker/graphx--> - Making drawings and animations extremely simple, inspired by Flash, by [Roi Peker](https://github.com/roipeker).
 
 ### Game / Open source games
 
-*   [Ghost Rigger (⭐183)](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) <!--stargazers:Float-like-a-dash-Sting-like-a-dart/GhostRigger--> - Ghost Rigger is a cyberpunk inspired puzzle game by [Iain Smith](https://github.com/b099l3) and [Julio Ernesto Rodríguez Cabañas](https://github.com/ernestoyaquello).
+*   [Ghost Rigger (⭐192)](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) <!--stargazers:Float-like-a-dash-Sting-like-a-dart/GhostRigger--> - Ghost Rigger is a cyberpunk inspired puzzle game by [Iain Smith](https://github.com/b099l3) and [Julio Ernesto Rodríguez Cabañas](https://github.com/ernestoyaquello).
 
 ## [14. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
@@ -192,32 +192,28 @@
 
 ### Contents / Education
 
-*   [Mathematics (⭐77)](https://github.com/j-j-gajjar/mathematics/) - Generate MCQ PDF / Question PDF : With Answer and Quiz [J-J-GAJJAR](https://github.com/j-j-gajjar).
+*   [Mathematics (⭐87)](https://github.com/j-j-gajjar/mathematics/) - Generate MCQ PDF / Question PDF : With Answer and Quiz [J-J-GAJJAR](https://github.com/j-j-gajjar).
 
 ### Contents / Finance
 
-*   [Be Thrifty Today (⭐129)](https://github.com/AmruthPillai/BeThriftyToday) - A simple and secure money manager that keeps you financially vigilant by [Amruth Pillai](https://github.com/AmruthPillai)
-
-### Contents / Health and Fitness
-
-*   [Smooth App (⭐383)](https://github.com/openfoodfacts/smooth-app) - To showcase Open Food Facts's power to a broad range of users through a smooth user experience and sleek user interface by [Open Food facts](https://github.com/openfoodfacts/)
+*   [Be Thrifty Today (⭐135)](https://github.com/AmruthPillai/BeThriftyToday) - A simple and secure money manager that keeps you financially vigilant by [Amruth Pillai](https://github.com/AmruthPillai)
 
 ### Contents / Media
 
-*   [Flutter Music (⭐144)](https://github.com/o-ifeanyi/musicPlayer) - A Flutter music player to play songs by [o-ifeanyi](https://github.com/o-ifeanyi)
+*   [Flutter Music (⭐150)](https://github.com/o-ifeanyi/musicPlayer) - A Flutter music player to play songs by [o-ifeanyi](https://github.com/o-ifeanyi)
 
 ### Contents / Social Network
 
-*   [Fwitter (⭐2.9k)](https://github.com/TheAlphamerc/flutter_twitter_clone) - Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage by [Sonu Sharma](https://github.com/TheAlphamerc)
-*   [GroupChatApp (⭐239)](https://github.com/ahmedgulabkhan/GroupChatApp) - Group chat application using Flutter and Firebase, where users can register and create groups or join already existing groups and start conversing with each other by [Ahmed Gulab Khan](https://github.com/ahmedgulabkhan)
+*   [Fwitter (⭐3.3k)](https://github.com/TheAlphamerc/flutter_twitter_clone) - Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage by [Sonu Sharma](https://github.com/TheAlphamerc)
+*   [GroupChatApp (⭐242)](https://github.com/ahmedgulabkhan/GroupChatApp) - Group chat application using Flutter and Firebase, where users can register and create groups or join already existing groups and start conversing with each other by [Ahmed Gulab Khan](https://github.com/ahmedgulabkhan)
 
 ### Contents / Shopping
 
-*   [LaCoro Q-commerce app (⭐56)](https://github.com/LaCoro/ConsumerFlutterApp) - An open source quick commerce app in flutter by [LaCoro](https://github.com/LaCoro)
+*   [LaCoro Q-commerce app (⭐59)](https://github.com/LaCoro/ConsumerFlutterApp) - An open source quick commerce app in flutter by [LaCoro](https://github.com/LaCoro)
 
 ### Contents / Tools
 
-*   [Flutter Browser App (⭐304)](https://github.com/pichillilorenzo/flutter_browser_app) - A Full-Featured Mobile Browser App by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
+*   [Flutter Browser App (⭐340)](https://github.com/pichillilorenzo/flutter_browser_app) - A Full-Featured Mobile Browser App by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 
 ## [16. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
@@ -256,24 +252,24 @@
 
 ### Testing
 
-*   [percy.io](https://percy.io) - Add visual testing to any web app, static site, style guide, or component library.  Unlimited team members, Demo app and unlimited projects, 5,000 snapshots / month.
+*   [percy.io](https://percy.io) - Add visual testing to any web app, static site, style guide, or component library.  Unlimited team members, Demo app, and unlimited projects, 5,000 snapshots/month.
 
 ### Email
 
-*   [Zoho](https://www.zoho.com) — Started as an e-mail provider but now provides a suite of services out of which some of them have free plans. List of services having free plans :
-    *   [Email](https://zoho.com/mail) Free for 5 users. 5GB/user & 25 MB attachment limit, 1 domain.
+*   [Zoho](https://www.zoho.com) — Started as an e-mail provider but now provides a suite of services, some of which have free plans. List of services having free plans :
+    *   [Email](https://zoho.com/mail) Free for 5 users. 5GB/user & 25 MB attachment limit, one domain.
     *   [Sprints](https://zoho.com/sprints) Free for 5 users,5 Projects & 500MB storage.
-    *   [Docs](https://zoho.com/docs) — Free for 5 users with 1 GB upload limit & 5GB storage. Zoho Office Suite (Writer,Sheets & Show) comes bundled with it.
-    *   [Projects](https://zoho.com/projects) — Free for 3 users, 2 projects & 10 MB attachment limit. Same plan applies to [Bugtracker](https://zoho.com/bugtracker).
-    *   [Connect](https://zoho.com/connect) — Team Collaboration free for 25 users with 3 groups, 3 custom apps, 3 Boards, 3 Manuals, 10 Integrations along with channels,events & forums.
+    *   [Docs](https://zoho.com/docs) — Free for 5 users with 1 GB upload limit & 5GB storage. Zoho Office Suite (Writer, Sheets & Show) comes bundled.
+    *   [Projects](https://zoho.com/projects) — Free for 3 users, 2 projects & 10 MB attachment limit. The same plan applies to [Bugtracker](https://zoho.com/bugtracker).
+    *   [Connect](https://zoho.com/connect) — Team Collaboration free for 25 users with three groups, three custom apps, 3 Boards, 3 Manuals, and 10 Integrations along with channels, events & forums.
     *   [Meeting](https://zoho.com/meeting) — Meetings with upto 3 meeting participants & 10 Webinar attendees.
-    *   [Vault](https://zoho.com/vault) — Password Management free for Individuals.
-    *   [Showtime](https://zoho.com/showtime) — Yet another Meeting software for training for a remote session upto 5 attendees.
+    *   [Vault](https://zoho.com/vault) — Password Management is accessible for Individuals.
+    *   [Showtime](https://zoho.com/showtime) — Yet another Meeting software for training for a remote session of up to 5 attendees.
     *   [Notebook](https://zoho.com/notebook) — A free alternative to Evernote.
-    *   [Wiki](https://zoho.com/wiki) — Free for 3 users with 50 MB storage, unlimited pages, zip backups, RSS & Atom feed, access controls & customisable CSS.
-    *   [Subscriptions](https://zoho.com/subscriptions) — Recurring Billing management free for 20 customers/subscriptions & 1 user with all the payment hosting done by Zoho themselves. Last 40 subscription metrics are stored
+    *   [Wiki](https://zoho.com/wiki) — Free for three users with 50 MB storage, unlimited pages, zip backups, RSS & Atom feed, access controls & customizable CSS.
+    *   [Subscriptions](https://zoho.com/subscriptions) — Recurring Billing management free for 20 customers/subscriptions & 1 user with all the payment hosting done by Zoho. The last 40 subscription metrics are stored
     *   [Checkout](https://zoho.com/checkout) — Product Billing management with 3 pages & up to 50 payments.
-    *   [Desk](https://zoho.com/desk) — Customer Support management with 3 agents and private knowledge base, email tickets. Integrates with [Assist](https://zoho.com/assist) for 1 remote technician & 5 unattended computers.
+    *   [Desk](https://zoho.com/desk) — Customer Support management with three agents, private knowledge base, and email tickets. Integrates with [Assist](https://zoho.com/assist) for one remote technician & 5 unattended computers.
     *   [Cliq](https://zoho.com/cliq) — Team chat software with 100 GB storage, unlimited users, 100 users per channel & SSO.
     *   [Campaigns](https://zoho.com/campaigns)
     *   [Forms](https://zoho.com/forms)
@@ -292,21 +288,21 @@
 
 ### Development / Docker
 
-*   [lstags (⭐307)](https://github.com/ivanilves/lstags) - Synchronize images across registries.
-*   [dockly (⭐3.5k)](https://github.com/lirantal/dockly) - Interactively manage containers.
-*   [lazydocker (⭐27k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
-*   [docker-pushrm (⭐111)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
+*   [lstags (⭐306)](https://github.com/ivanilves/lstags) - Synchronize images across registries.
+*   [dockly (⭐3.6k)](https://github.com/lirantal/dockly) - Interactively manage containers.
+*   [lazydocker (⭐30k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
+*   [docker-pushrm (⭐120)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 
 ### Data Manipulation / Internet Speedtest
 
-*   [visidata (⭐6.6k)](https://github.com/saulpw/visidata) - Spreadsheet multitool for data discovery and arrangement.
+*   [visidata (⭐6.8k)](https://github.com/saulpw/visidata) - Spreadsheet multitool for data discovery and arrangement.
 
 ## [20. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue3-signature (⭐38)](https://github.com/WangShayne/vue3-signature) - A electronic signature component for Vue 3
-*   [vue-signature (⭐190)](https://github.com/WangShayne/vue-signature) - A electronic signature component for Vue2.x
+*   [vue3-signature (⭐49)](https://github.com/WangShayne/vue3-signature) - A electronic signature component for Vue 3
+*   [vue-signature (⭐195)](https://github.com/WangShayne/vue-signature) - A electronic signature component for Vue2.x
 
 ---
 

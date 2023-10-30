@@ -12,7 +12,13 @@
 
 *   [Galactica: A Large Language Model for Science](https://galactica.org/static/paper.pdf) - ***Meta AI***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=15782429788006956926\&hl=en\&as_sdt=0,5)]. A large language model trained on large-scale scientific corpus.
 
-## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Design Inspiration
+
+*   [Landings](https://landings.dev/) - \[Web Screenshots] Find the best landing pages for your design inspiration based on your preference.
+
+## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image
 
@@ -22,32 +28,22 @@
 
 *   [drawanyone](https://drawanyone.com/): generate drawings based on five input images
 
-## [3. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [4. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Platforms and Software Resources / Geospatial Data and Visualization
 
 *   [Heavy.AI](https://www.heavy.ai/) - Geotemporal enabled high performance database capable of doing GPU accelerated queries.
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### Design Inspiration
-
-*   [Landings](https://landings.dev/) - \[Web Screenshots] Find the best landing pages for your design inspiration based on your preference.
-
-### Other Free Resources
-
-*   [SETools.xyz](https://www.setools.xyz/) — This website provide free tools for developers and everyone. We are having tools like base64 encoder, URL Encoder, character counter, SHA256, MD5 Hash.
-
 ## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Templates
 
-*   [Text Editor from scratch with Blazor and C#](https://www.youtube.com/playlist?list=PLG4PTDe2qc0i0COivTxn_rjSN96Xq-_K1) - Serie of videos on YouTube who explain how to build your own IDE from scratch with Blazor and .NET. [Starting point repo (⭐6)](https://github.com/huntercfreeman/Blazor.Text.Editor-VideoSeries) ![stars](https://img.shields.io/github/stars/huntercfreeman/Blazor.Text.Editor-VideoSeries?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/huntercfreeman/Blazor.Text.Editor-VideoSeries?style=flat-square). [Blazor Studio repo (⭐100)](https://github.com/huntercfreeman/BlazorStudio) ![stars](https://img.shields.io/github/stars/huntercfreeman/BlazorStudio?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/huntercfreeman/BlazorStudio?style=flat-square).
+*   [Text Editor from scratch with Blazor and C#](https://www.youtube.com/playlist?list=PLG4PTDe2qc0i0COivTxn_rjSN96Xq-_K1) - Serie of videos on YouTube who explain how to build your own IDE from scratch with Blazor and .NET. [Starting point repo (⭐7)](https://github.com/huntercfreeman/Blazor.Text.Editor-VideoSeries) ![stars](https://img.shields.io/github/stars/huntercfreeman/Blazor.Text.Editor-VideoSeries?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/huntercfreeman/Blazor.Text.Editor-VideoSeries?style=flat-square). [Blazor Studio repo (⭐104)](https://github.com/huntercfreeman/BlazorStudio) ![stars](https://img.shields.io/github/stars/huntercfreeman/BlazorStudio?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/huntercfreeman/BlazorStudio?style=flat-square).
 
 ### Others
 
-*   [Blazor Studio (⭐100)](https://github.com/huntercfreeman/BlazorStudio) - ![stars](https://img.shields.io/github/stars/huntercfreeman/BlazorStudio?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/huntercfreeman/BlazorStudio?style=flat-square\&cacheSeconds=86400) A free and open source IDE written using .NET - a Photino host, Blazor UI, and C#.
-*   [Blazor.Text.Editor (⭐96)](https://github.com/huntercfreeman/Blazor.Text.Editor) - ![Last commit](https://img.shields.io/github/last-commit/huntercfreeman/Blazor.Text.Editor?style=flat-square\&cacheSeconds=86400) Blazor.Text.Editor is a Text Editor component library using the Blazor UI Framework for .NET. [Demo](https://hunter-freeman-dev.azurewebsites.net/).
+*   [Blazor Studio (⭐104)](https://github.com/huntercfreeman/BlazorStudio) - ![stars](https://img.shields.io/github/stars/huntercfreeman/BlazorStudio?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/huntercfreeman/BlazorStudio?style=flat-square\&cacheSeconds=86400) A free and open source IDE written using .NET - a Photino host, Blazor UI, and C#.
+*   [Blazor.Text.Editor (⭐99)](https://github.com/huntercfreeman/Blazor.Text.Editor) - ![Last commit](https://img.shields.io/github/last-commit/huntercfreeman/Blazor.Text.Editor?style=flat-square\&cacheSeconds=86400) Blazor.Text.Editor is a Text Editor component library using the Blazor UI Framework for .NET. [Demo](https://hunter-freeman-dev.azurewebsites.net/).
 
 ### Videos / Others
 

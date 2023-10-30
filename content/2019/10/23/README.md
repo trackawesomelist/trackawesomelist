@@ -31,7 +31,7 @@
 
 ### Bindings
 
-*   [racket-vulkan (⭐41)](https://github.com/zyrolasting/racket-vulkan) - Racket bindings for Vulkan with [detailed implementation notes](https://sagegerard.com/racket-vulkan-notes-index.html). \[MIT]
+*   [racket-vulkan (⭐43)](https://github.com/zyrolasting/racket-vulkan) - Racket bindings for Vulkan with [detailed implementation notes](https://sagegerard.com/racket-vulkan-notes-index.html). \[MIT]
 
 ## [5. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -43,48 +43,48 @@
 
 ### Shells
 
-*   [ksh93 (⭐464)](https://github.com/att/ast) - Korn Shell
-*   [mksh (⭐176)](https://github.com/MirBSD/mksh) - MirBSD Korn Shell
-*   [oksh (⭐278)](https://github.com/ibara/oksh) - Portable OpenBSD ksh
+*   [ksh93 (⭐480)](https://github.com/att/ast) - Korn Shell
+*   [mksh (⭐182)](https://github.com/MirBSD/mksh) - MirBSD Korn Shell
+*   [oksh (⭐295)](https://github.com/ibara/oksh) - Portable OpenBSD ksh
 *   [pdksh](https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/bin/ksh/) - Public domain Korn shell
-*   [shell++ (⭐115)](https://github.com/alexst07/shell-plus-plus) - Friendly and modern functional and object oriented shell script language
+*   [shell++ (⭐131)](https://github.com/alexst07/shell-plus-plus) - Friendly and modern functional and object oriented shell script language
 *   [tcsh](https://www.tcsh.org/) - C shell with file name completion and command line editing
 *   [xonsh](https://xon.sh) - Python-ish, BASHwards-looking shell language and command prompt
 
 ### Command-Line Productivity
 
-*   [autoenv (⭐5.1k)](https://github.com/inishchith/autoenv) - Directory-based environments
-*   [browsh (⭐15k)](https://github.com/browsh-org/browsh) - The modern text-based browser
-*   [googlr (⭐35)](https://github.com/Astranno/googlr) - Command line tool that lets you search Google from your terminal.
-*   [mcfly (⭐4.7k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scot!
-*   [sqlline (⭐543)](https://github.com/julianhyde/sqlline) - Shell for issuing SQL to relational databases via JDBC (multiline, completion, highlighting, dialect support)
-*   [td-cli (⭐155)](https://github.com/darrikonn/td-cli) - A todo command line manager to organize and manage your todos across multiple projects.
+*   [autoenv (⭐5.2k)](https://github.com/inishchith/autoenv) - Directory-based environments
+*   [browsh (⭐16k)](https://github.com/browsh-org/browsh) - The modern text-based browser
+*   [googlr (⭐41)](https://github.com/Astranno/googlr) - Command line tool that lets you search Google from your terminal.
+*   [mcfly (⭐5.1k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scot!
+*   [sqlline (⭐569)](https://github.com/julianhyde/sqlline) - Shell for issuing SQL to relational databases via JDBC (multiline, completion, highlighting, dialect support)
+*   [td-cli (⭐169)](https://github.com/darrikonn/td-cli) - A todo command line manager to organize and manage your todos across multiple projects.
 
 ### Command-Line Productivity / Directory Navigation
 
-*   [z.lua (⭐2.6k)](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits
+*   [z.lua (⭐2.7k)](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits
 
 ### For Developers / Directory Navigation
 
 *   [ack](https://beyondgrep.com/) - A grep-like search tool optimized for source code.
-*   [bitwise (⭐484)](https://github.com/mellowcandle/bitwise) - Terminal based interactive bit manipulator in curses.
-*   [forgit (⭐3.7k)](https://github.com/wfxr/forgit) - Utility tool for `git` taking advantage of fuzzy finder fzf.
-*   [overcommit (⭐3.7k)](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
-*   [wipe-modules (⭐327)](https://github.com/bntzio/wipe-modules) - A little agent that removes the node\_modules folder of non-active projects
+*   [bitwise (⭐560)](https://github.com/mellowcandle/bitwise) - Terminal based interactive bit manipulator in curses.
+*   [forgit (⭐3.9k)](https://github.com/wfxr/forgit) - Utility tool for `git` taking advantage of fuzzy finder fzf.
+*   [overcommit (⭐3.8k)](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
+*   [wipe-modules (⭐335)](https://github.com/bntzio/wipe-modules) - A little agent that removes the node\_modules folder of non-active projects
 
 ### System Utilities / Directory Navigation
 
-*   [bat (⭐39k)](https://github.com/sharkdp/bat) - A `cat` clone with wings
-*   [exa (⭐20k)](https://github.com/ogham/exa) - A modern version of `ls`.
-*   [nmtui (⭐270)](https://github.com/NetworkManager/NetworkManager) - Text User Interface for controlling NetworkManager
+*   [bat (⭐42k)](https://github.com/sharkdp/bat) - A `cat` clone with wings
+*   [exa (⭐22k)](https://github.com/ogham/exa) - A modern version of `ls`.
+*   [nmtui (⭐293)](https://github.com/NetworkManager/NetworkManager) - Text User Interface for controlling NetworkManager
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [jo (⭐4.3k)](https://github.com/jpmens/jo) - A small utility to create JSON objects from command-line arguments.
+*   [jo (⭐4.4k)](https://github.com/jpmens/jo) - A small utility to create JSON objects from command-line arguments.
 
 ### Applications / Directory Navigation
 
-*   [jrnl (⭐5.7k)](https://github.com/jrnl-org/jrnl) - A simple command line journal application that stores your journal in a plain text file
+*   [jrnl (⭐5.9k)](https://github.com/jrnl-org/jrnl) - A simple command line journal application that stores your journal in a plain text file
 
 ### Shell Package Management / Directory Navigation
 
@@ -92,9 +92,9 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [bashful (⭐575)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
-*   [Bashlets (⭐64)](https://github.com/reale/bashlets) - A modular extensible toolbox for Bash
-*   [Fishtape (⭐314)](https://github.com/jorgebucaran/fishtape) - TAP producer and test harness for fish
+*   [bashful (⭐581)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
+*   [Bashlets (⭐67)](https://github.com/reale/bashlets) - A modular extensible toolbox for Bash
+*   [Fishtape (⭐325)](https://github.com/jorgebucaran/fishtape) - TAP producer and test harness for fish
 
 ## [7. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 
@@ -137,11 +137,11 @@
 
 ### Others
 
-*   [The Goose Game Kata (⭐7)](https://github.com/xpeppers/goose-game-kata)
+*   [The Goose Game Kata (⭐9)](https://github.com/xpeppers/goose-game-kata)
 *   [Salary slip kata (⭐17)](https://github.com/sandromancuso/salaryslipkata)
-*   [RPG Game kata (⭐582)](https://github.com/ardalis/kata-catalog/blob/master/katas/RPG%20Combat.md)
-*   [Train Reservation kata (⭐104)](https://github.com/emilybache/KataTrainReservation)
-*   [Password-strength Checker TDD Kata (⭐5)](https://github.com/xpepper/PasswordStrengthChecker)
+*   [RPG Game kata (⭐655)](https://github.com/ardalis/kata-catalog/blob/master/katas/RPG%20Combat.md)
+*   [Train Reservation kata (⭐112)](https://github.com/emilybache/KataTrainReservation)
+*   [Password-strength Checker TDD Kata (⭐6)](https://github.com/xpepper/PasswordStrengthChecker)
 
 ## [14. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -177,7 +177,7 @@
 
 ### String / Runner
 
-*   [plexis (⭐145)](https://github.com/plexis-js/plexis) - Lo-fi, powerful, community-driven string manipulation library.
+*   [plexis (⭐146)](https://github.com/plexis-js/plexis) - Lo-fi, powerful, community-driven string manipulation library.
 
 ## [16. Awesome Music](/content/ciconia/awesome-music/README.md)
 
@@ -199,26 +199,26 @@
 
 ### Audio Related Packages / Transformations - General DSP
 
-*   [SFS-Python](http://www.sfstoolbox.org) [:octocat: (⭐60)](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) - Sound Field Synthesis Toolbox.
+*   [SFS-Python](http://www.sfstoolbox.org) [:octocat: (⭐63)](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) - Sound Field Synthesis Toolbox.
 
 ### Audio Related Packages / Speech Processing
 
 *   [deepspeech (⭐22k)](https://github.com/mozilla/DeepSpeech) [:octocat: (⭐22k)](https://github.com/mozilla/DeepSpeech) [:package:](https://pypi.org/project/deepspeech/) - Pretrained automatic speech recognition.
-*   [persephone](https://persephone.readthedocs.io/en/latest/) [:octocat: (⭐148)](https://github.com/persephone-tools/persephone) [:package:](https://pypi.org/project/persephone/) - Automatic phoneme transcription tool.
-*   [pypesq (⭐278)](https://github.com/vBaiCai/python-pesq) [:octocat: (⭐278)](https://github.com/vBaiCai/python-pesq) - Wrapper for the PESQ score calculation.
-*   [pystoi (⭐259)](https://github.com/mpariente/pystoi) [:octocat: (⭐259)](https://github.com/mpariente/pystoi) [:package:](https://pypi.org/project/pystoi) - Short Term Objective Intelligibility measure (STOI).
+*   [persephone](https://persephone.readthedocs.io/en/latest/) [:octocat: (⭐153)](https://github.com/persephone-tools/persephone) [:package:](https://pypi.org/project/persephone/) - Automatic phoneme transcription tool.
+*   [pypesq (⭐291)](https://github.com/vBaiCai/python-pesq) [:octocat: (⭐291)](https://github.com/vBaiCai/python-pesq) - Wrapper for the PESQ score calculation.
+*   [pystoi (⭐272)](https://github.com/mpariente/pystoi) [:octocat: (⭐272)](https://github.com/mpariente/pystoi) [:package:](https://pypi.org/project/pystoi) - Short Term Objective Intelligibility measure (STOI).
 *   [SIDEKIT](http://lium.univ-lemans.fr/sidekit/) [:package:](https://pypi.python.org/pypi/SIDEKIT/) - Speaker and Language recognition.
 
 ### Audio Related Packages / Environmental Sounds
 
-*   [sed\_eval](http://tut-arg.github.io/sed_eval) [:octocat: (⭐112)](https://github.com/TUT-ARG/sed_eval) [:package:](https://pypi.org/project/sed_eval/) - Evaluation toolbox for Sound Event Detection
+*   [sed\_eval](http://tut-arg.github.io/sed_eval) [:octocat: (⭐119)](https://github.com/TUT-ARG/sed_eval) [:package:](https://pypi.org/project/sed_eval/) - Evaluation toolbox for Sound Event Detection
 
 ### Audio Related Packages / Perceptial Models - Auditory Models
 
-*   [cochlea (⭐101)](https://github.com/mrkrd/cochlea) [:octocat: (⭐101)](https://github.com/mrkrd/cochlea) [:package:](https://pypi.python.org/pypi/cochlea/) - Inner ear models.
-*   [Loudness (⭐34)](https://github.com/deeuu/loudness) [:octocat: (⭐34)](https://github.com/deeuu/loudness) - Perceived loudness, includes Zwicker, Moore/Glasberg model.
-*   [pyloudnorm](https://www.christiansteinmetz.com/projects-blog/pyloudnorm) [:octocat: (⭐428)](https://github.com/csteinmetz1/pyloudnorm) - Audio loudness meter and normalization, implements ITU-R BS.1770-4.
-*   [Sound Field Synthesis Toolbox](http://www.sfstoolbox.org) [:octocat: (⭐60)](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) - Sound Field Synthesis Toolbox.
+*   [cochlea (⭐104)](https://github.com/mrkrd/cochlea) [:octocat: (⭐104)](https://github.com/mrkrd/cochlea) [:package:](https://pypi.python.org/pypi/cochlea/) - Inner ear models.
+*   [Loudness (⭐33)](https://github.com/deeuu/loudness) [:octocat: (⭐33)](https://github.com/deeuu/loudness) - Perceived loudness, includes Zwicker, Moore/Glasberg model.
+*   [pyloudnorm](https://www.christiansteinmetz.com/projects-blog/pyloudnorm) [:octocat: (⭐474)](https://github.com/csteinmetz1/pyloudnorm) - Audio loudness meter and normalization, implements ITU-R BS.1770-4.
+*   [Sound Field Synthesis Toolbox](http://www.sfstoolbox.org) [:octocat: (⭐63)](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) - Sound Field Synthesis Toolbox.
 
 ## [19. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
@@ -234,9 +234,9 @@
 
 ### Status Bar
 
-*   [tmux-network-bandwidth (⭐63)](https://github.com/xamut/tmux-network-bandwidth) Show
+*   [tmux-network-bandwidth (⭐68)](https://github.com/xamut/tmux-network-bandwidth) Show
     network bandwidth
-*   [tmux-weather (⭐43)](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
+*   [tmux-weather (⭐49)](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
 
 ## [21. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

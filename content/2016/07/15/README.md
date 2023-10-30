@@ -10,7 +10,7 @@
 
 ### Error Handling
 
-*   [Bugsnag (⭐233)](https://github.com/bugsnag/bugsnag-ruby) - Error monitoring for Rails, Sinatra, Rack, and plain Ruby apps.
+*   [Bugsnag (⭐241)](https://github.com/bugsnag/bugsnag-ruby) - Error monitoring for Rails, Sinatra, Rack, and plain Ruby apps.
 
 ## [2. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Network / Security Information & Event Management
 
-*   [FIR (⭐1.5k)](https://github.com/certsocietegenerale/FIR) - Fast Incident Response, a cybersecurity incident management platform.
+*   [FIR (⭐1.6k)](https://github.com/certsocietegenerale/FIR) - Fast Incident Response, a cybersecurity incident management platform.
 
 ### Network / Firewall
 
@@ -71,11 +71,11 @@
 
 ### Device
 
-*   [Device.swift (⭐219)](https://github.com/schickling/Device.swift) - Super-lightweight library to detect used device.
+*   [Device.swift (⭐220)](https://github.com/schickling/Device.swift) - Super-lightweight library to detect used device.
 
 ### PDF / Barcode
 
-*   [SimplePDF (⭐242)](https://github.com/nRewik/SimplePDF) - Create a simple PDF effortlessly.
+*   [SimplePDF (⭐243)](https://github.com/nRewik/SimplePDF) - Create a simple PDF effortlessly.
 
 ### Streaming / Barcode
 

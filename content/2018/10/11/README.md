@@ -13,20 +13,20 @@
 *   [**Carbon Components**](https://www.carbondesignsystem.com/) - Component library behind IBM's Carbon Design System.\
     ![](https://img.shields.io/github/stars/carbon-design-system/carbon-components.svg?style=social\&label=Star)
     [Docs](https://www.carbondesignsystem.com/components/overview/),
-    [Repo (⭐6.1k)](https://github.com/carbon-design-system/carbon)
+    [Repo (⭐7.1k)](https://github.com/carbon-design-system/carbon)
     \| #SCSS
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Top / Game Engine resources
 
-*   [Trinity Orientation @ Univ Toronto (⭐604)](https://github.com/matthewtory/trinity-orientation-2018) <!--stargazers:matthewtory/trinity-orientation-2018--> - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory)
+*   [Trinity Orientation @ Univ Toronto (⭐613)](https://github.com/matthewtory/trinity-orientation-2018) <!--stargazers:matthewtory/trinity-orientation-2018--> - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory)
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Patterns
 
-*   [Viperit (⭐505)](https://github.com/ferranabello/Viperit) - Viper Framework for iOS.
+*   [Viperit (⭐507)](https://github.com/ferranabello/Viperit) - Viper Framework for iOS.
 
 ## [4. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
 
@@ -92,7 +92,7 @@
 
 ### XML
 
-*   [Mini-XML (⭐386)](https://github.com/michaelrsweet/mxml) - A small XML parsing library written in ANSI C. \[LGPL2 with exceptions]
+*   [Mini-XML (⭐403)](https://github.com/michaelrsweet/mxml) - A small XML parsing library written in ANSI C. \[LGPL2 with exceptions]
 
 ## [14. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -128,7 +128,7 @@
 ### Trackers / Public Trackers
 
 *   [rutor](http://rutor.info/) Russian tracker
-*   [trackerslist (⭐36k)](https://github.com/ngosang/trackerslist) An updated list of public BitTorrent trackers
+*   [trackerslist (⭐40k)](https://github.com/ngosang/trackerslist) An updated list of public BitTorrent trackers
 *   [MagnetDL](http://www.magnetdl.com/) Magnet link only search engine
 
 ### Tracker Invites / Public Trackers
@@ -138,7 +138,7 @@
 
 ### Torrent Clients / Public Trackers
 
-*   [Popcorn Time (⭐7.6k)](https://github.com/popcorn-official/popcorn-desktop) Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.
+*   [Popcorn Time (⭐8.1k)](https://github.com/popcorn-official/popcorn-desktop) Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.
 
 ### Seedboxes / Seedbox Hosting Providers
 
@@ -152,7 +152,7 @@
 
 ### Tracker Frameworks / Seedbox Setup Tools and Guides
 
-*   [UNIT3D (⭐1.6k)](https://github.com/HDInnovations/UNIT3D) The Nex-Gen Private Torrent Tracker (Aimed For Movie / TV Use)
+*   [UNIT3D (⭐1.7k)](https://github.com/HDInnovations/UNIT3D) The Nex-Gen Private Torrent Tracker (Aimed For Movie / TV Use)
 
 ### DDL Link Sites / Free Indexers
 
@@ -178,39 +178,39 @@
 *   ["All resources I know related to Open Directories"](https://www.reddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/) Thorough post from /u/ElectroXexual
 *   [The Holy Grail of Indexes](https://www.reddit.com/r/opendirectories/comments/75ya8g/the_holy_grail_of_indexes/) Posted by /u/shadow\_hunter104
 *   [36 GB of Flash Games](https://www.reddit.com/r/opendirectories/comments/902j1i/36_gb_of_flash_games_19k_files/) Posted by /u/blue\_star\_
-*   [FileMasta (⭐620)](https://github.com/HerbL27/FileMasta) Search servers for video, music, books, software, games, subtitles and much more
+*   [FileMasta (⭐628)](https://github.com/HerbL27/FileMasta) Search servers for video, music, books, software, games, subtitles and much more
 
 ### Media Centre Applications / Third Party Hosts
 
 *   [Emby](https://emby.media/) a personal media server with apps on just about every device.
-*   [Viewscreen (⭐218)](https://github.com/viewscreen/viewscreen) a personal video streaming server
-*   [Myflix (⭐303)](https://github.com/pastapojken/Myflix) Myflix tries to be a somewhat simple and lightweight "DIY Netflix", similar to Plex, streama or Emby, for your DIY NAS, especially aimed at the Raspberry Pi/Odroid/etc ecosystem.
+*   [Viewscreen (⭐225)](https://github.com/viewscreen/viewscreen) a personal video streaming server
+*   [Myflix (⭐306)](https://github.com/pastapojken/Myflix) Myflix tries to be a somewhat simple and lightweight "DIY Netflix", similar to Plex, streama or Emby, for your DIY NAS, especially aimed at the Raspberry Pi/Odroid/etc ecosystem.
 
 ### Plex Plugins / Third Party Hosts
 
-*   [SRT2UTF-8.bundle (⭐122)](https://github.com/ukdtom/SRT2UTF-8.bundle) Plex Agent that'll convert sidecar subtitle files into UTF-8
+*   [SRT2UTF-8.bundle (⭐121)](https://github.com/ukdtom/SRT2UTF-8.bundle) Plex Agent that'll convert sidecar subtitle files into UTF-8
 *   [PlexTools.bundle](https://github.com/jwdempsey/PlexTools.bundle) Downloads subtitles for any videos in your library from OpenSubtitles and modifies them to work with Roku clients, and converts videos to MP4 for direct play
 
 ### Plex Scripts and Tools / Third Party Hosts
 
-*   [plex2netflix (⭐265)](https://github.com/SpaceK33z/plex2netflix) See how much of your media from Plex is available on Netflix.
+*   [plex2netflix (⭐270)](https://github.com/SpaceK33z/plex2netflix) See how much of your media from Plex is available on Netflix.
 *   [plexReport (⭐65)](https://github.com/bstascavage/plexReport) Scripts to generate a weekly email of new additions to Plex
-*   [Plex Redirect (⭐221)](https://github.com/ITRav4/PlexRedirect) a Plex landing page that redirects you to various sites.
+*   [Plex Redirect (⭐227)](https://github.com/ITRav4/PlexRedirect) a Plex landing page that redirects you to various sites.
 
 ### Plex Transcoding / Third Party Hosts
 
-*   [Plex-Remote-Transcoder (⭐636)](https://github.com/wnielson/Plex-Remote-Transcoder) A distributed transcoding backend for Plex
+*   [Plex-Remote-Transcoder (⭐640)](https://github.com/wnielson/Plex-Remote-Transcoder) A distributed transcoding backend for Plex
 
 ### Plex Clients / Third Party Hosts
 
-*   [RasPlex (⭐643)](https://github.com/RasPlex/RasPlex) Rasplex is a community driven port of Plex Home Theater for the Raspberry Pi
+*   [RasPlex (⭐645)](https://github.com/RasPlex/RasPlex) Rasplex is a community driven port of Plex Home Theater for the Raspberry Pi
 *   [PlexConnect (⭐1.9k)](https://github.com/iBaa/PlexConnect) Unofficial Plex app for Apple TV devices
-*   [go-plex-client (⭐112)](https://github.com/jrudio/go-plex-client) A Plex.tv and Plex Media Server Go client
+*   [go-plex-client (⭐123)](https://github.com/jrudio/go-plex-client) A Plex.tv and Plex Media Server Go client
 
 ### Kodi / Third Party Hosts
 
 *   [Tooonmania2 (⭐1)](https://github.com/doko-desuka/doko.repository/releases) lets you watch cartoons, dubbed anime and movies (from animetoon) and subbed anime and movies (from animeplus)
-*   [PlexKodiConnect (⭐930)](https://github.com/croneter/PlexKodiConnect) Plex integration in Kodi done right
+*   [PlexKodiConnect (⭐1k)](https://github.com/croneter/PlexKodiConnect) Plex integration in Kodi done right
 *   [Official Plex Addon](https://forums.plex.tv/t/installation-instructions/168854) Official Plex addon for Kodi
 
 ### Repacks / Third Party Hosts
@@ -226,7 +226,7 @@
 
 ### Music Downloading / Third Party Hosts
 
-*   [irs (⭐343)](https://github.com/kepoorhampond/irs) A music downloader that understands your metadata needs.
+*   [irs (⭐368)](https://github.com/kepoorhampond/irs) A music downloader that understands your metadata needs.
 *   [/r/DeezloaderIsBack](https://www.reddit.com/r/DeezloadersIsBack) Community supporting Deezloader
 
 ### Spotify / Third Party Hosts
@@ -235,14 +235,14 @@
 
 ### Automation / Third Party Hosts
 
-*   [traktarr (⭐484)](https://github.com/l3uddz/traktarr) Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
+*   [traktarr (⭐520)](https://github.com/l3uddz/traktarr) Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
 
 ### TV Automation / Third Party Hosts
 
 *   [SickRage (⭐1.5k)](https://github.com/SiCKRAGE/SiCKRAGE) Automatic Video Library Manager for TV Shows.
 *   [SickChill](https://sickchill.github.io/) an automatic Video Library Manager for TV Shows.
 *   [SickBeard](http://sickbeard.com/) The ultimate PVR application that searches for and manages your TV shows
-*   [SickGear (⭐553)](https://github.com/SickGear/SickGear) SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
+*   [SickGear (⭐599)](https://github.com/SickGear/SickGear) SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
 *   [Medusa](https://pymedusa.com/) Automatic Video Library Manager for TV Shows.
 
 ### Music Automation / Third Party Hosts
@@ -255,7 +255,7 @@
 
 ### Cloud Storage / Third Party Hosts
 
-*   [plexdrive (⭐1.6k)](https://github.com/dweidenfeld/plexdrive) mounts your Google Drive FUSE filesystem (optimized for media playback)
+*   [plexdrive (⭐1.7k)](https://github.com/dweidenfeld/plexdrive) mounts your Google Drive FUSE filesystem (optimized for media playback)
 *   [/r/PlexACD](https://www.reddit.com/r/PlexACD/) Discussion about unlimited cloud storage for Plex libraries
 *   [rclone-gdrive](https://bytesized-hosting.com/pages/rclone-gdrive) Wiki page on setting up Google Drive with rclone cache and crypt
 
@@ -303,14 +303,14 @@
 
 *   [IMDb](https://www.imdb.com/) Find movies, TV shows, celebrities, and more
 *   [Movieo](https://movieo.me/) Discover, organize and track over 250,000 movies.
-*   [popular-movies (⭐285)](https://github.com/sjlu/popular-movies) Tries to create a list of popular movies based on a series of heuristics
+*   [popular-movies (⭐317)](https://github.com/sjlu/popular-movies) Tries to create a list of popular movies based on a series of heuristics
 
 ### Dashboards and Homepages / Third Party Hosts
 
 *   [Muximux (⭐1.1k)](https://github.com/mescon/Muximux) A lightweight way to manage your HTPC
-*   [Heimdall (⭐4.9k)](https://github.com/linuxserver/Heimdall) An Application dashboard and launcher
+*   [Heimdall (⭐6.1k)](https://github.com/linuxserver/Heimdall) An Application dashboard and launcher
 *   [weboas.is](http://weboas.is/) Homepage for pirates
-*   [iDashboard-PHP (⭐125)](https://github.com/causefx/iDashboard-PHP) HTPC Dashboard to load website services, written in PHP (predecessor to Organizr)
+*   [iDashboard-PHP (⭐124)](https://github.com/causefx/iDashboard-PHP) HTPC Dashboard to load website services, written in PHP (predecessor to Organizr)
 *   [HTPC-Manager (⭐346)](https://github.com/Hellowlol/HTPC-Manager) A fully responsive interface to manage all your favorite software on your Htpc.
 
 ---

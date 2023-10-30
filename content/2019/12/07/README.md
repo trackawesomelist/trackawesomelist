@@ -10,14 +10,14 @@
 
 ### Downloading and Serving / Directory Navigation
 
-*   [vesper (⭐193)](https://github.com/chris-rock/vesper) - 🍸Vesper is a HTTP framework for Bash/Unix Shell
+*   [vesper (⭐198)](https://github.com/chris-rock/vesper) - 🍸Vesper is a HTTP framework for Bash/Unix Shell
 
 ## [2. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
 ### Machine Learning Libraries / Deep learning
 
-*   [torch-rb (⭐533)](https://github.com/ankane/torch-rb) - Ruby bindings for [LibTorch (⭐66k)](https://github.com/pytorch/pytorch)
-    using [rice (⭐340)](https://github.com/jasonroelofs/rice).
+*   [torch-rb (⭐579)](https://github.com/ankane/torch-rb) - Ruby bindings for [LibTorch (⭐72k)](https://github.com/pytorch/pytorch)
+    using [rice (⭐353)](https://github.com/jasonroelofs/rice).
 
 ## [3. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -29,44 +29,44 @@
 
 ### Packages / Frameworks
 
-*   [Bap (⭐107)](https://github.com/adamrenklint/bap) - A toolkit for making beats and composing sequences, inspired by the classic MPC60/2000.
+*   [Bap (⭐111)](https://github.com/adamrenklint/bap) - A toolkit for making beats and composing sequences, inspired by the classic MPC60/2000.
 
 ### Packages / Libraries
 
-*   [Sound.js (⭐282)](https://github.com/kittykatattack/sound.js) - A micro-library to load, play and generate sound effects and music for games and interactive applications.
-*   [Circular Audio Wave (⭐196)](https://github.com/kelvinau/circular-audio-wave) - A JS library for audio visualization in circular wave using Web Audio API and ECharts.
-*   [Wad (⭐1.7k)](https://github.com/rserota/wad) - Web Audio DAW. Use the Web Audio API for dynamic sound synthesis. It's like jQuery for your ears.
+*   [Sound.js (⭐286)](https://github.com/kittykatattack/sound.js) - A micro-library to load, play and generate sound effects and music for games and interactive applications.
+*   [Circular Audio Wave (⭐220)](https://github.com/kelvinau/circular-audio-wave) - A JS library for audio visualization in circular wave using Web Audio API and ECharts.
+*   [Wad (⭐1.8k)](https://github.com/rserota/wad) - Web Audio DAW. Use the Web Audio API for dynamic sound synthesis. It's like jQuery for your ears.
 
 ### Resources / Tutorials
 
-*   [WebAudio School (⭐392)](https://github.com/mmckegg/web-audio-school) - A series of self-guided workshops to learn WebAudio.
+*   [WebAudio School (⭐396)](https://github.com/mmckegg/web-audio-school) - A series of self-guided workshops to learn WebAudio.
 
 ### Obsolete / Community
 
-*   [Gibberish (⭐378)](https://github.com/gibber-cc/gibberish) - A JavaScript DSP library that creates JIT optimized audio callbacks using code generation techniques.
-*   [lissajous (⭐390)](https://github.com/kylestetz/lissajous) - A tool for programmatic audio performance.
+*   [Gibberish (⭐382)](https://github.com/gibber-cc/gibberish) - A JavaScript DSP library that creates JIT optimized audio callbacks using code generation techniques.
+*   [lissajous (⭐393)](https://github.com/kylestetz/lissajous) - A tool for programmatic audio performance.
 *   [SSSynthesiser.js (⭐50)](https://github.com/surikov/SSSynthesiser.js) - A wavetable synthesizer for interactive music and sound effects.
-*   [WAAX (⭐303)](https://github.com/hoch/WAAX/) - Build Music Apps for browsers.
+*   [WAAX (⭐302)](https://github.com/hoch/WAAX/) - Build Music Apps for browsers.
 *   [Band.js (⭐1.2k)](https://github.com/meenie/band.js/) An interface for the Web Audio API that supports rhythms, multiple instruments, repeating sections, and complex time signatures.
-*   [reverbGen (⭐47)](https://github.com/adelespinasse/reverbGen) - A JavaScript library for generating artificial reverb impulse responses.
-*   [TuneJS (⭐166)](https://github.com/abbernie/tune) - A tuning library of microtonal and just intonation scales. Supports over 3,000 historical tunings.
-*   [Beet.js (⭐103)](https://github.com/zya/beet.js) - A sequencer library for creating euclidean rhythms and polyrhythms.
-*   [AudioKeys (⭐220)](https://github.com/kylestetz/AudioKeys) - A QWERTY keyboard for web audio projects.
-*   [web-audio-test-api (⭐66)](https://github.com/mohayonao/web-audio-test-api) - A Web Audio test library for CI.
-*   [javascript-karplus-strong (⭐264)](https://github.com/mrahtz/javascript-karplus-strong) - JavaScript/Web Audio implementation of Karplus-Strong guitar synthesis.
-*   [osc-msg (⭐16)](https://github.com/mohayonao/osc-msg) - OSC message decoder/encoder with fault tolerance.
+*   [reverbGen (⭐50)](https://github.com/adelespinasse/reverbGen) - A JavaScript library for generating artificial reverb impulse responses.
+*   [TuneJS (⭐169)](https://github.com/abbernie/tune) - A tuning library of microtonal and just intonation scales. Supports over 3,000 historical tunings.
+*   [Beet.js (⭐108)](https://github.com/zya/beet.js) - A sequencer library for creating euclidean rhythms and polyrhythms.
+*   [AudioKeys (⭐224)](https://github.com/kylestetz/AudioKeys) - A QWERTY keyboard for web audio projects.
+*   [web-audio-test-api (⭐67)](https://github.com/mohayonao/web-audio-test-api) - A Web Audio test library for CI.
+*   [javascript-karplus-strong (⭐274)](https://github.com/mrahtz/javascript-karplus-strong) - JavaScript/Web Audio implementation of Karplus-Strong guitar synthesis.
+*   [osc-msg (⭐17)](https://github.com/mohayonao/osc-msg) - OSC message decoder/encoder with fault tolerance.
 *   [Pizzicato (⭐1.6k)](https://github.com/alemangui/pizzicato) - A library that aims to simplify the creation and manipulation sounds in the browser.
-*   [Mooog (⭐27)](https://github.com/mattlima/mooog) - Tools that simplify working with AudioNodes, inspired by jQuery and mixing tables.
+*   [Mooog (⭐28)](https://github.com/mattlima/mooog) - Tools that simplify working with AudioNodes, inspired by jQuery and mixing tables.
 *   [envelope-generator (⭐34)](https://github.com/itsjoesullivan/envelope-generator) - Simple ADSR envelope generator for web audio.
 *   [audio contour (⭐20)](https://github.com/danigb/audio-contour) - A 5 stage audio envelope generator.
-*   [web-audio-recorder-js (⭐723)](https://github.com/higuma/web-audio-recorder-js) - A library that records audio input (Web Audio API AudioNode object) and encodes to audio file image (Blob object).
-*   [audiolet (⭐891)](https://github.com/oampo/Audiolet) - A JavaScript library for real-time audio synthesis and composition from within the browser.
+*   [web-audio-recorder-js (⭐733)](https://github.com/higuma/web-audio-recorder-js) - A library that records audio input (Web Audio API AudioNode object) and encodes to audio file image (Blob object).
+*   [audiolet (⭐892)](https://github.com/oampo/Audiolet) - A JavaScript library for real-time audio synthesis and composition from within the browser.
 *   [playnote (⭐2)](https://github.com/createbits/playnote) - Play your favorite instrument in the browser, with complex note intervals and scales.
-*   [Recorderjs (⭐4k)](https://github.com/mattdiamond/Recorderjs) - A plugin for recording/exporting the output of Web Audio API nodes.
+*   [Recorderjs (⭐4.1k)](https://github.com/mattdiamond/Recorderjs) - A plugin for recording/exporting the output of Web Audio API nodes.
 *   [resampler (⭐38)](https://github.com/notthetup/resampler) - A utility for resampling audio.
-*   [bpm-detective (⭐123)](https://github.com/tornqvist/bpm-detective) – Detects the BPM of a song or audio sample.
+*   [bpm-detective (⭐128)](https://github.com/tornqvist/bpm-detective) – Detects the BPM of a song or audio sample.
 *   [web-audio-utils (⭐10)](https://github.com/mohayonao/web-audio-utils) - Commonly needed utility functions for Web Audio API.
-*   [web-audio-oscillators (⭐49)](https://github.com/lukehorvat/web-audio-oscillators) - A collection of Web Audio custom oscillators.
+*   [web-audio-oscillators (⭐53)](https://github.com/lukehorvat/web-audio-oscillators) - A collection of Web Audio custom oscillators.
 *   [midi-ports (⭐16)](https://github.com/AndrejHronco/midi-ports) - handy library to make it easier to work with attached MIDI devices.
 *   [Midi Logger](http://outputchannel.com/midi-logger/) - This Midi Logger will print all midi input to your browser for debugging.
 *   [Code Player (⭐20)](https://github.com/jcppman/code-player) - An experimental app that makes your codes sing for you.
@@ -154,11 +154,11 @@
 *   [D3 js](http://d3js.org/) (`js`)
 *   [seaborn](https://seaborn.pydata.org/): statistical data visualization
 *   [Plotnine](https://plotnine.readthedocs.io): A Grammar of Graphics for Python
-*   [itermplot (⭐1.4k)](https://github.com/daleroberts/itermplot): An awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal.
+*   [itermplot (⭐1.5k)](https://github.com/daleroberts/itermplot): An awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal.
 
 ### Graph Making / HTML+CSS+JS
 
-*   [colorcet (⭐587)](https://github.com/holoviz/colorcet) can be used to investigate colormaps.
+*   [colorcet (⭐629)](https://github.com/holoviz/colorcet) can be used to investigate colormaps.
 
 ### More / HTML+CSS+JS
 
@@ -168,7 +168,7 @@
 
 ### Dialog
 
-*   [Chatito (⭐806)](https://github.com/rodrigopivi/Chatito) - Generate datasets for AI chatbots, NLP tasks, named entity recognition or text classification models using a simple DSL!
+*   [Chatito (⭐844)](https://github.com/rodrigopivi/Chatito) - Generate datasets for AI chatbots, NLP tasks, named entity recognition or text classification models using a simple DSL!
 
 ### Neural Natural Language Generation
 
@@ -190,19 +190,19 @@
 
 ### Testing Frameworks / Runner
 
-*   [webdriverio (⭐8.1k)](https://github.com/webdriverio/webdriverio) - Next-gen WebDriver test automation framework for Node.js.
+*   [webdriverio (⭐8.3k)](https://github.com/webdriverio/webdriverio) - Next-gen WebDriver test automation framework for Node.js.
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [svelte (⭐67k)](https://github.com/sveltejs/svelte) - Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
+*   [svelte (⭐72k)](https://github.com/sveltejs/svelte) - Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
 
 ### Node-Powered CMS Frameworks / Runner
 
-*   [Strapi (⭐53k)](https://github.com/strapi/strapi) - Open source Node.js Headless CMS to easily build customisable APIs.
+*   [Strapi (⭐56k)](https://github.com/strapi/strapi) - Open source Node.js Headless CMS to easily build customisable APIs.
 
-### Podcasts / Other
+### Misc / Other
 
-*   [Clean Code JavaScript (⭐82k)](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
+*   [Clean Code JavaScript (⭐85k)](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
 
 ---
 

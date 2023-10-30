@@ -10,11 +10,11 @@
 
 ### Animation
 
-*   [lottie-ios (⭐24k)](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations.
+*   [lottie-ios (⭐25k)](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations.
 
 ### Bots
 
-*   [Telegram Bot SDK (⭐356)](https://github.com/rapierorg/telegram-bot-swift) :penguin: - Unofficial SDK.
+*   [Telegram Bot SDK (⭐370)](https://github.com/rapierorg/telegram-bot-swift) :penguin: - Unofficial SDK.
 
 ### Keychain / Barcode
 
@@ -113,7 +113,7 @@
 
 ### Integrations
 
-*   [Extension Keycloak facilitant l'utilisation de FranceConnect (⭐68)](https://github.com/InseeFr/Keycloak-FranceConnect)
+*   [Extension Keycloak facilitant l'utilisation de FranceConnect (⭐71)](https://github.com/InseeFr/Keycloak-FranceConnect)
 
 ## [6. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
 

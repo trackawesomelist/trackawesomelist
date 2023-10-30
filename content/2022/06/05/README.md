@@ -10,100 +10,96 @@
 
 ### Maps / Map Games
 
-*   [PraxisMapper (⭐27)](https://github.com/drakewill-CRL/PraxisMapper) - GPS Game server, for making mobile games around exploring the real world. ([Source Code (⭐27)](https://github.com/drakewill-CRL/PraxisMapper))
+*   [PraxisMapper (⭐38)](https://github.com/drakewill-CRL/PraxisMapper) - GPS Game server, for making mobile games around exploring the real world.
 
 ## [2. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)
 
 ### Traffic Capture
 
-*   [sharppcap (⭐970)](https://github.com/dotpcap/sharppcap): Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets from live and file based devices. A realiable and robust wrapper of libpcap and npcap.
+*   [sharppcap (⭐1.1k)](https://github.com/dotpcap/sharppcap): Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets from live and file based devices. A realiable and robust wrapper of libpcap and npcap.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Feed Readers
 
-*   [Stringer (⭐3.6k)](https://github.com/stringer-rss/stringer) - Work-in-progress self-hosted, anti-social RSS reader. `MIT` `Ruby`
+*   [Stringer (⭐3.7k)](https://github.com/stringer-rss/stringer) - Work-in-progress self-hosted, anti-social RSS reader. `MIT` `Ruby`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [OnionShare (⭐5.6k)](https://github.com/onionshare/onionshare) - Securely and anonymously share a file of any size. `GPL-2.0` `Python`
+*   [OnionShare (⭐5.7k)](https://github.com/onionshare/onionshare) - Securely and anonymously share a file of any size. `GPL-2.0` `Python`
 
 ### Software / Media Streaming - Multimedia Streaming
 
-*   [Kodi](https://kodi.tv/) - Multimedia/Entertainment center, formerly known as XBMC. Runs on Android, BSD, Linux, macOS, iOS and Windows. ([Source Code (⭐16k)](https://github.com/xbmc/xbmc)) `GPL-2.0` `C++`
+*   [Kodi](https://kodi.tv/) - Multimedia/Entertainment center, formerly known as XBMC. Runs on Android, BSD, Linux, macOS, iOS and Windows. ([Source Code (⭐16k)](https://github.com/xbmc/xbmc)) `GPL-2.0` `C++/deb`
 
 ### Software / Miscellaneous
 
-*   [Octave Online](https://octave-online.net/) - Infrastracture behind a web UI for GNU Octave, the libre alternative to MATLAB. ([Source Code (⭐275)](https://github.com/octave-online/octave-online-server)) `AGPL-3.0` `Docker/Nodejs`
+*   [Octave Online](https://octave-online.net/) - Infrastracture behind a web UI for GNU Octave (alternative to MATLAB). ([Source Code (⭐292)](https://github.com/octave-online/octave-online-server)) `AGPL-3.0` `Docker/Nodejs`
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Generic ZSH
 
-*   [adamnorwood-zsh (⭐5)](https://github.com/adamnorwood/adamnorwood-zsh/) - A minimalist but readable ZSH setup based on [oh-my-posh](https://ohmyposh.dev/).
+*   [adamnorwood-zsh (⭐8)](https://github.com/adamnorwood/adamnorwood-zsh/) - A minimalist but readable ZSH setup based on [oh-my-posh](https://ohmyposh.dev/).
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [quotify (⭐6)](https://github.com/dpretet/zsh-quotify) - Displays inspiring coding quotes from our pairs when starting up.
+*   [quotify (⭐7)](https://github.com/dpretet/zsh-quotify) - Displays inspiring coding quotes from our pairs when starting up.
 
 ## [5. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
-*   [ArcGIS Developer (⭐150)](https://github.com/Esri/awesome-arcgis-developer#readme) - Mapping and location analysis platform for developers.
+*   [ArcGIS Developer (⭐180)](https://github.com/Esri/awesome-arcgis-developer#readme) - Mapping and location analysis platform for developers.
 
 ### Back-End Development
 
-*   [Fiber (⭐187)](https://github.com/gofiber/awesome-fiber#readme) - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
+*   [Fiber (⭐329)](https://github.com/gofiber/awesome-fiber#readme) - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
 
 ### Databases
 
-*   [TDengine (⭐44)](https://github.com/taosdata/awesome-tdengine#readme) - An open-source time-series database with high-performance, scalability, and SQL support.
+*   [TDengine (⭐47)](https://github.com/taosdata/awesome-tdengine#readme) - An open-source time-series database with high-performance, scalability, and SQL support.
 
 ### Security
 
-*   [Malware Persistence (⭐94)](https://github.com/Karneades/awesome-malware-persistence#readme) - Techniques that adversaries use to keep access to systems across restarts.
-*   [EVM Security (⭐103)](https://github.com/kareniel/awesome-evm-security#readme) - Understanding the Ethereum Virtual Machine security ecosystem.
+*   [Malware Persistence (⭐122)](https://github.com/Karneades/awesome-malware-persistence#readme) - Techniques that adversaries use to keep access to systems across restarts.
+*   [EVM Security (⭐138)](https://github.com/kareniel/awesome-evm-security#readme) - Understanding the Ethereum Virtual Machine security ecosystem.
 
 ### Content Management Systems
 
-*   [Plone (⭐29)](https://github.com/collective/awesome-plone#readme) - Open source Python CMS.
+*   [Plone (⭐36)](https://github.com/collective/awesome-plone#readme) - Open source Python CMS.
 
 ### Hardware
 
-*   [Open Hardware (⭐200)](https://github.com/delftopenhardware/awesome-open-hardware#readme) - Open-source hardware projects.
+*   [Open Hardware (⭐286)](https://github.com/delftopenhardware/awesome-open-hardware#readme) - Open-source hardware projects.
 
 ### Miscellaneous
 
-*   [OpenStreetMap (⭐439)](https://github.com/osmlab/awesome-openstreetmap#readme) - An open data mapping project utilized by many apps and devices.
-*   [Computational Biology (⭐30)](https://github.com/inoue0426/awesome-computational-biology#readme) - Computational approaches applied to problems in biology.
+*   [OpenStreetMap (⭐498)](https://github.com/osmlab/awesome-openstreetmap#readme) - An open data mapping project utilized by many apps and devices.
+*   [Computational Biology (⭐41)](https://github.com/inoue0426/awesome-computational-biology#readme) - Computational approaches applied to problems in biology.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
-### (requires Neovim 0.5)
-
-*   [jose-elias-alvarez/null-ls.nvim (⭐3.2k)](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
-
 ### Color / Diagnostics
 
-*   [koenverburg/peepsight.nvim (⭐70)](https://github.com/koenverburg/peepsight.nvim) - Focus only the function your cursor is in.
+*   [koenverburg/peepsight.nvim (⭐90)](https://github.com/koenverburg/peepsight.nvim) - Focus only the function your cursor is in.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [theniceboy/nvim-deus (⭐58)](https://github.com/theniceboy/nvim-deus) - Vim-deus with Tree-sitter support.
+*   [theniceboy/nvim-deus (⭐64)](https://github.com/theniceboy/nvim-deus) - Vim-deus with Tree-sitter support.
 
 ### Utility / Diagnostics
 
-*   [crusj/bookmarks.nvim (⭐85)](https://github.com/crusj/bookmarks.nvim) - Remember file locations and sort by time and frequency.
-*   [xiyaowong/virtcolumn.nvim (⭐51)](https://github.com/xiyaowong/virtcolumn.nvim) - Display a line as colorcolumn.
+*   [crusj/bookmarks.nvim (⭐129)](https://github.com/crusj/bookmarks.nvim) - Remember file locations and sort by time and frequency.
+*   [xiyaowong/virtcolumn.nvim (⭐60)](https://github.com/xiyaowong/virtcolumn.nvim) - Display a line as colorcolumn.
 
 ### Treesitter Based / Diagnostics
 
-*   [drybalka/tree-climber.nvim (⭐105)](https://github.com/drybalka/tree-climber.nvim) - Easy navigation around the Treesitter's tree that works in multi-language files and in normal mode.
+*   [drybalka/tree-climber.nvim (⭐125)](https://github.com/drybalka/tree-climber.nvim) - Easy navigation around the Treesitter's tree that works in multi-language files and in normal mode.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [askfiy/nvim (⭐191)](https://github.com/askfiy/nvim) - An excellent Neovim configuration, which is as powerful as Vscode, is lightning fast ⚡️.
+*   [askfiy/nvim (⭐207)](https://github.com/askfiy/nvim) - An excellent Neovim configuration, which is as powerful as Vscode, is lightning fast ⚡️.
 
 ## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -119,17 +115,17 @@
 
 ### Libraries / GUI
 
-*   [iced-rs/iced (⭐19k)](https://github.com/iced-rs/iced) \[[iced](https://crates.io/crates/iced)] — A cross-platform GUI library for Rust focused on simplicity and type-safety. Inspired by Elm.
+*   [iced-rs/iced (⭐21k)](https://github.com/iced-rs/iced) \[[iced](https://crates.io/crates/iced)] — A cross-platform GUI library for Rust focused on simplicity and type-safety. Inspired by Elm.
 
 ## [9. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Go Compilers
 
-*   [c2go (⭐259)](https://github.com/goplus/c2go) - Convert C code to Go code.
+*   [c2go (⭐281)](https://github.com/goplus/c2go) - Convert C code to Go code.
 
 ### Utilities
 
-*   [loncha (⭐6)](https://github.com/kazu/loncha) - A high-performance slice Utilities.
+*   [loncha (⭐7)](https://github.com/kazu/loncha) - A high-performance slice Utilities.
 
 ---
 

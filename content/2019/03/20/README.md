@@ -10,13 +10,21 @@
 
 ### Date and Time Processing
 
-*   [timezone (⭐322)](https://github.com/panthomakos/timezone) - Accurate current and historical timezones and transformations, with support for Geonames and Google latitude - longitude timezone lookups.
+*   [timezone (⭐331)](https://github.com/panthomakos/timezone) - Accurate current and historical timezones and transformations, with support for Geonames and Google latitude - longitude timezone lookups.
 
 ## [2. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
 
+### WWDC Students Submissions
+
+*   [2018 (⭐267)](https://github.com/wwdc/2018)
+*   [2017 (⭐243)](https://github.com/wwdc/2017)
+*   [2016 (⭐82)](https://github.com/wwdc/2016)
+*   [2015 (⭐131)](https://github.com/wwdc/2015)
+*   [2014 (⭐185)](https://github.com/wwdc/2014)
+
 ### Mathematics / SpriteKit
 
-*   [Guilloche Pattern Playground Book (⭐16)](https://github.com/TheWildHorse/GuillochePlayground) - Learn more about this pattern you see every day, but probably never knew it was really carefully designed. 🍁
+*   [Guilloche Pattern Playground Book (⭐17)](https://github.com/TheWildHorse/GuillochePlayground) - Learn more about this pattern you see every day, but probably never knew it was really carefully designed. 🍁
 
 ### PlaygroundBooks
 
@@ -30,34 +38,26 @@
 *   [Codable Playground (⭐16)](https://github.com/filip-zielinski/CodablePlayground) - Playground that demonstrates advanced uses of Codable. 🍁
 *   [Generics In Swift](https://github.com/LukeSkywalker55/Generics-In-Swift) - Playground that explains generics. 🍁
 *   [Swift String Cheat Sheet (⭐58)](https://github.com/kharrison/Playground-Strings) - A quick guide to using Strings with Swift. 🍁
-*   [About Swift (⭐73)](https://github.com/NicolaLancellotti-About/About-Swift) - A playground about Swift language.  🍁
+*   [About Swift (⭐79)](https://github.com/NicolaLancellotti-About/About-Swift) - A playground about Swift language.  🍁
 
 ### Learning Swift: Advanced Topics / Design Patterns
 
-*   [The Principles of OOD in Swift 4 (⭐1.8k)](https://github.com/ochococo/OOD-Principles-In-Swift) - The Principles of OOD based on Uncle Bob articles.🍁
-
-### WWDC Students Submissions / Functional Reactive Programming
-
-*   [2018 (⭐267)](https://github.com/wwdc/2018)
-*   [2017 (⭐244)](https://github.com/wwdc/2017)
-*   [2016 (⭐82)](https://github.com/wwdc/2016)
-*   [2015 (⭐130)](https://github.com/wwdc/2015)
-*   [2014 (⭐186)](https://github.com/wwdc/2014)
+*   [The Principles of OOD in Swift 4 (⭐1.9k)](https://github.com/ochococo/OOD-Principles-In-Swift) - The Principles of OOD based on Uncle Bob articles.🍁
 
 ### Theoretical Computer Science / Functional Reactive Programming
 
-*   [Functional Debug View (⭐37)](https://github.com/tomquist/DebugView) - Playground to visualize functional programming with graphical sequences. 🍁 🌟
-*   [OOP with Functions in Swift (⭐58)](https://github.com/iamleeg/OOPInFPInSwift) - Object-Oriented Programming in Functional Programming in Swift. 🍁
+*   [Functional Debug View (⭐38)](https://github.com/tomquist/DebugView) - Playground to visualize functional programming with graphical sequences. 🍁 🌟
+*   [OOP with Functions in Swift (⭐59)](https://github.com/iamleeg/OOPInFPInSwift) - Object-Oriented Programming in Functional Programming in Swift. 🍁
 
 ### Theoretical Computer Science / Algorithms and Data Structures
 
-*   [Animated Sorting Algorithms (⭐32)](https://github.com/p-sun/Animated-Sorting-Algorithms) - Swift 4 playgrounds to view and manipulate sorting algorithms.🍁
-*   [Expressions (⭐398)](https://github.com/mpangburn/Expressions) - Arithmetic and logical expressions elegantly modeled and visualized using protocol-oriented binary trees.🍁
+*   [Animated Sorting Algorithms (⭐34)](https://github.com/p-sun/Animated-Sorting-Algorithms) - Swift 4 playgrounds to view and manipulate sorting algorithms.🍁
+*   [Expressions (⭐397)](https://github.com/mpangburn/Expressions) - Arithmetic and logical expressions elegantly modeled and visualized using protocol-oriented binary trees.🍁
 
 ### Theoretical Computer Science / Languages
 
-*   [Introduction to Compilers (⭐404)](https://github.com/ahoppen/introduction-to-compilers) - Great introduction to the inner workings of compilers. 🍁🌟
-*   [Pascal Interpreter (⭐277)](https://github.com/igorkulman/SwiftPascalInterpreter) - Simple Swift interpreter for the Pascal language inspired by the Let’s Build A Simple Interpreter article series. 🍁
+*   [Introduction to Compilers (⭐432)](https://github.com/ahoppen/introduction-to-compilers) - Great introduction to the inner workings of compilers. 🍁🌟
+*   [Pascal Interpreter (⭐282)](https://github.com/igorkulman/SwiftPascalInterpreter) - Simple Swift interpreter for the Pascal language inspired by the Let’s Build A Simple Interpreter article series. 🍁
 
 ### UIKit And Graphics / SpriteKit
 
@@ -65,8 +65,8 @@
 
 ### Playground Sets / SpriteKit
 
-*   [Parks And Recreation (⭐170)](https://github.com/zwaldowski/ParksAndRecreation) - Great collection of interesting playgrounds, for fun and for profit. 🍁🌟
-*   [URaimo's Playgrounds (⭐140)](https://github.com/uraimo/Swift-Playgrounds) - My playgrounds, various topics. 🍁
+*   [Parks And Recreation (⭐172)](https://github.com/zwaldowski/ParksAndRecreation) - Great collection of interesting playgrounds, for fun and for profit. 🍁🌟
+*   [URaimo's Playgrounds (⭐139)](https://github.com/uraimo/Swift-Playgrounds) - My playgrounds, various topics. 🍁
 
 ### Miscellaneous / SpriteKit
 
@@ -83,7 +83,7 @@
 
 ### Apps / Media
 
-*   [Wagtail-Textract (⭐29)](https://github.com/fourdigits/wagtail_textract) - Make Wagtail search Documents contents (PDF, Excel and Word, etc.).
+*   [Wagtail-Textract (⭐30)](https://github.com/fourdigits/wagtail_textract) - Make Wagtail search Documents contents (PDF, Excel and Word, etc.).
 
 ### Resources / Presentations
 
@@ -96,9 +96,9 @@
 *   [Wagtail & Whatsapp – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=47) by Lisa Adams & Codie Roelf.
 *   [Slack2Wagtail – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=785) by Coen van der Kamp & Lucas Moeskops.
 *   [Wagtail and Oscar – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=1634) by Lars van de Kerkhof.
-*   [wagtail-textract – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3313) by Kees Hink. [Code (⭐29)](https://github.com/fourdigits/wagtail_textract).
+*   [wagtail-textract – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3313) by Kees Hink. [Code (⭐30)](https://github.com/fourdigits/wagtail_textract).
 *   [Django 2.2 compatibility – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3468) by Matt Wescott.
-*   [SEO dashboard – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3937) by Janneke Janssen. [Code (⭐19)](https://github.com/LUKKIEN/wagtail-marketing-addons).
+*   [SEO dashboard – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3937) by Janneke Janssen. [Code (⭐20)](https://github.com/LUKKIEN/wagtail-marketing-addons).
 *   [My First Wagtail Contribution – More formats in RichText Editor – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=4126) by Arifin Ibne Matin.
 *   [Fly, Wagtail, fly! – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=4404) by Daniele Procida.
 *   [Wagtail & GraphQL – Wagtail Space 2019](https://youtu.be/YydSbL8gMS4?t=24) by Arthur Bayr.

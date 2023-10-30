@@ -10,13 +10,13 @@
 
 ### Utility / Diagnostics
 
-*   [LintaoAmons/scratch.nvim (⭐91)](https://github.com/LintaoAmons/scratch.nvim) - Create and manage scratch files.
+*   [LintaoAmons/scratch.nvim (⭐107)](https://github.com/LintaoAmons/scratch.nvim) - Create and manage scratch files.
 
 ## [2. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Utility
 
-*   [objc (⭐1)](https://github.com/magic003/objc) - V bindings to Objective-C runtime.
+*   [objc (⭐2)](https://github.com/magic003/objc) - V bindings to Objective-C runtime.
 
 ## [3. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
@@ -28,9 +28,10 @@
 
 ### Courses & Books & Blogs
 
-*   [MLSys-NYU-2022 (⭐163)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
-*   [Train and Deploy a Serverless API to predict crypto prices (⭐447)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - In this tutorial you won't build an ML system that will make you rich. But you will master the MLOps frameworks and tools you need to build ML systems that, together with tons of experimentation, can take you there.
+*   [MLSys-NYU-2022 (⭐170)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
+*   [Train and Deploy a Serverless API to predict crypto prices (⭐467)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - In this tutorial you won't build an ML system that will make you rich. But you will master the MLOps frameworks and tools you need to build ML systems that, together with tons of experimentation, can take you there.
 
 ---
 
+- Prev: [Sep 18, 2023](/content/2023/09/18/README.md)
 - Next: [Sep 16, 2023](/content/2023/09/16/README.md)

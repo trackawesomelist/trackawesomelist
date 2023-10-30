@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 04, 2020
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -62,7 +62,7 @@
 
 ### Third-party APIs
 
-*   [google (⭐20)](https://github.com/PlaceOS/google) - Google API wrapper
+*   [google (⭐21)](https://github.com/PlaceOS/google) - Google API wrapper
 *   [office365 (⭐9)](https://github.com/PlaceOS/office365) - Microsoft Graph API wrapper
 
 ## [3. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
@@ -75,31 +75,21 @@
 
 ### Applications / System tools
 
-*   [orhun/kmon (⭐1.8k)](https://github.com/orhun/kmon) — Linux Kernel Manager and Activity Monitor ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/workflow/status/orhun/kmon/Continuous%20Integration/master?label=build)
+*   [orhun/kmon (⭐2k)](https://github.com/orhun/kmon) — Linux Kernel Manager and Activity Monitor ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/actions/workflow/status/orhun/kmon/ci.yml?branch=master\&label=build)
 
 ## [5. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Hash Cracking Tools / Zealandia
 
-*   [GoCrack (⭐1k)](https://github.com/fireeye/gocrack) - Management Web frontend for distributed password cracking sessions using hashcat (or other supported tools) written in Go.
+*   [GoCrack (⭐1.1k)](https://github.com/fireeye/gocrack) - Management Web frontend for distributed password cracking sessions using hashcat (or other supported tools) written in Go.
 
-## [6. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
-
-### Stalled Development
-
-*   [**mini.css**](https://minicss.org) - Minimal, responsive, style-agnostic CSS framework.\
-    ![](https://img.shields.io/github/stars/Chalarangelo/mini.css.svg?style=social\&label=Star)
-    [Docs](https://minicss.org/docs),
-    [Repo (⭐2.9k)](https://github.com/Chalarangelo/mini.css)
-    \| #SCSS
-
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### BaaS
 
-*   [LeanCloud](https://leancloud.app/) — Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, 10K pushes/day are free. (API is very similar to Parse Platform)
+*   [LeanCloud](https://leancloud.app/) — Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, and 10K pushes/day are free. (API is very similar to Parse Platform)
 
-## [8. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
+## [7. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
 ### Database
 
@@ -109,25 +99,25 @@
 
 *   [Open-Show-Apps (⭐100)](https://github.com/JuanmaMenendez/AutoHotkey-script-Open-Show-Apps) - Open, restore or minimize the desired Window's or Chrome's Apps. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=63579\&p=272220#p272220)
 
-## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [8. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Security
 
 *   [Vault](https://github.com/passlock/Vault) - Safe place for your encryption keys.
 
-## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / CloudFormation
 
 *   [cfncluster :fire::fire::fire: (⭐761)](https://github.com/awslabs/cfncluster) - Framework that deploys and maintains HPC clusters.
 
-## [11. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+## [10. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### WSL Tools / WSL Utilities
 
-*   [pinentry-wsl-ps1 (⭐83)](https://github.com/diablodale/pinentry-wsl-ps1) - Store passwords for gpg-agent in Windows Credential Manager ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [pinentry-wsl-ps1 (⭐87)](https://github.com/diablodale/pinentry-wsl-ps1) - Store passwords for gpg-agent in Windows Credential Manager ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
-## [12. Awesome R](/content/qinwf/awesome-R/README.md)
+## [11. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Database Management
 

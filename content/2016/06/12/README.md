@@ -10,7 +10,7 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [optparse (⭐144)](https://github.com/nk412/optparse) - A BASH wrapper for getopts, for simple command line arguments.
+*   [optparse (⭐146)](https://github.com/nk412/optparse) - A BASH wrapper for getopts, for simple command line arguments.
 *   [shellfire (⭐1.2k)](https://github.com/shellfire-dev/shellfire) -  A repository of namespaced, composable shell (bash, sh and dash) function libraries
 
 ## [2. Awesome Ava](/content/avajs/awesome-ava/README.md)
@@ -23,13 +23,13 @@
 
 ### Web Apps (open source)
 
-*   [Transitive.js (⭐658)](https://github.com/conveyal/transitive.js) - Creates a customizable web map layer of transit routes using Leaflet or D3.
+*   [Transitive.js (⭐664)](https://github.com/conveyal/transitive.js) - Creates a customizable web map layer of transit routes using Leaflet or D3.
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UI / Barcode
 
-*   [LeeGo (⭐968)](https://github.com/wangshengjia/LeeGo) - Declarative, configurable & highly reusable UI development as making Lego bricks.
+*   [LeeGo (⭐967)](https://github.com/wangshengjia/LeeGo) - Declarative, configurable & highly reusable UI development as making Lego bricks.
 
 ### Walkthrough / Barcode
 
@@ -61,7 +61,7 @@
 
 ### Artificial Intelligence
 
-*   [Recast/Detour (⭐5.5k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
+*   [Recast/Detour (⭐5.8k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
 
 ---
 

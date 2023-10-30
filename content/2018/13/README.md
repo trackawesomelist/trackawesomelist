@@ -128,7 +128,7 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 ### Reading and Writing Tools / Ebooks
 
 *   [Calibre](http://calibre-ebook.com/) - Free and open-source e-book computer software application suite which runs on multiple platforms, allows users to manage e-book collections as well as create, edit, and read e-books. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/kovidgoyal/calibre)
-*   [iChm (⭐96)](https://github.com/NSGod/ichm) - Ebook reader for CHM (Microsoft Compiled HTML help) files. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/NSGod/ichm) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [iChm (⭐101)](https://github.com/NSGod/ichm) - Ebook reader for CHM (Microsoft Compiled HTML help) files. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/NSGod/ichm) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Klib](http://klib.me/) - New way to manage highlights for Kindle and iBooks. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/id1196268448?mt=12\&at=1000lv4R\&ct=klib_me)
 *   [Scribus](https://www.scribus.net/) - Professional layout and publishing software supporting EPS and SVG import/export, and PDF support.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://sourceforge.net/projects/scribus/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Sigil](https://sigil-ebook.com/) - Multi-platform EPUB ebook Editor. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Sigil-Ebook/Sigil)
@@ -153,8 +153,8 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 
 *   [CodeKit](https://codekitapp.com/) - Web development tool which can automatically compile Less, Sass, CoffeeScript, TypeScript, Jade and JavaScript, auto-refresh browsers and much more.
 *   [DiffMerge](http://sourcegear.com/diffmerge/) - Application to visually compare and merge files. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [EnvPane (⭐622)](https://github.com/hschmidt/EnvPane) - OS X preference pane for environment variables. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/hschmidt/EnvPane)
-*   [FinderGo (⭐1k)](https://github.com/onmyway133/FinderGo) - Open terminal quickly from Finder. [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/onmyway133/FinderGo)
+*   [EnvPane (⭐657)](https://github.com/hschmidt/EnvPane) - OS X preference pane for environment variables. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/hschmidt/EnvPane)
+*   [FinderGo (⭐1.1k)](https://github.com/onmyway133/FinderGo) - Open terminal quickly from Finder. [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/onmyway133/FinderGo)
 *   [Finicky](https://johnste.github.io/finicky/) - Application that allows you to set up rules that decide which browser is opened for every link that would open the default browser. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/johnste/finicky) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Gemini](https://macpaw.com/gemini) - Intelligent duplicate file finder.
 *   [Hosts.prefpane (⭐1.6k)](https://github.com/specialunderwear/Hosts.prefpane) - System preference pane to manage your hosts file. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/specialunderwear/Hosts.prefpane)
@@ -169,7 +169,7 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 *   [Swiftify](https://objectivec2swift.com/#/xcode-extension/) - Objective-C to Swift code converter and Xcode & Finder extensions.
 *   [SwitchHosts](https://oldj.github.io/SwitchHosts/) - Free and open-source app for hosts management & switching. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/oldj/SwitchHosts) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [TeXstudio](http://www.texstudio.org) - Integrated writing environment for creating LaTeX documents. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://sourceforge.net/projects/texstudio/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [WWDC (⭐8.3k)](https://github.com/insidegui/WWDC) - The Mac OS unofficial WWDC app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/insidegui/WWDC)
+*   [WWDC (⭐8.5k)](https://github.com/insidegui/WWDC) - The Mac OS unofficial WWDC app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/insidegui/WWDC)
 
 ### Developer Tools / Regular Expression Editors
 
@@ -191,17 +191,17 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 *   [asciinema (⭐12k)](https://github.com/asciinema/asciinema) - Easily record terminal sessions and replay them in a terminal as well as in a web browser. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/asciinema/asciinema) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [bash-it (⭐14k)](https://github.com/Bash-it/bash-it) - Shameless ripoff of oh-my-zsh for bash. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [cmus](https://cmus.github.io/) - Small, fast and powerful console music player for Unix-like operating systems. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cmus) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Glances (⭐23k)](https://github.com/nicolargo/glances) - Glances is a cross-platform curses-based system monitoring tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/nicolargo/glances)
+*   [Glances (⭐24k)](https://github.com/nicolargo/glances) - Glances is a cross-platform curses-based system monitoring tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/nicolargo/glances)
 *   [htop (⭐5.8k)](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/hishamhm/htop)
 *   [lnav](http://lnav.org) - A log file navigator. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tstack/lnav) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [mas (⭐9.8k)](https://github.com/mas-cli/mas) - Simple command line interface for the Mac App Store. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mas-cli/mas) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [mas (⭐10k)](https://github.com/mas-cli/mas) - Simple command line interface for the Mac App Store. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mas-cli/mas) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [ndm](https://720kb.github.io/ndm/) - Manage [npm](http://npmjs.org/) straight from the couch. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/720kb/ndm) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [shallow-backup (⭐1k)](https://github.com/alichtman/shallow-backup) - Easily create text documentation of installed applications, dotfiles, and more. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [shallow-backup (⭐1.1k)](https://github.com/alichtman/shallow-backup) - Easily create text documentation of installed applications, dotfiles, and more. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Frameworks For Hybrid Applications
 
 *   [AppJS](http://appjs.com/) - Lightweight JavaScript UI library for creating mobile webapps that behave like native apps. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/appjs/appjs)
-*   [create-dmg (⭐4k)](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sindresorhus/create-dmg) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [create-dmg (⭐4.1k)](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sindresorhus/create-dmg) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Electrino (⭐4.3k)](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/pojala/electrino) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [ionic](http://ionicframework.com/) - Build amazing native and progressive web apps with Angular and open web technologies. One app running on everything. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/driftyco/ionic) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [MacGap](http://macgapproject.github.io/) - Provides a lightweight JavaScript API for OS X integration, such as displaying native notifications or writing data to a file. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/MacGapProject) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -248,16 +248,15 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 
 ### Utilities / Quality of Life Improvements
 
-*   [KeyCastr (⭐10k)](https://github.com/keycastr/keycastr) - Open-source keystroke visualizer.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/keycastr/keycastr) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [KeyCastr (⭐11k)](https://github.com/keycastr/keycastr) - Open-source keystroke visualizer.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/keycastr/keycastr) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [f.lux](https://justgetflux.com/) - Makes the color of your computer's display adapt to the time of day. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Other Tools
 
-*   [APNGb (⭐277)](https://github.com/mancunianetz/APNGb) - PNG image assembler/disassembler app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mancunianetz/APNGb) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [APNGb (⭐293)](https://github.com/mancunianetz/APNGb) - PNG image assembler/disassembler app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mancunianetz/APNGb) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Couleurs](http://couleursapp.com) - Simple app for grabbing and tweaking the colors you see on your screen. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Frank DeLoupe](http://jumpzero.com/frank/) - Color-picking tool, supports Retina.
 *   [Resize Master](http://www.boltnev.com/resizemaster/) - Batch resize and watermark your images fast and easy.  [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/resize-master/id1025306797)
-*   [TinyPNG4Mac (⭐3.3k)](https://github.com/kyleduo/TinyPNG4Mac) - Open-source tool to compress images. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/kyleduo/TinyPNG4Mac)
+*   [TinyPNG4Mac (⭐3.4k)](https://github.com/kyleduo/TinyPNG4Mac) - Open-source tool to compress images. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/kyleduo/TinyPNG4Mac)
 *   [Tropy](https://tropy.org/) - Research Photo Management. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tropy/tropy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Communication / Collaboration and Team Tools
@@ -326,20 +325,20 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 
 ### Security Tools / File Sharing
 
-*   [BlockBlock](https://objective-see.com/products/blockblock.html) - Me: "Please alert me whenever anything is persistently installed." BlockBlock: "You got it"
-*   [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - Simple utility that will scan your computer for applications that are either susceptible to dylib hijacking or have been hijacked.
-*   [KextViewer](https://objective-see.com/products/kextviewr.html) - View all modules on that are loaded in the OS kernel.
-*   [KnockKnock](https://objective-see.com/products/knockknock.html) - See what's persistently installed on your Mac.
+*   [BlockBlock](https://objective-see.com/products/blockblock.html) - Me: "Please alert me whenever anything is persistently installed." BlockBlock: "You got it" [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/objective-see/BlockBlock)
+*   [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - Simple utility that will scan your computer for applications that are either susceptible to dylib hijacking or have been hijacked. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/objective-see/DylibHijackScanner)
+*   [KextViewer](https://objective-see.com/products/kextviewr.html) - View all modules on that are loaded in the OS kernel. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/objective-see/KextViewr)
+*   [KnockKnock](https://objective-see.com/products/knockknock.html) - See what's persistently installed on your Mac. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/objective-see/KnockKnock)
 *   [LockDown](https://objective-see.com/products/lockdown.html) - Open-source tool for El Capitan that audits and remediates security configuration settings. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://bitbucket.org/objective-see/lockdown) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [MalwareBytes](https://www.malwarebytes.com/mac-download/) - Malwarebytes crushes the growing threat of Mac malware, so you are protected and your machine keeps running silky smooth. Cybersecurity smart enough for the Mac. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [OverSight](https://objective-see.com/products/oversight.html) - Monitor mic and webcam, alerting you when the internal mic is activated, or whenever a process accesses the webcam.
-*   [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - Generic Ransomware Detection.
-*   [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - Explore all processes running on your Mac with TaskExplorer.
-*   [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) - Adds menu item to Finder.app to display the cryptographic signing information for any file.
+*   [OverSight](https://objective-see.com/products/oversight.html) - Monitor mic and webcam, alerting you when the internal mic is activated, or whenever a process accesses the webcam. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/objective-see/OverSight)
+*   [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - Generic Ransomware Detection. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/objective-see/RansomWhere)
+*   [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - Explore all processes running on your Mac with TaskExplorer. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/objective-see/TaskExplorer)
+*   [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) - Adds menu item to Finder.app to display the cryptographic signing information for any file.[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/objective-see/WhatsYourSign)
 
 ### Proxy and VPN Tools / File Sharing
 
-*   [Algo (⭐27k)](https://github.com/trailofbits/algo) - Personal IPSEC VPN in the cloud. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/trailofbits/algo)
+*   [Algo (⭐28k)](https://github.com/trailofbits/algo) - Personal IPSEC VPN in the cloud. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/trailofbits/algo)
 *   [Surge](https://nssurge.com/) - Web developer tool and proxy utility for iOS 9.
 
 ### Utilities / Clipboard Tools
@@ -358,13 +357,13 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 
 *   [Hazel](https://www.noodlesoft.com) - Automated file organization for your Mac. Responsibly and beautifully designed.
 *   [muCommander](http://www.mucommander.com) - Lightweight file manager with a dual-pane interface. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mucommander/mucommander) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [PDF Archiver (⭐257)](https://github.com/JulianKahnert/PDF-Archiver) - Nice tool for tagging and archiving tasks. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/JulianKahnert/PDF-Archiver) [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/pdf-archivar/id1352719750)
+*   [PDF Archiver (⭐274)](https://github.com/JulianKahnert/PDF-Archiver) - Nice tool for tagging and archiving tasks. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/JulianKahnert/PDF-Archiver) [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/pdf-archivar/id1352719750)
 *   [The Unarchiver](https://theunarchiver.com/) - Unarchive many different kinds of archive files. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/the-unarchiver/id425424353)
 
 ### Utilities / General Tools
 
 *   [AirServer](http://www.airserver.com/Download) - Most advanced screen mirroring software receiver for Mac, PC and Xbox One.
-*   [DNS Heaven (⭐246)](https://github.com/greenboxal/dns-heaven) - Unifies macOS DNS so applications using glibc can resolve DNS with the native stack. Mainly for use with VPNs. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/greenboxal/dns-heaven) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [DNS Heaven (⭐251)](https://github.com/greenboxal/dns-heaven) - Unifies macOS DNS so applications using glibc can resolve DNS with the native stack. Mainly for use with VPNs. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/greenboxal/dns-heaven) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [HTTrack](http://www.httrack.com) - Useful tool for downloading a whole website and offline browsing. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Memo](http://memo-app.net/) - Simple and elegant app. Unlock memos even more quickly using Touch ID. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/id1212409035)
 *   [Numi](http://numi.io/) - Beautiful calculator app for Mac. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -405,7 +404,7 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 
 *   [DaisyDisk](https://daisydiskapp.com/) - Gives a great overview of disk usage. Can also make more disk-space available by cleaning up your disk.
 *   [HandShaker](http://www.smartisan.com/apps/handshaker) -  Mac on the management of Android mobile phone content. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [iStats (⭐2.3k)](https://github.com/Chris911/iStats) - Command-line tool that allows you to easily grab the CPU temperature, fan speeds and battery information on OSX. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Chris911/iStats)
+*   [iStats (⭐2.4k)](https://github.com/Chris911/iStats) - Command-line tool that allows you to easily grab the CPU temperature, fan speeds and battery information on OSX. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Chris911/iStats)
 *   [Mounty](http://enjoygineering.com/mounty/) - Tiny tool to re-mount write-protected NTFS volumes under Mac OS X 10.9+ in read-write mode. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [NitroShare](https://nitroshare.net/) - Cross-platform network file transfer utility. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nitroshare/nitroshare-desktop) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - Read/write access to NTFS in macOS Sierra.
@@ -436,34 +435,34 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 
 ### Frameworks, Libraries and Tools / Compilers, Transpilers and Languages
 
-*   [Pidgin (⭐643)](https://github.com/benjamin-hodgson/Pidgin) - A lightweight, fast and flexible parsing library for C#, developed at Stack Overflow.
+*   [Pidgin (⭐751)](https://github.com/benjamin-hodgson/Pidgin) - A lightweight, fast and flexible parsing library for C#, developed at Stack Overflow.
 
 ### Frameworks, Libraries and Tools / Functional Programming
 
-*   [DynamicData (⭐1.4k)](https://github.com/RolandPheasant/DynamicData) - Reactive collections based on Rx.NET.
+*   [DynamicData (⭐1.6k)](https://github.com/RolandPheasant/DynamicData) - Reactive collections based on Rx.NET.
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [FastExpressionCompiler (⭐885)](https://github.com/dadhi/FastExpressionCompiler) - Fast ExpressionTree compiler to delegate.
+*   [FastExpressionCompiler (⭐1k)](https://github.com/dadhi/FastExpressionCompiler) - Fast ExpressionTree compiler to delegate.
 
 ### Frameworks, Libraries and Tools / Profiling
 
-*   [Glimpse (⭐184)](https://github.com/Glimpse/Glimpse.Prototype) - Lightweight, open-source, real-time diagnostics and insights profiler for .NET. `Unstable version`
+*   [Glimpse (⭐183)](https://github.com/Glimpse/Glimpse.Prototype) - Lightweight, open-source, real-time diagnostics and insights profiler for .NET. `Unstable version`
 
 ### Frameworks, Libraries and Tools / Template Engine
 
-*   [dotliquid (⭐936)](https://github.com/dotliquid/dotliquid) - .NET Port of Tobias Lütke's Liquid template language.
-*   [fluid (⭐913)](https://github.com/sebastienros/fluid) - Open-source .NET template engine that is as close as possible to the Liquid template language.
+*   [dotliquid (⭐994)](https://github.com/dotliquid/dotliquid) - .NET Port of Tobias Lütke's Liquid template language.
+*   [fluid (⭐1.2k)](https://github.com/sebastienros/fluid) - Open-source .NET template engine that is as close as possible to the Liquid template language.
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [SharpLab (⭐2k)](https://github.com/ashmind/SharpLab) - .NET code playground that shows intermediate steps and results of code compilation. <https://sharplab.io>
+*   [SharpLab (⭐2.4k)](https://github.com/ashmind/SharpLab) - .NET code playground that shows intermediate steps and results of code compilation. <https://sharplab.io>
 
 ## [12. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shell Script Development / See also
 
-*   [awesome-cli-apps (⭐11k)](https://github.com/agarrharr/awesome-cli-apps)
+*   [awesome-cli-apps (⭐12k)](https://github.com/agarrharr/awesome-cli-apps)
 
 ## [13. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
@@ -481,7 +480,7 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 
 ### Network / Honey Pot / Honey Net
 
-*   [T-Pot Honeypot Distro](http://dtag-dev-sec.github.io/mediator/feature/2017/11/07/t-pot-17.10.html) - T-Pot is based on the network installer of Ubuntu Server 16/17.x LTS. The honeypot daemons as well as other support components being used have been containerized using docker. This allows us to run multiple honeypot daemons on the same network interface while maintaining a small footprint and constrain each honeypot within its own environment. Installation over vanilla Ubuntu - [T-Pot Autoinstall (⭐130)](https://github.com/dtag-dev-sec/t-pot-autoinstall) - This script will install T-Pot 16.04/17.10 on a fresh Ubuntu 16.04.x LTS (64bit). It is intended to be used on hosted servers, where an Ubuntu base image is given and there is no ability to install custom ISO images. Successfully tested on vanilla Ubuntu 16.04.3 in VMware.
+*   [T-Pot Honeypot Distro](http://dtag-dev-sec.github.io/mediator/feature/2017/11/07/t-pot-17.10.html) - T-Pot is based on the network installer of Ubuntu Server 16/17.x LTS. The honeypot daemons as well as other support components being used have been containerized using docker. This allows us to run multiple honeypot daemons on the same network interface while maintaining a small footprint and constrain each honeypot within its own environment. Installation over vanilla Ubuntu - [T-Pot Autoinstall](https://github.com/dtag-dev-sec/t-pot-autoinstall) - This script will install T-Pot 16.04/17.10 on a fresh Ubuntu 16.04.x LTS (64bit). It is intended to be used on hosted servers, where an Ubuntu base image is given and there is no ability to install custom ISO images. Successfully tested on vanilla Ubuntu 16.04.3 in VMware.
 
 ## [16. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
@@ -494,7 +493,7 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 ### Graphics / TikZ
 
 *   [A very minimal introduction to TikZ (PDF)](https://cremeronline.com/LaTeX/minimaltikz.pdf) - Short introductory document to the world of TikZ, written by Jacques Crémer.
-*   [PetarV-/TikZ (⭐976)](https://github.com/PetarV-/TikZ) - Collection of publication-ready PGF/TikZ figures by Petar Veličković.
+*   [PetarV-/TikZ (⭐1k)](https://github.com/PetarV-/TikZ) - Collection of publication-ready PGF/TikZ figures by Petar Veličković.
 
 ### Resources / TikZ
 
@@ -514,7 +513,7 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 
 ### Tools / Market Crawlers
 
-*   [Apkpure](https://apkpure.com/) - Online apk downloader. Provides also an own app for downloading.
+*   [Apkpure](https://apkpure.com/) - Online apk downloader. Provides also its own app for downloading.
 
 ## [19. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
 
@@ -553,7 +552,7 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 
 ### Modules / Stream
 
-*   [syncthrough (⭐77)](https://github.com/mcollina/syncthrough) - Transform your data as it pass by, synchronously.
+*   [syncthrough (⭐76)](https://github.com/mcollina/syncthrough) - Transform your data as it pass by, synchronously.
 
 ## [24. Awesome Sdn](/content/sdnds-tw/awesome-sdn/week/README.md)
 
@@ -617,7 +616,7 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 
 ### Apps / Misc
 
-*   [Joyous (⭐70)](https://github.com/linuxsoftware/ls.joyous) - A calendar application for Wagtail.
+*   [Joyous (⭐71)](https://github.com/linuxsoftware/ls.joyous) - A calendar application for Wagtail.
 
 ## [32. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
@@ -662,7 +661,7 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 
 ### Related lists / Particles
 
-*   [glTF (⭐5.9k)](https://github.com/KhronosGroup/glTF) - Runtime 3D Asset Delivery designed for the web.
+*   [glTF (⭐6.6k)](https://github.com/KhronosGroup/glTF) - Runtime 3D Asset Delivery designed for the web.
 
 ## [36. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
@@ -678,7 +677,7 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [fecon235 (⭐913)](https://github.com/rsvp/fecon235) - Open source project for software tools in financial economics. Many jupyter notebook to verify theoretical ideas and practical methods interactively.
+*   [fecon235 (⭐1k)](https://github.com/rsvp/fecon235) - Open source project for software tools in financial economics. Many jupyter notebook to verify theoretical ideas and practical methods interactively.
 
 ## [38. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -717,12 +716,12 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 
 ### Date and Time
 
-*   [dateutil (⭐2k)](https://github.com/dateutil/dateutil) - Extensions to the standard Python [datetime](https://docs.python.org/3/library/datetime.html) module.
+*   [dateutil (⭐2.1k)](https://github.com/dateutil/dateutil) - Extensions to the standard Python [datetime](https://docs.python.org/3/library/datetime.html) module.
 
 ### File
 
 *   [mimetypes](https://docs.python.org/3/library/mimetypes.html) - (Python standard library) Map filenames to MIME types.
-*   [path.py (⭐1k)](https://github.com/jaraco/path.py) - A module wrapper for [os.path](https://docs.python.org/3/library/os.path.html).
+*   [path.py (⭐1.1k)](https://github.com/jaraco/path.py) - A module wrapper for [os.path](https://docs.python.org/3/library/os.path.html).
 
 ### Foreign Function Interface
 
@@ -735,10 +734,10 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 ### Testing
 
 *   Testing Frameworks
-    *   [hypothesis (⭐6.6k)](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is an advanced Quickcheck style property based testing library.
-    *   [nose2 (⭐743)](https://github.com/nose-devs/nose2) - The successor to `nose`, based on \`unittest2.
+    *   [hypothesis (⭐6.8k)](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is an advanced Quickcheck style property based testing library.
+    *   [nose2 (⭐757)](https://github.com/nose-devs/nose2) - The successor to `nose`, based on \`unittest2.
     *   [pytest](https://docs.pytest.org/en/latest/) - A mature full-featured Python testing tool.
-    *   [Robot Framework (⭐7.9k)](https://github.com/robotframework/robotframework) - A generic test automation framework.
+    *   [Robot Framework (⭐8.2k)](https://github.com/robotframework/robotframework) - A generic test automation framework.
     *   [unittest](https://docs.python.org/3/library/unittest.html) - (Python standard library) Unit testing framework.
 
 ## [43. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
@@ -958,11 +957,11 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 
 ### Components & Libraries / UI Components
 
-*   [vue-airbnb-style-datepicker (⭐506)](https://github.com/MikaelEdebro/vue-airbnb-style-datepicker) - A Vue datepicker with a similar look and functionality as the popular AirBnb datepicker. Lightweight, configurable and good browser support!
+*   [vue-airbnb-style-datepicker (⭐504)](https://github.com/MikaelEdebro/vue-airbnb-style-datepicker) - A Vue datepicker with a similar look and functionality as the popular AirBnb datepicker. Lightweight, configurable and good browser support!
 
 ### Components & Libraries / Utilities
 
-*   [vue-lodash (⭐104)](https://github.com/Ewocker/vue-lodash) - A simple wrapper for integrating lodash to Vue 2.
+*   [vue-lodash (⭐105)](https://github.com/Ewocker/vue-lodash) - A simple wrapper for integrating lodash to Vue 2.
 
 ---
 

@@ -14,7 +14,7 @@
 
 ### Libraries and Frameworks / PHP
 
-*   [Broadway (⭐1.4k)](https://github.com/broadway/broadway) - Broadway is a (PHP) project providing infrastructure and testing helpers for creating CQRS and event sourced applications.
+*   [Broadway (⭐1.5k)](https://github.com/broadway/broadway) - Broadway is a (PHP) project providing infrastructure and testing helpers for creating CQRS and event sourced applications.
 
 ### Libraries and Frameworks / Ruby
 
@@ -42,7 +42,7 @@
 
 ### GTFS Converters / Ruby
 
-*   [GTFS-OSM-Sync (⭐86)](https://github.com/CUTR-at-USF/gtfs-osm-sync) - A Java tool for synchronizing data in GTFS format with [OpenStreetMap.org](http://www.openstreetmap.org/).
+*   [GTFS-OSM-Sync (⭐87)](https://github.com/CUTR-at-USF/gtfs-osm-sync) - A Java tool for synchronizing data in GTFS format with [OpenStreetMap.org](http://www.openstreetmap.org/).
 
 ## [6. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Applications
 
-*   [uai\_shot (⭐55)](https://github.com/sergioaugrod/uai_shot) - A multiplayer ship game built with Elixir, Phoenix Framework and Phaser.
+*   [uai\_shot (⭐57)](https://github.com/sergioaugrod/uai_shot) - A multiplayer ship game built with Elixir, Phoenix Framework and Phaser.
 
 ### Macros
 
@@ -85,15 +85,15 @@
 
 ### Networking
 
-*   [tunnerl (⭐23)](https://github.com/surik/tunnerl) - SOCKS4 and SOCKS5 proxy server.
+*   [tunnerl (⭐24)](https://github.com/surik/tunnerl) - SOCKS4 and SOCKS5 proxy server.
 
 ### Queue
 
-*   [conduit (⭐125)](https://github.com/conduitframework/conduit) - A framework for working with message queues, with adapters for SQS and AMQP, and plugs for reusable messaging patterns.
+*   [conduit (⭐127)](https://github.com/conduitframework/conduit) - A framework for working with message queues, with adapters for SQS and AMQP, and plugs for reusable messaging patterns.
 
 ### Testing
 
-*   [test\_selector (⭐12)](https://github.com/DefactoSoftware/test_selector) - A set of test helpers that make sure you always select the right elements in your Phoenix app.
+*   [test\_selector (⭐13)](https://github.com/DefactoSoftware/test_selector) - A set of test helpers that make sure you always select the right elements in your Phoenix app.
 
 ### Books
 
@@ -103,7 +103,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [discord-logo (⭐59)](https://github.com/NNTin/discord-logo) - A Vue.js animated discord logo generator based on SVGs. ([Github Page](https://nntin.github.io/discord-logo/))
+*   [discord-logo (⭐60)](https://github.com/NNTin/discord-logo) - A Vue.js animated discord logo generator based on SVGs. ([Github Page](https://nntin.github.io/discord-logo/))
 
 ## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -115,7 +115,7 @@
 
 ### Mail
 
-*   [StrongGrid (⭐163)](https://github.com/Jericho/StrongGrid) - Client for SendGrid's v3 API. Not only allows you to send emails, but also allows you to bulk import contacts, manage lists and segments, create custom fields for your lists, etc. Also includes a parser for SendGrid Webhooks.
+*   [StrongGrid (⭐165)](https://github.com/Jericho/StrongGrid) - Client for SendGrid's v3 API. Not only allows you to send emails, but also allows you to bulk import contacts, manage lists and segments, create custom fields for your lists, etc. Also includes a parser for SendGrid Webhooks.
 
 ---
 

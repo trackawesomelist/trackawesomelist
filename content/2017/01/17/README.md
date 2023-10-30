@@ -10,17 +10,17 @@
 
 ### Packages / Logging
 
-*   [pino (⭐11k)](https://github.com/pinojs/pino) - Extremely fast logger inspired by Bunyan.
+*   [pino (⭐12k)](https://github.com/pinojs/pino) - Extremely fast logger inspired by Bunyan.
 
 ## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Date and Time
 
-*   [timelier (⭐11)](https://github.com/ausimian/timelier) - A cron-style scheduler for Elixir.
+*   [timelier (⭐12)](https://github.com/ausimian/timelier) - A cron-style scheduler for Elixir.
 
 ### Third Party APIs
 
-*   [balalaika\_bear (⭐11)](https://github.com/ayrat555/balalaika_bear) - Simple VK API client for Elixir.
+*   [balalaika\_bear (⭐12)](https://github.com/ayrat555/balalaika_bear) - Simple VK API client for Elixir.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Plugins
 
-*   [tmux-better-mouse-mode (⭐834)](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
+*   [tmux-better-mouse-mode (⭐856)](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
 
 ---
 

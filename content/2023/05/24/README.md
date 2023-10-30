@@ -14,21 +14,17 @@
 
 ## [2. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
-### Are you ready for Build 2023? (May 23-25, 2023).
-
-*   Sessions : [build.microsoft.com](https://build.microsoft.com/en-US/sessions?filter=additionalTrack%2FlogicalValue%3E.NET)
-
 ### Others
 
-*   [Moldinium (⭐1)](https://github.com/jtheisen/moldinium) - ![last commit](https://img.shields.io/github/last-commit/jtheisen/moldinium?style=flat-square\&cacheSeconds=86400) MobX-style dependency tracking in Blazor (proof-of-concept level maturity)
+*   [Moldinium (⭐2)](https://github.com/jtheisen/moldinium) - ![last commit](https://img.shields.io/github/last-commit/jtheisen/moldinium?style=flat-square\&cacheSeconds=86400) MobX-style dependency tracking in Blazor (proof-of-concept level maturity)
 
 ### Component bundles
 
-*   [CodeBeam.MudExtensions (⭐148)](https://github.com/CodeBeamOrg/CodeBeam.MudExtensions) - ![stars](https://img.shields.io/github/stars/CodeBeamOrg/CodeBeam.MudExtensions?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeBeamOrg/CodeBeam.MudExtensions?style=flat-square\&cacheSeconds=86400) Useful third party extension components for MudBlazor, from the contributors. +20 components includes Stepper, SpeedDial, Wheel, Splitter, Animate, Popup, Material 3 Switch, Gallery, CodeInput and more.  [Documentation](https://codebeam-mudextensions.pages.dev/).
+*   [CodeBeam.MudExtensions (⭐264)](https://github.com/CodeBeamOrg/CodeBeam.MudExtensions) - ![stars](https://img.shields.io/github/stars/CodeBeamOrg/CodeBeam.MudExtensions?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeBeamOrg/CodeBeam.MudExtensions?style=flat-square\&cacheSeconds=86400) Useful third party extension components for MudBlazor, from the contributors. +20 components includes Stepper, SpeedDial, Wheel, Splitter, Animate, Popup, Material 3 Switch, Gallery, CodeInput and more.  [Documentation](https://codebeam-mudextensions.pages.dev/).
 
 ### Individual components / Charts
 
-*   [ChartJs for Blazor (⭐41)](https://github.com/erossini/BlazorChartjs) - ![stars](https://img.shields.io/github/stars/erossini/BlazorChartjs?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/erossini/BlazorChartjs?style=flat-square\&cacheSeconds=86400) This is a NuGet package for Blazor to use ChartJs, constantly updated with new features.
+*   [ChartJs for Blazor (⭐55)](https://github.com/erossini/BlazorChartjs) - ![stars](https://img.shields.io/github/stars/erossini/BlazorChartjs?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/erossini/BlazorChartjs?style=flat-square\&cacheSeconds=86400) This is a NuGet package for Blazor to use ChartJs, constantly updated with new features.
 
 ### Individual components / Others
 
@@ -51,23 +47,23 @@
 
 ### Vue / Transformers
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-css-modules (⭐6)](https://github.com/zeokku/vite-plugin-vue-css-modules) - Implicit usage of CSS Modules for template and script SFC tags with static replacement.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-css-modules (⭐8)](https://github.com/zeokku/vite-plugin-vue-css-modules) - Implicit usage of CSS Modules for template and script SFC tags with static replacement.
 
 ### Angular / Integrations
 
-*   [@nxext/angular-vite (⭐0)](https://github.com/nxext/nxext-experimental/tree/main/packages/angular/vite) - A plugin that uses SWC to compile Angular modules.
+*   [@nxext/angular-vite (⭐1)](https://github.com/nxext/nxext-experimental/tree/main/packages/angular/vite) - A plugin that uses SWC to compile Angular modules.
 
 ## [4. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
-### Tools & Scripts / Commercial Enterprise Platforms
+### Tools & Scripts / Development
 
 *   [An Exploration into Wardley Mapping Language Code](https://medium.com/@mcraddock/an-exploration-into-wardley-mapping-language-mode-aa87763a8b17) - Create your own Wardley Mapping code editor in two easy steps.
 
 ## [5. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
-*   [tf-profile (⭐23)](https://github.com/datarootsio/tf-profile/) - Profiler for Terraform runs. Generate global stats, resource-level stats or visualizations.
+*   [tf-profile (⭐130)](https://github.com/datarootsio/tf-profile/) - Profiler for Terraform runs. Generate global stats, resource-level stats or visualizations.
 
 ## [6. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -79,7 +75,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [lockbud (⭐302)](https://github.com/BurtonQin/lockbud) — Statically detects Rust deadlocks bugs. It currently detects two common kinds of deadlock bugs: doublelock and locks in conflicting order. It will print bugs in JSON format together with the source code location and an explanation of each bug.
+*   [lockbud (⭐332)](https://github.com/BurtonQin/lockbud) — Statically detects Rust deadlocks bugs. It currently detects two common kinds of deadlock bugs: doublelock and locks in conflicting order. It will print bugs in JSON format together with the source code location and an explanation of each bug.
 
 ## [8. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

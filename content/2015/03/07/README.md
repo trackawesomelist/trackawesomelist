@@ -17,13 +17,13 @@
 
 ### Coding Style Guides
 
-*   [fast-ruby (⭐5.5k)](https://github.com/JuanitoFatas/fast-ruby) - Writing Fast Ruby. Collect Common Ruby idioms.
+*   [fast-ruby (⭐5.6k)](https://github.com/JuanitoFatas/fast-ruby) - Writing Fast Ruby. Collect Common Ruby idioms.
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Text and Numbers
 
-*   [chinese\_translation (⭐88)](https://github.com/tyrchen/chinese_translation) - Translate between traditional chinese and simplified chinese based on wikipedia data, and translate chinese words/characters to pinyin (or slug with or without tone).
+*   [chinese\_translation (⭐89)](https://github.com/tyrchen/chinese_translation) - Translate between traditional chinese and simplified chinese based on wikipedia data, and translate chinese words/characters to pinyin (or slug with or without tone).
 
 ## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

@@ -33,20 +33,19 @@
 
 ### Tools / Collection View Layout
 
-*   [Rugby (⭐524)](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
+*   [Rugby (⭐569)](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
 
 ## [5. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
-*   [alichtman/shallow-backup (⭐1k)](https://github.com/alichtman/shallow-backup#readme) - Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
-*   [aregtech/areg-sdk (⭐85)](https://github.com/aregtech/areg-sdk#readme) - Description of the project and use cases with explanation graphics. Build with multiple tools and integration instructions, reference to the guidance to create the first project. Examples. Project logo. Multiple badges. Headlines with graphics. TOC for easy navigation.
+*   [alichtman/shallow-backup (⭐1.1k)](https://github.com/alichtman/shallow-backup#readme) - Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
+*   [aregtech/areg-sdk (⭐150)](https://github.com/aregtech/areg-sdk#readme) - Logo. Multiple info and statistics badges. List of contributors and stargazers with pictures. TOC and "Back to top" links for easy navigation. Headlines with graphics. Topic hide/show menu. Project description and philosophy. Clone and integration instructions. Quick build with multiple tools. Tools configuration instructions. Reference to examples and Demo projects. Reference to use cases. References to guidance and Wiki pages. Links with badges to contact. Links with badges to share project in social network.
 
 ## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### UI Libraries, Components & Templates
 
-*   🧩 [Material Tailwind](https://material-tailwind.com/) - Easy to use components library for Tailwind CSS and Material Design.
 *   📁 [Material Tailwind Kit React](https://www.creative-tim.com/product/material-tailwind-kit-react) - Free Tailwind CSS and React UI kit.
 *   📁 [Material Tailwind Dashboard React](https://www.creative-tim.com/product/material-tailwind-dashboard-react) - Free Tailwind CSS and React admin template.
 
@@ -58,13 +57,13 @@
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [ipaddress.sh](https://ipaddress.sh) — Simple service to get public IP address in different [formats](https://about.ipaddress.sh/).
+*   [ipaddress.sh](https://ipaddress.sh) — Simple service to get a public IP address in different [formats](https://about.ipaddress.sh/).
 
 ### Issue Tracking and Project Management
 
-*   [Toggl](https://toggl.com/) — Provides 2 free productivity tools. [Toggl Track](https://toggl.com/track/) for time management and tracking app with a free plan provides seamless time tracking and reporting designed for freelancers in mind. It has unlimited tracking records, projects, clients, tags, reporting and more. And [Toggl Plan](https://toggl.com/plan/) for task planning that comes with a free plan for solo developers with unlimited tasks, milestones and timelines.
+*   [Toggl](https://toggl.com/) — Provides two free productivity tools. [Toggl Track](https://toggl.com/track/) for time management and tracking app with a free plan provides seamless time tracking and reporting designed with freelancers in mind. It has unlimited tracking records, projects, clients, tags, reporting, and more. And [Toggl Plan](https://toggl.com/plan/) for task planning with a free plan for solo developers with unlimited tasks, milestones, and timelines.
 
 ### Analytics, Events and Statistics
 
@@ -74,17 +73,17 @@
 
 ### Applications / System tools
 
-*   [dalance/procs (⭐4k)](https://github.com/dalance/procs) — A modern replacement for 'ps' written by Rust [![Regression](https://github.com/dalance/procs/actions/workflows/regression.yml/badge.svg)](https://github.com/dalance/procs/actions/workflows/regression.yml)
+*   [dalance/procs (⭐4.3k)](https://github.com/dalance/procs) — A modern replacement for 'ps' written by Rust [![Regression](https://github.com/dalance/procs/actions/workflows/regression.yml/badge.svg)](https://github.com/dalance/procs/actions/workflows/regression.yml)
 
 ## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### JavaScript Engines
 
-*   [YantraJS (⭐103)](https://github.com/yantrajs/yantra) - JavaScript Runtime (Similar to NodeJS) for .NET Standard, compiles JavaScript to IL, support for many ES6 features, generators, CommonJS modules, CSX modules and expression compiler.
+*   [YantraJS (⭐131)](https://github.com/yantrajs/yantra) - JavaScript Runtime (Similar to NodeJS) for .NET Standard, compiles JavaScript to IL, support for many ES6 features, generators, CommonJS modules, CSX modules and expression compiler.
 
 ### Misc
 
-*   [Build Versioning (⭐47)](https://github.com/TurnerSoftware/BuildVersioning) - Simple build versioning for .NET, powered by Git tags
+*   [Build Versioning (⭐52)](https://github.com/TurnerSoftware/BuildVersioning) - Simple build versioning for .NET, powered by Git tags
 
 ## [11. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

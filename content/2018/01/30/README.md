@@ -20,13 +20,13 @@
 
 ### Development Tools
 
-*   [QCL](http://tph.tuwien.ac.at/\~oemer/qcl.html) - Older, C like language for quantum computers. Only has a simulator and debugger.
+*   [QCL](http://tph.tuwien.ac.at/~oemer/qcl.html) - Older, C like language for quantum computers. Only has a simulator and debugger.
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Games
 
-*   [Lila](https://lichess.org/) - The forever free, adless and open source chess server powering lichess.org, with official iOS and Android client apps. ([Source Code (⭐13k)](https://github.com/ornicar/lila)) `AGPL-3.0` `Scala`
+*   [Lila](https://lichess.org/) - The forever free, adless and open source chess server powering lichess.org, with official iOS and Android client apps. ([Source Code (⭐14k)](https://github.com/lichess-org/lila)) `AGPL-3.0` `Scala`
 
 ## [3. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Cryptography
 
-*   [digestpp (⭐166)](https://github.com/kerukuro/digestpp) - C++11 header-only message digest (hash) library. \[PublicDomain]
+*   [digestpp (⭐177)](https://github.com/kerukuro/digestpp) - C++11 header-only message digest (hash) library. \[PublicDomain]
 
 ## [5. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 

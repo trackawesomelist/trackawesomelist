@@ -78,7 +78,7 @@
 
 ### Search
 
-*   [chewy (⭐1.8k)](https://github.com/toptal/chewy) - High-level Elasticsearch Ruby framework based on the official elasticsearch-ruby client.
+*   [chewy (⭐1.9k)](https://github.com/toptal/chewy) - High-level Elasticsearch Ruby framework based on the official elasticsearch-ruby client.
 
 ## [5. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
@@ -114,17 +114,17 @@
 
 ### Examples and funny stuff
 
-*   [koans (⭐246)](https://github.com/dojo-toulouse/elixir-koans) - Learn Elixir by using elixir-koans.
+*   [koans (⭐248)](https://github.com/dojo-toulouse/elixir-koans) - Learn Elixir by using elixir-koans.
 *   [rollex](https://gitlab.com/olhado/rollex) - Elixir library using a Pratt Parser algorithm to calculate dice rolls.
 
 ### Framework Components
 
-*   [plug\_response\_header (⭐11)](https://github.com/c-rack/plug_response_header) - easy manipulation of HTTP response headers.
+*   [plug\_response\_header (⭐12)](https://github.com/c-rack/plug_response_header) - easy manipulation of HTTP response headers.
 
 ### Validations
 
-*   [uk\_postcode (⭐9)](https://github.com/KushalP/uk_postcode) - UK postcode parsing and validation library.
-*   [vex (⭐564)](https://github.com/CargoSense/vex) - An extensible data validation library for Elixir.
+*   [uk\_postcode (⭐10)](https://github.com/KushalP/uk_postcode) - UK postcode parsing and validation library.
+*   [vex (⭐577)](https://github.com/CargoSense/vex) - An extensible data validation library for Elixir.
 
 ## [9. Awesome Gametalks](/content/hzoo/awesome-gametalks/week/README.md)
 

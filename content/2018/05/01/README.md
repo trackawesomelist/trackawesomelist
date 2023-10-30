@@ -27,7 +27,7 @@
 
 ### Rust / General-Purpose Machine Learning
 
-*   [RusticSOM (⭐28)](https://github.com/avinashshenoy97/RusticSOM) - A Rust library for Self Organising Maps (SOM).
+*   [RusticSOM (⭐30)](https://github.com/avinashshenoy97/RusticSOM) - A Rust library for Self Organising Maps (SOM).
 
 ## [4. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Tutorials
 
-*   [Understanding the basics of Linux Binary Exploitation (⭐1.1k)](https://github.com/r0hi7/BinExp)
+*   [Understanding the basics of Linux Binary Exploitation (⭐1.2k)](https://github.com/r0hi7/BinExp)
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -49,22 +49,22 @@
 
 ### Applications / System tools
 
-*   [mmstick/concurr (⭐94)](https://github.com/mmstick/concurr) — Alternative to GNU Parallel w/ a client-server architecture
-*   [mmstick/fontfinder (⭐258)](https://github.com/mmstick/fontfinder) — GTK3 application for previewing and installing Google's fonts
+*   [mmstick/concurr (⭐98)](https://github.com/mmstick/concurr) — Alternative to GNU Parallel w/ a client-server architecture
+*   [mmstick/fontfinder (⭐266)](https://github.com/mmstick/fontfinder) — GTK3 application for previewing and installing Google's fonts
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Graphics
 
-*   [libigl (⭐4k)](https://github.com/libigl/libigl) - Simple C++ geometry processing library. \[MPL2]
-*   [NanoVG (⭐4.7k)](https://github.com/memononen/nanovg) - Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations. \[Zlib]
+*   [libigl (⭐4.2k)](https://github.com/libigl/libigl) - Simple C++ geometry processing library. \[MPL2]
+*   [NanoVG (⭐4.8k)](https://github.com/memononen/nanovg) - Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations. \[Zlib]
 
 ## [8. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 
 ### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
-*   [简体中文 (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
-*   [正體中文 (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-TW)
+*   [简体中文 (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
+*   [正體中文 (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-TW)
 
 ---
 

@@ -17,11 +17,11 @@
 
 ### Libraries
 
-*   [zen-signals (⭐46)](https://github.com/joaomilho/zen-signals) – ☯ The simplest signal library possible
+*   [zen-signals (⭐51)](https://github.com/joaomilho/zen-signals) – ☯ The simplest signal library possible
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
-*   [ion (⭐77)](https://github.com/ion-lang/ion) - no BS JS
+*   [ion (⭐78)](https://github.com/ion-lang/ion) - no BS JS
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -35,25 +35,25 @@
 
 *   [Official Boilerplate (⭐975)](https://github.com/developit/preact-boilerplate) - Ready-to-rock Preact starter project, powered by Webpack.
 *   [Preact Simple Starter (⭐65)](https://github.com/ooade/PreactSimpleStarter) - PWA Simple Starter with Preact, Preact-mdl and Webpack2.
-*   [Preact PWA (⭐506)](https://github.com/ezekielchentnik/preact-pwa) - PWA focused on raw performance, server side rendering, prerendering, redux, express, rollup.
+*   [Preact PWA (⭐509)](https://github.com/ezekielchentnik/preact-pwa) - PWA focused on raw performance, server side rendering, prerendering, redux, express, rollup.
 
 ### Contents / Routing
 
-*   [Preact Router (⭐953)](https://github.com/developit/preact-router) - URL router for Preact.
+*   [Preact Router (⭐969)](https://github.com/developit/preact-router) - URL router for Preact.
 
 ### Contents / Components
 
-*   [Preact Token Input (⭐58)](https://github.com/developit/preact-token-input) - Text field that tokenizes input, for things like tags.
-*   [Preact Virtual List (⭐215)](https://github.com/developit/preact-virtual-list) - Easily render lists with millions of rows ([demo](https://jsfiddle.net/developit/qqan9pdo/)).
+*   [Preact Token Input (⭐60)](https://github.com/developit/preact-token-input) - Text field that tokenizes input, for things like tags.
+*   [Preact Virtual List (⭐216)](https://github.com/developit/preact-virtual-list) - Easily render lists with millions of rows ([demo](https://jsfiddle.net/developit/qqan9pdo/)).
 *   [Preact Layout](https://download.github.io/preact-layout/) - Small and simple layout library.
-*   [Preact Socrates (⭐16)](https://github.com/matthewmueller/preact-socrates) - Preact plugin for [Socrates (⭐578)](http://github.com/matthewmueller/socrates).
+*   [Preact Socrates (⭐16)](https://github.com/matthewmueller/preact-socrates) - Preact plugin for [Socrates (⭐580)](http://github.com/matthewmueller/socrates).
 *   [Preact Flyd (⭐11)](https://github.com/xialvjun/preact-flyd) - Use [flyd (⭐1.6k)](https://github.com/paldepind/flyd) FRP streams in Preact + JSX.
-*   [Preact I18nline (⭐38)](https://github.com/download/preact-i18nline) - Integrates the ecosystem around [i18n-js (⭐9)](https://github.com/everydayhero/i18n-js) with Preact via [i18nline (⭐18)](https://github.com/download/i18nline).
-*   [Preact Classless Component (⭐43)](https://github.com/ld0rman/preact-classless-component) - Create preact components without the class keyword.
-*   [Preact Hyperscript (⭐30)](https://github.com/queckezz/preact-hyperscript) - Hyperscript-like syntax for creating elements.
-*   [Shallow Compare (⭐33)](https://github.com/tkh44/shallow-compare) - Simplified `shouldComponentUpdate` helper.
+*   [Preact I18nline (⭐38)](https://github.com/download/preact-i18nline) - Integrates the ecosystem around [i18n-js (⭐10)](https://github.com/everydayhero/i18n-js) with Preact via [i18nline (⭐18)](https://github.com/download/i18nline).
+*   [Preact Classless Component (⭐44)](https://github.com/ld0rman/preact-classless-component) - Create preact components without the class keyword.
+*   [Preact Hyperscript (⭐31)](https://github.com/queckezz/preact-hyperscript) - Hyperscript-like syntax for creating elements.
+*   [Shallow Compare (⭐34)](https://github.com/tkh44/shallow-compare) - Simplified `shouldComponentUpdate` helper.
 *   [Preact Codemod (⭐40)](https://github.com/vutran/preact-codemod) - Transform your React code to Preact.
-*   [Preact Helmet (⭐78)](https://github.com/download/preact-helmet) - A document head manager for Preact.
+*   [Preact Helmet (⭐80)](https://github.com/download/preact-helmet) - A document head manager for Preact.
 *   [Preact Delegate (⭐18)](https://github.com/NekR/preact-delegate) - Delegate DOM events.
 *   [Preact No SSR (⭐7)](https://github.com/gufsky/preact-no-ssr) - Skip Server Side Rendering of Components.
 

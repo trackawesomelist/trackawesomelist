@@ -10,23 +10,23 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [DNTFrameworkCore (⭐272)](https://github.com/rabbal/DNTFrameworkCore) - Lightweight and Extensible Infrastructure for Building High Quality Web Applications Based on ASP.NET Core.
+*   [DNTFrameworkCore (⭐301)](https://github.com/rabbal/DNTFrameworkCore) - Lightweight and Extensible Infrastructure for Building High Quality Web Applications Based on ASP.NET Core.
 
 ### Frameworks, Libraries and Tools / Application Templates
 
-*   [DNTFrameworkCoreTemplate (⭐34)](https://github.com/rabbal/DNTFrameworkCoreTemplate) - Boilerplate project templates based on [DNTFrameworkCore (⭐272)](https://github.com/rabbal/DNTFrameworkCore)
+*   [DNTFrameworkCoreTemplate (⭐34)](https://github.com/rabbal/DNTFrameworkCoreTemplate) - Boilerplate project templates based on [DNTFrameworkCore (⭐301)](https://github.com/rabbal/DNTFrameworkCore)
 
 ## [2. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Tools and frameworks
 
-*   [jest-puppeteer-react (⭐67)](https://github.com/Hapag-Lloyd/jest-puppeteer-react) - Visual regression testing with Jest and puppeteer for React components
+*   [jest-puppeteer-react (⭐71)](https://github.com/Hapag-Lloyd/jest-puppeteer-react) - Visual regression testing with Jest and puppeteer for React components
 
 ## [3. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Software / Python
 
-*   [dash-cytoscape (⭐509)](https://github.com/plotly/dash-cytoscape) - Interactive network visualization library in Python, powered by Cytoscape.js and Dash
+*   [dash-cytoscape (⭐535)](https://github.com/plotly/dash-cytoscape) - Interactive network visualization library in Python, powered by Cytoscape.js and Dash
 
 ---
 

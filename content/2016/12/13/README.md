@@ -20,7 +20,7 @@
 
 ### Open Source / Other
 
-*   [Stacer (⭐8.4k)](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer.
+*   [Stacer (⭐8.6k)](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer.
 
 ## [3. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [AngleSharp (⭐4.3k)](https://github.com/AngleSharp/AngleSharp) - The ultimate angle brackets parser library. It parses HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specification. Comparable to beautifulsoup4 of python.
+*   [AngleSharp (⭐4.8k)](https://github.com/AngleSharp/AngleSharp) - The ultimate angle brackets parser library. It parses HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specification. Comparable to beautifulsoup4 of python.
 
 ---
 

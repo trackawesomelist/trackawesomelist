@@ -16,13 +16,13 @@
 
 ### Testing / Fixtures
 
-*   [jFairy (⭐715)](https://github.com/Devskiller/jfairy) - Fake data generator.
+*   [jFairy (⭐728)](https://github.com/Devskiller/jfairy) - Fake data generator.
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Generators / Other
 
-*   [Gridsome (⭐8.4k)](https://github.com/gridsome/gridsome) - Vue-powered static site generator.
+*   [Gridsome (⭐8.5k)](https://github.com/gridsome/gridsome) - Vue-powered static site generator.
 
 ## [4. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 

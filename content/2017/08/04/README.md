@@ -27,11 +27,11 @@
 
 ### GUI
 
-*   [WinApi (⭐767)](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
+*   [WinApi (⭐788)](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
 
 ### State machines
 
-*   [LiquidState (⭐229)](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
+*   [LiquidState (⭐233)](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
 
 ## [4. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

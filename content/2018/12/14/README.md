@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 14, 2018
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -26,7 +26,7 @@
 
 ### Templates / Preferences
 
-*   [DrawApp (⭐226)](https://github.com/SnakeyHips/drawapp) <!--stargazers:SnakeyHips/drawapp--> - Sample Drawing App to demonstrate how to allow user to draw onto canvas with color picker and brush thickness slider by [Jake Gough](https://github.com/SnakeyHips)
+*   [DrawApp (⭐234)](https://github.com/SnakeyHips/drawapp) <!--stargazers:SnakeyHips/drawapp--> - Sample Drawing App to demonstrate how to allow user to draw onto canvas with color picker and brush thickness slider by [Jake Gough](https://github.com/SnakeyHips)
 
 ## [4. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -40,25 +40,19 @@
 
 ### New Delhi
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/amdsouza92" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/amdsouza92" height="70px" width="70px" align="left" alt="" />
 
 **Arun Michael Dsouza**\
 Topics: webpack, React, ES6, Tooling, CSS\
 <https://twitter.com/amdsouza92>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/aviaryan123" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/aviaryan123" height="70px" width="70px" align="left" alt="" />
 
 **Avi Aryan**\
 Topics: Mobile Web, PWAs, Flask, Blockchain\
 <https://twitter.com/aviaryan123>
 
-## [6. Awesome Java](/content/akullpp/awesome-java/README.md)
-
-### Podcasts and Screencasts / Mocking
-
-*   [The Java Council](https://virtualjug.com/#podcast)
-
-## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Best Practices
 

@@ -86,15 +86,15 @@
 
 ## [8. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
-*   [yor (⭐654)](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation, and Serverless).
+*   [yor (⭐725)](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation, and Serverless).
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Monitoring
 
-*   [pingpong.one](https://pingpong.one/) — Advanced status page platform with monitoring. Free tier includes one public customizable status page with SSL subdomain. Pro plan is offered to open-source projects and non-profits free of charge.
+*   [pingpong.one](https://pingpong.one/) — Advanced status page platform with monitoring. The free tier includes one public customizable status page with an SSL subdomain. Pro plan is offered to open-source projects and non-profits free of charge.
 
 ## [10. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -110,12 +110,12 @@
 
 ### R / Factor Analysis
 
-*   [FactorAnalytics (⭐49)](https://github.com/braverock/FactorAnalytics) - The FactorAnalytics package contains fitting and analysis methods for the three main types of factor models used in conjunction with portfolio construction, optimization and risk management, namely fundamental factor models, time series factor models and statistical factor models.
+*   [FactorAnalytics (⭐56)](https://github.com/braverock/FactorAnalytics) - The FactorAnalytics package contains fitting and analysis methods for the three main types of factor models used in conjunction with portfolio construction, optimization and risk management, namely fundamental factor models, time series factor models and statistical factor models.
 *   [Expected Returns (⭐32)](https://github.com/JustinMShea/ExpectedReturns) - Solutions for enhancing portfolio diversification and replications of seminal papers with R, most of which are discussed in one of the best investment references of the recent decade, Expected Returns: An Investors Guide to Harvesting Market Rewards by Antti Ilmanen.
 
 ### CSharp / Data Visualization
 
-*   [TDAmeritrade.DotNetCore (⭐47)](https://github.com/NVentimiglia/TDAmeritrade.DotNetCore) - Free, open-source .NET Client for the TD Ameritrade Trading Platform. Helps developers integrate TD Ameritrade API into custom trading solutions.
+*   [TDAmeritrade.DotNetCore (⭐52)](https://github.com/NVentimiglia/TDAmeritrade.DotNetCore) - Free, open-source .NET Client for the TD Ameritrade Trading Platform. Helps developers integrate TD Ameritrade API into custom trading solutions.
 
 ## [12. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
@@ -231,26 +231,26 @@
 
 ## [15. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Continuous Integration / MIT
+### Continuous Integration / Apache License
 
-*   [ada-actions (⭐17)](https://github.com/ada-actions/toolchain) - Ada Toolchains for GitHub Actions.
+*   [ada-actions (⭐19)](https://github.com/ada-actions/toolchain) - Ada Toolchains for GitHub Actions.
 
 ## [16. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / Scanning / Pentesting
 
-*   [Netz (⭐357)](https://github.com/spectralops/netz)- Discover internet-wide misconfigurations, using zgrab2 and others.
+*   [Netz (⭐360)](https://github.com/spectralops/netz)- Discover internet-wide misconfigurations, using zgrab2 and others.
 
 ### DevOps / Development
 
-*   [Preflight (⭐145)](https://github.com/spectralops/preflight) - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems.
-*   [Teller (⭐1.6k)](https://github.com/spectralops/teller) - a secrets management tool for devops and developers - manage secrets across multiple vaults and keystores from a single place.
+*   [Preflight (⭐139)](https://github.com/spectralops/preflight) - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems.
+*   [Teller (⭐1.9k)](https://github.com/spectralops/teller) - a secrets management tool for devops and developers - manage secrets across multiple vaults and keystores from a single place.
 
 ## [17. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / YouTube
 
-*   [ytmdl (⭐2.7k)](https://github.com/deepjyoti30/ytmdl): A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, LastFM, Deezer, Gaana etc.
+*   [ytmdl (⭐2.8k)](https://github.com/deepjyoti30/ytmdl): A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, LastFM, Deezer, Gaana etc.
 
 ## [18. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
@@ -276,11 +276,11 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [tanvirtin/monokai.nvim (⭐270)](https://github.com/tanvirtin/monokai.nvim) - Monokai theme written in Lua.
+*   [tanvirtin/monokai.nvim (⭐301)](https://github.com/tanvirtin/monokai.nvim) - Monokai theme written in Lua.
 
 ### Git / Diagnostics
 
-*   [tanvirtin/vgit.nvim (⭐483)](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your git experience.
+*   [tanvirtin/vgit.nvim (⭐541)](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your git experience.
 
 ---
 

@@ -16,7 +16,7 @@
 
 ### Boilerplates / Outdated Boilerplates
 
-*   [elm-webpack-starter (⭐868)](https://github.com/moarwick/elm-webpack-starter) - A simple Webpack setup for writing Elm apps.
+*   [elm-webpack-starter (⭐865)](https://github.com/moarwick/elm-webpack-starter) - A simple Webpack setup for writing Elm apps.
 
 ## [3. Tips](/content/git-tips/tips/README.md)
 
@@ -30,12 +30,12 @@ git config --global rerere.enabled 1
 
 ### Applications
 
-*   [Nvjorn (⭐14)](https://github.com/tchoutri/Nvjorn) - A multi-protocol network services monitor written in Elixir using Poolboy.
+*   [Nvjorn (⭐15)](https://github.com/tchoutri/Nvjorn) - A multi-protocol network services monitor written in Elixir using Poolboy.
 
 ### ORM and Datamapping
 
-*   [neo4j\_sips (⭐79)](https://github.com/florinpatrascu/neo4j_sips) - Neo4j driver for Elixir.
-*   [neo4j\_sips\_models (⭐5)](https://github.com/florinpatrascu/neo4j_sips_models) - Minimalistic Model support for the Neo4j.Sips Elixir driver.
+*   [neo4j\_sips (⭐80)](https://github.com/florinpatrascu/neo4j_sips) - Neo4j driver for Elixir.
+*   [neo4j\_sips\_models (⭐6)](https://github.com/florinpatrascu/neo4j_sips_models) - Minimalistic Model support for the Neo4j.Sips Elixir driver.
 
 ## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -45,8 +45,8 @@ git config --global rerere.enabled 1
 
 ### For Electron / Other
 
-*   [electron-installer-debian (⭐346)](https://github.com/unindented/electron-installer-debian) - Create a Debian package.
-*   [electron-installer-redhat (⭐74)](https://github.com/unindented/electron-installer-redhat) - Create a Red Hat package.
+*   [electron-installer-debian (⭐350)](https://github.com/unindented/electron-installer-debian) - Create a Debian package.
+*   [electron-installer-redhat (⭐75)](https://github.com/unindented/electron-installer-redhat) - Create a Red Hat package.
 *   [electron-installer-windows (⭐464)](https://github.com/unindented/electron-installer-windows) - Create a Windows package.
 
 ## [6. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)

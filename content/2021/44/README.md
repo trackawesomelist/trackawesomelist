@@ -8,10 +8,6 @@
 
 ## [1. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
-### Gerber Viewers / Installable
-
-*   [KiCad GerbView](https://kicad.org/) - The KiCad gerber viewer.
-
 ### Free EDA Packages / Installable
 
 *   [KiCad](https://kicad.org/) - Open source EDA package with push and shove router, differential pairs and much more.
@@ -54,11 +50,7 @@
 
 ### Software / Document Management - E-books
 
-*   [Kavita](https://www.kavitareader.com/) - Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metatdata support. ([Demo](https://wiki.kavitareader.com/en/kavita-demo), [Source Code (⭐2.8k)](https://github.com/Kareadita/Kavita)) `GPL-3.0` `.NET Core/Docker`
-
-### Software / File Transfer - Single-click & Drag-n-drop Upload
-
-*   [Void (⭐181)](https://github.com/AlphaNecron/Void) - Lightweight, fast and elegant file hosting service for ShareX with Web UI and REST API. ([Source Code (⭐181)](https://github.com/AlphaNecron/Void/)) `MIT` `Nodejs`
+*   [Kavita](https://www.kavitareader.com/) - Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metatdata support. ([Demo](https://wiki.kavitareader.com/en/kavita-demo), [Source Code (⭐3.5k)](https://github.com/Kareadita/Kavita)) `GPL-3.0` `.NET/Docker`
 
 ## [8. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
 
@@ -70,7 +62,7 @@
 
 ### Community
 
-*   [German Open Transport Meetup (⭐34)](https://github.com/transportkollektiv/meetup/wiki) - You can participate in a [biweekly](https://hackmd.okfn.de/opentransportmeetup#) meetup of the German-speaking open transport community.
+*   [German Open Transport Meetup (⭐36)](https://github.com/transportkollektiv/meetup/wiki) - You can participate in a [biweekly](https://hackmd.okfn.de/opentransportmeetup#) meetup of the German-speaking open transport community.
 
 ## [10. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
@@ -82,7 +74,7 @@
 
 ### Books
 
-*   [Free Mathematics Books (⭐281k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
+*   [Free Mathematics Books (⭐295k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 
 ## [12. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
@@ -107,7 +99,7 @@
 
 ### Sample Projects / Idris
 
-*   [OrderTaking (⭐116)](http://github.com/andorp/order-taking) - Dependently typed implementation of the Domain Modeling Made Functional book. An example project how to formalize Bounded Context and Workflow diagram with dependent types. A NodeJS deployable demo.
+*   [OrderTaking (⭐127)](http://github.com/andorp/order-taking) - Dependently typed implementation of the Domain Modeling Made Functional book. An example project how to formalize Bounded Context and Workflow diagram with dependent types. A NodeJS deployable demo.
 
 ## [14. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
@@ -137,7 +129,7 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Keras Tuner (⭐2.7k)](https://github.com/keras-team/keras-tuner) - An easy-to-use, scalable hyperparameter optimization framework that solves the pain points of hyperparameter search.
+*   [Keras Tuner (⭐2.8k)](https://github.com/keras-team/keras-tuner) - An easy-to-use, scalable hyperparameter optimization framework that solves the pain points of hyperparameter search.
 
 ## [19. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
@@ -290,7 +282,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐554)](https://github.com/mineral-ui/mineral-ui)
+  Source code \*: [:octocat: (⭐558)](https://github.com/mineral-ui/mineral-ui)
 
 
 - : [City of Boston Fleet](https://patterns.boston.gov/)
@@ -312,7 +304,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐6.5k)](https://github.com/DouyinFE/semi-design)
+  Source code \*: [:octocat: (⭐7.2k)](https://github.com/DouyinFE/semi-design)
 
 
 - : [Singapore Government Design System](https://www.designsystem.tech.gov.sg/)
@@ -323,7 +315,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐87)](https://github.com/govtechsg/sgds)
+  Source code \*: [:octocat: (⭐107)](https://github.com/govtechsg/sgds)
 
 
 - : [VMware Clarity Design System](https://clarity.design/)
@@ -334,7 +326,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐6.5k)](https://github.com/vmware/clarity)
+  Source code \*: [:octocat: (⭐6.4k)](https://github.com/vmware/clarity)
 
 
 
@@ -346,15 +338,15 @@
 
 ### AppImage consumption tools / Sandboxes
 
-*   [AppImage Sandboxing Project (⭐17)](https://github.com/mgord9518/aisap) - Golang library to help sandbox AppImages with bwrap.
+*   [AppImage Sandboxing Project (⭐19)](https://github.com/mgord9518/aisap) - Golang library to help sandbox AppImages with bwrap.
 
 ## [24. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
-### Common Section / Angular
+### General Section / Svelte
 
 *   [A Byte of Coding](https://abyteofcoding.com). A daily curated newsletter that features technical deep-dives on all things software engineering.
 
-### Security / Angular
+### Security / Svelte
 
 *   [Advisory Week](https://advisoryweek.com/). A weekly email with a roundup of Security Advisories published by the major software vendors.
 
@@ -362,19 +354,19 @@
 
 ### Hybrid
 
-*   [RemoteBlazorWebView (⭐20)](https://github.com/budcribar/RemoteBlazorWebView) - ![last commit](https://img.shields.io/github/last-commit/budcribar/RemoteBlazorWebView?style=flat-square\&cacheSeconds=86400) RemoteBlazorWebView enables you to interact with the user interface of a program developed with either the BlazorWebView WPF control or WinForms control using a web browser.
+*   [RemoteBlazorWebView (⭐23)](https://github.com/budcribar/RemoteBlazorWebView) - ![last commit](https://img.shields.io/github/last-commit/budcribar/RemoteBlazorWebView?style=flat-square\&cacheSeconds=86400) RemoteBlazorWebView enables you to interact with the user interface of a program developed with either the BlazorWebView WPF control or WinForms control using a web browser.
 
 ### Others
 
-*   [FFmpegBlazor (⭐101)](https://github.com/sps014/FFmpegBlazor) - ![stars](https://img.shields.io/github/stars/sps014/FFmpegBlazor?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/sps014/FFmpegBlazor?style=flat-square\&cacheSeconds=86400) FFmpegBlazor provides ability to utilize ffmpeg.wasm from Blazor Wasm C#. [ffmpeg.wasm (⭐10k)](https://github.com/ffmpegwasm/ffmpeg.wasm) ![stars](https://img.shields.io/github/stars/ffmpegwasm/ffmpeg.wasm?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/ffmpegwasm/ffmpeg.wasm?style=flat-square\&cacheSeconds=86400)  is a pure Webassembly / Javascript port of FFmpeg. It enables video & audio record, convert and stream right inside browsers.
+*   [FFmpegBlazor (⭐109)](https://github.com/sps014/FFmpegBlazor) - ![stars](https://img.shields.io/github/stars/sps014/FFmpegBlazor?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/sps014/FFmpegBlazor?style=flat-square\&cacheSeconds=86400) FFmpegBlazor provides ability to utilize ffmpeg.wasm from Blazor Wasm C#. [ffmpeg.wasm (⭐12k)](https://github.com/ffmpegwasm/ffmpeg.wasm) ![stars](https://img.shields.io/github/stars/ffmpegwasm/ffmpeg.wasm?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/ffmpegwasm/ffmpeg.wasm?style=flat-square\&cacheSeconds=86400)  is a pure Webassembly / Javascript port of FFmpeg. It enables video & audio record, convert and stream right inside browsers.
 
 ### Component bundles
 
-*   [MudBlazor (⭐5.3k)](https://github.com/MudBlazor/MudBlazor) - ![stars](https://img.shields.io/github/stars/MudBlazor/MudBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/MudBlazor/MudBlazor?style=flat-square\&cacheSeconds=86400) MudBlazor is an ambitious Material Design component framework for Blazor with an emphasis on ease of use and clear structure. It is perfect for .NET developers who want to rapidly build web applications without having to struggle with CSS and Javascript. MudBlazor, being written entirely in C#, empowers them to adapt, fix or extend the framework and the multitude of examples in the documentation makes learning MudBlazor very easy. [Documentation](https://mudblazor.com/). [Demo](https://try.mudblazor.com/).
+*   [MudBlazor (⭐6.1k)](https://github.com/MudBlazor/MudBlazor) - ![stars](https://img.shields.io/github/stars/MudBlazor/MudBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/MudBlazor/MudBlazor?style=flat-square\&cacheSeconds=86400) MudBlazor is an ambitious Material Design component framework for Blazor with an emphasis on ease of use and clear structure. It is perfect for .NET developers who want to rapidly build web applications without having to struggle with CSS and Javascript. MudBlazor, being written entirely in C#, empowers them to adapt, fix or extend the framework and the multitude of examples in the documentation makes learning MudBlazor very easy. [Documentation](https://mudblazor.com/). [Demo](https://try.mudblazor.com/).
 
 ### Real-World applications / Others
 
-*   [Try .NET (⭐2.6k)](https://github.com/dotnet/try) - ![GitHub stars](https://img.shields.io/github/stars/dotnet/try?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dotnet/try?style=flat-square\&cacheSeconds=86400) Try .NET provides developers and content authors with tools to create interactive experiences.
+*   [Try .NET (⭐2.7k)](https://github.com/dotnet/try) - ![GitHub stars](https://img.shields.io/github/stars/dotnet/try?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dotnet/try?style=flat-square\&cacheSeconds=86400) Try .NET provides developers and content authors with tools to create interactive experiences.
 
 ## [26. Awesome](/content/craftcms/awesome/week/README.md)
 
@@ -406,8 +398,8 @@
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [artart222/CodeArt (⭐854)](https://github.com/artart222/CodeArt) - A fast general-purpose IDE written entirely in Lua with an installer for Linux/Windows/macOS and built in `:CodeArtUpdate` command for updating it.
-*   [shaeinst/roshnivim (⭐157)](https://github.com/shaeinst/roshnivim) - Roshnivim, can be called neovim's distro, is a predefined configs so that you don't need 1000hr to setup neovim as an IDE.
+*   [artart222/CodeArt (⭐861)](https://github.com/artart222/CodeArt) - A fast general-purpose IDE written entirely in Lua with an installer for Linux/Windows/macOS and built in `:CodeArtUpdate` command for updating it.
+*   [shaeinst/roshnivim (⭐173)](https://github.com/shaeinst/roshnivim) - Roshnivim, can be called neovim's distro, is a predefined configs so that you don't need 1000hr to setup neovim as an IDE.
 
 ## [30. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -420,39 +412,38 @@
 
 ### Uncategorized
 
-*   [Vignette (⭐413)](https://github.com/vignetteapp/vignette) - The open source VTuber software. \[English]
+*   [Vignette (⭐463)](https://github.com/vignetteapp/vignette) - The open source VTuber software. \[English]
 
 ## [32. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Social Network
 
-*   [Skyfeed (⭐91)](https://github.com/redsolver/skyfeed) - Alternative to Twitter by [RedSolver](https://github.com/redsolver)
+*   [Skyfeed (⭐95)](https://github.com/redsolver/skyfeed) - Alternative to Twitter by [RedSolver](https://github.com/redsolver)
 
 ## [33. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Getting Started
 
-*   [ARHeadsetKit Tutorials (⭐92)](https://github.com/philipturner/ARHeadsetKit) - Interactive guides to a high-level framework for experimenting with AR.
+*   [ARHeadsetKit Tutorials (⭐111)](https://github.com/philipturner/ARHeadsetKit) - Interactive guides to a high-level framework for experimenting with AR.
 
 ## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue2-gmap-custom-marker (⭐132)](https://github.com/eregnier/vue2-gmap-custom-marker) - Vue google map custom marker component
+*   [vue2-gmap-custom-marker (⭐134)](https://github.com/eregnier/vue2-gmap-custom-marker) - Vue google map custom marker component
 *   [vue-leaflet-custom-marker (⭐3)](https://github.com/eregnier/vue-leaflet-custom-marker) - Vue leaflet for open street map custom marker component
 
 ## [35. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Open Source / Community
 
-*   [îles (⭐964)](https://github.com/ElMassimo/iles) - Islands of Interactivity with Vue3, multi-framework.
+*   [îles (⭐1k)](https://github.com/ElMassimo/iles) - Islands of Interactivity with Vue3, multi-framework.
 
 ## [36. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Books / iOS
 
 *   [Essentials - AIY Voice Projects](https://magpi.raspberrypi.com/books/essentials-aiy-v1) - Using Google's AIY Project Kit, learn how to use artificial intelligence with your Raspberry Pi. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-0.png)
-*   [Essentials - Camera Module Guide](https://magpi.raspberrypi.com/books/essentials_camera_v1) - How to use your Raspberry Pi Foundation's Camera Module with your Raspberry Pi.
 *   [Essentials - Code Music with Sonic Pi](https://magpi.raspberrypi.com/books/essentials-sonic-pi-v1) - Learn how to create music by coding with Sonic Pi on your Raspberry Pi.
 *   [Essentials - Conquer the Command Line (Version 2)](https://magpi.raspberrypi.com/books/command-line-second-edition) - Learn how to command and conquer the command line on the Raspberry Pi using Raspbian, simplify complex tasks while you automate simple ones.
 *   [Essentials - GPIO Zero Electronics](https://magpi.raspberrypi.com/books/essentials-gpio-zero-v1) - Create electronic creations using the GPIO pins and the GPIO Zero library on your Raspberry Pi.
@@ -566,14 +557,14 @@
 
 ### Libs
 
-*   [makallio85/YamlRoute plugin](https://github.com/makallio85/yaml-route) - Configure routes with simple YAML files.
+*   🍰 [makallio85/YamlRoute plugin (⭐6)](https://github.com/makallio85/yaml-route) - Configure routes with simple YAML files.
 
 ## [39. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Game Development
 
-*   [libktx/ktx (⭐1.2k)](https://github.com/libktx/ktx) - Kotlin utilities for LibGDX applications.
-*   [korlibs/KorGE (⭐1.8k)](https://github.com/korlibs/KorGE) - Modern Multiplatform Game Engine for Kotlin. Write games for the JVM, JavaScript, Android and iOS in no time using Kotlin.
+*   [libktx/ktx (⭐1.3k)](https://github.com/libktx/ktx) - Kotlin utilities for LibGDX applications.
+*   [korlibs/KorGE (⭐2k)](https://github.com/korlibs/KorGE) - Modern Multiplatform Game Engine for Kotlin. Write games for the JVM, JavaScript, Android and iOS in no time using Kotlin.
 
 ## [40. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
@@ -597,31 +588,21 @@
 
 ### Auth / Basic Auth and Session-based (for HTML Endpoints)
 
-*   [Flask-SimpleLogin (⭐176)](https://github.com/flask-extensions/Flask-SimpleLogin) - Authentication.
+*   [Flask-SimpleLogin (⭐190)](https://github.com/flask-extensions/Flask-SimpleLogin) - Authentication.
 
-### PaaS / Testing
+## [44. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
-*   [Microsoft Azure App Service](https://azure.microsoft.com/en-us/services/app-service/)
-
-## [44. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
-
-### UI Libraries, Components & Templates
-
-*   📁 [Red Pixel Themes](https://redpixelthemes.com/) - Paid, developer-friendly templates made with Tailwind CSS.
-
-## [45. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
-
-### APIs, Data and ML
+### APIs, Data, and ML
 
 *   [PrefectCloud](https://www.prefect.io/cloud/) — A complete platform for dataflow automation. All plans include 20,000 free runs every month. That's enough to power ETL for most small businesses.
 
 ### Monitoring
 
-*   [netdata.cloud](https://www.netdata.cloud/) — Netdata is an open source tool designed to collect real-time metrics.Great fast growing product. It can also be found in github!
+*   [netdata.cloud](https://www.netdata.cloud/) — Netdata is an open-source tool to collect real-time metrics. It's a growing product and can also be found on GitHub!
 
 ### Forms
 
-*   [Hyperforms.app](https://hyperforms.app/) — Create form to email and more in seconds and without backend code. The Personal account gives you up to 50 form submissions per month for free.
+*   [Hyperforms.app](https://hyperforms.app/) — Create a form to email and more in seconds and without backend code. The Personal account gives you up to 50 monthly form submissions for free.
 
 ### Issue Tracking and Project Management
 
@@ -630,8 +611,8 @@
 ### Storage and Media Processing
 
 *   [icedrive.net](https://www.icedrive.net/) - Simple cloud storage service. 10 GB free storage
-*   [sync.com](https://www.sync.com/) - End-to-End cloud storage service. 5 GB free storage
-*   [pcloud.com](https://www.pcloud.com/) - Cloud storage service. Up to 10 GB free storage
+*   [sync.com](https://www.sync.com/) - End-to-End cloud storage service. 5 GB of free storage
+*   [pcloud.com](https://www.pcloud.com/) - Cloud storage service. Up to 10 GB of free storage
 
 ### Design and UI
 
@@ -639,21 +620,21 @@
 
 ### IDE and Code Editing
 
-*   [Binder](https://mybinder.org/) - Turn a Git repo into a collection of interactive notebooks. It is a free, public service.
+*   [Binder](https://mybinder.org/) - Turn a Git repo into a collection of interactive notebooks. It is a free public service.
 
-## [46. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [45. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### EBooks / Online resources
 
 *   [Self-Sovereign Identity](https://www.manning.com/books/self-sovereign-identity) - A book about how SSI empowers us to receive digitally-signed credentials, store them in private wallets, and securely prove our online identities. (early access, published continuously, final release fall 2021)
 
-## [47. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [46. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### People and works / Interesting Instagram Accounts, Posts and Reels
 
 *   [Deep Music Visualizer](https://www.instagram.com/deep_music_visualizer/)
 
-## [48. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [47. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / System tools
 
@@ -661,47 +642,47 @@
 
 ### Libraries / Email
 
-*   [stalwartlabs/mail-parser (⭐181)](https://github.com/stalwartlabs/mail-parser) \[[mail-parser](https://crates.io/crates/mail-parser)] - A fast and robust e-mail parsing library with full MIME support [![build badge](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml)
+*   [stalwartlabs/mail-parser (⭐210)](https://github.com/stalwartlabs/mail-parser) \[[mail-parser](https://crates.io/crates/mail-parser)] - A fast and robust e-mail parsing library with full MIME support [![build badge](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml)
 
 ### Libraries / Game development
 
 *   bracket-lib (previously RLTK)
     *   [bracket-lib (⭐1.3k)](https://github.com/amethyst/bracket-lib) \[[bracket-lib](https://crates.io/crates/bracket-lib)] - The Roguelike Toolkit (RLTK), implemented for Rust. [![Rust](https://github.com/amethyst/bracket-lib/actions/workflows/rust.yml/badge.svg)](https://github.com/amethyst/bracket-lib/actions/workflows/rust.yml)
 *   Tcod-rs
-    *   [tomassedovic/tcod-rs (⭐229)](https://github.com/tomassedovic/tcod-rs) — Libtcod bindings for Rust.
+    *   [tomassedovic/tcod-rs (⭐230)](https://github.com/tomassedovic/tcod-rs) — Libtcod bindings for Rust.
     *   Warning: Not maintained anymore
 
 ### Registries / Web programming
 
 *   [w4/chartered (⭐125)](https://github.com/w4/chartered) - A private, authenticated, permissioned Cargo registry [![CI](https://github.com/w4/chartered/actions/workflows/ci.yml/badge.svg)](https://github.com/w4/chartered/actions/workflows/ci.yml)
 
-## [49. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [48. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### API / Database
 
 *   [Jexia DataSet](https://jexia.com) - REST API Schema & Schemaless cloud data storage with built-in validators, relations, aggregation functions.
 
-## [50. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [49. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Resources / Discovery
 
 *   [Pkgs on Nix](https://pkgs.on-nix.com/) - A database with Nix packages at all versions, from all channels.
 
-### Command-Line Tools / Newsletters
+### Command-Line Tools / Discovery
 
-*   [statix (⭐377)](https://github.com/nerdypepper/statix) - A linter/fixer to check for and fix antipatterns in Nix code.
+*   [statix (⭐417)](https://github.com/nerdypepper/statix) - A linter/fixer to check for and fix antipatterns in Nix code.
 
 ### Programming Languages / Rust
 
-*   [fenix (⭐345)](https://github.com/nix-community/fenix) - Rust toolchains and Rust analyzer nightly for nix.
-*   [nixpkgs-mozilla (⭐434)](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with Rust toolchains and Firefox.
-*   [rust-overlay (⭐453)](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed Rust toolchains.
+*   [fenix (⭐431)](https://github.com/nix-community/fenix) - Rust toolchains and Rust analyzer nightly for nix.
+*   [nixpkgs-mozilla (⭐460)](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with Rust toolchains and Firefox.
+*   [rust-overlay (⭐566)](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed Rust toolchains.
 
 ### Community / Webinterface
 
 *   [#nixos on Libera.Chat](https://web.libera.chat/?nick=Guest?#nixos)
 
-## [51. Awesome Nodered](/content/naimo84/awesome-nodered/week/README.md)
+## [50. Awesome Nodered](/content/naimo84/awesome-nodered/week/README.md)
 
 ### Installation
 
@@ -728,13 +709,13 @@
 *   [Twitter](https://twitter.com/NodeRED)
 *   [YouTube](https://www.youtube.com/channel/UCQaB8NXBEPod7Ab8PPCLLAA)
 
-## [52. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [51. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Advanced
 
 *   [Programming Algorithms in Lisp](https://link.springer.com/book/10.1007/978-1-4842-6428-7) - Updated version of "[Programming Algorithms](https://leanpub.com/progalgs)"; A comprehensive guide to writing efficient programs with data structures and algorithms in Lisp.
 
-## [53. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [52. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Interactive Experiences
 
@@ -744,23 +725,42 @@
 
 *   [Aritelia](https://aritelia.io/) - Open world social MMO with sandbox building and collectable NFTs.
 
-## [54. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [53. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :safety_vest: Community Prisma Tools
 
 *   [Declarative Authorisation Middleware (⭐66)](https://github.com/joindeed/prisma-auth)
 
-## [55. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [54. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Dead
 
 *   [Tidepools](http://tidepools.co) is being developed within the [Red Hook Mesh Network](http://oti.newamerica.net/blogposts/2013/case_study_red_hook_initiative_wifi_tidepools-78575), for addressing local, social incentives for mesh use. An Open Source, Collaborative, Mobile Mapping & Social Hub, Reflecting Community Needs & Culture through Custom Apps, Time-based Maps, & Data Feeds.
 
+## [55. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Assembly Language / Blazor
+
+*   [A fundamental introduction to x86 assembly prorgamming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming) - Project Nayuki (HTML)
+
+### C++ / Non-X86
+
+*   [Fundamentals of C++ Programming](https://web.archive.org/web/20191005170118/https://python.cs.southern.edu/cppbook/progcpp.pdf) - Richard L. Halterman (PDF) *(:card\_file\_box: archived)*
+
+### CoffeeScript / Non-X86
+
+*   [Hard Rock CoffeeScript](https://alchaplinsky.github.io/hard-rock-coffeescript/) - Alex Chaplinsky (gitbook)
+*   [The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/) - Alex MacCaw, David Griffiths, Satoshi Murakami, Jeremy Ashkenas
+
+### Java / Bootstrap
+
+*   [Java Masters](https://javamasters.io/servlets) - Java Masters (HTML)
+
 ## [56. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Books
 
-- API: [PoetryDB (⭐332)](https://github.com/thundercomb/poetrydb#readme)
+- API: [PoetryDB (⭐438)](https://github.com/thundercomb/poetrydb#readme)
 
   Description: Enables you to get instant data from our vast poetry collection
 
@@ -816,7 +816,7 @@
 
 ### Music
 
-- API: [Gaana (⭐78)](https://github.com/cyberboysumanjay/GaanaAPI)
+- API: [Gaana (⭐94)](https://github.com/cyberboysumanjay/GaanaAPI)
 
   Description: API to retrieve song information from Gaana
 

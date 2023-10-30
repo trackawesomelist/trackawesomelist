@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 24 - Dec 30, 2018
 
-42 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -28,19 +28,19 @@
 
 ### Bindings
 
-*   [vulkan-go (⭐676)](https://github.com/vulkan-go/vulkan) - Go bindings for Vulkan. \[MIT]
+*   [vulkan-go (⭐702)](https://github.com/vulkan-go/vulkan) - Go bindings for Vulkan. \[MIT]
 
 ## [5. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Graphical User Interface / MIT
+### Graphical User Interface / Apache License
 
 *   [claw](http://www.rrsoftware.com/html/prodinf/claw/claw.htm) - CLAW, a High Level, Portable, Ada 95 Binding for Microsoft Windows.
 
-### Unit Test, Testing / MIT
+### Unit Test, Testing / Apache License
 
 *   [gnatbdd (⭐5)](https://github.com/briot/gnatbdd) - Behavior Driven Development in Ada.
 
-### System Modeling / MIT
+### System Modeling / Apache License
 
 *   [ada-fuzzy (⭐3)](https://github.com/briot/adafuzzy) - A fuzzy inference system library for Ada.
 
@@ -60,67 +60,61 @@
 
 ### Other Tools / Telegram
 
-*   [sn0int (⭐1.5k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
+*   [sn0int (⭐1.6k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 
-## [9. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
-### Logging
+### Packages / Security
 
-*   [p6spy (⭐1.8k)](https://github.com/p6spy/p6spy) - Enables logging for all JDBC transactions without changes to the code.
+*   [GuardRails](https://github.com/apps/guardrails) - GitHub app that provides security feedback in pull requests.
 
-### Messaging
+## [10. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+
+### Logging / Text-Based User Interfaces
+
+*   [p6spy (⭐1.9k)](https://github.com/p6spy/p6spy) - Enables logging for all JDBC transactions without changes to the code.
+
+### Messaging / Text-Based User Interfaces
 
 *   [Apache Qpid](https://qpid.apache.org) - Apache Qpid makes messaging tools that speak AMQP and support many languages and platforms.
-*   [RabbitMQ Java client (⭐1.1k)](https://github.com/rabbitmq/rabbitmq-java-client) - RabbitMQ client.
+*   [RabbitMQ Java client (⭐1.2k)](https://github.com/rabbitmq/rabbitmq-java-client) - RabbitMQ client.
 
-### Miscellaneous
+### Miscellaneous / Text-Based User Interfaces
 
 *   [JCuda](http://jcuda.org) - JCuda offers Java bindings for CUDA and CUDA-related libraries.
 
-### Monitoring
+### Monitoring / Text-Based User Interfaces
 
-*   [Jaeger client (⭐485)](https://github.com/jaegertracing/jaeger-client-java) - Jaeger client.
+*   [Jaeger client (⭐490)](https://github.com/jaegertracing/jaeger-client-java) - Jaeger client.
 
 ### Security / Other
 
-*   [Kalium (⭐206)](https://github.com/abstractj/kalium) - Binding for the Networking and Cryptography (NaCl) library.
+*   [Kalium (⭐207)](https://github.com/abstractj/kalium) - Binding for the Networking and Cryptography (NaCl) library.
 
 ### Websites / Other
 
 *   [Baeldung](https://www.baeldung.com)
 *   [Dzone](https://dzone.com)
 
-## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
-
-### Software / Bookmarks and Link Sharing
-
-*   [xBrowserSync](https://www.xbrowsersync.org) - Open source tool for syncing browser data between browsers and devices. ([Source Code](https://github.com/xBrowserSync)) `MIT` `Nodejs`
-
-## [11. Awesome Security](/content/sbilly/awesome-security/week/README.md)
-
-### Web / Development
-
-*   [GuardRails](https://github.com/apps/guardrails) - A GitHub App that provides security feedback in Pull Requests.
-
-## [12. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [11. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / DNS - Servers
 
 *   [CoreDNS](https://coredns.io/) - Flexible DNS server. ([Source Code (⭐11k)](https://github.com/coredns/coredns)) `Apache-2.0` `Go`
 
-## [13. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [12. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Framework Components
 
-*   [praetorian (⭐57)](https://github.com/ilanusse/praetorian) - Minimalist authorization library inspired by Pundit
+*   [praetorian (⭐58)](https://github.com/ilanusse/praetorian) - Minimalist authorization library inspired by Pundit
 
-## [14. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [13. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Varia / Tutorials
 
-*   [Awesome community detection (⭐2.1k)](https://github.com/benedekrozemberczki/awesome-community-detection) - Comprehensive list of community detection papers with title, authors, link to the paper and reference implementation.
+*   [Awesome community detection (⭐2.2k)](https://github.com/benedekrozemberczki/awesome-community-detection) - Comprehensive list of community detection papers with title, authors, link to the paper and reference implementation.
 
-## [15. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [14. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Exception Handling / NoSQL Databases
 
@@ -132,26 +126,26 @@
 *   [List::SomeUtils](https://metacpan.org/pod/List::SomeUtils) - Provide the stuff missing in List::Util
 *   [List::UtilsBy](https://metacpan.org/pod/List::UtilsBy) - higher-order list utility functions
 
-## [16. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [15. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / Validation
 
 *   [form-validator-cljs (⭐54)](https://github.com/kwladyka/form-validator-cljs) – Validate forms with spec and fn.
 
-## [17. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [16. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
 *   [Rubix ML](https://github.com/RubixML) - A high-level machine learning (ML) library that lets you build programs that learn from data using the PHP language.
 
-## [18. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
+## [17. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
 
 ### Alternative Sensors, Actuators and Hardware Modifications
 
 *   [AskSinPPCollection](https://jp112sdl.github.io/AskSinPPCollection/) - Einführung, Dokumentation und Projekte rund um Selbstbau-Komponenten mit AskSinPP
 *   [Beispiel\_AskSinPP (⭐72)](https://github.com/jp112sdl/Beispiel_AskSinPP) - Beispiel Sketche für die Verwendung der [AskSinPP (⭐88)](https://github.com/pa-pa/AskSinPP) Bibliothek
 
-## [19. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [18. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Cryptocurrency
 
@@ -181,67 +175,67 @@
 
 
 
-## [20. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [19. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Payment Service Provider
 
-*   [PAYONE (⭐28)](https://github.com/PAYONE-GmbH/magento-2) - PAYONE Payment Integration.
-*   [Stripe (⭐48)](https://github.com/pmclain/module-stripe) - Stripe Payments for Magento 2.
+*   [PAYONE (⭐29)](https://github.com/PAYONE-GmbH/magento-2) - PAYONE Payment Integration.
+*   [Stripe (⭐47)](https://github.com/pmclain/module-stripe) - Stripe Payments for Magento 2.
 
-## [21. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [20. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### DDL Link Sites / Free Indexers
 
 *   [Movies "R" Us](https://moviesrus.tk) The newest movies in 1080p. Available with DDL through MediaFire and streaming through AnonFile.
 
-## [22. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [21. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Open Source Threat Intelligence / Other Resources
 
 *   [MetaDefender Threat Intelligence Feed](https://www.opswat.com/developers/threat-intelligence-feed) -
     List of the most looked up file hashes from MetaDefender Cloud.
 
-## [23. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+## [22. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
 ### Europe / Russia 🇷🇺
 
 ### Moscow
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/nikitonsky" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/nikitonsky" height="70px" width="70px" align="left" alt="" />
 
 **Nikita Prokopov**\
 Topics: Clojure, DataScript, Rum, FiraCode, AnyBar\
 <https://twitter.com/nikitonsky>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/elixir_lang_mos" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/elixir_lang_mos" height="70px" width="70px" align="left" alt="" />
 
 **Nikita Sobolev**\
 Topics: Elixir, Python, JavaScript, Management, RSDP\
 <https://twitter.com/elixir_lang_mos>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ai_boy" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/ai_boy" height="70px" width="70px" align="left" alt="" />
 
 **Oleksii Okhrymenko**\
 Topics: Angular, JavaScript, RxJS, i18n, HTML, CSS\
 <https://twitter.com/ai_boy>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/chicoxyzzy" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/chicoxyzzy" height="70px" width="70px" align="left" alt="" />
 
 **Sergey Rubanov**\
 Topics: Standards, Web Assembly\
 <https://twitter.com/chicoxyzzy>
 
-## [24. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [23. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Bug Reporting
 
-*   [Khronos Github Issue Page (⭐2.3k)](https://github.com/KhronosGroup/WebGL/issues) - Spec or Conformance related bugs
+*   [Khronos Github Issue Page (⭐2.5k)](https://github.com/KhronosGroup/WebGL/issues) - Spec or Conformance related bugs
 
 ### Tools/Debugging
 
 *   [Spector.js](https://spector.babylonjs.com/) - Agnostic JavaScript framework for exploring and troubleshooting your WebGL scenes.
 
-## [25. Awesome C](/content/inputsh/awesome-c/week/README.md)
+## [24. Awesome C](/content/inputsh/awesome-c/week/README.md)
 
 ### Resources
 
@@ -259,31 +253,31 @@ Topics: Standards, Web Assembly\
 
 *   [utf8proc (⭐828)](https://github.com/JuliaStrings/utf8proc) - Small, clean library for processing UTF-8 Unicode data. [`License`](https://github.com/JuliaStrings/utf8proc/blob/master/LICENSE.md)
 
-## [26. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
+## [25. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
 ### Cheat Sheets / Hylomorphisms in the Wild
 
 *   [The Hitchhiker's Guide to Morphisms](https://ipfs.io/ipfs/QmTppu1VDAQWsdiyVSZX6qb8PErdpwzNP2oKfEhcgaBvWR/guide-to-morphisms.pdf) - Overview of different morphisms including a printable PDF.
 
-## [27. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [26. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Swift programming / iOS
 
 *   [SwiftyGPIO (⭐1.3k)](https://github.com/uraimo/SwiftyGPIO) - Swift library for hardware projects on Linux/ARM boards with support for GPIOs/SPI/I2C/PWM/UART/1Wire.
 
-## [28. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [27. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [How To Spread Some Holiday Cheer Using Appium](https://appiumpro.com/editions/49)
 
-## [29. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [28. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Accompanying Repos
 
 *   [aws-arch-backoff-simulator :fire: (⭐221)](https://github.com/awslabs/aws-arch-backoff-simulator) - Jitter and backoff Simulator for AWS architecture blog.
 
-## [30. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
+## [29. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
 
 ### List of Lists
 
@@ -1106,30 +1100,30 @@ Topics: Standards, Web Assembly\
 
 
 
-## [31. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [30. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Tutorials
 
 *   [Understanding The Tensorflow Estimator API](https://www.lighttag.io/blog/tensorflow-estimator-api/) A conceptual overview of the Estimator API, when you'd use it and why.
 
-## [32. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [31. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### ASM / Syntax highlighting packages
 
 *   [rgbds-mode (⭐3)](https://github.com/japanoise/rgbds-mode) - Emacs major mode for RGBDS assembly.
 
-## [33. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [32. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### Analysis
 
 *   [Anemometer (⭐1.4k)](https://github.com/box/Anemometer) - Box SQL slow query monitor.
-*   [innodb-ruby (⭐1.4k)](https://github.com/jeremycole/innodb_ruby) - A parser for InnoDB file formats, in Ruby.
-*   [innotop (⭐698)](https://github.com/innotop/innotop) - a 'top' clone for MySQL with many features and flexibility.
-*   [MySQL Explain Analyzer (⭐73)](https://github.com/Preetam/explain-analyzer) - A web-based analyzer of `EXPLAIN FORMAT=JSON` output, providing comments, scalability analysis and permalinks for saved samples.
+*   [innodb-ruby (⭐1.5k)](https://github.com/jeremycole/innodb_ruby) - A parser for InnoDB file formats, in Ruby.
+*   [innotop (⭐717)](https://github.com/innotop/innotop) - a 'top' clone for MySQL with many features and flexibility.
+*   [MySQL Explain Analyzer (⭐84)](https://github.com/Preetam/explain-analyzer) - A web-based analyzer of `EXPLAIN FORMAT=JSON` output, providing comments, scalability analysis and permalinks for saved samples.
 *   [mysql-statsd (⭐99)](https://github.com/db-art/mysql-statsd) - A Python daemon to collect information from MySQL and send it via StatsD to Graphite.
 *   [MySQLTuner-perl](http://mysqltuner.com) - A script that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.
-*   [Prometheus](https://prometheus.io/)/[mysqld\_exporter (⭐1.7k)](https://github.com/prometheus/mysqld_exporter) - Time series database for real-time monitoring and alerting.
-*   [pstop (⭐195)](https://github.com/sjmudd/ps-top) - a top-like program for MySQL, collecting, aggregating and displaying information from performance\_schema.
+*   [Prometheus](https://prometheus.io/)/[mysqld\_exporter (⭐1.9k)](https://github.com/prometheus/mysqld_exporter) - Time series database for real-time monitoring and alerting.
+*   [pstop (⭐196)](https://github.com/sjmudd/ps-top) - a top-like program for MySQL, collecting, aggregating and displaying information from performance\_schema.
 
 ### GUI
 
@@ -1139,23 +1133,23 @@ Topics: Standards, Web Assembly\
 *   [mycli (⭐11k)](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 *   [MySQL Shell](https://dev.mysql.com/downloads/shell/) - Advanced client and code editor for MySQL that supports development and administration for the MySQL Server and MySQL InnoDB cluster (AdminAPI) with an interactive JavaScript, Python, or SQL interface.
 *   [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - provides DBAs and developers an integrated tools environment for database design & modeling; SQL devleopment; database administration.
-*   [Ocelot GUI (⭐54)](https://github.com/ocelot-inc/ocelotgui) - GUI client for MySQL or MariaDB, including debugger.
+*   [Ocelot GUI (⭐57)](https://github.com/ocelot-inc/ocelotgui) - GUI client for MySQL or MariaDB, including debugger.
 *   [phpMyAdmin](https://www.phpmyadmin.net/) - a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
-*   [pspg (⭐2k)](https://github.com/okbob/pspg) - provides a pager with enhanced visualization and navigation for tabular data. Originally implemented for PostgreSQL, but also supports MySQL.
-*   [SQLyog Community edition (⭐1.8k)](https://github.com/webyog/sqlyog-community/wiki/Downloads) - SQLyog Community edition. For Windows, works fine under wine in Mac and Linux
-*   [DBeaver (⭐30k)](https://github.com/dbeaver/dbeaver) - A cross-platform SQL and NoSQL database client.
+*   [pspg (⭐2.1k)](https://github.com/okbob/pspg) - provides a pager with enhanced visualization and navigation for tabular data. Originally implemented for PostgreSQL, but also supports MySQL.
+*   [SQLyog Community edition (⭐2k)](https://github.com/webyog/sqlyog-community/wiki/Downloads) - SQLyog Community edition. For Windows, works fine under wine in Mac and Linux
+*   [DBeaver (⭐34k)](https://github.com/dbeaver/dbeaver) - A cross-platform SQL and NoSQL database client.
 
 ### Backup
 
-*   [MyDumper (⭐1.9k)](https://github.com/maxbube/mydumper) - Logical, parallel backup/dumper tool for MySQL
+*   [MyDumper (⭐2.1k)](https://github.com/maxbube/mydumper) - Logical, parallel backup/dumper tool for MySQL
 *   [MySQLDumper](http://www.mysqldumper.net/) - open-source web based backup tool - useful for shared webhosting
 *   [Percona Xtrabackup](http://www.percona.com/doc/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
 
 ### Benchmarking
 
 *   [iibench-mysql (⭐45)](https://github.com/tmcallaghan/iibench-mysql) - Java based version of the Index Insertion Benchmark for MySQL/Percona/MariaDB.
-*   [Sysbench (⭐5k)](https://github.com/akopytov/sysbench) - a modular, cross-platform and multi-threaded benchmark tool.
-*   [TPCC-MySQL](https://code.launchpad.net/\~percona-dev/perconatools/tpcc-mysql) - A port of the popular [TPCC](http://www.tpc.org/tpcc/) benchmark for MySQL.
+*   [Sysbench (⭐5.4k)](https://github.com/akopytov/sysbench) - a modular, cross-platform and multi-threaded benchmark tool.
+*   [TPCC-MySQL](https://code.launchpad.net/~percona-dev/perconatools/tpcc-mysql) - A port of the popular [TPCC](http://www.tpc.org/tpcc/) benchmark for MySQL.
 
 ### ChatOps
 
@@ -1163,7 +1157,7 @@ Topics: Standards, Web Assembly\
 
 ### Configuration
 
-*   [mysql-compatibility-config (⭐95)](https://github.com/morgo/mysql-compatibility-config) - make MySQL configuration behave more like newer (or older) releases of MySQL.
+*   [mysql-compatibility-config (⭐96)](https://github.com/morgo/mysql-compatibility-config) - make MySQL configuration behave more like newer (or older) releases of MySQL.
 
 ### Connectors
 
@@ -1174,13 +1168,13 @@ Topics: Standards, Web Assembly\
 *   [Connector/Node.js](https://dev.mysql.com/downloads/connector/nodejs/) - Official Node.js driver for MySQL.
 *   [Connector/Python](https://dev.mysql.com/downloads/connector/python/) - a standardized database driver for Python platforms and development.
 *   [DBD::mysql](https://metacpan.org/pod/DBD::mysql) - MySQL driver for the Perl5 Database Interface.
-*   [go-sql-driver (⭐13k)](https://github.com/go-sql-driver/mysql) - a lightweight and fast MySQL-Driver for Go's (golang) database/sql package.
-*   [libAttachSQL (⭐32)](https://github.com/libattachsql/libattachsql) - libAttachSQL is a lightweight, non-blocking C API for MySQL servers.
+*   [go-sql-driver (⭐14k)](https://github.com/go-sql-driver/mysql) - a lightweight and fast MySQL-Driver for Go's (golang) database/sql package.
+*   [libAttachSQL (⭐31)](https://github.com/libattachsql/libattachsql) - libAttachSQL is a lightweight, non-blocking C API for MySQL servers.
 *   [MariaDB Java Client](https://mariadb.com/kb/en/mariadb/mariadb-connector-j/) - LGPL-licensed MariaDB Client Library for Java Applications.
-*   [mysqlclient-python (⭐2.2k)](https://github.com/PyMySQL/mysqlclient-python) - (Old) MySQL database connector for Python.
+*   [mysqlclient-python (⭐2.3k)](https://github.com/PyMySQL/mysqlclient-python) - (Old) MySQL database connector for Python.
 *   [node-mysql (⭐18k)](https://github.com/felixge/node-mysql) - A pure Nodejs Javascript client implementing the MySQL protocol.
 *   [PHP mysqlnd](https://dev.mysql.com/downloads/connector/php-mysqlnd/) - MySQL native driver for MySQL, deprecating older libmysql based driver.
-*   [PyMySQL (⭐7.2k)](https://github.com/PyMySQL/PyMySQL) - MySQL database connector for Python.
+*   [PyMySQL (⭐7.4k)](https://github.com/PyMySQL/PyMySQL) - MySQL database connector for Python.
 *   [Ruby Mysql2 gem (⭐2.2k)](https://github.com/brianmario/mysql2) - MySQL driver for Ruby and Rails projects.
 
 ### Deployment
@@ -1192,49 +1186,48 @@ Topics: Standards, Web Assembly\
 
 *   [Flywaydb](http://flywaydb.org/getstarted/) - Database migrations; Evolve your database schema easily and reliably across all your instances
 *   [Liquibase](http://www.liquibase.org/) - Source control for your database
-*   [Shift (⭐729)](https://github.com/square/shift) - An application that helps you run schema migrations on MySQL databases
+*   [Shift (⭐735)](https://github.com/square/shift) - An application that helps you run schema migrations on MySQL databases
 
 ### HA
 
 *   [Galera Cluster](http://galeracluster.com/products/) - a true Multimaster Cluster based on synchronous replication.
 *   [MHA](http://code.google.com/p/mysql-master-ha/) - Master High Availability Manager and tools for MySQL.
-*   [orchestrator (⭐4.8k)](https://github.com/github/orchestrator) - MySQL replication topology management and High Availability solution.
-*   [Percona Replication Manager (⭐78)](https://github.com/percona/percona-pacemaker-agents/) - Asynchronous MySQL replication manager agent for Pacemaker. Supports file and GTID based replication, geo-distributed clusters using booth.
-*   [replication-manager (⭐559)](https://github.com/signal18/replication-manager) - a high availability solution to manage MariaDB 10.x and MySQL & Percona Server 5.7 GTID replication topologies.
+*   [orchestrator (⭐5.2k)](https://github.com/github/orchestrator) - MySQL replication topology management and High Availability solution.
+*   [replication-manager (⭐601)](https://github.com/signal18/replication-manager) - a high availability solution to manage MariaDB 10.x and MySQL & Percona Server 5.7 GTID replication topologies.
 
 ### Proxy
 
 *   [MaxScale (⭐1.3k)](https://github.com/mariadb-corporation/MaxScale) - open-source, database-centric proxy.
-*   [Mixer (⭐745)](https://github.com/siddontang/mixer) - a MySQL proxy powered by Go which aims to supply a simple solution for MySQL sharding.
+*   [Mixer (⭐755)](https://github.com/siddontang/mixer) - a MySQL proxy powered by Go which aims to supply a simple solution for MySQL sharding.
 *   [MySQL Proxy](https://launchpad.net/mysql-proxy) - A simple program that sits between your client and MySQL server(s) that can monitor, analyze or transform their communication.
 *   [ProxySQL (⭐24)](https://github.com/renecannao/proxysql) - High performance proxy for MySQL.
 *   [MySQL Router](https://dev.mysql.com/doc/mysql-router/en/) - MySQL Router is part of InnoDB cluster, and is a lightweight middleware that provides transparent routing between your application and back-end MySQL Servers.
 
 ### Schema
 
-*   [common\_schema (⭐119)](https://github.com/shlomi-noach/common_schema) - DBA's framework for MySQL, providing a function library, views library and QueryScript interpreter.
-*   [sys (⭐811)](https://github.com/mysql/mysql-sys) - A collection of views, functions and procedures to help MySQL administrators get insight in to MySQL Database usage.
+*   [common\_schema (⭐123)](https://github.com/shlomi-noach/common_schema) - DBA's framework for MySQL, providing a function library, views library and QueryScript interpreter.
+*   [sys (⭐822)](https://github.com/mysql/mysql-sys) - A collection of views, functions and procedures to help MySQL administrators get insight in to MySQL Database usage.
 
 ### Security
 
-*   [Acra (⭐1.1k)](https://github.com/cossacklabs/acra) - SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system.
+*   [Acra (⭐1.2k)](https://github.com/cossacklabs/acra) - SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system.
 
 ### Server
 
-*   [MariaDB (⭐4.7k)](https://github.com/MariaDB/server) - Community developed fork of MySQL server.
-*   [MySQL Server & MySQL Cluster (⭐8.7k)](https://github.com/mysql/mysql-server) - Official Oracle's MySQL server & MySQL Cluster distribution.
+*   [MariaDB (⭐5k)](https://github.com/MariaDB/server) - Community developed fork of MySQL server.
+*   [MySQL Server & MySQL Cluster (⭐9.6k)](https://github.com/mysql/mysql-server) - Official Oracle's MySQL server & MySQL Cluster distribution.
 *   [Percona Server](https://launchpad.net/percona-server) - An enhanced, drop-in MySQL replacement.
-*   [TiDB (⭐33k)](https://github.com/pingcap/tidb) - A distributed HTAP database compatible with the MySQL protocol.
+*   [TiDB (⭐35k)](https://github.com/pingcap/tidb) - A distributed HTAP database compatible with the MySQL protocol.
 
 ### Sharding
 
 *   [jetpants (⭐1.1k)](https://github.com/tumblr/jetpants) - An automation suite for managing large range sharding clusters, by Tumblr.
-*   [vitess (⭐15k)](https://github.com/vitessio/vitess) - vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services.
+*   [vitess (⭐17k)](https://github.com/vitessio/vitess) - vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services.
 
 ### Toolkits
 
 *   [gh-ost (⭐11k)](https://github.com/github/gh-ost/) - GitHub's online schema migration for MySQL.
-*   [go-mysql (⭐3.9k)](https://github.com/siddontang/go-mysql) - A pure go library to handle MySQL network protocol and replication.
+*   [go-mysql (⭐4.2k)](https://github.com/siddontang/go-mysql) - A pure go library to handle MySQL network protocol and replication.
 *   [MySQL Utilities](https://dev.mysql.com/downloads/utilities/) - a collection of command-line utilities, written in Python, that are used for maintaining and administering MySQL servers, either individually, or within Replication hierarchies.
 *   [openark kit](http://code.openark.org/forge/openark-kit) - a set of utilities that solve everyday maintenance tasks, which may be complicated or time consuming to do by hand, written in Python.
 *   [Percona Toolkit](https://www.percona.com/software/mysql-tools/percona-toolkit) - a collection of advanced command-line tools to perform a variety of MySQL server and system tasks that are too difficult or complex to perform manually.
@@ -1249,45 +1242,45 @@ Topics: Standards, Web Assembly\
 
 ### e-books
 
-*   [SQL-exercise (⭐1.1k)](https://github.com/XD-DENG/SQL-exercise) - contains several SQL exercises, including the schema description figure, SQL code to build schema, questions and solutions in SQL. Based on wikibook [SQL Exercises](https://en.wikibooks.org/wiki/SQL_Exercises).
+*   [SQL-exercise (⭐1.2k)](https://github.com/XD-DENG/SQL-exercise) - contains several SQL exercises, including the schema description figure, SQL code to build schema, questions and solutions in SQL. Based on wikibook [SQL Exercises](https://en.wikibooks.org/wiki/SQL_Exercises).
 
-## [34. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [33. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Community / Workflow
 
 *   [ASP.NET](https://forums.asp.net)
 *   [Trending .NET repositories on GitHub today](https://github.com/trending?l=csharp)
 
-## [35. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [34. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
-*   [deno-opn (⭐38)](https://github.com/hashrock/deno-opn) - Opens stuff like websites, files, executables. Cross-platform.
+*   [deno-opn (⭐39)](https://github.com/hashrock/deno-opn) - Opens stuff like websites, files, executables. Cross-platform.
 
-## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [35. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Database
 
-*   [SOCI (⭐1.2k)](https://github.com/SOCI/soci) - A database abstraction layer for C++. \[Boost]
+*   [SOCI (⭐1.3k)](https://github.com/SOCI/soci) - A database abstraction layer for C++. \[Boost]
 
 ### Serialization
 
-*   [nanopb (⭐3.6k)](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
+*   [nanopb (⭐3.7k)](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
 
-## [37. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [36. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Testing / Misc
 
 *   [Mail Tester](https://www.mail-tester.com/) - Test the spammyness of your emails.
 
-## [38. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
+## [37. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
 ### Contributors
 
 *   [Luke Singham](https://lukesingham.com/)
 *   [Pascal Bugnion](https://pascalbugnion.net)
 
-## [39. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [38. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Tutorial
 
@@ -1305,7 +1298,7 @@ Topics: Standards, Web Assembly\
 
 ### State management / Redux / ELM / Dependency Injection
 
-*   [Inject (⭐862)](https://github.com/google/inject.dart) <!--stargazers:google/inject.dart--> - Compile-time dependency injection by Google
+*   [Inject (⭐867)](https://github.com/google/inject.dart) <!--stargazers:google/inject.dart--> - Compile-time dependency injection by Google
 
 ### Data / Redux / ELM / Dependency Injection
 
@@ -1313,22 +1306,22 @@ Topics: Standards, Web Assembly\
 
 ### Premium / Game Engine resources
 
-*   [History Of Everything (⭐6.2k)](https://github.com/2d-inc/HistoryOfEverything) <!--stargazers:2d-inc/HistoryOfEverything--> - Animated vertical timeline of humanity by [2D, Inc](https://www.2dimensions.com/)
+*   [History Of Everything (⭐6.3k)](https://github.com/2d-inc/HistoryOfEverything) <!--stargazers:2d-inc/HistoryOfEverything--> - Animated vertical timeline of humanity by [2D, Inc](https://www.2dimensions.com/)
 
-## [40. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
+## [39. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
 ### Database Drivers
 
 *   [Tortoise ORM (⭐3.3k)](https://github.com/tortoise/tortoise-orm) - native multi-backend ORM with Django-like API and easy relations management.
 
-## [41. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [40. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### General
 
 *   [Serverless.com](http://serverless.com) - Serverless.com homepage.
 *   [Documentation](http://docs.serverless.com) - Serverless.com Documentation.
 
-## [42. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [41. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Talks
 

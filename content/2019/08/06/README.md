@@ -34,7 +34,7 @@
 
 ### Log Management
 
-*   [sematext.com](https://sematext.com/logsene) — Free up to 500 MB/day, 7 days retention
+*   [sematext.com](https://sematext.com/logsene) — Free up to 500 MB/day, seven days retention
 
 ### Crash and Exception Handling
 
@@ -50,12 +50,12 @@
 
 ### Storage and Media Processing
 
-*   [filestack.com](https://www.filestack.com/) — File picker, transform and deliver, free for 250 files, 500 transformations and 3 GB bandwidth
+*   [filestack.com](https://www.filestack.com/) — File picker, transform, and deliver, free for 250 files, 500 transformations, and 3 GB bandwidth
 *   [image-charts.com](https://www.image-charts.com/) — Unlimited image chart generation with a watermark
 
 ### Data Visualization on Maps
 
-*   [maptiler.com](https://www.maptiler.com/cloud/) — Vector maps, map services and SDKs for map visualisation. Free vector tiles with weekly update and four map styles.
+*   [maptiler.com](https://www.maptiler.com/cloud/) — Vector maps, map services and SDKs for map visualization. Free vector tiles with weekly updates and four map styles.
 
 ### Analytics, Events and Statistics
 
@@ -63,11 +63,11 @@
 
 ### Visitor Session Recording
 
-*   [mousestats.com](https://www.mousestats.com/) — 100 sessions/month free for 1 website
+*   [mousestats.com](https://www.mousestats.com/) — 100 sessions/month free for one website
 
 ### Miscellaneous
 
-*   [fullcontact.com](https://www.fullcontact.com/developer/pricing/) — Help your users know more about their contacts by adding social profile into your app. 500 free Person API matches/month
+*   [fullcontact.com](https://www.fullcontact.com/developer/pricing/) — Help your users know more about their contacts by adding social profile to your app. 500 free Person API matches/month
 
 ## [5. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
@@ -79,15 +79,11 @@
 
 ### Async
 
-*   [LinqToAwait ★99 (⭐114)](https://github.com/anaisbetts/LinqToAwait) - A Task-based LINQ designed to work with async/await.
+*   [LinqToAwait ★99 (⭐113)](https://github.com/anaisbetts/LinqToAwait) - A Task-based LINQ designed to work with async/await.
 
 ### MVVM
 
 *   [Wires ★28 (⭐34)](https://github.com/dotnet-ad/Wires) - Wires is a simple binding library.
-
-### UI
-
-*   [Essential UI Kit ★130 (⭐1k)](https://github.com/syncfusion/essential-ui-kit-for-xamarin.forms) - Beautiful XAML pages for Xamarin.Forms app.
 
 ## [7. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
 

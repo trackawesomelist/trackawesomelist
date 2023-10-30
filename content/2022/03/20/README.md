@@ -10,23 +10,23 @@
 
 ### Applications / Web
 
-*   [cfal/tobaru (⭐116)](https://github.com/cfal/tobaru) - Port forwarder with allowlists, IP and TLS SNI/ALPN rule-based routing, iptables support, round-robin forwarding (load balancing), and hot reloading.
+*   [cfal/tobaru (⭐135)](https://github.com/cfal/tobaru) - Port forwarder with allowlists, IP and TLS SNI/ALPN rule-based routing, iptables support, round-robin forwarding (load balancing), and hot reloading.
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Storage and Media Processing
 
-*   [getpantry.cloud](https://getpantry.cloud/) — A simple JSON data storage API that's perfect for personal projects, hackathons and mobile apps!
+*   [getpantry.cloud](https://getpantry.cloud/) — A simple JSON data storage API perfect for personal projects, hackathons, and mobile apps!
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [valet (⭐8)](https://github.com/NasirNobin/zsh-valet/) - Reads `.valetphprc` from the project root and will switch to that PHP version automatically.
+*   [valet (⭐9)](https://github.com/NasirNobin/zsh-valet/) - Reads `.valetphprc` from the project root and will switch to that PHP version automatically.
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [tinygo (⭐13)](https://github.com/sago35/tinygo-autocmpl) - Add tab completions for [tinygo](https://tinygo.org/).
+*   [tinygo (⭐12)](https://github.com/sago35/tinygo-autocmpl) - Add tab completions for [tinygo](https://tinygo.org/).
 
 ## [4. Awesome OpenSourcePhotography](/content/ibaaj/awesome-OpenSourcePhotography/README.md)
 
@@ -175,11 +175,7 @@
 
 ### Files and Directories / Files
 
-*   [chokidar-cli (⭐754)](https://github.com/open-cli-tools/chokidar-cli) - CLI to watch file system changes.
-
-### Just for Fun / Image Conversion
-
-*   [pokeget (⭐19)](https://github.com/talwat/pokeget) - Display sprites of pokemon.
+*   [chokidar-cli (⭐775)](https://github.com/open-cli-tools/chokidar-cli) - CLI to watch file system changes.
 
 ## [6. Computer Science](/content/ossu/computer-science/README.md)
 
@@ -193,7 +189,7 @@
 
 ### Networking
 
-*   [gldap (⭐87)](https://github.com/jimlambrt/gldap) - gldap provides an ldap server implementation and you provide handlers for its ldap operations.
+*   [gldap (⭐100)](https://github.com/jimlambrt/gldap) - gldap provides an ldap server implementation and you provide handlers for its ldap operations.
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 
@@ -218,7 +214,7 @@
 *   :scroll: [PinDemonium: A DBI-based generic unpacker for Windows executables](https://www.blackhat.com/docs/us-16/materials/us-16-Mariani-Pindemonium-A-Dbi-Based-Generic-Unpacker-For-Windows-Executables-wp.pdf)
 *   :earth\_americas: [Portable executable (PE)](https://wiki.osdev.org/PE)
 *   :clipboard: [Win32 portable executable packing uncovered](https://securitylabs.websense.com/content/Assets/HistoryofPackingTechnology.pdf)
-*   :pushpin: [Writing a simple PE packer in detail (⭐12)](https://github.com/levanvn/Packer_Simple-1)
+*   :pushpin: [Writing a simple PE packer in detail (⭐13)](https://github.com/levanvn/Packer_Simple-1)
 
 ### :books: Literature / Scientific Research
 
@@ -298,7 +294,7 @@
 *   [![](https://shields.tosdr.org/en_309.svg)](https://tosdr.org/en/service/309)
 *   [![](https://shields.tosdr.org/en_860.svg)](https://tosdr.org/en/service/860)
 *   [![](https://shields.tosdr.org/en_591.svg)](https://tosdr.org/en/service/591)
-*   [Brave Search](https://search.brave.com) - A privacy respecting search engine with its own index, which for the most part doesn't rely on search engines like Google or Bing, but [falls back on them if not enough results are found](https://search.brave.com/help/independence).
+*   [Brave Search](https://search.brave.com) - A privacy respecting search engine with [its own independent index](https://brave.com/search-independence/).
 
 ### LBRY and Odysee
 
@@ -306,11 +302,11 @@
 
 ### YouTube
 
-*   [Yattee (⭐1.3k)](https://github.com/yattee/yattee) - Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped.
+*   [Yattee (⭐1.7k)](https://github.com/yattee/yattee) - Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped.
 
 ### Reddit
 
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Dawn (⭐444)](https://github.com/Tunous/Dawn) - A gesture driven, open source reddit client for android
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Dawn (⭐447)](https://github.com/Tunous/Dawn) - A gesture driven, open source reddit client for android
 
 ### Teamworking Tools
 

@@ -10,7 +10,7 @@
 
 ### Tools / Python
 
-*   [behave-webdriver (⭐46)](https://github.com/spyoungtech/behave-webdriver) behavior driven testing with Selenium and Python.
+*   [behave-webdriver (⭐52)](https://github.com/spyoungtech/behave-webdriver) behavior driven testing with Selenium and Python.
 
 ## [2. Awesome Indie](/content/mezod/awesome-indie/README.md)
 
@@ -27,16 +27,12 @@
 
 ### Tools / Static Analysis Tools
 
-*   [Androwarn (⭐441)](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviours developed by an Android application.
+*   [Androwarn (⭐450)](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviors developed by an Android application.
 
 ### Tools / Dynamic Analysis Tools
 
 *   [Android DBI frameowork](http://www.mulliner.org/blog/blosxom.cgi/security/androiddbiv02.html)
 *   [Androl4b (⭐1k)](https://github.com/sh4hin/Androl4b)- A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis
-
-### Tools / Market Crawlers
-
-*   [Google play crawler (Node) (⭐264)](https://github.com/dweinstein/node-google-play) - get app details and download apps from official Google Play Store.
 
 ### Academic/Research/Publications/Books / Research Papers
 
@@ -44,13 +40,13 @@
 
 ### Academic/Research/Publications/Books / Others
 
-*   [OWASP Mobile Security Testing Guide Manual (⭐10k)](https://github.com/OWASP/owasp-mstg)
+*   [OWASP Mobile Security Testing Guide Manual (⭐11k)](https://github.com/OWASP/owasp-mstg)
 
 ## [4. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Files and Directories / File Managers
 
-*   [lf (⭐5.8k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
+*   [lf (⭐6.3k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
 
 ## [5. Awesome Gif](/content/davisonio/awesome-gif/README.md)
 
@@ -72,7 +68,7 @@
 
 ### Data Visualization
 
-*   [ApexCharts.rb (⭐453)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
+*   [ApexCharts.rb (⭐466)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
 
 ## [8. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
@@ -107,12 +103,12 @@
 
 ### Frameworks, Libraries and Tools / Distributed Computing
 
-*   [Foundatio (⭐1.6k)](https://github.com/exceptionless/Foundatio) - Pluggable foundation blocks for building distributed apps
-*   [Rafty (⭐196)](https://github.com/ThreeMammals/Rafty) - RAFT consensus in .NET Core
-*   [Obvs (⭐327)](https://github.com/christopherread/Obvs) - An observable microservice bus .NET library that wraps the underlying transport in simple Rx based interfaces
-*   [Ocelot (⭐7.3k)](https://github.com/ThreeMammals/Ocelot) - API Gateway created using .NET Core
-*   [OpenTracing (⭐514)](https://github.com/opentracing/opentracing-csharp) - Vendor-neutral APIs and instrumentation for distributed tracing
-*   [Polly (⭐11k)](https://github.com/App-vNext/Polly) - .NET 3.5 / 4.0 / 4.5 / PCL library that allows developers to express transient exception and fault handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker in a fluent manner
+*   [Foundatio (⭐1.8k)](https://github.com/exceptionless/Foundatio) - Pluggable foundation blocks for building distributed apps
+*   [Rafty (⭐194)](https://github.com/ThreeMammals/Rafty) - RAFT consensus in .NET Core
+*   [Obvs (⭐332)](https://github.com/christopherread/Obvs) - An observable microservice bus .NET library that wraps the underlying transport in simple Rx based interfaces
+*   [Ocelot (⭐7.9k)](https://github.com/ThreeMammals/Ocelot) - API Gateway created using .NET Core
+*   [OpenTracing (⭐519)](https://github.com/opentracing/opentracing-csharp) - Vendor-neutral APIs and instrumentation for distributed tracing
+*   [Polly (⭐12k)](https://github.com/App-vNext/Polly) - .NET 3.5 / 4.0 / 4.5 / PCL library that allows developers to express transient exception and fault handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker in a fluent manner
 *   [ProxyKit (⭐1.1k)](https://github.com/damianh/ProxyKit) - Toolkit to create code-first HTTP reverse proxies on ASP.NET Core
 
 ## [11. Awesome React Native](/content/jondot/awesome-react-native/README.md)

@@ -14,11 +14,11 @@
 
 ### Communication with server / Mouse Events
 
-*   [query (⭐34k)](https://github.com/TanStack/query) - [docs](https://tanstack.com/query/v4) Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
+*   [query (⭐37k)](https://github.com/TanStack/query) - [docs](https://tanstack.com/query/v4) Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
 
 ### Integrations with Third Party Services / Mouse Events
 
-*   [react-firebase-hooks (⭐3.3k)](https://github.com/csfrequency/react-firebase-hooks) - Hooks to integrate firebase in your application.
+*   [react-firebase-hooks (⭐3.4k)](https://github.com/csfrequency/react-firebase-hooks) - Hooks to integrate firebase in your application.
 
 ## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -38,18 +38,18 @@
 
 ### Authentication and OAuth
 
-*   [keto (⭐4k)](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
+*   [keto (⭐4.3k)](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Major Cloud Providers
 
 *   [Google Cloud Platform](https://cloud.google.com)
-    *   App Engine - 28 frontend instance hours per day, 9 backend instance hours per day
+    *   App Engine - 28 frontend instance hours per day, nine backend instance hours per day
     *   Cloud Firestore - 1GB storage, 50,000 reads, 20,000 writes, 20,000 deletes per day
     *   Compute Engine - 1 non-preemptible e2-micro, 30GB HDD, 5GB snapshot storage (restricted to certain regions), 1 GB network egress from North America to all region destinations (excluding China and Australia) per month
     *   Cloud Storage - 5GB, 1GB network egress
-    *   Cloud Shell - Web-based Linux shell/basic IDE with 5GB of persistent storage. 60 hours limit per week
+    *   Cloud Shell - Web-based Linux shell/primary IDE with 5GB of persistent storage. 60 hours limit per week
     *   Cloud Pub/Sub - 10GB of messages per month
     *   Cloud Functions - 2 million invocations per month (includes both background and HTTP invocations)
     *   Cloud Run - 2 million requests per month, 360,000 GB-seconds memory, 180,000 vCPU-seconds of compute time, 1 GB network egress from North America per month
@@ -78,23 +78,23 @@
 
 ### Display / GUI
 
-*   [micropython-nextion (⭐8)](https://github.com/brainelectronics/micropython-nextion) - Control Nextion displays using MicroPython.
+*   [micropython-nextion (⭐9)](https://github.com/brainelectronics/micropython-nextion) - Control Nextion displays using MicroPython.
 
 ## [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Plugins for Minecraft
 
-*   [No-Chat-Reports (⭐878)](https://github.com/Aizistral-Studios/No-Chat-Reports) - Strips cryptographic signatures from player messages, making it impossible to track and associate them with your Mojang/Microsoft account.
+*   [No-Chat-Reports (⭐904)](https://github.com/Aizistral-Studios/No-Chat-Reports) - A spigot plugin strips cryptographic signatures from player messages, but it breaks any chat plugin by design.
 
 ### Audio
 
-*   [Jetispot (⭐261)](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android built on librespot-java + Jetpack Compose
+*   [Jetispot (⭐296)](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android built on librespot-java + Jetpack Compose
 
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
-*   [ant-design-vue (⭐18k)](https://github.com/vueComponent/ant-design-vue) - An enterprise-class UI components based on Ant Design and Vue 3.2.0
+*   [ant-design-vue (⭐19k)](https://github.com/vueComponent/ant-design-vue) - An enterprise-class UI components based on Ant Design and Vue 3.2.0
 
 ## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Queue
 
-*   [SlimMessageBus (⭐362)](https://github.com/zarusz/SlimMessageBus) - Lightweight message bus with transports for popular messaging systems (Kafka, Redis, Azure Service Bus, and others) and in-memory communication.
+*   [SlimMessageBus (⭐397)](https://github.com/zarusz/SlimMessageBus) - Lightweight message bus with transports for popular messaging systems (Kafka, Redis, Azure Service Bus, and others) and in-memory communication.
 
 ## [2. Awesome Mdbootstrap](/content/mdbootstrap/awesome-mdbootstrap/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Other Free Resources
 
-*   [WrapPixel](https://www.wrappixel.com/) — Download High Quality Free and Premium Admin dashboard template created with Angular, React, VueJs, NextJs and NuxtJs!
+*   [WrapPixel](https://www.wrappixel.com/) — Download High Quality Free and Premium Admin dashboard template created with Angular, React, VueJs, NextJS, and NuxtJS!
 
 ## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -70,7 +70,7 @@
 
 ### SaaS Tools / Symfony2
 
-*   [Nango (⭐1.3k)](https://github.com/NangoHQ/nango) - Native integrations framework to consume REST APIs (open-source).
+*   [Nango (⭐3.2k)](https://github.com/NangoHQ/nango) - Native integrations framework to consume REST APIs (open-source).
 
 ## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -82,20 +82,20 @@
 
 *   [Zotero](https://www.zotero.org/) - ***Digital Scholar***. For reference management to manage bibliographic data and research related materials.
 
-### Causality / Democratization
+### Causality / Democratization of Science
 
 *   [Reasoning with cause and effect](https://ftp.cs.ucla.edu/pub/stat_ser/R265.pdf) - 1998. Judea Pearl's tutorials on causal reasoning with operations on Bayesian networks.
 
 ### Stanford / Commonsense Knowledgebase
 
 *   [Li Fei-Fei](https://profiles.stanford.edu/fei-fei-li) - ***Computer Science Department, Human-Centered AI Institute, Stanford***, [Stanford Vision and Learning Lab](https://svl.stanford.edu/) - ***Stanford***.
-*   [Noah Goodman](https://cocolab.stanford.edu/ndg.html) - ***Stanford***, [Computation & Cognition Lab (CoCoLab)](https://cocolab.stanford.edu/) - ***Department of Psychology, Computer Science Department, Stanford***.
-*   [Chelsea Finn](http://ai.stanford.edu/~cbfinn/) - ***Stanford***, [Intelligence through Robotic Interaction at Scale (IRIS Group)](https://irislab.stanford.edu/) - ***Computer Science Department, Stanford***.
+*   [Noah Goodman](https://cocolab.stanford.edu/ndg.html) - ***Department of Psychology, Computer Science Department, Stanford***, [Computation & Cognition Lab (CoCoLab)](https://cocolab.stanford.edu/) - ***Stanford***.
+*   [Chelsea Finn](http://ai.stanford.edu/~cbfinn/) - ***Computer Science Department, Stanford***, [Intelligence through Robotic Interaction at Scale (IRIS Group)](https://irislab.stanford.edu/) - ***Stanford***.
 *   [Jiajun Wu](https://jiajunwu.com/) - ***Computer Science Department, Stanford***.
 
 ### Harvard / Commonsense Knowledgebase
 
-*   [Fiery Cushman](https://psychology.fas.harvard.edu/people/fiery-cushman) - ***Harvard***, [Moral Psychology Research Lab](https://cushmanlab.fas.harvard.edu/) - ***Department of Psychology, Harvard***.
+*   [Fiery Cushman](https://psychology.fas.harvard.edu/people/fiery-cushman) - ***Department of Psychology, Harvard***, [Moral Psychology Research Lab](https://cushmanlab.fas.harvard.edu/) - ***Harvard***.
 
 ---
 

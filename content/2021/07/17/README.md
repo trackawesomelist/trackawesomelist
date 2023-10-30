@@ -35,8 +35,7 @@
 
 ### Plugins
 
-*   🛑💼 [Caret Color (⭐4)](https://github.com/GraxMonzo/tailwind-caret-color) - Adds `caret` color utilities.
-*   🛑🧬 [Pseudo (⭐38)](https://github.com/Log1x/tailwindcss-pseudo) - Adds custom variants to Tailwind CSS's configuration.
+*   🛑🧬 [Pseudo (⭐40)](https://github.com/Log1x/tailwindcss-pseudo) - Adds custom variants to Tailwind CSS's configuration.
 
 ## [5. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -5841,7 +5840,7 @@
 
 ### Reflection
 
-*   [config-loader (⭐146)](https://github.com/netcan/config-loader) - A C++17 static reflection framework, from parse configuration file to native data structure. \[MIT]
+*   [config-loader (⭐171)](https://github.com/netcan/config-loader) - A C++17 static reflection framework, from parse configuration file to native data structure. \[MIT]
 
 ---
 

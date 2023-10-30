@@ -26,7 +26,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-sweet-calendar (⭐35)](https://github.com/maryayi/vue-sweet-calendar) - A simple and sweet vue.js calendar
+*   [vue-sweet-calendar (⭐34)](https://github.com/maryayi/vue-sweet-calendar) - A simple and sweet vue.js calendar
 
 ## [4. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Automation / DSL
 
-*   [jmeter-as-code (⭐29)](https://github.com/anasoid/jmeter-as-code) - Simple wrapper for JMeter to write and execute JMeter tests with Java.
+*   [jmeter-as-code (⭐30)](https://github.com/anasoid/jmeter-as-code) - Simple wrapper for JMeter to write and execute JMeter tests with Java.
 
 ## [6. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -49,20 +49,20 @@
 
 ### Boilerplate / Other Tools
 
-*   [openapi-python-client (⭐603)](https://github.com/openapi-generators/openapi-python-client) - Generate modern FastAPI Python clients (via FastAPI) from OpenAPI.
+*   [openapi-python-client (⭐791)](https://github.com/openapi-generators/openapi-python-client) - Generate modern FastAPI Python clients (via FastAPI) from OpenAPI.
 
 ## [7. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Admin
 
-*   [django-semantic-admin (⭐78)](https://github.com/globophobe/django-semantic-admin) - Django Semantic UI admin theme.
-*   [django-baton (⭐724)](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5.
+*   [django-semantic-admin (⭐91)](https://github.com/globophobe/django-semantic-admin) - Django Semantic UI admin theme.
+*   [django-baton (⭐780)](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5.
 
 ## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [jubnzv/mdeval.nvim (⭐128)](https://github.com/jubnzv/mdeval.nvim) - Evaluate code blocks inside markdown documents.
+*   [jubnzv/mdeval.nvim (⭐138)](https://github.com/jubnzv/mdeval.nvim) - Evaluate code blocks inside markdown documents.
 
 ## [9. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
@@ -80,8 +80,8 @@
 
 ### Artifact Repos
 
-*   [Artifactory](https://jfrog.com/start-free/) - An artifact repository that supports numerous package formats like Maven, Docker, Cargo, Helm, PyPI, CocoaPods, and GitLFS. Incudes package scanning tool XRay and CI/CD tool Pipelines (formerly Shippable) with a free tier of 2,000 CI/CD minutes per month.
-*   [packagecloud.io](https://packagecloud.io/users/new?plan=free_usage_plan) — Easy to use repository hosting for: Maven, RPM, DEB, PyPi, NPM, and RubyGem packages (has free tier).
+*   [Artifactory](https://jfrog.com/start-free/) - An artifact repository that supports numerous package formats like Maven, Docker, Cargo, Helm, PyPI, CocoaPods, and GitLFS. Includes package scanning tool XRay and CI/CD tool Pipelines (formerly Shippable) with a free tier of 2,000 CI/CD minutes per month.
+*   [packagecloud.io](https://packagecloud.io/users/new?plan=free_usage_plan) — Easy to use repository hosting for Maven, RPM, DEB, PyPi, NPM, and RubyGem packages (has free tier).
 
 ---
 

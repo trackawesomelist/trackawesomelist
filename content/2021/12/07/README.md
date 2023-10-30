@@ -8,7 +8,7 @@
 
 ## [1. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Networking and Communication Middleware / MIT
+### Networking and Communication Middleware / Apache License
 
 *   [tomi-4-ada](https://sourceforge.net/projects/tomi4ada) - Wrappers for various client/server and pub/sub messaging protocols (AMQP, STOMP and ZeroMQ), focusing exclusively on text message communications.
 *   [mosquitto-ada (⭐5)](https://github.com/persan/mosquitto-ada) - Binding for the MQTT broker Mosquitto.
@@ -50,7 +50,7 @@
 
 *   [DevDocs](https://devdocs.io/) is an all-in-one API documentation reader with a fast, organized, and consistent interface.
 *   [docco](http://ashkenas.com/docco/) is a quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.
-*   [Beautiful docs (⭐299)](https://github.com/beautiful-docs/beautiful-docs) is a documentation viewer based on markdown files.
+*   [Beautiful docs (⭐298)](https://github.com/beautiful-docs/beautiful-docs) is a documentation viewer based on markdown files.
 
 ### Reactive Programming / Runner
 
@@ -99,7 +99,7 @@
 
 *   [flowplayer (⭐1.9k)](https://github.com/flowplayer/flowplayer) - The HTML5 video player for the web
     <https://flowplayer.com/>
-*   [mediaelement (⭐8k)](https://github.com/johndyer/mediaelement) - HTML5 <audio> or <video> player with Flash and Silverlight shims that mimics the HTML5 MediaElement API, enabling a consistent UI in all browsers. <http://www.mediaelementjs.com/>
+*   [mediaelement (⭐8.1k)](https://github.com/johndyer/mediaelement) - HTML5 <audio> or <video> player with Flash and Silverlight shims that mimics the HTML5 MediaElement API, enabling a consistent UI in all browsers. <http://www.mediaelementjs.com/>
 
 ### Animations / Other
 
@@ -110,9 +110,6 @@
 *   [Logical Or Not](https://gabinaureche.com/logicalornot/) - A game about JavaScript specificities.
 *   [list.js (⭐11k)](https://github.com/javve/list.js) - Adds search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
     <https://listjs.com>
-
-### Podcasts / Other
-
 *   [SJSJ (⭐2.3k)](https://github.com/KittyGiraudel/SJSJ) - Simplified JavaScript Jargon is a community-driven attempt at explaining the loads of buzzwords making the current JavaScript ecosystem in a few simple words.
 
 ## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
@@ -124,7 +121,7 @@
 
 ### UI Libraries, Components & Templates
 
-*   📁 [Admin One Vue 3 (⭐1.4k)](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
+*   📁 [Admin One Vue 3 (⭐1.7k)](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
 
 ## [5. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
@@ -141,13 +138,13 @@
 
 ### Kotlin / Deep Learning
 
-*   [KotlinDL (⭐1.2k)](https://github.com/JetBrains/KotlinDL) - Deep learning framework written in Kotlin.
+*   [KotlinDL (⭐1.3k)](https://github.com/JetBrains/KotlinDL) - Deep learning framework written in Kotlin.
 
 ## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Top / Game Engine resources
 
-*   [Mooltik (⭐170)](https://github.com/ruskakimov/mooltik) <!--stargazers:ruskakimov/mooltik--> - Animation app for making cartoons by [Rustem Kakimov](https://github.com/ruskakimov)
+*   [Mooltik (⭐182)](https://github.com/ruskakimov/mooltik) <!--stargazers:ruskakimov/mooltik--> - Animation app for making cartoons by [Rustem Kakimov](https://github.com/ruskakimov)
 
 ## [8. Jstips](/content/loverajoel/jstips/README.md)
 
@@ -161,13 +158,13 @@
 
 ### Projects Using Vue.js / Commercial Products
 
-*   [KodaDot (⭐451)](https://github.com/kodadot/nft-gallery) - NFT Marketplace on Polkadot funded as public good, written in Vue.js
+*   [KodaDot (⭐508)](https://github.com/kodadot/nft-gallery) - NFT Marketplace on Polkadot funded as public good, written in Vue.js
 
 ## [10. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Tools
 
-*   [stressberry (⭐255)](https://github.com/nschloe/stressberry) - Stress test your Raspberry Pi and plot temperatures.
+*   [stressberry (⭐287)](https://github.com/nschloe/stressberry) - Stress test your Raspberry Pi and plot temperatures.
 
 ## [11. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -195,7 +192,7 @@
 
 ### Productivity / Finance
 
-*   [ledger](https://ledger-cli.org/) - Powerful, double-entry accounting system on the terminal
+*   [ledger](https://ledger-cli.org/) - Powerful, double-entry accounting system.
 
 ### Productivity / Calendars
 
@@ -204,11 +201,11 @@
 
 ### Utilities / Calendars
 
-*   [deadlink (⭐124)](https://github.com/nschloe/deadlink) - Find dead links in files.
+*   [deadlink (⭐132)](https://github.com/nschloe/deadlink) - Find dead links in files.
 
 ### Utilities / System Interaction Utilities
 
-*   [tiptop (⭐1.4k)](https://github.com/nschloe/tiptop) - System monitor.
+*   [tiptop (⭐1.5k)](https://github.com/nschloe/tiptop) - System monitor.
 
 ### Command Line Learning / Internet Speedtest
 

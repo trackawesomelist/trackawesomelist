@@ -2,7 +2,7 @@
 
 ⚡️ A collection of tips to help take your CSS skills pro 🦾
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/AllThingsSmitty/css-protips/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) · ⭐ 23K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/AllThingsSmitty/css-protips/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) · ⭐ 25K · 🏷️ Front-End Development
 
 [ [Daily](/content/AllThingsSmitty/css-protips/README.md) / [Weekly](/content/AllThingsSmitty/css-protips/week/README.md) / Overview ]
 
@@ -16,7 +16,7 @@
 
 A collection of tips to help take your CSS skills pro.
 
-> For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists (⭐223k)](https://github.com/sindresorhus/awesome/).
+> For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists (⭐258k)](https://github.com/sindresorhus/awesome/).
 
 ## Table of Contents
 
@@ -49,7 +49,7 @@ A collection of tips to help take your CSS skills pro.
 20. [Use `rem` for Global Sizing; Use `em` for Local Sizing](#use-rem-for-global-sizing-use-em-for-local-sizing)
 21. [Hide Autoplay Videos That Aren't Muted](#hide-autoplay-videos-that-arent-muted)
 22. [Use `:root` for Flexible Type](#use-root-for-flexible-type)
-23. [Set `font-size` on Form Elements for a Better Mobile Experience](#set-font-size-on-form-elements-for-a-better-mobile-experience)
+23. [Inherit `font` on Form Elements for a Better Mobile Experience](#inherit-font-on-form-elements-for-a-better-mobile-experience)
 24. [Use Pointer Events to Control Mouse Events](#use-pointer-events-to-control-mouse-events)
 25. [Set `display: none` on Line Breaks Used as Spacing](#set-display-none-on-line-breaks-used-as-spacing)
 26. [Use `:empty` to Hide Empty HTML Elements](#use-empty-to-hide-empty-html-elements)
@@ -253,7 +253,7 @@ body {
 
 Want to center something else? Vertically, horizontally...anything, anytime, anywhere? CSS-Tricks has [a nice write-up](https://css-tricks.com/centering-css-complete-guide/) on doing all of that.
 
-**Note:** Watch for some [buggy behavior (⭐13k)](https://github.com/philipwalton/flexbugs#3-min-height-on-a-flex-container-wont-apply-to-its-flex-items) with flexbox in IE11.
+**Note:** Watch for some [buggy behavior (⭐14k)](https://github.com/philipwalton/flexbugs#3-min-height-on-a-flex-container-wont-apply-to-its-flex-items) with flexbox in IE11.
 
 #### [Demo](http://codepen.io/AllThingsSmitty/pen/GqmGqZ)
 
@@ -562,20 +562,20 @@ body {
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
-### Set `font-size` on Form Elements for a Better Mobile Experience
+### Inherit `font` on Form Elements for a Better Mobile Experience
 
-To avoid mobile browsers (iOS Safari, *et al*.) from zooming in on HTML form elements when a `<select>` drop-down is tapped, add `font-size` to the selector rule:
+Some form controls do not inherit typographical styles by default. To avoid mobile browsers (iOS Safari, *et al*.) from zooming in on HTML form elements when a `<select>` drop-down is tapped, and to mitigate styling inconsistencies across browsers, set the `font` rule to `inherit`:
 
 ```css
-input[type="text"],
-input[type="number"],
+input,
+button,
 select,
 textarea {
-  font-size: 16px;
+  font: inherit;
 }
 ```
 
-:dancer:
+Learn more in [MDN's guide to styling web forms](https://developer.mozilla.org/en-US/docs/Learn/Forms/Styling_web_forms).
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -630,21 +630,21 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 **Note:** I've had less time available to maintain the growing list of translated tips; adding a new tip requires including it with over a dozen translations. For that reason, translated README files may not include all the tips listed on the main README file.
 
-*   [简体中文 (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
-*   [正體中文 (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-TW)
-*   [Deutsch (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/de-DE)
-*   [Español (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/es-ES)
-*   [Français (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/fr-FR)
-*   [λληνικά (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gr-GR)
-*   [ગુજરાતી (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gu-IND)
-*   [Italiano (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/it-IT)
-*   [日本語 (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ja-JP)
-*   [한국어 (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ko-KR)
-*   [Polskie (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pl-PL)
-*   [Português do Brasil (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR)
-*   [Português do Europe (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-PT)
-*   [Русский (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU)
-*   [Tiếng Việt (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/vn-VN)
+*   [简体中文 (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
+*   [正體中文 (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-TW)
+*   [Deutsch (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/de-DE)
+*   [Español (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/es-ES)
+*   [Français (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/fr-FR)
+*   [λληνικά (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gr-GR)
+*   [ગુજરાતી (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gu-IND)
+*   [Italiano (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/it-IT)
+*   [日本語 (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ja-JP)
+*   [한국어 (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ko-KR)
+*   [Polskie (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pl-PL)
+*   [Português do Brasil (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR)
+*   [Português do Europe (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-PT)
+*   [Русский (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU)
+*   [Tiếng Việt (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/vn-VN)
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 

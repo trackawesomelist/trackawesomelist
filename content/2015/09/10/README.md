@@ -10,7 +10,7 @@
 
 ### Queue
 
-*   [queuex (⭐10)](https://github.com/falood/queuex) - Priority Queue with multiple backends.
+*   [queuex (⭐11)](https://github.com/falood/queuex) - Priority Queue with multiple backends.
 
 ## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

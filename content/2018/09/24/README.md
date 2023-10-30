@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 24, 2018
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -94,7 +94,7 @@
 
 ### Examples and funny stuff
 
-*   [crystalworld (⭐42)](https://github.com/vladfaust/crystalworld) - [realworld.io](https://realworld.io) back-end API implementation
+*   [crystalworld (⭐43)](https://github.com/vladfaust/crystalworld) - [realworld.io](https://realworld.io) back-end API implementation
 
 ## [6. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
 
@@ -124,20 +124,19 @@
 
 ### Dependency Injection
 
-*   [DITranquillity (⭐397)](https://github.com/ivlevAstef/DITranquillity/) - Dependency injection framework with tranquility.
+*   [DITranquillity (⭐401)](https://github.com/ivlevAstef/DITranquillity/) - Dependency injection framework with tranquility.
 
 ### Pagination / Barcode
 
-*   [FlexiblePageControl (⭐748)](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
+*   [FlexiblePageControl (⭐783)](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
 
 ## [11. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Hardware / Opcodes
 
-*   [Related custom hardware (⭐258)](https://github.com/Gekkio/gb-hardware) - by Gekkio.
-*   [ESP8266 GB Dev Board (⭐21)](https://github.com/applefreak/esp8266-gameboy-dev-board) - Dev board for Game Boy accessories development, powered by ESP8266.
-*   [ESP8266 GB Printer (⭐41)](https://github.com/applefreak/esp8266-gameboy-printer) - A device that emulates the GB Printer and lets you retrieve images using WiFi.
-*   [fruttenboel](http://verhoeven272.nl/fruttenboel/Gameboy/index.html) - Page with loads of information on the hardware, custom boards to interface with the console and other related projects.
+*   [Related custom hardware (⭐273)](https://github.com/Gekkio/gb-hardware) - by Gekkio.
+*   [ESP8266 GB Dev Board (⭐24)](https://github.com/applefreak/esp8266-gameboy-dev-board) - Dev board for Game Boy accessories development, powered by ESP8266.
+*   [ESP8266 GB Printer (⭐44)](https://github.com/applefreak/esp8266-gameboy-printer) - A device that emulates the GB Printer and lets you retrieve images using WiFi.
 
 ### Peripherals / Opcodes
 
@@ -149,24 +148,18 @@
 
 ### Emulators / Experimental/Proof of Concepts
 
-*   [SameBoy (⭐1.3k)](https://github.com/LIJI32/SameBoy) - Accurate emulator with a wide range of powerful debugging features.
+*   [SameBoy (⭐1.4k)](https://github.com/LIJI32/SameBoy) - Accurate emulator with a wide range of powerful debugging features.
 
 ### Related projects / Syntax highlighting packages
 
-*   [liblsdj (⭐77)](https://github.com/stijnfrishert/liblsdj) - Utility library for interacting with the LSDj save format (.sav), song files (.lsdsng) and more.
-*   [lsdpatch (⭐136)](https://github.com/jkotlinski/lsdpatch) - Tool for modifying samples, fonts and palettes on LSDj ROM images.
+*   [liblsdj (⭐79)](https://github.com/stijnfrishert/liblsdj) - Utility library for interacting with the LSDj save format (.sav), song files (.lsdsng) and more.
+*   [lsdpatch (⭐147)](https://github.com/jkotlinski/lsdpatch) - Tool for modifying samples, fonts and palettes on LSDj ROM images.
 
 ### Directories / Syntax highlighting packages
 
-*   [The Game Boy Archive - Salvage (⭐25)](https://github.com/gb-archive/salvage) - Historical archive of software, old articles, FAQs and various documents.
+*   [The Game Boy Archive - Salvage (⭐26)](https://github.com/gb-archive/salvage) - Historical archive of software, old articles, FAQs and various documents.
 
-## [12. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
-
-### Software / Software Containers
-
-*   [Docker](http://www.docker.com/) - Platform for developers and sysadmins to build, ship, and run distributed applications.
-
-## [13. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [12. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In Portuguese
 

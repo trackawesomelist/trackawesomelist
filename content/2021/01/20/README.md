@@ -10,13 +10,13 @@
 
 ### Text Processing
 
-*   [lmgrep (⭐174)](https://github.com/dainiusjocas/lucene-grep)
+*   [lmgrep (⭐187)](https://github.com/dainiusjocas/lucene-grep)
 
 ## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Natural Language Processing
 
-*   [Rasa (⭐16k)](https://github.com/RasaHQ/rasa) - A "machine learning framework to automate text-and voice-based conversations."
+*   [Rasa (⭐17k)](https://github.com/RasaHQ/rasa) - A "machine learning framework to automate text-and voice-based conversations."
 
 ## [3. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
@@ -26,42 +26,42 @@
 
 ### Modules / Various Godot versions
 
-*   [Entity Spell System (⭐105)](https://github.com/Relintai/entity_spell_system) - An entity and spell system for complex (optionally multiplayer) RPGs (Godot 3.2, 4.0).
-*   [godot-anl (⭐99)](https://github.com/Xrayez/godot-anl) - A wrapper for [Accidental Noise Library (⭐74)](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
-*   [godot-python (⭐1.5k)](https://github.com/touilleMan/godot-python) - Python support for Godot 3.
-*   [Gdnet for Godot 3 (⭐114)](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3.
+*   [Entity Spell System (⭐115)](https://github.com/Relintai/entity_spell_system) - An entity and spell system for complex (optionally multiplayer) RPGs (Godot 3.2, 4.0).
+*   [godot-anl (⭐103)](https://github.com/Xrayez/godot-anl) - A wrapper for [Accidental Noise Library (⭐75)](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
+*   [godot-python (⭐1.6k)](https://github.com/touilleMan/godot-python) - Python support for Godot 3.
+*   [Gdnet for Godot 3 (⭐115)](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3.
 
 ### Modules / Godot 3.2+
 
-*   [godotcord (⭐44)](https://github.com/drachenfrucht1/godotcord) - A wrapper for the [Discord Game SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide).
+*   [godotcord (⭐50)](https://github.com/drachenfrucht1/godotcord) - A wrapper for the [Discord Game SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide).
 *   [godot-apple-id (⭐30)](https://github.com/Wild-Pluto/godot-apple-id) - Module for sign in with Apple in Godot.
-*   [Godot-Slicer (⭐104)](https://github.com/cj-dimaggio/godot-slicer) - A port of [Ezy-Slicer (⭐1.6k)](https://github.com/DavidArayan/ezy-slice) for Godot.
-*   [Goost (⭐416)](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable extension.
-*   [PortAudio (⭐11)](https://github.com/sebastian-heinz/portaudio) - Wrapper methods and Godot-friendly types to use [PortAudio](http://www.portaudio.com).
+*   [Godot-Slicer (⭐107)](https://github.com/cj-dimaggio/godot-slicer) - A port of [Ezy-Slicer (⭐1.6k)](https://github.com/DavidArayan/ezy-slice) for Godot.
+*   [Goost (⭐440)](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable extension.
+*   [PortAudio (⭐13)](https://github.com/sebastian-heinz/portaudio) - Wrapper methods and Godot-friendly types to use [PortAudio](http://www.portaudio.com).
 
 ### Modules / Godot 3.1
 
-*   [FMOD Integration (⭐169)](https://github.com/alexfonseka/godot-fmod-integration) - Module to integrate the FMOD audio engine in Godot.
+*   [FMOD Integration (⭐174)](https://github.com/alexfonseka/godot-fmod-integration) - Module to integrate the FMOD audio engine in Godot.
 
 ### Modules / Godot version unknown
 
-*   [godot-enet-better (⭐91)](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot.
-*   [Head tracking using OpenCV (⭐41)](https://github.com/antarktikali/godot-opencv-gpu-perspective)
+*   [godot-enet-better (⭐93)](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot.
+*   [Head tracking using OpenCV (⭐42)](https://github.com/antarktikali/godot-opencv-gpu-perspective)
 *   [Open Adaptive Music Library (⭐57)](https://github.com/oamldev/oamlGodotModule)
 *   [NativeDialogs (⭐22)](https://github.com/GodotExplorer/NativeDialogs) - Using native dialogs in Godot.
-*   [RawPacker (⭐20)](https://github.com/empyreanx/rawpacker) - Simple binary packing/unpacking for RawArray.
-*   [spine (⭐126)](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module.
-*   [WaterSplash 2D node (⭐35)](https://github.com/laverneth/water)
+*   [RawPacker (⭐22)](https://github.com/empyreanx/rawpacker) - Simple binary packing/unpacking for RawArray.
+*   [spine (⭐128)](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module.
+*   [WaterSplash 2D node (⭐37)](https://github.com/laverneth/water)
 
 ### Bash scripts / Godot version unknown
 
 *   [godot.sh (⭐27)](https://github.com/adolson/godot-stuff/blob/master/godot.sh) - Script that automatically downloads and launches latest version of Godot, or compiles and launches the Git `master` branch.
-*   [godot-wrapper (⭐14)](https://github.com/nsrosenqvist/godot-wrapper) - Script that helps Debian and Ubuntu users install and use Godot.
+*   [godot-wrapper (⭐15)](https://github.com/nsrosenqvist/godot-wrapper) - Script that helps Debian and Ubuntu users install and use Godot.
 *   [replicate-file.sh (⭐27)](https://github.com/adolson/godot-stuff/blob/master/replicate-file.sh) - Script to update copies of a file with one master file.
 
 ### Other / Godot version unknown
 
-*   [gd2cs.py (⭐53)](https://github.com/kiriri/gd2cs.py) - Python script that converts GDScript code to C# (WIP).
+*   [gd2cs.py (⭐58)](https://github.com/kiriri/gd2cs.py) - Python script that converts GDScript code to C# (WIP).
 
 ## [4. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
 
@@ -83,17 +83,17 @@
 
 ### Authentication
 
-*   [phx\_gen\_auth (⭐787)](https://github.com/aaronrenner/phx_gen_auth) - An authentication system generator for Phoenix 1.5 applications.
+*   [phx\_gen\_auth (⭐784)](https://github.com/aaronrenner/phx_gen_auth) - An authentication system generator for Phoenix 1.5 applications.
 
 ### Security
 
-*   [Ockam (⭐3.2k)](https://github.com/ockam-network/ockam) - A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [Docs](https://www.ockam.io/learn/concepts/) .
+*   [Ockam (⭐3.7k)](https://github.com/ockam-network/ockam) - A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [Docs](https://www.ockam.io/learn/concepts/) .
 
 ## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Miscellaneous
 
-*   [Web Monetization (⭐254)](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
+*   [Web Monetization (⭐270)](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
 
 ## [8. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
@@ -109,9 +109,9 @@
 
 ### Tools and session management
 
-*   [libtmux (⭐866)](https://github.com/tmux-python/libtmux) Python API for tmux
+*   [libtmux (⭐915)](https://github.com/tmux-python/libtmux) Python API for tmux
 *   [teamocil (⭐2.3k)](https://github.com/remi/teamocil) A simple tool used to automatically create windows and panes in tmux with YAML files
-*   [tmuxp (⭐3.7k)](https://github.com/tmux-python/tmuxp) :computer: tmux session manager and python library
+*   [tmuxp (⭐3.8k)](https://github.com/tmux-python/tmuxp) :computer: tmux session manager and python library
 
 ### Books / Development and testing
 
@@ -128,7 +128,7 @@
 
 ### no-std crates / WIP
 
-*   [embassy (⭐2.1k)](https://github.com/akiles/embassy): A set of embedded async tools to make async/await a first-class option for embedded development
+*   [embassy (⭐3k)](https://github.com/akiles/embassy): A set of embedded async tools to make async/await a first-class option for embedded development
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -138,13 +138,13 @@
 
 ### Forms
 
-*   [Web3Forms](https://web3forms.com) - Contact forms for Static & JAMStack Websites without writing backend code. Free plan allows Unlimited Forms, Unlimited Domains & 250 Submissions per month.
+*   [Web3Forms](https://web3forms.com) - Contact forms for Static & JAMStack Websites without writing backend code. The free plan allows Unlimited Forms, Unlimited Domains & 250 Submissions per month.
 
 ## [12. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Containers
 
-*   [Sitecore Docker Tools (⭐24)](https://github.com/sitecore/docker-tools) - Set of utilities to improve developer experience when running Sitecore in a Docker environment. This an image with development scripts and entrypoints which can be used during Sitecore container builds and a PowerShell module with functions used on the Sitecore container host to initialize the Sitecore Docker environment.
+*   [Sitecore Docker Tools (⭐25)](https://github.com/sitecore/docker-tools) - Set of utilities to improve developer experience when running Sitecore in a Docker environment. This an image with development scripts and entrypoints that can be used during Sitecore container builds and a PowerShell module with functions used on the Sitecore container host to initialize the Sitecore Docker environment.
 
 ## [13. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

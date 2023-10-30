@@ -30,28 +30,27 @@
 
 ## [4. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Security / Angular
+### Security / Svelte
 
 *   [Crypto-Gram](https://www.schneier.com/crypto-gram/). A security-focused monthly newsletter curated by Bruce Schneier, one of the most famous security experts in the world.
 *   [this week in security](https://twitter.us18.list-manage.com/subscribe?u=e1ad6038c994abec17dafb116\&id=a2457dc8ad). a weekly tl;dr cybersecurity newsletter including news, the happy corner, your weekly cyber-cat, and more. It's sent every Sunday.
-*   [InfoSecSherpa](https://nuzzel.com/InfoSecSherpa). A daily summary of 10 Information Security news items that aren't necessarily getting a lot of attention.
 
 ## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### CLI
+### CLI / Text-Based User Interfaces
 
 *   [Jexer](https://gitlab.com/klamonte/jexer) - Advanced console (and Swing) text user interface (TUI) library, with mouse-draggable windows, built-in terminal window manager, and sixel image support. Looks like [Turbo Vision](https://en.wikipedia.org/wiki/Turbo_Vision).
 
-### Job Scheduling
+### Job Scheduling / Text-Based User Interfaces
 
-*   [Quartz (⭐5.4k)](https://github.com/quartz-scheduler/quartz) - Feature-rich, open source job scheduling library that can be integrated within virtually any Java application.
-*   [Sundial (⭐262)](https://github.com/knowm/Sundial) - Lightweight framework to simply define jobs, define triggers and start the scheduler.
-*   [Wisp (⭐106)](https://github.com/Coreoz/Wisp) - Simple library with minimal footprint and straightforward API.
-*   [db-scheduler (⭐740)](https://github.com/kagkarlsson/db-scheduler) - Persistent and cluster-friendly scheduler.
+*   [Quartz (⭐5.9k)](https://github.com/quartz-scheduler/quartz) - Feature-rich, open source job scheduling library that can be integrated within virtually any Java application.
+*   [Sundial (⭐264)](https://github.com/knowm/Sundial) - Lightweight framework to simply define jobs, define triggers and start the scheduler.
+*   [Wisp (⭐117)](https://github.com/Coreoz/Wisp) - Simple library with minimal footprint and straightforward API.
+*   [db-scheduler (⭐983)](https://github.com/kagkarlsson/db-scheduler) - Persistent and cluster-friendly scheduler.
 
-### PDF
+### PDF / Text-Based User Interfaces
 
-*   [OpenPDF (⭐2.6k)](https://github.com/LibrePDF/OpenPDF) - Open-source iText fork. (LGPL-3.0-only & MPL-2.0)
+*   [OpenPDF (⭐2.9k)](https://github.com/LibrePDF/OpenPDF) - Open-source iText fork. (LGPL-3.0-only & MPL-2.0)
 
 ### Testing / Matchers
 
@@ -63,7 +62,7 @@
 
 ## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Math / MIT
+### Math / Apache License
 
 *   [mandelbrot-ascii (⭐2)](https://github.com/mosteo/mandelbrot_ascii) - Mandelbrot renderer in "ASCII" (unicode actually, but text nonetheless).
 
@@ -71,7 +70,7 @@
 
 ### Audio Related Packages / Read-Write
 
-*   [pyAV](http://docs.mikeboers.com/pyav/) [:octocat: (⭐1.8k)](https://github.com/mikeboers/PyAV) - PyAV is a Pythonic binding for FFmpeg or Libav.
+*   [pyAV](http://docs.mikeboers.com/pyav/) [:octocat: (⭐1.9k)](https://github.com/mikeboers/PyAV) - PyAV is a Pythonic binding for FFmpeg or Libav.
 
 ## [8. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
@@ -99,11 +98,11 @@
 
 ### Chemistry
 
-*   [Reaktoro (⭐123)](https://github.com/reaktoro/reaktoro) - A computational framework in C++ and Python for modeling chemically reactive systems. \[LGPL] [website](https://reaktoro.org)
+*   [Reaktoro (⭐133)](https://github.com/reaktoro/reaktoro) - A computational framework in C++ and Python for modeling chemically reactive systems. \[LGPL] [website](https://reaktoro.org)
 
 ### Math
 
-*   [autodiff (⭐1.3k)](https://github.com/autodiff/autodiff) - A modern, fast and expressive C++ library for automatic differentiation. \[MIT] [website](https://autodiff.github.io)
+*   [autodiff (⭐1.4k)](https://github.com/autodiff/autodiff) - A modern, fast and expressive C++ library for automatic differentiation. \[MIT] [website](https://autodiff.github.io)
 
 ## [12. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 03, 2019
 
-22 awesome lists updated today.
+21 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Boilerplates
 
-*   [Next & Now 2.0 Typescript template (⭐38)](https://github.com/alepacheco/landing-template) - Serverless, Typescript, Jest, Github CI, SCSS, prettier boilerplate
+*   [Next & Now 2.0 Typescript template (⭐40)](https://github.com/alepacheco/landing-template) - Serverless, Typescript, Jest, Github CI, SCSS, prettier boilerplate
 
 ## [2. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -81,15 +81,15 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [Featuretools (⭐6.6k)](https://github.com/featuretools/featuretools) - A library for automated feature engineering. It excels at transforming transactional and relational datasets into feature matrices for machine learning using reusable feature engineering "primitives".
+*   [Featuretools (⭐6.8k)](https://github.com/featuretools/featuretools) - A library for automated feature engineering. It excels at transforming transactional and relational datasets into feature matrices for machine learning using reusable feature engineering "primitives".
 
 ### Elixir / General-Purpose Machine Learning
 
-*   [Tensorflex (⭐305)](https://github.com/anshuman23/tensorflex) - Tensorflow bindings for the Elixir programming language.
+*   [Tensorflex (⭐306)](https://github.com/anshuman23/tensorflex) - Tensorflow bindings for the Elixir programming language.
 
 ### Go / Computer vision
 
-*   [GoCV (⭐5.5k)](https://github.com/hybridgroup/gocv) - Package for computer vision using OpenCV 4 and beyond.
+*   [GoCV (⭐5.7k)](https://github.com/hybridgroup/gocv) - Package for computer vision using OpenCV 4 and beyond.
 
 ### Data Analysis / Data Visualization / Data Analysis / Data Visualization
 
@@ -100,21 +100,21 @@
 
 ### Python / Natural Language Processing
 
-*   [pkuseg-python (⭐6.1k)](https://github.com/lancopku/pkuseg-python) - A better version of Jieba, developed by Peking University.
+*   [pkuseg-python (⭐6.3k)](https://github.com/lancopku/pkuseg-python) - A better version of Jieba, developed by Peking University.
 
 ### Python / General-Purpose Machine Learning
 
 *   [auto\_ml (⭐1.6k)](https://github.com/ClimbsRocks/auto_ml) - Automated machine learning for production and analytics. Lets you focus on the fun parts of ML, while outputting production-ready code, and detailed analytics of your dataset and results. Includes support for NLP, XGBoost, CatBoost, LightGBM, and soon, deep learning.
-*   [Cogitare (⭐76)](https://github.com/cogitare-ai/cogitare): A Modern, Fast, and Modular Deep Learning and Machine Learning framework for Python.
-*   [JAX (⭐23k)](https://github.com/google/jax) - JAX is Autograd and XLA, brought together for high-performance machine learning research.
+*   [Cogitare (⭐77)](https://github.com/cogitare-ai/cogitare): A Modern, Fast, and Modular Deep Learning and Machine Learning framework for Python.
+*   [JAX (⭐25k)](https://github.com/google/jax) - JAX is Autograd and XLA, brought together for high-performance machine learning research.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Map/Reduce implementations of common ML algorithms (⭐61)](https://github.com/Yannael/BigDataAnalytics_INFOH515): Jupyter notebooks that cover how to implement from scratch different ML algorithms (ordinary least squares, gradient descent, k-means, alternating least squares), using Python NumPy, and how to then make these implementations scalable using Map/Reduce and Spark.
+*   [Map/Reduce implementations of common ML algorithms (⭐60)](https://github.com/Yannael/BigDataAnalytics_INFOH515): Jupyter notebooks that cover how to implement from scratch different ML algorithms (ordinary least squares, gradient descent, k-means, alternating least squares), using Python NumPy, and how to then make these implementations scalable using Map/Reduce and Spark.
 
 ### Python / Reinforcement Learning
 
-*   [Serpent.AI (⭐6.5k)](https://github.com/SerpentAI/SerpentAI) - Serpent.AI is a game agent framework that allows you to turn any video game you own into a sandbox to develop AI and machine learning experiments. For both researchers and hobbyists.
+*   [Serpent.AI (⭐6.6k)](https://github.com/SerpentAI/SerpentAI) - Serpent.AI is a game agent framework that allows you to turn any video game you own into a sandbox to develop AI and machine learning experiments. For both researchers and hobbyists.
 
 ### Swift / General-Purpose Machine Learning
 
@@ -161,7 +161,7 @@
 
 ### Utility / Barcode
 
-*   [DuctTape (⭐171)](https://github.com/marty-suzuki/DuctTape) - 📦 KeyPath dynamicMemberLookup based syntax sugar for Swift.
+*   [DuctTape (⭐176)](https://github.com/marty-suzuki/DuctTape) - 📦 KeyPath dynamicMemberLookup based syntax sugar for Swift.
 
 ## [17. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -232,13 +232,7 @@
 
 *   [Daily Coding Interview Practice](https://www.techseries.dev/daily)
 
-## [19. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
-
-### IDE and Code Editing
-
-*   [GitPod](https://www.gitpod.io/github-student-developer-pack/)\[FREE] - An online IDE for GitHub that provides a complete dev environment with a single click.Free personal plan subscription for six months for students via [Github Student Developer Pack](https://education.github.com/pack).
-
-## [20. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [19. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Family
 
@@ -246,7 +240,7 @@
 
 > The race is woven around a storyline about finding King Kandy, the lost king of Candy Land...game requires no reading and minimal counting skills, making it suitable for young children...players are never required to make choices, just follow directions.
 
-![Candy Land image](https://upload.wikimedia.org/wikipedia/en/d/de/Classic_Candy_Land_by_Winning_Moves.jpg)
+![Candy Land image](https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Candy_land_mb_cover_1949.jpg/250px-Candy_land_mb_cover_1949.jpg)
 
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
@@ -285,104 +279,104 @@
 | ------: | -------: | ---: |
 |   2 - 5 |        8 |  15m |
 
-## [21. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [20. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Bytecode Manipulation
 
 *   [bytecode-viewer (⭐14k)](https://github.com/Konloch/bytecode-viewer) - Java 8 Jar & Android APK reverse engineering suite. (GPL-3.0-only)
 *   [Byteman](https://byteman.jboss.org) - Manipulate bytecode at runtime via DSL (rules); mainly for testing/troubleshooting. (LGPL-2.1-or-later)
 
-### CLI
+### CLI / Text-Based User Interfaces
 
-*   [Lanterna (⭐2k)](https://github.com/mabe02/lanterna) - Easy console text-GUI library, similar to curses. (LGPL-3.0-only)
+*   [Lanterna (⭐2.1k)](https://github.com/mabe02/lanterna) - Easy console text-GUI library, similar to curses. (LGPL-3.0-only)
 
-### Code Analysis
+### Code Analysis / Text-Based User Interfaces
 
-*   [Checkstyle (⭐7.5k)](https://github.com/checkstyle/checkstyle) - Static analysis of coding conventions and standards. (LGPL-2.1-or-later)
+*   [Checkstyle (⭐7.9k)](https://github.com/checkstyle/checkstyle) - Static analysis of coding conventions and standards. (LGPL-2.1-or-later)
 *   [jQAssistant](https://jqassistant.org) - Static code analysis with Neo4J-based query language. (GPL-3.0-only)
-*   [SonarJava (⭐988)](https://github.com/SonarSource/sonar-java) - Static analyzer for SonarQube & SonarLint. (LGPL-3.0-only)
-*   [Spotbugs (⭐3k)](https://github.com/spotbugs/spotbugs) - Static analysis of bytecode to find potential bugs. (LGPL-2.1-only)
+*   [SonarJava (⭐1k)](https://github.com/SonarSource/sonar-java) - Static analyzer for SonarQube & SonarLint. (LGPL-3.0-only)
+*   [Spotbugs (⭐3.2k)](https://github.com/spotbugs/spotbugs) - Static analysis of bytecode to find potential bugs. (LGPL-2.1-only)
 
-### Constraint Satisfaction Problem Solver
+### Constraint Satisfaction Problem Solver / Text-Based User Interfaces
 
-*   [JaCoP (⭐202)](https://github.com/radsz/jacop) - Includes an interface for the FlatZinc language, enabling it to execute MiniZinc models. (AGPL-3.0)
+*   [JaCoP (⭐211)](https://github.com/radsz/jacop) - Includes an interface for the FlatZinc language, enabling it to execute MiniZinc models. (AGPL-3.0)
 
-### Date and Time
+### Date and Time / Text-Based User Interfaces
 
-*   [Time4J (⭐386)](https://github.com/MenoData/Time4J) - Advanced date and time library. (LGPL-2.1-only)
+*   [Time4J (⭐406)](https://github.com/MenoData/Time4J) - Advanced date and time library. (LGPL-2.1-only)
 
-### Dependency Injection
+### Dependency Injection / Text-Based User Interfaces
 
-*   [JayWire (⭐53)](https://github.com/vanillasource/jaywire) - Lightweight dependency injection framework. (LGPL-3.0-only)
+*   [JayWire (⭐54)](https://github.com/vanillasource/jaywire) - Lightweight dependency injection framework. (LGPL-3.0-only)
 
-### Development
+### Development / Text-Based User Interfaces
 
 *   [DCEVM](https://dcevm.github.io) - JVM modification that allows unlimited redefinition of loaded classes at runtime. (GPL-2.0-only)
-*   [HotswapAgent (⭐1.9k)](https://github.com/HotswapProjects/HotswapAgent) - Unlimited runtime class and resource redefinition. (GPL-2.0-only)
+*   [HotswapAgent (⭐2.1k)](https://github.com/HotswapProjects/HotswapAgent) - Unlimited runtime class and resource redefinition. (GPL-2.0-only)
 
-### Distributed Applications
+### Distributed Applications / Text-Based User Interfaces
 
 *   [Atomix](https://atomix.io) - Fault-tolerant distributed coordination framework.
 *   [Dropwizard Circuit Breaker (⭐41)](https://github.com/mtakaki/dropwizard-circuitbreaker) - Circuit breaker design pattern for Dropwizard. (GPL-2.0-only)
 
-### Distribution
+### Distribution / Text-Based User Interfaces
 
 *   [Boxfuse ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg)](https://boxfuse.com) - Deployment of JVM applications to AWS using the principles of immutable infrastructure.
 
-### Document Processing
+### Document Processing / Text-Based User Interfaces
 
 *   [Apache POI](https://poi.apache.org) - Supports OOXML (XLSX, DOCX, PPTX) as well as OLE2 (XLS, DOC or PPT).
 
-### Formal Verification
+### Formal Verification / Text-Based User Interfaces
 
 *   [Checker Framework](https://checkerframework.org) - Pluggable type systems. Includes nullness types, physical units, immutability types and more. (GPL-2.0-only WITH Classpath-exception-2.0)
-*   [Java Path Finder (JPF) (⭐432)](https://github.com/javapathfinder/jpf-core) - JVM formal verification tool containing a model checker and more. Created by NASA.
+*   [Java Path Finder (JPF) (⭐473)](https://github.com/javapathfinder/jpf-core) - JVM formal verification tool containing a model checker and more. Created by NASA.
 
-### Functional Programming
+### Functional Programming / Text-Based User Interfaces
 
-*   [derive4j (⭐544)](https://github.com/derive4j/derive4j) - Java 8 annotation processor and framework for deriving algebraic data types constructors, pattern-matching and morphisms. (GPL-3.0-only)
+*   [derive4j (⭐556)](https://github.com/derive4j/derive4j) - Java 8 annotation processor and framework for deriving algebraic data types constructors, pattern-matching and morphisms. (GPL-3.0-only)
 
-### Geospatial
+### Geospatial / Text-Based User Interfaces
 
 *   [GeoTools](https://geotools.org) - Library that provides tools for geospatial data. (LGPL-2.1-only)
-*   [Mapsforge (⭐1k)](https://github.com/mapsforge/mapsforge) - Map rendering based on OpenStreetMap data. (LGPL-3.0-only)
+*   [Mapsforge (⭐1.1k)](https://github.com/mapsforge/mapsforge) - Map rendering based on OpenStreetMap data. (LGPL-3.0-only)
 
-### Introspection
+### Introspection / Text-Based User Interfaces
 
 *   [jOOR (⭐2.7k)](https://github.com/jOOQ/jOOR) - jOOR stands for jOOR Object Oriented Reflection. It is a simple wrapper for the java.lang.reflect package.
 
-### JVM and JDK
+### JVM and JDK / Text-Based User Interfaces
 
-*   [Graal (⭐18k)](https://github.com/oracle/graal) - Polyglot embeddable JVM. (GPL-2.0-only WITH Classpath-exception-2.0)
-*   [ParparVM (⭐1.4k)](https://github.com/codenameone/CodenameOne/tree/master/vm) - VM with non-blocking, concurrent GC for iOS. (GPL-2.0-only WITH Classpath-exception-2.0)
+*   [Graal (⭐19k)](https://github.com/oracle/graal) - Polyglot embeddable JVM. (GPL-2.0-only WITH Classpath-exception-2.0)
+*   [ParparVM (⭐1.6k)](https://github.com/codenameone/CodenameOne/tree/master/vm) - VM with non-blocking, concurrent GC for iOS. (GPL-2.0-only WITH Classpath-exception-2.0)
 *   [RedHat Open JDK](https://developers.redhat.com/products/openjdk/overview) - RedHat's OpenJDK distribution. (GPL-2.0-only WITH Classpath-exception-2.0)
 
-### Logging
+### Logging / Text-Based User Interfaces
 
 *   [Graylog](https://www.graylog.org) - Open-source aggregator suited for extended role and permission management. (GPL-3.0-only)
 
-### Machine Learning
+### Machine Learning / Text-Based User Interfaces
 
-*   [JSAT (⭐755)](https://github.com/EdwardRaff/JSAT) - Algorithms for pre-processing, classification, regression, and clustering with support for multi-threaded execution. (GPL-3.0-only)
+*   [JSAT (⭐772)](https://github.com/EdwardRaff/JSAT) - Algorithms for pre-processing, classification, regression, and clustering with support for multi-threaded execution. (GPL-3.0-only)
 
-### Miscellaneous
+### Miscellaneous / Text-Based User Interfaces
 
-*   [FizzBuzz Enterprise Edition (⭐19k)](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - No-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (No explicit license)
+*   [FizzBuzz Enterprise Edition (⭐20k)](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - No-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (No explicit license)
 
-### Natural Language Processing
+### Natural Language Processing / Text-Based User Interfaces
 
-*   [CogCompNLP (⭐459)](https://github.com/CogComp/cogcomp-nlp) - Provides common annotators for plain text input. (Research and Academic Use License)
+*   [CogCompNLP (⭐468)](https://github.com/CogComp/cogcomp-nlp) - Provides common annotators for plain text input. (Research and Academic Use License)
 *   [CoreNLP](https://nlp.stanford.edu/software/corenlp.shtml) - Provides a set of fundamental tools for tasks like tagging, named entity recognition, and sentiment analysis. (GPL-3.0-or-later)
 
-### Networking
+### Networking / Text-Based User Interfaces
 
 *   [Undertow](http://undertow.io) - Web server providing both blocking and non-blocking APIs based on NIO. Used as a network layer in WildFly. (LGPL-2.1-only)
-*   [urnlib (⭐24)](https://github.com/slub/urnlib) - Represent, parse and encode URNs, as in RFC 2141. (GPL-3.0-only)
+*   [urnlib (⭐26)](https://github.com/slub/urnlib) - Represent, parse and encode URNs, as in RFC 2141. (GPL-3.0-only)
 
-### PDF
+### PDF / Text-Based User Interfaces
 
 *   [Dynamic Jasper](http://dynamicjasper.com) - Abstraction layer to JasperReports. (LGPL-3.0-only)
-*   [DynamicReports (⭐166)](https://github.com/dynamicreports/dynamicreports) - Simplifies JasperReports. (LGPL-3.0-only)
+*   [DynamicReports (⭐179)](https://github.com/dynamicreports/dynamicreports) - Simplifies JasperReports. (LGPL-3.0-only)
 *   [flyingsaucer (⭐1.8k)](https://github.com/flyingsaucerproject/flyingsaucer) - XML/XHTML and CSS 2.1 renderer. (LGPL-2.1-or-later)
 *   [JasperReports](https://community.jaspersoft.com/project/jasperreports-library) - Complex reporting engine. (LGPL-3.0-only)
 
@@ -392,7 +386,7 @@
 
 ### Science / Other
 
-*   [Orson-Charts (⭐98)](https://github.com/jfree/orson-charts) - Generates a wide variety of 3D charts that can be displayed with Swing and JavaFX or exported to PDF, SVG, PNG and JPEG. (GPL-3.0-only)
+*   [Orson-Charts (⭐102)](https://github.com/jfree/orson-charts) - Generates a wide variety of 3D charts that can be displayed with Swing and JavaFX or exported to PDF, SVG, PNG and JPEG. (GPL-3.0-only)
 
 ### Security / Other
 
@@ -402,14 +396,13 @@
 ### Utility / Mocking
 
 *   [CRaSH](http://www.crashub.org) - Provides a shell into a JVM that's running CRaSH. Used by Spring Boot and others. (LGPL-2.1-or-later)
-*   [Gephi (⭐5.2k)](https://github.com/gephi/gephi) - Cross-platform for visualizing and manipulating large graph networks. (GPL-3.0-only)
-*   [JADE](http://jade.tilab.com) - Framework and environment for building and debugging multi-agent systems. (LGPL-2.0-only)
+*   [Gephi (⭐5.5k)](https://github.com/gephi/gephi) - Cross-platform for visualizing and manipulating large graph networks. (GPL-3.0-only)
 
 ### Web Frameworks / Mocking
 
 *   [Bootique](https://bootique.io) - Minimally opinionated framework for runnable apps.
 
-## [22. Awesome Icons](/content/notlmn/awesome-icons/README.md)
+## [21. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
 ### General
 

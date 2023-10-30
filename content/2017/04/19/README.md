@@ -16,13 +16,13 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [System.Linq.Dynamic.Core (⭐1.2k)](https://github.com/StefH/System.Linq.Dynamic.Core) - The .NET Standard (.NET Core) version from the System Linq Dynamic functionality.
+*   [System.Linq.Dynamic.Core (⭐1.4k)](https://github.com/StefH/System.Linq.Dynamic.Core) - The .NET Standard (.NET Core) version from the System Linq Dynamic functionality.
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-scrollview (⭐115)](https://github.com/chrishurlburt/vue-scrollview) - A component utilizing scoped slots to detect when a vue component enters and leaves the viewport.
+*   [vue-scrollview (⭐116)](https://github.com/chrishurlburt/vue-scrollview) - A component utilizing scoped slots to detect when a vue component enters and leaves the viewport.
 
 ## [4. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 

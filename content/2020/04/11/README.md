@@ -37,18 +37,18 @@
 *   [NoScript](https://noscript.net/getit) Allow active content to run only from sites you trust, and protect yourself against XSS and clickjacking attacks. Firefox only.
 *   [Burlesco](https://burles.co/en/) Read the news without subscribing, bypass the paywall
 *   [Violentmonkey](https://violentmonkey.github.io/) An open-source userscript manager.
-*   [Google Unlocked (⭐1.6k)](https://github.com/Ibit-to/google-unlocked) Uncensor google search results.
+*   [Google Unlocked (⭐2k)](https://github.com/Ibit-to/google-unlocked) Uncensor google search results.
 
 ### Userscripts
 
-*   [AdGuard Popup Blocker (⭐210)](https://github.com/AdguardTeam/PopupBlocker) Popup Blocker by AdGuard is a userscript that blocks all unwanted pop-up windows in different browsers.
+*   [AdGuard Popup Blocker (⭐241)](https://github.com/AdguardTeam/PopupBlocker) Popup Blocker by AdGuard is a userscript that blocks all unwanted pop-up windows in different browsers.
 *   [Bypass Google Sorry (reCAPTCHA)](https://greasyfork.org/en/scripts/33226-bypass-google-sorry-recaptcha) Redirect Google reCAPTCHA to a new search window.
 
 ### Password Vaults
 
 *   [KeePass](https://keepass.info/) Free, open source, light-weight, and easy-to-use password manager.
     *   [Plugins](https://keepass.info/plugins.html) : A list of third-party plugins for KeePass
-    *   Android: [Keepass2Android (⭐3.4k)](https://github.com/PhilippC/keepass2android)
+    *   Android: [Keepass2Android (⭐3.8k)](https://github.com/PhilippC/keepass2android)
     *   iPhone: [KeePassium](https://keepassium.com/)
     *   Chrome: [Tusk](https://chrome.google.com/webstore/detail/keepass-tusk-password-acc/fmhmiaejopepamlcjkncpgpdjichnecm)
     *   Firefox: [Tusk](https://addons.mozilla.org/en-US/firefox/addon/keepass-tusk)
@@ -60,7 +60,7 @@
 
 ### Privacy
 
-*   [Any Soft Keyboard (⭐2.3k)](https://github.com/AnySoftKeyboard/AnySoftKeyboard) A privacy-focused keyboard
+*   [Any Soft Keyboard (⭐2.5k)](https://github.com/AnySoftKeyboard/AnySoftKeyboard) A privacy-focused keyboard
 
 ### Windows 10 Privacy
 
@@ -76,21 +76,21 @@
 ### Torrent Clients / Public Trackers
 
 *   [PicoTorrent](https://picotorrent.org/) A lightweight and minimalistic torrent client for Windows
-*   [RapidBay (⭐398)](https://github.com/hauxir/rapidbay) Rapid bay is a self-hosted video service/torrent client that makes playing videos from torrents easy.
+*   [RapidBay (⭐542)](https://github.com/hauxir/rapidbay) Rapid bay is a self-hosted video service/torrent client that makes playing videos from torrents easy.
 
 ### Seedboxes / Web-based Cloud Seedboxes
 
 *   [ZXCFiles](http://www.zxcfiles.net) A similar service that allows you to paste magnet links or upload torrent files and get a DDL. The first 20GB are free.
 *   [FileStream.me](https://filestream.me/) The free subscription offers 200Mb max file size and 200GB storage total
-*   [Put.io automator (⭐61)](https://github.com/datashaman/putio-automator) A suite of commands for managing torrents, transfers, and files on Put.IO
+*   [Put.io automator (⭐69)](https://github.com/datashaman/putio-automator) A suite of commands for managing torrents, transfers, and files on Put.IO
 
 ### Seedboxes / Seedbox Setup Tools and Guides
 
-*   [usenet-docker (⭐168)](https://github.com/justinhamlett/usenet-docker) Docker-compose configuration for Sabnzbd, CouchPotato, Plex, Sonarr, Plexpy, Nzbhydra, Muximux, Radarr, NZBGet and Ombi with an Nginx proxy.
+*   [usenet-docker (⭐170)](https://github.com/justinhamlett/usenet-docker) Docker-compose configuration for Sabnzbd, CouchPotato, Plex, Sonarr, Plexpy, Nzbhydra, Muximux, Radarr, NZBGet and Ombi with an Nginx proxy.
 
 ### Tracker Frameworks / Seedbox Setup Tools and Guides
 
-*   [meanTorrent (⭐467)](https://github.com/taobataoma/meanTorrent) A BitTorrent Private Tracker CMS with Multilingual, and IRC announce support, Cloudflare support.
+*   [meanTorrent (⭐481)](https://github.com/taobataoma/meanTorrent) A BitTorrent Private Tracker CMS with Multilingual, and IRC announce support, Cloudflare support.
 *   [opentracker](https://erdgeist.org/arts/software/opentracker/) Opentracker is an open and free BitTorrent tracker project.
 
 ### Usenet Providers / Seedbox Setup Tools and Guides
@@ -111,7 +111,7 @@
 
 ### DDL Tools / Free Indexers
 
-*   [megatools (⭐1.5k)](https://github.com/megous/megatools) Open-source command-line tools and C library (libmega) for accessing Mega.co.nz cloud storage.
+*   [megatools (⭐1.6k)](https://github.com/megous/megatools) Open-source command-line tools and C library (libmega) for accessing Mega.co.nz cloud storage.
 *   [wget](https://www.gnu.org/software/wget/) `wget` is a free and open-source tool for downloading files using HTTP, HTTPS, FTP, and FTPS. It can be easily called from scripts, cronjobs, terminals without X-Windows support, etc.
 *   [wget - a noob's guide](https://the-eye.eu/public/Wget_Linux_Guide.pdf) Beginner guide on how to use `wget`.
 
@@ -151,8 +151,8 @@
 
 ### Plex Scripts and Tools / Third Party Hosts
 
-*   [PlexEmail (⭐203)](https://github.com/jakewaldron/PlexEmail) This script aggregates all-new TV, movie and music releases for the past configured time then optionally writes to your web directory and sends out an email.
-*   [Python-PlexLibrary (⭐198)](https://github.com/adamgot/python-plexlibrary) Python command-line utility for creating and maintaining dynamic Plex libraries based on "recipes".
+*   [PlexEmail (⭐205)](https://github.com/jakewaldron/PlexEmail) This script aggregates all-new TV, movie and music releases for the past configured time then optionally writes to your web directory and sends out an email.
+*   [Python-PlexLibrary (⭐202)](https://github.com/adamgot/python-plexlibrary) Python command-line utility for creating and maintaining dynamic Plex libraries based on "recipes".
 
 ### Kodi / Third Party Hosts
 
@@ -187,7 +187,7 @@
 
 ### Courses and Tutorials / Third Party Hosts
 
-*   [udemy-downloader-gui (⭐5.8k)](https://github.com/FaisalUmair/udemy-downloader-gui) A cross-platform (Windows, Mac, Linux) desktop application for downloading Udemy Courses.
+*   [udemy-downloader-gui (⭐5.9k)](https://github.com/FaisalUmair/udemy-downloader-gui) A cross-platform (Windows, Mac, Linux) desktop application for downloading Udemy Courses.
 
 ### Audiobooks / Third Party Hosts
 
@@ -199,7 +199,7 @@
 
 ### Manga / Third Party Hosts
 
-*   [HakuNeko (⭐2.8k)](https://github.com/manga-download/hakuneko) A cross-platform downloader for manga and anime from +400 websites. Manga and anime in multiple languages and formats (cbz, a folder with images, epub).
+*   [HakuNeko (⭐3.4k)](https://github.com/manga-download/hakuneko) A cross-platform downloader for manga and anime from +400 websites. Manga and anime in multiple languages and formats (cbz, a folder with images, epub).
 
 ### Fonts, Icons, and Graphics / Third Party Hosts
 
@@ -207,12 +207,12 @@
 
 ### Automation / Third Party Hosts
 
-*   [Mylar (⭐982)](https://github.com/evilhero/mylar) An automated Comic Book Downloader (cbr/cbz) for use with SABnzbd, NZBGet, and torrents
+*   [Mylar (⭐977)](https://github.com/evilhero/mylar) An automated Comic Book Downloader (cbr/cbz) for use with SABnzbd, NZBGet, and torrents
 *   [CloudBox](https://cloudbox.works/) An All-In-One, Cloud-Centric, Media Server Solution
 
 ### Subtitles Automation / Third Party Hosts
 
-*   [subsync (⭐5.6k)](https://github.com/smacke/subsync) Automagically synchronize subtitles with the video.
+*   [subsync (⭐6k)](https://github.com/smacke/subsync) Automagically synchronize subtitles with the video.
 
 ### P2P Networks / Third Party Hosts
 
@@ -237,7 +237,7 @@
 ### Mobile Apps / Third Party Hosts
 
 *   [AdAway](https://adaway.org/) An open-source ad blocker for Android using the hosts file. It needs ROOT access
-*   [Tachiyomi (⭐19k)](https://github.com/inorichi/tachiyomi) Tachiyomi is a free and open-source manga reader for Android.
+*   [Tachiyomi (⭐23k)](https://github.com/inorichi/tachiyomi) Tachiyomi is a free and open-source manga reader for Android.
 
 ### Streaming Apps / Third Party Hosts
 
@@ -271,7 +271,7 @@
 
 ### Dashboards and Homepages / Third Party Hosts
 
-*   [Monitorr (⭐558)](https://github.com/Monitorr/Monitorr) Self-hosted PHP-based web front platform that displays the status of any web app or service in real-time.
+*   [Monitorr (⭐592)](https://github.com/Monitorr/Monitorr) Self-hosted PHP-based web front platform that displays the status of any web app or service in real-time.
 
 ### File Sharing Tools / Third Party Hosts
 
@@ -286,7 +286,7 @@
 
 ### Social Media Tools / Instagram
 
-*   [Toutatis (⭐1.2k)](https://github.com/megadose/toutatis)
+*   [Toutatis (⭐1.3k)](https://github.com/megadose/toutatis)
 
 ## [4. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 
@@ -314,7 +314,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [V-Craft (⭐254)](https://github.com/yoychen/v-craft) - A toolset for building extensible page builders with Vue.js.
+*   [V-Craft (⭐270)](https://github.com/yoychen/v-craft) - A toolset for building extensible page builders with Vue.js.
 
 ## [8. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 
@@ -345,7 +345,7 @@
 
 ### Go / Data Analysis / Data Visualization
 
-*   [dataframe-go (⭐979)](https://github.com/rocketlaunchr/dataframe-go) - Dataframes for machine-learning and statistics (similar to pandas).
+*   [dataframe-go (⭐1k)](https://github.com/rocketlaunchr/dataframe-go) - Dataframes for machine-learning and statistics (similar to pandas).
 
 ---
 

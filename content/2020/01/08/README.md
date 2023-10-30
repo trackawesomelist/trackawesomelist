@@ -35,11 +35,11 @@
 
 ### Miscellaneous
 
-*   [Ajax plugin (⭐56)](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
+*   🍰 [Ajax plugin (⭐56)](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
 
 ### Templating
 
-*   [Meta plugin (⭐7)](https://github.com/dereuromark/cakephp-meta) - Makes handling meta tags and SEO relevant HTML markup DRY and easy.
+*   🍰 [Meta plugin (⭐7)](https://github.com/dereuromark/cakephp-meta) - Makes handling meta tags and SEO-relevant HTML markup DRY and easy.
 
 ## [4. Learn to Program](/content/karlhorky/learn-to-program/README.md)
 
@@ -49,13 +49,6 @@
 
 **Free** game that teaches the CSS grid system created by [@thomaspark](https://github.com/thomaspark)\
 *(CSS)*
-
-### Advanced
-
-#### [Paqmind](http://paqmind.com)
-
-**Free** Quiz your knowledge of programming\
-*(JavaScript, Node.js, React, functional programming)*
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -86,43 +79,43 @@
 
 ### Karachi
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ArbazPirwani" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/ArbazPirwani" height="70px" width="70px" align="left" alt="" />
 
 **Arbaz Pirwani**\
 Topics: Android, Kotlin, Java\
 <https://twitter.com/ArbazPirwani>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bhattieric" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/bhattieric" height="70px" width="70px" align="left" alt="" />
 
 **Eric Bhatti**\
 Topics: Android, Java, Kotlin, Firebase\
 <https://twitter.com/bhattieric>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mashhoodr" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/mashhoodr" height="70px" width="70px" align="left" alt="" />
 
 **Mashhood Rastgar**\
 Topics: Progressive Web Apps, Angular, Firebase\
 <https://twitter.com/mashhoodr>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/smkamranqadri" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/smkamranqadri" height="70px" width="70px" align="left" alt="" />
 
 **Muhammad Kamran**\
 Topics: Angular, Redux, RxJS, Flutter, Dart, React Native, JavaScript, TypeScript, Linux\
 <https://twitter.com/smkamranqadri>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/narainsagar" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/narainsagar" height="70px" width="70px" align="left" alt="" />
 
 **Narain Sagar**\
 Topics: Angular, JavaScript, TypeScript, Node.js, Docker, Continuous Integration, Tooling, Automation Testing\
 <https://twitter.com/narainsagar>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/_nasirhm_" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/_nasirhm_" height="70px" width="70px" align="left" alt="" />
 
 **Nasir Hussain**\
 Topics: Web Design, Blockchain, Python, IoT, Continous Integration, Developer Ecosystems\
 <https://twitter.com/_nasirhm_>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/WajahatKarim" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/WajahatKarim" height="70px" width="70px" align="left" alt="" />
 
 **Wajahat Karim**\
 Topics: Android, Open Source, Java, Kotlin\
@@ -132,29 +125,29 @@ Topics: Android, Open Source, Java, Kotlin\
 
 ### Plugins / Practices and Specific ES Features
 
-*   [functional (⭐628)](https://github.com/jonaskello/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
+*   [functional (⭐644)](https://github.com/jonaskello/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
 
 ## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Cryptography
 
-*   [kornelski/rust-security-framework (⭐190)](https://github.com/kornelski/rust-security-framework) — Bindings for Security Framework (OSX native)
+*   [kornelski/rust-security-framework (⭐196)](https://github.com/kornelski/rust-security-framework) — Bindings for Security Framework (OSX native)
 
 ### Libraries / Encoding
 
 *   BSON
-    *   [mongodb/bson-rust (⭐330)](https://github.com/mongodb/bson-rust) — Encoding and decoding support for BSON in Rust
+    *   [mongodb/bson-rust (⭐353)](https://github.com/mongodb/bson-rust) — Encoding and decoding support for BSON in Rust
 
 ### Libraries / Image processing
 
-*   [abonander/img\_hash (⭐274)](https://github.com/abonander/img_hash) — Perceptual image hashing and comparison for equality and similarity.
+*   [abonander/img\_hash (⭐279)](https://github.com/abonander/img_hash) — Perceptual image hashing and comparison for equality and similarity.
 
 ### Libraries / Platform specific
 
 *   Unix-like
-    *   [nix-rust/nix (⭐2.2k)](https://github.com/nix-rust/nix) — Unix-like API bindings [![Cirrus Build Status](https://api.cirrus-ci.com/github/nix-rust/nix.svg)](https://cirrus-ci.com/github/nix-rust/nix)
-    *   [rustix (⭐888)](https://github.com/bytecodealliance/rustix) — Safe Rust bindings to POSIX/Unix/Linux/Winsock2 syscalls [![Actions Status](https://github.com/bytecodealliance/rustix/workflows/CI/badge.svg)](https://github.com/bytecodealliance/rustix/actions?query=workflow%3ACI)
-    *   [zargony/fuse-rs (⭐958)](https://github.com/zargony/fuse-rs) — [FUSE (⭐4.5k)](https://github.com/libfuse/libfuse) bindings
+    *   [nix-rust/nix (⭐2.3k)](https://github.com/nix-rust/nix) — Unix-like API bindings [![Cirrus Build Status](https://api.cirrus-ci.com/github/nix-rust/nix.svg)](https://cirrus-ci.com/github/nix-rust/nix)
+    *   [rustix (⭐1.1k)](https://github.com/bytecodealliance/rustix) — Safe Rust bindings to POSIX/Unix/Linux/Winsock2 syscalls [![Actions Status](https://github.com/bytecodealliance/rustix/workflows/CI/badge.svg)](https://github.com/bytecodealliance/rustix/actions?query=workflow%3ACI)
+    *   [zargony/fuse-rs (⭐988)](https://github.com/zargony/fuse-rs) — [FUSE (⭐4.7k)](https://github.com/libfuse/libfuse) bindings
 
 ## [11. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 

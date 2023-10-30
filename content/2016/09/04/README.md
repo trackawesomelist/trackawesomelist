@@ -22,15 +22,15 @@
 
 ### Geolocation
 
-*   [geoip (⭐100)](https://github.com/navinpeiris/geoip) - Find geolocation for a given IP, hostname or `Plug.Conn`.
+*   [geoip (⭐109)](https://github.com/navinpeiris/geoip) - Find geolocation for a given IP, hostname or `Plug.Conn`.
 
 ### Images
 
-*   [thumbnex (⭐63)](https://github.com/talklittle/thumbnex) - Create thumbnails from images and video screenshots.
+*   [thumbnex (⭐65)](https://github.com/talklittle/thumbnex) - Create thumbnails from images and video screenshots.
 
 ### Natural Language Processing (NLP)
 
-*   [Paasaa (⭐108)](https://github.com/minibikini/paasaa) - Natural language detection for Elixir.
+*   [Paasaa (⭐111)](https://github.com/minibikini/paasaa) - Natural language detection for Elixir.
 
 ### ORM and Datamapping
 
@@ -38,15 +38,15 @@
 
 ### Protocols
 
-*   [SMPPEX (⭐0)](https://github.com/savonarola/smppex) - SMPP 3.4 protocol and framework implementation in Elixir.
+*   [SMPPEX (⭐1)](https://github.com/savonarola/smppex) - SMPP 3.4 protocol and framework implementation in Elixir.
 
 ### Templating
 
-*   [expug (⭐78)](https://github.com/rstacruz/expug) - Pug templates for Elixir.
+*   [expug (⭐80)](https://github.com/rstacruz/expug) - Pug templates for Elixir.
 
 ### Validations
 
-*   [exop (⭐209)](https://github.com/madeinussr/exop) - A library that allows to encapsulate business logic and validate params with predefined contract.
+*   [exop (⭐212)](https://github.com/madeinussr/exop) - A library that allows to encapsulate business logic and validate params with predefined contract.
 
 ## [4. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 

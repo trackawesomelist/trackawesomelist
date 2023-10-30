@@ -10,7 +10,7 @@
 
 ### Audio
 
-*   [minimp3 (⭐1.3k)](https://github.com/lieff/minimp3) - Public domain, header-only MP3 decoder with clean-room implementation. \[CC0]
+*   [minimp3 (⭐1.4k)](https://github.com/lieff/minimp3) - Public domain, header-only MP3 decoder with clean-room implementation. \[CC0]
 
 ## [2. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [bats (⭐3.7k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System
+*   [bats (⭐4k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 
 ## [5. Awesome Eta](/content/sfischer13/awesome-eta/README.md)
 
@@ -65,13 +65,13 @@
 
 ### Libraries / Parsing
 
-*   [lalrpop/lalrpop (⭐2.6k)](https://github.com/lalrpop/lalrpop) — LR(1) parser generator for Rust
+*   [lalrpop/lalrpop (⭐2.7k)](https://github.com/lalrpop/lalrpop) — LR(1) parser generator for Rust
 
 ## [7. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
 ### Tips for Researchers / HTML+CSS+JS
 
-*   Check the [Academic Resources and Grey Literature List (⭐11k)](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature) of the [Awesome Open-Source Intelligence List (⭐11k)](https://github.com/jivoi/awesome-osint) for search engines to search for papers.
+*   Check the [Academic Resources and Grey Literature List (⭐13k)](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature) of the [Awesome Open-Source Intelligence List (⭐13k)](https://github.com/jivoi/awesome-osint) for search engines to search for papers.
 
 ## [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 

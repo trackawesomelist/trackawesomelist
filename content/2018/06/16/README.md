@@ -14,13 +14,13 @@
 
 ### Suttas / Resources
 
-*   [Parallel Reading of the Dhammapada](http://myweb.ncku.edu.tw/\~lsn46/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-en/) - Read and compare multiple versions of the Dhammapada side-by-side.
+*   [Parallel Reading of the Dhammapada](http://myweb.ncku.edu.tw/~lsn46/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-en/) - Read and compare multiple versions of the Dhammapada side-by-side.
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Image / Backend-Driven
 
-*   [Photo View (⭐1.7k)](https://github.com/renancaraujo/photo_view) <!--stargazers:renancaraujo/photo_view--> - Scalable image view with loading placeholder by [Renan C. Araújo](https://github.com/renancaraujo)
+*   [Photo View (⭐1.8k)](https://github.com/renancaraujo/photo_view) <!--stargazers:renancaraujo/photo_view--> - Scalable image view with loading placeholder by [Renan C. Araújo](https://github.com/renancaraujo)
 
 ## [3. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Software / Software Development - Project Management
 
-*   [OpenProject](https://www.openproject.org) - OpenProject is a web-based project management system. ([Source Code (⭐6.9k)](https://github.com/opf/openproject)) `GPL-3.0` `Ruby`
+*   [OpenProject](https://www.openproject.org) - OpenProject is a web-based project management system. ([Source Code (⭐7.5k)](https://github.com/opf/openproject)) `GPL-3.0` `Ruby/deb/Docker`
 
 ## [5. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 

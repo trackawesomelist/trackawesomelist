@@ -29,8 +29,8 @@
 
 ### Country Data
 
-*   [Phonelib (⭐968)](https://github.com/daddyz/phonelib) - Ruby gem for phone validation and formatting using Google libphonenumber library data.
-*   [Phony (⭐968)](https://github.com/floere/phony) - Fast international phone number (E164 standard) normalizing, splitting and formatting.
+*   [Phonelib (⭐1k)](https://github.com/daddyz/phonelib) - Ruby gem for phone validation and formatting using Google libphonenumber library data.
+*   [Phony (⭐982)](https://github.com/floere/phony) - Fast international phone number (E164 standard) normalizing, splitting and formatting.
 
 ### DevOps Tools
 
@@ -47,12 +47,12 @@
 ### Optimizations
 
 *   [bootsnap (⭐2.6k)](https://github.com/Shopify/bootsnap) - Boot large Ruby/Rails apps faster.
-*   [fast\_blank (⭐598)](https://github.com/SamSaffron/fast_blank) - Provides a C-optimized method for determining if a string is blank.
+*   [fast\_blank (⭐605)](https://github.com/SamSaffron/fast_blank) - Provides a C-optimized method for determining if a string is blank.
 *   [yajl-ruby (⭐1.5k)](https://github.com/brianmario/yajl-ruby) - A streaming JSON parsing and encoding library for Ruby (C bindings to yajl).
 
 ### Performance Monitoring
 
-*   [Scout (⭐175)](https://github.com/scoutapp/scout_apm_ruby) - Scout Ruby Application Monitoring Agent.
+*   [Scout (⭐179)](https://github.com/scoutapp/scout_apm_ruby) - Scout Ruby Application Monitoring Agent.
 
 ## [4. Amas](/content/sindresorhus/amas/README.md)
 
@@ -98,10 +98,10 @@
 
 ### Self-hosted VPNs
 
-*   [n2n (⭐4.4k)](https://github.com/ntop/n2n) Peer-to-peer VPN
+*   [n2n (⭐5.1k)](https://github.com/ntop/n2n) Peer-to-peer VPN
 *   [PeerVPN](https://peervpn.net/) PeerVPN is a software that builds virtual ethernet networks between multiple computers.
 *   [Pritunl](https://pritunl.com/) Enterprise Distributed OpenVPN and IPsec Server
-*   [sshuttle (⭐8.9k)](https://github.com/sshuttle/sshuttle) Transparent proxy server that works as a poor man's VPN.
+*   [sshuttle (⭐10k)](https://github.com/sshuttle/sshuttle) Transparent proxy server that works as a poor man's VPN.
 
 ### Userscripts
 
@@ -143,8 +143,8 @@
 ### Torrent Clients / rTorrent
 
 *   [rTorrent](https://rakshasa.github.io/rtorrent/) :star2: rTorrent is a text-based ncurses BitTorrent client written in C++
-*   [ruTorrent (⭐1.8k)](https://github.com/Novik/ruTorrent) Yet another web front-end for rTorrent
-*   [rutorrent-themes (⭐10)](https://github.com/InAnimaTe/rutorrent-themes) A collection of default and new, original themes for ruTorrent.
+*   [ruTorrent (⭐1.9k)](https://github.com/Novik/ruTorrent) Yet another web front-end for rTorrent
+*   [rutorrent-themes (⭐11)](https://github.com/InAnimaTe/rutorrent-themes) A collection of default and new, original themes for ruTorrent.
 *   [flood (⭐1.8k)](https://github.com/jfurrow/flood) A web UI for rTorrent with a Node.js backend and React frontend.
 *   [rTorrent ArchWiki Page](https://wiki.archlinux.org/index.php/RTorrent) Detailed article to answer most common questions about rTorrent
 *   [rTorrent Seedbox Guide](https://jes.sc/kb/rTorrent-ruTorrent-Seedbox-Guide.php) This guide is a single-page, comprehensive guide to take you step-by-step through installation and configuration.
@@ -182,8 +182,8 @@
 
 ### Plex / Third Party Hosts
 
-*   [linuxserver/docker-plex (⭐858)](https://github.com/linuxserver/docker-plex) LinuxServer.io Plex Media Server docker image
-*   [plexinc/pms-docker (⭐2.3k)](https://github.com/plexinc/pms-docker) official Plex docker image
+*   [linuxserver/docker-plex (⭐957)](https://github.com/linuxserver/docker-plex) LinuxServer.io Plex Media Server docker image
+*   [plexinc/pms-docker (⭐2.6k)](https://github.com/plexinc/pms-docker) official Plex docker image
 *   [timhaak/plex](https://github.com/timhaak/docker-plex) alternative Plex docker image
 *   [hoarding.me](https://hoarding.me/) Unlimited and Automated. How to setup your own dream Plex server.
 
@@ -225,8 +225,8 @@
 
 ### Automation / Third Party Hosts
 
-*   [Bonarr (⭐124)](https://github.com/klassicstudios/Bonarr) A fork of Radarr to work with porn.
-*   [LazyLibrarian (⭐720)](https://github.com/DobyTang/LazyLibrarian) LazyLibrarian is a program to follow authors and grab metadata for all your digital reading needs.
+*   [Bonarr (⭐137)](https://github.com/klassicstudios/Bonarr) A fork of Radarr to work with porn.
+*   [LazyLibrarian (⭐727)](https://github.com/DobyTang/LazyLibrarian) LazyLibrarian is a program to follow authors and grab metadata for all your digital reading needs.
 
 ### Movie Automation / Third Party Hosts
 
@@ -235,7 +235,7 @@
 
 ### Music Automation / Third Party Hosts
 
-*   [Lidarr (⭐2.5k)](https://github.com/lidarr/Lidarr) Looks and smells like Sonarr but made for music.
+*   [Lidarr (⭐2.8k)](https://github.com/lidarr/Lidarr) Looks and smells like Sonarr but made for music.
 
 ### Mobile Apps / Third Party Hosts
 
@@ -284,11 +284,11 @@
 
 ### Frameworks, Libraries and Tools / API
 
-*   [RestClient.Net (⭐305)](https://github.com/MelbourneDeveloper/RestClient.Net) - Cross Platform REST Client for all C# platforms
+*   [RestClient.Net (⭐361)](https://github.com/MelbourneDeveloper/RestClient.Net) - Cross Platform REST Client for all C# platforms
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [dotnet-env (⭐289)](https://github.com/tonerdo/dotnet-env) - A .NET library to load environment variables from .env files.
+*   [dotnet-env (⭐366)](https://github.com/tonerdo/dotnet-env) - A .NET library to load environment variables from .env files.
 
 ## [11. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 15, 2022
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,25 +10,24 @@
 
 ### Note Taking / Diagnostics
 
-*   [ostralyan/scribe.nvim (⭐20)](https://github.com/ostralyan/scribe.nvim) - Take notes, easily.
+*   [ostralyan/scribe.nvim (⭐22)](https://github.com/ostralyan/scribe.nvim) - Take notes, easily.
 
 ## [2. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Tutorials
 
 *   [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with IPython.
-*   [#tidytuesday (⭐5.6k)](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
-*   [Data science your way (⭐569)](https://github.com/jadianes/data-science-your-way)
-*   [PySpark Cheatsheet (⭐252)](https://github.com/kevinschaich/pyspark-cheatsheet)
+*   [#tidytuesday (⭐6k)](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
+*   [Data science your way (⭐575)](https://github.com/jadianes/data-science-your-way)
+*   [PySpark Cheatsheet (⭐281)](https://github.com/kevinschaich/pyspark-cheatsheet)
 *   [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
 *   [How To Label Data](https://www.lighttag.io/how-to-label-data/)
 *   [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
 *   [Over 1000 Data Science Online Courses at Classpert Online Search Engine](https://classpert.com/search/data-science)
 *   [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard (⭐1.1k)](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
-*   [Tutorials to get started on signal processings for machine learning (⭐30)](https://github.com/jinglescode/python-signal-processing)
 *   [Realtime deployment](https://www.microprediction.com/python-1) Tutorial on Python time-series model deployment.
 *   [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/)
-*   [Minimum Viable Study Plan for Machine Learning Interviews (⭐6.6k)](https://github.com/khangich/machine-learning-interview)
+*   [Minimum Viable Study Plan for Machine Learning Interviews (⭐7.1k)](https://github.com/khangich/machine-learning-interview)
 *   [Understand and Know Machine Learning Engineering by Building Solid Projects](http://mlzoomcamp.com/)
 
 ### Free Courses
@@ -36,7 +35,7 @@
 *   [Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
 *   [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
 *   [Genetic Algorithms OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/)
-*   [AI Expert Roadmap (⭐25k)](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
+*   [AI Expert Roadmap (⭐27k)](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
 *   [Convex Optimization](https://www.edx.org/course/convex-optimization) - Convex Optimization (basics of convex analysis; least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems; optimality conditions, duality theory...)
 *   [Skillcombo - Data Science](https://skillcombo.com/courses/development/data-science/free/) - 1000+ free online Data Science courses
 *   [Learning from Data](https://home.work.caltech.edu/telecourse.html) - Introduction to machine learning covering basic theory, algorithms and applications
@@ -47,7 +46,7 @@
 
 ### Colleges
 
-*   [A list of colleges and universities offering degrees in data science. (⭐150)](https://github.com/ryanswanstrom/awesome-datascience-colleges)
+*   [A list of colleges and universities offering degrees in data science. (⭐151)](https://github.com/ryanswanstrom/awesome-datascience-colleges)
 *   [Data Science Degree @ Berkeley](https://ischoolonline.berkeley.edu/data-science/)
 *   [Data Science Degree @ UVA](https://datascience.virginia.edu/)
 *   [Data Science Degree @ Wisconsin](https://datasciencedegree.wisconsin.edu/)
@@ -65,31 +64,11 @@
 
 ### Algorithms / Supervised Learning
 
-*   Regression
 *   [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
-*   Locally Estimated Scatterplot Smoothing
-
-### Algorithms / Unsupervised Learning
-
-*   Neural Networks
-*   Self-organizing map
-*   Adaptive resonance theory
-*   Hidden Markov Models (HMM)
 
 ### Algorithms / Semi-Supervised Learning
 
 *   S3VM
-*   Clustering
-*   Generative models
-*   Low-density separation
-*   Laplacian regularization
-*   Heuristic approaches
-
-### Algorithms / Reinforcement Learning
-
-*   Q Learning
-*   SARSA (State-Action-Reward-State-Action) algorithm
-*   Temporal difference learning
 
 ### Algorithms / Data Mining Algorithms
 
@@ -100,21 +79,8 @@
 *   EM
 *   PageRank
 *   AdaBoost
-*   kNN
 *   Naive Bayes
 *   CART
-
-### Algorithms / Deep Learning architectures
-
-*   Multilayer Perceptron
-*   Convolutional Neural Network (CNN)
-*   Recurrent Neural Network (RNN)
-*   Boltzmann Machines
-*   Autoencoder
-*   Generative Adversarial Network (GAN)
-*   Self-Organized Maps
-*   Transformer
-*   Conditional Random Field (CRF)
 
 ### Journals, Publications and Magazines / Book Deals (Affiliated) 🛍
 
@@ -129,7 +95,7 @@
 *   [datatau.com/news](https://www.datatau.com/news) - Like Hacker News, but for data
 *   [Data Science Trello Board](https://trello.com/b/rbpEfMld/data-science)
 *   [Medium Data Science Topic](https://medium.com/tag/data-science) - Data Science related publications on medium
-*   [Towards Data Science Genetic Algorithm Topic](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation.) -Genetic Algorithm related Publications onTowards Data Science
+*   [Towards Data Science Genetic Algorithm Topic](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation.) -Genetic Algorithm related Publications towards Data Science
 *   [all AI news](https://allainews.com/) - The AI/ML/Big Data news aggregator platform
 
 ### Newsletters / Book Deals (Affiliated) 🛍
@@ -173,7 +139,7 @@
 *   [Introduction to Data Science](https://www.slideshare.net/NikoVuokko/introduction-to-data-science-25391618)
 *   [Intro to Data Science for Enterprise Big Data](https://www.slideshare.net/pacoid/intro-to-data-science-for-enterprise-big-data)
 *   [How to Interview a Data Scientist](https://www.slideshare.net/dtunkelang/how-to-interview-a-data-scientist)
-*   [How to Share Data with a Statistician (⭐6.3k)](https://github.com/jtleek/datasharing)
+*   [How to Share Data with a Statistician (⭐6.4k)](https://github.com/jtleek/datasharing)
 *   [The Science of a Great Career in Data Science](https://www.slideshare.net/katemats/the-science-of-a-great-career-in-data-science)
 *   [What Does a Data Scientist Do?](https://www.slideshare.net/datasciencelondon/big-data-sorry-data-science-what-does-a-data-scientist-do)
 *   [Building Data Start-Ups: Fast, Big, and Focused](https://www.slideshare.net/medriscoll/driscoll-strata-buildingdatastartups25may2011clean)
@@ -218,15 +184,15 @@
 
 ### Hobby / Book Deals (Affiliated) 🛍
 
-*   [Awesome Music Production (⭐718)](https://github.com/ad-si/awesome-music-production)
+*   [Awesome Music Production (⭐823)](https://github.com/ad-si/awesome-music-production)
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fd (⭐3)](https://github.com/aubreypwd/zsh-plugin-fd) - Use [fzf (⭐52k)](https://github.com/junegunn/fzf) to browse directories.
-*   [plenv (⭐0)](https://github.com/TwoPizza9621536/zsh-plenv) - Plugin for the perl [plenv (⭐493)](https://github.com/tokuhirom/plenv) version manager based on jenv.
-*   [pyenv (twopizza9621536) (⭐0)](https://github.com/TwoPizza9621536/zsh-pyenv) - Based on the oh-my-zsh [pyenv (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/pyenv) plugin with modifications from the rbenv and jenv plugins.
+*   [fd (⭐3)](https://github.com/aubreypwd/zsh-plugin-fd) - Use [fzf (⭐55k)](https://github.com/junegunn/fzf) to browse directories.
+*   [plenv (⭐0)](https://github.com/TwoPizza9621536/zsh-plenv) - Plugin for the perl [plenv (⭐503)](https://github.com/tokuhirom/plenv) version manager based on jenv.
+*   [pyenv (twopizza9621536) (⭐0)](https://github.com/TwoPizza9621536/zsh-pyenv) - Based on the oh-my-zsh [pyenv (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/pyenv) plugin with modifications from the rbenv and jenv plugins.
 
 ## [4. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
@@ -266,9 +232,33 @@
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### DBaaS
+### Managed Data Services
 
-*   [codehooks.io](https://codehooks.io/) — JavaScript serverless API/backend and database service with functions, Mongdb-ish queries, key/value lookups, a job system and a message queue. 1 instance free per project, 5000 records and 5000 calls/month free, 3 developers included. No credit-card required.
+*   [codehooks.io](https://codehooks.io/) — JavaScript serverless API/backend and database service with functions, Mongdb-ish queries, key/value lookups, a job system, and a message queue. One instance free per project, 5000 records, 5000 calls/month free, three developers included. No credit-card required.
+
+## [9. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
+
+### Examples
+
+*   [uber/NullAway (⭐3.4k)](https://github.com/uber/NullAway/wiki)
+
+## [10. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### JavaScript / Wicket
+
+*   [The Code Challenge Book](https://s3.amazonaws.com/coderbytestaticimages/CoderbyteEbook.pdf) - Daniel Borowski (PDF)
+
+### Markdown / PicoLisp
+
+*   [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org) - Yihui Xie (HTML) \[(PDF, EPUB, MOBI)] (<https://bookdown.org/yihui/bookdown/>)
+
+### Spark / Play Scala
+
+*   [Learning Spark: Lightning-Fast Data Analytics](https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf) - Jules S. Damji, Brooke Wenig, Tathagata Das, Denny Lee (PDF)
+
+### YAML / Vulkan
+
+*   [YAML Tutorial](https://www.tutorialspoint.com/yaml/yaml_tutorial.pdf) - TutorialsPoint (PDF)
 
 ---
 

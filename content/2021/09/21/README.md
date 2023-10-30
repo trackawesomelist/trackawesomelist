@@ -10,13 +10,13 @@
 
 ### Graphics
 
-*   [LiveCharts2 (⭐2.9k)](https://github.com/beto-rodriguez/LiveCharts2) - Simple, flexible, interactive & powerful charts, maps, and gauges for .Net. LiveCharts2 supports WPF, WinForms, Xamarin, Avalonia, WinUI, UWP.
+*   [LiveCharts2 (⭐3.4k)](https://github.com/beto-rodriguez/LiveCharts2) - Simple, flexible, interactive & powerful charts, maps, and gauges for .Net. LiveCharts2 supports WPF, WinForms, Xamarin, Avalonia, WinUI, UWP.
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [neptune.ai](https://neptune.ai/) - Log, store, display, organize, compare and query all your MLOps metadata. Free for individuals: 1 member, 100 GB of metadata storage, 200h of monitoring/month
+*   [neptune.ai](https://neptune.ai/) - Log, store, display, organize, compare, and query all your MLOps metadata. Free for individuals: 1 member, 100 GB of metadata storage, 200h of monitoring/month
 
 ## [3. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [VideoLAN Client (VLC)](https://www.videolan.org/) - Cross-platform multimedia player client and server supporting most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. ([Source Code (⭐11k)](https://github.com/videolan/vlc)) `GPL-2.0` `C`
+*   [VideoLAN Client (VLC)](https://www.videolan.org/) - Cross-platform multimedia player client and server supporting most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. ([Source Code (⭐12k)](https://github.com/videolan/vlc)) `GPL-2.0` `C/deb`
 
 ### Software / Miscellaneous
 
@@ -53,7 +53,7 @@
 
 ### Software / Self-hosting Solutions
 
-*   [WikiSuite](https://wikisuite.org) - The most comprehensive and integrated Free / Libre / Open Source enterprise software suite. ([Source Code](https://wikisuite.org/Source-Code)) `GPL-3.0/LGPL-2.1/Apache-2.0/MPL-2.0/MPL-1.1/MIT/AGPL-3.0` `ClearOS`
+*   [WikiSuite](https://wikisuite.org) - The most comprehensive and integrated Free / Libre / Open Source enterprise software suite. ([Source Code](https://wikisuite.org/Source-Code)) `GPL-3.0/LGPL-2.1/Apache-2.0/MPL-2.0/MPL-1.1/MIT/AGPL-3.0` `Shell/Perl/deb`
 
 ## [6. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 

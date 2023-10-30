@@ -10,7 +10,7 @@
 
 ### Form Components / Date / Time picker
 
-*   [date-range-picker (⭐100)](https://github.com/almogtavor/date-range-picker) - [demo](https://almogtavor.github.io/date-range-picker/) - A calendar component that supports date, range & ranges picks.
+*   [date-range-picker (⭐101)](https://github.com/almogtavor/date-range-picker) - [demo](https://almogtavor.github.io/date-range-picker/) - A calendar component that supports date, range & ranges picks.
 
 ## [2. Awesome Cloudflare](/content/irazasyed/awesome-cloudflare/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Resources / Presets
 
-*   [Laravel front-end preset (⭐140)](https://github.com/laravel-frontend-presets/inertiajs) - Laravel front-end preset for Inertia.js.
+*   [Laravel front-end preset (⭐144)](https://github.com/laravel-frontend-presets/inertiajs) - Laravel front-end preset for Inertia.js.
 
 ## [7. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
@@ -65,9 +65,9 @@
 
 *   [gatling-remote-sbt (⭐10)](https://github.com/Pravoru/gatling-remote-sbt) - Remote execution plugin for Gatling load tests.
 *   [gatling-junitrunner (⭐2)](https://github.com/Pravoru/gatling-junitrunner) - JUnit wrapper around Gatling simulations.
-*   [gatling-mqtt (⭐38)](https://github.com/mnogu/gatling-mqtt) - A Gatling plugin for stress testing MQTT.
+*   [gatling-mqtt (⭐42)](https://github.com/mnogu/gatling-mqtt) - A Gatling plugin for stress testing MQTT.
 *   [gatling-kafka (⭐68)](https://github.com/mnogu/gatling-kafka) - A Gatling plugin for stress testing Apache Kafka protocol.
-*   [gatling-sql (⭐7)](https://github.com/tmcgrath/gatling-sql) - Gatling extension for JDBC or Spark Thrift Server stress testing.
+*   [gatling-sql (⭐6)](https://github.com/tmcgrath/gatling-sql) - Gatling extension for JDBC or Spark Thrift Server stress testing.
 *   [gatling-tcp-extensions (⭐23)](https://github.com/scalecube/gatling-tcp-extensions) - TCP extensions for Gatling.
 *   [gatling-thrift (⭐18)](https://github.com/3tty0n/gatling-thrift) - Gatling third party plugin for Apache Thrift.
 
@@ -75,24 +75,24 @@
 
 ### Entertainment / Video
 
-*   [editly (⭐4.1k)](https://github.com/mifi/editly) - Declarative video editing.
+*   [editly (⭐4.2k)](https://github.com/mifi/editly) - Declarative video editing.
 
 ### Data Manipulation / Processors
 
-*   [jq (⭐25k)](https://github.com/stedolan/jq) - JSON processor.
-*   [yq (⭐2.2k)](https://github.com/kislyuk/yq) - YAML processor.
-*   [dasel (⭐4.2k)](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML processor (like jq/yq).
+*   [jq (⭐26k)](https://github.com/stedolan/jq) - JSON processor.
+*   [yq (⭐2.3k)](https://github.com/kislyuk/yq) - YAML processor.
+*   [dasel (⭐4.5k)](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML processor (like jq/yq).
 *   [yaml-cli (⭐83)](https://github.com/pandastrike/yaml-cli) - Query/update YAML.
-*   [ramda-cli (⭐553)](https://github.com/raine/ramda-cli) - Process data with functional pipelines.
+*   [ramda-cli (⭐559)](https://github.com/raine/ramda-cli) - Process data with functional pipelines.
 
 ### Data Manipulation / JSON
 
-*   [jp (⭐48)](https://github.com/therealklanni/jp) - JSON parser.
+*   [jp (⭐47)](https://github.com/therealklanni/jp) - JSON parser.
 *   [underscore-cli (⭐1.7k)](https://github.com/ddopson/underscore-cli) - Utility-belt for hacking JSON and Javascript.
 
 ### Data Manipulation / Columns
 
-*   [parse-columns-cli (⭐60)](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns to JSON.
+*   [parse-columns-cli (⭐61)](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns to JSON.
 *   [q](http://harelba.github.io/q/) - Execution of SQL-like queries on CSV/TSV/tabular text file.
 
 ## [9. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
@@ -384,7 +384,7 @@
 
 ### Blockchain
 
-*   [Axentro (⭐194)](https://github.com/Axentro/Axentro) - A custom blockchain platform
+*   [Axentro (⭐196)](https://github.com/Axentro/Axentro) - A custom blockchain platform
 
 ### Validation
 
@@ -392,13 +392,13 @@
 
 ### Official Documentation Translations
 
-*   [Invidious (⭐9.7k)](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
+*   [Invidious (⭐13k)](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 
 ## [18. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [sktime (⭐6.4k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
+*   [sktime (⭐6.8k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
 
 ## [19. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/README.md)
 
@@ -408,7 +408,7 @@
 
 ### Management
 
-*   [SSPak (⭐44)](https://github.com/silverstripe/sspak) - Tool for managing bundles of db/assets from Silverstripe environments.
+*   [SSPak (⭐46)](https://github.com/silverstripe/sspak) - Tool for managing bundles of db/assets from Silverstripe environments.
 *   [SSPy (⭐1)](https://github.com/Firesphere/silverstripe-sspy) - Python version of SSPak, that can handle assets more than 2GB.
 
 ### IDE Plugins

@@ -16,7 +16,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [zvt (⭐2.5k)](https://github.com/zvtvz/zvt) - the project using sql,pandas to provide an uniform and extendable way to record data,computing factors,select securites, backtesting,realtime trading and it could show all of them in clearly charts in realtime.
+*   [zvt (⭐2.7k)](https://github.com/zvtvz/zvt) - the project using sql,pandas to provide an uniform and extendable way to record data,computing factors,select securites, backtesting,realtime trading and it could show all of them in clearly charts in realtime.
 
 ## [3. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
@@ -58,15 +58,15 @@
 
 ### Packages / Image
 
-*   [qrcode (⭐6.6k)](https://github.com/soldair/node-qrcode) - QR code and bar code generator.
+*   [qrcode (⭐6.8k)](https://github.com/soldair/node-qrcode) - QR code and bar code generator.
 
 ### Packages / Job queues
 
-*   [better-queue (⭐441)](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
+*   [better-queue (⭐462)](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
 
 ### Packages / Node.js management
 
-*   [nodenv (⭐2k)](https://github.com/nodenv/nodenv) - Version manager that is similar to Ruby's rbenv. It supports auto version switching.
+*   [nodenv (⭐2.1k)](https://github.com/nodenv/nodenv) - Version manager that is similar to Ruby's rbenv. It supports auto version switching.
 
 ## [9. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -109,13 +109,13 @@
 
 ### Contents / Utilities
 
-*   [pg\_insights (⭐284)](https://github.com/lob/pg_insights) - Convenient SQL for monitoring Postgres database health.
+*   [pg\_insights (⭐285)](https://github.com/lob/pg_insights) - Convenient SQL for monitoring Postgres database health.
 
 ## [14. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Software / HPGL
 
-*   [HPGLGraphics (⭐16)](https://github.com/ciaron/HPGLGraphics) - A Processing library for writing HPGL files.
+*   [HPGLGraphics (⭐17)](https://github.com/ciaron/HPGLGraphics) - A Processing library for writing HPGL files.
 
 ### Community / Ephemera
 
@@ -161,7 +161,7 @@
 
 ### UI / Barcode
 
-*   [MultiSlider (⭐363)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
+*   [MultiSlider (⭐409)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
 
 ### Button / Barcode
 
@@ -175,7 +175,7 @@
 
 ### Related Lists
 
-*   [https://github.com/openblockchains/awesome-blockchains (⭐3.6k)](https://github.com/openblockchains/awesome-blockchains)
+*   [https://github.com/openblockchains/awesome-blockchains (⭐3.7k)](https://github.com/openblockchains/awesome-blockchains)
 
 ## [20. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -212,20 +212,20 @@
 
 ### Apps / Misc
 
-*   [Wagtail Import/Export Tool (⭐10)](https://github.com/berkalpyakici/wagtail-import-export-tool) - Refactor of [Wagtail Import Export (⭐32)](https://github.com/torchbox/wagtail-import-export). This tool supports importing/exporting images, documents, and snippets that are used on imported/exported pages.
+*   [Wagtail Import/Export Tool (⭐11)](https://github.com/berkalpyakici/wagtail-import-export-tool) - Refactor of [Wagtail Import Export (⭐31)](https://github.com/torchbox/wagtail-import-export). This tool supports importing/exporting images, documents, and snippets that are used on imported/exported pages.
 
 ## [26. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
-*   [music-box (⭐99)](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm.
+*   [music-box (⭐100)](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm.
 *   [strava-box (⭐38)](https://github.com/JohnPhamous/strava-box) - Update a pinned gist to contain your YTD exercise metrics from Strava.
 
 ## [27. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Functional
 
-*   [atomico (⭐931)](https://github.com/atomicojs/atomico) - Small library for the creation of interfaces based on web components using functions and hooks.
+*   [atomico (⭐1k)](https://github.com/atomicojs/atomico) - Small library for the creation of interfaces based on web components using functions and hooks.
 *   [haunted (⭐2.5k)](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components.
 
 ## [28. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
@@ -284,11 +284,11 @@
 
 ### Cryptography
 
-*   [sodium.cr (⭐45)](https://github.com/didactic-drunk/sodium.cr) - Crystal wrapper for the libsodium crypto API
+*   [sodium.cr (⭐46)](https://github.com/didactic-drunk/sodium.cr) - Crystal wrapper for the libsodium crypto API
 
 ### HTTP
 
-*   [sse.cr (⭐22)](https://github.com/y2k2mt/sse.cr) - [Server-Sent Events](https://www.w3.org/TR/2009/WD-eventsource-20090421) client
+*   [sse.cr (⭐20)](https://github.com/y2k2mt/sse.cr) - [Server-Sent Events](https://html.spec.whatwg.org/multipage/server-sent-events.html) client
 
 ## [35. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
@@ -311,7 +311,7 @@
 
 ### Custom Scrollbar
 
-*   [react-custom-scroll (⭐499)](https://github.com/rommguy/react-custom-scroll) - [demo](http://rommguy.github.io/react-custom-scroll/example/demo.html) - Easily customize the browser scroll bar with native OS scroll behavior.
+*   [react-custom-scroll (⭐525)](https://github.com/rommguy/react-custom-scroll) - [demo](http://rommguy.github.io/react-custom-scroll/example/demo.html) - Easily customize the browser scroll bar with native OS scroll behavior.
 
 ### Form Logic / Mouse Events
 
@@ -343,23 +343,23 @@
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
-*   [Casbin.NET (⭐842)](https://github.com/casbin-net/Casbin.NET) - Authorization library that supports access control models like ACL, RBAC, ABAC in C#
+*   [Casbin.NET (⭐1k)](https://github.com/casbin-net/Casbin.NET) - Authorization library that supports access control models like ACL, RBAC, ABAC in C#
 
 ### Frameworks, Libraries and Tools / GUI
 
-*   [ShellProgressBar (⭐1.2k)](https://github.com/Mpdreamz/shellprogressbar) - library to create progress bars in console programs
+*   [ShellProgressBar (⭐1.4k)](https://github.com/Mpdreamz/shellprogressbar) - library to create progress bars in console programs
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [ReflectionMagic (⭐281)](https://github.com/ReflectionMagic/ReflectionMagic) - Framework to drastically simplify your private reflection code using C# dynamic
+*   [ReflectionMagic (⭐318)](https://github.com/ReflectionMagic/ReflectionMagic) - Framework to drastically simplify your private reflection code using C# dynamic
 
 ### Frameworks, Libraries and Tools / Operating System
 
-*   [CosmosOS (⭐2.5k)](https://github.com/CosmosOS/Cosmos) - Cosmos is an operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more!
+*   [CosmosOS (⭐2.7k)](https://github.com/CosmosOS/Cosmos) - Cosmos is an operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more!
 
 ### Frameworks, Libraries and Tools / Template Engine
 
-*   [Scriban (⭐2.2k)](https://github.com/lunet-io/scriban) - A fast, powerful, safe and lightweight text templating language and engine for .NET.
+*   [Scriban (⭐2.6k)](https://github.com/lunet-io/scriban) - A fast, powerful, safe and lightweight text templating language and engine for .NET.
 
 ## [42. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 

@@ -26,7 +26,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [Note Mark](https://notemark.docs.enchantedcode.co.uk/) - A minimal web-based Markdown notes app. ([Source Code (⭐111)](https://github.com/enchant97/note-mark)) `AGPL-3.0` `Docker`
+*   [Note Mark](https://notemark.docs.enchantedcode.co.uk/) - A minimal web-based Markdown notes app. ([Source Code (⭐118)](https://github.com/enchant97/note-mark)) `AGPL-3.0` `Docker`
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -65,27 +65,35 @@
 
 ### (requires Neovim 0.5)
 
-*   [hinell/lsp-timeout.nvim (⭐15)](https://github.com/hinell/lsp-timeout.nvim) - Automatically start/stop idle/unused LSP servers; keeps RAM usage low.
+*   [hinell/lsp-timeout.nvim (⭐68)](https://github.com/hinell/lsp-timeout.nvim) - Automatically start/stop idle/unused LSP servers; keeps RAM usage low.
 
 ### AI / Diagnostics
 
-*   [dense-analysis/neural (⭐323)](https://github.com/dense-analysis/neural) - Integrate LLMs for generating code, interacting with chat bots, and more.
+*   [dense-analysis/neural (⭐328)](https://github.com/dense-analysis/neural) - Integrate LLMs for generating code, interacting with chat bots, and more.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [polirritmico/monokai-nightasty.nvim (⭐17)](https://github.com/polirritmico/monokai-nightasty.nvim) - A dark/light theme based on the Monokai color palette written in Lua, support for LSP, Tree-sitter and lots of plugins.
+*   [polirritmico/monokai-nightasty.nvim (⭐23)](https://github.com/polirritmico/monokai-nightasty.nvim) - A dark/light theme based on the Monokai color palette written in Lua, support for LSP, Tree-sitter and lots of plugins.
 
 ### Editing Support / Diagnostics
 
-*   [hinell/duplicate.nvim (⭐4)](https://github.com/hinell/duplicate.nvim) - Duplicate lines & blocks of lines easily; undo & unfolding support; full OOP.
-*   [hinell/move.nvim (⭐1)](https://github.com/hinell/move.nvim) - Move chunks of text around; fork of [fedepujol/move.nvim (⭐264)](https://github.com/fedepujol/move.nvim).
+*   [hinell/duplicate.nvim (⭐10)](https://github.com/hinell/duplicate.nvim) - Duplicate lines & blocks of lines easily; undo & unfolding support; full OOP.
+*   [hinell/move.nvim (⭐6)](https://github.com/hinell/move.nvim) - Move chunks of text around; fork of [fedepujol/move.nvim (⭐270)](https://github.com/fedepujol/move.nvim).
 
-## [9. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [9. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### Prompt Engineering
+### Linux / TeX
 
-*   [Guide to Prompt Engineering](https://codeahoy.com/learn/promptengineering/toc) - CodeAhoy (HTML)
-*   [Prompt Engineering Guide](https://www.promptingguide.ai) - DAIR.AI (HTML)
+*   [Adventures with the Linux Command Line](http://linuxcommand.org/lc3_adventures.php) - William E. Shotts Jr.
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Data Structures and Information Retrieval in Python](https://greenteapress.com/wp/data-structures-and-information-retrieval-in-python/) - Allen B. Downey
+*   [Learn Python Visually](https://archive.org/details/learn-python-visually_compress/mode/2up) - Ivelin Demirov *(:card\_file\_box: archived)*
+
+### Unix / Deno
+
+*   [Unix Programming Tools](http://cslibrary.stanford.edu/107/UnixProgrammingTools.pdf) - Parlante, Zelenski (PDF)
 
 ---
 

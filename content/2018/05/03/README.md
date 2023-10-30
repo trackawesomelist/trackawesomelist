@@ -92,19 +92,19 @@
 
 ### Packages / Command-line utilities
 
-*   [oclif (⭐8.4k)](https://github.com/oclif/oclif) - CLI framework complete with parser, automatic documentation, testing, and plugins.
+*   [oclif (⭐8.6k)](https://github.com/oclif/oclif) - CLI framework complete with parser, automatic documentation, testing, and plugins.
 
 ### Packages / Hardware
 
-*   [gps (⭐234)](https://github.com/infusion/GPS.js) - NMEA parser for handling GPS receivers.
+*   [gps (⭐238)](https://github.com/infusion/GPS.js) - NMEA parser for handling GPS receivers.
 
 ### Packages / Web frameworks
 
-*   [Nest (⭐57k)](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
+*   [Nest (⭐60k)](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
 
 ### Packages / Text
 
-*   [i18next (⭐6.8k)](https://github.com/i18next/i18next) - Internationalization framework.
+*   [i18next (⭐7k)](https://github.com/i18next/i18next) - Internationalization framework.
 
 ### Packages / Math
 
@@ -112,28 +112,28 @@
 
 ### Packages / Parsing
 
-*   [fast-xml-parser (⭐1.9k)](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate and parse XML.
+*   [fast-xml-parser (⭐2.1k)](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate and parse XML.
 
 ### Packages / Network
 
-*   [netcat (⭐395)](https://github.com/roccomuso/netcat) - Netcat port in pure JS.
+*   [netcat (⭐394)](https://github.com/roccomuso/netcat) - Netcat port in pure JS.
 
 ### Packages / Authorization
 
-*   [CASL (⭐4.8k)](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API.
+*   [CASL (⭐5.2k)](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API.
 
 ### Packages / Job queues
 
-*   [bee-queue (⭐3.3k)](https://github.com/bee-queue/bee-queue) - High-performance Redis-backed job queue.
+*   [bee-queue (⭐3.4k)](https://github.com/bee-queue/bee-queue) - High-performance Redis-backed job queue.
 
 ### Packages / Serialization
 
 *   [snappy (⭐479)](https://github.com/kesla/node-snappy) - Native bindings for Google's Snappy compression library.
-*   [compactr (⭐100)](https://github.com/compactr/compactr.js) - Implementation of the Compactr protocol.
+*   [compactr (⭐99)](https://github.com/compactr/compactr.js) - Implementation of the Compactr protocol.
 
 ### Packages / Miscellaneous
 
-*   [env-dot-prop (⭐32)](https://github.com/simonepri/env-dot-prop) - Get, set, or delete nested properties of process.env using a dot path.
+*   [env-dot-prop (⭐33)](https://github.com/simonepri/env-dot-prop) - Get, set, or delete nested properties of process.env using a dot path.
 
 ### Resources / Books
 

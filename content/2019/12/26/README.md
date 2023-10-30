@@ -10,15 +10,15 @@
 
 ### Screenshot APIs
 
-*   [microlink.io](https://microlink.io/) – It turns any website into data such as metatags normalization, beauty link previews, scraping capabilities or screenshots as a service. 250 reqs/day every day free.
-*   [ApiFlash](https://apiflash.com) — A screenshot API based on Aws Lambda and Chrome. Handles full page, capture timing, viewport dimensions, ...
-*   [ScreenshotAPI.net](https://screenshotapi.net/) - Screenshot API use one simple API call to generate screenshots of any website. Build to scale and hosted on Google Cloud. Offers 100 free screenshots per month.
+*   [microlink.io](https://microlink.io/) – It turns any website into data such as metatags normalization, beauty link previews, scraping capabilities, or screenshots as a service. 250 requests/day every day free.
+*   [ApiFlash](https://apiflash.com) — A screenshot API based on Aws Lambda and Chrome. Handles full page, captures timing, and viewport dimensions.
+*   [ScreenshotAPI.net](https://screenshotapi.net/) - Screenshot API uses a straightforward API call to generate screenshots of any website. Built to scale and hosted on Google Cloud. Offers 100 free screenshots per month.
 *   [screenshotlayer.com](https://screenshotlayer.com/) — Capture highly customizable snapshots of any website. Free 100 snapshots/month
 *   [screenshotmachine.com](https://www.screenshotmachine.com/) — Capture 100 snapshots/month, png, gif and jpg, including full-length captures, not only home page
 
 ### Forms
 
-*   [Kwes.io](https://kwes.io/) - Feature rich form endpoint. Works great with static sites. Free plan includes up 1 website with up to 50 submissions per month.
+*   [Kwes.io](https://kwes.io/) - Feature rich form endpoint. Works great with static sites. The free plan includes up to 1 website with up to 50 monthly submissions.
 
 ### IDE and Code Editing
 
@@ -82,7 +82,7 @@
 
 ### NewSQL Databases
 
-*   [yugabyteDB (⭐7.2k)](https://github.com/YugaByte/yugabyte-db) - open source, high-performance, distributed SQL database compatible with PostgreSQL.
+*   [yugabyteDB (⭐7.8k)](https://github.com/YugaByte/yugabyte-db) - open source, high-performance, distributed SQL database compatible with PostgreSQL.
 
 ## [5. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 

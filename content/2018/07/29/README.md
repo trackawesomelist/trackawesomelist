@@ -108,7 +108,7 @@
 
 ### Frameworks, Libraries and Tools / ORM
 
-*   [Chloe (⭐1.4k)](https://github.com/shuxinqin/Chloe) - A lightweight and high-performance Object/Relational Mapping(ORM) library for .NET.
+*   [Chloe (⭐1.5k)](https://github.com/shuxinqin/Chloe) - A lightweight and high-performance Object/Relational Mapping(ORM) library for .NET.
 
 ## [9. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
 
@@ -168,11 +168,11 @@
 
 ### Work
 
-*   [Code Review (⭐3.9k)](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
+*   [Code Review (⭐4k)](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
 
 ### Miscellaneous
 
-*   [Captcha (⭐980)](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
+*   [Captcha (⭐1.1k)](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
 
 ---
 

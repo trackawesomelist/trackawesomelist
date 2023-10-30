@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 13 - Jun 19, 2022
 
-54 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,13 +22,13 @@
 
 ### Miscellaneous
 
-*   [Emoji picker (⭐14)](https://github.com/devnoname120/alfred-emoji-picker) - Fast emoji input.
+*   [Emoji picker (⭐15)](https://github.com/devnoname120/alfred-emoji-picker) - Fast emoji input.
 
 ## [4. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
 ### Development / Engines
 
-*   [Ethereal Engine (⭐581)](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
+*   [Ethereal Engine (⭐642)](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
 
 ## [5. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
@@ -41,11 +41,11 @@
 
 ### Contents / Health and Fitness
 
-*   [WorkoutTracker (⭐65)](https://github.com/jerichoi224/WorkoutTracker) - A Flutter app to help you keep track of workout sessions by [Daniel Choi](https://github.com/jerichoi224).
+*   [WorkoutTracker (⭐72)](https://github.com/jerichoi224/WorkoutTracker) - A Flutter app to help you keep track of workout sessions by [Daniel Choi](https://github.com/jerichoi224).
 
 ### Contents / Media
 
-*   [MovieLab (⭐270)](https://github.com/ErfanRht/MovieLab) - A useful and modern movie database app by [Erfan Rahmati](https://github.com/ErfanRht).
+*   [MovieLab (⭐329)](https://github.com/ErfanRht/MovieLab) - A useful and modern movie database app by [Erfan Rahmati](https://github.com/ErfanRht).
 
 ## [7. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
@@ -84,15 +84,15 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Protovue (⭐192)](https://github.com/v1Labs/protovue) - A prototyping component library that helps designers and developers quickly scaffold an abstracted app layout.
-*   [Vue E-Store Templet (⭐100)](https://github.com/rash0/Vue-Ecom) - An e-commerce template build with vue/vuex/vue-router and bootstrap4.
+*   [Protovue (⭐193)](https://github.com/v1Labs/protovue) - A prototyping component library that helps designers and developers quickly scaffold an abstracted app layout.
+*   [Vue E-Store Templet (⭐129)](https://github.com/rash0/Vue-Ecom) - An e-commerce template build with vue/vuex/vue-router and bootstrap4.
 *   [VueSolitaire (⭐129)](https://github.com/silent-lad/VueSolitaire) - Solitaire (spider,klondike) implemented in Vue.js.
-*   [Afterman (⭐43)](https://github.com/itsalb3rt/afterman) - 🌕 Create beautiful docs in markdown and HTML from postman collection. Using Quasar Framework
-*   [Pexelry (⭐4)](https://github.com/Junior-Developer/Pexelry) - Application that leverages the pexels api to enable you find beautiful photos and pictures.
+*   [Afterman (⭐47)](https://github.com/itsalb3rt/afterman) - 🌕 Create beautiful docs in markdown and HTML from postman collection. Using Quasar Framework
+*   [Pexelry (⭐6)](https://github.com/Junior-Developer/Pexelry) - Application that leverages the pexels api to enable you find beautiful photos and pictures.
 
 ### Projects Using Vue.js / Apps/Websites
 
-*   [CodeDependencyScanner (⭐39)](https://github.com/NeutroniumCore/CodeDependencyScanner/) - A C# desktop application that display .Net assembly code dependencies build with Vue, Neutronium and D3.js.
+*   [CodeDependencyScanner (⭐37)](https://github.com/NeutroniumCore/CodeDependencyScanner/) - A C# desktop application that display .Net assembly code dependencies build with Vue, Neutronium and D3.js.
 *   [Fanmio](https://fanmio.com) - Meet your favorite celebrities through personal video experiences on Fanmio
 
 ### Components & Libraries / UI Components
@@ -100,17 +100,17 @@
 *   [@myena/vue-table (⭐28)](https://github.com/myENA/vue-table) - Table Components for Client/Server data handling. Filter, sort, paginate, group, expanding details row. Highly customizable via slots for filter, headers, column, pagination, details row.
 *   [vue-topmodal (⭐5)](https://github.com/adileo/vue-topmodal) - A fully customizable, easy to use, Vue.js modal component. (Responsive, Stackable, Scrollable, Animated)
 *   [vue-modal 🖼 (⭐29)](https://github.com/MelMacaluso/vue-modal) - Feed your objects array for multiple switchable modal content or quickly inline your content. A fully customizable vue modal component .
-*   [vue-simple-menu (⭐34)](https://github.com/RGRU/vue-simple-menu) - Simple menu component with a set of basic functionality, which is enough in 80% of cases
-*   [@innologica/vue-dropdown-menu (⭐83)](https://github.com/Innologica/vue-dropdown-menu) - Dropdown menu component for Vue. Any element can be dropdown trigger and anything can be dropped down content.
-*   [vue-split-carousel (⭐47)](https://github.com/Aaron00101010/vue-split-carousel) - A carousel component meanwhile display several carousel item, support vue 2 and vue 3.
-*   [vue-simple-calendar (⭐786)](https://github.com/richardtallent/vue-simple-calendar) - Flexbox-based Vue month calendar component; supports multi-day events, localization, holiday emoji, drag/drop. No dependencies.
+*   [vue-simple-menu (⭐35)](https://github.com/RGRU/vue-simple-menu) - Simple menu component with a set of basic functionality, which is enough in 80% of cases
+*   [@innologica/vue-dropdown-menu (⭐84)](https://github.com/Innologica/vue-dropdown-menu) - Dropdown menu component for Vue. Any element can be dropdown trigger and anything can be dropped down content.
+*   [vue-split-carousel](https://github.com/Aaron00101010/vue-split-carousel) - A carousel component meanwhile display several carousel item, support vue 2 and vue 3.
+*   [vue-simple-calendar (⭐828)](https://github.com/richardtallent/vue-simple-calendar) - Flexbox-based Vue month calendar component; supports multi-day events, localization, holiday emoji, drag/drop. No dependencies.
 *   [vue2-calendar (⭐55)](https://github.com/Trekels/vue2-calendar) - A simple full calendar component aimed at being flexible and lightweight.
-*   [vue-star-rating (⭐620)](https://github.com/craigh411/vue-star-rating) - A simple, highly customizable star rating component ⭐️ ⭐️ ⭐️
+*   [vue-star-rating (⭐641)](https://github.com/craigh411/vue-star-rating) - A simple, highly customizable star rating component ⭐️ ⭐️ ⭐️
 *   [vue-turnjs (⭐21)](https://github.com/Reidond/vue-turnjs) - A component library to add book experience to your app.
-*   [vue-advanced-chat (⭐1.2k)](https://github.com/antoine92190/vue-advanced-chat) - Feature-rich and fully customizable chat rooms component. Support files, images, videos, audio, emojis, customised actions, etc.
-*   [vue-wheel-picker (⭐11)](https://github.com/vanishmax/vue-wheel-picker) - Customizable Picker with 3D wheel and all gestures supported for Vue 2.
-*   [vue-input-facade (⭐156)](https://github.com/RonaldJerez/vue-input-facade) - A lightweight and dependency free input masking library created specific for Vue, originally a fork of the famous *vue-text-mask* but actively maintained and with lots of improvements after there.
-*   [vue-playlist (⭐26)](https://github.com/MishaPetrov/vue-playlist) - A lightweight vue (2.0) component with no dependencies that offers truly seamless html5 video playback. The one and only working solution for seamless video play done with vanilla JS. It takes an array of videos and stitches them together into a single video.
+*   [vue-advanced-chat (⭐1.4k)](https://github.com/antoine92190/vue-advanced-chat) - Feature-rich and fully customizable chat rooms component. Support files, images, videos, audio, emojis, customised actions, etc.
+*   [vue-wheel-picker (⭐12)](https://github.com/vanishmax/vue-wheel-picker) - Customizable Picker with 3D wheel and all gestures supported for Vue 2.
+*   [vue-input-facade (⭐172)](https://github.com/RonaldJerez/vue-input-facade) - A lightweight and dependency free input masking library created specific for Vue, originally a fork of the famous *vue-text-mask* but actively maintained and with lots of improvements after there.
+*   [vue-playlist (⭐28)](https://github.com/MishaPetrov/vue-playlist) - A lightweight vue (2.0) component with no dependencies that offers truly seamless html5 video playback. The one and only working solution for seamless video play done with vanilla JS. It takes an array of videos and stitches them together into a single video.
 *   [vue-context-menu-popup (⭐1)](https://github.com/Johnathan/vue-context-menu-popup) - Context Menu popup for Vue 2. Works on right click or can be triggered programmatically.
 
 ### Components & Libraries / UI Layout
@@ -119,30 +119,30 @@
 
 ### Components & Libraries / Frameworks
 
-*   [superBVue (⭐13)](https://github.com/superbvue/SuperBVue) - A Vue 3 UI Components for Web is based on bootstrap v5
+*   [superBVue (⭐14)](https://github.com/superbvue/SuperBVue) - A Vue 3 UI Components for Web is based on bootstrap v5
 
 ### Components & Libraries / UI Utilities
 
 *   [v-on-page-video (⭐3)](https://github.com/mahdikhashan/v-on-page-video) - Vue.js directive to change the state of a Video element on visibility change
 *   [v-pagy (⭐14)](https://github.com/trandaison/v-pagy) - A lightweight and customizable Bootstrap Pagination for Vue.
-*   [vue-typed-js (⭐393)](https://github.com/Orlandster1998/vue-typed-js) Typed.js integration to easily create typing animations.
-*   [vue-currency-filter (⭐245)](https://github.com/mazipan/vue-currency-filter) - Lightweight and Customizable Vue 2 Currency Filter.
+*   [vue-typed-js (⭐425)](https://github.com/Orlandster1998/vue-typed-js) Typed.js integration to easily create typing animations.
+*   [vue-currency-filter (⭐247)](https://github.com/mazipan/vue-currency-filter) - Lightweight and Customizable Vue 2 Currency Filter.
 
 ### Components & Libraries / Utilities
 
 *   [vue-local-storage-decorator (⭐19)](https://github.com/vip30/vue-local-storage-decorator) - Persist data by using local storage in decorator format
 *   [vue-ya-stash (⭐17)](https://github.com/qgp9/vue-ya-stash) - Yet Another stash storage with update/patch event emitters similar with v-bind.sync
 *   [vue-aimg-loader (⭐8)](https://github.com/chenxinan/vue-aimg-loader) - A easy way to use image in Vue template without write css.
-*   [vue-phoenix (⭐11)](https://github.com/vip30/vue-phoenix) - Elixir Phoenix Web Socket implementation for vuejs. Also provides typescript decorator for better use.
+*   [vue-phoenix (⭐12)](https://github.com/vip30/vue-phoenix) - Elixir Phoenix Web Socket implementation for vuejs. Also provides typescript decorator for better use.
 
 ### Components & Libraries / Integrations
 
 *   [vue-cli-plugin-auto-alias (⭐3)](https://github.com/BryanAdamss/vue-cli-plugin-auto-alias) - Vue CLI Plugin to automatically sets alias
-*   [vue-cli-plugin-chrome-extension-cli (⭐236)](https://github.com/sanyu1225/vue-cli-plugin-chrome-extension-cli) - Vue CLI Plugin generate chrome extension template
+*   [vue-cli-plugin-chrome-extension-cli (⭐266)](https://github.com/sanyu1225/vue-cli-plugin-chrome-extension-cli) - Vue CLI Plugin generate chrome extension template
 
 ### Components & Libraries / Dev Tools
 
-*   [bruit-io (⭐61)](https://github.com/Moventes/bruit.io) - Collect feedback with screenshot and technical data and post them to an API like [bruit.io](https://bruit.io).
+*   [bruit-io (⭐62)](https://github.com/Moventes/bruit.io) - Collect feedback with screenshot and technical data and post them to an API like [bruit.io](https://bruit.io).
 
 ## [10. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
@@ -154,15 +154,15 @@
 
 ### HTTP Servers / Clack plugins
 
-*   [tiny-routes (⭐9)](https://github.com/jeko2000/tiny-routes) -  A tiny routing library for Common Lisp targeting Clack. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [tiny-routes (⭐11)](https://github.com/jeko2000/tiny-routes) -  A tiny routing library for Common Lisp targeting Clack. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### RPC
 
-*   [gRPC (⭐3.6k)](https://github.com/grpc/grpc-dotnet)  An RPC library and framework for .NET Core. Read more about it on [Docs Microsoft](https://docs.microsoft.com/en-us/aspnet/core/grpc)
-*   [CoreRPC (⭐72)](https://github.com/kekekeks/CoreRPC) - Extensible library for WCF-like RPC targeting netstandard1.3. Compatible with .NET, Mono and .NET Core.
-*   [BloomRPC (⭐8.9k)](https://github.com/bloomrpc/bloomrpc) - BloomRPC aims to provide the simplest and most efficient developer experience for exploring and querying your GRPC services.
+*   [gRPC (⭐3.8k)](https://github.com/grpc/grpc-dotnet)  An RPC library and framework for .NET Core. Read more about it on [Docs Microsoft](https://docs.microsoft.com/en-us/aspnet/core/grpc)
+*   [CoreRPC (⭐74)](https://github.com/kekekeks/CoreRPC) - Extensible library for WCF-like RPC targeting netstandard1.3. Compatible with .NET, Mono and .NET Core.
+*   [BloomRPC (⭐9k)](https://github.com/bloomrpc/bloomrpc) - BloomRPC aims to provide the simplest and most efficient developer experience for exploring and querying your GRPC services.
 
 ## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -199,8 +199,8 @@
 ### Learning / Game Development
 
 *   Awesome Collections
-    *   📚 [Awesome Gamedev (⭐1.9k)](https://github.com/Calinou/awesome-gamedev#readme) - Collection of free resources for making games.
-    *   📚 [GameDev-Resources (⭐3k)](https://github.com/Kavex/GameDev-Resources) - Wonderful list of game development resources.
+    *   📚 [Awesome Gamedev (⭐2.1k)](https://github.com/Calinou/awesome-gamedev#readme) - Collection of free resources for making games.
+    *   📚 [GameDev-Resources (⭐3.4k)](https://github.com/Kavex/GameDev-Resources) - Wonderful list of game development resources.
     *   📚 [Magictools (⭐12k)](https://github.com/ellisonleao/magictools#readme) - List of game development resources to make magic happen.
     *   🌎 [Web Game Dev](https://www.webgamedev.com) - Resources on techniques and tools around JavaScript game development.
 
@@ -216,37 +216,37 @@
 
 ### Security
 
-*   [Fingerprinter (⭐248)](https://github.com/erwanlr/Fingerprinter) - CMS/LMS/Library etc versions fingerprinter.
-*   [haiti (⭐393)](https://github.com/noraj/haiti) - Hash type identifier (CLI & lib).
-*   [Pipal (⭐576)](https://github.com/digininja/pipal) - Password analyser and statistics generator
-*   [WhatWeb (⭐4.5k)](https://github.com/urbanadventurer/WhatWeb) - Website Fingerprinter.
+*   [Fingerprinter (⭐249)](https://github.com/erwanlr/Fingerprinter) - CMS/LMS/Library etc versions fingerprinter.
+*   [haiti (⭐469)](https://github.com/noraj/haiti) - Hash type identifier (CLI & lib).
+*   [Pipal (⭐595)](https://github.com/digininja/pipal) - Password analyser and statistics generator
+*   [WhatWeb (⭐4.8k)](https://github.com/urbanadventurer/WhatWeb) - Website Fingerprinter.
 *   [WPscan](http://wpscan.org/) - WordPress vulnerability scanner.
 
 ## [18. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Photo / Image
 
-*   [react-photo-album (⭐192)](https://github.com/igordanchenko/react-photo-album) - [demo](https://react-photo-album.com/examples) - [docs](https://react-photo-album.com/documentation) - Responsive React Photo Gallery.
+*   [react-photo-album (⭐315)](https://github.com/igordanchenko/react-photo-album) - [demo](https://react-photo-album.com/examples) - [docs](https://react-photo-album.com/documentation) - Responsive React Photo Gallery.
 
 ## [19. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
-*   [httpie/httpie (⭐27k)](https://github.com/httpie/httpie#readme) - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
+*   [httpie/httpie (⭐30k)](https://github.com/httpie/httpie#readme) - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
 
 ### Articles
 
-*   ["Art of Readme - Learn the art of writing quality READMEs." (⭐6.9k)](https://github.com/hackergrrl/art-of-readme#readme) - *Stephen Whitmore*
+*   ["Art of Readme - Learn the art of writing quality READMEs." (⭐7k)](https://github.com/hackergrrl/art-of-readme#readme) - *Stephen Whitmore*
 
 ### Tools
 
-*   [Common Readme (⭐372)](https://github.com/hackergrrl/common-readme#readme) - A common readme style for Node. Includes a guide and a readme generator.
+*   [Common Readme (⭐378)](https://github.com/hackergrrl/common-readme#readme) - A common readme style for Node. Includes a guide and a readme generator.
 
 ## [20. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Clojure / General-Purpose Machine Learning
 
-*   [scicloj.ml (⭐154)](https://github.com/scicloj/scicloj.ml) -  A idiomatic Clojure machine learning library based on tech.ml.dataset with a unique approach for immutable data processing pipelines.
+*   [scicloj.ml (⭐175)](https://github.com/scicloj/scicloj.ml) -  A idiomatic Clojure machine learning library based on tech.ml.dataset with a unique approach for immutable data processing pipelines.
 
 ## [21. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
@@ -268,7 +268,7 @@
 
 ### FRAME Pallets
 
-*   [RMRK Pallets (⭐69)](https://github.com/rmrk-team/rmrk-substrate) - Nested, conditional & Multi-resourced NFTs.
+*   [RMRK Pallets (⭐70)](https://github.com/rmrk-team/rmrk-substrate) - Nested, conditional & Multi-resourced NFTs.
 
 ### Tools
 
@@ -284,7 +284,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐62)](https://github.com/laboratoriobridge/bold)
+  Source code \*: [:octocat: (⭐73)](https://github.com/laboratoriobridge/bold)
 
 
 - : [Bolt Design System](https://boltdesignsystem.com/)
@@ -295,7 +295,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐267)](https://github.com/boltdesignsystem/bolt)
+  Source code \*: [:octocat: (⭐286)](https://github.com/boltdesignsystem/bolt)
 
 
 - : [Brighte Spark Design System](https://spark.brighte.com.au/)
@@ -306,7 +306,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐26)](https://github.com/Brighte-Labs/spark-web)
+  Source code \*: [:octocat: (⭐27)](https://github.com/Brighte-Labs/spark-web)
 
 
 - : [BuzzFeed Solid](https://solid.buzzfeed.com/)
@@ -317,7 +317,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐133)](https://github.com/buzzfeed/solid)
+  Source code \*: [:octocat: (⭐137)](https://github.com/buzzfeed/solid)
 
 
 - : [Cloudflare](https://cloudflare.github.io/cf-ui/)
@@ -339,7 +339,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐161)](https://github.com/eBay/skin)
+  Source code \*: [:octocat: (⭐169)](https://github.com/eBay/skin)
 
 
 - : [Elastic UI Framework](https://elastic.github.io/eui/)
@@ -350,7 +350,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐5.4k)](https://github.com/elastic/eui)
+  Source code \*: [:octocat: (⭐5.9k)](https://github.com/elastic/eui)
 
 
 - : [Enigma Boundless](https://boundless.js.org/)
@@ -361,7 +361,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐234)](https://github.com/enigma-io/boundless)
+  Source code \*: [:octocat: (⭐235)](https://github.com/enigma-io/boundless)
 
 
 - : [Fluent UI](https://developer.microsoft.com/en-us/fluentui#/)
@@ -372,7 +372,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐14k)](https://github.com/microsoft/fluentui)
+  Source code \*: [:octocat: (⭐16k)](https://github.com/microsoft/fluentui)
 
 
 - : [Foundation](https://get.foundation/)
@@ -383,7 +383,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐29k)](https://github.com/foundation/foundation-sites)
+  Source code \*: [:octocat: (⭐30k)](https://github.com/foundation/foundation-sites)
 
 
 - : [Louder Than Ten Manual](https://www.louderthanten.com/manual)
@@ -416,46 +416,50 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐135)](https://github.com/sky-uk/toolkit)
+  Source code \*: [:octocat:](https://github.com/sky-uk/toolkit)
 
 
 
-## [25. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
-
-### Software / Automation
-
-*   [Actionsflow](https://actionsflow.github.io/docs/) `⚠` - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions. ([Source Code (⭐2.9k)](https://github.com/actionsflow/actionsflow)) `MIT` `Docker/Nodejs`
-
-## [26. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [25. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Domain and IP Research / Telegram
 
 *   [Azure Tenant Resolution by PingCastle](https://tenantresolution.pingcastle.com) - Search for Azure Tenant using its domain name or its ID
 
+## [26. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Lua / PicoLisp
+
+*   [Learning Lua ebook](https://riptutorial.com/Download/lua.pdf) - Compiled from StackOverflow Documentation (PDF)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Modeling Creativity: Case Studies in Python](https://arxiv.org/pdf/1410.0281.pdf) - Tom D. De Smedt (PDF)
+
 ## [27. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Images / Barcode
 
-*   [Harbeth (⭐269)](https://github.com/yangKJ/Harbeth) - Metal API for GPU accelerated Graphics and Video and Camera filter framework.
+*   [Harbeth (⭐375)](https://github.com/yangKJ/Harbeth) - Metal API for GPU accelerated Graphics and Video and Camera filter framework.
 
 ## [28. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Elm
 
-*   [elm\_vite\_tailwind\_template (⭐25)](https://github.com/gacallea/elm_vite_tailwind_template) - Opinionated template for building Elm web apps using Tailwind CSS and Daisy UI.
+*   [elm\_vite\_tailwind\_template (⭐26)](https://github.com/gacallea/elm_vite_tailwind_template) - Opinionated template for building Elm web apps using Tailwind CSS and Daisy UI.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-optimizer (⭐20)](https://github.com/vite-plugin/vite-plugin-optimizer) - Manually Pre-Bundling.
-*   [vite-plugin-esmodule (⭐22)](https://github.com/vite-plugin/vite-plugin-esmodule) - Build ES module to CommonJs module for Node.js.
+*   [vite-plugin-optimizer (⭐27)](https://github.com/vite-plugin/vite-plugin-optimizer) - Manually Pre-Bundling.
+*   [vite-plugin-esmodule (⭐23)](https://github.com/vite-plugin/vite-plugin-esmodule) - Build ES module to CommonJs module for Node.js.
 
 ### Frameworks / Community
 
-*   [Rakkas (⭐896)](https://github.com/rakkasjs/rakkasjs) - React framework inspired by Next.js and SvelteKit. ![react](https://img.shields.io/badge/-React-4ab2cf)
+*   [Rakkas (⭐978)](https://github.com/rakkasjs/rakkasjs) - React framework inspired by Next.js and SvelteKit. ![react](https://img.shields.io/badge/-React-4ab2cf)
 
 ### Open Source / Community
 
-*   [Nhost (⭐6.6k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐7.1k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 
 ## [29. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
@@ -473,11 +477,11 @@
 
 ### Email
 
-*   [go-email-normalizer (⭐56)](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address.
+*   [go-email-normalizer (⭐59)](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address.
 
 ### Utilities
 
-*   [EaseProbe (⭐1.8k)](https://github.com/megaease/easeprobe) - A simple, standalone, and lightWeight tool that can do health/status checking daemon, support HTTP/TCP/SSH/Shell/Client/... probes, and Slack/Discord/Telegram/SMS... notification.
+*   [EaseProbe (⭐1.9k)](https://github.com/megaease/easeprobe) - A simple, standalone, and lightWeight tool that can do health/status checking daemon, support HTTP/TCP/SSH/Shell/Client/... probes, and Slack/Discord/Telegram/SMS... notification.
 
 ### Go Tools / Libraries for creating HTTP middlewares
 
@@ -538,12 +542,12 @@
 
 ## [33. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [git-sync (⭐43)](https://github.com/caarlos0-graveyard/zsh-git-sync) - A ZSH plugin to sync `git` repositories and clean them up.
-*   [smartcache (⭐15)](https://github.com/QuarticCat/zsh-smartcache) - Caches command output to speed up shell startup time.
+*   [git-sync (⭐44)](https://github.com/caarlos0-graveyard/zsh-git-sync) - A ZSH plugin to sync `git` repositories and clean them up.
+*   [smartcache (⭐18)](https://github.com/QuarticCat/zsh-smartcache) - Caches command output to speed up shell startup time.
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [paxton (⭐0)](https://github.com/p1xt4n/ohmyzsh-theme-paxton) - Inspired by powerline. Includes segments for `git` branch, time, last command exit status and current directory. Requires a powerline-compatible font.
 *   [yellow-sea-diamonds (⭐0)](https://github.com/jimratliff/yellow-sea-diamonds-zsh-theme) - Includes decorations for `git` status, current directory, active python virtual environment, and the exit status of the last command run.
@@ -552,40 +556,45 @@
 
 ### Tools
 
-*   💼 [Tails Devtools (⭐180)](https://github.com/vechai/tails-devtools) - All-in-one browser extension for Tailwind CSS.
+*   💼 [Tails Devtools (⭐202)](https://github.com/vechai/tails-devtools) - All-in-one browser extension for Tailwind CSS.
 
 ## [35. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
+### Related / Other
+
+*   [How They Load Test (⭐50)](https://github.com/aliesbelik/how-they-load) - A curated collection of publicly available resources on how companies around the world perform load testing.
+*   [Load Testing Toolkit (⭐111)](https://github.com/aliesbelik/load-testing-toolkit) - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+
 ### Related / Awesome Lists
 
-*   [Awesome Locust (⭐43)](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load testing framework written in Python.
+*   [Awesome Locust (⭐64)](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load testing framework written in Python.
 
 ## [36. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Books, blogs and training materials / Community Chat Rooms
 
-*   [Ferrous Systems' Embedded Training Courses: 2020-current edition (⭐221)](https://github.com/ferrous-systems/embedded-trainings-2020) A hands-on training course for beginner and advanced learners of Embedded Rust, based on Nordic Semiconductor's nRF52840 hardware. This training was given at Oxidize Conferences and by \[Ferrous Systems] to corporate customers.
+*   [Ferrous Systems' Embedded Training Courses: 2020-current edition (⭐229)](https://github.com/ferrous-systems/embedded-trainings-2020) A hands-on training course for beginner and advanced learners of Embedded Rust, based on Nordic Semiconductor's nRF52840 hardware. This training was given at Oxidize Conferences and by \[Ferrous Systems] to corporate customers.
 
 ### no-std crates / WIP
 
-*   [drogue-device (⭐151)](https://github.com/drogue-iot/drogue-device): A distribution of tools and examples for building embedded applications in Rust.
-*   [ector (⭐14)](https://github.com/drogue-iot/ector): An async actor framework for embedded, based on embassy.
-*   [embedded-update (⭐10)](https://github.com/drogue-iot/embedded-update): Pluggable firmware update protocol for embedded devices.
-*   [embedded-tls (⭐98)](https://github.com/drogue-iot/embedded-tls): A TLS 1.3 implementation that runs in a no-std environment.
+*   [drogue-device (⭐162)](https://github.com/drogue-iot/drogue-device): A distribution of tools and examples for building embedded applications in Rust.
+*   [ector (⭐21)](https://github.com/drogue-iot/ector): An async actor framework for embedded, based on embassy.
+*   [embedded-update (⭐13)](https://github.com/drogue-iot/embedded-update): Pluggable firmware update protocol for embedded devices.
+*   [embedded-tls (⭐114)](https://github.com/drogue-iot/embedded-tls): A TLS 1.3 implementation that runs in a no-std environment.
 
 ### Old books, blogs and training materials / WIP
 
-*   [Ferrous Systems' Embedded Training Courses: 2019 edition (⭐105)](https://github.com/ferrous-systems/embedded-trainings/) A hands-on training course for beginner and advanced learners of Embedded Rust, based on Nordic Semiconductor's nRF52 and Decawave's DWM1001-DEV hardware. This training was given at Oxidize Conferences and by Ferrous Systems to corporate customers.
+*   [Ferrous Systems' Embedded Training Courses: 2019 edition (⭐110)](https://github.com/ferrous-systems/embedded-trainings/) A hands-on training course for beginner and advanced learners of Embedded Rust, based on Nordic Semiconductor's nRF52 and Decawave's DWM1001-DEV hardware. This training was given at Oxidize Conferences and by Ferrous Systems to corporate customers.
 
 ## [37. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
-*   [Stoplight](https://stoplight.io/) - Saas for collaborativly designing and documenting for APIs. The free plan offers free design, mocking and documentation tools to get started.
+*   [Stoplight](https://stoplight.io/) - Saas for collaboratively designing and documenting for APIs. The free plan offers free design, mocking, and documentation tools.
 
 ### Tools for Teams and Collaboration
 
-*   [Dyte](https://dyte.io) - The most developer-friendly live video & audio SDK, featuring collaborative plugins to enhance productivity and engagement. The free tier includes 10,000 minutes of live video/audio usage every month.
+*   [Dyte](https://dyte.io) - The most developer-friendly live video & audio SDK, featuring collaborative plugins to enhance productivity and engagement. The free tier includes monthly 10,000 minutes of live video/audio usage.
 
 ### Design and UI
 
@@ -593,7 +602,7 @@
 
 ### Screenshot APIs
 
-*   [Httpic.com](https://httpic.com) — Turn any website into jpg, png or pdf. Capture full page screenshots, adjust viewport, inject custom code. Free tier at 150 images / month.
+*   [Httpic.com](https://httpic.com) — Turn any website into jpg, png or pdf. Capture full-page screenshots, adjust the viewport, and inject custom code. Free tier at 150 images/month.
 
 ### Miscellaneous
 
@@ -611,12 +620,12 @@
 
 ### Modules / Database
 
-*   [cotton (⭐131)](https://github.com/rahmanfadhil/cotton) - SQL Database Toolkit for deno
-*   [dangoDB (⭐111)](https://github.com/oslabs-beta/dangoDB) - A MongoDB ODM for Deno.
-*   [deno\_mongo (⭐484)](https://github.com/denodrivers/deno_mongo) - MongoDB database driver.
-*   [deno\_mysql (⭐246)](https://github.com/denodrivers/mysql) - MySQL database driver.
+*   [cotton (⭐132)](https://github.com/rahmanfadhil/cotton) - SQL Database Toolkit for deno
+*   [dangoDB (⭐117)](https://github.com/oslabs-beta/dangoDB) - A MongoDB ODM for Deno.
+*   [deno\_mongo (⭐498)](https://github.com/denodrivers/deno_mongo) - MongoDB database driver.
+*   [deno\_mysql (⭐250)](https://github.com/denodrivers/mysql) - MySQL database driver.
 *   [maxminddb (⭐8)](https://github.com/josh-hemphill/maxminddb-deno) - A library that enables the usage of MaxmindDB geoIP database files
-*   [redis (⭐428)](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
+*   [redis (⭐437)](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
 
 ## [40. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
@@ -643,7 +652,7 @@
 
 ### Web / Scanning / Pentesting
 
-*   [Cyclops (⭐81)](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking) - The Cyclops is a web browser with XSS detection feature, it is chromium-based xss detection that used to find the flows from a source to a sink.
+*   [Cyclops (⭐88)](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking) - The Cyclops is a web browser with XSS detection feature, it is chromium-based xss detection that used to find the flows from a source to a sink.
 
 ## [43. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
@@ -655,42 +664,35 @@
 
 ### Reading
 
-*   [scriptable-pocket-widget (⭐6)](https://github.com/brianseidman/scriptable-pocket-widget) - Shows unread or favorited Pocket articles.
+*   [scriptable-pocket-widget (⭐11)](https://github.com/brianseidman/scriptable-pocket-widget) - Shows unread or favorited Pocket articles.
 
     <img src="https://github.com/brianseidman/scriptable-pocket-widget/raw/72495ad9cc488b9790bb2ee6eac8dcedcf36dd96/Resources/scriptable-pocket-widget-image.png" width=400 alt="Scriptable Pocket Widget Screenshot">
 
-## [45. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
-
-### Related / Other
-
-*   [How They Load Test (⭐39)](https://github.com/aliesbelik/how-they-load) - A curated collection of publicly available resources on how companies around the world perform load testing.
-*   [Load Testing Toolkit (⭐94)](https://github.com/aliesbelik/load-testing-toolkit) - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
-
-## [46. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [45. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [Screen 13 (⭐148)](https://github.com/attackgoat/screen-13) - An easy-to-use Vulkan rendering engine. Provides a render graph for Rust.
+*   :tada: [Screen 13 (⭐182)](https://github.com/attackgoat/screen-13) - An easy-to-use Vulkan rendering engine. Provides a render graph for Rust.
 
-## [47. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [46. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Libraries
 
 *   Low Level
-    *   [Vulkan Memory Allocator (⭐1.9k)](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) - Easy to integrate Vulkan memory allocation library from AMD. \[MIT]
+    *   [Vulkan Memory Allocator (⭐2.1k)](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) - Easy to integrate Vulkan memory allocation library from AMD. \[MIT]
         *   \[VulkanMemoryAllocator-Hpp] ([https://github.com/malte-v/VulkanMemoryAllocator-Hpp (⭐36)](https://github.com/malte-v/VulkanMemoryAllocator-Hpp)) - C++ Bindings for VMA, like Vulkan-HPP
     *   [Fossilize (⭐33)](https://github.com/Themaister/Fossilize) - serialization format for various persistent Vulkan object types. \[MIT]
-    *   [vk-bootstrap (⭐455)](https://github.com/charles-lunarg/vk-bootstrap) - C++ utility library to jump start Vulkan development by automating instance, physical device, device, and swapchain creation. \[MIT]
-    *   [Google's vulkan-cpp-library (⭐249)](https://github.com/google/vulkan-cpp-library) - Vulkan abstraction library using C++11 for memory, resource management, type and thread safety as well as system independency. \[Apache]
-    *   [FrameGraph (⭐375)](https://github.com/azhirnov/FrameGraph) - Vulkan abstraction layer that represent frame as a task graph. \[BSD 2-clause]
-    *   [V-EZ (⭐804)](https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ) - light-weight middleware layer for the Vulkan API targeting Professional Workstation ISVs. \[MIT]
-    *   [Vookoo (⭐489)](https://github.com/andy-thomason/Vookoo) - Vookoo is a set of dependency-free utilities to assist in the construction and updating of Vulkan graphics data structres. \[MIT]
-    *   [vpp (⭐263)](https://github.com/nyorain/vpp) - Modern C++ Vulkan Abstraction focused on performance and a straightforward interface. \[MIT]
+    *   [vk-bootstrap (⭐515)](https://github.com/charles-lunarg/vk-bootstrap) - C++ utility library to jump start Vulkan development by automating instance, physical device, device, and swapchain creation. \[MIT]
+    *   [Google's vulkan-cpp-library (⭐248)](https://github.com/google/vulkan-cpp-library) - Vulkan abstraction library using C++11 for memory, resource management, type and thread safety as well as system independency. \[Apache]
+    *   [FrameGraph (⭐388)](https://github.com/azhirnov/FrameGraph) - Vulkan abstraction layer that represent frame as a task graph. \[BSD 2-clause]
+    *   [V-EZ (⭐826)](https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ) - light-weight middleware layer for the Vulkan API targeting Professional Workstation ISVs. \[MIT]
+    *   [Vookoo (⭐512)](https://github.com/andy-thomason/Vookoo) - Vookoo is a set of dependency-free utilities to assist in the construction and updating of Vulkan graphics data structres. \[MIT]
+    *   [vpp (⭐268)](https://github.com/nyorain/vpp) - Modern C++ Vulkan Abstraction focused on performance and a straightforward interface. \[MIT]
     *   [VulkanSceneGraph](https://github.com/vsg-dev) - Vulkan/C++17 scene graph project, successor to [OpenSceneGraph](http://www.openscenegraph.org).
-    *   [Vulkan-WSIWindow (⭐99)](https://github.com/renelindsay/Vulkan-WSIWindow) - Multi-platform library to create a Vulkan window, and handle input events. \[Apache License 2.0]
-    *   [Screen 13 (⭐148)](https://github.com/attackgoat/screen-13) - An easy-to-use Vulkan render graph for Rust. \[MIT]
+    *   [Vulkan-WSIWindow (⭐104)](https://github.com/renelindsay/Vulkan-WSIWindow) - Multi-platform library to create a Vulkan window, and handle input events. \[Apache License 2.0]
+    *   [Screen 13 (⭐174)](https://github.com/attackgoat/screen-13) - An easy-to-use Vulkan render graph for Rust. \[MIT]
 
-## [48. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [47. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### IDE
 
@@ -698,7 +700,7 @@
 
 ### GUI
 
-*   [DB Lens (⭐226)](https://github.com/dblens/app) - Open Source Postgres GUI - Automatic ER diagrams, Internal DB Insights, Disk Utilisation, Performance Metrics, Index Usage, Sequential scan counts and more.
+*   [DB Lens (⭐236)](https://github.com/dblens/app) - Open Source Postgres GUI - Automatic ER diagrams, Internal DB Insights, Disk Utilisation, Performance Metrics, Index Usage, Sequential scan counts and more.
 
 ### Schema / Design
 
@@ -706,43 +708,43 @@
 
 ### API / Samples
 
-*   [Remult (⭐1.9k)](https://github.com/remult/remult) - End-to-end type-safe CRUD via REST API for your database, with fine-grained access control.
+*   [Remult (⭐2.4k)](https://github.com/remult/remult) - End-to-end type-safe CRUD via REST API for your database, with fine-grained access control.
 
-## [49. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [48. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Completion / Diagnostics
 
-*   [vigoux/complementree.nvim (⭐39)](https://github.com/vigoux/complementree.nvim) - Light and synchronous completion plugin based on tree-sitter and with a functional-programming interface.
+*   [vigoux/complementree.nvim (⭐41)](https://github.com/vigoux/complementree.nvim) - Light and synchronous completion plugin based on tree-sitter and with a functional-programming interface.
 
 ### Utility / Diagnostics
 
-*   [m-demare/attempt.nvim (⭐64)](https://github.com/m-demare/attempt.nvim) - Manage and run temporary buffers.
+*   [m-demare/attempt.nvim (⭐70)](https://github.com/m-demare/attempt.nvim) - Manage and run temporary buffers.
 
-## [50. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [49. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Networking
 
-*   [SNMP (⭐33)](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
+*   [SNMP (⭐51)](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
 
-## [51. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [50. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [diod (⭐87)](https://github.com/artberri/diod) - A very opinionated and lightweight inversion of control container and dependency injector for Node.js or browser apps.
+*   :octocat: [diod (⭐107)](https://github.com/artberri/diod) - A very opinionated and lightweight inversion of control container and dependency injector for Node.js or browser apps.
 
-## [52. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [51. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### Camera
 
 *   [cam11](https://notabug.org/pgimeno/cam11) - Camera library that leverages the Transform object introduced in love2d 11.0+.
 
-## [53. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [52. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Debug
 
-*   [Touca (⭐430)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
+*   [Touca (⭐450)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
 
-## [54. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
+## [53. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 
 ### Installing
 

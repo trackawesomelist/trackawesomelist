@@ -20,7 +20,7 @@
 
 ### Javascript / Isomorphic web frameworks
 
-*   [Wuwei (⭐75)](https://github.com/mtravers/wuwei/) - A toolkit to build Ajax-based web pages. [MIT](https://opensource.org/licenses/MIT).
+*   [Wuwei (⭐76)](https://github.com/mtravers/wuwei/) - A toolkit to build Ajax-based web pages. [MIT](https://opensource.org/licenses/MIT).
 
 ## [3. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -45,7 +45,7 @@
 ### File
 
 *   [pathlib](https://docs.python.org/3/library/pathlib.html) - (Python standard library) An cross-platform, object-oriented path library.
-*   [PyFilesystem2 (⭐1.8k)](https://github.com/pyfilesystem/pyfilesystem2) - Python's filesystem abstraction layer.
+*   [PyFilesystem2 (⭐1.9k)](https://github.com/pyfilesystem/pyfilesystem2) - Python's filesystem abstraction layer.
 
 ## [7. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -98,7 +98,7 @@
 
 ### Visualization
 
-*   [pyecharts (⭐13k)](https://github.com/pyecharts/pyecharts) - Python interface for the [ECharts (⭐55k)](https://github.com/apache/incubator-echarts) visualization library.
+*   [pyecharts (⭐14k)](https://github.com/pyecharts/pyecharts) - Python interface for the [ECharts (⭐56k)](https://github.com/apache/incubator-echarts) visualization library.
 
 ## [10. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 

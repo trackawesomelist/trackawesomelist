@@ -44,11 +44,11 @@
 
 ### Audio
 
-*   [SoLoud (⭐1.5k)](https://github.com/jarikomppa/soloud) - Easy, portable audio engine for games. \[zlib]
+*   [SoLoud (⭐1.6k)](https://github.com/jarikomppa/soloud) - Easy, portable audio engine for games. \[zlib]
 
 ### Graphics
 
-*   [Diligent Engine (⭐2.8k)](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level 3D graphics library. \[Apache2]
+*   [Diligent Engine (⭐3k)](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level 3D graphics library. \[Apache2]
 
 ### Online Compiler
 

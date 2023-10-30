@@ -16,8 +16,8 @@
 
 ### Internationalization / Image Picker
 
-*   [GenLang (⭐93)](https://github.com/KingWu/gen_lang) <!--stargazers:KingWu/gen_lang--> - Code generator for Internationalization by [King Wu](https://github.com/KingWu)
-*   [Flutter Translate (⭐331)](https://github.com/bratan/flutter_translate) <!--stargazers:bratan/flutter_translate--> - Internationalization (i18n) library by [Florin Bratan](http://bratan.me)
+*   [GenLang (⭐99)](https://github.com/KingWu/gen_lang) <!--stargazers:KingWu/gen_lang--> - Code generator for Internationalization by [King Wu](https://github.com/KingWu)
+*   [Flutter Translate (⭐355)](https://github.com/bratan/flutter_translate) <!--stargazers:bratan/flutter_translate--> - Internationalization (i18n) library by [Florin Bratan](http://bratan.me)
 
 ## [3. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Software / Software Development - Project Management
 
-*   [UVDesk](https://www.uvdesk.com/) - UVDesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine. ([Demo](https://demo.uvdesk.com/), [Source Code (⭐1.4k)](https://github.com/uvdesk/community-skeleton)) `MIT` `PHP`
+*   [UVDesk](https://www.uvdesk.com/) - UVDesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine. ([Demo](https://demo.uvdesk.com/), [Source Code (⭐3.3k)](https://github.com/uvdesk/community-skeleton)) `MIT` `PHP`
 
 ## [8. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -115,7 +115,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-uuid (⭐68)](https://github.com/VitorLuizC/vue-uuid) - Adds UUID to Vue instance.
+*   [vue-uuid (⭐69)](https://github.com/VitorLuizC/vue-uuid) - Adds UUID to Vue instance.
 
 ## [15. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 

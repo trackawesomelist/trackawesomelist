@@ -16,33 +16,33 @@
 
 ### Tools for Teams and Collaboration
 
-*   [Mattermost](https://mattermost.com/) — Secure collaboration for technical teams. Free plan with unlimited channels, playbooks, boards, users, 10GB storage and more.
+*   [Mattermost](https://mattermost.com/) — Secure collaboration for technical teams. Free plan with unlimited channels, playbooks, boards, users, 10GB storage, and more.
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [Insurance-system (⭐28)](https://github.com/DaZuiZui/Insurance-system) - Insurance system made by springboot and vue.
+*   [Insurance-system (⭐33)](https://github.com/DaZuiZui/Insurance-system) - Insurance system made by springboot and vue.
 
 ## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / React
 
-*   [vite-mui-ts (⭐19)](https://github.com/emre-cil/vite-mui-ts) - React + TypeScript + Redux + Material UI + RRD + ESLint + Prettier.
+*   [vite-mui-ts (⭐30)](https://github.com/emre-cil/vite-mui-ts) - React + TypeScript + Redux + Material UI + RRD + ESLint + Prettier.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [Vite-plugin-graphiql (⭐4)](https://github.com/mammadataei/vite-plugin-graphiql) - Integrattion for GraphiQL IDE.
+*   [Vite-plugin-graphiql (⭐5)](https://github.com/mammadataei/vite-plugin-graphiql) - Integration for GraphiQL IDE.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-image-optimizer (⭐63)](https://github.com/FatehAK/vite-plugin-image-optimizer) - Optimize (compress) your image assets using Sharp.js and SVGO at build time.
+*   [vite-plugin-image-optimizer (⭐158)](https://github.com/FatehAK/vite-plugin-image-optimizer) - Optimize (compress) your image assets using Sharp.js and SVGO at build time.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Configuration
 
-*   [softprops/envy (⭐715)](https://github.com/softprops/envy) - deserialize env vars into typesafe structs [![Main](https://github.com/softprops/envy/actions/workflows/main.yml/badge.svg)](https://github.com/softprops/envy/actions/workflows/main.yml)
+*   [softprops/envy (⭐754)](https://github.com/softprops/envy) - deserialize env vars into typesafe structs [![Main](https://github.com/softprops/envy/actions/workflows/main.yml/badge.svg)](https://github.com/softprops/envy/actions/workflows/main.yml)
 
 ## [6. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Prompt Engineering | Prompt Design | Prompt Craft / Text-related Generative Tools
 
-*   [dair-ai/Prompt-Engineering-Guide (⭐30k)](https://github.com/dair-ai/Prompt-Engineering-Guide): Guide and resources for prompt engineering
+*   [dair-ai/Prompt-Engineering-Guide (⭐37k)](https://github.com/dair-ai/Prompt-Engineering-Guide): Guide and resources for prompt engineering
 
 ### Courses and Educational Materials / Deforum
 
@@ -72,12 +72,12 @@
 
 *   [Explainpaper](https://www.explainpaper.com/): "Upload a paper, highlight confusing text, get an explanation"
 *   [Paper Player](https://paperplayerapp.com/): A new way for busy scientists and technologists to consume open science
-*   [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3 (⭐541)](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
+*   [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3 (⭐595)](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
 *   [hwaseem04/Research-digest (⭐2)](https://github.com/hwaseem04/Research-digest): Research paper summariser application for our hackathon
 
 ### Papers and References / Papers Collections
 
-*   [dair-ai/ML-Papers-Explained (⭐4.2k)](https://github.com/dair-ai/ML-Papers-Explained): Explanation to key concepts in ML
+*   [dair-ai/ML-Papers-Explained (⭐6.2k)](https://github.com/dair-ai/ML-Papers-Explained): Explanation to key concepts in ML
 
 ### Discussions and Philosophy / Critical Views about Generative AI
 
@@ -109,22 +109,22 @@
 
 ### Contents / Imaging
 
-*   [Slim (⭐76)](https://github.com/ImagingDataCommons/slim) - Interoperable web viewer and annotation tool for computational pathology.
+*   [Slim (⭐83)](https://github.com/ImagingDataCommons/slim) - Interoperable web viewer and annotation tool for computational pathology.
 
 ### Contents / Libraries
 
-*   [ehrapy (⭐37)](https://github.com/theislab/ehrapy/) - Electronic Health Record analysis in Python.
-*   [Hermes (⭐135)](https://github.com/wardle/hermes) - a SNOMED CT terminology server.
+*   [ehrapy (⭐45)](https://github.com/theislab/ehrapy/) - Electronic Health Record analysis in Python.
+*   [Hermes (⭐139)](https://github.com/wardle/hermes) - a SNOMED CT terminology server.
 
 ## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [toolbox (⭐0)](https://github.com/paxcoder/zsh-toolbox) - Automagically updates [homebrew](https://brew.sh) plugins. Allows enabling/disabling notice during startup and alias setup.
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [daivasmara (⭐56)](https://github.com/Daivasmara/daivasmara.zsh-theme) - Chill theme with decorators for current directory (truncated if necessary) and `git` information, including time since last commit.
+*   [daivasmara (⭐60)](https://github.com/Daivasmara/daivasmara.zsh-theme) - Chill theme with decorators for current directory (truncated if necessary) and `git` information, including time since last commit.
 
 ## [10. Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md)
 
@@ -134,7 +134,7 @@
 
 ### Tools / Ansible
 
-*   [themer (⭐5k)](https://github.com/themerdev/themer) - Manage and generate themes across your development tools from within
+*   [themer (⭐5.2k)](https://github.com/themerdev/themer) - Manage and generate themes across your development tools from within
     your dotfiles.
 
 ### Miscellaneous / macOS
@@ -145,15 +145,15 @@
 
 ### Related Lists / macOS
 
-*   [Awesome Fish (⭐3.3k)](https://github.com/jorgebucaran/awsm.fish) - Curated list of packages, prompts, and resources for the
+*   [Awesome Fish (⭐3.6k)](https://github.com/jorgebucaran/awsm.fish) - Curated list of packages, prompts, and resources for the
     fish shell.
-*   [Awesome Sysadmin (⭐16k)](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source
+*   [Awesome Sysadmin (⭐20k)](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source
     sysadmin resources.
 
 ### Archive/abandoned projects / macOS
 
 *   [antigen](http://antigen.sharats.me)
-*   [dotstow (⭐92)](https://github.com/clayrisser/dotstow)
+*   [dotstow (⭐96)](https://github.com/clayrisser/dotstow)
 *   [YADR](http://skwp.github.io/dotfiles/)
 
 ## [11. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
@@ -175,7 +175,7 @@
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [airbrake/gobrake (⭐102)](https://github.com/airbrake/gobrake/tree/master/examples/fiber) - An Airbrake middleware that reports performance data (route stats).
+*   [airbrake/gobrake (⭐103)](https://github.com/airbrake/gobrake/tree/master/examples/fiber) - An Airbrake middleware that reports performance data (route stats).
 
 ---
 

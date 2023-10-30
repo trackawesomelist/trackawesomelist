@@ -22,7 +22,7 @@
 
 ### Performance Testing / Streaming Protocols
 
-*   [HLS JMeter Plugin (⭐41)](https://github.com/Blazemeter/HLSPlugin)
+*   [HLS JMeter Plugin (⭐42)](https://github.com/Blazemeter/HLSPlugin)
 
 ## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Web Frameworks
 
-*   [Shivneri (⭐21)](https://github.com/ujjwalguptaofficial/shivneri) - Component based MVC web framework for crystal targeting good code structures, modularity & performance
+*   [Shivneri (⭐22)](https://github.com/ujjwalguptaofficial/shivneri) - Component based MVC web framework for crystal targeting good code structures, modularity & performance
 
 ## [6. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Unions
 
-*   [Freezed (⭐1.4k)](https://github.com/rrousselGit/freezed) - Code generation for immutable classes that has a simple syntax/API without compromising on the features.
+*   [Freezed (⭐1.6k)](https://github.com/rrousselGit/freezed) - Code generation for immutable classes that has a simple syntax/API without compromising on the features.
 
 ### Tutorials
 
@@ -70,13 +70,13 @@
 
 ### AI
 
-*   [astar (⭐9)](https://github.com/xiejiangzhi/astar) - An other A\* library. Any map(gird, point, mesh or infinite map) and support path cost.
+*   [astar (⭐11)](https://github.com/xiejiangzhi/astar) - An other A\* library. Any map (grid, point, mesh or infinite map) and support path cost.
 
 ## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Privacy and Encryption Tools / Telegram
 
-*   [uBlock Origin (⭐36k)](https://github.com/gorhill/uBlock)
+*   [uBlock Origin (⭐37k)](https://github.com/gorhill/uBlock)
 
 ## [11. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Tools / XML
 
-*   [denomander (⭐136)](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
+*   [denomander (⭐141)](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -104,11 +104,11 @@
 
 ### Theming
 
-*   [dynamic-antd-theme (⭐254)](https://github.com/luffyZh/dynamic-antd-theme) - A simple plugin to dynamic change ant-design theme whether less or css.
+*   [dynamic-antd-theme (⭐253)](https://github.com/luffyZh/dynamic-antd-theme) - A simple plugin to dynamic change ant-design theme whether less or css.
 
 ### Icons / Themes
 
-*   [Material Design Icons (⭐21)](https://github.com/2fd/ant-design-icons) Material Design Icons for Ant Design
+*   [Material Design Icons (⭐23)](https://github.com/2fd/ant-design-icons) Material Design Icons for Ant Design
 
 ---
 

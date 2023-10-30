@@ -10,9 +10,9 @@
 
 ### Language Support
 
-*   [playwright-ruby-client (⭐176)](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright port for Ruby.
-*   [playwright-cr (⭐18)](https://github.com/naqvis/playwright-cr) - Playwright port for Crystal.
-*   [playwright-rust (⭐174)](https://github.com/octaltree/playwright-rust) - Playwright port for Rust.
+*   [playwright-ruby-client (⭐185)](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright port for Ruby.
+*   [playwright-cr (⭐17)](https://github.com/naqvis/playwright-cr) - Playwright port for Crystal.
+*   [playwright-rust (⭐186)](https://github.com/octaltree/playwright-rust) - Playwright port for Rust.
 
 ## [2. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -24,31 +24,31 @@
 
 ### Software / Task Management & To-do Lists
 
-*   [Focalboard](https://www.focalboard.com/) - An open source, self-hosted alternative to Trello, Notion, and Asana. It helps define, organize, track and manage work across individuals and teams. ([Source Code (⭐15k)](https://github.com/mattermost/focalboard), [Clients](https://www.focalboard.com/download/personal-edition/desktop/)) `MIT/AGPL-3.0/Apache-2.0` `Nodejs/Go`
+*   [Focalboard](https://www.focalboard.com/) - Define, organize, track and manage work across individuals and teams (alternative to Trello, Notion, and Asana). ([Source Code (⭐17k)](https://github.com/mattermost/focalboard), [Clients](https://www.focalboard.com/download/personal-edition/desktop/)) `MIT/AGPL-3.0/Apache-2.0` `Nodejs/Go/Docker`
 
 ## [4. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Devops
 
-*   [k9s (⭐21k)](https://github.com/derailed/k9s) - Manage Kubernetes Clusters.
+*   [k9s (⭐22k)](https://github.com/derailed/k9s) - Manage Kubernetes Clusters.
 
 ## [5. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
-*   [vue-pure-admin (⭐8.7k)](https://github.com/xiaoxian521/vue-pure-admin) - Background management template based on Vue3, TypeScript, Tailwind CSS, element-plus.
+*   [vue-pure-admin (⭐11k)](https://github.com/xiaoxian521/vue-pure-admin) - Background management template based on Vue3, TypeScript, Tailwind CSS, element-plus.
 
 ### Templates / React
 
-*   [vite-reactts-eslint-prettier (⭐405)](https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier) - React, TypeScript, ESlint, Prettier, Pre-commit.
+*   [vite-reactts-eslint-prettier (⭐442)](https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier) - React, TypeScript, ESlint, Prettier, Pre-commit.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-html-config (⭐36)](https://github.com/ahwgs/vite-plugin-html-config) - HTML tag configuration, such as script link style meta favicon and more.
+*   [vite-plugin-html-config (⭐42)](https://github.com/ahwgs/vite-plugin-html-config) - HTML tag configuration, such as script link style meta favicon and more.
 
 ### Vue / Helpers
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-gql (⭐203)](https://github.com/wheatjs/vite-plugin-vue-gql) - GraphQL Tags for your Vue SFC.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-gql (⭐206)](https://github.com/wheatjs/vite-plugin-vue-gql) - GraphQL Tags for your Vue SFC.
 
 ## [6. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
@@ -56,7 +56,7 @@
 
 *   [Svelte News Weekly](https://svelte.news/weekly). A curated newsletter for Svelte enthusiasts with a weekly dose of handpicked news.
 
-### PHP / Angular
+### PHP / Svelte
 
 *   [PHP Annotated Monthly](https://info.jetbrains.com/PHP-Annotated-Subscription.html). A free monthly newsletter containing latest news from the PHP community and the most interesting PHP articles from around the web. [Archive](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/)
 
@@ -64,34 +64,30 @@
 
 ### React Component Libraries
 
-*   [ant-design (⭐85k)](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-*   [chakra-ui (⭐32k)](https://github.com/chakra-ui/chakra-ui/) - Simple, Modular & Accessible UI Components for your React Applications
-*   [eui (⭐5.7k)](https://github.com/elastic/eui) - Elastic UI Framework
-*   [react-spectrum (⭐8.4k)](https://github.com/adobe/react-spectrum) - Adobe's collection of libraries and tools
-*   [ring-ui (⭐3.4k)](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components
+*   [ant-design (⭐88k)](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 
 ### React Awesome Components
 
-*   [react-device-detect (⭐2.3k)](https://github.com/duskload/react-device-detect) - Detect device, and render view accordingly
-*   [react-colorful (⭐2.6k)](https://github.com/omgovich/react-colorful) - A tiny color picker component
+*   [react-device-detect (⭐2.5k)](https://github.com/duskload/react-device-detect) - Detect device, and render view accordingly
+*   [react-colorful (⭐2.8k)](https://github.com/omgovich/react-colorful) - A tiny color picker component
 
 ### React Charts
 
-*   [recharts (⭐20k)](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
-*   [victory (⭐10k)](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
-*   [react-vis (⭐8.5k)](https://github.com/uber/react-vis) - Data Visualization Components
-*   [nivo (⭐11k)](https://github.com/plouc/nivo) - Provides a rich set of data visualization components built on top of the D3 and React libraries
+*   [recharts (⭐21k)](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
+*   [victory (⭐11k)](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
+*   [react-vis (⭐8.6k)](https://github.com/uber/react-vis) - Data Visualization Components
+*   [nivo (⭐12k)](https://github.com/plouc/nivo) - Provides a rich set of data visualization components built on top of the D3 and React libraries
 
 ### React Renderers
 
-*   [react-three-fiber (⭐22k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js
-*   [react-pdf (⭐12k)](https://github.com/diegomura/react-pdf) - Create PDF files using React
-*   [react-figma (⭐2.2k)](https://github.com/react-figma/react-figma) - A React renderer for Figma
+*   [react-three-fiber (⭐24k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js
+*   [react-pdf (⭐13k)](https://github.com/diegomura/react-pdf) - Create PDF files using React
+*   [react-figma (⭐2.3k)](https://github.com/react-figma/react-figma) - A React renderer for Figma
 
 ### React Graphics and Animations
 
-*   [react-spring (⭐25k)](https://github.com/pmndrs/react-spring) - A spring physics based React animation library
-*   [framer-motion (⭐18k)](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
+*   [react-spring (⭐27k)](https://github.com/pmndrs/react-spring) - A spring physics based React animation library
+*   [framer-motion (⭐20k)](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 
 ## [8. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -103,7 +99,7 @@
 
 ### Cloud platform security / Kubernetes
 
-*   [certificate-expiry-monitor (⭐149)](https://github.com/muxinc/certificate-expiry-monitor) - Utility that exposes the expiry of TLS certificates as Prometheus metrics.
+*   [certificate-expiry-monitor (⭐152)](https://github.com/muxinc/certificate-expiry-monitor) - Utility that exposes the expiry of TLS certificates as Prometheus metrics.
 
 ## [9. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
@@ -128,25 +124,25 @@
 
 ### Audio
 
-*   [ni-media (⭐217)](https://github.com/NativeInstruments/ni-media) - C++ library for reading and writing audio files. \[MIT]
+*   [ni-media (⭐224)](https://github.com/NativeInstruments/ni-media) - C++ library for reading and writing audio files. \[MIT]
 
 ### JSON
 
-*   [yyjson (⭐2.5k)](https://github.com/ibireme/yyjson) - A high performance JSON library written in ANSI C. \[MIT]
+*   [yyjson (⭐2.6k)](https://github.com/ibireme/yyjson) - A high performance JSON library written in ANSI C. \[MIT]
 
 ### Networking
 
-*   [cpp-httplib (⭐9.5k)](https://github.com/yhirose/cpp-httplib) - A single file C++11 header-only HTTP/HTTPS server library. \[MIT]
+*   [cpp-httplib (⭐10k)](https://github.com/yhirose/cpp-httplib) - A single file C++11 header-only HTTP/HTTPS server library. \[MIT]
 
 ## [13. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C
 
-*   [cl-cxx-jit (⭐44)](https://github.com/Islam0mar/CL-CXX-JIT) -  Common Lisp and C++ interoperation with JIT. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-cxx-jit (⭐46)](https://github.com/Islam0mar/CL-CXX-JIT) -  Common Lisp and C++ interoperation with JIT. [MIT](https://opensource.org/licenses/MIT).
 
 ### Shells, shells interfaces / Third-party APIs
 
-*   [Lish (⭐82)](https://github.com/nibbula/lish) - `lish` may someday be a lisp shell. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [Lish (⭐92)](https://github.com/nibbula/lish) - `lish` may someday be a lisp shell. [GPL3](http://www.gnu.org/copyleft/gpl.html).
     *   supports tab-completion of executables in the path and Lisp symbols, allows to write and to mix shell commands and Lisp code, has a tiny REPL and an interactive debugger, and more.
 
 ## [14. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
@@ -163,14 +159,14 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-dominos (⭐1k)](https://github.com/ndmckinley/terraform-provider-dominos) - Provider for Dominos Pizza.
+*   [terraform-provider-dominos (⭐1.1k)](https://github.com/ndmckinley/terraform-provider-dominos) - Provider for Dominos Pizza.
 *   [terraform-provider-k8s (⭐134)](https://github.com/banzaicloud/terraform-provider-k8s) - Simple Kubernetes Provider, works with any manifest.
-*   [terraform-provider-snowflake (⭐398)](https://github.com/chanzuckerberg/terraform-provider-snowflake) - Provider for Snowflake data warehouse.
+*   [terraform-provider-snowflake (⭐445)](https://github.com/chanzuckerberg/terraform-provider-snowflake) - Provider for Snowflake data warehouse.
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
-*   [Infracost (⭐9.1k)](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in your CLI and pull requests.
-*   [terraform-graph-beautifier (⭐192)](https://github.com/pcasteran/terraform-graph-beautifier) - Command line tool allowing to convert the barely usable output of the terraform graph command to something more meaningful and explanatory.
+*   [Infracost (⭐9.7k)](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in your CLI and pull requests.
+*   [terraform-graph-beautifier (⭐286)](https://github.com/pcasteran/terraform-graph-beautifier) - Command line tool allowing to convert the barely usable output of the terraform graph command to something more meaningful and explanatory.
 
 ## [16. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -207,14 +203,14 @@
 ### Libraries / Network programming
 
 *   message-io
-    *   [lemunozm/message-io (⭐901)](https://github.com/lemunozm/message-io) — Event-driven message library to build network applications easy and fast. Supports TCP, UDP and WebSockets. [![build badge](https://img.shields.io/github/workflow/status/lemunozm/message-io/message-io%20ci)](https://github.com/lemunozm/message-io/actions?query=workflow%3A%22message-io+ci%22)
+    *   [lemunozm/message-io (⭐961)](https://github.com/lemunozm/message-io) — Event-driven message library to build network applications easy and fast. Supports TCP, UDP and WebSockets. [![build badge](https://img.shields.io/github/workflow/status/lemunozm/message-io/message-io%20ci)](https://github.com/lemunozm/message-io/actions?query=workflow%3A%22message-io+ci%22)
 
 ## [22. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Others / Object detection and object tracking
 
-*   [Semantic Segmentation Editor :octocat: (⭐1.5k)](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) - Point cloud and image semantic segmentation editor by Hitachi Automotive And Industry Laboratory, point cloud annotator / labeling.
-*   [3D Bounding Box Annotation Tool :octocat: (⭐449)](https://github.com/walzimmer/3d-bat) - 3D BAT: A Semi-Automatic, Web-based 3D Annotation Toolbox for Full-Surround, Multi-Modal Data Streams, point cloud annotator / labeling.
+*   [Semantic Segmentation Editor :octocat: (⭐1.6k)](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) - Point cloud and image semantic segmentation editor by Hitachi Automotive And Industry Laboratory, point cloud annotator / labeling.
+*   [3D Bounding Box Annotation Tool :octocat: (⭐498)](https://github.com/walzimmer/3d-bat) - 3D BAT: A Semi-Automatic, Web-based 3D Annotation Toolbox for Full-Surround, Multi-Modal Data Streams, point cloud annotator / labeling.
     *   [Paper :newspaper:](https://arxiv.org/pdf/1905.00525.pdf)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=gSGG4Lw8BSU)
 
@@ -228,7 +224,7 @@
 
 ### Crates / Component Libraries
 
-*   [yew-components (⭐52)](https://github.com/angular-rust/yew-components) - Material Design Components for the Yew framework.
+*   [yew-components (⭐56)](https://github.com/angular-rust/yew-components) - Material Design Components for the Yew framework.
 
 ## [25. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
 
@@ -252,7 +248,7 @@
 
 ### Contents / Imaging
 
-*   [OHIF (⭐2.4k)](https://github.com/OHIF/Viewers) - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker.
+*   [OHIF (⭐2.5k)](https://github.com/OHIF/Viewers) - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker.
 
 ### Contents / Dental
 
@@ -260,18 +256,18 @@
 
 ### Contents / Frameworks
 
-*   [API Server (⭐103)](https://github.com/smart-on-fhir/api-server) - FHIR Server to support patient- and clinician-facing apps.
+*   [API Server (⭐104)](https://github.com/smart-on-fhir/api-server) - FHIR Server to support patient- and clinician-facing apps.
 *   [Clinical Meteor project](https://github.com/clinical-meteor) - Meteor for FDA, HIPAA, and HL7 compliant applications.
 
 ### Contents / Libraries
 
-*   [Archie (⭐48)](https://github.com/openehr/archie) - OpenEHR Library written in Java.
+*   [Archie (⭐47)](https://github.com/openehr/archie) - OpenEHR Library written in Java.
 *   [DCMTK](https://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit.
-*   [dicom (⭐823)](https://github.com/suyashkumar/dicom) - High Performance DICOM Medical Image Parser in GoLang.
-*   [Fellow Oak DICOM (⭐908)](https://github.com/fo-dicom/fo-dicom) - DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono, and Unity.
-*   [FHIR protocol buffers (⭐721)](https://github.com/google/fhir) - A Google implementation of protocol buffers for FHIR.
-*   [php-fhir (⭐96)](https://github.com/dcarbone/php-fhir) - Tools for creating PHP classes from the HL7 FHIR Specification.
-*   [pynetdicom (⭐430)](https://github.com/pydicom/pynetdicom) - A Python implementation of the DICOM networking protocol.
+*   [dicom (⭐834)](https://github.com/suyashkumar/dicom) - High Performance DICOM Medical Image Parser in GoLang.
+*   [Fellow Oak DICOM (⭐929)](https://github.com/fo-dicom/fo-dicom) - DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono, and Unity.
+*   [FHIR protocol buffers (⭐732)](https://github.com/google/fhir) - A Google implementation of protocol buffers for FHIR.
+*   [php-fhir (⭐101)](https://github.com/dcarbone/php-fhir) - Tools for creating PHP classes from the HL7 FHIR Specification.
+*   [pynetdicom (⭐437)](https://github.com/pydicom/pynetdicom) - A Python implementation of the DICOM networking protocol.
 
 ### Contents / Data
 
@@ -289,7 +285,7 @@
 
 ### Editor Plugins
 
-*   [clojure-lsp (multiple editors) (⭐990)](https://github.com/clojure-lsp/clojure-lsp)
+*   [clojure-lsp (multiple editors) (⭐1k)](https://github.com/clojure-lsp/clojure-lsp)
 
 ## [28. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
@@ -301,7 +297,7 @@
 
 ### Hosting and media
 
-*   [Gemini Space](https://gemini.circumlunar.space/) is heavier than gopher, lighter than the web, will not replace either, strives for maximum power to weight ratio and takes user privacy very seriously. More [Resources / Awsome Gemini (⭐743)](https://github.com/kr1sp1n/awesome-gemini)
+*   [Gemini Space](https://gemini.circumlunar.space/) is heavier than gopher, lighter than the web, will not replace either, strives for maximum power to weight ratio and takes user privacy very seriously. More [Resources / Awsome Gemini (⭐790)](https://github.com/kr1sp1n/awesome-gemini)
 
 ## [30. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
@@ -325,16 +321,16 @@
 ### Other multimodal data formats / Ruby
 
 *   [Alliance for Parking Data Standards (APDS)](https://www.allianceforparkingdatastandards.org/) - Formed by the [International Parking Institute (IPI)](https://www.parking.org/), the [British Parking Association (BPA)](http://www.britishparking.co.uk/), and the [European Parking Association (EPA)](http://www.europeanparking.eu/), APDS is a not-for-profit organization with the mission to develop, promote, manage, and maintain a uniform global standard that will allow organizations to share parking data across platforms worldwide.  APDS Version 1.0 documents are [here](https://www.allianceforparkingdatastandards.org/resources).
-*   [CurbLR (⭐67)](https://github.com/curblr/curblr-spec) - A specification for curb regulations.
-*   [Dyno-Path (⭐1)](https://github.com/osplanning-data-standards/dyno-path) - (Under development - see [this post (⭐19)](https://github.com/osplanning-data-standards/GTFS-PLUS/pull/52#issuecomment-331231000)) Data for individual passenger *trajectories*.
-*   [GTFS-flex (⭐97)](https://github.com/MobilityData/gtfs-flex) - A data format that models flexible public transportation services as an extension to GTFS.
-*   [GTFS-ride (⭐43)](https://github.com/ODOT-PTS/GTFS-ride) - An open, fixed-route transit ridership data standard developed through a partnership between the Oregon Department of Transportation and Oregon State University.
-*   [General Modeling Network Specification (GMNS) (⭐83)](https://github.com/zephyr-data-specs/GMNS) - A format for sharing routable road network files designed to be used in multi-modal static and dynamic transportation planning and operations models. Volpe/FHWA partnership with Zephyr Foundation.
+*   [CurbLR (⭐69)](https://github.com/curblr/curblr-spec) - A specification for curb regulations.
+*   [Dyno-Path (⭐1)](https://github.com/osplanning-data-standards/dyno-path) - (Under development - see [this post (⭐20)](https://github.com/osplanning-data-standards/GTFS-PLUS/pull/52#issuecomment-331231000)) Data for individual passenger *trajectories*.
+*   [GTFS-flex (⭐104)](https://github.com/MobilityData/gtfs-flex) - A data format that models flexible public transportation services as an extension to GTFS.
+*   [GTFS-ride (⭐46)](https://github.com/ODOT-PTS/GTFS-ride) - An open, fixed-route transit ridership data standard developed through a partnership between the Oregon Department of Transportation and Oregon State University.
+*   [General Modeling Network Specification (GMNS) (⭐85)](https://github.com/zephyr-data-specs/GMNS) - A format for sharing routable road network files designed to be used in multi-modal static and dynamic transportation planning and operations models. Volpe/FHWA partnership with Zephyr Foundation.
 *   [General Travel Network Specification](https://zephyrtransport.org/trb17projects/7-general-travel-network-specification/) - A planned data specification for sharing travel demand model networks.
 *   [Managed and Tolled Lanes Feed Specification (MTLFS) (⭐9)](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - Proposal for a schema that comprise the Managed and Tolled Lanes Tolling Feed Specification (MTLFS) and defines the fields used in all of those files developed by [Santa Clara Valley Transportation Authority](http://www.vta.org/).
-*   [Mobility Data Specification (MDS) (⭐630)](https://github.com/openmobilityfoundation/mobility-data-specification) - A format to implement realtime data sharing, measurement and regulation for municipalities and mobility as a service providers. It is meant to ensure that governments have the ability to enforce, evaluate and manage providers. Maintained by the [Open Mobility Foundation](https://www.openmobilityfoundation.org/).
+*   [Mobility Data Specification (MDS) (⭐643)](https://github.com/openmobilityfoundation/mobility-data-specification) - A format to implement realtime data sharing, measurement and regulation for municipalities and mobility as a service providers. It is meant to ensure that governments have the ability to enforce, evaluate and manage providers. Maintained by the [Open Mobility Foundation](https://www.openmobilityfoundation.org/).
 *   [NeTex](http://netex-cen.eu/) - A general purpose XML format designed for the exchange of complex static transport data among distributed systems managed by the [CEN standards process](https://www.cen.eu/work/ENdev/how/Pages/default.aspx).
-*   [Open Sales and Distribution Model (OSDM) (⭐30)](https://github.com/UnionInternationalCheminsdeFer/OSDM) - Aims to substantially simplify the booking process for customers of rail trips and to lower complexity and distribution costs for distributors and railway carriers. Contains a specification of an offline model and on-line API. Maintained by the [International Union of Railways (UIC)](https://github.com/UnionInternationalCheminsdeFer).
+*   [Open Sales and Distribution Model (OSDM) (⭐35)](https://github.com/UnionInternationalCheminsdeFer/OSDM) - Aims to substantially simplify the booking process for customers of rail trips and to lower complexity and distribution costs for distributors and railway carriers. Contains a specification of an offline model and on-line API. Maintained by the [International Union of Railways (UIC)](https://github.com/UnionInternationalCheminsdeFer).
 *   [SAE Shared and Digital Mobility Committee](http://articles.sae.org/15799/) - Appears to be working on a data standard for car share and transportation network companies (TNCs) / rideshare.
 
 ## [33. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
@@ -384,7 +380,7 @@
 ### Peripheral Access Crates / MSP430
 
 *   [`msp430g2553`](https://github.com/japaric/msp430g2553) Peripheral access API for MSP430G2553 microcontrollers (generated using svd2rust)
-    *   [msp430 quickstart (⭐24)](https://github.com/rust-embedded/msp430-quickstart) some examples for msp430
+    *   [msp430 quickstart (⭐28)](https://github.com/rust-embedded/msp430-quickstart) some examples for msp430
 
 ### no-std crates / WIP
 
@@ -392,14 +388,14 @@
 
 ## [39. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
-### Deployment Tools / Newsletters
+### Deployment Tools / Discovery
 
-*   [pushnix (⭐26)](https://github.com/arnarg/pushnix) - Simple cli utility that pushes NixOS configuration and triggers a rebuild using ssh.
+*   [pushnix (⭐30)](https://github.com/arnarg/pushnix) - Simple cli utility that pushes NixOS configuration and triggers a rebuild using ssh.
 
-### Command-Line Tools / Newsletters
+### Command-Line Tools / Discovery
 
-*   [nixpkgs-fmt (⭐430)](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
-*   [nix-tree (⭐381)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
+*   [nixpkgs-fmt (⭐475)](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
+*   [nix-tree (⭐460)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
 
 ## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -417,10 +413,10 @@
 
 ### Plugins
 
-*   🧩 [CSS Variables (⭐142)](https://github.com/mertasan/tailwindcss-variables) - Exports custom CSS variables (Dark Mode supported).
-*   🛑💼 [Filters (⭐161)](https://github.com/benface/tailwindcss-filters) - Adds `filter` utilities.
-*   🛑💼 [CSS Filters (⭐23)](https://github.com/Larsklopstra/tailwindcss-css-filters) - Adds `filter` and `backdrop-filter` utilities with defaults.
-*   🛑💼 [Blend Mode (⭐67)](https://github.com/hacknug/tailwindcss-blend-mode) - Adds `blend-mode` utilities.
+*   🧩 [CSS Variables (⭐177)](https://github.com/mertasan/tailwindcss-variables) - Exports custom CSS variables (Dark Mode supported).
+*   🛑💼 [Filters (⭐162)](https://github.com/benface/tailwindcss-filters) - Adds `filter` utilities.
+*   🛑💼 [CSS Filters (⭐24)](https://github.com/Larsklopstra/tailwindcss-css-filters) - Adds `filter` and `backdrop-filter` utilities with defaults.
+*   🛑💼 [Blend Mode (⭐66)](https://github.com/hacknug/tailwindcss-blend-mode) - Adds `blend-mode` utilities.
 *   🛑💼 [Colorize (⭐10)](https://github.com/philippbosch/tailwindcss-colorize) - Adds `filter` utilities.
 
 ### Learning
@@ -446,103 +442,103 @@
 
 ### Vienna
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bolonio" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/bolonio" height="70px" width="70px" align="left" alt="" />
 
 **Adrián Bolonio**\
 Topics: React, JavaScript, Accessibility\
 <https://twitter.com/bolonio>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sharifsbeat" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/sharifsbeat" height="70px" width="70px" align="left" alt="" />
 
 **Ali Sharif**\
 Topics: Functional Programming, Agile, Product Development\
 <https://twitter.com/sharifsbeat>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/okonetchnikov" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/okonetchnikov" height="70px" width="70px" align="left" alt="" />
 
 **Andrey Okonetchnikov**\
 Topics: CSS in JS, Linting, Tooling\
 <https://twitter.com/okonetchnikov>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/christophrumpel" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/christophrumpel" height="70px" width="70px" align="left" alt="" />
 
 **Christoph Rumpel**\
 Topics: PHP, Laravel, Chatbots\
 <https://twitter.com/christophrumpel>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/eva_trostlos" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/eva_trostlos" height="70px" width="70px" align="left" alt="" />
 
 **Eva Lettner**\
 Topics: CSS, Web\
 <https://twitter.com/eva_trostlos>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/glnnrys" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/glnnrys" height="70px" width="70px" align="left" alt="" />
 
 **Glenn Reyes**\
 Topics: Code Splitting, React\
 <https://twitter.com/glnnrys>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mrozilla" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/mrozilla" height="70px" width="70px" align="left" alt="" />
 
 **Jan Hruby**\
 Topics: React, Redux, CSS in JS, React Native, Serverless, GraphQL\
 <https://twitter.com/mrozilla>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/karlhorky" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/karlhorky" height="70px" width="70px" align="left" alt="" />
 
 **Karl Horky**\
 Topics: Tooling, Standards, Intersectionality, OSS, Psychology\
 <https://twitter.com/karlhorky>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mmatuzo" height="70" align="left" alt="">
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/mmatuzo" height="70" align="left" alt="">
 
 **Manuel Matuzović**\
 Topics: CSS, Grid, Accessibility\
 <https://twitter.com/mmatuzo>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mxbck" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/mxbck" height="70px" width="70px" align="left" alt="" />
 
 **Max Böck**\
 Topics: CSS, JavaScript, Progressive Web Apps\
 <https://twitter.com/mxbck>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mxstbr" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/mxstbr" height="70px" width="70px" align="left" alt="" />
 
 **Max Stoiber**\
 Topics: React, Styled Components, OSS\
 <https://twitter.com/mxstbr>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/nikgraf" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/nikgraf" height="70px" width="70px" align="left" alt="" />
 
 **Nik Graf**\
 Topics: ReasonML, Serverless, GraphQL, Virtual Reality, React\
 <https://twitter.com/nikgraf>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/glyphe" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/glyphe" height="70px" width="70px" align="left" alt="" />
 
 **Oliver Schöndorfer**\
 Topics: Typography, CSS\
 <https://twitter.com/glyphe>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ryyppy" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/ryyppy" height="70px" width="70px" align="left" alt="" />
 
 **Patrick Stapfer**\
 Topics: ReasonML, Static Typing, Flow\
 <https://twitter.com/ryyppy>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ferakpeter" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/ferakpeter" height="70px" width="70px" align="left" alt="" />
 
 **Peter Ferak**\
 Topics: Functional Programming, Computer Science\
 <https://twitter.com/ferakpeter>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/thefubhy" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/thefubhy" height="70px" width="70px" align="left" alt="" />
 
 **Sebastian Siemssen**\
 Topics: React, GraphQL, Tooling\
 <https://twitter.com/thefubhy>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/thecurlydev" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/thecurlydev" height="70px" width="70px" align="left" alt="" />
 
 **Timo Obereder**\
 Topics: React, Composition, Android, RXJava, Kotlin\
@@ -552,7 +548,7 @@ Topics: React, Composition, Android, RXJava, Kotlin\
 
 ### Stockholm
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/muhd_ahsanayaz" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/muhd_ahsanayaz" height="70px" width="70px" align="left" alt="" />
 
 **Muhammad Ahsan Ayaz**\
 Topics: JavaScript, Angular, Node.js, Ionic, Firebase, Stencil, Progressive Web Apps\
@@ -562,13 +558,13 @@ Topics: JavaScript, Angular, Node.js, Ionic, Firebase, Stencil, Progressive Web 
 
 ### Birmingham
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/brucel" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/brucel" height="70px" width="70px" align="left" alt="" />
 
 **Bruce Lawson**\
 Topics: Standards, Performance\
 <https://twitter.com/brucel>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sil" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/sil" height="70px" width="70px" align="left" alt="" />
 
 **Stuart Langridge**\
 Topics: JavaScript, HTML, Open Source\
@@ -578,7 +574,7 @@ Topics: JavaScript, HTML, Open Source\
 
 ### Omaha
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/courtneyheitman" height="70px" width="70px" align="left" alt="" />
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/courtneyheitman" height="70px" width="70px" align="left" alt="" />
 
 **Courtney Heitman**\
 Topics: UX Development, Usability, Accessibility, Scrum, Agile\
@@ -715,14 +711,13 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 
 ### Framework Components
 
-*   [phx\_component\_helpers (⭐119)](https://github.com/cblavier/phx_component_helpers) - Extensible live\_components, without boilerplate.
+*   [phx\_component\_helpers (⭐123)](https://github.com/cblavier/phx_component_helpers) - Extensible live\_components, without boilerplate.
 
 ## [50. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Tools
 
-*   [Bubble IPFS From URL Plugin](https://bubble.io/plugin/ipfs-add-from-uri-1616424944051x638386852081172500) - Bubble (no code platform) plugin for IPFS From URL integration
-*   [ipns-pin (⭐13)](https://github.com/justicenode/node-ipns-pin) - A command-line tool to pin stuff via ipns.
+*   [ipns-pin (⭐14)](https://github.com/justicenode/node-ipns-pin) - A command-line tool to pin stuff via ipns.
 
 ## [51. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
 
@@ -767,11 +762,11 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 
 ### Status Bar
 
-*   [aws-tmux (⭐24)](https://github.com/darko-mesaros/aws-tmux) Tmux plugin that gives you access to some (potentially) useful information about AWS.
+*   [aws-tmux (⭐28)](https://github.com/darko-mesaros/aws-tmux) Tmux plugin that gives you access to some (potentially) useful information about AWS.
 
 ### Plugins
 
-*   [tmux-wormhole (⭐62)](https://github.com/gcla/tmux-wormhole) Use tmux to download files with magic wormhole
+*   [tmux-wormhole (⭐71)](https://github.com/gcla/tmux-wormhole) Use tmux to download files with magic wormhole
 
 ## [54. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
@@ -784,7 +779,7 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 
 ### Contents / Games
 
-*   [FlutterDex (⭐52)](https://github.com/ArizArmeidi/FlutterDex) - a Simple Pokedex app built with API from [PokeAPI](https://pokeapi.co/) by [Ariz Armeidi](https://github.com/ArizArmeidi).
+*   [FlutterDex (⭐54)](https://github.com/ArizArmeidi/FlutterDex) - a Simple Pokedex app built with API from [PokeAPI](https://pokeapi.co/) by [Ariz Armeidi](https://github.com/ArizArmeidi).
 
 ## [56. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
@@ -792,38 +787,38 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 
 *   [Sitecore Containers Prerequisites (⭐0)](https://github.com/nickwesselman/sitecore-containers-prerequisites) - Checks the machine for Sitecore Container compatibility, enables Hyper-V, downloads and installs software including Sitecore 10.1
 *   [Containers & AKS (⭐11)](https://github.com/bplasmeijer/Sitecore-Symposium-2020-Containers-AKS) - Taking Sitecore 10 to the next level into Azure AKS.
-*   [PaaS to AKS (⭐11)](https://github.com/robhabraken/paas-to-aks) - Boilerplate project for deploying Sitecore 10.0.\* to Azure AKS coming from an Azure PaaS architecture for Sitecore. That includes ARM templates for External Data Services, required to run Sitecore k8s in production and scripts to support a full Infrastructure-as-Code setup for Sitecore on AKS.
+*   [PaaS to AKS (⭐11)](https://github.com/robhabraken/paas-to-aks) - Boilerplate project for deploying Sitecore 10.0.\* to Azure AKS coming from an Azure PaaS architecture for Sitecore. That includes ARM templates for External Data Services, required to run Sitecore k8s in production, and scripts to support a full Infrastructure-as-Code setup for Sitecore on AKS.
 
 ### Content Hub
 
-*   [Starter Kit for Content Hub with Next.js and GraphQL (⭐8)](https://github.com/konabos/Next.js-Starter-kit-using-GraphQL-and-Sitecore-Content-Hub-Content-as-a-Service) - Content Hub headless starter kit.
-*   [Focal point cropping (⭐2)](https://github.com/robhabraken/content-hub-focal-point-cropping) - Focal point cropping for Content Hub.
+*   [Starter Kit for Content Hub with Next.js and GraphQL (⭐9)](https://github.com/konabos/Next.js-Starter-kit-using-GraphQL-and-Sitecore-Content-Hub-Content-as-a-Service) - Content Hub headless starter kit.
+*   [Focal point cropping (⭐3)](https://github.com/robhabraken/content-hub-focal-point-cropping) - Focal point cropping for Content Hub.
 
 ### SEO
 
-*   [URL Rewrite (⭐24)](https://github.com/iamandycohen/UrlRewrite) - A site-specific version of Redirect / Rewrite module.
+*   [URL Rewrite (⭐23)](https://github.com/iamandycohen/UrlRewrite) - A site-specific version of Redirect / Rewrite module.
 
 ## [57. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Management System
 
-*   [Miradore](https://miradore.com) — Device Management service. Stay up-to-date with your device fleet and secure an unlimited number of devices for free. Free plan offers basic features.
+*   [Miradore](https://miradore.com) — Device Management service. Stay up-to-date with your device fleet and secure unlimited devices for free. The free plan offers basic features.
 
 ### PaaS
 
-*   [Koyeb](https://www.koyeb.com) - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery. Koyeb provides two nano services to run your apps with its forever-free tier and also sponsors open-source projects with free resources. The free plan requires card information.
+*   [Koyeb](https://www.koyeb.com) - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery. Koyeb provides two nano services to run your apps with its forever-free tier and sponsors open-source projects with free resources. The free plan requires card information.
 
 ### Issue Tracking and Project Management
 
-*   [Backlog](https://backlog.com) — Everything your team needs to release great projects in one platform. Free plan offers 1 Project with 10 users & 100MB storage.
+*   [Backlog](https://backlog.com) — Everything your team needs to release great projects in one platform. The free plan offers 1 Project with ten users & 100MB of storage.
 
 ### IDE and Code Editing
 
-*   [Lazarus](https://www.lazarus-ide.org/) — Lazarus is a Delphi compatible cross-platform IDE for Rapid Application Development.
+*   [Lazarus](https://www.lazarus-ide.org/) — Lazarus is a Delphi-compatible cross-platform IDE for Rapid Application Development.
 
 ### Analytics, Events and Statistics
 
-*   [Branch](https://branch.io) — Mobile Analytics Platform. Free Tier offers upto 10K Mobile App Users with deep-linking & other services.
+*   [Branch](https://branch.io) — Mobile Analytics Platform. Free Tier offers up to 10K Mobile App Users with deep-linking & other services.
 *   [Databox](https://databox.com) — Business Insights & Analytics by combining other analytics & BI platforms. Free Plan offers 3 users, dashboards & data sources. 11M historical data records.
 
 ## [58. Amas](/content/sindresorhus/amas/week/README.md)
@@ -853,32 +848,32 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 
 ### Python / Trading & Backtesting
 
-*   [AlphaPy (⭐914)](https://github.com/ScottfreeLLC/AlphaPy) - Automated Machine Learning \[AutoML] with Python, scikit-learn, Keras, XGBoost, LightGBM, and CatBoost
-*   [jesse (⭐4.7k)](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
+*   [AlphaPy (⭐969)](https://github.com/ScottfreeLLC/AlphaPy) - Automated Machine Learning \[AutoML] with Python, scikit-learn, Keras, XGBoost, LightGBM, and CatBoost
+*   [jesse (⭐4.9k)](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 
 ### Python / Time Series
 
-*   [Facebook Prophet (⭐16k)](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
+*   [Facebook Prophet (⭐17k)](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 
 ### Python / Data Sources
 
-*   [yfinance (⭐9.5k)](https://github.com/ranaroussi/yfinance) - Yahoo! Finance market data downloader (+faster Pandas Datareader)
+*   [yfinance (⭐10k)](https://github.com/ranaroussi/yfinance) - Yahoo! Finance market data downloader (+faster Pandas Datareader)
 
 ### Rust / Data Visualization
 
-*   [QuantMath (⭐324)](https://github.com/MarcusRainbow/QuantMath) - Financial maths library for risk-neutral pricing and risk
+*   [QuantMath (⭐335)](https://github.com/MarcusRainbow/QuantMath) - Financial maths library for risk-neutral pricing and risk
 
 ## [62. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
-*   [SpaceEye (⭐304)](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
+*   [SpaceEye (⭐313)](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
 
 ## [63. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### UI Libraries
 
-*   [svelte-chota (⭐287)](https://github.com/AlexxNB/svelte-chota) - Component library built with Chota, a super light-weight CSS framework
+*   [svelte-chota (⭐289)](https://github.com/AlexxNB/svelte-chota) - Component library built with Chota, a super light-weight CSS framework
 
 ## [64. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 

@@ -50,13 +50,13 @@ git status --ignored
 
 ### File Extraction
 
-*   [pcapfex (⭐198)](https://github.com/vikwin/pcapfex) - Packet CAPture Forensic Evidence eXtractor (pcapfex) is a tool that finds and extracts files from packet capture files. Its power lies in its ease of use. Just provide it a pcap file, and it will try to extract all of the files. It is an extensible platform, so additional file types to recognize and extract can be added easily.
+*   [pcapfex (⭐200)](https://github.com/vikwin/pcapfex) - Packet CAPture Forensic Evidence eXtractor (pcapfex) is a tool that finds and extracts files from packet capture files. Its power lies in its ease of use. Just provide it a pcap file, and it will try to extract all of the files. It is an extensible platform, so additional file types to recognize and extract can be added easily.
 
 ## [6. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Libraries / Mathematica
 
-*   [MongoDBLink (⭐18)](https://github.com/zbjornson/MongoDBLink) - Community Mathematica driver
+*   [MongoDBLink (⭐17)](https://github.com/zbjornson/MongoDBLink) - Community Mathematica driver
 
 ## [7. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
@@ -66,7 +66,7 @@ git status --ignored
 
 ### Modules / Math
 
-*   [is-number (⭐217)](https://github.com/jonschlinkert/is-number) - Returns `true` if the value is a number.
+*   [is-number (⭐232)](https://github.com/jonschlinkert/is-number) - Returns `true` if the value is a number.
 
 ## [8. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 
@@ -84,7 +84,7 @@ git status --ignored
 
 ### Domain-specific language
 
-*   [Absinthe Graphql (⭐4.1k)](https://github.com/absinthe-graphql/absinthe) - Fully featured GraphQL library.
+*   [Absinthe Graphql (⭐4.2k)](https://github.com/absinthe-graphql/absinthe) - Fully featured GraphQL library.
 
 ## [11. Awesome Charting](/content/zingchart/awesome-charting/README.md)
 

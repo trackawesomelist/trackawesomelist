@@ -15,7 +15,7 @@
 
 ### Python / Symfony2
 
-*   [FastAPI (⭐54k)](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. With automatic API documentation using Swagger UI and ReDoc, based on OpenAPI and JSON Schema.
+*   [FastAPI (⭐61k)](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. With automatic API documentation using Swagger UI and ReDoc, based on OpenAPI and JSON Schema.
 
 ## [3. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Modules / CLI utils
 
-*   [cac (⭐2.3k)](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
+*   [cac (⭐2.4k)](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 
 ## [7. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
 
@@ -138,7 +138,7 @@
 *   [Blazor-Dev gallery on .NET Foundation](https://dotnet.myget.org/gallery/blazor-dev) - Daily builds of the 'dev' branch of Blazor.
 *   [Blazor Extensions](https://github.com/BlazorExtensions) - Curated extensions for Microsoft ASP.Net Core Blazor.
 *   [FAQ (⭐9.3k)](https://github.com/aspnet/Blazor/wiki/FAQ) - FAQ.
-*   ['Hello World' sample (⭐7.7k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - 'Hello World' sample.
+*   ['Hello World' sample (⭐8.5k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - 'Hello World' sample.
 
 ### Tooling / Others
 
@@ -158,8 +158,8 @@
 *   [Awesome Blazor on Twitter](https://twitter.com/awesomeblazor) - This repository's Twitter feed.
 *   [Gitter](https://gitter.im/aspnet/Blazor) - Blazor discussion on Gitter.
 *   [Learn Blazor](https://learn-blazor.com/) - Community documentation on Blazor.
-*   [Practical samples of Blazor (⭐7.7k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - Practical samples of Blazor.
-*   [Practical samples of Blazor Server-Side (⭐7.7k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor-ss) - Practical samples of Blazor Server-Side.
+*   [Practical samples of Blazor (⭐8.5k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - Practical samples of Blazor.
+*   [Practical samples of Blazor Server-Side (⭐8.5k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor-ss) - Practical samples of Blazor Server-Side.
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/blazor) - Blazor questions feed on Stack Overflow.
 *   [Twitter](https://twitter.com/hashtag/blazor) - Hashtag on Twitter.
 *   [WebAssemblyMan](https://www.webassemblyman.com/) - Man page for Blazor and WebAssembly.
@@ -261,7 +261,7 @@ git commit -m "submodule updated"
 
 ### Dataset / Web
 
-*   [StarData (⭐556)](https://github.com/TorchCraft/StarData) - Matches, videos, etc. [Website](http://nova.wolfwork.com/dataMining.html), [paper](https://arxiv.org/abs/1708.02139).
+*   [StarData (⭐558)](https://github.com/TorchCraft/StarData) - Matches, videos, etc. [Website](http://nova.wolfwork.com/dataMining.html), [paper](https://arxiv.org/abs/1708.02139).
 
 ## [23. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -273,12 +273,12 @@ git commit -m "submodule updated"
 
 ### Cartridges / Custom cartridges
 
-*   [Nekocart (⭐83)](https://github.com/zephray/NekoCart-GB) - Open-source flash cartridge using an Xilinx CPLD as MBC5 ([Post](https://hackaday.io/project/41160-nekocart-cpld-gameboy-cartridge)).
+*   [Nekocart (⭐93)](https://github.com/zephray/NekoCart-GB) - Open-source flash cartridge using an Xilinx CPLD as MBC5 ([Post](https://hackaday.io/project/41160-nekocart-cpld-gameboy-cartridge)).
 *   [Reiner Ziegler's Game Boy page](http://reinerziegler.de.mirrors.gg8.se/) - Commercial and homemade programmable cartridges and programming systems. Tutorials, wiring and schematics provided.
 
 ### Testing / Misc
 
-*   [Mealybug Tearoom Tests (⭐45)](https://github.com/mattcurrie/mealybug-tearoom-tests)
+*   [Mealybug Tearoom Tests (⭐53)](https://github.com/mattcurrie/mealybug-tearoom-tests)
 
 ### Compilers / Experimental/Proof of Concepts
 
@@ -292,7 +292,7 @@ git commit -m "submodule updated"
 
 ### Boilerplates / Other
 
-*   [angular-electron (⭐5.4k)](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.
+*   [angular-electron (⭐5.5k)](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.
 
 ## [26. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -322,7 +322,7 @@ git commit -m "submodule updated"
 
 ### Resources / Tutorials
 
-*   [pg-utils (⭐722)](https://github.com/dataegret/pg-utils) - Useful DBA tools by Data Egret
+*   [pg-utils (⭐772)](https://github.com/dataegret/pg-utils) - Useful DBA tools by Data Egret
 
 ## [29. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
 
@@ -334,7 +334,7 @@ git commit -m "submodule updated"
 
 ### Resources / Job Portal
 
-*   [Vue.js Interview Questions (⭐2k)](https://github.com/sudheerj/vuejs-interview-questions) - A List of 300 VueJS Interview Questions and Answers
+*   [Vue.js Interview Questions (⭐2.2k)](https://github.com/sudheerj/vuejs-interview-questions) - A List of 300 VueJS Interview Questions and Answers
 
 ### Resources / Community
 
@@ -349,7 +349,7 @@ git commit -m "submodule updated"
 
 ### Resources / Examples
 
-*   [Laravel + Nuxt.js boilerplate (⭐495)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
+*   [Laravel + Nuxt.js boilerplate (⭐566)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
 
 ## [31. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
@@ -367,12 +367,12 @@ git commit -m "submodule updated"
 
 ### Networking
 
-*   [librdkafka (⭐6.7k)](https://github.com/edenhill/librdkafka) - Apache Kafka client library for C and C++. \[BSD-2-Clause]
-*   [ZeroMQ (⭐8.5k)](https://github.com/zeromq/libzmq) - High-speed, modular asynchronous communication library. \[LGPL] [website](http://zeromq.org/)
+*   [librdkafka (⭐7k)](https://github.com/edenhill/librdkafka) - Apache Kafka client library for C and C++. \[BSD-2-Clause]
+*   [ZeroMQ (⭐8.8k)](https://github.com/zeromq/libzmq) - High-speed, modular asynchronous communication library. \[LGPL3/MPL2] [website](http://zeromq.org/)
 
 ### Reflection
 
-*   [meta (⭐475)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. \[MIT]
+*   [meta (⭐503)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. \[MIT]
 
 ### Scripting
 
@@ -439,21 +439,21 @@ git commit -m "submodule updated"
 
 ### Project Management
 
-*   [milestones (⭐111)](https://github.com/turbopape/milestones)
+*   [milestones (⭐112)](https://github.com/turbopape/milestones)
 
 ### Terminal UI
 
-*   [triki (⭐142)](https://github.com/lambdaisland/trikl)
-*   [zaffre (⭐98)](https://github.com/aaron-santos/zaffre)
+*   [triki (⭐143)](https://github.com/lambdaisland/trikl)
+*   [zaffre (⭐100)](https://github.com/aaron-santos/zaffre)
 *   [closh (⭐1.6k)](https://github.com/dundalek/closh)
 
 ### Graphviz
 
 *   [zipper-viz (⭐8)](https://github.com/lambdaisland/zipper-viz)
-*   [dorothy (⭐236)](https://github.com/daveray/dorothy)
+*   [dorothy (⭐237)](https://github.com/daveray/dorothy)
 *   [viz.cljc (⭐31)](https://github.com/jebberjeb/viz.cljc)
 *   [fsmviz (⭐49)](https://github.com/jebberjeb/fsmviz)
-*   [rhizome (⭐450)](https://github.com/ztellman/rhizome)
+*   [rhizome (⭐449)](https://github.com/ztellman/rhizome)
 
 ## [36. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -476,8 +476,8 @@ git commit -m "submodule updated"
 
 ### Python / General-Purpose Machine Learning
 
-*   [BentoML (⭐4.9k)](https://github.com/bentoml/bentoml): Toolkit for package and deploy machine learning models for serving in production
-*   [numpy-ML (⭐12k)](https://github.com/ddbourgin/numpy-ml): Reference implementations of ML models written in numpy
+*   [BentoML (⭐5.6k)](https://github.com/bentoml/bentoml): Toolkit for package and deploy machine learning models for serving in production
+*   [numpy-ML (⭐13k)](https://github.com/ddbourgin/numpy-ml): Reference implementations of ML models written in numpy
 
 ## [39. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
@@ -609,7 +609,7 @@ git commit -m "submodule updated"
 
 ### Extensions
 
-*   [Next UserAgent (⭐326)](https://github.com/tokuda109/next-useragent) - UserAgent parser for Next.js
+*   [Next UserAgent (⭐325)](https://github.com/tokuda109/next-useragent) - UserAgent parser for Next.js
 
 ## [47. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 

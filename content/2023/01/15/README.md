@@ -6,51 +6,13 @@
 
 
 
-## [1. Ai Collection](/content/ai-collection/ai-collection/README.md)
-
-### Architecture & Interior Design
-
-- Name: [Image Computer](http://image.computer)
-
-  Title: Generate Your Next Interior Design / Paniting / Fashion Collection / Concept Art.
-
-  Description: Use our powerful AI technology to generate any type of image you can think of. In a matter of seconds.
-
-  Offer Free Version: :x:
-
-
-
-### Video
-
-- Name: [Pictory](http://pictory.ai?ref=milana31)
-
-  Title: Video Creation Made Easy.
-
-  Description: Automatically create short, highly-sharable branded videos from your long form content.
-
-  Offer Free Version: :grey\_question:
-
-
-
-### Other
-
-- Name: [Reface](http://hey.reface.ai)
-
-  Title: Reface. Be Anyone.
-
-  Description: Create realistic face swap videos, GIFs and memes with just one selfie.
-
-  Offer Free Version: :grey\_question:
-
-
-
-## [2. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
+## [1. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
 
 ### Prompting
 
 *   [Prompto - a community-ran directory of ChatGPT prompts](https://prompto.chat)
 
-## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Knowledge Management
 
@@ -65,31 +27,31 @@
 
 *   [Navigating cognition: Spatial codes for human thinking](https://pure.mpg.de/rest/items/item_3007836/component/file_3379059/content) - ***Science***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=1407237757770081862\&hl=en\&as_sdt=0,5)]. A framework that operates across information domains to support a wide spectrum of cognitive functions, where place and grid cell population codes provide a representational format to map variable dimensions of cognitive spaces.
 
-## [4. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
+## [3. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [SOC Multi-tool (⭐200)](https://github.com/zdhenard42/SOC-Multitool) - A powerful and user-friendly browser extension that streamlines investigations for security professionals.
+*   [SOC Multi-tool (⭐288)](https://github.com/zdhenard42/SOC-Multitool) - A powerful and user-friendly browser extension that streamlines investigations for security professionals.
 
-## [5. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [4. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Video Editing / Alternative clients/modifications of Discord:
 
-*   [LosslessCut (⭐17k)](https://github.com/mifi/lossless-cut) - LosslessCut aims to be the ultimate cross platform FFmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files.
+*   [LosslessCut (⭐19k)](https://github.com/mifi/lossless-cut) - LosslessCut aims to be the ultimate cross platform FFmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files.
 
-## [6. Awesome V](/content/vlang/awesome-v/README.md)
+## [5. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Command-line
 
-*   [vcli (⭐2)](https://github.com/changhz/vcli) - A CLI tool to generate folder structure according to the [guideline](https://blog.vlang.io/the-complete-beginners-guide-to-cli-apps-in-v/)
+*   [vcli (⭐3)](https://github.com/changhz/vcli) - A CLI tool to generate folder structure according to the [guideline](https://blog.vlang.io/the-complete-beginners-guide-to-cli-apps-in-v/)
 
-## [7. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [6. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Boilerplates
 
-*   [NextJS Chargebee Subscription (⭐6)](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
+*   [NextJS Chargebee Subscription (⭐11)](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
 
-## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Security tools
 
@@ -97,11 +59,11 @@
 *   [cargo-auditable](https://crates.io/crates/cargo-auditable) - Make production Rust binaries auditable
 *   [cargo-deny](https://crates.io/crates/cargo-deny) - Cargo plugin to help you manage large dependency graphs
 
-## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Generative AI Tools Directories / Contribute to Our Repository
 
-*   \[🔥🔥🔥] [AI Depot - Discover New AI Tools](https://aidepot.co/): collection of AI tools organized by tags and presented in a card format
+*   [AI Depot - Discover New AI Tools](https://aidepot.co/): collection of AI tools organized by tags and presented in a card format
 
 ### Discussions and Philosophy / Critical Views about Generative AI
 
@@ -112,23 +74,29 @@
 
 *   [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/)
 
-### Inbox: Text-to-speech (TTS) tools / Generative Adversarial Networks (GANs)
+### Inbox: Text-to-speech (TTS) and avatars / Generative Adversarial Networks (GANs)
 
 *   [Play.ht](https://play.ht/): "AI voice generator and realistic text to speech online"
 *   [Murf AI | AI Voice Generator](https://murf.ai/): versatile text to tpeech software
 *   [Speech Studio - Microsoft Azure](https://speech.microsoft.com/portal): Microsoft's cloud cognitive services
 
-## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [xcode (⭐48)](https://github.com/keith/zsh-xcode-completions) - Completions for some Xcode command line tools - `genstrings`, `nm`, `plutil`, `xcode-select`, `xcodebuild`, `xcrun`, `simctl`, `strings`, `swift-demangle`, `swift` and `lipo`.
+*   [xcode (⭐54)](https://github.com/keith/zsh-xcode-completions) - Completions for some Xcode command line tools - `genstrings`, `nm`, `plutil`, `xcode-select`, `xcodebuild`, `xcrun`, `simctl`, `strings`, `swift-demangle`, `swift` and `lipo`.
 
-## [11. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [10. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Models and Projects / Flax
 
-*   [GNNs for Solving Combinatorial Optimization Problems (⭐10)](https://github.com/IvanIsCoding/GNN-for-Combinatorial-Optimization) -  A JAX + Flax implementation of [Combinatorial Optimization with Physics-Inspired Graph Neural Networks](https://arxiv.org/abs/2107.01188).
+*   [GNNs for Solving Combinatorial Optimization Problems (⭐20)](https://github.com/IvanIsCoding/GNN-for-Combinatorial-Optimization) -  A JAX + Flax implementation of [Combinatorial Optimization with Physics-Inspired Graph Neural Networks](https://arxiv.org/abs/2107.01188).
+
+## [11. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### C / Non-X86
+
+*   [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms/) - Paulo Feofiloff (HTML)
 
 ---
 

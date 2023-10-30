@@ -32,7 +32,7 @@
 
 ### Serialization
 
-*   [FlatBuffers (⭐20k)](https://github.com/google/flatbuffers) - A Memory efficient serialization library. \[Apache2]
+*   [FlatBuffers (⭐21k)](https://github.com/google/flatbuffers) - A Memory efficient serialization library. \[Apache2]
 
 ### Websites
 

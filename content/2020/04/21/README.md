@@ -16,17 +16,17 @@
 
 ### Plugins
 
-*   [tmux-tilish (⭐311)](https://github.com/jabirali/tmux-tilish) Turn tmux into a dynamic window manager with intuitive keybindings (inspired by i3wm/sway)
+*   [tmux-tilish (⭐325)](https://github.com/jabirali/tmux-tilish) Turn tmux into a dynamic window manager with intuitive keybindings (inspired by i3wm/sway)
 
 ## [3. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 
-*   [evt (⭐414)](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
+*   [evt (⭐427)](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
 
 ### Tools / XML
 
-*   [denoify (⭐859)](https://github.com/garronej/denoify) - For NPM module authors that would like to support Deno but do not want to write and maintain a port.
+*   [denoify (⭐878)](https://github.com/garronej/denoify) - For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 
 ## [4. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Decentralized Systems
 
-*   [Waves (⭐72)](https://github.com/msmolyakov/awesome-waves#readme) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
+*   [Waves (⭐76)](https://github.com/msmolyakov/awesome-waves#readme) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
 
 ## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Integrations
 
-*   [playwright-github-action (⭐270)](https://github.com/microsoft/playwright-github-action) - GitHub Action to install all the required dependencies.
+*   [playwright-github-action (⭐281)](https://github.com/microsoft/playwright-github-action) - GitHub Action to install all the required dependencies.
 
 ## [9. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
@@ -105,7 +105,7 @@
 
 ### Applications / Cryptocurrencies
 
-*   [Joystream (⭐1.3k)](https://github.com/Joystream/joystream) — A user governed video platform
+*   [Joystream (⭐1.4k)](https://github.com/Joystream/joystream) — A user governed video platform
 
 ### Development tools / Web Servers
 
@@ -115,12 +115,12 @@
 
 ### Security and PKI
 
-*   [Virushee](https://virushee.com/) — Privacy-oriented file/data scanning powered by hybrid heuristic and AI-assisted engine. Possible to use internal dynamic sandbox analysis. Limited to 50MB per file upload
+*   [Virushee](https://virushee.com/) — Privacy-oriented file/data scanning powered by hybrid heuristic and AI-assisted engine. It is possible to use internal dynamic sandbox analysis. Limited to 50MB per file upload
 
 ### Issue Tracking and Project Management
 
-*   [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and 1 member.
-*   [Kumu.io](https://kumu.io/)  — Relationship maps with animation, decorations, filters, clustering, spreadsheet imports and more. Free tier allows unlimited public projects. Graph size unlimited. Free private projects for students. Sandbox mode is available if you prefer to not leave your file publicly online (upload, edit, download, discard).
+*   [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and one member.
+*   [Kumu.io](https://kumu.io/)  — Relationship maps with animation, decorations, filters, clustering, spreadsheet imports, etc. The free tier allows unlimited public projects. Graph size unlimited. Free private projects for students. Sandbox mode is available if you prefer not to leave your file publicly online (upload, edit, download, discard).
 
 ## [13. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -137,8 +137,8 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Veniqa (⭐1k)](https://github.com/Viveckh/Veniqa) - An E-commerce solution with a shopping client and admin panel written in Vue.
-*   [tato music player (⭐64)](https://github.com/tatoMa/neteast-cloud-music-player) - A mobile first, handwritten, responsive web app for music fans written in Vue and Vuetify.
+*   [Veniqa (⭐1.1k)](https://github.com/Viveckh/Veniqa) - An E-commerce solution with a shopping client and admin panel written in Vue.
+*   [tato music player (⭐68)](https://github.com/tatoMa/neteast-cloud-music-player) - A mobile first, handwritten, responsive web app for music fans written in Vue and Vuetify.
 
 ## [15. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -150,7 +150,7 @@
 
 *   [Nooshub](https://www.nooshub.com/) <sup>[396](https://t.me/s/aboutrss/396)</sup> ![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)
 
-### 🧩 API / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### 🧩 API / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [FetchRSS API](https://fetchrss.com/api)
 
@@ -162,13 +162,13 @@
 
 ### Serialization
 
-*   [Ceras (⭐451)](https://github.com/rikimaru0345/Ceras) - Ceras is a binary serializer. It converts any object into a byte\[] and back. It goes above and beyond in terms of features, speed, and comfort. Supports reference loops, large/complicated inheritance chains, splitting objects into parts and more.
-*   [Protobuf.NET (⭐4.2k)](https://github.com/protobuf-net/protobuf-net) - Protocol buffers is the name of the binary serialization format used by Google for much of their data communications
+*   [Ceras (⭐464)](https://github.com/rikimaru0345/Ceras) - Ceras is a binary serializer. It converts any object into a byte\[] and back. It goes above and beyond in terms of features, speed, and comfort. Supports reference loops, large/complicated inheritance chains, splitting objects into parts and more.
+*   [Protobuf.NET (⭐4.4k)](https://github.com/protobuf-net/protobuf-net) - Protocol buffers is the name of the binary serialization format used by Google for much of their data communications
 
 ### Testing
 
 *   [SpecFlow (⭐2.1k)](https://github.com/SpecFlowOSS/SpecFlow) - Binding business requirements to .Net code
-*   [xUnit.net (⭐3.7k)](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
+*   [xUnit.net (⭐3.8k)](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
 *   [ReportPortal](https://reportportal.io) - AI-powered Test Automation Dashboard. Acquire, aggregate and analyze test reports to ascertain release health.
 
 ---

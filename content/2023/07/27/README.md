@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 27, 2023
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -8,17 +8,17 @@
 
 ## [1. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### Code Analysis
+### Code Analysis / Text-Based User Interfaces
 
-*   [RefactorFirst (⭐288)](https://github.com/jimbethancourt/RefactorFirst) - Identifies and prioritizes God Classes and Highly Coupled classes.
+*   [RefactorFirst (⭐308)](https://github.com/jimbethancourt/RefactorFirst) - Identifies and prioritizes God Classes and Highly Coupled classes.
 
-### Distribution
+### Distribution / Text-Based User Interfaces
 
-*   [jlink.online (⭐43)](https://github.com/AdoptOpenJDK/jlink.online) - Builds optimized runtimes over HTTP.
+*   [jlink.online (⭐44)](https://github.com/AdoptOpenJDK/jlink.online) - Builds optimized runtimes over HTTP.
 
-### Miscellaneous
+### Miscellaneous / Text-Based User Interfaces
 
-*   [jOOX (⭐479)](https://github.com/jooq/joox) - Simple wrapper for the org.w3c.dom package, to allow for fluent XML document creation and manipulation with an API inspired by jQuery.
+*   [jOOX (⭐483)](https://github.com/jooq/joox) - Simple wrapper for the org.w3c.dom package, to allow for fluent XML document creation and manipulation with an API inspired by jQuery.
 
 ### Security / Other
 
@@ -28,11 +28,11 @@
 
 ### Cloud management solutions
 
-*   [Cloud 66](https://www.cloud66.com/) - Free for personal projects (includes 1 deployment server, 1 static site), Cloud 66 gives you everything you need to build, deploy, and grow your applications on any cloud without the headache of the “server stuff.”.
+*   [Cloud 66](https://www.cloud66.com/) - Free for personal projects (includes one deployment server, one static site), Cloud 66 gives you everything you need to build, deploy, and grow your applications on any cloud without the headache of the “server stuff.”.
 
-### Authentication, Authorization and User Management
+### Authentication, Authorization, and User Management
 
-*   [Cloud-IAM](https://www.cloud-iam.com/) — Keycloak Identity and Access Management as a Service. Free up to 100 users and 1 realm.
+*   [Cloud-IAM](https://www.cloud-iam.com/) — Keycloak Identity and Access Management as a Service. Free up to 100 users and one realm.
 
 ## [3. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Virtualisation / Docker
 
-*   [ddev setup](https://firesphere.dev/articles/ddevelopment-environment/) - Howto setup ddev for use with Silverstripe CMS
+*   [ddev setup](https://firesphere.dev/articles/ddevelopment-environment/) - Howto setup ddev for use with Silverstripe CMS.
 
 ## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -64,48 +64,7 @@
 
 *   [GrandPerspective](https://grandperspectiv.sourceforge.net) - A small utility that visualizes disk usage by way of tree maps. It lets you quickly spot which files and folders take up the most space. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://git.code.sf.net/p/grandperspectiv/source) [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://sourceforge.net/projects/grandperspectiv/files/grandperspective/) [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/us/app/grandperspective/id1111570163)
 
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐185)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-
-### Android / Projects
-
-*   [hanjoongcho/aaf-easyphotomap (⭐41)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
-*   [mustafaberkaymutlu/uv-index (⭐66)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
-*   [hanjoongcho/aaf-easypassword (⭐33)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
-
-### Android / Extensions
-
-*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
-
-### Android / Tests
-
-*   [agoda-com/Kakao (⭐1.1k)](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
-
-### Kotlin JavaScript / JavaScript
-
-*   [pixijs/pixi-native (⭐85)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
-*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
-
-### Kotlin JavaScript / Build Tools
-
-*   [Kotlin/kotlin-frontend-plugin (⭐568)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
-
-### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐323)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-### Kotlin Native / Projects
-
-*   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
-
-## [7. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [6. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Frameworks • Libraries • Ecosystems
 
@@ -116,21 +75,21 @@
 
 *   [Circles](http://circles.software) \[iPhone, iPad, Mac] - Live graphics node editor, powered by AsyncGraphics.
 
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Document Management - E-books
 
-*   [Atsumeru](https://atsumeru.xyz) - Free and open source self-hosted manga/comic/light novel media server with clients for Windows, Linux, macOS and Android. ([Source Code (⭐7)](https://github.com/AtsumeruDev/Atsumeru), [Clients](https://atsumeru.xyz/guides/#how-does-it-work)) `MIT` `Java`
+*   [Atsumeru](https://atsumeru.xyz) - Free and open source self-hosted manga/comic/light novel media server with clients for Windows, Linux, macOS and Android. ([Source Code (⭐26)](https://github.com/AtsumeruDev/Atsumeru), [Clients](https://atsumeru.xyz/guides/#how-does-it-work)) `MIT` `Java/Docker`
 
 ### Software / Search Engines
 
-*   [SearXNG](https://docs.searxng.org/) `⚠` - Internet metasearch engine which aggregates results from various search services and databases. (Fork of Searx). ([Source Code (⭐5k)](https://github.com/searxng/searxng/)) `AGPL-3.0` `Python/Docker`
+*   [SearXNG](https://docs.searxng.org/) `⚠` - Internet metasearch engine which aggregates results from various search services and databases (Fork of Searx). ([Source Code (⭐5.7k)](https://github.com/searxng/searxng/)) `AGPL-3.0` `Python/Docker`
 
 ### Software / Software Development - Low Code
 
-*   [SQLPage](https://sql.ophir.dev) - SQL-only dynamic website builder. ([Source Code (⭐228)](https://github.com/lovasoa/SQLPage)) `MIT` `Rust/Docker`
+*   [SQLPage](https://sql.ophir.dev) - SQL-only dynamic website builder. ([Source Code (⭐404)](https://github.com/lovasoa/SQLPage)) `MIT` `Rust/Docker`
 
-## [9. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
+## [8. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ### Contents / Machine learning
 
@@ -140,13 +99,13 @@
 
 *   [OpenBoxes (⭐504)](https://github.com/openboxes/openboxes) - an Open Source Inventory and Supply Chain Management System.
 
-## [10. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+## [9. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
-*   [Elementsworn](https://satan-bouchuncoin.itch.io/elementsworn) - Readapt Ironsworn to the the *Avatar: The Last Airbender* setting.
+*   [Elementsworn](https://satan-bouchuncoin.itch.io/elementsworn) - Readapt Ironsworn to the the *Avatar: The Last Airbender* setting
 
-## [11. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [10. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Algorithms / Hash functions
 
@@ -154,4 +113,5 @@
 
 ---
 
+- Prev: [Jul 28, 2023](/content/2023/07/28/README.md)
 - Next: [Jul 26, 2023](/content/2023/07/26/README.md)

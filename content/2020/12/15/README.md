@@ -16,7 +16,7 @@
 
 ### Tools / Misc Tools
 
-*   [Android Mobile Device Hardening (⭐164)](https://github.com/SecTheTech/AMDH) - AMDH scans and harden device's settings and list harmful installed Apps based on permissions.
+*   [Android Mobile Device Hardening (⭐169)](https://github.com/SecTheTech/AMDH) - AMDH scans and hardens the device's settings and lists harmful installed Apps based on permissions.
 *   ~~[Opcodes table for quick reference](http://ww38.xchg.info/corkami/opcodes_tables.pdf)~~
 *   ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~ - seems dead now
 *   ~~[Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)~~
@@ -41,15 +41,15 @@
 
 ### Device Input / Keyboard Events
 
-*   [useKeyCapture (⭐22)](https://github.com/pranesh239/use-key-capture) - A custom hook to ease the key-press listeners of a target/global.
+*   [useKeyCapture (⭐24)](https://github.com/pranesh239/use-key-capture) - A custom hook to ease the key-press listeners of a target/global.
 
 ### Data Store / Mouse Events
 
-*   [effector-react (⭐4.2k)](https://github.com/effector/effector) - React bindings for effector, an effective multi-store state manager.
+*   [effector-react (⭐4.3k)](https://github.com/effector/effector) - React bindings for effector, an effective multi-store state manager.
 
 ### Boilerplate / Mouse Events
 
-*   [react-enterprise-starter-kit (⭐73)](https://github.com/anandgupta193/react-enterprise-starter-kit) - Highly Scalable and Performant Awesome React Starter Kit for an enterprise application with a very easy maintainable codebase.
+*   [react-enterprise-starter-kit (⭐84)](https://github.com/anandgupta193/react-enterprise-starter-kit) - Highly Scalable and Performant Awesome React Starter Kit for an enterprise application with a very easy maintainable codebase.
 
 ## [5. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Crash monitoring
 
-*   [Sentry (⭐599)](https://github.com/getsentry/sentry-dart) - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
+*   [Sentry (⭐672)](https://github.com/getsentry/sentry-dart) - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
 
 ## [9. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -106,7 +106,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Starter Dashboard Layout (⭐186)](https://github.com/Kamona-WD/starter-dashboard-layout) - Dashboard layout using Tailwind CSS and Alpine JS.
+*   🚀 [Starter Dashboard Layout (⭐195)](https://github.com/Kamona-WD/starter-dashboard-layout) - Dashboard layout using Tailwind CSS and Alpine JS.
 
 ## [11. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
 
@@ -175,17 +175,17 @@
 
 ## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
 *   [Disease.sh](https://disease.sh/) — A free API providing accurate data for building the Covid-19 related useful Apps.
 
 ### Code Search and Browsing
 
-*   [Namae](https://namae.dev/) - Search across various websites like github,gitlab,heroku,netlify and many more for availabilty of your project name.
+*   [Namae](https://namae.dev/) - Search various websites like GitHub, Gitlab, Heroku, Netlify, and many more for the availability of your project name.
 
 ### Design and UI
 
-*   [BoxySVG](https://boxy-svg.com/app) — A free installable Web app for drawing SVGs and exporting in svg,png,jpeg an other formats.
+*   [BoxySVG](https://boxy-svg.com/app) — A free installable Web app for drawing SVGs and exporting in SVG, PNG, jpeg, and other formats.
 
 ## [14. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
@@ -197,7 +197,7 @@
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - This allows you to host your own Firefox accounts server. ([Source Code (⭐500)](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs, Java`
+*   [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - This allows you to host your own Firefox accounts server. ([Source Code (⭐532)](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs/Java`
 
 ---
 

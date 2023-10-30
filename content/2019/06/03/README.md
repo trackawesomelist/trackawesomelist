@@ -107,7 +107,7 @@
 
 ### Class Based
 
-*   [Lightning Web Components (⭐1.4k)](https://github.com/salesforce/lwc) - blazing fast, enterprise-grade Web Components foundation.
+*   [Lightning Web Components (⭐1.5k)](https://github.com/salesforce/lwc) - blazing fast, enterprise-grade Web Components foundation.
 
 ## [7. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
@@ -146,13 +146,13 @@
 
 ### Python / Neural Networks
 
-*   [nn\_builder (⭐161)](https://github.com/p-christ/nn_builder) - nn\_builder is a python package that lets you build neural networks in 1 line
+*   [nn\_builder (⭐163)](https://github.com/p-christ/nn_builder) - nn\_builder is a python package that lets you build neural networks in 1 line
 
 ## [12. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
 ### Machine Learning Libraries / Frameworks
 
-*   [eps (⭐608)](https://github.com/ankane/eps) - Bayesian Classification and Linear Regression with exports
+*   [eps (⭐629)](https://github.com/ankane/eps) - Bayesian Classification and Linear Regression with exports
     using [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) and an alternative backend using [GSL](https://www.gnu.org/software/gsl/).
 
 ## [13. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
@@ -178,7 +178,7 @@
 
 ### Samples
 
-*   [Gears VK (⭐12)](https://github.com/jeffboody/gearsvk) - Gears VK is a heavily modified port of the famous "gears" demo to Vulkan/Android/Linux. \[MIT]
+*   [Gears VK (⭐11)](https://github.com/jeffboody/gearsvk) - Gears VK is a heavily modified port of the famous "gears" demo to Vulkan/Android/Linux. \[MIT]
 
 ---
 

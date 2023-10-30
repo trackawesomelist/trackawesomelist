@@ -14,42 +14,42 @@
 
 ## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [thyme (chenhao-ye) (⭐21)](https://github.com/chenhao-ye/thyme) - Seasoning for shells. Based on [bira (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme), [gnzh (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/gnzh.zsh-theme), and [bullet-train (⭐2.8k)](https://github.com/caiogondim/bullet-train.zsh/blob/master/bullet-train.zsh-theme).
+*   [thyme (chenhao-ye) (⭐22)](https://github.com/chenhao-ye/thyme) - Seasoning for shells. Based on [bira (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme), [gnzh (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/gnzh.zsh-theme), and [bullet-train (⭐2.8k)](https://github.com/caiogondim/bullet-train.zsh/blob/master/bullet-train.zsh-theme).
 
 ## [3. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
-*   💼 [Full Bleed Background and Borders (⭐31)](https://github.com/dgknca/tailwindcss-full-bleed) - Provides utilities for extended backgrounds and borders.
+*   💼 [Full Bleed Background and Borders (⭐37)](https://github.com/dgknca/tailwindcss-full-bleed) - Provides utilities for extended backgrounds and borders.
 
 ## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Premium / Game Engine resources
 
-*   [RustDesk (⭐34k)](https://github.com/rustdesk/rustdesk) <!--stargazers:rustdesk/rustdesk--> - Open source virtual/remote desktop and TeamViewer alternative. Built with Flutter and Rust by [RustDesk team](https://www.rustdesk.com/).
-*   [AppFlowy (⭐30k)](https://github.com/AppFlowy-IO/appflowy) <!--stargazers:AppFlowy-IO/appflowy--> - Open Source Notion Alternative. You are in charge of your data and customizations. Built with Flutter and Rust by [AppFlowy team](https://www.appflowy.io/)
+*   [RustDesk (⭐43k)](https://github.com/rustdesk/rustdesk) <!--stargazers:rustdesk/rustdesk--> - Open source virtual/remote desktop and TeamViewer alternative. Built with Flutter and Rust by [RustDesk team](https://www.rustdesk.com/).
+*   [AppFlowy (⭐36k)](https://github.com/AppFlowy-IO/appflowy) <!--stargazers:AppFlowy-IO/appflowy--> - Open Source Notion Alternative. You are in charge of your data and customizations. Built with Flutter and Rust by [AppFlowy team](https://www.appflowy.io/)
 
 ### Utilities / Game Engine resources
 
-*   [Melos (⭐715)](https://github.com/invertase/melos) <!--stargazers:invertase/melos--> - Manage projects with multiple packages, automated versioning, changelogs & publishing via Conventional Commits by [Invertase](https://github.com/invertase)
+*   [Melos (⭐841)](https://github.com/invertase/melos) <!--stargazers:invertase/melos--> - Manage projects with multiple packages, automated versioning, changelogs & publishing via Conventional Commits by [Invertase](https://github.com/invertase)
 
 ## [5. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Terminal / CLI tools
 
-*   [dcp (⭐63)](https://github.com/exdx/dcp) - A simple tool for copying files from container filesystems. By [@exdx](https://github.com/exdx)
+*   [dcp (⭐72)](https://github.com/exdx/dcp) - A simple tool for copying files from container filesystems. By [@exdx](https://github.com/exdx)
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Storage and Media Processing
 
-*   [internxt.com](https://internxt.com) – Internxt Drive is a zero-knowledge file storage service that's based on absolute privacy and uncompromising security. Sign up and get 10 GB for free, forever!
+*   [internxt.com](https://internxt.com) – Internxt Drive is a zero-knowledge file storage service based on absolute privacy and uncompromising security. Sign up and get 10 GB for free, forever!
 
 ## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Analogy / Democratization
+### Analogy / Democratization of Science
 
 *   [Similarity involving attributes and relations: Judgments of similarity and difference are not inverses](https://pcl.sitehost.iu.edu/rgoldsto/pdfs/simdiff.pdf) - ***Psychological Science***, 1990. \[[All Versions](https://scholar.google.com/scholar?cluster=13205938250772079784\&hl=en\&as_sdt=0,5)].
 
@@ -68,7 +68,7 @@
 
 ### Projects
 
-*   [surfer (⭐48)](https://github.com/zzy/surfer) - A blog built on yew + graphql, with [live demo site](https://niqin.com). Backend for graphql services, and frontend for web application.
+*   [surfer (⭐52)](https://github.com/zzy/surfer) - A blog built on yew + graphql, with [live demo site](https://niqin.com). Backend for graphql services, and frontend for web application.
 
 ---
 

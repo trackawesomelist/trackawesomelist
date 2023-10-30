@@ -95,7 +95,7 @@ git format-patch -M upstream..topic
 *   [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.
 *   [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal home budget software.
 *   [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
-*   [Ledger (⭐4.6k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
+*   [Ledger (⭐4.7k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
 
 ## [5. Awesome Qt](/content/JesseTG/awesome-qt/week/README.md)
 
@@ -280,7 +280,7 @@ git format-patch -M upstream..topic
 
 ### Time-Series Databases
 
-*   [Beringei (⭐3.1k)](https://github.com/facebookincubator/beringei) - Facebook's in-memory time-series database.
+*   [Beringei (⭐3.2k)](https://github.com/facebookincubator/beringei) - Facebook's in-memory time-series database.
 
 ## [9. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
@@ -292,7 +292,7 @@ git format-patch -M upstream..topic
 
 ### Command Line Applications
 
-*   [loki (⭐81)](https://github.com/khusnetdinov/loki) - Library for creating interactive command-line application.
+*   [loki (⭐84)](https://github.com/khusnetdinov/loki) - Library for creating interactive command-line application.
 
 ### Images
 
@@ -349,23 +349,23 @@ git format-patch -M upstream..topic
 
 ### Network / Honey Pot / Honey Net
 
-*   [awesome-honeypots (⭐7k)](https://github.com/paralax/awesome-honeypots) - The canonical awesome honeypot list.
+*   [awesome-honeypots (⭐7.4k)](https://github.com/paralax/awesome-honeypots) - The canonical awesome honeypot list.
 
 ## [14. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Widgets
 
-*   [Wagtail-Geo-Widget (⭐113)](https://github.com/Frojd/wagtail-geo-widget) - Google Maps widget for the GeoDjango PointField field in Wagtail.
+*   [Wagtail-Geo-Widget (⭐122)](https://github.com/Frojd/wagtail-geo-widget) - Google Maps widget for the GeoDjango PointField field in Wagtail.
 
 ## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Functional programming
 
-*   [Optional (⭐817)](https://github.com/nlkl/Optional) - A robust option type for C#
+*   [Optional (⭐846)](https://github.com/nlkl/Optional) - A robust option type for C#
 
 ### Serialization
 
-*   [Hyperion (⭐269)](https://github.com/akkadotnet/Hyperion) - A high performance polymorphic serializer for the .NET framework.
+*   [Hyperion (⭐275)](https://github.com/akkadotnet/Hyperion) - A high performance polymorphic serializer for the .NET framework.
 
 ### Source Generator
 
@@ -389,12 +389,12 @@ git format-patch -M upstream..topic
 
 ### Web frameworks / Clack plugins
 
-*   [Caveman (⭐740)](https://github.com/fukamachi/caveman) - A powerful web framework. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [Caveman (⭐749)](https://github.com/fukamachi/caveman) - A powerful web framework. [LLGPL](http://opensource.franz.com/preamble.html).
     Example projects: [Quickdocs](https://github.com/quickdocs)
 
 ### Javascript / Isomorphic web frameworks
 
-*   [JSCL (⭐824)](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
+*   [JSCL (⭐849)](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
 
 ## [18. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -427,14 +427,14 @@ git format-patch -M upstream..topic
 
 ### CSS Regression Testing / Dart
 
-*   [WebdriverCSS (⭐626)](https://github.com/webdriverio/webdrivercss) - Regression testing tool for [WebdriverIO](http://webdriver.io) (currently deprecated, please use [wdio-screenshot](https://www.npmjs.com/package/wdio-screenshot) for the time being).
+*   [WebdriverCSS (⭐622)](https://github.com/webdriverio/webdrivercss) - Regression testing tool for [WebdriverIO](http://webdriver.io) (currently deprecated, please use [wdio-screenshot](https://www.npmjs.com/package/wdio-screenshot) for the time being).
 
 ### Driver / Desktop (browsers)
 
-*   [Firefox (⭐25k)](https://github.com/SeleniumHQ/selenium/wiki/FirefoxDriver) - Firefox driver (for FF < v48) is included in the selenium-server-standalone.jar available in the downloads.
-*   [Geckodriver (⭐6.2k)](https://github.com/mozilla/geckodriver) - Firefox driver (for FF > v48), supported with Selenium >= v3
+*   [Firefox (⭐27k)](https://github.com/SeleniumHQ/selenium/wiki/FirefoxDriver) - Firefox driver (for FF < v48) is included in the selenium-server-standalone.jar available in the downloads.
+*   [Geckodriver (⭐6.7k)](https://github.com/mozilla/geckodriver) - Firefox driver (for FF > v48), supported with Selenium >= v3
 *   [Edgedriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) - Microsoft Webdriver server for Edge
-*   [Safari (⭐25k)](https://github.com/SeleniumHQ/selenium/wiki/SafariDriver) - The SafariDriver is implemented as a Safari browser extension. The driver inverts the traditional client/server relationship and communicates with the WebDriver client using WebSockets (only supported for Safari <= v9, all new Safari version comming with macOS Sierra come with an integrated SafariDriver that is closed source by Apple).
+*   [Safari (⭐27k)](https://github.com/SeleniumHQ/selenium/wiki/SafariDriver) - The SafariDriver is implemented as a Safari browser extension. The driver inverts the traditional client/server relationship and communicates with the WebDriver client using WebSockets (only supported for Safari <= v9, all new Safari version comming with macOS Sierra come with an integrated SafariDriver that is closed source by Apple).
 
 ## [20. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -501,7 +501,7 @@ git format-patch -M upstream..topic
     *   [Transitioning from OpenGL to Vulkan](https://developer.nvidia.com/transitioning-opengl-vulkan)
     *   [Siggraph 15 talk - Vulkan on NVIDIA GPUs](http://on-demand.gputechconf.com/siggraph/2015/presentation/SIG1501-Piers-Daniell.pdf)
 *   Intel
-    *   [API without Secrets: Introduction to Vulkan (⭐1.2k)](https://github.com/GameTechDev/IntroductionToVulkan) \[[LICENSE (⭐1.2k)](https://github.com/GameTechDev/IntroductionToVulkan/blob/master/license.txt)]
+    *   [API without Secrets: Introduction to Vulkan (⭐1.3k)](https://github.com/GameTechDev/IntroductionToVulkan) \[[LICENSE (⭐1.3k)](https://github.com/GameTechDev/IntroductionToVulkan/blob/master/license.txt)]
         *   [Part 1: The Beginning](https://software.intel.com/en-us/api-without-secrets-introduction-to-vulkan-part-1)
         *   [Part 2: Swap Chain](https://software.intel.com/en-us/api-without-secrets-introduction-to-vulkan-part-2)
         *   [Part 3: First Triangle](https://software.intel.com/en-us/api-without-secrets-introduction-to-vulkan-part-3)
@@ -515,14 +515,14 @@ git format-patch -M upstream..topic
 ### Samples
 
 *   Google
-    *   [Android port of LunarG samples (⭐446)](https://github.com/googlesamples/vulkan-basic-samples).
-    *   [android tutorials (⭐745)](https://github.com/googlesamples/android-vulkan-tutorials).
-*   [nvpro-samples](https://github.com/nvpro-samples) - NVIDIA DesignWorks Samples. \[[LICENSE (⭐148)](https://github.com/nvpro-samples/gl_vk_threaded_cadscene/blob/master/LICENSE)]
-    *   [gl\_vk\_chopper (⭐201)](https://github.com/nvpro-samples/gl_vk_chopper) - Simple vulkan rendering example.
-    *   [gl\_vk\_threaded\_cadscene (⭐148)](https://github.com/nvpro-samples/gl_vk_threaded_cadscene) - OpenGL and Vulkan comparison on rendering a CAD scene using various techniques and [the blog](https://developer.nvidia.com/vulkan-opengl-threaded-cad-scene-sample) about it.
-    *   [gl\_vk\_bk3dthreaded (⭐82)](https://github.com/nvpro-samples/gl_vk_bk3dthreaded) - Vulkan sample rendering 3D with 'worker-threads'.
-    *   [gl\_vk\_supersampled (⭐59)](https://github.com/nvpro-samples/gl_vk_supersampled) - Vulkan sample showing a high quality super-sampled rendering.
-*   [Vulkan-Forward-Plus-Renderer (⭐610)](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer) - VFPR - a Vulkan Forward Plus Renderer. \[MIT]
+    *   [Android port of LunarG samples (⭐464)](https://github.com/googlesamples/vulkan-basic-samples).
+    *   [android tutorials (⭐785)](https://github.com/googlesamples/android-vulkan-tutorials).
+*   [nvpro-samples](https://github.com/nvpro-samples) - NVIDIA DesignWorks Samples. \[[LICENSE (⭐151)](https://github.com/nvpro-samples/gl_vk_threaded_cadscene/blob/master/LICENSE)]
+    *   [gl\_vk\_chopper (⭐202)](https://github.com/nvpro-samples/gl_vk_chopper) - Simple vulkan rendering example.
+    *   [gl\_vk\_threaded\_cadscene (⭐151)](https://github.com/nvpro-samples/gl_vk_threaded_cadscene) - OpenGL and Vulkan comparison on rendering a CAD scene using various techniques and [the blog](https://developer.nvidia.com/vulkan-opengl-threaded-cad-scene-sample) about it.
+    *   [gl\_vk\_bk3dthreaded (⭐86)](https://github.com/nvpro-samples/gl_vk_bk3dthreaded) - Vulkan sample rendering 3D with 'worker-threads'.
+    *   [gl\_vk\_supersampled (⭐61)](https://github.com/nvpro-samples/gl_vk_supersampled) - Vulkan sample showing a high quality super-sampled rendering.
+*   [Vulkan-Forward-Plus-Renderer (⭐628)](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer) - VFPR - a Vulkan Forward Plus Renderer. \[MIT]
 
 ## [27. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
 
@@ -534,7 +534,7 @@ git format-patch -M upstream..topic
 
 ### Python / Neural Networks
 
-*   [Data Driven Code (⭐27)](https://github.com/atmb4u/data-driven-code) - Very simple implementation of neural networks for dummies in python without using any libraries, with detailed comments.
+*   [Data Driven Code (⭐29)](https://github.com/atmb4u/data-driven-code) - Very simple implementation of neural networks for dummies in python without using any libraries, with detailed comments.
 
 ## [29. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
@@ -592,11 +592,11 @@ git format-patch -M upstream..topic
 
 ### Documentation tools / Components
 
-*   [Compodoc (⭐3.8k)](https://github.com/compodoc/compodoc) : "The missing documentation tool for your Angular 2 application", integrate well with npm scripts
+*   [Compodoc (⭐3.9k)](https://github.com/compodoc/compodoc) : "The missing documentation tool for your Angular 2 application", integrate well with npm scripts
 
 ### TypeScript Seed Projects / Components
 
-*   [famn (⭐27)](https://github.com/implustech/famn) - Angular 2 + FeathersJS application framework for both client and server side
+*   [famn (⭐26)](https://github.com/implustech/famn) - Angular 2 + FeathersJS application framework for both client and server side
 
 ### Haxe General Resources / Components
 
@@ -608,11 +608,11 @@ git format-patch -M upstream..topic
 
 ### Cryptography
 
-*   [Themis (⭐1.7k)](https://github.com/cossacklabs/themis) - crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms. \[Apache2]
+*   [Themis (⭐1.8k)](https://github.com/cossacklabs/themis) - crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms. \[Apache2]
 
 ### Debug
 
-*   [backward-cpp (⭐3.1k)](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++. \[MIT]
+*   [backward-cpp (⭐3.3k)](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++. \[MIT]
 
 ### GUI
 
@@ -626,13 +626,13 @@ git format-patch -M upstream..topic
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [docfx (⭐3.2k)](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects <http://dotnet.github.io/docfx>
+*   [docfx (⭐3.6k)](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects <http://dotnet.github.io/docfx>
 
 ## [37. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Coding Style Guides
 
-*   [Fundamental Ruby (⭐451)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
+*   [Fundamental Ruby (⭐456)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
 
 ## [38. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 

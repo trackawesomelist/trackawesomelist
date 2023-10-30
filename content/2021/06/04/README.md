@@ -38,7 +38,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Canvas
 
-*   [react-heat-map (⭐106)](https://github.com/uiwjs/react-heat-map) - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph.
+*   [react-heat-map (⭐125)](https://github.com/uiwjs/react-heat-map) - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph.
 
 ## [4. Awesome Math](/content/rossant/awesome-math/README.md)
 
@@ -100,12 +100,12 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Databases / ORMs
 
-*   [FastAPIwee (⭐16)](https://github.com/Ignisor/FastAPIwee) - A simple way to create REST API based on [PeeWee (⭐9.8k)](https://github.com/coleifer/peewee) models.
+*   [FastAPIwee (⭐16)](https://github.com/Ignisor/FastAPIwee) - A simple way to create REST API based on [PeeWee (⭐10k)](https://github.com/coleifer/peewee) models.
 
 ### Utils / Other Tools
 
-*   [FastAPI Chameleon (⭐128)](https://github.com/mikeckennedy/fastapi-chameleon) - Adds integration of the Chameleon template language to FastAPI.
-*   [FastAPI Jinja (⭐60)](https://github.com/AGeekInside/fastapi-jinja) - Adds integration of the Jinja template language to FastAPI.
+*   [FastAPI Chameleon (⭐130)](https://github.com/mikeckennedy/fastapi-chameleon) - Adds integration of the Chameleon template language to FastAPI.
+*   [FastAPI Jinja (⭐61)](https://github.com/AGeekInside/fastapi-jinja) - Adds integration of the Jinja template language to FastAPI.
 
 ### Tutorials / Other Tools
 
@@ -117,8 +117,8 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Monitoring/Statistics/Perfomance / Prometheus
 
-*   [pgSCV (⭐143)](https://github.com/weaponry/pgscv) - Metrics exporter for PostgreSQL and Postgres-related services.
-*   [postgres\_exporter (⭐2k)](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
+*   [pgSCV (⭐157)](https://github.com/weaponry/pgscv) - Metrics exporter for PostgreSQL and Postgres-related services.
+*   [postgres\_exporter (⭐2.3k)](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
 
 ### Security / Zabbix
 
@@ -164,7 +164,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### PlaygroundBooks
 
-*   [Accessible Reality (⭐23)](https://github.com/aheze/AccessibleReality) - for learning the basics of ARKit through interactive lessons. 🍁
+*   [Accessible Reality (⭐25)](https://github.com/aheze/AccessibleReality) - for learning the basics of ARKit through interactive lessons. 🍁
 
 ## [11. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
@@ -174,7 +174,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ## [12. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
-### Authentication / Password-less
+### Password-less auth / SMS-based
 
 *   [An argument for passwordless](https://web.archive.org/web/20190515230752/https://biarity.gitlab.io/2018/02/23/passwordless/) - Passwords are not the be-all and end-all of user authentication. This article tries to tell you why.
 
@@ -182,7 +182,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Contents / Health and Fitness
 
-*   [QuitSmoke (⭐61)](https://github.com/trizin/Quit-Smoke-App) - A Flutter app to help you quit smoking by [trizin](https://github.com/trizin).
+*   [QuitSmoke (⭐66)](https://github.com/trizin/Quit-Smoke-App) - A Flutter app to help you quit smoking by [trizin](https://github.com/trizin).
 
 ---
 

@@ -22,24 +22,24 @@
 
 ### GTFS Converters / Ruby
 
-*   [NeTEx-to-GTFS Converter Java (⭐2)](https://github.com/entur/netex-gtfs-converter-java) - Converts NeTEX datasets into GTFS datasets. The input NeTEx datasets are required to follow the Nordic NeTEx Profile.
+*   [NeTEx-to-GTFS Converter Java (⭐4)](https://github.com/entur/netex-gtfs-converter-java) - Converts NeTEX datasets into GTFS datasets. The input NeTEx datasets are required to follow the Nordic NeTEx Profile.
 
 ## [3. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Log Analysis Tools
 
-*   [Hayabusa (⭐1.3k)](https://github.com/Yamato-Security/hayabusa) - Hayabusa is a Windows event log fast forensics timeline generator and threat hunting tool created by the Yamato Security group in Japan.
-*   [WELA (⭐560)](https://github.com/Yamato-Security/WELA) - Windows Event Log Analyzer aims to be the Swiss Army knife for Windows event logs.
+*   [Hayabusa (⭐1.5k)](https://github.com/Yamato-Security/hayabusa) - Hayabusa is a Windows event log fast forensics timeline generator and threat hunting tool created by the Yamato Security group in Japan.
+*   [WELA (⭐629)](https://github.com/Yamato-Security/WELA) - Windows Event Log Analyzer aims to be the Swiss Army knife for Windows event logs.
 
 ## [4. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Monitoring/Statistics/Perfomance / Prometheus
 
-*   [pg\_exporter (⭐122)](https://github.com/Vonng/pg_exporter) - Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.
+*   [pg\_exporter (⭐134)](https://github.com/Vonng/pg_exporter) - Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.
 
 ### Distributions / Zabbix
 
-*   [Pigsty (⭐1k)](https://github.com/Vonng/pigsty) - Battery-Included Open-Source Distribution for PostgreSQL with ultimate observability & Database-as-Code toolbox for developers.
+*   [Pigsty (⭐1.7k)](https://github.com/Vonng/pigsty) - Battery-Included Open-Source Distribution for PostgreSQL with ultimate observability & Database-as-Code toolbox for developers.
 
 ## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -141,29 +141,29 @@
 
 ### Examples / Showcases / Personal
 
-*   [Official Examples (⭐195)](https://github.com/directus/examples) - Integration examples with Directus.
+*   [Official Examples (⭐222)](https://github.com/directus/examples) - Integration examples with Directus.
 
 ## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
-*   [Capacitor (⭐295)](https://github.com/riderx/awesome-capacitor#readme) - Cross-platform open source runtime for building Web Native apps.
+*   [Capacitor (⭐362)](https://github.com/riderx/awesome-capacitor#readme) - Cross-platform open source runtime for building Web Native apps.
 
 ### Programming Languages
 
-*   [Zig (⭐200)](https://github.com/catdevnull/awesome-zig#readme) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+*   [Zig (⭐251)](https://github.com/catdevnull/awesome-zig#readme) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 ### Computer Science
 
-*   [Conversational AI (⭐86)](https://github.com/jyguyomarch/awesome-conversational-ai#readme) - Build awesome chatbots and digital assistants.
+*   [Conversational AI (⭐122)](https://github.com/jyguyomarch/awesome-conversational-ai#readme) - Build awesome chatbots and digital assistants.
 
 ### Theory
 
-*   [Audit Algorithms (⭐64)](https://github.com/erwanlemerrer/awesome-audit-algorithms#readme) - Algorithmic audits of algorithms.
+*   [Audit Algorithms (⭐75)](https://github.com/erwanlemerrer/awesome-audit-algorithms#readme) - Algorithmic audits of algorithms.
 
 ### Content Management Systems
 
-*   [Directus (⭐249)](https://github.com/directus-community/awesome-directus#readme) - A real-time API and app dashboard for managing SQL database content.
+*   [Directus (⭐339)](https://github.com/directus-community/awesome-directus#readme) - A real-time API and app dashboard for managing SQL database content.
 
 ## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -172,8 +172,7 @@
 *   ⭐ [ltk](http://www.peter-herth.de/ltk/) - A binding for the Tk toolkit. [LLGPL](http://opensource.franz.com/preamble.html) or [GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
     *   [LTk Examples](https://peterlane.netlify.app/ltk-examples/) - Provides LTk examples for the tkdocs tutorial.
     *   [LTk Plotchart](https://peterlane.netlify.app/ltk-plotchart/) - A wrapper around the tklib/plotchart library to work with LTk. This includes over 20 different chart types (xy-plots, gantt charts, 3d-bar charts etc...).
-    *   [nodgui](https://notabug.org/cage/nodgui) - Bindings for the Tk toolkit, based on Ltk, with syntax sugar and additional widgets. [LLGPL](http://opensource.franz.com/preamble.html).
-*   [vk (⭐37)](https://github.com/JolifantoBambla/vk) -  Common Lisp/CFFI bindings for the Vulkan API. [MIT](https://opensource.org/licenses/MIT).
+*   [vk (⭐45)](https://github.com/JolifantoBambla/vk) -  Common Lisp/CFFI bindings for the Vulkan API. [MIT](https://opensource.org/licenses/MIT).
 
 ## [9. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -185,11 +184,11 @@
 
 ### Libraries/Frameworks / Validation
 
-*   [konform-kt/konform (⭐542)](https://github.com/konform-kt/konform) - Multiplatform validations for Kotlin data classes
+*   [konform-kt/konform (⭐588)](https://github.com/konform-kt/konform) - Multiplatform validations for Kotlin data classes
 
 ### Libraries/Frameworks / Misc
 
-*   [vjames19/kotlin-futures (⭐80)](https://github.com/vjames19/kotlin-futures) - A collections of extension functions to make the JVM Future, CompletableFuture, ListenableFuture API more functional and Kotlin like.
+*   [vjames19/kotlin-futures (⭐82)](https://github.com/vjames19/kotlin-futures) - A collections of extension functions to make the JVM Future, CompletableFuture, ListenableFuture API more functional and Kotlin like.
 
 ## [11. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
 
@@ -201,13 +200,13 @@
 
 ### Plugins / Frameworks
 
-*   [Astro (⭐117)](https://github.com/ota-meshi/eslint-plugin-astro) - Plugin for [Astro components](https://docs.astro.build/en/core-concepts/astro-components/).
+*   [Astro (⭐130)](https://github.com/ota-meshi/eslint-plugin-astro) - Plugin for [Astro components](https://docs.astro.build/en/core-concepts/astro-components/).
 
 ## [13. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Software / Vector Creation
 
-*   [linedraw (⭐673)](https://github.com/LingDong-/linedraw) - Python tool to convert images to sketchy vector line drawings.
+*   [linedraw (⭐703)](https://github.com/LingDong-/linedraw) - Python tool to convert images to sketchy vector line drawings.
 
 ### Manuals and Ephemera / Manuals
 

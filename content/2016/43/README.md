@@ -10,7 +10,7 @@
 
 ### Endpoint / Forensics
 
-*   [Volatility (⭐6.2k)](https://github.com/volatilityfoundation/volatility) - Python based memory extraction and analysis framework.
+*   [Volatility (⭐6.5k)](https://github.com/volatilityfoundation/volatility) - Python based memory extraction and analysis framework.
 
 ## [2. Awesome Drupal](/content/nirgn975/awesome-drupal/week/README.md)
 
@@ -48,26 +48,26 @@
 
 ### Software / Social, Economic and Political Networks
 
-*   [Network Canvas](http://networkcanvas.com/) - Set of tools to collect personal network data (in early development).
+*   [Network Canvas](http://networkcanvas.com/) - A free and open-source set of survey tools for ego-centric and personal network studies, including [documentation](https://documentation.networkcanvas.com) and a [user community](https://community.networkcanvas.com).
 
 ## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C / General-Purpose Machine Learning
 
-*   [Recommender (⭐257)](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
+*   [Recommender (⭐259)](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
 
 ### C++ / General-Purpose Machine Learning
 
 *   [CUDA](https://code.google.com/p/cuda-convnet/) - This is a fast C++/CUDA implementation of convolutional \[DEEP LEARNING]
 *   [DyNet (⭐3.4k)](https://github.com/clab/dynet) - A dynamic neural network library working well with networks that have dynamic structures that change for every training instance. Written in C++ with bindings in Python.
-*   [Fido (⭐414)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics.
+*   [Fido (⭐420)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics.
 *   [LightGBM (⭐15k)](https://github.com/Microsoft/LightGBM) - Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 *   [ROOT](https://root.cern.ch) - A modular scientific software framework. It provides all the functionalities needed to deal with big data processing, statistical analysis, visualization and storage.
 *   [shark](http://image.diku.dk/shark/sphinx_pages/build/html/index.html) - A fast, modular, feature-rich open-source C++ machine learning library.
 
 ### C++ / Natural Language Processing
 
-*   [MIT Information Extraction Toolkit (⭐2.8k)](https://github.com/mit-nlp/MITIE) - C, C++, and Python tools for named entity recognition and relation extraction
+*   [MIT Information Extraction Toolkit (⭐2.9k)](https://github.com/mit-nlp/MITIE) - C, C++, and Python tools for named entity recognition and relation extraction
 
 ## [6. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
@@ -177,7 +177,7 @@
 
 ### Parsing
 
-*   [Instaparse (⭐2.6k)](https://github.com/Engelberg/instaparse)
+*   [Instaparse (⭐2.7k)](https://github.com/Engelberg/instaparse)
 
 ## [15. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -202,7 +202,7 @@
 
 ### System
 
-*   [Finder New item (⭐30)](https://github.com/danielbayley/alfred-finder-new-item) - Swiftly create new items in Finder with support for templates.
+*   [Finder New item (⭐32)](https://github.com/danielbayley/alfred-finder-new-item) - Swiftly create new items in Finder with support for templates.
 
 ## [19. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -224,11 +224,11 @@
 
 ### Sliders / Runner
 
-*   [Glide.js (⭐6.8k)](https://github.com/jedrzejchalubek/glidejs) - Responsive and touch-friendly jQuery slider. It's simple, lightweight and fast.
+*   [Glide.js (⭐7k)](https://github.com/jedrzejchalubek/glidejs) - Responsive and touch-friendly jQuery slider. It's simple, lightweight and fast.
 
 ### Video/Audio / Other
 
-*   [clappr (⭐6.4k)](https://github.com/clappr/clappr) - An extensible media player for the web <http://clappr.io>
+*   [clappr (⭐6.7k)](https://github.com/clappr/clappr) - An extensible media player for the web <http://clappr.io>
 
 ## [22. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -240,15 +240,15 @@
 
 ### Algorithms and Data structures
 
-*   [C# Algorithms (⭐5.5k)](https://github.com/aalhour/C-Sharp-Algorithms) - A C# plug-and-play class-library project of standard Data Structures and Algorithms. It contains 35+ Data Structures and 30+ Algorithms designed as Object-Oriented isolated components.
+*   [C# Algorithms (⭐5.7k)](https://github.com/aalhour/C-Sharp-Algorithms) - A C# plug-and-play class-library project of standard Data Structures and Algorithms. It contains 35+ Data Structures and 30+ Algorithms designed as Object-Oriented isolated components.
 
 ### Misc
 
-*   [ByteSize (⭐473)](https://github.com/omar/ByteSize) - ByteSize is a utility class that makes byte size representation in code easier by removing ambiguity of the value being represented. ByteSize is to bytes what System.TimeSpan is to time.
+*   [ByteSize (⭐503)](https://github.com/omar/ByteSize) - ByteSize is a utility class that makes byte size representation in code easier by removing ambiguity of the value being represented. ByteSize is to bytes what System.TimeSpan is to time.
 
 ### Template Engine
 
-*   [Mustache Sharp (⭐296)](https://github.com/jehugaleahsa/mustache-sharp) - An extension of the mustache text template engine for .NET.
+*   [Mustache Sharp (⭐300)](https://github.com/jehugaleahsa/mustache-sharp) - An extension of the mustache text template engine for .NET.
 
 ### UI Automation
 
@@ -270,7 +270,7 @@
 
 ### Contents / Tools
 
-*   [P8Coder (⭐89)](https://github.com/movAX13h/P8Coder) - A programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
+*   [P8Coder (⭐94)](https://github.com/movAX13h/P8Coder) - A programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
 
 ## [27. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -288,7 +288,7 @@
 
 ### Querying / Symfony2
 
-*   [rest-assured (⭐6.2k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
+*   [rest-assured (⭐6.5k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
 
 ## [29. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
@@ -317,7 +317,7 @@
 
 *   [Algorithms](http://algs4.cs.princeton.edu/home/) - Problems explained with Java, OO good practices, visualizations, and free online resources.
 *   [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) - The basic concepts and usages of data structures.
-*   [Elementary Algorithms (⭐5.6k)](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
+*   [Elementary Algorithms (⭐5.8k)](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
 *   [Grokking Algorithms](http://www.manning.com/bhargava) - An illustrated book on algorithms with practical examples.
 *   [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms) - Essential!
 *   [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - The Book.
@@ -339,7 +339,7 @@
 
 ### Database
 
-*   [LevelDB (⭐33k)](https://github.com/google/leveldb) - A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. \[BSD]
+*   [LevelDB (⭐34k)](https://github.com/google/leveldb) - A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. \[BSD]
 
 ### Math
 
@@ -372,18 +372,18 @@
 ### Frameworks
 
 *   [exelli (⭐17)](https://github.com/pigmej/exelli) - An Elli Elixir wrapper with some sugar syntax goodies.
-*   [kitto (⭐952)](https://github.com/kittoframework/kitto) - A framework for interactive dashboards.
+*   [kitto (⭐950)](https://github.com/kittoframework/kitto) - A framework for interactive dashboards.
 
 ### Instrumenting / Monitoring
 
-*   [appsignal-elixir (⭐249)](https://github.com/appsignal/appsignal-elixir/) - Collects error and performance data from your Elixir applications and sends it to [AppSignal](https://appsignal.com/).
-*   [prometheus-ecto (⭐74)](https://github.com/deadtrickster/prometheus-ecto) - Ecto instrumenter for prometheus.ex.
-*   [prometheus-phoenix (⭐66)](https://github.com/deadtrickster/prometheus-phoenix) - Phoenix instrumenter for prometheus.ex.
+*   [appsignal-elixir (⭐262)](https://github.com/appsignal/appsignal-elixir/) - Collects error and performance data from your Elixir applications and sends it to [AppSignal](https://appsignal.com/).
+*   [prometheus-ecto (⭐73)](https://github.com/deadtrickster/prometheus-ecto) - Ecto instrumenter for prometheus.ex.
+*   [prometheus-phoenix (⭐67)](https://github.com/deadtrickster/prometheus-phoenix) - Phoenix instrumenter for prometheus.ex.
 *   [prometheus\_process\_collector (⭐47)](https://github.com/deadtrickster/prometheus_process_collector) - Prometheus collector which exports the current state of process metrics including cpu, memory, file descriptor usage and native threads count as well as the process start and up times.
 
 ### Macros
 
-*   [pit (⭐27)](https://github.com/vic/pit) - Transform values as they flow inside a pipe.
+*   [pit (⭐29)](https://github.com/vic/pit) - Transform values as they flow inside a pipe.
 
 ### Miscellaneous
 
@@ -395,17 +395,17 @@
 
 ### Third Party APIs
 
-*   [darkskyx (⭐13)](https://github.com/techgaun/darkskyx) - A Darksky.com (formerly forecast.io) API client for Elixir.
-*   [elixirfm (⭐8)](https://github.com/jrichocean/Elixirfm) - Last.fm API wrapper for Elixir.
+*   [darkskyx (⭐14)](https://github.com/techgaun/darkskyx) - A Darksky.com (formerly forecast.io) API client for Elixir.
+*   [elixirfm (⭐9)](https://github.com/jrichocean/Elixirfm) - Last.fm API wrapper for Elixir.
 *   [ex\_codeship (⭐0)](https://github.com/securingsincity/ex_codeship) - API Client for Codeship.
 
 ### Books
 
-*   [Getting Started - Elixir (⭐102)](https://github.com/potatogopher/elixir-getting-started) - PDF, MOBI, and EPUB documents for Elixir's Getting Started tutorial (2016).
+*   [Getting Started - Elixir (⭐101)](https://github.com/potatogopher/elixir-getting-started) - PDF, MOBI, and EPUB documents for Elixir's Getting Started tutorial (2016).
 
 ### Editors
 
-*   [atom-elixir (⭐409)](https://github.com/msaraiva/atom-elixir) - An Atom package for Elixir.
+*   [atom-elixir (⭐408)](https://github.com/msaraiva/atom-elixir) - An Atom package for Elixir.
 *   [ElixirSublime (⭐368)](https://github.com/vishnevskiy/ElixirSublime) - Elixir plugin for SublimeText 3 that provides code completion and linting.
 
 ## [34. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
@@ -435,16 +435,16 @@
 
 ### Frameworks, Libraries and Tools / Scheduler and Job
 
-*   [FluentScheduler (⭐2.5k)](https://github.com/fluentscheduler/FluentScheduler) - Automated job scheduler with fluent interface.
-*   [stateless (⭐4.6k)](https://github.com/dotnet-state-machine/stateless) - Simple library for creating state machines in C# code.
+*   [FluentScheduler (⭐2.6k)](https://github.com/fluentscheduler/FluentScheduler) - Automated job scheduler with fluent interface.
+*   [stateless (⭐5.1k)](https://github.com/dotnet-state-machine/stateless) - Simple library for creating state machines in C# code.
 
 ### Frameworks, Libraries and Tools / Serialization
 
-*   [bond (⭐2.5k)](https://github.com/Microsoft/bond) - Cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data. Bond is broadly used at Microsoft in high scale services.
+*   [bond (⭐2.6k)](https://github.com/Microsoft/bond) - Cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data. Bond is broadly used at Microsoft in high scale services.
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [ShareX (⭐22k)](https://github.com/ShareX/ShareX) - Free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from. <https://getsharex.com>
+*   [ShareX (⭐26k)](https://github.com/ShareX/ShareX) - Free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from. <https://getsharex.com>
 
 ### Videos / Workflow
 
@@ -617,11 +617,11 @@ git diff --ignore-all-space | git apply --cached
 ### Key-value Data Model
 
 *   [SummitDB (⭐1.4k)](https://github.com/tidwall/summitdb) - an in-memory, NoSQL key/value database, with disk persistance and using the Raft consensus algorithm.
-*   [Tile38 (⭐8.3k)](https://github.com/tidwall/tile38) - a geolocation data store, spatial index, and realtime geofence, supporting a variety of object types including latitude/longitude points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON
+*   [Tile38 (⭐8.6k)](https://github.com/tidwall/tile38) - a geolocation data store, spatial index, and realtime geofence, supporting a variety of object types including latitude/longitude points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON
 
 ### Graph Data Model
 
-*   [EliasDB (⭐948)](https://github.com/krotik/eliasdb) - a lightweight graph based database that does not require any third-party libraries.
+*   [EliasDB (⭐965)](https://github.com/krotik/eliasdb) - a lightweight graph based database that does not require any third-party libraries.
 
 ### NewSQL Databases
 
@@ -629,8 +629,8 @@ git diff --ignore-all-space | git apply --cached
 
 ### Applications
 
-*   [411 (⭐968)](https://github.com/etsy/411) - an web application for alert management resulting from scheduled searches into Elasticsearch.
-*   [Atlas (⭐3.1k)](https://github.com/Netflix/atlas) - a backend for managing dimensional time series data.
+*   [411 (⭐973)](https://github.com/etsy/411) - an web application for alert management resulting from scheduled searches into Elasticsearch.
+*   [Atlas (⭐3.3k)](https://github.com/Netflix/atlas) - a backend for managing dimensional time series data.
 
 ## [48. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 

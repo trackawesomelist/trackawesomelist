@@ -10,13 +10,13 @@
 
 ### Plugins
 
-*   [tmux-pianobar (⭐1)](https://github.com/GoHarder/tmux-pianobar) A menu and status bar widget for Pianobar
+*   [tmux-pianobar (⭐6)](https://github.com/GoHarder/tmux-pianobar) A menu and status bar widget for Pianobar
 
 ## [2. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Utilities / Markdown
 
-*   [gtree (⭐97)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
+*   [gtree (⭐141)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
 
 ## [3. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Open Source Projects / Other / Chatbots
 
-*   [snowChat ❄️ (⭐85)](https://github.com/kaarthik108/snowChat): Chat with you're snowflake database ![GitHub Repo stars](https://img.shields.io/github/stars/kaarthik108/snowChat?style=social)
+*   [snowChat ❄️ (⭐265)](https://github.com/kaarthik108/snowChat): Chat with you're snowflake database ![GitHub Repo stars](https://img.shields.io/github/stars/kaarthik108/snowChat?style=social)
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -52,15 +52,15 @@
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
 *   [LoginLlama](https://loginllama.app) - A login security API to detect fraudulent and suspicious logins and notify your customers. Free for 1,000 logins per month.
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [git-check (⭐1)](https://github.com/git-girl/git-check) - Adds a zsh hook to check if the origin of the current branch has changes to local in the background and sends a notification.
+*   [git-check (⭐3)](https://github.com/git-girl/git-check) - Adds a zsh hook to check if the origin of the current branch has changes to local in the background and sends a notification.
 *   [iwd (⭐1)](https://github.com/zshzoo/iwd) - Similar in concept to `$PWD`, this ZSH plugin saves your initial working directory in `$IWD` for easy returns to the starting point of your session.
 
 ---

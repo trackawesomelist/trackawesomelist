@@ -12,7 +12,7 @@
 
 *   [Alpine Linux](https://wiki.alpinelinux.org/wiki/Raspberry_Pi) - Security-oriented, lightweight Linux distribution based on musl libc and busybox.
 *   [Arch Linux ARM](https://archlinuxarm.org/) - Lightweight and flexible Linux distribution that tries to Keep It Simple.
-*   [chilipie-kiosk (⭐1.2k)](https://github.com/futurice/chilipie-kiosk) - Image which boots directly into full-screen Chrome, perfect for dashboards and build monitors. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-2+.png)
+*   [chilipie-kiosk (⭐1.3k)](https://github.com/futurice/chilipie-kiosk) - Image which boots directly into full-screen Chrome, perfect for dashboards and build monitors. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-2+.png)
 
 ### Tools
 
@@ -24,14 +24,9 @@
 *   [Building a Ceph Cluster on Raspberry Pi](http://bryanapperson.com/blog/the-definitive-guide-ceph-cluster-on-raspberry-pi/) - Highly redundant and low power usage RADOS home storage solution.
 *   [Chromebook Charger Kiosk](https://www.reddit.com/r/raspberry_pi/comments/53nj1z/chromebook_charger_kiosk_last_minute_charge_for/) - Timed charging station for students using Chromebooks at school.
 *   [Jasper](https://jasperproject.github.io/) - Flexible open source personal assistant.
-*   [Lightberry](https://lightberry.eu) - Led lighting solution dedicated for raspberry pi and your TV.
 *   [Movel (⭐133)](https://github.com/stevelacy/movel) - Raspberry Pi car computer.
 *   [Nerves Project](https://github.com/nerves-project) - Craft and deploy bulletproof embedded software in Elixir.
 *   [Pi-hole](https://pi-hole.net/) - Black hole for internet ads.
-
-### Articles / iOS
-
-*   [10 Ways To Power](https://raspberrypi.about.com/od/Power/tp/10-Ways-to-Power-your-Raspberry-Pi.htm) - Information about different & correct ways to power the pi.
 
 ### Tutorials / iOS
 
@@ -62,8 +57,8 @@
 
 ### Rule Engines
 
-*   [grules (⭐36)](https://github.com/zhaber/grules) - rule engine for data preprocessing
-*   [n-cube (⭐167)](https://github.com/jdereg/n-cube) - a Rules Engine, Decision Table, Decision Tree, Templating Engine, and Enterprise Spreadsheet, built as a hyper-space.
+*   [grules (⭐35)](https://github.com/zhaber/grules) - rule engine for data preprocessing
+*   [n-cube (⭐170)](https://github.com/jdereg/n-cube) - a Rules Engine, Decision Table, Decision Tree, Templating Engine, and Enterprise Spreadsheet, built as a hyper-space.
 
 ## [4. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

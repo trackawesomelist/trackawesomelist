@@ -8,7 +8,7 @@
 
 ## [1. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Bindings / MIT
+### Bindings / Apache License
 
 *   [boehmgc-ada (⭐5)](https://github.com/ytomino/boehmgc-ada) - Ada binding to the Boehm-Demers-Weiser conservative garbage collector.
 
@@ -29,7 +29,7 @@
 
 ### Runtimes/Frontends
 
-*   [JupyterWith (⭐450)](https://github.com/tweag/jupyterWith) - Nix-based framework for the definition of declarative and reproducible Jupyter environments.
+*   [JupyterWith (⭐488)](https://github.com/tweag/jupyterWith) - Nix-based framework for the definition of declarative and reproducible Jupyter environments.
 
 ## [5. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Utilities / Game Engine resources
 
-*   [FVM (⭐3.2k)](https://github.com/leoafarias/fvm) <!--stargazers:leoafarias/fvm--> - Flutter Version Management: A simple cli to manage Flutter SDK versions.
+*   [FVM (⭐3.6k)](https://github.com/leoafarias/fvm) <!--stargazers:leoafarias/fvm--> - Flutter Version Management: A simple cli to manage Flutter SDK versions.
 
 ## [8. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
@@ -77,7 +77,7 @@
 
 *   [ghub.io](https://ghub.io) - Redirects to the GitHub repo of an npm package.
 
-### Community / `pre`   and   `post`   scripts
+### Community / `pre` and `post` scripts
 
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/npm)
 *   [Blog](https://blog.npmjs.org)

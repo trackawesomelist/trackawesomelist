@@ -18,13 +18,13 @@
 
 ### Deep Learning / PyTorch
 
-*   [Catalyst (⭐3.1k)](https://github.com/catalyst-team/catalyst) - High-level utils for PyTorch DL & RL research. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [Catalyst (⭐3.2k)](https://github.com/catalyst-team/catalyst) - High-level utils for PyTorch DL & RL research. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ## [3. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Frameworks
 
-*   [AngularJS (⭐615)](https://github.com/Gillespie59/eslint-plugin-angular) - Linting rules to adhere to the [John Papa's AngularJS Styleguide (⭐24k)](https://github.com/johnpapa/angular-styleguide).
+*   [AngularJS (⭐616)](https://github.com/Gillespie59/eslint-plugin-angular) - Linting rules to adhere to the [John Papa's AngularJS Styleguide (⭐24k)](https://github.com/johnpapa/angular-styleguide).
 
 ### Plugins / Practices and Specific ES Features
 
@@ -73,17 +73,17 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [CKAN](https://ckan.org) - CKAN is a tool for making open data websites. ([Source Code (⭐3.8k)](https://github.com/ckan/ckan)) `AGPL-3.0` `Python`
+*   [CKAN](https://ckan.org) - CKAN is a tool for making open data websites. ([Source Code (⭐4.1k)](https://github.com/ckan/ckan)) `AGPL-3.0` `Python`
 
 ## [9. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Open Source Projects / Wealth
 
-*   [Heedy (⭐363)](https://github.com/heedy/heedy) - A repository for all of your quantified-self data.
+*   [Heedy (⭐371)](https://github.com/heedy/heedy) - A repository for all of your quantified-self data.
 
 ## [10. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### OS and Kernels / MIT
+### OS and Kernels / Apache License
 
 *   [lovelace-os](https://sourceforge.net/projects/lovelaceos/) - Lovelace is an effort to write a Unix like operating system using the Ada 2012 language.
 

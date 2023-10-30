@@ -28,7 +28,7 @@
 
 ### Applications / Web
 
-*   [CodeCombat (⭐7.7k)](https://github.com/codecombat/codecombat) - Multiplayer programming game for learning how to code
+*   [CodeCombat (⭐7.8k)](https://github.com/codecombat/codecombat) - Multiplayer programming game for learning how to code
 
 ## [5. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
-*   [ગુજરાતી (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gu-IND)
+*   [ગુજરાતી (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gu-IND)
 
 ---
 

@@ -10,8 +10,8 @@
 
 ### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
-*   [한국어 (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ko-KR)
-*   [Português do Europe (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-PT)
+*   [한국어 (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ko-KR)
+*   [Português do Europe (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-PT)
 
 ## [2. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
@@ -65,7 +65,7 @@ Webpage: <https://cafepascal.se>
 | ---- | ----- | ------------------------------------------ | ---------- |
 | ✔    | Some  | Norrtullsgatan 4, 113 29 Stockholm, Sweden | 7–19       |
 
-### United States 🇺🇸 / New York   <a id="new-york">  </a>
+### United States 🇺🇸 / New York <a id="new-york"></a>
 
 #### Amazon AWS Loft
 
@@ -87,8 +87,8 @@ Webpage: <https://aws.amazon.com/start-ups/loft/ny-loft/>
 
 ### Apps / Misc
 
-*   [Wagtail App Pages (⭐27)](https://github.com/mwesterhof/wagtail_app_pages) - Extend Wagtail pages using an actual URL config and django views.
-*   [Wagtail Import Export (⭐32)](https://github.com/torchbox/wagtail-import-export) - Import/Export pages between Wagtail instances.
+*   [Wagtail App Pages (⭐28)](https://github.com/mwesterhof/wagtail_app_pages) - Extend Wagtail pages using an actual URL config and django views.
+*   [Wagtail Import Export (⭐31)](https://github.com/torchbox/wagtail-import-export) - Import/Export pages between Wagtail instances.
 
 ---
 

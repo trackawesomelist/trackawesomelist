@@ -50,7 +50,7 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [Cinchoo ETL (⭐583)](https://github.com/Cinchoo/ChoETL) - ETL Framework for .NET (Parser / Writer for CSV, Flat, Xml, JSON, Key-Value formatted files).
+*   [Cinchoo ETL (⭐701)](https://github.com/Cinchoo/ChoETL) - ETL Framework for .NET (Parser / Writer for CSV, Flat, Xml, JSON, Key-Value formatted files).
 
 ## [4. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
@@ -753,7 +753,7 @@
 
 ### Apps
 
-*   [Autonomica "IPFS Social Proof" (⭐126)](https://github.com/IBM/ipfs-social-proof) - Autonomica is a Keybase-like Dapp for creating an identity and proving this identity via published social media and web proofs.
+*   [Autonomica "IPFS Social Proof" (⭐131)](https://github.com/IBM/ipfs-social-proof) - Autonomica is a Keybase-like Dapp for creating an identity and proving this identity via published social media and web proofs.
 
 ## [16. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
 
@@ -948,7 +948,7 @@
 
 ### How to show your progress / Which programming languages should I use?
 
-*   **[Contributors (⭐137k)](https://github.com/ossu/computer-science/graphs/contributors)**
+*   **[Contributors (⭐150k)](https://github.com/ossu/computer-science/graphs/contributors)**
 
 ## [29. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
@@ -968,7 +968,7 @@
 
 ### Seedboxes / Seedbox Setup Tools and Guides
 
-*   [MediaServer-DockerComposeFiles (⭐114)](https://github.com/vaeyo/MediaServer-DockerComposeFiles) Docker-Compose Files for Media Server Related Apps \[Radarr, Sonarr, Plex, rTorrent, NZBGet, Ombi, Emby, etc]
+*   [MediaServer-DockerComposeFiles (⭐125)](https://github.com/vaeyo/MediaServer-DockerComposeFiles) Docker-Compose Files for Media Server Related Apps \[Radarr, Sonarr, Plex, rTorrent, NZBGet, Ombi, Emby, etc]
 
 ### Usenet / Seedbox Setup Tools and Guides
 
@@ -980,8 +980,8 @@
 
 ### Usenet Indexers / Usenet Indexing Software
 
-*   [nZEDb (⭐590)](https://github.com/nZEDb/nZEDb) a fork of nnplus(2011) | NNTP / Usenet / Newsgroup indexer.
-*   [newznab-tmux (⭐159)](https://github.com/NNTmux/newznab-tmux) Laravel based usenet indexer
+*   [nZEDb (⭐601)](https://github.com/nZEDb/nZEDb) a fork of nnplus(2011) | NNTP / Usenet / Newsgroup indexer.
+*   [newznab-tmux (⭐187)](https://github.com/NNTmux/newznab-tmux) Laravel based usenet indexer
 *   [newznab](http://www.newznab.com/) newznab is a usenet indexing application, that makes building a usenet community easy.
 
 ### Usenet Clients / Free Indexers
@@ -992,7 +992,7 @@
 ### DDL Tools / Free Indexers
 
 *   [Persepolis](https://persepolisdm.github.io/) Front-end for aria2.
-*   [axel (⭐2.3k)](https://github.com/axel-download-accelerator/axel) light command line download accelerator
+*   [axel (⭐2.5k)](https://github.com/axel-download-accelerator/axel) light command line download accelerator
 *   [uGet](https://ugetdm.com/) Open Source Download Manager
 
 ### Custom Google Search Engines / Free Indexers
@@ -1022,8 +1022,8 @@
 
 ### Subtitles Automation / Third Party Hosts
 
-*   [Bazarr (⭐1.8k)](https://github.com/morpheus65535/bazarr) Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
-*   [autosub (⭐3.8k)](https://github.com/agermanidis/autosub) Command-line utility for auto-generating subtitles for any video file using speech recognition
+*   [Bazarr (⭐2.1k)](https://github.com/morpheus65535/bazarr) Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
+*   [autosub (⭐4k)](https://github.com/agermanidis/autosub) Command-line utility for auto-generating subtitles for any video file using speech recognition
 
 ### Mobile Apps / Third Party Hosts
 
@@ -1122,11 +1122,11 @@
 
 ### Matlab / General-Purpose Machine Learning
 
-*   [Machine Learning in MatLab/Octave (⭐784)](https://github.com/trekhleb/machine-learning-octave) - examples of popular machine learning algorithms (neural networks, linear/logistic regressions, K-Means, etc.) with code examples and mathematics behind them being explained.
+*   [Machine Learning in MatLab/Octave (⭐799)](https://github.com/trekhleb/machine-learning-octave) - examples of popular machine learning algorithms (neural networks, linear/logistic regressions, K-Means, etc.) with code examples and mathematics behind them being explained.
 
 ### Tools / Misc
 
-*   [DVC (⭐11k)](https://github.com/iterative/dvc) - Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
+*   [DVC (⭐12k)](https://github.com/iterative/dvc) - Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
 
 ## [36. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
 
@@ -1179,7 +1179,7 @@
 
 ### More Awesome / Miscellaneous Tools
 
-*   [Awesome UNIX (⭐1.3k)](https://github.com/sirredbeard/Awesome-UNIX)
+*   [Awesome UNIX (⭐1.4k)](https://github.com/sirredbeard/Awesome-UNIX)
 
 ## [38. Awesome Design Principles](/content/robinstickel/awesome-design-principles/week/README.md)
 
@@ -1255,7 +1255,7 @@
 
 ### Containers / Kubernetes
 
-*   [kubernetes/examples (⭐5.2k)](https://github.com/kubernetes/examples/tree/master/staging/selenium) - Example deployment of Selenium Hub and Nodes on a Kubernetes cluster
+*   [kubernetes/examples (⭐5.7k)](https://github.com/kubernetes/examples/tree/master/staging/selenium) - Example deployment of Selenium Hub and Nodes on a Kubernetes cluster
 
 ## [50. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/week/README.md)
 
@@ -1339,43 +1339,43 @@
 
 *   [cl-sqlite (⭐63)](https://github.com/dmitryvk/cl-sqlite) - Bindings for SQLite. Public domain.
 *   [cl-memcached (⭐20)](https://github.com/quasi/cl-memcached) - Fast, thread-safe interface to the Memcached object caching system. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   [cl-mongo (⭐134)](https://github.com/fons/cl-mongo) - MongoDB client. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   [cl-redis (⭐177)](https://github.com/vseloved/cl-redis) - Redis client. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   [cl-disque (⭐12)](https://github.com/CodyReichert/cl-disque) - Disque client. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [cl-mongo (⭐138)](https://github.com/fons/cl-mongo) - MongoDB client. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [cl-redis (⭐178)](https://github.com/vseloved/cl-redis) - Redis client. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [cl-disque (⭐13)](https://github.com/CodyReichert/cl-disque) - Disque client. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 *   [cl-rethinkdb (⭐47)](https://github.com/orthecreedence/cl-rethinkdb) - RethinkDB client. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
 ### Tools
 
-*   ⭐ [pgloader (⭐4.5k)](https://github.com/dimitri/pgloader) - a data loading tool for PostgreSQL. [PostgreSQL Licence](https://www.postgresql.org/about/licence/).
+*   ⭐ [pgloader (⭐4.7k)](https://github.com/dimitri/pgloader) - a data loading tool for PostgreSQL. [PostgreSQL Licence](https://www.postgresql.org/about/licence/).
 
 ### C
 
-*   👍[cl-autowrap (⭐196)](https://github.com/rpav/cl-autowrap) - Automatically parses header files into CFFI definitions. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+*   👍[cl-autowrap (⭐200)](https://github.com/rpav/cl-autowrap) - Automatically parses header files into CFFI definitions. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 
 ### Miscellaneous
 
-*   [common-cv (⭐54)](https://github.com/byulparan/common-cv) - the OpenCV (Open Source Computer Vision Library) binding library for CommonLisp. No license specified.
+*   [common-cv (⭐55)](https://github.com/byulparan/common-cv) - the OpenCV (Open Source Computer Vision Library) binding library for CommonLisp. No license specified.
 *   [ftw (⭐54)](https://github.com/fjames86/ftw) - A Win32 GUI library. [MIT](https://opensource.org/licenses/MIT).
 
 ### Mobile
 
 *   [ECL](https://common-lisp.net/project/ecl/) - Embeddable Common Lisp; compiles to C. [GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
-*   [CLASP (⭐2.3k)](https://github.com/drmeister/clasp) - a new Common Lisp implementation that seamlessly interoperates with C++ libraries and programs using LLVM for compilation to native code. This allows Clasp to take advantage of a vast array of preexisting libraries and programs, such as out of the scientific computing ecosystem. [LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) (and others).
+*   [CLASP (⭐2.4k)](https://github.com/drmeister/clasp) - a new Common Lisp implementation that seamlessly interoperates with C++ libraries and programs using LLVM for compilation to native code. This allows Clasp to take advantage of a vast array of preexisting libraries and programs, such as out of the scientific computing ecosystem. [LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) (and others).
 *   [Allegro CL](https://franz.com/products/allegro-common-lisp/) - provides the full ANSI Common Lisp standard with many extensions.
     *   reputed features include: the AllegroCache object persistence database system, the KnowledgeGraph system, its concurrent garbage collector, its web-based IDE, and more.
     *   has a free edition. It includes AllegroCache, with a size limit.
 
 ### Community
 
-*   👍[Roswell (⭐1.6k)](https://github.com/roswell/roswell) - a Lisp implementation installer, script launcher and more. [MIT](https://opensource.org/licenses/MIT).
+*   👍[Roswell (⭐1.7k)](https://github.com/roswell/roswell) - a Lisp implementation installer, script launcher and more. [MIT](https://opensource.org/licenses/MIT).
 
 ### HTML generators and templates / Isomorphic web frameworks
 
-*   👍 [spinneret (⭐252)](https://github.com/ruricolist/spinneret) - Common Lisp HTML5 generator. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   👍 [spinneret (⭐323)](https://github.com/ruricolist/spinneret) - Common Lisp HTML5 generator. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
 ### Utils / Third-party APIs
 
-*   [lfarm (⭐101)](https://github.com/lmj/lfarm) - distributing work across machines (on top of lparallel and usocket). [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause)
+*   [lfarm (⭐102)](https://github.com/lmj/lfarm) - distributing work across machines (on top of lparallel and usocket). [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause)
 
 ### Emacs / Third-party APIs
 
@@ -1392,7 +1392,13 @@
     unicode character). See also the signs' explanation in the
     introduction.
 
-## [57. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [57. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Media Streaming - Video Streaming
+
+*   [PeerTube](https://joinpeertube.org/en/) - Decentralized video streaming platform using P2P (BitTorrent) directly in the web browser. ([Source Code (⭐12k)](https://github.com/Chocobozzz/PeerTube)) `AGPL-3.0` `Nodejs`
+
+## [58. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Other
 
@@ -1406,19 +1412,19 @@
 
 *   [GROW](https://www.grow.paris/) - The Parisian rendez-vous for creative coders, GROW is about opening new possibilities in digital creation.
 
-## [58. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [59. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Organizations
 
 *   [Nvidia Deep Learning](https://developer.nvidia.com/deep-learning)
 
-## [59. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [60. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Haskell / More
 
 *   [Haskell IDE engine](https://marketplace.visualstudio.com/items?itemName=alanz.vscode-hie-server) - provides [language server (⭐2.4k)](https://github.com/haskell/haskell-ide-engine) for stack and cabal projects.
 
-## [60. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [61. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Lisbon
 
@@ -1436,7 +1442,7 @@ Webpage: <http://ilovenicolau.com>
 
 Wifi pw: `ilovenicolau`
 
-### United States 🇺🇸 / California   <a id="california">  </a>
+### United States 🇺🇸 / California <a id="california"></a>
 
 #### Shot in the Dark Cafe
 
@@ -1446,7 +1452,7 @@ Wifi pw: `ilovenicolau`
 | ---- | ----- | ------------------------------------------------------------------------ | ---------- |
 | ✔    | ✔     | [21 E Broadway Blvd, Tucson, AZ 85701](https://goo.gl/maps/WUJjwGczYS42) | 24/7       |
 
-### United States 🇺🇸 / Seattle, WA   <a id="seattle-wa">  </a>
+### United States 🇺🇸 / Seattle, WA <a id="seattle-wa"></a>
 
 #### Fix Coffeehouse
 
@@ -1456,7 +1462,7 @@ Wifi pw: `ilovenicolau`
 | ---- | ----- | --------------------------------------------------------------------------------- | -------------------------------------------------- |
 | ask  | ✔     | [6900 East Green Lake Way N, Seattle, WA 98115](https://goo.gl/maps/hgjYxwLr8sS2) | Mon-Fri 6:00-21:00, Sat 7:00-21:00, Sun 7:00-20:00 |
 
-## [61. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+## [62. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
 ### Papers / USENIX Security
 
@@ -1482,7 +1488,7 @@ Wifi pw: `ilovenicolau`
 
 *   [Ifuzzer: An evolutionary interpreter fuzzer using genetic programming, 2016](https://www.cs.vu.nl/\~herbertb/download/papers/ifuzzer-esorics16.pdf)
 
-## [62. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [63. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Android
 
@@ -1557,13 +1563,13 @@ Wifi pw: `ilovenicolau`
 
 *   [11 Essential Linux Interview Questions from Toptal](http://www.toptal.com/linux/interview-questions)
 
-## [63. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [64. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Books
 
 *   [Vue: Build & Deploy](https://leanpub.com/vue-book) by Daniel Schmitz, Leanpub. (September 2018)
 
-## [64. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [65. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / DynamoDB
 
@@ -1576,16 +1582,6 @@ Wifi pw: `ilovenicolau`
 ### Open Source Repos / Miscellaneous Repos
 
 *   [spulec/moto :fire::fire::fire::fire::fire: (⭐6.8k)](https://github.com/spulec/moto) - Allows your python tests to easily mock out the boto library.
-
-## [65. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
-
-### Software / Media Streaming - Video Streaming
-
-*   [PeerTube](https://joinpeertube.org/en/) - Decentralized video streaming platform using P2P (BitTorrent) directly in the web browser. ([Source Code (⭐12k)](https://github.com/Chocobozzz/PeerTube)) `AGPL-3.0` `Nodejs`
-
-### Software / Money, Budgeting & Management
-
-*   [SilverStrike](https://silverstrike.org/) - Personal finance management made easy. ([Demo](https://demo.silverstrike.org/), [Source Code (⭐369)](https://github.com/agstrike/silverstrike)) `MIT` `Python/Django`
 
 ## [66. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/week/README.md)
 
@@ -1762,7 +1758,7 @@ Wifi pw: `ilovenicolau`
 
 ### Service Programming
 
-*   [Mara (⭐1.9k)](https://github.com/mara/data-integration) - A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow
+*   [Mara (⭐2k)](https://github.com/mara/data-integration) - A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow
 
 ### Interesting Readings
 
@@ -1776,24 +1772,24 @@ Wifi pw: `ilovenicolau`
 
 ### Game Engine
 
-*   [OpenXRay (⭐2.4k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series. \[Modified BSD/non-commercial only]
+*   [OpenXRay (⭐2.5k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series. \[Modified BSD/non-commercial only]
 
 ### Graphics
 
-*   [TinySpline (⭐992)](https://github.com/msteinbeck/tinyspline) - A small, yet powerful ANSI C library for interpolating, transforming, and querying arbitrary NURBS, B-Splines, and Bézier curves. \[MIT]
+*   [TinySpline (⭐1k)](https://github.com/msteinbeck/tinyspline) - A small, yet powerful ANSI C library for interpolating, transforming, and querying arbitrary NURBS, B-Splines, and Bézier curves. \[MIT]
 
 ### Inter-process communication
 
-*   [nng (⭐3.2k)](https://github.com/nanomsg/nng) - nanomsg-next-generation, a light-weight brokerless messaging library. \[MIT] [website](https://nanomsg.github.io/nng/)
+*   [nng (⭐3.4k)](https://github.com/nanomsg/nng) - nanomsg-next-generation, a light-weight brokerless messaging library. \[MIT] [website](https://nanomsg.github.io/nng/)
 
 ### JSON
 
-*   [LIBUCL (⭐1.5k)](https://github.com/vstakhov/libucl) :zap: - Universal configuration library parser. \[BSD-2-Clause]
+*   [LIBUCL (⭐1.6k)](https://github.com/vstakhov/libucl) :zap: - Universal configuration library parser. \[BSD-2-Clause]
 
 ### Multimedia
 
-*   [libav (⭐973)](https://github.com/libav/libav) - A collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata. \[LGPL v2.1+ and others] [website](https://www.libav.org/)
-*   [TagLib (⭐1k)](https://github.com/taglib/taglib) - A library for reading and editing the metadata of several popular audio formats. \[LGPL/MPL] [website](https://taglib.org/)
+*   [libav (⭐999)](https://github.com/libav/libav) - A collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata. \[LGPL v2.1+ and others] [website](https://www.libav.org/)
+*   [TagLib (⭐1.1k)](https://github.com/taglib/taglib) - A library for reading and editing the metadata of several popular audio formats. \[LGPL/MPL] [website](https://taglib.org/)
 
 ### Networking
 
@@ -1801,7 +1797,7 @@ Wifi pw: `ilovenicolau`
 
 ### Scripting
 
-*   [sol2 (⭐3.5k)](https://github.com/ThePhD/sol2) - A C++ <-> Lua API wrapper with advanced features and top notch performance. \[MIT]
+*   [sol2 (⭐3.7k)](https://github.com/ThePhD/sol2) - A C++ <-> Lua API wrapper with advanced features and top notch performance. \[MIT]
 
 ### Build Systems
 
@@ -1825,10 +1821,6 @@ Wifi pw: `ilovenicolau`
 *   [Free Code Camp](https://www.freecodecamp.org/) - An open source community that helps you learn to code.
 
 ## [77. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
-
-### Unofficial
-
-*   [Crystal Mastery](https://crystalmastery.io/) - Screencasts for learning Crystal
 
 ### Official Documentation Translations
 

@@ -16,13 +16,11 @@
 
 ### Word Processors
 
-*   [Atom](https://atom.io) - Popular IDE with Markdown support.
-    *   [Markdown Preview Enhanced for Atom (⭐3.8k)](https://github.com/shd101wyy/markdown-preview-enhanced) - Pandoc
-        integration and utilities for Atom.
-    *   [Autocomplete BibTeX for Atom (⭐44)](https://github.com/apcshields/autocomplete-bibtex) - BibTeX support for Atom.
 *   [Visual Studio Code](https://code.visualstudio.com/) - Popular IDE with Markdown support.
-    *   [Markdown All in One (⭐2.4k)](https://github.com/yzhang-gh/vscode-markdown/#readme) - Extension for enhanced
+    *   [Markdown All in One (⭐2.6k)](https://github.com/yzhang-gh/vscode-markdown/#readme) - Extension for enhanced
         Markdown support in VSCode, such as preview and auto completion to name a few.
+    *   [Markdown Preview Enhanced (⭐3.9k)](https://github.com/shd101wyy/markdown-preview-enhanced) - Pandoc
+        integration and utilities.
 
 ### Converters and Filters
 
@@ -31,14 +29,14 @@
 
 ### Spell Checking and Linting
 
-*   [restructuredtext-lint (⭐155)](https://github.com/twolfson/restructuredtext-lint) - reStructuredText linter.
+*   [restructuredtext-lint (⭐160)](https://github.com/twolfson/restructuredtext-lint) - reStructuredText linter.
 *   [textlint](https://textlint.github.io/) - Pluggable linting tool for text
     and Markdown.
 
 ### Tutorials / Books
 
 *   [Katrin Leinweber's Ph.D.
-    thesis (⭐38)](https://github.com/katrinleinweber/PhD-thesis/#readme) - Automated
+    thesis (⭐40)](https://github.com/katrinleinweber/PhD-thesis/#readme) - Automated
     work flow involving several tools, but primarily Pandoc, `latexmk` and
     Academic Markdown.
 
@@ -46,7 +44,7 @@
 
 ### API / Runner
 
-*   [FarFetch (⭐56)](https://github.com/WebsiteBeaver/far-fetch) - Modern Fetch API wrapper for simplicity, with concise file uploading.
+*   [FarFetch (⭐58)](https://github.com/WebsiteBeaver/far-fetch) - Modern Fetch API wrapper for simplicity, with concise file uploading.
 
 ## [4. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md)
 

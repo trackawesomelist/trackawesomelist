@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 24 - Aug 30, 2020
 
-64 awesome lists updated this week.
+63 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### JSON
 
-*   [jsoncons (⭐586)](https://github.com/danielaparker/jsoncons) - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. \[Boost]
+*   [jsoncons (⭐611)](https://github.com/danielaparker/jsoncons) - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. \[Boost]
 
 ## [2. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
@@ -37,7 +37,7 @@
 ### CTF Tools / Malware Analysis Books
 
 *   [CTF Field Guide](https://trailofbits.github.io/ctf/) - Everything you need to win your next CTF competition.
-*   [Ciphey (⭐11k)](https://github.com/ciphey/ciphey) - Automated decryption tool using artificial intelligence and natural language processing.
+*   [Ciphey (⭐14k)](https://github.com/ciphey/ciphey) - Automated decryption tool using artificial intelligence and natural language processing.
 
 ### Collaboration Tools / Malware Analysis Books
 
@@ -49,34 +49,34 @@
 
 ### Exfiltration Tools / Zealandia
 
-*   [DET (⭐789)](https://github.com/sensepost/DET) - Proof of concept to perform data exfiltration using either single or multiple channel(s) at the same time.
+*   [DET (⭐809)](https://github.com/sensepost/DET) - Proof of concept to perform data exfiltration using either single or multiple channel(s) at the same time.
 *   [Iodine](https://code.kryo.se/iodine/) - Tunnel IPv4 data through a DNS server; useful for exfiltration from networks where Internet access is firewalled, but DNS queries are allowed.
-*   [TrevorC2 (⭐1k)](https://github.com/trustedsec/trevorc2) - Client/server tool for masking command and control and data exfiltration through a normally browsable website, not typical HTTP POST requests.
-*   [dnscat2 (⭐2.9k)](https://github.com/iagox86/dnscat2) - Tool designed to create an encrypted command and control channel over the DNS protocol, which is an effective tunnel out of almost every network.
-*   [pwnat (⭐2.6k)](https://github.com/samyk/pwnat) - Punches holes in firewalls and NATs.
+*   [TrevorC2 (⭐1.1k)](https://github.com/trustedsec/trevorc2) - Client/server tool for masking command and control and data exfiltration through a normally browsable website, not typical HTTP POST requests.
+*   [dnscat2 (⭐3.1k)](https://github.com/iagox86/dnscat2) - Tool designed to create an encrypted command and control channel over the DNS protocol, which is an effective tunnel out of almost every network.
+*   [pwnat (⭐2.9k)](https://github.com/samyk/pwnat) - Punches holes in firewalls and NATs.
 *   [tgcd](http://tgcd.sourceforge.net/) - Simple Unix network utility to extend the accessibility of TCP/IP based network services beyond firewalls.
 
 ### Exploit Development Tools / Zealandia
 
-*   [Magic Unicorn (⭐3.3k)](https://github.com/trustedsec/unicorn) - Shellcode generator for numerous attack vectors, including Microsoft Office macros, PowerShell, HTML applications (HTA), or `certutil` (using fake certificates).
-*   [Pwntools (⭐9.8k)](https://github.com/Gallopsled/pwntools) - Rapid exploit development framework built for use in CTFs.
-*   [peda (⭐5.3k)](https://github.com/longld/peda) - Python Exploit Development Assistance for GDB.
-*   [Wordpress Exploit Framework (⭐961)](https://github.com/rastating/wordpress-exploit-framework) - Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems.
+*   [Magic Unicorn (⭐3.5k)](https://github.com/trustedsec/unicorn) - Shellcode generator for numerous attack vectors, including Microsoft Office macros, PowerShell, HTML applications (HTA), or `certutil` (using fake certificates).
+*   [Pwntools (⭐11k)](https://github.com/Gallopsled/pwntools) - Rapid exploit development framework built for use in CTFs.
+*   [Wordpress Exploit Framework (⭐986)](https://github.com/rastating/wordpress-exploit-framework) - Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems.
+*   [peda (⭐5.6k)](https://github.com/longld/peda) - Python Exploit Development Assistance for GDB.
 
 ### Hash Cracking Tools / Zealandia
 
-*   [duplicut (⭐638)](https://github.com/nil0x42/duplicut) - Quickly remove duplicates, without changing the order, and without getting OOM on huge wordlists.
+*   [duplicut (⭐737)](https://github.com/nil0x42/duplicut) - Quickly remove duplicates, without changing the order, and without getting OOM on huge wordlists.
 
 ### Industrial Control and SCADA Systems / Zealandia
 
-*   [Industrial Exploitation Framework (ISF) (⭐894)](https://github.com/dark-lbp/isf) - Metasploit-like exploit framework based on routersploit designed to target Industrial Control Systems (ICS), SCADA devices, PLC firmware, and more.
+*   [Industrial Exploitation Framework (ISF) (⭐959)](https://github.com/dark-lbp/isf) - Metasploit-like exploit framework based on routersploit designed to target Industrial Control Systems (ICS), SCADA devices, PLC firmware, and more.
 
 ### Intentionally Vulnerable Systems / Intentionally Vulnerable Systems as Docker Containers
 
 *   [Damn Vulnerable Web Application (DVWA)](https://hub.docker.com/r/citizenstig/dvwa/) - `docker pull citizenstig/dvwa`.
-*   [OWASP Juice Shop (⭐7.5k)](https://github.com/bkimminich/juice-shop#docker-container--) - `docker pull bkimminich/juice-shop`.
+*   [OWASP Juice Shop (⭐8.8k)](https://github.com/bkimminich/juice-shop#docker-container--) - `docker pull bkimminich/juice-shop`.
 *   [OWASP Mutillidae II Web Pen-Test Practice Application](https://hub.docker.com/r/citizenstig/nowasp/) - `docker pull citizenstig/nowasp`.
-*   [OWASP NodeGoat (⭐1.7k)](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker) - `docker-compose build && docker-compose up`.
+*   [OWASP NodeGoat (⭐1.8k)](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker) - `docker-compose build && docker-compose up`.
 *   [OWASP Security Shepherd](https://hub.docker.com/r/ismisepaul/securityshepherd/) - `docker pull ismisepaul/securityshepherd`.
 *   [OWASP WebGoat Project 7.1 docker image](https://hub.docker.com/r/webgoat/webgoat-7.1/) - `docker pull webgoat/webgoat-7.1`.
 *   [OWASP WebGoat Project 8.0 docker image](https://hub.docker.com/r/webgoat/webgoat-8.0/) - `docker pull webgoat/webgoat-8.0`.
@@ -87,68 +87,68 @@
 
 ### macOS Utilities / Intentionally Vulnerable Systems as Docker Containers
 
-*   [Bella (⭐151)](https://github.com/kdaoudieh/Bella) - Pure Python post-exploitation data mining and remote administration tool for macOS.
-*   [EvilOSX (⭐2k)](https://github.com/Marten4n6/EvilOSX) - Modular RAT that uses numerous evasion and exfiltration techniques out-of-the-box.
+*   [Bella (⭐173)](https://github.com/kdaoudieh/Bella) - Pure Python post-exploitation data mining and remote administration tool for macOS.
+*   [EvilOSX (⭐2.1k)](https://github.com/Marten4n6/EvilOSX) - Modular RAT that uses numerous evasion and exfiltration techniques out-of-the-box.
 
 ### Network Tools / Network Reconnaissance Tools
 
-*   [RustScan (⭐8.7k)](https://github.com/rustscan/rustscan) - Lightweight and quick open-source port scanner designed to automatically pipe open ports into Nmap.
+*   [RustScan (⭐11k)](https://github.com/rustscan/rustscan) - Lightweight and quick open-source port scanner designed to automatically pipe open ports into Nmap.
 
 ### Network Tools / Wireless Network Tools
 
 *   [WiFi Pineapple](https://www.wifipineapple.com/) - Wireless auditing and penetration testing platform.
-*   [pwnagotchi (⭐5.4k)](https://github.com/evilsocket/pwnagotchi) - Deep reinforcement learning based AI that learns from the Wi-Fi environment and instruments BetterCAP in order to maximize the WPA key material captured.
+*   [pwnagotchi (⭐6.2k)](https://github.com/evilsocket/pwnagotchi) - Deep reinforcement learning based AI that learns from the Wi-Fi environment and instruments BetterCAP in order to maximize the WPA key material captured.
 
 ### Online Resources / Other Lists Online
 
-*   [Blue Team (⭐2.9k)](https://github.com/fabacab/awesome-cybersecurity-blueteam) - Awesome resources, tools, and other shiny things for cybersecurity blue teams.
+*   [Blue Team (⭐3.6k)](https://github.com/fabacab/awesome-cybersecurity-blueteam) - Awesome resources, tools, and other shiny things for cybersecurity blue teams.
 
 ### Open Sources Intelligence (OSINT) / Penetration Testing Report Templates
 
-*   [DataSploit (⭐2.7k)](https://github.com/upgoingstar/datasploit) - OSINT visualizer utilizing Shodan, Censys, Clearbit, EmailHunter, FullContact, and Zoomeye behind the scenes.
-*   [GyoiThon (⭐668)](https://github.com/gyoisamurai/GyoiThon) - GyoiThon is an Intelligence Gathering tool using Machine Learning.
+*   [DataSploit (⭐2.9k)](https://github.com/upgoingstar/datasploit) - OSINT visualizer utilizing Shodan, Censys, Clearbit, EmailHunter, FullContact, and Zoomeye behind the scenes.
+*   [GyoiThon (⭐702)](https://github.com/gyoisamurai/GyoiThon) - GyoiThon is an Intelligence Gathering tool using Machine Learning.
 *   [Intrigue](http://intrigue.io) - Automated OSINT & Attack Surface discovery framework with powerful API, UI and CLI.
 *   [Maltego](http://www.maltego.com/) - Proprietary software for open sources intelligence and forensics.
 *   [PacketTotal](https://packettotal.com/) - Simple, free, high-quality packet capture file analysis facilitating the quick detection of network-borne malware (using Zeek and Suricata IDS signatures under the hood).
-*   [Skiptracer (⭐946)](https://github.com/xillwillx/skiptracer) - OSINT scraping framework that utilizes basic Python webscraping (BeautifulSoup) of PII paywall sites to compile passive information on a target on a ramen noodle budget.
-*   [Sn1per (⭐5.8k)](https://github.com/1N3/Sn1per) - Automated Pentest Recon Scanner.
+*   [Skiptracer (⭐996)](https://github.com/xillwillx/skiptracer) - OSINT scraping framework that utilizes basic Python webscraping (BeautifulSoup) of PII paywall sites to compile passive information on a target on a ramen noodle budget.
+*   [Sn1per (⭐7k)](https://github.com/1N3/Sn1per) - Automated Pentest Recon Scanner.
 *   [Spiderfoot](http://www.spiderfoot.net/) - Multi-source OSINT automation tool with a Web UI and report visualizations.
-*   [creepy (⭐1.1k)](https://github.com/ilektrojohn/creepy) - Geolocation OSINT tool.
-*   [gOSINT (⭐506)](https://github.com/Nhoya/gOSINT) - OSINT tool with multiple modules and a telegram scraper.
-*   [image-match (⭐2.8k)](https://github.com/ascribe/image-match) - Quickly search over billions of images.
-*   [recon-ng (⭐2.4k)](https://github.com/lanmaster53/recon-ng) - Full-featured Web Reconnaissance framework written in Python.
-*   [sn0int (⭐1.4k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
+*   [creepy (⭐1.2k)](https://github.com/ilektrojohn/creepy) - Geolocation OSINT tool.
+*   [gOSINT (⭐557)](https://github.com/Nhoya/gOSINT) - OSINT tool with multiple modules and a telegram scraper.
+*   [image-match (⭐2.9k)](https://github.com/ascribe/image-match) - Quickly search over billions of images.
+*   [recon-ng (⭐3k)](https://github.com/lanmaster53/recon-ng) - Full-featured Web Reconnaissance framework written in Python.
+*   [sn0int (⭐1.6k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 
 ### Open Sources Intelligence (OSINT) / Data Broker and Search Engine Services
 
 *   [Hunter.io](https://hunter.io/) - Data broker providing a Web search interface for discovering the email addresses and other organizational details of a company.
 *   [Threat Crowd](https://www.threatcrowd.org/) - Search engine for threats.
 *   [Virus Total](https://www.virustotal.com/) - Free service that analyzes suspicious files and URLs and facilitates the quick detection of viruses, worms, trojans, and all kinds of malware.
-*   [surfraw (⭐63)](https://github.com/kisom/surfraw) - Fast UNIX command line interface to a variety of popular WWW search engines.
+*   [surfraw (⭐68)](https://github.com/kisom/surfraw) - Fast UNIX command line interface to a variety of popular WWW search engines.
 
 ### Open Sources Intelligence (OSINT) / Dorking tools
 
-*   [BinGoo (⭐188)](https://github.com/Hood3dRob1n/BinGoo) - GNU/Linux bash based Bing and Google Dorking Tool.
-*   [dorkbot (⭐465)](https://github.com/utiso/dorkbot) - Command-line tool to scan Google (or other) search results for vulnerabilities.
-*   [github-dorks (⭐2.2k)](https://github.com/techgaun/github-dorks) - CLI tool to scan GitHub repos/organizations for potential sensitive information leaks.
-*   [GooDork (⭐121)](https://github.com/k3170makan/GooDork) - Command line Google dorking tool.
+*   [BinGoo (⭐197)](https://github.com/Hood3dRob1n/BinGoo) - GNU/Linux bash based Bing and Google Dorking Tool.
+*   [dorkbot (⭐496)](https://github.com/utiso/dorkbot) - Command-line tool to scan Google (or other) search results for vulnerabilities.
+*   [github-dorks (⭐2.5k)](https://github.com/techgaun/github-dorks) - CLI tool to scan GitHub repos/organizations for potential sensitive information leaks.
+*   [GooDork (⭐123)](https://github.com/k3170makan/GooDork) - Command line Google dorking tool.
 *   [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/) - Database of Google dorks; can be used for recon.
-*   [dork-cli (⭐128)](https://github.com/jgor/dork-cli) - Command line Google dork tool.
-*   [dorks (⭐185)](https://github.com/USSCltd/dorks) - Google hack database automation tool.
-*   [fast-recon (⭐126)](https://github.com/DanMcInerney/fast-recon) - Perform Google dorks against a domain.
-*   [pagodo (⭐2k)](https://github.com/opsdisk/pagodo) - Automate Google Hacking Database scraping.
-*   [snitch (⭐331)](https://github.com/Smaash/snitch) - Information gathering via dorks.
+*   [dork-cli (⭐135)](https://github.com/jgor/dork-cli) - Command line Google dork tool.
+*   [dorks (⭐191)](https://github.com/USSCltd/dorks) - Google hack database automation tool.
+*   [fast-recon (⭐138)](https://github.com/DanMcInerney/fast-recon) - Perform Google dorks against a domain.
+*   [pagodo (⭐2.4k)](https://github.com/opsdisk/pagodo) - Automate Google Hacking Database scraping.
+*   [snitch (⭐358)](https://github.com/Smaash/snitch) - Information gathering via dorks.
 
 ### Open Sources Intelligence (OSINT) / Email search and analysis tools
 
-*   [SimplyEmail (⭐887)](https://github.com/SimplySecurity/SimplyEmail) - Email recon made fast and easy.
-*   [WhatBreach (⭐805)](https://github.com/Ekultek/WhatBreach) - Search email addresses and discover all known breaches that this email has been seen in, and download the breached database if it is publicly available.
+*   [SimplyEmail (⭐921)](https://github.com/SimplySecurity/SimplyEmail) - Email recon made fast and easy.
+*   [WhatBreach (⭐957)](https://github.com/Ekultek/WhatBreach) - Search email addresses and discover all known breaches that this email has been seen in, and download the breached database if it is publicly available.
 
 ### Open Sources Intelligence (OSINT) / Metadata harvesting and analysis
 
 *   [FOCA (Fingerprinting Organizations with Collected Archives)](https://www.elevenpaths.com/labstools/foca/) - Automated document harvester that searches Google, Bing, and DuckDuckGo to find and extrapolate internal company organizational structures.
-*   [metagoofil (⭐802)](https://github.com/laramies/metagoofil) - Metadata harvester.
-*   [theHarvester (⭐7.9k)](https://github.com/laramies/theHarvester) - E-mail, subdomain and people names harvester.
+*   [metagoofil (⭐886)](https://github.com/laramies/metagoofil) - Metadata harvester.
+*   [theHarvester (⭐9.3k)](https://github.com/laramies/theHarvester) - E-mail, subdomain and people names harvester.
 
 ### Open Sources Intelligence (OSINT) / Network device discovery tools
 
@@ -158,7 +158,7 @@
 
 ### Open Sources Intelligence (OSINT) / OSINT Online Resources
 
-*   [CertGraph (⭐258)](https://github.com/lanrat/certgraph) - Crawls a domain's SSL/TLS certificates for its certificate alternative names.
+*   [CertGraph (⭐315)](https://github.com/lanrat/certgraph) - Crawls a domain's SSL/TLS certificates for its certificate alternative names.
 *   [GhostProject](https://ghostproject.fr/) - Searchable database of billions of cleartext passwords, partially visible for free.
 *   [NetBootcamp OSINT Tools](http://netbootcamp.org/osinttools/) - Collection of OSINT links and custom Web interfaces to other services.
 *   [OSINT Framework](http://osintframework.com/) - Collection of various OSINT tools broken out by category.
@@ -167,14 +167,14 @@
 ### Open Sources Intelligence (OSINT) / Source code repository searching tools
 
 *   [vcsmap (⭐131)](https://github.com/melvinsh/vcsmap) - Plugin-based tool to scan public version control systems for sensitive information.
-*   [Yar](https://github.com/Furduhlutur/yar) - Clone git repositories to search through the whole commit history in order of commit time for secrets, tokens, or passwords.
+*   [Yar (⭐227)](https://github.com/Furduhlutur/yar) - Clone git repositories to search through the whole commit history in order of commit time for secrets, tokens, or passwords.
 
 ### Privilege Escalation Tools / Web application and resource analysis tools
 
-*   [Active Directory and Privilege Escalation (ADAPE) (⭐1k)](https://github.com/hausec/ADAPE-Script) - Umbrella script that automates numerous useful PowerShell modules to discover security misconfigurations and attempt privilege escalation against Active Directory.
-*   [LinEnum (⭐5.6k)](https://github.com/rebootuser/LinEnum) - Scripted local Linux enumeration and privilege escalation checker useful for auditing a host and during CTF gaming.
-*   [Postenum (⭐263)](https://github.com/mbahadou/postenum) - Shell script used for enumerating possible privilege escalation opportunities on a local GNU/Linux system.
-*   [unix-privesc-check (⭐948)](https://github.com/pentestmonkey/unix-privesc-check) - Shell script to check for simple privilege escalation vectors on UNIX systems.
+*   [Active Directory and Privilege Escalation (ADAPE) (⭐1.1k)](https://github.com/hausec/ADAPE-Script) - Umbrella script that automates numerous useful PowerShell modules to discover security misconfigurations and attempt privilege escalation against Active Directory.
+*   [LinEnum (⭐6.3k)](https://github.com/rebootuser/LinEnum) - Scripted local Linux enumeration and privilege escalation checker useful for auditing a host and during CTF gaming.
+*   [Postenum (⭐265)](https://github.com/mbahadou/postenum) - Shell script used for enumerating possible privilege escalation opportunities on a local GNU/Linux system.
+*   [unix-privesc-check (⭐993)](https://github.com/pentestmonkey/unix-privesc-check) - Shell script to check for simple privilege escalation vectors on UNIX systems.
 
 ### Reverse Engineering / Reverse Engineering Books
 
@@ -210,8 +210,8 @@
 
 ### Steganography Tools / Social Engineering Tools
 
-*   [Cloakify (⭐1.3k)](https://github.com/TryCatchHCF/Cloakify) - Textual steganography toolkit that converts any filetype into lists of everyday strings.
-*   [StegCracker (⭐483)](https://github.com/Paradoxis/StegCracker) - Steganography brute-force utility to uncover hidden data inside files.
+*   [Cloakify (⭐1.4k)](https://github.com/TryCatchHCF/Cloakify) - Textual steganography toolkit that converts any filetype into lists of everyday strings.
+*   [StegCracker (⭐508)](https://github.com/Paradoxis/StegCracker) - Steganography brute-force utility to uncover hidden data inside files.
 
 ### Vulnerability Databases / Social Engineering Tools
 
@@ -230,7 +230,7 @@
 
 ### Containers / Kubernetes
 
-*   [WebGrid (⭐26)](https://github.com/TilBlechschmidt/WebGrid) - An open-source, decentralized, scalable and robust selenium-grid equivalent.
+*   [WebGrid (⭐32)](https://github.com/TilBlechschmidt/WebGrid) - An open-source, decentralized, scalable and robust selenium-grid equivalent.
 
 ## [4. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
@@ -270,7 +270,7 @@
 
 ### Languages
 
-*   [Brackets (⭐4)](https://github.com/kvbc/brackets) - Language made of brackets, a lot of brackets.
+*   [Brackets (⭐3)](https://github.com/kvbc/brackets) - Language made of brackets, a lot of brackets.
 
 ## [8. Awesome Gpt3](/content/elyase/awesome-gpt3/week/README.md)
 
@@ -290,24 +290,24 @@
 
 ### Search / Provided by the Host
 
-*   [itemsjs (⭐268)](https://github.com/itemsapi/itemsjs) - Full text, faceted, almost dependency free search engine in javascript
-*   [minisearch (⭐1.7k)](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
-*   [flexsearch (⭐9k)](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
+*   [itemsjs (⭐301)](https://github.com/itemsapi/itemsjs) - Full text, faceted, almost dependency free search engine in javascript
+*   [minisearch (⭐3.2k)](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
+*   [flexsearch (⭐10k)](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 *   [fuse.js](https://fusejs.io/) - Powerful, lightweight fuzzy-search library, with zero dependencies
 *   [static-search (⭐23)](https://github.com/dchest/static-search) - A Go program to generate JSON index of HTML files, and a JavaScript component with optional UI to search this index
 *   [elasticlunr](http://elasticlunr.com/docs/index.html) - Lightweight full-text search engine developed in JavaScript for browser search and offline search based on Lunr.js
-*   [tinysearch (⭐2.1k)](https://github.com/tinysearch/tinysearch) - Tiny, full-text search engine for static websites built with Rust and Wasm
+*   [tinysearch (⭐2.5k)](https://github.com/tinysearch/tinysearch) - Tiny, full-text search engine for static websites built with Rust and Wasm
 *   [js-search](https://www.npmjs.com/package/js-search) - Client-side searches of JavaScript and JSON objects, ES5 compatible and does not require jQuery or any other third-party libraries
-*   [search-index (⭐1.3k)](https://github.com/fergiemcdowall/search-index) - A persistent, network resilient, full text search library for the browser and Node.js
+*   [search-index (⭐1.4k)](https://github.com/fergiemcdowall/search-index) - A persistent, network resilient, full text search library for the browser and Node.js
 *   [fuzzysearch (⭐2.7k)](https://github.com/bevacqua/fuzzysearch) - Tiny and blazing-fast fuzzy search in JavaScript
-*   [fuzzy (⭐804)](https://github.com/mattyork/fuzzy) - Fuzzy search / filter for browser and node
+*   [fuzzy (⭐815)](https://github.com/mattyork/fuzzy) - Fuzzy search / filter for browser and node
 *   [fullproof](https://reyesr.github.io/fullproof/) - Javascript library that provides high-quality full-text search in the browser
 
 ## [10. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
-### Tools / Vendor supported providers
+### Tools / Community providers
 
-*   [hcledit (⭐309)](https://github.com/minamijoyo/hcledit) - A command line editor for HCL.
+*   [hcledit (⭐355)](https://github.com/minamijoyo/hcledit) - A command line editor for HCL.
 
 ## [11. Tools](/content/lvwzhen/tools/week/README.md)
 
@@ -332,20 +332,20 @@
 
 ### Traditional Market / Crypto Currencies
 
-*   [lean (⭐7.4k)](https://github.com/QuantConnect/Lean) - Algorithmic trading engine built for easy strategy research, backtesting and live trading.
+*   [lean (⭐8k)](https://github.com/QuantConnect/Lean) - Algorithmic trading engine built for easy strategy research, backtesting and live trading.
 
 ## [15. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Official Resources
 
-*   [GitHub Repo (⭐56k)](https://github.com/vitejs/vite)
-*   [Awesome Vue (⭐69k)](https://github.com/vuejs/awesome-vue)
+*   [GitHub Repo (⭐60k)](https://github.com/vitejs/vite)
+*   [Awesome Vue (⭐70k)](https://github.com/vuejs/awesome-vue)
 
 ### Apps/Websites / Community
 
-*   [Icônes (⭐3.5k)](https://github.com/antfu/icones) - Icon explorer with instant search.
-*   [Awesome CN Café (⭐75)](https://github.com/antfu/awesome-cn-cafe-web) - Web application for Awesome CN Café.
-*   [Todo Example (⭐28)](https://github.com/beary/vite-example) - Todo app with routing and state management.
+*   [Icônes (⭐4.2k)](https://github.com/antfu/icones) - Icon explorer with instant search.
+*   [Awesome CN Café (⭐85)](https://github.com/antfu/awesome-cn-cafe-web) - Web application for Awesome CN Café.
+*   [Todo Example (⭐34)](https://github.com/beary/vite-example) - Todo app with routing and state management.
 
 ## [16. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
@@ -368,24 +368,24 @@
 
 ### Contents / Business
 
-*   [Minsk8 (⭐61)](https://github.com/comerc/minsk8) - Marketplace with Hasura & Firebase by [comerc](https://github.com/comerc) ([live-code](https://www.youtube.com/playlist?list=PLMAOL6NXxmsgTUrZE4Y9xhIxzDA46X1lc)).
+*   [Minsk8 (⭐63)](https://github.com/comerc/minsk8) - Marketplace with Hasura & Firebase by [comerc](https://github.com/comerc) ([live-code](https://www.youtube.com/playlist?list=PLMAOL6NXxmsgTUrZE4Y9xhIxzDA46X1lc)).
 
 ### Contents / Finance
 
 *   [Money Tracker (⭐48)](https://github.com/jerichoi224/MoneyTracker) - Money Tracker by [Daniel Choi](https://github.com/jerichoi224).
-*   [Piggyvault (⭐400)](https://github.com/piggyvault/piggyvault) - Family finance management app by [Abhith Rajan](https://www.abhith.net).
+*   [Piggyvault (⭐427)](https://github.com/piggyvault/piggyvault) - Family finance management app by [Abhith Rajan](https://www.abhith.net).
 
 ### Contents / Lifestyle
 
-*   [Food Ordering App (⭐885)](https://github.com/Tarikul711/flutter-food-delivery-app-ui) - Food delivery App UI designed by [Tarikul Islam](https://github.com/tarikul711).
+*   [Food Ordering App (⭐942)](https://github.com/Tarikul711/flutter-food-delivery-app-ui) - Food delivery App UI designed by [Tarikul Islam](https://github.com/tarikul711).
 
 ### Contents / Media
 
-*   [TuneIN (⭐146)](https://github.com/moda20/flutter-tunein) - Dynamic themed music player with casting [Moda20](https://github.com/moda20).
+*   [TuneIN (⭐147)](https://github.com/moda20/flutter-tunein) - Dynamic themed music player with casting [Moda20](https://github.com/moda20).
 
 ### Contents / Shopping
 
-*   [E-Commerce App (⭐636)](https://github.com/Tarikul711/flutter-ecommerce) - Ecommerce app UI and API integration by [Md Tarikul Islam](https://github.com/Tarikul711/).
+*   [E-Commerce App (⭐661)](https://github.com/Tarikul711/flutter-ecommerce) - Ecommerce app UI and API integration by [Md Tarikul Islam](https://github.com/Tarikul711/).
 
 ## [18. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
 
@@ -638,24 +638,18 @@
 
 ### Database
 
-*   [Datalevin (⭐927)](https://github.com/juji-io/datalevin)
+*   [Datalevin (⭐941)](https://github.com/juji-io/datalevin)
 
-## [22. Awesome Devtools](/content/moimikey/awesome-devtools/week/README.md)
-
-### Tools / Deobfuscation/Transformation
-
-*   [Babel](https://babeljs.io/en/repl) - Transpile and optionally evaluate ES2015 to ES5
-
-## [23. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [22. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Framework Components
 
-*   [graphql (⭐123)](https://github.com/graphql-crystal/graphql) - Type-safe [GraphQL](http://graphql.org) server implementation
-*   [graphql-crystal (⭐216)](https://github.com/ziprandom/graphql-crystal) - [GraphQL](http://graphql.org) implementation
+*   [graphql (⭐134)](https://github.com/graphql-crystal/graphql) - Type-safe [GraphQL](http://graphql.org) server implementation
+*   [graphql-crystal (⭐217)](https://github.com/ziprandom/graphql-crystal) - [GraphQL](http://graphql.org) implementation
 
 ### GUI Development
 
-*   [Iu (⭐61)](https://github.com/grkek/iu) - UI framework based on the [Fusion/libui.cr (⭐176)](https://github.com/Fusion/libui.cr) library, with custom elements and modified bindings from [hedron-crystal/hedron (⭐83)](https://github.com/hedron-crystal/hedron)
+*   [Iu (⭐64)](https://github.com/grkek/iu) - UI framework based on the [Fusion/libui.cr (⭐175)](https://github.com/Fusion/libui.cr) library, with custom elements and modified bindings from [hedron-crystal/hedron (⭐83)](https://github.com/hedron-crystal/hedron)
 
 ### HTTP
 
@@ -663,27 +657,27 @@
 
 ### Unofficial
 
-*   [crystal-koans (⭐34)](https://github.com/ilmanzo/crystal-koans) - Learn Crystal by writing unit tests
+*   [crystal-koans (⭐41)](https://github.com/ilmanzo/crystal-koans) - Learn Crystal by writing unit tests
 
-## [24. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [23. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Playbooks, Roles and Collections / French
 
-*   [Ansible playbook for Linux machine setup (⭐34)](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook for setting up a self-updating, hardened Debian/Ubuntu machine with Docker daemon.
+*   [Ansible playbook for Linux machine setup (⭐40)](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook for setting up a self-updating, hardened Debian/Ubuntu machine with Docker daemon.
 
-## [25. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
+## [24. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
 
 ### Resources / Packages
 
 *   [web-monetization-electron-app (⭐4)](https://github.com/Jasmin2895/web-monetization-electron-app) - Project demonstrate basic setup to enable web monetization in Electron App. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/electron.png)
 
-## [26. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [25. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### CLI
 
 *   [tra.sh (⭐12)](https://github.com/Indexerrowaty/tra.sh) - tra.sh in your terminal!
 
-## [27. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [26. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -704,11 +698,11 @@
 
 *   [Blog post workflow](https://github.com/marketplace/actions/blog-post-workflow) <sup>[764](https://t.me/s/aboutrss/764)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/gautamkrishnar/blog-post-workflow)
 
-### RSS Feed Finding/Detection / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### RSS Feed Finding/Detection / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Inoreader browser extension](https://www.inoreader.com/blog/2020/08/inoreaders-browser-extension-got-a-big-update-today.html) [![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/rss-reader-extension-by-i/kfimphpokifbjgmjflanmfeppcjimgah)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/rss-reader-extension-inoreader/)[![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)](https://microsoftedge.microsoft.com/addons/detail/rss-reader-extension-by-/lbjfhdjlblncekgomhadnnpampcahhal)
 
-### Tech or IT / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
+### Tech or IT / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [前端开发/互联网数码/各种软件](https://t.me/s/aboutrss/767) by 「RSS 交流群」管理员 [@lengthmin](https://github.com/lengthmin) <sup>[768](https://t.me/s/aboutrss/768)</sup>
 
@@ -736,36 +730,36 @@
 
 *   [wavpub](https://wavpub.com/) <sup>[643](https://t.me/s/aboutrss/643)</sup>
 
-## [28. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
+## [27. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
 ### Bug trackers
 
 *   [Trac (⭐450)](https://github.com/edgewall/trac) - IT project management solution that enables software developers to track and address bugs, tasks, files, wiki pages, and more.
 
-## [29. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [28. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Math
 
-*   [is-even (⭐166)](https://github.com/jonschlinkert/is-even) - A good way to tell if a number is even or not (avoids type issues). Uses `is-odd` and `is-number` under the hood.
-*   [is-odd (⭐228)](https://github.com/jonschlinkert/is-odd) - A good way to tell if a number is odd or not (avoids type issues). Uses `is-number` under the hood.
+*   [is-even (⭐179)](https://github.com/jonschlinkert/is-even) - A good way to tell if a number is even or not (avoids type issues). Uses `is-odd` and `is-number` under the hood.
+*   [is-odd (⭐271)](https://github.com/jonschlinkert/is-odd) - A good way to tell if a number is odd or not (avoids type issues). Uses `is-number` under the hood.
 *   [easy-math.js (⭐7)](https://github.com/kingzez/easy-math.js) - A tiny easy math library including addition, multiplication, subtraction, and division.
 
-## [30. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [29. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Software Development - IDE & Tools
 
-*   [HttPlaceholder (⭐83)](https://github.com/dukeofharen/httplaceholder) - Quickly mock away any webservice using HttPlaceholder. HttPlaceholder lets you specify what the request should look like and what response needs to be returned. `MIT` `C#`
+*   [HttPlaceholder (⭐82)](https://github.com/dukeofharen/httplaceholder) - Quickly mock away any webservice using HttPlaceholder. HttPlaceholder lets you specify what the request should look like and what response needs to be returned. `MIT` `C#`
 
-## [31. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [30. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Image Processing
 
-*   [pywal (⭐7.1k)](https://github.com/dylanaraps/pywal) - A tool that generates color schemes from images.
+*   [pywal (⭐7.3k)](https://github.com/dylanaraps/pywal) - A tool that generates color schemes from images.
 
 ### Penetration Testing
 
-*   [fsociety (⭐8.4k)](https://github.com/Manisso/fsociety) - A Penetration testing framework.
-*   [setoolkit (⭐8.7k)](https://github.com/trustedsec/social-engineer-toolkit) - A toolkit for social engineering.
+*   [fsociety (⭐8.6k)](https://github.com/Manisso/fsociety) - A Penetration testing framework.
+*   [setoolkit (⭐9.1k)](https://github.com/trustedsec/social-engineer-toolkit) - A toolkit for social engineering.
 *   [sqlmap (⭐27k)](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool.
 
 ### Static Site Generator
@@ -779,9 +773,9 @@
     *   [Python Cheatsheet](https://www.pythoncheatsheet.org/)
     *   [Real Python](https://realpython.com)
     *   [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
-    *   [Ultimate Python study guide (⭐4.2k)](https://github.com/huangsam/ultimate-python)
+    *   [Ultimate Python study guide (⭐4.4k)](https://github.com/huangsam/ultimate-python)
 
-## [32. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
+## [31. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 
 ### Training Materials and Sample Code / Multi-accounts setup
 
@@ -793,26 +787,26 @@
 *   [Infrastructure is Code with the AWS CDK](https://youtu.be/ZWCvNFUN-sU) - AWS Tech Talk Webinar.
 *   [Coding the Jamstack missing parts: databases, crons & background jobs](https://dev.to/vvo/coding-the-jamstack-missing-parts-databases-crons-background-jobs-1bpj) - By Vincent Voyer.
 
-## [33. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
+## [32. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### GitHub
 
-*   [github-stats-box (⭐94)](https://github.com/bokub/github-stats-box) - Update a pinned gist to contain your GitHub statistics.
+*   [github-stats-box (⭐105)](https://github.com/bokub/github-stats-box) - Update a pinned gist to contain your GitHub statistics.
 
-## [34. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [33. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Menu Bar Tools
 
 *   [MeetingBar](https://meetingbar.onrender.com) - Menu bar app for your calendar meetings  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/leits/MeetingBar)
 
-## [35. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [34. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
-### APIs, Data and ML
+### APIs, Data, and ML
 
 *   [Invantive Cloud](https://cloud.invantive.com/) — Access over 70 (cloud)platforms such as Exact Online, Twinfield, ActiveCampaign or Visma using Invantive SQL or OData4 (typically Power BI or Power Query). Includes data replication and exchange. Free plan for developers and implementation consultants. Free for specific platforms with limitations in data volumes.
-*   [ScraperBox](https://scraperbox.com/) — Undetectable web scraping API using real Chrome browsers and proxy rotation. Use a simple API call to scrape any web page. Free plan has 1000 requests per month.
+*   [ScraperBox](https://scraperbox.com/) — Undetectable web scraping API using real Chrome browsers and proxy rotation. Use a simple API call to scrape any web page. The free plan has 1000 requests per month.
 
-## [36. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
+## [35. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
 ### Topic Areas / Viz
 
@@ -826,7 +820,7 @@
 
 *   Your contributions are always welcome! Please visit our [contributing.md (⭐431)](https://github.com/iamericfletcher/r-learning-resources/blob/main/contributing.md) to learn how to contribute to this list.
 
-## [37. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [36. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Type Theory and Mathematics
 
@@ -840,79 +834,79 @@
 
 *   [MIT PLV blog posts on Coq](https://plv.csail.mit.edu/blog/category/coq.html)
 
-## [38. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [37. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### SQL-like processing
 
 *   [Invantive SQL](https://documentation.invantive.com/2017R2/invantive-sql-grammar/invantive-sql-grammar-17.30.html) - SQL engine for online and on-premise use with integrated local data replication and 70+ connectors.
 
-## [39. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [38. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Malware Collection / Malware Corpora
 
 *   [VX Underground](http://vx-underground.org/) - Massive and growing collection of free malware samples.
 
-## [40. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [39. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
-*   [Next.js and Netlify Blogging Template (⭐384)](https://github.com/wutali/nextjs-netlify-blog-template) - A perfect boilerplate for building a blog website on Netlify stacks with standard features like tagging, CMS, and shortcodes.
+*   [Next.js and Netlify Blogging Template (⭐405)](https://github.com/wutali/nextjs-netlify-blog-template) - A perfect boilerplate for building a blog website on Netlify stacks with standard features like tagging, CMS, and shortcodes.
 
-## [41. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [40. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Component Libraries
 
-*   [Smart Web Components (⭐330)](https://github.com/HTMLElements/smart-webcomponents) - Web components for business applications.
+*   [Smart Web Components (⭐391)](https://github.com/HTMLElements/smart-webcomponents) - Web components for business applications.
 
 ### Tools
 
-*   [Custom Elements Locator (⭐36)](https://github.com/open-wc/locator) - Chrome extension to find custom elements on a page.
+*   [Custom Elements Locator (⭐38)](https://github.com/open-wc/locator) - Chrome extension to find custom elements on a page.
 *   [@storybook/web-components](https://www.npmjs.com/package/@storybook/web-components) - UI development environment for plain web-component snippets.
 
-## [42. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [41. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Blog Posts & Tutorials
 
 *   [Using H2O AutoML to simplify training process (and also predict wine quality)](https://enjoymachinelearning.com/posts/h2o-auto-machine-learning/) Aug 4, 2020
 
-## [43. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+## [42. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
 ### Tools / Dolby
 
 *   [IENT/YUView (⭐1.4k)](https://github.com/IENT/YUView)  - YUView is a QT based, cross-platform YUV player with an advanced analytic toolset.
 
-## [44. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
+## [43. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
 
 ### Blog posts
 
 *   [Setting up Storybook for Preact](https://www.iamdeveloper.com/posts/setting-up-storybook-for-preact-p5a/) - A handy guide allowing us to add storybook easily on a Preact project.
 
-## [45. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [44. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / Apps
 
 *   [Pokedex (⭐6.1k)](https://github.com/skydoves/Pokedex) - Android Pokedex using Dagger, Hilt, Motion, Coroutines, Flow, and Jetpack.
 
-## [46. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [45. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Computer Vision
 
-*   [Scikit-Opt (⭐4k)](https://github.com/guofei9987/scikit-opt) - Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm in Python)
-*   [Deep High-Resolution-Net (⭐4k)](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) - A PyTorch implementation of CVPR2019 paper "Deep High-Resolution Representation Learning for Human Pose Estimation"
-*   [dream-creator (⭐59)](https://github.com/ProGamerGov/dream-creator) - A PyTorch implementation of DeepDream. Allows individuals to quickly and easily train their own custom GoogleNet models with custom datasets for DeepDream.
-*   [Lucent (⭐537)](https://github.com/greentfrapp/lucent) - Tensorflow and OpenAI Clarity's Lucid adapted for PyTorch.
+*   [Scikit-Opt (⭐4.4k)](https://github.com/guofei9987/scikit-opt) - Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm in Python)
+*   [Deep High-Resolution-Net (⭐4.1k)](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) - A PyTorch implementation of CVPR2019 paper "Deep High-Resolution Representation Learning for Human Pose Estimation"
+*   [dream-creator (⭐60)](https://github.com/ProGamerGov/dream-creator) - A PyTorch implementation of DeepDream. Allows individuals to quickly and easily train their own custom GoogleNet models with custom datasets for DeepDream.
+*   [Lucent (⭐553)](https://github.com/greentfrapp/lucent) - Tensorflow and OpenAI Clarity's Lucid adapted for PyTorch.
 
 ### Python / Reinforcement Learning
 
 *   [Spinning Up](https://spinningup.openai.com) - An educational resource designed to let anyone learn to become a skilled practitioner in deep reinforcement learning
 
-## [47. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [46. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Other
 
 *   [Floating point number](https://floating-point-gui.de/formats/fp/) - This representation can encode numbers at very different magnitudes with limited amount of digits by letting the radix point *float* instead of being fixed in place.
 
-## [48. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [47. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Videos
 
@@ -920,15 +914,15 @@
 
 ### UI
 
-*   [Dough (⭐530)](https://github.com/HatFeather/flutter_dough) <!--stargazers:HatFeather/flutter_dough--> - Widgets for a squishy user interface by [Josiah Saunders](https://github.com/HatFeather).
+*   [Dough (⭐595)](https://github.com/HatFeather/flutter_dough) <!--stargazers:HatFeather/flutter_dough--> - Widgets for a squishy user interface by [Josiah Saunders](https://github.com/HatFeather).
 
-## [49. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [48. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
 *   [garn-validator (⭐41)](https://github.com/jupegarnica/garn-validator) - Create validations with ease.
 
-## [50. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [49. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Development
 
@@ -972,7 +966,7 @@
 
 
 
-## [51. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [50. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Streaming Sites / Anime
 
@@ -982,25 +976,25 @@
 
 *   [/r/deemix](https://www.reddit.com/r/deemix) Community supporting Deemix
 
-## [52. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [51. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
-### Components / MIT
+### Components / Apache License
 
 *   [simple-components](http://www.dmitry-kazakov.de/ada/components.htm) - ASN.1, MQTT client and server/broker implementation, B-trees, Multiple connection TCP servers, Chebyshev series, Mutexes, Cryptography, Objects and handles to, Doubly-linked webs and lists, ODBC bindings, Blackboards (lock-free), OpenSSL bindings, ELV/eQ-3 MAX! client implementation, Parsers, Events (plain, pulse, array of), Persistent objects and handles to, GNUTLS bindings, Persistent storage and handles to, Graphs (directed, weighted, acyclic, trees), Pools, HTTP implementation, Sets and maps, FIFO (lock-free), SMTP client implementation, IEEE 754, SQLite bindings, Inter-process communication, Stacks, Interfacing Julia language, Streams, JSON, Strings editing, LDAP, Tables (maps of strings), MODBUS client implementation, Unbounded arrays.
 
-## [53. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
+## [52. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
 ### AppImage developer tools / Continuous integration
 
 *   [Link to the latest build artifact on GitLab CI](https://gitlab.com/linuxappimage/element-desktop/-/jobs/artifacts/master/raw/Element.AppImage?job=run-build) - Example of how to directly link to the latest build artifact on GitLab CI (can be tricky).
 
-## [54. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [53. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Endpoint / Mobile / Android / iOS
 
-*   [hardened\_malloc (⭐948)](https://github.com/GrapheneOS/hardened_malloc) - Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms. It will gain more portability / integration over time.
+*   [hardened\_malloc (⭐1k)](https://github.com/GrapheneOS/hardened_malloc) - Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms. It will gain more portability / integration over time.
 *   [AMExtractor (⭐10)](https://github.com/ir193/AMExtractor) - AMExtractor can dump out the physical content of your Android device even without kernel source code.
-*   [frida (⭐12k)](https://github.com/frida/frida) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
+*   [frida (⭐13k)](https://github.com/frida/frida) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 
 ### Endpoint / Forensics
 
@@ -1009,7 +1003,7 @@
 ### DevOps / Development
 
 *   [Securing DevOps](https://manning.com/books/securing-devops) - A book on Security techniques for DevOps that reviews state of the art practices used in securing web applications and their infrastructure.
-*   [ansible-os-hardening (⭐3.2k)](https://github.com/dev-sec/ansible-os-hardening) - Ansible role for OS hardening
+*   [ansible-os-hardening (⭐3.4k)](https://github.com/dev-sec/ansible-os-hardening) - Ansible role for OS hardening
 
 ### Operating Systems / Privacy & Security
 
@@ -1020,7 +1014,7 @@
 
 *   [Hardening Windows 10](https://www.hardenwindows10forsecurity.com/) - Guide for hardening Windows 10
 
-## [55. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [54. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Ethics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -1061,21 +1055,21 @@
 
 *   [Awesome Alternatives](https://gitlab.com/linuxcafefederation/awesome-alternatives) - A curated list of (F)OSS / Federated alternatives to proprietary software and services.
 
-## [56. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [55. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### API Builder and Discovery
 
-*   [Blueprinter (⭐944)](https://github.com/procore/blueprinter) - Simple, Fast, and Declarative Serialization Library for Ruby.
+*   [Blueprinter (⭐989)](https://github.com/procore/blueprinter) - Simple, Fast, and Declarative Serialization Library for Ruby.
 
 ### GUI
 
-*   [Glimmer (⭐341)](https://github.com/AndyObtiva/glimmer) - Ruby DSL for SWT
+*   [Glimmer (⭐406)](https://github.com/AndyObtiva/glimmer) - Ruby DSL for SWT
 
 ### Web Crawling
 
-*   [Kimurai (⭐967)](https://github.com/vifreefly/kimuraframework) - A modern web scraping framework written in Ruby which works out of box with Headless Chromium/Firefox, PhantomJS, or simple HTTP requests and allows to scrape and interact with JavaScript rendered websites.
+*   [Kimurai (⭐984)](https://github.com/vifreefly/kimuraframework) - A modern web scraping framework written in Ruby which works out of box with Headless Chromium/Firefox, PhantomJS, or simple HTTP requests and allows to scrape and interact with JavaScript rendered websites.
 
-## [57. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [56. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2016
 
@@ -1085,7 +1079,7 @@
 
 *   [Anjana Vakil: **Immutable data structures for functional JS**](https://www.youtube.com/watch?v=Wo0qiGPSV-s) \[26:32]
 
-## [58. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [57. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Graph databases
 
@@ -1093,15 +1087,15 @@
 
 ### Mobile
 
-*   [cl-json-pointer (⭐9)](https://github.com/y2q-actionman/cl-json-pointer) - A JSON Pointer implementation. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-json-pointer (⭐10)](https://github.com/y2q-actionman/cl-json-pointer) - A JSON Pointer implementation. [MIT](https://opensource.org/licenses/MIT).
 
-## [59. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [58. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
 *   [Around IT In 256 Seconds](https://256.nurkiewicz.com/) - Podcast for developers, testers, SREs… and their managers. I explain complex and convoluted technologies in a clear way, avoiding buzzwords and hype. Never longer than 4 minutes and 16 seconds.
 
-## [60. Awesome Tall Stack](/content/livewire/awesome-tall-stack/week/README.md)
+## [59. Awesome Tall Stack](/content/livewire/awesome-tall-stack/week/README.md)
 
 ### Libraries
 
@@ -1118,20 +1112,20 @@
 *   ✍️ [Building complex forms with Laravel Livewire in Oh Dear](https://freek.dev/1609-building-complex-forms-with-laravel-livewire-in-oh-dear)
 *   ✍️ [Embracing The Tall Stack with Event Sourcing, an adventure into the unknown](https://www.juststeveking.uk/embracing-the-tall-stack-with-event-sourcing-an-adventure-into-the-unknown/)
 
-## [61. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [60. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Media / Navigation Demos
 
 *   [react-native-audio ★798 (⭐1.1k)](https://github.com/jsierles/react-native-audio) - Record and play back audio in your iOS or Android React Native apps. (no longer maintained)
 *   [react-native-audio-toolkit ★764 (⭐978)](https://github.com/react-native-community/react-native-audio-toolkit) - Audio playback and recording for react-native. In addition to basic functionality, many useful features are implemented such as seeking, looping and streaming audio files over the network.
 
-## [62. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [61. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Development Environment / Debugging and Tracing
 
 *   [hotspot (⭐3.2k)](https://github.com/KDAB/hotspot) - The Linux perf GUI for performance analysis.
 
-## [63. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [62. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
@@ -1139,15 +1133,15 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Pathfinding Visualizer ThreeJS (⭐383)](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS) - A visualizer for pathfinding algorithms in 3D with maze generation and first-person view
+*   [Pathfinding Visualizer ThreeJS (⭐405)](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS) - A visualizer for pathfinding algorithms in 3D with maze generation and first-person view
 
 ### Components & Libraries / UI Components
 
-*   [vuetify-toast-snackbar (⭐126)](https://github.com/eolant/vuetify-toast-snackbar) - Vue.JS toast service with queue support that uses Vuetify's "Snackbar" component.
+*   [vuetify-toast-snackbar (⭐128)](https://github.com/eolant/vuetify-toast-snackbar) - Vue.JS toast service with queue support that uses Vuetify's "Snackbar" component.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-component-media-queries (⭐74)](https://github.com/CyberAP/vue-component-media-queries) - MatchMedia component library for Vue.
+*   [vue-component-media-queries (⭐73)](https://github.com/CyberAP/vue-component-media-queries) - MatchMedia component library for Vue.
 
 ### Components & Libraries / Utilities
 
@@ -1157,11 +1151,11 @@
 
 *   [vue-tut (⭐45)](https://github.com/evwt/vue-tut) - Easily build beautiful tutorials with Vue.
 
-## [64. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [63. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
-*   [DevAndDev (⭐39)](https://github.com/alepez/devand) - A website where developers can find pair-programming partners. Written in Rust, Yew frontend.
+*   [DevAndDev (⭐40)](https://github.com/alepez/devand) - A website where developers can find pair-programming partners. Written in Rust, Yew frontend.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Hardware
 
-*   [Bus Tracking GPS (⭐26)](https://github.com/herrdragon/busTrackingGps) - Code for Miami prototype of a cheap open-source solution to track transit buses.
+*   [Bus Tracking GPS (⭐27)](https://github.com/herrdragon/busTrackingGps) - Code for Miami prototype of a cheap open-source solution to track transit buses.
 
 ## [2. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 
@@ -26,7 +26,7 @@
 
 ### C / General-Purpose Machine Learning
 
-*   [Darknet (⭐24k)](https://github.com/pjreddie/darknet) - Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
+*   [Darknet (⭐25k)](https://github.com/pjreddie/darknet) - Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
 
 ## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Networking
 
-*   [chatter (⭐27)](https://github.com/dbeck/chatter_ex) - Secure message broadcasting based on a mixture of UDP multicast and TCP.
+*   [chatter (⭐28)](https://github.com/dbeck/chatter_ex) - Secure message broadcasting based on a mixture of UDP multicast and TCP.
 
 ## [5. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 

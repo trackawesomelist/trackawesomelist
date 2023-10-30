@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 18, 2017
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -26,23 +26,13 @@
     Parse CSS,SCSS, LESS and add vendor prefixes automatically.
     ![Autoprefixer](https://cloud.githubusercontent.com/assets/7034281/16823311/da82a3c6-496b-11e6-8d95-0bebbf0b9607.gif)
 
-## [4. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
-
-### iOS / Spock Framework
-
-*   [iOSアプリケーション プログラミングガイド](https://developer.apple.com/jp/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html) - Apple Developer (PDF)
-
-### Objective-C / Svelte
-
-*   [Objective-C プログラミング言語](https://developer.apple.com/jp/documentation/ProgrammingWithObjectiveC.pdf) - Apple Developer (PDF)
-
-## [5. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [4. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### User Groups / Ruby
 
 *   [Norway](https://www.meetup.com/dddnorway/)
 
-## [6. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+## [5. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ### Other useful repositories
 
@@ -52,7 +42,7 @@
 
 
 
-## [7. Colorful](/content/Siddharth11/Colorful/README.md)
+## [6. Colorful](/content/Siddharth11/Colorful/README.md)
 
 ### Color Palettes / Web App
 

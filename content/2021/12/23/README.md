@@ -61,13 +61,13 @@
 
 ### Python / Risk Analysis
 
-*   [Riskfolio-Lib (⭐2k)](https://github.com/dcajasn/Riskfolio-Lib) - Portfolio Optimization and Quantitative Strategic Asset Allocation in Python.
+*   [Riskfolio-Lib (⭐2.3k)](https://github.com/dcajasn/Riskfolio-Lib) - Portfolio Optimization and Quantitative Strategic Asset Allocation in Python.
 
 ## [5. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Overlays / Webinterface
 
-*   [nixpkgs-wayland (⭐337)](https://github.com/nix-community/nixpkgs-wayland) - Bleeding-edge Wayland packages.
+*   [nixpkgs-wayland (⭐398)](https://github.com/nix-community/nixpkgs-wayland) - Bleeding-edge Wayland packages.
 
 ## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

@@ -10,13 +10,13 @@
 
 ### Libraries / New Libraries
 
-*   [JAXFit (⭐18)](https://github.com/dipolar-quantum-gases/jaxfit) - Accelerated curve fitting library for nonlinear least-squares problems (see [arXiv paper](https://arxiv.org/abs/2208.12187)). <img src="https://img.shields.io/github/stars/dipolar-quantum-gases/jaxfit?style=social" align="center">
+*   [JAXFit (⭐33)](https://github.com/dipolar-quantum-gases/jaxfit) - Accelerated curve fitting library for nonlinear least-squares problems (see [arXiv paper](https://arxiv.org/abs/2208.12187)). <img src="https://img.shields.io/github/stars/dipolar-quantum-gases/jaxfit?style=social" align="center">
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Database Schema Migration
 
-*   [bytebase (⭐5.6k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
+*   [bytebase (⭐7.3k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
 
 ## [3. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
@@ -46,27 +46,27 @@
 
 ### Tools / Misc
 
-*   [MLEM (⭐658)](https://github.com/iterative/mlem) - Version and deploy your ML models following GitOps principles
+*   [MLEM (⭐703)](https://github.com/iterative/mlem) - Version and deploy your ML models following GitOps principles
 
 ## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Async processing
 
-*   [goose (⭐182)](https://github.com/nilenso/goose)
+*   [goose (⭐191)](https://github.com/nilenso/goose)
 
 ### Graphviz
 
-*   [re-frame-flow (⭐137)](https://github.com/ertugrulcetin/re-frame-flow) - Graph based visualization tool for re-frame event chains (ClojureScript)
+*   [re-frame-flow (⭐138)](https://github.com/ertugrulcetin/re-frame-flow) - Graph based visualization tool for re-frame event chains (ClojureScript)
 
 ## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
-*   [.NET MAUI & Blazor - Sharing code between app and web](https://www.youtube.com/watch?v=A_C8X-b2qXE) - September 2, 2022 - In this video, Daniel will show you how to create a project for .NET MAUI and Blazor and how to structure the code so it can be shared between the app and the web. ![GitHub stars](https://img.shields.io/github/stars/dhindrik/MauiBlazorHybridDemo?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dhindrik/MauiBlazorHybridDemo?style=flat-square\&cacheSeconds=86400) [Source code (⭐4)](https://github.com/dhindrik/MauiBlazorHybridDemo).
+*   [.NET MAUI & Blazor - Sharing code between app and web](https://www.youtube.com/watch?v=A_C8X-b2qXE) - September 2, 2022 - In this video, Daniel will show you how to create a project for .NET MAUI and Blazor and how to structure the code so it can be shared between the app and the web. ![GitHub stars](https://img.shields.io/github/stars/dhindrik/MauiBlazorHybridDemo?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dhindrik/MauiBlazorHybridDemo?style=flat-square\&cacheSeconds=86400) [Source code (⭐5)](https://github.com/dhindrik/MauiBlazorHybridDemo).
 
 ## [8. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Business/Finance / Angular
+### Business/Finance / Svelte
 
 *   [Unvalidated Ideas](https://unvalidatedideas.com). Fresh startup and SaaS ideas that you can take out and market validate every week.
 
@@ -74,15 +74,15 @@
 
 ### Third-Party Packages / Admin
 
-*   [django-admin-sortable2 (⭐610)](https://github.com/jrief/django-admin-sortable2) - Generic drag-and-drop ordering for objects in the Django admin interface.
+*   [django-admin-sortable2 (⭐663)](https://github.com/jrief/django-admin-sortable2) - Generic drag-and-drop ordering for objects in the Django admin interface.
 
 ### Third-Party Packages / Forms
 
-*   [django-bleach (⭐122)](https://github.com/marksweb/django-bleach/) - Integrate bleach into forms and models.
+*   [django-bleach (⭐131)](https://github.com/marksweb/django-bleach/) - Integrate bleach into forms and models.
 
 ### Third-Party Packages / Model Fields
 
-*   [django-streamfield (⭐95)](https://github.com/raagin/django-streamfield) - Simple StreamField for plain Django admin (based on Wagtail CMS StreamField idea).
+*   [django-streamfield (⭐101)](https://github.com/raagin/django-streamfield) - Simple StreamField for plain Django admin (based on Wagtail CMS StreamField idea).
 
 ---
 
